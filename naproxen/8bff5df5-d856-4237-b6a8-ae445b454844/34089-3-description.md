@@ -5,8 +5,8 @@ Naproxen is a proprionic acid derivative related to the arylacetic acid group of
 The chemical names for naproxen and naproxen sodium are (S)-6-methoxy-α-methyl-2-naphthaleneacetic acid and (S)-6-methoxy-α-methyl-2-naphthaleneacetic acid, sodium salt, respectively.
 Naproxen and naproxen sodium have the following structures, respectively:
 
-Naproxen has a molecular weight of 230.26 and a molecular formula of C14H14O3.
-Naproxen sodium has a molecular weight of 252.23 and a molecular formula of C14H13NaO3.
+Naproxen has a molecular weight of 230.26 and a molecular formula of C 14H 14O 3.
+Naproxen sodium has a molecular weight of 252.23 and a molecular formula of C 14H 13NaO 3.
 
 Naproxen is an odorless, white to off-white crystalline substance.
 It is lipid-soluble, practically insoluble in water at low pH and freely soluble in water at high pH.

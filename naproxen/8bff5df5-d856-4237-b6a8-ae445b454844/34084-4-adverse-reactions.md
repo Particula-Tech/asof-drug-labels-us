@@ -36,50 +36,49 @@ Those adverse reactions observed through postmarketing reports are italicized.
 
 Body as a Whole: anaphylactoid reactions, angioneurotic edema, menstrual disorders, pyrexia (chills and fever)
 
-Cardiovascular: congestive heart failure, vasculitis, hypertension, pulmonary edema
+Cardiovascular:congestive heart failure,vasculitis, hypertension, pulmonary edema
 
-Gastrointestinal: inflammation, bleeding (sometimes fatal, particularly in the elderly), ulceration, perforation and obstruction of the upper or lower gastrointestinal tract.
-Esophagitis, stomatitis, hematemesis, pancreatitis, vomiting, colitis, exacerbation of inflammatory bowel disease (ulcerative colitis, Crohn’s disease).
+Gastrointestinal:inflammation, bleeding (sometimes fatal, particularly in the elderly), ulceration, perforation and obstruction of the upper or lower gastrointestinal tract.Esophagitis, stomatitis,hematemesis, pancreatitis, vomiting, colitis, exacerbation of inflammatory bowel disease (ulcerative colitis, Crohn’s disease).
 
 Hepatobiliary: jaundice, abnormal liver function tests, hepatitis (some cases have been fatal)
 
-Hemic and Lymphatic: eosinophilia, leucopenia, melena, thrombocytopenia, agranulocytosis, granulocytopenia, hemolytic anemia, aplastic anemia
+Hemic and Lymphatic:eosinophilia, leucopenia, melena, thrombocytopenia, agranulocytosis, granulocytopenia, hemolytic anemia, aplastic anemia
 
-Metabolic and Nutritional: hyperglycemia, hypoglycemia
+Metabolic and Nutritional:hyperglycemia, hypoglycemia
 
-Nervous System: inability to concentrate, depression, dream abnormalities, insomnia, malaise, myalgia, muscle weakness, aseptic meningitis, cognitive dysfunction, convulsions
+Nervous System:inability to concentrate, depression, dream abnormalities, insomnia, malaise,myalgia, muscle weakness,aseptic meningitis, cognitive dysfunction, convulsions
 
-Respiratory: eosinophilic pneumonitis, asthma
+Respiratory:eosinophilic pneumonitis, asthma
 
-Dermatologic: alopecia, urticaria, skin rashes, toxic epidermal necrolysis, erythema multiforme, erythema nodosum, fixed drug eruption, lichen planus, pustular reaction, systemic lupus erythematoses, bullous reactions, including Stevens-Johnson syndrome, photosensitive dermatitis, photosensitivity reactions, including rare cases resembling porphyria cutanea tarda (pseudoporphyria) or epidermolysis bullosa.
+Dermatologic: alopecia, urticaria, skin rashes, toxic epidermal necrolysis, erythema multiforme,erythema nodosum, fixed drug eruption, lichen planus, pustular reaction, systemic lupus erythematoses, bullous reactions, including Stevens-Johnson syndrome, photosensitive dermatitis,photosensitivity reactions, including rare cases resembling porphyria cutanea tarda (pseudoporphyria) or epidermolysis bullosa.
 If skin fragility, blistering or other symptoms suggestive of pseudoporphyria occur, treatment should be discontinued and the patient monitored.
 
-Special Senses: hearing impairment, corneal opacity, papillitis, retrobulbar optic neuritis, papilledema
+Special Senses:hearing impairment, corneal opacity, papillitis, retrobulbar optic neuritis, papilledema
 
-Urogenital: glomerular nephritis, hematuria, hyperkalemia, interstitial nephritis, nephrotic syndrome, renal disease, renal failure, renal papillary necrosis, raised serum creatinine
+Urogenital:glomerular nephritis, hematuria, hyperkalemia, interstitial nephritis, nephrotic syndrome, renal disease, renal failure, renal papillary necrosis, raised serum creatinine
 
 Reproduction (female): infertility
 
 In patients taking NSAIDs, the following adverse experiences have also been reported in <1% of patients.
 
-Body as a Whole: fever, infection, sepsis, anaphylactic reactions, appetite changes, death
+Body as a Whole:fever, infection, sepsis, anaphylactic reactions, appetite changes, death
 
-Cardiovascular: hypertension, tachycardia, syncope, arrhythmia, hypotension, myocardial infarction
+Cardiovascular:hypertension, tachycardia, syncope, arrhythmia, hypotension, myocardial infarction
 
-Gastrointestinal: dry mouth, esophagitis, gastric/peptic ulcers, gastritis, glossitis, eructation
+Gastrointestinal:dry mouth, esophagitis, gastric/peptic ulcers, gastritis, glossitis, eructation
 
 Hepatobiliary: hepatitis, liver failure
 
-Hemic and Lymphatic: rectal bleeding, lymphadenopathy, pancytopenia
+Hemic and Lymphatic:rectal bleeding, lymphadenopathy, pancytopenia
 
-Metabolic and Nutritional: weight changes
+Metabolic and Nutritional:weight changes
 
-Nervous System: anxiety, asthenia, confusion, nervousness, paresthesia, somnolence, tremors, convulsions, coma, hallucinations
+Nervous System:anxiety, asthenia, confusion, nervousness, paresthesia, somnolence, tremors, convulsions, coma, hallucinations
 
-Respiratory: asthma, respiratory depression, pneumonia
+Respiratory:asthma, respiratory depression, pneumonia
 
 Dermatologic: exfoliative dermatitis
 
-Special Senses: blurred vision, conjunctivitis
+Special Senses:blurred vision, conjunctivitis
 
-Urogenital: cystitis, dysuria, oliguria/polyuria, proteinuria
+Urogenital:cystitis, dysuria, oliguria/polyuria, proteinuria
