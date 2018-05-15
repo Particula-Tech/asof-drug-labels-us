@@ -85,6 +85,7 @@ Olanzapine orally disintegrating tabletsare prescription medicine used to treat:
 - long-term treatment of bipolar I disorder in adults.
 
 - episodes of depression that happen with bipolar I disorder, when used with the medicine fluoxetine (Prozac®), in people age 10 or older.
+- episodes of depression that do not get better after 2 other medicines, also called treatment resistant depression, when used with the medicine fluoxetine (Prozac), in adults.
 
 Olanzapine orally disintegrating tablets have not been approved for use in children under 13 years of age.
 Olanzapine in combination with fluoxetine has not been approved for use in children under 10 years of age.
@@ -92,6 +93,8 @@ Olanzapine in combination with fluoxetine has not been approved for use in child
 The symptoms of schizophrenia include hearing voices, seeing things that are not there, having beliefs that are not true, and being suspicious or withdrawn.
 
 The symptoms of Bipolar I Disorder include alternating periods of depression and high or irritable mood, increased activity and restlessness, racing thoughts, talking fast, impulsive behavior, and a decreased need for sleep.
+
+The symptoms of treatment resistant depression include decreased mood, decreased interest, increased guilty feelings, decreased energy, decreased concentration, changes in appetite, and suicidal thoughts or behavior.
 
 Some of your symptoms may improve with treatment.
 If you do not think you are getting better, call your doctor.
@@ -119,7 +122,7 @@ Before starting olanzapine orally disintegrating tablets, tell your doctor if yo
 - are pregnant or plan to become pregnant.
   It is not known if olanzapine orally disintegrating tablets will harm your unborn baby.
 - are breast-feeding or plan to breast-feed.
-  Olanzapine orally disintegrating tablets can pass into your breast milk and may harm your baby.
+  Olanzapine can pass into your breast milk and may harm your baby.
   You should not breast-feed while taking olanzapine orally disintegrating tablets.
   Talk to your doctor about the best way to feed your baby if you take olanzapine orally disintegratingtablets.
 
@@ -142,7 +145,7 @@ Do not start or stop any medicine while taking olanzapine orally disintegrating 
   Do not take two doses of olanzapine orally disintegrating tablets at the same time.
 - To prevent serious side effects, do not stop taking olanzapine orally disintegrating tablets suddenly.
   If you need to stop taking olanzapinetablets, your doctor can tell you how to safely stop taking it.
-- If you take too much olanzapineorally disintegratingtablets, call your doctor or poison control center right away, or get emergency treatment.
+- If you take too much olanzapineorally disintegratingtablets, call your doctor or poison control center at 1-800-222-1222 right away, or get emergency treatment.
 - Olanzapine orally disintegrating tablets can be taken with or without food.
 - Olanzapine orally disintegrating tablets are usually taken one time each day.
 - Take olanzapine orally disintegrating tablets as follows:
@@ -242,6 +245,6 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally - 500 090 INDIA
 
-Revised: 0317
+Revised: 0518
 
 Dispense with Medication Guide available at:www.drreddys.com/medguide/olanzapineodtabs.pdf
