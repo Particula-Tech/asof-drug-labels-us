@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA209373"
+  ],
+  "inn": "phytonadione",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "69238-1051-1",
+    "69238-1051-3"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "phytonadione",
+      "name": "Phytonadione"
+    }
+  ],
+  "setid": "54c1c1df-0e65-4da8-9023-6cbaa0f5bd0d",
+  "source": "dailymed"
+}
