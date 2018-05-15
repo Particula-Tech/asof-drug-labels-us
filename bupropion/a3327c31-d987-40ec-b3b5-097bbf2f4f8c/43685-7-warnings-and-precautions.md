@@ -45,7 +45,8 @@ Although a causal link between the emergence of such symptoms and either the wor
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
 
 Families and caregivers of patients being treated with antidepressants for MDD or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to healthcare providers.
-Such monitoring should include daily observation by families and caregivers.Prescriptions for ZYBAN should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
+Such monitoring should include daily observation by families and caregivers.
+Prescriptions for ZYBAN should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 
 ## 5.2 Neuropsychiatric Adverse Events and Suicide Risk in Smoking Cessation Treatment
 

@@ -2,7 +2,7 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0556-01
 
-ZYBAN®
+ZYBAN
 
 (bupropion HCl)
 
@@ -34,5 +34,5 @@ RTP, NC 27709
 
 Made in Germany
 
-1. 10000000142522 Rev.
-   8/16
+1. 10000000148491 Rev.
+   12/17
