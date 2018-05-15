@@ -47,9 +47,7 @@ Preliminary studies indicate that the concomitant use of dobutamine and nitropru
 
 Carcinogenesis, Mutagenesis, Impairment of Fertility: Studies to evaluate the carcinogenic or mutagenic potential of dobutamine or the potential of the drug to affect fertility adversely have not been performed.
 
-Pregnancy
-
-Pregnancy Category B: Reproduction studies performed in rats and rabbits have revealed no evidence of harm to the fetus due to dobutamine.
+Pregnancy: Reproduction studies performed in rats and rabbits have revealed no evidence of harm to the fetus due to dobutamine.
 The drug, however, has not been administered to pregnant women and should be used only when the expected benefits clearly outweigh the potential risks to the fetus.
 
 Pediatric Use: Dobutamine has been shown to increase cardiac output and systemic pressure in pediatric patients of every age group.
