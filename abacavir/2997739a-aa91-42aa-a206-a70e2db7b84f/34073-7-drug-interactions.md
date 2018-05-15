@@ -34,7 +34,7 @@ Darunavir/ritonavir, lopinavir/ritonavir, rilpivirine, tenofovir, boceprevir, da
 
 There were no drug-drug interaction trials conducted with the abacavir, dolutegravir, and lamivudine fixed-dose combination tablets.
 
-Information regarding potential drug interactions with dolutegravir (Table 5) and abacavir are provided below.
+Information regarding potential drug interactions with the individual components of TRIUMEQ are provided below.
 These recommendations are based on either drug interaction trials or predicted interactions due to the expected magnitude of interaction and potential for serious adverse events or loss of efficacy.
 [See Contraindications (4), Clinical Pharmacology (12.3).]
 
@@ -52,7 +52,7 @@ Established and Other Potentially Significant Drug Interactions for Dolutegravir
 | Other Agents |  |  |
 | Carbamazepinea | ↓Dolutegravir | Adjust dolutegravir dose to 50 mg twice daily. An additional dolutegravir 50-mg dose should be taken, separated by 12 hours from TRIUMEQ. |
 | Oxcarbazepine Phenytoin Phenobarbital St. John’s wort (Hypericum perforatum) | ↓Dolutegravir | Avoid coadministration with TRIUMEQ because there are insufficient data to make dosing recommendations. |
-| Medications containing polyvalent cations (e.g., Mg or Al):Cation-containing antacidsa or laxatives Sucralfate Buffered medications | ↓Dolutegravir | Administer TRIUMEQ 2 hours before or 6 hours after taking medications containing polyvalent cations. |
+| Medications containing polyvalent cations (e.g., Mg or Al):Cation-containing antacidsa or laxatives SucralfateBuffered medications | ↓Dolutegravir | Administer TRIUMEQ 2 hours before or 6 hours after taking medications containing polyvalent cations. |
 | Oral calcium and iron supplements, including multivitamins containing calcium or irona | ↓Dolutegravir | Administer TRIUMEQ 2 hours before or 6 hours after taking supplements containing calcium or iron. Alternatively, TRIUMEQ and supplements containing calcium or iron can be taken together with food. |
 | Metformina | ↑Metformin | With concomitant use, limit the total daily dose of metformin to 1,000 mg either when starting metformin or TRIUMEQ. When stopping TRIUMEQ, the metformin dose may require an adjustment. Monitoring of blood glucose when initiating concomitant use and after withdrawal of TRIUMEQ is recommended. |
 | Rifampina | ↓Dolutegravir | Adjust dolutegravir dose to 50 mg twice daily. An additional 50-mg dose of dolutegravir should be taken, separated by 12 hours from TRIUMEQ. |
@@ -63,3 +63,8 @@ Methadone
 
 Abacavir: In a trial of 11 HIV-1-infected subjects receiving methadone-maintenance therapy with 600 mg of abacavir twice daily (twice the currently recommended dose), oral methadone clearance increased [see Clinical Pharmacology (12.3)].
 This alteration will not result in a methadone dose modification in the majority of patients; however, an increased methadone dose may be required in a small number of patients.
+
+Sorbitol
+
+Lamivudine: Coadministration of single doses of lamivudine and sorbitol resulted in a sorbitol dose-dependent reduction in lamivudine exposures.
+When possible, avoid use of sorbitol-containing medicines with lamivudine-containing medicines [see Clinical Pharmacology (12.3)].

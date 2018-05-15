@@ -23,19 +23,19 @@ Inform patients:
 - •to not restart TRIUMEQ or any other abacavir‑containing product without medical consultation and only if medical care can be readily accessed by the patient or others.
 - •to not restart TRIUMEQ or any other dolutegravir-containing product following a hypersensitivity reaction to TRIUMEQ.
 
-Lactic Acidosis/Hepatomegaly
-
-Inform patients that some HIV medicines, including TRIUMEQ, can cause a rare, but serious condition called lactic acidosis with liver enlargement (hepatomegaly) [see Boxed Warning, Warnings and Precautions (5.2)].
-
 Hepatotoxicity
 
-Inform patients that hepatotoxicity has been reported with dolutegravir, a component of TRIUMEQ [see Warnings and Precautions (5.3), Adverse Reactions (6.1)].
+Inform patients that hepatotoxicity has been reported with dolutegravir, a component of TRIUMEQ [see Warnings and Precautions (5.4), Adverse Reactions (6.1)].
 Inform patients that monitoring for hepatotoxicity during therapy with TRIUMEQ is recommended.
 
 Posttreatment Exacerbations of Hepatitis in Patients with Hepatitis B Co-infection
 
 Advise patients co‑infected with HIV‑1 and HBV that worsening of liver disease has occurred in some cases when treatment with lamivudine was discontinued.
-Advise patients to discuss any changes in regimen with their physician [see Warnings and Precautions (5.4)].
+Advise patients to discuss any changes in regimen with their physician [see Warnings and Precautions (5.2)].
+
+Lactic Acidosis/Hepatomegaly
+
+Inform patients that some HIV medicines, including TRIUMEQ, can cause a rare, but serious condition called lactic acidosis with liver enlargement (hepatomegaly) [see Boxed Warning, Warnings and Precautions (5.5)].
 
 Use with Interferon- and Ribavirin‑Based Regimens in Patients with Hepatitis C Co-infection
 
@@ -44,10 +44,6 @@ Inform patients with HIV‑1/HCV co-infection that hepatic decompensation (some 
 Immune Reconstitution Syndrome
 
 Advise patients to inform their healthcare provider immediately of any signs and symptoms of infection as inflammation from previous infection may occur soon after combination antiretroviral therapy, including when TRIUMEQ is started [see Warnings and Precautions (5.8)].
-
-Redistribution/Accumulation of Body Fat
-
-Inform patients that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy and that the cause and long-term health effects of these conditions are not known at this time [see Warnings and Precautions (5.9)].
 
 Pregnancy Registry
 
@@ -91,12 +87,6 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-Lamivudine is manufactured under agreement from
+©2018 ViiV Healthcare group of companies or its licensor.
 
-Shire Pharmaceuticals Group plc
-
-Basingstoke, UK
-
-©201x ViiV Healthcare group of companies or its licensor.
-
-TRM:xPI
+TRM:7PI

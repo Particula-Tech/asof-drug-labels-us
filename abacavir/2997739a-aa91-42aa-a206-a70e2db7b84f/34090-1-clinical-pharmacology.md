@@ -85,7 +85,7 @@ Patients with Renal Impairment: The effect of renal impairment on the combinatio
 
 Patients with Hepatic Impairment: The effect of hepatic impairment on the combination of abacavir, dolutegravir, and lamivudine has not been evaluated (see the U.S. prescribing information for the individual abacavir, dolutegravir, and lamivudine components).
 
-Pediatric Patients: The pharmacokinetics for the individual components of TRIUMEQ (abacavir, dolutegravir, and lamivudine) have been evaluated in pediatric subjects
+Pediatric Patients: The pharmacokinetics for the individual components of TRIUMEQ (abacavir, dolutegravir, and lamivudine) have been evaluated in pediatric subjects.
 
 Dolutegravir: The pharmacokinetics of dolutegravir in HIV-1–infected children (n = 14) weighing at least 40 kg were similar to those observed in HIV-1–infected adults who received dolutegravir 50 mg once daily (Table 7) [see Clinical Studies (14.2)].
 
@@ -113,12 +113,12 @@ Drug Interaction Studies
 The drug interaction trials described were conducted with dolutegravir, abacavir, and/or lamivudine as single entities; no drug interaction trials have been conducted using the combination of abacavir, dolutegravir, and lamivudine.
 No clinically significant drug interactions are expected between dolutegravir, abacavir, and lamivudine.
 
-Dosing recommendations as a result of established and other potentially significant drug-drug interactions with dolutegravir or abacavir are provided in Section 7.3 [see Drug Interactions (7)].
+Dosing recommendations as a result of established and other potentially significant drug-drug interactions with the individual components of TRIUMEQ are provided in Section 7.3 [see Drug Interactions (7)].
 
 Table 8.
 Summary of Effect of Dolutegravir on the Pharmacokinetics of Coadministered Drugs
 
-| Coadministered Drug(s)and Dose(s) | Dose of Dolutegravir | n | Geometric Mean Ratio (90% CI) of Pharmacokinetic Parameters of Coadministered Drug with/without Dolutegravir No Effect = 1.00 |  |  |
+| Coadministered Drug(s) and Dose(s) | Dose of Dolutegravir | n | Geometric Mean Ratio (90% CI) of Pharmacokinetic Parameters of Coadministered Drug with/without Dolutegravir No Effect = 1.00 |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Cmax | AUC | Cτ or C24 |  |  |  |
 | Daclatasvir 60 mg once daily | 50 mg once daily | 12 | 1.03 (0.84 to 1.25) | 0.98 (0.83 to 1.15) | 1.06 (0.88 to 1.29) |
@@ -177,6 +177,19 @@ c The number of subjects represents the maximum number of subjects that were eva
 
 Abacavir or Lamivudine: The drug interactions described are based on trials conducted with abacavir or lamivudine as single entities.
 
+Effect of Abacavir and Lamivudine on the Pharmacokinetics of Other Agents: Abacavir and lamivudine do not inhibit or induce CYP enzymes (such as CYP3A4, CYP2C9, or CYP2D6).
+Based on in vitro study results, abacavir and lamivudine at therapeutic drug exposures are not expected to affect the pharmacokinetics of drugs that are substrates of the following transporters: OATP1B1/3, BCRP or P-gp, OCT1, OCT2, OCT3 (lamivudine only), or MATE1 and MATE2-K.
+
+Effect of Other Agents on the Pharmacokinetics of Abacavir or Lamivudine: In vitro, abacavir is not a substrate of OATP1B1, OATP1B3, OCT1, OCT2, OAT1, MATE1, MATE2-K, MRP2 or MRP4; therefore, drugs that modulate these transporters are not expected to affect abacavir plasma concentrations.
+Abacavir is a substrate of BCRP and P-gp in vitro; however, considering its absolute bioavailability (83%), modulators of these transporters are unlikely to result in a clinically relevant impact on abacavir concentrations.
+
+Lamivudine is a substrate of MATE1, MATE2-K, and OCT2 in vitro.
+Trimethoprim (an inhibitor of these drug transporters) has been shown to increase lamivudine plasma concentrations.
+This interaction is not considered clinically significant as no dose adjustment of lamivudine is needed.
+
+Lamivudine is a substrate of P-gp and BCRP; however, considering its absolute bioavailability (87%), it is unlikely that these transporters play a significant role in the absorption of lamivudine.
+Therefore, coadministration of drugs that are inhibitors of these efflux transporters is unlikely to affect the disposition and elimination of lamivudine.
+
 Ethanol: Abacavir has no effect on the pharmacokinetic properties of ethanol.
 Ethanol decreases the elimination of abacavir causing an increase in overall exposure.
 
@@ -187,6 +200,10 @@ The addition of methadone has no clinically significant effect on the pharmacoki
 
 Ribavirin: In vitro data indicate ribavirin reduces phosphorylation of lamivudine, stavudine, and zidovudine.
 However, no pharmacokinetic (e.g., plasma concentrations or intracellular triphosphorylated active metabolite concentrations) or pharmacodynamic (e.g., loss of HIV-1/HCV virologic suppression) interaction was observed when ribavirin and lamivudine (n = 18), stavudine (n = 10), or zidovudine (n = 6) were coadministered as part of a multi-drug regimen to HIV-1/HCV co-infected subjects [see Warnings and Precautions (5.7)].
+
+Sorbitol (Excipient): Lamivudine and sorbitol solutions were coadministered to 16 healthy adult subjects in an open-label, randomized-sequence, 4-period, crossover trial.
+Each subject received a single 300-mg dose of lamivudine oral solution alone or coadministered with a single dose of 3.2 grams, 10.2 grams, or 13.4 grams of sorbitol in solution.
+Coadministration of lamivudine with sorbitol resulted in dose-dependent decreases of 20%, 39%, and 44% in the AUC(0-24); 14%, 32%, and 36% in the AUC(∞); and 28%, 52%, and 55% in the Cmax; of lamivudine, respectively.
 
 Abacavir, Lamivudine, Zidovudine: Fifteen HIV‑1-infected subjects were enrolled in a crossover-designed drug interaction trial evaluating single doses of abacavir (600 mg), lamivudine (150 mg), and zidovudine (300 mg) alone or in combination.
 Analysis showed no clinically relevant changes in the pharmacokinetics of abacavir with the addition of lamivudine or zidovudine or the combination of lamivudine and zidovudine.
@@ -206,7 +223,7 @@ Effect of Coadministered Drugs on Abacavir or Lamivudine
 | Nelfinavir 750 mg every 8 h x 7 to 10 days | LamivudineSingle 150 mg | 11 | ↑10% | 95% CI:1% to 20% | ↔ |
 | Trimethoprim 160 mg/ Sulfamethoxazole 800 mg daily x 5 days | LamivudineSingle 300 mg | 14 | ↑43% | 90% CI:32% to 55% | ↔ |
 
-↑ = Increase; ↔ = no significant change; AUC = area under the concentration versus time curve; CI = Confidence interval.
+↑ = Increase; ↔ = No significant change; AUC = Area under the concentration versus time curve; CI = Confidence interval.
 
 a The drug-drug interaction was only evaluated in males.
 
@@ -259,7 +276,7 @@ Substitutions K65R, L74M, or Y115F with M184V or I conferred a 7- to 8-fold redu
 
 Resistance in Clinical Subjects
 
-Dolutegravir: No subjects in the treatment arm receiving dolutegravir + EPZICOM of SINGLE (treatment-naïve trial) had a detectable decrease in susceptibility to dolutegravir or background NRTIs in the resistance analysis subset (n = 11 with HIV-1 RNA greater than 400 copies per mL at failure or last visit and having resistance data).
+Dolutegravir: No subjects in the treatment arm receiving dolutegravir + EPZICOM in SINGLE (treatment-naïve trial) had a detectable decrease in susceptibility to dolutegravir or background NRTIs in the resistance analysis subset (n = 11 with HIV-1 RNA greater than 400 copies per mL at failure or last visit and having resistance data).
 Two virologic failure subjects in SINGLE had treatment-emergent G/D/E193D and G193G/E integrase substitutions at Week 84 and Week 108, respectively, and 1 subject with 275 copies per mL HIV-1 RNA had a treatment-emergent Q157Q/P integrase substitution detected at Week 24.
 None of these subjects had a corresponding decrease in dolutegravir susceptibility.
 No treatment-emergent genotypic resistance to abacavir and lamivudine, components of TRIUMEQ, was observed in the arm receiving dolutegravir + EPZICOM in the SINGLE trial through Week 144.

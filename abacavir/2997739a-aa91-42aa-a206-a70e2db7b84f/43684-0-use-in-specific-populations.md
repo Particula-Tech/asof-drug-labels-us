@@ -56,19 +56,19 @@ Studies in pregnant rats showed that abacavir is transferred to the fetus throug
 In pregnant rabbits, no developmental toxicities and no increases in fetal malformations occurred at up to the highest dose evaluated, resulting in exposures (AUC) approximately 9 times the human exposure at the RHD.
 
 Lamivudine: Lamivudine was administered orally to pregnant rats (at 90, 600, and 4,000 mg per kg per day) and rabbits (at 90, 300 and 1,000 mg per kg per day and at 15, 40, and 90 mg per kg per day) during organogenesis (on gestation Days 7 through 16 [rat] and 8 through 20 [rabbit]).
-No evidence of fetal malformations due to lamivudine was observed in rats and rabbits at doses producing plasma concentrations (Cmax) approximately 35 times higher than human exposure at the RHD.
-Evidence of early embryolethality was seen in the rabbit at systemic exposures (AUC) similar to those observed in humans, but there was no indication of this effect in the rat at plasma concentrations (Cmax) 35 times higher than human exposure at the RHD.
+No evidence of fetal malformations due to lamivudine was observed in rats and rabbits at doses producing plasma concentrations (Cmax) approximately 35 times higher than human exposure at the recommended daily dose.
+Evidence of early embryolethality was seen in the rabbit at systemic exposures (AUC) similar to those observed in humans, but there was no indication of this effect in the rat at plasma concentrations (Cmax) 35 times higher than human exposure at the recommended daily dose.
 Studies in pregnant rats showed that lamivudine is transferred to the fetus through the placenta.
 In the fertility/pre- and postnatal development study in rats, lamivudine was administered orally at doses of 180, 900, and 4,000 mg per kg per day (from prior to mating through postnatal Day 20).
 In the study, development of the offspring, including fertility and reproductive performance, were not affected by the maternal administration of lamivudine.
 
 ## 8.2 Lactation
 
-The Centers for Disease Control and Prevention recommend that HIV‑1‑infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV‑1 infection.
+The Centers for Disease Control and Prevention recommends that HIV‑1‑infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV‑1 infection.
 Abacavir and lamivudine are present in human milk.
 When administered to lactating rats, dolutegravir was present in milk (see Data).
 There is no information on the effects of TRIUMEQ or its components on the breastfed infant or the effects of the drug on milk production.
-Because of the potential for (1) HIV‑1 transmission (in HIV-negative infants), (2) developing viral resistance (in HIV-positive infants), and (3) serious adverse reactions in a breastfed infant, instruct mothers not to breastfeed if they are receiving TRIUMEQ.
+Because of the potential for (1) HIV‑1 transmission (in HIV-negative infants), (2) developing viral resistance (in HIV-positive infants), and (3) adverse reactions in a breastfed infant, instruct mothers not to breastfeed if they are receiving TRIUMEQ.
 
 Data
 

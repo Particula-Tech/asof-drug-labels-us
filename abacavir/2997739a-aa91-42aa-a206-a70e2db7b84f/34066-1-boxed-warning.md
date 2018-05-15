@@ -1,4 +1,4 @@
-# WARNING: HYPERSENSITIVITY REACTIONS, LACTIC ACIDOSIS AND SEVERE HEPATOMEGALY, and EXACERBATIONS OF HEPATITIS B
+# WARNING: HYPERSENSITIVITY REACTIONS, AND EXACERBATIONS OF HEPATITIS B
 
 Hypersensitivity Reactions
 
@@ -12,13 +12,8 @@ Discontinue TRIUMEQ immediately if a hypersensitivity reaction is suspected, reg
 Following a hypersensitivity reaction to TRIUMEQ, NEVER restart TRIUMEQ or any other abacavir‑containing product because more severe symptoms, including death can occur within hours.
 Similar severe reactions have also occurred rarely following the reintroduction of abacavir-containing products in patients who have no history of abacavir hypersensitivity [see Warnings and Precautions (5.1)].
 
-Lactic Acidosis and Severe Hepatomegaly with Steatosis
-
-Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues alone or in combination, including abacavir, lamivudine, and other antiretrovirals.
-Discontinue TRIUMEQ if clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity occur [see Warnings and Precautions (5.2)].
-
 Exacerbations of Hepatitis B
 
 Severe acute exacerbations of hepatitis B have been reported in patients who are co‑infected with hepatitis B virus (HBV) and human immunodeficiency virus (HIV-1) and have discontinued lamivudine, a component of TRIUMEQ.
 Hepatic function should be monitored closely with both clinical and laboratory follow-up for at least several months in patients who discontinue TRIUMEQ and are co-infected with HIV-1 and HBV.
-If appropriate, initiation of anti‑hepatitis B therapy may be warranted [see Warnings and Precautions (5.4)].
+If appropriate, initiation of anti‑hepatitis B therapy may be warranted [see Warnings and Precautions (5.2)].

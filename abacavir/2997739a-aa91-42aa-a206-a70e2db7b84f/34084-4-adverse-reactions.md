@@ -3,13 +3,12 @@
 The following adverse reactions are discussed in other sections of the labeling:
 
 - •Serious and sometimes fatal hypersensitivity reaction [see Boxed Warning, Warnings and Precautions (5.1)].
-- •Lactic acidosis and severe hepatomegaly with steatosis [see Boxed Warning, Warnings and Precautions (5.2)].
-- •Hepatotoxicity [see Warnings and Precautions (5.3)].
-- •Exacerbations of hepatitis B [see Boxed Warning, Warnings and Precautions (5.5)].
+- •Exacerbations of hepatitis B [see Boxed Warning, Warnings and Precautions (5.2)].
+- •Hepatotoxicity [see Warnings and Precautions (5.4)].
+- •Lactic acidosis and severe hepatomegaly with steatosis [see Warnings and Precautions (5.5)].
 - •Hepatic decompensation in patients co-infected with HIV-1 and Hepatitis C [see Warnings and Precautions (5.7)].
 - •Immune reconstitution syndrome [see Warnings and Precautions (5.8)].
-- •Fat redistribution [see Warnings and Precautions (5.9)].
-- •Myocardial infarction [see Warnings and Precautions (5.10)].
+- •Myocardial infarction [see Warnings and Precautions (5.9)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -98,7 +97,7 @@ The mean change from baseline observed for selected lipid values is presented in
 Table 3.
 Selected Laboratory Abnormalities (Grades 2 to 4) in Treatment-Naïve Subjects in SINGLE (Week 144 Analysis)
 
-| Laboratory Abnormality | TIVICAY + EPZICOMOnce Daily(n = 414) | ATRIPLAOnce Daily(n = 419) |
+| Laboratory Abnormality | TIVICAY + EPZICOM Once Daily(n = 414) | ATRIPLAOnce Daily(n = 419) |
 | --- | --- | --- |
 | ALT |  |  |
 | Grade 2 (>2.5-5.0 x ULN) | 3% | 5% |
@@ -124,14 +123,14 @@ ULN = Upper limit of normal.
 Table 4.
 Mean Change from Baseline in Fasted Lipid Values in Treatment-Naïve Subjects in SINGLE (Week 144 Analysisa)
 
-| Lipid | TIVICAY + EPZICOMOnce Daily(n = 414) | ATRIPLAOnce Daily(n = 419) |
+| Lipid | TIVICAY + EPZICOM Once Daily(n = 414) | ATRIPLAOnce Daily(n = 419) |
 | --- | --- | --- |
 | Cholesterol (mg/dL) | 24.0 | 26.7 |
 | HDL cholesterol (mg/dL) | 5.4 | 7.2 |
 | LDL cholesterol (mg/dL) | 16.0 | 14.6 |
 | Triglycerides (mg/dL) | 13.6 | 31.9 |
 
-a Subjects on lipid-lowering agents at baseline were excluded from these analyses (TIVICAY + EPZICOM n = 30 and ATRIPLA n = 27).
+a Subjects on lipid-lowering agents at baseline were excluded from these analyses (TIVICAY + EPZICOM: n = 30 and ATRIPLA n = 27).
 Seventy-two subjects initiated a lipid-lowering agent post-baseline; their last fasted on-treatment values (prior to starting the agent) were used regardless if they discontinued the agent (TIVICAY + EPZICOM: n = 36 and ATRIPLA: n = 36).
 
 Treatment-Experienced Subjects: Laboratory abnormalities observed in SAILING were generally similar compared with observations seen in the treatment-naïve trials.
@@ -139,7 +138,7 @@ Treatment-Experienced Subjects: Laboratory abnormalities observed in SAILING wer
 Hepatitis C Virus Co-infection: In SINGLE, the pivotal Phase 3 trial, subjects with hepatitis C virus co-infection were permitted to enroll provided that baseline liver chemistry tests did not exceed 5 times the upper limit of normal; subjects with hepatitis B co-infection were excluded.
 Overall, the safety profile in subjects with hepatitis C virus co-infection was similar to that observed in subjects without hepatitis C co-infection, although the rates of AST and ALT abnormalities were higher in the subgroup with hepatitis C virus co-infection for both treatment groups.
 Grades 2 to 4 ALT abnormalities in hepatitis C co-infected compared with HIV mono-infected subjects receiving TRIUMEQ were observed in 15% and 2% (vs.
-24% and 4% of subjects treated with ATRIPLA) (Week 96 analysis), respectively [see Warnings and Precautions (5.3)].
+24% and 4% of subjects treated with ATRIPLA) (Week 96 analysis), respectively [see Warnings and Precautions (5.2)].
 See also full prescribing information for TIVICAY.
 
 Changes in Serum Creatinine: Dolutegravir has been shown to increase serum creatinine due to inhibition of tubular secretion of creatinine without affecting renal glomerular function [see Clinical Pharmacology (12.2)].

@@ -1,4 +1,4 @@
-# 4 CONTRAINDICATION
+# 4 CONTRAINDICATIONS
 
 TRIUMEQ is contraindicated in patients:
 

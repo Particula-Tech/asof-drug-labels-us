@@ -42,13 +42,19 @@ Delay in stopping treatment with TRIUMEQ or other suspect agents after the onset
 Clinically, it is not possible to determine whether a hypersensitivity reaction with TRIUMEQ would be caused by abacavir or dolutegravir.
 Therefore, never restart TRIUMEQ or any other abacavir- or dolutegravir-containing product in patients who have stopped therapy with TRIUMEQ due to a hypersensitivity reaction.
 
-## 5.2 Lactic Acidosis and Severe Hepatomegaly with Steatosis
+## 5.2 Posttreatment Exacerbations of Hepatitis in Patients with Hepatitis B Co-infection
 
-Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues and other antiretrovirals.
-See full prescribing information for ZIAGEN (abacavir) and EPIVIR (lamivudine).
-Treatment with TRIUMEQ should be suspended in any patient who develops clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity (which may include hepatomegaly and steatosis even in the absence of marked transaminase elevations).
+Clinical and laboratory evidence of exacerbations of hepatitis have occurred after discontinuation of lamivudine.
+See full prescribing information for EPIVIR (lamivudine).
+Patients should be closely monitored with both clinical and laboratory follow‑up for at least several months after stopping treatment.
 
-## 5.3 Hepatotoxicity
+## 5.3 Emergence of Lamivudine-Resistant HBV
+
+Safety and efficacy of lamivudine have not been established for treatment of chronic hepatitis B in subjects dually infected with HIV-1 and HBV.
+Emergence of hepatitis B virus variants associated with resistance to lamivudine has been reported in HIV‑1‑infected subjects who have received lamivudine‑containing antiretroviral regimens in the presence of concurrent infection with hepatitis B virus.
+See full prescribing information for EPIVIR-HBV (lamivudine).
+
+## 5.4 Hepatotoxicity
 
 Hepatic adverse events have been reported in patients receiving a dolutegravir-containing regimen [see Adverse Reactions (6.1)].
 Patients with underlying hepatitis B or C may be at increased risk for worsening or development of transaminase elevations with use of TRIUMEQ [see Adverse Reactions (6.1)].
@@ -57,17 +63,13 @@ Cases of hepatic toxicity including elevated serum liver biochemistries, hepatit
 Drug-induced liver injury leading to liver transplant has been reported with TRIUMEQ.
 Monitoring for hepatotoxicity is recommended.
 
-## 5.4 Posttreatment Exacerbations of Hepatitis in Patients with Hepatitis B Co-infection
+## 5.5 Lactic Acidosis and Severe Hepatomegaly with Steatosis
 
-Clinical and laboratory evidence of exacerbations of hepatitis have occurred after discontinuation of lamivudine.
-See full prescribing information for EPIVIR (lamivudine).
-Patients should be closely monitored with both clinical and laboratory follow‑up for at least several months after stopping treatment.
-
-## 5.5 Emergence of Lamivudine-Resistant HBV
-
-Safety and efficacy of lamivudine have not been established for treatment of chronic hepatitis B in subjects dually infected with HIV-1 and HBV.
-Emergence of hepatitis B virus variants associated with resistance to lamivudine has been reported in HIV‑1‑infected subjects who have received lamivudine‑containing antiretroviral regimens in the presence of concurrent infection with hepatitis B virus.
-See full prescribing information for EPIVIR-HBV (lamivudine).
+Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues, including abacavir and lamivudine (components of TRIUMEQ).
+A majority of these cases have been in women.
+Female sex and obesity may be risk factors for the development of lactic acidosis and severe hepatomegaly with steatosis in patients treated with antiretroviral nucleoside analogues.
+See full prescribing information for ZIAGEN (abacavir) and EPIVIR (lamivudine).
+Treatment with TRIUMEQ should be suspended in any patient who develops clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity which may include hepatomegaly and steatosis even in the absence of marked transaminase elevations.
 
 ## 5.6 Risk of Adverse Reactions or Loss of Virologic Response Due to Drug Interactions
 
@@ -93,16 +95,11 @@ During the initial phase of combination antiretroviral treatment, patients whose
 
 Autoimmune disorders (such as Graves’ disease, polymyositis, and Guillain-Barré syndrome) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable, and can occur many months after initiation of treatment.
 
-## 5.9 Fat Redistribution
+## 5.9 Myocardial Infarction
 
-Redistribution/accumulation of body fat including central obesity, dorsocervical fat enlargement (buffalo hump), peripheral wasting, facial wasting, breast enlargement, and “cushingoid appearance” have been observed in patients receiving antiretroviral therapy.
-The mechanism and long-term consequences of these events are currently unknown.
-A causal relationship has not been established.
-
-## 5.10 Myocardial Infarction
-
-In a published prospective, observational, epidemiological trial designed to investigate the rate of myocardial infarction (MI) in patients on combination antiretroviral therapy, the use of abacavir within the previous 6 months was correlated with an increased risk of MI.
-In a sponsor‑conducted pooled analysis of clinical trials, no excess risk of MI was observed in abacavir‑treated subjects as compared with control subjects.
-In totality, the available data from the observational cohort and from clinical trials are inconclusive.
+Several prospective, observational, epidemiological studies have reported an association with the use of abacavir and the risk of myocardial infarction (MI).
+Meta-analyses of randomized, controlled clinical trials have observed no excess risk of MI in abacavir-treated subjects as compared with control subjects.
+To date, there is no established biological mechanism to explain a potential increase in risk.
+In totality, the available data from the observational studies and from controlled clinical trials show inconsistency; therefore, evidence for a causal relationship between abacavir and the risk of MI is inconclusive.
 
 As a precaution, the underlying risk of coronary heart disease should be considered when prescribing antiretroviral therapies, including abacavir, and action taken to minimize all modifiable risk factors (e.g., hypertension, hyperlipidemia, diabetes mellitus, smoking).
