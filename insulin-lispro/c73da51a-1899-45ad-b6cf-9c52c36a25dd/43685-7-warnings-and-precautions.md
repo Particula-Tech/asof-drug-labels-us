@@ -84,7 +84,7 @@ There is no evidence from animal studies of impairment of fertility induced by i
 
 ## Pregnancy
 
-Teratogenic Effects — Pregnancy Category B — Reproduction studies with insulin lispro have been performed in pregnant rats and rabbits at parenteral doses up to 4 and 0.3 times, respectively, the average human dose (40 units/day) based on body surface area.
+Reproduction studies with insulin lispro have been performed in pregnant rats and rabbits at parenteral doses up to 4 and 0.3 times, respectively, the average human dose (40 units/day) based on body surface area.
 The results have revealed no evidence of impaired fertility or harm to the fetus due to insulin lispro.
 There are, however, no adequate and well-controlled studies with Humalog, Humalog Mix75/25, or Humalog Mix50/50 in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
