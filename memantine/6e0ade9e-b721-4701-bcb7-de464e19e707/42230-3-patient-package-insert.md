@@ -78,9 +78,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store Memantine Hydrochloride Tablets?
 
-- Store Memantine Hydrochloride Tablets at room temperature between 20° to 25°C (68° to 77°F).
-  Excursions permitted to 15° to 30°C (59° to 86°F).
-  [See USP Controlled Room Temperature.]
+- Store Memantine Hydrochloride Tablets at room temperature between 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
 
 What are the ingredients in Memantine Hydrochloride Tablets?
 
@@ -108,6 +106,6 @@ For more information about Memantine Hydrochloride Tablets, go to www.upsher-smi
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by UPSHER-SMITH LABORATORIES, INC. Maple Grove, MN 55369
+Manufactured by UPSHER-SMITH LABORATORIES, LLC Maple Grove, MN 55369
 
-Revised 0616
+Revised 0318

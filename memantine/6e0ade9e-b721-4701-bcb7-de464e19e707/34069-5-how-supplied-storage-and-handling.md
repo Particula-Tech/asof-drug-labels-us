@@ -12,6 +12,4 @@ Gray, capsule-shaped, film-coated tablets with 13 debossed on one side and 832 o
 
 Bottle of 60 NDC 0832-1113-60
 
-Store at 20° to 25°C (68° to 77°F).
-Excursions permitted to 15° to 30°C (59° to 86°F).
-[See USP Controlled Room Temperature.]
+Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
