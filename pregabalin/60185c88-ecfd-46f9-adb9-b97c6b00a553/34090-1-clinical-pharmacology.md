@@ -20,7 +20,7 @@ Absorption and Distribution
 
 Following oral administration of LYRICA capsules under fasting conditions, peak plasma concentrations occur within 1.5 hours.
 Pregabalin oral bioavailability is greater than or equal to 90% and is independent of dose.
-Following single- (25 to 300 mg) and multiple- dose (75 to 900 mg/day) administration, maximum plasma concentrations (Cmax) and area under the plasma concentration-time curve (AUC) values increase linearly.
+Following single- (25 to 300 mg) and multiple-dose (75 to 900 mg/day) administration, maximum plasma concentrations (Cmax) and area under the plasma concentration-time curve (AUC) values increase linearly.
 Following repeated administration, steady state is achieved within 24 to 48 hours.
 Multiple-dose pharmacokinetics can be predicted from single-dose data.
 
@@ -44,9 +44,9 @@ In preclinical studies, pregabalin (S-enantiomer) did not undergo racemization t
 Pregabalin is eliminated from the systemic circulation primarily by renal excretion as unchanged drug with a mean elimination half-life of 6.3 hours in subjects with normal renal function.
 Mean renal clearance was estimated to be 67.0 to 80.9 mL/min in young healthy subjects.
 Because pregabalin is not bound to plasma proteins this clearance rate indicates that renal tubular reabsorption is involved.
-Pregabalin elimination is nearly proportional to creatinine clearance (CLcr) [see Dosage and Administration (2.6)].
+Pregabalin elimination is nearly proportional to creatinine clearance (CLcr) [see Dosage and Administration (2.7)].
 
-Pharmacokinetics in Special Populations
+Pharmacokinetics in Specific Populations
 
 Race
 
@@ -62,17 +62,26 @@ Pregabalin clearance is nearly proportional to creatinine clearance (CLcr).
 Dosage reduction in patients with renal dysfunction is necessary.
 Pregabalin is effectively removed from plasma by hemodialysis.
 Following a 4-hour hemodialysis treatment, plasma pregabalin concentrations are reduced by approximately 50%.
-For patients on hemodialysis, dosing must be modified [see Dosage and Administration (2.6)].
+For patients on hemodialysis, dosing must be modified [see Dosage and Administration (2.7)].
 
 Elderly
 
 Pregabalin oral clearance tended to decrease with increasing age.
 This decrease in pregabalin oral clearance is consistent with age-related decreases in CLcr.
-Reduction of pregabalin dose may be required in patients who have age-related compromised renal function [see Dosage and Administration (2.6)].
+Reduction of pregabalin dose may be required in patients who have age-related compromised renal function [see Dosage and Administration (2.7)].
 
 Pediatric Pharmacokinetics
 
-In the pediatric age group of 12 years of age and older, systemic exposure of pregabalin is similar to adults at any given dose of LYRICA [see Pediatric Use (8.4)].
+Pediatric Patients (4 to less than 17 years of age)
+
+Pregabalin pharmacokinetics were evaluated in patients with partial onset seizures at dose levels of 2.5, 5, 10, and 15 mg/kg/day after single and multiple oral administration of pregabalin.
+Following oral administration, pregabalin reaches peak plasma concentration at 0.5 hours to 2 hours in the fasted state.
+Both apparent clearance (CL/F) and apparent volume of distribution increase as body weight increases.
+A weight-based dosing regimen is necessary to achieve pregabalin exposures in pediatric patients aged 4 to less than 17 years similar to those observed in adults treated for partial onset seizures at effective doses [see Dosage and Administration (2.4)].
+The mean t½ is 3 to 4 hours in pediatric subjects up to 6 years of age, and 4 to 6 hours in those 7 years of age and older.
+Pregabalin CL/F is nearly proportional to CLcr (mL/min).
+The relationship is similar in pediatric and adult subjects.
+When normalized per body weight, CL/F (mL/min/kg) in pediatric subjects weighing less than 30 kg is approximately 40% higher in comparison to subjects weighing greater than or equal to 30 kg [see Dosage and Administration (2.4)].
 
 Drug Interactions
 

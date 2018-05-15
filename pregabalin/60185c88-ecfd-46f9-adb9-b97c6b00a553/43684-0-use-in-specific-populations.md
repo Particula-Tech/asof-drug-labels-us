@@ -37,7 +37,7 @@ The effect on offspring survival was pronounced at doses greater than or equal t
 When offspring were tested as adults, neurobehavioral abnormalities (decreased auditory startle responding) were observed at greater than or equal to 250 mg/kg and reproductive impairment (decreased fertility and litter size) was seen at 1250 mg/kg.
 The no-effect dose for pre- and postnatal developmental toxicity in rats (50 mg/kg) produced a plasma exposure approximately 2 times human exposure at the MRD.
 
-In the prenatal-postnatal study in rats, pregabalin prolonged gestation and induced dystocia at exposures greater than or equal to 50 times the mean human exposure (AUC (0–24) of 123 µg∙hr/mL) at theMRD.
+In the prenatal-postnatal study in rats, pregabalin prolonged gestation and induced dystocia at exposures greater than or equal to 50 times the mean human exposure (AUC (0–24) of 123 µg∙hr/mL) at the MRD.
 
 ## 8.2 Lactation
 
@@ -49,7 +49,7 @@ The estimated average daily infant dose of pregabalin from breast milk (assuming
 The study did not evaluate the effects of LYRICA on milk production or the effects of LYRICA on the breastfed infant.
 
 Based on animal studies, there is a potential risk of tumorigenicity with pregabalin exposure via breast milk to the breastfed infant [see Nonclinical Toxicology (13.1)].
-Available clinical study data in patients greater than 12 years of age do not provide a clear conclusion about the potential risk of tumorigenicity with pregabalin [see Warnings and Precautions (5.9)].
+Available clinical study data in patients greater than 12 years of age do not provide a clear conclusion about the potential risk of tumorigenicity with pregabalin [see Warnings and Precautions (5.8)].
 Because of the potential risk of tumorigenicity, breastfeeding is not recommended during treatment with LYRICA.
 
 Data
@@ -83,14 +83,32 @@ In the animal fertility study with pregabalin in male rats, adverse reproductive
 
 ## 8.4 Pediatric Use
 
-The safety and efficacy of pregabalin in pediatric patients have not been established.
+Neuropathic Pain Associated with Diabetic Peripheral Neuropathy, Postherpetic Neuralgia, and Neuropathic Pain Associated with Spinal Cord Injury
+
+Safety and effectiveness in pediatric patients have not been established.
 
 Fibromyalgia
+
+Safety and effectiveness in pediatric patients have not been established.
 
 A 15-week, placebo-controlled trial was conducted with 107 pediatric patients with fibromyalgia, ages 12 through 17 years, at LYRICA total daily doses of 75–450 mg per day.
 The primary efficacy endpoint of change from baseline to Week 15 in mean pain intensity (derived from an 11-point numeric rating scale) showed numerically greater improvement for the pregabalin-treated patients compared to placebo-treated patients, but did not reach statistical significance.
 The most frequently observed adverse reactions in the clinical trial included dizziness, nausea, headache, weight increased, and fatigue.
 The overall safety profile in adolescents was similar to that observed in adults with fibromyalgia.
+
+Adjunctive Therapy for Partial Onset Seizures
+
+The safety and effectiveness of LYRICA as adjunctive treatment for partial onset seizures in pediatric patients 4 to less than 17 years of age have been established in a 12-week, double-blind, placebo-controlled study (n = 295) [see Clinical Studies (14.3)].
+Patients treated with LYRICA 10 mg/kg/day had, on average, a 21.0% greater reduction in partial onset seizures than patients treated with placebo (p = 0.0185).
+Patients treated with LYRICA 2.5 mg/kg/day had, on average, a 10.5% greater reduction in partial onset seizures than patients treated with placebo, but the difference was not statistically significant (p = 0.2577).
+
+Responder rates (50% or greater reduction in partial onset seizure frequency) were a key secondary efficacy parameter and showed numerical improvement with LYRICA compared with placebo: the responder rates were 40.6%, 29.1%, and 22.6%, for LYRICA 10 mg/kg/day, LYRICA 2.5 mg/kg/day, and placebo, respectively.
+
+The most common adverse reactions (≥5%) with LYRICA in this study were somnolence, weight increased, and increased appetite [see Adverse Reactions (6.1)].
+
+The use of LYRICA 2.5 mg/kg/day in pediatric patients is further supported by evidence from adequate and well-controlled studies in adults with partial-onset seizures and pharmacokinetic data from adult and pediatric patients [see Clinical Pharmacology (12.3)].
+
+Safety and effectiveness in patients less than 4 years of age have not been established.
 
 Juvenile Animal Data
 
@@ -113,4 +131,9 @@ In controlled clinical studies of LYRICA in fibromyalgia, 106 patients were 65 y
 Although the adverse reaction profile was similar between the two age groups, the following neurological adverse reactions were more frequent in patients 65 years of age or older: dizziness, vision blurred, balance disorder, tremor, confusional state, coordination abnormal, and lethargy.
 
 LYRICA is known to be substantially excreted by the kidney, and the risk of toxic reactions to LYRICA may be greater in patients with impaired renal function.
-Because LYRICA is eliminated primarily by renal excretion, adjust the dose for elderly patients with renal impairment [see Dosage and Administration (2.6)].
+Because LYRICA is eliminated primarily by renal excretion, adjust the dose for elderly patients with renal impairment [see Dosage and Administration (2.7)].
+
+## 8.6 Renal Impairment
+
+LYRICA is eliminated primarily by renal excretion and dose adjustment is recommended for adult patients with renal impairment [see Dosage and Administration (2.7) and Clinical Pharmacology (12.3)].
+The use of LYRICA in pediatric patients with compromised renal function has not been studied.

@@ -1,5 +1,20 @@
 # 6 ADVERSE REACTIONS
 
+The following serious adverse reactions are described elsewhere in the labeling:
+
+- Angioedema [see Warnings and Precautions (5.1)]
+- Hypersensitivity [see Warnings and Precautions (5.2)]
+- Increased Risk of Adverse Reactions with Abrupt or Rapid Discontinuation [see Warnings and Precautions (5.3)]
+- Suicidal Behavior and Ideation [see Warnings and Precautions (5.4)]
+- Peripheral Edema [see Warnings and Precautions (5.5)]
+- Dizziness and Somnolence [see Warnings and Precautions (5.6)]
+- Weight Gain [see Warnings and Precautions (5.7)]
+- Tumorigenic Potential [see Warnings and Precautions (5.8)]
+- Ophthalmological Effects [see Warnings and Precautions (5.9)]
+- Creatine Kinase Elevations [see Warnings and Precautions (5.10)]
+- Decreased Platelet Count [see Warnings and Precautions (5.11)]
+- PR Interval Prolongation [see Warnings and Precautions (5.12)]
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
@@ -9,14 +24,14 @@ Approximately 5000 patients were treated for 6 months or more, over 3100 patient
 
 Adverse Reactions Most Commonly Leading to Discontinuation in All Premarketing Controlled Clinical Studies
 
-In premarketing controlled trials of all populations combined, 14% of patients treated with LYRICA and 7% of patients treated with placebo discontinued prematurely due to adverse reactions.
+In premarketing controlled trials of all adult populations combined, 14% of patients treated with LYRICA and 7% of patients treated with placebo discontinued prematurely due to adverse reactions.
 In the LYRICA treatment group, the adverse reactions most frequently leading to discontinuation were dizziness (4%) and somnolence (4%).
 In the placebo group, 1% of patients withdrew due to dizziness and less than 1% withdrew due to somnolence.
 Other adverse reactions that led to discontinuation from controlled trials more frequently in the LYRICA group compared to the placebo group were ataxia, confusion, asthenia, thinking abnormal, blurred vision, incoordination, and peripheral edema (1% each).
 
-Most Common Adverse Reactions in All Premarketing Controlled Clinical Studies
+Most Common Adverse Reactions in All Controlled Clinical Studies in Adults
 
-In premarketing controlled trials of all patient populations combined, dizziness, somnolence, dry mouth, edema, blurred vision, weight gain, and "thinking abnormal" (primarily difficulty with concentration/attention) were more commonly reported by subjects treated with LYRICA than by subjects treated with placebo (greater than or equal to 5% and twice the rate of that seen in placebo).
+In premarketing controlled trials of all adult patient populations combined (including DPN, PHN, and adult patients with partial onset seizures), dizziness, somnolence, dry mouth, edema, blurred vision, weight gain, and "thinking abnormal" (primarily difficulty with concentration/attention) were more commonly reported by subjects treated with LYRICA than by subjects treated with placebo (greater than or equal to 5% and twice the rate of that seen in placebo).
 
 Controlled Studies with Neuropathic Pain Associated with Diabetic Peripheral Neuropathy
 
@@ -30,11 +45,11 @@ Each of these events led to withdrawal in approximately 1% of patients.
 
 Most Common Adverse Reactions
 
-Table 3 lists all adverse reactions, regardless of causality, occurring in greater than or equal to 1% of patients with neuropathic pain associated with diabetic neuropathy in the combined LYRICA group for which the incidence was greater in this combined LYRICA group than in the placebo group.
+Table 4 lists all adverse reactions, regardless of causality, occurring in greater than or equal to 1% of patients with neuropathic pain associated with diabetic neuropathy in the combined LYRICA group for which the incidence was greater in this combined LYRICA group than in the placebo group.
 A majority of pregabalin-treated patients in clinical studies had adverse reactions with a maximum intensity of "mild" or "moderate".
 
-Table 3.
-Treatment-emergent adverse reaction incidence in controlled trials in neuropathic pain associated with diabetic peripheral neuropathy (events in at least 1% of all LYRICA-treated patients and at least numerically more in all LYRICA than in the placebo group)
+Table 4.
+Adverse Reaction Incidence in Controlled Trials in Neuropathic Pain Associated with Diabetic Peripheral Neuropathy
 
 | [N=979] % | [N=459] % |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -85,13 +100,13 @@ Other reasons for discontinuation from the trials, occurring in greater frequenc
 
 Most Common Adverse Reactions
 
-Table 4 lists all adverse reactions, regardless of causality, occurring in greater than or equal to 1% of patients with neuropathic pain associated with postherpetic neuralgia in the combined LYRICA group for which the incidence was greater in this combined LYRICA group than in the placebo group.
+Table 5 lists all adverse reactions, regardless of causality, occurring in greater than or equal to 1% of patients with neuropathic pain associated with postherpetic neuralgia in the combined LYRICA group for which the incidence was greater in this combined LYRICA group than in the placebo group.
 In addition, an event is included, even if the incidence in the all LYRICA group is not greater than in the placebo group, if the incidence of the event in the 600 mg/day group is more than twice that in the placebo group.
 A majority of pregabalin-treated patients in clinical studies had adverse reactions with a maximum intensity of "mild" or "moderate".
 Overall, 12.4% of all pregabalin-treated patients and 9.0% of all placebo-treated patients had at least one severe event while 8% of pregabalin-treated patients and 4.3% of placebo-treated patients had at least one severe treatment-related adverse event.
 
-Table 4.
-Treatment-emergent adverse reaction incidence in controlled trials in neuropathic pain associated with postherpetic neuralgia (events in at least 1% of all LYRICA-treated patients and at least numerically more in all LYRICA than in the placebo group)
+Table 5.
+Adverse Reaction Incidence in Controlled Trials in Neuropathic Pain Associated with Postherpetic Neuralgia
 
 | Body system Preferred term | 75 mg/d [N=84] % | 150 mg/d [N=302] % | 300 mg/d [N=312] % | 600 mg/d [N=154] % | All PGBPGB: pregabalin [N=852] % | Placebo [N=398] % |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -133,25 +148,24 @@ Treatment-emergent adverse reaction incidence in controlled trials in neuropathi
 | Urogenital System |  |  |  |  |  |  |
 | Urinary Incontinence | 0 | 1 | 1 | 2 | 1 | 0 |
 
-Controlled Add-On Studies in Adjunctive Therapy for Adult Patients with Partial Onset Seizures
+Controlled Studies of Adjunctive Therapy for Partial Onset Seizures in Adult Patients
 
 Adverse Reactions Leading to Discontinuation
 
-Approximately 15% of patients receiving LYRICA and 6% of patients receiving placebo in add-on epilepsy trials discontinued prematurely due to adverse reactions.
+Approximately 15% of patients receiving LYRICA and 6% of patients receiving placebo in trials of adjunctive therapy for partial onset seizures discontinued prematurely due to adverse reactions.
 In the LYRICA treatment group, the adverse reactions most frequently leading to discontinuation were dizziness (6%), ataxia (4%), and somnolence (3%).
 In comparison, less than 1% of patients in the placebo group withdrew due to each of these events.
 Other adverse reactions that led to discontinuation of at least 1% of patients in the LYRICA group and at least twice as frequently compared to the placebo group were asthenia, diplopia, blurred vision, thinking abnormal, nausea, tremor, vertigo, headache, and confusion (which each led to withdrawal in 2% or less of patients).
 
 Most Common Adverse Reactions
 
-Table 5 lists all dose-related adverse reactions occurring in at least 2% of all LYRICA-treated patients.
+Table 6 lists all dose-related adverse reactions occurring in at least 2% of all LYRICA-treated patients.
 Dose-relatedness was defined as the incidence of the adverse event in the 600 mg/day group was at least 2% greater than the rate in both the placebo and 150 mg/day groups.
 In these studies, 758 patients received LYRICA and 294 patients received placebo for up to 12 weeks.
-Because patients were also treated with 1 to 3 other AEDs, it is not possible to determine whether the following adverse reactions can be ascribed to LYRICA alone, or the combination of LYRICA and other AEDs.
 A majority of pregabalin-treated patients in clinical studies had adverse reactions with a maximum intensity of "mild" or "moderate".
 
-Table 5.
-Dose-related treatment-emergent adverse reaction incidence in controlled trials in adjunctive therapy for adult patients with partial onset seizures (events in at least 2% of all LYRICA-treated patients and the adverse reaction in the 600 mg/day group was greater than or equal to 2% the rate in both the placebo and 150 mg/day groups)
+Table 6.
+Dose-related Adverse Reaction Incidence in Controlled Trials of Adjunctive Therapy for Partial Onset Seizures in Adult Patients
 
 |  | % | % | % | % | % |
 | --- | --- | --- | --- | --- | --- |
@@ -185,6 +199,35 @@ Dose-related treatment-emergent adverse reaction incidence in controlled trials 
 | Diplopia | 5 | 7 | 12 | 9 | 4 |
 | Abnormal Vision | 3 | 1 | 5 | 4 | 1 |
 
+Controlled Study of Adjunctive Therapy for Partial Onset Seizures in Patients 4 to Less Than 17 Years of Age
+
+Adverse Reactions Leading to Discontinuation
+
+Approximately 2.5% of patients receiving LYRICA and no patients receiving placebo in trials of adjunctive therapy for partial onset seizures discontinued prematurely due to adverse reactions.
+In the LYRICA treatment group, the adverse reactions leading to discontinuation were somnolence (3 patients), worsening of epilepsy (1 patient), and hallucination (1 patient).
+
+Most Common Adverse Reactions
+
+Table 7 lists all dose-related adverse reactions occurring in at least 2% of all LYRICA-treated patients.
+Dose-relatedness was defined as an incidence of the adverse event in the 10 mg/kg/day group that was at least 2% greater than the rate in both the placebo and 2.5 mg/kg/day groups.
+In this study, 201 patients received LYRICA and 94 patients received placebo for up to 12 weeks.
+A majority of pregabalin-treated patients in the clinical study had adverse reactions with a maximum intensity of "mild" or "moderate".
+
+Table 7.
+Dose-related Adverse Reaction Incidence in a Controlled Trial in Adjunctive Therapy for Partial Onset Seizures in Patients 4 to Less Than 17 Years of Age
+
+| Body System Preferred Term | 2.5 mg/kg/day2.5 mg/kg/day: Maximum dose 150 mg/day. Includes patients less than 30 kg for whom dose was adjusted to 3.5 mg/kg/day. [N=104] % | 10 mg/kg/day10 mg/kg/day: Maximum dose 600 mg/day. Includes patients less than 30 kg for whom dose was adjusted to 14 mg/kg/day. [N=97] % | All PGB [N=201] % | Placebo [N=94] % |
+| --- | --- | --- | --- | --- |
+| Gastrointestinal disorders |  |  |  |  |
+| Salivary hypersecretion | 1 | 4 | 2 | 0 |
+| Investigations |  |  |  |  |
+| Weight increased | 4 | 13 | 8 | 4 |
+| Metabolism and nutrition disorders |  |  |  |  |
+| Increased appetite | 7 | 10 | 8 | 4 |
+| Nervous system disorders |  |  |  |  |
+| Somnolence | 17 | 26 | 21 | 14 |
+| Abbreviations: N=number of patients; PGB = pregabalin. |  |  |  |  |
+
 Controlled Studies with Fibromyalgia
 
 Adverse Reactions Leading to Discontinuation
@@ -197,15 +240,15 @@ Each of these adverse reactions led to withdrawal in approximately 1% of patient
 
 Most Common Adverse Reactions
 
-Table 6 lists all adverse reactions, regardless of causality, occurring in greater than or equal to 2% of patients with fibromyalgia in the 'all pregabalin' treatment group for which the incidence was greater than in the placebo treatment group.
+Table 8 lists all adverse reactions, regardless of causality, occurring in greater than or equal to 2% of patients with fibromyalgia in the 'all pregabalin' treatment group for which the incidence was greater than in the placebo treatment group.
 A majority of pregabalin-treated patients in clinical studies experienced adverse reactions with a maximum intensity of "mild" or "moderate".
 
-Table 6.
-Treatment-emergent adverse reaction incidence in controlled trials in fibromyalgia (events) in at least 2% of all LYRICA-treated patients and occurring more frequently in the all pregabalin-group than in the placebo treatment group)
+Table 8.
+Adverse Reaction Incidence in Controlled Trials in Fibromyalgia
 
-|  | [N=132] % | [N=502] % | [N=505] % | [N=378] % | [N=1517] % | [N=505] % |
+| [N=1517] % | [N=505] % |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| System Organ Class Preferred term | 150 mg/d | 300 mg/d | 450 mg/d | 600 mg/d | All PGBPGB: pregabalin | Placebo |
+| System Organ Class Preferred term | 150 mg/d [N=132] % | 300 mg/d [N=502] % | 450 mg/d [N=505] % | 600 mg/d [N=378] % | All PGBPGB: pregabalin | Placebo |
 | Ear and Labyrinth Disorders |  |  |  |  |  |  |
 | Vertigo | 2 | 2 | 2 | 1 | 2 | 0 |
 | Eye Disorders |  |  |  |  |  |  |
@@ -266,16 +309,16 @@ Each of these adverse reactions led to withdrawal in less than 2% of patients.
 
 Most Common Adverse Reactions
 
-Table 7 lists all adverse reactions, regardless of causality, occurring in greater than or equal to 2% of patients with neuropathic pain associated with spinal cord injury in the controlled trials.
+Table 9 lists all adverse reactions, regardless of causality, occurring in greater than or equal to 2% of patients for which the incidence was greater than in the placebo treatment group with neuropathic pain associated with spinal cord injury in the controlled trials.
 A majority of pregabalin-treated patients in clinical studies experienced adverse reactions with a maximum intensity of "mild" or "moderate".
 
-Table 7.
-Treatment-emergent adverse reaction incidence in controlled trials in neuropathic pain associated with spinal cord injury (events in at least 2% of all LYRICA-treated patients and occurring more frequently in the all pregabalin-group than in the placebo treatment group)
+Table 9.
+Adverse Reaction Incidence in Controlled Trials in Neuropathic Pain Associated with Spinal Cord Injury
 
 | % | % |  |
 | --- | --- | --- |
 | System Organ Class Preferred term | PGBPGB: Pregabalin (N=182) | Placebo (N=174) |
-| Ear and labryrinth disorders |  |  |
+| Ear and labyrinth disorders |  |  |
 | Vertigo | 2.7 | 1.1 |
 | Eye disorders |  |  |
 | Vision blurred | 6.6 | 1.1 |
@@ -331,13 +374,13 @@ Cardiovascular System – Infrequent: Deep thrombophlebitis, Heart failure, Hypo
 
 Digestive System – Frequent: Gastroenteritis, Increased appetite; Infrequent: Cholecystitis, Cholelithiasis, Colitis, Dysphagia, Esophagitis, Gastritis, Gastrointestinal hemorrhage, Melena, Mouth ulceration, Pancreatitis, Rectal hemorrhage, Tongue edema; Rare: Aphthous stomatitis, Esophageal Ulcer, Periodontal abscess
 
-Hemic and Lymphatic System – Frequent: Ecchymosis; Infrequent: Anemia, Eosinophilia, Hypochromic anemia, Leukocytosis, Leukopenia, Lymphadenopathy, Thrombocytopenia; Rare: Myelofibrosis, Polycythemia, Prothrombin decreased, Purpura, Thrombocythemia
+Hemic and Lymphatic System – Frequent: Ecchymosis; Infrequent: Anemia, Eosinophilia, Hypochromic anemia, Leukocytosis, Leukopenia, Lymphadenopathy, Thrombocytopenia; Rare: Myelofibrosis, Polycythemia, Prothrombin decreased, Purpura, Thrombocythemia, Alanine aminotransferase increased, Aspartate aminotransferase increased
 
 Metabolic and Nutritional Disorders – Rare: Glucose Tolerance Decreased, Urate Crystalluria
 
 Musculoskeletal System – Frequent: Arthralgia, Leg cramps, Myalgia, Myasthenia; Infrequent: Arthrosis; Rare: Chondrodystrophy, Generalized Spasm
 
-Nervous System – Frequent: Anxiety, Depersonalization, Hypertonia, Hypoesthesia, Libido decreased, Nystagmus, Paresthesia, Sedation, Stupor, Twitching; Infrequent: Abnormal dreams, Agitation, Apathy, Aphasia, Circumoral paresthesia, Dysarthria, Hallucinations, Hostility, Hyperalgesia, Hyperesthesia, Hyperkinesia, Hypokinesia, Hypotonia, Libido increased, Myoclonus, Neuralgia, Rare: Addiction, Cerebellar syndrome, Cogwheel rigidity, Coma, Delirium, Delusions, Dysautonomia, Dyskinesia, Dystonia, Encephalopathy, Extrapyramidal syndrome, Guillain-Barré syndrome, Hypalgesia, Intracranial hypertension, Manic reaction, Paranoid reaction, Peripheral neuritis, Personality disorder, Psychotic depression, Schizophrenic reaction, Sleep disorder, Torticollis, Trismus
+Nervous System – Frequent: Anxiety, Depersonalization, Hypertonia, Hypoesthesia, Libido decreased, Nystagmus, Paresthesia, Sedation, Stupor, Twitching; Infrequent: Abnormal dreams, Agitation, Apathy, Aphasia, Circumoral paresthesia, Dysarthria, Hallucinations, Hostility, Hyperalgesia, Hyperesthesia, Hyperkinesia, Hypokinesia, Hypotonia, Libido increased, Myoclonus, Neuralgia; Rare: Addiction, Cerebellar syndrome, Cogwheel rigidity, Coma, Delirium, Delusions, Dysautonomia, Dyskinesia, Dystonia, Encephalopathy, Extrapyramidal syndrome, Guillain-Barré syndrome, Hypalgesia, Intracranial hypertension, Manic reaction, Paranoid reaction, Peripheral neuritis, Personality disorder, Psychotic depression, Schizophrenic reaction, Sleep disorder, Torticollis, Trismus
 
 Respiratory System – Rare: Apnea, Atelectasis, Bronchiolitis, Hiccup, Laryngismus, Lung edema, Lung fibrosis, Yawn
 
