@@ -22,13 +22,13 @@ See table below:
 | 10 mL Vial | 28 days | Until expiration date | 28 days, refrigerated/room temperature. |
 | 3 mL KwikPen (prefilled) | 10 days | Until expiration date | 10 days. Do not refrigerate. |
 
-Literature revised February 25, 2015
+Literature revised May 11, 2018
 
 Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 
 www.humalog.com
 
-Copyright © 2007, 2015, Eli Lilly and Company.
+Copyright © 2007, 2018, Eli Lilly and Company.
 All rights reserved.
 
-LOG5050-0001-USPI-20150225
+LOG5050-0002-USPI-20180511
