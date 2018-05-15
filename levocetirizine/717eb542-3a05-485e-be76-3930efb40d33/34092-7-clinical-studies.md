@@ -17,7 +17,7 @@ These trials were 4 weeks in duration and included patients with perennial aller
 In these trials, each of the three doses of levocetirizine dihydrochloride demonstrated greater decrease in the reflective total symptom score than placebo and the difference was statistically significant for all three doses in the two studies.
 Results for one of these trials are shown in Table 4.
 
-Table 4 Mean Reflective Total Symptom Score* in Allergic Rhinitis Dose-Ranging Trial
+Table 4 Mean Reflective Total Symptom Score* in Allergic Rhinitis Dose-Ranging Trials
 
 | Treatment | N | Baseline | On Treatment Adjusted Mean | Difference from Placebo |  |  |
 | --- | --- | --- | --- | --- | --- | --- |

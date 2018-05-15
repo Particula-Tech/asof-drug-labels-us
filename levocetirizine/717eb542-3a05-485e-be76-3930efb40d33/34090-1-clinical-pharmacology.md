@@ -51,7 +51,7 @@ The major route of excretion of levocetirizine and its metabolites is via urine,
 Excretion via feces accounts for only 12.9% of the dose.
 Levocetirizine is excreted both by glomerular filtration and active tubular secretion.
 Renal clearance of levocetirizine correlates with that of creatinine clearance.
-In patients with renal impairment the clearance of levocetirizine is reduced.
+In patients with renal impairment the clearance of levocetirizine is reduced [See Dosage and Administration (2.2)].
 
 Drug Interaction Studies
 
@@ -88,7 +88,7 @@ Race
 
 The effect of race on levocetirizine has not been studied.
 As levocetirizine is primarily renally excreted, and there are no important racial differences in creatinine clearance, pharmacokinetic characteristics of levocetirizine are not expected to be different across races.
-No race- related differences in the kinetics of racemic cetirizine have been observed.
+No race-related differences in the kinetics of racemic cetirizine have been observed.
 
 Renal Impairment
 

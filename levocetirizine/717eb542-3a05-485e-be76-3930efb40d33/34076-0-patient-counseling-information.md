@@ -20,6 +20,6 @@ Manufactured for:
 
 Micro Labs USA Inc.
 
-Princeton, NJ 08540
+Basking Ridge, NJ 07920
 
-Revised: 11/2017
+Revised: 04/2018

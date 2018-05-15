@@ -121,4 +121,4 @@ Since levocetirizine is the principal pharmacologically active component of ceti
 - Nervous system disorders: extrapyramidal symptoms, myoclonus, orofacial dyskinesia, tic
 - Pregnancy, puerperium and perinatal conditions: stillbirth
 - Renal and urinary disorders: glomerulonephritis
-- Skin and subcutaneous tissue disorders: acute generalized exanthematous pustulosis (AGEP)
+- Skin and subcutaneous tissue disorders: acute generalized exanthematous pustulosis (AGEP); rebound pruritus -pruritus within a few days after discontinuation of cetirizine, usually after long-term use (e.g. months to years) of cetirizine.
