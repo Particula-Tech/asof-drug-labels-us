@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA210441"
+  ],
+  "inn": "hydroxychloroquine",
+  "labeler": "Dr. Reddy's Laboratories Inc.",
+  "package_ndcs": [
+    "43598-721-01",
+    "43598-721-05"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "hydroxychloroquine sulfate",
+      "name": "HYDROXYCHLOROQUINE SULFATE"
+    }
+  ],
+  "setid": "452092b4-7a8f-4d19-8113-f1c2a948d3d8",
+  "source": "dailymed"
+}
