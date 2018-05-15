@@ -2,7 +2,7 @@
 
 Physicians should inform patients of the risks associated with esmolol hydrochloride injection:
 
-- •The most common adverse reactions are symptomatic hypotension (hyperhidrosis, dizziness) and asymptomatic hypotension.
+1. •The most common adverse reactions are symptomatic hypotension (hyperhidrosis, dizziness) and asymptomatic hypotension.
 
 BaxterLogo Manufactured for
 
@@ -12,6 +12,6 @@ Deerfield, IL 60015 USA
 
 Baxter, Brevibloc, and Brevibloc Premixed are trademarks of Baxter International Inc.
 
-07-19-73-108
+07-19-00-0334
 
 460-813-02

@@ -2,7 +2,7 @@
 
 ## 2.1 Dosing for the Treatment of Supraventricular Tachycardia or Noncompensatory Sinus Tachycardia
 
-Esmolol hydrochloride is administered by continuous intravenous infusion with or without a loading dose.
+Esmolol hydrochloride injection is administered by continuous intravenous infusion with or without a loading dose.
 Additional loading doses and/or titration of the maintenance infusion (step-wise dosing) may be necessary based on desired ventricular response.
 
 Table 1 Step-Wise Dosing
@@ -28,30 +28,30 @@ Therefore two dosing options are presented: immediate control and gradual contro
 
 ### Immediate Control
 
-- •Administer 1 mg per kg as a bolus dose over 30 seconds followed by an infusion of 150 mcg per kg per min if necessary.
-- •Adjust the infusion rate as required to maintain desired heart rate and blood pressure.
-  Refer to Maximum Recommended Doses below.
+1. •Administer 1 mg per kg as a bolus dose over 30 seconds followed by an infusion of 150 mcg per kg per min if necessary.
+2. •Adjust the infusion rate as required to maintain desired heart rate and blood pressure.
+   Refer to Maximum Recommended Doses below.
 
 ### Gradual Control
 
-- •Administer 500 mcg per kg as a bolus dose over 1 minute followed by a maintenance infusion of 50 mcg per kg per min for 4 minutes.
-- •Depending on the response obtained, continue dosing as outlined for supraventricular tachycardia.
-  Refer to Maximum Recommended Doses below.
+1. •Administer 500 mcg per kg as a bolus dose over 1 minute followed by a maintenance infusion of 50 mcg per kg per min for 4 minutes.
+2. •Depending on the response obtained, continue dosing as outlined for supraventricular tachycardia.
+   Refer to Maximum Recommended Doses below.
 
 ### Maximum Recommended Doses
 
-- •For the treatment of tachycardia, maintenance infusion dosages greater than 200 mcg per kg per min are not recommended; dosages greater than 200 mcg per kg per min provide little additional heart rate-lowering effect, and the rate of adverse reactions increases.
-- •For the treatment of hypertension, higher maintenance infusion dosages (250-300 mcg per kg per min) may be required.
-  The safety of doses above 300 mcg per kg per minute has not been studied.
+1. •For the treatment of tachycardia, maintenance infusion dosages greater than 200 mcg per kg per min are not recommended; dosages greater than 200 mcg per kg per min provide little additional heart rate-lowering effect, and the rate of adverse reactions increases.
+2. •For the treatment of hypertension, higher maintenance infusion dosages (250-300 mcg per kg per min) may be required.
+   The safety of doses above 300 mcg per kg per minute has not been studied.
 
 ## 2.3 Transition from Esmolol Hydrochloride Injection Therapy to Alternative Drugs
 
 After patients achieve adequate control of the heart rate and a stable clinical status, transition to alternative antiarrhythmic drugs may be accomplished.
 
-When transitioning from esmolol hydrochloride to alternative drugs, the physician should carefully consider the labeling instructions of the alternative drug selected and reduce the dosage of esmolol hydrochloride as follows:
+When transitioning from esmolol hydrochloride injection to alternative drugs, the physician should carefully consider the labeling instructions of the alternative drug selected and reduce the dosage of esmolol hydrochloride injection as follows:
 
-- 1.Thirty minutes following the first dose of the alternative drug, reduce the esmolol hydrochloride infusion rate by one-half (50%).
-- 2.After administration of the second dose of the alternative drug, monitor the patient’s response and if satisfactory control is maintained for the first hour, discontinue the esmolol hydrochloride infusion.
+1. 1.Thirty minutes following the first dose of the alternative drug, reduce the esmolol hydrochloride infusion rate by one-half (50%).
+2. 2.After administration of the second dose of the alternative drug, monitor the patient’s response and if satisfactory control is maintained for the first hour, discontinue the esmolol hydrochloride infusion.
 
 ## 2.4 Directions for Use
 
@@ -64,15 +64,15 @@ Parenteral drug products should be inspected visually for particulate matter and
 
 ### Compatibility with Commonly Used Intravenous Fluids
 
-Esmolol hydrochloride was tested for compatibility with ten commonly used intravenous fluids at a final concentration of 10 mg esmolol hydrochloride per mL.
-Esmolol hydrochloride was found to be compatible with the following solutions and was stable for at least 24 hours at controlled room temperature or under refrigeration:
+Esmolol hydrochloride injection was tested for compatibility with ten commonly used intravenous fluids at a final concentration of 10 mg esmolol hydrochloride per mL.
+Esmolol hydrochloride injection was found to be compatible with the following solutions and was stable for at least 24 hours at controlled room temperature or under refrigeration:
 
-- •Dextrose (5%) Injection, USP
-- •Dextrose (5%) in Lactated Ringer’s Injection
-- •Dextrose (5%) in Ringer’s Injection
-- •Dextrose (5%) and Sodium Chloride (0.45%) Injection, USP
-- •Dextrose (5%) and Sodium Chloride (0.9%) Injection, USP
-- •Lactated Ringer’s Injection, USP
-- •Potassium Chloride (40 mEq/liter) in Dextrose (5%) Injection, USP
-- •Sodium Chloride (0.45%) Injection, USP
-- •Sodium Chloride (0.9%) Injection, USP
+1. •Dextrose (5%) Injection, USP
+2. •Dextrose (5%) in Lactated Ringer’s Injection
+3. •Dextrose (5%) in Ringer’s Injection
+4. •Dextrose (5%) and Sodium Chloride (0.45%) Injection, USP
+5. •Dextrose (5%) and Sodium Chloride (0.9%) Injection, USP
+6. •Lactated Ringer’s Injection, USP
+7. •Potassium Chloride (40 mEq/liter) in Dextrose (5%) Injection, USP
+8. •Sodium Chloride (0.45%) Injection, USP
+9. •Sodium Chloride (0.9%) Injection, USP
