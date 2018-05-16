@@ -7,7 +7,7 @@ Most of these effects are thought to result from a facilitation of the action of
 
 ### Absorption
 
-After oral administration > 90% of diazepam is absorbed and the average time to achieve peak plasma concentrations is 1 to 1.5 hours with a range of 0.25 to 2.5 hours.
+After oral administration > 90% of diazepam is absorbed and the average time to achieve peak plasma concentrations is 1-1.5 hours with a range of 0.25 to 2.5 hours.
 Absorption is delayed and decreased when administered with a moderate fat meal.
 In the presence of food mean lag times are approximately 45 minutes as compared with 15 minutes when fasting.
 There is also an increase in the average time to achieve peak concentrations to about 2.5 hours in the presence of food as compared with 1.25 hours when fasting.
@@ -39,11 +39,11 @@ Diazepam accumulates upon multiple dosing and there is some evidence that the te
 
 ### Children
 
-In children 3 to 8 years old the mean half-life of diazepam has been reported to be 18 hours.
+In children 3-8 years old the mean half-life of diazepam has been reported to be 18 hours.
 
 ### Newborns
 
-In full term infants, elimination half-lives around 30 hours have been reported, with a longer average half-life of 54 hours reported in premature infants of 28 to 34 weeks gestational age and 8 to 81 days post-partum.
+In full term infants, elimination half-lives around 30 hours have been reported, with a longer average half-life of 54 hours reported in premature infants of 28-34 weeks gestational age and 8-81 days post-partum.
 In both premature and full term infants the active metabolite desmethyldiazepam shows evidence of continued accumulation compared to children.
 Longer half-lives in infants may be due to incomplete maturation of metabolic pathways.
 
@@ -61,5 +61,5 @@ Reported changes in free drug may be due to significant decreases in plasma prot
 In mild and moderate cirrhosis, average half-life is increased.
 The average increase has been variously reported from 2-fold to 5-fold, with individual half-lives over 500 hours reported.
 There is also an increase in volume of distribution, and average clearance decreases by almost half.
-Mean half-life is also prolonged with hepatic fibrosis to 90 hours (range 66 to 104 hours), with chronic active hepatitis to 60 hours (range 26 to 76 hours), and with acute viral hepatitis to 74 hours (range 49 to 129).
+Mean half-life is also prolonged with hepatic fibrosis to 90 hours (range 66-104 hours), with chronic active hepatitis to 60 hours (range 26-76 hours), and with acute viral hepatitis to 74 hours (range 49-129).
 In chronic active hepatitis, clearance is decreased by almost half.

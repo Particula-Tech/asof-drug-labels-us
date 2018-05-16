@@ -93,7 +93,7 @@ Concomitant use with alcohol is not recommended due to enhancement of the sedati
 
 Diazepam peak concentrations are 30% lower when antacids are administered concurrently.
 However, there is no effect on the extent of absorption.
-The lower peak concentrations appear due to a slower rate of absorption, with the time required to achieve peak concentrations on average 20 to 25 minutes greater in the presence of antacids.
+The lower peak concentrations appear due to a slower rate of absorption, with the time required to achieve peak concentrations on average 20-25 minutes greater in the presence of antacids.
 However, this difference was not statistically significant.
 
 ### Compounds Which Inhibit Certain Hepatic Enzymes
@@ -115,7 +115,7 @@ No adverse effects on fertility or offspring viability were noted at a dose of 8
 
 ## Pregnancy
 
-### Pregnancy Category D
+### Category D
 
 (see WARNINGS: Pregnancy).
 
