@@ -31,13 +31,13 @@ After reconstitution, use within two hours if stored at room temperature, or wit
 | Reconstituted Bulk Solution Should Not be Used For Direct Infusion |
 | --- |
 
-If the reconstituted bulk solution is stored for less than one hour at room temperature (20°C/68°F) prior to further dilution, the use periods indicated in Table 6 apply for the diluted solutions.
+If the reconstituted bulk solution is stored for less than one hour at room temperature (20°C/68°F) prior to further dilution, the use periods indicated in Table 4 apply for the diluted solutions.
 
-If the bulk solution is stored for one to two hours at room temperature (20°C/68°F) and then diluted with Sterile Water for Injection or 0.9% Sodium Chloride Injection to the following concentrations, the use periods indicated in Table 7 apply.
+If the bulk solution is stored for one to two hours at room temperature (20°C/68°F) and then diluted with Sterile Water for Injection or 0.9% Sodium Chloride Injection to the following concentrations, the use periods indicated in Table 5 apply.
 
 Any unused portions of solution that remain after the indicated time periods should be discarded.
 
-Table 6
+Table 4
 
 | Diluent | Maximum Concentration (mg/mL) UNASYN (Ampicillin/Sulbactam) | Use Periods |
 | --- | --- | --- |
@@ -49,7 +49,7 @@ Table 6
 | 5% Dextrose in 0.45% Saline | 3 (2/1) 15 (10/5) | 4 hrs at 21°C 4 hrs at 4°C |
 | 10% Invert Sugar | 3 (2/1) 30 (20/10) | 4 hrs at 21°C 3 hrs at 4°C |
 
-Table 7
+Table 5
 
 | IV Solution | Maximum Concentration (mg/mL) UNASYN (Ampicillin/Sulbactam) | Use Period |
 | --- | --- | --- |
@@ -85,4 +85,4 @@ Rx only
 
 LAB-0018-17.0
 
-April 2018
+Revised: 05/2018

@@ -6,7 +6,7 @@ Data from a controlled clinical trial conducted in pediatric patients provided e
 Of 99 pediatric patients evaluable for clinical efficacy, 60 patients received a regimen containing intravenous UNASYN, and 39 patients received a regimen containing intravenous cefuroxime.
 This trial demonstrated similar outcomes (assessed at an appropriate interval after discontinuation of all antimicrobial therapy) for UNASYN- and cefuroxime-treated patients:
 
-TABLE 4
+TABLE 2
 
 | Therapeutic Regimen | Clinical Success | Clinical Failure |
 | --- | --- | --- |

@@ -22,7 +22,7 @@ In clinical trials, most children received a course of oral antimicrobials follo
 In patients with impairment of renal function the elimination kinetics of ampicillin and sulbactam are similarly affected, hence the ratio of one to the other will remain constant whatever the renal function.
 The dose of UNASYN in such patients should be administered less frequently in accordance with the usual practice for ampicillin and according to the following recommendations:
 
-TABLE 5 UNASYN Dosage Guide for Patients with Renal Impairment
+TABLE 3 UNASYN Dosage Guide for Patients with Renal Impairment
 
 | Creatinine Clearance (mL/min/1.73m2) | Ampicillin/Sulbactam Half-Life (Hours) | Recommended UNASYN Dosage |
 | --- | --- | --- |
