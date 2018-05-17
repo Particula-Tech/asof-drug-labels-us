@@ -10,9 +10,9 @@ ROCURONIUM BROMIDE INJECTION
 
 For IV Use Only
 
-Rx only
+WARNING: Paralyzing Agent
 
-Multiple Dose Vial
+5 mL vial label
 
 PACKAGE LABEL - PRINCIPAL DISPLAY - Rocuronium 10 mL Multiple Dose Vial Label
 
@@ -24,6 +24,6 @@ ROCURONIUM BROMIDE INJECTION
 
 For IV Use Only
 
-Rx only
+WARNING: Paralyzing Agent
 
-Multiple Dose Vial
+10 mL Vial Label

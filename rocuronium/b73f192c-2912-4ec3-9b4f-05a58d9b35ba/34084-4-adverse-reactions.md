@@ -5,9 +5,9 @@ In clinical trials, the most common adverse reactions (2%) are transient hypoten
 The following adverse reactions are described, or described in greater detail, in other sections:
 
 - Anaphylaxis [see Warnings and Precautions (5.2)]
-- Residual paralysis [seeWarnings and Precautions (5.4)]
-- Myopathy [see Warnings and Precautions (5.5)]
-- Increased pulmonary vascular resistance [see Warnings and Precautions (5.11)]
+- Residual paralysis [seeWarnings and Precautions (5.5)]
+- Myopathy [see Warnings and Precautions (5.6)]
+- Increased pulmonary vascular resistance [see Warnings and Precautions (5.12)]
 
 To report SUSPECTED ADVERSE REACTIONS, contact X-GEN Pharmaceuticals at 1-607-562-2700 or the FDA at 1-800-FDA-1088 or WWW.fda.gov/medwatch
 

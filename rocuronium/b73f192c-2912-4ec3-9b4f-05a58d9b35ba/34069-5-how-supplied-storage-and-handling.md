@@ -18,17 +18,3 @@ Use opened vials of rocuronium bromide within 30 days.
 
 Safety and Handling: There is no specific work exposure limit for rocuronium bromide injection.
 In case of eye contact, flush with water for at least 10 minutes.
-
-Manufactured for:
-
-X-GEN Pharmaceuticals, Inc.
-
-Big Flats, NY 14814
-
-United States of America
-
-04//2015
-
-ROCU-PI-02
-
-Manufactured in Germany

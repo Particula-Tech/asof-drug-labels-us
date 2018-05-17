@@ -7,9 +7,9 @@ Doses of rocuronium bromide injection should be individualized and a peripheral 
 The dosage information which follows is derived from studies based upon units of drug per unit of body weight.
 It is intended to serve as an initial guide to clinicians familiar with other neuromuscular blocking agents to acquire experience with rocuronium bromide.
 
-In patients in whom potentiation of, or resistance to, neuromuscular block is anticipated, a dose adjustment should be considered [see Dosage and Administration (2.5), Warnings and Precautions (5.9,5.12), Drug Interactions (7.2, 7.3, 7.4, 7.5, 7.6, 7.8, 7.10), and Use in Specific Populations (8.6)].
+In patients in whom potentiation of, or resistance to, neuromuscular block is anticipated, a dose adjustment should be considered [see Dosage and Administration (2.5), Warnings and Precautions (5.10,5.13), Drug Interactions (7.2, 7.3, 7.4, 7.5, 7.6, 7.8, 7.10), and Use in Specific Populations (8.6)].
 
-## 2.1 Dose for Tracheal Intubation
+## 2.1 Important Dosing and Administration Information
 
 The recommended initial dose of rocuronium bromide, regardless of anesthetic technique, is 0.6 mg/kg.
 Neuromuscular block sufficient for intubation (80% block or greater) is attained in a median (range) time of 1 (0.4 to 6) minute(s) and most patients have intubation completed within 2 minutes.
@@ -24,6 +24,10 @@ This dose may be expected to provide 22 (12 to 31) minutes of clinical relaxatio
 Patients receiving this low dose of 0.45 mg/kg who achieve less than 90% block (about 16% of these patients) may have a more rapid time to 25% recovery, 12 to 15 minutes.
 
 A large bolus dose of 0.9 or 1.2 mg/kg can be administered under opioid/nitrous oxide/oxygen anesthesia without adverse effects to the cardiovascular system [see Clinical Pharmacology (12.2)].
+
+Risk of Medication Errors: Store Rocuronium bromide Injection with the cap and ferrule intact.
+Accidental administration of neuromuscular blocking agents may be fatal.
+Store these products in a way that minimizes the possibility of selecting the wrong product [see Warnings and Precautions (5.3)]
 
 ## 2.2 Rapid Sequence Intubation
 
@@ -55,6 +59,60 @@ Unused portions of infusion solutions should be discarded.
 
 Infusion rates of rocuronium bromide can be individualized for each patient using the following tables for 3 different concentrations of rocuronium bromide solution as guidelines:
 
+| Table 1: Infusion Rates Using Rocuronium Bromide Injection (0.5 mg/mL)* |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Patient Weight |  | Drug Delivery Rate (mcg/kg/min) |  |  |  |  |  |  |  |  |  |
+| (kg) | (lbs) | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 12 | 14 | 16 |
+| Infusion Delivery Rate (mL/hr) |  |  |  |  |  |  |  |  |  |  |  |
+| 10 | 22 | 4.8 | 6 | 7.2 | 8.4 | 9.6 | 10.8 | 12 | 14.4 | 16.8 | 19.2 |
+| 15 | 33 | 7.2 | 9 | 10.8 | 12.6 | 14.4 | 16.2 | 18 | 21.6 | 25.2 | 28.8 |
+| 20 | 44 | 9.6 | 12 | 14.4 | 16.8 | 19.2 | 21.6 | 24 | 28.8 | 33.6 | 38.4 |
+| 25 | 55 | 12 | 15 | 18 | 21 | 24 | 27 | 30 | 36 | 42 | 48 |
+| 35 | 77 | 16.8 | 21 | 25.2 | 29.4 | 33.6 | 37.8 | 42 | 50.4 | 58.8 | 67.2 |
+| 50 | 110 | 24 | 30 | 36 | 42 | 48 | 54 | 60 | 72 | 84 | 96 |
+| 60 | 132 | 28.8 | 36 | 43.2 | 50.4 | 57.6 | 64.8 | 72 | 86.4 | 100.8 | 115.2 |
+| 70 | 154 | 33.6 | 42 | 50.4 | 58.8 | 67.2 | 75.6 | 84 | 100.8 | 117.6 | 134.4 |
+| 80 | 176 | 38.4 | 48 | 57.6 | 67.2 | 76.8 | 86.4 | 96 | 115.2 | 134.4 | 153.6 |
+| 90 | 198 | 43.2 | 54 | 64.8 | 75.6 | 86.4 | 97.2 | 108 | 129.6 | 151.2 | 172.8 |
+| 100 | 220 | 48 | 60 | 72 | 84 | 96 | 108 | 120 | 144 | 168 | 192 |
+| * 50 mg rocuronium bromide in 100 mL solution. |  |  |  |  |  |  |  |  |  |  |  |
+
+| Table 2: Infusion Rates Using Rocuronium Bromide Injection (1 mg/mL)* |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Patient Weight |  | Drug Delivery Rate (mcg/kg/min) |  |  |  |  |  |  |  |  |  |
+| (kg) | (lbs) | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 12 | 14 | 16 |
+| Infusion Delivery Rate (mL/hr) |  |  |  |  |  |  |  |  |  |  |  |
+| 10 | 22 | 2.4 | 3 | 3.6 | 4.2 | 4.8 | 5.4 | 6 | 7.2 | 8.4 | 9.6 |
+| 15 | 33 | 3.6 | 4.5 | 5.4 | 6.3 | 7.2 | 8.1 | 9 | 10.8 | 12.6 | 14.4 |
+| 20 | 44 | 4.8 | 6 | 7.2 | 8.4 | 9.6 | 10.8 | 12 | 14.4 | 16.8 | 19.2 |
+| 25 | 55 | 6 | 7.5 | 9 | 10.5 | 12 | 13.5 | 15 | 18 | 21 | 24 |
+| 35 | 77 | 8.4 | 10.5 | 12.6 | 14.7 | 16.8 | 18.9 | 21 | 25.2 | 29.4 | 33.6 |
+| 50 | 110 | 12 | 15 | 18 | 21 | 24 | 27 | 30 | 36 | 42 | 48 |
+| 60 | 132 | 14.4 | 18 | 21.6 | 25.2 | 28.8 | 32.4 | 36 | 43.2 | 50.4 | 57.6 |
+| 70 | 154 | 16.8 | 21 | 25.2 | 29.4 | 33.6 | 37.8 | 42 | 50.4 | 58.8 | 67.2 |
+| 80 | 176 | 19.2 | 24 | 28.8 | 33.6 | 38.4 | 43.2 | 48 | 57.6 | 67.2 | 76.8 |
+| 90 | 198 | 21.6 | 27 | 32.4 | 37.8 | 43.2 | 48.6 | 54 | 64.8 | 75.6 | 86.4 |
+| 100 | 220 | 24 | 30 | 36 | 42 | 48 | 54 | 60 | 72 | 84 | 96 |
+| * 100 mg rocuronium bromide in 100 mL solution. |  |  |  |  |  |  |  |  |  |  |  |
+
+| Table 3: Infusion Rates Using Rocuronium Bromide Injection (5 mg/mL)* |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Patient Weight |  | Drug Delivery Rate (mcg/kg/min) |  |  |  |  |  |  |  |  |  |
+| (kg) | (lbs) | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 12 | 14 | 16 |
+| Infusion Delivery Rate (mL/hr) |  |  |  |  |  |  |  |  |  |  |  |
+| 10 | 22 | 0.5 | 0.6 | 0.7 | 0.8 | 1 | 1.1 | 1.2 | 1.4 | 1.7 | 1.9 |
+| 15 | 33 | 0.7 | 0.9 | 1.1 | 1.3 | 1.4 | 1.6 | 1.8 | 2.2 | 2.5 | 2.9 |
+| 20 | 44 | 1 | 1.2 | 1.4 | 1.7 | 1.9 | 2.2 | 2.4 | 2.9 | 3.4 | 3.8 |
+| 25 | 55 | 1.2 | 1.5 | 1.8 | 2.1 | 2.4 | 2.7 | 3 | 3.6 | 4.2 | 4.8 |
+| 35 | 77 | 1.7 | 2.1 | 2.5 | 2.9 | 3.4 | 3.8 | 4.2 | 5 | 5.9 | 6.7 |
+| 50 | 110 | 2.4 | 3 | 3.6 | 4.2 | 4.8 | 5.4 | 6 | 7.2 | 8.4 | 9.6 |
+| 60 | 132 | 2.9 | 3.6 | 4.3 | 5 | 5.8 | 6.5 | 7.2 | 8.6 | 10.1 | 11.5 |
+| 70 | 154 | 3.4 | 4.2 | 5 | 5.9 | 6.7 | 7.6 | 8.4 | 10.1 | 11.8 | 13.4 |
+| 80 | 176 | 3.8 | 4.8 | 5.8 | 6.7 | 7.7 | 8.6 | 9.6 | 11.5 | 13.4 | 15.4 |
+| 90 | 198 | 4.3 | 5.4 | 6.5 | 7.6 | 8.6 | 9.7 | 10.8 | 13 | 15.1 | 17.3 |
+| 100 | 220 | 4.8 | 6 | 7.2 | 8.4 | 9.6 | 10.8 | 12 | 14.4 | 16.8 | 19.2 |
+| * 500 mg rocuronium bromide in 100 mL solution. |  |  |  |  |  |  |  |  |  |  |  |
+
 ## 2.5 Dosage in Specific Populations
 
 Pediatric Patients: The recommended initial intubation dose of rocuronium bromide is 0.6 mg/kg; however, a lower dose of 0.45 mg/kg may be used depending on anesthetic technique and the age of the patient.
@@ -81,7 +139,7 @@ Rocuronium bromide is not recommended for rapid sequence intubation in pediatric
 
 Geriatric Patients: Geriatric patients (65 years or older) exhibited a slightly prolonged median (range) clinical duration of 46 (22-73), 62 (49-75), and 94 (64-138) minutes under opioid/nitrous oxide/oxygen anesthesia following doses of 0.6, 0.9, and 1.2 mg/kg, respectively.
 No differences in duration of neuromuscular blockade following maintenance doses of rocuronium bromide infusion were observed between these subjects and younger subjects, but greater sensitivity of some older individuals cannot be ruled out [see Clinical Pharmacology (12.2) and Clinical Studies (14.2)].
-[See also Warnings and Precautions (5.4).]
+[See also Warnings and Precautions (5.5).]
 
 Patients with Renal or Hepatic Impairment: No differences from patients with normal hepatic and kidney function were observed for onset time at a dose of 0.6 mg/kg rocuronium bromide.
 When compared to patients with normal renal and hepatic function, the mean clinical duration is similar in patients with end-stage renal disease undergoing renal transplant, and is about 1.5 times longer in patients with hepatic disease.
@@ -93,7 +151,7 @@ An analysis across all US controlled clinical studies indicates that the pharmac
 
 Patients with Reduced Plasma Cholinesterase Activity: Rocuronium metabolism does not depend on plasma cholinesterase so dosing adjustments are not needed in patients with reduced plasma cholinesterase activity.
 
-Patients with Prolonged Circulation Time: Because higher doses of rocuronium bromide produce a longer duration of action, the initial dosage should usually not be increased in these patients to reduce onset time; instead, in these situations, when feasible, more time should be allowed for the drug to achieve onset of effect [see Warnings and Precautions (5.7)].
+Patients with Prolonged Circulation Time: Because higher doses of rocuronium bromide produce a longer duration of action, the initial dosage should usually not be increased in these patients to reduce onset time; instead, in these situations, when feasible, more time should be allowed for the drug to achieve onset of effect [see Warnings and Precautions (5.8)].
 
 Patients with Drugs or Conditions Causing Potentiation of Neuromuscular Block: The neuromuscular blocking action of rocuronium bromide is potentiated by isoflurane and enflurane anesthesia.
 Potentiation is minimal when administration of the recommended dose of rocuronium bromide occurs prior to the administration of these potent inhalation agents.
@@ -130,7 +188,7 @@ If rocuronium bromide is administered via the same infusion line that is also us
 Infusion solutions should be used within 24 hours of mixing.
 Unused portions of infusion solutions should be discarded.
 
-Rocuronium bromide injection should not be mixed with alkaline solutions [see Warnings and Precautions (5.10)].
+Rocuronium bromide injection should not be mixed with alkaline solutions [see Warnings and Precautions (5.11)].
 
 Visual Inspection: Parenteral drug products should be inspected visually for particulate matter and clarity prior to administration whenever solution and container permit.
 Do not use solution if particulate matter is present.
