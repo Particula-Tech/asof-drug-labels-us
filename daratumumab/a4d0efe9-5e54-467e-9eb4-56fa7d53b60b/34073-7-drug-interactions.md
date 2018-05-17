@@ -5,7 +5,7 @@
 Interference with Indirect Antiglobulin Tests (Indirect Coombs Test)
 
 Daratumumab binds to CD38 on RBCs and interferes with compatibility testing, including antibody screening and cross matching.
-Daratumumab interference mitigation methods include treating reagent RBCs with dithiothreitol (DTT) to disrupt daratumumab binding1 [see References (15)] or genotyping.
+Daratumumab interference mitigation methods include treating reagent RBCs with dithiothreitol (DTT) to disrupt daratumumab binding [see References (15)] or genotyping.
 Since the Kell blood group system is also sensitive to DTT treatment, K-negative units should be supplied after ruling out or identifying alloantibodies using DTT-treated RBCs.
 
 If an emergency transfusion is required, non-cross-matched ABO/RhD-compatible RBCs can be given per local blood bank practices.

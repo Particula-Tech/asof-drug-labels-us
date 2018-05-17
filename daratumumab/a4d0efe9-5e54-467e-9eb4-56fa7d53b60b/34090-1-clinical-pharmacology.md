@@ -22,7 +22,7 @@ Over the dose range from 1 to 24 mg/kg as monotherapy or 1 to 16 mg/kg of DARZAL
 
 Following the recommended dose of 16 mg/kg when DARZALEX was administered as monotherapy or in combination therapy, the mean serum maximal concentration (Cmax) value at the end of weekly dosing, was approximately 2.7 to 3-fold higher compared to the mean serum Cmax following the first dose.
 The mean ± standard deviation (SD) trough serum concentration (Cmin) at the end of weekly dosing was 573 ± 332 µg/mL when DARZALEX was administered as monotherapy and 502 ± 196 to 607 ± 231 µg/mL when DARZALEX was administered as combination therapy.
-Daratumumab steady state was achieved approximately 5 months into the every 4-week dosing period (by the 21st infusion), and the mean ± SD ratio of Cmax at steady-state to Cmax after the first dose was 1.6 ± 0.5.
+When DARZALEX was administered as monotherapy, daratumumab steady state was achieved approximately 5 months into the every 4-week dosing period (by the 21st infusion), and the mean ± SD ratio of Cmax at steady-state to Cmax after the first dose was 1.6 ± 0.5.
 
 Distribution
 
@@ -32,12 +32,12 @@ Elimination
 
 Daratumumab clearance decreased with increasing dose and with multiple dosing.
 At the recommended dose of 16 mg/kg of DARZALEX as monotherapy, the mean ± SD linear clearance was estimated to be 171.4 ± 95.3 mL/day.
-The mean ± SD estimated terminal half-life associated with linear clearance was 18 ± 9 days when DARZALEX administered as monotherapy and 23 ± 12 days when DARZALEX was administered as combination therapy.
+The mean ± SD estimated terminal half-life associated with linear clearance was 18 ± 9 days when DARZALEX administered as monotherapy and a mean of 22–23 days when DARZALEX was administered as combination therapy.
 
 Specific Populations
 
-The following population characteristics have no clinically meaningful effect on the pharmacokinetics of daratumumab in patients administered DARZALEX as monotherapy or as combination therapy: sex, age (31 to 84 years), mild [total bilirubin 1 to 1.5 times upper limit of normal (ULN) and any alanine transaminase (ALT)] and moderate (total bilirubin 1.5 to 3 times ULN and any ALT) hepatic impairment, or renal impairment [Creatinine clearance (CLcr) 15 –89 mL/min].
-The effect of severe (total bilirubin >3 times ULN and any ALT) hepatic impairment is unknown.
+The following population characteristics have no clinically meaningful effect on the pharmacokinetics of daratumumab in patients administered DARZALEX as monotherapy or as combination therapy: sex, age (31 to 93 years), mild [total bilirubin 1 to 1.5 times upper limit of normal (ULN) or aspartate aminotransaminase (AST)>ULN] and moderate (total bilirubin 1.5 to 3 times ULN and any AST) hepatic impairment, or renal impairment [Creatinine clearance (CLcr) 15 –89 mL/min].
+The effect of severe (total bilirubin >3 times ULN and any AST) hepatic impairment is unknown.
 Increasing body weight increased the central volume of distribution and clearance of daratumumab, supporting the body weight-based dosing regimen.
 
 Drug Interactions
@@ -48,4 +48,4 @@ The coadministration of lenalidomide, pomalidomide or bortezomib with DARZALEX d
 
 Effect of Daratumumab on Other Drugs
 
-The coadministration of DARZALEX with bortezomib did not affect the pharmacokinetics of bortezomib.
+The coadministration of DARZALEX with bortezomib or pomalidomide did not affect the pharmacokinetics of bortezomib or pomalidomide.

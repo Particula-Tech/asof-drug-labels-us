@@ -10,18 +10,59 @@ The following serious adverse reactions are also described elsewhere in the labe
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The safety data described below reflects exposure to DARZALEX (16 mg/kg) in 820 patients with multiple myeloma including 526 patients from two Phase 3 active-controlled trials who received DARZALEX in combination with either lenalidomide (DRd, n=283; Study 3) or bortezomib (DVd, n=243; Study 4) and five open-label, clinical trials in which patients received DARZALEX either in combination with pomalidomide (DPd, n=103; Study 5), in combination with lenalidomide (n=35), or as monotherapy (n=156).
+The safety data described below reflects exposure to DARZALEX (16 mg/kg) in 1166 patients with multiple myeloma including 872 patients from three Phase 3 active-controlled trials who received DARZALEX in combination with either lenalidomide and dexamethasone (DRd, n=283; POLLUX), bortezomib and dexamethasone (DVd, n=243; CASTOR) or bortezomib, melphalan and prednisone (D-VMP, n=346; ALCYONE), and five open-label, clinical trials in which patients received DARZALEX either in combination with pomalidomide and dexamethasone (DPd, n=103; EQUULEUS), in combination with lenalidomide and dexamethasone (n=35), or as monotherapy (n=156).
+
+Newly Diagnosed Multiple Myeloma
+
+Combination Treatment with Bortezomib, Melphalan and Prednisone
+
+Adverse reactions described in Table 5 reflect exposure to DARZALEX (D-VMP arm) for a median treatment duration of 14.7 months (range: 0 to 25.8 months) and median treatment duration of 12 months (range: 0.1 to 14.9 months) for the VMP group in ALCYONE.
+The most frequent adverse reactions (≥20% with at least 5% greater frequency in the D-VMP arm) were infusion reactions, upper respiratory tract infection and edema peripheral.
+Serious adverse reactions with at least a 2% greater incidence in the D-VMP arm compared to the VMP arm were pneumonia (D-VMP 11% vs VMP 4%), upper respiratory tract infection (D-VMP 5% vs VMP 1%), and pulmonary edema (D-VMP 2% vs VMP 0%).
+
+Table 5: Adverse reactions reported in ≥10% of patients and with at least a 5% greater frequency in the D-VMP arm in ALCYONE
+
+| Any Grade (%) | Grade 3 (%) | Grade 4 (%) | Any Grade (%) | Grade 3 (%) | Grade 4 (%) |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Body System Adverse Reaction | D-VMP (N=346) |  |  | VMP (N=354) |  |  |
+| Infusion reactionsInfusion reaction includes terms determined by investigators to be related to infusion, see description of Infusion Reactions below. | 28 | 4 | 1 | 0 | 0 | 0 |
+| General disorders and administration site conditions |  |  |  |  |  |  |
+| Edema peripheraledema peripheral, generalized edema, peripheral swelling | 21 | 1 | < 1 | 14 | 1 | 0 |
+| Infections and infestations |  |  |  |  |  |  |
+| Upper respiratory tract infectionupper respiratory tract infection, bronchitis, bronchitis bacterial, epiglottitis, laryngitis, laryngitis bacterial, metapneumovirus infection, nasopharyngitis, oropharyngeal candidiasis, pharyngitis, pharyngitis streptococcal, respiratory syncytial virus infection, respiratory tract infection, respiratory tract infection viral, rhinitis, sinusitis, tonsillitis, tracheitis, tracheobronchitis, viral pharyngitis, viral rhinitis, viral upper respiratory tract infection. | 48 | 5 | 0 | 28 | 3 | 0 |
+| Pneumoniapneumonia, lung infection, pneumonia aspiration, pneumonia bacterial, pneumonia pneumococcal, pneumonia streptococcal, pneumonia viral, and pulmonary sepsis | 16 | 12 | < 1 | 6 | 5 | < 1 |
+| Respiratory, thoracic and mediastinal disorders |  |  |  |  |  |  |
+| Coughcough, productive cough | 16 | < 1 | 0 | 8 | < 1 | 0 |
+| Dyspneadyspnea, dyspnea exertional | 13 | 2 | 1 | 5 | 1 | 0 |
+| Vascular disorders |  |  |  |  |  |  |
+| Hypertensionhypertension, blood pressure increased | 10 | 4 | < 1 | 3 | 2 | 0 |
+| Key: D=daratumumab, VMP=bortezomib-melphalan-prednisone |  |  |  |  |  |  |
+
+Laboratory abnormalities worsening during treatment from baseline listed in Table 6.
+
+Table 6: Treatment-emergent hematology laboratory abnormalities in ALCYONE
+
+| Any Grade | Grade 3 | Grade 4 | Any Grade | Grade 3 | Grade 4 |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | D-VMP (N=346) % |  |  | VMP (N=354) % |  |  |
+| Anemia | 47 | 18 | 0 | 50 | 21 | 0 |
+| Thrombocytopenia | 88 | 27 | 11 | 88 | 26 | 16 |
+| Neutropenia | 86 | 34 | 10 | 87 | 32 | 11 |
+| Lymphopenia | 85 | 46 | 12 | 83 | 44 | 9 |
+| Key: D=daratumumab, VMP=bortezomib-melphalan-prednisone |  |  |  |  |  |  |
+
+Relapsed/Refractory Multiple Myeloma
 
 Combination Treatment with Lenalidomide
 
-Adverse reactions described in Table 4 reflect exposure to DARZALEX (DRd arm) for a median treatment duration of 13.1 months (range: 0 to 20.7 months) and median treatment duration of 12.3 months (range: 0.2 to 20.1 months) for the lenalidomide group (Rd) in Study 3.
+Adverse reactions described in Table 7 reflect exposure to DARZALEX (DRd arm) for a median treatment duration of 13.1 months (range: 0 to 20.7 months) and median treatment duration of 12.3 months (range: 0.2 to 20.1 months) for the lenalidomide group (Rd) in POLLUX.
 The most frequent adverse reactions (≥20%) were infusion reactions, diarrhea, nausea, fatigue, pyrexia, upper respiratory tract infection, muscle spasms, cough and dyspnea.
 The overall incidence of serious adverse reactions was 49% for the DRd group compared with 42% for the Rd group.
-Serious adverse reactions with at least a 2% greater incidence in the DRd arm compared to the Rd arm were pneumonia (12% vs Rd 10%), upper respiratory tract infection (7% vs Rd 4%), influenza and pyrexia (DRd 3% vs Rd 1% for each).
+Serious adverse reactions with at least a 2% greater incidence in the DRd arm compared to the Rd arm were pneumonia (DRd 12% vs Rd 10%), upper respiratory tract infection (DRd 7% vs Rd 4%), influenza and pyrexia (DRd 3% vs Rd 1% for each).
 
 Adverse reactions resulted in discontinuations for 7% (n=19) of patients in the DRd arm versus 8% (n=22) in the Rd arm.
 
-Table 4: Adverse reactions reported in ≥ 10% of patients and with at least a 5% frequency greater in the DRd arm in Study 3
+Table 7: Adverse reactions reported in ≥ 10% of patients and with at least a 5% greater frequency in the DRd arm in POLLUX
 
 | Any Grade | Grade 3 | Grade 4 | Any Grade | Grade 3 | Grade 4 |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -45,11 +86,11 @@ Table 4: Adverse reactions reported in ≥ 10% of patients and with at least a 5
 | Dyspneadyspnea, dyspnea exertional | 21 | 3 | < 1 | 12 | 1 | 0 |
 | Key: D=daratumumab, Rd=lenalidomide-dexamethasone. |  |  |  |  |  |  |
 
-Laboratory abnormalities worsening during treatment from baseline listed in Table 5.
+Laboratory abnormalities worsening during treatment from baseline listed in Table 8.
 
-Table 5: Treatment-emergent hematology laboratory abnormalities in Study 3
+Table 8: Treatment-emergent hematology laboratory abnormalities in POLLUX
 
-| Any Grade | Grade 3 | Grade 4 | All Grades | Grade 3 | Grade 4 |  |
+| Any Grade | Grade 3 | Grade 4 | Any Grades | Grade 3 | Grade 4 |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | DRd (N=283) % |  |  | Rd (N=281) % |  |  |
 | Anemia | 52 | 13 | 0 | 57 | 19 | 0 |
@@ -60,14 +101,14 @@ Table 5: Treatment-emergent hematology laboratory abnormalities in Study 3
 
 Combination Treatment with Bortezomib
 
-Adverse reactions described in Table 6 reflect exposure to DARZALEX (DVd arm) for a median treatment duration of 6.5 months (range: 0 to 14.8 months) and median treatment duration of 5.2 months (range: 0.2 to 8.0 months) for the bortezomib group (Vd) in Study 4.
+Adverse reactions described in Table 9 reflect exposure to DARZALEX (DVd arm) for a median treatment duration of 6.5 months (range: 0 to 14.8 months) and median treatment duration of 5.2 months (range: 0.2 to 8.0 months) for the bortezomib group (Vd) in CASTOR.
 The most frequent adverse reactions (>20%) were infusion reactions, diarrhea, peripheral edema, upper respiratory tract infection, peripheral sensory neuropathy, cough and dyspnea.
 The overall incidence of serious adverse reactions was 42% for the DVd group compared with 34% for the Vd group.
 Serious adverse reactions with at least a 2% greater incidence in the DVd arm compared to the Vd arm were upper respiratory tract infection (DVd 5% vs Vd 2%), diarrhea and atrial fibrillation (DVd 2% vs Vd 0% for each).
 
 Adverse reactions resulted in discontinuations for 7% (n=18) of patients in the DVd arm versus 9% (n=22) in the Vd arm.
 
-Table 6: Adverse reactions reported in ≥ 10% of patients and with at least a 5% frequency greater in the DVd arm Study 4
+Table 9: Adverse reactions reported in ≥ 10% of patients and with at least a 5% greater frequency in the DVd arm CASTOR
 
 | Any Grade | Grade 3 | Grade 4 | Any Grade | Grade 3 | Grade 4 |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -88,9 +129,9 @@ Table 6: Adverse reactions reported in ≥ 10% of patients and with at least a 5
 | Dyspneadyspnea, dyspnea exertional | 21 | 4 | 0 | 11 | 1 | 0 |
 | Key: D=daratumumab, Vd=bortezomib-dexamethasone. |  |  |  |  |  |  |
 
-Laboratory abnormalities worsening during treatment are listed in Table 7.
+Laboratory abnormalities worsening during treatment are listed in Table 10.
 
-Table 7: Treatment-emergent hematology laboratory abnormalities in Study 4
+Table 10: Treatment-emergent hematology laboratory abnormalities in CASTOR
 
 | Any Grade | Grade 3 | Grade 4 | Any Grade | Grade 3 | Grade 4 |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -103,13 +144,13 @@ Table 7: Treatment-emergent hematology laboratory abnormalities in Study 4
 
 Combination Treatment with Pomalidomide
 
-Adverse reactions described in Table 8 reflect exposure to DARZALEX, pomalidomide and dexamethasone (DPd) for a median treatment duration of 6 months (range: 0.03 to 16.9 months) in Study 5.
+Adverse reactions described in Table 11 reflect exposure to DARZALEX, pomalidomide and dexamethasone (DPd) for a median treatment duration of 6 months (range: 0.03 to 16.9 months) in EQUULEUS.
 The most frequent adverse reactions (>20%) were infusion reactions, diarrhea, constipation, nausea, vomiting, fatigue, pyrexia, upper respiratory tract infection, muscle spasms, back pain, arthralgia, dizziness, insomnia, cough and dyspnea.
 The overall incidence of serious adverse reactions was 49%.
 Serious adverse reactions reported in ≥5% patients included pneumonia (7%).
 Adverse reactions resulted in discontinuations for 13% of patients.
 
-Table 8: Adverse reactions with incidence ≥10% reported in Study 5
+Table 11: Adverse reactions with incidence ≥10% reported in EQUULEUS
 
 | Adverse Reaction | Any Grade (%) | Grade 3 (%) | Grade 4 (%) |
 | --- | --- | --- | --- |
@@ -155,9 +196,9 @@ Table 8: Adverse reactions with incidence ≥10% reported in Study 5
 | Nasal congestion | 16 | 0 | 0 |
 | Key: D=Daratumumab, Pd=pomalidomide-dexamethasone. |  |  |  |
 
-Laboratory abnormalities worsening during treatment are listed in Table 9.
+Laboratory abnormalities worsening during treatment are listed in Table 12.
 
-Table 9: Treatment-emergent hematology laboratory abnormalities in Study 5
+Table 12: Treatment-emergent hematology laboratory abnormalities in EQUULEUS
 
 |  | Any Grade | Grade 3 | Grade 4 |
 | --- | --- | --- | --- |
@@ -178,15 +219,15 @@ The most frequent serious adverse reactions were pneumonia (6%), general physica
 Adverse reactions resulted in treatment delay for 24 (15%) patients, most frequently for infections.
 Adverse reactions resulted in discontinuations for 6 (4%) patients.
 
-Adverse reactions occurring in at least 10% of patients are presented in Table 10.
-Table 11 describes Grade 3–4 laboratory abnormalities reported at a rate of ≥10%.
+Adverse reactions occurring in at least 10% of patients are presented in Table 13.
+Table 14 describes Grade 3–4 laboratory abnormalities reported at a rate of ≥10%.
 
-Table 10: Adverse reactions with incidence ≥10% in patients with multiple myeloma treated with DARZALEX 16 mg/kg
+Table 13: Adverse reactions with incidence ≥10% in patients with multiple myeloma treated with DARZALEX 16 mg/kg
 
 | Adverse Reaction | Any Grade | Grade 3 | Grade 4 |
 | --- | --- | --- | --- |
 |  | DARZALEX 16 mg/kg N=156 |  |  |
-| Incidence (%) |  |  |  |
+|  | Incidence (%) |  |  |
 | Infusion reactionInfusion reaction includes terms determined by investigators to be related to infusion, see below. | 48 | 3 | 0 |
 | General disorders and administration site conditions |  |  |  |
 | Fatigue | 39 | 2 | 0 |
@@ -217,9 +258,9 @@ Table 10: Adverse reactions with incidence ≥10% in patients with multiple myel
 | Vascular disorders |  |  |  |
 | Hypertension | 10 | 5 | 0 |
 
-Table 11: Treatment emergent Grade 3–4 laboratory abnormalities (≥10%)
+Table 14: Treatment emergent Grade 3–4 laboratory abnormalities (≥10%)
 
-| All Grade (%) | Grade 3 (%) | Grade 4 (%) |  |
+|  | Any Grade (%) | Grade 3 (%) | Grade 4 (%) |
 | --- | --- | --- | --- |
 |  | Daratumumab 16 mg/kg (N=156) |  |  |
 | Anemia | 45 | 19 | 0 |
@@ -229,36 +270,36 @@ Table 11: Treatment emergent Grade 3–4 laboratory abnormalities (≥10%)
 
 Infusion Reactions
 
-In clinical trials (monotherapy and combination treatments; N=820) the incidence of any grade infusion reactions was 46% with the first infusion of DARZALEX, 2% with the second infusion, and 3% with subsequent infusions.
+In clinical trials (monotherapy and combination treatments; N=1166) the incidence of any grade infusion reactions was 40% with the first infusion of DARZALEX, 2% with the second infusion, and 4% with subsequent infusions.
 Less than 1% of patients had a Grade 3 infusion reaction with second or subsequent infusions.
+Grade 4 infusion reactions were reported in 2/1166 (0.2%) of patients.
 
-The median time to onset of a reaction was 1.4 hours (range: 0.02 to 72.8 hours).
-The incidence of infusion modification due to reactions was 42%.
-Median durations of infusion for the 1st, 2nd and subsequent infusions were 7.0, 4.3, and 3.5 hours respectively.
+The median time to onset of a reaction was 1.4 hours (range: 0 to 72.8 hours).
+The incidence of infusion modification due to reactions was 37%.
+Median durations of infusion for the 1st, 2nd and subsequent infusions were 7.0, 4.3, and 3.4 hours respectively.
 
-Severe (Grade 3) infusion reactions included bronchospasm, dyspnea, laryngeal edema, pulmonary edema, hypoxia, and hypertension.
-Other adverse infusion reactions (any Grade, ≥5%) were nasal congestion, cough, chills, throat irritation, vomiting and nausea.
+Severe infusion reactions included bronchospasm, dyspnea, laryngeal edema, pulmonary edema, hypoxia, and hypertension.
+Other adverse infusion reactions included nasal congestion, cough, chills, throat irritation, vomiting and nausea.
 
 Herpes Zoster Virus Reactivation
 
 Prophylaxis for Herpes Zoster Virus reactivation was recommended for patients in some clinical trials of DARZALEX.
 In monotherapy studies, herpes zoster was reported in 3% of patients.
-In the randomized controlled combination therapy studies, herpes zoster was reported in 2% each in the DRd and Rd groups respectively (Study 3), in 5% versus 3% in the DVd and Vd groups respectively (Study 4) and in 2% of patients receiving DPd (Study 5).
+In the combination therapy studies, herpes zoster was reported in 2–5% of patients receiving DARZALEX.
 
 Infections
 
-In patients receiving DARZALEX combination therapy, Grade 3 or 4 infections were reported with DARZALEX combinations and background therapies (DVd: 21%, Vd: 19%; DRd: 28%, Rd: 23%; DPd: 28%).
+In patients receiving DARZALEX combination therapy, Grade 3 or 4 infections were reported with DARZALEX combinations and background therapies (DVd: 21%, Vd: 19%; DRd: 28%, Rd: 23%; D-VMP:23%, VMP:15%; DPd: 28%).
 Pneumonia was the most commonly reported severe (Grade 3 or 4) infection across studies.
-Discontinuations from treatment were reported in 3% versus 2% of patients in the DRd and Rd groups respectively, 4% versus 3% of patients in the DVd and Vd groups respectively and in 5% of patients receiving DPd.
-Fatal infections were reported in 0.8% to 2% of patients across studies, primarily due to pneumonia and sepsis.
+Discontinuations from treatment were reported in 3% versus 2% of patients in the DRd and Rd groups respectively, 4% versus 3% of patients in the DVd and Vd groups respectively, 1% each in the D-VMP and VMP groups respectively, and in 5% of patients receiving DPd.
+Fatal infections were generally balanced between the DARZALEX containing regimens and active control arms (<2%) in the controlled studies and were primarily due to pneumonia and sepsis.
 
 ## 6.2 Immunogenicity
 
 As with all therapeutic proteins, there is the potential for immunogenicity.
-In clinical trials of patients with multiple myeloma treated with DARZALEX as monotherapy or as combination therapies, none of the 111 evaluable monotherapy patients, and 2 (0.7%) of the 298 combination therapy patients, tested positive for anti-daratumumab antibodies.
+The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
+Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
+For these reasons, comparison of the incidence of antibodies to daratumumab in the studies described below with the incidence of antibodies in other studies or to other products may be misleading.
+In clinical trials of patients with multiple myeloma treated with DARZALEX as monotherapy or as combination therapies, none of the 111 evaluable monotherapy patients, and 2 of the 411 combination therapy patients, tested positive for anti-daratumumab antibodies.
 One patient administered DARZALEX as combination therapy, developed transient neutralizing antibodies against daratumumab.
 However, this assay has limitations in detecting anti-daratumumab antibodies in the presence of high concentrations of daratumumab; therefore, the incidence of antibody development might not have been reliably determined.
-
-Immunogenicity data are highly dependent on the sensitivity and specificity of the test methods used.
-Additionally, the observed incidence of a positive result in a test method may be influenced by several factors, including sample handling, timing of sample collection, drug interference, concomitant medication and the underlying disease.
-Therefore, comparison of the incidence of antibodies to daratumumab with the incidence of antibodies to other products may be misleading.

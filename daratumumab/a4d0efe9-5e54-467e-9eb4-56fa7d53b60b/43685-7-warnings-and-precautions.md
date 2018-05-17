@@ -27,7 +27,7 @@ Consider prescribing short- and long-acting bronchodilators and inhaled corticos
 
 Daratumumab binds to CD38 on red blood cells (RBCs) and results in a positive Indirect Antiglobulin Test (Indirect Coombs test).
 Daratumumab-mediated positive indirect antiglobulin test may persist for up to 6 months after the last daratumumab infusion.
-Daratumumab bound to RBCs masks detection of antibodies to minor antigens in the patient's serum1 [see References (15)].
+Daratumumab bound to RBCs masks detection of antibodies to minor antigens in the patient's serum [see References (15)].
 The determination of a patient's ABO and Rh blood type are not impacted [see Drug Interactions (7.1)].
 
 Notify blood transfusion centers of this interference with serological testing and inform blood banks that a patient has received DARZALEX.
