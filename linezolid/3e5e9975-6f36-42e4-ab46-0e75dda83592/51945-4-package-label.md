@@ -35,32 +35,24 @@ freeflex
 
 # PRINCIPAL DISPLAY PANEL - 300 mL Bag Box Label
 
-NDC 0009-7807-01 Rx only
+NDC 0009-7807-02 Contains 10 of NDC 0009-7807-01 QUANTITY: 1 (10 IV BAGS X 300 mL)
 
-ZYVOX® (linezolid) injection
+ZYVOX® 600 mg/300 mL (LINEZOLID) INJECTION
 
-600 mg/300 mL
+RX ONLY PREMIERProRx®
 
-Store at 25ºC (77ºF); excursions permitted to 15-30ºC (59-86ºF) [see USP Controlled Room Temperature].
-Do not freeze.
-Each mL contains: linezolid 2 mg dextrose, USP 50.24 mg sodium citrate, USP 1.64 mg citric acid, USP 0.85 mg water for injection, USP qs pH adjusted to 4.8 with sodium hydroxide or hydrochloric acid.
-Sterile and nonpyrogenic.
-Single dose container.
-
-Do not use in series connections.
-For intravenous administration Check for leaks by squeezing container.
-If leaks are found, discard, as sterility may be impaired.
-Linezolid is sensitive to light.
-Retain overwrap prior to use.
-DOSAGE AND USE: See accompanying prescribing information.
+Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc NY, NY 10017 PREMIERProRx® is a registered trademark of Premier Healthcare Alliance, L.P., used under license.
 MADE IN SINGAPORE
 
-PREMIERProRx®
+STORE AT 25°C (77°F); EXCURSIONS PERMITTED TO 15-30°C (59-86°F) [SEE USP CONTROLLED ROOM TEMPERATURE].
+DO NOT FREEZE.
 
-7 OTHER
+EXP MM/DD/YYYY
 
-Distributed by: Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017 PREMIERProRx® is a registered trademark of Premier Healthcare Alliance, L.P., used under license.
+LOT 00000000
 
-LOT EXP
+QTY: 01
 
-FSU 0703 01-78-26-050B
+04.30.034
+
+FSU 0703 01-88-26-050D
