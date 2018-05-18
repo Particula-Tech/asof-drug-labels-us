@@ -17,7 +17,7 @@ No specific pharmacodynamic studies were conducted using Testim.
 
 Absorption
 
-Testim® (testosterone gel) delivers physiologic amounts of testosterone, producing circulating testosterone concentrations that approximate normal concentrations (e.g., 300 – 1000 ng/dL) seen in healthy men.
+Testim (testosterone gel) delivers physiologic amounts of testosterone, producing circulating testosterone concentrations that approximate normal concentrations (e.g., 300 – 1000 ng/dL) seen in healthy men.
 
 The skin serves as a reservoir for the sustained release of testosterone into the systemic circulation.
 Approximately 10% of the testosterone applied on the skin surface is absorbed into the systemic circulation during a 24-hour period.
@@ -67,7 +67,7 @@ In the first trial, 30 couples were evenly randomized to five groups.
 In the first four groups, 100 mg of Testim was applied to the male abdomen and the couples were then asked to rub abdomen-to-abdomen for 15 minutes at 1 hour, 4 hours, 8 hours or 12 hours after dose application, respectively.
 In these couples, serum testosterone concentrations in female partners increased from baseline by at least 6 times and potential for transfer was seen at all timepoints.
 
-When 6 males used a shirt to cover the abdomen at 15 minutes post-application and partners again rubbed abdomens for 15 minutes at the 1 hour timepoint, serum testosterone concentrations in female partners increased from baseline by approximately 3 times.
+When 6 males used a shirt to cover the abdomen at 15 minutes post-application and partners again rubbed abdomens for 15 minutes at the 1-hour timepoint, serum testosterone concentrations in female partners increased from baseline by approximately 3 times.
 
 In the second trial, 24 couples were evenly randomized to four groups.
 Testim 100 mg was applied to the male upper arms and shoulders.

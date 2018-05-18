@@ -2,7 +2,7 @@
 
 ## 9.1 Controlled Substance
 
-Testim® contains testosterone, a Schedule III controlled substance in the Controlled Substances Act.
+Testim contains testosterone, a Schedule III controlled substance in the Controlled Substances Act.
 
 ## 9.2 Abuse
 

@@ -10,21 +10,31 @@ This Medication Guide does not take the place of talking to your healthcare prov
 
 What is the most important information I should know about Testim?
 
-- Early signs and symptoms of puberty have happened in young children who were accidentally exposed to testosterone through contact with men using Testim.
-  Signs and symptoms of early puberty in a child may include: Testim can transfer from your body to others.
-  - enlarged penis or clitoris
-  - early development of pubic hair
-  - increased erections or sex drive
-  - aggressive behavior
-- Women and children should avoid contact with the unwashed or unclothed area where Testim has been applied to your skin.
-  Stop using Testim and call your healthcare provider right away if you see any signs and symptoms in a child or a woman that may have occurred through accidental exposure to Testim.
-  Signs and symptoms of exposure to Testim in children may include: Signs and symptoms of exposure to Testim in women may include:
-  - enlarged penis or clitoris
-  - early development of pubic hair
-  - increased erections or sex drive
-  - aggressive behavior
-  - changes in body hair
-  - a large increase in acne
+1.
+Early signs and symptoms of puberty have happened in young children who were accidentally exposed to testosterone through contact with men using Testim.
+Signs and symptoms of early puberty in a child may include:
+
+- enlarged penis or clitoris
+- early development of pubic hair
+- increased erections or sex drive
+- aggressive behavior
+
+Testim can transfer from your body to others.
+
+2.
+Women and children should avoid contact with the unwashed or unclothed area where Testim has been applied to your skin.
+Stop using Testim and call your healthcare provider right away if you see any signs and symptoms in a child or a woman that may have occurred through accidental exposure to Testim.
+Signs and symptoms of exposure to Testim in children may include:
+
+- enlarged penis or clitoris
+- early development of pubic hair
+- increased erections or sex drive
+- aggressive behavior
+
+Signs and symptoms of exposure to Testim in women may include:
+
+- changes in body hair
+- a large increase in acne
 
 To lower the risk of transfer of Testim from your body to others, you should follow these important instructions:
 
@@ -196,8 +206,10 @@ This Medication Guide has been approved by the US Food and Drug Administration.
 
 Distributed by: Endo Pharmaceuticals Inc. Malvern, PA 19355
 
-By: DPT Laboratories, Ltd. San Antonio, TX 78215
+Manufactured by: DPT Laboratories, Ltd. San Antonio, TX 78215
 
-Revised: 10/2016
+or
 
-140716
+Contract Pharmaceuticals Limited Mississauga, ON, Canada L5N 6R8
+
+Revised: 04/2018

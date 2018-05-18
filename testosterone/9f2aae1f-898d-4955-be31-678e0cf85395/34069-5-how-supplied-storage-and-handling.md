@@ -7,8 +7,8 @@ Each tube contains 50 mg testosterone in 5 g of gel, and is supplied as follows:
 | --- | --- |
 | 66887-001-05 | 30 tubes: 50 mg testosterone in 5 g of gel per tube |
 
-Store at 20° to 25°C (68°F to 77°F).
-Excursions permitted to 15°-30°C (59°-86°F) [See USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F - 77°F).
+Excursions permitted to 15°C to 30°C (59°F - 86°F) [See USP Controlled Room Temperature].
 
 Discard used Testim tubes in household trash in a manner that prevents accidental exposure of women, children, or pets [see Boxed Warning and Warnings and Precautions (5.2)].
 Contents are flammable [see Warnings and Precautions (5.16)].

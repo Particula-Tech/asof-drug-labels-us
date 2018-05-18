@@ -5,7 +5,7 @@
 Changes in insulin sensitivity or glycemic control may occur in patients treated with androgens.
 In diabetic patients, the metabolic effects of androgens may decrease blood glucose and, therefore, may necessitate a decrease in the dose of anti-diabetic medication.
 
-## 7.2 Oral anticoagulants
+## 7.2 Oral Anticoagulants
 
 Changes in anticoagulant activity may be seen with androgens, therefore more frequent monitoring of international normalized ratio (INR) and prothrombin time are recommended in patients taking warfarin, especially at the initiation and termination of androgen therapy.
 

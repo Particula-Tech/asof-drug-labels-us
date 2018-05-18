@@ -2,10 +2,10 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category X [see Contraindications (4)]: Testim® is contraindicated in pregnant women or in women who may become pregnant.
+Pregnancy Category X [see Contraindications (4)]: Testim is contraindicated in pregnant women or in women who may become pregnant.
 Testosterone is teratogenic and may cause fetal harm.
 Exposure of a fetus to androgens, such as testosterone, may result in varying degrees of virilization.
-If this drug is used during pregnancy or if the patient becomes pregnant while taking this drug, the patient should be made aware of the potential hazard to the fetus.
+If Testim is used during pregnancy or if the patient becomes pregnant while taking Testim, the patient should be made aware of the potential hazard to the fetus.
 
 ## 8.3 Nursing Mothers
 

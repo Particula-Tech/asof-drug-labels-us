@@ -6,7 +6,7 @@ Advise patients of the following:
 
 ## 17.1 Men with Known or Suspected Carcinoma of the Breast or Prostate
 
-Men with known or suspected prostate or breast cancer should not use Testim® [see Contraindications (4) and Warnings and Precautions (5.1)].
+Men with known or suspected prostate or breast cancer should not use Testim [see Contraindications (4) and Warnings and Precautions (5.1)].
 
 ## 17.2 Potential for Secondary Exposure to Testosterone and Steps to Prevent Secondary Exposure
 
@@ -40,23 +40,27 @@ Patients should be informed that treatment with androgens may lead to adverse re
 
 ## 17.4 Patients Should Be Advised of the Following Instructions for Use
 
-- Read the Medication Guide before starting Testim therapy and reread it each time the prescription is renewed
-- Testim should be applied and used appropriately to maximize the benefits and to minimize the risk of secondary exposure in children and women
+- Read the Medication Guide before starting Testim therapy and reread it each time the prescription is renewed.
+- Testim should be applied and used appropriately to maximize the benefits and to minimize the risk of secondary exposure in children and women.
 - Keep Testim out of the reach of children.
   The package is not child resistant.
-- Testim is an alcohol-based product and is flammable; therefore avoid fire, flame or smoking until the gel has dried
-- It is important to adhere to all recommended monitoring
-- Report any changes in their state of health, such as changes in urinary habits, breathing, sleep, and mood
+- Testim is an alcohol-based product and is flammable; therefore avoid fire, flame or smoking until the gel has dried.
+- It is important to adhere to all recommended monitoring.
+- Report any changes in their state of health, such as changes in urinary habits, breathing, sleep, and mood.
 - Testim is prescribed to meet the patient’s specific needs; therefore, the patient should never share Testim with anyone.
 - Testim should be applied once daily at approximately the same time each day to clean dry skin of the shoulders and/or upper arms.
 - Testim should not be applied to the scrotum, penis, or abdomen.
 - Wait 2 hours before swimming or washing following application of Testim.
   This will ensure that the greatest amount of Testim is absorbed into their system.
 
-Distributed by: Endo Pharmaceuticals Inc. Malvern, PA 19355 USA
+Distributed by: Endo Pharmaceuticals Inc. Malvern, PA 19355
 
 Manufactured by: DPT Laboratories, Ltd. San Antonio, TX 78215
 
+or
+
+Contract Pharmaceuticals Limited Mississauga, ON, Canada L5N 6R8
+
 US Patent Nos. 7,320,968; 7,608,605; 7,608,606; 7,608,607; 7,608,608; 7,608,609; 7,608,610; 7,935,690; 8,063,029; 8,178,518
 
-140721
+Revised: 04/2018

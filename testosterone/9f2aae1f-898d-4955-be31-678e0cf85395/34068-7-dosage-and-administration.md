@@ -1,10 +1,10 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Prior to initiating, Testim confirm the diagnosis of hypogonadism by ensuring that serum testosterone concentrations have been measured in the morning on at least two separate days and that these serum testosterone concentrations are below the normal range.
+Prior to initiating Testim, confirm the diagnosis of hypogonadism by ensuring that serum testosterone concentrations have been measured in the morning on at least two separate days and that these serum testosterone concentrations are below the normal range.
 
 ## 2.1 Dosing and Dose Adjustment
 
-The recommended starting dose of Testim® is 50 mg of testosterone (one tube) applied once daily (preferably in the morning) to clean, dry intact skin of the shoulders and/or upper arms.
+The recommended starting dose of Testim is 50 mg of testosterone (one tube) applied once daily (preferably in the morning) to clean, dry intact skin of the shoulders and/or upper arms.
 
 Dose Adjustment
 

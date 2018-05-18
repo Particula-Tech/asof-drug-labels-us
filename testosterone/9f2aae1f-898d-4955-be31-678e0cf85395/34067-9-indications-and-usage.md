@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-Testim® is indicated for testosterone replacement therapy in adult males for conditions associated with a deficiency or absence of endogenous testosterone:
+Testim is indicated for testosterone replacement therapy in adult males for conditions associated with a deficiency or absence of endogenous testosterone:
 
 - Primary hypogonadism (congenital or acquired): testicular failure due to cryptorchidism, bilateral torsion, orchitis, vanishing testis syndrome, orchiectomy, Klinefelter's syndrome, chemotherapy, or toxic damage from alcohol or heavy metals.
   These men usually have low serum testosterone concentrations and gonadotropins (follicle-stimulating hormone [FSH], luteinizing hormone [LH]) above the normal range.

@@ -1,6 +1,6 @@
 # 10 OVERDOSAGE
 
-There were no reports of overdose in the Testim® clinical trials.
+There were no reports of overdose in the Testim clinical trials.
 There is a single report in the literature of acute overdosage after injection of testosterone enanthate.
 This subject had serum testosterone concentrations of up to 11,400 ng/dL, which were implicated in a cerebrovascular accident.
 

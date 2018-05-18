@@ -4,8 +4,8 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-In a controlled clinical study, 304 patients were treated with Testim® 50 mg or 100 mg or placebo gel for up to 90 days.
-Two hundred-five (205) patients received Testim 50 mg or 100 mg daily and 99 patients received placebo.
+In a controlled clinical study, 304 patients were treated with Testim 50 mg or 100 mg or placebo gel for up to 90 days.
+Two hundred five (205) patients received Testim 50 mg or 100 mg daily and 99 patients received placebo.
 Subjects could be counted in both Testim treatment groups if they received both 50 mg and 100 mg at different points in the study and experienced an adverse reaction at both dose levels.
 Adverse reactions reported by ≥1% of the Testim patients and greater than placebo are listed in Table 1.
 

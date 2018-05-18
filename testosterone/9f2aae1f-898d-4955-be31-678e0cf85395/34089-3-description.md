@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Testim® (testosterone gel) is a clear to translucent hydroalcoholic topical gel containing testosterone, an androgen.
+Testim (testosterone gel) is a clear to translucent hydroalcoholic topical gel containing testosterone, an androgen.
 Testim provides continuous transdermal delivery of testosterone for 24 hours, following a single application to intact, clean, dry skin of the shoulders and/or upper arms.
 
 One 5-g or two 5-g tubes of Testim contains 50 mg or 100 mg of testosterone, respectively, to be applied daily to the skin’s surface.
