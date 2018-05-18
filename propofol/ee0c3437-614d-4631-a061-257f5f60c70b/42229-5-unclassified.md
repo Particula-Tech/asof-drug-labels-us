@@ -14,4 +14,4 @@ DIPRIVAN vials are never to be accessed more than once or used on more than one 
 
 Manufactured for: Lake Zurich, IL 60047
 
-www.fresenius-kabi.com/us Revised: October 2017
+www.fresenius-kabi.com/us Revised: December 2017
