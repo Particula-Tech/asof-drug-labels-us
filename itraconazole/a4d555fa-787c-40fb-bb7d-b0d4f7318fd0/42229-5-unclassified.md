@@ -1,6 +1,6 @@
 © 2001 Janssen Pharmaceutical Companies
 
-Revised: 10/2017
+Revised: 05/2018
 
 Product of Ireland
 
@@ -12,7 +12,7 @@ Olen, Belgium
 
 Manufactured by:
 
-JOLLC, Gurabo, Puerto Rico 00778
+Janssen Ortho LLC, Gurabo, Puerto Rico 00778
 
 Manufactured for:
 

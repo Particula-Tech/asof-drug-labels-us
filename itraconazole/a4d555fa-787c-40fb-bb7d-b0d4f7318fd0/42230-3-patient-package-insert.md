@@ -1,215 +1,36 @@
-# PATIENT INFORMATION 100 mg SPORANOX® (itraconazole) Capsules
-
-This summary contains important information about SPORANOX® (SPOR-ah-nox).
-This information is for patients who have been prescribed SPORANOX® to treat fungal nail infections.
-If your doctor prescribed SPORANOX® for medical problems other than fungal nail infections, ask your doctor if there is any information in this summary that does not apply to you.
-Read this information carefully each time you start to use SPORANOX®.
-This information does not take the place of discussion between you and your doctor.
-Only your doctor can decide if SPORANOX® is the right treatment for you.
-If you do not understand some of this information or have any questions, talk with your doctor or pharmacist.
-
-WHAT IS THE MOST IMPORTANT INFORMATION I SHOULD KNOW ABOUT SPORANOX®?
-
-SPORANOX® is used to treat fungal nail infections.
-However, SPORANOX® is not for everyone.
-Do not take SPORANOX® for fungal nail infections if you have had heart failure, including congestive heart failure.
-You should not take SPORANOX® if you are taking certain medicines that could lead to serious or life-threatening medical problems.
-(See "Who Should Not Take SPORANOX®?" below.)
-
-If you have had heart, lung, liver, kidney or other serious health problems, ask your doctor if it is safe for you to take SPORANOX®.
-
-WHAT HAPPENS IF I HAVE A FUNGAL NAIL INFECTION?
-
-Anyone can have a fungal nail infection, but it is usually found in adults.
-When a fungus infects the tip or sides of a nail, the infected part of the nail may turn yellow or brown.
-If not treated, the fungus may spread under the nail towards the cuticle.
-If the fungus spreads, more of the nail may change color, may become thick or brittle, and the tip of the nail may become raised.
-In some patients, this can cause pain and discomfort.
-
-WHAT IS SPORANOX®?
-
-SPORANOX® is a prescription medicine used to treat fungal infections of the toenails and fingernails.
-It is also used to treat some types of fungal infections in other areas of your body.
-We do not know if SPORANOX® works in children with fungal nail infections or if it is safe for children to take.
-
-SPORANOX® comes in the form of capsules and liquid (oral solution).
-The capsule and liquid forms work differently, so you should not use one in place of the other.
-This Patient Information discusses only the capsule form of SPORANOX®.
-You will get these capsules in a medicine bottle or a SPORANOX PulsePak®.
-The PulsePak® contains 28 capsules for treatment of your fungal nail infection.
-
-SPORANOX® goes into your bloodstream and travels to the source of the infection underneath the nail so that it can fight the infection there.
-Improved nails may not be obvious for several months after the treatment period is finished because it usually takes about 6 months to grow a new fingernail and 12 months to grow a new toenail.
-
-WHO SHOULD NOT TAKE SPORANOX®?
-
-SPORANOX® is not for everyone.
-Your doctor will decide if SPORANOX® is the right treatment for you.
-Some patients should not take SPORANOX® because they may have certain health problems or may be taking certain medicines that could lead to serious or life-threatening medical problems.
-
-Tell your doctor and pharmacist the name of all the prescription and non-prescription medicines you are taking, including dietary supplements and herbal remedies.
-Also tell your doctor about any other medical conditions you have had, especially heart, lung, liver or kidney conditions; or if you have cystic fibrosis, or have had an allergic reaction to SPORANOX® or any other antifungal medicines.
-
-Never take SPORANOX® if you:
-
-- have had heart failure, including congestive heart failure.
-- are taking any of the medicines listed below.
-  Dangerous or even life-threatening side effects could result:
-  - avanafil (such as Stendra™)
-  - cisapride (such as Propulsid®)
-  - colchicine (such as Colcrys™) [if you also have pre-existing kidney or liver impairment]
-  - disopyramide (such as Norpace®)
-  - dofetilide (such as Tikosyn™)
-  - dronedarone (such as Multaq®)
-  - eliglustat (such as Cerdelga™) [if you know you do not break down drugs that are broken down by the enzyme CYP 2D6]
-  - eplerenone (such as Inspra®)
-  - ergot alkaloids (such as Migranal®, Ergonovine, Cafergot®, Methergine®)
-  - felodipine (such as Plendil®)
-  - fesoterodine (such as Toviaz®) [if you also have pre-existing kidney or liver impairment]
-  - irinotecan (such as Camptosar®)
-  - isavuconazole (such as Cresemba®)
-  - ivabradine (such as Corlanor®)
-  - lomitapide (such as Juxtapid™)
-  - lovastatin (such as Mevacor®, Advicor®, Altocor™)
-  - lurasidone (such as Latuda®)
-  - methadone (such as Dolophine®)
-  - midazolam (such as Versed®)
-  - naloxegol (such as Movantik®)
-  - nisoldipine (such as Sular®)
-  - pimozide (such as Orap®)
-  - quinidine (such as Cardioquin®, Quinaglute®, Quinidex®)
-  - ranolazine (such as Ranexa®)
-  - simvastatin (such as Zocor®)
-  - solifenacin (such as Vesicare®) [if you also have pre-existing kidney or liver impairment]
-  - ticagrelor (such as Brilinta®)
-  - triazolam (such as Halcion®)
-- have ever had an allergic reaction to itraconazole.
-
-Taking SPORANOX® with certain other medicines may lead to serious or life-threatening medical problems.
-Tell your doctor and pharmacist the name of all the prescription and non-prescription medicines you are taking, including dietary supplements and herbal remedies.
-Your doctor will decide if SPORANOX® is the right treatment for you.
-
-WHAT SHOULD I KNOW ABOUT SPORANOX® AND PREGNANCY OR BREAST FEEDING?
-
-Never take SPORANOX® if you have a fungal nail infection and are pregnant or planning to become pregnant within 2 months after you have finished your treatment.
-
-If you are able to become pregnant, you should use effective birth control during SPORANOX® treatment and for 2 months after finishing treatment.
-Ask your doctor about effective types of birth control.
-
-If you are breast-feeding, talk with your doctor about whether you should take SPORANOX®.
-
-HOW SHOULD I TAKE SPORANOX®?
-
-Always take SPORANOX® Capsules during or right after a full meal.
-
-Your doctor will decide the right dose for you.
-Depending on your infection, you will take SPORANOX® once a day for 12 weeks, or twice a day for 1 week in a "pulse" dosing schedule.
-You will receive either a bottle of capsules or a PulsePak®.
-Do not skip any doses.
-Be sure to finish all your SPORANOX® as prescribed by your doctor.
-
-If you have ever had liver problems, your doctor should do a blood test to check your condition.
-If you haven't had liver problems, your doctor may recommend blood tests to check the condition of your liver because patients taking SPORANOX® can develop liver problems.
-
-SPORANOX® can sometimes cause dizziness or blurred/double vision.
-If you have these symptoms, do not drive or use machines.
-
-If you forget to take or miss doses of SPORANOX®, ask your doctor what you should do with the missed doses.
-
-THE SPORANOX PulsePak®
-
-If you use the PulsePak®, you will take SPORANOX® for 1 week and then take no SPORANOX® for the next 3 weeks before repeating the 1-week treatment.
-This is called "pulse dosing."
-The SPORANOX PulsePak® contains enough medicine for one "pulse" (1 week of treatment).
-
-The SPORANOX PulsePak® comes with special instructions.
-It contains 7 pouches-one for each day of treatment.
-Inside each pouch is a card containing 4 capsules.
-Looking at the back of the card, fold it back along the dashed line and peel away the backing so that you can remove 2 capsules.
-
-- Take 2 capsules in the morning and 2 capsules in the evening.
-  This means you will take 4 capsules a day for 7 days.
-  At the end of 7 days, you will have taken all of the capsules in the PulsePak® box.
-- After you finish the PulsePak®, do not take any SPORANOX® for the next 3 weeks.
-  Even though you are not taking any capsules during this time, SPORANOX® keeps working inside your nails to help fight the fungal infection.
-- You will need more than one "pulse" to treat your fungal nail infection.
-  When your doctor prescribes another pulse treatment, be sure to get your refill before the end of week 4.
-
-|  | AM | PM | AM | PM | AM | PM | AM | PM | AM | PM | AM | PM | AM | PM |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SPORANOX® Pulse Dosing |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Take 2 SPORANOX® capsules twice a day for 1 week |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | Day 1 |  | Day 2 |  | Day 3 |  | Day 4 |  | Day 5 |  | Day 6 |  | Day 7 |  |
-| Week 1 | // | // | // | // | // | // | // | // | // | // | // | // | // | // |
-| Week 2 | For the next 3 weeks, do not take any SPORANOX® capsules. Remember to get a refill before the end of Week 4 when your doctor prescribes another PulsePak®. |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Week 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Week 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-WHAT ARE THE POSSIBLE SIDE EFFECTS OF SPORANOX®?
-
-The most common side effects include: headache, and digestive system problems (such as nausea, and abdominal pain).
-
-Stop SPORANOX® and call your doctor or get medical assistance right away if you have a severe allergic reaction.
-Symptoms of an allergic reaction may include skin rash, itching, hives, shortness of breath or difficulty breathing, and/or swelling of the face.
-Very rarely, an oversensitivity to sunlight, a tingling sensation in the limbs or a severe skin disorder can occur.
-If any of these symptoms occur, stop taking SPORANOX® and contact your doctor.
-
-Stop SPORANOX® and call your doctor right away if you develop shortness of breath; have unusual swelling of your feet, ankles or legs; suddenly gain weight; are unusually tired; cough up white or pink phlegm; have unusual fast heartbeats; or begin to wake up at night.
-In rare cases, patients taking SPORANOX® could develop serious heart problems, and these could be warning signs of heart failure.
-
-Stop SPORANOX® and call your doctor right away if you become unusually tired; lose your appetite; or develop nausea, abdominal pain, or vomiting, a yellow color to your skin or eyes, or dark colored urine or pale stools (bowel movements).
-In rare cases, patients taking SPORANOX® could develop serious liver problems and these could be warning signs.
-
-Stop SPORANOX® and call your doctor right away if you experience any hearing loss symptoms.
-In very rare cases, patients taking SPORANOX® have reported temporary or permanent hearing loss.
-
-Call your doctor right away if you develop tingling or numbness in your extremities (hands or feet), if your vision gets blurry or you see double, if you hear a ringing in your ears, if you lose the ability to control your urine or urinate much more than usual.
-
-Additional possible side effects include upset stomach, vomiting, constipation, fever, inflammation of the pancreas, menstrual disorder, erectile dysfunction, dizziness, muscle pain, painful joints, unpleasant taste, or hair loss.
-These are not all the side effects of SPORANOX®.
-Your doctor or pharmacist can give you a more complete list.
-
-WHAT SHOULD I DO IF I TAKE AN OVERDOSE OF SPORANOX®?
-
-If you think you took too much SPORANOX®, call your doctor or local poison control center, or go to the nearest hospital emergency room right away.
-
-HOW SHOULD I STORE SPORANOX®?
-
-Keep all medicines, including SPORANOX®, out of the reach of children.
-
-Store SPORANOX® Capsules and the PulsePak® at room temperature in a dry place away from light.
-
-GENERAL ADVICE ABOUT SPORANOX®
-
-Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
-Do not use SPORANOX® for a condition for which it was not prescribed.
-Do not give SPORANOX® to other people, even if they have the same symptoms you have.
-It may harm them.
-
-This leaflet summarizes the most important information about SPORANOX®.
-If you would like more information, talk with your doctor.
-You can ask your doctor or pharmacist for information about SPORANOX® that is written for health professionals or you can call 1-800-526-7736.
-
-This patient information has been approved by the U.S. Food and Drug Administration.
-
-Product of Ireland
-
-Capsule contents manufactured by:
-
-Janssen Pharmaceutica NV
-
-Olen, Belgium
-
-Manufactured by:
-
-JOLLC, Gurabo, Puerto Rico 00778
-
-Manufactured for:
-
-Janssen Pharmaceuticals, Inc.
-
-Titusville, NJ 08560
-
-© 2001 Janssen Pharmaceutical Companies
-
-Printed in USA/ Revised: 10/2017
+| PATIENT INFORMATION SPORANOX® (SPOR-ah-nox) (itraconazole) Capsules |  |  |  |
+| --- | --- | --- | --- |
+| Read this Patient Information that comes with SPORANOX before you start taking it and each time you get a refill. There may be new information. This information does not take the place of talking with your healthcare provider about your medical condition or your treatment. |  |  |  |
+| What is the most important information I should know about SPORANOX? |  |  |  |
+| SPORANOX can cause serious side effects, including: |  |  |  |
+| 1.Heart failure. Do not take SPORANOX if you have had heart failure, including congestive heart failure. Stop taking SPORANOX and call your healthcare provider right away if you have any of these symptoms of congestive heart failure: |  |  |  |
+|  | shortness of breathswelling of your feet, ankles or legssudden weight gainincreased tiredness | coughing up white or pink mucus (phlegm)fast heartbeatwaking up at night more than normal for you |  |
+| 2.Heart problems and other serious medical problems. Serious medical problems that affect the heart and other parts of your body can happen if you take SPORANOX with certain other medicines. Do not take SPORANOX if you also take the following medicines: |  |  |  |
+|  | methadonedisopyramidedofetilidedronedaronequinidineisavuconazoleergot alkaloids (such as dihydroergotamine, ergometrine ergonovine)ergotamine | methylergometrine (methylergonovine)irinotecanlurasidoneoral midazolampimozidetriazolamfelodipinenisoldipineivabradine | ranolazineeplerenonecisapridenaloxegollomitapidelovastatinsimvastatinavanafilticagrelor |
+| This is not a complete list of medicines that can interact with SPORANOX. SPORANOX may affect the way other medicines work, and other medicines may affect how SPORANOX works. You can ask your pharmacist for a list of medicines that interact with SPORANOX. |  |  |  |
+| Before you start taking SPORANOX, tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements. Before you start any new medicine, ask your healthcare provider or pharmacist if it is safe to take it with SPORANOX. |  |  |  |
+| 3.Liver problems. SPORANOX can cause serious liver problems which may be severe and lead to death. Stop taking SPORANOX and call your healthcare provider right away if you have any of these symptoms of liver problems: |  |  |  |
+|  | tirednessloss of appetite for several days or longernausea or vomitingdark or "tea-colored" urine | your skin or the white part of your eyes turn yellow (jaundice)light-colored stools (bowel movement) |  |
+| For more information about side effects, see "What are the possible side effects of SPORANOX?" |  |  |  |
+| What is SPORANOX? SPORANOX is a prescription medicine used to treat the following fungal infections of the toenails, fingernails and other parts of the body: blastomycosis, histoplasmosis, aspergillosis, and onychomycosis. It is not known if SPORANOX is safe and effective in children. |  |  |  |
+| Do not take SPORANOX if you: have or have had heart failure, including congestive heart failure.take certain medicines. See "What is the most important information I should know about SPORANOX?"are pregnant or plan to become pregnant. SPORANOX can harm your unborn baby. Tell your healthcare provider right away if you become pregnant while taking SPORANOX. Females who are able to become pregnant must use effective forms of birth control during treatment and for 2 months after stopping treatment with SPORANOX.are allergic to itraconazole or any of the ingredients in SPORANOX. See the end of this Patient Information leaflet for a complete list of ingredients in SPORANOX. |  |  |  |
+| Before taking SPORANOX, tell your healthcare provider about all of your medical conditions, including if you: have heart problems.have liver problems.have kidney problems.have a weakened immune system (immunocompromised).have lung problems including cystic fibrosis.are breastfeeding or plan to breastfeed. SPORANOX can pass into your breast milk. You and your healthcare provider should decide if you will take SPORANOX or breastfeed. |  |  |  |
+| Taking SPORANOX with certain medicines may affect each other. Taking SPORANOX with other medicines can cause serious side effects. |  |  |  |
+| How should I take SPORANOX? Take SPORANOX exactly as prescribed by your healthcare provider. Your healthcare provider will tell you how much SPORANOX to take and when to take it.You will receive SPORANOX capsules in a blister pack, bottle or PulsePak. Your healthcare provider will decide the type of SPORANOX that is right for you.Take SPORANOX with a full meal.Swallow SPORANOX capsules whole.You should not take SPORANOX oral solution instead of SPORANOX capsules, because they will not work the same way.If you take too much SPORANOX, call your healthcare provider or go to the nearest hospital emergency room right away. |  |  |  |
+| What should I avoid while taking SPORANOX? |  |  |  |
+| SPORANOX can cause dizziness and vision problems. Do not drive or operate machinery until you know how SPORANOX affects you. |  |  |  |
+| What are the possible side effects of SPORANOX? |  |  |  |
+| SPORANOX may cause serious side effects, including: See "What is the most important information I should know about SPORANOX?"Nerve problems (neuropathy). Call your healthcare provider right away if you have tingling or numbness in your hands or feet. Your healthcare provider may stop your treatment with SPORANOX if you have nerve problems.Hearing loss. Hearing loss can happen for a short time or permanently in some people who take SPORANOX. Stop taking SPORANOX and call your healthcare provider right away if you have any changes in your hearing. |  |  |  |
+| The most common side effects of SPORANOX include: headache, rash, and digestive system problems (such as nausea and vomiting). Additional possible side effects include upset stomach, vomiting, constipation, fever, inflammation of the pancreas, menstrual disorder, erectile dysfunction, dizziness, muscle pain, painful joints, unpleasant taste, or hair loss. |  |  |  |
+| These are not all the possible side effects of SPORANOX. |  |  |  |
+| Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |  |  |
+| How should I store SPORANOX? Store SPORANOX at room temperature between 59°F to 77°F (15°C to 25°C).Keep SPORANOX dry and away from light. |  |  |  |
+| Keep SPORANOX and all medicines out of the reach of children. |  |  |  |
+| General information about the safe and effective use of SPORANOX. |  |  |  |
+| Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use SPORANOX for a condition for which it was not prescribed. Do not give SPORANOX to other people, even if they have the same symptoms that you have. It may harm them. |  |  |  |
+| You can ask your doctor or pharmacist for information about SPORANOX that is written for health professionals. |  |  |  |
+| What are the ingredients in SPORANOX? |  |  |  |
+| Active ingredients: itraconazole |  |  |  |
+| Inactive ingredients: hard gelatin capsule, hypromellose, polyethylene glycol (PEG) 20,000, titanium dioxide, FD&C Blue No. 1, FD&C Blue No. 2, D&C Red No. 22 and D&C Red No. 28. |  |  |  |
+| Product of Ireland Capsule contents manufactured by: Janssen Pharmaceutica NV Olen, Belgium Manufactured by: Janssen Ortho LLC, Gurabo, Puerto Rico 00778 Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560 © 2001 Janssen Pharmaceutical Companies For more information or call 1-800-526-7736. |  |  |  |
+| This Patient Information has been approved by the U.S. Food and Drug Administration |  |  | Revised: 05/2018 |

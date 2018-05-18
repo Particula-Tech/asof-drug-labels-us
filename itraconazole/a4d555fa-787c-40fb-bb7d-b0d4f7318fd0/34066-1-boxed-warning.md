@@ -6,10 +6,9 @@ SPORANOX® (itraconazole) Capsules should not be administered for the treatment 
 If signs or symptoms of congestive heart failure occur during administration of SPORANOX® Capsules, discontinue administration.
 When itraconazole was administered intravenously to dogs and healthy human volunteers, negative inotropic effects were seen.
 (See CONTRAINDICATIONS, WARNINGS, PRECAUTIONS.
-
 Drug Interactions, ADVERSE REACTIONS: Post-marketing Experience, and CLINICAL PHARMACOLOGY: Special Populations for more information.)
 
-## Drug Interactions
+### Drug Interactions
 
 Coadministration of the following drugs are contraindicated with SPORANOX® Capsules: methadone, disopyramide, dofetilide, dronedarone, quinidine, isavuconazole, ergot alkaloids (such as dihydroergotamine, ergometrine (ergonovine), ergotamine, methylergometrine (methylergonovine)), irinotecan, lurasidone, oral midazolam, pimozide, triazolam, felodipine, nisoldipine, ivabradine, ranolazine, eplerenone, cisapride, naloxegol, lomitapide, lovastatin, simvastatin, avanafil, ticagrelor.
 In addition, coadministration with colchicine, fesoterodine and solifenacin is contraindicated in subjects with varying degrees of renal or hepatic impairment, and coadministration with eliglustat is contraindicated in subjects that are poor or intermediate metabolizers of CYP2D6 and in subjects taking strong or moderate CYP2D6 inhibitors.
