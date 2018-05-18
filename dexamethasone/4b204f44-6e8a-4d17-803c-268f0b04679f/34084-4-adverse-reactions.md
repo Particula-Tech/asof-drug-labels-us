@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Clinical Studies Experience
+## 6.1Clinical Studies Experience
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
@@ -27,6 +27,9 @@ Increased IOP with OZURDEX® peaked at approximately week 8.
 During the initial treatment period, 1% (3/421) of the patients who received OZURDEX® required surgical procedures for management of elevated IOP.
 
 Following a second injection of OZURDEX® in cases where a second injection was indicated, the overall incidence of cataracts was higher after 1 year.
+
+In a 2 year observational study, among patients who received >2 injections, the most frequent adverse reaction was cataract 54% (n= 96 out of 178 phakic eyes at baseline).
+Other frequent adverse reactions from the 283 treated eyes, regardless of lens status at baseline, were increased IOP 24% (n = 68) and vitreous hemorrhage 6.0% (n = 17).
 
 Diabetic Macular Edema
 
@@ -58,8 +61,11 @@ Table 2: Ocular Adverse Reactions Reported by ≥ 1% of Patients and Non-ocular 
 | Non-ocular |  |  |
 | Hypertension | 41 (13%) | 21 (6%) |
 | Bronchitis | 15 (5%) | 8 (2%) |
-| 1 Includes cataract, cataract nuclear, cataract subcapsular, lenticular opacities in patients who were phakic at baseline. Among these patients, 61% of OZURDEX® subjects vs. 8% of sham-controlled subjects underwent cataract surgery. |  |  |
-| 2 243 of the 324 OZURDEX® subjects were phakic at baseline; 230 of 328 sham-controlled subjects were phakic at baseline. |  |  |
+
+1 Includes cataract, cataract nuclear, cataract subcapsular, lenticular opacities in patients who were phakic at baseline.
+Among these patients, 61% of OZURDEX® subjects vs. 8% of sham-controlled subjects underwent cataract surgery.
+
+2 243 of the 324 OZURDEX® subjects were phakic at baseline; 230 of 328 sham-controlled subjects were phakic at baseline.
 
 Increased Intraocular Pressure
 
@@ -67,16 +73,19 @@ Table 3: Summary of Elevated Intraocular Pressure (IOP) Related Adverse Reaction
 
 | IOP | Treatment: N (%) |  |
 | --- | --- | --- |
-| OZURDEX® N=324 | Sham N=328 |  |
+|  | OZURDEX® N=324 | Sham N=328 |
 | IOP elevation ≥10 mm Hg from Baseline at any visit | 91 (28%) | 13 (4%) |
 | ≥30 mm Hg IOP at any visit | 50 (15%) | 5 (2%) |
 | Any IOP lowering medication | 136 (42%) | 32 (10%) |
 | Any surgical intervention for elevated IOP * | 4 (1.2%) | 1 (0.3%) |
-| * OZURDEX®: 1 surgical trabeculectomy for steroid-induced IOP increase, 1 surgical trabeculectomy for iris neovascularization, 1 laser iridotomy, 1 surgical iridectomy Sham: 1 laser iridotomy |  |  |
+
+* OZURDEX®: 1 surgical trabeculectomy for steroid-induced IOP increase, 1 surgical trabeculectomy for iris neovascularization,
+
+1 laser iridotomy, 1 surgical iridectomy
+
+Sham: 1 laser iridotomy
 
 The increase in mean IOP was seen with each treatment cycle, and the mean IOP generally returned to baseline between treatment cycles (at the end of the 6 month period) shown below:
-
-Figure 1: Mean IOP during the study
 
 Cataracts and Cataract Surgery
 
@@ -85,7 +94,7 @@ The incidence of cataract development in patients who had a phakic study eye was
 The median time of cataract being reported as an adverse event was approximately 15 months in the OZURDEX® group and 12 months in the Sham group.
 Among these patients, 61% of OZURDEX® subjects vs. 8% of sham-controlled subjects underwent cataract surgery, generally between Month 18 and Month 39 (Median Month 21 for OZURDEX® group and 20 for Sham) of the studies.
 
-## 6.2 Postmarketing Experience
+## 6.2Postmarketing Experience
 
 The following reactions have been identified during post-marketing use of OZURDEX® in clinical practice.
 Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.

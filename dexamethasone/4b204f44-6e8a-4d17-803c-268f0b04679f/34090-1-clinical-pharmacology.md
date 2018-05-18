@@ -1,10 +1,10 @@
-# 12 CLINICAL PHARMACOLOGY
+# 12CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism of Action
+## 12.1Mechanism of Action
 
 Dexamethasone, a corticosteroid, has been shown to suppress inflammation by inhibiting multiple inflammatory cytokines resulting in decreased edema, fibrin deposition, capillary leakage and migration of inflammatory cells.
 
-## 12.3 Pharmacokinetics
+## 12.3Pharmacokinetics
 
 Plasma concentrations were obtained from 21 patients with macular edema due to branch retinal vein occlusion (BRVO) and central retinal vein occlusion (CRVO), and 21 patients with diabetic macular edema (DME) prior to dosing and at 4 to 5 additional post-dose timepoints on Days 1, 7, 21, 30, 45, 60, and 90 following the administration of the first intravitreal implant containing 0.7 mg dexamethasone.
 In RVO and DME patients, the majority of plasma dexamethasone concentrations were below the lower limit of quantitation (LLOQ = 50 pg/mL).

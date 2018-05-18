@@ -1,10 +1,10 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 General Dosing Information
+## 2.1General Dosing Information
 
 For ophthalmic intravitreal injection.
 
-## 2.2 Administration
+## 2.2Administration
 
 The intravitreal injection procedure should be carried out under controlled aseptic conditions which include the use of sterile gloves, a sterile drape, and a sterile eyelid speculum (or equivalent).
 Adequate anesthesia and a broad-spectrum microbicide applied to the periocular skin, eyelid and ocular surface are recommended to be given prior to the injection.

@@ -5,7 +5,9 @@ Steroid-related Effects
 Advise patients that a cataract may occur after repeated treatment with OZURDEX®.
 If this occurs, advise patients that their vision will decrease, and they will need an operation to remove the cataract and restore their vision.
 
-Advise patients that they may develop increased intraocular pressure with OZURDEX® treatment, and the increased IOP will need to be managed with eye drops, and, rarely, with surgery.
+Advise patients that they may develop increased intraocular pressure with OZURDEX® treatment, and
+
+the increased IOP will need to be managed with eye drops, and, rarely, with surgery.
 
 Intravitreal Injection-related Effects
 
@@ -20,7 +22,12 @@ Driving and Using Machines
 Inform patients that they may experience temporary visual blurring after receiving an intravitreal injection.
 Advise patients not to drive or use machines until this has been resolved.
 
-© 2014 Allergan, Inc. Irvine, CA 92612, U.S.A. ® marks owned by Allergan, Inc. Patented.
-See: www.allergan.com/products/patent_notices Made in Ireland.
+Distributed by: Allergan USA, Inc. Madison, NJ 07940
 
-72212US18
+© 2018 Allergan.
+All rights reserved.
+All trademarks are the property of their respective owners.
+Patented.
+See: www.allergan.com/patents
+
+v1.0USPI3348

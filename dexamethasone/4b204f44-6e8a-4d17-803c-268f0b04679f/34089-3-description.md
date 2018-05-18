@@ -1,4 +1,4 @@
-# 11 DESCRIPTION
+# 11DESCRIPTION
 
 OZURDEX® is an intravitreal implant containing 0.7 mg (700 mcg) dexamethasone in the NOVADUR® solid polymer sustained-release drug delivery system.
 OZURDEX® is preloaded into a single-use, DDS® applicator to facilitate injection of the rod-shaped implant directly into the vitreous.

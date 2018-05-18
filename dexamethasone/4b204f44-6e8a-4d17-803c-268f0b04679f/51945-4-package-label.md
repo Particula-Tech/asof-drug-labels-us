@@ -1,5 +1,3 @@
-Ozurdex ® (dexamethasone intravitreal implant) 0.7 mg
+# PRINCIPAL DISPLAY PANEL
 
-Contents include: One Sterile, Single-Use Applicator
-
-NDC 0023-3348-07 For Intravitreal Injection Only Rx only ALLERGAN
+NDC 0023-3348-07 Ozurdex (dexamethasone intravitreal implant) 0.7 mg For Intravitreal Injection Only Rx Only
