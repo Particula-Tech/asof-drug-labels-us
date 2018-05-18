@@ -11,8 +11,8 @@ Store at 25°C (77°F) excursion permitted to 15°-30°C (59°-86°F)
 
 Rx only
 
-Manufactured for:
+Manufactured for: Daiichi Sankyo, Inc. Basking Ridge, NJ 07920
 
-Daiichi Sankyo, Inc. Basking Ridge, NJ 07920
+Revised 04/2018 Printed in U.S.A.
 
-Revised 06/2017 Printed in U.S.A.
+USPI-EVO-0418-r100

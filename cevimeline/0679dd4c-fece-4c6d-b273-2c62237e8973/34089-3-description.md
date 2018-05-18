@@ -1,4 +1,4 @@
-# DESCRIPTION
+# DECSRIPTION
 
 Cevimeline is cis -2’-methylspiro{1-azabicyclo [2.2.2] octane-3, 5’-[1,3] oxathiolane} hydrochloride, hydrate (2:1).
 Its empirical formula is C10H17NOS.HCl.½ H2O, and its structural formula is:

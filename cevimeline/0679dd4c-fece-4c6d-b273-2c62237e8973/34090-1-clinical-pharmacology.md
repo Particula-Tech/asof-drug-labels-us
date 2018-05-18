@@ -1,11 +1,11 @@
 # CLINICAL PHARMACOLOGY
 
-## Pharmacodynamics
+Pharmacodynamics
 
 Cevimeline is a cholinergic agonist which binds to muscarinic receptors.
 Muscarinic agonists in sufficient dosage can increase secretion of exocrine glands, such as salivary and sweat glands and increase tone of the smooth muscle in the gastrointestinal and urinary tracts.
 
-## Pharmacokinetics
+Pharmacokinetics
 
 Absorption: After administration of a single 30 mg capsule, cevimeline was rapidly absorbed with a mean time to peak concentration of 1.5 to 2 hours.
 No accumulation of active drug or its metabolites was observed following multiple dose administration.
@@ -26,7 +26,7 @@ After seven days, 97% of the dose was recovered in the urine and 0.5% was recove
 
 Special Populations: The effects of renal impairment, hepatic impairment, or ethnicity on the pharmacokinetics of cevimeline have not been investigated.
 
-## Clinical Studies
+Clinical Studies
 
 Cevimeline has been shown to improve the symptoms of dry mouth in patients with Sjögren’s Syndrome.
 
