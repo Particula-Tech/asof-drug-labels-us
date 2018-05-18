@@ -16,11 +16,3 @@
    Ca- A Cancer Journal for Clinicians Sept/Oct 1983; 258-263.
 7. 7.American Society of Hospital Pharmacists Technical Assistance Bulletin on Handling Cytotoxic and Hazardous Drugs.
    Am J Hosp Pharm 1990; 47:1033-1049.
-
-Revised: 12/2015
-
-434139
-
-Hospira, Inc., Lake Forest, IL 60045 USA
-
-Product of Australia

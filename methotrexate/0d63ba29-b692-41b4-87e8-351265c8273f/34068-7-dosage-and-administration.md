@@ -35,7 +35,7 @@ If and when relapse does occur, reinduction of remission can again usually be ob
 A variety of combination chemotherapy regimens have been used for both induction and maintenance therapy in acute lymphoblastic leukemia.
 The physician should be familiar with the new advances in antileukemic therapy.
 
-Lymphomas: In Burkitt’s tumor, Stages I-II, methotrexate has produced prolonged remissions in some cases.
+Lymphomas: In Burkitt's tumor, Stages I-II, methotrexate has produced prolonged remissions in some cases.
 Recommended dosage is 10 to 25 mg/day orally for 4 to 8 days.
 In Stage III, methotrexate is commonly given concomitantly with other antitumor agents.
 Treatment in all stages usually consists of several courses of the drug interposed with 7 to 10 day rest periods.

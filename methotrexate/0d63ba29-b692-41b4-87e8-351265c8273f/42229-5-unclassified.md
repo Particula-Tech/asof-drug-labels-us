@@ -21,3 +21,5 @@ Methotrexate Injection USP, Isotonic Liquid, Contains Preservative
 
 If desired, the solution may be further diluted with a compatible medium such as Sodium Chloride Injection, USP.
 Storage for 24 hours at a temperature of 21° to 25°C results in a product which is within 90% of label potency.
+
+LAB-0997-2.0 04/2018

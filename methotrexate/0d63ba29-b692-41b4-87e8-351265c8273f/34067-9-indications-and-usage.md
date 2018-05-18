@@ -7,14 +7,14 @@ Methotrexate is indicated in the treatment of gestational choriocarcinoma, chori
 In acute lymphocytic leukemia, methotrexate is indicated for use in maintenance therapy in combination with other chemotherapeutic agents.
 
 Methotrexate is used alone or in combination with other anticancer agents in the treatment of breast cancer, epidermoid cancers of the head and neck, advanced mycosis fungoides (cutaneous T cell lymphoma), and lung cancer, particularly squamous cell and small cell types.
-Methotrexate is also used in combination with other chemotherapeutic agents in the treatment of advanced stage non-Hodgkin’s lymphomas.
+Methotrexate is also used in combination with other chemotherapeutic agents in the treatment of advanced stage non-Hodgkin's lymphomas.
 
 Methotrexate in high doses followed by leucovorin rescue in combination with other chemotherapeutic agents is effective in prolonging relapse-free survival in patients with non-metastatic osteosarcoma who have undergone surgical resection or amputation for the primary tumor.
 
 ## Psoriasis
 
 Methotrexate is indicated in the symptomatic control of severe, recalcitrant, disabling psoriasis that is not adequately responsive to other forms of therapy, but only when the diagnosis has been established, as by biopsy and/or after dermatologic consultation.
-It is important to ensure that a psoriasis “flare” is not due to an undiagnosed concomitant disease affecting immune responses.
+It is important to ensure that a psoriasis "flare" is not due to an undiagnosed concomitant disease affecting immune responses.
 
 ## Rheumatoid Arthritis including Polyarticular-Course Juvenile Rheumatoid Arthritis
 
