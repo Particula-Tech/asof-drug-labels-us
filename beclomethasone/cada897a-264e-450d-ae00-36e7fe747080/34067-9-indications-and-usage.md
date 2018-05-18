@@ -4,4 +4,4 @@ QVAR REDIHALER is indicated in the maintenance treatment of asthma as prophylact
 
 Important Limitations of Use:
 
-- •QVAR REDIHALER is NOT indicated for the relief of acute bronchospasm.
+- QVAR REDIHALER is NOT indicated for the relief of acute bronchospasm.

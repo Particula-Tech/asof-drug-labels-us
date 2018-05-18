@@ -18,9 +18,9 @@ Do not use QVAR REDIHALER with a spacer or volume holding chamber.
 
 Cleaning:
 
-- •Keep the inhaler clean and dry at all times.
+- Keep the inhaler clean and dry at all times.
   Never wash or put any part of the inhaler in water.
-- •Routine maintenance is not required.
+- Routine maintenance is not required.
   If the mouthpiece needs cleaning, gently wipe the mouthpiece with a dry cloth or tissue as needed.
 
 Dose Counter: QVAR REDIHALER has a dose counter attached to the actuator.

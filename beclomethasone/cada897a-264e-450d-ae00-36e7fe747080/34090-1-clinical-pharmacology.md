@@ -23,7 +23,7 @@ Active treatment groups showed an expected dose‑related reduction in 24‑hour
 Patients treated with the highest dose recommended of QVAR MDI (320 mcg twice daily) had a 37.3% reduction in 24‑hour urinary‑free cortisol compared to a reduction of 47.3% produced by treatment with 336 mcg twice daily of CFC‑BDP.
 There was a 12.2% reduction in 24‑hour urinary‑free cortisol seen in the group of patients that received 80 mcg twice daily of QVAR MDI and a 24.6% reduction in the group of patients that received 160 mcg twice daily.
 An open label study of 354 asthma patients given QVAR MDI at recommended doses for one year assessed the effect of treatment with this product on the HPA axis (as measured by both morning and stimulated plasma cortisol).
-Less than 1% of patients treated for one year with this product had an abnormal response (peak less than 18 mcg/dL) to short-cosyntropin test.
+Less than 1% of patients treated for one year with this product had an abnormal response (peak less than 18 mcg/dL) to a short-cosyntropin test.
 
 ## 12.3 Pharmacokinetics
 
@@ -51,9 +51,9 @@ Metabolism
 
 Three major metabolites are formed via esterases:
 
-- •beclomethasone‑17‑monopropionate (17‑BMP)
-- •beclomethasone‑21‑monopropionate (21‑BMP)
-- •beclomethasone (BOH)
+- beclomethasone‑17‑monopropionate (17‑BMP)
+- beclomethasone‑21‑monopropionate (21‑BMP)
+- beclomethasone (BOH)
 
 Lung slices metabolize beclomethasone dipropionate rapidly to 17‑BMP and more slowly to BOH.
 17‑BMP is the most active metabolite.

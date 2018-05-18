@@ -21,7 +21,7 @@ In addition, the mean change from baseline is displayed in Figure 1.
 Both doses of QVAR REDIHALER were effective in improving asthma control with significantly greater improvements in FEV1 and morning PEF when compared to placebo.
 Reduction in asthma symptoms was also supportive of the efficacy of QVAR REDIHALER.
 
-1. Figure 1: A 12‑ Week Clinical Trial in Patients with Asthma: Mean Change in FEV1
+Figure 1: A 12‑ Week Clinical Trial in Patients with Asthma: Mean Change in FEV1
 
 Trial 2 (NCT02513160): This randomized, double-blind, parallel-group, placebo-controlled, 6-week, efficacy and safety trial compared QVAR REDIHALER 40 and 80 mcg given as 4 inhalations twice daily and placebo in adult and adolescent patients with persistent symptomatic asthma despite treatment with non-corticosteroid, inhaled corticosteroids (with or without a long acting beta agonist [LABA]), or combination asthma therapy.
 The study also included a reference treatment group, QVAR® Inhalation Aerosol (QVAR MDI) 40 mcg, 4 inhalations twice daily.
@@ -29,18 +29,17 @@ Patients aged 12 years and older who met the entry criteria including FEV1 50-90
 425 patients (257 previously treated with ICS with or without LABA) who met all the randomization criteria including FEV1 of 40-85% predicted and 15% reversibility with short-acting inhaled beta-agonist, and asthma symptoms were randomized equally to QVAR REDIHALER 320 mcg/day, QVAR REDIHALER 640 mcg/day, QVAR MDI 320 mcg/day or placebo.
 Baseline FEV1 values were similar across treatments.
 The primary endpoint for this trial was the standardized baseline-adjusted trough morning forced expiratory volume in 1 second (FEV1) area under the effect curve from time zero to 6 weeks [FEV1 AUEC(0-6wk)].
-Patients in both treatment groups had significantly greater improvements in trough FEV1 compared to placebo (QVAR REDIHALER 320 mcg/day, LS mean change of 0.144 L and QVAR REDIHALER 640 mcg/day, LS mean change of 0.150 L over 12 weeks) (Table 3).
+Patients in both treatment groups had significantly greater improvements in trough FEV1 compared to placebo (QVAR REDIHALER 320 mcg/day, LS mean change of 0.144 L and QVAR REDIHALER 640 mcg/day, LS mean change of 0.150 L over 6 weeks) (Table 3).
 Treatment with QVAR MDI was similar.
 The change from baseline in morning FEV1 during the trial is displayed in Figure 2.
 Both doses of QVAR REDIHALER were effective in improving asthma control with significantly greater improvements in FEV1, morning PEF, weekly average of daily trough morning FEV1, reduced rescue medication use and improved asthma symptom scores than with placebo.
 Similar results were demonstrated with QVAR MDI.
 
-1. Figure 2: A 6‑ Week Dose Response Clinical Trial in Patients with Inhaled Corticosteroid-Dependent Asthma: Mean Change in FEV1 as Percent of Predicted
+Figure 2: A 6‑ Week Dose Response Clinical Trial in Patients with Inhaled Corticosteroid-Dependent Asthma: Mean Change in FEV1 as Percent of Predicted
 
-Side by side comparison of the primary analysis of standardized baseline-adjusted trough morning FEV1 from time zero to the end of the treatment period for both studies is shown below in Table 3.
+Side-by-side comparison of the primary analysis of standardized baseline-adjusted trough morning FEV1 from time zero to the end of the treatment period for both studies is shown below in Table 3.
 
-1. Table 3: Primary Analysis of Standardized Baseline-Adjusted Trough Morning FEV1 (L) AUEC
-2. from Time Zero to the End of the Treatment Period 12-week Study and 6-week Dose Response Study
+Table 3: Primary Analysis of Standardized Baseline-Adjusted Trough Morning FEV1 (L) AUEC from Time Zero to the End of the Treatment Period 12-week Study and 6-week Dose Response Study
 
 |  | 12 weeks; FAS |  |  | 6 weeks; mITT Analysis set |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -57,7 +56,7 @@ This randomized, double-blind, parallel-group, placebo controlled, 12-week, glob
 Patients aged 4 to 5 years who were technically unable to complete spirometry participated in the safety population.
 Patients who met the entry criteria including FEV1 40-90% predicted normal and reversible bronchoconstriction of at least 12% with short acting inhaled beta agonist entered a 14-21 day run in period.
 Patients who met the randomization criteria including asthma symptoms and rescue medication use discontinued asthma therapy and were randomized equally across treatment groups.
-568 pediatric patients with symptomatic asthma of which 410 had previously been treated with low dose inhaled corticosteroids with or without a LABA were randomized to receive either 40 mcg or 80 mcg twice daily of QVAR REDIHALER, QVAR MDI or placebo.
+Five hundred sixty-eight (568) pediatric patients with symptomatic asthma of which 410 had previously been treated with low dose inhaled corticosteroids with or without a LABA were randomized to receive either 40 mcg or 80 mcg twice daily of QVAR REDIHALER, QVAR MDI or placebo.
 The primary endpoint was the change from baseline in trough percent predicted FEV1 AUEC (0-12 weeks).
 While the primary endpoint, was not statistically significant, change in weekly average of daily morning peak expiratory flow (PEF, L/min) over the 12 week treatment period was 11.3 [95% CI: 5.58, 17.06] and 8.5 [95% CI: 2.71, 14.24] for the 80 mcg/day and 160 mcg/day doses of QVAR REDIHALER, respectively, at nominal significance.
 Similar results were seen with evening PEF.

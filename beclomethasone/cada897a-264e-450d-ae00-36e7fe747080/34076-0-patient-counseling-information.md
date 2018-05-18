@@ -75,7 +75,7 @@ Instruct patients to never take QVAR REDIHALER apart.
 Inform patients that QVAR REDIHALER has a dose counter attached to the actuator at the rear of the mouth piece.
 When the patient receives the inhaler, the number 120 will be displayed.
 The dose counter will count down each time a spray is released.
-The dose-counter window displays the number of sprays left in the inhaler in units of two (e.g., 120, 118, 116, etc). When the counter displays 20, the color of the numbers will change to red to remind the patient to contact their pharmacist for a refill of medication or consult their healthcare providerfor a prescription refill.
+The dose-counter window displays the number of sprays left in the inhaler in units of two (e.g., 120, 118, 116, etc). When the counter displays 20, the color of the numbers will change to red to remind the patient to contact their pharmacist for a refill of medication or consult their healthcare provider for a prescription refill.
 When the dose counter reaches 0, the background will change to solid red.
 Inform patients to discard QVAR REDIHALER when the dose counter displays 0 or after the expiration date on the product, whichever comes first.
 
@@ -91,10 +91,8 @@ Norton (Waterford) Limited
 
 Unit 301, IDA Industrial Park, Cork Road, Waterford, Ireland
 
-© 2017 Teva Respiratory, LLC
-
-QVAR is a registered trademark of IVAX, LLC, a member of the Teva Group, and RediHaler is a trademark of Teva Respiratory, LLC.
+© 2018 Teva Respiratory, LLC
 
 U.S. Patent 7,637,260; 8,132,712; 8,931,476
 
-QVARH-001
+QVARH-002

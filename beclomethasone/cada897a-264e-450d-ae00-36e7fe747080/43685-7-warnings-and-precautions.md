@@ -40,8 +40,7 @@ Chickenpox and measles, for example, can have a more serious or even fatal cours
 In such patients who have not had these diseases or been properly immunized, particular care should be taken to avoid exposure.
 It is not known how the dose, route and duration of corticosteroid administration affect the risk of developing a disseminated infection, and nor is the contribution of the underlying disease and/or prior corticosteroid treatment known.
 If exposed to chickenpox, prophylaxis with varicella-zoster immune globulin (VZIG) may be indicated.
-If exposed to measles, prophylaxis with pooled intramuscular immunoglobulin (IG) may be indicated.
-(See the respective package inserts for complete VZIG and IG prescribing information.)
+If exposed to measles, prophylaxis with pooled intramuscular immunoglobulin (IG) may be indicated (See the respective package inserts for complete VZIG and IG prescribing information.)
 If chickenpox develops, treatment with antiviral agents may be considered.
 
 Inhaled corticosteroids should be used with caution, if at all, in patients with active or quiescent tuberculosis infection of the respiratory tract; untreated systemic fungal, bacterial, parasitic or viral infections; or ocular herpes simplex.
