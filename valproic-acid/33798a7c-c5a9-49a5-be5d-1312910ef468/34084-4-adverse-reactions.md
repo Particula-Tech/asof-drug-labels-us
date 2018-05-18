@@ -314,7 +314,7 @@ Emotional upset, psychosis, aggression, psychomotor hyperactivity, hostility, di
 
 Neurologic
 
-Paradoxical convulsion
+Paradoxical convulsion, parkinsonism
 
 There have been several reports of acute or subacute cognitive decline and behavioral changes (apathy or irritability) with cerebral pseudoatrophy on imaging associated with valproate therapy; both the cognitive/behavioral changes and cerebral pseudoatrophy reversed partially or fully after valproate discontinuation.
 
