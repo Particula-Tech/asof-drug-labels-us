@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA207806"
+  ],
+  "inn": "pioglitazone",
+  "labeler": "Solco Healthcare LLC",
+  "package_ndcs": [
+    "43547-426-03",
+    "43547-426-09",
+    "43547-426-50",
+    "43547-427-03",
+    "43547-427-09",
+    "43547-427-50",
+    "43547-428-03",
+    "43547-428-09",
+    "43547-428-50"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "pioglitazone",
+      "name": "PIOGLITAZONE"
+    }
+  ],
+  "setid": "1b77dbeb-61d1-4df3-872b-2f4f75a110db",
+  "source": "dailymed"
+}
