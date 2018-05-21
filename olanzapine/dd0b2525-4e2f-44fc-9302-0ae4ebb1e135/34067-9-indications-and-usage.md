@@ -35,3 +35,10 @@ Olanzapine orally disintegrating tablets and fluoxetine in combination are indic
 When using olanzapine orally disintegrating tablets and fluoxetine in combination, refer to the Clinical Studies section of the package insert for Symbyax.
 
 Olanzapine orally disintegrating tablets monotherapy is not indicated for the treatment of depressive episodes associated with bipolar I disorder.
+
+## 1.6 Olanzapine and Fluoxetine in Combination: Treatment Resistant Depression
+
+Oral olanzapine and fluoxetine in combination are indicated for the treatment of treatment resistant depression (major depressive disorder in patients who do not respond to 2 separate trials of different antidepressants of adequate dose and duration in the current episode), based on clinical studies in adult patients.
+When using olanzapine orally disintegrating tablets and fluoxetine in combination, refer to the Clinical Studies section of the package insert for Symbyax.
+
+Olanzapine orally disintegrating tablets monotherapy is not indicated for the treatment of treatment resistant depression.

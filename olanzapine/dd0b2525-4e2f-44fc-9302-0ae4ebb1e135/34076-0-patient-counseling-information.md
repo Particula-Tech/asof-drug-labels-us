@@ -97,9 +97,7 @@ The decision to prescribe atypical antipsychotic medication will depend upon the
 
 All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA.
 
-Teva Pharmaceuticals USA, Inc.
-
-North Wales, PA 19454
+Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-E 2/2017
+F 3/2018

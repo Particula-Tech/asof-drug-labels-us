@@ -13,21 +13,21 @@ What is the most important information I should know about olanzapine orally dis
 
 Olanzapine orally disintegrating tablets may cause serious side effects, including:
 
-1. 1.Increased risk of death in elderly people who are confused, have memory loss and have lost touch with reality (dementia-related psychosis).
-2. 2.High blood sugar (hyperglycemia).
-3. 3.High fat levels in your blood (increased cholesterol and triglycerides), especially in teenagers age 13 to 17 or when used in combination with fluoxetine in children age 10 to 17.
-4. 4.Weight gain, especially in teenagers age 13 to 17 or when used in combination with fluoxetine in children age 10 to 17.
+- Increased risk of death in elderly people who are confused, have memory loss and have lost touch with reality (dementia-related psychosis).
+- High blood sugar (hyperglycemia).
+- High fat levels in your blood (increased cholesterol and triglycerides), especially in teenagers age 13 to 17 or when used in combination with fluoxetine in children age 10 to 17.
+- Weight gain, especially in teenagers age 13 to 17 or when used in combination with fluoxetine in children age 10 to 17.
 
 These serious side effects are described below.
 
-1. 1.Increased risk of death in elderly people who are confused, have memory loss and have lost touch with reality (dementia-related psychosis).
-   Olanzapine orally disintegrating tablets are not approved for treating psychosis in elderly people with dementia.
-2. 2.High blood sugar (hyperglycemia).
-   High blood sugar can happen if you have diabetes already or if you have never had diabetes.
-   High blood sugar could lead to:
-3. •a buildup of acid in your blood due to ketones (ketoacidosis)
-4. •coma
-5. •death
+- Increased risk of death in elderly people who are confused, have memory loss and have lost touch with reality (dementia-related psychosis).
+  Olanzapine orally disintegrating tablets are not approved for treating psychosis in elderly people with dementia.
+- High blood sugar (hyperglycemia).
+  High blood sugar can happen if you have diabetes already or if you have never had diabetes.
+  High blood sugar could lead to:
+- a buildup of acid in your blood due to ketones (ketoacidosis)
+- coma
+- death
 
 Your doctor should do tests to check your blood sugar before you start taking olanzapine orally disintegrating tablets and during treatment.
 In people who do not have diabetes, sometimes high blood sugar goes away when olanzapine orally disintegrating tablets are stopped.
@@ -37,12 +37,12 @@ If you have diabetes, follow your doctor’s instructions about how often to che
 
 Call your doctor if you have any of these symptoms of high blood sugar (hyperglycemia) while taking olanzapine orally disintegrating tablets:
 
-1. •feel very thirsty
-2. •need to urinate more than usual
-3. •feel very hungry
-4. •feel weak or tired
-5. •feel sick to your stomach
-6. •feel confused or your breath smells fruity
+- feel very thirsty
+- need to urinate more than usual
+- feel very hungry
+- feel weak or tired
+- feel sick to your stomach
+- feel confused or your breath smells fruity
 
 3.
 High fat levels in your blood (cholesterol and triglycerides).
@@ -61,13 +61,14 @@ What are olanzapine orally disintegrating tablets?
 
 Olanzapine orally disintegrating tablets are a prescription medicine used to treat:
 
-1. •schizophrenia in people age 13 or older.
-2. •bipolar disorder, including:
-   1. •manic or mixed episodes that happen with bipolar I disorder in people age 13 or older.
-   2. •manic or mixed episodes that happen with bipolar I disorder, when used with the medicine lithium or
-3. valproate, in adults.
-   1. •long-term treatment of bipolar I disorder in adults.
-4. •episodes of depression that happen with bipolar I disorder, when used with the medicine fluoxetine (Prozac®) in people age 10 or older.
+- schizophrenia in people age 13 or older.
+- bipolar disorder, including:
+  - manic or mixed episodes that happen with bipolar I disorder in people age 13 or older.
+  - manic or mixed episodes that happen with bipolar I disorder, when used with the medicine lithium or
+- valproate, in adults.
+  - long-term treatment of bipolar I disorder in adults.
+- episodes of depression that happen with bipolar I disorder, when used with the medicine fluoxetine (Prozac®) in people age 10 or older.
+- episodes of depression that do not get better after 2 other medicines, also called treatmentresistant depression, when used with the medicine fluoxetine (Prozac), in adults.
 
 Olanzapine orally disintegrating tablets have not been approved for use in children under 13 years of age.
 Olanzapine orally disintegrating tablets in combination with fluoxetine have not been approved for use in children under 10 years of age.
@@ -75,6 +76,8 @@ Olanzapine orally disintegrating tablets in combination with fluoxetine have not
 The symptoms of schizophrenia include hearing voices, seeing things that are not there, having beliefs that are not true, and being suspicious or withdrawn.
 
 The symptoms of bipolar I disorder include alternating periods of depression and high or irritable mood, increased activity and restlessness, racing thoughts, talking fast, impulsive behavior, and a decreased need for sleep.
+
+The symptoms of treatment resistant depression include decreased mood, decreased interest, increased guilty feelings, decreased energy, decreased concentration, changes in appetite, and suicidal thoughts or behavior.
 
 Some of your symptoms may improve with treatment.
 If you do not think you are getting better, call your doctor.
@@ -84,27 +87,27 @@ What should I tell my doctor before taking olanzapine orally disintegrating tabl
 Olanzapine orally disintegrating tablets may not be right for you.
 Before starting olanzapine orally disintegrating tablets, tell your doctor if you have or had:
 
-1. •heart problems
-2. •seizures
-3. •diabetes or high blood sugar levels (hyperglycemia)
-4. •high cholesterol or triglyceride levels in your blood
-5. •liver problems
-6. •low or high blood pressure
-7. •strokes or “mini-strokes” also called transient ischemic attacks (TIAs)
-8. •Alzheimer’s disease
-9. •narrow-angle glaucoma
-10. •enlarged prostate in men
-11. •bowel obstruction
-12. •phenylketonuria, because olanzapine orally disintegrating tablets contain phenylalanine
-13. •breast cancer
-14. •thoughts of suicide or hurting yourself
-15. •any other medical condition
-16. •are pregnant or plan to become pregnant.
-    It is not known if olanzapine orally disintegrating tablets will harm your unborn baby.
-17. •are breast-feeding or plan to breast-feed.
-    Olanzapine can pass into your breast milk and may harm your baby.
-    You should not breast-feed while taking olanzapine orally disintegrating tablets.
-    Talk to your doctor about the best way to feed your baby if you take olanzapine orally disintegrating tablets.
+- heart problems
+- seizures
+- diabetes or high blood sugar levels (hyperglycemia)
+- high cholesterol or triglyceride levels in your blood
+- liver problems
+- low or high blood pressure
+- strokes or “mini-strokes” also called transient ischemic attacks (TIAs)
+- Alzheimer’s disease
+- narrow-angle glaucoma
+- enlarged prostate in men
+- bowel obstruction
+- phenylketonuria, because olanzapine orally disintegrating tablets contain phenylalanine
+- breast cancer
+- thoughts of suicide or hurting yourself
+- any other medical condition
+- are pregnant or plan to become pregnant.
+  It is not known if olanzapine orally disintegrating tablets will harm your unborn baby.
+- are breast-feeding or plan to breast-feed.
+  Olanzapine can pass into your breast milk and may harm your baby.
+  You should not breast-feed while taking olanzapine orally disintegrating tablets.
+  Talk to your doctor about the best way to feed your baby if you take olanzapine orally disintegrating tablets.
 
 Tell your doctor if you exercise a lot or are in hot places often.
 
@@ -118,67 +121,67 @@ Do not start or stop any medicine while taking olanzapine orally disintegrating 
 
 How should I take olanzapine orally disintegrating tablets?
 
-1. •Take olanzapine orally disintegrating tablets exactly as prescribed.
-   Your doctor may need to change (adjust) the dose of olanzapine orally disintegrating tablets until it is right for you.
-2. •If you miss a dose of olanzapine orally disintegrating tablets, take the missed dose as soon as you remember.
-   If it is almost time for the next dose, just skip the missed dose and take your next dose at the regular time.
-   Do not take two doses of olanzapine orally disintegrating tablets at the same time.
-3. •To prevent serious side effects, do not stop taking olanzapine orally disintegrating tablets suddenly.
-   If you need to stop taking olanzapine orally disintegrating tablets, your doctor can tell you how to safely stop taking it.
-4. •If you take too many olanzapine orally disintegrating tablets, call your doctor or poison control center at 1-800-222-1222 right away, or get emergency treatment.
-5. •Olanzapine orally disintegrating tablets can be taken with or without food.
-6. •Olanzapine orally disintegrating tablets are usually taken one time each day.
-7. •Take olanzapine orally disintegrating tablets as follows:
-   1. •Be sure that your hands are dry.
-   2. •Remove the blister from the carton and peel back the foil on the blister.
-      Do not push the tablet through the
-8. foil.
-   1. •As soon as you open the blister, remove the tablet and put it into your mouth.
-   2. •The tablet will disintegrate quickly in your saliva so that you can easily swallow it with or without
-9. drinking liquid.
-10. •Call your doctor if you do not think you are getting better or have any concerns about your condition while taking olanzapine orally disintegrating tablets.
+- Take olanzapine orally disintegrating tablets exactly as prescribed.
+  Your doctor may need to change (adjust) the dose of olanzapine orally disintegrating tablets until it is right for you.
+- If you miss a dose of olanzapine orally disintegrating tablets, take the missed dose as soon as you remember.
+  If it is almost time for the next dose, just skip the missed dose and take your next dose at the regular time.
+  Do not take two doses of olanzapine orally disintegrating tablets at the same time.
+- To prevent serious side effects, do not stop taking olanzapine orally disintegrating tablets suddenly.
+  If you need to stop taking olanzapine orally disintegrating tablets, your doctor can tell you how to safely stop taking it.
+- If you take too many olanzapine orally disintegrating tablets, call your doctor or poison control center at 1-800-222-1222 right away, or get emergency treatment.
+- Olanzapine orally disintegrating tablets can be taken with or without food.
+- Olanzapine orally disintegrating tablets are usually taken one time each day.
+- Take olanzapine orally disintegrating tablets as follows:
+  - Be sure that your hands are dry.
+  - Remove the blister from the carton and peel back the foil on the blister.
+    Do not push the tablet through the
+- foil.
+  - As soon as you open the blister, remove the tablet and put it into your mouth.
+  - The tablet will disintegrate quickly in your saliva so that you can easily swallow it with or without
+- drinking liquid.
+- Call your doctor if you do not think you are getting better or have any concerns about your condition while taking olanzapine orally disintegrating tablets.
 
 What should I avoid while taking olanzapine orally disintegrating tablets?
 
-1. •Olanzapine orally disintegrating tablets can cause sleepiness and may affect your ability to make decisions, think clearly, or react quickly.
-   You should not drive, operate heavy machinery, or do other dangerous activities until you know how olanzapine orally disintegrating tablets affect you.
-2. •Avoid drinking alcohol while taking olanzapine orally disintegrating tablets.
-   Drinking alcohol while you take olanzapine orally disintegrating tablets may make you sleepier than if you take olanzapine orally disintegrating tablets alone.
+- Olanzapine orally disintegrating tablets can cause sleepiness and may affect your ability to make decisions, think clearly, or react quickly.
+  You should not drive, operate heavy machinery, or do other dangerous activities until you know how olanzapine orally disintegrating tablets affect you.
+- Avoid drinking alcohol while taking olanzapine orally disintegrating tablets.
+  Drinking alcohol while you take olanzapine orally disintegrating tablets may make you sleepier than if you take olanzapine orally disintegrating tablets alone.
 
 What are the possible side effects of olanzapine orally disintegrating tablets?
 
 Serious side effects may happen when you take olanzapine orally disintegrating tablets, including:
 
-1. •See “What is the most important information I should know about olanzapine orally disintegrating tablets?”, which describes the increased risk of death in elderly people with dementia-related psychosis and the risks of high blood sugar, high cholesterol and triglyceride levels, and weight gain.
-2. •Increased incidence of stroke or “mini-strokes” called transient ischemic attacks (TIAs) in elderly people with dementia-related psychosis (elderly people who have lost touch with reality due to confusion and memory loss).
-   Olanzapine orally disintegrating tablets are not approved for these patients.
-3. •Neuroleptic Malignant Syndrome (NMS): NMS is a rare but very serious condition that can happen in people who take antipsychotic medicines, including olanzapine orally disintegrating tablets.
-   NMS can cause death and must be treated in a hospital.
-   Call your doctor right away if you become severely ill and have any of these symptoms:
-   1. •high fever
-   2. •excessive sweating
-   3. •rigid muscles
-   4. •confusion
-   5. •changes in your breathing, heartbeat, and blood pressure.
-4. •Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS): DRESS can occur with olanzapine orally disintegrating tablets.
-   Features of DRESS may include rash, fever, swollen glands and other internal organ involvement such as liver, kidney, lung and heart.
-   DRESS is sometimes fatal; therefore, tell your doctor immediately if you experience any of these signs.
-5. •Tardive Dyskinesia: This condition causes body movements that keep happening and that you cannot control.
-   These movements usually affect the face and tongue.
-   Tardive dyskinesia may not go away, even if you stop taking olanzapine orally disintegrating tablets.
-   It may also start after you stop taking olanzapine orally disintegrating tablets.
-   Tell your doctor if you get any body movements that you cannot control.
-6. •Decreased blood pressure when you change positions, with symptoms of dizziness, fast or slow heartbeat, or fainting.
-7. •Difficulty swallowing, that can cause food or liquid to get into your lungs.
-8. •Seizures: Tell your doctor if you have a seizure during treatment with olanzapine orally disintegrating tablets.
-9. •Problems with control of body temperature: You could become very hot, for instance when you exercise a lot or stay in an area that is very hot.
-   It is important for you to drink water to avoid dehydration.
-   Call your doctor right away if you become severely ill and have any of these symptoms of dehydration:
-   1. •sweating too much or not at all
-   2. •dry mouth
-   3. •feeling very hot
-   4. •feeling thirsty
-   5. •not able to produce urine.
+- See “What is the most important information I should know about olanzapine orally disintegrating tablets?”, which describes the increased risk of death in elderly people with dementia-related psychosis and the risks of high blood sugar, high cholesterol and triglyceride levels, and weight gain.
+- Increased incidence of stroke or “mini-strokes” called transient ischemic attacks (TIAs) in elderly people with dementia-related psychosis (elderly people who have lost touch with reality due to confusion and memory loss).
+  Olanzapine orally disintegrating tablets are not approved for these patients.
+- Neuroleptic Malignant Syndrome (NMS): NMS is a rare but very serious condition that can happen in people who take antipsychotic medicines, including olanzapine orally disintegrating tablets.
+  NMS can cause death and must be treated in a hospital.
+  Call your doctor right away if you become severely ill and have any of these symptoms:
+  - high fever
+  - excessive sweating
+  - rigid muscles
+  - confusion
+  - changes in your breathing, heartbeat, and blood pressure.
+- Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS): DRESS can occur with olanzapine orally disintegrating tablets.
+  Features of DRESS may include rash, fever, swollen glands and other internal organ involvement such as liver, kidney, lung and heart.
+  DRESS is sometimes fatal; therefore, tell your doctor immediately if you experience any of these signs.
+- Tardive Dyskinesia: This condition causes body movements that keep happening and that you cannot control.
+  These movements usually affect the face and tongue.
+  Tardive dyskinesia may not go away, even if you stop taking olanzapine orally disintegrating tablets.
+  It may also start after you stop taking olanzapine orally disintegrating tablets.
+  Tell your doctor if you get any body movements that you cannot control.
+- Decreased blood pressure when you change positions, with symptoms of dizziness, fast or slow heartbeat, or fainting.
+- Difficulty swallowing, that can cause food or liquid to get into your lungs.
+- Seizures: Tell your doctor if you have a seizure during treatment with olanzapine orally disintegrating tablets.
+- Problems with control of body temperature: You could become very hot, for instance when you exercise a lot or stay in an area that is very hot.
+  It is important for you to drink water to avoid dehydration.
+  Call your doctor right away if you become severely ill and have any of these symptoms of dehydration:
+  - sweating too much or not at all
+  - dry mouth
+  - feeling very hot
+  - feeling thirsty
+  - not able to produce urine.
 
 Common side effects of olanzapine orally disintegrating tablets include: lack of energy, dry mouth, increased appetite, sleepiness, tremor (shakes), having hard or infrequent stools, dizziness, changes in behavior, or restlessness.
 
@@ -195,9 +198,9 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store olanzapine orally disintegrating tablets?
 
-1. •Store olanzapine orally disintegrating tablets at room temperature, between 68°F to 77°F (20°C to 25°C).
-2. •Keep olanzapine orally disintegrating tablets away from light.
-3. •Keep olanzapine orally disintegrating tablets dry and away from moisture.
+- Store olanzapine orally disintegrating tablets at room temperature, between 68°F to 77°F (20°C to 25°C).
+- Keep olanzapine orally disintegrating tablets away from light.
+- Keep olanzapine orally disintegrating tablets dry and away from moisture.
 
 Keep olanzapine orally disintegrating tablets and all medicines out of the reach of children.
 
@@ -226,4 +229,4 @@ All brand names listed are the registered trademarks of their respective owners 
 Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-D 10/2016
+E 3/2018

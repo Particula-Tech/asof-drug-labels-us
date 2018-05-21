@@ -80,9 +80,9 @@ Table 2: Changes in Fasting Glucose Levels from Adult Olanzapine Monotherapy Stu
 | --- | --- | --- | --- | --- | --- | --- |
 | Laboratory Analyte | Category Change (at least once) from Baseline | Treatment Arm | N | Patients | N | Patients |
 | Fasting Glucose | Normal to High(<100 mg/dL to ≥126 mg/dL) | Olanzapine | 543 | 2.2% | 345 | 12.8% |
-| Placebo | 293 | 3.4% | NANot Applicable. | NA |  |  |
+| Placebo | 293 | 3.4% | NA* | NA* |  |  |
 | Borderline to High(≥100 mg/dL and <126 mg/dL to ≥126 mg/dL) | Olanzapine | 178 | 17.4% | 127 | 26.0% |  |
-| Placebo | 96 | 11.5% | NA | NA |  |  |
+| Placebo | 96 | 11.5% | NA* | NA* |  |  |
 
 The mean change in fasting glucose for patients exposed at least 48 weeks was 4.2 mg/dL (N=487).
 In analyses of patients who completed 9 to 12 months of olanzapine therapy, mean change in fasting and nonfasting glucose levels continued to increase over time.
@@ -100,9 +100,9 @@ Table 3: Changes in Fasting Glucose Levels from Adolescent Olanzapine Monotherap
 | --- | --- | --- | --- | --- | --- | --- |
 | Laboratory Analyte | Category Change (at least once) from Baseline | Treatment Arm | N | Patients | N | Patients |
 | Fasting Glucose | Normal to High(<100 mg/dL to ≥126 mg/dL) | Olanzapine | 124 | 0% | 108 | 0.9% |
-| Placebo | 53 | 1.9% | NANot Applicable. | NA |  |  |
+| Placebo | 53 | 1.9% | NA* | NA* |  |  |
 | Borderline to High(≥100 mg/dL and <126 mg/dL to ≥126 mg/dL) | Olanzapine | 14 | 14.3% | 13 | 23.1% |  |
-| Placebo | 13 | 0% | NA | NA |  |  |
+| Placebo | 13 | 0% | NA* | NA* |  |  |
 
 Dyslipidemia
 
@@ -128,23 +128,23 @@ Table 4: Changes in Fasting Lipids Values from Adult Olanzapine Monotherapy Stud
 | --- | --- | --- | --- | --- | --- | --- |
 | Laboratory Analyte | Category Change (at least once) from Baseline | Treatment Arm | N | Patients | N | Patients |
 | Fasting Triglycerides | Increase by ≥50 mg/dL | Olanzapine | 745 | 39.6% | 487 | 61.4% |
-| Placebo | 402 | 26.1% | NANot Applicable. | NA |  |  |
+| Placebo | 402 | 26.1% | NA* | NA* |  |  |
 | Normal to High(<150 mg/dL to ≥200 mg/dL) | Olanzapine | 457 | 9.2% | 293 | 32.4% |  |
-| Placebo | 251 | 4.4% | NA | NA |  |  |
+| Placebo | 251 | 4.4% | NA* | NA* |  |  |
 | Borderline to High(≥150 mg/dL and <200 mg/dL to ≥200 mg/dL) | Olanzapine | 135 | 39.3% | 75 | 70.7% |  |
-| Placebo | 65 | 20.0% | NA | NA |  |  |
+| Placebo | 65 | 20.0% | NA* | NA* |  |  |
 | Fasting Total Cholesterol | Increase by ≥40 mg/dL | Olanzapine | 745 | 21.6% | 489 | 32.9% |
-| Placebo | 402 | 9.5% | NA | NA |  |  |
+| Placebo | 402 | 9.5% | NA* | NA* |  |  |
 | Normal to High(<200 mg/dL to ≥240 mg/dL) | Olanzapine | 392 | 2.8% | 283 | 14.8% |  |
-| Placebo | 207 | 2.4% | NA | NA |  |  |
+| Placebo | 207 | 2.4% | NA* | NA* |  |  |
 | Borderline to High(≥200 mg/dL and <240 mg/dL to ≥240 mg/dL) | Olanzapine | 222 | 23.0% | 125 | 55.2% |  |
-| Placebo | 112 | 12.5% | NA | NA |  |  |
+| Placebo | 112 | 12.5% | NA* | NA* |  |  |
 | Fasting LDL Cholesterol | Increase by ≥30 mg/dL | Olanzapine | 536 | 23.7% | 483 | 39.8% |
-| Placebo | 304 | 14.1% | NA | NA |  |  |
+| Placebo | 304 | 14.1% | NA* | NA* |  |  |
 | Normal to High(<100 mg/dL to ≥160 mg/dL) | Olanzapine | 154 | 0% | 123 | 7.3% |  |
-| Placebo | 82 | 1.2% | NA | NA |  |  |
+| Placebo | 82 | 1.2% | NA* | NA* |  |  |
 | Borderline to High(≥100 mg/dL and <160 mg/dL to ≥160 mg/dL) | Olanzapine | 302 | 10.6% | 284 | 31.0% |  |
-| Placebo | 173 | 8.1% | NA | NA |  |  |
+| Placebo | 173 | 8.1% | NA* | NA* |  |  |
 
 In phase 1 of the Clinical Antipsychotic Trials of Intervention Effectiveness (CATIE), over a median exposure of 9.2 months, the mean increase in triglycerides in patients taking olanzapine was 40.5 mg/dL.
 In phase 1 of CATIE, the mean increase in total cholesterol was 9.4 mg/dL.
@@ -162,23 +162,23 @@ Table 5: Changes in Fasting Lipids Values from Adolescent Olanzapine Monotherapy
 | --- | --- | --- | --- | --- | --- | --- |
 | Laboratory Analyte | Category Change (at least once) from Baseline | Treatment Arm | N | Patients | N | Patients |
 | Fasting Triglycerides | Increase by ≥50 mg/dL | Olanzapine | 138 | 37.0% | 122 | 45.9% |
-| Placebo | 66 | 15.2% | NANot Applicable. | NA |  |  |
+| Placebo | 66 | 15.2% | NA* | NA* |  |  |
 | Normal to High (<90 mg/dL to >130 mg/dL) | Olanzapine | 67 | 26.9% | 66 | 36.4% |  |
-| Placebo | 28 | 10.7% | NA | NA |  |  |
+| Placebo | 28 | 10.7% | NA* | NA* |  |  |
 | Borderline to High (≥90 mg/dL and ≤130 mg/dL to >130 mg/dL) | Olanzapine | 37 | 59.5% | 31 | 64.5% |  |
-| Placebo | 17 | 35.3% | NA | NA |  |  |
+| Placebo | 17 | 35.3% | NA* | NA* |  |  |
 | Fasting Total Cholesterol | Increase by ≥40 mg/dL | Olanzapine | 138 | 14.5% | 122 | 14.8% |
-| Placebo | 66 | 4.5% | NA | NA |  |  |
+| Placebo | 66 | 4.5% | NA* | NA* |  |  |
 | Normal to High (<170 mg/dL to ≥200 mg/dL) | Olanzapine | 87 | 6.9% | 78 | 7.7% |  |
-| Placebo | 43 | 2.3% | NA | NA |  |  |
+| Placebo | 43 | 2.3% | NA* | NA* |  |  |
 | Borderline to High (≥170 mg/dL and <200 mg/dL to ≥200 mg/dL) | Olanzapine | 36 | 38.9% | 33 | 57.6% |  |
-| Placebo | 13 | 7.7% | NA | NA |  |  |
+| Placebo | 13 | 7.7% | NA* | NA* |  |  |
 | Fasting LDL Cholesterol | Increase by ≥30 mg/dL | Olanzapine | 137 | 17.5% | 121 | 22.3% |
-| Placebo | 63 | 11.1% | NA | NA |  |  |
+| Placebo | 63 | 11.1% | NA* | NA* |  |  |
 | Normal to High (<110 mg/dL to ≥130 mg/dL) | Olanzapine | 98 | 5.1% | 92 | 10.9% |  |
-| Placebo | 44 | 4.5% | NA | NA |  |  |
+| Placebo | 44 | 4.5% | NA* | NA* |  |  |
 | Borderline to High (≥110 mg/dL and <130 mg/dL to ≥130 mg/dL) | Olanzapine | 29 | 48.3% | 21 | 47.6% |  |
-| Placebo | 9 | 0% | NA | NA |  |  |
+| Placebo | 9 | 0% | NA* | NA* |  |  |
 
 Weight Gain
 

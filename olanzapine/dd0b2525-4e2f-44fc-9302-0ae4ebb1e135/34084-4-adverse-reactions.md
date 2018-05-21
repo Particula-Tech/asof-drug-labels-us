@@ -64,7 +64,7 @@ Use of Oral Olanzapine in 6-Week Trials — SCHIZOPHRENIA
 | Constipation | 9 | 3 |
 | Weight gain | 6 | 1 |
 | Dizziness | 11 | 4 |
-| Personality disorderPersonality disorder is the COSTART term for designating nonaggressive objectionable behavior. | 8 | 4 |
+| Personality disorder* | 8 | 4 |
 | Akathisia | 5 | 1 |
 
 Table 10: Common Treatment-Emergent Adverse Reactions Associated with the Use of Oral Olanzapine in 3-Week and 4-Week Trials — Bipolar I Disorder (Manic or Mixed Episodes)
@@ -226,8 +226,8 @@ Table 14: Treatment-Emergent Adverse Reactions: Incidence in Short-Term, Placebo
 | Amblyopia | 9 | 5 |
 | Abnormal vision | 2 | 0 |
 | Urogenital System |  |  |
-| DysmenorrheaDenominator used was for females only (olanzapine, N=128; placebo, N=51). | 2 | 0 |
-| Vaginitis | 2 | 0 |
+| Dysmenorrhea* | 2 | 0 |
+| Vaginitis* | 2 | 0 |
 
 For specific information about the adverse reactions observed with lithium or valproate, refer to the Adverse Reactions section of the package inserts for these other products.
 
@@ -240,8 +240,8 @@ Table 16: Treatment-Emergent Extrapyramidal Symptoms Assessed by Rating Scales I
 |  | Percentage of Patients Reporting Event |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | Placebo | Olanzapine 5 ± 2.5 mg/day | Olanzapine 10 ± 2.5 mg/day | Olanzapine 15 ± 2.5 mg/day |
-| ParkinsonismPercentage of patients with a Simpson-Angus Scale total score >3. | 15 | 14 | 12 | 14 |
-| AkathisiaPercentage of patients with a Barnes Akathisia Scale global score ≥2. | 23 | 16 | 19 | 27 |
+| Parkinsonism* | 15 | 14 | 12 | 14 |
+| Akathisia† | 23 | 16 | 19 | 27 |
 
 The following table enumerates the percentage of patients with treatment-emergent extrapyramidal symptoms as assessed by spontaneously reported adverse reactions during acute therapy in the same controlled clinical trial comparing olanzapine at 3 fixed doses with placebo in the treatment of schizophrenia in a 6-week trial.
 
@@ -250,18 +250,18 @@ Table 17: Treatment-Emergent Extrapyramidal Symptoms Assessed by Adverse Reactio
 |  | Percentage of Patients Reporting Event |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | Placebo (N=68) | Olanzapine 5 ± 2.5 mg/day (N=65) | Olanzapine 10 ± 2.5 mg/day (N=64) | Olanzapine 15 ± 2.5 mg/day (N=69) |
-| Dystonic eventsPatients with the following COSTART terms were counted in this category: dystonia, generalized spasm, neck rigidity, oculogyric crisis, opisthotonos, torticollis. | 1 | 3 | 2 | 3 |
-| Parkinsonism eventsPatients with the following COSTART terms were counted in this category: akinesia, cogwheel rigidity, extrapyramidal syndrome, hypertonia, hypokinesia, masked facies, tremor. | 10 | 8 | 14 | 20 |
-| Akathisia eventsPatients with the following COSTART terms were counted in this category: akathisia, hyperkinesia. | 1 | 5 | 11 | 10 |
-| Dyskinetic eventsPatients with the following COSTART terms were counted in this category: buccoglossal syndrome, choreoathetosis, dyskinesia, tardive dyskinesia. | 4 | 0 | 2 | 1 |
-| Residual eventsPatients with the following COSTART terms were counted in this category: movement disorder, myoclonus, twitching. | 1 | 2 | 5 | 1 |
+| Dystonic events* | 1 | 3 | 2 | 3 |
+| Parkinsonism events† | 10 | 8 | 14 | 20 |
+| Akathisia events‡ | 1 | 5 | 11 | 10 |
+| Dyskinetic events§ | 4 | 0 | 2 | 1 |
+| Residual events¶ | 1 | 2 | 5 | 1 |
 | Any extrapyramidal event | 16 | 15 | 25 | 32 |
 
 The following table enumerates the percentage of adolescent patients with treatment-emergent extrapyramidal symptoms as assessed by spontaneously reported adverse reactions during acute therapy (dose range: 2.5 to 20 mg/day).
 
 Table 18: Treatment-Emergent Extrapyramidal Symptoms Assessed by Adverse Reactions Incidence in Placebo-Controlled Clinical Trials of Oral Olanzapine in Schizophrenia and Bipolar I Disorder — Adolescents
 
-| CategoriesCategories are based on Standard MedDRA Queries (SMQ) for extrapyramidal symptoms as defined in MedDRA version 12.0. | Percentage of Patients Reporting Event |  |
+| Categories* | Percentage of Patients Reporting Event |  |
 | --- | --- | --- |
 | Placebo (N=89) | Olanzapine (N=179) |  |
 | Dystonic events | 0 | 1 |
@@ -323,12 +323,12 @@ Table 21: Treatment-Emergent Adverse Reactions of ≥5% Incidence among Adolesce
 | --- | --- | --- | --- | --- |
 | 6 Week Trial % Schizophrenia Patients |  | 3 Week Trial % Bipolar Patients |  |  |
 | Olanzapine (N=72) | Placebo (N=35) | Olanzapine (N=107) | Placebo (N=54) |  |
-| SedationPatients with the following MedDRA terms were counted in this category: hypersomnia, lethargy, sedation, somnolence. | 39 | 9 | 48 | 9 |
+| Sedation* | 39 | 9 | 48 | 9 |
 | Weight increased | 31 | 9 | 29 | 4 |
 | Headache | 17 | 6 | 17 | 17 |
 | Increased appetite | 17 | 9 | 29 | 4 |
 | Dizziness | 8 | 3 | 7 | 2 |
-| Abdominal painPatients with the following MedDRA terms were counted in this category: abdominal pain, abdominal pain lower, abdominal pain upper. | 6 | 3 | 6 | 7 |
+| Abdominal pain† | 6 | 3 | 6 | 7 |
 | Pain in extremity | 6 | 3 | 5 | 0 |
 | Fatigue | 3 | 3 | 14 | 6 |
 | Dry mouth | 4 | 0 | 7 | 0 |
@@ -343,7 +343,7 @@ Table 22: Treatment-Emergent Adverse Reactions of ≥2% Incidence among Adolesce
 | --- | --- | --- |
 | Olanzapine | Placebo |  |
 | (N=179) | (N=89) |  |
-| SedationPatients with the following MedDRA terms were counted in this category: hypersomnia, lethargy, sedation, somnolence. | 44 | 9 |
+| Sedation* | 44 | 9 |
 | Weight increased | 30 | 6 |
 | Increased appetite | 24 | 6 |
 | Headache | 17 | 12 |
@@ -355,10 +355,10 @@ Table 22: Treatment-Emergent Adverse Reactions of ≥2% Incidence among Adolesce
 | Nasopharyngitis | 4 | 2 |
 | Diarrhea | 3 | 0 |
 | Restlessness | 3 | 2 |
-| Liver enzymes increasedThe terms alanine aminotransferase (ALT), aspartate aminotransferase (AST), and hepatic enzyme were combined under liver enzymes. | 8 | 1 |
+| Liver enzymes increased† | 8 | 1 |
 | Dyspepsia | 3 | 1 |
 | Epistaxis | 3 | 0 |
-| Respiratory tract infectionPatients with the following MedDRA terms were counted in this category: lower respiratory tract infection, respiratory tract infection, respiratory tract infection viral, upper respiratory tract infection, viral upper respiratory tract infection. | 3 | 2 |
+| Respiratory tract infection‡ | 3 | 2 |
 | Sinusitis | 3 | 0 |
 | Arthralgia | 2 | 0 |
 | Musculoskeletal stiffness | 2 | 0 |
@@ -402,5 +402,7 @@ This increase in heart rate may be related to olanzapine’s potential for induc
 The following adverse reactions have been identified during post-approval use of olanzapine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is difficult to reliably estimate their frequency or evaluate a causal relationship to drug exposure.
 
-Adverse reactions reported since market introduction that were temporally (but not necessarily causally) related to olanzapine therapy include the following: allergic reaction (e.g., anaphylactoid reaction, angioedema, pruritus or urticaria), cholestatic or mixed liver injury, diabetic coma, diabetic ketoacidosis, discontinuation reaction (diaphoresis, nausea or vomiting), Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), hepatitis, jaundice, neutropenia, pancreatitis, priapism, rash, restless legs syndrome, rhabdomyolysis, and venous thromboembolic events (including pulmonary embolism and deep venous thrombosis).
+Adverse reactions reported since market introduction that were temporally (but not necessarily causally) related to olanzapine therapy include the following: allergic reaction (e.g., anaphylactoid reaction, angioedema, pruritus or urticaria), cholestatic or mixed liver injury, diabetic coma, diabetic ketoacidosis, discontinuation reaction (diaphoresis, nausea or vomiting), Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), hepatitis, jaundice, neutropenia, pancreatitis, priapism, rash, restless legs syndrome, rhabdomyolysis, stuttering1, and venous thromboembolic events (including pulmonary embolism and deep venous thrombosis).
 Random cholesterol levels of ≥240 mg/dL and random triglyceride levels of ≥1000 mg/dL have been reported.
+
+1 Stuttering was only studied in oral and long acting injection (LAI) formulations.
