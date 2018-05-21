@@ -184,4 +184,4 @@ For current full prescribing information, please visit www.greenstonellc.com.
 
 Trademarks are the property of their respective owners.
 
-LAB-0435-7.0 Revised July 2017
+LAB-0435-8.0 Revised: 5/2018
