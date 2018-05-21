@@ -15,6 +15,8 @@ MIRAPEX is a prescription medicine used to treat:
 
 It is not known if MIRAPEX is safe and effective in children.
 
+What should I tell my doctor before taking MIRAPEX?
+
 - Before taking MIRAPEX, tell your doctor if you:
   - feel sleepy during the day from a sleep problem other than Restless Legs Syndrome
   - have low blood pressure, or if you feel dizzy or faint, especially when getting up from sitting or lying down
@@ -35,6 +37,8 @@ Tell your doctor about all the medicines you take, including prescription and no
 The combination of MIRAPEX and other medicines may affect each other and may cause side effects.
 MIRAPEX may affect the way other medicines work, and other medicines may affect how MIRAPEX works.
 
+Especially tell your doctor if you take:
+
 - medicines called neuroleptics (phenothiazines, butyrophenones, thioxanthenes) or metoclopramide.
   MIRAPEX may not work as well if you take these medicines.
 - extended-release pramipexole (MIRAPEX ER).
@@ -46,6 +50,8 @@ Ask your doctor for a list of these medicines if you are not sure.
 
 Know the medicines you take.
 Keep a list of them and show it to your doctor and pharmacist when you get a new medicine.
+
+How should I take MIRAPEX?
 
 - Take MIRAPEX exactly as your doctor tells you to take it.
 - Your doctor will tell you how much MIRAPEX to take and when to take it.
@@ -62,6 +68,8 @@ Keep a list of them and show it to your doctor and pharmacist when you get a new
   - confusion
   - severe muscle stiffness Do not stop taking MIRAPEX without talking to your doctor.
 
+What should I avoid while taking MIRAPEX?
+
 - Do not drink alcohol while taking MIRAPEX.
   It can increase your chance of having serious side effects.
   See “What are the possible side effects of MIRAPEX?”
@@ -69,6 +77,8 @@ Keep a list of them and show it to your doctor and pharmacist when you get a new
   Sleepiness caused by MIRAPEX can happen as late as 1 year after you start your treatment.
 
 What are the possible side effects of MIRAPEX?
+
+MIRAPEX may cause serious side effects, including:
 
 - falling asleep during normal daily activities.
   MIRAPEX may cause you to fall asleep while you are doing daily activities such as driving, talking with other people, or eating.Tell your doctor right away if you fall asleep while you are doing activities such as talking, eating, driving, or if you feel sleepier than normal for you.
@@ -89,10 +99,9 @@ What are the possible side effects of MIRAPEX?
   If you have hallucinations or other psychotic-like changes, talk with your doctor right away.
 - uncontrolled sudden movements (dyskinesia).
   If you have new dyskinesia or your existing dyskinesia gets worse tell your doctor.
-- skin cancer (melanoma).
-  Some people with Parkinson’s disease may have a higher chance of having melanoma than people who do not have Parkinson’s disease.
-  It is not known if the chance of having melanoma is higher because of the medicines to treat Parkinson’s disease, like MIRAPEX, or from the Parkinson’s disease.
-  People who take MIRAPEX should have regular skin examinations to check for melanoma.
+- posture changes.
+  Talk with your doctor if you have posture changes you cannot control.
+  These may include your neck bending forward, bending forward at the waist, or tilting sideways when you sit, stand, or walk.
 
 The most common side effects in people taking MIRAPEX for Restless Legs Syndrome are nausea and headache.
 
@@ -114,7 +123,9 @@ Tell your doctor if you have any side effect that bothers you.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-- Store MIRAPEX at 59ºF to 86ºF (15ºC to 30ºC).
+How should I store MIRAPEX?
+
+- Store MIRAPEX at room temperature from 68ºF to 77ºF (20ºC to 25ºC).
 - Keep MIRAPEX out of the light.
 - Keep MIRAPEX and all medicines out of the reach of children.
 
@@ -145,8 +156,8 @@ Trademark under license from: Boehringer Ingelheim International GmbH
 
 The brands listed are trademarks of their respective owners and are not trademarks of Boehringer Ingelheim Pharmaceuticals, Inc. The makers of these brands are not affiliated with and do not endorse Boehringer Ingelheim Pharmaceuticals, Inc., or its products.
 
-Copyright © 2016 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2018 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: July 2016
+Revised: May 2018
 
-OT1338WG292016
+OT1338XE092018

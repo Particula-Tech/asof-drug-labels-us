@@ -5,8 +5,7 @@
 Risk Summary
 
 There are no adequate data on the developmental risk associated with the use of MIRAPEX in pregnant women.
-No adverse developmental effects were observed in animal studies in which pramipexole was administered to rabbits during pregnancy
-
+No adverse developmental effects were observed in animal studies in which pramipexole was administered to rabbits during pregnancy.
 Effects on embryofetal development could not be adequately assessed in pregnant rats; however, postnatal growth was inhibited at clinically relevant exposures [see Data].
 
 In the U.S. general population, the estimated background risk of major birth defects and of miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
@@ -53,4 +52,4 @@ There were no apparent differences in efficacy or safety between older and young
 
 The elimination of pramipexole is dependent on renal function.
 Pramipexole clearance is extremely low in dialysis patients, as a negligible amount of pramipexole is removed by dialysis.
-Caution should be exercised when administering MIRAPEX tablets to patients with renal disease [see Dosage and Administration (2.2), Warnings and Precautions (5.6), and Clinical Pharmacology (12.3)].
+Caution should be exercised when administering MIRAPEX tablets to patients with renal disease [see Dosage and Administration (2.2), Warnings and Precautions (5.7), and Clinical Pharmacology (12.3)].
