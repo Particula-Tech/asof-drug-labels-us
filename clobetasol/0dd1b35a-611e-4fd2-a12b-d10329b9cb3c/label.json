@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022013"
+  ],
+  "inn": "clobetasol",
+  "labeler": "Mylan Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0378-8147-01",
+    "0378-8147-50"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, FOAM",
+      "generic": "clobetasol propionate",
+      "name": "OLUX-E"
+    }
+  ],
+  "setid": "0dd1b35a-611e-4fd2-a12b-d10329b9cb3c",
+  "source": "dailymed"
+}
