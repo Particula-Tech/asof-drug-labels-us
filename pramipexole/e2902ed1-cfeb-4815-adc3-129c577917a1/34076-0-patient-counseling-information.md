@@ -99,10 +99,9 @@ MIRAPEX ER may cause serious side effects, including:
   Your chance of having hallucinations and other psychotic-like behavior is higher if you are age 65 or older.If you have hallucinations or other psychotic-like changes, talk with your doctor right away.
 - uncontrolled sudden movements (dyskinesia).
   If you have new dyskinesia, or your existing dyskinesia gets worse, tell your doctor.
-- skin cancer (melanoma).
-  Some people with Parkinson’s disease may have a higher chance of having melanoma than people who do not have Parkinson’s disease.
-  It is not known if the chance of having melanoma is higher because of the medicines to treat Parkinson’s disease, like MIRAPEX ER, or from the Parkinson’s disease.
-  People who take MIRAPEX ER should have regular skin examinations to check for melanoma.
+- posture changes.
+  Talk with your doctor if you have posture changes you cannot control.
+  These may include your neck bending forward, bending forward at the waist, or tilting sideways when you sit, stand, or walk.
 
 The most common side effects in people taking MIRAPEX ER for early Parkinson’s disease are:
 
@@ -125,7 +124,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How should I store MIRAPEX ER?
 
 - 
-  - Store MIRAPEX ER at room temperature between 68ºF to 77ºF (20ºC to 25ºC).
+  - Store MIRAPEX ER at room temperature from 68ºF to 77ºF (20ºC to 25ºC).
   - Keep MIRAPEX ER away from high humidity or moisture.
   - Keep MIRAPEX ER and all medicines out of the reach of children.
 

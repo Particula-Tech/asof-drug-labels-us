@@ -4,8 +4,7 @@
 
 MIRAPEX ER tablets are available as follows:
 
-0.
-375 mg: white to off-white, round, bevel-edged, extended-release tablets debossed with "ER" on one side and "0.375" on the other side.
+0.375 mg: white to off-white, round, bevel-edged, extended-release tablets debossed with "ER" on one side and "0.375" on the other side.
 Unit of Use Bottles of 7 NDC 0597-0109-17 Unit of Use Bottles of 30 NDC 0597-0109-30
 
 0.75 mg: white to off-white, round, bevel-edged, extended-release tablets debossed with "ER" on one side and "0.75" on the other side.

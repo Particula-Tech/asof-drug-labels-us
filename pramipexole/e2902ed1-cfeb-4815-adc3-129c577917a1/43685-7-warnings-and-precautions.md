@@ -53,15 +53,21 @@ In addition, certain medications used to treat psychosis may exacerbate the symp
 
 ## 5.5 Dyskinesia
 
-MIRAPEX ER tablets may potentiate the dopaminergic side effects of levodopa and may cause or exacerbate preexisting dyskinesia.
+MIRAPEX ER tablets may cause or exacerbate preexisting dyskinesia.
 
-## 5.6 Renal Impairment
+## 5.6 Postural Deformity
+
+Postural deformities, including antecollis, camptocormia (Bent Spine Syndrome), and pleurothotonus (Pisa Syndrome), have been reported in patients after starting or increasing the dose of MIRAPEX ER.
+Postural deformity may occur several months after starting treatment or increasing the dose.
+Reducing the dose or discontinuing MIRAPEX ER has been reported to improve postural deformity in some patients, and should be considered if postural deformity occurs.
+
+## 5.7 Renal Impairment
 
 The elimination of pramipexole is dependent on renal function [see Clinical Pharmacology (12.3)].
 Patients with mild renal impairment (a creatinine clearance above 50 mL/min) require no reduction in daily dose.
 MIRAPEX ER tablets have not been studied in patients with moderate to severe renal impairment (creatinine clearance <50 mL/min) or on hemodialysis [see Dosage and Administration (2.2), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
 
-## 5.7 Rhabdomyolysis
+## 5.8 Rhabdomyolysis
 
 In the clinical development program for immediate-release pramipexole tablets, a single case of rhabdomyolysis occurred in a 49-year-old male with advanced Parkinson's disease.
 The patient was hospitalized with an elevated CPK (10,631 IU/L).
@@ -69,7 +75,7 @@ The symptoms resolved with discontinuation of the medication.
 
 Advise patients to contact a physician if they experience any unexplained muscle pain, tenderness, or weakness, as these may be symptoms of rhabdomyolysis.
 
-## 5.8 Retinal Pathology
+## 5.9 Retinal Pathology
 
 Human Data A two-year open-label, randomized, parallel-group safety study of retinal deterioration and vision compared immediate-release pramipexole tablets and immediate-release ropinirole.
 Two hundred thirty four Parkinson’s disease patients (115 on pramipexole, mean dose 3.0 mg/day and 119 on ropinirole, mean dose 9.5 mg/day) were evaluated using a panel of clinical ophthalmological assessments.
@@ -82,7 +88,7 @@ While retinal degeneration was not diagnosed in pigmented rats treated for 2 yea
 Evaluation of the retinas of albino mice, monkeys, and minipigs did not reveal similar changes.
 The potential significance of this effect for humans has not been established, but cannot be disregarded because disruption of a mechanism that is universally present in vertebrates (i.e., disk shedding) may be involved [see Nonclinical Toxicology (13.2)].
 
-## 5.9 Events Reported with Dopaminergic Therapy
+## 5.10 Events Reported with Dopaminergic Therapy
 
 Although the events enumerated below may not have been reported with the use of pramipexole in its development program, they are associated with the use of other dopaminergic drugs.
 The expected incidence of these events, however, is so low that even if pramipexole caused these events at rates similar to those attributable to other dopaminergic therapies, it would be unlikely that even a single case would have occurred in a cohort of the size exposed to pramipexole in studies to date.
@@ -98,9 +104,3 @@ Although these adverse events are believed to be related to the ergoline structu
 
 Cases of possible fibrotic complications, including peritoneal fibrosis, pleural fibrosis, and pulmonary fibrosis have been reported in the postmarketing experience with immediate-release pramipexole tablets.
 While the evidence is not sufficient to establish a causal relationship between pramipexole and these fibrotic complications, a contribution of pramipexole cannot be completely ruled out.
-
-Melanoma Epidemiologic studies have shown that patients with Parkinson’s disease have a higher risk (2- to approximately 6-fold higher) of developing melanoma than the general population.
-Whether the observed increased risk was due to Parkinson’s disease or other factors, such as drugs used to treat Parkinson’s disease, is unclear.
-
-For the reasons stated above, patients and providers are advised to monitor for melanomas frequently and on a regular basis when using MIRAPEX ER tablets for any indication.
-Ideally, periodic skin examinations should be performed by appropriately qualified individuals (e.g., dermatologists).

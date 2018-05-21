@@ -7,9 +7,10 @@ The following adverse reactions are discussed in greater detail in other section
 - Impulse Control/Compulsive Behaviors [see Warnings and Precautions (5.3)]
 - Hallucinations and Psychotic-like Behavior [see Warnings and Precautions (5.4)]
 - Dyskinesia [see Warnings and Precautions (5.5)]
-- Rhabdomyolysis [see Warnings and Precautions (5.7)]
-- Retinal Pathology [see Warnings and Precautions (5.8)]
-- Events Reported with Dopaminergic Therapy [see Warnings and Precautions (5.9)]
+- Postural Deformity [see Warnings and Precautions (5.6)]
+- Rhabdomyolysis [see Warnings and Precautions (5.8)]
+- Retinal Pathology [see Warnings and Precautions (5.9)]
+- Events Reported with Dopaminergic Therapy [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -123,7 +124,8 @@ Other adverse reactions observed during clinical trials of MIRAPEX immediate-rel
 The following adverse reactions have been identified during post-approval use of MIRAPEX immediate-release or MIRAPEX ER tablets, primarily in Parkinson’s disease patients.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to pramipexole tablets.
-Similar types of reactions were grouped into a smaller number of standardized categories using the MedDRA terminology: cardiac failure, inappropriate antidiuretic hormone secretion (SIADH), skin reactions (including erythema, rash, pruritus, urticaria), syncope, vomiting, and weight increase.
+
+Cardiac Disorders: cardiac failure Gastrointestinal Disorders: vomiting Metabolism and Nutrition Disorders: syndrome of inappropriate antidiuretic hormone secretion (SIADH), weight increase Musculoskeletal and Connective Tissue Disorders: postural deformity [see Warnings and Precautions (5.6)] Nervous System Disorders: syncope Skin and Subcutaneous Tissue Disorders: skin reactions (including erythema, rash, pruritus, urticaria)
 
 There are postmarketing reports of patients noticing tablet residue in their stool that resembles a swollen MIRAPEX ER whole tablet or swollen pieces of the tablet.
 Some patients have reported worsening of their Parkinson’s disease symptoms when tablet residue was observed.
