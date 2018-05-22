@@ -74,18 +74,24 @@ In most patients, treatment of hypomagnesemia required magnesium replacement and
 
 For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), health care professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically [see Adverse Reactions (6.2)].
 
-## 5.11 Interference with Investigations for Neuroendocrine Tumors
+## 5.11 Fundic Gland Polyps
+
+PPI use is associated with an increased risk of fundic gland polyps that increases with long-term use, especially beyond one year.
+Most PPI users who developed fundic gland polyps were asymptomatic and fundic gland polyps were identified incidentally on endoscopy.
+Use the shortest duration of PPI therapy appropriate to the condition being treated.
+
+## 5.12 Interference with Investigations for Neuroendocrine Tumors
 
 Serum chromogranin A (CgA) levels increase secondary to drug-induced decreases in gastric acidity.
 The increased CgA level may cause false positive results in diagnostic investigations for neuroendocrine tumors.
 Healthcare providers should temporarily stop PROTONIX I.V. treatment at least 14 days before assessing CgA levels and consider repeating the test if initial CgA levels are high.
 If serial tests are performed (e.g. for monitoring), the same commercial laboratory should be used for testing, as reference ranges between tests may vary [see Clinical Pharmacology (12.2)].
 
-## 5.12 Interference with Urine Screen for THC
+## 5.13 Interference with Urine Screen for THC
 
 Pantoprazole sodium may produce false-positive urine screen for THC (tetrahydrocannabinol) [see Drug Interactions (7)].
 
-## 5.13 Concomitant Use of PROTONIX I.V. with Methotrexate
+## 5.14 Concomitant Use of PROTONIX I.V. with Methotrexate
 
 Literature suggests that concomitant use of PPIs with methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite, possibly leading to methotrexate toxicities.
 In high-dose methotrexate administration, a temporary withdrawal of the PPI may be considered in some patients [see Drug Interactions (7)].
