@@ -32,7 +32,7 @@ Advise patients to report any clinical symptoms that may be associated with hypo
 
 Drug Interactions
 
-Instruct patients to inform their healthcare provider of any other medications they are currently taking, including rilpivirine-containing products [see Contraindications (4)] digoxin [see Warnings and Precautions (5.7)] and high dose methotrexate [see Warnings and Precautions (5.11)].
+Instruct patients to inform their healthcare provider of any other medications they are currently taking, including rilpivirine-containing products [see Contraindications (4)] digoxin [see Warnings and Precautions (5.7)] and high dose methotrexate [see Warnings and Precautions (5.12)].
 
 Pregnancy
 
