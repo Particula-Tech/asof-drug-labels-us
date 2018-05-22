@@ -14,23 +14,23 @@ Decrease of dose or termination of infusion reverses hypotension, usually within
 
 Bradycardia, including sinus pause, heart block, severe bradycardia, and cardiac arrest have occurred with the use of BREVIBLOC injection.
 Patients with first-degree atrioventricular block, sinus node dysfunction, or conduction disorders may be at increased risk.
-Monitor heart rate and rhythm in patients receiving BREVIBLOC [see Contraindications (4)].
+Monitor heart rate and rhythm in patients receiving BREVIBLOC injection [see Contraindications (4)].
 
-If severe bradycardia develops, reduce or stop BREVIBLOC.
+If severe bradycardia develops, reduce or stop BREVIBLOC injection.
 
 ## 5.3 Cardiac Failure
 
 Beta blockers, like BREVIBLOC injection, can cause depression of myocardial contractility and may precipitate heart failure and cardiogenic shock.
-At the first sign or symptom of impending cardiac failure, stop BREVIBLOC and start supportive therapy [see Overdosage (10)].
+At the first sign or symptom of impending cardiac failure, stop BREVIBLOC injection and start supportive therapy [see Overdosage (10)].
 
 ## 5.4 Intraoperative and Postoperative Tachycardia and/or Hypertension
 
-Monitor vital signs closely and titrate BREVIBLOC slowly in the treatment of patients whose blood pressure is primarily driven by vasoconstriction associated with hypothermia.
+Monitor vital signs closely and titrate BREVIBLOC injection slowly in the treatment of patients whose blood pressure is primarily driven by vasoconstriction associated with hypothermia.
 
 ## 5.5 Reactive Airways Disease
 
 Patients with reactive airways disease should, in general, not receive beta blockers.
-Because of its relative beta1 selectivity and titratability, titrate BREVIBLOC to the lowest possible effective dose.
+Because of its relative beta1 selectivity and titratability, titrate BREVIBLOC injection to the lowest possible effective dose.
 In the event of bronchospasm, stop the infusion immediately; a beta2 stimulating agent may be administered with appropriate monitoring of ventricular rates.
 
 ## 5.6 Use in Patients with Diabetes Mellitus and Hypoglycemia
@@ -54,7 +54,7 @@ Do not use nonselective beta blockers.
 
 ## 5.9 Use in Patients with Pheochromocytoma
 
-If BREVIBLOC is used in the setting of pheochromocytoma, give it in combination with an alpha-blocker, and only after the alpha-blocker has been initiated.
+If BREVIBLOC injection is used in the setting of pheochromocytoma, give it in combination with an alpha-blocker, and only after the alpha-blocker has been initiated.
 Administration of beta-blockers alone in the setting of pheochromocytoma has been associated with a paradoxical increase in blood pressure from the attenuation of beta-mediated vasodilation in skeletal muscle.
 
 ## 5.10 Use in Hypovolemic Patients
@@ -63,25 +63,25 @@ In hypovolemic patients, BREVIBLOC injection can attenuate reflex tachycardia an
 
 ## 5.11 Use in Patients with Peripheral Circulatory Disorders
 
-In patients with peripheral circulatory disorders (including Raynaud’s disease or syndrome, and peripheral occlusive vascular disease), BREVIBLOC may aggravate peripheral circulatory disorders.
+In patients with peripheral circulatory disorders (including Raynaud’s disease or syndrome, and peripheral occlusive vascular disease), BREVIBLOC injection may aggravate peripheral circulatory disorders.
 
 ## 5.12 Abrupt Discontinuation of BREVIBLOC Injection
 
 Severe exacerbations of angina, myocardial infarction, and ventricular arrhythmias have been reported in patients with coronary artery disease upon abrupt discontinuation of beta blocker therapy.
-Observe patients for signs of myocardial ischemia when discontinuing BREVIBLOC.
+Observe patients for signs of myocardial ischemia when discontinuing BREVIBLOC injection.
 
-Heart rate increases moderately above pretreatment levels 30 minutes after BREVIBLOC discontinuation.
+Heart rate increases moderately above pretreatment levels 30 minutes after BREVIBLOC injection discontinuation.
 
 ## 5.13 Hyperkalemia
 
-Beta blockers, including BREVIBLOC, have been associated with increases in serum potassium levels and hyperkalemia.
+Beta blockers, including BREVIBLOC injection, have been associated with increases in serum potassium levels and hyperkalemia.
 The risk is increased in patients with risk factors such as renal impairment.
 Intravenous administration of beta blockers has been reported to cause potentially life-threatening hyperkalemia in hemodialysis patients.
-Monitor serum electrolytes during therapy with BREVIBLOC.
+Monitor serum electrolytes during therapy with BREVIBLOC injection.
 
 ## 5.14 Use in Patients with Metabolic Acidosis
 
-Beta blockers, including BREVIBLOC, have been reported to cause hyperkalemic renal tubular acidosis.
+Beta blockers, including BREVIBLOC injection, have been reported to cause hyperkalemic renal tubular acidosis.
 Acidosis in general may be associated with reduced cardiac contractility.
 
 ## 5.15 Use in Patients with Hyperthyroidism

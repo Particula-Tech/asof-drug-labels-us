@@ -2,7 +2,7 @@
 
 ## 2.1 Dosing for the Treatment of Supraventricular Tachycardia or Noncompensatory Sinus Tachycardia
 
-BREVIBLOC is administered by continuous intravenous infusion with or without a loading dose.
+BREVIBLOC injection is administered by continuous intravenous infusion with or without a loading dose.
 Additional loading doses and/or titration of the maintenance infusion (step-wise dosing) may be necessary based on desired ventricular response.
 
 Table 1 Step-Wise Dosing
@@ -48,15 +48,15 @@ Therefore two dosing options are presented: immediate control and gradual contro
 
 After patients achieve adequate control of the heart rate and a stable clinical status, transition to alternative antiarrhythmic drugs may be accomplished.
 
-When transitioning from BREVIBLOC to alternative drugs, the physician should carefully consider the labeling instructions of the alternative drug selected and reduce the dosage of BREVIBLOC as follows:
+When transitioning from BREVIBLOC injection to alternative drugs, the physician should carefully consider the labeling instructions of the alternative drug selected and reduce the dosage of BREVIBLOC injection as follows:
 
-- •Thirty minutes following the first dose of the alternative drug, reduce the BREVIBLOC infusion rate by one-half (50%).
-- •After administration of the second dose of the alternative drug, monitor the patient’s response and if satisfactory control is maintained for the first hour, discontinue the BREVIBLOC infusion.
+1. 1.Thirty minutes following the first dose of the alternative drug, reduce the BREVIBLOC infusion rate by one-half (50%).
+2. 2.After administration of the second dose of the alternative drug, monitor the patient’s response and if satisfactory control is maintained for the first hour, discontinue the BREVIBLOC infusion.
 
 ## 2.4 Directions for Use
 
 BREVIBLOC injection is available in a pre-mixed bag and ready-to-use vial.
-BREVIBLOC is not compatible with Sodium Bicarbonate (5%) solution (limited stability) or furosemide (precipitation).
+BREVIBLOC injection is not compatible with Sodium Bicarbonate (5%) solution (limited stability) or furosemide (precipitation).
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
@@ -68,20 +68,14 @@ Parenteral drug products should be inspected visually for particulate matter and
 
 Figure 1: Two-Port INTRAVIA Bag
 
-Figure 1: Two-Port INTRAVIA Bag
-
-- • medications to the bag.
-
-Figure 1: Two-Port INTRAVIA Bag
-
 ### Ready-to-Use Vial
 
-The Ready-to-use Vial may be used to administer a loading dosage by hand-held syringe while the maintenance infusion is being prepared[see How Supplied/Storage and Handling (16.2)].
+The Ready-to-use Vial may be used to administer a loading dosage by hand-held syringe while the maintenance infusion is being prepared [see How Supplied/Storage and Handling (16.2)].
 
 ### Compatibility with Commonly Used Intravenous Fluids
 
-BREVIBLOC was tested for compatibility with ten commonly used intravenous fluids at a final concentration of 10 mg esmolol hydrochloride per mL.
-BREVIBLOC was found to be compatible with the following solutions and was stable for at least 24 hours at controlled room temperature or under refrigeration:
+BREVIBLOC injection was tested for compatibility with ten commonly used intravenous fluids at a final concentration of 10 mg esmolol hydrochloride per mL.
+BREVIBLOC injection was found to be compatible with the following solutions and was stable for at least 24 hours at controlled room temperature or under refrigeration:
 
 - •Dextrose (5%) Injection, USP
 - •Dextrose (5%) in Lactated Ringer’s Injection

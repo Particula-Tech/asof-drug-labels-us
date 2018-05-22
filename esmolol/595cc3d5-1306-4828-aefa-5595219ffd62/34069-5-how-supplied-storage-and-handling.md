@@ -6,7 +6,7 @@ BREVIBLOC PREMIXED Injection
 
 - •NDC 10019-055-61, 2500 mg / 250 mL (10 mg/mL) Ready-to-use INTRAVIA Bags
 
-BREVIBLOC DOUBLE STRENGTH PREMIXED Injection
+BREVIBLOC PREMIXED Double Strength Injection
 
 - •NDC 10019-075-87, 2000 mg / 100 mL (20 mg/mL) Ready-to-use INTRAVIA Bags
 

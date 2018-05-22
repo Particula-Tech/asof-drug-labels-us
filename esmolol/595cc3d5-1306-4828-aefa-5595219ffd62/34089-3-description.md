@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-BREVIBLOC (Esmolol Hydrochloride) is a beta adrenergic receptor blocker with a very short duration of action (elimination half-life is approximately 9 minutes).
+BREVIBLOC (Esmolol Hydrochloride) injection is a beta adrenergic receptor blocker with a very short duration of action (elimination half-life is approximately 9 minutes).
 Esmolol hydrochloride is:
 
 - •(±)-Methyl p-[2-hydroxy-3-(isopropylamino) propoxy] hydrocinnamate hydrochloride and has the following structure:
@@ -13,12 +13,12 @@ Esmolol hydrochloride is:
 
 ## 11.1 BREVIBLOC Injection Dosage Forms
 
-All BREVIBLOC presentations are clear, colorless to light yellow, sterile, nonpyrogenic, iso-osmotic solutions of esmolol hydrochloride in sodium chloride.
-The formulations for BREVIBLOC PREMIXED Injection, BREVIBLOC DOUBLE STRENGTH PREMIXED Injection, and BREVIBLOC Injection are described in the table below:
+All BREVIBLOC injection presentations are clear, colorless to light yellow, sterile, nonpyrogenic, iso-osmotic solutions of esmolol hydrochloride in sodium chloride.
+The formulations for BREVIBLOC PREMIXED Injection, BREVIBLOC PREMIXED Double Strength Injection, and BREVIBLOC Injection are described in the table below:
 
 Table 4 BREVIBLOC Injection Formulations
 
-|  | BREVIBLOC PREMIXED Injection(Esmolol Hydrochloride) | BREVIBLOC DOUBLE STRENGTH PREMIXED Injection(Esmolol Hydrochloride) | BREVIBLOC Injection(Esmolol Hydrochloride) |
+|  | BREVIBLOC PREMIXED Injection(Esmolol Hydrochloride) | BREVIBLOC PREMIXED Double Strength Injection(Esmolol Hydrochloride) | BREVIBLOC Injection(Esmolol Hydrochloride) |
 | --- | --- | --- | --- |
 | Esmolol Hydrochloride, USP | 10 mg/mL | 20 mg/mL | 10 mg/mL |
 | Sodium Chloride, USP | 5.9 mg/mL | 4.1 mg/mL | 5.9 mg/mL |
@@ -29,7 +29,7 @@ Table 4 BREVIBLOC Injection Formulations
 | Hydrochloric Acid | Q.S. to adjust pH to 4.5-5.5 |  |  |
 | Q.S. = Quantity sufficient |  |  |  |
 
-The calculated osmolarity of BREVIBLOC PREMIXED Injection and BREVIBLOC DOUBLE STRENGTH PREMIXED Injection is 312 mOsmol/L.
+The calculated osmolarity of BREVIBLOC PREMIXED Injection and BREVIBLOC PREMIXED Double Strength Injection is 312 mOsmol/L.
 The 250 mL and 100 mL bags are non-latex, non-PVC INTRAVIA bags with dual PVC ports.
 The INTRAVIA bags are manufactured from a specially designed multilayer plastic (PL 2408).
 Solutions in contact with the plastic container leach out certain chemical compounds from the plastic in very small amounts; however, biological testing was supportive of the safety of the plastic container materials.

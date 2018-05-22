@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C. Esmolol hydrochloride has been shown to produce increased fetal resorptions with minimal maternal toxicity in rabbits when given in doses approximately 8 times the maximum human maintenance dose (300 mcg/kg/min).
+Esmolol hydrochloride has been shown to produce increased fetal resorptions with minimal maternal toxicity in rabbits when given in doses approximately 8 times the maximum human maintenance dose (300 mcg/kg/min).
 There are no adequate and well-controlled studies in pregnant women.
 BREVIBLOC injection should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
@@ -17,11 +17,11 @@ BREVIBLOC injection should be used during pregnancy only if the potential benefi
 ## 8.3 Nursing Mothers
 
 It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from BREVIBLOC, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from BREVIBLOC injection, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of BREVIBLOC in pediatric patients have not been established.
+The safety and effectiveness of BREVIBLOC injection in pediatric patients have not been established.
 
 ## 8.5 Geriatric Use
 
@@ -31,7 +31,7 @@ In general, dose selection for an elderly patient should usually start at the lo
 
 ## 8.6 Hepatic Impairment
 
-No special precautions are necessary in patients with hepatic impairment because BREVIBLOC is metabolized by red-blood cell esterases [see Clinical Pharmacology (12)].
+No special precautions are necessary in patients with hepatic impairment because BREVIBLOC injection is metabolized by red-blood cell esterases [see Clinical Pharmacology (12)].
 
 ## 8.7 Renal Impairment
 

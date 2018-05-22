@@ -2,7 +2,7 @@
 
 ## 10.1 Signs and Symptoms of Overdose
 
-Overdoses of BREVIBLOC (Esmolol Hydrochloride) can cause cardiac and central nervous system effects.
+Overdoses of BREVIBLOC (Esmolol Hydrochloride) injection can cause cardiac and central nervous system effects.
 These effects may precipitate severe signs, symptoms, sequelae, and complications (for example, severe cardiac and respiratory failure, including shock and coma), and may be fatal.
 Continuous monitoring of the patient is required.
 
@@ -35,9 +35,9 @@ Consider intravenous administration of a beta2 stimulating agent or a theophylli
 
 ## 10.3 Dilution Errors
 
-Massive accidental overdoses of BREVIBLOC have resulted from dilution errors.
-Use of BREVIBLOC PREMIXED Injection and BREVIBLOC DOUBLE STRENGTH PREMIXED Injection may reduce the potential for dilution errors.
+Massive accidental overdoses of BREVIBLOC injection have resulted from dilution errors.
+Use of BREVIBLOC PREMIXED Injection and BREVIBLOC PREMIXED Double Strength Injection may reduce the potential for dilution errors.
 Some of these overdoses have been fatal while others resulted in permanent disability.
 Bolus doses in the range of 625 mg to 2.5 g (12.5-50 mg/kg) have been fatal.
 Patients have recovered completely from overdoses as high as 1.75 g given over one minute or doses of 7.5 g given over one hour for cardiovascular surgery.
-The patients who survived appear to be those whose circulation could be supported until the effects of BREVIBLOC resolved.
+The patients who survived appear to be those whose circulation could be supported until the effects of BREVIBLOC injection resolved.
