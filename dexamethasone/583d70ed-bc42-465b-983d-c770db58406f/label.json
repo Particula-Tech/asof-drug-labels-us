@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA208912"
+  ],
+  "inn": "dexamethasone",
+  "labeler": "EyePoint Pharmaceuticals US, Inc",
+  "package_ndcs": [
+    "71879-001-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SUSPENSION",
+      "generic": "dexamethasone",
+      "name": "Dexycu"
+    }
+  ],
+  "setid": "583d70ed-bc42-465b-983d-c770db58406f",
+  "source": "dailymed"
+}
