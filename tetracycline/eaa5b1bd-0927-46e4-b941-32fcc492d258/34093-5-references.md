@@ -7,10 +7,10 @@
    Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically; Approved Standard - Tenth Edition.
    CLSI document M07-A9, Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA.
 3. Clinical and Laboratory Standards Institute (CLSI).
-   Performance Standards for Antimicrobial Disk Diffusion Susceptibility Tests; Approved Standard – Eleventh Edition.
+   Performance Standards for Antimicrobial Disk Diffusion Susceptibility Tests; Approved Standard - Eleventh Edition.
    CLSI document M02-A12 [2015], Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA.
 4. Clinical and Laboratory Standards Institute (CLSI).
-   Methods for Antimicrobial Dilution and Disk Susceptibility Testing of Infrequently Isolated or Fastidious Bacteria; Approved Guideline – Second Edition.
+   Methods for Antimicrobial Dilution and Disk Susceptibility Testing of Infrequently Isolated or Fastidious Bacteria; Approved Guideline - Second Edition.
    CLSI document M45-A2, Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2010.
 5. Clinical and Laboratory Standards Institute (CLSI).
    Methods for Antimicrobial Susceptibility Testing of Anaerobic Bacteria; Approved Standard - Eighth Edition.
@@ -31,10 +31,10 @@ Manufactured for:
 
 Heritage Pharmaceuticals Inc.
 
-Eatontown, NJ 07724
+East Brunswick, NJ 08816
 
 1-866-901-DRUG (3784)
 
-51U000000136US05
+51U000000136US07
 
-Issued: 05/15
+Issued: 02/18
