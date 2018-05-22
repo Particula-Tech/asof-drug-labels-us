@@ -270,7 +270,7 @@ Cardiovascular — Congestive heart failure, myocardial infarction, arrhythmias,
 
 Vascular Disorders — Peripheral vasculitis, gangrene, and capillary leak syndrome [see Warnings and Precautions (5.8)]
 
-Skin — Cellulitis, severe skin reactions, including desquamation and bullous skin eruptions
+Skin — Cellulitis, pseudocellulitis, severe skin reactions, including desquamation and bullous skin eruptions
 
 Hepatic — Hepatic failure, hepatic veno-occlusive disease
 
