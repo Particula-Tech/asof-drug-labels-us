@@ -1,5 +1,7 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
+ARNUITY ELLIPTA 50 mcg is supplied as a disposable light grey and orange plastic inhaler containing a foil strip with 30 blisters (NDC 0173-0888-10).
+
 ARNUITY ELLIPTA 100 mcg is supplied as a disposable light grey and orange plastic inhaler containing a foil strip with 30 blisters (NDC 0173-0874-10) or 14 blisters (institutional pack) (NDC 0173-0874-14).
 
 ARNUITY ELLIPTA 200 mcg is supplied as a disposable light grey and orange plastic inhaler containing a foil strip with 30 blisters (NDC 0173-0876-10) or 14 blisters (institutional pack) (NDC 0173-0876-14).

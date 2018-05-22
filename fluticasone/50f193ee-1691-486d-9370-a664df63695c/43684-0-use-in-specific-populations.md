@@ -2,38 +2,54 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects: Pregnancy Category C. There are no adequate and well-controlled trials with ARNUITY ELLIPTA in pregnant women.
-Corticosteroids have been shown to be teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
-Because animal reproduction studies are not always predictive of human response, ARNUITY ELLIPTA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-Women should be advised to contact their physicians if they become pregnant while taking ARNUITY ELLIPTA.
+Risk Summary
 
-There were no teratogenic effects in rats and rabbits at approximately 4 times and equal to, respectively, the maximum recommended human daily inhalation dose (MRHDID) in adults (on a mcg/m2 basis at maternal inhaled doses up to 91 and 8 mcg/kg/day in rats and rabbits, respectively).
-There were no effects on perinatal and postnatal development in rats at approximately equal to the MRHDID in adults (on a mcg/m2 basis at maternal doses up to 27 mcg/kg/day).
+There are insufficient data on the use of ARNUITY ELLIPTA in pregnant women.
+There are clinical considerations with use of ARNUITY ELLIPTA in pregnant women [see Clinical Considerations].
+In animal reproduction studies, fluticasone furoate administered by inhalation to rats and rabbits during the period of organogenesis produced no fetal structural abnormalities.
+The highest fluticasone furoate doses in the rat and rabbit studies were 4 times and 1 times the maximum recommended human daily inhalation dose (MRHDID), respectively.
 
-Nonteratogenic Effects: Hypoadrenalism may occur in infants born of mothers receiving corticosteroids during pregnancy.
-Such infants should be carefully monitored.
+The estimated risk of major birth defects and miscarriage for the indicated populations is unknown.
+In the U.S. general population, the estimated risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-## 8.2 Labor and Delivery
+Clinical Considerations
 
-There are no adequate and well-controlled human trials that have investigated the effects of ARNUITY ELLIPTA during labor and delivery.
+Disease-Associated Maternal and/or Embryofetal Risk: In women with poorly or moderately controlled asthma, there is an increased risk of several perinatal adverse outcomes such as pre‑eclampsia in the mother and prematurity, low birth weight, and small for gestational age in the neonate.
 
-## 8.3 Nursing Mothers
+Pregnant women with asthma should be closely monitored and medication adjusted as necessary to maintain optimal asthma control.
 
-It is not known whether fluticasone furoate is excreted in human breast milk.
-However, other corticosteroids have been detected in human milk.
-Since there are no data from controlled trials on the use of ARNUITY ELLIPTA by nursing mothers, caution should be exercised when it is administered to a nursing woman.
+Data
+
+Animal Data: Fluticasone Furoate: In 2 separate embryofetal developmental studies, pregnant rats and rabbits received fluticasone furoate during the period of organogenesis at doses up to approximately 4 and 1 times the MRHDID, respectively (on a mcg/m2 basis at maternal inhalation doses up to 91 and 8 mcg/kg/day).
+No evidence of structural abnormalities in fetuses was observed in either species.
+In a perinatal and postnatal developmental study in rats, dams received fluticasone furoate during late gestation and lactation periods at doses up to approximately 1 time the MRHDID (on a mcg/m2 basis at maternal inhalation doses up to 27 mcg/kg/day).
+No evidence of effects on offspring development was observed.
+
+## 8.2 Lactation
+
+Risk Summary
+
+There is no information available on the presence of fluticasone furoate in human milk, the effects on the breastfed child, or the effects on milk production.
+Low concentrations of other inhaled corticosteroids have been detected in human milk.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for ARNUITY ELLIPTA and any potential adverse effects on the breastfed child from fluticasone furoate or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
-The safety and efficacy in pediatric patients younger than 12 years have not been established.
+The safety and efficacy of ARNUITY ELLIPTA in pediatric patients with asthma aged 5 to 11 years have been established in 3 clinical trials.
+In those trials, 234 subjects were administered ARNUITY ELLIPTA 50 mcg once daily.
+Subjects aged 5 to 11 years demonstrated safety and efficacy results similar to those observed in subjects aged 12 years and older.
+The safety and efficacy of ARNUITY ELLIPTA have not been established in pediatric patients aged younger than 5 years.
+[See Dosage and Administration (2.2), Adverse Reactions (6.1), Clinical Pharmacology (12.2), Clinical Studies (14.2).]
 
-Effects on Growth: Orally inhaled corticosteroids may cause a reduction in growth velocity when administered to children and adolescents.
+Effects on Growth
+
+Orally inhaled corticosteroids may cause a reduction in growth velocity when administered to children and adolescents.
 A reduction of growth velocity in children and adolescents may occur as a result of poorly controlled asthma or from use of corticosteroids, including inhaled corticosteroids.
 The effects of long-term treatment of children and adolescents with inhaled corticosteroids, including fluticasone furoate, on final adult height are not known.
 
 Controlled clinical trials have shown that inhaled corticosteroids may cause a reduction in growth in children.
-In these trials, the mean reduction in growth velocity was approximately 1 cm/year (range: 0.3 to 1.8 cm/year) and appears to be related to dose and duration of exposure.
-This effect has been observed in the absence of laboratory evidence of HPA axis suppression, suggesting that growth velocity is a more sensitive indicator of systemic corticosteroid exposure in children than some commonly used tests of HPA axis function.
+In these trials, the mean reduction in growth velocity was approximately 1 cm/year (range: 0.3 to 1.8 cm/year) and appeared to depend upon dose and duration of exposure.
+This effect was observed in the absence of laboratory evidence of HPA axis suppression, suggesting that growth velocity is a more sensitive indicator of systemic corticosteroid exposure in children than some commonly used tests of HPA axis function.
 The long-term effects of this reduction in growth velocity associated with orally inhaled corticosteroids, including the impact on final adult height, are unknown.
 The potential for “catch-up” growth following discontinuation of treatment with orally inhaled corticosteroids has not been adequately studied.
 The growth of children and adolescents receiving orally inhaled corticosteroids, including ARNUITY ELLIPTA, should be monitored routinely (e.g., via stadiometry).
@@ -41,26 +57,27 @@ The potential growth effects of prolonged treatment should be weighed against th
 To minimize the systemic effects of orally inhaled corticosteroids, including ARNUITY ELLIPTA, each patient should be titrated to the lowest dose that effectively controls his/her symptoms.
 
 A randomized, double-blind, parallel-group, multicenter, 1-year, placebo-controlled trial evaluated the effect of once-daily treatment with 110 mcg of fluticasone furoate in the nasal spray formulation on growth velocity assessed by stadiometry.
-The systemic exposure of fluticasone furoate in this trial is lower than that of ARNUITY ELLIPTA.
+The systemic exposure of fluticasone furoate in this trial is lower than that of ARNUITY ELLIPTA 50 mcg.
 The subjects were 474 prepubescent children (girls aged 5 to 7.5 years and boys aged 5 to 8.5 years).
 Mean growth velocity over the 52-week treatment period was lower in the subjects receiving fluticasone furoate nasal spray (5.19 cm/year) compared with placebo (5.46 cm/year).
 The mean reduction in growth velocity was 0.27 cm/year (95% CI: 0.06, 0.48) [see Warnings and Precautions (5.10)].
 
 ## 8.5 Geriatric Use
 
-For the 4 confirmatory trials, 71 subjects were aged 65 and older (56 of which were treated with ARNUITY ELLIPTA) and 5 were aged 75 and older (1 of which was treated with ARNUITY ELLIPTA) [see Clinical Studies (14.2)].
+For the 4 confirmatory trials, 71 subjects were aged 65 years and older (56 of which were treated with ARNUITY ELLIPTA) and 5 were aged 75 years and older (1 of which was treated with ARNUITY ELLIPTA) [see Clinical Studies (14.2)].
 Based on available data, no adjustment of the dosage of ARNUITY ELLIPTA in geriatric patients is necessary, but greater sensitivity in some older individuals cannot be ruled out.
-Clinical trials of ARNUITY ELLIPTA did not include sufficient numbers of subjects aged 65 and older to determine whether they respond differently from younger subjects.
-Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
+Clinical trials of ARNUITY ELLIPTA did not include sufficient numbers of subjects aged 65 years and older to determine whether they respond differently from younger subjects.
+Other reported clinical experience has not identified differences in responses between the elderly and younger subjects.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy.
 
 ## 8.6 Hepatic Impairment
 
-Fluticasone furoate systemic exposure increased by up to 3-fold in subjects with hepatic impairment compared with healthy subjects.
+Fluticasone furoate systemic exposure increased by up to 3-fold in adult subjects with hepatic impairment compared with healthy subjects.
 Use ARNUITY ELLIPTA with caution in patients with moderate or severe hepatic impairment.
-Monitor patients for corticosteroid-related side effects [see Clinical Pharmacology (12.3)].
+Monitor patients for corticosteroid-related side effects.
+The effect of hepatic impairment on fluticasone furoate systemic exposure in subjects aged younger than 18 years has not been evaluated [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 
-There were no significant increases in fluticasone furoate exposure in subjects with severe renal impairment (CrCl less than 30 mL/min) compared with healthy subjects.
+There were no significant increases in fluticasone furoate exposure in subjects with severe renal impairment (CrCl <30 mL/min) compared with healthy subjects.
 No dosage adjustment is required in patients with renal impairment [see Clinical Pharmacology (12.3)].

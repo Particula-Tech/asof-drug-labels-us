@@ -21,63 +21,85 @@ This is explained by a combination of a relatively high local anti-inflammatory 
 
 ## 12.2 Pharmacodynamics
 
-The pharmacodynamics of fluticasone furoate were characterized in trials of fluticasone furoate given as a single component and also in trials of fluticasone furoate given in combination with vilanterol.
+The pharmacodynamics of fluticasone furoate was characterized in trials of fluticasone furoate given as a single component and also in trials of fluticasone furoate given in combination with vilanterol.
 
-HPA Axis Effects: Healthy Subjects: Inhaled fluticasone furoate at repeat doses up to 400 mcg was not associated with statistically significant decreases in serum or urinary cortisol in healthy subjects.
+Hypothalamic-Pituitary-Adrenal Axis Effects
+
+Healthy Subjects: Inhaled fluticasone furoate at repeat doses up to 400 mcg was not associated with statistically significant decreases in serum or urinary cortisol in healthy subjects.
 Decreases in serum and urine cortisol levels were observed at fluticasone furoate exposures several-fold higher than exposures observed at the therapeutic dose.
 
-Subjects with Asthma: A randomized, double-blind, parallel-group trial in 185 subjects with asthma showed no difference between once-daily treatment with fluticasone furoate/vilanterol 100 mcg/25 mcg or fluticasone furoate/vilanterol 200 mcg/25 mcg compared with placebo on serum cortisol weighted mean (0 to 24 hours), serum cortisol AUC(0-24), and 24-hour urinary cortisol after 6 weeks of treatment, whereas prednisolone 10 mg given once daily for 7 days resulted in significant cortisol suppression.
+Subjects with Asthma: A randomized, double-blind, parallel-group trial in 104 pediatric subjects with asthma (aged 5 to 11 years) showed no difference between once-daily treatment with ARNUITY ELLIPTA 50 mcg compared with placebo on serum cortisol weighted mean (0 to 24 hours) and serum cortisol AUC(0-24) following 6 weeks of treatment.
 
-Cardiac Effects: A QT/QTc trial did not demonstrate an effect of fluticasone furoate administration on the QTc interval.
+A randomized, double-blind, parallel-group trial in 185 subjects with asthma aged 12 to 65 years showed no difference between once-daily treatment with fluticasone furoate/vilanterol 100 mcg/25 mcg or fluticasone furoate/vilanterol 200 mcg/25 mcg compared with placebo on serum cortisol weighted mean (0 to 24 hours), serum cortisol AUC(0-24), and 24-hour urinary cortisol after 6 weeks of treatment, whereas prednisolone 10 mg given once daily for 7 days resulted in significant cortisol suppression.
+
+Cardiac Electrophysiology
+
+A QT/QTc trial did not demonstrate an effect of fluticasone furoate administration on the QTc interval.
 The effect of a single dose of 4,000 mcg of orally inhaled fluticasone furoate on the QTc interval was evaluated over 24 hours in 40 healthy male and female subjects in a placebo- and positive-controlled (a single dose of 400 mg oral moxifloxacin) cross-over trial.
 The QTcF maximal mean change from baseline following fluticasone furoate was similar to that observed with placebo with a treatment difference of 0.788 msec (90% CI: -1.802, 3.378).
 In contrast, moxifloxacin given as a 400-mg tablet resulted in prolongation of the QTcF maximal mean change from baseline compared with placebo with a treatment difference of 9.929 msec (90% CI: 7.339, 12.520).
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetics of fluticasone furoate were characterized in trials of fluticasone furoate given as a single component and also in trials of fluticasone furoate given in combination with vilanterol.
-Linear pharmacokinetics were observed for fluticasone furoate (200 to 800 mcg).
+The pharmacokinetics of fluticasone furoate was characterized in trials of fluticasone furoate given as a single component and in trials of fluticasone furoate given in combination with vilanterol.
+Linear pharmacokinetics was observed for fluticasone furoate (200 to 800 mcg).
 On repeated once-daily inhalation administration, steady state of fluticasone furoate plasma concentration was achieved after 6 days, and the accumulation was up to 2.6-fold as compared with single dose.
 
-Absorption: Fluticasone furoate plasma levels may not predict therapeutic effect.
+Absorption
+
+Fluticasone furoate plasma levels may not predict therapeutic effect.
 Peak plasma concentrations are reached within 0.5 to 1 hour.
 Absolute bioavailability of fluticasone furoate when administrated by inhalation was 13.9%, primarily due to absorption of the inhaled portion of the dose delivered to the lung.
 Oral bioavailability from the swallowed portion of the dose is low (approximately 1.3%) due to extensive first-pass metabolism.
 Systemic exposure (AUC) in subjects with asthma was 26% lower than observed in healthy subjects.
 
-Distribution: Following intravenous administration to healthy subjects, the mean volume of distribution at steady state was 661 L. Binding of fluticasone furoate to human plasma proteins was high (99.6%).
+Distribution
 
-Metabolism: Fluticasone furoate is cleared from systemic circulation principally by hepatic metabolism via CYP3A4 to metabolites with significantly reduced corticosteroid activity.
+Following intravenous administration to healthy subjects, the mean volume of distribution at steady state was 661 L. Binding of fluticasone furoate to human plasma proteins was high (99.6%).
+
+Metabolism
+
+Fluticasone furoate is cleared from systemic circulation principally by hepatic metabolism via CYP3A4 to metabolites with significantly reduced corticosteroid activity.
 There was no in vivo evidence for cleavage of the furoate moiety resulting in the formation of fluticasone.
 
-Elimination: Fluticasone furoate and its metabolites are eliminated primarily in the feces, accounting for approximately 101% and 90% of the orally and intravenously administered doses, respectively.
+Elimination
+
+Fluticasone furoate and its metabolites are eliminated primarily in the feces, accounting for approximately 101% and 90% of the orally and intravenously administered doses, respectively.
 Urinary excretion accounted for approximately 1% and 2% of the orally and intravenously administered doses, respectively.
 Following repeat-dose inhaled administration, the plasma elimination phase half-life averaged 24 hours.
 
-Special Populations: The effect of renal and hepatic impairment and other intrinsic factors on the pharmacokinetics of fluticasone furoate is shown in Figure 1.
+Specific Populations
+
+The effect of renal and hepatic impairment and other intrinsic factors on the pharmacokinetics of fluticasone furoate is shown in Figure 1.
 
 Figure 1.
 Impact of Intrinsic Factors on the Pharmacokinetics (PK) of Fluticasone Furoate (FF)
 
-1. a Age, gender, and ethnicity comparison for ARNUITY ELLIPTA in subjects with asthma.
+1. a Age, gender, and ethnicity comparison for ARNUITY ELLIPTA in adult and adolescent subjects with asthma.
 2. b Renal groups (fluticasone furoate/vilanterol 200 mcg/25 mcg) and hepatic groups (fluticasone furoate/vilanterol 200 mcg/25 mcg or fluticasone furoate/vilanterol 100 mcg/12.5 mcg) compared with healthy control group.
 
-Race: Systemic exposure (AUC(0-24)) to inhaled fluticasone furoate 200 mcg was 27% to 49% higher in healthy subjects of Japanese, Korean, and Chinese heritage compared with Caucasian subjects.
+Pediatric Patients: A population pharmacokinetics analysis to assess impact of age on fluticasone furoate systemic exposure was conducted using combined data from clinical trials in pediatric subjects aged 5 to 11 years (n = 306).
+There was no relevant effect of age on the apparent clearance of fluticasone furoate.
+The rate and extent of fluticasone furoate systemic exposure at steady state in children aged 5 to 11 years were comparable to that observed in adult and adolescent subjects following dosing with fluticasone furoate 100 mcg monotherapy.
+
+Racial or Ethnic Groups: Systemic exposure (AUC(0-24)) to inhaled fluticasone furoate 200 mcg was 27% to 49% higher in healthy subjects of Japanese, Korean, and Chinese heritage compared with Caucasian subjects.
 Similar differences were observed for subjects with asthma (Figure 1).
 There is no evidence that this higher exposure to fluticasone furoate results in clinically relevant effects on urinary cortisol excretion or on efficacy in these racial groups.
 
-Hepatic Impairment: Following repeat dosing of fluticasone furoate/vilanterol 200 mcg/25 mcg (100 mcg/12.5 mcg in the severe impairment group) for 7 days, fluticasone furoate systemic exposure (AUC) increased 34%, 83%, and 75% in subjects with mild, moderate, and severe hepatic impairment, respectively, compared with healthy subjects (see Figure 1).
+Patients with Hepatic Impairment: Following repeat dosing of fluticasone furoate/vilanterol 200 mcg/25 mcg (100 mcg/12.5 mcg in the severe impairment group) for 7 days, fluticasone furoate systemic exposure (AUC) increased 34%, 83%, and 75% in adult subjects with mild, moderate, and severe hepatic impairment, respectively, compared with adult healthy subjects (Figure 1).
 
 In subjects with moderate hepatic impairment receiving fluticasone furoate/vilanterol 200 mcg/25 mcg, mean serum cortisol (0 to 24 hours) was reduced by 34% (90% CI: 11%, 51%) compared with healthy subjects.
 In subjects with severe hepatic impairment receiving fluticasone furoate/vilanterol 100 mcg/12.5 mcg, mean serum cortisol (0 to 24 hours) was increased by 14% (90% CI: -16%, 55%) compared with healthy subjects.
 Patients with moderate to severe hepatic disease should be closely monitored.
 
-Renal Impairment: Fluticasone furoate systemic exposure was not increased in subjects with severe renal impairment compared with healthy subjects (see Figure 1).
+Patients with Renal Impairment: Fluticasone furoate systemic exposure was not increased in subjects with severe renal impairment compared with healthy subjects (Figure 1).
 There was no evidence of greater corticosteroid class-related systemic effects (assessed by serum cortisol) in subjects with severe renal impairment compared with healthy subjects.
 
-Drug Interactions: The potential for fluticasone furoate to inhibit or induce metabolic enzymes and transporter systems is negligible at low inhalation doses.
+Drug Interaction Studies
 
-Inhibitors of Cytochrome P450 3A4: The exposure (AUC) of fluticasone furoate was 36% higher after single and repeated doses when coadministered with ketoconazole 400 mg compared with placebo (see Figure 2).
+The potential for fluticasone furoate to inhibit or induce metabolic enzymes and transporter systems is negligible at low inhalation doses.
+
+Inhibitors of Cytochrome P450 3A4: The exposure (AUC) of fluticasone furoate was 36% higher after single and repeated doses when coadministered with ketoconazole 400 mg compared with placebo (Figure 2).
 The increase in fluticasone furoate exposure was associated with a 27% reduction in weighted mean serum cortisol (0 to 24 hours).
 
 Figure 2.

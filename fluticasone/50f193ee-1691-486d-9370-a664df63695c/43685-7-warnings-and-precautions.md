@@ -9,8 +9,8 @@ Advise the patient to rinse his/her mouth with water without swallowing followin
 ## 5.2 Acute Asthma Episodes
 
 ARNUITY ELLIPTA is not indicated for the relief of acute symptoms, i.e., as rescue therapy for treatment of acute episodes of bronchospasm.
-An inhaled, short-acting beta2-agonist, not ARNUITY ELLIPTA, should be used to relieve acute symptoms such as shortness of breath.
-When prescribing ARNUITY ELLIPTA, the physician must provide the patient with an inhaled, short-acting beta2-agonist (e.g., albuterol) for treatment of acute symptoms, despite regular once-daily use of ARNUITY ELLIPTA.
+ARNUITY ELLIPTA has not been studied in the relief of acute symptoms and extra doses should not be used for that purpose.
+Acute symptoms should be treated with an inhaled, short-acting beta2-agonist.
 Instruct patients to contact their physicians immediately if episodes of asthma not responsive to bronchodilators occur during the course of treatment with ARNUITY ELLIPTA.
 During such episodes, patients may require therapy with oral corticosteroids.
 
@@ -69,7 +69,7 @@ Caution should be exercised when considering the coadministration of ARNUITY ELL
 As with other inhaled medicines, bronchospasm may occur with an immediate increase in wheezing after dosing.
 If bronchospasm occurs following dosing with ARNUITY ELLIPTA, it should be treated immediately with an inhaled, short-acting bronchodilator; ARNUITY ELLIPTA should be discontinued immediately; and alternative therapy should be instituted.
 
-## 5.8 Hypersensitivity Reactions, Including Anaphylaxis
+## 5.8 Hypersensitivity Reactions, including Anaphylaxis
 
 Hypersensitivity reactions such as urticaria, flushing, allergic dermatitis, and bronchospasm may occur after administration of ARNUITY ELLIPTA.
 Discontinue ARNUITY ELLIPTA if such reactions occur.
@@ -85,7 +85,7 @@ Patients with major risk factors for decreased bone mineral content, such as pro
 
 Orally inhaled corticosteroids, including ARNUITY ELLIPTA, may cause a reduction in growth velocity when administered to children and adolescents.
 Monitor the growth of children and adolescents receiving ARNUITY ELLIPTA routinely (e.g., via stadiometry).
-To minimize the systemic effects of orally inhaled corticosteroids, including ARNUITY ELLIPTA, titrate each patient’s dose to the lowest dosage that effectively controls his/her symptoms [see Use in Specific Populations (8.4)].
+To minimize the systemic effects of orally inhaled corticosteroids, including ARNUITY ELLIPTA, titrate each patient’s dose to the lowest dosage that effectively controls his/her symptoms [see Dosage and Administration (2.2), Use in Specific Populations (8.4)].
 
 ## 5.11 Glaucoma and Cataracts
 
