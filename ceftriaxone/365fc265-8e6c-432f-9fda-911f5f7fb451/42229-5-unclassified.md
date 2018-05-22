@@ -1,4 +1,4 @@
-Rx only
+Rx Only
 
 PHARMACY BULK PACKAGE NOT FOR DIRECT INFUSION
 
@@ -7,14 +7,11 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 Flagyl® is a registered trademark of G.D.
 Searle & Co.
 
-07-2015M
+Rev.
+June 2017
 
-46165444
+46192744
 
-EN-3978
-
-Manufactured by Sandoz GmbH for Hospira Worldwide, Inc.
+Manufactured in Austria by Sandoz GmbH for Hospira, Inc.
 
 Lake Forest, IL 60045, USA
-
-Made in Kundl, Austria
