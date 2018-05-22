@@ -30,16 +30,7 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
    Assoc.
    J., 112:395, 1975.
 9. SCHANZER, H. et al: Accidental intra-arterial injection of penicillin G. JAMA, 242:1289, 1979.
-10. Clinical and Laboratory Standards Institute.
-    Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically; Approved Standard - 9th ed.
-    CLSI document M07-A9.
-    CLSI, Wayne, PA, 2012.
-11. Clinical and Laboratory Standards Institute, Performance Standards for Antimicrobial Susceptibility Testing; Twenty-Second Informational Supplement.
-    CLSI document M100-S22 CLSI, Wayne, PA, 2012.
-12. CLSI.
-    Performance Standards for Antimicrobial Disk Susceptibility Tests, Approved Standard – 11th ed.
-    CLSI document M02-A11, 2012
 
-LAB-0635-6.0
+LAB-0635-7.0
 
-June 2016
+Revised: 5/2018
