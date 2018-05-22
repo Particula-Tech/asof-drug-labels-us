@@ -153,6 +153,9 @@ Tell your doctor right away if you develop any of these symptoms:
 
 Your doctor may check the level of magnesium in your body before you start taking omeprazole delayed-release capsules or during treatment if you will be taking omeprazole delayed-release capsules for a long period of time.
 
+- Stomach growths (fundic gland polyps).
+  People who take PPI medicines for a long time have an increased risk of developing a certain type of stomach growths called fundic gland polyps, especially after taking PPI medicines for more than 1 year.
+
 The most common side effects with omeprazole delayed-release capsules in adults and children include:
 
 - headache
