@@ -36,7 +36,7 @@ Because fluconazole was given as a single dose, no discontinuations occurred.
 | Gastrointestinal | 68 (15%) | 13 (3%) |
 | Abdominal pain | 25 (6%) | 7 (2%) |
 | Nausea | 30 (7%) | 3 (1%) |
-| Diarrhea | 12 (3%) | 2 <1%) |
+| Diarrhea | 12 (3%) | 2 (<1%) |
 | Application site event | 0 (0%) | 19 (5%) |
 | Taste Perversion | 6 (1%) | 0 (0%) |
 

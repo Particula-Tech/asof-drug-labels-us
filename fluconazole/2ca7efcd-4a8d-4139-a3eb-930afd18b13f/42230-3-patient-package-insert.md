@@ -70,7 +70,7 @@ Since there are many brand names for these medicines, check with your doctor or 
 - are allergic to any other medicines including those used to treat yeast and other fungal infections.
 - are allergic to any of the ingredients in fluconazole tablets.
   The main ingredient of fluconazole tablets is fluconazole.
-  If you need to know the inactive ingredients, ask your doctor or pharmacst.
+  If you need to know the inactive ingredients, ask your doctor or pharmacist.
 
 Who should not take fluconazole?
 To avoid a possible serious reaction, do NOT take fluconazole if you are taking erythromycin, astemizole, pimozide, quinidine, and cisapride (Propulsid®) since it can cause changes in heartbeat in some people if taken with fluconazole.
@@ -120,4 +120,4 @@ You can ask your pharmacist or doctor for information about fluconazole that is 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 Propulsid® is a registered trademark of Johnson and Johnson.
-Distributed by: Citron Pharma LLC Suite – 1101 2 Tower Center Blvd East Brunswick NJ 08816 Code No.: DRUGS/AP/19/1993 Made in India Revised: 12/2014
+Distributed by: Rising Health, LLC Saddle Brook, NJ 07663 Made in India Code: TS/DRUGS/19/1993 Revised: 12/2017

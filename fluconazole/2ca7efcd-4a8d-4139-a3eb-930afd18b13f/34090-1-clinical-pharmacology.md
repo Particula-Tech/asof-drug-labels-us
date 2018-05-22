@@ -77,7 +77,8 @@ These results are consistent with the hypothesis that higher values for the phar
 
 ## Drug Interaction Studies
 
-Oral contraceptives: Oral contraceptives were administered as a single dose both before and after the oral administration of fluconazole 50 mg once daily for 10 days in 10 healthy women.There was no significant difference in ethinyl estradiol or levonorgestrel AUC after the administration of 50 mg of fluconazole.
+Oral contraceptives: Oral contraceptives were administered as a single dose both before and after the oral administration of fluconazole 50 mg once daily for 10 days in 10 healthy women.
+There was no significant difference in ethinyl estradiol or levonorgestrel AUC after the administration of 50 mg of fluconazole.
 The mean increase in ethinyl estradiol AUC was 6% (range: –47 to 108%) and levonorgestrel AUC increased 17% (range: –33 to 141%).
 In a second study, twenty-five normal females received daily doses of both 200 mg fluconazole tablets or placebo for two, ten-day periods.
 The treatment cycles were one month apart with all subjects receiving fluconazole during one cycle and placebo during the other.
@@ -186,7 +187,7 @@ Both oral and IV fluconazole increased the pharmacodynamic effects of midazolam.
 Azithromycin: An open-label, randomized, three-way crossover study in 18 healthy subjects assessed the effect of a single 800 mg oral dose of fluconazole on the pharmacokinetics of a single 1200 mg oral dose of azithromycin as well as the effects of azithromycin on the pharmacokinetics of fluconazole.
 There was no significant pharmacokinetic interaction between fluconazole and azithromycin.
 Voriconazole: Voriconazole is a substrate for both CYP2C9 and CYP3A4 isoenzymes.
-Concurrent administration of oral voriconazole (400 mg Q 12 h for 1 day, then 200 mg Q 12 h for 2.5 days) and oral fluconazole (400 mg on day 1, then 200 mg Q 24 h for 4 days) to 6 healthy male subjects resulted in an increase in Cmax and AUCτ of voriconazole by an average of 57% (90% CI: 20%, 107%) and 79% (90% CI: 40%, 128%), respectively.
+Concurrent administration of oral Voriconazole (400 mg Q 12 h for 1 day, then 200 mg Q 12 h for 2.5 days) and oral fluconazole (400 mg on day 1, then 200 mg Q 24 h for 4 days) to 6 healthy male subjects resulted in an increase in Cmax and AUCτ of voriconazole by an average of 57% (90% CI: 20%, 107%) and 79% (90% CI: 40%, 128%), respectively.
 In a follow-on clinical study involving 8 healthy male subjects, reduced dosing and/or frequency of voriconazole and fluconazole did not eliminate or diminish this effect.
 Concomitant administration of voriconazole and fluconazole at any dose is not recommended.
 Close monitoring for adverse events related to voriconazole is recommended if voriconazole is used sequentially after fluconazole, especially within 24 h of the last dose of fluconazole.
@@ -200,74 +201,121 @@ Mechanism of Action Fluconazole is a highly selective inhibitor of fungal cytoch
 This enzyme functions to convert lanosterol to ergosterol.
 The subsequent loss of normal sterols correlates with the accumulation of 14-α-methyl sterols in fungi and may be responsible for the fungistatic activity of fluconazole.
 Mammalian cell demethylation is much less sensitive to fluconazole inhibition.
-Drug Resistance Fluconazole resistance may arise from a modification in the quality or quantity of the target enzyme (lanosterol 14-α-demethylase), reduced access to the drug target, or some combination of these mechanisms.
+
+Resistance
+
+A potential for development of resistance to fluconazole is well known.
+Fungal isolates exhibiting reduced susceptibility to other azoles may also show reduced susceptibility to fluconazole.
+The frequency of drug resistance development for the various fungi for which this drug is indicated is not known.
+
+Fluconazole resistance may arise from a modification in the quality or quantity of the target enzyme (lanosterol 14-α-demethylase), reduced access to the drug target, or some combination of these mechanisms.
+
 Point mutations in the gene (ERG11) encoding for the target enzyme lead to an altered target with decreased affinity for azoles.
 Overexpression of ERG11 results in the production of high concentrations of the target enzyme, creating the need for higher intracellular drug concentrations to inhibit all of the enzyme molecules in the cell.
+
 The second major mechanism of drug resistance involves active efflux of fluconazole out of the cell through the activation of two types of multidrug efflux transporters; the major facilitators (encoded by MDR genes) and those of the ATP-binding cassette superfamily (encoded by CDR genes).
 Upregulation of the MDR gene leads to fluconazole resistance, whereas, upregulation of CDR genes may lead to resistance to multiple azoles.
+
 Resistance in Candida glabrata usually includes upregulation of CDR genes resulting in resistance to multiple azoles.
-For an isolate where the MIC is categorized as Intermediate (16 to 32 mcg/mL), the highest fluconazole dose is recommended.
+For an isolate where the minimum inhibitory concentration (MIC) is categorized as Intermediate (16 to 32 mcg/mL), the highest fluconazole dose is recommended.
+
 Candida krusei should be considered to be resistant to fluconazole.
 Resistance in C. krusei appears to be mediated by reduced sensitivity of the target enzyme to inhibition by the agent.
+
 There have been reports of cases of superinfection with Candida species other than C. albicans, which are often inherently not susceptible to fluconazole (e.g., Candida krusei).
 Such cases may require alternative antifungal therapy.
-Activity In Vitro and In Clinical Infections Fluconazole has been shown to be active against most strains of the following microorganisms both in vitro and in clinical infections.
-Candida albicans Candida glabrata (Many strains are intermediately susceptible)* Candida parapsilosis Candida tropicalis Cryptococcus neoformans *In a majority of the studies, fluconazole MIC90 values against C. glabrata were above the susceptible breakpoint (≥16 mcg/mL).
+
+Antimicrobial Activity
+
+Fluconazole has been shown to be active against most isolates of the following microorganisms both in vitro and in clinical infections.
+
+Candida albicans
+
+Candida glabrata (Many isolates are intermediately susceptible)*
+
+Candida parapsilosis
+
+Candida tropicalis
+
+Cryptococcus neoformans
+
+* In a majority of the studies, fluconazole MIC 90 values against C. glabrata were above the susceptible breakpoint (≥16 mcg/mL).
 Resistance in Candida glabrata usually includes upregulation of CDR genes resulting in resistance to multiple azoles.
-For an isolate where the MIC is categorized as intermediate (16 to 32 mcg/mL, see Table 1), the highest dose is recommended (see DOSAGE AND ADMINISTRATION).
+For an isolate where the MIC is between 16 to 32 mcg/mL, (see Table 1), the highest dose is recommended (see DOSAGE AND ADMINISTRATION).
 For resistant isolates, alternative therapy is recommended.
+
 The following in vitro data are available, but their clinical significance is unknown.
-Fluconazole exhibits in vitro minimum inhibitory concentrations (MIC values) of 8 mcg/mL or less against most (≥90%) strains of the following microorganisms, however, the safety and effectiveness of fluconazole in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled trials.
-Candida dubliniensis Candida guilliermondii Candida kefyr Candida lusitaniae Candida krusei should be considered to be resistant to fluconazole.
+At least 90% of the following fungi exhibit an in vitro MIC less than or equal to the susceptible breakpoint for fluconazole against isolates of similar genus or organism group.
+However, the effectiveness of fluconazole in treating clinical infections due to these fungi has not been established in adequate and well-controlled clinical trials.
+
+Candida dubliniensis
+
+Candida guilliermondii
+
+Candida kefyr
+
+Candida lusitaniae
+
+Candida krusei should be considered to be resistant to fluconazole.
 Resistance in C. krusei appears to be mediated by reduced sensitivity of the target enzyme to inhibition by the agent.
+
 There have been reports of cases of superinfection with Candida species other than C. albicans, which are often inherently not susceptible to fluconazole (e.g., Candida krusei).
 Such cases may require alternative antifungal therapy.
 
 Susceptibility Testing Methods
 
-Cryptococcus neoformans and filamentous fungi
+Cryptococcus neoformans and filamentous fungi:
 
 No interpretive criteria have been established for Cryptococcus neoformans and filamentous fungi.
 
-Candida species
+Candida species:
 
-Broth Dilution Techniques: Quantitative methods are used to determine antifungal minimum inhibitory concentrations (MICs).
-These MICs provide estimates of the susceptibility of Candida spp. to antifungal agents.
-MICs should be determined using a standardized procedure.
-Standardized procedures are based on a dilution method (broth)1 with standardized inoculum concentrations of fluconazole powder.
+The interpretive standards for fluconazole against Candida species are applicable only to tests performed using Clinical and Laboratory Standards Institute (CLSI) broth dilution reference method M27 for MIC read at 24 hours or disk diffusion reference method M44 for zone diameter read at 24 hours.1to3
+
+Dilution Techniques:
+
+Quantitative methods are used to determine antifungal MICs.
+These MICs provide estimates of the susceptibility of Candida spp. to antifungal compounds.
+The MICs should be determined using a standardized test method at 24 hours1,2(broth dilution).
 The MIC values should be interpreted according to the criteria provided in Table 1.
 
-Diffusion Techniques:Qualitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of Candida spp. to an antifungal agent.
-One such standardized procedure2 requires the use of standardized inoculum concentrations.
-This procedure uses paper disks impregnated with 25 mcg of fluconazole to test the susceptibility of yeasts to fluconazole.
-Disk diffusion interpretive criteria are also provided in Table 1.
+Diffusion Techniques:
+
+Qualitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of Candida spp. to an antifungal compound.
+The zone size should be determined using a standard test method.3 This procedure uses paper disks impregnated with 25 mcg of fluconazole to test the susceptibility of yeasts to fluconazole.
+The disk diffusion interpretive criteria are provided in Table 1.
 
 Table 1: Susceptibility Interpretive Criteria for Fluconazole against Candida species
 
-|  | Broth Dilution at 48 hours (MIC in mcg/mL) |  |  | Disk Diffusion at 24 hours (Zone Diameters in mm) |  |  |
+|  | Broth Microdilution at 24 hours (MIC in mcg/mL) |  |  | Disk Diffusion at 24 hours* (Zone Diameters in mm) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Antifungal agent | Susceptible (S) | Intermediate (I)** | Resistant (R) | Susceptible (S) | Intermediate (I)** | Resistant (R) |
-| Fluconazole* | ≤8 | 16-32 | ≥64 | ≥19 | 15-18 | ≤14 |
+|  | Susceptible (S) | Intermediate (I)** | Resistant (R) | Susceptible (S) | Intermediate (I)** | Resistant (R) |
+| C. albicans | ≤2 | 4 | ≥8 | ≥17 | 14 -16 | ≤13 |
+| C. glabrata | - | ≤32 | ≥64 | - | ≥15 | ≤14 |
+| C. parapsilosis | ≤2 | 4 | ≥8 | ≥17 | 14 -16 | ≤13 |
+| C. tropicalis | ≤2 | 4 | ≥8 | ≥17 | 14 -16 | ≤13 |
 | * Isolates of C. krusei are assumed to be intrinsically resistant to fluconazole and their MICs and/or zone diameters should not be interpreted using this scale. ** The intermediate category is sometimes called Susceptible-Dose Dependent (SDD) and both categories are equivalent for fluconazole. |  |  |  |  |  |  |
 
-A report of Susceptible (S) indicates that the antimicrobial drug is likely to inhibit growth of the microorganism if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
-
-A report of Intermediate (I) indicates that an infection due to the isolate may be appropriately treated in body sites where the drugs are physiologically concentrated or when a high dosage of drug is used.
-
+A report of Susceptible (S) indicates that the antimicrobial drug is likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
+A report of Intermediate (I) indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
+This category implies possible clinical applicability in body sites where the drugs are physiologically concentrated or when a high dosage of drug is used.
+This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
 A report of Resistant (R) indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentrations usually achievable at the infection site; other therapy should be selected.
 
 Quality Control
 
-Standardized susceptibility test procedures require the use of quality control organisms to control the technical aspects of the test procedures.
-Standardized fluconazole powder and 25 mcg disks should provide the following range of values noted in Table 2.
+Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the tests.1to3 Standardized fluconazole powder should provide the following range of MIC values noted in Table 2.
+For the diffusion technique using the 25 mcg disks, the criteria in Table 2 should be achieved.
+
 NOTE: Quality control microorganisms are specific strains of organisms with intrinsic biological properties relating to resistance mechanisms and their genetic expression within fungi; the specific strains used for microbiological control are not clinically significant.
 
 Table 2: Acceptable Quality Control Ranges for Fluconazole to be Used in Validation of Susceptibility Test Results
 
-| QC Strain | Macrodilution (MIC in mcg/mL) @ 48 hours | Microdilution (MIC in mcg/mL) @ 48 hours | Disk Diffusion (Zone Diameter in mm) @ 24 hours |
-| --- | --- | --- | --- |
-| Candida parapsilosis ATCC 22019 | 2-8 | 1-4 | 22-33 |
-| Candida krusei ATCC 6258 | 16-64 | 16-128 | ---* |
-| Candida albicans ATCC 90028 | ---* | ---* | 28-39 |
-| Candida tropicalis ATCC 750 | ---* | ---* | 26-37 |
-| ---* Quality control ranges have not been established for this strain/antifungal agent combination due to their extensive interlaboratory variation during initial quality control studies. |  |  |  |
+| QC Strain | Macrodilution (MIC in mcg/mL) @ 48 hours | Microdilution (MIC in mcg/mL) @ 24 hours | Microdilution (MIC in mcg/mL) @ 48 hours | Disk Diffusion (Zone Diameter in mm) @ 24 hours |
+| --- | --- | --- | --- | --- |
+| Candida parapsilosis ATCC 22019 | 2-8 | 0.5-4 | 1-4 | 22-33 |
+| Candida krusei ATCC 6258 | 16-64 | 8-64 | 16-128 | ---* |
+| Candida albicans ATCC 90028 | 0.25-1 | ---* | ---* | 28-39 |
+| Candidia albicans ATCC 24433 | 0.25-1 | ---* |  |  |
+| Candida tropicalis ATCC 750 | 1-4 | ---* | ---* | 26-37 |
+| ---* Quality control ranges have not been established for this strain/antifungal agent combination due to their extensive interlaboratory variation during initial quality control studies. |  |  |  |  |
