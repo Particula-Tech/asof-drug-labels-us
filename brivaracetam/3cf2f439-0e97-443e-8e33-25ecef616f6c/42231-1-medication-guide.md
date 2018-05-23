@@ -32,10 +32,13 @@ Do not stop BRIVIACT without first talking to a healthcare provider.
 
 What is BRIVIACT?
 
-- BRIVIACT is a prescription medicine that can be used to treat partial-onset seizures in people 16 years of age and older with epilepsy.
-  BRIVIACT may be given in the vein (intravenously) when BRIVIACT is not able to be taken by mouth.
+BRIVIACT is a prescription medicine used to treat partial-onset seizures in people 4 years of age and older.
 
-It is not known if BRIVIACT is safe and effective in children younger than 16 years of age.
+- It is not known if BRIVIACT injection is safe for use in children.
+- Children 4 years of age and older should only take BRIVIACT by mouth.
+- BRIVIACT injection is only for use in people 16 years of age and older and may be given in the vein (intravenously) when BRIVIACT is not able to be taken by mouth.
+
+It is not known if BRIVIACT is safe and effective in children younger than 4 years of age.
 
 Who should not take BRIVIACT?
 
@@ -46,10 +49,9 @@ What should I tell my healthcare provider before starting BRIVIACT?
 
 Before taking BRIVIACT, tell your healthcare provider about all of your medical conditions, including if you:
 
-- have or had depression, mood problems, or suicidal thoughts or behavior
-- have liver problems
-- have abused or been dependent on prescription medicines, street drugs, or alcohol
-- have any other medical problems
+- have or had depression, mood problems, or suicidal thoughts or behavior.
+- have liver problems.
+- have abused or been dependent on prescription medicines, street drugs, or alcohol.
 - are pregnant or plan to become pregnant.
   It is not known if BRIVIACT will harm your unborn baby.
   Tell your healthcare provider right away if you become pregnant while taking BRIVIACT.
@@ -77,10 +79,10 @@ How should I take BRIVIACT?
 - Swallow BRIVIACT tablets whole with a liquid.
   Do not chew or crush BRIVIACT tablets before swallowing.
 - If your healthcare provider has prescribed BRIVIACT oral solution, be sure to ask your pharmacist for a medicine dropper or medicine cup to help you measure the correct amount of BRIVIACT oral solution.
-  Do not use a household teaspoon.
+  Do not use a household teaspoon or tablespoon.
   Ask your pharmacist for instructions on how to use the measuring device the right way.
 - BRIVIACT injection can be given to you by intravenous (IV) infusion into your vein, as prescribed by your healthcare provider.
-- If you take too much BRIVIACT, call your Poison Control Center at 1-800-222-1222 or go to the nearest emergency room right away.
+- If you take too much BRIVIACT, call your Poison Control Center or go to the nearest emergency room right away.
 
 What should I avoid while taking BRIVIACT?
 
@@ -101,12 +103,14 @@ BRIVIACT may cause serious side effects, including:
   Irritability and anxiety are common with BRIVIACT, and can be severe.
   People who take BRIVIACT can also get psychotic symptoms such as hallucinations (seeing or hearing things that are really not there), delusions (false or strange thoughts or beliefs), and unusual behavior.
 
-The most common side effects of BRIVIACT include:
+The most common side effects of BRIVIACT in adults include:
 
 - sleepiness
-- dizziness
 - feeling tired
+- dizziness
 - nausea and vomiting
+
+Side effects of BRIVIACT in children 4 to less than 16 years of age are similar to those seen in adults.
 
 These are not all the possible side effects of BRIVIACT.
 For more information, ask your healthcare provider or pharmacist.
@@ -119,7 +123,8 @@ How should I store BRIVIACT?
 - Store BRIVIACT at room temperature between 59°F to 86°F (15°C to 30°C).
 - Do not freeze BRIVIACT oral solution.
 - Safely throw away any opened bottle of BRIVIACT oral solution after 5 months of first opening the bottle, even if there is medicine left in the bottle.
-- Keep BRIVIACT and all medicines out of the reach of children.
+
+Keep BRIVIACT and all medicines out of the reach of children.
 
 General information about the safe and effective use of BRIVIACT.
 
@@ -150,10 +155,9 @@ Injection inactive ingredients: sodium acetate (trihydrate), glacial acetic acid
 
 Manufactured for UCB, Inc., Smyrna, GA 30080.
 
-BRIVIACT® is a registered trademark of the UCB Group of Companies. ©2017, UCB, Inc., Smyrna, GA 30080.
+BRIVIACT® is a registered trademark of the UCB Group of Companies. ©2018, UCB, Inc., Smyrna, GA 30080.
 All rights reserved.
 
 For more information, go to www.BRIVIACT.com or call 1-844-599-2273.
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Issued: 9/2017
+This Medication Guide has been approved by the U.S. Food and Drug Administration Revised:05/2018

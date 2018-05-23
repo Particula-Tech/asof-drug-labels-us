@@ -4,12 +4,25 @@
 
 Monotherapy or Adjunctive Therapy
 
+The recommended dosage for adults and pediatric patients 4 years of age and older is included in Table 1.
+In pediatric patients 4 years to less than 16 years of age, the recommended dosing regimen is dependent upon body weight and is only recommended to be administered orally.
 When initiating treatment, gradual dose escalation is not required.
-The recommended starting dosage is 50 mg twice daily (100 mg per day).
-Based on individual patient tolerability and therapeutic response, the dosage may be adjusted down to 25 mg twice daily (50 mg per day) or up to 100 mg twice daily (200 mg per day) [see Clinical Studies (14)].
+Dosage should be adjusted based on clinical response and tolerability.
 
-BRIVIACT injection may be used when oral administration is temporarily not feasible.
-BRIVIACT injection should be administered at the same dosage and same frequency as BRIVIACT tablets and oral solution.
+Table 1: Recommended Dosage for Adults and Pediatric Patients 4 Years and Older
+
+| Age and Body Weight | Initial Dosage | Minimum and Maximum Maintenance Dosage |
+| --- | --- | --- |
+| Adults (16 years and older) | 50 mg twice daily (100 mg per day) | 25 mg to 100 mg twice daily (50 to 200 mg per day) |
+| Pediatric patients weighing 50 kg or more | 25 mg to 50 mg twice daily (50 mg to 100 mg per day) | 25 mg to 100 mg twice daily (50 to 200 mg per day) |
+| Pediatric patients weighing 20 kg to less than 50 kg | 0.5 mg/kg to 1 mg/kg twice daily (1 mg/kg to 2 mg/kg per day) | 0.5 mg/kg to 2 mg/kg twice daily (1 mg/kg to 4 mg/kg per day) |
+| Pediatric patients weighing 11 kg to less than 20 kg | 0.5 mg/kg to 1.25 mg/kg twice daily (1 mg/kg to 2.5 mg/kg per day) | 0.5 mg/kg to 2.5 mg/kg twice daily (1 mg/kg to 5 mg/kg per day) |
+
+BRIVIACT Injection Dosage in Adult Patients (16 years and older)
+
+BRIVIACT injection may be used for adult patients when oral administration is temporarily not feasible [see Dosage and Administration (2.3)].
+BRIVIACT injection should be administered intravenously to adult patients at the same dosage and same frequency as BRIVIACT tablets and oral solution.
+The use of BRIVIACT injection in pediatric patients has not been studied.
 
 The clinical study experience with BRIVIACT injection is limited to 4 consecutive days of treatment.
 
@@ -34,7 +47,7 @@ BRIVIACT oral solution may also be administered using a nasogastric tube or gast
 
 Discard any unused BRIVIACT oral solution remaining after 5 months of first opening the bottle.
 
-## 2.3 Preparation and Administration Instructions for BRIVIACT Injection
+## 2.3 Preparation and Administration Instructions for BRIVIACT Injection for Adult Patients
 
 BRIVIACT injection is for intravenous use only.
 
@@ -66,7 +79,10 @@ Avoid abrupt withdrawal from BRIVIACT in order to minimize the risk of increased
 
 ## 2.5 Patients with Hepatic Impairment
 
-For all stages of hepatic impairment, the recommended starting dosage is 25 mg twice daily (50 mg per day) and the recommended maximum dosage is 75 mg twice daily (150 mg per day) [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
+For all stages of hepatic impairment, the recommended starting dosage for adults and pediatric patients weighing 50 kg or more is 25 mg twice daily (50 mg per day), and the recommended maximum dosage is 75 mg twice daily (150 mg per day).
+The recommended starting dosage for pediatric patients with hepatic impairment weighing 11 kg to less than 50 kg is 0.5 mg/kg twice daily (1 mg/kg per day).
+The maximum dosage for pediatric patients with hepatic impairment weighing 20 kg to less than 50 kg is 1.5 mg/kg twice daily (3 mg/kg per day).
+The maximum dosage for pediatric patients with hepatic impairment weighing 11 kg to less than 20 kg is 2 mg/kg twice daily (4 mg/kg per day) [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
 
 ## 2.6 Co-administration with Rifampin
 

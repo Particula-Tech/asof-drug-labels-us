@@ -48,15 +48,20 @@ Following a single oral (5 mg/kg) dose of 14C-brivaracetam to lactating rats, ra
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of BRIVIACT in adolescents 16 years of age have been established [see Clinical Studies (14)].
+Safety and effectiveness of BRIVIACT tablets and oral solution have been established in pediatric patients 4 years to less than 16 years of age.
+Use of BRIVIACT in these age groups is supported by evidence from adequate and well-controlled studies of BRIVIACT in adults with partial-onset seizures, pharmacokinetic data from adult and pediatric patients, and safety data in 149 pediatric patients 4 years to less than 16 years of age [see Dosage and Administration (2.1), Warnings and Precautions (5.3), Adverse Reactions (6.1), and Clinical Pharmacology (12.3)].
 
-Safety and effectiveness in pediatric patients below the age of 16 years have not been established.
+Safety of BRIVIACT injection in pediatric patients has not been established.
+
+Safety and effectiveness in pediatric patients below the age of 4 years have not been established.
+
+Juvenile Animal Toxicity Data
 
 The potential adverse effects of brivaracetam on postnatal growth and development were investigated in juvenile rats and dogs.
-Oral administration (0, 150, 300, or 600 mg/kg/day) to rats during the neonatal and juvenile periods of development resulted in increased mortality, decreased body weight gain, delayed male sexual maturation, and adverse neurobehavioral effects at the highest dose tested and decreased brain size and weight at all doses.
-Therefore, a no-effect dose was not established; the lowest dose tested in juvenile rats was associated with plasma exposures (AUC) approximately 2 times those in adult humans at the maximum recommended dose (MRD) of 200 mg/day.
+Oral administration (0, 150, 300, or 600 mg/kg/day) to rats during the neonatal and juvenile periods of development (approximately equivalent to neonatal through adolescent development in humans) resulted in increased mortality, decreased body weight gain, delayed male sexual maturation, and adverse neurobehavioral effects at the highest dose tested and decreased brain size and weight at all doses.
+Therefore, a no-effect dose was not established; the lowest dose tested in juvenile rats was associated with plasma exposures (AUC) approximately 2 times those in children and adolescents at the recommended maintenance dose.
 In dogs, oral administration (0, 15, 30, or 100 mg/kg/day) throughout the neonatal and juvenile periods of development induced liver changes similar to those observed in adult animals at the highest dose but produced no adverse effects on growth, bone density or strength, neurological testing, or neuropathology evaluation.
-The overall no-effect dose (30 mg/kg/day) and the no-effect dose for adverse effects on developmental parameters (100 mg/kg/day) were associated with plasma exposures approximately equal to and 4 times, respectively, adult human exposures at the MRD.
+The overall no-effect dose (30 mg/kg/day) and the no-effect dose for adverse effects on developmental parameters (100 mg/kg/day) were associated with plasma exposures approximately equal to and 4 times, respectively, those in children and adolescents at the recommended maintenance dose.
 
 ## 8.5 Geriatric Use
 

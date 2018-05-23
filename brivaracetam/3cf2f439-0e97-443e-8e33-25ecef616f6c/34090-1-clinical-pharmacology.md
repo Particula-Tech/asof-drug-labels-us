@@ -63,6 +63,12 @@ Specific Populations
 
 Age
 
+Pediatric Patients: An open-label, single-arm, multicenter, pharmacokinetic study with a 3-week evaluation period and fixed 3-step up-titration using BRIVIACT oral solution was conducted in 59 pediatric patients 4 years to less than 16 years of age.
+In those patients, plasma concentrations were shown to be dose-proportional.
+A weight-based dosing regimen is necessary to achieve brivaracetam exposures in pediatric patients 4 years to less than 16 years of age that are similar to those observed in adults treated at effective doses of BRIVIACT [see Dosage and Administration (2.2)].
+The estimated plasma clearance was 1.61 L/h; 2.18 L/h; 3.19 L/h for pediatric patients weighing 20 kg, 30 kg, and 50 kg, respectively.
+In comparison, plasma clearance was estimated at 3.58 L/h in adult patients (70 kg body weight).
+
 Geriatric Population: In a study in elderly subjects (65 to 79 years old; creatinine clearance 53 to 98 mL/min/1.73 m2) receiving BRIVIACT 200 mg twice daily (2 times the highest recommended dosage), the plasma half-life of brivaracetam was 7.9 hours and 9.3 hours in the 65 to 75 and >75 years groups, respectively.
 The steady-state plasma clearance of brivaracetam was slightly lower (0.76 mL/min/kg) than in young healthy controls (0.83 mL/min/kg).
 
@@ -76,13 +82,14 @@ A population pharmacokinetic analysis comparing Caucasian and non-Caucasian pati
 
 Renal Impairment
 
-A study in subjects with severe renal impairment (creatinine clearance <30 mL/min/1.73m2 and not requiring dialysis) revealed that the plasma AUC of brivaracetam was moderately increased (21%) relative to healthy controls, while the AUCs of the acid, hydroxy, and hydroxyacid metabolites were increased 3-fold, 4-fold, and 21-fold, respectively.
+A study in adult subjects with severe renal impairment (creatinine clearance <30 mL/min/1.73m2 and not requiring dialysis) revealed that the plasma AUC of brivaracetam was moderately increased (21%) relative to healthy controls, while the AUCs of the acid, hydroxy, and hydroxyacid metabolites were increased 3-fold, 4-fold, and 21-fold, respectively.
 The renal clearance of these inactive metabolites was decreased 10-fold.
 Brivaracetam has not been studied in patients undergoing hemodialysis [see Use in Specific Populations (8.6)].
 
 Hepatic Impairment
 
-A pharmacokinetic study in subjects with hepatic cirrhosis, Child-Pugh grades A, B, and C, showed 50%, 57%, and 59% increases in brivaracetam exposure, respectively, compared to matched healthy controls [see Dosage and Administration (2.5) and Use in Specific Populations (8.7)].
+A pharmacokinetic study in adult subjects with hepatic cirrhosis, Child-Pugh grades A, B, and C, showed 50%, 57%, and 59% increases in brivaracetam exposure, respectively, compared to matched healthy controls.
+The effect of hepatic impairment on brivaracetam pharmacokinetics in pediatric patients is expected to be comparable to the effect observed in adults [see Dosage and Administration (2.5) and Use in Specific Populations (8.7)].
 
 Drug Interaction Studies
 
@@ -111,9 +118,9 @@ Drug Interaction Studies with Antiepileptic Drugs (AEDs)
 Potential interactions between BRIVIACT (25 mg twice daily to 100 mg twice daily) and other AEDs were investigated in a pooled analysis of plasma drug concentrations from all Phase 2 and 3 studies and in a population exposure-response analysis of placebo-controlled, Phase 3 studies in adjunctive therapy in the treatment of partial-onset seizures.
 None of the interactions require changes in the dose of BRIVIACT.
 Interactions with carbamazepine and phenytoin can be clinically important [see Drug Interactions (7.2) and (7.3)].
-The interactions are summarized in Table 3.
+The interactions are summarized in Table 4.
 
-Table 3: Drug Interactions Between BRIVIACT and Concomitant Antiepileptic Drugs
+Table 4: Drug Interactions Between BRIVIACT and Concomitant Antiepileptic Drugs
 
 | Concomitant AED | Influence of AED on BRIVIACT | Influence of BRIVIACT on AED |
 | --- | --- | --- |

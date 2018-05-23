@@ -17,9 +17,9 @@ Upon termination of BRIVIACT treatment, patients were down-titrated over a 1-, 2
 
 The primary efficacy outcome in Study 1 and Study 2 was the percent reduction in 7-day partial-onset seizure frequency over placebo, while the primary outcome for Study 3 was the percent reduction in 28-day partial-onset seizure frequency over placebo.
 The criteria for statistical significance for all 3 studies was p<0.05.
-Table 4 presents the primary efficacy outcome of the percent change in seizure frequency over placebo, based upon each study's protocol-defined 7- and 28-day seizure frequency efficacy outcome.
+Table 5 presents the primary efficacy outcome of the percent change in seizure frequency over placebo, based upon each study's protocol-defined 7- and 28-day seizure frequency efficacy outcome.
 
-Table 4: Percent Reduction in Partial-Onset Seizure Frequency over Placebo (Studies 1, 2, and 3)
+Table 5: Percent Reduction in Partial-Onset Seizure Frequency over Placebo (Studies 1, 2, and 3)
 
 |  | Percent Reduction Over Placebo (%) |
 | --- | --- |

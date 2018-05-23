@@ -1,54 +1,74 @@
-# PRINCIPAL DISPLAY PANEL - 10 mg Tablet Bottle Carton
+PRINCIPAL DISPLAY PANEL - 10 mg Tablet Bottle Carton
 
-BRIVIACT® (brivaracetam) tablets CV
+NDC 50474-370-66 Rx only
+
+BRIVIACT® (brivaracetam) tablets
+
+CV
 
 10 mg
 
-ucb
+ATTENTION PHARMACIST: Dispense accompanying medication guide to each patient.
 
-Manufactured for UCB, Inc. Smyrna, GA 30080 Made in Belgium
+60 tablets
 
-# PRINCIPAL DISPLAY PANEL - 25 mg Tablet Bottle Carton
+PRINCIPAL DISPLAY PANEL - 25 mg Tablet Bottle Carton
 
-BRIVIACT® (brivaracetam) tablets CV
+NDC 50474-470-66 Rx only
+
+BRIVIACT® (brivaracetam) tablets
+
+CV
 
 25 mg
 
-ucb
+ATTENTION PHARMACIST: Dispense accompanying medication guide to each patient.
 
-Manufactured for UCB, Inc. Smyrna, GA 30080 Made in Belgium
+60 tablets
 
-# PRINCIPAL DISPLAY PANEL - 50 mg Tablet Bottle Carton
+PRINCIPAL DISPLAY PANEL - 50 mg Tablet Bottle Carton
 
-BRIVIACT® (brivaracetam) tablets CV
+NDC 50474-570-66 Rx only
+
+BRIVIACT® (brivaracetam) tablets
+
+CV
 
 50 mg
 
-ucb
+ATTENTION PHARMACIST: Dispense accompanying medication guide to each patient.
 
-Manufactured for UCB, Inc. Smyrna, GA 30080 Made in Belgium
+60 tablets
 
-# PRINCIPAL DISPLAY PANEL - 75 mg Tablet Bottle Carton
+PRINCIPAL DISPLAY PANEL - 75 mg Tablet Bottle Carton
 
-BRIVIACT® (brivaracetam) tablets CV
+NDC 50474-670-66 Rx only
+
+BRIVIACT® (brivaracetam) tablets
+
+CV
 
 75 mg
 
-ucb
+ATTENTION PHARMACIST: Dispense accompanying medication guide to each patient.
 
-Manufactured for UCB, Inc. Smyrna, GA 30080 Made in Belgium
+60 tablets
 
-# PRINCIPAL DISPLAY PANEL - 100 mg Tablet Bottle Carton
+PRINCIPAL DISPLAY PANEL - 100 mg Tablet Bottle Carton
 
-BRIVIACT® (brivaracetam) tablets CV
+NDC 50474-770-66 Rx only
+
+BRIVIACT® (brivaracetam) tablets
+
+CV
 
 100 mg
 
-ucb
+ATTENTION PHARMACIST: Dispense accompanying medication guide to each patient.
 
-Manufactured for UCB, Inc. Smyrna, GA 30080 Made in Belgium
+60 tablets
 
-# PRINCIPAL DISPLAY PANEL - 10 mg/mL Bottle Carton
+PRINCIPAL DISPLAY PANEL - 10 mg/mL Bottle Carton
 
 NDC 50474-870-15 Rx only
 
@@ -60,11 +80,13 @@ ATTENTION PHARMACIST: Dispense accompanying medication guide to each patient
 
 300 mL
 
-# PRINCIPAL DISPLAY PANEL - 50 mg/5 mL Vial Carton
+PRINCIPAL DISPLAY PANEL - 50 mg/5 mL Vial Carton
 
 NDC 50474-970-75 Rx only
 
-BRIVIACT® (brivaracetam) injection CV 50 mg/5 mL (10 mg/mL)
+BRIVIACT® (brivaracetam) injection CV
+
+50 mg/5 mL (10 mg/mL)
 
 For Intravenous Use Only
 

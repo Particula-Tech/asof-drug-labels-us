@@ -15,9 +15,9 @@ Because most trials included in the analysis did not extend beyond 24 weeks, the
 The risk of suicidal thoughts or behavior was generally consistent among drugs in the data analyzed.
 The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
 The risk did not vary substantially by age (5-100 years) in the clinical trials analyzed.
-Table 1 shows absolute and relative risk by indication for all evaluated AEDs.
+Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
 
-Table 1: Risk of Suicidal Thoughts or Behaviors by Indication for Antiepileptic Drugs in the Pooled Analysis
+Table 2: Risk of Suicidal Thoughts or Behaviors by Indication for Antiepileptic Drugs in the Pooled Analysis
 
 | Indication | Placebo Patients with Events Per 1000 Patients | Drug Patients with Events Per 1000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1000 Patients |
 | --- | --- | --- | --- | --- |
@@ -55,6 +55,8 @@ BRIVIACT causes psychiatric adverse reactions.
 In the Phase 3 controlled adjunctive epilepsy trials, psychiatric adverse reactions were reported in approximately 13% of patients who received BRIVIACT (at least 50 mg/day) compared to 8% of patients who received placebo.
 Psychiatric events included both non-psychotic symptoms (irritability, anxiety, nervousness, aggression, belligerence, anger, agitation, restlessness, depression, depressed mood, tearfulness, apathy, altered mood, mood swings, affect lability, psychomotor hyperactivity, abnormal behavior, and adjustment disorder) and psychotic symptoms (psychotic disorder along with hallucination, paranoia, acute psychosis, and psychotic behavior).
 A total of 1.7% of adult patients treated with BRIVIACT discontinued treatment because of psychiatric reactions compared to 1.3% of patients who received placebo.
+
+Psychiatric adverse reactions were also observed in open-label pediatric trials and were generally similar to those observed in adults [see Adverse Reactions (6.1) and Use in Specific Populations (8.4)].
 
 ## 5.4 Hypersensitivity: Bronchospasm and Angioedema
 
