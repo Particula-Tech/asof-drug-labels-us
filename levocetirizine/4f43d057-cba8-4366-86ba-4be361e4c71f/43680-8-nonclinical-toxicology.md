@@ -13,7 +13,7 @@ Levocetirizine was not mutagenic in the Ames test, and not clastogenic in the hu
 
 In a fertility and general reproductive performance study in mice, cetirizine did not impair fertility at an oral dose of 64 mg/kg (approximately 25 times the recommended daily oral dose in adults on a mg/m² basis).
 
-## 13.2 Animal Toxicology
+## 13.2 Animal Toxicology and/or Pharmacology
 
 Reproductive Toxicology Studies
 

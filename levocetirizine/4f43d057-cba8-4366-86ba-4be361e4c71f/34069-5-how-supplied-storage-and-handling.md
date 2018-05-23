@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Levocetirizine dihydrochloride tablets USP are available as follows:
+Levocetirizine Dihydrochloride Tablets USP are available as follows:
 
 5 mg - white to off-white, film-coated, oval-shaped, scored tablets.
 One side of the tablet is scored in half and debossed with the number "9" on one side of the score and "3" on the other.

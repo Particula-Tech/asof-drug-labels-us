@@ -13,7 +13,7 @@ In rats and rabbits, levocetirizine was not teratogenic at oral doses approximat
 
 ## 8.3 Nursing Mothers
 
-No peri- and post-natal animal studies have been conducted with levocetirizine.
+No peri- and postnatal animal studies have been conducted with levocetirizine.
 In mice, cetirizine caused retarded pup weight gain during lactation at an oral dose in dams that was approximately 40 times the maximum recommended daily oral dose in adults on a mg/m2 basis.
 Studies in beagle dogs indicated that approximately 3% of the dose of cetirizine was excreted in milk.
 Cetirizine has been reported to be excreted in human breast milk.
@@ -32,7 +32,7 @@ The effectiveness of levocetirizine dihydrochloride 1.25 mg once daily (6 months
 
 Cross-study comparisons indicate that administration of a 5 mg dose of levocetirizine dihydrochloride to 6 to 12 year old pediatric patients resulted in about 2-fold the systemic exposure (AUC) observed when 5 mg of levocetirizine dihydrochloride was administered to healthy adults.
 Therefore, in children 6 to 11 years of age the recommended dose of 2.5 mg once daily should not be exceeded.
-In a population pharmacokinetics study the administration of 1.25 mg once daily in children 6 months to 5 years of age resulted in systemic exposure comparable to 5 mg once daily in adults [see Dosage and Administration (2.2); Clinical Studies (14); and Clinical Pharmacology (12.3)].
+In a population pharmacokinetics study the administration of 1.25 mg once daily in children 6 months to 5 years of age resulted in systemic exposure comparable to 5 mg once daily in adults [see Dosage and Administration (2.2), Clinical Studies (14), and Clinical Pharmacology (12.3)].
 
 ## 8.5 Geriatric Use
 
