@@ -32,7 +32,7 @@ The clinical significance of this finding is unknown.
 Development of resistance to nitrofurantoin has not been a significant problem since its introduction in 1953.
 Cross-resistance with antibiotics and sulfonamides has not been observed, and transferable resistance is, at most, a very rare phenomenon.
 
-Nitrofurantoin has been shown to be active against most strains of the following bacteria both in vitro and in clinical infections [see Indications and Usage):
+Nitrofurantoin has been shown to be active against most strains of the following bacteria both in vitro and in clinical infections (see Indications and Usage):
 
 ## Aerobic and facultative Gram-positive microorganisms:
 
