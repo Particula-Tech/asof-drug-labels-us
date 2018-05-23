@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA209861"
+  ],
+  "inn": "bexarotene",
+  "labeler": "Amerigen Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "43975-315-10"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, LIQUID FILLED",
+      "generic": "bexarotene",
+      "name": "Bexarotene"
+    }
+  ],
+  "setid": "e713c60d-f623-4260-b0ca-db07e1365fd2",
+  "source": "dailymed"
+}
