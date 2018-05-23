@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA209501"
+  ],
+  "inn": "pregabalin",
+  "labeler": "U.S. Pharmaceuticals",
+  "package_ndcs": [
+    "63539-024-02"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "pregabalin",
+      "name": "Lyrica CR"
+    }
+  ],
+  "setid": "847e8b4e-4c14-4c36-b824-5e1ab6a5db6f",
+  "source": "dailymed"
+}
