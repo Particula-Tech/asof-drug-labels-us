@@ -3,8 +3,6 @@
 ## 1.1 Treatment of Chronic Iron Overload Due to Blood Transfusions (Transfusional Iron Overload)
 
 JADENU is indicated for the treatment of chronic iron overload due to blood transfusions (transfusional hemosiderosis) in patients 2 years of age and older.
-This indication is approved under accelerated approval based on a reduction of liver iron concentrations and serum ferritin levels [see Clinical Studies (14)].
-Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials.
 
 ## 1.2 Treatment of Chronic Iron Overload in Non-Transfusion-Dependent Thalassemia Syndromes
 

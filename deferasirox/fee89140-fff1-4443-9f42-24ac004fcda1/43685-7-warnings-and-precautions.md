@@ -1,25 +1,32 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Renal Toxicity, Renal Failure, and Proteinuria
+## 5.1 Acute Kidney Injury, Including Acute Renal Failure Requiring Dialysis and Renal Tubular Toxicity Including Fanconi Syndrome
 
-JADENU can cause acute renal failure, fatal in some patients and requiring dialysis in others.
-Postmarketing experience showed that most fatalities occurred in patients with multiple comorbidities and who were in advanced stages of their hematological disorders.
-In the clinical trials, deferasirox-treated patients experienced dose-dependent increases in serum creatinine.
-In patients with transfusional iron overload, these increases in creatinine occurred at a greater frequency compared to deferoxamine-treated patients (38% versus 14%, respectively, in Study 1 and 36% versus 22%, respectively, in Study 3) [see Adverse Reactions (6.1, 6.2)].
+JADENU is contraindicated in patients with eGFR less than 40 mL/min/1.73 m2.
+Exercise caution in pediatric patients with eGFR between 40 and 60 mL/minute/1.73 m2.
+If treatment is needed, use the minimum effective dose and monitor renal function frequently.
+Individualize dose titration based on improvement in renal injury [see Use in Specific Populations (8.6)].
+For patients with renal impairment (eGFR 40-60 mL/min/1.73 m2) reduce the starting dose by 50% [see Dosage and Administration (2.4, 2.5), Use in Specific Populations (8.6)].
 
-Measure serum creatinine in duplicate (due to variations in measurements) and determine the CLCr (estimated by the Cockcroft-Gault method) before initiating therapy in all patients in order to establish a reliable pretreatment baseline.
-Monitor serum creatinine weekly during the first month after initiation or modification of therapy and at least monthly thereafter.
-Monitor serum creatinine and/or CLCr more frequently if creatinine levels are increasing.
-Dose reduction, interruption, or discontinuation based on increases in serum creatinine may be necessary [see Dosage and Administration (2.5)].
+JADENU can cause acute kidney injury including renal failure requiring dialysis that has resulted in fatal outcomes.
+Based on postmarketing experience most fatalities have occurred in patients with multiple comorbidities and who were in advanced stages of their hematological disorders.
+In the clinical trials, adults and pediatric deferasirox-treated patients with no preexisting renal disease experienced dose-dependent mild, non-progressive increases in serum creatinine and proteinuria.
+Preexisting renal disease and concomitant use of other nephrotoxic drugs may increase the risk of acute kidney injury in adult and pediatric patients.
+Acute illnesses associated with volume depletion and overchelation may increase the risk of acute kidney injury in pediatric patients.
+In pediatric patients, small decreases in eGFR can result in increases in Exjade exposure, particularly in younger patients with body surface area typical of patients less than age 7 years.
+This can lead to a cycle of worsening renal function and further increases in Exjade exposure, unless the dose is reduced or interrupted.
+Renal tubular toxicity, including acquired Fanconi syndrome, has been reported in patients treated with deferasirox, most commonly in pediatric patients with beta-thalassemia and serum ferritin levels less than 1,500 mcg/L [see Warnings and Precautions (5.6), Adverse Reactions (6.1, 6.2), Use in Special Populations (8.4), Clinical Pharmacology (12.3)].
 
-JADENU is contraindicated in patients with CLCr less than 40 mL/minute or serum creatinine greater than 2 times the age appropriate ULN.
+Evaluate renal glomerular and tubular function before initiating therapy or increasing the dose Use prediction equations validated for use in adult and pediatric patients to estimate GFR.
+Obtain serum electrolytes and urinalysis in all patients to evaluate renal tubular function [see Dosage and Administration (2.1, 2.2)].
 
-Renal tubular damage, including Fanconi’s Syndrome, has been reported in patients treated with deferasirox, most commonly in children and adolescents with beta-thalassemia and serum ferritin levels less than 1500 mcg/L.
-
-Intermittent proteinuria (urine protein/creatinine ratio greater than 0.6 mg/mg) occurred in 18.6% of deferasirox-treated patients compared to 7.2% of deferoxamine-treated patients in Study 1.
-In clinical trials in patients with transfusional iron overload, deferasirox was temporarily withheld until the urine protein/creatinine ratio fell below 0.6 mg/mg.
-Monthly monitoring for proteinuria is recommended.
-The mechanism and clinical significance of the proteinuria are uncertain [see Adverse Reactions (6.1)].
+Monitor all patients for changes in eGFR and for renal tubular toxicity weekly during the first month after initiation or modification of therapy and at least monthly thereafter.
+Monitor serum ferritin monthly to evaluate for overchelation.
+Use the minimum dose to establish and maintain a low iron burden.
+Monitor renal function more frequently in patients with preexisting renal disease or decreased renal function.
+In pediatric patients interrupt JADENU during acute illnesses which can cause volume depletion such as vomiting, diarrhea, or prolonged decreased oral intake, and monitor renal function more frequently.
+Promptly correct fluid deficits to prevent renal injury.
+Resume therapy as appropriate, based on assessments of renal function, when oral intake and volume status are normal [see Dosage and Administration (2.5), Warnings and Precautions (5.6), Adverse Reactions (6.1, 6.2), Use in Specific Populations (8.4)].
 
 ## 5.2 Hepatic Toxicity and Failure
 
@@ -27,6 +34,12 @@ JADENU can cause hepatic injury, fatal in some patients.
 In Study 1, 4 patients (1.3%) discontinued deferasirox because of hepatic toxicity (drug-induced hepatitis in 2 patients and increased serum transaminases in 2 additional patients).
 Hepatic toxicity appears to be more common in patients greater than 55 years of age.
 Hepatic failure was more common in patients with significant comorbidities, including liver cirrhosis and multiorgan failure [see Adverse Reactions (6.1)].
+
+Acute liver injury and failure, including fatal outcomes, have occurred in pediatric deferasirox-treated patients.
+Liver failure occurred in association with acute kidney injury in pediatric patients at risk for overchelation during a volume depleting event.
+Interrupt JADENU therapy when acute liver injury or acute kidney injury is suspected and during volume depletion.
+Monitor liver and renal function more frequently in pediatric patients who are receiving JADENU in the 14-28 mg/kg/day range and when iron burden is approaching normal.
+Use the minimum effective dose to achieve and maintain a low iron burden [see Dosage and Administration (2.5), Warnings and Precautions (5.6), Adverse Reactions (6.1)].
 
 Measure transaminases (AST and ALT) and bilirubin in all patients before the initiation of treatment and every 2 weeks during the first month and at least monthly thereafter.
 Consider dose modifications or interruption of treatment for severe or persistent elevations.
@@ -51,43 +64,63 @@ Monitor blood counts in all patients.
 Interrupt treatment with JADENU in patients who develop cytopenias until the cause of the cytopenia has been determined.
 JADENU is contraindicated in patients with platelet counts below 50 x 109/L.
 
-## 5.5 Increased Risk of Toxicity in the Elderly
+## 5.5 Age-Related Risk of Toxicity
 
-JADENU has been associated with serious and fatal adverse reactions in the postmarketing setting, predominantly in elderly patients.
+Elderly Patients
+
+JADENU has been associated with serious and fatal adverse reactions in the postmarketing setting among adults, predominantly in elderly patients.
 Monitor elderly patients treated with JADENU more frequently for toxicity [see Use in Specific Populations (8.5)].
 
-## 5.6 Hypersensitivity
+Pediatric Patients
+
+JADENU has been associated with serious and fatal adverse reactions in pediatric patients in the postmarketing setting.
+These events were frequently associated with volume depletion or with continued Exjade doses in the 20-40 mg/kg/day range when body iron burden was approaching or in the normal range.
+Interrupt JADENU in patients with volume depletion, and resume JADENU when renal function and fluid volume have normalized.
+Monitor liver and renal function more frequently during volume depletion and in patients receiving JADENU in the 14-28 mg/kg/day range when iron burden is approaching the normal range.
+Use the minimum effective dose to achieve and maintain a low iron burden [see Dosage and Administration (2.4), Warnings and Precautions (5.6), Use in Specific Populations (8.4)].
+
+## 5.6 Overchelation
+
+For patients with transfusional iron overload, measure serum ferritin monthly to assess for possible overchelation of iron.
+An analysis of pediatric patients treated with Exjade in pooled clinical trials (n = 158) found a higher rate of renal adverse events among patients receiving doses greater than 25 mg/kg/day while their serum ferritin values were less than 1,000 mcg/L.
+Consider dose reduction or closer monitoring of renal and hepatic function, and serum ferritin levels during these periods.
+Use the minimum effective dose to maintain a low-iron burden [see Adverse Reactions (6.1), Use in Specific Populations (8.4)].
+
+If the serum ferritin falls below 1000 mcg/L at 2 consecutive visits, consider dose reduction, especially if the JADENU dose is greater than 17.5 mg/kg/day [see Adverse Reactions (6.1)].
+If the serum ferritin falls below 500 mcg/L, interrupt therapy with JADENU and continue monthly monitoring.
+Evaluate the need for ongoing chelation for patients whose conditions do not require regular blood transfusions.
+Use the minimum effective dose to maintain iron burden in the target range.
+Continued administration of JADENU in the 14 to 28 mg/kg/day range, when the body iron burden is approaching or within the normal range can result in life threatening adverse events [see Dosage and Administration (2.1)].
+
+For patients with NTDT, measure LIC by liver biopsy or by using an FDA-cleared or approved method for monitoring patients receiving deferasirox therapy every 6 months on treatment.
+Interrupt JADENU administration when the LIC is less than 3 mg Fe/g dw.
+Measure serum ferritin monthly, and if the serum ferritin falls below 300 mcg/L, interrupt JADENU and obtain a confirmatory LIC [see Clinical Studies (14)].
+
+## 5.7 Hypersensitivity
 
 JADENU may cause serious hypersensitivity reactions (such as anaphylaxis and angioedema), with the onset of the reaction usually occurring within the first month of treatment [see Adverse Reactions (6.2)].
 If reactions are severe, discontinue JADENU and institute appropriate medical intervention.
 JADENU is contraindicated in patients with known hypersensitivity to deferasirox products and should not be reintroduced in patients who have experienced previous hypersensitivity reactions on deferasirox products due to the risk of anaphylactic shock.
 
-## 5.7 Severe Skin Reactions
+## 5.8 Severe Skin Reactions
 
 Severe cutaneous adverse reactions (SCARs), including Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN) and drug reaction with eosinophilia and systemic symptoms (DRESS) which could be life-threatening or fatal have been reported during deferasirox therapy [see Adverse Reactions (6.1, 6.2)].
 Cases of erythema multiforme have been observed.
 Advise patients of the signs and symptoms of severe skin reactions, and closely monitor.
 If any severe skin reactions are suspected, discontinue JADENU immediately and do not reintroduce JADENU therapy.
 
-## 5.8 Skin Rash
+## 5.9 Skin Rash
 
 Rashes may occur during JADENU treatment [see Adverse Reactions (6.1)].
 For rashes of mild to moderate severity, JADENU may be continued without dose adjustment, since the rash often resolves spontaneously.
 In severe cases, interrupt treatment with JADENU.
 Reintroduction at a lower dose with escalation may be considered after resolution of the rash.
 
-## 5.9 Auditory and Ocular Abnormalities
+## 5.10 Auditory and Ocular Abnormalities
 
 Auditory disturbances (high frequency hearing loss, decreased hearing), and ocular disturbances (lens opacities, cataracts, elevations in intraocular pressure, and retinal disorders) were reported at a frequency of less than 1% with deferasirox therapy in the clinical studies.
+The frequency of auditory adverse events irrespective of causality was increased among pediatric patients who received Exjade doses greater than 25 mg/kg/day when serum ferritin was less than 1,000 mcg/L [see Warnings and Precautions (5.6)].
+
 Perform auditory and ophthalmic testing (including slit lamp examinations and dilated fundoscopy) before starting JADENU treatment and thereafter at regular intervals (every 12 months).
 If disturbances are noted, monitor more frequently.
 Consider dose reduction or interruption.
-
-## 5.10 Overchelation
-
-For patients with transfusional iron overload, measure serum ferritin monthly to assess for possible overchelation of iron.
-If the serum ferritin falls below 500 mcg/L, consider interrupting therapy with JADENU, since overchelation may increase JADENU toxicity [see Dosage and Administration (2.1)].
-
-For patients with NTDT, measure LIC by liver biopsy or by using an FDA-cleared or approved method for monitoring patients receiving deferasirox therapy every 6 months on treatment.
-Interrupt JADENU administration when the LIC is less than 3 mg Fe/g dw.
-Measure serum ferritin monthly, and if the serum ferritin falls below 300 mcg/L, interrupt JADENU and obtain a confirmatory LIC [see Clinical Studies (14)].

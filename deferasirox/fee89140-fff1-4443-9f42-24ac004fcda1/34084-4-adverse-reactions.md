@@ -2,14 +2,14 @@
 
 The following adverse reactions are also discussed in other sections of the labeling:
 
-- Renal Toxicity, Renal Failure, and Proteinuria [see Warnings and Precautions (5.1)]
+- Acute Kidney Injury, Including Acute Renal Failure Requiring Dialysis, and Renal Tubular Toxicity Including Fanconi Syndrome [see Warnings and Precautions (5.1)]
 - Hepatic Toxicity and Failure [see Warnings and Precautions (5.2)]
 - Gastrointestinal (GI) Hemorrhage [see Warnings and Precautions (5.3)]
 - Bone Marrow Suppression [see Warnings and Precautions (5.4)]
-- Hypersensitivity [see Warnings and Precautions (5.6)]
-- Severe Skin Reactions [see Warnings and Precautions (5.7)]
-- Skin Rash [see Warnings and Precautions (5.8)]
-- Auditory and Ocular Abnormalities [see Warnings and Precautions (5.9)]
+- Hypersensitivity [see Warnings and Precautions (5.7)]
+- Severe Skin Reactions [see Warnings and Precautions (5.8)]
+- Skin Rash [see Warnings and Precautions (5.9)]
+- Auditory and Ocular Abnormalities [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -39,7 +39,7 @@ Abdominal pain, nausea, vomiting, diarrhea, skin rashes, and increases in serum 
 Gastrointestinal symptoms, increases in serum creatinine, and skin rash were dose related.
 
 Table 1.
-Adverse Reactions* Occurring in > 5% of Deferasirox-treated Patients in Study 1, Study 3, and MDS Pool
+Adverse Reactions *Occurring in > 5% of Deferasirox-treated Patients in Study 1, Study 3, and MDS Pool
 
 |  | Study 1 (Beta-thalassemia) |  | Study 3 (Sickle Cell Disease) |  | MDS Pool |
 | --- | --- | --- | --- | --- | --- |
@@ -50,7 +50,7 @@ Adverse Reactions* Occurring in > 5% of Deferasirox-treated Patients in Study 1,
 | Nausea | 31 (11) | 14 (5) | 30 (23) | 7 (11) | 161 (26) |
 | Vomiting | 30 (10) | 28 (10) | 28 (21) | 10 (16) | 83 (13) |
 | Rash | 25 (8) | 9 (3) | 14 (11) | 3 (5) | 83 (13) |
-| *Adverse reaction frequencies are based on adverse events reported regardless of relationship to study drug. **Includes ‘abdominal pain’, ‘abdominal pain lower’, and ‘abdominal pain upper’ which were reported as adverse events. ***Includes ‘blood creatinine increased’ and ‘blood creatinine abnormal’ which were reported as adverse events. Also see Table 2. |  |  |  |  |  |
+| *Adverse reaction frequencies are based on adverse events reported regardless of relationship to study drug. **Includes ‘abdominal pain’, ‘abdominal pain lower’, and ‘abdominal pain upper’ which were reported as adverse events. ***Includes ‘blood creatinine increased’ and ‘blood creatinine abnormal’ which were reported as adverse events. See also Table 2. |  |  |  |  |  |
 
 In Study 1, a total of 113 (38%) patients treated with deferasirox had increases in serum creatinine greater than 33% above baseline on 2 separate occasions (Table 2) and 25 (8%) patients required dose reductions.
 Increases in serum creatinine appeared to be dose related [see Warnings and Precautions (5.1)].
@@ -77,11 +77,11 @@ Number (%) of Patients with Increases in Serum Creatinine or SGPT/ALT in Study 1
 | --- | --- | --- | --- | --- | --- |
 | Laboratory Parameter | Deferasirox N = 296 n (%) | Deferoxamine N = 290 n (%) | Deferasirox N = 132 n (%) | Deferoxamine N = 63 n (%) | Deferasirox N = 627 n (%) |
 | Serum Creatinine |  |  |  |  |  |
-| Creatinine increase > 33% at 2 consecutive postbaseline visits | 113 (38) | 41 (14) | 48 (36) | 14 (22) | 229 (37) |
-| Creatinine increase > 33% and > ULN at 2 consecutive postbaseline visits | 7 (2) | 1 (0) | 3 (2) | 2 (3) | 126 (20) |
+| Creatinine increase > 33% at 2 consecutive post-baseline visits | 113 (38) | 41 (14) | 48 (36) | 14 (22) | 229 (37) |
+| Creatinine increase > 33% and > ULN at 2 consecutive post-baseline visits | 7 (2) | 1 (0) | 3 (2) | 2 (3) | 126 (20) |
 | SGPT/ALT |  |  |  |  |  |
-| SGPT/ALT > 5 x ULN at 2 postbaseline visits | 25 (8) | 7 (2) | 2 (2) | 0 | 9 (1) |
-| SGPT/ALT > 5 x ULN at 2 consecutive postbaseline visits | 17 (6) | 5 (2) | 5 (4) | 0 | 5 (1) |
+| SGPT/ALT > 5 x ULN at 2 post-baseline visits | 25 (8) | 7 (2) | 2 (2) | 0 | 9 (1) |
+| SGPT/ALT > 5 x ULN at 2 consecutive post-baseline visits | 17 (6) | 5 (2) | 5 (4) | 0 | 5 (1) |
 
 Non-Transfusion-Dependent Thalassemia Syndromes
 
@@ -116,7 +116,7 @@ Number (%) of NTDT Patients with Increases in Serum Creatinine or SGPT/ALT
 |  | Deferasirox | Placebo | Deferasirox |
 |  | N = 110 | N = 56 | N = 130 |
 | Laboratory Parameter | n (%) | n (%) | n (%) |
-| Serum creatinine (> 33% increase from baseline and > ULN at ≥ 2 consecutive postbaseline values) | 3 (3) | 0 | 2 (2) |
+| Serum creatinine (> 33% increase from baseline and > ULN at ≥ 2 consecutive post-baseline values) | 3 (3) | 0 | 2 (2) |
 | SGPT/ALT (> 5 x ULN and > 2 x baseline) | 1 (1) | 1 (2) | 2 (2) |
 
 Proteinuria
@@ -126,23 +126,46 @@ Intermittent proteinuria (urine protein/creatinine ratio greater than 0.6 mg/mg)
 
 Other Adverse Reactions
 
-In the population of more than 5,000 patients with transfusional iron overload who have been treated with deferasirox during clinical trials, adverse reactions occurring in 0.1% to 1% of patients included gastritis, edema, sleep disorder, pigmentation disorder, dizziness, anxiety, maculopathy, cholelithiasis, pyrexia, fatigue, laryngeal pain, cataract, hearing loss, gastrointestinal hemorrhage, gastric ulcer (including multiple ulcers), duodenal ulcer, renal tubular disorder (Fanconi’s syndrome), and acute pancreatitis (with and without underlying biliary conditions).
+In the population of more than 5,000 patients with transfusional iron overload who have been treated with deferasirox during clinical trials, adverse reactions occurring in 0.1% to 1% of patients included gastritis, edema, sleep disorder, pigmentation disorder, dizziness, anxiety, maculopathy, cholelithiasis, pyrexia, fatigue, laryngeal pain, cataract, hearing loss, gastrointestinal hemorrhage, gastric ulcer (including multiple ulcers), duodenal ulcer, renal tubular disorder (Fanconi syndrome), and acute pancreatitis (with and without underlying biliary conditions).
 Adverse reactions occurring in 0.01% to 0.1% of patients included optic neuritis, esophagitis, erythema multiforme, and drug reaction with eosinophilia and systemic symptoms (DRESS).
 Adverse reactions which most frequently led to dose interruption or dose adjustment during clinical trials were rash, gastrointestinal disorders, infections, increased serum creatinine, and increased serum transaminases.
+
+Pooled Analysis of Pediatric Clinical Trial Data
+
+A nested case control analysis was conducted within a deferasirox pediatric pooled clinical trial dataset to evaluate the effects of dose and serum ferritin level, separately and combined, on kidney function.
+Among 1213 children (aged 2 to 15 years) with transfusion-dependent thalassemia, 162 cases of acute kidney injury (eGFR < 90 mL/min/1.73 m2) and 621 matched-controls with normal kidney function (eGFR > 120 mL/min/1.73 m2) were identified.
+The primary findings were:
+
+- A 26% increased risk of acute kidney injury was observed with each 5 mg/kg increase in daily Exjade dosage starting at 20 mg/kg/day (95% CI: 1.08-1.48).
+
+- A 25% increased risk for acute kidney injury was observed with each 250 mcg/L decrease in serum ferritin starting at 1250 mcg/L (95% CI: 1.01-1.56).
+
+- Among pediatric patients with a serum ferritin < 1000 mcg/L, those who received Exjade dosage > 30 mg/kg/day, compared to those who received lower dosages, had a higher risk for acute kidney injury (OR = 4.47, 95% CI: 1.25-15.95), consistent with overchelation.
+
+In addition, a cohort based analysis of adverse events was conducted in the deferasirox pediatric pooled clinical trial data.
+Pediatric patients who received Exjade dose > 25 mg/kg/day when their serum ferritin was < 1000 mcg/L (n = 158) had a 6-fold greater rate of renal adverse events (IRR = 6.00, 95% CI: 1.75-21.36) and a 2-fold greater rate of dose interruptions (IRR = 2.06, 95% CI: 1.33-3.17) compared to the time-period prior to meeting these simultaneous criteria.
+Adverse events of special interest (cytopenia, renal, hearing, and gastrointestinal disorders) occurred 1.9-fold more frequently when these simultaneous criteria were met, compared to preceding time-periods (IRR = 1.91, 95% CI: 1.05-3.48) [see Warnings and Precautions (5.6)].
 
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been spontaneously reported during post-approval use of deferasirox in the transfusional iron overload setting.
 Because these reactions are reported voluntarily from a population of uncertain size, in which patients may have received concomitant medication, it is not always possible to reliably estimate frequency or establish a causal relationship to drug exposure.
 
-Skin and subcutaneous tissue disorders: Stevens-Johnson syndrome (SJS), leukocytoclastic vasculitis, urticaria, alopecia, toxic epidermal necrolysis (TEN)
+Skin and Subcutaneous Tissue Disorders: Stevens-Johnson syndrome (SJS), leukocytoclastic vasculitis, urticaria, alopecia, toxic epidermal necrolysis (TEN)
 
-Immune system disorders: hypersensitivity reactions (including anaphylactic reaction and angioedema)
+Immune System Disorders: hypersensitivity reactions (including anaphylactic reaction and angioedema)
 
-Renal and urinary disorders: acute renal failure, tubulointerstitial nephritis
+Renal and Urinary Disorders: acute renal failure, tubulointerstitial nephritis
 
-Hepatobiliary disorders: hepatic failure
+Hepatobiliary Disorders: hepatic failure
 
-Gastrointestinal disorders: gastrointestinal perforation
+Gastrointestinal Disorders: gastrointestinal perforation
 
-Blood and lymphatic system disorders: worsening anemia
+Blood and Lymphatic System Disorders: worsening anemia
+
+5-Year Pediatric Registry
+
+In a 5-year observational study, 267 pediatric patients 2 to < 6 years of age (at enrollment) with transfusional hemosiderosis received deferasirox.
+Of the 242 patients who had pre- and post-baseline eGFR measurements, 116 (48%) patients had a decrease in eGFR of ≥ 33% observed at least once.
+Twenty-one (18%) of these 116 patients with decreased eGFR had a dose interruption, and 15 (13%) of these 116 patients had a dose decrease within 30 days.
+Adverse events leading to permanent discontinuation from the study included liver injury (n = 11), vomiting (n = 2), renal tubular disorder (n = 1), proteinuria (n = 1), hematuria (n = 1), upper gastrointestinal hemorrhage (n = 1), abdominal pain (n = 1), and hypokalemia (n = 1).

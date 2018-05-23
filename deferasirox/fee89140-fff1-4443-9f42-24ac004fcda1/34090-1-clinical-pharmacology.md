@@ -12,10 +12,12 @@ The clinical significance of these decreases is uncertain.
 Pharmacodynamic effects tested in an iron balance metabolic study with the tablet for oral suspension formulation showed that deferasirox (10, 20, and 40 mg per kg per day) was able to induce a mean net iron excretion (0.119, 0.329, and 0.445 mg Fe/kg body weight per day, respectively) within the clinically relevant range (0.1 to 0.5 mg per kg per day).
 Iron excretion was predominantly fecal.
 
+An analysis of pooled pediatric clinical trial data found a statistically significant relationship between exposure and the probability of renal toxicity (increase in serum creatinine and urinary protein), resulting in a decrease in renal function.
+Decreases in renal function resulted in an increase in deferasirox exposure which may increase the probability of renal toxicity.
+
 Cardiac Electrophysiology
 
-The effect of 20 and 40 mg per kg per day of deferasirox (tablets for oral suspension) on the QT interval was evaluated in a single-dose, double-blind, randomized, placebo- and active-controlled (moxifloxacin 400 mg), parallel group study in 182 healthy male and female subjects age 18 to 65 years.
-No evidence of prolongation of the QTc interval was observed in this study.
+At the maximum approved recommended dose, deferasirox does not prolong the QT interval to any clinically relevant extent.
 
 ## 12.3 Pharmacokinetics
 
@@ -79,7 +81,7 @@ Rifampicin: The concomitant administration of deferasirox tablets for oral suspe
 
 Cholestyramine: The concomitant administration of cholestyramine after a single dose of deferasirox tablets for oral suspension decreased deferasirox AUCinf by 45% [see Drug Interactions (7.6)].
 
-In vitro studies:
+In vitro Studies:
 
 Deferasirox inhibited human CYP2A6, CYP2D6, and CYP2C19 in vitro.
 
@@ -92,7 +94,7 @@ In children less than 6 years of age, systemic exposure was about 50% lower than
 
 Sex: The apparent clearance is 17.5% lower in females compared to males.
 
-Renal Impairment: Compared to patients with MDS and CLCr greater than 60 mL/min, patients with MDS and CLCr 40 to 60 mL/min (n = 34) had approximately 50% higher mean deferasirox trough plasma concentrations.
+Renal Impairment: Compared to patients with MDS and eGFR greater than 60 mL/min/1.73 m2, patients with MDS and eGFR 40 to 60 mL/min/1.73 m2 (n = 34) had approximately 50% higher mean deferasirox trough plasma concentrations.
 
 Hepatic Impairment: In a single dose (20 mg/kg) study in patients with varying degrees of hepatic impairment, deferasirox exposure was increased compared to patients with normal hepatic function.
 The average total (free and bound) AUCinf of deferasirox increased 16% in 6 patients with mild (Child-Pugh A) hepatic impairment, and 76% in 6 patients with moderate (Child-Pugh B) hepatic impairment compared to 6 patients with normal hepatic function.
