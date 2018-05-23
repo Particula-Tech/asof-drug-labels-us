@@ -5,67 +5,67 @@ In clinical trials, the following adverse reactions, which were considered to be
 
 ## Local Reactions
 
-pain, induration and tenderness was 1% overall.
+Pain, induration and tenderness was 1% overall.
 Phlebitis was reported in <1% after IV administration.
 The incidence of warmth, tightness or induration was 17% (3/17) after IM administration of 350 mg/mL and 5% (1/20) after IM administration of 250 mg/mL.
 
 ## General Disorders and Administration Site Conditions
 
-injection site pain (0.6%).
+Injection site pain (0.6%).
 
 ## Hypersensitivity
 
-rash (1.7%).
+Rash (1.7%).
 Less frequently reported (<1%) were pruritus, fever or chills.
 
 ## Infections and Infestations
 
-genital fungal infection (0.1%)
+Genital fungal infection (0.1%)
 
 ## Hematologic
 
-eosinophilia (6%), thrombocytosis (5.1%) and leukopenia (2.1%).
+Eosinophilia (6%), thrombocytosis (5.1%) and leukopenia (2.1%).
 Less frequently reported (<1%) were anemia, hemolytic anemia, neutropenia, lymphopenia, thrombocytopenia and prolongation of the prothrombin time.
 
 ## Blood and Lymphatic Disorders
 
-granulocytopenia (0.9%), coagulopathy (0.4%)
+Granulocytopenia (0.9%), coagulopathy (0.4%)
 
 ## Gastrointestinal
 
-diarrhea/loose stools (2.7%).
+Diarrhea/loose stools (2.7%).
 Less frequently reported (<1%) were nausea or vomiting, and dysgeusia.
-The onset of pseudomembranous colitis symptoms may occur during or after antibacterial treatment (see WARNINGS).
+The onset of pseudomembranous colitis symptoms may occur during or after antibacterial treatment (see Warnings).
 
 ## Hepatic
 
-elevations of aspartate aminotransferase (AST) (3.1%) or alanine aminotransferase (ALT) (3.3%).
+Elevations of aspartate aminotransferase (AST) (3.1%) or alanine aminotransferase (ALT) (3.3%).
 Less frequently reported (<1%) were elevations of alkaline phosphatase and bilirubin.
 
 ## Renal
 
-elevations of the BUN (1.2%).
+Elevations of the BUN (1.2%).
 Less frequently reported (<1%) were elevations of creatinine and the presence of casts in the urine.
 
 ## Central Nervous System
 
-headache or dizziness were reported occasionally (<1%).
+Headache or dizziness were reported occasionally (<1%).
 
 ## Genitourinary
 
-moniliasis or vaginitis were reported occasionally (<1%).
+Moniliasis or vaginitis were reported occasionally (<1%).
 
 ## Miscellaneous
 
-diaphoresis and flushing were reported occasionally (<1%).
+Diaphoresis and flushing were reported occasionally (<1%).
 
 ## Investigations
 
-blood creatinine increased (0.6%).
+Blood creatinine increased (0.6%).
 
 Other rarely observed adverse reactions (<0.1%) include abdominal pain, agranulocytosis, allergic pneumonitis, anaphylaxis, basophilia, biliary lithiasis, bronchospasm, colitis, dyspepsia, epistaxis, flatulence, gallbladder sludge, glycosuria, hematuria, jaundice, leukocytosis, lymphocytosis, monocytosis, nephrolithiasis, palpitations, a decrease in the prothrombin time, renal precipitations, seizures, and serum sickness.
 
-## Postmarketing Experience
+## Post marketing Experience
 
 In addition to the adverse reactions reported during clinical trials, the following adverse experiences have been reported during clinical practice in patients treated with ceftriaxone.
 Data are generally insufficient to allow an estimate of incidence or to establish causation.
@@ -77,27 +77,27 @@ There have been no similar reports in patients other than neonates.
 
 ### Gastrointestinal
 
-pancreatitis, stomatitis and glossitis.
+Pancreatitis, stomatitis and glossitis.
 
 ### Genitourinary
 
-oliguria, ureteric obstruction, post-renal acute renal failure.
+Oliguria, ureteric obstruction, post-renal acute renal failure.
 
 ### Dermatologic
 
-exanthema, allergic dermatitis, urticaria, edema; acute generalized exanthematous pustulosis (AGEP) and isolated cases of severe cutaneous adverse reactions (erythema multiforme, Stevens-Johnson syndrome or Lyell’s syndrome/toxic epidermal necrolysis) have been reported.
+Exanthema, allergic dermatitis, urticaria, edema; acute generalized exanthematous pustulosis (AGEP) and isolated cases of severe cutaneous adverse reactions (erythema multiforme, Stevens-Johnson syndrome or Lyell’s syndrome/toxic epidermal necrolysis) have been reported.
 
 ### Hematological Changes
 
-isolated cases of agranulocytosis (< 500/mm3) have been reported, most of them after 10 days of treatment and following total doses of 20 g or more.
+Isolated cases of agranulocytosis (< 500/mm3) have been reported, most of them after 10 days of treatment and following total doses of 20 g or more.
 
 ### Nervous System Disorders
 
-convulsion
+Convulsion
 
 ### Other, Adverse Reactions
 
-symptomatic precipitation of ceftriaxone calcium salt in the gallbladder, kernicterus, oliguria, and anaphylactic or anaphylactoid reactions.
+Symptomatic precipitation of ceftriaxone calcium salt in the gallbladder, kernicterus, oliguria, and anaphylactic or anaphylactoid reactions.
 
 ## Cephalosporin Class Adverse Reactions
 
@@ -109,8 +109,8 @@ Allergic reactions, drug fever, serum sickness-like reaction, renal dysfunction,
 
 ### Altered Laboratory Tests
 
-Positive direct Coombs’ test, false-positive test for urinary glucose, and elevated LDH (see PRECAUTIONS).
+Positive direct Coombs’ test, false-positive test for urinary glucose, and elevated LDH (see Precautions).
 
-Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment when the dosage was not reduced (see DOSAGE AND ADMINISTRATION).
+Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment when the dosage was not reduced (see Dosage and Administration).
 If seizures associated with drug therapy occur, the drug should be discontinued.
 Anticonvulsant therapy can be given if clinically indicated.

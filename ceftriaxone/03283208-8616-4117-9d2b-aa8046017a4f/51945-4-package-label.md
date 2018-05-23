@@ -1,71 +1,69 @@
 # 250 mg Label
 
-NDC 0409-7337-01
+NDC 0409-7337-11
 
-Single use Vial
+Ceftriaxone for
 
-Ceftriaxone
+Injection, USP
 
-for Injection, USP
+1. 250 mg Rx Only
 
-250 mg
+For I.M. or I.V.
+Use
 
-For I.M. or I.V. use
-
-Rx only
+Single-Dose Vial
 
 Hospira
 
 # 500 mg Label
 
-NDC 0409-7338-01
+NDC 0409-7338-11
 
-Single use Vial
+Ceftriaxone for
 
-Ceftriaxone
+Injection, USP
 
-for Injection, USP
+1. 500 mg Rx Only
 
-500 mg
+For I.M. or I.V.
+Use
 
-For I.M. or I.V. use
-
-Rx only
+Single-Dose Vial
 
 Hospira
 
 # 1 gram Label
 
-NDC 0409-7332-01
+NDC 0409-7332-11
 
-Single use Vial
+Ceftriaxone for
 
-Ceftriaxone
+Injection, USP
 
-for Injection, USP
+1. 1 gram Rx Only
 
-1 gram
+For I.M. or I.V.
+Use
 
-For I.M. or I.V. use
-
-Rx only
+Single-Dose Vial
 
 Hospira
 
-# 2 gram Label
+# Package/Label Display Panel
 
-NDC 0409-7335-03
+NDC 0409-7335-13
 
-Single use Vial
+Ceftriaxone for
 
-Ceftriaxone
-
-for Injection, USP
+Injection, USP
 
 2 grams
 
-For I.M. or I.V. use
+Rx Only
 
-Rx only
+For I.M. or I.V.
+Use
+
+Single-Dose Vial
 
 Hospira

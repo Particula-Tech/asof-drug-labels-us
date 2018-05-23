@@ -9,5 +9,6 @@ It has a calculated molecular weight of 661.60 and the following structural form
 Ceftriaxone sodium is a white to yellowish crystalline powder which is readily soluble in water, sparingly soluble in methanol and very slightly soluble in ethanol.
 The pH of a 1% aqueous solution is approximately 6.7.
 The color of ceftriaxone sodium solutions ranges from light yellow to amber, depending on the length of storage, concentration and diluent used.
+
 Each vial contains ceftriaxone sodium equivalent to 250 mg, 500 mg, 1 gram or 2 grams of ceftriaxone activity.
 Ceftriaxone sodium contains approximately 83 mg (3.6 mEq) of sodium per gram of ceftriaxone activity.

@@ -3,7 +3,7 @@
 Average plasma concentrations of ceftriaxone following a single 30-minute intravenous (IV) infusion of a 0.5, 1 or 2 g dose and intramuscular (IM) administration of a single 0.5 (250 mg/mL or 350 mg/mL concentrations) or 1 g dose in healthy subjects are presented in Table 1.
 
 Table 1.
-Ceftriaxone Plasma Concentrations After Single Dose Administration
+Ceftriaxone Plasma Concentrations after Single Dose Administration
 
 |  | Average Plasma Concentrations (mcg/mL) |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -22,7 +22,7 @@ Multiple IV or IM doses ranging from 0.5 to 2 g at 12- to 24-hour intervals resu
 Ceftriaxone concentrations in urine are shown in Table 2.
 
 Table 2.
-Urinary Concentrations of Ceftriaxone After Single Dose Administration
+Urinary Concentrations of Ceftriaxone after Single Dose Administration
 
 | Dose/Route | Average Urinary Concentrations (mcg/mL) |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -45,7 +45,7 @@ The average values of maximum plasma concentration, elimination half-life, plasm
 Ceftriaxone penetrated the inflamed meninges of infants and pediatric patients; CSF concentrations after a 50 mg/kg IV dose and after a 75 mg/kg IV dose are also shown in Table 3.
 
 Table 3.
-Average Pharmacokinetic Parameters of Ceftriaxone in Pediatric Patients With Meningitis
+Average Pharmacokinetic Parameters of Ceftriaxone in Pediatric Patients with Meningitis
 
 |  | 50 mg/kg IV | 75 mg/kg IV |
 | --- | --- | --- |
@@ -111,15 +111,15 @@ In an in vitro study antagonistic effects have been observed with the combinatio
 
 Ceftriaxone has been shown to be active against most isolates of the following bacteria, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE (1) section:
 
-- •Gram-negative bacteria Acinetobactercalcoaceticus Enterobacteraerogenes Enterobacter cloacae Escherichia coli Haemophilusinfluenzae Haemophilusparainfluenzae Klebsiellaoxytoca Klebsiellapneumoniae Moraxella catarrhalis Morganellamorganii Neisseria gonorrhoeae Neisseria meningitidis Proteus mirabilis Proteus vulgaris Pseudomonas aeruginosa Serratiamarcescens
+- •Gram-negative bacteria Acinetobacter calcoaceticus Enterobacter aerogenes Enterobacter cloacae Escherichia coli Haemophilus influenzae Haemophilus parainfluenzae Klebsiella oxytoca Klebsiella pneumoniae Moraxella catarrhalis Morganella morganii Neisseria gonorrhoeae Neisseria meningitidis Proteus mirabilis Proteus vulgaris Pseudomonas aeruginosa Serratia marcescens
 - •Gram-positive bacteria Staphylococcus aureus Staphylococcus epidermidis Streptococcus pneumoniae Streptococcus pyogenes Viridans group streptococci
-- •Anaerobic bacteria Bacteroidesfragilis Clostridium species Peptostreptococcus species
+- •Anaerobic bacteria Bacteroides fragilis Clostridium species Peptostreptococcus species
 
 The following in vitro data are available, but their clinical significance is unknown.
 At least 90 percent of the following microorganisms exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for ceftriaxone.
 However, the efficacy of ceftriaxone in treating clinical infections due to these microorganisms has not been established in adequate and well-controlled clinical trials.
 
-- •Gram-negative bacteria Citrobacterdiversus Citrobacterfreundii Providencia species (including Providenciarettgeri) Salmonella species (including Salmonella typhi) Shigella species
+- •Gram-negative bacteria Citrobacter diversus Citrobacter freundii Providencia species (including Providencia rettgeri) Salmonella species (including Salmonella typhi) Shigella species
 - •Gram-positive bacteria Streptococcus agalactiae
 - •Anaerobic bacteria Porphyromonas (Bacteroides) melaninogenicus Prevotella (Bacteroides) bivius
 
@@ -128,16 +128,22 @@ However, the efficacy of ceftriaxone in treating clinical infections due to thes
 When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drug products used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
 These reports should aid the physician in selecting an antibacterial drug product for treatment.
 
-Dilution techniques: Quantitative methods are used to determine antimicrobial minimal inhibitory concentrations (MICs).
+Dilution techniques
+
+Quantitative methods are used to determine antimicrobial minimal inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
 The MICs should be determined using a standardized test method.1,3 The MIC values should be interpreted according to criteria provided in Table 5.
 
-Diffusion techniques: Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
+Diffusion techniques
+
+Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
 The zone size should be determined using a standardized test method.2,3 This procedure uses paper disks impregnated with 30 mcg ceftriaxone to test the susceptibility of microorganisms to ceftriaxone.
 The disk diffusion interpretive criteria are provided in Table 5.
 
-Anaerobic techniques: For anaerobic bacteria, the susceptibility to ceftriaxone as MICs can be determined by a standardized agar test method.3,4 The MIC values obtained should be interpreted according to the criteria provided in Table 5.
+Anaerobic techniques
+
+For anaerobic bacteria, the susceptibility to ceftriaxone as MICs can be determined by a standardized agar test method.3,4 The MIC values obtained should be interpreted according to the criteria provided in Table 5.
 
 Table 5.
 Susceptibility Test Interpretive Criteria for Ceftriaxone.
@@ -146,7 +152,7 @@ Susceptibility Test Interpretive Criteria for Ceftriaxone.
 | --- | --- | --- | --- | --- | --- | --- |
 | (S)Susceptible | (I)Intermediate | (R)Resistant | (S)Susceptible | (I)Intermediate | (R)Resistant |  |
 | EnterobacteriaceaeSusceptibility interpretive criteria for Enterobacteriaceae are based on a dose of 1 gram IV q 24h. For isolates with intermediate susceptibility, use a dose of 2 grams IV q 24h in patients with normal renal function. | ≤ 1 | 2 | ≥ 4 | ≥ 23 | 20 to 22 | ≤ 19 |
-| Haemophilus influenzaeFor Haemophilus influenzae, susceptibility interpretive criteria are based on a dose of 2 grams IV every 24 hours in patients with normal renal function.,The current absence of data on resistant isolates precludes defining any category other than ‘Susceptible’. If isolates yield MIC results other than susceptible, they should be submitted to a reference laboratory for additional testing. | ≤ 2 | - | - | ≥ 26 | - | - |
+| Haemophilus influenzaeFor Haemophilus influenzae, susceptibility interpretive criteria are based on a dose of 2 grams IV every 24 hours in patients with normal renal function.The current absence of data on resistant isolates precludes defining any category other than ‘Susceptible’. If isolates yield MIC results other than susceptible, they should be submitted to a reference laboratory for additional testing. | ≤ 2 | - | - | ≥ 26 | - | - |
 | Neisseria gonorrhoeae | ≤ 0.25 | - | - | ≥ 35 | - | - |
 | Neisseria meningitidis | ≤ 0.12 | - | - | ≥ 34 | - | - |
 | Streptococcus pneumoniaeDisc diffusion interpretive criteria for ceftriaxone discs against Streptococcus pneumoniae are not available, however, isolates of pneumococci with oxacillin zone diameters of >20 mm are susceptible (MIC ≤ 0.06 mcg/mL) to penicillin and can be considered susceptible to ceftriaxone. Streptococcus pneumoniae isolates should not be reported as penicillin (ceftriaxone) resistant or intermediate based solely on an oxacillin zone diameter of ≤ 19 mm. The ceftriaxone MIC should be determined for those isolates with oxacillin zone diameters ≤ 19 mm. meningitis isolates | ≤ 0.5 | 1 | ≥ 2 | - | - | - |
@@ -163,7 +169,9 @@ This category implies possible clinical applicability in body sites where the dr
 This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
 A report of Resistant indicates that the antimicrobial drug is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentrations usually achievable at the infection site; other therapy should be selected.
 
-Quality Control: Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individual performing the test.1,2,3,4 Standard ceftriaxone powder should provide the following range of MIC values noted in Table 6.
+Quality Control
+
+Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individual performing the test.1,2,3,4 Standard ceftriaxone powder should provide the following range of MIC values noted in Table 6.
 For the diffusion technique using the 30 mcg disk, the criteria in Table 6 should be achieved.
 
 Table 6.
@@ -172,11 +180,11 @@ Acceptable Quality Control Ranges for Ceftriaxone
 | QC Strain | Minimum InhibitoryConcentrations(mcg/mL) | Disk DiffusionZone diameters(mm) |
 | --- | --- | --- |
 | Escherichia coli ATCC 25922 | 0.03 to 0.12 | 29 to 35 |
-| Staphylococcus aureus ATCC 25923 | ---------- | 22 to 28 |
-| Staphylococcus aureus ATCC 29213 | 1 to 8 | --------- |
-| Haemophilusinfluenzae ATCC 49247 | 0.06 to 0.25 | 31 to 39 |
+| Staphylococcus aureus ATCC 25923 | - | 22 to 28 |
+| Staphylococcus aureus ATCC 29213 | 1 to 8 | - |
+| Haemophilus influenzae ATCC 49247 | 0.06 to 0.25 | 31 to 39 |
 | Neisseria gonorrhoeae ATCC 49226 | 0.004 to 0.015 | 39 to 51 |
 | Pseudomonas aeruginosa ATCC 27853 | 8 to 64 | 17 to 23 |
 | Streptococcus pneumoniae ATCC 49619 | 0.03 to 0.12 | 30 to 35 |
-| Bacteroidesfragilis ATCC 25285 (agar method) | 32 to 128 | --------- |
-| Bacteroidesthetaiotaomicron ATCC 29741 (agar method) | 64 to 256 | --------- |
+| Bacteroides fragilis ATCC 25285 (agar method) | 32 to 128 | - |
+| Bacteroides thetaiotaomicron ATCC 29741 (agar method) | 64 to 256 | - |

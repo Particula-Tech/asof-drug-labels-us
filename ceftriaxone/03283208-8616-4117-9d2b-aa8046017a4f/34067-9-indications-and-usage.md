@@ -11,51 +11,52 @@ Ceftriaxone for injection, USP is indicated for the treatment of the following i
 
 ## Lower Respiratory Tract Infections
 
-caused by Streptococcus pneumoniae, Staphylococcus aureus, Haemophilusinfluenzae, Haemophilusparainfluenzae, Klebsiellapneumoniae, Escherichia coli, Enterobacteraerogenes, Proteus mirabilis or Serratiamarcescens.
+Caused by Streptococcus pneumoniae, Staphylococcus aureus, Haemophilus influenzae, Haemophilus parainfluenzae, Klebsiella pneumoniae, Escherichia coli, Enterobacter aerogenes, Proteus mirabilis or Serratia marcescens.
 
 ## Acute Bacterial Otitis Media
 
-caused by Streptococcus pneumoniae, Haemophilusinfluenzae (including beta-lactamase producing strains) or Moraxella catarrhalis (including beta-lactamase producing strains).
+Caused by Streptococcus pneumoniae, Haemophilus influenzae (including beta-lactamase producing strains) or Moraxella catarrhalis (including beta-lactamase producing strains).
 
 NOTE: In one study lower clinical cure rates were observed with a single dose of ceftriaxone compared to 10 days of oral therapy.
 In a second study comparable cure rates were observed between single dose ceftriaxone and the comparator.
-The potentially lower clinical cure rate of ceftriaxone should be balanced against the potential advantages of parenteral therapy (see CLINICAL STUDIES).
+The potentially lower clinical cure rate of ceftriaxone should be balanced against the potential advantages of parenteral therapy (see Clinical Studies).
 
 ## Skin and Skin Structure Infections
 
-caused by Staphylococcus aureus, Staphylococcus epidermidis, Streptococcus pyogenes, Viridans group streptococci, Escherichia coli, Enterobacter cloacae, Klebsiellaoxytoca, Klebsiellapneumoniae, Proteus mirabilis, Morganellamorganii,Efficacy for this organism in this organ system was studied in fewer than ten infections.
-Pseudomonas aeruginosa, Serratiamarcescens, Acinetobactercalcoaceticus, BacteroidesfragilisEfficacy for this organism in this organ system was studied in fewer than ten infections. or Peptostreptococcus species.
+Caused by Staphylococcus aureus, Staphylococcus epidermidis, Streptococcus pyogenes, Viridans group streptococci, Escherichia coli, Enterobacter cloacae, Klebsiella oxytoca, Klebsiella pneumoniae, Proteus mirabilis, Morganella morganii*, Pseudomonas aeruginosa, Serratia marcescens, Acinetobacter calcoaceticus, Bacteroides fragilis* or Peptostreptococcus species.
 
 ## Urinary Tract Infections (complicated and uncomplicated)
 
-caused by Escherichia coli, Proteus mirabilis, Proteus vulgaris, Morganellamorganii or Klebsiellapneumoniae.
+Caused by Escherichia coli, Proteus mirabilis, Proteus vulgaris, Morganella morganii or Klebsiella pneumoniae.
 
 ## Uncomplicated Gonorrhea (cervical/urethral and rectal)
 
-caused by Neisseria gonorrhoeae, including both penicillinase- and nonpenicillinase-producing strains, and pharyngeal gonorrhea caused by nonpenicillinase-producing strains of Neisseria gonorrhoeae.
+Caused by Neisseria gonorrhoeae, including both penicillinase- and nonpenicillinase-producing strains, and pharyngeal gonorrhea caused by nonpenicillinase-producing strains of Neisseria gonorrhoeae.
 
 ## Pelvic Inflammatory Disease
 
-caused by Neisseria gonorrhoeae.
+Caused by Neisseria gonorrhoeae.
 Ceftriaxone sodium, like other cephalosporins, has no activity against Chlamydia trachomatis.
 Therefore, when cephalosporins are used in the treatment of patients with pelvic inflammatory disease and Chlamydia trachomatis is one of the suspected pathogens, appropriate antichlamydial coverage should be added.
 
 ## Bacterial Septicemia
 
-caused by Staphylococcus aureus, Streptococcus pneumoniae, Escherichia coli, Haemophilusinfluenzae or Klebsiellapneumoniae.
+Caused by Staphylococcus aureus, Streptococcus pneumoniae, Escherichia coli, Haemophilus influenzae or Klebsiella pneumoniae.
 
 ## Bone and Joint Infections
 
-caused by Staphylococcus aureus, Streptococcus pneumoniae, Escherichia coli, Proteus mirabilis, Klebsiellapneumoniae or Enterobacter species.
+Caused by Staphylococcus aureus, Streptococcus pneumoniae, Escherichia coli, Proteus mirabilis, Klebsiella pneumoniae or Enterobacter species.
 
 ## Intra-abdominal Infections
 
-caused by Escherichia coli, Klebsiellapneumoniae, Bacteroidesfragilis, Clostridium species (Note: most strains of Clostridium difficile are resistant) or Peptostreptococcus species.
+Caused by Escherichia coli, Klebsiella pneumoniae, Bacteroides fragilis, Clostridium species (Note: most strains of Clostridium difficile are resistant) or Peptostreptococcus species.
 
 ## Meningitis
 
-caused by Haemophilusinfluenzae, Neisseria meningitidis or Streptococcus pneumoniae.
-Ceftriaxone has also been used successfully in a limited number of cases of meningitis and shunt infection caused by Staphylococcus epidermidisEfficacy for this organism in this organ system was studied in fewer than ten infections. and Escherichia coli.Efficacy for this organism in this organ system was studied in fewer than ten infections.
+Caused by Haemophilus influenzae, Neisseria meningitidis or Streptococcus pneumoniae.
+Ceftriaxone has also been used successfully in a limited number of cases of meningitis and shunt infection caused by Staphylococcus epidermidis* and Escherichia coli*.
+
+*Efficacy for this organism in this organ system was studied in fewer than ten infections.
 
 ## Surgical Prophylaxis
 

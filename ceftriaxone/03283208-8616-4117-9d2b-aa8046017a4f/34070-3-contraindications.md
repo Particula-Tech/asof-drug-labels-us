@@ -3,7 +3,7 @@
 ## Hypersensitivity
 
 Ceftriaxone for injection is contraindicated in patients with known hypersensitivity to ceftriaxone, any of its excipients or to any other cephalosporin.
-Patients with previous hypersensitivity reactions to penicillin and other beta lactam antibacterial agents may be at greater risk of hypersensitivity to ceftriaxone (see WARNINGS – Hypersensitivity Reactions).
+Patients with previous hypersensitivity reactions to penicillin and other beta lactam antibacterial agents may be at greater risk of hypersensitivity to ceftriaxone (see Warnings – Hypersensitivity).
 
 ## Neonates
 
@@ -14,7 +14,7 @@ Ceftriaxone can displace bilirubin from its binding to serum albumin, leading to
 
 ## Neonates Requiring Calcium Containing IV Solutions
 
-Ceftriaxone for injection is contraindicated in neonates (≤ 28 days) if they require (or are expected to require) treatment with calcium-containing IV solutions, including continuous calcium-containing infusions such as parenteral nutrition because of the risk of precipitation of ceftriaxone-calcium (see CLINICAL PHARMACOLOGY, WARNINGS and DOSAGE AND ADMINISTRATION).
+Ceftriaxone for injection is contraindicated in neonates (≤ 28 days) if they require (or are expected to require) treatment with calcium-containing IV solutions, including continuous calcium-containing infusions such as parenteral nutrition because of the risk of precipitation of ceftriaxone-calcium (see Clinical Pharmacology, Warnings and Dosage and Administration).
 
 Cases of fatal outcomes in which a crystalline material was observed in the lungs and kidneys at autopsy have been reported in neonates receiving ceftriaxone for injection and calcium-containing fluids.
 

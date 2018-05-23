@@ -1,6 +1,6 @@
 # CLINICAL STUDIES
 
-## Clinical Trials in Pediatric Patients With Acute Bacterial Otitis Media
+## Clinical Trials in Pediatric Patients with Acute Bacterial Otitis Media
 
 In two adequate and well-controlled US clinical trials a single IM dose of ceftriaxone was compared with a 10 day course of oral antibiotic in pediatric patients between the ages of 3 months and 6 years.
 The clinical cure rates and statistical outcome appear in the table below:
@@ -30,5 +30,5 @@ Bacteriologic Eradication Rates by Pathogen
 | --- | --- | --- | --- | --- |
 | No.Analyzed | No. Erad.(%) | No.Analyzed | No. Erad.(%) |  |
 | Streptococcus pneumoniae | 38 | 32 (84) | 35 | 25 (71) |
-| Haemophilusinfluenzae | 33 | 28 (85) | 31 | 22 (71) |
+| Haemophilus influenzae | 33 | 28 (85) | 31 | 22 (71) |
 | Moraxella catarrhalis | 15 | 12 (80) | 15 | 9 (60) |
