@@ -29,10 +29,10 @@ Immune System
 
 Effects on Immune Cell Numbers in the Blood
 
-In a study in which 12 subjects received GILENYA 0.5 mg daily, the lymphocyte count decreased to approximately 60% of baseline within 4 to 6 hours after the first dose.
+In a study in which 12 adult subjects received GILENYA 0.5 mg daily, the lymphocyte count decreased to approximately 60% of baseline within 4 to 6 hours after the first dose.
 With continued daily dosing, the lymphocyte count continued to decrease over a 2-week period, reaching a nadir count of approximately 500 cells/mcL or approximately 30% of baseline.
-In a placebo-controlled study in 1272 MS patients (of whom 425 received fingolimod 0.5 mg daily and 418 received placebo), 18% (N=78) of patients on fingolimod 0.5 mg reached a nadir of <200 cells/mcL on at least 1 occasion.
-No patient on placebo reached a nadir of <200 cells/mcL.
+In a placebo-controlled study in 1272 MS patients (of whom 425 received fingolimod 0.5 mg daily and 418 received placebo), 18% (N = 78) of patients on fingolimod 0.5 mg reached a nadir of < 200 cells/mcL on at least 1 occasion.
+No patient on placebo reached a nadir of < 200 cells/mcL.
 Low lymphocyte counts are maintained with chronic daily dosing of GILENYA 0.5 mg daily.
 
 Chronic fingolimod dosing leads to a mild decrease in the neutrophil count to approximately 80% of baseline.
@@ -44,24 +44,24 @@ Effect on Antibody Response
 
 GILENYA reduces the immune response to vaccination, as evaluated in 2 studies.
 
-In the first study, the immunogenicity of keyhole limpet hemocyanin (KLH) and pneumococcal polysaccharide vaccine (PPV-23) immunization were assessed by IgM and IgG titers in a steady-state, randomized, placebo-controlled study in healthy volunteers.
+In the first study, the immunogenicity of keyhole limpet hemocyanin (KLH) and pneumococcal polysaccharide vaccine (PPV-23) immunization were assessed by IgM and IgG titers in a steady-state, randomized, placebo-controlled study in healthy adult volunteers.
 Compared to placebo, antigen-specific IgM titers were decreased by 91% and 25% in response to KLH and PPV-23, respectively, in subjects on GILENYA 0.5 mg.
 Similarly, IgG titers were decreased by 45% and 50%, in response to KLH and PPV-23, respectively, in subjects on GILENYA 0.5 mg daily compared to placebo.
-The responder rate for GILENYA 0.5 mg as measured by the number of subjects with a >4-fold increase in KLH IgG was comparable to placebo and 25% lower for PPV-23 IgG, while the number of subjects with a >4 fold increase in KLH and PPV-23 IgM was 75% and 40% lower, respectively, compared to placebo.
+The responder rate for GILENYA 0.5 mg as measured by the number of subjects with a > 4-fold increase in KLH IgG was comparable to placebo and 25% lower for PPV-23 IgG, while the number of subjects with a >4 fold increase in KLH and PPV-23 IgM was 75% and 40% lower, respectively, compared to placebo.
 The capacity to mount a skin delayed-type hypersensitivity reaction to Candida and tetanus toxoid was decreased by approximately 30% in subjects on GILENYA 0.5 mg daily, compared to placebo.
 Immunologic responses were further decreased with fingolimod 1.25 mg (a dose higher than recommended in MS) [see Warnings and Precautions (5.2)].
 
-In the second study, the immunogenicity of Northern hemisphere seasonal influenza and tetanus toxoid vaccination was assessed in a 12-week steady-state, randomized, placebo-controlled study of GILENYA 0.5 mg in multiple sclerosis patients (n=136).
-The responder rate 3 weeks after vaccination, defined as seroconversion or a ≥4-fold increase in antibody directed against at least 1 of the 3 influenza strains, was 54% for GILENYA 0.5 mg and 85% in the placebo group.
-The responder rate 3 weeks after vaccination, defined as seroconversion or a ≥4-fold increase in antibody directed against tetanus toxoid was 40% for GILENYA 0.5 mg and 61% in the placebo group.
+In the second study, the immunogenicity of Northern hemisphere seasonal influenza and tetanus toxoid vaccination was assessed in a 12-week steady-state, randomized, placebo-controlled study of GILENYA 0.5 mg in adult multiple sclerosis patients (n = 136).
+The responder rate 3 weeks after vaccination, defined as seroconversion or a ≥ 4-fold increase in antibody directed against at least 1 of the 3 influenza strains, was 54% for GILENYA 0.5 mg and 85% in the placebo group.
+The responder rate 3 weeks after vaccination, defined as seroconversion or a ≥ 4-fold increase in antibody directed against tetanus toxoid was 40% for GILENYA 0.5 mg and 61% in the placebo group.
 
 Pulmonary Function
 
-Single fingolimod doses ≥5 mg (10-fold the recommended dose) are associated with a dose-dependent increase in airway resistance.
+Single fingolimod doses ≥ 5 mg (10-fold the recommended dose) are associated with a dose-dependent increase in airway resistance.
 In a 14-day study of 0.5, 1.25, or 5 mg/day, fingolimod was not associated with impaired oxygenation or oxygen desaturation with exercise or an increase in airway responsiveness to methacholine.
 Subjects on fingolimod treatment had a normal bronchodilator response to inhaled beta-agonists.
 
-In a 14-day placebo-controlled study of patients with moderate asthma, no effect was seen for GILENYA 0.5 mg (recommended dose in MS). A 10% reduction in mean FEV1 at 6 hours after dosing was observed in patients receiving fingolimod 1.25 mg (a dose higher than recommended for use in MS) on Day 10 of treatment.
+In a 14-day placebo-controlled study of adult patients with moderate asthma, no effect was seen for GILENYA 0.5 mg (recommended dose in MS). A 10% reduction in mean FEV1 at 6 hours after dosing was observed in adult patients receiving fingolimod 1.25 mg (a dose higher than recommended for use in MS) on Day 10 of treatment.
 Fingolimod 1.25 mg was associated with a 5-fold increase in the use of rescue short acting beta-agonists.
 
 ## 12.3 Pharmacokinetics
@@ -71,16 +71,16 @@ Absorption
 The Tmax of fingolimod is 12-16 hours.
 The apparent absolute oral bioavailability is 93%.
 
-Food intake does not alter Cmax or exposure (AUC) of fingolimod or fingolimod-phosphate.
-Therefore GILENYA may be taken without regard to meals.
+Food intake does not alter Cmax or exposure area under the curve (AUC) of fingolimod or fingolimod-phosphate.
+Therefore, GILENYA may be taken without regard to meals.
 
 Steady-state blood concentrations are reached within 1 to 2 months following once-daily administration and steady-state levels are approximately 10-fold greater than with the initial dose.
 
 Distribution
 
 Fingolimod highly (86%) distributes in red blood cells.
-Fingolimod-phosphate has a smaller uptake in blood cells of <17%.
-Fingolimod and fingolimod-phosphate are >99.7% protein bound.
+Fingolimod-phosphate has a smaller uptake in blood cells of < 17%.
+Fingolimod and fingolimod-phosphate are > 99.7% protein bound.
 Fingolimod and fingolimod-phosphate protein binding is not altered by renal or hepatic impairment.
 
 Fingolimod is extensively distributed to body tissues with a volume of distribution of about 1200±260 L.
@@ -104,6 +104,10 @@ Fingolimod and fingolimod-phosphate are not excreted intact in urine but are the
 
 Specific Populations
 
+Pediatric Patients
+
+The median fingolimod-phosphate (fingolimod-P) concentration in pediatric MS patients aged 10 to less than 18 years was 1.10 ng/mL, as compared to 1.35 ng/mL in adult MS patients.
+
 Geriatric Patients
 
 The mechanism for elimination and results from population pharmacokinetics suggest that dose adjustment would not be necessary in elderly patients.
@@ -119,8 +123,9 @@ The effects of race on fingolimod and fingolimod-phosphate pharmacokinetics cann
 
 Renal Impairment
 
-In patients with severe renal impairment, fingolimod Cmax and AUC are increased by 32% and 43%, respectively, and fingolimod-phosphate Cmax and AUC are increased by 25% and 14%, respectively, with no change in apparent elimination half-life.
-Based on these findings, the GILENYA 0.5 mg dose is appropriate for use in patients with renal impairment.
+In adult patients with severe renal impairment, fingolimod Cmax and AUC are increased by 32% and 43%, respectively, and fingolimod-phosphate Cmax and AUC are increased by 25% and 14%, respectively, with no change in apparent elimination half-life.
+Based on these findings, the GILENYA 0.5 mg dose is appropriate for use in adult patients with renal impairment.
+GILENYA 0.25 mg and 0.5 mg are appropriate for use in pediatric patients with renal impairment.
 The systemic exposure of 2 metabolites (M2 and M3) is increased by 3- and 13-fold, respectively.
 The toxicity of these metabolites has not been fully characterized.
 
@@ -162,7 +167,7 @@ Potential of Fingolimod and Fingolimod-phosphate to Induce its Own and/or the Me
 Fingolimod was examined for its potential to induce human CYP3A4, CYP1A2, CYP4F2, and MDR1 (P-glycoprotein) mRNA and CYP3A, CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, and CYP4F2 activity in primary human hepatocytes.
 Fingolimod did not induce mRNA or activity of the different CYP enzymes and MDR1 with respect to the vehicle control; therefore, no clinically relevant induction of the tested CYP enzymes or MDR1 by fingolimod are expected at therapeutic concentrations.
 Fingolimod-phosphate was also examined for its potential to induce mRNA and/or activity of human CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP3A, CYP4F2, CYP4F3B, and CYP4F12.
-Fingolimod-phosphate is not expected to have clinically significant induction effects on these enzymes at therapeutic dose of fingolimod.
+Fingolimod-phosphate is not expected to have clinically significant induction effects on these enzymes at therapeutic doses of fingolimod.
 In vitro experiments did not provide an indication of CYP induction by fingolimod-phosphate.
 
 Transporters
@@ -190,4 +195,4 @@ Likewise, the single-dose pharmacokinetics of fingolimod and fingolimod-phosphat
 Population Pharmacokinetics Analysis
 
 A population pharmacokinetics evaluation performed in MS patients did not provide evidence for a significant effect of fluoxetine and paroxetine (strong CYP2D6 inhibitors) on fingolimod or fingolimod-phosphate predose concentrations.
-In addition, the following commonly coprescribed substances had no clinically relevant effect (<20%) on fingolimod or fingolimod-phosphate predose concentrations: baclofen, gabapentin, oxybutynin, amantadine, modafinil, amitriptyline, pregabalin, and corticosteroids.
+In addition, the following commonly coprescribed substances had no clinically relevant effect (< 20%) on fingolimod or fingolimod-phosphate predose concentrations: baclofen, gabapentin, oxybutynin, amantadine, modafinil, amitriptyline, pregabalin, and corticosteroids.

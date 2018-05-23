@@ -5,7 +5,7 @@
 Oral carcinogenicity studies of fingolimod were conducted in mice and rats.
 In mice, fingolimod was administered at oral doses of 0, 0.025, 0.25, and 2.5 mg/kg/day for up to 2 years.
 The incidence of malignant lymphoma was increased in males and females at the mid and high dose.
-The lowest dose tested (0.025 mg/kg/day) is less than the recommended human dose (RHD) of 0.5 mg/day on a body surface area (mg/m2) basis.
+The lowest dose tested (0.025 mg/kg/day) is less than the RHD of 0.5 mg/day on a body surface area (mg/m2) basis.
 In rats, fingolimod was administered at oral doses of 0, 0.05, 0.15, 0.5, and 2.5 mg/kg/day.
 No increase in tumors was observed.
 The highest dose tested (2.5 mg/kg/day) is approximately 50 times the RHD on a mg/m2 basis.

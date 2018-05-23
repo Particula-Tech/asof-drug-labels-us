@@ -2,7 +2,7 @@
 
 ## 5.1 Bradyarrhythmia and Atrioventricular Blocks
 
-Because of a risk for bradyarrhythmia and atrioventricular (AV) blocks, patients should be monitored during GILENYA treatment initiation [see Dosage and Administration (2.2)].
+Because of a risk for bradyarrhythmia and AV blocks, patients should be monitored during GILENYA treatment initiation [see Dosage and Administration (2.4)].
 
 Reduction in Heart Rate
 
@@ -10,18 +10,25 @@ After the first dose of GILENYA, the heart rate decrease starts within an hour.
 On Day 1, the maximum decline in heart rate generally occurs within 6 hours and recovers, although not to baseline levels, by 8 to 10 hours postdose.
 Because of physiological diurnal variation, there is a second period of heart rate decrease within 24 hours after the first dose.
 In some patients, heart rate decrease during the second period is more pronounced than the decrease observed in the first 6 hours.
-Heart rates below 40 beats per minute were rarely observed.
-In controlled clinical trials, adverse reactions of symptomatic bradycardia following the first dose were reported in 0.6% of patients receiving GILENYA 0.5 mg and in 0.1% of patients on placebo.
+Heart rates below 40 beats per minute (bpm) in adults, and below 50 bpm in pediatric patients occurred rarely.
+In controlled clinical trials in adult patients, adverse reactions of symptomatic bradycardia following the first dose were reported in 0.6% of patients receiving GILENYA 0.5 mg and in 0.1% of patients on placebo.
 Patients who experienced bradycardia were generally asymptomatic, but some patients experienced hypotension, dizziness, fatigue, palpitations, and/or chest pain that usually resolved within the first 24 hours on treatment.
+
+Patients with some preexisting conditions (e.g., ischemic heart disease, history of myocardial infarction, congestive heart failure, history of cardiac arrest, cerebrovascular disease, uncontrolled hypertension, history of symptomatic bradycardia, history of recurrent syncope, severe untreated sleep apnea, AV block, sinoatrial heart block) may poorly tolerate the GILENYA-induced bradycardia, or experience serious rhythm disturbances after the first dose of GILENYA.
+Prior to treatment with GILENYA, these patients should have a cardiac evaluation by a physician appropriately trained to conduct such evaluation, and, if treated with GILENYA, should be monitored overnight with continuous ECG in a medical facility after the first dose.
+
+Since initiation of GILENYA treatment, results in decreased heart rate and may prolong the QT interval, patients with a prolonged QTc interval (> 450 msec adult and pediatric males, > 470 msec adult females, or > 460 msec pediatric females) before dosing or during 6 hour observation, or at additional risk for QT prolongation (e.g., hypokalemia, hypomagnesemia, congenital long-QT syndrome), or on concurrent therapy with QT prolonging drugs with a known risk of torsades de pointes (e.g., citalopram, chlorpromazine, haloperidol, methadone, erythromycin) should be monitored overnight with continuous ECG in a medical facility
 
 Following the second dose, a further decrease in heart rate may occur when compared to the heart rate prior to the second dose, but this change is of a smaller magnitude than that observed following the first dose.
 With continued dosing, the heart rate returns to baseline within 1 month of chronic treatment.
+Clinical data indicate effects of GILENYA on heart rate are maximal after the first dose although milder effects on heart rate may persist for, on average, 2 to 4 weeks after initiation of therapy at which time heart rate generally returns to baseline.
+Physicians should continue to be alert to patient reports of cardiac symptoms.
 
 Atrioventricular Blocks
 
 Initiation of GILENYA treatment has resulted in transient AV conduction delays.
-In controlled clinical trials, first-degree AV block after the first dose occurred in 4.7% of patients receiving GILENYA and 1.6% of patients on placebo.
-In a study of 697 patients with available 24-hour Holter monitoring data after their first dose (N=351 receiving GILENYA and N=346 on placebo), second-degree AV blocks (Mobitz Types I [Wenckebach] or 2:1 AV blocks) occurred in 4% (N=14) of patients receiving GILENYA and 2% (N=7) of patients on placebo.
+In controlled clinical trials in adult patients, first-degree AV block after the first dose occurred in 4.7% of patients receiving GILENYA and 1.6% of patients on placebo.
+In a study of 697 patients with available 24-hour Holter monitoring data after their first dose (N = 351 receiving GILENYA and N = 346 on placebo), second-degree AV blocks (Mobitz Types I [Wenckebach] or 2:1 AV blocks) occurred in 4% (N = 14) of patients receiving GILENYA and 2% (N = 7) of patients on placebo.
 Of the 14 patients receiving GILENYA, 7 patients had 2:1 AV block (5 patients within the first 6 hours postdose and 2 patients after 6 hours postdose).
 All second degree AV blocks on placebo were Mobitz Type I and occurred after the first 12 hours postdose.
 The conduction abnormalities were usually transient and asymptomatic, and resolved within the first 24 hours on treatment, but they occasionally required treatment with atropine or isoproterenol.
@@ -47,7 +54,7 @@ Because the elimination of fingolimod after discontinuation may take up to 2 mon
 Instruct patients receiving GILENYA to report symptoms of infections to a physician.
 Patients with active acute or chronic infections should not start treatment until the infection(s) is resolved.
 
-In MS placebo-controlled trials, the overall rate of infections (72%) with GILENYA was similar to placebo.
+In MS placebo-controlled trials in adult patients, the overall rate of infections (72%) with GILENYA was similar to placebo.
 However, bronchitis, herpes zoster, influenza, sinusitis, and pneumonia were more common in GILENYA-treated patients.
 Serious infections occurred at a rate of 2.3% in the GILENYA group versus 1.6% in the placebo group.
 
@@ -56,10 +63,10 @@ Patients with symptoms and signs consistent with any of these infections should 
 
 Herpes Viral Infections
 
-In placebo-controlled trials, the rate of herpetic infections was 9% in patients receiving GILENYA 0.5 mg and 7% on placebo.
+In placebo-controlled trials in adult patients, the rate of herpetic infections was 9% in patients receiving GILENYA 0.5 mg and 7% on placebo.
 
 Two patients died of herpetic infections during controlled trials.
-One death was due to disseminated primary herpes zoster and the other to herpes simplex encephalitis.
+One death was due to disseminated primary herpes zoster and the other was to herpes simplex encephalitis.
 In both cases, the patients were taking a 1.25 mg dose of fingolimod (higher than the recommended 0.5 mg dose) and had received high-dose corticosteroid therapy to treat suspected MS relapses.
 
 Serious, life-threatening events of disseminated varicella zoster and herpes simplex infections, including cases of encephalitis and multiorgan failure, have occurred with GILENYA in the postmarketing setting.
@@ -69,7 +76,7 @@ Cases of Kaposi’s sarcoma have been reported in the postmarketing setting.
 Kaposi’s sarcoma is an angioproliferative disorder that is associated with infection with human herpes virus 8 (HHV-8).
 Patients with symptoms or signs consistent with Kaposi’s sarcoma should be referred for prompt diagnostic evaluation and management.
 
-Cryptococcal infections
+Cryptococcal Infections
 
 Cryptococcal infections, including cases of fatal cryptococcal meningitis and disseminated cryptococcal infections, have been reported with GILENYA in the postmarketing setting.
 Cryptococcal infections have generally occurred after approximately 2 years of GILENYA treatment, but may occur earlier.
@@ -82,10 +89,10 @@ In clinical studies, patients who received GILENYA did not receive concomitant t
 
 When switching to GILENYA from immune-modulating or immunosuppressive medications, consider the duration of their effects and their mode of action to avoid unintended additive immunosuppressive effects.
 
-Varicella Zoster Virus Antibody Testing/Vaccination
+VZV Antibody Testing/Vaccination
 
-Patients without a healthcare professional confirmed history of chickenpox or without documentation of a full course of vaccination against varicella zoster virus (VZV) should be tested for antibodies to VZV before initiating GILENYA.
-VZV vaccination of antibody-negative patients is recommended prior to commencing treatment with GILENYA, following which initiation of treatment with GILENYA should be postponed for 1 month to allow the full effect of vaccination to occur.
+Patients without a healthcare professional confirmed history of chickenpox or without documentation of a full course of vaccination against VZV should be tested for antibodies to VZV before initiating GILENYA.
+VZV vaccination of antibody-negative patients is recommended prior to commencing treatment with GILENYA, following which initiation of treatment with GILENYA should be postponed for 1 month to allow the full effect of vaccination to occur [see Drug Interactions (7.3), Use in Specific Populations (8.4)].
 
 ## 5.3 Progressive Multifocal Leukoencephalopathy
 
@@ -108,11 +115,11 @@ It is not known whether these differences are due to early detection and discont
 ## 5.4 Macular Edema
 
 Fingolimod increases the risk of macular edema.
-Perform an examination of the fundus including the macula in all patients before starting treatment, again 3–4 months after starting treatment, and again at any time after a patient reports visual disturbances while on GILENYA therapy.
+Perform an examination of the fundus including the macula in all patients before starting treatment, again 3 to 4 months after starting treatment, and again at any time after a patient reports visual disturbances while on GILENYA therapy.
 
 A dose-dependent increase in the risk of macular edema occurred in the GILENYA clinical development program.
 
-In 2-year, double-blind, placebo-controlled studies in patients with multiple sclerosis, macular edema with or without visual symptoms occurred in 1.5% of patients (11/799) treated with fingolimod 1.25 mg, 0.5% of patients (4/783) treated with GILENYA 0.5 mg and 0.4% of patients (3/773) treated with placebo.
+In 2-year, double-blind, placebo-controlled studies in adult patients with multiple sclerosis, macular edema with or without visual symptoms occurred in 1.5% of patients (11/799) treated with fingolimod 1.25 mg, 0.5% of patients (4/783) treated with GILENYA 0.5 mg and 0.4% of patients (3/773) treated with placebo.
 Macular edema occurred predominantly during the first 3 to 4 months of therapy.
 These clinical trials excluded patients with diabetes mellitus, a known risk factor for macular edema (see below Macular Edema in Patients with History of Uveitis or Diabetes Mellitus).
 Symptoms of macular edema included blurred vision and decreased visual acuity.
@@ -129,13 +136,13 @@ Macular Edema in Patients with History of Uveitis or Diabetes Mellitus
 
 Patients with a history of uveitis and patients with diabetes mellitus are at increased risk of macular edema during GILENYA therapy.
 The incidence of macular edema is also increased in MS patients with a history of uveitis.
-In the combined clinical trial experience with all doses of fingolimod, the rate of macular edema was approximately 20% in MS patients with a history of uveitis versus 0.6% in those without a history of uveitis.
+In the combined clinical trial experience in adult patients with all doses of fingolimod, the rate of macular edema was approximately 20% in MS patients with a history of uveitis versus 0.6% in those without a history of uveitis.
 GILENYA has not been tested in MS patients with diabetes mellitus.
 In addition to the examination of the fundus including the macula prior to treatment and at 3–4 months after starting treatment, MS patients with diabetes mellitus or a history of uveitis should have regular follow-up examinations.
 
 ## 5.5 Posterior Reversible Encephalopathy Syndrome
 
-There have been rare cases of posterior reversible encephalopathy syndrome (PRES) reported in patients receiving GILENYA.
+There have been rare cases of posterior reversible encephalopathy syndrome (PRES) reported in adult patients receiving GILENYA.
 Symptoms reported included sudden onset of severe headache, altered mental status, visual disturbances, and seizure.
 Symptoms of PRES are usually reversible but may evolve into ischemic stroke or cerebral hemorrhage.
 Delay in diagnosis and treatment may lead to permanent neurological sequelae.
@@ -144,11 +151,11 @@ If PRES is suspected, GILENYA should be discontinued.
 ## 5.6 Respiratory Effects
 
 Dose-dependent reductions in forced expiratory volume over 1 second (FEV1) and diffusion lung capacity for carbon monoxide (DLCO) were observed in patients treated with GILENYA as early as 1 month after treatment initiation.
-In 2-year placebo-controlled trials, the reduction from baseline in the percent of predicted values for FEV1 at the time of last assessment on drug was 2.8% for GILENYA 0.5 mg and 1.0% for placebo.
+In 2-year placebo-controlled trials in adult patients, the reduction from baseline in the percent of predicted values for FEV1 at the time of last assessment on drug was 2.8% for GILENYA 0.5 mg and 1.0% for placebo.
 For DLCO, the reduction from baseline in percent of predicted values at the time of last assessment on drug was 3.3% for GILENYA 0.5 mg and 0.5% for placebo.
 The changes in FEV1 appear to be reversible after treatment discontinuation.
 There is insufficient information to determine the reversibility of the decrease of DLCO after drug discontinuation.
-In MS placebo-controlled trials, dyspnea was reported in 9% of patients receiving GILENYA 0.5 mg and 7% of patients receiving placebo.
+In MS placebo-controlled trials in adult patients, dyspnea was reported in 9% of patients receiving GILENYA 0.5 mg and 7% of patients receiving placebo.
 Several patients discontinued GILENYA because of unexplained dyspnea during the extension (uncontrolled) studies.
 GILENYA has not been tested in MS patients with compromised respiratory function.
 
@@ -159,7 +166,7 @@ Spirometric evaluation of respiratory function and evaluation of DLCO should be 
 Elevations of liver enzymes may occur in patients receiving GILENYA.
 Recent (i.e., within last 6 months) transaminase and bilirubin levels should be available before initiation of GILENYA therapy.
 
-In 2-year placebo-controlled clinical trials, elevation of liver transaminases to 3-fold the upper limit of normal (ULN) or greater occurred in 14% of patients treated with GILENYA 0.5 mg and 3% of patients on placebo.
+In 2-year placebo-controlled clinical trials in adult patients, elevation of liver transaminases to 3-fold the upper limit of normal (ULN) or greater occurred in 14% of patients treated with GILENYA 0.5 mg and 3% of patients on placebo.
 Elevations 5-fold the ULN or greater occurred in 4.5% of patients on GILENYA and 1% of patients on placebo.
 The majority of elevations occurred within 6 to 9 months.
 In clinical trials, GILENYA was discontinued if the elevation exceeded 5 times the ULN.
@@ -181,15 +188,15 @@ Because it takes approximately 2 months to eliminate GILENYA from the body, wome
 
 ## 5.9 Increased Blood Pressure
 
-In MS controlled clinical trials, patients treated with GILENYA 0.5 mg had an average increase over placebo of approximately 3 mmHg in systolic pressure, and approximately 2 mmHg in diastolic pressure, first detected after approximately 1 month of treatment initiation, and persisting with continued treatment.
+In adult MS controlled clinical trials, patients treated with GILENYA 0.5 mg had an average increase over placebo of approximately 3 mmHg in systolic pressure, and approximately 2 mmHg in diastolic pressure, first detected after approximately 1 month of treatment initiation, and persisting with continued treatment.
 Hypertension was reported as an adverse reaction in 8% of patients on GILENYA 0.5 mg and in 4% of patients on placebo.
 Blood pressure should be monitored during treatment with GILENYA.
 
 ## 5.10 Cutaneous Malignancies
 
 The risk of basal cell carcinoma (BCC) and melanoma is increased in patients treated with GILENYA.
-In two-year placebo-controlled trials, the incidence of BCC was 2% in patients on GILENYA 0.5 mg and 1% in patients on placebo [see Adverse Reactions (6.1)].
-Melanoma has been reported with GILENYA in the postmarketing setting.
+In two-year placebo-controlled trials in adult patients, the incidence of BCC was 2% in patients on GILENYA 0.5 mg and 1% in patients on placebo [see Adverse Reactions (6.1)].
+Melanoma and Merkel cell carcinoma have been reported with GILENYA in the postmarketing setting.
 Periodic skin examination is recommended for all patients, particularly those with risk factors for skin cancer.
 Providers and patients are advised to monitor for suspicious skin lesions.
 If a suspicious skin lesion is observed, it should be promptly evaluated.

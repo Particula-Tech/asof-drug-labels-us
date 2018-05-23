@@ -2,43 +2,60 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
+Pregnancy Exposure Registry
 
-There are no adequate and well-controlled studies in pregnant women.
-In oral studies conducted in rats and rabbits, fingolimod demonstrated developmental toxicity, including teratogenicity (rats) and embryolethality, when given to pregnant animals.
-In rats, the highest no-effect dose was less than the recommended human dose (RHD) of 0.5 mg/day on a body surface area (mg/m2) basis.
-The most common fetal visceral malformations in rats included persistent truncus arteriosus and ventricular septal defect.
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to GILENYA during pregnancy.
+Physicians are encouraged to enroll pregnant patients, or pregnant women may register themselves in the GILENYA pregnancy registry by calling 1-877-598-7237, sending an email to gpr@quintiles.com, or visiting www.gilenyapregnancyregistry.com.
+
+Risk Summary
+
+There are no adequate data on the developmental risk associated with the use of GILENYA in pregnant women.
+In oral studies conducted in rats and rabbits, fingolimod demonstrated developmental toxicity, including an increase in malformations (rats) and embryolethality, when given to pregnant animals.
+In rats, the highest no-effect dose was less than the recommended human dose of 0.5 mg/day on a body surface area (mg/m2) basis.
+The most common fetal visceral malformations in rats were persistent truncus arteriosus and ventricular septal defect.
 The receptor affected by fingolimod (sphingosine 1-phosphate receptor) is known to be involved in vascular formation during embryogenesis.
-Because it takes approximately 2 months to eliminate fingolimod from the body, potential risks to the fetus may persist after treatment ends [see Warnings and Precautions (5.8, 5.11)].
-GILENYA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-Pregnancy Registry
+In the US general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2%-4% and 15%-20%, respectively.
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
 
-A pregnancy registry has been established to collect information about the effect of GILENYA use during pregnancy.
-Physicians are encouraged to enroll pregnant patients, or pregnant women may register themselves in the GILENYA pregnancy registry by calling Quintiles at 1-877-598-7237, sending an email to gpr@quintiles.com or visiting www.gilenyapregnancyregistry.com.
+Data
 
 Animal Data
 
-When fingolimod was orally administered to pregnant rats during the period of organogenesis (0, 0.03, 0.1, and 0.3 mg/kg/day or 0, 1, 3, and 10 mg/kg/day), increased incidences of fetal malformations and embryo-fetal deaths were observed at all but the lowest dose tested (0.03 mg/kg/day), which is less than the RHD on a mg/m2 basis.
+When fingolimod was orally administered to pregnant rats during the period of organogenesis (0, 0.03, 0.1, and 0.3 mg/kg/day or 0, 1, 3, and 10 mg/kg/day), increased incidences of fetal malformations and embryo-fetal deaths were observed at all but the lowest dose tested (0.03 mg/kg/day), which is less than the recommended human dose (RHD) on a mg/m2 basis.
 Oral administration to pregnant rabbits during organogenesis (0, 0.5, 1.5, and 5 mg/kg/day) resulted in increased incidences of embryo-fetal mortality and fetal growth retardation at the mid and high doses.
 The no-effect dose for these effects in rabbits (0.5 mg/kg/day) is approximately 20 times the RHD on a mg/m2 basis.
 
 When fingolimod was orally administered to female rats during pregnancy and lactation (0, 0.05, 0.15, and 0.5 mg/kg/day), pup survival was decreased at all doses and a neurobehavioral (learning) deficit was seen in offspring at the high dose.
 The low-effect dose of 0.05 mg/kg/day is similar to the RHD on a mg/m2 basis.
 
-## 8.2 Labor and Delivery
+## 8.2 Lactation
 
-The effects of GILENYA on labor and delivery are unknown.
+Risk Summary
 
-## 8.3 Nursing Mothers
-
+There are no data on the presence of fingolimod in human milk, the effects on the breastfed infant, or the effects of the drug on milk production.
 Fingolimod is excreted in the milk of treated rats.
-It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from GILENYA, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clincial need for GILENYA and any potential adverse effects on the breastfed infant from GILENYA or from the underlying maternal condition.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Contraception
+
+Before initiation of GILENYA treatment, women of childbearing potential should be counselled on the potential for a serious risk to the fetus and the need for effective contraception during treatment with GILENYA [see Use in Specific Populations (8.1)].
+Since it takes approximately 2 months to eliminate the compound from the body after stopping treatment, the potential risk to the fetus may persist and women should use effective contraception during this period [see Warnings and Precautions (5.8, 5.11)].
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of GILENYA in pediatric patients with MS below the age of 18 years have not been established.
+Safety and effectiveness of GILENYA for the treatment of relapsing forms of multiple sclerosis in pediatric patients 10 to less than 18 years of age were established in one randomized, double-blind clinical study in 215 patients (GILENYA n = 107; intramuscular interferon (IFN) beta-1a n = 108) [see Clinical Studies (14.2)].
+
+In the controlled pediatric study, the safety profile in pediatric patients (10 to less than 18 years of age) receiving GILENYA 0.25 mg or 0.5 mg daily was similar to that seen in adult patients.
+In the pediatric study, cases of seizures were reported in 5.6% of GILENYA treated patients and 0.9% of interferon beta-1a treated patients.
+
+It is recommended that pediatric patients if possible, complete all immunizations in accordance with current immunization guidelines prior to initiating GILENYA therapy.
+
+Safety and effectiveness of GILENYA in pediatric patients below the age of 10 years have not been established.
+
+Juvenile Animal Toxicity Data
 
 In a study in which fingolimod (0.3, 1.5, or 7.5 mg/kg/day) was orally administered to young rats from weaning through sexual maturity, changes in bone mineral density and persistent neurobehavioral impairment (altered auditory startle) were observed at all doses.
 Delayed sexual maturation was noted in females at the highest dose tested and in males at all doses.
@@ -47,6 +64,8 @@ The bone changes observed in fingolimod-treated juvenile rats are consistent wit
 When fingolimod (0.5 or 5 mg/kg/day) was orally administered to rats from the neonatal period through sexual maturity, a marked decrease in T-cell dependent antibody response was observed at both doses.
 This effect had not fully recovered by 6-8 weeks after the end of treatment.
 
+Overall, a no-effect dose for adverse developmental effects in juvenile animals was not identified.
+
 ## 8.5 Geriatric Use
 
 Clinical MS studies of GILENYA did not include sufficient numbers of patients aged 65 years and over to determine whether they respond differently than younger patients.
@@ -54,7 +73,7 @@ GILENYA should be used with caution in patients aged 65 years and over, reflecti
 
 ## 8.6 Hepatic Impairment
 
-Because fingolimod, but not fingolimod-phosphate, exposure is doubled in patients with severe hepatic impairment, patients with severe hepatic impairment should be closely monitored, as the risk of adverse reactions may be greater [see Warnings and Precautions (5.7) and Clinical Pharmacology (12.3)].
+Because fingolimod, but not fingolimod-phosphate, exposure is doubled in patients with severe hepatic impairment, patients with severe hepatic impairment should be closely monitored, as the risk of adverse reactions may be greater [see Warnings and Precautions (5.7), Clinical Pharmacology (12.3)].
 
 No dose adjustment is needed in patients with mild or moderate hepatic impairment.
 

@@ -4,7 +4,7 @@ The following serious adverse reactions are described elsewhere in labeling:
 
 - Bradyarrhythmia and Atrioventricular Blocks [see Warnings and Precautions (5.1)]
 - Infections [see Warnings and Precautions (5.2)]
-- Progressive multifocal leukoencephalopathy [see Warnings and Precautions (5.3)]
+- Progressive Multifocal Leukoencephalopathy [see Warnings and Precautions (5.3)]
 - Macular Edema [see Warnings and Precautions (5.4)]
 - Posterior Reversible Encephalopathy Syndrome [see Warnings and Precautions (5.5)]
 - Respiratory Effects [see Warnings and Precautions (5.6)]
@@ -19,27 +19,29 @@ The following serious adverse reactions are described elsewhere in labeling:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
+Adults
+
 In clinical trials (Studies 1, 2, and 3), a total of 1212 patients with relapsing forms of multiple sclerosis received GILENYA 0.5 mg.
 This included 783 patients who received GILENYA 0.5 mg in the 2-year placebo-controlled trials (Studies 1 and 3) and 429 patients who received GILENYA 0.5 mg in the 1 year active-controlled trial (Study 2).
 The overall exposure in the controlled trials was equivalent to 1716 person-years.
 Approximately 1000 patients received at least 2 years of treatment with GILENYA 0.5 mg.
 In all clinical studies, including uncontrolled extension studies, the exposure to GILENYA 0.5 mg was approximately 4119 person-years.
 
-In placebo-controlled trials, the most frequent adverse reactions (incidence ≥10% and >placebo) for GILENYA 0.5 mg were headache, liver transaminase elevation, diarrhea, cough, influenza, sinusitis, back pain, abdominal pain, and pain in extremity.
+In placebo-controlled trials, the most frequent adverse reactions (incidence ≥ 10% and > placebo) for GILENYA 0.5 mg were headache, liver transaminase elevation, diarrhea, cough, influenza, sinusitis, back pain, abdominal pain, and pain in extremity.
 Adverse events that led to treatment discontinuation and occurred in more than 1% of patients taking GILENYA 0.5 mg were serum transaminase elevations (4.7% compared to 1% on placebo) and basal cell carcinoma (1% compared to 0.5% on placebo).
 
-Table 1 lists adverse reactions that occurred in ≥ 1% of GILENYA-treated patients and ≥ 1% higher rate than for placebo.
+Table 1 lists adverse reactions in clinical studies in adults that occurred in ≥ 1% of GILENYA-treated patients and ≥ 1% higher rate than for placebo.
 
-Table 1 Adverse Reactions Reported in Studies 1 and 3 (Occurring in ≥1% of Patients and Reported for GILENYA 0.5 mg at ≥1% Higher Rate than for Placebo)
+Table 1: Adverse Reactions Reported in Adult Studies 1 and 3 (Occurring in ≥ 1% of Patients and Reported for GILENYA 0.5 mg at ≥ 1% Higher Rate than for Placebo)
 
-| Primary System Organ Class Preferred Term | GILENYA 0.5 mg N=783 % | Placebo N=773 % |
+| Adverse Drug Reactions | GILENYA 0.5 mg N = 783 % | Placebo N = 773 % |
 | --- | --- | --- |
 | Infections |  |  |
 | Influenza | 11 | 8 |
 | Sinusitis | 11 | 8 |
 | Bronchitis | 8 | 5 |
 | Herpes zoster | 2 | 1 |
-| Tinea versicolor | 2 | <1 |
+| Tinea versicolor | 2 | < 1 |
 | Cardiac Disorders |  |  |
 | Bradycardia | 3 | 1 |
 | Nervous system disorders |  |  |
@@ -68,13 +70,13 @@ Table 1 Adverse Reactions Reported in Studies 1 and 3 (Occurring in ≥1% of Pat
 | Vascular disorders |  |  |
 | Hypertension | 8 | 4 |
 | Blood and lymphatic system disorders |  |  |
-| Lymphopenia | 7 | <1 |
-| Leukopenia | 2 | <1 |
+| Lymphopenia | 7 | < 1 |
+| Leukopenia | 2 | < 1 |
 | Neoplasms benign, malignant and unspecified (including cysts and polyps) |  |  |
 | Skin papilloma | 3 | 2 |
 | Basal cell carcinoma | 2 | 1 |
 
-Adverse reactions of dizziness, pneumonia, eczema and pruritus were also reported in Studies 1 and 3 but did not meet the reporting rate criteria for inclusion in Table 1 (difference was less than 1%).
+Adverse reactions of seizure, dizziness, pneumonia, eczema, and pruritus were also reported in Studies 1 and 3, but did not meet the reporting rate criteria for inclusion in Table 1 (difference was less than 1%).
 
 Adverse reactions with GILENYA 0.5 mg in Study 2, the 1-year active-controlled (versus interferon beta-1a) study were generally similar to those in Studies 1 and 3.
 
@@ -87,3 +89,15 @@ Lymphoma
 Cases of lymphoma, including both T-cell and B-cell types and CNS lymphoma, have occurred in patients receiving GILENYA.
 The reporting rate of non-Hodgkin lymphoma with GILENYA is greater than that expected in the general population adjusted by age, gender, and region.
 The relationship of lymphoma to GILENYA remains uncertain.
+
+Seizure
+
+Cases of seizures have been reported with the use of GILENYA in clinical trials and in the postmarketing setting in adults.
+In adult clinical trials, the rate of seizures was 0.9% in GILENYA-treated patients and 0.3% in placebo-treated patients.
+It is unknown whether these events were related to the effects of multiple sclerosis alone, to GILENYA, or to a combination of both.
+
+Pediatric Patients 10 Years of Age and Older
+
+In the controlled pediatric trial (Study 4), the safety profile in pediatric patients receiving GILENYA 0.25 mg or 0.5 mg daily was similar to that seen in adult patients.
+
+In the pediatric study, cases of seizures were reported in 5.6% of GILENYA-treated patients and 0.9% of interferon beta-1a-treated patients [see Use in Specific Populations (8.4)].
