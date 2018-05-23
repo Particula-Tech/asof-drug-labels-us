@@ -1,4 +1,4 @@
-# 5 WARNINGS AND PRECAUTIONS
+# 5WARNINGS AND PRECAUTIONS
 
 ## 5.1 Lack of Interchangeability between Botulinum Toxin Products
 
@@ -67,7 +67,7 @@ Table 5: Event Rate Per Patient Treatment Cycle Among Patients with Reduced Lung
 
 |  | BOTOX 360 Units |  | BOTOX 240 Units |  | Placebo |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| ≥15% | ≥20% | ≥15% | ≥20% | ≥15% | ≥20% |  |
+|  | >15% | >20% | >15% | >20% | >15% | >20% |
 | Week 1 | 4% | 0% | 3% | 0% | 7% | 3% |
 | Week 6 | 7% | 4% | 4% | 2% | 2% | 2% |
 | Week 12 | 10% | 5% | 2% | 1% | 4% | 1% |
@@ -82,7 +82,7 @@ Table 6: Number and Percent of Patients Experiencing at Least a 15% or 20% Decre
 
 |  | BOTOX 200 Units |  | Placebo |  |
 | --- | --- | --- | --- | --- |
-| ≥15% | ≥20% | ≥15% | ≥20% |  |
+|  | >15% | >20% | >15% | >20% |
 | Week 2 | 0/15 (0%) | 0/15 (0%) | 1/11 (9%) | 0/11 (0%) |
 | Week 6 | 2/13 (15%) | 1/13 (8%) | 0/12 (0%) | 0/12 (0%) |
 | Week 12 | 0/12(0%) | 0/12 (0%) | 0/7 (0%) | 0/7 (0%) |
@@ -142,12 +142,11 @@ Table 7: Proportion of Patients Catheterizing for Urinary Retention and Duration
 
 Patients with diabetes mellitus treated with BOTOX were more likely to develop urinary retention than those without diabetes, as shown in Table 8.
 
-Table 8.
-Proportion of Patients Experiencing Urinary Retention Following an Injection in Double-blind, Placebo-controlled Clinical Trials in OAB According to History of Diabetes Mellitus
+Table 8: Proportion of Patients Experiencing Urinary Retention Following an Injection in Double-blind, Placebo-controlled Clinical Trials in OAB According to History of Diabetes Mellitus
 
 |  | Patients with Diabetes |  | Patients without Diabetes |  |
 | --- | --- | --- | --- | --- |
-| BOTOX 100 Units (N=81) | Placebo (N=69) | BOTOX 100 Units (N=526) | Placebo (N=516) |  |
+|  | BOTOX 100 Units (N=81) | Placebo (N=69) | BOTOX 100 Units (N=526) | Placebo (N=516) |
 | Urinary retention | 12.3% (n=10) | 0 | 6.3% (n=33) | 0.6% (n=3) |
 
 Detrusor Overactivity associated with a Neurologic Condition
@@ -171,7 +170,7 @@ Table 10: Proportion of Patients by Etiology (MS and SCI) Not Using CIC at Basel
 
 | Timepoint | MS |  | SCI |  |
 | --- | --- | --- | --- | --- |
-| BOTOX 200 Units (N=86) | Placebo (N=88) | BOTOX 200 Units (N=22) | Placebo (N=16) |  |
+|  | BOTOX 200 Units (N=86) | Placebo (N=88) | BOTOX 200 Units (N=22) | Placebo (N=16) |
 | At any time during complete treatment cycle | 31% (n=27) | 5% (n=4) | 27% (n=6) | 19% (n=3) |
 
 A placebo-controlled, double-blind post-approval 52 week study with BOTOX 100 Units (Study NDO-3) was conducted in non-catheterizing MS patients with urinary incontinence due to detrusor overactivity associated with a neurologic condition.

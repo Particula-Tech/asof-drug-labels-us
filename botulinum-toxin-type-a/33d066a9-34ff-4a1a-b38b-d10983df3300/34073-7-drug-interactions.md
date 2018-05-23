@@ -1,4 +1,4 @@
-# 7 DRUG INTERACTIONS
+# 7DRUG INTERACTIONS
 
 ## 7.1 Aminoglycosides and Other Agents Interfering with Neuromuscular Transmission
 

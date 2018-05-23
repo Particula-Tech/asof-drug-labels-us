@@ -1,4 +1,4 @@
-# 8 USE IN SPECIFIC POPULATIONS
+# 8USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
@@ -29,7 +29,7 @@ The developmental no-effect level for a single maternal dose in rats (16 Units/k
 Risk Summary
 
 There are no data on the presence of BOTOX in human or animal milk, the effects on the breastfed infant, or the effects on milk production.
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for BOTOX and any potential adverse effects on the breastfed infant from BOTOX or from the underlying maternal conditions.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for BOTOX and any potential adverse effects on the breastfed infant from BOTOX or from the underlying maternal conditions.
 
 ## 8.4 Pediatric Use
 

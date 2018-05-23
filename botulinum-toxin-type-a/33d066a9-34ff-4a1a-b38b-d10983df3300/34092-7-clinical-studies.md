@@ -1,4 +1,4 @@
-# 14 CLINICAL STUDIES
+# 14CLINICAL STUDIES
 
 ## 14.1 Overactive Bladder (OAB)
 
@@ -9,7 +9,7 @@ Patients received 20 injections of study drug (5 units of BOTOX or placebo) spac
 
 In both studies, significant improvements compared to placebo in the primary efficacy variable of change from baseline in daily frequency of urinary incontinence episodes were observed for BOTOX 100 Units at the primary time point of week 12.
 Significant improvements compared to placebo were also observed for the secondary efficacy variables of daily frequency of micturition episodes and volume voided per micturition.
-These primary and secondary variables are shown in Tables 19 and 20, and Figures 5 and 6.
+These primary and secondary variables are shown in Table 19and Table 20, and Figure 5and Figure 6.
 
 Table 19: Baseline and Change from Baseline in Urinary Incontinence Episode Frequency, Micturition Episode Frequency and Volume Voided Per Micturition, Study OAB-1
 
@@ -26,11 +26,17 @@ Table 19: Baseline and Change from Baseline in Urinary Incontinence Episode Freq
 | Volume Voided per Micturitionb (mL) |  |  |  |  |
 | Mean Baseline | 156 | 161 |  |  |
 | Mean Change† at Week 12** | 38 | 8 | 30 (17, 43) | <0.001 |
-| * Least squares (LS) mean change, treatment difference and p-value are based on an ANCOVA model with baseline value as covariate and treatment group and investigator as factors. Last observation carried forward (LOCF) values were used to analyze the primary efficacy variable. |  |  |  |  |
-| † LS mean change, treatment difference and p-value are based on an ANCOVA model with baseline value as covariate and stratification factor, treatment group and investigator as factors. |  |  |  |  |
-| ** Primary timepoint |  |  |  |  |
-| a Primary variable |  |  |  |  |
-| b Secondary variable |  |  |  |  |
+
+* Least squares (LS) mean change, treatment difference and p-value are based on an ANCOVA model with baseline value as covariate and treatment group and investigator as factors.
+Last observation carried forward (LOCF) values were used to analyze the primary efficacy variable.
+
+† LS mean change, treatment difference and p-value are based on an ANCOVA model with baseline value as covariate and stratification factor, treatment group and investigator as factors.
+
+** Primary timepoint
+
+a Primary variable
+
+b Secondary variable
 
 Table 20: Baseline and Change from Baseline in Urinary Incontinence Episode Frequency, Micturition Episode Frequency and Volume Voided Per Micturition, Study OAB-2
 
@@ -47,11 +53,17 @@ Table 20: Baseline and Change from Baseline in Urinary Incontinence Episode Freq
 | Volume Voided per Micturitionb (mL) |  |  |  |  |
 | Mean Baseline | 144 | 153 |  |  |
 | Mean Change† at Week 12** | 40 | 10 | 31 (20, 41) | <0.001 |
-| * LS mean change, treatment difference and p-value are based on an ANCOVA model with baseline value as covariate and treatment group and investigator as factors. LOCF values were used to analyze the primary efficacy variable. |  |  |  |  |
-| † LS mean change, treatment difference and p-value are based on an ANCOVA model with baseline value as covariate and stratification factor, treatment group and investigator as factors. |  |  |  |  |
-| ** Primary timepoint |  |  |  |  |
-| a Primary variable |  |  |  |  |
-| b Secondary variable |  |  |  |  |
+
+* LS mean change, treatment difference and p-value are based on an ANCOVA model with baseline value as covariate and treatment group and investigator as factors.
+LOCF values were used to analyze the primary efficacy variable.
+
+† LS mean change, treatment difference and p-value are based on an ANCOVA model with baseline value as covariate and stratification factor, treatment group and investigator as factors.
+
+** Primary timepoint
+
+a Primary variable
+
+b Secondary variable
 
 Figure 5: Mean Change from Baseline in Daily Frequency of Urinary Incontinence Episodes following intradetrusor injection in Study OAB-1
 
@@ -68,7 +80,7 @@ These patients were randomized to receive either 200 Units of BOTOX (n=227), 300
 
 In both studies, significant improvements compared to placebo in the primary efficacy variable of change from baseline in weekly frequency of incontinence episodes were observed for BOTOX (200 Units) at the primary efficacy time point at week 6.
 Increases in maximum cystometric capacity and reductions in maximum detrusor pressure during the first involuntary detrusor contraction were also observed.
-These primary and secondary endpoints are shown in Tables 21 and 22, and Figures 7 and 8.
+These primary and secondary endpoints are shown in Table 21and Table 22, and Figure 7 and Figure 8.
 
 No additional benefit of BOTOX 300 Units over 200 Units was demonstrated.
 
@@ -76,40 +88,35 @@ Table 21: Baseline and Change from Baseline in Weekly Urinary Incontinence Episo
 
 |  | BOTOX 200 Units | Placebo | Treatment Difference* | p-value* |
 | --- | --- | --- | --- | --- |
-| Weekly Frequency of Urinary Incontinence Episodesa |  |  |  |  |
-| N | 134 | 146 |  |  |
-| Mean Baseline | 32.3 | 28.3 |  |  |
-| Mean Change* at Week 2 | -15.3 | -10.0 | -5.3 | ─ |
-| Mean Change* at Week 6** | -19.9 | -10.6 | -9.2 | p<0.001 |
-|  |  |  | (-13.1, -5.3) |  |
-| Mean Change* at Week 12 | -19.8 | -8.8 | -11.0 | ─ |
-| Maximum Cystometric Capacityb (mL) |  |  |  |  |
-| N | 123 | 129 |  |  |
-| Mean Baseline | 253.8 | 259.1 |  |  |
-| Mean Change* at Week 6** | 135.9 | 12.1 | 123.9 (89.1, 158.7) | p<0.001 |
-| Maximum Detrusor Pressure during First Involuntary Detrusor Contractionb (cmH2O) |  |  |  |  |
-| N | 41 | 103 |  |  |
-| Mean Baseline | 63.1 | 57.4 |  |  |
-| Mean Change* at Week 6** | -28.1 | -3.7 | -24.4 | ─ |
-| * LS mean change, treatment difference and p-value are based on an analysis using an ANCOVA model with baseline weekly endpoint as covariate and treatment group, etiology at study entry (spinal cord injury or multiple sclerosis), concurrent anticholinergic therapy at screening, and investigator as factors. LOCF values were used to analyze the primary efficacy variable. |  |  |  |  |
-| ** Primary timepoint |  |  |  |  |
-| a Primary endpoint |  |  |  |  |
-| b Secondary endpoint |  |  |  |  |
+| Weekly Frequency of Urinary Incontinence Episodesa N Mean Baseline Mean Change* at Week 2 Mean Change* at Week 6** Mean Change* at Week 12 | 134 32.3 -15.3 -19.9 -19.8 | 146 28.3 -10.0 -10.6 -8.8 | -5.3 -9.2 (-13.1, -5.3) -11.0 | ─ p<0.001 ─ |
+| Maximum Cystometric Capacityb (mL) N Mean Baseline Mean Change* at Week 6** | 123 253.8 135.9 | 129 259.1 12.1 | 123.9 (89.1, 158.7) | p<0.001 |
+| Maximum Detrusor Pressure during First Involuntary Detrusor Contractionb (cmH2O) N Mean Baseline Mean Change* at Week 6** | 41 63.1 -28.1 | 103 57.4 -3.7 | -24.4 | ─ |
+
+* LS mean change, treatment difference and p-value are based on an analysis using an ANCOVA model with baseline weekly endpoint as covariate and treatment group, etiology at study entry (spinal cord injury or multiple sclerosis), concurrent anticholinergic therapy at screening, and investigator as factors.
+LOCF values were used to analyze the primary efficacy variable.
+
+** Primary timepoint
+
+a Primary endpoint
+
+b Secondary endpoint
 
 Table 22: Baseline and Change from Baseline in Weekly Urinary Incontinence Episode Frequency, Maximum Cystometric Capacity and Maximum Detrusor Pressure during First Involuntary Detrusor Contraction (cmH2O) in Study NDO-2
 
 |  | BOTOX 200 Units | Placebo | Treatment Difference* | p-value* |
 | --- | --- | --- | --- | --- |
-| Weekly Frequency of Urinary Incontinence Episodesa |  |  |  |  |
-| N Mean Baseline Mean Change* at Week 2 Mean Change* at Week 6** Mean Change* at Week 12 | 91 32.7 -18.0 -19.6 -19.6 | 91 36.8 -7.9 -10.8 -10.7 | -10.1 -8.8 (-14.5, -3.0) -8.9 | ─ p=0.003 ─ |
-| Maximum Cystometric Capacityb(mL) |  |  |  |  |
-| N Mean Baseline Mean Change* at Week 6** | 88 239.6 150.8 | 85 253.8 2.8 | 148.0 (101.8, 194.2) | p<0.001 |
-| Maximum Detrusor Pressure during First Involuntary Detrusor Contractionb(cmH2O) |  |  |  |  |
-| N Mean Baseline Mean Change* at Week 6** | 29 65.6 -28.7 | 68 43.7 2.1 | -30.7 | ─ |
-| * LS mean change, treatment difference and p-value are based on an analysis using an ANCOVA model with baseline weekly endpoint as covariate and treatment group, etiology at study entry (spinal cord injury or multiple sclerosis), concurrent anticholinergic therapy at screening, and investigator as factors. LOCF values were used to analyze the primary efficacy variable. |  |  |  |  |
-| ** Primary timepoint |  |  |  |  |
-| a Primary endpoint |  |  |  |  |
-| b Secondary endpoint |  |  |  |  |
+| Weekly Frequency of Urinary Incontinence Episodesa N Mean Baseline Mean Change* at Week 2 Mean Change* at Week 6** Mean Change* at Week 12 | 91 32.7 -18.0 -19.6 -19.6 | 91 36.8 -7.9 -10.8 -10.7 | -10.1 -8.8 (-14.5, -3.0) -8.9 | ─ p=0.003 ─ |
+| Maximum Cystometric Capacityb (mL) N Mean Baseline Mean Change* at Week 6** | 88 239.6 150.8 | 85 253.8 2.8 | 148.0 (101.8, 194.2) | p<0.001 |
+| Maximum Detrusor Pressure during First Involuntary Detrusor Contractionb (cmH2O) N Mean Baseline Mean Change* at Week 6** | 29 65.6 -28.7 | 68 43.7 2.1 | -30.7 | ─ |
+
+* LS mean change, treatment difference and p-value are based on an analysis using an ANCOVA model with baseline weekly endpoint as covariate and treatment group, etiology at study entry (spinal cord injury or multiple sclerosis), concurrent anticholinergic therapy at screening, and investigator as factors.
+LOCF values were used to analyze the primary efficacy variable.
+
+** Primary timepoint
+
+a Primary endpoint
+
+b Secondary endpoint
 
 Figure 7: Mean Change from Baseline in Weekly Frequency of Urinary Incontinence Episodes During Treatment Cycle 1 in Study NDO-1
 
@@ -129,25 +136,18 @@ Table 23: Baseline and Change from Baseline in Daily Urinary Incontinence Episod
 
 |  | BOTOX 100 Units | Placebo | Treatment Difference* | p-value* |
 | --- | --- | --- | --- | --- |
-| Daily Frequency of Urinary Incontinence Episodesa |  |  |  |  |
-| N | 66 | 78 |  |  |
-| Mean Baseline | 4.2 | 4.3 |  |  |
-| Mean Change* at Week 2 | -2.9 | -1.2 | -1.7 | ─ |
-| Mean Change* at Week 6** | -3.4 | -1.1 | -2.3 | p<0.001 |
-|  |  |  | (-3.0, -1.7) |  |
-| Mean Change* at Week 12 | -2.7 | -1.0 | -1.8 | ─ |
-| Maximum Cystometric Capacityb (mL) |  |  |  |  |
-| N | 62 | 72 |  |  |
-| Mean Baseline | 248.9 | 245.5 |  |  |
-| Mean Change* at Week 6** | 134.4 | 3.5 | 130.9 (94.8, 167.0) | p<0.001 |
-| Maximum Detrusor Pressure during First Involuntary Detrusor Contractionb (cmH2O) |  |  |  |  |
-| N | 25 | 51 |  |  |
-| Mean Baseline | 42.4 | 39.0 |  |  |
-| Mean Change* at Week 6** | -19.2 | 2.7 | -21.9 (-37.5, -6.3) |  |
-| * LS mean change, treatment difference and p-value are based on an analysis using an ANCOVA model with baseline daily endpoint as covariate and treatment group and propensity score stratification as factors. LOCF values were used to analyze the primary efficacy variable. |  |  |  |  |
-| ** Primary timepoint |  |  |  |  |
-| a Primary endpoint |  |  |  |  |
-| b Secondary endpoint |  |  |  |  |
+| Daily Frequency of Urinary Incontinence Episodesa N Mean Baseline Mean Change* at Week 2 Mean Change* at Week 6** Mean Change* at Week 12 | 66 4.2 -2.9 -3.4 -2.7 | 78 4.3 -1.2 -1.1 -1.0 | -1.7 -2.3 (-3.0, -1.7) -1.8 | ─ p<0.001 ─ |
+| Maximum Cystometric Capacityb (mL) N Mean Baseline Mean Change* at Week 6** | 62 248.9 134.4 | 72 245.5 3.5 | 130.9 (94.8, 167.0) | p<0.001 |
+| Maximum Detrusor Pressure during First Involuntary Detrusor Contractionb (cmH2O) N Mean Baseline Mean Change* at Week 6** | 25 42.4 -19.2 | 51 39.0 2.7 | -21.9 (-37.5, -6.3) |  |
+
+* LS mean change, treatment difference and p-value are based on an analysis using an ANCOVA model with baseline daily endpoint as covariate and treatment group and propensity score stratification as factors.
+LOCF values were used to analyze the primary efficacy variable.
+
+** Primary timepoint
+
+a Primary endpoint
+
+b Secondary endpoint
 
 The median duration of response in study NDO-3, based on patient qualification for re-treatment was 362 days (52 weeks) for the BOTOX 100 Units dose group compared to 88 days (13 weeks) for placebo.
 To qualify for re-treatment, at least 12 weeks must have passed since the prior treatment, post-void residual urine volume must have been less than 200 mL and patients must have reported at least 2 urinary incontinence episodes over 3 days with no more than 1 incontinence-free day.
@@ -155,7 +155,7 @@ To qualify for re-treatment, at least 12 weeks must have passed since the prior 
 ## 14.3 Chronic Migraine
 
 BOTOX was evaluated in two randomized, multi-center, 24-week, 2 injection cycle, placebo-controlled double-blind studies.
-Study 1 and Study 2 included chronic migraine adults who were not using any concurrent headache prophylaxis, and during a 28-day baseline period had ≥15 headache days lasting 4 hours or more, with ≥50% being migraine/probable migraine.
+Study 1 and Study 2 included chronic migraine adults who were not using any concurrent headache prophylaxis, and during a 28-day baseline period had >15 headache days lasting 4 hours or more, with >50% being migraine/probable migraine.
 In both studies, patients were randomized to receive placebo or 155 Units to 195 Units BOTOX injections every 12 weeks for the 2-cycle, double-blind phase.
 Patients were allowed to use acute headache treatments during the study.
 BOTOX treatment demonstrated statistically significant and clinically meaningful improvements from baseline compared to placebo for key efficacy variables (see Table 24).
@@ -164,10 +164,11 @@ Table 24: Week 24 Key Efficacy Variables for Study 1 and Study 2
 
 | Efficacy per 28 days | Study 1 |  | Study 2 |  |
 | --- | --- | --- | --- | --- |
-| BOTOX (N=341) | Placebo (N=338) | BOTOX (N=347) | Placebo (N=358) |  |
+|  | BOTOX (N=341) | Placebo (N=338) | BOTOX (N=347) | Placebo (N=358) |
 | Change from baseline in frequency of headache days | -7.8* | -6.4 | -9.2* | -6.9 |
 | Change from baseline in total cumulative hours of headache on headache days | -107* | -70 | -134* | -95 |
-| * Significantly different from placebo (p≤0.05) |  |  |  |  |
+
+* Significantly different from placebo (p<0.05)
 
 Patients treated with BOTOX had a significantly greater mean decrease from baseline in the frequency of headache days at most timepoints from Week 4 to Week 24 in Study 1 (Figure 9), and all timepoints from Week 4 to Week 24 in Study 2 (Figure 10), compared to placebo-treated patients.
 
@@ -197,7 +198,8 @@ Table 25: Study Medication Dose and Injection Sites in Study 1
 | Flexor Digitorum Sublimis | 1 | 50 | 1 |
 | Thumb Adductor Pollicisa | 0.4 | 20 | 1 |
 | Flexor Pollicis Longusa | 0.4 | 20 | 1 |
-| a injected only if spasticity is present in this muscle |  |  |  |
+
+a injected only if spasticity is present in this muscle
 
 The primary efficacy variable was wrist flexors muscle tone at week 6, as measured by the Ashworth score.
 The Ashworth Scale is a 5-point scale with grades of 0 [no increase in muscle tone] to 4 [limb rigid in flexion or extension].
@@ -215,12 +217,18 @@ Table 26: Primary and Key Secondary Endpoints by Muscle Group at Week 6 in Study
 | Median Change from Baseline in Finger Flexor Muscle Tone on the Ashworth Scale††b | -1.0* | 0.0 |
 | Median Change from Baseline in Thumb Flexor Muscle Tone on the Ashworth Scale††c | -1.0 | -1.0 |
 | Median Physician Global Assessment of Response to Treatment†† | 2.0* | 0.0 |
-| † Primary endpoint at Week 6 |  |  |
-| †† Secondary endpoints at Week 6 |  |  |
-| * Significantly different from placebo (p≤0.05) |  |  |
-| a BOTOX injected into both the flexor carpi radialis and ulnaris muscles |  |  |
-| b BOTOX injected into the flexor digitorum profundus and flexor digitorum sublimis muscles |  |  |
-| c BOTOX injected into the adductor pollicis and flexor pollicis longus muscles |  |  |
+
+† Primary endpoint at Week 6
+
+†† Secondary endpoints at Week 6
+
+* Significantly different from placebo (p<0.05)
+
+a BOTOX injected into both the flexor carpi radialis and ulnaris muscles
+
+b BOTOX injected into the flexor digitorum profundus and flexor digitorum sublimis muscles
+
+c BOTOX injected into the adductor pollicis and flexor pollicis longus muscles
 
 Study 2 compared 3 doses of BOTOX with placebo and included 91 patients [BOTOX 360 Units (N=21), BOTOX 180 Units (N=23), BOTOX 90 Units (N=21), and placebo (N=26)] with upper limb spasticity (expanded Ashworth score of at least 2 for elbow flexor tone and at least 3 for wrist flexor tone) who were at least 6 weeks post-stroke.
 BOTOX and placebo were injected with EMG guidance into the flexor digitorum profundus, flexor digitorum sublimis, flexor carpi radialis, flexor carpi ulnaris, and biceps brachii (see Table 27).
@@ -250,13 +258,20 @@ Table 28: Primary and Key Secondary Endpoints by Muscle Group and BOTOX Dose at 
 | Median Change from Baseline in Finger Flexor Muscle Tone on the Ashworth Scale††c | -0.5 | -0.5 | -1.0 | -0.5 |
 | Median Change from Baseline in Elbow Flexor Muscle Tone on the Ashworth Scale††d | -0.5 | -1.0* | -0.5a | -0.5 |
 | Median Physician Global Assessment of Response to Treatment | 1.0* | 1.0* | 1.0* | 0.0 |
-| † Primary endpoint at Week 6 |  |  |  |  |
-| †† Secondary endpoints at Week 6 |  |  |  |  |
-| * Significantly different from placebo (p≤0.05) |  |  |  |  |
-| a p=0.053 |  |  |  |  |
-| b Total dose of BOTOX injected into both the flexor carpi radialis and ulnaris muscles |  |  |  |  |
-| c Total dose of BOTOX injected into the flexor digitorum profundus and flexor digitorum sublimis muscles |  |  |  |  |
-| d Dose of BOTOX injected into biceps brachii muscle |  |  |  |  |
+
+† Primary endpoint at Week 6
+
+†† Secondary endpoints at Week 6
+
+* Significantly different from placebo (p<0.05)
+
+a p=0.053
+
+b Total dose of BOTOX injected into both the flexor carpi radialis and ulnaris muscles
+
+c Total dose of BOTOX injected into the flexor digitorum profundus and flexor digitorum sublimis muscles
+
+d Dose of BOTOX injected into biceps brachii muscle
 
 Study 3 compared 3 doses of BOTOX with placebo and enrolled 88 patients [BOTOX 360 Units (N=23), BOTOX 180 Units (N=23), BOTOX 90 Units (N=23), and placebo (N=19)] with upper limb spasticity (expanded Ashworth score of at least 2 for elbow flexor tone and at least 3 for wrist flexor tone and/or finger flexor tone) who were at least 6 weeks post-stroke.
 BOTOX and placebo were injected with EMG guidance into the flexor digitorum profundus, flexor digitorum sublimis, flexor carpi radialis, flexor carpi ulnaris, and biceps brachii (see Table 27).
@@ -272,12 +287,18 @@ Table 29: Primary and Key Secondary Endpoints by Muscle Group and BOTOX Dose at 
 | Median Change from Baseline in Wrist Flexor Muscle Tone on the Ashworth Scale†b | -1.0 | -1.0 | -1.5* | -0.5 |
 | Median Change from Baseline in Finger Flexor Muscle Tone on the Ashworth Scale††c | -1.0 | -1.0 | -1.0* | -0.5 |
 | Median Change from Baseline in Elbow Flexor Muscle Tone on the Ashworth Scale†d | -0.5 | -0.5 | -1.0* | -0.5 |
-| † Primary endpoint at Week 4 |  |  |  |  |
-| †† Secondary endpoints at Week 4 |  |  |  |  |
-| * Significantly different from placebo (p≤0.05) |  |  |  |  |
-| b Total dose of BOTOX injected into both the flexor carpi radialis and ulnaris muscles |  |  |  |  |
-| c Total dose of BOTOX injected into the flexor digitorum profundus and flexor digitorum sublimis muscles |  |  |  |  |
-| d Dose of BOTOX injected into biceps brachii muscle |  |  |  |  |
+
+† Primary endpoint at Week 4
+
+†† Secondary endpoints at Week 4
+
+* Significantly different from placebo (p<0.05)
+
+b Total dose of BOTOX injected into both the flexor carpi radialis and ulnaris muscles
+
+c Total dose of BOTOX injected into the flexor digitorum profundus and flexor digitorum sublimis muscles
+
+d Dose of BOTOX injected into biceps brachii muscle
 
 Study 4 included 170 patients (87 BOTOX and 83 placebo) with upper limb spasticity who were at least 6 months post-stroke.
 In Study 4, patients received 20 Units of BOTOX into the adductor pollicis and flexor pollicis longus (total BOTOX dose =40 Units in thumb muscles) or placebo (see Table 30).
@@ -289,7 +310,7 @@ Table 30: Study Medication Dose and Injection Sites in Studies 4 and 5
 
 | Muscles Injected | Study 4 |  | Study 5 |  |  |  | Number of Injection Sites for Studies 4 and 5 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| BOTOX (Units) | Volume (mL) | BOTOX low dose (Units) | BOTOX high dose (Units) | Volume low dose (mL) | Volume high dose (mL) |  |  |
+|  | BOTOX (Units) | Volume (mL) | BOTOX low dose (Units) | BOTOX high dose (Units) | Volume low dose (mL) | Volume high dose (mL) |  |
 | Thumb Adductor Pollicis | 20 | 0.4 | 15 | 20 | 0.3 | 0.4 | 1 |
 | Flexor Pollicis Longus | 20 | 0.4 | 15 | 20 | 0.3 | 0.4 | 1 |
 
@@ -302,11 +323,14 @@ Table 31: Efficacy Endpoints for Thumb Flexors at Week 6 in Study 4
 | --- | --- | --- |
 | Median Change from Baseline in Thumb Flexor Muscle Tone on the modified Ashworth Scale††a | -1.0* | 0.0 |
 | Median Physician Global Assessment of Response to Treatment†† | 2.0* | 0.0 |
-| †† Secondary endpoints at Week 6 |  |  |
-| * Significantly different from placebo (p≤0.001) |  |  |
-| a BOTOX injected into the adductor pollicis and flexor pollicis longus muscles |  |  |
 
-In Study 5, the results of the change from Baseline to Week 6 in thumb flexor tone measured by modified Ashworth Scale and Clinical Global Impression (CGI) of functional assessment scale assessed by the physician using an 11-point Numeric Rating Scale [-5 worst possible function to +5 best possible function]) are presented in Table 32.
+†† Secondary endpoints at Week 6
+
+* Significantly different from placebo (p<0.001)
+
+a BOTOX injected into the adductor pollicis and flexor pollicis longus muscles
+
+In Study 5, the results of the change from Baseline to Week 6 in thumb flexor tone measured by modified Ashworth Scale and Clinical Global Impression (CGI) of functional assessment scale assessed by the physician using an 11-point Numeric Rating Scale [-5 worst possible function to +5 best possible function] are presented in Table 32.
 
 Table 32: Efficacy Endpoints for Thumb Flexors at Week 6 in Study 5
 
@@ -314,10 +338,14 @@ Table 32: Efficacy Endpoints for Thumb Flexors at Week 6 in Study 5
 | --- | --- | --- | --- | --- |
 | Median Change from Baseline in Thumb Flexor Muscle Tone on the modified Ashworth Scale†††a | -1.0 | -1.0 | -0.5* | 0.0 |
 | Median Change from Baseline in Clinical Global Impression Score by Physician †† | 1.0 | 0.0 | 2.0* | 0.0 |
-| †† Secondary endpoint at Week 6 |  |  |  |  |
-| ††† Other endpoint at Week 6 |  |  |  |  |
-| * Significantly different from placebo (p≤0.010) |  |  |  |  |
-| a BOTOX injected into the adductor pollicis and flexor pollicis longus muscles |  |  |  |  |
+
+†† Secondary endpoint at Week 6
+
+††† Other endpoint at Week 6
+
+* Significantly different from placebo (p<0.010)
+
+a BOTOX injected into the adductor pollicis and flexor pollicis longus muscles
 
 Lower Limb Spasticity
 
@@ -354,7 +382,8 @@ Table 34: Co-Primary Efficacy Endpoints Results in Study 6 (Intent-to-treat Popu
 | Week 4 and 6 Average | -0.8* | -0.6 |
 | Mean Clinical Global Impression Score by Investigator |  |  |
 | Week 4 and 6 Average | 0.9* | 0.7 |
-| * Significantly different from placebo (p<0.05) |  |  |
+
+* Significantly different from placebo (p<0.05)
 
 Compared to placebo, significant improvements in MAS change from baseline for ankle plantar flexors (see Figure 11) and CGI (see Figure 12) were observed at Week 2, Week 4, and Week 6 for patients treated with BOTOX.
 
@@ -376,7 +405,7 @@ Patient evaluations continued for at least 10 weeks post-injection.
 The primary outcome for the study was a dual endpoint, requiring evidence of both a change in the Cervical Dystonia Severity Scale (CDSS) and an increase in the percentage of patients showing any improvement on the Physician Global Assessment Scale at 6 weeks after the injection session.
 The CDSS quantifies the severity of abnormal head positioning and was newly devised for this study.
 CDSS allots 1 point for each 5 degrees (or part thereof) of head deviation in each of the three planes of head movement (range of scores up to theoretical maximum of 54).
-The Physician Global Assessment Scale is a 9 category scale scoring the physician's evaluation of the patients' status compared to baseline, ranging from –4 to +4 (very marked worsening to complete improvement), with 0 indicating no change from baseline and +1 slight improvement.
+The Physician Global Assessment Scale is a 9 category scale scoring the physician’s evaluation of the patients’ status compared to baseline, ranging from –4 to +4 (very marked worsening to complete improvement), with 0 indicating no change from baseline and +1 slight improvement.
 Pain is also an important symptom of cervical dystonia and was evaluated by separate assessments of pain frequency and severity on scales of 0 (no pain) to 4 (constant in frequency or extremely severe in intensity).
 Study results on the primary endpoints and the pain-related secondary endpoints are shown in Table 35.
 
@@ -391,9 +420,14 @@ Table 35: Efficacy Outcomes of the Phase 3 Cervical Dystonia Study (Group Means)
 | Change in Pain Intensity at Week 6 | -0.1 | -0.4 | (-0.7, -0.2)[c] |
 | Pain Frequency Baseline | 1.9 | 1.8 |  |
 | Change in Pain Frequency at Week 6 | -0.0 | -0.3 | (-0.5, -0.0)[c] |
-| [a] Confidence intervals are constructed from the analysis of covariance table with treatment and investigational site as main effects, and baseline CDSS as a covariate. |  |  |  |
-| [b] These values represent the prospectively planned method for missing data imputation and statistical test. Sensitivity analyses indicated that the 95% confidence interval excluded the value of no difference between groups and the p-value was less than 0.05. These analyses included several alternative missing data imputation methods and non-parametric statistical tests. |  |  |  |
-| [c] Confidence intervals are based on the t-distribution. |  |  |  |
+
+[a] Confidence intervals are constructed from the analysis of covariance table with treatment and investigational site as main effects, and baseline CDSS as a covariate.
+
+[b] These values represent the prospectively planned method for missing data imputation and statistical test.
+Sensitivity analyses indicated that the 95% confidence interval excluded the value of no difference between groups and the p-value was less than 0.05.
+These analyses included several alternative missing data imputation methods and non-parametric statistical tests.
+
+[c] Confidence intervals are based on the t-distribution.
 
 Exploratory analyses of this study suggested that the majority of patients who had shown a beneficial response by week 6 had returned to their baseline status by 3 months after treatment.
 Exploratory analyses of subsets by patient sex and age suggest that both sexes receive benefit, although female patients may receive somewhat greater amounts than male patients.
@@ -416,7 +450,8 @@ Table 36: Number of Patients Treated per Muscle and Fraction of Total Dose Injec
 | Semispinalis | 16 | 21 | 13-25 |
 | Scalene | 15 | 15 | 6-21 |
 | Longissimus | 8 | 29 | 17-41 |
-| * The mid-range of dose is calculated as the 25th to 75th percentiles. |  |  |  |
+
+* The mid-range of dose is calculated as the 25th to 75th percentiles.
 
 There were several randomized studies conducted prior to the double-blind, placebo-controlled study, which were supportive but not adequately designed to assess or quantitatively estimate the efficacy of BOTOX.
 
@@ -453,7 +488,8 @@ Table 37: Study 1 - Study Outcomes
 | --- | --- | --- | --- | --- | --- |
 | HDSS Score change >2 (n)a | 55% (57) | 49% (54) | 6% (6) | 49.3% (38.8, 59.7) | 43% (33.2, 53.8) |
 | >50% decrease in axillary sweat production % (n) | 81% (84) | 86% (94) | 41% (44) | 40% (28.1, 52.0) | 45% (33.3, 56.1) |
-| a Patients who showed at least a 2-grade improvement from baseline value on the HDSS 4 weeks after both of the first two treatment sessions or had a sustained response after their first treatment session and did not receive re-treatment during the study. |  |  |  |  |  |
+
+a Patients who showed at least a 2-grade improvement from baseline value on the HDSS 4 weeks after both of the first two treatment sessions or had a sustained response after their first treatment session and did not receive re-treatment during the study.
 
 ## 14.7 Blepharospasm
 

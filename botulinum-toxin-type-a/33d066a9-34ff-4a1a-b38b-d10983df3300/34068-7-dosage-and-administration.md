@@ -1,4 +1,4 @@
-# 2 DOSAGE AND ADMINISTRATION
+# 2DOSAGE AND ADMINISTRATION
 
 ## 2.1 Instructions for Safe Use
 
@@ -13,23 +13,35 @@ The safe and effective use of BOTOX depends upon proper storage of the product, 
 An understanding of standard electromyographic techniques is also required for treatment of strabismus, upper or lower limb spasticity, and may be useful for the treatment of cervical dystonia.
 Physicians administering BOTOX must understand the relevant neuromuscular and structural anatomy of the area involved and any alterations to the anatomy due to prior surgical procedures and disease, especially when injecting near the lungs.
 
+Do not use BOTOX and contact Allergan (1-800-890-4345) if:
+
+• the carton labeling does not contain an intact seal with a translucent silver Allergan logo (on both ends of the carton) or the seal has a black circle with a diagonal line through it (i.e., prohibition sign),
+
+• the vial label does not contain a holographic film containing the name “Allergan” within rainbow colored horizontal lines, or
+
+• the U.S. License number 1145 is not present on the vial label and carton labeling [see How Supplied/Storage and Handling (16)].
+
 ## 2.2 Preparation and Dilution Technique
 
-Prior to injection, reconstitute each vacuum-dried vial of BOTOX with only sterile, preservative-free 0.9% Sodium Chloride Injection USP.
+Prior to injection, reconstitute each vacuum-dried vial of BOTOX with only sterile, preservative-free 0.9% Sodium Chloride Injection, USP.
 Draw up the proper amount of diluent in the appropriate size syringe (see Table 1, or for specific instructions for detrusor overactivity associated with a neurologic condition see Section 2.3), and slowly inject the diluent into the vial.
 Discard the vial if a vacuum does not pull the diluent into the vial.
-Gently mix BOTOX with the saline by rotating the vial.
+Gently mix BOTOX with the diluent by rotating the vial.
 Record the date and time of reconstitution on the space on the label.
 BOTOX should be administered within 24 hours after reconstitution.
-During this time period, reconstituted BOTOX should be stored in a refrigerator (2° to 8°C).
+During this time period, unused reconstituted BOTOX should be stored in a refrigerator (2° to 8°C) for up to 24 hours until time of use.
+BOTOX vials are for single-dose only.
+Discard any unused portion.
 
 Table 1: Dilution Instructions for BOTOX Vials (100 Units and 200 Units)**
 
 | Diluent* Added to 100 Unit Vial | Resulting Dose Units per 0.1 mL | Diluent* Added to 200 Unit Vial | Resulting Dose Units per 0.1 mL |
 | --- | --- | --- | --- |
 | 1 mL 2 mL 4 mL 8 mL 10 mL | 10 Units 5 Units 2.5 Units 1.25 Units 1 Unit | 1 mL 2 mL 4 mL 8 mL 10 mL | 20 Units 10 Units 5 Units 2.5 Units 2 Units |
-| *Preservative-free 0.9% Sodium Chloride Injection, USP Only |  |  |  |
-| **For Detrusor Overactivity associated with a Neurologic Condition Dilution see Section 2.3 |  |  |  |
+
+*Preservative-free 0.9% Sodium Chloride Injection, USP Only
+
+**For Detrusor Overactivity associated with a Neurologic Condition Dilution see Section 2.3
 
 Note: These dilutions are calculated for an injection volume of 0.1 mL.
 A decrease or increase in the BOTOX dose is also possible by administering a smaller or larger injection volume - from 0.05 mL (50% decrease in dose) to 0.15 mL (50% increase in dose).
@@ -75,7 +87,7 @@ The patient should be observed for at least 30 minutes post-injection and until 
 
 Patients should be considered for reinjection when the clinical effect of the previous injection has diminished (median time until patients qualified for the second treatment of BOTOX in double-blind, placebo-controlled clinical studies was 169 days [~24 weeks]), but no sooner than 12 weeks from the prior bladder injection.
 
-Figure 1: Injection Pattern for Intradetrusor Injections for Treatment of Overactive Bladder and Detrusor Overactivity associated with a Neurologic Condition
+Figure 1:Injection Pattern for Intradetrusor Injections for Treatment of Overactive Bladder and Detrusor Overactivity associated with a Neurologic Condition
 
 Detrusor Overactivity associated with a Neurologic Condition
 
@@ -138,12 +150,14 @@ Table 2: BOTOX Dosing by Muscle for Chronic Migraine
 | Trapeziusb | 30 Units divided in 6 sites |
 | Cervical Paraspinal Muscle Groupb | 20 Units divided in 4 sites |
 | Total Dose: | 155 Units divided in 31 sites |
-| a Each IM injection site = 0.1 mL = 5 Units BOTOX |  |
-| b Dose distributed bilaterally |  |
+
+a Each IM injection site = 0.1 mL = 5 Units BOTOX
+
+b Dose distributed bilaterally
 
 ## 2.5 Spasticity
 
-Dosing in initial and sequential treatment sessions should be tailored to the individual based on the size, number and location of muscles involved, severity of spasticity, the presence of local muscle weakness, the patient's response to previous treatment, or adverse event history with BOTOX.
+Dosing in initial and sequential treatment sessions should be tailored to the individual based on the size, number and location of muscles involved, severity of spasticity, the presence of local muscle weakness, the patient’s response to previous treatment, or adverse event history with BOTOX.
 
 The recommended dilution is 200 Units/4 mL or 100 Units/2 mL with preservative-free 0.9% Sodium Chloride Injection, USP (see Table 1).
 The lowest recommended starting dose should be used, and no more than 50 Units per site should generally be administered.
@@ -173,7 +187,7 @@ Figure 2: Injection Sites for Upper Limb Spasticity
 
 Lower Limb Spasticity
 
-The recommended dose for treating lower limb spasticity is 300 Units to 400 Units divided among 5 muscles (gastrocnemius, soleus, tibialis posterior, flexor hallucis longus and flexor digitorum longus) (see Table 4 and Figure 3).
+The recommended dose for treating lower limb spasticity is 300 Units to 400 Units divided among 5 muscles (gastrocnemius, soleus, tibialis posterior, flexor hallucis longus and flexor digitorum longus) (see Table 4and Figure 3).
 
 Table 4: BOTOX Dosing by Muscle for Lower Limb Spasticity
 
@@ -194,7 +208,7 @@ A double-blind, placebo-controlled study enrolled patients who had extended hist
 The mean BOTOX dose administered to patients in this study was 236 Units (25th to 75th percentile range of 198 Units to 300 Units).
 The BOTOX dose was divided among the affected muscles [see Clinical Studies (14.5)].
 
-Dosing in initial and sequential treatment sessions should be tailored to the individual patient based on the patient's head and neck position, localization of pain, muscle hypertrophy, patient response, and adverse event history.
+Dosing in initial and sequential treatment sessions should be tailored to the individual patient based on the patient’s head and neck position, localization of pain, muscle hypertrophy, patient response, and adverse event history.
 The initial dose for a patient without prior use of BOTOX should be at a lower dose, with subsequent dosing adjusted based on individual response.
 Limiting the total dose injected into the sternocleidomastoid muscle to 100 Units or less may decrease the occurrence of dysphagia [see Warnings and Precautions (5.2, 5.5, 5.6)].
 
@@ -208,13 +222,13 @@ In the double-blind, placebo-controlled study most subjects were observed to hav
 ## 2.7 Primary Axillary Hyperhidrosis
 
 The recommended dose is 50 Units per axilla.
-The hyperhidrotic area to be injected should be defined using standard staining techniques, e.g., Minor's Iodine-Starch Test.
-The recommended dilution is 100 Units/4 mL with 0.9% preservative-free sterile saline (see Table 1).
+The hyperhidrotic area to be injected should be defined using standard staining techniques, e.g., Minor’s Iodine-Starch Test.
+The recommended dilution is 100 Units/4 mL with preservative-free 0.9% Sodium Chloride Injection, USP (see Table 1).
 Using a sterile 30 gauge needle, 50 Units of BOTOX (2 mL) is injected intradermally in 0.1 to 0.2 mL aliquots to each axilla evenly distributed in multiple sites (10-15) approximately 1-2 cm apart.
 
 Repeat injections for hyperhidrosis should be administered when the clinical effect of a previous injection diminishes.
 
-Instructions for the Minor's Iodine-Starch Test Procedure:
+Instructions for the Minor’s Iodine-Starch Test Procedure:
 
 Patients should shave underarms and abstain from use of over-the-counter deodorants or antiperspirants for 24 hours prior to the test.
 Patient should be resting comfortably without exercise, hot drinks for approximately 30 minutes prior to the test.
@@ -278,6 +292,7 @@ Subsequent Doses for Residual or Recurrent Strabismus
 
 - It is recommended that patients be re-examined 7-14 days after each injection to assess the effect of that dose.
 - Patients experiencing adequate paralysis of the target muscle that require subsequent injections should receive a dose comparable to the initial dose.
+
 - Subsequent doses for patients experiencing incomplete paralysis of the target muscle may be increased up to two-fold compared to the previously administered dose.
 - Subsequent injections should not be administered until the effects of the previous dose have dissipated as evidenced by substantial function in the injected and adjacent muscles.
 - The maximum recommended dose as a single injection for any one muscle is 25 Units.

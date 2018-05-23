@@ -1,4 +1,4 @@
-# 17 PATIENT COUNSELING INFORMATION
+# 17PATIENT COUNSELING INFORMATION
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
@@ -14,7 +14,21 @@ Voiding Symptoms after Bladder Injections
 
 After bladder injections for urinary incontinence, advise patients to contact their physician if they experience difficulties in voiding or burning sensation upon voiding.
 
-Manufactured by:Allergan Pharmaceuticals Ireland a subsidiary of: Allergan, Inc. 2525 Dupont Dr. Irvine, CA 92612 © 2017 Allergan.
+Manufactured by:Allergan Pharmaceuticals Ireland
+
+a subsidiary of: Allergan, Inc.
+
+U.S. License Number 1145
+
+Distributed by: Allergan USA, Inc.
+
+Madison, NJ 07940
+
+© 2018 Allergan.
 All rights reserved.
+
 All trademarks are the property of their respective owners.
-Patented. www.allergan.com/patents Irvine, CA 92612
+
+Patented. www.allergan.com/patents
+
+v1.0USPI1145

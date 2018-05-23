@@ -1,4 +1,4 @@
-# 6 ADVERSE REACTIONS
+# 6ADVERSE REACTIONS
 
 The following adverse reactions to BOTOX (onabotulinumtoxinA) for injection are discussed in greater detail in other sections of the labeling:
 
@@ -32,14 +32,16 @@ However, weakness of nearby muscles may also occur due to spread of toxin [see W
 
 Overactive Bladder
 
-Table 11 presents the most frequently reported adverse reactions in double-blind, placebo-controlled clinical trials for overactive bladder occurring within 12 weeks of the first BOTOX treatment.
+Table 11presents the most frequently reported adverse reactions in double-blind, placebo-controlled clinical trials for overactive bladder occurring within 12 weeks of the first BOTOX treatment.
 
 Table 11: Adverse Reactions Reported by ≥2% of BOTOX treated Patients and More Often than in Placebo-treated Patients Within the First 12 Weeks after Intradetrusor Injection, in Double-blind, Placebo-controlled Clinical Trials in Patients with OAB
 
 | Adverse Reactions | BOTOX 100 Units (N=552) | Placebo (N=542) |
 | --- | --- | --- |
 | Urinary tract infection Dysuria Urinary retention Bacteriuria Residual urine volume* | 99 (18%) 50 (9%) 31 (6%) 24 (4%) 17 (3%) | 30 (6%) 36 (7%) 2 (0%) 11 (2%) 1 (0%) |
-| *Elevated PVR not requiring catheterization. Catheterization was required for PVR ≥350 mL regardless of symptoms, and for PVR ≥200 mL to <350 mL with symptoms (e.g., voiding difficulty). |  |  |
+
+*Elevated PVR not requiring catheterization.
+Catheterization was required for PVR >350 mL regardless of symptoms, and for PVR >200 mL to <350 mL with symptoms (e.g., voiding difficulty).
 
 A higher incidence of urinary tract infection was observed in patients with diabetes mellitus treated with BOTOX 100 Units and placebo than in patients without diabetes, as shown in Table 12.
 
@@ -47,18 +49,18 @@ Table 12: Proportion of Patients Experiencing Urinary Tract Infection following 
 
 |  | Patients with Diabetes |  | Patients without Diabetes |  |
 | --- | --- | --- | --- | --- |
-| BOTOX 100 Units (N=81) | Placebo (N=69) | BOTOX 100 Units (N=526) | Placebo (N=516) |  |
+|  | BOTOX 100 Units (N=81) | Placebo (N=69) | BOTOX 100 Units (N=526) | Placebo (N=516) |
 | Urinary tract infection (UTI) | 25 (31%) | 8 (12%) | 135 (26%) | 51 (10%) |
 
-The incidence of UTI increased in patients who experienced a maximum post-void residual (PVR) urine volume ≥200 mL following BOTOX injection compared to those with a maximum PVR <200 mL following BOTOX injection, 44% versus 23%, respectively.
+The incidence of UTI increased in patients who experienced a maximum post-void residual (PVR) urine volume >200 mL following BOTOX injection compared to those with a maximum PVR <200 mL following BOTOX injection, 44% versus 23%, respectively.
 
 No change was observed in the overall safety profile with repeat dosing during an open-label, uncontrolled extension trial.
 
 Detrusor Overactivity associated with a Neurologic Condition
 
-Table 13 presents the most frequently reported adverse reactions in the two Phase 3 double-blind, placebo-controlled studies (NDO-1 and NDO-2) within 12 weeks of injection for patients with detrusor overactivity associated with a neurologic condition treated with BOTOX 200 Units.
+Table 13 presents the most frequently reported adverse reactions in the double-blind, placebo-controlled studies within 12 weeks of injection for patients with detrusor overactivity associated with a neurologic condition treated with BOTOX 200 Units.
 
-Table 13: Adverse Reactions Reported by ≥2% of BOTOX treated Patients and More Frequent than in Placebo-treated Patients Within the First 12 Weeks after Intradetrusor Injection in Double-blind, Placebo-controlled Clinical Trials (NDO-1 and NDO-2)
+Table 13: Adverse Reactions Reported by >2% of BOTOX treated Patients and More Frequent than in Placebo-treated Patients Within the First 12 Weeks after Intradetrusor Injection in Double-blind, Placebo-controlled Clinical Trials
 
 | Adverse Reactions | BOTOX 200 Units (N=262) | Placebo (N=272) |
 | --- | --- | --- |
@@ -74,12 +76,14 @@ Table 14 presents the most frequently reported adverse reactions in a placebo-co
 These patients were not adequately managed with at least one anticholinergic agent and not catheterized at baseline.
 The table below presents the most frequently reported adverse reactions within 12 weeks of injection.
 
-Table 14: Adverse Reactions Reported by >2% of BOTOX treated Patients and More Frequent than in Placebo-treated Patients Within the First 12 Weeks after Intradetrusor Injection (NDO-3)
+Table 14: Adverse Reactions Reported in a Post Approval Study (NDO-3) by >2% of BOTOX treated Patients and More Frequent than in Placebo-treated Patients Within the First 12 Weeks after Intradetrusor Injection
 
 | Adverse Reactions | BOTOX 100 Unit (N=66) | Placebo (N=78) |
 | --- | --- | --- |
 | Urinary tract infection Bacteriuria Urinary retention Dysuria Residual urine volume* | 17 (26%) 6 (9%) 10 (15%) 3 (5%) 11 (17%) | 5 (6%) 4 (5%) 1 (1%) 1 (1%) 1 (1%) |
-| * Elevated PVR not requiring catheterization. Catheterization was required for PVR ≥350 mL regardless of symptoms, and for PVR ≥200 mL to <350 mL with symptoms (e.g., voiding difficulty). |  |  |
+
+* Elevated PVR not requiring catheterization.
+Catheterization was required for PVR >350 mL regardless of symptoms, and for PVR >200 mL to <350 mL with symptoms (e.g., voiding difficulty).
 
 The following adverse events with BOTOX 100 Units were reported at any time following initial injection and prior to re-injection or study exit (median duration of exposure was 51 weeks): urinary tract infections (39%), bacteriuria (18%), urinary retention (17%), residual urine volume* (17%), dysuria (9%), and hematuria (5%).
 
@@ -93,7 +97,7 @@ The most frequent adverse events leading to discontinuation in the BOTOX group w
 
 The most frequently reported adverse reactions following injection of BOTOX for chronic migraine appear in Table 15.
 
-Table 15: Adverse Reactions Reported by ≥2% of BOTOX treated Patients and More Frequent than in Placebo-treated Patients in Two Chronic Migraine Double-blind, Placebo-controlled Clinical Trials
+Table 15: Adverse Reactions Reported by >2% of BOTOX treated Patients and More Frequent than in Placebo-treated Patients in Two Chronic Migraine Double-blind, Placebo-controlled Clinical Trials
 
 | Adverse Reactions by System Organ Class | BOTOX 155 Units-195 Units (N=687) | Placebo (N=692) |
 | --- | --- | --- |
@@ -101,8 +105,7 @@ Table 15: Adverse Reactions Reported by ≥2% of BOTOX treated Patients and More
 | Eye disorders Eyelid ptosis | 25 (4%) | 2 (<1%) |
 | Infections and Infestations Bronchitis | 17 (3%) | 11 (2%) |
 | Musculoskeletal and connective tissue disorders Neck pain Musculoskeletal stiffness Muscular weakness Myalgia Musculoskeletal pain Muscle spasms | 60 (9%) 25 (4%) 24 (4%) 21 (3%) 18 (3%) 13 (2%) | 19 (3%) 6 (1%) 2 (<1%) 6 (1%) 10 (1%) 6 (1%) |
-| General disorders and administration site conditions |  |  |
-| Injection site pain | 23 (3%) | 14 (2%) |
+| General disorders and administration site conditions Injection site pain | 23 (3%) | 14 (2%) |
 | Vascular Disorders Hypertension | 11 (2%) | 7 (1%) |
 
 Other adverse reactions that occurred more frequently in the BOTOX group compared to the placebo group at a frequency less than 1% and potentially BOTOX related include: vertigo, dry eye, eyelid edema, dysphagia, eye infection, and jaw pain.
@@ -131,18 +134,13 @@ The most frequently reported adverse reactions following injection of BOTOX for 
 Two hundred thirty one patients enrolled in a double-blind placebo controlled study (Study 6) received 300 Units to 400 Units of BOTOX, and were compared with 233 patients who received placebo.
 Patients were followed for an average of 91 days after injection.
 
-Table 17: Adverse Reactions Reported by ≥2% of BOTOX treated Patients and More Frequent than in Placebo-treated Patients in Adult Lower Limb Spasticity Double-blind, Placebo-controlled Clinical Trial (Study 6)
+Table 17: Adverse Reactions Reported by >2% of BOTOX treated Patients and More Frequent than in Placebo-treated Patients in Adult Lower Limb Spasticity Double-blind, Placebo-controlled Clinical Trial (Study 6)
 
 | Adverse Reactions | BOTOX (N=231) | Placebo (N=233) |
 | --- | --- | --- |
-| Musculoskeletal and connective tissue disorders |  |  |
-| Arthralgia | 8 (3%) | 2 (1%) |
-| Back pain | 6 (3%) | 4 (2%) |
-| Myalgia | 4 (2%) | 3 (1%) |
-| Infections and infestations |  |  |
-| Upper respiratory tract infection | 4 (2%) | 2 (1%) |
-| General disorders and administration site conditions |  |  |
-| Injection site pain | 5 (2%) | 2 (1%) |
+| Musculoskeletal and connective tissue disorders Arthralgia Back pain Myalgia | 8 (3%) 6 (3%) 4 (2%) | 2 (1%) 4 (2%) 3 (1%) |
+| Infections and infestations Upper respiratory tract infection | 4 (2%) | 2 (1%) |
+| General disorders and administration site conditions Injection site pain | 5 (2%) | 2 (1%) |
 
 Cervical Dystonia
 
@@ -213,7 +211,7 @@ The potential for antibody formation may be minimized by injecting with the lowe
 
 The following adverse reactions have been identified during post-approval use of BOTOX.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-These reactions include: abdominal pain; alopecia, including madarosis; anorexia; brachial plexopathy; denervation/muscle atrophy; diarrhea; hyperhidrosis; hypoacusis; hypoaesthesia; malaise; paresthesia; peripheral neuropathy; radiculopathy; erythema multiforme, dermatitis psoriasiform, and psoriasiform eruption; strabismus; tinnitus; and visual disturbances.
+These reactions include: abdominal pain; alopecia, including madarosis; anorexia; brachial plexopathy; denervation/muscle atrophy; diarrhea; dry eye; hyperhidrosis; hypoacusis; hypoaesthesia; localized muscle twitching; malaise; paresthesia; peripheral neuropathy; radiculopathy; erythema multiforme, dermatitis psoriasiform, and psoriasiform eruption; strabismus; tinnitus; and visual disturbances.
 
 There have been spontaneous reports of death, sometimes associated with dysphagia, pneumonia, and/or other significant debility or anaphylaxis, after treatment with botulinum toxin [see Warnings and Precautions (5.4, 5.6)].
 

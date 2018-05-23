@@ -28,9 +28,7 @@ Lower Limb Spasticity
 
 BOTOX is indicated for the treatment of lower limb spasticity in adult patients to decrease the severity of increased muscle tone in ankle and toe flexors (gastrocnemius, soleus, tibialis posterior, flexor hallucis longus, and flexor digitorum longus).
 
-Important Limitations
-
-Safety and effectiveness of BOTOX have not been established for the treatment of other upper or lower limb muscle groups.
+Important Limitations Safety and effectiveness of BOTOX have not been established for the treatment of other upper or lower limb muscle groups.
 Safety and effectiveness of BOTOX have not been established for the treatment of spasticity in pediatric patients under age 18 years.
 BOTOX has not been shown to improve upper extremity functional abilities, or range of motion at a joint affected by a fixed contracture.
 Treatment with BOTOX is not intended to substitute for usual standard of care rehabilitation regimens.
@@ -43,9 +41,7 @@ BOTOX is indicated for the treatment of adults with cervical dystonia, to reduce
 
 BOTOX is indicated for the treatment of severe primary axillary hyperhidrosis that is inadequately managed with topical agents.
 
-Important Limitations
-
-The safety and effectiveness of BOTOX for hyperhidrosis in other body areas have not been established.
+Important Limitations The safety and effectiveness of BOTOX for hyperhidrosis in other body areas have not been established.
 Weakness of hand muscles and blepharoptosis may occur in patients who receive BOTOX for palmar hyperhidrosis and facial hyperhidrosis, respectively.
 Patients should be evaluated for potential causes of secondary hyperhidrosis (e.g., hyperthyroidism) to avoid symptomatic treatment of hyperhidrosis without the diagnosis and/or treatment of the underlying disease.
 
