@@ -3,8 +3,6 @@
 ## 1.1 Treatment of Chronic Iron Overload Due to Blood Transfusions (Transfusional Iron Overload)
 
 Exjade is indicated for the treatment of chronic iron overload due to blood transfusions (transfusional hemosiderosis) in patients 2 years of age and older.
-This indication is based on a reduction of liver iron concentrations and serum ferritin levels [see Clinical Studies (14)].
-An improvement in survival or disease-related symptoms has not been established [see Indications and Usage (1.3)].
 
 ## 1.2 Treatment of Chronic Iron Overload in Non-Transfusion-Dependent Thalassemia Syndromes
 

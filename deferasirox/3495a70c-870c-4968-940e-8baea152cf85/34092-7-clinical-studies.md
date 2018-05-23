@@ -32,7 +32,7 @@ Study 3 was a multicenter, open-label, randomized trial of the safety and effica
 Patients were randomized to Exjade at doses of 5, 10, 20, or 30 mg per kg per day or subcutaneous deferoxamine at doses of 20-60 mg per kg per day for 5 days per week according to baseline LIC.
 
 A total of 195 patients were treated in this study: 132 with Exjade and 63 with deferoxamine.
-44% of patients were less than 16 years of age and 91% were black.
+Fourty-four percent (44%) of patients were less than 16 years of age and 91% were black.
 At end of study, the mean change in LIC (as measured by magnetic susceptometry by a superconducting quantum interference device) in the per protocol-1 (PP-1) population, which consisted of patients who had at least 1 post-baseline LIC assessment, was -1.3 mg Fe/g dry weight for patients receiving Exjade (n = 113) and -0.7 mg Fe/g dry weight for patients receiving deferoxamine (n = 54).
 
 One-hundred five (105) patients with thalassemia major and cardiac iron overload were enrolled in a study assessing the change in cardiac MRI T2* value (measured in milliseconds, ms) before and after treatment with deferasirox.
@@ -40,10 +40,10 @@ Cardiac T2* values at baseline ranged from 5 to less than 20 ms. The geometric m
 Cardiac T2* values improved in patients with severe cardiac iron overload (less than 10 ms) and in those with mild to moderate cardiac iron overload (greater than or equal to 10 to less than 20 ms). The clinical significance of these observations is unknown.
 
 Six hundred twenty-seven (627) patients with MDS were enrolled across 5 uncontrolled trials.
-Two hundred thirty-nine (239) of the 627 patients were enrolled in trials that limited enrollment to patients with IPSS Low or Intermediate 1 risk MDS and the remaining 388 patients were enrolled in trials that did not specify MDS risk stratification but required a life expectancy of greater than 1 year.
+Two hundred thirty-nine (239) of the 627 patients were enrolled in trials that limited enrollment to patients with IPSS Low or Intermediate 1 risk MDS, and the remaining 388 patients were enrolled in trials that did not specify MDS risk stratification but required a life expectancy of greater than 1 year.
 Planned duration of treatment in these trials ranged from 1 year (365 patients) to 5 years (47 patients).
 These trials evaluated the effects of Exjade therapy on parameters of iron overload, including LIC (125 patients) and serum ferritin (627 patients).
-Percent of patients completing planned duration of treatment was 51% in the largest 1 year study, 52% in the 3-year study and 22% in the 5 year study.
+The percent of patients completing planned duration of treatment was 51% in the largest 1 year study, 52% in the 3-year study and 22% in the 5 year study.
 The major causes for treatment discontinuation were withdrawal of consent, adverse reaction, and death.
 Over 1 year of follow-up across these pooled studies, mean change in serum ferritin was -332.8 (±2615.59) mcg/L (n = 593) and mean change in LIC was -5.9 (±8.32) mg Fe/g dw (n = 68).
 Results of these pooled studies in 627 patients with MDS suggest a progressive decrease in serum ferritin and LIC beyond 1 year in those patients who are able to continue Exjade.
@@ -75,12 +75,12 @@ Absolute Change in LIC at Week 52 in NTDT Patients
 |  |  | Exjade | Exjade | Exjade |
 |  | Placebo | 5 mg/kg/day | 10 mg/kg/day | 20 mg/kg/day |
 | Study 42 |  |  |  |  |
-| Number of Patients | n = 54 | n = 51 | n = 54 | - |
+| Number of Patients | n=54 | n=51 | n=54 | - |
 | Mean LIC at Baseline (mg Fe/g dw) | 16.1 | 13.4 | 14.4 | - |
 | Mean Change (mg Fe/g dw) | +0.4 | -2.0 | -3.8 | - |
 | (95% Confidence Interval) | (-0.6, +1.3) | (-2.9, -1.0) | (-4.8, -2.9) | - |
 | Study 5 |  |  |  |  |
-| Number of Patients | - | n = 8 | n = 77 | n = 43 |
+| Number of Patients | - | n=8 | n=77 | n=43 |
 | Mean LIC at Baseline (mg Fe/g dw) | - | 5.6 | 8.8 | 23.5 |
 | Mean Change (mg Fe/g dw) | - | -1.5 | -2.8 | -9.1 |
 | (95% Confidence Interval) | - | (-3.7, +0.7) | (-3.4, -2.2) | (-11.0, -7.3) |

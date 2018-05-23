@@ -2,39 +2,76 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
+Risk Summary
 
-There are no adequate and well-controlled studies with Exjade in pregnant women.
-Administration of deferasirox to animals during pregnancy and lactation resulted in decreased offspring viability and an increase in renal anomalies in male offspring at exposures that were less than the recommended human exposure.
+There are no studies with the use of Exjade in pregnant women to inform drug-associated risks
+
+Administration of deferasirox to rats during pregnancy resulted in decreased offspring viability and an increase in renal anomalies in male offspring at doses that were about or less than the recommended human dose on an mg/m2 basis.
+No fetal effects were noted in pregnant rabbits at doses equivalent to the human recommended dose on an mg/m2 basis.
 Exjade should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-In embryofetal developmental studies, pregnant rats and rabbits received oral deferasirox during the period of organogenesis at doses up to (100 mg per kg/day in rats and 50 mg per kg/day in rabbits) 0.8 times the maximum recommended human dose (MRHD) on a mg/m2 basis.
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+However, the background risk in the U.S. general population of major birth defects is 2% to 4% and of miscarriage is 15% to 20% of clinically recognized pregnancies.
+
+Data
+
+Animal Data
+
+In embryo-fetal developmental studies, pregnant rats and rabbits received oral deferasirox during the period of organogenesis at doses up to 100 mg/kg/day in rats and 50 mg/kg/day in rabbits (1.2 times the maximum recommended human dose (MRHD) on an mg/m2 basis).
 These doses resulted in maternal toxicity but no fetal harm was observed.
 
-In a prenatal and postnatal developmental study, pregnant rats received oral deferasirox daily from organogenesis through lactation day 20 at doses (10, 30, and 90 mg per kg/day) 0.08, 0.2, and 0.7 times the MRHD on a mg/m2 basis.
-Maternal toxicity, loss of litters, and decreased offspring viability occurred at 0.7 times the MRHD on a mg/m2 basis, and increases in renal anomalies in male offspring occurred at 0.2 times the MRHD on a mg/m2 basis.
+In a prenatal and postnatal developmental study, pregnant rats received oral deferasirox daily from organogenesis through lactation day 20 at doses of 10, 30, and 90 mg/kg/day (0.1, 0.3, and 1.0 times the MRHD on a mg/m2 basis).
+Maternal toxicity, loss of litters, and decreased offspring viability occurred at 90 mg/kg/day (1.0 times the MRHD on an mg/m2 basis), and increases in renal anomalies in male offspring occurred at 30 mg/kg/day (0.3 times the MRHD on a mg/m2 basis).
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-It is not known whether Exjade is excreted in human milk.
+Risk Summary
+
+No data are available regarding the presence of Exjade or its metabolites in human milk, the effects of the drug on the breastfed infant, or the effects of the drug on milk production.
 Deferasirox and its metabolites were excreted in rat milk.
-Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from deferasirox and its metabolites, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from deferasirox and its metabolites, a decision should be made whether to discontinue breastfeeding or to discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## 8.4 Pediatric Use
 
-Of the 700 patients with transfusional iron overload who received Exjade during clinical studies, 292 were pediatric patients age 2 to less than 16 years of age with various congenital and acquired anemias, including 52 patients age 2 to less than 6 years, 121 patients age 6 to less than 12 years and 119 patients age 12 to less than 16 years.
-Seventy percent of these patients had beta-thalassemia.
-Children between the ages of 2 to less than 6 years have a systemic exposure to Exjade approximately 50% of that of adults [see Clinical Pharmacology (12.3)].
-However, the safety and efficacy of Exjade in pediatric patients was similar to that of adult patients, and younger pediatric patients responded similarly to older pediatric patients.
-The recommended starting dose and dosing modification are the same for children and adults [see Clinical Studies (14), Indications and Usage (1), Dosage and Administration (2.1)].
+Transfusional Iron Overload
 
-Growth and development in patients with chronic iron overload due to blood transfusions were within normal limits in children followed for up to 5 years in clinical trials.
+The safety and effectiveness of Exjade have been established in pediatric patients 2 years of age and older for the treatment of transfusional iron overload [see Dosage and Administration (2.1)].
 
-Sixteen (16) pediatric patients (10 to less than 16 years of age) with chronic iron overload and NTDT were treated with Exjade in clinical studies.
-The safety and efficacy of Exjade in these children were similar to that seen in the adults.
-The recommended starting dose and dosing modification are the same for children and adults with chronic iron overload in NTDT [see Clinical Studies (14), Indications and Usage (1.2), Dosage and Administration (2.2)].
+Safety and effectiveness have not been established in pediatric patients less than 2 years of age for the treatment of transfusional iron overload.
 
-Safety and effectiveness have not been established in pediatric patients with chronic iron overload due to blood transfusions who are less than 2 years of age or pediatric patients with chronic iron overload and NTDT who are less than 10 years of age.
+Pediatric approval for treatment of transfusional iron overload was based on clinical studies of 292 pediatric patients 2 years to less than 16 years of age with various congenital and acquired anemias.
+Seventy percent of these patients had beta thalassemia [see Indications and Usage (1), Dosage and Administration (2.1), Clinical Studies (14)].
+
+Iron Overload in Non-Transfusion-Dependent Thalassemia Syndromes
+
+The safety and effectiveness of Exjade have been established in patients 10 years of age and older for the treatment of chronic iron overload with non-transfusion-dependent thalassemia (NTDT) syndromes [see Dosage and Administration (2.2)].
+
+Safety and effectiveness have not been established in patients less than 10 years of age with chronic iron overload in NTDT syndromes.
+
+Pediatric approval for treatment of NTDT syndromes with liver iron (Fe) concentration (LIC) of at least 5 mg Fe per gram of dry weight and a serum ferritin greater than 300 mcg/L was based on 16 pediatric patients treated with Exjade therapy (10 years to less than 16 years of age) with chronic iron overload and NTDT.
+Use of Exjade in these age groups is supported by evidence from adequate and well-controlled studies of Exjade in adult and pediatric patients [see Indications and Usage (1.2), Dosage and Administration (2.2), Clinical Studies (14)].
+
+In general, risk factors for deferasirox-associated kidney injury include preexisting renal disease, volume depletion, overchelation, and concomitant use of other nephrotoxic drugs.
+Acute kidney injury, and acute liver injury and failure has occurred in pediatric patients.
+In a pooled safety analysis, pediatric patients with higher Exjade exposures had a greater probability of renal toxicity and decreased renal function, resulting in increased deferasirox exposure and progressive renal toxicity/kidney injury.
+Higher rates of renal adverse events have been identified among pediatric patients receiving Exjade doses greater than 25 mg/kg/day when their serum ferritin values were less than 1,000 mcg/L [see Dosage and Administration (2.5), Warnings and Precautions (5.1, 5.6), Adverse Reactions (6.1, 6.2)].
+
+Monitor renal function by estimating GFR using an eGFR prediction equation appropriate for pediatric patients and evaluate renal tubular function.
+Monitor renal function more frequently in pediatric patients in the presence of renal toxicity risk factors, including episodes of dehydration, fever and acute illness that may result in volume depletion or decreased renal perfusion.
+Use the minimum effective dose [see (Warnings and Precautions (5.1)].
+
+Interrupt Exjade in pediatric patients with transfusional iron overload, and consider dose interruption in pediatric patients with non-transfusion-dependent iron overload, for acute illnesses which can cause volume depletion, such as vomiting, diarrhea, or prolonged decreased oral intake, and monitor more frequently.
+Resume therapy as appropriate, based on assessments of renal function, when oral intake and volume status are normal.
+Evaluate the risk benefit profile of continued Exjade use in the setting of decreased renal function.
+Avoid use of other nephrotoxic drugs [see Dosage and Administration (2.5), Warnings and Precautions (5.1)].
+
+Juvenile Animal Toxicity Data
+
+Renal toxicity was observed in adult mice, rats, and marmoset monkeys administered deferasirox at therapeutic doses.
+In a neonatal and juvenile toxicity study in rats, deferasirox was administered orally from postpartum Day 7 through 70, which equates to a human age range of term neonate through adolescence.
+Increased renal toxicity was identified in juvenile rats compared to adult rats at a dose based on mg/m2 approximately 0.4 times the recommended dose of 20 mg/kg/day.
+A higher frequency of renal abnormalities was noted when deferasirox was administered to non-iron overloaded animals compared to iron overloaded animals.
 
 ## 8.5 Geriatric Use
 
@@ -47,18 +84,17 @@ Dose selection for an elderly patient should be cautious, usually starting at th
 
 ## 8.6 Renal Impairment
 
-For patients with renal impairment (CLCr 40-60 mL/min), reduce the starting dose by 50% [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
-Exjade is contraindicated in patients with a CLCr less than 40 mL/min or serum creatinine greater than 2 times the age-appropriate ULN [see Contraindications (4)].
+Exjade is contraindicated in patients with eGFR less than 40 ml/min/1.73 m2[see Contraindications (4)].
+For patients with renal impairment (eGFR 40–60 mL/min/1.73 m2), reduce the starting dose by 50% [see Dosage and Administration (2.4)].
+Exercise caution in pediatric patients with eGFR between 40 and 60 mL/minute/1.73 m2[see Dosage and Administration (2.4)].
+If treatment is needed, use the minimum effective dose with enhanced monitoring of glomerular and renal tubular function.
+Individualize dose titration based on improvement in renal injury [see Dosage and Administration (2.4, 2.5)].
 
-Exjade can cause renal failure.
-Monitor serum creatinine and calculate CLCr (using Cockcroft-Gault method) during treatment in all patients.
-Reduce, interrupt or discontinue Exjade dosing based on increases in serum creatinine [see Dosage and Administration (2.4, 2.5), Warnings and Precautions (5.1)].
+Exjade can cause glomerular dysfunction, renal tubular toxicity, or both, and can result in acute renal failure.
+Monitor all patients closely for changes in eGFR and renal tubular dysfunction during Exjade treatment.
+If either develops, consider dose reduction, interruption or discontinuation of Exjade until glomerular or renal tubular function returns to baseline [see Dosage and Administration (2.4, 2.5), Warnings and Precautions (5.1)].
 
 ## 8.7 Hepatic Impairment
-
-In a single dose (20 mg/kg) study in patients with varying degrees of hepatic impairment, deferasirox exposure was increased compared to patients with normal hepatic function.
-The average total (free and bound) AUC of deferasirox increased 16% in 6 patients with mild (Child-Pugh A) hepatic impairment, and 76% in 6 patients with moderate (Child-Pugh B) hepatic impairment compared to 6 patients with normal hepatic function.
-The impact of severe (Child-Pugh C) hepatic impairment was assessed in only 1 patient.
 
 Avoid the use of Exjade in patients with severe (Child-Pugh C) hepatic impairment.
 For patients with moderate (Child-Pugh B) hepatic impairment, the starting dose should be reduced by 50%.

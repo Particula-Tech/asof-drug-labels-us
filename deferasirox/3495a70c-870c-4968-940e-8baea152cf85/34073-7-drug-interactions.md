@@ -19,7 +19,7 @@ Closely monitor patients for signs of exposure related toxicity when Exjade is c
 ## 7.4 Agents Metabolized by CYP1A2
 
 Deferasirox inhibits CYP1A2 resulting in an increase in CYP1A2 substrate (e.g., alosetron, caffeine, duloxetine, melatonin, ramelteon, tacrine, theophylline, tizanidine) concentration when these drugs are coadministered.
-An increase in theophylline plasma concentrations could lead to clinically significant theophylline induced CNS or other adverse reactions.
+An increase in theophylline plasma concentrations could lead to clinically significant theophylline-induced CNS or other adverse reactions.
 Avoid the concomitant use of theophylline or other CYP1A2 substrates with a narrow therapeutic index (e.g., tizanidine) with Exjade.
 Monitor theophylline concentrations and consider theophylline dose modification if you must coadminister theophylline with Exjade.
 Closely monitor patients for signs of exposure related toxicity when Exjade is coadministered with other drugs metabolized by CYP1A2 [see Clinical Pharmacology (12.3)].
