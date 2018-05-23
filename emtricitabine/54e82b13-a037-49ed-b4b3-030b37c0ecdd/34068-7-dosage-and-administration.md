@@ -1,52 +1,58 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommended Dose for Treatment of HIV-1 Infection in Adults and Pediatric Patients Weighing 35 Kg or More
+## 2.1 Testing Prior to Initiation of TRUVADA for Treatment of HIV-1 Infection or for HIV-1 PrEP
 
-The recommended dose of TRUVADA in adults and in pediatric patients with body weight greater than or equal to 35 kg is one tablet (containing 200 mg of emtricitabine and 300 mg of tenofovir disoproxil fumarate) once daily taken orally with or without food.
+Prior to or when initiating TRUVADA, test patients for hepatitis B virus infection [see Warnings and Precautions (5.1)].
 
-## 2.2 Recommended Dose for Treatment of HIV-1 Infection in Pediatric Patients Weighing at Least 17 kg and Able to Swallow a Whole Tablet
+Prior to initiation and during use of TRUVADA, on a clinically appropriate schedule, assess serum creatinine, estimated creatinine clearance, urine glucose and urine protein in all patients.
+In patients with chronic kidney disease, also assess serum phosphorus [see Warnings and Precautions (5.3)].
 
-The recommended oral dose for pediatric patients weighing greater than or equal to 17 kg and who are able to swallow a whole tablet is one TRUVADA low-strength tablet (emtricitabine [FTC]/tenofovir disoproxil fumarate [TDF]) (167 mg/250 mg, 133 mg/200 mg, or 100 mg/150 mg based on body weight) taken orally once daily with or without food.
+## 2.2 HIV-1 Screening for Individuals Receiving TRUVADA for HIV-1 PrEP
 
-The recommended oral dosage of TRUVADA low-strength tablets is presented in Table 1.
+Screen all patients for HIV-1 infection before initiating TRUVADA for HIV-1 PrEP and at least once every 3 months while taking TRUVADA [see Indications and Usage (1.2), Contraindications (4) and Warnings and Precautions (5.2)].
+
+## 2.3 Recommended Dosage for Treatment of HIV-1 Infection in Adults and Pediatric Patients Weighing at Least 35 kg
+
+TRUVADA is a two-drug fixed dose combination product containing emtricitabine (FTC) and tenofovir disoproxil fumarate (TDF).
+The recommended dosage of TRUVADA in adults and in pediatric patients weighing at least 35 kg is one tablet (containing 200 mg of FTC and 300 mg of TDF) once daily taken orally with or without food [see Clinical Pharmacology (12.3)].
+
+## 2.4 Recommended Dosage for Treatment of HIV-1 Infection in Pediatric Patients Weighing at Least 17 kg and Able to Swallow a Tablet
+
+The recommended oral dosage of TRUVADA for pediatric patients weighing at least 17 kg and who can swallow a tablet is presented in Table 1.
+Tablets should be taken once daily with or without food.
 Weight should be monitored periodically and the TRUVADA dose adjusted accordingly.
 
-Table 1 Dosing for Pediatric Patients Weighing 17 kg to less than 35 kg using TRUVADA Low-Strength Tablets
+Table 1 Dosing for Treatment of HIV-1 Infection in Pediatric Patients Weighing 17 kg to less than 35 kg
 
-| Body Weight (kg) | Dosing of FTC (mg)/TDF (mg) |
+| Body Weight (kg) | Dosing of TRUVADA (FTC/TDF) |
 | --- | --- |
-| 17 to less than 22 | one 100/150 tablet once daily |
-| 22 to less than 28 | one 133/200 tablet once daily |
-| 28 to less than 35 | one 167/250 tablet once daily |
+| 17 to less than 22 | one 100 mg /150 mg tablet once daily |
+| 22 to less than 28 | one 133 mg /200 mg tablet once daily |
+| 28 to less than 35 | one 167 mg /250 mg tablet once daily |
 
-## 2.3 Recommended Dose for Pre-exposure Prophylaxis
+## 2.5 Recommended Dosage for HIV-1 PrEP
 
-The dose of TRUVADA in HIV-1 uninfected adults is one tablet (containing 200 mg of emtricitabine and 300 mg of tenofovir disoproxil fumarate) once daily taken orally with or without food.
+The dosage of TRUVADA in HIV-1 uninfected adults and adolescents weighing at least 35 kg is one tablet (containing 200 mg of FTC and 300 mg of TDF) once daily taken orally with or without food [see Clinical Pharmacology (12.3)].
 
-## 2.4 Dose Adjustment for Renal Impairment
+## 2.6 Dosage Adjustment in Patients with Renal Impairment
 
 Treatment of HIV-1 Infection
 
-Significantly increased drug exposures occurred when EMTRIVA or VIREAD were administered to subjects with moderate to severe renal impairment [see EMTRIVA or VIREAD prescribing information].
-Therefore, adjust the dosing interval of TRUVADA in HIV-1 infected adult patients with baseline creatinine clearance 30–49 mL/min using the recommendations in Table 2.
-These dosing interval recommendations are based on modeling of single-dose pharmacokinetic data in non-HIV infected subjects.
-The safety and effectiveness of these dosing interval adjustment recommendations have not been clinically evaluated in patients with moderate renal impairment; therefore, clinical response to treatment and renal function should be closely monitored in these patients [see Warnings and Precautions (5.2)].
+Table 2 provides dosage interval adjustment for patients with renal impairment.
+No dosage adjustment is necessary for HIV-1 infected patients with mild renal impairment (creatinine clearance 50–80 mL/min).
+The safety and effectiveness of the dosing interval adjustment recommendations in patients with moderate renal impairment (creatinine clearance 30–49 mL/min) have not been clinically evaluated; therefore, clinical response to treatment and renal function should be closely monitored in these patients [see Warnings and Precautions (5.3)].
 
-No dose adjustment is necessary for HIV-1 infected patients with mild renal impairment (creatinine clearance 50–80 mL/min).
-No data are available to make dose recommendations in pediatric patients with renal impairment.
+No data are available to make dosage recommendations in pediatric patients with renal impairment.
 
-Table 2 Dosage Adjustment for HIV-1 Infected Adult Patients with Altered Creatinine Clearance
+Table 2 Dosage Interval Adjustment for HIV-1 Infected Adult Patients with Altered Creatinine Clearance
 
-| ≥50 | 30–49 | <30 (Including Patients Requiring Hemodialysis) |  |
+|  | ≥50 | 30–49 | <30 (Including Patients Requiring Hemodialysis) |
 | --- | --- | --- | --- |
 |  | Creatinine Clearance (mL/min)Calculated using ideal (lean) body weight |  |  |
-| Recommended Dosing Interval | Every 24 hours | Every 48 hours | TRUVADA should not be administered. |
+| Recommended Dosing Interval | Every 24 hours | Every 48 hours | TRUVADA is not recommended. |
 
-Routine monitoring of estimated creatinine clearance, serum phosphorus, urine glucose, and urine protein should be performed in all individuals with mild renal impairment [see Warnings and Precautions (5.2)].
+HIV-1 PrEP
 
-Pre-exposure Prophylaxis
+TRUVADA for HIV-1 PrEP is not recommended in HIV-1 uninfected individuals with estimated creatinine clearance below 60 mL/min [see Warnings and Precautions (5.3)].
 
-Do not use TRUVADA for a PrEP indication in HIV-1 uninfected individuals with estimated creatinine clearance below 60 mL/min [see Warnings and Precautions (5.2)].
-
-Routine monitoring of estimated creatinine clearance, serum phosphorus, urine glucose, and urine protein should be performed in all individuals with mild renal impairment.
-If a decrease in estimated creatinine clearance is observed in uninfected individuals while using TRUVADA for PrEP, evaluate potential causes and re-assess potential risks and benefits of continued use [see Warnings and Precautions (5.2)].
+If a decrease in estimated creatinine clearance is observed in uninfected individuals while using TRUVADA for HIV-1 PrEP, evaluate potential causes and re-assess potential risks and benefits of continued use [see Warnings and Precautions (5.3)].

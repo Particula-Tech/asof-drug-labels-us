@@ -1,4 +1,3 @@
 # 4 CONTRAINDICATIONS
 
-Do not use TRUVADA for pre-exposure prophylaxis in individuals with unknown or positive HIV-1 status.
-TRUVADA should be used in HIV-infected patients only in combination with other antiretroviral agents.
+TRUVADA for HIV-1 PrEP is contraindicated in individuals with unknown or positive HIV-1 status [see Warnings and Precautions (5.2)].
