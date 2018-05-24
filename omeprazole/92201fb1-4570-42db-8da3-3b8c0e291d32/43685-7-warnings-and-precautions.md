@@ -90,9 +90,6 @@ In high-dose methotrexate administration a temporary withdrawal of the PPI may b
 
 ## 5.12 Fundic Gland Polyps
 
-PPI use, including rabeprazole, is associated with an increased risk of fundic gland polyps which increases with long-term use, especially beyond one year.
-Most PPIs users who developed fundic gland polyps were asymptomatic and were diagnosed incidentally, but some patients presented with nausea, vomiting, or abdominal pain.
-Gastrointestinal bleeding and/or anemia were also reported in patients with ulcerated polyps.
-Patients with polyps may also be at risk for small intestinal blockage.
-
-Use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
+PPI use is associated with an increased risk of fundic gland polyps that increases with long-term use, especially beyond one year.
+Most PPI users who developed fundic gland polyps were asymptomatic and fundic gland polyps were identified incidentally on endoscopy.
+Use the shortest duration of PPI therapy appropriate to the condition being treated.
