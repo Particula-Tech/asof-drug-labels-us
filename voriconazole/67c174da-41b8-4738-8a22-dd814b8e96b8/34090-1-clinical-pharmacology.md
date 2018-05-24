@@ -37,9 +37,9 @@ Table 9: Geometric Mean (%CV) Plasma Voriconazole Pharmacokinetic Parameters in 
 |  | 6 mg/kg IV (loading dose) | 3 mg/kg IV q12h | 4 mg/kg IV q12h | 400 mg Oral (loading dose) | 200 mg Oral q12h | 300 mg Oral q12h |
 | --- | --- | --- | --- | --- | --- | --- |
 | N | 35 | 23 | 40 | 17 | 48 | 16 |
-| AUC12(μg ·h/mL) | 13.9 (32) | 13.7 (53) | 33.9 (54) | 9.31 (38) | 12.4 (78) | 34.0 (53) |
-| Cmax(μg /mL) | 3.13 (20) | 3.03 (25) | 4.77 (36) | 2.30 (19) | 2.31 (48) | 4.74 (35) |
-| Cmin(μg /mL) | -- | 0.46 (97) | 1.73 (74) | -- | 0.46 (120) | 1.63 (79) |
+| AUC12(μg·h/mL) | 13.9 (32) | 13.7 (53) | 33.9 (54) | 9.31 (38) | 12.4 (78) | 34.0 (53) |
+| Cmax(μg/mL) | 3.13 (20) | 3.03 (25) | 4.77 (36) | 2.30 (19) | 2.31 (48) | 4.74 (35) |
+| Cmin(μg/mL) | -- | 0.46 (97) | 1.73 (74) | -- | 0.46 (120) | 1.63 (79) |
 | Note: Parameters were estimated based on non-compartmental analysis from 5 pharmacokinetic studies. AUC12 = area under the curve over 12 hour dosing interval, Cmax = maximum plasma concentration, Cmin = minimum plasma concentration. CV = coefficient of variation. |  |  |  |  |  |  |
 
 When the recommended intravenous loading dose regimen is administered to healthy subjects, plasma concentrations close to steady state are achieved within the first 24 hours of dosing (e.g., 6 mg/kg IV q12h on day 1 followed by 3 mg/kg IV q12h).
@@ -447,60 +447,9 @@ However, the effectiveness of voriconazole in treating clinical infections due t
 
 Candida lusitaniae Candida guilliermondii
 
-### Susceptibility Testing Methods1,2,3
+### Susceptibility Testing
 
-#### Aspergillus Species and Other Filamentous Fungi
-
-No interpretive criteria have been established for Aspergillus species and other filamentous fungi.
-
-#### Candida Species
-
-The interpretive standards for voriconazole against Candida species are applicable only to tests performed using Clinical Laboratory and Standards Institute (CLSI) microbroth dilution reference method M27 for MIC read at 24 hours or disk diffusion reference method M44 for zone diameter read at 24 hours.1,2,3
-
-#### Dilution Techniques
-
-Quantitative methods are used to determine antifungal MICs.
-These MICs provide estimates of the susceptibility of Candida spp. to antifungal agents.
-The MICs should be determined using a standardized test method at 24 hours1,2 (broth dilution).
-The MIC values should be interpreted according to the criteria provided in Table 10.
-
-#### Diffusion Techniques
-
-Qualitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of Candida spp. to an antifungal agent.
-One such standardized procedure requires the use of standardized inoculum concentrations.2 This procedure uses paper disks impregnated with 1 μg of voriconazole to test the susceptibility of yeasts to voriconazole at 24 hours.
-Disk diffusion interpretive criteria are also provided in Table 10.
-
-Table 10: Susceptibility Interpretive Criteria for Voriconazole1,2,3
-
-|  | Broth Microdilution at 24 hours(MIC in μg/mL) |  |  | Disk Diffusion at 24 hoursThe current data are insufficient to demonstrate a correlation between in vitro susceptibility testing and clinical outcome for C. glabrate and voriconazole.(Zone diameters in mm) |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Susceptible(S) | Intermediate (I) | Resistant(R) | Susceptible(S) | Intermediate (I) | Resistant(R) |  |
-| C. albicans | ≤ 0.12 | 0.25-0.5 | ≥ 1.0 | ≥ 17 | 15-16 | ≤ 14 |
-| C. krusei | ≤ 0.5 | 1 | ≥ 2 | ≥ 15 | 13-14 | ≤ 12 |
-| C. parapsilosis | ≤ 0.12 | 0.25-0.5 | ≥ 1 | ≥ 17 | 15-16 | ≤ 14 |
-| C. tropicalis | ≤ 0.12 | 0.25-0.5 | ≥ 1 | ≥ 17 | 15-16 | ≤ 14 |
-
-A report of Susceptible (S) indicates that the antimicrobial drug is likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
-A report of Intermediate (I) indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
-This category implies possible clinical applicability in body sites where the drugs are physiologically concentrated or when a high dosage of drug is used.
-This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of Resistant (R) indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentrations usually achievable at the infection site; other therapy should be selected.
-
-### Quality Control
-
-Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.1,2,3 Standard voriconazole powder should provide the following range of MIC values noted in Table 11.
-For the diffusion technique using the 1 mcg disk, the criteria in Table 11 should be achieved.
-
-NOTE: Quality control microorganisms are specific strains of organisms with intrinsic biological properties relating to resistance mechanisms and their genetic expression within fungi; the specific strains used for microbiological control are not clinically significant.
-
-Table 11: Acceptable Quality Control Ranges for Voriconazole to be used in Validation of Susceptibility Test Results
-
-| QC Strain | Broth Microdilution(MIC in μg/mL) at 24-hour | Disk Diffusion(Zone diameter in mm)at 24-hour |
-| --- | --- | --- |
-| Candida parapsilosis ATCC 22019 | 0.016-0.12 | 28-37 |
-| Candida krusei ATCC 6258 | 0.06-0.5 | 16-25 |
-| Candida albicans ATCC 90028 | Quality control ranges have not been established for this strain/antifungal agent combination due to their extensive interlaboratory variation during initial quality control studies. | 31-42 |
-| ATCC is a registered trademark of the American Type Culture Collection. |  |  |
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by the FDA for this drug, please see: https://www.fda.gov/STIC.
 
 ## 12.5 Pharmacogenomics
 

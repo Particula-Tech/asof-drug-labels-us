@@ -161,7 +161,7 @@ This Patient Information leaflet summarizes the most important information about
 If you would like more information, talk to your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about voriconazole tablets that is written for health professionals.
 
-For more information, call Mylan Pharmaceuticals Inc. at 1-877-446-3679 (1-877-4-INFO-RX).
+For more information, call Mylan at 1-877-446-3679 (1-877-4-INFO-RX).
 
 What are the ingredients of voriconazole tablets?
 
@@ -177,6 +177,6 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
 
-75063184
+75064793
 
-Revised: 8/2017 MX:VORIC:R7
+Revised: 4/2018 MX:VORIC:R8
