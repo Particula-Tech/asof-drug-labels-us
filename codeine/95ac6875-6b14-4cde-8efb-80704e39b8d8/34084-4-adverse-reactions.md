@@ -14,6 +14,7 @@ The following serious adverse reactions are described, or described in greater d
 
 The following adverse reactions associated with the use of codeine were identified in postmarketing reports.
 Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
 Serious adverse reactions associated with codeine are respiratory depression and, to a lesser degree, circulatory depression, respiratory arrest, shock, and cardiac arrest.
 
 The most frequently observed adverse reactions with codeine administration include drowsiness, lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, sweating, and constipation.

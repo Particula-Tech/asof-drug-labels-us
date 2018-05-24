@@ -38,7 +38,7 @@ If a decision is made to treat serious respiratory depression in the physically 
 
 ### Acetaminophen
 
-Gastric decontamination with activated charcoal should be administered just prior to N- acetylcysteine (NAC) to decrease systemic absorption if acetaminophen ingestion is known or suspected to have occurred within a few hours of presentation.
+Gastric decontamination with activated charcoal should be administered just prior to N-acetylcysteine (NAC) to decrease systemic absorption if acetaminophen ingestion is known or suspected to have occurred within a few hours of presentation.
 
 Serum acetaminophen levels should be obtained immediately if the patient presents 4 hours or more after ingestion to assess potential risk of hepatotoxicity; acetaminophen levels drawn less than 4 hours post-ingestion may be misleading.
 To obtain the best possible outcome, NAC should be administered as soon as possible where impending or evolving liver injury is suspected.
