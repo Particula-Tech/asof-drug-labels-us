@@ -5,4 +5,4 @@ Signs of overdose may include confusion, drowsiness, continuing headache, proble
 In case of overdosage, the dose should be reduced, frequency of administration decreased, or the drug withdrawn according to the severity of the condition.
 There is no known specific antidote for desmopressin acetate or Desmopressin Acetate Nasal Spray Solution.
 An oral LD50 has not been established.
-An intravenous dose of 2 mg/ kg in mice demonstrated no effect.
+An intravenous dose of 2 mg/kg in mice demonstrated no effect.

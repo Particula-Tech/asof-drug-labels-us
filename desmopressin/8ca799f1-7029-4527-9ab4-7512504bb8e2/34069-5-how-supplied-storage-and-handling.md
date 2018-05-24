@@ -7,10 +7,10 @@ Desmopressin Acetate Nasal Spray Solution, 10 mcg/0.1 mL is supplied in a bottle
 Store in refrigerator at 2°-8°C (36°-46°F).
 When traveling, product will maintain stability for up to 3 weeks when stored at room temperature, 22°C (72°F).
 
-KEEP OUT OF REACH OF CHILDREN
+Keep out of reach of children.
 
 Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-©Bausch & Lomb Incorporated
+© Bausch & Lomb Incorporated
 
-Revised: June 2017 9035705 (Folded) 9045705 (Flat)
+Revised: May 2018 Update p/n (Folded) Update p/n (Flat)
