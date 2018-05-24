@@ -263,9 +263,9 @@ Ciprofloxacin Injection, USP (in 5% Dextrose Injection):
 
 Brands listed are the trademarks of their respective owners.
 
-SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2017 Sagent Pharmaceuticals, Inc.
+SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2018 Sagent Pharmaceuticals, Inc.
 
-Revised: August 2017
+Revised: February 2018
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
