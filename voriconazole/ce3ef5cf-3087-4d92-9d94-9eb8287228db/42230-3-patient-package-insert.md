@@ -193,6 +193,6 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com.
 
-LAB-0311-12.0
+LAB-0311-13.0
 
-February 2015
+Revised: May 2018
