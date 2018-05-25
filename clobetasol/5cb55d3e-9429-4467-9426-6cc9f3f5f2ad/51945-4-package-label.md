@@ -12,7 +12,7 @@ Not for Ophthalmic, Oral, or Intravaginal Use
 
 Invert can and then press firmly to dispense.
 
-Description: Olux® (clobetasol propionate) Foam, 0.05%, contains 0.5 mg of clobetsol propionate, USP per gram in a thermolabile hydroethanolic foam vehicle consisting of cetyl alcohol, citric acid, ethanol (60%), polysorbate 60, potassium citrate, propylene glycol, purified water, and stearyl alcohol pressurized with a hydrocarbon (propane/butane) propellant.
+Description: Olux® (clobetasol propionate) Foam, 0.05%, contains 0.5 mg of clobetasol propionate, USP per gram in a thermolabile hydroethanolic foam vehicle consisting of cetyl alcohol, citric acid, ethanol (60%), polysorbate 60, potassium citrate, propylene glycol, purified water, and stearyl alcohol pressurized with a hydrocarbon (propane/butane) propellant.
 
 Usual Dosage: Use only as prescribed by your physician.
 See accompanying prescribing information.
@@ -32,7 +32,7 @@ Store at 20° to 25°C (68° to 77°F).
 
 CFC FREE
 
-DPT:8182:50:1C:R2 117504-0418
+DPT:8182:50:1C:R3 117504-0518
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
