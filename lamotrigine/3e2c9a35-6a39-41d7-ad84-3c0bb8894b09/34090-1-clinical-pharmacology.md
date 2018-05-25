@@ -64,7 +64,7 @@ Steady-State Bioavailability of LAMICTAL XR Relative to Immediate-Release Lamotr
 | Valproate | 0.94 (0.81, 1.08) | 0.88 (0.75, 1.03) | 0.99 (0.88, 1.10) |
 | Antiepileptic drugs other than enzyme-inducing antiepileptic drugsa or valproate | 1.00 (0.88, 1.14) | 0.89 (0.78, 1.03) | 1.14 (1.03, 1.25) |
 
-1. a Enzyme-inducing antiepileptic drugs include carbamazepine, phenytoin, phenobarbital, and primidone.
+- a Enzyme-inducing antiepileptic drugs include carbamazepine, phenytoin, phenobarbital, and primidone.
 
 Dose Proportionality
 
@@ -122,14 +122,15 @@ Mean Pharmacokinetic Parametersa of Immediate-Release Lamotrigine in Healthy Vol
 | Single-dose lamotrigine | 24 | 14.4(6.4-30.4) | 1.10(0.51-2.22) |
 | Multiple-dose lamotrigine | 17 | 12.6(7.5-23.1) | 1.21(0.66-1.82) |
 
-1. a The majority of parameter means determined in each study had coefficients of variation between 20% and 40% for half-life and CL/F and between 30% and 70% for T max. The overall mean values were calculated from individual study means that were weighted based on the number of volunteers/subjects in each study.
-   The numbers in parentheses below each parameter mean represent the range of individual volunteer/subject values across studies.
-2. b Carbamazepine, phenytoin, phenobarbital, and primidone have been shown to increase the apparent clearance of lamotrigine.
-   Estrogen-containing oral contraceptives and other drugs, such as rifampin and protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir, that induce lamotrigine glucuronidation have also been shown to increase the apparent clearance of lamotrigine [see Drug Interactions (7)].
+- a The majority of parameter means determined in each study had coefficients of variation between 20% and 40% for half-life and CL/F and between 30% and 70% for Tmax.
+  The overall mean values were calculated from individual study means that were weighted based on the number of volunteers/subjects in each study.
+  The numbers in parentheses below each parameter mean represent the range of individual volunteer/subject values across studies.
+- b Carbamazepine, phenytoin, phenobarbital, and primidone have been shown to increase the apparent clearance of lamotrigine.
+  Estrogen-containing oral contraceptives and other drugs, such as rifampin and protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir, that induce lamotrigine glucuronidation have also been shown to increase the apparent clearance of lamotrigine [see Drug Interactions (7)].
 
 Drug Interactions
 
-The apparent clearance of lamotrigine is affected by the coadministration of certain medications [see Warnings and Precautions (5.7, 5.11), Drug Interactions (7)].
+The apparent clearance of lamotrigine is affected by the coadministration of certain medications [see Warnings and Precautions (5.8, 5.12), Drug Interactions (7)].
 
 The net effects of drug interactions with lamotrigine, based on drug interaction studies using immediate-release lamotrigine, are summarized in Tables 5 and 8, followed by details of the drug interaction studies below.
 
@@ -149,7 +150,7 @@ Summary of Drug Interactions with Lamotrigine
 | Levetiracetam | ↔ | ↔ |
 | Lithium | ↔ | Not assessed |
 | Lopinavir/ritonavir | ↔e | ↓ |
-| Olanzapine | ↔ | ↔g |
+| Olanzapine | ↔ | ↔e |
 | Oxcarbazepine | ↔ | ↔ |
 | 10-Monohydroxy oxcarbazepine metaboliteh | ↔ |  |
 | Phenobarbital/primidone | ↔ | ↓ |
@@ -158,21 +159,21 @@ Summary of Drug Interactions with Lamotrigine
 | Rifampin | Not assessed | ↓ |
 | Risperidone | ↔ | Not assessed |
 | 9-Hydroxyrisperidonei | ↔ |  |
-| Topiramate | ↔h | ↔ |
+| Topiramate | ↔j | ↔ |
 | Valproate | ↓ | ↑ |
 | Valproate + phenytoin and/or carbamazepine | Not assessed | ↔ |
 | Zonisamide | Not assessed | ↔ |
 
-1. aFrom adjunctive clinical trials and volunteer trials.
-2. bNet effects were estimated by comparing the mean clearance values obtained in adjunctive clinical trials and volunteer trials.
-3. cThe effect of other hormonal contraceptive preparations or hormone replacement therapy on the pharmacokinetics of lamotrigine has not been systematically evaluated in clinical trials, although the effect may be similar to that seen with the ethinylestradiol/levonorgestrel combinations.
-4. dModest decrease in levonorgestrel.
-5. eSlight decrease, not expected to be clinically meaningful.
-6. fCompared with historical controls.
-7. gNot administered, but an active metabolite of carbamazepine.
-8. hNot administered, but an active metabolite of oxcarbazepine.
-9. i Not administered, but an active metabolite of risperidone.
-10. jSlight increase, not expected to be clinically meaningful.
+- a From adjunctive clinical trials and volunteer trials.
+- b Net effects were estimated by comparing the mean clearance values obtained in adjunctive clinical trials and volunteer trials.
+- c The effect of other hormonal contraceptive preparations or hormone replacement therapy on the pharmacokinetics of lamotrigine has not been systematically evaluated in clinical trials, although the effect may be similar to that seen with the ethinylestradiol/levonorgestrel combinations.
+- d Modest decrease in levonorgestrel.
+- e Slight decrease, not expected to be clinically meaningful.
+- f Compared with historical controls.
+- g Not administered, but an active metabolite of carbamazepine.
+- h Not administered, but an active metabolite of oxcarbazepine.
+- I Not administered, but an active metabolite of risperidone.
+- j Slight increase, not expected to be clinically meaningful.
 
 ↔ = No significant effect.
 

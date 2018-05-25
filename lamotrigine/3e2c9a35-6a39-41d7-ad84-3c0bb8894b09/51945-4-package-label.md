@@ -278,8 +278,8 @@ Made in India
 
 ©2017 the GSK group of companies
 
-1. 10000000146034 Rev.
-   5/17
+1. 546721-01 Rev.
+   11/17
 
 PRINCIPAL DISPLAY PANEL
 
@@ -323,16 +323,12 @@ Dispense the accompanying Medication Guide to each patient.
 
 CAUTION: Verify Product Dispensed
 
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
-
 Made in India
 
 ©2017 the GSK group of companies
 
-1. 10000000145981 Rev.
-   4/17
+1. 546720-01 Rev.
+   11/17
 
 PRINCIPAL DISPLAY PANEL
 
@@ -376,13 +372,9 @@ Dispense the accompanying Medication Guide to each patient.
 
 CAUTION: Verify Product Dispensed
 
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
-
 Made in India
 
 ©2017 the GSK group of companies
 
-1. 10000000145969 Rev.
-   4/17
+1. 546722-01 Rev.
+   11/17
