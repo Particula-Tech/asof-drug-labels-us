@@ -2,12 +2,11 @@
 
 The following adverse reactions are discussed in other sections of the labeling:
 
-- Lactic acidosis and severe hepatomegaly with steatosis [see Boxed Warning, Warnings and Precautions (5.1)].
-- Exacerbations of hepatitis B [see Boxed Warning, Warnings and Precautions (5.2)].
+- Exacerbations of hepatitis B [see Boxed Warning, Warnings and Precautions (5.1)].
+- Lactic acidosis and severe hepatomegaly with steatosis [see Warnings and Precautions (5.2)].
 - Hepatic decompensation in patients co-infected with HIV-1 and hepatitis C [see Warnings and Precautions (5.3)].
 - Pancreatitis [see Warnings and Precautions (5.4)].
 - Immune reconstitution syndrome [see Warnings and Precautions (5.5)].
-- Fat redistribution [see Warnings and Precautions (5.7)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -85,7 +84,7 @@ ND = Not done.
 
 The frequencies of selected laboratory abnormalities reported in subjects receiving lamivudine 300 mg once daily or lamivudine 150 mg twice daily (in 3-drug combination regimens in EPV20001 and EPV40001) were similar.
 
-Clinical Trials Experience in Pediatric Subjects EPIVIR oral solution has been studied in 638 pediatric subjects aged 3 months to 18 years in 3 clinical trials.
+Clinical Trials Experience in Pediatric Subjects Lamivudine oral solution has been studied in 638 pediatric subjects aged 3 months to 18 years in 3 clinical trials.
 
 Selected clinical adverse reactions and physical findings with a greater than or equal to 5% frequency during therapy with lamivudine 4 mg per kg twice daily plus RETROVIR 160 mg per m2 3 times daily in therapy-naive (less than or equal to 56 days of antiretroviral therapy) pediatric subjects are listed in Table 5.
 
@@ -140,8 +139,10 @@ Frequencies of Selected Grade 3 to 4 Laboratory Abnormalities in Pediatric Subje
 
 ULN = Upper limit of normal.
 
-Additional pediatric use information for patients aged 3 months and above is approved for ViiV Healthcare Company’s EPIVIR® (lamivudine) tablets and oral solution.
-However, due to ViiV Healthcare Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Pediatric Subjects Once-Daily versus Twice-Daily Dosing (COL105677): The safety of once-daily compared with twice-daily dosing of lamivudine was assessed in the ARROW trial.
+Primary safety assessment in the ARROW trial was based on Grade 3 and Grade 4 adverse events.
+The frequency of Grade 3 and 4 adverse events was similar among subjects randomized to once-daily dosing compared with subjects randomized to twice-daily dosing.
+One event of Grade 4 hepatitis in the once-daily cohort was considered as uncertain causality by the investigator and all other Grade 3 or 4 adverse events were considered not related by the investigator.
 
 Neonates Limited short-term safety information is available from 2 small, uncontrolled trials in South Africa in neonates receiving lamivudine with or without zidovudine for the first week of life following maternal treatment starting at Week 38 or 36 of gestation [see Clinical Pharmacology (12.3)].
 Selected adverse reactions reported in these neonates included increased liver function tests, anemia, diarrhea, electrolyte disturbances, hypoglycemia, jaundice and hepatomegaly, rash, respiratory infections, and sepsis; 3 neonates died (1 from gastroenteritis with acidosis and convulsions, 1 from traumatic injury, and 1 from unknown causes).
@@ -155,7 +156,7 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 These reactions have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal connection to lamivudine.
 
-Body as a Whole Redistribution/accumulation of body fat [see Warnings and Precautions (5.7)].
+Body as a Whole Redistribution/accumulation of body fat.
 
 Endocrine and Metabolic Hyperglycemia.
 
@@ -163,7 +164,7 @@ General Weakness.
 
 Hemic and Lymphatic Anemia (including pure red cell aplasia and severe anemias progressing on therapy).
 
-Hepatic and Pancreatic Lactic acidosis and hepatic steatosis [see Warnings and Precautions (5.1)], posttreatment exacerbations of hepatitis B [see Warnings and Precautions (5.2)].
+Hepatic and Pancreatic Lactic acidosis and hepatic steatosis [see Warnings and Precautions (5.2)], posttreatment exacerbations of hepatitis B [see Warnings and Precautions (5.1)].
 
 Hypersensitivity Anaphylaxis, urticaria.
 

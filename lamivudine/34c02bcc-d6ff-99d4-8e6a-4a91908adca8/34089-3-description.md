@@ -10,8 +10,8 @@ Lamivudine methanol solvate is a white to off-white powder.
 It is highly soluble in water.
 
 Lamivudine tablets, USP are for oral administration.
-Each scored 150-mg film-coated tablet contains lamivudine methanol solvate equivalent to 150 mg of lamivudine and the inactive ingredients colloidal silicon dioxide, crospovidone, hydroxypropyl cellulose, hydroxypropyl methylcellulose, lactose anhydrous, magnesium stearate, polyethylene glycol, and titanium dioxide.
+Each scored 150-mg film-coated tablet contains lamivudine methanol solvate equivalent to 150 mg of lamivudine and the inactive ingredients colloidal silicon dioxide, crospovidone, hydroxypropyl cellulose, hydroxypropyl methylcellulose, lactose anhydrous, magnesium stearate, polyethylene glycol and titanium dioxide.
 
-Each 300-mg film-coated tablet contains lamivudine methanol solvate equivalent to 300 mg of lamivudine, and the inactive ingredients black iron oxide, colloidal silicon dioxide, crospovidone, hydroxypropyl cellulose, hydroxypropyl methylcellulose, lactose anhydrous, magnesium stearate, polyethylene glycol, and titanium dioxide.
+Each 300-mg film-coated tablet contains lamivudine methanol solvate equivalent to 300 mg of lamivudine, and the inactive ingredients colloidal silicon dioxide, crospovidone, hydroxypropyl cellulose, hydroxypropyl methylcellulose, iron oxide black, lactose anhydrous, magnesium stearate, polyethylene glycol and titanium dioxide.
 
 Meets USP Dissolution Test 2.

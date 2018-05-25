@@ -2,8 +2,8 @@
 
 ## 2.1 Recommended Dosage for Adult Patients
 
-- The recommended dosage of lamivudine tablets in HIV-1-infected adults is 300 mg daily, administered as either 150 mg taken orally twice daily or 300 mg taken orally once daily with or without food.
-  If lamivudine is administered to a patient infected with HIV-1 and HBV, the dosage indicated for HIV-1 therapy should be used as part of an appropriate combination regimen [see Warnings and Precautions (5.2)].
+The recommended dosage of lamivudine tablets in HIV-1-infected adults is 300 mg daily, administered as either 150 mg taken orally twice daily or 300 mg taken orally once daily with or without food.
+If lamivudine is administered to a patient infected with HIV-1 and HBV, the dosage indicated for HIV-1 therapy should be used as part of an appropriate combination regimen [see Warnings and Precautions (5.1)].
 
 ## 2.2 Recommended Dosage for Pediatric Patients
 
@@ -15,17 +15,16 @@ The recommended oral dosage of lamivudine tablets for HIV-1-infected pediatric p
 Table 1.
 Dosing Recommendations for Lamivudine Scored (150-mg) Tablets in Pediatric Patients
 
-| Weight (kg) | Twice-Daily Dosing Regimen Using Scored 150-mg Tablet |  |  |
-| --- | --- | --- | --- |
-| AM Dose | PM Dose | Total Daily Dose |  |
-| 14 to <20 | ½ tablet (75 mg) | ½ tablet (75 mg) | 150 mg |
-| ≥20 to <25 | ½ tablet (75 mg) | 1 tablet (150 mg) | 225 mg |
-| ≥25 | 1 tablet (150 mg) | 1 tablet (150 mg) | 300 mg |
+| Weight (kg) | Once-Daily Dosing Regimena | Twice-Daily Dosing Regimen Using Scored 150-mg Tablet |  |  |
+| --- | --- | --- | --- | --- |
+| AM Dose | PM Dose | Total Daily Dose |  |  |
+| 14 to <20 | 1 tablet (150 mg) | ½ tablet (75 mg) | ½ tablet (75 mg) | 150 mg |
+| ≥20 to <25 | 1½ tablets (225 mg) | ½ tablet (75 mg) | 1 tablet (150 mg) | 225 mg |
+| ≥25 | 2 tablets (300 mg)b | 1 tablet (150 mg) | 1 tablet (150 mg) | 300 mg |
 
-The recommended dosage of EPIVIR oral solution in HIV-1-infected pediatric patients aged 3 months and older is 5 mg per kg taken orally twice daily (up to a maximum of 300 mg daily), administered in combination with other antiretroviral agents [see Clinical Pharmacology (12.3)].
+aData regarding the efficacy of once-daily dosing is limited to subjects who transitioned from twice-daily dosing to once-daily dosing after 36 weeks of treatment [see Clinical Studies (14.2)].
 
-Additional pediatric use information for patients aged 3 months and above is approved for ViiV Healthcare Company’s EPIVIR® (lamivudine) tablets and oral solution.
-However, due to ViiV Healthcare Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+bPatients may alternatively take one 300-mg tablet, which is not scored.
 
 ## 2.3 Patients with Renal Impairment
 

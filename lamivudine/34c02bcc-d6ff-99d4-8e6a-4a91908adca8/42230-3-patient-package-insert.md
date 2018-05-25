@@ -5,37 +5,15 @@ Lamivudine Tablets, USP
 (la miv' ue deen)
 
 What is the most important information I should know about lamivudine tablets?
+
 Lamivudine tablets can cause serious side effects, including:
-
-- Build-up of an acid in your blood (lactic acidosis).
-  Lactic acidosis can happen in some people who take lamivudine tablets.
-  Lactic acidosis is a serious medical emergency that can cause death.
-  Call your healthcare provider right away if you get any of the following symptoms that could be signs of lactic acidosis:
-
-| • feel very weak or tired | • feel cold, especially in your arms and legs |
-| --- | --- |
-| • unusual (not normal) muscle pain | • feel dizzy or light-headed |
-| • trouble breathing | • have a fast or irregular heartbeat |
-| • stomach pain with nausea and vomiting |  |
-
-- Serious liver problems can happen in people who take lamivudine tablets.
-  In some cases these serious liver problems can lead to death.
-  Your liver may become large (hepatomegaly) and you may develop fat in your liver (steatosis).
-  Call your healthcare provider right away if you get any of the following signs or symptoms of liver problems:
-
-| • your skin or the white part of your eyes turns yellow (jaundice) | • loss of appetite for several days or longer |
-| --- | --- |
-| • dark or "tea-colored" urine | • nausea |
-| • light-colored stools (bowel movements) | • pain, aching, or tenderness on the right side of your stomach area |
-
-You may be more likely to get lactic acidosis or serious liver problems if you are female, very overweight (obese), or have been taking nucleoside analog medicines for a long time.
 
 - Worsening of hepatitis B virus in people who have HIV-1 infection.
   If you have HIV-1 (Human Immunodeficiency Virus type 1) and hepatitis B virus (HBV) infection, your HBV may get worse (flare-up) if you stop taking lamivudine tablets.
-  A "flare-up" is when your HBV infection suddenly returns in a worse way than before.
+  A “flare-up” is when your HBV infection suddenly returns in a worse way than before.
   Worsening liver disease can be serious and may lead to death.
   - Do not run out of lamivudine tablets.
-    Refill your prescription or talk to your healthcare provider before your lamivudine tablets are all gone.
+    Refill your prescription or talk to your healthcare provider before your lamivudine tablets is all gone.
   - Do not stop lamivudine tablets without first talking to your healthcare provider.
   - If you stop taking lamivudine tablets, your healthcare provider will need to check your health often and do blood tests regularly for several months to check your liver.
 - Resistant Hepatitis B Virus (HBV).
@@ -75,8 +53,6 @@ Before you take lamivudine tablets, tell your healthcare provider if you:
   Do not breastfeed if you take lamivudine tablets.
   - You should not breastfeed if you have HIV-1 because of the risk of passing HIV-1 to your baby.
 
-Talk with your healthcare provider about the best way to feed your baby.
-
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
 Some medications interact with lamivudine.
@@ -104,6 +80,23 @@ What are the possible side effects of lamivudine tablets?
 
 - Lamivudine tablets can cause serious side effects including:
 - See "What is the most important information I should know about lamivudine tablets?"
+- Build-up of an acid in your blood (lactic acidosis).
+  Lactic acidosis can happen in some people who take lamivudine tablets.
+  Lactic acidosis is a serious medical emergency that can cause death.
+  Call your healthcare provider right away if you get any of the following symptoms that could be signs of lactic acidosis:
+
+| • feel very weak or tired • unusual (not normal) muscle pain • trouble breathing • stomach pain with nausea and vomiting | • feel cold, especially in your arms and legs • feel dizzy or light-headed • have a fast or irregular heartbeat |
+| --- | --- |
+
+- Serious liver problems can happen in people who take lamivudine tablets.
+  In some cases these serious liver problems can lead to death.
+  Your liver may become large (hepatomegaly) and you may develop fat in your liver (steatosis).
+  Call your healthcare provider right away if you get any of the following signs or symptoms of liver problems:
+
+| • your skin or the white part of your eyes turns yellow (jaundice) • dark or “tea-colored” urine • light-colored stools (bowel movements) | • loss of appetite for several days or longer • nausea • pain, aching, or tenderness on the right side of your stomach area |
+| --- | --- |
+
+You may be more likely to get lactic acidosis or serious liver problems if you are female or very overweight (obese).
 
 - Risk of inflammation of the pancreas (pancreatitis).
   Children may be at risk for developing pancreatitis during treatment with lamivudine tablets if they:
@@ -118,10 +111,6 @@ Your healthcare provider may tell you to stop giving lamivudine tablets to your 
 - Changes in your immune system (Immune Reconstitution Syndrome) can happen when you start taking HIV-1 medicines.
   Your immune system may get stronger and begin to fight infections that have been hidden in your body for a long time.
   Tell your healthcare provider right away if you start having new symptoms after you start taking lamivudine tablets.
-- Changes in body fat can happen in people who take HIV-1 medicines.
-  These changes may include an increased amount of fat in the upper back and neck ("buffalo hump"), breast, and around the middle of your body (trunk).
-  Loss of fat from the legs, arms, and face may also happen.
-  The exact cause and long-term health effects of these conditions are not known.
 
 The most common side effects of lamivudine tablets in adults include:
 
@@ -136,7 +125,7 @@ The most common side effects of lamivudine tablets in children include fever and
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
 These are not all the possible side effects of lamivudine tablets.
-Call your healthcare provider for medical advice about side effects.
+Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store lamivudine tablets?
@@ -160,11 +149,11 @@ To report Suspected Adverse Reactions, contact Apotex Corp., at 1-800-706-5575 o
 What are the ingredients in lamivudine tablets?
 Active ingredient: lamivudine
 
-Inactive ingredients: black iron oxide, colloidal silicon dioxide, crospovidone, hydroxypropyl cellulose, hydroxypropyl methylcellulose, lactose anhydrous, magnesium stearate, polyethylene glycol, and titanium dioxide.
+Inactive ingredients: colloidal silicon dioxide, crospovidone, hydroxypropyl cellulose, hydroxypropyl methylcellulose, iron oxide black, lactose anhydrous, magnesium stearate, polyethylene glycol, and titanium dioxide.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-The other brands listed are trademarks of their respective owners.
+All registered trademarks in this document are the property of their respective owners.
 
 APOTEX INC. LAMIVUDINE TABLETS, USP 150 mg and 300 mg
 
@@ -174,7 +163,7 @@ APOTEX INC. LAMIVUDINE TABLETS, USP 150 mg and 300 mg
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | USA 33326 |
 
-Revised: November 2017
+Revised: May 2018
 
 Rev.
-11
+12

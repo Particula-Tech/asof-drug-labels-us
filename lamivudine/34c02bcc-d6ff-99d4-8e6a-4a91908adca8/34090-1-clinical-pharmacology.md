@@ -74,7 +74,7 @@ Patients with Hepatic Impairment The pharmacokinetic properties of lamivudine ha
 Pharmacokinetic parameters were not altered by diminishing hepatic function.
 Safety and efficacy of lamivudine have not been established in the presence of decompensated liver disease.
 
-Pregnancy Lamivudine pharmacokinetics were studied in 36 pregnant women during 2 clinical trials conducted in South Africa.
+Pregnant Women Lamivudine pharmacokinetics were studied in 36 pregnant women during 2 clinical trials conducted in South Africa.
 Lamivudine pharmacokinetics in pregnant women were similar to those seen in non-pregnant adults and in postpartum women.
 Lamivudine concentrations were generally similar in maternal, neonatal, and umbilical cord serum samples.
 
@@ -84,8 +84,31 @@ Pediatric subjects receiving lamivudine oral tablets achieved plasma concentrati
 The absolute bioavailability of both lamivudine tablets and oral solution are lower in children than adults.
 The relative bioavailability of lamivudine oral solution is approximately 40% lower than tablets containing lamivudine in pediatric subjects despite no difference in adults.
 Lower lamivudine exposures in pediatric patients receiving lamivudine oral solution is likely due to the interaction between lamivudine and concomitant solutions containing sorbitol (such as ZIAGEN).
-Modeling of pharmacokinetic data suggests increasing the dosage of EPIVIR oral solution to 5 mg per kg taken orally twice daily (up to a maximum of 300 mg daily) is needed to achieve sufficient concentrations of lamivudine [see Dosage and Administration (2.2)].
+Modeling of pharmacokinetic data suggests increasing the dosage of lamivudine oral solution to 5 mg per kg taken orally twice daily or 10 mg per kg taken orally once daily (up to a maximum of 300 mg daily) is needed to achieve sufficient concentrations of lamivudine [see Dosage and Administration (2.2)].
 There are no clinical data in HIV-1 infected pediatric patients coadministered with sorbitol-containing medicines at this dose.
+
+The pharmacokinetics of lamivudine dosed once daily in HIV-1-infected pediatric subjects aged 3 months through 12 years was evaluated in 3 trials (PENTA-15 [n = 17], PENTA 13 [n = 19], and ARROW PK [n = 35]).
+All 3 trials were 2-period, crossover, open-label pharmacokinetic trials of twice- versus once-daily dosing of abacavir and lamivudine.
+These 3 trials demonstrated that once-daily dosing provides similar AUC0-24 to twice-daily dosing of lamivudine at the same total daily dose when comparing the dosing regimens within the same formulation (i.e., either the oral solution or the tablet formulation).
+The mean Cmax was approximately 80% to 90% higher with lamivudine once-daily dosing compared with twice-daily dosing.
+
+Table 8.
+Pharmacokinetic Parameters (Geometric Mean [95% CI]) after Repeat Dosing of Lamivudine in 3 Pediatric Trials
+
+|  | Trial (Number of Subjects) |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| ARROW PK (n = 35) |  | PENTA-13 (n = 19) |  | PENTA-15 (n = 17)a |  |  |
+| Age Range | 3-12 years |  | 2-12 years |  | 3-36 months |  |
+| Formulation | Tablet |  | Solutionb and Tabletc |  | Solutionb |  |
+| Parameter | Once Daily | Twice Daily | Once Daily | Twice Daily | Once Daily | Twice Daily |
+| Cmax (mcg/mL) | 3.17 (2.76, 3.64) | 1.80 (1.59, 2.04) | 2.09 (1.80, 2.42) | 1.11 (0.96, 1.29) | 1.87 (1.65, 2.13) | 1.05 (0.88, 1.26) |
+| AUC(0-24) (mcg•h/mL) | 13.0 (11.4, 14.9) | 12.0 (10.7, 13.4) | 9.80 (8.64, 11.1) | 8.88 (7.67, 10.3) | 8.66 (7.46, 10.1) | 9.48 (7.89, 11.4) |
+
+a n = 16 for PENTA-15 Cmax.
+
+b Solution was dosed at 8 mg per kg per day.
+
+c Five subjects in PENTA-13 received lamivudine tablets.
 
 Distribution of lamivudine into cerebrospinal fluid (CSF) was assessed in 38 pediatric subjects after multiple oral dosing with lamivudine.
 CSF samples were collected between 2 and 4 hours postdose.
@@ -94,9 +117,6 @@ At the dose of 8 mg per kg per day, CSF lamivudine concentrations in 8 subjects 
 Limited, uncontrolled pharmacokinetic and safety data are available from administration of lamivudine (and zidovudine) to 36 infants aged up to 1 week in 2 trials in South Africa.
 In these trials, lamivudine clearance was substantially reduced in 1-week-old neonates relative to pediatric subjects (aged over 3 months) studied previously.
 There is insufficient information to establish the time course of changes in clearance between the immediate neonatal period and the age-ranges over 3 months old [see Adverse Reactions (6.1)].
-
-Additional pediatric use information for patients aged 3 months and above is approved for ViiV Healthcare Company’s EPIVIR® (lamivudine) tablets and oral solution.
-However, due to ViiV Healthcare Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 Geriatric Patients The pharmacokinetics of lamivudine after administration of lamivudine tablets to subjects over 65 years have not been studied [see Use in Specific Populations (8.5)].
 
@@ -108,7 +128,7 @@ Drug Interactions Studies
 
 Effect of Lamivudine on the Pharmacokinetics of Other Agents
 
-Based on in vitro study results, lamivudine at therapeutic drug exposures is not expected to affect the pharmacokinetics of drugs that are substrates of the following transporters: organic anion transporter polypeptide 1B1/3 (OATP1B1/3), breast cancer resistance protein (BCRP), P-glycoprotein (P-gp), multidrug and toxin extrusion protein 1 (MATE1), MATE2-K, organic cation transporter 1 (OCT1), OCT2, or OCT3.
+Based on in vitro study results, lamivudine at therapeutic drug exposures is not expected to affect the pharmacokinetics of drugs that are substrates of the following transporters: organic anion transporter polypeptide 1B1/3 (OATP1B1/3), breast cancer resistance protein (BCRP), P-glycoprotein (P-gp), multidrug and toxin extrusion protein 1 (MATE)1, MATE2-K, organic cation transporter 1 (OCT)1, OCT2, or OCT3.
 
 Effect of Other Agents on the Pharmacokinetics of Lamivudine
 
@@ -126,9 +146,9 @@ However, no pharmacokinetic (e.g., plasma concentrations or intracellular tripho
 
 Sorbitol (Excipient)
 
-Lamivudine and sorbitol solutions were coadministered to 16 healthy adult subjects in an open-label, randomized sequence, 4-period, crossover trial.
+Lamivudine and sorbitol solutions were coadministered to 16 healthy adult subjects in an open-label, randomized-sequence, 4-period, crossover trial.
 Each subject received a single 300-mg dose of lamivudine oral solution alone or coadministered with a single dose of 3.2 grams, 10.2 grams, or 13.4 grams of sorbitol in solution.
-Coadministration of lamivudine with sorbitol resulted in dose-dependent decreases of 20%, 39%, and 44% in the AUC (0-24), 14%, 32%, and 36% in the AUC (∞), and 28%, 52%, and 55% in the Cmax of lamivudine.
+Coadministration of lamivudine with sorbitol resulted in dose-dependent decreases of 20%, 39%, and 44% in the AUC (0-24), 14%, 32%, and 36% in the AUC (∞), and 28%, 52%, and 55% in the Cmax of lamivudine, respectively.
 
 Trimethoprim/Sulfamethoxazole Lamivudine and TMP/SMX were coadministered to 14 HIV-1-positive subjects in a single-center, open-label, randomized, crossover trial.
 Each subject received treatment with a single 300-mg dose of lamivudine and TMP 160 mg/SMX 800 mg once a day for 5 days with concomitant administration of lamivudine 300 mg with the fifth dose in a crossover design.
