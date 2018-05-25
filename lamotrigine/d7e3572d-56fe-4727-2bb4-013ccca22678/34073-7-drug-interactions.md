@@ -20,9 +20,9 @@ Established and Other Potentially Significant Drug Interactions
 | Valproate | ↑ lamotrigine | Increased lamotrigine concentrations slightly more than 2-fold. |
 | ? valproate | There are conflicting study results regarding effect of lamotrigine on valproate concentrations: 1) a mean 25% decrease in valproate concentrations in healthy volunteers, 2) no change in valproate concentrations in controlled clinical trials in patients with epilepsy. |  |
 
-↓= Decreased (induces lamotrigine glucuronidation).
+↓ = Decreased (induces lamotrigine glucuronidation).
 
-↑= Increased (inhibits lamotrigine glucuronidation).
+↑ = Increased (inhibits lamotrigine glucuronidation).
 
 ? = Conflicting data.
 

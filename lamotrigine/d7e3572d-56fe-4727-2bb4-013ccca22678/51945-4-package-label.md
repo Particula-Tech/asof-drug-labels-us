@@ -161,8 +161,7 @@ Made in India
 
 ©2017 the GSK group of companies
 
-1. 10000000145889 Rev.
-   4/17
+1. 546716-01 Rev.11/17
 
 PRINCIPAL DISPLAY PANEL
 
@@ -208,8 +207,8 @@ Made in India
 
 ©2017 the GSK group of companies
 
-1. 10000000145890 Rev.
-   3/17
+1. 546714-01 Rev.
+   11/17
 
 PRINCIPAL DISPLAY PANEL
 
@@ -255,8 +254,8 @@ Made in India
 
 ©2017 the GSK group of companies
 
-1. 10000000145911 Rev.
-   4/17
+1. 546718-01 Rev.
+   11/17
 
 PRINCIPAL DISPLAY PANEL
 

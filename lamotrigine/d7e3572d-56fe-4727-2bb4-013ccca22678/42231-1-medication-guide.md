@@ -69,9 +69,7 @@ How can I watch for early symptoms of suicidal thoughts and actions in myself or
 - •Keep all follow-up visits with your healthcare provider as scheduled.
 - •Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
 - 4.LAMICTAL may cause aseptic meningitis, a serious inflammation of the protective membrane that covers the brain and spinal cord.
-
-Call your healthcare provider right away if you have any of the following symptoms:
-
+- Call your healthcare provider right away if you have any of the following symptoms:
 - •headache
 - •fever
 - •nausea
