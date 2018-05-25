@@ -280,8 +280,6 @@ Pregnancy
 
 Teratogenic Effects
 
-Pregnancy Category C
-
 Reproduction studies have been performed during organogenesis using daily oral doses of ketorolac tromethamine tablets at 3.6 mg/kg (0.37 times the human AUC) in rabbits and at 10 mg/kg (1.0 times the human AUC) in rats.
 Results of these studies did not reveal evidence of teratogenicity to the fetus.
 However, animal reproduction studies are not always predictive of human response.

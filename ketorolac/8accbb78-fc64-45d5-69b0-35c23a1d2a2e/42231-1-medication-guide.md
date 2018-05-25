@@ -21,7 +21,7 @@ You may have an increased risk of another heart attack if you take NSAIDs after 
 
 The risk of getting an ulcer or bleeding increases with:
 
-• past history of stomach ulcers, • increasing doses of NSAIDs or stomach or intestinal • longer use of NSAIDS bleeding with the use of • smoking NSAIDs • drinking alcohol • taking medicines called • older age "corticosteroids", • poor health "anticoagulants", "SSRIs", or • advanced liver disease "SNRIs" • bleeding problems
+• past history of stomach ulcers, • increasing doses of NSAIDs or stomach or intestinal • longer use of NSAIDs bleeding with the use of • smoking NSAIDs • drinking alcohol • taking medicines called • older age "corticosteroids", • poor health "anticoagulants", "SSRIs", or • advanced liver disease "SNRIs" • bleeding problems
 
 NSAIDs should only be used:
 
@@ -110,6 +110,8 @@ For more information go to www.hospira.com or call 1-800-615-0187.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: 7/2015
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-Hospira, Inc., Lake Forest, IL 60045 USA
+LAB-0895-1.0
+
+Revised: 04/2018
