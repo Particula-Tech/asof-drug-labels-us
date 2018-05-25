@@ -16,14 +16,15 @@ BREO ELLIPTA contains 2 foil strips of 30 blisters each.
 Each blister on one strip contains 100 mcg of fluticasone furoate and lactose monohydrate.
 Each blister on the other strip contains 25 mcg of vilanterol, magnesium stearate, and lactose monohydrate.
 
-Federal Law requires the dispensing of BREO ELLIPTA with the Medication Guide inside the carton.
-
 1 ELLIPTA Inhaler containing 30 doses (60 blisters total)
 
-©2017 GSK group of companies or its licensor.
+Trademarks are owned by or licensed to the GSK group of Companies.
+BREO ELLIPTA was developed in collaboration with Innoviva, Inc.
 
-1. 10000000147321 Rev.
-   8/17
+©2018 GSK group of companies or its licensor.
+
+1. 10000000149209 Rev.
+   4/18
 
 PRINCIPAL DISPLAY PANEL
 
@@ -43,11 +44,12 @@ BREO ELLIPTA contains 2 foil strips of 30 blisters each.
 Each blister on one strip contains 200 mcg of fluticasone furoate and lactose monohydrate.
 Each blister on the other strip contains 25 mcg of vilanterol, magnesium stearate, and lactose monohydrate.
 
-Federal Law requires the dispensing of BREO ELLIPTA with the Medication Guide inside the carton.
-
 1 ELLIPTA Inhaler containing 30 doses (60 blisters total)
 
-©2017 GSK group of companies or its licensor.
+Trademarks are owned by or licensed to the GSK group of Companies.
+BREO ELLIPTA was developed in collaboration with Innoviva, Inc.
 
-1. 10000000147322 Rev.
-   8/17
+©2018 GSK group of companies or its licensor.
+
+1. 10000000149210 Rev.
+   4/18
