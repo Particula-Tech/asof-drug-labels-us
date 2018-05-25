@@ -114,8 +114,7 @@ Effects of Co-Administered Drugs on Fenofibric Acid Systemic Exposure from Fenof
 | Glimepiride | 1 mg as a single dose | Fenofibrate 145 mg1 once daily for 10 days |  | ↑1% | ↓1% |
 | Metformin | 850 mg three times daily for 10 days | Fenofibrate 54 mg1 three times daily for 10 days |  | ↓9% | ↓6% |
 | Rosiglitazone | 8 mg once daily for 5 days | Fenofibrate 145 mg1 once daily for 14 days |  | ↑10% | ↑3% |
-| 1 TriCor (fenofibrate) oral tablet |  |  |  |  |  |
-| 2 TriCor (fenofibrate) oral micronized capsule |  |  |  |  |  |
+| 1 TriCor (fenofibrate) oral tablet 2 TriCor (fenofibrate) oral micronized capsule |  |  |  |  |  |
 
 Table 3.
 Effects of Fenofibrate Co-Administration on Systemic Exposure of Other Drugs
@@ -132,5 +131,4 @@ Effects of Fenofibrate Co-Administration on Systemic Exposure of Other Drugs
 | Fenofibrate 145 mg1 once daily for 10 days | Glimepiride, 1 mg as a single dose | Glimepiride | ↑35% | ↑18% |
 | Fenofibrate 54 mg1 three times daily for 10 days | Metformin, 850 mg three times daily for 10 days | Metformin | ↑3% | ↑6% |
 | Fenofibrate 145 mg1 once daily for 14 days | Rosiglitazone, 8 mg once daily for 5 days | Rosiglitazone | ↑6% | ↓1% |
-| 1 TriCor (fenofibrate) oral tablet |  |  |  |  |
-| 2 TriCor (fenofibrate) oral micronized capsule |  |  |  |  |
+| 1 TriCor (fenofibrate) oral tablet 2 TriCor (fenofibrate) oral micronized capsule |  |  |  |  |
