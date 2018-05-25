@@ -70,7 +70,7 @@ The mean volume of distribution of levofloxacin generally ranges from 74 to 112 
 Levofloxacin reaches its peak levels in skin tissues and in blister fluid of healthy subjects at approximately 3 hours after dosing.
 The skin tissue biopsy to plasma AUC ratio is approximately 2 and the blister fluid to plasma AUC ratio is approximately 1 following multiple once-daily oral administration of 750 mg and 500 mg doses of levofloxacin, respectively, to healthy subjects.
 Levofloxacin also penetrates well into lung tissues.
-Lung tissue concentrations were generally 2- to 5-fold fold higher than plasma concentrations and ranged from approximately 2.4 to 11.3 mcg/g over a 24 hour period after a single 500 mg oral dose.
+Lung tissue concentrations were generally 2- to 5-fold higher than plasma concentrations and ranged from approximately 2.4 to 11.3 mcg/g over a 24 hour period after a single 500 mg oral dose.
 
 In vitro, over a clinically relevant range (1 to 10 mcg/mL) of serum/plasma levofloxacin concentrations, levofloxacin is approximately 24 to 38% bound to serum proteins across all species studied, as determined by the equilibrium dialysis method.
 Levofloxacin is mainly bound to serum albumin in humans.
@@ -87,7 +87,7 @@ These metabolites have little relevant pharmacological activity.
 Excretion
 
 Levofloxacin is excreted largely as unchanged drug in the urine.
-The mean terminal plasma elimination half-life of levofloxacin ranges from approximately 6 to 8 hours following single or multiple doses of levofloxacin given orally intravenously.
+The mean terminal plasma elimination half-life of levofloxacin ranges from approximately 6 to 8 hours following single or multiple doses of levofloxacin given orally or intravenously.
 The mean apparent total body clearance and renal clearance range from approximately 144 to 226 mL/min and 96 to 142 mL/min, respectively.
 Renal clearance in excess of the glomerular filtration rate suggests that tubular secretion of levofloxacin occurs in addition to its glomerular filtration.
 Concomitant administration of either cimetidine or probenecid results in approximately 24% and 35% reduction in the levofloxacin renal clearance, respectively, indicating that secretion of levofloxacin occurs in the renal proximal tubule.
@@ -263,63 +263,4 @@ Clostridium perfringens
 
 Susceptibility Tests
 
-When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drug products used in the resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
-These reports should aid the physician in selecting an antibacterial drug product for treatment.
-
-Dilution techniques
-
-Quantitative methods are used to determine antimicrobial minimal inhibitory concentrations (MICs).
-These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MIC values should be determined using a standardized procedure.
-Standardized procedures are based on a dilution method1,2,4 (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of levofloxacin powder.
-The MIC values should be interpreted according to the criteria outlined in Table 9.
-
-Diffusion techniques
-
-Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-One such standardized procedure2,3 requires the use of standardized inoculum concentrations.
-This procedure uses paper disks impregnated with 5 mcg levofloxacin to test the susceptibility of bacteria to levofloxacin.
-
-Reports from the laboratory providing results of the standard single-disk susceptibility test with a 5 mcg levofloxacin disk should be interpreted according to the criteria outlined in Table 9.
-
-Table 9 Susceptibility Test Interpretive Criteria for Levofloxacin
-
-|  | Minimum Inhibitory Concentrations (mcg/mL) |  |  |  | Disk Diffusion (zone diameter in mm) |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Pathogen | S | I | R | S | I | R |
-| Enterobacteriaceae | ≤ 2 | 4 | ≥ 8 | ≥ 17 | 14 to 16 | ≤ 13 |
-| Enterococcus faecalis | ≤ 2 | 4 | ≥ 8 | ≥ 17 | 14 to 16 | ≤ 13 |
-| Staphylococcus species | ≤ 2 | 4 | ≥ 8 | ≥ 17 | 14 to 16 | ≤ 13 |
-| Pseudomonas aeruginosa | ≤ 2 | 4 | ≥ 8 | ≥ 17 | 14 to 16 | ≤ 13 |
-| Haemophilus influenzae | ≤ 2 | --† | -- | ≥ 17 | -- | -- |
-| Haemophilus parainfluenzae | ≤ 2 | -- | -- | ≥ 17 | -- | -- |
-| Streptococcus pneumoniae | ≤ 2 | 4 | ≥ 8 | ≥ 17 | 14 to 16 | ≤ 13 |
-| Streptococcus pyogenes | ≤ 2 | 4 | ≥ 8 | ≥ 17 | 14 to 16 | ≤ 13 |
-| Yersinia pestis4 | ≤ 0.25 | -- | -- | -- | -- | -- |
-| Bacillus anthracis4 | ≤ 0.25 | -- | -- | -- | -- | -- |
-| S = Susceptible, I = Intermediate, R = Resistant |  |  |  |  |  |  |
-| †The current absence of data on resistant isolates precludes defining any categories other than "Susceptible." Isolates yielding MIC/zone diameter results suggestive of a "nonsusceptible" category should be submitted to a reference laboratory for further testing. |  |  |  |  |  |  |
-
-A report of Susceptible indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable.
-A report of Intermediate indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
-This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where a high dosage of drug can be used.
-This category also provides a buffer zone which prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of Resistant indicates that the pathogen is not likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable; other therapy should be selected.
-
-Quality Control
-
-Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.1,2,3,4Standard levofloxacin powder should provide the range of MIC values noted in Table 10.
-For the diffusion technique using the 5 mcg disk, the criteria in Table 10 should be achieved.
-
-Table 10 Quality Control Ranges for Susceptibility Testing
-
-| Microorganism | Microorganism QC Number | MIC (mcg/mL) | Disk Diffusion (zone diameter in mm) |
-| --- | --- | --- | --- |
-| Enterococcus faecalis | ATCC 29212 | 0.25 to 2 | -- |
-| Escherichia coli | ATCC 25922 | 0.008 to 0.06 | 29 to 37 |
-| Escherichia coli | ATCC 35218 | 0.015 to 0.06 | -- |
-| Haemophilus influenzae | ATCC 49247 | 0.008 to 0.03 | 32 to 40 |
-| Pseudomonas aeruginosa | ATCC 27853 | 0.5 to 4 | 19 to 26 |
-| Staphylococcus aureus | ATCC 29213 | 0.06 to 0.5 | -- |
-| Staphylococcus aureus | ATCC 25923 | -- | 25 to 30 |
-| Streptococcus pneumoniae | ATCC 49619 | 0.5 to 2 | 20 to 25 |
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.

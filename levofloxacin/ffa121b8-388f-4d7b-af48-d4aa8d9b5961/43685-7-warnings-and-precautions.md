@@ -11,7 +11,7 @@ In addition, avoid the use of fluoroquinolones, including levofloxacin, in patie
 
 ## 5.2 Tendinitis and Tendon Rupture
 
-Fluoroquinolones, including levofloxacin, have been associated with an increased risk of tendinitis and tendon rupture in all ages [see Warnings and Precautions (5.2) and Adverse Reactions (6.2)].
+Fluoroquinolones, including levofloxacin, have been associated with an increased risk of tendinitis and tendon rupture in all ages [see Warnings and Precautions (5.1) and Adverse Reactions (6.2)].
 This adverse reaction most frequently involves the Achilles tendon and has also been reported with the rotator cuff (the shoulder), the hand, the biceps, the thumb, and other tendon sites.
 Tendinitis or tendon rupture can occur within hours or days of starting levofloxacin or as long as several months after completion of fluoroquinolone therapy.
 Tendinitis and tendon rupture can occur bilaterally.

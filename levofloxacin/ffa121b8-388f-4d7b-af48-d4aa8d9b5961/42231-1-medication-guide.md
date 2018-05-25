@@ -14,6 +14,9 @@ Some of these serious side effects can happen at the same time and could result 
 
 If you have any of the following serious side effects while you take levofloxacin, get medical help right away.
 
+1.
+Tendon rupture or swelling of the tendon (tendinitis).
+
 - Tendon problems can happen in people of all ages who take levofloxacin.Tendons are tough cords of tissue that connect muscles to bones.
 
 Some tendon problems include pain, swelling, tears, and swelling of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites.
@@ -324,7 +327,7 @@ This Medication Guide summarizes the most important information about levofloxac
 If you would like more information about levofloxacin, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about levofloxacin that is written for healthcare professionals.
 
-Please address medical inquiries to, (MedicalAffairs@zydususa.com) Tel.: 1-877-993-8779.
+Please address medical inquiries to, MedicalAffairs@zydususa.com or Tel.: 1-877-993-8779.
 
 What are the ingredients in levofloxacin tablets, USP?
 

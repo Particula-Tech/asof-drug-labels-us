@@ -43,7 +43,7 @@ Safety and effectiveness in pediatric patients below the age of six months have 
 
 Adverse Events
 
-In clinical trials, 1534 children (6 months to 16 years of age) were treated with oral and intravenous levofloxacin.
+In clinical trials, 1534 children (6 months to 16 years of age) were treated with oral levofloxacin.
 Children 6 months to 5 years of age received levofloxacin 10 mg/kg twice a day and children greater than 5 years of age received 10 mg/kg once a day (maximum 500 mg per day) for approximately 10 days.
 
 A subset of children in the clinical trials (1340 levofloxacin-treated and 893 non-fluoroquinolone-treated) enrolled in a prospective, long-term surveillance study to assess the incidence of protocol-defined musculoskeletal disorders (arthralgia, arthritis, tendinopathy, gait abnormality) during 60 days and 1 year following the first dose of the study drug.
