@@ -38,7 +38,7 @@ Adjust the dose of cefepime for injection in patients with creatinine clearance 
 In these patients, the recommended initial dose of cefepime for injection should be the same as in patients with CrCL greater than 60 mL/min except in patients undergoing hemodialysis.
 The recommended doses of cefepime for injection in patients with renal impairment are presented in Table 2.
 
-When only serum creatinine is available, the following formula (Cockcroft and Gault equation)4 may be used to estimate creatinine clearance.
+When only serum creatinine is available, the following formula (Cockcroft and Gault equation)1 may be used to estimate creatinine clearance.
 The serum creatinine should represent a steady state of renal function:
 
 Females: 0.85 x above value
@@ -81,7 +81,7 @@ Vials
   - 5% and 10% Dextrose Injection
   - M/6 Sodium Lactate Injection
   - 5% Dextrose and 0.9% sodium Chloride Injection
-  - Lactated Rings and 5% Dextrose Injection
+  - Lactated Ringers and 5% Dextrose Injection
   - Normosol™-R and Normosol™-M in 5% Dextrose Injection
 - Parenteral drugs should be inspected visually for particulate matter before administration.
   If particulate matter is evident in reconstituted fluids, the drug solution should be discarded.
@@ -99,7 +99,7 @@ If particulate matter is evident in reconstituted fluids, the drug solution shou
 
 Table 3: Preparation of Reconstituted Solutions of Cefepime for Injection
 
-| Single-Dose Vials for Intravenous (IV)/ Intramuscular (IM) Administration | Amount of Diluent to be added (mL) | Approximate Cefepime Concentration (mg/mL) | Amount of Reconstituted Volume to be Withdrawn (mL) |
+| Single-dose Vials for Intravenous (IV)/ Intramuscular (IM) Administration | Amount of Diluent to be added (mL) | Approximate Cefepime Concentration (mg/mL) | Amount of Reconstituted Volume to be Withdrawn (mL) |
 | --- | --- | --- | --- |
 | Cefepime vial content |  |  |  |
 | 1 g (IV) | 10 | 100 | 10.5 |
@@ -135,10 +135,10 @@ Table 4: Cefepime Admixture Stability
 | 4 mg/mL | Theophylline 0.8 mg/mL | D5W | 24 hours | 7 days |
 | 1 to 4 mg/mL | na | Aminosyn™ II 4.25% with electrolytes and calcium | 8 hours | 3 days |
 | 0.125 to 0.25 mg/mL | na | Inpersol™ with 4.25% dextrose | 24 hours | 7 days |
-| NS = 0.9% Sodium Chloride Injection |  |  |  |  |
-| D5W = 5% Dextrose Injection |  |  |  |  |
-| na = not applicable |  |  |  |  |
-| RT/L = Ambient room temperature and light |  |  |  |  |
+| NS = 0.9% Sodium Chloride Injection. |  |  |  |  |
+| D5W = 5% Dextrose Injection. |  |  |  |  |
+| na = not applicable. |  |  |  |  |
+| RT/L = Ambient room temperature and light. |  |  |  |  |
 
 Cefepime for Injection Admixture Incompatibility
 

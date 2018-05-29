@@ -18,7 +18,7 @@ Cefepime for Injection is indicated in the treatment of uncomplicated and compli
 
 Cefepime for Injection is indicated in the treatment of uncomplicated skin and skin structure infections caused by Staphylococcus aureus (methicillin-susceptible isolates only) or Streptococcus pyogenes.
 
-## 1.5 Complicated Intra-abdominal Infections (used in combination with metronidazole)
+## 1.5 Complicated Intra-Abdominal Infections (used in combination with metronidazole)
 
 Cefepime for Injection is indicated in the treatment of complicated intra-abdominal infections (used in combination with metronidazole) in adults caused by susceptible isolates of Escherichia coli, viridans group streptococci, Pseudomonas aeruginosa, Klebsiella pneumoniae, Enterobacter species, or Bacteroides fragilis [see Clinical Studies (14.2)].
 

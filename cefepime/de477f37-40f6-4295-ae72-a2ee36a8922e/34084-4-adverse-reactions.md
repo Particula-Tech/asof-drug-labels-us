@@ -4,7 +4,7 @@ The following adverse reactions are discussed in the Warnings and Precautions se
 
 - Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
 - Neurotoxicity [see Warnings and Precautions (5.2)]
-- Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.3)]
+- Clostridium difficile Associated Diarrhea [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
 

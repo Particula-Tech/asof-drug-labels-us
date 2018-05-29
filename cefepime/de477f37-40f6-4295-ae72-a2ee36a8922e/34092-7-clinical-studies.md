@@ -42,7 +42,7 @@ Table 13: Pooled Response Rates for Empiric Therapy of Febrile Neutropenic Patie
 Insufficient data exist to support the efficacy of cefepime monotherapy in patients at high risk for severe infection (including patients with a history of recent bone marrow transplantation, with hypotension at presentation, with an underlying hematologic malignancy, or with severe or prolonged neutropenia).
 No data are available in patients with septic shock.
 
-## 14.2 Complicated Intra-abdominal Infections
+## 14.2 Complicated Intra-Abdominal Infections
 
 Patients hospitalized with complicated intra-abdominal infections participated in a randomized, double-blind, multicenter trial comparing the combination of cefepime (2 g every 12 hours) plus intravenous metronidazole (500 mg every 6 hours) versus imipenem/cilastatin (500 mg every 6 hours) for a maximum duration of 14 days of therapy.
 The study was designed to demonstrate equivalence of the two therapies.
