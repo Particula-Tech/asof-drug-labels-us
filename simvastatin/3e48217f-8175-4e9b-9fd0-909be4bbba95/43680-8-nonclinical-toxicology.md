@@ -27,7 +27,7 @@ At 180 mg/kg/day, (which produces exposure levels 22 times higher than those in 
 In dogs, there was drug-related testicular atrophy, decreased spermatogenesis, spermatocytic degeneration and giant cell formation at 10 mg/kg/day, (approximately 2 times the human exposure, based on AUC, at 80 mg/day).
 The clinical significance of these findings is unclear.
 
-## 13.2 ANIMAL PHARMACOLOGY AND OR TOXICOLOGY
+## 13.2 Animal Toxicology and/or Pharmacology
 
 CNS Toxicity
 

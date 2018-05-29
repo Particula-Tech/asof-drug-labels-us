@@ -4,7 +4,7 @@
 
 Simvastatin occasionally causes myopathy manifested as muscle pain, tenderness or weakness with creatine kinase (CK) above ten times the upper limit of normal (ULN).
 Myopathy sometimes takes the form of rhabdomyolysis with or without acute renal failure secondary to myoglobinuria, and rare fatalities have occurred.
-The risk of myopathy is increased by high levels of statin activity in plasma.
+The risk of myopathy is increased by elevated plasma levels of simvastatin and simvastatin acid.
 Predisposing factors for myopathy include advanced age (≥65 years), female gender, uncontrolled hypothyroidism, and renal impairment.
 
 The risk of myopathy, including rhabdomyolysis, is dose related.
@@ -21,7 +21,8 @@ The risk of myopathy, including rhabdomyolysis, is greater in patients on simvas
 Therefore, the 80-mg dose of simvastatin should be used only in patients who have been taking simvastatin 80 mg chronically (e.g., for 12 months or more) without evidence of muscle toxicity [see DOSAGE AND ADMINISTRATION, Restricted Dosing for 80 mg (2.2)].
 If, however, a patient who is currently tolerating the 80-mg dose of simvastatin needs to be initiated on an interacting drug that is contraindicated or is associated with a dose cap for simvastatin, that patient should be switched to an alternative statin with less potential for the drug-drug interaction.
 Patients should be advised of the increased risk of myopathy, including rhabdomyolysis, and to report promptly any unexplained muscle pain, tenderness or weakness.
-If symptoms occur, treatment should be discontinued immediately [see WARNINGS AND PRECAUTIONS (5.2)].
+If symptoms occur, treatment should be discontinued immediately.
+[see WARNINGS AND PRECAUTIONS (5.2)].
 
 There have been rare reports of immune-mediated necrotizing myopathy (IMNM), an autoimmune myopathy, associated with statin use.
 IMNM is characterized by: proximal muscle weakness and elevated serum creatine kinase, which persist despite discontinuation of statin treatment; muscle biopsy showing necrotizing myopathy without significant inflammation; improvement with immunosuppressive agents.
@@ -38,7 +39,7 @@ Simvastatin therapy should also be temporarily withheld in any patient experienc
 
 Drug Interactions
 
-The risk of myopathy and rhabdomyolysis is increased by high levels of statin activity in plasma.
+The risk of myopathy and rhabdomyolysis is increased by elevated plasma levels of simvastatin and simvastatin acid.
 Simvastatin is metabolized by the cytochrome P450 isoform 3A4.
 Certain drugs which inhibit this metabolic pathway can raise the plasma levels of simvastatin and may increase the risk of myopathy.
 These include itraconazole, ketoconazole, posaconazole, voriconazole, the macrolide antibiotics erythromycin and clarithromycin, and the ketolide antibiotic telithromycin, HIV protease inhibitors, boceprevir, telaprevir, the antidepressant nefazodone, cobicistat-containing products, or grapefruit juice [see CLINICAL PHARMACOLOGY (12.3)].

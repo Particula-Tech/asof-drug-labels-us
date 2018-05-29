@@ -18,7 +18,7 @@ Due to the increased risk of myopathy, including rhabdomyolysis, associated with
 
 ## 2.3 Coadministration with Other Drugs
 
-Patients taking Verapamil, Diltiazem or Dronedarone
+Patients taking Verapamil, Diltiazem, or Dronedarone
 
 - The dose of simvastatin tablets USP should not exceed 10 mg/day[see WARNINGS AND PRECAUTIONS (5.1), DRUG INTERACTIONS (7.3),and CLINICAL PHARMACOLOGY (12.3)].
 
