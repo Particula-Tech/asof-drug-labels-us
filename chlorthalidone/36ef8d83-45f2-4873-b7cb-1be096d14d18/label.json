@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA207222"
+  ],
+  "inn": "chlorthalidone",
+  "labeler": "NIVAGEN PHARMACEUTICALS, INC.",
+  "package_ndcs": [
+    "75834-109-01",
+    "75834-109-10",
+    "75834-110-01",
+    "75834-110-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "chlorthalidone",
+      "name": "Chlorthalidone"
+    }
+  ],
+  "setid": "36ef8d83-45f2-4873-b7cb-1be096d14d18",
+  "source": "dailymed"
+}
