@@ -10,13 +10,12 @@ Supplied as:
 
 Store at 20 to 25°C (68 to 77°F); excursions permitted to 15 to 30°C (59 to 86°F).
 [See USP Controlled Room Temperature.]
-
 Protect from light.
 
 Regitine, trademark, CIBA Pharmaceuticals Company.
 
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA NOVAPLUS is a registered trademark of Vizient, Inc.
 
-LAB-1152-1.0
+LAB-1152-2.0
 
-Revised: 03/2018
+Revised: 05/2018
