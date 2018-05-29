@@ -109,7 +109,7 @@ The BMD results for this study are presented in Table 5.
 Histology/Histomorphometry Bone biopsies from 53 postmenopausal women were obtained at endpoint.
 Patients had received risedronate sodium tablets 5 mg plus estrogen or estrogen-alone once daily for 1 year.
 Histologic evaluation (N = 47) demonstrated that the bone of patients treated with risedronate plus estrogen was of normal lamellar structure and normal mineralization.
-The histomorphometric parameter mineralizing surface, a measure of bone turnover, was assessed based upon baseline and post­treatment biopsy samples from 12 patients treated with risedronate plus estrogen and 12 treated with estrogen-alone.
+The histomorphometric parameter mineralizing surface, a measure of bone turnover, was assessed based upon baseline and post-­treatment biopsy samples from 12 patients treated with risedronate plus estrogen and 12 treated with estrogen-alone.
 Mineralizing surface decreased in both treatment groups (median percent change: Risedronate plus estrogen, -79%; estrogen-alone, -50%), consistent with the known effects of these agents on bone turnover.
 
 ## 14.3 Men with Osteoporosis

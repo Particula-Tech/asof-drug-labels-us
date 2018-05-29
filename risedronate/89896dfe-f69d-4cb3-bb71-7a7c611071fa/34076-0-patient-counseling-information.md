@@ -5,7 +5,7 @@ Instruct patients that Atelvia and risedronate sodium tablets contain the same a
 Instruct patients to pay particular attention to the dosing instructions as clinical benefits may be compromised by failure to take the drug according to instructions.
 Specifically, risedronate should be taken at least 30 minutes before the first food or drink of the day other than water.
 Instruct patients to take risedronate while in an upright position (sitting or standing) with a full glass of plain water (6 to 8 ounces) to facilitate delivery to the stomach, and thus reduce the potential for esophageal irritation.
-Instruct patients not to lie down for 30 minutes after taking the medication [see Warnings and Precautions (5.1)].
+Instruct patients not to lie down for 30 minutes after taking the medication [seeWarnings and Precautions (5.1)].
 Instruct patients not to chew or suck on the tablet because of a potential for oropharyngeal irritation.
 Instruct patients that if they develop symptoms of esophageal disease (such as difficulty or pain upon swallowing, retrosternal pain or severe persistent or worsening heartburn) they should consult their physician before continuing risedronate.
 
@@ -32,4 +32,6 @@ Remind patients to give all of their healthcare providers an accurate medication
 Instruct patients to tell all of their healthcare providers that they are taking risedronate.
 Patients should be instructed that any time they have a medical problem they think may be from risedronate, they should talk to their doctor.
 Didronel® is a registered trademark of Procter & Gamble Pharmaceuticals, Inc. Atelvia® is a registered trademark of Warner Chilcott Company, LLC.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India Issued: July 2015
+Distributed by:
+
+Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 12/2017

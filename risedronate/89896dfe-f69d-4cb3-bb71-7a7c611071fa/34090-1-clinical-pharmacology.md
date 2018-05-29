@@ -19,7 +19,6 @@ In a 1-year study comparing daily versus weekly oral dosing regimens of risedron
 In addition, serum bone-specific alkaline phosphatase was also reduced by 42% and 41% in the risedronate sodium tablets 5 mg daily and risedronate sodium tablets 35 mg once-a-week groups, respectively.
 When postmenopausal women with osteoporosis were treated for 1 year with risedronate sodium tablets 5 mg daily or risedronate sodium tablets 75 mg two consecutive days per month, urinary collagen cross-linked N-telopeptide was decreased by 54% and 52%, respectively, and serum bone-specific alkaline phosphatase was reduced by 36% and 35%, respectively.
 Osteoporosis in Men In a 2-year study of men with osteoporosis, treatment with risedronate sodium tablets 35 mg once-a-­week resulted in a mean decrease from baseline compared to placebo of 16% (placebo 20%; risedronate sodium tablets 35 mg 37%) for the bone resorption marker urinary collagen cross-linked N­-telopeptide, 45% (placebo -6%; risedronate sodium tablets 35 mg 39%) for the bone resorption marker serum C-telopeptide, and 27% (placebo -2%; risedronate sodium tablets 35 mg 25%) for the bone formation marker serum bone-specific alkaline phosphatase.
-
 Glucocorticoid-Induced Osteoporosis Osteoporosis with glucocorticoid use occurs as a result of inhibited bone formation and increased bone resorption resulting in net bone loss.
 Risedronate decreases bone resorption without directly inhibiting bone formation.
 In two 1-year clinical trials in the treatment and prevention of glucocorticoid-induced osteoporosis, risedronate sodium tablets 5 mg decreased urinary collagen cross-linked N-telopeptide (a marker of bone resorption), and serum bone-specific alkaline phosphatase (a marker of bone formation) by 50% to 55% and 25% to 30%, respectively, within 3 to 6 months after initiation of therapy.
@@ -37,21 +36,17 @@ Food Effect The extent of absorption of a 30 mg dose (three 10 mg tablets) when 
 Dosing 1 hour prior to breakfast reduces the extent of absorption by 30% compared to dosing in the fasting state.
 Dosing either 0.5 hours prior to breakfast or 2 hours after dinner (evening meal) results in a similar extent of absorption.
 Risedronate is effective when administered at least 30 minutes before breakfast.
-
 Distribution The mean steady-state volume of distribution for risedronate is 13.8 L/kg in humans.
 Human plasma protein binding of drug is about 24%.
 Preclinical studies in rats and dogs dosed intravenously with single doses of [14C] risedronate indicate that approximately 60% of the dose is distributed to bone.
 The remainder of the dose is excreted in the urine.
 After multiple oral dosing in rats, the uptake of risedronate in soft tissues was in the range of 0.001% to 0.01%.
-
 Metabolism There is no evidence of systemic metabolism of risedronate.
-
 Excretion In young healthy subjects, approximately half of the absorbed dose of risedronate was excreted in urine within 24 hours, and 85% of an intravenous dose was recovered in the urine over 28 days.
 Based on simultaneous modeling of serum and urine data, mean renal clearance was 105 mL/min (CV = 34%) and mean total clearance was 122 mL/min (CV = 19%), with the difference primarily reflecting nonrenal clearance or clearance due to adsorption to bone.
 The renal clearance is not concentration dependent, and there is a linear relationship between renal clearance and creatinine clearance.
 Unabsorbed drug is eliminated unchanged in feces.
 In osteopenic postmenopausal women, the terminal exponential half-life was 561 hours, mean renal clearance was 52 mL/min (CV = 25%), and mean total clearance was 73 mL/min (CV = 15%).
-
 Specific Populations Pediatric: Risedronate is not indicated for use in pediatric patients [see Pediatric Use (8.4)].
 
 Gender: Bioavailability and pharmacokinetics following oral administration are similar in men and women.

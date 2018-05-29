@@ -58,15 +58,11 @@ Interruption of bisphosphonate therapy should be considered, pending a risk/bene
 
 ## 5.7 Renal Impairment
 
-Risedronate
-
-is not recommended for use in patients with severe renal impairment (creatinine clearance less than 30 mL/min).
+Risedronate is not recommended for use in patients with severe renal impairment (creatinine clearance less than 30 mL/min).
 
 ## 5.8 Glucocorticoid-Induced Osteoporosis
 
-Before initiating risedronate
-
-treatment for the treatment and prevention of glucocorticoid-induced osteoporosis, the sex steroid hormonal status of both men and women should be ascertained and appropriate replacement considered.
+Before initiating risedronate treatment for the treatment and prevention of glucocorticoid-induced osteoporosis, the sex steroid hormonal status of both men and women should be ascertained and appropriate replacement considered.
 
 ## 5.9 Laboratory Test Interactions
 

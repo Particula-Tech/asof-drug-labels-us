@@ -153,4 +153,4 @@ What are the ingredients in risedronate sodium tablets?
 Active ingredient: risedronate sodium Inactive ingredients in all dose strengths: crospovidone, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, and titanium dioxide.
 Inactive ingredients specific to a dose strength: 5 mg—colloidal silicon dioxide and iron oxide yellow; 35 mg—colloidal silicon dioxide, iron oxide red, and iron oxide yellow.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India Issued: July 2015
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 12/2017
