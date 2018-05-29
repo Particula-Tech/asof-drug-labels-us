@@ -1,18 +1,29 @@
-# 17 PATIENT COUNSELING INFORMATION
+# 17PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Patient Information)
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
-- Advise patient to seek immediate medical attention for cyanosis [see Warnings and Precautions (5.1)].
-- Advise patient to use ACZONE® Gel, 5%, as directed by the physician.
-  ACZONE® Gel, 5%, is for external topical use only.
-  ACZONE® Gel, 5%, is not for oral, ophthalmic or intravaginal use.
-- Advise patients to report any signs of adverse reactions to their physician.
-- Protect ACZONE® Gel, 5%, from freezing.
-- See Patient Information for additional information on safety, efficacy, general use, and storage of ACZONE® Gel, 5%.
+Hematological Effects
 
-© 2015 Allergan, Inc., Irvine, CA 92612, U.S.A. ® marks owned by Allergan, Inc. Patented.
-See: www.allergan.com/products/patent_notices Made in the U.S.A.
+- Inform patients that methemoglobinemia can occur with topical dapsone treatment.
+  Advise patients to seek immediate medical attention if they develop cyanosis [see Warnings and Precautions (5.1)].
+- Inform patients who have G6PD deficiency that hemolytic anemia may occur with topical dapsone treatment.
+  Advise patients to seek medical attention if they develop signs and symptoms suggestive of hemolytic anemia [see Warnings and Precautions (5.2)].
 
-72716US11
+Important Administration Instructions
 
-------Cut Here ✂ --------------------------------------------------------------------------------------
+- Advise patients to apply ACZONE Gel, 5%, twice daily to the acne affected area [see Dosage and Administration (2)].
+- ACZONE Gel, 5% is for topical use only.
+- Do not apply ACZONE Gel, 5% to eyes, mouth, or mucous membranes.
+
+Distributed by: Allergan USA, Inc.
+
+Madison, NJ 07940
+
+© 2018 Allergan.
+All rights reserved.
+
+All trademarks are the property of their respective owners.
+
+v1.0USPI3670
+
+-------Cut Here ----------------------------------------------------------------------------------------------------------------

@@ -1,11 +1,3 @@
-NDC 0023-3670-90
+# PRINCIPAL DISPLAY PANEL
 
-Aczone® (dapsone) gel, 5%
-
-FOR TOPICAL USE ONLY
-
-ALLERGAN®
-
-Rx only
-
-90 g
+NDC 0023-3670-90 Aczone (dapsone)gel, 5% 90 g Rx Only

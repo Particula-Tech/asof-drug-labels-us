@@ -1,12 +1,18 @@
-# 16 HOW SUPPLIED/STORAGE AND HANDLING
+# 16HOW SUPPLIED/STORAGE AND HANDLING
 
-ACZONE® (dapsone) Gel, 5%, is supplied in the following size tubes:
+ACZONE (dapsone) Gel, 5%, is supplied in the following size tubes:
 
-NDC 0023-3670-30 30 gram laminate tube
+NDC 0023-3670-30
 
-NDC 0023-3670-60 60 gram laminate tube
+30 gram laminate tube
 
-NDC 0023-3670-90 90 gram laminate tube
+NDC 0023-3670-60
 
-Store ACZONE® gel at controlled room temperature, 20°-25°C (68°-77°F), excursions permitted to 15°-30ºC (59°-86ºF).
+60 gram laminate tube
+
+NDC 0023-3670-90
+
+90 gram laminate tube
+
+Store ACZONE gel at controlled room temperature, 20°-25°C (68°-77°F), excursions permitted to 15°-30ºC (59°-86ºF).
 Protect from freezing.
