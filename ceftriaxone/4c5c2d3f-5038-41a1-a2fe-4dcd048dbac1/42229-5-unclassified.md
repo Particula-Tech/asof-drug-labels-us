@@ -40,10 +40,10 @@ Such use could result in air embolism due to residual air being drawn from the p
 
 ## Preparation for Intravenous Administration:
 
-- 1.Suspend container from eyelet support.
-- 2.Remove protector from outlet port at bottom of container.
-- 3.Attach administration set.
-  Refer to complete directions accompanying set.
+1. 1.Suspend container from eyelet support.
+2. 2.Remove protector from outlet port at bottom of container.
+3. 3.Attach administration set.
+   Refer to complete directions accompanying set.
 
 Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
@@ -53,7 +53,7 @@ Baxter and Galaxy are registered trademarks of Baxter International Inc.
 
 ATCC is a trademark of the American Type Culture Collection.
 
-07-19-73-085
+07-19-00-0357
 
 Rev.
-June 2014
+May 2018

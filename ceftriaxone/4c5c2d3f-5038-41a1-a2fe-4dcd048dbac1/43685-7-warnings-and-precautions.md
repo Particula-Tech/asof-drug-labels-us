@@ -100,8 +100,6 @@ Ceftriaxone produced no impairment of fertility when given intravenously to rats
 
 ### Teratogenic Effects
 
-#### Pregnancy Category B.
-
 Reproductive studies have been performed in mice and rats at doses up to 20 times the usual human dose and have no evidence of embryotoxicity, fetotoxicity or teratogenicity.
 In primates, no embryotoxicity or teratogenicity was demonstrated at a dose approximately 3 times the human dose.
 
