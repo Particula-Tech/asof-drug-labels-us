@@ -4,11 +4,11 @@ Morphine Sulfate Injection, USP is supplied as a sterile solution in single dose
 
 | Product No. | NDC No. | Strength |  |
 | --- | --- | --- | --- |
-| 475201 | 63323-452-01 | 2 mg per mL | 1 mL fill, in a 2 mL vial, in packages of 25. |
-| 475401 | 63323-454-01 | 4 mg per mL | 1 mL fill, in a 2 mL vial, in packages of 25. |
-| 475501 | 63323-455-01 | 5 mg per mL | 1 mL fill, in a 2 mL vial, in packages of 25. |
-| 475801 | 63323-458-01 | 8 mg per mL | 1 mL fill, in a 2 mL vial, in packages of 25. |
-| 475101 | 63323-451-01 | 10 mg per mL | 1 mL fill, in a 2 mL vial, in packages of 25. |
+| 475201 | 63323-452-01 | 2 mg per mL | 1 mL vial in packages of 25 |
+| 475401 | 63323-454-01 | 4 mg per mL | 1 mL vial in packages of 25 |
+| 475501 | 63323-455-01 | 5 mg per mL | 1 mL vial in packages of 25 |
+| 475801 | 63323-458-01 | 8 mg per mL | 1 mL vial in packages of 25 |
+| 475101 | 63323-451-01 | 10 mg per mL | 1 mL vial in packages of 25 |
 
 STORE AT: 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
