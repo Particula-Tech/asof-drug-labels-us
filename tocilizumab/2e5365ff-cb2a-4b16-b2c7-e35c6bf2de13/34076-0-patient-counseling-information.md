@@ -13,7 +13,8 @@ Instruct the patient of the importance of contacting their doctor immediately wh
 
 - Gastrointestinal Perforation: Inform patients that some patients who have been treated with ACTEMRA have had serious side effects in the stomach and intestines.
   Instruct the patient of the importance of contacting their doctor immediately when symptoms of severe, persistent abdominal pain appear to assure rapid evaluation and appropriate treatment.
-- Hypersensitivity and Serious Allergic Reactions Assess patient suitability for home use for SC injection.
+
+- Hypersensitivity and Serious Allergic Reactions Assess patient suitability for home use for subcutaneous injection.
   Inform patients that some patients who have been treated with ACTEMRA have developed serious allergic reactions, including anaphylaxis.
   Advise patients to seek immediate medical attention if they experience any symptom of serious allergic reactions.
 

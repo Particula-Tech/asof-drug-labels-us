@@ -96,7 +96,7 @@ Treatment with ACTEMRA was associated with increases in lipid parameters such as
 Polyarticular and Systemic Juvenile Idiopathic Arthritis
 
 A similar pattern of liver enzyme elevation, low neutrophil count, low platelet count and lipid elevations is noted with ACTEMRA treatment in the PJIA and SJIA populations.
-Monitor neutrophils, platelets, ALT and AST at the time of the second infusion and thereafter every 4 to 8 weeks for PJIA and every 2 to 4 weeks for SJIA.
+Monitor neutrophils, platelets, ALT and AST at the time of the second administration and thereafter every 4 to 8 weeks for PJIA and every 2 to 4 weeks for SJIA.
 Monitor lipids as above for approved adult indications [see Dosage and Administration (2.9)].
 
 ## 5.4 Immunosuppression
@@ -115,7 +115,7 @@ Injection site reactions were categorized separately [see Adverse Reactions (6)]
 
 In the postmarketing setting, events of hypersensitivity reactions, including anaphylaxis and death have occurred in patients treated with a range of doses of intravenous ACTEMRA, with or without concomitant therapies.
 Events have occurred in patients who received premedication.
-Hypersensitivity, including anaphylaxis events, have occurred both with and without previous hypersensitivity reactions and as early as the first infusion of ACTEMRA [see Adverse Reactions (6.5)].
+Hypersensitivity, including anaphylaxis events, have occurred both with and without previous hypersensitivity reactions and as early as the first infusion of ACTEMRA [see Adverse Reactions (6.6)].
 ACTEMRA for intravenous use should only be infused by a healthcare professional with appropriate medical support to manage anaphylaxis.
 For ACTEMRA subcutaneous injection, advise patients to seek immediate medical attention if they experience any symptoms of a hypersensitivity reaction.
 If anaphylaxis or other hypersensitivity reaction occurs, stop administration of ACTEMRA immediately and discontinue ACTEMRA permanently.

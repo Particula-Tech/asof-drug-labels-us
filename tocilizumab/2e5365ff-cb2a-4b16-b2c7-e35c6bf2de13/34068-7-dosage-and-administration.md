@@ -4,14 +4,14 @@
 
 ACTEMRA may be used as monotherapy or concomitantly with methotrexate or other non-biologic DMARDs as an intravenous infusion or as a subcutaneous injection.
 
-Recommended Intravenous (IV) Dosage Regimen:
+Recommended Intravenous Dosage Regimen:
 
 The recommended dosage of ACTEMRA for adult patients given as a 60-minute single intravenous drip infusion is 4 mg per kg every 4 weeks followed by an increase to 8 mg per kg every 4 weeks based on clinical response.
 
 - Reduction of dose from 8 mg per kg to 4 mg per kg is recommended for management of certain dose-related laboratory changes including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.9), Warnings and Precautions (5.3), and Adverse Reactions (6.1)].
 - Doses exceeding 800 mg per infusion are not recommended in RA patients [see Clinical Pharmacology (12.3)].
 
-Recommended Subcutaneous (SC) Dosage Regimen:
+Recommended Subcutaneous Dosage Regimen:
 
 | Patients less than 100 kg weight | 162 mg administered subcutaneously every other week, followed by an increase to every week based on clinical response |
 | --- | --- |
@@ -35,6 +35,10 @@ ACTEMRA can be used alone following discontinuation of glucocorticoids.
 ## 2.3 Polyarticular Juvenile Idiopathic Arthritis
 
 ACTEMRA may be used alone or in combination with methotrexate.
+Do not change dose based solely on a single visit body weight measurement, as weight may fluctuate.
+
+Recommended Intravenous Dosage Regimen:
+
 The recommended dosage of ACTEMRA for PJIA patients given once every 4 weeks as a 60-minute single intravenous drip infusion is:
 
 | Recommended Intravenous PJIA Dosage Every 4 Weeks |  |
@@ -42,9 +46,16 @@ The recommended dosage of ACTEMRA for PJIA patients given once every 4 weeks as 
 | Patients less than 30 kg weight | 10 mg per kg |
 | Patients at or above 30 kg weight | 8 mg per kg |
 
-- Do not change dose based solely on a single visit body weight measurement, as weight may fluctuate.
-- Interruption of dosing may be needed for management of dose-related laboratory abnormalities including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.9)].
-- Subcutaneous administration is not approved for PJIA.
+Recommended Subcutaneous Dosage Regimen:
+
+| Recommended Subcutaneous PJIA Dosage |  |
+| --- | --- |
+| Patients less than 30 kg weight | 162 mg once every 3 weeks |
+| Patients at or above 30 kg weight | 162 mg once every 2 weeks |
+
+When transitioning from ACTEMRA intravenous therapy to subcutaneous administration, administer the first subcutaneous dose instead of the next scheduled intravenous dose.
+
+Interruption of dosing may be needed for management of dose-related laboratory abnormalities including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.7)].
 
 ## 2.4 Systemic Juvenile Idiopathic Arthritis
 
@@ -120,13 +131,14 @@ ACTEMRA for intravenous infusion should be diluted by a healthcare professional 
 
 ## 2.8 Preparation and Administration Instructions for Subcutaneous Injection
 
-ACTEMRA for subcutaneous injection is only approved for adult indications and is not indicated for the treatment of pediatric patients with PJIA or SJIA.
+ACTEMRA for subcutaneous injection is approved for adult indications and for the treatment of pediatric patients with PJIA.
 ACTEMRA for subcutaneous injection is not intended for intravenous drip infusion.
 
-- Assess suitability of patient for SC home use and instruct patients to inform a healthcare professional before administering the next dose if they experience any symptoms of allergic reaction.
+- Assess suitability of patient for subcutaneous home use and instruct patients to inform a healthcare professional before administering the next dose if they experience any symptoms of allergic reaction.
   Patients should seek immediate medical attention if they develop symptoms of serious allergic reactions.
   ACTEMRA subcutaneous injection is intended for use under the guidance of a healthcare practitioner.
   After proper training in subcutaneous injection technique, a patient may self-inject ACTEMRA or the patient's caregiver may administer ACTEMRA if a healthcare practitioner determines that it is appropriate.
+  PJIA patients may self-inject with ACTEMRA or the patient's caregiver may administer ACTEMRA if both the healthcare practitioner and the parent/legal guardian determines it is appropriate.
   Patients, or patient caregivers, should be instructed to follow the directions provided in the Instructions for Use (IFU) for additional details on medication administration.
 - Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration.
   Do not use ACTEMRA prefilled syringes (PFS) exhibiting particulate matter, cloudiness, or discoloration.

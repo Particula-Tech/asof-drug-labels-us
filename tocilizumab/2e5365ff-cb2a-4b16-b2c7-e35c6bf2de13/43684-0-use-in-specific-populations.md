@@ -57,11 +57,32 @@ ACTEMRA by intravenous use is indicated for the treatment of pediatric patients 
 - Active polyarticular juvenile idiopathic arthritis in patients 2 years of age and older
 - Severe or life-threatening CAR T cell-induced cytokine release syndrome (CRS) in patients 2 years of age and older.
 
+ACTEMRA by subcutaneous use is indicated for the treatment of pediatric patients with:
+
+- Active polyarticular juvenile idiopathic arthritis in patients 2 years of age and older
+
 Safety and effectiveness of ACTEMRA in pediatric patients with conditions other than PJIA, SJIA or CRS have not been established.
-Children under the age of two have not been studied.
-SC administration has not been studied in pediatric patients.
-Testing of a murine analogue of tocilizumab did not exert toxicity in juvenile mice.
-In particular, there was no impairment of skeletal growth, immune function and sexual maturation.
+The safety and effectiveness in pediatric patients below the age of 2 have not been established.
+Subcutaneous administration has not been studied in SJIA pediatric patients.
+
+Systemic Juvenile Idiopathic Arthritis – Intravenous Use
+
+A multi-center, open-label, single arm study to evaluate the PK, safety and exploratory PD and efficacy of ACTEMRA over 12-weeks in SJIA patients (N=11) under 2 years of age was conducted.
+Patients received intravenous ACTEMRA 12 mg/kg every two weeks.
+Concurrent use of stable background treatment with corticosteroids, MTX, and/or non-steroidal anti-inflammatory drugs was permitted.
+Patients who completed the 12-week period could continue to the optional extension period (a total of 52-weeks or until the age of 2 years, whichever was longer).
+
+The primary PK endpoints (Cmax, Cmin and AUC2weeks) of ACTEMRA at steady-state in this study were within the ranges of these parameters observed in patients with SJIA aged 2 to 17 years.
+
+The safety and immunogenicity of ACTEMRA for patients with SJIA under 2 years of age was assessed descriptively.
+SAEs, AEs leading to discontinuation, and infectious AEs were reported by 27.3%, 36.4%, and 81.8% of patients.
+Six patients (54.5%) experienced hypersensitivity reactions, defined as all adverse events occurring during or within 24 hours after an infusion considered related to ACTEMRA.
+Three of these patients experienced serious hypersensitivity reactions and were withdrawn from the study.
+Three patients with hypersensitivity reactions (two with serious hypersensitivity reactions) developed treatment induced anti-tocilizumab antibodies after the event.
+There were no cases of MAS based on the protocol-specified criteria, but 2 cases of suspected MAS based on Ravelli criteriaRavelli A, Minoia F, Davì S on behalf of the Paediatric Rheumatology International Trials Organisation, the Childhood Arthritis and Rheumatology Research Alliance, the Pediatric Rheumatology Collaborative Study Group, and the Histiocyte Society, et al. 2016 Classification Criteria for Macrophage Activation Syndrome Complicating Systemic Juvenile Idiopathic Arthritis.
+Annals of the Rheumatic Diseases 2016;75:481-489..
+
+Cytokine Release Syndrome – Intravenous Use
 
 In the retrospective analysis of pooled outcome data for patients treated with ACTEMRA for CAR T cell-induced CRS, 25 patients were children (2 years up to 12 years of age), and 17 patients were adolescents (12 years up to 18 years of age).
 There were no differences between the pediatric patients and the adults for safety or efficacy.

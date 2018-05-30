@@ -9,7 +9,7 @@ IL-6 is also produced by synovial and endothelial cells leading to local product
 
 ## 12.2 Pharmacodynamics
 
-In clinical studies in RA patients with the 4 mg per kg and 8 mg per kg IV doses or the 162 mg weekly and every other weekly SC doses of ACTEMRA, decreases in levels of C-reactive protein (CRP) to within normal ranges were seen as early as week 2.
+In clinical studies in RA patients with the 4 mg per kg and 8 mg per kg intravenous doses or the 162 mg weekly and every other weekly subcutaneous doses of ACTEMRA, decreases in levels of C-reactive protein (CRP) to within normal ranges were seen as early as week 2.
 Changes in pharmacodynamic parameters were observed (i.e., decreases in rheumatoid factor, erythrocyte sedimentation rate (ESR), serum amyloid A and increases in hemoglobin) with doses, however the greatest improvements were observed with 8 mg per kg ACTEMRA.
 Pharmacodynamic changes were also observed to occur after ACTEMRA administration in GCA, PJIA, and SJIA patients (decreases in CRP, ESR, and increases in hemoglobin).
 The relationship between these pharmacodynamic findings and clinical efficacy is not known.
@@ -48,7 +48,7 @@ Therefore, ACTEMRA doses exceeding 800 mg per infusion are not recommended [see 
 
 Rheumatoid Arthritis—Subcutaneous Administration
 
-The pharmacokinetics of tocilizumab was characterized using a population pharmacokinetic analysis using a database composed of 1759 rheumatoid arthritis patients treated with 162 mg SC every week, 162 mg SC every other week, and 8 mg/kg every 4 weeks for 24 weeks.
+The pharmacokinetics of tocilizumab was characterized using a population pharmacokinetic analysis using a database composed of 1759 rheumatoid arthritis patients treated with 162 mg subcutaneously every week, 162 mg subcutaneously every other week, and 8 mg/kg every 4 weeks for 24 weeks.
 
 The pharmacokinetic parameters of tocilizumab did not change with time.
 For the 162 mg every week dose, the estimated mean (±SD) steady-state AUC1week, Cmin and Cmax of tocilizumab were 8200 ± 3600 mcg∙h/mL, 44.6 ± 20.6 mcg/mL, and 50.9 ± 21.8 mcg/mL, respectively.
@@ -61,7 +61,7 @@ Steady state was reached after 12 weeks for AUC and Cmin, and after 10 weeks for
 
 Giant Cell Arteritis – Subcutaneous Administration
 
-The pharmacokinetics of tocilizumab in GCA patients was determined using a population pharmacokinetic analysis on a dataset composed of 149 GCA patients treated with 162 mg SC every week or with 162 mg SC every other week.
+The pharmacokinetics of tocilizumab in GCA patients was determined using a population pharmacokinetic analysis on a dataset composed of 149 GCA patients treated with 162 mg subcutaneously every week or with 162 mg subcutaneously every other week.
 
 For the 162 mg every week dose, the estimated mean (±SD) steady-state Cavg, Cmin and Cmax of tocilizumab were 71.3 ± 30.1 mcg/mL, 68.1± 29.5 mcg/mL, and 73 ± 30.4 mcg/mL, respectively.
 The accumulation ratios for Cavg or AUCtau, Cmin, and Cmax were 10.9, 9.6, and 8.9, respectively.
@@ -71,16 +71,25 @@ For the 162 mg every other week dose, the estimated mean (±SD) steady-state Cav
 The accumulation ratios for Cavg or AUCtau, Cmin, and Cmax were 2.8, 5.6, and 2.3 respectively.
 Steady-state was reached after 14 weeks.
 
-Polyarticular Juvenile Idiopathic Arthritis—Intravenous Administration
+Polyarticular Juvenile Idiopathic Arthritis—Intravenous and Subcutaneous Administration
 
-The pharmacokinetics of tocilizumab was determined using a population pharmacokinetic analysis on a database composed of 188 patients with polyarticular juvenile idiopathic arthritis.
+The pharmacokinetics of tocilizumab (TCZ) in PJIA patients was characterized by a population pharmacokinetic analysis which included 188 patients who were treated with TCZ IV or 52 patients treated with TCZ SC.
 
-For doses of 8 mg/kg tocilizumab (patients with a body weight at or above 30 kg) given every 4 weeks, the estimated mean (± SD) AUC4weeks, Cmax and Cmin of tocilizumab were 29500 ± 8660 mcg∙hr/mL, 182 ± 37 mcg/mL and 7.49 ± 8.2 mcg/mL, respectively.
+For doses of 8 mg/kg tocilizumab (patients with a body weight at or above 30 kg) given every 4 weeks intravenously, the estimated mean (± SD) Cmax, Ctrough, and Cmean of tocilizumab were 183 ± 42.3 mcg/mL, 6.55 ± 7.93 mcg/mL and 42.2 ± 13.4 mcg/mL, respectively.
+For doses of 10 mg/kg tocilizumab (patients with a body weight less than 30 kg) given every 4 weeks intravenously, the estimated mean (± SD) Cmax, Ctrough, and Cmean of tocilizumab were 168 ± 24.8 mcg/mL, 1.47 ± 2.44 mcg/mL and 31.6 ± 7.84 mcg/mL, respectively.
 
-For doses of 10 mg/kg tocilizumab (patients with a body weight less than 30 kg) given every 4 weeks, the estimated mean (± SD) AUC4weeks, Cmax and Cmin of tocilizumab were 23200 ± 6100 mcg∙hr/mL, 175 ± 32 mcg/mL and 2.35 ± 3.59 mcg/mL, respectively.
-
-The accumulation ratios were 1.05 and 1.16 for AUC4weeks, and 1.43 and 2.22 for Cmin for 10 mg/kg (BW less than 30 kg) and 8 mg/kg (BW at or above 30 kg) doses, respectively.
+The accumulation ratios were 1.05 and 1.16 for AUC4weeks, and 1.43 and 2.22 for Ctrough for 10 mg/kg (BW less than 30 kg) and 8 mg/kg (BW at or above 30 kg) intravenous doses, respectively.
 No accumulation for Cmax was observed.
+Following 8 mg/kg every 4 weeks TCZ IV steady state peak and trough concentrations in PJIA pediatric patients (aged 2 to 17 years old) are comparable to those in adult RA patients following 8 mg/kg IV every 4 weeks.
+Following 8mg/kg every 4 weeks, the average concentration (Cmean) of TCZ in PJIA patients after TCZ IV is slightly lower than in adult RA patients.
+
+For doses of 162 mg tocilizumab (patients with a body weight at or above 30 kg) given every 2 weeks subcutanously, the estimated mean (± SD) Cmax, Ctrough, and Cmean of tocilizumab were 29.4 ± 13.5 mcg/mL, 11.8 ± 7.08 mcg/mL and 21.7 ± 10.4 mcg/mL, respectively.
+For doses of 162 mg tocilizumab (patients with a body weight less than 30 kg) given every 3 weeks subcutanously, the estimated mean (± SD) Cmax, Ctrough, and Cmean of tocilizumab were 75.5 ± 24.1 mcg/mL, 18.4 ± 12.9 mcg/mL and 45.5 ± 19.8 mcg/mL, respectively.
+
+The accumulation ratios were 1.46 and 2.04 for AUC4weeks, 2.08 and 3.58 for Ctrough, and 1.32 and 1.72 for Cmax, for 162 mg given every 3 weeks (BW less than 30 kg) and 162 mg given every 2 weeks (BW at or above 30 kg) subcutaneous doses, respectively.
+Following subcutaneous dosing, steady state Ctrough was comparable for patients in the two body weight groups, while steady-state Cmax and Cmean were higher for patients in the less than 30 kg group compared to the group at or above 30 kg.
+All patients treated with TCZ SC had steady-state Ctrough at or higher than that achieved with TCZ IV across the spectrum of body weights.
+The average and trough concentrations in patients after subcutaneous dosing were within the range of those achieved in adult patients with RA following the subcutaneous administration of the recommended regimens.
 
 Systemic Juvenile Idiopathic Arthritis—Intravenous Administration
 
@@ -92,8 +101,10 @@ Mean estimated tocilizumab exposure parameters were similar between the two dose
 
 Absorption
 
-Following SC dosing in RA and GCA patients, the absorption half-life was around 4 days.
-The bioavailability for the SC formulation was 0.8.
+Following subcutaneous dosing in RA and GCA patients, the absorption half-life was around 4 days.
+The bioavailability for the subcutaneous formulation was 80%.
+
+Following subcutaneous dosing in PJIA patients, the absorption half-life was around 2 days, and the bioavailability for the subcutaneous formulation in PJIA patients was 96%.
 
 In RA patients the median values of Tmax were 2.8 days after the tocilizumab every week dose and 4.7 days after the tocilizumab every other week dose.
 
@@ -124,12 +135,13 @@ The linear clearance in the population pharmacokinetic analysis was estimated to
 
 Due to the dependence of total clearance on ACTEMRA serum concentrations, the half-life of ACTEMRA is also concentration-dependent and varies depending on the serum concentration level.
 
-For IV administration in RA patients, the concentration-dependent apparent t1/2 is up to 11 days for 4 mg per kg and up to 13 days for 8 mg per kg every 4 weeks in patients with RA at steady-state.
-For SC administration in RA patients, the concentration-dependent apparent t1/2 is up to 13 days for 162 mg every week and 5 days for 162 mg every other week in patients with RA at steady-state.
+For intravenous administration in RA patients, the concentration-dependent apparent t1/2 is up to 11 days for 4 mg per kg and up to 13 days for 8 mg per kg every 4 weeks in patients with RA at steady-state.
+For subcutaneous administration in RA patients, the concentration-dependent apparent t1/2 is up to 13 days for 162 mg every week and 5 days for 162 mg every other week in patients with RA at steady-state.
 
-In GCA patients at steady state, the effective t1/2 of tocilizumab varied between 18.3 and 18.9 days for 162 mg SC every week dosing regimen and between 4.2 and 7.9 days for 162 mg SC every other week dosing regimen.
+In GCA patients at steady state, the effective t1/2 of tocilizumab varied between 18.3 and 18.9 days for 162 mg subcutaneously every week dosing regimen and between 4.2 and 7.9 days for 162 mg subcutaneously every other week dosing regimen.
 
-The t1/2 of tocilizumab in children with PJIA is up to 16 days for the two body weight categories (8 mg/kg for body weight at or above 30 kg or 10 mg/kg for body weight below 30 kg) during a dosing interval at steady state.
+The t1/2 of tocilizumab in children with PJIA is up to 17 days for the two body weight categories (8 mg/kg for body weight at or above 30 kg or 10 mg/kg for body weight below 30 kg) during a dosing interval at steady state.
+For subcutaneous administration, the t1/2 of tocilizumab in PJIA patients is up to 10 days for the two body weight categories (every other week regimen for body weight at or above 30 kg or every 3 week regimen for body weight less than 30 kg) during a dosing interval at steady state.
 
 The t1/2 of tocilizumab in pediatric patients with SJIA is up to 23 days for the two body weight categories at week 12.
 
@@ -138,7 +150,7 @@ Pharmacokinetics in Special Populations
 Population pharmacokinetic analyses in adult rheumatoid arthritis patients and GCA patients showed that age, gender and race did not affect the pharmacokinetics of tocilizumab.
 Linear clearance was found to increase with body size.
 In RA patients, the body weight-based dose (8 mg per kg) resulted in approximately 86% higher exposure in patients who are greater than 100 kg in comparison to patients who are less than 60 kg.
-There was an inverse relationship between tocilizumab exposure and body weight for flat dose SC regimens.
+There was an inverse relationship between tocilizumab exposure and body weight for flat dose subcutaneous regimens.
 
 In GCA patients, higher exposure was observed in patients with lower body weight.
 For the 162 mg every week dosing regimen, the steady-state Cavg was 51% higher in patients with body weight less than 60 kg compared to patients weighing between 60 to 100 kg.

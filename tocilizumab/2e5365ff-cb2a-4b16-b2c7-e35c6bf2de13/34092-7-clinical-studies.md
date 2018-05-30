@@ -40,11 +40,12 @@ During the 24 week controlled portions of Studies I to V, patients treated with 
 
 Table 3 Clinical Response at Weeks 24 and 52 in Active and Placebo Controlled Trials of Intravenous ACTEMRA (Percent of Patients)
 
-| Response Rate | N=284 | N=286 (95% CI) | N=393 | N=399 (95% CI)CI: 95% confidence interval of the weighted difference to placebo adjusted for site (and disease duration for Study I only) | N=398 (95% CI) | N=204 | N=213 (95% CI) | N=205 (95% CI) | N=413 | N=803 (95% CI) | N=158 | N=161 (95% CI) | N=170 (95% CI) |
+|  | (95% CI)CI: 95% confidence interval of the weighted difference to placebo adjusted for site (and disease duration for Study I only) |  | (95% CI) | (95% CI) |  | (95% CI) | (95% CI) |  | (95% CI) |  | (95% CI) | (95% CI) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Percent of Patients |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | Study I |  | Study II |  |  | Study III |  |  | Study IV |  | Study V |  |  |
 |  | MTX | ACTEMRA 8 mg per kg | Placebo + MTX | ACTEMRA 4 mg per kg + MTX | ACTEMRA 8 mg per kg + MTX | Placebo + MTX | ACTEMRA 4 mg per kg + MTX | ACTEMRA 8 mg per kg + MTX | Placebo + DMARDs | ACTEMRA 8 mg per kg + DMARDs | Placebo + MTX | ACTEMRA 4 mg per kg + MTX | ACTEMRA 8 mg per kg + MTX |
+| Response Rate | N=284 | N=286 | N=393 | N=399 | N=398 | N=204 | N=213 | N=205 | N=413 | N=803 | N=158 | N=161 | N=170 |
 | ACR 20 |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Week 24 | 53% | 70% (0.11, 0.27) | 27% | 51% (0.17, 0.29) | 56% (0.23, 0.35) | 27% | 48% (0.15, 0.32) | 59% (0.23, 0.41) | 24% | 61% (0.30, 0.40) | 10% | 30% (0.15, 0.36) | 50% (0.36, 0.56) |
 | Week 52 | N/A | N/A | 25% | 47% (0.15, 0.28) | 56% (0.25, 0.38) | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
@@ -85,7 +86,7 @@ Table 5 Components of ACR Response at Week 24 in Trials of Intravenous ACTEMRA
 |  | N=213 |  | N=205 |  | N=204 |  | N=161 |  | N=170 |  | N=158 |  |
 | Number of tender joints (0-68) | 33 | 19 -7.0 (-10.0, -4.1) | 32 | 14.5 -9.6 (-12.6, -6.7) | 33 | 25 | 31 | 21 -10.8 (-14.6, -7.1) | 32 | 17 -15.1 (-18.8, -11.4) | 30 | 30 |
 | Number of swollen joints (0-66) | 20 | 10 -4.2 (-6.1, -2.3) | 19.5 | 8 -6.2 (-8.1, -4.2) | 21 | 15 | 19.5 | 13 -6.2 (-9.0, -3.5) | 19 | 11 -7.2 (-9.9, -4.5) | 19 | 18 |
-| PainVisual analog scale: 0 = best, 100 = worst | 61 | 33 -11.0 (-17.0, -5.0) | 60 | 30 -15.8 (-21.7, -9.9) | 57 | 43 | 63.5 | 43 -12.4 (-22.1, -2.1) | 65 | 33 -23.9 (-33.7, -14.1) | 64 | 48 |
+| Pain Visual analog scale: 0 = best, 100 = worst | 61 | 33 -11.0 (-17.0, -5.0) | 60 | 30 -15.8 (-21.7, -9.9) | 57 | 43 | 63.5 | 43 -12.4 (-22.1, -2.1) | 65 | 33 -23.9 (-33.7, -14.1) | 64 | 48 |
 | Patient global assessment | 66 | 34 -10.9 (-17.1, -4.8) | 65 | 31 -14.9 (-20.9, -8.9) | 64 | 45 | 70 | 46 -10.0 (-20.3, 0.3) | 70 | 36 -17.4 (-27.8, -7.0) | 71 | 51 |
 | Physician global assessment | 64 | 26 -5.6 (-10.5, -0.8) | 64 | 23 -9.0 (-13.8, -4.2) | 64 | 32 | 66.5 | 39 -10.5 (-18.6, -2.5) | 66 | 28 -18.2 (-26.3, -10.0) | 67.5 | 43 |
 | Disability index (HAQ)Health Assessment Questionnaire: 0 = best, 3 = worst; 20 questions; 8 categories: dressing and grooming, arising, eating, walking, hygiene, reach, grip, and activities | 1.64 | 1.01 -0.18 (-0.34, -0.02) | 1.55 | 0.96 -0.21 (-0.37, -0.05) | 1.55 | 1.21 | 1.67 | 1.39 -0.25 (-0.42, -0.09) | 1.75 | 1.34 -0.34 (-0.51, -0.17) | 1.70 | 1.58 |
@@ -139,21 +140,21 @@ General health status was assessed by the Short Form Health Survey (SF-36) in St
 ## 14.2 Rheumatoid Arthritis—Subcutaneous Administration
 
 The efficacy and safety of subcutaneously administered ACTEMRA was assessed in two double-blind, controlled, multicenter studies in patients with active RA.
-One study (SC-I) was a non-inferiority study that compared the efficacy and safety of ACTEMRA 162 mg administered every week subcutaneously (SC) to 8 mg per kg intravenously every four weeks.
-The second study (SC-II) was a placebo controlled superiority study that evaluated the safety and efficacy of ACTEMRA 162 mg administered every other week SC to placebo.
+One study (SC-I) was a non-inferiority study that compared the efficacy and safety of ACTEMRA 162 mg administered every week subcutaneously to 8 mg per kg intravenously every four weeks.
+The second study (SC-II) was a placebo controlled superiority study that evaluated the safety and efficacy of ACTEMRA 162 mg administered every other week subcutaneously to placebo.
 Both SC-I and SC-II required patients to be >18 years of age with moderate to severe active rheumatoid arthritis diagnosed according to ACR criteria who had at least 4 tender and 4 swollen joints at baseline (SC-I) or at least 8 tender and 6 swollen joints at baseline (SC-II), and an inadequate response to their existing DMARD therapy, where approximately 20% also had a history of inadequate response to at least one TNF inhibitor.
 All patients in both SC studies received background non-biologic DMARD(s).
 
-In SC-I, 1262 patients were randomized 1:1 to receive ACTEMRA SC 162 mg every week or ACTEMRA intravenous 8 mg/kg every four weeks in combination with DMARD(s).
-In SC-II, 656 patients were randomized 2:1 to ACTEMRA SC 162 mg every other week or placebo, in combination with DMARD(s).
+In SC-I, 1262 patients were randomized 1:1 to receive ACTEMRA-SC 162 mg every week or intravenous ACTEMRA 8 mg/kg every four weeks in combination with DMARD(s).
+In SC-II, 656 patients were randomized 2:1 to ACTEMRA-SC 162 mg every other week or placebo, in combination with DMARD(s).
 The primary endpoint in both studies was the proportion of patients who achieved an ACR20 response at Week 24.
 
-The clinical response to 24 weeks of ACTEMRA SC therapy is shown in Table 7.
+The clinical response to 24 weeks of ACTEMRA-SC therapy is shown in Table 7.
 In SC-I, the primary outcome measure was ACR20 at Week 24.
 The pre-specified non-inferiority margin was a treatment difference of 12%.
 The study demonstrated non-inferiority of ACTEMRA with respect to ACR20 at Week 24; ACR50, ACR70, and DAS28 responses are also shown in Table 7.
-In SC-II, a greater portion of patients treated with ACTEMRA 162 mg SC every other week achieved ACR20, ACR50, and ACR70 responses compared to placebo-treated patients (Table 7).
-Further, a greater proportion of patients treated with ACTEMRA 162 mg SC every other week achieved a low level of disease activity as measured by a DAS28-ESR less than 2.6 at Week 24 compared to those treated with placebo (Table 7).
+In SC-II, a greater portion of patients treated with ACTEMRA 162 mg subcutaneously every other week achieved ACR20, ACR50, and ACR70 responses compared to placebo-treated patients (Table 7).
+Further, a greater proportion of patients treated with ACTEMRA 162 mg subcutaneously every other week achieved a low level of disease activity as measured by a DAS28-ESR less than 2.6 at Week 24 compared to those treated with placebo (Table 7).
 
 Table 7 Clinical Response at Week 24 in Trials of Subcutaneous ACTEMRA (Percent of Patients)
 
@@ -183,24 +184,24 @@ The results of the components of the ACR response criteria and the percent of AC
 Radiographic Response
 
 In study SC-II, the progression of structural joint damage was assessed radiographically and expressed as a change from baseline in the van der Heijde modified total Sharp score (mTSS).
-At week 24, significantly less radiographic progression was observed in patients receiving ACTEMRA SC every other week plus DMARD(s) compared to placebo plus DMARD(s); mean change from baseline in mTSS of 0.62 vs. 1.23, respectively, with an adjusted mean difference of -0.60 (-1.1, -0.1).
+At week 24, significantly less radiographic progression was observed in patients receiving ACTEMRA-SC every other week plus DMARD(s) compared to placebo plus DMARD(s); mean change from baseline in mTSS of 0.62 vs. 1.23, respectively, with an adjusted mean difference of -0.60 (-1.1, -0.1).
 These results are consistent with those observed in patients treated with intravenous ACTEMRA.
 
 Health Related Outcomes
 
-In studies SC-I and SC-II, the mean decrease from baseline to week 24 in HAQ-DI was 0.6, 0.6, 0.4 and 0.3, and the proportion of patients who achieved a clinically relevant improvement in HAQ-DI (change from baseline of ≥ 0.3 units) was 65%, 67%, 58% and 47%, for the SC every week, IV 8 mg/kg, SC every other week, and placebo treatment groups, respectively.
+In studies SC-I and SC-II, the mean decrease from baseline to week 24 in HAQ-DI was 0.6, 0.6, 0.4 and 0.3, and the proportion of patients who achieved a clinically relevant improvement in HAQ-DI (change from baseline of ≥ 0.3 units) was 65%, 67%, 58% and 47%, for the subcutaneous every week, intravenous 8 mg/kg, subcutaneous every other week, and placebo treatment groups, respectively.
 
 Other Health-Related Outcomes
 
 General health status was assessed by the SF-36 in Studies SC-I and SC-II.
 In Study SC-II, patients receiving ACTEMRA every other week demonstrated greater improvement from baseline compared to placebo in the PCS, MCS, and in all 8 domains of the SF-36.
-In Study SC-I, improvements in these scores were similar between ACTEMRA SC every week and ACTEMRA IV 8 mg/kg.
+In Study SC-I, improvements in these scores were similar between ACTEMRA-SC every week and ACTEMRA-IV 8 mg/kg.
 
 ## 14.3 Giant Cell Arteritis—Subcutaneous Administration
 
 The efficacy and safety of subcutaneously administered ACTEMRA was assessed in a single, randomized, double-blind, multicenter study in patients with active GCA.
 In Study WA28119, 251 screened patients with new-onset or relapsing GCA were randomized to one of four treatment arms.
-Two SC doses of ACTEMRA (162 mg every week and 162 mg every other week) were compared to two different placebo control groups (pre-specified prednisone-taper regimen over 26 weeks and 52 weeks) randomized 2:1:1:1.
+Two subcutaneous doses of ACTEMRA (162 mg every week and 162 mg every other week) were compared to two different placebo control groups (pre-specified prednisone-taper regimen over 26 weeks and 52 weeks) randomized 2:1:1:1.
 The study consisted of a 52-week blinded period, followed by a 104-week open-label extension.
 
 All patients received background glucocorticoid (prednisone) therapy.
@@ -215,7 +216,7 @@ Table 8 Efficacy Results from Study WA28119
 
 |  | PBO + 26 weeks prednisone taper N=50 | PBO + 52 weeks prednisone taper N=51 | TCZ 162mg SC QW + 26 weeks prednisone taper N=100 | TCZ 162 mg SC Q2W + 26 weeks prednisone taper N=49 |
 | --- | --- | --- | --- | --- |
-| Sustained remissionSustained remission was achieved by a patient meeting all of the following components: absence of GCA signs and symptoms†, normalization of ESR‡, normalization of CRP§ and adherence to the prednisone taper regimen¶. |  |  |  |  |
+| Sustained remission Sustained remission was achieved by a patient meeting all of the following components: absence of GCA signs and symptoms†, normalization of ESR‡, normalization of CRP§ and adherence to the prednisone taper regimen¶. |  |  |  |  |
 | Responders, n (%) | 7 (14.0%) | 9 (17.6%) | 56 (56.0%) | 26 (53.1%) |
 | Unadjusted difference in proportions vs PBO + 26 weeks taper (99.5% CI) | N/A | N/A | 42.0% (18.0, 66.0) | 39.1% (12.5, 65.7) |
 | Unadjusted difference in proportions vs PBO + 52 weeks taper (99.5% CI) | N/A | N/A | 38.4% (14.4, 62.3) | 35.4% (8.6, 62.2) |
@@ -224,7 +225,13 @@ Table 8 Efficacy Results from Study WA28119
 | Sustained ESR<30 mm/hrPatients who did not have an elevated ESR ≥30 mm/hr which was classified as attributed to GCA from Week 12 up to Week 52., n (%) | 20 (40.0%) | 22 (43.1%) | 83 (83.0%) | 37 (75.5%) |
 | Sustained CRP normalizationPatients who did not have two or more consecutive CRP records of ≥ 1mg/dL from Week 12 up to Week 52., n (%) | 17 (34.0%) | 13 (25.5%) | 72 (72.0%) | 34 (69.4%) |
 | Successful prednisone taperingPatients who did not enter escape therapy and received ≤ 100mg of additional concomitant prednisone from Week 12 up to Week 52., n (%) | 10 (20.0%) | 20 (39.2%) | 60 (60.0%) | 28 (57.1%) |
-| Patients not completing the study to week 52 were classified as non-responders in the primary and key secondary analysis: PBO+26: 6 (12.0%), PBO+52: 5 (9.8%), TCZ QW: 15 (15.0%), TCZ Q2W: 9 (18.4%). CRP = C-reactive protein ESR = erythrocyte sedimentation rate PBO = placebo Q2W = every other week dose QW = every week dose TCZ = tocilizumab |  |  |  |  |
+| Patients not completing the study to week 52 were classified as non-responders in the primary and key secondary analysis: PBO+26: 6 (12.0%), PBO+52: 5 (9.8%), TCZ QW: 15 (15.0%), TCZ Q2W: 9 (18.4%). |  |  |  |  |
+| CRP = C-reactive protein |  |  |  |  |
+| ESR = erythrocyte sedimentation rate |  |  |  |  |
+| PBO = placebo |  |  |  |  |
+| Q2W = every other week dose |  |  |  |  |
+| QW = every week dose |  |  |  |  |
+| TCZ = tocilizumab |  |  |  |  |
 
 The estimated annual cumulative prednisone dose was lower in the two ACTEMRA dose groups (medians of 1887 mg and 2207 mg on ACTEMRA QW and Q2W, respectively) relative to the placebo arms (medians of 3804 mg and 3902 mg on placebo + 26 weeks prednisone and placebo + 52 weeks prednisone taper, respectively).
 
@@ -237,8 +244,8 @@ Treatment with a stable dose of methotrexate was permitted but was not required 
 Concurrent use of disease modifying antirheumatic drugs (DMARDs), other than methotrexate, or other biologics (e.g., TNF antagonists or T cell costimulation modulator) were not permitted in the study.
 
 Part I consisted of a 16-week active ACTEMRA treatment lead-in period (n=188) followed by Part II, a 24-week randomized double-blind placebo-controlled withdrawal period, followed by Part III, a 64-week open-label period.
-Eligible patients weighing at or above 30 kg received ACTEMRA at 8 mg/kg IV once every four weeks.
-Patients weighing less than 30 kg were randomized 1:1 to receive either ACTEMRA 8 mg/kg or 10 mg/kg IV every four weeks.
+Eligible patients weighing at or above 30 kg received ACTEMRA at 8 mg/kg intraveneously once every four weeks.
+Patients weighing less than 30 kg were randomized 1:1 to receive either ACTEMRA 8 mg/kg or 10 mg/kg intravenously every four weeks.
 At the conclusion of the open-label Part I, 91% of patients taking background MTX in addition to tocilizumab and 83% of patients on tocilizumab monotherapy achieved an ACR 30 response at week 16 compared to baseline and entered the blinded withdrawal period (Part II) of the study.
 The proportions of patients with JIA ACR 50/70 responses in Part I were 84.0%, and 64%, respectively for patients taking background MTX in addition to tocilizumab and 80% and 55% respectively for patients on tocilizumab monotherapy.
 
@@ -252,7 +259,17 @@ ACTEMRA treated patients experienced significantly fewer disease flares compared
 
 During the withdrawal phase (Part II), more patients treated with ACTEMRA showed JIA ACR 30/50/70 responses at Week 40 compared to patients withdrawn to placebo.
 
-## 14.5 Systemic Juvenile Idiopathic Arthritis—Intravenous Administration
+## 14.5 Polyarticular Juvenile Idiopathic Arthritis—Subcutaneous Administration
+
+Subcutaneously administered ACTEMRA in pediatric patients with polyarticular juvenile idiopathic arthritis (PJIA) was assessed in a 52-week, open-label, multicenter, PK-PD and safety study to determine the appropriate subcutaneous dose of ACTEMRA that achieved comparable PK/PD profiles to the ACTEMRA-IV regimen.
+PJIA patients aged 1 to 17 years with an inadequate response or inability to tolerate MTX, including patients with well-controlled disease on treatment with ACTEMRA-IV and ACTEMRA-naïve patients with active disease, were treated with subcutaneous ACTEMRA based on body weight.
+
+Patients weighing at or above 30 kg (n = 25) were treated with 162 mg of ACTEMRA-SC every 2 weeks and patients weighing less than 30 kg (n = 27) received 162 mg of ACTEMRA-SC every 3 weeks for 52 weeks.
+Of these 52 patients, 37 (71%) were naive to ACTEMRA and 15 (29%) had been receiving ACTEMRA-IV and switched to ACTEMRA-SC at baseline.
+
+The efficacy of subcutaneous ACTEMRA in children 2 to 17 years of age is based on pharmacokinetic exposure and extrapolation of the established efficacy of intravenous ACTEMRA in polyarticular JIA patients and subcutaneous ACTEMRA in patients with RA [see Clinical Pharmacology (12.3) and Clinical Studies (14.2 and 14.4)].
+
+## 14.6 Systemic Juvenile Idiopathic Arthritis—Intravenous Administration
 
 The efficacy of ACTEMRA for the treatment of active SJIA was assessed in a 12-week randomized, double blind, placebo-controlled, parallel group, 2-arm study.
 Patients treated with or without MTX, were randomized (ACTEMRA:placebo = 2:1) to one of two treatment groups: 75 patients received ACTEMRA infusions every two weeks at either 8 mg per kg for patients at or above 30 kg or 12 mg per kg for patients less than 30 kg and 37 were randomized to receive placebo infusions every two weeks.
@@ -267,21 +284,18 @@ Primary endpoint result and JIA ACR response rates at Week 12 are shown in Table
 
 Table 9 Efficacy Findings at Week 12
 
-|  | ACTEMRA N=75 | Placebo N=37 |
-| --- | --- | --- |
 | Primary Endpoint: JIA ACR 30 response + absence of fever |  |  |
+| --- | --- | --- |
+|  | ACTEMRA N=75 | Placebo N=37 |
 | Responders | 85% | 24% |
 | Weighted difference (95% CI) | 62 (45, 78) | - |
 | JIA ACR Response Rates at Week 12 |  |  |
 | JIA ACR 30 |  |  |
-| Responders | 91% | 24% |
-| Weighted differenceThe weighted difference is the difference between the ACTEMRA and Placebo response rates, adjusted for the stratification factors (weight, disease duration, background oral corticosteroid dose and background methotrexate use). (95% CI)CI: confidence interval of the weighted difference. | 67 (51, 83) | - |
+| Responders Weighted differenceThe weighted difference is the difference between the ACTEMRA and Placebo response rates, adjusted for the stratification factors (weight, disease duration, background oral corticosteroid dose and background methotrexate use). (95% CI)CI: confidence interval of the weighted difference. | 91% 67 (51, 83) | 24% - |
 | JIA ACR 50 |  |  |
-| Responders | 85% | 11% |
-| Weighted difference (95% CI) | 74 (58, 90) | - |
+| Responders Weighted difference (95% CI) | 85% 74 (58, 90) | 11% - |
 | JIA ACR 70 |  |  |
-| Responders | 71% | 8% |
-| Weighted difference (95% CI) | 63 (46, 80) | - |
+| Responders Weighted difference (95% CI) | 71% 63 (46, 80) | 8% - |
 
 The treatment effect of ACTEMRA was consistent across all components of the JIA ACR response core variables.
 JIA ACR scores and absence of fever responses in the open label extension were consistent with the controlled portion of the study (data available through 44 weeks).
@@ -303,7 +317,7 @@ Health Related Outcomes
 Physical function and disability were assessed using the Childhood Health Assessment Questionnaire Disability Index (CHAQ-DI).
 Seventy-seven percent (58 out of 75) of patients in the ACTEMRA treatment group achieved a minimal clinically important improvement in CHAQ-DI (change from baseline of ≥ 0.13 units) at week 12 compared to 19% (7 out of 37) in the placebo treatment group.
 
-## 14.6 Cytokine Release Syndrome—Intravenous Administration
+## 14.7 Cytokine Release Syndrome—Intravenous Administration
 
 The efficacy of ACTEMRA for the treatment of CRS was assessed in a retrospective analysis of pooled outcome data from clinical trials of CAR T-cell therapies for hematological malignancies.
 Evaluable patients had been treated with tocilizumab 8 mg/kg (12 mg/kg for patients < 30 kg) with or without additional high-dose corticosteroids for severe or life-threatening CRS; only the first episode of CRS was included in the analysis.

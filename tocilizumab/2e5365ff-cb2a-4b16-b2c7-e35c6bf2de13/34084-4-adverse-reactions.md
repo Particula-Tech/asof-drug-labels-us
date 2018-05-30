@@ -90,7 +90,7 @@ Liver enzyme abnormalities are summarized in Table 1.
 In patients experiencing liver enzyme elevation, modification of treatment regimen, such as reduction in the dose of concomitant DMARD, interruption of ACTEMRA-IV, or reduction in ACTEMRA-IV dose, resulted in decrease or normalization of liver enzymes [see Dosage and Administration (2.6)].
 These elevations were not associated with clinically relevant increases in direct bilirubin, nor were they associated with clinical evidence of hepatitis or hepatic insufficiency [see Warnings and Precautions (5.3)].
 
-Table 1 Incidence of Liver Enzyme Abnormalities in the 24 Week Controlled Period of Studies I to VFor a description of these studies, see Section 14, Clinical Studies.
+Table 1 Incidence of Liver Enzyme Abnormalities in the 24 Week Controlled Period of Studies I to VFor a description of these studies,see Section 14, Clinical Studies.
 
 |  | N = 288 (%) | N = 284 (%) | N = 774 (%) | N = 1582 (%) | N = 1170 (%) |
 | --- | --- | --- | --- | --- | --- |
@@ -187,17 +187,17 @@ Endocrine disorders: hypothyroidism
 ## 6.2 Clinical Trials Experience in Rheumatoid Arthritis Patients Treated with Subcutaneous ACTEMRA (ACTEMRA-SC)
 
 The ACTEMRA-SC data in rheumatoid arthritis (RA) includes 2 double-blind, controlled, multicenter studies.
-Study SC-I was a non-inferiority study that compared the efficacy and safety of tocilizumab 162 mg administered every week subcutaneously (SC) and 8 mg/kg intravenously (IV) every four weeks in 1262 adult subjects with rheumatoid arthritis.
-Study SC-II was a placebo controlled superiority study that evaluated the safety and efficacy of tocilizumab 162 mg administered every other week SC or placebo in 656 patients.
+Study SC-I was a non-inferiority study that compared the efficacy and safety of tocilizumab 162 mg administered every week subcutaneously and 8 mg/kg intravenously every four weeks in 1262 adult subjects with rheumatoid arthritis.
+Study SC-II was a placebo controlled superiority study that evaluated the safety and efficacy of tocilizumab 162 mg administered every other week subcutaneously or placebo in 656 patients.
 All patients in both studies received background non-biologic DMARDs.
 
-The safety observed for ACTEMRA administered subcutaneously was consistent with the known safety profile of intravenous ACTEMRA, with the exception of injection site reactions, which were more common with ACTEMRA-SC compared with placebo SC injections (IV arm).
+The safety observed for ACTEMRA-SC administered subcutaneously was consistent with the known safety profile of intravenous ACTEMRA, with the exception of injection site reactions (ISRs), which were more common with ACTEMRA-SC compared with placebo SC injections (IV arm).
 
 Injection Site Reactions
 
-In the 6-month control period, in SC-I, the frequency of injection site reactions was 10.1% (64/631) and 2.4% (15/631) for the weekly ACTEMRA-SC and placebo SC (IV-arm) groups, respectively.
-In SC-II, the frequency of injection site reactions was 7.1% (31/437) and 4.1% (9/218) for the every other week SC ACTEMRA and placebo groups, respectively.
-These injection site reactions (including erythema, pruritus, pain and hematoma) were mild to moderate in severity.
+In the 6-month control period, in SC-I, the frequency of ISRs was 10.1% (64/631) and 2.4% (15/631) for the weekly ACTEMRA-SC and placebo SC (IV-arm) groups, respectively.
+In SC-II, the frequency of ISRs was 7.1% (31/437) and 4.1% (9/218) for the every other week ACTEMRA-SC and placebo groups, respectively.
+These ISRs (including erythema, pruritus, pain and hematoma) were mild to moderate in severity.
 The majority resolved without any treatment and none necessitated drug discontinuation.
 
 Immunogenicity
@@ -225,7 +225,7 @@ During routine laboratory monitoring in the ACTEMRA-SC 6-month controlled clinic
 
 Elevated Liver Enzymes
 
-During routine laboratory monitoring in the 6-month controlled clinical trials, elevation in ALT or AST ≥3 × ULN occurred in 6.5% and 1.4% of patients, respectively, receiving ACTEMRA-SC weekly and 3.4% and 0.7% receiving ACTEMRA SC every other week.
+During routine laboratory monitoring in the 6-month controlled clinical trials, elevation in ALT or AST ≥3 × ULN occurred in 6.5% and 1.4% of patients, respectively, receiving ACTEMRA-SC weekly and 3.4% and 0.7% receiving ACTEMRA-SC every other week.
 
 Lipid Parameters Elevations
 
@@ -244,7 +244,7 @@ The rate of infection/serious infection events was 200.2/9.7 events per 100 pati
 The safety of ACTEMRA-IV was studied in 188 pediatric patients 2 to 17 years of age with PJIA who had an inadequate clinical response or were intolerant to methotrexate.
 The total patient exposure in the ACTEMRA-IV all exposure population (defined as patients who received at least one dose of ACTEMRA-IV) was 184.4 patient years.
 At baseline, approximately half of the patients were taking oral corticosteroids and almost 80% were taking methotrexate.
-In general, the types of adverse drug reactions in patients with PJIA were consistent with those seen in RA and SJIA patients [see Adverse Reactions (6.1 and 6.5)].
+In general, the types of adverse drug reactions in patients with PJIA were consistent with those seen in RA and SJIA patients [see Adverse Reactions (6.1 and 6.6)].
 
 Infections
 
@@ -258,7 +258,7 @@ Infusion Reactions
 In PJIA patients, infusion-related reactions are defined as all events occurring during or within 24 hours of an infusion.
 In the ACTEMRA-IV all exposure population, 11 patients (6%) experienced an event during the infusion, and 38 patients (20.2%) experienced an event within 24 hours of an infusion.
 The most common events occurring during infusion were headache, nausea and hypotension, and occurring within 24 hours of infusion were dizziness and hypotension.
-In general, the adverse drug reactions observed during or within 24 hours of an infusion were similar in nature to those seen in RA and SJIA patients [see Adverse Reactions (6.1 and 6.5)].
+In general, the adverse drug reactions observed during or within 24 hours of an infusion were similar in nature to those seen in RA and SJIA patients [see Adverse Reactions (6.1 and 6.6)].
 
 No clinically significant hypersensitivity reactions associated with tocilizumab and requiring treatment discontinuation were reported.
 
@@ -286,7 +286,30 @@ Lipids
 
 During routine laboratory monitoring in the tocilizumab all exposure population, elevation in total cholesterol greater than 1.5-2 × ULN occurred in one patient (0.5%) and elevation in LDL greater than 1.5-2 × ULN occurred in one patient (0.5%).
 
-## 6.5 Clinical Trials Experience in Systemic Juvenile Idiopathic Arthritis Patients Treated with Intravenous ACTEMRA (ACTEMRA-IV)
+## 6.5 Clinical Trials Experience in Polyarticular Juvenile Idiopathic Arthritis Patients Treated With Subcutaneous ACTEMRA (ACTEMRA-SC)
+
+The safety of ACTEMRA-SC was studied in 52 pediatric patients 1 to 17 years of age with PJIA who had an inadequate clinical response or were intolerant to methotrexate.
+The total patient exposure in the PJIA ACTEMRA-SC population (defined as patients who received at least one dose of ACTEMRA-SC and accounting for treatment discontinuation) was 49.5 patient years.
+In general, the safety observed for ACTEMRA administered subcutaneously was consistent with the known safety profile of intravenous ACTEMRA, with the exception of injection site reactions (ISRs), and neutropenia.
+
+Injection Site Reactions
+
+During the 1-year study, a frequency of 28.8% (15/52) ISRs was observed in ACTEMRA-SC treated PJIA patients.
+These ISRs occurred in a greater proportion of patients at or above 30 kg (44.0%) compared with patients below 30 kg (14.8%).
+All ISRs were mild in severity and none of the ISRs required patient withdrawal from treatment or dose interruption.
+A higher frequency of ISRs was observed in ACTEMRA-SC treated PJIA patients compared to what was seen in adult RA or GCA patients [see Adverse Reactions (6.1 and 6.3)].
+
+Immunogenicity
+
+Three patients, 1 patient below 30 kg and 2 patients at or above 30 kg, developed positive anti-tocilizumab antibodies with neutralizing potential without developing a serious or clinically significant hypersensitivity reaction.
+One patient subsequently withdrew from the study.
+
+Neutropenia
+
+During routine laboratory monitoring in the ACTEMRA-SC all exposure population, a decrease in neutrophil counts below 1 × 109 per L occurred in 15.4% of patients, and was more frequently observed in the patients less than 30 kg (25.9%) compared to patients at or above 30 kg (4.0%).
+There was no clear relationship between decreases in neutrophils below 1 × 109 per L and the occurrence of serious infections.
+
+## 6.6 Clinical Trials Experience in Systemic Juvenile Idiopathic Arthritis Patients Treated with Intravenous ACTEMRA (ACTEMRA-IV)
 
 The data described below reflect exposure to ACTEMRA-IV in one randomized, double-blind, placebo-controlled trial of 112 pediatric patients with SJIA 2 to 17 years of age who had an inadequate clinical response to nonsteroidal anti-inflammatory drugs (NSAIDs) or corticosteroids due to toxicity or lack of efficacy.
 At baseline, approximately half of the patients were taking 0.3 mg/kg/day corticosteroids or more, and almost 70% were taking methotrexate.
@@ -360,13 +383,13 @@ Elevation in LDL greater than 1.5× ULN – 2× ULN occurred in 1.9% of patients
 
 In the open label extension study over an average duration of 73 weeks of treatment, the pattern and incidence of elevations in lipid parameters remained consistent with the 12 week controlled study data.
 
-## 6.6 Clinical Trials Experience in Patients with Cytokine Release Syndrome Treated with Intravenous ACTEMRA (ACTEMRA-IV)
+## 6.7 Clinical Trials Experience in Patients with Cytokine Release Syndrome Treated with Intravenous ACTEMRA (ACTEMRA-IV)
 
 In a retrospective analysis of pooled outcome data from multiple clinical trials 45 patients were treated with tocilizumab 8 mg/kg (12 mg/kg for patients less than 30 kg) with or without additional high-dose corticosteroids for severe or life-threatening CAR T-cell-induced CRS.
 A median of 1 dose of tocilizumab (range, 1-4 doses) was administered.
-No adverse reactions related to tocilizumab were reported [see Clinical Studies (14.6)].
+No adverse reactions related to tocilizumab were reported [see Clinical Studies (14.7)].
 
-## 6.7 Postmarketing Experience
+## 6.8 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of ACTEMRA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
