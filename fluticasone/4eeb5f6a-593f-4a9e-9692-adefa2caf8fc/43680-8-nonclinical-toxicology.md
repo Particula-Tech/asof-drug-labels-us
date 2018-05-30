@@ -13,7 +13,7 @@ Fertility and reproductive performance were unaffected in male and female rats a
 
 Salmeterol
 
-In an 18-month carcinogenicity study in CD-mice, salmeterol at oral doses of 400 mcg/kg and above (approximately 20 times the MRHDID for adults and children based on comparison of the plasma AUCs) caused a dose-related increase in the incidence of smooth muscle hyperplasia, cystic glandular hyperplasia, leiomyomas of the uterus, and ovarian cysts.
+In an 18-month carcinogenicity study in CD-mice, salmeterol at oral doses of 1,400 mcg/kg and above (approximately 20 times the MRHDID for adults and children based on comparison of the plasma AUCs) caused a dose-related increase in the incidence of smooth muscle hyperplasia, cystic glandular hyperplasia, leiomyomas of the uterus, and ovarian cysts.
 No tumors were seen at 200 mcg/kg (approximately 3 times the MRHDID for adults and children based on comparison of the AUCs).
 
 In a 24-month oral and inhalation carcinogenicity study in Sprague Dawley rats, salmeterol caused a dose-related increase in the incidence of mesovarian leiomyomas and ovarian cysts at doses of 680 mcg/kg and above (approximately 66 and 35 times the MRHDID for adults and children, respectively, on a mcg/m2 basis).

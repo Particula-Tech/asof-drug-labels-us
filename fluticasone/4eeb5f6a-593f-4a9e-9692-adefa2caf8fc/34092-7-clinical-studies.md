@@ -91,7 +91,7 @@ Pediatric Subjects
 
 In a 12-week U.S. trial, ADVAIR DISKUS 100/50 twice daily was compared with fluticasone propionate inhalation powder 100 mcg twice daily in 203 children with asthma aged 4 to 11 years.
 At trial entry, the children were symptomatic on low doses of ICS (beclomethasone dipropionate 252 to 336 mcg/day; budesonide 200 to 400 mcg/day; flunisolide 1,000 mcg/day; triamcinolone acetonide 600 to 1,000 mcg/day; or fluticasone propionate 88 to 250 mcg/day).
-The primary objective of this trial was to determine the safety of ADVAIR DISKUS 100/50 compared with fluticasone propionate inhalation powder 100 mcg in this age-group; however, the trial also included secondary efficacy measures of pulmonary function.
+The primary objective of this trial was to determine the safety of ADVAIR DISKUS 100/50 compared with fluticasone propionate inhalation powder 100 mcg in this age group; however, the trial also included secondary efficacy measures of pulmonary function.
 Morning predose FEV1 was obtained at baseline and Endpoint (last available FEV1 result) in children aged 6 to 11 years.
 In subjects receiving ADVAIR DISKUS 100/50, FEV1 increased from 1.70 L at baseline (n = 79) to 1.88 L at Endpoint (n = 69) compared with an increase from 1.65 L at baseline (n = 83) to 1.77 L at Endpoint (n = 75) in subjects receiving fluticasone propionate 100 mcg.
 
@@ -104,7 +104,7 @@ The primary safety objective of both trials was to evaluate whether the addition
 The trials were designed to rule out pre-defined risk margins for serious asthma-related events of 2.0 for Trial 4 and 2.7 for Trial 5.
 A blinded adjudication committee determined whether events were asthma related.
 
-Trial 4 enrolled subjects with moderate to severe persistent asthma with a history of asthma related hospitalization or at least 1 asthma exacerbation in the previous year treated with systemic corticosteroids.
+Trial 4 enrolled subjects with moderate to severe persistent asthma with a history of asthma-related hospitalization or at least 1 asthma exacerbation in the previous year treated with systemic corticosteroids.
 A total of 11,679 adult and adolescent subjects [5,834 receiving ADVAIR DISKUS 100/50, ADVAIR DISKUS 250/50, or ADVAIR DISKUS 500/50 and 5,845 receiving fluticasone propionate inhalation powder (100, 250, or 500 mcg)] were included.
 Trial 5 enrolled subjects with a diagnosis of asthma and a history of at least 1 asthma exacerbation in the previous year treated with systemic corticosteroid.
 A total of 6,208 subjects aged 4 to 11 years [3,107 receiving ADVAIR DISKUS 100/50 or ADVAIR DISKUS 250/50 and 3,101 receiving fluticasone propionate inhalation powder (100 or 250 mcg)] were included.
