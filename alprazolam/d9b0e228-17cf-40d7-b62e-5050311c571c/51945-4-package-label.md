@@ -36,7 +36,7 @@ SANDOZ
 
 # 1 mg Label
 
-NDC 0781-1079-01
+NDC0781-1079-01
 
 CIV
 
@@ -54,7 +54,7 @@ SANDOZ
 
 # 2 mg Label
 
-NDC 0781-1089-01
+NDC0781-1089-01
 
 CIV
 

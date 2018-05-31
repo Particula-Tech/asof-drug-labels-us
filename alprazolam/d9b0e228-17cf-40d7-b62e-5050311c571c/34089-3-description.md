@@ -8,7 +8,13 @@ Alprazolam is a white to off-white crystalline powder, which is soluble in alcoh
 
 Each alprazolam tablet, for oral administration, contains 0.25, 0.5, 1 or 2 mg of alprazolam.
 
-Alprazolam tablets, 2 mg, are multi-scored and may be divided as shown below:
+Alprazolam tablets, USP 2 mg, are multi-scored and may be divided as shown below:
+
+Complete 2 mg Tablet
+
+Two 1 mg segments
+
+Four 0.5 mg segments
 
 Inactive ingredients: docusate sodium, lactose monohydrate, magnesium stearate, microcrystalline cellulose, pregelatinized starch, and sodium benzoate.
-Additionally, the 0.5 mg also contains FD & C Yellow #6 Aluminum Lake, and the 1 mg also contains FD & C Blue #2 Aluminum Lake.
+Additionally, the 0.5 mg also contains FD&C Yellow #6 Aluminum Lake, and the 1 mg also contains FD&C Blue #2 Aluminum Lake.

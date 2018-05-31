@@ -16,11 +16,11 @@ Additionally, for anxiety disorders the cited figures can provide the prescriber
 
 ## Treatment-Emergent Adverse Events Reported in Placebo-Controlled Trials of Anxiety Disorders
 
-ANXIETY DISORDERS
+1. ANXIETY DISORDERS
 
 |  | Treatment-EmergentSymptom IncidenceEvents reported by 1% or more of alprazolam patients are included. |  | Incidence ofInterventionBecause of Symptom |
 | --- | --- | --- | --- |
-|  | Alprazolam | Placebo | Alprazolam |
+|  | ALPRAZOLAM | PLACEBO | ALPRAZOLAM |
 | Number of Patients | 565 | 505 | 565 |
 | % of Patients Reporting: |  |  |  |
 | Central Nervous System |  |  |  |
@@ -56,14 +56,14 @@ ANXIETY DISORDERS
 | Weight Gain | 2.7 | 2.7 |  |
 | Weight Loss | 2.3 | 3.0 |  |
 
-In addition to the relatively common (i.e., greater than 1%) untoward events enumerated in the table above, the following adverse events have been reported in association with the use of benzodiazepines: dystonia, irritability, concentration difficulties, anorexia, transient amnesia or memory impairment, loss of coordination, fatigue, seizures, sedation, slurred speech, jaundice, musculoskeletal weakness, pruritus, diplopia, dysarthria, changes in libido, menstrual irregularities, incontinence and urinary retention.
+In addition to the relatively common (ie, greater than 1%) untoward events enumerated in the table above, the following adverse events have been reported in association with the use of benzodiazepines: dystonia, irritability, concentration difficulties, anorexia, transient amnesia or memory impairment, loss of coordination, fatigue, seizures, sedation, slurred speech, jaundice, musculoskeletal weakness, pruritus, diplopia, dysarthria, changes in libido, menstrual irregularities, incontinence and urinary retention.
 
 Treatment-Emergent Adverse Events Reported in Placebo-Controlled Trials of Panic Disorder
 
 | PANIC DISORDER |  |  |
 | --- | --- | --- |
 |  | Treatment-EmergentSymptom IncidenceEvents reported by 1% or more of alprazolam patients are included. |  |
-|  | Alprazolam | Placebo |
+|  | ALPRAZOLAM | PLACEBO |
 | Number of Patients | 1388 | 1231 |
 | % of Patients Reporting: |  |  |
 | Central Nervous System |  |  |
@@ -134,13 +134,13 @@ Treatment-Emergent Adverse Events Reported in Placebo-Controlled Trials of Panic
 
 In addition to the relatively common (ie, greater than 1%) untoward events enumerated in the table above, the following adverse events have been reported in association with the use of alprazolam: seizures, hallucinations, depersonalization, taste alterations, diplopia, elevated bilirubin, elevated hepatic enzymes, and jaundice.
 
-Panic disorder has been associated with primary and secondary major depressive disorders and increased reports of suicide among untreated patients (see PRECAUTIONS: General).
+Panic disorder has been associated with primary and secondary major depressive disorders and increased reports of suicide among untreated patients (see Precautions, General).
 
 ## Adverse Events Reported as Reasons for Discontinuation in Treatment of Panic Disorder in Placebo-Controlled Trials
 
 In a larger database comprised of both controlled and uncontrolled studies in which 641 patients received alprazolam, discontinuation-emergent symptoms which occurred at a rate of over 5% in patients treated with alprazolam and at a greater rate than the placebo treated group were as follows:
 
-DISCONTINUATION-EMERGENT SYMPTOM INCIDENCE
+1. DISCONTINUATION-EMERGENT SYMPTOM INCIDENCE
 
 | Percentage of 641 Alprazolam-TreatedPanic Disorder Patients Reporting Events |  |  |  |
 | --- | --- | --- | --- |
@@ -164,10 +164,10 @@ DISCONTINUATION-EMERGENT SYMPTOM INCIDENCE
 | Confusional state | 5.0 |  |  |
 
 From the studies cited, it has not been determined whether these symptoms are clearly related to the dose and duration of therapy with alprazolam in patients with panic disorder.
-There have also been reports of withdrawal seizures upon rapid decrease or abrupt discontinuation of alprazolam tablets (see WARNINGS).
+There have also been reports of withdrawal seizures upon rapid decrease or abrupt discontinuation of alprazolam tablets (see Warnings).
 
 To discontinue treatment in patients taking alprazolam, the dosage should be reduced slowly in keeping with good medical practice.
-It is suggested that the daily dosage of alprazolam be decreased by no more than 0.5 mg every three days (see DOSAGE AND ADMINISTRATION).
+It is suggested that the daily dosage of alprazolam be decreased by no more than 0.5 mg every three days (see Dosage and Administration).
 Some patients may benefit from an even slower dosage reduction.
 In a controlled postmarketing discontinuation study of panic disorder patients which compared this recommended taper schedule with a slower taper schedule, no difference was observed between the groups in the proportion of patients who tapered to zero dose; however, the slower schedule was associated with a reduction in symptoms associated with a withdrawal syndrome.
 
@@ -177,9 +177,7 @@ Should any of the above events occur, alprazolam should be discontinued.
 Isolated published reports involving small numbers of patients have suggested that patients who have borderline personality disorder, a prior history of violent or aggressive behavior, or alcohol or substance abuse may be at risk for such events.
 Instances of irritability, hostility, and intrusive thoughts have been reported during discontinuation of alprazolam in patients with posttraumatic stress disorder.
 
-## Post Introduction Reports
-
-Various adverse drug reactions have been reported in association with the use of alprazolam since market introduction.
+Post Introduction Reports: Various adverse drug reactions have been reported in association with the use of alprazolam since market introduction.
 The majority of these reactions were reported through the medical event voluntary reporting system.
 Because of the spontaneous nature of the reporting of medical events and the lack of controls, a causal relationship to the use of alprazolam cannot be readily determined.
-Reported events include: gastrointestinal disorder, hypomania, mania, liver enzyme elevations, hepatitis, hepatic failure, Stevens-Johnson syndrome, angioedema, peripheral edema, hyperprolactinemia, gynecomastia, and galactorrhea (see PRECAUTIONS).
+Reported events include: gastrointestinal disorder, hypomania, mania, liver enzyme elevations, hepatitis, hepatic failure, Stevens-Johnson syndrome, angioedema, peripheral edema, hyperprolactinemia, gynecomastia, and galactorrhea (see Precautions).
