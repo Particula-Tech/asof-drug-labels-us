@@ -43,8 +43,8 @@ Common Adverse Reactions
 
 Brands listed are the trademarks of their respective owners.
 
-NOVAPLUS® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland
+NOVAPLUS® Manufactured for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland
 
 NOVAPLUS is a registered trademark of Vizient, Inc.
 
-Revised: April 2017
+Revised: September 2017
