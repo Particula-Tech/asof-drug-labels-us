@@ -227,8 +227,6 @@ Such a hormone change has not been observed in women treated with fluconazole.
 
 ### Teratogenic Effects
 
-#### Pregnancy Category D
-
 A few published case reports describe a rare pattern of distinct congenital anomalies in infants exposed in utero to high dose maternal fluconazole (400-800 mg/day) during most or all of the first trimester.
 These reported anomalies are similar to those seen in animal studies.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking the drug, the patient should be informed of the potential hazard to the fetus.

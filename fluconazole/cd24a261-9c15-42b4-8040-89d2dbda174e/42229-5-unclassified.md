@@ -27,15 +27,13 @@ DO NOT ADD SUPPLEMENTARY MEDICATION.
 3. 3.Attach administration set.
    Refer to complete directions accompanying set.
 
-Baxter Healthcare Corporation Deerfield, IL 60015 USA
+Baxter Healthcare Corporation Deerfield, IL 60015 USA Printed in USA
 
-Printed in USA
-
-07-19-77-391
+07-19-00-0354
 
 Rev.
-August 2016
+May 2018
 
 Baxter and Intravia are registered trademarks of Baxter International Inc.
 
-Maalox is a registered trademark of Novartis AG
+Maalox is a registered trademark of Novartis Consumer Health, Inc.

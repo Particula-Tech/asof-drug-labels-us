@@ -228,8 +228,6 @@ Close monitoring for adverse events related to voriconazole is recommended if vo
 Tofacitinib Co-administration of fluconazole (400 mg on Day 1 and 200 mg once daily for 6 days [Days 2-7]) and tofacitinib (30 mg single dose on Day 5) in healthy subjects resulted in increased mean tofacitinib AUC and Cmax values of approximately 79% (90% CI: 64% – 96%) and 27% (90% CI: 12% – 44%), respectively, compared to administration of tofacitinib alone.
 (See PRECAUTIONS.)
 
-## Microbiology
-
 ## Mechanism of Action
 
 Fluconazole is a highly selective inhibitor of fungal cytochrome P450 dependent enzyme lanosterol 14-α-demethylase.
@@ -295,49 +293,4 @@ Such cases may require alternative antifungal therapy.
 
 ## Susceptibility Testing Methods
 
-Cryptococcus neoformans and filamentous fungi
-
-No interpretive criteria have been established for Cryptococcus neoformans and filamentous fungi.
-
-Candida species
-
-Broth Dilution Techniques
-
-Quantitative methods are used to determine antifungal minimum inhibitory concentrations (MICs).
-These MICs provide estimates of the susceptibility of Candida spp. to antifungal agents.
-MICs should be determined using a standardized procedure.
-Standardized procedures are based on a dilution method (broth)1 with standardized inoculum concentrations of fluconazole powder.
-The MIC values should be interpreted according to the criteria provided in Table 1.
-
-Diffusion Techniques
-
-Qualitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of Candida spp. to an antifungal agent.
-One such standardized procedure2 requires the use of standardized inoculum concentrations.
-This procedure uses paper disks impregnated with 25 mcg of fluconazole to test the susceptibility of yeasts to fluconazole.
-Disk diffusion interpretive criteria are also provided in Table 1.
-
-Table 1: Susceptibility Interpretive Criteria for Fluconazole
-
-|  | Broth Dilution at 48 hours (MIC in mcg/mL) |  |  | Disk Diffusion at 24 hours (Zone Diameters in mm) |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Antifungal agent | Susceptible (S) | Intermediate (I)The intermediate category is sometimes called Susceptible-Dose Dependent (SDD) and both categories are equivalent for fluconazole. | Resistant (R) | Susceptible (S) | Intermediate (I) | Resistant (R) |
-| FluconazoleIsolates of C. krusei are assumed to be intrinsically resistant to fluconazole and their MICs and/or zone diameters should not be interpreted using this scale. | ≤8.0 | 16-32 | ≥64 | ≥19 | 15 – 18 | ≤14 |
-
-The susceptible category implies that isolates are inhibited by the usually achievable concentrations of antifungal agent tested when the recommended dosage is used.
-The intermediate category implies that an infection due to the isolate may be appropriately treated in body sites where the drugs are physiologically concentrated or when a high dosage of drug is used.
-The resistant category implies that isolates are not inhibited by the usually achievable concentrations of the agent with normal dosage schedules and clinical efficacy of the agent against the isolate has not been reliably shown in treatment studies.
-
-## Quality Control
-
-Standardized susceptibility test procedures require the use of quality control organisms to control the technical aspects of the test procedures.
-Standardized fluconazole powder and 25 mcg disks should provide the following range of values noted in Table 2.
-NOTE: Quality control microorganisms are specific strains of organisms with intrinsic biological properties relating to resistance mechanisms and their genetic expression within fungi; the specific strains used for microbiological control are not clinically significant.
-
-Table 2: Acceptable Quality Control Ranges for Fluconazole to be Used in Validation of Susceptibility Test Results
-
-| QC Strain | Macrodilution (MIC in mcg/mL) @ 48 hours | Microdilution (MIC in mcg/mL) @ 48 hours | Disk Diffusion (Zone Diameter in mm) @ 24 hours |
-| --- | --- | --- | --- |
-| Candida parapsilosis ATCC 22019 | 2.0-8.0 | 1.0-4.0 | 22-33 |
-| Candida krusei ATCC 6258 | 16-64 | 16-128 | ---Quality control ranges have not been established for this strain/antifungal agent combination due to their extensive interlaboratory variation during initial quality control studies. |
-| Candida albicans ATCC 90028 | --- | --- | 28-39 |
-| Candida tropicalis ATCC 750 | --- | --- | 26-37 |
+For specific information regarding susceptibility test interpretive criteria and associated text methods and quality control standards recognized by FDA for this drug, please see: http://www.fda.gov/STIC.
