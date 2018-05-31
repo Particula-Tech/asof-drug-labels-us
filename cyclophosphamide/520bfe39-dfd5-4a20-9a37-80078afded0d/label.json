@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA210046"
+  ],
+  "inn": "cyclophosphamide",
+  "labeler": "Amneal Biosciences LLC",
+  "package_ndcs": [
+    "70121-1238-1",
+    "70121-1239-1",
+    "70121-1240-1"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "cyclophosphamide",
+      "name": "Cyclophosphamide"
+    }
+  ],
+  "setid": "520bfe39-dfd5-4a20-9a37-80078afded0d",
+  "source": "dailymed"
+}
