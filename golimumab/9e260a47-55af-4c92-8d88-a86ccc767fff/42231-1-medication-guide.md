@@ -58,6 +58,6 @@
 | What are the ingredients in SIMPONI ARIA? |  |  |  |
 | Active ingredient: golimumab. |  |  |  |
 | Inactive ingredients: L-histidine, L-histidine monohydrochloride monohydrate, polysorbate 80, sorbitol, and water for injection. SIMPONI ARIA is preservative-free and is not made with natural rubber latex. |  |  |  |
-| Manufactured by: Janssen Biotech, Inc. Horsham, PA 19044 US License No. 1864 © Janssen Biotech, Inc. 2013 |  |  |  |
+| Manufactured by: Janssen Biotech, Inc. Horsham, PA 19044 US License No. 1864 © 2017 Janssen Pharmaceutical Companies |  |  |  |
 | For more information go to www.SIMPONIARIA.com or call 1-800-JANSSEN (1-800-526-7736). |  |  |  |
 | This Medication Guide has been approved by the U.S. Food and Drug Administration |  |  | Approved: February 2018 |
