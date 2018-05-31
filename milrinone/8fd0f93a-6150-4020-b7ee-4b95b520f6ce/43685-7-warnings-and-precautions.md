@@ -65,7 +65,7 @@ Coronary vascular lesions characterized by periarterial edema and inflammation h
 The myocardial/endocardial changes are similar to those produced by beta-adrenergic receptor agonists such as isoproterenol, while the vascular changes are similar to those produced by minoxidil and hydralazine.
 Doses within the recommended clinical dose range (up to 1.13 mg/kg/day) for congestive heart failure patients have not produced significant adverse effects in animals.
 
-## Pregnancy Category C
+## Pregnancy
 
 Oral administration of milrinone to pregnant rats and rabbits during organogenesis produced no evidence of teratogenicity at dose levels up to 40 mg/kg/day and 12 mg/kg/day, respectively.
 Milrinone did not appear to be teratogenic when administered intravenously to pregnant rats at doses up to 3 mg/kg/day (about 2.5 times the maximum recommended clinical intravenous dose) or pregnant rabbits at doses up to 12 mg/kg/day, although an increased resorption rate was apparent at both 8 mg/kg/day and 12 mg/kg/day (intravenous) in the latter species.

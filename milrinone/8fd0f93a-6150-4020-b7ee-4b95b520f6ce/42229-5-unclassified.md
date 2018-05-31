@@ -31,9 +31,9 @@ Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
 Printed in USA
 
-BAXTER and INTRAVIA are trademarks of Baxter International Inc.
+Baxter and Intravia are registered trademarks of Baxter International Inc.
 
-07-19-73-096
+1. 07-19-00-0355
 
 Rev.
-April 2014
+May 2018
