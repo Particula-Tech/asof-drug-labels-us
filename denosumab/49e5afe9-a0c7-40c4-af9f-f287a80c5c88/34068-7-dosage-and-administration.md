@@ -1,6 +1,12 @@
 # 2DOSAGE AND ADMINISTRATION
 
-## 2.1Recommended Dosage
+## 2.1 Information Essential to Safe Dosing or Administration
+
+Pregnancy must be ruled out prior to administration of Prolia.
+Perform pregnancy testing in all females of reproductive potential prior to administration of Prolia.
+Based on findings in animals, Prolia can cause fetal harm when administered to pregnant women [see Use in Specific Populations (8.1, 8.3)].
+
+## 2.2 Recommended Dosage
 
 Prolia should be administered by a healthcare professional.
 
@@ -11,7 +17,7 @@ All patients should receive calcium 1000 mg daily and at least 400 IU vitamin D 
 If a dose of Prolia is missed, administer the injection as soon as the patient is available.
 Thereafter, schedule injections every 6 months from the date of the last injection.
 
-## 2.2Preparation and Administration
+## 2.2 Preparation and Administration
 
 Visually inspect Prolia for particulate matter and discoloration prior to administration whenever solution and container permit.
 Prolia is a clear, colorless to pale yellow solution that may contain trace amounts of translucent to white proteinaceous particles.
@@ -45,10 +51,10 @@ DO NOT put grey needle cap back on needle.
 
 Step 3: Immediately Slide Green Safety Guard Over Needle
 
-With the needle pointing away from you…
+With the needle pointing away from you.
 
 Hold the prefilled syringe by the clear plastic finger grip with one hand.
-Then, with the other hand, grasp the green safety guard by its base and gently slide it towards the needle until the green safety guard locks securely in place and/or you hear a “click.”
+Then, with the other hand, grasp the green safety guard by its base and gently slide it towards the needle until the green safety guard locks securely in place and/or you hear a “click”.
 DO NOT grip the green safety guard too firmly - it will move easily if you hold and slide it gently.
 
 | Hold clear finger grip. |  |

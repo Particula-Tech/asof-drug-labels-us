@@ -13,6 +13,8 @@ The most common adverse reactions reported with Prolia in patients with postmeno
 
 The most common adverse reactions reported with Prolia in men with osteoporosis are back pain, arthralgia, and nasopharyngitis.
 
+The most common adverse reactions reported with Prolia in patients with glucocorticoid-induced osteoporosis are back pain, hypertension, bronchitis, and headache.
+
 The most common (per patient incidence ≥ 10%) adverse reactions reported with Prolia in patients with bone loss receiving androgen deprivation therapy for prostate cancer or adjuvant aromatase inhibitor therapy for breast cancer are arthralgia and back pain.
 Pain in extremity and musculoskeletal pain have also been reported in clinical trials.
 
@@ -20,7 +22,7 @@ The most common adverse reactions leading to discontinuation of Prolia in patien
 
 To report Adverse Reactions with Prolia®, please call Amgen Medical Information at 1-800-772-6436, email medinfo@amgen.com, or report the event at FDA MedWatch.
 
-## 6.1Clinical Trials Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in clinical practice.
 
@@ -36,7 +38,7 @@ The percentage of patients who withdrew from the study due to adverse events was
 
 Adverse reactions reported in ≥ 2% of postmenopausal women with osteoporosis and more frequently in the Prolia-treated women than in the placebo-treated women are shown in the table below.
 
-Table1.
+Table 1.
 Adverse Reactions Occurring in ≥ 2% of Patients with Osteoporosis and More Frequently than in Placebo-treated Patients
 
 | SYSTEM ORGAN CLASS Preferred Term | Prolia (N = 3886) n (%) | Placebo (N = 3876) n (%) |
@@ -143,6 +145,58 @@ Pancreatitis Pancreatitis was reported in 1 patient (0.8%) in the placebo group 
 
 New Malignancies New malignancies were reported in no patients in the placebo group and 4 (3.3%) patients (3 prostate cancers, 1 basal cell carcinoma) in the Prolia group.
 
+Treatment of Glucocorticoid-Induced Osteoporosis
+
+The safety of Prolia in the treatment of glucocorticoid-induced osteoporosis was assessed in the 1-year, primary analysis of a 2-year randomized, multicenter, double-blind, parallel-group, active-controlled study of 795 patients (30% men and 70% women) aged 20 to 94 (mean age of 63 years) treated with greater than or equal to 7.5 mg/day oral prednisone (or equivalent).
+A total of 384 patients were exposed to 5 mg oral daily bisphosphonate (active-control) and 394 patients were exposed to Prolia administered once every 6 months as a 60 mg subcutaneous dose.
+All patients were instructed to take at least 1000 mg of calcium and 800 IU of vitamin D supplementation per day.
+
+The incidence of all-cause mortality was 0.5% (n = 2) in the active-control group and 1.5% (n = 6) in the Prolia group.
+The incidence of serious adverse events was 17% in the active-control group and 16% in the Prolia group.
+The percentage of patients who withdrew from the study due to adverse events was 3.6% and 3.8% for the active-control and Prolia groups, respectively.
+
+Adverse reactions reported in ≥ 2% of patients with glucocorticoid-induced osteoporosis and more frequently with Prolia than in the active-control-treated patients are shown in the table below.
+
+Table 2.
+Adverse Reactions Occurring in ≥ 2% of Patients with Glucocorticoid-induced Osteoporosis and More Frequently with Prolia than in Active-Control-treated Patients
+
+|  |  | Oral Daily |
+| --- | --- | --- |
+|  | Prolia (N = 394) n (%) | Bisphosphonate (Active-Control) |
+| Preferred Term |  | (N = 384) n (%) |
+| Back pain | 18 (4.6) | 17 (4.4) |
+| Hypertension | 15 (3.8) | 13 (3.4) |
+| Bronchitis | 15 (3.8) | 11 (2.9) |
+| Headache | 14 (3.6) | 7 (1.8) |
+| Dyspepsia | 12 (3.0) | 10 (2.6) |
+| Urinary tract infection | 12 (3.0) | 8 (2.1) |
+| Abdominal pain upper | 12 (3.0) | 7 (1.8) |
+| Upper respiratory tract infection | 11 (2.8) | 10 (2.6) |
+| Constipation | 11 (2.8) | 6 (1.6) |
+| Vomiting | 10 (2.5) | 6 (1.6) |
+| Dizziness | 9 (2.3) | 8 (2.1) |
+| Fall | 8 (2.0) | 7 (1.8) |
+| Polymyalgia rheumatica* | 8 (2.0) | 1 (0.3) |
+
+*Events of worsening of underlying polymyalgia rheumatica.
+
+Osteonecrosis of the Jaw
+
+No cases of ONJ were reported.
+
+Atypical Subtrochanteric and Diaphyseal Fractures
+
+Atypical femoral fractures were reported in 1 patient treated with Prolia.
+The duration of Prolia exposure to time of atypical femoral fracture diagnosis was at 8.0 months [see Warnings and Precautions (5.5)].
+
+Serious Infections
+
+Serious infection was reported in 15 patients (3.9%) in the active-control group and 17 patients (4.3%) in the Prolia group.
+
+Dermatologic Reactions
+
+Epidermal and dermal adverse events (such as dermatitis, eczema, and rashes) were reported in 16 patients (4.2%) in the active-control group and 15 patients (3.8%) in the Prolia group.
+
 Treatment of Bone Loss in Patients Receiving Androgen Deprivation Therapy for Prostate Cancer or Adjuvant Aromatase Inhibitor Therapy for Breast Cancer
 
 The safety of Prolia in the treatment of bone loss in men with nonmetastatic prostate cancer receiving androgen deprivation therapy (ADT) was assessed in a 3-year, randomized, double-blind, placebo-controlled, multinational study of 1468 men aged 48 to 97 years.
@@ -173,10 +227,10 @@ The following adverse reactions have been identified during post approval use of
 - Drug-related hypersensitivity reactions: anaphylaxis, rash, urticaria, facial swelling, and erythema
 - Hypocalcemia: severe symptomatic hypocalcemia
 - Musculoskeletal pain, including severe cases
-- Parathyroid Hormone (PTH): Marked elevation in serum PTH in patients with severe renal impairment (creatinine clearance < 30 mL/min) or receiving dialysis.
+- Parathyroid Hormone (PTH): Marked elevation in serum PTH in patients with severe renal impairment (creatinine clearance < 30 mL/min) or receiving dialysis
 - Multiple vertebral fractures following discontinuation of Prolia
 
-## 6.3Immunogenicity
+## 6.3 Immunogenicity
 
 Denosumab is a human monoclonal antibody.
 As with all therapeutic proteins, there is potential for immunogenicity.

@@ -5,13 +5,13 @@
 Prolia contains the same active ingredient (denosumab) found in Xgeva.
 Patients receiving Prolia should not receive Xgeva.
 
-## 5.2Hypersensitivity
+## 5.2 Hypersensitivity
 
 Clinically significant hypersensitivity including anaphylaxis has been reported with Prolia.
 Symptoms have included hypotension, dyspnea, throat tightness, facial and upper airway edema, pruritus, and urticaria.
 If an anaphylactic or other clinically significant allergic reaction occurs, initiate appropriate therapy and discontinue further use of Prolia [see Contraindications (4), Adverse Reactions (6.2)].
 
-## 5.3Hypocalcemia and Mineral Metabolism
+## 5.3 Hypocalcemia and Mineral Metabolism
 
 Hypocalcemia may be exacerbated by the use of Prolia.
 Pre-existing hypocalcemia must be corrected prior to initiating therapy with Prolia.
@@ -22,14 +22,14 @@ Hypocalcemia following Prolia administration is a significant risk in patients w
 These patients may also develop marked elevations of serum parathyroid hormone (PTH).
 Instruct all patients with severe renal impairment, including those receiving dialysis, about the symptoms of hypocalcemia and the importance of maintaining calcium levels with adequate calcium and vitamin D supplementation.
 
-Adequately supplement all patients with calcium and vitamin D [see Dosage and Administration (2.1), Contraindications (4), Adverse Reactions (6.1), and Patient Counseling Information (17.3)].
+Adequately supplement all patients with calcium and vitamin D [see Dosage and Administration (2.1), Contraindications (4), Adverse Reactions (6.1), and Patient Counseling Information (17)].
 
-## 5.4Osteonecrosis of the Jaw
+## 5.4 Osteonecrosis of the Jaw
 
 Osteonecrosis of the jaw (ONJ), which can occur spontaneously, is generally associated with tooth extraction and/or local infection with delayed healing.
 ONJ has been reported in patients receiving denosumab [see Adverse Reactions (6.1)].
 A routine oral exam should be performed by the prescriber prior to initiation of Prolia treatment.
-A dental examination with appropriate preventive dentistry is recommended prior to treatment with Prolia in patients with risk factors for ONJ such as invasive dental procedures (e.g. tooth extraction, dental implants, oral surgery), diagnosis of cancer, concomitant therapies (e.g. chemotherapy, corticosteroids, angiogenesis inhibitors), poor oral hygiene, and co-morbid disorders (e.g. periodontal and/or other pre-existing dental disease, anemia, coagulopathy, infection, ill-fitting dentures).
+A dental examination with appropriate preventive dentistry is recommended prior to treatment with Prolia in patients with risk factors for ONJ such as invasive dental procedures (e.g. tooth extraction, dental implants, oral surgery), diagnosis of cancer, concomitant therapies (e.g. chemotherapy, corticosteroids, angiogenesis inhibitors), poor oral hygiene, and comorbid disorders (e.g. periodontal and/or other pre-existing dental disease, anemia, coagulopathy, infection, ill-fitting dentures).
 Good oral hygiene practices should be maintained during treatment with Prolia.
 Concomitant administration of drugs associated with ONJ may increase the risk of developing ONJ.
 The risk of ONJ may increase with duration of exposure to Prolia.
@@ -42,9 +42,9 @@ Discontinuation of Prolia therapy should be considered based on individual benef
 
 ## 5.5 Atypical Subtrochanteric and Diaphyseal Femoral Fractures
 
-Atypical low-energy or low trauma fractures of the shaft have been reported in patients receiving Prolia [see Adverse Reactions (6.1)].
+Atypical low energy or low trauma fractures of the shaft have been reported in patients receiving Prolia [see Adverse Reactions (6.1)].
 These fractures can occur anywhere in the femoral shaft from just below the lesser trochanter to above the supracondylar flare and are transverse or short oblique in orientation without evidence of comminution.
-Causality has not been established as these fractures also occur in osteoporotic patients who have not been treated with anti-resorptive agents.
+Causality has not been established as these fractures also occur in osteoporotic patients who have not been treated with antiresorptive agents.
 
 Atypical femoral fractures most commonly occur with minimal or no trauma to the affected area.
 They may be bilateral, and many patients report prodromal pain in the affected area, usually presenting as dull, aching thigh pain, weeks to months before a complete fracture occurs.
@@ -53,7 +53,7 @@ A number of reports note that patients were also receiving treatment with glucoc
 During Prolia treatment, patients should be advised to report new or unusual thigh, hip, or groin pain.
 Any patient who presents with thigh or groin pain should be suspected of having an atypical fracture and should be evaluated to rule out an incomplete femur fracture.
 Patient presenting with an atypical femur fracture should also be assessed for symptoms and signs of fracture in the contralateral limb.
-Interruption of Prolia therapy should be considered, pending a risk/benefit assessment, on an individual basis.
+Interruption of Prolia therapy should be considered, pending a benefit-risk assessment, on an individual basis.
 
 ## 5.6 Multiple Vertebral Fractures (MVF) Following Discontinuation of Prolia Treatment
 
@@ -64,11 +64,11 @@ In addition, bone mineral density returns to pretreatment values within 18 month
 
 New vertebral fractures occurred as early as 7 months (on average 19 months) after the last dose of Prolia.
 Prior vertebral fracture was a predictor of multiple vertebral fractures after Prolia discontinuation.
-Evaluate an individual’s benefit/risk before initiating treatment with Prolia.
+Evaluate an individual’s benefit-risk before initiating treatment with Prolia.
 
 If Prolia treatment is discontinued, consider transitioning to an alternative antiresorptive therapy [see Adverse Reactions (6.1)].
 
-## 5.7Serious Infections
+## 5.7 Serious Infections
 
 In a clinical trial of over 7800 women with postmenopausal osteoporosis, serious infections leading to hospitalization were reported more frequently in the Prolia group than in the placebo group [see Adverse Reactions (6.1)].
 Serious skin infections, as well as infections of the abdomen, urinary tract, and ear, were more frequent in patients treated with Prolia.
@@ -80,7 +80,7 @@ Patients on concomitant immunosuppressant agents or with impaired immune systems
 Consider the benefit-risk profile in such patients before treating with Prolia.
 In patients who develop serious infections while on Prolia, prescribers should assess the need for continued Prolia therapy.
 
-## 5.8Dermatologic Adverse Reactions
+## 5.8 Dermatologic Adverse Reactions
 
 In a large clinical trial of over 7800 women with postmenopausal osteoporosis, epidermal and dermal adverse events such as dermatitis, eczema, and rashes occurred at a significantly higher rate in the Prolia group compared to the placebo group.
 Most of these events were not specific to the injection site [see Adverse Reactions (6.1)].
@@ -90,7 +90,7 @@ Consider discontinuing Prolia if severe symptoms develop.
 
 In postmarketing experience, severe and occasionally incapacitating bone, joint, and/or muscle pain has been reported in patients taking Prolia [see Adverse Reactions (6.2)].
 The time to onset of symptoms varied from one day to several months after starting Prolia.
-Consider discontinuing use if severe symptoms develop [see Patient Counseling Information (17.9)].
+Consider discontinuing use if severe symptoms develop [see Patient Counseling Information (17)].
 
 ## 5.10 Suppression of Bone Turnover
 
