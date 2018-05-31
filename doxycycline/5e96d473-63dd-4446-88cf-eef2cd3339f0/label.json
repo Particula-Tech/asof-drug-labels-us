@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA208253"
+  ],
+  "inn": "doxycycline",
+  "labeler": "Aqua Pharmaceuticals",
+  "package_ndcs": [
+    "16110-601-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "doxycycline hyclate",
+      "name": "Acticlate"
+    }
+  ],
+  "setid": "5e96d473-63dd-4446-88cf-eef2cd3339f0",
+  "source": "dailymed"
+}
