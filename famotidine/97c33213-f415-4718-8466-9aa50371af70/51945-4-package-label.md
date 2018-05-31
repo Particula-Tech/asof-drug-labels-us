@@ -36,15 +36,14 @@ PL 2501 Plastic
 
 07-34-63-666
 
-Recommended storage: Room temperature (25°C/77°F).
-Avoid excessive heat.
-Brief exposure up to 35°C/95°F does not adversely affect the product.
-Baxter and GALAXY are trademarks of Baxter International Inc. 07-04-47-201 07-04-47-201 PL 2501 Plastic
-
-Recommended storage: Room temperature (25°C/77°F).
-Avoid excessive heat.
-Brief exposure up to 35°C/95°F does not adversely affect the product.
-Baxter and GALAXY are trademarks of Baxter International Inc. 07-04-47-201 07-04-47-201 PL 2501 Plastic
+1. Recommended storage: Room temperature (25°C/77°F).
+   Avoid excessive heat.
+   Brief exposure up to 35°C/95°F does not adversely affect the product.
+   Baxter and GALAXY are trademarks of Baxter International Inc. 07-04-47-201 07-04-47-201 PL 2501 Plastic
+2. Recommended storage: Room temperature (25°C/77°F).
+   Avoid excessive heat.
+   Brief exposure up to 35°C/95°F does not adversely affect the product.
+   Baxter and GALAXY are trademarks of Baxter International Inc. 07-04-47-201 07-04-47-201 PL 2501 Plastic
 
 Baxter NDC 0338-5197-41 Famotidine Injection Rx only 20 mg Code 2G3424
 

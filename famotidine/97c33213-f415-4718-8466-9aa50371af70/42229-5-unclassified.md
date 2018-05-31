@@ -12,10 +12,10 @@ Such use could result in air embolism due to residual air being drawn from the p
 
 ## Preparation for administration:
 
-- 1.Suspend container from eyelet support.
-- 2.Remove protector from outlet port at bottom of container.
-- 3.Attach administration set.
-  Refer to complete directions accompanying set.
+1. 1.Suspend container from eyelet support.
+2. 2.Remove protector from outlet port at bottom of container.
+3. 3.Attach administration set.
+   Refer to complete directions accompanying set.
 
 ## Concomitant Use of Antacids
 
@@ -34,6 +34,7 @@ Printed in USA
 
 Baxter and Galaxy are registered trademarks of Baxter International Inc.
 
-Novation, the supply company of VHA and UHC, and NOVAPLUS are trademarks of Novation LLC
+1. 07-19-00-0356
 
-07-19-73-086 Revised, April 2014
+Rev.
+May 2018
