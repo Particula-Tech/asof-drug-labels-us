@@ -3,11 +3,11 @@
 edex®, administered by intracavernous injection in doses ranging from 1 to 40 mcg per injection for periods up to 24 months, has been evaluated in clinical trials for safety in over 1,065 patients with erectile dysfunction.
 Discontinuation of therapy due to a side effect in clinical trials was required in approximately 9% of patients treated with edex® and in <1% of patients treated with placebo.
 
-## Local Adverse Reactions
+Local Adverse Reactions
 
 The following local adverse reactions were reported in studies including 1,065 patients treated with edex® for up to two years.
 
-### Penile Pain
+Penile Pain
 
 With use of up to 24 months, penile pain was reported at least once by 29% of patients during injection, 35% of patients during erection, and by 30% of patients after erection.
 On a per injection basis, 15% of injections were associated with penile pain.
@@ -15,7 +15,7 @@ Penile pain was judged by patients to be mild in intensity for 80% of painful in
 The frequency of penile pain reports decreased over time; forty-one percent of the patients experienced pain during the first 2 months and 3% of the patients experienced pain during months 21-24.
 In placebo-controlled studies, penile pain was reported by 31% of patients after edex® and by 9% of patients after placebo injection.
 
-### Prolonged Erection/Priapism
+Prolonged Erection/Priapism
 
 Prolonged erections greater than four hours in duration occurred in 4% of all patients treated up to 24 months.
 In placebo-controlled studies, 3% of patients treated with edex® and <1% of patients treated with placebo reported prolonged erections greater than four hours.
@@ -24,7 +24,7 @@ In the majority of cases, spontaneous detumescence occurred.
 A higher incidence of prolonged erections was found in younger patients (<40 years), non-diabetic patients, and patients with psychogenic etiology of erectile dysfunction.
 (See WARNINGS.)
 
-### Hematoma/Ecchymosis
+Hematoma/Ecchymosis
 
 In patients treated with edex® for up to 24 months, local bleeding, hematoma and ecchymosis were observed in 15%, 5% and 4% of patients, respectively.
 In placebo-controlled studies, the frequency of local bleeding was 6% with injection of edex® and 3% with injection of placebo.
@@ -45,7 +45,7 @@ Local Adverse Reactions Reported by ≥1% of Patients All Study PeriodsProtocol 
 | Bleeding | 158 (15) | Erythema | 17 (2) |
 | Hematoma | 56 (5) |  |  |
 
-## Systemic Adverse Experiences
+Systemic Adverse Experiences
 
 The following systemic adverse experiences were reported in controlled and uncontrolled studies in ≥1% of patients treated for up to 24 months with edex®.
 
@@ -71,6 +71,6 @@ Four patients (<1%) reported clinical symptoms of hypotension such as dizziness 
 
 edex® had no clinically important effect on serum or urine laboratory tests.
 
-## Post-Marketing Adverse Experiences
+Post-Marketing Adverse Experiences
 
 Needle breakage.

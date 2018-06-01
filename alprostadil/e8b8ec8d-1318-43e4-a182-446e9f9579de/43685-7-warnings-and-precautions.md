@@ -10,7 +10,7 @@ If priapism is not treated immediately, penile tissue damage and permanent loss 
 
 # PRECAUTIONS
 
-## General
+General
 
 1) Intracavernous injections of edex® can lead to increased peripheral blood levels of PGE1 and its metabolites, especially in those patients with significant corpora cavernosa venous leakage.
 Increased peripheral blood levels of PGE1 and its metabolites may lead to hypotension and/or dizziness.
@@ -42,7 +42,7 @@ There is a potential for cardiac risk of sexual activity in patients with preexi
 Therefore, treatments for erectile dysfunction, including edex®, generally should not be used in men for whom sexual activity is inadvisable because of their underlying cardiovascular status.
 In addition, the evaluation of erectile dysfunction should include a determination of potential underlying causes and the identification of appropriate treatment following a complete medical assessment.
 
-## Drug Interactions
+Drug Interactions
 
 The pharmacodynamic interaction between heparin (5,000 IU) and alprostadil intravenous infusion (90 mcg over 3 hours) was investigated.
 The results indicate significant changes in partial thromboplastin time (140% increase) and thrombin time (120% increase).
@@ -50,7 +50,7 @@ Therefore, caution should be exercised with concomitant administration of hepari
 
 (Also, see drug-drug interaction studies in CLINICAL PHARMACOLOGY, Pharmacokinetics subsection.)
 
-## Information for Patients
+Information for Patients
 
 To ensure safe and effective use of edex®, the patient should be thoroughly instructed and trained in the self-injection technique before he begins intracavernous treatment with edex® at home.
 The desirable dose should be established in the physician's office.
@@ -89,7 +89,7 @@ Use of intracavernous edex® offers no protection from the transmission of sexua
 The injection of edex® can induce a small amount of bleeding at the site of injection.
 In patients infected with blood-borne diseases, this could increase the risk of transmission of blood-borne diseases between partners.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Long-term carcinogenicity studies have not been conducted.
 Alprostadil showed no evidence of mutagenicity in three in vitro assays including the AMES bacterial reverse mutation assay, a forward gene mutation assay in Chinese hamster lung (V79) cells, and a chromosome aberration assay in human peripheral lymphocytes.
@@ -99,11 +99,11 @@ Alprostadil did not cause any adverse effects on fertility or general reproducti
 The high dose of 200 mcg/kg/day is about 300 times the maximum recommended human dose (MRHD) on a body weight basis.
 The human dose of edex® is <1 mcg/kg (MRHD is 40 mcg and the calculation assumes a 60 kg subject).
 
-## Pregnancy, Nursing Mothers and Pediatric Use
+Pregnancy, Nursing Mothers and Pediatric Use
 
 edex® is not indicated for use in women or pediatric patients.
 
-## Geriatric Use
+Geriatric Use
 
 Of the approximately 1,065 patients who entered the in-office dose-titration period in clinical studies, 25% were 65 years or older.
 In clinical studies, geriatric patients required, on average, higher minimally effective doses and had a higher rate of lack of effect (optimum dose not determined).

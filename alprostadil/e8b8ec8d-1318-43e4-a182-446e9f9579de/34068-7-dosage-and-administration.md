@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-## edex® in the Treatment of Erectile Dysfunction
+edex® in the Treatment of Erectile Dysfunction
 
 The dosage range of edex® for the treatment of erectile dysfunction is 1 to 40 mcg.
 The intracavernous injection should be given over a 5 to 10 second interval.
@@ -11,9 +11,9 @@ A ½ inch, 27 to 30 gauge needle is generally recommended for the intracavernous
 The patient is advised not to exceed the optimum edex® dose which was determined in the doctor's office.
 The lowest possible effective dose should always be used.
 
-## Initial Titration in Physician's Office
+Initial Titration in Physician's Office
 
-### Erectile Dysfunction of Vasculogenic, Psychogenic, or Mixed Etiology
+Erectile Dysfunction of Vasculogenic, Psychogenic, or Mixed Etiology
 
 Dosage titration should be initiated at 2.5 micrograms of alprostadil.
 If there is a partial response, the dose may be increased by 2.5 micrograms to a dose of 5 micrograms and then in increments of 5 to 10 micrograms, depending upon erectile response, until the dose that produces an erection suitable for intercourse and not exceeding a duration of 1 hour is reached.
@@ -22,7 +22,7 @@ The patient must stay in the physician's office until complete detumescence occu
 It there is no response, then the next higher dose may be given within 1 hour.
 If there is a response, then there should be at least a 1-day interval before the next dose is given.
 
-### Erectile Dysfunction of Pure Neurogenic Etiology (Spinal Cord Injury)
+Erectile Dysfunction of Pure Neurogenic Etiology (Spinal Cord Injury)
 
 Dosage titration should be initiated at 1.25 micrograms of alprostadil.
 The dose may be increased by 1.25 micrograms to a dose of 2.5 micrograms, followed by an increment of 2.5 micrograms to a dose of 5 micrograms, and then in 5-microgram increments until the dose that produces an erection suitable for intercourse and not exceeding a duration of 1 hour is reached.
@@ -30,7 +30,7 @@ The patient must stay in the physician's office until complete detumescence occu
 If there is no response, then the next higher dose may be given within 1 hour.
 If there is a response, then there should be at least a 1-day interval before the next dose is given.
 
-## At-Home (Maintenance Therapy) Dosing Instructions
+At-Home (Maintenance Therapy) Dosing Instructions
 
 The first injections of edex® must be done at the physician's office by medically trained personnel.
 Self-injection therapy by the patient can be started only after the patient is properly instructed and well trained in the self-injection technique.

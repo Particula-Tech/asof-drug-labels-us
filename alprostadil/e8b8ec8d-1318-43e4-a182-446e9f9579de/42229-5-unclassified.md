@@ -4,8 +4,10 @@ Sterile Powder and Diluent (sterile 0.9% sodium chloride) in Cartridges
 
 Rx Only
 
-Manufactured in Germany for:
+For more information, call Actient Pharmaceuticals, LLC at 1-800-462-3636.
 
-Actient Pharmaceuticals, LLC Lake Forest, Illinois 60045
+Distributed by: Actient Pharmaceuticals, LLC Lake Forest, Illinois 60045
 
-Rev 2 03/15
+Revised: April 2018
+
+120403

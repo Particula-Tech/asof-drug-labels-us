@@ -2,9 +2,6 @@ edex® (alprostadil for injection) For Intracavernous Use Only Sterile Powder an
 
 Rx Only
 
-Rev.
-2 03/2015
-
 Please read carefully before using.
 
 edex® can only be obtained with a prescription from your doctor.
@@ -238,6 +235,8 @@ Once the injection device is dry, place it in the carrying case.
 As with all prescription medicines, do not allow anyone else to use your medication.
 Proper injection technique and individual dose titration are essential for the safe use of this product.
 
-Manufactured in Germany for: Actient Pharmaceuticals, LLC Lake Forest, Illinois 60045
+Distributed by: Actient Pharmaceuticals, LLC Lake Forest, Illinois 60045
 
-Rev 2 03/2015
+Revised: April 2018
+
+120402

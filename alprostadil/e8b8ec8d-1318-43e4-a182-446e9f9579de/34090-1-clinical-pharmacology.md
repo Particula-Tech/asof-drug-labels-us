@@ -4,9 +4,7 @@ Alprostadil (PGE1) is one of the prostaglandins, a family of naturally occurring
 Endogenous PGE1 is derived from dihomo-gamma-linolenic acid, a fatty acid found within the phospholipids of cellular membranes.
 As an endogenous substance, PGE1 exerts its biological effects either directly or indirectly by regulating and modifying the synthesis and effects of other hormones and mediators.
 
-## Mode of Action
-
-Alprostadil is a smooth muscle relaxant.
+Mode of Action Alprostadil is a smooth muscle relaxant.
 Precontracted isolated preparations of the human corpus cavernosum, corpus spongiosum and cavernous artery are relaxed by alprostadil.
 Alprostadil has been shown to bind to specific receptors in human penile tissue.
 Two types of receptors that differ in their PGE1 binding affinity have been identified.
@@ -18,7 +16,7 @@ Alprostadil also attenuates presynaptic noradrenaline release in the corpus cave
 Alprostadil induces erection by relaxation of trabecular smooth muscle and by dilation of cavernous arteries.
 This leads to expansion of lacunar spaces and entrapment of blood by compressing the venules against the tunica albuginea, a process referred to as the corporal veno-occlusive mechanism.
 
-## Pharmacokinetics
+Pharmacokinetics
 
 ### Alpha-Cyclodextrin
 
@@ -30,17 +28,17 @@ There was no evidence of tissue retention of radiolabeled α-cyclodextrin in mon
 
 ### Alprostadil
 
-#### Absorption
+Absorption
 
 After intracavernous injection of 20 mcg of edex® in 24 patients with erectile dysfunction, mean systemic plasma concentrations of PGE1 increased from baseline of 0.8 ± 0.6 pg/mL to a peak (Cmax) of 16.8 ± 18.9 pg/mL (corrected for baseline) within 2 to 5 minutes and dropped to endogenous plasma levels within 2 hours (Table 1).
 The absolute bioavailability of alprostadil estimated from systemic exposure was about 98% as compared to the same dose given by a short-term intravenous infusion.
 
-#### Distribution
+Distribution
 
 The volume of distribution for PGE1 was not estimated.
 Approximately 93% of PGE1 found in plasma is protein-bound.
 
-#### Metabolism
+Metabolism
 
 PGE1 is metabolized in the corpus cavernosum after intracavernous administration.
 PGE1 entering the systemic circulation is rapidly and extensively metabolized in the lungs with a first-pass pulmonary elimination of 60 to 90% of PGE1.
@@ -51,7 +49,7 @@ Unlike the 15-keto metabolites which are less pharmacologically active than the 
 After intracavernous injection of 20 mcg of edex® to 24 patients with erectile dysfunction, mean systemic plasma 15-keto-PGE0 levels increased within 7 minutes from endogenous levels of 12.9 ± 11.8 pg/mL to a Cmax of 421 ± 337 pg/mL (corrected for baseline) followed by a decrease to baseline levels in several hours.
 Mean systemic plasma PGE0 levels increased within 20 minutes from endogenous levels of 0.6 ± 0.5 pg/mL to a Cmax of 3.9 ± 2.3 pg/mL (corrected for baseline) followed by a decrease to baseline levels in several hours.
 
-#### Excretion
+Excretion
 
 After further degradation of PGE1 by beta and omega oxidation, the main metabolites are excreted primarily in urine (88%) and feces (12%) over 72 hours, and total excretion is essentially complete (92%) within 24 hours after administration.
 No unchanged PGE1 has been found in the urine and there is no evidence of tissue retention of PGE1 and its metabolites.
@@ -61,17 +59,13 @@ The terminal half-life of PGE1 in healthy volunteers was calculated to be around
 Mean total body clearance of PGE1 in patients with erectile dysfunction was calculated to be around 115 L/min after an intravenous infusion of 20 mcg alprostadil.
 The above value exceeded cardiac output indicating extensive and rapid elimination of PGE1 in the lungs and/or blood.
 
-## Special Populations
+Special Populations
 
-### Geriatric
+Geriatric: The potential effect of age on the pharmacokinetics of alprostadil has not been formally evaluated.
 
-The potential effect of age on the pharmacokinetics of alprostadil has not been formally evaluated.
+Race: The potential influence of race on the pharmacokinetics of alprostadil has not been formally evaluated.
 
-### Race
-
-The potential influence of race on the pharmacokinetics of alprostadil has not been formally evaluated.
-
-### Hepatic Insufficiency
+Hepatic Insufficiency
 
 In a study in symptomatic subjects with impaired hepatic function and age/weight/sex-matched healthy volunteers, 120 mcg of alprostadil was administered by intravenous infusion over 2 hours.
 The mean Cmax value of PGE1 in hepatically impaired patients was 96% higher than in healthy volunteers.
@@ -79,36 +73,36 @@ Mean Cmax values of both 15-keto-PGE0 and PGE0 increased 65% as compared to thos
 The terminal half-lives of PGE1, PGE0, and 15-keto-PGE0 and plasma albumin levels were similar in patients compared to healthy volunteers.
 Due to the fact that PGE1 is primarily metabolized in the lung, the observed differences between hepatically impaired subjects and healthy volunteers were not anticipated; the mechanism responsible for the observed discrepancies is not known.
 
-### Renal Impairment
+Renal Impairment
 
 In a study in symptomatic subjects with end-stage renal disease undergoing hemodialysis and age/weight/sex-matched healthy volunteers, 120 mcg of alprostadil was administered by intravenous infusion over 2 hours.
 The mean Cmax value of PGE1 in renally impaired patients was 37% lower as compared to that in healthy volunteers whereas mean Cmax values of 15-keto-PGE0 and PGE0 in these patients increased 104% and 145%, respectively as compared to those in healthy volunteers.
 The terminal half-lives of PGE1, PGE0 and 15-keto-PGE0 and plasma albumin levels were similar in these patients vs healthy volunteers.
 The mechanism responsible for the observed discrepancies between renally impaired subjects and healthy volunteers is not known.
 
-### Pulmonary Disease
+Pulmonary Disease
 
 The pulmonary extraction of alprostadil following intravascular administration was reduced by 15% (66 ± 3.6% vs 78 ± 2.3%) in patients with acute respiratory distress syndrome (ARDS) compared with a group of patients with normal respiratory function who were undergoing cardiopulmonary bypass surgery.
 Pulmonary clearance was found to vary as a function of cardiac output and pulmonary intrinsic clearance in a group of 14 patients with ARDS or at risk of developing ARDS following trauma or sepsis.
 In this study, the pulmonary extraction efficiency of alprostadil ranged from subnormal (11%) to normal (90%), with an overall mean of 67%.
 
-### Drug-Drug Interactions
+Drug-Drug Interactions
 
 In clinical trials, concomitant use of agents such as antihypertensive drugs, diuretics, antidiabetic agents (including insulin), or nonsteroidal anti-inflammatory drugs had no apparent effect on the efficacy or safety of edex®.
 
-### Aspirin, Warfarin, Digoxin, Glyburide
+Aspirin, Warfarin, Digoxin, Glyburide
 
 Several drug-drug interaction studies have been conducted with alprostadil alone or in combination with aspirin, digoxin or warfarin in healthy volunteers and with glyburide in subjects with stable, non-insulin dependent diabetes mellitus.
 The pharmacokinetic profiles of aspirin, warfarin, digoxin, and glyburide were not affected by concomitant administration of alprostadil.
 There were no clinically important changes or trends in pharmacodynamic parameters for these drugs.
 
-### Heparin
+Heparin
 
 The pharmacokinetic and pharmacodynamic interaction between alprostadil intravenous infusion, 90 mcg over 3 hours, and heparin (5,000 IU) was evaluated in 12 healthy volunteers.
 Alprostadil had a significant effect on the pharmacodynamics of heparin resulting in a 140% increase in partial thromboplastin time and a 120% increase in thrombin time.
 Therefore, caution should be exercised with concomitant administration of heparin and edex®.
 
-TABLE 1:
+Table 1:
 
 | Study No. | Participants | Route and Dose Administration | Drug/ Metabolites | CmaxBaseline-corrected data. [pg/mL] | Tmax [min] | AUCAUC0-150 for IV infusion and AUC0-120 for IC injection. [pg∙min/mL] | Total ClearanceCalculated as IV dose/AUC0-150 (IV). [L/min] | t1/2Apparent terminal half-life. [min] |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -119,7 +113,7 @@ TABLE 1:
 |  |  |  | 15-keto- PGE0 | 421 ± 337 | 9.7 ± 7.7 | 10500 ± 4101 | --- | 40.9 ± 16.5 |
 |  |  |  | PGE0 | 3.9 ± 2.3 | 20.3 ± 12.6 | 252 ± 134 |  | 63.2 ± 31.1 |
 
-## Clinical Studies
+Clinical Studies
 
 In two studies [Protocol numbers KU-620-001 (Study 1) and KU-620-002 (Study 2)], the safety and efficacy of edex® were evaluated in 347 men with a diagnosis of erectile dysfunction due to vasculogenic, neurogenic and/or mixed etiology.
 Each study consisted of three phases: an in-office dose-titration phase, a two-week double-blind cross-over phase at home, and an open-label at home treatment phase that lasted for 12 months (Study 1) or six months (Study 2).
@@ -130,7 +124,7 @@ A positive Buckling Test was achieved if the erect penis was able to support an 
 During the subsequent two-week double-blind, cross-over phase, patients self-injected edex® or placebo at home.
 Thereafter, patients continued to perform self-injections of open-label edex® for six or 12 months, and the occurrence of an erection sufficient for sexual intercourse was documented following each injection.
 
-## Results
+Results
 
 Study 1: One hundred fourteen men with a mean age of 53 years (range 22 to 65 years) were enrolled in the first phase.
 The mean optimum dose was 13.8 mcg (range 1 to 20 mcg).
