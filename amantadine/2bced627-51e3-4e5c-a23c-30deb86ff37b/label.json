@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA209410"
+  ],
+  "inn": "amantadine",
+  "labeler": "Vertical Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "68025-075-30",
+    "68025-075-90",
+    "68025-076-30",
+    "68025-076-90",
+    "68025-077-30",
+    "68025-077-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "amantadine",
+      "name": "Osmolex ER"
+    }
+  ],
+  "setid": "2bced627-51e3-4e5c-a23c-30deb86ff37b",
+  "source": "dailymed"
+}
