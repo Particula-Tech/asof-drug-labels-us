@@ -59,11 +59,18 @@
     "0407-1414-90",
     "0407-1414-91",
     "0407-1414-93",
-    "0407-1414-94"
+    "0407-1414-94",
+    "0407-1415-09",
+    "0407-1416-12"
   ],
   "products": [
     {
       "form": "INJECTION",
+      "generic": "iohexol",
+      "name": "OMNIPAQUE"
+    },
+    {
+      "form": "SOLUTION",
       "generic": "iohexol",
       "name": "OMNIPAQUE"
     }

@@ -1,43 +1,69 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-OMNIPAQUE 140
+## 16.1 How Supplied
 
-50 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1401-52)
+| Volume/Concentration | Configuration | NDC |
+| --- | --- | --- |
+| OMNIPAQUE 140 (140 mg iodine/mL) – Boxes of 10 |  |  |
+| 50 mL | +PLUSPAK™ (polymer bottle) | 0407-1401-52 |
+| OMNIPAQUE 180 (180 mg iodine/mL) – Boxes of 10 |  |  |
+| 10 mL | Glass Vial | 0407-1411-10 |
+| 20 mL | Glass Vial | 0407-1411-20 |
+| OMNIPAQUE 240 (240 mg iodine/mL) – Boxes of 10 |  |  |
+| 10 mL | Glass Vial | 0407-1412-10 |
+| 20 mL | Glass Vial | 0407-1412-20 |
+| 50 mL | Glass Vial | 0407-1412-50 |
+| 50 mL | +PLUSPAK™ (polymer bottle) | 0407-1412-30 |
+| 100 mL | Glass Vial | 0407-1412-60 |
+| 100 mL | +PLUSPAK™ (polymer bottle) | 0407-1412-33 |
+| 150 mL | Glass Vial | 0407-1412-49 |
+| 150 mL fill in 200 mL | +PLUSPAK™ (polymer bottle) | 0407-1412-34 |
+| 200 mL | +PLUSPAK™ (polymer bottle) | 0407-1412-35 |
+| OMNIPAQUE 300 (300 mg iodine/mL) – Boxes of 10 |  |  |
+| 10 mL | Glass Vial | 0407-1413-10 |
+| 30 mL | Glass Vial | 0407-1413-30 |
+| 30 mL fill in 50 mL | +PLUSPAK™ (polymer bottle) | 0407-1413-59 |
+| 50 mL | Glass Vial | 0407-1413-50 |
+| 50 mL | Glass Bottle | 0407-1413-51 |
+| 50 mL | +PLUSPAK™ (polymer bottle) | 0407-1413-61 |
+| 75 mL fill in 100 mL | +PLUSPAK™ (polymer bottle) | 0407-1413-62 |
+| 100 mL | Glass Bottle | 0407-1413-60 |
+| 100 mL | +PLUSPAK™ (polymer bottle) | 0407-1413-63 |
+| 125 mL fill in 150 mL | Glass Bottle | 0407-1413-53 |
+| 150 mL | Glass Bottle | 0407-1413-90 |
+| 150 mL fill in 200 mL | +PLUSPAK™ (polymer bottle) | 0407-1413-65 |
+| 200 mL | +PLUSPAK™ (polymer bottle) | 0407-1413-66 |
+| OMNIPAQUE 350 (350 mg iodine/mL) – Boxes of 10 |  |  |
+| 50 mL | Glass Vial | 0407-1414-50 |
+| 50 mL | Glass Bottle | 0407-1414-51 |
+| 50 mL | +PLUSPAK™ (polymer bottle), | 0407-1414-89 |
+| 75 mL fill in 100 mL | +PLUSPAK™ (polymer bottle) | 0407-1414-90 |
+| 100 mL | Glass Bottle | 0407-1414-60 |
+| 100 mL | +PLUSPAK™ (polymer bottle) | 0407-1414-91 |
+| 125 mL fill in 150 mL | Glass Bottle | 0407-1414-76 |
+| 150 mL | Glass Bottle | 0407-1414-03 |
+| 150 mL fill in 200 mL | +PLUSPAK™ (polymer bottle) | 0407-1414-93 |
+| 200 mL fill in 250 mL | Glass Bottle | 0407-1414-04 |
+| 200 mL | +PLUSPAK™ (polymer bottle) | 0407-1414-94 |
+| 250 mL | Glass Bottle | 0407-1414-80 |
+| OMNIPAQUE Oral Solution 9 (9 mg iodine/mL) – Boxes of 10 |  |  |
+| 500 mL | +PLUSPAK™ (polymer bottle) | 0407-1415-09 |
+| OMNIPAQUE Oral Solution 12 (12 mg iodine/mL) – Boxes of 10 |  |  |
+| 500 mL | +PLUSPAK™ (polymer bottle) | 0407-1416-12 |
 
-OMNIPAQUE 180
+The container closure system components (bottle, vial, stopper and cap) of OMNIPAQUE injection and OMNIPAQUE oral solution are not made with natural rubber latex.
 
-10 mL glass vial, 180 mgI/mL, boxes of 10 (NDC 0407-1411-10) 20 mL glass vial, 180 mgI/mL, boxes of 10 (NDC 0407-1411-20)
+## 16.2 Storage
 
-OMNIPAQUE 240
-
-10 mL glass vial, 240 mgI/mL, boxes of 10 (NDC 0407-1412-10) 20 mL glass vial, 240 mgI/mL, boxes of 10 (NDC 0407-1412-20) 50 mL glass vial, 240 mgI/mL, boxes of 10 (NDC 0407-1412-50) 50 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1412-30) 100 mL glass bottle, 240 mgI/mL, boxes of 10 (NDC 0407-1412-60) 100 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1412-33) 150 mL glass bottle, 240 mgI/mL, boxes of 10 (NDC 0407-1412-49) 150 mL fill in 200 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1412-34) 200 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1412-35)
-
-OMNIPAQUE 300
-
-10 mL glass vial, 300 mgI/mL, boxes of 10 (NDC 0407-1413-10) 30 mL glass vial, 300 mgI/mL, boxes of 10 (NDC 0407-1413-30) 30 mL fill in 50 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-59) 50 mL glass vial, 300 mgI/mL, boxes of 10 (NDC 0407-1413-50) 50 mL glass bottle, 300 mgI/mL, boxes of 10 (NDC 0407-1413-51) 50 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-61) 75 mL fill in 100 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-62) 100 mL glass bottle, 300 mgI/mL, boxes of 10 (NDC 0407-1413-60) 100 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-63) 125 mL fill in 150 mL glass bottle, 300 mgI/mL, boxes of 10 (NDC 0407-1413-53) 150 mL glass bottle, 300 mgI/mL, boxes of 10 (NDC 0407-1413-90) 150 mL fill in 200 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-65) 200 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-66)
-
-OMNIPAQUE 350
-
-50 mL glass vial, 350 mgI/mL, boxes of 10 (NDC 0407-1414-50) 50 mL glass bottle, 350 mgI/mL, boxes of 10 (NDC 0407-1414-51) 50 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1414-89) 75 mL fill in 100 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1414-90) 100 mL glass bottle, 350 mgI/mL, boxes of 10 (NDC 0407-1414-60) 100 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1414-91) 125 mL fill in 150 mL glass bottle, 350 mgI/mL, boxes of 10 (NDC 0407-1414-76) 150 mL glass bottle, 350 mgI/mL, boxes of 10 (NDC 0407-1414-03) 150 mL fill in 200 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1414-93) 200 mL fill in 250 mL glass bottle, 350 mgI/mL, boxes of 10 (NDC 0407-1414-04) 200 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1414-94) 250 mL glass bottle, 350 mgI/mL, boxes of 10 (NDC 0407-1414-80)
-
-## FEDERAL GOVERNMENT CODES
-
-OMNIPAQUE 240
-
-50 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1412-29) 150 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1412-27) 200 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1412-28)
-
-OMNIPAQUE 300
-
-10 mL glass vial, 300 mgI/mL, boxes of 10 (NDC 0407-1413-11) 50 mL glass bottle, 300 mgI/mL, boxes of 10 (NDC 0407-1413-95) 100 mL glass bottle, 300 mgI/mL, boxes of 10 (NDC 0407-1413-96) 50 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-98) 75 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-99) 100 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-91) 150 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-92) 200 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-93)
-
-OMNIPAQUE 350
-
-50 mL glass bottle, 350 mgI/mL, boxes of 10 (NDC 0407-1414-52) 100 mL glass bottle, 350 mgI/mL, boxes of 10 (NDC 0407-1414-53) 50 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1414-21) 75 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1414-20) 100 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1414-22) 150 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1414-23) 200 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1414-24)
-
-Protect vials and glass or polymer bottles of OMNIPAQUE from strong daylight and direct exposure to sunlight.
+Protect OMNIPAQUE glass vials and bottles and +PLUSPAK™ polymer bottles from light.
 Do not freeze.
-OMNIPAQUE should be stored at controlled room temperature, 20°-25°C (68°- 77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
+Discard any product that is inadvertently frozen, as freezing may compromise the closure integrity of the immediate container.
 
-OMNIPAQUE Injection in all presentations may be stored in a contrast media warmer for up to one month at 37°C (98.6°F).
+OMNIPAQUE Injection 140, 180, 240, 300 and 350
 
-SPECIAL HANDLING AND STORAGE FOR POLYMER BOTTLES ONLY: DO NOT USE IF TAMPER-EVIDENT RING IS BROKEN OR MISSING.
+Store at controlled room temperature, 20°- 25°C (68° - 77°F); excursions permitted to 15°- 30°C (59°- 86°F) [see USP Controlled Room Temperature].
+May be stored in a contrast media warmer for up to one month at 36-38°C (96.8 - 98.6°F).
+
+OMNIPAQUE Oral Solution 9 and 12
+
+Store between 0° and 30°C (32°- 86°F).

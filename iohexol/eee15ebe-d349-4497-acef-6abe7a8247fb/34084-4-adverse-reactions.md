@@ -1,217 +1,205 @@
-# ADVERSE REACTIONS—Intrathecal
+# 6 ADVERSE REACTIONS
+
+The following clinically significant adverse reactions are described elsewhere in the labeling:
+
+- Risks Associated with Inadvertent Intrathecal Administration [see Warnings and Precautions (5.1)]
+- Risks Associated with Inadvertent Parenteral Administration [see Warnings and Precautions (5.2)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.3)]
+- Contrast Induced Kidney Injury [see Warnings and Precautions (5.4)]
+- Cardiovascular Adverse Reactions [see Warnings and Precautions (5.5)]
+- Thromboembolic Events [see Warnings and Precautions (5.6)]
+- Severe Cutaneous Reactions [see Warnings and Precautions (5.11)]
+
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+Intrathecal Administration
+
+Adults
+
+TABLE 23 ADVERSE REACTIONS – INTRATHECAL ADMINISTRATION
+
+| System Organ Class | Adverse Reaction | Incidence |
+| --- | --- | --- |
+| In controlled clinical studies involving 1531 patients using OMNIPAQUE the following adverse reactions were reported: |  |  |
+| Nervous System | Headaches | 18% |
+| Musculoskeletal and Connective Tissue | Pain including backache, neckache, stiffness and neuralgia | 8% |
+| Gastrointestinal System | Nausea | 6% |
+| Vomiting | 3% |  |
+| Nervous System | Dizziness | 2% |
+| Other Reactions | Feeling of heaviness, hypotension, hypertonia, sensation of heat, sweating, vertigo, loss of appetite, drowsiness, hypertension, photophobia, tinnitus, neuralgia, paresthesia, difficulty in micturition, and neurological changes | <0.1% |
+
+Pediatric Patients
+
+TABLE 24 ADVERSE REACTIONS – INTRATHECAL ADMINISTRATION
 
-The most frequently reported adverse reactions with OMNIPAQUE are headache, mild to moderate pain including backache, neckache and stiffness, nausea, and vomiting.
-These reactions usually occur 1 to 10 hours after injection, and almost all occur within 24 hours.
-They are usually mild to moderate in degree, lasting for a few hours, and usually disappearing within 24 hours.
-Rarely, headaches may be severe or persist for days.
-Headache is often accompanied by nausea and vomiting and tends to be more frequent and persistent in patients not optimally hydrated.
+| Procedure | System Organ Class | Adverse Reaction | Incidence |
+| --- | --- | --- | --- |
+| In clinical studies involving 152 patients for pediatric myelography by lumbar puncture, adverse events following the use of OMNIPAQUE 180 were generally similar to those reported in adults. |  |  |  |
+| Myelography by Lumbar Puncture | Nervous System | Headache | 9% |
+| Gastrointestinal System | Vomiting | 6% |  |
+| Musculoskeletal and Connective Tissue | Backache | 1.3% |  |
+| Other Reactions All were transient and mild with no clinical sequelae. | Fever | <0.7% |  |
+| Hives |  |  |  |
+| Stomachache |  |  |  |
+| Visual Hallucination |  |  |  |
+| Neurological Changes |  |  |  |
 
-Transient alterations in vital signs may occur and their significance must be assessed on an individual basis.
-Those reactions reported in clinical studies with OMNIPAQUE are listed below in decreasing order of occurrence, based on clinical studies of 1531 patients.
+Intravascular Administration
 
-Headaches: The most frequently occurring adverse reaction following myelography has been headache, with an incidence of approximately 18%.
-Headache may be caused by either a direct effect of the contrast medium or by CSF leakage at the dural puncture site.
-However, in managing the patient, it is considered more important to minimize intracranial entry of contrast medium by postural management than attempting to control possible CSF leakage (see PATIENT MANAGEMENT).
+Immediately following intravascular injection of contrast medium, a transient sensation of mild warmth is not unusual.
+Warmth is less frequent with OMNIPAQUE than with ionic contrast media.
 
-Pain: Mild to moderate pain including backache, neckache and stiffness, and neuralgia occurred following injection with an incidence of about 8%.
+Adults
 
-Nausea and Vomiting: Nausea was reported with an incidence of about 6%, and vomiting about 3% (see PATIENT MANAGEMENT).
-Maintaining normal hydration is very important.
-The use of phenothiazine antinauseants is not recommended.
-(See WARNINGS—General.)
-Reassurance to the patient that the nausea will clear usually is all that is required.
+In controlled clinical studies involving 1485 patients, the following adverse reactions occurred (Table 25):
 
-Dizziness: Transient dizziness was reported in about 2% of the patients.
+TABLE 25 ADVERSE REACTIONS – INTRAVASCULAR ADMINISTRATION
 
-Other Reactions: Other reactions occurring with an individual incidence of less than 0.1% included: feeling of heaviness, hypotension, hypertonia, sensation of heat, sweating, vertigo, loss of appetite, drowsiness, hypertension, photophobia, tinnitus, neuralgia, paresthesia, difficulty in micturition, and neurological changes.
-All were transient and mild with no clinical sequelae.
+| System Organ Class | Adverse Reaction | Incidence |
+| --- | --- | --- |
+| Cardiovascular System | Arrhythmias including PVCs and PACs (2%), | 2% |
+| Hypotension | 0.7% |  |
+| Others including cardiac failure, asystole, bradycardia, tachycardia, and vasovagal reaction | ≤ 0.3% |  |
+| Nervous System | Vertigo (including dizziness and lightheadedness) | 0.5% |
+| Pain | 3% |  |
+| Vision Abnormalities (including blurred vision and photomas) | 2% |  |
+| Taste Perversion | 1% |  |
+| Other Reactions | Anxiety, fever, motor and speech dysfunction, convulsion, paresthesia, somnolence, stiff neck, hemiparesis, syncope, shivering, transient ischemic attack, cerebral infarction, and nystagmus | Individual incidence of 0.3% or less |
+| Respiratory System | Dyspnea, rhinitis, coughing, and laryngitis | Individual incidence of 0.2% or less |
+| Gastrointestinal System | Nausea | 2% |
+| Vomiting | 0.7% |  |
+| Others including diarrhea, dyspepsia, cramp, and dry mouth | Individual incidence of less than 0.1%. |  |
+| Skin and Subcutaneous Tissues | Urticaria | 0.3% |
+| Purpura | 0.1% |  |
+| Abscess | 0.1% |  |
+| Pruritus | 0.1% |  |
 
-## Pediatrics
+Pediatric Patients
 
-In controlled clinical trials involving 152 patients for pediatric myelography by lumbar puncture, adverse events following the use of OMNIPAQUE 180 were generally less frequent than with adults.
+In controlled clinical studies involving 391 patients for pediatric angiocardiography, urography, and CT head imaging, adverse reactions following the use of OMNIPAQUE 240, 300, and 350 were generally similar in quality and frequency to those reported in adults (Table 26):
 
-Headache: 9% Vomiting: 6% Backache: 1.3%
+TABLE 26 ADVERSE REACTIONS – INTRAVASCULAR ADMINISTRATION
 
-Other Reactions: Other reactions occurring with an individual incidence of less than 0.7% included: fever, hives, stomachache, visual hallucination, and neurological changes.
-All were transient and mild with no clinical sequelae.
+| System Organ Class | Adverse Reaction | Incidence |
+| --- | --- | --- |
+| Cardiovascular System | Ventricular Tachycardia | 0.5% |
+| 2:1 Heart Block | 0.5% |  |
+| Hypertension | 0.3% |  |
+| Anemia | 0.3% |  |
+| General Disorders and Administration Site Conditions | Pain | 0.8% |
+| Fever | 0.5% |  |
+| Nervous System | Convulsion | 0.3% |
+| Taste Abnormality | 0.5% |  |
+| Respiratory System | Congestion | 0.3% |
+| Apnea | 0.3% |  |
+| Gastrointestinal System | Nausea | 1% |
+| Vomiting | 2% |  |
+| Endocrine System | Hypoglycemia | 0.3% |
+| Skin and Subcutaneous Tissue | Rash | 0.3% |
 
-## General Adverse Reactions to Contrast Media
+Oral Administration for Examination of the Gastrointestinal Tract
 
-Physicians should remain alert for the occurrence of adverse effects in addition to those discussed above, particularly the following reactions which have been reported in the literature for other nonionic, water-soluble myelographic media, and rarely with iohexol.
-These have included, but are not limited to, convulsion, aseptic and bacterial meningitis, and CNS and other neurological disturbances.
+Adults
 
-An aseptic meningitis syndrome has been reported rarely (less than 0.01%).
-It was usually preceded by pronounced headaches, nausea and vomiting.
-Onset usually occurred about 12 to 18 hours postprocedure.
-Prominent features were meningismus, fever, sometimes with oculomotor signs and mental confusion.
-Lumbar puncture revealed a high white cell count, high protein content often with a low glucose level and with absence of organisms.
-The condition usually started to clear spontaneously about 10 hours after onset, with complete recovery over 2 to 3 days.
+Nausea, vomiting, and diarrhea have been most frequently reported following orally administered undiluted OMNIPAQUE for radiographic examination of the gastrointestinal tract.
+In controlled clinical studies involving 54 adult patients for oral radiographic examination of the gastrointestinal tract using undiluted OMNIPAQUE 350 the following adverse reactions were reported (Table 27):
 
-Allergy or Idiosyncrasy: Chills, fever, profuse diaphoresis, pruritus, urticaria, nasal congestion, dyspnea, and a case of Guillain-Barre syndrome.
+TABLE 27 ADVERSE REACTIONS – ORAL ADMINISTRATION OF UNDILUTED OMNIPAQUE 350
 
-CNS Irritation: Mild and transitory perceptual aberrations such as hallucinations, depersonalization, amnesia, hostility, amblyopia, diplopia, photophobia, psychosis, insomnia, anxiety, depression, hyperesthesia, visual or auditory or speech disturbances, confusion and disorientation.
-In addition, malaise, weakness, convulsion, EEG changes, meningismus, hyperreflexia or areflexia, hypertonia or flaccidity, hemiplegia, paralysis, quadriplegia, restlessness, tremor, echoacousia, echolalia, asterixis, cerebral hemorrhage, and dysphasia have occurred.
+| System Organ Class | Adverse Reaction | Incidence |
+| --- | --- | --- |
+| Gastrointestinal System | Diarrhea | 42% |
+| Nausea | 15% |  |
+| Vomiting | 11% |  |
+| Abdominal Pain | 7% |  |
+| Flatulence | 2% |  |
+| Nervous System | Headache | 2% |
 
-Profound mental disturbances have also rarely been reported.
-They have usually consisted of various forms and degrees of aphasia, mental confusion, or disorientation.
-The onset is usually at 8 to 10 hours and lasts for about 24 hours, without aftereffects.
-However, occasionally they have been manifest as apprehension, agitation, or progressive withdrawal in several instances to the point of somnolence, stupor, and coma.
-In a few cases these have been accompanied by transitory hearing loss or other auditory symptoms and visual disturbances (believed subjective or delusional), including unilateral or bilateral loss of vision which may last for hours.
-In one case, persistent cortical loss of vision has been reported in association with convulsions.
-Ventricular block has been reported; amnesia of varying degrees may be present for the reaction event.
+Pediatrics Patients (Oral and Rectal Administration)
 
-Rarely, persistent though transitory weakness in the leg or ocular muscles has been reported.
+In clinical studies involving 58 pediatric patients, the adverse reactions were found to mostly affect the gastrointestinal system with diarrhea (36%), vomiting (9%), nausea (5%) and abdominal pain (2%).
+However, fever (5%), hypotension (2%) and urticaria (2%) were also reported.
 
-Peripheral neuropathies have been rare and transitory.
-They include sensory and/or motor or nerve root disturbances, myelitis, persistent leg muscle pain or weakness, 6th nerve palsy, or cauda equina syndrome.
-Muscle cramps, fasciculation or myoclonia, spinal convulsion, or spasticity is unusual and has responded promptly to a small intravenous dose of diazepam.
+Oral Administration for CT of the Abdomen in Conjunction with Intravenous Administration
 
-In general, the reactions which are known to occur upon parenteral administration of iodinated contrast agents are possible with any nonionic agent.
-Approximately 95 percent of adverse reactions accompanying the use of water-soluble contrast agents are mild to moderate in degree.
-However, severe, life-threatening, anaphylactoid and fatal reactions, mostly of cardiovascular origin and central nervous system origin, have occurred.
+Adults
 
-Adverse reactions to injectable contrast media fall into two categories: chemotoxic reactions and idiosyncratic reactions.
+In a controlled clinical study involving 44 adult patients receiving oral administration of diluted OMNIPAQUE (4-9 mg iodine/mL) in conjunction with intravenously injected OMNIPAQUE 300 for CT examination of the abdomen, adverse reactions were limited to a single report of vomiting.
 
-Chemotoxic reactions result from the physicochemical properties of the contrast media, the dose, and speed of injection.
-All hemodynamic disturbances and injuries to organs or vessels perfused by the contrast medium are included in this category.
+Pediatric Patients
 
-Idiosyncratic reactions include all other reactions.
-They occur more frequently in patients 20 to 40 years old.
-Idiosyncratic reactions may or may not be dependent on the amount of dose injected, the speed of injection, and the radiographic procedure.
-Idiosyncratic reactions are subdivided into minor, intermediate, and severe.
-The minor reactions are self-limited and of short duration; the severe reactions are life-threatening and treatment is urgent and mandatory.
+In clinical studies involving 69 pediatric patients receiving oral administration of diluted OMNIPAQUE (9-29 mg iodine/mL) in conjunction with intravenously administered OMNIPAQUE 240 and OMNIPAQUE 300 for CT examination of the abdomen, adverse reactions were limited to a single report of vomiting (1.4%).
 
-The reported incidence of adverse reactions to contrast media in patients with a history of allergy is twice that of the general population.
-Patients with a history of previous reactions to a contrast medium are three times more susceptible than other patients.
-However, sensitivity to contrast media does not appear to increase with repeated examinations.
+Body Cavity Use
 
-Most adverse reactions to injectable contrast media appear within 1 to 3 minutes after the start of injection, but delayed reactions may occur.
+Adults
 
-# ADVERSE REACTIONS: Intravascular—General
+In controlled clinical studies involving 285 adult patients for various body cavity examinations using OMNIPAQUE 240, 300 and 350, the most frequent adverse reactions were administration site reactions: pain 26% and swelling 22%, were exclusively reported for arthrography and were generally related to the procedure rather than the contrast medium.
+Patients also experienced heat (7%).
+All other adverse reaction occurred at a rate less than or equal to 1%.
 
-Adverse reactions following the use of OMNIPAQUE 140, OMNIPAQUE 240, OMNIPAQUE 300, and OMNIPAQUE 350 are usually of mild to moderate severity.
-However, serious, life-threatening and fatal reactions, mostly of cardiovascular origin, have been associated with the administration of iodine-containing contrast media, including OMNIPAQUE.
-The injection of contrast media is frequently associated with the sensation of warmth and pain, especially in peripheral angiography; pain and warmth are less frequent and less severe with OMNIPAQUE than with many contrast media.
-
-Cardiovascular System: Arrhythmias including PVCs and PACs (2%), angina/chest pain (1%), and hypotension (0.7%).
-Others including cardiac failure, asystole, bradycardia, tachycardia, and vasovagal reaction were reported with an individual incidence of 0.3% or less.
-In controlled clinical trials involving 1485 patients, one fatality occurred.
-A cause and effect relationship between this death and iohexol has not been established.
-
-Nervous System: Vertigo (including dizziness and lightheadedness) (0.5%), pain (3%), vision abnormalities (including blurred vision and photomas) (2%), headache (2%), and taste perversion (1%).
-Others including anxiety, fever, motor and speech dysfunction, convulsion, paresthesia, somnolence, stiff neck, hemiparesis, syncope, shivering, transient ischemic attack, cerebral infarction, and nystagmus were reported, with an individual incidence of 0.3% or less.
-
-Respiratory System: Dyspnea, rhinitis, coughing, and laryngitis, with an individual incidence of 0.2% or less.
-
-Gastrointestinal System: Nausea (2%) and vomiting (0.7%).
-Others including diarrhea, dyspepsia, cramp, and dry mouth were reported, with an individual incidence of less than 0.1%.
-
-Skin and Appendages: Urticaria (0.3%), purpura (0.1%), abscess (0.1%), and pruritus (0.1%).
-
-Individual adverse reactions which occurred to a significantly greater extent for a specific procedure are listed under that indication.
-
-## Pediatrics
-
-In controlled clinical trials involving 391 patients for pediatric angiocardiography, urography, and contrast enhanced computed tomographic head imaging, adverse reactions following the use of OMNIPAQUE 240, OMNIPAQUE 300, and OMNIPAQUE 350 were generally less frequent than with adults.
-
-Cardiovascular System: Ventricular tachycardia (0.5%), 2:1 heart block (0.5%), hypertension (0.3%), and anemia (0.3%).
-
-Nervous System: Pain (0.8%), fever (0.5%), taste abnormality (0.5%), and convulsion (0.3%).
-
-Respiratory System: Congestion (0.3%) and apnea (0.3%).
-
-Gastrointestinal System: Nausea (1%), hypoglycemia (0.3%), and vomiting (2%).
-
-Skin and Appendages: Rash (0.3%).
-
-## General Adverse Reactions to Contrast Media
-
-Physicians should remain alert for the occurrence of adverse effects in addition to those discussed above.
-
-The following reactions have been reported after administration of other intravascular iodinated contrast media, and rarely with iohexol.
-Reactions due to technique: hematomas and ecchymoses.
-Hemodynamic reactions: vein cramp and thrombophlebitis following intravenous injection.
-Cardiovascular reactions: rare cases of cardiac arrhythmias, reflex tachycardia, chest pain, cyanosis, hypertension, hypotension, peripheral vasodilatation, shock, and cardiac arrest.
-Endocrine reactions: Thyroid function tests indicative of hypothyroidism or transient thyroid suppression have been uncommonly reported following iodinated contrast media administration to adult and pediatric patients, including infants.
-Some patients were treated for hypothyroidism.
-Renal reactions: occasionally, transient proteinuria, and rarely, oliguria or anuria.
-Allergic reactions: asthmatic attacks, nasal and conjunctival symptoms, dermal reactions such as urticaria with or without pruritus, as well as pleomorphic rashes, sneezing and lacrimation and, rarely, anaphylactic reactions.
-Rare fatalities have occurred, due to this or unknown causes.
-Signs and symptoms related to the respiratory system: pulmonary or laryngeal edema, bronchospasm, dyspnea; or to the nervous system: restlessness, tremors, convulsions.
-Other reactions: flushing, pain, warmth, metallic taste, nausea, vomiting, anxiety, headache, confusion, pallor, weakness, sweating, localized areas of edema, especially facial cramps, neutropenia, and dizziness.
-Rarely, immediate or delayed rigors can occur, sometimes accompanied by hyperpyrexia.
-Infrequently, "iodism" (salivary gland swelling) from organic iodinated compounds appears two days after exposure and subsides by the sixth day.
-
-In general, the reactions which are known to occur upon parenteral administration of iodinated contrast agents are possible with any nonionic agent.
-Approximately 95 percent of adverse reactions accompanying the use of water-soluble intravascularly administered contrast agents are mild to moderate in degree.
-However, severe, life-threatening anaphylactoid reactions, mostly of cardiovascular origin, have occurred.
-Reported incidences of death range from 6.6 per 1 million (0.00066 percent) to 1 in 10,000 (0.01 percent).
-Most deaths occur during injection or 5 to 10 minutes later; the main feature being cardiac arrest with cardiovascular disease as the main aggravating factor.
-Isolated reports of hypotensive collapse and shock are found in the literature.
-The incidence of shock is estimated to be 1 out of 20,000 (0.005 percent) patients.
-
-Adverse reactions to injectable contrast media fall into two categories: chemotoxic reactions and idiosyncratic reactions.
-
-Chemotoxic reactions result from the physicochemical properties of the contrast media, the dose, and speed of injection.
-All hemodynamic disturbances and injuries to organs or vessels perfused by the contrast medium are included in this category.
-
-Idiosyncratic reactions include all other reactions.
-They occur more frequently in patients 20 to 40 years old.
-Idiosyncratic reactions may or may not be dependent on the amount of dose injected, the speed of injection, and the radiographic procedure.
-Idiosyncratic reactions are subdivided into minor, intermediate, and severe.
-The minor reactions are self-limited and of short duration; the severe reactions are life-threatening and treatment is urgent and mandatory.
-
-The reported incidence of adverse reactions to contrast media in patients with a history of allergy are twice that of the general population.
-Patients with a history of previous reactions to a contrast medium are three times more susceptible than other patients.
-However, sensitivity to contrast media does not appear to increase with repeated examinations.
-
-Most adverse reactions to injectable contrast media appear within 1 to 3 minutes after the start of injection, but delayed reactions may occur.
-
-Regardless of the contrast agent employed, the overall estimated incidence of serious adverse reactions is higher with angiocardiography than with other procedures.
-Cardiac decompensation, serious arrhythmias, angina pectoris, or myocardial ischemia or infarction may occur during angiocardiography and left ventriculography.
-Electrocardiographic and hemodynamic abnormalities occur less frequently with OMNIPAQUE than with diatrizoate meglumine and diatrizoate sodium injection.
-
-# ADVERSE REACTIONS: Oral/Body Cavity Use—General
-
-## Body Cavities
-
-In controlled clinical trials involving 285 adult patients for various body cavity examinations using OMNIPAQUE 240, 300, and 350, the following adverse reactions were reported.
-
-Cardiovascular System
-
-Incidence > 1%: None
-
-Incidence ≤ 1%: Hypertension
-
-Nervous System
-
-Incidence > 1%: Pain (26%)
-
-Incidence ≤ 1%: Headache, somnolence, fever, muscle weakness, burning, unwell feeling, tremors, lightheadedness, syncope
-
-Respiratory System
-
-None
-
-Gastrointestinal System
-
-Incidence > 1%: None
-
-Incidence ≤ 1%: Flatulence, diarrhea, nausea, vomiting, abdominal pressure
-
-Skin and Appendages
-
-Incidence > 1%: Swelling (22%), heat (7%)
-
-Incidence ≤ 1%: Hematoma at injection site
-
-The most frequent reactions, pain and swelling, were almost exclusively reported after arthrography and were generally related to the procedure rather than the contrast medium.
-Gastrointestinal reactions were almost exclusively reported after oral pass-thru examinations.
-For additional information on adverse reactions that may be expected with specific procedures, see INDIVIDUAL INDICATIONS AND USAGE.
-For information on general adverse reactions to contrast media, see SECTION II, ADVERSE REACTIONS: Intravascular—General.
+Pediatric Patients
 
 No adverse reactions associated with the use of OMNIPAQUE for VCU procedures were reported in 51 pediatric patients studied.
 
-## Oral Use
+## 6.2 Post-marketing Experience
 
-See INDIVIDUAL INDICATIONS AND USAGE: Oral Use—Adverse Reactions.
+The following additional reactions listed by indication have been identified during post-approval use of OMNIPAQUE.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+General
+
+Immune System Disorders: Hypersensitivity reactions, anaphylactic or anaphylactoid reactions, anaphylactic or anaphylactoid shock including life-threatening or fatal anaphylaxis.
+
+General Disorders and Administration Site Conditions: Pyrexia, chills, pain and discomfort, asthenia, administration site conditions including extravasation.
+
+Intrathecal Administration
+
+Nervous System Disorders: Meningism, aseptic meningitis, seizures or status epilepticus, disorientation, coma, depressed or loss of consciousness, transient contrast-induced toxic encephalopathy (including amnesia, hallucination, paralysis, paresis, speech disorder, aphasia, dysarthria), restlessness, tremors, hypoesthesia.
+
+Musculoskeletal and Connective Tissue Disorders: Pain, muscle spasms or spasticity.
+
+Psychiatric Disorders: Confusional state, agitation, anxiety.
+
+Eye Disorders: Transient visual impairment including cortical blindness.
+
+Renal Reactions: Acute kidney injury.
+
+Intravascular Administration
+
+Cardiovascular Disorders: Severe cardiac complications (including cardiac arrest, cardiopulmonary arrest), shock, peripheral vasodilatation, palpitations, vasospasm including spasm of coronary arteries, myocardial infarction, syncope, cyanosis, pallor, flushing, chest pain.
+
+Hemodynamic Reactions: Vasospasm and thrombophlebitis following intravenous injection.
+
+Blood and Lymphatic System Disorders: Neutropenia.
+
+Nervous System Disorders: Disorientation, coma, depressed or loss of consciousness, transient contrast-induced toxic encephalopathy (including amnesia, hallucination, paralysis, paresis, speech disorder, aphasia, dysarthria), restlessness, tremors, hypoesthesia.
+
+Psychiatric Disorders: Confusional state, agitation.
+
+Eye Disorders: Eye irritation or itchiness, periorbital edema, ocular or conjunctival hyperemia, lacrimation.
+
+Renal Reactions: Acute kidney injury, toxic nephropathy (CIN), transient proteinuria, oliguria or anuria, increased serum creatinine.
+
+Gastrointestinal Disorders: Abdominal pain, pancreatitis aggravated, salivary gland enlargement.
+
+Endocrine Reactions: Hyperthyroidism.
+Thyroid function tests indicative of hypothyroidism or transient thyroid suppression have been uncommonly reported following iodinated contrast media administration to adult and pediatric patients, including infants.
+Some patients were treated for hypothyroidism.
+
+Respiratory; Thoracic, and Mediastinal Disorders: Respiratory distress, respiratory failure, pulmonary edema, bronchospasm, laryngospasm, throat irritation, throat tightness, laryngeal edema, wheezing, chest discomfort, asthmatic attack.
+
+Skin and Subcutaneous Tissue Disorders: Contrast media reactions range from mild (e.g. pleomorphic rashes, drug eruption, erythema and skin discoloration, blisters, hyperhidrosis, angioedema, localized areas of edema) to severe: [e.g.
+Stevens-Johnson syndrome and toxic epidermal necrolysis (SJS/TEN), bullous or exfoliative dermatitis, acute generalized exanthematous pustulosis (AGEP) and drug reaction with eosinophilia and systemic symptoms (DRESS)].
+
+Oral Administration
+
+Gastrointestinal Disorders: Dysphagia, abdominal pain.
+
+Body Cavity Administration
+
+Gastrointestinal Disorders: Pancreatitis.
+
+Musculoskeletal and Connective Tissue Disorders: Arthritis (arthrography).
