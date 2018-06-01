@@ -227,7 +227,7 @@ Pretreatment of 14 healthy volunteers with multiple doses of rifampin, 600 mg da
 Verapamil
 
 Verapamil is a substrate and inhibitor of CYP3A4 and P-gp; sirolimus concentrations should be monitored and a dose adjustment may be necessary; [see Drug Interactions (7.4)].
-The simultaneous oral administration of 2 mg daily of sirolimus oral solution and 180 mg q 12h of verapamil at steady state to 26 healthy volunteers significantly affected the bioavailability of sirolimus and verapamil.
+The simultaneous oral administration of 2 mg daily of sirolimus oral solution and 180 mg q 12h of verapamil at steady state to 25 healthy volunteers significantly affected the bioavailability of sirolimus and verapamil.
 Sirolimus Cmax and AUC were increased 2.3- and 2.2-fold, respectively, without substantial change in tmax.
 The Cmax and AUC of the pharmacologically active S(-) enantiomer of verapamil were both increased 1.5-fold and tmax was decreased by 1.2 hr.
 

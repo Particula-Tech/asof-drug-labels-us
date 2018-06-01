@@ -10,7 +10,7 @@ Zydus Pharmaceuticals (USA) Inc.
 
 Pennington, NJ 08534
 
-Rev.: 02/18
+Rev.: 05/18
 
 Manufactured by:
 

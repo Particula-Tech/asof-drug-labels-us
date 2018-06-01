@@ -166,7 +166,10 @@ In this population, the rate of pneumonia was 25.9% (15/58) versus 13.8% (4/29),
 
 In the subset of patients with a baseline glomerular filtration rate of greater than 40 mL/min, there was no benefit associated with conversion with regard to improvement in renal function and a greater incidence of proteinuria in the sirolimus conversion arm.
 
-Overall in this study, a 5-fold increase in the reports of tuberculosis among sirolimus 2.0% (11/551) and comparator 0.4% (1/273) treatment groups was observed with 2:1 randomization scheme.
+Overall in this study, a 5-fold increase in the reports of tuberculosis among sirolimus 2% (11/551) and comparator 0.4% (1/273) treatment groups was observed with 2:1 randomization scheme.
+
+In a second study evaluating the safety and efficacy of conversion from tacrolimus to sirolimus 3 months to 5 months post kidney transplant, a higher rate of adverse events, discontinuations due to adverse events, acute rejection, and new onset diabetes mellitus was observed following conversion to sirolimus.
+There was also no benefit with respect to renal function and a greater incidence of proteinuria was observed after conversion to sirolimus [see Clinical Studies (14.4)].
 
 ## 6.5 Pediatric Renal Transplant Patients
 
