@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "BLA761028"
+  ],
+  "inn": "bevacizumab",
+  "labeler": "Amgen Inc",
+  "package_ndcs": [
+    "55513-206-01",
+    "55513-207-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "bevacizumab-awwb",
+      "name": "MVASI"
+    }
+  ],
+  "setid": "0a562b4e-67ce-4bab-852c-d9ee71e55fb8",
+  "source": "dailymed"
+}
