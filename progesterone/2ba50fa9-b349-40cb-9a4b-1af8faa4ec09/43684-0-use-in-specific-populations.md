@@ -3,16 +3,16 @@
 ## 8.1 Pregnancy
 
 ENDOMETRIN has been used to support embryo implantation and maintain clinical pregnancy in one clinical study.
-The livebirth outcomes of these pregnancies were as follows:
+The live birth outcomes of these pregnancies were as follows:
 
-- Among the 404 subjects treated with ENDOMETRIN twice daily, 143 subjects had livebirths consisting of 85 singletons, 56 twins, and 2 triplets.
+- Among the 404 subjects treated with ENDOMETRIN twice daily, 143 subjects had live births consisting of 85 singletons, 56 twins, and 2 triplets.
   In this treatment group, 13 subjects had a spontaneous abortion, 1 subject had an ectopic pregnancy, and 7 subjects reported fetal birth defects (3.4% based on 203 livebirths).
 - Among the 404 subjects treated with ENDOMETRIN three times daily, 155 subjects had livebirths consisting of 91 singletons, 60 twins, and 4 triplets.
   In this treatment group, 22 subjects had a spontaneous abortion, 4 subjects had an ectopic pregnancy, and 7 subjects reported fetal birth defects (3.1% based on 223 livebirths).
 
 Birth defects reported in the ENDOMETRIN twice daily group included: one fetus with a cleft palate and intrauterine growth retardation, one fetus with spina bifida, three fetuses with congenital heart defects, one fetus with an umbilical hernia, and one fetus with an intestinal anomaly.
 
-Birth defects reported in the ENDOMETRIN three times daily group included: one fetus with an esophageal fistula, one fetus with hypospadias and an underdeveloped right ear, one fetus with Down's and an atrial septal defect, one fetus with congenital heart anomalies, one fetus with DiGeorge's syndrome, one fetus with a hand deformity, and one fetus with cleft palate.
+Birth defects reported in the ENDOMETRIN three times daily group included: one fetus with an esophageal fistula, one fetus with hypospadias and an underdeveloped right ear, one fetus with Down's Syndrome and an atrial septal defect, one fetus with congenital heart anomalies, one fetus with DiGeorge's syndrome, one fetus with a hand deformity, and one fetus with cleft palate.
 
 For additional information on the pharmacology of ENDOMETRIN and pregnancy outcome information [see Clinical Pharmacology (12) and Clinical Studies Sections (14)].
 

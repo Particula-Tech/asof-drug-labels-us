@@ -10,4 +10,4 @@ Store at 20 - 25°C (68 - 77°F); excursions permitted between 15 - 30°C (59 - 
 
 MANUFACTURED FOR: FERRING PHARMACEUTICALS INC. PARSIPPANY, NJ 07054
 
-6485-02 Revised: 09/2017
+6485-03 Revised: 01/2018
