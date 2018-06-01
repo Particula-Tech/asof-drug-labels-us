@@ -23,9 +23,7 @@ Pancreatitis occurred in less than 1% of patients during clinical trials and res
 Adverse reactions occurring in mesalamine delayed-release tablets or placebo groups at a frequency of at least 1% in two 8 week, doubleblind, placebo-controlled trials are listed in Table 1.
 The most common adverse reactions with mesalamine delayed-release tablets 2.4 g/day and 4.8 g/day were headache (5.6% and 3.4%, respectively) and flatulence (4% and 2.8%, respectively).
 
-Table 1
-
-Adverse Reactions in Two Eight-Week Placebo-Controlled Trials Experienced by at Least 1 % of the Mesalamine delayed-release Tablets Group and at a Rate Greater than Placeboa
+Table1 Adverse Reactions in Two Eight-Week Placebo-Controlled Trials Experienced by at Least 1 % of the Mesalamine delayed-release Tablets Group and at a Rate Greater than Placeboa
 
 | Adverse Reaction | Mesalamine Delayed-release Tablets 2.4 g/day (n = 177) | Mesalamine Delayed-release Tablets 4.8 g/day (n = 179) | Placebo (n = 179) |
 | --- | --- | --- | --- |
@@ -34,8 +32,7 @@ Adverse Reactions in Two Eight-Week Placebo-Controlled Trials Experienced by at 
 | Liver Function Test Abnormal | 1 (0.6%) | 4 (2.2%) | 2 (1.1%) |
 | Alopecia | 0 | 2 (1.1%) | 0 |
 | Pruritus | 1 (0.6%) | 2 (1.1%) | 2 (1.1%) |
-
-aAdverse reactions for which the placebo rate equalled or exceeded the rate for at least one of the mesalamine delayed-release tablets treatment groups were abdominal pain, dizziness, dyspepsia, and nausea.
+| a Adverse reactions for which the placebo rate equalled or exceeded the rate for at least one of the mesalamine delayed-release tablets treatment groups were abdominal pain, dizziness, dyspepsia, and nausea. |  |  |  |
 
 The following adverse reactions, presented by body system, were reported infrequently (less than 1%) by mesalamine delayed-release tablets-treated ulcerative colitis patients in the two controlled trials.
 
@@ -88,13 +85,10 @@ The most common adverse reactions with mesalamine delayed-release tablets in the
 Of the 1082 subjects in the all maintenance studies pooled, 1.9% had severe adverse reactions.
 The most common severe adverse reactions were gastrointestinal disorders; these were mainly symptoms associated with ulcerative colitis.
 
-Table 2
+Table 2 Adverse Reactions in Three Maintenance Trials Experienced by at Least 1% of the Mesalamine delayed-release tablets Group (maintenance phases of trials)
 
-Adverse Reactions in Three Maintenance Trials Experienced by at Least 1% of the Mesalamine delayed-release tablets Group (maintenance phases of trials)
-
-|  | All Mesalamine Delayed-release Tablets |  |
+|  | All Mesalamine Delayed-release Tablets (n=1082) |  |
 | --- | --- | --- |
-|  | (n=1082) |  |
 | Adverse Reaction | n | % |
 | Colitis ulcerative | 63 | (5.8%) |
 | Headache | 31 | (2.9%) |
@@ -107,8 +101,8 @@ Adverse Reactions in Three Maintenance Trials Experienced by at Least 1% of the 
 | Back pain | 13 | (1.2%) |
 | Rash | 13 | (1.2%) |
 | Arthralgia | 12 | (1.1%) |
-| Fatigue | 11 | (1.0%) |
-| Hypertension | 10 | (1.0%) |
+| Fatigue | 11 | (1%) |
+| Hypertension | 10 | (1%) |
 
 The following adverse reactions, presented by body system, were reported infrequently (less than 1%) by mesalamine delayed-release tablets-treated ulcerative colitis patients in the three long-term maintenance trials (maintenance phases of these trials):
 
@@ -118,7 +112,7 @@ tachycardia
 
 Skin and Subcutaneous Tissue Disorders
 
-acne, alopecia, pruritis, urticaria
+acne, alopecia, pruritus, urticaria
 
 Gastrointestinal Disorders
 
@@ -187,7 +181,7 @@ Hypersensitivity pneumonitis (including interstitial pneumonitis, allergic alveo
 
 Skin
 
-Psoriasis, pyoderma gangrenosum, erythema nodosum
+Psoriasis, pyoderma gangrenosum, erythema nodosum, photosensitivity
 
 Urogenital
 

@@ -30,9 +30,7 @@ The pharmacokinetic parameters are highly variable among subjects (Table 3).
 Mesalamine systemic exposure in terms of area under the plasma concentration-time curve (AUC) was slightly more than dose proportional between 1.2 g and 4.8 g mesalamine delayed-release tablets.
 Maximum plasma concentrations (Cmax) of mesalamine increased approximately dose proportionately between 1.2 g and 2.4 g and sub-proportionately between 2.4 g and 4.8 g mesalamine delayed-release tablets, with the dose normalized value at 4.8 g representing, on average, 74 % of that at 2.4 g based on geometric means.
 
-Table 3
-
-Mean (SD) PK Parameters for Mesalamine Following Single Dose Administration of Mesalamine Delayed-release Tablets Under Fasting Conditions
+Table 3 Mean (SD) PK Parameters for Mesalamine Following Single Dose Administration of Mesalamine Delayed-release Tablets Under Fasting Conditions
 
 | Parameter1 of Mesalamine | Mesalamine Delayed-release Tablets 1.2 g (N=47) | Mesalamine Delayed-release Tablets 2.4 g (N=48) | Mesalamine Delayed-release Tablets 4.8 g (N=48) |
 | --- | --- | --- | --- |
@@ -42,10 +40,8 @@ Mean (SD) PK Parameters for Mesalamine Following Single Dose Administration of M
 | Tmax* (h) | 9**(4 to 32.1) | 12 (4 to 34.1) | 12 (4 to 34) |
 | Tlag* (h) | 2** (0 to 8) | 2 (1 to 4) | 2 (1 to 4) |
 | T1/2 (h) (Terminal Phase) | 8.56• (6.38) | 7.05§ (5.54) | 7.25# (8.32) |
-
-1Arithmetic mean of parameter values are presented except for Tmax and Tlag.
-
-*Median (min, max); +N=43, •N=27, §N=33, #N=36, **N=46
+| 1Arithmetic mean of parameter values are presented except for Tmax and Tlag. |  |  |  |
+| *Median (min, max); +N=43, •N=27, §N=33, #N=36, **N=46 |  |  |  |
 
 Administration of a single dose of mesalamine delayed-release tablets 4.8 g with a high fat meal resulted in further delay in absorption, and plasma concentrations of mesalamine were detectable 4 hours following dosing.
 However, a high fat meal increased systemic exposure of mesalamine (mean Cmax: ↑ 91 %; mean AUC: ↑ 16 %) compared to results in the fasted state.
@@ -61,15 +57,18 @@ Increased age resulted in increased systemic exposure (approximately 2-fold in C
 Increased age resulted in a slower apparent elimination of mesalamine, though there was high between-subject variability.
 Systemic exposures in individual subjects were inversely correlated with renal function as assessed by estimated creatinine clearance.
 
-Table 4
+Table 4 Mean (SD) PK Parameters for Mesalamine Following Single Dose Administration of Mesalamine Delayed-release Tablets 4.8 g under Fasting Conditions to Young and Elderly Subjects
 
-Mean (SD) PK Parameters for Mesalamine Following Single Dose Administration of Mesalamine Delayed-release Tablets 4.8 g under Fasting Conditions to Young and Elderly Subjects
-
-| Parameter of 5-ASA | Young Subjects (18 to 35 yrs) (N=28) | Elderly Subjects (65 to 75 yrs) (N=28) | Elderly Subjects (> 75 yrs) (N=15) |
+| Parameter of 5-ASA | Young Subjects (18 to 35 yrs) (N=28) | Elderly Subjects (65 to 75 yrs) (N=28) | Elderly Subjects (>75 yrs) (N=15) |
 | --- | --- | --- | --- |
-| AUC0-t (ng.h/mL) AUC0-∞ (ng.h/mL) Cmax (ng/mL) tmaxa (h) tlaga (h) t½ (h), terminal phase Renal clearance (L/h) | 51570 (23870) 58057b (22429) 2243 (1410) 22 (5.98 to 48) 2 (1 to 6) 5.68b (2.83) 2.05 (1.33) | 73001 (42608) 89612c (40596) 4999 (4381) 12.5 (4 to 36) 2 (1 to 4) 9.68c (7.47) 2.04 (1.16) | 65820 (25283) 63067d (22531) 4832 (4383) 16 (4 to 26) 2 (2 to 4) 8.67d (5.84) 2.13 (1.20) |
-
-Arithmetic mean (SD) data are presented, N = Number of subjects a Median (min - max), bN=15, cN=16, dN=13
+| AUC0-t (ng.h/mL) | 51570 (23870) | 73001 (42608) | 65820 (25283) |
+| AUC0-∞ (ng.h/mL) Cmax (ng/mL) | 58057b (22429) 2243 (1410) | 89612c (40596) 4999 (4381) | 63067d (22531) 4832 (4383) |
+| tmaxa (h) | 22 (5.98 to 48) | 12.5 (4 to 36) | 16 (4 to 26) |
+| tlaga (h) | 2 (1 to 6) | 2 (1 to 4) | 2 (2 to 4) |
+| t½ (h), terminal phase | 5.68b (2.83) | 9.68c (7.47) | 8.67d (5.84) |
+| Renal clearance (L/h) | 2.05 (1.33) | 2.04 (1.16) | 2.13 (1.20) |
+| Arithmetic mean (SD) data are presented, N = Number of subjects |  |  |  |
+| a Median (min - max), bN=15, cN=16, dN=13 |  |  |  |
 
 Distribution
 

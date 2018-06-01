@@ -5,16 +5,14 @@
 Two similarly designed, randomized, doubleblind, placebo-controlled trials were conducted in 517 adult patients with active, mild to moderate ulcerative colitis.
 The study population was primarily Caucasian (80%), had a mean age of 42 years (6% age 65 years or older), and was approximately 50% male.
 Both studies used mesalamine delayed-release tablets doses of 2.4 g/day and 4.8 g/day administered once daily for 8 weeks except for the 2.4 g/day group in Study 1, which was given in two divided doses (1.2 g twice daily).
-The primary efficacy end-point in both trials was to compare the percentage of patients in remission after 8 weeks of treatment for the mesalamine delayed-release tablets treatment groups versus placebo.
+The primary efficacy endpoint in both trials was to compare the percentage of patients in remission after 8 weeks of treatment for the mesalamine delayed-release tablets treatment groups versus placebo.
 Remission was defined as an Ulcerative Colitis Disease Activity Index (UC-DAI) of ≤ 1, with scores of zero for rectal bleeding and for stool frequency, and a sigmoidoscopy score reduction of 1 point or more from baseline.
 
 In both studies, the mesalamine delayed-release tablets doses of 2.4 g/day and 4.8 g/day demonstrated superiority over placebo in the primary efficacy endpoint (Table 4).
 Both mesalamine delayed-release tablets doses also provided consistent benefit in secondary efficacy parameters, including clinical improvement, treatment failure, clinical remission, and sigmoidoscopic improvement.
 Mesalamine delayed-release tablets 2.4 g/day and 4.8 g/day had similar efficacy profiles.
 
-Table 5
-
-Patients in Remission at Week 8
+Table5 PatientsinRemissionatWeek8
 
 | Dose | Study 1 (n=262) n/N (%) | Study 2 (n=255) n/N (%) |
 | --- | --- | --- |
