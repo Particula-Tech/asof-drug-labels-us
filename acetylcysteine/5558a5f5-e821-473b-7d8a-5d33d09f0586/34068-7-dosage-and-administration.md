@@ -213,8 +213,7 @@ IF AN ASSAY FOR ACETAMINOPHEN CANNOT BE OBTAINED, IT IS NECESSARY TO ASSUME THAT
 Interpretation of Acetaminophen Assays:
 
 - 1.When results of the plasma acetaminophen assay are available refer to the nomogram below to determine if plasma concentration is in the potentially toxic range.
-  Values above the solid line connecting 200 mcg/mL at 4 hours with 50 mcg/mL at 12 hours are associated with a possibility of hepatic toxicity if an antidote is not administered.
-  (Do not wait for assay results to begin acetylcysteine treatment.)
+  Values above the solid line connecting 200 mcg/mL at 4 hours with 50 mcg/mL at 12 hours are associated with a possibility of hepatic toxicity if an antidote is not administered (do not wait for assay results to begin acetylcysteine treatment).
 - 2.
   If the predetoxification plasma level is above the broken line continue with maintenance doses of acetylcysteine.
   It is better to err on the safe side and thus the broken line is placed 25% below the solid line which defines possible toxicity.

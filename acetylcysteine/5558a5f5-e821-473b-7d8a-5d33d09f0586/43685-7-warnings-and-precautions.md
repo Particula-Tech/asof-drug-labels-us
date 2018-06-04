@@ -47,7 +47,7 @@ Females after mating were continued on treatment for the next 42 days.
 Reproductive toxicity studies of acetylcysteine in the rat given oral doses of acetylcysteine up to 1,000 mg/kg (5.2 times the human mucolytic dose) have also been reported in the literature1.
 The only adverse effect observed was a slight non-dose-related reduction in fertility at dose levels of 500 or 1,000 mg/kg/day (2.6 or 5.2 times the human dose) in the Segment 1 study.
 
-## Pregnancy: Teratogenic Effects: Pregnancy Category B
+## Pregnancy: Teratogenic Effects
 
 In a teratology study of acetylcysteine in the rabbit, oral doses of 500 mg/kg/day (2.6 times the human mucolytic dose) were administered to pregnant does by intubation on days 6 through 16 of gestation.
 Acetylcysteine was found to be nonteratogenic under the conditions of study.

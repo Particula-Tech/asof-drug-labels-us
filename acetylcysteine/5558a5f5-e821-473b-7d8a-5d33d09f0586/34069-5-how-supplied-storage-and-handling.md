@@ -4,8 +4,8 @@ Acetylcysteine Solution, USP is supplied in teartop vials as follows:
 
 | List No. | Volume | Concentration | Packaging |
 | --- | --- | --- | --- |
-| 3307 | 30 mL | 10% | Cartons of 3 |
-| 3308 | 30 mL | 20% | Cartons of 3 |
+| 0409-3307-03 | 30 mL | 10% | Cartons of 3 |
+| 0409-3308-03 | 30 mL | 20% | Cartons of 3 |
 
 The 20% solution may be diluted to a lesser concentration with either Sodium Chloride for Injection, Sodium Chloride for Inhalation, Sterile Water for Injection, or Sterile Water for Inhalation.
 The 10% solution may be used undiluted.

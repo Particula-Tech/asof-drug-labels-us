@@ -4,8 +4,8 @@
   Eur J Respir Dis 1981; 61(suppl 111):45−51.
 - 2.Am Rev Respir Dis 1960; 82:627−639.
 
-Revised: November, 2004
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-©Hospira 2004 EN-0689 Printed in USA
+LAB-1286-1.0
 
-HOSPIRA, INC., LAKE FOREST, IL 60045 USA
+Revised: 05/2018
