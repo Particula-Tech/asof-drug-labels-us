@@ -45,4 +45,4 @@ MANUFACTURED BY
 
 Pharmaceutical Associates, Inc. Greenville, SC 29605 www.paipharma.com
 
-R10/17
+R03/18

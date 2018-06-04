@@ -64,14 +64,14 @@ As the valproic acid dosage is titrated upward, blood concentrations of phenobar
 
 Antiepilepsy drugs should not be abruptly discontinued in patients in whom the drug is administered to prevent major seizures because of the strong possibility of precipitating status epilepticus with attendant hypoxia and threat to life.
 
-The following Table is a guide for the initial daily dose of valproic acid (15 mg/kg/day):
+The following table is a guide for the initial daily dose of valproic acid (15 mg/kg/day):
 
 Table 1.
 Initial Daily Dose
 
 | (Kg) | (Lb) |  | Dose 1 | Dose 2 | Dose 3 |
 | --- | --- | --- | --- | --- | --- |
-| Weight |  | Total Daily Dose (mg) | Teaspoonfuls of Oral Solution |  |  |
+| Weight |  | Total Daily Dose (mg) | Teaspoons of Oral Solution |  |  |
 | 10 - 24.9 | 22 - 54.9 | 250 | 0 | 0 | 1 |
 | 25 - 39.9 | 55 - 87.9 | 500 | 1 | 0 | 1 |
 | 40 - 59.9 | 88 - 131.9 | 750 | 1 | 1 | 1 |

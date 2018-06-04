@@ -50,3 +50,5 @@ This figure shows that the proportion of patients achieving any particular level
 For example, when switching from carbamazepine, phenytoin, phenobarbital or primidone monotherapy to high dose divalproex sodium monotherapy, 63% of patients experienced no change or a reduction in complex partial seizure rates compared to 54% of patients receiving low dose divalproex sodium.
 
 Figure 2
+
+Information on pediatric studies is presented in section 8.
