@@ -4,9 +4,9 @@ PRESERVATIVE FREE.
 
 Metoclopramide Injection, USP, 5 mg/mL metoclopramide base (present as the hydrochloride monohydrate) is supplied in the following:
 
-| Unit of Sale | Concentration | Each |
-| --- | --- | --- |
-| NDC 0409-3414-01Carton containing 25 Vials | 10 mg/2 mL(5 mg/mL) | NDC 0409-3414-18Single-use Vial |
+| Unit of Sale | Concentration |
+| --- | --- |
+| NDC 0409-3414-01 Tray containing 25 Vials | 10 mg/2 mL (5 mg/mL) |
 
 Store at 20 to 25°C (68 to 77°F).
 [See USP Controlled Room Temperature.]
@@ -21,8 +21,10 @@ Discard unused portion.
 
 Benadryl® is a registered trademark of Warner-Lambert Company.
 
-Cogentin® is a registered trademark of Merck & Co., Inc. Revised: 8/2015
+Cogentin® is a registered trademark of Merck & Co., Inc.
 
-EN-4016
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-Hospira, Inc., Lake Forest, IL 60045 USA
+LAB-1290-1.0
+
+Revised: 5/2018

@@ -102,7 +102,7 @@ Neither clinical studies nor epidemiologic studies conducted to date, however, h
 
 An Ames mutagenicity test performed on metoclopramide was negative.
 
-Pregnancy Category B
+Pregnancy
 
 Reproduction studies performed in rats, mice, and rabbits by the IM, IV, subcutaneous (SC), and oral routes at maximum levels ranging from 12 to 250 times the human dose have demonstrated no impairment of fertility or significant harm to the fetus due to metoclopramide.
 There are, however, no adequate and well-controlled studies in pregnant women.
@@ -122,8 +122,7 @@ Care should be exercised in administering metoclopramide to neonates since prolo
 In addition, neonates have reduced levels of NADH-cytochrome b5 reductase which, in combination with the aforementioned pharmacokinetic factors, make neonates more susceptible to methemoglobinemia (see OVERDOSAGE).
 
 The safety profile of metoclopramide in adults cannot be extrapolated to pediatric patients.
-Dystonias and other extrapyramidal reactions associated with metoclopramide are more common in the pediatric population than in adults.
-(See WARNINGS and ADVERSE REACTIONS – Extrapyramidal Reactions (EPS).)
+Dystonias and other extrapyramidal reactions associated with metoclopramide are more common in the pediatric population than in adults (see WARNINGS and ADVERSE REACTIONS – Extrapyramidal Reactions (EPS)).
 
 Geriatric Use
 

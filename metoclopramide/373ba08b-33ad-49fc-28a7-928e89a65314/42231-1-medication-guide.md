@@ -171,4 +171,12 @@ What are the ingredients in metoclopramide?
 
 Active ingredient: metoclopramide
 
-Inactive ingredients: sodium chloride, water, hydrochloric acid or sodium hydroxide Revised: 6/2012 Hospira, Inc., Lake Forest, IL 60045 USA This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Inactive ingredients: sodium chloride, water, hydrochloric acid or sodium hydroxide
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
+
+LAB-1291-1.0
+
+Revised: 4/2018

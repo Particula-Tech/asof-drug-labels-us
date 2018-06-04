@@ -7,5 +7,4 @@ Metoclopramide therapy should be discontinued in patients who develop signs or s
 There is no known treatment for tardive dyskinesia.
 In some patients, symptoms may lessen or resolve after metoclopramide treatment is stopped.
 
-Treatment with metoclopramide for longer than 12 weeks should be avoided in all but rare cases where therapeutic benefit is thought to outweigh the risk of developing tardive dyskinesia.
-(See WARNINGS.)
+Treatment with metoclopramide for longer than 12 weeks should be avoided in all but rare cases where therapeutic benefit is thought to outweigh the risk of developing tardive dyskinesia (see WARNINGS).
