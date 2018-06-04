@@ -89,9 +89,9 @@ Adverse reactions are pooled from Trial 2 and the first 12 weeks of Trials 1 and
 Table 6.
 Adverse Reactions Occurring in ≥2% in Xolair-Treated Patients and More Frequently than in Patients Treated with Placebo (Day 1 to Week 12) in CIU Trials
 
-|  | CIU Trials 1, 2 and 3 Pooled |  |  |
+| 150mg (n=175) | 300mg (n=412) | Placebo (n=242) |  |
 | --- | --- | --- | --- |
-| Adverse Reactionsby MedDRA (15.1) System Organ Class and Preferred Term | 150mg (n=175) | 300mg (n=412) | Placebo (n=242) |
+| Adverse Reactionsby MedDRA (15.1) System Organ Class and Preferred Term | CIU Trials 1, 2 and 3 Pooled |  |  |
 | Gastrointestinal disorders |  |  |  |
 | Nausea | 2 (1.1%) | 11 (2.7%) | 6 (2.5%) |
 | Infections and infestations |  |  |  |

@@ -20,22 +20,22 @@ Adult and adolescent patients 12 years of age and older: Initiate dosing accordi
 Table 1.
 Subcutaneous Xolair Doses Every 4 Weeks for Patients 12 Years of Age and Older with Asthma
 
-| Pre-treatment Serum IgE | Body Weight |  |  |  |
-| --- | --- | --- | --- | --- |
 | 30–60 kg | > 60–70 kg | > 70–90 kg | > 90–150 kg |  |
+| --- | --- | --- | --- | --- |
+| Pre-treatment Serum IgE | Body Weight |  |  |  |
 | ≥ 30–100 IU/mL | 150 mg | 150 mg | 150 mg | 300 mg |
 | > 100–200 IU/mL | 300 mg | 300 mg | 300 mg |  |
 | > 200–300 IU/mL | 300 mg |  |  |  |
-| > 300–400 IU/mL |  | SEE TABLE 2 |  |  |
+| > 300–400 IU/mL | SEE TABLE 2 |  |  |  |
 | > 400–500 IU/mL |  |  |  |  |
 | > 500–600 IU/mL |  |  |  |  |
 
 Table 2.
 Subcutaneous Xolair Doses Every 2 Weeks for Patients 12 Years of Age and Older with Asthma
 
-| Pre-treatment Serum IgE | Body Weight |  |  |  |
-| --- | --- | --- | --- | --- |
 | 30–60 kg | > 60–70 kg | > 70–90 kg | > 90–150 kg |  |
+| --- | --- | --- | --- | --- |
+| Pre-treatment Serum IgE | Body Weight |  |  |  |
 | ≥ 30–100 IU/mL |  | SEE TABLE 1 |  |  |
 | > 100–200 IU/mL |  | 225 mg |  |  |
 | > 200–300 IU/mL |  | 225 mg | 225 mg | 300 mg |
@@ -45,9 +45,6 @@ Subcutaneous Xolair Doses Every 2 Weeks for Patients 12 Years of Age and Older w
 | > 600–700 IU/mL | 375 mg |  |  |  |
 
 Pediatric patients 6 to <12 years of age: Initiate dosing according to Table 3.
-
-| Table 3. Subcutaneous Xolair Doses Every 2 or 4 Weeks* for Pediatric Patients with Asthma Who Begin Xolair Between the Ages of 6 to <12 Years |
-| --- |
 
 ## 2.2 Dosage for Chronic Idiopathic Urticaria
 
@@ -75,7 +72,7 @@ The supplied Xolair lyophilized powder must be reconstituted with Sterile Water 
   It is acceptable if there are a few small bubbles or foam around the edge of the vial; there should be no visible gel-like particles in the reconstituted solution.
   Do not use if foreign particles are present.
 - 7)Invert the vial for 15 seconds in order to allow the solution to drain toward the stopper.
-- 8)Use the Xolair solution within 8 hours following reconstitution when stored in the vial at 2 to 8ºC (36 to 46ºF), or within 4 hours of reconstitution when stored at room temperature.
+- 8)Use the Xolair solution within 8 hours following reconstitution when stored in the vial at 2 to 8°C (36 to 46°F), or within 4 hours of reconstitution when stored at room temperature.
   Reconstituted Xolair vials should be protected from sunlight.
 - 9)Using a new 3 mL syringe equipped with a 1-inch, 18-gauge needle, insert the needle into the inverted vial.
   Position the needle tip at the very bottom of the solution in the vial stopper when drawing the solution into the syringe.

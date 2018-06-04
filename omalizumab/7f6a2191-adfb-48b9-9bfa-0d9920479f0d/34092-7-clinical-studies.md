@@ -61,9 +61,9 @@ Frequency of Asthma Exacerbations per Patient by Phase in Trials 1 and 2
 Table 8.
 Asthma Symptoms and Pulmonary Function During Stable Steroid Phase of Trial 1
 
-|  | Xolair N = 268Number of patients available for analysis ranges 255-258 in the Xolair group and 238-239 in the placebo group. |  | Placebo N = 257 |  |
-| --- | --- | --- | --- | --- |
 | Endpoint | Mean Baseline | Median Change (Baseline to Wk 16) | Mean Baseline | Median Change (Baseline to Wk 16) |
+| --- | --- | --- | --- | --- |
+|  | Xolair N = 268Number of patients available for analysis ranges 255-258 in the Xolair group and 238-239 in the placebo group. |  | Placebo N = 257 |  |
 | Total asthma symptom score | 4.3 | –1.5Comparison of Xolair versus placebo (p < 0.05). | 4.2 | –1.1 |
 | Nocturnal asthma score | 1.2 | –0.4 | 1.1 | –0.2 |
 | Daytime asthma score | 2.3 | –0.9 | 2.3 | –0.6 |
@@ -144,19 +144,19 @@ The 75-mg dose did not demonstrate consistent evidence of efficacy and is not ap
 Table 10.
 Change from Baseline to Week 12 in Weekly Itch Severity Score and Weekly Hive Count Score in CIU Trial 1 Modified intent-to-treat (mITT) population: all patients who were randomized and received at least one dose of study medication.
 
-|  | Xolair 75mg | Xolair 150mg | Xolair 300mg | Placebo |
-| --- | --- | --- | --- | --- |
 | n | 77 | 80 | 81 | 80 |
+| --- | --- | --- | --- | --- |
+|  | Xolair 75mg | Xolair 150mg | Xolair 300mg | Placebo |
 | Weekly Itch Severity Score |  |  |  |  |
 | Mean Baseline Score (SD) | 14.5 (3.6) | 14.1 (3.8) | 14.2 (3.3) | 14.4 (3.5) |
 | Mean Change Week 12(SD) | -6.46 (6.14) | -6.66 (6.28) | -9.40 (5.73) | -3.63 (5.22) |
 | Difference in LS means vs. placebo | -2.96 | -2.95 | -5.80 |  |
-| 95% CI for difference | –4.71, –1.21 | –4.72, –1.18 | –7.49, –4.10 | - |
+| 95% CI for difference | −4.71, −1.21 | −4.72, −1.18 | −7.49, −4.10 | - |
 | Weekly Hive Count Score Score measured on a range of 0–21 |  |  |  |  |
 | Mean Baseline Score (SD) | 17.2 (4.2) | 16.2 (4.6) | 17.1 (3.8) | 16.7 (4.4) |
 | Mean Change Week 12(SD) | -7.36 (7.52) | -7.78 (7.08) | -11.35 (7.25) | -4.37 (6.60) |
 | Difference in LS means vs. placebo | -2.75 | -3.44 | -6.93 |  |
-| 95% CI for difference | –4.95, –0.54 | –5.57, –1.32 | –9.10, –4.76 | - |
+| 95% CI for difference | −4.95, −0.54 | −5.57, −1.32 | −9.10, −4.76 | - |
 
 The mean weekly itch severity score at each study week by treatment groups is shown in Figure 1.
 Representative results from CIU Trial 1 are shown; similar results were observed in CIU Trial 2.
