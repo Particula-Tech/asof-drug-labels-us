@@ -95,7 +95,7 @@ Administration of paclitaxel prior to and during mating produced impairment of f
 At this dose, paclitaxel caused reduced fertility and reproductive indices, and increased embryo- and fetotoxicity.
 (See WARNINGS section.)
 
-Pregnancy: Pregnancy Category D. (See WARNINGS section.)
+Pregnancy: (See WARNINGS section.)
 
 Nursing Mothers: It is not known whether the drug is excreted in human milk.
 Following intravenous administration of carbon-14 labeled paclitaxel to rats on days 9 to 10 postpartum, concentrations of radioactivity in milk were higher than in plasma and declined in parallel with the plasma concentrations.

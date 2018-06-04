@@ -24,12 +24,8 @@ IVEX-2® is a registered trademark of the Millipore Corporation.
 
 Chemo Dispensing Pin™ is a trademark of B. Braun Medical Incorporated.
 
-Revised: 07/2013
+Distributed by Hospira Inc., Lake Forest, IL 60045 USA
 
-434104
+LAB-1315-1.0
 
-Hospira, Inc.
-
-Lake Forest, IL 60045 USA
-
-Product of Australia
+Revised: 05/2018
