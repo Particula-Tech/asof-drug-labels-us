@@ -19,13 +19,21 @@ Infrequently, signs and symptoms of glucocorticosteroid insufficiency may occur,
 
 Pediatric patients may be more susceptible to systemic toxicity from equivalent doses due to their larger skin surface to body mass ratios [see Use in Specific Populations (8.4)].
 
-## 5.2 Allergic Contact Dermatitis
+## 5.2 Ophthalmic Adverse Reactions
+
+Use of topical corticosteroids may increase the risk of posterior subcapsular cataracts and glaucoma.
+Cataracts and glaucoma have been reported in postmarketing experience with the use of topical corticosteroid products, including the topical mometasone products [see Adverse Reactions (6.2)].
+
+Avoid contact of ELOCON Ointment with eyes.
+Advise patients to report any visual symptoms and consider referral to an ophthalmologist for evaluation.
+
+## 5.3 Allergic Contact Dermatitis
 
 If irritation develops, ELOCON Ointment should be discontinued and appropriate therapy instituted.
 Allergic contact dermatitis with corticosteroids is usually diagnosed by observing failure to heal rather than noting a clinical exacerbation.
 Such an observation should be corroborated with appropriate diagnostic patch testing.
 
-## 5.3 Concomitant Skin Infections
+## 5.4 Concomitant Skin Infections
 
 If concomitant skin infections are present or develop, an appropriate antifungal or antibacterial agent should be used.
 If a favorable response does not occur promptly, use of ELOCON Ointment should be discontinued until the infection has been adequately controlled.
