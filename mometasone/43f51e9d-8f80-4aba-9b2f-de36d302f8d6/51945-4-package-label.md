@@ -1,8 +1,6 @@
-PRINCIPAL DISPLAY PANEL - 15 g Tube Carton (0085-3149-01)
+# PRINCIPAL DISPLAY PANEL - 15 g Tube Carton
 
-NDC 0085-3149-01
-
-15 g
+NDC 0085-3149-01 15 g
 
 ELOCON® (mometasone furoate) Cream, 0.1%
 

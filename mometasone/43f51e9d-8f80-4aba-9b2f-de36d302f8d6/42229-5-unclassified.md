@@ -2,6 +2,8 @@ Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., 
 
 Manufactured by: Schering-Plough Labo NV Heist-op-den-Berg, Belgium
 
-Copyright © 1987, 2008, 2012 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+For patent information: www.merck.com/product/patent/home.html
 
-032088-EL-CR-USPI.7
+Copyright © 1987-2018 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+
+uspi-mk0887-cr-1805r008

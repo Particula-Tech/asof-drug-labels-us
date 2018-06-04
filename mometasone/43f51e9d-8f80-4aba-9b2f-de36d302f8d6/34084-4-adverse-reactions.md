@@ -1,5 +1,7 @@
 # 6 ADVERSE REACTIONS
 
+## 6.1 Clinical Trials Experience
+
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
 In controlled clinical trials involving 319 subjects, the incidence of adverse reactions associated with the use of ELOCON Cream was 1.6%.
@@ -11,5 +13,11 @@ Reported reactions included stinging, pruritus, and furunculosis.
 The following adverse reactions were reported to be possibly or probably related to treatment with ELOCON Cream during clinical trials in 4% of 182 pediatric subjects 6 months to 2 years of age: decreased glucocorticoid levels, 2; paresthesia, 2; folliculitis, 1; moniliasis, 1; bacterial infection, 1; skin depigmentation, 1.
 The following signs of skin atrophy were also observed among 97 subjects treated with ELOCON Cream in a clinical trial: shininess, 4; telangiectasia, 1; loss of elasticity, 4; loss of normal skin markings, 4; thinness, 1; and bruising, 1.
 
-The following additional local adverse reactions have been reported with topical corticosteroids, but may occur more frequently with the use of occlusive dressings.
-These reactions are: irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, striae, and miliaria.
+## 6.2 Postmarketing Experience
+
+Because adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Postmarketing reports for local adverse reactions to topical corticosteroids include irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, striae, and miliaria.
+These adverse reactions may occur more frequently with the use of occlusive dressings.
+
+Postmarketing reports for ophthalmic adverse reactions to topical corticosteroids include blurred vision, cataracts, glaucoma, increased intraocular pressure, and central serous chorioretinopathy.
