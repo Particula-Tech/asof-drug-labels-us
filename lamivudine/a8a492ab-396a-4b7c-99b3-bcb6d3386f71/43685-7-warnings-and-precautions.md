@@ -1,14 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Lactic Acidosis and Severe Hepatomegaly with Steatosis
-
-Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues and other antiretrovirals.
-A majority of these cases have been in women.
-Obesity and prolonged nucleoside exposure may be risk factors.
-Caution should be exercised when administering lamivudine to any patient with known risk factors for liver disease; however, cases also have been reported in patients with no known risk factors.
-Treatment with lamivudine should be suspended in any patient who develops clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity (which may include hepatomegaly and steatosis even in the absence of marked transaminase elevations).
-
-## 5.2 Patients with Hepatitis B Virus Co-infection
+## 5.1 Patients with Hepatitis B Virus Co-infection
 
 Posttreatment Exacerbations of Hepatitis Clinical and laboratory evidence of exacerbations of hepatitis have occurred after discontinuation of lamivudine.
 These exacerbations have been detected primarily by serum ALT elevations in addition to re-emergence of HBV DNA.
@@ -27,6 +19,13 @@ Emergence of Lamivudine-Resistant HBV
 
 Safety and efficacy of lamivudine have not been established for treatment of chronic hepatitis B in subjects dually infected with HIV-1 and HBV (see full prescribing information for EPIVIR-HBV).
 Emergence of hepatitis B virus variants associated with resistance to lamivudine has also been reported in HIV-1-infected subjects who have received lamivudine-containing antiretroviral regimens in the presence of concurrent infection with hepatitis B virus.
+
+## 5.2 Lactic Acidosis and Severe Hepatomegaly with Steatosis
+
+Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues, including lamivudine.
+A majority of these cases have been in women.
+Female sex and obesity may be risk factors for the development of lactic acidosis and severe hepatomegaly with steatosis in patients treated with antiretroviral nucleoside analogues.
+Treatment with lamivudine should be suspended in any patient who develops clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity, which may include hepatomegaly and steatosis even in the absence of marked transaminase elevations.
 
 ## 5.3 Use with Interferon- and Ribavirin-Based Regimens
 
@@ -54,9 +53,3 @@ Pediatric subjects who received lamivudine oral solution (at weight band-based d
 Lamivudine scored tablet is the preferred formulation for HIV-1-infected pediatric patients who weigh at least 14 kg and for whom a solid dosage form is appropriate.
 An all-tablet regimen should be used when possible to avoid a potential interaction with sorbitol [see Clinical Pharmacology (12.3)].
 Consider more frequent monitoring of HIV-1 viral load when treating with lamivudine oral solution.
-
-## 5.7 Fat Redistribution
-
-Redistribution/accumulation of body fat including central obesity, dorsocervical fat enlargement (buffalo hump), peripheral wasting, facial wasting, breast enlargement, and “cushingoid appearance” have been observed in patients receiving antiretroviral therapy.
-The mechanism and long-term consequences of these events are currently unknown.
-A causal relationship has not been established.

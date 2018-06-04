@@ -3,7 +3,7 @@
 ## 2.1 Recommended Dosage for Adult Patients
 
 The recommended dosage of lamivudine tablets in HIV-1-infected adults is 300 mg daily, administered as either 150 mg taken orally twice daily or 300 mg taken orally once daily with or without food.
-If lamivudine is administered to a patient infected with HIV-1 and HBV, the dosage indicated for HIV-1 therapy should be used as part of an appropriate combination regimen [see Warnings and Precautions (5.2)].
+If lamivudine is administered to a patient infected with HIV-1 and HBV, the dosage indicated for HIV-1 therapy should be used as part of an appropriate combination regimen [see Warnings and Precautions (5.1)].
 
 ## 2.2 Recommended Dosage for Pediatric Patients
 
@@ -19,7 +19,7 @@ Dosing Recommendations for Lamivudine Scored (150 mg) Tablets in Pediatric Patie
 | --- | --- | --- | --- | --- |
 | Once-Daily Dosing Regimena | AM Dose | PM Dose | Total Daily Dose |  |
 | 14 to <20 | 1 tablet (150 mg) | ½ tablet (75 mg) | ½ tablet (75 mg) | 150 mg |
-| ≥ 20to <25 | 1½ tablets (225 mg) | ½ tablet (75 mg) | 1 tablet (150 mg) | 225 mg |
+| ≥20 to <25 | 1½ tablets (225 mg) | ½ tablet (75 mg) | 1 tablet (150 mg) | 225 mg |
 | ≥25 | 2 tablets (300 mg)b | 1 tablet (150 mg) | 1 tablet (150 mg) | 300 mg |
 | a Data regarding the efficacy of once-daily dosing is limited to subjects who transitioned from twice-daily dosing to once-daily dosing after 36 weeks of treatment [see Clinical Studies (14.2)]. b Patients may alternatively take one 300 mg tablet, which is not scored. |  |  |  |  |
 

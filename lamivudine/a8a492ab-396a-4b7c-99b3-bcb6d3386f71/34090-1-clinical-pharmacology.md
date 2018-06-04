@@ -58,7 +58,7 @@ The effects of renal impairment on lamivudine pharmacokinetics in pediatric pati
 Patients with Hepatic Impairment: The pharmacokinetic properties of lamivudine have been determined in adults with impaired hepatic function.
 Pharmacokinetic parameters were not altered by diminishing hepatic function.
 Safety and efficacy of lamivudine have not been established in the presence of decompensated liver disease.
-Pregnancy: Lamivudine pharmacokinetics were studied in 36 pregnant women during 2 clinical trials conducted in South Africa.
+Pregnant Women: Lamivudine pharmacokinetics were studied in 36 pregnant women during 2 clinical trials conducted in South Africa.
 Lamivudine pharmacokinetics in pregnant women were similar to those seen in non-pregnant adults and in postpartum women.
 Lamivudine concentrations were generally similar in maternal, neonatal, and umbilical cord serum samples.
 Pediatric Patients: The pharmacokinetics of lamivudine have been studied after either single or repeat doses of lamivudine in 210 pediatric subjects.
@@ -74,7 +74,8 @@ All 3 trials were 2-period, crossover, open-label pharmacokinetic trials of twic
 These 3 trials demonstrated that once-daily dosing provides similar AUC0-24 to twice-daily dosing of lamivudine at the same total daily dose when comparing the dosing regimens within the same formulation (i.e., either the oral solution or the tablet formulation).
 The mean Cmax was approximately 80% to 90% higher with lamivudine once-daily dosing compared with twice-daily dosing.
 
-Table 8: Pharmacokinetic Parameters (Geometric Mean [95% CI]) after Repeat Dosing of Lamivudine in 3 Pediatric Trials
+Table 8.
+Pharmacokinetic Parameters (Geometric Mean [95% CI]) after Repeat Dosing of Lamivudine in 3 Pediatric Trials
 
 |  | Trial (Number of Subjects) |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -84,7 +85,7 @@ Table 8: Pharmacokinetic Parameters (Geometric Mean [95% CI]) after Repeat Dosin
 | Parameter | Once Daily | Twice Daily | Once Daily | Twice Daily | Once Daily | Twice Daily |
 | Cmax (mcg/mL) | 3.17 (2.76, 3.64) | 1.80 (1.59, 2.04) | 2.09 (1.80, 2.42) | 1.11 (0.96, 1.29) | 1.87 (1.65, 2.13) | 1.05 (0.88, 1.26) |
 | AUC(0-24) (mcg•h/mL) | 13.0 (11.4, 14.9) | 12.0 (10.7, 13.4) | 9.80 (8.64, 11.1) | 8.88 (7.67, 10.3) | 8.66 (7.46, 10.1) | 9.48 (7.89, 11.4) |
-| a n= 16 for PENTA-15 Cmax. b Solution was dosed at 8 mg per kg per day. c Five subjects in PENTA-13 received lamivudine tablets. |  |  |  |  |  |  |
+| a n = 16 for PENTA-15 Cmax. b Solution was dosed at 8 mg per kg per day. c Five subjects in PENTA-13 received lamivudine tablets. |  |  |  |  |  |  |
 
 Distribution of lamivudine into cerebrospinal fluid (CSF) was assessed in 38 pediatric subjects after multiple oral dosing with lamivudine.
 CSF samples were collected between 2 and 4 hours postdose.
@@ -95,7 +96,7 @@ There is insufficient information to establish the time course of changes in cle
 Geriatric Patients: The pharmacokinetics of lamivudine after administration of lamivudine to subjects over 65 years have not been studied [see Use in Specific Populations (8.5)].
 Male and Female Patients: There are no significant or clinically relevant gender differences in lamivudine pharmacokinetics.
 Racial Groups: There are no significant or clinically relevant racial differences in lamivudine pharmacokinetics.
-Drug Interaction Studies Effect of Lamivudine on the Pharmacokinetics of Other Agents: Based on in vitro study results, lamivudine at therapeutic drug exposures is not expected to affect the pharmacokinetics of drugs that are substrates of the following transporters: organic anion transporter polypeptide 1B1/3 (OATP1B1/3), breast cancer resistance protein (BCRP), P-glycoprotein (P-gp), multidrug and toxin extrusion protein 1 (MATE1), MATE2-K, organic cation transporter 1 (OCT1), OCT2, or OCT3.
+Drug Interaction Studies Effect of Lamivudine on the Pharmacokinetics of Other Agents: Based on in vitro study results, lamivudine at therapeutic drug exposures is not expected to affect the pharmacokinetics of drugs that are substrates of the following transporters: organic anion transporter polypeptide 1B1/3 (OATP1B1/3), breast cancer resistance protein (BCRP), P-glycoprotein (P-gp), multidrug and toxin extrusion protein 1 (MATE)1, MATE2-K, organic cation transporter 1 (OCT)1, OCT2, or OCT3.
 Effect of Other Agents on the Pharmacokinetics of Lamivudine: Lamivudine is a substrate of MATE1, MATE2-K, and OCT2 in vitro.
 Trimethoprim (an inhibitor of these drug transporters) has been shown to increase lamivudine plasma concentrations.
 This interaction is not considered clinically significant as no dose adjustment of lamivudine is needed.
@@ -104,9 +105,9 @@ Therefore, coadministration of drugs that are inhibitors of these efflux transpo
 Interferon Alfa: There was no significant pharmacokinetic interaction between lamivudine and interferon alfa in a trial of 19 healthy male subjects [see Warnings and Precautions (5.3)].
 Ribavirin: In vitro data indicate ribavirin reduces phosphorylation of lamivudine, stavudine, and zidovudine.
 However, no pharmacokinetic (e.g., plasma concentrations or intracellular triphosphorylated active metabolite concentrations) or pharmacodynamic (e.g., loss of HIV-1/HCV virologic suppression) interaction was observed when ribavirin and lamivudine (n = 18), stavudine (n = 10), or zidovudine (n = 6) were coadministered as part of a multi-drug regimen to HIV-1/HCV co-infected subjects [see Warnings and Precautions (5.3)].
-Sorbitol (Excipient): Lamivudine and sorbitol solutions were coadministered to 16 healthy adult subjects in an open-label, randomized sequence, 4-period, crossover trial.
-Each subject received a single 300mg dose of lamivudine oral solution alone or coadministered with a single dose of 3.2 grams, 10.2 grams, or 13.4 grams of sorbitol in solution.
-Coadministration of lamivudine with sorbitol resulted in dose-dependent decreases of 20%, 39%, and 44% in the AUC(0-24), 14%, 32%, and 36% in the AUC(∞), and 28%, 52%, and 55% in the Cmax of lamivudine.
+Sorbitol (Excipient): Lamivudine and sorbitol solutions were coadministered to 16 healthy adult subjects in an open-label, randomized-sequence, 4-period, crossover trial.
+Each subject received a single 300 mg dose of lamivudine oral solution alone or coadministered with a single dose of 3.2 grams, 10.2 grams, or 13.4 grams of sorbitol in solution.
+Coadministration of lamivudine with sorbitol resulted in dose-dependent decreases of 20%, 39%, and 44% in the AUC(0-24), 14%, 32%, and 36% in the AUC(∞), and 28%, 52%, and 55% in the Cmax; of lamivudine, respectively.
 Trimethoprim/Sulfamethoxazole: Lamivudine and TMP/SMX were coadministered to 14 HIV-1-positive subjects in a single-center, open-label, randomized, crossover trial.
 Each subject received treatment with a single 300 mg dose of lamivudine and TMP 160 mg/SMX 800 mg once a day for 5 days with concomitant administration of lamivudine 300 mg with the fifth dose in a crossover design.
 Coadministration of TMP/SMX with lamivudine resulted in an increase of 43% ± 23% (mean ± SD) in lamivudine AUC∞, a decrease of 29% ± 13% in lamivudine oral clearance, and a decrease of 30% ± 36% in lamivudine renal clearance.
