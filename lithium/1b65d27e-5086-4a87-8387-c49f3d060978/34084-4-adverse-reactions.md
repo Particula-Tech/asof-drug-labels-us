@@ -13,15 +13,12 @@ These side effects usually subside with continued treatment or with a temporary 
 If persistent, a cessation of lithium therapy may be required.
 Diarrhea, vomiting, drowsiness, muscular weakness, and lack of coordination may be early signs of lithium intoxication, and can occur at lithium concentrations below 2 mEq/L.
 At higher concentrations, giddiness, ataxia, blurred vision, tinnitus, and a large output of dilute urine may be seen.
-Serum lithium concentrations above 3 mEq/L. may produce a complex clinical picture involving multiple organs and organ systems.
+Serum lithium concentrations above 3 mEq/L may produce a complex clinical picture involving multiple organs and organ systems.
 Serum lithium concentrations should not be permitted to exceed 2 mEq/L during the acute treatment phase.
 
 The following reactions have been reported and appear to be related to serum lithium concentrations, including concentrations within the therapeutic range:
 
 Central Nervous System: tremor, muscle hyperirritability (fasciculations, twitching, clonic movements of whole limbs), hypertonicity, ataxia, choreoathetotic movements, hyperactive deep tendon reflex, extrapyramidal symptoms including acute dystonia, cogwheel rigidity, blackout spells, epileptiform seizures, slurred speech, dizziness, vertigo, downbeat nystagmus, incontinence of urine or feces, somnolence, psychomotor retardation, restlessness, confusion, stupor, coma, tongue movements, tics, tinnitus, hallucinations, poor memory, slowed intellectual functioning, startled response, worsening of organic brain syndromes.
-Cases of Pseudotumor cerebri (increased intracranial pressure and papilledema) have been reported with lithium use.
-If undetected, this condition may result in enlargement of the blind spot, constriction of visual fields, and eventual blindness due to optic atrophy.
-Lithium should be discontinued, if clinically possible, if this syndrome occurs.
 Cardiovascular: cardiac arrhythmia, hypotension, peripheral circulatory collapse, bradycardia, sinus node dysfunction with severe bradycardia (which may result in syncope), Unmasking of Brugada Syndrome (See WARNINGS and PATIENT COUNSELING INFORMATION).
 Gastrointestinal: anorexia, nausea, vomiting, diarrhea, gastritis, salivary gland swelling, abdominal pain, excessive salivation, flatulence, indigestion.
 Genitourinary: glycosuria, decreased creatinine clearance, albuminuria, oliguria, and symptoms of nephrogenic diabetes insipidus including polyuria, thirst and polydipsia.
