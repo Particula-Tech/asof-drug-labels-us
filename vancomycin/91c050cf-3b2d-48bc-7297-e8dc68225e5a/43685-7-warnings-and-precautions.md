@@ -70,8 +70,6 @@ No definitive fertility studies have been performed.
 
 Teratogenic Effects
 
-Pregnancy Category C
-
 Animal reproduction studies have not been conducted with vancomycin.
 It is not known whether vancomycin can affect reproduction capacity.
 In a controlled clinical study, the potential ototoxic and nephrotoxic effects of vancomycin on infants were evaluated when the drug was administered to pregnant women for serious staphylococcal infections complicating intravenous drug abuse.

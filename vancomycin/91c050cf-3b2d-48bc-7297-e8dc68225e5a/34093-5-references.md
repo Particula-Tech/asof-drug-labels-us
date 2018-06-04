@@ -15,10 +15,8 @@
 - 4.Moellering RC, Krogstad DJ, Greenblatt DJ: Vancomycin therapy in patients with impaired renal function: A nomogram for dosage.
   Ann Inter Med 1981;94:343.
 
-Revised: 10/2015
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-ISOLYTE® E is a registered trademark of B. Braun
+LAB-1190-1.0
 
-EN-4062
-
-Hospira, Inc., Lake Forest, IL 60045 USA
+Revised: 05/2018
