@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA065255"
+  ],
+  "inn": "amoxicillin",
+  "labeler": "West-Ward Pharmaceuticals Corp",
+  "package_ndcs": [
+    "0143-9285-01",
+    "0143-9285-20"
+  ],
+  "products": [
+    {
+      "form": "TABLET, COATED",
+      "generic": "amoxicillin",
+      "name": "Amoxicillin"
+    }
+  ],
+  "setid": "c8591c2a-92ef-4432-b19a-bb46063047ee",
+  "source": "dailymed"
+}
