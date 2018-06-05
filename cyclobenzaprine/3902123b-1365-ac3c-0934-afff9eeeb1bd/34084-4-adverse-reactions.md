@@ -47,7 +47,7 @@ Hematologic and Lymphatic: Purpura; bone marrow depression; leukopenia; eosinoph
 
 Hypersensitivity: Anaphylaxis; angioedema; pruritus; facial edema; urticaria; rash.
 
-Metabolic, Nutritional and Immune: Elevation and lowering of blood sugar levels; weight gain or loss.
+Metabolic, Nutritional, and Immune: Elevation and lowering of blood sugar levels; weight gain or loss.
 
 Musculoskeletal: Local weakness; myalgia.
 

@@ -5,5 +5,5 @@ Improvement is manifested by relief of muscle spasm and its associated signs and
 
 Limitations of Use:
 
-1. •AMRIX should be used only for short periods (up to two or three weeks) because adequate evidence of effectiveness for more prolonged use is not available and because muscle spasm associated with acute, painful musculoskeletal conditions is generally of short duration and specific therapy for longer periods is seldom warranted.
-2. •AMRIX has not been found effective in the treatment of spasticity associated with cerebral or spinal cord disease or in children with cerebral palsy.
+- AMRIX should be used only for short periods (up to two or three weeks) because adequate evidence of effectiveness for more prolonged use is not available and because muscle spasm associated with acute, painful musculoskeletal conditions is generally of short duration and specific therapy for longer periods is seldom warranted.
+- AMRIX has not been found effective in the treatment of spasticity associated with cerebral or spinal cord disease or in children with cerebral palsy.

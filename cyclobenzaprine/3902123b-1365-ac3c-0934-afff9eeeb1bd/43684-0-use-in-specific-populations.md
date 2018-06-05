@@ -19,16 +19,14 @@ Because cyclobenzaprine is closely related to the tricyclic antidepressants, som
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of AMRIX has not been studied in pediatric patients.
+Safety and effectiveness of AMRIX have not been studied in pediatric patients.
 
 ## 8.5 Geriatric Use
 
 Clinical studies of AMRIX did not include sufficient numbers of patients aged 65 and over to determine the safety and efficacy of AMRIX in the elderly population.
 The plasma concentration and half-life of cyclobenzaprine are substantially increased in the elderly when compared to the general patient population.
-Accordingly, use of AMRIX is not recommended in the elderly.
-[See Warnings and Precautions (5.3) and Clinical Pharmacology (12.3)]
+Accordingly, use of AMRIX is not recommended in the elderly [see Warnings and Precautions (5.3) and Clinical Pharmacology (12.3)].
 
 ## 8.6 Hepatic Impairment
 
-The use of AMRIX is not recommended in patients with mild, moderate or severe hepatic impairment.
-[See Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)]
+The use of AMRIX is not recommended in patients with mild, moderate, or severe hepatic impairment [see Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)].

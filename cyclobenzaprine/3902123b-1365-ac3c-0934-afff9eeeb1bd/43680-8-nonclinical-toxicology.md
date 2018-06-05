@@ -13,7 +13,7 @@ Cyclobenzaprine HCl had no effects on fertility and reproductive performance in 
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
-In a 67-week study with rats that received cyclobenzaprine at oral doses of 10, 20 or 40 mg/kg/day (3 to 15 times the MRHD on mg/m2 basis), there were findings in the liver consisting of midzonal vacuolation with lipidosis for males and midzonal and centrilobular hepatocytic enlargement for females.
+In a 67-week study with rats that received cyclobenzaprine at oral doses of 10, 20, or 40 mg/kg/day (3 to 15 times the MRHD on mg/m2 basis), there were findings in the liver consisting of midzonal vacuolation with lipidosis for males and midzonal and centrilobular hepatocytic enlargement for females.
 In addition, there were findings of centrilobular coagulative necrosis.
 In the higher dose groups, these microscopic changes were seen after 26 weeks and even earlier in rats that died prior to 26 weeks; at lower doses, these changes were not seen until after 26 weeks.
 

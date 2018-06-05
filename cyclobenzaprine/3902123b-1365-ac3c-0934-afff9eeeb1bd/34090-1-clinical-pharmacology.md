@@ -31,7 +31,7 @@ Metabolism and Excretion
 
 Cyclobenzaprine is extensively metabolized and is excreted primarily as glucuronides via the kidney.
 Cytochromes P-450 3A4, 1A2, and, to a lesser extent, 2D6, mediate N-demethylation, one of the oxidative pathways for cyclobenzaprine.
-Cyclobenzaprine has an elimination half-life of 32 hours (range 8-37 hours; n=18); plasma clearance is 0.7 L/min following single dose administration of AMRIX.
+Cyclobenzaprine has an elimination half-life of 32 hours (range 8-37 hours; n=18); plasma clearance is 0.7 L/min following single-dose administration of AMRIX.
 
 Special Populations
 

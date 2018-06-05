@@ -4,7 +4,7 @@ AMRIX® (am-rix)
 
 (cyclobenzaprine hydrochloride)
 
-Extended Release Capsules
+Extended-Release Capsules
 
 Read this Patient Information before you start taking AMRIX and each time you get a refill.
 There may be new information.
@@ -23,19 +23,22 @@ Who should not take AMRIX?
 
 Do not take AMRIX if you:
 
-1. •are allergic to cyclobenzaprine or any of the ingredients in AMRIX.
-   See the end of this Patient Information leaflet for a complete list of ingredients in AMRIX.
-2. Talk to your healthcare provider or get medical help right away if you have symptoms of an allergic reaction such as:
-   1. odifficulty breathing
-   2. ohives
-   3. oswelling of your face or tongue
-   4. oitching
-3. •are taking certain antidepressants, known as monoamine oxidase (MAO) inhibitors or it has been 14 days or less since you stopped taking a MAO inhibitor.
-   Ask your healthcare provider or pharmacist for a list of these medicines if you are not sure.
-4. •have had a recent heart attack
-5. •have heart rhythm problems (arrhythmias)
-6. •have heart failure
-7. •have an overactive thyroid (hyperthyroidism)
+- are allergic to cyclobenzaprine or any of the ingredients in AMRIX.
+  See the end of this Patient Information leaflet for a complete list of ingredients in AMRIX.
+
+Talk to your healthcare provider or get medical help right away if you have symptoms of an allergic reaction such as:
+
+- difficulty breathing
+- hives
+- swelling of your face or tongue
+- itching
+
+- are taking certain antidepressants, known as monoamine oxidase (MAO) inhibitors or it has been 14 days or less since you stopped taking a MAO inhibitor.
+  Ask your healthcare provider or pharmacist for a list of these medicines if you are not sure.
+- have had a recent heart attack
+- have heart rhythm problems (arrhythmias)
+- have heart failure
+- have an overactive thyroid (hyperthyroidism)
 
 Talk to your healthcare provider before taking this medicine if you have any of the conditions listed above.
 
@@ -43,15 +46,15 @@ What should I tell my healthcare provider before taking AMRIX?
 
 Before you take AMRIX, tell your healthcare provider if you:
 
-1. •have a history of eye problems including glaucoma
-2. •have heart problems or have had a heart attack
-3. •have liver problems
-4. •have trouble emptying your bladder (urinary retention)
-5. •are pregnant or plan to become pregnant.
-   It is not known if AMRIX will harm your unborn baby.
-6. •are breastfeeding or plan to breastfeed.
-   It is not known if AMRIX passes into your breast milk.
-   You and your healthcare provider should decide if you will take AMRIX or breastfeed.
+- have a history of eye problems including glaucoma
+- have heart problems or have had a heart attack
+- have liver problems
+- have trouble emptying your bladder (urinary retention)
+- are pregnant or plan to become pregnant.
+  It is not known if AMRIX will harm your unborn baby.
+- are breastfeeding or plan to breastfeed.
+  It is not known if AMRIX passes into your breast milk.
+  You and your healthcare provider should decide if you will take AMRIX or breastfeed.
 
 AMRIX may affect the way other medicines work, and other medicines may affect how AMRIX works.
 
@@ -59,12 +62,12 @@ Tell your healthcare provider about all the medicines you take including prescri
 
 Especially tell your healthcare provider if you take:
 
-1. •a medicine to treat depression, mood, anxiety, psychotic or thought disorders
-2. •a pain medicine called tramadol or meperidine
-3. •barbiturates or other medicines that depress your central nervous system (CNS depressants)
-4. •a medicine that prevents nerve impulses (anticholinergic medicines)
-5. •a medicine to help quit smoking called bupropion
-6. •a blood pressure medicine called verapamil
+- a medicine to treat depression, mood, anxiety, psychotic, or thought disorders
+- a pain medicine called tramadol or meperidine
+- barbiturates or other medicines that depress your central nervous system (CNS depressants)
+- a medicine that prevents nerve impulses (anticholinergic medicines)
+- a medicine to help quit smoking called bupropion
+- a blood pressure medicine called verapamil
 
 Ask your doctor or pharmacist if you are not sure if you take any of the medicines listed above.
 
@@ -73,12 +76,12 @@ Keep a list of your medicines and show it to your healthcare provider or pharmac
 
 How should I take AMRIX?
 
-1. •Take AMRIX exactly as your healthcare provider tells you to take it.
-2. •Your healthcare provider will tell you how much AMRIX to take and when to take it.
-3. •Your healthcare provider may change your AMRIX dose if needed.
-4. •Take AMRIX around the same time every day.
-5. •AMRIX should only be taken for short periods (up to two or three weeks).
-6. •If you take too much AMRIX, call your doctor or go to the nearest hospital emergency room right away.
+- Take AMRIX exactly as your healthcare provider tells you to take it.
+- Your healthcare provider will tell you how much AMRIX to take and when to take it.
+- Your healthcare provider may change your AMRIX dose if needed.
+- Take AMRIX around the same time every day.
+- AMRIX should only be taken for short periods (up to two or three weeks).
+- If you take too much AMRIX, call your doctor or go to the nearest hospital emergency room right away.
 
 What should I avoid while taking AMRIX?
 
@@ -92,28 +95,28 @@ What are the possible side effects of AMRIX?
 AMRIX may cause serious side effects that may lead to heart attack or stroke.
 Call your healthcare provider right away or go to the nearest hospital emergency room if you have:
 
-1. •irregular or abnormal heartbeats (arrhythmias)
-2. •fast heartbeat (tachycardia)
+- irregular or abnormal heartbeats (arrhythmias)
+- fast heartbeat (tachycardia)
 
 Serotonin syndrome is a serious medical condition that may happen when AMRIX is taken with certain other medicines.
 Call your healthcare provider right away or go to the nearest hospital emergency room if you become severely ill and have some or all of these symptoms:
 
-1. •agitation, hallucinations, coma or other changes in mental status
-2. •coordination problems or muscle twitching (overactive reflexes)
-3. •fast heartbeat, high or low blood pressure
-4. •sweating or fever
-5. •nausea, vomiting, or diarrhea
-6. •muscle stiffness or tightness
+- agitation, hallucinations, coma, or other changes in mental status
+- coordination problems or muscle twitching (overactive reflexes)
+- fast heartbeat, high or low blood pressure
+- sweating or fever
+- nausea, vomiting, or diarrhea
+- muscle stiffness or tightness
 
 The most common side effects of AMRIX include:
 
-1. •dry mouth
-2. •dizziness
-3. •fatigue
-4. •constipation
-5. •nausea
-6. •upset stomach
-7. •drowsiness
+- dry mouth
+- dizziness
+- fatigue
+- constipation
+- nausea
+- upset stomach
+- drowsiness
 
 Tell your healthcare provider if you get any side effect that bothers you or that does not go away.
 
@@ -125,9 +128,9 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store AMRIX?
 
-1. •Store AMRIX at room temperature, between 59° F to 86°F (15°C to 30°C).
-2. •Keep AMRIX in a tightly closed container, and keep AMRIX out of light.
-3. •Keep AMRIX and all medicines out of the reach of children.
+- Store AMRIX at room temperature, between 59°F to 86°F (15°C to 30°C).
+- Keep AMRIX in a tightly closed container, and keep AMRIX out of light.
+- Keep AMRIX and all medicines out of the reach of children.
 
 General information about the safe and effective use of AMRIX.
 
@@ -140,7 +143,7 @@ This Patient Information leaflet summarizes the most important information about
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about AMRIX that is written for healthcare professionals.
 
-For more information, go to www.AMRIX.com or call 1-800-896-5855.
+For more information, go to www.AMRIX.com or call 1-888-483-8279.
 
 What are the ingredients in AMRIX?
 
@@ -164,12 +167,10 @@ Adare Pharmaceuticals, Inc.
 
 Vandalia, OH 45377
 
-AMRPL-003
+AMRPL-004
 
-Revised May 2016
+Revised: May 2018
 
-AMRIX is a trademark of Teva Pharmaceuticals International GmbH, or its affiliates.
-
-© 2004-2016 Teva Pharmaceuticals USA, Inc.
+© 2004-2018 Teva Pharmaceuticals USA, Inc.
 
 All rights reserved.
