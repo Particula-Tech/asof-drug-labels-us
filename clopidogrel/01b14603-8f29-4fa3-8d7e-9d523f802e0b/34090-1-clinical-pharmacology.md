@@ -42,7 +42,7 @@ Absorption
 After single and repeated oral doses of 75 mg per day, clopidogrel is rapidly absorbed.
 Absorption is at least 50%, based on urinary excretion of clopidogrel metabolites.
 
-Effect of Food
+Effect of food
 
 Plavix can be administered with or without food.
 In a study in healthy male subjects when Plavix 75 mg per day was given with a standard breakfast, mean inhibition of ADP-induced platelet aggregation was reduced by less than 9%.
@@ -82,10 +82,15 @@ Figure 1: Exposure to Clopidogrel Active Metabolite Following Multiple Doses of 
 
 Pharmacodynamic and pharmacokinetic parameters measured in these studies showed that the interaction was highest with omeprazole and least with dexlansoprazole.
 
+Opioids
+
+Coadministration of 5 mg intravenous morphine with 600 mg loading dose of clopidogrel in healthy adults decreased the AUC and Cmax of clopidogrel's thiol metabolites by 34%.
+Mean platelet aggregation was higher up to 2 to 4 hours with morphine coadministration.
+
 Effect of Plavix on other drugs
 
 In vitro studies have shown that the glucuronide metabolite of clopidogrel is a strong inhibitor of CYP2C8.
-Concomitant administration of repaglinide with Plavix increased the systemic exposure to repaglinide (AUC0–∞) by 5.1-fold following the loading dose (300 mg) and by 3.9-fold on day 3 of the maintenance dose (75 mg) of Plavix [see Drug Interactions (7.5)].
+Concomitant administration of repaglinide with Plavix increased the systemic exposure to repaglinide (AUC0–∞) by 5.1-fold following the loading dose (300 mg) and by 3.9-fold on day 3 of the maintenance dose (75 mg) of Plavix [see Drug Interactions (7.6)].
 
 ## 12.5 Pharmacogenomics
 
