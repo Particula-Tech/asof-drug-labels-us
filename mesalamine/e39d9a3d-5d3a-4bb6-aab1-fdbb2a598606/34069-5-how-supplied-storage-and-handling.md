@@ -12,7 +12,7 @@ Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Con
 
 To report SUSPECTED ADVERSE REACTIONS, contact Shire US Inc. at 1-800-828-2088 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
-Manufactured for Shire US Inc. 300 Shire Way, Lexington, MA 02421, USA PENTASA is a registered trademark of Ferring B.V. © 2017 Shire US Inc.
+Manufactured for Shire US Inc. 300 Shire Way, Lexington, MA 02421, USA PENTASA is a registered trademark of Ferring B.V. © 2018 Shire US Inc.
 
 Rev.
-08/2017
+5/2018

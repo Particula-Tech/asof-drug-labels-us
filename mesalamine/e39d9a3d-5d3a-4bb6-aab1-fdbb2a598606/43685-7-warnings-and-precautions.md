@@ -10,6 +10,8 @@ Symptoms include cramping, acute abdominal pain and bloody diarrhea, sometimes f
 If acute intolerance syndrome is suspected, prompt withdrawal is required.
 If a rechallenge is performed later in order to validate the hypersensitivity, it should be carried out under close medical supervision at reduced dose and only if clearly needed.
 
+Patients with pre-existing skin conditions such as atopic dermatitis and atopic eczema have reported more severe photosensitivity reactions.
+
 ## Renal
 
 Caution should be exercised if PENTASA is administered to patients with impaired renal function.
