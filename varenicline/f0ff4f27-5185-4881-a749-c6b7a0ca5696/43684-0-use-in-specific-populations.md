@@ -4,7 +4,7 @@
 
 Risk Summary
 
-Available human data on the use of CHANTIX in pregnant women are not sufficient to inform a drug associated risk.
+The available human data do not establish the presence or absence of developmental toxicity related to the use of varenicline.
 Smoking during pregnancy is associated with maternal, fetal, and neonatal risks [see Clinical Considerations].
 In animal studies, varenicline did not result in major malformations but caused decreased fetal weights in rabbits when dosed during organogenesis at exposures equivalent to 50 times the exposure at the maximum recommended human dose (MRHD).
 Additionally, administration of varenicline to pregnant rats during organogenesis through lactation produced developmental toxicity in offspring at maternal exposures equivalent to 36 times human exposure at the MRHD [see Data].
@@ -21,6 +21,12 @@ Smoking during pregnancy causes increased risks of orofacial clefts, premature r
 It is not known whether quitting smoking with CHANTIX during pregnancy reduces these risks.
 
 Data
+
+Human Data
+
+A population-based cohort study compared infants exposed to varenicline in utero (N=335) with infants born to mothers who smoked during pregnancy (N=78,412) and infants born to non-smoking mothers (N=806,438).
+In this study, infants exposed to varenicline in utero were no more likely to have major congenital malformations (3.6%) than infants born to mothers who smoked during pregnancy (4.3%) or to non-smoking mothers (4.2%).
+Similarly, infants exposed to varenicline in utero, as compared to infants of smoking and non-smoking mothers, were not at increased risk of stillbirth, (0.3%, 0.5%, 0.3%, respectively), small for gestational age (12.5%, 17.1%, 9.1%), preterm birth (7.5%, 7.9%, 5.8%), or premature rupture of membrane (3.6%, 5.4%, 3.8%).
 
 Animal Data
 

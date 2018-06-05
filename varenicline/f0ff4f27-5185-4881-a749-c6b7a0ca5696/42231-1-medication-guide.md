@@ -20,7 +20,7 @@
 | What should I tell my healthcare provider before taking CHANTIX? |  |  |  |  |
 | See "What is the most important information I should know about CHANTIX?" |  |  |  |  |
 | Before you take CHANTIX, tell your healthcare provider if you: |  |  |  |  |
-| use other treatments to quit smoking. Using CHANTIX with a nicotine patch may cause nausea, vomiting, headache, dizziness, upset stomach, and tiredness to happen more often than if you just use a nicotine patch alone.have kidney problems or get kidney dialysis. Your healthcare provider may prescribe a lower dose of CHANTIX for you.have a history of seizuresdrink alcoholhave heart or blood vessel problemshave any other medical conditions are pregnant or plan to become pregnant. It is not known if CHANTIX will harm your unborn baby.are breastfeeding. It is not known if CHANTIX passes into breast milk. If you breastfeed and take CHANTIX, monitor your baby for seizures as well as spitting up or vomiting more than normal. |  |  |  |  |
+| use other treatments to quit smoking. Using CHANTIX with a nicotine patch may cause nausea, vomiting, headache, dizziness, upset stomach, and tiredness to happen more often than if you just use a nicotine patch alone.have kidney problems or get kidney dialysis. Your healthcare provider may prescribe a lower dose of CHANTIX for you.have a history of seizuresdrink alcoholhave heart or blood vessel problemshave any other medical conditions are pregnant or plan to become pregnant. As a precautionary measure, it is preferable to avoid the use of CHANTIX during pregnancy.are breastfeeding. It is not known if CHANTIX passes into breast milk. If you breastfeed and take CHANTIX, monitor your baby for seizures as well as spitting up or vomiting more than normal. |  |  |  |  |
 | Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins and herbal supplements. Your healthcare provider may need to change the dose of some of your medicines when you stop smoking. |  |  |  |  |
 | You should not use CHANTIX while using other medicines to quit smoking. Tell your healthcare provider if you use other treatments to quit smoking. |  |  |  |  |
 | Know the medicines you take. Keep a list of them with you to show your healthcare provider and pharmacist when you get a new medicine. |  |  |  |  |
@@ -59,6 +59,6 @@
 | Active ingredient: varenicline tartrate |  |  |  |  |
 | Inactive ingredients: microcrystalline cellulose, anhydrous dibasic calcium phosphate, croscarmellose sodium, colloidal silicon dioxide, magnesium stearate, Opadry® White (for 0.5 mg), Opadry® Blue (for 1 mg), and Opadry® Clear. |  |  |  |  |
 
-December 2016
+LAB-0328-15.1
 
-LAB-0328-15.0
+August 2017

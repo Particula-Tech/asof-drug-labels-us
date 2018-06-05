@@ -60,7 +60,8 @@ Similarly in Study 5, patients treated with CHANTIX had a superior rate of CO-co
 The bupropion SR quit rate was also superior to placebo.
 In addition, 29% of the CHANTIX group were continuously abstinent from one week after TQD through the end of treatment as compared to 11% of the placebo group and 21% of the bupropion SR group.
 
-Table 4: Continuous Abstinence, Weeks 9 through 12 (95% confidence interval)
+Table 11.
+Continuous Abstinence, Weeks 9 through 12 (95% confidence interval)
 
 |  | CHANTIX 0.5 mg BID | CHANTIX 1 mg BID | CHANTIX Flexible | Bupropion SR | Placebo |
 | --- | --- | --- | --- | --- | --- |
@@ -77,9 +78,10 @@ Based on responses to the Brief Questionnaire of Smoking Urges and the Minnesota
 ## 14.3 Long-Term Abstinence
 
 Studies 1 through 5 included 40 weeks of post-treatment follow-up.
-In each study, CHANTIX-treated patients were more likely to maintain abstinence throughout the follow-up period than were patients treated with placebo (Figure 2, Table 5).
+In each study, CHANTIX-treated patients were more likely to maintain abstinence throughout the follow-up period than were patients treated with placebo (Figure 2, Table 12).
 
-Table 5: Continuous Abstinence, Weeks 9 through 52 (95% confidence interval) Across Different Studies
+Table 12.
+Continuous Abstinence, Weeks 9 through 52 (95% confidence interval) Across Different Studies
 
 |  | CHANTIX 0.5 mg BID | CHANTIX 1 mg BID | CHANTIX Flexible | Bupropion SR | Placebo |
 | --- | --- | --- | --- | --- | --- |
@@ -123,7 +125,8 @@ Patients included in this study had taken CHANTIX for a smoking-cessation attemp
 
 Patients treated with CHANTIX had a superior rate of CO-confirmed abstinence during weeks 9 through 12 (45%) compared to patients treated with placebo (12%) and from weeks 9 through 52 (20%) compared to subjects treated with placebo (3%).
 
-Table 6: Continuous Abstinence (95% confidence interval), Re-Treatment Study
+Table 13.
+Continuous Abstinence (95% confidence interval), Re-Treatment Study
 
 |  | CHANTIX 1 mg BID | Placebo | CHANTIX 1 mg BID | Placebo |
 | --- | --- | --- | --- | --- |
@@ -141,7 +144,8 @@ CHANTIX was evaluated in a randomized, double-blind, placebo-controlled study of
 Subjects were randomized to CHANTIX 1 mg twice daily (N=223) or placebo (N=237) for a treatment of 12 weeks and then were followed for 40 weeks post-treatment.
 Subjects treated with CHANTIX had a superior rate of CO-confirmed abstinence during weeks 9 through 12 (41%) compared to subjects treated with placebo (9%) and from week 9 through 52 (19%) compared to subjects treated with placebo (6%).
 
-Table 7: Continuous Abstinence (95% confidence interval), Studies in Patients with Cardiovascular Disease (CVD) and Chronic Obstructive Pulmonary Disease (COPD)
+Table 14.
+Continuous Abstinence (95% confidence interval), Studies in Patients with Cardiovascular Disease (CVD) and Chronic Obstructive Pulmonary Disease (COPD)
 
 |  | CHANTIX 1 mg BID | Placebo | CHANTIX 1 mg BID | Placebo |
 | --- | --- | --- | --- | --- |
@@ -158,7 +162,8 @@ If not on medication, subjects were to have experienced a major depressive episo
 Subjects were randomized to CHANTIX 1 mg twice daily (N=256) or placebo (N=269) for a treatment of 12 weeks and then followed for 40 weeks post-treatment.
 Subjects treated with CHANTIX had a superior rate of CO-confirmed abstinence during weeks 9 through 12 (36%) compared to subjects treated with placebo (16%) and from week 9 through 52 (20%) compared to subjects treated with placebo (10%).
 
-Table 8: Continuous Abstinence (95% confidence interval), Study in Patients with Major Depressive Disorder (MDD)
+Table 15.
+Continuous Abstinence (95% confidence interval), Study in Patients with Major Depressive Disorder (MDD)
 
 |  | CHANTIX 1 mg BID | Placebo | CHANTIX 1 mg BID | Placebo |
 | --- | --- | --- | --- | --- |
@@ -170,27 +175,27 @@ Table 8: Continuous Abstinence (95% confidence interval), Study in Patients with
 ## 14.9 Postmarketing Neuropsychiatric Safety Outcome Trial
 
 CHANTIX was evaluated in a randomized, double-blind, active and placebo-controlled trial that included subjects without a history of psychiatric disorder (non-psychiatric cohort, N=3912) and with a history of psychiatric disorder (psychiatric cohort, N=4003).
-Subjects aged 18–75 years, smoking 10 or more cigarettes per day were randomized 1:1:1:1 to CHANTIX 1 mg BID, bupropion SR 150 mg BID, nicotine replacement therapy patch (NRT) 21 mg/day with taper or placebo for a treatment period of 12 weeks; they were then followed for another 12 weeks post-treatment.
+Subjects aged 18–75 years, smoking 10 or more cigarettes per day were randomized 1:1:1:1 to CHANTIX 1 mg BID, bupropion SR 150 mg BID, NRT patch 21 mg/day with taper or placebo for a treatment period of 12 weeks; they were then followed for another 12 weeks post-treatment.
 [See Warnings and Precautions (5.1)]
 
 A composite safety endpoint intended to capture clinically significant neuropsychiatric (NPS) adverse events included the following NPS adverse events: anxiety, depression, feeling abnormal, hostility, agitation, aggression, delusions, hallucinations, homicidal ideation, mania, panic, paranoia, psychosis, irritability, suicidal ideation, suicidal behavior or completed suicide.
 
-As shown in Table 9, the use of CHANTIX, bupropion, and NRT in the non-psychiatric cohort was not associated with an increased risk of clinically significant NPS adverse events compared with placebo.
+As shown in Table 16, the use of CHANTIX, bupropion, and NRT in the non-psychiatric cohort was not associated with an increased risk of clinically significant NPS adverse events compared with placebo.
 Similarly, in the non-psychiatric cohort, the use of CHANTIX was not associated with an increased risk of clinically significant NPS adverse events in the composite safety endpoint compared with bupropion or NRT.
 
-Table 9.
+Table 16.
 Number of Patients with Clinically Significant or Serious NPS Adverse Events by Treatment Group Among Patients without a History of Psychiatric Disorder
 
 |  | CHANTIX (N=975) n (%) | Bupropion (N=968) n (%) | NRT (N=987) n (%) | Placebo (N=982) n (%) |
 | --- | --- | --- | --- | --- |
-| Clinically significant NPS | 30 (3.1) | 34 (3.5) | 33 (3.3) | 40 (4.1) |
+| Clinically Significant NPS | 30 (3.1) | 34 (3.5) | 33 (3.3) | 40 (4.1) |
 | Serious NPS | 1 (0.1) | 5 (0.5) | 1 (0.1) | 4 (0.4) |
 | Psychiatric hospitalizations | 1 (0.1) | 2 (0.2) | 0 (0.0) | 1 (0.1) |
 
-As shown in Table 10, there were more clinically significant NPS adverse events reported in patients in the psychiatric cohort in each treatment group compared with the non-psychiatric cohort (Table 9).
+As shown in Table 17, there were more clinically significant NPS adverse events reported in patients in the psychiatric cohort in each treatment group compared with the non-psychiatric cohort (Table 16).
 The incidence of events in the composite endpoint was higher for each of the active treatments compared to placebo: Risk Differences (RDs) (95%CI) vs placebo were 2.7% (-0.05, 5.4) for CHANTIX, 2.2% (-0.5, 4.9) for bupropion, and 0.4% (-2.2, 3.0) for NRT transdermal nicotine.
 
-Table 10.
+Table 17.
 Number of Patients with Clinically Significant or Serious NPS Adverse Events by Treatment Group Among Patients with a History of Psychiatric Disorder
 
 |  | CHANTIX (N=1007) n (%) | Bupropion (N=1004) n (%) | NRT (N=995) n (%) | Placebo (N=997) n (%) |
@@ -204,7 +209,8 @@ There were no completed suicides reported in the psychiatric cohort.
 
 In both cohorts, subjects treated with CHANTIX had a superior rate of CO-confirmed abstinence during weeks 9 through 12 and 9 through 24 compared to subjects treated with bupropion, nicotine patch and placebo.
 
-Table 11: Continuous Abstinence (95% confidence interval), Study in Patients with or without a History of Psychiatric Disorder
+Table 18.
+Continuous Abstinence (95% confidence interval), Study in Patients with or without a History of Psychiatric Disorder
 
 |  | CHANTIX 1 mg BID | Bupropion SR 150 mg BID | NRT 21 mg/day with taper | Placebo |
 | --- | --- | --- | --- | --- |

@@ -26,7 +26,7 @@ Use the Starting Week (green) blister card first when beginning to take Chantix.
 
 ALWAYS DISPENSE WITH ENCLOSED MEDICATION GUIDE
 
-# PRINCIPAL DISPLAY PANEL - 0.5 mg / 1 mg Starting Pack
+# PRINCIPAL DISPLAY PANEL - Kit Carton
 
 NDC 0069-0471-03
 
@@ -108,7 +108,7 @@ Contains: 2 Continuing Packs (1 mg† × 56 tablets)
 
 ALWAYS DISPENSE WITH ENCLOSED MEDICATION GUIDE
 
-# PRINCIPAL DISPLAY PANEL - 1 mg x 56 tablet Continuing Pack
+# PRINCIPAL DISPLAY PANEL - 1 mg x 56 Tablet Continuing Pack
 
 NDC 0069-0469-03 Rx only
 

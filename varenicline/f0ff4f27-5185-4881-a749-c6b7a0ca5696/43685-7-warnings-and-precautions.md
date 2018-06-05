@@ -45,11 +45,11 @@ Advise patients to use caution driving or operating machinery or engaging in oth
 
 ## 5.5 Cardiovascular Events
 
-In a placebo-controlled clinical trial of CHANTIX administered to patients with stable cardiovascular disease, with approximately 350 patients per treatment arm, all-cause and cardiovascular mortality was lower in patients treated with CHANTIX, but certain nonfatal cardiovascular events occurred more frequently in patients treated with CHANTIX than in patients treated with placebo [see Adverse Reactions (6.1)].
-Table 1 below shows the incidence of deaths and of selected nonfatal serious cardiovascular events occurring more frequently in the CHANTIX arm compared to the placebo arm.
+In a placebo-controlled clinical trial of CHANTIX administered to patients with stable cardiovascular (CV) disease, with approximately 350 patients per treatment arm, all-cause and CV mortality was lower in patients treated with CHANTIX, but certain nonfatal CV events occurred more frequently in patients treated with CHANTIX than in patients treated with placebo [see Adverse Reactions (6.1)].
+Table 1 below shows the incidence of mortality and of selected nonfatal serious CV events occurring more frequently in the CHANTIX arm compared to the placebo arm.
 These events were adjudicated by an independent blinded committee.
-Nonfatal serious cardiovascular events not listed occurred at the same incidence or more commonly in the placebo arm.
-Patients with more than one cardiovascular event of the same type are counted only once per row.
+Nonfatal serious CV events not listed occurred at the same incidence or more commonly in the placebo arm.
+Patients with more than one CV event of the same type are counted only once per row.
 Some of the patients requiring coronary revascularization underwent the procedure as part of management of nonfatal MI and hospitalization for angina.
 
 Table 1.
@@ -58,7 +58,7 @@ Mortality and Adjudicated Nonfatal Serious Cardiovascular Events in the Placebo-
 | Mortality and Cardiovascular Events | CHANTIX (N=353) n (%) | Placebo (N=350) n (%) |
 | --- | --- | --- |
 | Mortality (Cardiovascular & All-cause up to 52 wks) |  |  |
-| Cardiovascular death | 1 (0.3) | 2 (0.6) |
+| Cardiovascular mortality | 1 (0.3) | 2 (0.6) |
 | All-cause mortality | 2 (0.6) | 5 (1.4) |
 | Nonfatal Cardiovascular Events (rate on CHANTIX > Placebo) |  |  |
 | Up to 30 days after treatment |  |  |
@@ -71,14 +71,14 @@ Mortality and Adjudicated Nonfatal Serious Cardiovascular Events in the Placebo-
 | Transient ischemia attack | 1 (0.3) | 0 (0) |
 | New diagnosis of peripheral vascular disease (PVD) or admission for a PVD procedure | 5 (1.4) | 2 (0.6) |
 
-A meta-analysis of 15 clinical trials of ≥ 12 weeks treatment duration, including 7002 patients (4190 CHANTIX, 2812 placebo), was conducted to systematically assess the cardiovascular safety of CHANTIX.
-The study in patients with stable cardiovascular disease described above was included in the meta-analysis.
-There were lower rates of all-cause mortality (CHANTIX 6 [0.14%]; placebo 7 [0.25%]) and cardiovascular mortality (CHANTIX 2 [0.05%]; placebo 2 [0.07%]) in the CHANTIX arms compared with the placebo arms in the meta-analysis.
+A meta-analysis of 15 clinical trials of ≥ 12 weeks treatment duration, including 7002 patients (4190 CHANTIX, 2812 placebo), was conducted to systematically assess the CV safety of CHANTIX.
+The study in patients with stable CV disease described above was included in the meta-analysis.
+There were lower rates of all-cause mortality (CHANTIX 6 [0.14%]; placebo 7 [0.25%]) and CV mortality (CHANTIX 2 [0.05%]; placebo 2 [0.07%]) in the CHANTIX arms compared with the placebo arms in the meta-analysis.
 
-The key cardiovascular safety analysis included occurrence and timing of a composite endpoint of Major Adverse Cardiovascular Events (MACE), defined as cardiovascular death, nonfatal MI, and nonfatal stroke.
+The key CV safety analysis included occurrence and timing of a composite endpoint of Major Adverse Cardiovascular Events (MACE), defined as CV death, nonfatal MI, and nonfatal stroke.
 These events included in the endpoint were adjudicated by a blinded, independent committee.
 Overall, a small number of MACE occurred in the trials included in the meta-analysis, as described in Table 2.
-These events occurred primarily in patients with known cardiovascular disease.
+These events occurred primarily in patients with known CV disease.
 
 Table 2.
 Number of MACE cases, Hazard Ratio and Rate Difference in a Meta-Analysis of 15 Clinical Trials Comparing CHANTIX to PlaceboIncludes MACE occurring up to 30 days post-treatment.
@@ -96,6 +96,50 @@ The meta-analysis showed that exposure to CHANTIX resulted in a hazard ratio for
 The meta-analysis showed higher rates of CV endpoints in patients on CHANTIX relative to placebo across different time frames and pre-specified sensitivity analyses, including various study groupings and CV outcomes.
 Although these findings were not statistically significant they were consistent.
 Because the number of events was small overall, the power for finding a statistically significant difference in a signal of this magnitude is low.
+
+Additionally, the CV safety of CHANTIX was evaluated in the CV safety assessment study, which consisted of a parent study in subjects without or with a history of psychiatric disorder and its non-treatment extension study.
+In the parent study (N=7915), subjects aged 18–75 years, smoking 10 or more cigarettes per day were randomized 1:1:1:1 to CHANTIX 1 mg BID, bupropion SR 150 mg BID, nicotine replacement therapy (NRT) patch 21 mg/day with taper or placebo for a treatment period of 12 weeks; they were then followed for another 12 weeks post-treatment.
+The extension study enrolled 4539 of the 6199 subjects who completed the parent study and followed them through week 52.
+Of all treated subjects, 1712 (21.6%) had a medium CV risk and 633 (8.0%) had a high CV risk, as defined by Framingham score [see Adverse Reactions (6.1)].
+
+The primary CV endpoint was the time to major adverse CV event (MACE), defined as CV death, non-fatal myocardial infarction or non-fatal stroke during treatment.
+Deaths and CV events were adjudicated by a blinded, independent committee.
+Table 3 below shows the incidence of MACE and Hazard Ratios compared to placebo.
+
+Table 3.
+The Incidence of MACE and Hazard Ratios in the Cardiovascular Safety Assessment Trial in Subjects without or with a History of Psychiatric Disorder
+
+|  | CHANTIX N=1982 | Bupropion N=1972 | NRT N=1982 | Placebo N=1979 |
+| --- | --- | --- | --- | --- |
+| During treatment |  |  |  |  |
+| MACE, n (%) | 1 (0.05) | 2 (0.10) | 1 (0.05) | 4 (0.20) |
+| Hazard Ratio (95% CI) vs. placebo | 0.29 (0.05, 1.68) | 0.50 (0.10, 2.50) | 0.30 (0.05, 1.71) |  |
+| During treatment plus 30 days |  |  |  |  |
+| MACE, n (%) | 1 (0.05) | 2 (0.10) | 2 (0.10) | 4 (0.20) |
+| Hazard Ratio (95% CI) vs. placebo | 0.29 (0.05, 1.70) | 0.50 (0.10, 2.50) | 0.50 (0.10, 2.49) |  |
+| Through end of study |  |  |  |  |
+| MACE, n (%) | 3 (0.15) | 8 (0.41) | 6 (0.30) | 8 (0.40) |
+| Hazard Ratio (95% CI) vs. placebo | 0.39 (0.12, 1.27) | 0.98 (0.37, 2.60) | 0.75 (0.26, 2.14) |  |
+
+Incidence of MACE+ (defined as any MACE or a new onset or worsening peripheral vascular disease (PVD) requiring intervention, a need for coronary revascularization, or hospitalization for unstable angina) and all-cause mortality are shown for all treatment groups during treatment, and cumulative for treatment plus 30 days and through end of study in the Table 4 below.
+
+Table 4.
+The Incidence of MACE+ and All-Cause Death in the Cardiovascular Safety Assessment Trial in Subjects without or with a History of Psychiatric Disorder
+
+|  | CHANTIX N=1982 | Bupropion N=1972 | NRT N=1982 | Placebo N=1979 |
+| --- | --- | --- | --- | --- |
+| During treatment |  |  |  |  |
+| MACE+, n (%) | 5 (0.25) | 4 (0.20) | 2 (0.10) | 5 (0.25) |
+| All-cause deaths, n (%) | 0 | 2 (0.10) | 0 | 2 (0.10) |
+| During treatment plus 30 days |  |  |  |  |
+| MACE+, n (%) | 5 (0.25) | 4 (0.20) | 3 (0.15) | 7 (0.35) |
+| All-cause deaths, n (%) | 0 | 2 (0.10) | 0 | 2 (0.10) |
+| Through end of study |  |  |  |  |
+| MACE+, n (%) | 10 (0.50) | 14 (0.71) | 9 (0.45) | 12 (0.61) |
+| All-cause deaths, n (%) | 2 (0.10) | 4 (0.20) | 3 (0.15) | 4 (0.20) |
+
+The use of CHANTIX, bupropion, and NRT was not associated with an increased risk of CV adverse events in smokers treated for up to 12 weeks and followed for up to 1 year compared to placebo, although because of the relatively low number of events overall, an association cannot be entirely ruled out.
+The number of subjects with MACE, MACE+ and all-cause deaths was similar or lower for the CHANTIX-treated subjects compared to those treated with placebo.
 
 CHANTIX was not studied in patients with unstable cardiovascular disease or cardiovascular events occurring within two months before screening.
 Patients should be advised to notify a healthcare provider of new or worsening symptoms of cardiovascular disease.
