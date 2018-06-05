@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA202471"
+  ],
+  "inn": "bivalirudin",
+  "labeler": "Mylan Institutional LLC",
+  "package_ndcs": [
+    "67457-256-00",
+    "67457-256-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "bivalirudin",
+      "name": "Bivalirudin"
+    }
+  ],
+  "setid": "95d150e7-f152-4091-b831-e469c9578a54",
+  "source": "dailymed"
+}
