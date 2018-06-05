@@ -11,6 +11,7 @@ The following serious adverse reactions are described below and elsewhere in lab
 - Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.8)]
 - Hepatic Effects [see Warnings and Precautions (5.9)]
 - Hypomagnesemia [see Warnings and Precautions (5.10)]
+- Fundic Gland Polyps [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -91,3 +92,5 @@ Infections and Infestations: Clostridium difficile associated diarrhea
 Hematologic: pancytopenia, agranulocytosis
 
 Nervous: ageusia, dysgeusia
+
+Gastrointestinal Disorders: fundic gland polyps
