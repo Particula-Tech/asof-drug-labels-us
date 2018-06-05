@@ -34,7 +34,7 @@ The overall effect of ursodiol is to increase the concentration level at which s
 
 The various actions of ursodiol combine to change the bile of patients with gallstones from cholesterol-precipitating to cholesterol-solubilizing, thus resulting in bile conducive to cholesterol stone dissolution.
 
-After ursodiol dosing is stopped, the concentration of the bile acid in bile falls exponentially, declining to about 5 to 10% of its steady-state level in about 1 week.
+After ursodiol dosing is stopped, the concentration of the bile acid in bile falls exponentially, declining to about 5% to 10% of its steady-state level in about 1 week.
 
 ## Clinical Results
 

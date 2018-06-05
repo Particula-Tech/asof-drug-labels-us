@@ -3,10 +3,9 @@
 Actigall Capsules are opaque white and pink capsules imprinted “ACTIGALL” on one half and “300 mg” on the other half of the capsule in black.
 
 Bottles of 100 are supplied with child-resistant closures.
-(NDC0023-6145-01)
+(NDC 0023-6145-01)
 
-Store at 20-25°C (68-77°F).
-[See USP controlled room temperature.]
+Store at 25°C (77°F); excursions permitted to 15°-30°C (59°-86°F).
 
 Dispense in a tight container (USP).
 
@@ -18,8 +17,15 @@ Distributed by:
 
 Allergan USA, Inc.
 
-Irvine, CA 92612
+Madison, NJ 07940
 
-Revised: July 2017
+© 2018 Allergan.
+All rights reserved.
 
-73336US10
+ACTIGALL® is a registered trademark of Allergan Sales, LLC.
+
+Allergan® and its design are trademarks of Allergan, Inc.
+
+Revised: May 2018
+
+v1.0USPI6145

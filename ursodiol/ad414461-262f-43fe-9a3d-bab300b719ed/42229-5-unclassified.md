@@ -3,7 +3,7 @@
 ## Watchful Waiting
 
 Watchful waiting has the advantage that no therapy may ever be required.
-For patients with silent or minimally symptomatic stones, the rate of development of moderate-to-severe symptoms or gallstone complications is estimated to be between 2% and 6% per year, leading to a cumulative rate of 7 to 27% in 5 years.
+For patients with silent or minimally symptomatic stones, the rate of development of moderate-to-severe symptoms or gallstone complications is estimated to be between 2% and 6% per year, leading to a cumulative rate of 7% to 27% in 5 years.
 Presumably the rate is higher for patients already having symptoms.
 
 ## Cholecystectomy
@@ -17,7 +17,7 @@ Mortality Rates for Cholecystectomy in the U.S. (National Halothane Study, JAMA 
 |  | Age (Yrs) | Cholecystectomy | Cholecystectomy + Common Duct Exploration |
 | --- | --- | --- | --- |
 | Low Risk Patients* |  |  |  |
-| Women | 0 - 49 | .54 | 2.13 |
+| Women | 0 - 49 | 0.54 | 2.13 |
 |  | 50 - 69 | 2.80 | 10.10 |
 | Men | 0 - 49 | 1.04 | 4.12 |
 |  | 50 - 69 | 5.41 | 19.23 |
