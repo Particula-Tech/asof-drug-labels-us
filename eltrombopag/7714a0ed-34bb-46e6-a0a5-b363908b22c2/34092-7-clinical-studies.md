@@ -17,13 +17,13 @@ Trial 2 randomized 117 patients (1:1:1:1) among placebo or 1 of 3 dose regimens 
 The efficacy of PROMACTA in this trial was evaluated by response rate, defined as a shift from a baseline platelet count of less than 30 x 109/L to greater than or equal to 50 x 109/L at any time during the treatment period (Table 10).
 
 Table 10.
-Trials 1 and 2 Platelet Count Response (≥50 x 109/L) Rates in Adults with Chronic Immune (Idiopathic) Thrombocytopenia
+Trials 1 and 2 Platelet Count Response (≥ 50 x 109/L) Rates in Adults with Chronic Immune (Idiopathic) Thrombocytopenia
 
 | Trial | PROMACTA50 mg Daily | Placebo |
 | --- | --- | --- |
 | 1 | 43/73 (59%)a | 6/37 (16%) |
 | 2 | 19/27 (70%)a | 3/27 (11%) |
-| ap-value <0.001 for PROMACTA versus placebo. |  |  |
+| a p-value < 0.001 for PROMACTA versus placebo |  |  |
 
 The platelet count response to PROMACTA was similar among patients who had or had not undergone splenectomy.
 In general, increases in platelet counts were detected 1 week following initiation of PROMACTA and the maximum response was observed after 2 weeks of therapy.
@@ -54,7 +54,7 @@ Outcomes of Treatment from Trial 3 in Adults with Chronic Immune (Idiopathic) Th
 
 | Outcome | PROMACTAN = 135 | PlaceboN = 62 |
 | --- | --- | --- |
-| Mean number of weeks with platelet counts ≥50 x 109/L | 11.3 | 2.4 |
+| Mean number of weeks with platelet counts ≥ 50 x 109/L | 11.3 | 2.4 |
 | Requiring rescue therapy, n (%) | 24 (18) | 25 (40) |
 
 Among 94 patients receiving other ITP therapy at baseline, 37 (59%) of 63 patients treated with PROMACTA and 10 (32%) of 31 patients in the placebo group discontinued concomitant therapy at some time during the trial.
@@ -81,10 +81,10 @@ Approximately 62% of patients had a baseline platelet count less than or equal t
 The percentage of patients with at least 2 prior ITP therapies (predominantly corticosteroids and immunoglobulins) was 73% in the group treated with PROMACTA and 90% in the group treated with placebo.
 Four patients in the group treated with PROMACTA had undergone splenectomy.
 
-The efficacy of PROMACTA in this trial was evaluated by the proportion of subjects on PROMACTA achieving platelet counts ≥50 x 109/L (in the absence of rescue therapy) for at least 6 out of 8 weeks between Weeks 5 to 12 of the randomized, double-blind period (Table 12).
+The efficacy of PROMACTA in this trial was evaluated by the proportion of subjects on PROMACTA achieving platelet counts ≥ 50 x 109/L (in the absence of rescue therapy) for at least 6 out of 8 weeks between Weeks 5 to 12 of the randomized, double-blind period (Table 12).
 
 Table 12.
-Trial 4 Platelet Count Response (≥50 x 109/L without Rescue) for 6 out of 8 Weeks (between Weeks 5 to 12) Overall and by Age Cohort in Pediatric Patients 1 Year and Older with Chronic Immune (Idiopathic) Thrombocytopenia
+Trial 4 Platelet Count Response (≥ 50 x 109/L without Rescue) for 6 out of 8 Weeks (between Weeks 5 to 12) Overall and by Age Cohort in Pediatric Patients 1 Year and Older with Chronic Immune (Idiopathic) Thrombocytopenia
 
 | Age Cohort | PROMACTA | Placebo |
 | --- | --- | --- |
@@ -92,11 +92,11 @@ Trial 4 Platelet Count Response (≥50 x 109/L without Rescue) for 6 out of 8 We
 | 12 to 17 years | 10/24 (42%) | 1/10 (10%) |
 | 6 to 11 years | 11/25 (44%) | 0/13 (0%) |
 | 1 to 5 years | 5/14 (36%) | 0/6 (0%) |
-| ap-value = <0.001 for PROMACTA versus placebo. |  |  |
+| a p-value = < 0.001 for PROMACTA versus placebo |  |  |
 
 More pediatric patients treated with PROMACTA (75%) compared with placebo (21%) had at least one platelet count greater than or equal to 50 x 109/L during the first 12 weeks of randomized treatment in absence of rescue therapy.
 Fewer pediatric patients treated with PROMACTA required rescue treatment during the randomized, double-blind period compared with placebo-treated patients (19% [12/63] versus 24% [7/29]).
-In the patients who achieved a platelet response (≥50 x 109/L without rescue) for 6 out of 8 weeks (between weeks 5 to 12), 62% (16/26) had an initial response in the first 2 weeks after starting PROMACTA.
+In the patients who achieved a platelet response (≥ 50 x 109/L without rescue) for 6 out of 8 weeks (between weeks 5 to 12), 62% (16/26) had an initial response in the first 2 weeks after starting PROMACTA.
 
 Patients were permitted to reduce or discontinue baseline ITP therapy only during the open-label phase of the trial.
 Among 15 patients receiving other ITP therapy at baseline, 53% (8/15) reduced (n = 1) or discontinued (n = 7) concomitant therapy, mainly corticosteroids, without needing rescue therapy.
@@ -118,7 +118,7 @@ The efficacy of PROMACTA in this trial was evaluated by the proportion of patien
 Platelet response to PROMACTA was consistent across the age cohorts.
 
 Table 13.
-Trial 5 Platelet Count Response (≥50 x 109/L without Rescue) Rates in Pediatric Patients 1 Year and Older with Chronic Immune (Idiopathic) Thrombocytopenia
+Trial 5 Platelet Count Response (≥ 50 x 109/L without Rescue) Rates in Pediatric Patients 1 Year and Older with Chronic Immune (Idiopathic) Thrombocytopenia
 
 |  | PROMACTA | Placebo |
 | --- | --- | --- |
@@ -126,7 +126,7 @@ Trial 5 Platelet Count Response (≥50 x 109/L without Rescue) Rates in Pediatri
 | 12 to 17 years | 10/16 (62%) | 0/8 (0%) |
 | 6 to 11 years | 12/19 (63%) | 3/9 (33%) |
 | 1 to 5 years | 6/10 (60%) | 4/5 (80%) |
-| ap-value = 0.011 for PROMACTA versus placebo. |  |  |
+| ap-value = 0.011 for PROMACTA versus placebo |  |  |
 
 Fewer pediatric patients treated with PROMACTA required rescue treatment during the randomized, double-blind period compared with placebo-treated patients (13% [6/45] versus 50% [11/22]).
 
@@ -162,7 +162,7 @@ The improvement in the proportion of patients who achieved SVR was consistent ac
 In patients with high baseline viral loads (greater than or equal to 800,000), the SVR rate was 18% (82/452) for PROMACTA versus 8% (20/239) for placebo.
 
 Table 14.
-Trials 1 and 2 Sustained Virologic Response in Adults with Chronic Hepatitis C
+Trials 1 and 2 Sustained Virologic Response (SVR) in Adults with Chronic Hepatitis C
 
 |  | Trial 1a |  | Trial 2b |  |
 | --- | --- | --- | --- | --- |
@@ -172,7 +172,7 @@ Trials 1 and 2 Sustained Virologic Response in Adults with Chronic Hepatitis C
 | Overall SVRd | 23 | 14 | 19 | 13 |
 | HCV Genotype 2,3 | 35 | 24 | 34 | 25 |
 | HCV Genotype 1,4,6 | 18 | 10 | 13 | 7 |
-| a PROMACTA given in combination with peginterferon alfa-2a (180 mcg once weekly for 48 weeks for genotypes 1/4/6; 24 weeks for genotype 2 or 3) plus ribavirin (800 to 1,200 mg daily in 2 divided doses orally). b PROMACTA given in combination with peginterferon alfa-2b (1.5 mcg/kg once weekly for 48 weeks for genotypes 1/4/6; 24 weeks for genotype 2 or 3) plus ribavirin (800 to 1,400 mg daily in 2 divided doses orally). c Target platelet count was ≥90 x 109/L for Trial 1 and ≥100 x 109/L for Trial 2. d p-value <0.05 for PROMACTA versus placebo. |  |  |  |  |
+| a PROMACTA given in combination with peginterferon alfa-2a (180 mcg once weekly for 48 weeks for genotypes 1/4/6; 24 weeks for genotype 2 or 3) plus ribavirin (800 to 1,200 mg daily in 2 divided doses orally) b PROMACTA given in combination with peginterferon alfa-2b (1.5 mcg/kg once weekly for 48 weeks for genotypes 1/4/6; 24 weeks for genotype 2 or 3) plus ribavirin (800 to 1,400 mg daily in 2 divided doses orally) c Target platelet count was ≥ 90 x 109/L for Trial 1 and ≥ 100 x 109/L for Trial 2 d p-value < 0.05 for PROMACTA versus placebo |  |  |  |  |
 
 The majority of patients treated with PROMACTA (76%) maintained a platelet count greater than or equal to 50 x 109/L compared with 19% for placebo.
 A greater proportion of patients on PROMACTA did not require any antiviral dose reduction as compared with placebo (45% versus 27%).
@@ -201,7 +201,7 @@ Hematologic Response in Patients with Severe Aplastic Anemia
 | --- | --- |
 | Response ratea, n (%) 95% CI (%) | 17 (40)(25, 56) |
 | Median of duration of response in months (95% CI) | NRb (3.0, NRb) |
-| a Includes single- and multi-lineage. b NR = Not reached due to few events (relapsed). |  |
+| a Includes single- and multi-lineage b NR = Not reached due to few events (relapsed) |  |
 
 In the 17 responders, the platelet transfusion-free period ranged from 8 to 1,096 days with a median of 200 days, and the RBC transfusion-free period ranged from 15 to 1,082 days with a median of 208 days.
 

@@ -41,3 +41,4 @@ Administration of PROMACTA
 - For patients with chronic hepatitis C, therapy with PROMACTA is administered to achieve and maintain a platelet count necessary to initiate and maintain antiviral therapy with pegylated interferon and ribavirin [see Indications and Usage (1.2)].
 - Prior to use of the oral suspension, ensure patients or caregivers receive training on proper dosing, preparation, and administration [see Dosage and Administration (2.4)].
 - Inform patients or caregivers how many packets to administer to get the full dose [see Instructions for Use].
+- Inform patients or caregivers to use a new oral dosing syringe to prepare each dose of PROMACTA for oral suspension [see Instructions for Use].

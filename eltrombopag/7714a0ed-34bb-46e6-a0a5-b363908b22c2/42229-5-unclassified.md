@@ -2,6 +2,6 @@ The following are registered trademarks of their respective owners: PEGASYS/Hoff
 
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
-©Novartis
+© Novartis
 
-T2017-102 October 2017
+T2018-84

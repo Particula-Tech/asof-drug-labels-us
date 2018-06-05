@@ -20,14 +20,14 @@ PROMACTA was administered to 330 patients for at least 6 months and 218 patients
 Table 4 presents the most common adverse drug reactions (experienced by greater than or equal to 3% of patients receiving PROMACTA) from the three placebo-controlled trials, with a higher incidence in PROMACTA versus placebo.
 
 Table 4.
-Adverse Reactions (≥3%) from Three Placebo-controlled Trials in Adults with Chronic Immune (Idiopathic) Thrombocytopenia
+Adverse Reactions (≥ 3%) from Three Placebo-controlled Trials in Adults with Chronic Immune (Idiopathic) Thrombocytopenia
 
 | Adverse Reaction | PROMACTA 50 mg n = 241(%) | Placebon = 128(%) |
 | --- | --- | --- |
 | Nausea | 9 | 3 |
 | Diarrhea | 9 | 7 |
 | Upper respiratory tract infection | 7 | 6 |
-| Vomiting | 6 | <1 |
+| Vomiting | 6 | < 1 |
 | Increased ALT | 5 | 3 |
 | Myalgia | 5 | 2 |
 | Urinary tract infection | 5 | 3 |
@@ -45,7 +45,7 @@ Among 302 patients with chronic ITP who received PROMACTA in the single-arm exte
 Table 5 presents the most common treatment-related adverse reactions (experienced by greater than or equal to 3% of patients receiving PROMACTA) from the extension trial.
 
 Table 5.
-Treatment-related Adverse Reactions (≥3%) from Extension Trial in Adults with Chronic Immune (Idiopathic) Thrombocytopenia
+Treatment-related Adverse Reactions (≥ 3%) from Extension Trial in Adults with Chronic Immune (Idiopathic) Thrombocytopenia
 
 | Adverse Reaction | PROMACTA 50 mg n = 302(%) |
 | --- | --- |
@@ -70,7 +70,7 @@ All patients had documented, preexisting risk factors for cataractogenesis inclu
 In the extension trial, cataracts developed or worsened in 11% of patients who underwent ocular examination prior to therapy with PROMACTA.
 Seventy-two percent of patients had preexisting risk factors, including corticosteroid use.
 
-In clinical trials in patients with chronic ITP, one patient treated with PROMACTA (<1%) experienced drug-induced liver injury [see Warnings and Precautions (5.2)].
+In clinical trials in patients with chronic ITP, one patient treated with PROMACTA (< 1%) experienced drug-induced liver injury [see Warnings and Precautions (5.2)].
 
 In a placebo-controlled trial of PROMACTA in patients with chronic liver disease and thrombocytopenia not related to ITP, six patients treated with PROMACTA and one patient in the placebo group developed portal vein thromboses [see Warnings and Precautions (5.4)].
 
@@ -79,7 +79,7 @@ Pediatric Patients: The data described below reflect median exposure to PROMACTA
 Table 6 presents the most common adverse drug reactions (experienced by greater than or equal to 3% of pediatric patients 1 year and older receiving PROMACTA) across the two placebo-controlled trials, with a higher incidence for PROMACTA versus placebo.
 
 Table 6.
-Adverse Reactions (≥3%) with a Higher Incidence for PROMACTA versus Placebo from Two Placebo-controlled Trials in Pediatric Patients 1 Year and Older with Chronic Immune (Idiopathic) Thrombocytopenia
+Adverse Reactions (≥ 3%) with a Higher Incidence for PROMACTA versus Placebo from Two Placebo-controlled Trials in Pediatric Patients 1 Year and Older with Chronic Immune (Idiopathic) Thrombocytopenia
 
 |  | PROMACTA | Placebo |
 | --- | --- | --- |
@@ -98,7 +98,7 @@ Adverse Reactions (≥3%) with a Higher Incidence for PROMACTA versus Placebo fr
 | Rash | 5 | 2 |
 | AST increased | 4 | 0 |
 | Rhinorrhea | 4 | 0 |
-| a Includes adverse reactions or laboratory abnormalities >3 x ULN. |  |  |
+| a Includes adverse reactions or laboratory abnormalities > 3 x ULN |  |  |
 
 In the two controlled clinical chronic ITP trials, cataracts developed or worsened in 2 (1%) patients treated with PROMACTA.
 Both patients had received chronic oral corticosteroids, a risk factor for cataractogenesis.
@@ -107,7 +107,7 @@ Chronic Hepatitis C-associated Thrombocytopenia: In the two placebo-controlled t
 Table 7 presents the most common adverse drug reactions (experienced by greater than or equal to 10% of patients receiving PROMACTA compared with placebo).
 
 Table 7.
-Adverse Reactions (≥10% and Greater than Placebo) from Two Placebo-controlled Trials in Adults with Chronic Hepatitis C
+Adverse Reactions (≥ 10% and Greater than Placebo) from Two Placebo-controlled Trials in Adults with Chronic Hepatitis C
 
 | Adverse Reaction | PROMACTA+ Peginterferon/Ribavirinn = 955(%) | Placebo+ Peginterferon/Ribavirinn = 484(%) |
 | --- | --- | --- |
@@ -143,7 +143,7 @@ Eleven patients (26%) were treated for greater than 6 months and 7 patients (16%
 The most common adverse reactions (greater than or equal to 20%) were nausea, fatigue, cough, diarrhea, and headache.
 
 Table 8.
-Adverse Reactions (≥10%) from One Open-label Trial in Adults with Severe Aplastic Anemia
+Adverse Reactions (≥ 10%) from One Open-label Trial in Adults with Severe Aplastic Anemia
 
 | Adverse Reaction | PROMACTA(n = 43)(%) |
 | --- | --- |

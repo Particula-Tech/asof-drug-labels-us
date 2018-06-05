@@ -70,7 +70,7 @@ Chronic Hepatitis C: A population PK analysis in 28 healthy adults and 635 patie
 Patients with chronic hepatitis C and mild hepatic impairment had approximately 100% to 144% higher plasma AUC(0-τ) compared with healthy subjects.
 This clinical trial did not evaluate protein-binding effects.
 
-Renal Impairment: The disposition of a single 50-mg dose of PROMACTA in patients with mild (creatinine clearance [CrCl] of 50 to 80 mL/min), moderate (CrCl of 30 to 49 mL/min), and severe (CrCl less than 30 mL/min) renal impairment was compared with subjects with normal renal function.
+Renal Impairment: The disposition of a single 50-mg dose of PROMACTA in patients with mild (creatinine clearance [CrCL] of 50 to 80 mL/min), moderate (CrCL of 30 to 49 mL/min), and severe (CrCL less than 30 mL/min) renal impairment was compared with subjects with normal renal function.
 Average total plasma eltrombopag AUC0-INF was 32% to 36% lower in subjects with mild to moderate renal impairment and 60% lower in subjects with severe renal impairment compared with healthy subjects.
 The effect of renal impairment on unbound (active) eltrombopag exposure has not been assessed.
 
@@ -95,7 +95,7 @@ Geometric Mean (95% CI) Steady-state Plasma Eltrombopag Pharmacokinetic Paramete
 |  | (9.42, 11.2) | (137, 170) |
 | 1 to 5 years (n = 38) | 11.6 | 162 |
 |  | (10.4, 12.9) | (139, 187) |
-| a PK parameters presented as geometric mean (95% CI). b Based on population PK post-hoc estimates. |  |  |
+| a PK parameters presented as geometric mean (95% CI) b Based on population PK post-hoc estimates |  |  |
 
 ## 12.6 Assessment of Risk of QT/QTc Prolongation
 

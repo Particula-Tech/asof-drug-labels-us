@@ -25,7 +25,7 @@ The plasma concentrations in pups increased with dose following administration o
 ## 8.3 Nursing Mothers
 
 It is not known whether eltrombopag is excreted in human milk.
-Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from PROMACTA, a decision should be made whether to discontinue nursing or to discontinue PROMACTA taking into account the importance of PROMACTA to the mother.
+Because many drugs are excreted in human milk, and because of the potential for serious adverse reactions in nursing infants from PROMACTA, a decision should be made whether to discontinue nursing or to discontinue PROMACTA taking into account the importance of PROMACTA to the mother.
 
 ## 8.4 Pediatric Use
 

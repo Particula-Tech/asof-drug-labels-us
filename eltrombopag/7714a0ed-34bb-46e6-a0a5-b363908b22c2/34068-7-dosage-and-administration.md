@@ -30,10 +30,10 @@ Dose Adjustments of PROMACTA in Patients with Chronic Immune (Idiopathic) Thromb
 
 | Platelet Count Result | Dose Adjustment or Response |
 | --- | --- |
-| <50 x 109/L following at least 2 weeks of PROMACTA | Increase daily dose by 25 mg to a maximum of 75 mg/day. For patients taking 12.5 mg once daily, increase the dose to 25 mg daily before increasing the dose amount by 25 mg. |
-| ≥200 x 109/L to ≤400 x 109/L at any time | Decrease the daily dose by 25 mg. Wait 2 weeks to assess the effects of this and any subsequent dose adjustments. For patients taking 25 mg once daily, decrease the dose to 12.5 mg once daily. |
-| >400 x 109/L | Stop PROMACTA; increase the frequency of platelet monitoring to twice weekly. Once the platelet count is <150 x 109/L, reinitiate therapy at a daily dose reduced by 25 mg. For patients taking 25 mg once daily, reinitiate therapy at a daily dose of 12.5 mg. |
-| >400 x 109/L after 2 weeks of therapy at lowest dose of PROMACTA | Discontinue PROMACTA. |
+| < 50 x 109/L following at least 2 weeks of PROMACTA | Increase daily dose by 25 mg to a maximum of 75 mg/day. For patients taking 12.5 mg once daily, increase the dose to 25 mg daily before increasing the dose amount by 25 mg. |
+| ≥ 200 x 109/L to ≤ 400 x 109/L at any time | Decrease the daily dose by 25 mg. Wait 2 weeks to assess the effects of this and any subsequent dose adjustments. For patients taking 25 mg once daily, decrease the dose to 12.5 mg once daily. |
+| > 400 x 109/L | Stop PROMACTA; increase the frequency of platelet monitoring to twice weekly. Once the platelet count is < 150 x 109/L, reinitiate therapy at a daily dose reduced by 25 mg. For patients taking 25 mg once daily, reinitiate therapy at a daily dose of 12.5 mg. |
+| > 400 x 109/L after 2 weeks of therapy at lowest dose of PROMACTA | Discontinue PROMACTA. |
 
 In patients with ITP and hepatic impairment (Child-Pugh Class A, B, C), after initiating PROMACTA or after any subsequent dosing increase, wait 3 weeks before increasing the dose.
 
@@ -69,10 +69,10 @@ Dose Adjustments of PROMACTA in Adults with Thrombocytopenia due to Chronic Hepa
 
 | Platelet Count Result | Dose Adjustment or Response |
 | --- | --- |
-| <50 x 109/L following at least 2 weeks of PROMACTA | Increase daily dose by 25 mg to a maximum of 100 mg/day. |
-| ≥200 x 109/L to ≤400 x 109/L at any time | Decrease the daily dose by 25 mg. Wait 2 weeks to assess the effects of this and any subsequent dose adjustments. |
-| >400 x 109/L | Stop PROMACTA; increase the frequency of platelet monitoring to twice weekly.Once the platelet count is <150 x 109/L, reinitiate therapy at a daily dose reduced by 25 mg.For patients taking 25 mg once daily, reinitiate therapy at a daily dose of 12.5 mg. |
-| >400 x 109/L after 2 weeks of therapy at lowest dose of PROMACTA | Discontinue PROMACTA. |
+| < 50 x 109/L following at least 2 weeks of PROMACTA | Increase daily dose by 25 mg to a maximum of 100 mg/day. |
+| ≥ 200 x 109/L to ≤ 400 x 109/L at any time | Decrease the daily dose by 25 mg. Wait 2 weeks to assess the effects of this and any subsequent dose adjustments. |
+| > 400 x 109/L | Stop PROMACTA; increase the frequency of platelet monitoring to twice weekly.Once the platelet count is < 150 x 109/L, reinitiate therapy at a daily dose reduced by 25 mg.For patients taking 25 mg once daily, reinitiate therapy at a daily dose of 12.5 mg. |
+| > 400 x 109/L after 2 weeks of therapy at lowest dose of PROMACTA | Discontinue PROMACTA. |
 
 Discontinuation: The prescribing information for pegylated interferon and ribavirin include recommendations for antiviral treatment discontinuation for treatment futility.
 Refer to pegylated interferon and ribavirin prescribing information for discontinuation recommendations for antiviral treatment futility.
@@ -99,10 +99,10 @@ Dose Adjustments of PROMACTA in Patients with Severe Aplastic Anemia
 
 | Platelet Count Result | Dose Adjustment or Response |
 | --- | --- |
-| <50 x 109/L following at least 2 weeks of PROMACTA | Increase daily dose by 50 mg to a maximum of 150 mg/day. For patients taking 25 mg once daily, increase the dose to 50 mg daily before increasing the dose amount by 50 mg. |
-| ≥200 x 109/L to ≤400 x 109/L at any time | Decrease the daily dose by 50 mg. Wait 2 weeks to assess the effects of this and any subsequent dose adjustments. |
-| >400 x 109/L | Stop PROMACTA for 1 week. Once the platelet count is <150 x 109/L, reinitiate therapy at a dose reduced by 50 mg. |
-| >400 x 109/L after 2 weeks of therapy at lowest dose of PROMACTA | Discontinue PROMACTA. |
+| < 50 x 109/L following at least 2 weeks of PROMACTA | Increase daily dose by 50 mg to a maximum of 150 mg/day. For patients taking 25 mg once daily, increase the dose to 50 mg daily before increasing the dose amount by 50 mg. |
+| ≥ 200 x 109/L to ≤ 400 x 109/L at any time | Decrease the daily dose by 50 mg. Wait 2 weeks to assess the effects of this and any subsequent dose adjustments. |
+| > 400 x 109/L | Stop PROMACTA for 1 week. Once the platelet count is < 150 x 109/L, reinitiate therapy at a dose reduced by 50 mg. |
+| > 400 x 109/L after 2 weeks of therapy at lowest dose of PROMACTA | Discontinue PROMACTA. |
 
 For patients who achieve tri-lineage response, including transfusion independence, lasting at least 8 weeks: the dose of PROMACTA may be reduced by 50% [see Clinical Studies (14.3)].
 If counts remain stable after 8 weeks at the reduced dose, then discontinue PROMACTA and monitor blood counts.
@@ -122,7 +122,7 @@ Discard any suspension not administered within 30 minutes after preparation.
 Prepare the suspension with water only.
 NOTE: Do not use hot water to prepare the suspension.
 
-For details on preparation and administration of the suspension, see Instructions for Use.
+For details on preparation and administration of the suspension, including the recommended duration of use of each oral dosing syringe, see Instructions for Use.
 
 Administration of Tablets and Oral Suspension: Take PROMACTA on an empty stomach (1 hour before or 2 hours after a meal) [see Clinical Pharmacology (12.3)].
 
