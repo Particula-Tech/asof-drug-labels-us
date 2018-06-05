@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The most serious adverse reactions seen in Lialda clinical trials or with other products that contain or are metabolized to mesalamine are:
+The most serious adverse reactions seen in LIALDA clinical trials or with other products that contain or are metabolized to mesalamine are:
 
 - Renal impairment, including renal failure [See Warnings and Precautions (5.1)]
 - Mesalamine-induced acute intolerance syndrome [See Warnings and Precautions (5.2)]
@@ -39,7 +39,7 @@ Cardiac Disorder: tachycardia
 
 Vascular Disorders: hypertension, hypotension
 
-Skin and Subcutaneous Tissue Disorders: acne, prurigo, rash, urticaria
+Skin and Subcutaneous Tissue Disorders: acne, pruritus, urticaria
 
 Gastrointestinal Disorders: abdominal distention, colitis, diarrhea, pancreatitis, rectal polyp, vomiting
 
@@ -87,7 +87,7 @@ The following adverse reactions, presented by body system, were reported infrequ
 
 Cardiac Disorder: tachycardia
 
-Skin and Subcutaneous Tissue Disorders: acne, alopecia, pruritis, urticaria
+Skin and Subcutaneous Tissue Disorders: acne, alopecia, pruritus, urticaria
 
 Gastrointestinal Disorders: colitis, flatulence, nausea, pancreatitis, rectal polyp, vomiting
 
@@ -124,6 +124,6 @@ Renal Disorders: interstitial nephritis, nephrogenic diabetes insipidus
 
 Respiratory, Thoracic and Mediastinal Disorders: interstitial lung disease, hypersensitivity pneumonitis (including interstitial pneumonitis, allergic alveolitis, eosinophilic pneumonitis)
 
-Skin: psoriasis, pyoderma gangrenosum, erythema nodosum
+Skin: psoriasis, pyoderma gangrenosum, erythema nodosum, photosensitivity
 
 Urogenital: reversible oligospermia

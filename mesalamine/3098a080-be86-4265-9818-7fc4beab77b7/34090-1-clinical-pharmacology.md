@@ -87,8 +87,8 @@ The apparent terminal half-lives for mesalamine and its major metabolite after a
 
 Drug Interactions:
 
-The potential effect of Lialda (4.8 g given once daily) on the pharmacokinetics of four commonly used antibiotics were evaluated in healthy subjects.
+The potential effect of LIALDA (4.8 g given once daily) on the pharmacokinetics of four commonly used antibiotics were evaluated in healthy subjects.
 The four antibiotics studied and their dosing regimens were as follows: amoxicillin (single 500 mg dose), ciprofloxacin XR (single 500 mg dose), metronidazole (750 mg twice daily for 3.5 days), and sulfamethoxazole/trimethoprim (800 mg/160 mg twice daily for 3.5 days).
-Coadministration of Lialda did not result in clinically significant changes in the pharmacokinetics of any of the four antibiotics.
-The change in Cmax and AUC of amoxicillin, ciprofloxacin and metronidazole when they were co-administered with Lialda were all ≤ 3%.
-There was an increase of 12% in Cmax and an increase of 15% in AUC of sulfamethoxazole when sulfamethoxazole/trimethoprim was coadministered with Lialda [see Drug Interactions (7)].
+Coadministration of LIALDA did not result in clinically significant changes in the pharmacokinetics of any of the four antibiotics.
+The change in Cmax and AUC of amoxicillin, ciprofloxacin and metronidazole when they were co-administered with LIALDA were all ≤ 3%.
+There was an increase of 12% in Cmax and an increase of 15% in AUC of sulfamethoxazole when sulfamethoxazole/trimethoprim was coadministered with LIALDA [see Drug Interactions (7)].
