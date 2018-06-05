@@ -8,6 +8,7 @@ The following serious adverse reactions are described below and elsewhere in lab
 - Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)]
 - Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.6)]
 - Hypomagnesemia [see Warnings and Precautions (5.7)]
+- Fundic Gland Polyps [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -86,6 +87,8 @@ The following adverse reactions have been identified during postapproval use of 
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 These adverse reactions are listed below by body system:
+
+Gastrointestinal Disorders: fundic gland polyps
 
 General Disorders and Administration Conditions: asthenia, fatigue, malaise
 
