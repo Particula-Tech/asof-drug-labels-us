@@ -102,7 +102,7 @@ Before taking omeprazole delayed-release capsules, tell your doctor about all of
 It is not known if omeprazole delayed-release capsules will harm your unborn baby.
 
 • are breastfeeding or plan to breastfeed.
-Omeprazole delayed-release capsules passes into your breast milk.
+Omeprazole passes into your breast milk.
 Talk to your doctor about the best way to feed your baby if you take omeprazole delayed-release capsules.
 
 • Tell your doctor about all of the medicines you take including prescription and over-the-counter medicines, vitamins and herbal supplements.
@@ -163,6 +163,9 @@ Tell your doctor right away if you develop any of these symptoms:
 | • abnormal or fast heart beat | • muscle weakness | • spasm of the voice box |
 
 Your doctor may check the level of magnesium in your body before you start taking omeprazole delayed-release capsules or during treatment if you will be taking omeprazole delayed-release capsules for a long period of time.
+
+• Stomach growths (fundic gland polyps).
+People who take PPI medicines for a long time have an increased risk of developing a certain type of stomach growths called fundic gland polyps, especially after taking PPI medicines for more than 1 year.
 
 The most common side effects with omeprazole delayed-release capsules in adults and children include:
 
@@ -252,7 +255,7 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 0117
+Revised: 0518
 
 Dispense with medication guide available at:
 
