@@ -55,3 +55,16 @@ Inhalational anthrax (post-exposure):
 - ADULTS: 100 mg of doxycycline, by mouth, twice a day for 60 days.
 - CHILDREN: weighing less than 45 kg; 2.2 mg/kg of body weight by mouth, twice a day for 60 days.
   Children weighing 45 kg or more should receive the adult dose.
+
+Rocky Mountain spotted fever:
+
+Doxycycline is the first line treatment for adults and children of all ages:
+
+- ADULTS: 100 mg every 12 hours.
+- CHILDREN: weighing less than 45 kg: 2.2 mg/kg body weight given twice a day.
+
+Children weighing 45 kg or more should receive the adult dose.
+(See WARNINGS and PRECAUTIONS.)
+
+Patients should be treated for at least 3 days after the fever subsides and until there is evidence of clinical improvement.
+Minimum course of treatment is 5–7 days.

@@ -30,27 +30,25 @@ RASPBERRY FLAVORED
 
 Pfizer Pfizer Labs Division of Pfizer Inc, NY, NY 10017
 
-# PRINCIPAL DISPLAY PANEL - 50 mg Oral Suspension Bottle Label
+# PRINCIPAL DISPLAY PANEL - 473 mL Bottle Label
+
+Pfizer
 
 NDC 0069-0971-93
 
-1 Pint (473 mL)
-
-Vibramycin® calcium (doxycycline calcium) SYRUP
-
-ORAL SUSPENSION
-
-FOR ORAL USE ONLY
-
-IMPORTANT This closure is not child-resistant.
+Vibramycin® calcium (doxycycline calcium) syrup
 
 50 mg/5 mL*
+
+ORAL SUSPENSION FOR ORAL USE ONLY
+
+IMPORTANT THIS CLOSURE IS NOT CHILD-RESISTANT.
 
 RASPBERRY/APPLE FLAVORED
 
 SHAKE WELL BEFORE USING
 
-Pfizer Pfizer Labs Division of Pfizer Inc, NY, NY 10017
+1 Pint (473 mL) Rx only
 
 # PRINCIPAL DISPLAY PANEL - 100 mg Capsule Bottle Label
 
