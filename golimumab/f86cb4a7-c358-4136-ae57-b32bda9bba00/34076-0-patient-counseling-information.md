@@ -29,7 +29,7 @@ If a patient or caregiver is to administer SIMPONI, he/she should be instructed 
 
 Advise the patient to read the FDA-approved Instructions for Use and provide the following instructions to patients:
 
-- Prior to use, remove the prefilled syringe or the prefilled SmartJect autoinjector from the refrigerator and allow SIMPONI to sit at room temperature outside of the carton for 30 minutes and out of the reach of children.
+- Prior to use, remove the prefilled syringe or the prefilled SmartJect autoinjector from the refrigerator and allow SIMPONI to sit at room temperature outside of the carton for at least 30 minutes and out of the reach of children.
 - Do not warm SIMPONI in any other way.
   For example, do not warm SIMPONI in a microwave or in hot water.
 - Do not remove the prefilled syringe needle cover or SmartJect autoinjector cap while allowing SIMPONI to reach room temperature.

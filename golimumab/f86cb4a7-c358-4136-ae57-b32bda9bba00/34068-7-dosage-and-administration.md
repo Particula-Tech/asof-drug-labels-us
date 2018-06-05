@@ -22,7 +22,7 @@ SIMPONI is intended for use under the guidance and supervision of a healthcare p
 After proper training in subcutaneous injection technique, a patient may self-inject with SIMPONI if a physician determines that it is appropriate.
 Instruct patients to follow the directions provided below [see Instructions for Use]:
 
-- To ensure proper use, allow the prefilled syringe or autoinjector to sit at room temperature outside the carton for 30 minutes prior to subcutaneous injection.
+- To ensure proper use, allow the prefilled syringe or autoinjector to sit at room temperature outside the carton for at least 30 minutes prior to subcutaneous injection.
   Do not warm SIMPONI in any other way.
 - Prior to administration, visually inspect the solution for particles and discoloration through the viewing window.
   SIMPONI is clear to slightly opalescent and colorless to light yellow.

@@ -12,21 +12,27 @@ Please read this Instructions for Use before using SIMPONI SmartJect and each ti
 There may be new information.
 This leaflet does not take the place of talking with your doctor about your medical condition or your treatment.
 
-|  | Store in refrigerator at 36° to 46°F (2° to 8°C). |
+|  | Store SIMPONI in the refrigerator at 36° to 46°F (2° to 8°C). |
 | --- | --- |
-|  | Keep SIMPONI SmartJect and all medicines out of reach of children. |
-|  | Do not shake SmartJect at any time. |
-|  | Need help? |
 
-Call your doctor to talk about any questions you may have.
-For additional assistance or to share your feedback call 800-JANSSEN (800-526-7736).
+If needed, store SIMPONI at room temperature, up to 77°F (25°C) for one period of time up to 30 days.
+Do not return it to the refrigerator.
+Throw away (dispose of) if not used within 30 days at room temperature.
+
+Do not freeze SmartJect.
+
+Do not shake SmartJect.
+
+Keep SIMPONI in the original carton to protect from light before use.
+
+Keep SIMPONI and all medicines out of the reach of children.
 
 Your SmartJect at-a-glance
 
 1.
 Prepare for your injection
 
-| Take out SmartJectTake SmartJect out of the refrigerator and remove it from the carton. Place on a flat surface out of reach of children. | SmartJect should sit at room temperature for 30 minutes to ensure proper injection.Do not warm any other way.Do not remove the cap yet. | Inspect SmartJectCheck the expiration date ('EXP') on the back of SmartJect.Do not use SIMPONI SmartJect if the expiration date has passed. Call your doctor or pharmacist for a refill.Check the security seal on the cap.Do not inject if the seal is broken. |
+| Take out SmartJectTake SmartJect out of the refrigerator and remove it from the carton. Place on a flat surface out of reach of children. | SmartJect should sit at room temperature for at least 30 minutes to ensure proper injection.Do not warm any other way.Do not remove the cap yet. | Inspect SmartJectCheck the expiration date ('EXP') on the back of SmartJect.Do not use SIMPONI SmartJect if the expiration date has passed. Call your doctor or pharmacist for a refill.Check the security seal on the cap.Do not inject if the seal is broken. |
 | --- | --- | --- |
 
 | Gather suppliesWhile SmartJect sits at room temperature for 30 minutes, gather your supplies: 1 Alcohol swab1 Cotton ball or gauze pad1 Sharps container (See Step 3) Check liquid in the SmartJectAfter 30 minutes, check the liquid in the viewing window. It should be clear to slightly yellow and may contain tiny white or clear particles.It is also normal to see a small air bubble.Do not inject if the liquid is cloudy or discolored, or has large particles. |  |  |
@@ -45,6 +51,8 @@ Prepare for your injection
 | 3. After your injection |  |
 | --- | --- |
 | Dispose of your SmartJectPut your used SmartJect in an FDA-cleared sharps disposal container right away after use.Do not throw away (dispose of) loose needles and syringes in your household trash. Do not recycle your used sharps disposal container.For more information, see "Helpful tips".Check injection siteThere may be a small amount of blood or liquid at the injection site. | Hold pressure over your skin with a cotton ball or gauze pad until any bleeding stops.Do not rub the injection site.If needed, cover injection site with a bandage. Your injection is now complete! |
+| Need help? |  |
+| Call your doctor to talk about any questions you may have. For additional assistance or to share your feedback call 800-JANSSEN (800-526-7736). |  |
 
 | Helpful tipsIf you are having difficulty injecting: ✓Make sure the cap is removed.✓Make sure SmartJect is pushed firmly against your skin. | ✓Make sure you are pressing the raised part of button.✓Try pressing the button a little harder.✓Try a different injection site. If you are pinching the skin to inject: | Use 1 hand to both position SmartJect against the skin and press the button. |
 | --- | --- | --- |
@@ -56,7 +64,7 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 Manufactured by: Janssen Biotech, Inc. Horsham, PA 19044 US License No. 1864
 
-Approved: September 2015
+Revised: May 2018
 
 Instructions for Use SIMPONI® (SIM-po-nee) (golimumab) Prefilled Syringe
 
@@ -64,7 +72,7 @@ Important
 
 SIMPONI comes as a single-dose prefilled syringe containing one 50 mg or one 100 mg dose.
 Each SIMPONI prefilled syringe can only be used one time.
-Throw the used prefilled syringe away (See Step 3) after one dose, even if there is medicine left in it.
+Throw away (dispose of) the used prefilled syringe (See Step 3) after one dose, even if there is medicine left in it.
 Do not reuse your SIMPONI prefilled syringe.
 
 If your healthcare provider decides that you or a caregiver may be able to give your injections of SIMPONI at home, you should receive training on the right way to prepare and inject SIMPONI using the prefilled syringe before attempting to inject.
@@ -79,14 +87,19 @@ After injection, the needle will retract into the body of the device and lock in
 
 Storage information
 
-Store in refrigerator at 36° to 46°F (2° to 8°C).
+Store SIMPONI in the refrigerator at 36° to 46°F (2° to 8°C).
+
+If needed, store SIMPONI at room temperature, up to 77°F (25°C) for one period of time up to 30 days.
+Do not return it to the refrigerator.
+Throw away if not used within 30 days at room temperature.
+
 Do not freeze SIMPONI prefilled syringe.
 
-Keep SIMPONI prefilled syringe and all medicines out of reach of children.
+Do not shake SIMPONI prefilled syringe.
 
-Do not shake your SIMPONI prefilled syringe.
+Keep SIMPONI prefilled syringe in the original carton to protect from light before use.
 
-Keep SIMPONI prefilled syringe in the original carton to protect from light and physical damage.
+Keep SIMPONI prefilled syringe and all medicines out of the reach of children.
 
 Prefilled syringe parts
 
@@ -102,11 +115,11 @@ Inspect carton
 
 Remove your SIMPONI prefilled syringe carton from the refrigerator.
 
-Keep the prefilled syringe in the carton and let it sit on a flat surface at room temperature for at least 30 minutes before use.
+Remove the prefilled syringe from the carton and let it sit on a flat surface at room temperature for at least 30 minutes before use.
 
 Do not warm the prefilled syringe any other way.
 
-Check the expiration date ('EXP') on the back panel of the carton.
+Check the expiration date ('EXP') on the back panel of the carton and on the prefilled syringe (through the viewing window).
 
 Do not use your prefilled syringe if the expiration date has passed.
 
@@ -136,8 +149,6 @@ Wipe your chosen injection site with an alcohol swab and allow it to dry.
 Do not touch, fan, or blow on the injection site after you have cleaned it.
 
 Inspect liquid
-
-Take your SIMPONI prefilled syringe out of the carton.
 
 Check the SIMPONI prefilled syringe liquid in the viewing window.
 It should be clear to slightly yellow and may contain tiny white or clear particles.
@@ -229,6 +240,6 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 Manufactured by: Janssen Biotech, Inc. Horsham, PA 19044 US License No. 1864
 
-Approved: November 2017
+Revised: May 2018
 
 janssen
