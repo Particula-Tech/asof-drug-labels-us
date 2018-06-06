@@ -39,7 +39,7 @@ Metabolism
 
 Lidocaine is rapidly metabolized by the liver, and less than 10% of a dose is excreted unchanged in the urine.
 A major pathway of metabolism is through oxidative N-dealkylation to yield the active metabolites monoethylglycinexylidide (MEGX) and glycinexylidide (GX).
-The pharmacological/toxicological activites of these metabolites are similar to, but less potent than, lidocaine.
+The pharmacological/toxicological activities of these metabolites are similar to, but less potent than, lidocaine.
 The primary metabolite in urine is a conjugate of 4-hydroxy-2,6-dimethylaniline.
 
 In vitro studies with human liver microsomes and recombinant human cytochrome P450 (CYP) isoforms showed that both CYP1A2 and CYP3A4 enzymes are the major CYP isoforms involved in lidocaine N-dealkylation.
