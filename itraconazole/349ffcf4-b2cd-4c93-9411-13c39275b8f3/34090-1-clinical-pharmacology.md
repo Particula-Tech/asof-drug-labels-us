@@ -1,15 +1,15 @@
 # CLINICAL PHARMACOLOGY
 
-## Pharmacokinetics and Metabolism
+## Pharmacokinetics and Metabolism:
 
 General Pharmacokinetic Characteristics
 
 Peak plasma concentrations of itraconazole are reached within 2 to 5 hours following oral administration.
 As a consequence of non-linear pharmacokinetics, itraconazole accumulates in plasma during multiple dosing.
-Steady-state concentrations are generally reached within about 15 days, with Cmax values of 0.5 mcg /ml, 1.1 mcg /ml and 2.0 mcg/ml after oral administration of 100 mg once daily, 200 mg once daily and 200 mg b.i.d., respectively.
+Steady-state concentrations are generally reached within about 15 days, with Cmax values of 0.5 mcg /mL, 1.1 mcg /mL and 2.0 mcg/mL after oral administration of 100 mg once daily, 200 mg once daily and 200 mg b.i.d., respectively.
 The terminal half-life of itraconazole generally ranges from 16 to 28 hours after single dose and increases to 34 to 42 hours with repeated dosing.
 Once treatment is stopped, itraconazole plasma concentrations decrease to an almost undetectable concentration within 7 to 14 days, depending on the dose and duration of treatment.
-Itraconazole mean total plasma clearance following intravenous administration is 278 ml/min.
+Itraconazole mean total plasma clearance following intravenous administration is 278 mL/min.
 Itraconazole clearance decreases at higher doses due to saturable hepatic metabolism.
 
 Absorption
@@ -52,20 +52,20 @@ Based on an oral radiolabeled dose, fecal excretion of unchanged drug ranges fro
 As re-distribution of itraconazole from keratinous tissues appears to be negligible, elimination of itraconazole from these tissues is related to epidermal regeneration.
 Contrary to plasma, the concentration in skin persists for 2 to 4 weeks after discontinuation of a 4-week treatment and in nail keratin – where itraconazole can be detected as early as 1 week after start of treatment – for at least six months after the end of a 3-month treatment period.
 
-## Special Populations
+## Special Populations:
 
-Renal Impairment
+Renal Impairment:
 
 Limited data are available on the use of oral itraconazole in patients with renal impairment.
 A pharmacokinetic study using a single 200-mg oral dose of itraconazole was conducted in three groups of patients with renal impairment (uremia: n=7; hemodialysis: n=7; and continuous ambulatory peritoneal dialysis: n=5).
 In uremic subjects with a mean creatinine clearance of 13mL/min. × 1.73m2, the exposure, based on AUC, was slightly reduced compared with normal population parameters.
 This study did not demonstrate any significant effect of hemodialysis or continuous ambulatory peritoneal dialysis on the pharmacokinetics of itraconazole (Tmax, Cmax, and AUC0-8 h). Plasma concentration-versus time profiles showed wide intersubject variation in all three groups.
-After a single intravenous dose, the mean terminal half-lives of itraconazole in patients with mild (defined in this study as CrCl 50-79 ml/min), moderate (defined in this study as CrCl 20 to 49 ml/min), and severe renal impairment (defined in this study as CrCl <20 ml/min) were similar to that in healthy subjects (range of means 42 to 49 hours vs 48 hours in renally impaired patients and healthy subjects, respectively).
+After a single intravenous dose, the mean terminal half-lives of itraconazole in patients with mild (defined in this study as CrCl 50-79 mL/min), moderate (defined in this study as CrCl 20 to 49 mL/min), and severe renal impairment (defined in this study as CrCl <20 mL/min) were similar to that in healthy subjects (range of means 42 to 49 hours vs 48 hours in renally impaired patients and healthy subjects, respectively).
 Overall exposure to itraconazole, based on AUC, was decreased in patients with moderate and severe renal impairment by approximately 30% and 40%, respectively, as compared with subjects with normal renal function.
 Data are not available in renally impaired patients during long-term use of itraconazole.
 Dialysis has no effect on the half-life or clearance of itraconazole or hydroxyitraconazole (See PRECAUTIONS and DOSAGEAND ADMINISTRATION.)
 
-Hepatic Impairment
+Hepatic Impairment:
 
 Itraconazole is predominantly metabolized in the liver.
 A pharmacokinetic study was conducted in 6 healthy and 12 cirrhotic subjects who were administered a single 100-mg dose of itraconazole as capsule.
@@ -74,7 +74,7 @@ However, overall exposure to itraconazole, based on AUC, was similar in cirrhoti
 Data are not available in cirrhotic patients during long-term use of itraconazole.
 (See CONTRAINDICATIONS, PRECAUTIONS:Drug Interactionsand DOSAGE AND ADMINISTRATION.)
 
-Decreased Cardiac Contractility
+Decreased Cardiac Contractility:
 
 When itraconazole was administered intravenously to anesthetized dogs, a dose-related negative inotropic effect was documented.
 In a healthy volunteer study of itraconazole intravenous infusion, transient, asymptomatic decreases in left ventricular ejection fraction were observed using gated SPECT imaging; these resolved before the next infusion, 12 hours later.
@@ -83,7 +83,7 @@ If signs or symptoms of congestive heart failure appear during administration of
 
 ## MICROBIOLOGY
 
-Mechanism of Action
+Mechanism of Action:
 
 In vitro studies have demonstrated that itraconazole inhibits the cytochrome P450-dependent synthesis of ergosterol, which is a vital component of fungal cell membranes.
 
@@ -93,7 +93,7 @@ Itraconazole exhibits in vitro activity against Blastomyces dermatitidis, Histop
 
 Correlation between minimum inhibitory concentration (MIC) results in vitro and clinical outcome has yet to be established for azole antifungal agents.
 
-Drug Resistance
+Drug Resistance:
 
 Isolates from several fungal species with decreased susceptibility to itraconazole have been isolated in vitro and from patients receiving prolonged therapy.
 

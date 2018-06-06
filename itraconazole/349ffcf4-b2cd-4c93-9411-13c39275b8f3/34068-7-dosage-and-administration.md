@@ -5,17 +5,17 @@ Itraconazole capsule must be swallowed whole.
 
 Itraconazole Capsules is a different preparation than Itraconazole Oral Solution and should not be used interchangeably.
 
-Treatment of Blastomycosis and Histoplasmosis
+Treatment of Blastomycosis and Histoplasmosis:
 
 The recommended dose is 200 mg once daily (2 capsules).
 If there is no obvious improvement, or there is evidence of progressive fungal disease, the dose should be increased in 100-mg increments to a maximum of 400 mg daily.
 Doses above 200 mg/day should be given in two divided doses.
 
-Treatment of Aspergillosis
+Treatment of Aspergillosis:
 
 A daily dose of 200 to 400 mg is recommended.
 
-Treatment in Life-Threatening Situations
+Treatment in Life-Threatening Situations:
 
 In life-threatening situations, a loading dose should be used.
 Although clinical studies did not provide for a loading dose, it is recommended, based on pharmacokinetic data, that a loading dose of 200 mg (2 capsules) three times daily (600 mg/day) be given for the first 3 days of treatment.
@@ -26,7 +26,7 @@ An inadequate period of treatment may lead to recurrence of active infection.
 Itraconazole Capsules and Itraconazole Oral Solution should not be used interchangeably.
 Only the oral solution has been demonstrated effective for oral and/or esophageal candidiasis.
 
-Treatment of Onychomycosis
+Treatment of Onychomycosis:
 
 Toenails with or without fingernail involvement: The recommended dose is 200 mg (2 capsules) once daily for 12 consecutive weeks.
 

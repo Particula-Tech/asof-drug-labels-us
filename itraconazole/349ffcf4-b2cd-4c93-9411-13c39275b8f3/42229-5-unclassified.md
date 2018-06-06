@@ -1,197 +1,136 @@
 # Patient Information
 
-ITRACONAZOLE CAPSULES 100 mg
+Read this Patient Information that comes with itraconazole capsules before you start taking it and each time you get a refill.
+There may be new information.
+This information does not take the place of talking with your healthcare provider about your medical condition or your treatment.
 
-This summary contains important information about Itraconazole (IT-ra-KON-a-zole) Capsules.
-This information is for patients who have been prescribed Itraconazole Capsules to treat fungal nail infections.
-If your doctor prescribed Itraconazole Capsules for medical problems other than fungal nail infections, ask your doctor if there is any information in this summary that does not apply to you.
-Read this information carefully each time you start to use Itraconazole Capsules.
-This information does not take the place of discussion between you and your doctor.
-Only your doctor can decide if Itraconazole Capsules is the right treatment for you.
-If you do not understand some of this information or have any questions, talk with your doctor or pharmacist.
+What is the most important information I should know about itraconazole capsules? itraconazole capsules can cause serious side effects, including:
 
-WHAT IS THE MOST IMPORTANT INFORMATION I SHOULD KNOW ABOUT ITRACONAZOLE CAPSULES?
+1. Heart failure.
+   Do not take itraconazole capsules if you have had heart failure, including congestive heart failure.
 
-Itraconazole Capsules is used to treat fungal nail infections.
-However, Itraconazole Capsules is not for everyone.
-Do not take Itraconazole Capsules for fungal nail infections if you have had heart failure, including congestive heart failure.
-You should not take Itraconazole Capsules if you are taking certain medicines that could lead to serious or life-threatening medical problems.
-(See "Who Should Not Take Itraconazole Capsules ?" below.)
+Stop taking itraconazole capsules and call your healthcare provider right away if you have any of these symptoms of congestive heart failure:
 
-If you have had heart, lung, liver, kidney or other serious health problems, ask your doctor if it is safe for you to take Itraconazole Capsules.
+- shortness of breath • coughing up white or pink mucus (phlegm)
+- swelling of your feet, ankles or legs • fast heartbeat
+- sudden weight gain • waking up at night more than normal for you
+- increased tiredness
 
-WHAT HAPPENS IF I HAVE A FUNGAL NAIL INFECTION?
+1. Heart problems and other serious medical problems.
+   Serious medical problems that affect the heart and other parts of your body can happen if you take itraconazole capsules with certain other medicines.
+   Do not take itraconazole capsules if you also take the following medicines: methadone methylergometrine(methylergonovine) ranolazine disopyramide irinotecan eplerenone dofetilide lurasidone cisapride dronedarone oral midazolam naloxegol quinidine pimozide lomitapide isavuconazole triazolam lovastatin ergot alkaloids (such as dihydroergotamine, ergometrine ergonovine) felodipine nisoldipine ivabradine simvastatinavanafilticagrelor ergotamime
 
-Anyone can have a fungal nail infection, but it is usually found in adults.
-When a fungus infects the tip or sides of a nail, the infected part of the nail may turn yellow or brown.
-If not treated, the fungus may spread under the nail towards the cuticle.
-If the fungus spreads, more of the nail may change color, may become thick or brittle, and the tip of the nail may become raised.
-In some patients, this can cause pain and discomfort.
+This is not a complete list of medicines that can interact with itraconazole capsules.
+Itraconazole capsules may affect the way other medicines work, and other medicines may affect how itraconazole capsules works.
+You can ask your pharmacist for a list of medicines that interact with itraconazole capsules.
 
-WHAT IS ITRACONAZOLE CAPSULES?
+Before you start taking itraconazole capsules, tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+Before you start any new medicine, ask your healthcare provider or pharmacist if it is safe to take it with itraconazole capsules.
 
-Itraconazole Capsules is a prescription medicine used to treat fungal infections of the toenails and fingernails.It is also used to treat some types of fungal infections in other areas of your body.
-We do not know if Itraconazole Capsules works in children with fungal nail infections or if it is safe for children to take.
+1. Liver problems.
+   Itraconazole capsules can cause serious liver problems which may be severe and lead to death.
+   Stop taking itraconazole capsules and call your healthcare provider right away if you have any of these symptoms of liver problems:
 
-Itraconazole Capsules comes in the form of capsules and liquid (oral solution).
-The capsule and liquid forms work differently, so you should not use one in place of the other.
-This Patient Information discusses only the capsule form of Itraconazole Capsules.
+- tiredness • your skin or the white part of your eyes turn
+- loss of appetite for several days or longer yellow (jaundice)
+- nausea or vomiting • light-colored stools (bowel movement)
+- dark or “tea-colored” urine
 
-Itraconazole Capsules goes into your bloodstream and travels to the source of the infection underneath the nail so that it can fight the infection there.
-Improved nails may not be obvious for several months after the treatment period is finished because it usually takes about 6 months to grow a new fingernail and 12 months to grow a new toenail.
+For more information about side effects, see 'What are the possible side effects of itraconazole capsules?'
 
-WHO SHOULD NOT TAKE ITRACONAZOLE CAPSULES ?
+What is itraconazole capsules?
 
-Itraconazole Capsules is not for everyone.
-Your doctor will decide if Itraconazole Capsules is the right treatment for you.
-Some patients should not take Itraconazole Capsules because they may have certain health problems or may be taking certain medicines that could lead to serious or life-threatening medical problems.
+- Itraconazole capsules is a prescription medicine used to treat the following fungal infections of the toenails, fingernails and other parts of the body: blastomycosis, histoplasmosis, aspergillosis, and onychomycosis.
+- It is not known if itraconazole capsules is safe and effective in children.
 
-Tell your doctor and pharmacist the name of all the prescription and non-prescription medicines you are taking, including dietary supplements and herbal remedies.
-Also tell your doctor about any other medical conditions you have had, especially heart, lung, liver or kidney conditions. or if you have cystic fibrosis, or have had an allergic reaction to Itraconazole Capsules or any other antifungal medicines.
+Do not take itraconazole capsules if you:
 
-Never take Itraconazole Capsules if you:
+- have or have had heart failure, including congestive heart failure.
+- take certain medicines.
+  See “What is the most important information I should know about itraconazole capsules?”
+- are pregnant or plan to become pregnant.
+  Itraconazole capsules can harm your unborn baby.
+  Tell your healthcare provider right away if you become pregnant while taking itraconazole capsules.
+  Females who are able to become pregnant must use effective forms of birth control during treatment and for 2 months after stopping treatment with itraconazole capsules.
+- are allergic to itraconazole or any of the ingredients in itraconazole capsules.
+  See the end of this Patient Information leaflet for a complete list of ingredients in itraconazole capsules.
 
-· have had heart failure, including congestive heart failure.
+Before taking itraconazole capsules, tell your healthcare provider about all of your medical conditions, including if you:
 
-· are taking any of the medicines listed below.
-Dangerous or even life-threatening side effects could result:
+- have heart problems.
+- have liver problems.
+- have kidney problems.
+- have a weakened immune system (immunocompromised).
+- have lung problems including cystic fibrosis.
+- are breastfeeding or plan to breastfeed.
+  Itraconazole capsules can pass into your breast milk.
+  You and your healthcare provider should decide if you will take itraconazole capsules or breastfeed.
 
-· avanafil (such as StendraTM)
+Taking itraconazole capsules with certain medicines may affect each other.
+Taking itraconazole capsules with other medicines can cause serious side effects.
 
-· cisapride (such as Propulsid®)
+How should I take itraconazole capsules?
 
-· colchicine (such as Colcrys™) [if you also have pre-existing kidney or liver impairment]
+- Take itraconazole capsules exactly as prescribed by your healthcare provider.
+  Your healthcare provider will tell you how much itraconazole capsules to take and when to take it.
+- You will receive itraconazole capsules in a blister pack, bottle or PulsePak.
+  Your healthcare provider will decide the type of itraconazole capsules that is right for you.
+- Take itraconazole capsules with a full meal.
+- Swallow itraconazole capsules whole.
 
-· disopyramide (such as Norpace®)
+- You should not take itraconazole capsules oral solution instead of itraconazole capsules, because they will not work the same way.
+- If you take too much itraconazole capsules, call your healthcare provider or go to the nearest hospital emergency room right away.
 
-· dofetilide (such as Tikosyn™)
+What should I avoid while taking itraconazole capsules?
 
-· dronedarone (such as Multaq®)
+Itraconazole capsules can cause dizziness and vision problems.
+Do not drive or operate machinery until you know how itraconazole capsules affects you.
 
-· eliglustat (such as Cerdelga™) [if you know you do not break down drugs that are broken down by the enzyme CYP 2D6]
+What are the possible side effects of itraconazole capsules?
 
-· eplerenone (such as Inspra®)
+Itraconazole capsules may cause serious side effects, including:
 
-· ergot alkaloids (such as Migranal®, Ergonovine, Cafergot®, Methergine®)
+- See “What is the most important information I should know about itraconazole capsules?”
+- Nerve problems (neuropathy).
+  Call your healthcare provider right away if you have tingling or numbness in your hands or feet.
+  Your healthcare provider may stop your treatment with itraconazole capsules if you have nerve problems.
+- Hearing loss.
+  Hearing loss can happen for a short time or permanently in some people who take itraconazole capsules.
+  Stop taking itraconazole capsules and call your healthcare provider right away if you have any changes in your hearing.
 
-· felodipine (such as Plendil®)
+The most common side effects of itraconazole capsules include: headache, rash, and digestive system problems (such as nausea and vomiting).
+Additional possible side effects include upset stomach, vomiting, constipation, fever, inflammation of the pancreas, menstrual disorder, erectile dysfunction, dizziness, muscle pain, painful joints, unpleasant taste, or hair loss.
 
-· fesoterodine (such as Toviaz®) [if you also have pre-existing kidney or liver impairment]
+These are not all the possible side effects of itraconazole capsules.
 
-· irinotecan (such as Camptosar®)
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
 
-· isavuconazole (such as Cresemba®)
+How should I store itraconazole capsules?
 
-· ivabradine (such as Corlanor®)
+- Store itraconazole capsules at room temperature between 20° to 25°C (68° to 77°F)
+- Keep itraconazole capsules dry and away from light.
 
-· lomitapide (such as JuxtapidTM)
+Keep itraconazole capsules and all medicines out of the reach of children.
 
-· lovastatin (such as Mevacor®, Advicor®, Altocor™)
+General information about the safe and effective use of itraconazole capsules.
 
-· lurasidone (such as Latuda®)
+Medicines are sometimes prescribed for purposes other than those listed in a Patient
 
-· methadone (such as Dolophine®)
-
-· midazolam (such as Versed®)
-
-· naloxegol (such as Movantik®)
-
-· nisoldipine (such as Sular®)
-
-· pimozide (such as Orap®)
-
-· quinidine (such as Cardioquin®, Quinaglute®, Quinidex®)
-
-· ranolazine (such as Ranexa®)
-
-· simvastatin (such as Zocor®)
-
-· solifenacin (such as Vesicare®) [if you also have pre-existing kidney or liver impairment]
-
-· ticagrelor (such as Brilinta®)
-
-· triazolam (such as Hacion®)
-
-· have ever had an allergic reaction to itraconazole.
-
-Taking Itraconazole Capsules with certain other medicines may lead to serious or life-threatening medical problems.
-Tell your doctor and pharmacist the name of all the prescription and non-prescription medicines you are taking, including dietary supplements and herbal remedies.
-Your doctor will decide if Itraconazole Capsules is the right treatment for you.
-
-WHAT SHOULD I KNOW ABOUT ITRACONAZOLE CAPSULES AND PREGNANCY OR BREAST FEEDING?
-
-Never take Itraconazole Capsules if you have a fungal nail infection and are pregnant or planning to become pregnant within 2 months after you have finished your treatment.
-If you are able to become pregnant, you should use effective birth control during Itraconazole Capsules treatment and for 2 months after finishing treatment.
-Ask your doctor about effective types of birth control.
-If you are breast-feeding, talk with your doctor about whether you should take Itraconazole Capsules.
-
-HOW SHOULD I TAKE ITRACONAZOLE CAPSULES?
-
-Always take Itraconazole Capsules during or right after a full meal.
-
-Your doctor will decide the right dose for you.
-Depending on your infection, you will take
-
-Itraconazole Capsules once a day for 12 weeks, or twice a day for 1 week in a dosing schedule.
-
-You will receive either a bottle of capsules or a blister pack.
-Do not skip any doses.
-Be sure to finish all your Itraconazole Capsules as prescribed by your doctor.
-
-If you have ever had liver problems, your doctor should do a blood test to check your condition.
-If you haven't had liver problems, your doctor may recommend blood tests to check the condition of your liver because patients taking Itraconazole Capsules can develop liver problems.
-
-Itraconazole Capsules can sometimes cause dizziness or blurred/double vision.
-If you have these symptoms, do not drive or use machines.
-
-If you forget to take or miss doses of Itraconazole Capsules, ask your doctor what you should do with the missed doses.
-
-WHAT ARE THE POSSIBLE SIDE EFFECTS OF ITRACONAZOLE CAPSULES?
-
-The most common side effects include: headache, and digestive system problems (such as nausea, and abdominal pain)
-
-Stop Itraconazole Capsules and call your doctor or get medical assistance right away if you have a severe allergic reaction.
-Symptoms of an allergic reaction may include skin rash, itching, hives, shortness of breath or difficulty breathing, and/or swelling of the face.
-Very rarely, an oversensitivity to sunlight, a tingling sensation in the limbs or a severe skin disorder can occur.
-If any of these symptoms occur, stop taking Itraconazole Capsules and contact your doctor.
-
-Stop Itraconazole Capsules and call your doctor right away if you develop shortness of breath; have unusual swelling of your feet, ankles or legs; suddenly gain weight; are unusually tired; cough up white or pink phlegm; have unusual fast heartbeats; or begin to wake up at night.
-In rare cases, patients taking Itraconazole Capsules could develop serious heart problems, and these could be warning signs of heart failure.
-
-Stop Itraconazole Capsules and call your doctor right away if you become unusually tired; lose your appetite; or develop nausea, abdominal pain, or vomiting, a yellow color to your skin or eyes, or dark colored urine or pale stools (bowel movements).
-In rare cases, patients taking Itraconazole Capsules could develop serious liver problems and these could be warning signs.
-
-Stop Itraconazole Capsules and call your doctor right away if you experience any hearing loss symptoms.
-In very rare cases, patients taking Itraconazole Capsules have reported temporary or permanent hearing loss.
-
-Call your doctor right away if you develop tingling or numbness in your extremities (hands or feet), if your vision gets blurry or you see double, if you hear a ringing in your ears, if you lose the ability to control your urine or urinate much more than usual.
-
-Additional possible side effects include upset stomach, vomiting, constipation, fever, inflammation of the pancreas, menstrual disorders, erectile dysfunction, dizziness, muscle pain, painful joints, unpleasant taste, or hair loss.
-These are not all the side effects of Itraconazole Capsules.
-Your doctor or pharmacist can give you a more complete list.
-
-WHAT SHOULD I DO IF I TAKE AN OVERDOSE OF ITRACONAZOLE CAPSULES?
-
-If you think you took too much Itraconazole Capsules, call your doctor or local poison control center, or go to the nearest hospital emergency room right away.
-
-HOW SHOULD I STORE ITRACONAZOLE CAPSULES?
-
-Keep all medicines, including Itraconazole Capsules, out of the reach of children.
-
-Store Itraconazole Capsules at room temperature in a dry place away from light.
-
-GENERAL ADVICE ABOUT ITRACONAZOLE CAPSULES
-
-Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
-Do not use Itraconazole Capsules for a condition for which it was not prescribed.
-Do not give Itraconazole Capsules to other people, even if they have the same symptoms you have.
+Information leaflet.
+Do not use itraconazole capsules for a condition for which it was not prescribed.
+Do not give itraconazole capsules to other people, even if they have the same symptoms that you have.
 It may harm them.
 
-This leaflet summarizes the most important information about Itraconazole Capsules.
-If you would like more information, talk with your doctor.
-You can ask your doctor or pharmacist for information about Itraconazole Capsules that is written for health professionals or you can call Ascend Laboratories LLC at 1-877-ASC-RX01 (877-272-7901).
+You can ask your doctor or pharmacist for information about itraconazole capsules that is written for health professionals.
 
-This patient information has been approved by the U.S. Food and Drug Administration.
+What are the ingredients in itraconazole capsules?
+
+Active ingredients: itraconazole
+
+Inactive ingredients: hard gelatin capsule, hypromellose, poloxamer 188, ethanol absolute, methylene chloride, polyethylene glycol 20000, talc, colloidal silicon dioxide, SLS,titanium dioxide, FD&C blue 1, FD&C red 40, FD & C red 3 and white ink (containing: shellac, dehydrated alcohol, isopropyl alcohol, butyl alcohol, propylene glycol, strong ammonia solution, titanium dioxide and potassium hydroxide).
+
+This Patient Information has been approved by the U.S. Food and Drug Administration.
 
 Manufactured by:
 
@@ -205,6 +144,6 @@ Ascend Laboratories, LLC
 
 Parsippany, NJ 07054
 
-Revised: November, 2017
+Revised: May, 2018
 
-PT 2269
+PT 2269-01

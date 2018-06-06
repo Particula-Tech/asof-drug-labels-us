@@ -30,7 +30,7 @@ Table 3:Clinical Trials of Systemic Fungal Infections: Adverse Events Occurring 
 | Liver and Biliary System Hepatic Function Abnormal | 3 |
 | Reproductive System,Male Impotence | 1 |
 
-*Rash tends to occur more frequently in immune compromised patients receiving
+*Rash tends to occur more frequently in immunocompromised patients receiving immunosuppressive medications.
 
 Adverse events infrequently reported in all studies included constipation, gastritis, depression,insomnia, tinnitus, menstrual disorder, adrenal insufficiency, gynecomastia, and male breast pain.
 

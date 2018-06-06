@@ -1,4 +1,4 @@
-# BOXED WARNING
+# BOXED WARNINGS
 
 Congestive Heart Failure, Cardiac Effects and Drug Interactions:
 
@@ -10,7 +10,7 @@ When itraconazole was administered intravenously to dogs and healthy human volun
 Drug Interactions, ADVERSE REACTIONS: Post-marketing Experience, and CLINICAL PHARMACOLOGY: Special Populations for more information.)
 
 Drug Interactions:Coadministration of the following drugs are contraindicated with Itraconazole Capsules: methadone, disopyramide, dofetilide, dronedarone, quinidine, isavuconazole, ergot alkaloids (such as dihydroergotamine, ergometrine (ergonovine),ergotamine,methylergometrine (methylergonovine)), irinotecan, lurasidone, oral midazolam, pimozide,triazolam, felodipine, nisoldipine,ivabradine, ranolazine, eplerenone, cisapride,naloxegol, lomitapide, lovastatin, simvastatin,avanafil, ticagrelor.
-In addition, coadministered with colchicines, fesoterodine, and solifenacin is contraindicated in subjects with varying degrees of renal or hepatic impairment, and coadminstered with eliglutat is contraindicated in subjects that are poor or intermediate metabolizers of CYP2D6 and in subjects taking strong or moderate CYP2D6 inhibitors.
+In addition, coadministration with colchicines, fesoterodine, and solifenacin is contraindicated in subjects with varying degrees of renal or hepatic impairment, and coadminstration with eliglutat is contraindicated in subjects that are poor or intermediate metabolizers of CYP2D6 and in subjects taking strong or moderate CYP2D6 inhibitors.
 See PRECAUTIONS: Drug Interactions Section for specific examples.
 Coadministration with itraconazole can cause elevated plasma concentrations of these drugs and may increase or prolong both the pharmacologic effects and/or adverse reactions to these drugs.
 For example, increased plasma concentrations of some of these drugs can lead to QT prolongation and ventricular tachyarrhythmias including occurrences of torsades de pointes, a potentially fatal arrhythmia.

@@ -64,28 +64,33 @@ Studies conducted under fasted conditions demonstrated that administration with 
 This increase relative to the effects of a full meal is unknown.
 (See CLINICAL PHARMACOLOGY: Pharmacokinetics and Metabolism).
 
-## Hepatotoxicity
+## Hepatotoxicity:
 
 Rare cases of serious hepatotoxicity have been observed with Itraconazole Capsules treatment, including some cases within the first week.
 It is recommended that liver function monitoring be considered in all patients receiving Itraconazole Capsules.
 Treatment should be stopped immediately and liver function testing should be conducted in patients who develop signs and symptoms suggestive of liver dysfunction.
 
-## Neuropathy
+## Neuropathy:
 
 If neuropathy occurs that may be attributable to Itraconazole Capsules, the treatment should be discontinued.
 
-## Cystic Fibrosis
+## Immunocompromised Patients:
+
+In some immunocompromised patients (e.g., neutropenic, AIDS or organ transplant patients), the oral bioavailability of itraconazole capsules may be decreased.
+Therefore, the dose should be adjusted based on the clinical response in these patients.
+
+## Cystic Fibrosis:
 
 If a cystic fibrosis patient does not respond to Itraconazole Capsules, consideration should be given to switching to alternative therapy.
 For more information concerning the use of itraconazole in cystic fibrosis patients see the prescribing information for Itraconazole Capsules.
 
-## Hearing Loss
+## Hearing Loss:
 
 Transient or permanent hearing loss has been reported in patients receiving treatment with itraconazole.
 Several of these reports included concurrent administration of quinidine which is contraindicated (See BOXED WARNING: Drug Interactions; CONTRAINDICATIONS: Drug Interactions and PRECAUTIONS: Drug Interactions).
 The hearing loss usually resolves when treatment is stopped, but can persist in some patients.
 
-## Information for Patients
+## Information for Patients:
 
 · The topical effects of mucosal exposure may be different between the Itraconazole Capsules and Oral Solution.
 Only the Oral Solution has been demonstrated effective for oral and/or esophageal candidiasis.
@@ -109,8 +114,6 @@ Advise patients to discontinue therapy and inform their physicians if any hearin
 Advise patients that if they experience these events, they should not drive or use machines.
 
 ## Drug Interactions
-
-Drug Interactions:
 
 Effect of Itraconazole on Other Drugs
 
@@ -291,10 +294,10 @@ Although many of the clinical drug interactions in Table 2 are based on informat
 aBased on clinical drug interaction information with itraconazole.
 Pediatric Population Interaction studies have only been performed in adults.
 
-## Carcinogenesis & Mutagenesis & Impairment of Fertility
+## Carcinogenesis & Mutagenesis & Impairment of Fertility:
 
-Itraconazole showed no evidence of carcinogenicity potential in mice treated orally for 23 months at dosage levels up to 80. mg/kg/day(approximately 10 times the maximum recommended human dose [MRHD]).
-Male rats treated with 25. mg/kg/day (3.1 times the MRHD) had a slightly increased incidence of soft tissue sarcoma.
+Itraconazole showed no evidence of carcinogenicity potential in mice treated orally for 23 months at dosage levels up to 80 mg/kg/day(approximately 10 times the maximum recommended human dose [MRHD]).
+Male rats treated with 25 mg/kg/day (3.1 times the MRHD) had a slightly increased incidence of soft tissue sarcoma.
 These sarcomas may have been a consequence of hypercholesterolemia, which is a response of rats, but not dogs or humans, to chronic itraconazole administration.
 Female rats treated with 50 mg/kg/day (6.25 times the MRHD) had an increased incidence of squamous cell carcinoma of the lung (2/50) as compared to the untreated group.
 Although the occurrence of squamous cell carcinoma in the lung is extremely uncommon in untreated rats, the increase in this study was not statistically significant.
@@ -303,7 +306,7 @@ Itraconazole produced no mutagenic effects when assayed in DNA repair test (unsc
 Itraconazole did not affect the fertility of male or female rats treated orally with dosage levels of up to 40. mg/kg/day (5 times the MRHD), even though parental toxicity was present at this dosage level.
 More severe signs of parental toxicity, including death, were present in the next higher dosage level, 160 mg/kg/day (20 times the MRHD).
 
-## Pregnancy: Teratogenic effects Pregnancy Category C
+## Pregnancy: Teratogenic effects:
 
 Itraconazole was found to cause a dose-related increase in maternal toxicity, embryotoxicity, and teratogenicity in rats at dosage levels of approximately 40 to 160 mg/kg/day (5 to 20 times the MRHD), and in mice at dosage levels of approximately 80 mg/kg/day (10 times the MRHD).
 Itraconazole has been shown to cross the placenta in a rat model.
@@ -319,12 +322,12 @@ Effective contraception should be continued throughout Itraconazole Capsules the
 During post-marketing experience, cases of congenital abnormalities have been reported.
 (See ADVERSE REACTIONS, Post-marketing Experience.)
 
-## Nursing Mothers
+## Nursing Mothers:
 
 Itraconazole is excreted in human milk; therefore, the expected benefits of Itraconazole Capsules therapy for the mother should be weighed against the potential risk from exposure of itraconazole to the infant.
 The U.S. Public Health Service Centers for Disease Control and Prevention advises HIV-infected women not to breast-feed to avoid potential transmission of HIV to uninfected infants.
 
-## Pediatric Use
+## Pediatric Use:
 
 The efficacy and safety of Itraconazole Capsules have not been established in pediatric patients.
 
@@ -333,27 +336,27 @@ In three toxicology studies using rats, itraconazole induced bone defects at dos
 The induced defects included reduced bone plate activity, thinning of the zona compacta of the large bones, and increased bone fragility.
 At a dosage level of 80 mg/kg/day (10 times the MRHD) over 1 year or 160 mg/kg/day (20 times the MRHD) for 6 months, itraconazole induced small tooth pulp with hypocellular appearance in some rats.
 
-## Geriatric Use
+## Geriatric Use:
 
 Clinical studies of Itraconazole Capsules did not include sufficient numbers of subjects aged 65 years and over to determine whether they respond differently from younger subjects.
 It is advised to use Itraconazole Capsules in these patients only if it is determined that the potential benefit outweighs the potential risks.
 In general, it is recommended that the dose selection for an elderly patient should be taken into consideration, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
 Transient or permanent hearing loss has been reported in elderly patients receiving treatment with itraconazole.
-Several of these reports included concurrent administration of quinidine which is contraindicated (See BOX WARNING: Drug Interactions, CONTRAINDICATIONS:and PRECAUTIONS: Drug Interactions).
+Several of these reports included concurrent administration of quinidine which is contraindicated (See BOXED WARNINGS: Drug Interactions, CONTRAINDICATIONS: Drug Interactionsand PRECAUTIONS: Drug Interactions).
 
-## HIV-Infected Patients
+## HIV-Infected Patients:
 
 Because hypochlorhydria has been reported in HIV-infected individuals, the absorption of itraconazole in these patients may be decreased.
 
-## Renal Impairment
+## Renal Impairment:
 
 Limited data are available on the use of oral itraconazole in patients with renal impairment.
 The exposure of itraconazole may be lower in some patients with renal impairment.
 Caution should be exercised when Itraconazole is administered in this patient population and dose adjustment may be needed.
 (See CLINICAL PHARMACOLOGY: Special Populations and DOSAGE AND ADMINISTRATION.)
 
-## Hepatic Impairment
+## Hepatic Impairment:
 
 Limited data are available on the use of oral itraconazole in patients with hepatic impairment.
 Caution should be exercised when this drug is administered in this patient population.
