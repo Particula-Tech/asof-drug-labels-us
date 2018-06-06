@@ -5,6 +5,8 @@
   "inn": "ammonia-n-13",
   "labeler": "Precision Nuclear LLC",
   "package_ndcs": [
+    "52768-100-03",
+    "52768-100-05",
     "52768-100-30",
     "52768-100-50"
   ],

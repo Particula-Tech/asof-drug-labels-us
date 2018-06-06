@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-In a descriptive, prospective, blinded image interpretation study2 of adult patients with known or suspected coronary artery disease, myocardial perfusion deficits in stress and rest PET images obtained with Ammonia N 13 (N=111) or Rubidium 82 (N=82) were compared to changes in stenosis flow reserve (SFR) as determined by coronary angiography.
+In a descriptive, prospective, blinded image interpretation study 2 of adult patients with known or suspected coronary artery disease, myocardial perfusion deficits in stress and rest PET images obtained with Ammonia N 13 (N=111) or Rubidium 82 (N=82) were compared to changes in stenosis flow reserve (SFR) as determined by coronary angiography.
 The principal outcome of the study was the evaluation of PET defect severity relative to SFR.
 
 PET perfusion defects at rest and stress for seven cardiac regions (anterior, apical, anteroseptal, posteroseptal, anterolateral, posterolateral, and inferior walls) were graded on a 0 to 5 scale defined as normal (0), possible (1), probable (2), mild (3), moderate (4), and severe (5) defects.

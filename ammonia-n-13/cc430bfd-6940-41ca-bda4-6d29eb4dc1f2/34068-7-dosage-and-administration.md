@@ -9,7 +9,7 @@
 
 - If a rest imaging study is performed, begin the stress imaging study 40 minutes or more after the first Ammonia N 13 injection to allow sufficient isotope decay.
 - Administer a pharmacologic stress-inducing drug in accordance with its labeling.
-- Aseptically withdraw Ammonia N 13 Injection from its container and administer 10-20 mCi (0.368 - 0.736 GBq) of Ammonia N 13 Injection as a bolus at 8 minutes after the administration of the pharmacologic stress-inducing drug.
+- Aseptically withdraw Ammonia N 13 Injection from its container (if applicable) and administer 10-20 mCi (0.368 - 0.736 GBq) of Ammonia N 13 Injection as a bolus at 8 minutes after the administration of the pharmacologic stress-inducing drug.
 - Start imaging 3 minutes after the Ammonia N 13 Injection and acquire images for a total of 10-20 minutes,
 
 ## 2.3 Patient Preparation
@@ -18,7 +18,8 @@ To increase renal clearance of radioactivity and to minimize radiation dose to t
 
 ## 2.4 Radiation Dosimetry
 
-The converted radiation absorbed doses in rem/mCi are shown in Table I. These estimates are calculated from the Task Group of Committee 2 of the International Commission on Radiation Protection.1
+The converted radiation absorbed doses in rem/mCi are shown in Table I. These estimates are calculated from the Task Group of Committee 2 of the International Commission on Radiation Protection.
+1
 
 Table 1: N 13 Absorbed Radiation Dose Per Unit Activity (rem/mCi) for Adults and Pediatric Groups.
 

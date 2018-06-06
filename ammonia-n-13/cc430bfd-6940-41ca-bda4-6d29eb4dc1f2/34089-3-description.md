@@ -3,7 +3,7 @@
 ## 11.1 Chemical Characteristics
 
 Ammonia N 13 Injection is a positron emitting radiopharmaceutical that is used for diagnostic purposes in conjunction with positron emission tomography (PET) imaging.
-The active ingredient, [13N] ammonia, has the molecular formula of 13NH3 with a molecular weight of 16.02, and has the following chemical structure:
+The active ingredient, [13N] ammonia, has the molecular formula of 13NH 3 with a molecular weight of 16.02, and has the following chemical structure:
 
 Ammonia N 13 Injection is provided as a ready to use sterile, pyrogen-free, clear and colorless solution.
 Each mL, of the solution contains between 0.139 GBq to 9.620 GBq (3.75 mCi to 260 mCi) of [13N] ammonia, at the end of synthesis (EOS) reference time, in 0.9% aqueous sodium chloride.
@@ -22,7 +22,7 @@ Table 2: Principal Radiation Emission Data for Nitrogen 13
 | Positron(?+) | 100 | 1190 keV (Max.) |
 | Gamma(�) Produced by positron annihilation | 200 | 511 keV |
 
-The specific gamma ray constant for nitrogen N 13 is 6.0 R/hr/mCi (1.35 � 10-6 Gy/hr/kBq) at 1 cm.
+The specific gamma ray constant for nitrogen N 13 is 6.0 R/hr/mCi (1.35 � 10 -6 Gy/hr/kBq) at 1 cm.
 The half-value layer (HVL) of lead (Pb) for 511 keV photons is 4 mm.
 Selected coefficients of attenuation are listed in Table 3 as a function of lead shield thickness.
 For example, the use of 39 mm thickness of lead will attenuate the external radiation by a factor of about 1000.
