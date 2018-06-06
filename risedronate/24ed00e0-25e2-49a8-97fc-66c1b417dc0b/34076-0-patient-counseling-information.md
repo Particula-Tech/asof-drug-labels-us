@@ -1,4 +1,4 @@
-# 17 PATIENT COUNSELING INFORMATION
+# 17PATIENT COUNSELING INFORMATION
 
 See FDA-approved patient labeling (Medication Guide)
 
@@ -26,6 +26,7 @@ Instruct patients about missing ACTONEL doses as follows:
   - If only one ACTONEL 75 mg tablet is missed, take the missed tablet in the morning after the day it is remembered.
   - Patients should then return to taking their ACTONEL 75 mg on two consecutive days per month as originally scheduled.
     Patients should not take more than two 75 mg tablets within 7 days.
+
 - If one or both tablets of ACTONEL 75 mg on two consecutive days per month are missed, and the next month's scheduled doses are within 7 days, patients should wait until their next month’s scheduled doses and then continue taking ACTONEL 75 mg on two consecutive days per month as originally scheduled.
 - If the dose of ACTONEL 150 mg once-a-month is missed, and the next month’s scheduled dose is more than 7 days away, the patient should be instructed to take the missed tablet in the morning after the day it is remembered.
   Patients should then return to taking their ACTONEL 150 mg once-a-month as originally scheduled.
@@ -40,3 +41,16 @@ Instruct patients to take calcium supplements or calcium-, aluminum-, and magnes
 Remind patients to give all of their healthcare providers an accurate medication history.
 Instruct patients to tell all of their healthcare providers that they are taking ACTONEL.
 Patients should be instructed that any time they have a medical problem they think may be from ACTONEL, they should talk to their doctor.
+
+Distributed by:
+
+Allergan USA, Inc.
+
+Irvine, CA 92612
+
+© 2018 Allergan.
+All rights reserved.
+
+All trademarks are the property of their respective owners.
+
+73443US10

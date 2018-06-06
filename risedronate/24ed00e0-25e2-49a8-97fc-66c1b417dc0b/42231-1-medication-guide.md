@@ -1,6 +1,10 @@
-# Medication Guide
+Medication Guide
 
-ACTONEL® (AK-toh-nel) (risedronate sodium) Tablets
+ACTONEL® (AK-toh-nel)
+
+(risedronate sodium)
+
+Tablets
 
 Read the Medication Guide that comes with ACTONEL® before you start taking it and each time you get a refill.
 There may be new information.
@@ -11,12 +15,11 @@ What is the most important information I should know about ACTONEL?
 
 ACTONEL can cause serious side effects including:
 
-1.
-Esophagus problems 2.
-Low calcium levels in your blood (hypocalcemia) 3.
-Severe jaw bone problems (osteonecrosis) 4.
-Bone, joint, or muscle pain 5.
-Unusual thigh bone fractures
+1. Esophagus problems
+2. Low calcium levels in your blood (hypocalcemia)
+3. Severe jaw bone problems (osteonecrosis)
+4. Bone, joint, or muscle pain
+5. Unusual thigh bone fractures
 
 1.
 Esophagus problems.
@@ -126,6 +129,7 @@ How should I take ACTONEL?
 - Do not chew or suck on a tablet of ACTONEL.
 - Swallow ACTONEL tablet with a full glass (6 to 8 ounces) of plain water only.
 - Do not take ACTONEL with mineral water, coffee, tea, soda, or juice.
+- See “What is the most important information I should know about ACTONEL?”
 
 After swallowing ACTONEL tablet, wait at least 30 minutes:
 
@@ -149,8 +153,6 @@ Do not lie down.
 What are the possible side effects of ACTONEL?
 
 ACTONEL may cause serious side effects:
-
-- See “What is the most important information I should know about ACTONEL?”
 
 The most common side effects of ACTONEL are:
 
@@ -187,7 +189,7 @@ This Medication Guide summarizes the most important information about ACTONEL.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about ACTONEL that is written for health professionals.
 
-For more information, go to www.ACTONEL.com or call 1-800-521-8813.
+For more information, go to www.Actonel.com or call 1-800-678-1605.
 
 What are the ingredients in ACTONEL?
 
@@ -199,8 +201,8 @@ Inactive ingredients specific to a dose strength: 5 mg—ferric oxide yellow, la
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: Warner Chilcott Company, LLC Manati, Puerto Rico 00674 or Norwich Pharmaceuticals, Inc., North Norwich, NY 13814 or Chinoin Pharmaceutical and Chemical Works Private Co. Ltd Veresegyhaz, Hungary
+Distributed by: Allergan USA, Inc. Irvine, CA 92612 © 2018 Allergan.
+All rights reserved.
+All trademarks are the property of their respective owners.
 
-Marketed by: Warner Chilcott (US), LLC Rockaway, NJ 07866 1-800-521-8813
-
-Content updated: March 2015
+73443US10

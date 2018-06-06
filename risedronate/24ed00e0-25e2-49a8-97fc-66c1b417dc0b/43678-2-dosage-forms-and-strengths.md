@@ -1,4 +1,4 @@
-# 3 DOSAGE FORMS AND STRENGTHS
+# 3DOSAGE FORMS AND STRENGTHS
 
 - 5 mg film-coated, oval, yellow tablet with RSN on 1 face and 5 mg on the other.
 - 30 mg film-coated, oval, white tablet with RSN on 1 face and 30 mg on the other.

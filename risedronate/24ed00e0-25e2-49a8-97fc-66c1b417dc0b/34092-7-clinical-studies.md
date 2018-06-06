@@ -1,6 +1,6 @@
-# 14 CLINICAL STUDIES
+# 14CLINICAL STUDIES
 
-## 14.1 Treatment of Osteoporosis in Postmenopausal Women
+## 14.1Treatment of Osteoporosis in Postmenopausal Women
 
 The fracture efficacy of ACTONEL 5 mg daily in the treatment of postmenopausal osteoporosis was demonstrated in 2 large, randomized, placebo-controlled, double-blind studies that enrolled a total of almost 4000 postmenopausal women under similar protocols.
 The Multinational study (VERT MN) (ACTONEL 5 mg, N = 408) was conducted primarily in Europe and Australia; a second study was conducted in North America (VERT NA) (ACTONEL 5 mg, N = 821).
@@ -17,29 +17,28 @@ The primary endpoint for these studies was the incidence of new and worsening ve
 ACTONEL 5 mg daily significantly reduced the incidence of new and worsening vertebral fractures and of new vertebral fractures in both VERT NA and VERT MN at all time points (Table 3).
 The reduction in risk seen in the subgroup of patients who had 2 or more vertebral fractures at study entry was similar to that seen in the overall study population.
 
-Table 3 The Effect of ACTONEL on the Risk of Vertebral Fractures
-
-|  | Proportion of Patients with Fracture (%)a |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| VERT NA | Placebo N = 678 | ACTONEL 5 mg N = 696 |  | Absolute Risk Reduction (%) | Relative Risk Reduction (%) |  |
-| New and Worsening |  |  |  |  |  |  |
-| 0 - 1 Year | 7.2 | 3.9 |  | 3.3 | 49 |  |
-| 0 - 2 Years | 12.8 | 8.0 |  | 4.8 | 42 |  |
-| 0 - 3 Years | 18.5 | 13.9 |  | 4.6 | 33 |  |
-| New |  |  |  |  |  |  |
-| 0 - 1 Year | 6.4 | 2.4 |  | 4.0 | 65 |  |
-| 0 - 2 Years | 11.7 | 5.8 |  | 5.9 | 55 |  |
-| 0 - 3 Years | 16.3 | 11.3 |  | 5.0 | 41 |  |
-| VERT MN | Placebo N = 346 | ACTONEL 5 mg N = 344 |  | Absolute Risk Reduction (%) | Relative Risk Reduction (%) |  |
-| New and Worsening |  |  |  |  |  |  |
-| 0 - 1 Year | 15.3 | 8.2 |  | 7.1 | 50 |  |
-| 0 - 2 Years | 28.3 | 13.9 |  | 14.4 | 56 |  |
-| 0 - 3 Years | 34.0 | 21.8 |  | 12.2 | 46 |  |
-| New |  |  |  |  |  |  |
-| 0 - 1 Year | 13.3 | 5.6 |  | 7.7 | 61 |  |
-| 0 - 2 Years | 24.7 | 11.6 |  | 13.1 | 59 |  |
-| 0 - 3 Years | 29.0 | 18.1 |  | 10.9 | 49 |  |
-| a Calculated by Kaplan-Meier methodology. |  |  |  |  |  |  |
+| Table 3 The Effect of ACTONEL on the Risk of Vertebral Fractures |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Proportion of Patients with Fracture (%)a |  |  |  |
+| VERT NA | Placebo N = 678 | ACTONEL 5 mg N = 696 | Absolute Risk Reduction (%) | Relative Risk Reduction (%) |
+| New and Worsening |  |  |  |  |
+| 0 - 1 Year | 7.2 | 3.9 | 3.3 | 49 |
+| 0 - 2 Years | 12.8 | 8.0 | 4.8 | 42 |
+| 0 - 3 Years | 18.5 | 13.9 | 4.6 | 33 |
+| New |  |  |  |  |
+| 0 - 1 Year | 6.4 | 2.4 | 4.0 | 65 |
+| 0 - 2 Years | 11.7 | 5.8 | 5.9 | 55 |
+| 0 - 3 Years | 16.3 | 11.3 | 5.0 | 41 |
+| VERT MN | Placebo N = 346 | ACTONEL 5 mg N = 344 | Absolute Risk Reduction (%) | Relative Risk Reduction (%) |
+| New and Worsening |  |  |  |  |
+| 0 - 1 Year | 15.3 | 8.2 | 7.1 | 50 |
+| 0 - 2 Years | 28.3 | 13.9 | 14.4 | 56 |
+| 0 - 3 Years | 34.0 | 21.8 | 12.2 | 46 |
+| New |  |  |  |  |
+| 0 - 1 Year | 13.3 | 5.6 | 7.7 | 61 |
+| 0 - 2 Years | 24.7 | 11.6 | 13.1 | 59 |
+| 0 - 3 Years | 29.0 | 18.1 | 10.9 | 49 |
+| a Calculated by Kaplan-Meier methodology. |  |  |  |  |
 
 Effect on Osteoporosis-Related Nonvertebral Fractures
 
@@ -55,20 +54,15 @@ The results of 4 randomized, placebo-controlled trials in women with postmenopau
 Table 4 displays the significant increases in BMD seen at the lumbar spine, femoral neck, femoral trochanter, and midshaft radius in these trials compared to placebo.
 In both VERT studies (VERT MN and VERT NA), ACTONEL 5 mg daily produced increases in lumbar spine BMD that were progressive over the 3 years of treatment, and were statistically significant relative to baseline and to placebo at 6 months and at all later time points.
 
-Table 4 Mean Percent Increase in BMD from Baseline in Patients Taking ACTONEL 5 mg or Placebo at Endpointa
-
-|  |  | Placebo N = 323 | 5 mg N = 323 | Placebo N = 599 | 5 mg N = 606 | Placebo N = 161 | 5 mg N = 148 | Placebo N = 191 | 5 mg N = 193 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | VERT MNb |  | VERT NAb |  | BMD MNc |  | BMD NAc |  |
-|  | Lumbar Spine | 1.0 | 6.6 | 0.8 | 5.0 | 0.0 | 4.0 | 0.2 | 4.8 |
-|  | Femoral Neck | -1.4 | 1.6 | -1.0 | 1.4 | -1.1 | 1.3 | 0.1 | 2.4 |
-|  | Femoral Trochanter | -1.9 | 3.9 | -0.5 | 3.0 | -0.6 | 2.5 | 1.3 | 4.0 |
-|  | Midshaft Radius | -1.5* | 0.2* | -1.2* | 0.1* | ND |  | ND |  |
-|  | aThe endpoint value is the value at the study's last time point for all patients who had BMD measured at that time; otherwise the last post-baseline BMD value prior to the study's last time point is used. |  |  |  |  |  |  |  |  |
-|  | bThe duration of the studies was 3 years. |  |  |  |  |  |  |  |  |
-|  | cThe duration of the studies was 1.5 to 2 years. |  |  |  |  |  |  |  |  |
-|  | * BMD of the midshaft radius was measured in a subset of centers in VERT MN (placebo, N = 222; 5 mg, N = 214) and VERT NA (placebo, N = 310; 5 mg, N = 306). |  |  |  |  |  |  |  |  |
-|  | ND = analysis not done |  |  |  |  |  |  |  |  |
+| Table 4 Mean Percent Increase in BMD from Baseline in Patients Taking ACTONEL 5 mg or Placebo at Endpointa |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | VERT MNb |  | VERT NAb |  | BMD MNc |  | BMD NAc |  |
+|  | Placebo N = 323 | 5 mg N = 323 | Placebo N = 599 | 5 mg N = 606 | Placebo N = 161 | 5 mg N = 148 | Placebo N = 191 | 5 mg N = 193 |
+| Lumbar Spine | 1.0 | 6.6 | 0.8 | 5.0 | 0.0 | 4.0 | 0.2 | 4.8 |
+| Femoral Neck | -1.4 | 1.6 | -1.0 | 1.4 | -1.1 | 1.3 | 0.1 | 2.4 |
+| Femoral Trochanter | -1.9 | 3.9 | -0.5 | 3.0 | -0.6 | 2.5 | 1.3 | 4.0 |
+| Midshaft Radius | -1.5* | 0.2* | -1.2* | 0.1* | ND |  | ND |  |
+| aThe endpoint value is the value at the study's last time point for all patients who had BMD measured at that time; otherwise the last post-baseline BMD value prior to the study's last time point is used. bThe duration of the studies was 3 years. cThe duration of the studies was 1.5 to 2 years. *BMD of the midshaft radius was measured in a subset of centers in VERT MN (placebo, N = 222; 5 mg, N = 214) and VERT NA (placebo, N = 310; 5 mg, N = 306). ND = analysis not done |  |  |  |  |  |  |  |  |
 
 ACTONEL 35 mg once-a-week (N = 485) was shown to be non-inferior to ACTONEL 5 mg daily (N = 480) in a 1-year, double-blind, multicenter study of postmenopausal women with osteoporosis.
 In the primary efficacy analysis of completers, the mean increases from baseline in lumbar spine BMD at 1 year were 4.0% (3.7, 4.3; 95% confidence interval [CI]) in the 5 mg daily group (N = 391) and 3.9% (3.6, 4.3; 95% CI) in the 35 mg once-a-week group (N = 387) and the mean difference between 5 mg daily and 35 mg once-a-week was 0.1% (-0.4, 0.6; 95% CI).
@@ -103,7 +97,7 @@ Patients who received ACTONEL had a statistically significantly smaller loss of 
 In VERT MN, the median annual height change was -2.4 mm/yr in the placebo group compared to -1.3 mm/yr in the ACTONEL 5 mg daily group.
 In VERT NA, the median annual height change was -1.1 mm/yr in the placebo group compared to -0.7 mm/yr in the ACTONEL 5 mg daily group.
 
-## 14.2 Prevention of Osteoporosis in Postmenopausal Women
+## 14.2Prevention of Osteoporosis in Postmenopausal Women
 
 The safety and effectiveness of ACTONEL 5 mg daily for the prevention of postmenopausal osteoporosis were demonstrated in a 2-year, double-blind, placebo-controlled study of 383 postmenopausal women (age range 42 to 63 years) within three years of menopause (ACTONEL 5 mg, N = 129).
 All patients in this study received supplemental calcium 1000 mg/day.
@@ -123,10 +117,9 @@ Combined Administration with Hormone Replacement Therapy
 The effects of combining ACTONEL 5 mg daily with conjugated estrogen 0.625 mg daily (N = 263) were compared to the effects of conjugated estrogen alone (N = 261) in a 1-year, randomized, double-blind study of women ages 37 to 82 years, who were on average 14 years postmenopausal.
 The BMD results for this study are presented in Table 5.
 
-Table 5 Percent Change from Baseline in BMD After 1 Year of Treatment
-
-|  | Estrogen 0.625 mg N = 261 | ACTONEL 5 mg + Estrogen 0.625 mg N = 263 |
+| Table 5 Percent Change from Baseline in BMD After 1 Year of Treatment |  |  |
 | --- | --- | --- |
+|  | Estrogen 0.625 mg N = 261 | ACTONEL 5 mg + Estrogen 0.625 mg N = 263 |
 | Lumbar Spine | 4.6 ± 0.20 | 5.2 ± 0.23 |
 | Femoral Neck | 1.8 ± 0.25 | 2.7 ± 0.25 |
 | Femoral Trochanter | 3.2 ± 0.28 | 3.7 ± 0.25 |
@@ -142,7 +135,7 @@ Histologic evaluation (N = 47) demonstrated that the bone of patients treated wi
 The histomorphometric parameter mineralizing surface, a measure of bone turnover, was assessed based upon baseline and post-treatment biopsy samples from 12 patients treated with ACTONEL plus estrogen and 12 treated with estrogen-alone.
 Mineralizing surface decreased in both treatment groups (median percent change: ACTONEL plus estrogen, -79%; estrogen-alone, -50%), consistent with the known effects of these agents on bone turnover.
 
-## 14.3 Men with Osteoporosis
+## 14.3Men with Osteoporosis
 
 The effects of ACTONEL 35 mg once-a-week on BMD were examined in a 2-year, double-blind, placebo-controlled, multinational study in 285 men with osteoporosis (ACTONEL, N = 192).
 The patients had a mean age of 61 years (range 36 to 84 years) and 95% were Caucasian.
@@ -151,7 +144,7 @@ All patients in the study had either, 1) a BMD T-score less than or equal to -2 
 All patients were supplemented with calcium 1000 mg/day and vitamin D 400 to 500 international units/day.
 ACTONEL 35 mg once-a-week produced significant mean increases in BMD at the lumbar spine, femoral neck, trochanter, and total hip compared to placebo after 2 years of treatment (treatment difference: lumbar spine, 4.5%; femoral neck, 1.1%; trochanter, 2.2%; total proximal femur, 1.5%).
 
-## 14.4 Glucocorticoid-Induced Osteoporosis
+## 14.4Glucocorticoid-Induced Osteoporosis
 
 Bone Mineral Density
 
@@ -197,7 +190,7 @@ The histomorphometric parameter mineralizing surface, a measure of bone turnover
 Mineralizing surface decreased 24% (median percent change) in these patients.
 Only a small number of placebo-treated patients had both baseline and post-treatment biopsy samples, precluding a meaningful quantitative assessment.
 
-## 14.5 Treatment of Paget’s Disease
+## 14.5Treatment of Paget’s Disease
 
 The efficacy of ACTONEL was demonstrated in 2 clinical studies involving 120 men and 65 women.
 In a double-blind, active-controlled study of patients with moderate-to-severe Paget’s disease (serum alkaline phosphatase levels of at least 2 times the upper limit of normal), patients were treated with ACTONEL 30 mg daily for 2 months or Didronel (etidronate disodium) 400 mg daily for 6 months.
@@ -210,11 +203,10 @@ Changes in serum alkaline phosphatase excess over time (shown in Figure 6) were 
 Response to ACTONEL therapy was similar in patients with mild to very severe Paget’s disease.
 Table 6 shows the mean percent reduction from baseline at Day 180 in excess serum alkaline phosphatase in patients with mild, moderate, or severe disease.
 
-Table 6 Mean Percent Reduction from Baseline at Day 180 in Total Serum Alkaline Phosphatase Excess by Disease Severity
-
-| Subgroup: Baseline Disease Severity (AP) | n | Baseline Serum AP (U/L)* | Mean % Reduction | n | Baseline Serum AP (U/L)* | Mean % Reduction |
+| Table 6 Mean Percent Reduction from Baseline at Day 180 in Total Serum Alkaline Phosphatase Excess by Disease Severity |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | ACTONEL 30 mg |  |  | Didronel 400 mg |  |  |
+| Subgroup: Baseline Disease Severity (AP) | n | Baseline Serum AP (U/L)* | Mean % Reduction | n | Baseline Serum AP (U/L)* | Mean % Reduction |
 | greater than 2, less than 3x ULN | 32 | 271.6 ± 5.3 | -88.1 | 22 | 277.9 ± 7.45 | -44.6 |
 | greater than or equal to 3, less than 7x ULN | 14 | 475.3 ± 28.8 | -87.5 | 25 | 480.5 ± 26.44 | -35.0 |
 | greater than or equal to 7x ULN | 8 | 1336.5 ± 134.19 | -81.8 | 6 | 1331.5 ± 167.58 | -47.2 |

@@ -1,6 +1,6 @@
-# 8 USE IN SPECIFIC POPULATIONS
+# 8USE IN SPECIFIC POPULATIONS
 
-## 8.1 Pregnancy
+## 8.1Pregnancy
 
 Pregnancy Category C: There are no adequate and well-controlled studies of ACTONEL in pregnant women.
 ACTONEL should be used during pregnancy only if the potential benefit justifies the potential risk to the mother and fetus.
@@ -26,13 +26,13 @@ Similar to other bisphosphonates, treatment during mating and gestation with dos
 Dosing multiples provided above are based on the recommended human dose of 30 mg/day and normalized using body surface area (mg/m2).
 Actual animal doses were 3.2, 7.1 and 16 mg/kg/day in the rat and 10 mg/kg/day in the rabbit.
 
-## 8.3 Nursing Mothers
+## 8.3Nursing Mothers
 
 Risedronate was detected in feeding pups exposed to lactating rats for a 24-hour period post-dosing, indicating a small degree of lacteal transfer.
 It is not known whether ACTONEL is excreted in human milk.
 Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from ACTONEL, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
-## 8.4 Pediatric Use
+## 8.4Pediatric Use
 
 ACTONEL is not indicated for use in pediatric patients.
 
@@ -48,7 +48,7 @@ However, there was an increased incidence of vomiting compared to placebo.
 In this study, vomiting was observed in 15% of children treated with risedronate and 6% of patients treated with placebo.
 Other adverse events reported in greater than or equal to 10% of patients treated with risedronate and with a higher frequency than placebo were: pain in the extremity (21% with risedronate versus 16% with placebo), headache (20% versus 8%), back pain (17% versus 10%), pain (15% versus 10%), upper abdominal pain (11% versus 8%), and bone pain (10% versus 4%).
 
-## 8.5 Geriatric Use
+## 8.5Geriatric Use
 
 Of the patients receiving ACTONEL in postmenopausal osteoporosis studies [see Clinical Studies (14)], 47% were between 65 and 75 years of age, and 17% were over 75.
 The corresponding proportions were 26% and 11% in glucocorticoid-induced osteoporosis trials, and 40% and 26% in Paget’s disease trials.
@@ -57,12 +57,12 @@ In the male osteoporosis trial, 28% of patients receiving ACTONEL were between 6
 The lumbar spine BMD response for ACTONEL compared to placebo was 5.6% for subjects less than 65 years and 2.9% for subjects greater than or equal to 65 years.
 No overall differences in safety between geriatric and younger patients were observed in the ACTONEL trials, but greater sensitivity of some older individuals cannot be ruled out.
 
-## 8.6 Renal Impairment
+## 8.6Renal Impairment
 
 ACTONEL is not recommended for use in patients with severe renal impairment (creatinine clearance less than 30 mL/min) because of lack of clinical experience.
 No dosage adjustment is necessary in patients with a creatinine clearance greater than or equal to 30 mL/min.
 
-## 8.7 Hepatic Impairment
+## 8.7Hepatic Impairment
 
 No studies have been performed to assess risedronate’s safety or efficacy in patients with hepatic impairment.
 Risedronate is not metabolized in human liver preparations.

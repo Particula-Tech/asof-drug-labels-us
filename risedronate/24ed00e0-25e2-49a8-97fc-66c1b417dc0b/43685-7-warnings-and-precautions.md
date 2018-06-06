@@ -1,11 +1,11 @@
-# 5 WARNINGS AND PRECAUTIONS
+# 5WARNINGS AND PRECAUTIONS
 
 ## 5.1 Drug Products with the Same Active Ingredient
 
 ACTONEL contains the same active ingredient found in Atelvia®.
 A patient being treated with Atelvia should not receive ACTONEL.
 
-## 5.2 Upper Gastrointestinal Adverse Reactions
+## 5.2Upper Gastrointestinal Adverse Reactions
 
 ACTONEL, like other bisphosphonates administered orally, may cause local irritation of the upper gastrointestinal mucosa.
 Because of these possible irritant effects and a potential for worsening of the underlying disease, caution should be used when ACTONEL is given to patients with active upper gastrointestinal problems (such as known Barrett’s esophagus, dysphagia, other esophageal diseases, gastritis, duodenitis or ulcers) [see Contraindications (4), Adverse Reactions (6.1), Information for Patients (17.1)].
@@ -20,14 +20,14 @@ In patients who cannot comply with dosing instructions due to mental disability,
 
 There have been post-marketing reports of gastric and duodenal ulcers with oral bisphosphonate use, some severe and with complications, although no increased risk was observed in controlled clinical trials.
 
-## 5.3 Mineral Metabolism
+## 5.3Mineral Metabolism
 
 Hypocalcemia has been reported in patients taking ACTONEL.
 Treat hypocalcemia and other disturbances of bone and mineral metabolism before starting ACTONEL therapy.
 Instruct patients to take supplemental calcium and vitamin D if their dietary intake is inadequate.
 Adequate intake of calcium and vitamin D is important in all patients, especially in patients with Paget’s disease in whom bone turnover is significantly elevated [see Contraindications (4), Adverse Reactions (6.1), Information for Patients (17.1)].
 
-## 5.4 Jaw Osteonecrosis
+## 5.4Jaw Osteonecrosis
 
 Osteonecrosis of the jaw (ONJ), which can occur spontaneously, is generally associated with tooth extraction and/or local infection with delayed healing, and has been reported in patients taking bisphosphonates, including ACTONEL.
 Known risk factors for osteonecrosis of the jaw include invasive dental procedures (for example, tooth extraction, dental implants, boney surgery), diagnosis of cancer, concomitant therapies (for example, chemotherapy, corticosteroids, angiogenesis inhibitors), poor oral hygiene, and co-morbid disorders (for example, periodontal and/or other pre-existing dental disease, anemia, coagulopathy, infection, ill-fitting dentures).
@@ -40,7 +40,7 @@ Patients who develop osteonecrosis of the jaw while on bisphosphonate therapy sh
 In these patients, extensive dental surgery to treat ONJ may exacerbate the condition.
 Discontinuation of bisphosphonate therapy should be considered based on individual benefit/risk assessment [see Adverse Reactions (6.2)].
 
-## 5.5 Musculoskeletal Pain
+## 5.5Musculoskeletal Pain
 
 In postmarketing experience, there have been reports of severe and occasionally incapacitating bone, joint, and/or muscle pain in patients taking bisphosphonates [see Adverse Reactions (6.2)].
 The time to onset of symptoms varied from one day to several months after starting the drug.

@@ -1,15 +1,15 @@
-# 1 INDICATIONS AND USAGE
+# 1INDICATIONS AND USAGE
 
-## 1.1 Postmenopausal Osteoporosis
+## 1.1Postmenopausal Osteoporosis
 
 ACTONEL is indicated for the treatment and prevention of osteoporosis in postmenopausal women.
 In postmenopausal women with osteoporosis, ACTONEL reduces the incidence of vertebral fractures and a composite endpoint of nonvertebral osteoporosis-related fractures [see Clinical Studies (14.1, 14.2)].
 
-## 1.2 Osteoporosis in Men
+## 1.2Osteoporosis in Men
 
 ACTONEL is indicated for treatment to increase bone mass in men with osteoporosis.
 
-## 1.3 Glucocorticoid-Induced Osteoporosis
+## 1.3Glucocorticoid-Induced Osteoporosis
 
 ACTONEL is indicated for the treatment and prevention of glucocorticoid-induced osteoporosis in men and women who are either initiating or continuing systemic glucocorticoid treatment (daily dosage of greater than or equal to 7.5 mg of prednisone or equivalent) for chronic diseases.
 Patients treated with glucocorticoids should receive adequate amounts of calcium and vitamin D.

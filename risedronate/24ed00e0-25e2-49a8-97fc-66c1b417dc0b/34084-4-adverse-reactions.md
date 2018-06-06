@@ -1,6 +1,6 @@
-# 6 ADVERSE REACTIONS
+# 6ADVERSE REACTIONS
 
-## 6.1 Clinical Studies Experience
+## 6.1Clinical Studies Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -20,55 +20,54 @@ The most common adverse reactions reported in greater than 10 percent of subject
 Table 1 lists adverse events from the Phase 3 postmenopausal osteoporosis trials reported in greater than or equal to 5% of patients.
 Adverse events are shown without attribution of causality.
 
-Table 1 Adverse Events Occurring at a Frequency greater than or equal to 5% in Either Treatment Group Combined Phase 3 Postmenopausal Osteoporosis Treatment Trials
-
-| % | % |  |  |  |
-| --- | --- | --- | --- | --- |
-| Body System | Placebo N = 1619 | 5 mg ACTONEL N = 1613 |  |  |
-| Body as a Whole |  |  |  |  |
-| Infection | 29.9 | 31.1 |  |  |
-| Back Pain | 26.1 | 28.0 |  |  |
-| Accidental Injury | 16.8 | 16.9 |  |  |
-| Pain | 14.0 | 14.1 |  |  |
-| Abdominal Pain | 9.9 | 12.2 |  |  |
-| Flu Syndrome | 11.6 | 10.5 |  |  |
-| Headache | 10.8 | 9.9 |  |  |
-| Asthenia | 4.5 | 5.4 |  |  |
-| Neck Pain | 4.7 | 5.4 |  |  |
-| Chest Pain | 5.1 | 5.0 |  |  |
-| Allergic Reaction | 5.9 | 3.8 |  |  |
-| Cardiovascular System |  |  |  |  |
-| Hypertension | 9.8 | 10.5 |  |  |
-| Digestive System |  |  |  |  |
-| Constipation | 12.6 | 12.9 |  |  |
-| Diarrhea | 10.0 | 10.8 |  |  |
-| Dyspepsia | 10.6 | 10.8 |  |  |
-| Nausea | 11.2 | 10.5 |  |  |
-| Metabolic & Nutritional Disorders |  |  |  |  |
-| Peripheral Edema | 8.8 | 7.7 |  |  |
-| Musculoskeletal System |  |  |  |  |
-| Arthralgia | 22.1 | 23.7 |  |  |
-| Arthritis | 10.1 | 9.6 |  |  |
-| Traumatic Bone Fracture | 12.3 | 9.3 |  |  |
-| Joint Disorder | 5.3 | 7.0 |  |  |
-| Myalgia | 6.2 | 6.7 |  |  |
-| Bone Pain | 4.8 | 5.3 |  |  |
-| Nervous System |  |  |  |  |
-| Dizziness | 5.7 | 7.1 |  |  |
-| Depression | 6.1 | 6.8 |  |  |
-| Insomnia | 4.6 | 5.0 |  |  |
-| Respiratory System |  |  |  |  |
-| Bronchitis | 10.4 | 10.0 |  |  |
-| Sinusitis | 9.1 | 8.7 |  |  |
-| Rhinitis | 5.1 | 6.2 |  |  |
-| Pharyngitis | 5.0 | 6.0 |  |  |
-| Increased Cough | 6.3 | 5.9 |  |  |
-| Skin and Appendages |  |  |  |  |
-| Rash | 7.1 | 7.9 |  |  |
-| Special Senses |  |  |  |  |
-| Cataract | 5.7 | 6.5 |  |  |
-| Urogenital System |  |  |  |  |
-| Urinary Tract Infection | 10.4 | 11.1 |  |  |
+| Table 1 Adverse Events Occurring at a Frequency greater than or equal to 5% in Either Treatment Group Combined Phase 3 Postmenopausal Osteoporosis Treatment Trials |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Body System |  |  | Placebo N = 1619 |  | 5 mg ACTONEL N = 1613 |  |
+|  |  |  | % |  | % |  |
+| Body as a Whole |  |  |  |  |  |  |
+| Infection |  |  | 29.9 |  | 31.1 |  |
+| Back Pain |  |  | 26.1 |  | 28.0 |  |
+| Accidental Injury |  |  | 16.8 |  | 16.9 |  |
+| Pain |  |  | 14.0 |  | 14.1 |  |
+| Abdominal Pain |  |  | 9.9 |  | 12.2 |  |
+| Flu Syndrome |  |  | 11.6 |  | 10.5 |  |
+| Headache |  |  | 10.8 |  | 9.9 |  |
+| Asthenia |  |  | 4.5 |  | 5.4 |  |
+| Neck Pain |  |  | 4.7 |  | 5.4 |  |
+| Chest Pain |  |  | 5.1 |  | 5.0 |  |
+| Allergic Reaction |  |  | 5.9 |  | 3.8 |  |
+| Cardiovascular System |  |  |  |  |  |  |
+| Hypertension |  |  | 9.8 |  | 10.5 |  |
+| Digestive System |  |  |  |  |  |  |
+| Constipation |  |  | 12.6 |  | 12.9 |  |
+| Diarrhea |  |  | 10.0 |  | 10.8 |  |
+| Dyspepsia |  |  | 10.6 |  | 10.8 |  |
+| Nausea |  |  | 11.2 |  | 10.5 |  |
+| Metabolic & Nutritional Disorders |  |  |  |  |  |  |
+| Peripheral Edema |  |  | 8.8 |  | 7.7 |  |
+| Musculoskeletal System |  |  |  |  |  |  |
+| Arthralgia |  |  | 22.1 |  | 23.7 |  |
+| Arthritis |  |  | 10.1 |  | 9.6 |  |
+| Traumatic Bone Fracture |  |  | 12.3 |  | 9.3 |  |
+| Joint Disorder |  |  | 5.3 |  | 7.0 |  |
+| Myalgia |  |  | 6.2 |  | 6.7 |  |
+| Bone Pain |  |  | 4.8 |  | 5.3 |  |
+| Nervous System |  |  |  |  |  |  |
+| Dizziness |  |  | 5.7 |  | 7.1 |  |
+| Depression |  |  | 6.1 |  | 6.8 |  |
+| Insomnia |  |  | 4.6 |  | 5.0 |  |
+| Respiratory System |  |  |  |  |  |  |
+| Bronchitis |  |  | 10.4 |  | 10.0 |  |
+| Sinusitis |  |  | 9.1 |  | 8.7 |  |
+| Rhinitis |  |  | 5.1 |  | 6.2 |  |
+| Pharyngitis |  |  | 5.0 |  | 6.0 |  |
+| Increased Cough |  |  | 6.3 |  | 5.9 |  |
+| Skin and Appendages |  |  |  |  |  |  |
+| Rash |  |  | 7.1 |  | 7.9 |  |
+| Special Senses |  |  |  |  |  |  |
+| Cataract |  |  | 5.7 |  | 6.5 |  |
+| Urogenital System |  |  |  |  |  |  |
+| Urinary Tract Infection |  |  | 10.4 |  | 11.1 |  |
 
 Gastrointestinal Adverse Events: The incidence of adverse events in the placebo and ACTONEL 5 mg daily groups were: abdominal pain (9.9% versus 12.2%), diarrhea (10.0% versus 10.8%), dyspepsia (10.6% versus 10.8%), and gastritis (2.3% versus 2.7%).
 Duodenitis and glossitis have been reported uncommonly in the ACTONEL 5 mg daily group (0.1% to 1%).
@@ -161,7 +160,7 @@ Laboratory Test Findings: When ACTONEL 5 mg daily and ACTONEL 150 mg once-a-mont
 Compared to the ACTONEL 5 mg daily regimen, ACTONEL 150 mg once-a-month resulted in a slightly higher incidence of hypocalcemia at the end of the first month of treatment (0.2% versus 2.2%).
 Thereafter, the incidence of hypocalcemia with these regimens was similar at approximately 2%.
 
-### Prevention of Postmenopausal Osteoporosis
+Prevention of Postmenopausal Osteoporosis
 
 Daily Dosing
 
@@ -215,10 +214,9 @@ The adverse event profile was similar for ACTONEL and Didronel: 6.6% (4/61) of p
 Table 2 lists adverse events reported in greater than or equal to 5% of ACTONEL-treated patients in Phase 3 Paget's disease trials.
 Adverse events shown are considered to be possibly or probably causally related in at least one patient.
 
-Table 2 Adverse Events Reported in greater than or equal to 5% of ACTONEL-Treated Patients* in Phase 3 Paget's Disease Trials
-
-| Body System | 30 mg/day x 2 months ACTONEL % (N = 61) | 400 mg/day x 6 months Didronel % (N = 61) |
+| Table 2 Adverse Events Reported in greater than or equal to 5% of ACTONEL-Treated Patients* in Phase 3 Paget's Disease Trials |  |  |
 | --- | --- | --- |
+| Body System | 30 mg/day x 2 months ACTONEL % (N = 61) | 400 mg/day x 6 months Didronel % (N = 61) |
 | Body as a Whole |  |  |
 | Flu Syndrome | 9.8 | 1.6 |
 | Chest Pain | 6.6 | 3.3 |

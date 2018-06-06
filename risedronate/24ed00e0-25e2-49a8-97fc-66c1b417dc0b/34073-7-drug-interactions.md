@@ -1,9 +1,9 @@
-# 7 DRUG INTERACTIONS
+# 7DRUG INTERACTIONS
 
 No specific drug-drug interaction studies were performed.
 Risedronate is not metabolized and does not induce or inhibit hepatic microsomal drug-metabolizing enzymes (for example, Cytochrome P450).
 
-## 7.1 Calcium Supplements/Antacids
+## 7.1Calcium Supplements/Antacids
 
 Co-administration of ACTONEL and calcium, antacids, or oral medications containing divalent cations will interfere with the absorption of ACTONEL.
 

@@ -1,13 +1,13 @@
-# 12 CLINICAL PHARMACOLOGY
+# 12CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism of Action
+## 12.1Mechanism of Action
 
 ACTONEL has an affinity for hydroxyapatite crystals in bone and acts as an antiresorptive agent.
 At the cellular level, ACTONEL inhibits osteoclasts.
 The osteoclasts adhere normally to the bone surface, but show evidence of reduced active resorption (for example, lack of ruffled border).
 Histomorphometry in rats, dogs, and minipigs showed that ACTONEL treatment reduces bone turnover (activation frequency, that is, the rate at which bone remodeling sites are activated) and bone resorption at remodeling sites.
 
-## 12.2 Pharmacodynamics
+## 12.2Pharmacodynamics
 
 ACTONEL treatment decreases the elevated rate of bone turnover that is typically seen in postmenopausal osteoporosis.
 In clinical trials, administration of ACTONEL to postmenopausal women resulted in decreases in biochemical markers of bone turnover, including urinary deoxypyridinoline/creatinine and urinary collagen cross-linked N-telopeptide (markers of bone resorption) and serum bone-specific alkaline phosphatase (a marker of bone formation).

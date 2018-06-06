@@ -1,4 +1,4 @@
-# 4 CONTRAINDICATIONS
+# 4CONTRAINDICATIONS
 
 ACTONEL is contraindicated in patients with the following conditions:
 
