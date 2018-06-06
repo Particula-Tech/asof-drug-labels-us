@@ -65,7 +65,7 @@ Dietary administration of an equivalent of the maximum human therapeutic dose of
 
 ## Pregnancy
 
-Pregnancy Category C. Animal reproduction studies have not been conducted with aminocaproic acid.
+Animal reproduction studies have not been conducted with aminocaproic acid.
 It is also not known whether aminocaproic acid can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
 Aminocaproic Acid Injection should be given to a pregnant woman only if clearly needed.
 
