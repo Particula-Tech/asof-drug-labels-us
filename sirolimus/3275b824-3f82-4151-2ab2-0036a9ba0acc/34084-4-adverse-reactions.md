@@ -164,6 +164,9 @@ In the subset of patients with a baseline glomerular filtration rate of greater 
 
 Overall in this study, a 5-fold increase in the reports of tuberculosis among sirolimus 2.0% (11/551) and comparator 0.4% (1/273) treatment groups was observed with 2:1 randomization scheme.
 
+In a second study evaluating the safety and efficacy of conversion from tacrolimus to Rapamune 3 to 5 months post kidney transplant, a higher rate of adverse events, discontinuations due to adverse events, acute rejection, and new onset diabetes mellitus was observed following conversion to Rapamune.
+There was also no benefit with respect to renal function and a greater incidence of proteinuria was observed after conversion to sirolimus [(see Clinical Studies (14.4)].
+
 ## 6.5 Pediatric Renal Transplant Patients
 
 Safety was assessed in a controlled clinical trial in pediatric (< 18 years of age) renal transplant patients considered at high-immunologic risk, defined as a history of one or more acute allograft rejection episodes and/or the presence of chronic allograft nephropathy on a renal biopsy [see Clinical Studies (14.6)].
