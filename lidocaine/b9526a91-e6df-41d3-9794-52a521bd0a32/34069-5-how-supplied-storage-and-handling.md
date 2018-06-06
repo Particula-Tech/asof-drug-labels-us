@@ -2,7 +2,7 @@
 
 Xylocaine (lidocaine HCl) 2% Jelly is supplied as follows:
 
-| ProductNo. | NDCNo. | Strength | Size |
+| Product No. | NDC No. | Strength | Size |
 | --- | --- | --- | --- |
 | 470905 | 63323-479-05 | 2% (20 mg/mL) | 5 mL plastic tube packaged in tens. |
 | 470930* | 63323-479-30 | 2% (20 mg/mL) | 30 mL aluminum tube packaged individually. |
