@@ -75,6 +75,11 @@ Treatment should be stopped immediately and liver function testing should be con
 
 If neuropathy occurs that may be attributable to Itraconazole Capsules, the treatment should be discontinued.
 
+## Immunocompromised Patients
+
+In some immunocompromised patients (e.g., neutropenic, AIDS or organ transplant patients), the oral bioavailability of Itraconazole capsules may be decreased.
+Therefore, the dose should be adjusted based on the clinical response in these patients.
+
 ## Cystic Fibrosis
 
 If a cystic fibrosis patient does not respond to Itraconazole Capsules, consideration should be given to switching to alternative therapy.
@@ -133,7 +138,7 @@ Table 1 Drug Interactions with Itraconazole Capsules that Affect Concomitant Dru
 | Digoxin |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Antibacterials |  |  |
 | BedaquilineBased on 400 mg Bedaquiline once daily for 2 weeks. |  | Concomitant Itraconazole Capsules not recommended for more than 2 weeks at any time during bedaquiline treatment. |
-| Rifabutin |  | Not recommended 2 weeks before, during, and 2 weeks after Itraconazole Capsules treatment..See also Table 2. |
+| Rifabutin |  | Not recommended 2 weeks before, during, and 2 weeks after Itraconazole Capsules treatment.See also Table 2. |
 | Clarithromycin |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. See also Table 2. |
 | Trimetrexate |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Anticoagulants and Antiplatelets |  |  |
@@ -273,8 +278,6 @@ More severe signs of parental toxicity, including death, were present in the nex
 ## Pregnancy
 
 ### Teratogenic effects
-
-#### Pregnancy Category C
 
 Itraconazole was found to cause a dose-related increase in maternal toxicity, embryotoxicity, and teratogenicity in rats at dosage levels of approximately 40–160 mg/kg/day (5–20 times the MRHD), and in mice at dosage levels of approximately 80 mg/kg/day (10 times the MRHD).
 Itraconazole has been shown to cross the placenta in a rat model.
