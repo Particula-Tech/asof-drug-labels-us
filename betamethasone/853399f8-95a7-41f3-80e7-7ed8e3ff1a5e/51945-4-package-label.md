@@ -4,12 +4,12 @@ NDC 0168-0268-15
 
 Fougera®
 
-- BETAMETHASONE DIPROPIONATE OINTMENT USP (AUGMENTED), 0.05%* *Strength expressed as betamethasone
+1. BETAMETHASONE DIPROPIONATE OINTMENT USP (AUGMENTED), 0.05%* *Strength expressed as betamethasone
 
 Rx only
 
-- For topical use only.
-  Not for oral, ophthalmic, or intravaginal use.
+1. For topical use only.
+   Not for oral, ophthalmic, or intravaginal use.
 
 NET WT 15 grams
 
@@ -21,9 +21,11 @@ Fougera®
 
 Rx only
 
-- BETAMETHASONE DIPROPIONATE OINTMENT USP (AUGMENTED), 0.05%* *Strength expressed as betamethasone
-- For topical use only.
-  Not for oral, ophthalmic, or intravaginal use.
+1. BETAMETHASONE DIPROPIONATE OINTMENT USP (AUGMENTED), 0.05%* *Strength expressed as betamethasone
+
+For topical use only.
+
+1. Not for oral, ophthalmic, or intravaginal use.
 
 KEEP OUT OF THE REACH OF CHILDREN.
 
