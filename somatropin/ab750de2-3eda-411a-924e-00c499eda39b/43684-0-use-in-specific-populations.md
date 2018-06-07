@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects: Pregnancy Category B. Reproduction studies have been performed in rats and rabbits at doses up to 31 and 62 times, respectively, the human (child) weekly dose based on body surface area.
+Teratogenic Effects: Reproduction studies have been performed in rats and rabbits at doses up to 31 and 62 times, respectively, the human (child) weekly dose based on body surface area.
 The results have revealed no evidence of impaired fertility or harm to the fetus due to SAIZEN.
 There are, however, no adequate and well controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
