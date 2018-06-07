@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B. Reproduction studies have been performed in pregnant rats at oral doses up to 22 times the recommended maximum human dose (based on body surface area) and in pregnant rabbits at oral doses up to 7 times the recommended maximum human dose (based on body surface area) and have revealed no evidence of impaired fertility or harm to the fetus due to ursodiol.
+Reproduction studies have been performed in pregnant rats at oral doses up to 22 times the recommended maximum human dose (based on body surface area) and in pregnant rabbits at oral doses up to 7 times the recommended maximum human dose (based on body surface area) and have revealed no evidence of impaired fertility or harm to the fetus due to ursodiol.
 
 There are no adequate or well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.

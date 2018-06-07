@@ -11,9 +11,11 @@ Caution has to be exercised to maintain the bile flow of the patients taking urs
 
 Patients should be informed that absorption of URSO 250 and URSO Forte may be reduced if they are taking bile acid sequestering agents, such as cholestyramine and colestipol, aluminum-based antacids, or drugs known to alter the metabolism of cholesterol [see Drug Interactions (7)].
 
-Distributed by: Allergan USA, Inc. Irvine, CA 92612 www.allergan.com Manufactured in Canada
+Distributed by: Allergan USA, Inc. Madison, NJ 07940 www.allergan.com
 
-URSO 250® and URSO Forte® are registered trademarks of Aptalis Pharma US, Inc., an Allergan affiliate.
+URSO 250® and URSO Forte® are registered trademarks of Allergan Sales, LLC.
 
-© 2017 Allergan.
+© 2018 Allergan.
 All rights reserved.
+
+v1.0USPI785
