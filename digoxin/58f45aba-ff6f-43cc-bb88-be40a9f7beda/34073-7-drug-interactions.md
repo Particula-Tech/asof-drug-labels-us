@@ -18,7 +18,7 @@ Table below provides available interaction data using digoxin IV formulation (NA
 | Digoxin concentrations increased greater than 50% |  |  |  |
 | --- | --- | --- | --- |
 |  | Digoxin Serum Concentration Increase | Digoxin AUC Increase | Recommendations |
-| Quinidine | NA | 54-83% | Measure serum digoxin concentrations before initiating concomitant drugs. Reduce digoxin concentrations by decreasing dose by approximately 30-50% or by modifying the dosing frequency and continue monitoring. |
+| Quinidine | NA | 54-83% | Measure serum digoxin concentrations before initiating concomitant drugs. Reduce digoxin concentrations by decreasing dose by approximately 30 to 50% or by modifying the dosing frequency and continue monitoring. |
 | Ritonavir | NA | 86% |  |
 | Digoxin concentrations increased less than 50% |  |  |  |
 | Amiodarone | 17% | 40% | Measure serum digoxin concentrations before initiating concomitant drugs. Reduce digoxin concentrations by decreasing the dose by approximately 15 to 30% or by modifying the dosing frequency and continue monitoring. |
@@ -42,6 +42,7 @@ Because of considerable variability of pharmacodynamic interactions, the dosage 
 | Neuromuscular Blocking Agents | Succinylcholine | May cause sudden extrusion of potassium from muscle cells, causing arrhythmias in patients taking digoxin. |
 | Supplements | Calcium | If administered rapidly by intravenous route, can produce serious arrhythmias in digitalized patients. |
 | Beta-adrenergic blockers and calcium channel blockers |  | Additive effects on AV node conduction can result in bradycardia and advanced or complete heart block. |
+| Ivabradine | Can increase the risk of bradycardia. |  |
 
 ## 7.4 Drug/Laboratory Test Interactions
 

@@ -37,9 +37,9 @@ Digoxin does not significantly reduce heart rate during exercise.
 
 ## 12.3 Pharmacokinetics
 
-Note: the following data are from studies performed in adults, unless otherwise stated.
+Note: The following data are from studies performed in adults, unless otherwise stated.
 
-Comparisons of the systemic availability and equivalent doses for oral preparations of digoxin are shown in Table 6 [see Dosage and Administration (2.6)].
+Comparisons of the systemic availability and equivalent doses for oral preparations of digoxin are shown in Table 6[see Dosage and Administration (2.6)].
 
 Distribution: Following drug administration, a 6 to 8 hour tissue distribution phase is observed.
 This is followed by a much more gradual decline in the serum concentration of the drug, which is dependent on the elimination of digoxin from the body.
