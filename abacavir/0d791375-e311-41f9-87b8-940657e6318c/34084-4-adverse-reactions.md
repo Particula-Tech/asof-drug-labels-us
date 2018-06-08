@@ -3,10 +3,9 @@
 The following adverse reactions are discussed in other sections of the labeling:
 
 - Serious and sometimes fatal hypersensitivity reactions [see Boxed Warning, Warnings and Precautions (5.1)].
-- Lactic acidosis and severe hepatomegaly with steatosis [see Boxed Warning, Warnings and Precautions (5.2)].
+- Lactic acidosis and severe hepatomegaly with steatosis [see Warnings and Precautions (5.2)].
 - Immune reconstitution syndrome [see Warnings and Precautions (5.3)].
-- Fat redistribution [see Warnings and Precautions (5.4)].
-- Myocardial infarction [see Warnings and Precautions (5.5)].
+- Myocardial infarction [see Warnings and Precautions (5.4)].
 
 ## 6.1 Clinical Trials Experience in Adult Subjects
 
@@ -26,15 +25,16 @@ Laboratory abnormalities included elevated liver chemistries, elevated creatine 
 
 Additional Adverse Reactions with Use of Abacavir sulfate
 
-Therapy-Naïve Adults: Treatment-emergent clinical adverse reactions (rated by the investigator as moderate or severe) with a greater than or equal to 5% frequency during therapy with abacavir sulfate 300 mg twice daily, lamivudine 150 mg twice daily, and efavirenz 600 mg daily compared with zidovudine 300 mg twice daily, lamivudine 150 mg twice daily, and efavirenz 600 mg daily from CNA30024 are listed in Table 2.
+Therapy-Naive Adults: Treatment-emergent clinical adverse reactions (rated by the investigator as moderate or severe) with a greater than or equal to 5% frequency during therapy with abacavir sulfate 300 mg twice daily, lamivudine 150 mg twice daily, and efavirenz 600 mg daily compared with zidovudine 300 mg twice daily, lamivudine 150 mg twice daily, and efavirenz 600 mg daily from CNA30024 are listed in Table 2.
 
 Table 2.
-Treatment-Emergent (All Causality) Adverse Reactions of at Least Moderate Intensity (Grades 2-4, Greater than or Equal to 5% Frequency) in Therapy-Naive Adults (CNA30024 Ten (3%) cases of suspected drug hypersensitivity were reclassified as not being due to abacavir following unblinding.) through 48 Weeks of Treatment
+Treatment-Emergent (All Causality) Adverse Reactions of at Least Moderate Intensity (Grades 2-4, Greater than or Equal to 5% Frequency) in Therapy-Naive Adults (CNA30024 This trial used double-blind ascertainment of suspected hypersensitivity reactions.
+During the blinded portion of the trial, suspected hypersensitivity to abacavir was reported by investigators in 9% of 324 subjects in the abacavir group and 3% of 325 subjects in the zidovudine group.) through 48 Weeks of Treatment
 
 | Adverse Reaction | Abacavir sulfate plus Lamivudine plus Efavirenz (n = 324) | Zidovudine plus Lamivudine plus Efavirenz (n = 325) |
 | --- | --- | --- |
 | Dreams/sleep disorders | 10% | 10% |
-| Drug hypersensitivity | 9% | <1% This trial used double-blind ascertainment of suspected hypersensitivity reactions. During the blinded portion of the trial, suspected hypersensitivity to abacavir was reported by investigators in 9% of 324 subjects in the abacavir group and 3% of 325 subjects in the zidovudine group. |
+| Drug hypersensitivity | 9% | <1% Ten (3%) cases of suspected drug hypersensitivity were reclassified as not being due to abacavir following unblinding |
 | Headaches/migraine | 7% | 11% |
 | Nausea | 7% | 11% |
 | Fatigue/malaise | 7% | 10% |
@@ -84,7 +84,7 @@ Laboratory Abnormalities: Laboratory abnormalities (Grades 3-4) in therapy-naive
 Table 4.
 Laboratory Abnormalities (Grades 3-4) in Therapy-Naive Adults (CNA30024) through 48 Weeks of Treatment
 
-| Grade ¾ Laboratory Abnormalities | Abacavir sulfate plus Lamivudine plus Efavirenz (n = 324) | Zidovudine plus Lamivudine plus Efavirenz (n = 325) |
+| Grade 3/4 Laboratory Abnormalities | Abacavir sulfate plus Lamivudine plus Efavirenz (n = 324) | Zidovudine plus Lamivudine plus Efavirenz (n = 325) |
 | --- | --- | --- |
 | Elevated CPK (>4 X ULN) | 8% | 8% |
 | Elevated ALT (>5 X ULN) | 6% | 6% |
@@ -140,10 +140,12 @@ Mild elevations of blood glucose were more frequent in pediatric subjects receiv
 
 Other Adverse Events
 
-In addition to adverse reactions and laboratory abnormalities reported in Tables 2, 3, 4, 5 and 6, other adverse reactions observed in the expanded access program were pancreatitis and increased GGT.
+In addition to adverse reactions and laboratory abnormalities reported in Tables 2, 3, 4, 5, and 6, other adverse reactions observed in the expanded access program were pancreatitis and increased GGT.
 
-Additional pediatric use information for patients aged 3 months and above is approved for ViiV Healthcare Company's ZIAGEN® (abacavir sulfate) tablets and oral solution.
-However, due to ViiV Healthcare Company's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Pediatric Subjects Once-Daily versus Twice-Daily Dosing (COL105677): The safety of once-daily compared with twice-daily dosing of abacavir was assessed in the ARROW trial.
+Primary safety assessment in the ARROW trial was based on Grade 3 and Grade 4 adverse events.
+The frequency of Grade 3 and 4 adverse events was similar among subjects randomized to once-daily dosing compared with subjects randomized to twice-daily dosing.
+One event of Grade 4 hepatitis in the once-daily cohort was considered as uncertain causality by the investigator and all other Grade 3 or 4 adverse events were considered not related by the investigator.
 
 ## 6.3 Postmarketing Experience
 

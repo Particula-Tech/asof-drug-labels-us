@@ -9,15 +9,15 @@ Healthcare Providers are encouraged to register patients by calling the Antiretr
 
 Risk Summary
 
-Available data from the APR show no difference in the overall risk of birth defects for abacavir compared with the background rate for birth defects of 2.7% in the Metropolitan Atlanta Congenital Defects Program (MACDP) reference population [see Data].
+Available data from the APR show no difference in the overall risk of birth defects for abacavir compared with the background rate for birth defects of 2.7% in the Metropolitan Atlanta Congenital Defects Program (MACDP) reference population (see Data).
 The APR uses the MACDP as the U.S. reference population for birth defects in the general population.
-The MACDP evaluates women and infants from a limited geographic area and does not include outcomes for births that occurred at less than 20 weeks gestation.
+The MACDP evaluates women and infants from a limited geographic area and does not include outcomes for births that occurred at less than 20 weeks' gestation.
 The rate of miscarriage is not reported in the APR.
 The estimated background rate of miscarriage in clinically recognized pregnancies in the U.S. general population is 15% to 20%.
 The background risk for major birth defects and miscarriage for the indicated population is unknown.
 
 In animal reproduction studies, oral administration of abacavir to pregnant rats during organogenesis resulted in fetal malformations and other embryonic and fetal toxicities at exposures 35 times the human exposure (AUC) at the recommended clinical daily dose.
-However, no adverse developmental effects were observed following oral administration of abacavir to pregnant rabbits during organogenesis, at exposures approximately 9 times the human exposure (AUC) at the recommended clinical dose [see Data].
+However, no adverse developmental effects were observed following oral administration of abacavir to pregnant rabbits during organogenesis, at exposures approximately 9 times the human exposure (AUC) at the recommended clinical dose (see Data).
 
 Data
 
@@ -38,15 +38,15 @@ In pregnant rabbits, no developmental toxicities and no increases in fetal malfo
 
 Risk Summary
 
-The Centers for Disease Control and Prevention recommend that HIV-1-infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV-1 infection.
+The Centers for Disease Control and Prevention recommends that HIV-1-infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV-1 infection.
 Abacavir is present in human milk.
 There is no information on the effects of abacavir on the breastfed infant or the effects of the drug on milk production.
-Because of the potential for (1) HIV-1 transmission (in HIV-negative infants), (2) developing viral resistance (in HIV-positive infants), and (3) serious adverse reactions in a breastfed infant, instruct mothers not to breastfeed if they are receiving abacavir tablets.
+Because of the potential for (1) HIV-1 transmission (in HIV-negative infants), (2) developing viral resistance (in HIV-positive infants), and (3) adverse reactions in a breastfed infant, instruct mothers not to breastfeed if they are receiving abacavir tablets.
 
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of abacavir sulfate have been established in pediatric patients aged 3 months and older.
-Use of abacavir sulfate is supported by pharmacokinetic trials and evidence from adequate and well-controlled trials of abacavir sulfate in adults and pediatric subjects [see Dosage and Administration (2.2), Adverse Reactions (6.2), Clinical Pharmacology (12.3), Clinical Studies (14.2)].
+Use of abacavir sulfate is supported by pharmacokinetic trials and evidence from adequate and well-controlled trials of abacavir sulfate in adults and pediatric subjects [see Dosage and Administration (2.3), Adverse Reactions (6.2), Clinical Pharmacology (12.3), Clinical Studies (14.2)].
 
 ## 8.5 Geriatric Use
 

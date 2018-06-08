@@ -1,6 +1,4 @@
-# WARNING HYPERSENSITIVITY REACTIONS AND LACTIC ACIDOSIS AND SEVER HEPATOMEGALY WITH STEATOSIS
-
-Hypersensitivity Reactions
+# WARNING HYPERSENSITIVITY REACTIONS
 
 Serious and sometimes fatal hypersensitivity reactions, with multiple organ involvement, have occurred with abacavir sulfate.
 
@@ -12,8 +10,3 @@ Discontinue abacavir tablets immediately if a hypersensitivity reaction is suspe
 
 Following a hypersensitivity reaction to abacavir, NEVER restart abacavir tablets or any other abacavir-containing product because more severe symptoms, including death can occur within hours.
 Similar severe reactions have also occurred rarely following the reintroduction of abacavir-containing products in patients who have no history of abacavir hypersensitivity [see Warnings and Precautions (5.1)].
-
-Lactic Acidosis and Severe Hepatomegaly with Steatosis
-
-Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues and other antiretrovirals.
-Discontinue abacavir tablets if clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity occur [see Warnings and Precautions (5.2)].

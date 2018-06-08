@@ -21,15 +21,11 @@ Inform patients:
 Lactic Acidosis/Hepatomegaly with Steatosis
 
 Advise patients that lactic acidosis and severe hepatomegaly with steatosis have been reported with use of nucleoside analogues and other antiretrovirals.
-Advise patients to stop taking abacavir tablets if they develop clinical symptoms suggestive of lactic acidosis or pronounced hepatotoxicity [see Boxed Warning, Warnings and Precautions (5.2)].
+Advise patients to stop taking abacavir tablets if they develop clinical symptoms suggestive of lactic acidosis or pronounced hepatotoxicity [see, Warnings and Precautions (5.2)].
 
 Immune Reconstitution Syndrome
 
 Advise patients to inform their healthcare provider immediately of any signs and symptoms of infection as inflammation from previous infection may occur soon after combination antiretroviral therapy, including when abacavir tablet is started [see Warnings and Precautions (5.3)].
-
-Redistribution/Accumulation of Body Fat
-
-Inform patients that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy and that the cause and long-term health effects of these conditions are not known at this time [see Warnings and Precautions (5.4)].
 
 Pregnancy Registry
 
@@ -51,7 +47,7 @@ Instruct patients to inform their physician or pharmacist if they develop any un
 
 Disclaimer: Other brands listed are the registered trademarks of their respective owners and are not trademarks of Cipla Limited.
 
-Revised: June 2017
+Revised: May 2018
 
 Manufactured by
 

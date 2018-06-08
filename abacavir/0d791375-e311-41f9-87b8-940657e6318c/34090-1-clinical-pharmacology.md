@@ -10,11 +10,15 @@ Pharmacokinetics in Adults
 
 The pharmacokinetic properties of abacavir were independent of dose over the range of 300 to 1,200 mg per day.
 
-Absorption and Bioavailability: Following oral administration, abacavir is rapidly absorbed and extensively distributed.
+Absorption: Following oral administration, abacavir is rapidly absorbed and extensively distributed.
 The geometric mean absolute bioavailability of the tablet was 83%.
 Plasma abacavir AUC was similar following administration of the oral solution or tablets.
 After oral administration of 300 mg twice daily in 20 subjects, the steady-state peak serum abacavir concentration (Cmax) was 3.0 ± 0.89 mcg per mL (mean ± SD) and AUC(0-12 h) was 6.02 ± 1.73 mcg•hour per mL.
-After oral administration of a single dose of 600 mg of abacavir in 20 subjects, Cmax was 4.26 ± 1.19 mcg per mL (mean ± SD) and AUC∞ was 11.95 ± 2.51 mcg•hour per mL.
+After oral administration of a single dose of 600 mg of abacavir in 20 subjects, Cmax was 4.26 ± 1.19 mcg per mL (mean ± SD) and AUC¥ was 11.95 ± 2.51 mcg•hour per mL.
+
+Effect of Food: Bioavailability of abacavir tablets was assessed in the fasting and fed states with no significant difference in systemic exposure (AUC∞); therefore, abacavir tablets may be administered with or without food.
+Systemic exposure to abacavir was comparable after administration of abacavir oral solution and abacavir tablets.
+Therefore, these products may be used interchangeably.
 
 Distribution: The apparent volume of distribution after IV administration of abacavir was 0.86 ± 0.15 L per kg, suggesting that abacavir distributes into extravascular space.
 In 3 subjects, the CSF AUC(0-6 h) to plasma abacavir AUC(0-6 h) ratio ranged from 27% to 33%.
@@ -22,52 +26,53 @@ In 3 subjects, the CSF AUC(0-6 h) to plasma abacavir AUC(0-6 h) ratio ranged fro
 Binding of abacavir to human plasma proteins is approximately 50% and was independent of concentration.
 Total blood and plasma drug-related radioactivity concentrations are identical, demonstrating that abacavir readily distributes into erythrocytes.
 
-Metabolism and Elimination: In humans, abacavir is not significantly metabolized by cytochrome P450 enzymes.
-The primary routes of elimination of abacavir are metabolism by alcohol dehydrogenase to form the 5'-carboxylic acid and glucuronyl transferase to form the 5 -glucuronide.
+Elimination: In single-dose trials, the observed elimination half-life (t½) was 1.54 ± 0.63 hours.
+After intravenous administration, total clearance was 0.80 ± 0.24 L per hour per kg (mean ± SD).
+
+Metabolism: In humans, abacavir is not significantly metabolized by cytochrome P450 enzymes.
+The primary routes of elimination of abacavir are metabolism by alcohol dehydrogenase to form the 5¢-carboxylic acid and glucuronyl transferase to form the 5¢-glucuronide.
 The metabolites do not have antiviral activity.
 In vitro experiments reveal that abacavir does not inhibit human CYP3A4, CYP2D6, or CYP2C9 activity at clinically relevant concentrations.
 
-Elimination of abacavir was quantified in a mass balance trial following administration of a 600-mg dose of 14C-abacavir: 99% of the radioactivity was recovered, 1.2% was excreted in the urine as abacavir, 30% as the 5 -carboxylic acid metabolite, 36% as the 5 -glucuronide metabolite, and 15% as unidentified minor metabolites in the urine.
+Excretion: Elimination of abacavir was quantified in a mass balance trial following administration of a 600-mg dose of 14C-abacavir: 99% of the radioactivity was recovered, 1.2% was excreted in the urine as abacavir, 30% as the 5¢-carboxylic acid metabolite, 36% as the 5¢-glucuronide metabolite, and 15% as unidentified minor metabolites in the urine.
 Fecal elimination accounted for 16% of the dose.
-
-In single-dose trials, the observed elimination half-life (t1/2) was 1.54 ± 0.63 hours.
-After intravenous administration, total clearance was 0.80 ± 0.24 L per hour per kg (mean ± SD).
-
-Effects of Food on Oral Absorption
-
-Bioavailability of abacavir tablets was assessed in the fasting and fed states with no significant difference in systemic exposure (AUC∞); therefore, abacavir tablets may be administered with or without food.
-Systemic exposure to abacavir was comparable after administration of abacavir oral solution and abacavir tablets.
-Therefore, these products may be used interchangeably.
 
 Specific Populations
 
-Renal Impairment: The pharmacokinetic properties of abacavir sulfate have not been determined in patients with impaired renal function.
+Patients with Renal Impairment: The pharmacokinetic properties of abacavir sulfate have not been determined in patients with impaired renal function.
 Renal excretion of unchanged abacavir is a minor route of elimination in humans.
 
-Hepatic Impairment: The pharmacokinetics of abacavir have been studied in subjects with mild hepatic impairment (Child-Pugh Class A). Results showed that there was a mean increase of 89% in the abacavir AUC, and an increase of 58% in the half-life of abacavir after a single dose of 600 mg of abacavir.
+Patients with Hepatic Impairment: The pharmacokinetics of abacavir have been studied in subjects with mild hepatic impairment (Child-Pugh Class A). Results showed that there was a mean increase of 89% in the abacavir AUC and an increase of 58% in the half-life of abacavir after a single dose of 600 mg of abacavir.
 The AUCs of the metabolites were not modified by mild liver disease; however, the rates of formation and elimination of the metabolites were decreased [see Contraindications (4), Use in Specific Populations (8.6)].
 
-Pregnancy: Abacavir: Abacavir pharmacokinetics were studied in 25 pregnant women during the last trimester of pregnancy receiving abacavir 300 mg twice daily.
+Pregnant Women: Abacavir: Abacavir pharmacokinetics were studied in 25 pregnant women during the last trimester of pregnancy receiving abacavir 300 mg twice daily.
 Abacavir exposure (AUC) during pregnancy was similar to those in postpartum and in HIV-infected non-pregnant historical controls.
 Consistent with passive diffusion of abacavir across the placenta, abacavir concentrations in neonatal plasma cord samples at birth were essentially equal to those in maternal plasma at delivery.
 
-Pediatric Patients: The pharmacokinetics of abacavir have been studied after either single or repeat doses of abacavir sulfate in pediatric subjects.
+Pediatric Patients: The pharmacokinetics of abacavir have been studied after either single or repeat doses of abacavir sulfate in 169 pediatric subjects.
 Subjects receiving abacavir oral solution according to the recommended dosage regimen achieved plasma concentrations of abacavir similar to adults.
 Subjects receiving abacavir oral tablets achieved higher plasma concentrations of abacavir than subjects receiving oral solution.
 
-Additional pediatric use information for patients aged 3 months and above is approved for ViiV Healthcare Company's ZIAGEN® (abacavir sulfate) tablets and oral solution.
-However, due to ViiV Healthcare Company's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+The pharmacokinetics of abacavir dosed once daily in HIV-1-infected pediatric subjects aged 3 months through 12 years was evaluated in 3 trials (PENTA 13 [n = 14], PENTA 15 [n = 18], and ARROW [n = 36]).
+All 3 trials were 2-period, crossover, open-label pharmacokinetic trials of twice- versus once-daily dosing of abacavir and lamivudine.
+For the oral solution as well as the tablet formulation, these 3 trials demonstrated that once-daily dosing provides comparable AUC0-24 to twice-daily dosing of abacavir at the same total daily dose.
+The mean Cmax was approximately 1.6- to 2.3-fold higher with abacavir once-daily dosing compared with twice-daily dosing.
 
 Geriatric Patients: The pharmacokinetics of abacavir sulfate have not been studied in subjects older than 65 years.
 
-Gender: A population pharmacokinetic analysis in HIV-1-infected male (n = 304) and female (n = 67) subjects showed no gender differences in abacavir AUC normalized for lean body weight.
+Male and Female Patients: A population pharmacokinetic analysis in HIV-1-infected male (n = 304) and female (n = 67) subjects showed no gender differences in abacavir AUC normalized for lean body weight.
 
-Race: There are no significant or clinically relevant racial differences between blacks and whites in abacavir pharmacokinetics.
+Racial Groups: There are no significant or clinically relevant racial differences between blacks and whites in abacavir pharmacokinetics.
 
-Drug Interactions
+Drug Interaction Studies
 
-In human liver microsomes, abacavir did not inhibit cytochrome P450 isoforms (2C9, 2D6, 3A4).
+Effect of Abacavir on the Pharmacokinetics of Other Agents: In human liver microsomes, abacavir did not inhibit cytochrome P450 isoforms (2C9, 2D6, 3A4).
 Based on these data, it is unlikely that clinically significant drug interactions will occur between abacavir and drugs metabolized through these pathways.
+
+Based on in vitro study results, abacavir at therapeutic drug exposures is not expected to affect the pharmacokinetics of drugs that are substrates of the following transporters: organic anion transporter polypeptide (OATP)1B1/3, breast cancer resistance protein (BCRP) or Pglycoprotein (P-gp), organic cation transporter (OCT)1, OCT2, or multidrug and toxic extrusion protein (MATE)1 and MATE2-K.
+
+Effect of Other Agents on the Pharmacokinetics of Abacavir: In vitro, abacavir is not a substrate of OATP1B1, OAP1B3, OCT1, OCT2, OAT1, MATE1, MATE2-K, multidrug resistance-associated protein (MRP)2 or MRP4; therefore, drugs that modulate these transporters are not expected to affect abacavir plasma concentrations.
+Abacavir is a substrate of BCRP and P-gp in vitro; however, considering its absolute bioavailability (83%), modulators of these transporters are unlikely to result in a clinically relevant impact on abacavir concentrations.
 
 Lamivudine and/or Zidovudine: Fifteen HIV-1-infected subjects were enrolled in a crossover-designed drug interaction trial evaluating single doses of abacavir (600 mg), lamivudine (150 mg), and zidovudine (300 mg) alone or in combination.
 Analysis showed no clinically relevant changes in the pharmacokinetics of abacavir with the addition of lamivudine or zidovudine or the combination of lamivudine and zidovudine.
@@ -76,14 +81,14 @@ Lamivudine exposure (AUC decreased 15%) and zidovudine exposure (AUC increased 1
 Ethanol: Abacavir has no effect on the pharmacokinetic properties of ethanol.
 Ethanol decreases the elimination of abacavir causing an increase in overall exposure.
 Due to the common metabolic pathways of abacavir and ethanol via alcohol dehydrogenase, the pharmacokinetic interaction between abacavir and ethanol was studied in 24 HIV-1-infected male subjects.
-Each subjects received the following treatments on separate occasions: a single 600-mg dose of abacavir, 0.7 g per kg ethanol (equivalent to 5 alcoholic drinks), and abacavir 600 mg plus 0.7 g per kg ethanol.
+Each subject received the following treatments on separate occasions: a single 600-mg dose of abacavir, 0.7 g per kg ethanol (equivalent to 5 alcoholic drinks), and abacavir 600 mg plus 0.7 g per kg ethanol.
 Coadministration of ethanol and abacavir resulted in a 41% increase in abacavir AUC∞ and a 26% increase in abacavir t1/2.
 Abacavir had no effect on the pharmacokinetic properties of ethanol, so no clinically significant interaction is expected in men.
 This interaction has not been studied in females.
 
-Methadone: In a trial of 11 HIV-infected subjects receiving methadone-maintenance therapy (40 mg and 90 mg daily), with 600 mg of abacavir sulfate twice daily (twice the currently recommended dose), oral methadone clearance increased 22% (90% CI: 6% to 42%).
+Methadone: In a trial of 11 HIV-1-infected subjects receiving methadone-maintenance therapy (40 mg and 90 mg daily), with 600 mg of abacavir sulfate twice daily (twice the currently recommended dose), oral methadone clearance increased 22% (90% CI: 6% to 42%).
 This alteration will not result in a methadone dose modification in the majority of patients; however, an increased methadone dose may be required in a small number of patients [see Drug Interactions (7)].
-The addition of methadone had no clinically significant effect on the pharmacokinetic properties of abacavir.
+The addition of methadone had no clinically significant effect on the pharmacokinetic properties of abacavir
 
 ## 12.4 Microbiology
 
