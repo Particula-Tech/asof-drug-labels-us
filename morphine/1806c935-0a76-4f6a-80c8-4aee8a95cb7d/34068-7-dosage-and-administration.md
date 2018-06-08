@@ -14,30 +14,30 @@ Patients who are opioid tolerant are those receiving, for one week or longer, at
 Instruct patients to swallow MORPHABOND ER tablets whole [see Patient Counseling Information (17)].
 Crushing, chewing, or dissolving MORPHABOND ER tablets will result in uncontrolled delivery of morphine and can lead to overdose or death [see Warnings and Precautions (5.1)].
 
-MORPHABOND ER is administered orally every 12 hours.
+MORPHABOND ER is administered orally every 8 or 12 hours.
 
 ## 2.2Initial Dosage
 
 Use of MORPHABOND ER as the First Opioid Analgesic (opioid-naïve patients)
 
-Initiate treatment with MORPHABOND ER with 15 mg tablets orally every 12 hours.
+Initiate treatment with MORPHABOND ER with 15 mg tablets orally every 8 or 12 hours.
 
 Use of MORPHABOND ER in Patients who are not Opioid Tolerant (opioid non-tolerant patients)
 
-The starting dosage for patients who are not opioid tolerant is MORPHABOND ER 15 mg orally every 12 hours.
+The starting dosage for patients who are not opioid tolerant is MORPHABOND ER 15 mg orally every 8 or 12 hours.
 
 Use of higher starting doses in patients who are not opioid tolerant may cause fatal respiratory depression [see Warnings and Precautions (5.2)].
 
 Conversion from Other Oral Morphine to MORPHABOND ER
 
-Patients receiving other oral morphine formulations may be converted to MORPHABOND ER by administering one-half of the patient's 24-hour requirement as MORPHABOND ER on an every-12-hour schedule.
+Patients receiving other oral morphine formulations may be converted to MORPHABOND ER by administering one-half of the patient's 24-hour requirement as MORPHABOND ER on an every-12-hour schedule or by administering one-third of the patient’s daily requirement as MORPHABOND ER on an every-8-hour schedule.
 
 Conversion from Other Opioids to MORPHABOND ER
 
 Discontinue all other around-the-clock opioid drugs when MORPHABOND ER therapy is initiated.
 
 There are no established conversion ratios for conversion from other opioids to MORPHABOND ER defined by clinical trials.
-Initiate dosing using MORPHABOND ER 15 mg orally every 12 hours.
+Initiate dosing using MORPHABOND ER 15 mg orally every 8 to 12 hours.
 
 It is safer to underestimate a patient’s 24-hour oral morphine dosage and provide rescue medication (e.g., immediate-release morphine) than to overestimate the 24-hour oral morphine dosage and manage an adverse reaction due to an overdose.
 While useful tables of opioid equivalents are readily available, there is inter-patient variability in the relative potency of opioid drugs and formulations.
@@ -76,7 +76,11 @@ Because steady-state plasma concentrations are approximated in 1 day, MORPHABOND
 If unacceptable opioid-related adverse reactions are observed, consider reducing the dosage.
 Adjust the dosage to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
 
-## 2.4Discontinuation of MORPHABOND ER
+## 2.4 Dosage Modifications with Concomitant Use of Central Nervous System Depressants
+
+If the patient is currently taking a central nervous system (CNS) depressant and the decision is made to begin MORPHABOND ER, start with the lowest possible dose, 15 mg every 12 hours, monitor patients for signs of respiratory depression, sedation, and hypotension, and consider using a lower dosage of the concomitant CNS depressant [see Warnings and Precautions (5.4), Drug Interactions (7)]
+
+## 2.5Discontinuation of MORPHABOND ER
 
 When the patient no longer requires therapy with MORPHABOND ER tablets, taper the dosage gradually, by 25% to 50% every 2 to 4 days, while monitoring carefully for signs and symptoms of withdrawal.
 If a patient develops these signs or symptoms, raise the dose to the previous level and taper more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both.

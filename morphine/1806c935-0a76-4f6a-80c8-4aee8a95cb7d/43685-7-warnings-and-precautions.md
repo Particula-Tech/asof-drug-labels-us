@@ -66,7 +66,7 @@ The use of MORPHABOND ER in patients with acute or severe bronchial asthma in an
 
 Patients with Chronic Pulmonary Disease: MORPHABOND ER-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of MORPHABOND ER [see Warnings and Precautions (5.2)].
 
-Elderly, Cachetic, or Debilitated Patients: Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients as they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.2)].
+Elderly, Cachectic, or Debilitated Patients: Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients as they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.2)].
 
 Monitor such patients closely, particularly when initiating and titrating MORPHABOND ER and when MORPHABOND ER is given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.2, 5.4)].
 Alternatively, consider the use of non-opioid analgesics in these patients.

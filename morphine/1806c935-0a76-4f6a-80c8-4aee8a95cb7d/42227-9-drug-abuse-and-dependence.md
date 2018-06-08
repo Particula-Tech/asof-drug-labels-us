@@ -80,6 +80,9 @@ These data are consistent with the similar relative bioavailability after crushe
 Figure 1 demonstrates a comparison of peak drug liking scores for crushed MORPHABOND ER compared to crushed extended-release morphine in subjects who received both treatments intranasally.
 Seventy-six percent of subjects (n = 19) experienced some reduction in Emax of Drug Liking VAS with crushed MORPHABOND ER compared with crushed extended-release morphine, 48%; (n = 12) experienced at least a 30% reduction in Emax and 32% (n = 8) experienced at least a 50% reduction in Emax of drug liking.
 
+Figure 1.
+Percent Reduction Profiles for Emax of Drug Liking for MORPHABOND ER vs. Morphine Sulfate ER Tablets (n=25), Following Intranasal Administration
+
 Summary
 
 The in vitro data demonstrate that MORPHABOND ER has physiochemical properties expected to make abuse via injection difficult.
