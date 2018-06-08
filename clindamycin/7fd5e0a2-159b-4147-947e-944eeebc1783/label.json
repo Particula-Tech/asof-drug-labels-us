@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA050782"
+  ],
+  "inn": "clindamycin",
+  "labeler": "Oceanside Pharmaceuticals",
+  "package_ndcs": [
+    "68682-462-75"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "clindamycin phosphate",
+      "name": "Clindamycin Phosphate"
+    }
+  ],
+  "setid": "7fd5e0a2-159b-4147-947e-944eeebc1783",
+  "source": "dailymed"
+}
