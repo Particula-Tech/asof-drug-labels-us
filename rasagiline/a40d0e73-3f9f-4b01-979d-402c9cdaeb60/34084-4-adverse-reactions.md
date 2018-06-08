@@ -2,15 +2,15 @@
 
 The following adverse reactions are described in more detail in the Warnings and Precautions section of the label:
 
-- •Hypertension [see Warnings and Precautions (5.1)]
-- •Serotonin Syndrome [see Warnings and Precautions (5.2)]
-- •Falling Asleep During Activities of Daily Living and Somnolence [see Warnings and Precautions (5.3)]
-- •Hypotension / Orthostatic Hypotension [see Warnings and Precautions (5.6)]
-- •Dyskinesia [see Warnings and Precautions (5.7)]
-- •Hallucinations / Psychotic-Like Behavior [see Warnings and Precautions (5.8)]
-- •Impulse Control /Compulsive Behaviors [see Warnings and Precautions (5.9)]
-- •Withdrawal-Emergent Hyperpyrexia and Confusion [see Warnings and Precautions (5.10)]
-- •Melanoma [see Warnings and Precautions (5.11)]
+- Hypertension [see Warnings and Precautions (5.1)]
+- Serotonin Syndrome [see Warnings and Precautions (5.2)]
+- Falling Asleep During Activities of Daily Living and Somnolence [see Warnings and Precautions (5.3)]
+- Hypotension / Orthostatic Hypotension [see Warnings and Precautions (5.6)]
+- Dyskinesia [see Warnings and Precautions (5.7)]
+- Hallucinations / Psychotic-Like Behavior [see Warnings and Precautions (5.8)]
+- Impulse Control /Compulsive Behaviors [see Warnings and Precautions (5.9)]
+- Withdrawal-Emergent Hyperpyrexia and Confusion [see Warnings and Precautions (5.10)]
+- Melanoma [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -91,7 +91,7 @@ In Study 3, adverse event reporting was considered more reliable than Study 4; t
 In Study 3, approximately 9% of the 164 patients treated with AZILECT 0.5 mg/day and 7% of the 149 patients treated with AZILECT 1 mg/day discontinued treatment due to adverse reactions, compared to 6% of the 159 patients who received placebo.
 The adverse reactions that led to discontinuation of more than one AZILECT-treated patient were diarrhea, weight loss, hallucination, and rash.
 
-The most commonly observed adverse reactions in Study 3 (incidence in AZILECT-treated patients 3% or greater than the incidence in placebo-treated patients) included dyskinesia, accidental injury, weight loss, postural hypotension, vomiting, anorexia, arthralgia, abdominal pain, nausea, constipation, dry mouth, rash, abnormal dreams, fall and tenosynovitis.
+The most commonly observed adverse reactions in Study 3 (incidence in AZILECT-treated patients 3% or greater than the incidence in placebo-treated patients) included dyskinesia, accidental injury, weight loss, postural hypotension, vomiting, anorexia, arthralgia, abdominal pain, nausea, constipation, dry mouth, rash, abnormal dreams, fall, and tenosynovitis.
 
 Table 3 lists adverse reactions that occurred in 2% or greater of patients treated with AZILECT 1 mg/day and that were numerically more frequent than the placebo group in Study 3.
 
@@ -99,7 +99,7 @@ Table 3: Adverse Reactions* in Study 3
 
 |  | AZILECT 1 mg (N=149) | AZILECT 0.5 mg (N=164) | Placebo (N=159) |
 | --- | --- | --- | --- |
-|  | % of patients | % of patients | % of patients |
+|  | % of Patients | % of Patients | % of Patients |
 | Dyskinesia | 18 | 18 | 10 |
 | Accidental injury | 12 | 8 | 5 |
 | Nausea | 12 | 10 | 8 |

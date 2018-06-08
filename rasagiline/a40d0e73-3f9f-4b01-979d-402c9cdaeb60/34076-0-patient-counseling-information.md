@@ -66,4 +66,6 @@ Instruct patients to take AZILECT as prescribed.
 If a dose is missed, the patient should not double-up the dose of AZILECT.
 The next dose should be taken at the usual time on the following day.
 
-Marketed by: TEVA Neuroscience, Inc., Overland Park, KS 66211 Distributed by: TEVA Pharmaceuticals USA, Inc., North Wales, PA 19454
+AZI-001
+
+Marketed by: Teva Neuroscience, Inc., Overland Park, KS 66211 Distributed by: Teva Pharmaceuticals USA, Inc., North Wales, PA 19454

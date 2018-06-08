@@ -26,7 +26,7 @@ Nevertheless, caution should be exercised when concomitantly using recommended d
 
 ## 7.5 Antidepressants
 
-Concomitant use of AZILECT with one of many classes of antidepressants (e.g., SSRIs, SNRIs, triazolopyridine, tricyclic or tetracyclic antidepressants) is not recommended [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
+Concomitant use of AZILECT with one of many classes of antidepressants (e.g., SSRIs, SNRIs, triazolopyridine, tricyclic, or tetracyclic antidepressants) is not recommended [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
 Concomitant use of AZILECT and MAO inhibitors is contraindicated [see Contraindications (4)].
 
 ## 7.6 Ciprofloxacin or Other CYP1A2 Inhibitors
