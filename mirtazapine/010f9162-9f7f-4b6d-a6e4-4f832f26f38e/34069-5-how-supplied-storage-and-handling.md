@@ -7,9 +7,19 @@ REMERON (mirtazapine) Tablets are supplied as:
 |  | Bottles of 30 | NDC 0052-0105-30 |
 | --- | --- | --- |
 
+15 mg Tablets — oval, scored, yellow, coated, with "MSD" debossed on 1 side and "T3Z" on the other side.
+
+|  | Bottles of 30 | NDC 0052-4364 -01 |
+| --- | --- | --- |
+
 30 mg Tablets — oval, scored, red-brown, coated, with "Organon" debossed on 1 side and "T5Z" on the other side.
 
 |  | Bottles of 30 | NDC 0052-0107-30 |
+| --- | --- | --- |
+
+30 mg Tablets — oval, scored, red-brown, coated, with "MSD" debossed on 1 side and "T5Z" on the other side.
+
+|  | Bottles of 30 | NDC 0052-4365-01 |
 | --- | --- | --- |
 
 45 mg Tablets — oval, white, coated, with "Organon" debossed on 1 side and "T7Z" on the other side.
