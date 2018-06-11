@@ -160,8 +160,6 @@ In reproduction studies with SINEMET, no effects on fertility were found in rats
 
 ## Pregnancy
 
-### Pregnancy Category C
-
 No teratogenic effects were observed in a study in mice receiving up to 20 times the maximum recommended human dose of SINEMET.
 There was a decrease in the number of live pups delivered by rats receiving approximately two times the maximum recommended human dose of carbidopa and approximately five times the maximum recommended human dose of levodopa during organogenesis.
 SINEMET caused both visceral and skeletal malformations in rabbits at all doses and ratios of carbidopa/levodopa tested, which ranged from 10 times/5 times the maximum recommended human dose of carbidopa/levodopa to 20 times/10 times the maximum recommended human dose of carbidopa/levodopa.

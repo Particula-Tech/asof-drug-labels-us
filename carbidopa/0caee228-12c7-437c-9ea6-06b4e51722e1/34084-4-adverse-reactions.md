@@ -81,7 +81,7 @@ Pharyngeal pain, cough.
 
 Skin
 
-Malignant melanoma (see also CONTRAINDICATIONS), flushing.
+Malignant melanoma, flushing.
 
 Special Senses
 
