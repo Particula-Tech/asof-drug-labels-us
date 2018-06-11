@@ -173,6 +173,6 @@ For current full prescribing information, please visit www.pfizer.com.
 
 Distributed by Roerig Division of Pfizer Inc New York, NY 10017
 
-LAB-0633-5.0
+LAB-0633-6.0
 
-Revised October 2017
+Revised: 05/2018
