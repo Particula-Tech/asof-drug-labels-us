@@ -13,19 +13,15 @@ Each capsule contains: Etoposide, USP 50 mg
 Usual Dosage: See accompanying prescribing information.
 
 This unit dose package is not child-resistant.
-
 Dispense in child-resistant containers.
 
 Store under refrigeration, 2° to 8°C (36° to 46°F).
-
 Protect from freezing.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
-
 Made in Germany
 
-M3266:94:2C:R3
+M3266:94:2C:R5
 
 Mylan.com
