@@ -1,4 +1,8 @@
-# PATIENT INFORMATION
+Patient Information
+
+Memantine Hydrochloride Tablets, USP
+
+(mem' an teen hye'' droe klor' ide)
 
 Read this Patient Information that comes with memantine hydrochloride tablets before you start taking it and each time you get a refill.
 There may be new information.
@@ -128,4 +132,8 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Issued: 0615
+Revised: 0517
+
+Dispense with Patient Information Sheet available at:
+
+www.drreddys.com/pi/memantinetabs.pdf
