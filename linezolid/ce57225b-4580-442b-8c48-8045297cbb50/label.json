@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021131"
+  ],
+  "inn": "linezolid",
+  "labeler": "Fresenius Kabi Norge As",
+  "package_ndcs": [
+    "66298-5137-1"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "linezolid",
+      "name": "Zyvox"
+    }
+  ],
+  "setid": "ce57225b-4580-442b-8c48-8045297cbb50",
+  "source": "dailymed"
+}
