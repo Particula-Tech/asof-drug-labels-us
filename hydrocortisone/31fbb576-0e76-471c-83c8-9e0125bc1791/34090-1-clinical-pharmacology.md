@@ -5,7 +5,7 @@ The mechanism of anti-inflammatory activity of the topical corticosteroids is un
 Various laboratory methods, including vasoconstrictor assays, are used to compare and predict potencies and/or clinical efficacies of the topical corticosteroids.
 There is some evidence to suggest that a recognizable correlation exists between vasoconstrictor potency and therapeutic efficacy in man.
 
-Pharmacokinetics: The extent of percutaneous absorption of topical corticosteroids is determined by many factors including the the vehicle, the integrity of the epidermal barrier, and the use of occlusive dressings.
+Pharmacokinetics: The extent of percutaneous absorption of topical corticosteroids is determined by many factors including the vehicle, the integrity of the epidermal barrier, and the use of occlusive dressings.
 Topical corticosteroids can be absorbed from normal intact skin.
 Inflammation and/or other disease processes in the skin increase percutaneous absorption.
 Occlusive dressings substantially increase the percutaneous absorption of topical corticosteroids.
