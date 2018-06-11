@@ -45,4 +45,21 @@ Table 2 Dosing of Pramipexole Dihydrochloride Tablets in Parkinson's Disease Pat
 | Very severe impairment (creatinine Cl <15 mL/min and hemodialysis patients) | The use of pramipexole dihydrochloride tablets has not been adequately studied in this group of patients. |  |
 
 Discontinuation of Treatment Pramipexole dihydrochloride tablets may be tapered off at a rate of 0.75 mg per day until the daily dose has been reduced to 0.75 mg.
-Thereafter, the dose may be reduced by 0.375 mg per day [see Warnings and Precautions (5.9)]
+Thereafter, the dose may be reduced by 0.375 mg per day [see Warnings and Precautions (5.10)]
+
+## 2.3 Dosing for Restless Legs Syndrome
+
+The recommended starting dose of pramipexole dihydrochloride tablets is 0.125 mg taken once daily 2-3 hours before bedtime.
+For patients requiring additional symptomatic relief, the dose may be increased every 4-7 days (Table 3).
+Although the dose of pramipexole dihydrochloride tablets was increased to 0.75 mg in some patients during long-term open-label treatment, there is no evidence that the 0.75 mg dose provides additional benefit beyond the 0.5 mg dose.
+Table 3 Ascending Dosage Schedule of Pramipexole Dihydrochloride Tablets for RLS
+
+| Titration Step | Duration | Dose (mg) to be taken once daily, 2-3 hours before bedtime |
+| --- | --- | --- |
+| 1 | 4-7 days | 0.125 |
+| 2* | 4-7 days | 0.25 |
+| 3* | 4-7 days | 0.5 |
+
+*if needed Dosing in Patients with Renal Impairment The duration between titration steps should be increased to 14 days in RLS patients with moderate and severe renal impairment (creatinine clearance 20-60 ml/min) [see Clinical Pharmacology (12.3)].
+Discontinuation of Treatment In clinical trials of patients being treated for RLS with doses up to 0.75 mg once daily, pramipexole dihydrochloride tablets were discontinued without a taper.
+In a 26 week placebo-controlled clinical trial, patients reported a worsening of RLS symptom severity as compared to their untreated baseline when pramipexole dihydrochloride tablets treatment was suddenly withdrawn [see Warnings and Precautions (5.10)].

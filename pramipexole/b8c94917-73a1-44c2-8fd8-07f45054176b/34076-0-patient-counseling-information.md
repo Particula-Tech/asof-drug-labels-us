@@ -10,10 +10,10 @@ Pramipexole dihydrochloride tablets can be taken with or without food.
 If patients develop nausea, they should be advised that taking pramipexole dihydrochloride tablets with food may reduce the occurrence of nausea.
 
 Pramipexole is the active ingredient that is in both pramipexole dihydrochloride tablets and extended-release pramipexole tablets.
-Ensure that patients do not take both extended-release pramipexole and pramipexole dihydrochloride.
+Ensure that patients do not take both extended-release pramipexole and pramipexole dihydrochloride tablets.
 
 Sedating Effects Alert patients to the potential sedating effects associated with pramipexole dihydrochloride tablets, including somnolence and the possibility of falling asleep while engaged in activities of daily living.
-Since somnolence is a frequent adverse event with potentially serious consequences, patients should neither drive a car nor engage in other potentially dangerous activities until they have gained sufficient experience with pramipexole dihydrochloride tablets to gauge whether or not it affects their mental and/or motor performance adversely.
+Since somnolence is a frequent adverse reaction with potentially serious consequences, patients should neither drive a car nor engage in other potentially dangerous activities until they have gained sufficient experience with pramipexole dihydrochloride tablets to gauge whether or not it affects their mental and/or motor performance adversely.
 Advise patients that if increased somnolence or new episodes of falling asleep during activities of daily living (e.g., conversations or eating) are experienced at any time during treatment, they should not drive or participate in potentially dangerous activities until they have contacted their physician.
 Because of possible additive effects, caution should be advised when patients are taking other sedating medications or alcohol in combination with pramipexole dihydrochloride tablets and when taking concomitant medications that increase plasma levels of pramipexole (e.g., cimetidine) [see Warnings and Precautions (5.1)].
 
@@ -30,7 +30,7 @@ Pregnancy Because the teratogenic potential of pramipexole has not been complete
 Lactation Because of the possibility that pramipexole may be excreted in breast milk, advise women to notify their physicians if they intend to breast-feed or are breast-feeding an infant [see Use in Specific Populations (8.2)].
 Manufactured for: Macleods Pharma USA, INC,.
 Plainsboro, NJ 08536 Manufactured by: Macleods Pharmaceutical Ltd. Baddi, Himachal Pradesh, India.
-Revised August 2016
+Revised May 2018
 
 ## PATIENT INFORMATION
 
@@ -41,8 +41,8 @@ There may be new information.
 This information does not take the place of talking with your doctor about your medical condition or your treatment.
 
 What are pramipexole dihydrochloride tablets?
-Pramipexole dihydrochloride tablets are a prescription medicine used to treat: • signs and symptoms of Parkinson's disease (PD) It is not known if pramipexole dihydrochloride tablets are safe and effective in children.
-What should I tell my doctor before taking pramipexole dihydrochloride tablets? • Before taking pramipexole dihydrochloride tablets, tell your doctor if you: • feel sleepy during the day from a sleep problem • have low blood pressure, or if you feel dizzy or faint, especially when getting up from sitting or lying down • have trouble controlling your muscles (dyskinesia) • have kidney problems • drink alcohol.
+Pramipexole dihydrochloride tablets are a prescription medicine used to treat: • signs and symptoms of Parkinson's disease (PD) • moderate to severe primary Restless Legs Syndrome (RLS) It is not known if pramipexole dihydrochloride tablets are safe and effective in children.
+What should I tell my doctor before taking pramipexole dihydrochloride tablets? • Before taking pramipexole dihydrochloride tablets, tell your doctor if you: • feel sleepy during the day from a sleep problem other than Restless Legs Syndrome • have low blood pressure, or if you feel dizzy or faint, especially when getting up from sitting or lying down • have trouble controlling your muscles (dyskinesia) • have kidney problems • drink alcohol.
 Alcohol can increase the chance that pramipexole dihydrochloride tablets will make you feel sleepy or fall asleep when you should be awake. • have any other medical conditions • are pregnant or plan to become pregnant.
 It is not known if pramipexole dihydrochloride tablets will harm your unborn baby. • are breastfeeding or plan to breastfeed.
 It is not known if pramipexole dihydrochloride passes into your breast milk.
@@ -91,10 +91,10 @@ If you or your family members notice that you are developing unusual urges or be
 • hallucinations and other psychotic-like behavior (seeing visions, hearing sounds or feeling sensations that are not real, confusion, excessive suspicion, aggressive behavior, agitation, delusional beliefs and disorganized thinking).
 Your chance of having hallucinations and other psychotic-like behavior is higher if you are elderly (age 65 or older).
 If you have hallucinations or other psychotic-like changes, talk with your doctor right away. • uncontrolled sudden movements (dyskinesia).
-If you have new dyskinesia or your existing dyskinesia gets worse tell your doctor. • skin cancer (melanoma).
-Some people with Parkinson's disease may have a higher chance of having melanoma than people who do not have Parkinson's disease.
-It is not known if the chance of having melanoma is higher because of the medicines to treat Parkinson's disease, like pramipexole dihydrochloride tablets, or from the Parkinson's disease.
-People who take pramipexole dihydrochloride tablets should have regular skin examinations to check for melanoma.
+If you have new dyskinesia or your existing dyskinesia gets worse tell your doctor. • posture changes.
+Talk with your doctor if you have posture changes you cannot control.
+These may include your neck bending forward, bending forward at the waist, or tilting sideways when you sit, stand, or walk.
+The most common side effects in people taking pramipexole dihydrochloride tablets for Restless Legs Syndrome are nausea and headache.
 
 The most common side effects in people taking pramipexole dihydrochloride tablets for Parkinson's disease are: • nausea • dizziness • insomnia • constipation • muscle weakness • abnormal dreams • confusion • memory problems (amnesia) • urinating more often than normal
 
@@ -129,10 +129,10 @@ Plainsboro, NJ 08536
 
 Manufactured by: Macleods Pharmaceutical Ltd. Baddi, Himachal Pradesh, India.
 
-Revised: August 2016
+Revised: May 2018
 
 The brands listed are trademarks of their respective owners and are not trademarks of Macleods Pharmaceutical Ltd.
 
 The makers of these brands are not affiliated with and do not endorse Macleods Pharmaceutical Ltd. or its products.
 
-PM01805506
+PM01805507
