@@ -2,8 +2,6 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B
-
 Adequate and well-controlled studies have not been conducted with BENTYL in pregnant women at the recommended doses of 80 to 160 mg/day.
 However, epidemiologic studies did not show an increased risk of structural malformations among babies born to women who took products containing dicyclomine hydrochloride at doses up to 40 mg/day during the first trimester of pregnancy.
 Reproduction studies have been performed in rats and rabbits at doses up to 33 times the maximum recommended human dose based on 160 mg/day (3 mg/kg) and have revealed no evidence of harm to the fetus due to dicyclomine.

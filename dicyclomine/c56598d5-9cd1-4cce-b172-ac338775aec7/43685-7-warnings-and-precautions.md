@@ -43,7 +43,7 @@ Diarrhea may be an early symptom of incomplete intestinal obstruction, especiall
 In this instance, treatment with this drug would be inappropriate and possibly harmful [see Contraindications (4)].
 
 Rarely development of Ogilvie's syndrome (colonic pseudo-obstruction) has been reported.
-Ogilvie's syndrome is a clinical disorder with signs, symptoms, and radiographic appearance of an acute large bowel obstruction but with no evidence of distal colonic obstruction
+Ogilvie's syndrome is a clinical disorder with signs, symptoms, and radiographic appearance of an acute large bowel obstruction but with no evidence of distal colonic obstruction.
 
 ## 5.6 Toxic Dilatation of Intestinemegacolon
 

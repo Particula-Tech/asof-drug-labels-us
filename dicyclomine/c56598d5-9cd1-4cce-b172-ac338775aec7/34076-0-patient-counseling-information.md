@@ -21,9 +21,11 @@ If symptoms occur, the drug should be discontinued and a physician contacted.
 BENTYL may produce drowsiness or blurred vision.
 The patient should be warned not to engage in activities requiring mental alertness, such as operating a motor vehicle or other machinery or to perform hazardous work while taking BENTYL [see Warnings and Precautions (5.3)].
 
-Distributed by: Allergan USA, Inc. Irvine, CA 92612
+Distributed by: Allergan USA, Inc. Madison, NJ 07940
 
-© 2016 Allergan.
+© 2018 Allergan.
 All rights reserved.
-
 BENTYL® is a registered trademark of Aptalis Pharma Canada ULC, an Allergan affiliate.
+Allergan® and its design are trademarks of Allergan, Inc.
+
+v1.0USPI012

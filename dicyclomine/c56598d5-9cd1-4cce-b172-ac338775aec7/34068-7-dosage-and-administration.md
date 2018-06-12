@@ -16,7 +16,7 @@ Documented safety data are not available for doses above 80 mg daily for periods
 BENTYL Intramuscular Injection must be administered via intramuscular route only.
 Do not administer by any other route.
 
-The recommended intramuscular dose is 10mg to 20 mg four times a day [see Clinical Pharmacology (12)].
+The recommended intramuscular dose is 10 mg to 20 mg four times a day [see Clinical Pharmacology (12)].
 
 The intramuscular injection is to be used only for 1 or 2 days when the patient cannot take oral medication.
 
