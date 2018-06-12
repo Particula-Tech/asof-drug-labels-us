@@ -89,24 +89,8 @@ NEXIUM may affect how other medicines work, and other medicines may affect how N
 
 Especially tell your doctor if you take:
 
-- •warfarin (Coumadin, Jantoven)
-- •ketoconazole (Nizoral)
-- •voriconazole (Vfend)
-- •atazanavir (Reyataz)
-- •nelfinavir (Viracept)
-- •saquinavir (Fortovase)
-- •products that contain iron
-- •digoxin (Lanoxin)
-- •St.
-  John’s Wort (Hypericum perforatum)
-- •Rifampin (Rimactane, Rifater, Rifamate)
-- •cilostazol (Pletal)
-- •diazepam (Valium)
-- •tacrolimus (Prograf)
-- •erlotinib (Tarceva)
-- •methotrexate
-- •clopidogrel (Plavix)
-- •myophenolate mofetil (Cellcept)
+| •warfarin (Coumadin, Jantoven)•ketoconazole (Nizoral)•voriconazole (Vfend)•atazanavir (Reyataz)•nelfinavir (Viracept)•saquinavir (Fortovase)•products that contain iron •digoxin (Lanoxin) St. John’s Wort (Hypericum perforatum) | •Rifampin (Rimactane, Rifater, Rifamate)•cilostazol (Pletal) •diazepam (Valium) •tacrolimus (Prograf)•erlotinib (Tarceva)•methotrexate•clopidogrel (Plavix)•mycophenolate mofetil (Cellcept) |
+| --- | --- |
 
 How should I take NEXIUM?
 
@@ -140,38 +124,27 @@ NEXIUM can cause serious side effects, including:
   If low magnesium levels happen, it is usually after a year of treatment.
 - You may or may not have symptoms of low magnesium.
   Tell your doctor right away if you have any of these symptoms:
-  1. ∘seizures
-  2. ∘dizziness
-  3. ∘abnormal or fast heart beat
-  4. ∘jitteriness
-  5. ∘jerking movements or shaking (tremors)
-  6. ∘muscle weakness
-  7. ∘spasms of the hands and feet
-  8. ∘cramps or muscle aches
-  9. ∘spasm of the voice box
-- Your doctor may check the level of magnesium in your body before you start taking NEXIUM or during treatment if you will be taking NEXIUM for a long period of time.
+
+| •seizures•dizziness•abnormal or fast heart beat•jitteriness•jerking movements or shaking (tremors) | •muscle weakness•spasms of the hands and feet•cramps or muscle aches•spasm of the voice box |
+| --- | --- |
+
+Your doctor may check the level of magnesium in your body before you start taking NEXIUM or during treatment if you will be taking NEXIUM for a long period of time.
+
+1. • Stomach growths (fundic gland polyps).
+   People who take PPI medicines for a long time have an increased risk of developing a certain type of stomach growths called fundic gland polyps, especially after taking PPI medicines for more than 1 year.
 
 The most common side effects with NEXIUM may include:
 
-- 
-  - ∘headache
-  - ∘diarrhea
-  - ∘nausea
-  - ∘gas
-  - ∘abdominal pain
-  - ∘constipation
-  - ∘dry mouth
-  - ∘drowsiness
+| •headache•diarrhea •nausea •gas | •abdominal pain•constipation•dry mouth•drowsiness |
+| --- | --- |
 
 Other side effects:
 
 Serious allergic reactions.
 Tell your doctor if you get any of the following symptoms with NEXIUM:
 
-- •rash
-- •face swelling
-- •throat tightness
-- •difficulty breathing
+| •rash•face swelling | •throat tightness•difficulty breathing |
+| --- | --- |
 
 Your doctor may stop NEXIUM if these symptoms happen.
 
@@ -262,9 +235,9 @@ AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-Revised 10/2016
+Revised 06/2018
 
 NEXIUM is a registered trademark of the AstraZeneca group of companies.
 
-©2016 AstraZeneca Pharmaceuticals LP.
+©2018 AstraZeneca Pharmaceuticals LP.
 All rights reserved
