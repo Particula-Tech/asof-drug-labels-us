@@ -1,7 +1,7 @@
-# Dosage and Administration:
+# DOSAGE AND ADMINISTRATION
 
 RETIN-A Gel or Cream should be applied once a day, before retiring, to the skin where acne lesions appear, using enough to cover the entire affected area lightly.
-Gel: Excessive application results in "pilling" of the gel, which minimizes the likelihood of over application by the patient.
+Gel: Excessive application results in "pilling" of the gel, which minimizes the likelihood of overapplication by the patient.
 
 Application may cause a transitory feeling of warmth or slight stinging.
 In cases where it has been necessary to temporarily discontinue therapy or to reduce the frequency of application, therapy may be resumed or frequency of application increased when the patients become able to tolerate the treatment.
@@ -15,5 +15,4 @@ Therapeutic results should be noticed after two to three weeks but more than six
 
 Once the acne lesions have responded satisfactorily, it may be possible to maintain the improvement with less frequent applications, or other dosage forms.
 
-Patients treated with RETIN-A (tretinoin) acne treatment may use cosmetics, but the area to be treated should be cleansed thoroughly before the medication is applied.
-(seePrecautions.)
+Patients treated with RETIN-A (tretinoin) acne treatment may use cosmetics, but the area to be treated should be cleansed thoroughly before the medication is applied (see Precautions).

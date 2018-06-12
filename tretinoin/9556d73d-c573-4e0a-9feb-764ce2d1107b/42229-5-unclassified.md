@@ -8,9 +8,8 @@ By: Valeant Pharmaceuticals International, Inc. Laval, Quebec H7L 4A8, Canada
 
 Retin-A is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
-©Valeant Pharmaceuticals North America LLC
+© Valeant Pharmaceuticals North America LLC
 
-9440901
+Update p/n Update p/n
 
-50105685B Rev.
-11/16
+Revised: 06/2018

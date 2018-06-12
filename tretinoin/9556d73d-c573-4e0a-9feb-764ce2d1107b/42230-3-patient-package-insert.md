@@ -1,6 +1,10 @@
 # PATIENT INSTRUCTIONS
 
-Retin-A® (tretinoin)
+RETIN-A® (tretinoin)
+
+Cream • Gel
+
+For Topical Use Only
 
 Acne Treatment
 
@@ -8,16 +12,22 @@ IMPORTANT
 
 Read Directions Carefully Before Using
 
-Cream • Gel
-
-For Topical Use Only
+Rx only
 
 THIS LEAFLET TELLS YOU ABOUT RETIN-A (TRETINOIN) ACNE TREATMENT AS PRESCRIBED BY YOUR PHYSICIAN.
 THIS PRODUCT IS TO BE USED ONLY ACCORDING TO YOUR DOCTOR'S INSTRUCTIONS, AND IT SHOULD NOT BE APPLIED TO OTHER AREAS OF THE BODY OR TO OTHER GROWTHS OR LESIONS.
 THE LONG-TERM SAFETY AND EFFECTIVENESS OF THIS PRODUCT IN OTHER DISORDERS HAVE NOT BEEN EVALUATED.
 IF YOU HAVE ANY QUESTIONS, BE SURE TO ASK YOUR DOCTOR.
 
-WARNINGS AND PRECAUTIONS
+WARNINGS
+
+RETIN-A GELS ARE FLAMMABLE.
+AVOID FIRE, FLAME OR SMOKING DURING USE.
+Keep out of reach of children.
+Keep tube tightly closed.
+Do not expose to heat or store at temperatures above 120°F (49°C).
+
+PRECAUTIONS
 
 The effects of the sun on your skin.
 As you know, overexposure to natural sunlight or the artificial sunlight of a sunlamp can cause sunburn.
@@ -64,10 +74,6 @@ The medications you have used in the past might cause unnecessary redness or pee
 If you are pregnant, think you are pregnant or are nursing an infant: No studies have been conducted in humans to establish the safety of RETIN-A in pregnant women.
 If you are pregnant, think you are pregnant, or are nursing a baby, consult your physician before using this medication.
 
-GELS ARE FLAMMABLE.
-Note: Keep away from heat and flame.
-Keep tube tightly closed.
-
 AND WHILE YOU'RE ON RETIN-A THERAPY
 
 Use a mild, non-medicated soap.
@@ -93,7 +99,7 @@ To help you use the medication correctly, keep these simple instructions in mind
 - •Apply RETIN-A once daily before bedtime, or as directed by your physician.
   Your physician may advise, especially if your skin is sensitive, that you start your therapy by applying RETIN-A every other night.
   First, wash with a mild soap and dry your skin gently.
-  WAIT 20 to 30 MINUTES BEFORE APPLYING MEDICATION; it is important for skin to be completely dry in order to minimize possible irritation.
+  WAIT 20 TO 30 MINUTES BEFORE APPLYING MEDICATION; it is important for skin to be completely dry in order to minimize possible irritation.
 - •It is better not to use more than the amount suggested by your physician or to apply more frequently than instructed.
   Too much may irritate the skin, waste medication and won't give faster or better results.
 - •Keep the medication away from the corners of the nose, mouth, eyes and open wounds.
@@ -148,9 +154,8 @@ By: Valeant Pharmaceuticals International, Inc. Laval, Quebec H7L 4A8, Canada
 
 Retin-A is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
-©Valeant Pharmaceuticals North America LLC
+© Valeant Pharmaceuticals North America LLC
 
-9440902
+Update p/n Update p/n
 
-Rev.
-11/16
+Revised: 06/2018

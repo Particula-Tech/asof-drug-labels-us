@@ -1,4 +1,4 @@
-# How Supplied:
+# HOW SUPPLIED
 
 RETIN-A (tretinoin) is supplied as:
 
