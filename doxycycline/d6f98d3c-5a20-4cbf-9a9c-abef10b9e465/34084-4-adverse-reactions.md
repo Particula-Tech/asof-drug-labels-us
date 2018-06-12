@@ -16,12 +16,12 @@ Most of these patients took medications immediately before going to bed.
 Skin: toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme, maculopapular and erythematous rashes.
 Exfoliative dermatitis has been reported but is uncommon.
 Photosensitivity is discussed above.
-(See WARNINGS.), skin hyperpigmentation has been reported with chronic use of doxycycline.
+(See WARNINGS.)
 
 Renal toxicity: Rise in BUN has been reported and is apparently dose related.
 (See WARNINGS.)
 
-Immune: Hypersensitivity reactions including urticaria, angioneurotic edema, anaphylaxis, anaphylactoid purpura, serum sickness, pericarditis, exacerbation of systemic lupus erythematosus, and drug reaction with eosinophilia and systemic symptoms (DRESS), Jarisch-Herxheimer reaction has been reported in the setting of spirochete infections treated with doxycycline.
+Immune: Hypersensitivity reactions including urticaria, angioneurotic edema, anaphylaxis, anaphylactoid purpura, serum sickness, pericarditis, exacerbation of systemic lupus erythematosus, and drug reaction with eosinophilia and systemic symptoms (DRESS).
 
 Blood: Hemolytic anemia, thrombocytopenia, neutropenia, and eosinophilia have been reported.
 

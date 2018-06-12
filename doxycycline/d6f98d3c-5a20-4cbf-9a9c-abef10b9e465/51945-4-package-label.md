@@ -32,9 +32,9 @@ Pfizer Pfizer Labs Division of Pfizer Inc, NY, NY 10017
 
 # PRINCIPAL DISPLAY PANEL - 473 mL Bottle Label
 
-Pfizer
-
 NDC 0069-0971-93
+
+Pfizer
 
 Vibramycin® calcium (doxycycline calcium) syrup
 
@@ -48,7 +48,9 @@ RASPBERRY/APPLE FLAVORED
 
 SHAKE WELL BEFORE USING
 
-1 Pint (473 mL) Rx only
+1 Pint (473 mL)
+
+Rx only
 
 # PRINCIPAL DISPLAY PANEL - 100 mg Capsule Bottle Label
 
