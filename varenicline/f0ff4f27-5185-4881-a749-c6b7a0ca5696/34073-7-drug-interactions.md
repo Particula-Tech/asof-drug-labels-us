@@ -11,7 +11,7 @@ Bupropion
 Varenicline (1 mg twice daily) did not alter the steady-state pharmacokinetics of bupropion (150 mg twice daily) in 46 smokers.
 The safety of the combination of bupropion and varenicline has not been established.
 
-NRT
+Nicotine replacement therapy (NRT)
 
 Although co-administration of varenicline (1 mg twice daily) and transdermal nicotine (21 mg/day) for up to 12 days did not affect nicotine pharmacokinetics, the incidence of nausea, headache, vomiting, dizziness, dyspepsia, and fatigue was greater for the combination than for NRT alone.
 In this study, eight of twenty-two (36%) patients treated with the combination of varenicline and NRT prematurely discontinued treatment due to adverse events, compared to 1 of 17 (6%) of patients treated with NRT and placebo.
