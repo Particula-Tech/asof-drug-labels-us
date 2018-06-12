@@ -5,7 +5,6 @@
 Risk Summary
 
 There are no available data on LEXISCAN use in pregnant women to inform a drug-associated risk.
-
 In animal reproduction studies, adverse developmental outcomes were observed with the administration of regadenoson to pregnant rats and rabbits during organogenesis only at doses that produced maternal toxicity (see Data).
 
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.

@@ -30,7 +30,7 @@ Marketed by: Astellas Pharma US, Inc. Northbrook, IL 60062
 
 Syringes Manufactured by: Hospira, Inc. Lake Forest, IL 60045 USA
 
-LEXISCAN and ADENOSCAN are registered trademarks of Astellas US LLC.
-Other trademarks listed belong to their respective owners.
+LEXISCAN® and ADENOSCAN® are registered trademarks of Astellas US LLC.
+All other trademarks and registered trademarks are the property of their respective owners.
 
-15G049-LEX
+206573-LEX

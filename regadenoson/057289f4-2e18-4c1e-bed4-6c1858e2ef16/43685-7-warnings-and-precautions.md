@@ -5,6 +5,8 @@
 Fatal and nonfatal myocardial infarction (MI), ventricular arrhythmias, and cardiac arrest have occurred following LEXISCAN injection.
 Avoid use in patients with symptoms or signs of acute myocardial ischemia, for example unstable angina or cardiovascular instability; these patients may be at greater risk of serious cardiovascular reactions to LEXISCAN.
 Cardiac resuscitation equipment and trained staff should be available before administering LEXISCAN.
+Adhere to the recommended duration of injection [see Dosage and Administration (2)].
+As noted in an animal study, longer injection times may increase the duration and magnitude of increase in coronary blood flow [see Clinical Pharmacology (12.2)].
 If serious reactions to LEXISCAN occur, consider the use of aminophylline, an adenosine antagonist, to shorten the duration of increased coronary blood flow induced by LEXISCAN [see Overdosage (10)].
 
 ## 5.2 Sinoatrial and Atrioventricular Nodal Block

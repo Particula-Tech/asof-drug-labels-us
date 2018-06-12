@@ -17,6 +17,13 @@ Myocardial uptake of the radiopharmaceutical is proportional to CBF.
 Because LEXISCAN increases blood flow in normal coronary arteries with little or no increase in stenotic arteries, LEXISCAN causes relatively less uptake of the radiopharmaceutical in vascular territories supplied by stenotic arteries.
 MPI intensity after LEXISCAN administration is therefore greater in areas perfused by normal relative to stenosed arteries.
 
+Effect of duration of injection
+
+A study in dogs compared the effects of intravenous injection of 2.5 μg/kg regadenoson (in 10 mL) over 10 seconds and 30 seconds on CBF.
+The duration of a two-fold increase in CBF was 97±14 seconds (n=6) and 221±20 seconds (n=4), respectively, for the 10 second and 30 second injections.
+The peak effects (i.e., maximal increase) on CBF after the 10 second and 30 second injections were 217±15% and 297±33% above baseline, respectively.
+The times to peak effect on CBF were 17±2 seconds and 27±6 seconds, respectively.
+
 Effect of Aminophylline
 
 Aminophylline (100 mg, administered by slow intravenous injection over 60 seconds) injected 1 minute after 0.4 mg LEXISCAN in patients undergoing cardiac catheterization, was shown to shorten the duration of the coronary blood flow response to LEXISCAN as measured by pulsed-wave Doppler ultrasonography [see Overdosage (10)].

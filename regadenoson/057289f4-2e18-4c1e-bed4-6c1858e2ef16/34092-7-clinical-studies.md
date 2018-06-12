@@ -42,4 +42,4 @@ The median age of the patients was 62 years (range 28 to 90 years) and included 
 Images from MPI 1 and MPI 2 for the two groups were compared for presence or absence of perfusion defects.
 The level of agreement between the MPI 1 and the MPI 2 reads in Group 1 was similar to the level of agreement between MPI 1 and MPI 2 reads in Group 2.
 However, two patients receiving LEXISCAN 3 minutes following inadequate exercise experienced a serious cardiac adverse reaction.
-No serious cardiac adverse reactions occurred in patients receiving LEXISCAN 1 hour following inadequate exercise stress [see Adverse Reactions (6.1) Clinical Pharmacology (12.2)].
+No serious cardiac adverse reactions occurred in patients receiving LEXISCAN 1 hour following inadequate exercise stress [see Adverse Reactions (6.1), Clinical Pharmacology (12.2)].

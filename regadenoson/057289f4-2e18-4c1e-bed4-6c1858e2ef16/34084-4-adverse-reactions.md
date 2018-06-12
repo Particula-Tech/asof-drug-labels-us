@@ -88,7 +88,7 @@ Group 2 rested 1 hour after inadequate exercise to allow hemodynamics to return 
 Both groups returned for a second stress MPI 1-14 days later and received LEXISCAN without exercise (MPI 2).
 
 The most common adverse reactions are similar in type and incidence to those in Table 1 above for both Groups.
-The timing of the administration of LEXISCAN did not alter the common adverse reaction profile.
+The timing of the administration of LEXISCAN following inadequate exercise did not alter the common adverse reaction profile.
 
 Table 4 shows a comparison of cardiac events of interest for the two groups [see Warnings and Precautions (5.1)].
 The cardiac events were numerically higher in Group 1.
