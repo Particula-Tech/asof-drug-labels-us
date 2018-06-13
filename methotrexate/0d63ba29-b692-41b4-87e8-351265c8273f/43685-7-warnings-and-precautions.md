@@ -98,7 +98,7 @@ It has also been reported to cause impairment of fertility, oligospermia and men
 
 ## Pregnancy
 
-Psoriasis and rheumatoid arthritis: Methotrexate is in Pregnancy Category X. See CONTRAINDICATIONS.
+Psoriasis and rheumatoid arthritis: See CONTRAINDICATIONS.
 
 Nursing Mothers
 
