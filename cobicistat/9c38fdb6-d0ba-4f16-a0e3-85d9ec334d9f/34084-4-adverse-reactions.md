@@ -20,4 +20,17 @@ Adverse reactions evaluated through Week 24 did not differ substantially from th
 
 ## 6.2 Postmarketing Experience
 
-See the darunavir full prescribing information for postmarketing information.
+The following events have been identified during post-approval use of darunavir.
+Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Metabolism and Nutrition Disorders:
+
+Redistribution of body fat
+
+Musculoskeletal and Connective Tissue Disorders
+
+Rhabdomyolysis (associated with co-administration with HMG-CoA reductase inhibitors)
+
+Skin and Subcutaneous Tissue Disorders
+
+Toxic epidermal necrolysis, acute generalized exanthematous pustulosis, drug rash with eosinophilia and systemic symptoms [see Warnings and Precautions (5.2)].

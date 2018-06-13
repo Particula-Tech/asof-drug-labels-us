@@ -36,9 +36,9 @@ Cobicistat inhibits CYP3A, thereby increasing the plasma concentrations of darun
 Under fed (535 total kcal, 171 kcal from fat, 268 kcal from carbohydrates, 96 kcal from protein) and fasted conditions in healthy subjects, the 90% confidence intervals when comparing darunavir exposure between PREZCOBIX and darunavir 800 mg co-administered with cobicistat 150 mg as single entities were within 80–125%.
 
 Darunavir exposure when comparing darunavir co-administered with cobicistat (as single entities) to darunavir co-administered with ritonavir was evaluated in a relative bioavailability trial [see cobicistat full prescribing information].
-Table 3 displays the population pharmacokinetic estimates of darunavir after oral administration of darunavir 800 mg co-administered with ritonavir 100 mg once daily (based on sparse sampling in 335 subjects in Trial TMC114-C211 and 280 subjects in Trial TMC114-C229) and darunavir 800 mg co-administered with cobicistat 150 mg once daily administered as single entities (based on sparse sampling in 298 subjects in Trial GS-US-216-0130) to HIV-1 infected subjects.
+Table 2 displays the population pharmacokinetic estimates of darunavir after oral administration of darunavir 800 mg co-administered with ritonavir 100 mg once daily (based on sparse sampling in 335 subjects in Trial TMC114-C211 and 280 subjects in Trial TMC114-C229) and darunavir 800 mg co-administered with cobicistat 150 mg once daily administered as single entities (based on sparse sampling in 298 subjects in Trial GS-US-216-0130) to HIV-1 infected subjects.
 
-Table 3: Population Pharmacokinetic Estimates of Darunavir as Darunavir 800 mg Co-administered with Ritonavir 100 mg Once Daily (Trial TMC114-C211, 48 Week Analysis and Trial TMC114-C229, 48 Week Analysis) and Darunavir 800 mg Co-administered with Cobicistat 150 mg Once Daily (Trial GS-US-216-130, 24 Week Analysis)
+Table 2: Population Pharmacokinetic Estimates of Darunavir as Darunavir 800 mg Co-administered with Ritonavir 100 mg Once Daily (Trial TMC114-C211, 48 Week Analysis and Trial TMC114-C229, 48 Week Analysis) and Darunavir 800 mg Co-administered with Cobicistat 150 mg Once Daily (Trial GS-US-216-130, 24 Week Analysis)
 
 | Parameter | N=335 | N=280 | N=298 |
 | --- | --- | --- | --- |
@@ -137,14 +137,27 @@ Pediatric Patients
 
 The pharmacokinetics of PREZCOBIX in pediatric subjects have not been established.
 
+Pregnancy and Postpartum
+
+The exposure to total and unbound darunavir boosted with cobicistat after intake of PREZCOBIX as part of an antiretroviral regimen was substantially lower during the second and third trimesters of pregnancy compared with 6–12 weeks postpartum (see Table 3 and Figure 1).
+
+Table 3: Pharmacokinetic Results of Total Darunavir after Administration of PREZCOBIX Once Daily as Part of an Antiretroviral Regimen, During the 2nd Trimester of Pregnancy, the 3rd Trimester of Pregnancy, and Postpartum
+
+| Pharmacokinetics of total darunavir (mean ± SD) | 2nd Trimester of pregnancy N=7 | 3rd Trimester of pregnancy N=6 | Postpartum (6–12 weeks) N=6 |
+| --- | --- | --- | --- |
+| Cmax, ng/mL | 4340 ± 1616 | 4910 ± 970 | 7918 ± 2199 |
+| AUC24h, ng.h/mL | 47293 ± 19058 | 47991 ± 9879 | 99613 ± 34862 |
+| Cmin, ng/mL | 168 ± 149 | 184 ± 99 | 1538 ± 1344 |
+
+Figure 1: Pharmacokinetic Results (Within-Subject Comparison) of Total and Unbound Darunavir and Total Cobicistat After Administration of PREZCOBIX at 800/150 mg Once Daily as Part of an Antiretroviral Regimen, During the 2nd and 3rd Trimester of Pregnancy Compared to Postpartum
+
+Legend: 90% CI: 90% confidence interval; GMR: geometric mean ratio (i.e. second or third trimester / postpartum).
+Solid vertical line: ratio of 1.0; dotted vertical lines: reference lines of 0.8 and 1.25.
+
 Drug Interactions
 
-Darunavir is metabolized by CYP3A.
-Cobicistat is metabolized by CYP3A, and to a minor extent, by CYP2D6.
-Darunavir co-administered with cobicistat is an inhibitor of CYP3A and CYP2D6.
-Cobicistat inhibits the following transporters: P-gp, BCRP, MATE1, OATP1B1 and OATP1B3.
 Based on in vitro data, cobicistat is not expected to induce CYP1A2 or CYP2B6 and based on in vivo data, cobicistat is not expected to induce MDR1 or, in general, CYP3A to a clinically significant extent.
-The induction effect of cobicistat on CYP2C9, CYP2C19, or UGT1A1 is unknown, but is expected to be low based on CYP3A in vitro induction data.
+The induction effect of cobicistat on CYP2C9, CYP2C19, or UGT1A1 is unknown, but is expected to be low based on CYP3A in vitro induction data [see Drug Interactions (7)].
 
 ## 12.4 Microbiology
 

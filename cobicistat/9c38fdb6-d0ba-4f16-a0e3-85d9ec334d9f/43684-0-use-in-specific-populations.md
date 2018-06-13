@@ -10,7 +10,7 @@ Healthcare providers are encouraged to register patients by calling the Antiretr
 Risk Summary
 
 There are insufficient data with PREZCOBIX in pregnant women from the APR to inform a drug-associated risk of pregnancy outcomes.
-Available data from the APR show no difference in rate of overall birth defects for darunavir compared with the background rate for major birth defects of 2.7% in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) [see Data].
+Available data from the APR show no difference in rate of overall birth defects for darunavir compared with the background rate for major birth defects of 2.7% in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) (see Data).
 The APR uses the MACDP as the U.S. reference population for birth defects in the general population.
 The MACDP evaluates women and infants from a limited geographic area and does not include outcomes for births that occurred at less than 20 weeks gestation.
 
@@ -18,22 +18,37 @@ The rate of miscarriage is not reported in the APR.
 The estimated background rate of miscarriage in clinically recognized pregnancies in the U.S. general population is 15–20%.
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 
-In animal reproduction studies, no adverse developmental effects were observed when the components of PREZCOBIX were administered separately at darunavir exposures less than 1 (mice and rabbits) and 3-times (rats), and at cobicistat exposures 1.6 (rats) and 3.8 (rabbits) times human exposures at the recommended daily dose of these components in PREZCOBIX [see Data].
+In animal reproduction studies, no adverse developmental effects were observed when the components of PREZCOBIX were administered separately at darunavir exposures less than 1 (mice and rabbits) and 3-times (rats), and at cobicistat exposures 1.6 (rats) and 3.8 (rabbits) times human exposures at the recommended daily dose of these components in PREZCOBIX (see Data).
 No adverse developmental effects were seen when cobicistat was administered to rats through lactation at cobicistat exposures up to 1.2 times the human exposure at the recommended therapeutic dose.
 
 Clinical Considerations
 
-Dose Adjustment During Pregnancy and the Postpartum Period
+Not Recommended During Pregnancy
 
-Dosing recommendations cannot be made because the pharmacokinetics, safety, and efficacy of PREZCOBIX cannot be predicted from studies of other darunavir-containing regimens in pregnant women.
+PREZCOBIX is not recommended for use in pregnant women because of substantially lower exposures of darunavir and cobicistat during pregnancy (see Data) and [see Clinical Pharmacology (12.3)].
+
+PREZCOBIX should not be initiated in pregnant women.
+An alternative regimen is recommended for women who become pregnant during therapy with PREZCOBIX.
 
 Data
 
 Human Data
 
-Darunavir: Based on prospective reports to the APR of 615 live births following exposure to darunavir-containing regimens during pregnancy (including 385 exposed in the first trimester and 230 exposed in the second/third trimester), there was no difference in rate of overall birth defects for darunavir compared with the background rate for major birth defects in a U.S. reference population of the MACDP.
+Darunavir/Cobicistat: PREZCOBIX in combination with a background regimen was evaluated in a clinical trial of 7 pregnant women taking PREZCOBIX prior to enrollment and who were willing to remain on PREZCOBIX throughout the study.
+The study period included the second and third trimesters, and through 12 weeks postpartum.
+Six women completed the trial.
 
-The prevalence of birth defects in live births was 2.6% (95% CI: 1.2% to 4.7%) with first trimester exposure to darunavir-containing regimens and 1.7% (95% CI: 0.5% to 4.4%) with second/third trimester exposure to darunavir-containing regimens.
+Exposure to darunavir and cobicistat as part of an antiretroviral regimen was substantially lower during the second and third trimesters of pregnancy compared with postpartum [see Clinical Pharmacology (12.3)].
+
+One out of 6 women who completed the study experienced virologic failure with HIV-1 RNA >1,000 copies/mL from the third trimester visit through the postpartum period.
+Five women had sustained virologic response (HIV RNA <50 copies/mL) throughout the study period.
+There are no clinical data on the virologic response when PREZCOBIX is initiated during pregnancy.
+
+There were no new clinically relevant safety findings compared with the known safety profile of PREZCOBIX in HIV-1-infected adults.
+
+Darunavir: Based on prospective reports to the APR of 679 live births following exposure to darunavir-containing regimens during pregnancy (including 425 exposed in the first trimester and 254 exposed in the second/third trimester), there was no difference in rate of overall birth defects for darunavir compared with the background rate for major birth defects in a U.S. reference population of the MACDP.
+
+The prevalence of birth defects in live births was 2.1% (95% CI: 1.0% to 4.0%) with first trimester exposure to darunavir-containing regimens and 2.4% (95% CI: 0.9% to 5.1%) with second/third trimester exposure to darunavir-containing regimens.
 
 Cobicistat: Insufficient numbers of pregnancies with exposure to cobicistat have been reported to the APR to estimate the rate of birth defects.
 
@@ -62,14 +77,14 @@ Risk Summary
 The Centers for Disease Control and Prevention recommend that HIV infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV.
 
 There are no data on the presence of darunavir or cobicistat in human milk, the effects on the breastfed infant, or the effects on milk production.
-Darunavir and cobicistat are secreted into the milk of lactating rats [see Data].
+Darunavir and cobicistat are present in the milk of lactating rats (see Data).
 Because of the potential for (1) HIV transmission (in HIV-negative infants), (2) developing viral resistance (in HIV-positive infants), and (3) serious adverse reactions in breastfed infants, instruct mothers not to breastfeed if they are receiving PREZCOBIX.
 
 Data
 
 Animal Data
 
-Darunavir: Studies in rats (with darunavir alone or with ritonavir) have demonstrated that darunavir is secreted in the milk.
+Darunavir: Studies in rats (with darunavir alone or with ritonavir) have demonstrated that darunavir is excreted in milk.
 In the rat pre- and postnatal development study, a reduction in pup body weight gain was observed due to exposure of pups to drug substances via milk.
 The maximal maternal plasma exposures achieved with darunavir (up to 1000 mg/kg with ritonavir) were approximately 50% of those obtained in humans at the recommended clinical dose of darunavir with ritonavir.
 

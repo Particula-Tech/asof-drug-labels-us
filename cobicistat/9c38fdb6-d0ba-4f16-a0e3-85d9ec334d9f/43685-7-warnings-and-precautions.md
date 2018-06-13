@@ -60,7 +60,7 @@ Decreased antiretroviral concentrations may lead to:
 
 - loss of therapeutic effect of PREZCOBIX and possible development of resistance.
 
-See Table 2 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations.
+See Table 1 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations.
 Consider the potential for drug interactions prior to and during PREZCOBIX therapy; review concomitant medications during PREZCOBIX therapy; and monitor for the adverse reactions associated with concomitant medications [see Contraindications (4) and Drug Interactions (7)].
 
 When used with concomitant medications, PREZCOBIX may result in different drug interactions than those observed or expected with darunavir co-administered with ritonavir.
