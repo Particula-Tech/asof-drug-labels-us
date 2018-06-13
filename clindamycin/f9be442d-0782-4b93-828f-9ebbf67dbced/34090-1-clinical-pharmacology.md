@@ -1,5 +1,11 @@
 # CLINICAL PHARMACOLOGY
 
+## Mechanism of Action
+
+Clindamycin is an antibacterial drug (see Microbiology).
+
+## Pharmacokinetics
+
 Following a once a day intravaginal dose of 100 mg of clindamycin phosphate vaginal cream 2%, administered to 6 healthy female volunteers for 7 days, approximately 5% (range 0.6% to 11%) of the administered dose was absorbed systemically.
 The peak serum clindamycin concentration observed on the first day averaged 18 ng/mL (range 4 to 47 ng/mL) and on day 7 it averaged 25 ng/mL (range 6 to 61 ng/mL).
 These peak concentrations were attained approximately 10 hours post-dosing (range 4–24 hours).
@@ -11,3 +17,5 @@ These peak concentrations were attained approximately 14 hours post-dosing (rang
 
 There was little or no systemic accumulation of clindamycin after repeated vaginal dosing of clindamycin phosphate vaginal cream 2%.
 The systemic half-life was 1.5 to 2.6 hours.
+
+Although clindamycin phosphate is inactive in vitro, rapid in vivo hydrolysis converts this compound to the antibacterially active clindamycin.
