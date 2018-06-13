@@ -17,7 +17,7 @@ Hematologic: Agranulocytosis, nonthrombocytopenic purpura, and thrombocytopenic 
 
 Autoimmune: Systemic lupus erythematosus (SLE).
 
-Skin and mucous membranes: Stevens-Johnson Syndrome, toxic epidermal necrolysis, dry eyes, exfoliative dermatitis, erythema multiforme, urticaria, alopecia, SLE-like reactions, and psoriasisiform rashes.
+Skin and Mucous Membranes: Stevens-Johnson Syndrome, toxic epidermal necrolysis, dry eyes, exfoliative dermatitis, erythema multiforme, urticaria, alopecia, SLE-like reactions, and psoriasisiform rashes.
 Oculomucocutaneous syndrome involving the skin, serous membranes, and conjunctivae reported for a beta-blocker (practolol) have not been associated with propranolol.
 
 Genitourinary: Male impotence; Peyronie's disease.

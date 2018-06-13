@@ -17,12 +17,12 @@ Protect from light, moisture, freezing, and excessive heat.
 
 Dispense in a tight, light-resistant container as defined in the USP.
 
+For medical inquires, contact ANI Pharmaceuticals, Inc. at 1-800-308-6755.
+
 Manufactured by: Pfizer Ireland Pharmaceuticals Little Connell, Newbridge, Co. Kildare, Ireland
 
 Distributed by: ANI Pharmaceuticals, Inc. Baudette, MN 56623
 
-For Medical Inquires, call toll-free at 1-800-308-6755.
+PAA108046
 
-PAA077229
-
-9909 Rev 10/16
+9909 Rev 05/18
