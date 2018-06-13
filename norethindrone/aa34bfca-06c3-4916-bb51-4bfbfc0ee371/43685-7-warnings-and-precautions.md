@@ -1,7 +1,7 @@
 # WARNINGS
 
-| Cigarette smoking greatly increases the possibility of suffering heart attacks and strokes. Women who use oral contraceptives are strongly advised not to smoke. |  |
-| --- | --- |
+| Cigarette smoking greatly increases the possibility of suffering heart attacks and strokes. Women who use oral contraceptives are strongly advised not to smoke. |
+| --- |
 
 Nor-QD does not contain estrogen and, therefore, this insert does not discuss the serious health risks that have been associated with the estrogen component of combined oral contraceptives.
 The health care provider is referred to the prescribing information of combined oral contraceptives for a discussion of those risks, including, but not limited to, an increased risk of serious cardiovascular disease in women who smoke, carcinoma of the breast and reproductive organs, hepatic neoplasia, and changes in carbohydrate and lipid metabolism.

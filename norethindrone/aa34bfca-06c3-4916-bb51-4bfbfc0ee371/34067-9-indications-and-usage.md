@@ -13,9 +13,9 @@ The following table lists the pregnancy rates for users of all major methods of 
 Table 2: Percentage of Women Experiencing an Unintended Pregnancy During the First Year of Typical Use and the First Year of Perfect Use of Contraception and the Percentage Continuing Use at the End of the First Year.
 United States.
 
-| Method (1) | Typical Use1 (2) | Perfect Use2 (3) | (4) |
-| --- | --- | --- | --- |
 |  | % of Women Experiencing an Unintended Pregnancy within the First Year of Use |  | % of Women Continuing Use at One Year3 |
+| --- | --- | --- | --- |
+| Method (1) | Typical Use1 (2) | Perfect Use2 (3) | (4) |
 | Chance4 | 85 | 85 |  |
 | Spermicides5 | 26 | 6 | 40 |
 | Periodic abstinence | 25 |  | 63 |

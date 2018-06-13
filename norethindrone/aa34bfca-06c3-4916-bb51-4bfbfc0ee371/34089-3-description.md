@@ -5,4 +5,6 @@ Each yellow Nor-QD® tablet provides a continuous oral contraceptive regimen of 
 The chemical name for norethindrone is 17-Hydroxy-19-Nor-17α-pregn-4-en-20-yn-3-one.
 The structural formula follows:
 
+norethindrone
+
 Therapeutic class = oral contraceptive.

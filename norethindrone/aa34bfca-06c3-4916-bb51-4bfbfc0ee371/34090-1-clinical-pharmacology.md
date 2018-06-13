@@ -4,8 +4,7 @@
 Mode of Action.
 Nor-QD progestin-only oral contraceptives prevent conception by suppressing ovulation in approximately half of users, thickening the cervical mucus to inhibit sperm penetration, lowering the mid-cycle LH and FSH peaks, slowing the movement of the ovum through the fallopian tubes, and altering the endometrium.
 
-2.
-Pharmacokinetics.
+## 2. Pharmacokinetics.
 
 Absorption: Norethindrone is rapidly absorbed with maximum plasma concentrations occurring within 1 to 2 hours after Nor-QD administration (see Table 1).
 Norethindrone appears to be completely absorbed following oral administration; however, it is subject to first pass metabolism resulting in an absolute bioavailability of approximately 65%.
