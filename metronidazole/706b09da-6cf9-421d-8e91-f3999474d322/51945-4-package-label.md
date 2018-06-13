@@ -11,4 +11,4 @@ Net Wt.
 
 ONCE-A-DAY FOR TOPICAL USE ONLY
 
-VALEANT
+Ortho Dermatologics
