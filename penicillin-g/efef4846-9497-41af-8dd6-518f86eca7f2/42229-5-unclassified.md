@@ -4,6 +4,6 @@ Rx only
 
 Distributed by Roerig Division of Pfizer Inc, NY, NY 10017
 
-NOVAPLUS is a registered trademark of Vizient, Inc.
+Novaplus is a registered trademark of Vizient, Inc.
 
-LAB-0391-5.0 January 2017
+LAB-0391-6.0 March 2018
