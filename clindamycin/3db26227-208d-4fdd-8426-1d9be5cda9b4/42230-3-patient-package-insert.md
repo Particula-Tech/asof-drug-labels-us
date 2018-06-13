@@ -1,7 +1,5 @@
 # Cleocin® Vaginal Ovules (clindamycin phosphate vaginal suppositories)
 
-FOR INTRAVAGINAL USE ONLY
-
 DIRECTIONS FOR USE
 
 How do I use CLEOCIN Vaginal Ovules?
@@ -17,11 +15,9 @@ Read the full directions below before using.
 
 Insertion with the applicator:
 
-- 1.Remove the vaginal ovule from its packaging.
-  (See Figure 1.)
+- 1.Remove the vaginal ovule from its packaging (See Figure 1).
 
-- 2.Pull back the plunger about an inch and place the vaginal ovule in the wider end of the applicator barrel.
-  (See Figure 2.)
+- 2.Pull back the plunger about an inch and place the vaginal ovule in the wider end of the applicator barrel (See Figure 2).
 
 - 3.Hold the applicator as shown and gently insert the end of the applicator into the vagina as far as it will go comfortably.
   This can be done while lying on your back with your knees bent (as shown in Figure 3), or while standing with your feet apart and your knees bent.
@@ -42,8 +38,7 @@ Insertion with the applicator:
 
 Insertion without the applicator:
 
-1. Remove the vaginal ovule from its packaging.
-   (See Figure 1.)
+1. Remove the vaginal ovule from its packaging (See Figure 1).
 2. Holding the ovule with your thumb and a finger, insert it into the vagina.
 3. Using your finger, gently push the ovule into the vagina as far as it will comfortably go.
 4. Once inside the vagina, the ovule melts.
