@@ -2,9 +2,9 @@
 
 FML® (fluorometholone ophthalmic ointment) 0.1% is a sterile, topical anti-inflammatory agent for ophthalmic use.
 
-## Chemical Name
+Chemical Name
 
-Fluorometholone: 9-Fluoro-11β, 17-dihydroxy-6α-methylpregna-1,4-diene-3,20-dione
+Fluorometholone: 9-Fluoro-11β,17-dihydroxy-6α-methylpregna-1,4-diene-3,20-dione
 
 Structural Formula
 

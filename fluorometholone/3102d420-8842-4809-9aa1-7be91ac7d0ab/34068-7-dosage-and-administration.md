@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-A small amount (approximately 1/2 inch ribbon) of ointment should be applied to the conjunctival sac one to three times daily.
+A small amount (approximately ½ inch ribbon) of ointment should be applied to the conjunctival sac one to three times daily.
 During the initial 24 to 48 hours, the dosing frequency may be increased to one application every four hours.
 Care should be taken not to discontinue therapy prematurely.
 
