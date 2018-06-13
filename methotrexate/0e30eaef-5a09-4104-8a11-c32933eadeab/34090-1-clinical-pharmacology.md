@@ -37,8 +37,8 @@ However, a contribution can be inferred from the reports of objective responses 
 
 ## Pharmacokinetics
 
-Absorption - In adults, oral absorption appears to be dose dependent.
-Peak serum levels are reached within one to two hours.
+Absorption - Oral absorption appears to be dose dependent.
+Peak plasma concentrations are reached within 0.75 to 6.0 hours following oral administration.
 At doses of 30 mg/m2 or less, methotrexate is generally well absorbed with a mean bioavailability of about 60%.
 The absorption of doses greater than 80 mg/m2 is significantly less, possibly due to a saturation effect.
 

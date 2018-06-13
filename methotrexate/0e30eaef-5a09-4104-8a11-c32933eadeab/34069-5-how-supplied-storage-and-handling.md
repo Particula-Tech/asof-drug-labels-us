@@ -5,18 +5,12 @@ Parenteral:
 Methotrexate Injection, USP, Isotonic Liquid, Contains Preservative.
 Each 25 mg/mL, 2 mL vial contains methotrexate sodium equivalent to 50 mg methotrexate.
 
-| Unit of Sale | Concentration | Each |
-| --- | --- | --- |
-| NDC 61703-350-10Carton containing 5 Vials | 50 mg/2 mL(25 mg/mL) | NDC 61703-350-092 mL Vial |
+| Unit of Sale | Concentration |
+| --- | --- |
+| NDC 61703-350-10 Carton containing 5 Vials | 50 mg/2 mL (25 mg/mL) |
 
 Store at controlled room temperature, 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature]; excursions permitted to 15° to 30°C (59° to 86°F).
 PROTECT FROM LIGHT.
-
-Manufactured by Hospira, Inc., Lake Forest, IL 60045 USA Product of Australia
-
-Novaplus is a registered trademark of Vizient, Inc.
-
-LAB-1000-1.0 Revised: 03/2018
 
 ‡LEUCOVORIN RESCUE SCHEDULES FOLLOWING TREATMENT WITH HIGHER DOSES OF METHOTREXATE
 

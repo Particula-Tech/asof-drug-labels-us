@@ -21,3 +21,11 @@ Methotrexate Injection USP, Isotonic Liquid, Contains Preservative
 
 If desired, the solution may be further diluted with a compatible medium such as Sodium Chloride Injection, USP.
 Storage for 24 hours at a temperature of 21° to 25°C results in a product which is within 90% of label potency.
+
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
+
+Novaplus is a registered trademark of Vizient, Inc.
+
+LAB-1000-2.0
+
+Revised: 06/2018
