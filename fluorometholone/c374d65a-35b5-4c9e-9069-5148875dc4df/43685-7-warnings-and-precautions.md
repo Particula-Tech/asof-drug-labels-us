@@ -48,8 +48,7 @@ No studies have been conducted in animals or in humans to evaluate the possibili
 
 ## Pregnancy
 
-Teratogenic effects.
-Pregnancy Category C
+Teratogenic effects
 
 Fluorometholone has been shown to be embryocidal and teratogenic in rabbits when administered at low multiples of the human ocular dose.
 Fluorometholone was applied ocularly to rabbits daily on days 6-18 of gestation, and dose-related fetal loss and fetal abnormalities including cleft palate, deformed rib cage, anomalous limbs and neural abnormalities such as encephalocele, craniorachischisis, and spina bifida were observed.
@@ -59,7 +58,7 @@ Fluorometholone should be used during pregnancy only if the potential benefit ju
 ## Nursing Mothers
 
 It is not known whether topical ophthalmic administration of corticosteroids could result in sufficient systemic absorption to produce detectable quantities in human milk.
-Systemically‑administered corticosteroids appear in human milk and could suppress growth, interfere with endogenous corticosteroid production, or cause other untoward effects.
+Systemically-administered corticosteroids appear in human milk and could suppress growth, interfere with endogenous corticosteroid production, or cause other untoward effects.
 Because of the potential for serious adverse reactions in nursing infants from fluorometholone, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## Pediatric Use
