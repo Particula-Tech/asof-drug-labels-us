@@ -1,4 +1,4 @@
-# 2. DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 ## 2.1 General Dosing Information
 
@@ -16,9 +16,9 @@ Starting doses less than 37.5 International Units have not been studied in clini
 
 - A starting daily dose of 75 International Units of Gonal-f® RFF Redi-ject® is administered subcutaneously daily for 14 days in the first cycle of use.In subsequent cycles of treatment, the starting dose (and dosage adjustments) of Gonal-f® RFF Redi-ject® should be determined based on the history of the ovarian response to Gonal-f® RFF Redi-ject®.
 - The following should be considered when planning the woman's individualized dose:
-  - -Appropriate Gonal-f® RFF Redi-ject® dose adjustment(s) should be used to prevent multiple follicular growth and cycle cancellation.
-  - -The maximum, individualized, daily dose of Gonal-f® RFF Redi-ject® is 300 International Units per day.
-  - -In general, do not exceed 35 days of treatment.
+  - Appropriate Gonal-f® RFF Redi-ject® dose adjustment(s) should be used to prevent multiple follicular growth and cycle cancellation.
+  - The maximum, individualized, daily dose of Gonal-f® RFF Redi-ject® is 300 International Units per day.
+  - In general, do not exceed 35 days of treatment.
 - If indicated by the ovarian response after the initial 14 days, make an incremental adjustment in dose, up to 37.5 International Units.
 - If indicated by the ovarian response, make additional incremental adjustments in dose, up to 37.5 International Units, every 7 days.
 - Treatment should continue until follicular growth and/or serum estradiol levels indicate an adequate ovarian response.

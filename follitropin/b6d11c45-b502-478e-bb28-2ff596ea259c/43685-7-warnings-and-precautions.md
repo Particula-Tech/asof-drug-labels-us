@@ -1,4 +1,4 @@
-# 5. WARNINGS AND PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
 Gonal-f® RFF Redi-ject® should only be used by physicians who are experienced in infertility treatment.
 Gonal-f® RFF Redi-ject® contains a gonadotropic substance capable of causing Ovarian Hyperstimulation Syndrome (OHSS) in women with or without pulmonary or vascular complications [see Warnings and Precautions (5.2, 5.3, 5.4, 5.5)] and multiple births [see Warnings and Precautions (5.6)].

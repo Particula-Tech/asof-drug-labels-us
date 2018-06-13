@@ -1,4 +1,4 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
 Gonal-f® RFF Redi-ject® contains human follicle stimulating hormone (hFSH), a glycoprotein hormone manufactured by recombinant DNA technology.
 The active drug substance, follitropin alfa, has a dimeric structure consisting of two non-covalently linked, non-identical glycoproteins designated as the α-and β-subunits.

@@ -1,16 +1,16 @@
-# 8. USE IN SPECIFIC POPULATIONS
+# 8 USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
 Teratogenic effects
 
-Pregnancy Category X [see Contraindications (4)].
+[see Contraindications (4)].
 
 Animal Data
 
 Embryofetal development studies with recombinant human FSH in rats, where dosing occurred during organogenesis, showed a dose dependent increase in difficult and prolonged parturition in dams, and dose dependent increases in resorptions, pre- and post-implantation losses, and stillborn pups at doses representing 5 and 41 times the lowest clinical dose of 75 IU based on body surface area.
 Pre-/post-natal development studies with recombinant human FSH in rats, where dosing occurred from mid-gestation through lactation, showed difficult and prolonged parturition in all dams dosed at 41 times the lowest clinical dose of 75 IU based on body surface area, along with maternal death and stillborn pups associated with the difficult and prolonged parturition.
-This toxicity was not observed in dams and offspring dosed at a level 5 times the lowest clinical dose of 75 IU based on body surface area
+This toxicity was not observed in dams and offspring dosed at a level 5 times the lowest clinical dose of 75 IU based on body surface area.
 
 ## 8.3 Nursing Mothers
 

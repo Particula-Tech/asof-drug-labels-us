@@ -71,9 +71,9 @@ Gonal-f® RFF Redi-ject® may cause serious side effects, including:
   Women who have used Gonal-f®, Gonal-f® RFF, or Gonal-f® RFF Redi-ject® in the past may have a severe allergic reaction right away when they use Gonal-f® RFF Redi-ject® again.
   This severe allergic reaction may lead to death.
   If you have any of the following symptoms of a severe allergic reaction, stop using Gonal-f® RFF Redi-ject® and go to the hospital right away:
-  - -shortness of breath
-  - -swelling of your face
-  - -itchy, red bumps or rash on your skin (hives)
+  - shortness of breath
+  - swelling of your face
+  - itchy, red bumps or rash on your skin (hives)
 - ovaries that are too large.
   Gonal-f® RFF Redi-ject® may cause your ovaries to be abnormally large.
   Symptoms of large ovaries include bloating or pain in your lower stomach (pelvic) area.
@@ -84,22 +84,22 @@ Gonal-f® RFF Redi-ject® may cause serious side effects, including:
   In rare cases OHSS has caused death.
   OHSS may also happen after you stop using Gonal-f® RFF Redi-ject®.
   Stop using Gonal-f® RFF Redi-ject® and call your healthcare provider right away if you have symptoms of OHSS, including:
-  - -trouble breathing
-  - -severe lower stomach (pelvic) area pain
-  - -decreased urine output
-  - -nausea
-  - -vomiting
-  - -weight gain
-  - -diarrhea
+  - trouble breathing
+  - severe lower stomach (pelvic) area pain
+  - decreased urine output
+  - nausea
+  - vomiting
+  - weight gain
+  - diarrhea
 - lung problems.
   Gonal-f® RFF Redi-ject® may cause serious lung problems including fluid in your lungs (atelectasis), trouble breathing (acute respiratory distress syndrome), and worsening of asthma.
 - blood clots.
   Gonal-f® RFF Redi-ject® may increase your chance of having blood clots in your blood vessels.
   Blood clots can cause:
-  - -blood vessel problems (thrombophlebitis)
-  - -stroke
-  - -loss of your arm or leg
-  - -blood clot in your lung (pulmonary embolus)
+  - blood vessel problems (thrombophlebitis)
+  - stroke
+  - loss of your arm or leg
+  - blood clot in your lung (pulmonary embolus)
 - twisting (torsion) of your ovary.
   Gonal-f® RFF Redi-ject® may increase the chance of your ovary twisting if you already have certain conditions such as OHSS, pregnancy and previous abdominal surgery.
   Twisting of your ovary may lead to blood flow being cut off to your ovary.
@@ -110,10 +110,10 @@ Gonal-f® RFF Redi-ject® may cause serious side effects, including:
 - birth defects.
   A baby born after an ART cycle may have an increased chance of having birth defects.
   Your chances of having a baby with birth defects may increase depending on:
-  - -your age
-  - -certain sperm problems
-  - -your genetic background and that of your partner
-  - -a pregnancy with more than 1 baby at a time
+  - your age
+  - certain sperm problems
+  - your genetic background and that of your partner
+  - a pregnancy with more than 1 baby at a time
 - ectopic pregnancy (pregnancy outside your womb).
   Gonal-f® RFF Redi-ject® may increase your chance of having a pregnancy that is abnormally outside of your womb.
   Your chance of having a pregnancy outside of your womb is increased if you also have fallopian tube problems.
@@ -141,8 +141,8 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How should I store Gonal-f® RFF Redi-ject®?
 
 - Before you use Gonal-f® RFF Redi-ject® for the first time, store your Pen:
-  - -in the refrigerator between 36°F to 46°F (2°C to 8°C) until the expiration date, or
-  - -store your Pen at room temperature between 68°F to 77°F (20°C to 25°C) for up to 3 months or until the expiration date, whichever comes first
+  - in the refrigerator between 36°F to 46°F (2°C to 8°C) until the expiration date, or
+  - store your Pen at room temperature between 68°F to 77°F (20°C to 25°C) for up to 3 months or until the expiration date, whichever comes first
 - After you use Gonal-f® RFF Redi-ject® and there is still medicine left, store your Pen in the refrigerator between 36°F to 46°F (2°C to 8°C) or at room temperature between 68°F to 77°F (20°C to 25°C) up to 28 days.
   Throw away any unused Gonal-f® RFF Redi-ject® after 28 days.
 - Store your Gonal-f® RFF Redi-ject® with the Pen cap on in a safe place.

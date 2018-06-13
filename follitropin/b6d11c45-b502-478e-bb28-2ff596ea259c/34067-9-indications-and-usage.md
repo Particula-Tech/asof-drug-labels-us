@@ -1,6 +1,6 @@
-# 1. INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-## 1.1 Induction of Ovulation and Pregnancy in Oligo-Anovulatory Women in whom the Cause of Infertility is Functional and Not Due to Primary Ovarian Failure
+## 1.1 Induction of Ovulation and Pregnancy in Oligo-Anovulatory Women in whom the Cause of Infertility is Functional and Not Due to Primary Ovarian Failure.
 
 Prior to initiation of treatment with Gonal-f® RFF Redi-ject®:
 
@@ -10,7 +10,7 @@ Prior to initiation of treatment with Gonal-f® RFF Redi-ject®:
 - Demonstrate tubal patency
 - Evaluate the fertility status of the male partner
 
-## 1.2 Development of Multiple Follicles in Ovulatory Women as Part of an Assisted Reproductive Technology (ART) Cycle
+## 1.2 Development of Multiple Follicles in Ovulatory Women as Part of an Assisted Reproductive Technology (ART) Cycle.
 
 Prior to initiation of treatment with Gonal-f® RFF Redi-ject®:
 

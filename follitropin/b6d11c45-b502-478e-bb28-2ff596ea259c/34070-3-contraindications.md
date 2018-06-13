@@ -1,4 +1,4 @@
-# 4. CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
 Gonal-f® RFF Redi-ject® is contraindicated in women who exhibit:
 
