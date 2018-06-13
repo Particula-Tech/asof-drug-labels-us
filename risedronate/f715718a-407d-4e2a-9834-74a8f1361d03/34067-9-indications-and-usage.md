@@ -1,0 +1,27 @@
+# 1 INDICATIONS AND USAGE
+
+## 1.1 Postmenopausal Osteoporosis
+
+Risedronate Sodium is indicated for the treatment and prevention of osteoporosis in postmenopausal women.
+In postmenopausal women with osteoporosis, Risedronate Sodium reduces the incidence of vertebral fractures and a composite endpoint of nonvertebral osteoporosis-related fractures [see Clinical Studies (14.1, 14.2)].
+
+## 1.2 Osteoporosis in Men
+
+Risedronate Sodium is indicated for treatment to increase bone mass in men with osteoporosis.
+
+## 1.3 Glucocorticoid-Induced Osteoporosis
+
+Risedronate Sodium is indicated for the treatment and prevention of glucocorticoid-induced osteoporosis in men and women who are either initiating or continuing systemic glucocorticoid treatment (daily dosage of greater than or equal to 7.5 mg of prednisone or equivalent) for chronic diseases.
+Patients treated with glucocorticoids should receive adequate amounts of calcium and vitamin D.
+
+## 1.4 Paget’s Disease
+
+Risedronate Sodium is indicated for treatment of Paget’s disease of bone in men and women.
+
+## 1.5 Important Limitations of Use
+
+The optimal duration of use has not been determined.
+The safety and effectiveness of Risedronate Sodium for the treatment of osteoporosis are based on clinical data of three years duration.
+All patients on bisphosphonate therapy should have the need for continued therapy re-evaluated on a periodic basis.
+Patients at low-risk for fracture should be considered for drug discontinuation after 3 to 5 years of use.
+Patients who discontinue therapy should have their risk for fracture re-evaluated periodically.

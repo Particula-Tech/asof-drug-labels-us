@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA020835"
+  ],
+  "inn": "risedronate",
+  "labeler": "Greenstone LLC",
+  "package_ndcs": [
+    "59762-0405-4",
+    "59762-0405-5",
+    "59762-0406-1",
+    "59762-0406-3"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "risedronate sodium",
+      "name": "Risedronate Sodium"
+    }
+  ],
+  "setid": "f715718a-407d-4e2a-9834-74a8f1361d03",
+  "source": "dailymed"
+}
