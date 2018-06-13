@@ -1,7 +1,6 @@
 # 17. PATIENT COUNSELING INFORMATION
 
-Patients should be informed in advance that bupivacaine-containing products can cause temporary loss of sensation or motor activity in the area infiltrated.
-Physicians should discuss adverse reactions in the EXPAREL prescribing information with their patients.
+Inform patients in advance that EXPAREL can cause temporary loss of sensation or motor activity that may last for up to 5 days.
 
 Pacira Pharmaceuticals, Inc.
 
@@ -19,6 +18,4 @@ Patent Numbers:
 
 Trademark of Pacira Pharmaceuticals, Inc.
 
-PACIRA PHARMACEUTICALS, INC.
-
-For additional information call 1-855-RX-EXPAREL (1-855-793-9727)
+For additional information call 1-855-RX-EXPAREL (1-855-793-9727) or visit www.EXPAREL.com

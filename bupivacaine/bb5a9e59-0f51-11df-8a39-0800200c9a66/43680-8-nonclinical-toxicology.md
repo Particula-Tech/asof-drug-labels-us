@@ -2,11 +2,14 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Carcinogenesis.
+Carcinogenesis
+
 Long-term studies in animals to evaluate the carcinogenic potential of bupivacaine have not been conducted.
 
-Mutagenesis.
+Mutagenesis
+
 The mutagenic potential of bupivacaine has not been determined.
 
-Impairment of Fertility.
+Impairment of Fertility
+
 The effect of bupivacaine on fertility has not been determined.

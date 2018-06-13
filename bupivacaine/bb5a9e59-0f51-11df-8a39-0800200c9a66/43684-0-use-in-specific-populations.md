@@ -32,13 +32,13 @@ Rat doses were 4.4, 13.3, and 40 mg/kg/day (equivalent to 0.2, 0.5 and 1.5 times
 No embryo-fetal effects were observed in rats at the doses tested with the high dose causing increased maternal lethality.
 An increase in embryo-fetal deaths was observed in rabbits at the high dose in the absence of maternal toxicity.
 
-Decreased pup survival was noted at 1.5 times the MRHD in a rat pre- and post-natal development study when pregnant animals were administered subcutaneous doses of 4.4, 13.3, and 40 mg/kg/day buprenorphine hydrochloride (equivalent to 0.2, 0.5 and 1.5 times the MRHD, respectively, based on the BSA comparisons and a 60 kg human weight) from implantation through weaning (during pregnancy and lactation).
+Decreased pup survival was noted at 1.5 times the MRHD in a rat pre- and post-natal development study when pregnant animals were administered subcutaneous doses of 4.4, 13.3, and 40 mg/kg/day bupivacaine (equivalent to 0.2, 0.5 and 1.5 times the MRHD, respectively, based on the BSA comparisons and a 60 kg human weight) from implantation through weaning (during pregnancy and lactation).
 
 ## 8.2 Lactation
 
 Risk Summary
 
-Limited published literature reports that bupivacaine and its’ metabolite, pipecolylxylidide, are present in human milk at low levels.
+Limited published literature reports that bupivacaine and its metabolite, pipecoloxylidide, are present in human milk at low levels.
 There is no available information on effects of the drug in the breastfed infant or effects of the drug on milk production.
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for EXPAREL and any potential adverse effects on the breastfed infant from EXPAREL or from the underlying maternal condition.
 
@@ -48,20 +48,22 @@ Safety and effectiveness in pediatric patients have not been established.
 
 ## 8.5 Geriatric Use
 
-Of the total number of patients in the EXPAREL surgical site infiltration clinical studies (N=823), 171 patients were greater than or equal to 65 years of age and 47 patients were greater than or equal to 75 years of age.
+Of the total number of patients in the EXPAREL local infiltration clinical studies (N=823), 171 patients were greater than or equal to 65 years of age and 47 patients were greater than or equal to 75 years of age.
+Of the total number of patients in the EXPAREL nerve block clinical studies (N=531), 241 patients were greater than or equal to 65 years of age and 60 patients were greater than or equal to 75 years of age.
 No overall differences in safety or effectiveness were observed between these patients and younger patients.
 Clinical experience with EXPAREL has not identified differences in efficacy or safety between elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
 In clinical studies, differences in various pharmacokinetic parameters have been observed between elderly and younger patients.
 Bupivacaine is known to be substantially excreted by the kidney, and the risk of toxic reactions to bupivacaine may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection of EXPAREL.
+Because elderly patients are more likely to have decreased renal function, this should be considered when performing dose selection of EXPAREL.
 
 ## 8.6 Hepatic Impairment
 
-Because amide-type local anesthetics, such as bupivacaine, are metabolized by the liver, these drugs should be used cautiously in patients with hepatic disease.
-Patients with severe hepatic disease, because of their inability to metabolize local anesthetics normally, are at a greater risk of developing toxic plasma concentrations.
+Amide-type local anesthetics, such as bupivacaine, are metabolized by the liver.
+Patients with severe hepatic disease, because of their inability to metabolize local anesthetics normally, are at a greater risk of developing toxic plasma concentrations, and potentially local anesthetic systemic toxicity.
+Therefore, consider increased monitoring for local anesthetic systemic toxicity in subjects with moderate to severe hepatic disease.
 
 ## 8.7 Renal Impairment
 
 Bupivacaine is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
-Care should be taken in dose selection of EXPAREL.
+This should be considered when performing dose selection of EXPAREL.

@@ -21,28 +21,30 @@ The depressed stage may occur without a prior excited state.
 
 ## 12.3 Pharmacokinetics
 
-Local infiltration of EXPAREL results in significant systemic plasma levels of bupivacaine which can persist for 96 hours [See Warnings and Precautions (5.2)].
+Administration of EXPAREL results in systemic plasma levels of bupivacaine which can persist for 96 hours after local infiltration and 120 hours after interscalene brachial plexus nerve block.
+[See Warnings and Precautions (5.2)].
+In general, peripheral nerve blocks have shown systemic plasma levels of bupivacaine for extended duration when compared to local infiltration.
 Systemic plasma levels of bupivacaine following administration of EXPAREL are not correlated with local efficacy.
 
 Absorption
 
 The rate of systemic absorption of bupivacaine is dependent upon the total dose of drug administered, the route of administration, and the vascularity of the administration site.
 
-Pharmacokinetic parameters of EXPAREL after local administration were evaluated following surgical procedures.
-Descriptive statistics of pharmacokinetic parameters of representative EXPAREL doses in each study are provided in Table 2.
+Pharmacokinetic parameters of EXPAREL after local infiltration and following an interscalene brachial plexus nerve block were evaluated following surgical procedures.
+Descriptive statistics of pharmacokinetic parameters of representative EXPAREL doses in each study are provided in Table 3.
 
-Table 2: Summary of Pharmacokinetic Parameters for Bupivacaine after Administration of Single Doses of EXPAREL
+Table 3: Summary of Pharmacokinetic Parameters for Bupivacaine after Administration of Single Doses of EXPAREL via Local Infiltration and Interscalene Brachial Plexus Nerve Block
 
-|  | Surgical Site Administration |  |
-| --- | --- | --- |
-| Bunionectomy 106 mg (8 mL) | Hemorrhoidectomy 266 mg (20 mL) |  |
-| (N=26) | (N=25) |  |
-| Cmax (ng/mL) | 166 (92.7) | 867 (353) |
-| Tmax (h) | 2 (0.5-24) | 0.5 (0.25-36) |
-| AUC(0-t) (h×ng/mL) | 5864 (2038) | 16,867 (7868) |
-| AUC(inf) (h×ng/mL) | 7105 (2283) | 18,289 (7569) |
-| t½ (h) | 34 (17) | 24 (39) |
-| Note: Arithmetic mean (standard deviation) except Tmax where it is median (range). |  |  |
+| Parameters | Surgical Site Administration via Local Infiltration |  | Interscalene Brachial Plexus Nerve Block |
+| --- | --- | --- | --- |
+| Bunionectomy 106 mg (8 mL) | Hemorrhoidectomy 266 mg (20 mL) | Total Shoulder Arthroplasty 133 mg (10 mL) |  |
+| (N=26) | (N=25) | (N=12) |  |
+| Cmax (ng/mL) | 166 (92.7) | 867 (353) | 207 (137) |
+| Tmax (h) | 2 (0.5-24) | 0.5 (0.25-36) | 48 (3-74) |
+| AUC(0-t) (h×ng/mL) | 5864 (2038) | 16,867 (7868) | 11484 (8615) |
+| AUC(inf) (h×ng/mL) | 7105 (2283) | 18,289 (7569) | 11590 (8603) |
+| t½ (h) | 34 (17) | 24 (39) | 11 (5) |
+| Note: Arithmetic mean (standard deviation) except Tmax where it is median (range). |  |  |  |
 
 Distribution
 
@@ -57,10 +59,12 @@ Bupivacaine with a high protein binding capacity (95%) has a low fetal/maternal 
 The extent of placental transfer is also determined by the degree of ionization and lipid solubility of the drug.
 Lipid soluble, non-ionized drugs such as bupivacaine readily enter the fetal blood from the maternal circulation.
 
+Elimination
+
 Metabolism
 
 Amide-type local anesthetics, such as bupivacaine, are metabolized primarily in the liver via conjugation with glucuronic acid.
-Pipecolylxylidine (PPX) is the major metabolite of bupivacaine; approximately 5% of bupivacaine is converted to PPX.
+Pipecoloxylidide (PPX) is the major metabolite of bupivacaine; approximately 5% of bupivacaine is converted to PPX.
 Elimination of drug depends largely upon the availability of plasma protein binding sites in the circulation to carry it to the liver where it is metabolized.
 
 Various pharmacokinetic parameters of the local anesthetics can be significantly altered by the presence of hepatic disease.
@@ -81,22 +85,6 @@ Specific Populations
 
 Hepatic Impairment
 
-The effects of decreased hepatic function on bupivacaine pharmacokinetics following administration of EXPAREL were studied in patients with moderate hepatic impairment.
+Because amide-type local anesthetics, such as bupivacaine, are metabolized by the liver, the effects of decreased hepatic function on bupivacaine pharmacokinetics following administration of EXPAREL were studied in patients with moderate hepatic impairment.
 Consistent with the hepatic clearance of bupivacaine, mean plasma concentrations were higher in patients with moderate hepatic impairment than in the healthy control volunteers with approximately 1.5- and 1.6-fold increases in the mean values for Cmax and the area under the curve (AUC), respectively.
-
-Because amide-type local anesthetics, such as bupivacaine, are metabolized by the liver, these drugs should be used cautiously in patients with hepatic disease.
-Patients with severe hepatic disease, because of their inability to metabolize local anesthetics normally, are at a greater risk of developing toxic plasma concentrations [See Warnings and Precautions (5.1) and Use in Specific Populations (8.6)].
-
-Renal Impairment
-
-Bupivacaine is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
-Care should be taken in dose selection of EXPAREL [See Use in Specific Populations (8.7)].
-
-Age
-
-Various pharmacokinetic parameters of the local anesthetics such as bupivacaine can be significantly altered by the age of the patient.
-
-In clinical studies, differences in various pharmacokinetic parameters have been observed between elderly and younger patients.
-
-Bupivacaine is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection of EXPAREL [See Use in Specific Populations (8.5)].
+[See Warnings and Precautions (5.1) and Use in Specific Populations (8.6)].
