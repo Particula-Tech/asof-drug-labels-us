@@ -4,14 +4,14 @@
 
 Risk Summary
 
-Available human data on the use of CHANTIX in pregnant women are not sufficient to inform a drug associated risk.
-Smoking during pregnancy is associated with maternal, fetal, and neonatal risks [see Clinical Considerations].
+Available data have not suggested an increased risk for major birth defects following exposure to varenicline in pregnancy, compared with women who smoke [see Data].
+Smoking during pregnancy is associated with maternal, fetal, and neonatal risks (see Clinical Considerations).
 In animal studies, varenicline did not result in major malformations but caused decreased fetal weights in rabbits when dosed during organogenesis at exposures equivalent to 50 times the exposure at the maximum recommended human dose (MRHD).
 Additionally, administration of varenicline to pregnant rats during organogenesis through lactation produced developmental toxicity in offspring at maternal exposures equivalent to 36 times human exposure at the MRHD [see Data].
 
 The estimated background risk of oral clefts is increased by approximately 30% in infants of women who smoke during pregnancy, compared to pregnant women who do not smoke.
 The background risk of other major birth defects and miscarriage for the indicated population are unknown.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
+In the US general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
 
 Clinical Considerations
 
@@ -21,6 +21,32 @@ Smoking during pregnancy causes increased risks of orofacial clefts, premature r
 It is not known whether quitting smoking with CHANTIX during pregnancy reduces these risks.
 
 Data
+
+Human Data
+
+A population-based observational cohort study using the national registers of Denmark and Sweden compared pregnancy and birth outcomes among women exposed to varenicline (N=335, includes 317 first trimester exposed) with women who smoked during pregnancy (N=78,412) and with non-smoking pregnant women (N=806,438).
+The prevalence of major malformations, the primary outcome, was similar in all groups, including between smoking and non-smoking groups.
+The prevalence of adverse perinatal outcomes in the varenicline-exposed cohort was not greater than in the cohort of women who smoked, and differed somewhat between the three cohorts.
+The prevalences of the primary and secondary outcomes are shown in Table 6.
+
+Table 6.
+Summary of Primary and Secondary Outcomes for Three Birth Cohorts
+
+| Outcome | Varenicline Cohort (n=335) | Smoking Cohort (n=78,412) | Non-Smoking Cohort (n=806,438) |
+| --- | --- | --- | --- |
+| Major congenital malformationIncluded only live births in the cohorts. Prevalence among first trimester varenicline-exposed pregnancies (11/317 [3.5%]). | 12 / 334 (3.6%) | 3,382 / 78,028 (4.3%) | 33,950 /804,020 (4.2%) |
+| Stillbirth | 1 (0.3%) | 384 (0.5%) | 2,418 (0.3%) |
+| Small for gestational age | 42 (12.5%) | 13,433 (17.1%) | 73,135 (9.1%) |
+| Preterm birth | 25 (7.5%) | 6,173 (7.9%) | 46,732 (5.8%) |
+| Premature rupture of membranes | 12 (3.6%) | 4,246 (5.4%) | 30,641 (3.8%) |
+| Sudden infant death syndromeThere was a lag in death data in Denmark, so the cohorts were smaller. | 0/307 (0.0%) | 51/71,720 (0.1%) | 58/755,939 (<0.1%) |
+
+The study limitations include the inability to capture malformations in pregnancies that do not result in a live birth, and possible misclassification of outcome and of exposure to varenicline or to smoking.
+
+Other small epidemiological studies of pregnant women exposed to varenicline did not identify an association with major malformations, consistent with the Danish and Swedish observational cohort study.
+Methodological limitations of these studies include small samples and lack of adequate controls.
+
+Overall, available studies cannot definitely establish or exclude any varenicline-associated risk during pregnancy.
 
 Animal Data
 

@@ -26,11 +26,9 @@ Use the Starting Week (green) blister card first when beginning to take Chantix.
 
 ALWAYS DISPENSE WITH ENCLOSED MEDICATION GUIDE
 
-# PRINCIPAL DISPLAY PANEL - Kit Carton
+# PRINCIPAL DISPLAY PANEL - 0.5 mg / 1 mg Tablet Starting Pack
 
-NDC 0069-0471-03
-
-Rx only
+NDC 0069-0471-03 Rx only
 
 CHANTIX® (varenicline) TABLETS
 
@@ -72,9 +70,9 @@ Chantix® (varenicline) tablets
 
 # PRINCIPAL DISPLAY PANEL - 1 mg Tablet Bottle Label
 
-ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 0069-0469-56
+ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-Pfizer
+Pfizer NDC 0069-0469-56
 
 Chantix® (varenicline) tablets
 
