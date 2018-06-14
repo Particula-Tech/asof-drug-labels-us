@@ -58,53 +58,6 @@ Other organisms susceptible to penicillin G are N. gonorrhoeae, Corynebacterium 
 Some species of gram-negative bacilli were previously considered susceptible to very high intravenous doses of penicillin G (up to 80 million units/day) including some strains of Escherichia coli, Proteus mirabilis, Salmonella spp. and Shigella spp.; Enterobacter aerogenes (formerly Aerobacter aerogenes) and Alcaligenes faecalis.
 Penicillin G is no longer considered a drug of choice for infections caused by these organisms.
 
-### Susceptibility Test Methods
+### Susceptibility Testing
 
-When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drugs used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
-These reports should aid the physician in selecting the most effective antimicrobial.
-
-#### Dilution Techniques
-
-Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
-These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized procedure.
-Standardized procedures are based on dilution method 1, 2, 3 (broth or agar dilution) or equivalent using standardized inoculum and concentrations of penicillin.
-The MIC values should be interpreted according to the criteria in Table 1.
-
-#### Diffusion Techniques
-
-Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-One such standardized procedure 2, 4 requires the use of standardized inoculum concentrations.
-This procedure uses paper disks impregnated with 10 units of penicillin to test the susceptibility of microorganisms to penicillin.
-Interpretation involves correlation of the diameter obtained in the disk test with the MIC for penicillin.
-Reports from the laboratory providing results of the standard single-disk susceptibility test with a 10 unit penicillin disk should be interpreted according to the following criteria in Table 1.
-
-Table 1: Susceptibility Test Interpretive Criteria for Penicillin
-
-| Pathogen | Susceptible (S) | Intermediate (I) | Resistant (R) | Susceptible (S) | Intermediate (I) | Resistant (R) |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | MIC (mcg/mL) |  |  | Disk Diffusion (zone diameter in mm)Organisms for which no values for disk susceptibility appear cannot be reliably tested with this method. |  |  |
-| Staphylococcus spp. | ≤0.12Penicillin-resistant strains of staphylococci produce β-lactamase. An induced β-lactamase test should be performed on all S. aureus isolates for which the penicillin MIC is ≤0.12 mcg/mL or zone diameter is ≥29 mm before reporting as penicillin susceptible. Rare isolates of staphylococci that contains genes for β-lactamase production may not produce a positive induced β-lactamase test. For serious infections requiring penicillin therapy, laboratories should perform MIC tests and induced β-lactamase testing on all subsequent isolates from the same patient.2 | − | ≥0.25 | ≥29 | − | ≤28 |
-| Neisseria GonorrhoeaeA positive N. gonorrhoeae β-lactamase test predicts one form of resistance to penicillin. Strains with chromosomally mediated resistance can be detected only by agar dilution or disk diffusion susceptibility test methods.2 Isolates with zone diameters ≤19 mm generally produced β-lactamase.2,4 | ≤0.06 | 0.12 – 1 | ≥2 | ≥47 | 27 − 46 | ≤26 |
-| Listeria Monocytogenes | ≤2The current absence of resistant isolates precludes defining results other than "Susceptible". Isolates yielding results suggestive of "Non-susceptible" should be submitted to a reference laboratory for further testing. | − | − | − | − | − |
-| Streptococcus pneumoniae (meningitis) | ≤0.06 | − | ≥0.12 | − | − | − |
-| Streptococcus pneumoniae (non-meningitis) | ≤2 | 4 | ≥8 | − | − | − |
-| Streptococcus spp., Beta-hemolytic GroupSusceptibility testing of penicillins for treatment of β-hemolytic streptococcal infections need not be performed routinely, because non-susceptible isolates are extremely rare in any β-hemolytic streptococcus and have not been reported from Streptococcus pyogenes. Any β-hemolytic streptococcal isolate found to be non-susceptible to penicillin should be re-identified, retested, and, if confirmed, submitted to a public health authority.2,4 | ≤0.12 | − | − | ≥24 | − | − |
-| Streptococcus spp., Viridans Group | ≤0.12 | 0.25–2 | ≥4 | − | − | − |
-| Bacillus anthracisB. anthracis strains may contain inducible β-lactamases. In vitro penicillinase induction studies suggest that penicillin MICs may increase during therapy. However, β-lactamase testing of clinical isolates of B. anthracis is unreliable and should not be performed.3 | ≤0.12 | − | ≥0.25 | − | − | − |
-
-#### Quality Control
-
-Standardized susceptibility test procedures require the use of laboratory control microorganisms to monitor and ensure the accuracy and precision of the supplies and reagents used in the assay, and the techniques of the individuals performing the test.
-Standard penicillin powder should provide MIC values provided below.
-For the diffusion technique, the 10 unit penicillin disk should provide the following zone diameters with the quality control strains:
-
-Table 2.
-In Vitro Susceptibility Test Quality Control Ranges for Penicillin
-
-| Organism (ATTC #) | MIC range mcg/mL | Disk Diffusion range (mm) |
-| --- | --- | --- |
-| Staphylococcus aureus (29213) | 0.25 − 2 | Not applicable |
-| Staphylococcus aureus (25923) | Not applicable | 26 − 37 |
-| Streptococcus pneumoniae (49619) | 0.25 − 1 | 24 − 30 |
-| Neisseria gonorrhoeae (49226) | 0.25 – 1Using agar dilution method only. No criteria for broth microdilution are available.2 | 26 − 34 |
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.

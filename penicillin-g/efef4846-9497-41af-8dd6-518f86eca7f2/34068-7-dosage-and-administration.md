@@ -53,9 +53,9 @@ This product should not be administered to patients requiring less than one mill
 Penicillin G is relatively nontoxic, and dosage adjustments are generally required only in cases of severe renal impairment.
 The recommended dosage regimens are as follows:
 
-Creatinine clearance less than 10 mL/min/1.73m2; administer a full loading dose (see recommended dosages in the tables above) followed by one-half of the loading dose every 8–10 hours.
+Creatinine clearance less than 10 mL/min/1.73 m2; administer a full loading dose (see recommended dosages in the tables above) followed by one-half of the loading dose every 8–10 hours.
 
-Uremic patients with a creatinine clearance greater than 10 mL/min/1.73m2; administer a full loading dose (see recommended dosages in the tables above) followed by one-half of the loading dose every 4–5 hours.
+Uremic patients with a creatinine clearance greater than 10 mL/min/1.73 m2; administer a full loading dose (see recommended dosages in the tables above) followed by one-half of the loading dose every 4–5 hours.
 Additional dosage modification should be made in patients with hepatic disease and renal impairment.
 
 For most acute infections, treatment should be continued for at least 48 to 72 hours after the patient becomes asymptomatic.
