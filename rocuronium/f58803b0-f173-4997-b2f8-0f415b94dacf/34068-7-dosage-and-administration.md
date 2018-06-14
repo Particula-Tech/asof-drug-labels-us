@@ -13,9 +13,8 @@ In patients in whom potentiation of, or resistance to, neuromuscular block is an
 
 ### Risk of Medication Errors
 
-Store rocuronium bromide injection with the cap and ferrule intact.
 Accidental administration of neuromuscular blocking agents may be fatal.
-Store these products in a way that minimizes the possibility of selecting the wrong product [see Warnings and Precautions (5.3)].
+Store rocuronium bromide injection with the cap and ferrule intact and in a manner that minimizes the possibility of selecting the wrong product [see Warnings and Precautions (5.3)].
 
 ## 2.2 Dose for Tracheal Intubation
 

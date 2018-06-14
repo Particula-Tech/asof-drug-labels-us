@@ -12,4 +12,4 @@ Manufactured by: Gland Pharma Ltd Hyderabad 500 043 India
 
 Code No.: AP/DRUGS/103/97
 
-Revised: 3/2018 LEA-019979-01 MI:ROCUIJ:R7
+Revised: 6/2018 LEA-019979-01 MI:ROCUIJ:R8
