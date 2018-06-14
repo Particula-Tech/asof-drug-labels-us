@@ -4,4 +4,4 @@ QVAR® is indicated in the maintenance treatment of asthma as prophylactic thera
 
 Important Limitations of Use:
 
-- •QVAR is NOT indicated for the relief of acute bronchospasm.
+- QVAR is NOT indicated for the relief of acute bronchospasm.

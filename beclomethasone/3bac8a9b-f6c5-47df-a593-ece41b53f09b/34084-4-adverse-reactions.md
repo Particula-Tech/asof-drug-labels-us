@@ -2,11 +2,11 @@
 
 Systemic and local corticosteroid use may result in the following:
 
-- •Candida albicans infection [see Warnings and Precautions (5.1)]
-- •Immunosuppression [see Warnings and Precautions (5.4)]
-- •Hypercorticism and adrenal suppression [see Warnings and Precautions (5.7)]
-  - •Growth effects [see Warnings and Precautions (5.8) and Use in Specific Populations (8.4)]
-- •Eye Disorders [see Warnings and Precautions (5.10)]
+- Candida albicans infection [see Warnings and Precautions (5.1)]
+- Immunosuppression [see Warnings and Precautions (5.4)]
+- Hypercorticism and adrenal suppression [see Warnings and Precautions (5.7)]
+- Growth effects [see Warnings and Precautions (5.8) and Use in Specific Populations (8.4)]
+- Eye Disorders [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -16,7 +16,7 @@ The following reporting rates of common adverse experiences are based upon 4 cli
 Table 1 below includes all events reported by patients taking QVAR (whether considered drug related or not) that occurred at a rate over 3% for QVAR.
 In considering these data, difference in average duration of exposure and clinical trial design should be taken into account.
 
-1. Table 1 Adverse Events Reported by at Least 3% of the Patients for QVAR by Treatment and Daily Dose
+Table 1 Adverse Events Reported by at Least 3% of the Patients for QVAR by Treatment and Daily Dose
 
 | Total (N=624) % | 80-160 mcg (N=233) % | 320 mcg (N=335) % | 640 mcg (N=56) % |  |  |
 | --- | --- | --- | --- | --- | --- |

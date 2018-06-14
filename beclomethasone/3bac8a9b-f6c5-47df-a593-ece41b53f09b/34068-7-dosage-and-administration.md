@@ -7,7 +7,7 @@ QVAR does not require shaking prior to use.
 After inhalation, the patient should rinse his/her mouth with water without swallowing to help reduce the risk of oropharyngeal candidiasis.
 
 Use of QVAR with a spacer device in children less than 5 years of age is not recommended.
-[seeUse in Specific Populations (8.4)]
+[see Use in Specific Populations (8.4)]
 
 Patients should be instructed on the proper use of their inhaler.
 Consistent dose delivery is achieved, whether using the 40 or 80 mcg strengths, due to proportionality of the 2 products (i.e., 2 actuations of 40 mcg strength should provide a dose comparable to 1 actuation of the 80 mcg strength).
