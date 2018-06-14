@@ -154,14 +154,14 @@ Discussion of Clinically Important Adverse Reactions
 
 In the controlled trial using DACOGEN dosed at 15 mg/m2, administered by continuous intravenous infusion over 3 hours repeated every 8 hours for 3 days, the highest incidence of Grade 3 or Grade 4 adverse events in the DACOGEN arm were neutropenia (87%), thrombocytopenia (85%), febrile neutropenia (23%) and leukopenia (22%).
 Bone marrow suppression was the most frequent cause of dose reduction, delay and discontinuation.
-Six patients had fatal events associated with their underlying disease and myelosuppression (anemia, neutropenia, and thrombocytopenia) that were considered at least possibly related to drug treatment [See Warnings and Precautions (5.1)].
+Six patients had fatal events associated with their underlying disease and myelosuppression (anemia, neutropenia, and thrombocytopenia) that were considered at least possibly related to drug treatment [see Warnings and Precautions (5.1)].
 Of the 83 DACOGEN-treated patients, 8 permanently discontinued therapy for adverse events; compared to 1 of 81 patients in the supportive care arm.
 
-In a single-arm MDS study (N=99) DACOGEN was dosed at 20 mg/m2 intravenous, infused over one hour daily for 5 consecutive days of a 4 week cycle.
+In a single-arm MDS study (N=99) DACOGEN was dosed at 20 mg/m2 intravenous, infused over one hour daily for 5 consecutive days of a 4- week cycle.
 Table 2 presents all adverse events regardless of causality occurring in at least 5% of patients.
 
 Table 2 Adverse Events Reported in ≥ 5% of Patients in a Single-arm StudyIn this single arm study, investigators reported adverse events based on clinical signs and symptoms rather than predefined laboratory abnormalities.
-Thus not all laboratory abnormalities were recorded as adverse events.
+Thus, not all laboratory abnormalities were recorded as adverse events.
 
 |  | DACOGEN N = 99 (%) |
 | --- | --- |
@@ -293,4 +293,4 @@ Serious Adverse Events that occurred in patients receiving DACOGEN regardless of
 The following adverse reactions have been identified during post-approval use of DACOGEN.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Cases of Sweet’s Syndrome (acute febrile neutrophilic dermatosis) have been reported.
+Cases of Sweet's Syndrome (acute febrile neutrophilic dermatosis) have been reported.

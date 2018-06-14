@@ -25,7 +25,7 @@ Patients may be premedicated with standard anti-emetic therapy.
 
 If myelosuppression is present, subsequent treatment cycles of DACOGEN should be delayed until there is hematologic recovery (ANC ≥ 1,000/μL platelets ≥ 50,000/μL).
 
-## 2.3 Patients with Non-hematologic Toxicity
+## 2.3 Patients with Non-Hematologic Toxicity
 
 Following the first cycle of DACOGEN treatment, if any of the following non-hematologic toxicities are present, DACOGEN treatment should not be restarted until the toxicity is resolved: 1) serum creatinine ≥ 2 mg/dL; 2) SGPT, total bilirubin ≥ 2 times ULN; 3) and active or uncontrolled infection.
 
@@ -35,9 +35,9 @@ DACOGEN is a cytotoxic drug and caution should be exercised when handling and pr
 Procedures for proper handling and disposal of antineoplastic drugs should be applied.
 Several guidances on this subject have been published.1,,,4
 
-DACOGEN should be aseptically reconstituted with 10 mL of Sterile Water for Injection (USP); upon reconstitution, each mL contains approximately 5.0 mg of decitabine at pH 6.7-7.3.
+DACOGEN should be aseptically reconstituted with 10 mL of Sterile Water for Injection (USP) at room temperature; upon reconstitution, each mL contains approximately 5.0 mg of decitabine at pH 6.7-7.3.
 Immediately after reconstitution, the solution should be further diluted with 0.9% Sodium Chloride Injection or 5% Dextrose Injection to a final drug concentration of 0.1 - 1.0 mg/mL.
-Unless used within 15 minutes of reconstitution, the diluted solution must be prepared using cold (2˚C - 8˚C) infusion fluids and stored at 2˚C - 8˚C (36˚F - 46˚F) for up to a maximum of 4 hours until administration.
+Unless administration of the diluted solution is started within 15 minutes of reconstitution, the reconstituted solution should be further diluted with cold (2˚C - 8˚C) infusion fluids and stored at 2˚C - 8˚C (36˚F - 46˚F) for up to a maximum of 4 hours until administration.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 Do not use if there is evidence of particulate matter or discoloration.

@@ -32,7 +32,7 @@ Table 4 Baseline Demographics and Other Patient Characteristics (ITT)
 | RA RARS RAEB RAEB-t CMML | 12 (13) 7 (8) 47 (53) 17 (19) 6 (7) | 12 (15) 4 (5) 43 (53) 14 (17) 8 (10) |
 
 Patients randomized to the DACOGEN arm received DACOGEN intravenously infused at a dose of 15 mg/m2 over a 3-hour period, every 8 hours, for 3 consecutive days.
-This cycle was repeated every 6 weeks, depending on the patient’s clinical response and toxicity.
+This cycle was repeated every 6 weeks, depending on the patient's clinical response and toxicity.
 Supportive care consisted of blood and blood product transfusions, prophylactic antibiotics, and hematopoietic growth factors.
 The study endpoints were overall response rate (complete response + partial response) and time to AML or death.
 Responses were classified using the MDS International Working Group (IWG) criteria; patients were required to be RBC and platelet transfusion independent during the time of response.
@@ -48,7 +48,7 @@ Table 5 Response Criteria for Phase 3 MDS Trial*
 | *Cheson BD, Bennett JM, et al. Report of an International Working Group to Standardize Response Criteria for MDS. Blood. 2000; 96:3671-3674. |  |  |  |  |  |
 
 The overall response rate (CR+PR) in the ITT population was 17% in DACOGEN-treated patients and 0% in the SC group (p<0.001).
-(SeeTable 6) The overall response rate was 21% (12/56) in DACOGEN-treated patients considered evaluable for response (i.e., those patients with pathologically confirmed MDS at baseline who received at least 2 cycles of treatment).
+(See Table 6) The overall response rate was 21% (12/56) in DACOGEN-treated patients considered evaluable for response (i.e., those patients with pathologically confirmed MDS at baseline who received at least 2 cycles of treatment).
 The median duration of response (range) for patients who responded to DACOGEN was 288 days (116-388) and median time to response (range) was 93 days (55-272).
 All but one of the DACOGEN-treated patients who responded did so by the fourth cycle.
 Benefit was seen in an additional 13% of DACOGEN-treated patients who had hematologic improvement, defined as a response less than PR lasting at least 8 weeks, compared to 7% of SC patients.
