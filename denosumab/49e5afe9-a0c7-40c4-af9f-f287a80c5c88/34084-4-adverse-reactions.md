@@ -160,10 +160,8 @@ Adverse reactions reported in ≥ 2% of patients with glucocorticoid-induced ost
 Table 2.
 Adverse Reactions Occurring in ≥ 2% of Patients with Glucocorticoid-induced Osteoporosis and More Frequently with Prolia than in Active-Control-treated Patients
 
-|  |  | Oral Daily |
+| Preferred Term | Prolia (N = 394) n (%) | Oral Daily Bisphosphonate (Active-Control) (N = 384) n (%) |
 | --- | --- | --- |
-|  | Prolia (N = 394) n (%) | Bisphosphonate (Active-Control) |
-| Preferred Term |  | (N = 384) n (%) |
 | Back pain | 18 (4.6) | 17 (4.4) |
 | Hypertension | 15 (3.8) | 13 (3.4) |
 | Bronchitis | 15 (3.8) | 11 (2.9) |

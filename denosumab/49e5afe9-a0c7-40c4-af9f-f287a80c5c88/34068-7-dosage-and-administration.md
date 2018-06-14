@@ -17,7 +17,7 @@ All patients should receive calcium 1000 mg daily and at least 400 IU vitamin D 
 If a dose of Prolia is missed, administer the injection as soon as the patient is available.
 Thereafter, schedule injections every 6 months from the date of the last injection.
 
-## 2.2 Preparation and Administration
+## 2.3 Preparation and Administration
 
 Visually inspect Prolia for particulate matter and discoloration prior to administration whenever solution and container permit.
 Prolia is a clear, colorless to pale yellow solution that may contain trace amounts of translucent to white proteinaceous particles.

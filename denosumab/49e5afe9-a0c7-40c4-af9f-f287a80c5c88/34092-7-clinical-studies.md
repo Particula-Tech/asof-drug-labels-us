@@ -21,14 +21,13 @@ The absolute risk reduction was 4.8% and relative risk reduction was 68% for new
 Table 3.
 The Effect of Prolia on the Incidence of New Vertebral Fractures in Postmenopausal Women
 
-|  |  | Proportion of Women with Fracture (%)+ |  | Absolute Risk Reduction (%)* (95% CI) | Relative Risk Reduction (%)* (95% CI) |
-| --- | --- | --- | --- | --- | --- |
-|  |  | Placebo N = 3691 (%) | Prolia N = 3702 (%) |  |  |
-| 0-1 Year |  | 2.2 | 0.9 | 1.4 (0.8, 1.9) | 61 (42, 74) |
-| 0-2 Years |  | 5.0 | 1.4 | 3.5 (2.7, 4.3) | 71 (61, 79) |
-| 0-3 Years |  | 7.2 | 2.3 | 4.8 (3.9, 5.8) | 68 (59, 74) |
-| + | Event rates based on crude rates in each interval. |  |  |  |  |
-| * | Absolute risk reduction and relative risk reduction based on Mantel-Haenszel method adjusting for age group variable. |  |  |  |  |
+|  | Proportion of Women with Fracture (%)+ |  | Absolute Risk Reduction (%)* (95% CI) | Relative Risk Reduction (%)* (95% CI) |
+| --- | --- | --- | --- | --- |
+|  | Placebo N = 3691 (%) | Prolia N = 3702 (%) |  |  |
+| 0-1 Year | 2.2 | 0.9 | 1.4 (0.8, 1.9) | 61 (42, 74) |
+| 0-2 Years | 5.0 | 1.4 | 3.5 (2.7, 4.3) | 71 (61, 79) |
+| 0-3 Years | 7.2 | 2.3 | 4.8 (3.9, 5.8) | 68 (59, 74) |
+| + Event rates based on crude rates in each interval. * Absolute risk reduction and relative risk reduction based on Mantel-Haenszel method adjusting for age group variable. |  |  |  |  |
 
 Prolia was effective in reducing the risk for new morphometric vertebral fractures regardless of age, baseline rate of bone turnover, baseline BMD, baseline history of fracture, or prior use of a drug for osteoporosis.
 
@@ -110,8 +109,8 @@ Patients received at least 1000 mg calcium and 800 IU vitamin D supplementation 
 
 Effect on Bone Mineral Density (BMD)
 
-In the glucocorticoid-initiating subpopulation, Prolia significantly increased lumbar spine BMD compared to the active-control at one year (Active-control 2.3%, Prolia 4.4%) with a treatment difference of 2.2% (p < 0.001).
-In the glucocorticoid-continuing subpopulation, Prolia significantly increased lumbar spine BMD compared to active-control at one year (Active-control 0.8%, Prolia 3.8%) with a treatment difference of 2.9% (p < 0.001).
+In the glucocorticoid-initiating subpopulation, Prolia significantly increased lumbar spine BMD compared to the active-control at one year (Active-control 0.8%, Prolia 3.8%) with a treatment difference of 2.9% (p < 0.001).
+In the glucocorticoid-continuing subpopulation, Prolia significantly increased lumbar spine BMD compared to active-control at one year (Active-control 2.3%, Prolia 4.4%) with a treatment difference of 2.2% (p < 0.001).
 Consistent effects on lumbar spine BMD were observed regardless of gender; race; geographic region; menopausal status; and baseline age, lumbar spine BMD T-score, and glucocorticoid dose within each subpopulation.
 
 Bone Histology
