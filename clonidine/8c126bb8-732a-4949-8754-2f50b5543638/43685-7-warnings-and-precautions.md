@@ -103,8 +103,6 @@ Fertility of female rats did, however, appear to be affected in another experime
 
 ## Usage in Pregnancy/Teratogenic Effects
 
-### PREGNANCY CATEGORY C
-
 Reproduction studies in rabbits at clonidine hydrochloride doses up to approximately the MRDHD revealed no evidence of teratogenic or embryotoxic potential.
 In rats, however, doses as low as one-third the MRDHD were associated with increased resorptions in a study in which dams were treated continuously from 2 months prior to mating.
 Increased resorptions were not associated with treatment with the same or higher doses up to 0.5 times the MRDHD when dams were treated on days 6-15 of gestation.

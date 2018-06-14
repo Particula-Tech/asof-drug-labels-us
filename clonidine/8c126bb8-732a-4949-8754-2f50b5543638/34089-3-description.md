@@ -11,7 +11,3 @@ Duraclon (clonidine hydrochloride injection) is supplied as a clear, colorless, 
 Each mL of the 100 mcg/mL (0.1 mg/mL) concentration contains 100 mcg of Clonidine Hydrochloride, USP and 9 mg Sodium Chloride, USP in Water for Injection, USP.
 Hydrochloric Acid and/or Sodium Hydroxide may have been added for pH adjustment.
 Each 10 mL vial contains 1 mg (1000 mcg) of clonidine hydrochloride.
-
-Each mL of the 500 mcg/mL (0.5 mg/mL) concentration contains 500 mcg of Clonidine Hydrochloride, USP and 9 mg Sodium Chloride, USP in Water for Injection, USP.
-Hydrochloric Acid and/or Sodium Hydroxide may have been added for pH adjustment.
-Each 10 mL vial contains 5 mg (5000 mcg) of clonidine hydrochloride.
