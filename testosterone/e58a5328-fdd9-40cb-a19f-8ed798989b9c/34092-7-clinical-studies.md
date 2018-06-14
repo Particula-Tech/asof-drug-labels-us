@@ -4,7 +4,7 @@ ANDRODERM 2 mg/day and 4 mg/day were studied in a trial designed to evaluate the
 Thirty-eight of the 40 subjects (95%) who were enrolled into the study were white and 2 subjects were African American.
 Ten (25%) subjects were Hispanic and 30 (75%) were Non-Hispanic.
 Men were between 34 and 76 years of age (mean: 55 years).
-Patients had previously been on stable therapy of ANDRODERM 5 mg; Androgel® 2.5 g, 5 g, 7.5 g or 10 g; or Testim® 2.5 g or 5 g daily before switching to ANDRODERM 4 mg/day.
+Patients had previously been on stable therapy of ANDRODERM 5 mg; Androgel® 2.5 grams, 5 grams, 7.5 grams or 10 grams; or Testim® 2.5 grams or 5 grams daily before switching to ANDRODERM 4 mg/day.
 
 Patients applied an ANDRODERM 4 mg/day system around 10 p.m. once daily for 14 days, and then were titrated up to 6 mg/day or down to 2 mg/day according to a morning serum testosterone concentration obtained at 6 a.m. on Day 8.
 Out of 36 patients who entered the study, 31 (86%) patients remained on the 4 mg/day dose, 4 (11%) were titrated downward to 2 mg/day, and 1 (3%) was titrated upward to 6 mg/day based on the Day 8 testosterone concentrations.

@@ -173,10 +173,21 @@ Inactive ingredients:
 - Disc: a five-layer laminate containing polyester/polyesturethane adhesive/aluminum foil/polyester-urethane adhesive/polyethylene
 - Release Liner: a silicone-coated polyester film, which is removed before the system can be used
 
-For all medical inquiries contact: Allergan Medical Communications Irvine, CA 92612 1-800-678-1605
+For all medical inquiries contact: Allergan Medical Communications 1-800-678-1605
 
-Distributed By: Allergan USA, Inc. Irvine, CA 92612
+Distributed by: Allergan USA, Inc. Madison, NJ 07940
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
-Content Updated: 10/2016
+© 2018 Allergan.
+All rights reserved.
+
+ANDRODERM® is a registered trademark of Allergan Sales, LLC.
+
+Allergan® and its design are trademarks of Allergan, Inc.
+
+All trademarks are the property of their respective owners.
+
+Content Updated: 6/2018
+
+v1.0PPI5990

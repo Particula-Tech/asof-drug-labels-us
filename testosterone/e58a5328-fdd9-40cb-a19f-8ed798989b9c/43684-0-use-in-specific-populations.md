@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category X [see Contraindications (4)] — ANDRODERM is contraindicated during pregnancy or in women who may become pregnant.
+ANDRODERM is contraindicated during pregnancy or in women who may become pregnant [see Contraindications (4)].
 Testosterone is teratogenic and may cause fetal harm.
 Exposure of a female fetus to androgens may result in varying degrees of virilization.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus.

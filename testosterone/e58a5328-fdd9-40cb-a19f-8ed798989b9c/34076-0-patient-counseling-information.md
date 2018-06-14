@@ -37,6 +37,17 @@ Patients should be informed that treatment with androgens may lead to adverse re
   Because ANDRODERM contains aluminum, it is recommended to remove the system before undergoing an MRI.
 - Avoid swimming or showering until 3 hours following application of ANDRODERM [see Dosage and Administration (2) and Clinical Pharmacology (12.3)].
 
-For all medical inquiries contact: Allergan Medical Communications Irvine, CA 92612 1-800-678-1605
+For all medical inquiries contact: Allergan Medical Communications 1-800-678-1605
 
-Distributed By: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
+Distributed by: Allergan USA, Inc. Madison, NJ 07940
+
+© 2018 Allergan.
+All rights reserved.
+
+ANDRODERM® is a registered trademark of Allergan Sales, LLC.
+
+Allergan® and its design are trademarks of Allergan, Inc.
+
+All trademarks are the property of their respective owners.
+
+v1.0USPI5990

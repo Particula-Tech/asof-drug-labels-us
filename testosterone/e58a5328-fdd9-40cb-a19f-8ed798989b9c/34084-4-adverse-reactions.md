@@ -9,7 +9,7 @@ Of note, all hypogonadal men studied had been stable users of topical testostero
 Furthermore, there was only one subject titrated to 6 mg/day and he withdrew from the study prematurely.
 
 Table 1.
-Adverse Reactions Seen With the Use of ANDRODERM 2 mg/day, 4 mg/day, or 6 mg/day (> 3%)
+Adverse Reactions Seen with the Use of ANDRODERM 2 mg/day, 4 mg/day, or 6 mg/day (> 3%)
 
 | Adverse Reaction | Overall N = 36 % |
 | --- | --- |
@@ -28,7 +28,7 @@ Transient mild to moderate erythema was observed at the site of application in t
 The overall incidence of application site reactions of any kind was 48% (59 subjects with 107 adverse reactions).
 
 Table 2.
-Adverse Reactions Seen With the Use of ANDRODERM 2.5 mg/day, 5 mg/day, or 7.5 mg/day (> 3%)
+Adverse Reactions Seen with the Use of ANDRODERM 2.5 mg/day, 5 mg/day, or 7.5 mg/day (> 3%)
 
 | Adverse Reaction | Overall N = 122 % |
 | --- | --- |
