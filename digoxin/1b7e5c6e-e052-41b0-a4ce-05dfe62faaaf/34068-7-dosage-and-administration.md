@@ -12,7 +12,7 @@ Those factors are:
 - •Concomitant medication [see Drug Interactions (7)]
 
 Because the pharmacokinetics of digoxin are complex, and because toxic levels of digoxin are only slightly higher than therapeutic levels, digoxin dosing can be difficult.
-The recommended approach is to
+The recommended approach is to:
 
 - •estimate the patient’s daily maintenance dose
 - •adjust the estimate to account for patient-specific factors
@@ -97,8 +97,8 @@ Pediatric patients over 10 years of age require adult dosages in proportion to t
 Some researchers have suggested that infants and young pediatric patients tolerate slightly higher serum concentrations than do adults.
 For pediatric patients with known or suspected renal dysfunction, lower starting doses should be considered combined with frequent monitoring of digoxin levels.
 
-NOTE: The calibrated dropper supplied with the 60 mL bottle of digoxin oral solution is not appropriate to measure doses below 0.2 mL.
-Doses less than 0.2 mL require appropriate methods or measuring devices designed to administer an accurate amount to the patient, such as a graduated syringe.
+NOTE: The calibrated oral syringe supplied with the 60 mL bottle of digoxin oral solution is not appropriate to measure doses below 0.1 mL.
+Doses less than 0.1 mL require appropriate methods or measuring devices designed to administer an accurate amount to the patient.
 
 ## 2.5 Adjustment of Dose
 
@@ -167,8 +167,8 @@ Table 4: Dosea in Milliliters
 a Recommended dosing regimen for pediatric patients under 10 years of age is twice daily.
 Recommended dosing regimen for pediatric patients over 10 years of age and adults is once daily.
 
-b Use calibrated dropper for measurement.
-In the case of required volume less than 0.2 mL, a separate device such as a graduated syringe is recommended for adequate measurement.
+b Use calibrated oral syringe for measurement.
+In the case of required volume less than 0.1 mL, a separate device is recommended for adequate measurement.
 
 On the left side of the chart, locate the patient’s weight in kilograms.
 At the top of the chart, identify which dose in mcg/kg will be used for this patient.

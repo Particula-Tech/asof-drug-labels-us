@@ -1,5 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+Advise the patient to read the FDA-approved patient labeling (Instructions for Use)
+
 Patients receiving digoxin should be given the following instructions by the physician.
 
 - •Advise patients that digoxin is used to treat heart failure and heart arrhythmias.
@@ -13,8 +15,8 @@ Patients receiving digoxin should be given the following instructions by the phy
 - •Advise parents or caregivers that the symptoms of having too high digoxin doses may be difficult to recognize in infants and pediatric patients.
   Symptoms such as weight loss, failure to thrive in infants, abdominal pain, and behavioral disturbances may be indications of digoxin toxicity.
 - •Instruct the patient to monitor and record their heart rate and blood pressure daily.
-- •Instruct patients to use the calibrated dropper to measure their digoxin dose and to avoid less precise measuring tools, such as teaspoons.
-  For doses less than 0.2 mL, provide another measuring syringe to the patient for accurate dosing, since the provided calibrated dropper is not appropriate to measure doses less than 0.2 mL.
+- •Instruct patients to use the calibrated oral syringe to measure their digoxin dose and to avoid less precise measuring tools, such as teaspoons.
+  For doses less than 0.1 mL, provide another measuring syringe to the patient for accurate dosing, since the provided calibrated oral syringe is not appropriate to measure doses less than 0.1 mL.
 - •Instruct women of childbearing potential who become or are planning to become pregnant to consult a physician prior to initiation or continuing therapy with digoxin.
 
 Distr. by: West-Ward
@@ -23,6 +25,6 @@ Pharmaceuticals Corp.
 
 Eatontown, NJ 07724
 
-10001143/10
+10001143/11
 
-Revised December 2016
+Revised February 2018

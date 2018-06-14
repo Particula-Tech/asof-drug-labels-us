@@ -1,1 +1,5 @@
-# NDC 0054-0057-46 60 mL bottle
+# PACKAGE/LABEL DISPLAY PANEL
+
+Digoxin Oral Solution USP, 60 mL
+
+0054-0057-46, Rx only

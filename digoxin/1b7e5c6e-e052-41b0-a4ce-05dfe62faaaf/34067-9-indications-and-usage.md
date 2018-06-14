@@ -8,7 +8,7 @@ Where possible, digoxin should be used with a diuretic and an angiotensin-conver
 
 ## 1.2 Heart Failure in Pediatric Patients
 
-Digoxin increases myocardial contractility in pediatric patients with heart failure.
+Digoxin is indicated to increase myocardial contractility in pediatric patients with heart failure.
 
 ## 1.3 Atrial Fibrillation in Adults
 
