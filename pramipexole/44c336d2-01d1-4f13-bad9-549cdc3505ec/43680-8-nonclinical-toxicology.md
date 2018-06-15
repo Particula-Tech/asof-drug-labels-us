@@ -10,7 +10,7 @@ No significant increases in tumors occurred in either species.
 
 Pramipexole was not mutagenic or clastogenic in a battery of in vitro (bacterial reverse mutation, V79/HGPRT gene mutation, chromosomal aberration in CHO cells) and in vivo (mouse micronucleus) assays.
 
-In rat fertility studies, pramipexole at a dose of 2.5 mg/kg/day (5 times the MRHD on a mg/m2 basis), prolonged estrus cycles and inhibited implantation.
+In rat fertility studies, pramipexole at a dose of 2.5 mg/kg/day (5 times the MRHD on a mg/m2 basis) prolonged estrus cycles and inhibited implantation.
 These effects were associated with reductions in serum levels of prolactin, a hormone necessary for implantation and maintenance of early pregnancy in rats.
 
 ## 13.2 Animal Toxicology and/or Pharmacology

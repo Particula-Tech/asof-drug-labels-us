@@ -1,4 +1,4 @@
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 NDC 68462-330-90
 

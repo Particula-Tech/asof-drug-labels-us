@@ -11,7 +11,7 @@ Pramipexole dihydrochloride tablets can be taken with or without food.
 If patients develop nausea, advise that taking pramipexole dihydrochloride tablets with food may reduce the occurrence of nausea.
 
 Pramipexole is the active ingredient that is in both pramipexole dihydrochloride tablets and extended-release pramipexole tablets.
-Ensure that patients do not take both extended-release pramipexole and pramipexole dihydrochloride.
+Ensure that patients do not take both extended-release pramipexole and pramipexole dihydrochloride tablets.
 
 Sedating Effects
 
@@ -53,4 +53,4 @@ Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 Questions?
 1 (888)721-7115 www.glenmarkpharma.com/usa
 
-August 2016
+June 2018

@@ -19,17 +19,17 @@ Initial Treatment
 Doses should be increased gradually from a starting dose of 0.375 mg/day given in three divided doses and should not be increased more frequently than every 5 to 7 days.
 A suggested ascending dosage schedule that was used in clinical studies is shown in Table 1:
 
-Table 1 Ascending Dosage Schedule of Pramipexole Dihydrochloride Tablets for Parkinson's Disease
+1. Table 1 Ascending Dosage Schedule of Pramipexole Dihydrochloride Tablets for Parkinson's Disease
 
 | Week | Dosage (mg) | Total Daily Dose (mg) |
 | --- | --- | --- |
 | 1 | 0.125 three times a day | 0.375 |
 | 2 | 0.25 three times a day | 0.75 |
-| 3 | 0.5 three times a day | 1.5 |
+| 3 | 0.5 three times a day | 1.50 |
 | 4 | 0.75 three times a day | 2.25 |
 | 5 | 1 three times a day | 3 |
 | 6 | 1.25 three times a day | 3.75 |
-| 7 | 1.5 three times a day | 4.5 |
+| 7 | 1.5 three times a day | 4.50 |
 
 Maintenance Treatment
 
@@ -47,7 +47,7 @@ Dosing in Patients with Renal Impairment
 
 The recommended dosing of pramipexole dihydrochloride tablets in Parkinson’s disease patients with renal impairment is provided in Table 2.
 
-Table 2 Dosing of Pramipexole Dihydrochloride Tablets in Parkinson’s Disease Patients with Renal Impairment
+1. Table 2 Dosing of Pramipexole Dihydrochloride Tablets in Parkinson’s Disease Patients with Renal Impairment
 
 | Renal Status | Starting Dose (mg) | Maximum Dose (mg) |
 | --- | --- | --- |
@@ -59,4 +59,29 @@ Table 2 Dosing of Pramipexole Dihydrochloride Tablets in Parkinson’s Disease P
 Discontinuation of Treatment
 
 Pramipexole dihydrochloride tablets may be tapered off at a rate of 0.75 mg per day until the daily dose has been reduced to 0.75 mg.
-Thereafter, the dose may be reduced by 0.375 mg per day [see Warnings and Precautions (5.9)].
+Thereafter, the dose may be reduced by 0.375 mg per day [see Warnings and Precautions (5.10)].
+
+## 2.3 Dosing for Restless Legs Syndrome
+
+The recommended starting dose of pramipexole dihydrochloride tablets is 0.125 mg taken once daily 2 to 3 hours before bedtime.
+For patients requiring additional symptomatic relief, the dose may be increased every 4 to 7 days (Table 3).
+Although the dose of pramipexole dihydrochloride tablets was increased to 0.75 mg in some patients during long-term open-label treatment, there is no evidence that the 0.75 mg dose provides additional benefit beyond the 0.5 mg dose.
+
+1. Table 3 Ascending Dosage Schedule of Pramipexole Dihydrochloride Tablets for RLS
+
+| Titration Step | Duration | Dose (mg) to be taken once daily, 2 to 3 hours before bedtime |
+| --- | --- | --- |
+| 1 | 4 to 7 days | 0.125 |
+| 2* | 4 to 7 days | 0.25 |
+| 3* | 4 to 7 days | 0.5 |
+
+*if needed
+
+Dosing in Patients with Renal Impairment
+
+The duration between titration steps should be increased to 14 days in RLS patients with moderate and severe renal impairment (creatinine clearance 20 to 60 mL/min) [see Clinical Pharmacology (12.3)].
+
+Discontinuation of Treatment
+
+In clinical trials of patients being treated for RLS with doses up to 0.75 mg once daily, pramipexole dihydrochloride tablets were discontinued without a taper.
+In a 26 week placebo-controlled clinical trial, patients reported a worsening of RLS symptom severity as compared to their untreated baseline when pramipexole dihydrochloride treatment was suddenly withdrawn [see Warnings and Precautions (5.10)].

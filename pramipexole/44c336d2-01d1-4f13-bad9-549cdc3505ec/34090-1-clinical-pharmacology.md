@@ -10,6 +10,12 @@ The precise mechanism of action of pramipexole as a treatment for Parkinson's di
 This conclusion is supported by electrophysiologic studies in animals that have demonstrated that pramipexole influences striatal neuronal firing rates via activation of dopamine receptors in the striatum and the substantia nigra, the site of neurons that send projections to the striatum.
 The relevance of D3 receptor binding in Parkinson’s disease is unknown.
 
+Restless Legs Syndrome (RLS)
+
+The precise mechanism of action of pramipexole dihydrochloride tablets as a treatment for RLS is unknown.
+Although the pathophysiology of RLS is largely unknown, neuropharmacological evidence suggests primary dopaminergic system involvement.
+Positron Emission Tomographic (PET) studies suggest that a mild striatal presynaptic dopaminergic dysfunction may be involved in the pathogenesis of RLS.
+
 ## 12.2 Pharmacodynamics
 
 The effect of pramipexole on the QT interval of the ECG was investigated in a clinical study in 60 healthy male and female volunteers.
@@ -69,11 +75,15 @@ Race
 
 No racial differences in metabolism and elimination have been identified.
 
-Parkinson’s Disease Patients
+Parkinson's Disease Patients
 
-A cross-study comparison of data suggests that the clearance of pramipexole may be reduced by about 30% in Parkinson’s disease patients compared with healthy elderly volunteers.
-The reason for this difference appears to be reduced renal function in Parkinson’s disease patients, which may be related to their poorer general health.
-The pharmacokinetics of pramipexole were comparable between early and advanced Parkinson’s disease patients.
+A cross-study comparison of data suggests that the clearance of pramipexole may be reduced by about 30% in Parkinson's disease patients compared with healthy elderly volunteers.
+The reason for this difference appears to be reduced renal function in Parkinson's disease patients, which may be related to their poorer general health.
+The pharmacokinetics of pramipexole were comparable between early and advanced Parkinson's disease patients.
+
+Restless Legs Syndrome Patients
+
+A cross-study comparison of data suggests that the pharmacokinetic profile of pramipexole administered once daily in RLS patients is similar to the pharmacokinetic profile of pramipexole in healthy volunteers.
 
 Hepatic Impairment
 
@@ -82,7 +92,7 @@ Because approximately 90% of the recovered dose is excreted in the urine as unch
 
 Renal Impairment
 
-Clearance of pramipexole was about 75% lower in patients with severe renal impairment (creatinine clearance approximately 20 mL/min) and about 60% lower in patients with moderate impairment (creatinine clearance approximately 40 mL/min) compared with healthy volunteers [see Warnings and Precautions (5.6) and Dosage and Administration (2.2)].
+Clearance of pramipexole was about 75% lower in patients with severe renal impairment (creatinine clearance approximately 20 mL/min) and about 60% lower in patients with moderate impairment (creatinine clearance approximately 40 mL/min) compared with healthy volunteers [see Warnings and Precautions (5.7) and Dosage and Administration (2.2)].
 In patients with varying degrees of renal impairment, pramipexole clearance correlates well with creatinine clearance.
 Therefore, creatinine clearance can be used as a predictor of the extent of decrease in pramipexole clearance.
 
