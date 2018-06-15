@@ -1,4 +1,4 @@
-# Principal Display Panel - Carafate Tablets Label
+# PRINCIPAL DISPLAY PANEL
 
 NDC 58914-171-10
 

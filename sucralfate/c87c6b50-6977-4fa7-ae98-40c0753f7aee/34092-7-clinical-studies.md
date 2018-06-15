@@ -1,23 +1,23 @@
 # CLINICAL TRIALS
 
-## Acute Duodenal Ulcer
+Acute Duodenal Ulcer
 
 Over 600 patients have participated in well-controlled clinical trials worldwide.
 Multicenter trials conducted in the United States, both of them placebo-controlled studies with endoscopic evaluation at 2 and 4 weeks, showed:
 
-| STUDY 1 |  |  |
-| --- | --- | --- |
-| Treatment Groups | Ulcer Healing/ No. Patients |  |
-| 2 wk | 4 wk (Overall) |  |
-| Sucralfate | 37/105 (35.2%) | 82/109 (75.2%) |
-| Placebo | 26/106 (24.5%) | 68/107 (63.6%) |
+STUDY 1
 
-| STUDY 2 |  |  |
-| --- | --- | --- |
 | Treatment Groups | Ulcer Healing/ No. Patients |  |
-| 2 wk | 4 wk (Overall) |  |
-| Sucralfate | 8/24 (33%) | 22/24 (92%) |
-| Placebo | 4/31 (13%) | 18/31 (58%) |
+| --- | --- | --- |
+|  | 2 wk | 4 wk (Overall) |
+| Sucralfate Placebo | 37/105 (35.2%) 26/106 (24.5%) | 82/109 (75.2%) 68/107 (63.6%) |
+
+STUDY 2
+
+| Treatment Groups | Ulcer Healing/ No. Patients |  |
+| --- | --- | --- |
+|  | 2 wk | 4 wk (Overall) |
+| Sucralfate Placebo | 8/24 (33%) 4/31 (13%) | 22/24 (92%) 18/31 (58%) |
 
 The sucralfate-placebo differences were statistically significant in both studies at 4 weeks but not at 2 weeks.
 The poorer result in the first study may have occurred because sucralfate was given 2 hours after meals and at bedtime rather than 1 hour before meals and at bedtime, the regimen used in international studies and in the second United States study.
@@ -32,11 +32,11 @@ Of the 254 patients who enrolled, 239 were analyzed in the intention-to-treat li
 
 | Duodenal Ulcer Recurrence Rate (%) |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Drug | Months of Therapy |  |  |  |  |
-| n | 1 | 2 | 3 | 4 |  |
-| CARAFATE | 122 | 20* | 30* | 38† | 42† |
-| Placebo | 117 | 33 | 46 | 55 | 63 |
-| *P<0.05, †P<0.01 |  |  |  |  |  |
+|  | Months of Therapy |  |  |  |  |
+| Drug | n | 1 | 2 | 3 | 4 |
+| CARAFATE Placebo | 122 117 | 20* 33 | 30* 46 | 38† 55 | 42† 63 |
+
+*P<0.05, †P<0.01
 
 In this study, prn antacids were not permitted.
 
@@ -47,9 +47,9 @@ A life table intention-to-treat analysis for the 94 patients enrolled in the tri
 | Duodenal Ulcer Recurrence Rate (%) |  |  |  |
 | --- | --- | --- | --- |
 | Drug | n | 6 months | 12 months |
-| CARAFATE | 48 | 19* | 27* |
-| Placebo | 46 | 54 | 65 |
-| *P<0.002 |  |  |  |
+| CARAFATE Placebo | 48 46 | 19* 54 | 27* 65 |
+
+*P<0.002
 
 In this study, prn antacids were permitted.
 
