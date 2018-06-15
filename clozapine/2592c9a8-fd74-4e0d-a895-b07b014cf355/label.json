@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA203479"
+  ],
+  "inn": "clozapine",
+  "labeler": "TruPharma, LLC",
+  "package_ndcs": [
+    "52817-601-38"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "clozapine",
+      "name": "VERSACLOZ"
+    }
+  ],
+  "setid": "2592c9a8-fd74-4e0d-a895-b07b014cf355",
+  "source": "dailymed"
+}
