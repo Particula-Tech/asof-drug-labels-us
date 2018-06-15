@@ -1,4 +1,4 @@
-PACKAGE LABEL - PRINCIPAL DISPLAY - Xylocaine ® -MPF 5 mL Ampule Label
+PACKAGE LABEL - PRINCIPAL DISPLAY - Xylocaine®-MPF 5 mL Ampule Label
 
 NDC 63323-490-89
 
