@@ -130,13 +130,10 @@ EVOTAZ can cause serious side effects, including:
   Skin rash usually goes away within 2 weeks without any change in treatment.
   Severe rash may develop with other symptoms which could be serious.
   If you develop a severe rash or a rash with any of the following symptoms, call your healthcare provider or go to the nearest hospital emergency room right away:
-
-| ogeneral feeling of discomfort or “flu-like” symptoms | ored or inflamed eyes, like “pink eye” (conjunctivitis) |
-| --- | --- |
-| ofever | oblisters |
-| omuscle or joint aches | omouth sores |
-| oswelling of your face | opainful, warm, or red lump under your skin |
-
+- ο general feeling of discomfort or “flu-like” symptoms ο red or inflamed eyes, like “pink eye” (conjunctivitis)
+- ο fever ο blisters
+- ο muscle or joint aches ο mouth sores
+- ο swelling of your face ο painful, warm, or red lump under your skin
 - •Kidney problems.
   EVOTAZ, when taken with certain other medicines, can cause new or worse kidney problems, including kidney failure.
   Your healthcare provider should check your kidneys before you start and while you are taking EVOTAZ.
