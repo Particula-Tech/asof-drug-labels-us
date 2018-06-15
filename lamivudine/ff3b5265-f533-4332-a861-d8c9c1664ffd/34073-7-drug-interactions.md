@@ -1,5 +1,12 @@
 # 7 DRUG INTERACTIONS
 
+## 7.1 Drugs Inhibiting Organic Cation Transporters
+
 Lamivudine is predominantly eliminated in the urine by active organic cationic secretion.
 The possibility of interactions with other drugs administered concurrently should be considered, particularly when their main route of elimination is active renal secretion via the organic cationic transport system (e.g., trimethoprim) [see CLINICAL PHARMACOLOGY (12.3)].
 No data are available regarding interactions with other drugs that have renal clearance mechanisms similar to that of lamivudine.
+
+## 7.2 Sorbitol
+
+Coadministration of single doses of lamivudine and sorbitol resulted in a sorbitol dose-dependent reduction in lamivudine exposures.
+When possible, avoid use of sorbitol-containing medicines with lamivudine [see WARNINGS AND PRECAUTIONS (5.6), CLINICAL PHARMACOLOGY (12.3)].

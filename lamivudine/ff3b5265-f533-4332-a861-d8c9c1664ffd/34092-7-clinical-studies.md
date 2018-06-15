@@ -86,5 +86,33 @@ Number of Subjects (%) Reaching a Primary Clinical Endpoint (Disease Progression
 | CDC Clinical Category C | 2 (0.8%) | 8 (3.4%) |
 | Death | 2 (0.8%) | 11 (4.7%) |
 
-Additional pediatric use information for patients aged 3 months and above is approved for ViiV Healthcare Company's EPIVIR® (lamivudine) tablets and oral solution.
-However, due to ViiV Healthcare Company's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Once-Daily Dosing
+
+ARROW (COL105677) was a 5-year randomized, multicenter trial which evaluated multiple aspects of clinical management of HIV-1 infection in pediatric subjects.
+HIV-1-infected, treatment-naïve subjects aged 3 months to 17 years were enrolled and treated with a first-line regimen containing lamivudine and abacavir, dosed twice daily according to World Health Organization recommendations.
+After a minimum of 36 weeks on treatment, subjects were given the option to participate in Randomization 3 of the ARROW trial, comparing the safety and efficacy of once-daily dosing with twice-daily dosing of lamivudine and abacavir, in combination with a third antiretroviral drug, for an additional 96 weeks.
+Of the 1,206 original ARROW subjects, 669 participated in Randomization 3.
+Virologic suppression was not a requirement for participation: at baseline for Randomization 3 (following a minimum of 36 weeks of twice-daily treatment), 75% of subjects in the twice-daily cohort were virologically suppressed, compared with 71% of subjects in the once-daily cohort.
+
+The proportion of subjects with HIV-1 RNA of less than 80 copies per mL through 96 weeks is shown in Table 12.
+The differences between virologic responses in the two treatment arms were comparable across baseline characteristics for gender and age.
+
+Table 12.
+Virologic Outcome of Randomized Treatment at Week 96a (ARROW Randomization 3)
+
+| Outcome | Lamivudine p lus Abacavir Twice-Daily Dosing (n = 333) | Lamivudine p lus Abacavir Once-Daily Dosing (n = 336) |
+| --- | --- | --- |
+| HIV-1 RNA <80 copies/mLb | 70% | 67% |
+| HIV-1 RNA ≥80 copies/mLc | 28% | 31% |
+| No virologic data |  |  |
+| Discontinued due to adverse event or death | 1% | <1% |
+| Discontinued study for other reasonsd | 0% | <1% |
+| Missing data during window but on study | 1% | 1% |
+| a Analyses were based on the last observed viral load data within the Week 96 window. |  |  |
+| b Predicted difference (95% CI) of response rate is -4.5% (-11% to 2%) at Week 96. |  |  |
+| c Includes subjects who discontinued due to lack or loss of efficacy or for reasons other than an |  |  |
+| adverse event or death, and had a viral load value of greater than or equal to 80 copies per mL, or subjects who had a switch in background regimen that was not permitted by the protocol. |  |  |
+| d Other includes reasons such as withdrew consent, loss to follow-up, etc. and the last available HIV-1 RNA less than 80 copies per mL (or missing). |  |  |
+
+Analyses by formulation demonstrated the proportion of subjects with HIV-1 RNA of less than 80 copies per mL at randomization and Week 96 was higher in subjects who had received tablet formulations of lamivudine and abacavir (75% [458/610] and 72% [434/601]) than in those who had received solution formulation(s) (with EPIVIR solution given at weight band-based doses approximating 8 mg per kg per day) at any time (52% [29/56] and 54% [30/56]), respectively [see Warnings and Precautions (5.6)].
+These differences were observed in each different age group evaluated

@@ -2,12 +2,11 @@
 
 The following adverse reactions are discussed in other sections of the labeling:
 
-- Lactic acidosis and severe hepatomegaly with steatosis [see BOXED WARNING, WARNINGS AND PRECAUTIONS (5.1)].
-- Exacerbations of hepatitis B [see BOXED WARNING, WARNINGS AND PRECAUTIONS (5.2)].
+- Exacerbations of hepatitis B [see BOXED WARNING, WARNINGS AND PRECAUTIONS (5.1)].
+- Lactic acidosis and severe hepatomegaly with steatosis [see BOXED WARNING, WARNINGS AND PRECAUTIONS (5.2)].
 - Hepatic decompensation in patients co-infected with HIV-1 and hepatitis C [see WARNINGS AND PRECAUTIONS (5.3)].
 - Pancreatitis [see WARNINGS AND PRECAUTIONS (5.4)].
 - Immune reconstitution syndrome[see WARNINGS AND PRECAUTIONS (5.5)].
-- Fat redistribution[see WARNINGS AND PRECAUTIONS (5.7)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -71,7 +70,7 @@ Frequencies of Selected Grade 3 to 4 Laboratory Abnormalities in Adults in Four 
 | --- | --- | --- | --- | --- |
 | Test (Threshold Level) | Lamivudine plus RETROVIR | RETROVIRb | Lamivudine plus Current Therapyc | Placebo plus Current Therapyc |
 | Absolute neutrophil count (<750/mm3) | 7.2% | 5.4% | 15% | 13% |
-| Hemoglobin (<8 g/dL) | 2.9% | 1.8% | 2.2% | 3.4% |
+| Hemoglobin (<8.0 g/dL) | 2.9% | 1.8% | 2.2% | 3.4% |
 | Platelets (<50,000/mm3) | 0.4% | 1.3% | 2.8% | 3.8% |
 | ALT (>5.0 x ULN) | 3.7% | 3.6% | 3.8% | 1.9% |
 | AST (>5.0 x ULN) | 1.7% | 1.8% | 4.0% | 2.1% |
@@ -142,8 +141,12 @@ Frequencies of Selected Grade 3 to 4 Laboratory Abnormalities in Pediatric Subje
 | Total Amylase (>2.5 x ULN) | 3% | 3% |
 | ULN = Upper limit of normal. |  |  |
 
-Additional pediatric use information for patients aged 3 months and above is approved for ViiV Healthcare Company's EPIVIR® (lamivudine) tablets and oral solution.
-However, due to ViiV Healthcare Company's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Pediatric Subjects Once-Daily versus Twice-Daily Dosing (COL105677)
+
+The safety of once-daily compared with twice-daily dosing of lamivudine was assessed in the ARROW trial.
+Primary safety assessment in the ARROW trial was based on Grade 3 and Grade 4 adverse events.
+The frequency of Grade 3 and 4 adverse events was similar among subjects randomized to once-daily dosing compared with subjects randomized to twice-daily dosing.
+One event of Grade 4 hepatitis in the once-daily cohort was considered as uncertain causality by the investigator and all other Grade 3 or 4 adverse events were considered not related by the investigator.
 
 Neonates
 
@@ -161,7 +164,7 @@ These reactions have been chosen for inclusion due to a combination of their ser
 
 Body as a Whole
 
-Redistribution/accumulation of body fat [see WARNINGS AND PRECAUTIONS (5.7)].
+Redistribution/accumulation of body fat.
 
 Endocrine and Metabolic
 
@@ -177,7 +180,7 @@ Anemia (including pure red cell aplasia and severe anemias progressing on therap
 
 Hepatic and Pancreatic
 
-Lactic acidosis and hepatic steatosis [see WARNINGS AND PRECAUTIONS (5.1)], posttreatment exacerbations of hepatitis B [see WARNINGS AND PRECAUTIONS (5.2)].
+Lactic acidosis and hepatic steatosis [see WARNINGS AND PRECAUTIONS (5.2)], posttreatment exacerbations of hepatitis B [see WARNINGS AND PRECAUTIONS (5.1)].
 
 Hypersensitivity
 
