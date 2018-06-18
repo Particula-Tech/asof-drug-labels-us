@@ -102,3 +102,8 @@ Of the 99 RITUXAN-treated GPA and MPA patients, 36 (36%) were 65 years old and o
 No overall differences in efficacy were observed between patients that were 65 years old and over and younger patients.
 The overall incidence and rate of all serious adverse events was higher in patients 65 years old and over.
 The clinical study did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger subjects.
+
+Pemphigus Vulgaris
+
+Of the 46 patients treated with a non-U.S.-approved rituximab product, 15 (33%) patients were 65 years of age and older.
+The clinical study did not include sufficient numbers of patients aged 65 and older to determine whether they respond differently from younger patients.

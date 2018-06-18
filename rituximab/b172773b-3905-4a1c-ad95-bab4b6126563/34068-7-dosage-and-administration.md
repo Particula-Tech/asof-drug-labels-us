@@ -21,7 +21,7 @@ Continue to monitor for cytopenias after final dose and until resolution.
   In the absence of infusion toxicity, increase infusion rate by 50 mg/hr increments every 30 minutes, to a maximum of 400 mg/hr.
 - Subsequent Infusions: Standard Infusion: Initiate infusion at a rate of 100 mg/hr.
   In the absence of infusion toxicity, increase rate by 100 mg/hr increments at 30-minute intervals, to a maximum of 400 mg/hr.
-  For previously untreated follicular NHL and DLBCL patients: If patients did not experience a Grade 3 or 4 infusion adverse event during Cycle 1, a 90-minute infusion can be administered in Cycle 2 with a glucocorticoid-containing chemotherapy regimen.
+  For previously untreated follicular NHL and DLBCL patients: If patients did not experience a Grade 3 or 4 infusion related adverse event during Cycle 1, a 90-minute infusion can be administered in Cycle 2 with a glucocorticoid-containing chemotherapy regimen.
   Patients who have clinically significant cardiovascular disease or who have a circulating lymphocyte count ≥5000/mm3 before Cycle 2 should not be administered the 90-minute infusion [see Clinical Studies (14.4)].
   - Initiate at a rate of 20% of the total dose given in the first 30 minutes and the remaining 80% of the total dose given over the next 60 minutes.
     If the 90-minute infusion is tolerated in Cycle 2, the same rate can be used when administering the remainder of the treatment regimen (through Cycle 6 or 8).
@@ -66,19 +66,27 @@ The recommended dose is:
   This regimen should begin within 14 days prior to or with the initiation of RITUXAN and may continue during and after the 4 week course of Rituximab treatment.
 - Safety and efficacy of treatment with subsequent courses of RITUXAN have not been established [see Warnings and Precautions (5.14)].
 
-## 2.7 Recommended Premedication and Prophylactic Medications
+## 2.7 Recommended Dose for Pemphigus Vulgaris (PV)
+
+- Administer RITUXAN as two-1000 mg intravenous infusions separated by 2 weeks in combination with a tapering course of glucocorticoids.
+- Maintenance treatment Administer RITUXAN as a 500 mg intravenous infusion at Month 12 and every 6 months thereafter or based on clinical evaluation.
+- Treatment of relapse Administer RITUXAN as a 1000 mg intravenous infusion on relapse, and consider resuming or increasing the glucocorticoid dose based on clinical evaluation.
+
+## 2.8 Recommended Dose for Premedication and Prophylactic Medications
 
 Premedicate with acetaminophen and an antihistamine before each infusion of RITUXAN.
 For patients administered RITUXAN according to the 90-minute infusion rate, the glucocorticoid component of their chemotherapy regimen should be administered prior to infusion [see Clinical Studies (14.4)].
 
-For RA patients, methylprednisolone 100 mg intravenously or its equivalent is recommended 30 minutes prior to each infusion.
+For RA and PV patients, methylprednisolone 100 mg intravenously or its equivalent is recommended 30 minutes prior to each infusion.
 
 For GPA and MPA patients, glucocorticoids are given in combination with RITUXAN [see Dosage and Administration (2.6)].
 Provide prophylaxis treatment for Pneumocystis jirovecii pneumonia (PCP) and herpes virus infections for patients with CLL during treatment and for up to 12 months following treatment as appropriate [see Warnings and Precautions (5.6)].
 
 PCP prophylaxis is also recommended for patients with GPA and MPA during treatment and for at least 6 months following the last RITUXAN infusion.
 
-## 2.8 Administration and Storage
+PCP prophylaxis should be considered for patients with PV during and following RITUXAN treatment.
+
+## 2.9 Administration and Storage
 
 Use appropriate aseptic technique.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration.

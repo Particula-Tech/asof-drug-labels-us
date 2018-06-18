@@ -7,12 +7,11 @@ Severe reactions typically occurred during the first infusion with time to onset
 RITUXAN-induced infusion reactions and sequelae include urticaria, hypotension, angioedema, hypoxia, bronchospasm, pulmonary infiltrates, acute respiratory distress syndrome, myocardial infarction, ventricular fibrillation, cardiogenic shock, anaphylactoid events, or death.
 
 Premedicate patients with an antihistamine and acetaminophen prior to dosing.
-For RA patients, methylprednisolone 100 mg intravenously or its equivalent is recommended 30 minutes prior to each infusion.
+For RA and PV patients, methylprednisolone 100 mg intravenously or its equivalent is recommended 30 minutes prior to each infusion.
 Institute medical management (e.g. glucocorticoids, epinephrine, bronchodilators, or oxygen) for infusion reactions as needed.
 Depending on the severity of the infusion reaction and the required interventions, temporarily or permanently discontinue RITUXAN.
 Resume infusion at a minimum 50% reduction in rate after symptoms have resolved.
-Closely monitor the following patients: those with pre-existing cardiac or pulmonary conditions, those who experienced prior cardiopulmonary adverse reactions, and those with high numbers of circulating malignant cells (≥ 25,000/mm3).
-[see Warnings and Precautions (5.7), Adverse Reactions (6.1)].
+Closely monitor the following patients: those with pre-existing cardiac or pulmonary conditions, those who experienced prior cardiopulmonary adverse reactions, and those with high numbers of circulating malignant cells (≥25,000/mm3) [see Warnings and Precautions (5.7), Adverse Reactions (6.1)].
 
 ## 5.2 Severe Mucocutaneous Reactions
 
@@ -22,7 +21,7 @@ The onset of these reactions has been variable and includes reports with onset o
 Discontinue RITUXAN in patients who experience a severe mucocutaneous reaction.
 The safety of re-administration of RITUXAN to patients with severe mucocutaneous reactions has not been determined.
 
-## 5.3 Hepatitis B Virus Reactivation
+## 5.3 Hepatitis B Virus (HBV) Reactivation
 
 Hepatitis B virus (HBV) reactivation, in some cases resulting in fulminant hepatitis, hepatic failure and death, can occur in patients treated with drugs classified as CD20-directed cytolytic antibodies, including RITUXAN.
 Cases have been reported in patients who are hepatitis B surface antigen (HBsAg) positive and also in patients who are HBsAg negative but are hepatitis B core antibody (anti-HBc) positive.
@@ -67,24 +66,21 @@ Correct electrolyte abnormalities, monitor renal function and fluid balance, and
 
 Serious, including fatal, bacterial, fungal, and new or reactivated viral infections can occur during and following the completion of RITUXAN-based therapy.
 Infections have been reported in some patients with prolonged hypogammaglobulinemia (defined as hypogammaglobulinemia >11 months after rituximab exposure).
-New or reactivated viral infections included cytomegalovirus, herpes simplex virus, parvovirus B19, varicella zoster virus, West Nile virus, and hepatitis B and C. Discontinue RITUXAN for serious infections and institute appropriate anti-infective therapy.
-[see Adverse Reactions (6.1, 6.2)].
+New or reactivated viral infections included cytomegalovirus, herpes simplex virus, parvovirus B19, varicella zoster virus, West Nile virus, and hepatitis B and C. Discontinue RITUXAN for serious infections and institute appropriate anti-infective therapy [see Adverse Reactions (6.1, 6.2)].
 RITUXAN is not recommended for use in patients with severe, active infections.
 
 ## 5.7 Cardiovascular Adverse Reactions
 
 Cardiac adverse reactions, including ventricular fibrillation, myocardial infarction, and cardiogenic shock may occur in patients receiving RITUXAN.
 Discontinue infusions for serious or life-threatening cardiac arrhythmias.
-Perform cardiac monitoring during and after all infusions of RITUXAN for patients who develop clinically significant arrhythmias, or who have a history of arrhythmia or angina.
-[see Adverse Reactions (6.1)].
+Perform cardiac monitoring during and after all infusions of RITUXAN for patients who develop clinically significant arrhythmias, or who have a history of arrhythmia or angina [see Adverse Reactions (6.1)].
 
 ## 5.8 Renal Toxicity
 
 Severe, including fatal, renal toxicity can occur after RITUXAN administration in patients with NHL.
 Renal toxicity has occurred in patients who experience tumor lysis syndrome and in patients with NHL administered concomitant cisplatin therapy during clinical trials.
 The combination of cisplatin and RITUXAN is not an approved treatment regimen.
-Monitor closely for signs of renal failure and discontinue RITUXAN in patients with a rising serum creatinine or oliguria.
-[see Warnings and Precautions (5.5)].
+Monitor closely for signs of renal failure and discontinue RITUXAN in patients with a rising serum creatinine or oliguria [see Warnings and Precautions (5.5)].
 
 ## 5.9 Bowel Obstruction and Perforation
 
@@ -115,11 +111,11 @@ Based on human data, RITUXAN can cause fetal harm due to B-cell lymphocytopenia 
 Advise pregnant women of the risk to a fetus.
 Females of childbearing potential should use effective contraception while receiving RITUXAN and for 12 months following the last dose of RITUXAN.
 
-## 5.12 Concomitant Use with Other Biologic Agents and DMARDS other than Methotrexate in RA, GPA and MPA
+## 5.12 Concomitant Use with Other Biologic Agents and DMARDS other than Methotrexate in RA, GPA and MPA, PV
 
 Limited data are available on the safety of the use of biologic agents or disease modifying antirheumatic drugs (DMARDs) other than methotrexate in RA patients exhibiting peripheral B-cell depletion following treatment with rituximab.
 Observe patients closely for signs of infection if biologic agents and/or DMARDs are used concomitantly.
-Use of concomitant immunosuppressants other than corticosteroids has not been studied in GPA or MPA patients exhibiting peripheral B-cell depletion following treatment with RITUXAN.
+Use of concomitant immunosuppressants other than corticosteroids has not been studied in GPA or MPA or PV patients exhibiting peripheral B-cell depletion following treatment with RITUXAN.
 
 ## 5.13 Use in RA Patients Who Have Not Had Prior Inadequate Response to Tumor Necrosis Factor (TNF) Antagonists
 

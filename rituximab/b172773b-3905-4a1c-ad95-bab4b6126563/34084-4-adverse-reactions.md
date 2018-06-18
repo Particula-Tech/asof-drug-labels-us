@@ -37,7 +37,7 @@ In patients with previously untreated follicular NHL or previously untreated DLB
 For Cycles 2-8, the incidence of Grade 3-4 infusion reactions on the day of or day after the 90-minute infusion, was 2.8% (95% CI [1.3%, 5.0%]).
 [see Warnings and Precautions (5.1), Clinical Studies (14.4)].
 
-▪ Infections
+Infections
 
 Serious infections (NCI CTCAE Grade 3 or 4), including sepsis, occurred in less than 5% of patients with NHL in the single-arm studies.
 The overall incidence of infections was 31% (bacterial 19%, viral 10%, unknown 6%, and fungal 1%).
@@ -289,7 +289,7 @@ Table 3 Incidence of All Adverse Reactions Occurring in ≥ 10% of RITUXAN-treat
 
 Infusion Reactions
 
-Infusion reactions in the active-controlled, double-blind study were defined as any adverse event occurring within 24 hours of an infusion and considered to be infusion by investigators.
+Infusion reactions in the active-controlled, double-blind study were defined as any adverse event occurring within 24 hours of an infusion and considered to be infusion-related by investigators.
 Among the 99 patients treated with RITUXAN, 12% experienced at least one infusion reaction, compared with 11% of the 98 patients in the cyclophosphamide group.
 Infusion reactions included cytokine release syndrome, flushing, throat irritation, and tremor.
 In the RITUXAN group, the proportion of patients experiencing an infusion reaction was 12%, 5%, 4%, and 1% following the first, second, third, and fourth infusions, respectively.
@@ -313,7 +313,58 @@ Retreatment in Patients with GPA and MPA
 In the active-controlled, double-blind study, subsequent courses of RITUXAN were allowed for patients experiencing a relapse of disease.
 The limited data preclude any conclusions regarding the safety of subsequent courses of RITUXAN with GPA and MPA [see Dosage and Administration (2.6), and Warnings and Precautions (5.14)].
 
-## 6.4 Immunogenicity
+## 6.4 Clinical Trials Experience in Pemphigus Vulgaris (PV)
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+A non-U.S.-approved rituximab product in combination with short-term prednisone was compared to that of prednisone monotherapy in a randomized, controlled, multicenter open-label study of 90 patients (74 Pemphigus Vulgaris [PV] patients and 16 Pemphigus Foliaceus [PF] patients) [see Clinical Studies (14.8)].
+Safety results for the PV patient population during the 24-month treatment period are described below.
+
+The safety profile of the non-U.S.-approved rituximab product in patients with PV was consistent with that observed in patients with RITUXAN-treated RA and GPA and MPA [see Adverse Reactions (6.2 and 6.3)].
+
+Adverse reactions presented below in Table 4 were adverse events which occurred at a rate ≥5% among PV patients treated with a non-U.S.-approved rituximab product and with at least 2% absolute difference in incidence between the group treated with a non-U.S.-approved rituximab product and the prednisone monotherapy group up to Month 24.
+No patients in the group treated with a non-U.S.-approved rituximab product withdrew due to adverse reactions.
+The clinical study did not include sufficient number of patients to allow for direct comparison of adverse reaction rates between treatment groups.
+
+Table 4 Incidence of All Adverse Reactions Occurring in ≥ 5% Among PV Patients treated with a non-U.S.-approved rituximab product and with at Least 2% Absolute Difference in Incidence Between the Group treated with a non-U.S.-approved rituximab product with Short-term Prednisone and the Group Treated with Prednisone Monotherapy in the Clinical Study Up to Month 24
+
+| Adverse Reactions | A non-U.S.-approved rituximab product + short-term prednisone N=38 n (%) | Prednisone N=36 n (%) |
+| --- | --- | --- |
+| Infusion reactionsInfusion reactions included symptoms collected on the next scheduled visit after each infusion, and adverse reactions occurring on the day of or one day after the infusion. The most common infusion reactions included headaches, chills, high blood pressure, nausea, asthenia, and pain. | 22 (58%) | N/A |
+| Depression | 7 (18%) | 4 (11%) |
+| Herpes simplex | 5 (13%) | 1 (3%) |
+| Alopecia | 5 (13%) | 0 (0%) |
+| Fatigue | 3 (8%) | 2 (6%) |
+| Abdominal pain upper | 2 (5%) | 1 (3%) |
+| Conjunctivitis | 2 (5%) | 0 (0%) |
+| Dizziness | 2 (5%) | 0 (0%) |
+| Headache | 2 (5%) | 1 (3%) |
+| Herpes zoster | 2 (5%) | 1 (3%) |
+| Irritability | 2 (5%) | 0 (0%) |
+| Musculoskeletal pain | 2 (5%) | 0 (0%) |
+| Pruritus | 2 (5%) | 0 (0%) |
+| Pyrexia | 2 (5%) | 0 (0%) |
+| Skin disorder | 2 (5%) | 0 (0%) |
+| Skin papilloma | 2 (5%) | 0 (0%) |
+| Tachycardia | 2 (5%) | 0 (0%) |
+| Urticaria | 2 (5%) | 0 (0%) |
+| N/A = not applicable |  |  |
+
+Infusion Reactions
+
+Infusion reactions were the most commonly reported adverse drug reactions (58%, 22 patients).
+All infusion reactions were mild to moderate (Grade 1 or 2) except one Grade 3 serious infusion reaction (arthralgia) associated with the Month 12 maintenance infusion.
+The proportion of patients experiencing an infusion reaction was 29% (11 patients), 40% (15 patients), 13% (5 patients), and 10% (4 patients) following the first, second, third, and fourth infusions, respectively.
+No patients were withdrawn from treatment due to infusion reactions.
+Symptoms of infusion reactions were similar in type and severity to those seen in RA and GPA and MPA patients [see Adverse Reactions (6.2 and 6.3)].
+
+Infections
+
+Fourteen patients (37%) in the group treated with a non-U.S.-approved rituximab product experienced treatment-related infections compared to 15 patients (42%) in the prednisone group.
+The most common infections in the group treated with a non-U.S.-approved rituximab product were herpes simplex, herpes zoster, bronchitis, urinary tract infection, fungal infection, and conjunctivitis.
+Three patients (8%) in the group treated with a non-U.S.-approved rituximab product experienced a total of 5 serious infections (Pneumocystis jirovecii pneumonia, infective thrombosis, intervertebral discitis, lung infection, Staphylococcal sepsis) and 1 patient (3%) in the prednisone group experienced 1 serious infection (Pneumocystis jirovecii pneumonia).
+
+## 6.5 Immunogenicity
 
 As with all therapeutic proteins, there is a potential for immunogenicity.
 The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
@@ -331,7 +382,10 @@ Four anti-rituximab antibody positive patients had serious infusion reactions, a
 A total of 23/99 (23%) RITUXAN-treated patients with GPA and MPA tested positive for anti-rituximab antibodies by 18 months.
 The clinical relevance of anti-rituximab antibody formation in RITUXAN-treated patients is unclear.
 
-## 6.5 Postmarketing Experience
+Using a new ELISA assay, a total of 19/34 (56%) patients with PV, who were treated with a non-U.S.-approved rituximab product, tested positive for anti-rituximab antibodies by 18 months.
+The clinical relevance of anti-rituximab antibody formation in RITUXAN-treated PV patients is unclear.
+
+## 6.6 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of RITUXAN.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

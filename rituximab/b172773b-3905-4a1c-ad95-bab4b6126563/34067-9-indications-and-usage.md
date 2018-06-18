@@ -20,3 +20,7 @@ RITUXAN in combination with methotrexate is indicated for the treatment of adult
 ## 1.4 Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA)
 
 RITUXAN, in combination with glucocorticoids, is indicated for the treatment of adult patients with Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA).
+
+## 1.5 Pemphigus Vulgaris (PV)
+
+RITUXAN is indicated for the treatment of adult patients with moderate to severe pemphigus vulgaris.
