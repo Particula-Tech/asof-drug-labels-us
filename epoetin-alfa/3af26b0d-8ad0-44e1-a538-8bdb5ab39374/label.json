@@ -1,0 +1,29 @@
+{
+  "application_numbers": [
+    "BLA125545"
+  ],
+  "inn": "epoetin-alfa",
+  "labeler": "Pfizer Laboratories Div Pfizer Inc",
+  "package_ndcs": [
+    "0069-1305-01",
+    "0069-1305-10",
+    "0069-1306-01",
+    "0069-1306-10",
+    "0069-1307-01",
+    "0069-1307-10",
+    "0069-1308-01",
+    "0069-1308-10",
+    "0069-1309-01",
+    "0069-1309-04",
+    "0069-1309-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "epoetin alfa-epbx",
+      "name": "RETACRIT"
+    }
+  ],
+  "setid": "3af26b0d-8ad0-44e1-a538-8bdb5ab39374",
+  "source": "dailymed"
+}
