@@ -2,16 +2,16 @@
 
 Estrogens should not be used in individuals with any of the following conditions:
 
-1. 1.Undiagnosed abnormal genital bleeding.
-2. 2.Known, suspected or history of cancer of the breast except in appropriately selected patients being treated for metastatic disease.
-3. 3.Known or suspected estrogen-dependent neoplasia.
-4. 4.Active deep vein thrombosis, pulmonary embolism or history of these conditions.
-5. 5.Active or recent (e.g., within the past year) arterial thromboembolic disease (e.g., stroke, myocardial infarction.
-6. 6.Liver dysfunction or disease.
-7. 7.Estradiol tablets should not be used in patients with known hypersensitivity to its ingredients.
+1. Undiagnosed abnormal genital bleeding.
+2. Known, suspected or history of cancer of the breast except in appropriately selected patients being treated for metastatic disease.
+3. Known or suspected estrogen-dependent neoplasia.
+4. Active deep vein thrombosis, pulmonary embolism or history of these conditions.
+5. Active or recent (e.g., within the past year) arterial thromboembolic disease (e.g., stroke, myocardial infarction.
+6. Liver dysfunction or disease.
+7. Estradiol tablets should not be used in patients with known hypersensitivity to its ingredients.
    Estradiol tablets 2 mg contain FD&C Yellow No. 5 (tartrazine) which may cause allergic-type reactions (including bronchial asthma) in certain susceptible individuals.
    Although the overall incidence of FD&C Yellow No. 5 (tartrazine) sensitivity in the general population is low, it is frequently seen in patients who also have aspirin hypersensitivity.
-8. 8.Known or suspected pregnancy.
+8. Known or suspected pregnancy.
    There is no indication for estradiol tablets in pregnancy.
    There appears to be little or no increased risk of birth defects in children born to women who have used estrogens and progestins from oral contraceptives inadvertently during early pregnancy.
    (See PRECAUTIONS.)

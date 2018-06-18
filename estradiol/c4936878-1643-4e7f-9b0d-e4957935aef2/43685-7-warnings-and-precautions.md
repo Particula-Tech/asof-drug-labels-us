@@ -2,14 +2,15 @@
 
 See BOXED WARNINGS.
 
-## 1. Cardiovascular disorders
+1.
+Cardiovascular disorders
 
 Estrogen and estrogen/progestin therapy has been associated with an increased risk of cardiovascular events such as myocardial infarction and stroke, as well as venous thrombosis and pulmonary embolism (venous thromboembolism or VTE).
 Should any of these occur or be suspected estrogens should be discontinued immediately.
 
 Risk factors for arterial vascular disease (e.g., hypertension, diabetes mellitus, tobacco use, hypercholesterolemia, and obesity) and/or venous thromboembolism (e.g., personal history or family history of VTE, obesity, and systemic lupus erythematosus) should be managed appropriately.
 
-### a. Coronary heart disease and stroke
+a. Coronary heart disease and stroke
 
 In the Women’s Health Initiative (WHI) study, an increase in the number of myocardial infarctions and strokes has been observed in women receiving CE compared to placebo.
 These observations are preliminary, and the study is continuing.
@@ -30,21 +31,22 @@ Rates of CHD events were comparable among women in the CE/MPA group and the plac
 
 Large doses of estrogen (5 mg conjugated estrogens per day), comparable to those used to treat cancer of the prostate and breast, have been shown in a large prospective clinical trial in men to increase the risks of nonfatal myocardial infarction, pulmonary embolism, and thrombophlebitis.
 
-### b. Venous thromboembolism (VTE)
+b. Venous thromboembolism (VTE)
 
 In the Women’s Health Initiative (WHI) study, an increase in VTE has been observed in women receiving CE compared to placebo.
 These observations are preliminary, and the study is continuing.
 (See CLINICAL PHARMACOLOGY, Clinical Studies.)
 
-In the CE/MPA substudy of WHI, a 2‑fold greater rate of VTE, including deep venous thrombosis and pulmonary embolism, was observed in women receiving CE/MPA compared to women receiving placebo.
-The rate of VTE was 34 per 10,000 women‑years in the CE/MPA group compared to 16 per 10,000 women‑years in the placebo group.
+In the CE/MPA substudy of WHI, a 2­fold greater rate of VTE, including deep venous thrombosis and pulmonary embolism, was observed in women receiving CE/MPA compared to women receiving placebo.
+The rate of VTE was 34 per 10,000 women­years in the CE/MPA group compared to 16 per 10,000 women­years in the placebo group.
 The increase in VTE risk was observed during the first year and persisted.
 
 If feasible, estrogens should be discontinued at least 4 to 6 weeks before surgery of the type associated with an increased risk of thromboembolism, or during periods of prolonged immobilization.
 
-## 2. Malignant neoplasms
+2.
+Malignant neoplasms
 
-### a. Endometrial cancer
+a. Endometrial cancer
 
 The use of unopposed estrogens in women with intact uteri has been associated with an increased risk of endometrial cancer.
 The reported endometrial cancer risk among unopposed estrogen users is about 2- to 12- fold greater than in non-users, and appears dependent on duration of treatment and on estrogen dose.
@@ -56,7 +58,7 @@ Adequate diagnostic measures, including endometrial sampling when indicated, sho
 There is no evidence that the use of natural estrogens results in a different endometrial risk profile than synthetic estrogens of equivalent estrogen dose.
 Adding a progestin to estrogen therapy has been shown to reduce the risk of endometrial hyperplasia, which may be a precursor to endometrial cancer.
 
-### b. Breast cancer
+b. Breast cancer
 
 The use of estrogens and progestins by postmenopausal women has been reported to increase the risk of breast cancer.
 The most important randomized clinical trial providing information about this issue is the Women’s Health Initiative (WHI) substudy of CE/MPA (see CLINICAL PHARMACOLOGY, Clinical Studies).
@@ -80,7 +82,20 @@ The use of estrogen plus progestin has been reported to result in an increase in
 All women should receive yearly breast examinations by a healthcare provider and perform monthly breast self-examinations.
 In addition, mammography examinations should be scheduled based on patient age, risk factors, and prior mammogram results.
 
-### 3. Dementia
+c. Ovarian cancer
+
+The WHI estrogen plus progestin substudy reported a statistically non-significant increased risk of ovarian cancer.
+After an average follow-up of 5.6 years, the relative risk for ovarian cancer for CE plus MPA versus placebo was 1.58 (95 percent CI, 0.77 to 3.24).
+The absolute risk for CE plus MPA versus placebo was 4 versus 3 cases per 10,000 women-years.
+
+A meta-analysis of 17 prospective and 35 retrospective epidemiology studies found that women who used hormonal therapy for menopausal symptoms had an increased risk for ovarian cancer.
+The primary analysis, using case-control comparisons, included 12,110 cancer cases from the 17 prospective studies.
+The relative risks associated with current use of hormonal therapy was 1.41 (95% confidence interval [CI] 1.32 to 1.50); there was no difference in the risk estimates by duration of the exposure (less than 5 years [median of 3 years] vs. greater than 5 years [median of 10 years] of use before the cancer diagnosis).
+The relative risk associated with combined current and recent use (discontinued use within 5 years before cancer diagnosis) was 1.37 (95% CI 1.27 to 1.48), and the elevated risk was significant for both estrogen-alone and estrogen plus progestin products.
+The exact duration of hormone therapy use associated with an increased risk of ovarian cancer, however, is unknown.
+
+3.
+Dementia
 
 In the Women’s Health Initiative Memory Study (WHIMS), 4,532 generally healthy postmenopausal women 65 years of age and older were studied, of whom 35% were 70 to 74 years of age and 18% were 75 or older.
 After an average follow-up of 4 years, 40 women being treated with CE/MPA (1.8%, n = 2,229) and 21 women in the placebo group (0.9%, n = 2,303) received diagnoses of probable dementia.
@@ -91,16 +106,19 @@ It is unknown whether these findings apply to younger postmenopausal women.
 
 It is unknown whether these findings apply to estrogen alone therapy.
 
-### 4. Gallbladder disease
+4.
+Gallbladder disease
 
 A 2- to 4-fold increase in the risk of gallbladder disease requiring surgery in postmenopausal women receiving estrogens has been reported.
 
-### 5. Hypercalcemia
+5.
+Hypercalcemia
 
 Estrogen administration may lead to severe hypercalcemia in patients with breast cancer and bone metastases.
 If hypercalcemia occurs, use of the drug should be stopped and appropriate measures taken to reduce the serum calcium level.
 
-### 6. Visual abnormalities
+6.
+Visual abnormalities
 
 Retinal vascular thrombosis has been reported in patients receiving estrogens.
 Discontinue medication pending examination if there is sudden partial or complete loss of vision, or a sudden onset of proptosis, diplopia or migraine.
@@ -151,21 +169,13 @@ Because estrogens may cause some degree of fluid retention, patients with condit
 
 Estrogens should be used with caution in individuals with severe hypocalcemia.
 
-### 8. Ovarian cancer
-
-The CE/MPA substudy of WHI reported that estrogen plus progestin increased the risk of ovarian cancer.
-After an average follow-up of 5.6 years, the relative risk for ovarian cancer for CE/MPA versus placebo was 1.58 (95% confidence interval 0.77 to 3.24) but was not statistically significant.
-The absolute risk for CE/MPA versus placebo was 4.2 versus 2.7 cases per 10,000 women-years.
-In some epidemiologic studies, the use of estrogen alone, in particular for ten or more years, has been associated with an increased risk of ovarian cancer.
-Other epidemiologic studies have not found these associations.
-
-### 9. Exacerbation of endometriosis
+### 8. Exacerbation of endometriosis
 
 Endometriosis may be exacerbated with administration of estrogens.
 A few cases of malignant transformation of residual endometrial implants have been reported in women treated post-hysterectomy with estrogen alone therapy.
 For patients known to have residual endometriosis post-hysterectomy, the addition of progestin should be considered.
 
-### 10. Exacerbation of other conditions
+### 9. Exacerbation of other conditions
 
 Estrogens may cause an exacerbation of asthma, diabetes mellitus, epilepsy, migraine or porphyria, systemic lupus erythematosus, and hepatic hemangiomas and should be used with caution in women with these conditions.
 
@@ -183,17 +193,17 @@ Estrogen administration should be initiated at the lowest dose approved for the 
 
 #### D. Drug/Laboratory Test Interactions
 
-1. 1.Accelerated prothrombin time, partial thromboplastin time, and platelet aggregation time; increased platelet count; increased factors II, VII antigen, VIII antigen, VIII coagulant activity, IX, X, XII, VII-X complex, II-VII-X complex, and beta-thromboglobulin; decreased levels of anti-factor Xa and antithrombin III, decreased antithrombin III activity; increased levels of fibrinogen and fibrinogen activity; increased plasminogen antigen and activity.
-2. 2.Increased thyroid-binding globulin (TBG) leading to increased circulating total thyroid hormone, as measured by protein-bound iodine (PBI), T4 levels (by column or by radioimmunoassay) or T3 levels by radioimmunoassay.
+1. Accelerated prothrombin time, partial thromboplastin time, and platelet aggregation time; increased platelet count; increased factors II, VII antigen, VIII antigen, VIII coagulant activity, IX, X, XII, VII-X complex, II-VII-X complex, and beta-thromboglobulin; decreased levels of anti-factor Xa and antithrombin III, decreased antithrombin III activity; increased levels of fibrinogen and fibrinogen activity; increased plasminogen antigen and activity.
+2. Increased thyroid-binding globulin (TBG) leading to increased circulating total thyroid hormone, as measured by protein-bound iodine (PBI), T4 levels (by column or by radioimmunoassay) or T3 levels by radioimmunoassay.
    T3 resin uptake is decreased, reflecting the elevated TBG.
    Free T4 and free T3 concentrations are unaltered.
    Patients on thyroid replacement therapy may require higher doses of thyroid hormone.
-3. 3.Other binding proteins may be elevated in serum, i.e., corticosteroid binding globulin (CBG), sex hormone-binding globulin (SHBG), leading to increased circulating corticosteroids and sex steroids, respectively.
+3. Other binding proteins may be elevated in serum, i.e., corticosteroid binding globulin (CBG), sex hormone-binding globulin (SHBG), leading to increased circulating corticosteroids and sex steroids, respectively.
    Free hormone concentrations may be decreased.
    Other plasma proteins may be increased (angiotensinogen/renin substrate, alpha-1-antitrypsin, ceruloplasmin).
-4. 4.Increased plasma HDL and HDL2 subfraction concentrations, reduced LDL cholesterol concentration, increased triglycerides levels.
-5. 5.Impaired glucose tolerance.
-6. 6.Reduced response to metyrapone test.
+4. Increased plasma HDL and HDL2 subfraction concentrations, reduced LDL cholesterol concentration, increased triglycerides levels.
+5. Impaired glucose tolerance.
+6. Reduced response to metyrapone test.
 
 #### E. Carcinogenesis, Mutagenesis, Impairment of Fertility
 

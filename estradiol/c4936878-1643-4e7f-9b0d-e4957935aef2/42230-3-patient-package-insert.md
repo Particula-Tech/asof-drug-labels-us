@@ -6,7 +6,7 @@ Read this PATIENT INFORMATION before you start taking estradiol and read what yo
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
-| WHAT IS THE MOST IMPORTANT INFORMATION I SHOULD KNOW ABOUT ESTRADIOL TABLETS (AN ESTROGEN HORMONE)? •Estrogens increase the chances of getting cancer of the uterus. Report any unusual vaginal bleeding right away while you are taking estrogens. Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your healthcare provider should check any unusual vaginal bleeding to find out the cause. •Do not use estrogens with or without progestins to prevent heart disease, heart attacks, or strokes. Using estrogens with or without progestins may increase your chances of getting heart attacks, strokes, breast cancer, and blood clots. Using estrogens with progestins may increase your risk of dementia. You and your healthcare provider should talk regularly about whether you still need treatment with estradiol tablets. |
+| WHAT IS THE MOST IMPORTANT INFORMATION I SHOULD KNOW ABOUT ESTRADIOL TABLETS (AN ESTROGEN HORMONE)? Estrogens increase the chances of getting cancer of the uterus. Report any unusual vaginal bleeding right away while you are taking estrogens. Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your healthcare provider should check any unusual vaginal bleeding to find out the cause. Do not use estrogens with or without progestins to prevent heart disease, heart attacks, or strokes. Using estrogens with or without progestins may increase your chances of getting heart attacks, strokes, breast cancer, and blood clots. Using estrogens with progestins may increase your risk of dementia. You and your healthcare provider should talk regularly about whether you still need treatment with estradiol tablets. |
 | --- |
 
 WHAT ARE ESTRADIOL TABLETS?
@@ -17,7 +17,7 @@ WHAT IS ESTRADIOL USED FOR?
 
 Estradiol is used to:
 
-- •reduce moderate to severe hot flashes
+- reduce moderate to severe hot flashes
 
 Estrogens are hormones made by a woman's ovaries.
 Between ages 45 and 55, the ovaries normally stop making estrogens.
@@ -33,15 +33,15 @@ You and your healthcare provider should talk regularly about whether you still n
 Weight-bearing exercise, like walking or running, and taking calcium with vitamin D supplements may also lower your chances for getting postmenopausal osteoporosis.
 It is important to talk about exercise and supplements with your healthcare provider before starting them.
 
-- •treat dryness, itching, and burning in or around the vagina, difficulty or burning on urination associated with menopause
+- treat dryness, itching, and burning in or around the vagina, difficulty or burning on urination associated with menopause
 
 You and your healthcare provider should talk regularly about whether you still need treatment with estradiol to control these problems.
 If you use estradiol only to treat your dryness, itching, and burning in and around your vagina, talk with your healthcare provider about whether a topical vaginal product would be better for you.
 
-- •treat certain conditions in which a young woman's ovaries do not produce enough estrogen naturally
-- •treat certain types of abnormal vaginal bleeding due to hormonal imbalance when your doctor has found no serious cause of the bleeding
-- •treat certain cancers in special situations, in men and women
-- •prevent thinning of bones
+- treat certain conditions in which a young woman's ovaries do not produce enough estrogen naturally
+- treat certain types of abnormal vaginal bleeding due to hormonal imbalance when your doctor has found no serious cause of the bleeding
+- treat certain cancers in special situations, in men and women
+- prevent thinning of bones
 
 Osteoporosis from menopause is a thinning of the bones that makes them weaker and easier to break.
 If you use estradiol only to prevent osteoporosis from menopause, talk with your healthcare provider about whether a different treatment or medicine without estrogens might be better for you.
@@ -51,48 +51,48 @@ WHO SHOULD NOT USE ESTRADIOL?
 
 Do not start taking estradiol if you:
 
-- •have unusual vaginal bleeding which has not been evaluated by your doctor (see BOXED WARNINGS)
+- have unusual vaginal bleeding which has not been evaluated by your doctor (see BOXED WARNINGS)
 
 Unusual vaginal bleeding can be a warning sign of cancer of the uterus, especially if it happens after menopause.
 Your doctor must find out the cause of the bleeding so that he or she can recommend the proper treatment.
 Taking estrogens without visiting your doctor can cause you serious harm if your vaginal bleeding is caused by cancer of the uterus.
 
-- •currently have or have had certain cancers
+- currently have or have had certain cancers
 
 Estrogens may increase the risk of certain types of cancer, including cancer of the breast or uterus.
 If you have or had cancer, talk with your healthcare provider about whether you should take estradiol.
 
 (For certain patients with breast or prostate cancer, estrogens may help.)
 
-- •had a stroke or heart attack in the past year
-- •currently have or have had blood clots
-- •have or have had liver problems
-- •are allergic to estradiol tablets or any of its ingredients
+- had a stroke or heart attack in the past year
+- currently have or have had blood clots
+- have or have had liver problems
+- are allergic to estradiol tablets or any of its ingredients
 
 See the end of this leaflet for a list of ingredients in estradiol tablets.
 
 Estradiol tablets 2 mg contain tartrazine which may cause allergic-type reactions (including bronchial asthma) in certain susceptible individuals.
 Although the overall incidence of FD&C Yellow No. 5 (tartrazine) sensitivity in the general population is low, it is frequently seen in patients who also have aspirin hypersensitivity.
 
-- •think you may be pregnant
+- think you may be pregnant
 
 Tell your healthcare provider:
 
-- •if you are breast feeding
+- if you are breast feeding
 
 The hormone in estradiol can pass into your milk
 
-- •about all of your medical problems
+- about all of your medical problems
 
 Your healthcare provider may need to check you more carefully if you have certain conditions, such as asthma (wheezing), epilepsy (seizures), migraine, endometriosis, lupus, problems with your heart, liver, thyroid, kidneys, or have high calcium levels in your blood.
 
-- •about all the medicines you take
+- about all the medicines you take
 
 This includes prescription and nonprescription medicines, vitamins, and herbal supplements.
 Some medicines may affect how estradiol tablets work.
 Estradiol tablets may also affect how your other medicines work.
 
-- •if you are going to have surgery or will be on bed rest
+- if you are going to have surgery or will be on bed rest
 
 You may need to stop taking estrogens.
 
@@ -109,48 +109,48 @@ WHAT ARE THE POSSIBLE SIDE EFFECTS OF ESTROGENS?
 
 Less common but serious side effects include:
 
-- •Breast cancer
-- •Cancer of the uterus
-- •Stroke
-- •Heart attack
-- •Blood clots
-- •Dementia
-- •Gallbladder disease
-- •Ovarian cancer
+- Breast cancer
+- Cancer of the uterus
+- Stroke
+- Heart attack
+- Blood clots
+- Dementia
+- Gallbladder disease
+- Ovarian cancer
 
 These are some of the warning signs of the serious side effects:
 
-- •Breast lumps
-- •Unusual vaginal bleeding
-- •Dizziness and faintness
-- •Changes in speech
-- •Severe headaches
-- •Chest pain
-- •Shortness of breath
-- •Pains in your legs
-- •Changes in vision
-- •Vomiting
+- Breast lumps
+- Unusual vaginal bleeding
+- Dizziness and faintness
+- Changes in speech
+- Severe headaches
+- Chest pain
+- Shortness of breath
+- Pains in your legs
+- Changes in vision
+- Vomiting
 
 Call your healthcare provider right away if you get any of these warning signs, or any other unusual symptom that concerns you.
 
 Common side effects include:
 
-- •Headache
-- •Breast pain
-- •Irregular vaginal bleeding or spotting
-- •Stomach/abdominal cramps, bloating
-- •Nausea and vomiting
-- •Hair loss
+- Headache
+- Breast pain
+- Irregular vaginal bleeding or spotting
+- Stomach/abdominal cramps, bloating
+- Nausea and vomiting
+- Hair loss
 
 Other side effects include:
 
-- •High blood pressure
-- •Liver problems
-- •High blood sugar
-- •Fluid retention
-- •Enlargement of benign tumors (“fibroids”) of the uterus
-- •A spotty darkening of the skin, particularly on the face
-- •Vaginal yeast infection
+- High blood pressure
+- Liver problems
+- High blood sugar
+- Fluid retention
+- Enlargement of benign tumors (“fibroids”) of the uterus
+- A spotty darkening of the skin, particularly on the face
+- Vaginal yeast infection
 
 These are not all the possible side effects of estradiol tablets.
 For more information, ask your healthcare provider or pharmacist.
@@ -159,7 +159,7 @@ WHAT CAN I DO TO LOWER MY CHANCES OF A SERIOUS SIDE EFFECT WITH ESTRADIOL?
 
 If you use estrogens, you can reduce your risks by doing these things:
 
-- •Talk with your healthcare provider:
+- Talk with your healthcare provider:
 
 1.
 While you are using estrogens, it is important to visit your doctor at least once a year for a check-up.
@@ -182,7 +182,7 @@ Ask your healthcare provider for ways to lower your chances for getting heart di
 Talk with your healthcare provider regularly about whether you should continue taking estradiol tablets.
 You and your doctor should reevaluate whether or not you still need estrogens at least every six months.
 
-- •Be alert for signs of trouble
+- Be alert for signs of trouble
 
 If any of these warning signals (or any other unusual symptoms) happen while you are using estrogens, call your doctor immediately:
 
