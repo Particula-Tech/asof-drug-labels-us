@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Clinical Studies Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -62,7 +62,7 @@ Adverse Reactions Reported in at Least 2% of Paget's Patients Receiving Zoledron
 Laboratory Findings
 
 In the Paget's disease trials, early, transient decreases in serum calcium and phosphate levels were observed.
-Approximately 21% of patients had serum calcium levels less than 8.4 mg/dL 9-11 days following Zoledronic Acid Injection administration.
+Approximately 21% of patients had serum calcium levels less than 8.4 mg/dL 9 to 11 days following Zoledronic Acid Injection administration.
 
 Renal Impairment
 
@@ -106,6 +106,10 @@ Asthma exacerbations have been reported.
 Hypocalcemia
 
 Hypocalcemia has been reported.
+
+Hypophosphatemia
+
+Hypophosphatemia has been reported.
 
 Osteonecrosis of the Jaw
 

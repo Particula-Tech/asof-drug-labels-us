@@ -8,7 +8,7 @@ Zoledronic Acid Injection is supplied as follows:
 
 Handling
 
-After entering the IV administration port, the solution is stable for 24 hours at 2°-8°C (36°-46°F).
+After entering the IV administration port, the solution is stable for 24 hours at 2° to 8°C (36° to 46°F).
 If refrigerated, allow the refrigerated solution to reach room temperature before administration.
 
 Storage Conditions

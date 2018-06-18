@@ -14,7 +14,7 @@ The relatively long duration of action of zoledronic acid is attributable to its
 
 Pharmacokinetic data in patients with Paget's disease of bone are not available.
 
-Distribution: Single or multiple (q 28 days) 5-minute or 15-minute infusions of 2, 4, 8 or 16 mg zoledronic acid were given to 64 patients with cancer and bone metastases.
+Distribution: Single or multiple (every 28 days) 5-minute or 15-minute infusions of 2, 4, 8 or 16 mg zoledronic acid were given to 64 patients with cancer and bone metastases.
 The post-infusion decline of zoledronic acid concentrations in plasma was consistent with a triphasic process showing a rapid decrease from peak concentrations at end-of-infusion to less than 1% of Cmax 24 hours post infusion with population half-lives of t1/2α 0.24 hour and t1/2β 1.87 hours for the early disposition phases of the drug.
 The terminal elimination phase of zoledronic acid was prolonged, with very low concentrations in plasma between Days 2 and 28 post infusion, and a terminal elimination half-life t1/2γ of 146 hours.
 The area under the plasma concentration versus time curve (AUC0-24h) of zoledronic acid was dose proportional from 2 to 16 mg.
@@ -29,9 +29,9 @@ In animal studies, less than 3% of the administered intravenous dose was found i
 Following an intravenous dose of 20 nCi 14C-zoledronic acid in a patient with cancer and bone metastases, only a single radioactive species with chromatographic properties identical to those of parent drug was recovered in urine, which suggests that zoledronic acid is not metabolized.
 
 Excretion: In 64 patients with cancer and bone metastases on average (± SD) 39 ± 16% of the administered zoledronic acid dose was recovered in the urine within 24 hours, with only trace amounts of drug found in urine post Day 2.
-The cumulative percent of drug excreted in the urine over 0-24 hours was independent of dose.
-The balance of drug not recovered in urine over 0-24 hours, representing drug presumably bound to bone, is slowly released back into the systemic circulation, giving rise to the observed prolonged low plasma concentrations.
-The 0-24 hour renal clearance of zoledronic acid was 3.7 ± 2.0 L/h.
+The cumulative percent of drug excreted in the urine over 0 to 24 hours was independent of dose.
+The balance of drug not recovered in urine over 0 to 24 hours, representing drug presumably bound to bone, is slowly released back into the systemic circulation, giving rise to the observed prolonged low plasma concentrations.
+The 0 to 24 hour renal clearance of zoledronic acid was 3.7 ± 2.0 L/h.
 
 Zoledronic acid clearance was independent of dose but dependent upon the patient's creatinine clearance.
 In a study in patients with cancer and bone metastases, increasing the infusion time of a 4 mg dose of zoledronic acid from 5 minutes (n=5) to 15 minutes (n=7) resulted in a 34% decrease in the zoledronic acid concentration at the end of the infusion ([mean ± SD] 403 ± 118 ng/mL vs. 264 ± 86 ng/mL) and a 10% increase in the total AUC (378 ± 116 ng x h/mL vs. 420 ± 218 ng x h/mL).
@@ -48,6 +48,6 @@ Race: The pharmacokinetics of zoledronic acid was not affected by race in patien
 Hepatic Impairment: No clinical studies were conducted to evaluate the effect of hepatic impairment on the pharmacokinetics of zoledronic acid.
 
 Renal Impairment: The pharmacokinetic studies conducted in 64 cancer patients represented typical clinical populations with normal to moderately-impaired renal function.
-Compared to patients with creatinine clearance greater than 80 mL/min (N=37), patients with creatinine clearance = 50-80 mL/min (N=15) showed an average increase in plasma AUC of 15%, whereas patients with creatinine clearance = 30-50 mL/min (N=11) showed an average increase in plasma AUC of 43%.
+Compared to patients with creatinine clearance greater than 80 mL/min (N=37), patients with creatinine clearance = 50 to 80 mL/min (N=15) showed an average increase in plasma AUC of 15%, whereas patients with creatinine clearance = 30 to 50 mL/min (N=11) showed an average increase in plasma AUC of 43%.
 No dosage adjustment is required in patients with a creatinine clearance of greater than or equal to 35 mL/min.
 Zoledronic Acid Injection is contraindicated in patients with creatinine clearance less than 35 mL/min and in those with evidence of acute renal impairment due to an increased risk of renal failure [see Contraindications (4), Warnings and Precautions (5.3), Use in Specific Populations (8.6)].

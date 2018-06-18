@@ -36,7 +36,7 @@ Because many drugs are excreted in human milk, and because Zoledronic Acid Injec
 Zoledronic Acid Injection is not indicated for use in children.
 
 The safety and effectiveness of zoledronic acid was studied in a one-year active controlled trial of 152 pediatric subjects (74 receiving zoledronic acid).
-The enrolled population was subjects with severe osteogenesis imperfecta, aged 1-17 years, 55% male, 84% Caucasian, with a mean lumbar spine BMD of 0.431 gm/cm2, which is 2.7 standard deviations below the mean for age-matched controls (BMD Z-score of -2.7).
+The enrolled population was subjects with severe osteogenesis imperfecta, aged 1 to 17 years, 55% male, 84% Caucasian, with a mean lumbar spine BMD of 0.431 gm/cm2, which is 2.7 standard deviations below the mean for age-matched controls (BMD Z-score of -2.7).
 At one year, increases in BMD were observed in the zoledronic acid treatment group.
 However, changes in BMD in individual patients with severe osteogenesis imperfecta did not necessarily correlate with the risk for fracture or the incidence or severity of chronic bone pain.
 The adverse events observed with zoledronic acid use in children did not raise any new safety findings beyond those previously seen in adults treated for Paget's disease of bone including osteonecrosis of the jaw (ONJ) and renal impairment.
@@ -45,7 +45,7 @@ These reactions, excluding arthralgia, occurred most frequently within three day
 No cases of ONJ or renal impairment were observed in this study.
 Because of long-term retention in bone, Zoledronic Acid Injection should only be used in children if the potential benefit outweighs the potential risk.
 
-Plasma zoledronic acid concentration data was obtained from 10 patients with severe osteogenesis imperfecta (4 in the age group of 3-8 years and 6 in the age group of 9-17 years) infused with 0.05 mg/kg dose over 30 minutes.
+Plasma zoledronic acid concentration data was obtained from 10 patients with severe osteogenesis imperfecta (4 in the age group of 3 to 8 years and 6 in the age group of 9 to 17 years) infused with 0.05 mg/kg dose over 30 minutes.
 Mean Cmax and AUC(0-last) was 167 ng/mL and 220 ng.h/mL respectively.
 The plasma concentration time profile of zoledronic acid in pediatric patients represent a multi-exponential decline, as observed in adult cancer patients at an approximately equivalent mg/kg dose.
 
@@ -60,7 +60,7 @@ Because decreased renal function occurs more commonly in the elderly, special ca
 Zoledronic Acid Injection is contraindicated in patients with creatinine clearance less than 35 mL/min and in those with evidence of acute renal impairment.
 There are no safety or efficacy data to support the adjustment of the Zoledronic Acid Injection dose based on baseline renal function.
 Therefore, no dosage adjustment is required in patients with a creatinine clearance of greater than or equal to 35 mL/min [see Warnings and Precautions (5.3), Clinical Pharmacology (12.3)].
-Risk of acute renal failure may increase with underlying renal disease and dehydration secondary to fever, sepsis, gastrointestinal losses, diuretic therapy, advanced age, etc. [see Post-Marketing Experience (6.2)].
+Risk of acute renal failure may increase with underlying renal disease and dehydration secondary to fever, sepsis, gastrointestinal losses, diuretic therapy, advanced age, etc. [see Adverse Reactions (6.2)].
 
 ## 8.7 Hepatic Impairment
 

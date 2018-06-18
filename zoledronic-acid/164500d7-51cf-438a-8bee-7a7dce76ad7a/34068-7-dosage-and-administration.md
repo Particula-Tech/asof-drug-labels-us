@@ -47,4 +47,4 @@ The intravenous infusion should be followed by a 10 mL normal saline flush of th
 Zoledronic Acid Injection solution for infusion must not be allowed to come in contact with any calcium or other divalent cation-containing solutions, and should be administered as a single intravenous solution through a separate infusion line.
 
 If refrigerated, allow the refrigerated solution to reach room temperature before administration.
-After opening, the solution is stable for 24 hours at 2°C – 8°C (36°F - 46°F) [see How Supplied/Storage and Handling (16)].
+After opening, the solution is stable for 24 hours at 2°C to 8°C (36°F to 46°F) [see How Supplied/Storage and Handling (16)].
