@@ -1,14 +1,18 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommended Dosage and Schedule for Non-Squamous NSCLC
+## 2.1 Recommended Dosage for Non-Squamous NSCLC
 
-- The recommended dose of ALIMTA in combination with cisplatin for initial treatment of NSCLC in patients with a creatinine clearance (calculated by Cockcroft-Gault equation) of 45 mL/min or greater is 500 mg/m2 as an intravenous infusion over 10 minutes administered prior to cisplatin on Day 1 of each 21-day cycle for up to six cycles in the absence of disease progression or unacceptable toxicity.
+- The recommended dose of ALIMTA when administered with cisplatin for initial treatment of NSCLC in patients with a creatinine clearance (calculated by Cockcroft-Gault equation) of 45 mL/min or greater is 500 mg/m2 as an intravenous infusion over 10 minutes administered prior to cisplatin on Day 1 of each 21-day cycle for up to six cycles in the absence of disease progression or unacceptable toxicity.
 - The recommended dose of ALIMTA for maintenance treatment of NSCLC in patients with a creatinine clearance (calculated by Cockcroft-Gault equation) of 45 mL/min or greater is 500 mg/m2 as an intravenous infusion over 10 minutes on Day 1 of each 21-day cycle until disease progression or unacceptable toxicity after four cycles of platinum-based first-line chemotherapy.
 - The recommended dose of ALIMTA for treatment of recurrent NSCLC in patients with a creatinine clearance (calculated by Cockcroft-Gault equation) of 45 mL/min or greater is 500 mg/m2 as an intravenous infusion over 10 minutes on Day 1 of each 21-day cycle until disease progression or unacceptable toxicity.
+- The recommended dose of ALIMTA when administered with carboplatin and pembrolizumab for the initial treatment of NSCLC in patients with a creatinine clearance (calculated by Cockcroft-Gault equation) of 45 mL/min or greater is 500 mg/m2 administered as an intravenous infusion over 10 minutes prior to carboplatin on Day 1 of each 21-day cycle for 4 cycles.
+  Following completion of platinum-based therapy, ALIMTA may be administered as maintenance therapy, alone or with pembrolizumab, until disease progression or unacceptable toxicity.
+  Pembrolizumab should be administered prior to ALIMTA when given on the same day.
+  Please refer to the full prescribing information for pembrolizumab and for carboplatin.
 
-## 2.2 Recommended Dosage and Schedule for Mesothelioma
+## 2.2 Recommended Dosage for Mesothelioma
 
-- The recommended dose of ALIMTA, administered in combination with cisplatin, in patients with a creatinine clearance (calculated by Cockcroft-Gault equation) of 45 mL/min or greater is 500 mg/m2 as an intravenous infusion over 10 minutes on Day 1 of each 21-day cycle until disease progression or unacceptable toxicity.
+- The recommended dose of ALIMTA when administered with cisplatin in patients with a creatinine clearance (calculated by Cockcroft-Gault equation) of 45 mL/min or greater is 500 mg/m2 as an intravenous infusion over 10 minutes on Day 1 of each 21-day cycle until disease progression or unacceptable toxicity.
 
 ## 2.3 Renal Impairment
 
@@ -67,7 +71,7 @@ Table 1: Recommended Dosage Modifications for Adverse Reactionsa
 | Recurrent Grade 3 or 4 non-hematologic toxicity after 2 dose reductions | Permanently discontinue |
 | Severe and life-threatening Skin Toxicity [see Warnings and Precautions (5.3)] | Permanently discontinue |
 | Interstitial Pneumonitis [see Warnings and Precautions (5.4)] | Permanently discontinue |
-| a National Cancer Institute Common Toxicity Criteria for Adverse Events version 2 (NCI CTCAE v2) |  |
+| a National Cancer Institute Common Toxicity Criteria for Adverse Events version 2 (NCI CTCAE v2). |  |
 
 ## 2.7 Preparation for Administration
 

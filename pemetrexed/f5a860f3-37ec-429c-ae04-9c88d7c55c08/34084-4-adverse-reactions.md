@@ -132,7 +132,7 @@ Table 3: Adverse Reactions Occurring in ≥5% of Patients Receiving ALIMTA in St
 | Sensory neuropathy | 9 | 1 | 4 | 0 |
 | Dermatology/Skin |  |  |  |  |
 | Rash/desquamation | 10 | 0 | 3 | 0 |
-| a NCI CTCAE version 3.0 |  |  |  |  |
+| a NCI CTCAE version 3.0. |  |  |  |  |
 
 The requirement for transfusions (9.5% versus 3.2%), primarily red blood cell transfusions, and for erythropoiesis stimulating agents (5.9% versus 1.8%) were higher in the ALIMTA arm compared to the placebo arm.
 
@@ -198,7 +198,7 @@ Table 4: Adverse Reactions Occurring in ≥5% of Patients Receiving ALIMTA in PA
 | Mucositis/stomatitis | 5 | 0.3 | 2.4 | 0 |
 | General disorders |  |  |  |  |
 | Edema | 5 | 0 | 3.6 | 0 |
-| a NCI CTCAE version 3.0 |  |  |  |  |
+| a NCI CTCAE version 3.0. |  |  |  |  |
 
 The requirement for red blood cell (13% versus 4.8%) and platelet (1.5% versus 0.6%) transfusions, erythropoiesis stimulating agents (12% versus 7%), and granulocyte colony stimulating factors (6% versus 0%) were higher in the ALIMTA arm compared to the placebo arm.
 
@@ -285,6 +285,82 @@ Cardiovascular — supraventricular arrhythmias
 
 Renal — renal failure
 
+First-line Treatment of Non-squamous NSCLC, with Carboplatin and Pembrolizumab
+
+The safety of ALIMTA administered with carboplatin and pembrolizumab was investigated in a randomized (1:1) open-label cohort in Study KEYNOTE-021.
+Patients with previously untreated, metastatic non-squamous NSCLC received ALIMTA with carboplatin and pembrolizumab (n=59) or ALIMTA with carboplatin alone (n=62).
+Patients with autoimmune disease that required systemic therapy within 2 years of treatment; a medical condition that required immunosuppression; or who had received more than 30 Gy of thoracic radiation within the prior 26 weeks were ineligible [see Clinical Studies (14.1)].
+
+The median number of cycles of ALIMTA was 11 (range, 1-24).
+The study population characteristics were: median age of 64 years (range: 37 to 80), 48% age 65 years or older, 39% Male, 87% White and 8% Asian, 97% with metastatic disease, and 12% with brain metastases.
+
+ALIMTA was discontinued for adverse reactions in 9% of patients.
+The most common adverse reaction resulting in discontinuation of ALIMTA (≥2%) was acute kidney injury (3.4%).
+Adverse reactions leading to interruption of ALIMTA occurred in 36% of patients; the most common (≥2%) were fatigue (9%), neutrophil count decreased (9%), anemia (7%), dyspnea (3.4%), and pneumonitis (3.4%).
+
+Table 6 summarizes the adverse reactions that occurred in at least 20% of patients in KEYNOTE-021.
+KEYNOTE-021 was not designed to demonstrate a statistically significant difference in adverse reactions between study arms for any specified reaction listed in Table 6.
+
+Table 6: Adverse Reactions Occurring in ≥20% of Patients in KEYNOTE-021
+
+|  | ALIMTA Carboplatin Pembrolizumab n=59 |  | ALIMTA Carboplatin n=62 |  |
+| --- | --- | --- | --- | --- |
+| Adverse Reaction | All Gradesa Toxicity (%) | Grade 3-4a Toxicity (%) | All Gradesa Toxicity (%) | Grades 3-4a Toxicity (%) |
+| General Disorders and Administration Site Conditions |  |  |  |  |
+| Fatigue | 71 | 3.4 | 50 | 0 |
+| Peripheral Edema | 22 | 0 | 18 | 0 |
+| Gastrointestinal Disorders |  |  |  |  |
+| Nausea | 68 | 1.7 | 56 | 0 |
+| Constipation | 51 | 0 | 37 | 1.6 |
+| Vomiting | 39 | 1.7 | 27 | 0 |
+| Diarrhea | 37 | 1.7 | 23 | 1.6 |
+| Skin and Subcutaneous Tissue Disorders |  |  |  |  |
+| Rashb | 42 | 1.7 | 21 | 1.6 |
+| Pruritus | 24 | 0 | 4.8 | 0 |
+| Alopecia | 20 | 0 | 3.2 | 0 |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |
+| Dyspnea | 39 | 3.4 | 21 | 0 |
+| Cough | 24 | 0 | 18 | 0 |
+| Metabolism and Nutrition Disorders |  |  |  |  |
+| Decreased Appetite | 31 | 0 | 23 | 0 |
+| Nervous System Disorders |  |  |  |  |
+| Headache | 31 | 0 | 16 | 1.6 |
+| Dizziness | 24 | 0 | 16 | 0 |
+| Dysgeusia | 20 | 0 | 11 | 0 |
+| Psychiatric Disorders |  |  |  |  |
+| Insomnia | 24 | 0 | 15 | 0 |
+| Infections and Infestations |  |  |  |  |
+| Upper respiratory tract infection | 20 | 0 | 3.2 | 0 |
+| Musculoskeletal and Connective Tissue Disorders |  |  |  |  |
+| Arthralgia | 15 | 0 | 24 | 1.6 |
+| a Graded per NCI CTCAE v4.0. |  |  |  |  |
+| b Includes rash, rash generalized, rash macular, rash maculo-papular, and rash pruritic. |  |  |  |  |
+
+Table 7: Laboratory Abnormalities Worsened from Baseline in ≥20% of Patients in KEYNOTE-021
+
+|  | ALIMTA Carboplatin Pembrolizumab |  | ALIMTA Carboplatin |  |
+| --- | --- | --- | --- | --- |
+| Laboratory Testa | All Gradesb Toxicity (%) | Grade 3-4b Toxicity (%) | All Gradesb Toxicity (%) | Grades 3-4b Toxicity (%) |
+| Chemistry |  |  |  |  |
+| Hyperglycemia | 74 | 9 | 61 | 5 |
+| Lymphocytes decreased | 53 | 23 | 60 | 28 |
+| Aspartate aminotransferase increased | 51 | 3.5 | 46 | 1.7 |
+| Hypertriglyceridemia | 50 | 0 | 43 | 0 |
+| Alanine aminotransferase increased | 40 | 3.5 | 32 | 1.7 |
+| Creatinine increased | 34 | 3.4 | 19 | 1.7 |
+| Hyponatremia | 33 | 5 | 35 | 3.5 |
+| Hypoalbuminemia | 32 | 0 | 31 | 0 |
+| Hypocalcemia | 30 | 5 | 19 | 1.7 |
+| Hypokalemia | 29 | 5 | 22 | 1.7 |
+| Hypophosphatemia | 29 | 5 | 24 | 11 |
+| Alkaline phosphatase increased | 28 | 0 | 9 | 0 |
+| Hematology |  |  |  |  |
+| Hemoglobin decreased | 83 | 17 | 84 | 19 |
+| Neutrophils decreased | 47 | 14 | 43 | 8 |
+| Platelets decreased | 24 | 9 | 36 | 10 |
+| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: ALIMTA carboplatin pembrolizumab (range: 56 to 58 patients) and ALIMTA carboplatin (range: 55 to 61 patients). |  |  |  |  |
+| b Graded per NCI CTCAE v 4.0. |  |  |  |  |
+
 Mesothelioma
 
 The safety of ALIMTA was evaluated in Study JMCH, a randomized (1:1), single-blind study conducted in patients with MPM who had received no prior chemotherapy for MPM.
@@ -301,10 +377,10 @@ The median number of treatment cycles administered was 6 in the ALIMTA/cisplatin
 Patients receiving ALIMTA in the fully supplemented group had a relative dose intensity of 93% of the protocol-specified ALIMTA dose intensity.
 The most common adverse reaction resulting in dose delay was neutropenia.
 
-Table 6 provides the frequency and severity of adverse reactions ≥5% in the subgroup of ALIMTA-treated patients who were fully vitamin supplemented in Study JMCH.
+Table 8 provides the frequency and severity of adverse reactions ≥5% in the subgroup of ALIMTA-treated patients who were fully vitamin supplemented in Study JMCH.
 Study JMCH was not designed to demonstrate a statistically significant reduction in adverse reaction rates for ALIMTA, as compared to the control arm, for any specified adverse reaction listed in the table below.
 
-Table 6: Adverse Reactions Occurring in ≥5% of Fully Supplemented Subgroup of Patients Receiving ALIMTA/Cisplatin in Study JMCHa
+Table 8: Adverse Reactions Occurring in ≥5% of Fully Supplemented Subgroup of Patients Receiving ALIMTA/Cisplatin in Study JMCHa
 
 | Adverse Reactionb | ALIMTA/cisplatin (N=168) |  | Cisplatin (N=163) |  |
 | --- | --- | --- | --- | --- |
@@ -338,8 +414,8 @@ Table 6: Adverse Reactions Occurring in ≥5% of Fully Supplemented Subgroup of 
 | Dermatology/Skin |  |  |  |  |
 | Rash | 16 | 1 | 5 | 0 |
 | Alopecia | 11 | 0 | 6 | 0 |
-| a In Study JMCH, 226 patients received at least one dose of ALIMTA in combination with cisplatin and 222 patients received at least one dose of cisplatin. Table 6 provides the ADRs for subgroup of patients treated with ALIMTA in combination with cisplatin (168 patients) or cisplatin alone (163 patients) who received full supplementation with folic acid and vitamin B12 during study therapy. |  |  |  |  |
-| b NCI CTCAE version 2.0 |  |  |  |  |
+| a In Study JMCH, 226 patients received at least one dose of ALIMTA in combination with cisplatin and 222 patients received at least one dose of cisplatin. Table 8 provides the ADRs for subgroup of patients treated with ALIMTA in combination with cisplatin (168 patients) or cisplatin alone (163 patients) who received full supplementation with folic acid and vitamin B12 during study therapy. |  |  |  |  |
+| b NCI CTCAE version 2.0. |  |  |  |  |
 
 The following additional adverse reactions were observed in patients receiving ALIMTA plus cisplatin:
 
@@ -363,9 +439,9 @@ Neurology — motor neuropathy
 
 Exploratory Subgroup Analyses based on Vitamin Supplementation
 
-Table 7 provides the results of exploratory analyses of the frequency and severity of NCI CTCAE Grade 3 or 4 adverse reactions reported in more ALIMTA-treated patients who did not receive vitamin supplementation (never supplemented) as compared with those who received vitamin supplementation with daily folic acid and vitamin B12 from the time of enrollment in Study JMCH (fully-supplemented).
+Table 9 provides the results of exploratory analyses of the frequency and severity of NCI CTCAE Grade 3 or 4 adverse reactions reported in more ALIMTA-treated patients who did not receive vitamin supplementation (never supplemented) as compared with those who received vitamin supplementation with daily folic acid and vitamin B12 from the time of enrollment in Study JMCH (fully-supplemented).
 
-Table 7: Exploratory Subgroup Analysis of Selected Grade 3/4 Adverse Reactions Occurring in Patients Receiving ALIMTA in Combination with Cisplatin with or without Full Vitamin Supplementation in Study JMCHa
+Table 9: Exploratory Subgroup Analysis of Selected Grade 3/4 Adverse Reactions Occurring in Patients Receiving ALIMTA in Combination with Cisplatin with or without Full Vitamin Supplementation in Study JMCHa
 
 | Grade 3-4 Adverse Reactions | Fully Supplemented Patients N=168 (%) | Never Supplemented Patients N=32 (%) |
 | --- | --- | --- |
@@ -375,7 +451,7 @@ Table 7: Exploratory Subgroup Analysis of Selected Grade 3/4 Adverse Reactions O
 | Febrile neutropenia | 1 | 9 |
 | Infection with Grade 3/4 neutropenia | 0 | 6 |
 | Diarrhea | 4 | 9 |
-| a NCI CTCAE version 2.0 |  |  |
+| a NCI CTCAE version 2.0. |  |  |
 
 The following adverse reactions occurred more frequently in patients who were fully vitamin supplemented than in patients who were never supplemented:
 
