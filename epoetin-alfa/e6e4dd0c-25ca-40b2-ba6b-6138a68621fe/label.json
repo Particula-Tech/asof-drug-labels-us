@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "BLA125545"
+  ],
+  "inn": "epoetin-alfa",
+  "labeler": "Vifor (International) Inc.",
+  "package_ndcs": [
+    "59353-002-01",
+    "59353-002-10",
+    "59353-003-01",
+    "59353-003-10",
+    "59353-004-01",
+    "59353-004-10",
+    "59353-010-01",
+    "59353-010-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "epoetin alfa-epbx",
+      "name": "RETACRIT"
+    }
+  ],
+  "setid": "e6e4dd0c-25ca-40b2-ba6b-6138a68621fe",
+  "source": "dailymed"
+}
