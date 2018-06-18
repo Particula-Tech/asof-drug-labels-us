@@ -1,11 +1,15 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Patient Selection for Treatment of NSCLC or Gastric Cancer
+## 2.1 Patient Selection for Treatment of NSCLC, Gastric Cancer, or Cervical Cancer
 
-Select patients for treatment of metastatic NSCLC with KEYTRUDA as a single agent based on the presence of positive PD-L1 expression [see Clinical Studies (14.2)].
-Select patients for treatment of metastatic gastric cancer with KEYTRUDA as a single agent based on the presence of positive PD-L1 expression [see Clinical Studies (14.7)].
-If PD-L1 expression is not detected in an archival gastric cancer specimen, evaluate the feasibility of obtaining a tumor biopsy for PD-L1 testing.
-Information on FDA-approved tests for the detection of PD-L1 expression in NSCLC or in gastric cancer is available at: http://www.fda.gov/CompanionDiagnostics.
+Select patients for treatment with KEYTRUDA as a single agent based on the presence of positive PD-L1 expression in:
+
+- metastatic NSCLC [see Clinical Studies (14.2)].
+- metastatic gastric cancer [see Clinical Studies (14.7)].
+  If PD-L1 expression is not detected in an archival gastric cancer specimen, evaluate the feasibility of obtaining a tumor biopsy for PD-L1 testing.
+- recurrent or metastatic cervical cancer [see Clinical Studies (14.8)]
+
+Information on FDA-approved tests for the detection of PD-L1 expression in NSCLC, gastric cancer, or cervical cancer is available at: http://www.fda.gov/CompanionDiagnostics.
 
 ## 2.2 Recommended Dosage for Melanoma
 
@@ -42,7 +46,11 @@ The recommended dose of KEYTRUDA in children is 2 mg/kg (up to a maximum of 200 
 
 The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression [see Clinical Studies (14.7)].
 
-## 2.9 Dose Modifications
+## 2.9 Recommended Dosage for Cervical Cancer
+
+The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression [see Clinical Studies (14.8)].
+
+## 2.10 Dose Modifications
 
 Withhold KEYTRUDA for any of the following:
 
@@ -70,7 +78,7 @@ Permanently discontinue KEYTRUDA for any of the following:
 - Persistent Grade 2 or 3 adverse reactions (excluding endocrinopathies controlled with hormone replacement therapy) that do not recover to Grade 0-1 within 12 weeks after last dose of KEYTRUDA
 - Any severe or Grade 3 treatment-related adverse reaction that recurs [see Warnings and Precautions (5.7)]
 
-## 2.10 Preparation and Administration
+## 2.11 Preparation and Administration
 
 Reconstitution of KEYTRUDA for Injection (Lyophilized Powder)
 

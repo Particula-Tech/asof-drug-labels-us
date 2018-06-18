@@ -56,3 +56,10 @@ KEYTRUDA is indicated for the treatment of patients with recurrent locally advan
 
 This indication is approved under accelerated approval based on tumor response rate and durability of response.
 Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
+
+## 1.8 Cervical Cancer
+
+KEYTRUDA is indicated for the treatment of patients with recurrent or metastatic cervical cancer with disease progression on or after chemotherapy whose tumors express PD-L1 (CPS ≥1) as determined by an FDA-approved test [see Clinical Studies (14.8)].
+
+This indication is approved under accelerated approval based on tumor response rate and durability of response.
+Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.

@@ -8,8 +8,8 @@ For patent information: www.merck.com/product/patent/home.html
 
 The trademarks depicted herein are owned by their respective companies.
 
-Copyright © 2014-2017 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc.
+Copyright © 2014-2018 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc.
 
 All rights reserved.
 
-uspi-mk3475-iv-1711r014
+uspi-mk3475-iv-1806r015

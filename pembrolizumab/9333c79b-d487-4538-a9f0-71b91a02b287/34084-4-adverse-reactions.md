@@ -20,7 +20,7 @@ In addition, these data reflect exposure to KEYTRUDA in a non-randomized, open-l
 Across all studies, KEYTRUDA was administered at doses of 2 mg/kg intravenously every 3 weeks, 10 mg/kg intravenously every 2 weeks, 10 mg/kg intravenously every 3 weeks, or 200 mg intravenously every 3 weeks.
 Among the 2799 patients, 41% were exposed for 6 months or more and 21% were exposed for 12 months or more.
 
-The data described in this section were obtained in five randomized, open-label, active-controlled clinical trials (KEYNOTE-002, KEYNOTE-006, KEYNOTE-010, KEYNOTE-021, and KEYNOTE-045) in which KEYTRUDA was administered to 912 patients with melanoma, 741 patients with NSCLC, and 542 patients with urothelial carcinoma, and four non-randomized, open-label trials (KEYNOTE-012, KEYNOTE-087, KEYNOTE-052 and KEYNOTE-059) in which KEYTRUDA was administered to 192 patients with HNSCC, 210 patients with cHL, 370 patients with urothelial carcinoma, and 259 patients with gastric cancer.
+The data described in this section were obtained in five randomized, open-label, active-controlled clinical trials (KEYNOTE-002, KEYNOTE-006, KEYNOTE-010, KEYNOTE-021, and KEYNOTE-045) in which KEYTRUDA was administered to 912 patients with melanoma, 741 patients with NSCLC, and 542 patients with urothelial carcinoma, and five non-randomized, open-label trials (KEYNOTE-012, KEYNOTE-087, KEYNOTE-052, KEYNOTE-059, and KEYNOTE-158) in which KEYTRUDA was administered to 192 patients with HNSCC, 210 patients with cHL, 370 patients with urothelial carcinoma, 259 patients with gastric cancer, and 98 patients with cervical cancer.
 In these trials, KEYTRUDA was administered at 2 mg/kg every 3 weeks, 200 mg every 3 weeks, or 10 mg/kg every 2 or 3 weeks.
 
 Melanoma
@@ -481,6 +481,74 @@ Among the 259 patients with gastric cancer enrolled in Study KEYNOTE-059, the me
 Patients with autoimmune disease or a medical condition that required immunosuppression or with clinical evidence of ascites by physical exam were ineligible.
 
 Adverse reactions occurring in patients with gastric cancer were similar to those occurring in patients with melanoma or NSCLC.
+
+Cervical Cancer
+
+Among the 98 patients with cervical cancer enrolled in Cohort E of Study KEYNOTE-158, the median duration of exposure to KEYTRUDA was 2.9 months (range: 1 day to 22.1 months).
+Patients with autoimmune disease or a medical condition that required immunosuppression were ineligible.
+
+KEYTRUDA was discontinued due to adverse reactions in 8% of patients.
+Serious adverse reactions occurred in 39% of patients receiving KEYTRUDA.
+The most frequent serious adverse reactions reported included anemia (7%), fistula (4.1%), hemorrhage (4.1%), and infections [except UTIs] (4.1%).
+
+Table 14 summarizes the adverse reactions occurring in at least 10% of patients receiving KEYTRUDA.
+
+Table 14: Adverse Reactions Occurring in ≥10% of Patients with Cervical Cancer in KEYNOTE-158
+
+| Adverse Reaction | All GradesGraded per NCI CTCAE v4.0 (%) | Grades 3 – 4 (%) |
+| --- | --- | --- |
+|  | KEYTRUDA 200 mg every 3 weeks N=98 |  |
+| General Disorders and Administration Site Conditions |  |  |
+| FatigueIncludes asthenia, fatigue, lethargy, malaise | 43 | 5 |
+| PainIncludes breast pain, cancer pain, dysesthesia, dysuria, ear pain, gingival pain, groin pain, lymph node pain, oropharyngeal pain, pain, pain of skin, pelvic pain, radicular pain, stoma site pain, toothache | 22 | 2.0 |
+| Pyrexia | 19 | 1.0 |
+| Edema peripheralIncludes edema peripheral, peripheral swelling | 15 | 2.0 |
+| Musculoskeletal and Connective Tissue Disorders |  |  |
+| Musculoskeletal painIncludes arthralgia, back pain, musculoskeletal chest pain, musculoskeletal pain, myalgia, myositis, neck pain, non-cardiac chest pain, pain in extremity | 27 | 5 |
+| Gastrointestinal Disorders |  |  |
+| DiarrheaIncludes colitis, diarrhea, gastroenteritis | 23 | 2.0 |
+| Abdominal painIncludes abdominal discomfort, abdominal distension, abdominal pain, abdominal pain lower, abdominal pain upper | 22 | 3.1 |
+| Nausea | 19 | 0 |
+| Vomiting | 19 | 1.0 |
+| Constipation | 14 | 0 |
+| Metabolism and Nutrition Disorders |  |  |
+| Decreased appetite | 21 | 0 |
+| Vascular Disorders |  |  |
+| Hemorrhageincludes epistaxis, hematuria, hemoptysis, metrorrhagia, rectal hemorrhage, uterine hemorrhage, vaginal hemorrhage | 19 | 5 |
+| Infections and Infestations |  |  |
+| UTIIncludes bacterial pyelonephritis, pyelonephritis acute, urinary tract infection, urinary tract infection bacterial, urinary tract infection pseudomonal, urosepsis | 18 | 6 |
+| Infection (except UTI)Includes cellulitis, clostridium difficile infection, device-related infection, empyema, erysipelas, herpes virus infection, infected neoplasm, infection, influenza, lower respiratory tract congestion, lung infection, oral candidiasis, oral fungal infection, osteomyelitis, pseudomonas infection, respiratory tract infection, tooth abscess, upper respiratory tract infection, uterine abscess, vulvovaginal candidiasis | 16 | 4.1 |
+| Skin and Subcutaneous Tissue Disorders |  |  |
+| Rashincludes dermatitis, drug eruption, eczema, erythema, palmar-plantar erythrodysesthesia syndrome, rash, rash generalized, rash maculo-papular | 17 | 2.0 |
+| Endocrine Disorders |  |  |
+| Hypothyroidism | 11 | 0 |
+| Nervous System Disorders |  |  |
+| Headache | 11 | 2.0 |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |
+| Dyspnea | 10 | 1.0 |
+
+Table 15 summarizes the laboratory abnormalities that occurred in at least 20% of patients receiving KEYTRUDA.
+
+Table 15: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of Patients with Cervical Cancer in KEYNOTE-158
+
+| Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA (range: 76 to 79 patients) | All GradesGraded per NCI CTCAE v4.0 (%) | Grade 3-4 (%) |
+| --- | --- | --- |
+|  | KEYTRUDA 200 mg every 3 weeks |  |
+| Chemistry |  |  |
+| Hypoalbuminemia | 44 | 5 |
+| Alkaline phosphatase increased | 42 | 2.6 |
+| Hyponatremia | 38 | 13 |
+| Hyperglycemia | 38 | 1.3 |
+| Aspartate aminotransferase increased | 34 | 3.9 |
+| Creatinine increased | 32 | 5 |
+| Hypocalcemia | 27 | 0 |
+| Alanine aminotransferase increased | 21 | 3.9 |
+| Hypokalemia | 20 | 6 |
+| Hematology |  |  |
+| Anemia | 54 | 24 |
+| Lymphocyte count decreased | 47 | 9 |
+
+Other laboratory abnormalities occurring in ≥10% of patients receiving KEYTRUDA were hypophosphatemia (19% all Grades; 6% Grades 3-4), INR increased (19% all Grades; 0% Grades 3-4), hypercalcemia (14% all Grades; 2.6% Grades 3-4), platelet count decreased (14% all Grades; 1.3% Grades 3-4), activated partial thromboplastin time prolonged (14% all Grades; 0% Grades 3-4), hypoglycemia (13% all Grades; 1.3% Grades 3-4), white blood cell decreased (13% all Grades; 2.6% Grades 3-4), and hyperkalemia (13% all Grades; 1.3% Grades 3-4).
 
 ## 6.2 Immunogenicity
 

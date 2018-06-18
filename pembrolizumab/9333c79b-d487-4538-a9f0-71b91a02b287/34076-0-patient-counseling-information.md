@@ -2,7 +2,8 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-- Inform patients of the risk of immune-mediated adverse reactions that may require corticosteroid treatment and interruption or discontinuation of KEYTRUDA, including:
+- Inform patients of the risk of immune-mediated adverse reactions that may be severe or fatal, may occur after discontinuation of treatment, and may require corticosteroid treatment and interruption or discontinuation of KEYTRUDA.
+  These reactions may include:
   - Pneumonitis: Advise patients to contact their healthcare provider immediately for new or worsening cough, chest pain, or shortness of breath [see Warnings and Precautions (5.1)].
   - Colitis: Advise patients to contact their healthcare provider immediately for diarrhea or severe abdominal pain [see Warnings and Precautions (5.2)].
   - Hepatitis: Advise patients to contact their healthcare provider immediately for jaundice, severe nausea or vomiting, or easy bruising or bleeding [see Warnings and Precautions (5.3)].
