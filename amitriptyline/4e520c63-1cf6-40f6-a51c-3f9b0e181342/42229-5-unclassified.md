@@ -11,4 +11,4 @@ Other metabolic pathways may be involved.
 
 Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512
 
-Rev 03, August 2016
+Rev 04, February 2018

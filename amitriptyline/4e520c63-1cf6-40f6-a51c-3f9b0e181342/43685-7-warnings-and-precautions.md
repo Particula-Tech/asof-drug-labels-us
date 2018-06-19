@@ -116,6 +116,15 @@ Both elevation and lowering of blood sugar levels have been reported.
 
 Amitriptyline hydrochloride should be used with caution in patients with impaired liver function.
 
+This product contains FD&C Yellow No. 5 (tartrazine) which may cause allergic-type reactions
+
+(including bronchial asthma) in certain susceptible persons.
+Although the overall incidence of FD&C
+
+Yellow No. 5 (tartrazine) sensitivity in the general population is low, it is frequently seen in patients
+
+who also have aspirin hypersensitivity.
+
 ## Information for Patients
 
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with amitriptyline hydrochloride and should counsel them in its appropriate use.
