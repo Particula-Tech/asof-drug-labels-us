@@ -20,7 +20,7 @@ Topical local anesthetics may suppress the flare responses and should be avoided
 
 (3) Carcinogenesis, Mutagenesis, Impairment of Fertility: Studies have not been performed on Positive Skin Test Control-Histamine.
 
-(4) Pregnancy: Pregnancy Category C. Positive Skin Test Control-Histamine.
+(4) Pregnancy: Positive Skin Test Control-Histamine.
 Animal reproduction studies have not been conducted on Histamine Dihydrochloride.
 It is also not known whether Histamine Dihydrochloride can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
 Histamine Dihydrochloride should be given to a pregnant woman only if clearly needed.
