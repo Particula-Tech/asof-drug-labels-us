@@ -23,7 +23,7 @@ In rats, oral dosing with zolmitriptan resulted in levels in milk up to 4 times 
 The safety and effectiveness in pediatric patients have not been established.
 Therefore, ZOMIG is not recommended for use in patients under 18 years of age.
 
-One randomized, placebo-controlled clinical trial of ZOMIG tablets (2.5, 5 and 10 mg) evaluated 696 pediatric patients (aged 12-17 years) with migraines.
+One randomized, placebo-controlled clinical trial of ZOMIG tablets (2.5, 5m and 10 mg) evaluated 696 pediatric patients (aged 12-17 years) with migraines.
 This study did not demonstrate the efficacy of ZOMIG compared to placebo in the treatment of migraine in adolescents.
 Adverse reactions in the adolescent patients treated with ZOMIG were similar in nature and frequency to those reported in clinical trials in adults treated with ZOMIG.
 ZOMIG has not been studied in pediatric patients less than 12 years old.
@@ -38,7 +38,7 @@ In general, dose selection for an elderly patient should be cautious, usually st
 
 A cardiovascular evaluation is recommended for geriatric patients who have other cardiovascular risk factors (e.g., diabetes, hypertension, smoking, obesity, strong family history of coronary artery disease) prior to receiving ZOMIG [see Warnings and Precautions (5.1)].
 
-The pharmacokinetics of zolmitriptan were similar in geriatric patients (aged > 65 years) compared to younger patients [see Clinical Pharmacology (12.3)].
+The pharmacokinetics of zolmitriptan were similar in geriatric patients (aged >65 years) compared to younger patients [see Clinical Pharmacology (12.3)].
 
 ## 8.6 Patients with Hepatic Impairment
 

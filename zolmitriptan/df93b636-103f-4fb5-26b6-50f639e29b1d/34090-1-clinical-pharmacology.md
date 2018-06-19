@@ -56,7 +56,7 @@ Adjust the ZOMIG dose in patients with moderate or severe hepatic impairment [se
 
 Renal Impairment
 
-Clearance of zolmitriptan was reduced by 25% in patients with severe renal impairment (Clcr ≥ 5 ≤ 25 mL/min) compared to subjects with normal renal function (Clcr > = 70 mL/min); no significant change in clearance was observed in patients with moderate renal impairment (Clcr ≥ 26 ≤ 50 mL/min).
+Clearance of zolmitriptan was reduced by 25% in patients with severe renal impairment (Clcr ≥5 ≤25 mL/min) compared to subjects with normal renal function (Clcr >=70 mL/min); no significant change in clearance was observed in patients with moderate renal impairment (Clcr ≥26 ≤50 mL/min).
 
 Age
 
@@ -72,7 +72,7 @@ Retrospective analysis of pharmacokinetic data between Japanese and Caucasians r
 
 Hypertensive Patients
 
-No differences in the pharmacokinetics of zolmitriptan or its effects on blood pressure were seen in mild to moderate hypertensive volunteers compared with normotensive controls.
+No differences in the pharmacokinetics of zolmitriptan or its effects on blood pressure were seen in mild to moderate hypertensivevolunteers compared with normotensive controls.
 
 Drug Interaction Studies
 

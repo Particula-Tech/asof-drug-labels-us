@@ -18,7 +18,7 @@ Life‑threatening disturbances of cardiac rhythm including ventricular tachycar
 Discontinue ZOMIG if these disturbances occur.
 ZOMIG is contraindicated in patients with Wolff-Parkinson-White Syndrome or arrhythmias associated with other cardiac accessory conduction pathway disorders [see Contraindications (4)].
 
-## 5.3 Chest, Throat, Neck and Jaw Pain/Tightness/Pressure
+## 5.3 Chest, Throat, Neck, and Jaw Pain/Tightness/Pressure
 
 As with other 5-HT1 agonists, sensations of tightness, pain, and pressure in the chest, throat, neck, and jaw commonly occur after treatment with ZOMIG and is usually non-cardiac in origin.
 However, perform a cardiac evaluation if these patients are at high cardiac risk.
@@ -34,7 +34,7 @@ ZOMIG is contraindicated in patients with a history of stroke or transient ische
 
 ## 5.5 Other Vasospasm Reactions
 
-5-HT1 agonists, including ZOMIG, may cause non-coronary vasospastic reactions, such as peripheral vascular ischemia, gastrointestinal vascular ischemia and infarction (presenting with abdominal pain and bloody diarrhea), splenic infarction, and Raynaud’s syndrome.
+5-HT1 agonists, including ZOMIG, may cause non-coronary vasospastic reactions, such as peripheral vascular ischemia, gastrointestinal vascular ischemia, and infarction (presenting with abdominal pain and bloody diarrhea), splenic infarction, and Raynaud’s syndrome.
 In patients who experience symptoms or signs suggestive of a vasospastic reaction following the use of any 5-HT1 agonist, rule out a vasospastic reaction before receiving additional ZOMIG doses [see Contraindications (4)].
 
 Reports of transient and permanent blindness and significant partial vision loss have been reported with the use of 5-HT1 agonists.

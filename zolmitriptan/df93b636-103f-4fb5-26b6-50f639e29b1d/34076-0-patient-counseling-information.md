@@ -4,7 +4,7 @@ See FDA Approved Patient Labeling (Patient Information)
 
 Myocardial Ischemia and/or Infarction, Prinzmetal’s Angina, Other Vasospastic Reactions, and Cerebrovascular Events
 
-Inform patients that ZOMIG may cause serious cardiovascular adverse reactions such as myocardial infarction or stroke, which may result in hospitalization and even death.
+Inform patients that ZOMIG may cause serious cardiovascular adverse reactions, such as myocardial infarction or stroke, which may result in hospitalization and even death.
 Although serious cardiovascular reactions can occur without warning symptoms, instruct patients to be alert for the signs and symptoms of chest pain, shortness of breath, weakness, slurring of speech, and instruct them to ask for medical advice when observing any indicative sign or symptoms.
 Instruct patients to seek medical advice if they have symptoms of other vasospastic reactions [see Warnings and Precautions (5.1, 5.2, 5.4, 5.5)].
 

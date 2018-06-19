@@ -4,7 +4,7 @@ The following adverse reactions are described elsewhere in other sections of the
 
 - •Myocardial Ischemia, Myocardial Infarction, and Prinzmetal Angina [see Warnings and Precautions (5.1)].
 - •Arrhythmias [see Warnings and Precautions (5.2)].
-- •Chest and or Throat, Neck and Jaw Pain/Tightness/Pressure [see Warnings and Precautions (5.3)].
+- •Chest and or Throat, Neck, and Jaw Pain/Tightness/Pressure [see Warnings and Precautions (5.3)].
 - •Cerebrovascular Events [see Warnings and Precautions (5.4)].
 - •Other Vasospasm Reactions [see Warnings and Precautions (5.5)].
 - •Medication Overuse Headache [see Warnings and Precautions (5.6)].
@@ -18,12 +18,12 @@ Because clinical studies are conducted under widely varying conditions, adverse 
 
 In a long-term, open-label study where patients were allowed to treat multiple migraine attacks for up to 1 year, 8% (167 out of 2,058) withdrew from the trial because of adverse reaction.
 
-The most common adverse reactions (≥5% and > placebo) in these trials were neck/throat/jaw pain, dizziness, paresthesia, asthenia, somnolence, warm/cold sensation, nausea, heaviness sensation, and dry mouth.
+The most common adverse reactions (≥5% and >placebo) in these trials were neck/throat/jaw pain, dizziness, paresthesia, asthenia, somnolence, warm/cold sensation, nausea, heaviness sensation, and dry mouth.
 
-Table 1 lists the adverse reactions that occurred in ≥ 2% of the 2,074 patients in any one of the ZOMIG 1 mg, 2.5 mg, or 5 mg dose groups in the controlled clinical trials of ZOMIG in patients with migraines (Studies 1, 2, 3, 4, and 5) [see Clinical Studies (14)].
+Table 1 lists the adverse reactions that occurred in ≥2% of the 2,074 patients in any one of the ZOMIG 1 mg, 2.5 mg, or 5 mg dose groups in the controlled clinical trials of ZOMIG in patients with migraines (Studies 1, 2, 3, 4, and 5) [see Clinical Studies (14)].
 Only adverse reactions that were at least 2% more frequent in a ZOMIG group compared to the placebo group are included.
 
-Several of the adverse reactions appear dose related, notably paresthesia, sensation of heaviness or tightness in chest, neck, jaw, and throat, dizziness, somnolence and possibly asthenia and nausea.
+Several of the adverse reactions appear dose related, notably paresthesia, sensation of heaviness or tightness in chest, neck, jaw, and throat, dizziness, somnolence, and possibly asthenia and nausea.
 
 Table 1: Adverse Reaction Incidence in Five Pooled Placebo-Controlled Migraine Clinical TrialsOnly adverse reactions that were at least 2% more frequent in a ZOMIG group compared to the placebo group are included.
 
@@ -66,11 +66,11 @@ General: Infrequent were allergic reactions.
 Cardiovascular:Infrequent were arrhythmias, hypertension, and syncope.
 Rare was tachycardia.
 
-Neurological:Infrequent were agitation, anxiety, depression, emotional lability and insomnia; Rare were amnesia, hallucinations, and cerebral ischemia.
+Neurological:Infrequent were agitation, anxiety, depression, emotional lability, and insomnia; Rare were amnesia, hallucinations, and cerebral ischemia.
 
-Skin: Infrequent were pruritus, rash and urticaria.
+Skin: Infrequent were pruritus, rash, and urticaria.
 
-Urogenital: Infrequent were polyuria, urinary frequency and urinary urgency.
+Urogenital: Infrequent were polyuria, urinary frequency, and urinary urgency.
 
 Adverse Reactions with ZOMIG-ZMT Orally Disintegrating Tablets
 

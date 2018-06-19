@@ -10,4 +10,4 @@ ZOMIG tablets are available as 2.5 mg (yellow and functionally-score) and 5 mg (
 The film-coated tablets contain anhydrous lactose NF, microcrystalline cellulose NF, sodium starch glycolate NF, magnesium stearate NF, hydroxypropyl methylcellulose USP, titanium dioxide USP, polyethylene glycol 400 NF, yellow iron oxide NF (2.5 mg tablet), red iron oxide NF (5 mg tablet), and polyethylene glycol 8000 NF.
 
 ZOMIG-ZMT® Orally Disintegrating Tablets are available as 2.5 mg and 5 mg white uncoated tablets.
-The orally disintegrating tablets contain mannitol USP, microcrystalline cellulose NF, crospovidone NF, aspartame NF [see Warnings and Precautions (5.9)],sodium bicarbonate USP, citric acid anhydrous USP, colloidal silicon dioxide NF, magnesium stearate NF and orange flavor SN 027512.
+The orally disintegrating tablets contain mannitol USP, microcrystalline cellulose NF, crospovidone NF, aspartame NF [see Warnings and Precautions (5.9)], sodium bicarbonate USP, citric acid anhydrous USP, colloidal silicon dioxide NF, magnesium stearate NF, and orange flavor SN 027512.

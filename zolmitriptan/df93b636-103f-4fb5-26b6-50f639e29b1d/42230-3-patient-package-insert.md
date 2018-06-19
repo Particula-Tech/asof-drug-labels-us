@@ -12,11 +12,15 @@ ZOMIG-ZMT® (Zo-mig ZMT)
 
 Orally Disintegrating Tablets
 
-What is ZOMIG?
-
 Please read this information before you start taking ZOMIG and each time you renew your prescription just in case anything has changed.
 Remember, this summary does not take the place of discussions with your doctor.
 You and your doctor should discuss ZOMIG when you start taking your medication and at regular checkups.
+
+What is ZOMIG?
+
+ZOMIG is a prescription medication used to treat migraine headaches in adults.
+ZOMIG is not for other types of headaches.
+The safety and efficacy of ZOMIG in patients under 18 have not been established.
 
 What is a Migraine Headache?
 
@@ -55,7 +59,7 @@ Tell your doctor if you are sensitive to phenylalanine, which can be found in th
 ZOMIG-ZMT contains phenylalanine.
 
 Tell your doctor if you are taking selective serotonin reuptake inhibitors (SSRIs) or serotonin norepinephrine reuptake inhibitors (SNRIs), two types of drugs for depression or other disorders.
-Common SSRIs are CELEXA® (citalopram HBr), LEXAPRO® (escitalopram oxalate), PAXIL® (paroxetine), PROZAC® (fluoxetine), SYMBYAX® (olanzapine/fluoxetine), ZOLOFT® (sertraline), SARAFEM® (fluoxetine) and LUVOX® (fluvoxamine).
+Common SSRIs are CELEXA® (citalopram HBr), LEXAPRO® (escitalopram oxalate), PAXIL® (paroxetine), PROZAC® (fluoxetine), SYMBYAX® (olanzapine/fluoxetine), ZOLOFT® (sertraline), SARAFEM® (fluoxetine), and LUVOX® (fluvoxamine).
 Common SNRIs are CYMBALTA® (duloxetine) and EFFEXOR® (venlafaxine).
 Your doctor will decide if you can take ZOMIG with your other medicines.
 
@@ -74,7 +78,7 @@ How should I take ZOMIG?
 - •Safely throw away any unused tablets or pieces of tablets that have been removed from the blister packaging.
 - •If your headache comes back after your first dose, you may take a second dose any time after 2 hours of taking the first dose.
   For any attack where the first dose did not work, do not take a second dose without talking with your doctor.
-  Do not take more than a total of 10mg of ZOMIG (tablets or spray combined in any 24 hour period.
+  Do not take more than a total of 10mg of ZOMIG (tablets or spray combined in any 24-hour period.
   If you take too much medicine, contact your doctor, hospital emergency department, or poison control center right away.
 
 What are the possible side effects of ZOMIG?
@@ -85,7 +89,7 @@ The side effects are usually mild and do not last long.
 
 The most common side effects of ZOMIG are:
 
-- •pain, pressure or tightness in the neck, throat or jaw
+- •pain, pressure or tightness in the neck, throat, or jaw
 - •dizziness
 - •tingling or other abnormal sensations
 - •tiredness
@@ -128,8 +132,7 @@ People may be harmed if they take medicines that have not been prescribed for th
 This leaflet summarizes the most important information about ZOMIG.
 If you would like more information about ZOMIG, talk to your doctor.
 You can ask your doctor or pharmacist for information on ZOMIG that is written for healthcare professionals.
-You can also call 1-877-994-6729or visit our website at www.
-ZOMIG.com.
+You can also call 1-877-994-6729or visit our website at www.ZOMIG.com.
 
 What are the ingredients in ZOMIG?
 
@@ -143,7 +146,7 @@ ZOMIG-ZMT Orally Disintegrating Tablets
 
 Active ingredient: zolmitriptan
 
-Inactive ingredients: mannitol USP, microcrystalline cellulose NF, crospovidone NF, aspartame NF, sodium bicarbonate USP, citric acid anhydrous USP, colloidal silicon dioxide NF, magnesium stearate NF and orange flavor SN 027512
+Inactive ingredients: mannitol USP, microcrystalline cellulose NF, crospovidone NF, aspartame NF, sodium bicarbonate USP, citric acid anhydrous USP, colloidal silicon dioxide NF, magnesium stearate NF, and orange flavor SN 027512
 
 Store both ZOMIG Tablets and ZOMIG‑ZMT Orally Disintegrating Tablets at controlled room temperature, 68°F to 77°F (20°C to 25°C) and away from children.
 Protect from light and moisture.
@@ -160,4 +163,4 @@ Distributed by: Impax Specialty Pharma
 
 Hayward, CA 94544
 
-Issued 06/2017
+Issued 06/2018

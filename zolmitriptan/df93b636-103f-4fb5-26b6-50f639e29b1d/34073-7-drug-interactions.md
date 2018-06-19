@@ -7,7 +7,8 @@ Because these effects may be additive, use of ergotamine containing or ergot-typ
 
 ## 7.2 MAO-A Inhibitors
 
-MAO-A inhibitors increase the systemic exposure of zolmitriptan and its active N-desmethyl metabolite.Therefore, the use of ZOMIG in patients receiving MAO-A inhibitors is contraindicated [see Contraindications (4), Clinical Pharmacology (12.3)].
+MAO-A inhibitors increase the systemic exposure of zolmitriptan and its active N-desmethyl metabolite.
+Therefore, the use of ZOMIG in patients receiving MAO-A inhibitors is contraindicated [see Contraindications (4), Clinical Pharmacology (12.3)].
 
 ## 7.3 5-HT1B/1D agonists
 
