@@ -47,6 +47,6 @@ For current full prescribing information, please go to www.pfizer.com.
 
 under license from Takeda GmbH D78467 Konstanz, Germany
 
-LAB-0574-12.0
+LAB-0574-13.0
 
-Revised: May 2018
+Revised: June 2018
