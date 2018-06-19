@@ -5,17 +5,11 @@
 UNASYN is generally well tolerated.
 The following adverse reactions have been reported in clinical trials.
 
-### Local Adverse Reactions
+Local Adverse Reactions
 
-Pain at IM injection site – 16%
+Pain at IM injection site – 16% Pain at IV injection site – 3% Thrombophlebitis – 3% Phlebitis – 1.2%
 
-Pain at IV injection site – 3%
-
-Thrombophlebitis – 3%
-
-Phlebitis – 1.2%
-
-### Systemic Adverse Reactions
+Systemic Adverse Reactions
 
 The most frequently reported adverse reactions were diarrhea in 3% of the patients and rash in less than 2% of the patients.
 
@@ -31,13 +25,9 @@ Additionally, atypical lymphocytosis has been observed in one pediatric patient 
 Adverse laboratory changes without regard to drug relationship that were reported during clinical trials were:
 
 Hepatic: Increased AST (SGOT), ALT (SGPT), alkaline phosphatase, and LDH.
-
 Hematologic: Decreased hemoglobin, hematocrit, RBC, WBC, neutrophils, lymphocytes, platelets and increased lymphocytes, monocytes, basophils, eosinophils, and platelets.
-
 Blood Chemistry: Decreased serum albumin and total proteins.
-
 Renal: Increased BUN and creatinine.
-
 Urinalysis: Presence of RBC's and hyaline casts in urine.
 
 ## Postmarketing Experience
@@ -54,7 +44,7 @@ Gastrointestinal Disorders: Abdominal pain, cholestatic hepatitis, cholestasis, 
 
 General Disorders and Administration Site Conditions: Injection site reaction
 
-Immune System Disorders: Serious and fatal hypersensitivity (anaphylactic) reactions (See WARNINGS section).
+Immune System Disorders: Serious and fatal hypersensitivity (anaphylactic) reactions (see WARNINGS section).
 
 Nervous System Disorders: Convulsion and dizziness
 

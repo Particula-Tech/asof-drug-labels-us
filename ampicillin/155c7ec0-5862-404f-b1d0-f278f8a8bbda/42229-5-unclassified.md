@@ -9,12 +9,10 @@ Solutions should be allowed to stand after dissolution to allow any foaming to d
 
 ## Preparation for Intravenous Use
 
-### 1.5 g and 3.0 g Bottles
-
-UNASYN sterile powder in piggyback units may be reconstituted directly to the desired concentrations using any of the following parenteral diluents.
+1.5 g and 3.0 g Bottles: UNASYN sterile powder in piggyback units may be reconstituted directly to the desired concentrations using any of the following parenteral diluents.
 Reconstitution of UNASYN, at the specified concentrations, with these diluents provide stable solutions for the time periods indicated in the following table: (After the indicated time periods, any unused portions of solutions should be discarded).
 
-TABLE 6
+TABLE 4
 
 | Diluent | Maximum Concentration (mg/mL) UNASYN (Ampicillin/Sulbactam) | Use Periods |
 | --- | --- | --- |
@@ -40,19 +38,15 @@ If piggyback bottles are unavailable, standard vials of UNASYN sterile powder ma
 Initially, the vials may be reconstituted with Sterile Water for Injection to yield solutions containing 375 mg UNASYN per mL (250 mg ampicillin/125 mg sulbactam per mL).
 An appropriate volume should then be immediately diluted with a suitable parenteral diluent to yield solutions containing 3 to 45 mg UNASYN per mL (2 to 30 mg ampicillin/1 to 15 mg sulbactam/per mL).
 
-### 1.5 g ADD-Vantage® Vials
+1.5 g ADD-Vantage® Vials: UNASYN in the ADD-Vantage® system is intended as a single dose for intravenous administration after dilution with the ADD-Vantage® Flexible Diluent Container containing 50 mL, 100 mL or 250 mL of 0.9% Sodium Chloride Injection, USP.
 
-UNASYN in the ADD-Vantage® system is intended as a single dose for intravenous administration after dilution with the ADD-Vantage® Flexible Diluent Container containing 50 mL, 100 mL or 250 mL of 0.9% Sodium Chloride Injection, USP.
-
-### 3 g ADD-Vantage® Vials
-
-UNASYN in the ADD-Vantage® system is intended as a single dose for intravenous administration after dilution with the ADD-Vantage® Flexible Diluent Container containing 100 mL or 250 mL of 0.9% Sodium Chloride Injection, USP.
+3 g ADD-Vantage® Vials: UNASYN in the ADD-Vantage® system is intended as a single dose for intravenous administration after dilution with the ADD-Vantage® Flexible Diluent Container containing 100 mL or 250 mL of 0.9% Sodium Chloride Injection, USP.
 
 UNASYN in the ADD-Vantage® system is to be reconstituted with 0.9% Sodium Chloride Injection, USP only.
 See INSTRUCTIONS FOR USE OF THE ADD-Vantage® VIAL section.
 Reconstitution of UNASYN, at the specified concentration, with 0.9% Sodium Chloride Injection, USP provides stable solutions for the time period indicated below:
 
-TABLE 7
+TABLE 5
 
 | Diluent | Maximum Concentration (mg/mL) UNASYN (Ampicillin/Sulbactam) | Use Period |
 | --- | --- | --- |
@@ -70,7 +64,7 @@ Vials for intramuscular use may be reconstituted with Sterile Water for Injectio
 Consult the following table for recommended volumes to be added to obtain solutions containing 375 mg UNASYN per mL (250 mg ampicillin/125 mg sulbactam per mL).
 Note: Use only freshly prepared solutions and administer within one hour after preparation.
 
-TABLE 8
+TABLE 6
 
 | UNASYN Vial Size | Volume of Diluent to be Added | Withdrawal VolumeThere is sufficient excess present to allow withdrawal and administration of the stated volumes. |
 | --- | --- | --- |
@@ -81,9 +75,4 @@ TABLE 8
 
 While reversible glycogenosis was observed in laboratory animals, this phenomenon was dose- and time-dependent and is not expected to develop at the therapeutic doses and corresponding plasma levels attained during the relatively short periods of combined ampicillin/sulbactam therapy in man.
 
-To report SUSPECTED ADVERSE EVENTS, contact Pfizer Inc. at 1-800-438-1985 or FDA at 1-800-FDA-1088 or http://www.fda.gov/ for voluntary reporting of adverse reactions.
-
-This product's label may have been updated.
-For current full prescribing information, please visit www.pfizer.com.
-
-LAB-0017-16.0 April 2018
+ADD-Vantage® is a registered trademark of Hospira Inc., a Pfizer company.

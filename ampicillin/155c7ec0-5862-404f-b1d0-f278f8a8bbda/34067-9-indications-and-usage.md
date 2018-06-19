@@ -6,7 +6,7 @@ Skin and Skin Structure Infections caused by beta-lactamase producing strains of
 Klebsiella spp.
 (including K. pneumoniae), Proteus mirabilis, Bacteroides fragilis, Enterobacter spp., and Acinetobacter calcoaceticus.
 
-NOTE: For information on use in pediatric patients see PRECAUTIONS–Pediatric Use and CLINICAL STUDIES sections.
+NOTE: For information on use in pediatric patients (see PRECAUTIONS–Pediatric Use and CLINICAL STUDIES sections).
 
 Intra-Abdominal Infections caused by beta-lactamase producing strains of Escherichia coli, Klebsiella spp.
 (including K. pneumoniae), Bacteroides spp.
