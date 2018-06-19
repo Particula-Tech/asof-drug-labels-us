@@ -1,6 +1,6 @@
-# PRINCIPAL DISPLAY PANEL - 500 mg Label
+# PRINCIPAL DISPLAY PANEL - 500 mg
 
-NDC 67457-187-50 500 mg
+NDC 67457-187-50
 
 ALOPRIM® (allopurinol sodium) for Injection 500 mg
 
@@ -28,6 +28,6 @@ Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
 
 Made in Italy
 
-MI:187:1C:R4
+MI:187:1C:R5
 
 Mylan.com

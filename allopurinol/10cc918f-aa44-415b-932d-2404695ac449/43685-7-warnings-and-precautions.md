@@ -119,10 +119,6 @@ Allopurinol oral doses of 20 mg/kg/day had no effect on male or female fertility
 
 ## Pregnancy
 
-### Teratogenic Effects
-
-#### Pregnancy Category C
-
 There was no evidence of fetotoxicity or teratogenicity in rats or rabbits treated during the period of organogenesis with oral allopurinol at doses up to 200 mg/kg/day and up to 100 mg/kg/day, respectively (about three times the human dose on a mg/m2 basis).
 However, there is a published report in pregnant mice that single intraperitoneal doses of 50 or 100 mg/kg (about 1/3 or 3/4 the human dose on a mg/m2 basis) of allopurinol on gestation days 10 or 13 produced significant increases in fetal deaths and teratogenic effects (cleft palate, harelip, and digital defects).
 It is uncertain whether these findings represented a fetal effect or an effect secondary to maternal toxicity.

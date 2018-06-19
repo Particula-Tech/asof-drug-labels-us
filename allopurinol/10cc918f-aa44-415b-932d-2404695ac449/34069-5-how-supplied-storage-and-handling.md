@@ -6,5 +6,5 @@ ALOPRIM (allopurinol sodium) for Injection, 30 mL flint glass vials with rubber 
 
 NDC 67457-187-50 carton containing one vial
 
-Store unreconstituted powder at 20° to 25°C (68° to 77°F).
+Store unreconstituted powder at20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
