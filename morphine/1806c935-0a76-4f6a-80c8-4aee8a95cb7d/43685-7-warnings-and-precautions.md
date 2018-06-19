@@ -120,7 +120,7 @@ Monitor patients with a history of seizure disorders for worsened seizure contro
 Avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including MORPHABOND ER.
 In these patients, mixed agonists/antagonist and partial agonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms [see Drug Interactions (7)].
 
-When discontinuing MORPHABOND ER, gradually taper the dosage [see Dosage and Administration (2.4)].
+When discontinuing MORPHABOND ER, gradually taper the dosage [see Dosage and Administration (2.5)].
 Do not abruptly discontinue MORPHABOND ER [see Drug Abuse and Dependence (9.3)].
 
 ## 5.13Risks of Driving and Operating Machinery

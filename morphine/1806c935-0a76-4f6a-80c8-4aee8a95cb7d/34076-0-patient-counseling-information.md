@@ -38,14 +38,14 @@ Inform patients that opioids could cause adrenal insufficiency, a potentially li
 Adrenal insufficiency may present with non-specific symptoms and signs such as nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
 Advise patients to seek medical attention if they experience a constellation of these symptoms [see Warnings and Precautions (5.7)].
 
-Important Administration Instructions [see Dosage and Administration (2.1, 2.4), Warnings and Precautions (5.2)]
+Important Administration Instructions [see Dosage and Administration (2.1, 2.5), Warnings and Precautions (5.2)]
 
 Instruct patients how to properly take MORPHABOND ER, including the following:
 
 - Swallowing MORPHABOND ER tablets whole [see Dosage and Administration (2.1)]
 - Not crushing, chewing, or dissolving the tablets [see Dosage and Administration (2.1)]
 - Using MORPHABOND ER exactly as prescribed to reduce the risk of life-threatening adverse reactions (e.g., respiratory depression) [see Warnings and Precautions (5.2)]
-- Not discontinuing MORPHABOND ER without first discussing the need for a tapering regimen with the prescriber [see Dosage and Administration (2.4)]
+- Not discontinuing MORPHABOND ER without first discussing the need for a tapering regimen with the prescriber [see Dosage and Administration (2.5)]
 
 Hypotension
 
@@ -97,4 +97,4 @@ Basking Ridge, NJ 07920
 
 ©2017, Daiichi Sankyo, Inc.
 
-USPI-MOR-0618-r100
+USPI-MOR-0618-r101
