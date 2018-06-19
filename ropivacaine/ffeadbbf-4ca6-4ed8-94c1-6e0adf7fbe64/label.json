@@ -1,0 +1,32 @@
+{
+  "application_numbers": [
+    "ANDA207636"
+  ],
+  "inn": "ropivacaine",
+  "labeler": "Somerset Therapeutics, LLC",
+  "package_ndcs": [
+    "70069-061-01",
+    "70069-061-25",
+    "70069-062-01",
+    "70069-062-25",
+    "70069-063-01",
+    "70069-063-25",
+    "70069-064-01",
+    "70069-064-05",
+    "70069-065-01",
+    "70069-065-25",
+    "70069-066-01",
+    "70069-066-25",
+    "70069-067-01",
+    "70069-067-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "ropivacaine hydrochloride",
+      "name": "Ropivacaine Hydrochloride"
+    }
+  ],
+  "setid": "ffeadbbf-4ca6-4ed8-94c1-6e0adf7fbe64",
+  "source": "dailymed"
+}
