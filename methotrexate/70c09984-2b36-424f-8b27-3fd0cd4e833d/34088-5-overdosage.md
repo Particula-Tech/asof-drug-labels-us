@@ -6,10 +6,10 @@ As the time interval between methotrexate administration and leucovorin initiati
 Monitoring of the serum methotrexate concentration is essential in determining the optimal dose and duration of treatment with leucovorin.
 
 In cases of massive overdosage, hydration and urinary alkalinization may be necessary to prevent the precipitation of methotrexate and/or its metabolites in the renal tubules.
-Generally speaking, neither hemodialysis nor peritoneal dialysis have been shown to improve methotrexate elimination.
+Generally speaking, neither hemodialysis nor peritoneal dialysis has been shown to improve methotrexate elimination.
 However, effective clearance of methotrexate has been reported with acute, intermittent hemodialysis using a high-flux dialyzer (Wall, SM et al: Am J Kidney Dis 28(6): 846–854, 1996).
 
-In post-marketing experience, overdose with methotrexate has generally occurred with oral and intrathecal administration, although intravenous and intramuscular overdose have also been reported.
+In postmarketing experience, overdose with methotrexate has generally occurred with oral and intrathecal administration, although intravenous and intramuscular overdose have also been reported.
 
 Reports of oral overdose often indicate accidental daily administration instead of weekly (single or divided doses).
 Symptoms commonly reported following oral overdose include those symptoms and signs reported at pharmacologic doses, particularly hematologic and gastrointestinal reaction.

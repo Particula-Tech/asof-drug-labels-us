@@ -26,7 +26,7 @@ PATIENTS SHOULD BE INFORMED BY THEIR PHYSICIAN OF THE RISKS INVOLVED AND BE UNDE
    For this reason, periodic liver biopsies are usually recommended for psoriatic patients who are under long-term treatment.
    Persistent abnormalities in liver function tests may precede appearance of fibrosis or cirrhosis in the rheumatoid arthritis population.
    (See PRECAUTIONS: Organ System Toxicity: Hepatic.)
-5. 5.Methotrexate-induced lung disease is a potentially dangerous lesion, which may occur acutely at any time during therapy and which has been reported at doses as low as 7.5 mg/wk.
+5. 5.Methotrexate-induced lung disease is a potentially dangerous lesion, which may occur acutely at any time during therapy and which has been reported at doses as low as 7.5 mg/week.
    It is not always fully reversible.
    Pulmonary symptoms (especially a dry, nonproductive cough) may require interruption of treatment and careful investigation.
 6. 6.Diarrhea and ulcerative stomatitis require interruption of therapy; otherwise, hemorrhagic enteritis and death from intestinal perforation may occur.

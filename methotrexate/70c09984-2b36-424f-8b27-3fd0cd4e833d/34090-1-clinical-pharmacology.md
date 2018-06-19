@@ -14,13 +14,13 @@ Clarification of methotrexate's effect on immune activity and its relation to rh
 In patients with rheumatoid arthritis, effects of methotrexate on articular swelling and tenderness can be seen as early as 3 to 6 weeks.
 Although methotrexate clearly ameliorates symptoms of inflammation (pain, swelling, stiffness), there is no evidence that it induces remission of rheumatoid arthritis nor has a beneficial effect been demonstrated on bone erosions and other radiologic changes which result in impaired joint use, functional disability, and deformity.
 
-Most studies of methotrexate in patients with rheumatoid arthritis are relatively short-term (3 to 6 months).
-Limited data from long-term studies indicate that an initial clinical improvement is maintained for at least 2 years with continued therapy.
+Most studies of methotrexate in patients with rheumatoid arthritis are relatively short term (3 to 6 months).
+Limited data from long-term studies indicate that an initial clinical improvement is maintained for at least two years with continued therapy.
 
 In psoriasis, the rate of production of epithelial cells in the skin is greatly increased over normal skin.
 This differential in proliferation rates is the basis for the use of methotrexate to control the psoriatic process.
 
-In a 6-month, double-blind, placebo-controlled trial of 127 pediatric patients with juvenile rheumatoid arthritis (JRA) (mean age, 10.1 years; age range, 2.5 to 18 years; mean duration of disease, 5.1 years) on background non-steroidal anti-inflammatory drugs (NSAIDs) and/or prednisone, methotrexate given weekly at an oral dose of 10 mg/m2 provided significant clinical improvement compared to placebo as measured by either the physician's global assessment, or by a patient composite (25% reduction in the articular-severity score plus improvement in parent and physician global assessments of disease activity).
+In a 6-month, double-blind, placebo-controlled trial of 127 pediatric patients with juvenile rheumatoid arthritis (JRA) (mean age, 10.1 years; age range 2.5 to 18 years; mean duration of disease, 5.1 years) on background non-steroidal anti-inflammatory drugs (NSAIDs) and/or prednisone, methotrexate given weekly at an oral dose of 10 mg/m2 provided significant clinical improvement compared to placebo as measured by either the physician's global assessment, or by a patient composite (25% reduction in the articular-severity score plus improvement in parent and physician global assessments of disease activity).
 Over two-thirds of the patients in this trial had polyarticular-course JRA, and the numerically greatest response was seen in this subgroup treated with 10 mg/m2/wk methotrexate.
 The overwhelming majority of the remaining patients had systemic-course JRA.
 All patients were unresponsive to NSAIDs; approximately one-third were using low dose corticosteroids.
@@ -31,19 +31,19 @@ Weekly methotrexate at a dose of 5 mg/m2 was not significantly more effective th
 ### Absorption
 
 In adults, oral absorption appears to be dose dependent.
-Peak serum levels are reached within 1 to 2 hours.
+Peak serum levels are reached within one to two hours.
 At doses of 30 mg/m2 or less, methotrexate is generally well absorbed with a mean bioavailability of about 60%.
 The absorption of doses greater than 80 mg/m2 is significantly less, possibly due to a saturation effect.
 
 In leukemic pediatric patients, oral absorption of methotrexate also appears to be dose dependent and has been reported to vary widely (23% to 95%).
-A 20 fold difference between highest and lowest peak levels (Cmax: 0.11 to 2.3 micromolar after a 20 mg/m2 dose) has been reported.
-Significant interindividual variability has also been noted in time to peak concentration (Tmax: 0.67 to 4 hours after a 15 mg/m2 dose) and fraction of dose absorbed.
+A twenty fold difference between highest and lowest peak levels (Cmax: 0.11 to 2.3 micromolar after a 20 mg/m2 dose) has been reported.
+Significant interindividual variability has also been noted in time to peak concentration (Tmax: 0.67 to 4 hrs after a 15 mg/m2 dose) and fraction of dose absorbed.
 The absorption of doses greater than 40 mg/m2 has been reported to be significantly less than that of lower doses.
 Food has been shown to delay absorption and reduce peak concentration.
 Methotrexate is generally completely absorbed from parenteral routes of injection.
 After intramuscular injection, peak serum concentrations occur in 30 to 60 minutes.
 As in leukemic pediatric patients, a wide interindividual variability in the plasma concentrations of methotrexate has been reported in pediatric patients with JRA.
-Following oral administration of methotrexate in doses of 6.4 to 11.2 mg/m2/wk in pediatric patients with JRA, mean serum concentrations were 0.59 micromolar (range, 0.03 to 1.40) at one hour, 0.44 micromolar (range, 0.01 to 1.00) at 2 hours, and 0.29 micromolar (range, 0.06 to 0.58) at 3 hours.
+Following oral administration of methotrexate in doses of 6.4 to 11.2 mg/m2/week in pediatric patients with JRA, mean serum concentrations were 0.59 micromolar (range, 0.03 to 1.40) at 1 hour, 0.44 micromolar (range, 0.01 to 1.00) at 2 hours, and 0.29 micromolar (range 0.06 to 0.58) at 3 hours.
 In pediatric patients receiving methotrexate for acute lymphocytic leukemia (6.3 to 30 mg/m2), or for JRA (3.75 to 26.2 mg/m2), the terminal half-life has been reported to range from 0.7 to 5.8 hours or 0.9 to 2.3 hours, respectively.
 
 ### Distribution
@@ -73,8 +73,8 @@ Methotrexate is partially metabolized by intestinal flora after oral administrat
 
 ### Half-Life
 
-The terminal half-life reported for methotrexate is approximately 3 to 10 hours for patients receiving treatment for psoriasis, or rheumatoid arthritis or low dose antineoplastic therapy (less than 30 mg/m2).
-For patients receiving high doses of methotrexate, the terminal half-life is 8 to 15 hours.
+The terminal half-life reported for methotrexate is approximately three to ten hours for patients receiving treatment for psoriasis, or rheumatoid arthritis or low dose antineoplastic therapy (less than 30 mg/m2).
+For patients receiving high doses of methotrexate, the terminal half-life is eight to 15 hours.
 
 ### Excretion
 
@@ -84,7 +84,7 @@ There is limited biliary excretion amounting to 10% or less of the administered 
 Enterohepatic recirculation of methotrexate has been proposed.
 
 Renal excretion occurs by glomerular filtration and active tubular secretion.
-Nonlinear elimination due to saturation of renal tubular reabsorption has been observed in psoriatic patients at doses between 7.5 mg and 30 mg.
+Nonlinear elimination due to saturation of renal tubular reabsorption has been observed in psoriatic patients at doses between 7.5 and 30 mg.
 Impaired renal function, as well as concurrent use of drugs such as weak organic acids that also undergo tubular secretion, can markedly increase methotrexate serum levels.
 Excellent correlation has been reported between methotrexate clearance and endogenous creatinine clearance.
 

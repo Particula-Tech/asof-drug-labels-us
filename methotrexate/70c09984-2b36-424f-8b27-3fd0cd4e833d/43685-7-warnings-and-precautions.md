@@ -69,13 +69,17 @@ Use of methotrexate with penicillins should be carefully monitored.
 
 The potential for increased hepatotoxicity when methotrexate is administered with other hepatotoxic agents has not been evaluated.
 However, hepatotoxicity has been reported in such cases.
-Therefore, patients receiving concomitant therapy with methotrexate and other potential hepatotoxins (e.g., azathioprine, retinoids, sulfasalazine) should be closely monitored for possible increased risk of hepatotoxicity.
+Therefore, patients receiving concomitant therapy with methotrexate and other potential hepatotoxins (e.g., azathioprine, retinoids, sulfa-salazine) should be closely monitored for possible increased risk of hepatotoxicity.
 
 Methotrexate may decrease the clearance of theophylline; theophylline levels should be monitored when used concurrently with methotrexate.
 
 Certain side effects such as mouth sores may be reduced by folate supplementation with methotrexate.
 
-Trimethoprim/sulfamethoxazole has been reported rarely to increase bone marrow suppression in patients receiving methotrexate, probably by an additive antifolate effect.
+Trimethoprim/sulfa-methoxazole has been reported rarely to increase bone marrow suppression in patients receiving methotrexate, probably by an additive antifolate effect.
+
+The use of nitrous oxide anesthesia potentiates the effect of methotrexate on folate-dependent metabolic pathways, resulting in the potential for increased toxicity such as stomatitis, myelosuppression, and neurotoxicity.
+Avoid concomitant nitrous oxide anesthesia in patients receiving methotrexate.
+Use caution when administering methotrexate after a recent history of nitrous oxide administration.
 
 ## Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
@@ -127,7 +131,7 @@ Methotrexate should be used with extreme caution in the presence of peptic ulcer
 
 Methotrexate can suppress hematopoiesis and cause anemia, aplastic anemia, pancytopenia, leukopenia, neutropenia, and/or thrombocytopenia.
 In patients with malignancy and preexisting hematopoietic impairment, the drug should be used with caution, if at all.
-In controlled clinical trials in rheumatoid arthritis (n = 128), leukopenia (WBC < 3000/mm3) was seen in two patients, thrombocytopenia (platelets < 100,000/mm3) in six patients, and pancytopenia in two patients.
+In controlled clinical trials in rheumatoid arthritis (n = 128), leukopenia (WBC < 3000/mm3) was seen in 2 patients, thrombocytopenia (platelets < 100,000/mm3) in 6 patients, and pancytopenia in 2 patients.
 
 In psoriasis and rheumatoid arthritis, methotrexate should be stopped immediately if there is a significant drop in blood counts.
 In the treatment of neoplastic diseases, methotrexate should be continued only if the potential benefit warrants the risk of severe myelosuppression.
@@ -136,14 +140,14 @@ Patients with profound granulocytopenia and fever should be evaluated immediatel
 ### Hepatic
 
 Methotrexate has the potential for acute (elevated transaminases) and chronic (fibrosis and cirrhosis) hepatotoxicity.
-Chronic toxicity is potentially fatal; it generally has occurred after prolonged use (generally 2 years or more) and after a total dose of at least 1.5 grams.
+Chronic toxicity is potentially fatal; it generally has occurred after prolonged use (generally two years or more) and after a total dose of at least 1.5 grams.
 In studies in psoriatic patients, hepatotoxicity appeared to be a function of total cumulative dose and appeared to be enhanced by alcoholism, obesity, diabetes and advanced age.
 An accurate incidence rate has not been determined; the rate of progression and reversibility of lesions is not known.
 Special caution is indicated in the presence of preexisting liver damage or impaired hepatic function.
 
 In psoriasis, liver function tests, including serum albumin, should be performed periodically prior to dosing but are often normal in the face of developing fibrosis or cirrhosis.
 These lesions may be detectable only by biopsy.
-The usual recommendation is to obtain a liver biopsy at 1) pretherapy or shortly after initiation of therapy (2 to 4 months), 2) a total cumulative dose of 1.5 grams, and 3) after each additional 1 to 1.5 grams.
+The usual recommendation is to obtain a liver biopsy at 1) pretherapy or shortly after initiation of therapy (2-4 months), 2) a total cumulative dose of 1.5 grams, and 3) after each additional 1.0 to 1.5 grams.
 Moderate fibrosis or any cirrhosis normally leads to discontinuation of the drug; mild fibrosis normally suggests a repeat biopsy in 6 months.
 Milder histologic findings such as fatty change and low grade portal inflammation are relatively common pretherapy.
 Although these mild changes are usually not a reason to avoid or discontinue methotrexate therapy, the drug should be used with caution.
@@ -156,7 +160,7 @@ Of the 64 cases of fibrosis, 60 were deemed mild.
 The reticulin stain is more sensitive for early fibrosis and its use may increase these figures.
 It is unknown whether even longer use will increase these risks.
 
-Liver function tests should be performed at baseline and at 4 to 8 week intervals in patients receiving methotrexate for rheumatoid arthritis.
+Liver function tests should be performed at baseline and at 4-8 week intervals in patients receiving methotrexate for rheumatoid arthritis.
 Pretreatment liver biopsy should be performed for patients with a history of excessive alcohol consumption, persistently abnormal baseline liver function test values or chronic hepatitis B or C infection.
 During therapy, liver biopsy should be performed if there are persistent liver function test abnormalities or there is a decrease in serum albumin below the normal range (in the setting of well controlled rheumatoid arthritis).
 
