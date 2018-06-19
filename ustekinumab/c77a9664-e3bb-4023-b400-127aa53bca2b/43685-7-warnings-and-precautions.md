@@ -76,3 +76,11 @@ Non-live vaccinations received during a course of STELARA® may not elicit an im
 
 In clinical studies of psoriasis the safety of STELARA® in combination with other immunosuppressive agents or phototherapy was not evaluated.
 Ultraviolet-induced skin cancers developed earlier and more frequently in mice genetically manipulated to be deficient in both IL-12 and IL-23 or IL-12 alone [see Nonclinical Toxicology (13.1)].
+
+## 5.9 Noninfectious Pneumonia
+
+Cases of interstitial pneumonia, eosinophilic pneumonia and cryptogenic organizing pneumonia have been reported during post-approval use of STELARA®.
+Clinical presentations included cough, dyspnea, and interstitial infiltrates following one to three doses.
+Serious outcomes have included respiratory failure and prolonged hospitalization.
+Patients improved with discontinuation of therapy and in certain cases administration of corticosteroids.
+If diagnosis is confirmed, discontinue STELARA® and institute appropriate treatment [see Postmarketing Experience (6.3)].

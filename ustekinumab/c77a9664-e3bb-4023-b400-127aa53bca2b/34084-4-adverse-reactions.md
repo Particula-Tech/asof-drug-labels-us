@@ -136,4 +136,6 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Immune system disorders: Serious hypersensitivity reactions (including anaphylaxis and angioedema), other hypersensitivity reactions (including rash and urticaria) [see Warnings and Precautions (5.5)].
 
+Respiratory, thoracic and mediastinal disorders: Interstitial pneumonia, eosinophilic pneumonia and cryptogenic organizing pneumonia [see Warnings and Precautions (5.9)].
+
 Skin reactions: Pustular psoriasis, erythrodermic psoriasis.
