@@ -1,4 +1,4 @@
-Instructions For Use AFINITOR® (a-fin-it-or) DISPERZ™ (dis-perz) (everolimus tablets for oral suspension)
+Instructions For Use AFINITOR (a-fin-it-or) DISPERZ® (dis-perz) (everolimus tablets for oral suspension)
 
 Read these Instructions for Use for AFINITOR DISPERZ before you start taking it and each time you get a refill.
 There may be new information.
@@ -7,7 +7,7 @@ This information does not take the place of talking to your healthcare provider 
 Important Information:
 
 - Take AFINITOR DISPERZ as a suspension only.
-  AFINITOR DISPERZ is prepared as a suspension of un-dissolved medicine that is mixed with water, and then it is taken by mouth.
+  AFINITOR DISPERZ is prepared as a suspension of undissolved medicine that is mixed with water, and then it is taken by mouth.
   Do not chew, crush, or swallow AFINITOR DISPERZ whole.
 - AFINITOR DISPERZ can cause harm to an unborn baby.
   When possible, the suspension should be prepared by an adult who is not pregnant or planning to become pregnant.
@@ -145,7 +145,7 @@ Step 1: Prepare a clean, flat work surface that is away from where you prepare a
 Place a clean paper towel on the work surface.
 Place the needed supplies on the paper towel.
 
-Step 2: Wash and dry your hands before preparing the medicine (See Figure T).
+Step 2: Wash and dry your hands before preparing the medicine (see Figure T).
 
 Figure T
 
@@ -163,7 +163,7 @@ Step 5: Pour the water from the dose cup into a small drinking glass (maximum si
 Figure W
 
 - Doses up to 10 mg can be prepared in the small drinking glass.
-  If your total prescribed dose is more than 10 mg you will need to split the dose.
+  If your total prescribed dose is more than 10 mg, you will need to split the dose.
   Follow steps 4 through 10 for the first half of the dose.
   Then repeat steps 4 through 10 for the second half of the dose.
   Ask your pharmacist or healthcare provider if you are not sure what to do.
@@ -208,7 +208,7 @@ Step 13: Wash your hands.
 
 How should I store AFINITOR DISPERZ?
 
-- Store AFINITOR at room temperature, between 68°F to 77°F (20°C to 25°C).
+- Store AFINITOR DISPERZ at room temperature, between 68°F to 77°F (20°C to 25°C).
 - Keep AFINITOR DISPERZ in the pack it comes in.
 - Open the blister pack just before taking AFINITOR DISPERZ.
 - Keep AFINITOR DISPERZ dry and away from light.
@@ -218,8 +218,6 @@ Keep AFINITOR DISPERZ and all medicines out of the reach of children.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: Novartis Pharma Stein AG Stein, Switzerland
-
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
-T2012-157 August 2012
+T2018-82 June 2018
