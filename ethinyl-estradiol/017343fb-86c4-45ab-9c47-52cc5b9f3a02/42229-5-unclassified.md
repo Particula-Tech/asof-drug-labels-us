@@ -7,7 +7,7 @@ For patent information: www.merck.com/product/patent/home.html
 
 Copyright © 2001-2018 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-uspi-mk8342a-rng-1802r010
+uspi-mk8342a-rng-1806r011
 
 Instructions for Use
 
@@ -173,9 +173,9 @@ For patent information: www.merck.com/product/patent/home.html
 
 Copyright © 2001-2018 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 02/2018
+Revised: 06/2018
 
-usppi-mk8342a-rng-1802r010
+usppi-mk8342a-rng-1806r011
 
 # Instructions for Use
 
