@@ -1,6 +1,6 @@
 # Medication Guide
 
-ZEGERID (ze ger id)
+ZEGERID (ze-ger-id)
 
 (omeprazole/sodium bicarbonate)
 
@@ -26,7 +26,7 @@ ZEGERID can cause serious side effects, including:
 - •Diarrhea.
   ZEGERID may increase your risk of getting severe diarrhea.
   This diarrhea may be caused by an infection (Clostridium difficile) in your intestines.
-- Call your doctor right away if you have watery stool, stomach pain, and fever that does not go away.
+- Call your doctor right away if you have watery stool, stomach pain, and fever that do not go away.
 - •Bone fractures.
   People who take multiple daily doses of PPI medicines for a long period of time (a year or longer) may have an increased risk of fractures of the hip, wrist or spine.
   You should take ZEGERID exactly as prescribed, at the lowest dose possible for your treatment and for the shortest time needed.
@@ -34,7 +34,7 @@ ZEGERID can cause serious side effects, including:
 - •Certain types of lupus erythematosus.
   Lupus erythematosus is an autoimmune disorder (the body’s immune cells attack other cells or organs in the body).
   Some people who take PPI medicines, including ZEGERID, may develop certain types of lupus erythematosus or have worsening of the lupus they already have.
-  Call your doctor right away if you have new or worsening joint paint or a rash on your cheeks or arms that gets worse in the sun.
+  Call your doctor right away if you have new or worsening joint pain or a rash on your cheeks or arms that gets worse in the sun.
 
 ZEGERID can have other serious side effects.
 See “What are the possible side effects of ZEGERID?”
@@ -90,7 +90,7 @@ ZEGERID may affect how other medicines work, and other medicines may affect how 
 
 Especially tell your doctor if you take:
 
-- •Mycophenolate mofetil (Cellcept)
+- •mycophenolate mofetil (Cellcept)
 - •diazepam (Valium)
 - •warfarin (Coumadin, Jantoven)
 - •phenytoin (Dilantin)
@@ -171,8 +171,9 @@ ZEGERID may cause serious side effects, including:
 
 Your doctor may check the level of magnesium in your body before you start taking ZEGERID, or during treatment, if you will be taking ZEGERID for a long period of time.
 
-The most common side effects with ZEGERID include:
-
+- •Stomach growths (fundic gland polyps).
+  People who take PPI medicines for a long time have an increased risk of developing a certain type of stomach growths called fundic gland polyps, especially after taking PPI medicines for more than 1 year.
+  The most common side effects with ZEGERID include:
 - •headache
 - •abdominal pain
 - •nausea
@@ -204,11 +205,11 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store ZEGERID?
 
-- •Store ZEGERID at room temperature between 15° to 30°C (59° to 86°F).
+- •Store ZEGERID at room temperature between 59° to 86°F (15° to 30°C).
 - •Keep ZEGERID Capsules in a tightly closed container.
 - •Keep ZEGERID in a dry place and out of light.
 
-Keep ZEGERID and all medicines out of the reach of children.
+Keep ZEGERID and all medicines out of reach of children.
 
 General information about ZEGERID
 
@@ -235,32 +236,26 @@ Instructions for Use
 
 For instructions on taking ZEGERID Capsules and ZEGERID Powder for Oral Suspension by mouth, see “How should I take ZEGERID?”
 
-Giving ZEGERID Powder for Oral Suspension through a nasogastric tube (NG tube) or gastric tube:
+Giving ZEGERID Powder for Oral Suspension through a nasogastric tube (NG tube) or orogastric tube:
 
-- • Add 20 mL of water to a catheter tipped syringe and then add the contents of a packet as prescribed by your doctor.
+- Add 20 mL of water to a catheter tipped syringe and then add the contents of a packet as prescribed by your doctor.
   Use only a catheter tipped syringe to give ZEGERID through an NG tube or orogastric tube.
-- • Shake the syringe to dissolve the powder.
-- • Give the medicine through the NG or orogastric tube into the stomach right away.
-- • Refill the syringe with an equal amount of water.
-- • Shake and flush any remaining contents from the NG tube or orogastric tube into the stomach.
-
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
-ZEGERID® Capsules and Powder for Oral Suspension are
+- Shake the syringe to dissolve the powder.
+- Give the medicine through the NG or orogastric tube into the stomach right away.
+- Refill the syringe with an equal amount of water.
+- Shake and flush any remaining contents from the NG tube or orogastric tube into the stomach.
 
 Manufactured for: Salix Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-Please see www.salix.com for patent information.
-
 Zegerid is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
-
 All other product/brand names are trademarks of their respective owners.
 
-©Valeant Pharmaceuticals North America LLC
+© Valeant Pharmaceuticals North America LLC
 
-Rev.
-10/2016
+Revised: 06/2018
 
-- Patheon Med Guide: 95240002 / 2000008823
+- Patheon Med Guide: Update p/n
 
-Norwich Med Guide: 9549402
+Norwich Med Guide: Update p/n
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration

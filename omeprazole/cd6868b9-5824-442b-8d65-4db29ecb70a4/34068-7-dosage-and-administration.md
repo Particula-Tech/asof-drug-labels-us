@@ -4,9 +4,9 @@ ZEGERID (omeprazole/sodium bicarbonate) is available as a capsule and as a powde
 Directions for use for each indication are summarized in Table 1.
 All recommended doses throughout the labeling are based upon omeprazole.
 
-Since both the 20 mg and 40 mg oral suspension packets contain the same amount of sodium bicarbonate (1680 mg), two packets of 20 mg are not equivalent to one packet of ZEGERID 40 mg; therefore, two 20 mg packets of ZEGERID should not be substituted for one packet of ZEGERID 40 mg.
+Since both the 20 mg and 40 mg oral suspension packets contain the same amount of sodium bicarbonate (1,680 mg), two packets of 20 mg are not equivalent to one packet of ZEGERID 40 mg; therefore, two 20 mg packets of ZEGERID should not be substituted for one packet of ZEGERID 40 mg.
 
-Since both the 20 mg and 40 mg capsules contain the same amount of sodium bicarbonate (1100 mg), two capsules of 20 mg are not equivalent to one capsule of ZEGERID 40 mg; therefore, two 20 mg capsules of ZEGERID should not be substituted for one capsule of ZEGERID 40 mg.
+Since both the 20 mg and 40 mg capsules contain the same amount of sodium bicarbonate (1,100 mg), two capsules of 20 mg are not equivalent to one capsule of ZEGERID 40 mg; therefore, two 20 mg capsules of ZEGERID should not be substituted for one capsule of ZEGERID 40 mg.
 
 ZEGERID should be taken on an empty stomach at least one hour before a meal.
 

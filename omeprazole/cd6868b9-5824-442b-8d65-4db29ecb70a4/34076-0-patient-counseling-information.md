@@ -14,7 +14,7 @@ Advise patients to report to their healthcare provider if they experience any si
 - •Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.8)]
 - •Hypomagnesemia [see Warnings and Precautions (5.9)]
 
-Sodium content
+Sodium Content
 
 Patients on a sodium-restricted diet or patients at risk of developing congestive heart failure (CHF) should be informed of the sodium content of ZEGERID Capsules (304 mg per capsule) and ZEGERID Powder (460 mg per packet).
 Patients should be informed that chronic use of sodium bicarbonate may cause problems and increased sodium intake can cause swelling and weight gain.
@@ -23,8 +23,8 @@ If this occurs, they should contact their healthcare provider.
 
 Drug Interactions
 
-Advise patients to report to their healthcare provider if they start treatment with clopidogrel, St. John’s Wort or rifampin, or, if they take high-dose methotrexate.
-[see Warnings and Precautions (5.7, 5.10, 5.12)].
+Advise patients to report to their healthcare provider if they start treatment with clopidogrel, St. John’s wort or rifampin, or if they take high-dose methotrexate.
+[See Warnings and Precautions (5.7, 5.10, 5.12).]
 
 Administration
 
@@ -55,13 +55,11 @@ Conversely ½ of a 40 mg packet should not be substituted for one 20 mg packet.
 Patients should be advised that since both the 20 mg and 40 mg capsules contain the same amount of sodium bicarbonate (1100 mg), two capsules of 20 mg are not equivalent to one capsule of ZEGERID 40 mg; therefore, two 20 mg capsules of ZEGERID should not be substituted for one capsule of ZEGERID 40 mg.
 [See Dosage and Administration (2).]
 
-ZEGERID® Capsules and Powder for Oral Suspension are
+Manufactured for: Salix Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA Zegerid is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+All other product/brand names are trademarks of their respective owners.
 
-Manufactured for: Salix Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA Please see www.salix.com for patent information.
+© Valeant Pharmaceuticals North America LLC
 
-Zegerid is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
-All other product/brand names are trademarks of their respective owners. ©Valeant Pharmaceuticals North America LLC
+Patheon PI: Update p/n
 
-Patheon PI: 9524002 / 2000008823
-
-Norwich PI: 9549402
+Norwich PI: Update p/n

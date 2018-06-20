@@ -17,7 +17,7 @@ Use ZEGERID with caution in transplant patients receiving MMF.
 ## 7.2 Drugs Metabolized by Cytochrome P450 (CYP)
 
 Omeprazole can prolong the elimination of diazepam, warfarin and phenytoin, drugs that are metabolized by oxidation in the liver.
-There have been reports of increased INR and prothrombin time in patients receiving proton pump inhibitors, including omeprazole, and warfarin concomitantly.
+There have been reports of increased international normalized ratio (INR) and prothrombin time in patients receiving proton pump inhibitors, including omeprazole, and warfarin concomitantly.
 Increases in INR and prothrombin time may lead to abnormal bleeding and even death.
 Patients treated with proton pump inhibitors and warfarin may need to be monitored for increases in INR and prothrombin time.
 

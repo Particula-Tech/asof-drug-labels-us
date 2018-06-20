@@ -8,10 +8,11 @@ The following serious adverse reactions are described below and elsewhere in lab
 - •Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.6)]
 - •Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.8)]
 - •Hypomagnesemia [see Warnings and Precautions (5.9)]
+- •Fundic Gland Polyps [see Warnings and Precautions (5.13)]
 
 ## 6.1 Clinical Trials Experience
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 In the U.S. clinical trial population of 465 patients, the adverse reactions summarized in Table 2 were reported to occur in 1% or more of patients on therapy with omeprazole.
 Numbers in parentheses indicate percentages of the adverse reactions considered by investigators as possibly, probably or definitely related to the drug.
@@ -117,15 +118,13 @@ NOS = Not otherwise specified.
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of omeprazole.
-Because these reactions are voluntarily reported from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Body as a Whole: Hypersensitivity reactions, including anaphylaxis, anaphylactic shock, angioedema, bronchospasm, interstitial nephritis, urticaria (see also Skin below), fever, pain, fatigue, malaise, and systemic lupus erythematosus.
 
 Cardiovascular: Chest pain or angina, tachycardia, bradycardia, palpitation, elevated blood pressure, and peripheral edema.
 
-Gastrointestinal: Pancreatitis (some fatal), anorexia, irritable colon, flatulence, fecal discoloration, esophageal candidiasis, mucosal atrophy of the tongue, dry mouth, stomatitis, and abdominal swelling.
-During treatment with omeprazole, gastric fundic gland polyps have been noted rarely.
-These polyps are benign and appear to be reversible when treatment is discontinued.
+Gastrointestinal: Pancreatitis (some fatal), anorexia, irritable colon, flatulence, fecal discoloration, esophageal candidiasis, mucosal atrophy of the tongue, dry mouth, stomatitis, abdominal swelling and fundic gland polyps.
 Gastroduodenal carcinoids have been reported in patients with Zollinger-Ellison syndrome on long-term treatment with omeprazole.
 This finding is believed to be a manifestation of the underlying condition, which is known to be associated with such tumors.
 

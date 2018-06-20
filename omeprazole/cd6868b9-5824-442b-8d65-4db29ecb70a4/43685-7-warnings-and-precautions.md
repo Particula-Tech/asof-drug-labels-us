@@ -3,7 +3,7 @@
 ## 5.1 Presence of Gastric Malignancy
 
 In adults, symptomatic response to therapy with ZEGERID does not preclude the presence of gastric malignancy.
-Consider additional follow-up and diagnostic testing in adult patients who have a suboptimal response or an early symptomatic relapse after completing treatment with a PPI.
+Consider additional follow-up and diagnostic testing in adult patients who have a suboptimal response or an early symptomatic relapse after completing treatment with a proton pump inhibitor (PPI).
 In older patients, also consider an endoscopy.
 
 ## 5.2 Acute Interstitial Nephritis
@@ -89,8 +89,8 @@ For patients expected to be on prolonged treatment or who take PPIs with medicat
 
 ## 5.10 Concomitant Use of ZEGERID with St. John’s Wort or Rifampin
 
-Drugs which induce CYP2C19 or CYP3A4 (such as St.. John’s wort or rifampin) can substantially decrease omeprazole concentrations [see Drug Interactions (7.2)].
-Avoid concomitant use of ZEGERID with St John’s wort or rifampin.
+Drugs which induce CYP2C19 or CYP3A4 (such as St. John’s wort or rifampin) can substantially decrease omeprazole concentrations [see Drug Interactions (7.2)].
+Avoid concomitant use of ZEGERID with St. John’s wort or rifampin.
 
 ## 5.11 Interactions with Investigations for Neuroendocrine Tumors
 
@@ -105,3 +105,9 @@ If serial tests are performed (e.g., for monitoring), the same commercial labora
 Literature suggests that concomitant use of PPIs with methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite, possibly leading to methotrexate toxicities.
 In high-dose methotrexate administration, a temporary withdrawal of the PPI may be considered in some patients.
 [See Drug Interactions (7.8).]
+
+## 5.13 Fundic Gland Polyps
+
+PPI use is associated with an increased risk of fundic gland polyps that increases with long-term use, especially beyond one year.
+Most PPIs users who developed fundic gland polyps were asymptomatic and fundic gland polyps were identified incidentally on endoscopy.
+Use the shortest duration of PPI therapy appropriate to the condition being treated.

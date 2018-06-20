@@ -65,7 +65,7 @@ As do other agents that elevate intragastric pH, omeprazole administered for 14 
 The pattern of the bacterial species was unchanged from that commonly found in saliva.
 All changes resolved within three days of stopping treatment.
 
-The course of Barrett’s esophagus in 106 patients was evaluated in a U.S. double-blind controlled study of omeprazole 40 mg b.i.d. for 12 months followed by 20 mg b.i.d. for 12 months or ranitidine 300 mg b.i.d. for 24 months.
+The course of Barrett’s esophagus in 106 patients was evaluated in a U.S. double-blind controlled study of omeprazole 40 mg twice daily for 12 months followed by 20 mg twice daily for 12 months or ranitidine 300 mg twice daily for 24 months.
 No clinically significant impact on Barrett’s mucosa by antisecretory therapy was observed.
 Although neosquamous epithelium developed during antisecretory therapy, complete elimination of Barrett’s mucosa was not achieved.
 No significant difference was observed between treatment groups in development of dysplasia in Barrett’s mucosa, and no patient developed esophageal carcinoma during treatment.
