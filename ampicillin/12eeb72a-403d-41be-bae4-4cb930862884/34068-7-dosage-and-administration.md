@@ -33,6 +33,7 @@ TABLE 3 UNASYN Dosage Guide for Patients with Renal Impairment
 When only serum creatinine is available, the following formula (based on sex, weight, and age of the patient) may be used to convert this value into creatinine clearance.
 The serum creatinine should represent a steady state of renal function.
 
-|  | Males weight (kg) × (140 − age) 72 × serum creatinine |
-| --- | --- |
-|  | Females 0.85 × above value |
+|  | Males | weight (kg) × (140 – age) |  |  |
+| --- | --- | --- | --- | --- |
+|  |  | 72 × serum creatinine |  |  |
+|  | Females | 0.85 × above value |  |  |

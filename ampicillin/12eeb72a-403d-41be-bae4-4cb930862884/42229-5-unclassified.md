@@ -1,5 +1,5 @@
-|  | PHARMACY BULK PACKAGE NOT FOR DIRECT INFUSION |  |
-| --- | --- | --- |
+| PHARMACY BULK PACKAGE NOT FOR DIRECT INFUSION |
+| --- |
 
 To reduce the development of drug-resistant bacteria and maintain the effectiveness of UNASYN® and other antibacterial drugs, UNASYN should be used only to treat infections that are proven or strongly suspected to be caused by bacteria.
 
@@ -56,33 +56,6 @@ Table 5
 | Sterile Water for Injection, USP | 45 (30/15) 45 (30/15) | 4 hrs at 21°C 24 hrs at 4°C |
 | 0.9% Sodium Chloride Injection, USP | 45 (30/15) 45 (30/15) | 4 hrs at 21°C 24 hrs at 4°C |
 
-# OTHER SIZE PACKAGES AVAILABLE
+## Animal Pharmacology
 
-UNASYN® is also supplied in glass vial and piggyback bottles in the following package sizes:
-
-Vials containing 1.5 g (NDC 0049-0013-83) equivalent of UNASYN (1 g ampicillin as the sodium salt plus 0.5 g sulbactam as the sodium salt)
-
-Vials containing 3 g (NDC 0049-0014-83) equivalent of UNASYN (2 g ampicillin as the sodium salt plus 1 g sulbactam as the sodium salt)
-
-Bottles containing 1.5 g (NDC 0049-0022-83) equivalent of UNASYN (1 g ampicillin as the sodium salt plus 0.5 g sulbactam as the sodium salt)
-
-Bottles containing 3 g (NDC 0049-0023-83) equivalent of UNASYN (2 g ampicillin as the sodium salt plus 1 g sulbactam as the sodium salt)
-
-ADD-Vantage® vials containing 1.5 g (NDC 0049-0031-83) equivalent of UNASYN (1 g ampicillin as the sodium salt plus 0.5 g sulbactam as the sodium salt) are distributed by Pfizer Inc.
-
-ADD-Vantage® vials containing 3 g (NDC 0049-0032-83) equivalent of UNASYN (2 g ampicillin as the sodium salt plus 1 g sulbactam as the sodium salt) are distributed by Pfizer Inc.
-
-The 1.5 g UNASYN ADD-Vantage® vials are only to be used with Abbott Laboratories' ADD-Vantage® Flexible Diluent Container containing 0.9% Sodium Chloride Injection, USP, 50 mL, 100 mL, or 250 mL sizes.
-
-The 3 g UNASYN ADD-Vantage® vials are only to be used with Abbott Laboratories' ADD-Vantage® Flexible Diluent Container containing 0.9% Sodium Chloride Injection, USP, 100 mL or 250 mL sizes.
-
-To report SUSPECTED ADVERSE EVENTS, contact Pfizer Inc. at 1-800-438-1985 or FDA at 1-800-FDA-1088 or http://www.fda.gov/ for voluntary reporting of adverse reactions.
-
-This product's label may have been updated.
-For current full prescribing information, please visit www.pfizer.com.
-
-Rx only
-
-LAB-0018-17.0
-
-Revised: 05/2018
+While reversible glycogenosis was observed in laboratory animals, this phenomenon was dose- and time-dependent and is not expected to develop at the therapeutic doses and corresponding plasma levels attained during the relatively short periods of combined ampicillin/sulbactam therapy in man.

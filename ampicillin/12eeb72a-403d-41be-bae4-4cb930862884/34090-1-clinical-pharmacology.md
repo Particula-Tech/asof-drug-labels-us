@@ -36,7 +36,7 @@ The pharmacokinetics of ampicillin and sulbactam in pediatric patients receiving
 Immediately after a 15-minute infusion of 50 to 75 mg UNASYN/kg body weight, peak serum and plasma concentrations of 82 to 446 mcg ampicillin/mL and 44 to 203 mcg sulbactam/mL were obtained.
 Mean half-life values were approximately 1 hour.
 
-## Microbiology
+## MICROBIOLOGY
 
 Ampicillin is similar to benzyl penicillin in its bactericidal action against susceptible organisms during the stage of active multiplication.
 It acts through the inhibition of cell wall mucopeptide biosynthesis.
@@ -53,12 +53,12 @@ Thus, UNASYN possesses the properties of a broad-spectrum antibacterial and a be
 
 While in vitro studies have demonstrated the susceptibility of most strains of the following organisms, clinical efficacy for infections other than those included in the INDICATIONS and USAGE section has not been documented.
 
-Gram-Positive Bacteria: Staphylococcus aureus (beta-lactamase and non-beta-lactamase producing), Staphylococcus epidermidis (beta-lactamase and non-beta-lactamase producing), Staphylococcus saprophyticus (beta-lactamase and non-beta-lactamase producing), Streptococcus faecalis These are not beta-lactamase producing strains and, therefore, are susceptible to ampicillin alone.
+Gram-Positive Bacteria: Staphylococcus aureus (beta-lactamase and non-beta-lactamase producing), Staphylococcus epidermidis (beta-lactamase and non-beta-lactamase producing), Staphylococcus saprophyticus (beta-lactamase and non-beta-lactamase producing), Streptococcus faecalisThese are not beta-lactamase producing strains and, therefore, are susceptible to ampicillin alone.
 (Enterococcus), Streptococcus pneumoniae (formerly D. pneumoniae), Streptococcus pyogenes, Streptococcus viridans.
 
 Gram-Negative Bacteria: Hemophilus influenzae (beta-lactamase and non-beta-lactamase producing), Moraxella (Branhamella) catarrhalis (beta-lactamase and non-beta-lactamase producing), Escherichia coli (beta-lactamase and non-beta-lactamase producing), Klebsiella species (all known strains are beta-lactamase producing), Proteus mirabilis (beta-lactamase and non-beta-lactamase producing), Proteus vulgaris, Providencia rettgeri, Providencia stuartii, Morganella morganii, and Neisseria gonorrhoeae (beta-lactamase and non-beta-lactamase producing).
 
-Anaerobes: Clostridium species, Peptococcus species, Peptostreptococcus species, Bacteroides species, including B. fragilis.
+Anaerobes: Clostridium species,Peptococcus species,Peptostreptococcus species, Bacteroides species, including B. fragilis.
 
 ### Susceptibility Testing
 
