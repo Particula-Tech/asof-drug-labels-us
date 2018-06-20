@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Morphine sulfate extended-release tablets are for oral use and contain morphine sulfate, an agonist at the mu-opioid receptor.
+Morphine sulfate extended-release tablets are for oral use and contain morphine sulfate, an agonist.
 
 Each tablet contains the following inactive ingredients common to all strengths: colloidal silicon dioxide, hypromellose, lactose monohydrate, magnesium stearate, povidone, stearic acid, talc and titanium dioxide.
 
@@ -16,6 +16,6 @@ The 100 mg tablets also contain: FD&C Blue # 2/Indigo carmine aluminum lake, iro
 
 The 200 mg tablets also contain: D&C Yellow # 10 aluminum lake, FD&C Blue # 2/Indigo carmine aluminum lake, macrogol/PEG 4000 and macrogol/PEG 400
 
-Morphine sulfate are white, feathery, silky crystals, cubical masses of crystals, or white crystalline powder, soluble in water and slightly soluble in alcohol.
-The octanol: water partition coefficient of morphine is 1.42 at physiologic pH and the pK b is 7.9 for the tertiary nitrogen (mostly ionized at pH 7.4).
-Its structural formula is:
+Morphine sulfate, USP are white, feathery, silky crystals, cubical masses of crystals, or white crystalline powder, soluble in water, freely soluble in hot water, slightly soluble in alcohol but more so in hot alcohol, insoluble in chloroform and in ether.
+The octanol: water partition coefficient of morphine is 1.42 at physiologic pH and the pKb is 7.9 for the tertiary nitrogen (mostly ionized at pH 7.4).
+Its molecular weight is 758.83 and its structural formula is:
