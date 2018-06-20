@@ -1,6 +1,6 @@
 # DRUG ABUSE AND DEPENDENCE
 
-Midazolam Injection contains midazolam a Schedule IV substance.
+Midazolam Injection contains midazolam a Schedule intravenous substance.
 
 Midazolam was actively self-administered in primate models used to assess the positive reinforcing effects of psychoactive drugs.
 

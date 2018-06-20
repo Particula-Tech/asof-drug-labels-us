@@ -28,4 +28,4 @@ The initial pediatric dose of midazolam for sedation/anxiolysis/amnesia is age, 
 ### Neonates
 
 Midazolam should not be administered by rapid injection in the neonatal population.
-Severe hypotension and seizures have been reported following rapid IV administration, particularly with concomitant use of fentanyl (see DOSAGE AND ADMINISTRATION for complete information).
+Severe hypotension and seizures have been reported following rapid intravenous administration, particularly with concomitant use of fentanyl (see DOSAGE AND ADMINISTRATION for complete information).

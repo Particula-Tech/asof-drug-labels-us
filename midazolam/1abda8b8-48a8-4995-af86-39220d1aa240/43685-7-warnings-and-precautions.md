@@ -14,8 +14,7 @@ Adverse hemodynamic events have been reported in pediatric patients with cardiov
 ## Risks from Concomitant Use With Opioids
 
 Concomitant use of benzodiazepines, including midazolam, and opioids may result in profound sedation, respiratory depression, coma, and death.
-If a decision is made to use midazolam concomitantly with opioids, monitor patients closely for respiratory depression and sedation.
-(see PRECAUTIONS; Drug Interactions).
+If a decision is made to use midazolam concomitantly with opioids, monitor patients closely for respiratory depression and sedation (see PRECAUTIONS; Drug Interactions).
 
 ## Risk of Respiratory Adverse Events
 
@@ -26,8 +25,7 @@ Hypotension occurred more frequently in the sedation studies in patients premedi
 
 ## Individualization of Dosage
 
-Midazolam must never be used without individualization of dosage particularly when used with other medications capable of producing central nervous system depression.
-See DOSAGE AND ADMINISTRATION for complete information.
+Midazolam must never be used without individualization of dosage particularly when used with other medications capable of producing central nervous system depression. see DOSAGE AND ADMINISTRATION for complete information.
 
 ## Other Adverse Events
 
@@ -88,7 +86,7 @@ The neonate also has reduced and/or immature organ function and is also vulnerab
 
 Published animal studies demonstrate that the administration of anesthetic and sedation drugs that block NMDA receptors and/or potentiate GABA activity increase neuronal apoptosis in the developing brain and result in long-term cognitive deficits when used for longer than 3 hours.
 The clinical significance of these findings is not clear.
-However, based on the available data, the window of vulnerability to these changes is believed to correlate with exposures in the third trimester of gestation through the first several months of life, but may extend out to approximately three years of age in humans (See PRECAUTIONS/ Pregnancy and Pediatric Use and ANIMAL TOXICOLOGY AND/OR PHARMCOLOGY).
+However, based on the available data, the window of vulnerability to these changes is believed to correlate with exposures in the third trimester of gestation through the first several months of life, but may extend out to approximately three years of age in humans (see PRECAUTIONS/ Pregnancy and Pediatric Use and ANIMAL TOXICOLOGY AND/OR PHARMCOLOGY).
 
 Some published studies in children suggest that similar deficits may occur after repeated or prolonged exposures to anesthetic agents early in life and may result in adverse cognitive or behavioral effects.
 These studies have substantial limitations, and it is not clear if the observed effects are due to the anesthetic/sedation drug administration or other factors such as the surgery or underlying illness.
@@ -147,7 +145,7 @@ Cimetidine increased the mean midazolam steady-state concentration from 57 to 71
 Ranitidine increased the mean steady-state concentration to 62 ng/mL.
 No change in choice reaction time or sedation index was detected after dosing with the H2 receptor antagonists.
 
-In a placebo-controlled study, erythromycin administered as a 500 mg dose, three times a day, for 1 week (n=6), reduced the clearance of midazolam following a single 0.5 mg/kg IV dose.
+In a placebo-controlled study, erythromycin administered as a 500 mg dose, three times a day, for 1 week (n=6), reduced the clearance of midazolam following a single 0.5 mg/kg intravenous dose.
 The half-life was approximately doubled.
 
 Caution is advised when midazolam is administered to patients receiving erythromycin since this may result in a decrease in the plasma clearance of midazolam.
@@ -156,7 +154,7 @@ The effects of diltiazem (60 mg three times a day) and verapamil (80 mg three ti
 The half-life of midazolam increased from 5 to 7 hours when midazolam was taken in conjunction with verapamil or diltiazem.
 No interaction was observed in healthy subjects between midazolam and nifedipine.
 
-In a placebo-controlled study, where saquinavir or placebo was administered orally as a 1200 mg dose, three times a day, for 5 days (n=12), a 56% reduction in the clearance of midazolam following a single 0.05 mg/kg IV dose was observed.
+In a placebo-controlled study, where saquinavir or placebo was administered orally as a 1200 mg dose, three times a day, for 5 days (n=12), a 56% reduction in the clearance of midazolam following a single 0.05 mg/kg intravenous dose was observed.
 The half-life was approximately doubled.
 
 A moderate reduction in induction dosage requirements of thiopental (about 15%) has been noted following use of intramuscular midazolam for premedication in adults.
@@ -197,11 +195,9 @@ Male rats were treated orally with 1, 4, or 16 mg/kg midazolam beginning 62 days
 The high dose produced an equivalent exposure (AUC) as 4 mg/kg intravenous midazolam (1.85 times the human induction dose of 0.35 mg/kg based on body surface area comparison).
 There were no adverse effects on either male or female fertility noted
 
-## Pregnancy
+## Pregnancy:
 
 ### Teratogenic Effects
-
-#### Pregnancy Category D
 
 (see WARNINGS).
 
@@ -256,7 +252,7 @@ When midazolam is given in conjunction with opioids or other sedatives, the pote
 The health care practitioner who uses this medication in pediatric patients should be aware of and follow accepted professional guidelines for pediatric sedation appropriate to their situation.
 
 Midazolam should not be administered by rapid injection in the neonatal population.
-Severe hypotension and seizures have been reported following rapid IV administration, particularly, with concomitant use of fentanyl.
+Severe hypotension and seizures have been reported following rapid intravenous administration, particularly, with concomitant use of fentanyl.
 
 ### Animal Data
 
@@ -272,7 +268,7 @@ The clinical significance of these nonclinical findings is not known, and health
 Because geriatric patients may have altered drug distribution and diminished hepatic and/or renal function, reduced doses of midazolam are recommended.
 Intravenous and intramuscular doses of midazolam should be decreased for elderly and for debilitated patients (see WARNINGS and DOSAGE AND ADMINISTRATION) and subjects over 70 years of age may be particularly sensitive.
 These patients will also probably take longer to recover completely after midazolam administration for the induction of anesthesia.
-Administration of IM and IV midazolam to elderly and/or high risk surgical patients has been associated with rare reports of death under circumstances compatible with cardiorespiratory depression.
+Administration of intramuscular and intravenous midazolam to elderly and/or high risk surgical patients has been associated with rare reports of death under circumstances compatible with cardiorespiratory depression.
 In most of these cases, the patients also received other central nervous system depressants capable of depressing respiration, especially narcotics (see DOSAGE AND ADMINISTRATION).
 
-Specific dosing and monitoring guidelines for geriatric patients are provided in the DOSAGE AND ADMINISTRATION section for premedicated patients for sedation/anxiolysis/amnesia following IV and IM administration, for induction of anesthesia following IV administration and for continuous infusion.
+Specific dosing and monitoring guidelines for geriatric patients are provided in the DOSAGE AND ADMINISTRATION section for premedicated patients for sedation/anxiolysis/amnesia following intravenous and intramuscular administration, for induction of anesthesia following intravenous administration and for continuous infusion.
