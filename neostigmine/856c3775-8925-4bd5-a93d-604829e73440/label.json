@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA210051"
+  ],
+  "inn": "neostigmine",
+  "labeler": "Amneal Biosciences LLC",
+  "package_ndcs": [
+    "70121-1478-1",
+    "70121-1478-7",
+    "70121-1479-1",
+    "70121-1479-7"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "neostigmine methylsulfate",
+      "name": "Neostigmine methylsulfate"
+    }
+  ],
+  "setid": "856c3775-8925-4bd5-a93d-604829e73440",
+  "source": "dailymed"
+}
