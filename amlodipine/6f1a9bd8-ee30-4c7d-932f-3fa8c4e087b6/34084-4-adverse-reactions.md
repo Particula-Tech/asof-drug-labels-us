@@ -1,6 +1,9 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions are discussed in greater detail in other sections of the label: Rhabdomyolysis and myopathy [see Warnings and Precautions (5.1)] Liver enzyme abnormalities [see Warnings and Precautions (5.2)]
+The following serious adverse reactions are discussed in greater detail in other sections of the label:
+
+- Rhabdomyolysis and myopathy [see Warnings and Precautions (5.1)]
+- Liver enzyme abnormalities [see Warnings and Precautions (5.2)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -147,7 +150,7 @@ Amlodipine has been used safely in patients with chronic obstructive pulmonary d
 
 Atorvastatin
 
-Adverse reactions associated with atorvastatin therapy reported since market introduction that are not listed above, regardless of causality assessment, include the following: anaphylaxis, angioneurotic edema, bullous rashes (including erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis), rhabdomyolysis, myositis, fatigue, tendon rupture, fatal and non-fatal hepatic failure, dizziness, depression, peripheral neuropathy, and pancreatitis and interstitial lung disease.
+Adverse reactions associated with atorvastatin therapy reported since market introduction that are not listed above, regardless of causality assessment, include the following: anaphylaxis, angioneurotic edema, bullous rashes (including erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis), rhabdomyolysis, myositis, fatigue, tendon rupture, fatal and non-fatal hepatic failure, dizziness, depression, peripheral neuropathy, pancreatitis and interstitial lung disease.
 
 There have been rare reports of immune-mediated necrotizing myopathy associated with statin use [see Warnings and Precautions (5.1)].
 

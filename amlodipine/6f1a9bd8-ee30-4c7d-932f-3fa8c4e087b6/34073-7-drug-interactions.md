@@ -41,16 +41,16 @@ Concomitant administration of atorvastatin with strong inhibitors of CYP3A4 can 
 The extent of interaction and potentiation of effects depend on the variability of effect on CYP3A4.
 
 Clarithromycin: Atorvastatin AUC was significantly increased with concomitant administration of atorvastatin 80 mg with clarithromycin (500 mg twice daily) compared to that of atorvastatin alone [see Clinical Pharmacology (12.3)].
-Therefore, in patients taking clarithromycin, avoid atorvastatin doses >20 mg [see Warnings and Precautions (5.1) and Dosage and Administration (2)].
+Therefore, in patients taking clarithromycin, avoid atorvastatin doses >20 mg [see Dosage and Administration (2) and Warnings and Precautions (5.1)].
 
 Combination of Protease Inhibitors: Atorvastatin AUC was significantly increased with concomitant administration of atorvastatin with several combinations of HIV protease inhibitors, as well as with the hepatitis C protease inhibitor telaprevir, compared to that of atorvastatin alone [see Clinical Pharmacology (12.3)].
 Therefore, in patients taking the HIV protease inhibitor tipranavir plus ritonavir, or the hepatitis C protease inhibitor telaprevir, concomitant use of atorvastatin should be avoided.
 In patients taking the HIV protease inhibitor lopinavir plus ritonavir, caution should be used when prescribing atorvastatin and the lowest dose necessary should be used.
-In patients taking the HIV protease inhibitors saquinavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, or fosamprenavir plus ritonavir, the dose of atorvastatin should not exceed 20 mg [see Warnings and Precautions (5.1) and Dosage and Administration (2)].
+In patients taking the HIV protease inhibitors saquinavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, or fosamprenavir plus ritonavir, the dose of atorvastatin should not exceed 20 mg [see Dosage and Administration (2) and Warnings and Precautions (5.1)].
 In patients taking the HIV protease inhibitor nelfinavir or the hepatitis C protease inhibitor boceprevir, the dose of atorvastatin should not exceed 40 mg and close clinical monitoring is recommended.
 
 Itraconazole: Atorvastatin AUC was significantly increased with concomitant administration of atorvastatin 40 mg and itraconazole 200 mg [see Clinical Pharmacology (12.3)].
-Therefore, in patients taking itraconazole, avoid atorvastatin doses > 20 mg [see Warnings and Precautions (5.1) and Dosage and Administration (2)].
+Therefore, in patients taking itraconazole, avoid atorvastatin doses >20 mg [see Dosage and Administration (2) and Warnings and Precautions (5.1)].
 
 ## 7.4 Grapefruit Juice
 

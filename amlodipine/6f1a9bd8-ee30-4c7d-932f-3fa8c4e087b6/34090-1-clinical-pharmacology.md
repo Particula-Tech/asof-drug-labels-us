@@ -111,7 +111,7 @@ Steady-state plasma levels of amlodipine are reached after 7 to 8 days of consec
 Atorvastatin: Mean volume of distribution of atorvastatin is approximately 381 liters.
 Atorvastatin is ≥98% bound to plasma proteins.
 A blood/plasma ratio of approximately 0.25 indicates poor drug penetration into red blood cells.
-Based on observations in rats, atorvastatin calcium is likely to be secreted in human milk [see Contraindications (4.3) and Use in Specific Populations (8.3)].
+Based on observations in rats, atorvastatin calcium is likely to be secreted in human milk [see Contraindications (4) and Use in Specific Populations (8.3)].
 
 Metabolism
 
@@ -170,7 +170,7 @@ Amlodipine: Elderly patients and patients with hepatic insufficiency have decrea
 
 Atorvastatin: In patients with chronic alcoholic liver disease, plasma concentrations of atorvastatin are markedly increased.
 Cmax and AUC are each 4-fold greater in patients with Childs-Pugh A disease.
-Cmax and AUC of atorvastatin are approximately 16-fold and 11-fold increased, respectively, in patients with Childs-Pugh B disease [see Contraindications (4.1)].
+Cmax and AUC of atorvastatin are approximately 16-fold and 11-fold increased, respectively, in patients with Childs-Pugh B disease [see Contraindications (4)].
 
 Atorvastatin is contraindicated in patients with active liver disease.
 
@@ -201,7 +201,7 @@ Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 | See Warnings and Precautions (5.1) and Drug Interactions (7) for clinical significance.Cyclosporine 5.2 mg/kg/day, stable dose | 10 mg QD for 28 days | ↑ 870% | ↑1070% |
 | Tipranavir 500 mg BID/ritonavir 200 mg BID, 7 days | 10 mg, SD | ↑ 940% | ↑ 860% |
 | Telaprevir 750 mg q8h, 10 days | 20 mg, SD | ↑ 790% | ↑ 1060% |
-| ,The dose of saquinavir plus ritonavir in this study is not the clinically used dose. The increase in atorvastatin exposure when used clinically is likely to be higher than what was observed in this study. Therefore, use the lowest dose necessary. Saquinavir 400 mg BID/ritonavir 400mg BID, 15 days | 40 mg QD for 4 days | ↑ 390% | ↑ 430% |
+| , The dose of saquinavir plus ritonavir in this study is not the clinically used dose. The increase in atorvastatin exposure when used clinically is likely to be higher than what was observed in this study. Therefore, use the lowest dose necessary.Saquinavir 400 mg BID/ritonavir 400mg BID, 15 days | 40 mg QD for 4 days | ↑ 390% | ↑ 430% |
 | Clarithromycin 500 mg BID, 9 days | 80 mg QD for 8 days | ↑ 440% | ↑ 540% |
 | Darunavir 300 mg BID/ritonavir 100 mg BID, 9 days | 10 mg QD for 4 days | ↑ 340% | ↑ 230% |
 | Itraconazole 200 mg QD, 4 days | 40 mg SD | ↑ 330% | ↑ 20% |
@@ -252,8 +252,7 @@ Effect of Atorvastatin on the Pharmacokinetics of Co-administered Drugs
 | 80 mg QD for 15 days | Antipyrine, 600 mg SD | ↑ 3% | ↓ 11% |
 | 80 mg QD for 14 days | Digoxin 0.25 mg QD, 20 days | ↑ 15% | ↑ 20 % |
 | 40 mg QD for 22 days | Oral contraceptive QD, 2 months |  |  |
-|  | – norethindrone 1mg | ↑ 28% | ↑ 23% |
-|  | – ethinyl estradiol 35 µg | ↑ 19% | ↑ 30% |
+|  | – norethindrone 1mg – ethinyl estradiol 35 µg | ↑ 28% ↑ 19% | ↑ 23% ↑ 30% |
 | 10 mg, SD | Tipranavir 500 mg BID/ritonavir 200 mg BID, 7 days | No change | No change |
 | 10 mg QD for 4 days | Fosamprenavir 1400 mg BID, 14 days | ↓ 27% | ↓ 18% |
 | 10 mg QD for 4 days | Fosamprenavir 700 mg BID/ritonavir 100 mg BID, 14 days | No change | No change |

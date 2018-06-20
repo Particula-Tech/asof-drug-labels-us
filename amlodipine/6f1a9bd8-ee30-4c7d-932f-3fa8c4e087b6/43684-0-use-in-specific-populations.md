@@ -2,58 +2,97 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category X [see Contraindications (4.2)]
+Risk Summary
 
-Atorvastatin is contraindicated in women who are pregnant or may become pregnant.
-Atorvastatin may cause fetal harm when administered to a pregnant woman.
-CADUET should be administered to women of child bearing potential only when such patients are highly unlikely to conceive and have been informed of the potential hazards.
-If the woman becomes pregnant while taking CADUET, it should be discontinued immediately and the patient advised again as to the potential hazards to the fetus, and the lack of known clinical benefit with continued use during pregnancy.
-
-Serum cholesterol and triglycerides increase during normal pregnancy, and cholesterol products are essential for fetal development.
-Atherosclerosis is a chronic process, and discontinuation of lipid-lowering drugs during pregnancy should have little impact on long-term outcomes of primary hypercholesterolemia therapy.
-
-Amlodipine
-
-There are no adequate and well-controlled studies in pregnant women.
-Amlodipine should be used during pregnancy only if the potential benefit justifies the risk to the fetus.
-
-No evidence of teratogenicity or other embryo/fetal toxicity was found when pregnant rats and rabbits were treated orally with amlodipine maleate at doses up to 10 mg amlodipine/kg/day (respectively, 8 times 3 and 23 times 3 the maximum recommended human dose of 10 mg on a mg/m2 basis) during their respective periods of major organogenesis.
-However, litter size was significantly decreased (by about 50%) and the number of intrauterine deaths was significantly increased (about 5-fold) in rats receiving amlodipine maleate at a dose equivalent to 10 mg amlodipine/kg/day for 14 days before mating and throughout mating and gestation.
-Amlodipine maleate has been shown to prolong both the gestation period and the duration of labor in rats at this dose.
-
-3 Based on patient weight of 50 kg.
+CADUET is contraindicated in women who are pregnant.
 
 Atorvastatin
 
-There are no adequate and well-controlled studies of atorvastatin use during pregnancy.
-There have been rare reports of congenital anomalies following intrauterine exposure to statins.
-In a review of about 100 prospectively followed pregnancies in women exposed to other statins, the incidences of congenital anomalies, spontaneous abortions, and fetal deaths/stillbirths did not exceed the rate expected in the general population.
-However, this study was only able to exclude a three to four-fold increased risk of congenital anomalies over background incidence.
-In 89% of these cases, drug treatment started before pregnancy and stopped during the first trimester when pregnancy was identified.
+Atorvastatin is contraindicated for use in pregnant women since safety in pregnant women has not been established and there is no apparent benefit of lipid lowering drugs during pregnancy.
+Because HMG-CoA reductase inhibitors decrease cholesterol synthesis and possibly the synthesis of other biologically active substances derived from cholesterol, atorvastatin may cause fetal harm when administered to a pregnant woman.
+CADUET should be discontinued as soon as pregnancy is recognized [see Contraindications (4)].
+Limited published data on the use of atorvastatin are insufficient to determine a drug-associated risk of major congenital malformations or miscarriage.
+In animal reproduction studies in rats and rabbits there was no evidence of embryo-fetal toxicity or congenital malformations at doses up to 30 and 20 times, respectively, the human exposure at the MRHD of 80 mg, based on body surface area (mg/m2).
+In rats administered atorvastatin during gestation and lactation, decreased postnatal growth and development was observed at doses ≥6 times the MRHD (see Data).
+
+Amlodipine
+
+The limited available data based on post-marketing reports with amlodipine use in pregnant women are not sufficient to inform a drug-associated risk for major birth defects and miscarriage.
+There are risks to the mother and fetus associated with poorly controlled hypertension in pregnancy (see Clinical Considerations).
+In animal reproduction studies, there was no evidence of adverse developmental effects when pregnant rats and rabbits were treated orally with amlodipine maleate during organogenesis at doses approximately 10 and 20-times MRHD, respectively.
+However for rats, litter size was significantly decreased (by about 50%) and the number of intrauterine deaths was significantly increased (about 5-fold).
+Amlodipine has been shown to prolong both the gestation period and the duration of labor in rats at this dose (see Data).
+
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+Clinical Considerations
+
+Disease-associated maternal and/or embryo/fetal risk
+
+Hypertension in pregnancy increases the maternal risk for pre-eclampsia, gestational diabetes, premature delivery, and delivery complications (e.g., need for cesarean section and post-partum hemorrhage).
+Hypertension increases the fetal risk for intrauterine growth restriction and intrauterine death.
+Pregnant women with hypertension should be carefully monitored and managed accordingly.
+
+Data
+
+Human Data
+
+Atorvastatin
+
+Limited published data on atorvastatin calcium from observational studies, meta-analyses and case reports have not shown an increased risk of major congenital malformations or miscarriage.
+Rare reports of congenital anomalies have been received following intrauterine exposure to other HMG-CoA reductase inhibitors.
+In a review of approximately 100 prospectively followed pregnancies in women exposed to simvastatin or lovastatin, the incidences of congenital anomalies, spontaneous abortions, and fetal deaths/stillbirths did not exceed what would be expected in the general population.
+The number of cases is adequate to exclude a ≥3 to 4-fold increase in congenital anomalies over the background incidence.
+In 89% of the prospectively followed pregnancies, drug treatment was initiated prior to pregnancy and was discontinued at some point in the first trimester when pregnancy was identified.
+
+Animal Data
+
+Atorvastatin
 
 Atorvastatin crosses the rat placenta and reaches a level in fetal liver equivalent to that of maternal plasma.
-Atorvastatin was not teratogenic in rats at doses up to 300 mg/kg/day or in rabbits at doses up to 100 mg/kg/day.
-These doses resulted in multiples of about 30 times (rat) or 20 times (rabbit) the human exposure based on surface area (mg/m2) [see Contraindications (4.2)].
+When administered to pregnant rats and rabbits during organogenesis at oral doses up to 300 mg/kg/day and 100 mg/kg/day, respectively, atorvastatin was not teratogenic in rats at doses up to 300 mg/kg/day or in rabbits at doses up to 100 mg/kg/day.
+These doses resulted in multiples of about 30 times (rat) or 20 times (rabbit) the human exposure at the MRHD based on surface area (mg/m2).
+In rats, the maternally toxic dose of 300 mg/kg resulted in increased post-implantation loss and decreased fetal body weight.
+At the maternally toxic doses of 50 and 100 mg/kg/day in rabbits, there was increased post-implantation loss, and at 100 mg/kg/day fetal body weights were decreased.
 
-In a study in rats given atorvastatin calcium at doses equivalent to 20, 100, or 225 mg/kg/day, from gestation day 7 through to lactation day 21 (weaning), there was decreased pup survival at birth, neonate, weaning, and maturity in pups of mothers dosed with 225 mg/kg/day.
-Body weight was decreased on days 4 and 21 in pups of mothers dosed at 100 mg/kg/day; pup body weight was decreased at birth and at days 4, 21, and 91 at 225 mg/kg/day.
+In a study in pregnant rats administered atorvastatin calcium at doses equivalent to 20, 100, or 225 mg/kg/day, from gestation day 7 through to lactation day 20 (weaning), there was decreased survival at birth, postnatal day 4, weaning, and post-weaning in pups of mothers dosed with 225 mg/kg/day, a dose at which maternal toxicity was observed.
+Pup body weight was decreased through postnatal day 21 at 100 mg/kg/day, and through postnatal day 91 at 225 mg/kg/day.
 Pup development was delayed (rotorod performance at 100 mg/kg/day and acoustic startle at 225 mg/kg/day; pinnae detachment and eye-opening at 225 mg/kg/day).
-These doses of atorvastatin correspond to 6 times (100 mg/kg) and 22 times (225 mg/kg) the human AUC at 80 mg/day.
+These doses of atorvastatin correspond to 6 times (100 mg/kg) and 22 times (225 mg/kg) the human exposure at the MRHD, based on AUC.
 
-## 8.2 Labor and Delivery
+Amlodipine
 
-No studies have been conducted in pregnant women on the effect of CADUET, amlodipine, or atorvastatin on the mother or the fetus during labor or delivery, or on the duration of labor or delivery.
-Amlodipine has been shown to prolong the duration of labor in rats.
+No evidence of teratogenicity or other embryo/fetal toxicity was found when pregnant rats and rabbits were treated orally with amlodipine maleate at doses up to 10 mg amlodipine/kg/day (approximately 10 and 20 times the MRHD based on body surface area, respectively) during their respective periods of major organogenesis.
+However, for rats, litter size was significantly decreased (by about 50%) and the number of intrauterine deaths was significantly increased (about 5-fold) in rats receiving amlodipine maleate at a dose equivalent to 10 mg amlodipine/kg/day for 14 days before mating and throughout mating and gestation.
+Amlodipine maleate has been shown to prolong both the gestation period and the duration of labor in rats at this dose.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-It is not known whether amlodipine is excreted in human milk.
-In the absence of this information, it is recommended that nursing be discontinued while CADUET is administered.
+Risk Summary
 
-It is not known whether atorvastatin is excreted in human milk, but a small amount of another drug in this class does pass into breast milk.
-Nursing rat pups had plasma and liver drug levels of 50% and 40%, respectively, of that in their mother's milk.
-Animal breast milk drug levels may not accurately reflect human breast milk levels.
-Because another drug in this class passes into human milk and because statins have a potential to cause serious adverse reactions in nursing infants, women taking CADUET should be advised not to nurse their infants [see Contraindications (4.3)].
+CADUET is contraindicated during breastfeeding.
+
+Atorvastatin
+
+Atorvastatin use is contraindicated during breastfeeding [see Contraindications (4)].
+There is no available information on the effects of the drug on the breastfed infant or the effects of the drug on milk production.
+It is not known whether atorvastatin is present in human milk, but it has been shown that another drug in this class passes into human milk and atorvastatin is present in rat milk.
+Because of the potential for serious adverse reactions in a breastfed infant, advise women that breastfeeding is not recommended during treatment with CADUET.
+
+Amlodipine
+
+Limited available data from a published clinical lactation study reports that amlodipine is present in human milk at an estimated median relative infant dose of 4.2%.
+No adverse effects of amlodipine on the breastfed infant have been observed.
+There is no available information on the effects of amlodipine on milk production.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Contraception
+
+Atorvastatin may cause fetal harm when administered to a pregnant woman.
+Advise females of reproductive potential to use effective contraception during treatment with CADUET [see Use in Specific Populations (8.1)].
 
 ## 8.4 Pediatric Use
 
@@ -71,7 +110,7 @@ Patients treated with atorvastatin had an adverse experience profile generally s
 The most common adverse experiences observed in both groups, regardless of causality assessment, were infections.
 Doses greater than 20 mg have not been studied in this patient population.
 In this limited controlled study, there was no significant effect on growth or sexual maturation in boys or on menstrual cycle length in girls [see Clinical Studies (14.11), Adverse Reactions (6.1), and Dosage and Administration (2)].
-Adolescent females should be counseled on appropriate contraceptive methods while on atorvastatin therapy [see Contraindications (4.2) and Use in Specific Populations (8.1)].
+Adolescent females should be counseled on appropriate contraceptive methods while on atorvastatin therapy [see Contraindications (4) and Use in Specific Populations (8.1)].
 Atorvastatin has not been studied in controlled clinical trials involving pre-pubertal patients or patients younger than 10 years of age.
 
 Clinical efficacy with doses of atorvastatin up to 80 mg/day for 1 year have been evaluated in an uncontrolled study of patients with homozygous FH including 8 pediatric patients [see Clinical Studies (14.10)].
@@ -95,4 +134,4 @@ Advanced age (≥ 65 years) is a predisposing factor for myopathy.
 
 ## 8.6 Hepatic Impairment
 
-CADUET is contraindicated in patients with active liver disease which may include unexplained persistent elevations in hepatic transaminase levels [see Contraindications (4.1) and Clinical Pharmacology (12.3)].
+CADUET is contraindicated in patients with active liver disease which may include unexplained persistent elevations in hepatic transaminase levels [see Contraindications (4) and Clinical Pharmacology (12.3)].

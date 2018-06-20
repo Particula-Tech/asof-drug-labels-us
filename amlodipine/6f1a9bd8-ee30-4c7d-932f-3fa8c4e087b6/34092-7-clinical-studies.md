@@ -136,9 +136,9 @@ Effect of Atorvastatin 80 mg/day vs. 10 mg/day on Time to Occurrence of Major Ca
 Table 7.
 Overview of Efficacy Results in TNT
 
-| Endpoint | Atorvastatin 10 mg (N=5006) |  | Atorvastatin 80 mg (N=4995) |  | HRAtorvastatin 80 mg: atorvastatin 10 mg (95% CI) |
-| --- | --- | --- | --- | --- | --- |
 | PRIMARY ENDPOINT | n | (%) | n | (%) |  |
+| --- | --- | --- | --- | --- | --- |
+| Endpoint | Atorvastatin 10 mg (N=5006) |  | Atorvastatin 80 mg (N=4995) |  | HRAtorvastatin 80 mg: atorvastatin 10 mg (95% CI) |
 | First major cardiovascular endpoint | 548 | (10.9) | 434 | (8.7) | 0.78 (0.69, 0.89) |
 | Components of the Primary Endpoint |  |  |  |  |  |
 | CHD death | 127 | (2.5) | 101 | (2.0) | 0.80 (0.61, 1.03) |
@@ -157,8 +157,7 @@ Overview of Efficacy Results in TNT
 | Cancer death | 75 | (1.5) | 85 | (1.7) | 1.13 (0.83, 1.55) |
 | Other non-CV death | 43 | (0.9) | 58 | (1.2) | 1.35 (0.91, 2.00) |
 | Suicide, homicide, and other traumatic non-CV death | 9 | (0.2) | 15 | (0.3) | 1.67 (0.73, 3.82) |
-| HR=hazard ratio; CHD=coronary heart disease; CI=confidence interval; MI=myocardial infarction; CHF=congestive heart failure; CV=cardiovascular; PVD=peripheral vascular disease; CABG=coronary artery bypass graft |  |  |  |  |  |
-| Confidence intervals for the Secondary Endpoints were not adjusted for multiple comparisons. |  |  |  |  |  |
+| HR=hazard ratio; CHD=coronary heart disease; CI=confidence interval; MI=myocardial infarction; CHF=congestive heart failure; CV=cardiovascular; PVD=peripheral vascular disease; CABG=coronary artery bypass graft Confidence intervals for the Secondary Endpoints were not adjusted for multiple comparisons. |  |  |  |  |  |
 
 Of the events that comprised the primary efficacy endpoint, treatment with atorvastatin 80 mg/day significantly reduced the rate of non-fatal, non-procedure related MI and fatal and non-fatal stroke, but not CHD death or resuscitated cardiac arrest (Table 7).
 Of the predefined secondary endpoints, treatment with atorvastatin 80 mg/day significantly reduced the rate of coronary revascularization, angina, and hospitalization for heart failure, but not peripheral vascular disease.
@@ -251,9 +250,9 @@ The results of an open-label crossover study of 16 patients (genotypes: 14 apo E
 Table 11.
 Open-Label Crossover Study of 16 Patients with Dysbetalipoproteinemia (Fredrickson Type III)
 
-|  | Median (min, max) at Baseline (mg/dL) | Atorvastatin 10 mg | Atorvastatin 80 mg |
-| --- | --- | --- | --- |
 |  |  | Median % Change (min, max) |  |
+| --- | --- | --- | --- |
+|  | Median (min, max) at Baseline (mg/dL) | Atorvastatin 10 mg | Atorvastatin 80 mg |
 | Total-C | 442 (225, 1320) | -37 (-85, 17) | -58 (-90, -31) |
 | Triglycerides | 678 (273, 5990) | -39 (-92, -8) | -53 (-95, -30) |
 | IDL-C + VLDL-C | 215 (111, 613) | -32 (-76, 9) | -63 (-90, -8) |
@@ -270,7 +269,7 @@ The remaining 3 receptor-negative patients had a mean LDL-C reduction of 22%.
 
 ## 14.11 Atorvastatin for Heterozygous Familial Hypercholesterolemia in Pediatric Patients
 
-In a double-blind, placebo-controlled study followed by an open-label phase, 187 boys and postmenarchal girls 10-17 years of age (mean age 14.1 years) with heterozygous familial hypercholesterolemia (FH) or severe hypercholesterolemia, were randomized to atorvastatin (n=140) or placebo (n=47) for 26 weeks and then all received atorvastatin for 26 weeks.
+In a double-blind, placebo-controlled study followed by an open-label phase, 187 boys and postmenarchal girls 10–17 years of age (mean age 14.1 years) with heterozygous familial hypercholesterolemia (FH) or severe hypercholesterolemia, were randomized to atorvastatin (n=140) or placebo (n=47) for 26 weeks and then all received atorvastatin for 26 weeks.
 Inclusion in the study required 1) a baseline LDL-C level ≥ 190 mg/dL or 2) a baseline LDL-C level ≥ 160 mg/dL and positive family history of FH or documented premature cardiovascular disease in a first or second-degree relative.
 The mean baseline LDL-C value was 218.6 mg/dL (range: 138.5–385.0 mg/dL) in the atorvastatin group compared to 230.0 mg/dL (range: 160.0–324.5 mg/dL) in the placebo group.
 The dosage of atorvastatin (once daily) was 10 mg for the first 4 weeks and uptitrated to 20 mg if the LDL-C level was > 130 mg/dL.
@@ -300,9 +299,9 @@ At eight weeks, all eight combination-treatment groups of amlodipine and atorvas
 Table 13.
 Effects of Amlodipine and Atorvastatin on Blood Pressure and LDL-C
 
-| Amlodipine | 0 mg | 10 mg | 20 mg | 40 mg | 80 mg |
-| --- | --- | --- | --- | --- | --- |
 | BP (mmHg) | Atorvastatin |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Amlodipine | 0 mg | 10 mg | 20 mg | 40 mg | 80 mg |
 | 0 mg | — | -1.5/-0.8 | -3.2/-0.6 | -3.2/-1.8 | -3.4/-0.8 |
 | 5 mg | -9.8/-4.3 | -10.7/-4.9 | -12.3/-6.1 | -9.7/-4.0 | -9.2/-5.1 |
 | 10 mg | -13.2/-7.1 | -12.9/-5.8 | -13.1/-7.3 | -13.3/-6.5 | -14.6/-7.8 |

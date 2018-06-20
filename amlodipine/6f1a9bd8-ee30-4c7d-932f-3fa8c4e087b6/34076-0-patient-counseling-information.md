@@ -17,9 +17,6 @@ They should discuss all medication, both prescription and over the counter, with
 
 Liver Enzymes: Advise patients treated with CADUET to report promptly any symptoms that may indicate liver injury, including fatigue, anorexia, right upper abdominal discomfort, dark urine, or jaundice.
 
-Pregnancy: Women of childbearing age should be advised to use an effective method of birth control to prevent pregnancy while using CADUET.
-Discuss future pregnancy plans with your patients, and discuss when to stop CADUET if they are trying to conceive.
-Patients should be advised that if they become pregnant, they should stop taking CADUET and call their healthcare professional.
+Embryofetal Toxicity: Advise females of reproductive potential of the risk to a fetus, to use effective contraception during treatment and to inform their healthcare provider of a known or suspected pregnancy while using CADUET [see Contraindications (4) and Use in Specific Populations (8.1, 8.3)].
 
-Breast-feeding: Women who are breast-feeding should be advised to not use CADUET.
-Patients who have a lipid disorder and are breast-feeding should be advised to discuss the options with their healthcare professional.
+Lactation: Advise women not to breastfeed during treatment with CADUET [see Contraindications (4) and Use in Specific Populations (8.2)].

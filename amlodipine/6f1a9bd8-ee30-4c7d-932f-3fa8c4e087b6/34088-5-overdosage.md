@@ -8,7 +8,7 @@ Overdosage might be expected to cause excessive peripheral vasodilation with mar
 In humans, experience with intentional overdosage of amlodipine is limited.
 
 Single oral doses of amlodipine maleate equivalent to 40 mg amlodipine/kg and 100 mg amlodipine/kg in mice and rats, respectively, caused deaths.
-Single oral amlodipine maleate doses equivalent to 4 or more mg amlodipine/kg or higher in dogs (11 or more times the maximum recommended human dose on a mg/m2 basis) caused a marked peripheral vasodilation and hypotension.
+Single oral amlodipine maleate doses equivalent to 4 or more mg amlodipine/kg or higher in dogs (11 or more times the MRHD on a mg/m2 basis) caused a marked peripheral vasodilation and hypotension.
 
 If overdose should occur with amlodipine, initiate active cardiac and respiratory monitoring.
 Perform frequent blood pressure measurements.

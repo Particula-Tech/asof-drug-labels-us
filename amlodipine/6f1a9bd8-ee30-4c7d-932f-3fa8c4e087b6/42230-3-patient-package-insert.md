@@ -1,4 +1,6 @@
-PATIENT INFORMATION
+# PATIENT INFORMATION
+
+Caduet® amlodipine besylate/atorvastatin calcium from 2.5mg/10mg to 10mg/80mg tablets
 
 (CAD-oo-et)
 
@@ -128,6 +130,7 @@ Call your doctor right away if:
 - you feel more tired than usual
 - your skin and white of your eyes get yellow
 - you have allergic skin reactions
+
 - Chest pain that does not go away or gets worse.
   Sometimes when you start CADUET or increase your dose, chest pain can get worse or a heart attack can happen.
   If this happens, call your doctor or go to the emergency room right away.

@@ -52,7 +52,7 @@ There have been rare postmarketing reports of fatal and non-fatal hepatic failur
 If serious liver injury with clinical symptoms and/or hyperbilirubinemia or jaundice occurs during treatment with CADUET, promptly interrupt therapy.
 If an alternate etiology is not found, do not restart CADUET.
 
-Active liver disease or unexplained persistent transaminase elevations are contraindications to the use of CADUET [see Contraindications (4.1)].
+Active liver disease or unexplained persistent transaminase elevations are contraindications to the use of CADUET [see Contraindications (4)].
 
 ## 5.3 Increased Angina and Myocardial Infarction
 
@@ -80,7 +80,7 @@ Brain hemorrhage and optic nerve vacuolation were seen in another female dog tha
 The 120 mg/kg dose resulted in a systemic exposure approximately 16 times the human plasma area-under-the-curve (AUC, 0–24 hours) based on the maximum human dose of 80 mg/day.
 A single tonic convulsion was seen in each of 2 male dogs (one treated at 10 mg/kg/day and one at 120 mg/kg/day) in a 2-year study.
 No CNS lesions have been observed in mice after chronic treatment for up to 2 years at doses up to 400 mg/kg/day or in rats at doses up to 100 mg/kg/day.
-These doses were 6 to 11 times (mouse) and 8 to 16 times (rat) the human AUC (0–24) based on the maximum recommended human dose of 80 mg/day.
+These doses were 6 to 11 times (mouse) and 8 to 16 times (rat) the human AUC (0–24) based on the maximum recommended human dose (MRHD) of 80 mg/day.
 
 CNS vascular lesions, characterized by perivascular hemorrhages, edema, and mononuclear cell infiltration of perivascular spaces, have been observed in dogs treated with other statins.
 A chemically similar drug in this class produced optic nerve degeneration (Wallerian degeneration of retinogeniculate fibers) in clinically normal dogs in a dose-dependent fashion at a dose that produced plasma drug levels about 30 times higher than the mean drug level in humans taking the highest recommended dose.
