@@ -39,13 +39,13 @@ Methenamine Hippurate Tablets have not been evaluated for carcinogenicity or mut
 
 Methenamine was evaluated for mutagenicity in the Ames Salmonella/mammalian microsome test.
 Five strains of Salmonella typhimurium (TA98, TA100, TA1535, TA1537 and TA1538) and a strain of Escherichia coli (WP2uvrA) were used.
-At doses of 10,000 μg/plate methenamine showed mutagenic activity in Salmonella typhimurium TA98 and TA100 by metabolic activation and also showed mutagenic activity in TA98 without microsomal activation.
+At a dose of 10,000 μg/plate methenamine showed mutagenic activity in Salmonella typhimurium TA98 and TA100 by metabolic activation and also showed mutagenic activity in TA98 without microsomal activation.
 
 In one large study, no evidence of carcinogenicity was found following long-term oral administration of methenamine 1.25g/kg/day to rats (104 weeks) and mice (60 weeks).
 The same investigators also reported no suggestion of carcinogenicity resulting from five subcutaneous injections of 5 g/kg (given on alternate days for a total dose of 25 g/kg).
 An earlier, much smaller study showed a 50% incidence of local sarcomas following subcutaneous injection of methenamine, totaling 25 g/kg, administered over periods of up to 15 months to rats concurrently receiving formic acid.
 
-Methenamine hippurate administered at a dose level of 800 mg/kg/day, did not adversely affect the fertility of female rats.
+Methenamine hippurate, administered at a dose level of 800 mg/kg/day, did not adversely affect the fertility of female rats.
 Effects on male fertility have not been adequately studied.
 
 ## Pregnancy:
@@ -58,7 +58,7 @@ Methenamine Hippurate Tablets should be used during pregnancy only if the potent
 
 ## Labor and Delivery:
 
-Methenamine Hippurate Tablets have no recognized use during labor and delivery, and its effect during these processes is unknown.
+Methenamine Hippurate Tablets have no recognized use during labor and delivery, and their effect during these processes is unknown.
 
 ## Nursing Mothers:
 

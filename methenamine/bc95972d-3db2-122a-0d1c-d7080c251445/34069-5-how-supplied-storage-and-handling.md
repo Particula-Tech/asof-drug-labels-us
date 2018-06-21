@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Methenamine Hippurate Tablets are capsule-shaped, scored, white,debossed “CL 20” on one side.
+Methenamine Hippurate Tablets are capsule-shaped, scored, white, debossed “CL 20” on one side.
 Each tablet contains methenamine hippurate 1 g.
 
 Bottles of 100 tablets (NDC 47781-577-01).

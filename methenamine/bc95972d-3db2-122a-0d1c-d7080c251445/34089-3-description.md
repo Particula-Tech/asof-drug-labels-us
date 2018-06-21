@@ -1,9 +1,9 @@
 # DESCRIPTION
 
-Methenamine Hippurate Tabletsare a urinary tract antiseptic drug.
+Methenamine Hippurate Tablets are a urinary tract antiseptic drug.
 Each white, scored tablet contains methenamine hippurate 1g (see HOW SUPPLIED).
-Methenamine Hippurate Tablets also contain:magnesium stearate, povidone and saccharin sodium.
-Chemically, methenamine hippurate is the hippuric acid salt of ethenamine (hexamethylenetetramine).
+Methenamine Hippurate Tablets also contain: magnesium stearate, povidone and saccharin sodium.
+Chemically, methenamine hippurate is the hippuric acid salt of methenamine (hexamethylenetetramine).
 
 Structural formula:
 
