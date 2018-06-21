@@ -1,4 +1,4 @@
-# 7 DRUG INTERACTIONS
+# 7DRUG INTERACTIONS
 
 No drug interactions have been identified.
 No formal interaction studies have been conducted.

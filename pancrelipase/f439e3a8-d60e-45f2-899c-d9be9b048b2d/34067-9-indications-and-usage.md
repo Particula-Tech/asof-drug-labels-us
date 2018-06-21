@@ -1,3 +1,3 @@
-# 1 INDICATIONS AND USAGE
+# 1INDICATIONS AND USAGE
 
 ZENPEP® (pancrelipase) is indicated for the treatment of exocrine pancreatic insufficiency due to cystic fibrosis or other conditions.

@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Dosage
+## 2.1Dosage
 
 ZENPEP is not interchangeable with other pancrelipase products.
 
@@ -14,19 +14,27 @@ ZENPEP is available in a 3,000 lipase unit capsule.
 The recommended dose of ZENPEP in infants up to 12 months is 3,000 lipase units.
 Patients may be dosed on a fat ingestion-based or actual body weight-based dosing scheme.
 
-Infants (up to 12 months) Infants may be given 3,000 lipase units (one capsule) per 120 mL of formula or breast-feeding.
+Infants (up to 12 months)
+
+Infants may be given 3,000 lipase units (one capsule) per 120 mL of formula or breast-feeding.
 Do not mix ZENPEP capsule contents directly into formula or breast milk prior to administration [see Dosage and Administration (2.2)].
 
-Children Older than 12 Months and Younger than 4 Years Enzyme dosing should begin with 1,000 lipase units/kg of body weight per meal for children less than age 4 years to a maximum of 2,500 lipase units/kg of body weight per meal (or less than or equal to 10,000 lipase units/kg of body weight per day), or less than 4,000 lipase units/g fat ingested per day.
+Children Older than 12 Months and Younger than 4 Years
 
-Children 4 Years and Older and Adults Enzyme dosing should begin with 500 lipase units/kg of body weight per meal for those older than age 4 years to a maximum of 2,500 lipase units/kg of body weight per meal (or less than or equal to 10,000 lipase units/kg of body weight per day), or less than 4,000 lipase units/g fat ingested per day.
+Enzyme dosing should begin with 1,000 lipase units/kg of body weight per meal for children less than age 4 years to a maximum of 2,500 lipase units/kg of body weight per meal (or less than or equal to 10,000 lipase units/kg of body weight per day), or less than 4,000 lipase units/g fat ingested per day.
+
+Children 4 Years and Older and Adults
+
+Enzyme dosing should begin with 500 lipase units/kg of body weight per meal for those older than age 4 years to a maximum of 2,500 lipase units/kg of body weight per meal (or less than or equal to 10,000 lipase units/kg of body weight per day), or less than 4,000 lipase units/g fat ingested per day.
 
 Usually, half of the prescribed ZENPEP dose for an individualized full meal should be given with each snack.
 The total daily dose should reflect approximately three meals plus two or three snacks per day.
 
 Enzyme doses expressed as lipase units/kg of body weight per meal should be decreased in older patients because they weigh more but tend to ingest less fat per kilogram of body weight.
 
-Limitations on Dosing Dosing should not exceed the recommended maximum dosage set forth by the Cystic Fibrosis Foundation Consensus Conferences Guidelines.1, 2, 3
+Limitations on Dosing
+
+Dosing should not exceed the recommended maximum dosage set forth by the Cystic Fibrosis Foundation Consensus Conferences Guidelines.1, 2, 3
 
 If symptoms and signs of steatorrhea persist, the dosage may be increased by a healthcare professional.
 Patients should be instructed not to increase the dosage on their own.
@@ -38,18 +46,22 @@ Doses greater than 2,500 lipase units/kg of body weight per meal (or greater tha
 Doses greater than 6,000 lipase units/kg of body weight per meal have been associated with colonic strictures, indicative of fibrosing colonopathy, in children with cystic fibrosis less than 12 years of age [see Warnings and Precautions (5.1)].
 Patients currently receiving higher doses than 6,000 lipase units/kg of body weight per meal should be examined and the dosage either immediately decreased or titrated downward to a lower range.
 
-## 2.2 Administration
+## 2.2Administration
 
 ZENPEP should always be taken as prescribed by a healthcare professional.
 
-Infants (up to 12 months) ZENPEP should be administered to infants immediately prior to each feeding, using a dosage of 3,000 lipase units (one capsule) per 120 mL of formula or per breast-feeding.
+Infants (up to 12 months)
+
+ZENPEP should be administered to infants immediately prior to each feeding, using a dosage of 3,000 lipase units (one capsule) per 120 mL of formula or per breast-feeding.
 Contents of the capsule may be administered with a small amount of applesauce, or other acidic food with a pH of 4.5 or less (e.g., commercially available preparations of bananas, or pears).
 Contents of the capsule may also be administered directly to the mouth.
 Administration should be followed by breast milk or formula.
 Contents of the capsule should not be mixed directly into formula or breast milk as this may diminish efficacy.
 Care should be taken to ensure that ZENPEP is not crushed or chewed or retained in the mouth, to avoid irritation of the oral mucosa.
 
-Children and Adults ZENPEP should be taken during meals or snacks, with sufficient fluid.
+Children and Adults
+
+ZENPEP should be taken during meals or snacks, with sufficient fluid.
 ZENPEP capsules and capsule contents should not be crushed or chewed.
 Capsules should be swallowed whole.
 

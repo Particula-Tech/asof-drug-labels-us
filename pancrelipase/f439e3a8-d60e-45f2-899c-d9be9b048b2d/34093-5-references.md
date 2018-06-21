@@ -1,4 +1,4 @@
-# 15 REFERENCES
+# 15REFERENCES
 
 1. Borowitz DS, Grand RJ, Durie PR, et al. Use of pancreatic enzyme supplements for patients with cystic fibrosis in the context of fibrosing colonopathy.
    Journal of Pediatrics.
@@ -13,4 +13,4 @@
    1995; 346: 1247-1251.
 5. FitzSimmons SC, Burkhart GA, Borowitz DS, et al. High-dose pancreatic-enzyme supplements and fibrosing colonopathy in children with cystic fibrosis.
    New England Journal of Medicine.
-   1997; 336: 1283-1289
+   1997; 336: 1283-1289.

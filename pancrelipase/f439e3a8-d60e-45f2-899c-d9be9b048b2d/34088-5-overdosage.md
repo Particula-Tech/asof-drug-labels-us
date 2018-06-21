@@ -1,4 +1,4 @@
-# 10 OVERDOSAGE
+# 10OVERDOSAGE
 
 In Study 1, a 10 year-old patient was administered a dose of 10,856 lipase units per kg body weight of ZENPEP for a period of one day.
 The patient did not experience any adverse events as a result of the dose increase, nor did this patient experience any adverse events during a 44-day follow-up period.

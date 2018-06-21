@@ -1,10 +1,10 @@
-# 12 CLINICAL PHARMACOLOGY
+# 12CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism of Action
+## 12.1Mechanism of Action
 
 The pancreatic enzymes in ZENPEP catalyze the hydrolysis of fats to monoglycerides, glycerol, and free fatty acids, protein into peptides and amino acids, and starch into dextrins and short chain sugars such as maltose and maltriose in the duodenum and proximal small intestine, thereby acting like digestive enzymes physiologically secreted by the pancreas.
 
-## 12.3 Pharmacokinetics
+## 12.3Pharmacokinetics
 
 The pancreatic enzymes in ZENPEP are enteric-coated to minimize destruction or inactivation in gastric acid.
 ZENPEP is designed to release most of the enzymes in vivo at pH greater than 5.5.

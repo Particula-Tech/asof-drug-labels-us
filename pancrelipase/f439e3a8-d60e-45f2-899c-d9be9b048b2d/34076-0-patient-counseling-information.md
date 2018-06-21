@@ -1,4 +1,4 @@
-# 17 PATIENT COUNSELING INFORMATION
+# 17PATIENT COUNSELING INFORMATION
 
 See FDA-approved patient labeling (Medication Guide)
 
@@ -39,5 +39,3 @@ For further information, please call Allergan at 1-800-678-1605.
 
 ©2017 Allergan.
 All rights reserved.
-
-73313US10

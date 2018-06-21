@@ -1,4 +1,4 @@
-# 16 HOW SUPPLIED/STORAGE AND HANDLING
+# 16HOW SUPPLIED/STORAGE AND HANDLING
 
 ZENPEP® (pancrelipase) Delayed-Release Capsules
 
@@ -63,7 +63,9 @@ Capsules are supplied in bottles of:
 
 - 100 capsules (NDC 0023-6114-01)
 
-Storage and Handling Original container:
+Storage and Handling
+
+Original container:
 
 Avoid excessive heat.
 Store at room temperature (68-77°F; 20-25°C), brief excursions permitted to 15-40°C (59-104°F).
@@ -79,6 +81,7 @@ Protect from moisture.
 AFTER OPENING, KEEP BOTTLE TIGHTLY CLOSED between uses to PROTECT FROM MOISTURE.
 
 Dispense in tight container (USP).
+
 Keep out of reach of children.
 
 DO NOT CRUSH ZENPEP delayed-release capsules.

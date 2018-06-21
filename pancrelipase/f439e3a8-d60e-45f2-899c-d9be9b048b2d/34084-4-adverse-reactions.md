@@ -1,8 +1,8 @@
-# 6 ADVERSE REACTIONS
+# 6ADVERSE REACTIONS
 
 The most serious adverse reactions reported with different pancreatic enzyme products of the same active ingredient (pancrelipase) include fibrosing colonopathy, hyperuricemia and allergic reactions [see Warnings and Precautions (5)].
 
-## 6.1 Clinical Trials Experience
+## 6.1Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to the rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
@@ -23,10 +23,10 @@ Because clinical trials are conducted under controlled conditions, the observed 
 Table 1 enumerates treatment-emergent adverse events that occurred in at least 2 patients (greater than or equal to 6%) treated with either ZENPEP or placebo in Study 1.
 Adverse events were classified by Medical Dictionary for Regulatory Activities (MedDRA) terminology.
 
-Table 1: Treatment-Emergent Adverse Events Occurring in at least 2 Patients (greater than or equal to 6%) During Treatment Period and Crossover Treatment Period of the Placebo-Controlled, Crossover Clinical Study of ZENPEP (Study 1)
-
-| MedDRA Primary System Organ Class Preferred Term | ZENPEP (N=34) % | Placebo (N=32) % |
+| Table 1: Treatment-Emergent Adverse Events Occurring in at least 2 Patients (greater than or equal to 6%) During Treatment Period and Crossover Treatment Period of the Placebo-Controlled, Crossover Clinical Study of ZENPEP (Study 1) |  |  |
 | --- | --- | --- |
+|  | ZENPEP | Placebo |
+| MedDRA Primary System Organ Class Preferred Term | (N=34) % | (N=32) % |
 | Gastrointestinal Disorders |  |  |
 | Abdominal pain | 6 (18%) | 9 (28%) |
 | Flatulence | 2 (6%) | 3 (9%) |
@@ -47,7 +47,7 @@ There was no comparator treatment, and adverse events were collected on patient 
 
 The most commonly reported adverse events were gastrointestinal, including abdominal pain and steatorrhea, and were similar in type and frequency to those reported in the double-blind, placebo-controlled trial (Study 1).
 
-## 6.2 Postmarketing Experience
+## 6.2Postmarketing Experience
 
 Postmarketing data for ZENPEP have been available since 2009.
 The following adverse reactions have been identified during post-approval use of Zenpep.
