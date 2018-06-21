@@ -37,7 +37,8 @@ Pneumocystis Jiroveci Pneumonia:
 
 Treatment: Adults and Children:
 
-The recommended dosage for treatment of patients with documented Pneumocystis jiroveci pneumonia is 75 to 100 mg/kg sulfamethoxazole and 15 to 20 mg/kg trimethoprim per 24 hours given in equally divided doses every 6 hours for 14 to 21 days.11 The following table is a guideline for the upper limit of this dosage:
+The recommended dosage for treatment of patients with documented Pneumocystis jiroveci pneumonia is 75 to 100 mg/kg sulfamethoxazole and 15 to 20 mg/kg trimethoprim per 24 hours given in equally divided doses every 6 hours for 14 to 21 days.
+11 The following table is a guideline for the upper limit of this dosage:
 
 | lb | kg | Tablets |
 | --- | --- | --- |
@@ -57,14 +58,16 @@ Prophylaxis:
 
 Adults:
 
-The recommended dosage for prophylaxis in adults is 1 BACTRIM DS (double strength) tablet daily.12
+The recommended dosage for prophylaxis in adults is 1 BACTRIM DS (double strength) tablet daily.
+12
 
 Children:
 
-For children, the recommended dose is 750 mg/m2/day sulfamethoxazole with 150 mg/m2/day trimethoprim given orally in equally divided doses twice a day, on 3 consecutive days per week.
-The total daily dose should not exceed 1600 mg sulfamethoxazole and 320 mg trimethoprim.13 The following table is a guideline for the attainment of this dosage in children:
+For children, the recommended dose is 750 mg/m 2/day sulfamethoxazole with 150 mg/m 2/day trimethoprim given orally in equally divided doses twice a day, on 3 consecutive days per week.
+The total daily dose should not exceed 1600 mg sulfamethoxazole and 320 mg trimethoprim.
+13 The following table is a guideline for the attainment of this dosage in children:
 
-| (m2) | Tablets |
+| (m 2) | Tablets |
 | --- | --- |
 | Body Surface Area | Dose–every 12 hours |
 | 0.26 | – |

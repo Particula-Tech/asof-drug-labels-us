@@ -13,7 +13,7 @@
    Antimicrobial Agents Chemother.
    May 1974;5:439–443.
 5. Clinical and Laboratory Standards Institute.
-   Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically; Approved Standard – 9th ed.
+   Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically; Approved Standard – 9 th ed.
    CLSI document M07–A9, CLSI, Wayne, PA, 2012.
 6. Safrin S, Lee BL, Sande MA.
    Adjunctive folinic acid with trimethoprim-sulfamethoxazole for Pneumocystis carinii pneumonia in AIDS patients is associated with an increased risk of therapeutic failure and death.
@@ -44,7 +44,7 @@
     MMWR.
     1991; 40(RR–2):1–13.
 14. Clinical and Laboratory Standards Institute.
-    Performance Standards for Antimicrobial Disk Susceptibility Tests; Approved Standard – 11th ed.
+    Performance Standards for Antimicrobial Disk Susceptibility Tests; Approved Standard – 11 th ed.
     CLSI document M02–A11, CLSI, Wayne, PA, 2012.
 15. Clinical and Laboratory Standards Institute (CLSI).
     Performance Standards for Antimicrobial Susceptibility Testing; Twenty-third Informational Supplement, CLSI document M100–S23.
