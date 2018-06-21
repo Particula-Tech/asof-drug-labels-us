@@ -18,7 +18,7 @@ Other side scored.
 | --- | --- |
 | Bottles of 400 | NDC 51672-4050-2 |
 
-Store Carbamazepine Tablets USP, (Chewable) at 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature].
+Store Carbamazepine Tablets USP, (Chewable) at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 Protect from light and moisture.
 Dispense in tight, light-resistant container (USP).
 Meets USP Dissolution Test 1.
@@ -35,28 +35,28 @@ Protect from moisture.
 Dispense in tight container (USP).
 Meets USP Dissolution Test 2.
 
-Carbamazepine Extended-Release Tablets USP, 100 mg: White to off-white, round convex tablets embossed with "T91" on one side and plain on the other side.
+Carbamazepine Extended-Release Tablets USP, 100 mg: White to off-white, round bi-convexed tablets engraved with "T91" on one side and plain on the other side.
 
 | Bottles of 30 | NDC 51672-4123-6 |
 | --- | --- |
 | Bottles of 100 | NDC 51672-4123-1 |
 | Bottles of 1000 | NDC 51672-4123-3 |
 
-Carbamazepine Extended-Release Tablets USP, 200 mg: White to off-white, round convex tablets embossed with "T26" on one side and plain on the other side.
+Carbamazepine Extended-Release Tablets USP, 200 mg: White to off-white, round bi-convexed tablets engraved with "T26" on one side and plain on the other side.
 
 | Bottles of 30 | NDC 51672-4124-6 |
 | --- | --- |
 | Bottles of 100 | NDC 51672-4124-1 |
 | Bottles of 1000 | NDC 51672-4124-3 |
 
-Carbamazepine Extended-Release Tablets USP, 400 mg: White to off-white capsule-shaped tablets embossed with "T29" on one side and plain on the other.
+Carbamazepine Extended-Release Tablets USP, 400 mg: White to off-white, capsule-shaped bi-convexed tablets engraved with "T29" on one side and plain on the other side.
 
 | Bottles of 30 | NDC 51672-4125-6 |
 | --- | --- |
 | Bottles of 100 | NDC 51672-4125-1 |
 | Bottles of 1000 | NDC 51672-4125-3 |
 
-Store Carbamazepine Extended-Release Tablets USP at 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature].
+Store Carbamazepine Extended-Release Tablets USP at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 Protect from moisture.
 Dispense in tight container (USP).
 
@@ -67,8 +67,6 @@ Carbamazepine Oral Suspension USP, 100 mg/5 mL (teaspoonful): Orange colored and
 
 Shake well before using.
 
-Store Carbamazepine Oral Suspension USP at 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature].
+Store Carbamazepine Oral Suspension USP at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 Protect from freezing and from excessive heat.
 Dispense in tight, light-resistant container (USP).
-
-Trademarks are the property of their respective owners.

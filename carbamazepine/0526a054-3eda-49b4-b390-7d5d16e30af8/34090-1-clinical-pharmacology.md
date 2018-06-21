@@ -10,7 +10,6 @@ Carbamazepine greatly reduces or abolishes pain induced by stimulation of the in
 It depresses thalamic potential and bulbar and polysynaptic reflexes, including the linguomandibular reflex in cats.
 Carbamazepine is chemically unrelated to other anticonvulsants or other drugs used to control the pain of trigeminal neuralgia.
 The mechanism of action remains unknown.
-
 The principal metabolite of carbamazepine, carbamazepine-10,11-epoxide, has anticonvulsant activity as demonstrated in several in vivo animal models of seizures.
 Though clinical activity for the epoxide has been postulated, the significance of its activity with respect to the safety and efficacy of carbamazepine has not been established.
 
@@ -19,9 +18,9 @@ Though clinical activity for the epoxide has been postulated, the significance o
 In clinical studies, carbamazepine suspension, conventional tablets, and extended-release tablets delivered equivalent amounts of drug to the systemic circulation.
 However, the suspension was absorbed somewhat faster, and the extended-release tablet slightly slower, than the conventional tablet.
 The bioavailability of the extended-release tablet was 89% compared to suspension.
-Following a b.i.d. dosage regimen, the suspension provides higher peak levels and lower trough levels than those obtained from the conventional tablet for the same dosage regimen.
-On the other hand, following a t.i.d. dosage regimen, carbamazepine suspension affords steady-state plasma levels comparable to carbamazepine tablets given b.i.d. when administered at the same total mg daily dose.
-Following a b.i.d. dosage regimen, carbamazepine extended-release tablets afford steady-state plasma levels comparable to conventional carbamazepine tablets given q.i.d., when administered at the same total mg daily dose.
+Following a twice a day dosage regimen, the suspension provides higher peak levels and lower trough levels than those obtained from the conventional tablet for the same dosage regimen.
+On the other hand, following a three times a day dosage regimen, carbamazepine suspension affords steady-state plasma levels comparable to carbamazepine tablets given twice a day when administered at the same total mg daily dose.
+Following a twice a day dosage regimen, carbamazepine extended-release tablets afford steady-state plasma levels comparable to conventional carbamazepine tablets given twice a day, when administered at the same total mg daily dose.
 Carbamazepine in blood is 76% bound to plasma proteins.
 Plasma levels of carbamazepine are variable and may range from 0.5 to 25 mcg/mL, with no apparent relationship to the daily intake of the drug.
 Usual adult therapeutic levels are between 4 and 12 mcg/mL.

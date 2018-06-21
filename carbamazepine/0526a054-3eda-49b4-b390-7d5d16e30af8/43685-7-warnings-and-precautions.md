@@ -27,6 +27,7 @@ Tested patients who are found to be negative for the allele are thought to have 
 
 Over 90% of carbamazepine treated patients who will experience SJS/TEN have this reaction within the first few months of treatment.
 This information may be taken into consideration in determining the need for screening of genetically at-risk patients currently on carbamazepine.
+
 The HLA-B*1502 allele has not been found to predict risk of less severe adverse cutaneous reactions from carbamazepine such as maculopapular eruption (MPE) or to predict Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS).
 
 Limited evidence suggests that HLA-B*1502 may be a risk factor for the development of SJS/TEN in patients of Chinese ancestry taking other antiepileptic drugs associated with SJS/TEN, including phenytoin.
@@ -54,7 +55,7 @@ Patients with a history of adverse hematologic reaction to any drug may be parti
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as multiorgan hypersensitivity, have occurred with carbamazepine.
 Some of these events have been fatal or life-threatening.
-DRESS typically, although not exclusively, presents with fever, rash, and/or lymphadenopathy, in association with other organ system involvement, such as hepatitis, nephritis, hematologic abnormalities, myocarditis, or myositis sometimes resembling an acute viral infection.
+DRESS typically, although not exclusively, presents with fever, rash, lymphadenopathy, and/or facial swelling, in association with other organ system involvement, such as hepatitis, nephritis, hematologic abnormalities, myocarditis, or myositis sometimes resembling an acute viral infection.
 Eosinophilia is often present.
 This disorder is variable in its expression, and other organ systems not noted here may be involved.
 It is important to note that early manifestations of hypersensitivity (e.g., fever, lymphadenopathy) may be present even though rash is not evident.
@@ -65,7 +66,15 @@ Carbamazepine should be discontinued if an alternative etiology for the signs or
 
 Hypersensitivity reactions to carbamazepine have been reported in patients who previously experienced this reaction to anticonvulsants including phenytoin, primidone, and phenobarbital.
 If such history is present, benefits and risks should be carefully considered and, if carbamazepine is initiated, the signs and symptoms of hypersensitivity should be carefully monitored.
+
 Patients should be informed that about a third of patients who have had hypersensitivity reactions to carbamazepine also experience hypersensitivity reactions with oxcarbazepine (Trileptal®).
+
+## Anaphylaxis and Angioedema
+
+Rare cases of anaphylaxis and angioedema involving the larynx, glottis, lips, and eyelids have been reported in patients after taking the first or subsequent doses of carbamazepine.
+Angioedema associated with laryngeal edema can be fatal.
+If a patient develops any of these reactions after treatment with carbamazepine, the drug should be discontinued and an alternative treatment started.
+These patients should not be rechallenged with the drug.
 
 ## Suicidal Behavior and Ideation
 
@@ -99,13 +108,9 @@ Anyone considering prescribing carbamazepine or any other AED must balance the r
 Epilepsy and many other illnesses for which AEDs are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior.
 Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
 
-Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
-Behaviors of concern should be reported immediately to healthcare providers.
-
 ## General
 
 Carbamazepine has shown mild anticholinergic activity that may be associated with increased intraocular pressure; therefore, patients with increased intraocular pressure should be closely observed during therapy.
-
 Because of the relationship of the drug to other tricyclic compounds, the possibility of activation of a latent psychosis and, in elderly patients, of confusion or agitation should be borne in mind.
 
 The use of carbamazepine should be avoided in patients with a history of hepatic porphyria (e.g., acute intermittent porphyria, variegate porphyria, porphyria cutanea tarda).
@@ -118,7 +123,6 @@ Hyponatremia can occur as a result of treatment with carbamazepine.
 In many cases, the hyponatremia appears to be caused by the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
 The risk of developing SIADH with carbamazepine treatment appears to be dose-related.
 Elderly patients and patients treated with diuretics are at greater risk of developing hyponatremia.
-Consider discontinuing carbamazepine in patients with symptomatic hyponatremia.
 Signs and symptoms of hyponatremia include headache, new or increased seizure frequency, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which can lead to falls.
 Consider discontinuing carbamazepine in patients with symptomatic hyponatremia.
 
@@ -190,6 +194,9 @@ In addition, the patient should be advised that these signs and symptoms should 
 Patients should be advised that serious skin reactions have been reported in association with carbamazepine.
 In the event a skin reaction should occur while taking carbamazepine, patients should consult with their physician immediately (see WARNINGS).
 
+Patients should be advised that anaphylactic reactions and angioedema may occur during treatment with carbamazepine (see WARNINGS).
+Advise patients to immediately report signs and symptoms suggesting angioedema (swelling of the face, eyes, lips, or tongue, or difficulty in swallowing or breathing) and to stop taking the drug until they have consulted with their healthcare provider.
+
 Patients, their caregivers, and families should be counseled that AEDs, including carbamazepine, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
@@ -225,7 +232,6 @@ This monitoring may be particularly useful in cases of dramatic increase in seiz
 In addition, measurement of drug serum levels may aid in determining the cause of toxicity when more than one medication is being used.
 
 Thyroid function tests have been reported to show decreased values with carbamazepine administered alone.
-
 Interference with some pregnancy tests has been reported.
 
 ## Drug Interactions
@@ -244,7 +250,6 @@ When carbamazepine is given with drugs that can increase or decrease carbamazepi
 
 CYP3A4 inhibitors inhibit carbamazepine metabolism and can thus increase plasma carbamazepine levels.
 Drugs that have been shown, or would be expected, to increase plasma carbamazepine levels include aprepitant, cimetidine, ciprofloxacin, danazol, diltiazem, macrolides, erythromycin, troleandomycin, clarithromycin, fluoxetine, fluvoxamine, trazodone, olanzapine, loratadine, terfenadine, omeprazole, oxybutynin, dantrolene, isoniazid, niacinamide, nicotinamide, ibuprofen, propoxyphene, azoles (e.g., ketoconazole, itraconazole, fluconazole, voriconazole), acetazolamide, verapamil, ticlopidine, grapefruit juice, and protease inhibitors.
-
 Human microsomal epoxide hydrolase has been identified as the enzyme responsible for the formation of the 10,11-transdiol derivative from carbamazepine-10,11 epoxide.
 Coadministration of inhibitors of human microsomal epoxide hydrolase may result in increased carbamazepine-10,11 epoxide plasma concentrations.
 Accordingly, the dosage of carbamazepine should be adjusted and/or the plasma levels monitored when used concomitantly with loxapine, quetiapine, or valproic acid.
@@ -274,7 +279,7 @@ When used concomitantly with carbamazepine, monitoring of concentrations or dosa
   Coadministration of carbamazepine with nefazodone is contraindicated (see CONTRAINDICATIONS).
 - Monitor concentrations of valproate when carbamazepine is introduced or withdrawn in patients using valproic acid.
 
-In addition, carbamazepine causes, or would be expected to cause, decreased levels of the following drugs, for which monitoring of concentrations or dosage adjustment may be necessary: acetaminophen, albendazole, alprazolam, aprepitant, buprenorphone, bupropion, citalopram, clonazepam, clozapine, corticosteroids (e.g., prednisolone, dexamethasone), cyclosporine, dicumarol, dihydropyridine calcium channel blockers (e.g., felodipine), doxycycline, ethosuximide, everolimus, haloperidol, imatinib, itraconazole, lamotrigine, levothyroxine, methadone, methsuximide, mianserin, midazolam, olanzapine, oral and other hormonal contraceptives, oxcarbazepine, paliperidone, phensuximide, phenytoin, praziquantel, protease inhibitors, risperidone, sertraline, sirolimus, tadalafil, theophylline, tiagabine, topiramate, tramadol, trazodone, tricyclic antidepressants (e.g., imipramine, amitriptyline, nortriptyline), valproate, warfarin, ziprasidone, zonisamide.
+In addition, carbamazepine causes, or would be expected to cause, decreased levels of the following drugs, for which monitoring of concentrations or dosage adjustment may be necessary: acetaminophen, albendazole, alprazolam, aprepitant, buprenorphone, bupropion, citalopram, clonazepam, clozapine, corticosteroids (e.g., prednisolone, dexamethasone), cyclosporine, dicumarol, dihydropyridine calcium channel blockers (e.g., felodipine), doxycycline, eslicarbazepine, ethosuximide, everolimus, haloperidol, imatinib, itraconazole, lamotrigine, levothyroxine, methadone, methsuximide, mianserin, midazolam, olanzapine, oral and other hormonal contraceptives, oxcarbazepine, paliperidone, phensuximide, phenytoin, praziquantel, protease inhibitors, risperidone, sertraline, sirolimus, tadalafil, theophylline, tiagabine, topiramate, tramadol, trazodone, tricyclic antidepressants (e.g., imipramine, amitriptyline, nortriptyline), valproate, warfarin, ziprasidone, zonisamide.
 
 ### Other Drug Interactions
 
@@ -290,6 +295,8 @@ In addition, carbamazepine causes, or would be expected to cause, decreased leve
 - Resistance to the neuromuscular blocking action of the nondepolarizing neuromuscular blocking agents pancuronium, vecuronium, rocuronium and cisatracurium has occurred in patients chronically administered carbamazepine.
   Whether or not carbamazepine has the same effect on other non-depolarizing agents is unknown.
   Patients should be monitored closely for more rapid recovery from neuromuscular blockade than expected, and infusion rate requirements may be higher.
+- Concomitant use of carbamazepine with rivaroxaban, apixaban, dabigatran, and edoxaban (direct acting oral anticoagulants) is expected to result in decreased plasma concentrations of these anticoagulants that may be insufficient to achieve the intended therapeutic effect.
+  In general, coadministration of carbamazepine with rivaroxaban, apixaban, dabigatran, and edoxaban should be avoided.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -300,8 +307,6 @@ Bacterial and mammalian mutagenicity studies using carbamazepine produced negati
 The significance of these findings relative to the use of carbamazepine in humans is, at present, unknown.
 
 ## Usage in Pregnancy
-
-### Pregnancy Category D
 
 (see WARNINGS).
 
@@ -320,7 +325,6 @@ Because of the potential for serious adverse reactions in nursing infants from c
 ## Pediatric Use
 
 Substantial evidence of carbamazepine's effectiveness for use in the management of children with epilepsy (see INDICATIONS AND USAGE for specific seizure types) is derived from clinical investigations performed in adults and from studies in several in vitro systems which support the conclusion that (1) the pathogenetic mechanisms underlying seizure propagation are essentially identical in adults and children, and (2) the mechanism of action of carbamazepine in treating seizures is essentially identical in adults and children.
-
 Taken as a whole, this information supports a conclusion that the generally accepted therapeutic range of total carbamazepine in plasma (i.e., 4 to 12 mcg/mL) is the same in children and adults.
 
 The evidence assembled was primarily obtained from short-term use of carbamazepine.

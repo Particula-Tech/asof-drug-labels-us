@@ -1,8 +1,8 @@
 # MEDICATION GUIDE
 
-Carbamazepine (kar" ba maz' e peen) Tablets USP, Carbamazepine (kar" ba maz' e peen) Oral Suspension USP, Carbamazepine (kar" ba maz' e peen) Tablets USP (Chewable), and Carbamazepine (kar" ba maz' e peen) Extended-Release Tablets USP
+Carbamazepine (kar" ba maz' e peen) Tablets, Carbamazepine (kar" ba maz' e peen) Oral Suspension, Carbamazepine (kar" ba maz' e peen) Tablets (Chewable), and Carbamazepine (kar" ba maz' e peen) Extended-Release Tablets
 
-Read this Medication Guide before you start taking Carbamazepine Tablets USP, Carbamazepine Oral Suspension USP, Carbamazepine Tablets USP (Chewable), or Carbamazepine Extended-Release Tablets USP and each time you get a refill.
+Read this Medication Guide before you start taking Carbamazepine Tablets, Carbamazepine Oral Suspension, Carbamazepine Tablets (Chewable), or Carbamazepine Extended-Release Tablets and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
 
@@ -14,46 +14,50 @@ Stopping carbamazepine suddenly can cause serious problems.
 
 Carbamazepine can cause serious side effects, including:
 
-1.
-Carbamazepine may cause rare but serious skin rashes that may lead to death.
-These serious skin reactions are more likely to happen when you begin taking carbamazepine within the first four months of treatment but may occur at later times.
-These reactions can happen in anyone, but are more likely in people of Asian descent.
-If you are of Asian descent, you may need a genetic blood test before you take carbamazepine to see if you are at a higher risk for serious skin reactions with this medicine.
-Symptoms may include:
-
-- skin rash
-- hives
-- sores in your mouth
-- blistering or peeling of the skin
-
-2.
-Carbamazepine may cause rare but serious blood problems.
-
-Symptoms may include:
-
-- fever, sore throat, or other infections that come and go or do not go away
-- easy bruising
-- red or purple spots on your body
-- bleeding gums or nose bleeds
-- severe fatigue or weakness
-
-3.
-Like other antiepileptic drugs, carbamazepine may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
-
-Call your healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
-
-- thoughts about suicide or dying
-- attempts to commit suicide
-- new or worse depression
-- new or worse anxiety
-- feeling agitated or restless
-- panic attacks
-- trouble sleeping (insomnia)
-- new or worse irritability
-- acting aggressive, being angry, or violent
-- acting on dangerous impulses
-- an extreme increase in activity and talking (mania)
-- other unusual changes in behavior or mood
+- 1.Carbamazepine may cause rare but serious skin rashes that may lead to death.
+  These serious skin reactions are more likely to happen when you begin taking carbamazepine within the first four months of treatment but may occur at later times.
+  These reactions can happen in anyone, but are more likely in people of Asian descent.
+  If you are of Asian descent, you may need a genetic blood test before you take carbamazepine to see if you are at a higher risk for serious skin reactions with this medicine.
+  Symptoms may include:
+  - skin rash
+  - hives
+  - sores in your mouth
+  - blistering or peeling of the skin
+- 2.Carbamazepine may cause rare but serious blood problems.
+  Symptoms may include:
+  - fever, sore throat, or other infections that come and go or do not go away
+  - easy bruising
+  - red or purple spots on your body
+  - bleeding gums or nose bleeds
+  - severe fatigue or weakness
+- 3.Carbamazepine may cause allergic reactions or serious problems, which may affect organs and other parts of your body like the liver or blood cells.
+  You may or may not have a rash with these types of reactions.
+  Call your healthcare provider right away if you have any of the following:
+  - swelling of your face, eyes, lips, or tongue
+  - a skin rash
+  - painful sores in the mouth or around your eyes
+  - unusual bruising or bleeding
+  - frequent infections or infections that do not go away
+  - fever, swollen glands, or sore throat that do not go away or come and go
+  - trouble swallowing or breathing
+  - hives
+  - yellowing of your skin or eyes
+  - severe fatigue or weakness
+  - severe muscle pain
+- 4.Like other antiepileptic drugs, carbamazepine may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+  Call your healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
+  - thoughts about suicide or dying
+  - attempts to commit suicide
+  - new or worse depression
+  - new or worse anxiety
+  - feeling agitated or restless
+  - panic attacks
+  - trouble sleeping (insomnia)
+  - new or worse irritability
+  - acting aggressive, being angry, or violent
+  - acting on dangerous impulses
+  - an extreme increase in activity and talking (mania)
+  - other unusual changes in behavior or mood
 
 How can I watch for early symptoms of suicidal thoughts and actions?
 
@@ -84,8 +88,8 @@ Who should not take carbamazepine?
 Do not take carbamazepine if you:
 
 - have a history of bone marrow depression.
-- are allergic to carbamazepine or any of the ingredients in Carbamazepine Tablets USP, Carbamazepine Oral Suspension USP, Carbamazepine Tablets USP (Chewable), or Carbamazepine Extended-Release Tablets USP.
-  See the end of this Medication Guide for a complete list of ingredients in Carbamazepine Tablets USP, Carbamazepine Oral Suspension USP, Carbamazepine Tablets USP (Chewable), or Carbamazepine Extended-Release Tablets USP.
+- are allergic to carbamazepine or any of the ingredients in Carbamazepine Tablets, Carbamazepine Oral Suspension, Carbamazepine Tablets (Chewable), or Carbamazepine Extended-Release Tablets.
+  See the end of this Medication Guide for a complete list of ingredients in Carbamazepine Tablets, Carbamazepine Oral Suspension, Carbamazepine Tablets (Chewable), or Carbamazepine Extended-Release Tablets.
 - take nefazodone.
 - are allergic to medicines called tricyclic antidepressants (TCAs).
   Ask your healthcare provider or pharmacist for a list of these medicines if you are not sure.
@@ -192,16 +196,16 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store carbamazepine?
 
-- Store Carbamazepine Tablets USP at 20°C to 25°C (68° to 77°F).
-  - Keep Carbamazepine Tablets USP dry.
-- Store Carbamazepine Tablets USP (Chewable) at 20°C to 25°C (68° to 77°F).
-  - Keep Carbamazepine Tablets USP (Chewable) out of the light.
-  - Keep Carbamazepine Tablets USP (Chewable) dry.
-- Store Carbamazepine Extended-Release Tablets USP at 20°C to 25°C (68° to 77°F).
-  - Keep Carbamazepine Extended-Release Tablets USP dry.
-- Store Carbamazepine Oral Suspension USP at 20°C to 25°C (68° to 77°F).
+- Store Carbamazepine Tablets at 20° to 25°C (68° to 77°F).
+  - Keep Carbamazepine Tablets dry.
+- Store Carbamazepine Tablets (Chewable) at 20° to 25°C (68° to 77°F).
+  - Keep Carbamazepine Tablets (Chewable) out of the light.
+  - Keep Carbamazepine Tablets (Chewable) dry.
+- Store Carbamazepine Extended-Release Tablets at 20° to 25°C (68° to 77°F).
+  - Keep Carbamazepine Extended-Release Tablets dry.
+- Store Carbamazepine Oral Suspension at 20° to 25°C (68° to 77°F).
   - Shake well before using.
-- Keep Carbamazepine Oral Suspension USP in a tight, light-resistant container.
+  - Keep Carbamazepine Oral Suspension in a tight, light-resistant container.
 
 Keep carbamazepine and all medicines out of the reach of children.
 
@@ -224,12 +228,13 @@ Active ingredient: carbamazepine
 
 Inactive ingredients:
 
-- Carbamazepine Tablets USP, (Chewable), 100 mg and 200 mg – ammonio methacrylate copolymer, croscarmellose sodium, diethyl phthalate, FD&C red no. 40 lake, magnesium stearate, microcrystalline cellulose, natural cherry flavor, pregelatinized maize starch and sorbitol.
-- Carbamazepine Tablets USP, 200 mg – ammonio methacrylate copolymer, corn starch, croscarmellose sodium, diethyl phthalate, magnesium stearate and microcrystalline cellulose.
-- Carbamazepine Extended-Release Tablets USP, 100 mg, 200 mg, and 400 mg – ammonio methacrylate copolymer, corn starch, diethyl phthalate, lactose monohydrate, magnesium stearate, microcrystalline cellulose and sodium starch glycolate.
-- Carbamazepine Oral Suspension USP, 100 mg/5 mL – citric acid monohydrate, FD&C yellow no. 6, orange flavor, poloxamer 188, potassium sorbate, propylene glycol, purified water, sorbitol solution, sucrose and xanthan gum.
+- Carbamazepine Tablets, (Chewable), 100 mg and 200 mg – ammonio methacrylate copolymer, croscarmellose sodium, diethyl phthalate, FD&C red no. 40 lake, magnesium stearate, microcrystalline cellulose, natural cherry flavor, pregelatinized maize starch and sorbitol.
+- Carbamazepine Tablets, 200 mg – ammonio methacrylate copolymer, corn starch, croscarmellose sodium, diethyl phthalate, magnesium stearate and microcrystalline cellulose.
+- Carbamazepine Extended-Release Tablets, 100 mg, 200 mg, and 400 mg – ammonio methacrylate copolymer, corn starch, diethyl phthalate, lactose monohydrate, magnesium stearate, microcrystalline cellulose and sodium starch glycolate.
+- Carbamazepine Oral Suspension, 100 mg/5 mL – citric acid monohydrate, FD&C yellow no. 6, orange flavor, poloxamer 188, potassium sorbate, propylene glycol, purified water, sorbitol solution, sucrose and xanthan gum.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Distributed by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532 Made in Israel
 
-Revised: September 2015 70725-0915-9
+Distributed by: Taro Pharmaceuticals U.S.A., Inc. Hawthorne, NY 10532 Made in Israel
+
+Revised: May 2018 70725-0518-11
