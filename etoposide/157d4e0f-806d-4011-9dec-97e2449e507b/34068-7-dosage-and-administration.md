@@ -28,7 +28,7 @@ A longer duration of administration may be used if the volume of fluid to be inf
 
 Etoposide Injection USP should not be given by rapid intravenous injection.
 
-Parenteral drug products should be inspected visually for particulate matter and discoloration (see DESCRIPTION) prior to administration whenever solution and container permit.
+Parenteral drug products should be inspected visually for particulate matter and discoloration (See DESCRIPTION) prior to administration whenever solution and container permit.
 
 ## Stability
 
