@@ -28,7 +28,13 @@ The recommended dose is 10 mg/kg intravenously every 2 weeks in combination with
 
 The recommended dose of Avastin is 15 mg/kg intravenously every 3 weeks in combination with paclitaxel and cisplatin or in combination with paclitaxel and topotecan.
 
-## 2.7 Recurrent Epithelial Ovarian, Fallopian Tube or Primary Peritoneal Cancer
+## 2.7 Epithelial Ovarian, Fallopian Tube or Primary Peritoneal Cancer
+
+Treatment of Stage III or IV Disease Following Initial Surgical Resection:
+
+The recommended dose is 15 mg/kg intravenously every 3 weeks in combination with carboplatin and paclitaxel for up to 6 cycles, followed by Avastin 15 mg/kg every 3 weeks as a single agent, for a total of up to 22 cycles or until disease progression, whichever occurs earlier.
+
+Treatment of Recurrent Disease:
 
 Platinum Resistant
 

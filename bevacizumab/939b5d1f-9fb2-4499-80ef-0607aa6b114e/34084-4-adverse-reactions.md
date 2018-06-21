@@ -20,11 +20,46 @@ Because clinical studies are conducted under widely varying conditions, adverse 
 
 The most common adverse reactions observed in patients receiving Avastin as a single agent or in combination with chemotherapy at a rate > 10%, are epistaxis, headache, hypertension, rhinitis, proteinuria, taste alteration, dry skin, rectal hemorrhage, lacrimation disorder, back pain and exfoliative dermatitis.
 
-The safety data below reflect exposure to Avastin in 2919 patients with mCRC, non-squamous NSCLC, glioblastoma, mRCC, cervical cancer, platinum-resistant or platinum-sensitive recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer, including controlled studies (AVF2107g, E3200, E4599, EORTC 26101, BO17705, GOG-0240, MO22224, AVF4095, GOG-0213) at the recommended dose and schedule for a median of 6 to 23 doses.
+The safety data below reflect exposure to Avastin in 4134 patients with mCRC, non-squamous NSCLC, glioblastoma, mRCC, cervical cancer, and epithelial ovarian, fallopian tube, or primary peritoneal cancer, including controlled studies (AVF2107g, E3200, E4599, EORTC 26101, BO17705, GOG-0240, MO22224, AVF4095, GOG-0213, and GOG-0218) at the recommended dose and schedule for a median of 6 to 23 doses.
 
 Across clinical studies, Avastin was discontinued in 8% to 22% of patients because of adverse reactions [see Clinical Studies (14)].
 
-Platinum-Resistant Recurrent Epithelia Ovarian, Fallopian Tube, or Primary Peritoneal Cancer
+Stage III or IV Epithelial Ovarian, Fallopian Tube or Primary Peritoneal Cancer Following Initial Surgical Resection
+
+GOG-0218 was a multicenter, randomized, double-blind, placebo controlled, three arm study evaluating the addition of Avastin to carboplatin and paclitaxel for the treatment of patients with stage III or IV epithelial ovarian, fallopian tube or primary peritoneal cancer following initial surgical resection.
+Patients were randomized (1:1:1) to be treated with carboplatin and paclitaxel without Avastin (CPP), carboplatin and paclitaxel with Avastin for up to six cycles (CPB15), or carboplatin and paclitaxel with Avastin for six cycles followed by Avastin as a single agent for up to 16 additional doses (CPB15+).
+Avastin was given at 15 mg/kg every three weeks.
+On this trial, 1215 patients received at least one dose of Avastin.
+The demographics of the safety population were similar to the demographics of the efficacy population.
+Adverse reactions are presented in Table 2.
+
+Table 2: Grade 1-5 Adverse Reactions Occuring at Higher Incidence (≥5%) in Patients Receiving Avastin with Chemotherapy vs. Chemotherapy Alone in Study GOG-0218
+
+| Adverse reactionNCI-CTC version 3, | Avastin with carboplatin and paclitaxel followed by Avastin aloneCPB15+, (N=608) | Avastin with carboplatin and paclitaxelCPB15, (N= 607) | Carboplatin and paclitaxelCPP (N= 602) |
+| --- | --- | --- | --- |
+| Gastrointestinal disorders |  |  |  |
+| Diarrhea | 38% | 40% | 34% |
+| Nausea | 58% | 53% | 51% |
+| Stomatitis | 25% | 19% | 14% |
+| General disorders and administration site conditions |  |  |  |
+| Fatigue | 80% | 72% | 73% |
+| Musculoskeletal and connective tissue disorders |  |  |  |
+| Arthralgia | 41% | 33% | 35% |
+| Muscular weakness | 15% | 13% | 9% |
+| Pain in extremity | 25% | 19% | 17% |
+| Nervous system disorders |  |  |  |
+| Dysarthria | 12% | 10% | 2% |
+| Headache | 34% | 26% | 21% |
+| Respiratory, thoracic and mediastinal disorders |  |  |  |
+| Dyspnea | 26% | 28% | 20% |
+| Epistaxis | 31% | 30% | 9% |
+| Nasal mucosal disorder | 10% | 7% | 4% |
+| Vascular disorders |  |  |  |
+| Hypertension | 32% | 24% | 14% |
+
+Grade 3 – 4 adverse reactions occurring at a higher incidence (≥2%) in either of the Avastin arms versus the control arm were fatigue (CPB15+ - 9%, CPB15 - 6%, CPP - 6%), hypertension (CPB15+ - 10%, CPB15 - 6%, CPP - 2%), platelet count decreased (CPB15+ - 21%, CPB15 - 20%, CPP - 15%) and white blood cell count decreased (CPB15+ - 51%, CPB15 - 53%, CPP - 50%).
+
+Platinum-Resistant Recurrent Epithelial Ovarian, Fallopian Tube, or Primary Peritoneal Cancer
 
 The safety of Avastin was evaluated in 179 patients who received at least one dose of Avastin in a multicenter, open-label study (MO22224) in which patients were randomized (1:1) to Avastin with chemotherapy or chemotherapy alone in patients with platinum resistant, recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer that recurred within < 6 months from the most recent platinum based therapy.
 Patients were randomized to receive Avastin (10 mg/kg every 2 weeks or 15 mg/kg every 3 weeks).
@@ -33,9 +68,9 @@ The trial excluded patients with evidence of recto-sigmoid involvement by pelvic
 Patients were treated until disease progression or unacceptable toxicity.
 Forty percent of patients on the chemotherapy alone arm received Avastin alone upon progression.
 The demographics of the safety population were similar to the demographics of the efficacy population.
-Adverse reactions are presented in Table 2.
+Adverse reactions are presented in Table 3.
 
-Table 2: Grade 2−4 Adverse Reactions Occurring at Higher Incidence (≥ 5%) in Patients Receiving Avastin with Chemotherapy vs. Chemotherapy Alone in Study MO22224
+Table 3: Grade 2−4 Adverse Reactions Occurring at Higher Incidence (≥ 5%) in Patients Receiving Avastin with Chemotherapy vs. Chemotherapy Alone in Study MO22224
 
 | Adverse ReactionNCI-CTC version 3 | Avastin with Chemotherapy (N=179) | Chemotherapy (N=181) |
 | --- | --- | --- |
@@ -63,9 +98,9 @@ Platinum-Sensitive Recurrent Epithelial Ovarian, Fallopian Tube, or Primary Peri
 The safety of Avastin was evaluated in 247 patients who received at least one dose of Avastin in a double-blind study (AVF4095g) in patients with platinum sensitive recurrent epithelial ovarian, fallopian tube or primary peritoneal cancer.
 Patients were randomized (1:1) to receive Avastin (15 mg/kg) or placebo every 3 weeks with carboplatin and gemcitabine for 6 to 10 cycles followed by Avastin or placebo alone until disease progression or unacceptable toxicity.
 The demographics of the safety population were similar to the demographics of the efficacy population.
-Adverse reactions are presented in Table 3.
+Adverse reactions are presented in Table 4.
 
-Table 3: Grade 1−5 Adverse Reactions Occurring at a Higher Incidence (≥ 5%) in Patients Receiving Avastin with Chemotherapy vs. Placebo with Chemotherapy in Study AVF4095g
+Table 4: Grade 1−5 Adverse Reactions Occurring at a Higher Incidence (≥ 5%) in Patients Receiving Avastin with Chemotherapy vs. Placebo with Chemotherapy in Study AVF4095g
 
 | Adverse ReactionNCI-CTC version 3 | Avastin with Carboplatin and Gemcitabine (N=247) | Placebo with Carboplatin and Gemcitabine (N=233) |
 | --- | --- | --- |
@@ -110,9 +145,9 @@ Grade 3–4 adverse reactions occurring at a higher incidence (≥ 2%) in patien
 The safety of Avastin was evaluated in an open-label, controlled study, GOG-0213, in 325 patients with platinum-sensitive recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer, who have not received more than one previous regimen of chemotherapy.
 Patients were randomized (1:1) to receive carboplatin and paclitaxel for 6 to 8 cycles or Avastin (15 mg/kg every 3 weeks) with carboplatin and paclitaxel for 6 to 8 cycles followed by Avastin as a single agent until disease progression or unacceptable toxicity.
 The demographics of the safety population were similar to the demographics of the efficacy population.
-Adverse reactions are presented in Table 4.
+Adverse reactions are presented in Table 5.
 
-Table 4: Grade 1−5 Adverse Reactions Occurring at Higher Incidence (≥ 5%) in Patients Receiving Avastin with Chemotherapy vs. Chemotherapy Alone in Study GOG-0213
+Table 5: Grade 1−5 Adverse Reactions Occurring at Higher Incidence (≥ 5%) in Patients Receiving Avastin with Chemotherapy vs. Chemotherapy Alone in Study GOG-0213
 
 | Adverse ReactionNCI-CTC version 3 | Avastin with Carboplatin and Paclitaxel (N=325) | Carboplatin and Paclitaxel (N=332) |
 | --- | --- | --- |
@@ -173,9 +208,9 @@ Patients were treated until disease progression or unacceptable toxicity.
 The demographics of the safety population were similar to the demographics of the efficacy population.
 
 Grade 3-5 adverse reactions occurring at a higher incidence (>2%) were fatigue (13% vs. 8%), asthenia (10% vs. 7%), proteinuria (7% vs. 0%), hypertension (6% vs. 1%; including hypertension and hypertensive crisis), and hemorrhage (3% vs. 0.3%; including epistaxis, small intestinal hemorrhage, aneurysm ruptured, gastric ulcer hemorrhage, gingival bleeding, hemoptysis, hemorrhage intracranial, large intestinal hemorrhage, respiratory tract hemorrhage, and traumatic hematoma).
-Adverse reactions are presented in Table 5.
+Adverse reactions are presented in Table 6.
 
-Table 5: Grades 1-5 Adverse Reactions Occurring at Higher Incidence (≥ 5%) of Patients Receiving Avastin vs. Placebo with Interferon Alfa in Study BO17705
+Table 6: Grades 1-5 Adverse Reactions Occurring at Higher Incidence (≥ 5%) of Patients Receiving Avastin vs. Placebo with Interferon Alfa in Study BO17705
 
 | Adverse ReactionNCI-CTC version 3 | Avastin with Interferon Alfa (N=337) | Placebo with Interferon Alfa (N=304) |
 | --- | --- | --- |
@@ -199,16 +234,16 @@ Table 5: Grades 1-5 Adverse Reactions Occurring at Higher Incidence (≥ 5%) of 
 | Vascular disorders |  |  |
 | Hypertension | 28% | 9% |
 
-The following adverse reactions were reported at a 5-fold greater incidence in patients receiving Avastin with interferon-alfa compared to patients receiving placebo with interferon-alfa and not represented in Table 3: gingival bleeding (13 patients vs. 1 patient); rhinitis (9 vs. 0); blurred vision (8 vs. 0); gingivitis (8 vs. 1); gastroesophageal reflux disease (8 vs. 1); tinnitus (7 vs. 1); tooth abscess (7 vs. 0); mouth ulceration (6 vs. 0); acne (5 vs. 0); deafness (5 vs. 0); gastritis (5 vs. 0); gingival pain (5 vs. 0) and pulmonary embolism (5 vs. 1).
+The following adverse reactions were reported at a 5-fold greater incidence in patients receiving Avastin with interferon-alfa compared to patients receiving placebo with interferon-alfa and not represented in Table 4: gingival bleeding (13 patients vs. 1 patient); rhinitis (9 vs. 0); blurred vision (8 vs. 0); gingivitis (8 vs. 1); gastroesophageal reflux disease (8 vs. 1); tinnitus (7 vs. 1); tooth abscess (7 vs. 0); mouth ulceration (6 vs. 0); acne (5 vs. 0); deafness (5 vs. 0); gastritis (5 vs. 0); gingival pain (5 vs. 0) and pulmonary embolism (5 vs. 1).
 
 Persistent, Recurrent, or Metastatic Cervical Cancer
 
 The safety of Avastin was evaluated in 218 patients who received at least one dose of Avastin in a multicenter study (GOG-0240) in patients with persistent, recurrent, or metastatic cervical cancer.
 Patients were randomized (1:1:1:1) to receive paclitaxel and cisplatin with or without Avastin (15 mg/kg every 3 weeks), or paclitaxel and topotecan with or without Avastin (15 mg/kg every 3 weeks).
 The demographics of the safety population were similar to the demographics of the efficacy population.
-Adverse reactions are presented in Table 6.
+Adverse reactions are presented in Table 7.
 
-Table 6: Grades 1-4 Adverse Reactions Occurring at Higher Incidence (≥ 5%) in Patients Receiving Avastin with Chemotherapy vs. Chemotherapy Alone in Study GOG-0240
+Table 7: Grades 1-4 Adverse Reactions Occurring at Higher Incidence (≥ 5%) in Patients Receiving Avastin with Chemotherapy vs. Chemotherapy Alone in Study GOG-0240
 
 | Adverse ReactionNCI-CTC version 3 | Avastin with Chemotherapy (N=218) | Chemotherapy (N=222) |
 | --- | --- | --- |
@@ -257,9 +292,9 @@ Patients were randomized (1:1:1) to placebo with bolus IFL, Avastin with bolus I
 The demographics of the safety population were similar to the demographics of the efficacy population.
 
 All Grade 3–4 adverse reactions and selected Grade 1–2 adverse reactions (i.e., hypertension, proteinuria, thromboembolic events) were collected in the entire study population.
-Adverse reactions are presented in Table 7.
+Adverse reactions are presented in Table 8.
 
-Table 7: Grade 3–4 Adverse Reactions Occurring at Higher Incidence (≥ 2%) in Patients Receiving Avastin vs. Placebo in Study AVF2107g
+Table 8: Grade 3–4 Adverse Reactions Occurring at Higher Incidence (≥ 2%) in Patients Receiving Avastin vs. Placebo in Study AVF2107g
 
 | Adverse ReactionNCI-CTC version 3 | Avastin with IFL (N=392) | Placebo with IFL (N=396) |
 | --- | --- | --- |
@@ -314,7 +349,7 @@ The detection of antibody formation is highly dependent on the sensitivity and s
 Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors, including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
 For these reasons, comparison of the incidence of antibodies to bevacizumab in the studies described below with the incidence of antibodies in other studies or to other products may be misleading.
 
-In clinical studies for adjuvant treatment of a solid tumor, 0.6% (14/2323) of patients tested positive for treatment-emergent anti-bevacizumab antibodies as detected by an electrochemiluminescent (ECL) based assay.
+In clinical studies for adjuvant treatment of a solid tumor, 0.6% (14/2233) of patients tested positive for treatment-emergent anti-bevacizumab antibodies as detected by an electrochemiluminescent (ECL) based assay.
 Among these 14 patients, three tested positive for neutralizing antibodies against bevacizumab using an enzyme-linked immunosorbent assay (ELISA).
 The clinical significance of these anti-bevacizumab antibodies is not known.
 

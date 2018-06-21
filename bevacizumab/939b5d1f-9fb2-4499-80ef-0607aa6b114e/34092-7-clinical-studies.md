@@ -13,9 +13,9 @@ The median age was 60 years; 60% were male, 79% were White, 57% had an ECOG perf
 The dominant site of disease was extra-abdominal in 56% of patients and was the liver in 38% of patients.
 
 The addition of Avastin improved survival across subgroups defined by age (< 65 years, ≥ 65 years) and sex.
-Results are presented in Table 8 and Figure 1.
+Results are presented in Table 9 and Figure 1.
 
-Table 8: Efficacy Results in Study AVF2107g
+Table 9: Efficacy Results in Study AVF2107g
 
 | Efficacy Parameter | Avastin with bolus-IFL (N=402) | Placebo with bolus-IFL (N=411) |
 | --- | --- | --- |
@@ -26,7 +26,7 @@ Table 8: Efficacy Results in Study AVF2107g
 | Progression Free Survival |  |  |
 | Median (months) | 10.6 | 6.2 |
 | Hazard ratio (95% CI) | 0.54 (0.45, 0.66) |  |
-| p-value | < 0.0001 |  |
+| p-value | < 0.001 |  |
 | Overall Response Rate |  |  |
 | Rate (%) | 45% | 35% |
 | p-valueby χ2 test | < 0.01 |  |
@@ -73,9 +73,9 @@ Second-line chemotherapy regimens were generally balanced between each arm.
 
 The addition of Avastin to fluoropyrimidine-based chemotherapy resulted in a statistically significant prolongation of OS and PFS.
 There was no significant difference in ORR.
-Results are presented in Table 9 and Figure 2.
+Results are presented in Table 10 and Figure 2.
 
-Table 9: Efficacy Results in Study ML18147
+Table 10: Efficacy Results in Study ML18147
 
 | Efficacy Parameter | Avastin with Chemotherapy (N=409) | Chemotherapy (N=411) |
 | --- | --- | --- |
@@ -219,12 +219,12 @@ Of the 452 patients randomized at baseline, 78% of patients were White, 80% had 
 Patients had a GOG performance status of 0 (58%) or 1 (42%).
 Demographic and disease characteristics were balanced across arms.
 
-Results are presented in Table 10 and Figure 5.
+Results are presented in Table 11 and Figure 5.
 
 | Figure 5: Kaplan-Meier Curves for Overall Survival in Persistent, Recurrent, or Metastatic Cervical Cancer in Study GOG-0240 |
 | --- |
 
-Table 10: Efficacy Results in Study GOG-0240
+Table 11: Efficacy Results in Study GOG-0240
 
 | Efficacy Parameter | Avastin with Chemotherapy (N=227) | Chemotherapy (N=225) |
 | --- | --- | --- |
@@ -234,7 +234,7 @@ Table 10: Efficacy Results in Study GOG-0240
 
 The ORR was higher in patients who received Avastin with chemotherapy [45% (95% CI: 39, 52)] compared to patients who received chemotherapy alone [34% (95% CI: 28,40)].
 
-Table 11: Efficacy Results in Study GOG-0240
+Table 12: Efficacy Results in Study GOG-0240
 
 | Efficacy Parameter | Topotecan and Paclitaxel with or without Avastin (N=223) | Cisplatin and Paclitaxel with or without Avastin (N=229) |
 | --- | --- | --- |
@@ -263,10 +263,10 @@ Seventy-three percent had a platinum-free interval (PFI) of 3 months to 6 months
 ECOG performance status was 0 for 59%, 1 for 34% and 2 for 7% of the patients.
 
 The addition of Avastin to chemotherapy demonstrated a statistically significant improvement in investigator-assessed PFS, which was supported by a retrospective independent review analysis.
-Results for the ITT population are presented in Table 12 and Figure 6.
-Results for the separate chemotherapy cohorts are presented in Table 13.
+Results for the ITT population are presented in Table 13 and Figure 6.
+Results for the separate chemotherapy cohorts are presented in Table 14.
 
-Table 12: Efficacy Results in Study MO22224
+Table 13: Efficacy Results in Study MO22224
 
 | Efficacy Parameter | Avastin with Chemotherapy (N=179) | Chemotherapy (N=182) |
 | --- | --- | --- |
@@ -286,7 +286,7 @@ Table 12: Efficacy Results in Study MO22224
 | Figure 6: Kaplan-Meier Curves for Investigator-Assessed Progression-Free Survival in Platinum-Resistant Recurrent Epithelial Ovarian, Fallopian Tube, or Primary Peritoneal Cancer in Study MO22224 |
 | --- |
 
-Table 13: Efficacy Results in Study MO22224 by Chemotherapy
+Table 14: Efficacy Results in Study MO22224 by Chemotherapy
 
 | (N=60) | (N=55) | (N=57) | (N=63) | (N=62) | (N=64) |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -319,11 +319,11 @@ All patients had measurable disease at baseline, 74% had baseline CA-125 levels 
 The platinum-free interval (PFI) was 6 months to 12 months in 42 % of patients and >12 months in 58% of patients.
 The ECOG performance status was 0 or 1 for 99.8% of patients.
 
-A statistically significant prolongation in PFS was demonstrated among patients receiving Avastin with chemotherapy compared to those receiving placebo with chemotherapy (Table 14 and Figure 7).
+A statistically significant prolongation in PFS was demonstrated among patients receiving Avastin with chemotherapy compared to those receiving placebo with chemotherapy (Table 15 and Figure 7).
 Independent radiology review of PFS was consistent with investigator assessment [HR 0.45 (95% CI: 0.35, 0.58)].
 OS was not significantly improved with the addition of Avastin to chemotherapy [HR 0.95 (95% CI: 0.77, 1.17)].
 
-Table 14: Efficacy Results in Study AVF4095g
+Table 15: Efficacy Results in Study AVF4095g
 
 | Efficacy Parameter | Avastin with Gemcitabine and Carboplatin (N=242) | Placebo with Gemcitabine and Carboplatin (N=242) |
 | --- | --- | --- |
@@ -351,9 +351,9 @@ Ten percent of patients had received prior bevacizumab.
 Twenty-six percent had a PFI of 6 months to 12 months and 74% had a PFI of >12 months.
 GOG performance status was 0 or 1 for 99% of patients.
 
-Results are presented in Table 15 and Figure 8.
+Results are presented in Table 16 and Figure 8.
 
-Table 15: Efficacy Results in Study GOG-0213
+Table 16: Efficacy Results in Study GOG-0213
 
 | Efficacy Parameter | Avastin with Carboplatin and Paclitaxel (N=337) | Carboplatin and Paclitaxel (N=336) |
 | --- | --- | --- |
@@ -369,4 +369,46 @@ Table 15: Efficacy Results in Study GOG-0213
 | Rate, % | 213 (78%) | 159 (56%) |
 
 | Figure 8: Kaplan Meier Curves for Overall Survival in Platinum-Sensitive Recurrent Epithelial Ovarian, Fallopian Tube, or Primary Peritoneal Cancer in Study GOG-0213 |
+| --- |
+
+## 14.9 Stage III or IV Epithelial Ovarian, Fallopian Tube, or Primary Peritoneal Cancer Following Initial Surgical Resection
+
+Study GOG-0218
+
+Study GOG-0218 (NCT00262847) was a multicenter, randomized, double-blind, placebo controlled, three arm study evaluating the effect of adding Avastin to carboplatin and paclitaxel for the treatment of patients with stage III or IV epithelial ovarian, fallopian tube or primary peritoneal cancer (N=1873) following initial surgical resection.
+Patients were randomized (1:1:1) to one of the following arms:
+
+- CPP: carboplatin (AUC 6) and paclitaxel (175 mg/m2) for six cycles, with concurrent placebo started at cycle 2, followed by placebo alone every three weeks for a total of up to 22 cycles of therapy (n=625) or
+- CPB15: carboplatin (AUC 6) and paclitaxel (175 mg/m2) for six cycles, with concurrent Avastin started at cycle 2, followed by placebo alone every three weeks for a total of up to 22 cycles of therapy (n=625) or
+- CPB15+: carboplatin (AUC 6) and paclitaxel (175 mg/m2) for six cycles, with concurrent Avastin started at cycle 2, followed by Avastin as a single agent every three weeks for a total of up to 22 cycles of therapy (n=623).
+
+The main efficacy outcome measure was investigator-assessed progression-free survival (PFS).
+Overall survival (OS) was a secondary outcome measure.
+
+The median age was 60 years (range 22-89 years) and 28% of patients were >65 years of age.
+
+Overall, approximately 50% of patients had a GOG PS of 0 at baseline, and 43% a GOG PS score of 1.
+Patients had either epithelial ovarian cancer (83%), primary peritoneal cancer (15%), or fallopian tube cancer (2%).
+Serous adenocarcinoma was the most common histologic type (85% in CPP and CPB15 arms, 86% in CPB15+ arm).
+Overall, approximately 34% of patients had resected FIGO Stage III with residual disease < 1cm, 40% had resected Stage III with residual disease >1 cm, and 26% had resected Stage IV disease.
+
+The majority of patients in all three treatment arms received subsequent antineoplastic treatment, 78.1% in the CPP arm, 78.6% in the CPB15 arm, and 73.2% in the CPB15+ arm.
+A higher proportion of patients in the CPP arm (25.3%) and CPB15 arm (26.6%) received at least one anti-angiogenic (including bevacizumab) treatment after discontinuing from study compared with the CPB15+ arm (15.6%).
+
+Study results are presented in Table 17 and Figure 9.
+
+Table 17: Efficacy Results in Study GOG-0218
+
+| Efficacy Paramenter | Avastin with carboplatin and paclitaxel followed by Avastin alone (N=623) | Avastin with carboplatin and paclitaxel (N= 625) | Carboplatin and paclitaxel (N= 625) |
+| --- | --- | --- | --- |
+| Progression-free survival per Investigator |  |  |  |
+| Median PFS (months) | 18.2 | 12.8 | 12.0 |
+| Hazard ratio (95% CI)Relative to the control arm; stratified hazard ratio | 0.62 (0.52, 0.75) | 0.83 (0.70, 0.98) |  |
+| p –valueTwo-sided p-value based on re-randomization test | < 0.0001 | NS |  |
+| Overall survivalFinal overall survival analysis |  |  |  |
+| Median OS (months) | 43.8 | 38.8 | 40.6 |
+| Hazard ratio (95% CI) | 0.89 (0.76, 1.05) | 1.06 (0.90, 1.24) |  |
+| NS = not significant |  |  |  |
+
+| Figure 9 Kaplan-Meier Curves for Investigator-Assessed Progression-Free Survival in Stage III or IV Epithelial Ovarian, Fallopian Tube, or Primary Peritoneal Cancer Following Initial Surgical Resection in Study GOG-0218 |
 | --- |
