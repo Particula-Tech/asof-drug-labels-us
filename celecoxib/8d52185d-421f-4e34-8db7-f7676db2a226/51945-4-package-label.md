@@ -35,7 +35,7 @@ Celebrex® celecoxib capsules
 Distributed by G.D.
 Searle LLC Div of Pfizer Inc, NY, NY 10017 MADE IN SINGAPORE
 
-PRINCIPAL DISPLAY PANEL - 100 mg 10-Blister Pack Carton
+# PRINCIPAL DISPLAY PANEL - 100 mg Capsule Blister Pack Carton
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
@@ -74,7 +74,7 @@ Celebrex® celecoxib capsules
 Distributed by G.D.
 Searle LLC Div of Pfizer Inc, NY, NY 10017 MADE IN SINGAPORE
 
-PRINCIPAL DISPLAY PANEL - 200 mg 10-Blister Pack Carton
+# PRINCIPAL DISPLAY PANEL - 200 mg Capsule Blister Pack Carton
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
@@ -157,7 +157,7 @@ Celebrex® celecoxib capsules
 Distributed by G.D.
 Searle LLC Div of Pfizer Inc, NY, NY 10017 MADE IN SINGAPORE
 
-PRINCIPAL DISPLAY PANEL - 400 mg 10-Blister Pack Carton
+# PRINCIPAL DISPLAY PANEL - 400 mg Capsule Blister Pack Carton
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
