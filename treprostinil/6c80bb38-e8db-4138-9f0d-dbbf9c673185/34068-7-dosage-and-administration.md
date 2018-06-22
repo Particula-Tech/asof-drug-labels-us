@@ -6,13 +6,12 @@ Remodulin can be administered without further dilution for subcutaneous administ
 Sterile Diluent for Flolan or Sterile Diluent for Epoprostenol Sodium), Sterile Water for Injection, or 0.9% Sodium Chloride Injection prior to administration.
 See Table 1 below for storage and administration time limits for the different diluents.
 
-Table 1.
-Selection of Diluent
+Table 1: Selection of Diluent
 
-| Route | Diluent | Storage limits | Administration limits |
+| Route | Diluent | Storage Limits | Administration Limits |
 | --- | --- | --- | --- |
 | SC | None | See section 16 | 72 hours at 37°C |
-| IV | Sterile Diluent for Remodulin Sterile Diluent for Flolan Sterile Diluent for Epoprostenol Sodium | 14 days at room temperature | 48 hours at 40 °C |
+| IV | Sterile Diluent for Remodulin Sterile Diluent for Flolan Sterile Diluent for Epoprostenol Sodium | 14 days at room temperature | 48 hours at 40°C |
 | Sterile water for injection 0.9% Sodium Chloride for injection | 4 hours at room temperature or 24 hours refrigerated | 48 hours at 40°C |  |
 
 ## 2.2 Initial Dose for Patients New to Prostacyclin Infusion Therapy
@@ -28,14 +27,14 @@ The goal of chronic dosage adjustments is to establish a dose at which PAH sympt
 
 The infusion rate should be increased in increments of 1.25 ng/kg/min per week for the first four weeks of treatment and then 2.5 ng/kg/min per week for the remaining duration of infusion, depending on clinical response.
 Dosage adjustments may be undertaken more often if tolerated.
-Avoid abrupt cessation of infusion [see Warnings and Precautions (5.4)].
+Avoid abrupt cessation of infusion [see Warnings and Precautions (5.2)].
 Restarting a Remodulin infusion within a few hours after an interruption can be done using the same dose rate.
 Interruptions for longer periods may require the dose of Remodulin to be re-titrated.
 
 ## 2.4 Patients with Hepatic Insufficiency
 
 In patients with mild or moderate hepatic insufficiency, decrease the initial dose of Remodulin to 0.625 ng/kg/min ideal body weight.
-Remodulin has not been studied in patients with severe hepatic insufficiency [see Warnings and Precautions (5.3), Use In Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+Remodulin has not been studied in patients with severe hepatic insufficiency [see Warnings and Precautions (5.3), Use In Specific Populations (8.6), and Clinical Pharmacology (12.3)].
 
 ## 2.5 Administration
 
@@ -53,21 +52,27 @@ Remodulin is administered subcutaneously by continuous infusion at a calculated 
 During use, a single reservoir (syringe) of undiluted Remodulin can be administered up to 72 hours at 37°C.
 The subcutaneous infusion rate is calculated using the following formula:
 
-|  | Subcutaneous Infusion Rate (mL/hr) | = | Dose (ng/kg/min) | × | Weight (kg) | × | 0.00006Conversion factor of 0.00006 = 60 min/hour × 0.000001 mg/ng |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Remodulin Vial Strength (mg/mL) |  |  |  |  |  |  |
+| Subcutaneous Infusion Rate (mL/hr) | = | Dose (ng/kg/min) × Weight (kg) × 0.00006Conversion factor of 0.00006 = 60 min/hour × 0.000001 mg/ng |
+| --- | --- | --- |
+| Remodulin Vial Strength (mg/mL) |  |  |
 
 Example calculations for Subcutaneous Infusion are as follows:
 
-|  | Example 1: |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | For a 60 kg person at the recommended initial dose of 1.25 ng/kg/min using the 1 mg/mL Remodulin, the infusion rate would be calculated as follows: |  |  |  |  |  |  |  |
-|  | Subcutaneous Infusion Rate (mL/hr) | = | 1.25 ng/kg/min | × | 60 kg | × | 0.00006 | = 0.005 mL/hr |
-|  | 1 mg/mL |  |  |  |  |  |  |  |
-|  | Example 2: |  |  |  |  |  |  |  |
-|  | For a 65 kg person at a dose of 40 ng/kg/min using the 5 mg/mL Remodulin, the infusion rate would be calculated as follows: |  |  |  |  |  |  |  |
-|  | Subcutaneous Infusion Rate (mL/hr) | = | 40 ng/kg/min | × | 65 kg | × | 0.00006 | = 0.031 mL/hr |
-|  | 5 mg/mL |  |  |  |  |  |  |  |
+Example 1:
+
+For a 60 kg person at the recommended initial dose of 1.25 ng/kg/min using the 1 mg/mL Remodulin, the infusion rate would be calculated as follows:
+
+| Subcutaneous Infusion Rate (mL/hr) | = | 1.25 ng/kg/min × 60 kg × 0.00006 | = | 0.005 mL/hr |
+| --- | --- | --- | --- | --- |
+| 1 mg/mL |  |  |  |  |
+
+Example 2:
+
+For a 65 kg person at a dose of 40 ng/kg/min using the 5 mg/mL Remodulin, the infusion rate would be calculated as follows:
+
+| Subcutaneous Infusion Rate (mL/hr) | = | 40 ng/kg/min × 65 kg × 0.00006 | = | 0.031 mL/hr |
+| --- | --- | --- | --- | --- |
+| 5 mg/mL |  |  |  |  |
 
 Intravenous Infusion
 
@@ -90,7 +95,7 @@ Step 1
 
 | Diluted Intravenous Remodulin Concentration (mg/mL) | = | Dose (ng/kg/min) | × | Weight (kg) | × | 0.00006 |
 | --- | --- | --- | --- | --- | --- | --- |
-| Intravenous Infusion Rate (mL/hr) |  |  |  |  |  |  |
+|  | Intravenous Infusion Rate (mL/hr) |  |  |  |  |  |
 
 The volume of Remodulin Injection needed to make the required diluted intravenous Remodulin concentration for the given reservoir size can then be calculated using the following formula:
 
@@ -104,33 +109,47 @@ The calculated volume of Remodulin Injection is then added to the reservoir alon
 
 Example calculations for Intravenous Infusion are as follows:
 
-|  | Example 3: |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | For a 60 kg person at a dose of 5 ng/kg/min, with a predetermined intravenous infusion rate of 1 mL/hr and a reservoir of 50 mL, the diluted intravenous Remodulin concentration would be calculated as follows: |  |  |  |  |  |  |  |
-|  | Step 1 |  |  |  |  |  |  |  |
-|  | Diluted Intravenous Remodulin Concentration (mg/mL) | = | 5 ng/kg/min | × | 60 kg | × | 0.00006 | = 0.018 mg/mL (18,000 ng/mL) |
-|  | 1 mL/hr |  |  |  |  |  |  |  |
-|  | The volume of Remodulin Injection (using 1 mg/mL Vial Strength) needed for a total diluted Remodulin concentration of 0.018 mg/mL and a total volume of 50 mL would be calculated as follows: |  |  |  |  |  |  |  |
+Example 3:
 
-|  | Step 2 |  |  |  |
-| --- | --- | --- | --- | --- |
-|  | Volume of Remodulin Injection (mL) | = | 0.018 mg/mL | × 50 mL = 0.9 mL |
-|  | 1 mg/mL |  |  |  |
-|  | The diluted intravenous Remodulin concentration for the person in Example 3 would thus be prepared by adding 0.9 mL of 1 mg/mL Remodulin Injection to a suitable reservoir along with a sufficient volume of diluent to achieve a total volume of 50 mL in the reservoir. The pump flow rate for this example would be set at 1 mL/hr. |  |  |  |
-|  | Example 4: |  |  |  |
-|  | For a 75 kg person at a dose of 30 ng/kg/min, with a predetermined intravenous infusion rate of 2 mL/hr, and a reservoir of 100 mL, the diluted intravenous Remodulin concentration would be calculated as follows: |  |  |  |
-|  | Step 1 |  |  |  |
+For a 60 kg person at a dose of 5 ng/kg/min, with a predetermined intravenous infusion rate of 1 mL/hr and a reservoir of 50 mL, the diluted intravenous Remodulin concentration would be calculated as follows:
 
-|  | Diluted Intravenous Remodulin Concentration (mg/mL) | = | 30 ng/kg/min | × | 75 kg | × | 0.00006 | = 0.0675 mg/mL (67,500 ng/mL) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | 2 mL/hr |  |  |  |  |  |  |  |
-|  | The volume of Remodulin Injection (using 2.5 mg/mL Vial Strength) needed for a total diluted Remodulin concentration of 0.0675 mg/mL and a total volume of 100 mL would be calculated as follows: |  |  |  |  |  |  |  |
-|  | Step 2 |  |  |  |  |  |  |  |
+Step 1
 
-|  | Volume of Remodulin Injection (mL) | = | 0.0675 mg/mL | × 100 mL = 2.7 mL |
-| --- | --- | --- | --- | --- |
-|  | 2.5 mg/mL |  |  |  |
-|  | The diluted intravenous Remodulin concentration for the person in Example 4 would thus be prepared by adding 2.7 mL of 2.5 mg/mL Remodulin Injection to a suitable reservoir along with a sufficient volume of diluent to achieve a total volume of 100 mL in the reservoir. The pump flow rate for this example would be set at 2 mL/hr. |  |  |  |
+| Diluted Intravenous Remodulin Concentration (mg/mL) | = | 5 ng/kg/min × 60 kg × 0.00006 | = 0.018 mg/mL (18,000 ng/mL) |
+| --- | --- | --- | --- |
+| 1 mL/hr |  |  |  |
+
+The volume of Remodulin Injection (using 1 mg/mL Vial Strength) needed for a total diluted Remodulin concentration of 0.018 mg/mL and a total volume of 50 mL would be calculated as follows:
+
+Step 2
+
+| Volume of Remodulin Injection (mL) | = | 0.018 mg/mL | × 50 mL = 0.9 mL |
+| --- | --- | --- | --- |
+|  | 1 mg/mL |  |  |
+
+The diluted intravenous Remodulin concentration for the person in Example 3 would thus be prepared by adding 0.9 mL of 1 mg/mL Remodulin Injection to a suitable reservoir along with a sufficient volume of diluent to achieve a total volume of 50 mL in the reservoir.
+The pump flow rate for this example would be set at 1 mL/hr.
+
+Example 4:
+
+For a 75 kg person at a dose of 30 ng/kg/min, with a predetermined intravenous infusion rate of 2 mL/hr, and a reservoir of 100 mL, the diluted intravenous Remodulin concentration would be calculated as follows:
+
+Step 1
+
+| Diluted Intravenous Remodulin Concentration (mg/mL) |  | 30 ng/kg/min × 75 kg × 0.00006 | = 0.0675 mg/mL (67,500 ng/mL) |
+| --- | --- | --- | --- |
+| = | 2 mL/hr |  |  |
+
+The volume of Remodulin Injection (using 2.5 mg/mL Vial Strength) needed for a total diluted Remodulin concentration of 0.0675 mg/mL and a total volume of 100 mL would be calculated as follows:
+
+Step 2
+
+| Volume of Remodulin Injection (mL) | = | 0.0675 mg/mL | × 100 mL = 2.7 mL |
+| --- | --- | --- | --- |
+|  | 2.5 mg/mL |  |  |
+
+The diluted intravenous Remodulin concentration for the person in Example 4 would thus be prepared by adding 2.7 mL of 2.5 mg/mL Remodulin Injection to a suitable reservoir along with a sufficient volume of diluent to achieve a total volume of 100 mL in the reservoir.
+The pump flow rate for this example would be set at 2 mL/hr.
 
 ## 2.6 Patients Requiring Transition from Flolan
 

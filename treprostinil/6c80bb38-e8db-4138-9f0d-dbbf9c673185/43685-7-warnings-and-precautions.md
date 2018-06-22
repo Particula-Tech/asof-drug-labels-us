@@ -16,9 +16,13 @@ Avoid abrupt withdrawal or sudden large reductions in dosage of Remodulin, which
 
 ## 5.3 Patients with Hepatic or Renal Insufficiency
 
-Titrate slowly in patients with hepatic or renal insufficiency, because such patients will likely be exposed to greater systemic concentrations relative to patients with normal hepatic or renal function [see Dosage and Administration (2.4, 2.5), Use In Specific Populations (8.6, 8.7), and Clinical Pharmacology (12.3)].
+Titrate Remodulin slowly in patients with hepatic or renal insufficiency, because such patients will likely be exposed to greater systemic concentrations relative to patients with normal hepatic or renal function [see Dosage and Administration (2.4), Use In Specific Populations (8.6, 8.7), and Clinical Pharmacology (12.3)].
 
-## 5.4 Effect of Other Drugs on Treprostinil
+## 5.4 Risk of Symptomatic Hypotension
 
-Co-administration of a cytochrome P450 (CYP) 2C8 enzyme inhibitor (e.g., gemfibrozil) increases exposure (both Cmax and AUC) to treprostinil.
-Co-administration of a CYP2C8 enzyme inducer (e.g., rifampin) decreases exposure to treprostinil [see Drug Interactions (7.5) and Clinical Pharmacology (12.3)].
+Treprostinil is a pulmonary and systemic vasodilator.
+In patients with low systemic arterial pressure, treatment with Remodulin may produce symptomatic hypotension.
+
+## 5.5 Risk of Bleeding
+
+Remodulin inhibits platelet aggregation and increases the risk of bleeding.

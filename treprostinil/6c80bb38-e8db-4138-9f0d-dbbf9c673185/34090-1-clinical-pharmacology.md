@@ -29,7 +29,7 @@ Concentrations in patients treated with an average dose of 9.3 ng/kg/min were ap
 
 Distribution
 
-The volume of distribution of the drug in the central compartment is approximately 14L/70 kg ideal body weight.
+The volume of distribution of the drug in the central compartment is approximately 14 L/70 kg ideal body weight.
 Remodulin at in vitro concentrations ranging from 330-10,000 mcg/L was 91% bound to human plasma protein.
 
 Metabolism and Excretion
@@ -44,16 +44,37 @@ The identified metabolites do not appear to have activity.
 The elimination of treprostinil (following subcutaneous administration) is biphasic, with a terminal elimination half-life of approximately 4 hours using a two compartment model.
 Systemic clearance is approximately 30 L/hr for a 70 kg person.
 
-Based on in vitro studies treprostinil does not inhibit or induce major CYP enzymes [see Drug Interactions (7.5)].
+Based on in vitro studies treprostinil does not inhibit or induce major CYP enzymes.
 
-Special Populations
+Specific Populations
 
 Hepatic Insufficiency
 
 In patients with portopulmonary hypertension and mild (n=4) or moderate (n=5) hepatic insufficiency, Remodulin at a subcutaneous dose of 10 ng/kg/min for 150 minutes had a Cmax that was 2-fold and 4-fold, respectively, and an AUC 0-∞ that was 3-fold and 5-fold, respectively, values observed in healthy subjects.
 Clearance in patients with hepatic insufficiency was reduced by up to 80% compared to healthy adults.
 
-Renal Insufficiency
+Renal Impairment
 
-No studies have been performed in patients with renal insufficiency, so no specific advice about dosing in such patients can be given.
-Although only 4% of the administered dose is excreted unchanged in the urine, the five identified metabolites are all excreted in the urine.
+In patients with severe renal impairment requiring dialysis (n=8), administration of a single 1 mg dose of orally administered treprostinil pre- and post-dialysis resulted in an AUC0-inf that was not significantly altered compared to healthy subjects.
+
+Drug Interaction Studies
+
+Effect of CYP2C8 Inhibitors and Inducers on Treprostinil
+
+Co-administration of an oral formulation of treprostinil (treprostinil diolamine) with gemfibrozil (600 mg twice a day), a CYP2C8 enzyme inhibitor, increases the AUC and Cmax of treprostinil by 2-fold in healthy adults.
+Co-administration of an oral formulation of treprostinil (treprostinil diolamine) with rifampin (600 mg/day), a CYP2C8 enzyme inducer, decreases AUC of treprostinil by 22%.
+
+Effect of Treprostinil on Cytochrome P450 Enzymes
+
+In vitro studies of human hepatic microsomes showed that treprostinil does not inhibit cytochrome P450 (CYP) isoenzymes CYP1A2, CYP2A6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1 and CYP3A.
+Additionally, treprostinil does not induce CYP1A2, CYP2B6, CYP2C9, CYP2C19, and CYP3A isoenzymes.
+
+Effect of Other Drugs on Treprostinil
+
+Human pharmacokinetic studies with an oral formulation of treprostinil (treprostinil diolamine) indicated that co-administration of the cytochrome P450 (CYP) 2C8 enzyme inhibitor gemfibrozil increases exposure (both Cmax and AUC) to treprostinil.
+Co-administration of the CYP2C8 enzyme inducer rifampin decreases exposure to treprostinil.
+
+Drug interaction studies have been carried out with treprostinil (oral or subcutaneous) co-administered with acetaminophen (4 g/day), esomeprazole (40 mg/day), bosentan (250 mg/day), sildenafil (60 mg/day), warfarin (25 mg/day), and fluconazole (200 mg/day), respectively, in healthy volunteers.
+These studies did not show a clinically significant effect on the pharmacokinetics of treprostinil.
+Treprostinil does not affect the pharmacokinetics or pharmacodynamics of warfarin.
+The pharmacokinetics of R- and S- warfarin and the INR in healthy subjects given a single 25 mg dose of warfarin were unaffected by continuous subcutaneous infusion of treprostinil at an infusion rate of 10 ng/kg/min.

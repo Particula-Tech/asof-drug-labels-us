@@ -13,9 +13,9 @@ During clinical trials with subcutaneous infusion of Remodulin, infusion site pa
 Infusion site reaction was defined as any local adverse event other than pain or bleeding/bruising at the infusion site and included symptoms such as erythema, induration or rash.
 Infusion site reactions were sometimes severe and could lead to discontinuation of treatment.
 
-Table 3: Percentages of subjects reporting subcutaneous infusion site adverse events
+Table 3: Percentages of Subjects Reporting Subcutaneous Infusion Site Adverse Events
 
-| Placebo | Remodulin | Placebo | Remodulin |  |
+|  | Placebo | Remodulin | Placebo | Remodulin |
 | --- | --- | --- | --- | --- |
 |  | Reaction |  | Pain |  |
 | Severe | 1 | 38 | 2 | 39 |
@@ -26,9 +26,9 @@ Other adverse events included diarrhea, jaw pain, edema, vasodilatation and naus
 
 Adverse Reactions during Chronic Dosing
 
-Table 4 lists adverse reactions defined by a rate of at least 3% more frequent in patients treated with subcutaneous Remodulin than with placebo in controlled trials in PAH.
+Table 4 lists adverse reactions that occurred at a rate of at least 3% more frequent in patients treated with subcutaneous Remodulin than with placebo in controlled trials in PAH.
 
-Table 4: Adverse Reactions in Controlled 12-Week Studies of Subcutaneous Remodulin and at least 3% more frequent than on Placebo.
+Table 4: Adverse Reactions in Controlled 12-Week Studies of Subcutaneous Remodulin and at least 3% more frequent than on Placebo
 
 | Adverse Reaction | Remodulin (N=236) Percent of Patients | Placebo (N=233) Percent of Patients |
 | --- | --- | --- |
@@ -42,9 +42,9 @@ Table 4: Adverse Reactions in Controlled 12-Week Studies of Subcutaneous Remodul
 | Vasodilatation | 11 | 5 |
 | Edema | 9 | 3 |
 
-Reported adverse reactions (at least 3% more frequent on drug than on placebo) are included except those too general to be informative, and those not plausibly attributable to the use of the drug, because they were associated with the condition being treated or are very common in the treated population.
+Reported adverse reactions (at least 3% more frequent on drug than on placebo) are included with the exception of those too general to be informative, and those not plausibly attributable to the use of the drug, because they were associated with the condition being treated or are very common in the treated population.
 
-While hypotension occurred in both groups, the event was experienced twice as frequently in the Remodulin group as compared to the placebo group (4% in Remodulin treatment group verses 2% in placebo-controlled group).
+While hypotension occurred in both groups, the event was experienced twice as frequently in the Remodulin group as compared to the placebo group (4% in Remodulin treatment group versus 2% in placebo-controlled group).
 As a potent vasodilator, hypotension is possible with the administration of Remodulin.
 
 The safety of Remodulin was also studied in a long-term, open-label extension study in which 860 patients were dosed for a mean duration of 1.6 years, with a maximum exposure of 4.6 years.
@@ -66,5 +66,5 @@ In addition to these adverse events due to the drug delivery system during subcu
 In addition to adverse reactions reported from clinical trials, the following events have been identified during post-approval use of Remodulin.
 Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
 The following events have been chosen for inclusion because of a combination of their seriousness, frequency of reporting, and potential connection to Remodulin.
-These events are thrombophlebitis associated with peripheral intravenous infusion, thrombocytopenia bone pain, pruritus and dizziness.
+These events are thrombophlebitis associated with peripheral intravenous infusion, thrombocytopenia, bone pain, pruritus, dizziness, arthralgia, myalgia/muscle spasm, and pain in extremity.
 In addition, generalized rashes, sometimes macular or papular in nature, and cellulitis have been infrequently reported.

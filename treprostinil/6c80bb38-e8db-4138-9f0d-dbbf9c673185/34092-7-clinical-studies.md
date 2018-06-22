@@ -2,7 +2,7 @@
 
 ## 14.1 Clinical Trials in Pulmonary Arterial Hypertension (PAH)
 
-Two 12-week, multicenter, randomized, double-blind studies compared continuous subcutaneous infusion of Remodulin to placebo in a total of 470 patients with NYHA Class II (11%), III (81%), or IV (7%) pulmonary arterial hypertension (PAH).
+Two 12-week, multicenter, randomized, double-blind studies compared continuous subcutaneous infusion of Remodulin to placebo in a total of 470 patients with NYHA Class II (11%), III (81%), or IV (7%) PAH.
 PAH was idiopathic/heritable in 58% of patients, associated with connective tissue diseases in 19%, and the result of congenital systemic-to-pulmonary shunts in 23%.
 The mean age was 45 (range 9 to 75 years).
 About 81% were female and 84% were Caucasian.
@@ -11,7 +11,7 @@ The primary endpoint of the studies was change in 6-minute walking distance, a s
 There were many assessments of symptoms related to heart failure, but local discomfort and pain associated with Remodulin may have substantially unblinded those assessments.
 The 6-minute walking distance and an associated subjective measurement of shortness of breath during the walk (Borg dyspnea score) were administered by a person not participating in other aspects of the study.
 Remodulin was administered as a subcutaneous infusion, described in Section 2, DOSAGE AND ADMINISTRATION, and the dose averaged 9.3 ng/kg/min at Week 12.
-Few subjects received doses > 40 ng/kg/min.
+Few subjects received doses greater than 40 ng/kg/min.
 Background therapy, determined by the investigators, could include anticoagulants, oral vasodilators, diuretics, digoxin, and oxygen but not an endothelin receptor antagonist or epoprostenol.
 The two studies were identical in design and conducted simultaneously, and the results were analyzed both pooled and individually.
 
@@ -21,9 +21,9 @@ As shown in Table 5, chronic therapy with Remodulin resulted in small hemodynami
 
 Table 5: Hemodynamics during Chronic Administration of Remodulin in Patients with PAH in 12-Week Studies
 
-| Remodulin (N=204-231) | Placebo (N=215-235) | Remodulin (N=163-199) | Placebo (N=182-215) |  |
+| Hemodynamic Parameter | Remodulin (N=204-231) | Placebo (N=215-235) | Remodulin (N=163-199) | Placebo (N=182-215) |
 | --- | --- | --- | --- | --- |
-| Hemodynamic Parameter | Baseline |  | Mean change from baseline at Week 12 |  |
+|  | Baseline |  | Mean change from baseline at Week 12 |  |
 | CI (L/min/m2) | 2.4 ± 0.88 | 2.2 ± 0.74 | +0.12 ± 0.58Denotes statistically significant difference between Remodulin and placebo, p<0.05. | -0.06 ± 0.55 |
 | PAPm (mmHg) | 62 ± 17.6 | 60 ± 14.8 | -2.3 ± 7.3 | +0.7 ± 8.5 |
 | RAPm (mmHg) | 10 ± 5.7 | 10 ± 5.9 | -0.5 ± 5.0 | +1.4 ± 4.8 |

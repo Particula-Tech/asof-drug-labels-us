@@ -8,10 +8,10 @@ Remodulin Injection is supplied as:
 
 | Remodulin | Concentration | NDC 66302-xxx-xx |
 | --- | --- | --- |
-| 20 mg / 20 mL | 1 mg/ mL | 101-01 |
-| 50 mg / 20 mL | 2.5 mg/ mL | 102-01 |
-| 100 mg / 20 mL | 5 mg/ mL | 105-01 |
-| 200 mg / 20 mL | 10 mg/ mL | 110-01 |
+| 20 mg / 20 mL | 1 mg/mL | 101-01 |
+| 50 mg / 20 mL | 2.5 mg/mL | 102-01 |
+| 100 mg / 20 mL | 5 mg/mL | 105-01 |
+| 200 mg / 20 mL | 10 mg/mL | 110-01 |
 
 Sterile Diluent for Remodulin is supplied separately as:
 

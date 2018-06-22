@@ -1,4 +1,4 @@
-# 1. INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
 ## 1.1 Pulmonary Arterial Hypertension
 
@@ -9,5 +9,5 @@ It may be administered as a continuous subcutaneous infusion or continuous intra
 
 ## 1.2 Pulmonary Arterial Hypertension in Patients Requiring Transition from Flolan®
 
-In patients with pulmonary arterial hypertension requiring transition from Flolan (epoprostenol sodium), Remodulin is indicated to diminish the rate of clinical deterioration.
+In patients with PAH requiring transition from Flolan (epoprostenol sodium), Remodulin is indicated to diminish the rate of clinical deterioration.
 Consider the risks and benefits of each drug prior to transition.
