@@ -1,11 +1,3 @@
-PACIFIC PHARMA®
+# PRINCIPAL DISPLAY PANEL
 
-NDC 60758-119-10
-
-PREDNISOLONE ACETATE ophthalmic suspension, USP 1%
-
-10 mL
-
-sterile
-
-Rx only
+NDC 60758-119-10 PREDNISOLONE ACETATE ophthalmic suspension, USP 1% 10 mL sterile Rx Only
