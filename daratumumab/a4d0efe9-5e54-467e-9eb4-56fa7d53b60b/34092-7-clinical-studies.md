@@ -4,7 +4,7 @@
 
 Combination Treatment with Bortezomib, Melphalan and Prednisone (VMP) in Patients Ineligible for Autologous Stem Cell Transplant
 
-ALCYONE (NCT02185479), an open-label, randomized, active-controlled Phase 3 study, compared treatment with DARZALEX 16 mg/kg in combination with bortezomib, melphalan and prednisone (D-VMP), to treatment with VMP in patients with newly diagnosed multiple myeloma.
+ALCYONE (NCT02195479), an open-label, randomized, active-controlled Phase 3 study, compared treatment with DARZALEX 16 mg/kg in combination with bortezomib, melphalan and prednisone (D-VMP), to treatment with VMP in patients with newly diagnosed multiple myeloma.
 Bortezomib was administered by subcutaneous (SC) injection at a dose of 1.3 mg/m2 body surface area twice weekly at Weeks 1, 2, 4 and 5 for the first 6-week cycle (Cycle 1; 8 doses), followed by once weekly administrations at Weeks 1, 2, 4 and 5 for eight more 6-week cycles (Cycles 2–9; 4 doses per cycle).
 Melphalan at 9 mg/m2, and prednisone at 60 mg/m2 were orally administered on Days 1 to 4 of the nine 6-week cycles (Cycles 1–9).
 DARZALEX treatment was continued until disease progression or unacceptable toxicity.

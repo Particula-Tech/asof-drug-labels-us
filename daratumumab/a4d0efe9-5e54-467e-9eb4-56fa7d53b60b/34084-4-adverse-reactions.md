@@ -303,3 +303,10 @@ For these reasons, comparison of the incidence of antibodies to daratumumab in t
 In clinical trials of patients with multiple myeloma treated with DARZALEX as monotherapy or as combination therapies, none of the 111 evaluable monotherapy patients, and 2 of the 411 combination therapy patients, tested positive for anti-daratumumab antibodies.
 One patient administered DARZALEX as combination therapy, developed transient neutralizing antibodies against daratumumab.
 However, this assay has limitations in detecting anti-daratumumab antibodies in the presence of high concentrations of daratumumab; therefore, the incidence of antibody development might not have been reliably determined.
+
+## 6.3 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of DARZALEX.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Immune System disorders: Anaphylactic reaction

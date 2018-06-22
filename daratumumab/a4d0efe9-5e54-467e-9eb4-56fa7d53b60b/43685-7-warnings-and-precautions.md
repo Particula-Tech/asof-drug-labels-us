@@ -2,8 +2,9 @@
 
 ## 5.1 Infusion Reactions
 
-DARZALEX can cause severe infusion reactions.
-Approximately half of all patients experienced a reaction, most during the first infusion.
+DARZALEX can cause severe and/or serious infusion reactions including anaphylactic reactions.
+In clinical trials, approximately half of all patients experienced an infusion reaction.
+Most infusion reactions occurred during the first infusion and were Grade 1–2 [see Adverse Reactions (6.1)].
 
 Infusion reactions can also occur with subsequent infusions.
 Nearly all reactions occurred during infusion or within 4 hours of completing DARZALEX.
@@ -16,7 +17,7 @@ Less common symptoms were wheezing, allergic rhinitis, pyrexia, chest discomfort
 Pre-medicate patients with antihistamines, antipyretics and corticosteroids.
 Frequently monitor patients during the entire infusion.
 Interrupt DARZALEX infusion for reactions of any severity and institute medical management as needed.
-Permanently discontinue DARZALEX therapy for life-threatening (Grade 4) reactions.
+Permanently discontinue DARZALEX therapy if an anaphylactic reaction or life-threatening (Grade 4) reaction occurs and institute appropriate emergency care.
 For patients with Grade 1, 2, or 3 reactions, reduce the infusion rate when re-starting the infusion [see Dosage and Administration (2.1)].
 
 To reduce the risk of delayed infusion reactions, administer oral corticosteroids to all patients following DARZALEX infusions [see Dosage and Administration (2.2)].

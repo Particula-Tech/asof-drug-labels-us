@@ -1,3 +1,3 @@
 # 4 CONTRAINDICATIONS
 
-None.
+DARZALEX is contraindicated in patients with a history of severe hypersensitivity (e.g. anaphylactic reactions) to daratumumab or any of the components of the formulation [see Warnings and Precautions (5.1) and Adverse Reactions (6.3)].
