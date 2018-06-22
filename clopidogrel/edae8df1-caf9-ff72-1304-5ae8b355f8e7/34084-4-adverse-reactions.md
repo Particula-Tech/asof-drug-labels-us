@@ -85,7 +85,7 @@ Hemorrhages, including those with fatal outcome, have been reported in patients 
 - Blood and lymphatic system disorders: Agranulocytosis, aplastic anemia/pancytopenia, thrombotic thrombocytopenic purpura (TTP), acquired hemophilia A
 - Gastrointestinal disorders: Colitis (including ulcerative or lymphocytic colitis), pancreatitis, stomatitis, gastric/duodenal ulcer, diarrhea
 - General disorders and administration site condition: Fever
-- Hepato-biliary disorders: Acute liver failure, hepatitis (non-infectious), abnormal liver function test
+- Hepatobiliary disorders: Acute liver failure, hepatitis (non-infectious), abnormal liver function test
 - Immune system disorders: Hypersensitivity reactions, anaphylactoid reactions, serum sickness
 - Musculoskeletal, connective tissue and bone disorders: Myalgia, arthralgia, arthritis
 - Nervous system disorders: Taste disorders, headache, ageusia

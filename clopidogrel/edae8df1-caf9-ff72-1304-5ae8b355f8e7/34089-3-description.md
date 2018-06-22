@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Clopidogrel bisulfate is an inhibitor of ADP-induced platelet aggregation acting by direct inhibition of adenosine diphosphate (ADP) binding to its receptor and of the subsequent ADP-mediated activation of the glycoprotein GPIIb/IIIa complex.
+Clopidogrel bisulfate is a thienopyridine class inhibitor of P2Y12 ADP platelet receptors.
 Chemically it is methyl (+)-(S)-α-(2-chlorophenyl)-6,7-dihydrothieno[3,2-c]pyridine-5(4H)-acetate sulfate (1:1).
 The empirical formula of clopidogrel bisulfate is C16H16ClNO2S•H2SO4 and its molecular weight is 419.9 g/mol.
 
@@ -18,4 +18,4 @@ Clopidogrel tablets, USP 300 mg for oral administration are provided as pink, ob
 The tablets contain 392.0 mg of clopidogrel bisulfate, which is the molar equivalent of 300 mg of clopidogrel base.
 
 Each tablet contains anhydrous lactose, colloidal silicon dioxide, crospovidone, methylcellulose and zinc stearate as inactive ingredients.
-The pink film coating contains hydroxypropyl cellulose, hypromellose, polyethylene glycol, red ferric oxide and titanium dioxide.
+The pink film coating contains ferric oxide red, hydroxypropyl cellulose, hypromellose, polyethylene glycol and titanium dioxide.

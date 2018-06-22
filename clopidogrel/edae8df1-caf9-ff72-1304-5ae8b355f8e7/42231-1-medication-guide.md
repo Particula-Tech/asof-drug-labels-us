@@ -177,13 +177,13 @@ For more information, go to www.apotex.com or call 1-800-706-5575.
 
 What are the ingredients in clopidogrel tablets?
 
-Active Ingredient: clopidogrel bisulfate
+Active ingredient: clopidogrel bisulfate
 
-Inactive Ingredients:
+Inactive ingredients:
 
 Tablet: anhydrous lactose, colloidal silicon dioxide, crospovidone, methylcellulose and zinc stearate
 
-Film coating: hydroxypropyl cellulose, hypromellose, polyethylene glycol, red ferric oxide and titanium dioxide.
+Film coating: ferric oxide red, hydroxypropyl cellulose, hypromellose, polyethylene glycol and titanium dioxide.
 
 All registered trademarks in this document are the property of their respective owners.
 
@@ -199,11 +199,7 @@ CLOPIDOGREL TABLETS, USP 75 mg and 300 mg
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | 33326 |
 
-Revised: November 2017
+Revised: June 2018
 
 Rev.
-23
-
-Coumadin® is a registered trademark of Bristol-Myers Squibb Pharma Company.
-Prilosec® is a registered trademark of AstraZeneca.
-Prandin® is a registered trademark of Novo Nordisk Inc. Jantoven® is a registered trademark of USL Pharma.
+24
