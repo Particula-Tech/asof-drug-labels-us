@@ -1,3 +1,9 @@
+SALAGEN®
+
+Tablets
+
+(pilocarpine hydrochloride)
+
 # MANAGEMENT OF OVERDOSE
 
 Fatal overdosage with pilocarpine has been reported in the scientific literature at doses presumed to be greater than 100 mg in two hospitalized patients.

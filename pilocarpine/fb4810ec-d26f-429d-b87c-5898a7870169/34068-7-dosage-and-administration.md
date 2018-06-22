@@ -1,4 +1,4 @@
-# DOSAGE AND ADMINISTRATION:
+# DOSAGE AND ADMINISTRATION
 
 Regardless of the indication, the starting dose in patients with moderate hepatic impairment should be 5 mg twice daily, followed by adjustment based on therapeutic response and tolerability.
 Patients with mild hepatic insufficiency do not require dosage reductions.
@@ -13,5 +13,5 @@ Although early improvement may be realized, at least 12 weeks of uninterrupted t
 The incidence of the most common adverse events increases with dose.
 The lowest dose that is tolerated and effective should be used for maintenance.
 
-Sjogren's Syndrome Patients: The recommended dose of SALAGEN® Tablets is 5 mg taken four times a day.
+Sjogren’s Syndrome Patients: The recommended dose of SALAGEN® Tablets is 5 mg taken four times a day.
 Efficacy was established by 6 weeks of use.

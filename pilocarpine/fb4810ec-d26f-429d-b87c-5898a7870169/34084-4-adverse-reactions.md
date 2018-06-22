@@ -4,13 +4,12 @@ Head & Neck Cancer Patients: In controlled studies, 217 patients received piloca
 Race distribution was 91% Caucasian, 8% Black, and 1% of other origin.
 Mean age was approximately 58 years.
 The majority of patients were between 50 and 64 years (51%), 33% were 65 years and older and 16% were younger than 50 years of age.
-
 The most frequent adverse experiences associated with SALAGEN® Tablets were a consequence of the expected pharmacologic effects of pilocarpine.
 
 | Adverse Event | Pilocarpine HCI |  | Placebo |
 | --- | --- | --- | --- |
 |  | 10 mg t.i.d. (30 mg/day) | 5 mg t.i.d. (15 mg/day) | (t.i.d.) |
-| Sweating | N=121/68% | N=141/ 29% | N=152/9% |
+| Sweating | N=121/68% | N=141/29% | N=152/9% |
 | Nausea | 15 | 6 | 4 |
 | Rhinitis | 14 | 5 | 7 |
 | Diarrhea | 7 | 4 | 5 |
@@ -37,9 +36,7 @@ In addition, the following adverse events (≥3% incidence) were reported at dos
 
 The following events were reported with treated head and neck cancer patients at incidences of 1% to 2% at dosages of 7.5 to 30 mg/day: abnormal vision, conjunctivitis, dysphagia, epistaxis, myalgias, pruritus, rash, sinusitis, tachycardia, taste perversion, tremor, voice alteration.
 
-The following events were reported rarely in treated head and neck cancer patients (<1%):
-
-Causal relation is unknown.
+The following events were reported rarely in treated head and neck cancer patients (<1%): Causal relation is unknown.
 
 Body as a whole: body odor, hypothermia, mucous membrane abnormality
 
@@ -62,7 +59,7 @@ Urogenital: dysuria, metrorrhagia, urinary impairment
 In long-term treatment were two patients with underlying cardiovascular disease of whom one experienced a myocardial infarct and another an episode of syncope.
 The association with drug is uncertain.
 
-Sjogren's Syndrome Patients: In controlled studies, 376 patients received pilocarpine, of whom 5% were men and 95% were women.
+Sjogren’s Syndrome Patients: In controlled studies, 376 patients received pilocarpine, of whom 5% were men and 95% were women.
 Race distribution was 84% Caucasian, 9% Oriental, 3% Black, and 4% of other origin.
 Mean age was 55 years.
 The majority of patients were between 40 and 69 years (70%), 16% were 70 years and older and 14% were younger than 40 years of age.
@@ -92,7 +89,7 @@ In addition, the following adverse events (≥3% incidence) were reported at dos
 
 | Adverse Event | Pilocarpine HCI | Placebo |
 | --- | --- | --- |
-|  | 5 mg q.i.d. 20 mg/day | (q.i.d) |
+|  | 5 mg q.i.d. (20 mg/day) | (q.i.d) |
 | Headache | N=255/13% | N=253/19% |
 | Flu Syndrome | 9 | 9 |
 | Dyspepsia | 7 | 7 |
@@ -105,13 +102,15 @@ In addition, the following adverse events (≥3% incidence) were reported at dos
 | Rash | 2 | 3 |
 | Infection | 2 | 6 |
 
-The following events were reported in Sjogren's patients at incidences of 1% to 2% at dosing of 20 mg/day: accidental injury, allergic reaction, back pain, blurred vision, constipation, increased cough, edema, epistaxis, face edema, fever, flatulence, glossitis, lab test abnor-malities, including chemistry, hematology, and urinalysis, myalgia, palpitation, pruritus, somnolence, stomatitis, tachycardia, tinnitus, urinary incontinence, urinary tract infection, and vaginitis.
+The following events were reported in Sjogren’s patients at incidences of 1% to 2% at dosing of 20 mg/day: accidental injury, allergic reaction, back pain, blurred vision, constipation, increased cough, edema, epistaxis, face edema, fever, flatulence, glossitis, lab test abnormalities, including chemistry, hematology, and urinalysis, myalgia, palpitation, pruritus, somnolence, stomatitis, tachycardia, tinnitus, urinary incontinence, urinary tract infection, and vaginitis.
 
-The following events were reported rarely in treated Sjogren's patients (<1%) at dosing of 10-30 mg/day: Causal relation is unknown.
+The following events were reported rarely in treated Sjogren’s patients (<1%) at dosing of 10-30 mg/day: Causal relation is unknown.
 
-Body as a whole: chest pain, cyst, death, moniliasis, neck pain, neck rigidity, photosensitivity reaction Cardiovascular: angina pectoris, arrhythmia, ECG abnormality, hypotension, hypertension, intracranial hemorrhage, migraine, myocardial infarction
+Body as a whole: chest pain, cyst, death, moniliasis, neck pain, neck rigidity, photosensitivity reaction
 
-Digestive: anorexia, bilirubinemia, cholelithiasis, colitis, dry mouth, eructation, gastritis, gastroenteritis, gas-trointestinal disorder, gingivitis, hepatitis, abnormal liver function tests, melena, nausea & vomiting, pancreatitis, parotid gland enlargement, salivary gland enlargement, sputum increased, taste loss, tongue disorder, tooth disorder
+Cardiovascular: angina pectoris, arrhythmia, ECG abnormality, hypotension, hypertension, intracranial hemorrhage, migraine, myocardial infarction
+
+Digestive: anorexia, bilirubinemia, cholelithiasis, colitis, dry mouth, eructation, gastritis, gastroenteritis, gastrointestinal disorder, gingivitis, hepatitis, abnormal liver function tests, melena, nausea & vomiting, pancreatitis, parotid gland enlargement, salivary gland enlargement, sputum increased, taste loss, tongue disorder, tooth disorder
 
 Hematologic: hematuria, lymphadenopathy, abnormal platelets, thrombocythemia, thrombocytopenia, thrombosis, abnormal WBC
 
