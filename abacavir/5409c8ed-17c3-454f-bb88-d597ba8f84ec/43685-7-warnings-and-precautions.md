@@ -23,11 +23,10 @@ Due to the potential for severe, serious, and possibly fatal hypersensitivity re
 
 ## 5.2 Lactic Acidosis and Severe Hepatomegaly with Steatosis
 
-Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues and other antiretrovirals.
+Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues, including abacavir.
 A majority of these cases have been in women.
-Obesity and prolonged nucleoside exposure may be risk factors.
-Caution should be exercised when administering abacavir to any patient with known risk factors for liver disease; however, cases have also been reported in patients with no known risk factors.
-Treatment with abacavir should be suspended in any patient who develops clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity (which may include hepatomegaly and steatosis even in the absence of marked transaminase elevations).
+Female sex and obesity may be risk factors for the development of lactic acidosis and severe hepatomegaly with steatosis in patients treated with antiretroviral nucleoside analogues.
+Treatment with abacavir should be suspended in any patient who develops clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity, which may include hepatomegaly and steatosis even in the absence of marked transaminase elevations.
 
 ## 5.3 Immune Reconstitution Syndrome
 
@@ -35,15 +34,11 @@ Immune reconstitution syndrome has been reported in patients treated with combin
 During the initial phase of combination antiretroviral treatment, patients whose immune systems respond may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia [PCP], or tuberculosis), which may necessitate further evaluation and treatment.
 Autoimmune disorders (such as Graves’ disease, polymyositis, and Guillain-Barré syndrome) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable and can occur many months after initiation of treatment.
 
-## 5.4 Fat Redistribution
+## 5.4 Myocardial Infarction
 
-Redistribution/accumulation of body fat including central obesity, dorsocervical fat enlargement (buffalo hump), peripheral wasting, facial wasting, breast enlargement, and “cushingoid appearance” have been observed in patients receiving antiretroviral therapy.
-The mechanism and long-term consequences of these events are currently unknown.
-A causal relationship has not been established.
+Several prospective, observational, epidemiological studies have reported an association with the use of abacavir and the risk of myocardial infarction (MI).
+Meta-analyses of randomized, controlled, clinical trials have observed no excess risk of MI in abacavir-treated subjects as compared with control subjects.
+To date, there is no established biological mechanism to explain a potential increase in risk.
+In totality, the available data from the observational studies and from controlled clinical trials show inconsistency; therefore, evidence for a causal relationship between abacavir treatment and the risk of MI is inconclusive.
 
-## 5.5 Myocardial Infarction
-
-In a published prospective, observational, epidemiological trial designed to investigate the rate of myocardial infarction (MI) in patients on combination antiretroviral therapy, the use of abacavir within the previous 6 months was correlated with an increased risk of MI.
-In a sponsor-conducted pooled analysis of clinical trials, no excess risk of MI was observed in abacavir-treated subjects as compared with control subjects.
-In totality, the available data from the observational cohort and from clinical trials are inconclusive.
 As a precaution, the underlying risk of coronary heart disease should be considered when prescribing antiretroviral therapies, including abacavir, and action taken to minimize all modifiable risk factors (e.g., hypertension, hyperlipidemia, diabetes mellitus, smoking).

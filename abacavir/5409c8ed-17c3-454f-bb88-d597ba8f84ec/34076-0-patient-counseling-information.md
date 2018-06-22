@@ -21,14 +21,10 @@ Inform patients:
 Lactic Acidosis/Hepatomegaly with Steatosis
 
 Advise patients that lactic acidosis and severe hepatomegaly with steatosis have been reported with use of nucleoside analogues and other antiretrovirals.
-Advise patients to stop taking abacavir if they develop clinical symptoms suggestive of lactic acidosis or pronounced hepatotoxicity [see Boxed Warning, Warnings and Precautions (5.2)].
+Advise patients to stop taking abacavir if they develop clinical symptoms suggestive of lactic acidosis or pronounced hepatotoxicity [see Warnings and Precautions (5.2)].
 Immune Reconstitution Syndrome
 
 Advise patients to inform their healthcare provider immediately of any signs and symptoms of infection as inflammation from previous infection may occur soon after combination antiretroviral therapy, including when abacavir is started [see Warnings and Precautions (5.3)].
-
-Redistribution/Accumulation of Body Fat
-
-Inform patients that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy and that the cause and long-term health effects of these conditions are not known at this time [see Warnings and Precautions (5.4)].
 
 Pregnancy Registry
 
@@ -48,4 +44,4 @@ Availability of Medication Guide
 Instruct patients to read the Medication Guide before starting abacavir and to re-read it each time the prescription is renewed.
 Instruct patients to inform their physician or pharmacist if they develop any unusual symptom, or if any known symptom persists or worsens.
 
-Distributed by: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 03/2018
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 06/2018

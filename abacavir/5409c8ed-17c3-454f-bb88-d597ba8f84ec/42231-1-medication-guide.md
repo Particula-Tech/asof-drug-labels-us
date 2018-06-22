@@ -19,7 +19,7 @@ If you get a symptom from 2 or more of the following groups while taking abacavi
 
 A list of these symptoms is on the Warning Card your pharmacist gives you.
 Carry this Warning Card with you at all times.
-If you stop abacavir tablets because of an allergic reaction, never take abacavir or any other abacavir-containing medicine (EPZICOM®, TRIUMEQ®, or TRIZIVIR®) again.
+If you stop abacavir tablets because of an allergic reaction, never take abacavir or any other abacavir-containing medicine (EPZICOM, TRIUMEQ, or TRIZIVIR) again.
 
 - If you have an allergic reaction, dispose of any unused abacavir tablets.
   Ask your pharmacist how to properly dispose of medicines.
@@ -28,32 +28,6 @@ If you stop abacavir tablets because of an allergic reaction, never take abacavi
   Taking abacavir tablets again can cause a serious allergic or life-threatening reaction, even if you never had an allergic reaction to them before.
 
 If your healthcare provider tells you that you can take abacavir tablets again, start taking them when you are around medical help or people who can call a healthcare provider if you need one.
-
-- Build-up of acid in your blood (lactic acidosis).
-  Lactic acidosis can happen in some people who take abacavir tablets.
-  Lactic acidosis is a serious medical emergency that can cause death.
-  Call your healthcare provider right away if you get any of the following symptoms that could be signs of lactic acidosis:
-  - feel very weak or tired
-  - unusual (not normal) muscle pain
-  - trouble breathing
-  - stomach pain with nausea and vomiting
-  - feel cold, especially in your arms and legs
-  - feel dizzy or light-headed
-  - have a fast or irregular heartbeat
-
-- Serious liver problems can happen in people who take abacavir tablets.
-  In some cases, these serious liver problems can lead to death.
-  Your liver may become large (hepatomegaly) and you may develop fat in your liver (steatosis) when you take abacavir tablets.
-  Call your healthcare provider right away if you have any of the following signs of liver problems:
-
-- your skin or the white part of your eyes turns yellow (jaundice)
-- dark or “tea-colored” urine
-- light-colored stools (bowel movements)
-- loss of appetite for several days or longer
-- nausea
-- pain, aching, or tenderness on the right side of your stomach area
-
-You may be more likely to get lactic acidosis or serious liver problems if you are female, very overweight (obese), or have been taking nucleoside analogue medicines for a long time.
 What are abacavir tablets?
 Abacavir tablets are a prescription HIV-1 (Human Immunodeficiency Virus type 1) medicine used with other antiretroviral medicines to treat HIV-1 infection.
 HIV-1 is the virus that causes Acquired Immune Deficiency Syndrome (AIDS).
@@ -129,13 +103,30 @@ What are the possible side effects of abacavir tablets?
 
 - Abacavir tablets can cause serious side effects including:
 - See “What is the most important information I should know about abacavir tablets?”
-- Changes in your immune system (Immune Reconstitution Syndrome) can happen when your start taking HIV-1 medicines.
+- Build-up of acid in your blood (lactic acidosis).
+  Lactic acidosis can happen in some people who take abacavir tablets.
+  Lactic acidosis is a serious medical emergency that can cause death.
+  Call your healthcare provider right away if you get any of the following symptoms that could be signs of lactic acidosis: You may be more likely to get lactic acidosis or serious liver problems if you are female or very overweight (obese).
+  - feel very weak or tired
+  - unusual (not normal) muscle pain
+  - trouble breathing
+  - stomach pain with nausea and vomiting
+  - feel cold, especially in your arms and legs
+  - feel dizzy or light-headed
+  - have a fast or irregular heartbeat
+  - Serious liver problems can happen in people who take abacavir tablets.
+    In some cases, these serious liver problems can lead to death.
+    Your liver may become large (hepatomegaly) and you may develop fat in your liver (steatosis) when you take abacavir tablets.
+    Call your healthcare provider right away if you have any of the following signs of liver problems:
+  - your skin or the white part of your eyes turns yellow (jaundice)
+  - dark or “tea-colored” urine
+  - light-colored stools (bowel movements)
+  - loss of appetite for several days or longer
+  - nausea
+  - pain, aching, or tenderness on the right side of your stomach area
+- Changes in your immune system (Immune Reconstitution Syndrome) can happen when you start taking HIV-1 medicines.
   Your immune system may get stronger and begin to fight infections that have been hidden in your body for a long time.
   Tell your healthcare provider right away if you start having new symptoms after you start taking abacavir tablets.
-- Changes in body fat can happen in people who take HIV-1 medicines.
-  These changes may include an increased amount of fat in the upper back and neck (“buffalo hump”), breast, and around the middle of your body (trunk).
-  Loss of fat from the legs, arms, and face may also happen.
-  The exact cause and long-term health effects of these conditions are not known.
 - Heart attack (myocardial infarction).
   Some HIV-1 medicines including abacavir tablets may increase your risk of heart attack.
 
@@ -179,4 +170,4 @@ The tablets are coated with a film that is made of hypromellose, iron oxide yell
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 The brands listed are trademarks of their respective owners and are not trademarks of the Aurobindo Pharma Limited.
 The markers of these brands are not affiliated with and do not endorse the Aurobindo Pharma Limited or its products.
-Distributed by: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 03/2018
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 06/2018

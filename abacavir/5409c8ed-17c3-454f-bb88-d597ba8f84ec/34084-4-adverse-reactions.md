@@ -3,10 +3,9 @@
 The following adverse reactions are discussed in other sections of the labeling:
 
 - Serious and sometimes fatal hypersensitivity reactions [see Boxed Warning, Warnings and Precautions (5.1)].
-- Lactic acidosis and severe hepatomegaly with steatosis [see Boxed Warning, Warnings and Precautions (5.2)].
+- Lactic acidosis and severe hepatomegaly with steatosis [see Warnings and Precautions (5.2)].
 - Immune reconstitution syndrome [see Warnings and Precautions (5.3)].
-- Fat redistribution [see Warnings and Precautions (5.4)].
-- Myocardial infarction [see Warnings and Precautions (5.5)].
+- Myocardial infarction [see Warnings and Precautions (5.4)].
 
 ## 6.1 Clinical Trials Experience in Adult Subjects
 
