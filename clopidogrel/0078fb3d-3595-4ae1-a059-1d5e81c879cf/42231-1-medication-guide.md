@@ -156,7 +156,7 @@ Keep clopidogrel tablets and all medicines out of the reach of children.
 
 General information about clopidogrel tablets
 
-Medicines are some times used for purposes other than those listed in a Medication Guide.
+Medicines are sometimes used for purposes other than those listed in a Medication Guide.
 Do not take clopidogrel tablets for a condition for which it was not prescribed.
 Do not give clopidogrel tablets to other people, even if they have the same symptoms that you have.
 It may harm them.
@@ -180,4 +180,4 @@ Dispense with Medication Guide available at: www.aurobindousa.com/product-medica
 Coumadin® is a registered trademark of Bristol-Myers Squibb Pharma Company.
 Prilosec® and Nexium® are registered trademarks of AstraZeneca.
 Prandin® is a registered trademark of Novo Nordisk Inc. Jantoven® is a registered trademark of USL Pharma.
-Distributed by: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 11/2017
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road, East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 06/2018

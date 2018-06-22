@@ -43,11 +43,13 @@ After a single, oral dose of 75 mg, clopidogrel has a half-life of approximately
 The half-life of the active metabolite is about 30 minutes.
 Drug Interactions Effect of other drugs on clopidogrel bisulfate Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
 Concomitant use of certain inhibitors of this enzyme results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition.
-Proton Pump Inhibitors (PPI) The effect of proton pump inhibitors (PPI) on the systemic exposure to the clopidogrel active metabolite following multiple doses of clopidogrel bisulfate 75 mg evaluated in dedicated drug interaction studies is presented in Figure 1.
+Proton pump inhibitors (PPI) The effect of proton pump inhibitors (PPI) on the systemic exposure to the clopidogrel active metabolite following multiple doses of clopidogrel bisulfate 75 mg evaluated in dedicated drug interaction studies is presented in Figure 1.
 
 Pharmacodynamic and pharmacokinetic parameters measured in these studies showed that the interaction was highest with omeprazole and least with dexlansoprazole.
+Opioids Co-administration of 5 mg intravenous morphine with 600 mg loading dose of clopidogrel in healthy adults decreased the AUC and Cmax of clopidogrel’s thiol metabolites by 34%.
+Mean platelet aggregation was higher up to 2 to 4 hours with morphine co-administration.
 Effect of clopidogrel bisulfate on other drugs In vitro studies have shown that the glucuronide metabolite of clopidogrel is a strong inhibitor of CYP2C8.
-Concomitant administration of repaglinide with clopidogrel bisulfate increased the systemic exposure to repaglinide (AUC0-∞) by 5.1-fold following the loading dose (300 mg) and by 3.9-fold on day 3 of the maintenance dose (75 mg) of clopidogrel bisulfate [see Drug Interactions (7.5)].
+Concomitant administration of repaglinide with clopidogrel bisulfate increased the systemic exposure to repaglinide (AUC0-∞) by 5.1-fold following the loading dose (300 mg) and by 3.9-fold on day 3 of the maintenance dose (75 mg) of clopidogrel bisulfate [see Drug Interactions (7.6)].
 
 ## 12.5 Pharmacogenomics
 
