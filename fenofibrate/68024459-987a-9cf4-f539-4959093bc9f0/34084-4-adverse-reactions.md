@@ -32,7 +32,10 @@ Table 1 Adverse Reactions Reported by 2% or More of Patients Treated with Fenofi
 
 **Significantly different from placebo
 
+Urticaria was seen in 1.1 vs. 0%, and rash in 1.4 vs. 0.8% of fenofibrate and placebo patients, respectively, in controlled trials.
+
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post approval use of fenofibrate: myalgia, rhabdomyolysis, pancreatitis, renal failure, muscle spasms, acute renal failure, hepatitis, cirrhosis, anemia, arthralgia, asthenia, and severely depressed HDL-cholesterol levels.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+The following adverse reactions have been identified during post approval use of fenofibrate.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: myalgia, rhabdomyolysis, pancreatitis, renal failure, muscle spasms, acute renal failure, hepatitis, cirrhosis, anemia, arthralgia, asthenia, and severely depressed HDL-cholesterol levels.
+Photosensitivity reactions have occurred days to months after initiation; in some of these cases, patients reported a prior photosensitivity reaction to ketoprofen

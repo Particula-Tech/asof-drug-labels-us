@@ -23,9 +23,9 @@ FENOFIBRATE CAPSULES, USP
 | --- | --- |
 | Apotex Inc. | Apotex Corp. |
 | Toronto, ON | Weston, Florida |
-| Canada M9L 1T9 | 33326 |
+| Canada, M9L 1T9 | 33326 |
 
-Revised: November 2017
+Revised: June 2018
 
 Rev.
-6
+7

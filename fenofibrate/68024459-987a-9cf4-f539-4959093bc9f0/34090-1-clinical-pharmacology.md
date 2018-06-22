@@ -31,7 +31,7 @@ Fenofibrate is converted by ester hydrolysis in the body to fenofibric acid whic
 
 Absorption: The absolute bioavailability of fenofibrate cannot be determined as the compound is virtually insoluble in aqueous media suitable for injection.
 However, fenofibrate is well absorbed from the gastrointestinal tract.
-Following oral administration in healthy volunteers, approximately 60% of a single dose of radio-labeled fenofibrate appeared in urine, primarily as fenofibric acid and its glucuronate conjugate, and 25% was excreted in the feces.
+Following oral administration in healthy volunteers, approximately 60% of a single dose of radiolabelled fenofibrate appeared in urine, primarily as fenofibric acid and its glucuronate conjugate, and 25% was excreted in the feces.
 Peak plasma levels of fenofibric acid from fenofibrate occur within 4 to 8 hours after administration.
 There was less than dose-proportional increase in the systemic exposure of fenofibric acid from 43 mg and 130 mg of fenofibrate under fasting conditions.
 
@@ -68,13 +68,13 @@ Race: The influence of race on the pharmacokinetics of fenofibrate has not been 
 
 Renal Impairment: The pharmacokinetics of fenofibric acid was examined in patients with mild, moderate, and severe renal impairment.
 Patients with severe renal impairment (creatinine clearance [CrCl] ≤ 30 mL/min or estimated glomerular filtration rate [eGFR] < 30 mL/min/1.73m2) showed 2.7-fold increase in exposure for fenofibric acid and increased accumulation of fenofibric acid during chronic dosing compared to that of healthy subjects.
-Patients with mild to moderate (CrCl 30-80 mL/min or eGFR 30-59 mL/min/1.73m2) renal impairment had similar exposure but an increase in the half-life for fenofibric acid compared to that of healthy subjects.
+Patients with mild to moderate (CrCl 30 to 80 mL/min or eGFR 30 to 59 mL/min/1.73m2) renal impairment had similar exposure but an increase in the half-life for fenofibric acid compared to that of healthy subjects.
 Based on these findings, the use of fenofibrate should be avoided in patients who have severe renal impairment and dose reduction is required in patients having mild to moderate renal impairment [see Dosage and Administration (2.4)].
 
 Hepatic Impairment: No pharmacokinetic studies have been conducted in patients having hepatic impairment.
 
 Drug-Drug Interactions: In vitro studies using human liver microsomes indicate that fenofibrate and fenofibric acid are not inhibitors of cytochrome (CYP) P450 isoforms CYP3A4, CYP2D6, CYP2E1, or CYP1A2.
-They are weak inhibitors of CYP2C8, CYP2C19 and CYP2A6, and mild to moderate inhibitors of CYP2C9 at therapeutic concentrations.
+They are weak inhibitor of CYP2C8, CYP2C19 and CYP2A6, and mild to moderate inhibitors of CYP2C9 at therapeutic concentrations.
 
 Table 2 describes the effects of co-administered drugs on fenofibric acid systemic exposure.
 Table 3 describes the effects of co-administered fenofibric acid on exposure to other drugs.
