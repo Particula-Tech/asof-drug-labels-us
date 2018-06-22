@@ -2,6 +2,7 @@
 
 Pembrolizumab is a humanized monoclonal antibody that blocks the interaction between PD-1 and its ligands, PD-L1 and PD-L2.
 Pembrolizumab is an IgG4 kappa immunoglobulin with an approximate molecular weight of 149 kDa.
+Pembrolizumab is produced in recombinant Chinese hamster ovary (CHO) cells.
 
 KEYTRUDA for injection is a sterile, preservative-free, white to off-white lyophilized powder in single-dose vials.
 Each vial is reconstituted and diluted for intravenous infusion.

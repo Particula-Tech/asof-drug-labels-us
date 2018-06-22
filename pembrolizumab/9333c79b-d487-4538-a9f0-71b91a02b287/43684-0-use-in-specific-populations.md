@@ -46,7 +46,7 @@ The concentrations of pembrolizumab in pediatric patients were comparable to tho
 
 The safety profile in these pediatric patients was similar to that seen in adults treated with pembrolizumab; toxicities that occurred at a higher rate (≥15% difference) in pediatric patients when compared to adults under 65 years of age were fatigue (45%), vomiting (38%), abdominal pain (28%), hypertransaminasemia (28%) and hyponatremia (18%).
 
-Efficacy for pediatric patients with cHL or MSI-H cancers is extrapolated from the results in the respective adult populations [see Clinical Studies (14.4, 14.6)].
+Efficacy for pediatric patients with cHL, PMBCL or MSI-H cancers is extrapolated from the results in the respective adult populations [see Clinical Studies (14.4, 14.5, 14.7)].
 
 ## 8.5 Geriatric Use
 

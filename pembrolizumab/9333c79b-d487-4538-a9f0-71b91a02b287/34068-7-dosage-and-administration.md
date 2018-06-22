@@ -5,9 +5,9 @@
 Select patients for treatment with KEYTRUDA as a single agent based on the presence of positive PD-L1 expression in:
 
 - metastatic NSCLC [see Clinical Studies (14.2)].
-- metastatic gastric cancer [see Clinical Studies (14.7)].
+- metastatic gastric cancer [see Clinical Studies (14.8)].
   If PD-L1 expression is not detected in an archival gastric cancer specimen, evaluate the feasibility of obtaining a tumor biopsy for PD-L1 testing.
-- recurrent or metastatic cervical cancer [see Clinical Studies (14.8)]
+- recurrent or metastatic cervical cancer [see Clinical Studies (14.9)]
 
 Information on FDA-approved tests for the detection of PD-L1 expression in NSCLC, gastric cancer, or cervical cancer is available at: http://www.fda.gov/CompanionDiagnostics.
 
@@ -32,53 +32,60 @@ The recommended dose of KEYTRUDA in adults is 200 mg administered as an intraven
 
 The recommended dose of KEYTRUDA in pediatric patients is 2 mg/kg (up to a maximum of 200 mg), administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression or unacceptable toxicity, or up to 24 months in patients without disease progression.
 
-## 2.6 Recommended Dosage for Urothelial Carcinoma
+## 2.6 Recommended Dosage for PMBCL
 
-The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression or unacceptable toxicity, or up to 24 months in patients without disease progression [see Clinical Studies (14.5)].
+The recommended dose of KEYTRUDA in adults is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression [see Clinical Studies (14.5)].
 
-## 2.7 Recommended Dosage for MSI-H Cancer
+The recommended dose of KEYTRUDA in pediatric patients is 2 mg/kg (up to a maximum of 200 mg), administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression or unacceptable toxicity, or up to 24 months in patients without disease progression.
 
-The recommended dose of KEYTRUDA in adults is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression [see Clinical Studies (14.6)].
+## 2.7 Recommended Dosage for Urothelial Carcinoma
+
+The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression or unacceptable toxicity, or up to 24 months in patients without disease progression [see Clinical Studies (14.6)].
+
+## 2.8 Recommended Dosage for MSI-H Cancer
+
+The recommended dose of KEYTRUDA in adults is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression [see Clinical Studies (14.7)].
 
 The recommended dose of KEYTRUDA in children is 2 mg/kg (up to a maximum of 200 mg), administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression or unacceptable toxicity, or up to 24 months in patients without disease progression.
 
-## 2.8 Recommended Dosage for Gastric Cancer
-
-The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression [see Clinical Studies (14.7)].
-
-## 2.9 Recommended Dosage for Cervical Cancer
+## 2.9 Recommended Dosage for Gastric Cancer
 
 The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression [see Clinical Studies (14.8)].
 
-## 2.10 Dose Modifications
+## 2.10 Recommended Dosage for Cervical Cancer
+
+The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression [see Clinical Studies (14.9)].
+
+## 2.11 Dose Modifications
 
 Withhold KEYTRUDA for any of the following:
 
 - Grade 2 pneumonitis [see Warnings and Precautions (5.1)]
 - Grade 2 or 3 colitis [see Warnings and Precautions (5.2)]
 - Grade 3 or 4 endocrinopathies [see Warnings and Precautions (5.4)]
-- Grade 4 hematological toxicity in cHL patients
+- Grade 4 hematological toxicity in cHL or PMBCL patients
 - Grade 2 nephritis [see Warnings and Precautions (5.5)]
 - Grade 3 severe skin reactions or suspected Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN) [see Warnings and Precautions (5.6)]
 - Aspartate aminotransferase (AST) or alanine aminotransferase (ALT) greater than 3 and up to 5 times upper limit of normal (ULN) or total bilirubin greater than 1.5 and up to 3 times ULN
-- Any other severe or Grade 3 treatment-related adverse reaction [see Warnings and Precautions (5.7)]
+- Any other Grade 2 or 3 treatment-related adverse reaction, based on the severity and type of reaction [see Warnings and Precautions (5.7)]
 
 Resume KEYTRUDA in patients whose adverse reactions recover to Grade 0-1.
 
 Permanently discontinue KEYTRUDA for any of the following:
 
-- Any life-threatening adverse reaction (excluding endocrinopathies controlled with hormone replacement therapy, or hematological toxicity in patients with cHL)
+- Any life-threatening adverse reaction (excluding endocrinopathies controlled with hormone replacement therapy, or hematological toxicity in patients with cHL or PMBCL)
 - Grade 3 or 4 pneumonitis or recurrent pneumonitis of Grade 2 severity [see Warnings and Precautions (5.1)]
 - Grade 3 or 4 nephritis [see Warnings and Precautions (5.5)]
 - Grade 4 severe skin reactions or confirmed SJS or TEN [see Warnings and Precautions (5.6)]
 - AST or ALT greater than 5 times ULN or total bilirubin greater than 3 times ULN
   - For patients with liver metastasis who begin treatment with Grade 2 AST or ALT, if AST or ALT increases by greater than or equal to 50% relative to baseline and lasts for at least 1 week
+- Grade 3 or 4 myocarditis, encephalitis, or Guillain-Barré syndrome [see Warnings and Precautions (5.7)]
 - Grade 3 or 4 infusion-related reactions [see Warnings and Precautions (5.8)]
 - Inability to reduce corticosteroid dose to 10 mg or less of prednisone or equivalent per day within 12 weeks
 - Persistent Grade 2 or 3 adverse reactions (excluding endocrinopathies controlled with hormone replacement therapy) that do not recover to Grade 0-1 within 12 weeks after last dose of KEYTRUDA
 - Any severe or Grade 3 treatment-related adverse reaction that recurs [see Warnings and Precautions (5.7)]
 
-## 2.11 Preparation and Administration
+## 2.12 Preparation and Administration
 
 Reconstitution of KEYTRUDA for Injection (Lyophilized Powder)
 

@@ -12,6 +12,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
   - Type 1 Diabetes Mellitus: Advise patients to contact their healthcare provider immediately for signs or symptoms of type 1 diabetes [see Warnings and Precautions (5.4)].
   - Nephritis: Advise patients to contact their healthcare provider immediately for signs or symptoms of nephritis [see Warnings and Precautions (5.5)].
   - Severe skin reactions: Advise patients to contact their healthcare provider immediately for any signs or symptoms of severe skin reactions, SJS or TEN [see Warnings and Precautions (5.6)].
+  - Other immune-mediated adverse reactions: Advise patients that immune-mediated adverse reactions can occur and may involve any organ system, and to contact their healthcare provider immediately for any new signs or symptoms [see Warnings and Precautions (5.7)].
 - Advise patients to contact their healthcare provider immediately for signs or symptoms of infusion-related reactions [see Warnings and Precautions (5.8)].
 - Advise patients of the risk of solid organ transplant rejection and to contact their healthcare provider immediately for signs or symptoms of organ transplant rejection [see Warnings and Precautions (5.7)].
 - Advise patients of the risk of post-allogeneic hematopoietic stem cell transplantation complications [see Warnings and Precautions (5.9)].

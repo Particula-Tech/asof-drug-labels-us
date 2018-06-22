@@ -29,37 +29,46 @@ KEYTRUDA is indicated for the treatment of adult and pediatric patients with ref
 This indication is approved under accelerated approval based on tumor response rate and durability of response.
 Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
 
-## 1.5 Urothelial Carcinoma
+## 1.5 Primary Mediastinal Large B-Cell Lymphoma
 
-KEYTRUDA is indicated for the treatment of patients with locally advanced or metastatic urothelial carcinoma who are not eligible for cisplatin-containing chemotherapy [see Clinical Studies (14.5)].
+KEYTRUDA is indicated for the treatment of adult and pediatric patients with refractory primary mediastinal large B-cell lymphoma (PMBCL), or who have relapsed after 2 or more prior lines of therapy [see Clinical Studies (14.5)].
+
+This indication is approved under accelerated approval based on tumor response rate and durability of response.
+Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials.
+
+Limitation of Use: KEYTRUDA is not recommended for treatment of patients with PMBCL who require urgent cytoreductive therapy.
+
+## 1.6 Urothelial Carcinoma
+
+KEYTRUDA is indicated for the treatment of patients with locally advanced or metastatic urothelial carcinoma who are not eligible for cisplatin-containing chemotherapy [see Clinical Studies (14.6)].
 
 This indication is approved under accelerated approval based on tumor response rate and duration of response.
 Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials.
 
-KEYTRUDA is indicated for the treatment of patients with locally advanced or metastatic urothelial carcinoma who have disease progression during or following platinum-containing chemotherapy or within 12 months of neoadjuvant or adjuvant treatment with platinum-containing chemotherapy [see Clinical Studies (14.5)].
+KEYTRUDA is indicated for the treatment of patients with locally advanced or metastatic urothelial carcinoma who have disease progression during or following platinum-containing chemotherapy or within 12 months of neoadjuvant or adjuvant treatment with platinum-containing chemotherapy [see Clinical Studies (14.6)].
 
-## 1.6 Microsatellite Instability-High Cancer
+## 1.7 Microsatellite Instability-High Cancer
 
 KEYTRUDA is indicated for the treatment of adult and pediatric patients with unresectable or metastatic, microsatellite instability-high (MSI-H) or mismatch repair deficient
 
 - solid tumors that have progressed following prior treatment and who have no satisfactory alternative treatment options, or
-- colorectal cancer that has progressed following treatment with a fluoropyrimidine, oxaliplatin, and irinotecan [see Clinical Studies (14.6)].
+- colorectal cancer that has progressed following treatment with a fluoropyrimidine, oxaliplatin, and irinotecan [see Clinical Studies (14.7)].
 
 This indication is approved under accelerated approval based on tumor response rate and durability of response.
 Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
 
 Limitation of Use: The safety and effectiveness of KEYTRUDA in pediatric patients with MSI-H central nervous system cancers have not been established.
 
-## 1.7 Gastric Cancer
+## 1.8 Gastric Cancer
 
-KEYTRUDA is indicated for the treatment of patients with recurrent locally advanced or metastatic gastric or gastroesophageal junction adenocarcinoma whose tumors express PD-L1 [Combined Positive Score (CPS) ≥1] as determined by an FDA-approved test, with disease progression on or after two or more prior lines of therapy including fluoropyrimidine- and platinum-containing chemotherapy and if appropriate, HER2/neu-targeted therapy [see Clinical Studies (14.7)].
+KEYTRUDA is indicated for the treatment of patients with recurrent locally advanced or metastatic gastric or gastroesophageal junction adenocarcinoma whose tumors express PD-L1 [Combined Positive Score (CPS) ≥1] as determined by an FDA-approved test, with disease progression on or after two or more prior lines of therapy including fluoropyrimidine- and platinum-containing chemotherapy and if appropriate, HER2/neu-targeted therapy [see Clinical Studies (14.8)].
 
 This indication is approved under accelerated approval based on tumor response rate and durability of response.
 Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
 
-## 1.8 Cervical Cancer
+## 1.9 Cervical Cancer
 
-KEYTRUDA is indicated for the treatment of patients with recurrent or metastatic cervical cancer with disease progression on or after chemotherapy whose tumors express PD-L1 (CPS ≥1) as determined by an FDA-approved test [see Clinical Studies (14.8)].
+KEYTRUDA is indicated for the treatment of patients with recurrent or metastatic cervical cancer with disease progression on or after chemotherapy whose tumors express PD-L1 (CPS ≥1) as determined by an FDA-approved test [see Clinical Studies (14.9)].
 
 This indication is approved under accelerated approval based on tumor response rate and durability of response.
 Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
