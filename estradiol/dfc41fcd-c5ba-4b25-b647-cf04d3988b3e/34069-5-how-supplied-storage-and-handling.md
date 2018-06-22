@@ -20,8 +20,19 @@ NOTE: The number of doses per tube will vary with dosage requirements and patien
 Store at room temperature 20° to 25°C (59° to 77°F).
 Protect from temperatures in excess of 40° C (104° F).
 
-Distributed by: Allergan USA, Inc. Irvine, CA 92612
+Distributed by:
+
+Allergan USA, Inc.
+
+Madison, NJ 07940
 
 © 2018 Allergan.
 All rights reserved.
-Revised: 02/2018
+
+Allergan® and its design are trademarks of Allergan, Inc.
+
+ESTRACE® is a registered trademark of Allergan Pharmaceuticals International Limited.
+
+Revised: 06/2018
+
+v1.0PPI3754

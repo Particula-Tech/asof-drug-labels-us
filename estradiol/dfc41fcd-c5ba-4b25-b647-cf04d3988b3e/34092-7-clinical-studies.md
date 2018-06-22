@@ -25,18 +25,18 @@ TABLE 1 - Relative and Absolute Risk Seen in the Estrogen-Alone Substudy of WHIa
 | Ischemic strokec | 1.55 (1.19-2.01) | 38 | 25 |
 | Deep vein thrombosisc,d | 1.47 (1.06-2.06) | 23 | 15 |
 | Pulmonary embolismc | 1.37 (0.90-2.07) | 14 | 10 |
-| Invasive breast cancer c | 0.80 (0.62-1.04) | 28 | 34 |
-| Colorectal cancer c | 1.08 (0.75-1.55) | 17 | 16 |
-| Hip fracture c | 0.65 (0.45-0.94) | 12 | 19 |
-| Vertebral fractures c,d | 0.64 (0.44-0.93) | 11 | 18 |
-| Lower arm/wrist fractures c,d | 0.58 (0.47-0.72) | 35 | 59 |
-| Total fractures c,d | 0.71 (0.64-0.80) | 144 | 197 |
-| Death due to other causes e,f | 1.08 (0.88-1.32) | 53 | 50 |
-| Overall mortality | 1.04 (0.88-1.22) | 79 | 75 |
-| Global Index | 1.02 (0.92-1.13) | 206 | 201 |
+| Invasive breast cancerc | 0.80 (0.62-1.04) | 28 | 34 |
+| Colorectal cancerc | 1.08 (0.75-1.55) | 17 | 16 |
+| Hip fracturec | 0.65 (0.45-0.94) | 12 | 19 |
+| Vertebral fracturesc,d | 0.64 (0.44-0.93) | 11 | 18 |
+| Lower arm/wrist fracturesc,d | 0.58 (0.47-0.72) | 35 | 59 |
+| Total fracturesc,d | 0.71 (0.64-0.80) | 144 | 197 |
+| Death due to other causese,f | 1.08 (0.88-1.32) | 53 | 50 |
+| Overall mortalityc,d | 1.04 (0.88-1.22) | 79 | 75 |
+| Global Indexg | 1.02 (0.92-1.13) | 206 | 201 |
 
 a Adapted from numerous WHI publications.
-WHI publications can be viewed at www.nhlbi.nih.gov/whi. b Nominal confidence intervals unadjusted for multiple looks and multiple comparisons. c Results are based on centrally adjudicated data for an average follow-up of 7.1 years. d not included in “global index”. e Results are base on an average follow-up of 6.8 years. f All deaths, except from beast or colorectal cancer, definite or probable CHD, PE, or cerebrovascular disease. g A subset of the events was combined in a “global index” defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, endometrial cancer, colorectal cancer, hip fracture, or death due to other causes.
+WHI publications can be viewed at www.nhlbi.nih.gov/whi. b Nominal confidence intervals unadjusted for multiple looks and multiple comparisons. c Results are based on centrally adjudicated data for an average follow-up of 7.1 years. d Not included in “global index”. e Results are base on an average follow-up of 6.8 years. f All deaths, except from beast or colorectal cancer, definite or probable CHD, PE, or cerebrovascular disease. g A subset of the events was combined in a “global index” defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, endometrial cancer, colorectal cancer, hip fracture, or death due to other causes.
 
 For those outcomes included in the WHI “global index” that reached statistical significance, the absolute excess risk per 10,000 women-years in the group treated with CE-alone was 12 more strokes, while the absolute risk reduction per 10,000 women-years was 7 fewer hip fractures1.
 The absolute excess risk of events included in the “global index” was a non-significant 5 events per 10,000 women-years.
