@@ -14,7 +14,17 @@ Hospira, Inc., Lake Forest, IL 60045 USA
 
 Printed in USA
 
-# CA-1684
+# PRINCIPAL DISPLAY PANEL - 1 mL Vial Box
+
+10 x 1 mL Single-dose Vials NDC-0409-2634-01
+
+Rx only
+
+HIGH POTENCY FORMULATION Hydromorphone Hydrochloride Injection, USP CII
+
+10 mg/mL
+
+Hospira
 
 # PRINCIPAL DISPLAY PANEL - 5 mL Vial Label
 
