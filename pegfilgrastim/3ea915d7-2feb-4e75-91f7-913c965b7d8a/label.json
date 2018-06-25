@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA761075"
+  ],
+  "inn": "pegfilgrastim",
+  "labeler": "Mylan Institutional LLC",
+  "package_ndcs": [
+    "67457-833-06"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "pegfilgrastim",
+      "name": "Fulphila"
+    }
+  ],
+  "setid": "3ea915d7-2feb-4e75-91f7-913c965b7d8a",
+  "source": "dailymed"
+}
