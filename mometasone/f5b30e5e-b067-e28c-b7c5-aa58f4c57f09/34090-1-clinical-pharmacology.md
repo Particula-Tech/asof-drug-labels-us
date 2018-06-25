@@ -10,18 +10,18 @@ Arachidonic acid is released from membrane phospholipids by phospholipase A2.
 
 ## 12.2 Pharmacodynamics
 
-Studies performed with Mometasone Furoate, USP Ointment 0.1% indicate that it is in the medium range of potency as compared with other topical corticosteroids.
+Studies performed with mometasone furoate, USP ointment 0.1% indicate that it is in the medium range of potency as compared with other topical corticosteroids.
 In a study evaluating the effects of mometasone furoate ointment on the HPA axis, 15 grams were applied twice daily for 7 days to 6 adult subjects with psoriasis or atopic dermatitis.
 The ointment was applied without occlusion to at least 30% of the body surface.
 The results showed that the drug caused a slight lowering of adrenal corticosteroid secretion [see Warnings and Precautions (5.1)].
 Sixty-three pediatric subjects ages 6 to 23 months, with atopic dermatitis, were enrolled in an open-label HPA axis safety study.
-Mometasone Furoate, USP Ointment 0.1% was applied once daily for approximately 3 weeks over a mean body surface area of 39% (range 15%-99%).
-In approximately 27% of subjects who showed normal adrenal function by Cortrosyn test before starting treatment, adrenal suppression was observed at the end of treatment with Mometasone Furoate, USP Ointment 0.1%.
+Mometasone furoate, USP ointment 0.1% was applied once daily for approximately 3 weeks over a mean body surface area of 39% (range 15%-99%).
+In approximately 27% of subjects who showed normal adrenal function by Cortrosyn test before starting treatment, adrenal suppression was observed at the end of treatment with mometasone furoate, USP ointment 0.1%.
 The criteria for suppression were: basal cortisol level of ≤5 mcg/dL, 30-minute post-stimulation level of ≤18 mcg/dL, or an increase of <7 mcg/dL.
 Follow-up testing 2 to 4 weeks after stopping treatment, available for 8 of the subjects, demonstrated suppressed HPA axis function in 3 subjects, using these same criteria [see Use in Specific Populations (8.4)].
 
 ## 12.3 Pharmacokinetics
 
 The extent of percutaneous absorption of topical corticosteroids is determined by many factors including the vehicle and the integrity of the epidermal barrier.
-Studies in humans indicate that approximately 0.7% of the applied dose of Mometasone Furoate, USP Ointment 0.1% enters the circulation after 8 hours of contact on normal skin without occlusion.
+Studies in humans indicate that approximately 0.7% of the applied dose of mometasone furoate, USP ointment 0.1% enters the circulation after 8 hours of contact on normal skin without occlusion.
 Inflammation and/or other disease processes in the skin may increase percutaneous absorption.

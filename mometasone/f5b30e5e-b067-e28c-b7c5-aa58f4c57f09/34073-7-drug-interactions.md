@@ -1,3 +1,3 @@
 # 7 DRUG INTERACTIONS
 
-No drug-drug interaction studies have been conducted with Mometasone Furoate, USP Ointment 0.1%.
+No drug-drug interaction studies have been conducted with mometasone furoate, USP ointment 0.1%.
