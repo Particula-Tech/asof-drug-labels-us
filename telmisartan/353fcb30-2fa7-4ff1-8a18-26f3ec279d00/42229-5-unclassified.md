@@ -1,4 +1,4 @@
-# PATIENT INFORMATION
+# Patient Information
 
 Telmisartan Tablets, USP (tel˝mi sar`tan)
 
@@ -16,16 +16,15 @@ Who should not take telmisartan tablets ?
 You should not take telmisartan tablets if you are allergic (hypersensitive) to the active ingredient (telmisartan) or any of the other ingredients listed at the end of this leaflet.
 For patients with diabetes, if you are taking telmisartan tablets you should not take aliskiren.
 What should I tell my doctor before taking telmisartan tablets ?
-Before you take telmisartan tablets tell your doctor if you: • have liver problems • have kidney problems • have heart problems • have any other medical conditions • are pregnant or are planning to become pregnant.
+Before you take telmisartan tablets tell your doctor if you: • are pregnant or are planning to become pregnant.
 See "What is the most important information I should know about telmisartan tablets ?" • are breast-feeding or plan to breast-feed.
 It is not known if telmisartan passes into your breast milk.
 You and your doctor should decide if you will take telmisartan tablets or breast-feed.
 You should not do both.
-Talk with your doctor about the best way to feed your baby if you take telmisartan tablets.
-Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Talk with your doctor about the best way to feed your baby if you take telmisartan tablets. • have liver problems • have kidney problems • have heart problems • have any other medical conditions Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 For patients with diabetes, if you are taking telmisartan tablets you should not take aliskiren.
 Telmisartan tablets may affect the way other medicines work, and other medicines may affect how telmisartan tablets works.
-Especially tell your doctor if you take: • aliskiren • digoxin (Lanoxin®, Lanoxicaps®) • lithium (Eskalith®, Lithobid®) • medicines used to treat pain and arthritis, called non-steroidal anti-inflammatory drugs (NSAIDs), including COX-2 inhibitors • ramipril (Altace®) or other medicines used to treat your high blood pressure or heart problem • water pills (diuretic) Know the medicines you take.
+Especially tell your doctor if you take: • aliskiren • digoxin (Lanoxin®) • lithium (Lithobid®, lithium carbonate, lithium citrate) • aspirin or other non-steroidal anti-inflammatory drugs (NSAIDs) • other medicines used to treat your high blood pressure or heart problem • water pills (diuretic) Know the medicines you take.
 Keep a list of them and show it to your doctor or pharmacist when you get a new medicine.
 How should I take telmisartan tablets? • Take telmisartan tablets exactly as your doctor tells you to take it. • Your doctor will tell you how much telmisartan to take and when to take it. • Do not change your dose unless your doctor tells you to. • Take telmisartan tablets one time each day at the same time. • Take telmisartan tablets with or without food. • If you miss a dose, take it as soon as you remember.
 If it is close to your next dose, do not take the missed dose.
@@ -87,4 +86,4 @@ How to open the blister:
 
 The brands listed are trademarks or registered trademarks of their respective owners.
 
-Manufactured by: Cadila Pharmaceuticals Limited 1389 Trasad Road, Dholka – 382225, District - Ahmedabad, Gujarat, INDIA Revised: May 2017
+Manufactured by: Cadila Pharmaceuticals Limited 1389 Trasad Road, Dholka – 382225, District - Ahmedabad, Gujarat, INDIA Revised: May 2018

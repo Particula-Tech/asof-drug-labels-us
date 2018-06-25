@@ -8,7 +8,7 @@ Following once daily administration of telmisartan, the magnitude of blood press
 Larger doses (up to 160 mg) did not appear to cause a further decrease in blood pressure.
 Upon initiation of antihypertensive treatment with telmisartan, blood pressure was reduced after the first dose, with a maximal reduction by about 4 weeks.
 With cessation of treatment with telmisartan tablets, blood pressure gradually returned to baseline values over a period of several days to one week.
-During long term studies (without placebo control) the effect of telmisartan appeared to be maintained for up to at least one year.
+During long-term studies (without placebo control) the effect of telmisartan appeared to be maintained for up to at least one year.
 The antihypertensive effect of telmisartan is not influenced by patient age, gender, weight, or body mass index.
 Blood pressure response in black patients (usually a low-renin population) is noticeably less than that in Caucasian patients.
 This has been true for most, but not all, angiotensin II antagonists and ACE inhibitors.
@@ -16,7 +16,7 @@ In a controlled study, the addition of telmisartan to hydrochlorothiazide produc
 Hydrochlorothiazide also had an added blood pressure effect when added to telmisartan.
 The onset of antihypertensive activity occurs within 3 hours after administration of a single oral dose.
 At doses of 20, 40, and 80 mg, the antihypertensive effect of once daily administration of telmisartan is maintained for the full 24-hour dose interval.
-With automated ambulatory blood pressure monitoring and conventional blood pressure measurements, the 24-hour trough-to-peak ratio for 40 to 80 mg doses of telmisartan was 70 to 100% for both systolic and diastolic blood pressure.
+With automated ambulatory blood pressure monitoring and conventional blood pressure measurements, the 24-hour trough-to-peak ratio for 40 to 80 mg doses of telmisartan was 70% to 100% for both systolic and diastolic blood pressure.
 The incidence of symptomatic orthostasis after the first dose in all controlled trials was low (0.04%).
 There were no changes in the heart rate of patients treated with telmisartan in controlled trials.
 There are no trials of telmisartan demonstrating reductions in cardiovascular risk in patients with hypertension, but at least one pharmacologically similar drug has demonstrated such benefits.

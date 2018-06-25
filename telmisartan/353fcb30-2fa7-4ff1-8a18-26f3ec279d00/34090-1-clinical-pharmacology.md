@@ -4,7 +4,7 @@
 
 Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II).
 Angiotensin II is the principal pressor agent of the renin-angiotensin system, with effects that include vasoconstriction, stimulation of synthesis and release of aldosterone, cardiac stimulation, and renal reabsorption of sodium.
-Telmisartan blocks the vasoconstrictor and aldosteronesecreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT1 receptor in many tissues, such as vascular smooth muscle and the adrenal gland.
+Telmisartan blocks the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT1 receptor in many tissues, such as vascular smooth muscle and the adrenal gland.
 Its action is therefore independent of the pathways for angiotensin II synthesis.
 There is also an AT2 receptor found in many tissues, but AT2 is not known to be associated with cardiovascular homeostasis.
 Telmisartan has much greater affinity (>3,000 fold) for the AT1 receptor than for the AT2 receptor.
@@ -25,12 +25,12 @@ In 30 hypertensive patients with normal renal function treated for 8 weeks with 
 
 ## 12.3 Pharmacokinetics
 
-Following oral administration, peak concentrations (Cmax) of telmisartan are reached in 0.5 to 1 hour after dosing.
+Absorption: Following oral administration, peak concentrations (Cmax) of telmisartan are reached in 0.5 to 1 hour after dosing.
 Food slightly reduces the bioavailability of telmisartan, with a reduction in the area under the plasma concentration-time curve (AUC) of about 6% with the 40 mg tablet and about 20% after a 160 mg dose.
 The absolute bioavailability of telmisartan is dose dependent.
 At 40 and 160 mg the bioavailability was 42% and 58%, respectively.
 The pharmacokinetics of orally administered telmisartan are nonlinear over the dose range 20 to 160 mg, with greater than proportional increases of plasma concentrations (Cmax and AUC) with increasing doses.
-Telmisartan shows bi-exponential decay kinetics with a terminal elimination half life of approximately 24 hours.
+Telmisartan shows bi-exponential decay kinetics with a terminal elimination half-life of approximately 24 hours.
 Trough plasma concentrations of telmisartan with once daily dosing are about 10% to 25% of peak plasma concentrations.
 Telmisartan has an accumulation index in plasma of 1.5 to 2.0 upon repeated once daily dosing.
 Distribution Telmisartan is highly bound to plasma proteins (>99.5%), mainly albumin and α1-acid glycoprotein.
@@ -50,3 +50,9 @@ In clinical trials, however, no significant increases in blood pressure response
 No dosage adjustment is necessary.
 Geriatric Patients The pharmacokinetics of telmisartan do not differ between the elderly and those younger than 65 years [see Dosage and Administration (2.1)].
 Pediatric Patients Telmisartan pharmacokinetics have not been investigated in patients <18 years of age.
+Drug Interaction Studies Telmisartan Ramipril and Ramiprilat: Co-administration of telmisartan 80 mg once daily and ramipril 10 mg once daily to healthy subjects increases steady-state Cmax and AUC of ramipril 2.3-and 2.1-fold, respectively, and Cmax and AUC of ramiprilat 2.4-and 1.5-fold, respectively.
+In contrast, Cmax and AUC of telmisartan decrease by 31% and 16%, respectively.
+When co-administering telmisartan and ramipril, the response may be greater because of the possibly additive pharmacodynamic effects of the combined drugs, and also because of the increased exposure to ramipril and ramiprilat in the presence of telmisartan.
+Other Drugs: Co-administration of telmisartan did not result in a clinically significant interaction with acetaminophen, amlodipine, glyburide, simvastatin, hydrochlorothiazide, warfarin, or ibuprofen.
+Telmisartan is not metabolized by the cytochrome P450 system and had no effects in vitro on cytochrome P450 enzymes, except for some inhibition of CYP2C19.
+Telmisartan is not expected to interact with drugs that inhibit cytochrome P450 enzymes; it is also not expected to interact with drugs metabolized by cytochrome P450 enzymes, except for possible inhibition of the metabolism of drugs metabolized by CYP2C19.

@@ -1,6 +1,8 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse reaction is described elsewhere in labeling: Renal dysfunction upon use with ramipril [see Warnings and Precautions (5.6)]
+The following adverse reaction is described elsewhere in labeling:
+
+- Renal dysfunction upon use with ramipril [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trials Experience
 
