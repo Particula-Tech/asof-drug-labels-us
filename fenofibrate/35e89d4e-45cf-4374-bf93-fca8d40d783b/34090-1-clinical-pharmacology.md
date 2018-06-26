@@ -47,14 +47,15 @@ A high-fat meal did not affect the fenofibric acid AUC after FENOGLIDE administr
   After administration of radiolabelled fenofibrate, approximately 60% of the dose appeared in the urine and 25% was excreted in the feces.
   Fenofibric acid from FENOGLIDE is eliminated with a half-life of 23 hours, allowing once daily dosing.
 - •Geriatrics: In elderly volunteers 77 to 87 years of age, the oral clearance of fenofibric acid following a single oral dose of fenofibrate was 1.2 L/h, which compares to 1.1 L/h in young adults.
-  This indicates that a similar dosage regimen can be used in the elderly, without increasing accumulation of the drug or metabolites [see Dosage and Administration (2.5), Use in Specific Populations (8.5)].
+  This indicates that a similar dosage regimen can be used in the elderly, without increasing accumulation of the drug or metabolites [see Dosage and Administration (2.5) and Use in Specific Populations (8.5)].
 - •Pediatrics: The pharmacokinetics of FENOGLIDE has not been studied in pediatric populations.
 - •Gender: No pharmacokinetic difference between males and females has been observed for fenofibrate.
 - •Race: The influence of race on the pharmacokinetics of fenofibrate has not been studied; however, fenofibrate is not metabolized by enzymes known for exhibiting inter-ethnic variability.
 - •Renal Impairment: The pharmacokinetics of fenofibric acid were examined in patients with mild, moderate, and severe renal impairment.
   Patients with severe renal impairment (creatinine clearance [CrCl] ≤30 mL/min or estimated glomerular filtration rate [eGFR] <30 mL/min/1.73m2) showed 2.7-fold increase in exposure for fenofibric acid and increased accumulation of fenofibric acid during chronic dosing compared to that of healthy subjects.
   Patients with mild to moderate renal impairment (CrCl 30-80 mL/min or eGFR 30-59 mL/min/1.73m2) had similar exposure but an increase in the half-life for fenofibric acid compared to that of healthy subjects.
-  Based on these findings, the use of FENOGLIDE should be avoided in patients who have severe renal impairment and dose reduction is required in patients having mild to moderate renal impairment [see Dosage and Administration (2.4)].
+  Based on these findings, the use of FENOGLIDE should be avoided in patients who have severe renal impairment and dose reduction is required in patients having mild to moderate renal impairment.
+  [See Dosage and Administration(2.4).]
 - •Hepatic Impairment: No pharmacokinetic studies have been conducted in patients with hepatic impairment.
 - Drug-Drug Interactions: In vitro studies using human liver microsomes indicate that fenofibrate and fenofibric acid are not inhibitors of cytochrome (CYP) P450 isoforms CYP3A4, CYP2D6, CYP2E1, or CYP1A2.
   They are weak inhibitors of CYP2C8, CYP2C19 and CYP2A6, and mild-to-moderate inhibitors of CYP2C9 at therapeutic concentrations.
