@@ -4,7 +4,7 @@
 
 Patients treated with REMICADE are at increased risk for developing serious infections involving various organ systems and sites that may lead to hospitalization or death.
 
-Opportunistic infections due to bacterial, mycobacterial, invasive fungal, viral, or parasitic organisms including aspergillosis, blastomycosis, candidiasis, coccidioidomycosis, histoplasmosis, legionellosis, listeriosis, pneumocystosis and tuberculosis have been reported with TNF-blockers.
+Opportunistic infections due to bacterial, mycobacterial, invasive fungal, viral, or parasitic organisms including aspergillosis, blastomycosis, candidiasis, coccidioidomycosis, cryptococcosis, histoplasmosis, legionellosis, listeriosis, pneumocystosis, salmonellosis and tuberculosis have been reported with TNF-blockers.
 Patients have frequently presented with disseminated rather than localized disease.
 
 Treatment with REMICADE should not be initiated in patients with an active infection, including clinically important localized infections.
