@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA210322"
+  ],
+  "inn": "isoproterenol",
+  "labeler": "Cipla USA Inc.",
+  "package_ndcs": [
+    "69097-521-31",
+    "69097-522-35"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "isoproterenol hydrochloride",
+      "name": "ISOPROTERENOL"
+    }
+  ],
+  "setid": "f724120d-da28-4065-9e05-d7dd6afbb546",
+  "source": "dailymed"
+}
