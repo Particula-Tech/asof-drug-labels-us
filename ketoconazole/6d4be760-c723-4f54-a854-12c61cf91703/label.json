@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA210457"
+  ],
+  "inn": "ketoconazole",
+  "labeler": "Strides Shasun Limited",
+  "package_ndcs": [
+    "64380-827-06",
+    "64380-827-07"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "ketoconazole",
+      "name": "KETOCONAZOLE"
+    }
+  ],
+  "setid": "6d4be760-c723-4f54-a854-12c61cf91703",
+  "source": "dailymed"
+}

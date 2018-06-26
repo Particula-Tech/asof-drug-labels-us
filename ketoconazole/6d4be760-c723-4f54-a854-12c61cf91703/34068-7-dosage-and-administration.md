@@ -1,0 +1,15 @@
+# DOSAGE & ADMINISTRATION
+
+There should be laboratory as well as clinical documentation of infection prior to starting ketoconazole therapy.
+The usual duration of therapy for systemic infection is 6 months.
+Treatment should be continued until active fungal infection has subsided
+
+Adults
+
+The recommended starting dose of ketoconazole tablets is a single daily administration of 200 mg (one tablet).
+If clinical responsiveness is insufficient within the expected time, the dose of ketoconazole tablets may be increased to 400 mg (two tablets) once daily.
+
+Children
+
+In small numbers of children over 2 years of age, a single daily dose of 3.3 to 6.6 mg/kg has been used.
+Ketoconazole tablets have not been studied in children under 2 years of age.
