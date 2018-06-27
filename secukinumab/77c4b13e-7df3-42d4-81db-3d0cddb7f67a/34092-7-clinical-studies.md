@@ -79,19 +79,23 @@ The proportions of subjects achieving an IGA scalp only score of 0 or 1 (clear o
 
 ## 14.2 Psoriatic Arthritis
 
-The safety and efficacy of COSENTYX were assessed in 1003 patients, in 2 randomized, double-blind, placebo-controlled studies (PsA1 and PsA2) in adult patients, age 18 years and older with active psoriatic arthritis (greater than 3 swollen and greater than 3 tender joints) despite non-steroidal anti-inflammatory drug (NSAID), corticosteroid or disease modifying anti-rheumatic drug (DMARD) therapy.
-Patients in these studies had a diagnosis of PsA of at least 5 years across both studies.
-At baseline, over 62% and 47% of the patients had enthesitis and dactylitis, respectively.
-Overall, 32% of patients discontinued previous treatment with anti-TNFα agents due to either lack of efficacy or intolerance.
-In addition, approximately 55% of patients from both studies had concomitant methotrexate (MTX) use.
-Patients with different subtypes of PsA were enrolled including polyarticular arthritis with no evidence of rheumatoid nodules (80%), asymmetric peripheral arthritis (62%), distal interphalangeal involvement (59%), spondylitis with peripheral arthritis (20%) and arthritis mutilans (7%).
+The safety and efficacy of COSENTYX were assessed in 1999 patients, in 3 randomized, double-blind, placebo-controlled studies (PsA1, PsA2 and PsA3) in adult patients, age 18 years and older with active psoriatic arthritis (greater than or equal to 3 swollen and greater than or equal to 3 tender joints) despite non-steroidal anti-inflammatory drug (NSAID), corticosteroid or disease modifying anti-rheumatic drug (DMARD) therapy.
+Patients in these studies had a diagnosis of PsA of at least 5 years across all studies.
+At baseline, over 61% and 42% of the patients had enthesitis and dactylitis, respectively.
+Overall, 31% of patients discontinued previous treatment with anti-TNFα agents due to either lack of efficacy or intolerance.
+In addition, approximately 53% of patients from both studies had concomitant methotrexate (MTX) use.
+Patients with different subtypes of PsA were enrolled including polyarticular arthritis with no evidence of rheumatoid nodules (80%), asymmetric peripheral arthritis (63%), distal interphalangeal involvement (58%), spondylitis with peripheral arthritis (20%) and arthritis mutilans (7%).
 
-PsA1 Study evaluated 397 patients, who were treated with COSENTYX 75 mg, 150 mg or 300 mg subcutaneous treatment at Weeks 0, 1, 2, 3 and 4, followed by the same dose every 4 weeks.
+PsA1 Study (NCT 01752634) evaluated 397 patients, who were treated with COSENTYX 75 mg, 150 mg or 300 mg subcutaneous treatment at Weeks 0, 1, 2, 3 and 4, followed by the same dose every 4 weeks.
 Patients receiving placebo were re-randomized to receive COSENTYX (either 150 mg or 300 mg every 4 weeks) at Week 16 or Week 24 based on responder status.
 The primary endpoint was the percentage of patients achieving an ACR20 response at Week 24.
 
-PsA2 Study evaluated 606 patients, who were treated with secukinumab 10 mg/kg, intravenous treatment (or placebo) at Weeks 0, 2, and 4, followed by either 75 mg or 150 mg subcutaneous COSENTYX treatment (or placebo) every 4 weeks.
+PsA2 Study (NCT 01392326) evaluated 606 patients, who were treated with secukinumab 10 mg/kg, intravenous treatment (or placebo) at Weeks 0, 2, and 4, followed by either 75 mg or 150 mg subcutaneous COSENTYX treatment (or placebo) every 4 weeks.
 Patients receiving placebo were re-randomized to receive COSENTYX (either 75 mg or 150 mg every 4 weeks) at Week 16 or Week 24 based on responder status.
+
+PsA3 Study (NCT 02404350) evaluated 996 patients, who were treated with COSENTYX 150 mg or 300 mg subcutaneous treatment at Weeks 0, 1, 2, 3 and 4 followed by the same dose every 4 weeks, or once every 4 weeks of COSENTYX 150 mg.
+Patients treated with placebo received COSENTYX, either 150 mg or 300 mg, s.c., per baseline randomization, at Week 16 or Week 24 based upon responder status.
+The primary endpoint was ACR20 response at Week 16 with the key secondary endpoint the change from baseline in modified Total Sharp Score (mTSS) at Week 24.
 
 Clinical Response
 
@@ -155,7 +159,24 @@ Table 5: Mean Change from Baseline in ACR Components at Week 16a (PsA1 Study)
 
 Improvements in enthesitis and dactylitis scores were observed in each COSENTYX group compared to placebo at Week 24.
 
-Physical Function and Health Related Quality of Life
+Radiographic Response
+
+In PsA3 Study, inhibition of progression of structural damage was assessed radiographically and expressed by the modified mTSS and its components, the Erosion Score (ES) and Joint Space Narrowing Score (JSN), at Week 24 compared to baseline.
+Radiographs of hands, wrists, and feet were obtained at baseline, Week 16 and/or Week 24 and scored independently by at least two readers who were blinded to treatment group and visit number.
+COSENTYX 150 mg without load, 150 mg with load and 300 mg with load treatment significantly inhibited progression of peripheral joint damage compared with placebo treatment as measured by change from baseline in mTSS at Week 24.
+The percentage of patients with no disease progression (defined as a change from baseline in mTSS of less than or equal to 0.0) from randomization to Week 24 was 75.7%, 70.9%, and 76.5% for COSENTYX 150 mg without load, 150 mg, 300 mg, respectively versus 68.2% for placebo.
+
+Table 6: Rate of Change per 24 Weeks in Modified Total Sharp Score
+
+| Treatment | N | Rate of Change per 24 weeks | Difference from Placebo (95% CI) |
+| --- | --- | --- | --- |
+| COSENTYX 150 mg without load | 210 | -0.10 | -0.61 (-0.95, -0.26) |
+| COSENTYX 150 mg with load | 213 | 0.14 | -0.37 (-0.71, -0.03) |
+| COSENTYX 300 mg with load | 217 | 0.03 | -0.48 (-0.82, -0.14) |
+| Placebo | 296 | 0.51 | -- |
+| Results from a linear mixed effects model that excluded data after escape for placebo subjects who received escape therapy at week 16. The model assumes approximately linear progression over time and estimates a difference in rates (slopes) of progression over 24 weeks to compare treatment arms. |  |  |  |
+
+Physical Function
 
 Improvement in physical function as assessed by Health Assessment Questionnaire-Disability Index (HAQ-DI) demonstrated that the proportion of patients who achieved at least -0.3 improvement in HAQ-DI score from baseline was greater in the COSENTYX 150 mg and 300 mg groups compared to placebo at Week 16 and 24.
 At Week 16 in PsA1 study, estimated mean change from baseline was -0.23 in the placebo group compared with -0.45 in the COSENTYX 150 mg group and -0.55 in the COSENTYX 300 mg group.
@@ -176,19 +197,19 @@ Patients receiving placebo were re-randomized to receive COSENTYX (either 75 mg 
 
 Clinical Response
 
-In AS1, patients treated with 150 mg COSENTYX demonstrated greater improvements in ASAS20 and ASAS40 responses compared to placebo at Week 16 (Table 6).
+In AS1, patients treated with 150 mg COSENTYX demonstrated greater improvements in ASAS20 and ASAS40 responses compared to placebo at Week 16 (Table 7).
 Responses were similar in patients regardless of concomitant therapies.
 
-Table 6: ASAS20 and ASAS40 Responses in All AS Patients at Week 16 in Study AS1
+Table 7: ASAS20 and ASAS40 Responses in All AS Patients at Week 16 in Study AS1
 
 |  | COSENTYX 150 mg (n = 72) | Placebo (n = 74) | Difference from placebo (95% CI) |
 | --- | --- | --- | --- |
 | ASAS20 response, % | 61 | 28 | 33 (18, 48) |
 | ASAS40 response, % | 36 | 11 | 25 (12, 38) |
 
-The improvements in the main components of the ASAS20 response criteria and other measures of disease activity are shown in Table 7.
+The improvements in the main components of the ASAS20 response criteria and other measures of disease activity are shown in Table 8.
 
-Table 7: ASAS20 Components and Other Measures of Disease Activity at Week 16 (AS1 Study)
+Table 8: ASAS20 Components and Other Measures of Disease Activity at Week 16 (AS1 Study)
 
 |  | COSENTYX 150 mg (N = 72) |  | Placebo (N = 74) |  |
 | --- | --- | --- | --- | --- |
