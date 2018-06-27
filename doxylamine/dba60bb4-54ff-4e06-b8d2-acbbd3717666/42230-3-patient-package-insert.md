@@ -1,119 +1,14 @@
 # Patient Package Insert
 
-Patient Information
+| Patient Information BONJESTA (bonn jest ah)(doxylamine succinate and pyridoxine hydrochloride)extended-release tablets, for oral use |
+| --- |
+| What is BONJESTA? BONJESTA is a prescription medicine used to treat nausea and vomiting of pregnancy in women who have not improved with change in diet or other non-medicine treatments.It is not known if BONJESTA is safe and effective in women with severe nausea and vomiting of pregnancy, a condition called hyperemesis gravidarum. Women with this condition may need to be hospitalized.It is not known if BONJESTA is safe and effective in children under 18 years of age. |
+| Do not take BONJESTA if you: are allergic to doxylamine succinate, other ethanolamine derivative antihistamines, pyridoxine hydrochloride or any of the ingredients in BONJESTA. See the end of this Patient Information leaflet for a complete list of ingredients in BONJESTA.take monoamine oxidase inhibitors (MAOIs). Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including Marplan, Nardil, Emsam, Eldepryl, Zelapar, and Parnate. |
+| Before taking BONJESTA, tell your healthcare provider about all of your medical conditions, including if you: have asthma.have eye problems called increased intraocular pressure or narrow angle glaucoma.have a stomach problem called stenosing peptic ulcer or pyloroduodenal obstruction.have a bladder problem called urinary bladder-neck obstruction.are breastfeeding or plan to breastfeed. BONJESTA can pass into your breast milk and may harm your baby. You should not breastfeed while using BONJESTA. Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements. |
+| How should I take BONJESTA? Talk to your healthcare provider about how much BONJESTA to take and when to take it. Take BONJESTA everyday as prescribed by your healthcare provider. Do not stop taking BONJESTA without talking to your healthcare provider first. See the following schedule for the right way you should start taking BONJESTA: Start with 1 tablet by mouth at bedtime. If your nausea and vomiting is better or controlled on Day 2, continue to take 1 tablet each day at bedtime.If you still have nausea and vomiting on Day 2, start taking 1 tablet in the morning and 1 tablet at bedtime each day. Do not take more than 2 tablets (1 in the morning and 1 at bedtime) each day. Take BONJESTA on an empty stomach with a glass of water. Take BONJESTA tablets whole. Do not crush, chew, or break BONJESTA tablets before swallowing. If you cannot swallow BONJESTA tablets whole, tell your healthcare provider. If you take too much BONJESTA (overdose), you may have the following symptoms: restlessness, dry mouth, the pupils of your eyes become larger (dilated), sleepiness, dizziness, confusion, fast heart rate, seizures, muscle pain or weakness, urination changes and build-up of fluid in the body. If you have these symptoms and they are severe, they may lead to death. If you take too much BONJESTA, call your poison control center at 1-800-222-1222. |
+| What are the possible side effects of BONJESTA?BONJESTA may cause serious side effects, including drowsiness.Drowsiness is a common side effect when taking BONJESTA, but can also be severe: Do not drive, operate heavy machinery, or do other activities that need your full attention unless your healthcare provider says that you may do so. Do not drink alcohol, or take other central nervous system depressants such as cough and cold medicines, certain pain medicines, and medicines that help you sleep while you take BONJESTA. Severe drowsiness can happen or become worse causing falls or accidents. BONJESTA may cause false positive urine drug screening test for methadone, opiates and PCP.These are not all the possible side effects of BONJESTA.Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |
+| How should I store BONJESTA? Store BONJESTA at room temperature between 68°F to 77°F (20°C to 25°C). Keep the bottle tightly closed to protect BONJESTA from moisture.The BONJESTA bottle contains a desiccant canister to help keep your medicine dry. Do not throw away the desiccant.Safely throw away medicine that is past the expiration date or no longer needed. Keep BONJESTA and all medicines out of the reach of children. |
+| General information about the safe and effective use of BONJESTA.Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. You can ask your pharmacist or healthcare provider for information about BONJESTA that is written for health professionals. Do not use BONJESTA for a condition for which it was not prescribed. Do not give BONJESTA to other people, even if they have the same symptoms that you have. It may harm them. |
+| What are the ingredients in BONJESTA?Active ingredient: doxylamine succinate (an antihistamine) and pyridoxine hydrochloride (vitamin B6).Inactive ingredients: ammonium hydroxide, n-butanol, carnauba wax powder, colloidal silicon dioxide, croscarmellose sodium, D&C Red#27 aluminum lake, denatured alcohol, ferrosoferric oxide, FD&C Blue #2 aluminum lake, hypromellose, iron oxide red, isopropyl alcohol, magnesium stearate, magnesium trisilicate, methacrylic acid copolymer, microcrystalline cellulose 102, PEG 3350, propylene glycol, shellac glaze, simethicone, sodium bicarbonate, sodium lauryl sulfate, talc, titanium dioxide, triethyl citrate.Distributed by: Duchesnay USA, Inc., Bryn Mawr, PA, 19010, For more information, go to www.duchesnayusa.com or call 1-855-722-7734. |
 
-BONJESTA (bonn jest ah)
-
-(doxylamine succinate and pyridoxine hydrochloride),
-
-extended-release tablets, for oral use
-
-What is BONJESTA?
-
-• BONJESTA is a prescription medicine used to treat nausea and vomiting of pregnancy in women who have not improved with change in diet or other non-medicine treatments.
-
-• It is not known if BONJESTA is safe and effective in women with severe nausea and vomiting of pregnancy, a condition called hyperemesis gravidarum.
-Women with this condition may need to be hospitalized.
-
-• It is not known if BONJESTA is safe and effective in children under 18 years of age.
-
-Do not take BONJESTA if you:
-
-• are allergic to doxylamine succinate, other ethanolamine derivative antihistamines, pyridoxine hydrochloride or any of the ingredients in BONJESTA.
-See the end of this Patient Information leaflet for a complete list of ingredients in BONJESTA.
-
-• take monoamine oxidase inhibitors (MAOIs).
-Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including Marplan, Nardil, Emsam, Eldepryl, Zelapar, and Parnate.
-
-Before taking BONJESTA, tell your healthcare provider about all of your medical conditions, including if you:
-
-• have asthma.
-
-• have eye problems called increased intraocular pressure or narrow angle glaucoma.
-
-• have a stomach problem called stenosing peptic ulcer or pyloroduodenal obstruction.
-
-• have a bladder problem called urinary bladder-neck obstruction.
-
-• are breastfeeding or plan to breastfeed.
-BONJESTA can pass into your breast milk and may harm your baby.
-You should not breastfeed while using BONJESTA.
-
-Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
-
-How should I take BONJESTA?
-
-• Talk to your healthcare provider about how much BONJESTA to take and when to take it.
-
-• Take BONJESTA everyday as prescribed by your healthcare provider.
-Do not stop taking BONJESTA without talking to your healthcare provider first.
-
-• See the following schedule for the right way you should start taking BONJESTA:
-
-o Start with 1 tablet by mouth at bedtime.
-If your nausea and vomiting is better or controlled on Day 2, continue to take 1 tablet each day at bedtime.
-
-o If you still have nausea and vomiting on Day 2, start taking 1 tablet in the morning and 1 tablet at bedtime each day.
-
-• Do not take more than 2 tablets (1 in the morning and 1 at bedtime) each day.
-
-• Take BONJESTA on an empty stomach with a glass of water.
-
-• Take BONJESTA tablets whole.
-Do not crush, chew, or break BONJESTA tablets before swallowing.
-If you cannot swallow BONJESTA tablets whole, tell your healthcare provider.
-
-• If you take too much BONJESTA (overdose), you may have the following symptoms: restlessness, dry mouth, the pupils of your eyes become larger (dilated), sleepiness, dizziness, confusion, fast heart rate, seizures, muscle pain or weakness, urination changes and build-up of fluid in the body.
-If you have these symptoms and they are severe, they may lead to death.
-If you take too much BONJESTA, call your poison control center at 1-800-222-1222.
-
-What are the possible side effects of BONJESTA?
-
-BONJESTA may cause serious side effects, including drowsiness.
-
-Drowsiness is a common side effect when taking BONJESTA, but can also be severe:
-
-• Do not drive, operate heavy machinery, or do other activities that need your full attention unless your healthcare provider says that you may do so.
-
-• Do not drink alcohol, or take other central nervous system depressants such as cough and cold medicines, certain pain medicines, and medicines that help you sleep while you take BONJESTA.
-Severe drowsiness can happen or become worse causing falls or accidents.
-
-These are not all the possible side effects of BONJESTA.
-
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
-
-How should I store BONJESTA?
-
-• Store BONJESTA at room temperature between 68°F to 77°F (20°C to 25°C).
-
-• Keep the bottle tightly closed to protect BONJESTA from moisture.
-
-• The BONJESTA bottle contains a desiccant canister to help keep your medicine dry.
-Do not throw away the desiccant.
-
-• Safely throw away medicine that is past the expiration date or no longer needed.
-
-Keep BONJESTA and all medicines out of the reach of children.
-
-General information about the safe and effective use of BONJESTA.
-
-Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
-You can ask your pharmacist or healthcare provider for information about BONJESTA that is written for health professionals.
-Do not use BONJESTA for a condition for which it was not prescribed.
-Do not give BONJESTA to other people, even if they have the same symptoms that you have.
-It may harm them.
-
-What are the ingredients in BONJESTA?
-
-Active ingredient: doxylamine succinate (an antihistamine) and pyridoxine hydrochloride (vitamin B6).
-
-Inactive ingredients: ammonium hydroxide, n-butanol, carnauba wax powder, colloidal silicon dioxide, croscarmellose sodium, D&C Red#27 aluminum lake, denatured alcohol, ferrosoferric oxide, FD&C Blue #2 aluminum lake, hypromellose, iron oxide red, isopropyl alcohol, magnesium stearate, magnesium trisilicate, methacrylic acid copolymer, microcrystalline cellulose 102, PEG 3350, propylene glycol, shellac glaze, simethicone, sodium bicarbonate, sodium lauryl sulfate, talc, titanium dioxide, triethyl citrate.
-
-Distributed by: Duchesnay USA, Inc., Bryn Mawr, PA, 19010
-
-For more information, go to www.duchesnayusa.com or call 1-855-722-7734.
-
-This Patient Information has been approved by the U.S. Food and Drug Administration
-
-Issued: 11/2016
+This Patient Information has been approved by the U.S. Food and Drug Administration Issued: 06/2018

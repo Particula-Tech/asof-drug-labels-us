@@ -7,7 +7,7 @@ Tablets are imprinted on one side with the pink image of a pregnant woman and a 
 
 Inactive ingredients are as follows: ammonium hydroxide, n-butanol, carnauba wax powder, colloidal silicon dioxide, croscarmellose sodium, D&C Red#27 aluminum lake, denatured alcohol, ferrosoferric oxide, FD&C Blue #2 aluminum lake, hypromellose, iron oxide red, isopropyl alcohol, magnesium stearate, magnesium trisilicate, methacrylic acid copolymer, microcrystalline cellulose 102, PEG 3350, propylene glycol, shellac glaze, simethicone, sodium bicarbonate, sodium lauryl sulfate, talc, titanium dioxide, triethyl citrate.
 
-BONJESTA is certified Kosher and Halal.
+BONJESTA is certified Kosher, Kosher for Passover and Halal.
 
 Doxylamine Succinate
 

@@ -78,7 +78,7 @@ The principle metabolites of doxylamine, N-desmethyl-doxylamine and N, N-didesme
 
 The terminal elimination half-life of doxylamine and pyridoxine are 11.9 hours and 0.4 hours, respectively (see Table 5).
 
-Table 5 – Terminal Elimination Half-Life (T1/2el) for BONJESTA Administered as a Single Dose under Fasting Conditions in Healthy Premenopausal Women
+Table 5 – Terminal Elimination Half-Life (T1/2el) for BONJESTA Administered as a Single Dose under Fasting Conditions in Healthy Premenopausal Adult Women (N=23)
 
 |  | BONJESTA T1/2el (h) |
 | --- | --- |

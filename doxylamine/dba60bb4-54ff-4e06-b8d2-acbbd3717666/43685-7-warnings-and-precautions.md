@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Somnolence
+## 5.1 Somnolence and Severe Drowsiness
 
 BONJESTA may cause somnolence due to the anticholinergic properties of doxylamine succinate, an antihistamine.
 Women should avoid engaging in activities requiring complete mental alertness, such as driving or operating heavy machinery, while using BONJESTA until cleared to do so by their healthcare provider.
@@ -11,3 +11,7 @@ The combination may result in severe drowsiness leading to falls or accidents [s
 ## 5.2 Concomitant Medical Conditions
 
 BONJESTA has anticholinergic properties and, therefore, should be used with caution in women with: asthma, increased intraocular pressure, narrow angle glaucoma, stenosing peptic ulcer, pyloroduodenal obstruction or urinary bladder-neck obstruction.
+
+## 5.3 Interference with Urine Screen for Methadone, Opiates and Phencyclidine Phosphate (PCP)
+
+There have been reports of false positive urine screening tests for methadone, opiates, and PCP with doxylamine succinate/pyridoxine hydrochloride use [see Drug Interactions (7.3)].
