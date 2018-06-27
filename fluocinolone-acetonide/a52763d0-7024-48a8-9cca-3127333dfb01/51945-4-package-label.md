@@ -29,9 +29,9 @@ Fort Worth, Texas 76177 USA
 
 Made in Canada.
 
-GALDERMA is a registered trademark.
+All trademarks are the property of their respective owners.
 
-P52307-2
+P52307-3
 
 Contains: (As dispensed) Fluocinolone Acetonide (0.01%), dibasic calcium phosphate dihydrate USP, talc USP, in a shampoo base containing aluminum acetate dibasic, benzalkonium chloride solution, boric acid, citric acid anhydrous, cocamido-ether sulfate complex, cocoamine oxide, lauramide DEA, magnesium aluminum silicate, methylparaben, oat flour, propylene glycol, propylparaben, purified water and fragrance with D & C Yellow No. 10 and FD&C Blue No. 1 as coloring.
 
@@ -45,14 +45,3 @@ For External Use Only.
 Keep out of reach of children.
 
 Warning: In case of eye contact rinse eye thoroughly with water.
-
-Capsule
-
-Lot No.
-
-Base Lot No.
-
-Exp.
-Date
-
-Before Dispensing:
