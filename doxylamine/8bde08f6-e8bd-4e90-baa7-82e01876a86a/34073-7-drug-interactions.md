@@ -9,3 +9,8 @@ Concurrent use of alcohol and other CNS depressants (such as hypnotic sedatives 
 
 A food-effect study demonstrated that the delay in the onset of action of DICLEGIS may be further delayed, and a reduction in absorption may occur when tablets are taken with food [see Dosage and Administration (2), Clinical Pharmacology (12.3)].
 Therefore, DICLEGIS should be taken on an empty stomach with a glass of water [see Dosage and Administration (2)].
+
+## 7.3 False Positive Urine Tests for Methadone, Opiates and PCP
+
+False positive drug screens for methadone, opiates, and PCP can occur with doxylamine succinate/pyridoxine hydrochloride use.
+Confirmatory tests, such as Gas Chromatography Mass Spectrometry (GC-MS), should be used to confirm the identity of the substance in the event of a positive immunoassay result.

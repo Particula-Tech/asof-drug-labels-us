@@ -1,8 +1,9 @@
 # 6 ADVERSE REACTIONS
 
-- The following adverse reactions are discussed elsewhere in the labeling:
-- •Somnolence [see Warnings and Precautions (5.1)]
-- •Falls or other accidents resulting from the effect of the combined use of DICLEGIS with CNS depressants including alcohol [see Warnings and Precautions (5.1)]
+The following adverse reactions are discussed elsewhere in the labeling:
+
+- Somnolence [see Warnings and Precautions (5.1)]
+- Falls or other accidents resulting from the effect of the combined use of DICLEGIS with CNS depressants including alcohol [see Warnings and Precautions (5.1)]
 
 ## 6.1 Clinical Trial Experience
 

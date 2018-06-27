@@ -2,28 +2,23 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category A
+﻿Risk Summary
 
-DICLEGIS is intended for use in pregnant women.
+DICLEGIS is intended for the treatment of nausea and vomiting of pregnancy in women who do not respond to conservative management.
+Maternal risks are discussed throughout the labeling.
+No increased risk for congenital malformations has been reported in epidemiologic studies in pregnant women.
+
+In the U.S. general population, the estimated background risks for major birth defects and miscarriage in clinically recognized pregnancies are 2-4% and 15-20%, respectively.
+
+﻿Data
+
+Human Data
 
 The combination of doxylamine succinate and pyridoxine hydrochloride has been the subject of many epidemiological studies (cohort, case control and meta-analyses) designed to detect possible teratogenicity.
 A meta-analysis of 16 cohort and 11 case-control studies published between 1963 and 1991 reported no increased risk for malformations from first trimester exposures to doxylamine succinate and pyridoxine hydrochloride, with or without dicyclomine hydrochloride.
 A second meta-analysis of 12 cohort and 5 case-control studies published between 1963 and 1985 reported no statistically significant relationships between fetal abnormalities and the first trimester use of the combination doxylamine succinate and pyridoxine hydrochloride with or without dicyclomine hydrochloride.
 
-Animal Data
-
-The effects of doxylamine succinate and pyridoxine hydrochloride on embryofetal development have been studied in rats and monkeys.
-
-Once daily treatment of pregnant rats with doxylamine succinate and pyridoxine hydrochloride during organogenesis (gestational day (GD) 6-15) resulted in increased fetal resorptions, decreased fetal body weight and increased skeletal variations with reduced ossification at doses 60 to 100 times the highest clinical dose based on body surface area.
-
-Pregnant cynomolgus monkeys were treated once daily with doxylamine succinate and pyridoxine hydrochloride during organogenesis (GD 22-50).
-At birth, there were no observed malformations, and no evidence of embryo, fetal or maternal toxicity at doses up to 3.2 times the highest proposed clinical dose based on body surface area.
-In a similarly designed study in pregnant cynomolgus and rhesus monkeys and baboons, ventricular septal defects (VSDs) were observed in the preterm (GD 100) fetuses.
-Doses used in this study were 0.5-20 times higher than the clinical dose based on body surface area, with no relationship between dose and incidence of VSD.
-There were no VSDs in infant monkeys at term.
-No VSDs were observed at GD 100 in cynomolgus monkeys administered the combination of doxylamine succinate and pyridoxine hydrochloride for 4-day periods between 22 and 41 days of gestation.
-
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
 Women should not breastfeed while using DICLEGIS.
 
