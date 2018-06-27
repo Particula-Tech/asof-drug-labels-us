@@ -84,10 +84,7 @@ Increases in Serum Creatinine
 
 In the one-year controlled trials of CONTRAVE, larger mean increases in serum creatinine from baseline to trial endpoint were observed in the CONTRAVE group compared with the placebo group (0.07 mg/dL and 0.01 mg/dL, respectively) as well as from baseline to the maximum value during follow-up (0.15 mg/dL and 0.07 mg/dL, respectively).
 Increases in serum creatinine that exceeded the upper limit of normal and were also greater than or equal to 50% higher than baseline occurred in 0.6% of subjects receiving CONTRAVE compared to 0.1% receiving placebo.
-An in vitro drug-drug interaction study demonstrated that bupropion and its metabolites inhibit organic cation transporter 2 (OCT2), which is involved in the tubular secretion of creatinine, suggesting that the observed increase in serum creatinine may be the result of OCT2 inhibition.
-
-Based on in vitro results and FDA guidance for Drug Interaction Studies, the ratios of the free (unbound) Cmax and IC50 value of bupropion and hydroxybupropion were well below 0.1 suggesting a drug-drug interaction between CONTRAVE and OCT2 substrate due to bupropion and hydroxybupropion is unlikely.
-The ratio for the threohydrobupropion and erythrohydrobupropion metabolite mixture was 0.29, suggesting a drug-drug interaction between CONTRAVE and OCT2 due to threohydrobupropion and erythrohydrobupropion is possible.
+The observed increase in serum creatinine may be the result of OCT2 inhibition [see Clinical Pharmacology (12.3)].
 
 ## 6.2 Postmarketing Experience
 

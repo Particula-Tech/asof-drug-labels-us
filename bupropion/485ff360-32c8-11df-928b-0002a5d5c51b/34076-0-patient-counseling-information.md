@@ -55,4 +55,4 @@ CONTRAVE® is a registered trademark of Orexigen Therapeutics, Inc.
 
 All other trademarks are the property of their respective owners. ©2017 Orexigen Therapeutics, Inc.
 
-LBL-00033.3
+LBL-00073

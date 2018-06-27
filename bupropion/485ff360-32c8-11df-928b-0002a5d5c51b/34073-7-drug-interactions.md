@@ -68,9 +68,3 @@ False-positive urine immunoassay screening tests for amphetamines have been repo
 This is due to lack of specificity of some screening tests.
 False-positive test results may result even following discontinuation of bupropion therapy.
 Confirmatory tests, such as gas chromatography/mass spectrometry, will distinguish bupropion from amphetamines.
-
-## 7.9 Drug-Transporter Interactions
-
-In vitro, CONTRAVE constituents inhibited the renal organic cation transporter OCT2 to a clinically relevant level.
-The systemic concentrations of substrate drugs transported by OCT2 (such as amantadine, amiloride, cimetidine, dopamine, famotidine, memantine, metformin, pindolol, procainamide, ranitidine, varenicline, oxaliplatin) are likely to increase as a result of reduced renal clearance when coadministered with CONTRAVE.
-Coadministration of CONTRAVE with such drugs should be approached with caution and patients should be monitored for adverse effects.

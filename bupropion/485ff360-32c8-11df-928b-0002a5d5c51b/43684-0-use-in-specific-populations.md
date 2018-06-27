@@ -71,11 +71,10 @@ CONTRAVE should be used with caution in patients over 65 years of age.
 
 ## 8.6 Renal Impairment
 
-A dedicated pharmacokinetic study has not been conducted for CONTRAVE in subjects with renal impairment.
-Based on information available for the individual constituents, systemic exposure is significantly higher for bupropion and metabolites (two- to three-fold), and naltrexone and their metabolites in subjects with moderate-to-severe renal impairment.
+In a pharmacokinetic study conducted for CONTRAVE in subjects with renal impairment (mild, moderate and severe), exposure to naltrexone metabolite, 6-beta naltrexol, and bupropion metabolites, threohydrobupropion and erythrohydrobupropion, was increased.
 Therefore, the maximum recommended daily maintenance dose for CONTRAVE is two tablets (one tablet each morning and evening) in patients with moderate or severe renal impairment.
-CONTRAVE is not recommended for use in patients with end-stage renal disease.
-There is a lack of adequate information to guide CONTRAVE dosing in patients with mild renal impairment [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
+No dose adjustment is required in patients with mild renal impairment.
+CONTRAVE is not recommended for use in patients with end-stage renal disease [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 

@@ -11,6 +11,10 @@ The exact neurochemical effects of CONTRAVE leading to weight loss are not fully
 Combined, bupropion and naltrexone increased the firing rate of hypothalamic pro-opiomelanocortin (POMC) neurons in vitro, which are associated with regulation of appetite.
 The combination of bupropion and naltrexone also reduced food intake when injected directly into the ventral tegmental area of the mesolimbic circuit in mice, an area associated with regulation of reward pathways.
 
+Cardiac Electrophysiology
+
+At the recommended dose, CONTRAVE does not prolong the QTc interval to any clinically relevant extent.
+
 ## 12.3 Pharmacokinetics
 
 Absorption
@@ -136,29 +140,18 @@ The dose of CONTRAVE should be reduced in patients with hepatic impairment [see 
 
 Renal Impairment
 
-A dedicated pharmacokinetic study has not been conducted for CONTRAVE in subjects with renal impairment.
-The following information is available for the individual constituents:
+A single-dose pharmacokinetic study conducted for CONTRAVE, comparing subjects with mild (n=8), moderate (n=8) and severe (n=7) renal impairment to subjects with normal renal function (n=13), showed that renal impairment had no significant effect on the PK parameters of the parent drugs naltrexone and bupropion.
+However, systemic exposure (AUCinf) of some metabolites was increased in subjects with impairment of renal function [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
+Following a single-dose of 16 mg naltrexone /180 mg bupropion, AUCinf of 6-beta-naltrexol was approximately1.5-, 1.7-, and 2.2-fold higher in patients with mild, moderate and severe renal impairment, respectively.
+In patients with mild, moderate and severe renal impairment, AUC of bupropion metabolites threohydrobupropion and erythrohydrobupropion increased approximately 1.3-, 1.9-, and 1.7-fold and 1.2-, 1.8-, and 1.5-fold, respectively.
+No studies have been conducted for CONTRAVE in patients with end stage renal disease.
 
-Naltrexone
+The following information is available for individual components.
 
-Limited information is available for naltrexone in patients with moderate to severe renal impairment.
 In a study of seven patients with end-stage renal disease requiring dialysis, peak plasma concentrations of naltrexone were elevated at least 6-fold compared to healthy subjects.
-
-Bupropion
-
-Limited information is available for bupropion in patients with moderate to severe renal impairment.
 An inter-trial comparison between normal subjects and patients with end-stage renal failure demonstrated that the bupropion Cmax and AUC values were comparable in the two groups, whereas the hydroxybupropion and threohydrobupropion metabolites had a 2.3- and 2.8-fold increase, respectively, in AUC for patients with end-stage renal failure.
-A second trial, comparing normal subjects and patients with moderate-to-severe renal impairment (GFR 30.9 ± 10.8 mL/min) showed that exposure after a single 150 mg dose of sustained-release bupropion was approximately 2-fold higher in patients with impaired renal function while levels of the hydroxybupropion and threo/erythrohydrobupropion (combined) metabolites were similar in the two groups.
-The elimination of bupropion and/or the major metabolites of bupropion may be reduced by impaired renal function.
 
-The dose of CONTRAVE should be reduced in patients with moderate or severe renal impairment.
-CONTRAVE is not recommended for use in patients with end-stage renal disease [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
-
-Drug Interactions
-
-In Vitro Assessment of Drug Interactions
-
-At therapeutically relevant concentrations, naltrexone and 6-beta-naltrexol are not major inhibitors of CYP isoforms CYP1A2, CYP2B6, CYP2C8, CYP2E1, CYP2C9, CYP2C19, CYP2D6 or CYP3A4.
+Drug Interactions In Vitro Assessment of Drug Interactions At therapeutically relevant concentrations, naltrexone and 6-beta-naltrexol are not major inhibitors of CYP isoforms CYP1A2, CYP2B6, CYP2C8, CYP2E1, CYP2C9, CYP2C19, CYP2D6 or CYP3A4.
 Both naltrexone and 6-beta-naltrexol are not major inducers of CYP isoforms CYP1A2, CYP2B6, or CYP3A4.
 
 Bupropion and its metabolites (hydroxybupropion, erythrohydrobupropion, threohydrobupropion) are inhibitors of CYP2D6.
@@ -166,7 +159,6 @@ Bupropion and its metabolites (hydroxybupropion, erythrohydrobupropion, threohyd
 In vitro studies suggest that paroxetine, sertraline, norfluoxetine, fluvoxamine, and nelfinavir inhibit the hydroxylation of bupropion.
 
 Bupropion (IC50 9.3 mcM) and its metabolites, hydroxybupropion (IC50 82 mcM) and threohydrobupropion and erythrohydrobupropion (1:1 mixture; IC50 7.8 mcM), inhibited the renal organic transporter OCT2 to a clinically relevant level.
-The systemic concentrations of substrate drugs transported by OCT2 are likely to increase as a result of reduced renal clearance when coadministered with CONTRAVE.
 
 Effects of Naltrexone/Bupropion on the Pharmacokinetics of Other Drugs
 
@@ -187,6 +179,7 @@ Effect of Naltrexone/Bupropion Coadministration on Systemic Exposure of Other Dr
 | Naltrexone/Bupropion 16 mg/180 mg single dose | Atorvastatin 80 mg single dose | No Effect |
 | Naltrexone/Bupropion 16 mg/180 mg single dose | Glyburide 6 mg single dose | No Effect |
 | Naltrexone/Bupropion 16 mg/180 mg single dose | Lisinopril 40 mg single dose | No Effect |
+| Naltrexone/Bupropion 16 mg/180 mg single dose | Metformin 850 mg single dose | ↑23% AUC; No effect on Cmax |
 | Naltrexone/Bupropion 16 mg/180 mg single dose | Nifedipine 90 mg single dose | No Effect |
 | Naltrexone/Bupropion 16 mg/180 mg single dose | Valsartan 320 mg single dose | No Effect |
 | Bupropion 150 mg twice daily for 12 days | Lamotrigine 100 mg single dose | No Effect |
@@ -214,6 +207,7 @@ Effect of Coadministered Drugs on Systemic Exposure of Naltrexone/Bupropion
 | Cimetidine 800 mg single dose | Bupropion Hydroxybupropion Threo/Erythrohydrobupropion | No Effect No Effect ↑16% AUC, ↑32% Cmax |
 | Citalopram 40 mg once daily for 14 days | Bupropion Hydroxybupropion Threohydrobupropion Erythrohydrobupropion | No Effect No Effect No Effect No Effect |
 | Metoprolol 50 mg single dose | Naltrexone 6-beta naltrexol Bupropion Hydroxybupropion Threohydrobupropion Erythrohydrobupropion | ↓25% AUC, ↓29% Cmax No Effect No Effect No Effect No Effect No Effect |
+| Metformin 850 mg single dose | Bupropion Hydroxybupropion Threohydrobupropion Erythrohydrobupropion Naltrexone 6-beta naltrexol | No Effect No Effect No Effect No Effect No Effect No Effect |
 | Nifedipine 90 mg single dose | Naltrexone 6-beta naltrexol Bupropion Hydroxybupropion Threohydrobupropion Erythrohydrobupropion | ↑24% AUC, ↑58% Cmax No Effect No Effect on AUC, ↑22% Cmax No Effect No Effect No Effect |
 | Prasugrel 10 mg once daily for 6 days | Bupropion Hydroxybupropion | ↑18% AUC, ↑14% Cmax ↓24%AUC, ↓32% Cmax |
 | Use CONTRAVE with caution with the following drugs: |  |  |
