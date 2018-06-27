@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA050444"
+  ],
+  "inn": "minocycline",
+  "labeler": "Melinta Therapeutics, Inc",
+  "package_ndcs": [
+    "70842-160-01",
+    "70842-160-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "minocycline hydrochloride",
+      "name": "Minocin"
+    }
+  ],
+  "setid": "e415c323-8219-464b-9e3e-72c5a796cdaa",
+  "source": "dailymed"
+}
