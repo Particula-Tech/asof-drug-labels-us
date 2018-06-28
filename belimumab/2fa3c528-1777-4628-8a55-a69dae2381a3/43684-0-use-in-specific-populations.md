@@ -9,12 +9,12 @@ Healthcare professionals are encouraged to register patients by calling 1-877-68
 
 Risk Summary
 
-Limited data on use of BENLYSTA in pregnant women, from observational studies, published case reports, and postmarketing surveillance, are insufficient to determine whether there is a drug-associated risk for major birth defects or miscarriage.
-There are risks to the mother and fetus associated with SLE [see Clinical Considerations].
-Monoclonal antibodies, such as belimumab, are actively transported across the placenta during the third trimester of pregnancy and may affect immune response in the in utero-exposed infant [see Clinical Considerations].
-In an animal combined embryo-fetal and pre- and post-natal development study with monkeys that received belimumab by intravenous administration, there was no evidence of embryotoxicity or fetal malformations with exposures approximately 9 times (based on intravenous administration) and 20 times (based on subcutaneous administration) the exposure at the maximum recommended human dose (MRHD).
+Available data on use of BENLYSTA in pregnant women, from observational studies, published case reports, and postmarketing surveillance, are insufficient to determine whether there is a drug-associated risk for major birth defects or miscarriage.
+There are risks to the mother and fetus associated with SLE (see Clinical Considerations).
+Monoclonal antibodies, such as belimumab, are actively transported across the placenta during the third trimester of pregnancy and may affect immune response in the in utero-exposed infant (see Clinical Considerations).
+In an animal combined embryo-fetal and pre- and post-natal development study with monkeys that received belimumab by intravenous administration, there was no evidence of fetal harm with exposures approximately 9 times (based on intravenous administration) and 20 times (based on subcutaneous administration) the exposure at the maximum recommended human dose (MRHD).
 Belimumab-related findings in monkey fetuses and/or infants included reductions of B-cell counts, reductions in the density of lymphoid tissue B-lymphocytes in the spleen and lymph nodes, and altered IgG and IgM titers.
-The no-adverse-effect-level (NOAEL) was not identified for these findings; however, they were reversible within 3 to 12 months after the drug was discontinued [see Data].
+The no-adverse-effect-level (NOAEL) was not identified for these findings; however, they were reversible within 3 to 12 months after the drug was discontinued (see Data).
 Based on animal data and the mechanism of action of belimumab, the immune system in infants of treated mothers may be adversely affected.
 It is unknown, based on available data, whether immune effects, if identified, are reversible [see Clinical Pharmacology (12.1)].
 
@@ -24,9 +24,9 @@ In the U.S. general population, the background risk of major birth defects and m
 
 Clinical Considerations
 
-Disease-Associated Maternal and/or Embryo/Fetal Risk: Pregnant women with SLE are at increased risk of adverse pregnancy outcomes, including worsening of the underlying disease, premature birth, spontaneous abortion, and intrauterine growth restriction.
+Disease-Associated Maternal and/or Embryo/Fetal Risk: Pregnant women with SLE are at increased risk of adverse pregnancy outcomes, including worsening of the underlying disease, premature birth, miscarriage, and intrauterine growth restriction.
 Maternal lupus nephritis increases the risk of hypertension and preeclampsia/eclampsia.
-Passage of maternal anti-phospholipid antibodies across the placenta may result in adverse neonatal outcomes, including neonatal lupus and congenital heart block.
+Passage of maternal autoantibodies across the placenta may result in adverse neonatal outcomes, including neonatal lupus and congenital heart block.
 
 Fetal/Neonatal Adverse Reactions: Monoclonal antibodies are increasingly transported across the placenta as pregnancy progresses, with the largest amount transferred during the third trimester.
 Risks and benefits should be considered prior to administering live or live-attenuated vaccines to infants exposed to BENLYSTA in utero.
@@ -35,7 +35,7 @@ Monitor an infant of a treated mother for B-cell reduction and other immune dysf
 Data
 
 Animal Data: In a combined embryo-fetal and pre- and post-natal development study, pregnant cynomolgus monkeys received belimumab at intravenous doses of 0, 5, or 150 mg/kg every 2 weeks from confirmation of pregnancy at Gestation Days (GD) 20 to 22, throughout the period of organogenesis (up to approximately GD 50), and continuing to either the day of scheduled cesarean section (GD 150 [late third trimester]) or the day of parturition.
-There was no evidence of maternal toxicity, embryotoxicity, or teratogenicity at exposure approximately 9 times the MRHD of 10 mg/kg intravenously or 20 times the MRHD of 200 mg subcutaneously (on an AUC basis with maternal animal intravenous doses up to 150 mg/kg).
+There was no evidence of maternal toxicity, effects on embryofetal and infant survival, or structural abnormalities at exposure approximately 9 times the MRHD of 10 mg/kg intravenously or 20 times the MRHD of 200 mg subcutaneously (on an AUC basis with maternal animal intravenous doses up to 150 mg/kg).
 Belimumab-related findings in mothers included reductions of immature and mature B-cell counts and in fetuses and/or infants included reductions of immature and mature B-cell counts, reductions in the density of lymphoid tissue B-lymphocytes in the spleen and lymph nodes, reduced spleen weights, increased IgG titers, and reduced IgM titers.
 B-cell counts in infant monkeys exposed to belimumab in utero recovered by 3 months of age and in mothers after 1 year.
 IgG and IgM levels in infant monkeys recovered by 6 months of age and the reductions in B-lymphocytes in the lymph nodes and spleen were reversed by 1 year of age.

@@ -19,7 +19,7 @@ Important Storage Information
 - •Keep refrigerated until 30 minutes before use.
 - •Keep in the original package until time of use to protect from light.
 - •Do not freeze BENLYSTA.
-  Keep away from heat.
+  Keep away from heat and sunlight.
 - •Do not use and do not place back in the refrigerator if BENLYSTA is left out for more than 12 hours.
 - •Keep out of the reach of children.
 
@@ -101,7 +101,8 @@ Clean the injection site
   Allow the skin to air dry.
   See Figure E.
 
-- •Do not touch this area again before giving the injection.
+- 
+  - •Do not touch this area again before giving the injection.
 
 4 Prepare for the injection
 
@@ -119,8 +120,8 @@ Position the autoinjector
 - •Hold the autoinjector comfortably so that you can see the Inspection Window.
   It is important that you can look at the Inspection Window while giving the injection.
   You will look at the Inspection Window to:
-  - •see that the purple indicator is moving while you are injecting.
-  - •see that the purple indicator has stopped to make sure that the dose is complete.
+  - osee that the purple indicator is moving while you are injecting.
+  - osee that the purple indicator has stopped to make sure that the dose is complete.
     See Figure G.
 
 - •Position the autoinjector straight over the injection site at a 90 degree angle.
@@ -156,11 +157,11 @@ See Figure K.
 - •Put your used autoinjector in an FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) in your household trash.
 - •If you do not have a FDA-cleared sharps disposal container, you may use a household container that:
-  - •is made of a heavy-duty plastic,
-  - •can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
-  - •is upright and stable during use,
-  - •is leak-resistant, and
-  - •properly labeled to warn of hazardous waste inside the container.
+  - ois made of a heavy-duty plastic,
+  - ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+  - ois upright and stable during use,
+  - ois leak-resistant, and
+  - oproperly labeled to warn of hazardous waste inside the container.
 - •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
   There may be state or local laws about how you should throw away used needles and syringes.
   For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to: http://www.fda.gov/safesharpsdisposal.
@@ -185,11 +186,11 @@ Manufactured by Human Genome Sciences, Inc., (a subsidiary of GlaxoSmithKline), 
 
 U.S. License No. 1820
 
-©2017 GSK group of companies or its licensor.
+©2018 GSK group of companies or its licensor.
 
-BNL:1IFU-A
+BNL:2IFU-A
 
-Approved July 2017
+Revised June 2018
 
 Instructions for Use
 
@@ -212,7 +213,7 @@ Important Storage Information
 - •Keep refrigerated until 30 minutes before use.
 - •Keep in the original package until time of use to protect from light.
 - •Do not freeze BENLYSTA.
-- •Keep away from heat.
+- •Keep away from heat and sunlight.
 - •Do not use and do not place back in the refrigerator if BENLYSTA is left out for more than 12 hours.
 - •Keep out of the reach of children.
 
@@ -220,11 +221,11 @@ Important Warnings
 
 - •The prefilled syringe should be used only 1 time and then thrown away.
   See below, “Dispose of used prefilled syringe and inspect.”
-  - •Do not share your BENLYSTA prefilled syringe with other people.
+  - oDo not share your BENLYSTA prefilled syringe with other people.
     You may give other people a serious infection, or get a serious infection from them.
-  - •Do not shake the prefilled syringe.
-  - •Do not use if dropped onto a hard surface.
-  - •Do not remove the Needle Cap until right before the injection.
+  - oDo not shake the prefilled syringe.
+  - oDo not use if dropped onto a hard surface.
+  - oDo not remove the Needle Cap until right before the injection.
 
 BENLYSTA Prefilled Syringe Parts
 
@@ -248,10 +249,10 @@ Gather supplies
 
 - •Remove 1 sealed tray containing a prefilled syringe from the refrigerator.
 - •Find a comfortable, well-lit, and clean surface and place the following supplies within reach:
-  - •BENLYSTA Prefilled Syringe
-  - •Alcohol Swab (not included)
-  - •Gauze Pad or Cotton Ball (not included)
-  - •Sharps Container (not included)
+- •BENLYSTA Prefilled Syringe
+- •Alcohol Swab (not included)
+- •Gauze Pad or Cotton Ball (not included)
+- •Sharps Container (not included)
 - •Do not perform the injection if you do not have all the supplies listed.
 
 Check expiration date
@@ -375,8 +376,8 @@ Manufactured by Human Genome Sciences, Inc., (a subsidiary of GlaxoSmithKline), 
 
 U.S. License No. 1820
 
-©2017 GSK group of companies or its licensor.
+©2018 GSK group of companies or its licensor.
 
-BNL:1IFU-S
+BNL:2IFU-S
 
-Approved July 2017
+Revised June 2018

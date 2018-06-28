@@ -51,14 +51,14 @@ Dilution Instructions for Intravenous Use:
    Any unused solution in the vials must be discarded.
 2. 7.Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
    Discard the solution if any particulate matter or discoloration is observed.
-3. 8.The reconstituted solution of BENLYSTA, if not used immediately, should be stored protected from direct sunlight and refrigerated at 2° to 8°C (36° to 46°F).
-   Solutions of BENLYSTA diluted in normal saline, half-normal saline, or Lactated Ringer’s Injection may be stored at 2° to 8°C (36° to 46°F) or room temperature.
+3. 8.The reconstituted solution of BENLYSTA, if not used immediately, should be stored protected from direct sunlight and refrigerated at 36°F to 46°F (2°C to 8°C).
+   Solutions of BENLYSTA diluted in normal saline, half-normal saline, or Lactated Ringer’s Injection may be stored at 36°F to 46°F (2°C to 8°C) or room temperature.
    The total time from reconstitution of BENLYSTA to completion of infusion should not exceed 8 hours.
 4. 9.No incompatibilities between BENLYSTA and polyvinylchloride or polyolefin bags have been observed.
 
 Administration Instructions for Intravenous Use
 
-1. 1.The diluted solution of BENLYSTA should be administered by intravenous infusion, over a period of 1 hour.
+1. 1.The diluted solution of BENLYSTA should be administered by intravenous infusion over a period of 1 hour.
 2. 2.BENLYSTA should be administered by healthcare providers prepared to manage anaphylaxis [see Warnings and Precautions (5.3)].
 3. 3.BENLYSTA should not be infused concomitantly in the same intravenous line with other agents.
    No physical or biochemical compatibility studies have been conducted to evaluate the coadministration of BENLYSTA with other agents.

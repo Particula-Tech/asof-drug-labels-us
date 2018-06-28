@@ -12,12 +12,12 @@ BENLYSTA vials are supplied as follows:
 
 400 mg belimumab in a 20-mL single-dose vial (NDC 49401-102-01)
 
-Refrigerate vials at 2° to 8°C (36° to 46°F).
+Refrigerate vials at 36°F to 46°F (2°C to 8°C).
 Store vials in the original carton until use to protect from light.
 Do not freeze.
 Avoid exposure to heat.
 
-## 16.2 For Subcutaneous Injection
+## 16.2 Subcutaneous Injection
 
 BENLYSTA (belimumab) injection is a clear to opalescent, and colorless to pale yellow solution for subcutaneous use.
 Each single-dose prefilled autoinjector or single-dose prefilled syringe is designed to deliver 200 mg of belimumab in 1 mL of solution and is supplied as follows:
@@ -26,11 +26,21 @@ Each single-dose prefilled autoinjector or single-dose prefilled syringe is desi
 
 200 mg/mL single-dose prefilled glass syringe with 27-gauge, half-inch needle attached (NDC 49401-088-42) in a carton of 4 (NDC 49401-088-47).
 
-Refrigerate prefilled autoinjectors and prefilled syringes at 2°C to 8°C (36°F to 46°F).
+Prior to Dispensing
+
+Refrigerate prefilled autoinjectors and prefilled syringes at 36°F to 46°F (2°C to 8°C).
 Keep the product in the original carton to protect from light until the time of use.
 Do not freeze.
 Do not shake.
 Avoid exposure to heat.
 
-BENLYSTA may be stored outside of the refrigerator up to 86°F (30°C) for up to 12 hours in the original container.
+Following Dispensing
+
+Refrigerate prefilled autoinjectors and prefilled syringes at 36°F to 46°F (2°C to 8°C).
+Keep the product in the original carton to protect from light until the time of use.
+Do not freeze.
+Do not shake.
+Avoid exposure to heat.
+
+BENLYSTA may be stored outside of the refrigerator up to 86°F (30°C) for up to 12 hours if protected from sunlight.
 Do not use and do not place back in refrigerator if left out for more than 12 hours.

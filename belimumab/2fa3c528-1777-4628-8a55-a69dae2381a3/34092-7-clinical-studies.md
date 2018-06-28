@@ -90,14 +90,14 @@ In Trial 3, 14%, 18%, and 23% of patients receiving BENLYSTA 10 mg/kg, BENLYSTA 
 The safety and effectiveness of BENLYSTA administered subcutaneously were evaluated in a randomized, double‑blind, placebo‑controlled trial involving 836 patients with SLE according to the American College of Rheumatology criteria (Trial 4).
 Patients with severe active lupus nephritis and severe active CNS lupus were excluded.
 The trial (2:1 randomization) evaluated BENLYSTA 200 mg once weekly plus standard therapy (n = 556) compared with placebo once weekly plus standard therapy (n = 280) over 52 weeks in patients with active SLE disease.
-Patients had to have a SELENA-SLEDAI score of ≥8 and positive autoantibody test (anti-nuclear antibody [ANA] and/or anti-double-stranded DNA [anti-dsDNA] results at screening.
+Patients had to have a SELENA-SLEDAI score of ≥8 and positive autoantibody test (anti-nuclear antibody [ANA] and/or anti-double-stranded DNA [anti-dsDNA]) results at screening.
 
 No significant differences in baseline patient characteristics were observed between treatment groups.
-In some countries, treatment with a B-cell-targeted agent was permitted if received a year or more prior to baseline, otherwise, treatment with a B-cell-targeted agent was not permitted.
+In some countries, treatment with a B-cell-targeted agent was permitted if received a year or more prior to baseline; otherwise, treatment with a B-cell-targeted agent was not permitted.
 Patients were excluded from the trial if they were currently receiving other biologic agents.
 Anti-tumor necrosis factor therapy, intravenous cyclophosphamide, interleukin-1 receptor antagonist, intravenous immunoglobulin (IVIG), prednisone >100 mg/day, and plasmapheresis were not permitted within the previous 3 months or during the trial.
 The trial was conducted in North America, South America, Europe, and Asia.
-Baseline concomitant medications included corticosteroids (86%), antimalarials (69%), and immunosuppressives (46% including azathioprine, methotrexate, and mycophenolate).
+Baseline concomitant medications included corticosteroids (86%), antimalarials (69%), and immunosuppressives (46%, including azathioprine, methotrexate, and mycophenolate).
 Most patients (approximately 80%) were receiving 2 or more classes of SLE medications.
 
 More than 50% of patients had 3 or more active organ systems involved at baseline.
@@ -116,7 +116,7 @@ Clinical Response Rate in Patients with SLE after 52 Weeks of Treatment
 
 | Response | Placebo +Standard Therapy(n = 279) | BENLYSTA +Standard Therapy(n = 554) |
 | --- | --- | --- |
-| SLE Responder Index-4(SRI-4)a | 48% | 61%P = 0.0006 |
+| SLE Responder Index-4 (SRI-4)a | 48% | 61%P = 0.0006 |
 | Odds Ratio(95% CI) vs. placebo |  | 1.7(1.3, 2.3) |
 | Components of SLE Responder Index-4 (SRI-4) |  |  |
 | Percent of patients with reduction in SELENA-SLEDAI ≥4 | 49% | 62% |

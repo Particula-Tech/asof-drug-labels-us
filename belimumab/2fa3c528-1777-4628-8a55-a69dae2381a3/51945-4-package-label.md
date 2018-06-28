@@ -82,7 +82,7 @@ Benlysta
 
 Injection
 
-200 mg/vial
+200 mg/mL
 
 For Subcutaneous Use
 
@@ -100,6 +100,6 @@ Federal Law requires dispensing of BENLYSTA with the Medication Guide provided w
 ©2017 GSK group of companies or is licensor.
 
 Rev.
-7/17
+10/17
 
-10000000147097
+DEVCOMP-0005150
