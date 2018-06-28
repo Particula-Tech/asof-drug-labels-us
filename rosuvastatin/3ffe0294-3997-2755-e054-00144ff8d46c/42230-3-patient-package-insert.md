@@ -191,7 +191,7 @@ It may harm them.
 
 You can ask your pharmacist or doctor for information about rosuvastatin calcium tablets that is written for health professionals.
 
-For more information, go to www.accord-healthcare.com or call Accord Healthcare Inc. at 1-866-941-7875.
+For more information, go to www.accordhealthcare.us or call Accord Healthcare Inc. at 1-866-941-7875.
 
 Manufactured For:
 
@@ -220,6 +220,6 @@ Dist.- Ahmedabad – 382 213,
 
 India.
 
-51 4223 0 705448
+51 2359 0 714132
 
-Issued July 2016
+Issued August 2017
