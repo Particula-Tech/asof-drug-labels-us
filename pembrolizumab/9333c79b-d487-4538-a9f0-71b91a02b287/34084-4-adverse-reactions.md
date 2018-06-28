@@ -20,7 +20,7 @@ In addition, these data reflect exposure to KEYTRUDA in a non-randomized, open-l
 Across all studies, KEYTRUDA was administered at doses of 2 mg/kg intravenously every 3 weeks, 10 mg/kg intravenously every 2 weeks, 10 mg/kg intravenously every 3 weeks, or 200 mg intravenously every 3 weeks.
 Among the 2799 patients, 41% were exposed for 6 months or more and 21% were exposed for 12 months or more.
 
-The data described in this section were obtained in five randomized, open-label, active-controlled clinical trials (KEYNOTE-002, KEYNOTE-006, KEYNOTE-010, KEYNOTE-021, and KEYNOTE-045) in which KEYTRUDA was administered to 912 patients with melanoma, 741 patients with NSCLC, and 542 patients with urothelial carcinoma, and five non-randomized, open-label trials (KEYNOTE-012, KEYNOTE-087, KEYNOTE-170, KEYNOTE-052, KEYNOTE-059, and KEYNOTE-158) in which KEYTRUDA was administered to 192 patients with HNSCC, 210 patients with cHL, 53 patients with PMBCL, 370 patients with urothelial carcinoma, 259 patients with gastric cancer, and 98 patients with cervical cancer.
+The data described in this section were obtained in five randomized, open-label, active-controlled clinical trials (KEYNOTE-002, KEYNOTE-006, KEYNOTE-010, KEYNOTE-021, and KEYNOTE-045) in which KEYTRUDA was administered to 912 patients with melanoma, 741 patients with NSCLC, and 542 patients with urothelial carcinoma, and six non-randomized, open-label trials (KEYNOTE-012, KEYNOTE-087, KEYNOTE-170, KEYNOTE-052, KEYNOTE-059, and KEYNOTE-158) in which KEYTRUDA was administered to 192 patients with HNSCC, 210 patients with cHL, 53 patients with PMBCL, 370 patients with urothelial carcinoma, 259 patients with gastric cancer, and 98 patients with cervical cancer.
 In these trials, KEYTRUDA was administered at 2 mg/kg every 3 weeks, 200 mg every 3 weeks, or 10 mg/kg every 2 or 3 weeks.
 
 Melanoma
@@ -571,12 +571,12 @@ Table 16: Adverse Reactions Occurring in ≥10% of Patients with Cervical Cancer
 | Metabolism and Nutrition Disorders |  |  |
 | Decreased appetite | 21 | 0 |
 | Vascular Disorders |  |  |
-| Hemorrhageincludes epistaxis, hematuria, hemoptysis, metrorrhagia, rectal hemorrhage, uterine hemorrhage, vaginal hemorrhage | 19 | 5 |
+| HemorrhageIncludes epistaxis, hematuria, hemoptysis, metrorrhagia, rectal hemorrhage, uterine hemorrhage, vaginal hemorrhage | 19 | 5 |
 | Infections and Infestations |  |  |
 | UTIIncludes bacterial pyelonephritis, pyelonephritis acute, urinary tract infection, urinary tract infection bacterial, urinary tract infection pseudomonal, urosepsis | 18 | 6 |
 | Infection (except UTI)Includes cellulitis, clostridium difficile infection, device-related infection, empyema, erysipelas, herpes virus infection, infected neoplasm, infection, influenza, lower respiratory tract congestion, lung infection, oral candidiasis, oral fungal infection, osteomyelitis, pseudomonas infection, respiratory tract infection, tooth abscess, upper respiratory tract infection, uterine abscess, vulvovaginal candidiasis | 16 | 4.1 |
 | Skin and Subcutaneous Tissue Disorders |  |  |
-| Rashincludes dermatitis, drug eruption, eczema, erythema, palmar-plantar erythrodysesthesia syndrome, rash, rash generalized, rash maculo-papular | 17 | 2.0 |
+| RashIncludes dermatitis, drug eruption, eczema, erythema, palmar-plantar erythrodysesthesia syndrome, rash, rash generalized, rash maculo-papular | 17 | 2.0 |
 | Endocrine Disorders |  |  |
 | Hypothyroidism | 11 | 0 |
 | Nervous System Disorders |  |  |
@@ -611,7 +611,7 @@ Other laboratory abnormalities occurring in ≥10% of patients receiving KEYTRUD
 
 As with all therapeutic proteins, there is the potential for immunogenicity.
 The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
-Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
+Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors, including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
 For these reasons, comparison of incidence of antibodies to pembrolizumab in the studies described below with the incidences of antibodies in other studies or to other products may be misleading.
 
 Trough levels of pembrolizumab interfere with the electrochemiluminescent (ECL) assay results; therefore, a subset analysis was performed in the patients with a concentration of pembrolizumab below the drug tolerance level of the anti-product antibody assay.

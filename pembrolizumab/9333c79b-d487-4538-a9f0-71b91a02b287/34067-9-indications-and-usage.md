@@ -40,7 +40,7 @@ Limitation of Use: KEYTRUDA is not recommended for treatment of patients with PM
 
 ## 1.6 Urothelial Carcinoma
 
-KEYTRUDA is indicated for the treatment of patients with locally advanced or metastatic urothelial carcinoma who are not eligible for cisplatin-containing chemotherapy [see Clinical Studies (14.6)].
+KEYTRUDA is indicated for the treatment of patients with locally advanced or metastatic urothelial carcinoma who are not eligible for cisplatin-containing chemotherapy and whose tumors express PD-L1 [Combined Positive Score (CPS) ≥10], or in patients who are not eligible for any platinum-containing chemotherapy regardless of PD-L1 status [see Clinical Studies (14.6)].
 
 This indication is approved under accelerated approval based on tumor response rate and duration of response.
 Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials.

@@ -365,21 +365,39 @@ Eighty-five percent of patients had visceral metastases, including 21% with live
 Reasons for cisplatin ineligibility included: 50% with baseline creatinine clearance of <60 mL/min, 32% with ECOG performance status of 2, 9% with ECOG 2 and baseline creatinine clearance of <60 mL/min, and 9% with other reasons (Class III heart failure, Grade 2 or greater peripheral neuropathy, and Grade 2 or greater hearing loss).
 Ninety percent of patients were treatment naïve, and 10% received prior adjuvant or neoadjuvant platinum-based chemotherapy.
 
+Among the 370 patients, 30% (n = 110) had tumors that expressed PD-L1 with a combined positive score (CPS) of greater than or equal to 10.
+PD-L1 status was determined using a clinical trial assay (by IHC using the 22C3 antibody).
+The baseline characteristics of these 110 patients were: median age 73 years, 68% male, and 87% White.
+Eighty-two percent had M1 disease, and 18% had M0 disease.
+Eighty-one percent had a primary tumor in the lower tract, and 18% of patients had a primary tumor in the upper tract.
+Seventy-six percent of patients had visceral metastases, including 11% with liver metastases.
+Reasons for cisplatin ineligibility included: 45% with baseline creatinine clearance of <60 mL/min, 37% with ECOG performance status of 2, 10% with ECOG 2 and baseline creatinine clearance of <60 mL/min, and 8% with other reasons (Class III heart failure, Grade 2 or greater peripheral neuropathy, and Grade 2 or greater hearing loss).
+Ninety percent of patients were treatment naïve, and 10% received prior adjuvant or neoadjuvant platinum-based chemotherapy.
+
 The median follow-up time for 370 patients treated with KEYTRUDA was 7.8 months (range 0.1 to 20 months).
 Efficacy results are summarized in Table 26.
 
 Table 26: Efficacy Results in KEYNOTE-052
 
-| Endpoint | KEYTRUDA 200 mg every 3 weeks n=370 |
-| --- | --- |
-| Objective Response Rate |  |
-| ORR (95% CI) | 29% (24, 34) |
-| Complete response rate | 7% |
-| Partial response rate | 22% |
-| Duration of Response |  |
-| Median in months (range) | NR (1.4+, 17.8+) |
-| + Denotes ongoing |  |
-| NR = not reached |  |
+|  | All Subjects n=370 | PD-L1 CPS ≥10 n=110 |
+| --- | --- | --- |
+| Endpoint | KEYTRUDA 200 mg every 3 weeks |  |
+| Objective Response Rate |  |  |
+| ORR (95% CI) | 29% (24, 34) | 47% (38, 57) |
+| Complete response rate | 7% | 15% |
+| Partial response rate | 22% | 32% |
+| Duration of Response |  |  |
+| Median in months (range) | NR (1.4+, 17.8+) | NR (1.4+, 17.8+) |
+| + Denotes ongoing |  |  |
+| NR = not reached |  |  |
+
+Previously Untreated Urothelial Carcinoma
+
+KEYNOTE-361 (NCT02853305) is an ongoing, multicenter, randomized study in previously untreated patients with metastatic urothelial carcinoma who are eligible for platinum-containing chemotherapy.
+The study compares KEYTRUDA with or without platinum-based chemotherapy (i.e., cisplatin or carboplatin with gemcitabine) to platinum-based chemotherapy alone.
+The trial also enrolled a third arm of monotherapy with KEYTRUDA to compare to platinum-based chemotherapy alone.
+The independent Data Monitoring Committee (iDMC) for the study conducted a review of early data and found that in patients classified as having low PD-L1 expression (CPS <10), those treated with KEYTRUDA monotherapy had decreased survival compared to those who received platinum-based chemotherapy.
+The iDMC recommended to stop further accrual of patients with low PD-L1 expression in the monotherapy arm, however, no other changes were recommended, including any change of therapy for patients who had already been randomized to and were receiving treatment in the monotherapy arm.
 
 Previously Treated Urothelial Carcinoma
 
