@@ -1,4 +1,4 @@
-# Principal Display Panel - 60 g Carton
+# Principal Display Panel
 
 Rx Only
 
