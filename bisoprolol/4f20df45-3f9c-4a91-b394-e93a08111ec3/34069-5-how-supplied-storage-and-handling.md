@@ -19,7 +19,7 @@ Bottles of 100: NDC 29300-127-01
 Bottles of 500: NDC 29300-127-05
 
 Store at 20° to 25°C (68° to 77°F).
-[See USP Controlled Room Temperature].
+[see USP Controlled Room Temperature].
 
 Protect from moisture.
 

@@ -9,10 +9,10 @@ Estate, Pilerne, Bardez,
 
 Goa 403 511, India.
 
-Marketed by:
+Manufactured for:
 
 Hasbrouck Heights, NJ 07604.
 
-02-R-06/2016
+03-R-07/2017
 
-13007902
+13009853
