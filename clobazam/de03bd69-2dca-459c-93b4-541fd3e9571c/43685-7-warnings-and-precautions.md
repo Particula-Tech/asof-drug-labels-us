@@ -37,7 +37,7 @@ Generally milder withdrawal symptoms (e.g., dysphoria, anxiety, and insomnia) ha
 
 ## 5.5 Serious Dermatological Reactions
 
-Serious skin reactions, including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), have been reported with ONFI in both children and adults during the post-marketing period.
+Serious skin reactions, including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), have been reported with ONFI in both children and adults during the postmarketing period.
 Patients should be closely monitored for signs or symptoms of SJS/TEN, especially during the first 8 weeks of treatment initiation or when re-introducing therapy.
 ONFI should be discontinued at the first sign of rash, unless the rash is clearly not drug-related.
 If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed and alternative therapy should be considered [see Contraindications (4)].

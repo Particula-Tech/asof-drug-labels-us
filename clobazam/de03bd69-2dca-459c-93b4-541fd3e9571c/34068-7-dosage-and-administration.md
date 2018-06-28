@@ -5,8 +5,7 @@
 A daily dose of ONFI greater than 5 mg should be administered in divided doses twice daily; a 5 mg daily dose can be administered as a single dose.
 Dose patients according to body weight.
 Individualize dosing within each body weight group, based on clinical efficacy and tolerability.
-Each dose in Table 1 (e.g.
-5 to 20 mg in ≤30 kg weight group) has been shown to be effective, although effectiveness increases with increasing dose [see Clinical Studies (14)].
+Each dose in Table 1 (e.g., 5 to 20 mg in ≤30 kg weight group) has been shown to be effective, although effectiveness increases with increasing dose [see Clinical Studies (14)].
 Do not proceed with dose escalation more rapidly than weekly, because serum concentrations of clobazam and its active metabolite require 5 and 9 days, respectively, to reach steady-state.
 
 Table 1.

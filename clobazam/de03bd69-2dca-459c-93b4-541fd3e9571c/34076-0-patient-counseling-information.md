@@ -26,14 +26,14 @@ If a skin reaction occurs while taking ONFI, patients or caregivers should consu
 Suicidal Thinking and Behavior Counsel patients, their caregivers, and their families that AEDs, including ONFI, may increase the risk of suicidal thoughts and behavior and advise them of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts of self-harm.
 Patients should report behaviors of concern immediately to healthcare providers [see Warnings and Precautions (5.7)].
 
-Use in Pregnancy Instruct patients to notify their healthcare provider if they become pregnant or intend to become pregnant during therapy.
+Pregnancy Advise pregnant women and women of childbearing potential that the use of ONFI during pregnancy can cause fetal harm which may occur early in pregnancy before many women know they are pregnant.
+Instruct patients to notify their healthcare provider if they become pregnant or intend to become pregnant during therapy.
+When appropriate, prescribers should counsel pregnant women and women of childbearing potential about alternative therapeutic options.
 
-Encourage patients to enroll in the NAAED Pregnancy Registry if they become pregnant.
-This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-To enroll, patients can call the toll-free number 1-888-233-2334.
-Information on the registry can also be found at the website http://www.aedpregnancyregistry.org [see Use in Specific Populations (8.1)].
+Advise patients that there is a pregnancy exposure registry that collects information about the safety of antiepileptic drugs during pregnancy [see Use in Specific Populations (8.1)].
 
-Use in Nursing Instruct patients to notify their physician if they are breast feeding or intend to breast feed during therapy [see Use in Specific Populations (8.3)].
+Nursing Counsel patients that ONFI is excreted in breast milk.
+Instruct patients to notify their physician if they are breast feeding or intend to breast feed during therapy and counsel nursing mothers to observe their infants for poor sucking and somnolence [see Use in Specific Populations (8.2)].
 
 Tablets manufactured by: Catalent Pharma Solutions, LLC Winchester, KY 40391, U.S.A.
 

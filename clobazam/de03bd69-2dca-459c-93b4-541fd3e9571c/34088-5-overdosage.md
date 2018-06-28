@@ -3,7 +3,7 @@
 ## 10.1 Signs and Symptoms of Overdosage
 
 Overdose and intoxication with benzodiazepines, including ONFI, may lead to CNS depression, associated with drowsiness, confusion and lethargy, possibly progressing to ataxia, respiratory depression, hypotension, and, rarely, coma or death.
-The risk of a fatal outcome is increased in cases of combined poisoning with other CNS depressants, including alcohol.
+The risk of a fatal outcome is increased in cases of combined poisoning with other CNS depressants, including opioids and alcohol.
 
 ## 10.2 Management of Overdosage
 

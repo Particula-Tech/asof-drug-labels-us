@@ -7,7 +7,7 @@ The exact mechanism of action for clobazam, a 1,5-benzodiazepine, is not fully u
 ## 12.2 Pharmacodynamics
 
 Effects on Electrocardiogram The effect of ONFI 20 mg and 80 mg administered twice daily on QTc interval was evaluated in a randomized, evaluator-blinded, placebo-, and active-controlled (moxifloxacin 400 mg) parallel thorough QT study in 280 healthy subjects.
-In a study with demonstrated ability to detect small effects, the upper bound of the one-sided 95% confidence interval for the largest placebo adjusted, baseline-corrected QTc based on the Fridericia correction method was below 10 ms, the threshold for regulatory concern.
+In a study with demonstrated ability to detect small effects, the upper bound of the one-sided 95% confidence interval for the largest placebo-adjusted, baseline-corrected QTc based on the Fridericia correction method was below 10 ms, the threshold for regulatory concern.
 Thus, at a dose two times the maximum recommended dose, ONFI did not prolong the QTc interval to any clinically relevant extent.
 
 ## 12.3 Pharmacokinetics
