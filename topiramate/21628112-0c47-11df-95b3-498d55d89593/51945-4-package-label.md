@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 25 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 25 mg Tablet Bottle Label
 
 NDC 50458-639-65
 
@@ -16,7 +16,7 @@ Revised November 2011
 
 janssen
 
-PRINCIPAL DISPLAY PANEL - 50 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 50 mg Tablet Bottle Label
 
 NDC 50458-640-65
 
@@ -34,7 +34,7 @@ Revised November 2011
 
 janssen
 
-PRINCIPAL DISPLAY PANEL - 100 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 100 mg Tablet Bottle Label
 
 NDC 50458-641-65
 
@@ -52,7 +52,7 @@ Revised November 2011
 
 janssen
 
-PRINCIPAL DISPLAY PANEL - 200 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 200 mg Tablet Bottle Label
 
 NDC 50458-642-65
 
@@ -70,7 +70,7 @@ Revised November 2011
 
 janssen
 
-PRINCIPAL DISPLAY PANEL - 15 mg Capsule Bottle Label
+# PRINCIPAL DISPLAY PANEL - 15 mg Capsule Bottle Label
 
 NDC 50458-647-65
 
@@ -86,7 +86,7 @@ Revised November 2011
 
 janssen
 
-PRINCIPAL DISPLAY PANEL - 25 mg Capsule Bottle Label
+# PRINCIPAL DISPLAY PANEL - 25 mg Capsule Bottle Label
 
 NDC 50458-645-65
 

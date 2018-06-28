@@ -38,12 +38,13 @@ Table 5 presents the incidence of adverse reactions occurring in at least 3% of 
 
 Table 5: Adverse Reactions in the High Dose Group As Compared to the Low Dose Group, in Monotherapy Epilepsy Trials in Adult and Pediatric Patients
 
-| Body System Adverse Reaction | (N=74) % | (N=77) % | (N=160) % | (N=159) % |
+| Adverse Reaction | % | % | % | % |
 | --- | --- | --- | --- | --- |
 |  | Age Group |  |  |  |
 |  | Pediatric (6 to 15 Years) |  | Adult (Age ≥16 Years) |  |
 |  | TOPAMAX® Daily Dosage Group (mg/day) |  |  |  |
 |  | 50 | 400 | 50 | 400 |
+| Body System | (N=74) | (N=77) | (N=160) | (N=159) |
 | Body as a Whole - General Disorders |  |  |  |  |
 | Asthenia | 0 | 3 | 4 | 6 |
 | Fever | 1 | 12 |  |  |
@@ -103,7 +104,6 @@ Table 5: Adverse Reactions in the High Dose Group As Compared to the Low Dose Gr
 | Taste perversion |  |  | 3 | 5 |
 | Urinary System Disorders |  |  |  |  |
 | Cystitis |  |  | 1 | 3 |
-| Dysuria |  |  | 0 | 2 |
 | Micturition frequency | 0 | 3 |  |  |
 | Renal calculus |  |  | 0 | 3 |
 | Urinary incontinence | 1 | 3 |  |  |
@@ -394,3 +394,5 @@ Skin and Appendage Disorders: bullous skin reactions (including erythema multifo
 Urinary System Disorders: kidney stones [see Warnings and Precautions (5.10)]
 
 Vision Disorders: acute myopia, secondary angle closure glaucoma [see Warnings and Precautions (5.1)], maculopathy
+
+Hematological Disorders: decrease of the International Normalized Ratio (INR) or prothrombin time when given concomitantly with vitamin K antagonist anticoagulant medications such as warfarin.
