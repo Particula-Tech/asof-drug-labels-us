@@ -80,3 +80,9 @@ Phenylalanine can be harmful to patients with phenylketonuria (PKU).
 PREVACID SoluTab contains phenylalanine, a component of aspartame.
 Each 15 mg tablet contains 2.5 mg and each 30 mg tablet contains 5.1 mg of phenylalanine.
 Before prescribing PREVACID SoluTab to a patient with PKU, consider the combined daily amount of phenylalanine from all sources, including PREVACID SoluTab.
+
+## 5.11 Fundic Gland Polyps
+
+PPI use is associated with an increased risk of fundic gland polyps that increases with long-term use, especially beyond one year.
+Most PPI users who developed fundic gland polyps were asymptomatic and fundic gland polyps were identified incidentally on endoscopy.
+Use the shortest duration of PPI therapy appropriate to the condition being treated.

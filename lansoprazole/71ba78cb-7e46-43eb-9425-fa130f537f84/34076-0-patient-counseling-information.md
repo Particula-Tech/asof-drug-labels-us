@@ -32,6 +32,11 @@ Drug Interactions
 
 Advise patients to report to their healthcare provider if they are taking rilpivirine-containing products [see Contraindications (4)] or high-dose methotrexate [see Warnings and Precautions (5.9)].
 
+Pregnancy
+
+Advise a pregnant woman of the potential risk to a fetus.
+Advise females of reproductive potential to inform their healthcare provider of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
+
 Administration
 
 - Missed doses: If a dose is missed, administer as soon as possible.
