@@ -9,4 +9,4 @@ Marketed by: GALDERMA LABORATORIES, L.P.
 Fort Worth, Texas 76177 USA
 
 GALDERMA is a registered trademark.
-20089-0415
+P52751-0

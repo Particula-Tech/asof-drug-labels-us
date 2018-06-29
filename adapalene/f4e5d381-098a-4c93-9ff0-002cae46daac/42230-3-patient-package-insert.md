@@ -63,7 +63,7 @@ Active ingredient: adapalene and benzoyl peroxide
 Inactive ingredients: acrylamide/sodium acryloydimethyltaurate copolymer, docusate sodium, edetate disodium, glycerin, isohexadecane, polaxamer 124, polysorbate 80, propylene glycol, purified water and sorbitan oleate
 
 Marketed by: GALDERMA LABORATORIES, L.P., Fort Worth, Texas 76177 USA GALDERMA is a registered trademark.
-20089-0415
+P52751-0
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 Issued: 07/2015

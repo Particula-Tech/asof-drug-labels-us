@@ -1,4 +1,4 @@
-# LABEL
+# LABEL - 45g Carton
 
 Rx only NDC 0299-5906-45
 
@@ -39,12 +39,8 @@ Fort Worth, Texas 76177 USA
 
 Made in Canada.
 
-Galderma is a registered trademark.
+All trademarks are the property of their respective owners
 
 www.epiduoforte.com
 
-P52750-0
-
-Lot No.:
-
-Exp.:
+P52750-1

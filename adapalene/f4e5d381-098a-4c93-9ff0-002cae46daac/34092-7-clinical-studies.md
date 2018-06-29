@@ -15,6 +15,15 @@ Approximately equal number of males (48%) and females (52%) were enrolled.
 
 The IGA success rate, mean reduction, and percent reduction in acne lesion counts from baseline after 12 weeks of treatment are presented in the following table.
 
+Table 3.
+Clinical Efficacy of EPIDUO FORTE Gel at Week 12 in Subjects with Acne Vulgaris
+
+|  | EPIDUO FORTE Gel (N=217) | Adapalene and Benzoyl Peroxide Gel, 0.1%/2.5% (N=217) * | Vehicle Gel (N=69) |
+| --- | --- | --- | --- |
+| IGA: two-grade improvement and "clear" or "almost clear" | 33.7% | 27.3% | 11.0% |
+| Inflammatory lesions: mean absolute (percent) reduction | 27.8 (68.7%) | 26.5 (69.3%) | 13.2 (39.2%) |
+| Non-inflammatory lesions: mean absolute (percent) reduction | 40.5 (68.3%) | 40.0 (68.0%) | 19.7 (37.4%) |
+
 * This study was not designed or powered to compare the efficacy of EPIDUO FORTE to the lower strength adapalene and benzoyl peroxide gel, 0.1%/2.5%, nor to compare the lower strength adapalene and benzoyl peroxide gel, 0.1%/2.5% to the vehicle control.
 
 In subjects graded as “severe” (IGA Grade 4), efficacy was observed in the EPIDUO FORTE group.
