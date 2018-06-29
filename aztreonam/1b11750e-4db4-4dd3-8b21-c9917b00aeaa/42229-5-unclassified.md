@@ -5,6 +5,6 @@ All other trademarks are the property of their respective owners.
 
 AZACTAM® (aztreonam injection) in GALAXY plastic container (PL 2040) is manufactured to Bristol-Myers Squibb specifications by: Baxter Healthcare Corporation Deerfield, IL 60015 for: Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
-1266449A0
+Print code
 
-June 2013
+June 2018
