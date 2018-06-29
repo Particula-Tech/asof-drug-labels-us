@@ -56,7 +56,7 @@ For:
 
 TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
 
-8061730 Revised September 2016
+8062604 Revised May 2018
 
 PATIENT INFORMATION
 
@@ -71,6 +71,7 @@ What are pramipexole dihydrochloride tablets?
 Pramipexole dihydrochloride tablets are prescription medicine used to treat:
 
 - signs and symptoms of Parkinson's disease (PD)
+- moderate to severe primary Restless Legs Syndrome (RLS)
 
 It is not known if pramipexole dihydrochloride tablets are safe and effective in children.
 
@@ -78,7 +79,7 @@ What should I tell my doctor before taking pramipexole dihydrochloride tablets?
 
 - Before taking pramipexole dihydrochloride tablets, tell your doctor if you:
 
-• feel sleepy during the day from a sleep problem.
+• feel sleepy during the day from a sleep problem other than Restless Legs Syndrome.
 
 • have low blood pressure, or if you feel dizzy or faint, especially when getting up from sitting or lying down
 
@@ -109,8 +110,8 @@ Especially tell your doctor if you take:
 - medicines called neuroleptics (phenothiazines, butyrophenones, thioxanthenes) or metoclopramide.
   Pramipexole dihydrochloride tablets may not work as well if you take these medicines.
 - extended-release pramipexole (MIRAPEX ER).
-  Pramipexole is the active ingredient in both pramipexole dihydrochloride tablets and MIRAPEX ER.
-  If you are taking MIRAPEX ER, you should not take pramipexole dihydrochloride tablets.
+  Pramipexole is the active ingredient in both pramipexole dihydrochloride tablets and extended-release pramipexole tablets (MIRAPEX ER).
+  If you are taking extended-release pramipexole tablets (MIRAPEX ER), you should not take pramipexole dihydrochloride tablets.
 - any other medicines that make you sleepy or may increase the effects of pramipexole dihydrochloride tablets, such as cimetidine (Tagamet).
 
 Ask your doctor for a list of these medicines if you are not sure.
@@ -189,10 +190,11 @@ If you have hallucinations or other psychotic-like changes, talk with your docto
 
 If you have new dyskinesia or your existing dyskinesia gets worse tell your doctor.
 
-• skin cancer (melanoma).
-Some people with Parkinson's disease may have a higher chance of having melanoma than people who do not have Parkinson's disease.
-It is not known if the chance of having melanoma is higher because of the medicines to treat Parkinson's disease, like pramipexole dihydrochloride tablets, or from the Parkinson's disease.
-People who take pramipexole dihydrochloride tablets should have regular skin examinations to check for melanoma.
+• posture changes.
+Talk with your doctor if you have posture changes you cannot control.
+These may include your neck bending forward, bending forward at the waist, or tilting sideways when you sit, stand, or walk.
+
+The most common side effects in people taking pramipexole dihydrochloride tablet for Restless Legs Syndrome are nausea and headache.
 
 The most common side effects in people taking pramipexole dihydrochloride tablets for Parkinson's disease are:
 
@@ -229,7 +231,7 @@ This Patient Information leaflet summarizes the most important information about
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about pramipexole dihydrochloride tablets that is written for healthcare professionals.
 
-For additional information, you may also call at 1-269-544-2299.
+For additional information, you may also call at 1-800-912-9561.
 
 What are the ingredients in pramipexole dihydrochloride tablets?
 
@@ -254,4 +256,4 @@ For:
 
 TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
 
-8061730 Revised September 2016
+8062604 Revised May 2018

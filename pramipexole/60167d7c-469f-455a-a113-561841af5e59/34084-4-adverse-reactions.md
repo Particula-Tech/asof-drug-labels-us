@@ -7,9 +7,10 @@ The following adverse reactions are discussed in greater detail in other section
 - Impulse Control/Compulsive Behaviors [see Warnings and Precautions (5.3)].
 - Hallucinations and Psychotic-like Behavior [see Warnings and Precautions (5.4)].
 - Dyskinesia [see Warnings and Precautions (5.5)].
-- Rhabdomyolysis [see Warnings and Precautions (5.7)].
-- Retinal Pathology [see Warnings and Precautions (5.8)].
-- Events Reported with Dopaminergic Therapy [see Warnings and Precautions (5.9)].
+- Postural Deformity [see Warnings and Precautions (5.6)].
+- Rhabdomyolysis [see Warnings and Precautions (5.8)].
+- Retinal Pathology [see Warnings and Precautions (5.9)].
+- Events Reported with Dopaminergic Therapy [see Warnings and Precautions (5.10)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -140,10 +141,62 @@ Table 5 Adverse-Reactions in Pooled Double-Blind, Placebo-Controlled Trials with
 | Skin & Appendages |  |  |
 | Skin disorders | 2 | 1 |
 
+Restless Legs Syndrome
+
+Pramipexole dihydrochloride tablets for treatment of RLS have been evaluated for safety in 889 patients, including 427 treated for over six months and 75 for over one year.
+
+The overall safety assessment focuses on the results of three double-blind, placebo-controlled trials, in which 575 patients with RLS were treated with pramipexole dihydrochloride tablets for up to 12 weeks.
+The most common adverse reactions with pramipexole dihydrochloride tablets in the treatment of RLS (observed in >5% of pramipexole-treated patients and at a rate at least twice that observed in placebo-treated patients) were nausea and somnolence.
+Occurrences of nausea and somnolence in clinical trials were generally mild and transient.
+
+Approximately 7% of 575 patients treated with pramipexole dihydrochloride tablets during the double-blind periods of three placebo-controlled trials discontinued treatment due to adverse reactions compared to 5% of 223 patients who received placebo.
+The adverse reaction most commonly causing discontinuation of treatment was nausea (1%).
+
+Table 6 lists reactions that occurred in three double-blind, placebo-controlled studies in RLS patients that were reported by ≥2% of patients treated with pramipexole dihydrochloride tablets and were numerically more frequent than in the placebo group.
+
+Table 6 Adverse-Reactions in Pooled Double-Blind, Placebo-Controlled Trials with Pramipexole Dihydrochloride Tablets in Restless Legs Syndrome
+
+| Body System/Adverse Reaction | Pramipexole Dihydrochloride Tablets 0.125 to 0.75 mg/day (N=575) % | Placebo (N=223) % |
+| --- | --- | --- |
+| Gastrointestinal disorders |  |  |
+| Nausea | 16 | 5 |
+| Constipation | 4 | 1 |
+| Diarrhea | 3 | 1 |
+| Dry mouth | 3 | 1 |
+| Nervous system disorders |  |  |
+| Headache | 16 | 15 |
+| Somnolence | 6 | 3 |
+| General disorders and administration site conditions |  |  |
+| Fatigue | 9 | 7 |
+| Infections and infestations |  |  |
+| Influenza | 3 | 1 |
+
+Table 7 summarizes data for adverse reactions that appeared to be dose related in the 12-week fixed dose study.
+
+Table 7 Dose-Related Adverse Reactions in a 12-Week Double-Blind, Placebo-Controlled Fixed Dose Study in Restless Legs Syndrome (Occurring in >5% of all Patients in the Treatment Phase)
+
+| Body System/Adverse Reaction | Pramipexole Dihydrochloride Tablets 0.25 mg (N=88) % | Pramipexole Dihydrochloride Tablets 0.5 mg (N=80) % | Pramipexole Dihydrochloride Tablets 0.75 mg (N=90) % | Placebo (N=86) % |
+| --- | --- | --- | --- | --- |
+| Gastrointestinal disorders |  |  |  |  |
+| Nausea | 11 | 19 | 27 | 5 |
+| Diarrhea | 3 | 1 | 7 | 0 |
+| Dyspepsia | 3 | 1 | 4 | 7 |
+| Psychiatric disorders |  |  |  |  |
+| Insomnia | 9 | 9 | 13 | 9 |
+| Abnormal dreams | 2 | 1 | 8 | 2 |
+| General disorders and administration site conditions |  |  |  |  |
+| Fatigue | 3 | 5 | 7 | 5 |
+| Musculoskeletal and connective tissue disorders |  |  |  |  |
+| Pain in extremity | 3 | 3 | 7 | 1 |
+| Infections and infestations |  |  |  |  |
+| Influenza | 1 | 4 | 7 | 1 |
+| Respiratory, thoracic and mediastinal disorders |  |  |  |  |
+| Nasal congestion | 0 | 3 | 6 | 1 |
+
 Adverse Reactions: Relationship to Age, Gender, and Race
 
 Among the adverse reactions in patients treated with pramipexole dihydrochloride tablets, hallucination appeared to exhibit a positive relationship to age in patients with Parkinson's disease.
-Although no gender-related differences were observed in Parkinson's disease patients.
+Although no gender-related differences were observed in Parkinson's disease patients, nausea and fatigue, both generally transient, were more frequently reported by female than male RLS patients.
 Less than 4% of patients enrolled were non-Caucasian: therefore, an evaluation of adverse reactions related to race is not possible.
 
 Laboratory Tests
@@ -155,4 +208,15 @@ During the development of pramipexole dihydrochloride tablets, no systematic abn
 In addition to the adverse events reported during clinical trials, the following adverse reactions have been identified during post-approval use of pramipexole dihydrochloride tablets, primarily in Parkinson's disease patients.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to pramipexole tablets.
-Similar types of reactions were grouped into a smaller number of standardized categories using the MedDRA terminology: cardiac failure, inappropriate antidiuretic hormone secretion (SIADH), skin reactions (including erythema, rash, pruritus, urticaria), syncope, vomiting, and weight increase.
+
+Cardiac Disorders: cardiac failure
+
+Gastrointestinal Disorders: vomiting
+
+Metabolism and Nutrition Disorders: syndrome of inappropriate antidiuretic hormone secretion (SIADH), weight increase
+
+Musculoskeletal and Connective Tissue Disorders: postural deformity [see Warnings and Precautions (5.6)]
+
+Nervous System Disorders: syncope
+
+Skin and Subcutaneous Tissue Disorders: skin reactions (including erythema, rash, pruritus, urticaria)
