@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA203826"
+  ],
+  "inn": "phenylephrine",
+  "labeler": "West-Ward Pharmaceuticals Corp.",
+  "package_ndcs": [
+    "0641-6229-01",
+    "0641-6229-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "phenylephrine hydrochloride",
+      "name": "Phenylephrine Hydrochloride"
+    }
+  ],
+  "setid": "c3f358dd-4a36-4808-9943-e01f88604be5",
+  "source": "dailymed"
+}
