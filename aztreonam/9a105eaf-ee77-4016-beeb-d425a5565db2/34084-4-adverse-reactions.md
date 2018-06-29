@@ -21,7 +21,7 @@ Respiratory—wheezing, dyspnea, chest pain
 
 Hepatobiliary—hepatitis, jaundice
 
-Nervous System—seizure, confusion, vertigo, paresthesia, insomnia, dizziness.
+Nervous System—seizure, confusion, encephalopathy, vertigo, paresthesia, insomnia, dizziness.
 
 Musculoskeletal—muscular aches
 
