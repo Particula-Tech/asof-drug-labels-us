@@ -19,7 +19,7 @@ Platelet aggregation and bleeding time gradually return to baseline values after
 
 Geriatric Patients
 
-Elderly (≥ 75 years) and young healthy subjects had similar effects on platelet aggregation.
+Elderly (≥75 years) and young healthy subjects had similar effects on platelet aggregation.
 
 Renally Impaired Patients
 
@@ -54,7 +54,7 @@ Metabolism
 Clopidogrel is extensively metabolized by two main metabolic pathways: one mediated by esterases and leading to hydrolysis into an inactive carboxylic acid derivative (85% of circulating metabolites) and one mediated by multiple cytochrome P450 enzymes.
 Cytochromes first oxidize clopidogrel to a 2-oxo-clopidogrel intermediate metabolite.
 Subsequent metabolism of the 2-oxo-clopidogrel intermediate metabolite results in formation of the active metabolite, a thiol derivative of clopidogrel.
-The active metabolite is formed mostly by CYP2C19 with contributions from several other CYP enzymes, including, CYP1A2, CYP2B6 and CYP3A.
+The active metabolite is formed mostly by CYP2C19 with contributions from several other CYP enzymes, including CYP1A2, CYP2B6 and CYP3A.
 The active thiol metabolite binds rapidly and irreversibly to platelet receptors, thus inhibiting platelet aggregation for the lifespan of the platelet.
 
 The Cmax of the active metabolite is twice as high following a single 300 mg clopidogrel loading dose as it is after four days of 75 mg maintenance dose.
@@ -80,16 +80,21 @@ The effect of proton pump inhibitors (PPI) on the systemic exposure to the clopi
 
 Pharmacodynamic and pharmacokinetic parameters measured in these studies showed that the interaction was highest with omeprazole and least with dexlansoprazole.
 
+Opioids
+
+Coadministration of 5 mg intravenous morphine with 600 mg loading dose of clopidogrel in healthy adults decreased the AUC and Cmax of clopidogrel’s thiol metabolites by 34%.
+Mean platelet aggregation was higher up to 2 to 4 hours with morphine coadministration.
+
 Effect of clopidogrel on other drugs
 
 In vitro studies have shown that the glucuronide metabolite of clopidogrel is a strong inhibitor of CYP2C8.
-Concomitant administration of repaglinide with clopidogrel increased the systemic exposure to repaglinide (AUC0-∞) by 5.1-fold following the loading dose (300 mg) and by 3.9-fold on day 3 of the maintenance dose (75 mg) of clopidogrel [see DrugInteractions (7.5)].
+Concomitant administration of repaglinide with clopidogrel increased the systemic exposure to repaglinide (AUC0-∞) by 5.1-fold following the loading dose (300 mg) and by 3.9-fold on day 3 of the maintenance dose (75 mg) of clopidogrel [see Drug Interactions (7.6)].
 
 ## 12.5 Pharmacogenomics
 
 CYP2C19 is involved in the formation of both the active metabolite and the 2-oxo-clopidogrel intermediate metabolite.
 Clopidogrel active metabolite pharmacokinetics and antiplatelet effects, as measured by ex vivo platelet aggregation assays, differ according to CYP2C19 genotype.
-Patients who are homozygous for nonfunctional alleles of the CYP2C19 gene are termed “CYP2C19 poor metabolizers”.
+Patients who are homozygous for nonfunctional alleles of the CYP2C19 gene are termed “CYP2C19 poor metabolizers.”
 Approximately 2% of White and 4% of Black patients are poor metabolizers; the prevalence of poor metabolism is higher in Asian patients (e.g., 14% of Chinese).
 Tests are available to identify patients who are CYP2C19 poor metabolizers.
 

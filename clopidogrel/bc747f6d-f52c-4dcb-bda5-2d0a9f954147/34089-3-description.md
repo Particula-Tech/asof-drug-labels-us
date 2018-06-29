@@ -13,6 +13,6 @@ It is practically insoluble in water at neutral pH but freely soluble at pH 1.
 It also dissolves freely in methanol, dissolves sparingly in methylene chloride, and is practically insoluble in ethyl ether.
 It has a specific optical rotation of about +56°.
 
-Clopidogrel bisulfate, USP for oral administration is provided as light-pink to pink, debossed, film-coated, capsule shaped tablets containing 97.875 mg of clopidogrel bisulfate, USP which is the molar equivalent of 75 mg of clopidogrel base.
+Clopidogrel bisulfate, USP for oral administration is provided as light-pink to pink, debossed, film-coated, unscored, capsule shaped tablets containing 97.875 mg of clopidogrel bisulfate, USP which is the molar equivalent of 75 mg of clopidogrel base.
 
 Each tablet contains the following inactive ingredients: crospovidone, hydrogenated vegetable oil, hydroxypropyl cellulose, hypromellose, indigo carmine aluminum lake FD&C blue #2, iron oxide red, iron oxide yellow, lactose, lactose monohydrate, microcrystalline cellulose, polyethylene glycol, sodium lauryl sulfate, and titanium dioxide.

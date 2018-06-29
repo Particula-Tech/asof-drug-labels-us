@@ -1,8 +1,8 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Clopidogrel tablets USP are available as follows:
+Clopidogrel Tablets USP are available as follows:
 
-75 mg – light-pink to pink, film-coated, capsule shaped tablets debossed with “TV” on one side and “7314” on the other side, in bottles of 30, 90, and 500.
+75 mg – light-pink to pink, film-coated, unscored, capsule shaped tablets debossed with “TV” on one side and “7314” on the other side, in bottles of 30, 90, and 500.
 
 NDC 0093-7314-56 Bottle of 30
 

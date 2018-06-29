@@ -2,7 +2,7 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-There was no evidence of tumorigenicity when clopidogrel was administered for 78 weeks to mice and 104 weeks to rats at dosages up to 77 mg/kg per day, which afforded plasma exposures > 25 times that in humans at the recommended daily dose of 75 mg.
+There was no evidence of tumorigenicity when clopidogrel was administered for 78 weeks to mice and 104 weeks to rats at dosages up to 77 mg/kg per day, which afforded plasma exposures >25 times that in humans at the recommended daily dose of 75 mg.
 
 Clopidogrel was not genotoxic in four in vitro tests (Ames test, DNA-repair test in rat hepatocytes, gene mutation assay in Chinese hamster fibroblasts, and metaphase chromosome analysis of human lymphocytes) and in one in vivo test (micronucleus test by oral route in mice).
 

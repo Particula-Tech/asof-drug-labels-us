@@ -8,9 +8,9 @@ Bleeding
 
 Advise patients that they:
 
-- •will bruise and bleed more easily
-- •will take longer than usual to stop bleeding
-- •must report any unanticipated, prolonged, or excessive bleeding, or blood in their stool or urine [see Warnings and Precautions (5.2)].
+- will bruise and bleed more easily
+- will take longer than usual to stop bleeding
+- must report any unanticipated, prolonged, or excessive bleeding, or blood in their stool or urine [see Warnings and Precautions (5.2)].
 
 Thrombotic Thrombocytopenic Purpura
 
@@ -29,4 +29,4 @@ Manufactured In Israel By: Teva Pharmaceutical Ind.
 Ltd. Jerusalem, 9777402, Israel Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-J 11/2017
+K 6/2018

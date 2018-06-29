@@ -2,8 +2,8 @@
 
 The following serious adverse reactions are discussed below and elsewhere in the labeling:
 
-1. •Bleeding [see Warnings and Precautions (5.2)]
-2. •Thrombotic thrombocytopenic purpura [see Warnings and Precautions (5.4)]
+- Bleeding [see Warnings and Precautions (5.2)]
+- Thrombotic thrombocytopenic purpura [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -77,15 +77,15 @@ Because these reactions are reported voluntarily from a population of an unknown
 
 Hemorrhages, including those with fatal outcome, have been reported in patients treated with clopidogrel.
 
-- •Blood and lymphatic system disorders: Agranulocytosis, aplastic anemia/pancytopenia, thrombotic thrombocytopenic purpura (TTP), acquired hemophilia A
-- •Gastrointestinal disorders: Colitis (including ulcerative or lymphocytic colitis), pancreatitis, stomatitis, gastric/duodenal ulcer, diarrhea
-- •General disorders and administration site condition: Fever
-- •Hepatobiliary disorders: Acute liver failure, hepatitis (noninfectious), abnormal liver function test
-- •Immune system disorders: Hypersensitivity reactions, anaphylactoid reactions, serum sickness
-- •Musculoskeletal, connective tissue and bone disorders: Myalgia, arthralgia, arthritis
-- •Nervous system disorders: Taste disorders, headache, ageusia
-- •Psychiatric disorders: Confusion, hallucinations
-- •Respiratory, thoracic and mediastinal disorders: Bronchospasm, interstitial pneumonitis, eosinophilic pneumonia
-- •Renal and urinary disorders: Increased creatinine levels
-- •Skin and subcutaneous tissue disorders: Maculopapular, erythematous or exfoliative rash, urticaria, bullous dermatitis, eczema, toxic epidermal necrolysis, Stevens-Johnson syndrome, acute generalized exanthematous pustulosis (AGEP), angioedema, drug-induced hypersensitivity syndrome, drug rash with eosinophilia and systemic symptoms (DRESS), erythema multiforme, lichen planus, generalized pruritus
-- •Vascular disorders: Vasculitis, hypotension
+- Blood and lymphatic system disorders: Agranulocytosis, aplastic anemia/pancytopenia, thrombotic thrombocytopenic purpura (TTP), acquired hemophilia A
+- Gastrointestinal disorders: Colitis (including ulcerative or lymphocytic colitis), pancreatitis, stomatitis, gastric/duodenal ulcer, diarrhea
+- General disorders and administration site condition: Fever
+- Hepatobiliary disorders: Acute liver failure, hepatitis (noninfectious), abnormal liver function test
+- Immune system disorders: Hypersensitivity reactions, anaphylactoid reactions, serum sickness
+- Musculoskeletal, connective tissue and bone disorders: Myalgia, arthralgia, arthritis
+- Nervous system disorders: Taste disorders, headache, ageusia
+- Psychiatric disorders: Confusion, hallucinations
+- Respiratory, thoracic and mediastinal disorders: Bronchospasm, interstitial pneumonitis, eosinophilic pneumonia
+- Renal and urinary disorders: Increased creatinine levels
+- Skin and subcutaneous tissue disorders: Maculopapular, erythematous or exfoliative rash, urticaria, bullous dermatitis, eczema, toxic epidermal necrolysis, Stevens-Johnson syndrome, acute generalized exanthematous pustulosis (AGEP), angioedema, drug-induced hypersensitivity syndrome, drug rash with eosinophilia and systemic symptoms (DRESS), erythema multiforme, lichen planus, generalized pruritus
+- Vascular disorders: Vasculitis, hypotension
