@@ -1,5 +1,7 @@
 # 3DOSAGE FORMS AND STRENGTHS
 
+NEUPOGEN is a clear, colorless, preservative-free solution available as:
+
 Vial:
 
 - Injection: 300 mcg/mL in a single-dose vial

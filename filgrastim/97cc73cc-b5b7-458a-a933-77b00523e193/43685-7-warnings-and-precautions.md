@@ -22,7 +22,8 @@ NEUPOGEN is contraindicated in patients with a history of serious allergic react
 
 ## 5.4 Sickle Cell Disorders
 
-Sickle cell crisis, in some cases fatal, has been reported with the use of NEUPOGEN in patients with sickle cell trait or sickle cell disease.
+Severe and sometimes fatal sickle cell crises can occur in patients with sickle cell disorders receiving filgrastim products.
+Discontinue NEUPOGEN if sickle cell crisis occurs.
 
 ## 5.5 Glomerulonephritis
 
@@ -85,7 +86,7 @@ NEUPOGEN may be started at a reduced dose when the symptoms resolve and the ANC 
 ## 5.12 Potential Effect on Malignant Cells
 
 NEUPOGEN is a growth factor that primarily stimulates neutrophils.
-The granulocyte-colony-stimulating factor (G-CSF) receptor through which filgrastim acts has also been found on tumor cell lines.
+The granulocyte colony-stimulating factor (G-CSF) receptor through which filgrastim acts has also been found on tumor cell lines.
 The possibility that filgrastim acts as a growth factor for any tumor type cannot be excluded.
 The safety of filgrastim in chronic myeloid leukemia (CML) and myelodysplasia has not been established.
 
@@ -104,3 +105,11 @@ Avoid the simultaneous use of NEUPOGEN with chemotherapy and radiation therapy.
 
 Increased hematopoietic activity of the bone marrow in response to growth factor therapy has been associated with transient positive bone-imaging changes.
 This should be considered when interpreting bone-imaging results.
+
+## 5.15 Aortitis
+
+Aortitis has been reported in patients receiving NEUPOGEN.
+It may occur as early as the first week after start of therapy.
+Manifestations may include generalized signs and symptoms such as fever, abdominal pain, malaise, back pain, and increased inflammatory markers (e.g., c-reactive protein and white blood cell count).
+Consider aortitis in patients who develop these signs and symptoms without known etiology.
+Discontinue NEUPOGEN if aortitis is suspected.

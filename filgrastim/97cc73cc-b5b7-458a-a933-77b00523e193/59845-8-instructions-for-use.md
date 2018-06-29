@@ -267,7 +267,8 @@ On a clean, well-lit work surface, place the:
 - 2 alcohol wipes
 - Cotton ball or gauze pad
 - Adhesive bandage
-- Sharps disposal container
+
+Sharps disposal container
 
 - Only use the disposable syringes and needles that your healthcare provider prescribes.
 - Only use the syringes and needles 1 time.

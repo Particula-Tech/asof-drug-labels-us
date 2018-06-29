@@ -21,8 +21,11 @@ Advise patients of the following risks and potential risks with NEUPOGEN:
   Advise patients to report signs or symptoms of glomerulonephritis to their physician immediately [see Warnings and Precautions (5.5)].
 - Cutaneous vasculitis may occur, which may be signaled by purpura or erythema.
   Advise patients to report signs or symptoms of vasculitis to their physician immediately [see Warnings and Precautions (5.11)].
-- Advise females of reproductive potential that NEUPOGEN should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus [see Use in Specific Populations (8.1)].
-- Advise patients acutely exposed to myelosuppressive doses of radiation (Hematopoietic Syndrome of Acute Radiation Syndrome) that efficacy studies of NEUPOGEN for this indication could not be conducted in humans for ethical and feasibility reasons and that, therefore, approval of this use was based on efficacy studies conducted in animals [see Clinical Studies (14.6)].
+- Aortitis may occur.
+  Symptoms may include fever, abdominal pain, malaise, back pain, and increased inflammatory markers.
+  Advise patients to report signs and symptoms of aortitis to their physician immediately [see Warnings and Precautions (5.15)].
+
+Advise patients acutely exposed to myelosuppressive doses of radiation (Hematopoietic Syndrome of Acute Radiation Syndrome) that efficacy studies of NEUPOGEN for this indication could not be conducted in humans for ethical and feasibility reasons and that, therefore, approval of this use was based on efficacy studies conducted in animals [see Clinical Studies (14.6)].
 
 Instruct patients who self-administer NEUPOGEN using the prefilled syringe or single-dose vial of the:
 
@@ -40,10 +43,10 @@ Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, California 913
 
 Patent: http://pat.amgen.com/neupogen/
 
-© 1991-2016 Amgen Inc. All rights reserved.
+© 1991-2018 Amgen Inc. All rights reserved.
 
 www.NEUPOGEN.com 1-800-77-AMGEN (1-800-772-6436)
 
 1xxxxxx
 
-v30
+v31

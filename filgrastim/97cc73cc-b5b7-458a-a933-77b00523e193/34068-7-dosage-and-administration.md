@@ -26,11 +26,11 @@ Recommended Dosage Adjustments During Neutrophil Recovery in Patients with Cance
 
 | Absolute Neutrophil Count | NEUPOGEN Dosage Adjustment |
 | --- | --- |
-| When ANC greater than 1000/mm3 for 3 consecutive days | Reduce to 5 mcg/kg/daya |
-| Then, if ANC remains greater than 1000/mm3 for 3 more consecutive days | Discontinue NEUPOGEN |
-| Then, if ANC decreases to less than 1000/mm3 | Resume at 5 mcg/kg/day |
+| When ANC greater than 1,000/mm3 for 3 consecutive days | Reduce to 5 mcg/kg/daya |
+| Then, if ANC remains greater than 1,000/mm3 for 3 more consecutive days | Discontinue NEUPOGEN |
+| Then, if ANC decreases to less than 1,000/mm3 | Resume at 5 mcg/kg/day |
 
-a If ANC decreases to less than 1000/mm3 at any time during the 5 mcg/kg/day administration‚ increase NEUPOGEN to 10 mcg/kg/day‚ and then follow the above steps.
+a If ANC decreases to less than 1,000/mm3 at any time during the 5 mcg/kg/day administration‚ increase NEUPOGEN to 10 mcg/kg/day‚ and then follow the above steps.
 
 ## 2.3 Dosage in Patients Undergoing Autologous Peripheral Blood Progenitor Cell Collection and Therapy
 
@@ -76,7 +76,7 @@ Continue administration of NEUPOGEN until the ANC remains greater than 1,000/mm3
 NEUPOGEN is supplied in single-dose vials (for subcutaneous use or intravenous infusion) and single-dose prefilled syringes (for subcutaneous use) [see Dosage Forms and Strengths (3)].
 Prior to use‚ remove the vial or prefilled syringe from the refrigerator and allow NEUPOGEN to reach room temperature for a minimum of 30 minutes and a maximum of 24 hours.
 Discard any vial or prefilled syringe left at room temperature for greater than 24 hours.
-Visually inspect NEUPOGEN for particulate matter and discoloration prior to administration (the solution is clear and colorless).
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit (the solution is clear and colorless).
 Do not administer NEUPOGEN if particulates or discoloration are observed.
 
 Discard unused portion of NEUPOGEN in vials or prefilled syringes; do not re-enter the vial.
@@ -87,7 +87,7 @@ Subcutaneous Injection
 Inject NEUPOGEN subcutaneously in the outer area of upper arms, abdomen, thighs, or upper outer areas of the buttock.
 If patients or caregivers are to administer NEUPOGEN, instruct them in appropriate injection technique and ask them to follow the subcutaneous injection procedures in the Instructions for Use for the vial or prefilled syringe [see Patient Counseling Information (17)].
 
-Training by the healthcare provider should aim to demonstrate to those patients and caregivers how to measure the dose of NEUPOGEN, and the focus should be on ensuring that a patient or caregiver can successfully perform all of the steps in the Instructions for Use for the vial or prefilled syringe.
+Training by the healthcare provider should aim to demonstrate to those patients and caregivers how to measure the dose of NEUPOGEN, and the focus should be on ensuring that a patient or caregiver can successfully perform all the steps in the Instructions for Use for the vial or prefilled syringe.
 If a patient or caregiver is not able to demonstrate that they can measure the dose and administer the product successfully, you should consider whether the patient is an appropriate candidate for self-administration of NEUPOGEN or whether the patient would benefit from a different NEUPOGEN presentation.
 If a patient or caregiver experiences difficulty measuring the required dose, especially if it is other than the entire contents of the NEUPOGEN prefilled syringe, use of the NEUPOGEN vial may be considered.
 
@@ -105,4 +105,4 @@ When diluted in 5% Dextrose Injection, USP or 5% Dextrose plus Albumin (Human)�
 Do not dilute with saline at any time because the product may precipitate.
 
 Diluted NEUPOGEN solution can be stored at room temperature for up to 24 hours.
-This 24 hour time period includes the time during room temperature storage of the infusion solution and the duration of the infusion.
+This 24-hour time period includes the time during room temperature storage of the infusion solution and the duration of the infusion.

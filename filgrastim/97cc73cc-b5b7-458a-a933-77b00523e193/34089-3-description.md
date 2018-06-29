@@ -1,10 +1,10 @@
 # 11 DESCRIPTION
 
-NEUPOGEN (filgrastim) is a 175 amino acid human granulocyte colony-stimulating factor (G-CSF) manufactured by recombinant DNA technology.
-NEUPOGEN is produced by Escherichia coli (E coli) bacteria into which has been inserted the human granulocyte colony-stimulating factor gene.
-NEUPOGEN has a molecular weight of 18‚800 daltons.
+Filgrastim is a 175 amino acid human granulocyte colony-stimulating factor (G-CSF) manufactured by recombinant DNA technology.
+Filgrastim is produced by Escherichia coli (E coli) bacteria into which has been inserted the human granulocyte colony-stimulating factor gene.
+Filgrastim has a molecular weight of 18‚800 daltons.
 The protein has an amino acid sequence that is identical to the natural sequence predicted from human DNA sequence analysis‚ except for the addition of an N-terminal methionine necessary for expression in E coli.
-Because NEUPOGEN is produced in E coli‚ the product is non-glycosylated and thus differs from G-CSF isolated from a human cell.
+Because filgrastim is produced in E coli‚ the product is non-glycosylated and thus differs from G-CSF isolated from a human cell.
 
 NEUPOGEN injection is a sterile‚ clear‚ colorless‚ preservative-free liquid containing filgrastim at a specific activity of 1.0 ± 0.6 x 108 U/mg (as measured by a cell mitogenesis assay).
 The product is available in single-dose vials and prefilled syringes.

@@ -2,32 +2,53 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
+Risk Summary
 
-There are no adequate and well-controlled studies in pregnant women.
-The potential risk to the fetus is unknown.
+Available data from published studies, including several observational studies of pregnancy outcomes in women exposed to filgrastim products and those who were unexposed, have not established an association with NEUPOGEN use during pregnancy and major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data).
 Reports in the scientific literature have described transplacental passage of NEUPOGEN in pregnant women when administered ≤ 30 hours prior to preterm delivery (≤ 30 weeks gestation).
-NEUPOGEN should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+In animal reproduction studies, effects of filgrastim on prenatal development have been studied in rats and rabbits.
+No malformations were observed in either species.
+No maternal or fetal effects were observed in pregnant rats at doses up to 58 times the human doses.
+Filgrastim has been shown to have adverse effects in pregnant rabbits at doses 2 to 10 times higher than the human doses (see Data).
+
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risks of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15- 20%, respectively.
+
+Data
+
+Human Data
+
+Several observational studies based on the Severe Chronic Neutropenia International Registry (SCNIR) described pregnancy outcomes in women with severe chronic neutropenia (SCN) who were exposed to filgrastim products during pregnancy and women with SCN who were unexposed.
+No major differences were seen between treated and untreated women with respect to pregnancy outcome (including miscarriage and preterm labor), newborn complications (including birth weight), and infections.
+Methodological limitations of these studies include small sample size and lack of generalizability due to the underlying maternal condition.
+
+Animal Data
 
 Effects of filgrastim on prenatal development have been studied in rats and rabbits.
 No malformations were observed in either species.
 Filgrastim has been shown to have adverse effects in pregnant rabbits at doses 2 to 10 times higher than the human doses.
 In pregnant rabbits showing signs of maternal toxicity, reduced embryo-fetal survival (at 20 and 80 mcg/kg/day) and increased abortions (at 80 mcg/kg/day) were observed.
-In pregnant rats, no maternal or fetal effects were observed at doses up to 575 mcg/kg/day.
+In pregnant rats, no maternal or fetal effects were observed at doses up to 575 mcg/kg/day, which is approximately 58 times higher than the human dose of 10 mcg/kg/day.
 
 Offspring of rats administered filgrastim during the peri-natal and lactation periods exhibited a delay in external differentiation and growth retardation (≥ 20 mcg/kg/day) and slightly reduced survival rate (100 mcg/kg/day).
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-It is not known whether NEUPOGEN is excreted in human milk.
-Because many drugs are excreted in human milk‚ caution should be exercised if NEUPOGEN is administered to women who are breastfeeding.
+Risk Summary
+
+There is published literature documenting transfer of filgrastim into human milk.
+There are a few case reports describing the use of filgrastim in breastfeeding mothers with no adverse effects noted in the infants.
+There are no data on the effects of filgrastim on milk production.
+Other filgrastim products are secreted poorly into breast milk, and filgrastim products are not absorbed orally by neonates.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for NEUPOGEN and any potential adverse effects on the breastfed child from NEUPOGEN or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
 In patients with cancer receiving myelosuppressive chemotherapy‚ 15 pediatric patients median age 2.6 (range 1.2 to 9.4) years with neuroblastoma were treated with myelosuppressive chemotherapy (cyclophosphamide‚ cisplatin‚ doxorubicin‚ and etoposide) followed by subcutaneous NEUPOGEN at doses of 5, 10, or 15 mcg/kg/day for 10 days (n = 5/dose) (Study 8).
 The pharmacokinetics of NEUPOGEN in pediatric patients after chemotherapy are similar to those in adults receiving the same weight-normalized doses, suggesting no age-related differences in the pharmacokinetics of NEUPOGEN.
 In this population‚ NEUPOGEN was well tolerated.
-There was one report of palpable splenomegaly and one report of hepatosplenomegaly associated with NEUPOGEN therapy; however‚ the only consistently reported adverse event was musculoskeletal pain‚ which is no different from the experience in the adult population.
+There was one report of palpable splenomegaly and one report of hepatosplenomegaly associated with NEUPOGEN therapy; however, the only consistently reported adverse event was musculoskeletal pain‚ which is no different from the experience in the adult population.
 
 The safety and effectiveness of NEUPOGEN have been established in pediatric patients with SCN [see Clinical Studies (14.5)].
 In a phase 3 study (Study 7) to assess the safety and efficacy of NEUPOGEN in the treatment of SCN, 123 patients with a median age of 12 years (range 7 months to 76 years) were studied.
