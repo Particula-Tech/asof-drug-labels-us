@@ -5,7 +5,7 @@ The following serious adverse reactions are discussed below and elsewhere in the
 - Bleeding [see Warnings and Precautions (5.2)]
 - Thrombotic thrombocytopenic purpura [see Warnings and Precautions (5.4)]
 
-## 6.1 Clinical Studies Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions and durations of follow up, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -52,7 +52,7 @@ In COMMIT, similar rates of major bleeding were observed in the clopidogrel and 
 
 Table 2: Incidence of Bleeding Events in COMMIT (% patients)
 
-| Type of bleeding | Clopidogrel(+ aspirin) | Placebo(+ aspirin) | P-value |
+| Type of Bleeding | Clopidogrel(+ aspirin) | Placebo(+ aspirin) | P-value |
 | --- | --- | --- | --- |
 |  | (N=22961) | (N=22891) |  |
 | Major* noncerebral or cerebral bleeding | 0.6 | 0.5 | 0.59 |
@@ -67,7 +67,7 @@ Table 2: Incidence of Bleeding Events in COMMIT (% patients)
 
 CAPRIE (Clopidogrel vs. Aspirin)
 
-In CAPRIE, gastrointestinal hemorrhage occurred at a rate of 2 % in those taking clopidogrel vs. 2.7% in those taking aspirin; bleeding requiring hospitalization occurred in 0.7% and 1.1%, respectively.
+In CAPRIE, gastrointestinal hemorrhage occurred at a rate of 2 % in those taking clopidogrel versus 2.7% in those taking aspirin; bleeding requiring hospitalization occurred in 0.7% and 1.1%, respectively.
 The incidence of intracranial hemorrhage was 0.4% for clopidogrel compared to 0.5% for aspirin.
 
 Other bleeding events that were reported more frequently in the clopidogrel group were epistaxis and hematoma.
@@ -81,16 +81,16 @@ No other difference in the rate of adverse events (other than bleeding) was repo
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of clopidogrel.
+The following adverse reactions have been identified during postapproval use of clopidogrel.
 Because these reactions are reported voluntarily from a population of an unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 - Blood and lymphatic system disorders: Agranulocytosis, aplastic anemia/pancytopenia, thrombotic thrombocytopenic purpura (TTP)), acquired hemophilia A
 - Gastrointestinal disorders: Colitis (including ulcerative or lymphocytic colitis), pancreatitis, stomatitis,gastric/duodenal ulcer, diarrhea
 - General disorders and administration site condition: Fever
-- Hepato-biliary disorders: Acute liver failure, hepatitis (non-infectious), abnormal liver function test
+- Hepatobiliary disorders: Acute liver failure, hepatitis (noninfectious), abnormal liver function test
 - Immune system disorders: Hypersensitivity reactions, anaphylactoid reactions, serum sickness
 - Musculoskeletal, connective tissue and bone disorders: Myalgia, arthralgia, arthritis
-- Nervous system disorders: Taste disorders, headache
+- Nervous system disorders: Taste disorders, headache, ageusia
 - Psychiatric disorders: Confusion, hallucinations
 - Respiratory, thoracic and mediastinal disorders: Bronchospasm, interstitial pneumonitis, eosinophilic pneumonia
 - Renal and urinary disorders: Increased creatinine levels

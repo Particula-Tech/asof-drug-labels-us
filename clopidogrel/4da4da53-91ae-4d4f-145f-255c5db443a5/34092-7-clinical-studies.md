@@ -25,7 +25,7 @@ Table 4: Outcome Events in the CURE Primary Analysis
 
 * Other standard therapies were used as appropriate.
 
-† The individual components do not represent a breakdown of the primary and co-primary outcomes, but rather the total number of subjects experiencing an event during the course of the study.
+† The individual components do not represent a breakdown of the primary and coprimary outcomes, but rather the total number of subjects experiencing an event during the course of the study.
 
 Most of the benefit of clopidogrel occurred in the first two months, but the difference from placebo was maintained throughout the course of the trial (up to 12 months) (see Figure 2).
 
@@ -34,7 +34,7 @@ Figure 2: Cardiovascular Death, Myocardial Infarction, and Stroke in the CURE St
 The effect of clopidogrel did not differ significantly in various subgroups, as shown in Figure 3.
 The benefits associated with clopidogrel were independent of the use of other acute and long-term cardiovascular therapies, including heparin/LMWH, intravenous glycoprotein IIb/IIIa (GPIIb/IIIa) inhibitors, lipid-lowering drugs, beta-blockers, and ACE-inhibitors.
 The efficacy of clopidogrel was observed independently of the dose of aspirin (75 to 325 mg once daily).
-The use of oral anticoagulants, non-study antiplatelet drugs, and chronic NSAIDs was not allowed in CURE.
+The use of oral anticoagulants, nonstudy antiplatelet drugs, and chronic NSAIDs was not allowed in CURE.
 
 Figure 3: Hazard Ratio for Patient Baseline Characteristics and On-Study Concomitant Medications/Interventions for the CURE Study
 
@@ -61,11 +61,11 @@ Table 5: Outcome Events in the COMMIT
 | Event | Clopidogrel (+ aspirin) (N=22961) | Placebo (+ aspirin) (N=22891) | Odds ratio (95% CI) | p-value |
 | --- | --- | --- | --- | --- |
 | Composite endpoint: Death, MI, or Stroke* | 2121 (9.2%) | 2310 (10.1%) | 0.91 (0.86, 0.97) | 0.002 |
-| Death Non-fatal MI** Non-fatal Stroke** | 1726 (7.5%) 270 (1.2%) 127 (0.6%) | 1845 (8.1%) 330 (1.4%) 142 (0.6%) | 0.93 (0.87, 0.99) 0.81 (0.69, 0.95) 0.89 (0.70, 1.13) | 0.029 0.011 0.33 |
+| Death Non-fatal MI† Non-fatal Stroke† | 1726 (7.5%) 270 (1.2%) 127 (0.6%) | 1845 (8.1%) 330 (1.4%) 142 (0.6%) | 0.93 (0.87, 0.99) 0.81 (0.69, 0.95) 0.89 (0.70, 1.13) | 0.029 0.011 0.33 |
 
 * 9 patients (2 clopidogrel and 7 placebo) suffered both a non-fatal stroke and a non-fatal MI.
 
-** Non-fatal MI and non-fatal stroke exclude patients who died (of any cause).
+† Non-fatal MI and non-fatal stroke exclude patients who died (of any cause).
 
 Figure 4: Cumulative Event Rates for Death in the COMMIT Study *
 
@@ -108,7 +108,7 @@ In patients who survived an on-study stroke or myocardial infarction, the incide
 The curves showing the overall event rate are shown in Figure 8.
 The event curves separated early and continued to diverge over the 3-year follow-up period.
 
-Figure 7: Fatal or Non-Fatal Vascular Events in the CAPRIE Study
+Figure 7: Fatal or Nonfatal Vascular Events in the CAPRIE Study
 
 The statistical significance favoring clopidogrel over aspirin was marginal (p=0.045).
 However, because aspirin is itself effective in reducing cardiovascular events in patients with recent myocardial infarction or stroke, the effect of clopidogrel is substantial.
