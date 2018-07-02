@@ -36,48 +36,6 @@ Hospira
 
 ◀ PRESS AND PULL TO OPEN ▶
 
-# PRINCIPAL DISPLAY PANEL - 0.1 mg/mL Syringe Label
-
-ATROPINE SULFATE 0.1 mg/mL
-
-5 mL Single-dose NDC 0409-9629-05
-
-ATROPINE SULFATE Inj., USP 0.5 mg (0.1 mg/mL) Rx only
-
-Hospira
-
-For I.V., I.M. or S.C. use.
-See insert for dosage.
-Sterile, nonpyrogenic.
-
-Hospira, Inc., Lake Forest, IL 60045 USA
-
-RL-0164 (5/04)
-
-# PRINCIPAL DISPLAY PANEL - 0.1 mg/mL Syringe Carton
-
-NDC 0409-9629-05
-
-5 mL
-
-Atropine Sulfate Injection, USP
-
-0.5 mg (0.1 mg/mL)
-
-Ansyr™
-
-Unit of Use Syringe
-
-LifeShield™
-
-with male luer lock adapter
-
-Rx only
-
-Hospira
-
-◀ PUSH AND PULL TO OPEN ▶
-
 # PRINCIPAL DISPLAY PANEL - 0.05 mg/mL Syringe Label
 
 Atropine Sulfate 0.25 mg/5 mL (0.05 mg/mL)
