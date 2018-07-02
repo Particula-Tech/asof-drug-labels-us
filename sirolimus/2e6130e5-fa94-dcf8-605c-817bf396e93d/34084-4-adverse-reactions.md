@@ -13,7 +13,7 @@ The following adverse reactions are discussed in greater detail in other section
 - Decline in renal function in long-term combination of cyclosporine with sirolimus [see Warnings and Precautions (5.8)]
 - Proteinuria [see Warnings and Precautions (5.9)]
 - Interstitial lung disease [see Warnings and Precautions (5.11)]
-- Increased risk of calcineurin inhibitor-induced (HUS/TTP/TMA) [see Warnings and Precautions (5.13)].
+- Increased risk of calcineurin inhibitor-induced HUS/TTP/TMA [see Warnings and Precautions (5.13)].
 
 The most common (≥ 30%) adverse reactions observed with sirolimus in clinical studies for organ rejection prophylaxis in recipients of renal transplantation are: peripheral edema, hypertriglyceridemia, hypertension, hypercholesterolemia, creatinine increased, constipation, abdominal pain, diarrhea, headache, fever, urinary tract infection, anemia, nausea, arthralgia, pain, and thrombocytopenia.
 
@@ -139,7 +139,7 @@ In addition, more patients in the sirolimus with cyclosporine group had a pretra
 
 TABLE 3: INCIDENCE (%) OF MALIGNANCIES IN STUDY 3 (CYCLOSPORINE WITHDRAWAL STUDY) AT 36 MONTHS POST-TRANSPLANTa,b
 
-|  | Nonrandomized (n = 95) | Sirolimus with CyclosporineTherapy (n = 215) | Sirolimus Following Cyclosporine Withdrawal (n = 215) |
+| Malignancy | Nonrandomized (n = 95) | Sirolimus with CyclosporineTherapy (n = 215) | Sirolimus Following Cyclosporine Withdrawal (n = 215) |
 | --- | --- | --- | --- |
 | Lymphoma/ lymphoproliferative disease | 1.1 | 1.4 | 0.5 |
 | Skin Carcinoma |  |  |  |
@@ -169,11 +169,14 @@ In a study evaluating the safety and efficacy of conversion from calcineurin inh
 There was a higher rate of serious adverse events, including pneumonia, acute rejection, graft loss and death, in this stratum of the sirolimus treatment arm.
 
 The subset of patients with a baseline glomerular filtration rate of less than 40 mL/min had 2 years of follow-up after randomization.
-In this population, the rate of pneumonia was 25.9% (15/58) versus 13.8% (4/29), graft loss (excluding death with functioning graft loss) was 22.4% (13/58) versus 31% (9/29) and death was 15.5% (9/58) versus 3.4% (1/29) in the sirolimus conversion group and CNI continuation group, respectively.
+In this population, the rate of pneumonia was 25.9% (15/58) versus 13.8% (4/29), graft loss (excluding death with functioning graft loss) was 22.4% (13/58) versus 31% (9/29), and death was 15.5% (9/58) versus 3.4% (1/29) in the sirolimus conversion group and CNI continuation group, respectively.
 
 In the subset of patients with a baseline glomerular filtration rate of greater than 40 mL/min, there was no benefit associated with conversion with regard to improvement in renal function and a greater incidence of proteinuria in the sirolimus conversion arm.
 
 Overall in this study, a 5-fold increase in the reports of tuberculosis among sirolimus 2% (11/551) and comparator 0.4% (1/273) treatment groups was observed with 2:1 randomization scheme.
+
+In a second study evaluating the safety and efficacy of conversion from tacrolimus to sirolimus 3 to 5 months post kidney transplant, a higher rate of adverse events, discontinuations due to adverse events, acute rejection, and new onset diabetes mellitus was observed following conversion to sirolimus.
+There was also no benefit with respect to renal function and a greater incidence of proteinuria was observed after conversion to sirolimus [(see Clinical Studies (14.4)].
 
 ## 6.5 Pediatric Renal Transplant Patients
 
@@ -186,8 +189,8 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 - Body as a Whole— Lymphedema.
-- Cardiovascular— Pericardial effusion (including hemodynamically significant effusions and tamponade requiring intervention in children and adults) and accumulation.
-- Digestive System: Ascites
+- Cardiovascular— Pericardial effusion (including hemodynamically significant effusions and tamponade requiring intervention in children and adults) and fluid accumulation.
+- Digestive System - Ascites
 - Hematological/Lymphatic— Pancytopenia, neutropenia.
 - Hepatobiliary Disorders— Hepatotoxicity, including fatal hepatic necrosis, with elevated sirolimus trough concentrations.
 - Immune System— Hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, angioedema, and hypersensitivity vasculitis [see Warnings and Precautions (5.4)].
@@ -195,7 +198,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
   BK virus associated nephropathy has been observed in patients receiving immunosuppressants, including sirolimus.
   This infection may be associated with serious outcomes, including deteriorating renal function and renal graft loss.
   Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal, have been reported in patients treated with immunosuppressants, including sirolimus [see Warnings and Precautions (5.10)].
-  Colstridium difficile enterocolitis.
+  Clsotridium difficile enterocolitis.
 - Metabolic/Nutritional— Liver function test abnormal, AST/SGOT increased, ALT/SGPT increased, hypophosphatemia, hyperglycemia, diabetes mellitus.
 - Nervous system -Posterior reversible encephalopathy syndrome.
 - Respiratory— Cases of interstitial lung disease (including pneumonitis, bronchiolitis obliterans organizing pneumonia [BOOP], and pulmonary fibrosis), some fatal, with no identified infectious etiology have occurred in patients receiving immunosuppressive regimens including sirolimus.

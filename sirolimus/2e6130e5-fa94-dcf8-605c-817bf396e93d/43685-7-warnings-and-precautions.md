@@ -133,7 +133,7 @@ In animal studies, mTOR inhibitors caused embryo-fetal toxicity when administere
 Advise pregnant women of the potential risk to a fetus.
 Advise women of childbearing potential to avoid becoming pregnant and to use effective contraception while using sirolimus and for 12 weeks after ending treatment [see Use in Specific Populations (8.1)].
 
-## 5.16 Different Sirolimus Trough Concentrations Reported between Chromatographic and Immunoassay Methodologies
+## 5.16 Different Sirolimus Trough Concentration Reported between Chromatographic and Immunoassay Methodologies
 
 Currently in clinical practice, sirolimus whole blood concentrations are being measured by various chromatographic and immunoassay methodologies.
 Patient sample concentration values from different assays may not be interchangeable [see Dosage and Administration (2.5)].

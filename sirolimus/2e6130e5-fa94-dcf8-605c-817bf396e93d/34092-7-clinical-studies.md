@@ -224,7 +224,7 @@ Fifty-two percent (112/215) of the patients in the sirolimus with cyclosporine w
 
 Sirolimus was studied in a one-year, clinical trial in high risk patients (Study 4) who were defined as Black transplant recipients and/or repeat renal transplant recipients who lost a previous allograft for immunologic reasons and/or patients with high panel-reactive antibodies (PRA; peak PRA level > 80%).
 Patients received concentration-controlled sirolimus and cyclosporine (MODIFIED), and corticosteroids per local practice.
-The sirolimus dose was adjusted to achieve target whole blood trough sirolimus concentrations of 10 to 15 ng/mL (chromatographic method) throughout the 12-month study period.
+The sirolimus dose was adjusted to achieve target whole blood trough sirolimus concentrations of 10 to 15 ng/mL (chromatographic method) throughout the 12 month study period.
 The cyclosporine dose was adjusted to achieve target whole blood trough concentrations of 200 to 300 ng/mL through week 2, 150 to 200 ng/mL from week 2 to week 26, and 100 to 150 ng/mL from week 26 to week 52 [see Clinical Pharmacology (12.3)] for the observed trough concentrations ranges.
 Antibody induction was allowed per protocol as prospectively defined at each transplant center, and was used in 88.4% of patients.
 The study was conducted at 35 centers in the United States.
@@ -290,6 +290,14 @@ TABLE 18: MEAN AND MEDIAN VALUES FOR URINARY PROTEIN TO CREATININE RATIO (mg/mg)
 
 The above information should be taken into account when considering conversion from calcineurin inhibitors to sirolimus in stable renal transplant patients due to the lack of evidence showing that renal function improves following conversion, and the finding of a greater increment in urinary protein excretion, and an increased incidence of treatment-emergent nephrotic range proteinuria following conversion to sirolimus.
 This was particularly true among patients with existing abnormal urinary protein excretion prior to conversion.
+
+In an open-label, randomized, comparative, multicenter study where kidney transplant patients were either converted from tacrolimus to sirolimus 3 to 5 months post-transplant (sirolimus group) or remained on tacrolimus, there was no significant difference in renal function at 2 years post-transplant.
+Overall, 44/131 (33.6%) discontinued treatment in the sirolimus group versus 12/123 (9.8%) in the tacrolimus group.
+More patients reported adverse events 130/131 (99.2%) versus 112/123 (91.1%) and more patients reported discontinuations from the treatment due to adverse events 28/131 (21.4%) versus 4/123 (3.3%) in the sirolimus group compared to the tacrolimus group.
+
+The incidence of biopsy-confirmed acute rejection was higher for patients in the sirolimus group 11/131 (8.4%) compared to the tacrolimus group 2/123 (1.6%) through 2 years post-transplant.
+The rate of new-onset diabetes mellitus post-randomization, defined as 30 days or longer of continuous or at least 25 days non-stop (without gap) use of any diabetic treatment after randomization, a fasting glucose ≥126 mg/dL or a non-fasting glucose ≥200 mg/dL, was higher in the sirolimus group 15/82 (18.3%) compared to the tacrolimus group 4/72 (5.6%).
+A greater incidence of proteinuria, was seen in the sirolimus group 19/131 (14.5%) versus 2/123 (1.6%) in the tacrolimus group.
 
 ## 14.5 Conversion from a CNI-based Regimen to a Sirolimus-based Regimen in LiverTransplant Patients
 

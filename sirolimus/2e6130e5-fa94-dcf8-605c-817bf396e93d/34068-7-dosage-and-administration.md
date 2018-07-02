@@ -60,7 +60,7 @@ When used in combination with cyclosporine, sirolimus trough concentrations shou
 Following cyclosporine withdrawal in transplant patients at low- to moderate-immunologic risk, the target sirolimus trough concentrations should be 16 to 24 ng/mL for the first year following transplantation.
 Thereafter, the target sirolimus concentrations should be 12 to 20 ng/mL.
 
-The above recommended 24-hour trough concentration ranges for sirolimus are based on chromatographic methods.
+The above recommended 24 hour trough concentration ranges for sirolimus are based on chromatographic methods.
 Currently in clinical practice, sirolimus whole blood concentrations are being measured by both chromatographic and immunoassay methodologies.
 Because the measured sirolimus whole blood concentrations depend on the type of assay used, the concentrations obtained by these different methodologies are not interchangeable [see Warnings and Precautions (5.16), Clinical Pharmacology (12.3)].
 Adjustments to the targeted range should be made according to the assay utilized to determine sirolimus trough concentrations.

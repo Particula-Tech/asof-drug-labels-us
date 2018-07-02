@@ -5,4 +5,4 @@ In general, the adverse effects of overdose are consistent with those listed in 
 
 General supportive measures should be followed in all cases of overdose.
 Based on the low aqueous solubility and high erythrocyte and plasma protein binding of sirolimus, it is anticipated that sirolimus is not dialyzable to any significant extent.
-In mice and rats, the acute oral LD50was greater than 800 mg/kg.
+In mice and rats, the acute oral LD50 was greater than 800 mg/kg.

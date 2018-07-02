@@ -46,8 +46,6 @@ See the end of this leaflet for a complete list of ingredients in sirolimus tabl
 
 What should I tell my doctor before taking sirolimus?
 
-Before taking sirolimus, tell your doctor if you:
-
 - have liver problems
 - have skin cancer or it runs in your family
 - have high cholesterol or triglycerides (fat in your blood)
@@ -142,7 +140,7 @@ Sirolimus may cause serious side effects, including:
     Call your doctor right away if you notice any new or worsening medical problems such as:
     - confusion
     - sudden change in thinking, walking, strength on one side of your body
-    - other problems that have lasted over several days.
+    - other problems that have lasted over several days
 - Lung or breathing problems.
   This can sometimes lead to death.
   Tell your doctor if you have a new or worsening cough, shortness of breath, difficulty breathing or any new breathing problems.
@@ -180,7 +178,7 @@ Sirolimus tablets:
 
 Safely throw away medicine that is out of date or no longer needed.
 
-Keep sirolimus and all medicines out of the reach of children.
+Keep sirolimus tablets and all medicines out of the reach of children.
 
 General Information about the safe and effective use of sirolimus
 
@@ -197,7 +195,9 @@ For more information, call 1-888-375-3784.
 
 What are the ingredients in sirolimus tablets?
 
-Inactive ingredients: Sirolimus Tablets: The inactive ingredients in sirolimus tablets include: carnauba wax, ethyl cellulose, hydroxypropyl methylcellulose 5 cps, lactose monohydrate, magnesium stearate, mannitol, microcrystalline cellulose (avicel pH 105), microcrystalline cellulose (avicel pH 200), poloxamer 188, polyethylene glycol 20000, polyethylene glycol 8000, sucrose, titanium dioxide, vitamin E preparation, seal coating agent opaglos clear NA 7150, and imprinting ink opacode red (S-1-15052).
+Inactive ingredients: Sirolimus
+
+The inactive ingredients: Sirolimus Tablets: carnauba wax, ethyl cellulose, hydroxypropyl methylcellulose 5 cps, lactose monohydrate, magnesium stearate, mannitol, microcrystalline cellulose (avicel pH 105), microcrystalline cellulose (avicel pH 200), poloxamer 188, polyethylene glycol 20000, polyethylene glycol 8000, sucrose, titanium dioxide, vitamin E preparation, seal coating agent opaglos clear NA 7150, and imprinting ink opacode red (S-1-15052).
 The 2 mg dosage strength also contains iron oxide red and iron oxide yellow.
 
 Seal coating agent opaglos clear NA 7150 contains, acetylated monoglyceride, industrial methylated spirit 74 OP, povidone, and shellac.
@@ -214,7 +214,7 @@ Dr. Reddy’s Laboratories Limited
 
 Visakhapatnam – 530 046 INDIA
 
-Revised: 0218
+Revised: 0618
 
 Dispense with Medication Guide available at:
 

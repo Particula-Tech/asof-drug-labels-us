@@ -91,7 +91,7 @@ The following sirolimus concentrations (chromatographic equivalent) were observe
 
 TABLE 5: SIROLIMUS WHOLE BLOOD TROUGH CONCENTRATIONS OBSERVED IN RENAL TRANSPLANT PATIENTS ENROLLED IN PHASE 3 STUDIES
 
-| PatientPopulation (Study number) |  | Year 1 |  | Year 3 |  |
+| Patient Population (Study number) |  | Year 1 |  | Year 3 |  |
 | --- | --- | --- | --- | --- | --- |
 |  | Treatment | Mean (ng/mL) | 10th to 90thpercentiles (ng/mL) | Mean (ng/mL) | 10th to 90thpercentiles (ng/mL) |
 | Low-to-moderate risk (Studies 1 & 2) | Sirolimus (2 mg/day) + CsA | 7.2 | 3.6 to 11 | - | - |
@@ -137,7 +137,7 @@ The children aged 6 to 11 years (n = 8) received mean ± SD doses of 1.75 ± 0.7
 The children aged 12 to18 years (n = 14) received mean ± SD doses of 2.79 ± 1.25 mg/day (0.053 ± 0.0150 mg/kg, 1.86 ± 0.61 mg/m2).
 At the time of sirolimus blood sampling for pharmacokinetic evaluation, the majority (80%) of these pediatric patients received the sirolimus dose at 16 hours after the once-daily cyclosporine dose.See Table 6 below.
 
-TABLE 6: SIROLIMUS PHARMACOKINETIC PARAMETERS (MEAN ± SD) IN PEDIATRIC RENAL TRANSPLANT PATIENTS (MULTIPLE-DOSE CONCENTRATION CONTROL) a,b
+TABLE 6: SIROLIMUS PHARMACOKINETIC PARAMETERS (MEAN ± SD) IN PEDIATRIC RENAL TRANSPLANT PATIENTS (MULTIPLE-DOSE CONCENTRATION CONTROL) a,b.
 
 | Age(y) | n | Body weight (kg) | Cmax,ss(ng/mL) | tmax,ss(h) | Cmin,ss(ng/mL) | AUCτ,ss(ng•h/mL) | CL/Fc(mL/h/kg) | CL/Fc (L/h/m2) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -146,7 +146,7 @@ TABLE 6: SIROLIMUS PHARMACOKINETIC PARAMETERS (MEAN ± SD) IN PEDIATRIC RENAL TR
 
 a: Sirolimus co-administered with cyclosporine oral solution [MODIFIED] (e.g., Neoral® OralSolution) and/or cyclosporine capsules [MODIFIED] (e.g., Neoral® Soft Gelatin Capsules).
 
-b: As measured by Liquid Chromatographic/Tandem Mass Spectrometric Method (LC/MS/MS).
+b: As measured by Liquid Chromatographic/Tandem Mass Spectrometric Method (LC/MS/MS)
 
 c: Oral-dose clearance adjusted by either body weight (kg) or body surface area (m2).
 
@@ -225,7 +225,7 @@ In patients where rifampin is indicated, alternative therapeutic agents with les
 Pretreatment of 14 healthy volunteers with multiple doses of rifampin, 600 mg daily for 14 days, followed by a single 20 mg dose of sirolimus oral solution, greatly decreased sirolimus AUC and Cmax by about 82% and 71%, respectively.
 
 Verapamil: Verapamil is a substrate and inhibitor of CYP3A4 and P-gp; sirolimus concentrations should be monitored and a dose adjustment may be necessary; [see Drug Interactions (7.4)].
-The simultaneous oral administration of 2 mg daily of sirolimus oral solution and 180 mg q 12h of verapamil at steady state to 26 healthy volunteers significantly affected the bioavailability of sirolimus and verapamil.
+The simultaneous oral administration of 2 mg daily of sirolimus oral solution and 180 mg q 12h of verapamil at steady state to 25 healthy volunteers significantly affected the bioavailability of sirolimus and verapamil.
 Sirolimus Cmax and AUC were increased 2.3- and 2.2-fold, respectively, without substantial change in tmax.
 The Cmax and AUC of the pharmacologically active S(-) enantiomer of verapamil were both increased 1.5-fold and tmax was decreased by 1.2 hr.
 
