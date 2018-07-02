@@ -10,5 +10,5 @@ The structural formula is:
 Montelukast sodium is a hygroscopic, optically active, white to off-white powder.
 Montelukast sodium is freely soluble in ethanol, methanol, and water and practically insoluble in acetonitrile.
 
-Each 10-mg film-coated montelukast sodium tablet contains 10.4 mg montelukast sodium, which is equivalent to 10 mg of montelukast, and the following inactive ingredients: microcelac 100, croscarmellose sodium, low substituted hydroxypropyl cellulose, and magnesium stearate.
+Each 10-mg film-coated montelukast sodium tablet, USP contains 10.4 mg montelukast sodium, USP, which is equivalent to 10 mg of montelukast, and the following inactive ingredients: microcelac 100, croscarmellose sodium, low substituted hydroxypropyl cellulose, and magnesium stearate.
 The film coating consists of hypromellose, hydroxypropyl cellulose, titanium dioxide, polyethylene glycol 6000, iron oxide red and iron oxide yellow.
