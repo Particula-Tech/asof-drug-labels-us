@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA022517"
+  ],
+  "inn": "desmopressin",
+  "labeler": "Ferring Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "55566-5050-0",
+    "55566-5050-1",
+    "55566-5070-0",
+    "55566-5070-1"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "desmopressin acetate",
+      "name": "NOCDURNA"
+    }
+  ],
+  "setid": "8ef937d4-0bb5-46bd-9b53-9b14b9d2738f",
+  "source": "dailymed"
+}
