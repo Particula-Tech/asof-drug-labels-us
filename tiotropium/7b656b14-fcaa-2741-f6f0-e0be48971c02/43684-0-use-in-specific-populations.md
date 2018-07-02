@@ -43,7 +43,7 @@ The safety and efficacy of SPIRIVA RESPIMAT have not been established in pediatr
 The safety of SPIRIVA RESPIMAT 2.5 mcg has been studied in pediatric patients with asthma aged 1 to 5 years who were on background treatment of at least ICS in one placebo-controlled clinical trial of 12 weeks duration (36 treated with SPIRIVA RESPIMAT 2.5 mcg and 34 with placebo RESPIMAT).
 In this study, SPIRIVA RESPIMAT or placebo RESPIMAT was delivered with the AeroChamber Plus Flow-Vu® valved holding chamber with facemask once daily.
 The majority of the patients in the trial were male (60.4%) and Caucasian (76.2%) with a mean age of 3.1 years.
-The adverse reaction profile was similar to that observed in adults and older pediatric patients [See Adverse Reactions (6.2)].
+The adverse reaction profile was similar to that observed in adults and older pediatric patients [see Adverse Reactions (6.2)].
 
 In Vitro Characterization Studies with Valved Holding Chamber Dose delivery and fine particle fraction of SPIRIVA RESPIMAT when administered via a valved holding chamber (AeroChamber Plus Flow-Vu® with or without face mask) was assessed by in vitro studies.
 

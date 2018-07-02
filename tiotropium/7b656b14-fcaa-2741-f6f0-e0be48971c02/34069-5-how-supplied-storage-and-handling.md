@@ -15,6 +15,7 @@ SPIRIVA RESPIMAT Inhalation Spray is available in two dosage strengths, identifi
 To deliver the recommended dosage for COPD:
 
 - SPIRIVA RESPIMAT Inhalation Spray 2.5 mcg/actuation 60 metered actuations (NDC 0597-0100-61)
+- SPIRIVA RESPIMAT Inhalation Spray 2.5 mcg/actuation 28 metered actuations (NDC 0597-0100-31) (institutional pack)
 
 To deliver the recommended dosage for asthma:
 
