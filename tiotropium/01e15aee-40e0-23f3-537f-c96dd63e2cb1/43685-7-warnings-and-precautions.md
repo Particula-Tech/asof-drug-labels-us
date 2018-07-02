@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Asthma-Related Death [See Boxed Warning]
+## 5.1 Asthma-Related Death [see Boxed Warning]
 
 - Data from a large placebo-controlled study in asthma patients showed that long-acting beta2-adrenergic agonists may increase the risk of asthma-related death.
   Data are not available to determine whether the rate of death in patients with COPD is increased by long-acting beta2-adrenergic agonists.
@@ -8,7 +8,7 @@
   The increased risk of asthma-related death is considered a class effect of long-acting beta2-adrenergic agonists, including olodaterol, one of the active ingredients in STIOLTO RESPIMAT.
   No study adequate to determine whether the rate of asthma-related death is increased in patients treated with STIOLTO RESPIMAT has been conducted.
   The safety and efficacy of STIOLTO RESPIMAT in patients with asthma have not been established.
-  STIOLTO RESPIMAT is not indicated for the treatment of asthma [See Contraindications (4)].
+  STIOLTO RESPIMAT is not indicated for the treatment of asthma [see Contraindications (4)].
 
 ## 5.2 Deterioration of Disease and Acute Episodes
 

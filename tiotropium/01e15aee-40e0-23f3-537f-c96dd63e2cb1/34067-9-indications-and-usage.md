@@ -6,6 +6,6 @@ STIOLTO RESPIMAT is a combination of tiotropium and olodaterol indicated for lon
 
 Important Limitations of Use
 
-- STIOLTO RESPIMAT is not indicated to treat acute deteriorations of COPD [See Warnings and Precautions (5.2)].
+- STIOLTO RESPIMAT is not indicated to treat acute deteriorations of COPD [see Warnings and Precautions (5.2)].
 - STIOLTO RESPIMAT is not indicated to treat asthma.
   The safety and effectiveness of STIOLTO RESPIMAT in asthma have not been established.

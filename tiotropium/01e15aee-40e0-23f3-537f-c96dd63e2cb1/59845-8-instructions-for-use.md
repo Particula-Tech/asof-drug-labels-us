@@ -1,6 +1,6 @@
 Instructions for Use
 
-STIOLTO® RESPIMAT® (sti-OL-to- RES peh mat) (tiotropium bromide and olodaterol) Inhalation Spray
+STIOLTO® RESPIMAT® (sti-OL-to- RES peh mat) (tiotropium bromide and olodaterol) inhalation Spray
 
 For Oral Inhalation Only Do not spray STIOLTO RESPIMAT into your eyes.
 
@@ -30,10 +30,10 @@ Any minor discoloration in the mouthpiece does not affect your STIOLTO RESPIMAT 
 When to get a new STIOLTO RESPIMAT inhaler
 
 - Your inhaler contains 60 puffs (30 doses) if used as indicated (2 puffs once daily).
-  If you have a sample, your inhaler contains 28 puffs (14 doses) if used as indicated (2 puffs once daily).
+  If you have a sample or institutional pack, your inhaler contains 28 puffs (14 doses) if used as indicated (2 puffs once daily).
 
 - The dose indicator shows approximately how much medicine is left.
-- When the dose indicator enters the red area of the scale you need to get a refill; there is approximately medicine for 7 days left (if you have a sample, there is approximately medicine for 3 days left).
+- When the dose indicator enters the red area of the scale you need to get a refill; there is approximately medicine for 7 days left (if you have a sample or institutional pack, there is approximately medicine for 3 days left).
 - When the dose indicator reaches the end of the red scale, your STIOLTO RESPIMAT is empty and automatically locks.
   At this point, the clear base cannot be turned any further.
 - Three months after insertion of cartridge, throw away the STIOLTO RESPIMAT even if it has not been used, or when the inhaler is locked, or when it expires, whichever comes first.
@@ -72,7 +72,7 @@ If not, turn the clear base in a continuous movement until it clicks (half a tur
 
 Is the dose indicator on the STIOLTO RESPIMAT pointing to zero?
 The STIOLTO RESPIMAT inhaler is locked after 60 puffs (30 doses).
-If you have a sample, the STIOLTO RESPIMAT inhaler is locked after 28 puffs (14 doses).
+If you have a sample or institutional pack, the STIOLTO RESPIMAT inhaler is locked after 28 puffs (14 doses).
 Prepare and use your new STIOLTO RESPIMAT inhaler.
 
 I cannot turn the clear base:
@@ -82,14 +82,14 @@ If the clear base has already been turned, follow steps “Open” and “Press�
 
 Is the dose indicator on the STIOLTO RESPIMAT pointing to zero?
 The STIOLTO RESPIMAT inhaler is locked after 60 puffs (30 doses).
-If you have a sample, the STIOLTO RESPIMAT inhaler is locked after 28 puffs (14 doses).
+If you have a sample or institutional pack, the STIOLTO RESPIMAT inhaler is locked after 28 puffs (14 doses).
 Prepare and use your new STIOLTO RESPIMAT inhaler.
 
 The dose indicator on the STIOLTO RESPIMAT reaches zero too soon:
 
 Did you use STIOLTO RESPIMAT as indicated (2 puffs once daily)?
 STIOLTO RESPIMAT will deliver 60 puffs and last 30 days if used at 2 puffs once daily.
-If you have a sample, STIOLTO RESPIMAT will deliver 28 puffs and last 14 days if used at 2 puffs once daily.
+If you have a sample or institutional pack, STIOLTO RESPIMAT will deliver 28 puffs and last 14 days if used at 2 puffs once daily.
 
 Did you turn the clear base before you inserted the cartridge?
 The dose indicator counts each turn of the clear base regardless whether a cartridge has been inserted or not.
@@ -131,10 +131,8 @@ Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc., Ridgefield, CT 06877
 
 SPIRIVA®, HANDIHALER®, STIOLTO® and RESPIMAT® are registered trademarks and are used under license from Boehringer Ingelheim International GmbH
 
-Copyright © 2016 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2018 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: June 2016
+Revised: May 2018
 
-IT6053GF142016
-
-305630-04
+IT6053ID242018
