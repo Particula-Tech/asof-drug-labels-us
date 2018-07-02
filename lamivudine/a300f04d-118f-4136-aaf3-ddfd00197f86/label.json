@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022141"
+  ],
+  "inn": "lamivudine",
+  "labeler": "Mylan Specialty L.P.",
+  "package_ndcs": [
+    "49502-450-77",
+    "49502-450-93"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "lamivudine and tenofovir disoproxil fumarate",
+      "name": "CIMDUO"
+    }
+  ],
+  "setid": "a300f04d-118f-4136-aaf3-ddfd00197f86",
+  "source": "dailymed"
+}
