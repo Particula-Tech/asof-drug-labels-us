@@ -9,9 +9,12 @@ The solubility of tofacitinib citrate in water is 2.9 mg/mL.
 Tofacitinib citrate has a molecular weight of 504.5 Daltons (or 312.4 Daltons as the tofacitinib free base) and a molecular formula of C16H20N6O∙C6H8O7.
 The chemical structure of tofacitinib citrate is:
 
-XELJANZ is supplied for oral administration as 5 mg tofacitinib (equivalent to 8 mg tofacitinib citrate) white round, immediate-release film-coated tablet.
-Each tablet of XELJANZ contains the appropriate amount of tofacitinib as a citrate salt and the following inactive ingredients: microcrystalline cellulose, lactose monohydrate, croscarmellose sodium, magnesium stearate, HPMC 2910/Hypromellose 6cP, titanium dioxide, macrogol/PEG3350, and triacetin.
+XELJANZ is supplied for oral administration as a 5 mg white round, immediate-release film-coated tablet.
+Each tablet of XELJANZ contains 5 mg tofacitinib (equivalent to 8 mg tofacitinib citrate) and the following inactive ingredients: croscarmellose sodium, HPMC 2910/Hypromellose 6cP, lactose monohydrate, macrogol/PEG3350, magnesium stearate, microcrystalline cellulose, titanium dioxide, and triacetin.
 
-XELJANZ XR is supplied for oral administration as 11 mg tofacitinib (equivalent to 17.77 mg tofacitinib citrate) pink, oval, extended release film-coated tablet with a drilled hole at one end of the tablet band.
-Each tablet of XELJANZ XR contains the appropriate amount of tofacitinib as a citrate salt and the following inactive ingredients: sorbitol, hydroxyethyl cellulose, copovidone, magnesium stearate, cellulose acetate, hydroxypropyl cellulose, HPMC 2910/Hypromellose, titanium dioxide, triacetin, and red iron oxide.
-Printing ink contains shellac glaze, ammonium hydroxide, propylene glycol, and ferrosoferric oxide/black iron oxide.
+XELJANZ is supplied for oral administration as a 10 mg blue round, immediate-release film-coated tablet.
+Each 10 mg tablet of XELJANZ contains 10 mg tofacitinib (equivalent to 16 mg of tofacitinib citrate) and the following inactive ingredients: croscarmellose sodium, FD&C Blue #1/Brilliant Blue FCF Aluminum Lake, FD&C Blue #2/Indigo Carmine Aluminum Lake, HPMC 2910/Hypromellose 6cP, lactose monohydrate, macrogol/PEG3350, magnesium stearate, microcrystalline cellulose, titanium dioxide, and triacetin.
+
+XELJANZ XR is supplied for oral administration as a 11 mg pink, oval, extended-release film-coated tablet with a drilled hole at one end of the tablet band.
+Each 11 mg tablet of XELJANZ XR contains 11 mg tofacitinib (equivalent to 17.77 mg tofacitinib citrate) and the following inactive ingredients: cellulose acetate, copovidone, hydroxyethyl cellulose, hydroxypropylcellulose, HPMC 2910/Hypromellose, magnesium stearate, red iron oxide, sorbitol, titanium dioxide and triacetin.
+Printing ink contains, ammonium hydroxide, ferrosoferric oxide/black iron oxide, propylene glycol, and shellac glaze.

@@ -1,21 +1,19 @@
 # 7 DRUG INTERACTIONS
 
-All information provided in this section is applicable to XELJANZ and XELJANZ XR as they contain the same active ingredient (tofacitinib).
+Table 5 includes drugs with clinically important drug interactions when administered concomitantly with XELJANZ/XELJANZ XR and instructions for preventing or managing them.
 
-## 7.1 Potent CYP3A4 Inhibitors
+Table 5: Clinical Relevant Interactions Affecting XELJANZ and XELJANZ XR When Coadministered with Other Drugs
 
-Tofacitinib exposure is increased when XELJANZ is coadministered with potent inhibitors of cytochrome P450 (CYP) 3A4 (e.g., ketoconazole) [see Dosage and Administration (2.4) and Figure 3].
-
-## 7.2 Moderate CYP3A4 and Potent CYP2C19 Inhibitors
-
-Tofacitinib exposure is increased when XELJANZ is coadministered with medications that result in both moderate inhibition of CYP3A4 and potent inhibition of CYP2C19 (e.g., fluconazole) [see Dosage and Administration (2.4) and Figure 3].
-
-## 7.3 Potent CYP3A4 Inducers
-
-Tofacitinib exposure is decreased when XELJANZ is coadministered with potent CYP3A4 inducers (e.g., rifampin) [see Dosage and Administration (2.4) and Figure 3].
-
-## 7.4 Immunosuppressive Drugs
-
-There is a risk of added immunosuppression when XELJANZ/XELJANZ XR is coadministered with potent immunosuppressive drugs (e.g., azathioprine, tacrolimus, cyclosporine).
-Combined use of multiple-dose XELJANZ/XELJANZ XR with potent immunosuppressants has not been studied in rheumatoid arthritis and psoriatic arthritis.
-Use of XELJANZ/XELJANZ XR in combination with biologic DMARDs or potent immunosuppressants such as azathioprine and cyclosporine is not recommended.
+| Strong CP3A4 Inhibitors (e.g., ketoconazole) |  |
+| --- | --- |
+| Clinical Impact | Increased exposure to tofacitinib |
+| Intervention | Dosage adjustment of XELJANZ/XELJANZ XR is recommended [see Dosage and Administration (2), Clinical Pharmacology, Figure 3 (12.3)] |
+| Moderate CYP3A4 Inhibitors Coadministered with Strong CYP2C19 Inhibitors (e.g., fluconazole) |  |
+| Clinical Impact | Increased exposure to tofacitinib |
+| Intervention | Dosage adjustment of XELJANZ/XELJANZ XR is recommended [see Dosage and Administration (2), Clinical Pharmacology, Figure 3 (12.3)] |
+| Strong CYP3A4 Inducers (e.g., rifampin) |  |
+| Clinical Impact | Decreased exposure to tofacitinib and may result in loss of or reduced clinical response |
+| Intervention | Coadministration with XELJANZ/XELJANZ XR is not recommended [see Clinical Pharmacology, Figure 3 (12.3)] |
+| Immunosuppressive Drugs (e.g., azathioprine, tacrolimus, cyclosporine) |  |
+| Clinical Impact | Risk of added immunosuppression; coadministration with biologic DMARDs or potent immunosuppressants has not been studied in patients with rheumatoid arthritis, psoriatic arthritis, or UC. |
+| Intervention | Coadministration with XELJANZ/XELJANZ XR is not recommended [see Indications and Usage (1), Clinical Pharmacology, Figure 3 (12.3)] |

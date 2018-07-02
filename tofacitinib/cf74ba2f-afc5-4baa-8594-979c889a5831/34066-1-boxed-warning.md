@@ -2,7 +2,7 @@
 
 SERIOUS INFECTIONS
 
-Patients treated with XELJANZ/XELJANZ XR are at increased risk for developing serious infections that may lead to hospitalization or death [see Warnings and Precautions (5.1) and Adverse Reactions (6.1)].
+Patients treated with XELJANZ/XELJANZ XR are at increased risk for developing serious infections that may lead to hospitalization or death [see Warnings and Precautions (5.1), Adverse Reactions (6.1)].
 Most patients who developed these infections were taking concomitant immunosuppressants such as methotrexate or corticosteroids.
 
 If a serious infection develops, interrupt XELJANZ/XELJANZ XR until the infection is controlled.

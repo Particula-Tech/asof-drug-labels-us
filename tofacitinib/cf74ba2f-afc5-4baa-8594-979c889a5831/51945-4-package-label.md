@@ -27,3 +27,19 @@ Extended Release Tablets
 11 mg*
 
 30 Tablets Rx only
+
+# PRINCIPAL DISPLAY PANEL - 10 mg Tablet Bottle Label
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+Pfizer
+
+NDC 0069-1002-01
+
+Xeljanz® (tofacitinib) tablets
+
+10 mg*
+
+10mg Is Recommended Only In Ulcerative Colitis
+
+60 Tablets Rx only

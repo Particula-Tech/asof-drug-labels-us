@@ -7,6 +7,9 @@ The most common serious infections reported with XELJANZ included pneumonia, cel
 Among opportunistic infections, tuberculosis and other mycobacterial infections, cryptococcosis, histoplasmosis, esophageal candidiasis, pneumocystosis, multidermatomal herpes zoster, cytomegalovirus infections, BK virus infection, and listeriosis were reported with XELJANZ.
 Some patients have presented with disseminated rather than localized disease, and were often taking concomitant immunomodulating agents such as methotrexate or corticosteroids.
 
+In the UC population, XELJANZ treatment with 10 mg twice daily was associated with greater risk of serious infections compared to 5 mg twice daily.
+Additionally, opportunistic herpes zoster infections (including meningoencephalitis, ophthalmologic, and disseminated cutaneous) were seen in patients who were treated with XELJANZ 10 mg twice daily.
+
 Other serious infections that were not reported in clinical studies may also occur (e.g., coccidioidomycosis).
 
 Avoid use of XELJANZ/XELJANZ XR in patients with an active, serious infection, including localized infections.
@@ -25,11 +28,11 @@ A patient who develops a new infection during treatment with XELJANZ/XELJANZ XR 
 Caution is also recommended in patients with a history of chronic lung disease, or in those who develop interstitial lung disease, as they may be more prone to infections.
 
 Risk of infection may be higher with increasing degrees of lymphopenia and consideration should be given to lymphocyte counts when assessing individual patient risk of infection.
-Discontinuation and monitoring criteria for lymphopenia are discussed in Dosage Modifications due to Serious Infections and Cytopenias [see Dosage and Administration (2.2)].
+Discontinuation and monitoring criteria for lymphopenia are recommended [see Dosage and Administration (2.2, 2.3)].
 
 Tuberculosis
 
-Patients should be evaluated and tested for latent or active infection prior to and per applicable guidelines during administration of XELJANZ /XELJANZ XR.
+Patients should be evaluated and tested for latent or active infection prior to and per applicable guidelines during administration of XELJANZ/XELJANZ XR.
 
 Anti-tuberculosis therapy should also be considered prior to administration of XELJANZ/XELJANZ XR in patients with a past history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed, and for patients with a negative test for latent tuberculosis but who have risk factors for tuberculosis infection.
 Consultation with a physician with expertise in the treatment of tuberculosis is recommended to aid in the decision about whether initiating anti-tuberculosis therapy is appropriate for an individual patient.
@@ -54,9 +57,12 @@ Malignancies were observed in clinical studies of XELJANZ [see Adverse Reactions
 In the seven controlled rheumatoid arthritis clinical studies, 11 solid cancers and one lymphoma were diagnosed in 3328 patients receiving XELJANZ with or without DMARD, compared to 0 solid cancers and 0 lymphomas in 809 patients in the placebo with or without DMARD group during the first 12 months of exposure.
 Lymphomas and solid cancers have also been observed in the long-term extension studies in rheumatoid arthritis patients treated with XELJANZ.
 
-In the 2 controlled Phase 3 clinical trials in patients with active psoriatic arthritis, there were 3 malignancies (excluding NMSC) in 474 patients receiving XELJANZ plus nonbiologic DMARD (6 to 12 months exposure) compared with 0 malignancies in 236 patients in the placebo plus nonbiologic DMARD group (3 months exposure) and 0 malignancies in 106 patients in the adalimumab plus nonbiologic DMARD group (12 months exposure).
+During the 2 PsA controlled clinical studies there were 3 malignancies (excluding NMSC) in 474 patients receiving XELJANZ plus nonbiologic DMARD (6 to 12 months exposure) compared with 0 malignancies in 236 patients in the placebo plus nonbiologic DMARD group (3 months exposure) and 0 malignancies in 106 patients in the adalimumab plus nonbiologic DMARD group (12 months exposure).
 No lymphomas were reported.
 Malignancies have also been observed in the long-term extension study in psoriatic arthritis patients treated with XELJANZ.
+
+During the UC controlled clinical studies (8-week induction and 52-week maintenance studies), which included 1220 patients, 0 cases of solid cancer or lymphoma were observed in XELJANZ-treated patients.
+In the long-term extension study, malignancies (including solid cancers and lymphomas) were observed more often in patients treated with XELJANZ 10 mg twice daily.
 
 In Phase 2B, controlled dose-ranging trials in de-novo renal transplant patients, all of whom received induction therapy with basiliximab, high-dose corticosteroids, and mycophenolic acid products, Epstein Barr Virus-associated post-transplant lymphoproliferative disorder was observed in 5 out of 218 patients treated with XELJANZ (2.3%) compared to 0 out of 111 patients treated with cyclosporine.
 
@@ -66,12 +72,16 @@ Non-Melanoma Skin Cancer
 
 Non-melanoma skin cancers (NMSCs) have been reported in patients treated with XELJANZ.
 Periodic skin examination is recommended for patients who are at increased risk for skin cancer.
+In the UC population, treatment with XELJANZ 10 mg twice daily was associated with greater risk of NMSC.
 
 ## 5.3 Gastrointestinal Perforations
 
 Events of gastrointestinal perforation have been reported in clinical studies with XELJANZ, although the role of JAK inhibition in these events is not known.
+In these studies, many patients with rheumatoid arthritis were receiving background therapy with Nonsteroidal Anti-Inflammatory Drugs (NSAIDs).
 
-XELJANZ/XELJANZ XR should be used with caution in patients who may be at increased risk for gastrointestinal perforation (e.g., patients with a history of diverticulitis).
+There was no discernable difference in frequency of gastrointestinal perforation between the placebo and the XELJANZ arms in clinical trials of patients with UC, and many of them were receiving background corticosteroids.
+
+XELJANZ/XELJANZ XR should be used with caution in patients who may be at increased risk for gastrointestinal perforation (e.g., patients with a history of diverticulitis or taking NSAIDs).
 Patients presenting with new onset abdominal symptoms should be evaluated promptly for early identification of gastrointestinal perforation [see Adverse Reactions (6.1)].
 
 ## 5.4 Laboratory Abnormalities
@@ -85,26 +95,26 @@ Avoid initiation of XELJANZ/XELJANZ XR treatment in patients with a low lymphocy
 In patients who develop a confirmed absolute lymphocyte count less than 500 cells/mm3, treatment with XELJANZ/XELJANZ XR is not recommended.
 
 Monitor lymphocyte counts at baseline and every 3 months thereafter.
-For recommended modifications based on lymphocyte counts [see Dosage and Administration (2.3)].
+For recommended modifications based on lymphocyte counts [see Dosage and Administration (2.2, 2.3)].
 
 Neutropenia
 
 Treatment with XELJANZ was associated with an increased incidence of neutropenia (less than 2000 cells/mm3) compared to placebo.
 
 Avoid initiation of XELJANZ/XELJANZ XR treatment in patients with a low neutrophil count (i.e., ANC less than 1000 cells/mm3).
-For patients who develop a persistent ANC of 500–1000 cells/mm3, interrupt XELJANZ/XELJANZ XR dosing until ANC is greater than or equal to 1000 cells/mm3.
+For patients who develop a persistent ANC of 500 to 1000 cells/mm3, interrupt XELJANZ/XELJANZ XR dosing until ANC is greater than or equal to 1000 cells/mm3.
 In patients who develop an ANC less than 500 cells/mm3, treatment with XELJANZ/XELJANZ XR is not recommended.
 
 Monitor neutrophil counts at baseline and after 4–8 weeks of treatment and every 3 months thereafter.
-For recommended modifications based on ANC results [see Dosage and Administration (2.3)].
+For recommended modifications based on ANC results [see Dosage and Administration (2.2, 2.3)].
 
 Anemia
 
-Avoid initiation of XELJANZ/XELJANZ XR treatment in patients with a low hemoglobin level (i.e. less than 9 g/dL).
+Avoid initiation of XELJANZ/XELJANZ XR treatment in patients with a low hemoglobin level (i.e., less than 9 g/dL).
 Treatment with XELJANZ/XELJANZ XR should be interrupted in patients who develop hemoglobin levels less than 8 g/dL or whose hemoglobin level drops greater than 2 g/dL on treatment.
 
 Monitor hemoglobin at baseline and after 4–8 weeks of treatment and every 3 months thereafter.
-For recommended modifications based on hemoglobin results [see Dosage and Administration (2.3)].
+For recommended modifications based on hemoglobin results [see Dosage and Administration (2)].
 
 Liver Enzyme Elevations
 
@@ -116,8 +126,9 @@ If drug-induced liver injury is suspected, the administration of XELJANZ/XELJANZ
 
 Lipid Elevations
 
-Treatment with XELJANZ was associated with increases in lipid parameters including total cholesterol, low-density lipoprotein (LDL) cholesterol, and high-density lipoprotein (HDL) cholesterol.
+Treatment with XELJANZ was associated with dose-dependent increases in lipid parameters including total cholesterol, low-density lipoprotein (LDL) cholesterol, and high-density lipoprotein (HDL) cholesterol.
 Maximum effects were generally observed within 6 weeks.
+There were no clinically relevant changes in LDL/HDL cholesterol ratios.
 The effect of these lipid parameter elevations on cardiovascular morbidity and mortality has not been determined.
 
 Assessment of lipid parameters should be performed approximately 4–8 weeks following initiation of XELJANZ/XELJANZ XR therapy.
@@ -135,9 +146,7 @@ Tofacitinib was discontinued and the patient recovered after treatment with stan
 
 Update immunizations in agreement with current immunization guidelines prior to initiating XELJANZ/XELJANZ XR therapy.
 
-## 5.6 General
-
-Specific to XELJANZ XR
+## 5.6 Risk of Gastrointestinal Obstruction with a Non-Deformable Extended-Release Formulation such as XELJANZ XR
 
 As with any other non-deformable material, caution should be used when administering XELJANZ XR to patients with pre-existing severe gastrointestinal narrowing (pathologic or iatrogenic).
-There have been rare reports of obstructive symptoms in patients with known strictures in association with the ingestion of other drugs utilizing a non-deformable extended release formulation.
+There have been rare reports of obstructive symptoms in patients with known strictures in association with the ingestion of other drugs utilizing a non-deformable extended-release formulation.
