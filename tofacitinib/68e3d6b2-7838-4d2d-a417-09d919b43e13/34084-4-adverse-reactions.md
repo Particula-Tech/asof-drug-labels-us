@@ -1,8 +1,17 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Clinical Trial Experience
+The following clinically significant adverse reactions are described elsewhere in the labeling:
+
+- Serious Infections [see Warnings and Precautions (5.1)]
+- Malignancy and Lymphoproliferative Disorders [see Warnings and Precautions (5.2)]
+- Gastrointestinal Perforations [see Warnings and Precautions (5.3)]
+- Laboratory Abnormalities [see Warnings and Precautions (5.4)]
+
+## 6.1 Clinical Trials Experience
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not predict the rates observed in a broader patient population in clinical practice.
+
+Rheumatoid Arthritis
 
 The clinical studies described in the following sections were conducted using XELJANZ.
 Although other doses of XELJANZ have been studied, the recommended dose of XELJANZ is 5 mg twice daily.
@@ -12,7 +21,7 @@ The recommended dose for XELJANZ XR is 11 mg once daily.
 The following data includes two Phase 2 and five Phase 3 double-blind, controlled, multicenter trials.
 In these trials, patients were randomized to doses of XELJANZ 5 mg twice daily (292 patients) and 10 mg twice daily (306 patients) monotherapy, XELJANZ 5 mg twice daily (1044 patients) and 10 mg twice daily (1043 patients) in combination with DMARDs (including methotrexate) and placebo (809 patients).
 All seven protocols included provisions for patients taking placebo to receive treatment with XELJANZ at Month 3 or Month 6 either by patient response (based on uncontrolled disease activity) or by design, so that adverse events cannot always be unambiguously attributed to a given treatment.
-Therefore some analyses that follow include patients who changed treatment by design or by patient response from placebo to XELJANZ in both the placebo and XELJANZ group of a given interval.
+Therefore, some analyses that follow include patients who changed treatment by design or by patient response from placebo to XELJANZ in both the placebo and XELJANZ group of a given interval.
 Comparisons between placebo and XELJANZ were based on the first 3 months of exposure, and comparisons between XELJANZ 5 mg twice daily and XELJANZ 10 mg twice daily were based on the first 12 months of exposure.
 
 The long-term safety population includes all patients who participated in a double-blind, controlled trial (including earlier development phase studies) and then participated in one of two long-term safety studies.
@@ -121,19 +130,19 @@ The clinical significance of the observed serum creatinine elevations is unknown
 
 Other Adverse Reactions
 
-Adverse reactions occurring in 2% or more of patients on 5 mg twice daily or 10 mg twice daily XELJANZ and at least 1% greater than that observed in patients on placebo with or without DMARD are summarized in Table 4.
+Adverse reactions occurring in 2% or more of patients on 5 mg twice daily or 10 mg twice daily XELJANZ and at least 1% greater than that observed in patients on placebo with or without DMARD are summarized in Table 3.
 
-Table 4: Adverse Reactions Occurring in at Least 2% or More of Patients on 5 or 10 mg Twice Daily XELJANZ With or Without DMARD (0–3 months) and at Least 1% Greater Than That Observed in Patients on Placebo
+Table 3: Common Adverse Reactionsreported in ≥2% of patients treated with either dose of XELJANZ and ≥1% greater than that reported for placebo. in Clinical Trials of XELJANZ for the Treatment of Rheumatoid Arthritis With or Without Concomitant DMARDs (0–3 Months)
 
-| Preferred Term | N = 1336 (%) | N = 1349 (%) | N = 809 (%) |
+| N = 1336 (%) | N = 1349 (%) | N = 809 (%) |  |
 | --- | --- | --- | --- |
-|  | XELJANZ 5 mg Twice Daily | XELJANZ 10 mg Twice DailyThe recommended dose of XELJANZ is 5 mg twice daily. | Placebo |
-| Diarrhea | 4.0 | 2.9 | 2.3 |
-| Nasopharyngitis | 3.8 | 2.8 | 2.8 |
-| Upper respiratory tract infection | 4.5 | 3.8 | 3.3 |
-| Headache | 4.3 | 3.4 | 2.1 |
-| Hypertension | 1.6 | 2.3 | 1.1 |
-| N reflects randomized and treated patients from the seven clinical trials |  |  |  |
+| Preferred Term | XELJANZ 5 mg Twice Daily | XELJANZ 10 mg Twice Dailythe recommended dose of XELJANZ for the treatment of rheumatoid arthritis is 5 mg twice daily [see Dosage and Administration (2)]. | Placebo |
+| Upper respiratory tract infection | 4 | 4 | 3 |
+| Nasopharyngitis | 4 | 3 | 3 |
+| Diarrhea | 4 | 3 | 2 |
+| Headache | 4 | 3 | 2 |
+| Hypertension | 2 | 2 | 1 |
+| N reflects randomized and treated patients from the seven clinical trials. |  |  |  |
 
 Other adverse reactions occurring in controlled and open-label extension studies included:
 
@@ -147,7 +156,7 @@ Psychiatric disorders: Insomnia
 
 Nervous system disorders: Paresthesia
 
-Respiratory, thoracic and mediastinal disorders: Dyspnea, cough, sinus congestion
+Respiratory, thoracic and mediastinal disorders: Dyspnea, cough, sinus congestion, interstitial lung disease (cases were limited to patients with rheumatoid arthritis and some were fatal)
 
 Gastrointestinal disorders: Abdominal pain, dyspepsia, vomiting, gastritis, nausea
 
@@ -163,5 +172,57 @@ General disorders and administration site conditions: Pyrexia, fatigue, peripher
 
 Clinical Experience in Methotrexate-Naïve Patients
 
-Study VI was an active-controlled clinical trial in methotrexate-naïve patients [see Clinical Studies (14)].
-The safety experience in these patients was consistent with Studies I–V.
+Study RA-VI was an active-controlled clinical trial in methotrexate-naïve patients [see Clinical Studies (14)].
+The safety experience in these patients was consistent with Studies RA-I through V.
+
+Psoriatic Arthritis
+
+XELJANZ 5 mg twice daily and 10 mg twice daily were studied in 2 double-blind Phase 3 clinical trials in patients with active psoriatic arthritis (PsA).
+
+Study PsA-I (NCT01877668) had a duration of 12 months and enrolled patients who had an inadequate response to a nonbiologic DMARD and who were naïve to treatment with a TNF blocker.
+Study PsA-I included a 3-month placebo-controlled period and also included adalimumab 40 mg subcutaneously once every 2 weeks for 12 months.
+
+Study PsA-II (NCT01882439) had a duration of 6 months and enrolled patients who had an inadequate response to at least one approved TNF blocker.
+This clinical trial included a 3-month placebo controlled period.
+
+In these combined Phase 3 clinical trials, 238 patients were randomized and treated with XELJANZ 5 mg twice daily and 236 patients were randomized and treated with XELJANZ 10 mg twice daily.
+All patients in the clinical trials were required to receive treatment with a stable dose of a nonbiologic DMARD [the majority (79%) received methotrexate].
+The study population randomized and treated with XELJANZ (474 patients) included 45 (9.5%) patients aged 65 years or older and 66 (13.9%) patients with diabetes at baseline.
+
+The safety profile observed in patients with active psoriatic arthritis treated with XELJANZ was consistent with the safety profile observed in rheumatoid arthritis patients.
+
+Ulcerative Colitis
+
+XELJANZ has been studied in patients with moderately to severely active UC in 4 randomized, double-blind, placebo-controlled trials (UC-I, UC-II, UC-III, and dose-ranging UC-V) and an open-label long-term extension study (UC-IV) [see Clinical Studies (14.3)].
+
+Adverse reactions reported in ≥5% of patients treated with either 5 mg or 10 mg twice daily of XELJANZ and ≥1% greater than reported in patients receiving placebo in either the induction or maintenance clinical trials were: nasopharyngitis, elevated cholesterol levels, headache, upper respiratory tract infection, increased blood creatine phosphokinase, rash, diarrhea, and herpes zoster.
+
+Induction Trials (Study UC-I, UC-II, and UC-V):
+
+Common adverse reactions reported in ≥2% of patients treated with XELJANZ 10 mg twice daily and ≥1% greater than that reported in patients receiving placebo in the 3 induction trials were: headache, nasopharyngitis, elevated cholesterol levels, acne, increased blood creatine phosphokinase, and pyrexia.
+
+Maintenance Trial (Study UC-III)
+
+Common adverse reactions reported in ≥4% of patients treated with either dose of XELJANZ and ≥1% greater than reported in patients receiving placebo are shown in Table 4.
+
+Table 4: Common Adverse Reactionsreported in ≥4% of patients treated with either dose of XELJANZ and ≥1% greater than reported for placebo. in -UC Patients during the Maintenance Trial (Study UC-III)
+
+| N = 198 (%) | N = 196 (%) | N = 198 (%) |  |
+| --- | --- | --- | --- |
+| Preferred Term | XELJANZ 5 mg Twice Daily | XELJANZ 10 mg Twice Daily | Placebo |
+| Nasopharyngitis | 10 | 14 | 6 |
+| Elevated cholesterol levelsincludes hypercholesterolemia, hyperlipidemia, blood cholesterol increased, dyslipidemia, blood triglycerides increased, low density lipoprotein increased, low density lipoprotein abnormal, or lipids increased. | 5 | 9 | 1 |
+| Headache | 9 | 3 | 6 |
+| Upper respiratory tract infection | 7 | 6 | 4 |
+| Increased blood creatine phosphokinase | 3 | 7 | 2 |
+| Rash | 3 | 6 | 4 |
+| Diarrhea | 2 | 5 | 3 |
+| Herpes zoster | 1 | 5 | 1 |
+| Gastroenteritis | 3 | 4 | 3 |
+| Anemia | 4 | 2 | 2 |
+| Nausea | 1 | 4 | 3 |
+
+In the long-term extension study, malignancies (including solid cancers, lymphomas and NMSC) were observed more often in patients treated with XELJANZ 10 mg twice daily [see Warnings and Precautions (5.2)].
+Four cases of pulmonary embolism were reported in patients taking XELJANZ 10 mg twice daily, including one fatality in a patient with advanced cancer.
+
+Dose-dependent adverse reactions seen in patients treated with XELJANZ 10 mg twice daily, in comparison to 5 mg twice daily, include the following: herpes zoster infections, serious infections, and NMSC [see Warnings and Precautions (5.1, 5.2)].

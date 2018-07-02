@@ -1,14 +1,8 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide).
-
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Patient Counseling
-
-Advise patients of the potential benefits and risks of XELJANZ/XELJANZ XR.
-
-Serious Infection
+Serious Infections
 
 Inform patients that XELJANZ/XELJANZ XR may lower the ability of their immune system to fight infections.
 Advise patients not to start taking XELJANZ/XELJANZ XR if they have an active infection.
@@ -27,9 +21,18 @@ Inform patients that XELJANZ/XELJANZ XR may affect certain lab test results, and
 
 Pregnancy
 
-Inform patients that XELJANZ/XELJANZ XR should not be used during pregnancy unless clearly necessary, and advise patients to inform their doctors right away if they become pregnant while taking XELJANZ/XELJANZ XR.
+Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
+Advise females to inform their prescriber of a known or suspected pregnancy.
 Inform patients that Pfizer has a registry for pregnant women who have taken XELJANZ/XELJANZ XR during pregnancy.
 Advise patients to contact the registry at 1-877-311-8972 to enroll [see Use in Specific Populations (8.1)].
+
+Lactation
+
+Advise women not to breastfeed during treatment with XELJANZ/XELJANZ XR and for at least 18 hours after the last dose of XELJANZ or 36 hours after the last dose of XELJANZ XR [see Use in Specific Populations (8.2)].
+
+Infertility
+
+Advise females of reproductive potential that XELJANZ/XELJANZ XR may impair fertility [see Use in Specific Populations (8.3), Nonclinical Toxicology (13.1)] It is not known if this effect is reversible.
 
 Residual Tablet Shell
 
