@@ -24,7 +24,7 @@ The incidence of hospitalizations (1% versus 14%) and IV anti-infective use (2% 
 
 Study 4 was a multicenter, randomized, open-label study to evaluate the efficacy, safety, and pharmacokinetics [see Clinical Pharmacology (12.3)] of Neulasta in pediatric and young adult patients with sarcoma.
 Patients with sarcoma receiving chemotherapy age 0 to 21 years were eligible.
-Patients were randomized to receive subcutaneous Neulasta as a single dose of 100 mcg/kg (n = 37) or subcutaneous filgrastim at a dose 5 mcg/kg/day (n = 6) following myelosuppressive chemotherapy.
+Patients were randomized to receive subcutaneous Neulasta as a single-dose of 100 mcg/kg (n = 37) or subcutaneous filgrastim at a dose 5 mcg/kg/day (n = 6) following myelosuppressive chemotherapy.
 Recovery of neutrophil counts was similar in the Neulasta and filgrastim groups.
 The most common adverse reaction reported was bone pain.
 

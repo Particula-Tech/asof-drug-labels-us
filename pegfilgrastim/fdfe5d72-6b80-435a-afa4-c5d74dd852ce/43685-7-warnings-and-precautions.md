@@ -26,14 +26,14 @@ For patients who have reactions to acrylic adhesives, use of this product may re
 
 ## 5.5 Use in Patients with Sickle Cell Disorders
 
-Severe sickle cell crises can occur in patients with sickle cell disorders receiving Neulasta.
-Severe and sometimes fatal sickle cell crises can occur in patients with sickle cell disorders receiving filgrastim, the parent compound of pegfilgrastim.
+Severe and sometimes fatal sickle cell crises can occur in patients with sickle cell disorders receiving pegfilgrastim products.
+Discontinue Neulasta if sickle cell crisis occurs.
 
 ## 5.6 Glomerulonephritis
 
 Glomerulonephritis has occurred in patients receiving Neulasta.
 The diagnoses were based upon azotemia, hematuria (microscopic and macroscopic), proteinuria, and renal biopsy.
-Generally, events of glomerulonephritis resolved after dose reduction or discontinuation of Neulasta.
+Generally, events of glomerulonephritis resolved after dose-reduction or discontinuation of Neulasta.
 If glomerulonephritis is suspected, evaluate for cause.
 If causality is likely, consider dose-reduction or interruption of Neulasta.
 
@@ -58,3 +58,16 @@ The possibility that pegfilgrastim acts as a growth factor for any tumor type, i
 Missed or partial doses have been reported in patients receiving Neulasta via the on-body injector (OBI) due to the device not performing as intended.
 In the event of a missed or partial dose, patients may be at increased risk of events such as neutropenia, febrile neutropenia and/or infection than if the dose had been correctly delivered.
 Instruct patients using the OBI to notify their healthcare professional immediately in order to determine the need for a replacement dose of Neulasta if they suspect that the device may not have performed as intended.
+
+## 5.11 Aortitis
+
+Aortitis has been reported in patients receiving Neulasta.
+It may occur as early as the first week after start of therapy.
+Manifestations may include generalized signs and symptoms such as fever, abdominal pain, malaise, back pain, and increased inflammatory markers (e.g., c-reactive protein and white blood cell count).
+Consider aortitis in patients who develop these signs and symptoms without known etiology.
+Discontinue Neulasta if aortitis is suspected.
+
+## 5.12 Nuclear Imaging
+
+Increased hematopoietic activity of the bone marrow in response to growth factor therapy has been associated with transient positive bone imaging changes.
+This should be considered when interpreting bone imaging results.

@@ -1,24 +1,38 @@
-# 8USE IN SPECIFIC POPULATIONS
+# 8 USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
+Risk Summary
 
-There are no adequate and well-controlled studies in pregnant women.
-Pegfilgrastim was embryotoxic and increased pregnancy loss in pregnant rabbits that received cumulative doses approximately 4 times the recommended human dose (based on body surface area).
-Signs of maternal toxicity occurred at these doses.
-Neulasta should be used during pregnancy only if the potential benefit to the mother justifies the potential risk to the fetus.
+Although available data with Neulasta use in pregnant women are insufficient to establish whether there is a drug associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes, there are available data from published studies in pregnant women exposed to filgrastim products.
+These studies have not established an association of filgrastim product use during pregnancy with major birth defects, miscarriage, or adverse maternal or fetal outcomes.
 
-In animal reproduction studies, when pregnant rabbits received pegfilgrastim at cumulative doses approximately 4 times the recommended human dose (based on body surface area), increased embryolethality and spontaneous abortions occurred.
-Signs of maternal toxicity (reductions in body weight gain/food consumption) and decreased fetal weights occurred at maternal doses approximately equivalent to the recommended human dose (based on body surface area).
-There were no structural anomalies observed in rabbit offspring at any dose tested.
-No evidence of reproductive/developmental toxicity occurred in the offspring of pregnant rats that received cumulative doses of pegfilgrastim approximately 10 times the recommended human dose (based on body surface area) [see Nonclinical Toxicology (13.3)].
+In animal studies, no evidence of reproductive/developmental toxicity occurred in the offspring of pregnant rats that received cumulative doses of pegfilgrastim approximately 10 times the recommended human dose (based on body surface area).
+In pregnant rabbits, increased embryolethality and spontaneous abortions occurred at 4 times the maximum recommended human dose simultaneously with signs of maternal toxicity (see Data).
 
-## 8.3 Nursing Mothers
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risks of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
-It is not known whether pegfilgrastim is secreted in human milk.
-Other recombinant G-CSF products are poorly secreted in breast milk, and G-CSF is not orally absorbed by neonates.
-Caution should be exercised when administered to a nursing woman.
+Data
+
+Animal Data
+
+Pregnant rabbits were dosed with pegfilgrastim subcutaneously every other day during the period of organogenesis.
+At cumulative doses ranging from the approximate human dose to approximately 4 times the recommended human dose (based on body surface area), the treated rabbits exhibited decreased maternal food consumption, maternal weight loss, as well as reduced fetal body weights and delayed ossification of the fetal skull; however, no structural anomalies were observed in the offspring from either study.
+Increased incidences of post-implantation losses and spontaneous abortions (more than half the pregnancies) were observed at cumulative doses approximately 4 times the recommended human dose, which were not seen when pregnant rabbits were exposed to the recommended human dose.
+
+Three studies were conducted in pregnant rats dosed with pegfilgrastim at cumulative doses up to approximately 10 times the recommended human dose at the following stages of gestation: during the period of organogenesis, from mating through the first half of pregnancy, and from the first trimester through delivery and lactation.
+No evidence of fetal loss or structural malformations was observed in any study.
+Cumulative doses equivalent to approximately 3 and 10 times the recommended human dose resulted in transient evidence of wavy ribs in fetuses of treated mothers (detected at the end of gestation but no longer present in pups evaluated at the end of lactation).
+
+## 8.2 Lactation
+
+Risk Summary
+
+There are no data on the presence of pegfilgrastim in human milk, the effects on the breastfed child, or the effects on milk production.
+Other filgrastim products are secreted poorly into breast milk, and filgrastim products are not absorbed orally by neonates.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Neulasta and any potential adverse effects on the breastfed child from Neulasta or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
@@ -35,8 +49,3 @@ Results from population modeling and simulation indicate that two doses of Neula
 
 Of the 932 patients with cancer who received Neulasta in clinical studies, 139 (15%) were aged 65 and over, and 18 (2%) were aged 75 and over.
 No overall differences in safety or effectiveness were observed between patients aged 65 and older and younger patients.
-
-## 8.6 Renal Impairment
-
-Renal dysfunction had no effect on the pharmacokinetics of pegfilgrastim.
-Therefore, pegfilgrastim dose adjustment in patients with renal dysfunction is not necessary [see Clinical Pharmacology (12.3)].

@@ -11,6 +11,7 @@ The following serious adverse reactions are discussed in greater detail in other
 - Leukocytosis [see Warnings and Precautions (5.7)]
 - Capillary Leak Syndrome [see Warnings and Precautions (5.8)]
 - Potential for Tumor Growth Stimulatory Effects on Malignant Cells [see Warnings and Precautions (5.9)]
+- Aortitis [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -32,7 +33,7 @@ The most common adverse reactions occurring in ≥ 5% of patients and with a bet
 Table 2.
 Adverse Reactions with ≥ 5% Higher Incidence in Neulasta Patients Compared to Placebo in Study 3
 
-| Body Adverse Reaction | Placebo (N = 461) | Neulasta 6 mg SC on Day 2 (N = 467) |
+| Body System Adverse Reaction | Placebo (N = 461) | Neulasta 6 mg SC on Day 2 (N = 467) |
 | --- | --- | --- |
 | Musculoskeletal and connective tissue disorders |  |  |
 | Bone pain | 26% | 31% |
@@ -46,8 +47,9 @@ No complications attributable to leukocytosis were reported in clinical studies.
 ## 6.2 Immunogenicity
 
 As with all therapeutic proteins, there is a potential for immunogenicity.
-The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay, and the observed incidence of antibody positivity in an assay may be influenced by several factors, including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies to Neulasta with the incidence of antibodies to other products may be misleading.
+The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
+Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors, including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
+For these reasons, comparison of the incidence of antibodies to pegfilgrastim in the studies described below with the incidence of antibodies in other studies or to other products may be misleading.
 
 Binding antibodies to pegfilgrastim were detected using a BIAcore assay.
 The approximate limit of detection for this assay is 500 ng/mL.
@@ -69,3 +71,6 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Capillary Leak Syndrome [see Warnings and Precautions (5.8)]
 - Injection site reactions
 - Sweet’s syndrome (acute febrile neutrophilic dermatosis), cutaneous vasculitis
+- Application site reactions (including events such as application site hemorrhage, application site pain, application site discomfort, application site bruise, and application site erythema) have been reported with the use of the on-body injector for Neulasta.
+- Contact dermatitis and local skin reactions such as rash, pruritus, and urticaria have been reported with the use of the on-body injector for Neulasta, possibly indicating a hypersensitivity reaction to the adhesive.
+- Aortitis [see Warnings and Precautions (5.11)]

@@ -1,6 +1,6 @@
 # 11DESCRIPTION
 
-Neulasta (pegfilgrastim) is a covalent conjugate of recombinant methionyl human G-CSF (filgrastim) and monomethoxypolyethylene glycol.
+Pegfilgrastim is a covalent conjugate of recombinant methionyl human G-CSF (filgrastim) and monomethoxypolyethylene glycol.
 Filgrastim is a water-soluble 175 amino acid protein with a molecular weight of approximately 19 kilodaltons (kD).
 Filgrastim is obtained from the bacterial fermentation of a strain of E coli transformed with a genetically engineered plasmid containing the human G-CSF gene.
 To produce pegfilgrastim, a 20 kD monomethoxypolyethylene glycol molecule is covalently bound to the N-terminal methionyl residue of filgrastim.

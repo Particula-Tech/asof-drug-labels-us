@@ -10,6 +10,7 @@ Advise patients of the following risks and potential risks with Neulasta:
 - Sickle cell crisis
 - Glomerulonephritis
 - Capillary Leak Syndrome
+- Aortitis
 
 Advise patients acutely exposed to myelosuppressive doses of radiation (Hematopoietic Subsyndrome of Acute Radiation Syndrome) that efficacy studies of Neulasta for this indication could not be conducted in humans for ethical and feasibility reasons and that, therefore, approval of this use was based on efficacy studies conducted in animals [see Clinical Studies (14.2)].
 
@@ -41,21 +42,22 @@ Advise patients on the use of the on-body injector (OBI) for Neulasta:
   - to remove the OBI for Neulasta after the green light shines continuously and to place the used OBI for Neulasta in a sharps disposal container (see the Patient Instructions for Use).
 
 - Advise the patient:
-  - do not reapply the OBI for Neulasta if the OBI for Neulasta comes off before full dose is delivered and instead call their healthcare provider immediately.
+  - do not reapply the OBI for Neulasta if the OBI for Neulasta comes off before full dose is delivered and instead call their healthcare provider immediately, as they may need a replacement dose.
   - avoid bumping the OBI for Neulasta or knocking the OBI for Neulasta off the body.
-  - do not expose the OBI for Neulasta to medical imaging studies, e.g. X-ray scan, MRI, CT scan, ultrasound, and oxygen rich environments such as hyperbaric chambers to avoid OBI for Neulasta damage and patient injury.
+  - do not use additional materials to hold the on-body injector in place, as this could dislodge the cannula and lead to a missed dose or incomplete dose of Neulasta.
+  - do not expose the OBI for Neulasta to medical imaging studies (e.g., X-ray scan, MRI, CT scan and ultrasound), radiation treatment, and oxygen rich environments such as hyperbaric chambers to avoid OBI for Neulasta damage and patient injury.
 
 - Advise the patient to avoid:
   - airport X-ray scans and request a manual pat down instead; remind patients who elect to request a manual pat down to exercise care to avoid having the OBI for Neulasta dislodged during the pat down process.
   - sleeping on the OBI for Neulasta or applying pressure on the OBI for Neulasta as this may affect OBI for Neulasta performance.
   - getting body lotions, creams, oils, and cleaning agents near the OBI for Neulasta as these products may loosen the adhesive.
-  - using hot tubs, whirlpools, or saunas and avoid exposing the OBI for Neulasta to direct sunlight as these may affect the drug.
+  - using bath tubs, hot tubs, whirlpools, or saunas and avoid exposing the OBI for Neulasta to direct sunlight as these may affect the drug.
   - peeling off or disturbing the OBI for Neulasta adhesive before delivery of full dose is complete.
 
 Neulasta® (pegfilgrastim) Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799 U.S. License No. 1080
 
 Patent: http://pat.amgen.com/onpro/
 
-© 2002-2017 Amgen Inc. All rights reserved. www.neulasta.com 1-800-77-AMGEN (1-800-772-6436)
+© 2002-2018 Amgen Inc. All rights reserved. www.neulasta.com 1-800-77-AMGEN (1-800-772-6436)
 
-v21
+v22
