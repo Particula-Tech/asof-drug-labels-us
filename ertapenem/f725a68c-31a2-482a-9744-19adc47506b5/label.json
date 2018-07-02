@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA209133"
+  ],
+  "inn": "ertapenem",
+  "labeler": "AuroMedics Pharma LLC",
+  "package_ndcs": [
+    "55150-282-20"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "ertapenem",
+      "name": "Ertapenem"
+    }
+  ],
+  "setid": "f725a68c-31a2-482a-9744-19adc47506b5",
+  "source": "dailymed"
+}
