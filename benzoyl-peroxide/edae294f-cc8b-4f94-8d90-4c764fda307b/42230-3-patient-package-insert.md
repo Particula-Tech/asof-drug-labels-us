@@ -59,28 +59,28 @@ How should I use Clindamycin Phosphate and Benzoyl Peroxide Gel?
 Instructions for applying Clindamycin Phosphate and Benzoyl Peroxide Gel
 
 - •Apply Clindamycin Phosphate and Benzoyl Peroxide Gel to your face one time each day as prescribed.
-- 1.Before you apply Clindamycin Phosphate and Benzoyl Peroxide Gel, wash your face gently with a mild soap, rinse with warm water, and pat your skin dry.
-- 2.To apply Clindamycin Phosphate and Benzoyl Peroxide Gel to your face, use the pump to dispense one pea-sized amount of Clindamycin Phosphate and Benzoyl Peroxide Gel onto your fingertip.
+- •Before you apply Clindamycin Phosphate and Benzoyl Peroxide Gel, wash your face gently with a mild soap, rinse with warm water, and pat your skin dry.
+- •To apply Clindamycin Phosphate and Benzoyl Peroxide Gel to your face, use the pump to dispense one pea-sized amount of Clindamycin Phosphate and Benzoyl Peroxide Gel onto your fingertip.
   See Figure 1.
   One pea-sized amount of Clindamycin Phosphate and Benzoyl Peroxide Gel should be enough to cover your entire face.
 
 | Figure 1 |
 | --- |
 
-1. 3.Dot the one pea-sized amount of Clindamycin Phosphate and Benzoyl Peroxide Gel onto six areas of your face (chin, left cheek, right cheek, nose, left forehead, right forehead).
+1. 1.Dot the one pea-sized amount of Clindamycin Phosphate and Benzoyl Peroxide Gel onto six areas of your face (chin, left cheek, right cheek, nose, left forehead, right forehead).
    See Figure 2.
 
 | Figure 2 |
 | --- |
 
-1. 4.After applying the Clindamycin Phosphate and Benzoyl Peroxide Gel this way, spread the gel over your face and gently rub it in.
+1. 1.After applying the Clindamycin Phosphate and Benzoyl Peroxide Gel this way, spread the gel over your face and gently rub it in.
    It is important to spread the gel over your whole face.
-2. 5.Wash your hands with soap and water after applying Clindamycin Phosphate and Benzoyl Peroxide Gel.
-3. 6.If your doctor tells you to put Clindamycin Phosphate and Benzoyl Peroxide Gel on other areas of your skin with acne, be sure to ask how much you should use.
-4. 7.Do not get Clindamycin Phosphate and Benzoyl Peroxide Gel in your mouth, eyes, or nose, or on your lips.
+2. 2.Wash your hands with soap and water after applying Clindamycin Phosphate and Benzoyl Peroxide Gel.
+3. 3.If your doctor tells you to put Clindamycin Phosphate and Benzoyl Peroxide Gel on other areas of your skin with acne, be sure to ask how much you should use.
+4. 4.Do not get Clindamycin Phosphate and Benzoyl Peroxide Gel in your mouth, eyes, or nose, or on your lips.
    If this occurs, rinse the affected area with warm water and call your doctor right away if the area becomes very red, itchy, tender, or swollen.
-5. 8.Do not get Clindamycin Phosphate and Benzoyl Peroxide Gel on cuts or open wounds.
-6. 9.Do not use more Clindamycin Phosphate and Benzoyl Peroxide Gel than prescribed.
+5. 5.Do not get Clindamycin Phosphate and Benzoyl Peroxide Gel on cuts or open wounds.
+6. 6.Do not use more Clindamycin Phosphate and Benzoyl Peroxide Gel than prescribed.
 
 What should I avoid while using Clindamycin Phosphate and Benzoyl Peroxide Gel?
 

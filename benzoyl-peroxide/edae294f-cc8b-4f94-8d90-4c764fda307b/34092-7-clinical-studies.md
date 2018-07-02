@@ -5,10 +5,10 @@ The two trials were identical in design and compared Clindamycin Phosphate and B
 
 The co-primary efficacy variables were:
 
-1. (1)Mean absolute change from baseline at Week 12 in
-   1. •Inflammatory lesion counts
-   2. •Non-inflammatory lesion counts
-2. (2)Percent of subjects who had a two grade improvement from baseline on an Evaluator’s Global Severity (EGS) score.
+1. 1.Mean absolute change from baseline at Week 12 in
+   1. 1.Inflammatory lesion counts
+   2. 2.Non-inflammatory lesion counts
+2. 2.Percent of subjects who had a two grade improvement from baseline on an Evaluator’s Global Severity (EGS) score.
 
 The EGS scoring scale used in all of the clinical trials for Clindamycin Phosphate and Benzoyl Peroxide Gel is as follows:
 
