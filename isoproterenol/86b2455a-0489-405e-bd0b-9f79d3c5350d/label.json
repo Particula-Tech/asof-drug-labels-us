@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA210106"
+  ],
+  "inn": "isoproterenol",
+  "labeler": "Amphastar Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "0548-9501-00",
+    "0548-9502-00"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "isoproterenol hydrochloride",
+      "name": "ISOPROTERENOL HYDROCHLORIDE"
+    }
+  ],
+  "setid": "86b2455a-0489-405e-bd0b-9f79d3c5350d",
+  "source": "dailymed"
+}
