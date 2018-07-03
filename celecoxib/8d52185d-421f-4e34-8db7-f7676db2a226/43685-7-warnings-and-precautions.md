@@ -9,9 +9,11 @@ However, patients with known CV disease or risk factors had a higher absolute in
 Some observational studies found that this increased risk of serious CV thrombotic events began as early as the first weeks of treatment.
 The increase in CV thrombotic risk has been observed most consistently at higher doses.
 
-In the APC (Adenoma Prevention with Celecoxib) trial, the hazard ratio for the composite endpoint of cardiovascular death, MI, or stroke was 3.4 (95% CI 1.4 – 8.5) for CELEBREX 400 mg twice daily and 2.8 (95% CI 1.1 – 7.2) with CELEBREX 200 mg twice daily compared to placebo.
-Cumulative rates for this composite endpoint over 3 years were 3.0% (20/671 subjects) and 2.5% (17/685 subjects), respectively, compared to 0.9% (6/679 subjects) with placebo treatment.
-The increases in both celecoxib dose groups versus placebo-treated patients were mainly due to an increased incidence of myocardial infarction [see Clinical Studies (14.6)].
+In the APC (Adenoma Prevention with Celecoxib) trial, there was about a threefold increased risk of the composite endpoint of cardiovascular death, MI, or stroke for the CELEBREX 400 mg twice daily and CELEBREX 200 mg twice daily treatment arms compared to placebo.
+The increases in both celecoxib dose groups versus placebo-treated patients were mainly due to an increased incidence of myocardial infarction [see Clinical Studies (14.7)].
+
+A randomized controlled trial entitled the Prospective Randomized Evaluation of Celecoxib Integrated Safety vs. Ibuprofen Or Naproxen (PRECISION) was conducted to assess the relative cardiovascular thrombotic risk of a COX-2 inhibitor, celecoxib, compared to the non-selective NSAIDs naproxen and ibuprofen.
+Celecoxib 100 mg twice daily was non-inferior to naproxen 375 to 500 mg twice daily and ibuprofen 600 to 800 mg three times daily for the composite endpoint of the Antiplatelet Trialists' Collaboration (APTC), which consists of cardiovascular death (including hemorrhagic death), non-fatal myocardial infarction, and non-fatal stroke [See Clinical Studies (14.6)].
 
 To minimize the potential risk for an adverse CV event in NSAID-treated patients, use the lowest effective dose for the shortest duration possible.
 Physicians and patients should remain alert for the development of such events, throughout the entire treatment course, even in the absence of previous CV symptoms.
@@ -50,7 +52,7 @@ Most postmarketing reports of fatal GI events occurred in elderly or debilitated
 Additionally, patients with advanced liver disease and/or coagulopathy are at increased risk for GI bleeding.
 
 Complicated and symptomatic ulcer rates were 0.78% at nine months for all patients in the CLASS trial, and 2.19% for the subgroup on low-dose ASA.
-Patients 65 years of age and older had an incidence of 1.40% at nine months, 3.06% when also taking ASA [see Clinical Studies (14.6)].
+Patients 65 years of age and older had an incidence of 1.40% at nine months, 3.06% when also taking ASA [see Clinical Studies (14.7)].
 
 Strategies to Minimize the GI Risks in NSAID-treated patients:
 
@@ -76,10 +78,10 @@ If clinical signs and symptoms consistent with liver disease develop, or if syst
 
 ## 5.4 Hypertension
 
-NSAIDs, including CELEBREX can lead to new onset of hypertension or worsening of preexisting hypertension, either of which may contribute to the increased incidence of CV events.
+NSAIDs, including CELEBREX, can lead to new onset of hypertension or worsening of preexisting hypertension, either of which may contribute to the increased incidence of CV events.
 Patients taking angiotensin converting enzyme (ACE) inhibitors, thiazide diuretics or loop diuretics may have impaired response to these therapies when taking NSAIDs [see Drug Interactions (7)].
 
-The rates of hypertension from the CLASS trial in the CELEBREX, ibuprofen and diclofenac-treated patients were 2.4%, 4.2% and 2.5%, respectively [see Clinical Studies (14.6)].
+See Clinical Studies (14.6, 14.7) for additional blood pressure data for CELEBREX.
 
 Monitor blood pressure (BP) during the initiation of NSAID treatment and throughout the course of therapy.
 
@@ -91,7 +93,7 @@ In a Danish National Registry study of patients with heart failure, NSAID use in
 Additionally, fluid retention and edema have been observed in some patients treated with NSAIDs.
 Use of celecoxib may blunt the CV effects of several therapeutic agents used to treat these medical conditions (e.g., diuretics, ACE inhibitors, or angiotensin receptor blockers [ARBs]) [see Drug Interactions (7)].
 
-In the CLASS study [see Clinical Studies (14.6)], the Kaplan-Meier cumulative rates at 9 months of peripheral edema in patients on CELEBREX 400 mg twice daily (4-fold and 2-fold the recommended OA and RA doses, respectively), ibuprofen 800 mg three times daily and diclofenac 75 mg twice daily were 4.5%, 6.9% and 4.7%, respectively.
+In the CLASS study [see Clinical Studies (14.7)], the Kaplan-Meier cumulative rates at 9 months of peripheral edema in patients on CELEBREX 400 mg twice daily (4-fold and 2-fold the recommended OA and RA doses, respectively), ibuprofen 800 mg three times daily and diclofenac 75 mg twice daily were 4.5%, 6.9% and 4.7%, respectively.
 
 Avoid the use of CELEBREX in patients with severe heart failure unless the benefits are expected to outweigh the risk of worsening heart failure.
 If CELEBREX is used in patients with severe heart failure, monitor patients for signs of worsening heart failure.
@@ -118,7 +120,7 @@ If CELEBREX is used in patients with advanced renal disease, monitor patients fo
 Hyperkalemia
 
 Increases in serum potassium concentration, including hyperkalemia, have been reported with use of NSAIDs, even in some patients without renal impairment.
-In patients with normal renal function, these effects have been attributed to a hyporeninemic- hypoadosteronism state.
+In patients with normal renal function, these effects have been attributed to a hyporeninemic- hypoaldosteronism state.
 
 ## 5.7 Anaphylactic Reactions
 

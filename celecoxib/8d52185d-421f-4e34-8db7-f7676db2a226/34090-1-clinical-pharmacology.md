@@ -27,7 +27,7 @@ In the collecting ducts, PGE2 appears to inhibit water reabsorption by counterac
 
 ## 12.3 Pharmacokinetics
 
-Celecoxib exhibits dose-proportional increase in exposure after oral administration up to 200 mg twice daily and less than proportional increase at hgher doses.
+Celecoxib exhibits dose-proportional increase in exposure after oral administration up to 200 mg twice daily and less than proportional increase at higher doses.
 It has extensive distribution and high protein binding.
 It is primarily metabolized by CYP2C9 with a half-life of approximately 11 hours.
 
