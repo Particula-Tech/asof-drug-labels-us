@@ -1,0 +1,9 @@
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+
+Rx Only
+
+NDC 0574-9855-10
+
+Budesonide Capsules 3mg
+
+100 Capsules
