@@ -101,7 +101,7 @@ What Other Important Information Should I Know About FORFIVO XL?
    2. owho take certain medicines.
 
 The chance of having seizures increases with higher doses of FORFIVO XL.
-For more information, see the sections “Who should not take FORFIVO XL?” and “What should I tell my healthcare provider before taing FORFIVO XL?”
+For more information, see the sections “Who should not take FORFIVO XL?” and “What should I tell my healthcare provider before taking FORFIVO XL?”
 Tell your healthcare provider about all of your medical conditions and all the medicines you take.
 Do not take any other medicines while you are taking FORFIVO XL unless your healthcare provider has said it is okay to take them.
 
@@ -115,7 +115,7 @@ Do not take FORFIVO XL again if you have a seizure.
    Some people may have periods of mania while taking FORFIVO XL, including:
    1. oGreatly increased energy
    2. oSevere trouble sleeping
-   3. Roracing thoughts
+   3. Roacing thoughts
    4. oReckless behavior
    5. oUnusually grand ideas
    6. oExcessive happiness or irritability

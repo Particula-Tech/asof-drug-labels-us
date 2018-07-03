@@ -22,7 +22,7 @@ Neuropsychiatric Adverse Events and Suicide Risk in Smoking Cessation Treatment
 
 Although FORFIVO XL is not indicated for smoking cessation treatment, it contains the same active ingredient as ZYBAN® which is approved for this use.
 Inform patients that some patients have experienced changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, hostility, agitation, anxiety, and panic, as well as suicidal ideation and suicide when attempting to quit smoking while taking bupropion.
-Instruct patients to discontinue FORFIVO XL and contact a healthcare professional if they experience such symptoms..
+Instruct patients to discontinue FORFIVO XL and contact a healthcare professional if they experience such symptoms.
 
 Severe Allergic Reactions
 
