@@ -83,7 +83,7 @@ Before you take clopidogrel tablets, tell your doctor if you:
 Tell all of your doctors and your dentist that you are taking clopidogrel tablets.
 They should talk to the doctor who prescribed clopidogrel tablets for you before you have any surgery or invasive procedure.
 
-Tell your doctor about all the medicines you take, including prescription, non-prescription medicines, vitamins and herbal supplements.
+Tell your doctor about all the medicines you take, including prescription, nonprescription medicines, vitamins and herbal supplements.
 
 Clopidogrel tablets may affect the way other medicines work, and other medicines may affect how clopidogrel tablets works.
 See “What is the most important information I should know about clopidogrel tablets?”
@@ -211,6 +211,6 @@ Dr. Reddy’s Laboratories Limited
 
 Srikakulam - 532 409 INDIA
 
-Revised: 0717
+Revised: 0618
 
 Dispense with Medication Guide available at: www.drreddys.com/medguide/clopidogreltabs.pdf
