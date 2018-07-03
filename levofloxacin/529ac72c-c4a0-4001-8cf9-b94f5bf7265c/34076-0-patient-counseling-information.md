@@ -57,4 +57,4 @@ Patients should be informed that concurrent administration of warfarin and levof
 Patients should notify their physician if they are taking warfarin, be monitored for evidence of bleeding, and also have their anticoagulation tests closely monitored while taking warfarin concomitantly.
 Plague and Anthrax Studies Patients given levofloxacin for these conditions should be informed that efficacy studies could not be conducted in humans for ethical and feasibility reasons.
 Therefore, approval for these conditions was based on efficacy studies conducted in animals.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt) AP-509302, INDIA Revised: 03/2017 Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500038, India Revised: 06/2018 Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides

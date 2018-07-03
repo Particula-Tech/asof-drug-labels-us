@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-Levofloxacin Tablets
+Levofloxacin Tablets USP
 
 (lee'' voe flox' a sin)
 
@@ -330,4 +330,4 @@ Active ingredient: levofloxacin Inactive ingredients: croscarmellose sodium, hyp
 In addition 250 mg contains iron oxide red and 500 mg contains iron oxide red and iron oxide yellow.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 Trademarks are the property of their respective owners.
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt) AP-509302, INDIA Revised: 03/2017
+Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500038, India Revised: 06/2018

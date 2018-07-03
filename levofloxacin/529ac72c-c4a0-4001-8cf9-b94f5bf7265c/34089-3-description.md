@@ -14,5 +14,6 @@ Above pH 5.8, the solubility increases rapidly to its maximum at pH 6.7 (272 mg/
 Above pH 6.7, the solubility decreases and reaches a minimum value (about 50 mg/mL) at a pH of approximately 6.9.
 Levofloxacin USP has the potential to form stable coordination compounds with many metal ions.
 This in vitro chelation potential has the following formation order: Al+3>Cu+2>Zn+2>Mg+2>Ca+2.
-Excipients and Description of Dosage Forms Levofloxacin tablets are available as film-coated tablets and contain the following inactive ingredients: 250 mg, 500 mg and 750 mg (as expressed in the anhydrous form): croscarmellose sodium, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol 400, polysorbate 80, and titanium dioxide.
+Excipients and Description of Dosage Forms Levofloxacin tablets USP are available as film-coated tablets and contain the following inactive ingredients: 250 mg, 500 mg and 750 mg (as expressed in the anhydrous form): croscarmellose sodium, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol 400, polysorbate 80, and titanium dioxide.
 In addition 250 mg contains iron oxide red and 500 mg contains iron oxide red and iron oxide yellow.
+Meets USP dissolution test 4
