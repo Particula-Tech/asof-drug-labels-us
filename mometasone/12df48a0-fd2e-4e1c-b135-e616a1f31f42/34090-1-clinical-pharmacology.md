@@ -22,12 +22,12 @@ NASONEX Nasal Spray, 50 mcg, at both the 200- and 400-mcg dose, was not associat
 A statistically significant decrease in the mean plasma cortisol levels post-Cortrosyn infusion and 24-hour urinary free cortisol levels was detected in the prednisone treatment group compared to placebo.
 
 A second study assessed adrenal response to NASONEX Nasal Spray, 50 mcg (400 and 1600 mcg/day), prednisone (10 mg/day), and placebo, administered for 29 days in 48 male volunteers (21 to 40 years of age).
-The 24-hour plasma cortisol area under the curve (AUC0–24), during and after an 8-hour Cortrosyn infusion and 24-hour urinary free cortisol levels were determined at baseline and after 29 days of treatment.
+The 24-hour plasma cortisol area under the curve (AUC0-24), during and after an 8-hour Cortrosyn infusion and 24-hour urinary free cortisol levels were determined at baseline and after 29 days of treatment.
 No statistically significant differences in adrenal function were observed with NASONEX Nasal Spray, 50 mcg compared to placebo.
 
 A third study evaluated single, rising doses of NASONEX Nasal Spray, 50 mcg (1000, 2000, and 4000 mcg/day), orally administered mometasone furoate (2000, 4000, and 8000 mcg/day), orally administered dexamethasone (200, 400, and 800 mcg/day), and placebo (administered at the end of each series of doses) in 24 male volunteers (22 to 39 years of age).
 Dose administrations were separated by at least 72 hours.
-Determination of serial plasma cortisol levels at 8 AM and for the 24-hour period following each treatment were used to calculate the plasma cortisol area under the curve (AUC0–24).
+Determination of serial plasma cortisol levels at 8 AM and for the 24-hour period following each treatment were used to calculate the plasma cortisol area under the curve (AUC0-24).
 In addition, 24-hour urinary free cortisol levels were collected prior to initial treatment administration and during the period immediately following each dose.
 No statistically significant decreases in the plasma cortisol AUC, 8 AM cortisol levels, or 24-hour urinary free cortisol levels were observed in volunteers treated with either NASONEX Nasal Spray, 50 mcg or oral mometasone, as compared with placebo treatment.
 Conversely, nearly all volunteers treated with the three doses of dexamethasone demonstrated abnormal 8 AM cortisol levels (defined as a cortisol level <10 mcg/dL), reduced 24-hour plasma AUC values, and decreased 24-hour urinary free cortisol levels, as compared to placebo treatment.

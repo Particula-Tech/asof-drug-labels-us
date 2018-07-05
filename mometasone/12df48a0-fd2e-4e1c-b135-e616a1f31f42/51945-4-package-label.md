@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 17 g Bottle Carton
+# PRINCIPAL DISPLAY PANEL - 17 g Bottle Carton
 
 NDC 0085-1288-01
 
@@ -8,9 +8,7 @@ Net Contents: 17 g
 
 120 Metered Sprays
 
-For Intranasal Use Only
-
-Rx only
+For Intranasal Use Only Rx only
 
 NASONEX®
 

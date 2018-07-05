@@ -22,14 +22,14 @@ Because of the inhibitory effect of corticosteroids on wound healing, patients w
 
 ## 5.2 Glaucoma and Cataracts
 
-Nasal and inhaled corticosteroids may result in the development of glaucoma and/or cataracts.
-Therefore, close monitoring is warranted in patients with a change in vision or with a history of increased intraocular pressure, glaucoma, and/or cataracts.
+Glaucoma and cataracts may be reported with systemic and topical (including intranasal, inhaled and intraocular) corticosteroid use.
+Consider referral to an ophthalmologist in patients who develop ocular symptoms or use NASONEX long term [see Adverse Reactions (6)].
 
 Glaucoma and cataract formation was evaluated in one controlled study of 12 weeks' duration and one uncontrolled study of 12 months' duration in patients treated with NASONEX Nasal Spray, 50 mcg at 200 mcg/day, using intraocular pressure measurements and slit lamp examination.
 No significant change from baseline was noted in the mean intraocular pressure measurements for the 141 NASONEX-treated patients in the 12-week study, as compared with 141 placebo-treated patients.
 No individual NASONEX-treated patient was noted to have developed a significant elevation in intraocular pressure or cataracts in this 12-week study.
 Likewise, no significant change from baseline was noted in the mean intraocular pressure measurements for the 139 NASONEX-treated patients in the 12-month study and again, no cataracts were detected in these patients.
-Nonetheless, nasal and inhaled corticosteroids have been associated with the development of glaucoma and/or cataracts.
+Nonetheless, intranasal and inhaled corticosteroids have been associated with the development of glaucoma and/or cataracts.
 
 ## 5.3 Hypersensitivity Reactions
 
@@ -43,7 +43,7 @@ Chickenpox and measles, for example, can have a more serious or even fatal cours
 In such children or adults who have not had these diseases, particular care should be taken to avoid exposure.
 How the dose, route, and duration of corticosteroid administration affect the risk of developing a disseminated infection is not known.
 The contribution of the underlying disease and/or prior corticosteroid treatment to the risk is also not known.
-If exposed to chickenpox, prophylaxis with varicella zoster immune globin (VZIG) may be indicated.
+If exposed to chickenpox, prophylaxis with varicella zoster immune globulin (VZIG) may be indicated.
 If exposed to measles, prophylaxis with pooled intramuscular immunoglobulin (IG) may be indicated.
 (See the respective package inserts for complete VZIG and IG prescribing information.)
 If chickenpox develops, treatment with antiviral agents may be considered.

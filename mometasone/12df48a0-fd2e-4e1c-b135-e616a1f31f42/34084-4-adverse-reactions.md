@@ -3,7 +3,7 @@
 Systemic and local corticosteroid use may result in the following:
 
 - Epistaxis, ulcerations, Candida albicans infection, impaired wound healing [see Warnings and Precautions (5.1)]
-- Cataracts and glaucoma [see Warnings and Precautions (5.2)]
+- Glaucoma and cataracts [see Warnings and Precautions (5.2)]
 - Immunosuppression [see Warnings and Precautions (5.4)]
 - Hypothalamic-pituitary-adrenal (HPA) axis effects, including growth reduction [see Warnings and Precautions (5.5, 5.6), Use in Specific Populations (8.4)]
 
@@ -70,5 +70,5 @@ Adverse events that occurred more frequently in patients treated with NASONEX Na
 
 ## 6.2 Post-Marketing Experience
 
-The following adverse reactions have been identified during the post-marketing period for NASONEX Nasal Spray 50 mcg: nasal burning and irritation, anaphylaxis and angioedema, disturbances in taste and smell and nasal septal perforation.
+The following adverse reactions have been identified during the post-marketing period for NASONEX Nasal Spray 50 mcg: nasal burning and irritation, anaphylaxis and angioedema, disturbances in taste and smell, nasal septal perforation, and vision blurred.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

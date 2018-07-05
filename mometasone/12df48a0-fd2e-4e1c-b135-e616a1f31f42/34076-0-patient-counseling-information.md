@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved labeling
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
 ## 17.1 Local Nasal Effect
 
@@ -11,8 +11,7 @@ Patients should be cautioned not to spray NASONEX Nasal Spray 50 mcg directly on
 
 ## 17.2 Glaucoma and Cataracts
 
-Patients should be informed that nasal and inhaled corticosteroids may result in the development of glaucoma and/or cataracts.
-Therefore, close monitoring is warranted in patients with a change in vision or with a history of increased intraocular pressure, glaucoma, and/or cataracts.
+Advise patients that long-term use of nasal and inhaled corticosteroids may increase the risk of some eye problems (glaucoma or cataracts); regular eye examinations should be considered.
 Patients should be cautioned not to spray NASONEX Nasal Spray 50 mcg into the eyes [see Warnings and Precautions (5.2)].
 
 ## 17.3 Immunosuppression

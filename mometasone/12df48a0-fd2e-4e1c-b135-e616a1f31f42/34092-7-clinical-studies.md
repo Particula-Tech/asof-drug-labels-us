@@ -64,24 +64,24 @@ Two out of three studies demonstrated that treatment with NASONEX Nasal Spray si
 
 TABLE 3: EFFECT OF NASONEX NASAL SPRAY IN TWO RANDOMIZED, PLACEBO-CONTROLLED TRIALS ON NASAL CONGESTION IN PATIENTS WITH SEASONAL ALLERGIC RHINITIS
 
-|  | Treatment (Patient Number) | Baseline nasal congestion/obstruction was scored daily by the patient using a 0-3 categorical scale where 0=no symptoms, 1=mild symptoms, 2=moderate symptoms and 3=severe symptoms. LS Mean LS Mean and p-value was from an ANCOVA model with treatment, baseline value, and center effects. | Change from Baseline LS Mean | Difference from Placebo LS Mean | P-value for NASONEX 200 mcg qd vs. placebo |
-| --- | --- | --- | --- | --- | --- |
-| Study 1 |  |  |  |  |  |
-|  | NASONEX 200 mcg qd (N=176) | 2.63 | -0.64 | -0.15 | 0.006 |
-|  | Placebo (N=175) | 2.62 | -0.49 |  |  |
-| Study 2 |  |  |  |  |  |
-|  | NASONEX 200 mcg qd (N=168) | 2.62 | -0.71 | -0.31 | <0.001 |
-|  | Placebo (N=164) | 2.60 | -0.40 |  |  |
+| Treatment (Patient Number) | Baseline nasal congestion/obstruction was scored daily by the patient using a 0-3 categorical scale where 0=no symptoms, 1=mild symptoms, 2=moderate symptoms and 3=severe symptoms. LS Mean LS Mean and p-value was from an ANCOVA model with treatment, baseline value, and center effects. | Change from Baseline LS Mean | Difference from Placebo LS Mean | P-value for NASONEX 200 mcg qd vs. placebo |
+| --- | --- | --- | --- | --- |
+| Study 1 |  |  |  |  |
+| NASONEX 200 mcg qd (N=176) | 2.63 | -0.64 | -0.15 | 0.006 |
+| Placebo (N=175) | 2.62 | -0.49 |  |  |
+| Study 2 |  |  |  |  |
+| NASONEX 200 mcg qd (N=168) | 2.62 | -0.71 | -0.31 | <0.001 |
+| Placebo (N=164) | 2.60 | -0.40 |  |  |
 
 TABLE 4: EFFECT OF NASONEX NASAL SPRAY ON TNSS IN TWO RANDOMIZED, PLACEBO-CONTROLLED TRIALS IN PATIENTS WITH SEASONAL ALLERGIC RHINITIS
 
-|  | Treatment (Patient Number) | Baseline TNSS was the sum of four individual symptom scores: rhinorrhea, nasal congestion/stuffiness, nasal itching and sneezing. Each symptom was to be rated on a scale of 0=none, 1=mild, 2=moderate, 3=severe. LS Mean LS Mean and p-value was from an ANCOVA model with treatment, baseline value, and center effects. | Change from Baseline LS Mean | Difference from Placebo LS Mean | P-value for NASONEX 200 mcg qd vs. placebo |
-| --- | --- | --- | --- | --- | --- |
-| Study 1 |  |  |  |  |  |
-|  | NASONEX 200 mcg qd (N=176) | 9.60 | -2.68 | -0.83 | <0.001 |
-|  | Placebo (N=175) | 9.66 | -1.85 |  |  |
-| Study 2 |  |  |  |  |  |
-|  | NASONEX 200 mcg qd (N=168) | 9.39 | -3.00 | -1.27 | <0.001 |
-|  | Placebo (N=164) | 9.50 | -1.73 |  |  |
+| Treatment (Patient Number) | Baseline TNSS was the sum of four individual symptom scores: rhinorrhea, nasal congestion/stuffiness, nasal itching and sneezing. Each symptom was to be rated on a scale of 0=none, 1=mild, 2=moderate, 3=severe. LS Mean LS Mean and p-value was from an ANCOVA model with treatment, baseline value, and center effects. | Change from Baseline LS Mean | Difference from Placebo LS Mean | P-value for NASONEX 200 mcg qd vs. placebo |
+| --- | --- | --- | --- | --- |
+| Study 1 |  |  |  |  |
+| NASONEX 200 mcg qd (N=176) | 9.60 | -2.68 | -0.83 | <0.001 |
+| Placebo (N=175) | 9.66 | -1.85 |  |  |
+| Study 2 |  |  |  |  |
+| NASONEX 200 mcg qd (N=168) | 9.39 | -3.00 | -1.27 | <0.001 |
+| Placebo (N=164) | 9.50 | -1.73 |  |  |
 
 Based on results in other studies with NASONEX Nasal Spray in pediatric patients, effects on nasal congestion associated with seasonal allergic rhinitis in patients below 12 years of age is similar to those seen in adults and adolescents [see Clinical Studies (14.2)].

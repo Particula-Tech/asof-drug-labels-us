@@ -2,22 +2,22 @@ Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., 
 
 Manufactured by: MSD International GmbH (Singapore Branch), Singapore 638414, Singapore
 
-U.S. Patent No. 6,127,353.
+For patent information: www.merck.com/product/patent/home.html
 
-Copyright © 1997, 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 1997-2018 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 03/2013
-
-032088-NSX-NS-USPI.13
+uspi-mk0887-ns-1806r014
 
 Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
 Manufactured by: MSD International GmbH (Singapore Branch), Singapore 638414, Singapore
 
-U.S. Patent No. 6,127,353.
+For patent information: www.merck.com/product/patent/home.html
 
-Copyright © 1997, 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 1997-2018 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 03/2013
+This Patient Information and Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-032088-NSX-NS-PPI.8
+Revised: 06/2018
+
+usppi-mk0887-ns-1806r009

@@ -2,7 +2,7 @@
 
 Mometasone furoate monohydrate, the active component of NASONEX Nasal Spray, 50 mcg, is an anti-inflammatory corticosteroid having the chemical name, 9,21-Dichloro-11ß,17-dihydroxy-16α-methylpregna-1,4-diene-3,20-dione17-(2 furoate) monohydrate, and the following chemical structure:
 
-Mometasone furoate monohydrate is a white powder, with an empirical formula of C27H30Cl2O6•H2O, and a molecular weight of 539.45.
+Mometasone furoate monohydrate is a white powder, with an empirical formula of C27H30Cl2O6∙H2O, and a molecular weight of 539.45.
 It is practically insoluble in water; slightly soluble in methanol, ethanol, and isopropanol; soluble in acetone and chloroform; and freely soluble in tetrahydrofuran.
 Its partition coefficient between octanol and water is greater than 5000.
 
