@@ -66,6 +66,6 @@ Epicondylitis may be treated by infiltrating the preparation into the area of gr
 
 ### Intralesional
 
-For treatment of dermal lesions, Kenalog-10 Injection should be injected directly into the lesion, ie, intradermally or subcutaneously.
+For treatment of dermal lesions, Kenalog-10 Injection should be injected directly into the lesion, i.e., intradermally or subcutaneously.
 For accuracy of dosage measurement and ease of administration, it is preferable to employ a tuberculin syringe and a small-bore needle (23-25 gauge).
 Ethyl chloride spray may be used to alleviate the discomfort of the injection.
