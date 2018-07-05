@@ -56,7 +56,7 @@ Hemodialysis
 Topiramate is cleared by hemodialysis.
 Using a high-efficiency, counterflow, single pass-dialysate hemodialysis procedure, topiramate dialysis clearance was 120 mL/min with blood flow through the dialyzer at 400 mL/min.
 This high clearance (compared to 20 to 30 mL/min total oral clearance in healthy adults) will remove a clinically significant amount of topiramate from the patient over the hemodialysis treatment period.
-[see DOSAGE AND ADMINISTRATION (2.6), USE IN SPECIFIC POPULATIONS (8.7)].
+[see Dosage and Administration (2.6), Use in Specific Populations (8.7)].
 
 Hepatic Impairment
 
@@ -71,7 +71,7 @@ Reflecting the primary renal elimination of topiramate, topiramate plasma and re
 Similarly, topiramate half-life was longer (13%) in the elderly.
 Reduced topiramate clearance resulted in slightly higher maximum plasma concentration (23%) and AUC (25%) in elderly subjects than observed in young adults.
 Topiramate clearance is decreased in the elderly only to the extent that renal function is reduced.
-[see DOSAGE AND ADMINISTRATION (2.4) and USE IN SPECIFIC POPULATIONS (8.5)].
+[see Dosage and Administration (2.4) and Use in Specific Populations (8.5)].
 
 Clearance of topiramate in adults was not affected by gender or race.
 
@@ -126,7 +126,7 @@ In a pharmacokinetic interaction study in healthy volunteers with a concomitantl
 In another study, exposure to EE was statistically significantly decreased at doses of 200, 400, and 800 mg/day (18%, 21%, and 30%, respectively) when given as adjunctive therapy in patients taking valproic acid.
 In both studies, topiramate (50 mg/day to 800 mg/day) did not significantly affect exposure to NET and there was no significant dose-dependent change in EE exposure for doses of 50 to 200 mg/day.
 The clinical significance of the changes observed is not known.
-[see DRUG INTERACTIONS (7.3)].
+[see Drug Interactions (7.3)].
 
 Digoxin
 
@@ -168,7 +168,7 @@ The steady-state pharmacokinetics of topiramate were unaffected by concomitant a
 Lithium
 
 In patients, the pharmacokinetics of lithium were unaffected during treatment with topiramate at doses of 200 mg/day; however, there was an observed increase in systemic exposure of lithium (27% for Cmax and 26% for AUC) following topiramate doses up to 600 mg/day.
-[see DRUG INTERACTIONS (7.5)].
+[see Drug Interactions (7.5)].
 
 Haloperidol
 

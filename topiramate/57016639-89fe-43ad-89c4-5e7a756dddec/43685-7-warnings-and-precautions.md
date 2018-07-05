@@ -143,15 +143,15 @@ Mean change from baseline in certain CANTAB tests suggests that topiramate treat
 
 Topiramate can cause fetal harm when administered to a pregnant woman.
 Data from pregnancy registries indicate that infants exposed to topiramate in utero have an increased risk for cleft lip and/or cleft palate (oral clefts) and for being small for gestational age.
-When multiple species of pregnant animals received topiramate at clinically relevant doses, structural malformations, including craniofacial defects, and reduced fetal weights occurred in offspring [see USE IN SPECIFIC POPULATIONS (8.1)].
+When multiple species of pregnant animals received topiramate at clinically relevant doses, structural malformations, including craniofacial defects, and reduced fetal weights occurred in offspring [see Use in Specific Populations (8.1)].
 
-Consider the benefits and the risks of topiramate when administering this drug in women of childbearing potential, particularly when topiramate is considered for a condition not usually associated with permanent injury or death [see USE IN SPECIFIC POPULATIONS (8.8) PATIENT COUNSELING INFORMATION (17)].
+Consider the benefits and the risks of topiramate when administering this drug in women of childbearing potential, particularly when topiramate is considered for a condition not usually associated with permanent injury or death [see Use in Specific Populations (8.8) Patient Counseling Information (17)].
 Topiramate should be used during pregnancy only if the potential benefit outweighs the potential risk.
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus [see USE IN SPECIFIC POPULATIONS (8.1, 8.8)].
+If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus [see Use in Specific Populations (8.1, 8.8)].
 
 ## 5.8 Withdrawal of Antiepileptic Drugs
 
-In patients with or without a history of seizures or epilepsy, antiepileptic drugs, including topiramate, should be gradually withdrawn to minimize the potential for seizures or increased seizure frequency [see CLINICAL STUDIES (14)].
+In patients with or without a history of seizures or epilepsy, antiepileptic drugs, including topiramate, should be gradually withdrawn to minimize the potential for seizures or increased seizure frequency [see Clinical Studies (14)].
 In situations where rapid withdrawal of topiramate is medically required, appropriate monitoring is recommended.
 
 ## 5.9 Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid Use)

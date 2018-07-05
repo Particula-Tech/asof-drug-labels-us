@@ -17,7 +17,7 @@ Because of the potential of topiramate to cause CNS depression, as well as other
 
 The possibility of decreased contraceptive efficacy and increased breakthrough bleeding may occur in patients taking combination oral contraceptive products with topiramate.
 Patients taking estrogen-containing contraceptives should be asked to report any change in their bleeding patterns.
-Contraceptive efficacy can be decreased even in the absence of breakthrough bleeding [see CLINICAL PHARMACOLOGY (12.3)].
+Contraceptive efficacy can be decreased even in the absence of breakthrough bleeding [see Clinical Pharmacology (12.3)].
 
 ## 7.4 Lithium
 
@@ -27,7 +27,7 @@ Lithium levels should be monitored when co-administered with high-dose topiramat
 ## 7.5 Other Carbonic Anhydrase Inhibitors
 
 Concomitant use of topiramate, a carbonic anhydrase inhibitor, with any other carbonic anhydrase inhibitor (e.g., zonisamide or acetazolamide) may increase the severity of metabolic acidosis and may also increase the risk of kidney stone formation.
-Therefore, patients given topiramate concomitantly with another carbonic anhydrase inhibitor should be monitored particularly closely for the appearance or worsening of metabolic acidosis [see CLINICAL PHARMACOLOGY (12.3)].
+Therefore, patients given topiramate concomitantly with another carbonic anhydrase inhibitor should be monitored particularly closely for the appearance or worsening of metabolic acidosis [see Clinical Pharmacology (12.3)].
 
 ## 7.6 Hydrochlorothiazide (HCTZ)
 

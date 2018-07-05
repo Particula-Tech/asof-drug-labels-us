@@ -38,76 +38,76 @@ Table 5 presents the incidence of adverse reactions occurring in at least 3% of 
 
 Table 5 Adverse Reactions in the High Dose Group As Compared to the Low Dose Group, in Monotherapy Epilepsy Trials in Adult and Pediatric Patients
 
-|  |  | Age Group |  |  |
-| --- | --- | --- | --- | --- |
-|  | Pediatric (6 to 15 Years) |  | Adult (Age ≥16 Years) |  |
-|  | TOPIRAMATE Daily Dosage Group (mg/day) |  |  |  |
-| Body System Adverse Reaction | (N=74) % | (N=77) % | (N=160) % | (N=159) % |
-| Body as a Whole - General Disorders |  |  |  |  |
-| Asthenia | 0 | 3 | 4 | 6 |
-| Fever | 1 | 12 |  |  |
-| Leg pain |  |  | 2 | 3 |
-| Central & Peripheral Nervous System Disorders |  |  |  |  |
-| Paresthesia | 3 | 12 | 21 | 40 |
-| Dizziness |  |  | 13 | 14 |
-| Ataxia |  |  | 3 | 4 |
-| Hypoesthesia |  |  | 4 | 5 |
-| Hypertonia |  |  | 0 | 3 |
-| Involuntary muscle contractions | 0 | 3 |  |  |
-| Vertigo | 0 | 3 |  |  |
-| Gastro-Intestinal System Disorders |  |  |  |  |
-| Constipation |  |  | 1 | 4 |
-| Diarrhea | 8 | 9 |  |  |
-| Gastritis |  |  | 0 | 3 |
-| Dry mouth |  |  | 1 | 3 |
-| Liver and Biliary System Disorders |  |  |  |  |
-| Increase Gamma-GT |  |  | 1 | 3 |
-| Metabolic and Nutritional Disorders |  |  |  |  |
-| Weight loss | 7 | 17 | 6 | 17 |
-| Platelet, Bleeding & Clotting Disorders |  |  |  |  |
-| Epistaxis | 0 | 4 |  |  |
-| Psychiatric Disorders |  |  |  |  |
-| Anorexia |  |  | 4 | 14 |
-| Anxiety |  |  | 4 | 6 |
-| Cognitive problems | 1 | 6 | 1 | 4 |
-| Confusion | 0 | 3 |  |  |
-| Depression | 0 | 3 | 7 | 9 |
-| Difficulty with concentration/attention | 7 | 10 | 7 | 8 |
-| Difficulty with memory | 1 | 3 | 6 | 11 |
-| Insomnia |  |  | 8 | 9 |
-| Decrease in libido |  |  | 0 | 3 |
-| Mood problems | 1 | 8 | 2 | 5 |
-| Personality disorder (behavior problems) | 0 | 3 |  |  |
-| Psychomotor slowing |  |  | 3 | 5 |
-| Somnolence |  |  | 10 | 15 |
-| Red Blood Cell Disorders |  |  |  |  |
-| Anemia | 1 | 3 |  |  |
-| Reproductive Disorders, Female† |  |  |  |  |
-| Intermenstrual Bleeding | 0 | 3 |  |  |
-| Vaginal Hemorrhage |  |  | 0 | 3 |
-| Resistance Mechanism Disorders |  |  |  |  |
-| Infection | 3 | 8 | 2 | 3 |
-| Viral infection | 3 | 6 | 6 | 8 |
-| Respiratory System Disorders |  |  |  |  |
-| Bronchitis | 1 | 5 | 3 | 4 |
-| Upper respiratory tract infection | 16 | 18 |  |  |
-| Rhinitis | 5 | 6 | 2 | 4 |
-| Sinusitis | 1 | 4 |  |  |
-| Skin and Appendages Disorders |  |  |  |  |
-| Alopecia | 1 | 4 | 3 | 4 |
-| Pruritus |  |  | 1 | 4 |
-| Rash | 3 | 4 | 1 | 4 |
-| Acne |  |  | 2 | 3 |
-| Special Senses Other, Disorders |  |  |  |  |
-| Taste perversion |  |  | 3 | 5 |
-| Urinary System Disorders |  |  |  |  |
-| Cystitis |  |  | 1 | 3 |
-| Dysuria |  |  | 0 | 2 |
-| Micturition frequency | 0 | 3 | 0 | 2 |
-| Renal calculus |  |  | 0 | 3 |
-| Urinary incontinence | 1 | 3 |  |  |
-| Vascular (Extracardiac) Disorders |  |  |  |  |
-| Flushing | 0 | 5 |  |  |
+|  | Age Group |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Pediatric (6 to 15 Years) |  |  | Adult (Age ≥ 16 Years) |  |  |  |
+| Topiramate Daily Dosage Group (mg/day) |  |  |  |  |  |  |
+| 50 | 400 | 50 |  | 400 |  |  |
+| Body System Adverse Reaction | (N=74) % | (N=77) % | (N=160) % |  | (N=159) % |  |
+| Body as a Whole - General Disorders |  |  |  |  |  |  |
+| Asthenia | 0 | 3 | 4 |  | 6 |  |
+| Fever | 1 | 12 |  |  |  |  |
+| Leg pain |  |  | 2 |  | 3 |  |
+| Central & Peripheral Nervous System Disorders |  |  |  |  |  |  |
+| Paresthesia | 3 | 12 | 21 |  | 40 |  |
+| Dizziness |  |  | 13 |  | 14 |  |
+| Ataxia |  |  | 3 |  | 4 |  |
+| Hypoesthesia |  |  | 4 |  | 5 |  |
+| Hypertonia |  |  | 0 |  | 3 |  |
+| Involuntary muscle contractions | 0 | 3 |  |  |  |  |
+| Vertigo | 0 | 3 |  |  |  |  |
+| Gastro-Intestinal System Disorders |  |  |  |  |  |  |
+| Constipation |  |  | 1 |  | 4 |  |
+| Diarrhea | 8 | 9 |  |  |  |  |
+| Gastritis |  |  | 0 |  | 3 |  |
+| Dry mouth |  |  | 1 |  | 3 |  |
+| Liver and Biliary System Disorders |  |  |  |  |  |  |
+| Increase Gamma-GT |  |  | 1 |  | 3 |  |
+| Metabolic and Nutritional Disorders |  |  |  |  |  |  |
+| Weight loss | 7 | 17 | 6 |  | 17 |  |
+| Platelet, Bleeding & Clotting Disorders |  |  |  |  |  |  |
+| Epistaxis | 0 | 4 |  |  |  |  |
+| Psychiatric Disorders |  |  |  |  |  |  |
+| Anorexia |  |  | 4 |  | 14 |  |
+| Anxiety |  |  | 4 |  | 6 |  |
+| Cognitive problems | 1 | 6 | 1 |  | 4 |  |
+| Confusion | 0 | 3 |  |  |  |  |
+| Depression | 0 | 3 | 7 |  | 9 |  |
+| Difficulty with concentration/attention | 7 | 10 | 7 |  | 8 |  |
+| Difficulty with memory | 1 | 3 | 6 |  | 11 |  |
+| Insomnia |  |  | 8 |  | 9 |  |
+| Decrease in libido |  |  | 0 |  | 3 |  |
+| Mood problems | 1 | 8 | 2 |  | 5 |  |
+| Personality disorder (behavior problems) | 0 | 3 |  |  |  |  |
+| Psychomotor slowing |  |  | 3 |  | 5 |  |
+| Somnolence |  |  | 10 |  | 15 |  |
+| Red Blood Cell Disorders |  |  |  |  |  |  |
+| Anemia | 1 | 3 |  |  |  |  |
+| Reproductive Disorders, Female† |  |  |  |  |  |  |
+| Intermenstrual Bleeding | 0 | 3 |  |  |  |  |
+| Vaginal Hemorrhage |  |  | 0 |  | 3 |  |
+| Resistance Mechanism Disorders |  |  |  |  |  |  |
+| Infection | 3 | 8 | 2 |  | 3 |  |
+| Viral Infection | 3 | 6 | 6 |  | 8 |  |
+| Respiratory System Disorders |  |  |  |  |  |  |
+| Bronchitis | 1 | 5 | 3 |  | 4 |  |
+| Upper respiratory tract infection | 16 | 18 |  |  |  |  |
+| Rhinitis | 5 | 6 | 2 |  | 4 |  |
+| Sinusitis | 1 | 4 |  |  |  |  |
+| Skin and Appendages Disorders |  |  |  |  |  |  |
+| Alopecia | 1 | 4 | 3 |  | 4 |  |
+| Pruritus |  |  | 1 |  | 4 |  |
+| Rash | 3 | 4 | 1 |  | 4 |  |
+| Acne |  |  | 2 |  | 3 |  |
+| Special Senses Other, Disorders |  |  |  |  |  |  |
+| Taste perversion |  |  | 3 |  | 5 |  |
+| Urinary System Disorders |  |  |  |  |  |  |
+| Cystitis |  |  | 1 |  | 3 |  |
+| Micturition frequency | 0 | 3 |  |  |  |  |
+| Renal calculus |  |  | 0 |  | 3 |  |
+| Urinary incontinence | 1 | 3 |  |  |  |  |
+| Vascular (Extracardiac) Disorders |  |  |  |  |  |  |
+| Flushing | 0 | 5 |  |  |  |  |
 
 Adjunctive Therapy Epilepsy
 
@@ -329,7 +329,7 @@ Table 9 also shows adverse reactions in pediatric patients in the controlled mig
 Many adverse reactions shown in Table 9 indicate a dose-dependent relationship.
 The incidence of some adverse reactions (e.g., allergy, fatigue, headache, anorexia, insomnia, somnolence, and viral infection) was dose-related and greater at higher than recommended topiramate dosing (200 mg daily) compared to the incidence of these adverse reactions at the recommended dosing (100 mg daily).
 
-Table 9 Adverse Reactions in Pooled Double-Blind Migraine Prophylaxis Studies in Pediatric Patients 12 to 17 Years of Ageabc
+Table 9 Adverse Reactions in Pooled Double-Blind Migraine Prophylaxis Studies in Pediatric Patients 12 to 17 Years of Agea,b,c
 
 |  |  | Topiramate Dosage |  |
 | --- | --- | --- | --- |
@@ -411,3 +411,5 @@ Skin and Appendage Disorders: bullous skin reactions (including erythema multifo
 Urinary System Disorders: kidney stones [see Warnings and Precautions (5.10)]
 
 Vision Disorders: acute myopia, secondary angle closure glaucoma [see Warnings and Precautions (5.1)], maculopathy
+
+Hematological Disorders: decrease of the International Normalized Ratio (INR) or prothrombin time when given concomitantly with vitamin K antagonist anticoagulant medications such as warfarin.

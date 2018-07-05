@@ -22,7 +22,7 @@ Instruct patients to immediately report behaviors of concern to their healthcare
 
 Interference with Cognitive and Motor Performance
 
-Warn patients about the potential for somnolence, dizziness, confusion, difficulty concentrating, or visual effects and advise patients not to drive or operate machinery until they have gained sufficient experience on topiramate to gauge whether it adversely affects their mental performance, motor performance, and/or vision [see WARNINGS AND PRECAUTIONS (5.6)].
+Warn patients about the potential for somnolence, dizziness, confusion, difficulty concentrating, or visual effects and advise patients not to drive or operate machinery until they have gained sufficient experience on topiramate to gauge whether it adversely affects their mental performance, motor performance, and/or vision [see Warnings and Precautions (5.6)].
 
 Even when taking topiramate or other anticonvulsants, some patients with epilepsy will continue to have unpredictable seizures.
 Therefore, advise all patients taking topiramate for epilepsy to exercise appropriate caution when engaging in any activities where loss of consciousness could result in serious danger to themselves or those around them (including swimming, driving a car, climbing in high places, etc.). Some patients with refractory epilepsy will need to avoid such activities altogether.
@@ -32,7 +32,7 @@ Fetal Toxicity
 
 Inform pregnant women and women of childbearing potential that use of topiramate during pregnancy can cause fetal harm, including an increased risk for cleft lip and/or cleft palate (oral clefts), which occur early in pregnancy before many women know they are pregnant.
 Also inform patients that infants exposed to topiramate monotherapy in utero may be small for their gestational age [see Use in Specific Populations (8.1)].
-There may also be risks to the fetus from chronic metabolic acidosis with use of topiramate during pregnancy [see Warnings and Precautions (5.7), Use in Specific Populations (8.1, 8.9)].
+There may also be risks to the fetus from chronic metabolic acidosis with use of topiramate during pregnancy [see Warnings and Precautions (5.7), Use in Specific Populations (8.1, 8.8)].
 When appropriate, counsel pregnant women and women of childbearing potential about alternative therapeutic options.
 This is particularly important when topiramate use is considered for a condition not usually associated with permanent injury or death.
 
