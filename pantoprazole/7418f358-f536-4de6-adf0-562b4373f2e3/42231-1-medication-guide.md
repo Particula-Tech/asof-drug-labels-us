@@ -14,15 +14,12 @@ Pantoprazole sodium delayed-release tablets can cause serious side effects, incl
 - A type of kidney problem (acute interstitial nephritis).
   Some people who take proton pump inhibitor (PPI) medicines, including pantoprazole sodium delayed-release tablets, may develop a kidney problem called acute interstitial nephritis that can happen at any time during treatment with pantoprazole sodium delayed-release tablets.
   Call your doctor right away if you have a decrease in the amount that you urinate or if you have blood in your urine.
-
 - Diarrhea caused by an infection (Clostridium difficile) in your intestines.
   Call your doctor right away if you have watery stools or stomach pain that does not go away.
   You may or may not have a fever.
-
 - Bone fractures (hip, wrist, or spine).
   Bone fractures in the hip, wrist, or spine may happen in people who take multiple daily doses of PPI medicines and for a long period of time (a year or longer).
   Tell your doctor if you have a bone fracture, especially in the hip, wrist, or spine.
-
 - Certain types of lupus erythematosus.
   Lupus erythematosus is an autoimmune disorder (the body’s immune cells attack other cells or organs in the body).
   Some people who take PPI medicines, including pantoprazole sodium delayed-release tablets, may develop certain types of lupus erythematosus or have worsening of the lupus they already have.
@@ -80,28 +77,27 @@ Especially tell your doctor if you take methotrexate (Otrexup, Rasuvo, Trexall, 
 How should I take pantoprazole sodium delayed-release tablets?
 
 - Take pantoprazole sodium delayed-release tablets exactly as prescribed by your doctor.
-- Do not split, chew, or crush pantoprazole sodium delayed-release tablets.
-- Swallow pantoprazole sodium delayed-release tablets whole, with or without food.
-- Tell your doctor if you are not able to swallow your pantoprazole sodium delayed-release tablet.
-- You may use antacids while taking pantoprazole sodium delayed-release tablets.
-
+  - Do not split, chew, or crush pantoprazole sodium delayed-release tablets.
+  - Swallow pantoprazole sodium delayed-release tablets whole, with or without food.
+  - Tell your doctor if you are not able to swallow your pantoprazole sodium delayed-release tablet.
+  - You may use antacids while taking pantoprazole sodium delayed-release tablets.
 - If you miss a dose of pantoprazole sodium delayed-release tablets, take it as soon as possible.
   If it is almost time for your next dose, do not take the missed dose.
   Take the next dose at your regular time.
   Do not take 2 doses at the same time.
-- If you take too much pantoprazole sodium, call your doctor or your poison control center at 1-800-222-1222 right away or go to the nearest emergency room.
+- If you take too much pantoprazole sodium delayed-release tablets, call your doctor or your poison control center at 1-800-222-1222 right away or go to the nearest emergency room.
 
 What are the possible side effects of pantoprazole sodium delayed-release tablets?
 
 Pantoprazole sodium delayed-release tablets can cause serious side effects, including:
 
 - See “What is the most important information I should know about pantoprazole sodium delayed-release tablets?”
-
 - Low vitamin B-12 levels in your body can happen in people who have taken pantoprazole sodium delayed-release tablets for a long time (more than 3 years).
   Tell your doctor if you have symptoms of low vitamin B-12 levels, including shortness of breath, lightheadedness, irregular heartbeat, muscle weakness, pale skin, feeling tired, mood changes, and tingling or numbness in the arms and legs.
-
 - Low magnesium levels in your body can happen in people who have taken pantoprazole sodium delayed-release tablets for at least 3 months.
   Tell your doctor if you have symptoms of low magnesium levels, including seizures, dizziness, irregular heartbeat, jitteriness, muscle aches or weakness, and spasms of hands, feet or voice.
+- Stomach growths (fundic gland polyps).
+  People who take PPI medicines for a long time have an increased risk of developing a certain type of stomach growths called fundic gland polyps, especially after taking PPI medicines for more than 1 year.
 
 The most common side effects of pantoprazole sodium delayed-release tablets in adults include: headache, diarrhea, nausea, stomach-area (abdominal) pain, vomiting, gas, dizziness, and joint pain.
 
@@ -144,9 +140,9 @@ Distributed by:
 
 Aurobindo Pharma USA, Inc.
 
-2400 Route 130 North
+279 Princeton-Hightstown Road
 
-Dayton, NJ 08810
+East Windsor, NJ 08520
 
 Manufactured by:
 
@@ -154,4 +150,4 @@ Aurobindo Pharma Limited
 
 Hyderabad-500 038, India
 
-Revised: 02/2018
+Revised: 07/2018

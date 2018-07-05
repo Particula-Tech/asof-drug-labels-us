@@ -29,7 +29,7 @@ Advise patients to report any clinical symptoms that may be associated with hypo
 
 Drug Interactions
 
-Instruct patients to inform their healthcare provider of any other medications they are currently taking, including rilpivirine-containing products [see Contraindications (4)] digoxin [see Warnings and Precautions (5.7)] and high dose methotrexate [see Warnings and Precautions (5.11)].
+Instruct patients to inform their healthcare provider of any other medications they are currently taking, including rilpivirine-containing products [see Contraindications (4)] digoxin [see Warnings and Precautions (5.7)] and high dose methotrexate [see Warnings and Precautions (5.12)].
 
 Pregnancy
 
@@ -46,4 +46,4 @@ Administration
 
 Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
 
-Distributed by: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 02/2018
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 07/2018
