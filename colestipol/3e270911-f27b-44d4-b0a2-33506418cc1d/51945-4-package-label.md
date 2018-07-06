@@ -4,9 +4,7 @@ Pfizer
 
 NDC 0009-0450-03
 
-Colestid®
-
-micronized colestipol hydrochloride tablets
+Colestid® (colestipol hydrochloride) tablets
 
 1 g
 
