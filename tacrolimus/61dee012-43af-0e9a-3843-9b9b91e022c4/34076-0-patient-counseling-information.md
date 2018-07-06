@@ -1,53 +1,74 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
+
 ## 17.1 Administration
 
 Advise patients to:
 
-- Take tacrolimus at the same 12-hour intervals everyday to achieve consistent blood concentrations.
+Advise the patient or caregiver to:
+
+- Inspect their tacrolimus medicine when they receive a new prescription and before taking it.
+  If the appearance of the capsule is not the same as usual, or if dosage instructions have changed, advise patients to contact their healthcare provider as soon as possible to make sure that they have the right medicine.
+  Other tacrolimus products cannot be substituted for tacrolimus.
+- Take tacrolimus at the same 12 hour intervals every day to achieve consistent blood concentrations.
 - Take tacrolimus consistently either with or without food because the presence and composition of food decreases the bioavailability of tacrolimus.
 - Not to eat grapefruit or drink grapefruit juice in combination with tacrolimus [seeDrug Interactions (7.2)].
 
 ## 17.2 Development of Lymphoma and Other Malignancies
 
 Inform patients they are at increased risk of developing lymphomas and other malignancies, particularly of the skin, due to immunosuppression.
-Advise patients to limit exposure to sunlight and ultraviolet (UV) light by wearing protective clothing and use a sunscreen with a high protection factor [see Warnings and Precautions (5.2)].
+Advise patients to limit exposure to sunlight and ultraviolet (UV) light by wearing protective clothing and use a sunscreen with a high protection factor [see Warnings and Precautions (5.1)].
 
 ## 17.3 Increased Risk of Infection
 
-Inform patients they are at increased risk of developing a variety of infections, including opportunistic infections, due to immunosuppression and to contact their physician if they develop any symptoms of infection [see Warnings and Precautions (5.3, 5.4, 5.5)].
+Inform patients they are at increased risk of developing a variety of infections, including opportunistic infections, due to immunosuppression and to contact their physician if they develop any symptoms of infection such as fever, sweats or chills, cough or flu-like symptoms, muscle aches, or warm, red, painful areas on the skin [see Warnings and Precautions (5.2)].
 
 ## 17.4 New Onset Diabetes After Transplant
 
-Inform patients that tacrolimus can cause diabetes mellitus and should be advised to contact their physician if they develop frequent urination, increased thirst or hunger [see Warnings and Precautions (5.6)].
+Inform patients that tacrolimus can cause diabetes mellitus and should be advised to contact their physician if they develop frequent urination, increased thirst or hunger [see Warnings and Precautions (5.4)].
 
-## 17.5 Nephrotoxicity
+## 17.5 Neurotoxicity
 
-Inform patients that tacrolimus can have toxic effects on the kidney that should be monitored.
-Advise patients to attend all visits and complete all blood tests ordered by their medical team [see Warnings and Precautions (5.7)].
+Inform patients that they are at risk of developing adverse neurologic reactions including seizure, altered mental status, and tremor.
+Advise patients to contact their physician should they develop vision changes, deliriums, or tremors [see Warnings and Precautions (5.6)].
 
-## 17.6 Neurotoxicity
+## 17.6 Hypertension
 
-Inform patients that they are at risk of developing adverse neurologic effects including seizure, altered mental status, and tremor.
-Advise patients to contact their physician should they develop vision changes, deliriums, or tremors [see Warnings and Precautions (5.8)].
+Inform patients that tacrolimus can cause high blood pressure which may require treatment with anti-hypertensive therapy.
+Advise patients to monitor their blood pressure [see Warnings and Precautions (5.8)].
 
-## 17.7 Hyperkalemia
+## 17.7 Drug Interactions
 
-Inform patients that tacrolimus can cause hyperkalemia.
-Monitoring of potassium levels may be necessary, especially with concomitant use of other drugs known to cause hyperkalemia [see Warnings and Precautions (5.9)].
+Instruct patients to tell their healthcare providers when they start or stop taking all the medicines, including prescription medicines and non-prescription medicines, natural or herbal remedies, nutritional supplements, and vitamins.
+Advise patients to avoid grapefruit and grapefruit juice [see Drug Interactions (7)].
 
-## 17.8 Hypertension
+## 17.8 Pregnant, Lactation and Infertility
 
-Inform patients that tacrolimus can cause high blood pressure which may require treatment with anti-hypertensive therapy [see Warnings and Precautions (5.10)].
+Inform women of childbearing potential that tacrolimus can harm the fetus.
+Instruct male and female patients to discuss with their healthcare provider family planning options including appropriate contraception.
+Also, discuss with pregnant patients the risks and benefits of breastfeeding their infant [see Use in Specific Populations (8.1, 8.2, 8.3)].
+Encourage female transplant patients who become pregnant and male patients who have fathered a pregnancy, exposed to immunosuppressants including tacrolimus, to enroll in the voluntary Transplantation Pregnancy Registry International.
+To enroll or register, patients can call the toll free number 1-877-955-6877 or https://www.transplantpregnancyregistry.org/ [see Use in Specific Populations (8.1)].
 
-## 17.9 Drug Interactions
+Based on animal studies, tacrolimus may affect fertility in males and females [see Nonclinical Toxicology (13.1)].
 
-Instruct patients to tell their health care providers when they start or stop taking all the medicines, including prescription medicines and non-prescription medicines, natural or herbal remedies, nutritional supplements and vitamins [see Drug Interactions (7)].
+## 17.9 Myocardial Hypertrophy
 
-## 17.10 Pregnant Women and Nursing Mothers
+Inform patients to report symptoms of tiredness, swelling, and/or shortness of breath (heart failure).
 
-Instruct patients to tell their healthcare provider if they plan to become pregnant or breast-feed their infant [see Use in Specific Populations (8.1,8.3)]
+## 17.10 Immunizations
 
-## 17.11 Immunizations
+Inform patients that tacrolimus can interfere with the usual response to immunizations and that they should avoid live vaccines [see Warnings and Precautions (5.14)].
 
-Inform patients that tacrolimus can interfere with the usual response to immunizations and that they should avoid live vaccines [see Warnings and Precautions (5.16)].
+All other trademarks and registered trademarks are the property of their respective owners.
+
+Rx Only
+
+Manufactured by
+
+Dr. Reddy’s Laboratories Limited
+
+Bachupally – 500 090 INDIA
+
+Revised: 0618

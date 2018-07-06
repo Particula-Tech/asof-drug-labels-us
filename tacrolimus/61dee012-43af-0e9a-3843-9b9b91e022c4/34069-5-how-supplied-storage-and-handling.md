@@ -37,4 +37,14 @@ Capsule contains labeled amount.
 
 Store and Dispense
 
-Store Tacrolimus capsules at 20°C-25°C (68°F-77°F) [See USP Controlled Room Temperature].
+Store at 20°C-25°C (68°F-77°F) [See USP Controlled Room Temperature].
+
+## 16.4 Handling and Disposal
+
+Tacrolimus can cause fetal harm.
+Tacrolimus capsules should not be opened or crushed.
+Wearing disposable gloves is recommended during dilution of the injection or when preparing the oral suspension in the hospital and when wiping any spills.
+Avoid inhalation or direct contact with skin or mucous membranes of the powder or granules contained in tacrolimus capsules and tacrolimus granules, respectively.
+If such contact occurs wash the skin thoroughly with soap and water; if ocular contact occurs, rinse eyes with water.
+In case a spill occurs, wipe the surface with a wet paper towel.
+Follow applicable special handling and disposal procedures1.
