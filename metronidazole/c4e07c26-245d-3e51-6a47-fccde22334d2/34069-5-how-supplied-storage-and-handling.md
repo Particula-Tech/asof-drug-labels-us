@@ -10,5 +10,5 @@ Storage: Store at controlled room temperature 68° to 77°F (20° - 25°C).
 Protect from freezing.
 
 Marketed by: GALDERMA LABORATORIES, L.P.
-Fort Worth, Texas 76177 USA GALDERMA is a registered trademark.
-P52497-0 Revised: June 2014
+Fort Worth, Texas 76177 USA Made in Canada All trademarks are the property of their respective owners.
+P53319-0 Revised: February 2017

@@ -34,10 +34,6 @@ Protect from freezing.
 Marketed by: GALDERMA LABORATORIES, L.P.
 Fort Worth, Texas 76177 USA
 
-Galderma is a registered trademark.
+All trademarks are the property of their respective owners.
 
-P52498-0
-
-LOT:
-
-EXP.:
+P53320-0 Made in Canada
