@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Entecavir is an antiviral drug [see Microbiology (12.4)].
+Entecavir is an antiviral drug against the hepatitis B virus [see Microbiology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
@@ -58,23 +58,24 @@ Entecavir exposure among lamivudine-experienced subjects was similar to the expo
 
 Table 6: Pharmacokinetic Parameters in Pediatric Subjects
 
-|  | n=24 | n=19 |
-| --- | --- | --- |
 |  | Nucleoside-Inhibitor-Naïvea | Lamivudine-Experiencedb |
+| --- | --- | --- |
+|  | n=24 | n=19 |
 | Cmax (ng/mL) (CV%) | 6.31 (30) | 14.48 (31) |
 | AUC(0–24) (ng•h/mL) (CV%) | 18.33 (27) | 38.58 (26) |
 | Cmin (ng/mL) (CV%) | 0.28 (22) | 0.47 (23) |
-| a Subjects received once-daily doses of 0.015 mg/kg up to a maximum of 0.5 mg. b Subjects received once-daily doses of 0.030 mg/kg up to a maximum of 1 mg. |  |  |
+| a Subjects received once-daily doses of 0.015 mg/kg up to a maximum of 0.5 mg. b Subjects received once-daily doses of 0.030 mg/kg up to a maximum of 1 mg |  |  |
 
 Renal impairment: The pharmacokinetics of entecavir following a single 1 mg dose were studied in subjects (without chronic hepatitis B virus infection) with selected degrees of renal impairment, including subjects whose renal impairment was managed by hemodialysis or continuous ambulatory peritoneal dialysis (CAPD).
 Results are shown in Table 7 [see Dosage and Administration (2.4)].
 
 Table 7: Pharmacokinetic Parameters in Subjects with Selected Degrees of Renal Function
 
-|  | Unimpaired >80 n=6 | Mild >50–≤80 n=6 | Moderate 30–50 n=6 | Severe <30 n=6 | Severe Managed with Hemodialysisa n=6 | Severe Managed with CAPD n=4 |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Renal Function Group |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Baseline Creatinine Clearance (mL/min) |  |  |  |  |  |  |  |  |
+|  | Unimpaired >80 | Mild >50–≤80 | Moderate 30–50 | Severe <30 | Severe Managed with Hemodialysisa | Severe Managed with CAPD |  |  |  |
+|  | n=6 | n=6 | n=6 | n=6 | n=6 | n=4 |  |  |  |
 | Cmax (ng/mL) (CV%) | 8.1 (30.7) | 10.4 (37.2) | 10.5 (22.7) | 15.3 (33.8) | 15.4 (56.4) | 16.6 (29.7) |  |  |  |
 | AUC(0–T) (ng•h/mL) (CV) | 27.9 (25.6) | 51.5 (22.8) | 69.5 (22.7) | 145.7 (31.5) | 233.9 (28.4) | 221.8 (11.6) |  |  |  |
 | CLR (mL/min) (SD) | 383.2 (101.8) | 197.9 (78.1) | 135.6 (31.6) | 40.3 (10.1) | NA | NA |  |  |  |
@@ -132,6 +133,7 @@ HIV variants containing the M184V substitution showed loss of susceptibility to 
 
 In cell-based assays, 8- to 30-fold reductions in entecavir phenotypic susceptibility were observed for lamivudine-resistant strains.
 Further reductions (>70-fold) in entecavir phenotypic susceptibility required the presence of amino acid substitutions rtM204I/V with or without rtL180M along with additional substitutions at residues rtT184, rtS202, or rtM250, or a combination of these substitutions with or without an rtI169 substitution in the HBV reverse transcriptase.
+Lamivudine-resistant strains harboring rtL180M plus rtM204V in combination with the amino acid substitution rtA181C conferred 16- to 122-fold reductions in entecavir phenotypic susceptibility.
 
 #### Clinical Studies
 
@@ -162,6 +164,9 @@ By Weeks 144, 192, and 240 (including end of dosing), 34% (27/80), 35% (28/80), 
 The cumulative probability of developing rtT184, rtS202, or rtM250 entecavir resistance-associated substitutions (in the presence of rtM204I/V with or without rtL180M substitutions) at Weeks 48, 96, 144, 192, and 240 was 6.2%, 15%, 36.3%, 46.6%, and 51.5%, respectively.
 The HBV of 6 subjects developed rtA181C/G/S/T amino acid substitutions while receiving entecavir, and of these, 4 developed entecavir resistance-associated substitutions at rtT184, rtS202, or rtM250 and 1 had an rtT184S substitution at baseline.
 Of 7 subjects whose HBV had an rtA181 substitution at baseline, 2 also had substitutions at rtT184, rtS202, or rtM250 at baseline and another 2 developed them while on treatment with entecavir.
+
+In a post-approval integrated analysis of entecavir resistance data from 17 Phase 2 and 3 clinical trials, an emergent entecavir resistance-associated substitution rtA181C was detected in 5 out of 1461 (0.3%) subjects during treatment with entecavir.
+This substitution was detected only in the presence of lamivudine resistance-associated substitutions rtL180M plus rtM204V.
 
 #### Cross-resistance
 
