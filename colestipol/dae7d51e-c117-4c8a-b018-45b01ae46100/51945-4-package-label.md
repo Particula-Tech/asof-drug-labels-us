@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 120 Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 1 g Tablet Bottle Label
 
 NDC 59762-0450-1
 
