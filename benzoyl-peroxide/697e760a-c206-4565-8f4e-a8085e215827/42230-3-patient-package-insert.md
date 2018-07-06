@@ -16,16 +16,16 @@ Who should not use ONEXTON Gel?
 
 Do not use ONEXTON Gel if you have:
 
-- •had an allergic reaction to clindamycin, benzoyl peroxide, lincomycin or any of the ingredients in ONEXTON Gel.
+- •had an allergic reaction to clindamycin, benzoyl peroxide, lincomycin, or any of the ingredients in ONEXTON Gel.
   See the end of this leaflet for a complete list of ingredients in ONEXTON Gel.
-- •Crohn’s disease or ulcerative colitis
-- •had inflammation of the colon (colitis), or severe diarrhea with past antibiotic use
+- •Crohn’s disease or ulcerative colitis.
+- •had inflammation of the colon (colitis), or severe diarrhea with past antibiotic use.
 
 What should I tell my doctor before using ONEXTON Gel?
 
 Before using ONEXTON Gel, tell your doctor about all of your medical conditions, including if you:
 
-- •plan to have surgery with general anesthesia
+- •plan to have surgery with general anesthesia.
 - •are pregnant or plan to become pregnant.
   It is not known if ONEXTON Gel will harm your unborn baby.
 - •are breastfeeding or plan to breastfeed.
@@ -81,7 +81,7 @@ ONEXTON Gel may cause serious side effects, including:
   Stop using ONEXTON Gel, call your doctor and get help right away if you get severe itching, swelling of your face, eyes, lips, tongue, or throat, or trouble breathing.
 
 The most common side effect with ONEXTON Gel is skin irritation.
-Stop using ONEXTON Gel and call your doctor if you have a skin rash or burning, or your skin becomes very red, itchy or swollen.
+Stop using ONEXTON Gel and call your doctor if you have a skin rash or burning, or your skin becomes very red, itchy, or swollen.
 
 Talk to your doctor about any side effect that bothers you or that does not go away.
 These are not all the possible side effects with ONEXTON Gel.
@@ -89,7 +89,7 @@ These are not all the possible side effects with ONEXTON Gel.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-You may also report side effects to Valeant Pharmaceuticals North America LLC, at 1-800-321-4576.
+You may also report side effects to Valeant Pharmaceuticals North America LLC at 1-800-321-4576.
 
 How should I store ONEXTON Gel?
 
@@ -100,7 +100,7 @@ How should I store ONEXTON Gel?
 - •The expiration date of ONEXTON Gel is 10 weeks from the date you fill your prescription.
   Safely throw away expired ONEXTON Gel.
 
-Keep ONEXTON Gel and all medicines out of the reach of children.
+Keep ONEXTON Gel and all medicines out of reach of children.
 
 General information about the safe and effective use of ONEXTON Gel
 
@@ -116,32 +116,19 @@ Active ingredients: clindamycin phosphate 1.2% and benzoyl peroxide 3.75%
 
 Inactive ingredients: carbomer 980, potassium hydroxide, propylene glycol, and purified water
 
-Manufactured for: Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807 USA
+Manufactured for: Dow Pharmaceutical Sciences, a division ofValeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
 By: Valeant Pharmaceuticals International, Inc., Laval, Quebec H7L 4A8, Canada
 
-OR
-
-By: Contract Pharmaceuticals Limited, Mississauga, Ontario, Canada L5N 6L6
-
-U.S. Patent 8,288,434
+U.S. Patent Numbers: 8,288,434; 9,504,704 and 9,561,208
 
 Onexton is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
-©Valeant Pharmaceuticals North America LLC
+© Valeant Pharmaceuticals North America LLC
 
 For more information about ONEXTON Gel, call 1-800-321-4576.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Valeant Pharmaceuticals International Inc. PI: 9432702 50105259C
-
-Rev.
-10/2016
-
-OR
-
-Contract Pharmaceuticals Limited PI:
-
-9389300 Rev.
-11/2014
+9432703 Rev.
+04/2018
