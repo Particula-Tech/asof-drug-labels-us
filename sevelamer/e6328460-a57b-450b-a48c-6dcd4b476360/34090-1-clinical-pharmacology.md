@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Renvela contains sevelamer carbonate, a non-absorbed phosphate-binding cross-linked polymer, free of metal and calcium.
+Renvela contains sevelamer carbonate, a non-absorbed phosphate binding cross-linked polymer, free of metal and calcium.
 It contains multiple amines separated by one carbon from the polymer backbone.
 These amines exist in a protonated form in the intestine and interact with phosphate molecules through ionic and hydrogen bonding.
 By binding phosphate in the gastrointestinal tract and decreasing absorption, sevelamer carbonate lowers the phosphate concentration in the serum (serum phosphorus).

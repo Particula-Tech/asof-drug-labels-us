@@ -1,3 +1,3 @@
-Distributed by: Genzyme Corporation 500 Kendall Street Cambridge, MA 02142 USA
+Manufactured by: Genzyme Ireland Ltd. For: Genzyme Corporation Cambridge, MA 02142
 
-Revised: March 2017
+Renvela is a registered trademark of Genzyme Corporation.

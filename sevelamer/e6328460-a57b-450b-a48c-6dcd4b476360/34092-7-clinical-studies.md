@@ -38,7 +38,7 @@ In contrast, a treatment effect was not observed in subjects with a baseline ser
 
 Figure 2: Change in Serum Phosphorus (mg/dL) from Baseline to Week 2 by Subgroup
 
-[a]: LS Mean difference of Sevelamer Carbonate – Placebo, based on ANCOVA within subgroup and with treatment as fixed effect and screening BSA and baseline serum phosphorus as covariates.
+Note: LS Mean difference of Sevelamer Carbonate – Placebo, based on ANCOVA within subgroup and with treatment as fixed effect and screening BSA and baseline serum phosphorus as covariates.
 
 ## 14.4 Sevelamer Hydrochloride versus Active-Control, Cross-Over Study in Hemodialysis Patients
 
@@ -62,7 +62,7 @@ The distributions are similar for sevelamer hydrochloride and active control.
 The median response is a reduction of about 2 mg/dL in both groups.
 About 50% of subjects have reductions between 1 and 3 mg/dL.
 
-Figure 3: Percentage of Patients (Y-axis) Attaining a Phosphorus Reduction from Baseline (mg/dL) at Least as Great as the Value of the X-axis
+Figure 3: Percentage of Patients (Y-axis) Attaining a Phosphorus Reduction from Baseline (mg/dL) at Least as Great as the Value of the X-axis.
 
 Average daily sevelamer hydrochloride dose at the end of treatment was 4.9 g (range of 0.0 to 12.6 g).
 
