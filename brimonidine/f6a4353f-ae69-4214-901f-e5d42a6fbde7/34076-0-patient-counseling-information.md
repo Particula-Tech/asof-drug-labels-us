@@ -21,4 +21,4 @@ Made in Canada.
 
 All trademarks are the property of their respective owners.
 
-P52849-1 or P51217-3
+P52849-2 or P51217-3

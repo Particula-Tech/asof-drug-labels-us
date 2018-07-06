@@ -10,3 +10,13 @@ Table 2 presents the efficacy results.
 In addition to Day 29, efficacy was evaluated on Day 15 and Day 1, and the results are presented in Figures 1 and 2 for Studies 1 and 2, respectively.
 
 Table 2: Summary of 2-grade Composite Success on Day 29
+
+| Success | Study 1 |  | Study 2 |  |
+| --- | --- | --- | --- | --- |
+|  | MIRVASO Topical Gel (N=129) | Vehicle Gel (N=131) | MIRVAO Topical Gel (N=148) | Vehicle Gel (N=145) |
+| Hour 3 | 31% | 11% | 25% | 9% |
+| Hour 6 | 30% | 10% | 25% | 9% |
+| Hour 9 | 26% | 10% | 18% | 11% |
+| Hour 12 | 23% | 9% | 22% | 10% |
+
+2-grade Composite Success: 2-grade improvement on CEA and 2-grade improvement on PSA.

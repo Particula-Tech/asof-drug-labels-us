@@ -17,6 +17,21 @@ Adverse reactions that occurred in at least 1% of subjects treated with MIRVASO 
 
 Table 1 - Adverse Reactions Reported in Clinical Trials by at Least 1% of Subjects Treated for 29 Days
 
+| Preferred Term | MIRVASO Topical Gel (N=330) n (%) | Vehicle Gel (N=330) n (%) |
+| --- | --- | --- |
+| Subjects with at least one adverse reaction, Number (%) of Subjects | 109 (33) | 91 (28) |
+| Erythema | 12 (4%) | 3 (1%) |
+| Flushing | 9 (3%) | 0 |
+| Skin burning sensation | 5 (2%) | 2 (1%) |
+| Dermatitis contact | 3 (1%) | 1 (<1%) |
+| Dermatitis | 3 (1%) | 1 (<1%) |
+| Skin warm | 3 (1%) | 0 |
+| Paraesthesia | 2 (1%) | 1 (<1%) |
+| Acne | 2 (1%) | 1 (<1%) |
+| Pain of skin | 2 (1%) | 0 |
+| Vision blurred | 2 (1%) | 0 |
+| Nasal congestion | 2 (1%) | 0 |
+
 Open-label, Long-term Study An open-label study of MIRVASO topical gel when applied once daily for up to one year was conducted in subjects with persistent (nontransient) facial erythema of rosacea.
 Subjects were allowed to use other rosacea therapies.
 A total of 276 subjects applied MIRVASO topical gel for at least one year.
