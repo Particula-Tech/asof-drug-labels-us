@@ -32,12 +32,15 @@ Patients at risk for osteoporosis-related fractures should be managed according 
 Cutaneous lupus erythematosus (CLE) and systemic lupus erythematosus (SLE) have been reported in patients taking PPIs, including esomeprazole.
 These events have occurred as both new onset and an exacerbation of existing autoimmune disease.
 The majority of PPI-induced lupus erythematosus cases were CLE.
+
 The most common form of CLE reported in patients treated with PPIs was subacute CLE (SCLE) and occurred within weeks to years after continuous drug therapy in patients ranging from infants to the elderly.
 Generally, histological findings were observed without organ involvement.
+
 Systemic lupus erythematosus (SLE) is less commonly reported than CLE in patients receiving PPIs.
 PPI associated SLE is usually milder than non-drug induced SLE.
 Onset of SLE typically occurred within days to years after initiating treatment primarily in patients ranging from young adults to the elderly.
 The majority of patients presented with rash; however, arthralgia and cytopenia were also reported.
+
 Avoid administration of PPIs for longer than medically indicated.
 If signs or symptoms consistent with CLE or SLE are noted in patients receiving esomeprazole magnesium delayed-release capsules, discontinue the drug and refer the patient to the appropriate specialist for evaluation.
 Most patients improve with discontinuation of the PPI alone in 4 to 12 weeks.
@@ -81,3 +84,9 @@ If serial tests are performed (e.g., for monitoring), the same commercial labora
 
 Literature suggests that concomitant use of PPIs with methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite, possibly leading to methotrexate toxicities.
 In high-dose methotrexate administration a temporary withdrawal of the PPI may be considered in some patients [see Drug Interactions (7.7)].
+
+## 5.12 Fundic Gland Polyps
+
+PPI use is associated with an increased risk of fundic gland polyps that increases with long-term use, especially beyond one year.
+Most PPI users who developed fundic gland polyps were asymptomatic and fundic gland polyps were identified incidentally on endoscopy.
+Use the shortest duration of PPI therapy appropriate to the condition being treated.

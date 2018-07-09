@@ -134,26 +134,29 @@ You may or may not have symptoms of low magnesium.
 Tell your doctor right away if you have any of these symptoms:
 
 - seizures
-- dizziness
-- abnormal or fast heart beat
-- jitteriness
-- jerking movements or shaking (tremors)
 - muscle weakness
+- dizziness
 - spasms of the hands and feet
+- abnormal or fast heart beat
 - cramps or muscle aches
+- jitteriness
 - spasm of the voice box
+- jerking movements or shaking (tremors)
 
 Your doctor may check the level of magnesium in your body before you start taking esomeprazole magnesium delayed-release capsules or during treatment if you will be taking esomeprazole magnesium delayed-release capsules for a long period of time.
+
+- Stomach growths (fundic gland polyps).
+  People who take PPI medicines for a long time have an increased risk of developing a certain type of stomach growths called fundic gland polyps, especially after taking PPI medicines for more than 1 year.
 
 The most common side effects with esomeprazole magnesium delayed-release capsules may include:
 
 - headache
-- diarrhea
-- nausea
-- gas
 - abdominal pain
+- diarrhea
 - constipation
+- nausea
 - dry mouth
+- gas
 - drowsiness
 
 Other side effects:
@@ -162,8 +165,8 @@ Serious allergic reactions.
 Tell your doctor if you get any of the following symptoms with esomeprazole magnesium delayed-release capsules:
 
 - rash
-- face swelling
 - throat tightness
+- face swelling
 - difficulty breathing
 
 Your doctor may stop esomeprazole magnesium delayed-release capsules if these symptoms happen.
@@ -225,4 +228,4 @@ Dispense with Medication Guide available at: www.aurobindousa.com/product-medica
 
 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India
 
-Revised: 09/2017
+Revised: 06/2018

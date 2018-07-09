@@ -44,7 +44,7 @@ Co-administration of esomeprazole 30 mg and diazepam, a CYP2C19 substrate, resul
 Clopidogrel Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
 Concomitant use of esomeprazole 40 mg results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition.
 Avoid concomitant administration of esomeprazole magnesium delayed-release capsules with clopidogrel.
-When using esomeprazole magnesium delayed-release capsules, consider use of alternative anti-platelet therapy [see Pharmacokinetics (12.3)].
+When using esomeprazole magnesium delayed-release capsules, consider use of alternative anti-platelet therapy [see Clinical Pharmacology (12.3)].
 Omeprazole acts as an inhibitor of CYP2C19.
 Omeprazole, given in doses of 40 mg daily for one week to 20 healthy subjects in cross-over study, increased Cmax and AUC of cilostazol by 18% and 26% respectively.
 Cmax and AUC of one of its active metabolites, 3,4-dihydro-cilostazol, which has 4 to 7 times the activity of cilostazol, were increased by 29% and 69%, respectively.
