@@ -9,4 +9,4 @@ Rare spontaneous reports of congenital anomalies including limb reduction have b
 Only limited information is available regarding these reports; therefore, no conclusion on causal association can be established.
 If minocycline is used during pregnancy or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
 
-Nonteratogenic Effects: (see WARNINGS.)
+Nonteratogenic Effects: (See WARNINGS.)

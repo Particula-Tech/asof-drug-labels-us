@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-THE USUAL DOSAGE AND FREQUENCY OF ADMINISTRATION OF MINOCYCLINE DIFFERS FROM THAT OF THE OTHER TETRACYCLINES.
+THE USUAL DOSAGE AND FREQUENCY OF ADMINISTRATION OF MINOCYCLINE DIFFER FROM THAT OF THE OTHER TETRACYCLINES.
 EXCEEDING THE RECOMMENDED DOSAGE MAY RESULT IN AN INCREASED INCIDENCE OF SIDE EFFECTS.
 
 MINOCIN Pellet-Filled Capsules may be taken with or without food (see CLINICAL PHARMACOLOGY).
@@ -35,4 +35,4 @@ Ingestion of adequate amounts of fluids along with capsule and tablet forms of d
 The pharmacokinetics of minocycline in patients with renal impairment (CLCR <80 mL/min) have not been fully characterized.
 Current data are insufficient to determine if a dosage adjustment is warranted.
 The total daily dosage should not exceed 200 mg in 24 hours.
-However, due to the antianabolic effect of tetracyclines, BUN and creatinine should be monitored (see WARNINGS).
+However, due to the antianabolic effect of tetracyclines, BUN and creatinine should be monitored (see WARNINGS - Antianabolic Action).

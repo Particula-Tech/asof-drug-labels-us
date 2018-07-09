@@ -62,8 +62,8 @@ How should I take MINOCIN capsules?
 
 - •Take MINOCIN capsules exactly as your doctor tells you to take them.
   Skipping doses or not taking all your MINOCIN may:
-  - oDecrease the effectiveness of the treatment
-  - oIncrease the chance that bacteria will develop resistance to MINOCIN
+  - •Decrease the effectiveness of the treatment
+  - •Increase the chance that bacteria will develop resistance to MINOCIN
 - •Take MINOCIN with a full glass of liquid.
   Taking MINOCIN with enough liquid may lower your chance of getting irritation or ulcers in your esophagus.
   Your esophagus is the tube that connects your mouth to your stomach.
