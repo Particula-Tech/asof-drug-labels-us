@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA201691"
+  ],
+  "inn": "hydroxychloroquine",
+  "labeler": "Sun Pharmaceutical Industries, Inc.",
+  "package_ndcs": [
+    "57664-761-13",
+    "57664-761-88"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "hydroxychloroquine sulfate",
+      "name": "HYDROXYCHLOROQUINE SULFATE"
+    }
+  ],
+  "setid": "6e72fe06-7995-3fd7-e053-2a91aa0a54db",
+  "source": "dailymed"
+}
