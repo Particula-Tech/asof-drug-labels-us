@@ -7,14 +7,15 @@ Azelastine hydrochloride has been shown to cause developmental toxicity in mice,
 Azelastine HCl Nasal Spray should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 Teratogenic Effects: In mice, azelastine hydrochloride caused embryo-fetal death, malformations (cleft palate; short or absent tail; fused, absent or branched ribs), delayed ossification, and decreased fetal weight at approximately 170 times the maximum recommended human daily intranasal dose (MRHDID) in adults (on a mg/m2 basis at a maternal oral dose of 68.6 mg/kg/day which also caused maternal toxicity as evidenced by decreased body weight).
-Neither fetal nor maternal effects occurred in mice at approximately 7 times the MRHDID in adults (on a mg/m2 basis at a maternal oral dose of 3 mg/kg/day).
+Neither fetal nor maternal effects occurred in mice at approximately 7 times the MRHDID in adults (on a mg/m2 basis i s at a maternal oral dose of 3 mg/kg/day).
 
-In rats, azelastine hydrochloride caused malformations (oligo-and brachydactylia), delayed ossification and skeletal variations, in the absence of maternal toxicity, at approximately 150 times the MRHDID in adults (on a mg/m2 basis at a maternal oral dose of 30 mg/kg/day).
-Azelastine hydrochloride caused embryo-fetal death and decreased fetal weight and severe maternal toxicity at approximately 340 times the MRHDID (on a mg/m2 basis at a maternal oral dose of 68.6 mg/kg/day).
+In rats, azelastine hydrochloride caused malformations (oligo-and brachydactylia), delayed ossification and skeletal variations, in the absence of maternal toxicity, at approximately 150 times the MRHDID in adults (on a mg/m2basis at a maternal oral dose of 30 mg/kg/day).
+Azelastine hydrochloride caused embryo-fetal death and decreased fetal weight and severe maternal toxicity at approximately 340 times the MRHDID (on a mg/m2basis at a maternal oral dose of 68.6 mg/kg/day).
 Neither fetal nor maternal effects occurred at approximately 15 times the MRHDID (on a mg/m2 basis at a maternal oral dose of 2 mg/kg/day).
 
-In rabbits, azelastine hydrochloride caused abortion, delayed ossification and decreased fetal weight and severe maternal toxicity at approximately 300 times the MRHDID in adults (on a mg/m2 basis at a maternal oral dose of 30 mg/kg/day).
-Neither fetal nor maternal effects occurred at approximately 3 times the MRHDID (on a mg/m2 basis at a maternal oral dose of 0.3 mg/kg/day).
+In rabbits, azelastine hydrochloride caused abortion, delayed ossification and decreased fetal weight and severe maternal toxicity at approximately 300 times the MRHDID in adults (on a mg/m2basis at a maternal oral dose of 30 mg/kg/day).
+Neither fetal nor maternal effects occurred at approximately 3 times the MRHDID (on a mg/m2 basis at a maternal oral dose of 0.
+3 mg/kg/day).
 
 ## 8.3 Nursing Mothers
 

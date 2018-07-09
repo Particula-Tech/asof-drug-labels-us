@@ -140,17 +140,13 @@ For the correct dose of medicine:
 This will keep the medicine from running down into your throat.
 You may get a bitter taste in your mouth.
 
-Figure A identifies the parts of your Azelastine HCL Nasal Spray pump
+Figure A identifies the parts of your Azelastine HCl Nasal Spray pump
 
-Figure A
+Before you use Azelastine HCl Nasal Spray for the first time, you will need to prime the bottle.
 
-Before you use Azelastine HCL Nasal Spray for the first time, you will need to prime the bottle.
-
-Priming your Azelastine HCL Nasal Spray)
+Priming your Azelastine HCl Nasal Spray)
 
 Remove the transparent dust cover over the tip of the pump and the white safety clip just under the “shoulders” of the pump (See Figure B).
-
-Figure B
 
 Hold the bottle upright with 2 fingers on the shoulders of the spray pump unit and
 
@@ -165,15 +161,13 @@ If you see a stream of liquid, the pump is not working correctly and you may hav
 
 Now your pump is primed and ready to use.
 
-Figure C
-
 • Do not use Azelastine HCL Nasal Spray unless you see a fine mist after you do the priming sprays.
 If you do not see a fine mist, clean the tip of the spray nozzle.
-See the “Cleaning the Spray Tip of your Azelastine HCL Nasal Spray ” section below.
+See the “Cleaning the Spray Tip of your Azelastine HCl Nasal Spray ” section below.
 
 • If you do not use Azelastine Hydrochloride Nasal Solution (Nasal Spray) for 3 or more days, you will need to prime the pump with 2 sprays or until you see a fine mist.
 
-Using your Azelastine HCL Nasal Spray)
+Using your Azelastine HCl Nasal Spray)
 
 Step 1.
 Blow your nose to clear your nostrils.
@@ -184,8 +178,6 @@ Keep your head tilted downward toward your toes.
 Step 3.
 Place the spray tip about ¼ inch to ½ inch into 1 nostril.
 Hold bottle upright and aim the spray tip toward the back of your nose (See Figure D).
-
-Figure D
 
 Step 4.
 Close your other nostril with a finger.
@@ -202,14 +194,14 @@ If your healthcare provider tells you to use 2 sprays in each nostril, repeat St
 through 4 above for the second spray in each nostril.
 
 Step 7.
-Breathe in gently, and do not tilt your head back after using Azelastine HCL Nasal Spray.
+Breathe in gently, and do not tilt your head back after using Azelastine HCl Nasal Spray.
 This will help to keep the medicine from going into your throat.
 
 Step 8.
-When you finish using your Azelastine HCL Nasal Spray, wipe the spray tip with a clean tissue or cloth.
+When you finish using your Azelastine HCl Nasal Spray, wipe the spray tip with a clean tissue or cloth.
 Put the safety clip and dust cover back on the bottle.
 
-Cleaning the Spray Tip of your Azelastine HCL Nasal Spray
+Cleaning the Spray Tip of your Azelastine HCl Nasal Spray
 
 • If the spray tip opening is clogged, do not use a pin or pointed object to unclog the tip.
 Unscrew the spray pump unit from the bottle by turning it to the left (counter-clockwise) (See Figure F).
@@ -217,8 +209,6 @@ Unscrew the spray pump unit from the bottle by turning it to the left (counter-c
 • Soak only the spray pump unit in warm water.
 Squirt the spray unit several times while holding it under water.
 Use the pumping action to clear the opening in the tip (See Figure G).
-
-Figure F Figure G
 
 • Let the spray pump unit air dry.
 Make sure it is dry before you put it back onto the bottle.
@@ -249,6 +239,6 @@ Ascend Laboratories, LLC
 
 Parsippany, NJ 07054
 
-PT 2385
+L827 (PT 2385-01)
 
-Revised: 07/2017
+Revised: 05/2018

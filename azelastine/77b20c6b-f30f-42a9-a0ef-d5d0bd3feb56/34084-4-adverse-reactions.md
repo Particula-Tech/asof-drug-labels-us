@@ -40,7 +40,7 @@ In these studies, adverse reactions that occurred more frequently in patients tr
 
 Adverse Reactions <2% in Azelastine HCl Nasal Spray One or Two Sprays Per Nostril Twice Daily
 
-The following reactions were observed infrequently (<2% and exceeding placebo incidence) in patients who received Azelastine HCL Nasal Spray dosed at 1 or 2 sprays per nostril twice daily in U.S. clinical trials.
+The following reactions were observed infrequently (<2% and exceeding placebo incidence) in patients who received Azelastine HCl Nasal Spray dosed at 1 or 2 sprays per nostril twice daily in U.S. clinical trials.
 
 Cardiovascular: flushing, hypertension, tachycardia.
 

@@ -13,15 +13,14 @@ Instruct patients to avoid concurrent use of Azelastine HCl Nasal Spray with alc
 
 Common Adverse Reactions
 
-Inform patients that the treatment with Azelastine HCL Nasal Spray may lead to adverse reactions, which include bitter taste, headache, somnolence, dysesthesia, rhinitis, nasal burning, pharyngitis, epistaxis, sinusitis, paroxysmal sneezing, nausea, dry mouth, fatigue, dizziness, and weight increase [see Adverse Reactions (6.1)].
+Inform patients that the treatment with Azelastine HCl Nasal Spray may lead to adverse reactions, which include bitter taste, headache, somnolence, dysesthesia, rhinitis, nasal burning, pharyngitis, epistaxis, sinusitis, paroxysmal sneezing, nausea, dry mouth, fatigue, dizziness, and weight increase [see Adverse Reactions (6.1)].
 
 Priming
 
 Instruct patients to prime the pump before initial use and when Azelastine HCl Nasal Spray has not been used for 3 or more days [see Dosage and Administration (2.3)].
 
 Keep Spray Out of Eyes Instruct patients to avoid spraying Azelastine HCl Nasal Spray into their eyes.
-Keep Out of Children's Reach
-
-Instruct patients to keep Azelastine HCl Nasal Spray out of the reach of children.
+Keep Out of Children's Reach Instruct patients to keep Azelastine HCl Nasal Spray out of the reach of children.
 If a child accidentally ingests Azelastine HCl Nasal Spray, seek medical help or call a poison control center immediately.
-Manufactured By: Alkem Laboratories 1733 Gilsinn Lane, Fenton, MO 63026 Manufactured for: Alkem Laboratories Ltd Mumbai - 400 013, INDIA Distributed by: Ascend Laboratories, LLC Parsipanny, NJ 07054
+
+Manufactured By: Alkem Laboratories 1733 Gilsinn Lane, Fenton, MO 63026 Manufactured for: Alkem Laboratories Ltd Mumbai - 400 013, INDIA Distributed by: Ascend Laboratories, LLC Parsippany, NJ 07054
