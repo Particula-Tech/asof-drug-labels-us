@@ -5,9 +5,9 @@
 Risk Summary
 
 The limited available data on XARELTO in pregnant women are insufficient to inform a drug-associated risk of adverse developmental outcomes.
-Use XARELTO with caution in pregnant patients because of the potential for pregnancy related hemorrhage and/or emergent delivery with an anticoagulant that is not readily reversible.
+Use XARELTO with caution in pregnant patients because of the potential for pregnancy related hemorrhage and/or emergent delivery.
 The anticoagulant effect of XARELTO cannot be reliably monitored with standard laboratory testing.
-Consider the benefits and risks of XARELTO for the mother and possible risks to the fetus when prescribing XARELTO to a pregnant woman [see Warnings and Precautions (5.7)].
+Consider the benefits and risks of XARELTO for the mother and possible risks to the fetus when prescribing XARELTO to a pregnant woman [see Warnings and Precautions (5.2, 5.7)].
 
 Adverse outcomes in pregnancy occur regardless of the health of the mother or the use of medications.
 The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.

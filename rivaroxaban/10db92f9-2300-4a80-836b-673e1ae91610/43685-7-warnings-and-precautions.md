@@ -22,7 +22,7 @@ Concomitant use of drugs that are known combined P-gp and strong CYP3A4 inhibito
 
 Reversal of Anticoagulant Effect
 
-A specific antidote for rivaroxaban is not available.
+An agent to reverse the anti-factor Xa activity of rivaroxaban is available.
 Because of high plasma protein binding, rivaroxaban is not expected to be dialyzable [see Clinical Pharmacology (12.3)].
 Protamine sulfate and vitamin K are not expected to affect the anticoagulant activity of rivaroxaban.
 Partial reversal of prothrombin time prolongation has been seen after administration of prothrombin complex concentrates (PCCs) in healthy volunteers.
@@ -76,8 +76,8 @@ Avoid concomitant use of XARELTO with drugs that are known combined P-gp and str
 
 In pregnant women, XARELTO should be used only if the potential benefit justifies the potential risk to the mother and fetus.
 XARELTO dosing in pregnancy has not been studied.
-The anticoagulant effect of XARELTO cannot be monitored with standard laboratory testing nor readily reversed.
-Promptly evaluate any signs or symptoms suggesting blood loss (e.g., a drop in hemoglobin and/or hematocrit, hypotension, or fetal distress).
+The anticoagulant effect of XARELTO cannot be monitored with standard laboratory testing.
+Promptly evaluate any signs or symptoms suggesting blood loss (e.g., a drop in hemoglobin and/or hematocrit, hypotension, or fetal distress) [see Warnings and Precautions (5.2)].
 
 ## 5.8 Patients with Prosthetic Heart Valves
 

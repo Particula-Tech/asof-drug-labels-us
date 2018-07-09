@@ -1,6 +1,6 @@
 Active Ingredient Made in Germany
 
-Finished Product Manufactured by: Janssen Ortho, LLC Gurabo, PR 00778
+Finished Product Manufactured by: Janssen Ortho LLC Gurabo, PR 00778
 
 or Bayer AG 51368 Leverkusen, Germany
 
