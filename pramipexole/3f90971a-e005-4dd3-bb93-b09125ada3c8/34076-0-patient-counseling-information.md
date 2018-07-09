@@ -46,4 +46,4 @@ Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 088
 
 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt)-509302 India
 
-Revised: 02/2018
+Revised: 07/2018

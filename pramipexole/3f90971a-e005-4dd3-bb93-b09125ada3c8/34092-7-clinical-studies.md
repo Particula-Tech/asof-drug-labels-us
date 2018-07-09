@@ -49,7 +49,7 @@ There were too few non-Caucasian patients to evaluate the effect of race.
 
 The efficacy of pramipexole dihydrochloride tablets in the treatment of RLS was evaluated in a multinational drug development program consisting of 4 randomized, double-blind, placebo-controlled trials.
 This program included approximately 1000 patients with moderate to severe RLS; patients with RLS secondary to other conditions (e.g., pregnancy, renal failure, and anemia) were excluded.
-All patients were administered pramipexole dihydrochloride tablets (0.125 mg, 0.25 mg, 0.5 mg or 0.75 mg) or placebo once daily 2 to 3 hours before going to bed.
+All patients were administered pramipexole dihydrochloride tablets (0.125 mg, 0.25 mg, 0.5 mg, or 0.75 mg) or placebo once daily 2 to 3 hours before going to bed.
 Across the 4 studies, the mean duration of RLS was 4.6 years (range of 0 to 56 years), mean age was approximately 55 years (range of 18 to 81 years), and approximately 66.6% were women.
 
 Key diagnostic criteria for RLS are: an urge to move the legs usually accompanied or caused by uncomfortable and unpleasant leg sensations; symptoms begin or worsen during periods of rest or inactivity such as lying or sitting; symptoms are partially or totally relieved by movement such as walking or stretching at least as long as the activity continues; and symptoms are worse or occur only in the evening or night.

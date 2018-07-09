@@ -116,10 +116,9 @@ If you have hallucinations or other psychotic-like changes, talk with your docto
 
 If you have new dyskinesia or your existing dyskinesia gets worse tell your doctor.
 
-- skin cancer (melanoma).
-  Some people with Parkinson’s disease may have a higher chance of having melanoma than people who do not have Parkinson’s disease.
-  It is not known if the chance of having melanoma is higher because of the medicines to treat Parkinson’s disease, like pramipexole dihydrochloride tablets, or from the Parkinson’s disease.
-  People who take pramipexole dihydrochloride tablets should have regular skin examinations to check for melanoma.
+- posture changes.
+  Talk with your doctor if you have posture changes you cannot control.
+  These may include your neck bending forward, bending forward at the waist, or tilting sideways when you sit, stand, or walk.
 
 The most common side effects in people taking pramipexole dihydrochloride tablets for Restless Legs Syndrome are nausea and headache.
 
@@ -188,4 +187,4 @@ Mahaboob Nagar (Dt)-509302
 
 India
 
-Revised: 02/2018
+Revised: 07/2018
