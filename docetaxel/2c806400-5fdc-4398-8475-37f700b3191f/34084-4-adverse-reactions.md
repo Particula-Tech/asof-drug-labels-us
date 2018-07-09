@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The most serious adverse reactions from docetaxel injection concentrate are:
+The most serious adverse reactions from Docetaxel Injection are:
 
 - Toxic Deaths [see Boxed Warning, Warning and Precautions (5.1)]
 - Hepatotoxicity [see Boxed Warning, Warnings and Precautions (5.2)]
@@ -14,7 +14,7 @@ The most serious adverse reactions from docetaxel injection concentrate are:
 - Asthenia [see Warnings and Precautions (5.10)]
 - Alcohol Intoxication [see Warnings and Precautions (5.12)]
 
-The most common adverse reactions across all docetaxel injection concentrate indications are infections, neutropenia, anemia, febrile neutropenia, hypersensitivity, thrombocytopenia, neuropathy, dysgeusia, dyspnea, constipation, anorexia, nail disorders, fluid retention, asthenia, pain, nausea, diarrhea, vomiting, mucositis, alopecia, skin reactions, and myalgia.
+The most common adverse reactions across all Docetaxel Injection indications are infections, neutropenia, anemia, febrile neutropenia, hypersensitivity, thrombocytopenia, neuropathy, dysgeusia, dyspnea, constipation, anorexia, nail disorders, fluid retention, asthenia, pain, nausea, diarrhea, vomiting, mucositis, alopecia, skin reactions, and myalgia.
 Incidence varies depending on the indication.
 
 Adverse reactions are described according to indication.
@@ -27,14 +27,14 @@ The relationship between changes in performance status, response to therapy, and
 
 Breast Cancer
 
-Monotherapy with Docetaxel injection concentrate for locally advanced or metastatic breast cancer after failure of prior chemotherapy
+Monotherapy with Docetaxel Injection for locally advanced or metastatic breast cancer after failure of prior chemotherapy
 
-Docetaxel injection concentrate 100 mg/m2: Adverse drug reactions occurring in at least 5% of patients are compared for three populations who received docetaxel injection concentrate administered at 100 mg/m2 as a 1-hour infusion every 3 weeks: 2045 patients with various tumor types and normal baseline liver function tests; the subset of 965 patients with locally advanced or metastatic breast cancer, both previously treated and untreated with chemotherapy, who had normal baseline liver function tests; and an additional 61 patients with various tumor types who had abnormal liver function tests at baseline.
-These reactions were described using COSTART terms and were considered possibly or probably related to docetaxel injection concentrate.
+Docetaxel Injection 100 mg/m2: Adverse drug reactions occurring in at least 5% of patients are compared for three populations who received Docetaxel Injection administered at 100 mg/m2 as a 1-hour infusion every 3 weeks: 2045 patients with various tumor types and normal baseline liver function tests; the subset of 965 patients with locally advanced or metastatic breast cancer, both previously treated and untreated with chemotherapy, who had normal baseline liver function tests; and an additional 61 patients with various tumor types who had abnormal liver function tests at baseline.
+These reactions were described using COSTART terms and were considered possibly or probably related to Docetaxel Injection.
 At least 95% of these patients did not receive hematopoietic support.
-The safety profile is generally similar in patients receiving docetaxel injection concentrate for the treatment of breast cancer and in patients with other tumor types (See Table 3).
+The safety profile is generally similar in patients receiving Docetaxel Injection for the treatment of breast cancer and in patients with other tumor types (See Table 3).
 
-Table 3 - Summary of Adverse Reactions in Patients Receiving Docetaxel Injection Concentrate at 100 mg/m2
+Table 3 - Summary of Adverse Reactions in Patients Receiving Docetaxel Injection at 100 mg/m2
 
 |  | % | % | % |
 | --- | --- | --- | --- |
@@ -108,7 +108,7 @@ Table 3 - Summary of Adverse Reactions in Patients Receiving Docetaxel Injection
 
 Hematologic Reactions
 
-Reversible marrow suppression was the major dose-limiting toxicity of docetaxel injection concentrate [see Warnings and Precautions (5.3)].
+Reversible marrow suppression was the major dose-limiting toxicity of Docetaxel Injection [see Warnings and Precautions (5.3)].
 The median time to nadir was 7 days, while the median duration of severe neutropenia (<500 cells/mm3) was 7 days.
 Among 2045 patients with solid tumors and normal baseline LFTs, severe neutropenia occurred in 75.4% and lasted for more than 7 days in 2.9% of cycles.
 
@@ -125,13 +125,13 @@ Minor events, including flushing, rash with or without pruritus, chest tightness
 
 Fluid Retention
 
-Fluid retention can occur with the use of docetaxel injection concentrate [see Boxed Warning, Dosage and Administration (2.6), Warnings and Precautions (5.5)].
+Fluid retention can occur with the use of Docetaxel Injection [see Boxed Warning, Dosage and Administration (2.6), Warnings and Precautions (5.5)].
 
 Cutaneous Reactions
 
 Severe skin toxicity is discussed elsewhere in the label [see Warnings and Precautions (5.7)].
 Reversible cutaneous reactions characterized by a rash including localized eruptions, mainly on the feet and/or hands, but also on the arms, face, or thorax, usually associated with pruritus, have been observed.
-Eruptions generally occurred within 1 week after docetaxel injection concentrate infusion, recovered before the next infusion, and were not disabling.
+Eruptions generally occurred within 1 week after Docetaxel Injection infusion, recovered before the next infusion, and were not disabling.
 
 Severe nail disorders were characterized by hypo- or hyperpigmentation, and occasionally by onycholysis (in 0.8% of patients with solid tumors) and pain.
 
@@ -151,7 +151,7 @@ Cardiovascular Reactions
 
 Hypotension occurred in 2.8% of patients with solid tumors; 1.2% required treatment.
 Clinically meaningful events such as heart failure, sinus tachycardia, atrial flutter, dysrhythmia, unstable angina, pulmonary edema, and hypertension occurred rarely.
-Seven of 86 (8.1%) of metastatic breast cancer patients receiving docetaxel injection concentrate 100 mg/m2 in a randomized trial and who had serial left ventricular ejection fractions assessed developed deterioration of LVEF by ≥10% associated with a drop below the institutional lower limit of normal.
+Seven of 86 (8.1%) of metastatic breast cancer patients receiving Docetaxel Injection 100 mg/m2 in a randomized trial and who had serial left ventricular ejection fractions assessed developed deterioration of LVEF by ≥10% associated with a drop below the institutional lower limit of normal.
 
 Infusion Site Reactions
 
@@ -161,19 +161,19 @@ Hepatic Reactions
 
 In patients with normal LFTs at baseline, bilirubin values greater than the ULN occurred in 8.9% of patients.
 Increases in AST or ALT >1.5 times the ULN, or alkaline phosphatase >2.5 times ULN, were observed in 18.9% and 7.3% of patients, respectively.
-While on docetaxel injection concentrate, increases in AST and/or ALT >1.5 times ULN concomitant with alkaline phosphatase >2.5 times ULN occurred in 4.3% of patients with normal LFTs at baseline.
+While on Docetaxel Injection, increases in AST and/or ALT >1.5 times ULN concomitant with alkaline phosphatase >2.5 times ULN occurred in 4.3% of patients with normal LFTs at baseline.
 Whether these changes were related to the drug or underlying disease has not been established.
 
 Hematologic and Other Toxicity: Relation to dose and baseline liver chemistry abnormalities
 
 Hematologic and other toxicity is increased at higher doses and in patients with elevated baseline liver function tests (LFTs).
-In the following tables, adverse drug reactions are compared for three populations: 730 patients with normal LFTs given docetaxel injection concentrate at 100 mg/m2 in the randomized and single arm studies of metastatic breast cancer after failure of previous chemotherapy; 18 patients in these studies who had abnormal baseline LFTs (defined as AST and/or ALT >1.5 times ULN concurrent with alkaline phosphatase >2.5 times ULN); and 174 patients in Japanese studies given docetaxel injection concentrate at 60 mg/m2 who had normal LFTs (see Tables 4 and 5).
+In the following tables, adverse drug reactions are compared for three populations: 730 patients with normal LFTs given Docetaxel Injection at 100 mg/m2 in the randomized and single arm studies of metastatic breast cancer after failure of previous chemotherapy; 18 patients in these studies who had abnormal baseline LFTs (defined as AST and/or ALT >1.5 times ULN concurrent with alkaline phosphatase >2.5 times ULN); and 174 patients in Japanese studies given Docetaxel Injection at 60 mg/m2 who had normal LFTs (see Tables 4 and 5).
 
-Table 4 - Hematologic Adverse Reactions in Breast Cancer Patients Previously Treated with Chemotherapy Treated at Docetaxel Injection Concentrate 100 mg/m2 with Normal or Elevated Liver Function Tests or 60 mg/m2 with Normal Liver Function Tests
+Table 4 - Hematologic Adverse Reactions in Breast Cancer Patients Previously Treated with Chemotherapy Treated at Docetaxel Injection 100 mg/m2 with Normal or Elevated Liver Function Tests or 60 mg/m2 with Normal Liver Function Tests
 
 |  | % | % | % |
 | --- | --- | --- | --- |
-|  | Docetaxel Injection Concentrate |  | Docetaxel Injection Concentrate |
+|  | Docetaxel Injection |  | Docetaxel Injection |
 |  | 100 mg/m2 |  | 60 mg/m2 |
 |  | Normal LFTs* | Elevated LFTs** | Normal LFTs* |
 | Adverse Reaction | n=730 | n=18 | n=174 |
@@ -197,11 +197,11 @@ Table 4 - Hematologic Adverse Reactions in Breast Cancer Patients Previously Tre
 | ***Incidence of infection requiring hospitalization and/or intravenous antibiotics was 8.5% (n=62) among the 730 patients with normal LFTs at baseline; 7 patients had concurrent grade 3 neutropenia, and 46 patients had grade 4 neutropenia. |  |  |  |
 | ****Febrile Neutropenia: For 100 mg/m2, ANC grade 4 and fever >38°C with intravenous antibiotics and/or hospitalization; for 60 mg/m2, ANC grade 3/4 and fever >38.1°C |  |  |  |
 
-Table 5 - Non-Hematologic Adverse Reactions in Breast Cancer Patients Previously Treated with Chemotherapy Treated at Docetaxel Injection Concentrate 100 mg/m2 with Normal or Elevated Liver Function Tests or 60 mg/m2 with Normal Liver Function Tests
+Table 5 - Non-Hematologic Adverse Reactions in Breast Cancer Patients Previously Treated with Chemotherapy Treated at Docetaxel Injection 100 mg/m2 with Normal or Elevated Liver Function Tests or 60 mg/m2 with Normal Liver Function Tests
 
 |  | % | % | % |
 | --- | --- | --- | --- |
-|  | Docetaxel Injection Concentrate |  | Docetaxel Injection Concentrate |
+|  | Docetaxel Injection |  | Docetaxel Injection |
 |  | 100 mg/m2 |  | 60 mg/m2 |
 |  | Normal LFTs* | Elevated LFTs** | Normal LFTs* |
 | Adverse Reaction | n=730 | n=18 | n=174 |
@@ -235,21 +235,21 @@ Table 5 - Non-Hematologic Adverse Reactions in Breast Cancer Patients Previously
 | ***Fluid Retention includes (by COSTART): edema (peripheral, localized, generalized, lymphedema, pulmonary edema, and edema otherwise not specified) and effusion (pleural, pericardial, and ascites); no premedication given with the 60 mg/m2 dose |  |  |  |
 | NA = not available |  |  |  |
 
-In the three-arm monotherapy trial, TAX313, which compared docetaxel injection concentrate 60 mg/m2, 75 mg/m2 and 100 mg/m2 in advanced breast cancer, grade 3/4 or severe adverse reactions occurred in 49.0% of patients treated with docetaxel injection concentrate 60 mg/m2 compared to 55.3% and 65.9% treated with 75 mg/m2 and 100 mg/m2 respectively.
+In the three-arm monotherapy trial, TAX313, which compared Docetaxel Injection 60 mg/m2, 75 mg/m2 and 100 mg/m2 in advanced breast cancer, grade 3/4 or severe adverse reactions occurred in 49.0% of patients treated with Docetaxel Injection 60 mg/m2 compared to 55.3% and 65.9% treated with 75 mg/m2 and 100 mg/m2 respectively.
 Discontinuation due to adverse reactions was reported in 5.3% of patients treated with 60 mg/m2 vs. 6.9% and 16.5% for patients treated at 75 and 100 mg/m2 respectively.
 Deaths within 30 days of last treatment occurred in 4.0% of patients treated with 60 mg/m2 compared to 5.3% and 1.6% for patients treated at 75 mg/m2 and 100 mg/m2 respectively.
 
 The following adverse reactions were associated with increasing docetaxel doses: fluid retention (26%, 38%, and 46% at 60 mg/m2, 75 mg/m2, and 100 mg/m2 respectively), thrombocytopenia (7%, 11% and 12% respectively), neutropenia (92%, 94%, and 97% respectively), febrile neutropenia (5%, 7%, and 14% respectively), treatment-related grade 3/4 infection (2%, 3%, and 7% respectively) and anemia (87%, 94%, and 97% respectively).
 
-Combination therapy with docetaxel injection concentrate in the adjuvant treatment of breast cancer
+Combination therapy with Docetaxel Injection in the adjuvant treatment of breast cancer
 
-The following table presents treatment emergent adverse reactions observed in 744 patients, who were treated with docetaxel injection concentrate 75 mg/m² every 3 weeks in combination with doxorubicin and cyclophosphamide (see Table 6).
+The following table presents treatment emergent adverse reactions observed in 744 patients, who were treated with Docetaxel Injection 75 mg/m² every 3 weeks in combination with doxorubicin and cyclophosphamide (see Table 6).
 
-Table 6- Clinically Important Treatment Emergent Adverse Reactions Regardless of Causal Relationship in Patients Receiving Docetaxel Injection Concentrate in Combination with Doxorubicin and Cyclophosphamide (TAX316).
+Table 6- Clinically Important Treatment Emergent Adverse Reactions Regardless of Causal Relationship in Patients Receiving Docetaxel Injection in Combination with Doxorubicin and Cyclophosphamide (TAX316).
 
 |  | n=744 % |  | n=736 % |  |
 | --- | --- | --- | --- | --- |
-|  | Docetaxel Injection Concentrate 75 mg/m2+ |  | Fluorouracil 500 mg/m2+ |  |
+|  | Docetaxel Injection 75 mg/m2+ |  | Fluorouracil 500 mg/m2+ |  |
 |  | Doxorubicin 50 mg/m2+ |  | Doxorubicin 50 mg/m2+ |  |
 |  | Cyclophosphamide 500 mg/m2 (TAC) |  | Cyclophosphamide 500 mg/m2 (FAC) |  |
 | Adverse Reaction | Any | Grade 3/4 | Any | Grade 3/4 |
@@ -327,17 +327,17 @@ This risk of AML is comparable to the risk observed for other anthracyclines/cyc
 
 Lung Cancer
 
-Monotherapy with Docetaxel injection concentrate for unresectable, locally advanced or metastatic NSCLC previously treated with platinum-based chemotherapy
+Monotherapy with Docetaxel Injection for unresectable, locally advanced or metastatic NSCLC previously treated with platinum-based chemotherapy
 
-Docetaxel injection concentrate 75 mg/m2: Treatment emergent adverse drug reactions are shown in Table 7.
+Docetaxel Injection 75 mg/m2: Treatment emergent adverse drug reactions are shown in Table 7.
 Included in this table are safety data for a total of 176 patients with non-small cell lung carcinoma and a history of prior treatment with platinum-based chemotherapy who were treated in two randomized, controlled trials.
 These reactions were described using NCI Common Toxicity Criteria regardless of relationship to study treatment, except for the hematologic toxicities or where otherwise noted.
 
-Table 7 - Treatment Emergent Adverse Reactions Regardless of Relationship to Treatment in Patients Receiving Docetaxel Injection Concentrate as Monotherapy for Non-Small Cell Lung Cancer Previously Treated with Platinum-Based Chemotherapy*
+Table 7 - Treatment Emergent Adverse Reactions Regardless of Relationship to Treatment in Patients Receiving Docetaxel Injection as Monotherapy for Non-Small Cell Lung Cancer Previously Treated with Platinum-Based Chemotherapy*
 
 | Adverse Reaction | % | % | % |
 | --- | --- | --- | --- |
-|  | Docetaxel Injection Concentrate |  | Vinorelbine/ |
+|  | Docetaxel Injection |  | Vinorelbine/ |
 |  | 75 mg/m2 | Best Supportive Care | Ifosfamide |
 |  | n=176 | n=49 | n=119 |
 | Neutropenia |  |  |  |
@@ -410,16 +410,16 @@ Table 7 - Treatment Emergent Adverse Reactions Regardless of Relationship to Tre
 | ***COSTART term and grading system |  |  |  |
 | †Not Applicable; †† Not Done |  |  |  |
 
-Combination therapy with Docetaxel injection concentrate in chemotherapy-naïve advanced unresectable or metastatic NSCLC
+Combination therapy with Docetaxel Injection in chemotherapy-naïve advanced unresectable or metastatic NSCLC
 
 Table 8 presents safety data from two arms of an open label, randomized controlled trial (TAX326) that enrolled patients with unresectable stage IIIB or IV non-small cell lung cancer and no history of prior chemotherapy.
 Adverse reactions were described using the NCI Common Toxicity Criteria except where otherwise noted.
 
-Table 8 - Adverse Reactions Regardless of Relationship to Treatment in Chemotherapy-Naïve Advanced Non-Small Cell Lung Cancer Patients Receiving Docetaxel Injection Concentrate in Combination with Cisplatin
+Table 8 - Adverse Reactions Regardless of Relationship to Treatment in Chemotherapy-Naïve Advanced Non-Small Cell Lung Cancer Patients Receiving Docetaxel Injection in Combination with Cisplatin
 
 |  | % | % |
 | --- | --- | --- |
-|  | Docetaxel Injection Concentrate 75 mg/m2 |  |
+|  | Docetaxel Injection 75 mg/m2 |  |
 |  | + Cisplatin | Vinorelbine 25 mg/m2 + |
 |  | 75 mg/m2 | Cisplatin 100 mg/m2 |
 | Adverse Reaction | n=406 | n=396 |
@@ -496,19 +496,19 @@ Table 8 - Adverse Reactions Regardless of Relationship to Treatment in Chemother
 Deaths within 30 days of last study treatment occurred in 31 patients (7.6%) in the docetaxel+cisplatin arm and 37 patients (9.3%) in the vinorelbine+cisplatin arm.
 Deaths within 30 days of last study treatment attributed to study drug occurred in 9 patients (2.2%) in the docetaxel+cisplatin arm and 8 patients (2.0%) in the vinorelbine+cisplatin arm.
 
-The second comparison in the study, vinorelbine+cisplatin versus docetaxel injection concentrate+carboplatin (which did not demonstrate a superior survival associated with docetaxel injection concentrate, [see Clinical Studies (14.3)]) demonstrated a higher incidence of thrombocytopenia, diarrhea, fluid retention, hypersensitivity reactions, skin toxicity, alopecia and nail changes on the docetaxel injection concentrate+carboplatin arm, while a higher incidence of anemia, neurosensory toxicity, nausea, vomiting, anorexia and asthenia was observed on the vinorelbine+cisplatin arm.
+The second comparison in the study, vinorelbine+cisplatin versus Docetaxel Injection+carboplatin (which did not demonstrate a superior survival associated with Docetaxel Injection, [see Clinical Studies (14.3)]) demonstrated a higher incidence of thrombocytopenia, diarrhea, fluid retention, hypersensitivity reactions, skin toxicity, alopecia and nail changes on the Docetaxel Injection+carboplatin arm, while a higher incidence of anemia, neurosensory toxicity, nausea, vomiting, anorexia and asthenia was observed on the vinorelbine+cisplatin arm.
 
 Prostate Cancer
 
-Combination therapy with Docetaxel injection concentrate in patients with prostate cancer
+Combination therapy with Docetaxel Injection in patients with prostate cancer
 
-The following data are based on the experience of 332 patients, who were treated with docetaxel injection concentrate 75 mg/m² every 3 weeks in combination with prednisone 5 mg orally twice daily (see Table 9).
+The following data are based on the experience of 332 patients, who were treated with Docetaxel Injection 75 mg/m² every 3 weeks in combination with prednisone 5 mg orally twice daily (see Table 9).
 
-Table 9 - Clinically Important Treatment Emergent Adverse Reactions (Regardless of Relationship) in Patients with Prostate Cancer who Received Docetaxel Injection Concentrate in Combination with Prednisone (TAX327)
+Table 9 - Clinically Important Treatment Emergent Adverse Reactions (Regardless of Relationship) in Patients with Prostate Cancer who Received Docetaxel Injection in Combination with Prednisone (TAX327)
 
 | Adverse Reaction | Any | Grade 3/4 | Any | Grade 3/4 |
 | --- | --- | --- | --- | --- |
-|  | Docetaxel Injection Concentrate 75 mg/m2 |  | Mitoxantrone 12 mg/m2 |  |
+|  | Docetaxel Injection 75 mg/m2 |  | Mitoxantrone 12 mg/m2 |  |
 |  | every 3 weeks + |  | every 3 weeks + |  |
 |  | prednisone 5 mg twice daily |  | prednisone 5 mg twice daily |  |
 |  | n=332 |  | n=335 |  |
@@ -545,15 +545,15 @@ Table 9 - Clinically Important Treatment Emergent Adverse Reactions (Regardless 
 
 Gastric Cancer
 
-Combination therapy with Docetaxel injection concentrate in gastric adenocarcinoma
+Combination therapy with Docetaxel Injection in gastric adenocarcinoma
 
-Data in the following table are based on the experience of 221 patients with advanced gastric adenocarcinoma and no history of prior chemotherapy for advanced disease, who were treated with docetaxel injection concentrate 75 mg/m2 in combination with cisplatin and fluorouracil (see Table 10).
+Data in the following table are based on the experience of 221 patients with advanced gastric adenocarcinoma and no history of prior chemotherapy for advanced disease, who were treated with Docetaxel Injection 75 mg/m2 in combination with cisplatin and fluorouracil (see Table 10).
 
 Table 10 - Clinically Important Treatment Emergent Adverse Reactions Regardless of Relationship to Treatment in the Gastric Cancer Study
 
 | Adverse Reaction | Any | Grade 3/4 | Any | Grade 3/4 |
 | --- | --- | --- | --- | --- |
-|  | Docetaxel Injection Concentrate 75 mg/m2 + |  |  |  |
+|  | Docetaxel Injection 75 mg/m2 + |  |  |  |
 |  | cisplatin 75 mg/m2 + |  | Cisplatin 100 mg/m2 + |  |
 |  | fluorouracil 750 mg/m2 |  | fluorouracil 1000 mg/m2 |  |
 |  | n=221 |  | n=224 |  |
@@ -593,18 +593,18 @@ Table 10 - Clinically Important Treatment Emergent Adverse Reactions Regardless 
 
 Head and Neck Cancer
 
-Combination therapy with Docetaxel injection concentrate in head and neck cancer
+Combination therapy with Docetaxel Injection in head and neck cancer
 
-Table 11 summarizes the safety data obtained from patients that received induction chemotherapy with Docetaxel Injection Concentrate 75 mg/m2 in combination with cisplatin and fluorouracil followed by radiotherapy (TAX323; 174 patients) or chemoradiotherapy (TAX324; 251 patients).
+Table 11 summarizes the safety data obtained from patients that received induction chemotherapy with Docetaxel Injection 75 mg/m2 in combination with cisplatin and fluorouracil followed by radiotherapy (TAX323; 174 patients) or chemoradiotherapy (TAX324; 251 patients).
 The treatment regimens are described in Section 14.6.
 
-Table 11 – Clinically Important Treatment Emergent Adverse Reactions (Regardless of Relationship) in Patients with SCCHN Receiving Induction Chemotherapy with Docetaxel Injection Concentrate in Combination with Cisplatin and Fluorouracil Followed by Radiotherapy (TAX323) or Chemoradiotherapy (TAX324)
+Table 11 – Clinically Important Treatment Emergent Adverse Reactions (Regardless of Relationship) in Patients with SCCHN Receiving Induction Chemotherapy with Docetaxel Injection in Combination with Cisplatin and Fluorouracil Followed by Radiotherapy (TAX323) or Chemoradiotherapy (TAX324)
 
 |  | (n=174) |  | (n=181) |  |  | (n=251) |  | (n=243) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | TAX323 |  |  |  |  | TAX324 |  |  |  |
 |  | (n=355) |  |  |  |  | (n=494) |  |  |  |
-|  | Docetaxel Injection Concentrate arm |  | Comparator arm |  |  | Docetaxel Injection Concentrate arm |  | Comparator arm |  |
+|  | Docetaxel Injection arm |  | Comparator arm |  |  | Docetaxel Injection arm |  | Comparator arm |  |
 |  | Any | Grade | Any | Grade |  | Any | Grade | Any | Grade |
 | Adverse Reaction | % | 3/4 | % | 3/4 |  | % | 3/4 | % | 3/4 |
 | (by Body System) |  | % |  | % |  |  | % |  | % |
@@ -670,7 +670,7 @@ Gastrointestinal: abdominal pain, anorexia, constipation, duodenal ulcer, esopha
 
 Hematologic: bleeding episodes.
 Disseminated intravascular coagulation (DIC), often in association with sepsis or multiorgan failure, has been reported.
-Cases of acute myeloid leukemia and myelodysplasic syndrome have been reported in association with docetaxel injection concentrate when used in combination with other chemotherapy agents and/or radiotherapy.
+Cases of acute myeloid leukemia and myelodysplasic syndrome have been reported in association with Docetaxel Injection when used in combination with other chemotherapy agents and/or radiotherapy.
 
 Hypersensitivity: rare cases of anaphylactic shock have been reported.
 Very rarely these cases resulted in a fatal outcome in patients who received premedication.
@@ -683,7 +683,7 @@ Ophthalmologic: conjunctivitis, lacrimation or lacrimation with or without conju
 Excessive tearing which may be attributable to lacrimal duct obstruction has been reported.
 Rare cases of transient visual disturbances (flashes, flashing lights, scotomata) typically occurring during drug infusion and in association with hypersensitivity reactions have been reported.
 These were reversible upon discontinuation of the infusion.
-Cases of cystoid macular edema (CME) have been reported in patients treated with docetaxel injection concentrate.
+Cases of cystoid macular edema (CME) have been reported in patients treated with Docetaxel Injection.
 
 Hearing: rare cases of ototoxicity, hearing disorders and/or hearing loss have been reported, including cases associated with other ototoxic drugs.
 

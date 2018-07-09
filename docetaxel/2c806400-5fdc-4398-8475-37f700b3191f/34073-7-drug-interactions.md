@@ -5,5 +5,5 @@ In vitro studies have shown that the metabolism of docetaxel may be modified by 
 
 In vivo studies showed that the exposure of docetaxel increased 2.2-fold when it was coadministered with ketoconazole, a potent inhibitor of CYP3A4.
 Protease inhibitors, particularly ritonavir, may increase the exposure of docetaxel.
-Concomitant use of Docetaxel Injection Concentrate and drugs that inhibit CYP3A4 may increase exposure to docetaxel and should be avoided.
-In patients receiving treatment with Docetaxel Injection Concentrate, close monitoring for toxicity and a Docetaxel Injection Concentrate dose reduction could be considered if systemic administration of a potent CYP3A4 inhibitor cannot be avoided [see Dosage and Administration (2.7) and Clinical Pharmacology (12.3)].
+Concomitant use of Docetaxel Injection and drugs that inhibit CYP3A4 may increase exposure to docetaxel and should be avoided.
+In patients receiving treatment with Docetaxel Injection, close monitoring for toxicity and a Docetaxel Injection dose reduction could be considered if systemic administration of a potent CYP3A4 inhibitor cannot be avoided [see Dosage and Administration (2.7) and Clinical Pharmacology (12.3)].

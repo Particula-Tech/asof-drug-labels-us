@@ -1,6 +1,6 @@
 # 10 OVERDOSAGE
 
-There is no known antidote for docetaxel injection concentrate overdosage.
+There is no known antidote for Docetaxel Injection overdosage.
 In case of overdosage, the patient should be kept in a specialized unit where vital functions can be closely monitored.
 Anticipated complications of overdosage include: bone marrow suppression, peripheral neurotoxicity, and mucositis.
 Patients should receive therapeutic G-CSF as soon as possible after discovery of overdose.

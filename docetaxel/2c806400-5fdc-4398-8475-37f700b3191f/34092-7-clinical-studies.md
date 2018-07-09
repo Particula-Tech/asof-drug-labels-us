@@ -2,18 +2,18 @@
 
 ## 14.1 Locally Advanced or Metastatic Breast Cancer
 
-The efficacy and safety of docetaxel injection concentrate have been evaluated in locally advanced or metastatic breast cancer after failure of previous chemotherapy (alkylating agent-containing regimens or anthracycline-containing regimens).
+The efficacy and safety of Docetaxel Injection have been evaluated in locally advanced or metastatic breast cancer after failure of previous chemotherapy (alkylating agent-containing regimens or anthracycline-containing regimens).
 
 Randomized Trials
 
-In one randomized trial, patients with a history of prior treatment with an anthracycline-containing regimen were assigned to treatment with docetaxel injection concentrate (100 mg/m2 every 3 weeks) or the combination of mitomycin (12 mg/m2 every 6 weeks) and vinblastine (6 mg/m2 every 3 weeks).
-Two hundred three patients were randomized to docetaxel injection concentrate and 189 to the comparator arm.
-Most patients had received prior chemotherapy for metastatic disease; only 27 patients on the docetaxel injection concentrate arm and 33 patients on the comparator arm entered the study following relapse after adjuvant therapy.
+In one randomized trial, patients with a history of prior treatment with an anthracycline-containing regimen were assigned to treatment with Docetaxel Injection (100 mg/m2 every 3 weeks) or the combination of mitomycin (12 mg/m2 every 6 weeks) and vinblastine (6 mg/m2 every 3 weeks).
+Two hundred three patients were randomized to Docetaxel Injection and 189 to the comparator arm.
+Most patients had received prior chemotherapy for metastatic disease; only 27 patients on the Docetaxel Injection arm and 33 patients on the comparator arm entered the study following relapse after adjuvant therapy.
 Three-quarters of patients had measurable, visceral metastases.
 The primary endpoint was time to progression.
 The following table summarizes the study results (See Table 12).
 
-Table 12 - Efficacy of Docetaxel Injection Concentrate in the Treatment of Breast Cancer Patients Previously Treated with an Anthracycline-Containing Regimen (Intent-to-Treat Analysis)
+Table 12 - Efficacy of Docetaxel Injection in the Treatment of Breast Cancer Patients Previously Treated with an Anthracycline-Containing Regimen (Intent-to-Treat Analysis)
 
 |  | (n=203) | (n=189) |  |
 | --- | --- | --- | --- |
@@ -33,14 +33,14 @@ Table 12 - Efficacy of Docetaxel Injection Concentrate in the Treatment of Breas
 | Complete Response Rate | 3.4% | 1.6% | Chi Square |
 | *For the risk ratio, a value less than 1.00 favors docetaxel. |  |  |  |
 
-In a second randomized trial, patients previously treated with an alkylating-containing regimen were assigned to treatment with docetaxel injection concentrate (100 mg/m2) or doxorubicin (75 mg/m2) every 3 weeks.
-One hundred sixty-one patients were randomized to docetaxel injection concentrate and 165 patients to doxorubicin.
+In a second randomized trial, patients previously treated with an alkylating-containing regimen were assigned to treatment with Docetaxel Injection (100 mg/m2) or doxorubicin (75 mg/m2) every 3 weeks.
+One hundred sixty-one patients were randomized to Docetaxel Injection and 165 patients to doxorubicin.
 Approximately one-half of patients had received prior chemotherapy for metastatic disease, and one-half entered the study following relapse after adjuvant therapy.
 Three-quarters of patients had measurable, visceral metastases.
 The primary endpoint was time to progression.
 The study results are summarized below (See Table 13).
 
-Table 13 - Efficacy of Docetaxel Injection Concentrate in the Treatment of Breast Cancer Patients Previously Treated with an Alkylating-Containing Regimen (Intent-to-Treat Analysis)
+Table 13 - Efficacy of Docetaxel Injection in the Treatment of Breast Cancer Patients Previously Treated with an Alkylating-Containing Regimen (Intent-to-Treat Analysis)
 
 |  | (n=161) | (n=165) |  |
 | --- | --- | --- | --- |
@@ -60,27 +60,27 @@ Table 13 - Efficacy of Docetaxel Injection Concentrate in the Treatment of Breas
 | Complete Response Rate | 6.8% | 4.2% | Chi Square |
 | *For the risk ratio, a value less than 1.00 favors docetaxel. |  |  |  |
 
-In another multicenter open-label, randomized trial (TAX313), in the treatment of patients with advanced breast cancer who progressed or relapsed after one prior chemotherapy regimen, 527 patients were randomized to receive docetaxel injection concentrate monotherapy 60 mg/m2 (n=151), 75 mg/m2 (n=188) or 100 mg/m2 (n=188).
+In another multicenter open-label, randomized trial (TAX313), in the treatment of patients with advanced breast cancer who progressed or relapsed after one prior chemotherapy regimen, 527 patients were randomized to receive Docetaxel Injection monotherapy 60 mg/m2 (n=151), 75 mg/m2 (n=188) or 100 mg/m2 (n=188).
 In this trial, 94% of patients had metastatic disease and 79% had received prior anthracycline therapy.
 Response rate was the primary endpoint.
 
-Response rates increased with docetaxel injection concentrate dose: 19.9% for the 60 mg/m2 group compared to 22.3% for the 75 mg/m2 and 29.8% for the 100 mg/m2 group; pair-wise comparison between the 60 mg/m2 and 100 mg/m2 groups was statistically significant (p=0.037).
+Response rates increased with Docetaxel Injection dose: 19.9% for the 60 mg/m2 group compared to 22.3% for the 75 mg/m2 and 29.8% for the 100 mg/m2 group; pair-wise comparison between the 60 mg/m2 and 100 mg/m2 groups was statistically significant (p=0.037).
 
 Single Arm Studies
 
-Docetaxel injection concentrate at a dose of 100 mg/m2 was studied in six single arm studies involving a total of 309 patients with metastatic breast cancer in whom previous chemotherapy had failed.
+Docetaxel Injection at a dose of 100 mg/m2 was studied in six single arm studies involving a total of 309 patients with metastatic breast cancer in whom previous chemotherapy had failed.
 Among these, 190 patients had anthracycline-resistant breast cancer, defined as progression during an anthracycline-containing chemotherapy regimen for metastatic disease, or relapse during an anthracycline-containing adjuvant regimen.
 In anthracycline-resistant patients, the overall response rate was 37.9% (72/190; 95% C.I.: 31.0 to 44.8) and the complete response rate was 2.1%.
 
-Docetaxel injection concentrate was also studied in three single arm Japanese studies at a dose of 60 mg/m2, in 174 patients who had received prior chemotherapy for locally advanced or metastatic breast cancer.
+Docetaxel Injection was also studied in three single arm Japanese studies at a dose of 60 mg/m2, in 174 patients who had received prior chemotherapy for locally advanced or metastatic breast cancer.
 Among 26 patients whose best response to an anthracycline had been progression, the response rate was 34.6% (95% C.I.: 17.2 to 55.7), similar to the response rate in single arm studies of 100 mg/m2.
 
 ## 14.2 Adjuvant Treatment of Breast Cancer
 
-A multicenter, open-label, randomized trial (TAX316) evaluated the efficacy and safety of docetaxel injection concentrate for the adjuvant treatment of patients with axillary-node-positive breast cancer and no evidence of distant metastatic disease.
-After stratification according to the number of positive lymph nodes (1 to 3, 4+), 1491 patients were randomized to receive either docetaxel injection concentrate 75 mg/m2 administered 1-hour after doxorubicin 50 mg/m2 and cyclophosphamide 500 mg/m2 (TAC arm), or doxorubicin 50 mg/m2 followed by fluorouracil 500 mg/m2 and cyclosphosphamide 500 mg/m2 (FAC arm).
+A multicenter, open-label, randomized trial (TAX316) evaluated the efficacy and safety of Docetaxel Injection for the adjuvant treatment of patients with axillary-node-positive breast cancer and no evidence of distant metastatic disease.
+After stratification according to the number of positive lymph nodes (1 to 3, 4+), 1491 patients were randomized to receive either Docetaxel Injection 75 mg/m2 administered 1-hour after doxorubicin 50 mg/m2 and cyclophosphamide 500 mg/m2 (TAC arm), or doxorubicin 50 mg/m2 followed by fluorouracil 500 mg/m2 and cyclosphosphamide 500 mg/m2 (FAC arm).
 Both regimens were administered every 3 weeks for 6 cycles.
-Docetaxel injection concentrate was administered as a 1-hour infusion; all other drugs were given as intravenous bolus on day 1.
+Docetaxel Injection was administered as a 1-hour infusion; all other drugs were given as intravenous bolus on day 1.
 In both arms, after the last cycle of chemotherapy, patients with positive estrogen and/or progesterone receptors received tamoxifen 20 mg daily for up to 5 years.
 Adjuvant radiation therapy was prescribed according to guidelines in place at participating institutions and was given to 69% of patients who received TAC and 72% of patients who received FAC.
 
@@ -112,24 +112,24 @@ Table 14 - Subset Analyses-Adjuvant Breast Cancer Study
 
 ## 14.3 Non-Small Cell Lung Cancer (NSCLC)
 
-The efficacy and safety of docetaxel injection concentrate has been evaluated in patients with unresectable, locally advanced or metastatic non-small cell lung cancer whose disease has failed prior platinum-based chemotherapy or in patients who are chemotherapy-naïve.
+The efficacy and safety of Docetaxel Injection has been evaluated in patients with unresectable, locally advanced or metastatic non-small cell lung cancer whose disease has failed prior platinum-based chemotherapy or in patients who are chemotherapy-naïve.
 
-Monotherapy with Docetaxel Injection Concentrate for NSCLC Previously Treated with Platinum-Based Chemotherapy
+Monotherapy with Docetaxel Injection for NSCLC Previously Treated with Platinum-Based Chemotherapy
 
-Two randomized, controlled trials established that a docetaxel injection concentrate dose of 75 mg/m2 was tolerable and yielded a favorable outcome in patients previously treated with platinum-based chemotherapy (see below).
-Docetaxel injection concentrate at a dose of 100 mg/m2, however, was associated with unacceptable hematologic toxicity, infections, and treatment-related mortality and this dose should not be used [see Boxed Warning, Dosage and Administration (2.7), Warnings and Precautions (5.3)].
+Two randomized, controlled trials established that a Docetaxel Injection dose of 75 mg/m2 was tolerable and yielded a favorable outcome in patients previously treated with platinum-based chemotherapy (see below).
+Docetaxel Injection at a dose of 100 mg/m2, however, was associated with unacceptable hematologic toxicity, infections, and treatment-related mortality and this dose should not be used [see Boxed Warning, Dosage and Administration (2.7), Warnings and Precautions (5.3)].
 
-One trial (TAX317), randomized patients with locally advanced or metastatic non-small cell lung cancer, a history of prior platinum-based chemotherapy, no history of taxane exposure, and an ECOG performance status ≤2 to docetaxel injection concentrate or best supportive care.
+One trial (TAX317), randomized patients with locally advanced or metastatic non-small cell lung cancer, a history of prior platinum-based chemotherapy, no history of taxane exposure, and an ECOG performance status ≤2 to Docetaxel Injection or best supportive care.
 The primary endpoint of the study was survival.
-Patients were initially randomized to docetaxel injection concentrate 100 mg/m2 or best supportive care, but early toxic deaths at this dose led to a dose reduction to docetaxel injection concentrate 75 mg/m2.
-A total of 104 patients were randomized in this amended study to either docetaxel injection concentrate 75 mg/m2 or best supportive care.
+Patients were initially randomized to Docetaxel Injection 100 mg/m2 or best supportive care, but early toxic deaths at this dose led to a dose reduction to Docetaxel Injection 75 mg/m2.
+A total of 104 patients were randomized in this amended study to either Docetaxel Injection 75 mg/m2 or best supportive care.
 
-In a second randomized trial (TAX320), 373 patients with locally advanced or metastatic non-small cell lung cancer, a history of prior platinum-based chemotherapy, and an ECOG performance status ≤2 were randomized to docetaxel injection concentrate 75 mg/m2, docetaxel injection concentrate 100 mg/m2 and a treatment in which the investigator chose either vinorelbine 30 mg/m2 days 1, 8, and 15 repeated every 3 weeks or ifosfamide 2 g/m2 days 1 to 3 repeated every 3 weeks.
+In a second randomized trial (TAX320), 373 patients with locally advanced or metastatic non-small cell lung cancer, a history of prior platinum-based chemotherapy, and an ECOG performance status ≤2 were randomized to Docetaxel Injection 75 mg/m2, Docetaxel Injection 100 mg/m2 and a treatment in which the investigator chose either vinorelbine 30 mg/m2 days 1, 8, and 15 repeated every 3 weeks or ifosfamide 2 g/m2 days 1 to 3 repeated every 3 weeks.
 Forty percent of the patients in this study had a history of prior paclitaxel exposure.
 The primary endpoint was survival in both trials.
-The efficacy data for the docetaxel injection concentrate 75 mg/m2 arm and the comparator arms are summarized in Table 15 and Figures 3 and 4 showing the survival curves for the two studies.
+The efficacy data for the Docetaxel Injection 75 mg/m2 arm and the comparator arms are summarized in Table 15 and Figures 3 and 4 showing the survival curves for the two studies.
 
-Table 15 - Efficacy of Docetaxel Injection Concentrate in the Treatment of Non-Small Cell Lung Cancer Patients Previously Treated with a Platinum-Based Chemotherapy Regimen (Intent-to-Treat Analysis)
+Table 15 - Efficacy of Docetaxel Injection in the Treatment of Non-Small Cell Lung Cancer Patients Previously Treated with a Platinum-Based Chemotherapy Regimen (Intent-to-Treat Analysis)
 
 |  |  | n=49 |  |  |
 | --- | --- | --- | --- | --- |
@@ -157,40 +157,40 @@ Table 15 - Efficacy of Docetaxel Injection Concentrate in the Treatment of Non-S
 | †† a value less than 1.00 favors docetaxel |  |  |  |  |
 
 Only one of the two trials (TAX317) showed a clear effect on survival, the primary endpoint; that trial also showed an increased rate of survival to one year.
-In the second study (TAX320) the rate of survival at one year favored docetaxel injection concentrate 75 mg/m2.
+In the second study (TAX320) the rate of survival at one year favored Docetaxel Injection 75 mg/m2.
 
-Patients treated with docetaxel injection concentrate at a dose of 75 mg/m2 experienced no deterioration in performance status and body weight relative to the comparator arms used in these trials.
+Patients treated with Docetaxel Injection at a dose of 75 mg/m2 experienced no deterioration in performance status and body weight relative to the comparator arms used in these trials.
 
-Combination Therapy with Docetaxel Injection Concentrate for Chemotherapy-Naïve NSCLC
+Combination Therapy with Docetaxel Injection for Chemotherapy-Naïve NSCLC
 
-In a randomized controlled trial (TAX326), 1218 patients with unresectable stage IIIB or IV NSCLC and no prior chemotherapy were randomized to receive one of three treatments: Docetaxel injection concentrate 75 mg/m2 as a 1 hour infusion immediately followed by cisplatin 75 mg/m2 over 30 to 60 minutes every 3 weeks; vinorelbine 25 mg/m2 administered over 6 to 10 minutes on days 1, 8, 15, 22 followed by cisplatin 100 mg/m2 administered on day 1 of cycles repeated every 4 weeks; or a combination of docetaxel injection concentrate and carboplatin.
+In a randomized controlled trial (TAX326), 1218 patients with unresectable stage IIIB or IV NSCLC and no prior chemotherapy were randomized to receive one of three treatments: Docetaxel Injection 75 mg/m2 as a 1 hour infusion immediately followed by cisplatin 75 mg/m2 over 30 to 60 minutes every 3 weeks; vinorelbine 25 mg/m2 administered over 6 to 10 minutes on days 1, 8, 15, 22 followed by cisplatin 100 mg/m2 administered on day 1 of cycles repeated every 4 weeks; or a combination of Docetaxel Injection and carboplatin.
 
 The primary efficacy endpoint was overall survival.
-Treatment with docetaxel injection concentrate+cisplatin did not result in a statistically significantly superior survival compared to vinorelbine+cisplatin (see table below).
-The 95% confidence interval of the hazard ratio (adjusted for interim analysis and multiple comparisons) shows that the addition of docetaxel injection concentrate to cisplatin results in an outcome ranging from a 6% inferior to a 26% superior survival compared to the addition of vinorelbine to cisplatin.
+Treatment with Docetaxel Injection+cisplatin did not result in a statistically significantly superior survival compared to vinorelbine+cisplatin (see table below).
+The 95% confidence interval of the hazard ratio (adjusted for interim analysis and multiple comparisons) shows that the addition of Docetaxel Injection to cisplatin results in an outcome ranging from a 6% inferior to a 26% superior survival compared to the addition of vinorelbine to cisplatin.
 The results of a further statistical analysis showed that at least (the lower bound of the 95% confidence interval) 62% of the known survival effect of vinorelbine when added to cisplatin (about a 2-month increase in median survival; Wozniak et al. JCO, 1998) was maintained.
-The efficacy data for the docetaxel injection concentrate+cisplatin arm and the comparator arm are summarized in Table 16.
+The efficacy data for the Docetaxel Injection+cisplatin arm and the comparator arm are summarized in Table 16.
 
-Table 16 - Survival Analysis of Docetaxel Injection Concentrate in Combination Therapy for Chemotherapy-Naïve NSCLC
+Table 16 - Survival Analysis of Docetaxel Injection in Combination Therapy for Chemotherapy-Naïve NSCLC
 
 |  | n=408 | n=405 |
 | --- | --- | --- |
-| Comparison | Docetaxel Injection Concentrate+Cisplatin | Vinorelbine+Cisplatin |
+| Comparison | Docetaxel Injection +Cisplatin | Vinorelbine+Cisplatin |
 | Kaplan-Meier Estimate of Median Survival | 10.9 months | 10.0 months |
 | p-valuea | 0.122 |  |
 | Estimated Hazard Ratiob | 0.88 |  |
 | Adjusted 95% CIc | (0.74, 1.06) |  |
-| a From the superiority test (stratified log rank) comparing docetaxel injection concentrate+cisplatin to vinorelbine+cisplatin |  |  |
-| bHazard ratio of docetaxel injection concentrate+cisplatin vs. vinorelbine+cisplatin. A hazard ratio of less than 1 indicates that docetaxel injection concentrate+cisplatin is associated with a longer survival. |  |  |
+| a From the superiority test (stratified log rank) comparing docetaxel injection+cisplatin to vinorelbine+cisplatin |  |  |
+| bHazard ratio of docetaxel injection+cisplatin vs. vinorelbine+cisplatin. A hazard ratio of less than 1 indicates that docetaxel injection+cisplatin is associated with a longer survival. |  |  |
 | cAdjusted for interim analysis and multiple comparisons. |  |  |
 
-The second comparison in the same three-arm study, vinorelbine+cisplatin versus docetaxel injection concentrate+carboplatin, did not demonstrate superior survival associated with the docetaxel injection concentrate arm (Kaplan-Meier estimate of median survival was 9.1 months for docetaxel injection concentrate+carboplatin compared to 10.0 months on the vinorelbine+cisplatin arm) and the docetaxel injection concentrate+carboplatin arm did not demonstrate preservation of at least 50% of the survival effect of vinorelbine added to cisplatin.
+The second comparison in the same three-arm study, vinorelbine+cisplatin versus Docetaxel Injection+carboplatin, did not demonstrate superior survival associated with the Docetaxel Injection arm (Kaplan-Meier estimate of median survival was 9.1 months for Docetaxel Injection+carboplatin compared to 10.0 months on the vinorelbine+cisplatin arm) and the Docetaxel Injection+carboplatin arm did not demonstrate preservation of at least 50% of the survival effect of vinorelbine added to cisplatin.
 Secondary endpoints evaluated in the trial included objective response and time to progression.
-There was no statistically significant difference between docetaxel injection concentrate+cisplatin and vinorelbine+cisplatin with respect to objective response and time to progression (see Table 17).
+There was no statistically significant difference between Docetaxel Injection+cisplatin and vinorelbine+cisplatin with respect to objective response and time to progression (see Table 17).
 
-Table 17 - Response and TTP Analysis of Docetaxel Injection Concentrate in Combination Therapy for Chemotherapy-Naïve NSCLC
+Table 17 - Response and TTP Analysis of Docetaxel Injection in Combination Therapy for Chemotherapy-Naïve NSCLC
 
-| Endpoint | Docetaxel Injection Concentrate+Cisplatin | Vinorelbine+Cisplatin | p-value |
+| Endpoint | Docetaxel Injection+Cisplatin | Vinorelbine+Cisplatin | p-value |
 | --- | --- | --- | --- |
 | Objective Response Rate | 31.6% | 24.4% | Not Significant |
 | (95% CI)a | (26.5%, 36.8%) | (19.8%, 29.2%) |  |
@@ -202,24 +202,24 @@ Table 17 - Response and TTP Analysis of Docetaxel Injection Concentrate in Combi
 
 ## 14.4 Hormone Refractory Prostate Cancer
 
-The safety and efficacy of docetaxel injection concentrate in combination with prednisone in patients with androgen independent (hormone refractory) metastatic prostate cancer were evaluated in a randomized multicenter active control trial.
+The safety and efficacy of Docetaxel Injection in combination with prednisone in patients with androgen independent (hormone refractory) metastatic prostate cancer were evaluated in a randomized multicenter active control trial.
 A total of 1006 patients with Karnofsky Performance Status (KPS) ≥60 were randomized to the following treatment groups:
 
-- Docetaxel injection concentrate 75 mg/m2 every 3 weeks for 10 cycles.
-- Docetaxel injection concentrate 30 mg/m2 administered weekly for the first 5 weeks in a 6-week cycle for 5 cycles.
+- Docetaxel Injection 75 mg/m2 every 3 weeks for 10 cycles.
+- Docetaxel Injection 30 mg/m2 administered weekly for the first 5 weeks in a 6-week cycle for 5 cycles.
 - Mitoxantrone 12 mg/m2 every 3 weeks for 10 cycles.
 
 All 3 regimens were administered in combination with prednisone 5 mg twice daily, continuously.
 
-In the docetaxel injection concentrate every three week arm, a statistically significant overall survival advantage was demonstrated compared to mitoxantrone.
-In the docetaxel injection concentrate weekly arm, no overall survival advantage was demonstrated compared to the mitoxantrone control arm.
-Efficacy results for the docetaxel injection concentrate every 3 week arm versus the control arm are summarized in Table 18 and Figure 5.
+In the Docetaxel Injection every three week arm, a statistically significant overall survival advantage was demonstrated compared to mitoxantrone.
+In the Docetaxel Injection weekly arm, no overall survival advantage was demonstrated compared to the mitoxantrone control arm.
+Efficacy results for the Docetaxel Injection every 3 week arm versus the control arm are summarized in Table 18 and Figure 5.
 
-Table 18 - Efficacy of Docetaxel Injection Concentrate in the Treatment of Patients with Androgen Independent (Hormone Refractory) Metastatic Prostate Cancer (Intent-to-Treat Analysis)
+Table 18 - Efficacy of Docetaxel Injection in the Treatment of Patients with Androgen Independent (Hormone Refractory) Metastatic Prostate Cancer (Intent-to-Treat Analysis)
 
 |  | every 3 weeks | every 3 weeks |
 | --- | --- | --- |
-|  | Docetaxel Injection Concentrate+ Prednisone | Mitoxantrone+ Prednisone |
+|  | Docetaxel Injection + Prednisone | Mitoxantrone+ Prednisone |
 | Number of patients | 335 | 337 |
 | Median survival (months) | 18.9 | 16.5 |
 | 95% CI | (17.0 to 21.2) | (14.4 to 18.6) |
@@ -230,8 +230,8 @@ Table 18 - Efficacy of Docetaxel Injection Concentrate in the Treatment of Patie
 
 ## 14.5 Gastric Adenocarcinoma
 
-A multicenter, open-label, randomized trial was conducted to evaluate the safety and efficacy of docetaxel injection concentrate for the treatment of patients with advanced gastric adenocarcinoma, including adenocarcinoma of the gastroesophageal junction, who had not received prior chemotherapy for advanced disease.
-A total of 445 patients with KPS >70 were treated with either docetaxel injection concentrate (T) (75 mg/m2 on day 1) in combination with cisplatin (C) (75 mg/m2 on day 1) and fluorouracil (F) (750 mg/m2 per day for 5 days) or cisplatin (100 mg/m2 on day 1) and fluorouracil (1000 mg/m2 per day for 5 days).
+A multicenter, open-label, randomized trial was conducted to evaluate the safety and efficacy of Docetaxel Injection for the treatment of patients with advanced gastric adenocarcinoma, including adenocarcinoma of the gastroesophageal junction, who had not received prior chemotherapy for advanced disease.
+A total of 445 patients with KPS >70 were treated with either Docetaxel Injection (T) (75 mg/m2 on day 1) in combination with cisplatin (C) (75 mg/m2 on day 1) and fluorouracil (F) (750 mg/m2 per day for 5 days) or cisplatin (100 mg/m2 on day 1) and fluorouracil (1000 mg/m2 per day for 5 days).
 The length of a treatment cycle was 3 weeks for the TCF arm and 4 weeks for the CF arm.
 The demographic characteristics were balanced between the two treatment arms.
 The median age was 55 years, 71% were male, 71% were Caucasian, 24% were 65 years of age or older, 19% had a prior curative surgery and 12% had palliative surgery.
@@ -242,7 +242,7 @@ Approximately 75% of patients had died at the time of this analysis.
 Overall survival was significantly longer (p=0.0201) in the TCF arm with a HR of 1.29 (95% CI: 1.04 to 1.61).
 Efficacy results are summarized in Table 19 and Figures 6 and 7.
 
-Table 19 - Efficacy of Docetaxel Injection Concentrate in the treatment of patients with Gastric Adenocarcinoma
+Table 19 - Efficacy of Docetaxel Injection in the treatment of patients with Gastric Adenocarcinoma
 
 |  | n=221 | n=224 |
 | --- | --- | --- |
@@ -260,7 +260,7 @@ Table 19 - Efficacy of Docetaxel Injection Concentrate in the treatment of patie
 | Overall Response Rate (CR+PR) (%) | 36.7 | 25.4 |
 | p-value | 0.0106 |  |
 | *Unstratified log-rank test |  |  |
-| †For the hazard ratio (TCF/CF), values less than 1.00 favor the docetaxel injection concentrate arm. |  |  |
+| †For the hazard ratio (TCF/CF), values less than 1.00 favor the docetaxel injection arm. |  |  |
 
 Subgroup analyses were consistent with the overall results across age, gender and race.
 
@@ -268,9 +268,9 @@ Subgroup analyses were consistent with the overall results across age, gender an
 
 Induction chemotherapy followed by radiotherapy (TAX323)
 
-The safety and efficacy of docetaxel injection concentrate in the induction treatment of patients with squamous cell carcinoma of the head and neck (SCCHN) was evaluated in a multicenter, open-label, randomized trial (TAX323).
+The safety and efficacy of Docetaxel Injection in the induction treatment of patients with squamous cell carcinoma of the head and neck (SCCHN) was evaluated in a multicenter, open-label, randomized trial (TAX323).
 In this study, 358 patients with inoperable locally advanced SCCHN, and WHO performance status 0 or 1, were randomized to one of two treatment arms.
-Patients on the docetaxel injection concentrate arm received docetaxel injection concentrate (T) 75 mg/m2 followed by cisplatin (P) 75 mg/m2 on Day 1, followed by fluorouracil (F) 750 mg/m2 per day as a continuous infusion on Days 1 to 5.
+Patients on the Docetaxel Injection arm received Docetaxel Injection (T) 75 mg/m2 followed by cisplatin (P) 75 mg/m2 on Day 1, followed by fluorouracil (F) 750 mg/m2 per day as a continuous infusion on Days 1 to 5.
 The cycles were repeated every three weeks for 4 cycles.
 Patients whose disease did not progress received radiotherapy (RT) according to institutional guidelines (TPF/RT).
 Patients on the comparator arm received cisplatin (P) 100 mg/m2 on Day 1, followed by fluorouracil (F) 1000 mg/m2/day as a continuous infusion on Days 1 to 5.
@@ -284,11 +284,11 @@ The primary endpoint in this study, progression-free survival (PFS), was signifi
 Median overall survival with a median follow-up of 51.2 months was also significantly longer in favor of the TPF arm compared to the PF arm (median OS: 18.6 vs. 14.2 months respectively).
 Efficacy results are presented in Table 20 and Figures 8 and 9.
 
-Table 20 - Efficacy of Docetaxel Injection Concentrate in the Induction Treatment of Patients with Inoperable Locally Advanced SCCHN (Intent-to-Treat Analysis)
+Table 20 - Efficacy of Docetaxel Injection in the Induction Treatment of Patients with Inoperable Locally Advanced SCCHN (Intent-to-Treat Analysis)
 
 |  | n=177 | n=181 |
 | --- | --- | --- |
-| Endpoint | Docetaxel Injection Concentrate+ |  |
+| Endpoint | Docetaxel Injection + |  |
 |  | Cisplatin+ | Cisplatin+ |
 |  | Fluorouracil | Fluorouracil |
 | Median progression free survival (months) | 11.4 | 8.3 |
@@ -309,16 +309,16 @@ Table 20 - Efficacy of Docetaxel Injection Concentrate in the Induction Treatmen
 | treatment [chemotherapy +/- radiotherapy] (%) | 72.3 | 58.6 |
 | (95%CI) | (65.1 to 78.8) | (51.0 to 65.8) |
 | ***p-value | 0.006 |  |
-| A Hazard ratio of less than 1 favors docetaxel injection concentrate+Cisplatin+Fluorouracil |  |  |
+| A Hazard ratio of less than 1 favors docetaxel injection+Cisplatin+Fluorouracil |  |  |
 | * Stratified log-rank test based on primary tumor site |  |  |
 | ** Stratified log-rank test, not adjusted for multiple comparisons |  |  |
 | *** Chi square test, not adjusted for multiple comparisons |  |  |
 
 Induction chemotherapy followed by chemoradiotherapy (TAX324)
 
-The safety and efficacy of docetaxel injection concentrate in the induction treatment of patients with locally advanced (unresectable, low surgical cure, or organ preservation) SCCHN was evaluated in a randomized, multicenter open-label trial (TAX324).
+The safety and efficacy of Docetaxel Injection in the induction treatment of patients with locally advanced (unresectable, low surgical cure, or organ preservation) SCCHN was evaluated in a randomized, multicenter open-label trial (TAX324).
 In this study, 501 patients, with locally advanced SCCHN, and a WHO performance status of 0 or 1, were randomized to one of two treatment arms.
-Patients on the docetaxel injection concentrate arm received docetaxel injection concentrate (T) 75 mg/m² by intravenous infusion on day 1 followed by cisplatin (P) 100 mg/m² administered as a 30-minute to three-hour intravenous infusion, followed by the continuous intravenous infusion of fluorouracil (F) 1000 mg/m²/day from day 1 to day 4.
+Patients on the Docetaxel Injection arm received Docetaxel Injection (T) 75 mg/m² by intravenous infusion on day 1 followed by cisplatin (P) 100 mg/m² administered as a 30-minute to three-hour intravenous infusion, followed by the continuous intravenous infusion of fluorouracil (F) 1000 mg/m²/day from day 1 to day 4.
 The cycles were repeated every 3 weeks for 3 cycles.
 Patients on the comparator arm received cisplatin (P) 100 mg/m² as a 30-minute to three-hour intravenous infusion on day 1 followed by the continuous intravenous infusion of fluorouracil (F) 1000 mg/m²/day from day 1 to day 5.
 The cycles were repeated every 3 weeks for 3 cycles.
@@ -328,20 +328,20 @@ During radiotherapy, carboplatin (AUC 1.5) was given weekly as a one-hour intrav
 Radiation was delivered with megavoltage equipment using once daily fractionation (2 Gy per day, 5 days per week for 7 weeks for a total dose of 70 to 72 Gy).
 Surgery on the primary site of disease and/or neck could be considered at anytime following completion of CRT.
 
-The primary efficacy endpoint, overall survival (OS), was significantly longer (log-rank test, p=0.0058) with the docetaxel injection concentrate-containing regimen compared to PF [median OS: 70.6 versus 30.1 months respectively, hazard ratio (HR)=0.70, 95% confidence interval (CI)= 0.54 – 0.90].
+The primary efficacy endpoint, overall survival (OS), was significantly longer (log-rank test, p=0.0058) with the Docetaxel Injection-containing regimen compared to PF [median OS: 70.6 versus 30.1 months respectively, hazard ratio (HR)=0.70, 95% confidence interval (CI)= 0.54 – 0.90].
 Overall survival results are presented in Table 21 and Figure 10.
 
-Table 21 - Efficacy of Docetaxel Injection Concentrate in the induction treatment of patients with locally advanced SCCHN (Intent-to-Treat Analysis)
+Table 21 - Efficacy of Docetaxel Injection in the Induction Treatment of Patients with Locally Advanced SCCHN (Intent-to-Treat Analysis)
 
 | ENDPOINT | n=255 | n=246 |
 | --- | --- | --- |
-|  | Docetaxel Injection Concentrate+ | Cisplatin+ |
+|  | Docetaxel Injection + | Cisplatin+ |
 |  | Cisplatin+ Fluorouracil | Fluorouracil |
 | Median overall survival (months) | 70.6 | 30.1 |
 | (95% CI) | (49.0 to NE) | (20.9 to 51.5) |
 | Hazard ratio: | 0.70 |  |
 | (95% CI) | (0.54 to 0.90) |  |
 | *p-value | 0.0058 |  |
-| A Hazard ratio of less than 1 favors docetaxel injection concentrate+cisplatin+fluorouracil |  |  |
+| A Hazard ratio of less than 1 favors docetaxel injection+cisplatin+fluorouracil |  |  |
 | * un-adjusted log-rank test |  |  |
 | NE - not estimable |  |  |

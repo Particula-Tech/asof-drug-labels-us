@@ -1,5 +1,5 @@
 # 4 CONTRAINDICATIONS
 
-- Docetaxel injection concentrate is contraindicated in patients who have a history of severe hypersensitivity reactions to docetaxel or to other drugs formulated with polysorbate 80.
+- Docetaxel Injection is contraindicated in patients who have a history of severe hypersensitivity reactions to docetaxel or to other drugs formulated with polysorbate 80.
   Severe reactions, including anaphylaxis, have occurred [see Warnings and Precautions (5.4)].
-- Docetaxel injection concentrate should not be used in patients with neutrophil counts of <1500 cells/mm3.
+- Docetaxel Injection should not be used in patients with neutrophil counts of <1500 cells/mm3.

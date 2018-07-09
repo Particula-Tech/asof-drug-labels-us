@@ -34,7 +34,7 @@ Effect of Gender: The population pharmacokinetics analysis described above also 
 
 Hepatic Impairment: The population pharmacokinetic analysis described above indicated that in patients with clinical chemistry data suggestive of mild to moderate liver impairment (AST and/or ALT >1.5 times ULN concomitant with alkaline phosphatase >2.5 times ULN), total body clearance was lowered by an average of 27%, resulting in a 38% increase in systemic exposure (AUC).
 This average, however, includes a substantial range and there is, at present, no measurement that would allow recommendation for dose adjustment in such patients.
-Patients with combined abnormalities of transaminase and alkaline phosphatase should not be treated with Docetaxel Injection Concentrate.
+Patients with combined abnormalities of transaminase and alkaline phosphatase should not be treated with Docetaxel Injection.
 Patients with severe hepatic impairment have not been studied [see Warnings and Precautions (5.2) and Use in Specific Populations (8.6)].
 
 Effect of Race: Mean total body clearance for Japanese patients dosed at the range of 10 mg/m2 to 90 mg/m2 was similar to that of European/American populations dosed at 100 mg/m2, suggesting no significant difference in the elimination of docetaxel in the two populations.
@@ -46,10 +46,14 @@ The results of this study indicated that the mean dose-normalized AUC of docetax
 Effect of Combination Therapies:
 
 - Dexamethasone: Docetaxel total body clearance was not modified by pretreatment with dexamethasone.
+
 - Cisplatin: Clearance of docetaxel in combination therapy with cisplatin was similar to that previously observed following monotherapy with docetaxel.
   The pharmacokinetic profile of cisplatin in combination therapy with docetaxel was similar to that observed with cisplatin alone.
+
 - Cisplatin and Fluorouracil: The combined administration of docetaxel, cisplatin and fluorouracil in 12 patients with solid tumors had no influence on the pharmacokinetics of each individual drug.
+
 - Prednisone: A population pharmacokinetic analysis of plasma data from 40 patients with hormone-refractory metastatic prostate cancer indicated that docetaxel systemic clearance in combination with prednisone is similar to that observed following administration of docetaxel alone.
+
 - Cyclophosphamide and Doxorubicin: A study was conducted in 30 patients with advanced breast cancer to determine the potential for drug-drug-interactions between docetaxel (75 mg/m²), doxorubicin (50 mg/m²), and cyclophosphamide (500 mg/m²) when administered in combination.
   The coadministration of docetaxel had no effect on the pharmacokinetics of doxorubicin and cyclophosphamide when the three drugs were given in combination compared to coadministration of doxorubicin and cyclophosphamide only.
   In addition, doxorubicin and cyclophosphamide had no effect on docetaxel plasma clearance when the three drugs were given in combination compared to historical data for docetaxel monotherapy.
