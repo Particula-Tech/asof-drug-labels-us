@@ -76,12 +76,12 @@ Pantoprazole sodium delayed-release tablets may harm your unborn baby.
 Tell your doctor if you become pregnant or think you may be pregnant during treatment with pantoprazole sodium delayed-release tablets.
 
 • are breastfeeding or plan to breastfeed.
-Pantoprazole sodium can pass into your milk.
+Pantoprazole sodium can pass into your breast milk.
 You and your doctor should decide if you will take pantoprazole sodium delayed-release tablets or breastfeed.
 You should not do both.
 Talk with your doctor about the best way to feed your baby if you take pantoprazole sodium delayed-release tablets.
 
-Tell your doctor about all of the medicines you take, including prescription and over-the-counter medicines, vitamins and herbal supplements.
+Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins and herbal supplements.
 Especially tell your doctor if you take methotrexate (Otrexup, Rasuvo, Trexall, XATMEP), digoxin (LANOXIN), or a water pill (diuretic).
 
 How should I take pantoprazole sodium delayed-release tablets?
@@ -98,7 +98,7 @@ o Tell your doctor if you are not able to swallow your pantoprazole sodium delay
 
 o You may use antacids while taking pantoprazole sodium delayed-release tablets.
 
-- Ifyou miss a dose of pantoprazole sodium delayed-release tablet, take it as soon as possible.
+- If you miss a dose of pantoprazole sodium delayed-release tablet, take it as soon as possible.
   If it is almost time for your next dose, do not take the missed dose.
   Take the next dose at your regular time.
   Do not take 2 doses at the same time.
@@ -116,6 +116,9 @@ Tell your doctor if you have symptoms of low vitamin B-12 levels, including shor
 • Low magnesium levels in your body can happen in people who have taken pantoprazole sodium delayed-release tablets for at least 3 months.
 Tell your doctor if you have symptoms of low magnesium levels, including seizures, dizziness, irregular heartbeat, jitteriness, muscle aches or weakness, and spasms of hands, feet or voice.
 
+Stomach growths (fundic gland polyps).
+People who take PPI medicines for a long time have an increased risk of developing a certain type of stomach growths called fundic gland polyps, especially after taking PPI medicines for more than 1 year.
+
 The most common side effects of pantoprazole sodium delayed-release tablets in adults include: headache, diarrhea, nausea, stomach-area (abdominal) pain, vomiting, gas, dizziness, and joint pain.
 
 The most common side effects of pantoprazole sodium delayed-release tablets in children include: upper respiratory infection, headache, fever, diarrhea, vomiting, rash, and stomach-area (abdominal) pain.
@@ -126,17 +129,17 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store pantoprazole sodium delayed-release tablets?
 
-· Store pantoprazole sodium delayed-release tablets at 20° –25°C (68° –77°F); excursions permitted to 15°-30°C (59°-86°F).
+Store pantoprazole sodium delayed-release tablets at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
 
 Keep pantoprazole sodium delayed-release tablets and all medicines out of the reach of children.
 
-General information about the safe and effective use of pantoprazole sodium delayed-release tablets
+General information about the safe and effective use of pantoprazole sodium delayed-release tablets.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use pantoprazole sodium delayed-release tablets for a condition for which it was not prescribed.
 Do not give pantoprazole sodium delayed-release tablets to other people, even if they have the same symptoms that you have.
 It may harm them.
-You can ask your doctor of pharmacist for information about pantoprazole sodium delayed-release tablets that is written for health professionals.
+You can ask your doctor or pharmacist for information about pantoprazole sodium delayed-release tablets that is written for health professionals.
 
 What are the ingredients in pantoprazole sodium delayed-release tablets?
 
@@ -150,7 +153,7 @@ This Medication Guide has been approved by the U.S. food and Drug Administration
 
 The brands listed are trademarks of their respective owners and are not trademarks of Dr. Reddy's Laboratories Limited.
 
-Rx only
+Rx Only
 
 Manufactured by:
 
@@ -158,6 +161,6 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally –500 090 INDIA
 
-Revised:0118
+Revised: 0718
 
 Dispense with Medication Guide available at: www.drreddys.com/medguide/pantoprazoledrtabs.pdf

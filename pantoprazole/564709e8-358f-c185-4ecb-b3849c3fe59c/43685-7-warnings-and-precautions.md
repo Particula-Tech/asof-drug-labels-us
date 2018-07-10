@@ -24,7 +24,7 @@ Patients should use the lowest dose and shortest duration of PPI therapy appropr
 Several published observational studies suggest that PPI therapy may be associated with an increased risk for osteoporosis-related fractures of the hip, wrist, or spine.
 The risk of fracture was increased in patients who received high-dose, defined as multiple daily doses, and long-term PPI therapy (a year or longer).
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
-Patients at risk for osteoporosis-related fractures should be managed according to established treatment guidelines [see Dosage and Administration (2), and Adverse Reactions (6.2)].
+Patients at risk for osteoporosis-related fractures should be managed according to established treatment guidelines [see Dosage and Administration (2),Adverse Reactions (6.2)].
 
 ## 5.5 Cutaneous and Systemic Lupus Erythematosus
 
@@ -66,19 +66,24 @@ Due to the chronic nature of GERD, there may be a potential for prolonged admini
 In long-term rodent studies, pantoprazole was carcinogenic and caused rare types of gastrointestinal tumors.
 The relevance of these findings to tumor development in humans is unknown [see Nonclinical Toxicology (13.1)].
 
-## 5.9 Interference with Investigations for Neuroendocrine Tumors
+## 5.9 Fundic Gland Polyps
+
+PPI use is associated with an increased risk of fundic gland polyps that increases with long-term use, especially beyond one year.
+Most PPI users who developed fundic gland polyps were asymptomatic and fundic gland polyps were identified incidentally on endoscopy.
+Use the shortest duration of PPI therapy appropriate to the condition being treated.
+
+## 5.10 Interference with Investigations for Neuroendocrine Tumors
 
 Serum chromogranin A (CgA) levels increase secondary to drug-induced decreases in gastric acidity.
 The increased CgA level may cause false positive results in diagnostic investigations for neuroendocrine tumors.
 Healthcare providers should temporarily stop pantoprazole sodium treatment at least 14 days before assessing CgA levels and consider repeating the test if initial CgA levels are high.
 If serial tests are performed (e.g. for monitoring), the same commercial laboratory should be used for testing, as reference ranges between tests may vary [see Clinical Pharmacology (12.2)].
 
-## 5.10 Interference with Urine Screen for THC
+## 5.11 Interference with Urine Screen for THC
 
 There have been reports of false-positive urine screening tests for tetrahydrocannabinol (THC) in patients receiving PPIs, including pantoprazole sodium [see Drug Interactions (7)].
 
-## 5.11 Concomitant Use of Pantoprazole Sodium with Methotrexate
+## 5.12 Concomitant Use of Pantoprazole Sodium with Methotrexate
 
 Literature suggests that concomitant use of PPIs with methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite, possibly leading to methotrexate toxicities.
-In high-dose methotrexate administration, a temporary withdrawal of the PPI may be considered in some patients.
-[see Drug Interactions (7)].
+In high-dose methotrexate administration, a temporary withdrawal of the PPI may be considered in some patients [see Drug Interactions (7)].

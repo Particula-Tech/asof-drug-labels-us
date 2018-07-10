@@ -41,7 +41,7 @@ The safety and effectiveness of pantoprazole sodium for pediatric uses other tha
 
 1 year through 16 years of age
 
-Use of pantoprazole sodium in pediatric patients 1 year through 16 years of age for short-term treatment (up to eight weeks) of EE associated with GERD is supported by: a) extrapolation of results from adequate and well-controlled studies that supported the approval of pantoprazole sodium for treatment of EE associated with GERD in adults, and b) safety, effectiveness, and pharmacokinetic studies performed in pediatric patients [see Clinical Studies (14.1), and Clinical Pharmacology (12.3)]
+Use of pantoprazole sodium in pediatric patients 1 year through 16 years of age for short-term treatment (up to eight weeks) of EE associated with GERD is supported by: a) extrapolation of results from adequate and well-controlled studies that supported the approval of pantoprazole sodium for treatment of EE associated with GERD in adults, and b) safety, effectiveness, and pharmacokinetic studies performed in pediatric patients [see Clinical Studies (14.1), Clinical Pharmacology (12.3)].
 
 Safety of pantoprazole sodium in the treatment of EE associated with GERD in pediatric patients 1 through 16 years of age was evaluated in three multicenter, randomized, double-blind, parallel-treatment studies, involving 249 pediatric patients, including 8 with EE (4 patients ages 1 year to 5 years and 4 patients 5 years to 11 years).
 The children ages 1 year to 5 years with endoscopically diagnosed EE (defined as an endoscopic Hetzel-Dent score ≥ 2) were treated once daily for 8 weeks with one of two dose levels of pantoprazole sodium (approximating 0.6 mg/kg or 1.2 mg/kg).

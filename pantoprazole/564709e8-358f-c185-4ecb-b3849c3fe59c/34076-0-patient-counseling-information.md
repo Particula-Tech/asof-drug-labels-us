@@ -32,7 +32,7 @@ Advise patients to report any clinical symptoms that may be associated with hypo
 
 Drug Interactions
 
-Instruct patients to inform their healthcare provider of any other medications they are currently taking, including rilpivirine-containing products [Contraindications (4)] digoxin [see Warnings and Precautions (5.7)] and high dose methotrexate [see Warnings and Precautions (5.11)].
+Instruct patients to inform their healthcare provider of any other medications they are currently taking, including rilpivirine-containing products [see Contraindications (4)] digoxin [see Warnings and Precautions (5.7)] and high dose methotrexate [see Warnings and Precautions (5.12)].
 
 Pregnancy Inform female patients of reproductive potential that pantoprazole sodium may cause fetal harm and to inform their prescriber of a known or suspected pregnancy [see Use in Specific Populations(8.1)].
 

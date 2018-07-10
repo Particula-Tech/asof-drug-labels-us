@@ -14,6 +14,8 @@ The following serious adverse reactions are described below and elsewhere in lab
 
 • Hypomagnesemia [see Warnings and Precautions (5.7)]
 
+• Fundic Gland Polyps [see Warnings and Precautions (5.9)]
+
 ## 6.1 Clinical Trials Experience
 
 The adverse reaction profiles for pantoprazole sodium delayed-release oral suspension and pantoprazole sodium delayed-release tablets are similar.
@@ -90,6 +92,8 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 These adverse reactions are listed below by body system:
 
+Gastrointestinal Disorders: fundic gland polyps
+
 General Disorders and Administration Conditions: asthenia, fatigue, malaise
 
 Hematologic: pancytopenia, agranulocytosis
@@ -112,4 +116,4 @@ Psychiatric Disorders: hallucination, confusion, insomnia, somnolence
 
 Renal and Urinary Disorders: interstitial nephritis
 
-Skin and Subcutaneous Tissue Disorders: severe dermatologic reactions (some fatal), including erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis (TEN, some fatal), angioedema (Quincke's edema) and cutaneous lupus erythematosus
+Skin and Subcutaneous Tissue Disorders: severe dermatologic reactions (some fatal), including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis (TEN, some fatal), angioedema (Quincke's edema) and cutaneous lupus erythematosus

@@ -38,5 +38,5 @@ Unit dose package of 100 (10 x 10) NDC 55111-333-78
 
 Storage
 
-Store pantoprazole sodium delayed-release tablets at 20°–25°C (68°–77°F); excursions permitted to 15°-30°C (59°-86°F).
-[See USP Controlled Room Temperature].
+Store pantoprazole sodium delayed-release tablets at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
+[see USP Controlled Room Temperature].
