@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Patient Information)
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
 Monotherapy
 
@@ -23,4 +23,6 @@ See palbociclib Full Prescribing Information for Patient Counseling Information.
 
 Combination Therapy with Abemaciclib
 
-1. See abemaciclib Full Prescribing Information for Patient Counseling Information.
+See abemaciclib Full Prescribing Information for Patient Counseling Information.
+
+1. 

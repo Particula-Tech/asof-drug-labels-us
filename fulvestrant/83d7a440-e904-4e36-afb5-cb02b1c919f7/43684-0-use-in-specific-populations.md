@@ -60,18 +60,18 @@ The effects of fulvestrant on fertility were reversible in female rats [see Nonc
 ## 8.4 Pediatric Use
 
 Safety and effectiveness in pediatric patients have not been established.
-A multi-center, single-arm, open-label, study of fulvestrant was conducted in 30 girls with McCune-Albright Syndrome (MAS) associated with progressive precocious puberty (PPP).
+A multi-center, single-arm, open-label, study of fulvestrant was conducted in 30 girls with McCune-Albright Syndrome (MAS) associated with Progressive Precocious Puberty (PPP).
 The median age at informed consent was 6 years old (range: 1 to 8).
 
 The first 10 patients initially received fulvestrant 2 mg/kg.
 Based on PK data from the first 6 patients, all 10 patients receiving 2 mg/kg were escalated to a dose of 4 mg/kg and all other patients received 4 mg/kg from study entry.
 
-Baseline measurements for vaginal bleeding days, bone age, growth velocity, and Tanner staging for at least 6 months prior to study entry were provided retrospectively by the parent, guardian or local consultant.
+Baseline measurements for vaginal bleeding days, bone age, growth velocity, and Tanner staging for at least 6 months prior to study entry were provided retrospectively by the parent, guardian, or local consultant.
 All measurements during the study period were collected prospectively.
 Patients’ baseline characteristics included the following: a mean ± SD chronological age of 5.9 ± 1.8 years; a mean rate of bone age advancement (change in bone age in years divided by change in chronological age in years) of 2.0 ± 1.03; and a mean growth velocity z-score of 2.4 ± 3.26.
 
 Twenty-nine of 30 patients completed the 12-month study period.
-The following results were observed: 35% (95% CI: 16%, 57%) of the 23 patients with baseline vaginal bleeding experienced a complete cessation of vaginal bleeding on-treatment (month 0 to 12); a reduction in the rate of bone age advancement during the 12-month study period compared to baseline (mean change = -0.9 [95% CI: -1.4, -0.4]); and a reduction in mean growth velocity Z-score on-treatment compared to baseline (mean change = -1.1 [95% CI: -2.7, 0.4]).
+The following results were observed: 35% (95% CI: 16%, 57%) of the 23 patients with baseline vaginal bleeding experienced a complete cessation of vaginal bleeding on-treatment (month 0 to 12); a reduction in the rate of bone age advancement during the 12-month study period compared to baseline (mean change=-0.9 [95% CI: -1.4, -0.4]); and a reduction in mean growth velocity Z-score on-treatment compared to baseline (mean change=-1.1 [95% CI: -2.7, 0.4]).
 There were no clinically meaningful changes in median Tanner stage (breast or pubic), mean uterine volume, or mean ovarian volume, or predicted adult height (PAH) on-treatment compared to baseline.
 The effect of FASLODEX on bone mineral density in children has not been studied and is not known.
 
@@ -96,10 +96,10 @@ For FASLODEX 250 mg, when tumor response was considered by age, objective respon
 
 FASLODEX is metabolized primarily in the liver.
 
-The pharmacokinetics of fulvestrant were evaluated after a single dose of 100 mg in subjects with mild and moderate hepatic impairment and normal hepatic function (n = 7 subjects/group), using a shorter-acting intramuscular injection formulation.
+The pharmacokinetics of fulvestrant were evaluated after a single dose of 100 mg in subjects with mild and moderate hepatic impairment and normal hepatic function (n=7 subjects/group), using a shorter-acting intramuscular injection formulation.
 Subjects with mild hepatic impairment (Child-Pugh class A) had comparable mean AUC and clearance values to those with normal hepatic function.
 In subjects with moderate hepatic impairment (Child-Pugh class B), the average AUC of fulvestrant increased by 70% compared to patients with normal hepatic function.
-AUC was positively correlated with total bilirubin concentration (p = 0.012).
+AUC was positively correlated with total bilirubin concentration (p=0.012).
 FASLODEX has not been studied in patients with severe hepatic impairment (Child-Pugh class C).
 
 A dose of FASLODEX 250 mg is recommended in patients with moderate hepatic impairment (Child-Pugh class B) [see Dosage and Administration (2.2) and Warnings and Precautions (5.2)].

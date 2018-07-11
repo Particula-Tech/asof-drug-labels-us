@@ -1,3 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-FASLODEX, an injection for intramuscular administration, is supplied as 5 mL prefilled syringes containing 250 mg/5 mL fulvestrant.
+FASLODEX, an injection for intramuscular administration, is supplied as 5-mL prefilled syringes containing 250 mg/5 mL fulvestrant.

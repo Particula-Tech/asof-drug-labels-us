@@ -37,13 +37,13 @@ Distribution:
 
 The apparent volume of distribution at steady state is approximately 3 to 5 L/kg.
 This suggests that distribution is largely extravascular.
-Fulvestrant is highly (99%) bound to plasma proteins; VLDL, LDL and HDL lipoprotein fractions appear to be the major binding components.
+Fulvestrant is highly (99%) bound to plasma proteins; VLDL, LDL, and HDL lipoprotein fractions appear to be the major binding components.
 The role of sex hormone-binding globulin, if any, could not be determined.
 
 Metabolism:
 
 Biotransformation and disposition of fulvestrant in humans have been determined following intramuscular and intravenous administration of 14C-labeled fulvestrant.
-Metabolism of fulvestrant appears to involve combinations of a number of possible biotransformation pathways analogous to those of endogenous steroids, including oxidation, aromatic hydroxylation, conjugation with glucuronic acid and/or sulphate at the 2, 3 and 17 positions of the steroid nucleus, and oxidation of the side chain sulphoxide.
+Metabolism of fulvestrant appears to involve combinations of a number of possible biotransformation pathways analogous to those of endogenous steroids, including oxidation, aromatic hydroxylation, conjugation with glucuronic acid and/or sulphate at the 2, 3, and 17 positions of the steroid nucleus, and oxidation of the side chain sulphoxide.
 Identified metabolites are either less active or exhibit similar activity to fulvestrant in antiestrogen models.
 
 Studies using human liver preparations and recombinant human enzymes indicate that cytochrome P-450 3A4 (CYP 3A4) is the only P-450 isoenzyme involved in the oxidation of fulvestrant; however, the relative contribution of P-450 and non-P-450 routes in vivo is unknown.

@@ -7,7 +7,7 @@ Because FASLODEX is administered intramuscularly, it should be used with caution
 ## 5.2 Increased Exposure in Patients with Hepatic Impairment
 
 The safety and pharmacokinetics of FASLODEX were evaluated in a study in seven subjects with moderate hepatic impairment (Child-Pugh class B) and seven subjects with normal hepatic function.
-Exposure was increased in patients with moderate hepatic impairment, therefore a dose of 250 mg is recommended [see Dosage and Administration (2.2)].
+Exposure was increased in patients with moderate hepatic impairment, therefore, a dose of 250 mg is recommended [see Dosage and Administration (2.2)].
 
 FASLODEX has not been studied in patients with severe hepatic impairment (Child-Pugh class C) [see Use in Specific Populations (8.6)].
 
@@ -21,7 +21,7 @@ Caution should be taken while administering FASLODEX at the dorsogluteal injecti
 Based on findings from animal studies and its mechanism of action, FASLODEX can cause fetal harm when administered to a pregnant woman.
 In animal reproduction studies, administration of fulvestrant to pregnant rats and rabbits during organogenesis resulted in embryo-fetal toxicity at daily doses that are significantly less than the maximum recommended human dose.
 Advise pregnant women of the potential risk to a fetus.
-Advise females of reproductive potential to use effective contraception during treatment with FASLODEX and for one year after the last dose [see Use in Specific Populations (8.1), (8.3) and Clinical Pharmacology (12.1)].
+Advise females of reproductive potential to use effective contraception during treatment with FASLODEX and for one year after the last dose [see Use in Specific Populations (8.1), (8.3), and Clinical Pharmacology (12.1)].
 
 ## 5.5 Immunoassay Measurement of Serum Estradiol
 
