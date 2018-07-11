@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021738"
+  ],
+  "inn": "ketoconazole",
+  "labeler": "Mylan Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0378-8136-01",
+    "0378-8136-50"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, FOAM",
+      "generic": "ketoconazole",
+      "name": "EXTINA"
+    }
+  ],
+  "setid": "36629578-188e-434e-bac8-27784b81d50e",
+  "source": "dailymed"
+}
