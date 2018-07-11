@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Clonidine hydrochloride USP is a centrally acting alpha-agonist hypotensive agent available as tablets for oral administration in three dosage strengths: 0.1 mg, 0.2 mg and 0.3 mg.
+Clonidine hydrochloride, USP is a centrally acting alpha-agonist hypotensive agent available as tablets for oral administration in three dosage strengths: 0.1 mg, 0.2 mg and 0.3 mg.
 The 0.1 mg tablet is equivalent to 0.087 mg of the free base.
 
 The inactive ingredients are colloidal silicon dioxide, corn starch, dibasic calcium phosphate, sodium starch glycolate, glycerin, lactose monohydrate, magnesium stearate, povidone.

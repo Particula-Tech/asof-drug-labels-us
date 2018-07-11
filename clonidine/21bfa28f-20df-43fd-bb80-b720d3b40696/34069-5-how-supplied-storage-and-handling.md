@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Clonidine Hydrochloride Tablets USP are supplied as:
+Clonidine Hydrochloride Tablets, USP are supplied as:
 
 0.1 mg
 
@@ -38,7 +38,7 @@ Bottles of 1000: NDC 29300-137-10
 
 Bottles of 2500: NDC 29300-137-25
 
-Store at 20oto 25oC (68o to 77oF) [See USP Controlled Room Temperature].
+Store at 20oto 25oC (68o to 77oF) [see USP Controlled Room Temperature].
 
 Dispense in a tight, light-resistant container.
 
@@ -51,10 +51,10 @@ UNICHEM LABORATORIES LTD.
 Pilerne Ind.
 Estate, Pilerne, Bardez, Goa 403 511, India
 
-Marketed by:
+Manufactured for:
 
 Hasbrouck Heights, NJ 07604
 
-04-R-06/2016
+05-R-10/2017
 
-13008664
+13009854
