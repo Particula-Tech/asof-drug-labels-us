@@ -16,7 +16,6 @@ Supportive treatment of circulatory depression may require administration of int
 
 If not treated immediately, both convulsions and cardiovascular depression can result in hypoxia, acidosis, bradycardia, arrhythmias and cardiac arrest.
 If cardiac arrest should occur, standard cardiopulmonary resuscitative measures should be instituted.
-
 Dialysis is of negligible value in the treatment of acute overdosage with lidocaine.
 
 The oral LD50 of lidocaine HCl in non-fasted female rats is 459 (346-773) mg/kg (as the salt) and 214 (159-324) mg/kg (as the salt) in fasted female rats.
