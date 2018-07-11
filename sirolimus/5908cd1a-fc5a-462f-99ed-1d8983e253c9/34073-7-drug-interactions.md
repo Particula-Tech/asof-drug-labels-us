@@ -12,11 +12,11 @@ If cyclosporine is withdrawn from combination therapy with sirolimus, higher dos
 ## 7.2 Strong Inducers and Strong Inhibitors of CYP3A4 and P-gp
 
 Avoid concomitant use of sirolimus with strong inducers (e.g., rifampin, rifabutin) and strong inhibitors (e.g., ketoconazole, voriconazole, itraconazole, erythromycin, telithromycin, clarithromycin) of CYP3A4 and P-gp.
-Alternative agents with lesser interaction potential with sirolimus should be considered [see Warnings and Precautions (5.17), Clinical Pharmacology (12.3)].
+Alternative agents with lesser interaction potential with sirolimus should be considered [see Warnings and Precautions (5.18), Clinical Pharmacology (12.3)].
 
 ## 7.3 Grapefruit Juice
 
-Because grapefruit juice inhibits the CYP3A4-mediated metabolism of sirolimus, it must not be taken with or be used for dilution of sirolimus [see Dosage and Administration (2.9), Drug Interactions (7.3), Clinical Pharmacology (12.3)].
+Because grapefruit juice inhibits the CYP3A4-mediated metabolism of sirolimus, it must not be taken with sirolimus [see Clinical Pharmacology (12.3)].
 
 ## 7.4 Weak and Moderate Inducers or Inhibitors of CYP3A4 and P-gp
 
@@ -24,7 +24,7 @@ Exercise caution when using sirolimus with drugs or agents that are modulators o
 The dosage of sirolimus and/or the co-administered drug may need to be adjusted [see Clinical Pharmacology (12.3)].
 
 - Drugs that could increase sirolimus blood concentrations: Bromocriptione, cimetidine, cisapride, clotrimazole, danazol, diltiazem, fluconazole, protease inhibitors (e.g., HIV and hepatitis C that include drugs such as ritonavir, indinavir, boceprevir, and telaprevir), metoclopramide, nicardipine, troleandomycin, verapamil
-- Drugs and other agents that could decrease sirolimus concentrations: Carbamazepine, phenobarbital, phenytoin, rifapentine, St. John’s Wort (Hypericum perforatum)
+- Drugs and other agents that could decrease sirolimus concentrations: Carbamazepine, phenobarbital, phenytoin, rifapentine, St. John's Wort (Hypericum perforatum)
 - Drugs with concentrations that could increase when given with sirolimus: Verapamil
 
 ## 7.5 Vaccination

@@ -102,9 +102,9 @@ At 24 months (Study 1) and 36 months (Study 2) post-transplant, there were no si
 
 TABLE 2: INCIDENCE (%) OF MALIGNANCIES IN STUDY 1 (24 MONTHS) AND STUDY 2 (36 MONTHS) POST-TRANSPLANTPatients received cyclosporine and corticosteroids.,Includes patients who prematurely discontinued treatment.
 
-| Study 1 (n = 284) | Study 2 (n = 227) | Study 1 (n = 274) | Study 2 (n = 219) | Study 1 (n = 161) | Study 2 (n = 130) |  |
+| Malignancy | Study 1 (n = 284) | Study 2 (n = 227) | Study 1 (n = 274) | Study 2 (n = 219) | Study 1 (n = 161) | Study 2 (n = 130) |
 | --- | --- | --- | --- | --- | --- | --- |
-| Malignancy | Sirolimus Oral Solution 2 mg/day |  | Sirolimus Oral Solution 5 mg/day |  | Azathioprine 2–3 mg/kg/day | Placebo |
+|  | Sirolimus Oral Solution 2 mg/day |  | Sirolimus Oral Solution 5 mg/day |  | Azathioprine 2–3 mg/kg/day | Placebo |
 | Lymphoma/lymphoproliferative disease | 0.7 | 1.8 | 1.1 | 3.2 | 0.6 | 0.8 |
 | Skin Carcinoma |  |  |  |  |  |  |
 | Any Squamous CellPatients may be counted in more than one category. | 0.4 | 2.7 | 2.2 | 0.9 | 3.8 | 3.0 |
@@ -165,6 +165,9 @@ In the subset of patients with a baseline glomerular filtration rate of greater 
 
 Overall in this study, a 5-fold increase in the reports of tuberculosis among sirolimus 2.0% (11/551) and comparator 0.4% (1/273) treatment groups was observed with 2:1 randomization scheme.
 
+In a second study evaluating the safety and efficacy of conversion from tacrolimus to sirolimus 3 to 5 months post kidney transplant, a higher rate of adverse events, discontinuations due to adverse events, acute rejection, and new onset diabetes mellitus was observed following conversion to sirolimus.
+There was also no benefit with respect to renal function and a greater incidence of proteinuria was observed after conversion to sirolimus [(see Clinical Studies (14.4)].
+
 ## 6.5 Pediatric Renal Transplant Patients
 
 Safety was assessed in a controlled clinical trial in pediatric (<18 years of age) renal transplant patients considered at high-immunologic risk, defined as a history of one or more acute allograft rejection episodes and/or the presence of chronic allograft nephropathy on a renal biopsy [see Clinical Studies (14.6)].
@@ -197,6 +200,6 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Respiratory – Cases of interstitial lung disease (including pneumonitis, bronchiolitis obliterans organizing pneumonia [BOOP], and pulmonary fibrosis), some fatal, with no identified infectious etiology have occurred in patients receiving immunosuppressive regimens including sirolimus.
   In some cases, the interstitial lung disease has resolved upon discontinuation or dose reduction of sirolimus.
   The risk may be increased as the sirolimus trough concentration increases [see Warnings and Precautions (5.11)]; pulmonary hemorrhage; pleural effusion; alveolar proteinosis.
-- Skin – Neuroendocrine carcinoma of the skin (Merkel cell carcinoma) [see Warnings and Precautions (5.16)], exfoliative dermatitis [see Warnings and Precautions (5.4)].
+- Skin – Neuroendocrine carcinoma of the skin (Merkel cell carcinoma) [see Warnings and Precautions (5.17)], exfoliative dermatitis [see Warnings and Precautions (5.4)].
 - Urogenital – Nephrotic syndrome, proteinuria, focal segmental glomerulosclerosis, ovarian cysts, menstrual disorders (including amenorrhea and menorrhagia).
   Azoospermia has been reported with the use of sirolimus and has been reversible upon discontinuation of sirolimus in most cases.
