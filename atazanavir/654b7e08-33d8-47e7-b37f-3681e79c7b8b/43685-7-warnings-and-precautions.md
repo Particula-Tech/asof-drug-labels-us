@@ -48,9 +48,9 @@ Initiation of atazanavir sulfate with ritonavir, a CYP3A inhibitor, in patients 
 Initiation of medications that inhibit or induce CYP3A may increase or decrease concentrations of atazanavir sulfate with ritonavir, respectively.
 These interactions may lead to:
 
-- •clinically significant adverse reactions potentially leading to severe, life-threatening, or fatal events from greater exposures of concomitant medications.
-- •clinically significant adverse reactions from greater exposures of atazanavir sulfate with ritonavir.
-- •loss of therapeutic effect of atazanavir sulfate with ritonavir and possible development of resistance.
+- clinically significant adverse reactions potentially leading to severe, life-threatening, or fatal events from greater exposures of concomitant medications.
+- clinically significant adverse reactions from greater exposures of atazanavir sulfate with ritonavir.
+- loss of therapeutic effect of atazanavir sulfate with ritonavir and possible development of resistance.
 
 See Table 16 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Drug Interactions (7)].
 Consider the potential for drug interactions prior to and during atazanavir sulfate/ritonavir therapy; review concomitant medications during atazanavir sulfate/ritonavir therapy; and monitor for the adverse reactions associated with the concomitant medications [see Contraindications (4) and Drug Interactions (7)].

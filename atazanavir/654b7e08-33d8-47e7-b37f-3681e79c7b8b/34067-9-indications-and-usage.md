@@ -4,5 +4,5 @@ Atazanavir sulfate capsules are indicated in combination with other antiretrovir
 
 Limitations of Use:
 
-- •Atazanavir is not recommended for use in pediatric patients below the age of 3 months due to the risk of kernicterus.
-- •Use of atazanavir/ritonavir in treatment-experienced patients should be guided by the number of baseline primary protease inhibitor resistance substitutions [see Microbiology (12.4)].
+- Atazanavir is not recommended for use in pediatric patients below the age of 3 months due to the risk of kernicterus.
+- Use of atazanavir/ritonavir in treatment-experienced patients should be guided by the number of baseline primary protease inhibitor resistance substitutions [see Microbiology (12.4)].

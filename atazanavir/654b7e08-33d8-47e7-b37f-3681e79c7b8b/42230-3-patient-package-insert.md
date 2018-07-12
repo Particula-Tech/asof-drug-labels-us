@@ -14,9 +14,9 @@ Atazanavir sulfate capsules should not be used in children younger than 3 months
 
 When used with other antiretroviral medicines to treat HIV-1 infection, atazanavir sulfate capsules may help:
 
-- •reduce the amount of HIV-1 in your blood.
+- reduce the amount of HIV-1 in your blood.
   This is called “viral load”.
-- •increase the number of CD4+ (T) cells in your blood that help fight off other infections.
+- increase the number of CD4+ (T) cells in your blood that help fight off other infections.
 
 Reducing the amount of HIV-1 and increasing the CD4+ (T) cells in your blood may help improve your immune system.
 This may reduce your risk of death or getting infections that can happen when your immune system is weak (opportunistic infections).
@@ -28,32 +28,32 @@ Who should not take atazanavir sulfate capsules?
 
 Do not take atazanavir sulfate capsules if you:
 
-- •are allergic to atazanavir or any of the ingredients in atazanavir sulfate capsules.
+- are allergic to atazanavir or any of the ingredients in atazanavir sulfate capsules.
   See the end of this leaflet for a complete list of ingredients in atazanavir sulfate capsules.
-- •are taking any of the following medicines.
+- are taking any of the following medicines.
   Taking atazanavir sulfate capsules with these medicines may affect how atazanavir sulfate capsules work.
   Atazanavir sulfate capsules may cause serious life-threatening side effects or death when used with these medicines:
-- oalfuzosin (UROXATRAL®)
-- ocisapride (PROPULSID®)
-- oelbasvir/grazoprevir (ZEPATIER®)
-- oergot medicines including:
-  - ▪ergotamine tartrate (CAFERGOT®, MIGERGOT®, ERGOMAR®, ERGOSTAT®, MEDIHALER®, Ergotamine, WIGRAINE®, WIGRETTES®)
-  - ▪dihydroergotamine mesylate (D.H.E.
-    45®, MIGRANAL®)
-  - ▪methylergonovine (METHERGINE®)
-- oindinavir (CRIXIVAN®)
-- oirinotecan (CAMPTOSAR®)
-- olurasidone (LATUDA®) if atazanavir sulfate capsules are used with ritonavir (NORVIR®)
-- olovastatin (ADVICOR®, ALTOPREV®, MEVACOR®)
-- omidazolam (VERSED®), when taken by mouth for sedation
-- onevirapine (VIRAMUNE®, VIRAMUNE XR®)
-- opimozide (ORAP®)
-- orifampin (RIFADIN®, RIFAMATE®, RIFATER®, RIMACTANE®)
-- osildenafil (REVATIO®), when used for the treatment of pulmonary arterial hypertension
-- osimvastatin (SIMCOR®, VYTORIN®, ZOCOR®)
-- oSt.
-  John’s wort (Hypericum perforatum)
-- otriazolam (HALCION®)
+  - alfuzosin (UROXATRAL®)
+  - cisapride (PROPULSID®)
+  - elbasvir/grazoprevir (ZEPATIER®)
+  - ergot medicines including:
+    - ergotamine tartrate (CAFERGOT®, MIGERGOT®, ERGOMAR®, ERGOSTAT®, MEDIHALER®, Ergotamine, WIGRAINE®, WIGRETTES®)
+    - dihydroergotamine mesylate (D.H.E.
+      45®, MIGRANAL®)
+    - methylergonovine (METHERGINE®)
+  - glecaprevir/pibrentasvir (MAVYRET®)
+  - indinavir (CRIXIVAN®)
+  - irinotecan (CAMPTOSAR®)
+  - lurasidone (LATUDA®) if atazanavir sulfate capsules are used with ritonavir (NORVIR®)
+  - lovastatin (ADVICOR®, ALTOPREV®, MEVACOR®)
+  - midazolam (VERSED®), when taken by mouth for sedation
+  - nevirapine (VIRAMUNE®, VIRAMUNE XR®)
+  - pimozide (ORAP®)
+  - rifampin (RIFADIN®, RIFAMATE®, RIFATER®, RIMACTANE®)
+  - sildenafil (REVATIO®), when used for the treatment of pulmonary arterial hypertension
+  - simvastatin (SIMCOR®, VYTORIN®, ZOCOR®)
+  - St. John’s wort (Hypericum perforatum)
+  - triazolam (HALCION®)
 
 Serious problems can happen if you or your child takes any of the medicines listed above with atazanavir sulfate capsules.
 
@@ -61,23 +61,23 @@ What should I tell my healthcare provider before taking atazanavir sulfate capsu
 
 Before taking atazanavir sulfate capsules, tell your healthcare provider if you:
 
-- •have heart problems
-- •have liver problems, including hepatitis B or C virus infection
-- •are receiving dialysis treatment
-- •have diabetes
-- •have hemophilia
-- •have any other medical conditions
-- •are pregnant or plan to become pregnant.
+- have heart problems
+- have liver problems, including hepatitis B or C virus infection
+- are receiving dialysis treatment
+- have diabetes
+- have hemophilia
+- have any other medical conditions
+- are pregnant or plan to become pregnant.
   Talk to your healthcare provider about taking atazanavir sulfate capsules during your pregnancy or if you are planning to become pregnant while you are taking atazanavir sulfate capsules.
-  - oHormonal forms of birth control, such as injections, vaginal rings or implants, contraceptive patch, and some birth control pills may not work during treatment with atazanavir sulfate capsules.
+  - Hormonal forms of birth control, such as injections, vaginal rings or implants, contraceptive patch, and some birth control pills may not work during treatment with atazanavir sulfate capsules.
     Talk to your healthcare provider about forms of birth control that may be used during treatment with atazanavir sulfate capsules.
-  - oPregnancy Registry.
+  - Pregnancy Registry.
     There is a pregnancy registry for women who take antiretroviral medicines during pregnancy.
     The purpose of this registry is to collect information about the health of you and your baby.
     Talk to your healthcare provider about how you can take part in this registry.
-  - oAfter your baby is born, tell your healthcare provider if your baby’s skin or the white part of the eyes turns yellow.
-- •are breastfeeding or plan to breastfeed.
-  Donot breastfeed if you are taking atazanavir sulfate capsules.
+  - After your baby is born, tell your healthcare provider if your baby’s skin or the white part of the eyes turns yellow.
+- are breastfeeding or plan to breastfeed.
+  Do not breastfeed if you are taking atazanavir sulfate capsules.
   You should not breastfeed if you have HIV-1 because of the risk of passing HIV-1 to your baby.
   Atazanavir can pass into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby.
@@ -91,19 +91,19 @@ Your healthcare provider can tell you if it is safe to take atazanavir sulfate c
 
 How should I take atazanavir sulfate capsules?
 
-- •Take atazanavir sulfate capsules exactly as your healthcare provider tells you to.
-- •Do not change your dose or stop taking atazanavir sulfate capsules unless your healthcare provider tells you to.
-- •Stay under the care of your healthcare provider during treatment with atazanavir sulfate capsules.
-- •Atazanavir sulfate capsules must be used with other antiretroviral medicines.
-- •Take atazanavir sulfate capsules 1 time each day.
-- •Atazanavir sulfate capsules come as capsules.
-- •Take atazanavir sulfate capsules with food.
-- •Swallow the capsules whole.
+- Take atazanavir sulfate capsules exactly as your healthcare provider tells you to.
+- Do not change your dose or stop taking atazanavir sulfate capsules unless your healthcare provider tells you to.
+- Stay under the care of your healthcare provider during treatment with atazanavir sulfate capsules.
+- Atazanavir sulfate capsules must be used with other antiretroviral medicines.
+- Take atazanavir sulfate capsules 1 time each day.
+- Atazanavir sulfate capsules come as capsules.
+- Take atazanavir sulfate capsules with food.
+- Swallow the capsules whole.
   Do not open the capsules.
-- •If you miss a dose of atazanavir sulfate capsules, take it as soon as you remember.
+- If you miss a dose of atazanavir sulfate capsules, take it as soon as you remember.
   Then take the next dose at your regular time.
   Do not take 2 doses at the same time.
-- •If you take too many atazanavir sulfate capsules, call your healthcare provider or go to the nearest hospital emergency room right away.
+- If you take too many atazanavir sulfate capsules, call your healthcare provider or go to the nearest hospital emergency room right away.
 
 When your supply of atazanavir sulfate capsules starts to run low, get more from your healthcare provider or pharmacy.
 It is important not to run out of atazanavir sulfate capsules.
@@ -114,66 +114,66 @@ What are the possible side effects of atazanavir sulfate capsules?
 
 Atazanavir sulfate capsules can cause serious side effects, including:
 
-- •A change in the way your heart beats (heart rhythm change).
+- A change in the way your heart beats (heart rhythm change).
   Tell your healthcare provider right away if you get dizzy or lightheaded.
   These could be symptoms of a heart problem.
-- •Skin rash.
+- Skin rash.
   Skin rash is common with atazanavir sulfate capsules but can sometimes be severe.
   Skin rash usually goes away within 2 weeks without any change in treatment.
   Severe rash may develop in association with other symptoms which could be serious.
   If you develop a severe rash or a rash with any of the following symptoms, stop taking atazanavir sulfate capsules and call your healthcare provider right away:
-  - ogeneral feeling of discomfort or “flu-like” symptoms
-  - ofever
-  - omuscle or joint aches
-  - ored or inflamed eyes, like “pink eye” (conjunctivitis)
-  - oblisters
-  - omouth sores
-  - oswelling of your face
-  - opainful, warm, or red lump under your skin
-- •Yellowing of your skin or the white part of your eyes is common with atazanavir sulfate capsules, and is usually not harmful in adults and infants older than 3 months of age; but it could also be a symptom of a serious problem.
+  - general feeling of discomfort or “flu-like” symptoms
+  - fever
+  - muscle or joint aches
+  - red or inflamed eyes, like “pink eye” (conjunctivitis)
+  - blisters
+  - mouth sores
+  - swelling of your face
+  - painful, warm, or red lump under your skin
+- Yellowing of your skin or the white part of your eyes is common with atazanavir sulfate capsules, and is usually not harmful in adults and infants older than 3 months of age; but it could also be a symptom of a serious problem.
   These effects may be due to increases in bilirubin levels in your blood (bilirubin is made by the liver).
   Although these effects may not be damaging to your liver, skin, or eyes, tell your healthcare provider right away if your skin or the white part of your eyes turns yellow.
-- •Liver problems.
+- Liver problems.
   If you have liver problems, including hepatitis B or C infection, your liver problems may get worse when you take atazanavir sulfate capsules.
   Your healthcare provider will do blood tests to check your liver before you start atazanavir sulfate capsules and during treatment.
   Tell your healthcare provider right away if you get any of the following symptoms:
-  - odark “tea-colored” urine
-  - oyour skin or the white part of your eyes turns yellow
-  - olight colored stools
-  - onausea
-  - oitching
-  - ostomach-area pain
-- •Chronic kidney disease.
+  - dark “tea-colored” urine
+  - your skin or the white part of your eyes turns yellow
+  - light colored stools
+  - nausea
+  - itching
+  - stomach-area pain
+- Chronic kidney disease.
   Atazanavir sulfate capsules may affect how well your kidneys work.
   Your healthcare provider will do blood and urine tests to check your kidneys before you start atazanavir sulfate capsules and during treatment.
-- •Kidney stones have happened in some people who take atazanavir sulfate capsules.
+- Kidney stones have happened in some people who take atazanavir sulfate capsules.
   Tell your healthcare provider right away if you get symptoms of kidney stones which may include, pain in your low back or low stomach-area, blood in your urine, or pain when you urinate.
-- •Gallbladder problems have happened in some people who take atazanavir sulfate capsules.
+- Gallbladder problems have happened in some people who take atazanavir sulfate capsules.
   Tell your healthcare provider right away if you get symptoms of gallbladder problems which may include:
-  - opain in the right or middle upper stomach area
-  - ofever
-  - onausea and vomiting
-  - oyour skin or the white part of your eyes turns yellow
-- •Diabetes and high blood sugar (hyperglycemia) have happened or have worsened in some people who take protease inhibitor medicines like atazanavir sulfate capsules.
+  - pain in the right or middle upper stomach area
+  - fever
+  - nausea and vomiting
+  - your skin or the white part of your eyes turns yellow
+- Diabetes and high blood sugar (hyperglycemia) have happened or have worsened in some people who take protease inhibitor medicines like atazanavir sulfate capsules.
   Some people have had to start taking medicine to treat diabetes or have had to change their diabetes medicine.
-- •Changes in your immune system (Immune Reconstitution Syndrome) can happen when you start taking HIV-1 medicines.
+- Changes in your immune system (Immune Reconstitution Syndrome) can happen when you start taking HIV-1 medicines.
   Your immune system may get stronger and begin to fight infections that have been hidden in your body for a long time.
   Tell your healthcare provider if you start having new symptoms after starting atazanavir sulfate capsules.
-- •Changes in body fat can happen in people taking HIV-1 medicines.
+- Changes in body fat can happen in people taking HIV-1 medicines.
   These changes may include increased amount of fat in the upper back and neck (“buffalo hump”), breast, and around the main part of your body (trunk).
   Loss of fat from the legs, arms, and face may also happen.
   The exact cause and long-term health effects of these conditions are not known.
-- •Increased bleeding problems in people with hemophilia have happened when taking protease inhibitors like atazanavir sulfate capsules.
+- Increased bleeding problems in people with hemophilia have happened when taking protease inhibitors like atazanavir sulfate capsules.
 
 The most common side effects of atazanavir sulfate capsules include:
 
-| •nausea | •dizziness |
+| nausea | dizziness |
 | --- | --- |
-| •headache | •muscle pain |
-| •stomach-area pain | •diarrhea |
-| •vomiting | •depression |
-| •trouble sleeping | •fever |
-| •numbness, tingling, or burning of hands or feet |  |
+| headache | muscle pain |
+| stomach-area pain | diarrhea |
+| vomiting | depression |
+| trouble sleeping | fever |
+| numbness, tingling, or burning of hands or feet |  |
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
@@ -185,8 +185,8 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store atazanavir sulfate capsules?
 
-- •Store atazanavir sulfate capsules at room temperature, 68° to 77°F (20° to 25°C).
-- •Keep capsules in a tightly closed container.
+- Store atazanavir sulfate capsules at room temperature, 68° to 77°F (20° to 25°C).
+- Keep capsules in a tightly closed container.
 
 Keep atazanavir sulfate capsules and all medicines out of the reach of children.
 
@@ -227,4 +227,4 @@ All brand names listed are the registered trademarks of their respective owners 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
 Rev.
-C 10/2017
+D 5/2018

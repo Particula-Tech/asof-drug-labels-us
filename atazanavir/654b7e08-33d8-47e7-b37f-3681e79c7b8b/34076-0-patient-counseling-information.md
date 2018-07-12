@@ -62,4 +62,4 @@ Teva Pharmaceuticals USA, Inc.
 North Wales, PA 19454
 
 Rev.
-C 10/2017
+D 5/2018

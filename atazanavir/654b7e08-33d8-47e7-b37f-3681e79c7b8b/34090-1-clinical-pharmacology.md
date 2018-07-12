@@ -36,12 +36,15 @@ The pharmacokinetics of atazanavir were evaluated in healthy adult volunteers an
 | Geometric mean (CV%) | 28132 (28) | 14874 (91) | 57039 (37) | 46073 (66) |
 | Mean (SD) | 29303 (8263) | 22262 (20159) | 61435 (22911) | 53761 (35294) |
 | T-half (h) |  |  |  |  |
-| Mean (SD) | 7.9 (2.9) | 6.5 (2.6) | 18.1 (6.2)n = 26. | 8.6 (2.3) |
+| Mean (SD) | 7.9 (2.9) | 6.5 (2.6) | 18.1 (6.2)1 | 8.6 (2.3) |
 | Cmin (ng/mL) |  |  |  |  |
 | Geometric mean (CV%) | 159 (88) | 120 (109) | 1227 (53) | 636 (97) |
-| Mean (SD) | 218 (191) | 273 (298)n = 12. | 1441 (757) | 862 (838) |
+| Mean (SD) | 218 (191) | 273 (298)2 | 1441 (757) | 862 (838) |
+| 1. n = 26.2. n = 12. |  |  |  |  |
 
 Figure 1 displays the mean plasma concentrations of atazanavir at steady state after atazanavir 400 mg once daily (as two 200 mg capsules) with a light meal and after atazanavir 300 mg (as two 150 mg capsules) with ritonavir 100 mg once daily with a light meal in HIV-infected adult patients.
+
+Figure 1: Mean (SD) Steady-State Plasma Concentrations of Atazanavir 400 mg (n = 13) and 300 mg With Ritonavir (n = 10) for HIV-Infected Adult Patients
 
 Absorption
 
@@ -102,7 +105,7 @@ The mean AUC(0-∞) was 42% greater in subjects with impaired hepatic function t
 The mean half-life of atazanavir in hepatically impaired subjects was 12.1 hours compared to 6.4 hours in healthy volunteers.
 A dose reduction to 300 mg is recommended for patients with moderate hepatic impairment (Child-Pugh Class B) who have not experienced prior virologic failure as increased concentrations of atazanavir are expected.
 Atazanavir sulfate is not recommended for use in patients with severe hepatic impairment.
-The pharmacokinetics of atazanavir sulfate in combination with ritonavir has not been studied in subjects with hepatic impairment; thus, coadministration of atazanavir sulfate with ritonavir is not recommended for use in patients with any degree of hepatic impairment [see Dosage and Administration (2.8].
+The pharmacokinetics of atazanavir sulfate in combination with ritonavir has not been studied in subjects with hepatic impairment; thus, coadministration of atazanavir sulfate with ritonavir is not recommended for use in patients with any degree of hepatic impairment [see Dosage and Administration (2.8)].
 
 Pediatrics
 
@@ -117,18 +120,19 @@ The pharmacokinetic parameters for atazanavir at steady state in pediatric patie
 
 Pregnancy
 
-The pharmacokinetic data from HIV-infected pregnant women receiving atazanavir sulfate capsules with ritonavir are presented in Table20.
+The pharmacokinetic data from HIV-infected pregnant women receiving atazanavir sulfate capsules with ritonavir are presented in Table 20.
 
 | Table 20: Steady-State Pharmacokinetics of Atazanavir With Ritonavir in HIV-Infected Pregnant Women in the Fed State |  |  |  |
 | --- | --- | --- | --- |
 | Pharmacokinetic Parameter | Atazanavir 300 mg with ritonavir 100 mg |  |  |
-| 2nd Trimester(n = 5Available data during the 2nd trimester are limited.) | 3rd Trimester(n = 20) | PostpartumAtazanavir peak concentrations and AUCs were found to be approximately 28% to 43% higher during the postpartum period (4 to 12 weeks) than those observed historically in HIV-infected, non-pregnant patients. Atazanavir plasma trough concentrations were approximately 2.2 fold higher during the postpartum period when compared to those observed historically in HIV-infected, non-pregnant patients.(n = 34) |  |
+| 2nd Trimester(n = 51) | 3rd Trimester(n = 20) | Postpartum2(n = 34) |  |
 | Cmax ng/mL | 3078.85 | 3291.46 | 5721.21 |
 | Geometric mean (CV%) | (50) | (48) | (31) |
 | AUC ng•h/mL | 27657.1 | 34251.5 | 61990.4 |
 | Geometric mean (CV%) | (43) | (43) | (32) |
-| Cmin ng/mLCmin is concentration 24 hours post-dose. | 538.70 | 668.48 | 1462.59 |
+| Cmin ng/mL3 | 538.70 | 668.48 | 1462.59 |
 | Geometric mean (CV%) | (46) | (50) | (45) |
+| 1. Available data during the 2nd trimester are limited.2. Atazanavir peak concentrations and AUCs were found to be approximately 28% to 43% higher during the postpartum period (4 to 12 weeks) than those observed historically in HIV-infected, non-pregnant patients. Atazanavir plasma trough concentrations were approximately 2.2 fold higher during the postpartum period when compared to those observed historically in HIV-infected, non-pregnant patients. 3. Cmin is concentration 24 hours post-dose. |  |  |  |
 
 Drug Interaction Data
 
@@ -151,83 +155,108 @@ Neither didanosine EC nor diltiazem had a significant effect on atazanavir expos
 Atazanavir sulfate did not have a significant effect on the exposures of didanosine (when administered as the buffered tablet), stavudine, or fluconazole.
 For information regarding clinical recommendations, see Drug Interactions (7).
 
-| Table 21: Drug Interactions: Pharmacokinetic Parameters for Atazanavir in the Presence of Coadministered DrugsData provided are under fed conditions unless otherwise noted. |  |  |  |  |  |
+| Table 21: Drug Interactions: Pharmacokinetic Parameters for Atazanavir in the Presence of Coadministered Drugs1 |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug | Coadministered Drug Dose/Schedule | Atazanavir Dose/Schedule | Ratio (90% Confidence Interval) of Atazanavir Pharmacokinetic Parameters With/Without Coadministered Drug; No Effect = 1.00 |  |  |
 |  |  |  | Cmax | AUC | Cmin |
 | atenolol | 50 mg QD, d 7 to 11 (n = 19) and d 19 to 23 | 400 mg QD, d 1 to 11 (n = 19) | 1.00 (0.89, 1.12) | 0.93 (0.85, 1.01) | 0.74 (0.65, 0.86) |
 | boceprevir | 800 mg TID,d 1 to 6, 25 to 31 | 300 mg QD/ritonavir100 mg QD, d 10 to 31 | atazanavir: 0.75 (0.64 to 0.88)ritonavir: 0.73(0.64 to 0.83) | atazanavir: 0.65 (0.55 to 0.78)ritonavir: 0.64(0.58 to 0.72) | atazanavir: 0.51 (0.44 to 0.61)ritonavir: 0.55(0.45 to 0.67) |
 | clarithromycin | 500 mg BID, d 7 to 10 (n = 29) and d 18 to 21 | 400 mg QD, d 1 to 10 (n = 29) | 1.06 (0.93, 1.20) | 1.28 (1.16, 1.43) | 1.91 (1.66, 2.21) |
-| didanosine (ddI) (buffered tablets) plus stavudine (d4T)All drugs were given under fasted conditions. | ddI: 200 mg x 1 dose, d4T: 40 mg x 1 dose (n = 31) | 400 mg x 1 dose simultaneously with ddI and d4T (n = 31) | 0.11 (0.06, 0.18) | 0.13 (0.08, 0.21) | 0.16 (0.10, 0.27) |
+| didanosine (ddI) (buffered tablets) plus stavudine (d4T)2 | ddI: 200 mg x 1 dose, d4T: 40 mg x 1 dose (n = 31) | 400 mg x 1 dose simultaneously with ddI and d4T (n = 31) | 0.11 (0.06, 0.18) | 0.13 (0.08, 0.21) | 0.16 (0.10, 0.27) |
 | ddI: 200 mg x 1 dose, d4T: 40 mg x 1 dose (n = 32) | 400 mg x 1 dose 1 h after ddI + d4T (n = 32) | 1.12 (0.67, 1.18) | 1.03 (0.64, 1.67) | 1.03 (0.61, 1.73) |  |
 | efavirenz | 600 mg QD, d 7 to 20 (n = 27) | 400 mg QD, d 1 to 20 (n = 27) | 0.41 (0.33, 0.51) | 0.26 (0.22, 0.32) | 0.07 (0.05, 0.10) |
 | 600 mg QD, d 7 to 20 (n = 13) | 400 mg QD, d 1 to 6 (n = 23) then 300 mg/ritonavir 100 mg QD, 2 h before efavirenz, d 7 to 20 (n = 13) | 1.14 (0.83, 1.58) | 1.39 (1.02, 1.88) | 1.48 (1.24, 1.76) |  |
 | 600 mg QD, d 11 to 24 (pm) (n = 14) | 300 mg QD/ritonavir 100 mg QD, d 1 to 10 (pm) (n = 22), then 400 mg QD/ritonavir 100 mg QD, d 11 to 24 (pm), (simultaneously with efavirenz) (n = 14) | 1.17 (1.08, 1.27) | 1.00 (0.91, 1.10) | 0.58 (0.49, 0.69) |  |
 | famotidine | 40 mg BID, d 7 to 12 (n = 15) | 400 mg QD, d 1 to 6 (n = 45), d 7 to 12 (simultaneous administration) (n = 15) | 0.53 (0.34, 0.82) | 0.59 (0.40, 0.87) | 0.58 (0.37, 0.89) |
 | 40 mg BID, d 7 to 12 (n = 14) | 400 mg QD (pm), d 1 to 6 (n = 14), d 7 to 12 (10 h after, 2 h before famotidine) (n = 14) | 1.08 (0.82, 1.41) | 0.95 (0.74, 1.21) | 0.79 (0.60, 1.04) |  |
-| 40 mg BID, d 11 to 20 (n = 14)Atazanavir 300 mg plus ritonavir 100 mg once daily coadministered with famotidine 40 mg twice daily resulted in atazanavir geometric mean Cmax that was similar and AUC and Cmin values that were 1.79 and 4.46 fold higher relative to atazanavir 400 mg once daily alone. | 300 mg QD/ritonavir 100 mg QD, d 1 to 10 (n = 46), d 11 to 20Similar results were noted when famotidine 20 mg BID was administered 2 hours after and 10 hours before atazanavir 300 mg and ritonavir 100 mg plus tenofovir DF 300 mg.(simultaneous administration) (n = 14) | 0.86 (0.79, 0.94) | 0.82 (0.75, 0.89) | 0.72 (0.64, 0.81) |  |
-| 20 mg BID, d 11 to 17 (n = 18) | 300 mg QD/ritonavir 100 mg QD/tenofovir DF 300 mg QD, d 1 to 10 (am) (n = 39), d 11 to 17 (am) (simultaneous administration with am famotidine) (n = 18)Atazanavir/ritonavir/tenofovir DF was administered after a light meal. | 0.91 (0.84, 0.99) | 0.90 (0.82, 0.98) | 0.81 (0.69, 0.94) |  |
-| 40 mg QD (pm), d 18 to 24 (n = 20) | 300 mg QD/ritonavir 100 mg QD/tenofovir DF 300 mg QD, d 1 to 10 (am) (n = 39), d 18 to 24 (am) (12 h after pm famotidine) (n = 20) | 0.89 (0.81, 0.97) | 0.88 (0.80, 0.96) | 0.77 (0.63, 0.93) |  |
-| 40 mg BID, d 18 to 24 (n = 18) | 300 mg QD/ritonavir 100 mg QD/tenofovir DF 300 mg QD, d 1 to 10 (am) (n = 39), d 18 to 24 (am) (10 h after pm famotidine and 2 h before am famotidine) (n = 18) | 0.74 (0.66, 0.84) | 0.79 (0.70, 0.88) | 0.72 (0.63, 0.83) |  |
+| 40 mg BID, d 11 to 20 (n = 14)3 | 300 mg QD/ritonavir 100 mg QD, d 1 to 10 (n = 46), d 11 to 204 (simultaneous administration) (n = 14) | 0.86 (0.79, 0.94) | 0.82 (0.75, 0.89) | 0.72 (0.64, 0.81) |  |
+| 20 mg BID, d 11 to 17 (n = 18) | 300 mg QD/ritonavir 100 mg QD/tenofovir DF 300 mg QD, d 1 to 10 (am) (n = 39), d 11 to 17 (am) (simultaneous administration with am famotidine) (n = 18)4, 5 | 0.91 (0.84, 0.99) | 0.90 (0.82, 0.98) | 0.81 (0.69, 0.94) |  |
+| 40 mg QD (pm), d 18 to 24 (n = 20) | 300 mg QD/ritonavir 100 mg QD/tenofovir DF 300 mg QD, d 1 to 10 (am) (n = 39), d 18 to 24 (am) (12 h after pm famotidine) (n = 20)5 | 0.89 (0.81, 0.97) | 0.88 (0.80, 0.96) | 0.77 (0.63, 0.93) |  |
+| 40 mg BID, d 18 to 24 (n = 18) | 300 mg QD/ritonavir 100 mg QD/tenofovir DF 300 mg QD, d 1 to 10 (am) (n = 39), d 18 to 24 (am) (10 h after pm famotidine and 2 h before am famotidine) (n = 18)5 | 0.74 (0.66, 0.84) | 0.79 (0.70, 0.88) | 0.72 (0.63, 0.83) |  |
 | 40 mg BID, d 11 to 20 (n = 15) | 300 mg QD/ritonavir 100 mg QD, d 1 to 10 (am) (n = 46), then 400 mg QD/ritonavir 100 mg QD, d 11 to 20 (am) (n = 15) | 1.02 (0.87, 1.18) | 1.03 (0.86, 1.22) | 0.86 (0.68, 1.08) |  |
-| grazoprevir/ elbasvir | grazoprevir 200 mg QD d 1 to 35 (n = 11) | 300 mg QD/ritonavir 100 mg QD | 1.12 (1.01, 1.24) | 1.43 (1.30, 1.57) | 1.23 (1.13, 1.34) |
-| elbasvir 50 mg QD d 1 to 35 (n = 8) | 300 mg QD/ritonavir 100 mg QD | 1.02 (0.96, 1.08) | 1.07 (0.98,1.17) | 1.15 (1.02, 1.29) |  |
+| grazoprevir/ elbasvir | grazoprevir 200 mg QD d 1 to 35 (n = 11) | 300 mg QD/ritonavir 100 mg QD, d 1 to 35 (n = 11) | 1.12 (1.01, 1.24) | 1.43 (1.30, 1.57) | 1.23 (1.13, 1.34) |
+| elbasvir 50 mg QD d 1 to 35 (n = 8) | 300 mg QD/ritonavir 100 mg QD, d 1 to 35 (n = 8) | 1.02 (0.96, 1.08) | 1.07 (0.98,1.17) | 1.15 (1.02, 1.29) |  |
 | ketoconazole | 200 mg QD, d 7 to 13 (n = 14) | 400 mg QD, d 1 to 13 (n = 14) | 0.99 (0.77, 1.28) | 1.10 (0.89, 1.37) | 1.03 (0.53, 2.01) |
-| nevirapineStudy was conducted in HIV-infected individuals.Compared with atazanavir 400 mg historical data without nevirapine (n = 13), the ratio of geometric means (90% confidence intervals) for Cmax, AUC, and Cmin were 1.42 (0.98, 2.05), 1.64 (1.11, 2.42), and 1.25 (0.66, 2.36), respectively, for atazanavir/ritonavir 300 mg/100 mg; and 2.02 (1.42, 2.87), 2.28 (1.54, 3.38), and 1.80 (0.94, 3.45), respectively, for atazanavir/ritonavir 400 mg/100 mg. | 200 mg BID, d 1 to 23 (n = 23) | 300 mg QD/ritonavir 100 mg QD, d 4 to 13, then | 0.72 (0.60, 0.86) | 0.58 (0.48, 0.71) | 0.28 (0.20, 0.40) |
-| 400 mg QD/ritonavir 100 mg QD, d 14 to 23 (n = 23)Parallel group design; n = 23 for atazanavir/ritonavir plus nevirapine, n = 22 for atazanavir 300 mg/ritonavir 100 mg without nevirapine. Subjects were treated with nevirapine prior to study entry. | 1.02 (0.85, 1.24) | 0.81 (0.65, 1.02) | 0.41 (0.27, 0.60) |  |  |
-| omeprazole | 40 mg QD, d 7 to 12 (n = 16)Omeprazole 40 mg was administered on an empty stomach 2 hours before atazanavir sulfate. | 400 mg QD, d 1 to 6 (n = 48), d 7 to 12 (n = 16) | 0.04 (0.04, 0.05) | 0.06 (0.05, 0.07) | 0.05 (0.03, 0.07) |
-| 40 mg QD, d 11 to 20 (n = 15) | 300 mg QD/ritonavir 100 mg QD, d 1 to 20 (n = 15) | 0.28 (0.24, 0.32) | 0.24 (0.21, 0.27) | 0.22 (0.19, 0.26) |  |
-| 20 mg QD, d 17 to 23 (am) (n = 13) | 300 mg QD/ritonavir 100 mg QD, d 7 to 16 (pm) (n = 27), d 17 to 23 (pm) (n = 13)Omeprazole 20 mg was administered 30 minutes prior to a light meal in the morning and atazanavir 300 mg plus ritonavir 100 mg in the evening after a light meal, separated by 12 hours from omeprazole.Atazanavir 300 mg plus ritonavir 100 mg once daily separated by 12 hours from omeprazole 20 mg daily resulted in increases in atazanavir geometric mean AUC (10%) and Cmin (2.4 fold), with a decrease in Cmax (29%) relative to atazanavir 400 mg once daily in the absence of omeprazole (study days 1 to 6). | 0.61 (0.46, 0.81) | 0.58 (0.44, 0.75) | 0.54 (0.41, 0.71) |  |
-| 20 mg QD, d 17 to 23 (am) (n = 14) | 300 mg QD/ritonavir 100 mg QD, d 7 to 16 (am) (n = 27), then 400 mg QD/ritonavir 100 mg QD, d 17 to 23 (am) (n = 14)Omeprazole 20 mg was given 30 minutes prior to a light meal in the morning and atazanavir 400 mg plus ritonavir 100 mg once daily after a light meal, 1 hour after omeprazole. Effects on atazanavir concentrations were similar when atazanavir 400 mg plus ritonavir 100 mg was separated from omeprazole 20 mg by 12 hours.Atazanavir 400 mg plus ritonavir 100 mg once daily administered with omeprazole 20 mg once daily resulted in increases in atazanavir geometric mean AUC (32%) and Cmin (3.3 fold), with a decrease in Cmax (26%) relative to atazanavir 400 mg once daily in the absence of omeprazole (study days 1 to 6). | 0.69 (0.58, 0.83) | 0.70 (0.57, 0.86) | 0.69 (0.54, 0.88) |  |
+| nevirapine6, 7 | 200 mg BID, d 1 to 23 (n = 23) | 300 mg QD/ritonavir 100 mg QD, d 4 to 13, then | 0.72 (0.60, 0.86) | 0.58 (0.48, 0.71) | 0.28 (0.20, 0.40) |
+| 400 mg QD/ritonavir 100 mg QD, d 14 to 23 (n = 23)8 | 1.02 (0.85, 1.24) | 0.81 (0.65, 1.02) | 0.41 (0.27, 0.60) |  |  |
+| omeprazole | 40 mg QD, d 7 to 12 (n = 16)9 | 400 mg QD, d 1 to 6 (n = 48), d 7 to 12 (n = 16) | 0.04 (0.04, 0.05) | 0.06 (0.05, 0.07) | 0.05 (0.03, 0.07) |
+| 40 mg QD, d 11 to 20 (n = 15)9 | 300 mg QD/ritonavir 100 mg QD, d 1 to 20 (n = 15) | 0.28 (0.24, 0.32) | 0.24 (0.21, 0.27) | 0.22 (0.19, 0.26) |  |
+| 20 mg QD, d 17 to 23 (am) (n = 13) | 300 mg QD/ritonavir 100 mg QD, d 7 to 16 (pm) (n = 27), d 17 to 23 (pm) (n = 13)10, 11 | 0.61 (0.46, 0.81) | 0.58 (0.44, 0.75) | 0.54 (0.41, 0.71) |  |
+| 20 mg QD, d 17 to 23 (am) (n = 14) | 300 mg QD/ritonavir 100 mg QD, d 7 to 16 (am) (n = 27), then 400 mg QD/ritonavir 100 mg QD, d 17 to 23 (am) (n = 14)12, 13 | 0.69 (0.58, 0.83) | 0.70 (0.57, 0.86) | 0.69 (0.54, 0.88) |  |
 | pitavastatin | 4 mg QD for 5 days | 300 mg QD for 5 days | 1.13 (0.96, 1.32) | 1.06 (0.90, 1.26) | NA |
 | rifabutin | 150 mg QD, d 15 to 28 (n = 7) | 400 mg QD, d 1 to 28 (n = 7) | 1.34 (1.14, 1.59) | 1.15 (0.98, 1.34) | 1.13 (0.68, 1.87) |
 | rifampin | 600 mg QD, d 17 to 26 (n = 16) | 300 mg QD/ritonavir 100 mg QD, d 7 to 16 (n = 48), d 17 to 26 (n = 16) | 0.47 (0.41, 0.53) | 0.28 (0.25, 0.32) | 0.02 (0.02, 0.03) |
-| ritonavirCompared with atazanavir 400 mg QD historical data, administration of atazanavir/ritonavir 300 mg/100 mg QD increased the atazanavir geometric mean values of Cmax, AUC, and Cmin by 18%, 103%, and 671%, respectively. | 100 mg QD, d 11 to 20 (n = 28) | 300 mg QD, d 1 to 20 (n = 28) | 1.86 (1.69, 2.05) | 3.38 (3.13, 3.63) | 11.89 (10.23, 13.82) |
-| tenofovir DFNote that similar results were observed in studies where administration of tenofovir DF and atazanavir sulfate was separated by 12 hours. | 300 mg QD, d 9 to 16 (n = 34) | 400 mg QD, d 2 to 16 (n = 34) | 0.79 (0.73, 0.86) | 0.75 (0.70, 0.81) | 0.60 (0.52, 0.68) |
-| 300 mg QD, d 15 to 42 (n = 10) | 300 mg/ritonavir 100 mg QD, d 1 to 42 (n = 10) | 0.72Ratio of atazanavir plus ritonavir plus tenofovir DF to atazanavir plus ritonavir. Atazanavir 300 mg plus ritonavir 100 mg results in higher atazanavir exposure than atazanavir 400 mg (see footnote15). The geometric mean values of atazanavir pharmacokinetic parameters when coadministered with ritonavir and tenofovir DF were: Cmax = 3190 ng/mL, AUC = 34459 ng•h/mL, and Cmin = 491 ng/mL. Study was conducted in HIV-infected individuals. (0.50, 1.05) | 0.75 (0.58, 0.97) | 0.77 (0.54, 1.10) |  |
+| ritonavir14 | 100 mg QD, d 11 to 20 (n = 28) | 300 mg QD, d 1 to 20 (n = 28) | 1.86 (1.69, 2.05) | 3.38 (3.13, 3.63) | 11.89 (10.23, 13.82) |
+| tenofovir DF15 | 300 mg QD, d 9 to 16 (n = 34) | 400 mg QD, d 2 to 16 (n = 34) | 0.79 (0.73, 0.86) | 0.75 (0.70, 0.81) | 0.60 (0.52, 0.68) |
+| 300 mg QD, d 15 to 42 (n = 10) | 300 mg/ritonavir 100 mg QD, d 1 to 42 (n = 10) | 0.7216 (0.50, 1.05) | 0.7516 (0.58, 0.97) | 0.7716 (0.54, 1.10) |  |
 | voriconazole(Subjects with at least one functionalCYP2C19 allele) | 200 mg BID, d 2 to 3, 22 to 30; 400 mg BID, d 1, 21 (n = 20) | 300 mg/ritonavir 100 mg QD, d 11 to 30 (n = 20) | 0.87(0.80, 0.96) | 0.88(0.82, 0.95) | 0.80(0.72, 0.90) |
 | voriconazole(Subjects without a functionalCYP2C19 allele) | 50 mg BID, d 2 to 3, 22 to 30; 100 mg BID, d 1, 21 (n = 8) | 300 mg/ritonavir 100 mg QD, d 11 to 30 (n = 8) | 0.81(0.66, 1.00) | 0.80(0.65, 0.97) | 0.69(0.54, 0.87) |
+| 1. Data provided are under fed conditions unless otherwise noted.2. All drugs were given under fasted conditions.3. Atazanavir 300 mg plus ritonavir 100 mg once daily coadministered with famotidine 40 mg twice daily resulted in atazanavir geometric mean Cmax that was similar and AUC and Cmin values that were 1.79 and 4.46 fold higher relative to atazanavir 400 mg once daily alone.4. Similar results were noted when famotidine 20 mg BID was administered 2 hours after and 10 hours before atazanavir 300 mg and ritonavir 100 mg plus tenofovir DF 300 mg.5. Atazanavir/ritonavir/tenofovir DF was administered after a light meal.6. Study was conducted in HIV-infected individuals.7. Compared with atazanavir 400 mg historical data without nevirapine (n = 13), the ratio of geometric means (90% confidence intervals) for Cmax, AUC, and Cmin were 1.42 (0.98, 2.05), 1.64 (1.11, 2.42), and 1.25 (0.66, 2.36), respectively, for atazanavir/ritonavir 300 mg/100 mg; and 2.02 (1.42, 2.87), 2.28 (1.54, 3.38), and 1.80 (0.94, 3.45), respectively, for atazanavir/ritonavir 400 mg/100 mg.8. Parallel group design; n = 23 for atazanavir/ritonavir plus nevirapine, n = 22 for atazanavir 300 mg/ritonavir 100 mg without nevirapine. Subjects were treated with nevirapine prior to study entry.9. Omeprazole 40 mg was administered on an empty stomach 2 hours before atazanavir sulfate.10. Omeprazole 20 mg was administered 30 minutes prior to a light meal in the morning and atazanavir 300 mg plus ritonavir 100 mg in the evening after a light meal, separated by 12 hours from omeprazole.11. Atazanavir 300 mg plus ritonavir 100 mg once daily separated by 12 hours from omeprazole 20 mg daily resulted in increases in atazanavir geometric mean AUC (10%) and Cmin (2.4 fold), with a decrease in Cmax (29%) relative to atazanavir 400 mg once daily in the absence of omeprazole (study days 1 to 6).12. Omeprazole 20 mg was given 30 minutes prior to a light meal in the morning and atazanavir 400 mg plus ritonavir 100 mg once daily after a light meal, 1 hour after omeprazole. Effects on atazanavir concentrations were similar when atazanavir 400 mg plus ritonavir 100 mg was separated from omeprazole 20 mg by 12 hours.13. Atazanavir 400 mg plus ritonavir 100 mg once daily administered with omeprazole 20 mg once daily resulted in increases in atazanavir geometric mean AUC (32%) and Cmin (3.3 fold), with a decrease in Cmax (26%) relative to atazanavir 400 mg once daily in the absence of omeprazole (study days 1 to 6).14. Compared with atazanavir 400 mg QD historical data, administration of atazanavir/ritonavir 300 mg/100 mg QD increased the atazanavir geometric mean values of Cmax, AUC, and Cmin by 18%, 103%, and 671%, respectively.15. Note that similar results were observed in studies where administration of tenofovir DF and atazanavir sulfate was separated by 12 hours. 16. Ratio of atazanavir plus ritonavir plus tenofovir DF to atazanavir plus ritonavir. Atazanavir 300 mg plus ritonavir 100 mg results in higher atazanavir exposure than atazanavir 400 mg (see footnote15). The geometric mean values of atazanavir pharmacokinetic parameters when coadministered with ritonavir and tenofovir DF were: Cmax = 3190 ng/mL, AUC = 34459 ng•h/mL, and Cmin = 491 ng/mL. Study was conducted in HIV-infected individuals. |  |  |  |  |  |
 
 NA = not available.
 
-| Table 22: Drug Interactions: Pharmacokinetic Parameters for Coadministered Drugs in the Presence of Atazanavir SulfateData provided are under fed conditions unless otherwise noted. |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
+Table 22: Drug Interactions: Pharmacokinetic Parameters for Coadministered Drugs in the Presence of Atazanavir Sulfate1
+
 | Coadministered Drug | Coadministered Drug Dose/Schedule | Atazanavir Dose/Schedule | Ratio (90% Confidence Interval) of Coadministered Drug Pharmacokinetic Parameters With/Without Atazanavir Sulfate; No Effect = 1.00 |  |  |
+| --- | --- | --- | --- | --- | --- |
 | Cmax | AUC | Cmin |  |  |  |
 | acetaminophen | 1 gm BID, d 1 to 20 (n = 10) | 300 mg QD/ritonavir 100 mg QD, d 11 to 20 (n = 10) | 0.87 (0.77, 0.99) | 0.97 (0.91, 1.03) | 1.26 (1.08, 1.46) |
 | atenolol | 50 mg QD, d 7 to 11 (n = 19) and d 19 to 23 | 400 mg QD, d 1 to 11 (n = 19) | 1.34 (1.26, 1.42) | 1.25 (1.16, 1.34) | 1.02 (0.88, 1.19) |
-| boceprevir | 800 mg TIDd 1 to 6, 25 to 31 | 300 mg QD/ritonavir100 mg QDd 10 to 31 | 0.93(0.80, 1.08) | 0.95(0.87, 1.05) | 0.82(0.68, 0.98) |
+| boceprevir | 800 mg TID,d 1 to 6, 25 to 31 | 300 mg QD/ritonavir100 mg QD,d 10 to 31 | 0.93(0.80, 1.08) | 0.95(0.87, 1.05) | 0.82(0.68, 0.98) |
 | clarithromycin | 500 mg BID, d 7 to 10 (n = 21) and d 18 to 21 | 400 mg QD, d 1 to 10 (n = 21) | 1.50 (1.32, 1.71) OH-clarithromycin: 0.28 (0.24, 0.33) | 1.94 (1.75, 2.16) OH-clarithromycin: 0.30 (0.26, 0.34) | 2.60 (2.35, 2.88) OH-clarithromycin: 0.38 (0.34, 0.42) |
-| ddI (enteric-coated [EC] capsules)400 mg ddI EC and atazanavir were administered together with food on Days 8 and 19. | 400 mg d 1 (fasted), d 8 (fed) (n = 34) | 400 mg QD, d 2 to 8 (n = 34) | 0.64 (0.55, 0.74) | 0.66 (0.60, 0.74) | 1.13 (0.91, 1.41) |
+| ddI (enteric-coated [EC] capsules)2 | 400 mg d 1 (fasted), d 8 (fed) (n = 34) | 400 mg QD, d 2 to 8 (n = 34) | 0.64 (0.55, 0.74) | 0.66 (0.60, 0.74) | 1.13 (0.91, 1.41) |
 | 400 mg d 1 (fasted), d 19 (fed) (n = 31) | 300 mg QD/ritonavir 100 mg QD, d 9 to 19 (n = 31) | 0.62 (0.52, 0.74) | 0.66 (0.59, 0.73) | 1.25 (0.92, 1.69) |  |
 | diltiazem | 180 mg QD, d 7 to 11 (n = 28) and d 19 to 23 | 400 mg QD, d 1 to 11 (n = 28) | 1.98 (1.78, 2.19) | 2.25 (2.09, 2.16) | 2.42 (2.14, 2.73) |
-| desacetyl-diltiazem: 2.72 (2.44, 3.03) | desacetyl-diltiazem: 2.65 (2.45, 2.87) | desacetyl-diltiazem: 2.21 (2.02, 2.42) |  |  |  |
-| ethinyl estradiol & norethindroneUpon further dose normalization of ethinyl estradiol 25 mcg with atazanavir relative to ethinyl estradiol 35 mcg without atazanavir, the ratio of geometric means (90% confidence intervals) for Cmax, AUC, and Cmin were 0.82 (0.73, 0.92), 1.06 (0.95, 1.17), and 1.35 (1.11, 1.63), respectively. | Ortho-Novum® 7/7/7 QD, d 1 to 29 (n = 19) | 400 mg QD, d 16 to 29 (n = 19) | ethinyl estradiol: 1.15 (0.99, 1.32) | ethinyl estradiol: 1.48 (1.31, 1.68) | ethinyl estradiol: 1.91 (1.57, 2.33) |
+| desacetyl-diltiazem: 2.72 (2.44, 3.03) | desacetyl-diltiazem: 2.65(2.45, 2.87) | desacetyl-diltiazem: 2.21 (2.02, 2.42) |  |  |  |
+| ethinyl estradiol & norethindrone3 | Ortho-Novum® 7/7/7 QD, d 1 to 29 (n = 19) | 400 mg QD, d 16 to 29 (n = 19) | ethinyl estradiol: 1.15 (0.99, 1.32) | ethinyl estradiol: 1.48 (1.31, 1.68) | ethinyl estradiol: 1.91 (1.57, 2.33) |
 | norethindrone: 1.67 (1.42, 1.96) | norethindrone: 2.10 (1.68, 2.62) | norethindrone: 3.62 (2.57, 5.09) |  |  |  |
-| ethinyl estradiol & norgestimateUpon further dose normalization of ethinyl estradiol 35 mcg with atazanavir/ritonavir relative to ethinyl estradiol 25 mcg without atazanavir/ritonavir, the ratio of geometric means (90% confidence intervals) for Cmax, AUC, and Cmin were 1.17 (1.03, 1.34), 1.13 (1.05, 1.22), and 0.88 (0.77, 1.00), respectively. | Ortho Tri-Cyclen® QD, d 1 to 28 (n = 18), then Ortho Tri-Cyclen® LO QD, d 29 to 42All subjects were on a 28 day lead-in period; one full cycle of Ortho Tri-Cyclen®. Ortho Tri-Cyclen® contains 35 mcg of ethinyl estradiol. Ortho Tri-Cyclen® LO contains 25 mcg of ethinyl estradiol. Results were dose normalized to an ethinyl estradiol dose of 35 mcg. (n = 14) | 300 mg QD/ritonavir 100 mg QD, d 29 to 42 (n = 14) | ethinyl estradiol: 0.84 (0.74, 0.95) | ethinyl estradiol: 0.81 (0.75, 0.87) | ethinyl estradiol: 0.63 (0.55, 0.71) |
-| 17-deacetyl norgestimate:17-deacetyl norgestimate is the active component of norgestimate. 1.68 (1.51, 1.88) | 17-deacetyl norgestimate: 1.85 (1.67, 2.05) | 17-deacetyl norgestimate: 2.02 (1.77, 2.31) |  |  |  |
-| grazoprevir/ elbasvir | grazoprevir 200 mg QD d 1 to 35 (n = 12) | 300 mg QD/ritonavir 100 mg QD | 6.24 (4.42, 8.81) | 10.58 (7.78, 14.39) | 11.64 (7.96, 17.02) |
-| elbasvir 50 mg QD d 1 to 35 (n = 10) | 300 mg QD/ritonavir 100 mg QD | 4.15 (3.46, 4.97) | 4.76 (4.07, 5.56) | 6.45 (5.51 7.54) |  |
-| methadone | Stable maintenance dose, d 1 to 15 (n = 16) | 400 mg QD, d 2 to 15 (n = 16) | (R)-methadone(R)-methadone is the active isomer of methadone. 0.91 (0.84, 1.0) | (R)-methadone 1.03 (0.95, 1.10) | (R)-methadone 1.11 (1.02, 1.20) |
+| ethinyl estradiol & norgestimate4 | Ortho Tri-Cyclen® QD, d 1 to 28 (n = 18), then Ortho Tri-Cyclen® LO QD, d 29 to 425 (n = 14) | 300 mg QD/ritonavir 100 mg QD, d 29 to 42 (n = 14) | ethinyl estradiol: 0.84 (0.74, 0.95) | ethinyl estradiol: 0.81 (0.75, 0.87) | ethinyl estradiol: 0.63 (0.55, 0.71) |
+| 17-deacetyl norgestimate:6 1.68(1.51, 1.88) | 17-deacetyl norgestimate:6 1.85(1.67, 2.05) | 17-deacetyl norgestimate:6 2.02(1.77, 2.31) |  |  |  |
+| glecaprevir/ pibrentasvir | 300 mg glecaprevir (n = 12) | 300 mg QD/ritonavir 100 mg QD (n = 12) | ≥ 4.067 (3.15, 5.23) | ≥ 6.537 (5.24, 8.14) | ≥ 14.37 (9.85, 20.7) |
+|  | 120 mg pibrentasvir (n = 12) | 300 mg QD/ritonavir 100 mg QD (n = 12) | ≥ 1.297 (1.15, 1.45) | ≥ 1.647 (1.48, 1.82) | ≥ 2.297 (1.95, 2.68) |
+| grazoprevir/ elbasvir | grazoprevir 200 mg QD d 1 to 35 (n = 12) | 300 mg QD/ritonavir 100 mg QD d 1 to 35 (n = 12) | 6.24 (4.42, 8.81) | 10.58 (7.78, 14.39) | 11.64 (7.96, 17.02) |
+| elbasvir 50 mg QD d 1 to 35 (n = 10) | 300 mg QD/ritonavir 100 mg QD d 1 to 35 (n = 10) | 4.15 (3.46, 4.97) | 4.76 (4.07, 5.56) | 6.45 (5.51 7.54) |  |
+| methadone | Stable maintenance dose, d 1 to 15 (n = 16) | 400 mg QD, d 2 to 15 (n = 16) | (R)-methadone80.91(0.84, 1.0) | (R)-methadone8 1.03 (0.95, 1.10) | (R)-methadone8 1.11 (1.02, 1.20) |
 | total: 0.85 (0.78, 0.93) | total: 0.94 (0.87, 1.02) | total: 1.02 (0.93, 1.12) |  |  |  |
-| nevirapineStudy was conducted in HIV-infected individuals. Subjects were treated with nevirapine prior to study entry. | 200 mg BID, d 1 to 23 (n = 23) | 300 mg QD/ ritonavir 100 mg QD, d 4 to 13, then | 1.17 (1.09, 1.25) | 1.25 (1.17, 1.34) | 1.32 (1.22, 1.43) |
-| 400 mg QD/ ritonavir 100 mg QD, d 14 to 23 (n = 23) | 1.21 (1.11, 1.32) | 1.26 (1.17, 1.36) | 1.35 (1.25, 1.47) |  |  |
-| omeprazoleOmeprazole was used as a metabolic probe for CYP2C19. Omeprazole was given 2 hours after atazanavir sulfate on Day 7; and was given alone 2 hours after a light meal on Day 20. | 40 mg single dose, d 7 and d 20 (n = 16) | 400 mg QD, d 1 to 12 (n = 16) | 1.24 (1.04, 1.47) | 1.45 (1.20, 1.76) | NA |
-| rifabutin | 300 mg QD, d 1 to 10 then 150 mg QD, d 11 to 20 (n = 3) | 600 mg QD,Not the recommended therapeutic dose of atazanavir.d 11 to 20 (n = 3) | 1.18 (0.94, 1.48) | 2.10 (1.57, 2.79) | 3.43 (1.98, 5.96) |
-| 25-O-desacetyl‑rifabutin: 8.20 (5.90, 11.40) | 25-O-desacetyl‑rifabutin: 22.01 (15.97, 30.34) | 25-O-desacetyl‑rifabutin: 75.6 (30.1, 190.0) |  |  |  |
-| 150 mg twice weekly, d 1 to 15 (n = 7) | 300 mg QD/ritonavir 100 mg QD, d 1 to 17 (n = 7) | 2.49When compared to rifabutin 150 mg QD alone d 1 to 10 (n = 14). Total of rifabutin + 25-O-desacetyl-rifabutin: AUC 2.19 (1.78, 2.69).(2.03, 3.06) 25-O-desacetyl‑ rifabutin: 7.77 (6.13, 9.83) | 1.48(1.19, 1.84) 25-O-desacetyl‑ rifabutin: 10.90 (8.14, 14.61) | 1.40(1.05, 1.87) 25-O-desacetyl‑ rifabutin: 11.45 (8.15, 16.10) |  |
+| nevirapine9,10 | 200 mg BID, d 1 to 23 (n = 23) | 300 mg QD/ ritonavir 100 mg QD, d 4 to 13, then | 1.17(1.09, 1.25) | 1.25 (1.17, 1.34) | 1.32(1.22, 1.43) |
+| 400 mg QD/ ritonavir 100 mg QD, d 14 to 23 (n = 23) | 1.21(1.11, 1.32) | 1.26(1.17, 1.36) | 1.35(1.25, 1.47) |  |  |
+| omeprazole11 | 40 mg single dose, d 7 and d 20 (n = 16) | 400 mg QD, d 1 to 12 (n = 16) | 1.24 (1.04, 1.47) | 1.45 (1.20, 1.76) | NA |
+| rifabutin | 300 mg QD, d 1 to 10 then 150 mg QD, d 11 to 20(n = 3) | 600 mg QD,12d 11 to 20 (n = 3) | 1.18 (0.94, 1.48) | 2.10(1.57, 2.79) | 3.43(1.98, 5.96) |
+| 25-O-desacetyl­rifabutin: 8.20 (5.90, 11.40) | 25-O-desacetyl­rifabutin: 22.01 (15.97, 30.34) | 25-O-desacetyl­rifabutin: 75.6(30.1, 190.0) |  |  |  |
+| 150 mg twice weekly, d 1 to 15 (n = 7) | 300 mg QD/ritonavir 100 mg QD, d 1 to 17 (n = 7) | 2.4913(2.03, 3.06)25-O-desacetyl­ rifabutin: 7.77 (6.13, 9.83) | 1.4813(1.19, 1.84)25-O-desacetyl­ rifabutin: 10.90 (8.14, 14.61) | 1.4013(1.05, 1.87)25-O-desacetyl­ rifabutin: 11.45 (8.15, 16.10) |  |
 | pitavastatin | 4 mg QD for 5 days | 300 mg QD for 5 days | 1.60 (1.39, 1.85) | 1.31 (1.23, 1.39) | NA |
-| rosiglitazoneRosiglitazone used as a probe substrate for CYP2C8. | 4 mg single dose, d 1, 7, 17 (n = 14) | 400 mg QD, d 2 to 7, then | 1.08 (1.03, 1.13) | 1.35 (1.26, 1.44) | NA |
-| 300 mg QD/ ritonavir 100 mg QD, d 8 to 17 (n = 14) | 0.97 (0.91, 1.04) | 0.83 (0.77, 0.89) | NA |  |  |
-| rosuvastatin | 10 mg single dose | 300 mg QD/ ritonavir100 mg QD for 7 days | ↑7 foldMean ratio (with/without coadministered drug). ↑ indicates an increase in rosuvastatin exposure. | ↑3 fold | NA |
-| saquinavirThe combination of atazanavir and saquinavir 1200 mg QD produced daily saquinavir exposures similar to the values produced by the standard therapeutic dosing of saquinavir at 1200 mg TID. However, the Cmax is about 79% higher than that for the standard dosing of saquinavir (soft gelatin capsules) alone at 1200 mg TID. (soft gelatin capsules) | 1200 mg QD, d 1 to 13 (n = 7) | 400 mg QD, d 7 to 13 (n = 7) | 4.39 (3.24, 5.95) | 5.49 (4.04, 7.47) | 6.86 (5.29, 8.91) |
-| tenofovir DFNote that similar results were observed in a study where administration of tenofovir DF and atazanavir sulfate was separated by 12 hours. | 300 mg QD, d 9 to 16 (n = 33) and d 24 to 30 (n = 33) | 400 mg QD, d 2 to 16 (n = 33) | 1.14 (1.08, 1.20) | 1.24 (1.21, 1.28) | 1.22 (1.15, 1.30) |
-| 300 mg QD, d 1 to 7 (pm) (n = 14) d 25 to 34 (pm) (n = 12) | 300 mg QD/ritonavir 100 mg QD, d 25 to 34 (am) (n = 12)Administration of tenofovir DF and atazanavir sulfate was temporally separated by 12 hours. | 1.34 (1.20, 1.51) | 1.37 (1.30, 1.45) | 1.29 (1.21, 1.36) |  |
+| rosiglitazone14 | 4 mg single dose, d 1, 7, 17 (n = 14) | 400 mg QD, d 2 to 7, then | 1.08 (1.03, 1.13) | 1.35 (1.26, 1.44) | NA |
+| 300 mg QD/ ritonavir 100 mg QD, d 8 to 17 (n = 14) | 0.97(0.91, 1.04) | 0.83(0.77, 0.89) | NA |  |  |
+| rosuvastatin | 10 mg single dose | 300 mg QD/ ritonavir100 mg QD for 7 days | ↑7 fold15 | ↑3 fold15 | NA |
+| saquinavir16 (soft gelatin capsules) | 1200 mg QD, d 1 to 13 (n = 7) | 400 mg QD, d 7 to 13 (n = 7) | 4.39(3.24, 5.95) | 5.49(4.04, 7.47) | 6.86 (5.29, 8.91) |
+| sofosbuvir/ velpatasvir/ voxilaprevir | 400 mg sofosbuvir single dose (n = 15) | 300 mg/100 mg ritonavir single dose (n = 15) | 1.29 (1.09, 1.52) sofosbuvir metabolite GS-331007 1.05 (0.99, 1.12) | 1.40 (1.25, 1.57) sofosbuvir metabolite GS-331007 1.25 (1.16, 1.36) | NA |
+|  | 100 mg velpatasvir single dose (n = 15) | 300 mg/100 mg ritonavir single dose (n = 15) | 1.29 (1.07, 1.56) | 1.93 (1.58, 2.36) | NA |
+|  | 100 mg voxilaprevir single dose (n = 15) | 300 mg/100 mg ritonavir single dose (n = 15) | 4.42 (3.65, 5.35) | 4.31 (3.76, 4.93) | NA |
+| tenofovir DF17 | 300 mg QD,d 9 to 16 (n = 33) and d 24 to 30 (n = 33) | 400 mg QD, d 2 to 16 (n = 33) | 1.14 (1.08, 1.20) | 1.24(1.21, 1.28) | 1.22(1.15, 1.30) |
+| 300 mg QD, d 1 to 7 (pm) (n = 14) d 25 to 34 (pm)(n = 12) | 300 mg QD/ritonavir 100 mg QD, d 25 to 34 (am) (n = 12)18 | 1.34 (1.20, 1.51) | 1.37(1.30, 1.45) | 1.29(1.21, 1.36) |  |
 | voriconazole (Subjects with at least one functional CYP2C19 allele) | 200 mg BID, d 2 to 3, 22 to 30; 400 mg BID, d 1, 21 (n = 20) | 300 mg/ritonavir 100 mg QD, d 11 to 30(n = 20) | 0.90(0.78, 1.04) | 0.67(0.58, 0.78) | 0.61(0.51, 0.72) |
-| voriconazole (Subjects without a functional CYP2C19 allele) | 50 mg BID, d 2 to 3, 22 to 30; 100 mg BID, d 1, 21(n = 8) | 300 mg/ritonavir 100 mg QD, d 11 to 30(n = 8) | 4.38(3.55, 5.39) | 5.61(4.51, 6.99) | 7.65(5.71, 10.2) |
-| lamivudine + zidovudine | 150 mg lamivudine + 300 mg zidovudine BID, d 1 to 12 (n = 19) | 400 mg QD, d 7 to 12 (n = 19) | lamivudine: 1.04 (0.92, 1.16) | lamivudine: 1.03 (0.98, 1.08) | lamivudine: 1.12 (1.04, 1.21) |
-| zidovudine: 1.05 (0.88, 1.24) | zidovudine: 1.05 (0.96, 1.14) | zidovudine: 0.69 (0.57, 0.84) |  |  |  |
-| zidovudine glucuronide: 0.95 (0.88, 1.02) | zidovudine glucuronide: 1.00 (0.97, 1.03) | zidovudine glucuronide: 0.82 (0.62, 1.08) |  |  |  |
+| voriconazole (Subjects without a functional CYP2C19 allele) | 50 mg BID, d 2 to 3, 22 to 30; 100 mg BID, d 1, 21(n = 8) | 300 mg/ritonavir 100 mg QD,d 11 to 30(n = 8) | 4.38(3.55, 5.39) | 5.61(4.51, 6.99) | 7.65(5.71, 10.2) |
+| lamivudine + zidovudine | 150 mg lamivudine + 300 mg zidovudine BID, d 1 to 12(n = 19) | 400 mg QD,d 7 to 12 (n = 19) | lamivudine: 1.04(0.92, 1.16) | lamivudine: 1.03 (0.98, 1.08) | lamivudine: 1.12 (1.04, 1.21) |
+| zidovudine: 1.05(0.88, 1.24) | zidovudine: 1.05(0.96, 1.14) | zidovudine: 0.69 (0.57, 0.84) |  |  |  |
+| zidovudine glucuronide: 0.95(0.88, 1.02) | zidovudine glucuronide: 1.00(0.97, 1.03) | zidovudine glucuronide: 0.82(0.62, 1.08) |  |  |  |
+| 1. Data provided are under fed conditions unless otherwise noted. |  |  |  |  |  |
+| 2. 400 mg ddI EC and atazanavir were administered together with food on Days 8 and 19. |  |  |  |  |  |
+| 3. Upon further dose normalization of ethinyl estradiol 25 mcg with atazanavir relative to ethinyl estradiol 35 mcg without atazanavir, the ratio of geometric means (90% confidence intervals) for Cmax, AUC, and Cmin were 0.82 (0.73, 0.92), 1.06 (0.95, 1.17), and 1.35 (1.11, 1.63), respectively. |  |  |  |  |  |
+| 4. Upon further dose normalization of ethinyl estradiol 35 mcg with atazanavir/ritonavir relative to ethinyl estradiol 25 mcg without atazanavir/ritonavir, the ratio of geometric means (90% confidence intervals) for Cmax, AUC, and Cmin were 1.17 (1.03, 1.34), 1.13 (1.05, 1.22), and 0.88 (0.77, 1.00), respectively. |  |  |  |  |  |
+| 5. All subjects were on a 28 day lead-in period; one full cycle of Ortho Tri-Cyclen®. Ortho Tri-Cyclen® contains 35 mcg of ethinyl estradiol. Ortho Tri-Cyclen® LO contains 25 mcg of ethinyl estradiol. Results were dose normalized to an ethinyl estradiol dose of 35 mcg. |  |  |  |  |  |
+| 6. 17-deacetyl norgestimate is the active component of norgestimate. |  |  |  |  |  |
+| 7. Effect of atazanavir and ritonavir on the first dose of glecaprevir and pibrentasvir is reported. |  |  |  |  |  |
+| 8. (R)-methadone is the active isomer of methadone. |  |  |  |  |  |
+| 9. Study was conducted in HIV-infected individuals. |  |  |  |  |  |
+| 10. Subjects were treated with nevirapine prior to study entry. |  |  |  |  |  |
+| 11. Omeprazole was used as a metabolic probe for CYP2C19. Omeprazole was given 2 hours after atazanavir sulfate on Day 7; and was given alone 2 hours after a light meal on Day 20. |  |  |  |  |  |
+| 12. Not the recommended therapeutic dose of atazanavir. |  |  |  |  |  |
+| 13. When compared to rifabutin 150 mg QD alone d 1 to 10 (n = 14). Total of rifabutin + 25-O-desacetyl-rifabutin: AUC 2.19 (1.78, 2.69). |  |  |  |  |  |
+| 14. Rosiglitazone used as a probe substrate for CYP2C8. |  |  |  |  |  |
+| 15. Mean ratio (with/without coadministered drug). ↑ indicates an increase in rosuvastatin exposure. |  |  |  |  |  |
+| 16. The combination of atazanavir and saquinavir 1200 mg QD produced daily saquinavir exposures similar to the values produced by the standard therapeutic dosing of saquinavir at 1200 mg TID. However, the Cmax is about 79% higher than that for the standard dosing of saquinavir (soft gelatin capsules) alone at 1200 mg TID. |  |  |  |  |  |
+| 17. Note that similar results were observed in a study where administration of tenofovir DF and atazanavir sulfate was separated by 12 hours. |  |  |  |  |  |
+| 18. Administration of tenofovir DF and atazanavir sulfate was temporally separated by 12 hours. |  |  |  |  |  |
 
 NA = not available.
 
@@ -257,16 +286,17 @@ The I50L and I50V substitutions yielded selective resistance to ATV and amprenav
 Clinical Studies of Treatment-Naive Patients: Comparison of Ritonavir-Boosted Atazanavir Sulfate vs. Unboosted Atazanavir Sulfate: Study AI424-089 compared atazanavir 300 mg once daily with ritonavir 100 mg vs. atazanavir 400 mg once daily when administered with lamivudine and extended-release stavudine in HIV-infected treatment-naive patients.
 A summary of the number of virologic failures and virologic failure isolates with ATV resistance in each arm is shown in Table 23.
 
-Table 23: Summary of Virologic FailuresVirologic failure includes patients who were never suppressed through Week 96 and on study at Week 96, had virologic rebound or discontinued due to insufficient viral load response. at Week 96 in Study AI424-089: Comparison of Ritonavir Boosted Atazanavir Sulfate vs. Unboosted Atazanavir Sulfate: Randomized Patients
+Table 23: Summary of Virologic Failures1 at Week 96 in Study AI424-089: Comparison of Ritonavir Boosted Atazanavir Sulfate vs. Unboosted Atazanavir Sulfate: Randomized Patients
 
 |  | Atazanavir 300 mg + ritonavir 100 mg | Atazanavir400 mg |
 | --- | --- | --- |
 | (n = 95) | (n = 105) |  |
 | Virologic Failure (≥ 50 copies/mL) at Week 96 | 15 (16%) | 34 (32%) |
 | Virologic Failure with Genotypes and Phenotypes Data | 5 | 17 |
-| Virologic Failure Isolates with ATV-resistance at Week 96 | 0/5 (0%)Percentage of Virologic Failure Isolates with genotypic and phenotypic data. | 4/17 (24%) |
-| Virologic Failure Isolates with I50L Emergence at Week 96Mixture of I50I/L emerged in 2 other ATV 400 mg-treated patients. Neither isolate was phenotypically resistant to ATV. | 0/5 (0%) | 2/17 (12%) |
-| Virologic Failure Isolates with Lamivudine Resistance at Week 96 | 2/5 (40%) | 11/17 (65%) |
+| Virologic Failure Isolates with ATV-resistance at Week 96 | 0/5 (0%)2 | 4/17 (24%)2 |
+| Virologic Failure Isolates with I50L Emergence at Week 963 | 0/5 (0%)2 | 2/17 (12%)2 |
+| Virologic Failure Isolates with Lamivudine Resistance at Week 96 | 2/5 (40%)2 | 11/17 (65%)2 |
+| 1. Virologic failure includes patients who were never suppressed through Week 96 and on study at Week 96, had virologic rebound or discontinued due to insufficient viral load response.2. Percentage of Virologic Failure Isolates with genotypic and phenotypic data. 3. Mixture of I50I/L emerged in 2 other ATV 400 mg-treated patients. Neither isolate was phenotypically resistant to ATV. |  |  |
 
 Clinical Studies of Treatment-Naive Patients Receiving Atazanavir 300 mg With Ritonavir 100 mg: In Phase III Study AI424-138, an as-treated genotypic and phenotypic analysis was conducted on samples from patients who experienced virologic failure (HIV-1 RNA ≥ 400 copies/mL) or discontinued before achieving suppression on ATV/RTV (n = 39; 9%) and LPV/RTV (n = 39; 9%) through 96 weeks of treatment.
 In the ATV/RTV arm, one of the virologic failure isolates had a 56 fold decrease in ATV susceptibility emerge on therapy with the development of PI resistance-associated substitutions L10F, V32I, K43T, M46I, A71I, G73S, I85I/V, and L90M.
@@ -306,11 +336,11 @@ In the ATV/RTV group, patients had lower response rates when 3 or more baseline 
 
 Table 24: HIV RNA Response by Number and Type of Baseline PI Substitution, Antiretroviral-Experienced Patients in Study AI424-045, As-Treated Analysis
 
-| Number and Type of Baseline PI SubstitutionsPrimary substitutions include any change at D30, V32, M36, M46, I47, G48, I50, I54, A71, G73, V77, V82, I84, N88, and L90. | Virologic Response = HIV RNA < 400 copies/mLResults should be interpreted with caution because the subgroups were small. |  |
+| Number and Type of Baseline PI Substitutions1 | Virologic Response = HIV RNA < 400 copies/mL2 |  |
 | --- | --- | --- |
 | ATV/RTV | LPV/RTV |  |
 | (n = 110) | (n = 113) |  |
-| 3 or more primary PI substitutions including:There were insufficient data (n < 3) for PI substitutions V32I, I47V, G48V, I50V, and F53L. |  |  |
+| 3 or more primary PI substitutions including3: |  |  |
 | D30N | 75% (6/8) | 50% (3/6) |
 | M36I/V | 19% (3/16) | 33% (6/18) |
 | M46I/L/T | 24% (4/17) | 23% (5/22) |
@@ -322,11 +352,12 @@ Table 24: HIV RNA Response by Number and Type of Baseline PI Substitution, Antir
 | I84V/A | 11% (1/9) | 33% (2/6) |
 | N88D | 63% (5/8) | 67% (4/6) |
 | L90M | 10% (2/21) | 44% (11/25) |
-| Number of baseline primary PI substitutions |  |  |
+| Number of baseline primary PI substitutions1 |  |  |
 | All patients, as-treated | 58% (64/110) | 59% (67/113) |
 | 0 to 2 PI substitutions | 75% (50/67) | 75% (50/67) |
 | 3 to 4 PI substitutions | 41% (14/34) | 43% (12/28) |
 | 5 or more PI substitutions | 0% (0/9) | 28% (5/18) |
+| 1. Primary substitutions include any change at D30, V32, M36, M46, I47, G48, I50, I54, A71, G73, V77, V82, I84, N88, and L90.2. Results should be interpreted with caution because the subgroups were small. 3. There were insufficient data (n < 3) for PI substitutions V32I, I47V, G48V, I50V, and F53L. |  |  |
 
 The response rates of antiretroviral-experienced patients in Study AI424-045 were analyzed by baseline phenotype (shift in susceptibility in cell culture relative to reference, Table 25).
 The analyses are based on a select patient population with 62% of patients receiving an NNRTI-based regimen before study entry compared to 35% receiving a PI-based regimen.
@@ -334,7 +365,7 @@ Additional data are needed to determine clinically relevant break points for ata
 
 Table 25: Baseline Phenotype by Outcome, Antiretroviral-Experienced Patients in Study AI424-045, As-Treated Analysis
 
-| Baseline PhenotypeFold change susceptibility in cell culture relative to the wild-type reference. | Virologic Response = HIV RNA < 400 copies/mLResults should be interpreted with caution because the subgroups were small. |  |
+| Baseline Phenotype1 | Virologic Response = HIV RNA < 400 copies/mL2 |  |
 | --- | --- | --- |
 | ATV/RTV | LPV/RTV |  |
 | (n = 111) | (n = 111) |  |
@@ -342,3 +373,4 @@ Table 25: Baseline Phenotype by Outcome, Antiretroviral-Experienced Patients in 
 | > 2 to 5 | 53% (8/15) | 44% (4/9) |
 | > 5 to 10 | 13% (1/8) | 33% (3/9) |
 | > 10 | 10% (1/10) | 23% (3/13) |
+| 1. Fold change susceptibility in cell culture relative to the wild-type reference.2. Results should be interpreted with caution because the subgroups were small. |  |  |

@@ -10,34 +10,33 @@ Healthcare providers are encouraged to register patients by calling the Antiretr
 Risk Summary
 
 Atazanavir has been evaluated in a limited number of women during pregnancy.
-Available human and animal data suggest that atazanavir does not increase the risk of major birth defects overall compared to the background rate [seeData].
+Available human and animal data suggest that atazanavir does not increase the risk of major birth defects overall compared to the background rate [see Data].
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 No treatment-related malformations were observed in rats and rabbits, for which the atazanavir exposures were 0.7 to 1.2 times of those at the human clinical dose (300 mg/day atazanavir boosted with 100 mg/day ritonavir).
-When atazanavir was administered to rats during pregnancy and throughout lactation, reversible neonatal growth retardation was observed [seeData].
+When atazanavir was administered to rats during pregnancy and throughout lactation, reversible neonatal growth retardation was observed [see Data].
 
 Clinical Considerations
 
 Dose Adjustments during Pregnancy and the Postpartum Period
 
-- •Atazanavir sulfate must be administered with ritonavir in pregnant women.
-- •For pregnant patients, no dosage adjustment is required for atazanavir sulfate with the following exceptions:
-- •For treatment-experienced pregnant women during the second or third trimester, when atazanavir sulfate is
-- coadministered with either an H2-receptor antagonist or tenofovir DF, atazanavir 400 mg with ritonavir 100 mg once daily is recommended.
+- Atazanavir sulfate must be administered with ritonavir in pregnant women.
+- For pregnant patients, no dosage adjustment is required for atazanavir sulfate with the following exceptions:
+- For treatment-experienced pregnant women during the second or third trimester, when atazanavir sulfate is coadministered with either an H2-receptor antagonist or tenofovir DF, atazanavir 400 mg with ritonavir 100 mg once daily is recommended.
   There are insufficient data to recommend an atazanavir sulfate dose for use with both an H2-receptor antagonist and tenofovir DF in treatment-experienced pregnant women.
-- •No dosage adjustment is required for postpartum patients.
+- No dosage adjustment is required for postpartum patients.
   However, patients should be closely monitored for adverse events because atazanavir exposures could be higher during the first 2 months after delivery [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].
 
 Maternal Adverse Reactions
 
 Cases of lactic acidosis syndrome, sometimes fatal, and symptomatic hyperlactatemia have occurred in pregnant women using atazanavir sulfate in combination with nucleoside analogues, which are associated with an increased risk of lactic acidosis syndrome.
 
-Hyperbilirubinemia occurs frequently in patients who take atazanavir sulfate [seeWarnings and Precautions (5.8)], including pregnant women [seeData].
+Hyperbilirubinemia occurs frequently in patients who take atazanavir sulfate [see Warnings and Precautions (5.8)], including pregnant women [see Data].
 
 Advise pregnant women of the potential risks of lactic acidosis syndrome and hyperbilirubinemia.
 
 Fetal/Neonatal Adverse Reactions
 
-All infants, including neonates exposed to atazanavir sulfate in utero, should be monitored for the development of severe hyperbilirubinemia during the first few days of life [seeData].
+All infants, including neonates exposed to atazanavir sulfate in utero, should be monitored for the development of severe hyperbilirubinemia during the first few days of life [see Data].
 
 Data
 
@@ -45,7 +44,7 @@ Human Data
 
 In clinical trial AI424-182, atazanavir/ritonavir (300 mg/100 mg or 400 mg/100 mg) in combination with zidovudine/lamivudine was administered to 41 HIV-infected pregnant women during the second or third trimester.
 Among the 39 women who completed the study, 38 women achieved an HIV RNA less than 50 copies/mL at time of delivery.
-Six of 20 (30%) women on atazanavir/ritonavir 300 mg/100 mg and 13 of 21 (62%) women on atazanavir/ritonavir 400 mg/100 mg experienced hyperbilirubinemia (total bilirubin greater than or equal to 2.6 times ULN.
+Six of 20 (30%) women on atazanavir/ritonavir 300 mg/100 mg and 13 of 21 (62%) women on atazanavir/ritonavir 400 mg/100 mg experienced hyperbilirubinemia (total bilirubin greater than or equal to 2.6 times ULN).
 There were no cases of lactic acidosis observed in clinical trial AI424-182.
 
 Atazanavir drug concentrations in fetal umbilical cord blood were approximately 12% to 19% of maternal concentrations.
