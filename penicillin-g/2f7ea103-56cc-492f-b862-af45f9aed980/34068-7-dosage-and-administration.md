@@ -55,7 +55,7 @@ Uremic patients with a creatinine clearance greater than 10 mL/min/1.73m2; admin
 Additional dosage modification should be made in patients with hepatic disease and renal impairment.
 
 For most acute infections, treatment should be continued for at least 48 to 72 hours after the patient becomes asymptomatic.
-Antibiotic therapy for Group A β-hemolytic streptococcal infections should be maintained for atleast 10 days to reduce the risk of rheumatic fever.
+Antibiotic therapy for Group A β-hemolytic streptococcal infections should be maintained for at least 10 days to reduce the risk of rheumatic fever.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
 

@@ -31,7 +31,7 @@ Nausea, vomiting, stomatitis, black or hairy tongue, and other symptoms of gastr
 
 ## Hematologic system
 
-Reactions include neutropenia, which resolves after penicillin therapy is discontinued; Coombs-positive hemolytic anaemia, an uncommon reaction, occurs in patients treated with intravenous penicillin G in doses greater than 10 million units/day and who have previously received large doses of the drug; and with large doses of penicillin, a bleeding diathesis can occur secondary to platelet dysfunction.
+Reactions include neutropenia, which resolves after penicillin therapy is discontinued; Coombs-positive hemolytic anemia, an uncommon reaction, occurs in patients treated with intravenous penicillin G in doses greater than 10 million units/day and who have previously received large doses of the drug; and with large doses of penicillin, a bleeding diathesis can occur secondary to platelet dysfunction.
 
 ## Metabolic
 
