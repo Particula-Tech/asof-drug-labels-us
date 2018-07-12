@@ -36,7 +36,7 @@ The dose should not be doubled to make up for a missed dose.
 
 ## 2.3 Temporary Interruption for Surgery and Other Interventions
 
-ELIQUIS should be discontinued at least 48 hours prior to elective surgery or invasive procedures with a moderate or high risk of unacceptable or clinically significant bleeding.
+ELIQUIS should be discontinued at least 48 hours prior to elective surgery or invasive procedures with a moderate or high risk of unacceptable or clinically significant bleeding [see Warnings and Precautions (5.2)].
 ELIQUIS should be discontinued at least 24 hours prior to elective surgery or invasive procedures with a low risk of bleeding or where the bleeding would be non-critical in location and easily controlled.
 Bridging anticoagulation during the 24 to 48 hours after stopping ELIQUIS and prior to the intervention is not generally required.
 ELIQUIS should be restarted after the surgical or other procedures as soon as adequate hemostasis has been established.
