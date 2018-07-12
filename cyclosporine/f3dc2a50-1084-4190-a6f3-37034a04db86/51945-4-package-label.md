@@ -2,13 +2,13 @@
 
 # Package/Label Display Panel, Part 2 of 2
 
-## CycloSPORINE Oral Solution USP Modified 100 mg/mL 50 mL Carton Text
+## CycloSPORINE Oral Solution USP Modified 100 mg/mL 50 mL Label Text
 
 NDC 0172-7313-20
 
-CycloSPORINE Oral Solution USP MODIFIED 100 mg/mL
+CycloSPORINE ORAL SOLUTION USP MODIFIED 100 mg/mL
 
-Each mL Contains: cyclosporine, USP 100 mg dehydrated alcohol, USP 15.3% v/v (12.18% wt/vol)
+Each mL Contains: cyclosporine, USP 100 mg dehydrated alcohol, USP 15.3% v/v (12.2% wt/vol)
 
 WARNING: CycloSPORINE Oral Solution USP MODIFIED is NOT BIOEQUIVALENT to Sandimmune® (CycloSPORINE Oral Solution USP).
 DO NOT use interchangeably without a physician's supervision.
