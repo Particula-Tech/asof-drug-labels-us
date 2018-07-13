@@ -24,7 +24,7 @@ Liver Enzymes
 It is recommended that liver enzyme tests be checked before the initiation of ZYPITAMAG and if signs or symptoms of liver injury occur.
 All patients treated with ZYPITAMAG should be advised to report promptly any symptoms that may indicate liver injury, including fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice.
 
-Please address medical inquiries to medinfo@medicure.com) Tel.: 1-800-509-0544.
+Please address medical inquiries to (medinfo@medicure.com) Tel.: 1-800-509-0544.
 
 This product's label may have been updated.
 For current full prescribing information, please visit www.medicure.com

@@ -19,7 +19,7 @@ These studies had treatment duration of up to 12 weeks.
 
 Table 1 Adverse Reactions* Reported by ≥ 2% of Patients Treated with Pitavastatin and > Placebo in Short-Term Controlled Studies
 
-| Adverse Reactions* | Placebo N= 208 | Pitavastatin 1 mg N=309 | Pitavastatin 2 mg N=951 | Pitavastatin 4 mg N=1540 |
+| Adverse Reactions* | Placebo N=208 | Pitavastatin 1 mg N=309 | Pitavastatin 2 mg N=951 | Pitavastatin 4 mg N=1540 |
 | --- | --- | --- | --- | --- |
 | Back Pain | 2.9% | 3.9% | 1.8% | 1.4% |
 | Constipation | 1.9% | 3.6% | 1.5% | 2.2% |
@@ -37,7 +37,7 @@ The most common adverse reactions that led to treatment discontinuation were: el
 
 Hypersensitivity reactions including rash, pruritus, and urticaria have been reported with pitavastatin.
 
-In a double-blind, randomized, controlled, 52-week trial, 252 HIV-infected patients with dyslipidemia were treated with either pitavastatin 4mg once daily (n=126) or another statin (n=126).
+In a double-blind, randomized, controlled, 52-week trial, 252 HIV-infected patients with dyslipidemia were treated with either pitavastatin 4 mg once daily (n=126) or another statin (n=126).
 All patients were taking antiretroviral therapy (excluding darunavir) and had HIV-1 RNA less than 200 copies/mL and CD4 count greater than 200 cell/μL for at least 3 months prior to randomization.
 The safety profile of pitavastatin was generally consistent with that observed in the clinical trials described above.
 One patient (0.8%) treated with pitavastatin had a peak creatine phosphokinase value exceeding 10 times the upper limit of normal (10x ULN), which resolved spontaneously.

@@ -3,7 +3,7 @@
 ## 7.1 Cyclosporine
 
 Cyclosporine significantly increased pitavastatin exposure.
-Coadministration of cyclosporine with ZYPITAMAG is contraindicated [see Contraindications (4), and Clinical Pharmacology (12.3)].
+Coadministration of cyclosporine with ZYPITAMAG is contraindicated [see Contraindications (4) and Clinical Pharmacology (12.3)].
 
 ## 7.2 Erythromycin
 
@@ -21,7 +21,7 @@ Due to an increased risk of myopathy/rhabdomyolysis when HMG-CoA reductase inhib
 
 ## 7.5 Other Fibrates
 
-Because it is known that the risk of myopathy during treatment with HMG-CoA reductase inhibitors is increased with concurrent administration of other fibrates, ZYPITAMAG should be administered with caution when used concomitantly with other fibrates [see Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
+Because it is known that the risk of myopathy during treatment with HMG-CoA reductase inhibitors is increased with concurrent administration of other fibrates, ZYPITAMAG should be administered with caution when used concomitantly with other fibrates [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
 ## 7.6 Niacin
 

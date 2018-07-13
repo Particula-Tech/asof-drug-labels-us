@@ -2,7 +2,7 @@
 
 ## 14.1 Primary Hyperlipidemia or Mixed Dyslipidemia
 
-Dose-ranging study:
+Dose-ranging study
 
 A multicenter, randomized, double-blind, placebo-controlled, dose-ranging study was performed to evaluate the efficacy of pitavastatin compared with placebo in 251 patients with primary hyperlipidemia (Table 4).
 Pitavastatin, given as a single daily dose for 12 weeks, significantly reduced plasma LDL-C, TC, TG, and Apo-B compared to placebo and was associated with variable increases in HDL-C across the dose range.
@@ -61,7 +61,7 @@ Table 6 Response by Dose of Pitavastatin and Simvastatin in Patients with Primar
 Active-controlled study with pravastatin in elderly (NK-104-306)
 
 Pitavastatin was compared with the HMG-CoA reductase inhibitor pravastatin in a randomized, multicenter, double-blind, double-dummy, parallel group, active-controlled non-inferiority Phase 3 study of 942 elderly patients (≥ 65 years) with primary hyperlipidemia or mixed dyslipidemia.
-Patients entered a 6 to 8 week wash out/dietary lead-in period, and then were randomized to a once daily dose of pitavastatin or pravastatin for 12 weeks (Table 7).
+Patients entered a 6 to 8 week wash-out/dietary lead-in period, and then were randomized to a once daily dose of pitavastatin or pravastatin for 12 weeks (Table 7).
 Non-inferiority of pitavastatin to a given dose of pravastatin was assumed if the lower bound of the 95% CI for the treatment difference was greater than -6% for the mean percent change in LDL-C.
 
 Lipid results are shown in Table 7.
@@ -101,7 +101,7 @@ Table 8 Response by Dose of Pitavastatin and Simvastatin in Patients with Primar
 Active-controlled study with atorvastatin in patients with type II diabetes mellitus (NK-104-305)
 
 Pitavastatin was compared with the HMG-CoA reductase inhibitor atorvastatin in a randomized, multicenter, double-blind, double-dummy, parallel group, active-controlled, non-inferiority Phase 3 study of 410 subjects with type II diabetes mellitus and combined dyslipidemia.
-Patients entered a 6 to 8 week washout/dietary lead-in period and were randomized to a once daily dose of pitavastatin or atorvastatin for 12 weeks.
+Patients entered a 6 to 8 week wash-out/dietary lead-in period and were randomized to a once daily dose of pitavastatin or atorvastatin for 12 weeks.
 Non-inferiority of pitavastatin was considered to be demonstrated if the lower bound of the 95% CI for the mean treatment difference was greater than -6% for the mean percent change in LDL-C.
 
 Lipid results are shown in Table 9.
@@ -118,7 +118,7 @@ Table 9 Response by Dose of Pitavastatin and Atorvastatin in Patients with Type 
 | Atorvastatin 40 mg daily | -----------------------------------Not Studied------------------------------------------ |  |  |  |  |  |  |
 | Atorvastatin 80 mg daily | -----------------------------------Not Studied------------------------------------------ |  |  |  |  |  |  |
 
-The treatment differences in efficacy in LDL-C change from baseline between Pitavastatin and active controls in the Phase 3 studies are summarized in Figure 1.
+The treatment differences in efficacy in LDL-C change from baseline between pitavastatin and active controls in the Phase 3 studies are summarized in Figure 1.
 
 Figure 1 Treatment Difference in Adjusted Mean Percent Change in LDL-C
 

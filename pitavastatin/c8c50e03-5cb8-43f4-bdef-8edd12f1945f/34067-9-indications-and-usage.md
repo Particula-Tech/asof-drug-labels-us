@@ -5,7 +5,7 @@ Lipid-altering agents should be used in addition to a diet restricted in saturat
 
 ## 1.1 Primary Hyperlipidemia and Mixed Dyslipidemia
 
-ZYPITAMAG is indicated as an adjunctive therapy to diet to reduce elevated total cholesterol (TC), low-density lipoprotein cholesterol (LDL-C), apolipoprotein B (Apo B), triglycerides (TG), and to increase HDL-C in adult patients with primary hyperlipidemia or mixed dyslipidemia.
+ZYPITAMAG™ is indicated as an adjunctive therapy to diet to reduce elevated total cholesterol (TC), low-density lipoprotein cholesterol (LDL-C), apolipoprotein B (Apo B), triglycerides (TG), and to increase HDL-C in adult patients with primary hyperlipidemia or mixed dyslipidemia.
 
 ## 1.2 Limitations of Use
 
