@@ -1,12 +1,6 @@
 # CONTRAINDICATIONS
 
-## Pregnancy
-
-### Teratogenic Effects
-
-Category X
-
-See Boxed CONTRAINDICATIONS AND WARNINGS.
+Pregnancy: Category X. See Boxed CONTRAINDICATIONS AND WARNINGS.
 
 ## Allergic Reactions
 

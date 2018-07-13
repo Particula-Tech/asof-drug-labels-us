@@ -1,7 +1,5 @@
 1054 1055 1056 1057
 
-Rx only
-
 CAUSES BIRTH
 
 DEFECTS
@@ -19,10 +17,10 @@ Monthly Required iPLEDGE Interactions
 | --- | --- | --- |
 | PRESCRIBER |  |  |
 | Confirms patient counseling | X | X |
-| Enters the two contraception methods chosen by the patient | X |  |
+| Enters the 2 contraception methods chosen by the patient | X |  |
 | Enters pregnancy test results | X |  |
 | PATIENT |  |  |
 | Answers educational questions before every prescription | X |  |
-| Enters two forms of contraception | X |  |
+| Enters 2 methods of contraception | X |  |
 | PHARMACIST |  |  |
 | Contacts system to get an authorization | X | X |

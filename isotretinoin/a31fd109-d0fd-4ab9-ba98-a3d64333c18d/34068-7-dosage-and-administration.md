@@ -17,7 +17,7 @@ After a period of 2 months or more off therapy, and if warranted by persistent o
 The optimal interval before retreatment has not been defined for patients who have not completed skeletal growth.
 Long-term use of Claravis, even in low doses, has not been studied, and is not recommended.
 It is important that Claravis be given at the recommended doses for no longer than the recommended duration.
-The effect of long-term use of Claravis on bone loss is unknown (see WARNINGS, Skeletal, Bone Mineral Density, Hyperostosis and Premature Epiphyseal Closure).
+The effect of long-term use of Claravis on bone loss is unknown (see WARNINGS, Skeletal, Bone Mineral Density, Hyperostosis, and Premature Epiphyseal Closure).
 
 Contraceptive measures must be followed for any subsequent course of therapy (see PRECAUTIONS).
 
@@ -26,7 +26,7 @@ Claravis Dosing by Body Weight (Based on Administration With Food)
 
 | Body Weight |  | Total mg/day |  |  |
 | --- | --- | --- | --- | --- |
-| kilograms | pounds | 0.5 mg/kg | 1 mg/kg | 2 mg/kgSee DOSAGE AND ADMINISTRATION: the recommended dosage range is 0.5 to 1 mg/kg/day. |
+| kilograms | pounds | 0.5 mg/kg | 1 mg/kg | 2 mg/kg* |
 | 40 | 88 | 20 | 40 | 80 |
 | 50 | 110 | 25 | 50 | 100 |
 | 60 | 132 | 30 | 60 | 120 |

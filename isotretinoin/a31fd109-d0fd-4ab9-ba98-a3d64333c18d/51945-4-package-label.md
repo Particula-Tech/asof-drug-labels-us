@@ -2,9 +2,11 @@
 
 # Package/Label Display Panel, Part 2 of 2
 
-## Claravis (isotretinoin capsules USP) 10 mg, 3 Blister Packs of 10 Capsules Each Carton Text
+## Claravis (isotretinoin capsules USP) 10 mg 30s Carton Text
 
-1. Rx only NDC 0555-1054-86
+Rx only
+
+NDC 0555-1054-86
 
 ClaravisTM
 
@@ -22,35 +24,33 @@ of 10 Capsules Each (30 Capsules)
 
 TEVA
 
-Reminders for Pharmacists:
+CONTRAINDICATED IN PREGNANCY
 
-- •Dispense isotretinoin only for registered patients after obtaining
-- authorization from the IPLEDGE program by calling 1-866-495-0654
-- or visiting www.ipledgeprogram.com
-- •Write Risk Management Authorization number on the prescription.
-- •Dispense no more than a 30-day supply.
-  No refills.
-- •Dispense Prescription Packs intact.
-- •Do not dispense after the “Do not dispense to Patient After” date.
-- •A Medication Guide is included in each Prescription Pack.
+PHARMACIST: DISPENSE PRESCRIPTION BLISTER PACKS INTACT.
 
-CAUSES BIRTH DEFECTS
+Blister pack complies with child-resistant packaging requirements.
 
-DO NOT GET PREGNANT
+Usual Dosage: See package brochure and other important prescribing information.
+
+Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
+
+TEVA PHARMACEUTICALS USA, Inc., North Wales, Pa 19454
 
 # Package/Label Display Panel, Part 1 of 2
 
 # Package/Label Display Panel, Part 2 of 2
 
-## Claravis (isotretinoin capsules USP) 20 mg, 3 Blister Packs of 10 Capsules Each Carton Text
+## Claravis (isotretinoin capsules USP) 20 mg 30s Carton Text
 
-1. Rx only NDC 0555-1055-86
+Rx only
+
+NDC 0555-1055-86
 
 ClaravisTM
 
 (isotretinoin capsules USP)
 
-Each capsule contains 10 mg isotretinoin, USP
+Each capsule contains 20 mg isotretinoin, USP
 
 20 mg
 
@@ -62,35 +62,33 @@ of 10 Capsules Each (30 Capsules)
 
 TEVA
 
-Reminders for Pharmacists:
+CONTRAINDICATED IN PREGNANCY
 
-- •Dispense isotretinoin only for registered patients after obtaining
-- authorization from the IPLEDGE program by calling 1-866-495-0654
-- or visiting www.ipledgeprogram.com
-- •Write Risk Management Authorization number on the prescription.
-- •Dispense no more than a 30-day supply.
-  No refills.
-- •Dispense Prescription Packs intact.
-- •Do not dispense after the “Do not dispense to Patient After” date.
-- •A Medication Guide is included in each Prescription Pack.
+PHARMACIST: DISPENSE PRESCRIPTION BLISTER PACKS INTACT.
 
-CAUSES BIRTH DEFECTS
+Blister pack complies with child-resistant packaging requirements.
 
-DO NOT GET PREGNANT
+Usual Dosage: See package brochure and other important prescribing information.
+
+Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
+
+TEVA PHARMACEUTICALS USA, Inc., North Wales, Pa 19454
 
 # Package/Label Display Panel, Part 1 of 2
 
 # Package/Label Display Panel, Part 2 of 2
 
-## Claravis (isotretinoin capsules USP) 30 mg, 3 Blister Packs of 10 Capsules Each Carton Text
+## Claravis (isotretinoin capsules USP) 30 mg 30s Carton Text
 
-1. Rx only NDC 0555-1056-86
+Rx only
+
+NDC 0555-1056-86
 
 ClaravisTM
 
 (isotretinoin capsules USP)
 
-Each capsule contains 10 mg isotretinoin, USP
+Each capsule contains 30 mg isotretinoin, USP
 
 30 mg
 
@@ -102,35 +100,33 @@ of 10 Capsules Each (30 Capsules)
 
 TEVA
 
-Reminders for Pharmacists:
+CONTRAINDICATED IN PREGNANCY
 
-- •Dispense isotretinoin only for registered patients after obtaining
-- authorization from the IPLEDGE program by calling 1-866-495-0654
-- or visiting www.ipledgeprogram.com
-- •Write Risk Management Authorization number on the prescription.
-- •Dispense no more than a 30-day supply.
-  No refills.
-- •Dispense Prescription Packs intact.
-- •Do not dispense after the “Do not dispense to Patient After” date.
-- •A Medication Guide is included in each Prescription Pack.
+PHARMACIST: DISPENSE PRESCRIPTION BLISTER PACKS INTACT.
 
-CAUSES BIRTH DEFECTS
+Blister pack complies with child-resistant packaging requirements.
 
-DO NOT GET PREGNANT
+Usual Dosage: See package brochure and other important prescribing information.
+
+Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
+
+TEVA PHARMACEUTICALS USA, Inc., North Wales, Pa 19454
 
 # Package/Label Display Panel, Part 1 of 2
 
 # Package/Label Display Panel, Part 2 of 2
 
-## Claravis (isotretinoin capsules USP) 40 mg, 3 Blister Packs of 10 Capsules Each Carton Text
+## Claravis (isotretinoin capsules USP) 40 mg 30s Carton Text
 
-1. Rx only NDC 0555-1057-86
+Rx only
+
+NDC 0555-1057-86
 
 ClaravisTM
 
 (isotretinoin capsules USP)
 
-Each capsule contains 10 mg isotretinoin, USP
+Each capsule contains 40 mg isotretinoin, USP
 
 40 mg
 
@@ -142,18 +138,14 @@ of 10 Capsules Each (30 Capsules)
 
 TEVA
 
-Reminders for Pharmacists:
+CONTRAINDICATED IN PREGNANCY
 
-- •Dispense isotretinoin only for registered patients after obtaining
-- authorization from the IPLEDGE program by calling 1-866-495-0654
-- or visiting www.ipledgeprogram.com
-- •Write Risk Management Authorization number on the prescription.
-- •Dispense no more than a 30-day supply.
-  No refills.
-- •Dispense Prescription Packs intact.
-- •Do not dispense after the “Do not dispense to Patient After” date.
-- •A Medication Guide is included in each Prescription Pack.
+PHARMACIST: DISPENSE PRESCRIPTION BLISTER PACKS INTACT.
 
-CAUSES BIRTH DEFECTS
+Blister pack complies with child-resistant packaging requirements.
 
-DO NOT GET PREGNANT
+Usual Dosage: See package brochure and other important prescribing information.
+
+Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
+
+TEVA PHARMACEUTICALS USA, Inc., North Wales, Pa 19454
