@@ -14,10 +14,10 @@ Absorption: Cetirizine was rapidly absorbed with a time to maximum concentration
 Comparable bioavailability was found between the tablet and oral solution dosage forms.
 When healthy volunteers were administered multiple doses of cetirizine (10 mg tablets once daily for 10 days), a mean peak plasma concentration (Cmax) of 311 ng/mL was observed.
 No accumulation was observed.
-Cetirizine pharmacokinetics were linear for oral doses ranging from 5 to 60 mg.
+Cetirizine pharmacokinetics were linear for oral doses ranging from 5 mg to 60 mg.
 Food had no effect on the extent of cetirizine hydrochloride exposure (AUC) but Tmax was delayed by 1.7 hours and Cmax was decreased by 23% in the presence of food.
 
-Distribution: The mean plasma protein binding of cetirizine is 93%, independent of concentration in the range of 25 to 1000 ng/mL, which includes the therapeutic plasma levels observed.
+Distribution: The mean plasma protein binding of cetirizine is 93%, independent of concentration in the range of 25 ng/mL to 1000 ng/mL, which includes the therapeutic plasma levels observed.
 
 Metabolism: A mass balance study in 6 healthy male volunteers indicated that 70% of the administered radioactivity was recovered in the urine and 10% in the feces.
 Approximately 50% of the radioactivity was identified in the urine as unchanged drug.
@@ -37,7 +37,7 @@ The disposition of theophylline was not altered by concomitant cetirizine admini
 Special Populations
 
 Pediatric Patients: In pediatric patients aged 2 to 5 years who received 5 mg of cetirizine hydrochloride, the mean Cmax was 660 ng/mL.
-Based on cross-study comparisons, the weight-normalized apparent total body clearance was 81 to 111% greater and the elimination half-life was 33 to 41% shorter in this pediatric population than in adults.
+Based on cross-study comparisons, the weight-normalized apparent total body clearance was 81% to 111% greater and the elimination half-life was 33% to 41% shorter in this pediatric population than in adults.
 In pediatric patients aged 6 to 23 months who received a single dose of 0.25 mg/kg cetirizine hydrochloride oral solution (mean dose 2.3 mg), the mean Cmax was 390 ng/mL.
 Based on cross-study comparisons, the weight-normalized, apparent total body clearance was 304% greater and the elimination half-life was 63% shorter in this pediatric population compared to adults.
 The average AUC(0-t) in children 6 months to <2 years of age receiving the maximum dose of cetirizine hydrochloride oral solution (2.5 mg twice a day) is expected to be two-fold higher than that observed in adults receiving a dose of 10 mg cetirizine hydrochloride tablets once a day.
@@ -46,13 +46,13 @@ Effect of Gender: The effect of gender on cetirizine hydrochloride pharmacokinet
 
 Effect of Race: No race-related differences in the kinetics of cetirizine hydrochloride have been observed.
 
-Pharmacodynamics: Cetirizine hydrochloride at doses of 5 and 10 mg strongly inhibited the wheal and flare caused by intradermal injection of histamine in 19 pediatric volunteers (aged 5 to 12 years) and the activity persisted for at least 24 hours.
+Pharmacodynamics: Cetirizine hydrochloride at doses of 5 and 10 mg strongly inhibited the wheal and flare caused by the intradermal injection of histamine in 19 pediatric volunteers (aged 5 to 12 years) and the activity persisted for at least 24 hours.
 In a 35-day study in children aged 5 to 12, no tolerance to the antihistaminic (suppression of wheal and flare response) effects of cetirizine hydrochloride was found.
 In 10 infants 7 to 25 months of age who received 4 to 9 days of cetirizine hydrochloride in an oral solution (0.25 mg/kg bid), there was a 90% inhibition of histamine-induced (10 mg/mL) cutaneous wheal and 87% inhibition of the flare 12 hours after administration of the last dose.
 The clinical relevance of this suppression of histamine-induced wheal and flare response on skin testing is unknown.
 
 The effects of intradermal injection of various other mediators or histamine releasers were also inhibited by cetirizine hydrochloride, as was response to a cold challenge in patients with cold-induced urticaria.
-In mildly asthmatic subjects, cetirizine hydrochloride at 5 to 20 mg blocked bronchoconstriction due to nebulized histamine, with virtually total blockade after a 20-mg dose.
+In mildly asthmatic subjects, cetirizine hydrochloride at 5 mg to 20 mg blocked bronchoconstriction due to nebulized histamine, with virtually total blockade after a 20-mg dose.
 In studies conducted for up to 12 hours following cutaneous antigen challenge, the late phase recruitment of eosinophils, neutrophils and basophils, components of the allergic inflammatory response, was inhibited by cetirizine hydrochloride at a dose of 20 mg.
 
 In four clinical studies in healthy adult males, no clinically significant mean increases in QTc were observed in cetirizine hydrochloride treated subjects.
@@ -77,9 +77,9 @@ In a six-week, placebo-controlled study of 186 patients (aged 12 to 64 years) wi
 In a two-week, placebo-controlled clinical trial, a subset analysis of 65 pediatric (aged 6 to 11 years) allergic rhinitis patients with asthma showed cetirizine hydrochloride did not alter pulmonary function.
 These studies support the safety of administering cetirizine hydrochloride to pediatric and adult allergic rhinitis patients with mild to moderate asthma.
 
-Clinical Studies: Multicenter, randomized, double-blind, clinical trials comparing cetirizine hydrochloride 5 to 20 mg to placebo in patients 12 years and older with perennial allergic rhinitis were conducted in the United States.
+Clinical Studies: Multicenter, randomized, double-blind, clinical trials comparing cetirizine hydrochloride 5 mg to 20 mg to placebo in patients 12 years and older with perennial allergic rhinitis were conducted in the United States.
 Two of these showed significant reductions in symptoms of perennial allergic rhinitis for up to 8 weeks in duration.
-Two 4-week multicenter, randomized, double-blind, clinical trials comparing cetirizine 5 to 20 mg to placebo in patients with chronic idiopathic urticaria were also conducted and showed significant improvement in symptoms of chronic idiopathic urticaria.
+Two 4-week multicenter, randomized, double-blind, clinical trials comparing cetirizine 5 mg to 20 mg to placebo in patients with chronic idiopathic urticaria were also conducted and showed significant improvement in symptoms of chronic idiopathic urticaria.
 In general, the 10-mg dose was more effective than the 5-mg dose and the 20-mg dose gave no added effect.
 Some of these trials included pediatric patients aged 12 to 16 years.
 In addition, four multicenter, randomized, placebo-controlled, double-blind 2 to 4 week trials in 534 pediatric patients aged 6 to 11 years with seasonal allergic rhinitis were conducted in the United States at doses up to 10 mg.

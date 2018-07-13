@@ -9,11 +9,11 @@ A placebo-controlled trial 18 months in duration included 399 patients aged 12 t
 The majority of adverse reactions reported in pediatric patients aged 2 to 11 years with cetirizine hydrochloride were mild or moderate.
 In placebo-controlled trials, the incidence of discontinuations due to adverse reactions in pediatric patients receiving up to 10 mg of cetirizine hydrochloride was uncommon (0.4% on cetirizine hydrochloride vs. 1.0% on placebo).
 
-Table 1 lists adverse experiences which were reported for cetirizine hydrochloride 5 and 10 mg in pediatric patients aged 6 to 11 years in placebo-controlled clinical trials in the United States and were more common with cetirizine hydrochloride than placebo.
+Table 1 list adverse experiences which were reported for cetirizine hydrochloride 5 and 10 mg in pediatric patients aged 6 to 11 years in placebo-controlled clinical trials in the United States and were more common with cetirizine hydrochloride than placebo.
 Of these, abdominal pain was considered treatment-related and somnolence appeared to be dose-related, 1.3% in placebo, 1.9% at 5 mg and 4.2% at 10 mg.
 The adverse experiences reported in pediatric patients aged 2 to 5 years in placebo-controlled trials were qualitatively similar in nature and generally similar in frequency to those reported in trials with children aged 6 to 11 years.
 
-In the placebo-controlled trials of pediatric patients 6 to 24 months of age, the incidences of adverse experiences, were similar in the cetirizine and placebo treatment groups in each study.
+In the placebo-controlled trials of pediatric patients 6 to 24 months of age, the incidences of adverse experiences were similar in the cetirizine and placebo treatment groups in each study.
 Somnolence occurred with essentially the same frequency in patients who received cetirizine hydrochloride and patients who received placebo.
 In a study of 1 week duration in children 6 to 11 months of age, patients who received cetirizine exhibited greater irritability/fussiness than patients on placebo.
 In a study of 18 months duration in patients 12 months and older, insomnia occurred more frequently in patients who received cetirizine compared to patients who received placebo (9.0% v. 5.3%).
@@ -79,6 +79,6 @@ Hepatitis with significant transaminase elevation and elevated bilirubin in asso
 
 ## Post-Marketing Experience
 
-In the post-marketing experience period, the following additional rare, but potentially severe adverse events have been reported: aggressive reaction, anaphylaxis, cholestasis, convulsions, glomerulonephritis, hallucinations, hemolytic anemia, hepatitis, orofacial dyskinesia, severe hypotension, stillbirth, suicidal ideation, suicide, thrombocytopenia and acute generalized exanthematous pustulosis (AGEP).
+From post-marketing experience, the following additional rare, but potentially severe adverse events have been reported: anaphylaxis, cholestasis, glomerulonephritis, hemolytic anemia, hepatitis, orofacial dyskinesia, severe hypotension, stillbirth, thrombocytopenia, aggressive reaction, convulsions, acute generalized exanthematous pustulosis (AGEP) and rebound pruritus-pruritus within a few days after discontinuation of cetirizine, usually after long-term use (e.g., months to years) of cetirizine.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Amneal Pharmaceuticals at 1-877-835-5472 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch..
+To report SUSPECTED ADVERSE REACTIONS, contact Amneal Pharmaceuticals at 1-877-835-5472 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

@@ -2,7 +2,7 @@
 
 Cetirizine hydrochloride oral solution can be taken without regard to food consumption.
 
-Children 2 to 5 years for Chronic Urticaria: The recommended initial dose of cetirizine hydrochloride oral solution in children aged 2 to 5 years is 2.5 mg (½ teaspoonful) once daily.
+Children 2 to 5 Years for Chronic Urticaria: The recommended initial dose of cetirizine hydrochloride oral solution in children aged 2 to 5 years is 2.5 mg (½ teaspoonful) once daily.
 The dosage in this age group can be increased to a maximum dose of 5 mg per day given as 1 teaspoonful (5 mg) once daily, or as ½ teaspoonful (2.5 mg) given every 12 hours.
 
 Children 6 months to <2 years for Perennial Allergic Rhinitis and Chronic Urticaria: The recommended dose of cetirizine hydrochloride oral solution in children 6 months to 23 months of age is 2.5 mg (½ teaspoonful) once daily.
