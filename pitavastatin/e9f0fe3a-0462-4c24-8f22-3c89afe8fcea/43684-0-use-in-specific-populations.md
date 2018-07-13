@@ -40,7 +40,7 @@ In perinatal/postnatal studies in pregnant rats given oral gavage doses of pitav
 
 Risk Summary
 
-ZYPITAMAG is contraindicated during breastfeeding [see Contraindications (4.4)].
+ZYPITAMAG is contraindicated during breastfeeding [see Contraindications (4)].
 There is no information about the presence of pitavastatin in human milk, the effects of the drug on the breastfed infant or the effects of the drug on milk production.
 However, it has been shown that another drug in this class passes into human milk.
 Because of the potential for serious adverse reactions in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with ZYPITAMAG.
