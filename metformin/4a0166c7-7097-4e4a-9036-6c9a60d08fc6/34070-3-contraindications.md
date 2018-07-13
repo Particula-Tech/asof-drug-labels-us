@@ -1,10 +1,9 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
 GLUCOPHAGE and GLUCOPHAGE XR are contraindicated in patients with:
 
-1.Severe renal impairment (eGFR below 30 mL/min/1.73 m2) (see WARNINGS and PRECAUTIONS).
+- Severe renal impairment (eGFR below 30 mL/min/1.73 m2) [see Warnings and Precautions (5.1)].
 
-2.Known hypersensitivity to metformin hydrochloride.
+- Hypersensitivity to metformin.
 
-3.Acute or chronic metabolic acidosis, including diabetic ketoacidosis, with or without coma.
-Diabetic ketoacidosis should be treated with insulin.
+- Acute or chronic metabolic acidosis, including diabetic ketoacidosis, with or without coma.
