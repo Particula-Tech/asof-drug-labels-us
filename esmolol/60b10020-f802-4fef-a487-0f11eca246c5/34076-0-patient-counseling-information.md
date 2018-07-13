@@ -14,4 +14,4 @@ Paramus, NJ 07652
 
 Made in Switzerland
 
-Revised: April 2016
+Revised: January 2018

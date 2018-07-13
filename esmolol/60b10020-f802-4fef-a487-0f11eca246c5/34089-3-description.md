@@ -21,7 +21,7 @@ Esmolol Hydrochloride Formulations
 |  | Esmolol Hydrochloride | Esmolol Hydrochloride DOUBLE STRENGTH |
 | --- | --- | --- |
 | Esmolol Hydrochloride | 10 mg/mL | 20 mg/mL |
-| Ethanol | 1.23 % v/v | 1.23 % v/v |
+| Ethanol | 1% v/v | 1% v/v |
 | Propylene Glycol | 10 mg/mL | 10 mg/mL |
 | Water for Injection, USP | Q.S. to volume of 250 mL | Q.S. to volume of 100 mL |
 | Sodium Acetate Trihydrate, USP | 0.68 mg/mL | 0.68 mg/mL |
