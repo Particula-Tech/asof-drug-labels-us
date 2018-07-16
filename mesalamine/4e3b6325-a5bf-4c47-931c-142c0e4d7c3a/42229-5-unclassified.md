@@ -3,4 +3,4 @@ By license of Nogra Pharma Limited, Dublin, Ireland.
 
 U.S. Patent No. 6,773,720.
 
-© 2017 Shire US Inc.
+© 2018 Shire US Inc.

@@ -8,7 +8,7 @@ It is recommended that patients have an evaluation of renal function prior to in
 Exercise caution when using mesalamine delayed-release tablets in patients with known renal dysfunction or a history of renal disease.
 
 In animal studies, the kidney was the principal organ for toxicity.
-[See Drug Interactions (7.1) and Nonclinical Toxicology (13.2)]
+[See Drug Interactions (7.1) and Nonclinical Toxicology (13.2).]
 
 ## 5.2 Mesalamine-Induced Acute Intolerance Syndrome
 
@@ -34,7 +34,11 @@ Caution should be exercised when administering mesalamine delayed-release tablet
 
 Pyloric stenosis or other organic or functional obstruction in the upper gastrointestinal tract may cause prolonged gastric retention of mesalamine delayed-release tablets which would delay mesalamine release in the colon.
 
-## 5.6 Interference with Laboratory Tests
+## 5.6 Photosensitivity
+
+Patients with pre-existing skin conditions such as atopic dermatitis and atopic eczema have reported more severe photosensitivity reactions.
+
+## 5.7 Interference with Laboratory Tests
 
 Use of mesalamine may lead to spuriously elevated test results when measuring urinary normetanephrine by liquid chromatography with electrochemical detection because of the similarity in the chromatograms of normetanephrine and mesalamine's main metabolite, N-acetylaminosalicylic acid (N-Ac-5-ASA).
 An alternative, selective assay for normetanephrine should be considered.

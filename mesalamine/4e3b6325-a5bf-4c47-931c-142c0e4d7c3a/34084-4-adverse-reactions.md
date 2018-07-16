@@ -87,7 +87,7 @@ The following adverse reactions, presented by body system, were reported infrequ
 
 Cardiac Disorder: tachycardia
 
-Skin and Subcutaneous Tissue Disorders: acne, alopecia, pruritis, urticaria
+Skin and Subcutaneous Tissue Disorders: acne, alopecia, pruritus, urticaria
 
 Gastrointestinal Disorders: colitis, flatulence, nausea, pancreatitis, rectal polyp, vomiting
 
@@ -124,6 +124,6 @@ Renal Disorders: interstitial nephritis, nephrogenic diabetes insipidus
 
 Respiratory, Thoracic and Mediastinal Disorders: interstitial lung disease, hypersensitivity pneumonitis (including interstitial pneumonitis, allergic alveolitis, eosinophilic pneumonitis)
 
-Skin: psoriasis, pyoderma gangrenosum, erythema nodosum
+Skin: psoriasis, pyoderma gangrenosum, erythema nodosum, photosensitivity
 
 Urogenital: reversible oligospermia

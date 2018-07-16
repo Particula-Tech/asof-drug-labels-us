@@ -16,7 +16,7 @@ Caution should be exercised if mesalamine delayed-release tablets are administer
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of mesalamine delayed-release tablets in pediatric patients has not been established.
+Safety and effectiveness of mesalamine delayed-release tablets in pediatric patients have not been established.
 
 ## 8.5 Geriatric Use
 
@@ -25,6 +25,5 @@ Caution should be taken to closely monitor blood cell counts during mesalamine t
 
 Clinical trials of mesalamine delayed-release tablets did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger patients.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
-Systemic exposures are increased in elderly subjects.
-[see Clinical Pharmacology (12.3)].
+Systemic exposures are increased in elderly subjects [see Clinical Pharmacology (12.3)].
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concurrent disease or other drug therapy in elderly patients.
