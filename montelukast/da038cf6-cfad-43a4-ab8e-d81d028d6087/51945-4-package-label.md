@@ -1,11 +1,17 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-Montelukast Sodium Chewable Tablets 4 mg
+Montelukast Sodium Chewable Tablets USP 4 mg(Indrad)
+
+Montelukast Sodium Chewable Tablets USP 4 mg(Dahej)
 
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-Montelukast Sodium Chewable Tablets 5 mg
+Montelukast Sodium Chewable Tablets USP 5 mg (Indrad)
+
+Montelukast Sodium Chewable Tablets USP 5 mg (Dahej)
 
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-Montelukast Sodium Tablets 10 mg
+Montelukast Sodium Tablets USP 10 mg (Indrad)
+
+Montelukast Sodium Tablets USP 10 mg (Dahej)

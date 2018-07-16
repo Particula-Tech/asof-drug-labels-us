@@ -17,14 +17,17 @@ Information for Patients
 
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., Indrad-382 721, Dist.
-Mehsana, INDIA.
+TORRENT PHARMACEUTICALS LTD., Indrad-382 721, INDIA.
 
-For:
+Or
 
-TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
+TORRENT PHARMACEUTICALS LTD., Bharuch-392130, INDIA.
 
-8055056 Revised May 2015
+Manufactured for:
+
+TORRENT PHARMA INC., Basking Ridge, NJ 07920.
+
+8060165 Revised April 2016
 
 Patient Information
 
@@ -209,11 +212,14 @@ People with Phenylketonuria: Montelukast sodium 4-mg chewable tablets contain 0.
 
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., Indrad-382 721, Dist.
-Mehsana, INDIA.
+TORRENT PHARMACEUTICALS LTD., Indrad-382 721, INDIA.
 
-For:
+Or
 
-TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
+TORRENT PHARMACEUTICALS LTD., Bharuch-392130, INDIA.
 
-8055057 Revised May 2015
+Manufactured for:
+
+TORRENT PHARMA INC., Basking Ridge, NJ 07920.
+
+8060166 Revised April 2016
