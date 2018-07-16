@@ -17,9 +17,12 @@ Ask your doctor or pharmacist for a list of these medications if you are not sur
 See the end of this leaflet for a complete list of ingredients in minocycline hydrochloride capsules.
 Minocycline hydrochloride capsules are not recommended for pregnant women or children up to 8 years old because:
 
-1. Minocycline hydrochloride capsules may harm an unborn baby
-2. Minocycline hydrochloride capsules may permanently turn a baby's or child's teeth yellow-gray-brown during tooth development.
-   Tooth development happens in the last half of pregnancy and birth to age 8 years.
+1.
+Minocycline hydrochloride capsules may harm an unborn baby
+
+2.
+Minocycline hydrochloride capsules may permanently turn a baby's or child's teeth yellow-gray-brown during tooth development.
+Tooth development happens in the last half of pregnancy and birth to age 8 years.
 
 What should I tell my doctor before starting minocycline hydrochloride capsules?
 Tell your doctor about all of your medical conditions, including if you:
@@ -111,4 +114,6 @@ Active ingredient: minocycline hydrochloride USP, 50 mg, 75 mg and 100 mg Inacti
 The empty hard gelatin capsule shells contain titanium dioxide, sodium lauryl sulfate, and gelatin.
 In addition, the 50 mg capsule shells contain FD&C Red #3, D&C Red #33, and FD&C Yellow #6; the 75 mg capsule shells contain black iron oxide; and the 100 mg capsule shells contain FD&C Blue #1, D&C Red #28, FD&C Red #40, and red iron oxide.
 The capsules are printed with edible ink containing shellac, dehydrated alcohol, isopropyl alcohol, butyl alcohol, propylene glycol, strong ammonia solution, black iron oxide, and potassium hydroxide.
-Distributed by: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 038, India Revised: 08/2017
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520
+
+Manufactured by: Aurobindo Pharma Limited Hyderabad–500 038, India Revised: 07/2018
