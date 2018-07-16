@@ -4,7 +4,8 @@ The following serious adverse reactions are discussed in greater detail in other
 
 - Neurologic [see Boxed Warning, Warnings and Precautions (5.1)]
 - Hematologic [see Warnings and Precautions (5.2)]
-- Hyperuricemia [see Warnings and Precautions (5.4)]
+- Tumor Lysis Syndrome [see Warnings and Precautions (5.4)]
+- Effects on Ability to Drive and Use Machines [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -16,7 +17,7 @@ Adults: The safety profile of ARRANON is based on data from 103 adult patients t
 
 The most common adverse reactions in adults, regardless of causality, were fatigue; gastrointestinal (GI) disorders (nausea, diarrhea, vomiting, and constipation); hematologic disorders (anemia, neutropenia, and thrombocytopenia); respiratory disorders (cough and dyspnea); nervous system disorders (somnolence and dizziness); and pyrexia.
 
-The most common adverse reactions in adults, by System Organ Class, regardless of causality, including severe or life-threatening adverse reactions (NCI Common Toxicity Criteria Grade 3 or Grade 4) and fatal adverse reactions (Grade 5) are shown in Table 1.
+The most common adverse reactions in adults, by Body System, regardless of causality, including severe or life-threatening adverse reactions (NCI CTCAE Grade 3 or Grade 4) and fatal adverse reactions (Grade 5) are shown in Table 1.
 
 Table 1.
 Most Commonly Reported (≥5% Overall) Adverse Reactions Regardless of Causality in Adult Patients Treated with 1,500 mg/m2 of ARRANON Administered Intravenously over 2 Hours on Days 1, 3, and 5 Repeated Every 21 Days
@@ -24,8 +25,8 @@ Most Commonly Reported (≥5% Overall) Adverse Reactions Regardless of Causality
 |  | Percentage of Patients (N = 103) |  |  |
 | --- | --- | --- | --- |
 |  | Toxicity Grade |  |  |
-| System Organ Class | Grade 3 | Grade 4 and 5a | All Grades |
-| Preferred Term | % | % | % |
+| Body System | Grade 3 | Grade 4 and 5a | All Grades |
+| Adverse Reaction | % | % | % |
 | Blood and Lymphatic System Disorders |  |  |  |
 | Anemia | 20 | 14 | 99 |
 | Thrombocytopenia | 37 | 22 | 86 |
@@ -87,20 +88,20 @@ Most Commonly Reported (≥5% Overall) Adverse Reactions Regardless of Causality
 a Five patients had a fatal adverse reaction.
 Fatal adverse reactions included hypotension (n = 1), respiratory arrest (n = 1), pleural effusion/pneumothorax (n = 1), pneumonia (n = 1), and cerebral hemorrhage/coma/leukoencephalopathy (n = 1).
 
-Other Adverse Events: Blurred vision was also reported in 4% of adult patients.
+Other Adverse Reactions: Blurred vision was also reported in 4% of adult patients.
 
 There was a single report of biopsy-confirmed progressive multifocal leukoencephalopathy in the adult patient population.
 
 Neurologic Adverse Reactions: Nervous system adverse reactions, regardless of drug relationship, were reported for 76% of adult patients across the Phase I and Phase II trials.
-The most common neurologic adverse reactions (≥2%) in adult patients, regardless of causality, including all grades (NCI Common Toxicity Criteria) are shown in Table 2.
+The most common neurologic adverse reactions (≥ 2%) in adult patients, regardless of causality, including all grades (NCI CTCAE) are shown in Table 2.
 
 Table 2.
-Neurologic Adverse Reactions (≥2%) Regardless of Causality in Adult Patients Treated with 1,500 mg/m2 of ARRANON Administered Intravenously over 2 Hours on Days 1, 3, and 5 Repeated Every 21 Days
+Neurologic Adverse Reactions (≥ 2%) Regardless of Causality in Adult Patients Treated with 1,500 mg/m2 of ARRANON Administered Intravenously over 2 Hours on Days 1, 3, and 5 Repeated Every 21 Days
 
 |  | Percentage of Patients (N =103) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Nervous System Disorders | Grade 1 | Grade 2 | Grade 3 | Grade 4 | All Grades |
-| Preferred Term | % | % | % | % | % |
+| Adverse Reaction | % | % | % | % | % |
 | Somnolence | 20 | 3 | 0 | 0 | 23 |
 | Dizziness | 14 | 8 | 0 | 0 | 21 |
 | Peripheral neurologic disorders, any adverse reaction | 8 | 12 | 2 | 0 | 21 |
@@ -132,16 +133,16 @@ Pediatrics: The safety profile for children is based on data from 84 pediatric p
 The most common adverse reactions in pediatric patients, regardless of causality, were hematologic disorders (anemia, leukopenia, neutropenia, and thrombocytopenia).
 Of the non-hematologic adverse reactions in pediatric patients, the most frequent adverse reactions reported were headache, increased transaminase levels, decreased blood potassium, decreased blood albumin, increased blood bilirubin, and vomiting.
 
-The most common adverse reactions in pediatric patients, by System Organ Class, regardless of causality, including severe or life threatening adverse reactions (NCI Common Toxicity Criteria Grade 3 or Grade 4) and fatal adverse reactions (Grade 5) are shown in Table 3.
+The most common adverse reactions in pediatric patients, by System Organ Class, regardless of causality, including severe or life threatening adverse reactions (NCI CTCAE Grade 3 or Grade 4) and fatal adverse reactions (Grade 5) are shown in Table 3.
 
 Table 3.
-Most Commonly Reported (≥5% Overall) Adverse Reactions Regardless of Causality in Pediatric Patients Treated with 650 mg/m2 of ARRANON Administered Intravenously over 1 Hour Daily for 5 Consecutive Days Repeated Every 21 Days
+Most Commonly Reported (≥ 5% Overall) Adverse Reactions Regardless of Causality in Pediatric Patients Treated with 650 mg/m2 of ARRANON Administered Intravenously over 1 Hour Daily for 5 Consecutive Days Repeated Every 21 Days
 
 |  | Percentage of Patients (N = 84) |  |  |
 | --- | --- | --- | --- |
 |  | Toxicity Grade |  |  |
-| System Organ Class | Grade 3 | Grade 4 and 5a | All Grades |
-| Preferred Term | % | % | % |
+| Body System | Grade 3 | Grade 4 and 5a | All Grades |
+| Adverse Reaction | % | % | % |
 | Blood and Lymphatic System Disorders |  |  |  |
 | Anemia | 45 | 10 | 95 |
 | Neutropenia | 17 | 62 | 94 |
@@ -169,15 +170,15 @@ a Three patients had a fatal adverse reaction.
 Fatal adverse reactions included neutropenia and pyrexia (n = 1), status epilepticus/seizure (n = 1), and fungal pneumonia (n = 1).
 
 Neurologic Adverse Reactions: Nervous system adverse reactions, regardless of drug relationship, were reported for 42% of pediatric patients across the Phase I and Phase II trials.
-The most common neurologic adverse reactions (≥2%) in pediatric patients, regardless of causality, including all grades (NCI Common Toxicity Criteria) are shown in Table 4.
+The most common neurologic adverse reactions (≥ 2%) in pediatric patients, regardless of causality, including all grades (NCI CTCAE) are shown in Table 4.
 
 Table 4.
-Neurologic Adverse Reactions (≥2%) Regardless of Causality in Pediatric Patients Treated with 650 mg/m2 of ARRANON Administered Intravenously over 1 Hour Daily for 5 Consecutive Days Repeated Every 21 Days
+Neurologic Adverse Reactions (≥ 2%) Regardless of Causality in Pediatric Patients Treated with 650 mg/m2 of ARRANON Administered Intravenously over 1 Hour Daily for 5 Consecutive Days Repeated Every 21 Days
 
 |  | Percentage of Patients (N = 84) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Nervous System Disorders | Grade 1 | Grade 2 | Grade 3 | Grade 4 and 5a | All Grades |
-| Preferred Term | % | % | % | % | % |
+| Adverse Reaction | % | % | % | % | % |
 | Headache | 8 | 2 | 4 | 2 | 17 |
 | Peripheral neurologic disorders, any adverse reaction | 1 | 4 | 7 | 0 | 12 |
 | Peripheral neuropathy | 0 | 4 | 2 | 0 | 6 |

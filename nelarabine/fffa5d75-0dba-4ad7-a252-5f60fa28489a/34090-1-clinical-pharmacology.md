@@ -22,7 +22,7 @@ Distribution: Nelarabine and ara-G are extensively distributed throughout the bo
 For nelarabine, VSS values were 197 ± 216 L/m2 in adult patients.
 For ara-G, VSS/F values were 50 ± 24 L/m2 in adult patients.
 
-Nelarabine and ara-G are not substantially bound to human plasma proteins (<25%) in vitro, and binding is independent of nelarabine or ara-G concentrations up to 600 μM.
+Nelarabine and ara-G are not substantially bound to human plasma proteins (< 25%) in vitro, and binding is independent of nelarabine or ara-G concentrations up to 600 μM.
 
 Metabolism: The principal route of metabolism for nelarabine is O-demethylation by adenosine deaminase to form ara-G, which undergoes hydrolysis to form guanine.
 In addition, some nelarabine is hydrolyzed to form methylguanine, which is O-demethylated to form guanine.
@@ -44,7 +44,7 @@ For ara-G, VSS/F values were 33 ± 9.3 L/m2 in pediatric patients.
 Nelarabine and ara-G are rapidly eliminated from plasma in pediatric patients, with a half-life of 13 minutes and 2 hours, respectively.
 
 Effect of Age: Age has no effect on the pharmacokinetics of nelarabine or ara-G in adults.
-Decreased renal function, which is more common in the elderly, may reduce ara-G clearance [see Use in Specific Populations (8.5).
+Decreased renal function, which is more common in the elderly, may reduce ara-G clearance [see Use in Specific Populations (8.5)].
 
 Effect of Gender: Gender has no effect on nelarabine or ara-G pharmacokinetics.
 
@@ -55,7 +55,7 @@ No differences in safety or effectiveness were observed between these groups.
 Effect of Renal Impairment: The pharmacokinetics of nelarabine and ara-G have not been specifically studied in renally impaired or hemodialyzed patients.
 Nelarabine is excreted by the kidney to a small extent (5% to 10% of the administered dose).
 Ara-G is excreted by the kidney to a greater extent (20% to 30% of the administered nelarabine dose).
-In the combined Phase I trials, patients were categorized into 3 groups: normal with CLcr >80 mL/min (n = 67), mild with CLcr = 50 to 80 mL/min (n = 15), and moderate with CLcr <50 mL/min (n = 3).
+In the combined Phase I trials, patients were categorized into 3 groups: normal with CLCr greater than 80 mL/min (n = 67), mild with CLCr = 50 to 80 mL/min (n = 15), and moderate with CLCr less than 50 mL/min (n = 3).
 The mean apparent clearance (CL/F) of ara-G was about 15% and 40% lower in patients with mild and moderate renal impairment, respectively, than in patients with normal renal function [see Use in Specific Populations (8.6), Dosage and Administration (2.3)].
 No differences in safety or effectiveness were observed.
 

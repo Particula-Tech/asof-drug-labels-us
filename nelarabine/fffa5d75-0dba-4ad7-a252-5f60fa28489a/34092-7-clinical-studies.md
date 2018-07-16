@@ -1,22 +1,20 @@
 # 14 CLINICAL STUDIES
 
-The safety and efficacy of ARRANON were evaluated in two open-label, single-arm, multicenter trials.
-
 ## 14.1 Adult Clinical Trial
 
 The safety and efficacy of ARRANON in adult patients were studied in a clinical trial which included 39 treated patients, 28 who had T-cell acute lymphoblastic leukemia (T-ALL) or T-cell lymphoblastic lymphoma (T-LBL) that had relapsed following or was refractory to at least two prior induction regimens.
 A 1,500-mg/m2 dose of ARRANON was administered intravenously over 2 hours on Days 1, 3, and 5 repeated every 21 days.
 Patients who experienced signs or symptoms of Grade 2 or greater neurologic toxicity on therapy were to be discontinued from further therapy with ARRANON.
 Seventeen patients had a diagnosis of T-ALL and 11 had a diagnosis of T-LBL.
-For patients with ≥2 prior inductions, the age range was 16 to 65 years (mean: 34 years) and most patients were male (82%) and Caucasian (61%).
+For patients with ≥ 2 prior inductions, the age range was 16 to 65 years (mean: 34 years) and most patients were male (82%) and Caucasian (61%).
 Patients with central nervous system (CNS) disease were not eligible.
 
-Complete response (CR) in this trial was defined as bone marrow blast counts ≤5%, no other evidence of disease, and full recovery of peripheral blood counts.
+Complete response (CR) in this trial was defined as bone marrow blast counts ≤ 5%, no other evidence of disease, and full recovery of peripheral blood counts.
 Complete response without complete hematologic recovery (CR*) was also assessed.
-The results of the trial for patients who had received ≥2 prior inductions are shown in Table 5.
+The results of the trial for patients who had received ≥ 2 prior inductions are shown in Table 5.
 
 Table 5.
-Efficacy Results in Adult Patients with ≥2 Prior Inductions Treated with 1,500 mg/m2 of ARRANON Administered Intravenously over 2 Hours on Days 1, 3, and 5 Repeated Every 21 Days
+Efficacy Results in Adult Patients with ≥ 2 Prior Inductions Treated with 1,500 mg/m2 of ARRANON Administered Intravenously over 2 Hours on Days 1, 3, and 5 Repeated Every 21 Days
 
 |  | N = 28 |
 | --- | --- |
@@ -29,6 +27,8 @@ Efficacy Results in Adult Patients with ≥2 Prior Inductions Treated with 1,500
 CR = Complete response.
 
 CR* = Complete response without hematologic recovery.
+
+CI = Confidence Interval
 
 a Does not include 1 patient who was transplanted (duration of response was 156+ weeks).
 
@@ -53,13 +53,13 @@ Pediatric Clinical Trial - Patient Allocation
 The 84 patients ranged in age from 2.5 to 21.7 years (overall mean: 11.9 years), 52% were 3 to 12 years of age and most were male (74%) and Caucasian (62%).
 The majority (77%) of patients had a diagnosis of T-ALL.
 
-Complete response (CR) in this trial was defined as bone marrow blast counts ≤5%, no other evidence of disease, and full recovery of peripheral blood counts.
-Complete response without full hematologic recovery (CR*) was also assessed as a meaningful outcome in this heavily pretreated population.
+Complete response (CR) in this trial was defined as bone marrow blast counts ≤ 5%, no other evidence of disease, and full recovery of peripheral blood counts.
+Complete response without full hematologic recovery (CR*) was also assessed as a meaningful outcome in this trial.
 Duration of response is reported from date of response to date of relapse, and may include subsequent stem cell transplant.
 Efficacy results are presented in Table 7.
 
 Table 7.
-Efficacy Results in Patients Aged 21 Years and Younger at Diagnosis with ≥2 Prior Inductions Treated with 650 mg/m2 of ARRANON Administered Intravenously over 1 Hour Daily for 5 Consecutive Days Repeated Every 21 Days
+Efficacy Results in Patients Aged 21 Years and Younger at Diagnosis with ≥ 2 Prior Inductions Treated with 650 mg/m2 of ARRANON Administered Intravenously over 1 Hour Daily for 5 Consecutive Days Repeated Every 21 Days
 
 |  | N = 39 |
 | --- | --- |
@@ -72,6 +72,8 @@ Efficacy Results in Patients Aged 21 Years and Younger at Diagnosis with ≥2 Pr
 CR = Complete response.
 
 CR* = Complete response without hematologic recovery.
+
+CI = Confidence Interval
 
 a Does not include 5 patients who were transplanted or had subsequent systemic chemotherapy (duration of response in these 5 patients was 4.7 to 42.1 weeks).
 

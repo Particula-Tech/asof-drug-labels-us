@@ -15,15 +15,14 @@ ARRANON is administered undiluted.
 
 ## 2.2 Dosage Modification
 
-Administration of ARRANON should be discontinued for neurologic adverse reactions of NCI Common Toxicity Criteria Grade 2 or greater.
-Dosage may be delayed for other toxicity including hematologic toxicity.
-[See Boxed Warning, Warnings and Precautions (5.1, 5.2).]
+Discontinue ARRANON if the patient develops a neurologic adverse reaction of NCI CTCAE Grade 2 or greater.
+Dosage may be delayed for other toxicity including hematologic toxicity [see Boxed Warning, Warnings and Precautions (5.1, 5.2)].
 
 ## 2.3 Adjustment of Dose in Special Populations
 
 ARRANON has not been studied in patients with renal or hepatic dysfunction [see Use in Specific Populations (8.6, 8.7)].
-No dose adjustment is recommended for patients with a creatinine clearance (CLcr) ≥50 mL/min [see Clinical Pharmacology (12.3)].
-There are insufficient data to support a dose recommendation for patients with a CLcr <50 mL/min.
+No dose adjustment is recommended for patients with a creatinine clearance (CLCr) greater than or equal to 50 mL/min [see Clinical Pharmacology (12.3)].
+There are insufficient data to support a dose recommendation for patients with a CLCr less than 50 mL/min.
 
 ## 2.4 Prevention of Hyperuricemia
 
@@ -42,4 +41,4 @@ The appropriate dose of ARRANON is transferred into polyvinylchloride (PVC) infu
 
 Prior to administration, inspect the drug product visually for particulate matter and discoloration.
 
-Stability: ARRANON Injection is stable in polyvinylchloride (PVC) infusion bags and glass containers for up to 8 hours at up to 30º C.
+Stability: ARRANON Injection is stable in polyvinylchloride (PVC) infusion bags and glass containers for up to 8 hours at up to 30ºC.

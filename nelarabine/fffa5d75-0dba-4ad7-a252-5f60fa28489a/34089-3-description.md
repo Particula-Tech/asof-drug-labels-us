@@ -6,9 +6,9 @@ The chemical name for nelarabine is 2-amino-9-β-D-arabinofuranosyl-6-methoxy-9H
 It has the molecular formula C11H15N5O5 and a molecular weight of 297.27.
 Nelarabine has the following structural formula:
 
-Nelarabine is slightly soluble to soluble in water and melts with decomposition between 209º and 217º C.
+Nelarabine is slightly soluble to soluble in water and melts with decomposition between 209ºC and 217ºC.
 
-ARRANON Injection is supplied as a clear, colorless, sterile solution in glass vials.
+ARRANON Injection is supplied as a clear, colorless, sterile solution in glass single-dose vials.
 Each vial contains 250 mg of nelarabine (5 mg nelarabine per mL) and the inactive ingredient sodium chloride (4.5 mg per mL) in 50 mL Water for Injection, USP.
 ARRANON is intended for intravenous infusion.
 

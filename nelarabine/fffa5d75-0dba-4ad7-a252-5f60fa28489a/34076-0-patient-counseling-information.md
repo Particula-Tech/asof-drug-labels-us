@@ -2,23 +2,51 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
-Patient labeling is provided as a tear-off leaflet at the end of this full prescribing information.
+Patient labeling is provided at the end of this full prescribing information.
 However, inform the patients of the following:
 
-- Since patients receiving nelarabine therapy may experience somnolence, they should be cautioned about operating hazardous machinery, including automobiles.
-- Patients should be instructed to contact their physician if they experience new or worsening symptoms of peripheral neuropathy (see Boxed Warning, Warnings and Precautions (5.1), Dosage and Administration (2.3)].
+Hematologic Adverse Reactions
+
+- Advise patients that leukopenia, thrombocytopenia, anemia, and neutropenia, including febrile neutropenia, have been associated with ARRANON.
+- Advise patients that complete blood counts, including platelets, will be monitored regularly during treatment [see Warnings and Precautions (5.2), Adverse Reactions (6.1)].
+
+Embryo-Fetal Toxicity
+
+- Advise pregnant females of reproductive potential and males with female partners of reproductive potential of the potential risk to the fetus.
+  Advise females of reproductive potential to use effective contraception during treatment with ARRANON.
+  Instruct females to inform their physician of a known or suspected pregnancy.
+- Advise male patients with partners of reproductive potential to use condoms during treatment with ARRANON and for 3 months after the last dose [see Warnings and Precautions (5.3), Use in Specific Populations (8.1, 8.3)].
+
+Tumor Lysis Syndrome
+
+- Advise patients of the risk of tumor lysis syndrome [see Warnings and Precautions (5.4), Adverse Reactions (6.1)].
+
+Vaccinations
+
+- Instruct patients not to receive live vaccines during treatment with ARRANON [see Warnings and Precautions (5.5), Adverse Reactions (6.1)].
+
+Effects on Ability to Drive and Use Machines
+
+- Patients receiving ARRANON may experience somnolence during and for several days after treatment.
+  Instruct patients to not drive or or engage in hazardous occupations or activities until somnolence has resolved [see Warnings and Precautions (5.6), Adverse Reactions (6.1)].
+
+Neurologic Adverse Reactions
+
+- Instruct patients to contact their physician if they experience new or worsening symptoms of peripheral neuropathy [see Boxed Warning, Dosage and Administration (2.3), Warnings and Precautions (5.1), Adverse Reactions (6.1)].
   These signs and symptoms include: tingling or numbness in fingers, hands, toes, or feet; difficulty with the fine motor coordination tasks such as buttoning clothing; unsteadiness while walking; weakness arising from a low chair; weakness in climbing stairs; increased tripping while walking over uneven surfaces.
-- Patients should be instructed that seizures have been known to occur in patients who receive nelarabine.
-  If a seizure occurs, the physician administering ARRANON should be promptly informed.
-- Patients who develop fever or signs of infection while on therapy should notify their physician promptly.
-- Patients should be advised to use effective contraceptive measures to prevent pregnancy and to avoid breastfeeding during treatment with ARRANON.
+- Advise patients of the risk of seizures [see Adverse Reactions (6.1)].
+  If a seizure occurs, instruct patients to promptly notify the physician administering ARRANON.
+
+Infection
+
+- Instruct patients to promptly notify their physician if they develop fever or signs of infection while on therapy [see Adverse Reactions (6.1, 6.2)].
+
+Lactation
+
+- Advise women not to breastfeed during treatment with ARRANON [see Use in Specific Populations (8.2)].
 
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
 © Novartis
 
-T2015-67 June 2015
-
-PHARMACIST-DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT
-
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+T2018-100

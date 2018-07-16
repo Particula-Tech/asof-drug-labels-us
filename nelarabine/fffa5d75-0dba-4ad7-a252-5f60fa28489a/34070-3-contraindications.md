@@ -1,3 +1,3 @@
 # 4CONTRAINDICATIONS
 
-None.
+None
