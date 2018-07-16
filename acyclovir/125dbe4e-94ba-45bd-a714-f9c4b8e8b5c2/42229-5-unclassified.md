@@ -6,9 +6,8 @@ By: Valeant Pharmaceuticals International, Inc.
 
 Laval, Quebec H7L 4A8, Canada
 
-ZOVIRAX is a registered trademark of the GlaxoSmithKline group of companies and used under license by Valeant.
+Zovirax is a trademark of GlaxoSmithKline LLC used under license.
 
-©Valeant Pharmaceuticals North America LLC
+© Valeant Pharmaceuticals North America LLC
 
-Rev.
-01/2017 9462201 20000875B
+9462202

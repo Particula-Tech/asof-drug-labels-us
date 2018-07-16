@@ -10,4 +10,6 @@ Each gram contains: 50 mg acyclovir, cetostearyl alcohol, mineral oil, poloxamer
 USE ONLY FOR COLD SORES.
 FOR CUTANEOUS USE ONLY.
 
+Ortho Dermatologics
+
 Rx only
