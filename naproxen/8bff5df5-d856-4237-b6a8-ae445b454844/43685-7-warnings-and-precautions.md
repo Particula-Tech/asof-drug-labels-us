@@ -230,7 +230,7 @@ Patients simultaneously receiving naproxen and a hydantoin, sulphonamide or sulp
 
 Probenecid given concurrently increases naproxen anion plasma levels and extends its plasma half-life significantly.
 
-Due to the gastric pH elevating effects of H 2-blockers, sucralfate and intensive antacid therapy, concomitant administration of EC-NAPROSYN is not recommended.
+Due to the gastric pH elevating effects of H2-blockers, sucralfate and intensive antacid therapy, concomitant administration of EC-NAPROSYN is not recommended.
 
 ## Drug/Laboratory Test Interaction
 
@@ -244,7 +244,7 @@ Naproxen may interfere with some urinary assays of 5-hydroxy indoleacetic acid (
 
 ## Carcinogenesis
 
-A 2-year study was performed in rats to evaluate the carcinogenic potential of naproxen at rat doses of 8, 16, and 24 mg/kg/day (50, 100, and 150 mg/m 2).
+A 2-year study was performed in rats to evaluate the carcinogenic potential of naproxen at rat doses of 8, 16, and 24 mg/kg/day (50, 100, and 150 mg/m2).
 The maximum dose used was 0.28 times the systemic exposure to humans at the recommended dose.
 No evidence of tumorigenicity was found.
 
@@ -254,7 +254,7 @@ Teratogenic Effects
 
 Pregnancy Category C
 
-Reproduction studies have been performed in rats at 20 mg/kg/day (125 mg/m 2/day, 0.23 times the human systemic exposure), rabbits at 20 mg/kg/day (220 mg/m 2/day, 0.27 times the human systemic exposure), and mice at 170 mg/kg/day (510 mg/m 2/day, 0.28 times the human systemic exposure) with no evidence of impaired fertility or harm to the fetus due to the drug.
+Reproduction studies have been performed in rats at 20 mg/kg/day (125 mg/m2/day, 0.23 times the human systemic exposure), rabbits at 20 mg/kg/day (220 mg/m2/day, 0.27 times the human systemic exposure), and mice at 170 mg/kg/day (510 mg/m2/day, 0.28 times the human systemic exposure) with no evidence of impaired fertility or harm to the fetus due to the drug.
 However, animal reproduction studies are not always predictive of human response.
 There are no adequate and well-controlled studies in pregnant women.
 NAPROSYN, EC-NAPROSYN, ANAPROX, ANAPROX DS and NAPROSYN Suspension should be used in pregnancy only if the potential benefit justifies the potential risk to the fetus.

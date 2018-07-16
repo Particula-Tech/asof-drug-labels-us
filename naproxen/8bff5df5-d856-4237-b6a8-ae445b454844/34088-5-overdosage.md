@@ -9,7 +9,7 @@ Anaphylactoid reactions have been reported with therapeutic ingestion of NSAIDs,
 Because naproxen sodium may be rapidly absorbed, high and early blood levels should be anticipated.
 A few patients have experienced convulsions, but it is not clear whether or not these were drug-related.
 It is not known what dose of the drug would be life threatening.
-The oral LD 50 of the drug is 543 mg/kg in rats, 1234 mg/kg in mice, 4110 mg/kg in hamsters, and greater than 1000 mg/kg in dogs.
+The oral LD50 of the drug is 543 mg/kg in rats, 1234 mg/kg in mice, 4110 mg/kg in hamsters, and greater than 1000 mg/kg in dogs.
 
 ## Treatment
 

@@ -111,24 +111,24 @@ NSAID medicines that need a prescription
 
 | Generic Name | Tradename |
 | --- | --- |
-| Celecoxib | Celebrex ® |
-| Diclofenac | Cataflam ®, Voltaren ®, Arthrotec™ (combined with misoprostol) |
-| Diflunisal | Dolobid ® |
-| Etodolac | Lodine ®, Lodine ®XL |
-| Fenoprofen | Nalfon ®, Nalfon ®200 |
-| Flurbirofen | Ansaid ® |
-| Ibuprofen | Motrin ®, Tab-Profen ®, Vicoprofen ®* (combined with hydrocodone), Combunox™ (combined with oxycodone) |
-| Indomethacin | Indocin ®, Indocin ®SR, Indo-Lemmon™, Indomethagan™ |
-| Ketoprofen | Oruvail ® |
-| Ketorolac | Toradol ® |
-| Mefenamic Acid | Ponstel ® |
-| Meloxicam | Mobic ® |
-| Nabumetone | Relafen ® |
-| Naproxen | Naprosyn ®, Anaprox ®, Anaprox ®DS, EC-Naprosyn ®, Naprelan ®, Naprapac ® (copackaged with lansoprazole) |
-| Oxaprozin | Daypro ® |
-| Piroxicam | Feldene ® |
-| Sulindac | Clinoril ® |
-| Tolmetin | Tolectin ®, Tolectin DS ®, Tolectin ®600 |
+| Celecoxib | Celebrex® |
+| Diclofenac | Cataflam®, Voltaren®, Arthrotec™ (combined with misoprostol) |
+| Diflunisal | Dolobid® |
+| Etodolac | Lodine®, Lodine®XL |
+| Fenoprofen | Nalfon®, Nalfon®200 |
+| Flurbirofen | Ansaid® |
+| Ibuprofen | Motrin®, Tab-Profen®, Vicoprofen®* (combined with hydrocodone), Combunox™ (combined with oxycodone) |
+| Indomethacin | Indocin®, Indocin®SR, Indo-Lemmon™, Indomethagan™ |
+| Ketoprofen | Oruvail® |
+| Ketorolac | Toradol® |
+| Mefenamic Acid | Ponstel® |
+| Meloxicam | Mobic® |
+| Nabumetone | Relafen® |
+| Naproxen | Naprosyn®, Anaprox®, Anaprox®DS, EC-Naprosyn®, Naprelan®, Naprapac® (copackaged with lansoprazole) |
+| Oxaprozin | Daypro® |
+| Piroxicam | Feldene® |
+| Sulindac | Clinoril® |
+| Tolmetin | Tolectin®, Tolectin DS®, Tolectin®600 |
 
 *Vicoprofen contains the same dose of ibuprofen as over-the-counter (OTC) NSAID, and is usually used for less than 10 days to treat pain.
 The OTC NSAID label warns that long term continuous use may increase the risk of heart attack or stroke.
