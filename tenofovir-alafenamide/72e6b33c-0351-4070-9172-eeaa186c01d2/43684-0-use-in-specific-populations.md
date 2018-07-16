@@ -9,7 +9,7 @@ Healthcare providers are encouraged to register patients by calling the Antiretr
 
 Risk Summary
 
-There are no human data on the use of VEMLIDY in pregnant women to inform a drug-associated risks of adverse fetal developmental outcome.
+There are no human data on the use of VEMLIDY in pregnant women to inform a drug-associated risk of adverse fetal developmental outcome.
 In animal studies, no adverse developmental effects were observed when tenofovir alafenamide was administered during the period of organogenesis at exposure equal to or 51 times (rats and rabbits, respectively) the tenofovir alafenamide exposure at the recommended daily dose of VEMLIDY [see Data].
 No adverse effects were observed in the offspring when TDF (tenofovir disoproxil fumarate) was administered through lactation at tenofovir exposures of approximately 12 times the exposure at the recommended daily dosage of VEMLIDY.
 

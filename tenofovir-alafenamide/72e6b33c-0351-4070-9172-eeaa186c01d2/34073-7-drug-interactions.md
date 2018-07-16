@@ -15,19 +15,18 @@ Some examples of drugs that are eliminated by active tubular secretion include, 
 ## 7.3 Established and Other Potentially Significant Interactions
 
 Table 4 provides a listing of established or potentially clinically significant drug interactions.
-The drug interactions described are based on studies conducted with tenofovir alafenamide or are predicted drug interactions that may occur with VEMLIDY.
-[For magnitude of interaction, see Clinical Pharmacology (12.3)].
+The drug interactions described are based on studies conducted with tenofovir alafenamide or are predicted drug interactions that may occur with VEMLIDY [For magnitude of interaction, see Clinical Pharmacology (12.3)].
 Information regarding potential drug-drug interactions with HIV antiretrovirals is not provided (see the prescribing information for emtricitabine/tenofovir alafenamide for interactions with HIV antiretrovirals).
 The table includes potentially significant interactions but is not all inclusive.
 
-Table 4 Established and Other Potentially Significant Drug Interactions This table is not all inclusive.
+Table 4 Established and Other Potentially Significant Drug InteractionsThis table is not all inclusive.
 
-| Concomitant Drug Class: Drug Name | Effect on Concentration ↓ = decrease. | Clinical Comment |
+| Concomitant Drug Class: Drug Name | Effect on Concentration↓ = decrease. | Clinical Comment |
 | --- | --- | --- |
-| Anticonvulsants: carbamazepine Indicates that a drug interaction study was conducted.P-gp inducer oxcarbazepine phenobarbital phenytoin | ↓ tenofovir alafenamide | When coadministered with carbamazepine, the tenofovir alafenamide dose should be increased to two tablets once daily. Coadministration of VEMLIDY with oxcarbazepine, phenobarbital, or phenytoin is not recommended. |
+| Anticonvulsants: carbamazepineIndicates that a drug interaction study was conducted.P-gp inducer oxcarbazepine phenobarbital phenytoin | ↓ tenofovir alafenamide | When coadministered with carbamazepine, the tenofovir alafenamide dose should be increased to two tablets once daily. Coadministration of VEMLIDY with oxcarbazepine, phenobarbital, or phenytoin is not recommended. |
 | Antimycobacterial: Rifabutin Rifampin Rifapentine | ↓ tenofovir alafenamide | Coadministration of VEMLIDY with rifabutin, rifampin or rifapentine is not recommended. |
-| Herbal Products: St. John's wort (Hypericum perforatum) | ↓ tenofovir alafenamide | Coadministration of VEMLIDY with St. John's wort is not recommended. |
+| Herbal Products: St. John's wort(Hypericum perforatum) | ↓ tenofovir alafenamide | Coadministration of VEMLIDY with St. John's wort is not recommended. |
 
 ## 7.4 Drugs without Clinically Significant Interactions with VEMLIDY
 
-Based on drug interaction studies conducted with VEMLIDY, no clinically significant drug interactions have been observed with: ethinyl estradiol, itraconazole, ketoconazole, ledipasvir/sofosbuvir, midazolam, norgestimate, sertraline, and sofosbuvir.
+Based on drug interaction studies conducted with VEMLIDY, no clinically significant drug interactions have been observed with: ethinyl estradiol, sofosbuvir, sofosbuvir/velpatasvir, ledipasvir/sofosbuvir, midazolam, norgestimate, sertraline, and sofosbuvir/velpatasvir/voxilaprevir.

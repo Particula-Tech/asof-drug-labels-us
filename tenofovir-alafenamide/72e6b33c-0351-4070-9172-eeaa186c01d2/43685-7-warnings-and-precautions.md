@@ -18,7 +18,8 @@ In clinical trials of VEMLIDY, there have been no cases of Fanconi syndrome or P
 
 Patients taking tenofovir prodrugs who have impaired renal function and those taking nephrotoxic agents, including non-steroidal anti-inflammatory drugs, are at increased risk of developing renal-related adverse reactions [see Drug Interactions (7.2)].
 
-It is recommended that serum creatinine, serum phosphorous, estimated creatinine clearance, urine glucose, and urine protein be assessed before initiating VEMLIDY and during therapy in all patients as clinically appropriate.
+Prior to or when initiating VEMLIDY, and during treatment with VEMLIDY on a clinically appropriate schedule, assess serum creatinine, estimated creatinine clearance, urine glucose, and urine protein in all patients.
+In patients with chronic kidney disease, also assess serum phosphorus.
 Discontinue VEMLIDY in patients who develop clinically significant decreases in renal function or evidence of Fanconi syndrome.
 
 ## 5.4 Lactic Acidosis/Severe Hepatomegaly with Steatosis
