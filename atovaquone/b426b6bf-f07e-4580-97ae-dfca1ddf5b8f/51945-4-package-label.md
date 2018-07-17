@@ -2,11 +2,9 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0665-18
 
-MEPRON®
+MEPRON
 
-(atovaquone)
-
-SUSPENSION
+(atovaquone oral suspension)
 
 750mg/5mL
 
@@ -25,26 +23,22 @@ Dispense in a tight container as defined in USP.
 
 SHAKE GENTLY BEFORE USING.
 
-Do not use if shrinkband on bottle is broken or missing.
-
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
 Made in Canada
 
-1. A135317 Rev.
-   6/15
+1. A019644 Rev.
+   3/18
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0547-00
 
-MEPRON®
+MEPRON
 
-(atovaquone)
-
-SUSPENSION
+(atovaquone oral suspension)
 
 750 mg/ 5mL
 
@@ -61,7 +55,7 @@ Rx only
 
 Contains 42 sachets of 5 mL each
 
-©2015, the GSK group of companies
+©2018 the GSK group of companies or its licensor.
 
-1. A137261 Rev.
-   9/15
+1. A019639 Rev.
+   2/18
