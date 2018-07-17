@@ -115,7 +115,7 @@ Table 12: Efficacy Results in Double-Blind, Placebo-Controlled, Add-On Epilepsy 
 
 | Protocol Efficacy Results | Placebo | Target topiramate Dosage (mg/day) |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 200 | 400 | 600 | 800 | 1000 | 6 mg/kg/day* |  |  |
+| 200 | 400 | 600 | 800 | 1,000 | 6 mg/kg/day* |  |  |
 | Partial Onset Seizures Studies in Adults |  |  |  |  |  |  |  |
 | 1 N | 45 | 45 | 45 | 46 | -- | -- | -- |
 | Median % Reduction | 12 | 27a | 48b | 45c | -- | -- | -- |
