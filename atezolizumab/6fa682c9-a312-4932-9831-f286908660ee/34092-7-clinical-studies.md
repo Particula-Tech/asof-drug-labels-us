@@ -14,12 +14,18 @@ Major efficacy outcome measures included confirmed overall response rate (ORR) a
 In this study, the median age was 73 years, 81% were male, and 91% were White.
 Thirty-five percent of patients had non-bladder urothelial carcinoma and 66% had visceral metastases.
 Eighty percent of patients had an ECOG PS of 0 or 1.
-Reasons for ineligibility for cisplatin-containing chemotherapy were: 70% had impaired renal function, 20% had an ECOG PS of 2, 14% had a hearing loss of ≥ 25db, and 6% had Grade 2-4 peripheral neuropathy at baseline.
+Reasons for ineligibility for cisplatin-containing chemotherapy were: 70% had impaired renal function, 20% had an ECOG PS of 2, 14% had a hearing loss of ≥ 25dB, and 6% had Grade 2-4 peripheral neuropathy at baseline.
 Twenty percent of patients had disease progression following prior platinum-containing neoadjuvant or adjuvant chemotherapy.
 
 Tumor specimens were evaluated prospectively using the VENTANA PD-L1 (SP142) Assay at a central laboratory, and the results were used to define subgroups for pre-specified analyses.
 Of the 119 patients, 27% were classified as having PD-L1 expression of ≥ 5% (defined as PD-L1 stained tumor-infiltrating immune cells [IC] covering ≥ 5% of the tumor area).
 The remaining 73% of patients were classified as having PD-L1 expression of < 5% (PD-L1 stained tumor-infiltrating IC covering < 5% of the tumor area).
+
+Among the 32 patients with PD-L1 expression of ≥ 5%, median age was 67 years, 81% were male, 19% female, and 88% were White.
+Twenty-eight percent of patients had non-bladder urothelial carcinoma and 56% had visceral metastases.
+Seventy-two percent of patients had an ECOG PS of 0 or 1.
+Reasons for ineligibility for cisplatin-containing chemotherapy were: 66% had impaired renal function, 28% had an ECOG PS of 2, 16% had a hearing loss ≥ 25 dB, and 9% had Grade 2-4 peripheral neuropathy at baseline.
+Thirty-one percent of patients had disease progression following prior platinum-containing neoadjuvant or adjuvant chemotherapy.
 
 Confirmed ORR in all patients and the two PD-L1 subgroups are summarized in Table 8.
 The median follow-up time for this study was 14.4 months.
@@ -27,7 +33,7 @@ In 24 patients with disease progression following neoadjuvant or adjuvant therap
 
 Table 8: Efficacy Results in IMvigor210 (Cohort 1)
 
-|  | N=119 | PD-L1 Expression of < 5% in ICsPD-L1 expression in tumor-infiltrating immune cells (ICs) (N=87) | PD-L1 Expression of ≥ 5% in ICs (N=32) |
+| N=119 | PD-L1 Expression of < 5% in ICsPD-L1 expression in tumor-infiltrating immune cells (ICs) (N=87) | PD-L1 Expression of ≥ 5% in ICs (N=32) |  |
 | --- | --- | --- | --- |
 |  | All Patients | PD-L1 Expression Subgroups |  |
 | Number of IRF-assessed Confirmed Responders | 28 | 19 | 9 |
@@ -36,6 +42,13 @@ Table 8: Efficacy Results in IMvigor210 (Cohort 1)
 | Partial Response (PR) (%) | 16.8% | 14.9% | 21.9% |
 | Median DoR, months (range) | NR (3.7, 16.6+) | NR (3.7, 16.6+) | NR (8.1, 15.6+) |
 | NR = Not reached + Denotes a censored value |  |  |  |
+
+IMvigor130 (NCT02807636) is an ongoing multicenter, randomized study in previously untreated patients with metastatic urothelial carcinoma who are eligible for platinum-containing chemotherapy.
+The study contains three arms: TECENTRIQ monotherapy, TECENTRIQ with platinum-based chemotherapy (i.e., cisplatin or carboplatin with gemcitabine), and platinum-based chemotherapy alone (comparator).
+Both cisplatin-eligible and cisplatin-ineligible patients are included in the study.
+Tumor specimens were evaluated prospectively using the VENTANA PD-L1 (SP142) Assay at a central laboratory.
+The independent Data Monitoring Committee (iDMC) for the study conducted a review of early data and found that patients classified as having PD-L1 expression of <5% when treated with TECENTRIQ monotherapy had decreased survival compared to those who received platinum-based chemotherapy.
+The iDMC recommended closure of the monotherapy arm to further accrual of patients with low PD-L1 expression, however, no other changes were recommended for the study, including any change of therapy for patients who had already been randomized to and were receiving treatment in the monotherapy arm.
 
 Previously Treated Patients with Locally Advanced or Metastatic Urothelial Carcinoma
 
@@ -56,9 +69,9 @@ Tumor specimens were evaluated prospectively using the VENTANA PD-L1 (SP142) Ass
 Of the 310 patients, 32% were classified as having PD-L1 expression of ≥ 5%.
 The remaining 68% of patients were classified as having PD-L1 expression of < 5%.
 
-Confirmed ORR in all patients and the two PD-L1 subgroups are summarized in Table 9.
-The median follow-up time for this study was 14.4 months.
-In 59 patients with disease progression following neoadjuvant or adjuvant therapy, the ORR was 22% (95% CI: 12%, 35%).
+Confirmed ORR and median DOR in all patients and the two PD-L1 subgroups are summarized in Table 9.
+The median follow-up time for this study was 32.9 months.
+In 59 patients with disease progression following neoadjuvant or adjuvant therapy, the ORR was 22.0% (95% CI: 12.3%, 34.7%).
 
 Table 9: Efficacy Results in IMvigor210 (Cohort 2)
 
@@ -66,11 +79,11 @@ Table 9: Efficacy Results in IMvigor210 (Cohort 2)
 | --- | --- | --- | --- |
 |  | All Patients | PD-L1 Expression Subgroups |  |
 | Number of IRF-assessed Confirmed Responders | 46 | 20 | 26 |
-| ORR % (95% CI) | 14.8% (11.1, 19.3) | 9.5% (5.9, 14.3) | 26% (17.7, 35.7) |
-| Complete Response (CR) (%) | 5.5% | 2.4% | 12% |
-| Partial Response (PR) (%) | 9.4% | 7.1% | 14% |
-| Median DOR, months (range) | NR (2.1+, 13.8+) | 12.7 (2.1+, 12.7) | NR (4.2, 13.8+) |
-| NR = Not reached + Denotes a censored value |  |  |  |
+| ORR % (95% CI) | 14.8% (11.2, 19.3) | 9.5% (5.9, 14.3) | 26% (17.7, 35.7) |
+| Complete Response (CR) (%) | 5.5% | 2.4% | 12.0% |
+| Partial Response (PR) (%) | 9.4% | 7.1% | 14.0% |
+| Median DOR, months (range) | 27.7 (2.1+, 33.4+) | 20.9 (2.1+, 33.4+) | 29.7 (4.2, 31.2+) |
+| + Denotes a censored value |  |  |  |
 
 ## 14.2 Metastatic Non-Small Cell Lung Cancer
 
@@ -109,7 +122,7 @@ Table 10: Efficacy Results in OAK
 | Hazard ratio (95% CI) | 0.95 (0.82, 1.10) |  |
 | Overall Response Rate Per RECIST v1.1 (Response Evaluation Criteria in Solid Tumors v1.1) |  |  |
 | Number of Patients | N=425 | N=425 |
-| ORR n(%) | 58 (14%) | 57 (13%) |
+| ORR, n (%) | 58 (14%) | 57 (13%) |
 | (95% CI) | (11%, 17%) | (10%, 17%) |
 | Complete response | 6 (1%) | 1 (0.2%) |
 | Partial response | 52 (12%) | 56 (13%) |

@@ -34,7 +34,7 @@ Five patients (4.2%) who were treated with TECENTRIQ experienced one of the foll
 One additional patient (0.8%) was experiencing herpetic meningoencephalitis and disease progression at the time of death.
 TECENTRIQ was discontinued for adverse reactions in 4.2% of patients.
 The adverse reactions leading to discontinuation were diarrhea/colitis (1.7%), fatigue (0.8%), hypersensitivity (0.8%), and dyspnea (0.8%).
-Adverse reactions leading to interruption occurred in 35% of patients;the most common (≥ 1%) were intestinal obstruction, fatigue, diarrhea, urinary tract infection, infusion related reaction, cough, abdominal pain, peripheral edema, pyrexia, respiratory tract infection, upper respiratory tract infection, creatinine increase, decreased appetite, hyponatremia, back pain, pruritus, and venous thromboembolism.
+Adverse reactions leading to interruption occurred in 35% of patients; the most common (≥ 1%) were intestinal obstruction, fatigue, diarrhea, urinary tract infection, infusion- related reaction, cough, abdominal pain, peripheral edema, pyrexia, respiratory tract infection, upper respiratory tract infection, creatinine increase, decreased appetite, hyponatremia, back pain, pruritus, and venous thromboembolism.
 Serious adverse reactions occurred in 37% of patients.
 The most frequent serious adverse reactions (≥ 2%) were diarrhea, intestinal obstruction, sepsis, acute kidney injury, and renal failure.
 
@@ -77,7 +77,7 @@ Table 3: Grade 3–4 Laboratory Abnormalities in ≥ 1% of Patients with Urothel
 | Hyperglycemia | 10 |
 | Lymphopenia | 9 |
 | Anemia | 7 |
-| Increased Alkaline Pphosphatase | 7 |
+| Increased Alkaline Phosphatase | 7 |
 | Increased Creatinine | 5 |
 | Hypophosphatemia | 4 |
 | Increased ALT | 4 |
@@ -143,7 +143,7 @@ Table 5: Grade 3–4 Laboratory Abnormalities in ≥ 1% of Patients with Urothel
 | Hyponatremia | 10 |
 | Anemia | 8 |
 | Hyperglycemia | 5 |
-| Increased Alkaline Pphosphatase | 4 |
+| Increased Alkaline Phosphatase | 4 |
 | Increased Creatinine | 3 |
 | Increased ALT | 2 |
 | Increased AST | 2 |
@@ -174,7 +174,7 @@ Table 6: Adverse Reactions Occurring in ≥ 10% of Patients with NSCLC Receiving
 
 | Adverse ReactionGraded per NCI CTCAE v4.0 | All Grades (%) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) |
 | --- | --- | --- | --- | --- |
-|  | TECENTRIQ 1200 mg every 3 weeks n= 609 |  | Docetaxel 75 mg/m2 every three weeks n= 578 |  |
+|  | TECENTRIQ 1200 mg every 3 weeks n=609 |  | Docetaxel 75 mg/m2 every 3 weeks n=578 |  |
 | General |  |  |  |  |
 | Fatigue/AstheniaIncludes fatigue and asthenia | 44 | 4 | 53 | 6 |
 | Pyrexia | 18 | <1 | 13 | <1 |
@@ -191,13 +191,13 @@ Table 6: Adverse Reactions Occurring in ≥ 10% of Patients with NSCLC Receiving
 | Constipation | 18 | <1 | 14 | <1 |
 | Diarrhea | 16 | <1 | 24 | 2 |
 | Skin |  |  |  |  |
-| RashIncludes rash,erythematous rash,generalized rash, maculopapular rash, papular rash, pruritic rash, pustular rash,pemphigoid. | 12 | <1 | 10 | 0 |
+| RashIncludes rash, erythematous rash, generalized rash, maculopapular rash, papular rash, pruritic rash, pustular rash, pemphigoid | 12 | <1 | 10 | 0 |
 
 Table 7: Laboratory Abnormalities Worsening From Baseline Occurring in ≥ 20% of NSCLC Patients Receiving TECENTRIQ in OAK
 
 | Grade | All GradesGraded according to NCI CTCAE version 4.0 (%)Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: TECENTRIQ (range: 546–585) and docetaxel (range: 532–560) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) |
 | --- | --- | --- | --- | --- |
-| Laboratory Abnormality | TECENTRIQ 1200 mg every 3 weeks |  | Docetaxel 75 mg /m2 every 3 weeks |  |
+| Laboratory Abnormality | TECENTRIQ 1200 mg every 3 weeks |  | Docetaxel 75 mg/m2 every 3 weeks |  |
 | Chemistry |  |  |  |  |
 | Hypoalbuminemia | 48 | 4 | 50 | 3 |
 | Hyponatremia | 42 | 7 | 31 | 6 |

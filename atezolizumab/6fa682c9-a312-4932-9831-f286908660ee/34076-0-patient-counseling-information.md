@@ -8,10 +8,9 @@ Inform patients of the risk of immune-mediated adverse reactions that may requir
 
 - Pneumonitis: Advise patients to contact their healthcare provider immediately for any new or worsening cough, chest pain, or shortness of breath [see Warnings and Precautions (5.1)].
 - Hepatitis: Advise patients to contact their healthcare provider immediately for jaundice, severe nausea or vomiting, pain on the right side of abdomen, lethargy, or easy bruising or bleeding [see Warnings and Precautions (5.2)].
-- Colitis: Advise patients to contact their healthcare provider immediately for diarrhea, blood or mucous in stools, or severe abdominal pain [see Warnings and Precautions (5.3)].
-- Endocrinopathies: Advise patients to contact their healthcare provider immediately for signs or symptoms of hypophysitis, hyperthyroidism, hypothyroidism, adrenal insufficiency, or type 1 diabetes mellitus, including diabetic ketoacidosis [see Warnings and Precautions (5.4)]
-- Other Immune-Mediated Adverse Reactions: Advise patients to contact their healthcare provider immediately for signs or symptoms of other potential immune-mediated adverse reactions.
-  [see Warnings and Precautions (5.5)].
+- Colitis: Advise patients to contact their healthcare provider immediately for diarrhea, blood or mucus in stools, or severe abdominal pain [see Warnings and Precautions (5.3)].
+- Endocrinopathies: Advise patients to contact their healthcare provider immediately for signs or symptoms of hypophysitis, hyperthyroidism, hypothyroidism, adrenal insufficiency, or type 1 diabetes mellitus, including diabetic ketoacidosis [see Warnings and Precautions (5.4)].
+- Other Immune-Mediated Adverse Reactions: Advise patients to contact their healthcare provider immediately for signs or symptoms of other potential immune-mediated adverse reactions [see Warnings and Precautions (5.5)].
 
 Infections
 
