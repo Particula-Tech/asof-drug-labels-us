@@ -43,11 +43,11 @@ Printed in USA
 
 Baxter and Galaxy are registered trademarks of Baxter International Inc.
 
-Clinistix is a trademark of Bayer Healthcare LLC.
+Clinistix is a registered trademark of Ascensia Diabetes Care Holdings AG
 
 Clinitest is a trademark of Siemens Healthcare Diagnostics Inc.
 
-07-19-78-387
+07-19-00-400
 
 Rev.
-November 2017
+July 2018
