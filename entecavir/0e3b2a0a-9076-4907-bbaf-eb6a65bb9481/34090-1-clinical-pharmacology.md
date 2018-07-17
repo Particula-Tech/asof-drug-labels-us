@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Entecavir is an antiviral drug [see Microbiology (12.4)].
+Entecavir is an antiviral drug against the hepatitis B virus [see Microbiology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
@@ -123,17 +123,18 @@ In Cell Culture
 
 In cell-based assays, 8- to 30-fold reductions in entecavir phenotypic susceptibility were observed for lamivudine-resistant strains.
 Further reductions (>70-fold) in entecavir phenotypic susceptibility required the presence of amino acid substitutions rtM204I/V with or without rtL180M along with additional substitutions at residues rtT184, rtS202, or rtM250, or a combination of these substitutions with or without an rtI169 substitution in the HBV reverse transcriptase.
+Lamivudine-resistant strains harboring rtL180M plus rtM204V in combination with the amino acid substitution rtA181C conferred 16- to 122-fold reductions in entecavir phenotypic susceptibility.
 
 Clinical Studies
 
-Nucleoside-Inhibiotr-naÏve subjects
+Nucleoside-Inhibiotr-naïve subjects
 
 Genotypic evaluations were performed on evaluable samples (>300 copies/mL serum HBV DNA) from 562 subjects who were treated with entecavir for up to 96 weeks in nucleoside-Inhibitor-naive studies (AI463022, AI463027, and rollover study AI463901).
 By Week 96, evidence of emerging amino acid substitution rtS202G with rtM204V and rtL180M substitutions was detected in the HBV of 2 subjects (2/562=<1%), and 1 of them experienced virologic rebound (≥1 log10 increase above nadir).
 In addition, emerging amino acid substitutions at rtM204I/V and rtL180M, rtL80I, or rtV173L, which conferred decreased phenotypic susceptibility to entecavir in the absence of rtT184, rtS202, or rtM250 changes, were detected in the HBV of 3 subjects (3/562=<1%) who experienced virologic rebound.
 For subjects who continued treatment beyond 48 weeks, 75% (202/269) had HBV DNA <300 copies/mL at end of dosing (up to 96 weeks).
 
-HBeAg-positive (n=243) and -negative (n=39) treatment-naÏve subjects who failed to achieve the study-defined complete response by 96 weeks were offered continued entecavir treatment in a rollover study.
+HBeAg-positive (n=243) and -negative (n=39) treatment-naïve subjects who failed to achieve the study-defined complete response by 96 weeks were offered continued entecavir treatment in a rollover study.
 Complete response for HBeAg-positive was <0.7MEq/mL (approximately 7 X 105 copies/mL) serum HBV DNA and HBeAg loss and, for HBeAg-negative was <0.7 MEq/mL HBV DNA and ALT normalization.
 Subjects received 1 mg entecavir once daily for up to an additional 144 weeks.
 Of these 282 subjects, 141 HBeAg-positive and 8 HBeAg negative subjects entered the long-term follow-up rollover study and were evaluated for entecavir resistance.
@@ -157,6 +158,9 @@ By Weeks 144, 192, and 240 (including end of dosing), 34% (27/80), 35% (28/80), 
 The cumulative probability of developing rtT184, rtS202, or rtM250 entecavir resistance-associated substitutions (in the presence of rtM204I/V with or without rtL180M substitutions) at Weeks 48, 96, 144, 192, and 240 was 6.2%, 15%, 36.3%, 46.6%, and 51.5%, respectively.
 The HBV of 6 subjects developed rtA181C/G/S/T amino acid substitutions while receiving entecavir, and of these, 4 developed entecavir resistance-associated substitutions at rtT184, rtS202, or rtM250 and 1 had an rtT184S substitution at baseline.
 Of 7 subjects whose HBV had an rtA181 substitution at baseline, 2 also had substitutions at rtT184, rtS202, or rtM250 at baseline and another 2 developed them while on treatment with entecavir.
+
+In a post-approval integrated analysis of entecavir resistance data from 17 Phase 2 and 3 clinical trials, an emergent entecavir resistance-associated substitution rtA181C was detected in 5 out of 1461 (0.3%) subjects during treatment with entecavir.
+This substitution was detected only in the presence of lamivudine resistance-associated substitutions rtL180M plus rtM204V.
 
 Cross-resistance
 

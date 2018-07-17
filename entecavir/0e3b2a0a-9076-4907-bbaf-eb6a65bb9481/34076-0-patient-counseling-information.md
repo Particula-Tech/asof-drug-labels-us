@@ -27,6 +27,6 @@ Manufactured by:
 
 Cadila Healthcare Limited
 
-Matoda, Ahmedabad, India.
+Ahmedabad, India.
 
-Rev.: 08/17
+Rev.: 07/18
