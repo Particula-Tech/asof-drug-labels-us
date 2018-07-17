@@ -2,19 +2,19 @@
 
 ## 5.1 Disabling and Potentially Irreversible Serious Adverse Reactions Including Tendinitis and Tendon Rupture, Peripheral Neuropathy, and Central Nervous System Effects
 
-Fluoroquinolones, including LEVAQUIN, have been associated with disabling and potentially irreversible serious adverse reactions from different body systems that can occur together in the same patient.
+Fluoroquinolones, including LEVAQUIN®, have been associated with disabling and potentially irreversible serious adverse reactions from different body systems that can occur together in the same patient.
 Commonly seen adverse reactions include tendinitis, tendon rupture, arthralgia, myalgia, peripheral neuropathy, and central nervous system effects (hallucinations, anxiety, depression, insomnia, severe headaches, and confusion).
-These reactions can occur within hours to weeks after starting LEVAQUIN.
+These reactions can occur within hours to weeks after starting LEVAQUIN®.
 Patients of any age or without pre-existing risk factors have experienced these adverse reactions [see Warnings and Precautions (5.2, 5.3, 5.4)].
 
-Discontinue LEVAQUIN immediately at the first signs or symptoms of any serious adverse reaction.
-In addition, avoid the use of fluoroquinolones, including LEVAQUIN, in patients who have experienced any of these serious adverse reactions associated with fluoroquinolones.
+Discontinue LEVAQUIN® immediately at the first signs or symptoms of any serious adverse reaction.
+In addition, avoid the use of fluoroquinolones, including LEVAQUIN®, in patients who have experienced any of these serious adverse reactions associated with fluoroquinolones.
 
 ## 5.2 Tendinitis and Tendon Rupture
 
 Fluoroquinolones, including LEVAQUIN®, have been associated with an increased risk of tendinitis and tendon rupture in all ages [see Warnings and Precautions (5.1) and Adverse Reactions (6.2)].
-This adverse reaction most frequently involves the Achilles tendon And has also been reported with the rotator cuff (the shoulder), the hand, the biceps, the thumb, and other tendon sites.
-Tendinitis or tendon rupture can occur within hours or days of starting LEVAQUIN or as long as several months after completion of fluoroquinolone therapy.
+This adverse reaction most frequently involves the Achilles tendon and has also been reported with the rotator cuff (the shoulder), the hand, the biceps, the thumb, and other tendon sites.
+Tendinitis or tendon rupture can occur within hours or days of starting LEVAQUIN® or as long as several months after completion of fluoroquinolone therapy.
 Tendinitis and tendon rupture can occur bilaterally.
 
 The risk of developing fluoroquinolone-associated tendinitis and tendon rupture is increased in patients over 60 years of age, in those taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
@@ -22,32 +22,32 @@ Other factors that may independently increase the risk of tendon rupture include
 Tendinitis and tendon rupture have been reported in patients taking fluoroquinolones who do not have the above risk factors.
 Discontinue LEVAQUIN® immediately if the patient experiences pain, swelling, inflammation or rupture of a tendon.
 Patients should be advised to rest at the first sign of tendinitis or tendon rupture, and to contact their healthcare provider regarding changing to a non-quinolone antimicrobial drug.
-Avoid LEVAQUIN in patients who have a history of tendon disorders or tendon rupture [see Adverse Reactions (6.3); Patient Counseling Information (17)].
+Avoid LEVAQUIN® in patients who have a history of tendon disorders or tendon rupture [see Adverse Reactions (6.3) and Patient Counseling Information (17)].
 
 ## 5.3 Peripheral Neuropathy
 
-Fluoroquinolones, including LEVAQUIN, have been associated with an increased risk of peripheral neuropathy.
+Fluoroquinolones, including LEVAQUIN®, have been associated with an increased risk of peripheral neuropathy.
 Cases of sensory or sensorimotor axonal polyneuropathy affecting small and/or large axons resulting in paresthesias, hypoesthesias, dysesthesias and weakness have been reported in patients receiving fluoroquinolones, including LEVAQUIN®.
 Symptoms may occur soon after initiation of LEVAQUIN® and may be irreversible in some patients [see Warnings and Precautions (5.1) and Adverse Reactions (6.1, 6.2)].
 
 Discontinue LEVAQUIN® immediately if the patient experiences symptoms of neuropathy including pain, burning, tingling, numbness, and/or weakness or other alterations of sensation including light touch, pain, temperature, position sense, and vibratory sensation.
-Avoid fluoroquinolones, including LEVAQUIN, in patients who have previously experienced peripheral neuropathy [see Adverse Reactions (6), Patient Counseling Information (17)].
+Avoid fluoroquinolones, including LEVAQUIN®, in patients who have previously experienced peripheral neuropathy [see Adverse Reactions (6) and Patient Counseling Information (17)].
 
 ## 5.4 Central Nervous System Effects
 
-Fluoroquinolones, including LEVAQUIN, have been associated with an increased risk of central nervous system (CNS) effects, including convulsions, toxic psychoses, increased intracranial pressure (including pseudotumor cerebri).
+Fluoroquinolones, including LEVAQUIN®, have been associated with an increased risk of central nervous system (CNS) effects, including convulsions, toxic psychoses, increased intracranial pressure (including pseudotumor cerebri).
 Fluoroquinolones may also cause central nervous system stimulation which may lead to tremors, restlessness, anxiety, lightheadedness, confusion, hallucinations, paranoia, depression, nightmares, and insomnia.
 Suicidal thoughts, and attempted or completed suicide may also occur, especially in patients with a medical history of depression, or an underlying risk factor for depression.
 These reactions may occur following the first dose.
-If these reactions occur in patients receiving LEVAQUIN®, discontinue LEVAQUIN and institute appropriate measures.
+If these reactions occur in patients receiving LEVAQUIN®, discontinue LEVAQUIN® and institute appropriate measures.
 As with other fluoroquinolones, LEVAQUIN® should be used with caution in patients with a known or suspected central nervous system (CNS) disorder that may predispose them to seizures or lower the seizure threshold (e.g., severe cerebral arteriosclerosis, epilepsy) or in the presence of other risk factors that may predispose them to seizures or lower the seizure threshold (e.g., certain drug therapy, renal dysfunction).
-[see Adverse Reactions (6); Drug Interactions (7.4, 7.5); Patient Counseling Information (17)].
+[see Adverse Reactions (6), Drug Interactions (7.4, 7.5), and Patient Counseling Information (17)].
 
 ## 5.5 Exacerbation of Myasthenia Gravis
 
 Fluoroquinolones, including LEVAQUIN®, have neuromuscular blocking activity and may exacerbate muscle weakness in patients with myasthenia gravis.
 Postmarketing serious adverse reactions including deaths and requirement for ventilatory support, have been associated with fluoroquinolone use in patients with myasthenia gravis.
-Avoid LEVAQUIN® in patients with a known history of myasthenia gravis [see Adverse Reactions (6.3); Patient Counseling Information (17)].
+Avoid LEVAQUIN® in patients with a known history of myasthenia gravis [see Adverse Reactions (6.3) and Patient Counseling Information (17)].
 
 ## 5.6 Other Serious and Sometimes Fatal Adverse Reactions
 
@@ -62,7 +62,7 @@ Clinical manifestations may include one or more of the following:
 - hepatitis; jaundice; acute hepatic necrosis or failure;
 - anemia, including hemolytic and aplastic; thrombocytopenia, including thrombotic thrombocytopenic purpura; leukopenia; agranulocytosis; pancytopenia; and/or other hematologic abnormalities.
 
-Discontinue LEVAQUIN immediately at the first appearance of skin rash, jaundice, or any other sign of hypersensitivity and institute supportive measures [see Adverse Reactions (6); Patient Counseling Information (17)].
+Discontinue LEVAQUIN® immediately at the first appearance of skin rash, jaundice, or any other sign of hypersensitivity and institute supportive measures [see Adverse Reactions (6) and Patient Counseling Information (17)].
 
 ## 5.7 Hypersensitivity Reactions
 
@@ -70,7 +70,7 @@ Serious and occasionally fatal hypersensitivity and/or anaphylactic reactions ha
 These reactions often occur following the first dose.
 Some reactions have been accompanied by cardiovascular collapse, hypotension/shock, seizure, loss of consciousness, tingling, angioedema (including tongue, laryngeal, throat, or facial edema/swelling), airway obstruction (including bronchospasm, shortness of breath, and acute respiratory distress), dyspnea, urticaria, itching, and other serious skin reactions.
 LEVAQUIN® should be discontinued immediately at the first appearance of a skin rash or any other sign of hypersensitivity.
-Serious acute hypersensitivity reactions may require treatment with epinephrine and other resuscitative measures, including oxygen, intravenous fluids, antihistamines, corticosteroids, pressor amines, and airway management, as clinically indicated [see Adverse Reactions (6); Patient Counseling Information (17)].
+Serious acute hypersensitivity reactions may require treatment with epinephrine and other resuscitative measures, including oxygen, intravenous fluids, antihistamines, corticosteroids, pressor amines, and airway management, as clinically indicated [see Adverse Reactions (6) and Patient Counseling Information (17)].
 
 ## 5.8 Hepatotoxicity
 
@@ -79,7 +79,7 @@ No evidence of serious drug-associated hepatotoxicity was detected in clinical t
 Severe hepatotoxicity generally occurred within 14 days of initiation of therapy and most cases occurred within 6 days.
 Most cases of severe hepatotoxicity were not associated with hypersensitivity [see Warnings and Precautions (5.6)].
 The majority of fatal hepatotoxicity reports occurred in patients 65 years of age or older and most were not associated with hypersensitivity.
-LEVAQUIN® should be discontinued immediately if the patient develops signs and symptoms of hepatitis [see Adverse Reactions (6); Patient Counseling Information (17)].
+LEVAQUIN® should be discontinued immediately if the patient develops signs and symptoms of hepatitis [see Adverse Reactions (6) and Patient Counseling Information (17)].
 
 ## 5.9 Clostridium difficile-Associated Diarrhea
 
@@ -92,7 +92,7 @@ CDAD must be considered in all patients who present with diarrhea following anti
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
-Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated [see Adverse Reactions (6.2), Patient Counseling Information (17)].
+Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated [see Adverse Reactions (6.2) and Patient Counseling Information (17)].
 
 ## 5.10 Prolongation of the QT Interval
 
@@ -114,13 +114,13 @@ Other fluoroquinolones also produce similar erosions in the weight-bearing joint
 
 As with other fluoroquinolones, disturbances of blood glucose, including symptomatic hyper- and hypoglycemia, have been reported with LEVAQUIN®, usually in diabetic patients receiving concomitant treatment with an oral hypoglycemic agent (e.g., glyburide) or with insulin.
 In these patients, careful monitoring of blood glucose is recommended.
-If a hypoglycemic reaction occurs in a patient being treated with LEVAQUIN®, LEVAQUIN® should be discontinued and appropriate therapy should be initiated immediately [see Adverse Reactions (6.2); Drug Interactions (7.3); Patient Counseling Information (17)].
+If a hypoglycemic reaction occurs in a patient being treated with LEVAQUIN®, LEVAQUIN® should be discontinued and appropriate therapy should be initiated immediately [see Adverse Reactions (6.2), Drug Interactions (7.3) and Patient Counseling Information (17)].
 
 ## 5.13 Photosensitivity/Phototoxicity
 
 Moderate to severe photosensitivity/phototoxicity reactions, the latter of which may manifest as exaggerated sunburn reactions (e.g., burning, erythema, exudation, vesicles, blistering, edema) involving areas exposed to light (typically the face, "V" area of the neck, extensor surfaces of the forearms, dorsa of the hands), can be associated with the use of fluoroquinolones after sun or UV light exposure.
 Therefore, excessive exposure to these sources of light should be avoided.
-Drug therapy should be discontinued if photosensitivity/phototoxicity occurs [see Adverse Reactions (6.3); Patient Counseling Information (17)].
+Drug therapy should be discontinued if photosensitivity/phototoxicity occurs [see Adverse Reactions (6.3) and Patient Counseling Information (17)].
 
 ## 5.14 Development of Drug Resistant Bacteria
 

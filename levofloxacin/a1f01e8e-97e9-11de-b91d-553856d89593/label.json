@@ -1,31 +1,15 @@
 {
   "application_numbers": [
-    "NDA020634",
-    "NDA020635",
-    "NDA021721"
+    "NDA020634"
   ],
   "inn": "levofloxacin",
   "labeler": "Janssen Pharmaceuticals, Inc.",
   "package_ndcs": [
-    "50458-166-01",
-    "50458-167-01",
-    "50458-168-01",
-    "50458-170-01",
     "50458-920-50",
     "50458-925-50",
     "50458-930-20"
   ],
   "products": [
-    {
-      "form": "INJECTION, SOLUTION",
-      "generic": "levofloxacin",
-      "name": "Levaquin"
-    },
-    {
-      "form": "SOLUTION",
-      "generic": "levofloxacin",
-      "name": "Levaquin"
-    },
     {
       "form": "TABLET, FILM COATED",
       "generic": "levofloxacin",

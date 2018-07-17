@@ -1,41 +1,13 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 LEVAQUIN® Tablets
-
 LEVAQUIN® Tablets are supplied as 250, 500, and 750 mg capsule-shaped, coated tablets.
 LEVAQUIN® Tablets are packaged in bottles in the following configurations:
 
 - 250 mg tablets are terra cotta pink and are imprinted: "LEVAQUIN" on one side and "250" on the other side
-  1. –bottles of 50 (NDC 50458-920-50)
+  - –bottles of 50 (NDC 50458-920-50)
 - 500 mg tablets are peach and are imprinted: "LEVAQUIN" on one side and "500" on the other side
-  1. –bottles of 50 (NDC 50458-925-50)
+  - –bottles of 50 (NDC 50458-925-50)
 - 750 mg tablets are white and are imprinted "LEVAQUIN" on one side and "750" on the other side
-  1. –bottles of 20 (NDC 50458-930-20)
+  - –bottles of 20 (NDC 50458-930-20)
 
 LEVAQUIN® Tablets should be stored at 15° to 30°C (59° to 86°F) in well-closed containers.
-
-LEVAQUIN® Tablets are manufactured for Janssen Pharmaceuticals, Inc., Titusville, NJ 08560 by Janssen Ortho LLC, Gurabo, Puerto Rico 00778.
-
-## 16.2 LEVAQUIN® Oral Solution
-
-LEVAQUIN® Oral Solution is supplied in a 16 oz. multi-use bottle (NDC 50458-170-01).
-Each bottle contains 480 mL of the 25 mg/mL levofloxacin oral solution.
-
-LEVAQUIN® Oral Solution should be stored at 25°C (77°F); excursions permitted to 15° – 30°C (59° to 86°F) [refer to USP controlled room temperature].
-
-LEVAQUIN® Oral Solution is manufactured for Janssen Pharmaceuticals, Inc., Titusville, NJ 08560 by Janssen Pharmaceutica N.V., Beerse, Belgium.
-
-## 16.3 LEVAQUIN® Injection Pre-Mixed Solution, Single-Use in Flexible Container
-
-LEVAQUIN® (levofloxacin in 5% dextrose) Injection is supplied as a single-use, premixed solution in flexible containers.
-Each bag contains a dilute solution with the equivalent of 250, 500, or 750 mg of levofloxacin, respectively, in 5% Dextrose (D5W).
-
-- 5 mg/mL (250 mg), 100 mL flexible container, 50 mL fill (NDC 50458-167-01)
-- 5 mg/mL (500 mg), 100 mL flexible container, 100 mL fill (NDC 50458-168-01)
-- 5 mg/mL (750 mg), 150 mL flexible container, 150 mL fill (NDC 50458-166-01)
-
-LEVAQUIN® Injection Premix in Flexible Containers should be stored at or below 25°C (77°F); however, brief exposure up to 40°C (104°F) does not adversely affect the product.
-Avoid excessive heat and protect from freezing and light.
-LEVAQUIN® Injection Premix in Flexible Containers is manufactured for Janssen Pharmaceuticals, Inc., Titusville, NJ 08560 by Hospira, Inc., Austin, TX 78728.
-
-Keep out of reach of children.

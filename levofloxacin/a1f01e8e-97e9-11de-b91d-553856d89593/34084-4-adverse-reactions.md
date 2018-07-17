@@ -19,9 +19,6 @@ The following serious and otherwise important adverse drug reactions are discuss
 - Photosensitivity/Phototoxicity [see Warnings and Precautions (5.13)]
 - Development of Drug Resistant Bacteria [see Warnings and Precautions (5.14)]
 
-Hypotension has been associated with rapid or bolus intravenous infusion of LEVAQUIN®.
-LEVAQUIN® should be infused slowly over 60 to 90 minutes, depending on dosage [see Dosage and Administration (2.5)].
-
 Crystalluria and cylindruria have been reported with quinolones, including LEVAQUIN®.
 Therefore, adequate hydration of patients receiving LEVAQUIN® should be maintained to prevent the formation of a highly concentrated urine [see Dosage and Administration (2.5)].
 
@@ -43,13 +40,15 @@ The most common adverse drug reactions leading to discontinuation with the 750 m
 Adverse reactions occurring in ≥1% of LEVAQUIN®-treated patients and less common adverse reactions, occurring in 0.1 to <1% of LEVAQUIN®-treated patients, are shown in Table 4 and Table 5, respectively.
 The most common adverse drug reactions (≥3%) are nausea, headache, diarrhea, insomnia, constipation, and dizziness.
 
-Table 4: Common (≥1%) Adverse Reactions Reported in Clinical Trials with LEVAQUIN®
+Table 4: Common (≥1%) Adverse Reactions Reported in Clinical Trials with LEVAQUIN®pool of studies included IV and oral administration
 
-| System/Organ Class | Adverse Reaction | % (N = 7537) |
+| System/Organ Class | Adverse Reaction | % (N=7537) |
 | --- | --- | --- |
 | Infections and Infestations | moniliasis | 1 |
 | Psychiatric Disorders | insomniaN = 7274 [see Warnings and Precautions (5.4)] | 4 |
-| Nervous System Disorders | headache dizziness [see Warnings and Precautions (5.4)] | 6 3 |
+| Nervous System Disorders |  |  |
+|  | headache | 6 |
+|  | dizziness [see Warnings and Precautions (5.4)] | 3 |
 | Respiratory, Thoracic and Mediastinal Disorders | dyspnea [see Warnings and Precautions (5.7)] | 1 |
 | Gastrointestinal Disorders | nausea | 7 |
 | diarrhea | 5 |  |
@@ -57,7 +56,8 @@ Table 4: Common (≥1%) Adverse Reactions Reported in Clinical Trials with LEVAQ
 | abdominal pain | 2 |  |
 | vomiting | 2 |  |
 | dyspepsia | 2 |  |
-| Skin and Subcutaneous Tissue Disorders | rash [see Warnings and Precautions (5.7)] pruritus | 2 1 |
+| Skin and Subcutaneous Tissue Disorders | rash [see Warnings and Precautions (5.7)] | 2 |
+| pruritus | 1 |  |
 | Reproductive System and Breast Disorders | vaginitis | 1N = 3758 (women) |
 | General Disorders and Administration Site Conditions | edema | 1 |
 | injection site reaction | 1 |  |

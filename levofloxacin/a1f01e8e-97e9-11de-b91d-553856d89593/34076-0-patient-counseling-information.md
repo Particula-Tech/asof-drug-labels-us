@@ -4,25 +4,25 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Serious Adverse Reactions
 
-Advise patients to stop taking LEVAQUIN if they experience an adverse reaction and to call their healthcare provider for advice on completing the full course of treatment with another antibacterial drug.
+Advise patients to stop taking LEVAQUIN® if they experience an adverse reaction and to call their healthcare provider for advice on completing the full course of treatment with another antibacterial drug.
 
-Inform patients of the following serious adverse reactions that have been associated with LEVAQUIN or other fluoroquinolone use:
+Inform patients of the following serious adverse reactions that have been associated with LEVAQUIN® or other fluoroquinolone use:
 
-- Disabling and Potentially Irreversible Serious Adverse Reactions That May Occur Together: Inform patients that disabling and potentially irreversible serious adverse reactions, including tendinitis and tendon rupture, peripheral neuropathies, and central nervous system effects, have been associated with use of LEVAQUIN and may occur together in the same patient.
-  Inform patients to stop taking LEVAQUIN immediately if they experience an adverse reaction and to call their healthcare provider.
-- Tendinitis and Tendon Rupture: Instruct patients to contact their healthcare provider if they experience pain, swelling, or inflammation of a tendon, or weakness or inability to use one of their joints; rest and refrain from exercise; and discontinue LEVAQUIN treatment.
+- Disabling and Potentially Irreversible Serious Adverse Reactions That May Occur Together: Inform patients that disabling and potentially irreversible serious adverse reactions, including tendinitis and tendon rupture, peripheral neuropathies, and central nervous system effects, have been associated with use of LEVAQUIN® and may occur together in the same patient.
+  Inform patients to stop taking LEVAQUIN® immediately if they experience an adverse reaction and to call their healthcare provider.
+- Tendinitis and Tendon Rupture: Instruct patients to contact their healthcare provider if they experience pain, swelling, or inflammation of a tendon, or weakness or inability to use one of their joints; rest and refrain from exercise; and discontinue LEVAQUIN® treatment.
   Symptoms may be irreversible.
   The risk of severe tendon disorder with fluoroquinolones is higher in older patients usually over 60 years of age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
 - Peripheral Neuropathies: Inform patients that peripheral neuropathies have been associated with levofloxacin use, symptoms may occur soon after initiation of therapy and may be irreversible.
-  If symptoms of peripheral neuropathy including pain, burning, tingling, numbness and/or weakness develop, immediately discontinue LEVAQUIN and tell them to contact their physician.
+  If symptoms of peripheral neuropathy including pain, burning, tingling, numbness and/or weakness develop, immediately discontinue LEVAQUIN® and tell them to contact their physician.
 - Central Nervous System Effects (for example, convulsions, dizziness, lightheadedness, increased intracranial pressure): Inform patients that convulsions have been reported in patients receiving fluoroquinolones, including levofloxacin.
   Instruct patients to notify their physician before taking this drug if they have a history of convulsions.
-  Inform patients that they should know how they react to LEVAQUIN before they operate an automobile or machinery or engage in other activities requiring mental alertness and coordination.
+  Inform patients that they should know how they react to LEVAQUIN® before they operate an automobile or machinery or engage in other activities requiring mental alertness and coordination.
   Instruct patients to notify their physician if persistent headache with or without blurred vision occurs.
 - Exacerbation of Myasthenia Gravis: Instruct patients to inform their physician of any history of myasthenia gravis.
   Instruct patients to notify their physician if they experience any symptoms of muscle weakness, including respiratory difficulties.
 - Hypersensitivity Reactions: Inform patients that levofloxacin can cause hypersensitivity reactions, even following a single dose, and to discontinue the drug at the first sign of a skin rash, hives or other skin reactions, a rapid heartbeat, difficulty in swallowing or breathing, any swelling suggesting angioedema (for example, swelling of the lips, tongue, face, tightness of the throat, hoarseness), or other symptoms of an allergic reaction.
-- Hepatotoxicity: Inform patients that severe hepatotoxicity (including acute hepatitis and fatal events) has been reported in patients taking LEVAQUIN.
+- Hepatotoxicity: Inform patients that severe hepatotoxicity (including acute hepatitis and fatal events) has been reported in patients taking LEVAQUIN®.
   Instruct patients to inform their physician if they experience any signs or symptoms of liver injury including: loss of appetite, nausea, vomiting, fever, weakness, tiredness, right upper quadrant tenderness, itching, yellowing of the skin and eyes, light colored bowel movements or dark colored urine.
 - Diarrhea: Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
   Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
@@ -46,8 +46,7 @@ Skipping doses or not completing the full course of therapy may (1) decrease the
 Administration with Food, Fluids, and Concomitant Medications
 
 Patients should be informed that LEVAQUIN® Tablets may be taken with or without food.
-LEVAQUIN® Oral Solution should be taken 1 hour before or 2 hours after eating.
-The tablet and oral solution should be taken at the same time each day.
+The tablets should be taken at the same time each day.
 
 Patients should drink fluids liberally while taking LEVAQUIN® to avoid formation of a highly concentrated urine and crystal formation in the urine.
 
@@ -64,17 +63,3 @@ Plague and Anthrax Studies
 
 Patients given LEVAQUIN® for these conditions should be informed that efficacy studies could not be conducted in humans for ethical and feasibility reasons.
 Therefore, approval for these conditions was based on efficacy studies conducted in animals.
-
-Active Ingredient Made in Japan
-
-Finished Product Manufactured by:
-
-- Janssen Ortho LLC, Gurabo, Puerto Rico 00778 (for the Tablets)
-- Janssen Pharmaceutica N.V., Beerse, Belgium (for the Oral Solution)
-- Hospira, Inc., Austin, TX 78728 (for the Injection Pre-Mixed Solution Single-Use in Flexible Container)
-
-Manufactured for:
-
-- Janssen Pharmaceuticals, Inc., Titusville, NJ 08560
-
-© 1996, 2007 Janssen Pharmaceutical Companies
