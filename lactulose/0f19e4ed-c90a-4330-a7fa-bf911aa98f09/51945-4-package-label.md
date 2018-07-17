@@ -19,13 +19,13 @@ Rx ONLY
 
 16 fl oz (473 mL)
 
-pai Pharmaceutical Associates, Inc. Greenville, SC 29605
+Pharmaceutical Associates, Inc. Greenville, SC 29605
 
-# PRINCIPAL DISPLAY PANEL - 30 mL Cup Lid
+# PRINCIPAL DISPLAY PANEL - 15 mL Cup Lid
 
-UNIT DOSE Delivers 30 mL NDC 0121-4577-30
+UNIT DOSE Delivers 15 mL NDC 0121-4577-15
 
-LACTULOSE SOLUTION USP 20 g/30 mL
+LACTULOSE SOLUTION USP 10 g/15 mL
 
 Indication: For the treatment of constipation.
 See Insert.
@@ -33,7 +33,7 @@ FOR INSTITUTIONAL USE ONLY
 
 Rx ONLY PHARMACEUTICAL ASSOCIATES, INC. GREENVILLE, SC 29605
 
-F45773001
+F45771500
 
 # PRINCIPAL DISPLAY PANEL - 30 mL Cup Lid - NDC 0121-1154-30
 
