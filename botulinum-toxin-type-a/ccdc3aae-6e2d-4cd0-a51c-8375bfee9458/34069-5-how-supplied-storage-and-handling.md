@@ -2,9 +2,9 @@
 
 ## 16.1 How Supplied
 
-Type 1 borosilicate glass single-dose vials with latex-free bromobutyl rubber closures and tamper-proof aluminum seals in the following pack sizes:
+XEOMIN (incobotulinumtoxinA) for injection is a sterile white to off-white lyophilized powder supplied in Type 1 borosilicate glass single-dose vials with tamper-proof aluminum seals and bromobutyl rubber closures that are not made with natural rubber latex in the following pack sizes:
 
-Upper Limb Spasticity and Cervical Dystonia
+Chronic Sialorrhea, Upper Limb Spasticity, and Cervical Dystonia
 
 | Package | XEOMIN 50 Units | XEOMIN 100 Units | XEOMIN 200 Units |
 | --- | --- | --- | --- |
@@ -12,15 +12,15 @@ Upper Limb Spasticity and Cervical Dystonia
 
 Blepharospasm
 
-| Package | XEOMIN 50 Units | XEOMIN 100 Units |  |
-| --- | --- | --- | --- |
-| single vial pack | NDC 0259-1605-01 | NDC 0259-1610-01 |  |
+| Package | XEOMIN 50 Units | XEOMIN 100 Units |
+| --- | --- | --- |
+| single vial pack | NDC 0259-1605-01 | NDC 0259-1610-01 |
 
 Glabellar Lines
 
-| Package | XEOMIN 50 Units | XEOMIN 100 Units |  |
-| --- | --- | --- | --- |
-| single vial pack | NDC 46783-161-01 | NDC 46783-160-01 |  |
+| Package | XEOMIN 50 Units | XEOMIN 100 Units |
+| --- | --- | --- |
+| single vial pack | NDC 46783-161-01 | NDC 46783-160-01 |
 
 ## 16.2 Storage
 
@@ -29,8 +29,4 @@ Do not use after the expiration date on the vial.
 
 ## 16.3 Handling
 
-XEOMIN is reconstituted prior to use with sterile preservative-free 0.9% Sodium Chloride Injection, USP [see Dosage and Administration (2.6)].
-
-XEOMIN should not be used if the reconstituted solution has a cloudy appearance or contains floccular or particulate matter.
-
-Any reconstituted toxin solution for injection that has been stored for more than 24 hours, as well as any unused solution for injection, should be discarded.
+XEOMIN is reconstituted prior to use with sterile preservative-free 0.9% Sodium Chloride Injection, USP and may be stored in a refrigerator at 2°C to 8°C (36°F to 46°F) for up to 24 hours until time of use [see Dosage and Administration (2.8)].
