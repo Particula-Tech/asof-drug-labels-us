@@ -5,7 +5,7 @@ LIORESAL INTRATHECAL (baclofen injection) is packaged in single use ampules cont
 Screening dose (Model 8563s): five ampules each containing 0.05 mg/1 mL (50 mcg/mL) (NDC 70257-562-55).
 
 LIORESAL INTRATHECAL (baclofen injection) Refill Kits.
-Each refill kit includes the indicated amount of LIORESAL INTRATHECAL, a drug preparation kit, a pump refill kit with accessories that are compatible with Medtronic SynchroMed® Infusion Systems, and associated instructions.
+Each refill kit includes the indicated amount of LIORESAL INTRATHECAL, a drug preparation kit, a pump refill kit with accessories that are compatible with Medtronic SynchroMed ® Infusion Systems, and associated instructions.
 
 Model 8561: one ampule containing 10 mg/20 mL (500 mcg/mL) (NDC 70257-560-01).
 

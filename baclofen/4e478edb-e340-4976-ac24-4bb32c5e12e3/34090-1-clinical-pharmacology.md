@@ -2,7 +2,7 @@
 
 The precise mechanism of action of baclofen as a muscle relaxant and antispasticity agent is not fully understood.
 Baclofen inhibits both monosynaptic and polysynaptic reflexes at the spinal level, possibly by decreasing excitatory neurotransmitter release from primary afferent terminals, although actions at supraspinal sites may also occur and contribute to its clinical effect.
-Baclofen is a structural analog of the inhibitory neurotransmitter gamma-aminobutyric acid (GABA), and may exert its effects by stimulation of the GABAB receptor subtype.
+Baclofen is a structural analog of the inhibitory neurotransmitter gamma-aminobutyric acid (GABA), and may exert its effects by stimulation of the GABA B receptor subtype.
 
 LIORESAL INTRATHECAL when introduced directly into the intrathecal space permits effective CSF concentrations to be achieved with resultant plasma concentrations 100 times less than those occurring with oral administration.
 

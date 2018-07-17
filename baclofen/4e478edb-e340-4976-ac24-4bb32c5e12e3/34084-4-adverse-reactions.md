@@ -36,12 +36,12 @@ Nonetheless, many of the more commonly reported reactions— hypotonia, somnolen
 Adverse experiences reported during all U.S. studies (both controlled and uncontrolled) are shown in the following table.
 Eight of 474 patients who received chronic infusion via implanted pumps had adverse experiences which led to a discontinuation of long term treatment in the pre- and post-marketing studies.
 
-INCIDENCE OF MOST FREQUENT (≥1%) ADVERSE EVENTS IN PATIENTS WITH SPASTICITY OF SPINAL ORIGIN IN PROSPECTIVELY MONITORED CLINICAL TRIALS
+INCIDENCE OF MOST FREQUENT (=1%) ADVERSE EVENTS IN PATIENTS WITH SPASTICITY OF SPINAL ORIGIN IN PROSPECTIVELY MONITORED CLINICAL TRIALS
 
 | Adverse Event |  |  |  |
 | --- | --- | --- | --- |
 |  | Percent of Patients Reporting Events |  |  |
-|  | N = 576 ScreeningFollowing administration of test bolus Percent | N = 474 TitrationTwo month period following implant Percent | N = 430 MaintenanceBeyond two months following implant Percent |
+|  | N = 576 Screening Following administration of test bolus Percent | N = 474 Titration Two month period following implant Percent | N = 430 Maintenance Beyond two months following implant Percent |
 | Hypotonia | 5.4 | 13.5 | 25.3 |
 | Somnolence | 5.7 | 5.9 | 20.9 |
 | Dizziness | 1.7 | 1.9 | 7.9 |
@@ -140,15 +140,15 @@ Doses used in this patient population for long term infusion are generally lower
 Because of the open, uncontrolled nature of the experience, a causal linkage between events observed and the administration of LIORESAL INTRATHECAL cannot be reliably assessed in many cases.
 Nonetheless, many of the more commonly reported reactions— somnolence, dizziness, headache, nausea, hypotension, hypotonia and coma— appear clearly drug-related.
 
-The most frequent (≥1%) adverse events reported during all clinical trials are shown in the following table.
+The most frequent (=1%) adverse events reported during all clinical trials are shown in the following table.
 Nine patients discontinued long term treatment due to adverse events.
 
-INCIDENCE OF MOST FREQUENT (≥ 1%) ADVERSE EVENTS IN PATIENTS WITH SPASTICITY OF CEREBRAL ORIGIN IN PROSPECTIVELY MONITORED CLINICAL TRIALS
+INCIDENCE OF MOST FREQUENT (= 1%) ADVERSE EVENTS IN PATIENTS WITH SPASTICITY OF CEREBRAL ORIGIN IN PROSPECTIVELY MONITORED CLINICAL TRIALS
 
 | Adverse Event |  |  |  |
 | --- | --- | --- | --- |
 |  | Percent of Patients Reporting Events |  |  |
-|  | N = 211 ScreeningFollowing administration of test bolus Percent | N = 153 TitrationTwo month period following implant Percent | N = 150 MaintenanceBeyond two months following implant Percent |
+|  | N = 211 Screening Following administration of test bolus Percent | N = 153 Titration Two month period following implant Percent | N = 150 Maintenance Beyond two months following implant Percent |
 | Hypotonia | 2.4 | 14.4 | 34.7 |
 | Somnolence | 7.6 | 10.5 | 18.7 |
 | Headache | 6.6 | 7.8 | 10.7 |

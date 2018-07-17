@@ -1,6 +1,6 @@
 Drug Preparation Kit
 
-For use with Medtronic® SynchroMed Implantable Programmable Infusion Pumps
+For use with Medtronic ® SynchroMed Implantable Programmable Infusion Pumps
 
 Instructions for Use
 
@@ -10,15 +10,15 @@ DESCRIPTION
 
 The Saol Drug Preparation Kit is used to draw the drug from the ampule(s).
 
-| Model 8561, 8562, and 8564 kits contain: –20-mL syringe–Syringe label–Syringe cap–Filter Straw® tube–Plastic bag–Gauze pads | Model 8565 and 8566 kits contain: –Two 20-mL syringes–Two syringe labels–Two syringe caps–Two Filter Straw® tubes–Plastic bag–Gauze pads |
+| Model 8561, 8562, and 8564 kits contain:–20-mL syringe–Syringe label–Syringe cap–Filter Straw ® tube–Plastic bag–Two gauze pads | Model 8565 and 8566 kits contain:–Two 20-mL syringes–Two syringe labels–Two syringe caps–Two Filter Straw ® tubes–Plastic bag–Two gauze pads |
 | --- | --- |
 
 INDICATIONS
 
 The Saol Drug Preparation Kit is intended for use with Medtronic SynchroMed implantable programmable infusion pumps.
-It is not for use with the Medtronic MiniMed® infusion pumps.
+It is not for use with the Medtronic MiniMed ® infusion pumps.
 
-Refer to the Lioresal® Intrathecal (baclofen injection) drug prescribing information for indications, contraindications, warnings, precautions, dosage and administration information, and screening procedures.
+Refer to the Lioresal ® Intrathecal (baclofen injection) drug prescribing information for indications, contraindications, warnings, precautions, dosage and administration information, and screening procedures.
 
 CONTRAINDICATIONS
 
@@ -39,27 +39,57 @@ INSTRUCTIONS FOR USE
 
 Use sterile technique throughout the procedure to prevent contamination of the components and drug.
 
-- Note: The drug ampule is not sterile.
-- 1.Remove the drug ampule from the box.
-- 2.Break open the ampule as follows: Note: The entire neck of the ampule is scored Note: Use gauze pads to hold the top of the ampule when opening.
-  1. Hold the ampule in one hand (Figure 1).
-  2. Using the thumb and forefinger of your other hand, apply pressure and break open the ampule neck (Figure 2).
-- 3.Assemble the syringe and Filter Straw tube (Figure 3), making sure the syringe/tube connection is snug to avoid leakage.
-- 4.Withdraw the drug from the ampule(s) (Figure 4).
-- 5.Remove the Filter Straw tube from the syringe.
-- 6.Purge the air from the syringe.
-- 7.Attach the syringe cap, making sure the cap is snug to avoid leakage.
-- 8.Fill in the syringe label with the patient's name, drug name, drug concentration, and date.
-- 9.Peel the backing from the label and attach the label to the syringe, making sure not to cover the volume indicators on the syringe (Figure 5).
-- 10.If the drug needs to be transported, place the syringe(s) in the plastic bag.
-- 11.If applicable, repeat steps 1 – 10 with the second syringe, Filter Straw tube, syringe cap, and syringe label supplied in the Model 8565 and 8566 kits.
-- 12.Refer to the refill kit instructions for use for pump refill instructions.
+Note: The drug ampule is not sterile.
+
+1.Remove the drug ampule from the box.
+
+2.Break open the ampule as follows: Note: The entire neck of the ampule is scored Note: Use gauze pads to hold the top of the ampule when opening.
+
+a. Hold the ampule in one hand (Figure 1).
+Figure 1.
+Hold ampule
+
+b. Using the thumb and forefinger of your other hand, apply pressure and break open the ampule neck (Figure 2).
+Figure 2.
+Apply pressure with thumb and forefinger
+
+3.Assemble the syringe and Filter Straw® tube (Figure 3), making sure the syringe/tube connection is snug to avoid leakage.
+
+Figure 3.
+Assemble syringe and Filter Straw® tube
+
+4.Withdraw the drug from the ampule(s) (Figure 4).
+
+Figure 4.
+Withdraw drug from ampule
+
+5.Remove the Filter Straw® tube from the syringe.
+
+6.Purge the air from the syringe.
+
+7.Attach the syringe cap, making sure the cap is snug to avoid leakage.
+
+8.Fill in the syringe label with the patient's name, drug name, drug concentration, and date.
+
+9.Peel the backing from the label and attach the label to the syringe, making sure not to cover the volume indicators on the syringe (Figure 5).
+
+Figure 5.
+Syringe with cap and label
+
+10.
+If the drug needs to be transported, place the syringe(s) in the plastic bag.
+
+11.
+If applicable, repeat steps 1 – 10 with the second syringe, Filter Straw® tube, syringe cap, and syringe label supplied in the Model 8565 and 8566 kits.
+
+12.
+Refer to the refill kit Instructions for Use for pump refill instructions.
 
 Saol Therapeutics Inc. Roswell, GA 30076
 
-KI8561x01
+KI8561x03
 
-Medtronic® and MiniMed® are trademarks of Medtronic, registered in the U.S. and possibly other countries.
+Medtronic® and MiniMed® are trademarks of Medtronic®, registered in the U.S. and possibly other countries.
 
 Lioresal® is a registered trademark of Saol
 
@@ -69,7 +99,7 @@ Saol Refill Kit
 
 856X
 
-for use with Medtronic SynchroMed® Implantable Programmable Infusion Pumps
+for use with Medtronic SynchroMed ® Implantable Programmable Infusion Pumps
 
 Instructions for Use Rx only
 
@@ -80,11 +110,11 @@ Refer to the appropriate product for symbols that apply.
 |  | Open here |
 | --- | --- |
 
-Medtronic®, IsoMed®, and SynchroMed® are trademarks of Medtronic, registered in the U.S.
+Medtronic ®, IsoMed ®, SynchroMed ® and Medtronic logo are trademarks of Medtronic.
 
-MiniMed® is a registered trademark of Medtronic MiniMed, Inc.
+MiniMed ® is a registered trademark of Medtronic MiniMed, Inc.
 
-Lioresal® is a registered trademark of Saol
+Lioresal ® is a registered trademark of Saol
 
 Table of contents
 
@@ -98,38 +128,45 @@ Contraindications 7
 
 Warnings 7
 
-Precautions 10
+Precautions 11
 
-Adverse events 11
+Adverse events 12
 
-Instructions for use 11
+Instructions for use 12
 
-- Sterilization 11
-- Preliminary procedures 11
-- Emptying the SynchroMed pump 12
-- Refilling the SynchroMed pump 15
-- Programming the SynchroMed pump 17
-- After the refill procedure 17
+Sterilization 12
 
-Reservoir rinse procedure 18
+Preliminary procedures 12
 
-- Performing a reservoir rinse 18
+Emptying the SynchroMed pump 13
 
-Technical support 18
+Refilling the SynchroMed pump 16
 
-Emergency procedures 19
+Programming the SynchroMed pump 19
 
-- Lioresal Intrathecal (baclofen injection) overdose 19
-- Lioresal Intrathecal (baclofen injection) underdose/withdrawal 20
-- Emergency procedure to empty pump reservoir 21
+After the refill procedure 19
 
-Special notice 22
+Reservoir rinse procedure 19
 
-Limited Warranty 23
+Performing a reservoir rinse 19
 
-- Saol MODEL 856X REFILL KIT LIMITED WARRANTY 23
+Technical support 20
 
-| Refer to the Indications, Drug Stability, and Emergency Procedures reference manualThe referenced manual is available from the Medtronic website. To view, download, print, or order the manual, go to www.medtronic.com/manual or contact your Medtronic representative. for indications and related information. Refer to the appropriate information for prescribers booklet for contraindications, warnings, precautions, adverse events summary, individualization of treatment, patient selection, use in specific populations, and component disposal. Refer to the Lioresal Intrathecal (baclofen injection) drug labeling for indications, contraindications, warnings, precautions, dosage and administration information, and screening procedures. |
+Emergency procedures 20
+
+Lioresal Intrathecal (baclofen injection) overdose 20
+
+Lioresal Intrathecal (baclofen injection) underdose/withdrawal 21
+
+Emergency procedure to empty pump reservoir 22
+
+Special notice 23
+
+Limited Warranty 24
+
+Saol MODEL 856X REFILL KIT LIMITED WARRANTY 24
+
+| Refer to the Indications, Drug Stability, and Emergency Procedures reference manual The referenced manual is available from the Medtronic website. To view, download, print, or order the manual, go to www.medtronic.com/manual or contact your Medtronic representative. for indications and related information. Refer to the appropriate information for prescribers booklet for contraindications, warnings, precautions, adverse events summary, individualization of treatment, patient selection, use in specific populations, and component disposal. Refer to the Lioresal Intrathecal (baclofen injection) drug labeling for indications, contraindications, warnings, precautions, dosage and administration information, and screening procedures. |
 | --- |
 
 Introduction
@@ -144,10 +181,10 @@ The Model 856X Refill Kit contains the following sterile components that are not
 - 20-mL syringe
 - Extension set with a clamp
 - Template
-- 0.22-micron filter
+- 0.2-micron filter
 - Two 22-gauge noncoring needles
 - Fenestrated drape
-- Accessories (povidone iodine swabs, gauze pads, alcohol pads, gloves)
+- Accessories (povidone iodine swabs, two gauze pads, alcohol pads, gloves)
 
 Indications
 
@@ -173,6 +210,24 @@ Failure to comply with all instructions can lead to technical errors or improper
 Implantation and system management - Implantation and ongoing system management must be performed by individuals trained in the operation and handling of the infusion system and must be in compliance with procedures described in the appropriate technical instructions.
 Inadequate training or failure to follow instructions can require surgical revision or replacement, and result in a clinically significant or fatal drug underdose or overdose.
 
+Overinfusion - Overinfusion is defined as the delivery of more drug volume than the programmed rate, exceeding the pump’s flow rate accuracy specification.
+Pump reservoir contents aspirated during a refill procedure that are less than expected may indicate that the pump has overinfused.
+
+Overinfusion may or may not be associated with clinically relevant symptoms.
+When the pump delivers more drug volume than the programmed rate, patients may experience overdose symptoms, and the pump reservoir will deplete more quickly than expected.
+Patients may experience underdose or withdrawal symptoms if the drug is depleted prior to the scheduled refill date from an overinfusing pump.
+At each refill visit, question and examine the patient for signs and symptoms of overdose, underdose, and withdrawal.
+
+The low reservoir alarm of an overinfusing pump will not sound if the pump reservoir is prematurely depleted.
+The low reservoir alarm is calculated from the pump’s programmed delivery rate and is not a direct measurement of the actual drug volume in the pump reservoir.
+Multiple factors may increase the likelihood of overinfusion, including: nonindicated drug formulations, overfilling of the pump reservoir, operation of the pump with no fluid in the reservoir, catheter occlusion, and pump stops or motor stalls lasting more than 48 hours.
+
+Refer to the appropriate drug labeling for specific drug underdose or overdose symptoms and methods of management.
+If overinfusion is strongly suspected, contact Medtronic.
+Reducing the dose and/or concentration is not recommended as a solution for overinfusion.
+If immediate discontinuation of therapy is clinically appropriate for the patient, program the pump to minimum rate mode, and aspirate any remaining drug from the reservoir.
+Five occurrences of overinfusion have been identified in Medtronic’s prospective, long-term multi-center registry study (Product Surveillance Registry) as of January 2016, resulting in a rate estimate of less than 0.14% (approximately 1 in 700).
+
 Calculating catheter volume - Use the catheter length recorded at implant or catheter revision when calculating catheter volume.
 The actual implanted catheter length and catheter model number are required to accurately calculate catheter volume.
 A universal value does not exist that can be used as a substitute for this knowledge.
@@ -193,9 +248,7 @@ Injection error during a pump refill procedure - Be certain you are accessing th
 ALWAYS:
 
 - identify the pump model and reservoir volume.
-- identify the location of the reservoir fill port.
-  - –Avoid pocket fill, ie, improper injection of medication into the subcutaneous tissue (see below).
-  - –Avoid inadvertent injection into the catheter access port (see below).
+- identify the location of the reservoir fill port.–Avoid pocket fill, ie, improper injection of medication into the subcutaneous tissue (see below).–Avoid inadvertent injection into the catheter access port (see below).
 - use the instructions, noncoring needles, appropriate template edge, and other accessories provided in the appropriate kit.
 - verify the location of the reservoir fill port during needle insertion according to the instructions provided AND using other medical procedures as appropriate.
 - refer to the drug labeling for indications, contraindications, warnings, precautions, adverse events, and dosage and administration information.
@@ -217,7 +270,7 @@ A significant amount of drug may be present in the pump reservoir after emptying
 This residual volume cannot be removed by emptying the pump.
 Rinsing the reservoir between solutions minimizes the amount of drug in this residual volume but does not eliminate it.
 Failure to account for residual drug in the pump reservoir can result in a concentration that is different than intended and a clinically significant or fatal drug underdose or overdose.
-Program a bridge bolus after rinsing the reservoir twice.The bridge bolus advances the remaining old drug (the drug left in the pump tubing, catheter access port, and catheter after emptying and refilling the pump) to the catheter tip at the prior flow rate.
+Program a bridge bolus after rinsing the reservoir twice.The bridge bolus advances the remaining old drug (the drug left in the pump tubing, catheter access port, and catheter after emptying and refilling the pump) to the catheter tip at the specified flow rate.
 
 Refer to "Performing a reservoir rinse" on page 18 of this manual.
 Refer to the programming guide for bridge bolus procedures.
@@ -300,11 +353,12 @@ Reservoir valve activation - Do not prematurely activate the pump reservoir valv
 Activation of the pump reservoir valve seals the pump reservoir valve closed.
 Unusual resistance or the inability to inject the entire fill volume may indicate activation of the pump reservoir valve.
 If the valve closes, a portion of the reservoir contents must be delivered or removed before filling can be completed, and procedural delays can occur.
-To prevent activation of the pump reservoir valve during emptying and filling procedures:
+Activation of the pump reservoir valve before the pump is filled can be resolved by the following actions:
 
-- completely aspirate all contents of the pump reservoir before filling;
-- do not allow air into the pump reservoir through an open needle in the septum or an unclamped extension; and
-- do not exceed the maximum reservoir volume indicated in the pump labeling.
+- completely aspirating all contents of the pump reservoir before filling
+- not allowing air into the pump reservoir through an open needle in the septum or an unclamped extension
+- not exceeding the maximum reservoir volume indicated in the pump labeling
+- If the patient has a fever, waiting for the patient’s fever to reduce to 38°C or below
 
 Adverse events
 
@@ -329,305 +383,247 @@ Should sterility of the kit be in question, discard and use a new kit.
 
 Preliminary procedures
 
-- 1.Gather the following sterile equipment: From the refill kit: Locally supplied:
-  - Syringe(s) containing prescribed fluid
-  - 20-mL empty syringe
-  - Extension set with a clamp
-  - Template
-  - 0.22-micron filter
-  - 22-gauge noncoring needle
-  - Fenestrated drape
-  - Cleansing agent
-  - Alcohol pads
-  - Sterile gloves (not made with natural rubber latex)
-  - Adhesive bandage, optional
-- 2.Refer to the drug labeling for indications, contraindications, warnings, precautions, dosage and administration information, and screening procedures.
-- 3.Prepare the programmer for use.
-  Refer to the appropriate programming guide for instructions.
-- 4.Confirm the:Note: The model and reservoir volume can be confirmed by the programmer.
-  Alternatively, a radiopaque identifier in the pump shows the pump model and identifies Medtronic as the pump manufacturer on a standard x-ray (Figure 1).
-  A three-letter code designates the pump model.
-  Figure 1.
-  A radiopaque identifier on a SynchroMed II pump.
-  - pump model
-  - reservoir volume
-  - location of the pump
-- 5.Confirm that the volume of the prescribed fluid does not exceed the reservoir volume of the pump.
+1. Gather the following sterile equipment: From the refill kit: Locally supplied:
+   - Syringe(s) containing prescribed fluid
+   - 20-mL empty syringe
+   - Extension set with a clamp
+   - Template
+   - 0.2-micron filter
+   - 22-gauge noncoring needle
+   - Fenestrated drape
+   - Cleansing agent
+   - Alcohol pads
+   - Sterile gloves (not made with natural rubber latex)
+   - Adhesive bandage, optional
+2. Refer to the drug labeling for indications, contraindications, warnings, precautions, dosage and administration information, and screening procedures.
+3. Prepare the programmer for use.
+   Refer to the appropriate programming guide for instructions.
+4. Confirm the: Note: The model and reservoir volume can be confirmed by the programmer.
+   Alternatively, a radiopaque identifier in the pump shows the pump model and identifies Medtronic as the pump manufacturer on a standard x-ray (Figure 1).
+   A three-letter code designates the pump model.
+   Figure 1.
+   A radiopaque identifier on a SynchroMed II pump.
+   - pump model
+   - reservoir volume (i.e., expected volume)
+   - location of the pump
+5. Confirm that the volume of the prescribed fluid does not exceed the reservoir volume of the pump.
 
 Emptying the SynchroMed pump
 
-- 1.Prepare the injection site by cleansing the area.
-- 2.Open the kit.
-  Put on sterile gloves.
-- 3.Place the drape, exposing the pump site.
-- 4.Using sterile procedures, assemble the needle, extension set, and empty syringe as follows:
-  1. Connect the empty syringe to the extension set.
-  2. Connect the needle to the extension set.
-- 5.Palpate the pump and identify the location of the catheter access port and the edges of pump.
-  Factors that may make it difficult to locate the pump include, but are not limited to:If you have difficulty identifying the pump features, you may seek assistance from another clinician.
-  If deemed necessary by the clinician, x-ray and fluoroscopy can be used to assist in locating or determining the orientation of the pump.
-  - deep implant
-  - patient position (eg, a seated patient)
-  - scar tissue at the pump implant site
-  - seroma
-  - the pump is tilted in the pocket
-  - obesity
-  - pump movement within the pocket
-  - weight gain after implant
-  - weight loss after implant
-- 6.Place the template on the skin over the pump, and align the refill template correctly based on the model of the pump that is being refilled (Figure 2).
-  Align the edges of the template with the edges of the pump.
-  Use the center circle of the template to insert the needle into the reservoir fill port.
-  Figure 2.
-  Aligning the refill template according to the pump model.
-- 7.Close the clamp.
-- 8.Gently insert the 22-gauge needle perpendicular to the surface of the pump through the center of the template and into the center of the reservoir fill port until the needle touches the bottom of the reservoir fill port (Figures: 3 – 4).
-  Note: The pump may be tilted within the pocket and therefore the needle angle may not be perpendicular to the patient's body.
-  During proper needle insertion, you will feel the needle: If excessive resistance is encountered during needle insertion, reassess placement.
-  Do not force the needle.
-  The feel of abnormal resistance during the procedure may be an indication that the needle is not in the center of the reservoir fill port.
-  Figure 3.
-  View inside of a SynchroMed programmable pump while the needle is fully and properly inserted.Figure 4.
-  Close the clamp and insert the needle into the reservoir fill port.
-  Note: At any point during the procedure, if in doubt about the needle location, reassess its position.
-  Factors that may contribute to difficulty inserting the needle into the reservoir fill port include, but are not limited to:
-  - pass through the patient's skin and subcutaneous tissue,
-  - hit the silicone septum, (Scar tissue, if present, can feel similar to the septum.)
-  - pass through the septum, and
-  - hit the metal bottom of the reservoir fill port.
-    (The top of the pump is metal and hitting the top of the pump can feel similar to hitting the bottom of the reservoir fill port.)
-  - the pump is flipped in the pocket
-  - deep implant
-  - patient position (eg, a seated patient)
-  - patient movement (eg, spasticity, difficulty hold still)
-  - localized muscle spasms at the pump implant site
-  - scar tissue at the pump implant site
-  - seroma
-  - the pump is tilted in the pocket
-  - obesity
-  - pump movement within the pocket
-  - weight gain after implant
-  - weight loss after implant
-- 9.Open the clamp and slowly withdraw the fluid from the reservoir into the empty syringe.
-  Note: If the withdrawn fluid has an unexpected appearance (eg, evidence of blood), this may indicate that the needle is not properly inserted into the pump.
-- 10.If the syringe maximum capacity is reached before the reservoir is completely empty, more than one syringe will be needed to empty the pump.
-  1. Close the clamp.
-  2. Remove the full syringe.
-  3. Attach an empty syringe.
-  4. Verify that the needle is in the pump reservoir fill port.
-  5. Repeat step 9, then continue to step 11.
-- 11.Completely empty the pump.
-  When the pump is empty, the bubbles will stop forming, and negative pressure in the syringe can be felt.
-- 12.Close the clamp and remove the syringe from the extension set.
-  Note: Keep the needle in the reservoir fill port and the clamp closed for the pump refill procedure that follows.
-- 13.Note the amount withdrawn from the pump for entry in the patient's record.
-- 14.Compare the amount withdrawn from the pump to the expected volume.
-  See the pump programmer for the expected volume.
-  The amount withdrawn should approximately equal the expected volume.
-- 15.Discard the fluid and syringe as appropriate for the fluid content in accordance with institutional policies and applicable regulations.
+1. Prepare the injection site by cleansing the area.
+2. Open the kit.
+   Put on sterile gloves.
+3. Place the drape, exposing the pump site.
+4. Using sterile procedures, assemble the needle, extension set, and empty syringe as follows:
+   1. Connect the empty syringe to the extension set.
+   2. Connect the needle to the extension set.
+5. Palpate the pump and identify the location of the catheter access port and the edges of pump.
+   Factors that may make it difficult to locate the pump include, but are not limited to: If you have difficulty identifying the pump features, you may seek assistance from another clinician.
+   If deemed necessary by the clinician, x-ray and fluoroscopy can be used to assist in locating or determining the orientation of the pump.
+   - deep implant
+   - patient position (eg, a seated patient)
+   - scar tissue at the pump implant site
+   - seroma
+   - the pump is tilted in the pocket
+   - obesity
+   - pump movement within the pocket
+   - weight gain after implant
+   - weight loss after implant
+6. Place the template on the skin over the pump, and align the refill template.
+   Align the right edge of the template with the right edge of the pump (Figure 2).
+   Use the center circle of the template to insert the needle into the reservoir fill port.
+   Figure 2.
+   Aligning the refill template.
+7. Close the clamp.
+8. Gently insert the 22-gauge needle perpendicular to the surface of the pump through the center of the template and into the center of the reservoir fill port until the needle touches the bottom of the reservoir fill port (Figures: 3 – 4).
+   Note: The pump may be tilted within the pocket and therefore the needle angle may not be perpendicular to the patient's body.
+   During proper needle insertion, you will feel the needle: If excessive resistance is encountered during needle insertion, reassess placement.
+   Do not force the needle.
+   The feel of abnormal resistance during the procedure may be an indication that the needle is not in the center of the reservoir fill port.
+   Figure 3.
+   View inside of a SynchroMed programmable pump while the needle is fully and properly inserted.
+   Figure 4.
+   Close the clamp and insert the needle into the reservoir fill port.
+   Note: At any point during the procedure, if in doubt about the needle location, reassess its position.
+   Factors that may contribute to difficulty inserting the needle into the reservoir fill port include, but are not limited to:
+   - pass through the patient's skin and subcutaneous tissue,
+   - hit the silicone septum, (Scar tissue, if present, can feel similar to the septum.)
+   - pass through the septum, and
+   - hit the metal bottom of the reservoir fill port.
+     (The top of the pump is metal and hitting the top of the pump can feel similar to hitting the bottom of the reservoir fill port.)
+   - the pump is flipped in the pocket
+   - deep implant
+   - patient position (eg, a seated patient)
+   - patient movement (eg, spasticity, difficulty hold still)
+   - localized muscle spasms at the pump implant site
+   - scar tissue at the pump implant site
+   - seroma
+   - the pump is tilted in the pocket
+   - obesity
+   - pump movement within the pocket
+   - weight gain after implant
+   - weight loss after implant
+9. Open the clamp and slowly withdraw the fluid from the reservoir into the empty syringe.
+   Note: If the withdrawn fluid has an unexpected appearance (eg, evidence of blood), this may indicate that the needle is not properly inserted into the pump.
+10. If the syringe maximum capacity is reached before the reservoir is completely empty, more than one syringe will be needed to empty the pump.
+    1. Close the clamp.
+    2. Remove the full syringe.
+    3. Attach an empty syringe.
+    4. Verify that the needle is in the pump reservoir fill port.
+    5. Repeat step 9, then continue to step 11.
+11. Completely empty the pump.
+    When the pump is empty, the bubbles will stop forming, and negative pressure in the syringe can be felt.
+12. Close the clamp and remove the syringe from the extension set.
+    Note: Keep the needle in the reservoir fill port and the clamp closed for the pump refill procedure that follows.
+13. Note the amount withdrawn from the pump for entry in the patient's record.
+14. Compare the amount withdrawn from the pump to the expected volume.
+    See the pump programmer for the expected volume.
+    The amount withdrawn should approximately equal the expected volume.
+    If a less than expected volume is observed, potential causes of the volume discrepancy could include: inaccurate volume measurements, incomplete pump aspiration, incorrect volume entry into clinician programmer at refills, unrecognized partial pocket fill, aspiration of pump medication by patient or caregiver, or overinfusion.
+    Note: Immediately following the refill procedure:
+    - record the amount withdrawn and the expected volume in the patient’s record
+    - record any volume discrepancy and compare volume discrepancies from visit to visit.
+15. Discard the fluid and syringe as appropriate for the fluid content in accordance with institutional policies and applicable regulations.
 
 Refilling the SynchroMed pump
 
-|  | Warning: Pocket fill is the improper injection into the subcutaneous tissue, which includes the pump pocket. Pocket fill can result in a loss of or change in symptom control, drug withdrawal symptoms, or a clinically significant or fatal drug underdose or overdose. Observe the patient after the pump refill procedure for any signs or symptoms that could indicate a pocket fill or any other drug-related adverse event due to the refill procedure. Inadvertent injection into the catheter access port may result in a clinically significant or fatal drug overdose. Observe the patient after the pump refill procedure for any signs or symptoms that could indicate a drug-related adverse event due to the pump refill procedure. |
+|  | Warning:Overinfusion is defined as the delivery of more drug volume than the programmed rate, exceeding the pump’s flow rate accuracy specification. Pump reservoir contents aspirated during a refill procedure that are less than expected may indicate that the pump has overinfused. Overinfusion may or may not be associated with clinically relevant symptoms. When the pump delivers more drug volume than the programmed rate, patients may experience overdose symptoms, and the pump reservoir will deplete more quickly than expected. Patients may experience underdose or withdrawal symptoms if the drug is depleted prior to the scheduled refill date from an overinfusing pump. At each refill visit, question and examine the patient for signs and symptoms of overdose, underdose, and withdrawal. The low reservoir alarm of an overinfusing pump will not sound if the pump reservoir is prematurely depleted. The low reservoir alarm is calculated from the pump’s programmed delivery rate and is not a direct measurement of the actual drug volume in the pump reservoir. Multiple factors may increase the likelihood of overinfusion, including: nonindicated drug formulations, overfilling of the pump reservoir, operation of the pump with no fluid in the reservoir, catheter occlusion, and pump stops or motor stalls lasting more than 48 hours. Refer to the appropriate drug labeling for specific drug underdose or overdose symptoms and methods of management. If overinfusion is strongly suspected, contact Medtronic. Reducing the dose and/or concentration is not recommended as a solution for overinfusion. If immediate discontinuation of therapy is clinically appropriate for the patient, program the pump to minimum rate mode, and aspirate any remaining drug from the reservoir. Five occurrences of overinfusion have been identified in Medtronic’s prospective, long-term multi-center registry study (Product Surveillance Registry) as of January 2016, resulting in a rate estimate of less than 0.14% (approximately 1 in 700). |
 | --- | --- |
+|  | Warning: Pocket fill is the improper injection into the subcutaneous tissue, which includes the pump pocket. Pocket fill can result in a loss of or change in symptom control, drug withdrawal symptoms, or a clinically significant or fatal drug underdose or overdose. Observe the patient after the pump refill procedure for any signs or symptoms that could indicate a pocket fill or any other drug-related adverse event due to the refill procedure. Inadvertent injection into the catheter access port may result in a clinically significant or fatal drug overdose. Observe the patient after the pump refill procedure for any signs or symptoms that could indicate a drug-related adverse event due to the pump refill procedure. |
 |  | Warning: If it is suspected or known that all or part of the drug was inadvertently injected into the pocket or the catheter access port during the refill procedure, monitor the patient closely for signs and symptoms of overdose in an appropriate facility for a sufficient amount of time or until the symptoms have resolved. Refer to the kit manual or the Indications, Drug Stability, and Emergency Procedures reference manual for emergency procedures associated with drug underdose and overdose. Refer to the drug product information label for specific drug underdose and overdose symptoms and methods of management. |
 |  | Warning: Swelling at the injection site may indicate that the needle tip is not properly located within the pump reservoir, and the result could be pocket fill. Pocket fill can result in a loss of or change in symptom control, drug withdrawal symptoms, or a clinically significant or fatal drug underdose or overdose. Absence of swelling does not in all cases demonstrate that the needle tip is properly located. If swelling is present, stop injecting and observe the patient for any signs or symptoms that could indicate a pocket fill or any other drug-related adverse event. |
 
-- 1.If changing drug or drug concentrations, refer to "Performing a reservoir rinse" on page 18.
-  Otherwise, proceed to the next step.
-- 2.Confirm that the refill volume of the prescribed fluid does not exceed the reservoir volume of the pump.
-- 3.Purge the air from the syringe containing the prescribed fluid.
-- 4.Attach the filter to the syringe with the prescribed fluid.
-- 5.Purge all air from the filter.
-- 6.Attach the syringe with the prescribed fluid and filter to the extension set (Figure 5).
-- 7.Before and during injection, verify that the needle remains fully inserted to the bottom of the reservoir fill port.
-  Do not apply tension to the extension tubing because the needle may be pulled out from the reservoir.
-- 8.Open the clamp and as the clamp is opened, observe the following indications that the needle continues to be properly positioned:
-  - The bubbles in the extension set are immediately drawn into the pump.
-  - The plunger may move slightly when the drug is initially drawn into the pump.
-- 9.Slowly depress the plunger on the syringe to inject the prescribed fluid into the pump reservoir.
-  While injecting the prescribed fluid, verify that the needle remains properly located within the reservoir (Figure 5).
-  Caution: If you encounter unusual resistance before the maximum reservoir volume is injected or you are unable to inject fluid, the reservoir valve may have been activated.
-  Activation of the pump reservoir valve seals the pump reservoir valve closed.
-  If the valve closes, a portion of the reservoir contents must be delivered or removed before filling can be completed, and procedural delays can occur.
-  To prevent activation of the pump reservoir valve during emptying and filling procedures: completely aspirate all contents of the pump reservoir before filling;do not allow air into the pump reservoir through an open needle in the septum or an unclamped extension; anddo not exceed the maximum reservoir volume indicated in the pump labeling.
-  1. Periodically withdraw and observe a portion of the drug to confirm that the drug has the expected appearance.
-  2. After confirming that the needle remains in the reservoir, resume injecting fluid.
-     Figure 5.
-     Open the clamp and inject into the pump reservoir.
-- 10.If you have activated the reservoir valve, complete steps a – g below.
-  Otherwise, proceed to step 11.
-  Note: For pumps with a reservoir valve, the amount of time before the valve will release is dependent on the duration and the amount of pressure applied after the valve is first activated.
-  The more pressure exerted, the longer it may take to release the valve.
-  1. Discontinue injection.
-  2. Close the clamp.
-  3. Remove the syringe with prescribed fluid and attached filter.
-  4. Attach an empty 20-mL syringe to the extension set.
-  5. Open the clamp, and aspirate until all fluid/air is removed.
-  6. Close the clamp and remove the syringe containing the aspirate from the extension set and discard the syringe.
-  7. Repeat steps 2 – 10.
-- 11.If more than one syringe of prescribed fluid is needed to fill the pump reservoir, complete steps a – d below.
-  Otherwise, proceed to step 12.
-  1. Close the clamp.
-  2. Keep the filter from the extension set in place, and remove the first syringe from the filter.
-     Caution: Do not remove the filter from the extension set.
-     Removal of the filter could compromise the sterile barrier, which could result in an infection for the patient.
-  3. Purge the air from the second syringe, and attach the second syringe to the filter (Figure 5).
-  4. With the second syringe in a vertical position, open the clamp and slowly depress the plunger on the syringe to inject the prescribed fluid into the pump reservoir.
-- 12.When filling is complete, close the clamp and carefully remove the needle from the reservoir fill port.
-  Note: If you are unsure whether drug was injected correctly into the pump, completely aspirate the pump to verify that all of the injected drug can be removed.
-- 13.Remove the cleansing agent from the patient's skin using an alcohol pad.
-- 14.Apply an adhesive bandage, if desired.
-- 15.Discard all components of the kit.
-
-Programming the SynchroMed pump
-
-- 1.If the drug concentration or drug has been changed, program a bridge bolus.
-  Refer to the programming guide for the pump software.
-- 2.If any prescription information has changed, enter the changed information into the clinician programmer: for example drug name, drug concentration, infusion information, or volume of prescribed fluid in the pump reservoir.
-- 3.Update the pump.
-
-After the refill procedure
-
-- 1.Print out the desired refill-related reports, and place the final pump settings in the patient file.
-- 2.Determine the refill date from the printout, and schedule a refill appointment.
-
-Reservoir rinse procedure
-
-Performing a reservoir rinse
-
-To prevent drug overdose or underdose when changing concentrations or changing solutions in the pump reservoir, always rinse the reservoir twice between solutions to remove the drug that remains in the reservoir after emptying the pump.
-This remaining volume is known as the residual volume.
-
-The procedure for performing a reservoir rinse is outlined below.
-Use the components of the appropriate refill kit to perform the rinse and follow the applicable empty and refill procedures for that kit.
-
-- 1.Empty the pump completely.
-- 2.Fill the pump with 10 mL of sterile preservative-free Sodium Chloride Injection, USP.
-- 3.Empty the pump completely.
-- 4.Repeat steps 2 and 3.
-- 5.Fill the pump to capacity with the prescribed fluid.
-- 6.Program a bridge bolus.
-  Refer to the programming guide for the pump software.
-
-Technical support
-
-A toll-free technical support service is available 24 hours a day for clinicians managing patients with Medtronic implantable infusion pumps.
-Telephone Customer Service at: 1-800-707-0933.
-
-Emergency procedures
-
-Lioresal Intrathecal (baclofen injection) overdose
-
-Consult the patient's medical record or with the patient's physician to confirm the drug or drug concentration within the pump reservoir.
-
-Symptoms
-
-Drowsiness, lightheadedness, dizziness, somnolence, respiratory depression, hypothermia, seizures, rostral progression of hypotonia, and loss of consciousness progressing to coma.
-
-There is no specific antidote for treating overdoses of intrathecal baclofen injection.
-
-Actions
-
-See Table 1.
-
-Table 1.
-Lioresal Intrathecal (baclofen injection) overdose emergency procedures
-
-| Maintain airway/breathing/circulation. Intubation and respiratory support may be necessary. |  |
-| --- | --- |
-| Empty pump reservoir to stop drug flow. Record amount withdrawn. |  |
-| FOR INTRATHECAL OVERDOSE: | FOR SUBCUTANEOUS OVERDOSE: (eg, pocket fill) |
-| If not contraindicated, withdraw 30 – 40 mL CSF by lumbar puncture or through the catheter access port to reduce the concentration of baclofen in the CSF. Use only a 24-gauge or smaller, 1.5- or 2.0-inch (3.8- or 5.1-cm), needle for withdrawal from the catheter access port.Use a 25-gauge needle for withdrawal from a SynchroMed or SynchroMed EL catheter access port. Use a 24- or 25-gauge needle for withdrawal from a SynchroMed II catheter access port. | Proceed immediately to the next step. |
-| Notify patient's physician managing intrathecal baclofen injection therapy. |  |
-| Continue to monitor closely for symptom recurrence. |  |
-| Report incident to Saol, |  |
-
-Lioresal Intrathecal (baclofen injection) underdose/ withdrawal
-
-Consult the patient's medical record or with the patient's physician to confirm the drug or drug concentration within the pump reservoir.
-
-Symptoms of underdose
-
-Pruritus without rash, hypotension, paresthesia, fever, and altered mental state.
-Priapism may develop or recur if treatment with intrathecal baclofen is interrupted.
-
-Symptoms of withdrawal
-
-Exaggerated rebound spasticity and muscle rigidity, rhabdomyolysis, and multiple organ failure.
-The condition may resemble autonomic dysreflexia, infection (sepsis), malignant hyperthermia, and neuroleptic- malignant syndrome.
-
-Actions
-
-See Table 2.
-
-Table 2.
-Lioresal Intrathecal (baclofen injection) underdose/ withdrawal emergency procedures
-
-| Initiate life-sustaining measures if indicated. |
-| --- |
-| If a patient receiving intrathecal baclofen injection presents with the signs and symptoms suggestive of withdrawal, the following is consistent with that suggested by a panel of therapy-experienced clinicians convened to explore this issue. Refer to the drug manufacturer's package insert for a complete list of indications, contraindications, warnings, precautions, adverse events, and dosage and administration information.,Coffey RJ, Edgar TS, Francisco GE, et al. Abrupt withdrawal from the intrathecal baclofen: recognition and management of a potentially life- threatening syndrome. Arch Phys Med Rehabil. 2002;83:735-741. 1.Immediately contact a physician experienced in intrathecal baclofen injection, preferably the physician managing the therapy for the patient in question; follow the recommendations of this physician. This step is important even if the patient's signs and symptoms seem mild.2.If a physician experienced in intrathecal baclofen injection is unavailable, consider instituting one or more of the following options, unless otherwise contraindicated: high-dose oral* or enteral baclofenrestoration of intrathecal baclofen injection infusionintravenous benzodiazepines by continuous or intermittent infusion, titrating the dosage until the desired therapeutic effect is achieved * Note: Oral baclofen should not be relied upon as the sole treatment for intrathecal baclofen injection withdrawal syndrome. |
-| Report incident to Saol |
-
-Emergency procedure to empty pump reservoir
-
-Equipment
-
-- 22-gauge noncoring needle
-- 20-mL syringe
-- 3-way stopcock or extension set with clamp
-- Antiseptic agent
-
-- 1.Assemble the needle, syringe, and stopcock or extension set.
-- 2.Locate the pump by palpation.
-  The reservoir fill port is located in the CENTER of the pump.
-  If you have difficulty identifying the pump features, you may seek assistance from another clinician.
-  If deemed necessary by the clinician, x-ray and fluoroscopy can be used to assist in locating or determining the orientation of the pump.
-- 3.Prepare the injection site by cleansing the area using an antiseptic agent.
-- 4.Gently insert the 22-gauge noncoring needle into the center of the reservoir fill port until the needle touches the bottom of the reservoir fill port (Figure 6).
-  During proper needle insertion, you will feel the needle: If excessive resistance is encountered during needle insertion, reassess placement.
-  Do not force the needle.
-  The feel of abnormal resistance during the procedure may be an indication that the needle is not in the center of the reservoir fill port.
-  Figure 6.
-  View inside of a SynchroMed programmable pump while the needle is fully and properly inserted.
-  - pass through the patient's skin and subcutaneous tissue,
-  - hit the silicone septum, (Scar tissue, if present, can feel similar to the septum.)
-  - pass through the septum, and
-  - hit the metal bottom of the reservoir fill port.
-    (The top of the pump is metal and hitting the top of the pump can feel similar to hitting the bottom of the reservoir fill port.)
-- 5.Open the clamp or stopcock and slowly withdraw the fluid from the reservoir into the empty syringe.
-- 6.Depending on pump reservoir volume, more than one syringe may be needed to empty the pump.
-  Close the clamp or stopcock when changing syringes.
-- 7.Completely empty the pump.
-  When the pump is empty, the bubbles will stop forming, and negative pressure in the syringe can be felt.
-- 8.Remove the needle from the reservoir fill port.
-- 9.Record in patient chart the amount of fluid emptied from the pump reservoir.
-
-Special notice
-
-The Saol Model 856X Refill Kit is designed to be used for refilling Medtronic implantable programmable infusion pumps with the exception of Medtronic MiniMed infusion pumps.
-Saol cannot warrant or guarantee the refill kit because, despite the exercise of all due care in design, component selection, manufacture, and testing prior to sale, the components of the refill kit may be easily damaged before or during use by improper handling or other intervening acts.
-
-SAOL MODEL 856X REFILL KIT LIMITED WARRANTYThis Limited Warranty is provided by Saol.
-It applies only in the United States.
-
-1. This Limited Warranty provides the following assurance to the purchaser of the Saol Model 856X packaged herein, hereafter referred to as the "Product":
-   - (1)Should the Product fail to function within normal tolerances due to a defect in materials or workmanship prior to its "Use By" date, Saol will at its option: (a) issue a credit to the purchaser equal to the Purchase Price, as defined in Subsection A(2), against the purchase of the replacement Product or provide a functionally comparable replacement Product at no charge.
-   - (2)As used herein, Purchase Price shall mean the lesser of the net invoiced price of the original, or current functionally comparable, or replacement Product.
-2. To qualify for the Limited Warranty set forth in Section A(1), the following conditions must be met:
-   - (1)The Product must be used prior to its "Use By" date.
-   - (2)The unused portion of the Product must be returned to Saol within thirty (30) days after discovery of the defect and shall be the Property of Saol.
-   - (3)The Product must not have been altered or subjected to misuse, abuse or accident.
-   - (4)The Product must be used in accordance with the labeling and instructions for use provided with the Product.
-3. This Limited Warranty is limited to its express terms.
-   In particular:
-   - (1)Except as expressly provided by this Limited Warranty, SAOL IS NOT RESPONSIBLE FOR ANY DIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES BASED ON ANY DEFECT, FAILURE OR MALFUNCTION OF THE PRODUCT, WHETHER THE CLAIM IS BASED ON WARRANTY, CONTRACT, TORT OR OTHERWISE.
-   - (2)This Limited Warranty is made only to the purchaser who uses the Product.
-     AS TO ALL OTHERS, SAOL MAKES NO WARRANTY, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE WHETHER ARISING FROM STATUTE, COMMON LAW, CUSTOM OR OTHERWISE.
-     NO EXPRESS OR IMPLIED WARRANTY TO THE PATIENT SHALL EXTEND BEYOND THE PERIOD SPECIFIED IN A(1) ABOVE.
-     THIS LIMITED WARRANTY SHALL BE THE EXCLUSIVE REMEDY AVAILABLE TO ANY PERSON.
-   - (3)The exclusions and limitations set out above are not intended to, and should not be construed so as to contravene mandatory provisions of applicable law.
-     If any part or term of this Limited Warranty is held to be illegal, unenforceable or in conflict with applicable law by a court of competent jurisdiction, the validity of the remaining portions of the Limited Warranty shall not be affected, and all rights and obligations shall be construed and enforced as if this Limited Warranty did not contain the particular part or term held to be invalid.
-     This Limited Warranty gives the patient specific legal rights.
-     The patient may also have other rights which vary from state to state.
-   - (4)No person has any authority to bind Saol to any representation, condition or warranty except this Limited Warranty.
+1. If changing drug or drug concentrations, refer to "Performing a reservoir rinse" on page 18.
+   Otherwise, proceed to the next step.
+2. Confirm that the refill volume of the prescribed fluid does not exceed the reservoir volume of the pump.
+3. Purge the air from the syringe containing the prescribed fluid.
+4. Attach the filter to the syringe with the prescribed fluid.
+5. Purge all air from the filter.
+6. Attach the syringe with the prescribed fluid and filter to the extension set (Figure 5).
+7. Before and during injection, verify that the needle remains fully inserted to the bottom of the reservoir fill port.
+   Do not apply tension to the extension tubing because the needle may be pulled out from the reservoir.
+8. Open the clamp and as the clamp is opened, observe the following indications that the needle continues to be properly positioned:
+   - The bubbles in the extension set are immediately drawn into the pump.
+   - The plunger may move slightly when the drug is initially drawn into the pump.
+9. Slowly depress the plunger on the syringe to inject the prescribed fluid into the pump reservoir.
+   While injecting the prescribed fluid, verify that the needle remains properly located within the reservoir (Figure 5).
+   Caution: If you encounter unusual resistance before the maximum reservoir volume is injected or you are unable to inject fluid, the reservoir valve may have been activated.
+   Activation of the pump reservoir valve seals the pump reservoir valve closed.
+   If the valve closes, a portion of the reservoir contents must be delivered or removed before filling can be completed, and procedural delays can occur.
+   To prevent activation of the pump reservoir valve during emptying and filling procedures: completely aspirate all contents of the pump reservoir before filling;do not allow air into the pump reservoir through an open needle in the septum or an unclamped extension; anddo not exceed the maximum reservoir volume indicated in the pump labeling.
+   1. Periodically withdraw and observe a portion of the drug to confirm that the drug has the expected appearance.
+   2. After confirming that the needle remains in the reservoir, resume injecting fluid.
+      Figure 5.
+      Open the clamp and inject into the pump reservoir.
+10. If you have activated the reservoir valve, complete steps a – g below.
+    Otherwise, proceed to step 11.
+    Note: For pumps with a reservoir valve, the amount of time before the valve will release is dependent on the duration and the amount of pressure applied after the valve is first activated.
+    The more pressure exerted, the longer it may take to release the valve.
+    1. Discontinue injection.
+    2. Close the clamp.
+    3. Remove the syringe with prescribed fluid and attached filter.
+    4. Attach an empty 20-mL syringe to the extension set.
+    5. Open the clamp, and aspirate until all fluid/air is removed.
+    6. Close the clamp and remove the syringe containing the aspirate from the extension set and discard the syringe.
+    7. Repeat steps 2 – 10.
+11. If more than one syringe of prescribed fluid is needed to fill the pump reservoir, complete steps a – d below.
+    Otherwise, proceed to step 12.
+    1. Close the clamp.
+    2. Keep the filter from the extension set in place, and remove the first syringe from the filter.
+       Caution: Do not remove the filter from the extension set.
+       Removal of the filter could compromise the sterile barrier, which could result in an infection for the patient.
+    3. Purge the air from the second syringe, and attach the second syringe to the filter (Figure 5).
+    4. With the second syringe in a vertical position, open the clamp and slowly depress the plunger on the syringe to inject the prescribed fluid into the pump reservoir.
+12. When filling is complete, close the clamp and carefully remove the needle from the reservoir fill port.
+    Note: If you are unsure whether drug was injected correctly into the pump, completely aspirate the pump to verify that all of the injected drug can be removed.
+13. Remove the cleansing agent from the patient's skin using an alcohol pad.
+14. Apply an adhesive bandage, if desired.
+15. Discard all components of the kit.
+16. Programming the SynchroMed pumpAfter the refill procedureReservoir rinse procedurePerforming a reservoir rinseTo prevent drug overdose or underdose when changing concentrations or changing solutions in the pump reservoir, always rinse the reservoir twice between solutions to remove the drug that remains in the reservoir after emptying the pump.
+    This remaining volume is known as the residual volume.The procedure for performing a reservoir rinse is outlined below.
+    Use the components of the appropriate refill kit to perform the rinse and follow the applicable empty and refill procedures for that kit.Technical supportA toll-free technical support service is available 24 hours a day for clinicians managing patients with Medtronic implantable infusion pumps.
+    Telephone Customer Service at: 1-800-707-0933.Emergency proceduresLioresal Intrathecal (baclofen injection) overdoseConsult the patient's medical record or with the patient's physician to confirm the drug or drug concentration within the pump reservoir.SymptomsDrowsiness, lightheadedness, dizziness, somnolence, respiratory depression, hypothermia, seizures, rostral progression of hypotonia, and loss of consciousness progressing to coma.There is no specific antidote for treating overdoses of intrathecal baclofen injection.Actions See Table 1.
+    Table 1.
+    Lioresal Intrathecal (baclofen injection) overdose emergency procedures Maintain airway/breathing/circulation.
+    Intubation and respiratory support may be necessary.
+    Empty pump reservoir to stop drug flow.
+    Record amount withdrawn.
+    FOR INTRATHECAL OVERDOSE:FOR SUBCUTANEOUS OVERDOSE: (eg, pocket fill) If not contraindicated, withdraw 30 – 40 mL CSF by lumbar puncture or through the catheter access port to reduce the concentration of baclofen in the CSF.
+    Use only a 24-gauge or smaller, 1.5- or 2.0-inch (3.8- or 5.1-cm), needle for withdrawal from the catheter access port.
+    Use a 24- or 25-gauge needle for withdrawal from a SynchroMed II catheter access port.Proceed immediately to the next step.Notify patient's physician managing intrathecal baclofen injection therapy.Continue to monitor closely for symptom recurrence.Report incident to Saol Lioresal Intrathecal (baclofen injection) underdose/ withdrawalConsult the patient's medical record or with the patient's physician to confirm the drug or drug concentration within the pump reservoir.Symptoms of underdosePruritus without rash, hypotension, paresthesia, fever, and altered mental state.
+    Priapism may develop or recur if treatment with intrathecal baclofen is interrupted.Symptoms of withdrawalExaggerated rebound spasticity and muscle rigidity, rhabdomyolysis, and multiple organ failure.
+    The condition may resemble autonomic dysreflexia, infection (sepsis), malignant hyperthermia, and neuroleptic- malignant syndrome.Actions See Table 2.
+    Table 2.
+    Lioresal Intrathecal (baclofen injection) underdose/ withdrawal emergency proceduresInitiate life-sustaining measures if indicated.
+    If a patient receiving intrathecal baclofen injection presents with the signs and symptoms suggestive of withdrawal, the following is consistent with that suggested by a panel of therapy-experienced clinicians convened to explore this issue.
+    Refer to the drug manufacturer's package insert for a complete list of indications, contraindications, warnings, precautions, adverse events, and dosage and administration information., Coffey RJ, Edgar TS, Francisco GE, et al. Abrupt withdrawal from the intrathecal baclofen: recognition and management of a potentially life- threatening syndrome.
+    Arch Phys Med Rehabil.
+    2002;83:735-741.
+    Immediately contact a physician experienced in intrathecal baclofen injection, preferably the physician managing the therapy for the patient in question; follow the recommendations of this physician.
+    This step is important even if the patient's signs and symptoms seem mild.
+    If a physician experienced in intrathecal baclofen injection is unavailable, consider instituting one or more of the following options, unless otherwise contraindicated: high-dose oral * or enteral baclofen restoration of intrathecal baclofen injection infusionintravenous benzodiazepines by continuous or intermittent infusion, titrating the dosage until the desired therapeutic effect is achieved * Note: Oral baclofen should not be relied upon as the sole treatment for intrathecal baclofen injection withdrawal syndrome.
+    Report incident to Saol Emergency procedure to empty pump reservoirEquipmentSpecial noticeThe Saol Model 856X Refill Kit is designed to be used for refilling Medtronic implantable programmable infusion pumps with the exception of Medtronic MiniMed infusion pumps.
+    Saol cannot warrant or guarantee the refill kit because, despite the exercise of all due care in design, component selection, manufacture, and testing prior to sale, the components of the refill kit may be easily damaged before or during use by improper handling or other intervening acts.
+    SAOL MODEL 856X REFILL KIT LIMITED WARRANTY This Limited Warranty is provided by Saol.
+    It applies only in the United States.
+    1. If the drug concentration or drug has been changed, program a bridge bolus.
+       Refer to the programming guide for the pump software.
+    2. If any prescription information has changed, enter the changed information into the clinician programmer: for example drug name, drug concentration, infusion information, or volume of prescribed fluid in the pump reservoir.
+    3. Update the pump.
+    1. Record the amount withdrawn and the expected volume in the patient’s record.
+    2. Record any volume discrepancy and compare volume discrepancies from visit to visit.
+    3. Print out the desired refill-related reports, and place the final pump settings in the patient file.
+    4. Determine the refill date from the printout, and schedule a refill appointment.
+    1. 1.
+       Empty the pump completely.
+    2. 2.
+       Fill the pump with 10 mL of sterile preservative-free Sodium Chloride Injection, USP.
+    3. 3.
+       Empty the pump completely.4.Repeat steps 2 and 3.
+    4. 4.
+       Fill the pump to capacity with the prescribed fluid.
+    5. 5.
+       Program a bridge bolus.
+       Refer to the programming guide for the pump software.
+    1. 
+       1. 
+          - 22-gauge noncoring needle
+          - 20-mL syringe
+          - 3-way stopcock or extension set with clamp
+          - Antiseptic agent
+       2. 
+          1. Assemble the needle, syringe, and stopcock or extension set.
+          2. Locate the pump by palpation.
+             The reservoir fill port is located in the CENTER of the pump.
+             If you have difficulty identifying the pump features, you may seek assistance from another clinician.
+             If deemed necessary by the clinician, x-ray and fluoroscopy can be used to assist in locating or determining the orientation of the pump.
+          3. Prepare the injection site by cleansing the area using an antiseptic agent.
+          4. Gently insert the 22-gauge noncoring needle into the center of the reservoir fill port until the needle touches the bottom of the reservoir fill port (Figure 6).
+             During proper needle insertion, you will feel the needle: If excessive resistance is encountered during needle insertion, reassess placement.
+             Do not force the needle.
+             The feel of abnormal resistance during the procedure may be an indication that the needle is not in the center of the reservoir fill port.
+             Figure 6.
+             View inside of a SynchroMed programmable pump while the needle is fully and properly inserted.
+             - pass through the patient's skin and subcutaneous tissue,
+             - hit the silicone septum, (Scar tissue, if present, can feel similar to the septum.)
+             - pass through the septum, and
+             - hit the metal bottom of the reservoir fill port.
+               (The top of the pump is metal and hitting the top of the pump can feel similar to hitting the bottom of the reservoir fill port.)
+          5. Open the clamp or stopcock and slowly withdraw the fluid from the reservoir into the empty syringe.
+          6. Depending on pump reservoir volume, more than one syringe may be needed to empty the pump.
+             Close the clamp or stopcock when changing syringes.
+          7. Completely empty the pump.
+             When the pump is empty, the bubbles will stop forming, and negative pressure in the syringe can be felt.
+          8. Remove the needle from the reservoir fill port.
+          9. Record in patient chart the amount of fluid emptied from the pump reservoir.
+    1. 
+       1. This Limited Warranty provides the following assurance to the purchaser of the Saol Model 856X packaged herein, hereafter referred to as the "Product":(1)Should the Product fail to function within normal tolerances due to a defect in materials or workmanship prior to its "Use By" date, Saol will at its option: (a) issue a credit to the purchaser equal to the Purchase Price, as defined in Subsection A(2), against the purchase of the replacement Product or provide a functionally comparable replacement Product at no charge.(2)As used herein, Purchase Price shall mean the lesser of the net invoiced price of the original, or current functionally comparable, or replacement Product.
+       2. To qualify for the Limited Warranty set forth in Section A(1), the following conditions must be met:(1)The Product must be used prior to its "Use By" date.(2)The unused portion of the Product must be returned to Saol within thirty (30) days after discovery of the defect and shall be the Property of Saol.(3)The Product must not have been altered or subjected to misuse, abuse or accident.(4)The Product must be used in accordance with the labeling and instructions for use provided with the Product.
+       3. This Limited Warranty is limited to its express terms.
+          In particular:(1)Except as expressly provided by this Limited Warranty, SAOL IS NOT RESPONSIBLE FOR ANY DIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES BASED ON ANY DEFECT, FAILURE OR MALFUNCTION OF THE PRODUCT, WHETHER THE CLAIM IS BASED ON WARRANTY, CONTRACT, TORT OR OTHERWISE.(2)This Limited Warranty is made only to the purchaser who uses the Product.
+          AS TO ALL OTHERS, SAOL MAKES NO WARRANTY, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE WHETHER ARISING FROM STATUTE, COMMON LAW, CUSTOM OR OTHERWISE.
+          NO EXPRESS OR IMPLIED WARRANTY TO THE PATIENT SHALL EXTEND BEYOND THE PERIOD SPECIFIED IN A(1) ABOVE.
+          THIS LIMITED WARRANTY SHALL BE THE EXCLUSIVE REMEDY AVAILABLE TO ANY PERSON.(3)The exclusions and limitations set out above are not intended to, and should not be construed so as to contravene mandatory provisions of applicable law.
+          If any part or term of this Limited Warranty is held to be illegal, unenforceable or in conflict with applicable law by a court of competent jurisdiction, the validity of the remaining portions of the Limited Warranty shall not be affected, and all rights and obligations shall be construed and enforced as if this Limited Warranty did not contain the particular part or term held to be invalid.
+          This Limited Warranty gives the patient specific legal rights.
+          The patient may also have other rights which vary from state to state.(4)No person has any authority to bind Saol to any representation, condition or warranty except this Limited Warranty.

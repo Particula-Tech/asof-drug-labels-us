@@ -12,7 +12,7 @@ Symptoms of LIORESAL INTRATHECAL overdose were reported in a sensitive adult pat
 
 There is no specific antidote for treating overdoses of LIORESAL INTRATHECAL (baclofen injection); however, the following steps should ordinarily be undertaken:
 
-- 1)Residual LIORESAL INTRATHECAL solution should be removed from the pump as soon as possible.
-- 2)Patients with respiratory depression should be intubated if necessary, until the drug is eliminated.
+- 1) Residual LIORESAL INTRATHECAL solution should be removed from the pump as soon as possible.
+- 2) Patients with respiratory depression should be intubated if necessary, until the drug is eliminated.
 
 If lumbar puncture is not contraindicated, consideration should be given to withdrawing 30-40 mL of CSF to reduce CSF baclofen concentration.
