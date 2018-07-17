@@ -19,6 +19,18 @@ TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920
 
 8057807 Revised November 2015
 
+or
+
+Manufactured by:
+
+TORRENT PHARMACEUTICALS LTD., Bharuch-392130, INDIA.
+
+Manufactured for:
+
+TORRENT PHARMA INC., Basking Ridge, NJ 07920.
+
+8060564 Revised May 2016
+
 DONEPEZIL HYDROCHLORIDE TABLETS PATIENT PACKAGE INSERT
 
 Donepezil Hydrochloride (doe-NEP-e-zil HYE-droe-KLOR-ide) Tablets, USP
@@ -183,8 +195,20 @@ Manufactured by:
 TORRENT PHARMACEUTICALS LTD., Indrad-382 721, Dist.
 Mehsana, INDIA.
 
-For:
+For
 
 TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920
 
 8057808 Revised November 2015
+
+or
+
+Manufactured by:
+
+TORRENT PHARMACEUTICALS LTD., Bharuch-392130, INDIA.
+
+Manufactured For:
+
+TORRENT PHARMA INC., Basking Ridge, NJ 07920.
+
+8060563 Revised May 2016
