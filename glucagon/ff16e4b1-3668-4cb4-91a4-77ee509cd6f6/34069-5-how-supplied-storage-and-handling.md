@@ -27,6 +27,8 @@ Do not freeze.
 Keep in the original package to protect from light.
 GlucaGen should not be used after the expiry date on the vials.
 
-After Reconstitution: Reconstituted GlucaGen should be used immediately.
+After Reconstitution:
+
+Reconstituted GlucaGen should be used immediately.
 Discard any unused portion.
 If the solution shows any sign of gel formation or particles, it should be discarded.

@@ -5,11 +5,15 @@ For GlucaGen HypoKit:
 ## 2.1 Treatment of severe hypoglycemia
 
 1.
-Using the supplied prefilled syringe, carefully insert the needle through the rubber stopper of the vial containing GlucaGen powder and inject all the liquid from the syringe into the vial.
+Using the supplied prefilled syringe, carefully insert the needle through the rubber stopper of the vial containing
+
+GlucaGen powder and inject all the liquid from the syringe into the vial.
 
 2.
 Shake the vial gently until the powder is completely dissolved and no particles remain in the fluid.
-The reconstituted fluid should be clear and of water-like consistency.
+The reconstituted
+
+fluid should be clear and of water-like consistency.
 
 3.
 The reconstituted GlucaGen gives a concentration of approximately 1 mg/mL glucagon.
@@ -18,9 +22,15 @@ The reconstituted GlucaGen gives a concentration of approximately 1 mg/mL glucag
 The reconstituted GlucaGen should be used immediately after reconstitution.
 
 5.
-Inject 1 mL (adults and children, weighing more than 55 lbs (25 kg)) or 0.5 mL (children weighing less than 55 lbs (25 kg)) subcutaneously, intramuscularly, or intravenously.
-Common injection sites for GlucaGen are upper arms, thighs, or buttocks.
-If the weight is not known: children younger than 6 years should be given a 0.5 mL and children 6 years and older should be given 1 mL.
+Inject 1 mL (adults and children, weighing more than 55 lbs (25 kg)) or 0.5 mL (children weighing less than 55 lbs (25
+
+kg)) subcutaneously, intramuscularly, or intravenously.
+Common injection sites for GlucaGen are upper arms, thighs,
+
+or buttocks.
+If the weight is not known: children younger than 6 years should be given a 0.5 mL and children 6 years
+
+and older should be given 1 mL.
 
 6.
 Discard any unused portion.
@@ -35,7 +45,9 @@ The glucagon injection may be repeated using a new kit while waiting for emergen
 Intravenous glucose MUST be administered if the patient fails to respond to glucagon.
 
 10.
-When the patient has responded to the treatment, give fast-acting and long-acting oral carbohydrates to restore the liver glycogen and prevent recurrence of hypoglycemia.
+When the patient has responded to the treatment, give fast-acting and long-acting oral carbohydrates to restore the
+
+liver glycogen and prevent recurrence of hypoglycemia.
 
 For GlucaGen Diagnostic Kit and the GlucaGen 10-pack:
 

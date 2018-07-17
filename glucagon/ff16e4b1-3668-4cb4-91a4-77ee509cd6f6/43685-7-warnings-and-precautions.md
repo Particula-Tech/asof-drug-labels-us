@@ -23,10 +23,17 @@ The patients should be given standard treatment for anaphylaxis including an inj
 In order for GlucaGen treatment to reverse hypoglycemia, adequate amounts of glucose must be stored in the liver (as glycogen).
 Therefore, GlucaGen should be used with caution in patients with conditions such as prolonged fasting, starvation, adrenal insufficiency, or chronic hypoglycemia because these conditions result in low levels of releasable glucose in the liver and an inadequate reversal of hypoglycemia by GlucaGen treatment.
 
-## 5.5 Cardiac Disease
+## 5.5 Necrolytic Migratory Erythema
+
+Necrolytic migratory erythema (NME), a skin rash commonly associated with glucagonomas (glucagon-producing tumors) and characterized by scaly, pruritic erythematous plaques, bullae, and erosions, has been reported postmarketing following continuous glucagon infusion.
+NME lesions may affect the face, groin, perineum and legs or be more widespread.
+In the reported cases NME resolved with discontinuation of the glucagon, and treatment with corticosteroids was not effective.
+Should NME occur, consider whether the benefits of continuous glucagon infusion outweigh the risks.
+
+## 5.6 Cardiac Disease
 
 Caution should be observed when GlucaGen is used as an adjunct in endoscopic or radiographic procedures to inhibit gastrointestinal motility in patients with known cardiac disease.
 
-## 5.6 Laboratory Tests
+## 5.7 Laboratory Tests
 
 Blood glucose measurements may be considered to monitor the patient’s response.
