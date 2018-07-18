@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA050706"
+  ],
+  "inn": "meropenem",
+  "labeler": "Pfizer Laboratories Div Pfizer Inc",
+  "package_ndcs": [
+    "0069-0313-01",
+    "0069-0313-10",
+    "0069-0314-01",
+    "0069-0314-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "meropenem",
+      "name": "MERREM"
+    }
+  ],
+  "setid": "8f0c2a90-956a-4430-b26d-00d48169a9b0",
+  "source": "dailymed"
+}
