@@ -79,7 +79,7 @@ Because of this alteration of the metronidazole molecule, a concentration gradie
 The reduced form of metronidazole and free radicals can interact with DNA leading to inhibition of DNA synthesis and DNA degradation leading to death of bacteria.
 The precise mechanism of action of metronidazole is unclear.
 
-### Drug Resistance
+### Resistance
 
 A potential for development of resistance exists against metronidazole.
 
@@ -87,8 +87,10 @@ Resistance may be due to multiple mechanisms that include decreased uptake of th
 
 Metronidazole does not possess any clinically relevant activity against facultative anaerobes or obligate aerobes.
 
-### Activity In Vitro
+### Antimicrobial activity
 
 - Bacteroides species Gardnerella vaginalis Mobiluncus species Peptostreptococcus species
 
-Culture and sensitivity testing of bacteria are not routinely performed to establish the diagnosis of bacterial vaginosis.
+### Susceptibility Testing
+
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
