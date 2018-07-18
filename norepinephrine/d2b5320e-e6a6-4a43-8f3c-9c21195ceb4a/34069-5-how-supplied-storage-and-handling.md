@@ -14,8 +14,8 @@ Protect from light.
 
 Regitine, trademark, CIBA Pharmaceuticals Company.
 
-Distributed by Hospira, Inc., Lake Forest, IL 60045 USA NOVAPLUS is a registered trademark of Vizient, Inc.
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA Novaplus is a registered trademark of Vizient, Inc.
 
-LAB-1152-2.0
+LAB-1152-3.0
 
-Revised: 05/2018
+Revised: 06/2018
