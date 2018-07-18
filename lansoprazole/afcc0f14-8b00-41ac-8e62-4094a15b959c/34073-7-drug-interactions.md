@@ -1,16 +1,16 @@
 # 7. DRUG INTERACTIONS
 
-Tables 2 and 3 include drugs with clinically important drug interactions and interaction with diagnostics when administered concomitantly with lansoprazole delayed-release capsulesand instructions for preventing or managing them.
+Tables 2 and 3 include drugs with clinically important drug interactions and interaction with diagnostics when administered concomitantly with lansoprazole delayed-release capsules and instructions for preventing or managing them.
 
 Consult the labeling of concomitantly used drugs to obtain further information about interactions with PPIs.
 
 Table 2.
-Clinically Relevant Interactions Affecting Drugs Co-Administered with Lansoprazole delayed-release capsules and Interactions with Diagnostics
+Clinically Relevant Interactions Affecting Drugs Co-Administered with Lansoprazole Delayed-Release Capsules and Interactions with Diagnostics
 
 | Antiretrovirals |  |
 | --- | --- |
-| Clinical impact: | The effect of PPIs on antiretroviral drugs is variable. The clinical importance and the mechanisms behind these interaction are not always known. Decrease dexposure of some antiretroviral drugs (e.g., rilpivirine, atazanavir, and nelfinavir) when used concomitantly with lansoprazole may reduce antiviral effect and promote the development of drug resistance.Increased exposure of other antiretroviral drugs (e.g., saquinavir) when used concomitantly with lansoprazole may increase toxicity of the antiretroviral drugs.There are other antiretroviral drugs which do not result in clinically relevant interactions with lansoprazole. |
-| Intervention: | Rilpivirine-containing products: Concomitant use with Lansoprazole is contraindicated [see Contraindications (4)]. See prescribing information. Atazanavir: See prescribing information for atazanavir for dosing information. Nelfinavir: Avoid concomitant use with Lansoprazole. See prescribing information for nelfinavir. Saquinavir: See the prescribing information for saquinavir and monitor for potential saquinavir toxicities. Other antiretrovirals: See prescribing information. |
+| Clinical Impact: | The effect of PPIs on antiretroviral drugs is variable. The clinical importance and the mechanisms behind these interactions are not always known. Decreased exposure of some antiretroviral drugs (e.g., rilpivirine, atazanavir, and nelfinavir) when used concomitantly with lansoprazole may reduce antiviral effect and promote the development of drug resistance.Increased exposure of other antiretroviral drugs (e.g., saquinavir) when used concomitantly with lansoprazole may increase toxicity of the antiretroviral drugs.There are other antiretroviral drugs which do not result in clinically relevant interactions with lansoprazole. |
+| Intervention: | Rilpivirine-containing products: Concomitant use with lansoprazole is contraindicated [see Contraindications (4)]. See prescribing information. Atazanavir: See prescribing information for atazanavir for dosing information. Nelfinavir: Avoid concomitant use with Lansoprazole. See prescribing information for nelfinavir. Saquinavir: See the prescribing information for saquinavir and monitor for potential saquinavir toxicities. Other antiretrovirals: See prescribing information. |
 | Warfarin |  |
 | Clinical Impact: | Increased INR and prothrombin time in patients receiving PPIs and warfarin concomitantly. Increases in INR and prothrombin time may lead to abnormal bleeding and even death. |
 | Intervention: | Monitor INR and prothrombin time. Dose adjustment of warfarin may be needed to maintain target INR range. See prescribing information for warfarin. |

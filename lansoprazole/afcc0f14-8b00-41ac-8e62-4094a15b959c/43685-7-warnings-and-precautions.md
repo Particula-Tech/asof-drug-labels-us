@@ -20,14 +20,14 @@ This diagnosis should be considered for diarrhea that does not improve [see Adve
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
 
 CDAD has been reported with use of nearly all antibacterial agents.
-For more information specific to antibacterial agents (clarithromycin and amoxicillin) indicated for use in combination with lansoprazole refer to Warnings and Precautions sections of their prescribing information.
+For more information specific to antibacterial agents (clarithromycin and amoxicillin) indicated for use in combination with lansoprazole refer to Warnings and Precautions section of their prescribing information.
 
 ## 5.4 Bone Fracture
 
 Several published observational studies suggest that PPI therapy may be associated with an increased risk for osteoporosis-related fractures of the hip, wrist or spine.
 The risk of fracture was increased in patients who received high-dose, defined as multiple daily doses, and long-term PPI therapy (a year or longer).
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the conditions being treated.
-Patients at risk for osteoporosis-related fractures should be managed according to established treatment guidelines [see Dosage and Administration (2) and Adverse Reactions (6.2)].
+Patients at risk for osteoporosis-related fractures should be managed according to established treatment guidelines [see Dosage and Administration (2),Adverse Reactions (6.2)].
 
 ## 5.5 Cutaneous and Systemic Lupus Erythematosus
 
@@ -51,7 +51,7 @@ Serological testing (e.g., ANA) may be positive and elevated serological test re
 ## 5.6 Cyanocobalamin (Vitamin B12) Deficiency
 
 Daily treatment with any acid-suppressing medications over a long period of time (e.g., longer than three years) may lead to malabsorption of cyanocobalamin (Vitamin B12) caused by hypo- or achlorhydria.
-Rare reports of cyanocobalamin deficiency occurring with acid suppressing therapy have been reported in the literature.
+Rare reports of cyanocobalamin deficiency occurring with acid-suppressing therapy have been reported in the literature.
 This diagnosis should be considered if clinical symptoms consistent with cyanocobalamin deficiency are observed in patients treated with lansoprazole.
 
 ## 5.7 Hypomagnesemia
@@ -72,4 +72,10 @@ If serial tests are performed (e.g., for monitoring), the same commercial labora
 ## 5.9 Interaction with Methotrexate
 
 Literature suggests that concomitant use of PPIs with methotrexate (primarily at high dose;) may elevate and prolong serum levels of methotrexate and/or its metabolite, possibly leading to methotrexate toxicities.
-In high-dose methotrexate administration, atemporary withdrawal of the PPI may be considered in some patients [see Drug Interactions (7),Clinical Pharmacology (12.3)].
+In high-dose methotrexate administration, a temporary withdrawal of the PPI may be considered in some patients [see Drug Interactions (7),Clinical Pharmacology (12.3)].
+
+## 5.11 Fundic Gland Polyps
+
+PPI use is associated with an increased risk of fundic gland polyps that increases with long-term use, especially beyond one year.
+Most PPI users who developed fundic gland polyps were asymptomatic and fundic gland polyps were identified incidentally on endoscopy.
+Use the shortest duration of PPI therapy appropriate to the condition being treated.

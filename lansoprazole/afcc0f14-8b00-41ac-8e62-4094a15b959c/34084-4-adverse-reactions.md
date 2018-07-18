@@ -8,8 +8,9 @@ The following serious adverse reactions are described below and elsewhere in lab
 - Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)]
 - Cyanocobalamin (Vitamin B12) Deficiency [see Warnings and Precautions (5.6)]
 - Hypomagnesemia [see Warnings and Precautions (5.7)]
+- Fundic Gland Polyps [see Warnings and Precautions (5.11)]
 
-## 6.1 Clinical Trial Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
@@ -68,7 +69,7 @@ The majority of these cases are foreign-sourced and a relationship to lansoprazo
 Because these reactions were reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
 These events are listed below by COSTART body system.
 
-Body as a Whole – anaphylactic/anaphylactoid reactions; Digestive System – hepatotoxicity, pancreatitis, vomiting; Hemic and Lymphatic System – agranulocytosis, aplastic anemia, hemolytic anemia, leukopenia, neutropenia, pancytopenia, thrombocytopenia, and thrombotic thrombocytopenic purpura; Infections and Infestations – Clostridium difficile associated diarrhea; Metabolism and Nutritional Disorders – hypomagnesemia; Musculoskeletal System – bone fracture, myositis; Skin and Appendages – severe dermatologic reactions including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis (some fatal); Special Senses – speech disorder; Urogenital System – interstitial nephritis, urinary retention.
+Body as a Whole – anaphylactic/anaphylactoid reactions, systemic lupus erythematosus; Digestive System – hepatotoxicity, pancreatitis, vomiting; Hemic and Lymphatic System – agranulocytosis, aplastic anemia, hemolytic anemia, leukopenia, neutropenia, pancytopenia, thrombocytopenia, and thrombotic thrombocytopenic purpura; Infections and Infestations – Clostridium difficile-associated diarrhea; Metabolism and Nutritional Disorders – hypomagnesemia; Musculoskeletal System – bone fracture, myositis; Skin and Appendages – severe dermatologic reactions including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis (some fatal), cutaneous lupus erythematosus; Special Senses – speech disorder; Urogenital System – interstitial nephritis, urinary retention.
 
 ## 6.3 Combination Therapy with Amoxicillin and Clarithromycin
 
@@ -96,7 +97,7 @@ Abnormal liver function tests, increased SGOT (AST), increased SGPT (ALT), incre
 Urine abnormalities such as albuminuria, glycosuria, and hematuria were also reported.
 Additional isolated laboratory abnormalities were reported.
 
-In the placebo controlled studies, when SGOT (AST) and SGPT (ALT) were evaluated, 0.4% (4/978) and 0.4% (11/2677) patients, who received placebo and lansoprazole, respectively, had enzyme elevations greater than three times the upper limit of normal range at the final treatment visit.
+In the placebo-controlled studies, when SGOT (AST) and SGPT (ALT) were evaluated, 0.4% (4/978) and 0.4% (11/2677) patients, who received placebo and lansoprazole, respectively, had enzyme elevations greater than three times the upper limit of normal range at the final treatment visit.
 None of these patients who received lansoprazole reported jaundice at any time during the study.
 
 In clinical trials using combination therapy with lansoprazole plus amoxicillin and clarithromycin, and lansoprazole plus amoxicillin, no increased laboratory abnormalities particular to these drug combinations were observed.

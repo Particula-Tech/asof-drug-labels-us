@@ -2,7 +2,7 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-In two 24 month carcinogenicity studies, Sprague-Dawley rats were treated with oral lansoprazole doses of five to 150 mg/kg/day, about one to 40 times the exposure on a body surface (mg/m2) basis of a 50 kg person of average height [1.46 m2 body surface area(BSA)] given the recommended human dose of 30 mg/day.
+In two 24 month carcinogenicity studies, Sprague-Dawley rats were treated with oral lansoprazole doses of 5 to 150 mg/kg/day, about one to 40 times the exposure on a body surface (mg/m2) basis of a 50 kg person of average height [1.46 m2 body surface area(BSA)] given the recommended human dose of 30 mg/day.
 Lansoprazole produced dose-related gastric enterochromaffin-like (ECL) cell hyperplasia and ECL cell carcinoids in both male and female rats.
 It also increased the incidence of intestinal metaplasia of the gastric epithelium in both sexes.
 In male rats, lansoprazole produced a dose-related increase of testicular interstitial cell adenomas.
@@ -17,12 +17,6 @@ Lansoprazole treatment produced adenoma of rete testis in male mice receiving 75
 A 26 week p53 (+/-) transgenic mouse carcinogenicity study was not positive.
 
 Lansoprazole was positive in the Ames test and the in vitro human lymphocyte chromosomal aberration assays.
-Lansoprazole was not genotoxic in the ex vivo rat hepatocyte unscheduled DNA synthesis (UDS) test, the in vivo mouse micronucleus test, or the rat bone marrow cell chromosomal aberration test
+Lansoprazole was not genotoxic in the ex vivo rat hepatocyte unscheduled DNA synthesis (UDS) test, the in vivo mouse micronucleus test, or the rat bone marrow cell chromosomal aberration test.
 
 Lansoprazole at oral doses up to 150 mg/kg/day (40 times the recommended human dose based on BSA) was found to have no effect on fertility and reproductive performance of male and female rats.
-
-## 13.2 Animal Toxicology and/or Pharmacology
-
-Reproductive Toxicology Studies
-
-Reproductive studies have been preformed in pregnant rats at oral lansoprazole doses up to 150 mg/kg/day [40 times the recommended human dose (30 mg/day) based on body surface area (BSA) and pregnant rabbits at oral lansoprazole doses up to 30 mg/kg/day (16 times the recommended human dose based on BSA) and have revealed no evidence of impaired fertility or harm to the fetus due to lansoprazole.

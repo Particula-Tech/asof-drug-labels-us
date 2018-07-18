@@ -32,14 +32,19 @@ Drug Interactions
 
 Advise patients to report to their healthcare provider if they are taking rilpivirine-containing products [see Contraindications (4)] or high-dose methotrexate [see Warnings and Precautions (5.9)].
 
+Pregnancy
+
+Advise a pregnant woman of the potential risk to a fetus.
+Advise females of reproductive potential to inform their healthcare provider of a known or suspected pregnancy[see Use in Specific Populations (8.1)]
+
 Administration
 
 - Missed doses: If a dose is missed, administer as soon as possible.
   However, if the next scheduled dose is due, do not take the missed dose, and take the next dose on time.
   Do not take two doses at one time to make up for a missed dose.
 - Lansoprazole delayed-release capsules should be taken before eating.
-- Do not crush or chew Lansoprazole delayed-release capsules.
-- Take Lansoprazole delayed-release capsules at least 30 minutes prior to sucralfate.
+- Do not crush or chew lansoprazole delayed-release capsules.
+- Take lansoprazole delayed-release capsules at least 30 minutes prior to sucralfate.
 
 - Lansoprazole delayed-release capsules
 - Swallow whole; do not chew.
@@ -59,7 +64,8 @@ Additional Ambernath M.I.D.C.,
 
 Ambernath (East)-421506,
 
-INDIA.
+Dist.
+Thane, Maharashtra, India
 
 Marketed by:
 
@@ -71,6 +77,6 @@ Lifestar Pharma LLC.
 
 Mahwah, NJ 07430 USA
 
-Revised: February 2018
+Revision Date: July 2018
 
-ECA3TPIOIOUS72500
+ECA3TPIOIOUS72502

@@ -13,7 +13,7 @@ Based on this study and the second study described below, the recommended dose o
 | 2 | 42.4%(p ≤ 0.001) vs placebo. | 35.6% | 39.1% | 11.3% |
 | 4 | 89.4% | 91.7% | 89.9% | 46.1% |
 
-Lansoprazole 15 mg was significantly more effective than placebo in relieving day and nighttime abdominal pain and in decreasing the amount of antacid taken per day.
+Lansoprazole 15 mg was significantly more effective than placebo in relieving day and night time abdominal pain and in decreasing the amount of antacid taken per day.
 
 In a second U.S. multi-center study, also double-blind, placebo-controlled, dose-comparison (15 and 30 mg of lansoprazole once daily), and including a comparison with ranitidine, in 280 patients with endoscopically documented duodenal ulcer, the percentage of patients healed after four weeks was significantly higher with both doses of lansoprazole than with placebo.
 There was no evidence of a greater or earlier response with the higher dose of lansoprazole.
@@ -43,7 +43,7 @@ Dual therapy was shown to be more effective than both monotherapies.
 Eradication of H. pylori has been shown to reduce the risk of duodenal ulcer recurrence.
 
 A randomized, double-blind clinical study performed in the U.S. in patients with H. pylori and duodenal ulcer disease (defined as an active ulcer or history of an ulcer within one year) compared the efficacy of lansoprazole triple therapy for 10 and 14 days.
-This study established that the 10-day triple therapy was equivalent to the 14-day triple therapy in eradicating H. pylori (Tables 11 and 12)[see Indications and Usage (1.2)].
+This study established that the 10 day triple therapy was equivalent to the 14 day triple therapy in eradicating H. pylori (Tables 11 and 12)[see Indications and Usage (1.2)].
 
 | Table 11 H. pylori Eradication Rates – Triple Therapy (Lansoprazole /amoxicillin/clarithromycin) Percent of Patients Cured [95% Confidence Interval] (Number of patients) |  |  |  |
 | --- | --- | --- | --- |
@@ -68,7 +68,7 @@ Patients remained healed significantly longer and the number of recurrences of d
 | Table 13: Endoscopic Remission Rates |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Trial | Drug | No. of Pts. | Percent in Endoscopic Remission |  |  |
-|  |  |  | 0-3 mo. | 0-6 mo. | 0-12 mo. |
+|  |  |  | 0 to 3 mo. | 0 to 6 mo. | 0 to 12 mo. |
 | #1 | Lansoprazole 15 mg daily | 86 | 90%(p≤0.001) vs placebo. | 87% | 84% |
 |  | Placebo | 83 | 49% | 41% | 39% |
 | #2 | Lansoprazole 30 mg daily | 18 | 94% | 94% | 85% |
@@ -213,8 +213,8 @@ Patients remained in remission significantly longer and the number of recurrence
 
 | Table 21: Endoscopic Remission Rates |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-|  |  |  | Percent in endoscopic remission |  |  |
-| Trial | Drug | No. of Pts. | 0-3 mo. | 0-6 mo. | 0-12 mo. |
+|  |  |  | Percent in Endoscopic Remission |  |  |
+| Trial | Drug | No. of Pts. | 0 to 3 mo. | 0 to 6 mo. | 0 to 12 mo. |
 | #1 | Lansoprazole 15 mg daily | 59 | 83%(p≤0.001) vs placebo. | 81% | 79% |
 |  | Lansoprazole 30 mg daily | 56 | 93% | 93% | 90% |
 |  | Placebo | 55 | 31% | 27% | 24% |
@@ -227,7 +227,7 @@ Regardless of initial grade of erosive esophagitis, lansoprazole 15 mg and 30 mg
 
 In a U.S., randomized, double-blind, study, lansoprazole 15 mg daily (n = 100) was compared with ranitidine 150 mg twice daily (n = 106), at the recommended dosage, in patients with endoscopically-proven healed erosive esophagitis over a 12-month period.
 Treatment with lansoprazole resulted in patients remaining healed (Grade 0 lesions) of erosive esophagitis for significantly longer periods of time than those treated with ranitidine (p<0.001).
-In addition, lansoprazole was significantly more effective than ranitidine in providing complete relief of both daytime and nighttime heartburn.
+In addition, lansoprazole was significantly more effective than ranitidine in providing complete relief of both daytime and night time heartburn.
 Patients treated with lansoprazole remained asymptomatic for a significantly longer period of time than patients treated with ranitidine.
 [see Indications and Usage (1.9)]
 
