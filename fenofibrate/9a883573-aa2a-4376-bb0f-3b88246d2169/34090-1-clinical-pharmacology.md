@@ -81,12 +81,12 @@ Drug-Drug Interactions: In vitro studies using human liver microsomes indicate t
 They are weak inhibitors of CYP2C8, CYP2C19 and CYP2A6, and mild to moderate inhibitors of CYP2C9 at therapeutic concentrations.
 
 Table 2 describes the effects of co-administered drugs on fenofibric acid systemic exposure.
-Table 3 describes the effects of fenofibrate on co-administered drugs.
+Table 3 describes the effects of fenofibrate on coadministered drugs.
 
 Table 2.
 Effects of Co-Administered Drugs on Fenofibric Acid Systemic Exposure from Fenofibrate Administration
 
-| Co- Administered Drug | Dosage Regimen of Co-Administered Drug | Dosage Regimen of Fenofibrate | Changes in Fenofibric Acid Exposure |  |
+| Co-Administered Drug | Dosage Regimen of Co-Administered Drug | Dosage Regimen of Fenofibrate | Changes in Fenofibric Acid Exposure |  |
 | --- | --- | --- | --- | --- |
 |  |  |  | AUC | Cmax |
 | Lipid-lowering agents |  |  |  |  |
@@ -95,23 +95,24 @@ Effects of Co-Administered Drugs on Fenofibric Acid Systemic Exposure from Fenof
 | Fluvastatin | 40 mg as a single dose | Fenofibrate 160 mg1 as a single dose | ↓2% | ↓10% |
 | Anti-diabetic agents |  |  |  |  |
 | Glimepiride | 1 mg as a single dose | Fenofibrate 145 mg1 once daily for 10 days | ↑1% | ↓1% |
-| Metformin | 850 mg three times daily for 10 days | Fenofibrate 54 mg1 three times daily for 10 days | ↓9% | ↓6% |
-| Rosiglitazone | 8 mg once daily for 5 days | Fenofibrate 145 mg1 once daily for 14 days | ↑10% | ↑3% |
-| 1 TriCor (fenofibrate) oral tablet 2 TriCor (fenofibrate) oral micronized capsule |  |  |  |  |
+| Metformin | 850 mg three times Fenofibrate 54 mg1 daily for 10 days three times daily for 10 days |  | ↓9% | ↓6% |
+| Rosiglitazone | 8 mg once daily for Fenofibrate 145 mg1 5 days once daily for 14 days |  | ↑10% | ↑3% |
+| TriCor (fenofibrate) oral tablet TriCor (fenofibrate) oral micronized capsule |  |  |  |  |
 
 Table 3.
 Effects of Fenofibrate on Systemic Exposure of Co-Administered Drugs
 
-|  |  | Analyte | AUC | Cmax |
-| --- | --- | --- | --- | --- |
 | Dosage Regimen of Fenofibrate | Dosage Regimen of Co-Administered Drug | Change in Co-Administered Drug Exposure |  |  |
+| --- | --- | --- | --- | --- |
+|  |  | Analyte | AUC | Cmax |
 | Lipid-lowering agents |  |  |  |  |
 | Fenofibrate 160 mg1 once daily for 10 days | Atorvastatin, 20 mg once daily for 10 days | Atorvastatin | ↓17% | 0% |
 | Fenofibrate 3 x 67 mg2 as a single dose | Pravastatin, 40 mg as a single dose | Pravastatin | ↑13% | ↑13% |
-|  |  | 3α-Hydroxyl-iso- pravastatin | ↑26% | ↑29% |
-| Fenofibrate 160 mg1 as a single dose | Fluvastatin, 40 mg as a single dose | (+)-3R, 5S- Fluvastatin | ↑15% | ↑16% |
+|  |  | 3α-Hydroxyl-isopravastatin | ↑26% | ↑29% |
+| Fenofibrate 160 mg1 as a single dose | Fluvastatin, 40 mg as a Ssingle dose | (+)-3R, 5 Fluvastatin | ↑15% | ↑16% |
 | Anti-diabetic agents |  |  |  |  |
 | Fenofibrate 145 mg1 once daily for 10 days | Glimepiride, 1 mg as a single dose | Glimepiride | ↑35% | ↑18% |
 | Fenofibrate 54 mg1 three times daily for 10 days | Metformin, 850 mg three times daily for 10 days | Metformin | ↑3% | ↑6% |
 | Fenofibrate 145 mg1 once daily for 14 days | Rosiglitazone, 8 mg once daily for 5 days | Rosiglitazone | ↑6% | ↓1% |
-| 1 TriCor (fenofibrate) oral tablet 2 TriCor (fenofibrate) oral micronized capsule |  |  |  |  |
+| 1 TriCor (fenofibrate) oral tablet |  |  |  |  |
+| 2TriCor (fenofibrat) oral micronized capsule |  |  |  |  |

@@ -4,15 +4,16 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rate observed in clinical practice.
 
-Adverse reactions reported by 2% or more of patients treated with fenofibrate (and greater than placebo) during the double-blind, placebo-controlled trials, regardless of causality, are listed in Table 1 below.
+Adverse reactions reported by 2% or more of patients treated with fenofibrate (and greater than placebo) during the double-blind, placebocontrolled trials, regardless of causality, are listed in Table 1 below.
 Adverse events led to discontinuation of treatment in 5.0% of patients treated with fenofibrate and in 3.0% treated with placebo.
 Increases in liver function tests were the most frequent events, causing discontinuation of fenofibrate treatment in 1.6% of patients in double-blind trials.
 
 Table 1.
 Adverse Reactions Reported by 2% or More of Patients Treated with Fenofibrate and Greater than Placebo During the Double-Blind, Placebo-Controlled Trials
 
-| BODY SYSTEM Adverse Event | Fenofibrate* (N=439) | Placebo (N=365) |
+| BODY SYSTEM | Fenofibrate* | Placebo |
 | --- | --- | --- |
+| Adverse Event | (N=439) | (N=365) |
 | BODY AS A WHOLE |  |  |
 | Abdominal Pain | 4.6% | 4.4% |
 | Back Pain | 3.4% | 2.5% |
@@ -28,9 +29,13 @@ Adverse Reactions Reported by 2% or More of Patients Treated with Fenofibrate an
 | RESPIRATORY |  |  |
 | Respiratory Disorder | 6.2% | 5.5% |
 | Rhinitis | 2.3% | 1.1% |
-| * Dosage equivalent to 150 mg LIPOFEN ** Significantly different from placebo |  |  |
+| * Dosage equivalent to 150 mg LIPOFEN |  |  |
+| ** Significantly different from placebo |  |  |
+
+Urticaria was seen in 1.1 vs. 0% and rash in 1.4 vs. 0.8% of fenofibrate and placebo patients respectively in controlled trials.
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of fenofibrate: myalgia, rhabdomyolysis, pancreatitis, acute renal failure, muscle spasm, hepatitis, cirrhosis, anemia, arthralgia, decreases in hemoglobin, decreases in hematocrit, white blood cell decreases, asthenia, and severely depressed HDL cholesterol levels.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+The following adverse reactions have been identified during post approval use of fenofibrate.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: myalgia, rhabdomyolysis, pancreatitis, acute renal failure, muscle spasm, hepatitis, cirrhosis, anemia, arthralgia, decreases in hemoglobin, decreases in hematocrit, white blood cell decreases, asthenia, and severely depressed HDL cholesterol levels.
+Photosensitivity reactions have occurred days to months after initiation; in some of these cases, patients reported a prior photosensitivity to ketoprofen.

@@ -35,6 +35,7 @@ The maximum dose of LIPOFEN is 150 mg once daily.
 ## 2.4 Impaired Renal Function
 
 In patients with mild-to-moderate renal impairment, treatment with LIPOFEN should be initiated at a dose of 50 mg per day, and increased only after evaluation of the effects on renal function and lipid levels at this dose.
+
 The use of LIPOFEN should be avoided in patients with severe renal impairment [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 ## 2.5 Geriatric Patients
