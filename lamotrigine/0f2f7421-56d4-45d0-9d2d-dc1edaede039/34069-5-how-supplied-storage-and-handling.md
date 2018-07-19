@@ -58,9 +58,9 @@ NDC 65841-687-16 in bottles of 90 tablets
 
 NDC 65841-687-05 in bottles of 500 tablets
 
-Lamotrigine Tablets (Chewable, Dispersible)
+Lamotrigine Tablets for Oral Suspension, USP (Chewable, Dispersible Tablets)
 
-Lamotrigine Tablets (Chewable, Dispersible), 5 mg are white to off-white, round, flat- faced, radial-edged tablets with bisect on one side and plain on other side; one side of the bisect is debossed with "Z" and other side is debossed with "13" and are supplied as follows:
+Lamotrigine Tablets for Oral Suspension, USP (Chewable, Dispersible Tablets), 5 mg are white to off-white, round, flat- faced, radial-edged tablets with bisect on one side and plain on other side; one side of the bisect is debossed with "Z" and other side is debossed with "13" and are supplied as follows:
 
 NDC-65841-689-16 in bottle of 90 tablets
 
@@ -68,7 +68,7 @@ NDC-65841-689-01 in bottle of 100 tablets
 
 NDC-65841-689-05 in bottle of 500 tablets
 
-Lamotrigine Tablets (Chewable, Dispersible), 25 mg are white to off-white, round, flat- faced, radial-edged tablets debossed with logo of "Z" and "12" on one side and plain on the other side and are supplied as follows:
+Lamotrigine Tablets for Oral Suspension, USP (Chewable, Dispersible Tablets), 25 mg are white to off-white, round, flat- faced, radial-edged tablets debossed with logo of "Z" and "12" on one side and plain on the other side and are supplied as follows:
 
 NDC-65841-690-16 in bottle of 90 tablets
 

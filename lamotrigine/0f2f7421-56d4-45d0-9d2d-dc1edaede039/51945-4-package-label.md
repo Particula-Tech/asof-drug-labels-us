@@ -40,21 +40,21 @@ Rx only
 
 100 tablets
 
-NDC 65841-685-05 in bottle of 500 tablets
+NDC 65841-685-14 in bottle of 60 tablets
 
 Lamotrigine Tablets USP, 150 mg
 
 Rx only
 
-500 tablets
+60 tablets
 
-NDC 65841-686-05 in bottle of 500 tablets
+NDC 65841-686-14 in bottle of 60 tablets
 
 Lamotrigine Tablets USP, 200 mg
 
 Rx only
 
-500 tablets
+60 tablets
 
 NDC 65841-687-05 in bottle of 500 tablets
 

@@ -18,7 +18,7 @@ Safety and effectiveness of lamotrigine have not been established (1) as initial
 
 ## 1.2 Bipolar Disorder
 
-Lamotrigine is indicated for the maintenance treatment of bipolar I disorder to delay the time to occurrence of mood episodes (depression, mania, hypomania, mixed episodes) in patients treated for acute mood episodes with standard therapy [see CLINICAL STUDIES (14.1)].
+Lamotrigine is indicated for the maintenance treatment of bipolar I disorder to delay the time to occurrence of mood episodes (depression, mania, hypomania, mixed episodes) in patients treated for acute mood episodes with standard therapy [see Clinical Studies (14.1)].
 
 Limitations of Use
 

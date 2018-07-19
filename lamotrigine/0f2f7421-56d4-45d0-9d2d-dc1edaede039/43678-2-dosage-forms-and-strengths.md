@@ -14,7 +14,7 @@
 
 250 mg, white to off-white, round, flat, beveled-edged tablets with bisect on one side; one side of bisect is debossed with logo of "ZC" and other side is debossed with "91"and other side is plain.
 
-## 3.2 Tablets (Chewable, Dispersible)
+## 3.2 Tablets for Oral Suspension (Chewable, Dispersible Tablets)
 
 5 mg, white to off-white, round, flat- faced, radial-edged tablets with bisect on one side and plain on other side; one side of the bisect is debossed with "Z" and other side is debossed with "13".
 

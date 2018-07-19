@@ -9,7 +9,9 @@ The structural formula is:
 Each lamotrigine tablet, USP intended for oral administration contains 25 mg or 50 mg or 100 mg or 150 mg or 200 mg or 250 mg of lamotrigine.
 In addition, each tablet contains the following inactive ingredients: lactose monohydrate, magnesium stearate, microcrystalline cellulose, povidone and sodium starch glycolate.
 
-Each lamotrigine tablets (chewable, dispersible) intended for oral administration contains 5 mg or 25 mg of lamotrigine.
+Each lamotrigine tablets for oral suspension, USP (chewable, dispersible tablets) intended for oral administration contains 5 mg or 25 mg of lamotrigine.
 In addition, each tablet contains the following inactive ingredients: aspartame, croscarmellose sodium, flavour black currant, magnesium stearate, mannitol, microcrystalline cellulose, silicon dioxide and tribasic calcium phosphate.
 
 Lamotrigine tablets, USP comply with USP Dissolution Test 3.
+
+Lamotrigine Tablets for Oral Suspension, USP (chewable, dispersible tablets) comply with Organic Impurities Procedure 2.

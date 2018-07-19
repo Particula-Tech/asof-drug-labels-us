@@ -36,8 +36,15 @@ The effect of lamotrigine on labor and delivery in humans is unknown.
 
 ## 8.3 Nursing Mothers
 
-Preliminary data indicate that lamotrigine passes into human milk.
-Because the effects on the infant exposed to lamotrigine by this route are unknown, breastfeeding while taking lamotrigine is not recommended.
+Lamotrigine is present in milk from lactating women taking lamotrigine tablets.
+Data from multiple small studies indicate that lamotrigine plasma levels in human milk-fed infants have been reported to be as high as 50% of the maternal serum levels.
+Neonates and young infants are at risk for high serum levels because maternal serum and milk levels can rise to high levels postpartum if lamotrigine dosage has been increased during pregnancy but not later reduced to the pre-pregnancy dosage.
+Lamotrigine exposure is further increased due to the immaturity of the infant glucuronidation capacity needed for drug clearance.
+Events including apnea, drowsiness, and poor sucking have been reported in infants who have been human milk-fed by mothers using lamotrigine; whether or not these events were caused by lamotrigine is unknown.
+Human milk-fed infants should be closely monitored for adverse events resulting from lamotrigine.
+Measurement of infant serum levels should be performed to rule out toxicity if concerns arise.
+Human milk-feeding should be discontinued in infants with lamotrigine toxicity.
+Caution should be exercised when lamotrigine is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
@@ -50,8 +57,10 @@ Lamotrigine was associated with an increased risk for infectious adverse reactio
 Infectious adverse reactions included bronchiolitis, bronchitis, ear infection, eye infection, otitis externa, pharyngitis, urinary tract infection, and viral infection.
 Respiratory adverse reactions included nasal congestion, cough, and apnea.
 
-Additional information describing a clinical study in which efficacy was not demonstrated in pediatric patients ages 10 to 17 years is approved for GlaxoSmithKline LLC's LAMICTAL® (lamotrigine) products.
-However, due to GlaxoSmithKline LLC's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Bipolar Disorder
+
+Safety and efficacy of lamotrigine for the maintenance treatment of bipolar disorder were not established in a double-blind, randomized withdrawal, placebo-controlled trial that evaluated 301 pediatric patients aged 10 years to 17 years with a current manic/hypomanic, depressed, or mixed mood episode as defined by DSM-IV-TR.
+In the randomized phase of the trial, adverse reactions that occurred in at least 5% of patients taking lamotrigine (n = 87) and were twice as common compared to patients taking placebo (n = 86) were influenza (lamotrigine 8%, placebo 2%), oropharyngeal pain (lamotrigine 8%, placebo 2%), vomiting (lamotrigine 6%, placebo 2%), contact dermatitis (lamotrigine 5%, placebo 2%), upper abdominal pain (lamotrigine 5%, placebo 1%), and suicidal ideation (lamotrigine 5%, placebo 0%).
 
 Juvenile Animal Data
 
@@ -66,16 +75,16 @@ In general, dose selection for an elderly patient should be cautious, usually st
 ## 8.6 Hepatic Impairment
 
 Experience in patients with hepatic impairment is limited.
-Based on a clinical pharmacology study in 24 subjects with mild, moderate, and severe liver impairment [see CLINICAL PHARMACOLOGY (12.3)], the following general recommendations can be made.
+Based on a clinical pharmacology study in 24 subjects with mild, moderate, and severe liver impairment [see Clinical Pharmacology (12.3)], the following general recommendations can be made.
 No dosage adjustment is needed in patients with mild liver impairment.
 Initial, escalation, and maintenance doses should generally be reduced by approximately 25% in patients with moderate and severe liver impairment without ascites and 50% in patients with severe liver impairment with ascites.
-Escalation and maintenance doses may be adjusted according to clinical response [see DOSAGE AND ADMINISTRATION (2.1)].
+Escalation and maintenance doses may be adjusted according to clinical response [see Dosage and Administration (2.1)].
 
 ## 8.7 Renal Impairment
 
 Lamotrigine is metabolized mainly by glucuronic acid conjugation, with the majority of the metabolites being recovered in the urine.
-In a small study comparing a single dose of lamotrigine in subjects with varying degrees of renal impairment with healthy volunteers, the plasma half-life of lamotrigine was approximately twice as long in the subjects with chronic renal failure [see CLINICAL PHARMACOLOGY (12.3)].
+In a small study comparing a single dose of lamotrigine in subjects with varying degrees of renal impairment with healthy volunteers, the plasma half-life of lamotrigine was approximately twice as long in the subjects with chronic renal failure [see Clinical Pharmacology (12.3)].
 
 Initial doses of lamotrigine should be based on patients' AED regimens; reduced maintenance doses may be effective for patients with significant renal impairment.
 Few patients with severe renal impairment have been evaluated during chronic treatment with lamotrigine.
-Because there is inadequate experience in this population, lamotrigine should be used with caution in these patients [see DOSAGE AND ADMINISTRATION (2.1)].
+Because there is inadequate experience in this population, lamotrigine should be used with caution in these patients [see Dosage and Administration (2.1)].

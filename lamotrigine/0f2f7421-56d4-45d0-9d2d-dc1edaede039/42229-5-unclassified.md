@@ -4,28 +4,26 @@ Cadila Healthcare Ltd.
 
 India
 
-Rev.: 02/16
+Distributed by:
+
+Zydus Pharmaceuticals (USA) Inc.
+
+Pennington, NJ 08534
+
+Rev.: 07/18
 
 Medication Guide
 
-Lamotrigine
+Lamotrigine (la-MOE-tri-jeen) Tablets, USP
 
-(la-MOE-tri-jeen)
+Lamotrigine (la-MOE-tri-jeen) Tablets for Oral Suspension, USP
 
-Tablets, USP
-
-Lamotrigine
-
-(la-MOE-tri-jeen)
-
-Tablets
-
-(Chewable, Dispersible)
+(Chewable, Dispersible Tablets)
 
 Phenylketonurics:
 
 Phenylalanine is a component of aspartame.
-Each lamotrigine tablet (chewable, dispersible), 5 mg and 25 mg contains 0.7 mg of phenylalanine.
+Each lamotrigine tablet for oral suspension (chewable, dispersible tablets), 5 mg and 25 mg contains 0.7 mg of phenylalanine.
 
 What is the most important information I should know about Lamotrigine?
 
@@ -132,12 +130,12 @@ When your healthcare provider gives you a prescription for lamotrigine:
 - Talk to your pharmacist to check that you are given the correct medicine.
 - Each time you fill your prescription, check the tablets you receive against the pictures of the tablets below.
 
-These pictures show the distinct wording, colors, and shapes of the tablets that help to identify the right strength of lamotrigine tablets and lamotrigine tablets (chewable, dispersible).
+These pictures show the distinct wording, colors, and shapes of the tablets that help to identify the right strength of lamotrigine tablets and lamotrigine tablets for oral suspension (chewable, dispersible tablets).
 Immediately call your pharmacist if you receive a lamotrigine tablet that does not look like one of the tablets shown below, as you may have received the wrong medication.
 
 Lamotrigine Tablets
 
-Lamotrigine Tablets (Chewable, Dispersible)
+Lamotrigine Tablets for Oral Suspension (Chewable, Dispersible Tablets)
 
 What is lamotrigine?
 
@@ -203,9 +201,9 @@ How should I take lamotrigine?
 - If you have epilepsy, tell your healthcare provider if your seizures get worse or if you have any new types of seizures.
 - Swallow lamotrigine tablets whole.
 - If you have trouble swallowing lamotrigine tablets, tell your healthcare provider because there may be another form of lamotrigine you can take.
-- Lamotrigine Tablets (Chewable, Dispersible) may be swallowed whole, chewed, or mixed in water or fruit juice mixed with water.
+- Lamotrigine Tablets for oral suspension (chewable, dispersible tablets) may be swallowed whole, chewed, or mixed in water or fruit juice mixed with water.
   If the tablets are chewed, drink a small amount of water or fruit juice mixed with water to help in swallowing.
-  To break up Lamotrigine Tablets (Chewable, Dispersible) add the tablets to a small amount of liquid (1 teaspoon, or enough to cover the medicine) in a glass or spoon.
+  To break up Lamotrigine Tablets for oral suspension (chewable, dispersible tablets) add the tablets to a small amount of liquid (1 teaspoon, or enough to cover the medicine) in a glass or spoon.
   Wait at least 1 minute or until the tablets are completely broken up, mix the solution together, and take the whole amount right away.
 
 What should I avoid while taking lamotrigine?
@@ -266,7 +264,7 @@ This Medication Guide summarizes the most important information about lamotrigin
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about lamotrigine that is written for healthcare professionals.
 
-Please address medical inquiries to, (MedicalAffairs@zydususa.com) Tel.: 1-877-993-8779.
+Please address medical inquiries to, MedicalAffairs@zydususa.com or Tel.: 1-877-993-8779.
 
 What are the ingredients in Lamotrigine?
 
@@ -276,7 +274,7 @@ Active ingredient: lamotrigine, USP
 
 Inactive ingredients: lactose monohydrate, magnesium stearate, microcrystalline cellulose, povidone and sodium starch glycolate.
 
-Lamotrigine Tablets (Chewable, Dispersible)
+Lamotrigine Tablets for Oral Suspension (Chewable, Dispersible Tablets)
 
 Active ingredient: lamotrigine, USP
 
@@ -295,4 +293,10 @@ Cadila Healthcare Ltd.
 
 India
 
-Rev.: 02/16
+Distributed by:
+
+Zydus Pharmaceuticals (USA) Inc.
+
+Pennington, NJ 08534
+
+Rev.: 05/18
