@@ -7,7 +7,7 @@ The optical rotation of timolol maleate is:
 
 |  | 25° |  |
 | --- | --- | --- |
-| [α] |  | in 1.0N HCl (C = 5%) = –12.2° (–11.7° to –12.5°). |
+| [α] |  | in 1.0N HCl (C = 5%) = -12.2° (-11.7° to -12.5°). |
 |  | 405 nm |  |
 
 Its molecular formula is C13H24N4O3S•C4H4O4 and its structural formula is:

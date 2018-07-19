@@ -14,7 +14,7 @@ At the first sign or symptom of cardiac failure, TIMOPTIC-XE should be discontin
 
 ## Obstructive Pulmonary Disease
 
-Patients with chronic obstructive pulmonary disease (e.g., chronic bronchitis, emphysema) of mild or moderate severity, bronchospastic disease, or a history of bronchospastic disease (other than bronchial asthma or a history of bronchial asthma, in which TIMOPTIC-XE is contraindicated [see CONTRAINDICATIONS] should, in general, not receive beta-blockers, including TIMOPTIC-XE.
+Patients with chronic obstructive pulmonary disease (e.g., chronic bronchitis, emphysema) of mild or moderate severity, bronchospastic disease, or a history of bronchospastic disease (other than bronchial asthma or a history of bronchial asthma) in which TIMOPTIC-XE is contraindicated [see CONTRAINDICATIONS] should, in general, not receive beta-blockers, including TIMOPTIC-XE.
 
 ## Major Surgery
 
@@ -49,7 +49,7 @@ These containers had been inadvertently contaminated by patients who, in most ca
 
 Choroidal detachment after filtration procedures has been reported with the administration of aqueous suppressant therapy (e.g. timolol).
 
-### Angle-closure glaucoma
+### Angle-Closure Glaucoma
 
 In patients with angle-closure glaucoma, the immediate objective of treatment is to reopen the angle.
 This may require constricting the pupil.
@@ -86,25 +86,25 @@ Transient blurred vision, generally lasting from 30 seconds to 5 minutes, follow
 
 ## Drug Interactions
 
-### Beta-adrenergic blocking agents
+### Beta-Adrenergic Blocking Agents
 
 Patients who are receiving a beta-adrenergic blocking agent orally and TIMOPTIC-XE should be observed for potential additive effects of beta-blockade, both systemic and on intraocular pressure.
 The concomitant use of two topical beta-adrenergic blocking agents is not recommended.
 
-### Calcium antagonists
+### Calcium Antagonists
 
 Caution should be used in the coadministration of beta-adrenergic blocking agents, such as TIMOPTIC-XE, and oral or intravenous calcium antagonists because of possible atrioventricular conduction disturbances, left ventricular failure, or hypotension.
 In patients with impaired cardiac function, coadministration should be avoided.
 
-### Catecholamine-depleting drugs
+### Catecholamine-Depleting Drugs
 
-Close observation of the patient is recommended when a beta blocker is administered to patients receiving catecholamine-depleting drugs such as reserpine, because of possible additive effects and the production of hypotension and/or marked bradycardia, which may result in vertigo, syncope, or postural hypotension.
+Close observation of the patient is recommended when a beta-blocker is administered to patients receiving catecholamine-depleting drugs such as reserpine, because of possible additive effects and the production of hypotension and/or marked bradycardia, which may result in vertigo, syncope, or postural hypotension.
 
-### Digitalis and calcium antagonists
+### Digitalis and Calcium Antagonists
 
 The concomitant use of beta-adrenergic blocking agents with digitalis and calcium antagonists may have additive effects in prolonging atrioventricular conduction time.
 
-### CYP2D6 inhibitors
+### CYP2D6 Inhibitors
 
 Potentiated systemic beta-blockade (e.g., decreased heart rate, depression) has been reported during combined treatment with CYP2D6 inhibitors (e.g. quinidine, SSRIs) and timolol.
 
@@ -113,7 +113,7 @@ Potentiated systemic beta-blockade (e.g., decreased heart rate, depression) has 
 Oral beta-adrenergic blocking agents may exacerbate the rebound hypertension which can follow the withdrawal of clonidine.
 There have been no reports of exacerbation of rebound hypertension with ophthalmic timolol maleate.
 
-### Injectable epinephrine
+### Injectable Epinephrine
 
 [See PRECAUTIONS, General, Anaphylaxis]
 
@@ -131,7 +131,7 @@ Furthermore, in adult human female subjects who received oral dosages of up to 6
 
 Timolol maleate was devoid of mutagenic potential when tested in vivo (mouse) in the micronucleus test and cytogenetic assay (doses up to 800 mg) and in vitro in a neoplastic cell transformation assay (up to 100 mcg/mL).
 In Ames tests, the highest concentrations of timolol employed, 5,000 or 10,000 mcg/plate, were associated with statistically significant elevations of revertants observed with tester strain TA 100 (in seven replicate assays), but not in the remaining three strains.
-In the assays with tester strain TA 100, no consistent dose response relationship was observed, and the ratio of test to control revertants did not reach 2.
+In the assays with tester strain TA 100, no consistent dose-response relationship was observed, and the ratio of test to control revertants did not reach 2.
 A ratio of 2 is usually considered the criterion for a positive Ames test.
 
 Reproduction and fertility studies in rats demonstrated no adverse effect on male or female fertility at doses up to 21,000 times the systemic exposure following the maximum recommended human ophthalmic dose.
@@ -155,7 +155,9 @@ Because of the potential for serious adverse reactions from TIMOPTIC-XE in nursi
 
 ## Pediatric Use
 
-Safety and effectiveness in pediatric patients have not been established.
+Safety and effectiveness of timolol maleate ophthalmic solution have been established when administered in pediatric patients aged 2 years and older.
+Use of timolol maleate ophthalmic solution in these children is supported by evidence from adequate and well-controlled studies in children and adults.
+Safety and efficacy in pediatric patients below the age of 2 years have not been established.
 
 ## Geriatric Use
 
