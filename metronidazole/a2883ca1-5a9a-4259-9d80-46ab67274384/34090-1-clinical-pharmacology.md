@@ -71,7 +71,7 @@ Because of this alteration of the metronidazole molecule, a concentration gradie
 The reduced form of metronidazole and free radicals can interact with DNA leading to inhibition of DNA synthesis and DNA degradation leading to death of the bacteria.
 The precise mechanism of action of metronidazole is unclear.
 
-### Drug Resistance
+### Resistance
 
 A potential for development of resistance exists against metronidazole.
 
@@ -79,7 +79,7 @@ Resistance may be due to multiple mechanisms that include decreased uptake of th
 
 Metronidazole does not possess any clinically relevant activity against facultative anaerobes or obligate aerobes.
 
-### Activity In Vitro and in Clinical Infections
+### Antimicrobial activity
 
 Metronidazole has been shown to be active against most isolates of the following bacteria both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
 
@@ -95,47 +95,6 @@ Metronidazole exhibits in vitro minimal inhibitory concentrations (MICs) of 8 mc
 
 Gram-negative anaerobes Bacteroides fragilis group (B. caccae, B. uniformis) Prevotella species (P. bivia, P. buccae, P. disiens)
 
-### Susceptibility Tests
+### Susceptibility Testing
 
-When available, the clinical microbiology laboratory should provide results of in vitro susceptibility test results for antimicrobial drug products used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial or community-acquired pathogens.
-These reports should aid the physician in selecting an antibacterial drug product for treatment.
-
-### For Anaerobes
-
-Quantitative methods are used to determine antimicrobial inhibitory concentrations (MICs).
-These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-For anaerobic bacteria, the susceptibility to metronidazole can be determined by the reference broth and/or agar method1,2.
-
-The MIC values obtained should be interpreted according to the criteria provided in the following Table:
-
-Susceptibility Test Interpretive Criteria for Metronidazole against AnaerobesAgar dilution method is recommended for all anaerobesBroth dilution method is recommended for testing of Bacteroides fragilis group only; for this group, MIC values by agar and broth dilution methods are considered equivalent
-
-| MIC (mcg/mL) | Interpretation |
-| --- | --- |
-| ≤8 | Susceptible (S) |
-| 16 | Intermediate (I) |
-| ≥32 | Resistant (R) |
-
-A report of "Susceptible" (S) indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations at the infection site necessary to inhibit growth of the pathogen.
-
-A report of "Intermediate" (I) implies that an infection due to the isolate may be appropriately treated in the body sites where the drugs are physiologically concentrated or when a high dosage of drug is used.
-
-A report of "Resistant" (R) indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentration usually achievable at the infection site; other therapy should be selected.
-
-### Quality Control
-
-Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.1,2 Standard metronidazole powder should provide a value within the MIC ranges noted in the following table:
-
-Acceptable Quality Control Ranges for Metronidazole against Anaerobes
-
-| Agar | Broth |  |
-| --- | --- | --- |
-| Quality control strain | Minimum inhibitory concentration (mcg/mL) |  |
-| Bacteroides fragilis ATCC 25285 | 0.25–1.0 | 0.25–2.0 |
-| Bacteroides thetaiotaomicron ATCC 29741 | 0.5–2.0 | 0.5–4.0 |
-| Clostridium difficile ATCC 700057 | 0.125–0.5 | - |
-| Eggerthellalenta ATCC 43055 | - | 0.125–0.5 |
-
-### For protozoal parasites
-
-Standardized tests do not exist for use in clinical microbiology laboratories.
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
