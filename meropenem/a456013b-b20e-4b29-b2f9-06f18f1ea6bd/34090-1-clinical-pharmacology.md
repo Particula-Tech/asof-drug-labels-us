@@ -121,7 +121,6 @@ Meropenem does not have in vitro activity against methicillin-resistant Staphylo
 Resistance
 
 There are several mechanisms of resistance to carbapenems: 1) decreased permeability of the outer membrane of gram-negative bacteria (due to diminished production of porins) causing reduced bacterial uptake, 2) reduced affinity of the target PBPs, 3) increased expression of efflux pump components, and 4) production of antibacterial drug-destroying enzymes (carbapenemases, metallo-β-lactamases).
-
 Cross-resistance is sometimes observed with isolates resistant to other carbapenems.
 
 Interaction with Other Antimicrobials

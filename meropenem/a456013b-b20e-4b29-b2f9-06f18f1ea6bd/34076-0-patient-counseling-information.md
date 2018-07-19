@@ -6,16 +6,16 @@
   Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by meropenem or other antibacterial drugs in the future.
 - Counsel patients that diarrhea is a common problem caused by antibacterial drugs which usually ends when the antibacterial drug is discontinued.
   Sometimes after starting treatment with antibacterial drugs, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibacterial drug.
-  If this occurs, patients should contact their physician as soon as possible [see Warnings and Precautions (5.4)].
+  If this occurs, patients should contact their physician as soon as possible [see Warnings and Precautions (5.5)].
 - Counsel patients to inform their physician if they are taking valproic acid or divalproex sodium.
   Valproic acid concentrations in the blood may drop below the therapeutic range upon co-administration with meropenem.
-  If treatment with meropenem is necessary and continued, alternative or supplemental anti-convulsant medication to prevent and/or treat seizures may be needed [see Warnings and Precautions (5.3)].
+  If treatment with meropenem is necessary and continued, alternative or supplemental anti-convulsant medication to prevent and/or treat seizures may be needed [see Warnings and Precautions (5.4)].
 - Patients receiving meropenem on an outpatient basis must be alerted of adverse events such as seizures, delirium, headaches and/or paresthesias that could interfere with mental alertness and/or cause motor impairment.
-  Until it is reasonably well established that meropenem is well tolerated, patients should not operate machinery or motorized vehicles [see Warnings and Precautions (5.8)].
+  Until it is reasonably well established that meropenem is well tolerated, patients should not operate machinery or motorized vehicles [see Warnings and Precautions (5.9)].
 
 Manufactured for: Amneal Biosciences LLC Bridgewater, NJ 08807
 
 Made in Taiwan
 
 Rev.
-03-2018-04
+06-2018-05
