@@ -54,10 +54,10 @@ Patients should be instructed to complete the full course of therapy; however, t
 
 Patients should be advised not to use antacid preparations containing magnesium trisilicate while taking nitrofurantoin (monohydrate/macrocrystals).
 
-Patients should be counseled that antibacterial drugs including nitrofurantoin (monohydrate/macrocrystals)should only be used to treat bacterial infections.
+Patients should be counseled that antibacterial drugs including nitrofurantoin (monohydrate/macrocrystals) should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
-When nitrofurantoin (monohydrate/macrocrystals)are prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
-Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by nitrofurantoin (monohydrate/macrocrystals)or other antibacterial drugs in the future.
+When nitrofurantoin (monohydrate/macrocrystals) is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
+Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by nitrofurantoin (monohydrate/macrocrystals) or other antibacterial drugs in the future.
 
 Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
 Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
@@ -101,21 +101,9 @@ Doses of 10 mg/kg/day or greater in healthy human males may, in certain unpredic
 
 ## Pregnancy
 
-### Teratogenic Effects
+### Teratogenic Effects: Pregnancy Category B: Several reproduction studies have been performed in rabbits and rats at doses up to six times the human dose and have revealed no evidence of impaired fertility or harm to the fetus due to nitrofurantoin. In a single published study conducted in mice at 68 times the human dose (based on mg/kg administered to the dam), growth retardation and a low incidence of minor and common malformations were observed. However, at 25 times the human dose, fetal malformations were not observed; the relevance of these findings to humans is uncertain. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
-#### Pregnancy Category B
-
-Several reproduction studies have been performed in rabbits and rats at doses up to six times the human dose and have revealed no evidence of impaired fertility or harm to the fetus due to nitrofurantoin.
-In a single published study conducted in mice at 68 times the human dose (based on mg/kg administered to the dam), growth retardation and a low incidence of minor and common malformations were observed.
-However, at 25 times the human dose, fetal malformations were not observed; the relevance of these findings to humans is uncertain.
-There are, however, no adequate and well-controlled studies in pregnant women.
-Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
-
-### Non-Teratogenic Effects
-
-Nitrofurantoin has been shown in one published transplacental carcinogenicity study to induce lung papillary adenomas in the F1 generation mice at doses 19 times the human dose on a mg/kg basis.
-The relationship of this finding to potential human carcinogenesis is presently unknown.
-Because of the uncertainty regarding the human implications of these animal data, this drug should be used during pregnancy only if clearly needed.
+### Non-Teratogenic Effects: Nitrofurantoin has been shown in one published transplacental carcinogenicity study to induce lung papillary adenomas in the F1 generation mice at doses 19 times the human dose on a mg/kg basis. The relationship of this finding to potential human carcinogenesis is presently unknown. Because of the uncertainty regarding the human implications of these animal data, this drug should be used during pregnancy only if clearly needed.
 
 ## Labor and Delivery
 
@@ -128,12 +116,12 @@ Because of the potential for serious adverse reactions from nitrofurantoin in nu
 
 ## Pediatric Use
 
-Nitrofurantoin (monohydrate/macrocrystals)are contraindicated in infants below the age of one month (see CONTRAINDICATIONS).
+Nitrofurantoin (monohydrate/macrocrystals) is contraindicated in infants below the age of one month (see CONTRAINDICATIONS).
 Safety and effectiveness in pediatric patients below the age of twelve years have not been established.
 
 ## Geriatric Use
 
-Clinical studies of nitrofurantoin (monohydrate/macrocrystals)did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical studies of nitrofurantoin (monohydrate/macrocrystals) did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 Spontaneous reports suggest a higher proportion of pulmonary reactions, including fatalities, in elderly patients; these differences appear to be related to the higher proportion of elderly patients receiving long-term nitrofurantoin therapy.
 As in younger patients, chronic pulmonary reactions generally are observed in patients receiving therapy for six months or longer (see WARNINGS).

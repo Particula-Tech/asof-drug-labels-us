@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-Nitrofurantoin capsules (monohydrate/macrocrystals)should be taken with food.
+Nitrofurantoin capsules (monohydrate/macrocrystals) should be taken with food.
 
 Adults and Pediatric Patients Over 12 Years
 

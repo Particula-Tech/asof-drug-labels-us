@@ -65,7 +65,7 @@ Klebsiella oxytoca
 
 Klebsiella ozaenae
 
-Nitrofurantoin is not active against most strains of Proteus species or Serratiaspecies.
+Nitrofurantoin is not active against most strains of Proteus species or Serratia species.
 It has no activity against Pseudomonas species.
 
 Susceptibility Test Methods: When available, the clinical microbiology laboratory should provide cumulative results of the in vitro susceptibility test results for antimicrobial drugs used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
@@ -79,7 +79,7 @@ The MIC values should be interpreted according to the criteria provided in Table
 
 Diffusion Technique: Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 One such standardized procedure (2) requires the use of standardized inoculum concentrations.
-This procedure uses paper disks impregnated with 300 µg of nitrofurantoin to test the susceptibility of microorganisms to nitrofurantoin.
+This procedure uses paper disks impregnated with 300 mcg of nitrofurantoin to test the susceptibility of microorganisms to nitrofurantoin.
 The disk diffusion interpretive criteria are provided in Table 1.
 
 Table 1.
@@ -87,10 +87,10 @@ Susceptibility Interpretive Criteria for Nitrofurantoin
 
 | Pathogen | Susceptibility Interpretive Criteria |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Minimum Inhibitory Concentrations (µg/mL) |  |  | Disk Diffusion (Zone diameter in mm) |  |  |  |
+| Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion (Zone diameter in mm) |  |  |  |
 | S | I | R | S | I | R |  |
-| Enterobacteriaceae | ≤ 32 | 64 | ≥ 128 | ≥ 17 | 15 – 16 | ≤ 14 |
-| Staphylococcus spp. | ≤ 32 | 64 | ≥ 128 | ≥ 17 | 15 – 16 | ≤ 14 |
+| Enterobacteriaceae | ≤32 | 64 | ≥128 | ≥17 | 15 to 16 | ≤14 |
+| Staphylococcus spp. | ≤32 | 64 | ≥128 | ≥17 | 15 to 16 | ≤14 |
 
 A report of Susceptible indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the urine reaches the concentrations usually achievable.
 A report of Intermediate indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
@@ -98,7 +98,7 @@ This category implies possible clinical applicability in body sites where the dr
 This category also provides a buffer zone, which prevents small, uncontrolled technical factors from causing major discrepancies in interpretation.
 A report of Resistant indicates that the pathogen is not likely to be inhibited if the antimicrobial compound in the urine reaches the concentrations usually achievable; other therapy should be selected.
 
-Quality Control: Standardized susceptibility test procedures require the use of quality control microorganisms to control the technical aspects of the test procedures (3).
+Quality Control:Standardized susceptibility test procedures require the use of quality control microorganisms to control the technical aspects of the test procedures (3).
 Standard nitrofurantoin powder should provide the following range of values noted in Table 2.
 
 Table 2.
@@ -106,8 +106,8 @@ Acceptable Quality Control Ranges for Nitrofurantoin
 
 | QC Strain | Acceptable Quality Control Ranges |  |
 | --- | --- | --- |
-| Minimum Inhibitory Concentration (µg/mL) | Disk Diffusion (zone diameter in mm) |  |
-| Escherichia coli ATCC 25922 | 4 – 16 | 20 – 25 |
-| Enterococcus faecalis ATCC 29212 | 4 – 16 | NANot applicable |
-| Staphylococcus aureus ATCC 29213 | 8 – 32 | NA |
-| Staphylococcus aureus ATCC 25923 | NAa | 18 – 22 |
+| Minimum Inhibitory Concentration (mcg/mL) | Disk Diffusion (zone diameter in mm) |  |
+| Escherichia coli ATCC 25922 | 4 to 16 | 20 to 25 |
+| Enterococcus faecalis ATCC 29212 | 4 to 16 | NANot applicable |
+| Staphylococcus aureus ATCC 29213 | 8 to 32 | NA |
+| Staphylococcus aureus ATCC 25923 | NAa | 18 to 22 |

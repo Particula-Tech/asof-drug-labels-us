@@ -8,11 +8,7 @@ Sandoz Inc.
 
 Princeton, NJ 08540
 
-OS7939
-
 Rev.
-04/14
+05/17
 
-MF0122REV04/14
-
-MG #20122
+MF0122REV05/17
