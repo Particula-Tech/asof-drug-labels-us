@@ -1,0 +1,102 @@
+# 7. DRUG INTERACTIONS
+
+## 7.1 Not Recommended With Other Antiretroviral Medications
+
+SYMTUZA is a complete regimen for HIV-1 infection and coadministration with other antiretroviral medications for the treatment of HIV-1 infection is not recommended.
+For this reason, information regarding potential drug-drug interactions with other antiretroviral medications is not provided.
+
+## 7.2 Potential for SYMTUZA to Affect Other Drugs
+
+Darunavir co-administered with cobicistat is an inhibitor of CYP3A and CYP2D6.
+Cobicistat inhibits the following transporters: P-glycoprotein (P-gp), BCRP, MATE1, OATP1B1 and OATP1B3.
+Therefore, co-administration of SYMTUZA with drugs that are primarily metabolized by CYP3A and/or CYP2D6, or are substrates of P-gp, BCRP, MATE1, OATP1B1 or OATP1B3 may result in increased plasma concentrations of such drugs, which could increase or prolong their therapeutic effect and can be associated with adverse events (see Table 4).
+
+## 7.3 Potential for Other Drugs to Affect SYMTUZA
+
+Darunavir is metabolized by CYP3A.
+Cobicistat is metabolized by CYP3A and, to a minor extent, by CYP2D6.
+Co-administration of drugs that induce CYP3A activity are expected to increase the clearance of darunavir and cobicistat, resulting in lowered plasma concentrations which may lead to loss of therapeutic effect and development of resistance.
+Co-administration of SYMTUZA with other drugs that inhibit CYP3A may result in increased plasma concentrations of darunavir and cobicistat (see Table 4).
+
+Tenofovir alafenamide (TAF) is a substrate of P-gp, BCRP, OATP1B1, and OATP1B3.
+Drugs that strongly affect P-gp activity may lead to changes in TAF absorption.
+Drugs that induce P-gp activity are expected to decrease the absorption of TAF, resulting in decreased plasma concentrations of TAF, which may lead to loss of therapeutic effect of SYMTUZA and development of resistance.
+Co-administration of SYMTUZA with other drugs that inhibit P-gp may increase the absorption and plasma concentrations of TAF (see Table 4).
+
+## 7.4 Drugs Affecting Renal Function
+
+Because emtricitabine and tenofovir are primarily excreted by the kidneys through glomerular filtration and active tubular secretion, co-administration of SYMTUZA with drugs that reduce renal function or compete for active tubular secretion may increase concentrations of emtricitabine, tenofovir, and other renally eliminated drugs and this may increase the risk of adverse reactions.
+Some examples of drugs that are eliminated by active tubular secretion include, but are not limited to, acyclovir, cidofovir, ganciclovir, valacyclovir, valganciclovir, aminoglycosides (e.g., gentamicin), and high-dose or multiple NSAIDs [see Warnings and Precautions (5.6)].
+
+## 7.5 Significant Drug Interactions
+
+Table 4 provides a listing of established or potentially clinically significant drug interactions with SYMTUZA and recommended steps to prevent or manage these interactions.
+These recommendations are based on drug interaction trials conducted with the components of SYMTUZA, as individual agents or in combination, or are predicted interactions.
+No drug interaction trials have been performed with SYMTUZA or with all the components administered together.
+Drug interaction trials have been conducted with darunavir co-administered with ritonavir or cobicistat or with emtricitabine and tenofovir prodrugs.
+
+Table 4: Significant Drug Interactions
+
+| Concomitant Drug Class: Drug Name | Effect on Concentration | Clinical Comment |
+| --- | --- | --- |
+| Alpha 1-adrenoreceptor antagonist: alfuzosin | ↑ alfuzosin | Co-administration is contraindicated due to potential for serious and/or life-threatening reactions such as hypotension. |
+| Antianginal: ranolazine | ↑ ranolazine | Co-administration is contraindicated due to potential for serious and/or life-threatening reactions. |
+| Antiarrhythmics: dronedarone | ↑ dronedarone | Co-administration is contraindicated due to potential for serious and/or life-threatening reactions such as cardiac arrhythmias |
+| e.g., amiodarone, disopyramide, flecainide, lidocaine (systemic), mexiletine, propafenone, quinidine | ↑ antiarrhythmics | Clinical monitoring is recommended upon co-administration with antiarrhythmics. |
+| digoxin | ↑ digoxin | When co-administering with digoxin, titrate the digoxin dose and monitor digoxin concentrations. |
+| Antibacterials: clarithromycin, erythromycin, telithromycin | ↑ darunavir ↑ cobicistat ↑ antibacterial | Consider alternative antibiotics with concomitant use of SYMTUZA. |
+| Anticancer agents: dasatinib, nilotinib | ↑ anticancer agent | A decrease in the dosage or an adjustment of the dosing interval of dasatinib or nilotinib may be necessary when co-administered with SYMTUZA. Consult the dasatinib and nilotinib prescribing information for dosing instructions. |
+| vinblastine, vincristine |  | For vincristine and vinblastine, consider temporarily withholding the cobicistat-containing antiretroviral regimen in patients who develop significant hematologic or gastrointestinal side effects when SYMTUZA is administered concurrently with vincristine or vinblastine. If the antiretroviral regimen must be withheld for a prolonged period, consider initiating a revised regimen that does not include a CYP3A or P-gp inhibitor. |
+| Anticoagulants: Direct Oral Anticoagulants (DOACs) apixaban | ↑ apixaban | Due to potentially increased bleeding risk, dosing recommendations for coadministration of apixaban with SYMTUZA depends on the apixaban dose. Refer to apixaban dosing instructions for coadministration with strong CYP3A and P-gp inhibitors in apixaban prescribing information. |
+| rivaroxaban | ↑ rivaroxaban | Coadministration of rivaroxaban with SYMTUZA is not recommended because it may lead to an increased bleeding risk. |
+| betrixaban dabigatran edoxaban | ↔ betrixaban ↔ dabigatran ↔ edoxaban | No dose adjustment is needed when betrixaban, dabigatran, or edoxaban is co-administered with SYMTUZA. |
+| warfarin | warfarin: effect unknown | Monitor international normalized ratio (INR) upon co-administration of SYMTUZA with warfarin. |
+| Anticonvulsants: carbamazepine, phenobarbital, phenytoin | ↓ cobicistat ↓ darunavir ↓ tenofovir alafenamide | Co-administration is contraindicated due to potential for loss of therapeutic effect and development of resistance. |
+| Anticonvulsants with CYP3A induction effects that are NOT contraindicated: e.g., eslicarbazepine, oxcarbazepine | ↓ cobicistat ↓ tenofovir alafenamide darunavir: effect unknown | Consider alternative anticonvulsant or antiretroviral therapy to avoid potential changes in exposures. If co-administration is necessary, monitor for lack or loss of virologic response. |
+| Anticonvulsants that are metabolized by CYP3A: e.g., clonazepam | ↑ clonazepam | Clinical monitoring of anticonvulsants is recommended. |
+| Antidepressants: Selective Serotonin Reuptake Inhibitors (SSRIs): e.g., paroxetine, sertraline | SSRIs: effects unknown | When co-administering with SSRIs, TCAs, or trazodone, careful dose titration of the antidepressant to the desired effect, including using the lowest feasible initial or maintenance dose, and monitoring for antidepressant response are recommended. |
+| Tricyclic Antidepressants (TCAs): e.g., amitriptyline, desipramine, imipramine, nortriptyline | ↑ TCAs |  |
+| Other antidepressants: trazodone | ↑ trazodone |  |
+| Antifungals: itraconazole, ketoconazole, posaconazole | ↑ darunavir ↑ cobicistat | Monitor for increased darunavir or cobicistat adverse reactions. |
+|  | ↑ itraconazole ↑ ketoconazole ↔ posaconazole (not studied) | Specific dosing recommendations are not available for co-administration with itraconazole or ketoconazole. Monitor for increased itraconazole or ketoconazole adverse reactions. |
+| voriconazole | voriconazole: effects unknown | Co-administration with voriconazole is not recommended unless benefit/risk assessment justifies the use of voriconazole. |
+| Anti-gout: colchicine | ↑ colchicine | Co-administration is contraindicated in patients with renal and/or hepatic impairment due to potential for serious and/or life-threatening reactions. For patients without renal or hepatic impairment: Treatment of gout flares – co-administration of colchicine: 0.6 mg (1 tablet) ×1 dose, followed by 0.3 mg (half tablet) 1 hour later. Treatment course to be repeated no earlier than 3 days.Prophylaxis of gout flares – co-administration of colchicine: If the original regimen was 0.6 mg twice a day, the regimen should be adjusted to 0.3 mg once a day. If the original regimen was 0.6 mg once a day, the regimen should be adjusted to 0.3 mg once every other day.Treatment of familial Mediterranean fever – co-administration of colchicine: Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day). |
+| Antimalarial: artemether/lumefantrine | artemether: effect unknown lumefantrine: effect unknown | Monitor for a potential decrease of antimalarial efficacy or potential QT prolongation. |
+| Antimycobacterials: rifampin | ↓ cobicistat ↓ darunavir ↓ tenofovir alafenamide | Co-administration is contraindicated due to potential for loss of therapeutic effect and development of resistance. |
+| rifabutin | ↑ rifabutin ↓ TAF cobicistat: effects unknown darunavir: effects unknown | Co-administration of SYMTUZA with rifabutin is not recommended. If the combination is needed, the recommended dose of rifabutin is 150 mg every other day. Monitor for rifabutin-associated adverse reactions including neutropenia and uveitis. |
+| rifapentine | ↓ darunavir ↓ TAF | Co-administration with rifapentine is not recommended. |
+| Antipsychotics: lurasidone | ↑ lurasidone | Co-administration is contraindicated due to potential for serious and/or life-threatening reactions. |
+| pimozide | ↑ pimozide | Co-administration is contraindicated due to potential for serious and/or life-threatening reactions such as cardiac arrhythmias. |
+| e.g., perphenazine, risperidone, thioridazine | ↑ antipsychotic | A decrease in the dose of antipsychotics that are metabolized by CYP3A or CYP2D6 may be needed when co-administered with SYMTUZA. |
+| quetiapine | ↑ quetiapine | Initiation of SYMTUZA in patients taking quetiapine: Consider alternative antiretroviral therapy to avoid increases in quetiapine exposure. If co-administration is necessary, reduce the quetiapine dose to 1/6 of the current dose and monitor for quetiapine-associated adverse reactions. Refer to the quetiapine prescribing information for recommendations on adverse reaction monitoring. Initiation of quetiapine in patients taking SYMTUZA: Refer to the quetiapine prescribing information for initial dosing and titration of quetiapine. |
+| β-Blockers: e.g., carvedilol, metoprolol, timolol | ↑ beta-blockers | Clinical monitoring is recommended for co-administration with beta-blockers that are metabolized by CYP2D6. |
+| Calcium channel blockers: e.g., amlodipine, diltiazem, felodipine, nifedipine, verapamil | ↑ calcium channel blockers | Clinical monitoring is recommended for co-administration with calcium channel blockers metabolized by CYP3A. |
+| Systemic/Inhaled/ Nasal/Ophthalmic Corticosteroids: e.g., betamethasone budesonide ciclesonide dexamethasone fluticasone methylprednisolone mometasone triamcinolone | ↓ darunavir ↓ cobicistat ↑ corticosteroids | Co-administration with systemic dexamethasone or other systemic corticosteroids that induce CYP3A may result in loss of therapeutic effect and development of resistance to SYMTUZA. Consider alternative corticosteroids. Co-administration with corticosteroids of which exposures are significantly increased by strong CYP3A inhibitors can increase the risk for Cushing's syndrome and adrenal suppression. Alternative corticosteroids including beclomethasone, prednisone, and prednisolone (for which PK and/or PD are less affected by strong CYP3A inhibitors relative to other steroids) should be considered, particularly for long term use. |
+| Endothelin receptor antagonists: bosentan | ↓ darunavir ↓ cobicistat ↑ bosentan | Initiation of bosentan in patients taking SYMTUZA: In patients who have been receiving SYMTUZA for at least 10 days, start bosentan at 62.5 mg once daily or every other day based upon individual tolerability. Initiation of SYMTUZA in patients on bosentan: Discontinue use of bosentan at least 36 hours prior to initiation of SYMTUZA. After at least 10 days following the initiation of SYMTUZA, resume bosentan at 62.5 mg once daily or every other day based upon individual tolerability. Switching from darunavir co-administered with ritonavir to SYMTUZA in patients on bosentan: Maintain bosentan dose. |
+| Ergot derivatives: |  |  |
+| e.g., dihydroergotamine, ergotamine, methylergonovine | ↑ ergot derivatives | Co-administration is contraindicated due to potential for serious and/or life-threatening reactions such as acute ergot toxicity characterized by peripheral vasospasm and ischemia of the extremities and other tissues. |
+| GI motility agent: |  |  |
+| cisapride | ↑ cisapride | Co-administration is contraindicated due to potential for serious and/or life-threatening reactions such as cardiac arrhythmias. |
+| Hepatitis C virus (HCV): Direct-Acting Antivirals: |  |  |
+| elbasvir/grazoprevir | ↑ elbasvir/grazoprevir | Co-administration is contraindicated due to potential for the increased risk of alanine transaminase (ALT) elevations. |
+| simeprevir | darunavir: effects unknown | Co-administration with simeprevir is not recommended. |
+|  | ↑ simeprevir |  |
+| Herbal product: |  |  |
+| St. John's wort (Hypericum perforatum) | ↓ cobicistat ↓ darunavir ↓ tenofovir alafenamide | Co-administration is contraindicated due to potential for loss of therapeutic effect and development of resistance. |
+| HMG-CoA reductase inhibitors: lovastatin, simvastatin | ↑ lovastatin ↑ simvastatin | Co-administration is contraindicated due to potential for serious reactions such as myopathy including rhabdomyolysis. |
+| e.g., atorvastatin, fluvastatin, pitavastatin, pravastatin, rosuvastatin | ↑ atorvastatin ↑ fluvastatin ↑ pravastatin ↑ rosuvastatin pitavastatin: effect unknown | For atorvastatin, fluvastatin, pitavastatin, pravastatin, and rosuvastatin, start with the lowest recommended dose and titrate while monitoring for safety. Dosage recommendations with atorvastatin or rosuvastatin are as follows: atorvastatin dosage should not exceed 20 mg/dayrosuvastatin dosage should not exceed 20 mg/day |
+| Hormonal contraceptives: |  | Additional or alternative (non-hormonal) forms of contraception should be considered when estrogen based contraceptives are coadministered with SYMTUZA. |
+| drosperinone/ethinylestradiol | ↑ drosperinone ↓ ethinylestradiol | For co-administration with drospirenone, clinical monitoring is recommended due to the potential for hyperkalemia. |
+| other progestin/estrogen contraceptives | progestin: effects unknown estrogen: effects unknown | No data are available to make recommendations on co-administration with oral or other hormonal contraceptives. |
+| Immunosuppressants: cyclosporine, sirolimus, tacrolimus | ↑ immunosuppressants | These immunosuppressant agents are metabolized by CYP3A. Therapeutic drug monitoring is recommended with concomitant use. |
+| Immunosuppressant /neoplastic: everolimus |  | Co-administration of everolimus and SYMTUZA is not recommended. |
+| Inhaled beta agonist: salmeterol | ↑ salmeterol | Co-administration with salmeterol is not recommended and may result in increased risk of cardiovascular adverse events associated with salmeterol, including QT prolongation, palpitations, and sinus tachycardia. |
+| Narcotic analgesics metabolized by CYP3A: e.g., fentanyl, oxycodone | ↑ fentanyl ↑ oxycodone | Careful monitoring of therapeutic effects and adverse reactions associated with CYP3A-metabolized narcotic analgesics (including potentially fatal respiratory depression) is recommended with co-administration. |
+| tramadol | ↑ tramadol | A dose decrease may be needed for tramadol with concomitant use. |
+| Narcotic analgesic for treatment of opioid dependence: buprenorphine, buprenorphine/naloxone, methadone | buprenorphine or buprenorphine/ naloxone: effects unknown methadone: effects unknown | Initiation of buprenorphine, buprenorphine/naloxone or methadone in patients taking SYMTUZA: Carefully titrate the dose of buprenorphine, buprenorphine/naloxone or methadone to the desired effect; use the lowest feasible initial or maintenance dose. Initiation of SYMTUZA in patients taking buprenorphine, buprenorphine/naloxone or methadone: A dose adjustment for buprenorphine, buprenorphine/naloxone or methadone may be needed. Monitor clinical signs and symptoms. |
+| Phosphodiesterase PDE-5 inhibitors: e.g., avanafil, sildenafil, tadalafil, vardenafil | ↑ PDE-5 inhibitors | Co-administration with avanafil is not recommended because a safe and effective avanafil dosage regimen has not been established. Co-administration with PDE-5 inhibitors may result in an increase in PDE-5 inhibitor-associated adverse reactions including hypotension, syncope, visual disturbances and priapism. Use of PDE-5 inhibitors for pulmonary arterial hypertension (PAH): Co-administration with sildenafil used for PAH is contraindicated due to potential for sildenafil associated adverse reactions (which include visual disturbances, hypotension, prolonged erection, and syncope). The following dose adjustments are recommended for use of tadalafil with SYMTUZA: Initiation of tadalafil in patients taking SYMTUZA: In patients receiving SYMTUZA for at least one week, start tadalafil at 20 mg once daily. Increase to 40 mg once daily based upon individual tolerability.Initiation of SYMTUZA in patients taking tadalafil: Avoid use of tadalafil during the initiation of SYMTUZA. Stop tadalafil at least 24 hours prior to starting SYMTUZA. After at least one week following the initiation of SYMTUZA, resume tadalafil at 20 mg once daily. Increase to 40 mg once daily based upon individual tolerability.Patients switching from darunavir co-administered with ritonavir to SYMTUZA: Maintain tadalafil dose. Use of PDE-5 inhibitors for erectile dysfunction: Sildenafil at a single dose not exceeding 25 mg in 48 hours, vardenafil at a single dose not exceeding 2.5 mg dose in 72 hours, or tadalafil at a single dose not exceeding 10 mg dose in 72 hours can be used with increased monitoring for PDE-5 inhibitor-associated adverse reactions. |
+| Platelet aggregation inhibitor: ticagrelor | ↑ticagrelor | Co-administration of SYMTUZA and ticagrelor is not recommended. |
+| Sedatives/hypnotics: orally administered midazolam, triazolam | ↑ midazolam ↑ triazolam | Co-administration is contraindicated due to potential for serious and/or life-threatening reactions such as prolonged or increased sedation or respiratory depression. |
+| metabolized by CYP3A: e.g., buspirone, diazepam, estazolam, zolpidem | ↑ sedatives/hypnotics | With concomitant use, titration is recommended with sedatives/hypnotics metabolized by CYP3A and a lower dose of the sedatives/hypnotics should be considered with monitoring for increased and prolonged effects or adverse reactions. |
+| parenterally administered midazolam |  | Co-administration of parenteral midazolam should be done in a setting that ensures close clinical monitoring and appropriate medical management in case of respiratory depression and/or prolonged sedation. Dose reduction for parenteral midazolam should be considered, especially if more than a single dose of midazolam is administered. |
+| This table is not all inclusive ↑ = increase, ↓ = decrease, ↔ = no effect |  |  |

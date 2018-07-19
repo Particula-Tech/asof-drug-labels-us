@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA210455"
+  ],
+  "inn": "cobicistat",
+  "labeler": "Janssen Products LP",
+  "package_ndcs": [
+    "59676-800-30",
+    "59676-800-99"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "darunavir, cobicistat, emtricitabine, and tenofovir alafenamide",
+      "name": "Symtuza"
+    }
+  ],
+  "setid": "85a17d00-6b7c-41ea-a6b3-5ad924820dab",
+  "source": "dailymed"
+}
