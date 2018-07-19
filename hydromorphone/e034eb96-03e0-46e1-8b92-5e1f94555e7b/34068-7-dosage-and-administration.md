@@ -13,9 +13,7 @@
   Hydromorphone Hydrochloride Injection and Hydromorphone Hydrochloride Injection (HPF) are physically compatible and chemically stable for at least 24 hours at 25°C, protected from light in most common large-volume parenteral solutions.
 - Discard any unused portion in an appropriate manner.
 
-500 mg/50 mL Vial To use this single dose presentation, do not penetrate the stopper with a syringe.
-Instead, remove both the aluminum flipseal and rubber stopper in a suitable work area such as under a laminar flow hood (or equivalent clean air compounding area).
-The contents may then be withdrawn for preparation of a single, large-volume parenteral solution.
+500 mg/50 mL Vial To use this single dose presentation, withdraw the contents using aseptic technique for preparation of a single, large-volume parenteral solution.
 Discard any unused portion in an appropriate manner.
 
 ## 2.2 Initial Dosage

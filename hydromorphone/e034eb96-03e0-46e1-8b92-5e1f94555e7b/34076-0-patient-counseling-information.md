@@ -12,6 +12,6 @@ Advise patients of the potential for severe constipation, including management i
 
 Healthcare professionals can telephone Fresenius Kabi USA, LLC at 1-800-551-7176 for information or to report adverse events on this product.
 
-www.fresenius-kabi.us
+www.fresenius-kabi.com/us
 
-451503A
+451503B
