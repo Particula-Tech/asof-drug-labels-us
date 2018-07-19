@@ -13,4 +13,4 @@ Galaxy and Mini-Bag are registered trademarks of Baxter International Inc.
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com.
 
-LAB-0044-19.0 April 2018
+LAB-0044-20.0 Revised: 7/2018
