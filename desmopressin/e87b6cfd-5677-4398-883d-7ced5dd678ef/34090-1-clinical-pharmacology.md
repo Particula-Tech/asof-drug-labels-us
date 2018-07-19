@@ -87,9 +87,7 @@ A greater response was observed with increasing doses up to 0.6 mg.
 In a six month, open-label extension study, patients completing the placebo-controlled studies were started on 0.2 mg/day desmopressin acetate, and the dose was progressively increased until the optimal response was achieved (maximum dose 0.6 mg/day).
 A total of 230 patients were evaluated for efficacy; the average number of wet nights/2 weeks during the untreated baseline period was 10 (range 4 to 14), and the average duration (SD) of treatment was 4.2 (1.8) months.
 
-Twenty-five (25) patients (11%) achieved a complete or near complete response (≤ 2 wet nights/2 weeks) and did not require titration to the 0.6 mg/day dose.
-
-The majority of patients (198 of 230, 86%) were titrated to the highest dose.
+Twenty-five (25) patients (11%) achieved a complete or near complete response (≤ 2 wet nights/2 weeks) and did not require titration to the 0.6 mg/day dose.The majority of patients (198 of 230, 86%) were titrated to the highest dose.
 When all dose groups were combined, 128 (56%) showed at least a 50% reduction from baseline in the number of wet nights/2 weeks, while 87 (38%) patients achieved a complete or near complete response.
 
 ## Human Pharmacokinetics
