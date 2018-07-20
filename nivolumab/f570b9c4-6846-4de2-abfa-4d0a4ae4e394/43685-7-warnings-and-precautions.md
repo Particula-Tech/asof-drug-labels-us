@@ -22,8 +22,8 @@ Approximately 8% of patients had recurrence of pneumonitis after re-initiation o
 
 OPDIVO 1 mg/kg with Ipilimumab 3 mg/kg
 
-In patients receiving OPDIVO 1 mg/kg with ipilimumab 3 mg/kg every 3 weeks, immune-mediated pneumonitis occurred in 6% (25/407) of patients.
-The median time to onset of immune-mediated pneumonitis was 1.6 months (range: 24 days to 10.1 months).
+Immune-mediated pneumonitis occurred in 6% (25/407) of patients with melanoma who received OPDIVO 1 mg/kg with ipilimumab 3 mg/kg every 3 weeks.
+Median time to onset was 1.6 months (range: 24 days to 10.1 months).
 Immune-mediated pneumonitis led to permanent discontinuation or withholding of OPDIVO with ipilimumab in 2.2% and 3.7% of patients, respectively.
 Approximately 84% of patients with pneumonitis received high-dose corticosteroids (at least 40 mg prednisone equivalents per day) for a median duration of 30 days (range: 5 days to 11.8 months).
 Complete resolution occurred in 68% of patients.
@@ -31,12 +31,14 @@ Approximately 13% of patients had recurrence of pneumonitis after re-initiation 
 
 OPDIVO 3 mg/kg with Ipilimumab 1 mg/kg
 
-In patients receiving OPDIVO 3 mg/kg with ipilimumab 1 mg/kg every 3 weeks, immune-mediated pneumonitis occurred in 4.4% (24/547) of patients.
-The median time to onset of immune-mediated pneumonitis was 2.6 months (range: 8 days to 9.2 months).
-Immune-mediated pneumonitis led to permanent discontinuation or withholding of OPDIVO with ipilimumab in 2.0% and 1.6% of patients, respectively.
-Approximately 92% of patients with pneumonitis received high-dose corticosteroids (at least 40 mg prednisone equivalents per day) for a median duration of 19 days (range: 4 days to 3.2 months).
-Approximately 8% of patients required addition of infliximab to high-dose corticosteroids.
-Complete resolution occurred in 79% of patients without recurrence of pneumonitis after re-initiation of OPDIVO with ipilimumab.
+Immune-mediated pneumonitis occurred in 4.4% (24/547) of patients with RCC and 1.7% (2/119) of patients with CRC who received OPDIVO 3 mg/kg with ipilimumab 1 mg/kg every 3 weeks.
+Median time to onset of immune-mediated pneumonitis was 2.6 months (range: 8 days to 9.2 months) in patients with RCC and 1.9 months (range: 27 days to 3 months) in patients with CRC.
+
+Immune-mediated pneumonitis led to permanent discontinuation of OPDIVO with ipilimumab in 1.8% of patients with RCC or CRC (n=666) and withholding of OPDIVO with ipilimumab in 1.7%.
+All patients with pneumonitis required systemic corticosteroids, including 92% who received high-dose corticosteroids (at least 40 mg prednisone equivalents per day) for a median duration of 19 days (range: 4 days to 3.2 months).
+Approximately 8% required addition of infliximab to high-dose corticosteroids.
+Complete resolution of pneumonitis occurred in 81% of patients.
+Pneumonitis recurred after re-initiation of OPDIVO with ipilimumab in one patient with CRC.
 
 ## 5.2 Immune-Mediated Colitis
 
@@ -65,8 +67,8 @@ Approximately 16% of patients had recurrence of colitis after re-initiation of O
 
 OPDIVO 1 mg/kg with Ipilimumab 3 mg/kg
 
-In patients receiving OPDIVO 1 mg/kg with ipilimumab 3 mg/kg every 3 weeks, immune-mediated colitis occurred in 26% (107/407) of patients including three fatal cases.
-The median time to onset of immune-mediated colitis was 1.6 months (range: 3 days to 15.2 months).
+Immune-mediated colitis occurred in 26% (107/407) of patients with melanoma who received OPDIVO 1 mg/kg with ipilimumab 3 mg/kg every 3 weeks, including three fatal cases.
+Median time to onset was 1.6 months (range: 3 days to 15.2 months).
 Immune-mediated colitis led to permanent discontinuation or withholding of OPDIVO with ipilimumab in 16% and 7% of patients, respectively.
 Approximately 96% of patients with colitis received high-dose corticosteroids (at least 40 mg prednisone equivalents per day) for a median duration of 1.1 month (range: 1 day to 12 months).
 Approximately 23% of patients required addition of infliximab to high-dose corticosteroids.
@@ -75,13 +77,14 @@ Approximately 28% of patients had recurrence of colitis after re-initiation of O
 
 OPDIVO 3 mg/kg with Ipilimumab 1 mg/kg
 
-In patients receiving OPDIVO 3 mg/kg with ipilimumab 1 mg/kg every 3 weeks, immune-mediated colitis occurred in 10% (52/547) of patients.
-The median time to onset of immune-mediated colitis was 1.7 months (range: 2 days to 19.2 months).
-Immune-mediated colitis led to permanent discontinuation or withholding of OPDIVO with ipilimumab in 3.5% and 4.2% of patients, respectively.
-Approximately 83% of patients with colitis received high-dose corticosteroids (at least 40 mg prednisone equivalents per day) for a median duration of 21 days (range: 1 day to 27 months).
-Approximately 23% of patients required addition of infliximab to high-dose corticosteroids.
-Complete resolution occurred in 89% of patients.
-Two patients had recurrence of colitis after re-initiation of OPDIVO with ipilimumab.
+Immune-mediated colitis occurred in 10% (52/547) of patients with RCC and 7% (8/119) of patients with CRC who received OPDIVO 3 mg/kg with ipilimumab 1 mg/kg every 3 weeks.
+Median time to onset of immune-mediated colitis was 1.7 months (range: 2 days to 19.2 months) in patients with RCC and 2.4 months (range: 22 days to 5.2 months) in patients with mCRC.
+
+Immune-mediated colitis led to permanent discontinuation of OPDIVO with ipilimumab in 3.2% of patients with RCC or CRC (n=666) and withholding of OPDIVO with ipilimumab in 3.9%.
+All patients with colitis required systemic corticosteroids, including 80% who received high-dose corticosteroids (at least 40 mg prednisone equivalents per day) for a median duration of 21 days (range: 1 day to 27 months).
+Approximately 23% of patients with immune-mediated colitis required addition of infliximab to high-dose corticosteroids.
+Complete resolution occurred in 88% of patients.
+Two patients with RCC had recurrence of colitis after re-initiation of OPDIVO with ipilimumab.
 
 ## 5.3 Immune-Mediated Hepatitis
 
@@ -108,7 +111,8 @@ Approximately 29% of patients had recurrence of hepatitis after re-initiation of
 
 OPDIVO 1 mg/kg with Ipilimumab 3 mg/kg
 
-In patients receiving OPDIVO 1 mg/kg with ipilimumab 3 mg/kg every 3 weeks, immune-mediated hepatitis occurred in 13% (51/407) of patients; the median time to onset was 2.1 months (range: 15 days to 11 months).
+Immune-mediated hepatitis occurred in 13% (51/407) of patients with melanoma receiving OPDIVO 1 mg/kg with ipilimumab 3 mg/kg every 3 weeks.
+Median time to onset was 2.1 months (range: 15 days to 11 months).
 Immune-mediated hepatitis led to permanent discontinuation or withholding of OPDIVO with ipilimumab in 6% and 5% of patients, respectively.
 Approximately 92% of patients with hepatitis received high-dose corticosteroids (at least 40 mg prednisone equivalents per day) for a median duration of 1.1 month (range: 1 day to 13.2 months).
 Complete resolution occurred in 75% of patients.
@@ -116,10 +120,14 @@ Approximately 11% of patients had recurrence of hepatitis after re-initiation of
 
 OPDIVO 3 mg/kg with Ipilimumab 1 mg/kg
 
-In patients receiving OPDIVO 3 mg/kg with ipilimumab 1 mg/kg every 3 weeks, immune-mediated hepatitis occurred in 7% (38/547) of patients; the median time to onset was 2 months (range: 14 days to 26.8 months).
-Immune-mediated hepatitis led to permanent discontinuation or withholding of OPDIVO with ipilimumab in 3.7% and 3.1% of patients, respectively.
-Approximately 92% of patients with hepatitis received high-dose corticosteroids (at least 40 mg prednisone equivalents per day) for a median duration of 1.0 month (range: 1 day to 4.0 months).
-Complete resolution occurred in 87% of patients without recurrence of hepatitis after re-initiation of OPDIVO with ipilimumab.
+Immune-mediated hepatitis occurred in 7% (38/547) of patients with RCC and 8% (10/119) with CRC receiving OPDIVO 3 mg/kg with ipilimumab 1 mg/kg every 3 weeks.
+Median time to onset was 2 months (range: 14 days to 26.8 months) in patients with RCC and 2.2 months (range: 22 days to 10.5 months) in patients with CRC.
+
+Immune-mediated hepatitis led to permanent discontinuation of OPDIVO with ipilimumab in 3.6% of patients with RCC or CRC (n=666) and withholding of OPDIVO and ipilimumab in 3.5%.
+All patients with hepatitis required systemic corticosteroids, including 94% who received high-dose corticosteroids (at least 40 mg prednisone equivalents per day) for a median duration of 1 month (range: 1 day to 7 months).
+Approximately 19% of patients with immune-mediated hepatitis required addition of mycophenolic acid to high-dose corticosteroids.
+Complete resolution occurred in 83% of patients.
+No patients had recurrence of hepatitis after re-initiation of OPDIVO with ipilimumab.
 
 ## 5.4 Immune-Mediated Endocrinopathies
 
@@ -141,15 +149,18 @@ OPDIVO with Ipilimumab
 
 OPDIVO 1 mg/kg with Ipilimumab 3 mg/kg
 
-In patients receiving OPDIVO 1 mg/kg with ipilimumab 3 mg/kg every 3 weeks, hypophysitis occurred in 9% (36/407) of patients; the median time to onset was 2.7 months (range: 27 days to 5.5 months).
+Hypophysitis occurred in 9% (36/407) of patients with melanoma receiving OPDIVO 1 mg/kg with ipilimumab 3 mg/kg every 3 weeks.
+Median time to onset was 2.7 months (range: 27 days to 5.5 months).
 Hypophysitis led to permanent discontinuation or withholding of OPDIVO with ipilimumab in 1.0% and 3.9% of patients, respectively.
 Approximately 75% of patients with hypophysitis received hormone replacement therapy and 56% received high-dose corticosteroids (at least 40 mg prednisone equivalents per day) for a median duration of 19 days (range: 1 day to 2.0 months).
 
 OPDIVO 3 mg/kg with Ipilimumab 1 mg/kg
 
-In patients receiving OPDIVO 3 mg/kg with ipilimumab 1 mg/kg every 3 weeks, hypophysitis occurred in 4.6% (25/547) of patients; the median time to onset was 2.8 months (range: 1.3 months to 7.3 months).
-Hypophysitis led to permanent discontinuation or withholding of OPDIVO with ipilimumab in 1.3% and 2.6% of patients, respectively.
-Approximately 72% of patients with hypophysitis received hormone replacement therapy and 60% received high-dose corticosteroids (at least 40 mg prednisone equivalents per day) for a median duration of 10 days (range: 1 day to 1.6 months).
+Hypophysitis occurred in 4.6% (25/547) of patients with RCC and 3.4% (4/119) of patients with CRC receiving OPDIVO 3 mg/kg with ipilimumab 1 mg/kg every 3 weeks.
+Median time to onset was 2.8 months (range: 1.3 months to 7.3 months) in patients with RCC and 3.7 months (range: 2.8 to 5.5 months) in patients with CRC.
+
+Hypophysitis led to permanent discontinuation or withholding of OPDIVO with ipilimumab in 1.2% and 2.6% of patients with RCC or CRC (n=666), respectively.
+Approximately 72% of patients with hypophysitis received hormone replacement therapy and 55% received high-dose corticosteroids (at least 40 mg prednisone equivalents per day) for a median duration of 13 days (range: 1 day to 1.6 months).
 
 ### Adrenal Insufficiency
 
@@ -168,15 +179,18 @@ OPDIVO with Ipilimumab
 
 OPDIVO 1 mg/kg with Ipilimumab 3 mg/kg
 
-In patients receiving OPDIVO 1 mg/kg with ipilimumab 3 mg/kg every 3 weeks, adrenal insufficiency occurred in 5% (21/407) of patients and the median time to onset was 3.0 months (range: 21 days to 9.4 months).
+Adrenal insufficiency occurred in 5% (21/407) of patients with melanoma receiving OPDIVO 1 mg/kg with ipilimumab 3 mg/kg every 3 weeks.
+Median time to onset was 3.0 months (range: 21 days to 9.4 months).
 Adrenal insufficiency led to permanent discontinuation or withholding of OPDIVO with ipilimumab in 0.5% and 1.7% of patients, respectively.
 Approximately 57% of patients with adrenal insufficiency received hormone replacement therapy and 33% received high-dose corticosteroids (at least 40 mg prednisone equivalents per day) for a median duration of 9 days (range: 1 day to 2.7 months).
 
 OPDIVO 3 mg/kg with Ipilimumab 1 mg/kg
 
-In patients receiving OPDIVO 3 mg/kg with ipilimumab 1 mg/kg every 3 weeks, adrenal insufficiency occurred in 7% (41/547) of patients and the median time to onset was 3.4 months (range: 2.0 months to 22.3 months).
-Adrenal insufficiency led to permanent discontinuation or withholding of OPDIVO with ipilimumab in 1.3% and 2.0% of patients, respectively.
-Approximately 93% of patients with adrenal insufficiency received hormone replacement therapy and 18% received high-dose corticosteroids (at least 40 mg prednisone equivalents per day) for a median duration of 12 days (range: 1 day to 5.6 months).
+Adrenal insufficiency occurred in 7% (41/547) of patients with RCC and 5.9% (7/119) patients with CRC who received OPDIVO 3 mg/kg with ipilimumab 1 mg/kg every 3 weeks.
+Median time to onset was 3.4 months (range: 2.0 months to 22.3 months) in RCC and 3.7 months (range: 2.5 to 13.4 months) in CRC.
+
+Adrenal insufficiency led to permanent discontinuation of OPDIVO and ipilimumab in 1.2% of patients with RCC or CRC (n=666) and withholding of OPDIVO and ipilimumab in 2.6%.
+Approximately 94% of patients with adrenal insufficiency received hormone replacement therapy and 27% received high-dose corticosteroids (at least 40 mg prednisone equivalents per day) for a median duration of 12 days (range: 2 days to 5.6 months).
 
 ### Hypothyroidism and Hyperthyroidism
 
@@ -200,23 +214,24 @@ OPDIVO with Ipilimumab
 
 OPDIVO 1 mg/kg with Ipilimumab 3 mg/kg
 
-In patients receiving OPDIVO 1 mg/kg with ipilimumab 3 mg/kg every 3 weeks, hypothyroidism or thyroiditis resulting in hypothyroidism occurred in 22% (89/407) of patients; the median time to onset was 2.1 months (range: 1 day to 10.1 months).
+Hypothyroidism or thyroiditis resulting in hypothyroidism occurred in 22% (89/407) of patients with melanoma receiving OPDIVO 1 mg/kg with ipilimumab 3 mg/kg every 3 weeks.
+Median time to onset was 2.1 months (range: 1 day to 10.1 months).
 Approximately 73% of patients with hypothyroidism or thyroiditis received levothyroxine.
 Resolution occurred in 45% of patients.
 
-Hyperthyroidism occurred in 8% (34/407) of patients receiving OPDIVO with ipilimumab: the median time to onset was 23 days (range: 3 days to 3.7 months).
+Hyperthyroidism occurred in 8% (34/407) of patients with melanoma who received OPDIVO with ipilimumab; the median time to onset was 23 days (range: 3 days to 3.7 months).
 Approximately 29% of patients with hyperthyroidism received methimazole and 24% received carbimazole.
 Resolution occurred in 94% of patients.
 
 OPDIVO 3 mg/kg with Ipilimumab 1 mg/kg
 
-In patients receiving OPDIVO 3 mg/kg with ipilimumab 1 mg/kg every 3 weeks, hypothyroidism or thyroiditis resulting in hypothyroidism occurred in 22% (119/547) of patients; the median time to onset was 2.2 months (range: 1 day to 21.4 months).
-Approximately 76% of patients with hypothyroidism or thyroiditis received levothyroxine.
-Resolution occurred in 31% of patients.
+Hypothyroidism or thyroiditis resulting in hypothyroidism occurred in 22% (119/547) of patients with RCC and 15% (18/119) of patients with CRC who received OPDIVO 3 mg/kg and ipilimumab 1 mg/kg every 3 weeks.
+Median time to onset was 2.2 months (range: 1 day to 21.4 months) in patients with RCC and 2.3 months (range: 22 days to 9.8 months) in patients with CRC.
+Of the 137 patients with RCC or CRC who developed hypothyroidism, approximately 81% of patients with RCC and 78% with CRC received levothyroxine.
 
-Hyperthyroidism occurred in 12% (66/547) of patients receiving OPDIVO with ipilimumab: the median time to onset was 1.4 months (range: 6 days to 14.2 months).
-Approximately 14% of patients with hyperthyroidism received methimazole and 3% received carbimazole.
-Resolution occurred in 85% of patients.
+Hyperthyroidism occurred in 12% (66/547) of patients with RCC and 12% (14/119) of patients with CRC who received OPDIVO 3 mg/kg with ipilimumab 1 mg/kg every 3 weeks.
+Median time to onset was 1.4 months (range: 6 days to 14.2 months) in RCC and 1.1 months (range: 21 days to 5.4 months) in CRC.
+Of the 80 patients with RCC or CRC who developed hyperthyroidism, approximately 15% received methimazole and 2% received carbimazole.
 
 ### Type 1 Diabetes Mellitus
 
@@ -228,18 +243,19 @@ Permanently discontinue OPDIVO for life-threatening (Grade 4) hyperglycemia [see
 OPDIVO as a Single Agent
 
 In patients receiving OPDIVO as a single agent, diabetes occurred in 0.9% (17/1994) of patients including two cases of diabetic ketoacidosis.
-The median time to onset was 4.4 months (range: 15 days to 22 months).
+Median time to onset was 4.4 months (range: 15 days to 22 months).
 
 OPDIVO with Ipilimumab
 
 OPDIVO 1 mg/kg with Ipilimumab 3 mg/kg
 
-In patients receiving OPDIVO 1 mg/kg with ipilimumab 3 mg/kg every 3 weeks, diabetes occurred in 1.5% (6/407) of patients; the median time to onset was 2.5 months (range: 1.3 to 4.4 months).
+Diabetes occurred in 1.5% (6/407) of patients with melanoma receiving OPDIVO 1 mg/kg with ipilimumab 3 mg/kg every 3 weeks.
+Median time to onset was 2.5 months (range: 1.3 to 4.4 months).
 OPDIVO with ipilimumab was withheld in a patient and permanently discontinued in a second patient who developed diabetes.
 
 OPDIVO 3 mg/kg with Ipilimumab 1 mg/kg
 
-In patients receiving OPDIVO 3 mg/kg with ipilimumab 1 mg/kg every 3 weeks, diabetes occurred in 2.7% (15/547) of patients; the median time to onset was 3.2 months (range: 19 days to 16.8 months).
+Diabetes occurred in 2.7% (15/547) of patients with RCC receiving OPDIVO 3 mg/kg with ipilimumab 1 mg/kg every 3 weeks; the median time to onset was 3.2 months (range: 19 days to 16.8 months).
 OPDIVO with ipilimumab was withheld in 33% of patients and permanently discontinued in 20% of patients who developed diabetes.
 
 ## 5.5 Immune-Mediated Nephritis and Renal Dysfunction
@@ -264,7 +280,8 @@ No patients had recurrence of nephritis or renal dysfunction after re-initiation
 
 OPDIVO 1 mg/kg with Ipilimumab 3 mg/kg
 
-In patients receiving OPDIVO 1 mg/kg with ipilimumab 3 mg/kg every 3 weeks, immune-mediated nephritis and renal dysfunction occurred in 2.2% (9/407) of patients; the median time to onset was 2.7 months (range: 9 days to 7.9 months).
+Immune-mediated nephritis and renal dysfunction occurred in 2.2% (9/407) of patients with melanoma receiving OPDIVO 1 mg/kg with ipilimumab 3 mg/kg every 3 weeks.
+Median time to onset was 2.7 months (range: 9 days to 7.9 months).
 Immune-mediated nephritis and renal dysfunction led to permanent discontinuation or withholding of OPDIVO with ipilimumab in 0.7% and 0.5% of patients, respectively.
 Approximately 67% of patients received high-dose corticosteroids (at least 40 mg prednisone equivalents per day) for a median duration of 13.5 days (range: 1 day to 1.1 months).
 Complete resolution occurred in all patients.
@@ -272,11 +289,13 @@ Two patients resumed OPDIVO with ipilimumab without recurrence of nephritis or r
 
 OPDIVO 3 mg/kg with Ipilimumab 1 mg/kg
 
-In patients receiving OPDIVO 3 mg/kg with ipilimumab 1 mg/kg every 3 weeks, immune-mediated nephritis and renal dysfunction occurred in 4.6% (25/547) of patients; the median time to onset was 2.5 months (range: 1 day to 13.2 months).
-Immune-mediated nephritis and renal dysfunction led to permanent discontinuation or withholding of OPDIVO with ipilimumab in 1.1% and 2.7% of patients, respectively.
-Approximately 76% of patients received high-dose corticosteroids (at least 40 mg prednisone equivalents per day) for a median duration of 15 days (range: 1 day to 5.9 months).
-Complete resolution occurred in 64% of patients.
-One patient had recurrence of nephritis or renal dysfunction after re-initiation of OPDIVO with ipilimumab.
+Immune-mediated nephritis and renal dysfunction occurred in 4.6% (25/547) of patients with RCC and 1.7% (2/119) of patients with CRC who received OPDIVO 3 mg/kg with ipilimumab 1 mg/kg every 3 weeks.
+Median time to onset was 3 months (range: 1 day to 13.2 months) among these 27 patients.
+
+Immune-mediated nephritis and renal dysfunction led to permanent discontinuation of OPDIVO with ipilimumab in 1.2% of patients with RCC or CRC (n=666) and withholding of OPDIVO and ipilimumab in 2.3%.
+Approximately 78% of patients with immune-mediated nephritis and renal dysfunction received high-dose corticosteroids (at least 40 mg prednisone equivalents per day) for a median duration of 17 days (range: 1 day to 6 months).
+Complete resolution occurred in 63% of patients.
+One of 16 patients with RCC had recurrence of nephritis or renal dysfunction after re-initiation of OPDIVO with ipilimumab.
 
 ## 5.6 Immune-Mediated Skin Adverse Reactions
 
@@ -299,7 +318,8 @@ Recurrence of rash occurred in 1.4% of patients who resumed OPDIVO after resolut
 
 OPDIVO 1 mg/kg with Ipilimumab 3 mg/kg
 
-In patients receiving OPDIVO 1 mg/kg with ipilimumab 3 mg/kg every 3 weeks, immune-mediated rash occurred in 22.6% (92/407) of patients; the median time to onset was 18 days (range: 1 day to 9.7 months).
+Immune-mediated rash occurred in 22.6% (92/407) of patients with melanoma receiving OPDIVO 1 mg/kg with ipilimumab 3 mg/kg every 3 weeks.
+Median time to onset was 18 days (range: 1 day to 9.7 months).
 Immune-mediated rash led to permanent discontinuation or withholding of OPDIVO with ipilimumab in 0.5% and 3.9% of patients, respectively.
 Approximately 17% of patients with rash received high-dose corticosteroids (at least 40 mg prednisone equivalents per day) for a median duration of 14 days (range: 2 days to 4.7 months).
 Complete resolution occurred in 47% of patients.
@@ -307,11 +327,13 @@ Approximately 6% of patients who resumed OPDIVO and ipilimumab after resolution 
 
 OPDIVO 3 mg/kg with Ipilimumab 1 mg/kg
 
-In patients receiving OPDIVO 3 mg/kg with ipilimumab 1 mg/kg every 3 weeks, immune-mediated rash occurred in 16.6% (91/547) of patients; the median time to onset was 1.5 months (range: 1 day to 20.9 months).
-Immune-mediated rash led to permanent discontinuation or withholding of OPDIVO with ipilimumab in 0.5% and 2.9% of patients, respectively.
-Approximately 19% of patients with rash received high-dose corticosteroids (at least 40 mg prednisone equivalents per day) for a median duration of 25 days (range: 1 day to 23.1 months).
-Complete resolution occurred in 64% of patients.
-Approximately 3.6% of patients who resumed OPDIVO and ipilimumab after resolution had recurrence of rash.
+Immune-mediated rash occurred in 16% (90/547) of patients with RCC and 14% (17/119) of patients with CRC who received OPDIVO 3 mg/kg with ipilimumab 1 mg/kg every 3 weeks.
+Median time to onset was 1.5 months (range: 1 day to 20.9 months) in RCC and 26 days (range: 5 days to 9.8 months) in CRC.
+
+Immune-mediated rash led to permanent discontinuation or withholding of OPDIVO with ipilimumab in 0.5% of patients with RCC or CRC (n=666) and withholding of OPDIVO with ipilimumab in 2.6% of patients.
+All patients with immune-mediated rash required systemic corticosteroids, including 19% who received high-dose corticosteroids (at least 40 mg prednisone equivalents per day) for a median duration of 22 days (range: 1 day to 23 months).
+Complete resolution occurred in 66% of patients.
+Immune-mediated rash recurred in approximately 3% (3/98) of patients who resumed OPDIVO and ipilimumab.
 
 ## 5.7 Immune-Mediated Encephalitis
 
@@ -332,11 +354,12 @@ In the other two patients, encephalitis occurred post-allogeneic HSCT [see Warni
 
 OPDIVO 1 mg/kg with Ipilimumab 3 mg/kg
 
-Encephalitis occurred in one patient (0.2%) receiving OPDIVO 1 mg/kg with ipilimumab 3 mg/kg every 3 weeks after 1.7 months of exposure.
+Encephalitis occurred in one patient (0.2%) with melanoma receiving OPDIVO 1 mg/kg with ipilimumab 3 mg/kg every 3 weeks after 1.7 months of exposure.
 
 OPDIVO 3 mg/kg with Ipilimumab 1 mg/kg
 
-Encephalitis occurred in one patient receiving OPDIVO 3 mg/kg with ipilimumab 1 mg/kg every 3 weeks (0.2%) after approximately 4 months of exposure.
+Encephalitis occurred in one patient (0.2%) with RCC after approximately 4 months of exposure and one patient (0.8%) with CRC after 15 days of exposure.
+The patient with CRC required infliximab and high-dose corticosteroids (at least 40 mg prednisone equivalents per day).
 
 ## 5.8 Other Immune-Mediated Adverse Reactions
 
@@ -368,11 +391,11 @@ Additionally, 0.5% (2/368) and 1.4% (5/369) of patients, respectively, experienc
 
 OPDIVO 1 mg/kg with Ipilimumab 3 mg/kg
 
-In patients receiving OPDIVO 1 mg/kg with ipilimumab 3 mg/kg every 3 weeks, infusion-related reactions occurred in 2.5% (10/407) of patients.
+Infusion-related reactions occurred in 2.5% (10/407) of patients with melanoma receiving OPDIVO 1 mg/kg with ipilimumab 3 mg/kg every 3 weeks.
 
 OPDIVO 3 mg/kg with Ipilimumab 1 mg/kg
 
-In patients receiving OPDIVO 3 mg/kg with ipilimumab 1 mg/kg every 3 weeks, infusion-related reactions occurred in 5.1% (28/547) of patients.
+Infusion-related reactions occurred in 5.1% (28/547) of patients with RCC and 4.2% (5/119) of patients with CRC receiving OPDIVO 3 mg/kg with ipilimumab 1 mg/kg every 3 weeks, respectively.
 
 ## 5.10 Complications of Allogeneic HSCT after OPDIVO
 

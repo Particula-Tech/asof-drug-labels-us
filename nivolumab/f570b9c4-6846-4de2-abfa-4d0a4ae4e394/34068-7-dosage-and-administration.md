@@ -19,8 +19,8 @@ After completing 4 doses of the combination, administer OPDIVO as a single agent
 - •240 mg every 2 weeks or
 - •480 mg every 4 weeks
 
-administered as an intravenous infusion over 30 minutes until disease progression or unacceptable toxicity.
-Review the Full Prescribing Information for ipilimumab for additional information prior to initiation.
+as an intravenous infusion over 30 minutes until disease progression or unacceptable toxicity.
+Review the Prescribing Information for ipilimumab for additional information prior to initiation.
 
 ## 2.2 Recommended Dosage for Adjuvant Treatment of Melanoma
 
@@ -42,6 +42,8 @@ administered as an intravenous infusion over 30 minutes until disease progressio
 
 ## 2.4 Recommended Dosage for RCC
 
+Single Agent
+
 The recommended dose of OPDIVO as a single agent is either:
 
 - •240 mg every 2 weeks or
@@ -51,14 +53,14 @@ administered as an intravenous infusion over 30 minutes until disease progressio
 
 With Ipilimumab
 
-The recommended dose of OPDIVO in combination with ipilimumab is OPDIVO 3 mg/kg administered as an intravenous infusion over 30 minutes, followed by ipilimumab 1 mg/kg administered as an intravenous infusion over 30 minutes on the same day, every 3 weeks for 4 doses [see Clinical Studies (14.4)].
+The recommended dose of OPDIVO is 3 mg/kg administered as an intravenous infusion over 30 minutes, followed by ipilimumab 1 mg/kg administered as an intravenous infusion over 30 minutes on the same day, every 3 weeks for 4 doses [see Clinical Studies (14.4)].
 After completing 4 doses of the combination, administer OPDIVO as a single agent, either:
 
 - •240 mg every 2 weeks, or
 - •480 mg every 4 weeks
 
-administered as an intravenous infusion over 30 minutes until disease progression or unacceptable toxicity.
-Review the Full Prescribing Information for ipilimumab prior to initiation.
+as an intravenous infusion over 30 minutes until disease progression or unacceptable toxicity.
+Review the Prescribing Information for ipilimumab prior to initiation.
 
 ## 2.5 Recommended Dosage for cHL
 
@@ -87,13 +89,18 @@ The recommended dose of OPDIVO is either:
 
 administered as an intravenous infusion over 30 minutes until disease progression or unacceptable toxicity.
 
-## 2.8 Recommended Dosage for CRC
+## 2.8 Recommended Dosage for MSI-H/dMMR CRC
 
-The recommended dose of OPDIVO is
+Single Agent
 
-- •240 mg every 2 weeks
+The recommended dose of OPDIVO as a single agent is 240 mg every 2 weeks administered as an intravenous infusion over 30 minutes until disease progression or unacceptable toxicity.
 
-administered as an intravenous infusion over 30 minutes until disease progression or unacceptable toxicity.
+With Ipilimumab
+
+The recommended dose of OPDIVO is 3 mg/kg administered as an intravenous infusion over 30 minutes, followed by ipilimumab 1 mg/kg administered as an intravenous infusion over 30 minutes on the same day, every 3 weeks for 4 doses [see Clinical Studies (14.8)].
+After completing 4 doses of the combination, administer OPDIVO 240 mg as a single agent every 2 weeks as an intravenous infusion over 30 minutes until disease progression or unacceptable toxicity.
+
+Review the Prescribing Information for ipilimumab prior to initiation.
 
 ## 2.9 Recommended Dosage for HCC
 
@@ -108,7 +115,7 @@ administered as an intravenous infusion over 30 minutes until disease progressio
 
 Recommendations for OPDIVO modifications are provided in Table 1.
 When OPDIVO is administered in combination with ipilimumab, if OPDIVO is withheld, ipilimumab should also be withheld.
-Review the Full Prescribing Information for ipilimumab for recommended dose modifications.
+Review the Prescribing Information for ipilimumab for recommended dose modifications.
 
 There are no recommended dose modifications for hypothyroidism or hyperthyroidism.
 
@@ -141,9 +148,7 @@ Table 1: Recommended Dose Modifications for OPDIVO
 | Grade 4 rash or confirmed SJS or TEN | Permanently discontinue |  |
 | Encephalitis | New-onset moderate or severe neurologic signs or symptoms | Withhold dosea |
 | Immune-mediated encephalitis | Permanently discontinue |  |
-| Other | Other Grade 3 adverse reaction |  |
-| First occurrence | Withhold dosea |  |
-| Recurrence of same Grade 3 adverse reactions | Permanently discontinue |  |
+| Other | Other Grade 3 adverse reaction First occurrence Recurrence of same Grade 3 adverse reactions | Withhold dosea Permanently discontinue |
 | Life-threatening or Grade 4 adverse reaction | Permanently discontinue |  |
 | Grade 3 myocarditis | Permanently discontinue |  |
 | Requirement for 10 mg per day or greater prednisone or equivalent for more than 12 weeks | Permanently discontinue |  |
@@ -162,6 +167,7 @@ Do not shake the vial.
 - •Withdraw the required volume of OPDIVO and transfer into an intravenous container.
 - •Dilute OPDIVO with either 0.9% Sodium Chloride Injection, USP or 5% Dextrose Injection, USP to prepare an infusion with a final concentration ranging from 1 mg/mL to 10 mg/mL.
   The total volume of infusion must not exceed 160 mL.
+- •For adult and pediatric patients with body weights less than 40 kg, the total volume of infusion must not exceed 4 mL/kg of body weight.
 - •Mix diluted solution by gentle inversion.
   Do not shake.
 - •Discard partially used vials or empty vials of OPDIVO.

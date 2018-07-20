@@ -22,7 +22,7 @@ Steady-state concentrations of nivolumab were reached by 12 weeks when administe
 The exposure to nivolumab increases dose proportionally over the dose range of 0.1 to 10 mg/kg administered every 2 weeks.
 The predicted exposure of nivolumab after a 30-minute infusion is comparable to that observed with a 60-minute infusion.
 
-OPDIVO with ipilimumab: When OPDIVO 1 mg/kg was administered in combination with ipilimumab 3 mg/kg, the CL of nivolumab was increased by 29%, and the CL of ipilimumab was unchanged.
+OPDIVO with ipilimumab: When OPDIVO 1 mg/kg was administered in combination with ipilimumab 3 mg/kg, the CL of nivolumab was increased by 29%, and the CL of ipilimumab was unchanged compared to OPDIVO administered alone.
 When OPDIVO 3 mg/kg was administered in combination with ipilimumab 1 mg/kg, the CL of nivolumab and ipilimumab were unchanged.
 
 When administered in combination, the CL of nivolumab increased by 20% in the presence of anti-nivolumab antibodies and the CL of ipilimumab was unchanged in presence of anti-ipilimumab antibodies.

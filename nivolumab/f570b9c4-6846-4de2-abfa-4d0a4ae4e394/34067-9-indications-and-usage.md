@@ -50,10 +50,11 @@ Continued approval for this indication may be contingent upon verification and d
 
 ## 1.8 Microsatellite Instability-High (MSI-H) or Mismatch Repair Deficient (dMMR) Metastatic Colorectal Cancer
 
-OPDIVO is indicated for the treatment of adult and pediatric patients 12 years and older with microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) metastatic colorectal cancer (CRC) that has progressed following treatment with a fluoropyrimidine, oxaliplatin, and irinotecan [see Clinical Studies (14.8)].
+- •OPDIVO, as a single agent, is indicated for the treatment of adult and pediatric patients 12 years and older with microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) metastatic colorectal cancer (CRC) that has progressed following treatment with a fluoropyrimidine, oxaliplatin, and irinotecan [see Clinical Studies (14.8)].
+- •OPDIVO, in combination with ipilimumab, is indicated for the treatment of adults and pediatric patients 12 years and older with MSI-H or dMMR metastatic CRC that has progressed following treatment with a fluoropyrimidine, oxaliplatin, and irinotecan [see Clinical Studies (14.8)].
 
-This indication is approved under accelerated approval based on overall response rate and duration of response.
-Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials.
+These indications are approved under accelerated approval based on overall response rate and duration of response.
+Continued approval for these indications may be contingent upon verification and description of clinical benefit in confirmatory trials.
 
 ## 1.9 Hepatocellular Carcinoma
 
