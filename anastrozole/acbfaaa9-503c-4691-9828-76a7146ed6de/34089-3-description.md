@@ -1,12 +1,11 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-Lactulose is a synthetic disaccharide in solution form for oral administration.
-Each 15 mL of lactulose solution contains: 10 g lactulose (and less than 1.6 g galactose, less than 1.2 g lactose, and 0.1 g or less of fructose.)
+ARIMIDEX (anastrozole) tablets for oral administration contain 1 mg of anastrozole, a non-steroidal aromatase inhibitor.
+It is chemically described as 1,3-Benzenediacetonitrile, a, a, a', a'-tetramethyl-5-(1H-1,2,4-triazol-1-ylmethyl).
+Its molecular formula is C17H19N5 and its structural formula is:
 
-Lactulose is a colonic acidifier which promotes laxation.
+Anastrozole is an off-white powder with a molecular weight of 293.4.
+Anastrozole has moderate aqueous solubility (0.5 mg/mL at 25°C); solubility is independent of pH in the physiological range.
+Anastrozole is freely soluble in methanol, acetone, ethanol, and tetrahydrofuran, and very soluble in acetonitrile.
 
-The chemical name for Lactulose is 4-0-β-D-galactopyranosyl-D-fructofuranose.
-It has the following structural formula:
-
-The molecular weight is 342.30.
-It is freely soluble in water.
+Each tablet contains as inactive ingredients: lactose, magnesium stearate, hydroxypropylmethylcellulose, polyethylene glycol, povidone, sodium starch glycolate, and titanium dioxide.

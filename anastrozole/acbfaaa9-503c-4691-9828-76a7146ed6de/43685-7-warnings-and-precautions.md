@@ -1,52 +1,16 @@
-# WARNINGS
+# 5 WARNINGS AND PRECAUTIONS
 
-A theoretical hazard may exist for patients being treated with lactulose solution who may be required to undergo electrocautery procedures during proctoscopy or colonoscopy.
-Accumulation of H2 gas in significant concentration in the presence of an electrical spark may result in an explosive reaction.
-Although this complication has not been reported with lactulose, patients on lactulose therapy undergoing such procedures should have a thorough bowel cleansing with a non-fermentable solution.
-Insufflation of CO2 as an additional safeguard may be pursued but is considered to be a redundant measure.
+## 5.1 Ischemic Cardiovascular Events
 
-# PRECAUTIONS
+In women with pre-existing ischemic heart disease, an increased incidence of ischemic cardiovascular events was observed with ARIMIDEX in the ATAC trial (17% of patients on ARIMIDEX and 10% of patients on tamoxifen).
+Consider risk and benefits of ARIMIDEX therapy in patients with pre-existing ischemic heart disease [see Adverse Reactions (6.1)].
 
-## General
+## 5.2 Bone Effects
 
-Since lactulose solution contains galactose (less than 1.6 g/15 mL) and lactose (less than 1.2 g/15 mL), it should be used with caution in diabetics.
+Results from the ATAC trial bone substudy at 12 and 24 months demonstrated that patients receiving ARIMIDEX had a mean decrease in both lumbar spine and total hip bone mineral density (BMD) compared to baseline.
+Patients receiving tamoxifen had a mean increase in both lumbar spine and total hip BMD compared to baseline.
+Consider bone mineral density monitoring in patients treated with ARIMIDEX [see Adverse Reactions (6.1)].
 
-## Information for Patients
+## 5.3 Cholesterol
 
-In the event that an unusual diarrheal condition occurs, contact your physician.
-
-## Laboratory Tests
-
-Elderly, debilitated patients who receive lactulose for more than six months should have serum electrolytes (potassium, chloride, carbon dioxide) measured periodically.
-
-## Drug Interactions
-
-Results of preliminary studies in humans and rats suggest that nonabsorbable antacids given concurrently with Lactulose may inhibit the desired lactulose-induced drop in colonic pH.
-Therefore, a possible lack of desired effect of treatment should be taken into consideration before such drugs are given concomitantly with lactulose solution.
-
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
-
-There are no known human data on long-term potential for carcinogenicity, mutagenicity, or impairment of fertility.
-
-There are no known animal data on long-term potential for mutagenicity.
-
-Administration of lactulose solution in the diet of mice for 18 months in concentrations of 3 and 10 percent (v/w) did not produce any evidence of carcinogenicity.
-
-In studies of mice, rats, and rabbits, doses of lactulose solution up to 6 or 12 mL/kg/day produced no deleterious effects in breeding, conception, or parturition
-
-## Pregnancy
-
-### Teratogenic Effects
-
-Pregnancy category B. Reproduction studies have been performed in mice, rats and rabbits at doses up to 3 or 6 times the usual human oral dose and have revealed no evidence of impaired fertility or harm to the fetus due to lactulose.
-There are, however, no adequate and well controlled studies in pregnant women.
-Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
-
-## Nursing Mothers
-
-It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when lactulose solution is administered to a nursing woman.
-
-## Pediatric Use
-
-Safety and effectiveness in pediatric patients have not been established.
+During the ATAC trial, more patients receiving ARIMIDEX were reported to have elevated serum cholesterol compared to patients receiving tamoxifen (9% versus 3.5%, respectively) [see Adverse Reactions (6.1)].

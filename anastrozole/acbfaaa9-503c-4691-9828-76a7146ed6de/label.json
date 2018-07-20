@@ -1,19 +1,17 @@
 {
   "application_numbers": [
-    "ANDA078430"
+    "NDA020541"
   ],
   "inn": "anastrozole",
-  "labeler": "ANIP Acquisition Company",
+  "labeler": "ANI Pharmaceuticals, Inc.",
   "package_ndcs": [
-    "62559-5501-3",
-    "62559-5501-6",
-    "62559-5501-8"
+    "62559-670-30"
   ],
   "products": [
     {
-      "form": "SOLUTION",
-      "generic": "lactulose",
-      "name": "Lactulose"
+      "form": "TABLET",
+      "generic": "anastrozole",
+      "name": "ARIMIDEX"
     }
   ],
   "setid": "acbfaaa9-503c-4691-9828-76a7146ed6de",

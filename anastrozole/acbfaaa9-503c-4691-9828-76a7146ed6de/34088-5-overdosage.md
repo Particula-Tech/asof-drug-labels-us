@@ -1,10 +1,9 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-There have been no reports of accidental overdosage.
-In the event of overdosage it is expected that diarrhea and abdominal cramps would be the major symptoms.
-Medication should be terminated.
-
-Oral LD50: The acute oral LD50 of the drug is 48.8 mL/kg in mice and greater than 30 mL/kg in rats.
-
-Dialysis: Dialysis data are not available for Lactulose.
-Its molecular similarity to sucrose, however, would suggest that it should be dialyzable.
+Clinical trials have been conducted with ARIMIDEX, up to 60 mg in a single dose given to healthy male volunteers and up to 10 mg daily given to postmenopausal women with advanced breast cancer; these dosages were tolerated.
+A single dose of ARIMIDEX that results in life-threatening symptoms has not been established.
+There is no specific antidote to overdosage and treatment must be symptomatic.
+In the management of an overdose, consider that multiple agents may have been taken.
+Vomiting may be induced if the patient is alert.
+Dialysis may be helpful because ARIMIDEX is not highly protein bound.
+General supportive care, including frequent monitoring of vital signs and close observation of the patient, is indicated.
