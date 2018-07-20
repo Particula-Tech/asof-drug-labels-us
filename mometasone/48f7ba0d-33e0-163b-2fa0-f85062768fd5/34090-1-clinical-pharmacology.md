@@ -79,7 +79,7 @@ Gender: The effects of gender on mometasone furoate pharmacokinetics have not be
 
 Race: The effects of race on mometasone furoate pharmacokinetics have not been adequately investigated.
 
-Drug-Drug Interactions:
+Drug-Drug Interactions
 
 Inhibitors of Cytochrome P450 3A4: In a drug interaction study, an inhaled dose of mometasone furoate 400 mcg was given to 24 healthy subjects twice daily for 9 days and ketoconazole 200 mg (as well as placebo) were given twice daily concomitantly on Days 4 to 9.
 Mometasone furoate plasma concentrations were <150 pcg/mL on Day 3 prior to coadministration of ketoconazole or placebo.

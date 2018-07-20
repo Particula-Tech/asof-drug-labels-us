@@ -4,4 +4,7 @@ No formal drug-drug interaction studies have been conducted with mometasone furo
 
 Inhibitors of Cytochrome P450 3A4: Studies have shown that mometasone furoate is primarily and extensively metabolized in the liver of all species investigated and undergoes extensive metabolism to multiple metabolites.
 In vitro studies have confirmed the primary role of cytochrome CYP 3A4 in the metabolism of this compound.
-Coadministration with ketoconazole, a potent CYP 3A4 inhibitor, may increase the plasma concentrations of mometasone furoate [see Clinical Pharmacology (12.3)].
+
+Concomitant administration of CYP3A4 inhibitors may inhibit the metabolism of, and increase the systemic exposure to, mometasone furoate and potentially increase the risk for systemic corticosteroid side effects.
+Caution should be exercised when considering the coadministration of mometasone furoate nasal spray 50 mcg with long-term ketoconazole and other known strong CYP3A4 inhibitors (e.g., ritonavir, cobicistat-containing products, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, telithromycin) [see Clinical Pharmacology (12.3)].
+Consider the benefit of coadministration versus the potential risk of systemic corticosteroid effects, in which case patients should be monitored for systemic corticosteroid side effects.

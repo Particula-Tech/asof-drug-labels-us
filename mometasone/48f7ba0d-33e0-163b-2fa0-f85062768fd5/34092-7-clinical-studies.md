@@ -56,7 +56,7 @@ There were no clinically relevant differences in the effectiveness of mometasone
 
 The efficacy and safety of mometasone furoate nasal spray 50 mcg for nasal congestion associated with seasonal allergic rhinitis were evaluated in three randomized, placebo-controlled, double blind clinical trials of 15 days duration.
 The three trials included a total of 1008 patients 12 years of age and older with nasal congestion associated with seasonal allergic rhinitis, of whom 506 received mometasone furoate nasal spray 200 mcg daily and 502 received placebo.
-Of the 1008 patients, the majority 784 (78 %) were Caucasians.
+Of the 1008 patients, the majority 784 (78%) were Caucasians.
 The majority of the patients were between 18 to < 65 years of age with a mean age of 38.8 years and were predominantly women (66%).
 The primary efficacy endpoint was the change from baseline in average morning and evening reflective nasal congestion score over treatment day 1 to day 15.
 The key secondary efficacy endpoint was the change from baseline in average morning and evening reflective total nasal symptom score (TNSS = rhinorrhea [nasal discharge/runny nose or postnasal drip], nasal congestion/stuffiness, nasal itching, sneezing) averaged over treatment day 1 to 15.
@@ -64,7 +64,7 @@ Two out of three studies demonstrated that treatment with mometasone furoate nas
 
 TABLE 3: EFFECT OF MOMETASONE FUROATE NASAL SPRAY IN TWO RANDOMIZED, PLACEBO-CONTROLLED TRIALS ON NASAL CONGESTION IN PATIENTS WITH SEASONAL ALLERGIC RHINITIS
 
-|  | Treatment (Patient Number) | Baseline nasal congestion/obstruction was scored daily by the patient using a 0–3 categorical scale where 0 = no symptoms, 1 = mild symptoms, 2 = moderate symptoms and 3 = severe symptoms. LS Mean LS Mean and p- value was from an ANCOVA model with treatment, baseline value, and center effects. | Change from Baseline LS Mean | Difference from Placebo LS Mean | P value for Mometastone Furoate Nasal Spray 200 mcg qd vs. placebo |
+|  | Treatment (Patient Number) | Baseline nasal congestion/obstruction was scored daily by the patient using a 0–3 categorical scale where 0 = no symptoms, 1 = mild symptoms, 2 = moderate symptoms and 3 = severe symptoms. LS Mean LS Mean and p- value was from an ANCOVA model with treatment, baseline value, and center effects. | Change from Baseline LS Mean | Difference from Placebo LS Mean | P value for Mometasone Furoate Nasal Spray 200 mcg qd vs. placebo |
 | --- | --- | --- | --- | --- | --- |
 | Study 1 |  |  |  |  |  |
 |  | Mometasone Furoate Nasal Spray 200 mcg qd (N=176) | 2.63 | -0.64 | -0.15 | 0.006 |

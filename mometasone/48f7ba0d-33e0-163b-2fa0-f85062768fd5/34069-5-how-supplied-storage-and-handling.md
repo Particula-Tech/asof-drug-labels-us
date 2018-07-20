@@ -5,10 +5,10 @@ It contains 17 g of product formulation, 120 sprays, each delivering 50 mcg of m
 
 (NDC 60505-0830-1).
 
-Store at 20° - 25°C (68° - 77°F) [see USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature].
 Protect from light.
 
-When Mometasone Furoate Nasal Spray, 50 mcg is removed from its cardboard container, prolonged exposure of the product to direct light should be avoided.
+When mometasone furoate nasal spray, 50 mcg is removed from its cardboard container, prolonged exposure of the product to direct light should be avoided.
 Brief exposure to light, as with normal use, is acceptable.
 
 SHAKE WELL BEFORE EACH USE.
