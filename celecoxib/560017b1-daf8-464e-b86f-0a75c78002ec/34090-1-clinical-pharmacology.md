@@ -149,5 +149,5 @@ The effects of celecoxib on the pharmacokinetics and/or pharmacodynamics of glyb
 CYP2C9 activity is reduced in individuals with genetic polymorphisms that lead to reduced enzyme activity, such as those homozygous for the CYP2C9*2 and CYP2C9*3 polymorphisms.
 Limited data from 4 published reports that included a total of 8 subjects with the homozygous CYP2C9*3/*3 genotype showed celecoxib systemic levels that were 3- to 7-fold higher in these subjects compared to subjects with CYP2C9*1/*1 or *I/*3 genotypes.
 The pharmacokinetics of celecoxib have not been evaluated in subjects with other CYP2C9 polymorphisms, such as *2, *5, *6, *9 and *11.
-It is estimated that the frequency of the homozygous *3/*3 genotype is 0.3% to 1% in various ethnic groups.
+It is estimated that the frequency of the homozygous *3/*3 genotype is 0.3% to 1.0% in various ethnic groups.
 [see DOSAGE AND ADMINISTRATION (2.6), USE IN SPECIFIC POPULATIONS (8.8)].

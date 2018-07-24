@@ -9,9 +9,8 @@ However, patients with known CV disease or risk factors had a higher absolute in
 Some observational studies found that this increased risk of serious CV thrombotic events began as early as the first weeks of treatment.
 The increase in CV thrombotic risk has been observed most consistently at higher doses.
 
-In the APC (Adenoma Prevention with Celecoxib) trial, the hazard ratio for the composite endpoint of cardiovascular death, MI, or stroke was 3.4 (95% CI 1.4 to 8.5) for celecoxib capsules 400 mg twice daily and 2.8 (95% CI 1.1 to 7.2) with celecoxib capsules 200 mg twice daily compared to placebo.
-Cumulative rates for this composite endpoint over 3 years were 3% (20/671 subjects) and 2.5% (17/685 subjects), respectively, compared to 0.9% (6/679 subjects) with placebo treatment.
-The increases in both celecoxib dose groups versus placebo-treated patients were mainly due to an increased incidence of myocardial infarction [see CLINICAL STUDIES (14.6)].
+In the APC (Adenoma Prevention with Celecoxib) trial, there was about a threefold increased risk of the composite endpoint of cardiovascular death, MI, or stroke for the celecoxib capsules 400 mg twice daily and celecoxib capsules 200 mg twice daily treatment arms compared to placebo.
+The increases in both celecoxib dose groups versus placebo-treated patients were mainly due to an increased incidence of myocardial infarction [see CLINICAL STUDIES (14.7)].
 
 To minimize the potential risk for an adverse CV event in NSAID-treated patients, use the lowest effective dose for the shortest duration possible.
 Physicians and patients should remain alert for the development of such events, throughout the entire treatment course, even in the absence of previous CV symptoms.
@@ -50,7 +49,7 @@ Most postmarketing reports of fatal GI events occurred in elderly or debilitated
 Additionally, patients with advanced liver disease and/or coagulopathy are at increased risk for GI bleeding.
 
 Complicated and symptomatic ulcer rates were 0.78% at nine months for all patients in the CLASS trial, and 2.19% for the subgroup on low-dose ASA.
-Patients 65 years of age and older had an incidence of 1.40% at nine months, 3.06% when also taking ASA [see CLINICAL STUDIES (14.6)].
+Patients 65 years of age and older had an incidence of 1.40% at nine months, 3.06% when also taking ASA [see CLINICAL STUDIES (14.7)].
 
 ### Strategies to Minimize the GI Risks in NSAID-treated patients:
 
@@ -76,10 +75,10 @@ If clinical signs and symptoms consistent with liver disease develop, or if syst
 
 ## 5.4 Hypertension
 
-NSAIDs, including celecoxib capsules can lead to new onset of hypertension or worsening of preexisting hypertension, either of which may contribute to the increased incidence of CV events.
+NSAIDs, including celecoxib capsules, can lead to new onset of hypertension or worsening of preexisting hypertension, either of which may contribute to the increased incidence of CV events.
 Patients taking angiotensin converting enzyme (ACE) inhibitors, thiazide diuretics or loop diuretics may have impaired response to these therapies when taking NSAIDs [see DRUG INTERACTIONS (7)].
 
-The rates of hypertension from the CLASS trial in the celecoxib capsules, ibuprofen and diclofenac-treated patients were 2.4%, 4.2% and 2.5%, respectively [see CLINICAL STUDIES (14.6)].
+See CLINICAL STUDIES (14.6, 14.7) for additional blood pressure data for celecoxib capsules.
 
 Monitor blood pressure (BP) during the initiation of NSAID treatment and throughout the course of therapy.
 
@@ -91,7 +90,7 @@ In a Danish National Registry study of patients with heart failure, NSAID use in
 Additionally, fluid retention and edema have been observed in some patients treated with NSAIDs.
 Use of celecoxib may blunt the CV effects of several therapeutic agents used to treat these medical conditions (e.g., diuretics, ACE inhibitors, or angiotensin receptor blockers [ARBs]) [see DRUG INTERACTIONS (7)].
 
-In the CLASS study [see CLINICAL STUDIES (14.6)], the Kaplan-Meier cumulative rates at 9 months of peripheral edema in patients on celecoxib capsules 400 mg twice daily (4-fold and 2-fold the recommended OA and RA doses, respectively), ibuprofen 800 mg three times daily and diclofenac 75 mg twice daily were 4.5%, 6.9% and 4.7%, respectively.
+In the CLASS study [see CLINICAL STUDIES (14.7)], the Kaplan-Meier cumulative rates at 9 months of peripheral edema in patients on celecoxib capsules 400 mg twice daily (4-fold and 2-fold the recommended OA and RA doses, respectively), ibuprofen 800 mg three times daily and diclofenac 75 mg twice daily were 4.5%, 6.9% and 4.7%, respectively.
 
 Avoid the use of celecoxib capsules in patients with severe heart failure unless the benefits are expected to outweigh the risk of worsening heart failure.
 If celecoxib capsules is used in patients with severe heart failure, monitor patients for signs of worsening heart failure.
