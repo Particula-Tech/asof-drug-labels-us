@@ -85,7 +85,7 @@ Clindamycin has been shown to have neuromuscular blocking properties that may en
 Therefore, it should be used with caution in patients receiving such agents.
 
 Clindamycin is metabolized predominantly by CYP3A4, and to a lesser extent by CYP3A5, to the major metabolite clindamycin sulfoxide and minor metabolite N-desmethylclindamycin.
-Therefore inhibitors of CYP3A4 and CYP3A5 may increase plasma concentrations of clindamycin and inducers of these isoenzymes may reduce plasma concentrations of clindamycin.
+Therefore, inhibitors of CYP3A4 and CYP3A5 may increase plasma concentrations of clindamycin and inducers of these isoenzymes may reduce plasma concentrations of clindamycin.
 In the presence of strong CYP3A4 inhibitors, monitor for adverse reactions.
 In the presence of strong CYP3A4 inducers such as rifampicin, monitor for loss of effectiveness.
 
