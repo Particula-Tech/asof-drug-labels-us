@@ -67,14 +67,12 @@ Rx only
 
 5 Single-Dose Vials
 
-Do not use if the vial plastic overseal is missing or not securely fitted.
+Made in Spain
 
-Made in India
+©2017 the GSK group of companies
 
-©2016 GSK group of companies
-
-1. 10000000143924 Rev.
-   11/16
+1. 10000000146845 Rev.
+   6/17
 
 PRINCIPAL DISPLAY PANEL
 

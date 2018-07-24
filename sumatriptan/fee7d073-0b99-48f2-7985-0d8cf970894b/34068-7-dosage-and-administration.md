@@ -16,6 +16,8 @@ With this device, the needle penetrates approximately 1/4 inch (5 to 6 mm).
 The injection is intended to be given subcutaneously, and intramuscular or intravascular delivery must be avoided.
 Instruct patients on the proper use of IMITREX STATdose Pen and direct them to use injection sites with an adequate skin and subcutaneous thickness to accommodate the length of the needle.
 
+The needle shield of the prefilled syringe contains dry natural rubber (a latex derivative) [see Warnings and Precautions(5.9)].
+
 ## 2.3 Administration of Doses of IMITREX Other than 4 or 6 mg
 
 In patients receiving doses other than 4 mg or 6 mg, use the 6-mg single-dose vial; do not use the IMITREX STATdose Pen.

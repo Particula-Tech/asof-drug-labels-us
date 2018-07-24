@@ -37,7 +37,7 @@ IMITREX injection is contraindicated in patients with a history of stroke or TIA
 ## 5.5 Other Vasospasm Reactions
 
 IMITREX injection may cause non-coronary vasospastic reactions, such as peripheral vascular ischemia, gastrointestinal vascular ischemia and infarction (presenting with abdominal pain and bloody diarrhea), splenic infarction, and Raynaud’s syndrome.
-In patients who experience symptoms or signs suggestive of non-coronary vasospasm reaction following the use of any 5-HT1 agonist, rule out a vasospastic reaction before receiving additional IMITREX injections.
+In patients who experience symptoms or signs suggestive of non-coronary vasospasm reaction following the use of any 5-HT1 agonist, rule out a vasospastic reaction before receiving additional injections of IMITREX.
 
 Reports of transient and permanent blindness and significant partial vision loss have been reported with the use of 5-HT1 agonists.
 Since visual disorders may be part of a migraine attack, a causal relationship between these events and the use of 5-HT1 agonists has not been clearly established.
@@ -61,12 +61,14 @@ Significant elevation in blood pressure, including hypertensive crisis with acut
 Monitor blood pressure in patients treated with IMITREX.
 IMITREX injection is contraindicated in patients with uncontrolled hypertension.
 
-## 5.9 Anaphylactic/Anaphylactoid Reactions
+## 5.9 Hypersensitivity Reactions
 
-Anaphylactic/anaphylactoid reactions have occurred in patients receiving IMITREX.
+Hypersensitivity reactions, including angioedema and anaphylaxis, have occurred in patients receiving IMITREX.
 Such reactions can be life-threatening or fatal.
 In general, anaphylactic reactions to drugs are more likely to occur in individuals with a history of sensitivity to multiple allergens.
 IMITREX injection is contraindicated in patients with a history of hypersensitivity reaction to IMITREX.
+
+The needle shield of the prefilled syringe contains dry natural rubber (a latex derivative) that has the potential to cause allergic reactions in latex-sensitive individuals.
 
 ## 5.10 Seizures
 

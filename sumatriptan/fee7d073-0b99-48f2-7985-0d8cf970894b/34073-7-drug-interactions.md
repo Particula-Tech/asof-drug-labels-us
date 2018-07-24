@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Ergot Containing Drugs
+## 7.1 Ergot-Containing Drugs
 
 Ergot-containing drugs have been reported to cause prolonged vasospastic reactions.
 Because these effects may be additive, use of ergotamine-containing or ergot-type medications (like dihydroergotamine or methysergide) and IMITREX injection within 24 hours of each other is contraindicated.

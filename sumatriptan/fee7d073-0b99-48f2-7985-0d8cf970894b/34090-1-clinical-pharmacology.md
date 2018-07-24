@@ -31,7 +31,7 @@ The Tmax or amount absorbed was not significantly altered by either the site or 
 
 Distribution
 
-Protein binding, determined by equilibrium dialysis over the concentration range of 10 to 1,000 ng/mL, is low, approximately 14% to 21%.
+Protein binding, determined by equilibrium dialysis over the concentration range of 10 to 1,000 ng/mL is low, approximately 14% to 21%.
 The effect of sumatriptan on the protein binding of other drugs has not been evaluated.
 
 Following a 6-mg subcutaneous injection into the deltoid area of the arm in 9 males (mean age: 33 years, mean weight: 77 kg) the volume of distribution central compartment of sumatriptan was 50 ± 8 liters and the distribution half‑life was 15 ± 2 minutes.

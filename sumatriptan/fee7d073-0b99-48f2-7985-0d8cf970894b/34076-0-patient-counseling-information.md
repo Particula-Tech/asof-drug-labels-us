@@ -8,11 +8,12 @@ Inform patients that IMITREX injection may cause serious cardiovascular side eff
 Although serious cardiovascular events can occur without warning symptoms, patients should be alert for the signs and symptoms of chest pain, shortness of breath, irregular heartbeat, significant rise in blood pressure, weakness, and slurring of speech, and should ask for medical advice if any indicative sign or symptoms are observed.
 Apprise patients of the importance of this follow-up [see Warnings and Precautions (5.1, 5.2, 5.4, 5.5, 5.8)].
 
-Anaphylactic/Anaphylactoid Reactions
+Hypersensitivity Reactions
 
-Inform patients that anaphylactic/anaphylactoid reactions have occurred in patients receiving IMITREX injection.
+Inform patients that anaphylactic reactions have occurred in patients receiving IMITREX injection.
 Such reactions can be life-threatening or fatal.
 In general, anaphylactic reactions to drugs are more likely to occur in individuals with a history of sensitivity to multiple allergens [see Contraindications (4), Warnings and Precautions (5.9)].
+Inform latex-sensitive patients that the needle shield of the IMITREX prefilled syringe contains dry natural rubber (a derivative of latex) that may cause allergic reactions in individuals sensitive to latex.
 
 Concomitant Use with Other Triptans or Ergot Medications
 
@@ -54,6 +55,6 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2017 GSK group of companies or its licensor.
+©2018 GSK group of companies or its licensor.
 
-IMJ: 7PI
+IMJ:8PI

@@ -76,8 +76,8 @@ Proportion of Patients with Cluster Headache Relief by Time in Studies 4 and 5
 | 10 Minutes post-injection | 10% | 49%a | 25% | 49%a |
 | 15 Minutes post-injection | 26% | 74%a | 35% | 75%a |
 
-1. a P<0.05
-2. n = Number of headaches treated
+1. a P<0.05.
+2. n = Number of headaches treated.
 
 An estimate of the cumulative probability of a patient with a cluster headache obtaining relief after being treated with either IMITREX injection or placebo is presented in Figure 1.
 
