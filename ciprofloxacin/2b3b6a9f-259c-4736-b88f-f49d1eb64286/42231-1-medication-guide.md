@@ -16,9 +16,7 @@ Tendon rupture or swelling of the tendon (tendinitis).
 Symptoms of tendon problems may include:
 
 - 
-  - pain
-  - swelling
-  - tears and swelling of the tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites.
+  - Pain, swelling, tears and swelling of the tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites.
 - The risk of getting tendon problems while you take ciprofloxacin tablets is higher if you:
   - are over 60 years of age
   - are taking steroids (corticosteroids)
@@ -66,7 +64,6 @@ Stop taking ciprofloxacin tablets immediately and talk to your healthcare provid
 - tremors
 - feel anxious or nervous
 - confusion
-- depression
 - trouble sleeping
 - nightmares
 - feel lightheaded or dizzy
@@ -296,4 +293,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 The brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
 Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
 
-Distributed by: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 038, India Revised: 09/2017
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 038, India Revised: 06/2018
