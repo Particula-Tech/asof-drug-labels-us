@@ -138,6 +138,18 @@ Carvedilol tablets can help your blood vessels relax so your blood pressure is l
 Medicines that lower blood pressure may lower your chance of having a stroke or heart attack.
 
 The brands listed are trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
-Distributed by: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810
+Distributed by:
 
-Manufactured by: Aurobindo Pharma Limited Hyderabad - 500 038, India Revised: 10/2017
+Aurobindo Pharma USA, Inc.
+
+279 Princeton-Hightstown Road
+
+East Windsor, NJ 08520
+
+Manufactured by:
+
+Aurobindo Pharma Limited
+
+Hyderabad-500 038, India
+
+Revised: 04/2018
