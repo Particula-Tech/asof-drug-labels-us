@@ -10,6 +10,8 @@ Efficacy was measured using a continuous 100 mm visual analogue scale ranging fr
 Many of the patients had chronic medical problems such as depression, hypertension, hypothyroidism and hyperlipidemia and over one fourth of the population may have been at higher than average risk of dermal bleeding due to use of concomitant medications such as NSAIDs, aspirin, corticosteroids.
 Treatment with active drug resulted in less pain compared with placebo (see Table 1).
 
+Table 1: Visual Analogue Scale Score (Full Safety/Efficacy Population)
+
 However, efficacy was primarily seen in patients undergoing venipuncture at the antecubital fossa, while patients undergoing cannulation at the back of the hand did not demonstrate a difference between active and sham administrations.
 
 Efficacy in Pediatric Patients

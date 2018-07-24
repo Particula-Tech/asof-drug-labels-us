@@ -6,7 +6,7 @@ Perform the procedure within 10 minutes after ZINGO® administration.
 Use ZINGO® only on intact skin.
 
 Application of one additional ZINGO®at a new location is acceptable after a failed attempt at venous access.
-Multiple administration of ZINGO® at the same location are not recommended.
+Multiple administration of ZINGO® at the same location is not recommended.
 When ZINGO® is used concomitantly with other products containing local anesthetic agents, the amount absorbed from all sources should be considered, as local anesthetics are thought to have at least additive toxicities.
 
 ## 2.1 Instructions for Use
