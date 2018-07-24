@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA211078"
+  ],
+  "inn": "phenylephrine",
+  "labeler": "Amneal Biosciences LLC",
+  "package_ndcs": [
+    "70121-1578-1",
+    "70121-1578-7",
+    "70121-1579-1"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "phenylephrine hydrochloride",
+      "name": "Phenylephrine hydrochloride"
+    }
+  ],
+  "setid": "a05a70b9-f506-456f-a7aa-d9f9c80a7f12",
+  "source": "dailymed"
+}
