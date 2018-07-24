@@ -9,7 +9,7 @@ Inactive ingredients: 150 mg - black iron oxide, corn starch, D&C Yellow #10, FD
 
 The structural formula is represented below:
 
-C18H33ClN2O5S•HCl M.W.
-461.45
+1. C18H33ClN2O5S•HCl M.W.
+   461.45
 
 The chemical name for clindamycin hydrochloride is Methyl 7-chloro-6, 7, 8-trideoxy-6-(1-methyl-trans-4-propyl-L-2-pyrrolidinecarboxamido)-1-thio-L-threo-α-D-galacto-octopyranoside monohydrochloride.

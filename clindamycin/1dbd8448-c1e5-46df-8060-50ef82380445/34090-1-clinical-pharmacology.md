@@ -4,160 +4,159 @@ Human Pharmacology
 
 Absorption
 
-Serum level studies with a 150 mg oral dose of clindamycin hydrochloride in 24 normal adult volunteers showed that clindamycin was rapidly absorbed after oral administration.
-An average peak serum level of 2.50 mcg/mL was reached in 45 minutes; serum levels averaged 1.51 mcg/mL at 3 hours and 0.70 mcg/mL at 6 hours.
-Absorption of an oral dose is virtually complete (90%), and the concomitant administration of food does not appreciably modify the serum concentrations; serum levels have been uniform and predictable from person to person and dose to dose.
-Serum level studies following multiple doses of clindamycin hydrochloride for up to 14 days show no evidence of accumulation or altered metabolism of drug.
+Pharmacokinetic studies with a 150 mg oral dose of clindamycin hydrochloride in 24 normal adult volunteers showed that clindamycin was rapidly absorbed after oral administration.
+An average peak serum concentration of 2.50 mcg/mL was reached in 45 minutes; serum concentration averaged 1.51 mcg/mL at 3 hours and 0.70 mcg/mL at 6 hours.
+Absorption of an oral dose is virtually complete (90%), and the concomitant administration of food does not appreciably modify the serum concentrations; serum concentrations have been uniform and predictable from person to person and dose to dose.
+Pharmacokinetic studies following multiple doses of clindamycin hydrochloride for up to 14 days show no evidence of accumulation or altered metabolism of drug.
 Doses of up to 2 grams of clindamycin per day for 14 days have been well tolerated by healthy volunteers, except that the incidence of gastrointestinal side effects is greater with the higher doses.
 
 Distribution
 
 Concentrations of clindamycin in the serum increased linearly with increased dose.
-Serum levels exceed the MIC (minimum inhibitory concentration) for most indicated organisms for at least six hours following administration of the usually recommended doses.
+Serum concentrations exceed the MIC (minimum inhibitory concentration) for most indicated organisms for at least six hours following administration of the usually recommended doses.
 Clindamycin is widely distributed in body fluids and tissues (including bones).
-No significant levels of clindamycin are attained in the cerebrospinal fluid, even in the presence of inflamed meninges.
+No significant concentrations of clindamycin are attained in the cerebrospinal fluid, even in the presence of inflamed meninges.
+
+Metabolism
+
+In vitro studies in human liver and intestinal microsomes indicated that clindamycin is predominantly metabolized by Cytochrome P450 3A4 (CYP3A4), with minor contribution from CYP3A5, to form clindamycin sulfoxide and a minor metabolite, N-desmethylclindamycin.
 
 Excretion
 
 The average biological half-life is 2.4 hours.
 Approximately 10% of the bioactivity is excreted in the urine and 3.6% in the feces; the remainder is excreted as bioinactive metabolites.
 
-Special Populations
+Specific Populations
 
-Renal Impairment
+Patients with Renal Impairment
 
 Serum half-life of clindamycin is increased slightly in patients with markedly reduced renal function.
 Hemodialysis and peritoneal dialysis are not effective in removing clindamycin from the serum.
 
-Use in Elderly
+Elderly Patients
 
 Pharmacokinetic studies in elderly volunteers (61 to 79 years) and younger adults (18 to 39 years) indicate that age alone does not alter clindamycin pharmacokinetics (clearance, elimination half-life, volume of distribution, and area under the serum concentration-time curve) after IV administration of clindamycin phosphate.
-After oral administration of clindamycin hydrochloride, elimination half-life is increased to approximately 4 hours (range 3.4 to 5.1 h) in the elderly compared to 3.2 hours (range 2.1 to 4.2 h) in younger adults.
-The extent of absorption, however, is not different between age groups and no dosage alteration is necessary for the elderly with normal hepatic function and normal (age-adjusted) renal function.
+After oral administration of clindamycin hydrochloride, the average elimination half-life is increased to approximately 4 hours (range 3.4 to 5.1 h) in the elderly compared to 3.2 hours (range 2.1 to 4.2 h) in younger adults.
+The extent of absorption, however, is not different between age groups and no dosage alteration is necessary for the elderly with normal hepatic function and normal (age-adjusted) renal function1.
 
 Microbiology
 
-Clindamycin inhibits bacterial protein synthesis by binding to the 50S subunit of the ribosome.
-It has activity against Gram-positive aerobes and anaerobes as well as some Gram-negative anaerobes.
+Mechanism of Action
+
+Clindamycin inhibits bacterial protein synthesis by binding to the 23S RNA of the 50S subunit of the ribosome.
 Clindamycin is bacteriostatic.
+
+Resistance
+
+Resistance to clindamycin is most often caused by modification of specific bases of the 23S ribosomal RNA.
 Cross-resistance between clindamycin and lincomycin is complete.
-Antagonism in vitro has been demonstrated between clindamycin and erythromycin.
-Clindamycin inducible resistance has been identified in macrolide-resistant staphylococci and beta-hemolytic streptococci.
-Macrolide-resistant isolates of these organisms should be screened for clindamycin inducible resistance using the D-zone test.
+Because the binding sites for these antibacterial drugs overlap, cross-resistance is sometimes observed among lincosamides, macrolides and streptogramin B. Macrolide-inducible resistance to clindamycin occurs in some isolates of macrolide-resistant bacteria.
+Macrolide-resistant isolates of staphylococci and beta-hemolytic streptococci should be screened for induction of clindamycin resistance using the D-zone test.
 
-Clindamycin has been shown to be active against most of the isolates of the following microorganisms, both in vitro and in clinical infections, as described in the INDICATIONS AND USAGE section.
+Antimicrobial Activity
 
-Gram-positive aerobes
+Clindamycin has been shown to be active against most of the isolates of the following microorganisms, both in vitro and in clinical infections [see Indications and Usage (1)]:
 
-Staphylococcus aureus (methicillin-susceptible strains)
+Gram-positive bacteria
 
-Streptococcus pneumoniae (penicillin-susceptible strains)
+- Staphylococcus aureus (methicillin-susceptible strains)
+- Streptococcus pneumoniae (penicillin-susceptible strains)
+- Streptococcus pyogenes
+- Anaerobic bacteria
+- Clostridium perfringens
+- Fusobacterium necrophorum
+- Fusobacterium nucleatum
+- Peptostreptococcus anaerobius
+- Prevotella melaninogenica
 
-Streptococcus pyogenes
+The following in vitro data are available, but their clinical significance is unknown.
+At least 90% of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for clindamycin against isolates of a similar genus or organism group.
+However, the efficacy of clindamycin in treating clinical infections due to these bacteria has not been established in adequate and well-controlled clinical trials.
 
-Anaerobes
+Gram-positive bacteria
 
-Prevotella melaninogenica
+- Staphylococcus epidermidis (methicillin-susceptible strains)
+- Streptococcus agalactiae
+- Streptococcus anginosus
+- Streptococcus mitis
+- Streptococcus oralis
+- Anaerobic bacteria
+- Actinomyces israelii
+- Clostridium clostridioforme
+- Eggerthella lenta
+- Finegoldia (Peptostreptococcus) magna
+- Micromonas (Peptostreptococcus) micros
+- Prevotella bivia
+- Prevotella intermedia
+- Propionibacterium acnes
 
-Fusobacterium necrophorum
+Susceptibility Test Methods
 
-Fusobacterium nucleatum
-
-Peptostreptococcus anaerobius
-
-Clostridium perfringens
-
-At least 90% of the microorganisms listed below exhibit in vitro minimum inhibitory concentrations (MICs) less than or equal to the clindamycin susceptible MIC breakpoint for organisms of a similar type to those shown in Table 1.
-However, the efficacy of clindamycin in treating clinical infections due to these microorganisms has not been established in adequate and well-controlled clinical trials.
-
-Gram-positive aerobes
-
-Staphylococcus epidermidis (methicillin-susceptible strains)
-
-Streptococcus agalactiae
-
-Streptococcus anginosus
-
-Streptococcus oralis
-
-Streptococcus mitis
-
-Anaerobes
-
-Prevotella intermedia
-
-Prevotella bivia
-
-Propionibacterium acnes
-
-Micromonas (“Peptostreptococcus”) micros
-
-Finegoldia (“Peptostreptococcus”) magna
-
-Actinomyces israelii
-
-Clostridium clostridioforme
-
-Eubacterium lentum
-
-Susceptibility Testing Methods
-
-When available, the clinical microbiology laboratory should provide cumulative in vitro susceptibility test results for antimicrobial drugs used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
-These reports should aid the physician in selecting the most effective antimicrobial.
+When available, the clinical microbiology laboratory should provide cumulative in vitro susceptibility test results for antimicrobial drugs used in local hospitals and practice areas as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
+These reports should aid in the selection of an appropriate antibacterial drug for treatment.
 
 Dilution Techniques
 
 Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized procedure based on dilution method (broth, agar, or microdilution)1,2 or equivalent using standardized inoculum and concentrations of clindamycin.
+The MICs should be determined using a standardized test method 2,3 (broth and/or agar).
 The MIC values should be interpreted according to the criteria provided in Table 1.
 
 Diffusion Techniques
 
-Quantitative methods that require the measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-The standardized procedure1,3 requires the use of standardized inoculum concentrations.
-This procedure uses paper disks impregnated with 2 mcg of clindamycin to test the susceptibility of microorganisms to clindamycin.
-Reports from the laboratory providing results of the standard single-disk susceptibility test with a 2 mcg clindamycin disk should be interpreted according to the criteria in Table 1.
+Quantitative methods that require the measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
+The zone size should be determined using a standardized method 2,5.
+This procedure uses paper disks impregnated with 2 mcg of clindamycin to test the susceptibility of bacteria to clindamycin.
+The disk diffusion breakpoints are provided in Table 1.
+
+Anaerobic Techniques
+
+For anaerobic bacteria, the susceptibility to clindamycin can be determined by a standardized test method 2,4.
+The MIC values obtained should be interpreted according to the criteria provided in Table 1.
 
 Table 1.
-Susceptibility Interpretive Criteria for Clindamycin
+Susceptibility Test Interpretive Criteria for Clindamycin
 
 | Pathogen | Susceptibility Interpretive Criteria |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Minimal Inhibitory Concentrations (MIC in mcg/mL) |  |  | Disk Diffusion (Zone Diameters in mm) |  |  |  |
-|  | S | I | R | S | I | R |
-| Staphylococcus spp. | ≤ 0.5 | 1 to 2 | ≥ 4 | ≥ 21 | 15 to 20 | ≤ 14 |
+| Minimal Inhibitory Concentrations (MIC in mcg/mL) |  |  | Disk Diffusion (Zone diameters in mm) |  |  |  |
+| Staphylococcus spp. | S | I | R | S | I | R |
+| ≤ 0.5 | 1 to 2 | ≥ 4 | ≥ 21 | 15 to 20 | ≤ 14 |  |
 | Streptococcus pneumoniae and other Streptococcus spp. | ≤ 0.25 | 0.5 | ≥ 1 | ≥ 19 | 16 to 18 | ≤ 15 |
 | Anaerobic Bacteria | ≤ 2 | 4 | ≥ 8 | NA | NA | NA |
 
 NA = not applicable
 
-A report of “Susceptible” indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable.
-A report of “Intermediate” indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
+A report of Susceptible (S) indicates that the antimicrobial drug is likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
+A report of Intermediate (I) indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
 This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where high dosage of drug can be used.
 This category also provides a buffer zone that prevents small, uncontrolled technical factors from causing major discrepancies in interpretation.
-
-A report of “Resistant” indicates that the pathogen is not likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable; other therapy should be selected.
+A report of Resistant (R) indicates that the antimicrobial drug is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the infection site; other therapy should be selected.
 
 Quality Control
 
-Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of the supplies and reagents used in the assay, and the techniques of the individuals performing the test.1,2,3,4 Standard clindamycin powder should provide the MIC ranges in Table 2.
+Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of the supplies and reagents used in the assay, and the techniques of the individuals performing the test.2,3,4,5 Standard clindamycin powder should provide the following range of MIC values noted in Table 2.
 For the disk diffusion technique using the 2 mcg clindamycin disk the criteria provided in Table 2 should be achieved.
 
 Table 2.
-Acceptable Quality Control Ranges for Clindamycin to be Used in Validation of Susceptibility Test Results
+Acceptable Quality Control Ranges for Clindamycin
 
 |  | Acceptable Quality Control Ranges |  |
 | --- | --- | --- |
-| QC Strain | Minimum Inhibitory Concentration Range(mcg/mL) | Disk Diffusion Range(Zone Diameters in mm) |
-| When Testing Aerobic Pathogens |  |  |
+| QC Strain | Minimum Inhibitory Concentrations(mcg/mL) | Disk Diffusion (Zone Diameters in mm) |
+| Enterococcus faecalis1 ATCC 29212 | 4 to 16 | NA |
 | Staphylococcus aureus ATCC 29213 | 0.06 to 0.25 | NA |
 | Staphylococcus aureus ATCC 25923 | NA | 24 to 30 |
 | Streptococcus pneumoniae ATCC 49619 | 0.03 to 0.12 | 19 to 25 |
-| When Testing Anaerobes |  |  |
 | Bacteroides fragilis ATCC 25285 | 0.5 to 2 | NA |
 | Bacteroides thetaiotaomicron ATCC 29741 | 2 to 8 | NA |
-| Eubacterium lentum ATCC 43055 | 0.06 to 0.25 | NA |
+| Clostridium difficile2 ATCC 700057 | 2 to 8 | NA |
+| Eggerthella lenta ATCC 43055 | 0.06 to 0.25 | NA |
+
+- 1.
+  Enterococcus faecalis has been included in this table for quality control purposes only.
+- 2.
+  Quality control for C. difficile is performed using the agar dilution method only, all other obligate anaerobes may be tested by either broth microdilution or agar dilution methods.
 
 NA = Not applicable
 

@@ -1,8 +1,6 @@
-# PACKAGE LABEL. PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 For 150 mg Strength
-
-RANBAXY
 
 NDC 63304-692-01
 
@@ -12,9 +10,11 @@ CLINDAMYCIN HYDROCHLORIDE CAPSULES, USP
 
 Rx only 100 Capsules
 
-For 300 mg Strength
+Ohm®
 
-RANBAXY
+# Package/Label Display Panel
+
+For 300 mg Strength
 
 NDC 63304-693-01
 
@@ -23,3 +23,5 @@ CLINDAMYCIN HYDROCHLORIDE CAPSULES, USP
 300 mg*
 
 Rx only 100 Capsules
+
+Ohm®
