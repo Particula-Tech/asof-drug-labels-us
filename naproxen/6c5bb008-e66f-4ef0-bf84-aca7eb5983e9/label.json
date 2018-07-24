@@ -4,7 +4,7 @@
     "ANDA078314"
   ],
   "inn": "naproxen",
-  "labeler": "Glenmark Pharmaceuticals Inc., USA",
+  "labeler": "Glenmark Pharmaceuticals Limited Inc., USA",
   "package_ndcs": [
     "68462-178-01",
     "68462-178-05",
@@ -14,12 +14,10 @@
     "68462-188-05",
     "68462-189-01",
     "68462-189-05",
-    "68462-189-60",
     "68462-190-01",
     "68462-190-05",
     "68462-190-30",
-    "68462-190-50",
-    "68462-190-60"
+    "68462-190-50"
   ],
   "products": [
     {

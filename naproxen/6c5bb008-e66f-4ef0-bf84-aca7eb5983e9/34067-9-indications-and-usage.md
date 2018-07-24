@@ -1,21 +1,10 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-Carefully consider the potential benefits and risks of naproxen, naproxen sodium and other treatment options before deciding to use naproxen tablets or naproxen sodium tablets.
-Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals (see WARNINGS: Gastrointestinal Bleeding, Ulceration, and Perforation).
+Naproxen Naproxen tablets and naproxen sodium tablets are indicated for:
 
-Naproxen as naproxen tablets or naproxen sodium tablets are indicated:
+The relief of the signs and symptoms of:
 
-- 
-  - •For the relief of the signs and symptoms of rheumatoid arthritis
-  - •For the relief of the signs and symptoms of osteoarthritis
-  - •For the relief of the signs and symptoms of ankylosing spondylitis
-  - •For the relief of the signs and symptoms of juvenile arthritis
-
-Naproxen as naproxen tablets or naproxen sodium tablets are also indicated:
-
-- 
-  - •For relief of the signs and symptoms of tendonitis
-  - •For relief of the signs and symptoms of bursitis
-  - •For relief of the signs and symptoms of acute gout
-  - •For the management of pain
-  - •For the management of primary dysmenorrhea
+- •rheumatoid arthritis
+- •osteoarthritis
+- •ankylosing spondylitis
+- •Polyarticular Juvenile Idiopathic Arthritis
