@@ -109,7 +109,7 @@ Metronidazole exhibits in vitro minimal inhibitory concentrations (MIC’s) of 8
 
 Gram-negative anaerobes
 
-1. Bacteroides fragilis group (B. caccae, B. uniformis)
+Bacteroides fragilis group (B. caccae, B. uniformis)
 
 Prevotella species (P. bivia, P. buccae, P. disiens)
 
