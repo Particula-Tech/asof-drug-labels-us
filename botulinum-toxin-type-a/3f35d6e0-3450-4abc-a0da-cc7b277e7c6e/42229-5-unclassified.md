@@ -6,8 +6,8 @@ and
 
 Merz North America, Inc. 4133 Courtney Street, Suite 10 Franksville, WI 53126
 
-© 2015 Merz Pharmaceuticals, LLC
+© 2018 Merz Pharmaceuticals, LLC
 
-XEOMIN® is a registered trademark of Merz Pharma GmbH & Co KGaA Patent pending.
+XEOMIN® is a registered trademark of Merz Pharma GmbH & Co KGaA.
 
 Botox® is a registered trademark of Allergan, Inc.
