@@ -1,10 +1,10 @@
 PRINCIPAL DISPLAY PANEL - 25 mg
 
-NDC 0378-0018-01
+NDC 0378-0018-77
 
 Metoprolol Tartrate Tablets, USP 25 mg
 
-Rx only 100 Tablets
+Rx only 90 Tablets
 
 Each film-coated tablet contains: Metoprolol tartrate, USP 25 mg
 
@@ -25,15 +25,15 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RM0018A6
+RM0018MM
 
 # PRINCIPAL DISPLAY PANEL – 37.5 mg
 
-NDC 0378-4593-01
+NDC 0378-4593-77
 
 Metoprolol Tartrate Tablets, USP 37.5 mg
 
-Rx only 100 Tablets
+Rx only 90 Tablets
 
 Each film-coated tablet contains: Metoprolol tartrate, USP 37.5 mg
 
@@ -54,15 +54,15 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RM4593A
+RM4593MM
 
 PRINCIPAL DISPLAY PANEL - 50 mg
 
-NDC 0378-0032-01
+NDC 0378-0032-77
 
 Metoprolol Tartrate Tablets, USP 50 mg
 
-Rx only 100 Tablets
+Rx only 90 Tablets
 
 Each film-coated tablet contains: Metoprolol tartrate, USP 50 mg
 
@@ -83,15 +83,15 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RM0032A13
+RM0032MM
 
 # PRINCIPAL DISPLAY PANEL - 75 mg
 
-NDC 0378-4594-01
+NDC 0378-4594-77
 
 Metoprolol Tartrate Tablets, USP 75 mg
 
-Rx only 100 Tablets
+Rx only 90 Tablets
 
 Each film-coated tablet contains: Metoprolol tartrate, USP 75 mg
 
@@ -112,15 +112,15 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RM4594A
+RM4594MM
 
 PRINCIPAL DISPLAY PANEL - 100 mg
 
-NDC 0378-0047-01
+NDC 0378-0047-77
 
 Metoprolol Tartrate Tablets, USP 100 mg
 
-Rx only 100 Tablets
+Rx only 90 Tablets
 
 Each film-coated tablet contains: Metoprolol tartrate, USP 100 mg
 
@@ -141,4 +141,4 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RM0047A13
+RM0047MM
