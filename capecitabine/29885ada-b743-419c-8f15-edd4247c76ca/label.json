@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA209365"
+  ],
+  "inn": "capecitabine",
+  "labeler": "Novadoz Pharmaceuticals LLC",
+  "package_ndcs": [
+    "72205-006-60",
+    "72205-007-92"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "capecitabine",
+      "name": "Capecitabine"
+    }
+  ],
+  "setid": "29885ada-b743-419c-8f15-edd4247c76ca",
+  "source": "dailymed"
+}
