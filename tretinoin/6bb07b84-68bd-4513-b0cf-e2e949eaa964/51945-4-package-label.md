@@ -1,14 +1,14 @@
 PRINCIPAL DISPLAY PANEL - 0.025%
 
-NDC 0378-6140-45
+Rx only
+
+NDC 0378-6140-44
 
 AVITA® (tretinoin) Gel 0.025%
 
-45 g
+20 g
 
 For Topical Use Only
-
-Rx only
 
 Contains: Tretinoin 0.025% in a gel vehicle of butylated hydroxytoluene, hydroxypropyl cellulose, polyolprepolymer-2, ethanol (denatured with tertbutyl alcohol and brucine sulfate) 83% w/w.
 
@@ -25,4 +25,4 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-552.4 M:6140:03:1C:R4
+MI:6140:45:1C:R6 551.6

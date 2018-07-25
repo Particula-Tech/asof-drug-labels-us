@@ -9,7 +9,7 @@ Keep tube tightly closed.
 ## General
 
 If a reaction suggesting sensitivity or chemical irritation occurs, use of the medication should be discontinued.
-Exposure to sunlight, including sunlamps, or artificial sunlight should be minimized during the use of AVITA® Gel, and patients with sunburn should be advised not to use the product until fully recovered because of heightened susceptibility to sunlight as a result of the use of tretinoin.
+Exposure to sunlight, including sunlamps or artificial sunlight should be minimized during the use of AVITA® Gel, and patients with sunburn should be advised not to use the product until fully recovered because of heightened susceptibility to sunlight as a result of the use of tretinoin.
 Patients who may be required to have considerable sun exposure due to occupation and those with inherent sensitivity to the sun should exercise particular caution.
 Use of sunscreen products and protective clothing over treated areas is recommended when exposure cannot be avoided.
 Weather extremes, such as wind or cold, also may be irritating to patients under treatment with tretinoin.
@@ -27,7 +27,7 @@ See attached Patient Package Insert.
 
 Concomitant topical medication, medicated or abrasive soaps and cleansers, soaps and cosmetics that have a strong drying effect, and products with high concentrations of alcohol, astringents, spices or lime should be used with caution because of possible interaction with tretinoin.
 Particular caution should be exercised in using preparations containing sulfur, resorcinol, or salicylic acid with AVITA® Gel.
-It also is advisable to "rest" a patient's skin until the effects of such preparations subside before use of AVITA® Gel is begun.
+It also is advisable to “rest” a patient’s skin until the effects of such preparations subside before use of AVITA® Gel is begun.
 
 ## Carcinogenesis, Mutagenesis and Impairment of Fertility
 
@@ -49,11 +49,9 @@ In oral Segment I and Segment III studies in rats with tretinoin, decreased surv
 
 ## Pregnancy
 
-Pregnancy Category C.
-
 ## Teratogenic Effects
 
-Oral tretinoin has been shown to be teratogenic in rats, mice, rabbits, hamsters, and sub-human primates.
+Oral tretinoin has been shown to be teratogenic in rats, mice, rabbits, hamsters, and subhuman primates.
 It was teratogenic and fetotoxic in rats when given orally in doses 1000 times the average recommended human topical clinical dose.
 However, variations in teratogenic doses among various strains of rats have been reported.
 In the cynomolgus monkey, which metabolically is closer to humans for tretinoin than other species examined, fetal malformations were reported at oral doses of 10 mg/kg/day or greater, but none were observed at 5 mg/kg/day (1000 times the average recommended human topical clinical dose), although increased skeletal variations were observed at all doses.
