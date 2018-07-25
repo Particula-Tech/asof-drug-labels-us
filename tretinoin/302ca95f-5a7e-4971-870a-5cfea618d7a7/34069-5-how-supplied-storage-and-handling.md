@@ -16,4 +16,4 @@ Rx Only
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Revised: 11/2017 023.6 AVITACR:R6
+Revised: 6/2018 023.7 AVITACR:R7

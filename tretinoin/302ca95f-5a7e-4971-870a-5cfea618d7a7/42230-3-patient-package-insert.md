@@ -113,6 +113,6 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Revised: 11/2017 023.6PL
+Revised: 6/2018 023.7PL
 
 Printed in U.S.A.

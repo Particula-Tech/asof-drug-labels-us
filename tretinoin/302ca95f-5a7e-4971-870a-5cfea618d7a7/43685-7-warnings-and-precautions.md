@@ -43,7 +43,7 @@ The mutagenic potential of tretinoin was evaluated in the Ames assay and in the 
 Dermal Segment I and III studies with AVITA® Cream have not been performed in any species.
 In oral Segment I and Segment III studies in rats with tretinoin, decreased survival of neonates and growth retardation were observed at doses in excess of 2 mg/kg/day (> 400 times the average recommended human topical clinical dose).
 
-## Pregnancy: Pregnancy Category C.
+## Pregnancy
 
 ### Teratogenic Effects
 
