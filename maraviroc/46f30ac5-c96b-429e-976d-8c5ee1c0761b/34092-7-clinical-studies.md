@@ -52,29 +52,25 @@ Demographic and Baseline Characteristics of Subjects in Trials A4001027 and A400
 | PI substitutions | 10 | 10 |
 | NNRTI substitutions | 1 | 1 |
 | NRTI substitutions | 6 | 6 |
-
-aOSS - Sum of active drugs in OBT based on combined information from genotypic and phenotypic testing.
-
-bResistance substitutions based on IAS guidelines.1
+| a OSS - Sum of active drugs in OBT based on combined information from genotypic and phenotypic testing. b Resistance substitutions based on IAS guidelines.1 |  |  |
 
 The Week 48 results for the pooled Trials A4001027 and A4001028 are shown in Table 17.
 
 Table 17.
 Outcomes of Randomized Treatment at Week 48 in Trials A4001027 and A4001028
 
-| Outcome | SELZENTRYTwice Daily(n = 426) | Placebo(n = 209) | Mean Difference |
-| --- | --- | --- | --- |
-| Mean change from Baseline to Week 48 in HIV-1 RNA (log10 copies/mL) | -1.84 | -0.78 | -1.05 |
-| <400 copies/mL at Week 48 | 239 (56%) | 47 (22%) | 34% |
-| <50 copies/mL at Week 48 | 194 (46%) | 35 (17%) | 29% |
-| Discontinuations: |  |  |  |
-| Insufficient clinical response | 97 (23%) | 113 (54%) | – |
-| Adverse events | 19 (4%) | 11 (5%) | – |
-| Other | 27 (6%) | 18 (9%) | – |
-| Subjects with treatment-emergent CDC Category C events | 22 (5%) | 16 (8%) | – |
-| Deaths (during trial or within 28 days of last dose) | 9 (2%)a | 1 (0.5%) | – |
-
-aOne additional subject died while receiving open-label therapy with SELZENTRY subsequent to discontinuing double-blind placebo due to insufficient response.
+| Outcome | SELZENTRYTwice Daily(n = 426) | Placebo(n = 209) | Mean Difference |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Mean change from Baseline to Week 48 in HIV-1 RNA (log10 copies/mL) | -1.84 | -0.78 | -1.05 |  |  |  |
+| <400 copies/mL at Week 48 | 239 (56%) | 47 (22%) | 34% |  |  |  |
+| <50 copies/mL at Week 48 | 194 (46%) | 35 (17%) | 29% |  |  |  |
+| Discontinuations: |  |  |  |  |  |  |
+| Insufficient clinical response | 97 (23%) | 113 (54%) | – |  |  |  |
+| Adverse events | 19 (4%) | 11 (5%) | – |  |  |  |
+| Other | 27 (6%) | 18 (9%) | – |  |  |  |
+| Subjects with treatment-emergent CDC Category C events | 22 (5%) | 16 (8%) | – |  |  |  |
+| Deaths (during trial or within 28 days of last dose) | 9 (2%)a | 1 (0.5%) | – |  |  |  |
+| a One additional subject died while receiving open-label therapy with SELZENTRY subsequent to discontinuing double-blind placebo due to insufficient response. |  |  |  |  |  |  |
 
 After 48 weeks of therapy, the proportions of subjects with HIV-1 RNA less than 400 copies per mL receiving SELZENTRY compared with placebo were 56% and 22%, respectively.
 The mean changes in plasma HIV-1 RNA from baseline to Week 48 were –1.84 log10 copies per mL for subjects receiving SELZENTRY + OBT compared with –0.78 log10 copies per mL for subjects receiving OBT only.
@@ -120,34 +116,26 @@ The treatment outcomes at 96 weeks for Trial A4001026 are shown in Table 19.
 Treatment outcomes are based on reanalysis of the screening samples using a more sensitive tropism assay, enhanced sensitivity TROFILE HIV tropism assay, which became available after the Week 48 analysis; approximately 15% of the subjects identified as CCR5-tropic in the original analysis had dual/mixed- or CXCR4-tropic virus.
 Screening with enhanced sensitivity version of the TROFILE tropism assay reduced the number of maraviroc virologic failures with CXCR4- or dual/mixed-tropic virus at failure to 12 compared with 24 when screening with the original TROFILE HIV tropism assay.
 
-Table 19: Trial Outcome (Snapshot) at Week 96 Using Enhanced Sensitivity Assaya
+Table 19.
+Trial Outcome (Snapshot) at Week 96 Using Enhanced Sensitivity Assaya
 
-| Outcome at Week 96b | SELZENTRY 300 mg Twice Daily + Lamivudine/Zidovudine(n = 311)n (%) | Efavirenz 600 mg Once Daily +Lamivudine/Zidovudine(n = 303)n (%) |
-| --- | --- | --- |
-| Virologic Responders: |  |  |
-| (HIV-1 RNA <400 copies/mL) | 199 (64) | 195 (64) |
-| Virologic Failure: |  |  |
-| Non-sustained HIV-1 RNA suppression | 39 (13) | 22 (7) |
-| HIV-1 RNA never suppressed | 9 (3) | 1 (<1) |
-| Virologic Responders: |  |  |
-| (HIV-1 RNA <50 copies/mL) | 183 (59) | 190 (63) |
-| Virologic Failure: |  |  |
-| Non-sustained HIV-1 RNA suppression | 43 (14) | 25 (8) |
-| HIV-1 RNA never suppressed | 21 (7) | 3 (1) |
-| Discontinuations due to: |  |  |
-| Adverse events | 19 (6) | 47 (16) |
-| Death | 2 (1) | 2 (1) |
-| Otherc | 43 (14) | 36 (12) |
-
-aThe total number of subjects (311, 303) in Table 19 represents the subjects who had a CCR5-tropic virus in the reanalysis of screening samples using the more sensitive tropism assay.
-This reanalysis reclassified approximately 15% of subjects shown in Table 18 as having dual/mixed- or CXCR4-tropic virus.
-These numbers are different than those presented in Table 18 because the numbers in Table 18 reflect the subjects with CCR5-tropic virus according to the original tropism assay.
-
-bWeek 48 results: Virologic responders (less than 400): 228 of 311 (73%) in SELZENTRY, 219 of 303 (72%) in efavirenz;
-
-Virologic responders (less than 50): 213 of 311 (69%) in SELZENTRY, 207 of 303 (68%) in efavirenz.
-
-cOther reasons for discontinuation include lost to follow-up, withdrawn, protocol violation, and other.
+| Outcome at Week 96b | SELZENTRY 300 mg Twice Daily + Lamivudine/Zidovudine(n = 311)n (%) | Efavirenz 600 mg Once Daily +Lamivudine/Zidovudine(n = 303)n (%) |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Virologic Responders: |  |  |  |  |  |  |  |  |  |  |  |  |
+| (HIV-1 RNA <400 copies/mL) | 199 (64) | 195 (64) |  |  |  |  |  |  |  |  |  |  |
+| Virologic Failure: |  |  |  |  |  |  |  |  |  |  |  |  |
+| Non-sustained HIV-1 RNA suppression | 39 (13) | 22 (7) |  |  |  |  |  |  |  |  |  |  |
+| HIV-1 RNA never suppressed | 9 (3) | 1 (<1) |  |  |  |  |  |  |  |  |  |  |
+| Virologic Responders: |  |  |  |  |  |  |  |  |  |  |  |  |
+| (HIV-1 RNA <50 copies/mL) | 183 (59) | 190 (63) |  |  |  |  |  |  |  |  |  |  |
+| Virologic Failure: |  |  |  |  |  |  |  |  |  |  |  |  |
+| Non-sustained HIV-1 RNA suppression | 43 (14) | 25 (8) |  |  |  |  |  |  |  |  |  |  |
+| HIV-1 RNA never suppressed | 21 (7) | 3 (1) |  |  |  |  |  |  |  |  |  |  |
+| Discontinuations due to: |  |  |  |  |  |  |  |  |  |  |  |  |
+| Adverse events | 19 (6) | 47 (16) |  |  |  |  |  |  |  |  |  |  |
+| Death | 2 (1) | 2 (1) |  |  |  |  |  |  |  |  |  |  |
+| Otherc | 43 (14) | 36 (12) |  |  |  |  |  |  |  |  |  |  |
+| a The total number of subjects (311, 303) in Table 19 represents the subjects who had a CCR5-tropic virus in the reanalysis of screening samples using the more sensitive tropism assay. This reanalysis reclassified approximately 15% of subjects shown in Table 18 as having dual/mixed- or CXCR4-tropic virus. These numbers are different than those presented in Table 18 because the numbers in Table 18 reflect the subjects with CCR5-tropic virus according to the original tropism assay. b Week 48 results: Virologic responders (less than 400): 228 of 311 (73%) in SELZENTRY, 219 of 303 (72%) in efavirenz; Virologic responders (less than 50): 213 of 311 (69%) in SELZENTRY, 207 of 303 (68%) in efavirenz. c Other reasons for discontinuation include lost to follow-up, withdrawn, protocol violation, and other. |  |  |  |  |  |  |  |  |  |  |  |  |
 
 The median increase from baseline in CD4+ cell counts at Week 96 was 184 cells per mm3 for the arm receiving SELZENTRY compared with 155 cells per mm3 for the efavirenz arm.
 

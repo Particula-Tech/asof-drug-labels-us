@@ -26,8 +26,7 @@ Recommended Dosage in Adults
 | Potent CYP3A inhibitors (with or without a potent CYP3A inducer) including: •protease inhibitors (except tipranavir/ritonavir)•delavirdine•elvitegravir/ritonavir•ketoconazole, itraconazole, clarithromycin•other potent CYP3A inhibitors (e.g., nefazodone, telithromycin)•boceprevir | 150 mg twice daily |
 | Noninteracting concomitant medications, including tipranavir/ritonavir, nevirapine, raltegravir, all nucleoside reverse transcriptase inhibitors (NRTIs), and enfuvirtidea | 300 mg twice daily |
 | Potent CYP3A inducers (without a potent CYP3A inhibitor) including: •efavirenz•rifampin•etravirine•carbamazepine, phenobarbital, and phenytoin | 600 mg twice daily |
-
-a Noninteracting concomitant medications include all medications that are not potent CYP3A inhibitors or inducers.
+| a Noninteracting concomitant medications include all medications that are not potent CYP3A inhibitors or inducers. |  |
 
 ## 2.4 Recommended Dosage in Pediatric Patients
 
@@ -47,20 +46,18 @@ Recommended Dosage in Pediatric Patients Aged 2 Years and Older Weighing at Leas
 | Potent CYP3A inhibitors (with or without a CYP3A inducer) including: •protease inhibitors (except tipranavir/ritonavir)•delavirdine•elvitegravir/ritonavir•ketoconazole, itraconazole, clarithromycin•other potent CYP3A inhibitors (e.g., nefazodone, telithromycin)•boceprevir | 50 mg twice daily | 75 mg twice daily | 100 mg twice daily | 150 mg twice daily |
 | Noninteracting concomitant medications, including tipranavir/ritonavir, nevirapine, raltegravir, all NRTIs, and enfuvirtidea | Not recommended | Not recommended | 300 mg twice daily | 300 mg twice daily |
 | Potent CYP3A inducers (without a potent CYP3A inhibitor) including: •efavirenz•rifampin•etravirine•carbamazepine, phenobarbital, and phenytoin | Not recommended |  |  |  |
-
-a Noninteracting concomitant medications include all medications that are not potent CYP3A inhibitors or inducers.
+| a Noninteracting concomitant medications include all medications that are not potent CYP3A inhibitors or inducers. |  |  |  |  |
 
 Table 3.
 Recommended Dosage in Pediatric Patients Aged 2 Years and Older Weighing at Least 10 kg (Oral Solution)
 
-| Concomitant Medications | Dosage (Volume of Solution) of SELZENTRY Based on Weight |  |  |  |
-| --- | --- | --- | --- | --- |
-| 10 kg to <20 kg | 20 kg to <30 kg | 30 kg to <40 kg | ≥40 kg |  |
-| Potent CYP3A inhibitors (with or without a CYP3A inducer) including: •protease inhibitors (except tipranavir/ritonavir)•delavirdine•elvitegravir/ritonavir•ketoconazole, itraconazole, clarithromycin•other potent CYP3A inhibitors (e.g., nefazodone, telithromycin)•boceprevir | 50 mg (2.5 mL) twice daily | 80 mg (4 mL) twice daily | 100 mg (5 mL) twice daily | 150 mg (7.5 mL) twice daily |
-| Noninteracting concomitant medications, including tipranavir/ritonavir, nevirapine, raltegravir, all NRTIs, and enfuvirtidea | Not recommended | Not recommended | 300 mg (15 mL) twice daily | 300 mg (15 mL) twice daily |
-| Potent CYP3A inducers (without a potent CYP3A inhibitor) including: •efavirenz•rifampin•etravirine•carbamazepine, phenobarbital, and phenytoin | Not recommended |  |  |  |
-
-a Noninteracting concomitant medications include all medications that are not potent CYP3A inhibitors or inducers.
+| Concomitant Medications | Dosage (Volume of Solution) of SELZENTRY Based on Weight |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 10 kg to <20 kg | 20 kg to <30 kg | 30 kg to <40 kg | ≥40 kg |  |  |  |  |  |  |
+| Potent CYP3A inhibitors (with or without a CYP3A inducer) including: •protease inhibitors (except tipranavir/ritonavir)•delavirdine•elvitegravir/ritonavir•ketoconazole, itraconazole, clarithromycin•other potent CYP3A inhibitors (e.g., nefazodone, telithromycin)•boceprevir | 50 mg (2.5 mL) twice daily | 80 mg (4 mL) twice daily | 100 mg (5 mL) twice daily | 150 mg (7.5 mL) twice daily |  |  |  |  |  |
+| Noninteracting concomitant medications, including tipranavir/ritonavir, nevirapine, raltegravir, all NRTIs, and enfuvirtidea | Not recommended | Not recommended | 300 mg (15 mL) twice daily | 300 mg (15 mL) twice daily |  |  |  |  |  |
+| Potent CYP3A inducers (without a potent CYP3A inhibitor) including: •efavirenz•rifampin•etravirine•carbamazepine, phenobarbital, and phenytoin | Not recommended |  |  |  |  |  |  |  |  |
+| a Noninteracting concomitant medications include all medications that are not potent CYP3A inhibitors or inducers. |  |  |  |  |  |  |  |  |  |
 
 ## 2.5 Recommended Dosage in Patients with Renal Impairment
 
@@ -74,13 +71,10 @@ Recommended Dosage in Adults Based on Renal Function
 | Concomitant Medications | Dosage of SELZENTRY Based on Renal Function |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Normal(CrCl >80 mL/min) | Mild(CrCl >50 and ≤80 mL/min) | Moderate(CrCl ≥30 and ≤50 mL/min) | Severe(CrCl <30 mL/min) | End-Stage Renal Diseaseon Regular Hemodialysis |  |
-| Potent CYP3A inhibitors (with or without a CYP3A inducer) including: •protease inhibitors (except tipranavir/ritonavir)•delavirdine•elvitegravir/ritonavir•ketoconazole, itraconazole, clarithromycin•other potent CYP3A inhibitors (e.g., nefazodone, telithromycin)•boceprevir | 150 mg twice daily | 150 mg twice daily | 150 mg twice daily | Contra- indicated | Contra- indicated |
-| Noninteracting concomitant medications, including tipranavir/ritonavir, nevirapine, raltegravir, all NRTIs, and enfuvirtidea | 300 mg twice daily | 300 mg twice daily | 300 mg twice daily | 300 mg twice dailyb | 300 mg twice dailyb |
-| Potent CYP3A inducers (without a potent CYP3A inhibitor) including: •efavirenz•rifampin•etravirine•carbamazepine, phenobarbital, and phenytoin | 600 mg twice daily | 600 mg twice daily | 600 mg twice daily | Contra- indicated | Contra- indicated |
-
-a Noninteracting concomitant medications include all medications that are not potent CYP3A inhibitors or inducers.
-
-bThe dosage of SELZENTRY should be reduced to 150 mg twice daily if there are any symptoms of postural hypotension [see Contraindications (4), Warnings and Precautions (5.3)].
+| Potent CYP3A inhibitors (with or without a CYP3A inducer) including: •protease inhibitors (except tipranavir/ritonavir)•delavirdine•elvitegravir/ritonavir•ketoconazole, itraconazole, clarithromycin•other potent CYP3A inhibitors (e.g., nefazodone, telithromycin)•boceprevir | 150 mg twice daily | 150 mg twice daily | 150 mg twice daily | Contra-indicated | Contra-indicated |
+| Noninteracting concomitant medications including tipranavir/ritonavir, nevirapine, raltegravir, all NRTIs, and enfuvirtidea | 300 mg twice daily | 300 mg twice daily | 300 mg twice daily | 300 mg twice dailyb | 300 mg twice dailyb |
+| Potent CYP3A inducers (without a potent CYP3A inhibitor) including: •efavirenz•rifampin•etravirine•carbamazepine, phenobarbital, and phenytoin | 600 mg twice daily | 600 mg twice daily | 600 mg twice daily | Contra-indicated | Contra-indicated |
+| a Noninteracting concomitant medications include all medications that are not potent CYP3A inhibitors or inducers. b The dosage of SELZENTRY should be reduced to 150 mg twice daily if there are any symptoms of postural hypotension [see Contraindications (4), Warnings and Precautions (5.3)]. |  |  |  |  |  |
 
 Pediatric Patients
 

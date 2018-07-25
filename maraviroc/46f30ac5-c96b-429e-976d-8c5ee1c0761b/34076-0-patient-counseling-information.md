@@ -10,7 +10,7 @@ Advise patients that laboratory tests for liver enzymes and bilirubin will be or
 
 Cardiovascular Events
 
-When administering SELZENTRYin patients with cardiovascular comorbidities, a history of postural hypotension or receiving concomitant medication known to lower blood pressure, advise patients that they may be at increased risk for cardiovascular events.
+When administering SELZENTRY in patients with cardiovascular comorbidities, a history of postural hypotension or receiving concomitant medication known to lower blood pressure, advise patients that they may be at increased risk for cardiovascular events.
 Advise patients to avoid driving or operating machinery if they experience dizziness while taking SELZENTRY [see Warnings and Precautions (5.3)].
 
 Drug Interactions
@@ -34,9 +34,10 @@ Lactation
 
 Instruct women with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in breast milk [see Use in Specific Populations (8.2)].
 
-SELZENTRY and COMBIVIR are registered trademarks of the ViiV Healthcare group of companies.
+SELZENTRY and COMBIVIR are trademarks owned by or licensed to the ViiV Healthcare group of companies.
 
-TROFILE is a registered trademark of Monogram Biosciences, Inc.
+TROFILE is a trademark owned by or licensed to Monogram BioSciences, Inc., and is not owned by or licensed to the ViiV Healthcare group of companies.
+The maker of this brand is not affiliated with and does not endorse the ViiV Healthcare group of companies or its products.
 
 Manufactured for:
 
@@ -44,9 +45,10 @@ ViiV Healthcare
 
 Research Triangle Park, NC 27709
 
-©2016 the ViiV Healthcare group of companies.
-All rights reserved.
+©2018 ViiV Healthcare group of companies or its licensor.
 
-SEL:12PI
+SEL:13PI
 
 PHARMACIST‑DETACH HERE AND GIVE MEDICATION GUIDE TO PATIENT
+
+1. _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _

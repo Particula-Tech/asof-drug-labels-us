@@ -24,3 +24,4 @@ The press-in bottle adapter and oral dosing syringe are not made with natural ru
 This product does not require reconstitution.
 
 SELZENTRY oral solution should be stored at 20oC to 25oC (68oF to 77oF); excursions permitted between 15oC and 30oC (59oF and 86oF) [see USP Controlled Room Temperature].
+Discard any unused oral solution 60 days after first opening the bottle.

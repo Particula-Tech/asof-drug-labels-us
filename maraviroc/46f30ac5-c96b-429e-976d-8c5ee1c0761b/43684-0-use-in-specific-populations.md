@@ -12,7 +12,7 @@ Risk Summary
 Limited data on the use of SELZENTRY during pregnancy from the APR and case reports are not sufficient to inform a drug-associated risk of birth defects and miscarriage.
 In animal reproduction studies, no evidence of adverse developmental outcomes was observed with maraviroc.
 During organogenesis in the rat and rabbit, systemic exposures (AUC) to maraviroc were approximately 20 times (rats) and 5 times (rabbits) the exposure in humans at the recommended 300-mg twice-daily dose.
-In the rat pre- and post-natal development study, maternal systemic exposure (AUC) to maraviroc was approximately 14 times the exposure in humans at the recommended 300-mg twice-daily dose [seeData].
+In the rat pre- and post-natal development study, maternal systemic exposure (AUC) to maraviroc was approximately 14 times the exposure in humans at the recommended 300-mg twice-daily dose (see Data).
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
@@ -31,8 +31,8 @@ Risk Summary
 The Centers for Disease Control and Prevention recommend that HIV‑1-infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV‑1 infection.
 
 There are no data on the presence of maraviroc in human milk, the effects on the breastfed infant, or the effects on milk production.
-When administered to lactating rats, maraviroc was present in milk [see Data].
-Because of the potential for (1) HIV transmission (in HIV-negative infants), (2) developing viral resistance (in HIV-positive infants), and (3) serious adverse reactions in a breastfed infant similar to those seen in adults, instruct mothers not to breastfeedif they are receiving SELZENTRY.
+When administered to lactating rats, maraviroc was present in milk (see Data).
+Because of the potential for (1) HIV transmission (in HIV-negative infants), (2) developing viral resistance (in HIV-positive infants), and (3) serious adverse reactions in a breastfed infant similar to those seen in adults, instruct mothers not to breastfeed if they are receiving SELZENTRY.
 
 Data
 
@@ -62,7 +62,7 @@ SELZENTRY is contraindicated in pediatric patients with severe renal impairment 
 
 The pharmacokinetics of maraviroc in adult subjects with mild and moderate renal impairment was similar to that in subjects with normal renal function [see Clinical Pharmacology (12.3)].
 A limited number of adult subjects with mild and moderate renal impairment in the Phase 3 clinical trials (n = 131 and n = 12, respectively) received the same dose of SELZENTRY as that administered to subjects with normal renal function.
-In these subjects there was no apparent difference in the adverse event profile for maraviroc compared with subjects with normal renal function.
+In these subjects, there was no apparent difference in the adverse event profile for maraviroc compared with subjects with normal renal function.
 
 If adult patients with severe renal impairment or ESRD not receiving a concomitant potent CYP3A inhibitor or inducer experience any symptoms of postural hypotension while taking SELZENTRY 300 mg twice daily, the dose should be reduced to 150 mg twice daily.
 No trials have been performed in subjects with severe renal impairment or ESRD co-treated with potent CYP3A inhibitors or inducers.
@@ -73,14 +73,3 @@ Hence, no dose of SELZENTRY can be recommended, and SELZENTRY is contraindicated
 Maraviroc is principally metabolized by the liver; therefore, when administering this drug to patients with hepatic impairment, maraviroc concentrations may be increased.
 Maraviroc concentrations are higher when SELZENTRY 150 mg is administered with a potent CYP3A inhibitor compared with following administration of 300 mg without a CYP3A inhibitor, so patients with moderate hepatic impairment who receive SELZENTRY 150 mg with a potent CYP3A inhibitor should be monitored closely for maraviroc-associated adverse events.
 Maraviroc has not been studied in subjects with severe hepatic impairment or in pediatric patients with any degree of hepatic impairment [see Warnings and Precautions (5.1), Clinical Pharmacology (12.3)].
-
-## 8.8 Gender
-
-Population pharmacokinetic analysis of pooled Phase 1/2a data indicated gender (female: n = 96, 23.2% of the total population) does not affect maraviroc concentrations.
-Dosage adjustment based on gender is not necessary.
-
-## 8.9 Race
-
-Population pharmacokinetic analysis of pooled Phase 1/2a data indicated exposure was 26.5% higher in Asians (n = 95) as compared with non-Asians (n = 318).
-However, a trial designed to evaluate pharmacokinetic differences between whites (n = 12) and Singaporeans (n = 12) showed no difference between these 2 populations.
-No dose adjustment based on race is needed.

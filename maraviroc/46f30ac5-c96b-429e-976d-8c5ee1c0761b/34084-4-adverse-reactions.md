@@ -90,30 +90,24 @@ Selected Treatment-Emergent Adverse Events (All Causality) ≥2% on SELZENTRY (a
 | Erythemas | 2 | 3 | 1 | 2 |
 | Vascular Disorders |  |  |  |  |
 | Vascular hypertensive disorders | 3 | 4 | 2 | 4 |
-
-a300-mg dose equivalent.
-
-bPYE = Patient-years of exposure.
+| a 300-mg dose equivalent. b PYE = Patient-years of exposure. |  |  |  |  |
 
 Laboratory Abnormalities: Table 6 shows the treatment-emergent Grade 3-4 laboratory abnormalities that occurred in greater than 2% of subjects receiving SELZENTRY.
 
 Table 6.
 Maximum Shift in Laboratory Test Values (without Regard to Baseline) ≥2% of Grade 3-4 Abnormalities (ACTG Criteria) in Trials A4001027 and A4001028 (Pooled Analysis, 48 Weeks)
 
-| Laboratory Parameter Preferred Term | Limit | SELZENTRYTwice Daily + OBT(n = 421)a% | Placebo + OBT(n = 207)a% |
-| --- | --- | --- | --- |
-| Aspartate aminotransferase | >5.0 x ULN | 4.8 | 2.9 |
-| Alanine aminotransferase | >5.0 x ULN | 2.6 | 3.4 |
-| Total bilirubin | >2.5 x ULN | 5.5 | 5.3 |
-| Amylase | >2.0 x ULN | 5.7 | 5.8 |
-| Lipase | >2.0 x ULN | 4.9 | 6.3 |
-| Absolute neutrophil count | <750/mm3 | 4.3 | 2.4 |
+| Laboratory Parameter Preferred Term | Limit | SELZENTRYTwice Daily + OBT(n = 421)a% | Placebo + OBT(n = 207)a% |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Aspartate aminotransferase | >5.0 x ULN | 4.8 | 2.9 |  |  |  |  |  |
+| Alanine aminotransferase | >5.0 x ULN | 2.6 | 3.4 |  |  |  |  |  |
+| Total bilirubin | >2.5 x ULN | 5.5 | 5.3 |  |  |  |  |  |
+| Amylase | >2.0 x ULN | 5.7 | 5.8 |  |  |  |  |  |
+| Lipase | >2.0 x ULN | 4.9 | 6.3 |  |  |  |  |  |
+| Absolute neutrophil count | <750/mm3 | 4.3 | 2.4 |  |  |  |  |  |
+| ULN=Upper limit of normal. a Percentages based on total subjects evaluated for each laboratory parameter. |  |  |  |  |  |  |  |  |
 
-a Percentages based on total subjects evaluated for each laboratory parameter.
-
-ULN=Upper limit of normal.
-
-Treatment‑Naive Subjects: Treatment‑Emergent Adverse Events: Treatment‑emergent adverse events, regardless of causality, from Trial A4001026, a double‑blind, comparative, controlled trial in which 721 treatment‑naive subjects received SELZENTRY 300 mg twice daily (n = 360) or efavirenz 600 mg once daily (n = 361) in combination with lamivudine/zidovudine (COMBIVIR®) for 96 weeks, are summarized in Table 7.
+Treatment‑Naive Subjects: Treatment-Emergent Adverse Events: Treatment-emergent adverse events, regardless of causality, from Trial A4001026, a double-blind, comparative, controlled trial in which 721 treatment-naive subjects received SELZENTRY 300 mg twice daily (n = 360) or efavirenz 600 mg once daily (n = 361) in combination with lamivudine/zidovudine (COMBIVIR) for 96 weeks, are summarized in Table 7.
 Selected events occurring in greater than or equal to 2% of subjects and at a numerically higher rate in subjects treated with SELZENTRY are included; events that occurred at the same or higher rate on efavirenz are not displayed.
 
 Table 7.
@@ -164,18 +158,15 @@ Laboratory Abnormalities:
 Table 8.
 Maximum Shift in Laboratory Test Values (without Regard to Baseline) ≥2% of Grade 3-4 Abnormalities (ACTG Criteria) in Trial A4001026 (96 Weeks)
 
-| Laboratory Parameter Preferred Term | Limit | SELZENTRY300 mg Twice Daily +Lamivudine/Zidovudine (n = 353)a% | Efavirenz600 mg Once Daily+Lamivudine/Zidovudine (n = 350)a% |
-| --- | --- | --- | --- |
-| Aspartate aminotransferase | >5.0 x ULN | 4.0 | 4.0 |
-| Alanine aminotransferase | >5.0 x ULN | 3.9 | 4.0 |
-| Creatine kinase | – | 3.9 | 4.8 |
-| Amylase | >2.0 x ULN | 4.3 | 6.0 |
-| Absolute neutrophil count | <750/mm3 | 5.7 | 4.9 |
-| Hemoglobin | <7.0 g/dL | 2.9 | 2.3 |
-
-a n = Total number of subjects evaluable for laboratory abnormalities.
-
-ULN=Upper limit of normal.
+| Laboratory Parameter Preferred Term | Limit | SELZENTRY300 mg Twice Daily +Lamivudine/Zidovudine (n = 353)a% | Efavirenz600 mg Once Daily+Lamivudine/Zidovudine (n = 350)a% |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Aspartate aminotransferase | >5.0 x ULN | 4.0 | 4.0 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Alanine aminotransferase | >5.0 x ULN | 3.9 | 4.0 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Creatine kinase | >10.0 x ULN | 3.9 | 4.8 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Amylase | >2.0 x ULN | 4.3 | 6.0 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Absolute neutrophil count | <750/mm3 | 5.7 | 4.9 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Hemoglobin | <7.0 g/dL | 2.9 | 2.3 |  |  |  |  |  |  |  |  |  |  |  |  |
+| ULN = Upper limit of normal. a n = Total number of subjects evaluable for laboratory abnormalities. Percentages based on total subjects evaluated for each laboratory parameter. If the same subject in a given treatment group had greater than 1 occurrence of the same abnormality, only the most severe is counted. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Percentages based on total subjects evaluated for each laboratory parameter.
 If the same subject in a given treatment group had greater than 1 occurrence of the same abnormality, only the most severe is counted.

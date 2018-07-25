@@ -10,7 +10,7 @@ The highest exposures in rats were approximately 11 times those observed in huma
 
 Mutagenesis
 
-Maraviroc was not genotoxic in the reverse mutation bacterial test (Ames test in Salmonella and E. coli), a chromosome aberration test in human lymphocytes, and rat bone marrow micronucleus test.
+Maraviroc was not genotoxic in the reverse mutation bacterial test (Ames test in Salmonella and E. coli), a chromosome aberration test in human lymphocytes, and mouse bone marrow micronucleus test.
 
 Impairment of Fertility
 

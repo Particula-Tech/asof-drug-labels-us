@@ -4,7 +4,7 @@ SELZENTRY (maraviroc) is a selective, slowly reversible, small molecule antagoni
 Blocking this interaction prevents CCR5-tropic HIV-1 entry into cells.
 
 SELZENTRY film-coated tablets for oral administration contain 25, 75, 150, or 300 mg of maraviroc and the following inactive ingredients: dibasic calcium phosphate (anhydrous), magnesium stearate, microcrystalline cellulose, and sodium starch glycolate.
-The film coat (Opadry® II Blue [85G20583]) contains FD&C blue #2 aluminum lake, soya lecithin, polyethylene glycol (macrogol 3350), polyvinyl alcohol, talc, and titanium dioxide.
+The film coat (Opadry II Blue [85G20583]) contains FD&C blue #2 aluminum lake, soya lecithin, polyethylene glycol (macrogol 3350), polyvinyl alcohol, talc, and titanium dioxide.
 
 SELZENTRY oral solution contains 20 mg per mL of maraviroc and the following inactive ingredients: citric acid (anhydrous), purified water, sodium benzoate, sodium citrate dihydrate, strawberry flavoring (501440T), and sucralose.
 
