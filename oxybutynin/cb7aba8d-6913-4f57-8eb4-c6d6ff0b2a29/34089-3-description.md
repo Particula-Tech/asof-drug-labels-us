@@ -7,6 +7,9 @@ The structural formula appears below:
 C22H31NO3•HCl M.W.
 393.9
 
+C22H31NO3•HCl M.W.
+393.9
+
 Oxybutynin chloride, USP is a white crystalline solid.
 It is readily soluble in water and acids, but relatively insoluble in alkalis.
 
