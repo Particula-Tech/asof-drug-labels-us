@@ -13,7 +13,7 @@ Doses of 1 gram may also be administered as an intravenous bolus injection (5 mL
 Dosage should be reduced in patients with creatinine clearance of 50 mL/min or less.
 (See dosing table below.)
 
-When only serum creatinine is available, the following formula (Cockcroft and Gault equation)5 may be used to estimate creatinine clearance.
+When only serum creatinine is available, the following formula (Cockcroft and Gault equation)1 may be used to estimate creatinine clearance.
 
 Males: Creatinine Clearance (mL/min) =
 
@@ -49,7 +49,8 @@ Table 2: Recommended MERREM IV Dosage Schedule for Pediatric Patients 3 Months o
 | Complicated skin and skin structure infections | 10 | 500 mg | Every 8 hours |
 | Complicated intra-abdominal infections | 20 | 1 gram | Every 8 hours |
 | Meningitis | 40 | 2 grams | Every 8 hours |
-| There is no experience in pediatric patients with renal impairment. When treating cSSSI caused by P. aeruginosa, a dose of 20 mg/kg (or 1 gram for pediatric patients weighing over 50 kg) every 8 hours is recommended. |  |  |  |
+| There is no experience in pediatric patients with renal impairment. |  |  |  |
+| When treating cSSSI caused by P. aeruginosa, a dose of 20 mg/kg (or 1 gram for pediatric patients weighing over 50 kg) every 8 hours is recommended. |  |  |  |
 
 Pediatric Patients Less Than 3 Months of Age
 

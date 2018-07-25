@@ -130,94 +130,22 @@ Antimicrobial Activity
 
 Meropenem has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections [see Indications and Usage (1)].
 
-Gram-positive bacteria
+Gram-positive bacteria Enterococcus faecalis (vancomycin-susceptible isolates only) Staphylococcus aureus (methicillin-susceptible isolates only) Streptococcus agalactiae Streptococcus pneumoniae (penicillin-susceptible isolates only) Streptococcus pyogenes Viridans group streptococci
 
-Enterococcus faecalis (vancomycin-susceptible isolates only) Staphylococcus aureus (methicillin-susceptible isolates only) Streptococcus agalactiae Streptococcus pneumoniae (penicillin-susceptible isolates only) Streptococcus pyogenes Viridans group streptococci
+Gram-negative bacteria Escherichia coli Haemophilus influenzae Klebsiella pneumoniae Neisseria meningitidis Proteus mirabilis Pseudomonas aeruginosa
 
-Gram-negative bacteria
-
-Escherichia coli Haemophilus influenzae Klebsiella pneumoniae Neisseria meningitidis Proteus mirabilis Pseudomonas aeruginosa
-
-Anaerobic bacteria
-
-Bacteroides fragilis Bacteroides thetaiotaomicron Peptostreptococcus species
+Anaerobic bacteria Bacteroides fragilis Bacteroides thetaiotaomicron Peptostreptococcus species
 
 The following in vitro data are available, but their clinical significance is unknown.
 At least 90% of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for meropenem against isolates of similar genus or organism group.
 However, the efficacy of meropenem in treating clinical infections caused by these bacteria have not been established in adequate and well-controlled clinical trials.
 
-Gram-positive bacteria
+Gram-positive bacteria Staphylococcus epidermidis (methicillin-susceptible isolates only)
 
-Staphylococcus epidermidis (methicillin-susceptible isolates only)
+Gram-negative bacteria Aeromonas hydrophila Campylobacter jejuni Citrobacter freundii Citrobacter koseri Enterobacter cloacae Hafnia alvei Klebsiella oxytoca Moraxella catarrhalis Morganella morganii Pasteurella multocida Proteus vulgaris Serratia marcescens
 
-Gram-negative bacteria
+Anaerobic bacteria Bacteroides ovatus Bacteroides uniformis Bacteroides ureolyticus Bacteroides vulgatus Clostridium difficile Clostridium perfringens Eggerthella lenta Fusobacterium species Parabacteroides distasonis Porphyromonas asaccharolytica Prevotella bivia Prevotella intermedia Prevotella melaninogenica Propionibacterium acnes
 
-Aeromonas hydrophila Campylobacter jejuni Citrobacter freundii Citrobacter koseri Enterobacter cloacae Hafnia alvei Klebsiella oxytoca Moraxella catarrhalis Morganella morganii Pasteurella multocida Proteus vulgaris Serratia marcescens
+Susceptibility Testing
 
-Anaerobic bacteria
-
-Bacteroides ovatus Bacteroides uniformis Bacteroides ureolyticus Bacteroides vulgatus Clostridium difficile Clostridium perfringens Eggerthella lenta Fusobacterium species Parabacteroides distasonis Porphyromonas asaccharolytica Prevotella bivia Prevotella intermedia Prevotella melaninogenica Propionibacterium acnes
-
-Susceptibility Test Methods
-
-When available, the clinical microbiology laboratory should provide cumulative reports of in vitro susceptibility test results for antimicrobial drugs used in local hospitals and practice areas as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
-These reports should aid in the selection of an appropriate antibacterial drug for treatment.
-
-Dilution Techniques:
-
-Quantitative methods are used to determine antimicrobial MICs.
-These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized test method (broth or agar).1,3 The MIC values should be interpreted according to the criteria provided in Table 7.
-
-Diffusion Techniques:
-
-Quantitative methods that require measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-The zone size should be determined using a standardized test method.2,3 This procedure uses paper disks impregnated with 10-mcg of meropenem to test the susceptibility of bacteria to meropenem.
-The disk diffusion breakpoints are provided in Table 7.
-
-Anaerobic Techniques:
-
-For anaerobic bacteria, the susceptibility to meropenem can be determined by a standardized test method.2,4 The MIC values obtained should be interpreted according to the criteria provided in Table 7.
-
-Table 7: Susceptibility Test Interpretive Criteria for Meropenem
-
-| Pathogen | S | I | R | S | I | R |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion (zone diameters in mm) |  |  |
-| Enterobacteriaceae | ≤ 1 | 2 | ≥ 4 | ≥ 23 | 20–22 | ≤ 19 |
-| Pseudomonas aeruginosaThe interpretive criteria for P. aeruginosa are based upon the dosing of 1g every 8 hours. | ≤ 2 | 4 | ≥ 8 | ≥ 19 | 16–18 | ≤ 15 |
-| Haemophilus influenzaeThe current absence of data on resistant isolates precludes defining any category other than "Susceptible". If isolates yield MIC results other than susceptible, they should be submitted to a reference laboratory for additional testing. | ≤ 0.5 | — | — | ≥ 20 | — | — |
-| Neisseria meningitidis | ≤ 0.25 | — | — | ≥ 30 | — | — |
-| Streptococcus pneumoniaeFor nonmeningitis isolates of S. pneumoniae a penicillin MIC of ≤ 0.06 mcg/mL or oxacillin zone ≥ 20 mm can predict susceptibility to meropenem. MIC testing should be performed on isolates that do not test as susceptible by either of these methods, and on all meningitis S. pneumoniae isolates.,Reliable disk diffusion tests for meropenem do not yet exist for testing streptococci. | ≤ 0.25 | 0.5 | ≥ 1 | — | — | — |
-| Streptococcus agalactiae and Streptococcus pyogenes, | ≤ 0.5 | — | — | — | — | — |
-| Viridans group streptococci, | ≤ 0.5 | — | — | — | — | — |
-| AnaerobesMIC values using either Brucella blood or Wilkins Chalgren agar (former reference medium) are considered equivalent, Broth microdilution is only recommended for testing the B. fragilis group. MIC values for agar or broth microdilution are considered equivalent for that group. | ≤ 4 | 8 | ≥ 16 | — | — | — |
-| S = Susceptible, I = Intermediate, R = Resistant No interpretative criteria have been established for testing enterococci. Susceptibility of staphylococci to meropenem may be deduced from testing either cefoxitin or oxacillin. |  |  |  |  |  |  |
-
-A report of Susceptible indicates that the antimicrobial drug is likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
-A report of Intermediate indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
-This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where a high dosage of drug can be used.
-This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of Resistant indicates that the antimicrobial drug is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches concentrations usually achievable at the infection site; other therapy should be selected.
-
-Quality Control
-
-Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.1,2,3,4 Standard meropenem powder should provide the following range of MIC values noted in Table 8.
-For the diffusion technique using the 10-mcg meropenem disk, the criteria in Table 8 should be achieved.
-
-Table 8: Acceptable Quality Control Ranges for Meropenem
-
-| Quality Control Strain | Minimum Inhibitory Concentrations (mcg/mL) | Disk Diffusion (Zone diameters in mm) |
-| --- | --- | --- |
-| Staphylococcus aureus ATCC 29213 | 0.03–0.12 | — |
-| Staphylococcus aureus ATCC 25923 | — | 29–37 |
-| Streptococcus pneumoniae ATCC 49619 | 0.03–0.25 | 28–35 |
-| Enterococcus faecalis ATCC 29212 | 2–8 |  |
-| Escherichia coli ATCC 25922 | 0.008–0.06 | 28–35 |
-| Haemophilus influenzae ATCC 49766 | 0.03–0.12 |  |
-| Haemophilus influenzae ATCC 49247 | — | 20–28 |
-| Pseudomonas aeruginosa ATCC 27853 | 0.12–1 | 27–33 |
-| Bacteroides fragilisUsing the Reference Agar Dilution procedure. ATCC=American Type Culture Collection ATCC 25285 | 0.03–0.25 |  |
-| Bacteroides thetaiotaomicron ATCC 29741 | 0.125–0.5 |  |
-| Eggerthella lenta ATCC 43055 | 0.125–1 |  |
-| Clostridium difficile ATCC 700057 | 0.5–4 |  |
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
