@@ -1,4 +1,5 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-No information is available on overdosage in humans.
+Very limited information exists on accidental ingestion of brimonidine in adults; the only adverse reaction reported to date has been hypotension.
+Symptoms of brimonidine overdose have been reported in neonates, infants, and children receiving brimonidine tartrate as part of medical treatment of congenital glaucoma or by accidental oral ingestion [see (8.4) Use In Specific Populations].
 Treatment of an oral overdose includes supportive and symptomatic therapy; a patent airway should be maintained.
