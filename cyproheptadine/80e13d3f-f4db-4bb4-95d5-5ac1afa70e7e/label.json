@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA040537"
+  ],
+  "inn": "cyproheptadine",
+  "labeler": "Impax Generics",
+  "package_ndcs": [
+    "0115-1757-01",
+    "0115-1757-03"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "cyproheptadine hydrochloride",
+      "name": "Cyproheptadine Hydrochloride"
+    }
+  ],
+  "setid": "80e13d3f-f4db-4bb4-95d5-5ac1afa70e7e",
+  "source": "dailymed"
+}
