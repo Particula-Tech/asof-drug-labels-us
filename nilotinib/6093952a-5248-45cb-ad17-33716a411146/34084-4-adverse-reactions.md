@@ -318,3 +318,10 @@ The adverse reactions leading to discontinuation were hyperbilirubinemia (6%) an
 
 Increase in QTcF greater than 30 msec from baseline was observed in 17 patients (25%).
 No patient had an absolute QTcF of greater than 500 msec or QTcF increase of greater than 60 msec from baseline.
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post approval use of Tasigna.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Blood and Lymphatic System Disorders: thrombotic microangiopathy
