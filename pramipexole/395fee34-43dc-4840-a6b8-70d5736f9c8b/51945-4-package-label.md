@@ -12,8 +12,6 @@ Rx only
 
 PHARMACIST: Dispense the accompanying Patient Information to each patient
 
-# Package/Label Display Panel
-
 NDC 50228-126-10
 
 PramipexoleDihydrochloride Tablets
@@ -25,8 +23,6 @@ Rx only
 1000 Tablets
 
 PHARMACIST: Dispense the accompanying Patient Information to each patient
-
-# Package/Label Display Panel
 
 NDC 50228-127-90
 
@@ -40,8 +36,6 @@ Rx only
 
 PHARMACIST: Dispense the accompanying Patient Information to each patient
 
-# Package/Label Display Panel
-
 NDC 50228-127-10
 
 PramipexoleDihydrochloride Tablets
@@ -53,8 +47,6 @@ Rx only
 1000 Tablets
 
 PHARMACIST: Dispense the accompanying Patient Information to each patient
-
-# Package/Label Display Panel
 
 NDC 50228-128-90
 
@@ -68,8 +60,6 @@ Rx only
 
 PHARMACIST: Dispense the accompanying Patient Information to each patient
 
-# Package/Label Display Panel
-
 NDC 50228-128-10
 
 PramipexoleDihydrochloride Tablets
@@ -81,8 +71,6 @@ Rx only
 1000 Tablets
 
 PHARMACIST: Dispense the accompanying Patient Information to each patient
-
-# Package/Label Display Panel
 
 NDC 50228-129-90
 
@@ -96,8 +84,6 @@ Rx only
 
 PHARMACIST: Dispense the accompanying Patient Information to each patient
 
-# Package/Label Display Panel
-
 NDC 50228-129-10
 
 PramipexoleDihydrochloride Tablets
@@ -109,8 +95,6 @@ Rx only
 1000 Tablets
 
 PHARMACIST: Dispense the accompanying Patient Information to each patient
-
-# Package/Label Display Panel
 
 NDC 50228-130-90
 
@@ -124,8 +108,6 @@ Rx only
 
 PHARMACIST: Dispense the accompanying Patient Information to each patient
 
-# Package/Label Display Panel
-
 NDC 50228-130-10
 
 PramipexoleDihydrochloride Tablets
@@ -138,8 +120,6 @@ Rx only
 
 PHARMACIST: Dispense the accompanying Patient Information to each patient
 
-# Package/Label Display Panel
-
 NDC 50228-131-90
 
 PramipexoleDihydrochloride Tablets
@@ -151,8 +131,6 @@ Rx only
 90 Tablets
 
 PHARMACIST: Dispense the accompanying Patient Information to each patient
-
-# Package/Label Display Panel
 
 NDC 50228-131-10
 

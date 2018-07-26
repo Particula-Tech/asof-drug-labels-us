@@ -7,6 +7,7 @@ Although many of these patients reported somnolence while on pramipexole tablets
 Some of these events had been reported as late as one year after the initiation of treatment.
 
 Somnolence is a common occurrence in patients receiving pramipexole at doses above 1.5 mg/day (0.5 mg three times a day) for Parkinson’s disease.
+In controlled clinical trials in RLS, patients treated with pramipexole dihydrochloride tablets at doses of 0.25 to 0.75 mg once a day, the incidence of somnolence was 6% compared to an incidence of 3% for placebo-treated patients [see Adverse Reactions (6.1)].
 It has been reported that falling asleep while engaged in activities of daily living usually occurs in a setting of pre-existing somnolence, although patients may not give such a history.
 For this reason, prescribers should reassess patients for drowsiness or sleepiness, especially since some of the events occur well after the start of treatment.
 Prescribers should also be aware that patients may not acknowledge drowsiness or sleepiness until directly questioned about drowsiness or sleepiness during specific activities.
@@ -19,14 +20,15 @@ While dose reduction reduces the degree of somnolence, there is insufficient inf
 ## 5.2 Symptomatic Orthostatic Hypotension
 
 Dopamine agonists, in clinical studies and clinical experience, appear to impair the systemic regulation of blood pressure, with resulting orthostatic hypotension, especially during dose escalation.
-Parkinson's disease patients, in addition, appear to have an impaired capacity to respond to an orthostatic challenge.
-For these reasons, Parkinson's disease patients being treated with dopaminergic agonists ordinarily require careful monitoring for signs and symptoms of orthostatic hypotension, especially during dose escalation, and should be informed of this risk.
+Parkinson’s disease patients, in addition, appear to have an impaired capacity to respond to an orthostatic challenge.
+For these reasons, both Parkinson’s disease patients and RLS patients being treated with dopaminergic agonists ordinarily require careful monitoring for signs and symptoms of orthostatic hypotension, especially during dose escalation, and should be informed of this risk.
 
 In clinical trials of pramipexole, however, and despite clear orthostatic effects in normal volunteers, the reported incidence of clinically significant orthostatic hypotension was not greater among those assigned to pramipexole tablets than among those assigned to placebo.
 This result, especially with the higher doses used in Parkinson’s disease, is clearly unexpected in light of the previous experience with the risks of dopamine agonist therapy.
 
 While this finding could reflect a unique property of pramipexole, it might also be explained by the conditions of the study and the nature of the population enrolled in the clinical trials.
 Patients were very carefully titrated, and patients with active cardiovascular disease or significant orthostatic hypotension at baseline were excluded.
+Also, clinical trials in patients with RLS did not incorporate orthostatic challenges with intensive blood pressure monitoring done in close temporal proximity to dosing.
 
 ## 5.3 Impulse Control/Compulsive Behaviors
 
@@ -42,30 +44,41 @@ In the four double-blind, placebo-controlled trials in advanced Parkinson’s di
 Hallucinations were of sufficient severity to cause discontinuation of treatment in 3.1% of the early Parkinson’s disease patients and 2.7% of the advanced Parkinson's disease patients compared with about 0.4% of placebo patients in both populations.
 
 Age appears to increase the risk of hallucinations attributable to pramipexole.
-In the early Parkinson's disease patients, the risk of hallucinations was 1.9 times greater than placebo in patients younger than 65 years and 6.8 times greater than placebo in patients older than 65 years.
+In the early Parkinson’s disease patients, the risk of hallucinations was 1.9 times greater than placebo in patients younger than 65 years and 6.8 times greater than placebo in patients older than 65 years.
 In the advanced Parkinson's disease patients, the risk of hallucinations was 3.5 times greater than placebo in patients younger than 65 years and 5.2 times greater than placebo in patients older than 65 years.
 
 Postmarketing reports with medication used to treat Parkinson’s disease, including pramipexole, indicate that patients may experience new or worsening mental status and behavioral changes, which may be severe, including psychotic-like behavior during treatment with pramipexole or after starting or increasing the dose of pramipexole.
 Other drugs prescribed to improve the symptoms of Parkinson’s disease can have similar effects on thinking and behavior.
 This abnormal thinking and behavior can consist of one or more of a variety of manifestations including paranoid ideation, delusions, hallucinations, confusion, psychotic-like behavior, disorientation, aggressive behavior, agitation, and delirium.
+
 Patients with a major psychotic disorder should ordinarily not be treated with dopamine agonists, including pramipexole, because of the risk of exacerbating the psychosis.
 In addition, certain medications used to treat psychosis may exacerbate the symptoms of Parkinson’s disease and may decrease the effectiveness of pramipexole [see Drug Interactions (7.1)].
 
+In the RLS clinical trials, one pramipexole-treated patient (of 889) reported hallucinations; this patient discontinued treatment and the symptoms resolved.
+
 ## 5.5 Dyskinesia
 
-Pramipexole dihydrochloride tablets may potentiate the dopaminergic side effects of levodopa and may cause or exacerbate preexisting dyskinesia.
+Pramipexole dihydrochloride tablets may cause or exacerbate preexisting dyskinesia.
 
-## 5.6 Renal Impairment
+## 5.6 Postural Deformity
+
+Postural deformities, including antecollis, camptocormia (Bent Spine Syndrome), and pleurothotonus (Pisa Syndrome), have been reported in patients after starting or increasing the dose of pramipexole.
+Postural deformity may occur several months after starting treatment or increasing the dose.
+Reducing the dose or discontinuing pramipexole has been reported to improve postural deformity in some patients, and should be considered if postural deformity occurs.
+
+## 5.7 Renal Impairment
 
 Since pramipexole is eliminated through the kidneys, caution should be exercised when prescribing pramipexole dihydrochloride tablets to patients with renal impairment [see Dosage and Administration (2.3), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
 
-## 5.7 Rhabdomyolysis
+## 5.8 Rhabdomyolysis
 
-A single case of rhabdomyolysis occurred in a 49-year-old male with advanced Parkinson's disease treated with pramipexole dihydrochloride tablets.
+A single case of rhabdomyolysis occurred in a 49-year-old male with advanced Parkinson’s disease treated with pramipexole dihydrochloride tablets.
 The patient was hospitalized with an elevated CPK (10,631 IU/L).
 The symptoms resolved with discontinuation of the medication.
 
-## 5.8 Retinal Pathology
+Advise patients to contact a physician if they experience any unexplained muscle pain, tenderness, or weakness, as these may be symptoms of rhabdomyolysis.
+
+## 5.9 Retinal Pathology
 
 Human Data A two-year open-label, randomized, parallel-group safety study of retinal deterioration and vision compared pramipexole dihydrochloride tablets and immediate-release ropinirole.
 Two hundred thirty four Parkinson’s disease patients (115 on pramipexole, mean dose 3.0 mg/day and 119 on ropinirole, mean dose 9.5 mg/day) were evaluated using a panel of clinical ophthalmological assessments.
@@ -78,7 +91,7 @@ While retinal degeneration was not diagnosed in pigmented rats treated for 2 yea
 Evaluation of the retinas of albino mice, monkeys, and minipigs did not reveal similar changes.
 The potential significance of this effect in humans has not been established, but cannot be disregarded because disruption of a mechanism that is universally present in vertebrates (i.e., disk shedding) may be involved [see Nonclinical Toxicology (13.2)].
 
-## 5.9 Events Reported with Dopaminergic Therapy
+## 5.10 Events Reported with Dopaminergic Therapy
 
 Although the events enumerated below may not have been reported in association with the use of pramipexole in its development program, they are associated with the use of other dopaminergic drugs.
 The expected incidence of these events, however, is so low that even if pramipexole caused these events at rates similar to those attributable to other dopaminergic therapies, it would be unlikely that even a single case would have occurred in a cohort of the size exposed to pramipexole in studies to date.
@@ -95,8 +108,13 @@ Although these adverse events are believed to be related to the ergoline structu
 Cases of possible fibrotic complications, including peritoneal fibrosis, pleural fibrosis, and pulmonary fibrosis have been reported in the post marketing experience with pramipexole dihydrochloride tablets.
 While the evidence is not sufficient to establish a causal relationship between pramipexole dihydrochloride tablets and these fibrotic complications, a contribution of pramipexole dihydrochloride tablets cannot be completely ruled out.
 
-Melanoma Epidemiological studies have shown that patients with Parkinson’s disease have a higher risk (2- to approximately 6-fold higher) of developing melanoma than the general population.
-Whether the observed increased risk was due to Parkinson’s disease or other factors, such as drugs used to treat Parkinson’s disease, is unclear.
+Rebound and Augmentation in RLS Reports in the literature indicate treatment of RLS with dopaminergic medications can result in rebound: a worsening of symptoms following treatment cessation with greater intensity than described before starting treatment.
+In a 26 week placebo controlled clinical trial in patients with RLS, a worsening of symptoms scores (IRLS) beyond their untreated baseline levels was reported more frequently by patients suddenly withdrawn from pramipexole dihydrochloride tablets (up to 0.75 mg once daily) compared to the group assigned to placebo (10% vs. 2%, respectively).
+The worsening of RLS symptoms was considered generally mild.
 
-For the reasons stated above, patients and providers are advised to monitor for melanomas frequently and on a regular basis when using pramipexole dihydrochloride tablets for any indication.
-Ideally, periodic skin examinations should be performed by appropriately qualified individuals (e.g., dermatologists).
+Augmentation has also been described during therapy for RLS.
+Augmentation refers to the earlier onset of symptoms in the evening (or even the afternoon), increase in symptoms, and spread of symptoms to involve other extremities.
+In a 26 week placebo controlled clinical trial in patients with RLS, augmentation was reported with greater frequency by patients treated with pramipexole dihydrochloride tablets (up to 0.75 mg once daily) compared to patients who received placebo (12% vs. 9%, respectively).
+The incidence of augmentation increased with increasing duration of exposure to pramipexole dihydrochloride tablets and to placebo.
+
+The frequency and severity of augmentation and/or rebound after longer-term use of pramipexole dihydrochloride tablets and the appropriate management of these events have not been adequately evaluated in controlled clinical trials.

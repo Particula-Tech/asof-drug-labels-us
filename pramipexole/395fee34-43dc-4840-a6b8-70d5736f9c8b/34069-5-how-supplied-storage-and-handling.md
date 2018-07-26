@@ -42,7 +42,7 @@ NDC 50228-131-10, bottle of 1000 tablets
 
 ## 16.2 Storage and Handling
 
-Store at 20ºC to 25ºC (68ºF to 77ºF); (see USP Controlled Room Temperature).
+Store at 20 ºC to 25ºC (68 ºF to 77ºF); (see USP controlled Room Temperature).
 Protect from light.
 
 Store in a safe place out of the reach of children.

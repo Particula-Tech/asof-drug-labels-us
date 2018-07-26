@@ -6,11 +6,11 @@ Risk Summary There are no adequate data on the developmental risk associated wit
 No adverse developmental effects were observed in animal studies in which pramipexole was administered to rabbits during pregnancy.
 Effects on embryofetal development could not be adequately assessed in pregnant rats; however, postnatal growth was inhibited at clinically relevant exposures [see Data].
 
-In the U.S. general population, the estimated background risk of major birth defects and of miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and of miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 
 Data Animal Data Oral administration of pramipexole (0.1, 0.5, or 1.5 mg/kg/day) to pregnant rats during the period of organogenesis resulted in a high incidence of total resorption of embryos at the highest dose tested.
-This increase in embryolethality is thought to result from the prolactin-lowering effect of pramipexole; prolactin is necessary for implantation and maintenance of early pregnancy in rats but not rabbits or humans.
+This increase in embryolethality is thought to result from the prolactin-lowering effect of pramipexole; prolactin is necessary for implantation and maintenance of early pregnancy in rats but not in rabbits or humans.
 Because of pregnancy disruption and early embryonic loss in this study, the teratogenic potential of pramipexole could not be adequately assessed in rats.
 The highest no-effect dose for embryolethality in rats was associated with maternal plasma drug exposures (AUC) approximately equal to those in humans receiving the maximum recommended human dose (MRHD) of 4.5 mg/day.
 There were no adverse effects on embryo-fetal development following oral administration of pramipexole (0.1, 1, and 10 mg/kg/day) to pregnant rabbits during organogenesis (plasma AUC up to approximately 70 times that in humans at the MRHD).
@@ -39,8 +39,11 @@ This resulted in an increase in elimination half-life from approximately 8.5 hou
 In clinical studies with Parkinson’s disease patients, 38.7% of patients were older than 65 years.
 There were no apparent differences in efficacy or safety between older and younger patients, except that the relative risk of hallucination associated with the use of pramipexole dihydrochloride tablets was increased in the elderly.
 
+In clinical studies with RLS patients, 22% of patients were at least 65 years old.
+There were no apparent differences in efficacy or safety between older and younger patients.
+
 ## 8.6 Renal Impairment
 
 The elimination of pramipexole is dependent on renal function.
 Pramipexole clearance is extremely low in dialysis patients, as a negligible amount of pramipexole is removed by dialysis.
-Caution should be exercised when administering pramipexole dihydrochloride tablets to patients with renal disease [see Dosage and Administration (2.2), Warnings and Precautions (5.6), and Clinical Pharmacology (12.3)].
+Caution should be exercised when administering pramipexole dihydrochloride tablets to patients with renal disease [see Dosage and Administration (2.2),Warnings and Precautions (5.7), and Clinical Pharmacology (12.3)].

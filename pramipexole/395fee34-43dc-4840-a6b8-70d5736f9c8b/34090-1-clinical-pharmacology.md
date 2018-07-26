@@ -4,15 +4,19 @@
 
 Pramipexole is a non-ergot dopamine agonist with high relative in vitro specificity and full intrinsic activity at the D2 subfamily of dopamine receptors, binding with higher affinity to D3 than to D2 or D4 receptor subtypes.
 
-Parkinson’s Disease The precise mechanism of action of pramipexole as a treatment for Parkinson's disease is unknown, although it is believed to be related to its ability to stimulate dopamine receptors in the striatum.
+Parkinson’s Disease The precise mechanism of action of pramipexole as a treatment for Parkinson’s disease is unknown, although it is believed to be related to its ability to stimulate dopamine receptors in the striatum.
 This conclusion is supported by electrophysiologic studies in animals that have demonstrated that pramipexole influences striatal neuronal firing rates via activation of dopamine receptors in the striatum and the substantia nigra, the site of neurons that send projections to the striatum.
 The relevance of D3 receptor binding in Parkinson’s disease is unknown.
+
+Restless Legs Syndrome (RLS) The precise mechanism of action of pramipexole dihydrochloride tablets as a treatment for RLS is unknown.
+Although the pathophysiology of RLS is largely unknown, neuropharmacological evidence suggests primary dopaminergic system involvement.
+Positron Emission Tomographic (PET) studies suggest that a mild striatal presynaptic dopaminergic dysfunction may be involved in the pathogenesis of RLS.
 
 ## 12.2 Pharmacodynamics
 
 The effect of pramipexole on the QT interval of the ECG was investigated in a clinical study in 60 healthy male and female volunteers.
 All subjects initiated treatment with 0.375 mg extended release pramipexole tablets administered once daily, and were up-titrated every 3 days to 2.25 mg and 4.5 mg daily, a faster rate of titration than recommended in the label.
-No dose- or exposure-related effect on mean QT intervals was observed; however the study did not have a valid assessment of assay sensitivity.
+No dose- or exposure-related effect on mean QT intervals was observed; however, the study did not have a valid assessment of assay sensitivity.
 The effect of pramipexole on QTc intervals at higher exposures achieved either due to drug interactions (e.g., with cimetidine), renal impairment, or at higher doses has not been systematically evaluated.
 
 Although mean values remained within normal reference ranges throughout the study, supine systolic blood pressure (SBP), diastolic blood pressure (DBP), and pulse rate for subjects treated with pramipexole generally increased during the rapid up-titration phase, by 10 mmHg, 7 mmHg, and 10 bpm higher than placebo, respectively.
@@ -51,14 +55,16 @@ This difference is most likely due to the reduction in renal function with age, 
 
 Race No racial differences in metabolism and elimination have been identified.
 
-Parkinson's Disease Patients A cross-study comparison of data suggests that the clearance of pramipexole may be reduced by about 30% in Parkinson's disease patients compared with healthy elderly volunteers.
-The reason for this difference appears to be reduced renal function in Parkinson's disease patients, which may be related to their poorer general health.
-The pharmacokinetics of pramipexole were comparable between early and advanced Parkinson's disease patients.
+Parkinson’s Disease Patients A cross-study comparison of data suggests that the clearance of pramipexole may be reduced by about 30% in Parkinson’s disease patients compared with healthy elderly volunteers.
+The reason for this difference appears to be reduced renal function in Parkinson’s disease patients, which may be related to their poorer general health.
+The pharmacokinetics of pramipexole were comparable between early and advanced Parkinson’s disease patients.
+
+Restless Legs Syndrome Patients A cross-study comparison of data suggests that the pharmacokinetic profile of pramipexole administered once daily in RLS patients is similar to the pharmacokinetic profile of pramipexole in healthy volunteers.
 
 Hepatic Impairment The influence of hepatic insufficiency on pramipexole pharmacokinetics has not been evaluated.
 Because approximately 90% of the recovered dose is excreted in the urine as unchanged drug, hepatic impairment would not be expected to have a significant effect on pramipexole elimination.
 
-Renal Impairment Clearance of pramipexole was about 75% lower in patients with severe renal impairment (creatinine clearance approximately 20 mL/min) and about 60% lower in patients with moderate impairment (creatinine clearance approximately 40 mL/min) compared with healthy volunteers [see Warnings and Precautions (5.6) and Dosage and Administration (2.2)].
+Renal Impairment Clearance of pramipexole was about 75% lower in patients with severe renal impairment (creatinine clearance approximately 20 mL/min) and about 60% lower in patients with moderate impairment (creatinine clearance approximately 40 mL/min) compared with healthy volunteers [see Warnings and Precautions (5.7) and Dosage and Administration (2.2)].
 In patients with varying degrees of renal impairment, pramipexole clearance correlates well with creatinine clearance.
 Therefore, creatinine clearance can be used as a predictor of the extent of decrease in pramipexole clearance.
 
@@ -78,4 +84,4 @@ Other known organic cation transport substrates and/or inhibitors (e.g., cisplat
 
 CYP interactions: Inhibitors of cytochrome P450 enzymes would not be expected to affect pramipexole elimination because pramipexole is not appreciably metabolized by these enzymes in vivo or in vitro.
 Pramipexole does not inhibit CYP enzymes CYP1A2, CYP2C9, CYP2C19, CYP2E1, and CYP3A4.
-Inhibition of CYP2D6 was observed with an apparent Ki of 30 µM, indicating that pramipexole will not inhibit CYP enzymes at plasma concentrations observed following the clinical dose of 4.5 mg/day (1.5 mg TID).
+Inhibition of CYP2D6 was observed with an apparent Ki of 30 μM, indicating that pramipexole will not inhibit CYP enzymes at plasma concentrations observed following the clinical dose of 4.5 mg/day (1.5 mg TID).
