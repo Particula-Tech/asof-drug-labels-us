@@ -38,11 +38,11 @@ Manufactured for:
 
 Heritage Pharmaceuticals Inc.
 
-Eatontown, NJ 07724
+East Brunswick, NJ 08816
 
 1.866.901.DRUG (3784)
 
-Revised: 09/2016
+Revised: 11/2017
 
 Patient Information Leaflet
 
@@ -156,10 +156,10 @@ Manufactured for:
 
 Heritage Pharmaceuticals Inc.
 
-Eatontown, NJ 07724
+East Brunswick, NJ 08816
 
 1.866.901.DRUG (3784)
 
-51U000000240US03
+51U000000240US04
 
-Revised: 09/2016
+Revised: 11/2017
