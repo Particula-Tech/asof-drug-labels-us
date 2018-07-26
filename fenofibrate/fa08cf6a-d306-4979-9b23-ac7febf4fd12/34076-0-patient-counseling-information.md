@@ -15,5 +15,5 @@ Patients should be advised:
 
 Dist. by: Impax Generics Hayward, CA 94544
 
-295-10 Rev.
-03/2017
+295-11 Rev.
+04/2018

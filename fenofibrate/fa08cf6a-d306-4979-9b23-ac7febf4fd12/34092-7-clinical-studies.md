@@ -7,7 +7,7 @@ Fenofibrate tablets therapy lowered LDL-C, Total-C, and the LDL-C/HDL-C ratio.
 Fenofibrate tablets therapy also lowered triglycerides and raised HDL-C (see Table 4).
 
 Table 4.
-Mean Percent Change in Lipid Parameters at End of Treatment †
+Mean Percent Change in Lipid Parameters at End of TreatmentDuration of study treatment was 3 to 6 months.
 
 | Treatment Group | Total-C | LDL-C | HDL-C | TG |
 | --- | --- | --- | --- | --- |
