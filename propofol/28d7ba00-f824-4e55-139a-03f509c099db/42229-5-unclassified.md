@@ -15,8 +15,8 @@ Propofol injectable emulsion vials are never to be accessed more than once or us
 
 (see WARNINGS and DOSAGE AND ADMINISTRATION, Handling Procedures).
 
-Hospira, Inc., Lake Forest, IL 60045 USA
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-1056-1.0
+LAB-1056-2.0
 
-07/2017
+07/2018
