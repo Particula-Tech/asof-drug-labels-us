@@ -14,6 +14,6 @@ Table 1 Monthly Required iPLEDGE Interactions
 | PATIENT |  |  |
 | Answers educational questions before | X |  |
 | every prescription |  |  |
-| Enters 2 forms of contraception | X |  |
+| Enters 2 methods of contraception | X |  |
 | PHARMACIST |  |  |
 | Contacts system to get an authorization | X | X |

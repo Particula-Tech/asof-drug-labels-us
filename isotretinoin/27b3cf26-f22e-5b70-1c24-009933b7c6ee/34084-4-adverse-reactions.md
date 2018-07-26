@@ -2,9 +2,9 @@
 
 ## Clinical Trials and Post-marketing Surveillance
 
-The adverse reactions listed below reflect the experience from investigational studies of Zenatane, and the post-marketing experience.
-The relationship of some of these events to Zenatane therapy is unknown.
-Many of the side effects and adverse reactions seen in patients receiving Zenatane are similar to those described in patients taking very high doses of vitamin A (dryness of the skin and mucous membranes, e.g., of the lips, nasal passage, and eyes).
+The adverse reactions listed below reflect the experience from investigational studies of Zenatane, and the post-marketing experience.
+The relationship of some of these events to Zenatane therapy is unknown.
+Many of the side effects and adverse reactions seen in patients receiving Zenatane are similar to those described in patients taking very high doses of vitamin A (dryness of the skin and mucous membranes, e.g., of the lips, nasal passage, and eyes).
 
 ## Dose Relationship
 
@@ -48,7 +48,7 @@ Of the patients reporting depression, some reported that the depression subsided
 
 Reproductive System
 
-Abnormal menses
+abnormal menses
 
 Respiratory
 

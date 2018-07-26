@@ -2,80 +2,81 @@
 
 ## Psychiatric Disorders
 
-Zenatane ay cause depression, psychosis and, rarely, suicidal ideation, suicide attempts, suicide, and aggressive and/or violent behaviors.
+Zenatane ay cause depression, psychosis and, rarely, suicidal ideation, suicide attempts, suicide, and aggressive and/or violent behaviors.
 No mechanism of action has been established for these events (see ADVERSE REACTIONS: Psychiatric).
-Prescribers should read the brochure, Recognizing Psychiatric Disorders in Adolescents and Young Adults: A Guide for Prescribers of Isotretinoin.Prescribers should be alert to the warning signs of psychiatric disorders to guide patients to receive the help they need.
-Therefore, prior to initiation of Zenatane therapy, patients and family members should be asked about any history of psychiatric disorder, and at each visit during therapy patients should be assessed for symptoms of depression, mood disturbance, psychosis, or aggression to determine if further evaluation may be necessary.
+Prescribers should read the brochure, Recognizing Psychiatric Disorders in Adolescents and Young Adults: A Guide for Prescribers of Isotretinoin.
+Prescribers should be alert to the warning signs of psychiatric disorders to guide patients to receive the help they need.
+Therefore, prior to initiation of Zenatane therapy, patients and family members should be asked about any history of psychiatric disorder, and at each visit during therapy patients should be assessed for symptoms of depression, mood disturbance, psychosis, or aggression to determine if further evaluation may be necessary.
 Signs and symptoms of depression, as described in the brochure (“Recognizing Psychiatric Disorders in Adolescents and Young Adults”), include sad mood, hopelessness, feelings of guilt, worthlessness or helplessness, loss of pleasure or interest in activities, fatigue, difficulty concentrating, change in sleep pattern, change in weight or appetite, suicidal thoughts or attempts, restlessness, irritability, acting on dangerous impulses, and persistent physical symptoms unresponsive to treatment.
-Patients should stop Zenatane and the patient or a family member should promptly contact their prescriber if the patient develops depression, mood disturbance, psychosis, or aggression, without waiting until the next visit.
-Discontinuation of Zenatane therapy may be insufficient; further evaluation may be necessary.
+Patients should stop Zenatane and the patient or a family member should promptly contact their prescriber if the patient develops depression, mood disturbance, psychosis, or aggression, without waiting until the next visit.
+Discontinuation of Zenatane therapy may be insufficient; further evaluation may be necessary.
 While such monitoring may be helpful, it may not detect all patients at risk.
 Patients may report mental health problems or family history of psychiatric disorders.
 These reports should be discussed with the patient and/or the patient’s family.
 A referral to a mental health professional may be necessary.
-The physician should consider whether Zenatane is appropriate in this setting; for some patients the risks may outweigh the benefits of Zenatane therapy.
+The physician should consider whether Zenatane is appropriate in this setting; for some patients the risks may outweigh the benefits of Zenatane therapy.
 
 ## Pseudotumor Cerebri
 
-Zenatane use has been associated with a number of cases of pseudotumor cerebri (benign intracranial hypertension), some of which involved concomitant use of tetracyclines.
+Zenatane use has been associated with a number of cases of pseudotumor cerebri (benign intracranial hypertension), some of which involved concomitant use of tetracyclines.
 Concomitant treatment with tetracyclines should therefore be avoided.
 Early signs and symptoms of pseudotumor cerebri include papilledema, headache, nausea and vomiting, and visual disturbances.
-Patients with these symptoms should be screened for papilledema and, if present, they should be told to discontinue Zenatane immediately and be referred to a neurologist for further diagnosis and care (see ADVERSE REACTIONS: Neurological).
+Patients with these symptoms should be screened for papilledema and, if present, they should be told to discontinue Zenatane immediately and be referred to a neurologist for further diagnosis and care (see ADVERSE REACTIONS: Neurological).
 
 ## Serious Skin Reactions
 
 There have been post-marketing reports of erythema multiforme and severe skin reactions [eg, Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN)] associated with isotretinoin use.
 These events may be serious and result in death, life-threatening events, hospitalization, or disability.
-Patients should be monitored closely for severe skin reactions, and discontinuation of Zenatane should be considered if warranted.
+Patients should be monitored closely for severe skin reactions, and discontinuation of Zenatane should be considered if warranted.
 
 ## Pancreatitis
 
 Acute pancreatitis has been reported in patients with either elevated or normal serum triglyceride levels.
 In rare instances, fatal hemorrhagic pancreatitis has been reported.
-Zenatane should be stopped if hypertriglyceridemia cannot be controlled at an acceptable level or if symptoms of pancreatitis occur.
+Zenatane should be stopped if hypertriglyceridemia cannot be controlled at an acceptable level or if symptoms of pancreatitis occur.
 
 ## Lipids
 
-Elevations of serum triglycerides in excess of 800 mg/dL have been reported in patients treated with Zenatane.
-Marked elevations of serum triglycerides were reported in approximately 25% of patients receiving Zenatane in clinical trials.
+Elevations of serum triglycerides in excess of 800 mg/dL have been reported in patients treated with Zenatane.
+Marked elevations of serum triglycerides were reported in approximately 25% of patients receiving Zenatane in clinical trials.
 In addition, approximately 15% developed a decrease in high-density lipoproteins and about 7% showed an increase in cholesterol levels.
-In clinical trials, the effects on triglycerides, HDL, and cholesterol were reversible upon cessation of Zenatane therapy.
-Some patients have been able to reverse triglyceride elevation by reduction in weight, restriction of dietary fat and alcohol, and reduction in dose while continuing Zenatane 5.
+In clinical trials, the effects on triglycerides, HDL, and cholesterol were reversible upon cessation of Zenatane therapy.
+Some patients have been able to reverse triglyceride elevation by reduction in weight, restriction of dietary fat and alcohol, and reduction in dose while continuing Zenatane 5.
 
-Blood lipid determinations should be performed before Zenatane is given and then at intervals until the lipid response to Zenatane is established, which usually occurs within 4 weeks.
-Especially careful consideration must be given to risk/benefit for patients who may be at high risk during Zenatane therapy (patients with diabetes, obesity, increased alcohol intake, lipid metabolism disorder or familial history of lipid metabolism disorder).
-If Zenatane therapy is instituted, more frequent checks of serum values for lipids and/or blood sugar are recommended (see PRECAUTIONS: LaboratoryTests).
+Blood lipid determinations should be performed before Zenatane is given and then at intervals until the lipid response to Zenatane is established, which usually occurs within 4 weeks.
+Especially careful consideration must be given to risk/benefit for patients who may be at high risk during Zenatane therapy (patients with diabetes, obesity, increased alcohol intake, lipid metabolism disorder or familial history of lipid metabolism disorder).
+If Zenatane therapy is instituted, more frequent checks of serum values for lipids and/or blood sugar are recommended (see PRECAUTIONS: LaboratoryTests).
 
-The cardiovascular consequences of hypertriglyceridemia associated with Zenatane are unknown.
+The cardiovascular consequences of hypertriglyceridemia associated with Zenatane are unknown.
 
 Animal Studies: In rats given 8 or 32 mg/kg/day of isotretinoin (1.3 to 5.3 times the recommended clinical dose of 1.0 mg/kg/day after normalization for total body surface area) for 18 months or longer, the incidences of focal calcification, fibrosis and inflammation of the myocardium, calcification of coronary, pulmonary and mesenteric arteries, and metastatic calcification of the gastric mucosa were greater than in control rats of similar age.
 Focal endocardial and myocardial calcifications associated with calcification of the coronary arteries were observed in two dogs after approximately 6 to 7 months of treatment with isotretinoin at a dosage of 60 to 120 mg/kg/day (30 to 60 times the recommended clinical dose of 1.0 mg/kg/day, respectively, after normalization for total body surface area).
 
 ## Hearing Impairment
 
-Impaired hearing has been reported in patients taking Zenatane; in some cases, the hearing impairment has been reported to persist after therapy has been discontinued.
+Impaired hearing has been reported in patients taking Zenatane; in some cases, the hearing impairment has been reported to persist after therapy has been discontinued.
 Mechanism(s) and causality for this event have not been established.
-Patients who experience tinnitus or hearing impairment should discontinue Zenatane treatment and be referred for specialized care for further evaluation (see ADVERSEREACTIONS: SpecialSenses).
+Patients who experience tinnitus or hearing impairment should discontinue Zenatane treatment and be referred for specialized care for further evaluation (see ADVERSEREACTIONS: SpecialSenses).
 
 ## Hepatotoxicity
 
-Clinical hepatitis considered to be possibly or probably related to Zenatane therapy has been reported.
+Clinical hepatitis considered to be possibly or probably related to Zenatane therapy has been reported.
 Additionally, mild to moderate elevations of liver enzymes have been observed in approximately 15% of individuals treated during clinical trials, some of which normalized with dosage reduction or continued administration of the drug.
-If normalization does not readily occur or if hepatitis is suspected during treatment with Zenatane, the drug should be discontinued and the etiology further investigated.
+If normalization does not readily occur or if hepatitis is suspected during treatment with Zenatane, the drug should be discontinued and the etiology further investigated.
 
 ## Inflammatory Bowel Disease
 
-Zenatane has been associated with inflammatory bowel disease (including regional ileitis) in patients without a prior history of intestinal disorders.
-In some instances, symptoms have been reported to persist after Zenatane treatment has been stopped.
-Patients experiencing abdominal pain, rectal bleeding or severe diarrhea should discontinue Zenatane immediately (see ADVERSEREACTIONS: Gastrointestinal).
+Zenatane has been associated with inflammatory bowel disease (including regional ileitis) in patients without a prior history of intestinal disorders.
+In some instances, symptoms have been reported to persist after Zenatane treatment has been stopped.
+Patients experiencing abdominal pain, rectal bleeding or severe diarrhea should discontinue Zenatane immediately (see ADVERSEREACTIONS: Gastrointestinal).
 
 ## Skeletal
 
 Bone Mineral Density
 
-Effects of multiple courses of ZenataneTM on the developing musculoskeletal system are unknown.
+Effects of multiple courses of Zenatane on the developing musculoskeletal system are unknown.
 There is some evidence that long-term, high-dose, or multiple courses of therapy with isotretinoin have more of an effect than a single course of therapy on the musculoskeletal system.
-In an open-label clinical trial (N=217) of a single course of therapy with Zenatane for severe recalcitrant nodular acne, bone density measurements at several skeletal sites were not significantly decreased (lumbar spine change >-4% and total hip change >-5%) or were increased in the majority of patients.
+In an open-label clinical trial (N=217) of a single course of therapy with Zenatane for severe recalcitrant nodular acne, bone density measurements at several skeletal sites were not significantly decreased (lumbar spine change >-4% and total hip change >-5%) or were increased in the majority of patients.
 One patient had a decrease in lumbar spine bone mineral density >4% based on unadjusted data.
 Sixteen (7.9%) patients had decreases in lumbar spine bone mineral density >4%, and all the other patients (92%) did not have significant decreases or had increases (adjusted for body mass index).
 Nine patients (4.5%) had a decrease in total hip bone mineral density >5% based on unadjusted data.
@@ -85,53 +86,53 @@ Total hip bone mineral densities remained below baseline (range –1.6% to –7.
 
 In a separate open-label extension study of ten patients, ages 13 to 18 years, who started a second course of Zenatane 4 months after the first course, two patients showed a decrease in mean lumbar spine bone mineral density up to 3.25% (see PRECAUTIONS: Pediatric Use).
 
-Spontaneous reports of osteoporosis, osteopenia, bone fractures, and delayed healing of bone fractures have been seen in the Zenatane population.
-While causality to Zenatane has not been established, an effect cannot be ruled out.
+Spontaneous reports of osteoporosis, osteopenia, bone fractures, and delayed healing of bone fractures have been seen in the Zenatane population.
+While causality to Zenatane has not been established, an effect cannot be ruled out.
 Longer term effects have not been studied.
-It is important that Zenatane be given at the recommended doses for no longer than the recommended duration.
+It is important that Zenatane be given at the recommended doses for no longer than the recommended duration.
 
 Hyperostosis
 
 A high prevalence of skeletal hyperostosis was noted in clinical trials for disorders of keratinization with a mean dose of 2.24 mg/kg/day.
 Additionally, skeletal hyperostosis was noted in 6 of 8 patients in a prospective study of disorders of keratinization.6 Minimal skeletal hyperostosis and calcification of ligaments and tendons have also been observed by x-ray in prospective studies of nodular acne patients treated with a single course of therapy at recommended doses.
-The skeletal effects of multiple Zenatane treatment courses for acne are unknown.
+The skeletal effects of multiple Zenatane treatment courses for acne are unknown.
 
-In a clinical study of 217 pediatric patients (12 to 17 years) with severe recalcitrant nodular acne, hyperostosis was not observed after 16 to 20 weeks of treatment with approximately 1 mg/kg/day of Zenatane given in two divided doses.
+In a clinical study of 217 pediatric patients (12 to 17 years) with severe recalcitrant nodular acne, hyperostosis was not observed after 16 to 20 weeks of treatment with approximately 1 mg/kg/day of Zenatane given in two divided doses.
 Hyperostosis may require a longer time frame to appear.
 The clinical course and significance remain unknown.
 
 Premature Epiphyseal Closure
 
-There are spontaneous reports of premature epiphyseal closure in acne patients receiving recommended doses of Zenatane.
-The effect of multiple courses of Zenatane on epiphyseal closure is unknown.
+There are spontaneous reports of premature epiphyseal closure in acne patients receiving recommended doses of Zenatane.
+The effect of multiple courses of Zenatane on epiphyseal closure is unknown.
 
 ## Vision Impairment
 
 Visual problems should be carefully monitored.
-All Zenatane patients experiencing visual difficulties should discontinue Zenatane treatment and have an ophthalmological examination (see ADVAERSE REACTIONS: Special Senses).
+All Zenatane patients experiencing visual difficulties should discontinue Zenatane treatment and have an ophthalmological examination (see ADVAERSE REACTIONS: Special Senses).
 
 Corneal Opacities
 
-Corneal opacities have occurred in patients receiving Zenatane for acne and more frequently when higher drug dosages were used in patients with disorders of keratinization.
-The corneal opacities that have been observed in clinical trial patients treated with Zenatane have either completely resolved or were resolving at follow-up 6 to 7 weeks after discontinuation of the drug (see ADVERSEREACTIONS: Special Senses).
+Corneal opacities have occurred in patients receiving Zenatane for acne and more frequently when higher drug dosages were used in patients with disorders of keratinization.
+The corneal opacities that have been observed in clinical trial patients treated with Zenatane have either completely resolved or were resolving at follow-up 6 to 7 weeks after discontinuation of the drug (see ADVERSEREACTIONS: Special Senses).
 
 Decreased Night Vision
 
-Decreased night vision has been reported during Zenatane therapy and in some instances the event has persisted after therapy was discontinued.
+Decreased night vision has been reported during Zenatane therapy and in some instances the event has persisted after therapy was discontinued.
 Because the onset in some patients was sudden, patients should be advised of this potential problem and warned to be cautious when driving or operating any vehicle at night.
 
 # PRECAUTIONS
 
-Zenatane must only be prescribed by prescribers who are registered and activated with the iPLEDGE Program.
-Zenatane must only be dispensed by a pharmacy registered and activated with iPLEDGE, and must only be dispensed to patients who are registered and meet all the requirements of iPLEDGE.
-Registered and activated pharmacies must receive Zenatane only from wholesalers registered with iPLEDGE.
+Zenatane must only be prescribed by prescribers who are registered and activated with the iPLEDGE Program.
+Zenatane must only be dispensed by a pharmacy registered and activated with iPLEDGE, and must only be dispensed to patients who are registered and meet all the requirements of iPLEDGE.
+Registered and activated pharmacies must receive Zenatane only from wholesalers registered with iPLEDGE.
 
 iPLEDGE Program requirements for wholesalers, prescribers, and pharmacists are described below:
 
 Wholesalers:
 
 For the purpose of the iPLEDGE Program, the term wholesaler refers to wholesaler, distributor, and/or chain pharmacy distributor.
-To distribute Zenatane, wholesalers must be registered with iPLEDGE, and agree to meet all iPLEDGE requirements for wholesale distribution of isotretinoin products.
+To distribute Zenatane, wholesalers must be registered with iPLEDGE, and agree to meet all iPLEDGE requirements for wholesale distribution of isotretinoin products.
 Wholesalers must register with iPLEDGE by signing and returning the iPLEDGE wholesaler agreement that affirms they will comply with all iPLEDGE requirements for distribution of isotretinoin.
 These include:
 
@@ -145,7 +146,7 @@ These include:
 
 - Notifying the isotretinoin manufacturer (or delegate) of any non-registered and/or nonactivated pharmacy or unregistered wholesaler that attempts to order isotretinoin
 - Complying with inspection of wholesaler records for verification of compliance with the iPLEDGE Program by the isotretinoin manufacturer (or delegate)
-- Returning to the manufacturer (or delegate) any undistributed product if registration is revoked by the manufacturer or if the wholesaler chooses to not re-register annually
+- Returning to the manufacturer (or delegate) any undistributed product if the wholesaler is deactivated by the iPLEDGE Program or if the wholesaler chooses to not re-register annually
 
 Prescribers:
 
@@ -156,10 +157,11 @@ Prescribers can only activate their registration by affirming that they meet req
 - I know the risk and severity of fetal injury/birth defects from isotretinoin.
 - I know the risk factors for unplanned pregnancy and the effective measures for avoidance of unplanned pregnancy.
 - I have the expertise to provide the patient with detailed pregnancy prevention counseling or I will refer her to an expert for such counseling, reimbursed by the manufacturer.
-- I will comply with the iPLEDGE Program requirements described in the booklets entitled The Guide to Best Practices for the iPLEDGE Program and The iPLEDGE Program Prescriber Contraception Counseling Guide.
-- Before beginning treatment of females of reproductive potential with isotretinoin and on a monthly basis, the patient will be counseled to avoid pregnancy by using two forms of contraception simultaneously and continuously one month before, during, and one month after isotretinoin therapy, unless the patient commits to continuous abstinence.
-- I will not prescribe isotretinoin to any females of reproductive potential until verifying she has a negative screening pregnancy test and monthly negative CLIA-certified (Clinical Laboratory Improvement Amendment) pregnancy tests.
-  Patients should have a pregnancy test at the completion of the entire course of isotretinoin and another pregnancy test 1 month later.
+- I will comply with the iPLEDGE Program requirements described in the booklets entitled Guide To Best Practices for the iPLEDGE Program and Prescriber Contraception Counseling Guide.
+- I understand and will comply with the Non-Compliance Action Policy.
+- Before beginning treatment of females of reproductive potential with isotretinoin and on a monthly basis, the patient will be counseled to avoid pregnancy by using two methods of contraception simultaneously and continuously for at least one month prior to initiation of isotretinoin treatment, during isotretinoin treatment and for one month after discontinuing isotretinoin treatment, unless the patient commits to continuous abstinence
+- I will not prescribe isotretinoin to any female of reproductive potential until verifying she has a negative screening pregnancy test and monthly negative CLIA-certified (Clinical Laboratory Improvement Amendment) pregnancy tests.
+  Patients should have a pregnancy test at the completion of the entire course of isotretinoin and another pregnancy test one month later.
 - I will report any pregnancy case that I become aware of while the female patient is on isotretinoin or one month after the last dose to the pregnancy registry.
 
 To prescribe isotretinoin, the prescriber must access the iPLEDGE system via the internet (www.ipledgeprogram.com) or telephone (1-866-495-0654) to:
@@ -170,7 +172,7 @@ To prescribe isotretinoin, the prescriber must access the iPLEDGE system via the
 
 3) For females of reproductive potential:
 
-- Enter patient’s two chosen forms of contraception each month.
+- Enter patient’s two chosen methods of contraception each month.
 - Enter monthly result from CLIA-certified laboratory conducted pregnancy test.
 
 Isotretinoin must only be prescribed to female patients who are known not to be pregnant as confirmed by a negative CLIA-certified laboratory conducted pregnancy test.
@@ -185,56 +187,56 @@ Meeting the requirements for a female of reproductive potential signifies that s
   The second pregnancy test (a confirmation test) must be done in a CLIA-certified laboratory.
   The interval between the two tests should be at least 19 days.
 
--For patients with regular menstrual cycles, the second pregnancy test should be done during the first 5 days of the menstrual period immediately preceding the beginning of isotretinoin therapy and after the patient has used two forms of contraception for one month.
+-For patients with regular menstrual cycles, the second pregnancy test should be done during the first 5 days of the menstrual period immediately preceding the beginning of isotretinoin therapy and after the patient has used two methods of contraception for one month.
 
--For patients with amenorrhea, irregular cycles, or using a contraceptive method that precludes withdrawal bleeding, the second pregnancy test must be done immediately preceding the beginning of isotretinoin therapy and after the patient has used two forms of contraception for one month.
+-For patients with amenorrhea, irregular cycles, or using a contraceptive method that precludes withdrawal bleeding, the second pregnancy test must be done immediately preceding the beginning of isotretinoin therapy and after the patient has used two methods of contraception for one month.
 
 - Has had a negative result from a urine or serum pregnancy test in a CLIA-certified laboratory before receiving each subsequent course of isotretinoin.
   A pregnancy test must be repeated every month, in a CLIA-certified laboratory, prior to the female patient receiving each prescription.
-- Has selected and has committed to use 2 forms of effective contraception simultaneously, at least 1 of which must be a primary form, unless the patient commits to continuous abstinence from heterosexual contact, or the patient has undergone a hysterectomy or bilateral oophorectomy, or has been medically confirmed to be post-menopausal.
-  Patients must use 2 forms of effective contraception for at least 1 month prior to initiation of isotretinoin therapy, during isotretinoin therapy, and for 1 month after discontinuing isotretinoin therapy.
+- Has selected and has committed to use two methods of effective contraception simultaneously, at least 1 of which must be a primary method, unless the patient commits to continuous abstinence from heterosexual contact, or the patient has undergone a hysterectomy or bilateral oophorectomy, or has been medically confirmed to be post-menopausal.
+  Patients must use two methods of effective contraception for at least 1 month prior to initiation of isotretinoin therapy, during isotretinoin therapy, and for 1 month after discontinuing isotretinoin therapy.
   Counseling about contraception and behaviors associated with an increased risk of pregnancy must be repeated on a monthly basis.
 
 If the patient has unprotected heterosexual intercourse at any time 1 month before, during, or 1 month after therapy, she must:
 
 1.
-Stop taking Zenatane immediately, if on therapy
+Stop taking Zenatane immediately, if on therapy
 
 2.
 Have a pregnancy test at least 19 days after the last act of unprotected heterosexual intercourse
 
 3.
-Start using 2 forms of effective contraception simultaneously again for 1 month before resuming Zenatane therapy
+Start using two methods of effective contraception simultaneously again for 1 month before resuming Zenatane therapy
 
 4.
-Have a second pregnancy test after using 2 forms of effective contraception for 1 month as described above depending on whether she has regular menses or not.
+Have a second pregnancy test after using two methods of effective contraception for 1 month as described above depending on whether she has regular menses or not.
 
-Effective forms of contraception include both primary and secondary forms of contraception:
+Effective forms of contraception include both primary and secondary methods of contraception:
 
-| Primary forms | Seconday forms |
+| Primary methods | Seconday methods |
 | --- | --- |
 | tubal sterilization | Barrier: |
-| partner’s vasectomy | male latex condom with or without spermicide |
+| male vasectomy | male latex condom with or without spermicide |
 | intrauterine device | diaphragm with spermicide |
 | hormonal (combination oral contraceptives,transdermal patch,injectables, implantables, or vaginal ring) | cervical cap with spermicide |
 |  | Other:vaginal sponge (contains spermicide) |
 
 Any birth control method can fail.
-There have been reports of pregnancy from female patients who have used oral contraceptives, as well as transdermal patch/injectable/implantable/vaginal ring hormonal birth control products; these pregnancies occurred while these patients were taking Zenatane.
+There have been reports of pregnancy from female patients who have used oral contraceptives, as well as transdermal patch/injectable/implantable/vaginal ring hormonal birth control products; these pregnancies occurred while these patients were taking Zenatane.
 These reports are more frequent for female patients who use only a single method of contraception.
-Therefore, it is critically important that females of reproductive potential use two effective forms of contraception simultaneously.
+Therefore, it is critically important that females of reproductive potential use two effective methods of contraception simultaneously.
 Patients must receive written warnings about the rates of possible contraception failure (included in patient education kits).
 
-Using two forms of contraception simultaneously substantially reduces the chances that a female will become pregnant over the risk of pregnancy with either form alone.
-A drug interaction that decreases effectiveness of hormonal contraceptives has not been entirely ruled out for Zenatane (see PRECAUTIONS: Drug Interactions).
+Using two methods of contraception simultaneously substantially reduces the chances that a female will become pregnant over the risk of pregnancy with either method alone.
+A drug interaction that decreases effectiveness of hormonal contraceptives has not been entirely ruled out for Zenatane (see PRECAUTIONS: Drug Interactions).
 Although hormonal contraceptives are highly effective, prescribers are advised to consult the package insert of any medication administered concomitantly with hormonal contraceptives, since some medications may decrease the effectiveness of these birth control products.
 
 Patients should be prospectively cautioned not to self-medicate with the herbal supplement St. John’s Wort because a possible interaction has been suggested with hormonal contraceptives based on reports of breakthrough bleeding on oral contraceptives shortly after starting St. John’s Wort.
 Pregnancies have been reported by users of combined hormonal contraceptives who also used some form of St. John’s Wort.
 
-If a pregnancy does occur during Zenatane treatment, Zenatane must be discontinued immediately.
+If a pregnancy does occur during isotretinoin treatment isotretinoin must be discontinued immediately.
 The patient should be referred to an Obstetrician-Gynecologist experienced in reproductive toxicity for further evaluation and counseling.
-Any suspected fetal exposure during or one month after Zenatane therapy must be reported immediately to the FDA via the MedWatch number 1-800-FDA-1088 and also to the iPLEDGE pregnancy registry at 1-866-495-0654 or via the internet (www.ipledgeprogram.com).
+Any suspected fetal exposure during or one month after isotretinoin therapy must be reported immediately to the FDA via the MedWatch number 1-800-FDA-1088 and also to the iPLEDGE Pregnancy Registry at 1-866-495-0654 or via the internet (www.ipledgeprogram.com).
 
 All Patients
 
@@ -261,7 +263,7 @@ In addition to the requirements for all patients described above, females of rep
 - Must be capable of complying with the mandatory contraceptive measures required for isotretinoin therapy, or commit to continuous abstinence from heterosexual intercourse, and understand behaviors associated with an increased risk of pregnancy
 - Must understand that it is her responsibility to avoid pregnancy one month before, during and one month after isotretinoin therapy
 - Must have signed an additional Patient Information/Informed Consent About Birth Defects (for female patients who can get pregnant) form, before starting isotretinoin, that contains warnings about the risk of potential birth defects if the fetus is exposed to isotretinoin
-- Must access the iPLEDGE system via the internet (www.ipledgeprogram.com) or telephone (1-866-495-0654), before starting isotretinoin, on a monthly basis during therapy, and 1 month after the last dose to answer questions on the program requirements and to enter the patient’s two chosen forms of contraception
+- Must access the iPLEDGE system via the internet (www.ipledgeprogram.com) or telephone (1-866-495-0654), before starting isotretinoin, on a monthly basis during therapy, and 1 month after the last dose to answer questions on the program requirements and to enter the patient’s two chosen methods of contraception
 - Must have been informed of the purpose and importance of providing information to the iPLEDGE Program should she become pregnant while taking isotretinoin or within one month of the last dose
 
 Pharmacists:
@@ -273,125 +275,126 @@ After registration, the Responsible Site Pharmacist can only activate the pharma
 
 - I know the risk and severity of fetal injury/birth defects from isotretinoin.
 - I will train all pharmacists, who participate in the filling and dispensing of isotretinoin prescriptions, on the iPLEDGE Program requirements.
-- I will comply and seek to ensure all pharmacists who participate in the filling and dispensing of isotretinoin prescriptions comply with the iPLEDGE Program requirements described in the booklet entitled Pharmacist Guide for the iPLEDGE Program.
-- I will obtain Zenatane product only from iPLEDGE registered wholesalers.
+- I will comply and seek to ensure all pharmacists who participate in the filling and dispensing of isotretinoin prescriptions comply with the iPLEDGE Program requirements described in the booklet entitled Pharmacist Guide, specifically the "Key Information for Pharmacists" section including the following dispensing information.
+- Prescriptions must be obtained no later than the “DoNot Dispense To After” date, and if not obtained, thenthe RMA must be reversed in the iPLEDGE Programsystem and the product returned to inventory
+- I will only obtain Zenatane product from only iPLEDGE registered wholesalers.
 - I will not sell, buy, borrow, loan or otherwise transfer isotretinoin in any manner to or from another pharmacy.
-- I will return to the manufacturer (or delegate) any unused product if registration is revoked by the manufacturer or if the pharmacy chooses to not reactivate annually.
+- I will return to the manufacturer (or delegate) any unused product if the pharmacy is deactivated by the iPLEDGE Program of if the pharmacy chooses to not reactivate annually.
 - I will not fill isotretinoin for any party other than a qualified patient.
 
 To dispense isotretinoin, the pharmacist must:
 
 1) be trained by the Responsible Site Pharmacist concerning the iPLEDGE Program requirements.
 
-2) obtain authorization from the iPLEDGE Program via the internet (www.ipledgeprogram.com) or telephone (1-866-495-0654) for every isotretinoin prescription.
-Authorization signifies that the patient has met all program requirements and is qualified to receive Zenatane.
+2) obtain authorization from the iPLEDGE Program via the internet (www.ipledgeprogram.com) or telephone (1-866-495-0654) or through electronic telecommunication verification (via submission of an isotretinoin prescription claim) for every isotretinoin prescription.
+Authorization signifies that the patient has met all program requirements and is qualified to receive isotretinoin.
 
 3) write the Risk Management Authorization (RMA) number on the prescription.
 
-Zenatane must only be dispensed:
+Zenatane must only be dispensed:
 
 - in no more than a 30-day supply
-- with a Zenatane Medication Guide
+- with a Zenatane Medication Guide
 - after authorization from the iPLEDGE Program
 - prior to the “do not dispense to patient after” date provided by the iPLEDGE system (within 30 days of the office visit for male patients and females of non-reproductive potential and within 7 days of the date of specimen collection for females of reproductive potential)
 - with a new prescription for refills and another authorization from the iPLEDGE program (No automatic refills are allowed)
 
-A Zenatane Medication Guide must be given to the patient each time Zenatane is dispensed, as required by law.
-This Zenatane Medication Guide is an important part of the risk management program for the patients.
+A Zenatane Medication Guide must be given to the patient each time Zenatane is dispensed, as required by law.
+This Zenatane Medication Guide is an important part of the risk management program for the patients.
 
-Zenatane must not be prescribed, dispensed or otherwise obtained through the internet or any other means outside of the iPLEDGE Program.
-Only FDA-approved Zenatane products must be distributed, prescribed, dispensed, and used.
-Patients must obtain Zenatane™ prescriptions only at US licensed pharmacies.
+Zenatane must not be prescribed, dispensed or otherwise obtained through the internet or any other means outside of the iPLEDGE Program.
+Only FDA-approved Zenatane products must be distributed, prescribed, dispensed, and used.
+Patients must obtain Zenatane prescriptions only at US licensed pharmacies.
 
 A description of the iPLEDGE Program educational materials available with iPLEDGE is provided below.
 The main goal of these educational materials is to explain the iPLEDGE Program requirements and to reinforce the educational messages.
 
-1) The Guide to Best Practices for the iPLEDGE Program includes: isotretinoin teratogenic potential, information on pregnancy testing, and the method to complete a qualified Zenatane prescription.
+1) Guide to Best Practices for the iPLEDGE Program includes: isotretinoin teratogenic potential, information on pregnancy testing, and the method to complete a qualified isotretinoin prescription.
 
-2) The iPLEDGE Program Prescriber Contraception Counseling Guide includes: specific information about effective contraception, the limitations of contraceptive methods, behaviors associated with an increased risk of contraceptive failure and pregnancy and the methods to evaluate pregnancy risk.
+2) Prescriber Contraception Counseling Guide includes: specific information about effective contraception, the limitations of contraceptive methods, behaviors associated with an increased risk of contraceptive failure and pregnancy and the methods to evaluate pregnancy risk.
 
-3) The Pharmacist Guide for the iPLEDGE Program includes: isotretinoin teratogenic potential and the method to obtain authorization to dispense an isotretinoin prescription.
+3) Pharmacist Guide includes: isotretinoin teratogenic potential and the method to obtain authorization to dispense an isotretinoin prescription.
 
 4) The iPLEDGE Program is a systematic approach to comprehensive patient education about their responsibilities and includes education for contraception compliance and reinforcement of educational messages.
-The iPLEDGE Program includes information on the risks and benefits of Zenatane which is linked to the Medication Guide dispensed by pharmacists with each isotretinoin prescription.
+The iPLEDGE Program includes information on the risks and benefits of Zenatane which is linked to the Medication Guide dispensed by pharmacists with each isotretinoin prescription.
 
 5) Females of non-reproductive potential and male patients, and females of reproductive potential are provided with separate booklets.
-Each booklet contains information on isotretinoin therapy including precautions and warnings, a Patient Information/Informed Consent (for all patients) form, and a toll-free line which provides Zenatane information in two languages.
+Each booklet contains information on isotretinoin therapy including precautions and warnings, a Patient Information/Informed Consent (for all patients) form, and a toll-free line which provides isotretinoin information in two languages.
 
-6) The booklet for females of non-reproductive potential and male patients, The iPLEDGE Program Guide to Isotretinoin for Male Patients and Female Patients Who Cannot Get Pregnant, also includes information about male reproduction and a warning not to share Zenatane with others or to donate blood during isotretinoin therapy and for one month following discontinuation of isotretinoin.
+6) The booklet for females of non-reproductive potential and male patients, Guide to Isotretinoin for Male Patients and Female Patients Who Cannot Get Pregnant, also includes information about male reproduction and a warning not to share isotretinoin with others or to donate blood during isotretinoin therapy and for one month following discontinuation of isotretinoin.
 
-7) The booklet for females of reproductive potential, The iPLEDGE Program Guide to Isotretinoin for Female Patients Who Can Get Pregnant, includes a referral program that offers female patients free contraception counseling, reimbursed by the manufacturer, by a reproductive specialist; and a second Patient Information/Informed Consent About Birth Defects (for female patients who can get pregnant) form concerning birth defects.
+7) The booklet for females of reproductive potential, Guide to Isotretinoin for Female Patients Who Can Get Pregnant, includes a referral program that offers female patients free contraception counseling, reimbursed by the manufacturer, by a reproductive specialist; and a second Patient Information/Informed Consent About Birth Defects (for female patients who can get pregnant) form concerning birth defects.
 
-8) The booklet, The iPLEDGE Program Birth Control Workbook includes information on the types of contraceptive methods, the selection and use of appropriate, effective contraception, the rates of possible contraceptive failure and a toll-free contraception counseling line.
+8) The booklet, Birth Control Workbook includes information on the types of contraceptive methods, the selection and use of appropriate, effective contraception, the rates of possible contraceptive failure and a toll-free contraception counseling line.
 
-9) In addition, there are patient educational material with the following videos — “Be Prepared, Be Protected” and “Be Aware: The Risk of Pregnancy While on isotretinoin” (see Informationfor Patients).
+9) In addition, to the booklets, patient educational material also include the iPLEDGE Program Birth Control Information Sheet and the the following videos — “Be Prepared, Be Protected” and “Be Aware: The Risk of Pregnancy While on isotretinoin” (see Informationfor Patients).
 
 ## General
 
-Although an effect of Zenatane on bone loss is not established, physicians should use caution when prescribing Zenatane to patients with a genetic predisposition for age-related osteoporosis, a history of childhood osteoporosis conditions, osteomalacia, or other disorders of bone metabolism.
+Although an effect of Zenatane on bone loss is not established, physicians should use caution when prescribing Zenatane to patients with a genetic predisposition for age-related osteoporosis, a history of childhood osteoporosis conditions, osteomalacia, or other disorders of bone metabolism.
 This would include patients diagnosed with anorexia nervosa and those who are on chronic drug therapy that causes drug-induced osteoporosis/osteomalacia and/or affects vitamin D metabolism, such as systemic corticosteroids and any anticonvulsant.
 
 Patients may be at increased risk when participating in sports with repetitive impact where the risks of spondylolisthesis with and without pars fractures and hip growth plate injuries in early and late adolescence are known.
-There are spontaneous reports of fractures and/or delayed healing in patients while on therapy with Zenatane or following cessation of therapy with isotretinoin while involved in these activities.
-While causality to Zenatane has not been established, an effect must not be ruled out.
+There are spontaneous reports of fractures and/or delayed healing in patients while on therapy with Zenatane or following cessation of therapy with Zenatane while involved in these activities.
+While causality to Zenatane has not been established, an effect must not be ruled out.
 
 Information for Patients
 
 See PRECAUTIONS and BoxedCONTRAINDICATIONSAND WARNINGS.
 
-- Patients must be instructed to read the Medication Guide supplied as required by law when Zenatane is dispensed.
+- Patients must be instructed to read the Medication Guide supplied as required by law when Zenatane is dispensed.
   The complete text of the Medication Guide is reprinted at the end of this document.
   For additional information, patients must also be instructed to read the iPLEDGE program patient educational materials.
   All patients must sign the Patient Information/Informed Consent (for all patients) form.
-- Female Females of reproductive potential must be instructed that they must not be pregnant when Zenatane therapy is initiated, and that they should use 2 forms of effective contraception simultaneously for 1 month before starting Zenatane, while taking Zenatane, and for 1 month after Zenatane has been stopped, unless they commit to continuous abstinence from heterosexual intercourse.
-  They should also sign a second Patient Information/Informed Consent About Birth Defects (for female patients who can get pregnant) form prior to beginning Zenatane therapy.
+- Female Females of reproductive potential must be instructed that they must not be pregnant when Zenatane therapy is initiated, and that they should use two methods of effective contraception simultaneously for 1 month before starting Zenatane, while taking Zenatane, and for 1 month after Zenatane has been stopped, unless they commit to continuous abstinence from heterosexual intercourse.
+  They should also sign a second Patient Information/Informed Consent About Birth Defects (for female patients who can get pregnant) form prior to beginning Zenatane therapy.
   They should be given an opportunity to view the patient video provided by the manufacturer to the prescriber.
-  The video includes information about contraception, the most common reasons that contraception fails, and the importance of using 2 forms of effective contraception when taking teratogenic drugs and comprehensive information about types of potential birth defects which could occur if a female patient who is pregnant takes Zenatane at any time during pregnancy.
-  Female patients should be seen by their prescribers monthly and have a urine or serum pregnancy test, in a CLIA-certified laboratory, performed each month during treatment to confirm negative pregnancy status before another Zenatane prescription is written (see BoxedCONTRAINDICATIONSANDWARNINGSand PRECAUTIONS).
-- Zenatane is found in the semen of male patients taking Zenatane, but the amount delivered to a female partner would be about 1 million times lower than an oral dose of 40 mg.
+  The video includes information about contraception, the most common reasons that contraception fails, and the importance of using two methods of effective contraception when taking teratogenic drugs and comprehensive information about types of potential birth defects which could occur if a female patient who is pregnant takes Zenatane at any time during pregnancy.
+  Female patients should be seen by their prescribers monthly and have a urine or serum pregnancy test, in a CLIA-certified laboratory, performed each month during treatment to confirm negative pregnancy status before another Zenatane prescription is written (see BoxedCONTRAINDICATIONSANDWARNINGSand PRECAUTIONS).
+- Zenatane is found in the semen of male patients taking Zenatane, but the amount delivered to a female partner would be about 1 million times lower than an oral dose of 40 mg.
   While the no-effect limit for isotretinoin induced embryopathy is unknown, 20 years of post-marketing reports include 4 with isolated defects compatible with features of retinoid exposed fetuses; however 2 of these reports were incomplete, and two had other possible explanations for the defects observed.
 - Prescribers should be alert to the warning signs of psychiatric disorders to guide patients to receive the help they need.
-  Therefore, prior to initiation of Zenatane treatment, patients and family members should be asked about any history of psychiatric disorder, and at each visit during treatment patients should be assessed for symptoms of depression, mood disturbance, psychosis, or aggression to determine if further evaluation may be necessary.
+  Therefore, prior to initiation of Zenatane treatment, patients and family members should be asked about any history of psychiatric disorder, and at each visit during treatment patients should be assessed for symptoms of depression, mood disturbance, psychosis, or aggression to determine if further evaluation may be necessary.
   Signs and symptoms of depression include sad mood, hopelessness, feelings of guilt, worthlessness or helplessness, loss of pleasure or interest in activities, fatigue, difficulty concentrating, change in sleep pattern, change in weight or appetite, suicidal thoughts or attempts, restlessness, irritability, acting on dangerous impulses, and persistent physical symptoms unresponsive to treatment.
-  Patients should stop Zenatane and the patient or a family member should promptly contact their prescriber if the patient develops depression, mood disturbance, psychosis, or aggression, without waiting until the next visit.
-  Discontinuation of Zenatane treatment may be insufficient; further evaluation may be necessary.
+  Patients should stop Zenatane and the patient or a family member should promptly contact their prescriber if the patient develops depression, mood disturbance, psychosis, or aggression, without waiting until the next visit.
+  Discontinuation of Zenatane treatment may be insufficient; further evaluation may be necessary.
   While such monitoring may be helpful, it may not detect all patients at risk.
   Patients may report mental health problems or family history of psychiatric disorders.
   These reports should be discussed with the patient and/or the patient’s family.
   A referral to a mental health professional may be necessary.
-  The physician should consider whether Zenatane therapy is appropriate in this setting; for some patients the risks may outweigh the benefits of Zenatane therapy.
-- Patients must be informed that some patients, while taking Zenatane or soon after stopping Zenatane, have become depressed or developed other serious mental problems.
+  The physician should consider whether Zenatane therapy is appropriate in this setting; for some patients the risks may outweigh the benefits of Zenatane therapy.
+- Patients must be informed that some patients, while taking Zenatane or soon after stopping Zenatane, have become depressed or developed other serious mental problems.
   Symptoms of depression include sad, “anxious” or empty mood, irritability, acting on dangerous impulses, anger, loss of pleasure or interest in social or sports activities, sleeping too much or too little, changes in weight or appetite, school or work performance going down, or trouble concentrating.
-  Some patients taking Zenatane have had thoughts about hurting themselves or putting an end to their own lives (suicidal thoughts).
+  Some patients taking Zenatane have had thoughts about hurting themselves or putting an end to their own lives (suicidal thoughts).
   Some people tried to end their own lives.
   And some people have ended their own lives.
   There were reports that some of these people did not appear depressed.
-  There have been reports of patients on Zenatane becoming aggressive or violent.
-  No one knows if isotretinoin caused these behaviors or if they would have happened even if the person did not take Zenatane.
-  Some people have had other signs of depression while taking Zenatane.
-- Patients must be informed that they must not share Zenatane with anyone else because of the risk of birth defects and other serious adverse events.
-- Patients must be informed not to donate blood during therapy and for one month following discontinuation of the drug because the blood might be given to a pregnant female patient whose fetus must not be exposed to Zenatane.
-- Patients should be reminded to take Zenatane with a meal (see DOSAGEAND ADMINISTRATION).
+  There have been reports of patients on Zenatane becoming aggressive or violent.
+  No one knows if isotretinoin caused these behaviors or if they would have happened even if the person did not take Zenatane.
+  Some people have had other signs of depression while taking Zenatane.
+- Patients must be informed that they must not share Zenatane with anyone else because of the risk of birth defects and other serious adverse events.
+- Patients must be informed not to donate blood during therapy and for one month following discontinuation of the drug because the blood might be given to a pregnant female patient whose fetus must not be exposed to Zenatane.
+- Patients should be reminded to take Zenatane with a meal (see DOSAGEAND ADMINISTRATION).
   To decrease the risk of esophageal irritation, patients should swallow the capsules with a full glass of liquid.
 - Patients should be informed that transient exacerbation (flare) of acne has been seen, generally during the initial period of therapy.
-- Wax epilation and skin resurfacing procedures (such as dermabrasion, laser) should be avoided during Zenatane therapy and for at least 6 months thereafter due to the possibility of scarring (see ADVERSEREACTIONS: Skin and Appendages).
+- Wax epilation and skin resurfacing procedures (such as dermabrasion, laser) should be avoided during Zenatane therapy and for at least 6 months thereafter due to the possibility of scarring (see ADVERSEREACTIONS: Skin and Appendages).
 - Patients should be advised to avoid prolonged exposure to UV rays or sunlight.
 - Patients should be informed that they may experience decreased tolerance to contact lenses during and after therapy.
-- Patients should be informed that approximately 16% of patients treated with Zenatane in a clinical trial developed musculoskeletal symptoms (including arthralgia) during treatment.
+- Patients should be informed that approximately 16% of patients treated with Zenatane in a clinical trial developed musculoskeletal symptoms (including arthralgia) during treatment.
   In general, these symptoms were mild to moderate, but occasionally required discontinuation of the drug.
   Transient pain in the chest has been reported less frequently.
-  In the clinical trial, these symptoms generally cleared rapidly after discontinuation of Zenatane, but in some cases persisted (see ADVERSE REACTIONS: Musculoskeletal).
+  In the clinical trial, these symptoms generally cleared rapidly after discontinuation of Zenatane, but in some cases persisted (see ADVERSE REACTIONS: Musculoskeletal).
   There have been rare post marketing reports of rhabdomyolysis, some associated with strenuous physical activity (see LaboratoryTests: CPK).
-- Pediatric patients and their caregivers should be informed that approximately 29% (104/358) of pediatric patients treated with Zenatane developed back pain.
+- Pediatric patients and their caregivers should be informed that approximately 29% (104/358) of pediatric patients treated with Zenatane developed back pain.
   Back pain was severe in 13.5% (14/104) of the cases and occurred at a higher frequency in female patients than male patients.
   Arthralgias were experienced in 22% (79/358) of pediatric patients.
   Arthralgias were severe in 7.6% (6/79) of patients.
-  Appropriate evaluation of the musculoskeletal system should be done in patients who present with these symptoms during or after a course of Zenatane.
-  Consideration should be given to discontinuation of Zenatane if any significant abnormality is found.
+  Appropriate evaluation of the musculoskeletal system should be done in patients who present with these symptoms during or after a course of Zenatane.
+  Consideration should be given to discontinuation of Zenatane if any significant abnormality is found.
 - Neutropenia and rare cases of agranulocytosis have been reported.
-  Zenatane should be discontinued if clinically significant decreases in white cell counts occur.
+  Zenatane should be discontinued if clinically significant decreases in white cell counts occur.
 - Patients should be advised that severe skin reactions (Stevens-Johnson syndrome and toxic epidermal necrolysis) have been reported in post-marketing data.
-  Zenatane should be discontinued if clinically significant skin reactions occur.
+  Zenatane should be discontinued if clinically significant skin reactions occur.
 
 Hypersensitivity
 
@@ -403,59 +406,57 @@ Severe allergic reaction necessitates discontinuation of therapy and appropriate
 
 Drug Interactions
 
-- Vitamin A: Because of the relationship of Zenatane to vitamin A, patients should be advised against taking vitamin supplements containing vitamin A to avoid additive toxic effects.
-- Tetracyclines: Concomitant treatment with Zenatane and tetracyclines should be avoided because Zenatane use has been associated with a number of cases of pseudotumor cerebri (benign intracranial hypertension), some of which involved concomitant use of tetracyclines.
-- Micro-dosed Progesterone Preparations: Micro-dosed progesterone preparations (“minipills” that do not contain an estrogen) may be an inadequate method of contraception during Zenatane therapy.
+- Vitamin A: Because of the relationship of Zenatane to vitamin A, patients should be advised against taking vitamin supplements containing vitamin A to avoid additive toxic effects.
+- Tetracyclines: Concomitant treatment with Zenatane and tetracyclines should be avoided because Zenatane use has been associated with a number of cases of pseudotumor cerebri (benign intracranial hypertension), some of which involved concomitant use of tetracyclines.
+- Micro-dosed Progesterone Preparations: Micro-dosed progesterone preparations (“minipills” that do not contain an estrogen) may be an inadequate method of contraception during Zenatane therapy.
   Although other hormonal contraceptives are highly effective, there have been reports of pregnancy from female patients who have used combined oral contraceptives, as well as transdermal patch/injectable/implantable/vaginal ring hormonal birth control products.
   These reports are more frequent for female patients who use only a single method of contraception.
-  It is not known if hormonal contraceptives differ in their effectiveness when used with Zenatane.
-  Therefore, it is critically important for females of reproductive potential to select and commit to use two forms of effective contraception simultaneously, at least one of which must be a primary form (see PRECAUTIONS).
-- Norethindrone/ethinyl estradiol: In a study of 31 premenopausal female patients with severe recalcitrant nodular acne receiving OrthoNovum® 7/7/7 Tablets as an oral contraceptive agent, Zenatane at the recommended dose of 1 mg/kg/day, did not induce clinically relevant changes in the pharmacokinetics of ethinyl estradiol and norethindrone and in the serum levels of progesterone, follicle-stimulating hormone (FSH) and luteinizing hormone (LH).
+  It is not known if hormonal contraceptives differ in their effectiveness when used with Zenatane.
+  Therefore, it is critically important for females of reproductive potential to select and commit to use two methods of effective contraception simultaneously, at least one of which must be a primary method (see PRECAUTIONS).
+- Norethindrone/ethinyl estradiol: In a study of 31 premenopausal female patients with severe recalcitrant nodular acne receiving OrthoNovum® 7/7/7 Tablets as an oral contraceptive agent, Zenatane at the recommended dose of 1 mg/kg/day, did not induce clinically relevant changes in the pharmacokinetics of ethinyl estradiol and norethindrone and in the serum levels of progesterone, follicle-stimulating hormone (FSH) and luteinizing hormone (LH).
   Prescribers are advised to consult the package insert of medication administered concomitantly with hormonal contraceptives, since some medications may decrease the effectiveness of these birth control products.
-- St. John’s Wort:Zenataneuse is associated with depression in some patients (see WARNINGS: Psychiatric Disorders and ADVERSE REACTIONS: Psychiatric).
+- St. John’s Wort:Zenataneuse is associated with depression in some patients (see WARNINGS: Psychiatric Disorders and ADVERSE REACTIONS: Psychiatric).
   Patients should be prospectively cautioned not to self-medicate with the herbal supplement St. John’s Wort because a possible interaction has been suggested with hormonal contraceptives based on reports of breakthrough bleeding on oral contraceptives shortly after starting St. John's Wort.
   Pregnancies have been reported by users of combined hormonal contraceptives who also used some form of St. John's Wort.
-- Phenytoin: Zenatane has not been shown to alter the pharmacokinetics of phenytoin in a study in seven healthy volunteers.
+- Phenytoin: Zenatane has not been shown to alter the pharmacokinetics of phenytoin in a study in seven healthy volunteers.
   These results are consistent with the in vitro finding that neither isotretinoin nor its metabolites induce or inhibit the activity of the CYP 2C9 human hepatic P450 enzyme.
   Phenytoin is known to cause osteomalacia.
-  No formal clinical studies have been conducted to assess if there is an interactive effect on bone loss between phenytoin and Zenatane.
+  No formal clinical studies have been conducted to assess if there is an interactive effect on bone loss between phenytoin and Zenatane.
   Therefore, caution should be exercised when using these drugs together.
 - Systemic Corticosteroids: Systemic corticosteroids are known to cause osteoporosis.
-  No formal clinical studies have been conducted to assess if there is an interactive effect on bone loss between systemic corticosteroids and Zenatane.
+  No formal clinical studies have been conducted to assess if there is an interactive effect on bone loss between systemic corticosteroids and Zenatane.
   Therefore, caution should be exercised when using these drugs together.
 
 ## Laboratory Tests
 
 - Pregnancy Test:
 
-- Females of reproductive potential must have had two negative urine or serum pregnancy tests with a sensitivity of at least 25 mIU/mL before receiving the initial Zenatane prescription.
-The first test (a screening test) is obtained by the prescriber when the decision is made to pursue qualification of the patient for Zenatane.
+- Females of reproductive potential must have had two negative urine or serum pregnancy tests with a sensitivity of at least 25 mIU/mL before receiving the initial Zenatane prescription.
+The first test (a screening test) is obtained by the prescriber when the decision is made to pursue qualification of the patient for Zenatane.
 The second pregnancy test (a confirmation test) must be done in a CLIA-certified laboratory.
 The interval between the two tests must be at least 19 days.
 
-- For patients with regular menstrual cycles, the second pregnancy test must be done during the first 5 days of the menstrual period immediately preceding the beginning of Zenatane therapy and after the patient has used 2 forms of contraception for 1 month.
+- For patients with regular menstrual cycles, the second pregnancy test must be done during the first 5 days of the menstrual period immediately preceding the beginning of Zenatane therapy and after the patient has used 2 methods of contraception for 1 month.
 
-- For patients with amenorrhea, irregular cycles, or using a contraceptive method that precludes withdrawal bleeding, the second pregnancy test must be done immediately preceding the beginning of Zenatane therapy and after the patient has used 2 forms of contraception for 1 month.
+- For patients with amenorrhea, irregular cycles, or using a contraceptive method that precludes withdrawal bleeding, the second pregnancy test must be done immediately preceding the beginning of Zenatane therapy and after the patient has used 2 methods of contraception for 1 month.
 
 - Each month of therapy, patients must have a negative result from a urine or serum pregnancy test.
 A pregnancy test must be repeated each month, in a CLIA-certified laboratory, prior to the female patient receiving each prescription.
 
 - Lipids: Pretreatment and follow-up blood lipids should be obtained under fasting conditions.
   After consumption of alcohol, at least 36 hours should elapse before these determinations are made.
-  It is recommended that these tests be performed at weekly or biweekly intervals until the lipid response to Zenatane is established.
-  The incidence of hypertriglyceridemia is one patient in four on Zenatane therapy (see WARNINGS: Lipids).
-- Liver Function Tests: Since elevations of liver enzymes have been observed during clinical trials, and hepatitis has been reported, pretreatment and follow-up liver function tests should be performed at weekly or biweekly intervals until the response to Zenatane has been established (see WARNINGS: Hepatotoxicity).
-- Glucose: Some patients receiving Zenatane have experienced problems in the control of their blood sugar.
-  In addition, new cases of diabetes have been diagnosed during Zenatane therapy, although no causal relationship has been established.
-- CPK: Some patients undergoing vigorous physical activity while on Zenatane therapy have experienced elevated CPK levels; however, the clinical significance is unknown.
+  It is recommended that these tests be performed at weekly or biweekly intervals until the lipid response to Zenatane is established.
+  The incidence of hypertriglyceridemia is one patient in four on Zenatane therapy (see WARNINGS: Lipids).
+- Liver Function Tests: Since elevations of liver enzymes have been observed during clinical trials, and hepatitis has been reported, pretreatment and follow-up liver function tests should be performed at weekly or biweekly intervals until the response to Zenatane has been established (see WARNINGS: Hepatotoxicity).
+- Glucose: Some patients receiving Zenatane have experienced problems in the control of their blood sugar.
+  In addition, new cases of diabetes have been diagnosed during Zenatane therapy, although no causal relationship has been established.
+- CPK: Some patients undergoing vigorous physical activity while on Zenatane therapy have experienced elevated CPK levels; however, the clinical significance is unknown.
   There have been rare postmarketing reports of rhabdomyolysis, some associated with strenuous physical activity.
   In a clinical trial of 217 pediatric patients (12 to 17 years) with severe recalcitrant nodular acne, transient elevations in CPK were observed in 12% of patients, including those undergoing strenuous physical activity in association with reported musculoskeletal adverse events such as back pain, arthralgia, limb injury, or muscle sprain.
   In these patients, approximately half of the CPK elevations returned to normal within 2 weeks and half returned to normal within 4 weeks.
   No cases of rhabdomyolysis were reported in this trial.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
-
-Carcinogenesis, Mutagenesis and Impairment of Fertility
 
 In male and female Fischer 344 rats given oral isotretinoin at dosages of 8 or 32 mg/kg/day (1.3 to 5.3 times the recommended clinical dose of 1.0 mg/kg/day, respectively, after normalization for total body surface area) for greater than 18 months, there was a dose related increased incidence of pheochromocytoma relative to controls.
 The incidence of adrenal medullary hyperplasia was also increased at the higher dosage in both sexes.
@@ -471,25 +472,25 @@ In rats, no adverse effects on gonadal function, fertility, conception rate, ges
 In dogs, testicular atrophy was noted after treatment with oral isotretinoin for approximately 30 weeks at dosages of 20 or 60 mg/kg/day (10 or 30 times the recommended clinical dose of 1.0 mg/kg/day, respectively, after normalization for total body surface area).
 In general, there was microscopic evidence for appreciable depression of spermatogenesis but some sperm were observed in all testes examined and in no instance were completely atrophic tubules seen.
 In studies of 66 men, 30 of whom were patients with nodular acne under treatment with oral isotretinoin, no significant changes were noted in the count or motility of spermatozoa in the ejaculate.
-In a study of 50 men (ages 17 to 32 years) receiving isotretinoin therapy for nodular acne, no significant effects were seen on ejaculate volume, sperm count, total sperm motility, morphology or seminal plasma fructose.
+In a study of 50 men (ages 17 to 32 years) receiving Zenatane therapy for nodular acne, no significant effects were seen on ejaculate volume, sperm count, total sperm motility, morphology or seminal plasma fructose.
 
 ## Pregnancy: Category X. See Boxed CONTRAINDICATIONS AND WARNINGS.
 
 ## Nursing Mothers
 
 It is not known whether this drug is excreted in human milk.
-Because of the potential for adverse effects, nursing mothers should not receive Zenatane.
+Because of the potential for adverse effects, nursing mothers should not receive Zenatane.
 
 ## Pediatric Use
 
-The use of Zenatane in pediatric patients less than 12 years of age has not been studied.
-The use of Zenatane for the treatment of severe recalcitrant nodular acne in pediatric patients ages 12 to 17 years should be given careful consideration, especially for those patients where a known metabolic or structural bone disease exists (see PRECAUTIONS: General).
-Use of Zenatane in this age group for severe recalcitrant nodular acne is supported by evidence from a clinical study comparing 103 pediatric patients (13 to 17 years) to 197 adult patients (≥18 years).
-Results from this study demonstrated that Zenatane, at a dose of 1 mg/kg/day given in two divided doses, was equally effective in treating severe recalcitrant nodular acne in both pediatric and adult patients.
+The use of Zenatane in pediatric patients less than 12 years of age has not been studied.
+The use of Zenatane for the treatment of severe recalcitrant nodular acne in pediatric patients ages 12 to 17 years should be given careful consideration, especially for those patients where a known metabolic or structural bone disease exists (see PRECAUTIONS: General).
+Use of Zenatane in this age group for severe recalcitrant nodular acne is supported by evidence from a clinical study comparing 103 pediatric patients (13 to 17 years) to 197 adult patients (≥18 years).
+Results from this study demonstrated that Zenatane, at a dose of 1 mg/kg/day given in two divided doses, was equally effective in treating severe recalcitrant nodular acne in both pediatric and adult patients.
 
-In studies with Zenatane, adverse reactions reported in pediatric patients were similar to those described in adults except for the increased incidence of back pain and arthralgia (both of which were sometimes severe) and myalgia in pediatric patients (see ADVERSEREACTIONS).
+In studies with Zenatane, adverse reactions reported in pediatric patients were similar to those described in adults except for the increased incidence of back pain and arthralgia (both of which were sometimes severe) and myalgia in pediatric patients (see ADVERSEREACTIONS).
 
-In an open-label clinical trial (N=217) of a single course of therapy with Zenatane for severe recalcitrant nodular acne, bone density measurements at several skeletal sites were not significantly decreased (lumbar spine change >-4% and total hip change >-5%) or were increased in the majority of patients.
+In an open-label clinical trial (N=217) of a single course of therapy with Zenatane for severe recalcitrant nodular acne, bone density measurements at several skeletal sites were not significantly decreased (lumbar spine change >-4% and total hip change >-5%) or were increased in the majority of patients.
 One patient had a decrease in lumbar spine bone mineral density >4% based on unadjusted data.
 Sixteen (7.9%) patients had decreases in lumbar spine bone mineral density >4%, and all the other patients (92%) did not have significant decreases or had increases (adjusted for body mass index).
 Nine patients (4.5%) had a decrease in total hip bone mineral density >5% based on unadjusted data.
@@ -497,7 +498,7 @@ Twenty-one (10.6%) patients had decreases in total hip bone mineral density >5%,
 Follow-up studies performed in eight of the patients with decreased bone mineral density for up to 11 months thereafter demonstrated increasing bone density in five patients at the lumbar spine, while the other three patients had lumbar spine bone density measurements below baseline values.
 Total hip bone mineral densities remained below baseline (range −1.6% to −7.6%) in 5 of 8 patients (62.5%).
 
-In a separate open-label extension study of ten patients, ages 13 to 18 years, who started a second course of Zenatane 4 months after the first course, two patients showed a decrease in mean lumbar spine bone mineral density up to 3.25% (see WARNINGS: Skeletal: Bone Mineral Density).
+In a separate open-label extension study of ten patients, ages 13 to 18 years, who started a second course of Zenatane 4 months after the first course, two patients showed a decrease in mean lumbar spine bone mineral density up to 3.25% (see WARNINGS: Skeletal: Bone Mineral Density).
 
 ## Geriatric Use
 

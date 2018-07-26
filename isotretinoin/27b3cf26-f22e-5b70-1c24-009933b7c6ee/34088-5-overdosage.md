@@ -4,7 +4,7 @@ The oral LD50 of isotretinoin is greater than 4000 mg/kg in rats and mice (>600 
 In humans, overdosage has been associated with vomiting, facial flushing, cheilosis, abdominal pain, headache, dizziness, and ataxia.
 These symptoms quickly resolve without apparent residual effects.
 
-Zenatane causes serious birth defects at any dosage (see Boxed CONTRAINDICATIONS AND WARNINGS).
+Zenatane causes serious birth defects at any dosage (see Boxed CONTRAINDICATIONS AND WARNINGS).
 Females of reproductive potential who present with isotretinoin overdose must be evaluated for pregnancy.
 Patients who are pregnant should receive counseling about the risks to the fetus, as described in the Boxed CONTRAINDICATIONS AND WARNINGS.
 Non-pregnant patients must be warned to avoid pregnancy for at least one month and receive contraceptive counseling as described in PRECAUTIONS.
