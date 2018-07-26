@@ -57,7 +57,7 @@ Monitor for clinical and laboratory response [see Dosage and Administration (2.4
 Table 1.
 LEVO-T Dosing Guidelines for Pediatric Hypothyroidism
 
-| AGE | Daily Dose Per Kg Body Weight The dose should be adjusted based on clinical response and laboratory parameters [see Dosage and Administration (2.4) and Use in Specific Populations (8.4)]. |
+| AGE | Daily Dose Per Kg Body Weight |
 | --- | --- |
 | 0-3 months | 10-15 mcg/kg/day |
 | 3-6 months | 8-10 mcg/kg/day |
@@ -66,6 +66,7 @@ LEVO-T Dosing Guidelines for Pediatric Hypothyroidism
 | 6-12 years | 4-5 mcg/kg/day |
 | Greater than 12 years but growth and puberty incomplete | 2-3 mcg/kg/day |
 | Growth and puberty complete | 1.6 mcg/kg/day |
+| a - The dose should be adjusted based on clinical response and laboratory parameters [see Dosage and Administration (2.4) and Use in Specific Populations (8.4)]. |  |
 
 Newborns (0-3 months) at risk for cardiac failure: Consider a lower starting dose in newborns at risk for cardiac failure.
 Increase the dose every 4 to 6 weeks as needed based on clinical and laboratory response.
