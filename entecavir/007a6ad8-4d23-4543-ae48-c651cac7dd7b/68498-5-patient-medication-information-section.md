@@ -25,7 +25,7 @@ Entecavir tablets can cause serious side effects including:
 
 3.
 Lactic acidosis (buildup of acid in the blood).
-Some people who have taken entecavir tablets or medicines like entecavir(a nucleoside analogue) have developed a serious condition called lactic acidosis.
+Some people who have taken entecavir tablets or medicines like entecavir (a nucleoside analogue) have developed a serious condition called lactic acidosis.
 Lactic acidosis is a serious medical emergency that can cause death.
 Lactic acidosis must be treated in the hospital.
 Reports of lactic acidosis with entecavir tablets generally involved patients who were seriously ill due to their liver disease or other medical condition.
@@ -58,7 +58,7 @@ You may be more likely to get lactic acidosis or serious liver problems if you a
 
 What are Entecavir Tablets?
 
-Entecavir tablets are a prescription medicine used to treat chronic hepatitis B virus (HBV) in adults who have active liver disease.
+Entecavir tablets are a prescription medicine used to treat chronic hepatitis B virus (HBV) in adults and children 2 years of age and older who have active liver disease.
 
 - Entecavir tablets will not cure HBV.
 - Entecavir tablets may lower the amount of HBV in the body.
@@ -90,7 +90,7 @@ The purpose of the pregnancy registry is to collect information about the health
   It is not known if entecavir can pass into your breast milk.
   You and your healthcare provider should decide if you will take entecavir tablets or breastfeed.
 
-Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins and herbal supplements.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 Especially tell your healthcare provider if you have taken a medicine to treat HBV in the past.
 
 Know the medicines you take.
@@ -170,10 +170,11 @@ Tablet film-coat: hypromellose, iron oxide red (in 1 mg tablet only), polyethyle
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Pediatric use information is approved for Bristol-Myers Squibb Company’s Baraclude® (entecavir) tablets.
-However, due to Bristol-Myers Squibb Company’s marketing exclusivity rights, this drug product is not labeled with that information.
+Distributed by:
 
-Distributed by: Amneal Pharmaceuticals Bridgewater, NJ 08807
+Amneal Pharmaceuticals LLC
+
+Bridgewater, NJ 08807
 
 Rev.
-08-2016-01
+12-2017-02

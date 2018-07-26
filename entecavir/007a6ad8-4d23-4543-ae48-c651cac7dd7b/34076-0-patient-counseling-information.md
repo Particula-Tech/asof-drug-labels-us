@@ -25,7 +25,11 @@ HIV/HBV Co-infection
 Patients should be offered HIV antibody testing before starting entecavir therapy.
 They should be informed that if they have HIV infection and are not receiving effective HIV treatment, entecavir may increase the chance of HIV resistance to HIV medication.
 
-Distributed by: Amneal Pharmaceuticals Bridgewater, NJ 08807
+Distributed by:
+
+Amneal Pharmaceuticals LLC
+
+Bridgewater, NJ 08807
 
 Rev.
-08-2016-02
+07-2018-04
