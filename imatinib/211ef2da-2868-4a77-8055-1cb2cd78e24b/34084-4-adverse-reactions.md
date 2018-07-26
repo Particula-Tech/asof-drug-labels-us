@@ -83,40 +83,40 @@ Table 3: Most Frequently Reported Non-hematologic Adverse Reactions (Regardless 
 |  |  | Gleevec 400 mg once daily | nilotinib 300 mg twice daily | Gleevec 400 mg once daily | nilotinib 300 mg twice daily |
 |  |  | N=280 | N=279 | N=280 | N=279 |
 | Body System and Preferred Term |  | All Grades (%) |  | CTC Gradesb 3/4 (%) |  |
-| Skin and subcutaneous tissue disorders | Rash | 19 | 38 | 2 | <1 |
-|  | Pruritus | 7 | 21 | 0 | <1 |
+| Skin and subcutaneous tissue disorders | Rash | 19 | 38 | 2 | < 1 |
+|  | Pruritus | 7 | 21 | 0 | < 1 |
 |  | Alopecia | 7 | 13 | 0 | 0 |
 |  | Dry skin | 6 | 12 | 0 | 0 |
 | Gastrointestinal disorders | Nausea | 41 | 22 | 2 | 2 |
-|  | Constipation | 8 | 20 | 0 | <1 |
+|  | Constipation | 8 | 20 | 0 | < 1 |
 |  | Diarrhea | 46 | 19 | 4 | 1 |
-|  | Vomiting | 27 | 15 | <1 | <1 |
-|  | Abdominal pain upper | 14 | 18 | <1 | 1 |
+|  | Vomiting | 27 | 15 | < 1 | < 1 |
+|  | Abdominal pain upper | 14 | 18 | < 1 | 1 |
 |  | Abdominal pain | 12 | 15 | 0 | 2 |
 |  | Dyspepsia | 12 | 10 | 0 | 0 |
-| Nervous system disorders | Headache | 23 | 32 | <1 | 3 |
-|  | Dizziness | 11 | 12 | <1 | <1 |
+| Nervous system disorders | Headache | 23 | 32 | < 1 | 3 |
+|  | Dizziness | 11 | 12 | < 1 | < 1 |
 | General disorders and administration site conditions | Fatigue | 20 | 23 | 1 | 1 |
-|  | Pyrexia | 13 | 14 | 0 | <1 |
-|  | Asthenia | 12 | 14 | 0 | <1 |
-|  | Peripheral edema | 20 | 9 | 0 | <1 |
-|  | Face edema | 14 | <1 | <1 | 0 |
+|  | Pyrexia | 13 | 14 | 0 | < 1 |
+|  | Asthenia | 12 | 14 | 0 | < 1 |
+|  | Peripheral edema | 20 | 9 | 0 | < 1 |
+|  | Face edema | 14 | < 1 | < 1 | 0 |
 | Musculoskeletal and connective tissue disorders | Myalgia | 19 | 19 | <1 | <1 |
-|  | Arthralgia | 17 | 22 | <1 | <1 |
+|  | Arthralgia | 17 | 22 | < 1 | < 1 |
 |  | Muscle spasms | 34 | 12 | 1 | 0 |
-|  | Pain in extremity | 16 | 15 | <1 | <1 |
+|  | Pain in extremity | 16 | 15 | < 1 | < 1 |
 |  | Back pain | 17 | 19 | 1 | 1 |
 | Respiratory, thoracic and mediastinal disorders | Cough | 13 | 17 | 0 | 0 |
 |  | Oropharyngeal pain | 6 | 12 | 0 | 0 |
-|  | Dyspnea | 6 | 11 | <1 | 2 |
+|  | Dyspnea | 6 | 11 | < 1 | 2 |
 | Infections and infestations | Nasopharyngitis | 21 | 27 | 0 | 0 |
-|  | Upper respiratory tract infection | 14 | 17 | 0 | <1 |
+|  | Upper respiratory tract infection | 14 | 17 | 0 | < 1 |
 |  | Influenza | 9 | 13 | 0 | 0 |
-|  | Gastroenteritis | 10 | 7 | <1 | 0 |
-| Eye disorders | Eyelid edema | 19 | 1 | <1 | 0 |
-|  | Periorbital edema | 15 | <1 | 0 | 0 |
+|  | Gastroenteritis | 10 | 7 | < 1 | 0 |
+| Eye disorders | Eyelid edema | 19 | 1 | < 1 | 0 |
+|  | Periorbital edema | 15 | < 1 | 0 | 0 |
 | Psychiatric disorders | Insomnia | 9 | 11 | 0 | 0 |
-| Vascular disorder | Hypertension | 4 | 10 | <1 | 1 |
+| Vascular disorder | Hypertension | 4 | 10 | < 1 | 1 |
 | aExcluding laboratory abnormalities bNCI Common Terminology Criteria for Adverse Events, Version 3.0 |  |  |  |  |  |
 
 Table 4: Adverse Reactions Regardless of Relationship to Study Drug Reported in Other CML Clinical Trials (greater than or equal to 10% of All Patients in any Trial)(1)
@@ -718,5 +718,7 @@ Skin and Subcutaneous Tissue Disorders: lichenoid keratosis, lichen planus, toxi
 Musculoskeletal and Connective Tissue Disorders: avascular necrosis/hip osteonecrosis, rhabdomyolysis/myopathy, growth retardation in children, musculoskeletal pain upon treatment discontinuation (including myalgia, pain in extremity, arthalgia, bone pain)
 
 Reproduction Disorders: hemorrhagic corpus luteum/hemorrhagic ovarian cyst
+
+Blood and Lymphatic System Disorders: thrombotic microangiopathy
 
 1Including some fatalities
