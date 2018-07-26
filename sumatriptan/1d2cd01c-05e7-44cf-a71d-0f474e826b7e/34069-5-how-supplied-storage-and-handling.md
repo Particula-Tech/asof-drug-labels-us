@@ -12,7 +12,7 @@ They are available as follows:
 
 NDC 0378-5631-59 bottles of 9 tablets
 
-The 100 mg tablets are white, film-coated, round, unscored tablets debossed with M over S12 on one side of the tablets and blank on the other side.
+The 100 mg tablets are white, film-coated, round, unscored tablets debossed with M over S12 on one side of the tablet and blank on the other side.
 They are available as follows:
 
 NDC 0378-5632-59 bottles of 9 tablets

@@ -1,7 +1,7 @@
 # 10 OVERDOSAGE
 
-Patients in clinical trials (n = 670) received single oral doses of 140 mg to 300 mg without significant adverse reactions.
-Volunteers (n = 174) received single oral doses of 140 mg to 400 mg without serious adverse reactions.
+Patients in clinical trials (N = 670) received single oral doses of 140 to 300 mg without significant adverse reactions.
+Volunteers (N = 174) received single oral doses of 140 to 400 mg without serious adverse reactions.
 
 Overdose in animals has been fatal and has been heralded by convulsions, tremor, paralysis, inactivity, ptosis, erythema of the extremities, abnormal respiration, cyanosis, ataxia, mydriasis, salivation, and lacrimation.
 

@@ -1,4 +1,4 @@
-PRICIPAL DISPLAY PANEL – 25 mg
+# PRICIPAL DISPLAY PANEL – 25 mg
 
 NDC 0378-5630-59
 
@@ -31,9 +31,9 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RM5630CL3
+RM5630CL4
 
-PRICIPAL DISPLAY PANEL – 50 mg
+# PRICIPAL DISPLAY PANEL – 50 mg
 
 NDC 0378-5631-59
 
@@ -66,9 +66,9 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RM5631CL3
+RM5631CL4
 
-PRICIPAL DISPLAY PANEL – 100 mg
+# PRICIPAL DISPLAY PANEL – 100 mg
 
 NDC 0378-5632-59
 
@@ -101,4 +101,4 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RM5632CL3
+RM5632CL4

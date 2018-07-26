@@ -40,7 +40,7 @@ Sumatriptan tablets may cause non-coronary vasospastic reactions, such as periph
 In patients who experience symptoms or signs suggestive of non-coronary vasospasm reaction following the use of any 5-HT1 agonist, rule out a vasospastic reaction before receiving additional sumatriptan tablets.
 
 Reports of transient and permanent blindness and significant partial vision loss have been reported with the use of 5-HT1 agonists.
-Since visual disorders may be part of a migraine attack, a causal relationship between these events and the use of 5-HT1 agonists have not been clearly established.
+Since visual disorders may be part of a migraine attack, a causal relationship between these events and the use of 5-HT1 agonist has not been clearly established.
 
 ## 5.6 Medication Overuse Headache
 
@@ -50,7 +50,7 @@ Detoxification of patients, including withdrawal of the overused drugs, and trea
 
 ## 5.7 Serotonin Syndrome
 
-Serotonin syndrome may occur with sumatriptan tablets, particularly during co-administration with selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), and MAO inhibitors [see Drug Interactions (7.4)].
+Serotonin syndrome may occur with sumatriptan tablets, particularly during coadministration with selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), and MAO inhibitors [see Drug Interactions (7.4)].
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination), and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 The onset of symptoms usually occurs within minutes to hours of receiving a new or a greater dose of a serotonergic medication.
 Discontinue sumatriptan tablets if serotonin syndrome is suspected.
@@ -64,7 +64,7 @@ Sumatriptan tablets are contraindicated in patients with uncontrolled hypertensi
 ## 5.9 Anaphylactic/Anaphylactoid Reactions
 
 Anaphylactic/anaphylactoid reactions have occurred in patients receiving sumatriptan.
-Such reactions can be life threatening or fatal.
+Such reactions can be life-threatening or fatal.
 In general, anaphylactic reactions to drugs are more likely to occur in individuals with a history of sensitivity to multiple allergens.
 Sumatriptan tablets are contraindicated in patients with a history of hypersensitivity reaction to sumatriptan.
 

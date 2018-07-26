@@ -12,8 +12,8 @@ Therefore, the use of sumatriptan tablets in patients receiving MAO-A inhibitors
 
 ## 7.3 Other 5-HT1 Agonists
 
-Because their vasospastic effects may be additive, co-administration of sumatriptan tablets and other 5-HT1 agonists (e.g., triptans) within 24 hours of each other is contraindicated.
+Because their vasospastic effects may be additive, coadministration of sumatriptan tablets and other 5-HT1 agonists (e.g., triptans) within 24 hours of each other is contraindicated.
 
 ## 7.4 Selective Serotonin Reuptake Inhibitors/Serotonin Norepinephrine Reuptake Inhibitors and Serotonin Syndrome
 
-Cases of serotonin syndrome have been reported during co-administration of triptans and SSRIs, SNRIs, TCAs, and MAO inhibitors [see Warnings and Precautions (5.7)].
+Cases of serotonin syndrome have been reported during coadministration of triptans and SSRIs, SNRIs, TCAs, and MAO inhibitors [see Warnings and Precautions (5.7)].

@@ -10,7 +10,7 @@ The following adverse reactions are discussed in more detail in other sections o
 - •Medication overuse headache [see Warnings and Precautions (5.6)]
 - •Serotonin syndrome [see Warnings and Precautions (5.7)]
 - •Increase in blood pressure [see Warnings and Precautions (5.8)]
-- •Hypersensitivity reactions [see Contraindications (4) and Warnings and Precautions (5.9)]
+- •Hypersensitivity reactions [see Contraindications (4), Warnings and Precautions (5.9)]
 - •Seizures [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience

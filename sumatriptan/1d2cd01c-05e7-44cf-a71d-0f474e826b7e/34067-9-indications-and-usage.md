@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-Sumatriptan tablets, USP are indicated for the acute treatment of migraine with or without aura in adults.
+Sumatriptan tablets are indicated for the acute treatment of migraine with or without aura in adults.
 
 Limitations of Use:
 
