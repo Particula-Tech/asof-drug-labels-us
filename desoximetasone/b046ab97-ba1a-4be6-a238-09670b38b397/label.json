@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA204141"
+  ],
+  "inn": "desoximetasone",
+  "labeler": "Taro Pharmaceuticals U.S.A., Inc.",
+  "package_ndcs": [
+    "51672-1396-3",
+    "51672-1396-4",
+    "51672-1396-6",
+    "51672-1396-7"
+  ],
+  "products": [
+    {
+      "form": "SPRAY",
+      "generic": "desoximetasone",
+      "name": "Desoximetasone"
+    }
+  ],
+  "setid": "b046ab97-ba1a-4be6-a238-09670b38b397",
+  "source": "dailymed"
+}
