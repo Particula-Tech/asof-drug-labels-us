@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-Serious adverse reactions have been rare in studies carried out to date, but it should be recognized that patients with impaired ventricular function and cardiac conduction abnormalities have usually been excluded from these studies.
+Serious adverse reactions have been rare in studies carried out to date, but it should be recognized that patients with impaired ventricular function and cardiac conduction abnormalities have usually been excluded from these studies..
 
 In the hypertension study, the following table presents adverse reactions more common on diltiazem than on placebo (but excluding events with no plausible relationship to treatment), as reported in placebo-controlled hypertension trials in patients receiving a diltiazem hydrochloride extended-release formulation (once-a-day dosing) up to 540 mg.
 

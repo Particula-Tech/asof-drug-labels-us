@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-CARDIZEM LA Tablets are an extended-release formulation intended for once-a-day administration.
+CARDIZEM LA Tablets are an extended-release formulation intended for once-a-day administration..
 
 Patients controlled on diltiazem alone or in combination with other medications may be switched to CARDIZEM LA Tablets once-a-day at the nearest equivalent total daily dose.
 Higher doses of CARDIZEM LA Tablets once-a-day dosage may be needed in some patients.
@@ -32,11 +32,11 @@ CARDIZEM LA can be given once daily, either in the evening or in the morning.
 
 ## Concomitant Use with Other Cardiovascular Agents
 
-- •Sublingual NTG.
+- Sublingual NTG.
   May be taken as required to abort acute anginal attacks during Diltiazem Hydrochloride Extended-Release therapy.
-- •Prophylactic Nitrate Therapy.
+- Prophylactic Nitrate Therapy.
   Diltiazem Hydrochloride Extended-Release Tablets may be safely coadministered with short-and long-acting nitrates.
-- •Beta-blockers (see WARNINGS and PRECAUTIONS).
-- •Antihypertensives.
+- Beta-blockers (see WARNINGS and PRECAUTIONS).
+- Antihypertensives.
   CARDIZEM LA has an additive antihypertensive effect when used with other antihypertensive agents.
   Therefore, the dosage of Diltiazem Hydrochloride Extended-Release Tablets or the concomitant antihypertensives may need to be adjusted when adding one to the other.
