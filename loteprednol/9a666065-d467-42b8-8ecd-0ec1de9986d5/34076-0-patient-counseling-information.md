@@ -1,29 +1,25 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-## 17.1 Administration
+## Administration
 
 Invert closed bottle and shake once to fill tip before instilling drops.
 
-## 17.2 Risk of Contamination
+## Risk of Contamination
 
-Patients should be advised not to allow the dropper tip to touch any surface, as this may contaminate the gel.
+Advise patients not to allow the dropper tip to touch any surface, as this may contaminate the gel.
 
-## 17.3 Contact Lens Wear
+## Contact Lens Wear
 
-Patients should be advised not to wear contact lenses when using LOTEMAX.
+Advise patients not to wear contact lenses when using LOTEMAX.
 
-## 17.4 Risk of Secondary Infection
+## Risk of Secondary Infection
 
-If pain develops, redness, itching or inflammation becomes aggravated, the patient should be advised to consult a physician.
+Advise the patient to consult a physician if pain develops, redness, itching or inflammation becomes aggravated.
 
 Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-US Patent No. 5,800,807
+© 2018 Bausch & Lomb Incorporated Lotemax is a trademark of Bausch & Lomb Incorporated or its affiliates.
 
-©Bausch & Lomb Incorporated Lotemax is a trademark of Bausch & Lomb Incorporated or its affiliates.
+XXXXX Flat
 
-Reference ID: 3196435
-
-9269101 Flat
-
-9269201 Folded
+XXXXX Folded
