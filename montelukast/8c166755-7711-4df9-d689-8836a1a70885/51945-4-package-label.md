@@ -19,7 +19,7 @@ Discard any unused portion.
 
 Rx only
 
-PRINCIPAL DISPLAY PANEL - Chewable Tablets - Bottle Label 4 mg
+# PRINCIPAL DISPLAY PANEL - 4 mg Tablet Bottle Label
 
 NDC 0006-1711-31
 
@@ -36,7 +36,7 @@ Rx only
 
 30 Tablets
 
-PRINCIPAL DISPLAY PANEL - Chewable Tablets - Bottle Label 5 mg
+# PRINCIPAL DISPLAY PANEL - 5 mg Tablet Bottle Label
 
 NDC 0006-9275-31
 
@@ -53,7 +53,7 @@ Rx only
 
 30 Tablets
 
-PRINCIPAL DISPLAY PANEL - Tablets - Bottle Label 10 mg
+# PRINCIPAL DISPLAY PANEL - 10 mg Tablet Bottle Label
 
 NDC 0006-9117-31
 
