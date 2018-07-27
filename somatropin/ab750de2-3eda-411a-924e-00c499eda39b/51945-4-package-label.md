@@ -8,7 +8,7 @@ NDC 44087-1005-2
 
 1 vial SAIZEN 1 vial Bacteriostatic Water for Injection, USP (0.9% Benzyl Alcohol)
 
-EMD Serono
+EMD SERONO
 
 # PRINCIPAL DISPLAY PANEL - 8.8 mg Kit Carton
 
@@ -20,7 +20,7 @@ NDC 44087-1088-1
 
 1 vial SAIZEN 1 vial Bacteriostatic Water for Injection, USP (0.9% Benzyl Alcohol)
 
-EMD Serono
+EMD SERONO
 
 # PRINCIPAL DISPLAY PANEL - 8.8 mg click.easy® Kit Carton
 
