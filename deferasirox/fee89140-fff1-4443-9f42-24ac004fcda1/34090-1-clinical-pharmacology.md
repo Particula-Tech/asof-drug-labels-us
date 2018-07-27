@@ -4,7 +4,7 @@
 
 JADENU (deferasirox) is an orally active chelator that is selective for iron (as Fe3+).
 It is a tridentate ligand that binds iron with high affinity in a 2:1 ratio.
-Although deferasirox has very low affinity for zinc and copper there are variable decreases in the serum concentration of these trace metals after the administration of deferasirox.
+Although deferasirox has very low affinity for zinc and copper, there are variable decreases in the serum concentration of these trace metals after the administration of deferasirox.
 The clinical significance of these decreases is uncertain.
 
 ## 12.2 Pharmacodynamics
@@ -44,7 +44,7 @@ The bioavailability (as measured by AUCinf) of JADENU Sprinkle granules was 52% 
 After strength-adjustment, the mean AUCinf of the JADENU Sprinkle granules (i.e., 4 x 90 mg strength) was similar to that of deferasirox tablets for oral suspension (i.e., 500 mg strength) under fasting conditions; however, the mean Cmax was increased by 34%.
 The 34% increase in Cmax observed with JADENU Sprinkle granules is not clinically meaningful.
 
-The administration of JADENU Sprinkle granules with a soft meal (e.g., yogurt and apple sauce) or with a low-fat (approximately 450 calories with fat content approximately 30% of total calories) indicated that the AUCinf and Cmax after a low-fat meal or soft foods were similar to that under fasting conditions.
+The administration of JADENU Sprinkle granules with a soft meal (e.g., yogurt and applesauce) or with a low-fat (approximately 450 calories with fat content approximately 30% of total calories) indicated that the AUCinf and Cmax after a low-fat meal or soft foods were similar to that under fasting conditions.
 The administration of JADENU Sprinkle granules with a high-fat meal (approximately 1000 calories with fat content greater than 50% of total calories) increased AUCinf by 18% with no changes in Cmax compared to that under fasting conditions [see Dosage and Administration (2.3)].
 
 Distribution

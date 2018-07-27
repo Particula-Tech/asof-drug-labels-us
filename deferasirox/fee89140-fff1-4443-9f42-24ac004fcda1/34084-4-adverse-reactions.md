@@ -126,24 +126,24 @@ Intermittent proteinuria (urine protein/creatinine ratio greater than 0.6 mg/mg)
 
 Other Adverse Reactions
 
-In the population of more than 5,000 patients with transfusional iron overload who have been treated with deferasirox during clinical trials, adverse reactions occurring in 0.1% to 1% of patients included gastritis, edema, sleep disorder, pigmentation disorder, dizziness, anxiety, maculopathy, cholelithiasis, pyrexia, fatigue, laryngeal pain, cataract, hearing loss, gastrointestinal hemorrhage, gastric ulcer (including multiple ulcers), duodenal ulcer, renal tubular disorder (Fanconi syndrome), and acute pancreatitis (with and without underlying biliary conditions).
+In the population of more than 5,000 patients with transfusional iron overload, who have been treated with deferasirox during clinical trials, adverse reactions occurring in 0.1% to 1% of patients included gastritis, edema, sleep disorder, pigmentation disorder, dizziness, anxiety, maculopathy, cholelithiasis, pyrexia, fatigue, laryngeal pain, cataract, hearing loss, gastrointestinal hemorrhage, gastric ulcer (including multiple ulcers), duodenal ulcer, renal tubular disorder (Fanconi syndrome), and acute pancreatitis (with and without underlying biliary conditions).
 Adverse reactions occurring in 0.01% to 0.1% of patients included optic neuritis, esophagitis, erythema multiforme, and drug reaction with eosinophilia and systemic symptoms (DRESS).
-Adverse reactions which most frequently led to dose interruption or dose adjustment during clinical trials were rash, gastrointestinal disorders, infections, increased serum creatinine, and increased serum transaminases.
+Adverse reactions, which most frequently led to dose interruption or dose adjustment during clinical trials were rash, gastrointestinal disorders, infections, increased serum creatinine, and increased serum transaminases.
 
 Pooled Analysis of Pediatric Clinical Trial Data
 
-A nested case control analysis was conducted within a deferasirox pediatric pooled clinical trial dataset to evaluate the effects of dose and serum ferritin level, separately and combined, on kidney function.
+A nested case control analysis was conducted within a deferasirox pediatric-pooled clinical trial dataset to evaluate the effects of dose and serum ferritin level, separately and combined, on kidney function.
 Among 1213 children (aged 2 to 15 years) with transfusion-dependent thalassemia, 162 cases of acute kidney injury (eGFR < 90 mL/min/1.73 m2) and 621 matched-controls with normal kidney function (eGFR > 120 mL/min/1.73 m2) were identified.
 The primary findings were:
 
-- A 26% increased risk of acute kidney injury was observed with each 5 mg/kg increase in daily Exjade dosage starting at 20 mg/kg/day (95% CI: 1.08-1.48).
+- A 26% increased risk of acute kidney injury was observed with each 5 mg/kg increase in daily Exjade dosage equivalent to 3.5 mg/kg JADENU, starting at 20 mg/kg/day equivalent to 14 mg/kg/day JADENU (95% CI: 1.08-1.48).
 
 - A 25% increased risk for acute kidney injury was observed with each 250 mcg/L decrease in serum ferritin starting at 1250 mcg/L (95% CI: 1.01-1.56).
 
-- Among pediatric patients with a serum ferritin < 1000 mcg/L, those who received Exjade dosage > 30 mg/kg/day, compared to those who received lower dosages, had a higher risk for acute kidney injury (OR = 4.47, 95% CI: 1.25-15.95), consistent with overchelation.
+- Among pediatric patients with a serum ferritin < 1000 mcg/L, those who received Exjade dosage > 30 mg/kg/day, equivalent to 21 mg/kg/day JADENU compared to those who received lower dosages, had a higher risk for acute kidney injury (OR = 4.47, 95% CI: 1.25-15.95), consistent with overchelation.
 
-In addition, a cohort based analysis of adverse events was conducted in the deferasirox pediatric pooled clinical trial data.
-Pediatric patients who received Exjade dose > 25 mg/kg/day when their serum ferritin was < 1000 mcg/L (n = 158) had a 6-fold greater rate of renal adverse events (IRR = 6.00, 95% CI: 1.75-21.36) and a 2-fold greater rate of dose interruptions (IRR = 2.06, 95% CI: 1.33-3.17) compared to the time-period prior to meeting these simultaneous criteria.
+In addition, a cohort-based analysis of adverse events was conducted in the deferasirox pediatric pooled clinical trial data.
+Pediatric patients who received Exjade dose > 25 mg/kg/day equivalent to 17.5 mg/kg/day JADENU when their serum ferritin was < 1000 mcg/L (n = 158), had a 6-fold greater rate of renal adverse events (IRR = 6.00, 95% CI: 1.75-21.36), and a 2-fold greater rate of dose interruptions (IRR = 2.06, 95% CI: 1.33-3.17) compared to the time-period prior to meeting these simultaneous criteria.
 Adverse events of special interest (cytopenia, renal, hearing, and gastrointestinal disorders) occurred 1.9-fold more frequently when these simultaneous criteria were met, compared to preceding time-periods (IRR = 1.91, 95% CI: 1.05-3.48) [see Warnings and Precautions (5.6)].
 
 ## 6.2 Postmarketing Experience

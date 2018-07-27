@@ -54,8 +54,8 @@ Use of JADENU in these age groups is supported by evidence from adequate and wel
 
 In general, risk factors for deferasirox-associated kidney injury include preexisting renal disease, volume depletion, overchelation, and concomitant use of other nephrotoxic drugs.
 Acute kidney injury, and acute liver injury and failure has occurred in pediatric patients.
-In a pooled safety analysis, pediatric patients with higher Exjade exposures had a greater probability of renal toxicity and decreased renal function, resulting in increased deferasirox exposure and progressive renal toxicity/kidney injury.
-Higher rates of renal adverse events have been identified among pediatric patients receiving Exjade doses greater than 25 mg/kg/day when their serum ferritin values were less than 1,000 mcg/L [see Dosage and Administration (2.5), Warnings and Precautions (5.1, 5.6), Adverse Reactions (6.1, 6.2)].
+In a pooled safety analysis, pediatric patients with higher deferasirox exposures had a greater probability of renal toxicity and decreased renal function, resulting in increased deferasirox exposure and progressive renal toxicity/kidney injury.
+Higher rates of renal adverse events have been identified among pediatric patients receiving Exjade doses greater than 25 mg/kg/day equivalent to 17.5 mg/kg/day JADENU when their serum ferritin values were less than 1,000 mcg/L [see Dosage and Administration (2.5), Warnings and Precautions (5.1, 5.6), Adverse Reactions (6.1, 6.2)].
 
 Monitor renal function by estimating GFR using an eGFR prediction equation appropriate for pediatric patients and evaluate renal tubular function.
 Monitor renal function more frequently in pediatric patients in the presence of renal toxicity risk factors, including episodes of dehydration, fever and acute illness that may result in volume depletion or decreased renal perfusion.

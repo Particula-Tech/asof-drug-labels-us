@@ -35,7 +35,7 @@ During Therapy:
   - Evaluate the need for ongoing chelation therapy for patients whose conditions no longer require regular blood transfusions.
   - Use the minimum effective dose to maintain iron burden in the target range [see Warnings and Precautions (5.6)].
 - Monitor blood counts, liver function, renal function and ferritin monthly [see Warnings and Precautions (5.1, 5.2, 5.4)].
-- Interrupt JADENU for pediatric patients who have acute illnesses which can cause volume depletion, such as vomiting, diarrhea, or prolonged decreased oral intake, and monitor more frequently.
+- Interrupt JADENU for pediatric patients who have acute illnesses, which can cause volume depletion, such as vomiting, diarrhea, or prolonged decreased oral intake, and monitor more frequently.
   Resume therapy as appropriate, based on assessments of renal function, when oral intake and volume status are normal [see Dosage and Administration (2.4, 2.5), Warnings and Precautions (5.1), Use in Specific Populations (8.4), Clinical Pharmacology (12.3)].
 
 ## 2.2 Iron Overload in Non-Transfusion-Dependent Thalassemia Syndromes
@@ -140,7 +140,7 @@ Adults:
 Pediatric Patients (ages 2 years–17 years):
 
 - Reduce the dose by 7 mg per kg if eGFR decreases by greater than 33% below the average baseline measurement and repeat eGFR within 1 week
-- Interrupt JADENU for acute illnesses which can cause volume depletion, such as vomiting, diarrhea, or prolonged decreased oral intake, and monitor more frequently.
+- Interrupt JADENU for acute illnesses, which can cause volume depletion, such as vomiting, diarrhea, or prolonged decreased oral intake, and monitor more frequently.
   Resume therapy as appropriate, based on assessments of renal function, when oral intake and volume status are normal.
   Avoid use of other nephrotoxic drugs [see Warnings and Precautions (5.1)].
 - In the setting of decreased renal function, evaluate the risk benefit profile of continued JADENU use.
@@ -162,7 +162,7 @@ Adults:
 Pediatric Patients (ages 10 years – 17 years):
 
 - Reduce the dose by 3.5 mg per kg if eGFR decreases by greater than 33% below the average baseline measurement and repeat the eGFR within 1 week.
-- Increase monitoring frequency for pediatric patients who have acute illnesses which can cause volume depletion, such as vomiting, diarrhea, or prolonged decreased oral intake.
+- Increase monitoring frequency for pediatric patients who have acute illnesses, which can cause volume depletion, such as vomiting, diarrhea, or prolonged decreased oral intake.
   Consider dose interruption until oral intake and volume status are normal.
   Avoid use of other nephrotoxic drugs [see Warnings and Precautions (5.1)].
 - In the setting of decreased renal function, evaluate the risk benefit profile of continued JADENU use.

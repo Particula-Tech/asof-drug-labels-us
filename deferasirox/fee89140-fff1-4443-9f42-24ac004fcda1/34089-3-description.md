@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-JADENU (deferasirox) is an iron chelating agent provided as a tablet or granules for oral use.
+JADENU (deferasirox) is an iron-chelating agent provided as a tablet or granules for oral use.
 Deferasirox is designated chemically as 4-[3,5-bis(2-hydroxyphenyl)-1H-1,2,4-triazol-1-yl]benzoic acid and has the following structural formula:
 
 Deferasirox is a white to slightly yellow powder.

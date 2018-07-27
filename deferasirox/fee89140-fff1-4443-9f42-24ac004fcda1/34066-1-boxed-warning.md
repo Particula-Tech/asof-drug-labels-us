@@ -3,7 +3,7 @@
 Renal Failure
 
 - JADENU can cause acute renal failure and death, particularly in patients with comorbidities and those who are in the advanced stages of their hematologic disorders.
-- Evaluate baseline renal function prior to starting or increasing Jadenu dosing in all patients.
+- Evaluate baseline renal function prior to starting or increasing JADENU dosing in all patients.
   JADENU is contraindicated in adult and pediatric patients with eGFR less than 40 mL/min/1.73 m2.
   Measure serum creatinine in duplicate prior to initiation of therapy.
   Monitor renal function at least monthly.

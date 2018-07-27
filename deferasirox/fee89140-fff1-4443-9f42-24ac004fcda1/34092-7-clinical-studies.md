@@ -48,7 +48,7 @@ Six hundred twenty-seven patients with MDS were enrolled across 5 uncontrolled t
 Two hundred thirty-nine of the 627 patients were enrolled in trials that limited enrollment to patients with IPSS Low or Intermediate 1 risk MDS, and the remaining 388 patients were enrolled in trials that did not specify MDS risk stratification but required a life expectancy of greater than 1 year.
 Planned duration of treatment in these trials ranged from 1 year (365 patients) to 5 years (47 patients).
 These trials evaluated the effects of deferasirox tablets for oral suspension therapy on parameters of iron overload, including LIC (125 patients) and serum ferritin (627 patients).
-The percent of patients completing planned duration of treatment was 51% in the largest 1 year study, 52% in the 3-year study and 22% in the 5 year study.
+The percent of patients completing planned duration of treatment was 51% in the largest 1-year study, 52% in the 3-year study and 22% in the 5-year study.
 The major causes for treatment discontinuation were withdrawal of consent, adverse reaction, and death.
 Over 1 year of follow-up across these pooled studies, mean change in serum ferritin was -332.8 (±2615.59) mcg/L (n = 593) and mean change in LIC was -5.9 (±8.32) mg Fe/g dw (n = 68).
 Results of these pooled studies in 627 patients with MDS suggest a progressive decrease in serum ferritin and LIC beyond 1 year in those patients who are able to continue deferasirox tablets for oral suspension.
