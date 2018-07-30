@@ -5,7 +5,7 @@ This was a randomized, double-blind, active-controlled, multicenter trial which 
 The primary purpose of this study was to evaluate the efficacy and safety of DORYX Tablets, 200 mg once daily versus doxycycline hyclate capsules, 100 mg twice daily for seven days for the treatment of uncomplicated urogenital C. trachomatis infection.
 The primary efficacy objective was to demonstrate non-inferiority of the DORYX Tablets, 200 mg once daily treatment regimen versus the doxycycline 100 mg twice daily treatment regimen for the indication using a negative nucleic acid amplification test (NAAT) at the test of cure visit (day 28) in the mITT population (subjects who were positive at baseline and took at least one day of study drug).
 
-Table 4: Primary Efficacy Outcome – Microbiological Cure of C. trachomatis at Day 28
+Table 2: Primary Efficacy Outcome – Microbiological Cure of C. trachomatis at Day 28
 
 | mITT Population |  | DORYX Tablets, 200 mg once daily Cure Rate (%) | Doxycycline hyclate capsules, 100 mg twice daily Cure Rate (%) | Difference (%) |
 | --- | --- | --- | --- | --- |

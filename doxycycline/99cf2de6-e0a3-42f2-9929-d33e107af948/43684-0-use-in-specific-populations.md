@@ -2,8 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects.
-Pregnancy Category D:
+Teratogenic Effects:
 
 There are no adequate and well-controlled studies on the use of doxycycline in pregnant women.
 The vast majority of reported experience with doxycycline during human pregnancy is short-term, first trimester exposure.
@@ -28,7 +27,7 @@ Because of the potential for serious adverse reactions in nursing infants from d
 
 ## 8.4 Pediatric use
 
-Because of the effects of drugs of the tetracycline-class on tooth development and growth, DORYX should not be used in pediatric patients to the age of 8 years, unless the potential benefits are expected to outweigh the risks such as for anthrax, or when other drugs are not likely to be effective or are contraindicated [see Warnings and Precautions (5.1, 5.6) and Dosage and Administration (2.1, 2.3)].
+Because of the effects of drugs of the tetracycline-class on tooth development and growth, use DORYX in pediatric patients 8 years of age or less only when the potential benefits are expected to outweigh the risks in severe or life-threatening conditions (e.g., anthrax, Rocky Mountain spotted fever), particularly, when there are no alternative therapies [see Warnings and Precautions (5.1, 5.6) and Dosage and Administration (2.1, 2.3)].
 
 ## 8.5 Geriatric use
 

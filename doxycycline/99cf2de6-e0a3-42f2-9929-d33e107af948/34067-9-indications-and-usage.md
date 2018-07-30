@@ -27,11 +27,12 @@ Chancroid caused by Haemophilus ducreyi.
 ## 1.3 Respiratory tract infections
 
 Respiratory tract infections caused by Mycoplasma pneumoniae.
+
 Psittacosis (ornithosis) caused by Chlamydophila psittaci.
 
 Because many strains of the following groups of microorganisms have been shown to be resistant to doxycycline, culture and susceptibility testing are recommended.
 
-Doxycycline is indicated for treatment of infections caused by the following micro-organisms, when bacteriological testing indicates appropriate susceptibility to the drug:
+Doxycycline is indicated for treatment of infections caused by the following micro- organisms, when bacteriological testing indicates appropriate susceptibility to the drug:
 
 Respiratory tract infections caused by Haemophilus influenzae.
 
@@ -57,7 +58,7 @@ Bartonellosis due to Bartonella bacilliformis.
 
 Because many strains of the following groups of microorganisms have been shown to be resistant to doxycycline, culture and susceptibility testing are recommended.
 
-Doxycycline is indicated for treatment of infections caused by the following gram-negative microorganisms, when bacteriological testing indicates appropriate susceptibility to the drug:
+Doxycycline is indicated for treatment of infections caused by the following gram- negative microorganisms, when bacteriological testing indicates appropriate susceptibility to the drug:
 
 Escherichia coli
 
