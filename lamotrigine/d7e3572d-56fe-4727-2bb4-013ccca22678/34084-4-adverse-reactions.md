@@ -121,7 +121,7 @@ Dose-Related Adverse Reactions from a Randomized, Placebo-Controlled, Adjunctive
 The overall adverse reaction profile for LAMICTAL was similar between females and males and was independent of age.
 Because the largest non-Caucasian racial subgroup was only 6% of patients exposed to LAMICTAL in placebo-controlled trials, there are insufficient data to support a statement regarding the distribution of adverse reaction reports by race.
 Generally, females receiving either LAMICTAL as adjunctive therapy or placebo were more likely to report adverse reactions than males.
-The only adverse reaction for which the reports on LAMICTAL were greater than 10% more frequent in females than males (without a corresponding difference by gender on placebo) was dizziness (difference = 16.5%).
+The only adverse reaction for which the reports on LAMICTAL were >10% more frequent in females than males (without a corresponding difference by gender on placebo) was dizziness (difference = 16.5%).
 There was little difference between females and males in the rates of discontinuation of LAMICTAL for individual adverse reactions.
 
 Controlled Monotherapy Trial in Adults with Partial-Onset Seizures: Table 10 lists adverse reactions that occurred in patients with epilepsy treated with monotherapy with LAMICTAL in a double-blind trial following discontinuation of either concomitant carbamazepine or phenytoin not seen at an equivalent frequency in the control group.
@@ -157,7 +157,7 @@ Adverse Reactions in a Controlled Monotherapy Trial in Adult Patients with Parti
 - c Up to 500 mg/day.
 - d 1,000 mg/day.
 
-Adverse reactions that occurred with a frequency of less than 5% and greater than 2% of patients receiving LAMICTAL and numerically more frequent than placebo were:
+Adverse reactions that occurred with a frequency of <5% and >2% of patients receiving LAMICTAL and numerically more frequent than placebo were:
 
 Body as a Whole: Asthenia, fever.
 
@@ -176,7 +176,7 @@ Special Senses: Vision abnormality.
 Incidence in Controlled Adjunctive Trials in Pediatric Patients with Epilepsy: Table 11 lists adverse reactions that occurred in 339 pediatric patients with partial-onset seizures or generalized seizures of Lennox-Gastaut syndrome who received LAMICTAL up to 15 mg/kg/day or a maximum of 750 mg/day.
 
 Table 11.
-Adverse Reactions in Pooled, Placebo-Controlled Adjunctive Trials in Pediatric Patients with Epilepsya
+Adverse Reactions in Pooled, Placebo-Controlled, Adjunctive Trials in Pediatric Patients with Epilepsya
 
 | Body System/Adverse Reaction | Percent of Patients Receiving LAMICTAL(n = 168) | Percent of Patients Receiving Placebo(n = 171) |
 | --- | --- | --- |
@@ -235,10 +235,10 @@ Adverse Reactions in Pooled, Placebo-Controlled Adjunctive Trials in Pediatric P
 
 Bipolar Disorder in Adults
 
-The most common adverse reactions seen in association with the use of LAMICTAL as monotherapy (100 to 400 mg/day) in adult patients (aged 18 to 82 years) with bipolar disorder in the 2 double-blind placebo-controlled trials of 18 months’ duration are included in Table 12.
+The most common adverse reactions seen in association with the use of LAMICTAL as monotherapy (100 to 400 mg/day) in adult patients (aged 18 to 82 years) with bipolar disorder in the 2 double-blind, placebo-controlled trials of 18 months’ duration are included in Table 12.
 Adverse reactions that occurred in at least 5% of patients and were numerically more frequent during the dose-escalation phase of LAMICTAL in these trials (when patients may have been receiving concomitant medications) compared with the monotherapy phase were: headache (25%), rash (11%), dizziness (10%), diarrhea (8%), dream abnormality (6%), and pruritus (6%).
 
-During the monotherapy phase of the double-blind placebo-controlled trials of 18 months’ duration, 13% of 227 patients who received LAMICTAL (100 to 400 mg/day), 16% of 190 patients who received placebo, and 23% of 166 patients who received lithium discontinued therapy because of an adverse reaction.
+During the monotherapy phase of the double-blind, placebo-controlled trials of 18 months’ duration, 13% of 227 patients who received LAMICTAL (100 to 400 mg/day), 16% of 190 patients who received placebo, and 23% of 166 patients who received lithium discontinued therapy because of an adverse reaction.
 The adverse reactions that most commonly led to discontinuation of LAMICTAL were rash (3%) and mania/hypomania/mixed mood adverse reactions (2%).
 Approximately 16% of 2,401 patients who received LAMICTAL (50 to 500 mg/day) for bipolar disorder in premarketing trials discontinued therapy because of an adverse reaction, most commonly due to rash (5%) and mania/hypomania/mixed mood adverse reactions (2%).
 
@@ -275,7 +275,7 @@ Adverse Reactions in 2 Placebo-Controlled Trials in Adult Patients with Bipolar 
 
 Other reactions that occurred in 5% or more patients but equally or more frequently in the placebo group included: dizziness, mania, headache, infection, influenza, pain, accidental injury, diarrhea, and dyspepsia.
 
-Adverse reactions that occurred with a frequency of less than 5% and greater than 1% of patients receiving LAMICTAL and numerically more frequent than placebo were:
+Adverse reactions that occurred with a frequency of <5% and >1% of patients receiving LAMICTAL and numerically more frequent than placebo were:
 
 General: Fever, neck pain.
 
@@ -296,7 +296,7 @@ Urogenital: Urinary frequency.
 Adverse Reactions following Abrupt Discontinuation: In the 2 controlled clinical trials, there was no increase in the incidence, severity, or type of adverse reactions in patients with bipolar disorder after abruptly terminating therapy with LAMICTAL.
 In the clinical development program in adults with bipolar disorder, 2 patients experienced seizures shortly after abrupt withdrawal of LAMICTAL [see Warnings and Precautions (5.9)].
 
-Mania/Hypomania/Mixed Episodes: During the double-blind placebo-controlled clinical trials in bipolar I disorder in which adults were converted to monotherapy with LAMICTAL (100 to 400 mg/day) from other psychotropic medications and followed for up to 18 months, the rates of manic or hypomanic or mixed mood episodes reported as adverse reactions were 5% for patients treated with LAMICTAL (n = 227), 4% for patients treated with lithium (n = 166), and 7% for patients treated with placebo (n = 190).
+Mania/Hypomania/Mixed Episodes: During the double-blind, placebo-controlled clinical trials in bipolar I disorder in which adults were converted to monotherapy with LAMICTAL (100 to 400 mg/day) from other psychotropic medications and followed for up to 18 months, the rates of manic or hypomanic or mixed mood episodes reported as adverse reactions were 5% for patients treated with LAMICTAL (n = 227), 4% for patients treated with lithium (n = 166), and 7% for patients treated with placebo (n = 190).
 In all bipolar controlled trials combined, adverse reactions of mania (including hypomania and mixed mood episodes) were reported in 5% of patients treated with LAMICTAL (n = 956), 3% of patients treated with lithium (n = 280), and 4% of patients treated with placebo (n = 803).
 
 ## 6.2 Other Adverse Reactions Observed in All Clinical Trials

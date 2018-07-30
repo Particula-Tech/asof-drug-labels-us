@@ -6,7 +6,7 @@ Pediatric Population
 
 The incidence of serious rash associated with hospitalization and discontinuation of LAMICTAL in a prospectively followed cohort of pediatric patients (aged 2 to 17 years) is approximately 0.3% to 0.8%.
 One rash-related death was reported in a prospectively followed cohort of 1,983 pediatric patients (aged 2 to 16 years) with epilepsy taking LAMICTAL as adjunctive therapy.
-Additionally, there have been rare cases of toxic epidermal necrolysis with and without permanent sequelae and/or death in US and foreign postmarketing experience.
+Additionally, there have been rare cases of toxic epidermal necrolysis with and without permanent sequelae and/or death in U.S. and foreign postmarketing experience.
 
 There is evidence that the inclusion of valproate in a multidrug regimen increases the risk of serious, potentially life-threatening rash in pediatric patients.
 In pediatric patients who used valproate concomitantly for epilepsy, 1.2% (6 of 482) experienced a serious rash compared with 0.6% (6 of 952) patients not taking valproate.
@@ -18,7 +18,7 @@ In the bipolar and other mood disorders clinical trials, the rate of serious ras
 No fatalities occurred among these individuals.
 However, in worldwide postmarketing experience, rare cases of rash-related death have been reported, but their numbers are too few to permit a precise estimate of the rate.
 
-Among the rashes leading to hospitalization were Stevens-Johnson syndrome, toxic epidermal necrolysis, angioedema, and those associated with multiorgan hypersensitivity [see Warnings and Precautions (5.2)].
+Among the rashes leading to hospitalization were Stevens-Johnson syndrome, toxic epidermal necrolysis, angioedema, and those associated with multiorgan hypersensitivity [see Warnings and Precautions (5.3)].
 
 There is evidence that the inclusion of valproate in a multidrug regimen increases the risk of serious, potentially life-threatening rash in adults.
 Specifically, of 584 patients administered LAMICTAL with valproate in epilepsy clinical trials, 6 (1%) were hospitalized in association with rash; in contrast, 4 (0.16%) of 2,398 clinical trial patients and volunteers administered LAMICTAL in the absence of valproate were hospitalized.
@@ -154,7 +154,6 @@ This represents an incidence of 0.0035 deaths per patient-year.
 Although this rate exceeds that expected in a healthy population matched for age and sex, it is within the range of estimates for the incidence of sudden unexplained death in epilepsy (SUDEP) in patients not receiving LAMICTAL (ranging from 0.0005 for the general population of patients with epilepsy, to 0.004 for a recently studied clinical trial population similar to that in the clinical development program for LAMICTAL, to 0.005 for patients with refractory epilepsy).
 Consequently, whether these figures are reassuring or suggest concern depends on the comparability of the populations reported upon with the cohort receiving LAMICTAL and the accuracy of the estimates provided.
 Probably most reassuring is the similarity of estimated SUDEP rates in patients receiving LAMICTAL and those receiving other AEDs, chemically unrelated to each other, that underwent clinical testing in similar populations.
-Importantly, that drug is chemically unrelated to LAMICTAL.
 This evidence suggests, although it certainly does not prove, that the high SUDEP rates reflect population rates, not a drug effect.
 
 ## 5.12 Addition of LAMICTAL to a Multidrug Regimen that Includes Valproate

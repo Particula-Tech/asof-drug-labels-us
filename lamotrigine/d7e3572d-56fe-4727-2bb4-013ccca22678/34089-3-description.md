@@ -16,5 +16,5 @@ The chewable dispersible tablets meet Organic Impurities Procedure 2 as publishe
 LAMICTAL ODT orally disintegrating tablets are supplied for oral administration.
 The tablets contain 25 mg (white to off-white), 50 mg (white to off-white), 100 mg (white to off-white), or 200 mg (white to off-white) of lamotrigine and the following inactive ingredients: artificial cherry flavor, crospovidone, ethylcellulose, magnesium stearate, mannitol, polyethylene, and sucralose.
 
-LAMICTAL ODT orally disintegrating tablets are formulated using technologies (Microcaps® and AdvaTab®) designed to mask the bitter taste of lamotrigine and achieve a rapid dissolution profile.
+LAMICTAL ODT orally disintegrating tablets are formulated using technologies (Microcaps and AdvaTab) designed to mask the bitter taste of lamotrigine and achieve a rapid dissolution profile.
 Tablet characteristics including flavor, mouth-feel, after-taste, and ease of use were rated as favorable in a study in 108 healthy volunteers.

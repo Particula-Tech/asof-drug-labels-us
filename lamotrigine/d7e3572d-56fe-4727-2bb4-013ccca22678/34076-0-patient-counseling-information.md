@@ -62,8 +62,8 @@ Potential Medication Errors
 To avoid a medication error of using the wrong drug or formulation, strongly advise patients to visually inspect their tablets to verify that they are LAMICTAL, as well as the correct formulation of LAMICTAL, each time they fill their prescription [see Dosage Forms and Strengths (3.1, 3.2, 3.3), How Supplied/Storage and Handling (16)].
 Refer the patient to the Medication Guide that provides depictions of the LAMICTAL tablets, chewable dispersible tablets, and orally disintegrating tablets.
 
-LAMICTAL and LAMICTAL ODT are registered trademarks of the GSK group of companies.
-The other brands listed are trademarks of their respective owners and are not trademarks of the GSK group of companies.
+LAMICTAL and LAMICTAL ODT are trademarks owned by or licensed to the GSK group of companies.
+The other brands listed are trademarks owned by or licensed to their respective owners and are not owned by or licensed to the GSK group of companies.
 The makers of these brands are not affiliated with and do not endorse the GSK group of companies or its products.
 
 Distributed by
@@ -72,7 +72,6 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2018 the GSK group of companies.
-All rights reserved.
+©2018 GSK group of companies or its licensor.
 
-LMT:18PI
+LMT:19PI

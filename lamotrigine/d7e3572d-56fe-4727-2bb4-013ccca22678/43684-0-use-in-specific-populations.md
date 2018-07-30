@@ -60,7 +60,7 @@ Respiratory adverse reactions included nasal congestion, cough, and apnea.
 Bipolar Disorder
 
 Safety and efficacy of LAMICTAL for the maintenance treatment of bipolar disorder were not established in a double-blind, randomized withdrawal, placebo-controlled trial that evaluated 301 pediatric patients aged 10 to 17 years with a current manic/hypomanic, depressed, or mixed mood episode as defined by DSM-IV-TR.
-In the randomized phase of the trial, adverse reactions that occurred in at least 5% of patients taking LAMICTAL (n = 87) and were twice as common compared to patients taking placebo (n = 86) were influenza (LAMICTAL 8%, placebo 2%), oropharyngeal pain (LAMICTAL 8%, placebo 2%), vomiting (LAMICTAL 6%, placebo 2%), contact dermatitis (LAMICTAL 5%, placebo 2%), upper abdominal pain (LAMICTAL 5%, placebo 1%), and suicidal ideation (LAMICTAL 5%, placebo 0%).
+In the randomized phase of the trial, adverse reactions that occurred in at least 5% of patients taking LAMICTAL (n = 87) and were twice as common compared with patients taking placebo (n = 86) were influenza (LAMICTAL 8%, placebo 2%), oropharyngeal pain (LAMICTAL 8%, placebo 2%), vomiting (LAMICTAL 6%, placebo 2%), contact dermatitis (LAMICTAL 5%, placebo 2%), upper abdominal pain (LAMICTAL 5%, placebo 1%), and suicidal ideation (LAMICTAL 5%, placebo 0%).
 
 Juvenile Animal Data
 
