@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA019909"
+  ],
+  "inn": "acyclovir",
+  "labeler": "Mylan Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0378-9735-73"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "acyclovir",
+      "name": "Zovirax"
+    }
+  ],
+  "setid": "7cc087ad-51af-4c6a-87ef-72636b67321f",
+  "source": "dailymed"
+}
