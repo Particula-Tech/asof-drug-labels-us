@@ -59,7 +59,9 @@ Before starting ADDERALL XR tell you or your child's doctor about all health con
 - heart problems, heart defects, or high blood pressure
 - mental problems including psychosis, mania, bipolar illness, or depression
 - tics or Tourette's syndrome
-- liver or kidney problems
+- liver problems
+- kidney problems
+- end stage renal disease (ESRD)
 - thyroid problems
 - seizures or have had an abnormal brain wave test (EEG)
 - circulation problems in fingers and toes
@@ -97,14 +99,14 @@ How should ADDERALL XR be taken?
 - Take ADDERALL XR once a day in the morning when you first wake up.
   ADDERALL XR is an extended release capsule.
   It releases medicine into your body throughout the day.
-- Swallow ADDERALL XR capsules whole with water or other liquids.
+- Swallow ADDERALL XR extended release capsules whole with water or other liquids.
   If you or your child cannot swallow the capsule, open it and sprinkle the medicine over a spoonful of applesauce.
   Swallow all of the applesauce and medicine mixture without chewing immediately.
   Follow with a drink of water or other liquid.
   Never chew or crush the capsule or the medicine inside the capsule.
 - ADDERALL XR can be taken with or without food.
 - From time to time, your doctor may stop ADDERALL XR treatment for a while to check ADHD symptoms.
-- Your doctor may do regular checks of the blood, heart, and blood pressure while taking ADDERALL XR.
+- Your doctor may do regular checks of the heart and blood pressure while taking ADDERALL XR.
   Children should have their height and weight checked often while taking ADDERALL XR.
   ADDERALL XR treatment may be stopped if a problem is found during these check-ups.
 - If you or your child takes too much ADDERALL XR or overdoses, call your doctor or poison control center right away, or get emergency treatment.
@@ -161,7 +163,7 @@ For more information, you may also contact Shire Pharmaceuticals (the maker of A
 
 What are the ingredients in ADDERALL XR?
 
-Active Ingredients: dextroamphetamine saccharate, amphetamine aspartate monohydrate, dextroamphetamine sulfate, USP, amphetamine sulfate USP
+Active Ingredients: dextroamphetamine saccharate, amphetamine aspartate monohydrate, dextroamphetamine sulfate, amphetamine sulfate.
 
 Inactive Ingredients: gelatin capsules, hydroxypropyl methylcellulose, methacrylic acid copolymer, opadry beige, sugar spheres, talc, and triethyl citrate.
 Gelatin capsules contain edible inks, kosher gelatin, and titanium dioxide.
@@ -169,5 +171,6 @@ The 5 mg, 10 mg, and 15 mg capsules also contain FD&C Blue #2.
 The 20 mg, 25 mg, and 30 mg capsules also contain red iron oxide and yellow iron oxide
 
 Manufactured for Shire US Inc., 300 Shire Way, Lexington, MA 02421.
-ADDERALL XR® is a registered trademark of Shire LLC © 2015 Shire US Inc Rev.
-12/2015 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+ADDERALL XR® is a registered trademark of Shire LLC © 2018 Shire US Inc. All rights reserved.
+Rev.
+7/2018 This Medication Guide has been approved by the U.S. Food and Drug Administration.

@@ -8,7 +8,7 @@ Administer ADDERALL XR at the lowest effective dosage.
 Based on bioequivalence data, patients taking divided doses of immediate-release ADDERALL, (for example, twice daily), may be switched to ADDERALL XR at the same total daily dose taken once daily.
 Titrate at weekly intervals to appropriate efficacy and tolerability as indicated.
 
-ADDERALL XR capsules may be taken whole, or the capsule may be opened and the entire contents sprinkled on applesauce.
+ADDERALL XR extended release capsules may be taken whole, or the capsule may be opened and the entire contents sprinkled on applesauce.
 If the patient is using the sprinkle administration method, the sprinkled applesauce should be consumed immediately; it should not be stored.
 Patients should take the applesauce with sprinkled beads in its entirety without chewing.
 The dose of a single capsule should not be divided.
@@ -25,7 +25,7 @@ Where possible, ADDERALL XR therapy should be interrupted occasionally to determ
 
 In children with ADHD who are 6-12 years of age and are either starting treatment for the first time or switching from another medication, start with 10 mg once daily in the morning; daily dosage may be adjusted in increments of 5 mg or 10 mg at weekly intervals.
 When in the judgment of the clinician a lower initial dose is appropriate, patients may begin treatment with 5 mg once daily in the morning.
-The maximum recommended dose for children is 30 mg/day; doses greater than 30 mg/day of ADDERALL XR have not been studied in children.
+The maximum recommended dose for children 6-12 years of age is 30 mg/day; doses greater than 30 mg/day have not been studied in children.
 ADDERALL XR has not been studied in children under 6 years of age.
 
 ## 2.3 Adolescents
@@ -36,3 +36,10 @@ The dose may be increased to 20 mg/day after one week if ADHD symptoms are not a
 ## 2.4 Adults
 
 In adults with ADHD who are either starting treatment for the first time or switching from another medication, the recommended dose is 20 mg/day.
+
+## 2.5 Dosage in Patients with Renal Impairment
+
+In adult patients with severe renal impairment (GFR 15 to < 30 mL/min/1.73m2), the recommended dose is 15 mg once daily in the morning.
+In pediatric patients (6 to 17 years of age) with severe renal impairment, the recommended dose is 5 mg once daily.
+The maximum dose for children 6 to 12 years of age with severe renal impairment is 20 mg once daily.
+ADDERALL XR is not recommended in patients with end stage renal disease (ESRD) (GFR < 15 mL/min/1.73m2) [see USE IN SPECIFIC POPULATIONS (8.6), CLINICAL PHARMACOLOGY (12.3)].

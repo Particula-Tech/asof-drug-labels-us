@@ -6,7 +6,7 @@ Teratogenic Effects
 
 Pregnancy Category C.
 
-Amphetamine, in the enantiomer ratio present in ADDERALL XR (d- to l- ratio of 3:1), had no apparent effects on embryofetal morphological development or survival when orally administered to pregnant rats and rabbits throughout the period of organogenesis at doses of up to 6 and 16 mg/kg/day, respectively.
+Amphetamine, in the enantiomer ratio present in ADDERALL XR (d- to l- ratio of approximately 3:1), had no apparent effects on embryofetal morphological development or survival when orally administered to pregnant rats and rabbits throughout the period of organogenesis at doses of up to 6 and 16 mg/kg/day, respectively.
 These doses are approximately 2 and 12 times, respectively, the maximum recommended human dose (MRHD) for adolescents of 20 mg/day, on a mg/m2 body surface area basis.
 Fetal malformations and death have been reported in mice following parenteral administration of d-amphetamine doses of 50 mg/kg/day (approximately 10 times the MRHD for adolescents on a mg/m2 basis) or greater to pregnant animals.
 Administration of these doses was also associated with severe maternal toxicity.
@@ -56,3 +56,10 @@ A delay in the developmental milestones of vaginal opening and preputial separat
 ## 8.5 Geriatric Use
 
 ADDERALL XR has not been studied in the geriatric population.
+
+## 8.6 Renal Impairment
+
+Due to reduced clearance of amphetamines in patients with severe renal impairment (GFR 15 to <30 mL/min/1.73m2), the recommended dose should be reduced.
+ADDERALL XR is not recommended in patients with ESRD (GFR < 15 ml/min/1.73m2) [see DOSAGE and ADMINISTRATION (2.5), CLINICAL PHARMACOLOGY (12.3).
+
+d-Amphetamine is not dialyzable.

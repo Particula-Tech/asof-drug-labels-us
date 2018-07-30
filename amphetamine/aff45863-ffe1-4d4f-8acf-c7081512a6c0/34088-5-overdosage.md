@@ -12,3 +12,5 @@ Treatment
 Consult with a Certified Poison Control Center for up to date guidance and advice.
 
 The prolonged release of mixed amphetamine salts from ADDERALL XR should be considered when treating patients with overdose.
+
+d-Amphetamine is not dialyzable.
