@@ -1,12 +1,6 @@
 MEDICATION GUIDE
 
-Levofloxacin Tablets, USP
-
-(LEE voe FLOX a sin)
-
-Read this Medication Guide before you start taking levofloxacin and each time you get a refill.
-There may be new information.
-This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or your treatment.
+Levofloxacin (LEE voe FLOX a sin) Tablets, USP
 
 What is the most important information I should know about levofloxacin?
 Levofloxacin, a fluoroquinolone antibiotic, can cause serious side effects.
@@ -100,14 +94,14 @@ These bacterial infections include:
 - chronic prostate infection
 - urinary tract infections, complicated and uncomplicated
 - acute kidney infection (pyelonephritis)
-- inhalation anthrax
+- inhalation anthrax germs
 - plague
 
 Studies of levofloxacin for use in the treatment of plague and anthrax were done in animals only, because plague and anthrax could not be studied in people.
 
 Levofloxacin should not be used in patients with uncomplicated urinary tract infections, acute bacterial exacerbation of chronic bronchitis, or acute bacterial sinusitis if there are other treatment options available.
 
-Levofloxacin is also used to treat children who are 6 months of age or older and may have breathed in anthrax germs, have plague, or been exposed to plague germs.
+Levofloxacin tablets are also used to treat children who weigh at least 66 pounds (or at least 30 kilograms) and may have breathed in anthrax germs, have plague, or been exposed to plague germs.
 
 It is not known if levofloxacin is safe and effective in children under 6 months of age.
 
@@ -118,18 +112,12 @@ Who should not take levofloxacin?
 Do not take levofloxacin if you have ever had a severe allergic reaction to an antibiotic known as a fluoroquinolone, or if you are allergic to levofloxacin or any of the ingredients in levofloxacin tablets.
 See the end of this leaflet for a complete list of ingredients in levofloxacin tablets.
 
-What should I tell my healthcare provider before taking levofloxacin?
+Before you take levofloxacin, tell your healthcare provider about all of your medical conditions, including if you:
 
-Before you take levofloxacin, tell your healthcare provider if you:
-
-have tendon problems; levofloxacin should not be used in patients who have a history of tendon problems
-
-have a problem that causes muscle weakness (myasthenia gravis); levofloxacin should not be used in patients who have a known history of myasthenia gravis
-
-have central nervous system problems such as seizures (epilepsy)
-
-have nerve problems; levofloxacin should not be used in patients how have a history of a nerve problem called peripheral neuropathy
-
+- have tendon problems; levofloxacin should not be used in people who have a history of tendon problems
+- have a problem that causes muscle weakness (myasthenia gravis); levofloxacin should not be used in people who have a known history of myasthenia gravis
+- have central nervous system problems such as seizures (epilepsy)
+- have nerve problems; levofloxacin should not be used in patients how have a history of a nerve problem called peripheral neuropathy
 - have or anyone in your family has an irregular heartbeat, especially a condition called "QT prolongation."
 - have low blood potassium (hypokalemia)
 - have bone problems
@@ -145,7 +133,7 @@ have nerve problems; levofloxacin should not be used in patients how have a hist
   You and your healthcare provider should decide if you will take levofloxacin or breastfeed.
   You should not do both.
 
-Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
 Levofloxacin and other medicines can affect each other causing side effects.
 
@@ -159,7 +147,7 @@ Especially tell your healthcare provider if you take:
   Take levofloxacin Tablets either 2 hours before or 2 hours after taking these medicines or supplements:
   - an antacid, multivitamin, or other medicines or supplements that have magnesium, aluminum, iron, or zinc
   - sucralfate (Carafate®)
-  - didanosine (Videx®,Videx®EC)
+  - didanosine (Videx®,Videx® EC)
 - a blood thinner (warfarin, Coumadin, Jantoven)
 - an oral anti-diabetes medicine or insulin
 - an NSAID (Non-Steroidal Anti-Inflammatory Drug).
@@ -216,7 +204,7 @@ What are the possible side effects of levofloxacin?
 
 Levofloxacin can cause serious side effects, including:.
 
-- See "What is the most important information I should know about levofloxacin ?"
+- See "What is the most important information I should know about levofloxacin?"
 - Serious allergic reactions.
 
 Allergic reactions can happen in people taking fluoroquinolones, including levofloxacin, even after only 1 dose.
@@ -304,7 +292,6 @@ Levofloxacin may cause false-positive urine screening results for opiates when t
 A positive result should be confirmed using a more specific test.
 
 These are not all the possible side effects of levofloxacin.
-Tell your healthcare provider about any side effect that bothers you or that does not go away.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
@@ -313,8 +300,6 @@ How should I store levofloxacin?
 
 - Store levofloxacin tablets at room temperature between 20° to 25° C (68° to 77° F).
 - Keep levofloxacin tablets in a tightly closed container.
-
-Keep levofloxacin and all medicines out of the reach of children.
 
 General information about the safe and effective use of levofloxacin
 
@@ -327,7 +312,7 @@ This Medication Guide summarizes the most important information about levofloxac
 If you would like more information about levofloxacin, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about levofloxacin that is written for healthcare professionals.
 
-Please address medical inquiries to, MedicalAffairs@zydususa.com or Tel.: 1-877-993-8779.
+Please address medical inquiries to, MedicalAffairs@zydususa.com orTel.: 1-877-993-8779.
 
 What are the ingredients in levofloxacin tablets, USP?
 

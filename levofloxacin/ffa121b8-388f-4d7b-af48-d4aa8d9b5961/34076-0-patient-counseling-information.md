@@ -48,7 +48,7 @@ course of therapy may (1) decrease the effectiveness of the immediate treatment 
 Administration with Food, Fluids, and Concomitant Medications
 
 Patients should be informed that levofloxacin tablets may be taken with or without food.
-The tablet should be taken at the same time each day.
+The tablets should be taken at the same time each day.
 Patients should drink fluids liberally while taking levofloxacin to avoid formation of a highly concentrated urine and crystal formation in the urine.
 Antacids containing magnesium, or aluminum, as well as sucralfate, metal cations such as iron, and multivitamin preparations with zinc or didanosine should be taken at least two hours before or two hours after oral levofloxacin
 
@@ -73,4 +73,4 @@ Cadila Healthcare Ltd.
 
 Ahmedabad, India.
 
-Rev: 05/18
+Rev: 07/18

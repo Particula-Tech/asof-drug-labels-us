@@ -6,7 +6,7 @@ Levofloxacin is a member of the fluoroquinolone class of antibacterial agents [s
 
 ## 12.3 Pharmacokinetics
 
-The mean ±SD pharmacokinetic parameters of levofloxacin determined under single and steady-state conditions following oral tablet doses of levofloxacin are summarized in Table 8.
+The mean ±SD pharmacokinetic parameters of levofloxacin determined under single and steady-state conditions following administration of the oral tablets, are summarized in Table 8.
 
 Table 8 Mean ±SD Levofloxacin PK Parameters
 
@@ -24,7 +24,7 @@ Table 8 Mean ±SD Levofloxacin PK Parameters
 | Female6 | 7 ± 1.6 | 1.7 ± 0.5 | 67.7 ± 24.2 | 136 ± 44 | 62 ± 16 | 6.1 ± 0.8 | 106 ± 40 |
 | Young7 | 5.5 ± 1 | 1.5 ± 0.6 | 47.5 ± 9.8 | 182 ± 35 | 83 ± 18 | 6 ± 0.9 | 140 ± 33 |
 | Elderly8 | 7 ± 1.6 | 1.4 ± 0.5 | 74.7 ± 23.3 | 121 ± 33 | 67 ± 19 | 7.6 ± 2 | 91 ± 29 |
-| 500 mg oral single dose tablet, patients with renal insufficiency: |  |  |  |  |  |  |  |
+| 500 mg oral single dose tablet, patients with renal impairment: |  |  |  |  |  |  |  |
 | CLCR 50 to 80 mL/min | 7.5 ± 1.8 | 1.5 ± 0.5 | 95.6 ± 11.8 | 88 ± 10 | ND | 9.1 ± 0.9 | 57 ± 8 |
 | CLCR 20 to 49 mL/min | 7.1 ± 3.1 | 2.1 ± 1.3 | 182.1 ± 62.6 | 51 ± 19 | ND | 27 ± 10 | 26 ± 13 |
 | CLCR < 20 mL/min | 8.2 ± 2.6 | 1.1 ± 1 | 263.5 ± 72.5 | 33 ± 8 | ND | 35 ± 5 | 13 ± 3 |
@@ -41,28 +41,22 @@ Table 8 Mean ±SD Levofloxacin PK Parameters
 | * Absolute bioavailability; F=0.99 ± 0.08 from a 500 mg tablet and F=0.99 ± 0.06 from a 750 mg tablet; |  |  |  |  |  |  |  |
 | ND=not determined. |  |  |  |  |  |  |  |
 
+Levofloxacin pharmacokinetics are linear and predictable after single and multiple oral or IV dosing regimens.
+Steady-state conditions are reached within 48 hours following a 500 mg or 750 mg once-daily dosage regimen.
+The mean ± SD peak and trough plasma concentrations attained following multiple once-daily oral dosage regimens were approximately 5.7 ± 1.4 and 0.5 ± 0.2 mcg/mL after the 500 mg doses, and 8.6 ± 1.9 and 1.1 ± 0.4 mcg/mL after the 750 mg doses, respectively.
+The mean ± SD peak and trough plasma concentrations attained following multiple once-daily IV regimens were approximately 6.4 ± 0.8 and 0.6 ± 0.2 mcg/mL after the 500 mg doses, and 12.1 ± 4.1 and 1.3 ± 0.71 mcg/mL after the 750 mg doses, respectively.
+
 Absorption
 
 Levofloxacin is rapidly and essentially completely absorbed after oral administration.
 Peak plasma concentrations are usually attained one to two hours after oral dosing.
 The absolute bioavailability of levofloxacin from a 500 mg tablet and a 750 mg tablet of levofloxacin are both approximately 99%, demonstrating complete oral absorption of levofloxacin.
-
-Levofloxacin pharmacokinetics are linear and predictable after single and multiple oral or IV dosing regimens.
-Steady-state conditions are reached within 48 hours following a 500 mg or 750 mg once-daily dosage regimen.
-The mean ±SD peak and trough plasma concentrations attained following multiple once-daily oral dosage regimens were approximately 5.7 ±1.4 and 0.5 ±0.2 mcg/mL after the 500 mg doses, and 8.6 ±1.9 and 1.1 ±0.4 mcg/mL after the 750 mg doses, respectively.
-Oral administration of a 500 mg dose of levofloxacin with food prolongs the time to peak concentration by approximately 1 hour and decreases the peak concentration by approximately 14% following tablet administration.
+Following a single intravenous dose of levofloxacin to healthy volunteers, the mean ± SD peak plasma concentration attained was 6.2 ± 1.0 mcg/mL after a 500 mg dose infused over 60 minutes and 11.5 ± 4.0 mcg/mL after a 750 mg dose infused over 90 minutes.
+Oral administration of a 500 mg dose of levofloxacin with food prolongs the time to peak concentration by approximately 1 hour and decreases the peak concentration by approximately 14% following tablet and approximately 25% following oral solution administration.
 Therefore, levofloxacin tablets can be administered without regard to food.
 
 The plasma concentration profile of levofloxacin after IV administration is similar and comparable in extent of exposure (AUC) to that observed for levofloxacin tablets when equal doses (mg/mg) are administered.
-Therefore, the oral and IV routes of administration can be considered interchangeable (see Figure 2 and Figure 3).
-
-Figure 2
-
-Mean Levofloxacin Plasma Concentration vs. Time Profile: 750 mg
-
-Figure 3
-
-Mean Levofloxacin Plasma Concentration vs. Time Profile: 500 mg
+Therefore, the oral and IV routes of administration can be considered interchangeable.
 
 Distribution
 
@@ -75,6 +69,8 @@ Lung tissue concentrations were generally 2- to 5-fold higher than plasma concen
 In vitro, over a clinically relevant range (1 to 10 mcg/mL) of serum/plasma levofloxacin concentrations, levofloxacin is approximately 24 to 38% bound to serum proteins across all species studied, as determined by the equilibrium dialysis method.
 Levofloxacin is mainly bound to serum albumin in humans.
 Levofloxacin binding to serum proteins is independent of the drug concentration.
+
+Elimination
 
 Metabolism
 
@@ -93,20 +89,23 @@ Renal clearance in excess of the glomerular filtration rate suggests that tubula
 Concomitant administration of either cimetidine or probenecid results in approximately 24% and 35% reduction in the levofloxacin renal clearance, respectively, indicating that secretion of levofloxacin occurs in the renal proximal tubule.
 No levofloxacin crystals were found in any of the urine samples freshly collected from subjects receiving levofloxacin.
 
-Geriatric
+Specific Populations
+
+Geriatric Patients
 
 There are no significant differences in levofloxacin pharmacokinetics between young and elderly subjects when the subjects' differences in creatinine clearance are taken into consideration.
 Following a 500 mg oral dose of levofloxacin to healthy elderly subjects (66 to 80 years of age), the mean terminal plasma elimination half-life of levofloxacin was about 7.6 hours, as compared to approximately 6 hours in younger adults.
 The difference was attributable to the variation in renal function status of the subjects and was not believed to be clinically significant.
 Drug absorption appears to be unaffected by age. levofloxacin dose adjustment based on age alone is not necessary [See Use in Specific Populations (8.5)].
 
-Pediatrics
+Pediatric Patients
 
 The pharmacokinetics of levofloxacin following a single 7 mg/kg intravenous dose were investigated in pediatric patients ranging in age from 6 months to 16 years.
 Pediatric patients cleared levofloxacin faster than adult patients, resulting in lower plasma exposures than adults for a given mg/kg dose.
 Subsequent pharmacokinetic analyses predicted that a dosage regimen of 8 mg/kg every 12 hours (not to exceed 250 mg per dose) for pediatric patients 6 months to 17 years of age would achieve comparable steady state plasma exposures (AUC0-24 and Cmax) to those observed in adult patients administered 500 mg of levofloxacin once every 24 hours.
+Levofloxacin tablets can only be administered to pediatric patients with inhalational anthrax (post-exposure) or plague who are 30 kg or greater due to the limitations of the available strengths [see Dosage and Administration (2.2)]
 
-Gender
+Male and Female Subjects
 
 There are no significant differences in levofloxacin pharmacokinetics between male and female subjects when subjects' differences in creatinine clearance are taken into consideration.
 Following a 500 mg oral dose of levofloxacin to healthy male subjects, the mean terminal plasma elimination half-life of levofloxacin was about 7.5 hours, as compared to approximately 6.1 hours in female subjects.
@@ -114,26 +113,26 @@ This difference was attributable to the variation in renal function status of th
 Drug absorption appears to be unaffected by the gender of the subjects.
 Dose adjustment based on gender alone is not necessary.
 
-Race
+Racial or Ethnic Groups
 
 The effect of race on levofloxacin pharmacokinetics was examined through a covariate analysis performed on data from 72 subjects: 48 white and 24 non-white.
 The apparent total body clearance and apparent volume of distribution were not affected by the race of the subjects.
 
-Renal Impairment
+Patients with Renal Impairment
 
 Clearance of levofloxacin is substantially reduced and plasma elimination half-life is substantially prolonged in adult patients with impaired renal function (creatinine clearance < 50 mL/min), requiring dosage adjustment in such patients to avoid accumulation.
-Neither hemodialysis nor continuous ambulatory peritoneal dialysis (CAPD) is effective in removal of levofloxacin from the body, indicating that supplemental doses of levofloxacin are not required following hemodialysis or CAPD [see Dosage and Administration (2.3), Use in Specific Populations (8.6)].
+Neither hemodialysis nor continuous ambulatory peritoneal dialysis (CAPD) is effective in removal of levofloxacin from the body, indicating that supplemental doses of levofloxacin are not required following hemodialysis or CAPD [see Dosage and Administration (2.3) and Use in Specific Populations (8.6)].
 
-Hepatic Impairment
+Patients with Hepatic Impairment
 
 Pharmacokinetic studies in hepatically impaired patients have not been conducted.
-Due to the limited extent of levofloxacin metabolism, the pharmacokinetics of levofloxacin are not expected to be affected by hepatic impairment [See Use in Specific Populations (8.7)].
+Due to the limited extent of levofloxacin metabolism, the pharmacokinetics of levofloxacin are not expected to be affected by hepatic impairment [see Use in Specific Populations (8.7)].
 
-Bacterial Infection
+Patients with Bacterial Infection
 
 The pharmacokinetics of levofloxacin in patients with serious community-acquired bacterial infections are comparable to those observed in healthy subjects.
 
-Drug-Drug Interactions
+Drug Interactions Studies
 
 The potential for pharmacokinetic drug interactions between levofloxacin and antacids, warfarin, theophylline, cyclosporine, digoxin, probenecid, and cimetidine has been evaluated [see Drug Interactions (7)].
 
@@ -145,7 +144,7 @@ Levofloxacin is the L-isomer of the racemate, ofloxacin, a quinolone antimicrobi
 The antibacterial activity of ofloxacin resides primarily in the L-isomer.
 The mechanism of action of levofloxacin and other fluoroquinolone antimicrobials involves inhibition of bacterial topoisomerase IV and DNA gyrase (both of which are type II topoisomerases), enzymes required for DNA replication, transcription, repair and recombination.
 
-Mechanism of Resistance
+Resistance
 
 Fluoroquinolone resistance can arise through mutations in defined regions of DNA gyrase or topoisomerase IV, termed the Quinolone-Resistance Determining Regions (QRDRs), or through altered efflux.
 
@@ -155,11 +154,13 @@ Fluoroquinolones may, therefore, be active against bacteria resistant to these a
 Resistance to levofloxacin due to spontaneous mutation in vitro is a rare occurrence (range: 10-9to 10-10).
 Cross-resistance has been observed between levofloxacin and some other fluoroquinolones, some microorganisms resistant to other fluoroquinolones may be susceptible to levofloxacin.
 
-Activity in vitro and in vivo
+Antimicrobial Activity
 
 Levofloxacin has in vitro activity against Gram-negative and Gram-positive bacteria.
 
 Levofloxacin has been shown to be active against most isolates of the following bacteria both in vitro and in clinical infections as described in Indications and Usage (1):
+
+Aerobic bacteria
 
 Gram-Positive Bacteria
 
@@ -199,7 +200,7 @@ Pseudomonas aeruginosa
 
 Serratia marcescens
 
-Other Bacteria
+Other microorganisms
 
 Chlamydophila pneumoniae
 
@@ -208,6 +209,8 @@ Mycoplasma pneumoniae
 The following in vitro data are available, but their clinical significance is unknown:
 
 Levofloxacin exhibits in vitro minimum inhibitory concentrations (MIC values) of 2 mcg/mL or less against most (≥ 90%) isolates of the following microorganisms; however, the safety and effectiveness of levofloxacin in treating clinical infections due to these bacteria have not been established in adequate and well-controlled clinical trials.
+
+Aerobic Bacteria
 
 Gram-Positive Bacteria
 

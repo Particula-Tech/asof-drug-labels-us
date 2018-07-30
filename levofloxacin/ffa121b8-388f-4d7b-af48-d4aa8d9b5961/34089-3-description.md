@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Levofloxacin is a synthetic broad-spectrum antibacterial agent for oral administration.
+Levofloxacin tablets are synthetic antibacterial agents for oral administration.
 Chemically, levofloxacin, a chiral fluorinated carboxyquinolone, is the pure (-)-(S)-enantiomer of the racemic drug substance ofloxacin.
 The chemical name is (-)-(S)-9-fluoro-2,3-dihydro-3-methyl-10-(4-methyl-1-piperazinyl)-7-oxo-7H-pyrido[1,2,3-de]-1,4-benzoxazine-6-carboxylic acid hemihydrate.
 
@@ -21,8 +21,6 @@ Levofloxacin has the potential to form stable coordination compounds with many m
 This in vitro chelation potential has the following formation order:
 
 Al+3> Cu+2> Zn+2> Mg+2> Ca+2.
-
-Excipients and Description of Dosage Forms
 
 Each levofloxacin tablet, USP intended for oral administration contains levofloxacin hemihydrate equivalent to 250 mg or 500 mg or 750 mg of levofloxacin.
 In addition, each tablet contains the following inactive ingredients: crospovidone, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol 6000, talc and titanium dioxide.
