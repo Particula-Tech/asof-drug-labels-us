@@ -2,8 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects.
-Pregnancy Category D:
+Teratogenic Effects:
 
 There are no adequate and well-controlled studies on the use of doxycycline in pregnant women.
 The vast majority of reported experience with doxycycline during human pregnancy is short-term, first trimester exposure.
@@ -28,19 +27,19 @@ Because of the potential for serious adverse reactions in nursing infants from d
 
 ## 8.4 Pediatric use
 
-Because of the effects of drugs of the tetracycline-class on tooth development and growth, doxycycline hyclate delayed-release tablets should not be used in pediatric patients to the age of 8 years, unless the potential benefits are expected to outweigh the risks such as for anthrax, or when other drugs are not likely to be effective or are contraindicated [see Warnings and Precautions (5.1, 5.6) and Dosage and Administration (2.1, 2.3)].
+Because of the effects of drugs of the tetracycline-class on tooth development and growth, use doxycycline hyclate delayed-release tablets in pediatric patients 8 years of age or less only when the potential benefits are expected to outweigh the risks in severe or life-threatening conditions (e.g., anthrax, Rocky Mountain spotted fever), particularly, when there are no alternative therapies [see Warnings and Precautions (5.1, 5.6) and Dosage and Administration (2.1, 2.3)].
 
 ## 8.5 Geriatric use
 
 Clinical studies of doxycycline hyclate delayed-release tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 
-Doxycycline hyclate delayed-release tablets, USP, 50 mg tablets contain 3 mg (0.131 mEq) of sodium.
+Doxycycline hyclate delayed-release tablets, USP, 50 mg contain 3 mg (0.131 mEq) of sodium.
 
-Doxycycline hyclate delayed-release tablets, USP, 75 mg tablets contain 4.5 mg (0.196 mEq) of sodium.
+Doxycycline hyclate delayed-release tablets, USP, 75 mg contain 4.5 mg (0.196 mEq) of sodium.
 
-Doxycycline hyclate delayed-release tablets, USP, 100 mg tablets contain 6 mg (0.261 mEq) of sodium.
+Doxycycline hyclate delayed-release tablets, USP, 100 mg contain 6 mg (0.261 mEq) of sodium.
 
-Doxycycline hyclate delayed-release tablets, USP, 150 mg tablets contain 9 mg (0.392 mEq) of sodium.
+Doxycycline hyclate delayed-release tablets, USP, 150 mg contain 9 mg (0.392 mEq) of sodium.
 
-Doxycycline hyclate delayed-release tablets, USP, 200 mg tablets contain 12 mg (0.522 mEq) of sodium.
+Doxycycline hyclate delayed-release tablets, USP, 200 mg contain 12 mg (0.522 mEq) of sodium.

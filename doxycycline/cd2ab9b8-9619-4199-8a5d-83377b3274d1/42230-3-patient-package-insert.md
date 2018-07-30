@@ -2,11 +2,10 @@ FDA-Approved Patient Labeling
 
 Doxycycline hyclate delayed-release tablets, 50 mg, 75 mg, 100 mg, 150 mg and 200 mg
 
-Instructions for Breaking the 150 mg Doxycycline hyclate delayed-release Dual-Scored Tablet
+Instructions for Breaking the 150 mg Doxycycline hyclate delayed-release dual-scored tablet
 
 Your doctor may find it necessary to adjust your dosage of doxycycline hyclate delayed-release tablets to obtain the proper treatment response.
 The tablet is marked with separation lines (score lines) and may be broken at these score lines to provide any of the following doses.
-
 If your doctor prescribed:
 
 - 150 mg treatment (take the entire tablet)
@@ -15,11 +14,3 @@ If your doctor prescribed:
 
 To break the tablet, hold the tablet between your thumbs and index fingers close to the appropriate score line.
 Then, with the score line facing you, apply enough pressure to snap the tablet segments apart (do not use segments that do not break along the score line).
-
-Rx only
-
-Distributed by: Mayne Pharma Greenville, NC 27834 1-844-825-8500
-
-Manufactured by: Mayne Pharma International Pty Ltd 1538 Main North Road Salisbury South, SA 5106 Australia
-
-61449
