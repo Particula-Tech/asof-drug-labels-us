@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA205037"
+  ],
+  "inn": "daptomycin",
+  "labeler": "Mylan Institutional LLC",
+  "package_ndcs": [
+    "67457-813-50"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "daptomycin",
+      "name": "daptomycin"
+    }
+  ],
+  "setid": "b7737862-e783-4af3-9521-ae00ed7a42aa",
+  "source": "dailymed"
+}
