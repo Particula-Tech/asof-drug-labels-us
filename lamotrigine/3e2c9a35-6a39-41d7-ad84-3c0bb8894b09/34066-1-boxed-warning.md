@@ -1,6 +1,6 @@
 # WARNING: SERIOUS SKIN RASHES
 
-LAMICTAL® XR™ can cause serious rashes requiring hospitalization and discontinuation of treatment.
+LAMICTAL XR can cause serious rashes requiring hospitalization and discontinuation of treatment.
 The incidence of these rashes, which have included Stevens-Johnson syndrome, is approximately 0.8% (8 per 1,000) in pediatric patients (aged 2 to 16 years) receiving immediate-release lamotrigine as adjunctive therapy for epilepsy and 0.3% (3 per 1,000) in adults on adjunctive therapy for epilepsy.
 In a prospectively followed cohort of 1,983 pediatric patients (aged 2 to 16 years) with epilepsy taking adjunctive immediate-release lamotrigine, there was 1 rash-related death.
 LAMICTAL XR is not approved for patients younger than 13 years.

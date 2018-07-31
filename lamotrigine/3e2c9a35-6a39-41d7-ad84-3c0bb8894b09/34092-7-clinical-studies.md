@@ -14,7 +14,7 @@ A positive value on the Y-axis indicates an improvement from baseline (i.e., a d
 Thus, in a display of this type, a curve for an effective treatment is shifted to the left of the curve for placebo.
 The proportion of patients achieving any particular level of reduction in PGTC seizure frequency was consistently higher for the group treated with LAMICTAL XR compared with the placebo group.
 For example, 70% of patients randomized to LAMICTAL XR experienced a 50% or greater reduction in PGTC seizure frequency, compared with 32% of patients randomized to placebo.
-Patients with an increase in seizure frequency >100% are represented on the Y-axis as equal to or greater than -100%.
+Patients with an increase in seizure frequency >100% are represented on the Y-axis as ≥-100%.
 
 Figure 1.
 Proportion of Patients by Responder Rate for LAMICTAL XR and Placebo Group (Primary Generalized Tonic-Clonic Seizures Study)

@@ -62,13 +62,14 @@ Potential Medication Errors
 To avoid a medication error of using the wrong drug or formulation, strongly advise patients to visually inspect their tablets to verify that they are LAMICTAL XR each time they fill their prescription [see Dosage Forms and Strengths (3), How Supplied/Storage and Handling (16)].
 Refer the patient to the Medication Guide that provides depictions of the LAMICTAL XR extended-release tablets.
 
-LAMICTAL XR and DiffCORE are trademarks of the GSK group of companies.
+LAMICTAL XR is a trademark owned by or licensed to the GSK group of companies.
+The other brand listed is a trademark owned by or licensed to its owner and is not owned by or licensed to the GSK group of companies.
+The maker of this brand is not affiliated with and does not endorse the GSK group of companies or its products.
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2018 the GSK group of companies.
-All rights reserved.
+©2018 GSK group of companies or its licensor.
 
-LXR:20PI
+LXR:21PI

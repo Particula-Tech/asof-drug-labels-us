@@ -2,14 +2,14 @@
 
 ## 3.1 Extended-Release Tablets
 
-25 mg, yellow with white center, round, biconvex, film-coated tablets printed with “LAMICTAL” and “XR 25.”
+25-mg, yellow with white center, round, biconvex, film-coated tablets printed with “LAMICTAL” and “XR 25.”
 
-50 mg, green with white center, round, biconvex, film-coated tablets printed with “LAMICTAL” and “XR 50.”
+50-mg, green with white center, round, biconvex, film-coated tablets printed with “LAMICTAL” and “XR 50.”
 
-100 mg, orange with white center, round, biconvex, film-coated tablets printed with “LAMICTAL” and “XR 100.”
+100-mg, orange with white center, round, biconvex, film-coated tablets printed with “LAMICTAL” and “XR 100.”
 
-200 mg, blue with white center, round, biconvex, film-coated tablets printed with “LAMICTAL” and “XR 200.”
+200-mg, blue with white center, round, biconvex, film-coated tablets printed with “LAMICTAL” and “XR 200.”
 
-250 mg, purple with white center, caplet-shaped, film-coated tablets printed with “LAMICTAL” and “XR 250.”
+250-mg, purple with white center, caplet-shaped, film-coated tablets printed with “LAMICTAL” and “XR 250.”
 
-300 mg, gray with white center, caplet-shaped, film-coated tablets printed with “LAMICTAL” and “XR 300.”
+300-mg, gray with white center, caplet-shaped, film-coated tablets printed with “LAMICTAL” and “XR 300.”

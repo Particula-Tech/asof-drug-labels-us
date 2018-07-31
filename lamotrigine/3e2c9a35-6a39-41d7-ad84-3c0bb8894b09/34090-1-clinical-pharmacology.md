@@ -147,12 +147,14 @@ Summary of Drug Interactions with Lamotrigine
 | Carbamazepine epoxideg | ? |  |
 | Felbamate | Not assessed | ↔ |
 | Gabapentin | Not assessed | ↔ |
+| Lacosamide | Not assessed | ↔ |
 | Levetiracetam | ↔ | ↔ |
 | Lithium | ↔ | Not assessed |
 | Lopinavir/ritonavir | ↔e | ↓ |
 | Olanzapine | ↔ | ↔e |
 | Oxcarbazepine | ↔ | ↔ |
 | 10-Monohydroxy oxcarbazepine metaboliteh | ↔ |  |
+| Perampanel | Not assessed | ↔e |
 | Phenobarbital/primidone | ↔ | ↓ |
 | Phenytoin | ↔ | ↓ |
 | Pregabalin | ↔ | ↔ |
@@ -249,6 +251,10 @@ Gabapentin
 
 Based on a retrospective analysis of plasma levels in 34 subjects who received lamotrigine both with and without gabapentin, gabapentin does not appear to change the apparent clearance of lamotrigine.
 
+Lacosamide
+
+Plasma concentrations of lamotrigine were not affected by concomitant lacosamide (200, 400, or 600 mg/day) in placebo-controlled clinical trials in patients with partial-onset seizures.
+
 Levetiracetam
 
 Potential drug interactions between levetiracetam and lamotrigine were assessed by evaluating serum concentrations of both agents during placebo-controlled clinical trials.
@@ -276,6 +282,11 @@ The AUC and Cmax of oxcarbazepine and its active 10-monohydroxy oxcarbazepine me
 
 In the same trial, the AUC and Cmax of lamotrigine were similar following the addition of oxcarbazepine (600 mg twice daily) to lamotrigine in healthy male volunteers compared with those receiving lamotrigine alone.
 Limited clinical data suggest a higher incidence of headache, dizziness, nausea, and somnolence with coadministration of lamotrigine and oxcarbazepine compared with lamotrigine alone or oxcarbazepine alone.
+
+Perampanel
+
+In a pooled analysis of data from 3 placebo-controlled clinical trials investigating adjunctive perampanel in patients with partial-onset and primary generalized tonic-clonic seizures, the highest perampanel dose evaluated (12 mg/day) increased lamotrigine clearance by <10%.
+An effect of this magnitude is not considered to be clinically relevant.
 
 Phenobarbital, Primidone
 
@@ -332,21 +343,21 @@ Results of in vitro experiments suggest that lamotrigine does not reduce the cle
 
 Specific Populations
 
-Renal Impairment: Twelve volunteers with chronic renal failure (mean creatinine clearance: 13 mL/min, range: 6 to 23) and another 6 individuals undergoing hemodialysis were each given a single 100-mg dose of immediate-release lamotrigine.
+Patients with Renal Impairment: Twelve volunteers with chronic renal failure (mean creatinine clearance: 13 mL/min, range: 6 to 23) and another 6 individuals undergoing hemodialysis were each given a single 100-mg dose of immediate-release lamotrigine.
 The mean plasma half-lives determined in the study were 42.9 hours (chronic renal failure), 13.0 hours (during hemodialysis), and 57.4 hours (between hemodialysis) compared with 26.2 hours in healthy volunteers.
 On average, approximately 20% (range: 5.6 to 35.1) of the amount of lamotrigine present in the body was eliminated by hemodialysis during a 4-hour session [see Dosage and Administration (2.1)].
 
-Hepatic Disease: The pharmacokinetics of lamotrigine following a single 100-mg dose of immediate-release lamotrigine were evaluated in 24 subjects with mild, moderate, and severe hepatic impairment (Child-Pugh classification system) and compared with 12 subjects without hepatic impairment.
+Patients with Hepatic Impairment: The pharmacokinetics of lamotrigine following a single 100-mg dose of immediate-release lamotrigine were evaluated in 24 subjects with mild, moderate, and severe hepatic impairment (Child-Pugh classification system) and compared with 12 subjects without hepatic impairment.
 The subjects with severe hepatic impairment were without ascites (n = 2) or with ascites (n = 5).
 The mean apparent clearances of lamotrigine in subjects with mild (n = 12), moderate (n = 5), severe without ascites (n = 2), and severe with ascites (n = 5) liver impairment were 0.30 ± 0.09, 0.24 ± 0.1, 0.21 ± 0.04, and 0.15 ± 0.09 mL/min/kg, respectively, as compared with 0.37 ± 0.1 mL/min/kg in the healthy controls.
 Mean half-lives of lamotrigine in subjects with mild, moderate, severe without ascites, and severe with ascites hepatic impairment were 46 ± 20, 72 ± 44, 67 ± 11, and 100 ± 48 hours, respectively, as compared with 33 ± 7 hours in healthy controls [see Dosage and Administration (2.1)].
 
-Elderly: The pharmacokinetics of lamotrigine following a single 150-mg dose of immediate-release lamotrigine were evaluated in 12 elderly volunteers between the ages of 65 and 76 years (mean creatinine clearance: 61 mL/min, range: 33 to 108 mL/min).
+Geriatric Patients: The pharmacokinetics of lamotrigine following a single 150-mg dose of immediate-release lamotrigine were evaluated in 12 elderly volunteers between the ages of 65 and 76 years (mean creatinine clearance: 61 mL/min, range: 33 to 108 mL/min).
 The mean half-life of lamotrigine in these subjects was 31.2 hours (range: 24.5 to 43.4 hours), and the mean clearance was 0.40 mL/min/kg (range: 0.26 to 0.48 mL/min/kg).
 
-Gender: The clearance of lamotrigine is not affected by gender.
+Male and Female Patients: The clearance of lamotrigine is not affected by gender.
 However, during dose escalation of immediate-release lamotrigine in 1 clinical trial in patients with epilepsy on a stable dose of valproate (n = 77), mean trough lamotrigine concentrations unadjusted for weight were 24% to 45% higher (0.3 to 1.7 mcg/mL) in females than in males.
 
-Race: The apparent oral clearance of lamotrigine was 25% lower in non-Caucasians than Caucasians.
+Racial or Ethnic Groups: The apparent oral clearance of lamotrigine was 25% lower in non-Caucasians than Caucasians.
 
 Pediatric Patients: Safety and effectiveness of LAMICTAL XR for use in patients younger than 13 years have not been established.

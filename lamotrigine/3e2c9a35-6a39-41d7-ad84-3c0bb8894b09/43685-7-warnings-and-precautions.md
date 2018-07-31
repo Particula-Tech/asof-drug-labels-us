@@ -11,7 +11,7 @@ The incidence of serious rash associated with hospitalization and discontinuatio
 When 14 of these cases were reviewed by 3 expert dermatologists, there was considerable disagreement as to their proper classification.
 To illustrate, one dermatologist considered none of the cases to be Stevens-Johnson syndrome; another assigned 7 of the 14 to this diagnosis.
 There was 1 rash-related death in this 1,983-patient cohort.
-Additionally, there have been rare cases of toxic epidermal necrolysis with and without permanent sequelae and/or death in US and foreign postmarketing experience.
+Additionally, there have been rare cases of toxic epidermal necrolysis with and without permanent sequelae and/or death in U.S. and foreign postmarketing experience.
 
 There is evidence that the inclusion of valproate in a multidrug regimen increases the risk of serious, potentially life-threatening rash in pediatric patients.
 In pediatric patients who used valproate concomitantly, 1.2% (6 of 482) experienced a serious rash compared with 0.6% (6 of 952) patients not taking valproate.
@@ -163,7 +163,6 @@ This represents an incidence of 0.0035 deaths per patient-year.
 Although this rate exceeds that expected in a healthy population matched for age and sex, it is within the range of estimates for the incidence of sudden unexplained death in epilepsy (SUDEP) in patients not receiving lamotrigine (ranging from 0.0005 for the general population of patients with epilepsy, to 0.004 for a recently studied clinical trial population similar to that in the clinical development program for immediate-release lamotrigine, to 0.005 for patients with refractory epilepsy).
 Consequently, whether these figures are reassuring or suggest concern depends on the comparability of the populations reported upon with the cohort receiving immediate-release lamotrigine and the accuracy of the estimates provided.
 Probably most reassuring is the similarity of estimated SUDEP rates in patients receiving immediate-release lamotrigine and those receiving other AEDs, chemically unrelated to each other, that underwent clinical testing in similar populations.
-Importantly, that drug is chemically unrelated to lamotrigine.
 This evidence suggests, although it certainly does not prove, that the high SUDEP rates reflect population rates, not a drug effect.
 
 ## 5.12 Addition of LAMICTAL XR to a Multidrug Regimen that Includes Valproate
