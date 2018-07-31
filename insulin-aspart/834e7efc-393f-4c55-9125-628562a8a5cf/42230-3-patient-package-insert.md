@@ -265,10 +265,10 @@ FIASP® (fee’ asp)FlexTouch® Pen
 
 - •Do not share your FIASP FlexTouch Pen with other people, even if the needle is changed.
   You may give other people a serious infection, or get a serious infection from them.
-- •FIASP FlexTouch Pen (“Pen”)is a prefilled disposable pen containing 300 units of U-100 FIASP (insulin aspart injection).
+- •FIASP FlexTouch Pen (“Pen”) is a prefilled disposable pen containing 300 units of U-100 FIASP (insulin aspart injection).
   You can inject from 1 to 80 units in a single injection.
   The units can be increased by 1 unit at a time.
-- •This Pen is not recommended for use by the blind or visually impaired without the assistance of a persontrained in the proper use of the product.
+- •This Pen is not recommended for use by the blind or visually impaired without the assistance of a person trained in the proper use of the product.
 - •Do not use a syringe to remove FIASP from the FlexTouch Pen.
 
 Supplies you will need to give your FIASP injection:
@@ -310,7 +310,7 @@ Selecting your dose:
 
 | Step 10:Check to make sure the dose selector is set at 0. •Turn the dose selector to select the number of units you need to inject. The dose pointer should line up with your dose (See Figure K). •If you select the wrong dose, you can turn the dose selector forwards or backwards to the correct dose.•The even numbers are printed on the dial.•The odd numbers are shown as lines. |  |
 | --- | --- |
-| The FIASP FlexTouch Pen insulin scale will show you how much insulin is left in your Pen (See Figure L). |  |
+| •The FIASP FlexTouch Pen insulin scale will show you how much insulin is left in your Pen (See Figure L). |  |
 | •To see how much insulin is left in your FIASP FlexTouch Pen: •Turn the dose selector until it stops. The dose counter will line up with the number of units of insulin that is left in your Pen. If the dose counter shows 80, there are at least 80 units left in your Pen.•If the dose counter shows less than 80, the number shown in the dose counter is the number of units left in your Pen. |  |
 
 Giving your injection:
@@ -318,7 +318,7 @@ Giving your injection:
 - •Inject your FIASP exactly as your healthcare provider has shown you.
   Your healthcare provider should tell you if you need to pinch the skin before injecting.
 - •You should take your dose of FIASP at the start of a meal or within 20 minutes after starting a meal.
-- •FIASPcan be injected under the skin (subcutaneously) of your stomach area (abdomen), upper legs (thighs) or upper arms.
+- •FIASP can be injected under the skin (subcutaneously) of your stomach area (abdomen), upper legs (thighs) or upper arms.
   Do not inject FIASP into your muscle.
 - •Change (rotate) your injection sites within the area you choose for each dose.
   Do not use the same injection site for each injection.
@@ -326,7 +326,7 @@ Giving your injection:
 | Step 11: •Choose your injection site and wipe the skin with an alcohol swab. Let the injection site dry before you inject your dose (See Figure M). |  |
 | --- | --- |
 | Step 12: •Insert the needle into your skin (See Figure N). •Make sure you can see the dose counter. Do not cover it with your fingers; this can stop your injection. |  |
-| Step 13: •Press and hold down the dose button until the dose counter shows “0” (See Figure O). •The “0” must line up with the dose pointer. You may then hear or feel a click. •Keep the needle in your skin after the dose counter has returned to “0” and slowlycount to 6 (See Figure P). •When the dose counter returns to “0”, you will not get your full dose until 6 seconds later.•If the needle is removed before you count to 6, you may see a stream of insulin coming from the needle tip.•If you see a stream of insulin coming from the needle tip you will not get your full dose. If this happens you should check your blood sugar levels more often because you may need more insulin. |  |
+| Step 13: •Press and hold down the dose button until the dose counter shows “0” (See Figure O). •The “0” must line up with the dose pointer. You may then hear or feel a click. •Keep the needle in your skin after the dose counter has returned to “0” and slowly count to 6 (See Figure P). •When the dose counter returns to “0”, you will not get your full dose until 6 seconds later.•If the needle is removed before you count to 6, you may see a stream of insulin coming from the needle tip.•If you see a stream of insulin coming from the needle tip you will not get your full dose. If this happens you should check your blood sugar levels more often because you may need more insulin. |  |
 | Step 14: •Pull the needle out of your skin (See Figure Q). •If you see blood after you take the needle out of your skin, press the injection site lightly with a piece of gauze or an alcohol swab. Do not rub the area. |  |
 | Step 15: •Carefully remove the needle from the Pen and throw it away (See Figure R). •Do not recap the needle. Recapping the needle can lead to needle stick injury. •If you do not have a sharps container, carefully slip the needle into the outer needle cap (See Figure S). Safely remove the needle and throw it away as soon as you can. •Do not store the Pen with the needle attached. Storing without the needle attached helps prevent leaking, blocking of the needle, and air from entering the Pen. |  |
 | Step 16: •Replace the Pen cap by pushing it straight on (See Figure T). |  |
@@ -366,7 +366,7 @@ Pen in use:
 
 General Information about the safe and effective use of FIASP:
 
-- •KeepFIASP FlexTouch Pens and needles out of the reach of children.
+- •Keep FIASP FlexTouch Pens and needles out of the reach of children.
 - •Always use a new needle for each injection.
 - •Do not share FIASP FlexTouch Pens or needles with other people.
   You may give other people a serious infection, or get a serious infection from them.
@@ -379,10 +379,10 @@ Novo Nordisk A/S
 
 DK-2880 Bagsvaerd, Denmark
 
-Revised: 09/2017
+Revised: July/2018
 
 For more information go to
 
 www.FIASPflextouch.com
 
-© 2017 Novo Nordisk
+© 2018 Novo Nordisk

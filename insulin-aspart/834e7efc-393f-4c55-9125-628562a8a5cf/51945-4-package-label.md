@@ -6,9 +6,11 @@ FIASP®
 
 (insulin apart injection)
 
-10 mL 100 units/mL (U-100)
+100 units/mL (U-100)
 
-Rx only
+For subcutaneous or Intravenous use
+
+1. Rx Only One 10 mL Vial
 
 # PRINCIPAL DISPLAY PANEL - FLEXTOUCH
 
