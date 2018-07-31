@@ -55,8 +55,8 @@ Methotrexate has also been administered twice weekly in doses ranging from 15 to
 
 Recommended Starting Dosage Schedules
 
-1. 1.Single oral doses of 7.5 mg once weekly.
-2. 2.Divided oral dosages of 2.5 mg at 12 hour intervals for 3 doses given as a course once weekly.
+1. Single oral doses of 7.5 mg once weekly.
+2. Divided oral dosages of 2.5 mg at 12 hour intervals for 3 doses given as a course once weekly.
 
 ### Polyarticular-Course Juvenile Rheumatoid Arthritis
 
@@ -87,8 +87,8 @@ Maximal myelosuppression usually occurs in seven to ten days.
 
 ### Psoriasis: Recommended Starting Dose Schedules
 
-1. 1.Weekly single oral, IM or IV dose schedule: 10 to 25 mg per week until adequate response is achieved.
-2. 2.Divided oral dose schedule: 2.5 mg at 12-hour intervals for three doses.
+1. Weekly single oral, IM or IV dose schedule: 10 to 25 mg per week until adequate response is achieved.
+2. Divided oral dose schedule: 2.5 mg at 12-hour intervals for three doses.
 
 Dosages in each schedule may be gradually adjusted to achieve optimal clinical response; 30 mg/week should not ordinarily be exceeded.
 
