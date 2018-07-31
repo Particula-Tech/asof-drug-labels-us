@@ -119,7 +119,7 @@ Increases in pharmacodynamic effects were also observed [see Use in Specific Pop
 
 Drug Interactions
 
-In vitro studies indicate that rivaroxaban neither inhibits the major cytochrome P450 enzymes CYP1A2, 2C8, 2C9, 2C19, 2D6, 2J2, and 3A4 nor induces CYP1A2, 2B6, 2C19, or 3A4.
+In vitro studies indicate that rivaroxaban neither inhibits the major cytochrome P450 enzymes CYP1A2, 2C8, 2C9, 2C19, 2D6, 2J2, and 3A nor induces CYP1A2, 2B6, 2C19, or 3A.
 In vitro data also indicates a low rivaroxaban inhibitory potential for P-gp and ABCG2 transporters.
 
 The effects of coadministered drugs on the pharmacokinetics of rivaroxaban exposure are summarized in Figure 3 [see Drug Interactions (7) for dosing recommendations].
@@ -144,9 +144,9 @@ In two drug interaction studies where clopidogrel (300 mg loading dose followed 
 The change in bleeding time was approximately twice the maximum increase seen with either drug alone.
 There was no change in the pharmacokinetics of either drug.
 
-Drug-Disease Interactions with Drugs that Inhibit Cytochrome P450 3A4 Enzymes and Drug Transport Systems
+Drug-Disease Interactions with Drugs that Inhibit Cytochrome P450 3A Enzymes and Drug Transport Systems
 
-In a pharmacokinetic trial, XARELTO was administered as a single dose in subjects with mild (CrCl = 50 to 79 mL/min) or moderate renal impairment (CrCl = 30 to 49 mL/min) receiving multiple doses of erythromycin (a combined P-gp and moderate CYP3A4 inhibitor).
+In a pharmacokinetic trial, XARELTO was administered as a single dose in subjects with mild (CrCl = 50 to 79 mL/min) or moderate renal impairment (CrCl = 30 to 49 mL/min) receiving multiple doses of erythromycin (a combined P-gp and moderate CYP3A inhibitor).
 Compared to XARELTO administered alone in subjects with normal renal function (CrCl >80 mL/min), subjects with mild and moderate renal impairment concomitantly receiving erythromycin reported a 76% and 99% increase in AUCinf and a 56% and 64% increase in Cmax, respectively.
 Similar trends in pharmacodynamic effects were also observed.
 

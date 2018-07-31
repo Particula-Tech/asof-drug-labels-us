@@ -23,10 +23,10 @@ Concomitant use of drugs that are known combined P-gp and strong CYP3A4 inhibito
 Reversal of Anticoagulant Effect
 
 An agent to reverse the anti-factor Xa activity of rivaroxaban is available.
-Because of high plasma protein binding, rivaroxaban is not expected to be dialyzable [see Clinical Pharmacology (12.3)].
+Because of high plasma protein binding, rivaroxaban is not dialyzable [see Clinical Pharmacology (12.3)].
 Protamine sulfate and vitamin K are not expected to affect the anticoagulant activity of rivaroxaban.
-Partial reversal of prothrombin time prolongation has been seen after administration of prothrombin complex concentrates (PCCs) in healthy volunteers.
-The use of other procoagulant reversal agents like activated prothrombin complex concentrate (APCC) or recombinant factor VIIa (rFVIIa) has not been evaluated.
+Use of procoagulant reversal agents, such as prothrombin complex concentrate (PCC), activated prothrombin complex concentrate or recombinant factor VIIa may be considered but has not been evaluated in clinical efficacy and safety studies.
+Monitoring for the anticoagulation effect of rivaroxaban using a clotting test (PT, INR or aPTT) or anti-factor Xa (FXa) activity is not recommended.
 
 ## 5.3 Spinal/Epidural Anesthesia or Puncture
 
@@ -66,11 +66,11 @@ No clinical data are available for patients with severe hepatic impairment.
 
 Avoid use of XARELTO in patients with moderate (Child-Pugh B) and severe (Child-Pugh C) hepatic impairment or with any hepatic disease associated with coagulopathy since drug exposure and bleeding risk may be increased [see Use in Specific Populations (8.7)].
 
-## 5.6 Use with P-gp and Strong CYP3A4 Inhibitors or Inducers
+## 5.6 Use with P-gp and Strong CYP3A Inhibitors or Inducers
 
-Avoid concomitant use of XARELTO with known combined P-gp and strong CYP3A4 inhibitors [see Drug Interactions (7.2)].
+Avoid concomitant use of XARELTO with known combined P-gp and strong CYP3A inhibitors [see Drug Interactions (7.2)].
 
-Avoid concomitant use of XARELTO with drugs that are known combined P-gp and strong CYP3A4 inducers [see Drug Interactions (7.3)].
+Avoid concomitant use of XARELTO with drugs that are known combined P-gp and strong CYP3A inducers [see Drug Interactions (7.3)].
 
 ## 5.7 Risk of Pregnancy-Related Hemorrhage
 

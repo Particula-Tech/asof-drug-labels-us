@@ -58,7 +58,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 Data
 
-Animal data
+Animal Data
 
 Following a single oral administration of 3 mg/kg of radioactive [14C]-rivaroxaban to lactating rats between Day 8 to 10 postpartum, the concentration of total radioactivity was determined in milk samples collected up to 32 hours post-dose.
 The estimated amount of radioactivity excreted with milk within 32 hours after administration was 2.1% of the maternal dose.
