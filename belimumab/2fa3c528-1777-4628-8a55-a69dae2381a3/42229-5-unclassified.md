@@ -18,7 +18,7 @@ Research Triangle Park, NC 27709
 
 ©2018 GSK group of companies or its licensor.
 
-BNL:9PI
+BNL:10PI
 
 DETACH HERE AND GIVE MEDICATION GUIDE TO PATIENT.
 

@@ -100,6 +100,6 @@ Federal Law requires dispensing of BENLYSTA with the Medication Guide provided w
 ©2017 GSK group of companies or is licensor.
 
 Rev.
-10/17
+7/17
 
-DEVCOMP-0005150
+10000000147097
