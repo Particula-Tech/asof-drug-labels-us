@@ -1,11 +1,13 @@
 # PRINCIPAL DISPLAY PANEL - 0.005 mL Vial Carton
 
-EYEPOINT™ PHARMACEUTICALS
+DEXYCU™
 
-DEXYCU™ dexamethasone intraocular suspension 9% 0.005 mL dose in single dose vial for intraocular administration
+(dexamethasone intraocular suspension) 9% 0.005 mL dose in single dose vial for intraocular administration
 
-See Full Prescribing Information for Instructions
+Please see enclosed full Prescribing Information for Instructions
 
 Rx Only NDC 71879-001-01
 
-For Intraocular Injection Store at 15°-30°C (59°-86°F)
+EYEPOINT™ PHARMACEUTICALS
+
+For Intraocular Injection Store at 20°C to 25°C (68°F to 77°F)
