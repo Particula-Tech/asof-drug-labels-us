@@ -2,8 +2,6 @@
 
 ## 7.1 Chelation Agents: Antacids, Sucralfate, Metal Cations, Multivitamins
 
-Levofloxacin Tablets
-
 While the chelation by divalent cations is less marked than with other fluoroquinolones, concurrent administration of levofloxacin tablets with antacids containing magnesium, or aluminum, as well as sucralfate, metal cations such as iron, and multivitamin preparations with zinc may interfere with the gastrointestinal absorption of levofloxacin, resulting in systemic levels considerably lower than desired.
 Tablets with antacids containing magnesium, aluminum, as well as sucralfate, metal cations such as iron, and multivitamin preparations with zinc or didanosine may substantially interfere with the gastrointestinal absorption of levofloxacin, resulting in systemic levels considerably lower than desired.
 These agents should be taken at least two hours before or two hours after oral levofloxacin administration.
@@ -15,12 +13,12 @@ Similarly, no apparent effect of warfarin on levofloxacin absorption and disposi
 However, there have been reports during the postmarketing experience in patients that levofloxacin enhances the effects of warfarin.
 Elevations of the prothrombin time in the setting of concurrent warfarin and levofloxacin use have been associated with episodes of bleeding.
 Prothrombin time, International Normalized Ratio (INR), or other suitable anticoagulation tests should be closely monitored if levofloxacin is administered concomitantly with warfarin.
-Patients should also be monitored for evidence of bleeding [see ADVERSE REACTIONS (6.3); PATIENT COUNSELING INFORMATION (17.4)].
+Patients should also be monitored for evidence of bleeding [see ADVERSE REACTIONS (6.3) and PATIENT COUNSELING INFORMATION (17)].
 
 ## 7.3 Antidiabetic Agents
 
 Disturbances of blood glucose, including hyperglycemia and hypoglycemia, have been reported in patients treated concomitantly with fluoroquinolones and an antidiabetic agent.
-Therefore, careful monitoring of blood glucose is recommended when these agents are co-administered [see WARNINGS AND PRECAUTIONS (5.12); ADVERSE REACTIONS (6.2), PATIENT COUNSELING INFORMATION (17.4)].
+Therefore, careful monitoring of blood glucose is recommended when these agents are co-administered [see WARNINGS AND PRECAUTIONS (5.12), ADVERSE REACTIONS (6.2), and PATIENT COUNSELING INFORMATION (17)].
 
 ## 7.4 Non-Steroidal Anti-Inflammatory Drugs
 

@@ -1,7 +1,5 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 Levofloxacin Tablets USP
-
 Levofloxacin tablets USP are supplied as 250, 500, and 750 mg coated tablets.
 
 Levofloxacin tablets USP are packaged in bottles and in unit-dose blister strips in the following configurations:

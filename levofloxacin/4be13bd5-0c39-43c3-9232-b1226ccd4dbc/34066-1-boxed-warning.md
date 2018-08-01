@@ -1,21 +1,17 @@
 # WARNING: SERIOUS ADVERSE REACTIONS INCLUDING TENDINITIS, TENDON RUPTURE, PERIPHERAL NEUROPATHY, CENTRAL NERVOUS SYSTEM EFFECTS AND EXACERBATION OF MYASTHENIA GRAVIS
 
+See full prescribing information for complete boxed warning.
+
 - Fluoroquinolones, including levofloxacin, have been associated with disabling and potentially irreversible serious adverse reactions that have occurred together [see WARNINGS AND PRECAUTIONS (5.1)], including:
-
-o Tendinitis and tendon rupture [see WARNINGS AND PRECAUTIONS (5.2)]
-
-o Peripheral neuropathy [see WARNINGS AND PRECAUTIONS (5.3)]
-
-o Central nervous system effects [see WARNINGS AND PRECAUTIONS (5.4)]
+  - Tendinitis and tendon rupture [see WARNINGS AND PRECAUTIONS (5.2)]
+  - Peripheral neuropathy [see WARNINGS AND PRECAUTIONS (5.3)]
+  - Central nervous system effects[see WARNINGS AND PRECAUTIONS (5.4)]
 
 Discontinue levofloxacin immediately and avoid the use of fluoroquinolones, including levofloxacin, in patients who experience any of these serious adverse reactions [see WARNINGS AND PRECAUTIONS (5.1)]
 
 - Fluoroquinolones, including levofloxacin, may exacerbate muscle weakness in patients with myasthenia gravis.
   Avoid levofloxacin in patients with a known history of myasthenia gravis [see WARNINGS AND PRECAUTIONS (5.5)].
 - Because fluoroquinolones, including levofloxacin, have been associated with serious adverse reactions [see WARNINGS AND PRECAUTIONS (5.1 to 5.14)], reserve levofloxacin for use in patients who have no alternative treatment options for the following indications:
-
-o Uncomplicated urinary tract infection [see INDCATIONS AND USAGE (1.12)]
-
-o Acute bacterial exacerbation of chronic bronchitis [see INDICATIONS AND USAGE (1.13)]
-
-o Acute bacterial sinusitis [see INDICATIONS AND USAGE (1.14)]
+  - Uncomplicated urinary tract infection [see INDCATIONS AND USAGE (1.12)]
+  - Acute bacterial exacerbation of chronic bronchitis [see INDICATIONS AND USAGE (1.13)]
+  - Acute bacterial sinusitis[see INDICATIONS AND USAGE (1.14)]
