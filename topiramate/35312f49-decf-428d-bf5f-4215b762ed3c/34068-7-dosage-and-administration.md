@@ -30,7 +30,7 @@ The total daily dose should not exceed the maximum maintenance dose for each ran
 
 Table 2: Monotherapy Target Total Daily Maintenance Dosing for Patients 2 to 9 Years of Age
 
-| Weight (kg) | Total Daily Dose (mg/day) Administered in two equally divided doses Minimum Maintenance Dose | Total Daily Dose (mg/day) Maximum Maintenance Dose |
+| Weight (kg) | Total Daily Dose (mg/day)Administered in two equally divided doses Minimum Maintenance Dose | Total Daily Dose (mg/day) Maximum Maintenance Dose |
 | --- | --- | --- |
 | Up to 11 | 150 | 250 |
 | 12 to 22 | 200 | 300 |
@@ -75,6 +75,8 @@ If required, longer intervals between dose adjustments can be used.
 ## 2.4 Administration Information
 
 Topiramate tablets can be taken without regard to meals.
+
+Topiramate Tablets
 
 Because of the bitter taste, tablets should not be broken.
 

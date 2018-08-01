@@ -45,7 +45,7 @@ Table 5: Adverse Reactions in the High Dose Group As Compared to the Low Dose Gr
 |  | 50 | 400 | 50 | 400 |
 |  | (N=74) % | (N=77) % | (N=160) % | (N=159) % |
 | Body SystemAdverse Reaction |  |  |  |  |
-| Body as a whole-General Disorders |  |  |  |  |
+| Body as a Whole - General Disorders |  |  |  |  |
 | Asthenia | 0 | 3 | 4 | 6 |
 | Fever | 1 | 12 |  |  |
 | Leg pain |  |  | 2 | 3 |
@@ -68,7 +68,7 @@ Table 5: Adverse Reactions in the High Dose Group As Compared to the Low Dose Gr
 | Weight loss | 7 | 17 | 6 | 17 |
 | Platelet, Bleeding & Clotting Disorders |  |  |  |  |
 | Epistaxis | 0 | 4 |  |  |
-| Psychiatric disorders |  |  |  |  |
+| Psychiatric Disorders |  |  |  |  |
 | Anorexia |  |  | 4 | 14 |
 | Anxiety |  |  | 4 | 6 |
 | Cognitive problems | 1 | 6 | 1 | 4 |
@@ -77,7 +77,7 @@ Table 5: Adverse Reactions in the High Dose Group As Compared to the Low Dose Gr
 | Difficulty with concentration or attention | 7 | 10 | 7 | 8 |
 | Difficulty with memory | 1 | 3 | 6 | 11 |
 | Insomnia |  |  | 8 | 9 |
-| Decreased in libido |  |  | 0 | 3 |
+| Decrease in libido |  |  | 0 | 3 |
 | Mood problems | 1 | 8 | 2 | 5 |
 | Personality disorder (behavior problems) | 0 | 3 |  |  |
 | Psychomotor slowing |  |  | 3 | 5 |
@@ -104,8 +104,7 @@ Table 5: Adverse Reactions in the High Dose Group As Compared to the Low Dose Gr
 | Taste perversion |  |  | 3 | 5 |
 | Urinary System Disorders |  |  |  |  |
 | Cystitis |  |  | 1 | 3 |
-| Dysuria |  |  | 0 | 2 |
-| Micturition frequency | 0 | 3 | 0 | 2 |
+| Micturition frequency | 0 | 3 |  |  |
 | Renal calculus |  |  | 0 | 3 |
 | Urinary incontinence | 1 | 3 |  |  |
 | Vascular (Extracardiac) Disorders |  |  |  |  |
@@ -205,7 +204,7 @@ Table 7: Adverse Reactions in Pooled Placebo-Controlled, Add-On Epilepsy Trials 
 | Gastroenteritis | 2 | 3 |  |  |  |  |  |  |  |  |
 | Metabolic and Nutritional Disorders |  |  |  |  |  |  |  |  |  |  |
 | Weight loss | 1 | 9 |  |  |  |  |  |  |  |  |
-| Platelet, Bleeding & Clotting Disorders |  |  |  |  |  |  |  |  |  |  |
+| Platelet, “Bleeding” & Clotting Disorders |  |  |  |  |  |  |  |  |  |  |
 | Purpura | 4 | 8 |  |  |  |  |  |  |  |  |
 | Epistaxis | 1 | 4 |  |  |  |  |  |  |  |  |
 | Psychiatric Disorders |  |  |  |  |  |  |  |  |  |  |
@@ -326,7 +325,7 @@ Table 9: Adverse Reactions in Pooled Double-Blind Migraine Prophylaxis Studies i
 |  |  | Topiramate Dosage |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Body System/ Adverse Reaction | Placebo (N=45) % | 50 mg/day (N=46) % | 100 mg/day (N=48) % |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Body as a Whole-General Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Body as a Whole - General Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Fatigue | 7 | 7 | 8 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Fever | 2 | 4 | 6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Central & Peripheral Nervous System Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -348,7 +347,7 @@ Table 9: Adverse Reactions in Pooled Double-Blind Migraine Prophylaxis Studies i
 | Rhinitis | 2 | 7 | 6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Sinusitis | 2 | 9 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Coughing | 0 | 7 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Special Sense Other, Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Special Senses Other, Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Taste perversion | 2 | 2 | 6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Vision Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Conjunctivitis | 4 | 7 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -362,7 +361,7 @@ Adverse reactions associated with discontinuing therapy that occurred in more th
 Increased Risk for Bleeding
 
 Topiramate is associated with an increased risk for bleeding.
-In a pooled analysis of placebo-controlled studies of approved and unapproved indications, bleeding was more frequently reported as an adverse reaction for topiramate than for placebo (4.5% versus 3.0% in adult patients, and 4.4% versus 2.3% in pediatric patients).
+In a pooled analysis of placebo-controlled studies of approved and unapproved indications, bleeding was more frequently reported as an adverse reaction for topiramate than for placebo (4.5% versus 3% in adult patients, and 4.4% versus 2.3% in pediatric patients).
 In this analysis, the incidence of serious bleeding events for topiramate and placebo was 0.3% versus 0.2% for adult patients, and 0.4% versus 0% for pediatric patients.
 
 Adverse bleeding reactions reported with topiramate ranged from mild epistaxis, ecchymosis, and increased menstrual bleeding to life-threatening hemorrhages.
@@ -401,3 +400,5 @@ Skin and Appendage Disorders: bullous skin reactions (including erythema multifo
 Urinary System Disorders: kidney stones [see Warnings and Precautions (5.10)]
 
 Vision Disorders: acute myopia, secondary angle closure glaucoma [see Warnings and Precautions (5.1)], maculopathy
+
+Hematological Disorders: decrease of the International Normalized Ratio (INR) or prothrombin time when given concomitantly with vitamin K antagonist anticoagulant medications such as warfarin.

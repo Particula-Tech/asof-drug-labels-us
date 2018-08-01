@@ -89,24 +89,24 @@ Table 11: Topiramate Dose Summary During the Stabilization Periods of Each of Si
 | Protocol | Stabilization Dose | Placebob | 200 | 400 | 600 | 800 | 1,000 |
 | 1 | N | 42 | 42 | 40 | 41 | -- | -- |
 | Mean Dose | 5.9 | 200 | 390 | 556 | -- | -- |  |
-| Median Dose | 6.0 | 200 | 400 | 600 | -- | -- |  |
+| Median Dose | 6 | 200 | 400 | 600 | -- | -- |  |
 | 2 | N | 44 | -- | -- | 40 | 45 | 40 |
 | Mean Dose | 9.7 | -- | -- | 544 | 739 | 796 |  |
-| Median Dose | 10.0 | -- | -- | 600 | 800 | 1,000 |  |
+| Median Dose | 10 | -- | -- | 600 | 800 | 1,000 |  |
 | 3 | N | 23 | -- | 19 | -- | -- | -- |
 | Mean Dose | 3.8 | -- | 395 | -- | -- | -- |  |
-| Median Dose | 4.0 | -- | 400 | -- | -- | -- |  |
+| Median Dose | 4 | -- | 400 | -- | -- | -- |  |
 | 4 | N | 30 | -- | -- | 28 | -- | -- |
 | Mean Dose | 5.7 | -- | -- | 522 | -- | -- |  |
-| Median Dose | 6.0 | -- | -- | 600 | -- | -- |  |
+| Median Dose | 6 | -- | -- | 600 | -- | -- |  |
 | 5 | N | 28 | -- | -- | -- | 25 | -- |
 | Mean Dose | 7.9 | -- | -- | -- | 568 | -- |  |
-| Median Dose | 8.0 | -- | -- | -- | 600 | -- |  |
+| Median Dose | 8 | -- | -- | -- | 600 | -- |  |
 | 6 | N | 90 | 157 | -- | -- | -- | -- |
 | Mean Dose | 8 | 200 | -- | -- | -- | -- |  |
 | Median Dose | 8 | 200 | -- | -- | -- | -- |  |
 | a Dose-response studies were not conducted for other indications or pediatric partial onset seizures. |  |  |  |  |  |  |  |
-| b Placebo dosages are given as the number of tablets. Placebo target dosages were as follows: Protocol 3, 4 tablets/day; Protocols 1 and 4,6 tablets/day; Protocols 5 and 6, 8 tablets/day; Protocol 2, 10 tablets/day. |  |  |  |  |  |  |  |
+| b Placebo dosages are given as the number of tablets. Placebo target dosages were as follows: Protocol 3, 4 tablets/day; Protocols 1 and 4, 6 tablets/day; Protocols 5 and 6, 8 tablets/day; Protocol 2, 10 tablets/day. |  |  |  |  |  |  |  |
 
 In all add-on trials, the reduction in seizure rate from baseline during the entire double-blind phase was measured.
 The median percent reductions in seizure rates and the responder rates (fraction of patients with at least a 50% reduction) by treatment group for each study are shown below in Table 12.
@@ -116,7 +116,7 @@ Table 12: Efficacy Results in Double-Blind, Placebo-Controlled, Add-On Epilepsy 
 
 |  |  | Target Topiramate Dosage (mg/day) |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Protocol Efficacy Results | Placebo | 200 | 400 | 600 | 800 | 1,000 | ≈6 mg/kg/day For Protocols 7 and 8, protocol-specified target dosages (<9.3 mg/kg/day) were assigned based on subject's weight to approximate a dosage of 6 mg/kg per day; these dosages corresponded to mg/day dosages of 125, 175, 225, and 400 mg/day. |  |  |  |  |  |  |  |  |
+| Protocol Efficacy Results | Placebo | 200 | 400 | 600 | 800 | 1,000 | ≈6 mg/kg/dayFor Protocols 7 and 8, protocol-specified target dosages (<9.3 mg/kg/day) were assigned based on subject's weight to approximate a dosage of 6 mg/kg per day; these dosages corresponded to mg/day dosages of 125, 175, 225, and 400 mg/day. |  |  |  |  |  |  |  |  |
 | Partial Onset Seizures Studies in Adults |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 1 N | 45 | 45 | 45 | 46 | -- | -- | -- |  |  |  |  |  |  |  |  |
 | Median % Reduction | 12 | 27a | 48b | 45c | -- | -- | -- |  |  |  |  |  |  |  |  |
@@ -212,7 +212,7 @@ Effectiveness of treatment was assessed by comparing each topiramate treatment g
 The percent reduction from baseline to the last 12 weeks of the double-blind phase in average monthly migraine attack rate is shown in Table 13.
 The 100 mg topiramate dose produced a statistically significant treatment difference relative to placebo of 28% reduction from baseline in the monthly migraine attack rate.
 
-The mean reduction from baseline to the last 12 weeks of the double-blind phase in average monthly attack rate, a key secondary efficacy endpoint in Study 12 (and the primary efficacy endpoint in Studies 10 and 11, of adults) was 3.0 for 100 mg topiramate dose and 1.7 for placebo.
+The mean reduction from baseline to the last 12 weeks of the double-blind phase in average monthly attack rate, a key secondary efficacy endpoint in Study 12 (and the primary efficacy endpoint in Studies 10 and 11, of adults) was 3 for 100 mg topiramate dose and 1.7 for placebo.
 This 1.3 treatment difference in mean reduction from baseline of monthly migraine rate was statistically significant (p = 0.0087).
 
 Table 13: Percent Reduction from Baseline to the Last 12 Weeks of Double-Blind Phase in Average Monthly Attack Rate: Study 12 (Intent-to-Treat Analysis Set)
@@ -220,12 +220,12 @@ Table 13: Percent Reduction from Baseline to the Last 12 Weeks of Double-Blind P
 | Category | Placebo (N=33) | Topiramate 50 mg/day (N=35) | Topiramate 100 mg/day (N=35) |
 | --- | --- | --- | --- |
 | Baseline |  |  |  |
-| Median | 3.6 | 4.0 | 4.0 |
+| Median | 3.6 | 4 | 4 |
 | Last 12 Weeks of Double-Blind Phase |  |  |  |
-| Median | 2.3 | 2.3 | 1.0 |
+| Median | 2.3 | 2.3 | 1 |
 | Percent Reduction (%) |  |  |  |
 | Median | 44.4 | 44.6 | 72.2 |
-| P-value versus |  | 0.7975 | 0.0164 c |
+| P-value versus Placeboa,b |  | 0.7975 | 0.0164 c |
 | a P-values (two-sided) for comparisons relative to placebo are generated by applying an ANCOVA model on ranks that includes subject's stratified age at baseline, treatment group, and analysis center as factors and monthly migraine attack rate during baseline period as a covariate. |  |  |  |
 | b P-values for the dose groups are the adjusted p-value according to the Hochberg multiple comparison procedure. |  |  |  |
 | c Indicates p-value is <0.05 (two-sided). |  |  |  |
