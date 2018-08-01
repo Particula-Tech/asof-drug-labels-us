@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA210763"
+  ],
+  "inn": "sodium-nitroprusside",
+  "labeler": "Mylan Institutional LLC",
+  "package_ndcs": [
+    "67457-839-02"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION, CONCENTRATE",
+      "generic": "sodium nitroprusside",
+      "name": "Sodium nitroprusside"
+    }
+  ],
+  "setid": "6fbfb86c-da8d-4741-b1e0-7000e2bbad5f",
+  "source": "dailymed"
+}
