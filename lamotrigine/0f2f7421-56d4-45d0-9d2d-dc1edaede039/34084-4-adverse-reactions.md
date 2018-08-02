@@ -126,7 +126,7 @@ Table 9 Dose-Related Adverse Reactions from a Randomized, Placebo-Controlled, Ad
 The overall adverse reaction profile for lamotrigine was similar between females and males and was independent of age.
 Because the largest non-Caucasian racial subgroup was only 6% of patients exposed to lamotrigine in placebo-controlled trials, there are insufficient data to support a statement regarding the distribution of adverse reaction reports by race.
 Generally, females receiving either lamotrigine as adjunctive therapy or placebo were more likely to report adverse reactions than males.
-The only adverse reaction for which the reports on lamotrigine were greater than 10% more frequent in females than males (without a corresponding difference by gender on placebo) was dizziness (difference = 16.5%).
+The only adverse reaction for which the reports on lamotrigine were >10% more frequent in females than males (without a corresponding difference by gender on placebo) was dizziness (difference = 16.5%).
 There was little difference between females and males in the rates of discontinuation of lamotrigine for individual adverse reactions.
 
 Controlled Monotherapy Trial in Adults with Partial-Onset Seizures
@@ -161,7 +161,7 @@ Table 10 Adverse Reactions in a Controlled Monotherapy Trial in Adult Patients w
 | c Up to 500 mg/day. |  |  |
 | d 1,000 mg/day. |  |  |
 
-Adverse reactions that occurred with a frequency of less than 5% and greater than 2% of patients receiving lamotrigine and numerically more frequent than placebo were:
+Adverse reactions that occurred with a frequency of <5% and >2% of patients receiving lamotrigine and numerically more frequent than placebo were:
 
 Body as a Whole: Asthenia, fever.
 
@@ -280,7 +280,7 @@ Table 12 Adverse Reactions in 2 Placebo-Controlled Trials in Adult Patients with
 
 Other reactions that occurred in 5% or more patients but equally or more frequently in the placebo group included: dizziness, mania, headache, infection, influenza, pain, accidental injury, diarrhea, and dyspepsia.
 
-Adverse reactions that occurred with a frequency of less than 5% and greater than 1% of patients receiving lamotrigine and numerically more frequent than placebo were:
+Adverse reactions that occurred with a frequency of <5% and >1% of patients receiving lamotrigine and numerically more frequent than placebo were:
 
 General: Fever, neck pain.
 

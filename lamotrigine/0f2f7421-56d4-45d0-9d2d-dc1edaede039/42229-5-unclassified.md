@@ -4,13 +4,7 @@ Cadila Healthcare Ltd.
 
 India
 
-Distributed by:
-
-Zydus Pharmaceuticals (USA) Inc.
-
-Pennington, NJ 08534
-
-Rev.: 07/18
+Rev.: 08/18
 
 Medication Guide
 
@@ -139,28 +133,21 @@ Lamotrigine Tablets for Oral Suspension (Chewable, Dispersible Tablets)
 
 What is lamotrigine?
 
-Lamotrigine is a prescription medicine used:
+- Lamotrigine is a prescription medicine used:
+  - together with other medicines to treat certain types of seizures (partial-onset seizures, primary generalized tonic-clonic seizures, generalized seizures of Lennox-Gastaut syndrome) in people aged 2 years and older.
+  - alone when changing from 1 other medicine used to treat partial-onset seizures in people aged 16 years and older.
+  - for the long-term treatment of bipolar I disorder to lengthen the time between mood episodes in people who have been treated for mood episodes with other medicine.
+- It is not known if lamotrigine is safe or effective in people younger than 18 years with mood episodes such as bipolar disorder or depression.
+- It is not known if lamotrigine is safe or effective when used alone as the first treatment of seizures.
+- It is not known if lamotrigine is safe or effective for people with mood episodes who have not already been treated with other medicines.
+- Lamotrigine should not be used for acute treatment of manic or mixed mood episodes.
 
-- together with other medicines to treat certain types of seizures (partial-onset seizures, primary generalized tonic-clonic seizures, generalized seizures of Lennox-Gastaut syndrome) in people aged 2 years and older.
-- alone when changing from 1 other medicine used to treat partial-onset seizures in people aged 16 years and older.
-- for the long-term treatment of bipolar I disorder to lengthen the time between mood episodes in people who have been treated for mood episodes with other medicine.
+Do not take lamotrigine:
 
-It is not known if lamotrigine is safe or effective in people younger than 18 years with mood episodes such as bipolar disorder or depression.
+- if you have had an allergic reaction to lamotrigine or to any of the inactive ingredients in lamotrigine.
+  See the end of this leaflet for a complete list of ingredients in lamotrigine.
 
-It is not known if lamotrigine is safe or effective when used alone as the first treatment of seizures.
-
-It is not known if lamotrigine is safe or effective for people with mood episodes who have not already been treated with other medicines.
-
-Lamotrigine should not be used for acute treatment of manic or mixed mood episodes.
-
-Who should not take lamotrigine?
-
-You should not take lamotrigine if you have had an allergic reaction to lamotrigine or to any of the inactive ingredients in lamotrigine.
-See the end of this leaflet for a complete list of ingredients in lamotrigine.
-
-What should I tell my healthcare provider before taking lamotrigine?
-
-Before taking lamotrigine, tell your healthcare provider about all of your medical conditions, including if you:
+Before taking lamotrigine, tell your healthcare provider about all of your health conditions, including if you:
 
 - have had a rash or allergic reaction to another antiseizure medicine.
 - have or have had depression, mood problems, or suicidal thoughts or behavior. have had aseptic meningitis after taking lamotrigine.
@@ -170,7 +157,7 @@ Before taking lamotrigine, tell your healthcare provider about all of your medic
   Stopping these medicines while you are taking lamotrigine may cause side effects (such as dizziness, lack of coordination, or double vision).
   Starting these medicines may lessen how well lamotrigine works.
 - are pregnant or plan to become pregnant.
-  It is not known if lamotrigine will harm your unborn baby.
+  It is not known if lamotrigine may harm your unborn baby.
   If you become pregnant while taking lamotrigine, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
   You can enroll in this registry by calling 1-888-233-2334.
   The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
@@ -180,8 +167,12 @@ Before taking lamotrigine, tell your healthcare provider about all of your medic
   Call your baby's healthcare provider right away if you see any of these problems.
   Talk to your healthcare provider about the best way to feed your baby if you take lamotrigine.
 
-Tell your healthcare provider about all the medicines you take or if you are planning to take a new medicine, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
-If you use lamotrigine with certain other medicines, they can affect each other, causing side effects.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+Lamotrigine and certain other medicines may interact with each other.
+This may cause serious side effects.
+
+Know the medicines you take.
+Keep a list of them to show your healthcare provider and pharmacist when you get a new medicine.
 
 How should I take lamotrigine?
 
@@ -237,10 +228,7 @@ Common side effects of lamotrigine include:
 - stuffy nose
 - sore throat
 
-Tell your healthcare provider about any side effect that bothers you or that does not go away.
-
 These are not all the possible side effects of lamotrigine.
-For more information, ask your healthcare provider or pharmacist.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
@@ -254,15 +242,13 @@ General information about the safe and effective use of lamotrigine
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use lamotrigine for a condition for which it was not prescribed.
-Do not give lamotrigine to other people, even if they have the same symptoms you have.
+Do not give lamotrigine to other people, even if they have the same symptoms that you have.
 It may harm them.
 
 If you take a urine drug screening test, lamotrigine may make the test result positive for another drug.
 If you require a urine drug screening test, tell the healthcare professional administering the test that you are taking lamotrigine.
 
-This Medication Guide summarizes the most important information about lamotrigine.
-If you would like more information, talk with your healthcare provider.
-You can ask your healthcare provider or pharmacist for information about lamotrigine that is written for healthcare professionals.
+You can ask your healthcare provider or pharmacist for information about lamotrigine that is written for health professionals.
 
 Please address medical inquiries to, MedicalAffairs@zydususa.com or Tel.: 1-877-993-8779.
 
@@ -293,10 +279,4 @@ Cadila Healthcare Ltd.
 
 India
 
-Distributed by:
-
-Zydus Pharmaceuticals (USA) Inc.
-
-Pennington, NJ 08534
-
-Rev.: 05/18
+Rev.: 08/18
