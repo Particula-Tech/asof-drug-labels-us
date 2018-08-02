@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA209886"
+  ],
+  "inn": "bexarotene",
+  "labeler": "Upsher-Smith Laboratories, Inc.",
+  "package_ndcs": [
+    "0832-0285-00"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "bexarotene",
+      "name": "Bexarotene"
+    }
+  ],
+  "setid": "7437a43f-172a-4f4e-8132-fe23b00224f9",
+  "source": "dailymed"
+}
