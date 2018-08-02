@@ -25,26 +25,8 @@ This inhibition of coronary spasm is responsible for the effectiveness of amlodi
 
 Atorvastatin
 
-Cholesterol and triglycerides circulate in the bloodstream as part of lipoprotein complexes.
-With ultracentrifugation, these complexes separate into HDL (high-density lipoprotein), IDL (intermediate-density lipoprotein), LDL (low-density lipoprotein), and VLDL (very-low-density lipoprotein) fractions.
-Triglycerides (TG) and cholesterol in the liver are incorporated into VLDL and released into the plasma for delivery to peripheral tissues.
-LDL is formed from VLDL and is catabolized primarily through the high-affinity LDL receptor.
-
-Clinical and pathologic studies show that elevated plasma levels of total cholesterol (total-C), LDL-cholesterol (LDL-C), and apolipoprotein B (apo B) promote human atherosclerosis and are risk factors for developing cardiovascular disease, while increased levels of HDL-C are associated with a decreased cardiovascular risk.
-
-Epidemiologic investigations have established that cardiovascular morbidity and mortality vary directly with the level of total-C and LDL-C, and inversely with the level of HDL-C.
-
+Atorvastatin is a selective, competitive inhibitor of HMG-CoA reductase, the rate-limiting enzyme that converts 3-hydroxy-3-methylglutaryl-coenzyme A to mevalonate, a precursor of sterols, including cholesterol.
 In animal models, atorvastatin lowers plasma cholesterol and lipoprotein levels by inhibiting HMG-CoA reductase and cholesterol synthesis in the liver and by increasing the number of hepatic LDL receptors on the cell surface to enhance uptake and catabolism of LDL; atorvastatin also reduces LDL production and the number of LDL particles.
-
-Atorvastatin reduces total-C, LDL-C, and apo B in patients with homozygous and heterozygous familial hypercholesterolemia (FH), nonfamilial forms of hypercholesterolemia, and mixed dyslipidemia.
-Atorvastatin also reduces VLDL-C and TG and produces variable increases in HDL-C and apolipoprotein A-1.
-Atorvastatin reduces total-C, LDL-C, VLDL-C, apo B, TG, and non-HDL-C, and increases HDL-C in patients with isolated hypertriglyceridemia.
-Atorvastatin reduces intermediate density lipoprotein cholesterol (IDL-C) in patients with dysbetalipoproteinemia.
-
-Like LDL, cholesterol-enriched triglyceride-rich lipoproteins, including VLDL, (IDL), and remnants, can also promote atherosclerosis.
-Elevated plasma triglycerides are frequently found in a triad with low HDL-C levels and small LDL particles, as well as in association with non-lipid metabolic risk factors for coronary heart disease.
-As such, total plasma TG has not consistently been shown to be an independent risk factor for CHD.
-Furthermore, the independent effect of raising HDL or lowering TG on the risk of coronary and cardiovascular morbidity and mortality has not been determined.
 
 ## 12.2 Pharmacodynamics
 
@@ -147,7 +129,7 @@ Pediatric
 Amlodipine: Sixty-two hypertensive patients aged 6 to 17 years received doses of amlodipine between 1.25 mg and 20 mg.
 Weight-adjusted clearance and volume of distribution were similar to values in adults.
 
-Atorvastatin: Pharmacokinetic data in the pediatric population are not available.
+Atorvastatin: Apparent oral clearance of atorvastatin in pediatric subjects appeared similar to that of adults when scaled allometrically by body weight as the body weight was the only significant covariate in atorvastatin population pharmacokinetics model with data including pediatric HeFH patients (ages 10 years to 17 years of age, n=29) in an open-label, 8-week study.
 
 Gender
 
@@ -252,7 +234,7 @@ Effect of Atorvastatin on the Pharmacokinetics of Co-administered Drugs
 | 80 mg QD for 15 days | Antipyrine, 600 mg SD | ↑ 3% | ↓ 11% |
 | 80 mg QD for 14 days | Digoxin 0.25 mg QD, 20 days | ↑ 15% | ↑ 20 % |
 | 40 mg QD for 22 days | Oral contraceptive QD, 2 months |  |  |
-|  | – norethindrone 1mg – ethinyl estradiol 35 µg | ↑ 28% ↑ 19% | ↑ 23% ↑ 30% |
+| – norethindrone 1mg – ethinyl estradiol 35 µg | ↑ 28% ↑ 19% | ↑ 23% ↑ 30% |  |
 | 10 mg, SD | Tipranavir 500 mg BID/ritonavir 200 mg BID, 7 days | No change | No change |
 | 10 mg QD for 4 days | Fosamprenavir 1400 mg BID, 14 days | ↓ 27% | ↓ 18% |
 | 10 mg QD for 4 days | Fosamprenavir 700 mg BID/ritonavir 100 mg BID, 14 days | No change | No change |

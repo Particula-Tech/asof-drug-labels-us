@@ -105,15 +105,32 @@ The effect of amlodipine on blood pressure in patients less than 6 years of age 
 
 Atorvastatin
 
-Safety and effectiveness in patients 10–17 years of age with heterozygous familial hypercholesterolemia have been evaluated in a controlled clinical trial of 6 months' duration in adolescent boys and postmenarchal girls.
-Patients treated with atorvastatin had an adverse experience profile generally similar to that of patients treated with placebo.
-The most common adverse experiences observed in both groups, regardless of causality assessment, were infections.
-Doses greater than 20 mg have not been studied in this patient population.
-In this limited controlled study, there was no significant effect on growth or sexual maturation in boys or on menstrual cycle length in girls [see Clinical Studies (14.11), Adverse Reactions (6.1), and Dosage and Administration (2)].
-Adolescent females should be counseled on appropriate contraceptive methods while on atorvastatin therapy [see Contraindications (4) and Use in Specific Populations (8.1)].
-Atorvastatin has not been studied in controlled clinical trials involving pre-pubertal patients or patients younger than 10 years of age.
+Heterozygous Familial Hypercholesterolemia (HeFH)
 
-Clinical efficacy with doses of atorvastatin up to 80 mg/day for 1 year have been evaluated in an uncontrolled study of patients with homozygous FH including 8 pediatric patients [see Clinical Studies (14.10)].
+Safety and effectiveness of atorvastatin have been established in patients 10 years to 17 years of age with HeFH as an adjunct to diet to reduce total cholesterol, LDL-C, and apo B levels when, after an adequate trial of diet therapy, the following are present:
+
+- LDL-C ≥190 mg/dL, or
+- LDL-C ≥160 mg/dL and
+  - a positive family history of FH, or premature CVD in a first, or second-degree relative, or
+  - two or more other CVD risk factors are present.
+
+Use of atorvastatin for this indication is supported by evidence from [see Dosage and Administration (2), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.11)]:
+
+- A placebo-controlled clinical trial of 6 months duration in 187 boys and postmenarchal girls, 10 years to 17 years of age.
+  Patients treated with 10 mg or 20 mg daily atorvastatin had an adverse reaction profile generally similar to that of patients treated with placebo.
+  In this limited controlled study, there was no significant effect on growth or sexual maturation in boys or on menstrual cycle length in girls
+- A three year open-label uncontrolled trial that included 163 pediatric patients 10 to 15 years of age with HeFH who were titrated to achieve a target LDL-C <130 mg/dL.
+  The safety and efficacy of atorvastatin in lowering LDL-C appeared generally consistent with that observed for adult patients, despite limitations of the uncontrolled study design
+
+Advise postmenarchal girls of contraception recommendations, if appropriate for the patient [see Use in Specific Populations (8.1)].
+
+The long-term efficacy of atorvastatin therapy initiated in childhood to reduce morbidity and mortality in adulthood has not been established.
+
+The safety and efficacy of atorvastatin have not been established in pediatric patients younger than 10 years of age with HeFH.
+
+Homozygous Familial Hypercholesterolemia (HoFH)
+
+Clinical efficacy of atorvastatin with dosages up to 80 mg/day for 1 year was evaluated in an uncontrolled study of patients with HoFH including 8 pediatric patients [see Clinical Studies (14.10)].
 
 ## 8.5 Geriatric Use
 

@@ -47,20 +47,20 @@ Therapy with HMG CoA-reductase inhibitors (lipid-altering agents) should be only
 Drug therapy is recommended as an adjunct to diet when the response to a diet restricted in saturated fat and cholesterol and other nonpharmacologic measures alone has been inadequate.
 In patients with coronary heart disease (CHD) or multiple risk factors for CHD, atorvastatin can be started simultaneously with diet restriction.
 
-## 1.3 Prevention of Cardiovascular Disease (CVD)
+## 1.3 Prevention of Cardiovascular Disease (CVD) in Adults
 
-In adult patients without clinically evident coronary heart disease, but with multiple risk factors for coronary heart disease such as age, smoking, hypertension, low HDL-cholesterol (HDL-C), or a family history of early coronary heart disease, atorvastatin is indicated to:
+In adult patients without clinically evident coronary heart disease, but with multiple risk factors for coronary heart disease such as age, smoking, hypertension, low high-density lipoprotein cholesterol (HDL-C), or a family history of early coronary heart disease, atorvastatin is indicated to:
 
 - Reduce the risk of myocardial infarction (MI)
 - Reduce the risk of stroke
 - Reduce the risk for revascularization procedures and angina
 
-In patients with type 2 diabetes, and without clinically evident coronary heart disease, but with multiple risk factors for coronary heart disease such as retinopathy, albuminuria, smoking, or hypertension, atorvastatin is indicated to:
+In adult patients with type 2 diabetes, and without clinically evident coronary heart disease, but with multiple risk factors for coronary heart disease such as retinopathy, albuminuria, smoking, or hypertension, atorvastatin is indicated to:
 
 - Reduce the risk of myocardial infarction
 - Reduce the risk of stroke
 
-In patients with clinically evident coronary heart disease, atorvastatin is indicated to:
+In adult patients with clinically evident coronary heart disease, atorvastatin is indicated to:
 
 - Reduce the risk of non-fatal myocardial infarction
 - Reduce the risk of fatal and non-fatal stroke
@@ -72,11 +72,11 @@ In patients with clinically evident coronary heart disease, atorvastatin is indi
 
 Atorvastatin is indicated:
 
-- As an adjunct to diet to reduce elevated total cholesterol (total-C), LDL-cholesterol (LDL-C), apolipoprotein B (apo B), and triglycerides (TG) levels and to increase HDL-C in patients with primary hypercholesterolemia (heterozygous familial and nonfamilial) and mixed dyslipidemia (Fredrickson Types IIa and IIb)
-- As an adjunct to diet for the treatment of patients with elevated serum TG levels (Fredrickson Type IV);
-- For the treatment of patients with primary dysbetalipoproteinemia (Fredrickson Type III) who do not respond adequately to diet
-- To reduce total-C and LDL-C in patients with homozygous familial hypercholesterolemia as an adjunct to other lipid-lowering treatments (e.g., LDL apheresis) or if such treatments are unavailable
-- As an adjunct to diet to reduce total-C, LDL-C, and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolemia if after an adequate trial of diet therapy the following findings are present:
+- As an adjunct to diet to reduce elevated total cholesterol (total-C), low-density lipoprotein cholesterol (LDL-C), apolipoprotein B (apo B), and triglycerides (TG) levels and to increase HDL-C in adult patients with primary hypercholesterolemia (heterozygous familial and nonfamilial) and mixed dyslipidemia (Fredrickson Types IIa and IIb)
+- As an adjunct to diet for the treatment of adult patients with elevated serum TG levels (Fredrickson Type IV);
+- For the treatment of adult patients with primary dysbetalipoproteinemia (Fredrickson Type III) who do not respond adequately to diet
+- To reduce total-C and LDL-C in patients with homozygous familial hypercholesterolemia (HoFH) as an adjunct to other lipid-lowering treatments (e.g., LDL apheresis) or if such treatments are unavailable
+- As an adjunct to diet to reduce total-C, LDL-C, and apo B levels in pediatric patients, 10 years to 17 years of age, with heterozygous familial hypercholesterolemia (HeFH) if after an adequate trial of diet therapy the following findings are present:
   1. LDL-C remains ≥ 190 mg/dL or
   2. LDL-C remains ≥ 160 mg/dL and:
      - there is a positive family history of premature CVD or

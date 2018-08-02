@@ -78,7 +78,7 @@ Metabolic and Nutritional: hyperglycemia, thirst.
 Hemopoietic: leukopenia, purpura, thrombocytopenia.
 
 Amlodipine therapy has not been associated with clinically significant changes in routine laboratory tests.
-No clinically relevant changes were noted in serum potassium, serum glucose, total triglycerides, total cholesterol, HDL cholesterol, uric acid, blood urea nitrogen, or creatinine.
+No clinically relevant changes were noted in serum potassium, serum glucose, total TG, TC, HDL-C, uric acid, blood urea nitrogen, or creatinine.
 
 Atorvastatin
 
@@ -132,7 +132,9 @@ There were no significant differences between the treatment groups for all-cause
 The proportions of subjects who experienced cardiovascular death were numerically smaller in the atorvastatin 80 mg group (3.3%) than in the placebo group (4.1%).
 The proportions of subjects who experienced non-cardiovascular death were numerically larger in the atorvastatin 80 mg group (5.0%) than in the placebo group (4.0%).
 
-Pediatrics: In a 26-week controlled study in boys and postmenarchal girls (n=140, 31% female; 92% Caucasians, 1.6% Blacks, 1.6% Asians, 4.8% other), the safety and tolerability profile of atorvastatin 10 to 20 mg daily was generally similar to that of placebo [see Clinical Studies (14.11) and Use in Specific Populations (8.4)].
+Adverse Reactions from Clinical Studies of Atorvastatin in Pediatric Patients
+
+In a 26-week controlled study in boys and postmenarchal girls with HeFH (ages 10 years to 17 years) (n=140, 31% female; 92% Caucasians, 1.6% Blacks, 1.6% Asians, 4.8% Other), the safety and tolerability profile of atorvastatin 10 to 20 mg daily, as an adjunct to diet to reduce TC, LDL-C, and apo B levels, was generally similar to that of placebo [see Use in Special Populations (8.4) and Clinical Studies (14.11)].
 
 ## 6.2 Postmarketing Experience
 

@@ -81,7 +81,7 @@ With amlodipine there were more reports of pulmonary edema.
 
 ## 14.6 Atorvastatin for Prevention of Cardiovascular Disease
 
-In the Anglo-Scandinavian Cardiac Outcomes Trial (ASCOT), the effect of atorvastatin on fatal and non-fatal coronary heart disease was assessed in 10,305 hypertensive patients 40–80 years of age (mean of 63 years), without a previous myocardial infarction and with TC levels ≤ 251 mg/dL (6.5 mmol/L).
+In the Anglo-Scandinavian Cardiac Outcomes Trial (ASCOT), the effect of atorvastatin on fatal and non-fatal coronary heart disease was assessed in 10,305 hypertensive patients 40–80 years of age (mean of 63 years), without a previous myocardial infarction and with total-C levels ≤ 251 mg/dL (6.5 mmol/L).
 Additionally, all patients had at least 3 of the following cardiovascular risk factors: male gender (81.1%), age > 55 years (84.5%), smoking (33.2%), diabetes (24.3%), history of CHD in a first-degree relative (26%), TC:HDL > 6 (14.3%), peripheral vascular disease (5.1%), left ventricular hypertrophy (14.4%), prior cerebrovascular event (9.8%), specific ECG abnormality (14.3%), proteinuria/albuminuria (62.4%).
 In this double-blind, placebo-controlled study, patients were treated with anti-hypertensive therapy (Goal BP < 140/90 mmHg for non-diabetic patients; < 130/80 mm Hg for diabetic patients) and allocated to either atorvastatin 10 mg daily (n=5168) or placebo (n=5137), using a covariate adaptive method that took into account the distribution of nine baseline characteristics of patients already enrolled and minimized the imbalance of those characteristics across the groups.
 Patients were followed for a median duration of 3.3 years.
@@ -96,7 +96,7 @@ Because of the small number of events, results for women were inconclusive.
 Figure 3.
 Effect of Atorvastatin 10 mg/day on Cumulative Incidence of Non-Fatal Myocardial Infarction or Coronary Heart Disease Death (in ASCOT-LLA)
 
-Atorvastatin also significantly decreased the relative risk for revascularization procedures by 42%.
+Atorvastatin also significantly decreased the relative risk for revascularization procedures by 42% (incidences of 1.4% for atorvastatin and 2.5% for placebo).
 Although the reduction of fatal and non-fatal strokes did not reach a pre-defined significance level (p=0.01), a favorable trend was observed with a 26% relative risk reduction (incidences of 1.7% for atorvastatin and 2.3% for placebo).
 There was no significant difference between the treatment groups for death from cardiovascular causes (p=0.51) or noncardiovascular causes (p=0.17).
 
@@ -107,7 +107,7 @@ In this multicenter, placebo-controlled, double-blind clinical trial, subjects w
 The primary endpoint was the occurrence of any of the major cardiovascular events: myocardial infarction, acute CHD death, unstable angina, coronary revascularization, or stroke.
 The primary analysis was the time to first occurrence of the primary endpoint.
 
-Baseline characteristics of subjects were: mean age of 62 years; mean HbA1c 7.7%; median LDL-C 120 mg/dL; median TC 207 mg/dL; median TG 151 mg/dL; median HDL-C 52 mg/dL.
+Baseline characteristics of subjects were: mean age of 62 years; mean HbA1c 7.7%; median LDL-C 120 mg/dL; median total-C 207 mg/dL; median TG 151 mg/dL; median HDL-C 52 mg/dL.
 
 The effect of atorvastatin 10 mg/day on lipid levels was similar to that seen in previous clinical trials.
 
@@ -125,7 +125,7 @@ Effect of Atorvastatin 10 mg/day on Time to Occurrence of Major Cardiovascular E
 In the Treating to New Targets Study (TNT), the effect of atorvastatin 80 mg/day vs. atorvastatin 10 mg/day on the reduction in cardiovascular events was assessed in 10,001 subjects (94% white, 81% male, 38% ≥ 65 years) with clinically evident coronary heart disease who had achieved a target LDL-C level < 130 mg/dL after completing an 8-week, open-label, run-in period with atorvastatin 10 mg/day.
 Subjects were randomly assigned to either 10 mg/day or 80 mg/day of atorvastatin and followed for a median duration of 4.9 years.
 The primary endpoint was the time to first occurrence of any of the following major cardiovascular events (MCVE): death from CHD, non-fatal myocardial infarction, resuscitated cardiac arrest, and fatal and non-fatal stroke.
-The mean LDL-C, TC, TG, non-HDL, and HDL cholesterol levels at 12 weeks were 73, 145, 128, 98, and 47 mg/dL during treatment with 80 mg of atorvastatin and 99, 177, 152, 129, and 48 mg/dL during treatment with 10 mg of atorvastatin.
+The mean LDL-C, TC, TG, non-HDL, and HDL-C levels at 12 weeks were 73, 145, 128, 98, and 47 mg/dL during treatment with 80 mg of atorvastatin and 99, 177, 152, 129, and 48 mg/dL during treatment with 10 mg of atorvastatin.
 
 Treatment with atorvastatin 80 mg/day significantly reduced the rate of MCVE (434 events in the 80 mg/day group vs. 548 events in the 10 mg/day group) with a relative risk reduction of 22%, HR 0.78, 95% CI (0.69, 0.89), p=0.0002 (see Figure 5 and Table 7).
 The overall risk reduction was consistent regardless of age (< 65, ≥ 65) or gender.
@@ -170,16 +170,16 @@ The proportions of subjects who experienced noncardiovascular death were numeric
 In the Incremental Decrease in Endpoints Through Aggressive Lipid Lowering Study (IDEAL), treatment with atorvastatin 80 mg/day was compared to treatment with simvastatin 20–40 mg/day in 8,888 subjects up to 80 years of age with a history of CHD to assess whether reduction in CV risk could be achieved.
 Patients were mainly male (81%), white (99%) with an average age of 61.7 years, and an average LDL-C of 121.5 mg/dL at randomization; 76% were on statin therapy.
 In this prospective, randomized, open-label, blinded endpoint (PROBE) trial with no run-in period, subjects were followed for a median duration of 4.8 years.
-The mean LDL-C, TC, TG, HDL, and non-HDL cholesterol levels at Week 12 were 78, 145, 115, 45, and 100 mg/dL during treatment with 80 mg of atorvastatin and 105, 179, 142, 47, and 132 mg/dL during treatment with 20–40 mg of simvastatin.
+The mean LDL-C, TC, TG, HDL, and non-HDL-C levels at Week 12 were 78, 145, 115, 45, and 100 mg/dL during treatment with 80 mg of atorvastatin and 105, 179, 142, 47, and 132 mg/dL during treatment with 20–40 mg of simvastatin.
 
 There was no significant difference between the treatment groups for the primary endpoint, the rate of first major coronary event (fatal CHD, non-fatal MI, and resuscitated cardiac arrest): 411 (9.3%) in the atorvastatin 80 mg/day group vs. 463 (10.4%) in the simvastatin 20–40 mg/day group, HR 0.89, 95% CI (0.78, 1.01), p=0.07.
 
 There were no significant differences between the treatment groups for all-cause mortality: 366 (8.2%) in the atorvastatin 80 mg/day group vs. 374 (8.4%) in the simvastatin 20–40 mg/day group.
 The proportions of subjects who experienced CV or non-CV death were similar for the atorvastatin 80 mg group and the simvastatin 20–40 mg group.
 
-## 14.7 Atorvastatin for Hyperlipidemia (Heterozygous Familial and Nonfamilial) and Mixed Dyslipidemia (Fredrickson Types IIa and IIb)
+## 14.7 Atorvastatin for Hyperlipidemia and Mixed Dyslipidemia
 
-Atorvastatin reduces total-C, LDL-C, VLDL-C, apo B, and TG, and increases HDL-C in patients with hyperlipidemia and mixed dyslipidemia.
+Atorvastatin reduces total-C, LDL-C, very-low density lipoprotein cholesterol (VLDL-C), apo B, and TG, and increases HDL-C in patients with hyperlipidemia (heterozygous familial and nonfamilial) and mixed dyslipidemia (Fredrickson Types IIa and IIb).
 Therapeutic response is seen within 2 weeks, and maximum response is usually achieved within 4 weeks and maintained during chronic therapy.
 
 Atorvastatin is effective in a wide variety of patient populations with hyperlipidemia, with and without hypertriglyceridemia, in men and women, and in the elderly.
@@ -226,9 +226,9 @@ The impact on clinical outcomes of the differences in lipid-altering effects bet
 Table 9 does not contain data comparing the effects of atorvastatin 10 mg and higher doses of lovastatin, pravastatin, and simvastatin.
 The drugs compared in the studies summarized in the table are not necessarily interchangeable.
 
-## 14.8 Atorvastatin for Hypertriglyceridemia (Fredrickson Type IV)
+## 14.8 Atorvastatin for Hypertriglyceridemia
 
-The response to atorvastatin in 64 patients with isolated hypertriglyceridemia treated across several clinical trials is shown in the table below (Table 10).
+The response to atorvastatin in 64 patients with isolated hypertriglyceridemia (Fredrickson Type IV) treated across several clinical trials is shown in the table below (Table 10).
 For the atorvastatin-treated patients, median (min, max) baseline TG level was 565 (267–1502).
 
 Table 10.
@@ -236,14 +236,14 @@ Combined Patients with Isolated Elevated TG: Median (min, max) Percentage Change
 
 |  | Placebo (N=12) | Atorvastatin 10 mg (N=37) | Atorvastatin 20 mg (N=13) | Atorvastatin 80 mg (N=14) |
 | --- | --- | --- | --- | --- |
-| Triglycerides | -12.4 (-36.6, 82.7) | -41.0 (-76.2, 49.4) | -38.7 (-62.7, 29.5) | -51.8 (-82.8, 41.3) |
+| TG | -12.4 (-36.6, 82.7) | -41.0 (-76.2, 49.4) | -38.7 (-62.7, 29.5) | -51.8 (-82.8, 41.3) |
 | Total-C | -2.3 (-15.5, 24.4) | -28.2 (-44.9, -6.8) | -34.9 (-49.6, -15.2) | -44.4 (-63.5, -3.8) |
 | LDL-C | 3.6 (-31.3, 31.6) | -26.5 (-57.7, 9.8) | -30.4 (-53.9, 0.3) | -40.5 (-60.6, -13.8) |
 | HDL-C | 3.8 (-18.6, 13.4) | 13.8 (-9.7, 61.5) | 11.0 (-3.2, 25.2) | 7.5 (-10.8, 37.2) |
 | VLDL-C | -1.0 (-31.9, 53.2) | -48.8 (-85.8, 57.3) | -44.6 (-62.2, -10.8) | -62.0 (-88.2, 37.6) |
 | non-HDL-C | -2.8 (-17.6, 30.0) | -33.0 (-52.1, -13.3) | -42.7 (-53.7, -17.4) | -51.5 (-72.9, -4.3) |
 
-## 14.9 Atorvastatin for Dysbetalipoproteinemia (Fredrickson Type III)
+## 14.9 Atorvastatin for Dysbetalipoproteinemia
 
 The results of an open-label crossover study of 16 patients (genotypes: 14 apo E2/E2 and 2 apo E3/E2) with dysbetalipoproteinemia (Fredrickson Type III) are shown in the table below (Table 11).
 
@@ -254,13 +254,13 @@ Open-Label Crossover Study of 16 Patients with Dysbetalipoproteinemia (Fredricks
 | --- | --- | --- | --- |
 |  | Median (min, max) at Baseline (mg/dL) | Atorvastatin 10 mg | Atorvastatin 80 mg |
 | Total-C | 442 (225, 1320) | -37 (-85, 17) | -58 (-90, -31) |
-| Triglycerides | 678 (273, 5990) | -39 (-92, -8) | -53 (-95, -30) |
-| IDL-C + VLDL-C | 215 (111, 613) | -32 (-76, 9) | -63 (-90, -8) |
+| TG | 678 (273, 5990) | -39 (-92, -8) | -53 (-95, -30) |
+| Intermediate-density lipoprotein cholesterol (IDL-C) + VLDL-C | 215 (111, 613) | -32 (-76, 9) | -63 (-90, -8) |
 | non-HDL-C | 411 (218, 1272) | -43 (-87, -19) | -64 (-92, -36) |
 
 ## 14.10 Atorvastatin for Homozygous Familial Hypercholesterolemia
 
-In a study without a concurrent control group, 29 patients ages 6 to 37 years with homozygous FH received maximum daily doses of 20 to 80 mg of atorvastatin.
+In a study without a concurrent control group, 29 patients ages 6 years to 37 years with HoFH received maximum daily doses of 20 to 80 mg of atorvastatin.
 The mean LDL-C reduction in this study was 18%.
 Twenty-five patients with a reduction in LDL-C had a mean response of 20% (range of 7% to 53%, median of 24%); the remaining 4 patients had 7% to 24% increases in LDL-C.
 Five of the 29 patients had absent LDL-receptor function.
@@ -269,13 +269,13 @@ The remaining 3 receptor-negative patients had a mean LDL-C reduction of 22%.
 
 ## 14.11 Atorvastatin for Heterozygous Familial Hypercholesterolemia in Pediatric Patients
 
-In a double-blind, placebo-controlled study followed by an open-label phase, 187 boys and postmenarchal girls 10–17 years of age (mean age 14.1 years) with heterozygous familial hypercholesterolemia (FH) or severe hypercholesterolemia, were randomized to atorvastatin (n=140) or placebo (n=47) for 26 weeks and then all received atorvastatin for 26 weeks.
+In a double-blind, placebo-controlled study followed by an open-label phase, 187 boys and post-menarchal girls 10 years to17 years of age (mean age 14.1 years) with HeFH or severe hypercholesterolemia, were randomized to atorvastatin (n=140) or placebo (n=47) for 26 weeks and then all received atorvastatin for 26 weeks.
 Inclusion in the study required 1) a baseline LDL-C level ≥ 190 mg/dL or 2) a baseline LDL-C level ≥ 160 mg/dL and positive family history of FH or documented premature cardiovascular disease in a first or second-degree relative.
 The mean baseline LDL-C value was 218.6 mg/dL (range: 138.5–385.0 mg/dL) in the atorvastatin group compared to 230.0 mg/dL (range: 160.0–324.5 mg/dL) in the placebo group.
 The dosage of atorvastatin (once daily) was 10 mg for the first 4 weeks and uptitrated to 20 mg if the LDL-C level was > 130 mg/dL.
 The number of atorvastatin-treated patients who required uptitration to 20 mg after Week 4 during the double-blind phase was 78 (55.7 %).
 
-Atorvastatin significantly decreased plasma levels of total-C, LDL-C, triglycerides, and apolipoprotein B during the 26-week double-blind phase (see Table 12).
+Atorvastatin significantly decreased plasma levels of total-C, LDL-C, TG, and apolipoprotein B during the 26-week double-blind phase (see Table 12).
 
 Table 12.
 Lipid-Altering Effects of Atorvastatin in Adolescent Boys and Girls with Heterozygous Familial Hypercholesterolemia or Severe Hypercholesterolemia (Mean Percentage Change from Baseline at Endpoint in Intention-to-Treat Population)
@@ -287,8 +287,12 @@ Lipid-Altering Effects of Atorvastatin in Adolescent Boys and Girls with Heteroz
 
 The mean achieved LDL-C value was 130.7 mg/dL (range: 70.0–242.0 mg/dL) in the atorvastatin group compared to 228.5 mg/dL (range: 152.0–385.0 mg/dL) in the placebo group during the 26-week double-blind phase.
 
-The safety and efficacy of doses above 20 mg have not been studied in controlled trials in children.
-The long-term efficacy of atorvastatin therapy in childhood to reduce morbidity and mortality in adulthood has not been established.
+Atorvastatin was also studied in a three year open-label, uncontrolled trial that included 163 patients with HeFH who were 10 years to 15 years old (82 boys and 81 girls).
+All patients had a clinical diagnosis of HeFH confirmed by genetic analysis (if not already confirmed by family history).
+Approximately 98% were Caucasian, and less than 1% were Black or Asian.
+Mean LDL-C at baseline was 232 mg/dL.
+The starting atorvastatin dosage was 10 mg once daily and doses were adjusted to achieve a target of <130 mg/dL LDL-C.
+The reductions in LDL-C from baseline were generally consistent across age groups within the trial as well as with previous clinical studies in both adult and pediatric placebo-controlled trials.
 
 ## 14.12 CADUET for Hypertension and Dyslipidemia
 

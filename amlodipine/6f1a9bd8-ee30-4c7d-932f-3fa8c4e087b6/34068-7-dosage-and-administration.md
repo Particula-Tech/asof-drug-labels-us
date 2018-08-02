@@ -32,14 +32,14 @@ Doses in excess of 5 mg daily have not been studied in pediatric patients [see C
 
 Atorvastatin (Hyperlipidemia)
 
-Hyperlipidemia (Heterozygous Familial and Nonfamilial) and Mixed Dyslipidemia (Fredrickson Types IIa and IIb): The recommended starting dose of atorvastatin is 10 or 20 mg once daily.
+Hyperlipidemia and Mixed Dyslipidemia: The recommended starting dose of atorvastatin is 10 or 20 mg once daily.
 Patients who require a large reduction in LDL-C (more than 45%) may be started at 40 mg once daily.
 The dosage range of atorvastatin is 10 to 80 mg once daily.
 Atorvastatin can be administered as a single dose at any time of the day, with or without food.
-The starting dose and maintenance doses of atorvastatin should be individualized according to patient characteristics such as goal of therapy and response (see current NCEP Guidelines).
+The starting dose and maintenance doses of atorvastatin should be individualized according to patient characteristics such as goal of therapy and response.
 After initiation and/or upon titration of atorvastatin, lipid levels should be analyzed within 2 to 4 weeks and dosage adjusted accordingly.
 
-Homozygous Familial Hypercholesterolemia: The dosage range of atorvastatin in patients with homozygous FH is 10 to 80 mg daily.
+Homozygous Familial Hypercholesterolemia: The dosage range of atorvastatin in patients with HoFH is 10 to 80 mg daily.
 Atorvastatin should be used as an adjunct to other lipid-lowering treatments (e.g., LDL apheresis) in these patients or if such treatments are unavailable.
 
 Concomitant Lipid-Lowering Therapy: Atorvastatin may be used with bile acid resins.
@@ -52,6 +52,6 @@ In patients with HIV taking lopinavir plus ritonavir, use the lowest necessary d
 In patients taking clarithromycin, itraconazole, or in patients with HIV taking a combination of saquinavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, or fosamprenavir plus ritonavir, limit therapy with atorvastatin to 20 mg, and make appropriate clinical assessment to ensure that the lowest dose necessary of atorvastatin is employed.
 In patients taking the HIV protease inhibitor nelfinavir or the hepatitis C protease inhibitor boceprevir, limit therapy with atorvastatin to 40 mg, and make appropriate clinical assessment to ensure that the lowest dose necessary of atorvastatin is employed [see Warnings and Precautions (5.1), Drug Interactions (7)].
 
-Heterozygous Familial Hypercholesterolemia in Pediatric Patients (10–17 years of age): The recommended starting dose of atorvastatin is 10 mg/day; the maximum recommended dose is 20 mg/day (doses greater than 20 mg have not been studied in this patient population).
-Doses should be individualized according to the recommended goal of therapy [see current NCEP Pediatric Panel Guidelines 1, References (15), Clinical Pharmacology (12), and Indications and Usage (1.4)].
+Heterozygous Familial Hypercholesterolemia in Pediatric Patients (10 Years to 17 Years of Age): The recommended starting dose of atorvastatin is 10 mg/day; the usual dose range is 10 to 20 mg orally once daily [see Clinical Studies (14.11)].
+Doses should be individualized according to the recommended goal of therapy [see Indications and Usage (1.4) and Clinical Pharmacology (12)].
 Adjustments should be made at intervals of 4 weeks or more.
