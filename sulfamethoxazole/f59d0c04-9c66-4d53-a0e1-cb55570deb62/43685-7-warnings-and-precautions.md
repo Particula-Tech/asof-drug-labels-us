@@ -41,7 +41,8 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 
 Adjunctive treatment with Leucovorin for Pneumocystis jiroveci pneumonia
 
-Treatment failure and excess mortality were observed when trimethoprim-sulfamethoxazole was used concomitantly with leucovorin for the treatment of HIV positive patients with Pneumocystis jiroveci pneumonia in a randomized placebo controlled trial.6 Co-administration of trimethoprim-sulfamethoxazole and leucovorin during treatment of Pneumocystis jiroveci pneumonia should be avoided.
+Treatment failure and excess mortality were observed when trimethoprim-sulfamethoxazole was used concomitantly with leucovorin for the treatment of HIV positive patients with Pneumocystis jiroveci pneumonia in a randomized placebo controlled trial.
+6 Co-administration of trimethoprim-sulfamethoxazole and leucovorin during treatment of Pneumocystis jiroveci pneumonia should be avoided.
 
 # PRECAUTIONS
 
@@ -77,7 +78,8 @@ As with all drugs containing sulfonamides, caution is advisable in patients with
 Use in the Treatment of and Prophylaxis for Pneumocystis jiroveci Pneumonia in Patients with Acquired Immunodeficiency Syndrome (AIDS): AIDS patients may not tolerate or respond to BACTRIM in the same manner as non-AIDS patients.
 The incidence of side effects, particularly rash, fever, leukopenia and elevated aminotransferase (transaminase) values, with BACTRIM therapy in AIDS patients who are being treated for P. jiroveci pneumonia has been reported to be greatly increased compared with the incidence normally associated with the use of BACTRIM in non-AIDS patients.
 Adverse effects are generally less severe in patients receiving BACTRIM for prophylaxis.
-A history of mild intolerance to BACTRIM in AIDS patients does not appear to predict intolerance of subsequent secondary prophylaxis.7 However, if a patient develops skin rash or any sign of adverse reaction, therapy with BACTRIM should be reevaluated (see WARNINGS).
+A history of mild intolerance to BACTRIM in AIDS patients does not appear to predict intolerance of subsequent secondary prophylaxis.
+7 However, if a patient develops skin rash or any sign of adverse reaction, therapy with BACTRIM should be reevaluated (see WARNINGS).
 
 Co-administration of BACTRIM and leucovorin should be avoided with P. jiroveci pneumonia (see WARNINGS).
 
@@ -143,7 +145,8 @@ Additional monitoring of blood glucose may be warranted.
 In the literature, a single case of toxic delirium has been reported after concomitant intake of sulfamethoxazole/trimethoprim and amantadine (an OCT2 substrate).
 Cases of interactions with other OCT2 substrates, memantine and metformin, have also been reported.
 
-In the literature, three cases of hyperkalemia in elderly patients have been reported after concomitant intake of sulfamethoxazole/trimethoprim and an angiotensin converting enzyme inhibitor.8,9
+In the literature, three cases of hyperkalemia in elderly patients have been reported after concomitant intake of sulfamethoxazole/trimethoprim and an angiotensin converting enzyme inhibitor.
+8,9
 
 Drug/Laboratory Test Interactions: BACTRIM, specifically the trimethoprim component, can interfere with a serum methotrexate assay as determined by the competitive binding protein technique (CBPA) when a bacterial dihydrofolate reductase is used as the binding protein.
 No interference occurs, however, if methotrexate is measured by a radioimmunoassay (RIA).
@@ -170,14 +173,14 @@ Impairment of Fertility: No adverse effects on fertility or general reproductive
 
 Pregnancy:
 
-While there are no large, well-controlled studies on the use of sulfamethoxazole and trimethoprim in pregnant women, Brumfitt and Pursell,10 in a retrospective study, reported the outcome of 186 pregnancies during which the mother received either placebo or sulfamethoxazole and trimethoprim.
+While there are no large, well-controlled studies on the use of sulfamethoxazole and trimethoprim in pregnant women, Brumfitt and Pursell, 10 in a retrospective study, reported the outcome of 186 pregnancies during which the mother received either placebo or sulfamethoxazole and trimethoprim.
 The incidence of congenital abnormalities was 4.5% (3 of 66) in those who received placebo and 3.3% (4 of 120) in those receiving sulfamethoxazole and trimethoprim.
 There were no abnormalities in the 10 children whose mothers received the drug during the first trimester.
 In a separate survey, Brumfitt and Pursell also found no congenital abnormalities in 35 children whose mothers had received oral sulfamethoxazole and trimethoprim at the time of conception or shortly thereafter.
 
 Because sulfamethoxazole and trimethoprim may interfere with folic acid metabolism, BACTRIM should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-Teratogenic Effects: Pregnancy Category D.
+Teratogenic Effects:
 
 Human Data:
 
