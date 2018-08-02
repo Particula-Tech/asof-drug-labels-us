@@ -2,8 +2,8 @@
 
 Sulfamethoxazole and trimethoprim is rapidly absorbed following oral administration.
 Both sulfamethoxazole and trimethoprim exist in the blood as unbound, protein-bound and metabolized forms; sulfamethoxazole also exists as the conjugated form.
-Sulfamethoxazole is metabolized in humans to at least 5 metabolites: the N4-acetyl-, N4-hydroxy-, 5-methylhydroxy-, N4-acetyl- 5-methylhydroxy- sulfamethoxazole metabolites, and an N-glucuronide conjugate.
-The formulation of N4-hydroxy metabolite is mediated via CYP2C9.
+Sulfamethoxazole is metabolized in humans to at least 5 metabolites: the N 4-acetyl-, N 4-hydroxy-, 5-methylhydroxy-, N 4-acetyl- 5-methylhydroxy- sulfamethoxazole metabolites, and an N-glucuronide conjugate.
+The formulation of N 4-hydroxy metabolite is mediated via CYP2C9.
 
 Trimethoprim is metabolized in vitro to 11 different metabolites, of which, five are glutathione adducts and six are oxidative metabolites, including the major metabolites, 1- and 3-oxides and the 3- and 4-hydroxy derivatives.
 
@@ -21,17 +21,20 @@ However, patients with severely impaired renal function exhibit an increase in t
 Detectable amounts of sulfamethoxazole and trimethoprim are present in the blood 24 hours after drug administration.
 During administration of 800 mg sulfamethoxazole and 160 mg trimethoprim b.i.d., the mean steady-state plasma concentration of trimethoprim was 1.72 µg/mL.
 The steady-state mean plasma levels of free and total sulfamethoxazole were 57.4 µg/mL and 68.0 µg/mL, respectively.
-These steady-state levels were achieved after three days of drug administration.1 Excretion of sulfamethoxazole and trimethoprim is primarily by the kidneys through both glomerular filtration and tubular secretion.
+These steady-state levels were achieved after three days of drug administration.
+1 Excretion of sulfamethoxazole and trimethoprim is primarily by the kidneys through both glomerular filtration and tubular secretion.
 Urine concentrations of both sulfamethoxazole and trimethoprim are considerably higher than are the concentrations in the blood.
 The average percentage of the dose recovered in urine from 0 to 72 hours after a single oral dose of sulfamethoxazole and trimethoprim is 84.5% for total sulfonamide and 66.8% for free trimethoprim.
-Thirty percent of the total sulfonamide is excreted as free sulfamethoxazole, with the remaining as N4-acetylated metabolite.2 When administered together as sulfamethoxazole and trimethoprim, neither sulfamethoxazole nor trimethoprim affects the urinary excretion pattern of the other.
+Thirty percent of the total sulfonamide is excreted as free sulfamethoxazole, with the remaining as N 4-acetylated metabolite.
+2 When administered together as sulfamethoxazole and trimethoprim, neither sulfamethoxazole nor trimethoprim affects the urinary excretion pattern of the other.
 
 Both sulfamethoxazole and trimethoprim distribute to sputum, vaginal fluid and middle ear fluid; trimethoprim also distributes to bronchial secretion, and both pass the placental barrier and are excreted in human milk.
 
 Geriatric Pharmacokinetics: The pharmacokinetics of sulfamethoxazole 800 mg and trimethoprim 160 mg were studied in 6 geriatric subjects (mean age: 78.6 years) and 6 young healthy subjects (mean age: 29.3 years) using a non-US approved formulation.
 Pharmacokinetic values for sulfamethoxazole in geriatric subjects were similar to those observed in young adult subjects.
 The mean renal clearance of trimethoprim was significantly lower in geriatric subjects compared with young adult subjects (19 mL/h/kg vs. 55 mL/h/kg).
-However, after normalizing by body weight, the apparent total body clearance of trimethoprim was on average 19% lower in geriatric subjects compared with young adult subjects.3
+However, after normalizing by body weight, the apparent total body clearance of trimethoprim was on average 19% lower in geriatric subjects compared with young adult subjects.
+3
 
 ## Microbiology
 
@@ -58,14 +61,14 @@ Dilution Techniques:
 
 Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized test method (broth or agar)4,15.
+The MICs should be determined using a standardized test method (broth or agar) 4,15.
 The MIC values should be interpreted according to the criteria provided in Table 1.
 
 Diffusion Techniques:
 
 Quantitative methods that require measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
-The zone size should be determined using a standardized test method14,15.
+The zone size should be determined using a standardized test method 14,15.
 This procedure uses paper disks impregnated with 1.25/23.75 µg of trimethoprim/sulfamethoxazole to test the susceptibility of microorganisms to trimethoprim/sulfamethoxazole.
 The disc diffusion interpretive criteria are provided in Table 1.
 
@@ -86,7 +89,7 @@ A report of Resistant indicates that the antimicrobial is not likely to inhibit 
 
 ## Quality Control
 
-Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay and the techniques of the individuals performing the test4,14,15.
+Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay and the techniques of the individuals performing the test 4,14,15.
 Standard trimethoprim/sulfamethoxazole powder should provide the following range of MIC values noted in Table 2.
 For the diffusion technique using the 1.25/23.75 µg trimethoprim/sulfamethoxazole disk the criteria in Table 2 should be achieved.
 
