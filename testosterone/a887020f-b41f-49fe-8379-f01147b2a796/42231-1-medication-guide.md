@@ -222,8 +222,8 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 For Medication Guides, please visit www.upsher-smith.com or call 1-888-650-3789.
 
-Manufactured for USL PHARMA, INC. Denver, CO 80223
+Manufactured for USL PHARMA, LLC Denver, CO 80223
 
 MADE IN CANADA
 
-Revised 1016
+Revised 0817

@@ -1,5 +1,5 @@
-Manufactured for USL PHARMA, INC. Denver, CO 80223
+Manufactured for USL PHARMA, LLC Denver, CO 80223
 
 MADE IN CANADA
 
-Revised 1016
+Revised 0817
