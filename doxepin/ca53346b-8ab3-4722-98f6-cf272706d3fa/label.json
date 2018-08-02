@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020126"
+  ],
+  "inn": "doxepin",
+  "labeler": "Mylan Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0378-8130-45"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "doxepin hydrochloride",
+      "name": "PRUDOXIN"
+    }
+  ],
+  "setid": "ca53346b-8ab3-4722-98f6-cf272706d3fa",
+  "source": "dailymed"
+}
