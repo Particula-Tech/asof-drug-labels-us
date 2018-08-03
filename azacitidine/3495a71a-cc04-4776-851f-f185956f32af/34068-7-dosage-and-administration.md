@@ -19,28 +19,28 @@ Monitor patients for hematologic response and renal toxicities [see Warnings and
 
 ## 2.3 Dosage Adjustment Based on Hematology Laboratory Values
 
-- For patients with baseline (start of treatment) WBC ≥3.0 x109/L, ANC ≥1.5 x109/L, and platelets ≥75.0 x109/L, adjust the dose as follows, based on nadir counts for any given cycle:
+- For patients with baseline (start of treatment) WBC greater than or equal to 3.0 x109/L, ANC greater than or equal to 1.5 x109/L, and platelets greater than or equal to 75.0 x109/L, adjust the dose as follows, based on nadir counts for any given cycle:
 
 | Nadir Counts |  | % Dose in the Next Course |
 | --- | --- | --- |
-| ANC (x109/L) <0.5 0.5 –1.5 >1.5 | Platelets (x109/L) <25.0 25.0-50.0 >50.0 | 50% 67% 100% |
+| ANC (x109/L) Less than 0.5 0.5 –1.5 Greater than 1.5 | Platelets (x109/L) Less than 25 25-50 Greater than 50 | 50% 67% 100% |
 
-- For patients whose baseline counts are WBC <3.0 x109/L, ANC<1.5 x109/L, or platelets <75.0 x109/L, base dose adjustments on nadir counts and bone marrow biopsy cellularity at the time of the nadir as noted below, unless there is clear improvement in differentiation (percentage of mature granulocytes is higher and ANC is higher than at onset of that course) at the time of the next cycle, in which case continue the current dose.
+- For patients whose baseline counts are WBC less than 3.0 x109/L, ANC less than 1.5 x109/L, or platelets less than 75.0 x109/L, base dose adjustments on nadir counts and bone marrow biopsy cellularity at the time of the nadir as noted below, unless there is clear improvement in differentiation (percentage of mature granulocytes is higher and ANC is higher than at onset of that course) at the time of the next cycle, in which case continue the current dose.
 
 | WBC or Platelet Nadir % decrease in counts from baseline | Bone Marrow Biopsy Cellularity at Time of Nadir (%) |  |  |
 | --- | --- | --- | --- |
-| 30-60 | 15-30 | <15 |  |
+| 30-60 | 15-30 | Less than 15 |  |
 |  | % Dose in the Next Course |  |  |
 | 50 - 75 | 100 | 50 | 33 |
-| >75 | 75 | 50 | 33 |
+| Greater than 75 | 75 | 50 | 33 |
 
-If a nadir as defined in the table above has occurred, give the next course 28 days after the start of the preceding course, provided that both the WBC and the platelet counts are >25% above the nadir and rising.
-If a >25% increase above the nadir is not seen by day 28, reassess counts every 7 days.
+If a nadir as defined in the table above has occurred, give the next course 28 days after the start of the preceding course, provided that both the WBC and the platelet counts are greater than 25% above the nadir and rising.
+If a greater than 25% increase above the nadir is not seen by day 28, reassess counts every 7 days.
 If a 25% increase is not seen by day 42, reduce the scheduled dose by 50%.
 
 ## 2.4 Dosage Adjustment Based on Serum Electrolytes and Renal Toxicity
 
-If unexplained reductions in serum bicarbonate levels to <20 mEq/L occur, reduce the dosage by 50% for the next course.
+If unexplained reductions in serum bicarbonate levels to less than 20 mEq/L occur, reduce the dosage by 50% for the next course.
 Similarly, if unexplained elevations of BUN or serum creatinine occur, delay the next cycle until values return to normal or baseline and reduce the dose by 50% for the next course [see Warnings and Precautions (5.3)].
 
 ## 2.5 Use in Geriatric Patients
@@ -68,11 +68,13 @@ The resulting suspension will contain azacitidine 25 mg/mL.
 Do not filter the suspension after reconstitution.
 Doing so could remove the active substance.
 
-Preparation for Immediate Subcutaneous Administration: Doses greater than 4 mL should be divided equally into 2 syringes.
+Preparation for Immediate Subcutaneous Administration: For doses requiring more than 1 vial, divide the dose equally between the syringes (e.g., dose 150 mg = 6 mL, 2 syringes with 3 mL in each syringe) and inject into two separate sites.
+Due to retention in the vial and needle, it may not be feasible to withdraw all of the suspension from the vial.
 The product may be held at room temperature for up to 1 hour, but must be administered within 1 hour after reconstitution.
 
 Preparation for Delayed Subcutaneous Administration: The reconstituted product may be kept in the vial or drawn into a syringe.
-Doses greater than 4 mL should be divided equally into 2 syringes.
+For doses requiring more than 1 vial, divide the dose equally between the syringes (e.g., dose 150 mg = 6 mL, 2 syringes with 3 mL in each syringe) and inject into two separate sites.
+Due to retention in the vial and needle, it may not be feasible to withdraw all of the suspension from the vial.
 The product must be refrigerated immediately.
 When VIDAZA is reconstituted using water for injection that has not been refrigerated, the reconstituted product may be held under refrigerated conditions (2ºC - 8ºC, 36ºF - 46ºF) for up to 8 hours.
 When VIDAZA is reconstituted using refrigerated (2ºC - 8ºC, 36ºF - 46ºF) water for injection, the reconstituted product may be stored under refrigerated conditions (2ºC - 8ºC, 36ºF - 46ºF) for up to 22 hours.
@@ -84,7 +86,6 @@ To provide a homogeneous suspension, the contents of the dosing syringe must be 
 To re-suspend, vigorously roll the syringe between the palms until a uniform, cloudy suspension is achieved.
 
 VIDAZA suspension is administered subcutaneously.
-Doses greater than 4 mL should be divided equally into 2 syringes and injected into 2 separate sites.
 Rotate sites for each injection (thigh, abdomen, or upper arm).
 New injections should be given at least one inch from an old site and never into areas where the site is tender, bruised, red, or hard.
 

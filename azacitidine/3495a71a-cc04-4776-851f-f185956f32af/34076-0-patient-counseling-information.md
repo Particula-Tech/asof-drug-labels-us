@@ -18,9 +18,9 @@ Lactation Advise patients to avoid breastfeeding while receiving VIDAZA [see Use
 | Manufactured by: | Baxter Oncology GmbH |
 |  | 33790 Halle/Westfalen Germany |
 |  | Or |
-|  | BSP Pharmaceuticals S.r.l. |
+|  | BSP Pharmaceuticals S.p.A. |
 |  | 04013 Latina Scalo (Lt) |
 |  | Italy |
 
-VIDAZA® is a registered trademark of Celgene Corporation. © 2004-2016 Celgene Corporation, All Rights Reserved.
-VIDPI.11 8/16
+VIDAZA® is a registered trademark of Celgene Corporation. © 2004-2018 Celgene Corporation, All Rights Reserved.
+VIDPI.12 7/18
