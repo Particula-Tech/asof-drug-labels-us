@@ -9,11 +9,14 @@ Avoid use of NSAIDs, including celecoxib capsules, in pregnant women starting at
 
 There are no adequate and well-controlled studies of celecoxib capsules in pregnant women.
 Data from observational studies regarding potential embryofetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive.
-In the general U.S. population, all clinically recognized pregnancies, regardless of drug exposure, have a background rate of 2 to 4% for major malformations, and 15 to 20% for pregnancy loss.
 In animal reproduction studies, embryo-fetal deaths and an increase in diaphragmatic hernias were observed in rats administered celecoxib daily during the period of organogenesis at oral doses approximately 6 times the maximum recommended human dose of 200 mg twice daily.
 In addition, structural abnormalities (e.g., septal defects, ribs fused, sternebrae fused and sternebrae misshapen) were observed in rabbits given daily oral doses of celecoxib during the period of organogenesis at approximately 2 times the MRHD [see Data].
 Based on animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization.
 In animal studies, administration of prostaglandin synthesis inhibitors such as celecoxib, resulted in increased pre- and post- implantation loss.
+
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the general U.S. population, all clinically recognized pregnancies, regardless of drug exposure, have a background rate of 2 to 4% for major malformations, and 15 to 20% for pregnancy loss.
 
 Clinical Considerations Labor or Delivery There are no studies on the effects of celecoxib capsules during labor or delivery.
 In animal studies, NSAIDs, including celecoxib, inhibit prostaglandin synthesis, cause delayed parturition, and increase the incidence of stillbirth.
@@ -53,7 +56,7 @@ Celecoxib has not been studied in patients under the age of 2 years, in patients
 Patients with systemic onset JRA (without active systemic features) appear to be at risk for the development of abnormal coagulation laboratory tests.
 In some patients with systemic onset JRA, both celecoxib and naproxen were associated with mild prolongation of activated partial thromboplastin time (APTT) but not prothrombin time (PT).
 When NSAIDs including celecoxib are used in patients with systemic onset JRA, monitor patients for signs and symptoms of abnormal clotting or bleeding, due to the risk of disseminated intravascular coagulation.
-Patients with systemic onset JRA should be monitored for the development of abnormal coagulation tests [see Dosage and Administration (2.4), Warnings and Precautions (5.12), Adverse Reactions (6.3), Animal Toxicology (13.2), Clinical Studies (14.3)].
+Patients with systemic onset JRA should be monitored for the development of abnormal coagulation tests [see Dosage and Administration (2.4), Warnings and Precautions (5.12), Adverse Reactions (6.1), Animal Toxicology (13.2), Clinical Studies (14.3)].
 
 Alternative therapies for treatment of JRA should be considered in pediatric patients identified to be CYP2C9 poor metabolizers [see Poor Metabolizers of CYP2C9 substrates (8.8)].
 
@@ -67,17 +70,16 @@ No substantial differences in effectiveness were observed between these subjects
 In clinical studies comparing renal function as measured by the GFR, BUN and creatinine, and platelet function as measured by bleeding time and platelet aggregation, the results were not different between elderly and young volunteers.
 However, as with other NSAIDs, including those that selectively inhibit COX-2, there have been more spontaneous post-marketing reports of fatal GI events and acute renal failure in the elderly than in younger patients [see Warnings and Precautions (5.4, 5.6)].
 
-## 8.6 Hepatic Insufficiency
+## 8.6 Hepatic Impairment
 
 The daily recommended dose of celecoxib capsules in patients with moderate hepatic impairment (Child-Pugh Class B) should be reduced by 50%.
 The use of celecoxib capsules in patients with severe hepatic impairment is not recommended [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].
 
-## 8.7 Renal Insufficiency
+## 8.7 Renal Impairment
 
 Celecoxib is not recommended in patients with severe renal insufficiency [see Warnings and Precautions (5.6) and Clinical Pharmacology (12.3)].
 
 ## 8.8 Poor Metabolizers of CYP2C9 Substrates
 
 In patients who are known or suspected to be poor CYP2C9 metabolizers (i.e., CYP2C9*3/*3), based on genotype or previous history/experience with other CYP2C9 substrates (such as warfarin, phenytoin) administer celecoxib capsules starting with half the lowest recommended dose.
-Alternative management should be considered in JRA patients identified to be CYP2C9 poor metabolizers.
-[see Dosage and Administration (2.6) and Clinical Pharmacology (12.5)].
+Alternative management should be considered in JRA patients identified to be CYP2C9 poor metabolizers [see Dosage and Administration (2.6) and Clinical Pharmacology (12.5)].

@@ -2,19 +2,19 @@
 
 Celecoxib capsules are indicated
 
-## 1.1 Osteoarthritis
+## 1.1 Osteoarthritis (OA)
 
 For the management of the signs and symptoms of OA [see Clinical Studies (14.1)]
 
-## 1.2 Rheumatoid Arthritis
+## 1.2 Rheumatoid Arthritis (RA)
 
 For the management of the signs and symptoms of RA [see Clinical Studies (14.2)]
 
-## 1.3 Juvenile Rheumatoid Arthritis
+## 1.3 Juvenile Rheumatoid Arthritis (JRA)
 
 For the management of the signs and symptoms of JRA in patients 2 years and older [see Clinical Studies (14.3)]
 
-## 1.4 Ankylosing Spondylitis
+## 1.4 Ankylosing Spondylitis (AS)
 
 For the management of the signs and symptoms of AS [see Clinical Studies (14.4)]
 

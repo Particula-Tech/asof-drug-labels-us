@@ -4,7 +4,7 @@ Cardiovascular Thrombotic Events
 
 - Nonsteroidal anti-inflammatory drugs (NSAIDs) cause an increased risk of serious cardiovascular thrombotic events, including myocardial infarction, and stroke, which can be fatal.
   This risk may occur early in the treatment and may increase with duration of use [see Warnings and Precautions (5.1)].
-- Celecoxib is contraindicated in the setting of coronary artery bypass graft (CABG) surgery [see Contraindications (4), Warnings and Precautions (5.1)].
+- Celecoxib is contraindicated in the setting of coronary artery bypass graft (CABG) surgery [see Contraindications (4) and Warnings and Precautions (5.1)].
 
 Gastrointestinal Bleeding, Ulceration, and Perforation
 

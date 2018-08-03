@@ -34,13 +34,12 @@ APOTEX INC. CELECOXIB CAPSULES 50 mg, 100 mg and 200 mg
 | Apotex Inc. |
 | Toronto, Ontario |
 | Canada M9LIT9 |
-| Manufactured by: |
-| Apotex Research Pvt. Ltd. |
-| Bangalore - 560 099 |
-| India |
 | Manufactured for: |
 | Apotex Corp. |
 | Weston, Florida |
 | 33326 |
 
-Revised: November 2016
+Revised: July 2018
+
+Rev.
+8

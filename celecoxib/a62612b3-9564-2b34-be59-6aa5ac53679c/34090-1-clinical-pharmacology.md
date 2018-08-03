@@ -14,11 +14,15 @@ Since celecoxib is an inhibitor of prostaglandin synthesis, its mode of action m
 
 ## 12.2 Pharmacodynamics
 
-Platelets In clinical trials using normal volunteers, celecoxib at single doses up to 800 mg and multiple doses of 600 mg twice daily for up to 7 days duration (higher than recommended therapeutic doses) had no effect on reduction of platelet aggregation or increase in bleeding time.
+Platelets
+
+In clinical trials using normal volunteers, celecoxib at single doses up to 800 mg and multiple doses of 600 mg twice daily for up to 7 days duration (higher than recommended therapeutic doses) had no effect on reduction of platelet aggregation or increase in bleeding time.
 Because of its lack of platelet effects, celecoxib is not a substitute for aspirin for cardiovascular prophylaxis.
 It is not known if there are any effects of celecoxib on platelets that may contribute to the increased risk of serious cardiovascular thrombotic adverse events associated with the use of celecoxib.
 
-Fluid Retention Inhibition of PGE2 synthesis may lead to sodium and water retention through increased reabsorption in the renal medullary thick ascending loop of Henle and perhaps other segments of the distal nephron.
+Fluid Retention
+
+Inhibition of PGE2 synthesis may lead to sodium and water retention through increased reabsorption in the renal medullary thick ascending loop of Henle and perhaps other segments of the distal nephron.
 In the collecting ducts, PGE2 appears to inhibit water reabsorption by counteracting the action of antidiuretic hormone.
 
 ## 12.3 Pharmacokinetics

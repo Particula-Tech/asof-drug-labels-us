@@ -25,9 +25,9 @@ Pre-marketing Controlled Arthritis Trials Table 1 lists all adverse events, rega
 
 Since these 12 trials were of different durations, and patients in the trials may not have been exposed for the same duration of time, these percentages do not capture cumulative rates of occurrence.
 
-Table 1: Adverse Events Occurring in >2% of Celecoxib Patients from Pre-marketing Controlled Arthritis Trials
+Table 1: Adverse Events Occurring in ≥2% of Celecoxib Patients from Pre-marketing Controlled Arthritis Trials
 
-|  |  | CXB N=4146 | Placebo N=1864 | NAP N=1366 | DCF N=387 | IBU N=345 |
+|  |  | CBX N=4146 | Placebo N=1864 | NAP N=1366 | DCF N=387 | IBU N=345 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Gastrointestinal |  |  |  |  |  |  |
 |  | Abdominal Pain | 4.1% | 2.8% | 7.7% | 9.0% | 9.0% |
@@ -52,7 +52,7 @@ Table 1: Adverse Events Occurring in >2% of Celecoxib Patients from Pre-marketin
 | Skin |  |  |  |  |  |  |
 |  | Rash | 2.2% | 2.1% | 2.1% | 1.3% | 1.2% |
 
-CXB = celecoxib 100 to 200 mg twice daily or 200 mg once daily; NAP = Naproxen 500 mg twice daily; DCF = Diclofenac 75 mg twice daily; IBU = Ibuprofen 800 mg three times daily.
+CBX = celecoxib 100 to 200 mg twice daily or 200 mg once daily; NAP = Naproxen 500 mg twice daily; DCF = Diclofenac 75 mg twice daily; IBU = Ibuprofen 800 mg three times daily.
 
 In placebo- or active-controlled clinical trials, the discontinuation rate due to adverse events was 7.1% for patients receiving celecoxib and 6.1% for patients receiving placebo.
 Among the most common reasons for discontinuation due to adverse events in the celecoxib treatment groups were dyspepsia and abdominal pain (cited as reasons for discontinuation in 0.8% and 0.7% of celecoxib patients, respectively).
@@ -86,10 +86,10 @@ The following serious adverse events (causality not evaluated) occurred in <0.1%
 | General: | Sepsis, sudden death |
 | Liver and biliary: | Cholelithiasis |
 | Hemic and lymphatic: | Thrombocytopenia |
-| Nervous: | Ataxia, suicide [see Drug Interactions (7.1)] |
+| Nervous: | Ataxia, suicide [see Drug Interactions (7)] |
 | Renal: | Acute renal failure |
 
-The Celecoxib Long-Term Arthritis Safety Study [see Special Studies (14.6)] Hematological Events: The incidence of clinically significant decreases in hemoglobin (>2 g/dL) was lower in patients on celecoxib 400 mg twice daily (0.5%) compared to patients on either diclofenac 75 mg twice daily (1.3%) or ibuprofen 800 mg three times daily 1.9%.
+The Celecoxib Long-Term Arthritis Safety Study [see Clinical Studies (14.7)] Hematological Events: The incidence of clinically significant decreases in hemoglobin (>2 g/dL) was lower in patients on celecoxib 400 mg twice daily (0.5%) compared to patients on either diclofenac 75 mg twice daily (1.3%) or ibuprofen 800 mg three times daily 1.9%.
 The lower incidence of events with celecoxib was maintained with or without aspirin use [see Clinical Pharmacology (12.2)].
 
 Withdrawals/Serious Adverse Events: Kaplan-Meier cumulative rates at 9 months for withdrawals due to adverse events for celecoxib, diclofenac and ibuprofen were 24%, 29%, and 26%, respectively.
@@ -145,7 +145,7 @@ Doses up to 600 mg/day of celecoxib were studied in primary dysmenorrhea and pos
 The types of adverse events in the analgesia and dysmenorrhea studies were similar to those reported in arthritis studies.
 The only additional adverse event reported was post-dental extraction alveolar osteitis (dry socket) in the post-oral surgery pain studies.
 
-The APC and PreSAP Trials Adverse reactions from long-term, placebo- controlled polyp prevention studies: Exposure to celecoxib in the APC and PreSAP trials was 400 to 800 mg daily for up to 3 years [see Special Studies Adenomatous Polyp Prevention Studies (14.6)].
+The APC and PreSAP Trials Adverse reactions from long-term, placebo- controlled polyp prevention studies: Exposure to celecoxib in the APC and PreSAP trials was 400 to 800 mg daily for up to 3 years [see Special Studies Adenomatous Polyp Prevention Studies (14.7)].
 
 Some adverse reactions occurred in higher percentages of patients than in the arthritis pre-marketing trials (treatment durations up to 12 weeks; see Adverse events from celecoxib pre-marketing controlled arthritis trials, above).
 The adverse reactions for which these differences in patients treated with celecoxib were greater as compared to the arthritis pre-marketing trials were as follows:

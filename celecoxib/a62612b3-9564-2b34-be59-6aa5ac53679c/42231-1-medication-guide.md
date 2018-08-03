@@ -127,17 +127,22 @@ You can ask your pharmacist or healthcare provider for information about NSAIDs 
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
+APOTEX INC.
+
+CELECOXIB CAPSULES
+
+50 mg, 100 mg and 200 mg
+
 | Manufactured by |
 | --- |
 | Apotex Inc |
 | Toronto, Ontario |
 | Canada M9L 1T9 |
-| Manufactured by |
-| Apotex Research Pvt. Ltd. |
-| Bangalore - 560 099 |
 | Manufactured for |
 | Apotex Corp. |
 | Weston, Florida |
 | USA 33326 |
 
-Revised: November 2016
+Revised: July 2018
+
+Revision: 8

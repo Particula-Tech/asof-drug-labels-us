@@ -22,6 +22,8 @@ Doses of 400 mg twice daily provided no additional benefit above that seen with 
 
 ## 14.3 Juvenile Rheumatoid Arthritis
 
+(NCT00652925)
+
 In a 12-week, randomized, double-blind active-controlled, parallel-group, multicenter, non-inferiority study, patients from 2 years to 17 years of age with pauciarticular, polyarticular course JRA or systemic onset JRA (with currently inactive systemic features), received one of the following treatments: celecoxib 3 mg/kg (to a maximum of 150 mg) twice daily; celecoxib 6 mg/kg (to a maximum of 300 mg) twice daily; or naproxen 7.5 mg/kg (to a maximum of 500 mg) twice daily.
 The response rates were based upon the JRA Definition of Improvement greater than or equal to 30% (JRA DOI 30) criterion, which is a composite of clinical, laboratory, and functional measures of JRA.
 The JRA DOI 30 response rates at week 12 were 69%, 80% and 67% in the celecoxib 3 mg/kg twice daily, celecoxib 6 mg/kg twice daily, and naproxen 7.5 mg/kg twice daily treatment groups, respectively.
@@ -42,9 +44,86 @@ The responder analysis also demonstrated no change in the responder rates beyond
 In acute analgesic models of post-oral surgery pain, post-orthopedic surgical pain, and primary dysmenorrhea, celecoxib relieved pain that was rated by patients as moderate to severe.
 Single doses [see Dosage and Administration (2.6)] of celecoxib provided pain relief within 60 minutes.
 
-## 14.6 Special Studies
+## 14.6 Cardiovascular Outcomes Trial
 
-Adenomatous Polyp Prevention Studies
+: Prospective Randomized Evaluation of Celecoxib Integrated Safety vs. Ibuprofen Or Naproxen (PRECISION; NCT00346216)
+
+Design
+
+The PRECISION trial was a double-blind randomized controlled trial of cardiovascular safety in OA and RA patients with or at high risk for cardiovascular disease comparing celecoxib with naproxen and ibuprofen.
+Patients were randomized to a starting dose of 100 mg twice daily of celecoxib, 600 mg three times daily of ibuprofen, or 375 mg twice daily of naproxen, with the option of escalating the dose as needed for pain management.
+Based on labeled doses, OA patients randomized to celecoxib could not dose escalate.
+
+The primary endpoint, the Antiplatelet Trialists’ Collaboration (APTC) composite, was an independently adjudicated composite of cardiovascular death (including hemorrhagic death), non-fatal myocardial infarction, and non-fatal stroke with 80% power to evaluate non-inferiority.
+All patients were prescribed open-label esomeprazole (20 to 40 mg) for gastroprotection.
+Treatment randomization was stratified by baseline low-dose aspirin use.
+
+Additionally, there was a 4-month substudy assessing the effects of the three drugs on blood pressure as measured by ambulatory monitoring.
+
+Results
+
+Among subjects with OA, only 0.2% (17/7259) escalated celecoxib to the 200 mg twice daily dose, whereas 54.7% (3946/7208) escalated ibuprofen to 800 mg three times daily, and 54.8% (3937/7178) escalated naproxen to the 500 mg twice daily dose.
+Among subjects with RA, 55.7% (453/813) escalated celecoxib to the 200 mg twice daily dose, 56.5% (470/832) escalated ibuprofen to 800 mg three times daily, and 54.6% (432/791) escalated naproxen to the 500 mg twice daily dose; however, the RA population accounted for only 10% of the trial population.
+
+Because relatively few celecoxib patients overall (5.8% [470/8072]) dose-escalated to 200 mg twice daily, the results of the PRECISION trial are not suitable for determining the relative CV safety of celecoxib at 200 mg twice daily compared to ibuprofen and naproxen at the doses taken.
+
+Primary Endpoint
+
+The trial had two prespecified analysis populations:
+
+- Intent-to-treat population (ITT): Comprised of all randomized subjects followed for a maximum of 30 months
+- Modified Intent-to-treat population (mITT): Comprised of all randomized subjects who received at least one dose of study medication and had at least one post-baseline visit followed until the earlier of treatment discontinuation plus 30 days, or 43 months
+
+Celecoxib, at the 100 mg twice daily dose, as compared with either naproxen or ibuprofen at the doses taken, met all four prespecified non-inferiority criteria (p<0.001 for non-inferiority in both comparisons) for the APTC endpoint, a composite of cardiovascular death (including hemorrhagic death), non-fatal myocardial infarction, and non-fatal stroke (See Table 5).
+Non-inferiority was prespecified as a hazard ratio (HR) of ≤1.12 in both ITT and mITT analyses, and upper 95% CI of ≤1.33 for ITT analysis and ≤1.40 for mITT analysis.
+
+The primary analysis results for ITT and mITT are described in Table 5.
+
+Table 5.
+Primary Analysis of the Adjudicated APTC Composite Endpoint
+
+| Intent-To-Treat Analysis (ITT, through month 30) |  |  |  |
+| --- | --- | --- | --- |
+|  | Celecoxib | Ibuprofen | Naproxen |
+| N | 8,072 | 8,040 | 7,969 |
+| Subjects with Events | 188 (2.3%) | 218 (2.7%) | 201 (2.5%) |
+| Pairwise Comparison | Celecoxib vs. Naproxen | Celecoxib vs. Ibuprofen | Ibuprofen vs. Naproxen |
+| HR (95% CI) | 0.93 (0.76, 1.13) | 0.86 (0.70, 1.04) | 1.08 (0.89, 1.31) |
+| Modified Intent-To-Treat Analysis (mITT, on treatment plus 30 days, through month 43) |  |  |  |
+|  | Celecoxib | Ibuprofen | Naproxen |
+| N | 8,030 | 7,990 | 7,933 |
+| Subjects with Events | 134 (1.7%) | 155 (1.9%) | 144 (1.8%) |
+| Pairwise Comparison | Celecoxib vs. Naproxen | Celecoxib vs. Ibuprofen | Ibuprofen vs. Naproxen |
+| HR (95% CI) | 0.90 (0.72, 1.14) | 0.81 (0.64, 1.02) | 1.12 (0.89, 1.40) |
+
+Table 6.
+Summary of the Adjudicated APTC Components*
+
+| Intent-To-Treat Analysis (ITT, through month 30) |  |  |  |
+| --- | --- | --- | --- |
+|  | Celecoxib | Ibuprofen | Naproxen |
+| N | 8,072 | 8,040 | 7,969 |
+| CV Death | 68 (0.8%) | 80 (1.0%) | 86 (1.1%) |
+| Non-Fatal MI | 76 (0.9%) | 92 (1.1%) | 66 (0.8%) |
+| Non-Fatal Stroke | 51 (0.6%) | 53 (0.7%) | 57 (0.7%) |
+| Modified Intent-To-Treat Analysis (mITT, on treatment plus 30 days, through month 43) |  |  |  |
+| N | 8,030 | 7,990 | 7,933 |
+| CV Death | 35 (0.4%) | 51 (0.6%) | 49 (0.6%) |
+| Non-fatal MI | 58 (0.7%) | 76 (1.0%) | 53 (0.7%) |
+| Non-fatal Stroke | 43 (0.5%) | 32 (0.4%) | 45 (0.6%) |
+
+*A patient may have experienced more than one component; therefore, the sum of the components is larger than the number of patients who experienced the composite outcome
+
+In the ITT analysis population through 30 months, all-cause mortality was 1.6% in the celecoxib group, 1.8% in the ibuprofen group, and 2.0% in the naproxen group.
+
+Ambulatory Blood Pressure Monitoring (ABPM) Substudy
+
+In the PRECISION-ABPM substudy, among the total of 444 analyzable patients at Month 4, celecoxib dosed at 100 mg twice daily decreased mean 24-hour systolic blood pressure (SBP) by 0.3 mmHg, whereas ibuprofen and naproxen at the doses taken increased mean 24-hour SBP by 3.7 and 1.6 mmHg, respectively.
+These changes resulted in a statistically significant and clinically meaningful difference of 3.9 mmHg (p=0.0009) between celecoxib and ibuprofen and a non-statistically significant difference of 1.8 (p=0.119) mmHg between celecoxib and naproxen.
+
+## 14.7 Special Studies
+
+Adenomatous Polyp Prevention Studies (NCT00005094 and NCT00141193)
 
 Cardiovascular safety was evaluated in two randomized, double-blind, placebo-controlled, three year studies involving patients with Sporadic Adenomatous Polyps treated with celecoxib: the APC trial (Adenoma Prevention with Celecoxib) and the PreSAP trial (Prevention of Spontaneous Adenomatous Polyps).
 In the APC trial, there was a dose-related increase in the composite endpoint (adjudicated) of cardiovascular death, myocardial infarction, or stroke with celecoxib compared to placebo over 3 years of treatment.
@@ -71,11 +150,11 @@ Differences in the incidence of complicated ulcers between celecoxib and the com
 Patients on celecoxib and concomitant low-dose ASA (N=882) experienced 4-fold higher rates of complicated ulcers compared to those not on ASA (N=3105).
 The Kaplan-Meier rate for complicated ulcers at 9 months was 1.12% versus 0.32% for those on low-dose ASA and those not on ASA, respectively [see Warnings and Precautions (5.4)].
 
-The estimated cumulative rates at 9 months of complicated and symptomatic ulcers for patients treated with celecoxib 400 mg twice daily are described in Table 4.
-Table 4 also displays results for patients less than or greater than 65 years of age.
+The estimated cumulative rates at 9 months of complicated and symptomatic ulcers for patients treated with celecoxib 400 mg twice daily are described in Table 7.
+Table 7 also displays results for patients less than or greater than 65 years of age.
 The difference in rates between celecoxib alone and celecoxib with ASA groups may be due to the higher risk for GI events in ASA users.
 
-Table 5: Complicated and Symptomatic Ulcer Rates in Patients Taking Celecoxib 400 mg Twice Daily (Kaplan-Meier Rates at 9 months [%]) Based on Risk Factors
+Table 7: Complicated and Symptomatic Ulcer Rates in Patients Taking Celecoxib 400 mg Twice Daily (Kaplan-Meier Rates at 9 months [%]) Based on Risk Factors
 
 | All Patients |  |
 | --- | --- |
@@ -97,13 +176,15 @@ The cumulative rates in all patients at nine months for celecoxib, diclofenac, a
 The cumulative rates in non-ASA users at nine months in each of the three treatment groups were less than 1%.
 The cumulative rates for myocardial infarction in non-ASA users at nine months in each of the three treatment groups were less than 0.2%.
 There was no placebo group in the CLASS trial, which limits the ability to determine whether the three drugs tested had no increased risk of CV events or if they all increased the risk to a similar degree.
+In the CLASS study, the Kaplan-Meier cumulative rates at 9 months of peripheral edema in patients on celecoxib 400 mg twice daily (4-fold and 2-fold the recommended OA and RA doses, respectively), ibuprofen 800 mg three times daily and diclofenac 75 mg twice daily were 4.5%, 6.9% and 4.7%, respectively.
+The rates of hypertension from the CLASS trial in the celecoxib, ibuprofen and diclofenac-treated patients were 2.4%, 4.2% and 2.5%, respectively.
 
 Endoscopic Studies The correlation between findings of short-term endoscopic studies with celecoxib and the relative incidence of clinically significant serious upper GI events with long-term use has not been established.
-Serious clinically significant upper GI bleeding has been observed in patients receiving celecoxib in controlled and open-labeled trials [see Warnings and Precautions (5.4) and Clinical Studies (14.6)]
+Serious clinically significant upper GI bleeding has been observed in patients receiving celecoxib in controlled and open-labeled trials [see Warnings and Precautions (5.4) and Clinical Studies (14.7)]
 
 A randomized, double-blind study in 430 RA patients was conducted in which an endoscopic examination was performed at 6 months.
 The incidence of endoscopic ulcers in patients taking celecoxib 200 mg twice daily was 4% vs. 15% for patients taking diclofenac SR 75 mg twice daily.
-However, celecoxib was not statistically different than diclofenac for clinically relevant GI outcomes in the CLASS trial [see Clinical Studies (14.6)].
+However, celecoxib was not statistically different than diclofenac for clinically relevant GI outcomes in the CLASS trial [see Clinical Studies (14.7)].
 
 The incidence of endoscopic ulcers was studied in two 12-week, placebo-controlled studies in 2157 OA and RA patients in whom baseline endoscopies revealed no ulcers.
 There was no dose relationship for the incidence of gastroduodenal ulcers and the dose of celecoxib (50 mg to 400 mg twice daily).
