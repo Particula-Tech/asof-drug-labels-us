@@ -25,7 +25,7 @@ Propranolol is metabolized through three primary routes: aromatic hydroxylation 
 It has been estimated that the percentage contributions of these routes to total metabolism are 42%, 41% and 17%, respectively, but with considerable variability between individuals.
 The four major metabolites are propranolol glucuronide, naphthyloxylactic acid and glucuronic acid, and sulfate conjugates of 4-hydroxy propranolol.
 
-In-vitro studies have indicated that the aromatic hydroxylation of propranolol is catalyzed mainly by polymorphic CYP2D6.
+In vitro studies have indicated that the aromatic hydroxylation of propranolol is catalyzed mainly by polymorphic CYP2D6.
 Side-chain oxidation is mediated mainly by CYP1A2 and to some extent by CYP2D6.
 4-hydroxy propranolol is a weak inhibitor of CYP2D6.
 
