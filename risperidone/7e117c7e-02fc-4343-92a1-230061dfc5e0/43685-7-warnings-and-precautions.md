@@ -43,7 +43,7 @@ A syndrome of potentially irreversible, involuntary, dyskinetic movements may de
 The risk of developing tardive dyskinesia and the likelihood that it will become irreversible are believed to increase as the duration of treatment and the total cumulative dose of antipsychotic drugs administered to the patient increase.
 However, the syndrome can develop, although much less commonly, after relatively brief treatment periods at low doses.
 
-There is no known treatment for established cases of tardive dyskinesia, although the syndrome may remit, partially or completely, if antipsychotic treatment is withdrawn.
+The syndrome may remit, partially or completely, if antipsychotic treatment is withdrawn.
 Antipsychotic treatment, itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome and thereby may possibly mask the underlying process.
 The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown.
 

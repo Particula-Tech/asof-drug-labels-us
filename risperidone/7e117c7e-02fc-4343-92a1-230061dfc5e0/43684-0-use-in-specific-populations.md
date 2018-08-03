@@ -2,57 +2,85 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
+Pregnancy Exposure Registry
+
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to atypical antipsychotics, including RISPERDAL®, during pregnancy.
+Healthcare providers are encouraged to register patients by contacting the National Pregnancy Registry for Atypical Antipsychotics at 1-866-961-2388 or online at http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/.
 
 Risk Summary
 
-Adequate and well controlled studies with RISPERDAL have not been conducted in pregnant women.
-Neonates exposed to antipsychotic drugs (including RISPERDAL®) during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
-There was no increase in the incidence of malformations in embryo-fetal studies in rats and rabbits at 0.4–6 times MHRD.
-Increased pup mortality was noted at all doses in peri-postnatal studies in rats.
-RISPERDAL® should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Neonates exposed to antipsychotic drugs during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery (see Clinical Considerations).
+Overall, available data from published epidemiologic studies of pregnant women exposed to risperidone have not established a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data).
+There are risks to the mother associated with untreated schizophrenia or bipolar I disorder and with exposure to antipsychotics, including RISPERDAL®, during pregnancy (see Clinical Considerations).
+
+Oral administration of risperidone to pregnant mice caused cleft palate at doses 3 to 4 times the maximum recommended human dose (MRHD) with maternal toxicity observed at 4-times MRHD based on mg/m2 body surface area.
+Risperidone was not teratogenic in rats or rabbits at doses up to 6- times the MRHD based on mg/m2 body surface area.
+Increased stillbirths and decreased birth weight occurred after oral risperidone administration to pregnant rats at 1.5-times the MRHD based on mg/m2 body surface area.
+Learning was impaired in offspring of rats when the dams were dosed at 0.6-times the MRHD and offspring mortality increased at doses 0.1 to 3 times the MRHD based on mg/m2 body surface area.
+
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
 
 Clinical Considerations
 
+Disease-associated maternal and/or embryo/fetal risk
+
+There is a risk to the mother from untreated schizophrenia or bipolar I disorder, including increased risk of relapse, hospitalization, and suicide.
+Schizophrenia and bipolar I disorder are associated with increased adverse perinatal outcomes, including preterm birth.
+It is not known if this is a direct result of the illness or other comorbid factors.
+
 Fetal/Neonatal Adverse Reactions
 
-Monitor neonates exhibiting extrapyramidal or withdrawal symptoms.
-Some neonates recover within hours or days without specific treatment; others may require prolonged hospitalization.
+Extrapyramidal and/or withdrawal symptoms, including agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder have been reported in neonates who were exposed to antipsychotic drugs, including RISPERDAL®, during the third trimester of pregnancy.
+These symptoms have varied in severity.
+Monitor neonates for extrapyramidal and/or withdrawal symptoms and manage symptoms appropriately.
+Some neonates recovered within hours or days without specific treatment; others required prolonged hospitalization.
 
 Data
 
 Human Data
 
-There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder in neonates following in utero exposure to antipsychotics in the third trimester.
-These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases neonates have required intensive care unit support and prolonged hospitalization.
-
-There was one report of a case of agenesis of the corpus callosum in an infant exposed to risperidone in utero.
-The causal relationship to RISPERDAL® therapy is unknown.
+Published data from observational studies, birth registries, and case reports on the use of atypical antipsychotics during pregnancy do not report a clear association with antipsychotics and major birth defects.
+A prospective observational study including 6 women treated with risperidone demonstrated placental passage of risperidone.
+A retrospective cohort study from a Medicaid database of 9258 women exposed to antipsychotics during pregnancy did not indicate an overall increased risk for major birth defects.
+There was a small increase in the risk of major birth defects (RR=1.26, 95% CI 1.02–1.56) and of cardiac malformations (RR=1.26, 95% CI 0.88–1.81) in a subgroup of 1566 women exposed to risperidone during the first trimester of pregnancy; however, there is no mechanism of action to explain the difference in malformation rates.
 
 Animal Data
 
-The teratogenic potential of risperidone was studied in three Segment II studies in Sprague-Dawley and Wistar rats (0.63–10 mg/kg or 0.4 to 6 times the maximum recommended human dose [MRHD] on a mg/m2 body surface area basis) and in one Segment II study in New Zealand rabbits (0.31–5 mg/kg or 0.4 to 6 times the MRHD on a mg/m2 body surface area basis).
-There were no teratogenic effects in offspring of rats or rabbits given 0.4 to 6 times the MRHD on a mg/m2 body surface area basis.
-In three reproductive studies in rats (two Segment III and a multigenerational study), there was an increase in pup deaths during the first 4 days of lactation at doses of 0.16–5 mg/kg or 0.1 to 3 times the MRHD on a mg/m2 body surface area basis.
-It is not known whether these deaths were due to a direct effect on the fetuses or pups or to effects on the dams.
+Oral administration of risperidone to pregnant mice during organogenesis caused cleft palate at 10 mg/kg/day which is 3 times the MRHD of 16 mg/day based on mg/m2 body surface area: maternal toxicity occurred at 4 times the MRHD.
+Risperidone was not teratogenic when administered orally to rats at 0.6 to 10 mg/kg/day and rabbits at 0.3 to 5 mg/kg/day, which are up to 6 times the MRHD of 16 mg/day risperidone based on mg/m2 body surface area.
+Learning was impaired in offspring of rats dosed orally throughout pregnancy at 1 mg/kg/day which is 0.6 times the MRHD and neuronal cell death increased in fetal brains of offspring of rats dosed during pregnancy at 1 and 2 mg/kg/day which are 0.6 and 1.2 times the MRHD based on mg/m2 body surface area; postnatal development and growth of the offspring were also delayed.
 
-There was no no-effect dose for increased rat pup mortality.
-In one Segment III study, there was an increase in stillborn rat pups at a dose of 2.5 mg/kg or 1.5 times the MRHD on a mg/m2 body surface area basis.
-In a cross-fostering study in Wistar rats, toxic effects on the fetus or pups were observed, as evidenced by a decrease in the number of live pups and an increase in the number of dead pups at birth (Day 0), and a decrease in birth weight in pups of drug-treated dams.
-In addition, there was an increase in deaths by Day 1 among pups of drug-treated dams, regardless of whether or not the pups were cross-fostered.
-Risperidone also appeared to impair maternal behavior in that pup body weight gain and survival (from Day 1 to 4 of lactation) were reduced in pups born to control but reared by drug-treated dams.
-These effects were all noted at the one dose of risperidone tested, i.e., 5 mg/kg or 3 times the MRHD on a mg/m2 body surface area basis.
+Rat offspring mortality increased during the first 4 days of lactation when pregnant rats were dosed throughout gestation at 0.16 to 5 mg/kg/day which are 0.1 to 3 times the MRHD of 16 mg/day based on mg/m2 body surface area.
+It is not known whether these deaths were due to a direct effect on the fetuses or pups or to effects on the dams; a no-effect dose could not be determined.
+The rate of stillbirths was increased at 2.5 mg/kg or 1.5 times the MRHD based on mg/m2 body surface area.
 
-Placental transfer of risperidone occurs in rat pups.
+In a rat cross-fostering study the number of live offspring was decreased, the number of stillbirths increased, and the birth weight was decreased in offspring of drug-treated pregnant rats.
+In addition, the number of deaths increased by Day 1 among offspring of drug-treated pregnant rats, regardless of whether or not the offspring were cross-fostered.
+Risperidone also appeared to impair maternal behavior in that offspring body weight gain and survival (from Day 1 to 4 of lactation) were reduced in offspring born to control but reared by drug-treated dams.
+All of these effects occurred at 5 mg/kg which is 3 times the MRHD based on mg/m2 and the only dose tested in the study.
 
-## 8.2 Labor and Delivery
+## 8.2 Lactation
 
-The effect of RISPERDAL® on labor and delivery in humans is unknown.
+Risk Summary
 
-## 8.3 Nursing Mothers
+Limited data from published literature reports the presence of risperidone and its metabolite, 9-hydroxyrisperidone, in human breast milk at relative infant dose ranging between 2.3% and 4.7% of the maternal weight-adjusted dosage.
+There are reports of sedation, failure to thrive, jitteriness, and extrapyramidal symptoms (tremors and abnormal muscle movements) in breastfed infants exposed to risperidone (see Clinical Considerations).
+There is no information on the effects of risperidone on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for RISPERDAL® and any potential adverse effects on the breastfed child from RISPERDAL® or from the mother's underlying condition.
 
-Risperidone and 9-hydroxyrisperidone are present in human breast milk.
-Because of the potential for serious adverse reactions in nursing infants from risperidone, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Clinical Considerations
+
+Infants exposed to RISPERDAL® through breastmilk should be monitored for excess sedation, failure to thrive, jitteriness, and extrapyramidal symptoms (tremors and abnormal muscle movements).
+
+## 8.3 Females and Males of Reproductive Potential
+
+Infertility
+
+Females
+
+Based on the pharmacologic action of risperidone (D2 receptor antagonism), treatment with RISPERDAL® may result in an increase in serum prolactin levels, which may lead to a reversible reduction in fertility in females of reproductive potential [see Warnings and Precautions (5.6)].
 
 ## 8.4 Pediatric Use
 
@@ -105,7 +133,7 @@ Most cases were mild or moderate in severity.
 These events were most often of early onset with peak incidence occurring during the first two weeks of treatment, and transient with a median duration of 16 days.
 Somnolence was the most commonly observed adverse reaction in the clinical trial of bipolar disorder in children and adolescents, as well as in the schizophrenia trials in adolescents.
 As was seen in the autistic disorder trials, these adverse reactions were most often of early onset and transient in duration [see Adverse Reactions (6.1 and 6.2)].
-Patients experiencing persistent somnolence may benefit from a change in dosing regimen see Dosage and Administration (2.1, 2.2, and 2.3)].
+Patients experiencing persistent somnolence may benefit from a change in dosing regimen [see Dosage and Administration (2.1, 2.2, and 2.3)].
 
 Hyperprolactinemia
 
@@ -122,16 +150,14 @@ The long-term effects of RISPERDAL® on growth and sexual maturation have not be
 
 Juvenile Animal Studies
 
-Juvenile dogs were treated for 40 weeks with oral risperidone doses of 0.31, 1.25, or 5 mg/kg/day.
-Decreased bone length and density were seen, with a no-effect dose of 0.31 mg/kg/day.
-This dose produced plasma levels (AUC) of risperidone plus its active metabolite paliperidone (9-hydroxy-risperidone) which were similar to those in children and adolescents receiving the maximum recommended human dose (MRHD) of 6 mg/day.
-In addition, a delay in sexual maturation was seen at all doses in both males and females.
+Juvenile dogs were treated with oral risperidone from weeks 10 to 50 of age (equivalent to the period of childhood through adolescence in humans), at doses of 0.31, 1.25, or 5 mg/kg/day, which are 1.2, 3.4, and 13.5 times the MRHD of 6 mg/day for children, based on mg/m2 body surface area.
+Bone length and density were decreased with a no-effect dose of 0.31 mg/kg/day; this dose produced plasma AUC of risperidone plus its active metabolite paliperidone (9-hydroxy-risperidone) that were similar to those in children and adolescents receiving the MRHD of 6 mg/day.
+In addition, sexual maturation was delayed at all doses in both males and females.
 The above effects showed little or no reversibility in females after a 12 week drug-free recovery period.
 
-In a study in which juvenile rats were treated with oral risperidone from days 12 to 50 of age, a reversible impairment of performance in a test of learning and memory was seen, in females only, with a no-effect dose of 0.63 mg/kg/day.
-This dose produced plasma levels (AUC) of risperidone plus paliperidone about half those observed in humans at the MRHD.
-No other consistent effects on neurobehavioral or reproductive development were seen up to the highest testable dose (1.25 mg/kg/day).
-This dose produced plasma levels (AUC) of risperidone plus paliperidone which were about two thirds of those observed in humans at the MRHD.
+Juvenile rats, treated with oral risperidone from days 12 to 50 of age (equivalent to the period of infancy through adolescence in humans) showed impaired learning and memory performance (reversible only in females), with a no-effect dose of 0.63 mg/kg/day which is 0.5 times the MRHD of 6 mg/day for children, based on mg/m2 body surface area.
+This dose produced plasma AUC of risperidone plus paliperidone about half the exposure observed in humans at the MRHD.
+No other consistent effects on neurobehavioral or reproductive development were seen up to the highest tested dose of 1.25 mg/kg/day which is 1 time the MRHD and produced plasma AUC of risperidone plus paliperidone that were about two thirds of those observed in humans at the MRHD of 6 mg/day for children.
 
 ## 8.5 Geriatric Use
 
