@@ -95,3 +95,13 @@ Store at 2° - 8°C (36° - 46°F).
 Avoid freezing.
 
 Protect from light.
+
+# PRINCIPAL DISPLAY PANEL – Insulin Diluting Medium for NovoLog®
+
+List: 200190 NDC 0169-2001-90
+
+Insulin Diluting Medium for NovoLog®
+
+10 mL
+
+Use only with NovoLog®
