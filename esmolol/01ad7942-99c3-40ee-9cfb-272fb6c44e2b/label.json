@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA206608"
+  ],
+  "inn": "esmolol",
+  "labeler": "Mylan Institutional LLC",
+  "package_ndcs": [
+    "67457-657-25",
+    "67457-658-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "esmolol hydrochloride in sodium chloride",
+      "name": "esmolol hydrochloride in sodium chloride"
+    }
+  ],
+  "setid": "01ad7942-99c3-40ee-9cfb-272fb6c44e2b",
+  "source": "dailymed"
+}
