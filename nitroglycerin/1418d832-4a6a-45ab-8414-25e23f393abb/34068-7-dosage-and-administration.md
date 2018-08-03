@@ -5,7 +5,7 @@
 Administer one or two packets (400 mcg of nitroglycerin per packet) at the onset of an attack under the tongue.
 One additional packet may be administered every five minutes as needed.
 No more than three packets are recommended within a 15-minute period.
-If the chest pain persists after a total of three packets, seek prompt medical attention.
+If the chest pain persists after a total of threepackets, seek prompt medical attention.
 GONITRO may be used prophylactically 5 to 10 minutes prior to engaging in activities that might precipitate an acute attack.
 
 ## 2.2 Administration
