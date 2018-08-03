@@ -40,7 +40,7 @@ Use the same dose in grams.
 Switching from Calcium Acetate.
 Table 3 gives recommended starting doses of sevelamer carbonate based on a patient's current calcium acetate dose.
 
-Table 3: Starting Dose for Dialysis Patients Switching from Calcium Acetate to Sevelamer carbonate
+Table 3: Starting Dose for Dialysis Patients Switching from Calcium Acetate to Sevelamer Carbonate
 
 | Calcium Acetate 667 mg (Tablets per meal) | Sevelamer Carbonate |
 | --- | --- |
