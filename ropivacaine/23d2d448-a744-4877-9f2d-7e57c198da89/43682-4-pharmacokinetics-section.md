@@ -9,17 +9,17 @@ The half-lives of the 2 phases, (mean ± SD) are 14 ± 7 minutes and 4.2 ± 0.9 
 The slow absorption is the rate limiting factor in the elimination of ropivacaine that explains why the terminal half-life is longer after epidural than after intravenous administration.
 Ropivacaine shows dose-proportionality up to the highest intravenous dose studied, 80 mg, corresponding to a mean ± SD peak plasma concentration of 1.9 ± 0.3 mcg/mL.
 
-Table 1 Pharmacokinetic (plasma concentration-time) data from clinical trials
+T able 1 Pharmacokinetic (plasma concentration-time) data from clinical trials
 
-| Route | Epidural Infusion* |  | Epidural Infusion* | Epidural Block† | Epidural Block† | Plexus Block‡ | IV Infusion§ |
+| Route | Epidural Infusion* |  | Epidural Infusion* | Epidural Block † | Epidural Block † | Plexus Block ‡ | IV Infusion § |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Dose (mg) | 1493 ± 10 | 2075 ± 206 | 1217 ± 277 | 150 | 187.5 | 300 | 40 |
 | N | 12 | 12 | 11 | 8 | 8 | 10 | 12 |
-| Cmax (mg/L) | 2.4 ± 1¶ | 2.8 ± 0.5¶ | 2.3 ± 1.1¶ | 1.1 ± 0.2 | 1.6 ± 0.6 | 2.3 ± 0.8 | 1.2 ± 0.2# |
-| Tmax (min) | n/a♠ | n/a | n/a | 43 ± 14 | 34 ± 9 | 54 ± 22 | n/a |
-| AUC0- (mg.h/L) | 135.5 ± 50 | 145 ± 34 | 161 ± 90 | 7.2 ± 2 | 11.3 ± 4 | 13 ± 3.3 | 1.8 ± 0.6 |
+| C max (mg/L) | 2.4 ± 1 ¶ | 2.8 ± 0.5 ¶ | 2.3 ± 1.1 ¶ | 1.1 ± 0.2 | 1.6 ± 0.6 | 2.3 ± 0.8 | 1.2 ± 0.2 # |
+| T max (min) | n/a ♠ | n/a | n/a | 43 ± 14 | 34 ± 9 | 54 ± 22 | n/a |
+| AUC 0- (mg.h/L) | 135.5 ± 50 | 145 ± 34 | 161 ± 90 | 7.2 ± 2 | 11.3 ± 4 | 13 ± 3.3 | 1.8 ± 0.6 |
 | CL (L/h) | 11.03 | 13.7 | n/a | 5.5 ± 2 | 5 ± 2.6 | n/a | 21.2 ± 7 |
-| t1/2 (hr) ♥ | 5 ± 2.5 | 5.7 ± 3 | 6 ± 3 | 5.7 ± 2 | 7.1 ± 3 | 6.8 ± 3.2 | 1.9 ± 0.5 |
+| t 1/2 (hr) ♥ | 5 ± 2.5 | 5.7 ± 3 | 6 ± 3 | 5.7 ± 2 | 7.1 ± 3 | 6.8 ± 3.2 | 1.9 ± 0.5 |
 
 * Continuous 72 hour epidural infusion after an epidural block with 5 or 10 mg/mL.
 
@@ -29,14 +29,14 @@ Table 1 Pharmacokinetic (plasma concentration-time) data from clinical trials
 
 § 20 minute IV infusion to volunteers (40 mg).
 
-¶ Cmax measured at the end of infusion (ie, at 72 hr).
+¶ C max measured at the end of infusion (ie, at 72 hr).
 
-# Cmax measured at the end of infusion (ie, at 20 minutes).
+# C max measured at the end of infusion (ie, at 20 minutes).
 
 ♠ n/a=not applicable
 
-♥ t½ is the true terminal elimination half-life.
-On the other hand, t½ follows absorption‑dependent elimination (flip-flop) after non-intravenous administration.
+♥ t ½ is the true terminal elimination half-life.
+On the other hand, t ½ follows absorption‑dependent elimination (flip-flop) after non-intravenous administration.
 
 In some patients after a 300 mg dose for brachial plexus block, free plasma concentrations of ropivacaine may approach the threshold for CNS toxicity (see PRECAUTIONS).
 At a dose of greater than 300 mg, for local infiltration, the terminal half-life may be longer (>30 hours).
@@ -44,8 +44,8 @@ At a dose of greater than 300 mg, for local infiltration, the terminal half-life
 ## Distribution
 
 After intravascular infusion, ropivacaine has a steady-state volume of distribution of 41 ± 7 liters.
-Ropivacaine is 94% protein bound, mainly to α1-acid glycoprotein.
-An increase in total plasma concentrations during continuous epidural infusion has been observed, related to a postoperative increase of α1-acid glycoprotein.
+Ropivacaine is 94% protein bound, mainly to α 1-acid glycoprotein.
+An increase in total plasma concentrations during continuous epidural infusion has been observed, related to a postoperative increase of α 1-acid glycoprotein.
 Variations in unbound, ie, pharmacologically active, concentrations have been less than in total plasma concentration.
 Ropivacaine readily crosses the placenta and equilibrium in regard to unbound concentration will be rapidly reached (see PRECAUTIONS, Labor and Delivery).
 

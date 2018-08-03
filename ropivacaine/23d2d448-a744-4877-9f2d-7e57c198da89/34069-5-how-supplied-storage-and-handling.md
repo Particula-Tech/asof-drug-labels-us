@@ -1,6 +1,6 @@
 # HOW SUPPLIED:
 
-Naropin® Syringes
+Naropin ® Syringes
 
 | Product No. | NDC No. | Strength | Size |
 | --- | --- | --- | --- |
@@ -9,9 +9,9 @@ Naropin® Syringes
 
 Do NOT place syringe on a sterile field.
 
-Naropin® is also available as follows:
+Naropin ® is also available as follows:
 
-Naropin® Plastic Ampule Sterile-Pak: Boxes of 5
+Naropin ® Plastic Ampule Sterile-Pak: Boxes of 5
 
 polypropylene ampules fitting both Luer-lock and Luer-slip (tapered syringes)
 
@@ -24,16 +24,16 @@ polypropylene ampules fitting both Luer-lock and Luer-slip (tapered syringes)
 | 278810 | 63323-288-10 | 100 mg/10 mL (10 mg/mL) | 10 mL |
 | 278820 | 63323-288-20 | 200 mg/20 mL (10 mg/mL) | 20 mL |
 
-Naropin® freeflex® Bags
+Naropin ® free flex® Bags
 
 | Product No. | NDC No. | Strength | Size |
 | --- | --- | --- | --- |
-| 278561 | 63323-285-61 | 200 mg/100 mL (2 mg/mL) | 100 mL freeflex® bag. |
-| 278563 | 63323-285-63 | 400 mg/200 mL (2 mg/mL) | 250 mL freeflex® bag. |
+| 278561 | 63323-285-61 | 200 mg/100 mL (2 mg/mL) | 100 mL freeflex®bag. |
+| 278563 | 63323-285-63 | 400 mg/200 mL (2 mg/mL) | 250 mL freeflex®bag. |
 
 This container is not made with natural rubber latex or polyvinyl chloride (PVC), Non-DEHP.
 
-Naropin® Single Dose Vials
+Naropin ® Single Dose Vials
 
 | Product No. | NDC No. | Strength | Size |
 | --- | --- | --- | --- |
@@ -47,7 +47,7 @@ Naropin® Single Dose Vials
 | 278811 | 63323-288-11 | 100 mg/10 mL (10 mg/mL) | 10 mL fill, in a 10 mL single dose vial, in packages of 25. |
 | 278821 | 63323-288-21 | 200 mg/20 mL (10 mg/mL) | 20 mL fill, in a 20 mL single dose vial, in packages of 25. |
 
-Naropin® Single Dose Infusion Bottles
+Naropin ® Single Dose Infusion Bottles
 
 | Product No. | NDC No. | Strength | Size |
 | --- | --- | --- | --- |
@@ -65,7 +65,7 @@ When chemical disinfection of the container surface is desired, either isopropyl
 It is recommended that chemical disinfection be accomplished by wiping the ampule or vial stopper thoroughly with cotton or gauze that has been moistened with the recommended alcohol just prior to use.
 When a container is required to have a sterile outside, a Sterile-Pak should be chosen.
 Glass containers may, as an alternative, be autoclaved once.
-Stability has been demonstrated using a targeted F0 of 7 minutes at 121°C.
+Stability has been demonstrated using a targeted F 0 of 7 minutes at 121°C.
 
 Solutions should be stored at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 

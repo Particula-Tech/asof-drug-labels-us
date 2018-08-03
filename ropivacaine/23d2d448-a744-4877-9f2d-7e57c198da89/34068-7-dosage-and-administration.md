@@ -32,20 +32,20 @@ Table 7 Dosage Recommendations
 | Thoracic Epidural | 5 | (0.5%) | 5 to 15 | 25 to 75 | 10 to 20 | n/a* |
 | Administration | 7.5 | (0.75%) | 5 to 15 | 38 to 113 | 10 to 20 | n/a* |
 | Surgery |  |  |  |  |  |  |
-| Major Nerve Block† | 5 | (0.5%) | 35 to 50 | 175 to 250 | 15 to 30 | 5 to 8 |
+| Major Nerve Block † | 5 | (0.5%) | 35 to 50 | 175 to 250 | 15 to 30 | 5 to 8 |
 | (eg, brachial plexus block) | 7.5 | (0.75%) | 10 to 40 | 75 to 300 | 10 to 25 | 6 to 10 |
 | Field Block | 5 | (0.5%) | 1 to 40 | 5 to 200 | 1 to 15 | 2 to 6 |
 | (eg, minor nerve blocks and infiltration) |  |  |  |  |  |  |
 | LABOR PAIN MANAGEMENT |  |  |  |  |  |  |
 | Lumbar Epidural Administration |  |  |  |  |  |  |
 | Initial Dose | 2 | (0.2%) | 10 to 20 | 20 to 40 | 10 to 15 | 0.5 to 1.5 |
-| Continuous infusion‡ | 2 | (0.2%) | 6 to 14 mL/h | 12 to 28 mg/h | n/a* | n/a* |
-| Incremental injections (top-up)‡ | 2 | (0.2%) | 10 to 15 mL/h | 20 to 30 mg/h | n/a* | n/a* |
+| Continuous infusion ‡ | 2 | (0.2%) | 6 to 14 mL/h | 12 to 28 mg/h | n/a* | n/a* |
+| Incremental injections (top-up) ‡ | 2 | (0.2%) | 10 to 15 mL/h | 20 to 30 mg/h | n/a* | n/a* |
 | POSTOPERATIVE PAIN MANAGEMENT |  |  |  |  |  |  |
 | Lumbar Epidural Administration |  |  |  |  |  |  |
-| Continuous infusion§ | 2 | (0.2%) | 6 to 14 mL/h | 12 to 28 mg/h | n/a* | n/a* |
+| Continuous infusion § | 2 | (0.2%) | 6 to 14 mL/h | 12 to 28 mg/h | n/a* | n/a* |
 | Thoracic Epidural Administration | 2 | (0.2%) | 6 to 14 mL/h | 12 to 28 mg/h | n/a* | n/a* |
-| Continuous infusion§ |  |  |  |  |  |  |
+| Continuous infusion § |  |  |  |  |  |  |
 | Infiltration | 2 | (0.2%) | 1 to 100 | 2 to 200 | 1 to 5 | 2 to 6 |
 | (eg, minor nerve block) | 5 | (0.5%) | 1 to 40 | 5 to 200 | 1 to 5 | 2 to 6 |
 
