@@ -1,6 +1,6 @@
-# 17. PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Medication Guide)
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Dosing Instructions
 
@@ -28,8 +28,10 @@ Neuromuscular Toxicity
 Advise patients that muscle pain or weakness, tingling or numbness in fingers or toes may occur with MITIGARE® alone or when it is used with certain other drugs.
 Patients developing any of these signs or symptoms must discontinue MITIGARE® and seek medical evaluation immediately.
 
-Manufactured for: Hikma Americas, Inc. Memphis, TN 38120
+Mfd. for: Hikma Americas Inc. Memphis, TN 38120
 
-Manufactured by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724
+Mfd. by: West-Ward Columbus Inc. Columbus, OH 43228
 
-Revised: November 2015 Rx Only
+C50000042/01
+
+Revised February 2018

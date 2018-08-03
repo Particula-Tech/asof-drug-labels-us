@@ -1,12 +1,14 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 ## 16.1 How Supplied
 
 MITIGARE® (colchicine) capsules, 0.6 mg are No. 4 Dark Blue/Light Blue Hard Gelatin Capsules printed “West-ward 118” in white ink.
 
-Bottles of 100 capsules
+NDC 59467-318-30: Bottle of 30 Capsules
 
-Bottles of 1000 capsules
+NDC 59467-318-01: Bottle of 100 Capsules
+
+NDC 59467-318-10: Bottle of 1000 Capsules
 
 ## 16.2 Storage
 

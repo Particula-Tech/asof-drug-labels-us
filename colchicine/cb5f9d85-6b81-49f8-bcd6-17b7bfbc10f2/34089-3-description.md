@@ -1,4 +1,4 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
 Colchicine is an alkaloid obtained from the plant colchicum autumnale.
 

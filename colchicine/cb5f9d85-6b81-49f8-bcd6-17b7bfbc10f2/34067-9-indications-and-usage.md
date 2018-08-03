@@ -1,4 +1,4 @@
-# 1. INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
 MITIGARE® (colchicine) capsules are indicated for prophylaxis of gout flares in adults.
 

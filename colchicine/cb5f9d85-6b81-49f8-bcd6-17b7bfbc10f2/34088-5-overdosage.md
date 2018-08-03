@@ -1,4 +1,4 @@
-# 10. OVERDOSAGE
+# 10 OVERDOSAGE
 
 The dose of colchicine that would induce significant toxicity for an individual is unknown.
 Fatalities have been reported in patients after ingesting a dose as low as 7 mg over a 4-day period, while other patients have reportedly survived after ingesting more than 60 mg.

@@ -2,6 +2,8 @@
 
 MITIGARE® (mīt-ah-gär-ay) Capsules
 
+Rx only
+
 What is the most important information I should know about MITIGARE®?
 
 MITIGARE® can cause serious side effects or death if levels of MITIGARE® are too high in your body.
@@ -39,7 +41,8 @@ Before you take MITIGARE®, tell your healthcare provider:
   It is not known if MITIGARE® can harm your unborn baby.
   Talk to your healthcare provider if you are pregnant or plan to become pregnant.
 - if you are breastfeeding or plan to breastfeed.
-  MITIGARE® can pass into your breast milk and may harm your baby.Talk to your healthcare provider about the best way to feed your baby if you take MITIGARE®.
+  MITIGARE® can pass into your breast milk and may harm your baby.
+  Talk to your healthcare provider about the best way to feed your baby if you take MITIGARE®.
 
 Tell your healthcare provider about all the medicines you take, including prescription, over-the-counter medicines, vitamins, or herbal supplements.
 
@@ -74,7 +77,8 @@ What should I avoid while taking MITIGARE®?
   It can increase your chances of getting serious side effects.
 
 What are the possible side effects of MITIGARE®?
-MITIGARE® can cause serious side effects or death.See “What is the most important information I should know about MITIGARE®?”
+MITIGARE® can cause serious side effects or death.
+See “What is the most important information I should know about MITIGARE®?”
 
 Get medical help right away, if you have:
 
@@ -114,7 +118,7 @@ It may harm them.
 This Medication Guide summarizes the most important information about MITIGARE®.
 If you would like more information, talk to your pharmacist or healthcare provider for information about MITIGARE® that is written for health professionals.
 
-For more information, go to www.hikma-americas.com or call 1-877-233-2001.
+For more information, go to www.hikma-americas.com or call 1-800-962-8364.
 
 What are the ingredients in MITIGARE® Capsules?
 
@@ -125,10 +129,10 @@ The capsule shell contains gelatin, purified water, titanium dioxide, erythrosin
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured for: Hikma Americas, Inc. Memphis, TN 38120
+Mfd. for: Hikma Americas Inc. Memphis, TN 38120
 
-Manufactured by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724
+Mfd. by: West-Ward Columbus Inc. Columbus, OH 43228
 
-July 2015
+C50000042/01
 
-Rx Only
+Revised February 2018

@@ -1,11 +1,10 @@
-# 6. ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 Gastrointestinal disorders are the most common adverse reactions with colchicine.
 They are often the first signs of toxicity and may indicate that the colchicine dose needs to be reduced or therapy stopped.
 These include diarrhea, nausea, vomiting, and abdominal pain.
 
-Colchicine has been reported to cause neuromuscular toxicity, which may present as muscle pain or weakness.
-[see Warnings and Precautions (5.4)]
+Colchicine has been reported to cause neuromuscular toxicity, which may present as muscle pain or weakness [see Warnings and Precautions (5.4)].
 
 Toxic manifestations associated with colchicine include myelosuppression, disseminated intravascular coagulation, and injury to cells in the renal, hepatic, circulatory, and central nervous system.
 These most often occur with excessive accumulation or overdosage [see Overdosage (10)].
@@ -27,4 +26,4 @@ Musculoskeletal: myopathy, elevated CPK, myotonia, muscle weakness, muscle pain,
 
 Reproductive: azoospermia, oligospermia
 
-To report SUSPECTED ADVERSE REACTIONS, contact Hikma Americas, Inc. at 1-877-233-2001 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Hikma Americas, Inc. at 1-800-962-8364 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
