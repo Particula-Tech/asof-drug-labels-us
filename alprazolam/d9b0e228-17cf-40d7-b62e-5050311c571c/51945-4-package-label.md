@@ -12,6 +12,8 @@ Tablets, USP
 
 Rx only
 
+PHARMACIST: Dispense the Medication Guide provided separately to each patient.
+
 100 Tablets
 
 SANDOZ
@@ -29,6 +31,8 @@ Tablets, USP
 0.5 mg
 
 Rx only
+
+PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 100 Tablets
 
@@ -48,6 +52,8 @@ Tablets, USP
 
 Rx only
 
+PHARMACIST: Dispense the Medication Guide provided separately to each patient.
+
 100 Tablets
 
 SANDOZ
@@ -65,6 +71,8 @@ Tablets, USP
 2 mg
 
 Rx only
+
+PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 100 Tablets
 
