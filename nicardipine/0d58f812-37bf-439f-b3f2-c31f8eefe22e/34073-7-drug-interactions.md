@@ -5,7 +5,7 @@
 In most patients, Cardene I.V.
 Premixed Injection can safely be used concomitantly with beta blockers.
 However, titrate slowly when using Cardene I.V.
-Premixed Injection in combination with a beta-blocker in heart failure patients [see Warnings and Precautions (5.3)].
+Premixed Injection in combination with a beta-blocker in heart failure patients [see Warnings and Precautions (5.2)].
 
 ## 7.2 Cimetidine
 
@@ -22,7 +22,7 @@ Premixed Injection administration, and reduce the dose of cyclosporine according
 ## 7.4 Tacrolimus
 
 Concomitant administration of intravenous nicardipine and tacrolimus may result in elevated plasma tacrolimus levels through nicardipine inhibition of hepatic microsomal enzymes, including CYP3A4.
-Closely monitor plasma concentrations of tacrolimus during Cardene l.V.
+Closely monitor plasma concentrations of tacrolimus during Cardene I.V.
 Premixed Injection administration, and adjust the dose of tacrolimus accordingly.
 
 ## 7.5 In Vitro Interaction

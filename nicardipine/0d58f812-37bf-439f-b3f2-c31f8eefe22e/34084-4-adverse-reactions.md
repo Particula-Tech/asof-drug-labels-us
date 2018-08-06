@@ -22,7 +22,9 @@ The table below shows percentage of patients with adverse events where the rate 
 | Digestive |  |  |
 | Nausea/vomiting, n (%) | 7 (5) | 1 (1) |
 
-Other adverse events have been reported in clinical trials or in the literature in association with the use of intravenously administered nicardipine: Body as a Whole: fever, neck pain
+Other adverse events have been reported in clinical trials or in the literature in association with the use of intravenously administered nicardipine:
+
+Body as a Whole: fever, neck pain
 
 Cardiovascular: angina pectoris, atrioventricular block, ST segment depression, inverted T wave, deep-vein thrombophlebitis
 
@@ -38,9 +40,11 @@ Respiratory: respiratory disorder
 
 Special Senses: conjunctivitis, ear disorder, tinnitus
 
-Urogenital: urinary frequency Sinus node dysfunction and myocardial infarction, which may be due to disease progression, have been seen in patients on chronic therapy with orally administered nicardipine.
+Urogenital: urinary frequency
 
-## 6.2 Post-Marketing and Other Clinical Experience
+Sinus node dysfunction and myocardial infarction, which may be due to disease progression, have been seen in patients on chronic therapy with orally administered nicardipine.
+
+## 6.2 Postmarketing Experience
 
 Because adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate reliably their frequency or to establish a causal relationship to drug exposure.
 The following adverse reaction has been identified during post-approval use of Cardene I.V.: decreased oxygen saturation (possible pulmonary shunting).

@@ -10,18 +10,25 @@ Dosage as a Substitute for Oral Nicardipine Therapy
 
 The intravenous infusion rate required to produce an average plasma concentration equivalent to a given oral dose at steady state is shown in the following table:
 
-| Oral Cardene Dose | Equivalent I.V. Infusion Rate |
-| --- | --- |
-| 20 mg q8h | 0.5 mg/hr = 5 mL/hr |
-| 30 mg q8h | 1.2 mg/hr = 12 mL/hr |
-| 40 mg q8h | 2.2 mg/hr = 22 mL/hr |
+| Oral Cardene Dose | Equivalent I.V. Infusion Rate 20 mg in 200 mL (0.1 mg/mL) | Equivalent I.V. Infusion Rate 40 mg in 200 mL (0.2 mg/mL) |
+| --- | --- | --- |
+| 20 mg q8h | 0.5 mg/hr = 5 mL/hr | 0.5 mg/hr = 2.5 mL/hr |
+| 30 mg q8h | 1.2 mg/hr = 12 mL/hr | 1.2 mg/hr = 6 mL/hr |
+| 40 mg q8h | 2.2 mg/hr = 22 mL/hr | 2.2 mg/hr = 11 mL/hr |
 
 Dosage for Initiation of Therapy in a Patient Not Receiving Oral Nicardipine
 
-Initiate therapy at 50 mL/hr (5 mg/hr).
+Cardene I.V.
+20 mg in 200 mL (0.1 mg/mL): Initiate therapy at 50 mL/hr (5 mg/hr).
 If desired blood pressure reduction is not achieved at this dose, the infusion rate may be increased by 25 mL/hr (2.5 mg/hr) every 5 minutes (for rapid titration) to 15 minutes (for gradual titration) up to a maximum of 150 mL/hr (15 mg/hr), until desired blood pressure reduction is achieved.
 
 Following achievement of the blood pressure goal utilizing rapid titration, decrease the infusion rate to 30 mL/hr (3 mg/hr).
+
+Cardene I.V.
+40 mg in 200 mL (0.2 mg/mL): Initiate therapy at 25 mL/hr (5 mg/hr).
+If desired blood pressure reduction is not achieved at this dose, the infusion rate may be increased by 12.5 mL/hr (2.5 mg/hr) every 5 minutes (for rapid titration) to 15 minutes (for gradual titration) up to a maximum of 75 mL/hr (15 mg/hr), until desired blood pressure reduction is achieved.
+
+Following achievement of the blood pressure goal utilizing rapid titration, decrease the infusion rate to 15 mL/hr (3 mg/hr).
 
 Drug Discontinuation and Transition to an Oral Antihypertensive Agent
 
@@ -35,7 +42,7 @@ If oral nicardipine is to be used, administer the first dose 1 hour prior to dis
 Special Populations
 
 Titrate Cardene I.V.
-Premixed Injection slowly in patients with heart failure or impaired hepatic or renal function [see Warnings and Precautions (5.3, 5.4 and 5.5.)]
+Premixed Injection slowly in patients with heart failure or impaired hepatic or renal function [see Warnings and Precautions (5.2, 5.3 and 5.4)]
 
 ## 2.2 Monitoring
 
@@ -46,12 +53,12 @@ It reaches about 50% of its ultimate decrease in about 45 minutes.
 Monitor blood pressure and heart rate continually during infusion and avoid too rapid or excessive blood pressure drop during treatment.
 If there is concern of impending hypotension or tachycardia, the infusion should be discontinued.
 Then, when blood pressure has stabilized, infusion of Cardene I.V.
-Premixed Injection may be restarted at low doses such as 30‑50 mL/hr (3 - 5 mg/hr) and adjusted to maintain desired blood pressure.
+Premixed Injection may be restarted at low doses such as 30‑50 mL/hr (3 - 5 mg/hr) for 20 mg in 200 mL or 15-25 mL/hr (3 - 5 mg/hr) for 40 mg in 200 mL and adjusted to maintain desired blood pressure.
 
 ## 2.3 Instructions for Administration
 
 Administer Cardene I.V. by a central line or through a large peripheral vein.
-Change the infusion site every 12 hours if administered via peripheral vein [see Intravenous Infusion Site (5.6)].
+Change the infusion site every 12 hours if administered via peripheral vein [see Warnings and Precautions (5.5)].
 
 Cardene I.V.
 Premixed Injection is available as a single-use, ready-to-use, iso-osmotic solution for intravenous administration.

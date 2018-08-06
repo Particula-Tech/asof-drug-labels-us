@@ -1,4 +1,5 @@
 # 3. DOSAGE FORMS AND STRENGTHS
 
-Cardene I.V.
-Premixed Injection is supplied as a single-use, ready-to-use, iso-osmotic solution for intravenous administration in a 200 mL GALAXY container with 20 mg (0.1 mg/mL) nicardipine hydrochloride in either dextrose or sodium chloride.
+Injection: 200 mL nicardipine (0.1 mg/mL) in either dextrose (4.8%) or sodium chloride (0.86%) as a clear, colorless solution, ready-to-use, iso-osmotic solution in a single use GALAXY container
+
+Injection: 200 mL nicardipine (0.2 mg/mL) in sodium chloride (0.83%) as a clear, colorless solution, ready-to-use, iso-osmotic solution in a single use GALAXY container
