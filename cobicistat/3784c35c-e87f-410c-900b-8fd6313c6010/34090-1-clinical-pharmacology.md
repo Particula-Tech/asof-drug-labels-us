@@ -10,9 +10,9 @@ Inhibition of CYP3A-mediated metabolism by cobicistat increases the systemic exp
 Effects on Pharmacokinetic Enhancement
 
 The effect of TYBOST on atazanavir pharmacokinetics was evaluated in the pharmacokinetic substudy (N=48) of Study 114 in which HIV-1 infected subjects received atazanavir 300 mg coadministered with TYBOST 150 mg or atazanavir 300 mg coadministered with ritonavir 100 mg, both in combination with TRUVADA.
-The steady-state pharmacokinetic parameters of atazanavir were comparable when coadministered with TYBOST versus ritonavir groups as shown in Table 7 [see Clinical Studies (14)].
+The steady-state pharmacokinetic parameters of atazanavir were comparable when coadministered with TYBOST versus ritonavir groups as shown in Table 6 [see Clinical Studies (14)].
 
-Table 7 Pharmacokinetic Parameters (Mean ± SD) of Atazanavir in HIV-1 Infected Treatment-Naïve Adults (Pharmacokinetic Substudy of Study 114)
+Table 6 Pharmacokinetic Parameters (Mean ± SD) of Atazanavir in HIV-1 Infected Treatment-Naïve Adults (Pharmacokinetic Substudy of Study 114)
 
 | Atazanavir Pharmacokinetic Parameters | N=22 | N=26 |
 | --- | --- | --- |
@@ -22,9 +22,9 @@ Table 7 Pharmacokinetic Parameters (Mean ± SD) of Atazanavir in HIV-1 Infected 
 | Ctau (mcg/mL) | 0.80 ± 0.72 | 0.85 ± 0.72 |
 
 The effect of TYBOST on darunavir was evaluated in a clinical study (Study 115) in 31 healthy subjects who received darunavir 800 mg in combination with TYBOST 150 mg or ritonavir 100 mg, all once daily, for 10 days.
-With the exception of Ctau, the steady-state pharmacokinetic parameters of darunavir were comparable when coadministered with TYBOST versus ritonavir as shown in Table 8, and these results were similar to those reported in previous clinical trials of darunavir 800 mg with ritonavir 100 mg once daily (refer to prescribing information for darunavir).
+With the exception of Ctau, the steady-state pharmacokinetic parameters of darunavir were comparable when coadministered with TYBOST versus ritonavir as shown in Table 7, and these results were similar to those reported in previous clinical trials of darunavir 800 mg with ritonavir 100 mg once daily (refer to prescribing information for darunavir).
 
-Table 8 Pharmacokinetic Parameters (Mean ± SD) of Darunavir in Healthy Adults (Study 115)
+Table 7 Pharmacokinetic Parameters (Mean ± SD) of Darunavir in Healthy Adults (Study 115)
 
 | Darunavir Pharmacokinetic Parameters | N=31 | N=31 |
 | --- | --- | --- |
@@ -36,11 +36,9 @@ Table 8 Pharmacokinetic Parameters (Mean ± SD) of Darunavir in Healthy Adults (
 
 Cardiac Electrophysiology
 
-The effect of a single dose of cobicistat 250 mg and 400 mg (approximately 1.7 and 2.7 times the recommended dose, respectively) on QTc interval was evaluated in a randomized, placebo- and active-controlled (moxifloxacin 400 mg), four-period crossover thorough QT study in 48 healthy subjects.
-In this study, no significant QTc prolongation effect of cobicistat was detected.
-The dose of 400 mg TYBOST is expected to cover a high exposure clinical scenario.
-Prolongation of the PR interval was noted in subjects receiving TYBOST in the same study.
-The maximum mean (95% upper confidence bound) difference in PR from placebo after baseline-correction was 9.5 (12.1) msec for 250 mg and 20.2 (22.8) msec for 400 mg of cobicistat.
+In a thorough QT/QTc study in 48 healthy subjects, a single dose of cobicistat 250 mg and 400 mg (1.67 and 2.67 times the dose in TYBOST) did not affect the QT/QTc interval.
+Prolongation of the PR interval was noted in subjects receiving cobicistat.
+The maximum mean (95% upper confidence bound) difference in PR from placebo after baseline-correction was 9.5 (12.1) msec for the 250 mg cobicistat dose and 20.2 (22.8) for the 400 mg cobicistat dose.
 
 Effects on Serum Creatinine
 
@@ -96,12 +94,12 @@ Drug interaction trials were conducted with TYBOST (as a single entity) and desi
 Drug interaction trials of TYBOST coadministered with atazanavir or darunavir included atorvastatin, drospirenone/ethinyl estradiol, and rosuvastatin.
 Drug interaction trials of TYBOST coadministered with elvitegravir included rosuvastatin and rifabutin.
 
-The effects of cobicistat on the exposure of coadministered drugs are shown in Table 9.
+The effects of cobicistat on the exposure of coadministered drugs are shown in Table 8.
 
 Note: The information listed below is not a comprehensive list of all the available drug interaction data for concomitant medications with cobicistat containing regimens.
 Please refer to the U.S. prescribing information for antiretroviral medications administered in combination with cobicistat for additional drug interaction information.
 
-Table 9 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drugs in the Presence of CobicistatAll interaction studies conducted in healthy subjects.
+Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drugs in the Presence of CobicistatAll interaction studies conducted in healthy subjects.
 
 | Cmax | AUC |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |

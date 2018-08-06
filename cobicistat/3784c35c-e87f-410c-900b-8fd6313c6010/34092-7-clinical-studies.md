@@ -14,10 +14,10 @@ The mean baseline plasma HIV-1 RNA was 4.8 log10 copies/mL (range 3.2–6.4).
 Forty percent of patients had baseline viral loads >100,000 copies/mL.
 The mean baseline CD4+ cell count was 352 cells/mm3 (range 1–1455) and 17% had CD4+ cell counts ≤200 cells/mm3.
 
-Virologic outcomes in Study 114 through Week 144 are presented in Table 10.
+Virologic outcomes in Study 114 through Week 144 are presented in Table 9.
 In Study 114, the mean increase from baseline in CD4+ cell count at Week 144 was 281 cells/mm3 in the TYBOST group and 297 cells/mm3 in the ritonavir group.
 
-Table 10 Virologic Outcome of Randomized Treatment of Study 114 in HIV-1 Infected Treatment Naïve Adults at Week 144Week 144 window was between Day 967 and 1050 (inclusive).
+Table 9 Virologic Outcome of Randomized Treatment of Study 114 in HIV-1 Infected Treatment Naïve Adults at Week 144Week 144 window was between Day 967 and 1050 (inclusive).
 
 |  | TYBOST + Atazanavir + TRUVADA (N=344) | Ritonavir + Atazanavir + TRUVADA (N=348) |
 | --- | --- | --- |

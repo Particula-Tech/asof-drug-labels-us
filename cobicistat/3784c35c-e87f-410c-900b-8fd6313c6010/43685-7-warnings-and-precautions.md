@@ -40,7 +40,7 @@ Decreased antiretroviral concentrations may lead to:
 
 - loss of therapeutic effect of TYBOST with atazanavir or darunavir and possible development of resistance.
 
-See Table 6 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Drug Interactions (7)].
+See Table 5 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Drug Interactions (7)].
 Consider the potential for drug interactions prior to and during TYBOST with atazanavir or darunavir therapy; review concomitant medications during TYBOST with atazanavir or darunavir therapy; and monitor for the adverse reactions associated with concomitant medications [see Contraindications (4) and Drug Interactions (7)].
 
 TYBOST or ritonavir when administered with either atazanavir or darunavir may result in different drug interactions when used with concomitant medications.

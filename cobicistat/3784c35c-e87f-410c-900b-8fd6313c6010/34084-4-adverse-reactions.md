@@ -15,9 +15,9 @@ The safety of TYBOST is based on Week 144 data from a Phase 3 trial, Study 114, 
 
 The most common adverse reactions (Grades 2–4) and reported in >5% of subjects in the TYBOST group were jaundice (6%) and rash (5%).
 The proportion of subjects who discontinued study treatment due to adverse events, regardless of severity, was 11% in both the TYBOST and ritonavir groups.
-Table 3 displays the frequency of adverse reactions (Grades 2–4) occurring in at least 2% of subjects in the TYBOST group in Study 114.
+Table 2 displays the frequency of adverse reactions (Grades 2–4) occurring in at least 2% of subjects in the TYBOST group in Study 114.
 
-Table 3 Selected Adverse ReactionsFrequencies of adverse reactions are based on Grades 2–4 adverse events attributed to study drugs.
+Table 2 Selected Adverse ReactionsFrequencies of adverse reactions are based on Grades 2–4 adverse events attributed to study drugs.
 (Grades 2–4) Reported in ≥2% of HIV-1 Infected Treatment-Naïve Adults in the TYBOST Coadministered with Atazanavir Group in Study 114 (Week 144 Analysis)
 
 |  | TYBOST Coadministered with Atazanavir + TRUVADA N=344 | Ritonavir Coadministered with Atazanavir + TRUVADA N=348 |
@@ -46,9 +46,9 @@ Renal and Urinary Disorders: nephropathy, Fanconi syndrome acquired, nephrolithi
 
 Refer to the prescribing information for atazanavir or darunavir for information regarding adverse reactions with these drugs.
 
-Laboratory Abnormalities: The frequency of laboratory abnormalities (Grades 3–4) occurring in at least 2% of subjects in the TYBOST group in Study 114 is presented in Table 4.
+Laboratory Abnormalities: The frequency of laboratory abnormalities (Grades 3–4) occurring in at least 2% of subjects in the TYBOST group in Study 114 is presented in Table 3.
 
-Table 4 Laboratory Abnormalities (Grades 3–4) in ≥2% of HIV-1 Infected Treatment-Naïve Adults in the TYBOST Coadministered with Atazanavir Group in Study 114 (Week 144 Analysis)
+Table 3 Laboratory Abnormalities (Grades 3–4) in ≥2% of HIV-1 Infected Treatment-Naïve Adults in the TYBOST Coadministered with Atazanavir Group in Study 114 (Week 144 Analysis)
 
 | Laboratory Parameter Abnormality | N=344 | N=348 |
 | --- | --- | --- |
@@ -68,11 +68,11 @@ Increase in Serum Creatinine: TYBOST causes increases in serum creatinine and de
 In Study 114, increases in serum creatinine and decreases in estimated creatinine clearance occurred early in treatment with TYBOST, after which they stabilized.
 The mean (± SD) change in estimated glomerular filtration rate (eGFR) by Cockcroft-Gault method after 144 weeks of treatment was –15.1 ± 16.5 mL/min in the TYBOST group and –8.0 ± 16.8 mL/min in the ritonavir group.
 
-Serum Lipids: Changes from baseline in total cholesterol, HDL-cholesterol, LDL-cholesterol, and triglycerides are presented in Table 5.
+Serum Lipids: Changes from baseline in total cholesterol, HDL-cholesterol, LDL-cholesterol, and triglycerides are presented in Table 4.
 In both groups, mean values for serum lipids remained within the study reference range for each laboratory test.
 The clinical significance of these changes is unknown.
 
-Table 5 Lipid Values, Mean Change from Baseline, Reported in HIV-1 Infected Treatment-Naïve Adults Receiving TYBOST Coadministered with Atazanavir + TRUVADA or Ritonavir Coadministered with Atazanavir + TRUVADA in Study 114 (Week 144 Analysis)
+Table 4 Lipid Values, Mean Change from Baseline, Reported in HIV-1 Infected Treatment-Naïve Adults Receiving TYBOST Coadministered with Atazanavir + TRUVADA or Ritonavir Coadministered with Atazanavir + TRUVADA in Study 114 (Week 144 Analysis)
 
 | mg/dL | Change from baselineThe change from baseline is the mean of within-patient changes from baseline for patients with both baseline and Week 144 values. Analysis excludes subjects receiving an HMG-CoA reductase inhibitor drug. | mg/dL | Change from baseline |  |
 | --- | --- | --- | --- | --- |
