@@ -48,23 +48,23 @@ In addition, the following adverse events (≥3% incidence) were reported in the
 | Rigors | 1.3% | 1.2% |
 | Anxiety | 1.3% | 1.2% |
 
-The following events were reported in Sjögren’s patients at incidences of <3% and ≥1%: constipation, tremor, abnormal vision, hypertonia, peripheral edema, chest pain, myalgia, fever, anorexia, eye pain, earache, dry mouth, vertigo, salivary gland pain, pruritus, influenza- like symptoms, eye infection, post-operative pain, vaginitis, skin disorder, depression, hiccup, hyporeflexia, infection, fungal infection, sialoadenitis, otitis media, erythematous rash, pneumonia, edema, salivary gland enlargement, allergy, gastroesophageal reflux, eye abnormality, migraine, tooth disorder, epistaxis, flatulence, toothache, ulcerative stomatitis, anemia, hypoesthesia, cystitis, leg cramps, abscess, eructation, moniliasis, palpitation, increased amylase, xerophthalmia, allergic reaction.
+The following events were reported in Sjögren’s patients at incidences of <3% and ≥1%: constipation, tremor, abnormal vision, hypertonia, peripheral edema, chest pain, myalgia, fever, anorexia, eye pain, earache, dry mouth, vertigo, salivary gland pain,pruritus, influenza- like symptoms, eye infection, post-operative pain, vaginitis, skin disorder, depression, hiccup, hyporeflexia, infection, fungal infection, sialoadenitis, otitis media, erythematous rash, pneumonia, edema, salivary gland enlargement, allergy, gastroesophageal reflux, eye abnormality, migraine, tooth disorder, epistaxis, flatulence, toothache, ulcerative stomatitis, anemia, hypoesthesia, cystitis, leg cramps, abscess, eructation, moniliasis, palpitation, increased amylase, xerophthalmia, allergic reaction.
 
 The following events were reported rarely in treated Sjögren’s patients (<1%): Causal relation is unknown:
 
 Body as a Whole Disorders: aggravated allergy, precordial chest pain, abnormal crying, hematoma, leg pain, edema, periorbital edema, activated pain trauma, pallor, changed sensation temperature, weight decrease, weight increase, choking, mouth edema, syncope, malaise, face edema, substernal chest pain.
 
-Cardiovascular Disorders: abnormal ECG, heart disorder, heart murmur, aggravated hyper- tension, hypotension, arrhythmia, extrasystoles, t wave inversion, tachycardia, supraventricular tachycardia, angina pectoris, myocardial infarction, pericarditis, pulmonary embolism, peripheral ischemia, superficial phlebitis, purpura, deep thrombophlebitis, vascular disorder, vasculitis, hypertension.
+Cardiovascular Disorders: abnormal ECG, heart disorder, heart murmur, aggravated hyper- tension, hypotension, arrhythmia,extrasystoles, t wave inversion, tachycardia, supraventricular tachycardia, angina pectoris, myocardial infarction, pericarditis, pulmonary embolism, peripheral ischemia, superficial phlebitis, purpura, deep thrombophlebitis, vascular disorder, vasculitis, hypertension.
 
 Digestive Disorders: appendicitis, increased appetite, ulcerative colitis, diverticulitis, duodenitis, dysphagia, enterocolitis, gastric ulcer, gastritis, gastroenteritis, gastrointestinal hemorrhage, gingivitis, glossitis, rectum hemorrhage, hemorrhoids, ileus, irritable bowel syndrome, melena, mucositis, esophageal stricture, esophagitis, oral hemorrhage, peptic ulcer, periodontal destruction, rectal disorder, stomatitis, tenesmus, tongue discoloration, tongue disorder, geographic tongue, tongue ulceration, dental caries.
 
 Endocrine Disorders: increased glucocorticoids, goiter, hypothyroidism.
 
-Hematologic Disorders: thrombocytopenic purpura, thrombocythemia, thrombocytopenia, hypochromic anemia, eosinophilia, granulocytopenia, leucopenia, leukocytosis, cervical lymphadenopathy, lymphadenopathy.
+Hematologic Disorders: thrombocytopenic purpura, thrombocythemia, thrombocytopenia, hypochromic anemia, eosinophilia,granulocytopenia, leucopenia, leukocytosis, cervical lymphadenopathy, lymphadenopathy.
 
 Liver and Biliary System Disorders: cholelithiasis, increased gamma-glutamyl transferase, increased hepatic enzymes, abnormal hepatic function, viral hepatitis, increased serum glutamate oxaloacetic transaminase (SGOT) (also called AST-aspartate aminotransferase), increased serum glutamate pyruvate transaminase (SGPT) (also called ALT-alanine amino- transferase).
 
-Metabolic and Nutritional Disorders: dehydration, diabetes mellitus, hypercalcemia, hypercholesterolemia, hyperglycemia, hyperlipemia, hypertriglyceridemia, hyperuricemia, hypoglycemia, hypokalemia, hyponatremia, thirst.
+Metabolic and Nutritional Disorders: dehydration, diabetes mellitus, hypercalcemia, hypercholesterolemia, hyperglycemia,hyperlipemia, hypertriglyceridemia, hyperuricemia, hypoglycemia, hypokalemia, hyponatremia, thirst.
 
 Musculoskeletal Disorders: arthritis, aggravated arthritis, arthropathy, femoral head avascular necrosis, bone disorder, bursitis, costochondritis, plantar fasciitis, muscle weakness, osteomyelitis, osteoporosis, synovitis, tendinitis, tenosynovitis.
 

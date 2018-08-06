@@ -11,8 +11,6 @@ Store at 25°C (77°F) excursions permitted to 15°-30°C (59°-86°F) [See USP 
 
 Rx only
 
-Manufactured for: Rising Pharmaceuticals, Inc Allendale, NJ 07401
+Manufactured by: Ingenus Pharmaceuticals NJ, LLC Fairfield, NJ 07004 Distributed by: Rising Pharmaceuticals, Inc Saddle Brook, NJ 07663
 
-Manufactured by: Ingenus Pharmaceuticals NJ, LLC Fairfield, NJ 07004
-
-Revised 01/16 5516
+Revised 06/18 5516
