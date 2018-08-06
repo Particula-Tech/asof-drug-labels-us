@@ -92,7 +92,7 @@ Decompensated Liver Disease
 
 Study AI463048 was a randomized, open-label study of entecavir 1 mg once daily versus adefovir dipivoxil 10 mg once daily given for up to 48 weeks in adult subjects with chronic HBV infection and evidence of hepatic decompensation, defined as a Child-Turcotte-Pugh (CTP) score of 7 or higher [see Clinical Studies (14.1)].
 Among the 102 subjects receiving entecavir, the most common treatment-emergent adverse events of any severity, regardless of causality, occurring through Week 48 were peripheral edema (16%), ascites (15%), pyrexia (14%), hepatic encephalopathy (10%), and upper respiratory infection (10%).
-Clinical adverse reactions not listed in Table 2 that were observed through Week 48 include blood bicarbonate decreased (2%) and renal failure (<1%).
+Clinical adverse reactions not listed in Table 3 that were observed through Week 48 include blood bicarbonate decreased (2%) and renal failure (<1%).
 
 Eighteen of 102 (18%) subjects treated with entecavir and 18/89 (20%) subjects treated with adefovir dipivoxil died during the first 48 weeks of therapy.
 The majority of deaths (11 in the entecavir group and 16 in the adefovir dipivoxil group) were due to liver-related causes such as hepatic failure, hepatic encephalopathy, hepatorenal syndrome, and upper gastrointestinal hemorrhage.

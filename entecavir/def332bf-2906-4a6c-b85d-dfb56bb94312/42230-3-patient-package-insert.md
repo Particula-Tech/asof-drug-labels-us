@@ -1,6 +1,6 @@
 # Patient Information
 
-Entecavir Tablets USP (en-Tek'a vir) Read this Patient Information before you start taking entecavir tablets and each time you get a refill.
+Entecavir Tablets USP (en tek' a vir) Read this Patient Information before you start taking entecavir tablets and each time you get a refill.
 There may be new information.
 This information does not take the place of talking with your healthcare provider about your medical condition or treatment.
 What is the most important information I should know about Entecavir Tablets?
@@ -138,4 +138,4 @@ What are the ingredients in Entecavir Tablets?
 Active ingredient: entecavir Inactive ingredients in entecavir tablets: crospovidone, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, and titanium dioxide.
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 11/2017
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 07/2018
