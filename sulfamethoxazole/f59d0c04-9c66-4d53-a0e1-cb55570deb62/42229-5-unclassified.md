@@ -4,4 +4,4 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 
 Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512
 
-Rev 02, October 2014
+Rev 03, April 2018
