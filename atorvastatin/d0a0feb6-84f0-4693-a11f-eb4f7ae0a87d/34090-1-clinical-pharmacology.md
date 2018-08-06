@@ -3,28 +3,7 @@
 ## 12.1 Mechanism of Action
 
 Atorvastatin is a selective, competitive inhibitor of HMG-CoA reductase, the rate-limiting enzyme that converts 3-hydroxy-3methylglutaryl-coenzyme A to mevalonate, a precursor of sterols, including cholesterol.
-Cholesterol and triglycerides circulate in the bloodstream as part of lipoprotein complexes.
-With ultracentrifugation, these complexes separate into HDL (high-density lipoprotein), IDL (intermediate-density lipoprotein), LDL (low-density lipoprotein), and VLDL (very-low-density lipoprotein) fractions.
-Triglycerides (TG) and cholesterol in the liver are incorporated into VLDL and released into the plasma for delivery to peripheral tissues.
-LDL is formed from VLDL and is catabolized primarily through the high-affinity LDL receptor.
-Clinical and pathologic studies show that elevated plasma levels of total cholesterol (total-C), LDL-cholesterol (LDL-C), and apolipoprotein B (apo B) promote human atherosclerosis and are risk factors for developing cardiovascular disease, while increased levels of HDL-C are associated with a decreased cardiovascular risk.
-
 In animal models, atorvastatin lowers plasma cholesterol and lipoprotein levels by inhibiting HMG-CoA reductase and cholesterol synthesis in the liver and by increasing the number of hepatic LDL receptors on the cell surface to enhance uptake and catabolism of LDL; atorvastatin also reduces LDL production and the number of LDL particles.
-Atorvastatin reduces LDL-C in some patients with homozygous familial hypercholesterolemia (FH), a population that rarely responds to other lipid-lowering medication(s).
-
-A variety of clinical studies have demonstrated that elevated levels of total-C, LDL-C, and apo B (a membrane complex for LDL-C) promote human atherosclerosis.
-Similarly, decreased levels of HDL-C (and its transport complex, apo A) are associated with the development of atherosclerosis.
-Epidemiologic investigations have established that cardiovascular morbidity and mortality vary directly with the level of total-C and LDL-C, and inversely with the level of HDL-C.
-
-Atorvastatin reduces total-C, LDL-C, and apo B in patients with homozygous and heterozygous FH, nonfamilial forms of hypercholesterolemia, and mixed dyslipidemia.
-Atorvastatin also reduces VLDL-C and TG and produces variable increases in HDL-C and apolipoprotein A-1.
-Atorvastatin reduces total-C, LDL-C, VLDL-C, apo B, TG, and non-HDL-C, and increases HDL-C in patients with isolated hypertriglyceridemia.
-Atorvastatin reduces intermediate density lipoprotein cholesterol (IDL-C) in patients with dysbetalipoproteinemia.
-
-Like LDL, cholesterol-enriched triglyceride-rich lipoproteins, including VLDL, intermediate density lipoprotein (IDL), and remnants, can also promote atherosclerosis.
-Elevated plasma triglycerides are frequently found in a triad with low HDL-C levels and small LDL particles, as well as in association with non-lipid metabolic risk factors for coronary heart disease.
-As such, total plasma TG has not consistently been shown to be an independent risk factor for CHD.
-Furthermore, the independent effect of raising HDL or lowering TG on the risk of coronary and cardiovascular morbidity and mortality has not been determined.
 
 ## 12.2 Pharmacodynamics
 
@@ -37,11 +16,11 @@ Individualization of drug dosage should be based on therapeutic response [see Do
 
 ### Absorption
 
-Atorvastatin calcium is rapidly absorbed after oral administration; maximum plasma concentrations occur within 1 to 2 hours.
-Extent of absorption increases in proportion to atorvastatin dose.
+Atorvastatin calcium tablets are rapidly absorbed after oral administration; maximum plasma concentrations occur within 1 to 2 hours.
+Extent of absorption increases in proportion to atorvastatin calcium tablets dose.
 The absolute bioavailability of atorvastatin (parent drug) is approximately 14% and the systemic availability of HMG-CoA reductase inhibitory activity is approximately 30%.
 The low systemic availability is attributed to presystemic clearance in gastrointestinal mucosa and/or hepatic first-pass metabolism.
-Although food decreases the rate and extent of drug absorption by approximately 25% and 9%, respectively, as assessed by Cmax and AUC, LDL-C reduction is similar whether atorvastatin is given with or without food.
+Although food decreases the rate and extent of drug absorption by approximately 25% and 9%, respectively, as assessed by Cmax and AUC, LDL-C reduction is similar whether atorvastatin calcium tablets are given with or without food.
 Plasma atorvastatin concentrations are lower (approximately 30% for Cmax and AUC) following evening drug administration compared with morning.
 However, LDL-C reduction is the same regardless of the time of day of drug administration [see Dosage and Administration (2)].
 
@@ -50,7 +29,7 @@ However, LDL-C reduction is the same regardless of the time of day of drug admin
 Mean volume of distribution of atorvastatin is approximately 381 liters.
 Atorvastatin is ≥ 98% bound to plasma proteins.
 A blood/plasma ratio of approximately 0.25 indicates poor drug penetration into red blood cells.
-Based on observations in rats, atorvastatin is likely to be secreted in human milk [see Contraindications, Nursing Mothers (4.4)and Use in Specific Populations, Nursing Mothers (8.3)].
+Based on observations in rats, atorvastatin is likely to be secreted in human milk [see Contraindications (4) and Use in Specific Populations (8.2)].
 
 ### Metabolism
 
@@ -71,19 +50,19 @@ Less than 2% of a dose of atorvastatin is recovered in urine following oral admi
 #### Geriatric
 
 Plasma concentrations of atorvastatin are higher (approximately 40% for Cmax and 30% for AUC) in healthy elderly subjects (age ≥ 65 years) than in young adults.
-Clinical data suggest a greater degree of LDL-lowering at any dose of drug in the elderly patient population compared to younger adults [see Use in Specific Populations, Geriatric Use (8.5)].
+Clinical data suggest a greater degree of LDL-lowering at any dose of drug in the elderly patient population compared to younger adults [see Use in Specific Populations (8.5)].
 
 #### Pediatric
 
-Pharmacokinetic data in the pediatric population are not available.
+Apparent oral clearance of atorvastatin in pediatric subjects appeared similar to that of adults when scaled allometrically by body weight as the body weight was the only significant covariate in atorvastatin population PK model with data including pediatric HeFH patients (ages 10 years to 17 years of age, n = 29) in an open-label, 8-week study.
 
 #### Gender
 
-Plasma concentrations of atorvastatin in women differ from those in men (approximately 20% higher for Cmax and 10% lower for AUC); however, there is no clinically significant difference in LDL-C reduction with atorvastatin between men and women.
+Plasma concentrations of atorvastatin in women differ from those in men (approximately 20% higher for Cmax and 10% lower for AUC); however, there is no clinically significant difference in LDL-C reduction with atorvastatin calcium tablets between men and women.
 
 #### Renal Impairment
 
-Renal disease has no influence on the plasma concentrations or LDL-C reduction of atorvastatin; thus, dose adjustment in patients with renal dysfunction is not necessary [see Dosage and Administration, Dosage in Patients with Renal Impairment (2.5), Warnings and Precautions, Skeletal Muscle (5.1)].
+Renal disease has no influence on the plasma concentrations or LDL-C reduction of atorvastatin; thus, dose adjustment in patients with renal dysfunction is not necessary [see Dosage and Administration (2.5) and Warnings and Precautions (5.1)].
 
 #### Hemodialysis
 
@@ -93,9 +72,9 @@ While studies have not been conducted in patients with end-stage renal disease, 
 
 In patients with chronic alcoholic liver disease, plasma concentrations of atorvastatin are markedly increased.
 Cmax and AUC are each 4-fold greater in patients with Childs-Pugh A disease.
-Cmax and AUC are approximately 16-fold and 11-fold increased, respectively, in patients with Childs-Pugh B disease [see Contraindications (4.1)].
+Cmax and AUC are approximately 16-fold and 11-fold increased, respectively, in patients with Childs-Pugh B disease [see Contraindications (4)].
 
-Table 3.
+Table 4.
 Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 
 | Co-administered Drug and Dosing Regimen | Atorvastatin |  |  |
@@ -111,12 +90,12 @@ Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 | Fosamprenavir 700 mg BID/ritonavir 100 mg BID, 14 days | 10 mg QD for 4 days | ↑ 2.53 fold | ↑ 2.84 fold |
 | Fosamprenavir 1400 mg BID, 14 days | 10 mg QD for 4 days | ↑ 2.3 fold | ↑ 4.04 fold |
 | Nelfinavir 1250 mg BID, 14 days | 10 mg QD for 28 days | ↑ 74% | ↑ 2.2 fold |
-| Grapefruit Juice, 240 mL QDGreater increases in AUC (up to 2.5-fold) and/or Cmax (up to 71%) have been reported with excessive grapefruit consumption (≥ 750 mL to 1.2 liters per day). | 40 mg SD | ↑ 37% | ↑ 16% |
+| Grapefruit Juice, 240 mL QDGreater increases in AUC (up to 2.5-fold) and/or Cmax (up to 71%) have been reported with excessive grapefruit consumption (≥ 750 mL-1.2 liters per day). | 40 mg SD | ↑ 37% | ↑ 16% |
 | Diltiazem 240 mg QD, 28 days | 40 mg SD | ↑ 51% | No change |
 | Erythromycin 500 mg QID, 7 days | 10 mg SD | ↑ 33% | ↑ 38% |
 | Amlodipine 10 mg, single dose | 80 mg SD | ↑ 15% | ↓ 12% |
 | Cimetidine 300 mg QID, 2 weeks | 10 mg QD for 2 weeks | ↓ Less than 1% | ↓ 11% |
-| Colestipol 10 mg BID, 28 weeks | 40 mg QD for 28 weeks | Not determined | ↓ 26%Single sample taken 8 to 16 h post-dose. |
+| Colestipol 10 mg BID, 28 weeks | 40 mg QD for 28 weeks | Not determined | ↓ 26%Single sample taken 8-16 h post dose. |
 | Maalox TC® 30 mL QD, 17 days | 10 mg QD for 15 days | ↓ 33% | ↓ 34% |
 | Efavirenz 600 mg QD, 14 days | 10 mg for 3 days | ↓ 41% | ↓ 1% |
 | Rifampin 600 mg QD, 7 days (co-administered)Due to the dual interaction mechanism of rifampin, simultaneous co-administration of atorvastatin with rifampin is recommended, as delayed administration of atorvastatin after administration of rifampin has been associated with a significant reduction in atorvastatin plasma concentrations. | 40 mg SD | ↑ 30% | ↑ 2.7 fold |
@@ -125,7 +104,7 @@ Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 | Fenofibrate 160 mg QD, 7 days | 40 mg SD | ↑ 3% | ↑ 2% |
 | Boceprevir 800 mg TID, 7 days | 40 mg SD | ↑ 2.30 fold | ↑ 2.66 fold |
 
-Table 4.
+Table 5.
 Effect of Atorvastatin on the Pharmacokinetics of Co-administered Drugs
 
 | Atorvastatin | Co-administered Drug and Dosing Regimen |  |  |

@@ -2,9 +2,7 @@ PRINCIPAL DISPLAY PANEL - 10 mg
 
 NDC 0378-3950-77
 
-Atorvastatin Calcium Tablets 10 mg*
-
-PHARMACIST: Dispense the accompanying Patient Information Leaflet to each patient.
+Atorvastatin Calcium Tablets, USP 10 mg*
 
 Rx only 90 Tablets
 
@@ -23,7 +21,7 @@ Made in India
 
 Mylan.com
 
-RMX3950MM1
+RM3950MM2
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -35,9 +33,7 @@ PRINCIPAL DISPLAY PANEL - 20 mg
 
 NDC 0378-3951-77
 
-Atorvastatin Calcium Tablets 20 mg*
-
-PHARMACIST: Dispense the accompanying Patient Information Leaflet to each patient.
+Atorvastatin Calcium Tablets, USP 20 mg*
 
 Rx only 90 Tablets
 
@@ -56,7 +52,7 @@ Made in India
 
 Mylan.com
 
-RMX3951MM2
+RM3951MM3
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -68,9 +64,7 @@ PRINCIPAL DISPLAY PANEL - 40 mg
 
 NDC 0378-3952-77
 
-Atorvastatin Calcium Tablets 40 mg*
-
-PHARMACIST: Dispense the accompanying Patient Information Leaflet to each patient.
+Atorvastatin Calcium Tablets, USP 40 mg*
 
 Rx only 90 Tablets
 
@@ -89,7 +83,7 @@ Made in India
 
 Mylan.com
 
-RMX3952MM1
+RM3952MM2
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -101,9 +95,7 @@ PRINCIPAL DISPLAY PANEL - 80 mg
 
 NDC 0378-3953-77
 
-Atorvastatin Calcium Tablets 80 mg*
-
-PHARMACIST: Dispense the accompanying Patient Information Leaflet to each patient.
+Atorvastatin Calcium Tablets, USP 80 mg*
 
 Rx only 90 Tablets
 
@@ -122,7 +114,7 @@ Made in India
 
 Mylan.com
 
-RMX3953MM1
+RM3953MM2
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 

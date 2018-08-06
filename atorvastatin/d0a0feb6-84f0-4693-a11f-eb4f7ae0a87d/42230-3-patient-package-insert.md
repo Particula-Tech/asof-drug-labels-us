@@ -1,19 +1,19 @@
-# PATIENT INFORMATION
+# Patient Information
 
-ATORVASTATIN CALCIUM TABLETS (a tor″ va stat′ in kal′ see um) 10 mg, 20 mg, 40 mg and 80 mg
+Atorvastatin Calcium Tablets, USP (a tor″ va stat′ in kal′ see um)
 
-Read the Patient Information that comes with atorvastatin before you start taking it and each time you get a refill.
+Read the Patient Information that comes with atorvastatin calcium tablets before you start taking them and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with your doctor about your condition or treatment.
 
 If you have any questions about atorvastatin calcium tablets, ask your doctor or pharmacist.
 
-What is atorvastatin?
+What are atorvastatin calcium tablets?
 
-Atorvastatin is a prescription medicine that lowers cholesterol in your blood.
-It lowers the LDL-C (“bad” cholesterol) and triglycerides in your blood.
-It can raise your HDL-C (“good” cholesterol) as well.
-Atorvastatin calcium tablets are for adults and children over 10 whose cholesterol does not come down enough with exercise and a low fat diet alone.
+Atorvastatin calcium tablets are a prescription medicine that lowers cholesterol in your blood.
+They lower the LDL-C (“bad” cholesterol) and triglycerides in your blood.
+They can raise your HDL-C (“good” cholesterol) as well.
+Atorvastatin calcium tablets are for adults and children over 10 whose cholesterol does not come down enough with exercise and a low-fat diet alone.
 
 Atorvastatin calcium tablets can lower the risk for heart attack, stroke, certain types of heart surgery, and chest pain in patients who have heart disease or risk factors for heart disease such as:
 
@@ -38,23 +38,23 @@ Who should not take atorvastatin calcium tablets?
 Do not take atorvastatin calcium tablets if you:
 
 - •are pregnant or think you may be pregnant, or are planning to become pregnant.
-  Atorvastatin may harm your unborn baby.
+  Atorvastatin calcium tablets may harm your unborn baby.
   If you get pregnant, stop taking atorvastatin calcium tablets and call your doctor right away.
-- •are breast-feeding.
+- •are breastfeeding.
   Atorvastatin can pass into your breast milk and may harm your baby.
 - •have liver problems.
-- •are allergic to atorvastatin calcium tablets or any of its ingredients.
+- •are allergic to atorvastatin calcium tablets or any of their ingredients.
   The active ingredient is atorvastatin.
   See the end of this leaflet for a complete list of ingredients in atorvastatin calcium tablets.
 
-Atorvastatin calcium tablets have not been studied in children under 10 years of age.
+Atorvastatin calcium tablet dosing has not been established in children under 10 years of age.
 
 Before you start atorvastatin calcium tablets:
 
 Tell your doctor if you:
 
 - •have muscle aches or weakness
-- •drink more than two glasses of alcohol daily
+- •drink more than 2 glasses of alcohol daily
 - •have diabetes
 - •have a thyroid problem
 - •have kidney problems
@@ -83,13 +83,13 @@ How should I take atorvastatin calcium tablets?
 - •Take atorvastatin calcium tablets each day at any time of day at about the same time each day.
   Atorvastatin calcium tablets can be taken with or without food.
 - Don't break atorvastatin calcium tablets before taking.
-- •Your doctor should start you on a low fat diet before giving you atorvastatin calcium tablets.
-  Stay on this low fat diet when you take atorvastatin calcium tablets.
+- •Your doctor should start you on a low-fat diet before giving you atorvastatin calcium tablets.
+  Stay on this low-fat diet when you take atorvastatin calcium tablets.
 - •If you miss a dose of atorvastatin calcium tablets, take it as soon as you remember.
   Do not take atorvastatin calcium tablets if it has been more than 12 hours since you missed your last dose.
   Wait and take the next dose at your regular time.
-  Do not take two doses of atorvastatin calcium tablets at the same time.
-- •If you take too much atorvastatin or overdose, call your doctor or Poison Control Center right away.
+  Do not take 2 doses of atorvastatin calcium tablets at the same time.
+- •If you take too many atorvastatin calcium tablets or overdose, call your doctor or Poison Control Center right away.
   Or go to the nearest emergency room.
 
 What should I avoid while taking atorvastatin calcium tablets?
@@ -148,7 +148,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How do I store atorvastatin calcium tablets?
 
-- •Store atorvastatin calcium tablets at 20° to 25°C (68° to 77°F).
+- •Store atorvastatin calcium tablets at room temperature, 20° to 25°C (68° to 77°F).
 - •Do not keep medicine that is out of date or that you no longer need.
 - •Keep atorvastatin calcium tablets and all medicines out of the reach of children.
   Be sure that if you throw medicine away, it is out of the reach of children.
@@ -156,26 +156,26 @@ How do I store atorvastatin calcium tablets?
 General information about atorvastatin calcium tablets
 
 Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
-Do not use atorvastatin for a condition for which it was not prescribed.
-Do not give atorvastatin to other people, even if they have the same problem you have.
-It may harm them.
+Do not use atorvastatin calcium tablets for a condition for which they were not prescribed.
+Do not give atorvastatin calcium tablets to other people, even if they have the same problem you have.
+They may harm them.
 
 This leaflet summarizes the most important information about atorvastatin calcium tablets.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about atorvastatin calcium tablets that is written for health professionals.
+Or you can call Mylan at 1-877-446-3679 (1-877-4-INFO-RX).
 
 What are the ingredients in atorvastatin calcium tablets?
 
-Active Ingredient: atorvastatin calcium, USP
+Active Ingredient: atorvastatin calcium
 
-Inactive Ingredients: anhydrous lactose, anhydrous sodium carbonate, colloidal silicon dioxide, croscarmellose sodium, hydroxypropyl cellulose, L-Arginine, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polyvinyl alcohol, talc and titanium dioxide.
-
-For more information, call Mylan Pharmaceuticals Inc. at 1-877-446-3679 (1-877-4-INFO-RX).
+Inactive Ingredients: anhydrous lactose, anhydrous sodium carbonate, colloidal silicon dioxide, croscarmellose sodium, hydroxypropyl cellulose, L-Arginine, magnesium stearate and microcrystalline cellulose.
+The film coating of the tablets contains polyvinyl alcohol, talc and titanium dioxide, and may contain polyethylene glycol or lecithin and xanthan gum.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Manufactured in India by: Mylan Laboratories Limited Hyderabad — 500 034, India Code No.: MH/DRUGS/25/NKD/89
+Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
 
-75060626
+75063129
 
-Revised: 2/2017 MX:ATOR:R10ppt
+Revised: 5/2018 MX:ATOR:R11ppt/MX:PL:ATOR:R8p/MX:PL:ATOR:R8pt
