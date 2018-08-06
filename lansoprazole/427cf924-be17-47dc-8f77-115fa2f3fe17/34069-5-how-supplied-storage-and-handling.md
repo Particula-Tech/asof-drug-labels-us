@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Lansoprazole delayed-release capsules USP are available as follows:
+Lansoprazole Delayed-Release Capsules USP are available as follows:
 
 15 mg - hard gelatin capsules, with a light-blue opaque cap and flesh-colored opaque body, imprinted with “93” and “7350”, filled with off-white to beige pellets, in bottles of 30 (NDC 0093-7350-56).
 

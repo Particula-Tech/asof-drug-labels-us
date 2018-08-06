@@ -32,29 +32,33 @@ Drug Interactions
 
 Advise patients to report to their healthcare provider if they are taking rilpivirine-containing products [see Contraindications (4)] or high-dose methotrexate [see Warnings and Precautions (5.9)].
 
+Pregnancy
+
+Advise a pregnant woman of the potential risk to a fetus.
+Advise females of reproductive potential to inform their healthcare provider of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
+
 Administration
 
-- •Missed doses: If a dose is missed, administer as soon as possible.
+- Missed doses: If a dose is missed, administer as soon as possible.
   However, if the next scheduled dose is due, do not take the missed dose, and take the next dose on time.
   Do not take two doses at one time to make up for a missed dose.
-- •Lansoprazole delayed-release capsules should be taken before eating.
-- •Do not crush or chew lansoprazole delayed-release capsules.
-- •Take lansoprazole delayed-release capsules at least 30 minutes prior to sucralfate.
+- Lansoprazole delayed-release capsules should be taken before eating.
+- Do not crush or chew lansoprazole delayed-release capsules.
+- Take lansoprazole delayed-release capsules at least 30 minutes prior to sucralfate.
 
-Lansoprazole delayed-release capsules
+Lansoprazole Delayed-Release Capsules
 
-- •Swallow whole; do not chew.
-- •For patients who have difficulty swallowing capsules:
-- oLansoprazole delayed-release capsules can be opened and sprinkled on applesauce, ENSURE pudding, cottage cheese, yogurt or strained pears.
-- oLansoprazole delayed-release capsules may also be emptied into a small volume of either apple juice, orange juice or tomato juice
-- oAlternatively, lansoprazole delayed-release capsules can be administered with apple juice via nasogastric tube
-- oSee the Instructions for Use for a description of all preparation and administration instructions
+- Swallow whole; do not chew.
+- For patients who have difficulty swallowing capsules:
+  - Lansoprazole delayed-release capsules can be opened and sprinkled on applesauce, ENSURE pudding, cottage cheese, yogurt or strained pears.
+  - Lansoprazole delayed-release capsules may also be emptied into a small volume of either apple juice, orange juice or tomato juice
+  - Alternatively, lansoprazole delayed-release capsules can be administered with apple juice via nasogastric tube
+  - See the Instructions for Use for a description of all preparation and administration instructions
 
-Manufactured For:
+Manufactured In Israel By: Teva Pharmaceutical Ind.
+Ltd. Jerusalem, 9777402, Israel
 
-Teva Pharmaceuticals USA, Inc.
-
-North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-N 10/2017
+O 6/2018

@@ -35,8 +35,7 @@ Duodenal Ulcer Healing Rates
 Randomized, double-blind clinical studies performed in the U.S. in patients with H. pylori and duodenal ulcer disease (defined as an active ulcer or history of an ulcer within one year) evaluated the efficacy of lansoprazole in combination with amoxicillin and clarithromycin as triple 14 day therapy or in combination with amoxicillin as dual 14 day therapy for the eradication of H. pylori.
 Based on the results of these studies, the safety and efficacy of two different eradication regimens were established:
 
-1. Triple therapy: Lansoprazole 30 mg twice daily/amoxicillin 1 g twice daily/clarithromycin 500 mg twice daily
-2. Dual therapy: Lansoprazole 30 mg three times daily/amoxicillin 1 g three times daily
+Triple therapy: Lansoprazole 30 mg twice daily/amoxicillin 1 g twice daily/clarithromycin 500 mg twice daily Dual therapy: Lansoprazole 30 mg three times daily/amoxicillin 1 g three times daily
 
 All treatments were for 14 days.
 H. pylori eradication was defined as two negative tests (culture and histology) at four to six weeks following the end of treatment.
@@ -132,7 +131,7 @@ There was no statistically significant difference between lansoprazole 30 mg dai
 In one large U.S., multi-center, double-blind, placebo- and misoprostol-controlled (misoprostol blinded only to the endoscopist) study in patients who required chronic use of an NSAID and who had a history of an endoscopically documented gastric ulcer, the proportion of patients remaining free from gastric ulcer at four, eight, and 12 weeks was significantly higher with 15 or 30 mg of lansoprazole than placebo.
 A total of 537 patients were enrolled in the study, and 535 patients were treated.
 Patients ranged in age from 23 to 89 years (median age 60 years), with 65% female patients and 35% male patients.
-Race was distributed as follows: 90% Caucasian, 6% Black, 4% other.
+Race was distributed as follows: 90% Caucasian, 6% Black, 4% Other.
 The 30 mg dose of lansoprazole demonstrated no additional benefit in risk reduction of the NSAID-associated gastric ulcer than the 15 mg dose (Table 16) [see Indications and Usage (1.6)].
 
 | Table 16. Proportion of Patients Remaining Free of Gastric Ulcers% = Life Table Estimate (p < 0.001) Lansoprazole 15 mg daily vs placebo; lansoprazole 30 mg daily vs placebo; and misoprostol 200 mcg four times daily vs placebo. (p < 0.05) Misoprostol 200 mcg four times daily vs lansoprazole 15 mg daily; and misoprostol 200 mcg four times daily vs lansoprazole 30 mg daily. |  |  |  |  |

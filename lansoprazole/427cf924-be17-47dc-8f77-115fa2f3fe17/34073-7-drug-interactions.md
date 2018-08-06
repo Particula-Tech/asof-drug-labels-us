@@ -1,15 +1,15 @@
 # 7 DRUG INTERACTIONS
 
-- Tables 2 and 3 include drugs with clinically important drug interactions and interaction with diagnostics when administered concomitantly with lansoprazole and instructions for preventing or managing them.
+Tables 2 and 3 include drugs with clinically important drug interactions and interaction with diagnostics when administered concomitantly with lansoprazole and instructions for preventing or managing them.
 
 Consult the labeling of concomitantly used drugs to obtain further information about interactions with PPIs.
 
 Table 2.
-Clinically Relevant Interactions Affecting Drugs Coadministered with Lansoprazole and Interactions with Diagnostics
+Clinically Relevant Interactions Affecting Drugs Co-administered with Lansoprazole and Interactions with Diagnostics
 
 | Antiretrovirals |  |
 | --- | --- |
-| Clinical Impact: | The effect of PPIs on antiretroviral drugs is variable. The clinical importance and the mechanisms behind these interactions are not always known. •Decreased exposure of some antiretroviral drugs (e.g., rilpivirine, atazanavir, and nelfinavir) when used concomitantly with lansoprazole may reduce antiviral effect and promote the development of drug resistance.•Increased exposure of other antiretroviral drugs (e.g., saquinavir) when used concomitantly with lansoprazole may increase toxicity of the antiretroviral drugs.•There are other antiretroviral drugs which do not result in clinically relevant interactions with lansoprazole. |
+| Clinical Impact: | The effect of PPIs on antiretroviral drugs is variable. The clinical importance and the mechanisms behind these interactions are not always known. Decreased exposure of some antiretroviral drugs (e.g., rilpivirine, atazanavir, and nelfinavir) when used concomitantly with lansoprazole may reduce antiviral effect and promote the development of drug resistance.Increased exposure of other antiretroviral drugs (e.g., saquinavir) when used concomitantly with lansoprazole may increase toxicity of the antiretroviral drugs.There are other antiretroviral drugs which do not result in clinically relevant interactions with lansoprazole. |
 | Intervention: | Rilpivirine-containing products: Concomitant use with lansoprazole is contraindicated [see Contraindications (4)]. See prescribing information. Atazanavir: See prescribing information for atazanavir for dosing information. Nelfinavir: Avoid concomitant use with lansoprazole. See prescribing information for nelfinavir.Saquinavir: See the prescribing information for saquinavir and monitor for potential saquinavir toxicities. Other antiretrovirals: See prescribing information. |
 | Warfarin |  |
 | Clinical Impact: | Increased INR and prothrombin time in patients receiving PPIs and warfarin concomitantly. Increases in INR and prothrombin time may lead to abnormal bleeding and even death. |
@@ -25,10 +25,10 @@ Clinically Relevant Interactions Affecting Drugs Coadministered with Lansoprazol
 | Intervention: | Individual patients may require additional titration of their theophylline dosage when lansoprazole is started or stopped to ensure clinically effective blood concentrations. |
 | Drugs Dependent on Gastric pH for Absorption (e.g., iron salts, erlotinib, dasatinib, nilotinib, mycophenolate mofetil, ketoconazole/itraconazole) |  |
 | Clinical Impact: | Lansoprazole can reduce the absorption of other drugs due to its effect on reducing intragastric acidity. |
-| Intervention: | Mycophenolate mofetil (MMF): Coadministration of PPIs in healthy subjects and in transplant patients receiving MMF has been reported to reduce the exposure to the active metabolite, mycophenolic acid (MPA), possibly due to a decrease in MMF solubility at an increased gastric pH. The clinical relevance of reduced MPA exposure on organ rejection has not been established in transplant patients receiving lansoprazole and MMF. Use lansoprazole with caution in transplant patients receiving MMF. See the prescribing information for other drugs dependent on gastric pH for absorption. |
+| Intervention: | Mycophenolate mofetil (MMF): Co-administration of PPIs in healthy subjects and in transplant patients receiving MMF has been reported to reduce the exposure to the active metabolite, mycophenolic acid (MPA), possibly due to a decrease in MMF solubility at an increased gastric pH. The clinical relevance of reduced MPA exposure on organ rejection has not been established in transplant patients receiving lansoprazole and MMF. Use lansoprazole with caution in transplant patients receiving MMF. See the prescribing information for other drugs dependent on gastric pH for absorption. |
 | Combination Therapy with Clarithromycin and Amoxicillin |  |
 | Clinical Impact: | Concomitant administration of clarithromycin with other drugs can lead to serious adverse reactions, including potentially fatal arrhythmias, and are contraindicated. Amoxicillin also has drug interactions. |
-| Intervention: | •See Contraindications and Warnings and Precautions in prescribing information for clarithromycin.•See Drug Interactions in prescribing information for amoxicillin. |
+| Intervention: | See Contraindications and Warnings and Precautions in prescribing information for clarithromycin.See Drug Interactions in prescribing information for amoxicillin. |
 | Tacrolimus |  |
 | Clinical Impact: | Potentially increased exposure of tacrolimus, especially in transplant patients who are intermediate or poor metabolizers of CYP2C19. |
 | Intervention: | Monitor tacrolimus whole blood trough concentrations. Dose adjustment of tacrolimus may be needed to maintain therapeutic drug concentrations. See prescribing information for tacrolimus. |
@@ -43,9 +43,9 @@ Clinically Relevant Interactions Affecting Drugs Coadministered with Lansoprazol
 | Intervention: | An alternative confirmatory method should be considered to verify positive results. |
 
 Table 3.
-Clinically Relevant Interactions Affecting Lansoprazole When Coadministered with Other Drugs
+Clinically Relevant Interactions Affecting Lansoprazole When Co-administered with Other Drugs
 
-| CYP2C19 or CYP3A4 Inducers |  |
+| CYP2C19 OR CYP3A4 Inducers |  |
 | --- | --- |
 | Clinical Impact: | Decreased exposure of lansoprazole when used concomitantly with strong inducers [see Clinical Pharmacology (12.3)]. |
 | Intervention: | St. John’s Wort, rifampin: Avoid concomitant use with lansoprazole. Ritonavir-containing products: See prescribing information. |

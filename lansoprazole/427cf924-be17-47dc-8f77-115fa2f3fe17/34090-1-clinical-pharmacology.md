@@ -102,7 +102,7 @@ There is no significant food effect if lansoprazole is given before meals.
 Distribution:
 
 Lansoprazole is 97% bound to plasma proteins.
-Plasma protein binding is constant over the concentration range of 0.05 to 5.0 mcg/mL.
+Plasma protein binding is constant over the concentration range of 0.05 to 5 mcg/mL.
 
 Elimination
 
@@ -156,8 +156,8 @@ Therefore, the pharmacokinetics of lansoprazole were not clinically different in
 
 Patients with Hepatic Impairment:
 
-In patients with mild (Child-Pugh Class A) or moderate (Child-Pugh Class B) hepatic impairment there was an approximate 3-fold increase in mean AUC compared to healthy subjects with normal hepatic function following multiple oral doses of 30 mg lansoprazole for 7 days.
-The corresponding mean plasma half-life of lansoprazole was prolonged from 1.5 hours to 4 hours (Child-Pugh A) or 5 hours (Child Pugh B).
+In patients with mild (Child-Pugh Class A) or moderate (Child-Pugh Class B) hepatic impairment there was an approximate 3-fold increase in mean AUC compared to healthy subjects with normal hepatic function following multiple oral doses of 30 mg lansoprazole for seven days.
+The corresponding mean plasma half-life of lansoprazole was prolonged from 1.5 to four hours (Child-Pugh A) or five hours (Child Pugh B).
 
 In patients with compensated and decompensated cirrhosis, there was an approximate 6- and 5-fold increase in AUC, respectively, compared to healthy subjects with normal hepatic function following a single oral dose of 30 mg lansoprazole [see Dosage and Administration (2.3), Use in Specific Populations (8.6)].
 
@@ -199,7 +199,7 @@ Clopidogrel:
 
 Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
 A study of healthy subjects who were CYP2C19 extensive metabolizers, receiving once daily administration of clopidogrel 75 mg alone or concomitantly with lansoprazole 30 mg (n = 40), for nine days was conducted.
-The mean AUC of the active metabolite of clopidogrel was reduced by approximately 14% (mean AUC ratio was 86%, with 90% CI of 80 to 92%) when lansoprazole was coadministered compared to administration of clopidogrel alone.
+The mean AUC of the active metabolite of clopidogrel was reduced by approximately 14% (mean AUC ratio was 86%, with 90% CI of 80 to 92%) when lansoprazole was co-administered compared to administration of clopidogrel alone.
 
 Pharmacodynamic parameters were also measured and demonstrated that the change in inhibition of platelet aggregation (induced by 5 mcM ADP) was related to the change in the exposure to clopidogrel active metabolite.
 The effect on exposure to the active metabolite of clopidogrel and on clopidogrel-induced platelet inhibition is not considered clinically important.
