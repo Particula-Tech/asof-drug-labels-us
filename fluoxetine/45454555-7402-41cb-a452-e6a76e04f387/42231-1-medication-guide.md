@@ -153,7 +153,7 @@ Before starting fluoxetine capsules, tell your healthcare provider if you:
   - Amphetamines
   - Tramadol and fentanyl
   - Over-the-counter supplements such as tryptophan or St. John’s Wort
-- Electroconvulsive therapy (ECT)
+  - Electroconvulsive therapy (ECT)
 - have liver problems
 - have kidney problems
 - have heart problems
@@ -187,10 +187,13 @@ How should I take fluoxetine capsules?
 - If you take too much fluoxetine, call your healthcare provider or poison control center right away, or get emergency treatment.
 
 What should I avoid while taking fluoxetine capsules?
+
 Fluoxetine capsules can cause sleepiness or may affect your ability to make decisions, think clearly, or react quickly.
 You should not drive, operate heavy machinery, or do other dangerous activities until you know how fluoxetine capsules affect you.
 Do not drink alcohol while using fluoxetine capsules.
+
 What are the possible side effects of fluoxetine capsules?
+
 Fluoxetine capsules may cause serious side effects, including:
 
 - See “What is the most important information I should know about fluoxetine capsules?”
@@ -229,8 +232,10 @@ Other side effects in children and adolescents include:
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 These are not all the possible side effects of fluoxetine capsules.
 For more information, ask your healthcare provider or pharmacist.
+
 CALL YOUR DOCTOR FOR MEDICAL ADVICE ABOUT SIDE EFFECTS.
 YOU MAY REPORT SIDE EFFECTS TO THE FDA AT 1-800-FDA-1088.
+
 How should I store fluoxetine capsules?
 
 - Store fluoxetine capsules at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
@@ -238,22 +243,43 @@ How should I store fluoxetine capsules?
 - Keep fluoxetine capsules bottle closed tightly.
 
 Keep fluoxetine capsules and all medicines out of the reach of children.
-General information about fluoxetine capsules Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
+
+General information about fluoxetine capsules
+
+Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use fluoxetine capsules for a condition for which it was not prescribed.
 Do not give fluoxetine capsules to other people, even if they have the same condition.
 It may harm them.
+
 This Medication Guide summarizes the most important information about fluoxetine capsules.
 If you would like more information, talk with your healthcare provider.
 You may ask your healthcare provider or pharmacist for information about fluoxetine capsules that is written for healthcare professionals.
+
 For more information about fluoxetine capsules, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
+
 What are the ingredients in fluoxetine capsules?
-Active ingredient: fluoxetine hydrochloride Inactive ingredients: colloidal silicon dioxide, FD&C Blue #1, gelatin, pregelatinized starch (maize), sodium lauryl sulphate, titanium dioxide and yellow iron oxide.
+
+Active ingredient: fluoxetine hydrochloride
+
+Inactive ingredients: colloidal silicon dioxide, FD&C Blue #1, gelatin, pregelatinized starch (maize), sodium lauryl sulphate, titanium dioxide and yellow iron oxide.
 In addition 40 mg also contains FD&C Yellow #6.
 The capsules are printed with edible ink containing black iron oxide, potassium hydroxide, propylene glycol, shellac and strong ammonia solution.
+
 Symbyax® and Sarafem® are registered trademarks of Eli Lilly and Company.
+
 Mellaril® is a registered trademark of Novartis AG Corporation.
+
 Orap® is a registered trademark of Teva Pharmaceuticals USA.
+
 Coumadin® is a registered trademark of Bristol Myers Squibb.
-Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Zyprexa® is a registered trademark of Eli Lilly and Company.
+
+Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc.
+
+Zyprexa® is a registered trademark of Eli Lilly and Company.
+
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Distributed by: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 038, India Revised: 12/2017
+Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520
+
+Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India
+
+Revised: 06/2018

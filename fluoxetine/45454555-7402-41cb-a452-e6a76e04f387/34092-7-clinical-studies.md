@@ -38,10 +38,9 @@ In Study 2, patients receiving fluoxetine experienced mean reductions of approxi
 While there was no indication of a dose-response relationship for effectiveness in Study 1, a dose-response relationship was observed in Study 2, with numerically better responses in the 2 higher dose groups.
 The following table provides the outcome classification by treatment group on the Clinical Global Impression (CGI) improvement scale for Studies 1 and 2 combined:
 
-Table 6: Outcome Classification (%) on CGI Improvement Scale for Completers in Pool of Two OCD Studies
-
-|  |  | Fluoxetine |  |  |
+| Table 6: Outcome Classification (%) on CGI Improvement Scale for Completers in Pool of Two OCD Studies |  |  |  |  |
 | --- | --- | --- | --- | --- |
+|  |  | Fluoxetine |  |  |
 | Outcome Classification | Placebo | 20 mg | 40 mg | 60 mg |
 | Worse | 8% | 0% | 0% | 0% |
 | No change | 64% | 41% | 33% | 29% |
@@ -50,9 +49,11 @@ Table 6: Outcome Classification (%) on CGI Improvement Scale for Completers in P
 | Very much improved | 3% | 8% | 12% | 19% |
 
 Exploratory analyses for age and gender effects on outcome did not suggest any differential responsiveness on the basis of age or sex.
+
 Pediatric (children and adolescents) — In one 13-week clinical trial in pediatric patients (N=103 randomized; 75 children ages 7 to <13, 28 adolescents ages 13 to <18) with OCD (DSM-IV), patients received fluoxetine 10 mg/day for 2 weeks, followed by 20 mg/day for 2 weeks.
 The dose was then adjusted in the range of 20 to 60 mg/day on the basis of clinical response and tolerability.
 Fluoxetine produced a statistically significantly greater mean change from baseline to endpoint than did placebo as measured by the Children’s Yale-Brown Obsessive Compulsive Scale (CY-BOCS).
+
 Subgroup analyses on outcome did not suggest any differential responsiveness on the basis of age or gender.
 
 ## 14.3 Bulimia Nervosa
