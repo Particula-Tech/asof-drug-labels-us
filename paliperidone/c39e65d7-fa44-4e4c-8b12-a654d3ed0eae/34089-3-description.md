@@ -1,8 +1,7 @@
 # 11 DESCRIPTION
 
-INVEGA TRINZA® is an atypical antipsychotic.
 INVEGA TRINZA® contains paliperidone palmitate.
-The active ingredient, paliperidone palmitate, is a psychotropic agent belonging to the chemical class of benzisoxazole derivatives.
+The active ingredient, paliperidone, is an atypical antipsychotic belonging to the chemical class of benzisoxazole derivatives.
 INVEGA TRINZA® contains a racemic mixture of (+)- and (-)- paliperidone palmitate.
 The chemical name is (9RS)-3-[2-[4-(6-Fluoro-1,2-benzisoxazol-3-yl)piperidin-1-yl]ethyl]-2-methyl-4-oxo-6,7,8,9-tetrahydro-4H-pyrido[1,2-a]pyrimadin-9-yl hexadecanoate.
 Its molecular formula is C39H57FN4O4 and its molecular weight is 664.89.

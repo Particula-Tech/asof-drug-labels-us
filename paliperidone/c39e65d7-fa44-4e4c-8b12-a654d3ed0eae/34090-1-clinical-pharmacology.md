@@ -3,13 +3,14 @@
 ## 12.1 Mechanism of Action
 
 Paliperidone palmitate is hydrolyzed to paliperidone [see Clinical Pharmacology (12.3)].
-The mechanism of action of paliperidone is unknown.
-It has been proposed that the therapeutic activity of paliperidone in schizophrenia is mediated through a combination of central dopamine Type 2 (D2) and serotonin Type 2 (5HT2A) receptor antagonism.
+Paliperidone is the major active metabolite of risperidone.
+The mechanism of action of paliperidone is unclear.
+However, the drug's therapeutic effect in schizophrenia could be mediated through a combination of central dopamine Type 2 (D2) and serotonin Type 2 (5HT2A) receptor antagonism.
 
 ## 12.2 Pharmacodynamics
 
-Paliperidone is a centrally active dopamine Type 2 (D2) receptor antagonist and a serotonin Type 2 (5HT2A) receptor antagonist.
-Paliperidone is also active as an antagonist at α1 and α2 adrenergic receptors and H1 histaminergic receptors, which may explain some of the other effects of the drug.
+In vitro, paliperidone acts as an antagonist at the central dopamine Type 2 (D2) and serotonin Type 2 (5HT2A) receptors with binding affinities (Ki values) of 1.6–2.8 nM for D2 and 0.8–1.2 nM for 5HT2A receptors.
+Paliperidone is also active as an antagonist at the α1 and α2 adrenergic receptors and H1 histaminergic receptors, which may explain some of the other effects of the drug.
 Paliperidone has no affinity for cholinergic muscarinic or β1- and β2-adrenergic receptors.
 The pharmacological activity of the (+)- and (-)- paliperidone enantiomers is qualitatively and quantitatively similar in vitro.
 

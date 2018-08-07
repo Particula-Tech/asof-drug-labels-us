@@ -48,5 +48,15 @@ Advise patients to inform their health care providers if they are taking, or pla
 
 Pregnancy
 
-Advise patients that INVEGA TRINZA® may cause extrapyramidal and/or withdrawal symptoms in a neonate and to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with INVEGA TRINZA®.
+Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with INVEGA TRINZA®.
+Advise patients that INVEGA TRINZA® may cause extrapyramidal and/or withdrawal symptoms in a neonate.
 Advise patients that there is a pregnancy registry that monitors pregnancy outcomes in women exposed to INVEGA TRINZA® during pregnancy [see Use in Specific Populations (8.1)].
+
+Lactation
+
+Advise breastfeeding women using INVEGA TRINZA® to monitor infants for somnolence, failure to thrive, jitteriness, and extrapyramidal symptoms (tremors and abnormal muscle movements) and to seek medical care if they notice these signs [see Use in Specific Populations (8.2)].
+
+Infertility
+
+Advise females of reproductive potential that INVEGA TRINZA® may impair fertility due to an increase in serum prolactin levels.
+The effects on fertility are reversible [see Use in Specific Populations (8.3)].
