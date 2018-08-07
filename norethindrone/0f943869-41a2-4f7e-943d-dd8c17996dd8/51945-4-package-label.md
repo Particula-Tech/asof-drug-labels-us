@@ -2,7 +2,7 @@
 
 NDC 0169-5174-02
 
-Activella®
+Activella ®
 
 (estradiol/norethindrone acetate) tablets
 
@@ -14,7 +14,7 @@ Activella®
 
 NDC 0169-5175-10
 
-Activella®
+Activella ®
 
 (estradiol/norethindrone acetate) tablets
 
@@ -30,7 +30,7 @@ List 517401
 
 (Contains: 5 of NDC 0169-5174-02)
 
-Activella® (estradiol/norethindroneacetate) tablets
+Activella ® (estradiol/norethindroneacetate) tablets
 
 Rx only
 
@@ -58,7 +58,7 @@ LIST 517511
 
 (Contains: 5 of NDC 0169-5175-10)
 
-Activella® (estradiol/norethindroneacetate) tablets
+Activella ® (estradiol/norethindroneacetate) tablets
 
 Rx only
 

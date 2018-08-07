@@ -40,41 +40,39 @@ Norethindrone Acetate
 After oral administration, norethindrone acetate is absorbed and transformed to norethindrone.
 Norethindrone reaches a peak plasma concentration within 0.5 to 1.5 hours after the administration of Activella tablets.
 The oral bioavailability of norethindrone following administration of Activella 1 mg/0.5 mg when compared to a combination oral solution is 100%.
-Administration of Activella 1 mg/0.5 mg with food increases norethindrone AUC0-72 by 19% and decreases Cmax by 36%.
+Administration of Activella 1 mg/0.5 mg with food increases norethindrone AUC 0-72 by 19% and decreases C max by 36%.
 
-The pharmacokinetic parameters of estradiol (E2), estrone (E1), and norethindrone (NET) following oral administration of 1 Activella 1 mg/0.5 mg or 2 Activella 0.5 mg/0.1 mg tablet(s) to healthy postmenopausal women are summarized in Table 3.
+The pharmacokinetic parameters of estradiol (E 2), estrone (E 1), and norethindrone (NET) following oral administration of 1 Activella 1 mg/0.5 mg or 2 Activella 0.5 mg/0.1 mg tablet(s) to healthy postmenopausal women are summarized in Table 3.
 
 TABLE 3 PHARMACOKINETIC PARAMETERS AFTER ADMINISTRATION OF 1 TABLET OF ACTIVELLA 1 MG/0.5 MG OR 2 TABLETS OF ACTIVELLA 0.5 MG/0.1 MG TO HEALTHY POSTMENOPAUSAL WOMEN
 
 |  | 1 x Activella1 mg/0.5 mg(n=24) | 2 x Activella0.5 mg/0.1 mg(n=24) |
 | --- | --- | --- |
-|  | Meangeometric mean (%CV)geometric % coefficient of variation | Mean (%CV) |
-| Estradiolbaseline unadjusted data (E2) |  |  |
-| AUC0-t (pg/mL*h) | 766.5 (48) | 697.3 (53) |
-| Cmax (pg/mL) | 26.8 (36) | 26.5 (37) |
-| tmax (h): median (range) | 6.0 (0.5-16.0) | 6.5 (0.5-16.0) |
-| t1/2 (h)baseline unadjusted data | 14.0n=18 (29) | 14.5n=16 (27) |
-| Estrone (E1) |  |  |
-| AUC0-t (pg/mL*h) | 4469.1 (48) | 4506.4 (44) |
-| Cmax (pg/mL) | 195.5 (37) | 199.5 (30) |
-| tmax (h): median (range) | 6.0 (1.0-9.0) | 6.0 (2.0-9.0) |
-| t1/2 (h) | 10.7 (44)n=13 | 11.8 (25) |
+|  | Mean geometric mean (%CV) geometric % coefficient of variation | Mean (%CV) |
+| Estradiolbaseline unadjusted data (E 2) |  |  |
+| AUC 0-t (pg/mL*h) | 766.5 (48) | 697.3 (53) |
+| C max (pg/mL) | 26.8 (36) | 26.5 (37) |
+| t max (h): median (range) | 6.0 (0.5-16.0) | 6.5 (0.5-16.0) |
+| t 1/2 (h) baseline unadjusted data | 14.0 n=18 (29) | 14.5 n=16 (27) |
+| Estrone (E 1) |  |  |
+| AUC 0-t (pg/mL*h) | 4469.1 (48) | 4506.4 (44) |
+| C max (pg/mL) | 195.5 (37) | 199.5 (30) |
+| t max (h): median (range) | 6.0 (1.0-9.0) | 6.0 (2.0-9.0) |
+| t 1/2 (h) | 10.7 (44) n=13 | 11.8 (25) |
 | Norethindrone (NET) |  |  |
-| AUC0-t (pg/mL*h) | 21043 (41) | 8407.2 (43) |
-| Cmax (pg/mL) | 5249.5 (47) | 2375.4 (41) |
-| tmax (h): median (range) | 0.7 (0.7-1.25) | 0.8 (0.7-1.3) |
-| t1/2 (h) | 9.8 (32)n=22 | 11.4 (36)n=21 |
+| AUC 0-t (pg/mL*h) | 21043 (41) | 8407.2 (43) |
+| C max (pg/mL) | 5249.5 (47) | 2375.4 (41) |
+| t max (h): median (range) | 0.7 (0.7-1.25) | 0.8 (0.7-1.3) |
+| t 1/2 (h) | 9.8 (32) n=22 | 11.4 (36) n=21 |
 
-AUC = area under the curve, 0 – last quantifiable sample
+C max = maximum plasma concentration,
 
-Cmax = maximum plasma concentration,
+t max = time at maximum plasma concentration,
 
-tmax = time at maximum plasma concentration,
-
-t1/2 = half-life
+t 1/2 = half-life
 
 Following continuous dosing with once-daily administration of Activella 1 mg/0.5 mg, serum concentrations of estradiol, estrone, and norethindrone reached steady-state within two weeks with an accumulation of 33 to 47% above concentrations following single dose administration.
-Unadjusted circulating concentrations of E2, E1, and NET during Activella 1 mg/0.5 mg treatment at steady state (dosing at time 0) are provided in Figures 1a and 1b.
+Unadjusted circulating concentrations of E 2, E 1, and NET during Activella 1 mg/0.5 mg treatment at steady state (dosing at time 0) are provided in Figures 1a and 1b.
 
 Figure 1a: Mean Baseline-Uncorrected Estradiol and Estrone Serum Concentration-Time Profiles Following Multiple Doses of Activella 1 mg/0.5 mg (N=24)
 

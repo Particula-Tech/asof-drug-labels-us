@@ -16,7 +16,7 @@ TABLE 1 ALL TREATMENT-EMERGENT ADVERSE REACTIONS REGARDLESS OF RELATIONSHIP REPO
 
 |  | Endometrial Hyperplasia Study (12-Months) |  | Vasomotor Symptoms Study (3-Months) |  | Osteoporosis Study (2-Years) |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Activella1 mg/0.5 mg | 1 mg E2 | Activella1 mg/0.5 mg | Placebo | Activella1 mg/0.5 mg | Placebo |
+|  | Activella1 mg/0.5 mg | 1 mg E 2 | Activella1 mg/0.5 mg | Placebo | Activella1 mg/0.5 mg | Placebo |
 |  | (n=295) | (n=296) | (n=29) | (n=34) | (n=47) | (n=48) |
 | Body as a Whole |  |  |  |  |  |  |
 | Back Pain | 6% | 5% | 3% | 3% | 6% | 4% |
@@ -41,7 +41,7 @@ TABLE 1 ALL TREATMENT-EMERGENT ADVERSE REACTIONS REGARDLESS OF RELATIONSHIP REPO
 | Infection Viral | 4% | 6% | 0% | 3% | 6% | 6% |
 | Moniliasis Genital | 4% | 7% | 0% | 0% | 6% | 0% |
 | Secondary Terms |  |  |  |  |  |  |
-| Injury Accidental | 4% | 3% | 3% | 0% | 17%including one upper extremity fracture in each group | 4% |
+| Injury Accidental | 4% | 3% | 3% | 0% | 17% including one upper extremity fracture in each group | 4% |
 | Other Events | 2% | 3% | 3% | 0% | 6% | 4% |
 
 Adverse reactions reported with Activella 0.5 mg/0.1 mg by investigators during the Phase 3 study regardless of causality assessment are shown in Table 2.

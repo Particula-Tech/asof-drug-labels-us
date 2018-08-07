@@ -18,7 +18,7 @@ Date of Issue: 10/2013
 
 Rx Only
 
-Activella® is a registered trademark owned by Novo Nordisk FemCare AG
+Activella ® is a registered trademark owned by Novo Nordisk FemCare AG
 
 © 2000-2013 Novo Nordisk
 

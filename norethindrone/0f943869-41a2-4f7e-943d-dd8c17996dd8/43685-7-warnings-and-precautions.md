@@ -11,21 +11,25 @@ Risk factors for arterial vascular disease (for example, hypertension, diabetes 
 Stroke
 
 In the WHI estrogen plus progestin substudy, a statistically significant increased risk of stroke was reported in women 50 to 79 years of age receiving daily CE (0.625 mg) plus MPA (2.5 mg) compared to women in the same age group receiving placebo (33 versus 25 per 10,000 women-years) [see Clinical Studies (14.5)].
-The increase in risk was demonstrated after the first year and persisted.1 Should a stroke occur or be suspected, estrogen plus progestin therapy should be discontinued immediately.
+The increase in risk was demonstrated after the first year and persisted.
+1 Should a stroke occur or be suspected, estrogen plus progestin therapy should be discontinued immediately.
 
 In the WHI estrogen-alone substudy, a statistically significant increased risk of stroke was reported in women 50 to 79 years of age receiving daily CE (0.625 mg)-alone compared to women in the same age group receiving placebo (45 versus 33 per 10,000 women-years).
 The increase in risk was demonstrated in year 1 and persisted [see Clinical Studies (14.5)].
 Should a stroke occur or be suspected, estrogen-alone therapy should be discontinued immediately.
 
-Subgroup analyses of women 50 to 59 years of age suggest no increased risk of stroke for those women receiving CE (0.625 mg)-alone versus those receiving placebo (18 versus 21 per 10,000 women-years).1
+Subgroup analyses of women 50 to 59 years of age suggest no increased risk of stroke for those women receiving CE (0.625 mg)-alone versus those receiving placebo (18 versus 21 per 10,000 women-years).
+1
 
 Coronary Heart Disease
 
-In the WHI estrogen plus progestin substudy, there was a statistically non-significant increase risk of coronary heart disease (CHD) events (defined as nonfatal MI, silent MI, or CHD death) reported in women receiving daily CE (0.625 mg) plus MPA (2.5 mg) compared to women receiving placebo (41 versus 34 per 10,000 women-years).1 An increase in relative risk was demonstrated in year 1, and a trend toward decreasing relative risk was reported in years 2 through 5 [see Clinical Studies (14.5)].
+In the WHI estrogen plus progestin substudy, there was a statistically non-significant increase risk of coronary heart disease (CHD) events (defined as nonfatal MI, silent MI, or CHD death) reported in women receiving daily CE (0.625 mg) plus MPA (2.5 mg) compared to women receiving placebo (41 versus 34 per 10,000 women-years).
+1 An increase in relative risk was demonstrated in year 1, and a trend toward decreasing relative risk was reported in years 2 through 5 [see Clinical Studies (14.5)].
 
 In the WHI estrogen-alone substudy, no overall effect on CHD events was reported in women receiving estrogen-alone compared to placebo 2 [see Clinical Studies (14.5)].
 
-Subgroup analyses of women 50 to 59 years of age suggest a statistically non-significant reduction in CHD events (CE [0.625 mg]-alone compared to placebo) in women with less than 10 years since menopause (8 versus 16 per 10,000 women-years).1
+Subgroup analyses of women 50 to 59 years of age suggest a statistically non-significant reduction in CHD events (CE [0.625 mg]-alone compared to placebo) in women with less than 10 years since menopause (8 versus 16 per 10,000 women-years).
+1
 
 In postmenopausal women with documented heart disease (n=2,763), average 66.7 years of age, in a controlled clinical trial of secondary prevention of cardiovascular disease (Heart and Estrogen/Progestin Replacement Study [HERS]), treatment with daily CE (0.625 mg plus MPA (2.5 mg) demonstrated no cardiovascular benefit.
 During an average follow-up of 4.1 years, treatment with CE plus MPA did not reduce the overall rate of CHD events in postmenopausal women with established CHD.
@@ -96,7 +100,8 @@ Ovarian Cancer
 
 The WHI estrogen plus progestin substudy reported a statistically non-significant increased risk of ovarian cancer.
 After an average follow-up of 5.6 years, the relative risk for ovarian cancer for CE plus MPA versus placebo was 1.58 (95 percent CI, 0.77-3.24].
-The absolute risk for CE plus MPA versus placebo was 4 versus 3 cases per 10,000 women-years.7 In some epidemiologic studies, the use of estrogen plus progestin and estrogen-only products, in particular for 5 or more years, has been associated with an increased risk of ovarian cancer.
+The absolute risk for CE plus MPA versus placebo was 4 versus 3 cases per 10,000 women-years.
+7 In some epidemiologic studies, the use of estrogen plus progestin and estrogen-only products, in particular for 5 or more years, has been associated with an increased risk of ovarian cancer.
 However, the duration of exposure associated with increased risk is not consistent across all epidemiologic studies, and some report no association.
 
 ## 5.3 Probable Dementia
@@ -156,7 +161,7 @@ For women with a history of cholestatic jaundice associated with past estrogen u
 ## 5.11 Hypothyroidism
 
 Estrogen administration leads to increased thyroid-binding globulin (TBG) levels.
-Women with normal thyroid function can compensate for the increased TBG by making more thyroid hormone, thus maintaining free T4 and T3 serum concentrations in the normal range.
+Women with normal thyroid function can compensate for the increased TBG by making more thyroid hormone, thus maintaining free T 4 and T 3 serum concentrations in the normal range.
 Women dependent on thyroid hormone replacement therapy who are also receiving estrogen may require increased doses of their thyroid replacement therapy.
 These women should have their thyroid function monitored to maintain their free thyroid hormone levels in an acceptable range.
 
@@ -190,15 +195,15 @@ Serum follicle stimulating hormone (FSH) and estradiol levels have not been show
 
 Accelerated prothrombin time, partial thromboplastin time, and platelet aggregation time; increased platelet count; increased factors II, VII antigen, VIII coagulant activity, IX, X, XII, VII-X complex, and beta-thromboglobulin; decreased levels of anti-factor Xa and antithrombin III, decreased antithrombin III activity, increased levels of fibrinogen and fibrinogen activity; increased plasminogen antigen and activity.
 
-Increased TBG levels leading to increased circulating total thyroid hormone levels as measured by protein-bound iodine (PBI), T4 levels (by column or by radioimmunoassay), or T3 levels by radioimmunoassay.
-T3 resin uptake is decreased, reflecting the elevated TBG.
-Free T4 and free T3 concentrations are unaltered.
+Increased TBG levels leading to increased circulating total thyroid hormone levels as measured by protein-bound iodine (PBI), T 4 levels (by column or by radioimmunoassay), or T 3 levels by radioimmunoassay.
+T 3 resin uptake is decreased, reflecting the elevated TBG.
+Free T 4 and free T 3 concentrations are unaltered.
 Women on thyroid replacement therapy may require higher doses of thyroid hormone.
 
 Other binding proteins may be elevated in serum, for example, corticosteroid binding globulin (CBG), sex hormone-binding globulin (SHBG), leading to increased total circulating corticosteroids and sex steroids, respectively.
 Free hormone concentrations, such as testosterone and estradiol, may be decreased.
 Other plasma proteins may be increased (angiotensinogen/rennin substrate, alpha-1 antitrypsin, ceruloplasmin).
 
-Increased plasma high-density lipoprotein (HDL) and HDL2 cholesterol subfraction concentration, reduced low-density lipoprotein (LDL) cholesterol concentration, increased triglyceride levels.
+Increased plasma high-density lipoprotein (HDL) and HDL 2 cholesterol subfraction concentration, reduced low-density lipoprotein (LDL) cholesterol concentration, increased triglyceride levels.
 
 Impaired glucose tolerance.
