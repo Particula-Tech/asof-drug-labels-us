@@ -40,8 +40,6 @@ The efficacy of Omeprazole Delayed-Release Capsules used for longer than 8 weeks
 If a patient does not respond to 8 weeks of treatment, an additional 4 weeks of treatment may be given.
 If there is recurrence of EE or GERD symptoms (e.g., heartburn), additional 4 to 8 week courses of Omeprazole Delayed-Release Capsules may be considered.
 
-The safety and effectiveness of Omeprazole Delayed-Release Capsules in pediatric patients < 1 year of age have not been established (8.4).
-
 ## 1.6 Maintenance of Healing of EE Due to Acid-Mediated GERD
 
 Omeprazole Delayed-Release Capsules is indicated for the maintenance healing of EE due to acid-mediated GERD in patients 1 year of age and older.

@@ -56,7 +56,7 @@ Cardiovascular: Chest pain or angina, tachycardia, bradycardia, palpitations, el
 
 Endocrine: Gynecomastia
 
-Gastrointestinal: Pancreatitis (some fatal), anorexia, irritable colon, fecal discoloration, esophageal candidiasis, mucosal atrophy of the tongue, stomatitis, abdominal swelling, dry mouth, microscopic colitis, fundic gland polyps
+Gastrointestinal: Pancreatitis (some fatal), anorexia, irritable colon, fecal discoloration, esophageal candidiasis, mucosal atrophy of the tongue, stomatitis, abdominal swelling, dry mouth, microscopic colitis, fundic gland polyps.
 
 Gastroduodenal carcinoids have been reported in patients with ZE syndrome on long-term treatment with Omeprazole Delayed-Release Capsules.
 This finding is believed to be a manifestation of the underlying condition, which is known to be associated with such tumors.

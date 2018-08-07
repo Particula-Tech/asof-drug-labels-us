@@ -63,7 +63,8 @@ When rats were dosed from gestational day 7 through weaning on postnatal day 21,
 
 A pre- and postnatal development study in rats with esomeprazole strontium (using equimolar doses compared to esomeprazole magnesium study) produced similar results in dams and pups as described above.
 
-A follow up developmental toxicity study in rats with further time points to evaluate pup bone development from postnatal day 2 to adulthood was performed with esomeprazole magnesium at oral doses of 280 mg/kg/day (about 68 times an oral human dose of 40 mg on a body surface area basis) where esomeprazole administration was confined to gestation only, there were no effects on bone physeal morphology in the offspring at any age.
+A follow up developmental toxicity study in rats with further time points to evaluate pup bone development from postnatal day 2 to adulthood was performed with esomeprazole magnesium at oral doses of 280 mg/kg/day (about 68 times an oral human dose of 40 mg on a body surface area basis) where esomeprazole administration was from either gestational day 7 or gestational day 16 until parturition.
+When maternal administration was confined to gestation only, there were no effects on bone physeal morphology in the offspring at any age.
 
 ## 8.2 Lactation
 
@@ -77,8 +78,6 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 The safety and effectiveness of Omeprazole Delayed-Release Capsules have been established in pediatric patients 1 to 16 years for the treatment of symptomatic GERD, treatment of EE due to acid-mediated GERD, and maintenance of healing of EE due to acid-mediated GERD.
 Use of Omeprazole Delayed-Release Capsules in this age group is supported by adequate and well-controlled studies in adults and uncontrolled safety, efficacy and pharmacokinetic studies performed in pediatric and adolescent patients [see Clinical Pharmacology (12.3), Clinical Studies (14.8)].
-
-The safety and effectiveness of Omeprazole Delayed-Release Capsules in pediatric patients < 1 year of age have not been established (8.4).
 
 In the pediatric population, adverse reactions of the respiratory system were frequently reported in the entire (1 year to 16 year) age group.
 Fever was frequently reported in the 1 to <2 year age group, and accidental injuries were frequently reported in the 2 to 16 year age group [see Adverse Reactions (6.1)].
