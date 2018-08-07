@@ -62,7 +62,7 @@ In IDEAL [see Clinical Studies (14.1)] involving 8,888 subjects (age range 26 to
 Stroke Prevention by Aggressive Reduction in Cholesterol Levels (SPARCL)
 
 In SPARCL involving 4731 subjects (age range 21 to 92 years, 40% women; 93.3% Caucasians, 3.0% Blacks, 0.6% Asians, 3.1% other) without clinically evident CHD but with a stroke or transient ischemic attack (TIA) within the previous 6 months treated with atorvastatin calcium 80 mg (n=2365) or placebo (n=2366) for a median follow-up of 4.9 years, there was a higher incidence of persistent hepatic transaminase elevations (≥ 3 x ULN twice within 4 to 10 days) in the atorvastatin group (0.9%) compared to placebo (0.1%).
-Elevations of CK (>10 x ULN) were rare, but were higher in the atorvastatin group (0.1%) compared to placebo (0.0%).
+Elevations of CK (>10 x ULN) were rare but were higher in the atorvastatin group (0.1%) compared to placebo (0.0%).
 Diabetes was reported as an adverse reaction in 144 subjects (6.1%) in the atorvastatin group and 89 subjects (3.8%) in the placebo group [see Warnings and Precautions (5.5)].
 
 In a post-hoc analysis, atorvastatin calcium 80 mg reduced the incidence of ischemic stroke (218/2365, 9.2% vs. 274/2366, 11.6%) and increased the incidence of hemorrhagic stroke (55/2365, 2.3% vs. 33/2366, 1.4%) compared to placebo.
