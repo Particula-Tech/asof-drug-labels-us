@@ -18,13 +18,11 @@ The following adverse reactions are discussed in more detail in other sections o
 - Potential for cognitive and motor impairment [see Warnings and Precautions (5.12)]
 - Seizures [see Warnings and Precautions (5.13)]
 - Dysphagia [see Warnings and Precautions (5.14)]
-- Suicide [see Warnings and Precautions (5.15)]
-- Priapism [see Warnings and Precautions (5.16)]
-- Thrombotic thrombocytopenic purpura (TTP) [see Warnings and Precautions (5.17)]
-- Disruption of body temperature regulation [see Warnings and Precautions (5.18)]
-- Antiemetic effect [see Warnings and Precautions (5.19)]
-- Increased sensitivity in patients with Parkinson's disease or those with dementia with Lewy bodies [see Warnings and Precautions (5.20)]
-- Diseases or conditions that could affect metabolism or hemodynamic responses [see Warnings and Precautions (5.20)]
+- Priapism [see Warnings and Precautions (5.15)]
+- Thrombotic thrombocytopenic purpura (TTP) [see Warnings and Precautions (5.16)]
+- Disruption of body temperature regulation [see Warnings and Precautions (5.17)]
+- Antiemetic effect [see Warnings and Precautions (5.18)]
+- Patients with Concomitant Illness [see Warnings and Precautions (5.19)]
 
 The most common adverse reactions in clinical trials in adult subjects with schizophrenia (reported in 5% or more of subjects treated with INVEGA® and at least twice the placebo rate in any of the dose groups) were extrapyramidal symptoms, tachycardia, and akathisia.
 The most common adverse reactions in clinical trials in adult patients with schizoaffective disorder (reported in 5% or more of subjects treated with INVEGA® and at least twice the placebo rate) were extrapyramidal symptoms, somnolence, dyspepsia, constipation, weight increased, and nasopharyngitis.

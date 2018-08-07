@@ -3,6 +3,11 @@
 ## 5.1 Increased Mortality in Elderly Patients with Dementia-Related Psychosis
 
 Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
+Analyses of 17 placebo-controlled trials (modal duration of 10 weeks), largely in patients taking atypical antipsychotic drugs, revealed a risk of death in drug-treated patients of between 1.6 to 1.7 times the risk of death in placebo-treated patients.
+Over the course of a typical 10-week controlled trial, the rate of death in drug-treated patients was about 4.5%, compared to a rate of about 2.6% in the placebo group.
+Although the causes of death were varied, most of the deaths appeared to be either cardiovascular (e.g., heart failure, sudden death) or infectious (e.g., pneumonia) in nature.
+Observational studies suggest that, similar to atypical antipsychotic drugs, treatment with conventional antipsychotic drugs may increase mortality.
+The extent to which the findings of increased mortality in observational studies may be attributed to the antipsychotic drug as opposed to some characteristic(s) of the patients is not clear.
 INVEGA® (paliperidone) is not approved for the treatment of dementia-related psychosis [see Boxed Warning].
 
 ## 5.2 Cerebrovascular Adverse Reactions, Including Stroke, in Elderly Patients With Dementia-Related Psychosis
@@ -52,7 +57,7 @@ Whether antipsychotic drug products differ in their potential to cause tardive d
 
 The risk of developing tardive dyskinesia and the likelihood that it will become irreversible appear to increase as the duration of treatment and the total cumulative dose of antipsychotic drugs administered to the patient increase, but the syndrome can develop after relatively brief treatment periods at low doses, although this is uncommon.
 
-There is no known treatment for established tardive dyskinesia, although the syndrome may remit, partially or completely, if antipsychotic treatment is withdrawn.
+The syndrome may remit, partially or completely, if antipsychotic treatment is withdrawn.
 Antipsychotic treatment itself may suppress (or partially suppress) the signs and symptoms of the syndrome and may thus mask the underlying process.
 The effect of symptomatic suppression on the long-term course of the syndrome is unknown.
 
@@ -248,7 +253,7 @@ Neither clinical studies nor epidemiologic studies conducted to date have shown 
 
 Because the INVEGA® tablet is non-deformable and does not appreciably change in shape in the gastrointestinal tract, INVEGA® should ordinarily not be administered to patients with pre-existing severe gastrointestinal narrowing (pathologic or iatrogenic, for example: esophageal motility disorders, small bowel inflammatory disease, "short gut" syndrome due to adhesions or decreased transit time, past history of peritonitis, cystic fibrosis, chronic intestinal pseudo obstruction, or Meckel's diverticulum).
 There have been rare reports of obstructive symptoms in patients with known strictures in association with the ingestion of drugs in non-deformable controlled-release formulations.
-Because of the controlled-release design of the tablet, INVEGA® should only be used in patients who are able to swallow the tablet whole [see Dosage and Administration (2.3) and Patient Counseling Information (17.8)].
+Because of the controlled-release design of the tablet, INVEGA® should only be used in patients who are able to swallow the tablet whole [see Dosage and Administration (2.3) and Patient Counseling Information (17)].
 
 A decrease in transit time, e.g., as seen with diarrhea, would be expected to decrease bioavailability and an increase in transit time, e.g., as seen with gastrointestinal neuropathy, diabetic gastroparesis, or other causes, would be expected to increase bioavailability.
 These changes in bioavailability are more likely when the changes in transit time occur in the upper GI tract.
@@ -294,33 +299,28 @@ Esophageal dysmotility and aspiration have been associated with antipsychotic dr
 Aspiration pneumonia is a common cause of morbidity and mortality in patients with advanced Alzheimer's dementia.
 INVEGA® and other antipsychotic drugs should be used cautiously in patients at risk for aspiration pneumonia.
 
-## 5.15 Suicide
-
-The possibility of suicide attempt is inherent in psychotic illnesses, and close supervision of high-risk patients should accompany drug therapy.
-Prescriptions for INVEGA® should be written for the smallest quantity of tablets consistent with good patient management in order to reduce the risk of overdose.
-
-## 5.16 Priapism
+## 5.15 Priapism
 
 Drugs with alpha-adrenergic blocking effects have been reported to induce priapism.
 Priapism has been reported with INVEGA® during postmarketing surveillance.
 Severe priapism may require surgical intervention.
 
-## 5.17 Thrombotic Thrombocytopenic Purpura (TTP)
+## 5.16 Thrombotic Thrombocytopenic Purpura (TTP)
 
 No cases of TTP were observed during clinical studies with paliperidone.
 Although cases of TTP have been reported in association with risperidone administration, the relationship to risperidone therapy is unknown.
 
-## 5.18 Body Temperature Regulation
+## 5.17 Body Temperature Regulation
 
 Disruption of the body's ability to reduce core body temperature has been attributed to antipsychotic agents.
 Appropriate care is advised when prescribing INVEGA® to patients who will be experiencing conditions which may contribute to an elevation in core body temperature, e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration.
 
-## 5.19 Antiemetic Effect
+## 5.18 Antiemetic Effect
 
 An antiemetic effect was observed in preclinical studies with paliperidone.
 This effect, if it occurs in humans, may mask the signs and symptoms of overdosage with certain drugs or of conditions such as intestinal obstruction, Reye's syndrome, and brain tumor.
 
-## 5.20 Use in Patients with Concomitant Illness
+## 5.19 Use in Patients with Concomitant Illness
 
 Clinical experience with INVEGA® in patients with certain concomitant illnesses is limited [see Clinical Pharmacology (12.3)].
 
@@ -330,7 +330,3 @@ Manifestations of this increased sensitivity include confusion, obtundation, pos
 INVEGA® has not been evaluated or used to any appreciable extent in patients with a recent history of myocardial infarction or unstable heart disease.
 Patients with these diagnoses were excluded from premarketing clinical trials.
 Because of the risk of orthostatic hypotension with INVEGA®, caution should be observed in patients with known cardiovascular disease [see Warnings and Precautions (5.9)].
-
-## 5.21 Monitoring: Laboratory Tests
-
-No specific laboratory tests are recommended.

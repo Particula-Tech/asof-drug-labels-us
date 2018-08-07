@@ -23,7 +23,7 @@ The possibility of obtundation, seizures, or dystonic reaction of the head and n
 
 Cardiovascular monitoring should commence immediately, including continuous electrocardiographic monitoring for possible arrhythmias.
 If antiarrhythmic therapy is administered, disopyramide, procainamide, and quinidine carry a theoretical hazard of additive QT-prolonging effects when administered in patients with an acute overdose of paliperidone.
-Similarly the alpha-blocking properties of bretylium might be additive to those of paliperidone, resulting in problematic hypotension.
+Similarly, the alpha-blocking properties of bretylium might be additive to those of paliperidone, resulting in problematic hypotension.
 
 Hypotension and circulatory collapse should be treated with appropriate measures, such as intravenous fluids and/or sympathomimetic agents (epinephrine and dopamine should not be used, since beta stimulation may worsen hypotension in the setting of paliperidone-induced alpha blockade).
 In cases of severe extrapyramidal symptoms, anticholinergic medication should be administered.
