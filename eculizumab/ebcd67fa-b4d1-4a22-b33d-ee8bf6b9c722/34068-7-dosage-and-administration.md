@@ -1,12 +1,12 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Important Dosing Considerations
-
-Healthcare professionals who prescribe Soliris must enroll in the Soliris REMS [see Warnings and Precautions (5.2)].
+## 2.1 Recommended Vaccination and Prophylaxis
 
 Vaccinate patients according to current ACIP guidelines to reduce the risk of serious infection [see Warnings and Precautions (5.1 and 5.2)].
 
-Only administer as an intravenous infusion.
+Provide two weeks of antibacterial drug prophylaxis to patients if Soliris must be initiated immediately and vaccines are administered less than two weeks before starting Soliris therapy.
+
+Healthcare professionals who prescribe Soliris must enroll in the Soliris REMS [see Warnings and Precautions (5.1)].
 
 ## 2.2 Recommended Dosage Regimen – PNH
 
@@ -89,6 +89,8 @@ Prior to administration, the admixture should be allowed to adjust to room tempe
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
 ## 2.7 Administration
+
+Only administer as an intravenous infusion.
 
 Do Not Administer As An Intravenous Push or Bolus Injection
 

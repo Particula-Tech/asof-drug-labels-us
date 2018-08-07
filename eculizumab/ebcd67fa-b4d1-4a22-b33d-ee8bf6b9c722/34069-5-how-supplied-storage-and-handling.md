@@ -1,13 +1,11 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Soliris (eculizumab) is supplied as 300 mg single-dose vials containing 30 mL of 10 mg/mL sterile, preservative-free Soliris solution per vial.
+Soliris (eculizumab) injection is a sterile, preservative-free, clear, colorless solution supplied as one 300 mg/30 mL (10 mg/mL) single-dose vial per carton (NDC 25682-001-01).
 
-Store Soliris vials in the original carton until time of use under refrigerated conditions at 2-8º C (36-46º F) and protected from light.
-Soliris vials may be held in the original carton at controlled room temperature (not more than 25° C/77° F) for only a single period up to 3 days.
+Store Soliris vials refrigerated at 2-8º C (36-46º F) in the original carton to protect from light until time of use.
+Soliris vials may be stored in the original carton at controlled room temperature (not more than 25° C/77° F) for only a single period up to 3 days.
 Do not use beyond the expiration date stamped on the carton.
 Refer to Dosage and Administration (2)) for information on the stability and storage of diluted solutions of Soliris.
 
 DO NOT FREEZE.
 DO NOT SHAKE.
-
-NDC 25682-001-01 Single unit 300 mg carton: Contains one (1) 30 mL vial of Soliris (10 mg/mL).

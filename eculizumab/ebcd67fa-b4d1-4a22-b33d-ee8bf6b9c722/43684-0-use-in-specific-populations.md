@@ -8,10 +8,6 @@ Limited data on outcomes of pregnancies that have occurred following Soliris use
 There are risks to the mother and fetus associated with untreated paroxysmal nocturnal hemoglobinuria (PNH) and atypical hemolytic uremic syndrome (aHUS) in pregnancy (see Clinical Considerations).
 Animal studies using a mouse analogue of the Soliris molecule (murine anti-C5 antibody) showed increased rates of developmental abnormalities and an increased rate of dead and moribund offspring at doses 2-8 times the human dose (see Data).
 
-Alexion's PNH and aHUS disease registries collect pregnancy outcomes in women exposed to Soliris during pregnancy.
-To enroll or to obtain information, contact www.pnhregistry.com or www.ahusregistry.com, or call (215)-616-3558.
-In cases where gMG patients become pregnant, call (215)-616-3558.
-
 The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defect and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 

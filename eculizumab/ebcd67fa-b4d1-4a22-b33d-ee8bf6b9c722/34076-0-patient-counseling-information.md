@@ -30,8 +30,11 @@ This card describes symptoms which, if experienced, should prompt the patient to
 
 Other Infections
 
+Counsel patients about gonorrhea prevention and advise regular testing for patients at-risk.
+
 Inform patients that there may be an increased risk of other types of infections, particularly those due to encapsulated bacteria.
-Additionally, Aspergillus infections have occurred in immunocompromised and neutropenic patients.
+
+Aspergillus infections have occurred in immunocompromised and neutropenic patients.
 Inform parents or caregivers of children receiving Soliris for the treatment of aHUS that their child should be vaccinated against Streptococcus pneumoniae and Haemophilus influenza type b (Hib) according to current medical guidelines.
 
 Discontinuation

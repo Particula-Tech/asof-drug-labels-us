@@ -3,10 +3,10 @@
 The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
 
 - Serious Meningococcal Infections [see Warnings and Precautions (5.1)]
-- Other Infections [see Warnings and Precautions (5.3)]
-- Monitoring Disease Manifestations After Soliris Discontinuation [see Warnings and Precautions (5.4)]
-- Thrombosis Prevention and Management [see Warnings and Precautions (5.5)]
-- Infusion Reactions [see Warnings and Precautions (5.6)]
+- Other Infections [see Warnings and Precautions (5.2)]
+- Monitoring Disease Manifestations After Soliris Discontinuation [see Warnings and Precautions (5.3)]
+- Thrombosis Prevention and Management [see Warnings and Precautions (5.4)]
+- Infusion Reactions [see Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical Trial Experience
 
@@ -156,7 +156,7 @@ The most commonly reported SAEs were hypertension (9%), viral gastroenteritis (9
 One patient discontinued Soliris due to an adverse event (severe agitation).
 
 Analysis of retrospectively collected adverse event data from pediatric and adult patients enrolled in Study C09-001r (N=30) revealed a safety profile that was similar to that which was observed in the two prospective studies.
-Study C09-001rincluded 19 pediatric patients less than 18 years of age.
+Study C09-001r included 19 pediatric patients less than 18 years of age.
 Overall, the safety of Soliris in pediatric patients with aHUS enrolled in Study C09-001r appeared similar to that observed in adult patients.
 The most common (≥15%) adverse events occurring in pediatric patients are presented in Table 7.
 
@@ -223,4 +223,4 @@ No apparent correlation of antibody development to clinical response was observe
 The following adverse reactions have been identified during post-approval use of Soliris.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to Soliris exposure.
 
-Cases of serious or fatal meningococcal infections have been reported.
+Fatal or serious infections: Neisseria gonorrhoeae, Neisseria meningitidis, Neisseria sicca/subflava, Neisseria spp unspecified

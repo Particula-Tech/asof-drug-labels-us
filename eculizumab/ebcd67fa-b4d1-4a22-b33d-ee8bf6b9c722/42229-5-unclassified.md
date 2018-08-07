@@ -1,6 +1,6 @@
 Manufactured by:
 
-Alexion Pharmaceuticals, Inc. 100 College Street New Haven, CT 06510 USA
+Alexion Pharmaceuticals, Inc. 121 Seaport Boulevard Boston, MA 02210 USA
 
 US License Number 1743
 

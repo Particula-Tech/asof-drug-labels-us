@@ -40,7 +40,7 @@ These effects were seen among patients within each of the three pre-study RBC tr
 After 3 weeks of Soliris treatment, patients reported less fatigue and improved health-related quality of life.
 Because of the study sample size and duration, the effects of Soliris on thrombotic events could not be determined.
 
-Table 10: PNH Study 1Results
+Table 10: PNH Study 1 Results
 
 |  | Placebo N = 44 | Soliris N = 43 |
 | --- | --- | --- |
@@ -165,7 +165,7 @@ Table 14 summarizes the efficacy results for Study C08-003A/B.
 
 Table 14: Efficacy Results for Study C08-003A/B
 
-| Efficacy Parameter | Study C08-003A/Bat 26 wksAt data cut-off (September 8, 2010). N = 20 | Study C08-003A/B at 2 yrsAt data cut-off (April 20, 2012). N = 20 |
+| Efficacy Parameter | Study C08-003A/B at 26 wksAt data cut-off (September 8, 2010). N = 20 | Study C08-003A/B at 2 yrsAt data cut-off (April 20, 2012). N = 20 |
 | --- | --- | --- |
 | Complete TMA response, n (%) | 5 (25) | 11 (55) |
 | Median duration of complete TMA response, weeks (range) | 32 (12, 38) | 68 (38, 109) |
@@ -236,7 +236,7 @@ Table 17 summarizes the efficacy results for Study C10-004.
 
 Table 17: Efficacy Results for Study C10-004
 
-| Efficacy Parameter | Study C10-004aHUS (N = 41) |
+| Efficacy Parameter | Study C10-004aHUS N = 41 |
 | --- | --- |
 | Complete TMA response, n (%), | 23 (56), |
 | 95% CI | 40,72 |
