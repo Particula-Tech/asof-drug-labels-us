@@ -8,7 +8,7 @@ The efficacy of INVEGA SUSTENNA® in the acute treatment of schizophrenia was ev
 The fixed doses of INVEGA SUSTENNA® in these studies were given on days 1, 8, and 36 in the 9-week study, and additionally on day 64 of the 13-week studies, i.e., at a weekly interval for the initial two doses and then every 4 weeks for maintenance.
 
 Efficacy was evaluated using the total score on the Positive and Negative Syndrome Scale (PANSS).
-The PANSS is a 30 item scale that measures positive symptoms of schizophrenia (7 items), negative symptoms of schizophrenia (7 items), and general psychopathology (16 items), each rated on a scale of 1 (absent) to 7 (extreme); total PANSS scores range from 30 to 210.
+The PANSS is a 30-item scale that measures positive symptoms of schizophrenia (7 items), negative symptoms of schizophrenia (7 items), and general psychopathology (16 items), each rated on a scale of 1 (absent) to 7 (extreme); total PANSS scores range from 30 to 210.
 
 In Study 1 (PSY-3007), a 13-week study (n=636) comparing three fixed doses of INVEGA SUSTENNA® (initial deltoid injection of 234 mg followed by 3 gluteal or deltoid doses of either 39 mg/4 weeks, 156 mg/4 weeks or 234 mg/4 weeks) to placebo, all three doses of INVEGA SUSTENNA® were superior to placebo in improving the PANSS total score.
 
