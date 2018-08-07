@@ -25,6 +25,6 @@ All patients treated with rosuvastatin should be advised to promptly report any 
 
 CRESTOR is a trademark of the AstraZeneca group of companies.
 
-Distributed by: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India
 
-Revised: 09/2017
+Revised: 07/2018
