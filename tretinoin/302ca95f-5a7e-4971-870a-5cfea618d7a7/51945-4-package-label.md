@@ -17,7 +17,7 @@ Avoid freezing.
 
 See end flap for lot number and expiration date.
 
-MI:6141:44:1C:R7 545.7
+MI:6141:44:1C:R8 545.8
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
