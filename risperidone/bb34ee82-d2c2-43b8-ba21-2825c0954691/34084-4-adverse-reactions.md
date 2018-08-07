@@ -19,10 +19,9 @@ The following are discussed in more detail in other sections of the labeling:
 - Disruption of body temperature regulation [see Warnings and Precautions (5.15)]
 - Avoidance of inadvertent injection into a blood vessel [see Warnings and Precautions (5.16)]
 - Antiemetic effect [see Warnings and Precautions (5.17)]
-- Suicide [see Warnings and Precautions (5.18)]
-- Increased sensitivity in patients with Parkinson's disease or those with dementia with Lewy bodies [see Warnings and Precautions (5.19)]
-- Diseases or conditions that could affect metabolism or hemodynamic responses [see Warnings and Precautions (5.19)]
-- Osteodystrophy and tumors in animals [see Warnings and Precautions (5.20)]
+- Increased sensitivity in patients with Parkinson's disease or those with dementia with Lewy bodies [see Warnings and Precautions (5.18)]
+- Diseases or conditions that could affect metabolism or hemodynamic responses [see Warnings and Precautions (5.18)]
+- Osteodystrophy and tumors in animals [see Warnings and Precautions (5.19)]
 
 The most common adverse reactions in clinical trials in patients with schizophrenia (≥ 5%) were: headache, parkinsonism, dizziness, akathisia, fatigue, constipation, dyspepsia, sedation, weight increased, pain in extremity, and dry mouth.
 The most common adverse reactions in the double-blind, placebo-controlled periods of the bipolar disorder trials were weight increased (5% in the monotherapy trial) and tremor and parkinsonism (≥ 10% in the adjunctive treatment trial).

@@ -3,16 +3,22 @@
 ## 5.1 Increased Mortality in Elderly Patients with Dementia-Related Psychosis
 
 Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
-RISPERDAL CONSTA® (risperidone) is not approved for the treatment of dementia-related psychosis (see Boxed Warning).
+Analyses of 17 placebo-controlled trials (modal duration of 10 weeks), largely in patients taking atypical antipsychotic drugs, revealed a risk of death in drug-treated patients of between 1.6 to 1.7 times the risk of death in placebo-treated patients.
+Over the course of a typical 10-week controlled trial, the rate of death in drug-treated patients was about 4.5%, compared to a rate of about 2.6% in the placebo group.
+Although the causes of death were varied, most of the deaths appeared to be either cardiovascular (e.g., heart failure, sudden death) or infectious (e.g., pneumonia) in nature.
+Observational studies suggest that, similar to atypical antipsychotic drugs, treatment with conventional antipsychotic drugs may increase mortality.
+The extent to which the findings of increased mortality in observational studies may be attributed to the antipsychotic drug as opposed to some characteristic(s) of the patients is not clear.
+
+RISPERDAL CONSTA® (risperidone) is not approved for the treatment of dementia-related psychosis [see Boxed Warning].
 
 ## 5.2 Cerebrovascular Adverse Events, Including Stroke, in Elderly Patients with Dementia-Related Psychosis
 
 Cerebrovascular adverse events (e.g., stroke, transient ischemic attack), including fatalities, were reported in patients (mean age 85 years; range 73–97) in trials of oral risperidone in elderly patients with dementia-related psychosis.
 In placebo-controlled trials, there was a significantly higher incidence of cerebrovascular adverse events in patients treated with oral risperidone compared to patients treated with placebo.
 RISPERDAL CONSTA® is not approved for the treatment of patients with dementia-related psychosis.
-[see also Boxed Warning and Warnings and Precautions (5.1)]
+[See also Boxed Warning and Warnings and Precautions (5.1)]
 
-## 5.3 Neuroleptic Malignant Syndrome (NMS)
+## 5.3 Neuroleptic Malignant Syndrome
 
 A potentially fatal symptom complex sometimes referred to as Neuroleptic Malignant Syndrome (NMS) has been reported in association with antipsychotic drugs.
 Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status, and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmia).
@@ -37,7 +43,7 @@ Whether antipsychotic drug products differ in their potential to cause tardive d
 The risk of developing tardive dyskinesia and the likelihood that it will become irreversible are believed to increase as the duration of treatment and the total cumulative dose of antipsychotic drugs administered to the patient increase.
 However, the syndrome can develop, although much less commonly, after relatively brief treatment periods at low doses.
 
-There is no known treatment for established cases of tardive dyskinesia, although the syndrome may remit, partially or completely, if antipsychotic treatment is withdrawn.
+The syndrome may remit, partially or completely, if antipsychotic treatment is withdrawn.
 Antipsychotic treatment, itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome and thereby may possibly mask the underlying process.
 The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown.
 
@@ -214,12 +220,7 @@ RISPERDAL CONSTA® should be injected into the deltoid or gluteal muscle, and ca
 
 Risperidone has an antiemetic effect in animals; this effect may also occur in humans, and may mask signs and symptoms of overdosage with certain drugs or of conditions such as intestinal obstruction, Reye's syndrome, and brain tumor.
 
-## 5.18 Suicide
-
-There is an increased risk of suicide attempt in patients with schizophrenia or bipolar disorder, and close supervision of high-risk patients should accompany drug therapy.
-RISPERDAL CONSTA® is to be administered by a health care professional [see Dosage and Administration (2)]; therefore, suicide due to an overdose is unlikely.
-
-## 5.19 Use in Patients with Concomitant Illness
+## 5.18 Use in Patients with Concomitant Illness
 
 Clinical experience with RISPERDAL CONSTA® in patients with certain concomitant systemic illnesses is limited.
 Patients with Parkinson's Disease or Dementia with Lewy Bodies who receive antipsychotics, including RISPERDAL CONSTA®, are reported to have an increased sensitivity to antipsychotic medications.
@@ -233,7 +234,7 @@ Increased plasma concentrations of risperidone and 9-hydroxyrisperidone occur in
 Patients with renal or hepatic impairment should be carefully titrated on oral RISPERDAL® before treatment with RISPERDAL CONSTA® is initiated at a dose of 25 mg.
 A lower initial dose of 12.5 mg may be appropriate when clinical factors warrant dose adjustment, such as in patients with renal or hepatic impairment [see Dosage and Administration (2.4)].
 
-## 5.20 Osteodystrophy and Tumors in Animals
+## 5.19 Osteodystrophy and Tumors in Animals
 
 RISPERDAL CONSTA® produced osteodystrophy in male and female rats in a 1-year toxicity study and a 2-year carcinogenicity study at a dose of 40 mg/kg administered IM every 2 weeks.
 
@@ -251,7 +252,3 @@ Osteodystrophy was not observed in dogs at doses up to 14 times (based on AUC) t
 The renal tubular and adrenomedullary tumors in male rats and other tumor findings are described in more detail in Section 13.1 (Carcinogenicity, Mutagenesis, Impairment of Fertility).
 
 The relevance of these findings to human risk is unknown.
-
-## 5.21 Monitoring: Laboratory Tests
-
-No specific laboratory tests are recommended.
