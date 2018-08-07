@@ -3,13 +3,10 @@
 ## 7.1 Polyvalent Cations (Chelation)
 
 Eltrombopag chelates polyvalent cations (such as iron, calcium, aluminum, magnesium, selenium, and zinc) in foods, mineral supplements, and antacids.
-In a clinical trial, administration of PROMACTA with a polyvalent cation-containing antacid decreased plasma eltrombopag systemic exposure by approximately 70% [see Clinical Pharmacology (12.3)].
 
 Take PROMACTA at least 2 hours before or 4 hours after any medications or products containing polyvalent cations such as antacids, dairy products, and mineral supplements to avoid significant reduction in absorption of PROMACTA due to chelation [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
 
 ## 7.2 Transporters
-
-Coadministration of PROMACTA with the OATP1B1 and breast cancer resistance protein (BCRP) substrate, rosuvastatin, to healthy adult subjects increased plasma rosuvastatin AUC0-INF by 55% and Cmax by 103% [see Clinical Pharmacology (12.3)].
 
 Use caution when concomitantly administering PROMACTA and drugs that are substrates of OATP1B1 (e.g., atorvastatin, bosentan, ezetimibe, fluvastatin, glyburide, olmesartan, pitavastatin, pravastatin, rosuvastatin, repaglinide, rifampin, simvastatin acid, SN-38 [active metabolite of irinotecan], valsartan) or BCRP (e.g., imatinib, irinotecan, lapatinib, methotrexate, mitoxantrone, rosuvastatin, sulfasalazine, topotecan).
 Monitor patients closely for signs and symptoms of excessive exposure to the drugs that are substrates of OATP1B1 or BCRP and consider reduction of the dose of these drugs, if appropriate.
@@ -17,14 +14,12 @@ In clinical trials with PROMACTA, a dose reduction of rosuvastatin by 50% was re
 
 ## 7.3 Protease Inhibitors
 
-HIV Protease Inhibitors: In a drug interaction trial, coadministration of PROMACTA with lopinavir/ritonavir (LPV/RTV) decreased plasma eltrombopag exposure by 17% [see Clinical Pharmacology (12.3)].
-No dose adjustment is recommended when PROMACTA is coadministered with LPV/RTV.
+HIV Protease Inhibitors: No dose adjustment is recommended when PROMACTA is coadministered with lopinavir/ritoinavir (LPV/RTV).
 Drug interactions with other HIV protease inhibitors have not been evaluated.
 
-Hepatitis C Virus (HCV) Protease Inhibitors: Coadministration of PROMACTA with either boceprevir or telaprevir did not affect eltrombopag or protease inhibitor exposure significantly [see Clinical Pharmacology (12.3)].
-No dose adjustments are recommended.
+Hepatitis C Virus (HCV) Protease Inhibitors: No dose adjustments are recommended when PROMACTA is coadministered with boceprevir or telaprivir.
 Drug interactions with other HCV protease inhibitors have not been evaluated.
 
 ## 7.4 Peginterferon alfa-2a/b Therapy
 
-Coadministration of peginterferon alfa-2a (PEGASYS®) or -2b (PEGINTRON®) did not affect eltrombopag exposure in two randomized, double-blind, placebo-controlled trials with adult patients with chronic hepatitis C [see Clinical Pharmacology (12.3)].
+No dose adjustments are recommended when PROMACTA is coadministered with peginterferon alfa-2a (PEGASYS®) or -2b (PEGINTRON®).

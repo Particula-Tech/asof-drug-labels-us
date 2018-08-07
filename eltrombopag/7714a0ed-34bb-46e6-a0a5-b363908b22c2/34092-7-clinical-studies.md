@@ -4,37 +4,37 @@
 
 Adults: The efficacy and safety of PROMACTA in adult patients with chronic ITP were evaluated in three randomized, double-blind, placebo-controlled trials and in an open-label extension trial.
 
-Trials 1 and 2: In Trials 1 and 2, patients who had completed at least one prior ITP therapy and who had a platelet count less than 30 x 109/L were randomized to receive either PROMACTA or placebo daily for up to 6 weeks, followed by 6 weeks off therapy.
+In Study TRA100773B and Study TRA100773A (referred to as Study 773B and Study 773A, respectively [NCT00102739]), patients who had completed at least one prior ITP therapy and who had a platelet count less than 30 x 109/L were randomized to receive either PROMACTA or placebo daily for up to 6 weeks, followed by 6 weeks off therapy.
 During the trials, PROMACTA or placebo was discontinued if the platelet count exceeded 200 x 109/L.
 
 The median age of the patients was 50 years and 60% were female.
 Approximately 70% of the patients had received at least 2 prior ITP therapies (predominantly corticosteroids, immunoglobulins, rituximab, cytotoxic therapies, danazol, and azathioprine) and 40% of the patients had undergone splenectomy.
 The median baseline platelet counts (approximately 18 x 109/L) were similar among all treatment groups.
 
-Trial 1 randomized 114 patients (2:1) to PROMACTA 50 mg or placebo.
-Trial 2 randomized 117 patients (1:1:1:1) among placebo or 1 of 3 dose regimens of PROMACTA, 30 mg, 50 mg, or 75 mg each administered daily.
+Study 773B randomized 114 patients (2:1) to PROMACTA 50 mg or placebo.
+Study 773A randomized 117 patients (1:1:1:1) among placebo or 1 of 3 dose regimens of PROMACTA, 30 mg, 50 mg, or 75 mg each administered daily.
 
-The efficacy of PROMACTA in this trial was evaluated by response rate, defined as a shift from a baseline platelet count of less than 30 x 109/L to greater than or equal to 50 x 109/L at any time during the treatment period (Table 10).
+The efficacy of PROMACTA in this trial was evaluated by response rate, defined as a shift from a baseline platelet count of less than 30 x 109/L to greater than or equal to 50 x 109/L at any time during the treatment period (Table 11).
 
-Table 10.
-Trials 1 and 2 Platelet Count Response (≥ 50 x 109/L) Rates in Adults with Chronic Immune (Idiopathic) Thrombocytopenia
+Table 11.
+Studies 773B and 773A: Platelet Count Response (≥ 50 x 109/L) Rates in Adults with Chronic Immune Thrombocytopenia
 
-| Trial | PROMACTA50 mg Daily | Placebo |
+| Study | PROMACTA50 mg Daily | Placebo |
 | --- | --- | --- |
-| 1 | 43/73 (59%)a | 6/37 (16%) |
-| 2 | 19/27 (70%)a | 3/27 (11%) |
+| 773B | 43/73 (59%)a | 6/37 (16%) |
+| 773A | 19/27 (70%)a | 3/27 (11%) |
 | a p-value < 0.001 for PROMACTA versus placebo |  |  |
 
 The platelet count response to PROMACTA was similar among patients who had or had not undergone splenectomy.
 In general, increases in platelet counts were detected 1 week following initiation of PROMACTA and the maximum response was observed after 2 weeks of therapy.
 In the placebo and 50-mg–dose groups of PROMACTA, the trial drug was discontinued due to an increase in platelet counts to greater than 200 x 109/L in 3% and 27% of the patients, respectively.
-The median duration of treatment with the 50-mg dose of PROMACTA was 42 days in Trial 1 and 43 days in Trial 2.
+The median duration of treatment with the 50-mg dose of PROMACTA was 43 days in Study 773B and 42 days in Study 773A.
 
 Of 7 patients who underwent hemostatic challenges, additional ITP medications were required in 3 of 3 placebo group patients and 0 of 4 patients treated with PROMACTA.
 Surgical procedures accounted for most of the hemostatic challenges.
 Hemorrhage requiring transfusion occurred in one placebo group patient and no patients treated with PROMACTA.
 
-Trial 3: In this trial, 197 patients were randomized (2:1) to receive either PROMACTA 50 mg once daily (n = 135) or placebo (n = 62) for 6 months, during which time the dose of PROMACTA could be adjusted based on individual platelet counts.
+In the RAISE study (NCT00370331), 197 patients were randomized (2:1) to receive either PROMACTA 50 mg once daily (n = 135) or placebo (n = 62) for 6 months, during which time the dose of PROMACTA could be adjusted based on individual platelet counts.
 Patients were allowed to taper or discontinue concomitant ITP medications after being treated with PROMACTA for 6 weeks.
 Patients were permitted to receive rescue treatments at any time during the trial as clinically indicated.
 
@@ -47,10 +47,10 @@ In 134 patients who completed 26 weeks of treatment, a sustained platelet respon
 The proportion of responders in the group of patients treated with PROMACTA was between 37% and 56% compared with 7% and 19% in the placebo treatment group for all on-therapy visits.
 Patients treated with PROMACTA were significantly more likely to achieve a platelet count between 50 x 109/L and 400 x 109/L during the entire 6-month treatment period compared with those patients treated with placebo.
 
-Outcomes of treatment are presented in Table 11 for all patients enrolled in the trial.
+Outcomes of treatment are presented in Table 12 for all patients enrolled in the trial.
 
-Table 11.
-Outcomes of Treatment from Trial 3 in Adults with Chronic Immune (Idiopathic) Thrombocytopenia
+Table 12.
+RAISE: Outcomes of Treatment in Adults with Chronic Immune Thrombocytopenia
 
 | Outcome | PROMACTAN = 135 | PlaceboN = 62 |
 | --- | --- | --- |
@@ -59,8 +59,8 @@ Outcomes of Treatment from Trial 3 in Adults with Chronic Immune (Idiopathic) Th
 
 Among 94 patients receiving other ITP therapy at baseline, 37 (59%) of 63 patients treated with PROMACTA and 10 (32%) of 31 patients in the placebo group discontinued concomitant therapy at some time during the trial.
 
-Extension Trial: Patients who completed any prior clinical trial with PROMACTA were enrolled in an open-label, single-arm trial in which attempts were made to decrease the dose or eliminate the need for any concomitant ITP medications.
-PROMACTA was administered to 302 patients; 218 patients completed 1 year, 180 patients completed 2 years, 107 patients completed 3 years, 75 patients completed 4 years, 34 patients completed 5 years, and 18 patients completed 6 years of therapy.
+In the EXTEND study (NCT00351468), patients who completed any prior clinical trial with PROMACTA were enrolled in an open-label, single-arm trial in which attempts were made to decrease the dose or eliminate the need for any concomitant ITP medications.
+PROMACTA was administered to 302 patients in EXTEND; 218 patients completed 1 year, 180 patients completed 2 years, 107 patients completed 3 years, 75 patients completed 4 years, 34 patients completed 5 years, and 18 patients completed 6 years of therapy.
 The median baseline platelet count was 19 x 109/L prior to administration of PROMACTA.
 Median platelet counts at 1, 2, 3, 4, 5, 6, and 7 years on study were 85 x 109/L, 85 x 109/L, 105 x 109/L, 64 x 109/L, 75 x 109/L, 119 x 109/L, and 76 x 109/L, respectively.
 
@@ -69,7 +69,7 @@ The trials differed in time since ITP diagnosis: at least 6 months versus at lea
 During the trials, doses could be increased every 2 weeks to a maximum of 75 mg once daily.
 The dose of PROMACTA was reduced if the platelet count exceeded 200 x 109/L and interrupted and reduced if it exceeded 400 x 109/L.
 
-Trial 4: Patients refractory or relapsed to at least one prior ITP therapy with a platelet count less than 30 x 109/L (n = 92) were stratified by age and randomized (2:1) to PROMACTA (n = 63) or placebo (n = 29).
+In the PETIT2 study (NCT01520909), patients refractory or relapsed to at least one prior ITP therapy with a platelet count less than 30 x 109/L (n = 92) were stratified by age and randomized (2:1) to PROMACTA (n = 63) or placebo (n = 29).
 The starting dose for patients aged 6 to 17 years was 50 mg once daily for those at least 27 kg and 37.5 mg once daily for those less than 27 kg, administered as oral tablets.
 A reduced dose of 25 mg once daily was used for East Asian patients aged 6 to 17 years regardless of weight.
 The starting dose for patients aged 1 to 5 years was 1.2 mg/kg once daily (0.8 mg/kg once daily for East Asian patients) administered as oral suspension.
@@ -81,10 +81,10 @@ Approximately 62% of patients had a baseline platelet count less than or equal t
 The percentage of patients with at least 2 prior ITP therapies (predominantly corticosteroids and immunoglobulins) was 73% in the group treated with PROMACTA and 90% in the group treated with placebo.
 Four patients in the group treated with PROMACTA had undergone splenectomy.
 
-The efficacy of PROMACTA in this trial was evaluated by the proportion of subjects on PROMACTA achieving platelet counts ≥ 50 x 109/L (in the absence of rescue therapy) for at least 6 out of 8 weeks between Weeks 5 to 12 of the randomized, double-blind period (Table 12).
+The efficacy of PROMACTA in this trial was evaluated by the proportion of subjects on PROMACTA achieving platelet counts ≥ 50 x 109/L (in the absence of rescue therapy) for at least 6 out of 8 weeks between Weeks 5 to 12 of the randomized, double-blind period (Table 13).
 
-Table 12.
-Trial 4 Platelet Count Response (≥ 50 x 109/L without Rescue) for 6 out of 8 Weeks (between Weeks 5 to 12) Overall and by Age Cohort in Pediatric Patients 1 Year and Older with Chronic Immune (Idiopathic) Thrombocytopenia
+Table 13.
+PETIT2: Platelet Count Response (≥ 50 x 109/L without Rescue) for 6 out of 8 Weeks (between Weeks 5 to 12) Overall and by Age Cohort in Pediatric Patients 1 Year and Older with Chronic Immune Thrombocytopenia
 
 | Age Cohort | PROMACTA | Placebo |
 | --- | --- | --- |
@@ -101,7 +101,7 @@ In the patients who achieved a platelet response (≥ 50 x 109/L without rescue)
 Patients were permitted to reduce or discontinue baseline ITP therapy only during the open-label phase of the trial.
 Among 15 patients receiving other ITP therapy at baseline, 53% (8/15) reduced (n = 1) or discontinued (n = 7) concomitant therapy, mainly corticosteroids, without needing rescue therapy.
 
-Trial 5: Patients refractory or relapsed to at least one prior ITP therapy with a platelet count less than 30 x 109/L (n = 67) were stratified by age and randomized (2:1) to PROMACTA (n = 45) or placebo (n = 22).
+In the PETIT study (NCT00908037), patients refractory or relapsed to at least one prior ITP therapy with a platelet count less than 30 x 109/L (n = 67) were stratified by age and randomized (2:1) to PROMACTA (n = 45) or placebo (n = 22).
 The starting dose for patients aged 12 to 17 years was 37.5 mg once daily regardless of weight or race.
 The starting dose for patients aged 6 to 11 years was 50 mg once daily for those greater than or equal to 27 kg and 25 mg once daily for those less than 27 kg, administered as oral tablets.
 Reduced doses of 25 mg (for those greater than or equal to 27 kg) and 12.5 mg (for those less than 27 kg), each once daily, were used for East Asian patients in this age range.
@@ -114,11 +114,11 @@ Approximately 51% of patients had a baseline platelet count less than or equal t
 The percentage of patients with at least 2 prior ITP therapies (predominantly corticosteroids and immunoglobulins) was 84% in the group treated with PROMACTA and 86% in the group treated with placebo.
 Five patients in the group treated with PROMACTA had undergone splenectomy.
 
-The efficacy of PROMACTA in this trial was evaluated by the proportion of patients achieving platelet counts greater than or equal to 50 x 109/L (in absence of rescue therapy) at least once between Weeks 1 and 6 of the randomized, double-blind period (Table 13).
+The efficacy of PROMACTA in this trial was evaluated by the proportion of patients achieving platelet counts greater than or equal to 50 x 109/L (in absence of rescue therapy) at least once between Weeks 1 and 6 of the randomized, double-blind period (Table 14).
 Platelet response to PROMACTA was consistent across the age cohorts.
 
-Table 13.
-Trial 5 Platelet Count Response (≥ 50 x 109/L without Rescue) Rates in Pediatric Patients 1 Year and Older with Chronic Immune (Idiopathic) Thrombocytopenia
+Table 14.
+PETIT: Platelet Count Response (≥ 50 x 109/L without Rescue) Rates in Pediatric Patients 1 Year and Older with Chronic Immune Thrombocytopenia
 
 |  | PROMACTA | Placebo |
 | --- | --- | --- |
@@ -136,7 +136,7 @@ Among 13 patients receiving other ITP therapy at baseline, 46% (6/13) reduced (n
 ## 14.2 Chronic Hepatitis C-associated Thrombocytopenia
 
 The efficacy and safety of PROMACTA for the treatment of thrombocytopenia in adult patients with chronic hepatitis C were evaluated in two randomized, double-blind, placebo-controlled trials.
-Trial 1 utilized peginterferon alfa-2a (PEGASYS®) plus ribavirin for antiviral treatment and Trial 2 utilized peginterferon alfa-2b (PEGINTRON®) plus ribavirin.
+The ENABLE1 study (NCT00516321) utilized peginterferon alfa-2a (PEGASYS®) plus ribavirin for antiviral treatment and the ENABLE2 study (NCT00529568) utilized peginterferon alfa-2b (PEGINTRON®) plus ribavirin.
 In both trials, patients with a platelet count of less than 75 x 109/L were enrolled and stratified by platelet count, screening HCV RNA, and HCV genotype.
 Patients were excluded if they had evidence of decompensated liver disease with Child-Pugh score greater than 6 (class B and C), history of ascites, or hepatic encephalopathy.
 The median age of the patients in both trials was 52 years, 63% were male, and 74% were Caucasian.
@@ -147,7 +147,7 @@ A similar proportion (95%) of patients in both treatment groups had Child-Pugh C
 A similar proportion of patients (2%) in both treatment groups had baseline international normalized ratio (INR) greater than 1.7.
 Median baseline platelet counts (approximately 60 x 109/L) were similar in both treatment groups.
 The trials consisted of 2 phases – a pre-antiviral treatment phase and an antiviral treatment phase.
-In the pre-antiviral treatment phase, patients received open-label PROMACTA to increase the platelet count to a threshold of greater than or equal to 90 x 109/L for Trial 1 and greater than or equal to 100 x 109/L for Trial 2.
+In the pre-antiviral treatment phase, patients received open-label PROMACTA to increase the platelet count to a threshold of greater than or equal to 90 x 109/L for ENABLE1 and greater than or equal to 100 x 109/L for ENABLE2.
 PROMACTA was administered at an initial dose of 25 mg once daily for 2 weeks and increased in 25-mg increments over 2- to 3-week periods to achieve the optimal platelet count to initiate antiviral therapy.
 The maximal time patients could receive open-label PROMACTA was 9 weeks.
 If threshold platelet counts were achieved, patients were randomized (2:1) to the same dose of PROMACTA at the end of the pre-treatment phase or to placebo.
@@ -157,14 +157,14 @@ The efficacy of PROMACTA for both trials was evaluated by sustained virologic re
 The median time to achieve the target platelet count greater than or equal to 90 x 109/L was approximately 2 weeks.
 Ninety-five percent of patients were able to initiate antiviral therapy.
 
-In both trials, a significantly greater proportion of patients treated with PROMACTA achieved SVR (see Table 14).
+In both trials, a significantly greater proportion of patients treated with PROMACTA achieved SVR (see Table 15).
 The improvement in the proportion of patients who achieved SVR was consistent across subgroups based on baseline platelet count (less than 50 x 109/L versus greater than or equal to 50 x 109/L).
 In patients with high baseline viral loads (greater than or equal to 800,000), the SVR rate was 18% (82/452) for PROMACTA versus 8% (20/239) for placebo.
 
-Table 14.
-Trials 1 and 2 Sustained Virologic Response (SVR) in Adults with Chronic Hepatitis C
+Table 15.
+ENABLE1 and ENABLE2: Sustained Virologic Response (SVR) in Adults with Chronic Hepatitis C
 
-|  | Trial 1a |  | Trial 2b |  |
+|  | ENABLE1a |  | ENABLE2b |  |
 | --- | --- | --- | --- | --- |
 | Pre-antiviral Treatment Phase | N = 715 |  | N = 805 |  |
 | % Patients who achieved target platelet counts and initiated antiviral therapyc | 95% |  | 94% |  |
@@ -172,14 +172,14 @@ Trials 1 and 2 Sustained Virologic Response (SVR) in Adults with Chronic Hepatit
 | Overall SVRd | 23 | 14 | 19 | 13 |
 | HCV Genotype 2,3 | 35 | 24 | 34 | 25 |
 | HCV Genotype 1,4,6 | 18 | 10 | 13 | 7 |
-| a PROMACTA given in combination with peginterferon alfa-2a (180 mcg once weekly for 48 weeks for genotypes 1/4/6; 24 weeks for genotype 2 or 3) plus ribavirin (800 to 1,200 mg daily in 2 divided doses orally) b PROMACTA given in combination with peginterferon alfa-2b (1.5 mcg/kg once weekly for 48 weeks for genotypes 1/4/6; 24 weeks for genotype 2 or 3) plus ribavirin (800 to 1,400 mg daily in 2 divided doses orally) c Target platelet count was ≥ 90 x 109/L for Trial 1 and ≥ 100 x 109/L for Trial 2 d p-value < 0.05 for PROMACTA versus placebo |  |  |  |  |
+| a PROMACTA given in combination with peginterferon alfa-2a (180 mcg once weekly for 48 weeks for genotypes 1/4/6; 24 weeks for genotype 2 or 3) plus ribavirin (800 to 1,200 mg daily in 2 divided doses orally) b PROMACTA given in combination with peginterferon alfa-2b (1.5 mcg/kg once weekly for 48 weeks for genotypes 1/4/6; 24 weeks for genotype 2 or 3) plus ribavirin (800 to 1,400 mg daily in 2 divided doses orally) c Target platelet count was ≥ 90 x 109/L for ENABLE1 and ≥ 100 x 109/L for ENABLE2 d p-value < 0.05 for PROMACTA versus placebo |  |  |  |  |
 
 The majority of patients treated with PROMACTA (76%) maintained a platelet count greater than or equal to 50 x 109/L compared with 19% for placebo.
 A greater proportion of patients on PROMACTA did not require any antiviral dose reduction as compared with placebo (45% versus 27%).
 
 ## 14.3 Severe Aplastic Anemia
 
-PROMACTA was studied in a single-arm, single-center, open-label trial in 43 patients with severe aplastic anemia who had an insufficient response to at least one prior immunosuppressive therapy and who had a platelet count less than or equal to 30 x 109/L.
+PROMACTA was studied in a single-arm, single-center, open-label trial (Study ETB115AUS28T, referred to as Study US28T [NCT00922883]) in 43 patients with severe aplastic anemia who had an insufficient response to at least one prior immunosuppressive therapy and who had a platelet count less than or equal to 30 x 109/L.
 PROMACTA was administered at an initial dose of 50 mg once daily for 2 weeks and increased over 2-week periods up to a maximum dose of 150 mg once daily.
 The efficacy of PROMACTA in the study was evaluated by the hematologic response assessed after 12 weeks of treatment.
 Hematologic response was defined as meeting 1 or more of the following criteria: 1) platelet count increases to 20 x 109/L above baseline, or stable platelet counts with transfusion independence for a minimum of 8 weeks; 2) hemoglobin increase by greater than 1.5 g/dL, or a reduction in greater than or equal to 4 units of RBC transfusions for 8 consecutive weeks; 3) ANC increase of 100% or an ANC increase greater than 0.5 x 109/L.
@@ -192,10 +192,10 @@ Eighty-six percent of patients were RBC transfusion dependent and 91% were plate
 The majority of patients (84%) received at least 2 prior immunosuppressive therapies.
 Three patients had cytogenetic abnormalities at baseline.
 
-Table 15 presents the efficacy results.
+Table 16 presents the efficacy results.
 
-Table 15.
-Hematologic Response in Patients with Severe Aplastic Anemia
+Table 16.
+Study US28T: Hematologic Response in Patients with Severe Aplastic Anemia
 
 | Outcome | PROMACTAN = 43 |
 | --- | --- |

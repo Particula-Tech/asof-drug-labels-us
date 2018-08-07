@@ -35,6 +35,10 @@ Drug Interactions
 
 - Advise patients to take PROMACTA at least 2 hours before or 4 hours after foods, mineral supplements, and antacids which contain polyvalent cations such as iron, calcium, aluminum, magnesium, selenium, and zinc [see Dosage and Administration (2.4), Drug Interactions (7.1)].
 
+Lactation
+
+- Advise women not to breastfeed during treatment with PROMACTA [see Use in Specific Populations (8.2)].
+
 Administration of PROMACTA
 
 - For patients with chronic ITP, therapy with PROMACTA is administered to achieve and maintain a platelet count greater than or equal to 50 x 109/L as necessary to reduce the risk for bleeding [see Indications and Usage (1.1)].

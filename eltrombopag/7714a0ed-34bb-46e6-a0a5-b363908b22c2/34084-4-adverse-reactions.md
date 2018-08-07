@@ -12,7 +12,7 @@ The following serious adverse reactions associated with PROMACTA are described i
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Chronic Immune (Idiopathic) Thrombocytopenia: Adults: In clinical trials, hemorrhage was the most common serious adverse reaction and most hemorrhagic reactions followed discontinuation of PROMACTA.
+Chronic Immune Thrombocytopenia: Adults: In clinical trials, hemorrhage was the most common serious adverse reaction and most hemorrhagic reactions followed discontinuation of PROMACTA.
 Other serious adverse reactions included thrombotic/thromboembolic complications [see Warnings and Precautions (5.4)].
 The data described below reflect exposure of PROMACTA to patients with chronic ITP aged 18 to 85 years, of whom 66% were female, in three placebo-controlled trials and one open-label extension trial [see Clinical Studies (14.1)].
 PROMACTA was administered to 330 patients for at least 6 months and 218 patients for at least 1 year.
@@ -20,7 +20,7 @@ PROMACTA was administered to 330 patients for at least 6 months and 218 patients
 Table 4 presents the most common adverse drug reactions (experienced by greater than or equal to 3% of patients receiving PROMACTA) from the three placebo-controlled trials, with a higher incidence in PROMACTA versus placebo.
 
 Table 4.
-Adverse Reactions (≥ 3%) from Three Placebo-controlled Trials in Adults with Chronic Immune (Idiopathic) Thrombocytopenia
+Adverse Reactions (≥ 3%) from Three Placebo-controlled Trials in Adults with Chronic Immune Thrombocytopenia
 
 | Adverse Reaction | PROMACTA 50 mg n = 241(%) | Placebon = 128(%) |
 | --- | --- | --- |
@@ -28,9 +28,9 @@ Adverse Reactions (≥ 3%) from Three Placebo-controlled Trials in Adults with C
 | Diarrhea | 9 | 7 |
 | Upper respiratory tract infection | 7 | 6 |
 | Vomiting | 6 | < 1 |
+| Urinary tract infectiona | 5 | 4 |
 | Increased ALT | 5 | 3 |
 | Myalgia | 5 | 2 |
-| Urinary tract infection | 5 | 3 |
 | Oropharyngeal pain | 4 | 3 |
 | Increased AST | 4 | 2 |
 | Pharyngitis | 4 | 2 |
@@ -38,6 +38,7 @@ Adverse Reactions (≥ 3%) from Three Placebo-controlled Trials in Adults with C
 | Influenza | 3 | 2 |
 | Paresthesia | 3 | 2 |
 | Rash | 3 | 2 |
+| a Includes PTs of Urinary tract infection, Cystitis, Urinary tract infection bacterial, and Bacteruria |  |  |
 
 In the three controlled clinical chronic ITP trials, alopecia, musculoskeletal pain, blood alkaline phosphatase increased, and dry mouth were the adverse reactions reported in 2% of patients treated with PROMACTA and in no patients who received placebo.
 
@@ -45,7 +46,7 @@ Among 302 patients with chronic ITP who received PROMACTA in the single-arm exte
 Table 5 presents the most common treatment-related adverse reactions (experienced by greater than or equal to 3% of patients receiving PROMACTA) from the extension trial.
 
 Table 5.
-Treatment-related Adverse Reactions (≥ 3%) from Extension Trial in Adults with Chronic Immune (Idiopathic) Thrombocytopenia
+Treatment-related Adverse Reactions (≥ 3%) from Extension Trial in Adults with Chronic Immune Thrombocytopenia
 
 | Adverse Reaction | PROMACTA 50 mg n = 302(%) |
 | --- | --- |
@@ -70,6 +71,9 @@ All patients had documented, preexisting risk factors for cataractogenesis inclu
 In the extension trial, cataracts developed or worsened in 11% of patients who underwent ocular examination prior to therapy with PROMACTA.
 Seventy-two percent of patients had preexisting risk factors, including corticosteroid use.
 
+The safety of PROMACTA was also assessed in all patients treated in 7 adult chronic ITP clinical trials (N=763 PROMACTA-treated patients and 179 placebo-treated patients).
+Thromboembolic events were reported in 6% of PROMACTA-treated patients versus 0% of placebo-treated patients and thrombotic microangiopathy with acute renal failure was reported in < 1% of PROMACTA-treated patients versus 0% of placebo-treated patients.
+
 In clinical trials in patients with chronic ITP, one patient treated with PROMACTA (< 1%) experienced drug-induced liver injury [see Warnings and Precautions (5.2)].
 
 In a placebo-controlled trial of PROMACTA in patients with chronic liver disease and thrombocytopenia not related to ITP, six patients treated with PROMACTA and one patient in the placebo group developed portal vein thromboses [see Warnings and Precautions (5.4)].
@@ -79,7 +83,7 @@ Pediatric Patients: The data described below reflect median exposure to PROMACTA
 Table 6 presents the most common adverse drug reactions (experienced by greater than or equal to 3% of pediatric patients 1 year and older receiving PROMACTA) across the two placebo-controlled trials, with a higher incidence for PROMACTA versus placebo.
 
 Table 6.
-Adverse Reactions (≥ 3%) with a Higher Incidence for PROMACTA versus Placebo from Two Placebo-controlled Trials in Pediatric Patients 1 Year and Older with Chronic Immune (Idiopathic) Thrombocytopenia
+Adverse Reactions (≥ 3%) with a Higher Incidence for PROMACTA versus Placebo from Two Placebo-controlled Trials in Pediatric Patients 1 Year and Older with Chronic Immune Thrombocytopenia
 
 |  | PROMACTA | Placebo |
 | --- | --- | --- |
@@ -90,7 +94,6 @@ Adverse Reactions (≥ 3%) with a Higher Incidence for PROMACTA versus Placebo f
 | Cough | 9 | 0 |
 | Diarrhea | 9 | 2 |
 | Pyrexia | 9 | 8 |
-| Rhinitis | 9 | 6 |
 | Abdominal pain | 8 | 4 |
 | Oropharyngeal pain | 8 | 2 |
 | Toothache | 6 | 0 |
@@ -119,14 +122,15 @@ Adverse Reactions (≥ 10% and Greater than Placebo) from Two Placebo-controlled
 | Diarrhea | 19 | 11 |
 | Decreased appetite | 18 | 14 |
 | Influenza-like illness | 18 | 16 |
+| Insomniaa | 16 | 15 |
 | Asthenia | 16 | 13 |
-| Insomnia | 16 | 15 |
 | Cough | 15 | 12 |
 | Pruritus | 15 | 13 |
 | Chills | 14 | 9 |
 | Myalgia | 12 | 10 |
 | Alopecia | 10 | 6 |
 | Peripheral edema | 10 | 5 |
+| a Includes PTs of Insomnia, Initial insomnia, and Poor quality sleep |  |  |
 
 Rash was reported in 9% and 7% of patients receiving PROMACTA and placebo, respectively.
 
@@ -135,6 +139,9 @@ Total bilirubin greater than or equal to 1.5 x ULN was reported in 76% and 50% o
 ALT or AST greater than or equal to 3 x ULN was reported in 34% and 38% of patients for PROMACTA and placebo, respectively.
 
 In the two controlled clinical trials in patients with chronic hepatitis C, cataracts developed or worsened in 8% of patients treated with PROMACTA and 5% of patients treated with placebo.
+
+The safety of PROMACTA was also assessed in all patients treated with PROMACTA in the two controlled trials, including patients who initially received PROMACTA in the pre-antiviral treatment phase of the trial and were later randomized to the placebo arm (N = 1520 PROMACTA-treated patients).
+Hepatic failure was reported in 0.8% of PROMACTA-treated patients and 0.4% of placebo-treated patients.
 
 In clinical trials in patients with chronic hepatitis C, 11 patients treated with PROMACTA (1%) experienced drug-induced liver injury [see Warnings and Precautions (5.2)].
 
@@ -153,19 +160,19 @@ Adverse Reactions (≥ 10%) from One Open-label Trial in Adults with Severe Apla
 | Diarrhea | 21 |
 | Headache | 21 |
 | Pain in extremity | 19 |
-| Dyspnea | 14 |
 | Pyrexia | 14 |
 | Dizziness | 14 |
 | Oropharyngeal pain | 14 |
-| Febrile neutropenia | 14 |
 | Abdominal pain | 12 |
-| Ecchymosis | 12 |
 | Muscle spasms | 12 |
 | Transaminases increased | 12 |
 | Arthralgia | 12 |
 | Rhinorrhea | 12 |
 
-Rash was reported in 7% of patients; cataract was reported in 2% of patients.
+Rash and hyperbilirubinemia were reported in 7% of patients; cataract was reported in 2% of patients.
+
+In this trial, concurrent ALT or AST greater than 3 x ULN with total bilirubin greater than 1.5 x ULN were reported in 5% of patients.
+Total bilirubin greater than 1.5 x ULN occurred in 14% of patients.
 
 In this trial, patients had bone marrow aspirates evaluated for cytogenetic abnormalities.
 Eight patients had a new cytogenetic abnormality reported on therapy, including 5 patients who had complex changes in chromosome 7.
@@ -174,7 +181,5 @@ Eight patients had a new cytogenetic abnormality reported on therapy, including 
 
 The following adverse reactions have been identified during post approval use of PROMACTA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate the frequency or establish a causal relationship to drug exposure.
-
-Vascular Disorders: Thrombotic microangiopathy with acute renal failure.
 
 Skin and Subcutaneous Tissue Disorders: Skin discoloration including hyperpigmentation and skin yellowing.

@@ -11,9 +11,11 @@ Eltrombopag olamine has the following structural formula:
 
 Eltrombopag olamine is practically insoluble in aqueous buffer across a pH range of 1 to 7.4, and is sparingly soluble in water.
 
-PROMACTA (eltrombopag) tablets contain eltrombopag olamine in the amount equivalent to 12.5 mg, 25 mg, 50 mg, 75 mg, or 100 mg of eltrombopag free acid.
-The inactive ingredients of PROMACTA tablets are: Tablet Core: magnesium stearate, mannitol, microcrystalline cellulose, povidone, and sodium starch glycolate.
-Coating: hypromellose (12.5-mg, 25-mg, 50-mg, and 75-mg tablets) or polyvinyl alcohol and talc (100-mg tablet), polyethylene glycol 400, titanium dioxide, polysorbate 80 (12.5-mg tablet), FD&C Yellow No. 6 aluminum lake (25-mg tablet), FD&C Blue No. 2 aluminum lake (50-mg tablet), Iron Oxide Red and Iron Oxide Black (75-mg tablet), or Iron Oxide Yellow and Iron Oxide Black (100-mg tablet).
+PROMACTA (eltrombopag) tablets contain eltrombopag olamine in the amount equivalent to 12.5 mg, 25 mg, 50 mg, or 75 mg of eltrombopag free acid.
+The inactive ingredients of PROMACTA tablets are:
+
+Tablet Core: magnesium stearate, mannitol, microcrystalline cellulose, povidone, and sodium starch glycolate.
+Coating: hypromellose, polyethylene glycol 400, titanium dioxide, polysorbate 80 (12.5-mg tablet), FD&C Yellow No. 6 aluminum lake (25-mg tablet), FD&C Blue No. 2 aluminum lake (50-mg tablet), or Iron Oxide Red and Iron Oxide Black (75-mg tablet).
 
 PROMACTA (eltrombopag) for oral suspension packets contain a reddish-brown to yellow powder which produces a reddish-brown suspension when reconstituted with water.
 Each 25-mg packet delivers eltrombopag olamine equivalent to 25 mg of eltrombopag free acid.
