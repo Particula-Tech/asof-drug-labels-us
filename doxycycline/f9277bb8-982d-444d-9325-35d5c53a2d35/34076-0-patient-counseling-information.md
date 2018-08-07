@@ -14,7 +14,7 @@ Advise all patients taking DORYX MPC:
 
 - to avoid excessive sunlight or artificial ultraviolet light while receiving doxycycline and to discontinue therapy if phototoxicity (for example, skin eruptions, etc.) occurs.
   Sunscreen or sunblock should be considered [see Warnings and Precautions (5.3)]
-- to drink fluids liberally along with DORYX MPC to reduce the risk of esophageal irritation and ulceration [see Adverse Reactions (6.1)]
+- to drink fluids liberally along with DORYX MPC to reduce the risk of esophageal irritation and ulceration [see Adverse Reactions (6)]
 - that the absorption of tetracyclines is reduced when taken with foods, especially those that contain calcium.
   [see Drug Interactions (7.3)]
 - that if gastric irritation occurs, DORYX MPC may be given with food or milk [see Clinical Pharmacology (12.3)]

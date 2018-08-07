@@ -7,20 +7,19 @@
 - Do not chew or crush tablets.
 - The recommended dosage, frequency of administration and weight-based dosage recommendations of DORYX MPC differ from that of the other tetracyclines [see Dosage and Administration (2.2, 2.3, 2.4)].
   Exceeding the recommended dosage may result in an increased incidence of adverse reactions.
-- Administer DORYX MPC with an adequate amount of fluid to wash down the drug and reduce the risk of esophageal irritation and ulceration [see Adverse Reactions (6.1)].
+- Administer DORYX MPC with an adequate amount of fluid to wash down the drug and reduce the risk of esophageal irritation and ulceration [see Adverse Reactions (6)].
 - If gastric irritation occurs, DORYX MPC may be given with food or milk [see Clinical Pharmacology (12.3)].
 
 ## 2.2 Switching from DORYX to DORYX MPC
 
 When switching from DORYX to DORYX MPC:
 
-- A 60 mg dose of DORYX MPC will replace a 50 mg dose of DORYX
 - A 120 mg dose of DORYX MPC will replace a 100 mg dose of DORYX
 
 ## 2.3 Dosage in Adult Patients
 
 - The usual dosage of DORYX MPC is 240 mg on the first day of treatment (administered 120 mg every 12 hours) followed by a maintenance dose of 120 mg daily.
-  The maintenance dose may be administered as a single dose or as 60 mg every 12 hours.
+  The maintenance dose may be administered as a single dose.
 - In the management of more severe infections (particularly chronic infections of the urinary tract), 120 mg every 12 hours is recommended.
 - For certain selected specific indications, the recommended duration or dosage and duration of DORYX MPC in adult patients are as follows:
   1. Streptococcal infections, therapy should be continued for 10 days.

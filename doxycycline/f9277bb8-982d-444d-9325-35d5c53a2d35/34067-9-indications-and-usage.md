@@ -23,9 +23,9 @@ DORYX MPC is indicated for treatment of the following respiratory tract infectio
 - Psittacosis (ornithosis) caused by Chlamydophila psittaci.
 - Because many strains of the following groups of microorganisms have been shown to be resistant to doxycycline, culture and susceptibility testing are recommended.
 - Doxycycline is indicated for treatment of infections caused by the following microorganisms, when bacteriological testing indicates appropriate susceptibility to the drug:
-  - –Respiratory tract infections caused by Haemophilus influenzae.
-  - –Respiratory tract infections caused by Klebsiella species.
-  - –Upper respiratory infections caused by Streptococcus pneumoniae.
+  - – Respiratory tract infections caused by Haemophilus influenzae.
+  - – Respiratory tract infections caused by Klebsiella species.
+  - – Upper respiratory infections caused by Streptococcus pneumoniae.
 
 ## 1.4 Specific Bacterial Infections
 

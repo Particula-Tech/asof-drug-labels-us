@@ -11,7 +11,7 @@ Doxycycline has a high degree of lipid solubility and a low affinity for calcium
 It is highly stable in normal human serum.
 Doxycycline will not degrade into an epianhydro form.
 
-Each tablet contains doxycycline 60 mg or 120 mg (equivalent to doxycycline hyclate 69.4 mg or 138.8 mg).
+Each tablet contains doxycycline 120 mg (equivalent to doxycycline hyclate 138.8 mg).
 Inactive ingredients in the tablet formulation are: lactose monohydrate; microcrystalline cellulose; sodium lauryl sulfate; sodium chloride; talc; anhydrous lactose; corn starch; crospovidone; magnesium stearate; cellulosic polymer coating.
 
-Each DORYX MPC 60 mg Tablet contains 3.6 mg (0.157 mEq) of sodium and each DORYX MPC 120 mg Tablet contains 7.2 mg (0.313 mEq) of sodium.
+Each DORYX MPC 120 mg Tablet contains 7.2 mg (0.313 mEq) of sodium.
