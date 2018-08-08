@@ -13,7 +13,7 @@ In managing overdose, consider the possibilities of multiple-drug interactions, 
 
 Laboratory determinations of serum levels of irbesartan are not widely available, and such determinations have, in any event, no established role in the management of irbesartan overdose.
 
-Acute oral toxicity studies with irbesartan in mice and rats indicated acute lethal doses were in excess of 2000 mg/kg, about 25- and 50-fold the MRHD (300 mg) on a mg/m2 basis, respectively.
+Acute oral toxicity studies with irbesartan in mice and rats indicated acute lethal doses were in excess of 2000 mg/kg, about 25-fold and 50-fold the MRHD (300 mg) on a mg/m2 basis, respectively.
 
 Hydrochlorothiazide
 

@@ -107,15 +107,15 @@ The incidences of the pre-specified adverse events on AVALIDE and irbesartan, re
 The rates of discontinuation due to adverse events were 2.1% and 2.2%.
 [See Clinical Studies (14.2).]
 
-## 6.2 Post-Marketing Experience
+## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of AVALIDE.
+The following adverse reactions have been identified during postapproval use of AVALIDE.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to AVALIDE.
 
-The following have been very rarely reported with irbesartan and hydrochlorothiazide monotherapy: urticaria, jaundice, hepatitis, thrombocytopenia, and impaired renal function including renal failure.
+The following have been very rarely reported with irbesartan and hydrochlorothiazide monotherapies: urticaria, jaundice, hepatitis, thrombocytopenia, and impaired renal function including renal failure.
 
-The following have been reported with irbesartan monotherapy: tinnitus, hyperkalemia, angioedema (involving swelling of the face, lips, pharynx, and/or tongue), and increased CPK.
+The following have been reported with irbesartan monotherapy: tinnitus, hyperkalemia, angioedema (involving swelling of the face, lips, pharynx, and/or tongue), anaphylactic reaction including anaphylactic shock, and increased CPK.
 
 The following have been reported with hydrochlorothiazide monotherapy: secondary acute angle-closure glaucoma and/or acute myopia.
 

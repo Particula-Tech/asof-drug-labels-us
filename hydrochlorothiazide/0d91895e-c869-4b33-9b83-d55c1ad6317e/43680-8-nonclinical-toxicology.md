@@ -7,7 +7,7 @@ Irbesartan-Hydrochlorothiazide
 No carcinogenicity studies have been conducted with the irbesartan-hydrochlorothiazide combination.
 
 Irbesartan-hydrochlorothiazide was not mutagenic in standard in vitro tests (Ames microbial test and Chinese hamster mammalian-cell forward gene-mutation assay).
-Irbesartan-hydrochlorothiazide was negative in tests for induction of chromosomal aberrations (in vitro—human lymphocyte assay; in vivo—mouse micronucleus study).
+Irbesartan-hydrochlorothiazide was negative in tests for induction of chromosomal aberrations (in vitro–human lymphocyte assay; in vivo–mouse micronucleus study).
 
 The combination of irbesartan and hydrochlorothiazide has not been evaluated in definitive studies of fertility.
 
@@ -18,7 +18,7 @@ For male and female rats, 500 mg/kg/day provided an average systemic exposure to
 For male and female mice, 1000 mg/kg/day provided an exposure to irbesartan about 3 and 5 times, respectively, the human exposure at 300 mg/day.
 
 Irbesartan was not mutagenic in a battery of in vitro tests (Ames microbial test, rat hepatocyte DNA repair test, V79 mammalian-cell forward gene-mutation assay).
-Irbesartan was negative in several tests for induction of chromosomal aberrations (in vitro—human lymphocyte assay; in vivo—mouse micronucleus study).
+Irbesartan was negative in several tests for induction of chromosomal aberrations (in vitro–human lymphocyte assay; in vivo–mouse micronucleus study).
 
 Irbesartan had no adverse effects on fertility or mating of male or female rats at oral doses ≤650 mg/kg/day, the highest dose providing a systemic exposure to irbesartan (AUC0–24 hours, bound plus unbound) about 5 times that found in humans receiving the MRD of 300 mg/day.
 

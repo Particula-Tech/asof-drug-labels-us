@@ -4,7 +4,7 @@
 
 Irbesartan
 
-In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, coadministration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including irbesartan, may result in deterioration of renal function, including possible acute renal failure.
+In patients who are elderly, volume depleted (including those on diuretic therapy), or with compromised renal function, coadministration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including irbesartan, may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
 Therefore, monitor renal function and blood pressure periodically in patients receiving irbesartan and NSAID therapy.
 

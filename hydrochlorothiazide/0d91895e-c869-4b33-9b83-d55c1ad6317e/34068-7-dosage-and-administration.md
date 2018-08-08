@@ -11,11 +11,13 @@ AVALIDE may be administered with or without food.
 
 AVALIDE may be administered with other antihypertensive agents.
 
-Renal impairment.
+Renal Impairment
+
 The usual regimens of therapy with AVALIDE may be followed as long as the patient's creatinine clearance is >30 mL/min.
 In patients with more severe renal impairment, loop diuretics are preferred to thiazides, so AVALIDE is not recommended.
 
-Hepatic impairment.
+Hepatic Impairment
+
 No dosage adjustment is necessary in patients with hepatic impairment.
 
 ## 2.2 Add-On Therapy
@@ -31,5 +33,5 @@ AVALIDE may be substituted for the titrated components.
 ## 2.4 Initial Therapy
 
 The usual starting dose is AVALIDE 150/12.5 mg once daily.
-The dosage can be increased after 1 to 2 weeks of therapy to a maximum of 300/25 mg once daily as needed to control blood pressure [see Clinical Studies (14.2)].
-AVALIDE is not recommended as initial therapy in patients with intravascular volume depletion [see Warnings and Precautions (5.2)].
+The dosage can be increased after 1 to 2 weeks of therapy to a maximum of 300/25 mg once daily as needed to control blood pressure [See Clinical Studies (14.2)].
+AVALIDE is not recommended as initial therapy in patients with intravascular volume depletion [See Warnings and Precautions (5.2)].

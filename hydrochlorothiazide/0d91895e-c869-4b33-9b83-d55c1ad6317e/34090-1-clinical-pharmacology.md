@@ -32,7 +32,7 @@ Irbesartan
 In healthy subjects, single oral irbesartan doses of up to 300 mg produced dose-dependent inhibition of the pressor effect of angiotensin II infusions.
 Inhibition was complete (100%) 4 hours following oral doses of 150 mg or 300 mg and partial inhibition was sustained for 24 hours (60% and 40% at 300 mg and 150 mg, respectively).
 
-In hypertensive patients, angiotensin II receptor inhibition following chronic administration of irbesartan causes a 1.5- to 2-fold rise in angiotensin II plasma concentration and a 2- to 3-fold increase in plasma renin levels.
+In hypertensive patients, angiotensin II receptor inhibition following chronic administration of irbesartan causes a 1.5-fold to 2-fold rise in angiotensin II plasma concentration and a 2-fold to 3-fold increase in plasma renin levels.
 Aldosterone plasma concentrations generally decline following irbesartan administration, but serum potassium levels are not significantly affected at recommended doses.
 
 In hypertensive patients, chronic oral doses of irbesartan (up to 300 mg) had no effect on glomerular filtration rate, renal plasma flow or filtration fraction.
@@ -51,9 +51,9 @@ Alcohol, barbiturates, or narcotics: Potentiation of orthostatic hypotension may
 
 Skeletal muscle relaxants: Possible increased responsiveness to muscle relaxants such as curare derivatives.
 
-Corticosteroids, ACTH— intensified electrolyte depletion, particularly hypokalemia.
+Corticosteroids, ACTH–intensified electrolyte depletion, particularly hypokalemia.
 
-Pressor amines (e.g., norepinephrine)— possible decreased response to pressor amines but not sufficient to preclude their use.
+Pressor amines (e.g., norepinephrine)–possible decreased response to pressor amines but not sufficient to preclude their use.
 
 ## 12.3 Pharmacokinetics
 
@@ -111,6 +111,8 @@ Hydrochlorothiazide
 
 Hydrochlorothiazide crosses the placental but not the blood-brain barrier and is excreted in breast milk.
 
+Specific Populations
+
 Pediatric
 
 Irbesartan-hydrochlorothiazide pharmacokinetics have not been investigated in patients <18 years of age.
@@ -130,14 +132,14 @@ Race
 
 In healthy black subjects, irbesartan AUC values were approximately 25% greater than whites; there were no differences in Cmax values.
 
-Renal Insufficiency
+Renal insufficiency
 
 The pharmacokinetics of irbesartan were not altered in patients with renal impairment or in patients on hemodialysis.
 Irbesartan is not removed by hemodialysis.
 No dosage adjustment is necessary in patients with mild to severe renal impairment unless a patient with renal impairment is also volume depleted.
 [See Warnings and Precautions (5.2).]
 
-Hepatic Insufficiency
+Hepatic insufficiency
 
 The pharmacokinetics of irbesartan following repeated oral administration were not significantly affected in patients with mild to moderate cirrhosis of the liver.
 No dosage adjustment is necessary in patients with hepatic insufficiency.
@@ -146,7 +148,7 @@ Drug-Drug Interactions
 
 No significant drug-drug pharmacokinetic (or pharmacodynamic) interactions have been found in interaction studies with hydrochlorothiazide, digoxin, warfarin, and nifedipine.
 
-In vitro studies show significant inhibition of the formation of oxidized irbesartan metabolites with the known cytochrome CYP 2C9 substrates/inhibitors sulphenazole, tolbutamide, and nifedipine.
+In vitro studies show significant inhibition of the formation of oxidized irbesartan metabolites with the known cytochrome CYP2C9 substrates/inhibitors sulphenazole, tolbutamide, and nifedipine.
 However, in clinical studies the consequences of concomitant irbesartan on the pharmacodynamics of warfarin were negligible.
 Concomitant nifedipine or hydrochlorothiazide had no effect on irbesartan pharmacokinetics.
 Based on in vitro data, no interaction would be expected with drugs whose metabolism is dependent upon cytochrome P450 isoenzymes 1A1, 1A2, 2A6, 2B6, 2D6, 2E1, or 3A4.

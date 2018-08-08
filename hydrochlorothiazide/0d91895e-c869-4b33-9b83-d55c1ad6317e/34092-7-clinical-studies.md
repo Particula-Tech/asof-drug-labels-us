@@ -2,19 +2,19 @@
 
 ## 14.1 Irbesartan Monotherapy
 
-The antihypertensive effects of irbesartan were examined in 7 major placebo-controlled, 8- to 12-week trials in patients with baseline diastolic blood pressures of 95 to 110 mmHg.
+The antihypertensive effects of irbesartan were examined in 7 major placebo-controlled, 8 to 12-week trials in patients with baseline diastolic blood pressures of 95 to 110 mmHg.
 Doses of 1 to 900 mg were included in these trials in order to fully explore the dose-range of irbesartan.
-These studies allowed a comparison of once- or twice-daily regimens at 150 mg/day, comparisons of peak and trough effects, and comparisons of response by gender, age, and race.
+These studies allowed a comparison of once or twice-daily regimens at 150 mg/day, comparisons of peak and trough effects, and comparisons of response by gender, age, and race.
 Two of the 7 placebo-controlled trials identified above and 2 additional placebo-controlled studies examined the antihypertensive effects of irbesartan and hydrochlorothiazide in combination.
 
 The 7 studies of irbesartan monotherapy included a total of 1915 patients randomized to irbesartan (1 to 900 mg) and 611 patients randomized to placebo.
-Once-daily doses of 150 to 300 mg provided statistically and clinically significant decreases in systolic and diastolic blood pressure with trough (24-hour post-dose) effects after 6 to 12 weeks of treatment compared to placebo, of about 8 to 10/5 to 6 mmHg and 8 to 12/5 to 8 mmHg, respectively.
+Once-daily doses of 150 to 300 mg provided statistically and clinically significant decreases in systolic and diastolic blood pressure with trough (24-hour post dose) effects after 6 to 12 weeks of treatment compared to placebo, of about 8 to 10/5 to 6 mmHg and 8 to 12/5 to 8 mmHg, respectively.
 No further increase in effect was seen at dosages greater than 300 mg.
 The dose-response relationships for effects on systolic and diastolic pressure are shown in Figures 3 and 4.
 
 Once-daily administration of therapeutic doses of irbesartan gave peak effects at around 3 to 6 hours and, in one continuous ambulatory blood pressure monitoring study, again around 14 hours.
 This was seen with both once-daily and twice-daily dosing.
-Trough-to-peak ratios for systolic and diastolic response were generally between 60% to 70%.
+Trough-to-peak ratios for systolic and diastolic response were generally between 60% and 70%.
 In a continuous ambulatory blood pressure monitoring study, once-daily dosing with 150 mg gave trough and mean 24-hour responses similar to those observed in patients receiving twice-daily dosing at the same total daily dose.
 
 Analysis of age, gender, and race subgroups of patients showed that men and women, and patients over and under 65 years of age, had generally similar responses.
@@ -39,11 +39,11 @@ Study III investigated the ambulatory blood pressure responses to irbesartan-hyd
 
 Study IV investigated the effects of the addition of irbesartan (75 or 150 mg) in patients not controlled (SeDBP 93–120 mmHg) on hydrochlorothiazide (25 mg) alone.
 In Studies I–III, the addition of irbesartan 150 to 300 mg to hydrochlorothiazide doses of 6.25, 12.5, or 25 mg produced further dose-related reductions in blood pressure at trough of 8 to 10 mmHg/3 to 6 mmHg, similar to those achieved with the same monotherapy dose of irbesartan.
-The addition of hydrochlorothiazide to irbesartan produced further dose-related reductions in blood pressure at trough (24 hours post-dose) of 5 to 6/2 to 3 mmHg (12.5 mg) and 7 to 11/4 to 5 mmHg (25 mg), also similar to effects achieved with hydrochlorothiazide alone.
-Once-daily dosing with 150 mg irbesartan and 12.5 mg hydrochlorothiazide, 300 mg irbesartan and 12.5 mg hydrochlorothiazide, or 300 mg irbesartan and 25 mg hydrochlorothiazide produced mean placebo-adjusted blood pressure reductions at trough (24 hours post-dosing) of about 13 to 15/7 to 9 mmHg, 14/9 to 12 mmHg, and 19 to 21/11 to 12 mmHg, respectively.
+The addition of hydrochlorothiazide to irbesartan produced further dose-related reductions in blood pressure at trough (24 hours post dose) of 5 to 6/2 to 3 mmHg (12.5 mg) and 7 to 11/4 to 5 mmHg (25 mg), also similar to effects achieved with hydrochlorothiazide alone.
+Once-daily dosing with 150 mg irbesartan and 12.5 mg hydrochlorothiazide, 300 mg irbesartan and 12.5 mg hydrochlorothiazide, or 300 mg irbesartan and 25 mg hydrochlorothiazide produced mean placebo-adjusted blood pressure reductions at trough (24 hours post dosing) of about 13 to 15/7 to 9 mmHg, 14/9 to 12 mmHg, and 19 to 21/11 to 12 mmHg, respectively.
 Peak effects occurred at 3 to 6 hours, with the trough-to-peak ratios >65%.
 
-In Study IV, the addition of irbesartan (75–150 mg) gave an additive effect (systolic/diastolic) at trough (24 hours post-dosing) of 11/7 mmHg.
+In Study IV, the addition of irbesartan (75–150 mg) gave an additive effect (systolic/diastolic) at trough (24 hours post dosing) of 11/7 mmHg.
 
 Initial Therapy
 
