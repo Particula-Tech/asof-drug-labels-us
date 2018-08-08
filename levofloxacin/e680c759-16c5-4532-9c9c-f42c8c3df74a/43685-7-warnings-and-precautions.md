@@ -35,13 +35,14 @@ Avoid fluoroquinolones, including levofloxacin, in patients who have previously 
 
 ## 5.4 Central Nervous System Effects
 
-Fluoroquinolones, including levofloxacin, have been associated with an increased risk of central nervous system (CNS) effects, including convulsions, toxic psychoses, increased intracranial pressure (including pseudotumor cerebri).
-Fluoroquinolones may also cause central nervous system stimulation which may lead to tremors, restlessness, anxiety, lightheadedness, confusion, hallucinations, paranoia, depression, nightmares, and insomnia.
-Suicidal thoughts and attempted or completed suicide may also occur, especially in patients with a medical history of depression, or an underlying risk factor for depression.
+Psychiatric Adverse Reactions Fluoroquinolones, including levofloxacin, have been associated with an increased risk of psychiatric adverse reactions, including: toxic psychoses, hallucinations, or paranoia; depression, or suicidal thoughts; anxiety, agitation, restlessness, or nervousness; confusion, delirium, disorientation, or disturbances in attention; insomnia or nightmares; memory impairment.
+Attempted or completed suicide have been reported, especially in patients with a medical history of depression, or an underlying risk factor for depression.
 These reactions may occur following the first dose.
 If these reactions occur in patients receiving levofloxacin, discontinue levofloxacin and institute appropriate measures.
+
+Central Nervous System Adverse Reactions of Seizures, Increased Intracranial Pressure, and Tremors Fluoroquinolones, including levofloxacin, have been associated with an increased risk of seizures (convulsions), increased intracranial pressure (including pseudotumor cerebri), tremors, and lightheadedness.
 As with other fluoroquinolones, levofloxacin should be used with caution in patients with a known or suspected central nervous system (CNS) disorder that may predispose them to seizures or lower the seizure threshold (e.g., severe cerebral arteriosclerosis, epilepsy) or in the presence of other risk factors that may predispose them to seizures or lower the seizure threshold (e.g., certain drug therapy, renal dysfunction).
-[see ADVERSE REACTIONS (6); DRUG INTERACTIONS (7.4, 7.5); PATIENT COUNSELING INFORMATION (17)].
+If these reactions occur in patients receiving levofloxacin, discontinue levofloxacin and institute appropriate measures [see ADVERSE REACTIONS (6); DRUG INTERACTIONS (7.4, 7.5); PATIENT COUNSELING INFORMATION (17)].
 
 ## 5.5 Exacerbation of Myasthenia Gravis
 
@@ -112,9 +113,10 @@ Other fluoroquinolones also produce similar erosions in the weight-bearing joint
 
 ## 5.12 Blood Glucose Disturbances
 
-As with other fluoroquinolones, disturbances of blood glucose, including symptomatic hyper- and hypoglycemia, have been reported with levofloxacin, usually in diabetic patients receiving concomitant treatment with an oral hypoglycemic agent (e.g., glyburide) or with insulin.
+Fluoroquinolones, including levofloxacin, have been associated with disturbances of blood glucose, including symptomatic hyperglycemia and hypoglycemia, usually in diabetic patients receiving concomitant treatment with an oral hypoglycemic agent (e.g., glyburide) or with insulin.
 In these patients, careful monitoring of blood glucose is recommended.
-If a hypoglycemic reaction occurs in a patient being treated with levofloxacin, levofloxacin should be discontinued and appropriate therapy should be initiated immediately [see ADVERSE REACTIONS (6.2); DRUG INTERACTIONS (7.3); PATIENT COUNSELING INFORMATION (17)].
+Severe cases of hypoglycemia resulting in coma or death have been reported.
+If a hypoglycemic reaction occurs in a patient being treated with levofloxacin, discontinue levofloxacin and initiate appropriate therapy immediately [see ADVERSE REACTIONS (6.2); DRUG INTERACTIONS (7.3); PATIENT COUNSELING INFORMATION (17)].
 
 ## 5.13 Photosensitivity/Phototoxicity
 
