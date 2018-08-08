@@ -6,5 +6,5 @@ In case of overdosage, the dosage should be reduced, frequency of administration
 
 There is no known specific antidote for desmopressin acetate or DDAVP Injection 4 mcg/mL.
 
-An oral LD50 has not been established.
+An oral LD 50 has not been established.
 An intravenous dose of 2 mg/kg in mice demonstrated no effect.

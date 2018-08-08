@@ -2,7 +2,7 @@
 
 NDC 0075-2451-53
 
-DDAVP® Injection
+DDAVP ® Injection
 
 desmopressin acetate
 

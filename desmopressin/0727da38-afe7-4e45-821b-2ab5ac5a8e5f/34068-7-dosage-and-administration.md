@@ -11,7 +11,7 @@ The necessity for repeat administration of DDAVP or use of any blood products fo
 The tendency toward tachyphylaxis (lessening of response) with repeated administration given more frequently than every 48 hours should be considered in treating each patient.
 
 Fluid restriction should be observed.
-(See WARNINGS,PRECAUTIONS, Pediatric Use and Geriatric Use.)
+(See WARNINGS, PRECAUTIONS, Pediatric Use and Geriatric Use.)
 
 ## Diabetes Insipidus
 
@@ -24,7 +24,7 @@ The morning and evening doses should be separately adjusted for an adequate diur
 For patients who have been controlled on intranasal DDAVP and who must be switched to the injection form, either because of poor intranasal absorption or because of the need for surgery, the comparable antidiuretic dose of the injection is about one-tenth the intranasal dose.
 
 Fluid restriction should be observed.
-(See WARNINGS,PRECAUTIONS, Pediatric Use and Geriatric Use.)
+(See WARNINGS, PRECAUTIONS, Pediatric Use and Geriatric Use.)
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
 
