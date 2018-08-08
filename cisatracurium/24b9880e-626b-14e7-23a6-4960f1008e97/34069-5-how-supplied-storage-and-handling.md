@@ -1,37 +1,16 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-NIMBEX injection, 2 mg cisatracurium per mL, is supplied in the following:
+NIMBEX (cisatracurium besylate) injection is a clear solution supplied as follows:
 
-| NDC# | Container | Size |
-| --- | --- | --- |
-| 0074-4378-24 | Single-dose Vial | 5 mL |
-| 0074-4380-79 | Multiple-dose Vial | 10 mL |
+| Strength (mg of cisatracurium) | Containers | NDC# | Preservative |
+| --- | --- | --- | --- |
+| 10 mg/5 mL (2 mg/mL) | Single-dose vials | 0074-4378-24 | Does not contain benzyl alcohol |
+| 20 mg/10 mL (2 mg/mL) | Multiple-dose vials | 0074-4380-79 | Contains 0.9% w/v benzyl alcohol [see Warnings and Precautions (5.2)] |
+| 200 mg/20 mL (10 mg/mL) | Single-dose vials | 0074-4382-91 | Does not contain benzyl alcohol |
 
-NOTE:10 mL Multiple-dose Vials contain 0.9% w/v benzyl alcohol as a preservative (see WARNINGS concerning newborn infants).
+Storage
 
-NIMBEX injection, 10 mg cisatracurium per mL is supplied in the following:
-
-| 0074-4382-91 | Single-dose Vial | 20 mL |
-| --- | --- | --- |
-
-Intended only for use in the ICU.
-
-## Storage
-
-NIMBEX injection should be refrigerated at 2° to 8°C (36° to 46°F) in the carton to preserve potency.
+Refrigerate NIMBEX at 2° to 8°C (36° to 46°F) in the carton to preserve potency.
 Protect from light.
 DO NOT FREEZE.
-Upon removal from refrigeration to room temperature storage conditions (25°C/77°F), use NIMBEX injection within 21 days even if rerefrigerated.
-
-Nimbex® is a registered trademark of GlaxoSmithKline, licensed for use by AbbVie Inc.
-
-PREMIERProRx® is a registered trademark of Premier Healthcare Alliance, L.P., used under license.
-
-Mfd.
-For: AbbVie Inc.
-
-North Chicago, IL 60064 USA
-
-©2017 AbbVie Inc.
-
-EN-5642 December, 2017
+Upon removal from refrigeration to room temperature storage conditions (25°C/77°F), use NIMBEX within 21 days, even if re-refrigerated.
