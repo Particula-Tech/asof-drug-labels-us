@@ -37,7 +37,7 @@ Because of the potential for adverse effects on the nursing infant, discontinue 
 ## 8.4 Pediatric Use
 
 In infants with histories of in utero exposure to an angiotensin II receptor antagonist observe for hypotension, oliguria, and hyperkalemia.
-If oliguria occurs, support blood pressure and renal perfusion.
+If oliguria occurs support blood pressure and renal perfusion.
 Exchange transfusion or dialysis may be required as means of reversing hypotension and/or substituting for disordered renal function.
 
 Irbesartan, in a study at a dose of up to 4.5 mg/kg/day, once daily, did not appear to lower blood pressure effectively in pediatric patients ages 6 to 16 years.

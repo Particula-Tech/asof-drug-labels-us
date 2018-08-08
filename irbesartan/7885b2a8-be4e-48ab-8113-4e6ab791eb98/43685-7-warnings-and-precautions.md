@@ -9,7 +9,7 @@ When pregnancy is detected, discontinue AVAPRO as soon as possible [see Use in S
 
 ## 5.2 Hypotension in Volume- or Salt-Depleted Patients
 
-In patients with an activated renin-angiotensin system, such as volume- or salt-depleted patients (e.g. those being treated with high doses of diuretics), symptomatic hypotension may occur after initialization of treatment with AVAPRO.
+In patients with an activated renin-angiotensin system, such as volume or salt-depleted patients (e.g. those being treated with high doses of diuretics), symptomatic hypotension may occur after initialization of treatment with AVAPRO.
 Correct volume or salt depletion prior to administration of AVAPRO or use a lower starting dose [see Dosage and Administration (2.4)].
 
 ## 5.3 Impaired Renal Function

@@ -19,7 +19,7 @@ Irbesartan does not inhibit ACE or renin or affect other hormone receptors or io
 In healthy subjects, single oral irbesartan doses of up to 300 mg produced dose-dependent inhibition of the pressor effect of angiotensin II infusions.
 Inhibition was complete (100%) 4 hours following oral doses of 150 mg or 300 mg and partial inhibition was sustained for 24 hours (60% and 40% at 300 mg and 150 mg, respectively).
 
-In hypertensive patients, angiotensin II receptor inhibition following chronic administration of irbesartan causes a 1.5- to 2-fold rise in angiotensin II plasma concentration and a 2- to 3-fold increase in plasma renin levels.
+In hypertensive patients, angiotensin II receptor inhibition following chronic administration of irbesartan causes a 1.5-fold to 2-fold rise in angiotensin II plasma concentration and a 2-fold to 3-fold increase in plasma renin levels.
 Aldosterone plasma concentrations generally decline following irbesartan administration, but serum potassium levels are not significantly affected at recommended doses.
 
 In hypertensive patients, chronic oral doses of irbesartan (up to 300 mg) had no effect on glomerular filtration rate, renal plasma flow, or filtration fraction.
@@ -79,17 +79,17 @@ Geriatrics
 In elderly subjects (age 65–80 years), irbesartan elimination half-life is not significantly altered, but AUC and Cmax values are about 20% to 50% greater than those of young subjects (age 18–40 years).
 No dosage adjustment is necessary in the elderly.
 
-Race/Ethnicity
+Race/ethnicity
 
 In healthy black subjects, irbesartan AUC values are approximately 25% greater than whites; there is no difference in Cmax values.
 
-Renal Impairment
+Renal impairment
 
-The pharmacokinetics of irbesartan are not altered in patients with renal impairment or in patients on hemodialysis.
+The pharmacokinetics of irbesartan is not altered in patients with renal impairment or in patients on hemodialysis.
 Irbesartan is not removed by hemodialysis.
 No dosage adjustment is necessary in patients with mild to severe renal impairment unless a patient with renal impairment is also volume depleted [see Warnings and Precautions (5.2) and Dosage and Administration (2.4)].
 
-Hepatic Insufficiency
+Hepatic insufficiency
 
 The pharmacokinetics of irbesartan following repeated oral administration are not significantly affected in patients with mild to moderate cirrhosis of the liver.
 No dosage adjustment is necessary in patients with hepatic insufficiency.
