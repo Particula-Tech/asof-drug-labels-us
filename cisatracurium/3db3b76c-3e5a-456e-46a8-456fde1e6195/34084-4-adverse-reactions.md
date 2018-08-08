@@ -1,47 +1,34 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-## Observed in Clinical Trials of Surgical Patients
+## 6.1 Clinical Studies Experience
 
-Adverse experiences were uncommon among the 945 surgical patients who received NIMBEX in conjunction with other drugs in US and European clinical studies in the course of a wide variety of procedures in patients receiving opioid, propofol, or inhalation anesthesia.
-The following adverse experiences were judged by investigators during the clinical trials to have a possible causal relationship to administration of NIMBEX:
+Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
-### Incidence Greater than 1%
+Adverse Reactions in Clinical Trials of NIMBEX in Surgical Patients
 
-None.
+The data presented below are based on studies involving 945 surgical patients who received NIMBEX in conjunction with other drugs in US and European clinical studies in a variety of procedures [see Clinical Studies (14.1)].
 
-### Incidence Less than 1%
+Table 3 displays adverse reactions that occurred at a rate of less than 1%.
 
-Cardiovascular
+Table 3.
+Adverse Reactions in Clinical Trials of NIMBEX in Surgical Patients
 
-bradycardia (0.4%) hypotension (0.2%) flushing (0.2%).
+| Adverse Reaction | Incidence |
+| --- | --- |
+| Bradycardia | 0.4% |
+| Hypotension | 0.2% |
+| Flushing | 0.2% |
+| Bronchospasm | 0.2% |
+| Rash | 0.1% |
 
-Respiratory
+Adverse Reactions in Clinical Trials of NIMBEX in Intensive Care Unit Patients
 
-bronchospasm (0.2%).
-
-Dermatological
-
-rash (0.1%).
-
-## Observed in Clinical Trials of Intensive Care Unit Patients
-
-Adverse experiences were uncommon among the 68 ICU patients who received NIMBEX in conjunction with other drugs in US and European clinical studies.
+The adverse reactions presented below were from studies involving 68 adult ICU patients who received NIMBEX in conjunction with other drugs in US and European clinical studies [see Clinical Studies (14.3)].
 One patient experienced bronchospasm.
-In one of the two ICU studies, a randomized and double-blind study of ICU patients using TOF neuromuscular monitoring, there were two reports of prolonged recovery (167 and 270 minutes) among 28 patients administered NIMBEX and 13 reports of prolonged recovery (range: 90 minutes to 33 hours) among 30 patients administered vecuronium.
+In one of the two ICU studies, a randomized and double-blind study of ICU patients using TOF neuromuscular monitoring, there were two reports of prolonged recovery (range: 167 and 270 minutes) among 28 patients administered NIMBEX and 13 reports of prolonged recovery (range: 90 minutes to 33 hours) among 30 patients administered vecuronium.
 
-## Observed During Clinical Practice
+## 6.2 Postmarketing Experience
 
-In addition to adverse events reported from clinical trials, the following events have been identified during post-approval use of cisatracurium besylate in conjunction with one or more anesthetic agents in clinical practice.
+The following events have been identified during post-approval use of NIMBEX in conjunction with one or more anesthetic agents in clinical practice.
 Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
-These events have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal connection to cisatracurium besylate.
-
-### General
-
-Histamine release, hypersensitivity reactions including anaphylactic or anaphylactoid reactions which in some cases have been life threatening and fatal.
-Because these reactions were reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency (see WARNINGS and PRECAUTIONS).
-There are rare reports of wheezing, laryngospasm, bronchospasm, rash and itching following administration of NIMBEX in children.
-These reported adverse events were not serious and their etiology could not be established with certainty.
-
-### Musculoskeletal
-
-Prolonged neuromuscular block, inadequate neuromuscular block, muscle weakness, and myopathy.
+These events have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal connection to NIMBEX: anaphylaxis, histamine release, prolonged neuromuscular block, muscle weakness, myopathy.

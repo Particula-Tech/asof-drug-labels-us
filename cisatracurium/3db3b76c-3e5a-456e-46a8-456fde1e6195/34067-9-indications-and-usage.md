@@ -1,3 +1,11 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-NIMBEX is an intermediate-onset/intermediate-duration neuromuscular blocking agent indicated for inpatients and outpatients as an adjunct to general anesthesia, to facilitate tracheal intubation, and to provide skeletal muscle relaxation during surgery or mechanical ventilation in the ICU.
+NIMBEX is indicated:
+
+- as an adjunct to general anesthesia to facilitate tracheal intubation in adults and in pediatric patients 1 month to 12 years of age
+- to provide skeletal muscle relaxation in adults during surgical procedures or during mechanical ventilation in the ICU
+- to provide skeletal muscle relaxation during surgical procedures via infusion in pediatric patients 2 years and older
+
+Limitations of Use
+
+NIMBEX is not recommended for rapid sequence endotracheal intubation due to the time required for its onset of action.
