@@ -2,7 +2,9 @@
 
 ZEMURON (rocuronium bromide) injection is available in the following:
 
-- ZEMURON 5 mL multiple dose vials containing 50 mg rocuronium bromide injection (10 mg/mL) Box of 10NDC 0052-0450-15
+ZEMURON multiple dose vials containing 50 mg/ 5 mL (10 mg/mL) rocuronium bromide injection
+
+- Box of 10 NDC 0052-0450-15
 
 The packaging of this product contains no natural rubber (latex).
 
@@ -11,5 +13,7 @@ DO NOT FREEZE.
 Upon removal from refrigeration to room temperature storage conditions (25°C/77°F), use ZEMURON within 60 days.
 Use opened vials of ZEMURON within 30 days.
 
-Safety and Handling: There is no specific work exposure limit for ZEMURON.
+Safety and Handling
+
+There is no specific work exposure limit for ZEMURON.
 In case of eye contact, flush with water for at least 10 minutes.

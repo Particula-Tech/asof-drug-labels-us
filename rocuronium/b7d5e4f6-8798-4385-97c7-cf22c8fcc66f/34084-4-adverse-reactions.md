@@ -5,9 +5,9 @@ In clinical trials, the most common adverse reactions (2%) are transient hypoten
 The following adverse reactions are described, or described in greater detail, in other sections:
 
 - Anaphylaxis [see Warnings and Precautions (5.2)]
-- Residual paralysis [see Warnings and Precautions (5.4)]
-- Myopathy [see Warnings and Precautions (5.5)]
-- Increased pulmonary vascular resistance [see Warnings and Precautions (5.11)]
+- Residual paralysis [see Warnings and Precautions (5.5)]
+- Myopathy [see Warnings and Precautions (5.6)]
+- Increased pulmonary vascular resistance [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -42,4 +42,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Immune system disorders: In clinical practice, there have been reports of severe allergic reactions (anaphylactic and anaphylactoid reactions and shock) with ZEMURON, including some that have been life-threatening and fatal [see Warnings and Precautions (5.2)].
 
-General disorders and administration site conditions: There have been reports of malignant hyperthermia with the use of ZEMURON [see Warnings and Precautions (5.6)].
+General disorders and administration site conditions: There have been reports of malignant hyperthermia with the use of ZEMURON [see Warnings and Precautions (5.7)].

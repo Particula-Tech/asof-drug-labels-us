@@ -2,4 +2,4 @@
 
 ZEMURON (rocuronium bromide) injection is available as
 
-- 5 mL multiple dose vials containing 50 mg rocuronium bromide injection (10 mg/mL)
+- 50 mg/5 mL (10 mg/mL), multiple dose vials

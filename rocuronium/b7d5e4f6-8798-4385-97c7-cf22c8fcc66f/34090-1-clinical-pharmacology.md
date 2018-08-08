@@ -83,7 +83,7 @@ The time to 80% or greater block and clinical duration as a function of dose are
 | --- |
 | Figure 2: Duration of Clinical Effect vs. Initial Dose of ZEMURON by Age Group (Median, 25th and 75th Percentile, and Individual Values) |
 
-The clinical durations for the first 5 maintenance doses, in patients receiving 5 or more maintenance doses are represented in Figure 3 [see Dosage and Administration (2.3)].
+The clinical durations for the first 5 maintenance doses, in patients receiving 5 or more maintenance doses are represented in Figure 3 [see Dosage and Administration (2.4)].
 
 | Figure 3: Duration of Clinical Effect vs. Number of ZEMURON Maintenance Doses, by Dose |
 | --- |
@@ -105,7 +105,9 @@ There were no reports of less than satisfactory clinical recovery of neuromuscul
 
 The neuromuscular blocking action of ZEMURON may be enhanced in the presence of potent inhalation anesthetics [see Drug Interactions (7.3)].
 
-Hemodynamics: There were no dose-related effects on the incidence of changes from baseline (30% or greater) in mean arterial blood pressure (MAP) or heart rate associated with ZEMURON administration over the dose range of 0.12 to 1.2 mg/kg (4 × ED95) within 5 minutes after ZEMURON administration and prior to intubation.
+Hemodynamics
+
+There were no dose-related effects on the incidence of changes from baseline (30% or greater) in mean arterial blood pressure (MAP) or heart rate associated with ZEMURON administration over the dose range of 0.12 to 1.2 mg/kg (4 × ED95) within 5 minutes after ZEMURON administration and prior to intubation.
 Increases or decreases in MAP were observed in 2% to 5% of geriatric and other adult patients, and in about 1% of pediatric patients.
 Heart rate changes (30% or greater) occurred in 0% to 2% of geriatric and other adult patients.
 Tachycardia (30% or greater) occurred in 12 of 127 pediatric patients.
@@ -114,18 +116,22 @@ In US studies, laryngoscopy and tracheal intubation following ZEMURON administra
 Animal studies have indicated that the ratio of vagal:neuromuscular block following ZEMURON administration is less than vecuronium but greater than pancuronium.
 The tachycardia observed in some patients may result from this vagal blocking activity.
 
-Histamine Release: In studies of histamine release, clinically significant concentrations of plasma histamine occurred in 1 of 88 patients.
+Histamine Release
+
+In studies of histamine release, clinically significant concentrations of plasma histamine occurred in 1 of 88 patients.
 Clinical signs of histamine release (flushing, rash, or bronchospasm) associated with the administration of ZEMURON were assessed in clinical trials and reported in 9 of 1137 (0.8%) patients.
 
 ## 12.3 Pharmacokinetics
 
-Adult and Geriatric Patients: In an effort to maximize the information gathered in the in vivo pharmacokinetic studies, the data from the studies was used to develop population estimates of the parameters for the subpopulations represented (e.g., geriatric, pediatric, renal, and hepatic impairment).
+Adult and Geriatric Patients
+
+In an effort to maximize the information gathered in the in vivo pharmacokinetic studies, the data from the studies was used to develop population estimates of the parameters for the subpopulations represented (e.g., geriatric, pediatric, renal, and hepatic impairment).
 These population-based estimates and a measure of the estimate variability are contained in the following section.
 
 Following intravenous administration of ZEMURON, plasma levels of rocuronium follow a three-compartment open model.
 The rapid distribution half-life is 1 to 2 minutes and the slower distribution half-life is 14 to 18 minutes.
 Rocuronium is approximately 30% bound to human plasma proteins.
-In geriatric and other adult surgical patients undergoing either opioid/nitrous oxide/oxygen or inhalational anesthesia, the observed pharmacokinetic profile was essentially unchanged [see Dosage and Administration (2.5)].
+In geriatric and other adult surgical patients undergoing either opioid/nitrous oxide/oxygen or inhalational anesthesia, the observed pharmacokinetic profile was essentially unchanged [see Dosage and Administration (2.6)].
 
 Table 7: Mean (SD) Pharmacokinetic Parameters in Adults (n=22; ages 27 to 58 yrs) and Geriatric (n=20; 65 yrs or greater) During Opioid/Nitrous Oxide/Oxygen Anesthesia
 
@@ -156,13 +162,15 @@ Table 8: Mean (SD) Pharmacokinetic Parameters in Adults with Normal Renal and He
 
 The net result of these findings is that subjects with renal failure have clinical durations that are similar to but somewhat more variable than the duration that one would expect in subjects with normal renal function.
 Hepatically impaired patients, due to the large increase in volume, may demonstrate clinical durations approaching 1.5 times that of subjects with normal hepatic function.
-In both populations the clinician should individualize the dose to the needs of the patient [see Dosage and Administration (2.5)].
+In both populations the clinician should individualize the dose to the needs of the patient [see Dosage and Administration (2.6)].
 
 Tissue redistribution accounts for most (about 80%) of the initial amount of rocuronium administered.
 As tissue compartments fill with continued dosing (4-8 hours), less drug is redistributed away from the site of action and, for an infusion-only dose, the rate to maintain neuromuscular blockade falls to about 20% of the initial infusion rate.
 The use of a loading dose and a smaller infusion rate reduces the need for adjustment of dose.
 
-Pediatric Patients: Under halothane anesthesia, the clinical duration of effects of ZEMURON did not vary with age in patients 4 months to 8 years of age.
+Pediatric Patients
+
+Under halothane anesthesia, the clinical duration of effects of ZEMURON did not vary with age in patients 4 months to 8 years of age.
 The terminal half-life and other pharmacokinetic parameters of rocuronium in these pediatric patients are presented in Table 9.
 
 Table 9: Mean (SD) Pharmacokinetic Parameters of Rocuronium in Pediatric Patients (ages 3 to less than 12 mos, n=6; 1 to less than 3 yrs, n=5; 3 to less than 8 yrs, n=7) During Halothane Anesthesia
