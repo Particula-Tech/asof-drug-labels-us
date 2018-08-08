@@ -52,51 +52,6 @@ Aerobic gram-negative microorganisms: Escherichia coli (including susceptible en
 
 Other Organisms: Pneumocystis jiroveci
 
-Susceptibility Testing Methods
+Susceptibility Testing
 
-When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drug products used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
-These reports should aid the physician in selecting an antibacterial drug for treatment.
-
-Dilution Techniques:
-
-Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
-These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized test method (broth or agar) 4,15.
-The MIC values should be interpreted according to the criteria provided in Table 1.
-
-Diffusion Techniques:
-
-Quantitative methods that require measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
-The zone size should be determined using a standardized test method 14,15.
-This procedure uses paper disks impregnated with 1.25/23.75 µg of trimethoprim/sulfamethoxazole to test the susceptibility of microorganisms to trimethoprim/sulfamethoxazole.
-The disc diffusion interpretive criteria are provided in Table 1.
-
-Table 1: Susceptibility Test Interpretive Criteria for Trimethoprim/Sulfamethoxazole
-
-| S | I | R | S | I | R |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Bacteria | Minimal Inhibitory Concentration (mcg/mL) |  |  | Zone Diameter (mm) |  |  |
-| Enterobacteriaceae | ≤ 2/38 | - | ≥ 4/76 | ≥ 16 | 11 – 15 | ≤ 10 |
-| Haemophilus influenzae | ≤ 0.5/9.5 | 1/19 – 2/38 | ≥ 4/76 | ≥ 16 | 11 – 15 | ≤ 10 |
-| Streptococcus pneumoniae | ≤ 0.5/9.5 | 1/19 – 2/38 | ≥ 4/76 | ≥ 19 | 16 – 18 | ≤ 15 |
-
-A report of Susceptible indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations at the site of infection necessary to inhibit growth of the pathogen.
-A report of Intermediate indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
-This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where high dosage of drug can be used.
-This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of Resistant indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations usually achievable at the infection site; other therapy should be selected.
-
-## Quality Control
-
-Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay and the techniques of the individuals performing the test 4,14,15.
-Standard trimethoprim/sulfamethoxazole powder should provide the following range of MIC values noted in Table 2.
-For the diffusion technique using the 1.25/23.75 µg trimethoprim/sulfamethoxazole disk the criteria in Table 2 should be achieved.
-
-Table 2: Acceptable Quality Control Ranges for Susceptibility Testing for Trimethoprim/Sulfamethoxazole
-
-| QC Strain | Minimal Inhibitory Concentration (mcg/mL) | Zone Diameter (mm) |
-| --- | --- | --- |
-| Escherichia coli ATCC 25922 | ≤ 0.5/9.5 | 23–29 |
-| Haemophilus influenzae ATCC 49247 | 0.03/0.59 – 0.25/4.75 | 24–32 |
-| Streptococcus pneumoniae ATCC 49619 | 0.12/2.4 – 1/19 | 20–28 |
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
