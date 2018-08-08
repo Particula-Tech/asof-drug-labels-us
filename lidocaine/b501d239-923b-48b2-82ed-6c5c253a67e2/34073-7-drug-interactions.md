@@ -6,4 +6,4 @@ Oraqix should be used with caution in combination with dental injection anesthes
 
 ## 7.2 Drugs inducing Methemoglobinemia
 
-Patients taking drugs associated with drug-induced methemoglobinemia such as sulfonamides, acetaminophen, acetanilide, aniline dyes, benzocaine, chloroquine, dapsone, naphthalene, nitrates and nitrites, nitrofurantoin, nitroglycerin, nitroprusside, pamaquine, para-aminosalicylic acid, phenacetin, phenobarbital, phenytoin, primaquine, and quinine are also at greater risk for developing methemoglobinemia [See OVERDOSAGE (10) and Warnings and Precautions (5.1)].
+Patients taking drugs associated with drug-induced methemoglobinemia such as sulfonamides, acetaminophen, acetanilide, anilinedyes, benzocaine, chloroquine, dapsone, naphthalene, nitrates and nitrites, nitrofurantoin, nitroglycerin, nitroprusside, pamaquine, para-aminosalicylic acid, phenacetin, phenobarbital, phenytoin, primaquine, and quinine are also at greater risk for developing methemoglobinemia [See OVERDOSAGE (10) and Warnings and Precautions (5.1)].

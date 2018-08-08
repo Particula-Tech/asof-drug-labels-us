@@ -4,14 +4,13 @@
 
 DO NOT INJECT [see Warnings and Precautions (5.2)]
 
-Apply Oraqix on the gingival margin around the selected teeth using the blunt-tipped applicator included in the package.
+Apply Oraqix on the gingival margin around the selected teeth using the blunt-tipped applicator included in the package and the dispenser, which is sold separately.
 Wait 30 seconds, and then fill the periodontal pockets with Oraqix using the blunt-tipped applicator until the gel becomes visible at the gingival margin.
 Wait another 30 seconds before starting treatment.
 A longer waiting time does not enhance the anesthesia.
-Anesthetic effect, as assessed by probing of pocket depths, has a duration of approximately 20 minutes (individual overall range 14 – 31 minutes).
+Anesthetic effect, as assessed by probing of pocket depths, has a duration of approximately 20 minutes (individual overall range 14–31 minutes).
 If the anesthesia starts to wear off, Oraqix may be re-applied if needed.
-
-Typically, 1 cartridge (1.7g) or less of Oraqix will be sufficient for one quadrant of the dentition.
+Typically, one cartridge (1.7g) or less of Oraqix will be sufficient for one quadrant of the dentition.
 
 When administered, Oraqix should be a liquid.
 If it has formed a gel, it should be placed in a refrigerator (do not freeze) until it becomes a liquid again.

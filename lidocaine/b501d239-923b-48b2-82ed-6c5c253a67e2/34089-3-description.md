@@ -11,11 +11,13 @@ Prilocaine base and lidocaine base are both relatively hydrophilic amino-amides.
 
 The structural formulas are:
 
+|  | Lidocaine C14H22N2O M.W. 234.3 | Prilocaine C13H20N2O M.W. 220.3 |
+| --- | --- | --- |
+
 Lidocaine is chemically designated as 2-(diethylamino)-N-(2,6-dimethylphenyl)-acetamide and has an octanol:water partition ratio of 43 at pH 7.4.
 The pKa of lidocaine is 7.86.
 Prilocaine is chemically designated as N-(2-methyl-phenyl)-2 (propylamino)-propanamide and has an octanol:water partition ratio of 25 at pH 7.4.
 The pKa of prilocaine is 7.89.
-
 Each gram of Oraqix contains 25-mg lidocaine base and 25-mg prilocaine base.
 The gel also contains thermosetting agents (poloxamer 188 purified, poloxamer 407 purified), hydrochloric acid (pH adjustment), and purified water.
 The pH of Oraqix is 7.5-8.0.

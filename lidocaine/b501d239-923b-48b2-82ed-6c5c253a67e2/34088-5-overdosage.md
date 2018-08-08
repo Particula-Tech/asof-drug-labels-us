@@ -7,10 +7,9 @@ However, if other local anesthetics are administered at the same time, e.g. topi
 There is generally an increase in severity of symptoms with increasing plasma concentrations of lidocaine and/or prilocaine.
 Systemic CNS toxicity may occur over a range of plasma concentrations of local anesthetics.
 CNS toxicity may typically be found around 5000 ng/mL of lidocaine; however a small number of patients reportedly may show signs of toxicity at approximately 1000 ng/mL.
-
 Pharmacological thresholds for prilocaine are poorly defined.
 Central nervous system (CNS) symptoms usually precede cardiovascular manifestations.
-The plasma level of lidocaine observed after the maximum recommended dose (5 cartridges) of Oraqix in 11 patients exposed over 3 hours ranged from 157to 552 ng/mL with a mean of 284 ng/mL ± 122 SD.
+The plasma level of lidocaine observed after the maximum recommended dose (5 cartridges) of Oraqix in 11 patients exposed over 3 hours ranged from 157 to 552 ng/mL with a mean of 284 ng/mL ± 122 SD.
 The corresponding figure for prilocaine was 53-181 ng/mL with a mean of 106 ± 45 SD.
 [See Clinical Pharmacology (12.3)].
 

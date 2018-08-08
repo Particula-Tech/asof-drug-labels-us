@@ -6,7 +6,7 @@ Prilocaine in Oraqix can cause elevated methemoglobin levels particularly in con
 Methemoglobinemia has also been reported in a few cases in association with lidocaine treatment.
 Patients with glucose-6-phosphate dehydrogenase deficiency or congenital or idiopathic methemoglobinemia are more susceptible to drug-induced methemoglobinemia.
 Oraqix should not be used in those patients with congenital or idiopathic methemoglobinemia and in infants under the age of twelve months who are receiving treatment with methemoglobin-inducing agents.
-Signs and symptoms of methemoglobinemia may be delayed some hours after exposure.
+Signs and symptoms of methemoglobinemia maybe delayed some hours after exposure.
 Initial signs and symptoms of methemoglobinemia are characterized by a slate grey cyanosis seen in, e.g., buccal mucous membranes, lips and nail beds.
 In severe cases symptoms may include central cyanosis, headache, lethargy, dizziness, fatigue, syncope, dyspnea, CNS depression, seizures, dysrhythmia and shock.
 Methemoglobinemia should be considered if central cyanosis unresponsive to oxygen therapy occurs, especially if metHb-inducing agents have been used.
@@ -16,15 +16,15 @@ Normally, metHb levels are <1%, and cyanosis may not be evident until a level of
 The development of methemoglobinemia is generally dose related.
 The individual maximum level of metHb in blood ranged from 0.8% to 1.7% following administration of the maximum dose of 8.5g Oraqix.
 
-Management of Methemoglobinemia: Clinically significant symptoms of methemoglobinemia should be treated with a standard clinical regimen such as a slow intravenous infection of methylene blue at a dosage of 1to 2 mg/kg given over a five minute period.
+Management of Methemoglobinemia: Clinically significant symptoms of methemoglobinemia should be treated with a standard clinical regimen such as a slow intravenous injection of methylene blue at a dosage of 1 to 2 mg/kg given over a five minute period.
 
-Patients taking drugs associated with drug-induced methemoglobinemia such as sulfonamides, acetaminophen, acetanilide, aniline dyes, benzocaine, chloroquine, dapsone, naphthalene, nitrates and nitrites, nitrofurantoin, nitroglycerin, nitroprusside, pamaquine, para-aminosalicylic acid, phenacetin, phenobarbital, phenytoin, primaquine, and quinine are also at greater risk for developing methemoglobinemia.
+Patients taking drugs associated with drug-induced methemoglobinemia such as sulfonamides, acetaminophen, acetanilide, anilinedyes, benzocaine, chloroquine, dapsone, naphthalene, nitrates and nitrites, nitrofurantoin, nitroglycerin, nitroprusside, pamaquine, para-aminosalicylic acid, phenacetin, phenobarbital, phenytoin, primaquine, and quinine are also at greater risk for developing methemoglobinemia.
 Treatment with Oraqix should be avoided in patients with any of the above conditions or with a previous history of problems in connection with prilocaine treatment.
 
 ## 5.2 DO NOT INJECT
 
 Oraqix should not be used with standard dental syringes.
-Only use this product with the Oraqix blunt-tipped applicator, which is available from DENTSPLY Pharmaceutical.
+Only use this product with the Oraqix blunt-tipped applicator and the dispenser which is available from DENTSPLY Pharmaceutical.
 
 ## 5.3 Allergic/anaphylactic reactions
 

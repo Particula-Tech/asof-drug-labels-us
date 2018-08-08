@@ -14,16 +14,16 @@ Anesthetic effect, as assessed by probing of pocket depths, lasted for about 20 
 ## 12.3 Pharmacokinetics
 
 Absorption: Lidocaine and prilocaine are absorbed from Oraqix via the oral mucous membranes.
-After a single application of 0.9to 3.5 g Oraqix, the mean (±SD) lidocaine and prilocaine Cmax values were 182 (±53) and 77 (±27) ng/mL, respectively.
+After a single application of 0.9 to 3.5 g Oraqix, the mean (±SD) lidocaine and prilocaine Cmax values were 182 (±53) and 77 (±27) ng/mL, respectively.
 After a total of 8 to 8.5 g Oraqix administered as repeated applications over 3 hours, the mean (±SD) lidocaine Cmax was 284 (±122) ng/mL, ranging between 157 and 552 ng/mL.
-The mean lidocaine AUC∞ was 84,000 ng.min/mL.
+The mean lidocaine AUC∞ was 84,000 ng/min/mL.
 The mean (±SD) prilocaine Cmax was 106 (±45) ng/mL, ranging between 53 and 181 ng/mL.
-The mean prilocaine AUC∞ was 26,000 ng.min/mL.
+The mean prilocaine AUC∞ was 26,000 ng/min/mL.
 
 The increase in Cmax of both lidocaine and prilocaine is proportional (or less than proportional) to the dose after single application of Oraqix.
 The Cmax after a cumulative dose of 8.5 g Oraqix administered as repeated applications over 3 hours, (i.e. the highest recommended dose, corresponding to 212.5 mg each of lidocaine and prilocaine base), is lower than that extrapolated from the proportional increase in plasma concentrations at lower doses.
 
-The median Tmax of lidocaine and prilocaine was 30 minutes, ranging between 20 and 40 min., after the start of a single application of 0.9 to 3.5 g Oraqix, and 200 minutes, ranging between 120 and 200 min., after a cumulative dose of 8.5g Oraqix administered as repeated applications over 3 hours.
+The median Tmax of lidocaine and prilocaine was 30 minutes, ranging between 20 and 40 min., after the start of a single application of 0.9 to 3.5 g Oraqix, and 200 minutes, ranging between 120 and 200 min., after a cumulative dose of 8.5 g Oraqix administered as repeated applications over 3 hours.
 
 The toxicities of lidocaine and prilocaine are thought to be additive.
 Systemic CNS toxicity may occur over a range of plasma concentrations of local anesthetics.
@@ -37,18 +37,17 @@ Both lidocaine and prilocaine cross the placental and blood brain barriers, pres
 
 Metabolism: Lidocaine and prilocaine are mainly metabolized in the liver.
 Prilocaine and lidocaine are not metabolized by plasma esterases.
-
 The main metabolism of lidocaine is through N-dealkylation to monoethylglycinexylidide (MEGX) and glycinexylidide (GX), which is mainly mediated by CYP3A4.
-These metabolites are hydrolyzed to 2,6-xylidine, which is converted to 4-hydroxy-2,6-xylidine (mediated by CYP2A6), the major urinary metabolite in man.
+These metabolites are hydrolyzed to 2,6-xylidine, which is converted to 4-hydroxy- 2,6-xylidine (mediated by CYP2A6), the major urinary metabolite in man.
 After a total of 8 to 8.5g Oraqix administered as repeated applications over 3 hours, the mean (+SD) 2,6-xylidine Cmax was 18 (+8.4) ng/mL ranging between 8 and 32 ng/mL.
-The mean 2,6-xylidine AUC∞ was 9800 ng.min/mL (±6370), ranging between 3480 to 24,580 ng/min/mL).
+The mean 2,6-xylidine AUC∞ was 9800 ng/min/mL (±6370), ranging between 3480 to 24,580 ng/min/mL).
 MEGX has an antiarrhythmic and convulsant activity similar to that of lidocaine and a somewhat longer half-life.
 GX has a weak antiarrhythmic effect but lacks convulsant activity and has a half-life of about 10 h.
 
 Prilocaine is split at the amide linkage to o-toluidine, which is converted further to 4- and 6- hydroxytoluidine.
 The prilocaine metabolite o-toluidine and the hydroxylated metabolites of o-toluidine are excreted mainly in the urine. o-Toluidine has been shown to be carcinogenic in several animal models.
 After a total of 8 to 8.5g Oraqix was administered as repeated applications over 3 hours, the mean (±SD) o-toluidine Cmax was 25 (±11) ng/mL ranging between 13 and 44 ng/mL.
-The mean o-toluidine AUC∞ was 9200 ng.min/mL.
+The mean o-toluidine AUC∞ was 9200 ng/min/mL.
 The median Tmax was 220 minutes, ranging between 90 and 240 min. In addition, o-Toluidine can cause the formation of methemoglobin (metHb) following treatment with prilocaine.
 Individual maximum blood concentrations of metHb increased from 0 to 1.1% up to 0.8 to 1.7% following administration of the maximum recommended dose of 8.5g Oraqix administrated as repeated applications over 3 hours.
 The Tmax of metHb ranged from 1 to 4 hours.
@@ -60,7 +59,7 @@ Patients with glucose-6-phosphate dehydrogenase deficiencies, and patients takin
 Elimination: Lidocaine and prilocaine have systemic clearances of 0.95 and 2.37 L/min, respectively, after intravenous administration as single agents.
 The terminal half-life of both drugs after intravenous administration as single agents is 1.6 h. Oraqix is not intended for intravenous administration.
 
-However, after application of Oraqix to the periodontal pockets the mean (±SD) terminal lidocaine half-life was 3.6 (±1.3) hours, ranging between 2.2 and 6.5 h. The mean (±SD) terminal prilocaine half-life was 2.8 (±1.0) hours, ranging between 2.0 to 5.7 h. For the metabolite o-toluidine the mean terminal half-life was 4.0 (±1.1) hours, ranging between 2.0 and 5.7 hours.
+However, after application of Oraqix to the periodontal pockets the mean (±SD) terminal lidocaine half-life was 3.6 (±1.3)hours, ranging between 2.2 and 6.5 h. The mean (±SD) terminal prilocaine half-life was 2.8 (±1.0) hours, ranging between 2.0 to 5.7 h. For the metabolite o-toluidine the mean terminal half-life was 4.0 (±1.1) hours, ranging between 2.0 and 5.7 hours.
 For the metabolite 2,6-xylidine the mean terminal half-life was 8.0 (±4.0) hours, ranging between 3.7 and 18.3 hours.
 
 Pediatrics: The pharmacokinetics of lidocaine and prilocaine after Oraqix administration have not been studied in pediatric patients.
