@@ -8,9 +8,9 @@ Nitrolingual Pumpspray is available as:
 - 60-dose (4.9 g) single bottle NDC 70007-300-65
 - 200-dose (14.1 g) single bottle NDC 70007-300-20
 
-Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
+Store at 20°C - 25°C (68°F - 77°F); excursions permitted to 15 - 30°C (59 - 86°F) [see USP Controlled Room Temperature].
 
-Note: Nitrolingual Pumpspray contains 20% alcohol.
+Note: Nitrolingual Pumpspray contains 20 % alcohol.
 Do not forcefully open or burn container after use.
 Do not spray toward flames.
 

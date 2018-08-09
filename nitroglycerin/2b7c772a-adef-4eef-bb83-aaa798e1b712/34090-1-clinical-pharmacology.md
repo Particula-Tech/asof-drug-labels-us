@@ -1,6 +1,6 @@
 # 12 CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism of action
+## 12.1 Mechanism of Action
 
 Nitroglycerin forms free radical nitric oxide (NO), which activates guanylate cyclase, resulting in an increase of guanosine 3',5'-monophosphate (cyclic GMP) in smooth muscle and other tissues.
 This eventually leads to dephosphorylation of myosin light chains, which regulates the contractile state in smooth muscle and results in vasodilatation.
@@ -31,8 +31,8 @@ The mean elimination half-life of both 1,2- and 1,3-dinitroglycerin is about 40 
 The 1,2- and 1,3-dinitroglycerin metabolites have been reported to possess some pharmacological activity, whereas the glycerol mononitrate metabolites of nitroglycerin are essentially inactive.
 Higher plasma concentrations of the dinitro metabolites, with their nearly 8-fold longer elimination half-lives, may contribute significantly to the duration of pharmacologic effect.
 
-In a pharmacokinetic study when a single 0.8 mg dose of Nitrolingual Pumpspray was administered to healthy volunteers (n = 24), the mean Cmax and tmax were 1,041.0 pg/mL and 7.5 minutes, respectively.
-Additionally, in these subjects the mean area under the curve (AUC) was 12,769.5 pg/mL · min.
+In a pharmacokinetic study when a single 0.8 mg dose of Nitrolingual Pumpspray was administered to healthy volunteers (n = 24), the mean Cmax and tmax were 1,041 pg/ml and 7.5 minutes, respectively.
+Additionally, in these subjects the mean area under the curve (AUC) was 12,769 pg/ml * min.
 
 The volume of distribution of nitroglycerin following intravenous administration is 3.3 L/kg.
 

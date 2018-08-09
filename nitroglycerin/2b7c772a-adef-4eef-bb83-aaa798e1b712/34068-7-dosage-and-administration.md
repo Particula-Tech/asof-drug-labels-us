@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommended dosage
+## 2.1 Recommended Dosage
 
 Instruct the patient to administer one or two metered sprays (400 mcg of nitroglycerin per spray) at the onset of an attack onto or under the tongue.
 A spray may be repeated approximately every five minutes as needed.

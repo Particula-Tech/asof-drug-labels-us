@@ -2,13 +2,13 @@
 
 ## 7.1 PDE-5-Inhibitors and sGC-Stimulators
 
-Nitrolingual Pumpspray is contraindicated in patients who are using a selective inhibitor of cyclic guanosine monophosphate (cGMP)-specific phosphodiesterase type 5 (PDE5).
-PDE5 inhibitors such as avanafil, sildenafil, vardenafil, and tadalafil have been shown to potentiate the hypotensive effects of organic nitrates.
+Nitrolingual Pumpspray is contraindicated in patients who are using a selective inhibitor of cyclic guanosine monophosphate (cGMP)-specific phosphodiesterase type 5 (PDE-5).
+PDE-5-Inhibitors such as avanafil, sildenafil, vardenafil, and tadalafil have been shown to potentiate the hypotensive effects of organic nitrates.
 
-Do not use Nitrolingual Pumpspray in patients who are taking the soluble guanylate cyclase (sGC) stimulator riociguat.
+Nitrolingual Pumpspray is contraindicated in patients who are taking soluble guanylate cyclase (sGC) stimulators.
 Concomitant use can cause hypotension.
 
-The time course and dose dependence of these interactions have not been studied, and use within a few days of one another cannot be recommended.
+The time course and dose dependence of these interactions have not been studied, and use within a few days of one another is not recommended.
 Appropriate supportive care for the severe hypotension has not been studied, but it seems reasonable to treat this as a nitrate overdose, with elevation of the extremities and with central volume expansion.
 
 ## 7.2 Antihypertensives

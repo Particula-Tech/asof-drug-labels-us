@@ -2,24 +2,25 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C – Animal teratology studies have not been conducted with Nitroglycerin Pumpspray.
-Teratology studies in rats and rabbits, however, were conducted with topically applied nitroglycerin ointment at doses up to 80 mg/kg/day and 240 mg/kg/day, respectively.
-No toxic effects on dams or fetuses were seen at any dose tested.
-A teratogenicity study was conducted in the third mating of F0 generation female rats administered dietary nitroglycerin for gestation day 6 to day 15 at dose levels used in the 3-generation reproduction study.
-In offspring of the high-dose nitroglycerin group, increased incidence of diaphragmatic hernias and decreased hyoid bone ossification were seen.
-The latter finding probably reflects delayed development rather than a potential teratogenic effect, thus indicating no clear evidence of teratogenicity of nitroglycerin.
-There are no adequate and well-controlled studies in pregnant women.
-Nitroglycerin should be given to pregnant women only if clearly needed.
+Risk summary Limited published data on the use of nitroglycerin are insufficient to determine a drug associated risk of major birth defects or miscarriage.
+In animal reproduction studies, there were no adverse developmental effects when nitroglycerin was administered intravenously to rabbits or intraperitoneally to rats during organogenesis at doses greater than 64-times the human dose [see Data].
 
-## 8.3 Nursing mothers
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 – 4% and 15 – 20%, respectively.
 
-It is not known whether nitroglycerin is excreted in human milk.
+Data Animal Data No embryotoxic or postnatal development effects were observed with transdermal application in pregnant rabbits and rats at doses up to 240 mg/kg/day for 13 days, at intraperitoneal doses in pregnant rats up to 20 mg/kg/day for 11 days, and at intravenous doses in pregnant rabbits up to 4 mg/kg/day for 13 days.
 
-## 8.4 Pediatric use
+## 8.2 Lactation
+
+Risk summary Sublingual nitroglycerin has not been studied in lactating women.
+It is not known if nitroglycerin is present in human milk or if nitroglycerin has effects on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for nitroglycerin and any potential adverse effects on the breastfed child from nitroglycerin or from the underlying maternal condition.
+
+## 8.4 Pediatric Use
 
 Safety and effectiveness of nitroglycerin in pediatric patients have not been established.
 
-## 8.5 Geriatric use
+## 8.5 Geriatric Use
 
 Clinical studies did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between elderly (greater than or equal to 65 years) and younger (less than 65 years) patients.

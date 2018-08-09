@@ -2,10 +2,10 @@
 
 ## 4.1 PDE-5-Inhibitors and sGC-Stimulators
 
-Do not use Nitrolingual Pumpspray in patients who are taking PDE-5 inhibitors, such as avanafil, sildenafil, tadalafil, or vardenafil.
+Do not use Nitrolingual Pumpspray in patients who are taking PDE-5-Inhibitors, such as avanafil, sildenafil, tadalafil, or vardenafil.
 Concomitant use can cause severe hypotension, syncope, or myocardial ischemia [see Drug Interactions (7.1)].
 
-Do not use Nitrolingual Pumpspray in patients who are taking the soluble guanylate cyclase (sGC) stimulator riociguat.
+Do not use Nitrolingual Pumpspray in patients who are taking soluble guanylate cyclase (sGC) stimulators, such as riociguat.
 Concomitant use can cause hypotension.
 
 ## 4.2 Severe Anemia
