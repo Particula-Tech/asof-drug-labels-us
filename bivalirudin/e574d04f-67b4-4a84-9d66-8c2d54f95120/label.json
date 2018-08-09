@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA205962"
+  ],
+  "inn": "bivalirudin",
+  "labeler": "AuroMedics Pharma LLC",
+  "package_ndcs": [
+    "55150-210-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "bivalirudin",
+      "name": "BIVALIRUDIN"
+    }
+  ],
+  "setid": "e574d04f-67b4-4a84-9d66-8c2d54f95120",
+  "source": "dailymed"
+}
