@@ -1,61 +1,33 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-## FORTAMET® Clinical Studies
+The following adverse reactions are also discussed elsewhere in the labeling:
 
-In the controlled clinical studies of FORTAMET® in patients with type 2 diabetes, a total of 424 patients received FORTAMET® therapy (up to 2500 mg/day) and 430 patients received immediate-release metformin.
-Adverse reactions reported in ≥5% of the FORTAMET® or immediate-release metformin patients are listed in Table 6.
-These pooled results show that the most frequently reported adverse reactions in the FORTAMET® group were infection, diarrhea, and nausea.
-Similar incidences of these adverse reactions were seen in the immediate-release metformin group.
+- Lactic Acidosis [see Boxed Warning and Warnings and Precautions (5.1)]
+- Vitamin B12 Deficiency [see Warnings and Precautions (5.2)]
+- Hypoglycemia [see Warnings and Precautions (5.3)]
 
-Table 6 Number and Percentage of Patients With the Most Common (Incidence ≥5%) Treatment-Emergent Signs or Symptoms by Body System and Preferred Term - Pooled Phase II and III Studies
+## 6.1 Clinical Studies Experience
 
-|  | FORTAMET® (N = 424) |  | Immediate-Release Metformin (N = 430) |  |
-| --- | --- | --- | --- | --- |
-| Body System Preferred Term | n | (%) | n | (%) |
-| Body as a Whole |  |  |  |  |
-| Accidental Injury | 31 | (7.3) | 24 | (5.6) |
-| Headache | 20 | (4.7) | 22 | (5.1) |
-| Infection | 87 | (20.5) | 90 | (20.9) |
-| Digestive System |  |  |  |  |
-| Diarrhea | 71 | (16.7) | 51 | (11.9) |
-| Dyspepsia | 18 | (4.2) | 22 | (5.1) |
-| Nausea | 36 | (8.5) | 32 | (7.4) |
-| Respiratory System |  |  |  |  |
-| Rhinitis | 18 | (4.2) | 24 | (5.6) |
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The most frequent adverse events thought to be related to FORTAMET® were diarrhea, nausea, dyspepsia, flatulence, and abdominal pain.
-The frequency of dyspepsia was 4.2% in the FORTAMET® group compared to 5.1% in the immediate-release group, the frequency of flatulence was 3.5% in the FORTAMET® group compared to 3.7% in the immediate-release group, and the frequency of abdominal pain was 3.3% in the FORTAMET® group compared to 4.4% in the immediate-release group.
+FORTAMET extended-release tablets
 
-In the controlled studies, 4.7% of patients treated with FORTAMET® and 4.9% of patients treated with immediate-release metformin were discontinued due to adverse events.
+In placebo-controlled trials, 781 patients were administered FORTAMET extended-release tablets.
+Adverse reactions reported in greater than 5% of the FORTAMET extended-release tablets patients, and that was more common in FORTAMET extended-release tablets- than placebo-treated patients, are listed in Table 2.
 
-## Immediate-Release Metformin
+Table 2: Adverse Reactions from Clinical Trials of FORTAMET Extended-release Tablets Occurring >5% and More Common than Placebo in Patients with Type 2 Diabetes Mellitus
 
-Immediate-Release Metformin Phase III Clinical Studies
-
-In a U.S. double-blind clinical study of immediate-release metformin in patients with type 2 diabetes, a total of 141 patients received immediate-release metformin therapy (up to 2550 mg per day) and 145 patients received placebo.
-Adverse reactions reported in greater than 5% of the immediate-release metformin patients, and that were more common in immediate-release metformin than placebo-treated patients, are listed in Table 7.
-
-Table 7 Most Common Adverse Reactions (>5.0%) in a Placebo-Controlled Clinical Study of Immediate-Release Metformin Monotherapy*
-
-|  | Immediate-Release Metformin Monotherapy (n = 141) |  |
+|  | FORTAMET Extended-release Tablets (n=781) | Placebo(n=195) |
 | --- | --- | --- |
-|  | Placebo (n = 145) |  |
-| Adverse Reaction | % of Patients |  |
-| Diarrhea | 53.2 | 11.7 |
-| Nausea/Vomiting | 25.5 | 8.3 |
-| Flatulence | 12.1 | 5.5 |
-| Asthenia | 9.2 | 5.5 |
-| Indigestion | 7.1 | 4.1 |
-| Abdominal Discomfort | 6.4 | 4.8 |
-| Headache | 5.7 | 4.8 |
-| *Reactions that were more common in immediate-release metformin than placebo-treated patients |  |  |
+| Diarrhea | 10% | 3% |
+| Nausea/Vomiting | 7% | 2% |
 
-Diarrhea led to discontinuation of study medication in 6% of patients treated with immediate-release metformin.
-Additionally, the following adverse reactions were reported in ≥1.0 to ≤5.0% of immediate-release metformin patients and were more commonly reported with immediate-release metformin than placebo: abnormal stools, hypoglycemia, myalgia, lightheaded, dyspnea, nail disorder, rash, sweating increased, taste disorder, chest discomfort, chills, flu syndrome, flushing, palpitation.
+Diarrhea led to discontinuation of FORTAMET extended-release tablets in 0.6% of patients.
+Additionally, the following adverse reactions were reported in ≥1.0% to ≤5.0% of FORTAMET extended-release tablets patients and were more commonly reported with FORTAMET extended-release tablets than placebo: abdominal pain, constipation, distention abdomen, dyspepsia/heartburn, flatulence, dizziness, headache, upper respiratory infection, taste disturbance.
 
-## Pediatric Patients
+## 6.2 Postmarketing Experience
 
-No pediatric clinical studies have been conducted with FORTAMET®.
-In clinical trials with immediate-release metformin in pediatric patients with type 2 diabetes, the profile of adverse reactions was similar to that observed in adults.
+The following adverse reactions have been identified during post approval use of metformin.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Cholestatic, hepatocellular, and mixed hepatocellular liver injury have been reported with postmarketing use of metformin.

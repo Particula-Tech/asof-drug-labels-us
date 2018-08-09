@@ -1,8 +1,7 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-FORTAMET® is contraindicated in patients with:
+FORTAMET extended-release tablets are contraindicated in patients with:
 
-1. Severe renal impairment (eGFR below 30 mL/min/1.73 m2) (see WARNINGS and PRECAUTIONS).
-2. Known hypersensitivity to metformin.
-3. Acute or chronic metabolic acidosis, including diabetic ketoacidosis, with or without coma.
-   Diabetic ketoacidosis should be treated with insulin.
+- Severe renal impairment (eGFR below 30 mL/min/1.73 m2) [see Warnings and Precautions (5.1)].
+- Hypersensitivity to metformin.
+- Acute or chronic metabolic acidosis, including diabetic ketoacidosis, with or without coma.
