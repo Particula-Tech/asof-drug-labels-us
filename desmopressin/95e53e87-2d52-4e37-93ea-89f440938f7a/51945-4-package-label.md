@@ -2,9 +2,9 @@
 
 NDC 0075-2450-01
 
-DDAVP® Rhinal Tube desmopressin acetate
+DDAVP ® Rhinal Tube desmopressin acetate
 
-10µg/0.1mL
+10µg/ 0.1mL
 
 FOR INTRANASAL USE ONLY
 
@@ -16,9 +16,9 @@ sanofi aventis
 
 NDC 0075-2450-01
 
-DDAVP® Rhinal Tube desmopressin acetate
+DDAVP ® Rhinal Tube desmopressin acetate
 
-10µg/0.1mL
+10µg/ 0.1mL
 
 FOR INTRANASAL USE ONLY
 
