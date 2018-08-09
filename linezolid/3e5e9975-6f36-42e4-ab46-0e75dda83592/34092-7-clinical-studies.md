@@ -15,9 +15,9 @@ The cure rates in clinically evaluable patients were 57% for linezolid-treated p
 The cure rates in clinically evaluable patients with ventilator-associated pneumonia were 47% for linezolid-treated patients and 40% for vancomycin-treated patients.
 A modified intent-to-treat (MITT) analysis of 94 linezolid-treated patients and 83 vancomycin-treated patients included subjects who had a pathogen isolated before treatment.
 The cure rates in the MITT analysis were 57% in linezolid-treated patients and 46% in vancomycin-treated patients.
-The cure rates by pathogen for microbiologically evaluable patients are presented in Table 14.
+The cure rates by pathogen for microbiologically evaluable patients are presented in Table 12.
 
-Table 14.
+Table 12.
 Cure Rates at the Test-of-Cure Visit for Microbiologically Evaluable Adult Patients with Nosocomial Pneumonia
 
 | ZYVOX n/N (%) | Vancomycin n/N (%) |  |
@@ -38,9 +38,9 @@ Two hundred forty-five (61%) linezolid-treated patients and 242 (58%) oxacillin-
 The cure rates in clinically evaluable patients were 90% in linezolid-treated patients and 85% in oxacillin-treated patients.
 A modified intent-to-treat (MITT) analysis of 316 linezolid-treated patients and 313 oxacillin-treated patients included subjects who met all criteria for study entry.
 The cure rates in the MITT analysis were 86% in linezolid-treated patients and 82% in oxacillin-treated patients.
-The cure rates by pathogen for microbiologically evaluable patients are presented in Table 15.
+The cure rates by pathogen for microbiologically evaluable patients are presented in Table 13.
 
-Table 15.
+Table 13.
 Cure Rates at the Test-of-Cure Visit for Microbiologically Evaluable Adult Patients with Complicated Skin and Skin Structure Infections
 
 | ZYVOX n/N (%) | Oxacillin/Dicloxacillin n/N (%) |  |
@@ -75,9 +75,9 @@ The cure rates in the clinically evaluable patients (excluding those with indete
 A critical post-hoc analysis focused on 121 linezolid-treated and 60 comparator-treated patients who had a Gram-positive pathogen isolated from the site of infection or from blood, who had less evidence of underlying osteomyelitis than the overall study population, and who did not receive prohibited antimicrobials.
 Based upon that analysis, the cure rates were 71% (86/121) in the linezolid-treated patients and 63% (38/60) in the comparator-treated patients.
 None of the above analyses were adjusted for the use of adjunctive therapies.
-The cure rates by pathogen for microbiologically evaluable patients are presented in Table 16.
+The cure rates by pathogen for microbiologically evaluable patients are presented in Table 14.
 
-Table 16.
+Table 14.
 Cure Rates at the Test-of-Cure Visit for Microbiologically Evaluable Adult Patients with Diabetic Foot Infections
 
 | ZYVOX n/N (%) | Comparator n/N (%) |  |
@@ -94,11 +94,11 @@ Patients could receive concomitant aztreonam or aminoglycosides.
 There were 79 patients randomized to high-dose linezolid and 66 to low-dose linezolid.
 The intent-to-treat (ITT) population with documented vancomycin-resistant enterococcal infection at baseline consisted of 65 patients in the high-dose arm and 52 in the low-dose arm.
 
-The cure rates for the ITT population with documented vancomycin-resistant enterococcal infection at baseline are presented in Table 17 by source of infection.
+The cure rates for the ITT population with documented vancomycin-resistant enterococcal infection at baseline are presented in Table 15 by source of infection.
 These cure rates do not include patients with missing or indeterminate outcomes.
 The cure rate was higher in the high-dose arm than in the low-dose arm, although the difference was not statistically significant at the 0.05 level.
 
-Table 17.
+Table 15.
 Cure Rates at the Test-of-Cure Visit for ITT Adult Patients with Documented Vancomycin-Resistant Enterococcal Infections at Baseline
 
 | ZYVOX 600 mg every 12 hours n/N (%) | ZYVOX 200 mg every 12 hours n/N (%) |  |
@@ -124,11 +124,11 @@ A second group received vancomycin 10 to 15 mg/kg intravenously every 6 to 24 ho
 Patients who had confirmed VRE infections were placed in a third arm of the study and received ZYVOX 10 mg/kg every 8 hours intravenously and/or orally.
 All patients were treated for a total of 10 to 28 days and could receive concomitant Gram-negative antibiotics if clinically indicated.
 In the intent-to-treat (ITT) population, there were 206 patients randomized to linezolid and 102 patients randomized to vancomycin.
-The cure rates for ITT, MITT, and clinically evaluable patients are presented in Table 18.
+The cure rates for ITT, MITT, and clinically evaluable patients are presented in Table 16.
 After the study was completed, 13 additional patients ranging from 4 days through 16 years of age were enrolled in an open-label extension of the VRE arm of the study.
-Table 19 provides clinical cure rates by pathogen for microbiologically evaluable patients including microbiologically evaluable patients with vancomycin-resistant Enterococcus faecium from the extension of this study.
+Table 17 provides clinical cure rates by pathogen for microbiologically evaluable patients including microbiologically evaluable patients with vancomycin-resistant Enterococcus faecium from the extension of this study.
 
-Table 18.
+Table 16.
 Cure Rates at the Test-of-Cure Visit for Intent-to-Treat, Modified Intent-to-Treat, and Clinically Evaluable Pediatric Patients for the Overall Population and by Select Baseline Diagnosis
 
 | ZYVOX n/N (%) | Vancomycin n/N (%) | ZYVOX n/N (%) | Vancomycin n/N (%) | ZYVOX n/N (%) | Vancomycin n/N (%) |  |
@@ -138,7 +138,7 @@ Cure Rates at the Test-of-Cure Visit for Intent-to-Treat, Modified Intent-to-Tre
 | Complicated skin and skin structure infections | 61/72 (85) | 31/34 (91) | 37/43 (86) | 22/23 (96) | 46/49 (94) | 26/27 (96) |
 | Nosocomial pneumonia | 13/18 (72) | 11/12 (92) | 5/6 (83) | 4/4 (100) | 7/7 (100) | 5/5 (100) |
 
-Table 19.
+Table 17.
 Cure Rates at the Test-of-Cure Visit for Microbiologically Evaluable Pediatric Patients with Infections due to Gram-positive Pathogens
 
 | ZYVOX n/N (%) | Vancomycin n/N (%) |  |
