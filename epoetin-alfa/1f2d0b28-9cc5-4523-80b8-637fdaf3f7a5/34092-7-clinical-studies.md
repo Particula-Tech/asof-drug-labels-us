@@ -116,7 +116,7 @@ Randomization was stratified by cancer type (solid tumors, Hodgkin’s disease, 
 
 Sixty-nine percent of patients were white, 55% were male, and the median age of patients was 12 years (range: 5 to 18 years).
 Two (2%) of placebo-treated patients and 3 (3%) of epoetin alfa-treated patients dropped out of the study prior to week 5.
-There were fewer RBC transfusions from week 5 through the end-of-study in epoetin-alfa treated patients [51% (57/111)] compared to placebo-treated patients [69% (77/111)].
+There were fewer RBC transfusions from week 5 through the end-of-study in epoetin alfa-treated patients [51% (57/111)] compared to placebo-treated patients [69% (77/111)].
 There was no evidence of an improvement in health-related quality of life, including no evidence of an effect on fatigue, energy, or strength in patients receiving Epogen as compared to those receiving placebo.
 
 Pooled Analysis (Three Times Per Week Dosing)

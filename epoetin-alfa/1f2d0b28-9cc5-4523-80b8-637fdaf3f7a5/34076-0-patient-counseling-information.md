@@ -18,14 +18,8 @@ Instruct patients who self-administer Epogen of the:
 
 Epogen® (epoetin alfa)
 
-Manufactured by:
+Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, CA 91320-1799 U.S.A. U.S. License Number 1080
 
-Amgen Inc.
+©1989-2018 Amgen Inc. All rights reserved.
 
-Thousand Oaks, CA 91320-1799 U.S.A.
-
-U.S. License Number 1080
-
-©1989-2017 Amgen Inc. All rights reserved.
-
-1xxxxxx- v32
+1xxxxxx- v33

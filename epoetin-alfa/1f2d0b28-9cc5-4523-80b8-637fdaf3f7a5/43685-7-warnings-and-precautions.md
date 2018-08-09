@@ -32,7 +32,7 @@ Normal Hematocrit Study (NHS): A prospective, randomized, open-label study of 12
 In this study, patients were randomized to epoetin alfa treatment targeted to a maintenance hemoglobin of either 14 ± 1 g/dL or 10 ± 1 g/dL.
 The trial was terminated early with adverse safety findings of higher mortality in the high hematocrit target group.
 Higher mortality (35% vs. 29%) was observed for the patients randomized to a target hemoglobin of 14 g/dL than for the patients randomized to a target hemoglobin of 10 g/dL.
-For all-cause mortality, the HR=1.27; 95% CI (1.04, 1.54); p=0.018.
+For all-cause mortality, the HR = 1.27; 95% CI (1.04, 1.54); p = 0.018.
 The incidence of nonfatal myocardial infarction, vascular access thrombosis, and other thrombotic events was also higher in the group randomized to a target hemoglobin of 14 g/dL.
 
 CHOIR: A randomized, prospective trial, 1432 patients with anemia due to CKD who were not undergoing dialysis and who had not previously received epoetin alfa therapy were randomized to epoetin alfa treatment targeting a maintenance hemoglobin concentration of either 13.5 g/dL or 11.3 g/dL.
@@ -42,9 +42,9 @@ A major cardiovascular event (death, myocardial infarction, stroke, or hospitali
 TREAT: A randomized, double-blind, placebo-controlled, prospective trial of 4038 patients with: CKD not on dialysis (eGFR of 20 – 60 mL/min), anemia (hemoglobin levels ≤ 11 g/dL), and type 2 diabetes mellitus, patients were randomized to receive either darbepoetin alfa treatment or a matching placebo.
 Placebo group patients also received darbepoetin alfa when their hemoglobin levels were below 9 g/dL.
 The trial objectives were to demonstrate the benefit of darbepoetin alfa treatment of the anemia to a target hemoglobin level of 13 g/dL, when compared to a "placebo" group, by reducing the occurrence of either of two primary endpoints: (1) a composite cardiovascular endpoint of all-cause mortality or a specified cardiovascular event (myocardial ischemia, CHF, MI, and CVA) or (2) a composite renal endpoint of all-cause mortality or progression to end stage renal disease.
-The overall risks for each of the two primary endpoints (the cardiovascular composite and the renal composite) were not reduced with darbepoetin alfa treatment (see Table 1), but the risk of stroke was increased nearly two-fold in the darbepoetin alfa -treated group versus the placebo group: annualized stroke rate 2.1% vs. 1.1%, respectively, HR 1.92; 95% CI: 1.38, 2.68; p < 0.001.
-The relative risk of stroke was particularly high in patients with a prior stroke: annualized stroke rate 5.2% in the darbepoetin alfa- treated group and 1.9% in the placebo group, HR 3.07; 95% CI: 1.44, 6.54.
-Also, among darbepoetin alfa -treated subjects with a past history of cancer, there were more deaths due to all causes and more deaths adjudicated as due to cancer, in comparison with the control group.
+The overall risks for each of the two primary endpoints (the cardiovascular composite and the renal composite) were not reduced with darbepoetin alfa treatment (see Table 1), but the risk of stroke was increased nearly two-fold in the darbepoetin alfa-treated group versus the placebo group: annualized stroke rate 2.1% vs. 1.1%, respectively, HR 1.92; 95% CI: 1.38, 2.68; p < 0.001.
+The relative risk of stroke was particularly high in patients with a prior stroke: annualized stroke rate 5.2% in the darbepoetin alfa-treated group and 1.9% in the placebo group, HR 3.07; 95% CI: 1.44, 6.54.
+Also, among darbepoetin alfa-treated subjects with a past history of cancer, there were more deaths due to all causes and more deaths adjudicated as due to cancer, in comparison with the control group.
 
 Patients with Cancer
 
@@ -79,7 +79,7 @@ Randomized, Controlled Studies With Decreased Survival and/or Decreased Locoregi
 | --- | --- | --- | --- | --- |
 | Chemotherapy |  |  |  |  |
 | Study 1 Metastatic breast cancer (n = 2098) | ≤12 g/dL† | 11.6 g/dL; 10.7, 12.1 g/dL | Progression-free survival (PFS) | Decreased progression-free and overall survival |
-| Study 2 Metastatic breast cancer (n = 939) | 12-14 g/dL | 12.9 g/dL; 12.2, 13.3 g/dL | 12-month overall survival | Decreased 12-month survival |
+| Study 2 Metastatic breast cancer (n = 939) | 12-14 g/dL | 12.9 g/dL; 12.2, 13.3 g/dL | 12-month overall survival | Decreased 12- month survival |
 | Study 3 Lymphoid malignancy (n = 344) | 13-15 g/dL (M) 13-14 g/dL (F) | 11 g/dL; 9.8, 12.1 g/dL | Proportion of patients achieving a hemoglobin response | Decreased overall survival |
 | Study 4 Early breast cancer (n = 733) | 12.5-13 g/dL | 13.1 g/dL; 12.5, 13.7 g/dL | Relapse-free and overall survival | Decreased 3-year relapse-free and overall survival |
 | Study 5 Cervical cancer (n = 114) | 12-14 g/dL | 12.7 g/dL; 12.1, 13.3 g/dL | Progression-free and overall survival and locoregional control | Decreased 3-year progression-free and overall survival and locoregional control |
@@ -118,11 +118,11 @@ The median survival was shorter in the darbepoetin alfa treatment group than in 
 Decreased Progression-free Survival and Overall Survival
 
 Study 1 was a randomized, open-label, multicenter study in 2,098 anemic women with metastatic breast cancer, who received first line or second line chemotherapy.
-This was a non inferiority study designed to rule out a 15% risk increase in tumor progression or death of epoetin alfa plus standard of care (SOC) as compared with SOC alone.
-The median progression free survival (PFS) per investigator assessment of disease progression was 7.4 months in each arm (HR 1.09, 95% CI: 0.99, 1.20), indicating the study objective was not met.
-At the time of clinical data cutoff, 1337 deaths were reported.
-Median overall survival in the epoetin alfa plus SOC group was 17.2 months compared with 17.4 months in the SOC alone group (HR 1.06, 95% CI: 0.95, 1.18).
+This was a non-inferiority study designed to rule out a 15% risk increase in tumor progression or death of epoetin alfa plus standard of care (SOC) as compared with SOC alone.
+At the time of clinical data cutoff, the median progression free survival (PFS) per investigator assessment of disease progression was 7.4 months in each arm (HR 1.09, 95% CI: 0.99, 1.20), indicating the study objective was not met.
 There were more deaths from disease progression in the epoetin alfa plus SOC arm (59% vs. 56%) and more thrombotic vascular events in the epoetin alfa plus SOC arm (3% vs. 1%).
+At the final analysis, 1653 deaths were reported (79.8% subjects in the epoetin alfa plus SOC group and 77.8% subjects in the SOC group.
+Median overall survival in the epoetin alfa plus SOC group was 17.8 months compared with 18.0 months in the SOC alone group (HR 1.07, 95% CI: 0.97, 1.18).
 
 Study 4 was a randomized, open-label, controlled, factorial design study in which darbepoetin alfa was administered to prevent anemia in 733 women receiving neo-adjuvant breast cancer treatment.
 A final analysis was performed after a median follow-up of approximately 3 years.

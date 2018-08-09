@@ -11,7 +11,7 @@ The majority of patients with CKD will require supplemental iron during the cour
 Monitoring of Response to Therapy
 
 Correct or exclude other causes of anemia (e.g., vitamin deficiency, metabolic or chronic inflammatory conditions, bleeding, etc.) before initiating Epogen.
-Following initiation of therapy and after each dose adjustment, monitor hemoglobin weekly until the hemoglobin level is stable and sufficient to minimize the need for RBC transfusion..
+Following initiation of therapy and after each dose adjustment, monitor hemoglobin weekly until the hemoglobin level is stable and sufficient to minimize the need for RBC transfusion.
 
 Selection of Formulation
 
@@ -30,35 +30,28 @@ When initiating or adjusting therapy, monitor hemoglobin levels at least weekly 
 When adjusting therapy consider hemoglobin rate of rise, rate of decline, ESA responsiveness and hemoglobin variability.
 A single hemoglobin excursion may not require a dosing change.
 
-• Do not increase the dose more frequently than once every 4 weeks.
-Decreases in dose can occur more frequently.
-Avoid frequent dose adjustments.
-
-• If the hemoglobin rises rapidly (e.g., more than 1 g/dL in any 2-week period), reduce the dose of Epogen by 25% or more as needed to reduce rapid responses.
-
-• For patients who do not respond adequately, if the hemoglobin has not increased by more than 1 g/dL after 4 weeks of therapy, increase the dose by 25%.
-
-• For patients who do not respond adequately over a 12-week escalation period, increasing the Epogen dose further is unlikely to improve response and may increase risks.
-Use the lowest dose that will maintain a hemoglobin level sufficient to reduce the need for RBC transfusions.
-Evaluate other causes of anemia.
-Discontinue Epogen if responsiveness does not improve.
+- Do not increase the dose more frequently than once every 4 weeks.
+  Decreases in dose can occur more frequently.
+  Avoid frequent dose adjustments.
+- If the hemoglobin rises rapidly (e.g., more than 1 g/dL in any 2-week period), reduce the dose of Epogen by 25% or more as needed to reduce rapid responses.
+- For patients who do not respond adequately, if the hemoglobin has not increased by more than 1 g/dL after 4 weeks of therapy, increase the dose by 25%.
+- For patients who do not respond adequately over a 12-week escalation period, increasing the Epogen dose further is unlikely to improve response and may increase risks.
+  Use the lowest dose that will maintain a hemoglobin level sufficient to reduce the need for RBC transfusions.
+  Evaluate other causes of anemia.
+  Discontinue Epogen if responsiveness does not improve.
 
 For adult patients with CKD on dialysis:
 
-• Initiate Epogen treatment when the hemoglobin level is less than 10 g/dL.
-
-• If the hemoglobin level approaches or exceeds 11 g/dL, reduce or interrupt the dose of Epogen.
-
-• The recommended starting dose for adult patients is 50 to 100 Units/kg 3 times weekly intravenously or subcutaneously.
-The intravenous route is recommended for patients on hemodialysis.
+- Initiate Epogen treatment when the hemoglobin level is less than 10 g/dL.
+- If the hemoglobin level approaches or exceeds 11 g/dL, reduce or interrupt the dose of Epogen.
+- The recommended starting dose for adult patients is 50 to 100 Units/kg 3 times weekly intravenously or subcutaneously.
+  The intravenous route is recommended for patients on hemodialysis.
 
 For adult patients with CKD not on dialysis:
 
-• Consider initiating Epogen treatment only when the hemoglobin level is less than 10 g/dL and the following considerations apply: ○ The rate of hemoglobin decline indicates the likelihood of requiring a RBC transfusion and, ○ Reducing the risk of alloimmunization and/or other RBC transfusion-related risks is a goal
-
-• If the hemoglobin level exceeds 10 g/dL, reduce or interrupt the dose of Epogen, and use the lowest dose of Epogen sufficient to reduce the need for RBC transfusions.
-
-• The recommended starting dose for adult patients is 50 to 100 Units/kg 3 times weekly intravenously or subcutaneously.
+- Consider initiating Epogen treatment only when the hemoglobin level is less than 10 g/dL and the following considerations apply: ○ The rate of hemoglobin decline indicates the likelihood of requiring a RBC transfusion and, ○ Reducing the risk of alloimmunization and/or other RBC transfusion-related risks is a goal
+- If the hemoglobin level exceeds 10 g/dL, reduce or interrupt the dose of Epogen, and use the lowest dose of Epogen sufficient to reduce the need for RBC transfusions.
+- The recommended starting dose for adult patients is 50 to 100 Units/kg 3 times weekly intravenously or subcutaneously.
 
 For pediatric patients with CKD:
 
@@ -132,10 +125,17 @@ Deep venous thrombosis prophylaxis is recommended during Epogen therapy [see War
 
 ## 2.6 Preparation and Administration
 
-| Do not shake. Do not use Epogen that has been shaken or frozen. |
-| --- |
-| Protect vials from light. |
-| Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration. Do not use any vials exhibiting particulate matter or discoloration. |
-| Discard unused portions of Epogen in preservative-free vials. Do not re-enter preservative-free vials. |
-| Store unused portions of Epogen in multiple-dose vials at 36°F to 46°F (2°C to 8°C). Discard 21 days after initial entry. |
-| Do not dilute. Do not mix with other drug solutions except for admixing as described below: Preservative-free Epogen from single-dose vials may be admixed in a syringe with bacteriostatic 0.9% sodium chloride injection, USP, with benzyl alcohol 0.9% (bacteriostatic saline) in a 1:1 ratio using aseptic technique at the time of administration. Do not mix Epogen with bacteriostatic saline when administering to pregnant women, lactating women, neonates, and infants [see Use in Specific Populations (8.1, 8.2, 8.4)]. |
+- Do not shake.
+  Do not use Epogen that has been shaken or frozen.
+- Protect vials from light.
+- Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration.
+  Do not use any vials exhibiting particulate matter or discoloration.
+- Discard unused portions of Epogen in preservative-free vials.
+  Do not re-enter preservative-free vials.
+- Store unused portions of Epogen in multiple-dose vials at 36°F to 46°F (2°C to 8°C).
+  Discard 21 days after initial entry.
+- Do not dilute.
+  Do not mix with other drug solutions except for admixing as described below:
+
+Preservative-free Epogen from single-dose vials may be admixed in a syringe with bacteriostatic 0.9% sodium chloride injection, USP, with benzyl alcohol 0.9% (bacteriostatic saline) in a 1:1 ratio using aseptic technique at the time of administration.
+Do not mix Epogen with bacteriostatic saline when administering to pregnant women, lactating women, neonates, and infants [see Use in Specific Populations (8.1, 8.2, 8.4)].

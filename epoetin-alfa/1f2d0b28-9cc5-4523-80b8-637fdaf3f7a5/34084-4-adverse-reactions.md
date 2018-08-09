@@ -133,10 +133,9 @@ The adverse reactions with a reported incidence of ≥ 1% in Epogen-treated pati
 Table 7.
 Adverse Reactions in Surgery Patients
 
-| Adverse Reaction | Study S1 |  |  | Study S2 |  |
+|  | Study S1 |  |  | Study S2 |  |
 | --- | --- | --- | --- | --- | --- |
-|  | Epogen 300 U/kg | Epogen 100 U/kg | Placebo | Epogen 600 U/kg x 4 weeks | Epogen 300 U/kg x 15 days |
-|  | (n = 112)a | (n = 101)a | (n = 103)a | (n = 73)b | (n = 72)b |
+| Adverse Reaction | Epogen 300 U/kg (n = 112)a | Epogen 100 U/kg (n = 101)a | Placebo (n = 103)a | Epogen 600 U/kg x 4 weeks (n = 73)b | Epogen 300 U/kg x 15 days (n = 72)b |
 | Nausea | 47% | 43% | 45% | 45% | 56% |
 | Vomiting | 21% | 12% | 14% | 19% | 28% |
 | Pruritus | 16% | 16% | 14% | 12% | 21% |

@@ -14,7 +14,7 @@ Consider the benefits and risks of Epogen single-dose vials for the mother and p
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risks of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15- 20%, respectively.
+In the U.S. general population, the estimated background risks of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
 Clinical Considerations
 
@@ -34,7 +34,7 @@ Due to the limited number of exposed pregnancies and multiple confounding factor
 
 Animal Data
 
-When rats received Epogen at doses greater than or equal to 100 Units/kg/day during mating and through early pregnancy (dosing stopped prior to organogenesis), there were slight increases in the incidences of pre-and post-implantation loss, and a decrease in live fetuses in the presence of maternal toxicity (red limbs/pinna, focal splenic capsular toxicity, increased organ weights).
+When rats received Epogen at doses greater than or equal to 100 Units/kg/day during mating and through early pregnancy (dosing stopped prior to organogenesis), there were slight increases in the incidences of pre- and post-implantation loss, and a decrease in live fetuses in the presence of maternal toxicity (red limbs/pinna, focal splenic capsular toxicity, increased organ weights).
 This animal dose level of 100 Units/kg/day may approximate the clinical recommended starting dose, depending on the treatment indication.
 When pregnant rats and rabbits received intravenous doses of up to 500 mg/kg/day of Epogen only during organogenesis (gestational days 7 to 17 in rats and gestational days 6 to 18 in rabbits), no teratogenic effects were observed in the offspring.
 The offspring (F1 generation) of the treated rats were observed postnatally; rats from the F1 generation reached maturity and were mated; no Epogen-related effects were apparent for their offspring (F2 generation fetuses).
@@ -47,7 +47,8 @@ This animal dose level of 500 U/kg/day is approximately five times the clinical 
 Risk Summary
 
 Epogen from multiple-dose vials contains benzyl alcohol and is contraindicated in lactating women [see Contraindications (4), Warnings and Precautions (5.9)].
-Advise a lactating woman not to breastfeed for at least 2 weeks after the last dose.The preservative benzyl alcohol has been associated with serious adverse reactions and death when administered intravenously to neonates and infants [see Use in Specific Populations (8.4)].
+Advise a lactating woman not to breastfeed for at least 2 weeks after the last dose.
+The preservative benzyl alcohol has been associated with serious adverse reactions and death when administered intravenously to neonates and infants [see Use in Specific Populations (8.4)].
 There is a potential for similar risks to infants exposed to benzyl alcohol through human milk.
 
 Do not mix Epogen with bacteriostatic saline containing benzyl alcohol, if administering Epogen to a lactating woman [see Dosage and Administration (2.1)].
