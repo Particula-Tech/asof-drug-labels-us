@@ -5,7 +5,7 @@ Each teaspoonful (5 mL) contains 5 mg cetirizine hydrochloride.
 
 Cetirizine hydrochloride oral solution is supplied as follows:
 
-120 mL amber plastic bottles NDC 51672-4070-8
+120 mL plastic bottles NDC 51672-4070-8
 
 ## STORAGE
 
