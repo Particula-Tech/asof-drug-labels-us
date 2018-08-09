@@ -14,7 +14,7 @@ Inform patients of the risk of central and peripheral nervous system effects wit
 
 Photosensitivity
 
-Avoid exposure to sun or sun lamps while taking PYLERA [see Warnings and Precautions (5.7].
+Avoid exposure to sun or sun lamps while taking PYLERA [see Warnings and Precautions (5.7).
 
 Drug Interactions
 

@@ -102,4 +102,4 @@ In patients with severe renal impairment, higher serum concentrations of tetracy
 
 Patients with severe hepatic disease metabolize metronidazole slowly, with resultant accumulation of metronidazole and its metabolites in plasma.
 Patients with mild to moderate hepatic impairment should be monitored for metronidazole associated adverse events.
-PYLERA is not recommended in patients with severe hepatic impairment [see Warnings and Precautions (5.10), Clinical Pharmacology (12.3)].].
+PYLERA is not recommended in patients with severe hepatic impairment [see Warnings and Precautions (5.10), Clinical Pharmacology (12.3)].

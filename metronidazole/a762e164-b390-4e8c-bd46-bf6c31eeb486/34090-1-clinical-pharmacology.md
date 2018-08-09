@@ -156,8 +156,7 @@ Quality Control
 Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test [see References (15)].
 Standard metronidazole or tetracycline powder should provide the following range of MIC values noted in Table 6.
 
-Table 6.
-Acceptable Quality Control Ranges for Metronidazole and Tetracycline
+Table 6: Acceptable Quality Control Ranges for Metronidazole and Tetracycline
 
 | QC Strain | Agar Dilution (mcg/mL) |
 | --- | --- |
