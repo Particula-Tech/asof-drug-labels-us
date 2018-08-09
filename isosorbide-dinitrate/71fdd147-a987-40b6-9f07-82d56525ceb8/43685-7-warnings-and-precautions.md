@@ -1,6 +1,6 @@
 # WARNINGS
 
-Amplification of the vasodilatory effects of isosorbidedinitrate by sildenafil can result in severe hypotension.
+Amplification of the vasodilatory effects of isosorbide dinitrate by sildenafil can result in severe hypotension.
 The time course and dose dependence of this interaction have not been studied.
 Appropriate supportive care has not been studied, but it seems reasonable to treat this as a nitrate overdose, with elevation of the extremities and with central volume expansion.
 
@@ -50,7 +50,7 @@ Concomitant use of isosorbide dinitrate with riociguat, a soluble guanylate cycl
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 No long-term studies in animals have been performed to evaluate the carcinogenic potential of isosorbide dinitrate.
-In a modified two-litter reproduction study there was no remarkable gross pathology and no altered fertility or gestation among rats fed isosorbide dinitrate at 25 or 100 mg/kg/day.
+In a modified two-litter reproduction study there was no remarkable gross pathology and no altered fertility or gestation among rats fed isosorbide dinitrate at 25 mg/kg/day or 100 mg/kg/day.
 
 ## Pregnancy
 

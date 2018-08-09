@@ -51,3 +51,39 @@ Rx only
 100 Tablets
 
 SANDOZ
+
+# 10 mg Carton Label
+
+NDC 0781-8011-13
+
+Isosorbide
+
+Dinitrate
+
+Tablets, USP
+
+10 mg ORAL
+
+Rx only
+
+100 Tablets
+
+SANDOZ
+
+# 20 mg Carton Label
+
+NDC 0781-8026-13
+
+Isosorbide
+
+Dinitrate
+
+Tablets, USP
+
+20 mg ORAL
+
+Rx only
+
+100 Tablets
+
+SANDOZ
