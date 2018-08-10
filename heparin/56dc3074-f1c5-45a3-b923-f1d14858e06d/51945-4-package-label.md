@@ -2,23 +2,23 @@
 
 NDC 0069-0058-02
 
-HEPARIN Sodium Injection, USP
+Multidose Vial
 
-10,000 USP units/10 mL (1,000 USP units/mL)
+Heparin Sodium Injection, USP
+
+10,000 USP units / 10 mL (1,000 USP units/mL)
 
 Warning: Contains Benzyl Alcohol
 
-Multidose Vial
-
-NOT for Lock Flush
+Rx only
 
 # PRINCIPAL DISPLAY PANEL - 10,000 USP units/10 mL Multidose Vial Carton
 
+NDC 0069-0058-01 Contains 25 of NDC 0069-0058-02 Rx only
+
 Twenty-five—10 mL Multidose Vials
 
-NDC 0069-0058-01 Contains 25 of NDC 0069-0058-02
-
-HEPARIN Sodium Injection, USP
+Heparin Sodium Injection, USP
 
 10,000 USP units/10 mL (1,000 USP units per mL)
 
@@ -26,39 +26,33 @@ Derived from porcine intestinal tissue
 
 For subcutaneous or intravenous use
 
-Pfizer Injectables
-
-PAA043613 LOT/EXP
-
 Warning: Contains Benzyl Alcohol
 
 NOT for Lock Flush
 
-Rx only
-
-Multidose Vials
+Pfizer Injectables
 
 # PRINCIPAL DISPLAY PANEL - 50,000 USP units/10 mL Multidose Vial Label
 
 NDC 0069-0059-02
 
-HEPARIN Sodium Injection, USP
+Multidose Vial
 
-50,000 USP units/10 mL (5,000 USP units/mL)
+Heparin Sodium Injection, USP
+
+50,000 USP units / 10 mL (1,000 USP units/mL)
 
 Warning: Contains Benzyl Alcohol
 
-Multidose Vial
-
-NOT for Lock Flush
+Rx only
 
 # PRINCIPAL DISPLAY PANEL - 50,000 USP units/10 mL Multidose Vial Carton
 
+NDC 0069-0059-01 Contains 25 of NDC 0069-0059-02 Rx only
+
 Twenty-five—10 mL Multidose Vials
 
-NDC 0069-0059-01 Contains 25 of NDC 0069-0059-02
-
-HEPARIN Sodium Injection, USP
+Heparin Sodium Injection, USP
 
 50,000 USP units/10 mL (5,000 USP units per mL)
 
@@ -66,79 +60,67 @@ Derived from porcine intestinal tissue
 
 For subcutaneous or intravenous use
 
-Pfizer Injectables
-
-PAA043633 LOT/EXP
-
 Warning: Contains Benzyl Alcohol
 
 NOT for Lock Flush
 
-Rx only
-
-Multidose Vials
+Pfizer Injectables
 
 # PRINCIPAL DISPLAY PANEL - 1 mL Multidose Vial Label
 
 NDC 0069-0062-02
 
-HEPARIN Sodium Injection, USP
+Multidose Vial
 
-10,000 USP units/mL
+Heparin Sodium Injection, USP
+
+10,000 USP units / mL
 
 Warning: Contains Benzyl Alcohol
 
-Multidose Vial
-
-NOT for Lock Flush
+Rx only
 
 # PRINCIPAL DISPLAY PANEL - 1 mL Multidose Vial Carton
 
+NDC 0069-0062-01 Contains 25 of NDC 0069-0062-02 Rx only
+
 Twenty-five—1 mL Multidose Vials
 
-NDC 0069-0062-01 Contains 25 of NDC 0069-0062-02
+Heparin Sodium Injection, USP
 
-HEPARIN Sodium Injection, USP
-
-10,000 USP units/mL
+10,000 USP units /mL
 
 Derived from porcine intestinal tissue
 
 For subcutaneous or intravenous use
 
-Pfizer Injectables
-
-PAA043617 LOT/EXP IMPRINT AREA
-
 Warning: Contains Benzyl Alcohol
 
+Pfizer Injectables
+
 NOT for Lock Flush
-
-Rx only
-
-Multidose Vials
 
 # PRINCIPAL DISPLAY PANEL - 2 mL Single Dose Vial Label
 
 NDC 0069-0043-02
 
-HEPARIN Sodium Injection, USP
+Single Dose Vial
 
-2,000 USP units/2 mL (1,000 USP units/mL)
+Heparin Sodium Injection, USP
 
-Preservative-Free Single Dose Vial Rx only
+2,000 USP units / 2 mL (1,000 USP units/mL)
 
-NOT for Lock Flush
+Preservative-Free Rx only
 
 # PRINCIPAL DISPLAY PANEL - 2 mL Single Dose Vial Carton
 
+NDC 0069-0043-01 Contains 25 of NDC 0069-0043-02 Rx only
+
 Twenty-five—2 mL Single Dose Vials
 
-NDC 0069-0043-01 Contains 25 of NDC 0069-0043-02
+Heparin Sodium Injection, USP
 
-HEPARIN Sodium Injection, USP
-
-2,000 USP units/2 mL (1,000 USP units per mL)
+2,000 USP units /2 mL (1,000 USP units per mL)
 
 Derived from porcine intestinal tissue
 
@@ -146,15 +128,9 @@ For subcutaneous or intravenous use
 
 Pfizer Injectables
 
-PAA043615 LOT/EXP IMPRINT AREA
-
 Preservative-Free
 
 NOT for Lock Flush
-
-Rx only
-
-Single Dose Vials
 
 # PRINCIPAL DISPLAY PANEL - 30 mL Multidose Vial Label
 
