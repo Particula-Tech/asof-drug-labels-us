@@ -18,7 +18,7 @@ NDC 0054-8526-25: 10x10 Unit-Dose (For Institutional Use Only).
 
 NDC 0054-2526-25: Bottle of 100 Capsules
 
-300 mg supplied as opaque, flesh-colored capsules imprinted with product identification “54 463” on both caps and bodies and containing a white powder.
+300 mg supplied as opaque, light pink-colored capsules imprinted with product identification “54 463” on both caps and bodies and containing a white powder.
 
 NDC 0054-8527-25: 10x10 Unit-Dose (For Institutional Use Only).
 
@@ -26,7 +26,7 @@ NDC 0054-2527-25: Bottle of 100 Capsules
 
 NDC 0054-2527-31: Bottle of 1,000 Capsules
 
-600 mg supplied as elongated capsules having opaque, flesh-colored caps with white bodies, imprinted with product identification “54 702” on both caps and bodies and containing a white powder.
+600 mg supplied as elongated capsules having opaque, light pink-colored caps with white bodies, imprinted with product identification “54 702” on both caps and bodies and containing a white powder.
 
 NDC 0054-8531-25: 10x10 Unit-Dose (For Institutional Use Only).
 

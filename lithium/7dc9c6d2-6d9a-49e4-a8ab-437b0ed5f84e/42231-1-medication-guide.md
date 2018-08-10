@@ -16,6 +16,6 @@
 
 This Medication Guide is approved by the U.S. Food and Drug Administration.
 
-Revised March 2017
+Revised December 2017
 
-10008909/03
+10008909/04
