@@ -28,5 +28,5 @@ The mechanism(s) underlying bone toxicity is unknown.
 
 Evidence of renal toxicity was noted in 4 animal species.
 Increases in serum creatinine, BUN, glycosuria, proteinuria, phosphaturia, and/or calciuria and decreases in serum phosphate were observed to varying degrees in these animals.
-These toxicities were noted at exposures (based on AUCs) 2−20 times higher than those observed in humans.
+These toxicities were noted at exposures (based on AUCs) 2–20 times higher than those observed in humans.
 The relationship of the renal abnormalities, particularly the phosphaturia, to the bone toxicity is not known.

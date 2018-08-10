@@ -21,9 +21,9 @@ The most common adverse reactions (incidence greater than or equal to 10%, Grade
 
 Treatment-Naïve Patients
 
-Study 903 −Treatment-Emergent Adverse Reactions: The most common adverse reactions seen in a double-blind comparative controlled trial in which 600 treatment-naïve subjects received VIREAD (N=299) or stavudine (N=301) in combination with lamivudine and efavirenz for 144 weeks (Study 903) were mild to moderate gastrointestinal events and dizziness.
+Study 903 –Treatment-Emergent Adverse Reactions: The most common adverse reactions seen in a double-blind comparative controlled trial in which 600 treatment-naïve subjects received VIREAD (N=299) or stavudine (N=301) in combination with lamivudine and efavirenz for 144 weeks (Study 903) were mild to moderate gastrointestinal events and dizziness.
 
-Mild adverse reactions (Grade 1) were common with a similar incidence in both arms, and included dizziness, diarrhea, and nausea.
+Mild adverse reactions (Grade 1) were common with a similar incidence in both arms and included dizziness, diarrhea, and nausea.
 Selected treatment-emergent moderate to severe adverse reactions are summarized in Table 4.
 
 Table 4 Selected Treatment-Emergent Adverse ReactionsFrequencies of adverse reactions are based on all treatment-emergent adverse events, regardless of relationship to study drug.
@@ -91,7 +91,7 @@ Clinically relevant fractures (excluding fingers and toes) were reported in 4 su
 In addition, there were significant increases in biochemical markers of bone metabolism (serum bone-specific alkaline phosphatase, serum osteocalcin, serum C telopeptide, and urinary N telopeptide) and higher serum parathyroid hormone levels and 1,25 Vitamin D levels in the VIREAD group relative to the stavudine group; however, except for bone-specific alkaline phosphatase, these changes resulted in values that remained within the normal range [See Warnings and Precautions (5.6)].
 
 Table 6 Selected Treatment-Emergent Adverse ReactionsFrequencies of adverse reactions are based on all treatment-emergent adverse events, regardless of relationship to study drug.
-(Grades 2−4) Reported in ≥5% in Any Treatment Group in Study 934 (0−144 Weeks)
+(Grades 2–4) Reported in ≥5% in Any Treatment Group in Study 934 (0–144 Weeks)
 
 | N=257 | N=254 |  |
 | --- | --- | --- |
@@ -144,9 +144,9 @@ Less than 1% of subjects discontinued participation in the clinical trials due t
 A summary of moderate to severe treatment-emergent adverse reactions that occurred during the first 48 weeks of Study 907 is provided in Table 8.
 
 Table 8 Selected Treatment-Emergent Adverse ReactionsFrequencies of adverse reactions are based on all treatment-emergent adverse events, regardless of relationship to study drug.
-(Grades 2−4) Reported in ≥3% in Any Treatment Group in Study 907 (0–48 Weeks)
+(Grades 2–4) Reported in ≥3% in Any Treatment Group in Study 907 (0–48 Weeks)
 
-|  | VIREAD (N=368) (Week 0−24) | Placebo (N=182) (Week 0−24) | VIREAD (N=368) (Week 0−48) | Placebo Crossover to VIREAD (N=170) (Week 24−48) |
+|  | VIREAD (N=368) (Week 0–24) | Placebo (N=182) (Week 0–24) | VIREAD (N=368) (Week 0–48) | Placebo Crossover to VIREAD (N=170) (Week 24–48) |
 | --- | --- | --- | --- | --- |
 | Body as a Whole |  |  |  |  |
 | Asthenia | 7% | 6% | 11% | 1% |
@@ -181,9 +181,9 @@ Table 8 Selected Treatment-Emergent Adverse ReactionsFrequencies of adverse reac
 Laboratory Abnormalities: Laboratory abnormalities observed in this trial occurred with similar frequency in the VIREAD and placebo-treated groups.
 A summary of Grades 3–4 laboratory abnormalities is provided in Table 9.
 
-Table 9 Grades 3–4 Laboratory Abnormalities Reported in ≥1% of VIREAD-Treated Subjects in Study 907 (0−48 Weeks)
+Table 9 Grades 3–4 Laboratory Abnormalities Reported in ≥1% of VIREAD-Treated Subjects in Study 907 (0–48 Weeks)
 
-|  | VIREAD (N=368) (Week 0−24) | Placebo (N=182) (Week 0−24) | VIREAD (N=368) (Week 0−48) | Placebo Crossover to VIREAD (N=170) (Week 24−48) |
+|  | VIREAD (N=368) (Week 0–24) | Placebo (N=182) (Week 0–24) | VIREAD (N=368) (Week 0–48) | Placebo Crossover to VIREAD (N=170) (Week 24–48) |
 | --- | --- | --- | --- | --- |
 | Any ≥ Grade 3 Laboratory Abnormality | 25% | 38% | 35% | 34% |
 | Triglycerides (>750 mg/dL) | 8% | 13% | 11% | 9% |
@@ -208,11 +208,11 @@ Changes in Bone Mineral Density:
 
 Clinical trials in HIV-1 infected children and adolescents evaluated BMD changes.
 In Study 321 (12 to less than 18 years), the mean rate of BMD gain at Week 48 was less in the VIREAD compared to the placebo treatment group.
-Six VIREAD treated subjects and one placebo treated subject had significant (greater than 4%) lumbar spine BMD loss at Week 48.
+Six VIREAD-treated subjects and one placebo-treated subject had significant (greater than 4%) lumbar spine BMD loss at Week 48.
 Changes from baseline BMD Z-scores were −0.341 for lumbar spine and −0.458 for total body in the 28 subjects who were treated with VIREAD for 96 weeks.
 In Study 352 (2 to less than 12 years), the mean rate of BMD gain in lumbar spine at Week 48 was similar between the VIREAD and the d4T or AZT treatment groups.
 Total body BMD gain was less in the VIREAD compared to the d4T or AZT treatment groups.
-One VIREAD-treated subject and none of the d4T or AZT-treated subjects experienced significant (greater than 4%) lumbar spine BMD loss at Week 48.
+One VIREAD-treated subject and none of the d4T- or AZT-treated subjects experienced significant (greater than 4%) lumbar spine BMD loss at Week 48.
 Changes from baseline in BMD Z scores were −0.012 for lumbar spine and −0.338 for total body in the 64 subjects who were treated with VIREAD for 96 weeks.
 In both trials, skeletal growth (height) appeared to be unaffected [See Warnings and Precautions (5.6)].
 
@@ -239,7 +239,7 @@ Table 10 Grades 3–4 Laboratory Abnormalities Reported in ≥1% of VIREAD-Treat
 | ALT (M: >215 U/L; F: >170 U/L) | 10% | 6% |
 
 The overall incidence of on-treatment ALT flares (defined as serum ALT greater than 2 × baseline and greater than 10 × ULN, with or without associated symptoms) was similar between VIREAD (2.6%) and HEPSERA (2%).
-ALT flares generally occurred within the first 4−8 weeks of treatment and were accompanied by decreases in HBV DNA levels.
+ALT flares generally occurred within the first 4–8 weeks of treatment and were accompanied by decreases in HBV DNA levels.
 No subject had evidence of decompensation.
 ALT flares typically resolved within 4 to 8 weeks without changes in study medication.
 

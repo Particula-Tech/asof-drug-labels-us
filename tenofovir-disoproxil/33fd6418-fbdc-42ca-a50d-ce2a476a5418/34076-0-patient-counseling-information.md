@@ -27,7 +27,7 @@ Inform patients that:
   VIREAD should be avoided with concurrent or recent use of a nephrotoxic agent (e.g., high-dose or multiple NSAIDs) [See Warnings and Precautions (5.2)].
 - Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported.
   Treatment with VIREAD should be suspended in any patient who develops clinical symptoms suggestive of lactic acidosis or pronounced hepatotoxicity [See Warnings and Precautions (5.3)].
-- VIREAD should not be coadministered with ATRIPLA, COMPLERA, DESCOVY, GENVOYA, ODEFSEY, STRIBILD, TRUVADA, or VEMLIDY [See Warnings and Precautions (5.4)].
+- VIREAD should not be coadministered with ATRIPLA, BIKTARVY, COMPLERA, DESCOVY, GENVOYA, ODEFSEY, STRIBILD, TRUVADA, or VEMLIDY [See Warnings and Precautions (5.4)].
 - VIREAD should not be administered in combination with HEPSERA [See Warnings and Precautions (5.4)].
 - Decreases in bone mineral density have been observed with the use of VIREAD.
   Bone mineral density monitoring should be considered in patients who have a history of pathologic bone fracture or at risk for osteopenia [See Warnings and Precautions (5.6)].

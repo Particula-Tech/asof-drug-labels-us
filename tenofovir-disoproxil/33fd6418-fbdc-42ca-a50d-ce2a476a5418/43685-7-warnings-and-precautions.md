@@ -17,7 +17,7 @@ In patients at risk of renal dysfunction, including patients who have previously
 Dosing interval adjustment of VIREAD and close monitoring of renal function are recommended in all patients with creatinine clearance below 50 mL/min [See Dosage and Administration (2.3)].
 No safety or efficacy data are available in patients with renal impairment who received VIREAD using these dosing guidelines, so the potential benefit of VIREAD therapy should be assessed against the potential risk of renal toxicity.
 
-VIREAD should be avoided with concurrent or recent use of a nephrotoxic agent (e.g., high-dose or multiple non-steroidal anti-inflammatory drugs (NSAIDs)) [See Drug Interactions (7.4)].
+VIREAD should be avoided with concurrent or recent use of a nephrotoxic agent (e.g., high-dose or multiple non-steroidal anti-inflammatory drugs (NSAIDs)) [See Drug Interactions (7.1)].
 Cases of acute renal failure after initiation of high dose or multiple NSAIDs have been reported in HIV-infected patients with risk factors for renal dysfunction who appeared stable on tenofovir DF.
 Some patients required hospitalization and renal replacement therapy.
 Alternatives to NSAIDs should be considered, if needed, in patients at risk for renal dysfunction.
@@ -31,8 +31,8 @@ Treatment with VIREAD should be suspended in any patient who develops clinical o
 
 ## 5.4 Coadministration with Other Products
 
-VIREAD should not be used in combination with other drugs containing tenofovir DF or tenofovir alafenamide, including ATRIPLA, COMPLERA, DESCOVY, GENVOYA, ODEFSEY, STRIBILD, TRUVADA, or VEMLIDY.
-VIREAD should not be administered in combination with HEPSERA (adefovir dipivoxil) [See Drug Interactions (7.4)].
+VIREAD should not be used in combination with other drugs containing tenofovir DF or tenofovir alafenamide, including ATRIPLA, BIKTARVY, COMPLERA, DESCOVY, GENVOYA, ODEFSEY, STRIBILD, TRUVADA, or VEMLIDY.
+VIREAD should not be administered in combination with HEPSERA (adefovir dipivoxil) [See Drug Interactions (7.2)].
 
 ## 5.5 Patients Coinfected with HIV-1 and HBV
 
@@ -43,7 +43,7 @@ It is also recommended that all patients with HIV-1 be tested for the presence o
 
 ## 5.6 Bone Effects
 
-Bone Mineral Density:
+### Bone Mineral Density:
 
 In clinical trials in HIV-1 infected adults, VIREAD was associated with slightly greater decreases in bone mineral density (BMD) and increases in biochemical markers of bone metabolism, suggesting increased bone turnover relative to comparators.
 Serum parathyroid hormone levels and 1,25 Vitamin D levels were also higher in subjects receiving VIREAD [See Adverse Reactions (6.1)].

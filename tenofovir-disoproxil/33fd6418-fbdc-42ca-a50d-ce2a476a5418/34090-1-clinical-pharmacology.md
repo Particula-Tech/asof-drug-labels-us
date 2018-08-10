@@ -29,7 +29,7 @@ Metabolism and Elimination
 
 In vitro studies indicate that neither tenofovir disoproxil nor tenofovir are substrates of CYP enzymes.
 
-Following IV administration of tenofovir, approximately 70−80% of the dose is recovered in the urine as unchanged tenofovir within 72 hours of dosing.
+Following IV administration of tenofovir, approximately 70–80% of the dose is recovered in the urine as unchanged tenofovir within 72 hours of dosing.
 Following single dose, oral administration of VIREAD, the terminal elimination half-life of tenofovir is approximately 17 hours.
 After multiple oral doses of VIREAD 300 mg once daily (under fed conditions), 32 ± 10% of the administered dose is recovered in urine over 24 hours.
 
@@ -49,10 +49,10 @@ Race: There were insufficient numbers from racial and ethnic groups other than C
 
 Gender: Tenofovir pharmacokinetics are similar in male and female subjects.
 
-Pediatric Patients 2 Years of Age and Older: Steady-state pharmacokinetics of tenofovir were evaluated in 31 HIV-1 infected pediatric subjects 2 to less than 18 years (Table 11).
+Pediatric Patients 2 Years of Age and Older: Steady-state pharmacokinetics of tenofovir were evaluated in 31 HIV-1 infected pediatric subjects 2 to less than 18 years (Table 12).
 Tenofovir exposure achieved in these pediatric subjects receiving oral once daily doses of VIREAD 300 mg (tablet) or 8 mg/kg of body weight (powder) up to a maximum dose of 300 mg was similar to exposures achieved in adults receiving once-daily doses of VIREAD 300 mg.
 
-Table 11 Mean (± SD) Tenofovir Pharmacokinetic Parameters by Age Groups for HIV-1-infected Pediatric Patients
+Table 12 Mean (± SD) Tenofovir Pharmacokinetic Parameters by Age Groups for HIV-1-infected Pediatric Patients
 
 |  | 12 to <18 Years (N=8) | 2 to <12 Years (N=23) |
 | --- | --- | --- |
@@ -65,10 +65,10 @@ Tenofovir exposures in 52 HBV-infected pediatric subjects (12 to less than 18 ye
 Geriatric Patients: Pharmacokinetic trials have not been performed in the elderly (65 years and older).
 
 Patients with Impaired Renal Function: The pharmacokinetics of tenofovir are altered in subjects with renal impairment [See Warnings and Precautions (5.2)].
-In subjects with creatinine clearance below 50 mL/min or with end-stage renal disease (ESRD) requiring dialysis, Cmax, and AUC0–∞ of tenofovir were increased (Table 12).
+In subjects with creatinine clearance below 50 mL/min or with end-stage renal disease (ESRD) requiring dialysis, Cmax, and AUC0–∞ of tenofovir were increased (Table 13).
 It is recommended that the dosing interval for VIREAD be modified in patients with estimated creatinine clearance below 50 mL/min or in patients with ESRD who require dialysis [See Dosage and Administration (2.3)].
 
-Table 12 Pharmacokinetic Parameters (Mean ± SD) of Tenofovir300 mg, single dose of VIREAD in Subjects with Varying Degrees of Renal Function
+Table 13 Pharmacokinetic Parameters (Mean ± SD) of Tenofovir300 mg, single dose of VIREAD in Subjects with Varying Degrees of Renal Function
 
 | Baseline Creatinine Clearance (mL/min) | >80 (N=3) | 50–80 (N=10) | 30–49 (N=8) | 12–29 (N=11) |
 | --- | --- | --- | --- | --- |
@@ -91,44 +91,38 @@ However, a small (6%) but statistically significant reduction in metabolism of C
 Based on the results of in vitro experiments and the known elimination pathway of tenofovir, the potential for CYP-mediated interactions involving tenofovir with other medicinal products is low.
 
 VIREAD has been evaluated in healthy volunteers in combination with other antiretroviral and potential concomitant drugs.
-Tables 13 and 14 summarize pharmacokinetic effects of coadministered drug on tenofovir pharmacokinetics and effects of VIREAD on the pharmacokinetics of coadministered drug.
-Coadministration of VIREAD with didanosine results in changes in the pharmacokinetics of didanosine that may be of clinical significance.
-Concomitant dosing of VIREAD with didanosine significantly increases the Cmax and AUC of didanosine.
-When didanosine 250 mg enteric-coated capsules were administered with VIREAD, systemic exposures of didanosine were similar to those seen with the 400 mg enteric-coated capsules alone under fasted conditions (Table 14).
-The mechanism of this interaction is unknown.
+Tables 14 and 15 summarize pharmacokinetic effects of coadministered drug on tenofovir pharmacokinetics and effects of VIREAD on the pharmacokinetics of coadministered drug.
+
+TDF is a substrate of P-glycoprotein (P-gp) and breast cancer resistance protein (BCRP) transporters.
+When TDF is coadministered with an inhibitor of these transporters, an increase in absorption may be observed.
 
 No clinically significant drug interactions have been observed between VIREAD and efavirenz, methadone, nelfinavir, oral contraceptives, ribavirin, or sofosbuvir.
 
-Table 13 Drug Interactions: Changes in Pharmacokinetic Parameters for TenofovirSubjects received VIREAD 300 mg once daily. in the Presence of the Coadministered Drug
+Table 14 Drug Interactions: Changes in Pharmacokinetic Parameters for TenofovirSubjects received VIREAD 300 mg once daily. in the Presence of the Coadministered Drug
 
 | Cmax | AUC | Cmin |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dose of Coadministered Drug (mg) | N | % Change of Tenofovir Pharmacokinetic ParametersIncrease = ↑; Decrease = ↓; No Effect = ⇔ (90% CI) |  |  |
 | AtazanavirReyataz Prescribing Information. | 400 once daily × 14 days | 33 | ↑ 14 (↑ 8 to ↑ 20) | ↑ 24 (↑ 21 to ↑ 28) | ↑ 22 (↑ 15 to ↑ 30) |
 | Atazanavir/ Ritonavir | 300/100 once daily | 12 | ↑ 34 (↑ 20 to ↑ 51) | ↑ 37 (↑ 30 to ↑ 45) | ↑ 29 (↑ 21 to ↑ 36) |
-| Darunavir/RitonavirPrezista Prescribing Information. | 300/100 twice daily | 12 | ↑ 24 (↑ 8 to ↑ 42) | ↑ 22 (↑ 10 to ↑ 35) | ↑ 37 (↑ 19 to ↑ 57) |
+| Darunavir/ Ritonavird. Prezista Prescribing Information. | 300/100 twice daily | 12 | ↑ 24 (↑ 8 to ↑ 42) | ↑ 22 (↑ 10 to ↑ 35) | ↑ 37 (↑ 19 to ↑ 57) |
 | Indinavir | 800 three times daily × 7 days | 13 | ↑ 14 (↓ 3 to ↑ 33) | ⇔ | ⇔ |
-| Ledipasvir/ SofosbuvirData generated from simultaneous dosing with HARVONI (ledipasvir/sofosbuvir). Staggered administration (12 hours apart) provide similar results.,Comparison based on exposures when administered as atazanavir/ritonavir + emtricitabine/tenofovir DF. | 90/400 once daily × 10 days | 24 | ↑ 47 (↑ 37 to ↑ 58) | ↑ 35 (↑ 29 to ↑ 42) | ↑ 47 (↑ 38 to ↑ 57) |
+| Ledipasvir/ Sofosbuvire. Data generated from simultaneous dosing with HARVONI (ledipasvir/sofosbuvir). Staggered administration (12 hours apart) provided similar results.,Comparison based on exposures when administered as atazanavir/ritonavir + emtricitabine/tenofovir DF. | 90/400 once daily × 10 days | 24 | ↑ 47 (↑ 37 to ↑ 58) | ↑ 35 (↑ 29 to ↑ 42) | ↑ 47 (↑ 38 to ↑ 57) |
 | Ledipasvir/ Sofosbuvir,Comparison based on exposures when administered as darunavir/ritonavir + emtricitabine/tenofovir DF. | 23 | ↑ 64 (↑ 54 to ↑ 74) | ↑ 50 (↑ 42 to ↑ 59) | ↑ 59 (↑ 49 to ↑ 70) |  |
-| Ledipasvir/ SofosbuvirStudy conducted with ATRIPLA (efavirenz/emtricitabine/tenofovir DF) coadministered with HARVONI. | 90/400 once daily × 14 days | 15 | ↑ 79 (↑ 56 to ↑ 104) | ↑ 98 (↑ 77 to ↑ 123) | ↑ 163 (↑ 132 to↑197) |
-| Ledipasvir/ SofosbuvirStudy conducted with COMPLERA (emtricitabine/rilpivirine/tenofovir DF) coadministered with HARVONI. | 90/400 once daily × 10 days | 14 | ↑ 32 (↑ 25 to ↑ 39) | ↑ 40 (↑ 31 to ↑ 50) | ↑ 91 (↑ 74 to ↑ 110) |
-| Ledipasvir/ SofosbuvirStudy conducted with TRUVADA (emtricitabine/tenofovir DF) + dolutegravir coadministered with HARVONI. | 90/400 once daily × 10 days | 29 | ↑ 61 (↑ 51 to ↑ 72) | ↑ 65 (↑ 59 to ↑ 71) | ↑ 115 (↑ 105 to ↑ 126) |
+| Ledipasvir/ SofosbuvirStudy conducted with ATRIPLA (efavirenz/emtricitabine/tenofovir DF) coadministered with HARVONI; coadministration with HARVONI also results in comparable increases in tenofovir exposure when TDF is administered as COMPLERA, or TRUVADA + dolutegravir. | 90/400 once daily × 14 days | 15 | ↑ 79 (↑ 56 to ↑ 104) | ↑ 98 (↑ 77 to ↑ 123) | ↑ 163 (↑ 132 to↑197) |
 | Lopinavir/ Ritonavir | 400/100 twice daily × 14 days | 24 | ⇔ | ↑ 32 (↑ 25 to ↑ 38) | ↑ 51 (↑ 37 to ↑ 66) |
 | Saquinavir/ Ritonavir | 1000/100 twice daily × 14 days | 35 | ⇔ | ⇔ | ↑ 23 (↑ 16 to ↑ 30) |
 | SofosbuvirStudy conducted with ATRIPLA coadministered with SOVALDI® (sofosbuvir). | 400 single dose | 16 | ↑ 25 (↑ 8 to ↑ 45) | ⇔ | ⇔ |
-| Sofosbuvir/ VelpatasvirComparison based on exposures when administered as atazanavir/ritonavir + emtricitabine/tenofovir DF. | 400/100 once daily | 24 | ↑ 55 (↑ 43 to ↑ 68) | ↑ 30 (↑ 24 to ↑ 36) | ↑ 39 (↑ 31 to ↑ 48) |
-| Sofosbuvir/ VelpatasvirComparison based on exposures when administered as darunavir/ritonavir + emtricitabine/tenofovir DF. | 400/100 once daily | 29 | ↑ 55 (↑ 45 to ↑ 66) | ↑ 39 (↑ 33 to ↑ 44) | ↑ 52 (↑ 45 to ↑ 59) |
-| Sofosbuvir/ VelpatasvirStudy conducted with ATRIPLA coadministered with EPCLUSA (sofosbuvir/velpatasvir). | 400/100 once daily | 15 | ↑ 77 (↑ 53 to ↑ 104) | ↑ 81 (↑ 68 to ↑ 94) | ↑ 121 (↑ 100 to ↑ 143) |
-| Sofosbuvir/ VelpatasvirStudy conducted with STRIBILD (elvitegravir/cobicistat/emtricitabine/tenofovir DF) coadministered with EPCLUSA. | 400/100 once daily | 24 | ↑ 36 (↑ 25 to ↑ 47) | ↑ 35 (↑ 29 to ↑ 42) | ↑ 45 (↑ 39 to ↑ 51) |
-| Sofosbuvir/ VelpatasvirStudy conducted with COMPLERA coadministered with EPCLUSA. | 400/100 once daily | 24 | ↑ 44 (↑ 33 to ↑ 55) | ↑ 40 (↑ 34 to ↑ 46) | ↑ 84 (↑ 76 to ↑ 92) |
+| Sofosbuvir/ VelpatasvirStudy conducted with COMPLERA coadministered with EPCLUSA; coadministration with EPCLUSA also results in comparable increases in tenofovir exposures when TDF is administered as ATRIPLA, STRIBILD, TRUVADA + atazanavir/ritonavir, or TRUVADA + darunavir/ritonavir. | 400/100 once daily | 24 | ↑ 44 (↑ 33 to ↑ 55) | ↑ 40 (↑ 34 to ↑ 46) | ↑ 84 (↑ 76 to ↑ 92) |
 | Sofosbuvir/ VelpatasvirAdministered as raltegravir + emtricitabine/tenofovir DF. | 400/100 once daily | 30 | ↑ 46 (↑ 39 to ↑ 54) | ↑ 40 (↑ 34 to ↑ 45) | ↑ 70 (↑ 61 to ↑ 79) |
+| Sofosbuvir/ Velpatasvir/ Voxilaprevirl. Comparison based on exposures when administered as darunavir + ritonavir + emtricitabine/tenofovir DF. | 400/100/100 + VoxilaprevirStudy conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected patients. 100 once daily | 29 | ↑ 48 (↑ 36 to ↑ 61) | ↑ 39 (↑ 32 to↑ 46) | ↑ 47 (↑ 38 to ↑ 56) |
 | Tacrolimus | 0.05 mg/kg twice daily × 7 days | 21 | ↑ 13 (↑ 1 to ↑ 27) | ⇔ | ⇔ |
 | Tipranavir/ RitonavirAptivus Prescribing Information. | 500/100 twice daily | 22 | ↓ 23 (↓ 32 to ↓ 13) | ↓ 2 (↓ 9 to ↑ 5) | ↑ 7 (↓ 2 to ↑ 17) |
 | 750/200 twice daily (23 doses) | 20 | ↓ 38 (↓ 46 to ↓ 29) | ↑ 2 (↓ 6 to ↑ 10) | ↑ 14 (↑ 1 to ↑ 27) |  |
 
 No effect on the pharmacokinetic parameters of the following coadministered drugs was observed with VIREAD: abacavir, didanosine (buffered tablets), emtricitabine, entecavir, and lamivudine.
 
-Table 14 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of VIREAD
+Table 15 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of VIREAD
 
 | Cmax | AUC | Cmin |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -213,9 +207,9 @@ HIV-1 RNA responses among these subjects were durable through Week 48.
 Studies 902 and 907 Phenotypic Analyses
 
 Phenotypic analysis of baseline HIV-1 from treatment-experienced subjects (N=100) demonstrated a correlation between baseline susceptibility to VIREAD and response to VIREAD therapy.
-Table 15 summarizes the HIV-1 RNA response by baseline VIREAD susceptibility.
+Table 16 summarizes the HIV-1 RNA response by baseline VIREAD susceptibility.
 
-Table 15 HIV-1 RNA Response at Week 24 by Baseline VIREAD Susceptibility (Intent-To-Treat)Tenofovir susceptibility was determined by recombinant phenotypic Antivirogram assay (Virco).
+Table 16 HIV-1 RNA Response at Week 24 by Baseline VIREAD Susceptibility (Intent-To-Treat)Tenofovir susceptibility was determined by recombinant phenotypic Antivirogram assay (Virco).
 
 | Baseline VIREAD SusceptibilityFold change in susceptibility from wild-type. | Change in HIV-1 RNAAverage HIV-1 RNA change from baseline through Week 24 (DAVG24) in log10 copies/mL. (N) |
 | --- | --- |
@@ -237,9 +231,9 @@ Resistance
 Cumulative VIREAD genotypic resistance has been evaluated annually for up to 384 weeks in Studies 0102, 0103, 0106, 0108, and 0121 with the paired HBV reverse transcriptase amino acid sequences of the pretreatment and on-treatment isolates from subjects who received at least 24 weeks of VIREAD monotherapy and remained viremic with HBV DNA greater than or equal to 400 copies/mL (69 IU/mL) at the end of each study year (or at discontinuation of VIREAD monotherapy) using an as-treated analysis.
 In the nucleotide-naïve population from Studies 0102 and 0103, HBeAg-positive subjects had a higher baseline viral load than HBeAg-negative subjects and a significantly higher proportion of the subjects remained viremic at their last time point on VIREAD monotherapy (15% versus 5%, respectively).
 
-HBV isolates from these subjects who remained viremic showed treatment-emergent substitutions (Table 16); however, no specific substitutions occurred at a sufficient frequency to be associated with resistance to VIREAD (genotypic and phenotypic analyses).
+HBV isolates from these subjects who remained viremic showed treatment-emergent substitutions (Table 17); however, no specific substitutions occurred at a sufficient frequency to be associated with resistance to VIREAD (genotypic and phenotypic analyses).
 
-Table 16 Amino Acid Substitutions in Viremic Subjects across HBV Trials of VIREAD
+Table 17 Amino Acid Substitutions in Viremic Subjects across HBV Trials of VIREAD
 
 |  | Nucleotide-Naïve (N=417)Nucleotide-naïve subjects from Studies 0102 (N=246) and 0103 (N=171) receiving up to 384 weeks of treatment with VIREAD. | HEPSERA-Experienced (N=247)HEPSERA-experienced subjects from Studies 0102/0103 (N=195) and 0106 (N=52) receiving up to 336 weeks of treatment with VIREAD after switching to VIREAD from HEPSERA. Study 0106, a randomized, double-blind, 168-week Phase 2 trial, has been completed. | Lamivudine- Resistant (N=136)Lamivudine-resistant subjects from Study 0121 (N=136) receiving up to 96 weeks of treatment with VIREAD after switching to VIREAD from lamivudine. | Decompensated Liver Disease (N=39)Subjects with decompensated liver disease from Study 0108 (N=39) receiving up to 48 weeks of treatment with VIREAD. |
 | --- | --- | --- | --- | --- |
