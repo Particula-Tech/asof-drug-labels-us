@@ -1,229 +1,26 @@
-# PATIENT INFORMATION
+| Patient InformationPROGRAF® (PRO-graf) (tacrolimus) capsules, for oral usePROGRAF® (PRO-graf) Granules (tacrolimus for oral suspension) |  |  |
+| --- | --- | --- |
+| Read this Patient Information before you start taking PROGRAF and each time you get a refill. There may be new information. This information does not take the place of talking with your healthcare provider about your medical condition or your treatment. |  |  |
+| What is the most important information I should know about PROGRAF?PROGRAF can cause serious side effects, including: •Increased risk of cancer. People who take PROGRAF have an increased risk of getting some kinds of cancer, including skin and lymph gland cancer (lymphoma).•Increased risk of infection. PROGRAF is a medicine that affects your immune system. PROGRAF can lower the ability of your immune system to fight infections. Serious infections can happen in people receiving PROGRAF that can cause death. Call your healthcare provider right away if you have any symptoms of an infection, including: |  |  |
+|  | ofeverosweats or chillsocough or flu-like symptoms | omuscle achesowarm, red, or painful areas on your skin |
+| What is PROGRAF?PROGRAF is a prescription medicine used with other medicines to help prevent organ rejection in people who have had a kidney, liver, or heart transplant. |  |  |
+| Who should not take PROGRAF?Do not take PROGRAF if you are allergic to tacrolimus or any of the ingredients in PROGRAF. See the end of this leaflet for a complete list of ingredients in PROGRAF. |  |  |
+| What should I tell my healthcare provider before taking PROGRAF?Before you take PROGRAF, tell your healthcare provider about all of your medical conditions, including if you: •plan to receive any live vaccines. People taking PROGRAF should not receive live vaccines. •have or have had liver, kidney, or heart problems.•are pregnant or plan to become pregnant. PROGRAF can harm your unborn baby. oIf you are able to become pregnant, you should use effective birth control before and during treatment with PROGRAF. Talk to your healthcare provider before starting treatment with PROGRAF about birth control methods that may be right for you.oMales who have female partners who are able to become pregnant should also use effective birth control before and during treatment with PROGRAF. Talk to your healthcare provider before starting treatment with PROGRAF about birth control methods that may be right for you. oThere is a pregnancy registry for females who become pregnant and males who have fathered a pregnancy during treatment with PROGRAF. The purpose of this registry is to collect information about the health of you and your baby. To enroll in this voluntary registry, call 1-877-955-6877 or go to https://www.transplantpregnancyregistry.org/. •are breastfeeding or plan to breastfeed. PROGRAF passes into your breast milk. You and your healthcare provider should decide if you will breastfeed while taking PROGRAF. Tell your healthcare provider about all the medicines you take, and when you start a new medicine or stop taking a medicine, including prescription and over-the-counter medicines, vitamins, natural, herbal or nutritional supplements.Especially tell your healthcare provider if you take: •sirolimus (RAPAMUNE) •cyclosporine (GENGRAF, NEORAL, and SANDIMMUNE)•medicines called aminoglycosides that are used to treat bacterial infections•ganciclovir (CYTOVENE IV, VALCYTE)•amphotericin B (ABELCET, AMBISOME)•cisplatin•antiviral medicines called nucleoside reverse transcriptase inhibitors •antiviral medicines called protease inhibitors •water pill (diuretic)•medicine to treat high blood pressure •nelfinavir (VIRACEPT)•telaprevir (INCIVEK)•boceprevir •ritonavir (KALETRA, NORVIR, TECHNIVIE, VIEKIRA PAK, VIEKIRA XR)•ketoconazole •itraconazole (ONMEL, SPORANOX)•voriconazole (VFEND)•clarithromycin (BIAXIN, BIAXIN XL, PREVPAC)•rifampin (RIFADIN, RIFAMATE, RIFATER, RIMACTANE)•rifabutin (MYCOBUTIN) •amiodarone (NEXTERONE, PACERONE) Ask your healthcare provider or pharmacist if you are not sure if you take any of the medicines listed above.PROGRAF may affect the way other medicines work, and other medicines may affect how PROGRAF works.Know the medicines you take. Keep a list of your medicines and show it to your healthcare provider and pharmacist when you get a new medicine. |  |  |
+| How should I take PROGRAF? •Take PROGRAF exactly as your healthcare provider tells you to take it.•Your healthcare provider will tell you how much PROGRAF to take and when to take it. Your healthcare provider may change your PROGRAF dose if needed. Do not stop taking or change your dose of PROGRAF without talking to your healthcare provider.•Take PROGRAF with or without food.•Take PROGRAF the same way every day. For example, if you choose to take PROGRAF with food, you should always take PROGRAF with food.•Take PROGRAF at the same time each day, 12 hours apart. For example, if you take your first dose at 7:00 a.m., you should take your second dose at 7:00 p.m.•Taking PROGRAF at the same time each day helps to keep the amount of medicine in your body at a steady level.•Do not eat grapefruit or drink grapefruit juice while taking PROGRAF.•If you take too much PROGRAF, call your healthcare provider or go to the nearest hospital emergency room right away. PROGRAF capsules: •Do not open or crush PROGRAF capsules. PROGRAF Granules: •Children who have trouble swallowing capsules can be given PROGRAF Granules.•Give the dose of PROGRAF Granules right after preparing. Do not save prepared PROGRAF Granules as a liquid to take at a later time. •See the Instructions for Use at the end of this Patient Information for detailed instructions about how to mix and give PROGRAF Granules as a liquid in a glass cup or oral syringe.•If you get the granules, or prepared oral suspension on your skin, wash the area well with soap and water. •If you get the granules, or prepared oral suspension in your eyes, rinse with plain water. |  |  |
+| What should I avoid while taking PROGRAF? •While you take PROGRAF you should not receive any live vaccines. •Limit the amount of time you spend in sunlight and avoid exposure to ultraviolet (UV) light, such as tanning machines. Wear protective clothing and use a sunscreen with a high sun protection factor (SPF). |  |  |
+| What are the possible side effects of PROGRAF?PROGRAF may cause serious side effects, including: •See “What is the most important information I should know about PROGRAF?”•problems from medicine errors. People who take PROGRAF have sometimes been given the wrong type of tacrolimus product. Tacrolimus extended-release medicines are not the same as PROGRAF capsules or granules and cannot be substituted for each other, unless specifically prescribed by your healthcare provider, who will send you to get blood tacrolimus levels at a lab. Check your PROGRAF when you get a new prescription and before you take it to make sure you have received PROGRAF capsule or PROGRAF Granules.•Check with the pharmacist and call your healthcare provider if you think you were given the wrong medicine. •high blood sugar (diabetes). Your healthcare provider may do blood tests to check for diabetes while you take PROGRAF. Call your healthcare provider right away if you have any symptoms of high blood sugar, including: |  |  |
+|  | ofrequent urinationoincreased thirst or hungeroblurred visionoconfusion | odrowsinessoloss of appetiteofruity smell on your breathonausea, vomiting, or stomach pain |
+| •kidney problems. Kidney problems are a serious and common side effect of PROGRAF. Your healthcare provider may do blood tests to check your kidney function while you take PROGRAF. •nervous system problems. Nervous system problems are a serious and common side effect of PROGRAF. Call your healthcare provider right away if you get any of these symptoms while taking PROGRAF. These could be signs of a serious nervous system problem: |  |  |
+|  | oheadacheoconfusionoseizuresochanges in your vision | ochanges in behaviorocomaotremorsonumbness and tingling |
+| •high levels of potassium in your blood. Your healthcare provider may do blood tests to check your potassium level while you take PROGRAF.•high blood pressure. High blood pressure is a serious and common side effect of PROGRAF. Your healthcare provider will monitor your blood pressure while you take PROGRAF and may prescribe blood pressure medicine for you, if needed. Your healthcare provider may instruct you to check your blood pressure at home.•changes in the electrical activity of your heart (QT prolongation).•heart problems (myocardial hypertrophy). Tell your healthcare provider right away if you get any of these symptoms of heart problems while taking PROGRAF: |  |  |
+|  | oshortness of breathochest pain | ofeel lightheadedofeel faint |
+| •severe low red blood cell count (anemia). |  |  |
+| The most common side effects of PROGRAF in people who have received a kidney, liver or heart transplant are: |  |  |
+|  | •infections in general, including cytomegalovirus (CMV) infection•tremors (shaking of the body)•constipation•diarrhea•headache•stomach pain•trouble sleeping•nausea•high blood sugar (diabetes)•low levels of magnesium in your blood•low levels of phosphate in your blood | •swelling of the hands, legs, ankles, or feet•weakness•pain•high levels of fat in your blood•high levels of potassium in your blood•low red blood cell count (anemia)•low white blood cell count•fever•numbness or tingling in your hands and feet•inflammation of your airway (bronchitis)•fluid around your heart |
+| Tell your healthcare provider if you have any side effect that bothers you or that does not go away.These are not all the possible side effects of PROGRAF. For more information, ask your healthcare provider or pharmacist.Call your healthcare provider for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |  |
+| How should I store PROGRAF?PROGRAF capsules •Store PROGRAF capsules at room temperature between 68°F to 77°F (20°C to 25°C). PROGRAF Granules •Store PROGRAF Granules packets at room temperature between 68°F to 77°F (20°C to 25°C). Keep PROGRAF and all medicines out of the reach of children. |  |  |
+| General information about the safe and effective use of PROGRAF.Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use PROGRAF for a condition for which it was not prescribed. Do not give PROGRAF to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for information about PROGRAF that is written for health professionals. |  |  |
+| What are the ingredients in PROGRAF?Active ingredient: tacrolimusInactive ingredients:PROGRAF capsules: croscarmellose sodium, hypromellose, lactose monohydrate, and magnesium stearate. The 0.5 mg capsule shell contains ferric oxide, gelatin, and titanium dioxide. The 1 mg capsule shell contains gelatin and titanium dioxide. The 5 mg capsule shell contains ferric oxide, gelatin, and titanium dioxide.PROGRAF Granules: croscarmellose sodium, hypromellose, and lactose monohydrate.Capsules manufactured by: Astellas Ireland Co., Ltd. Killorglin, County Kerry, IrelandPROGRAF Granules manufactured by: Astellas Pharma Tech Co., Ltd. Toyama, JapanMarketed by: Astellas Pharma US, Inc. Northbrook, IL 60062PROGRAF® is a registered trademark of Astellas Pharma Inc. All other trademarks and registered trademarks are the property of their respective owners.214422-PRG For more information, go to www.astellas.com/us or call 1-800-727-7003. |  |  |
 
-PROGRAF [PRO-graf]
-
-(tacrolimus) capsules USP
-
-Read this Patient Information before you start taking PROGRAF and each time you get a refill.
-There may be new information.
-This information does not take the place of talking with your doctor about your medical condition or your treatment.
-What is the most important information I should know about PROGRAF?
-
-Prograf can cause serious side effects, including:
-
-1. 1.Increased risk of cancer.
-   People who take Prograf have an increased risk of getting some kinds of cancer, including skin and lymph gland cancer (lymphoma).
-2. 2.Increased risk of infection.
-   PROGRAF is a medicine that affects your immune system.
-   Prograf can lower the ability of your immune system to fight infections.
-   Serious infections can happen in people receiving Prograf that can cause death.
-   Call your doctor right away if you have symptoms of an infection such as:
-   1. •fever
-   2. •sweats or chills
-   3. •cough or flu-like symptoms
-   4. •muscle aches
-   5. •warm, red, or painful areas on your skin
-
-What is PROGRAF?
-
-PROGRAF is a prescription medicine used with other medicines to help prevent organ rejection in people who have had a kidney, liver, or heart transplant and PROGRAF is not for use with medicines called cyclosporines (Gengraf®, Neoral®, and Sandimune®).
-
-PROGRAF is not for use with a medicine called sirolimus (Rapamune®) in people who have had a liver or heart transplants.
-
-It is not known if PROGRAF is safe and effective when used with sirolimus in people who have had kidney transplants.
-
-It is not known if PROGRAF is safe and effective in children who have had a kidney or heart transplants.
-Who Should Not Take PROGRAF?
-
-Do not take PROGRAF if you are allergic to tacrolimus or any of the ingredients in PROGRAF.
-See the end of this leaflet for a complete list of ingredients in PROGRAF.
-What should I tell my doctor before taking PROGRAF?
-
-Before you take PROGRAF, tell your doctor if you:
-
-- •plan to receive any live vaccines
-- •have or have had liver, kidney or heart problems
-- •are pregnant or plan to become pregnant.
-  PROGRAF may harm your unborn baby.
-  Talk to your doctor if you are pregnant or plan to become pregnant.
-- •Are breastfeeding or plan to breastfeed.
-  PROGRAF can pass into your breast milk.
-  You and your doctor should decide if you will take PROGRAF or breastfeed.
-  You should not do both.
-
-Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
-
-Especially tell your doctor if you take:
-
-- •cyclosporine (Gengraf®, Neoral®, and Sandimune®)
-- •sirolimus (Rapamune®)
-- •nelfinavir (Viracept®)
-- •telaprevir (IncivekTM)
-- •boceprevir (VictrelisTM)
-- •amiodarone (CordaroneTM, NexteroneTM, PaceroneTM)
-
-Ask your doctor or pharmacist if you are not sure if you take any of the medicines listed above.
-
-PROGRAF may affect the way other medicines work, and other medicines may affect how PROGRAF works.
-
-Know the medicines you take.
-Keep a list of your medicines and show it to your doctor and pharmacist when you get a new medicine.
-How Should I Take PROGRAF?
-
-- •Take PROGRAF exactly as your doctor tells you to take it.
-- •Your doctor will tell you how many PROGRAF to take and when to take them.
-- •Your doctor may change your PROGRAF dose if needed.
-  Do not stop taking or change your dose of PROGRAF without talking to your doctor.
-- •Take PROGRAF with or without food.
-- •Take PROGRAF the same way everyday.
-  For example, if you choose to take PROGRAF with food, you should always take PROGRAF with food.
-- •Take PROGRAF at the same time each day, 12 hours apart.
-  For example, if you take your first dose at 7:00 a.m. you should take your second dose at 7:00 p.m.
-  - oTaking PROGRAF at the same time each day helps to keep enough medicine in your body to give your transplanted organ the around-the-clock medicine it needs.
-- •Do not eat grapefruit or drink grapefruit juice while taking PROGRAF.
-- •If you take too much PROGRAF, call your doctor or go to the nearest hospital emergency room right away.
-
-What should I avoid while taking PROGRAF?
-
-- •While you take PROGRAF you should not receive any live vaccines such as:
-  - oflu vaccine through your nose
-  - omeasles
-  - omumps
-  - orubella
-  - opolio by mouth
-  - oBCG (TB vaccine)
-  - oyellow fever
-  - ochicken pox (varicella)
-  - otyphoid
-- •Avoid exposure to sunlight and UV light such as tanning machines.
-  Wear protective clothing and use a sunscreen.
-
-What are the possible side effects of PROGRAF?
-
-PROGRAF may cause serious side effects, including:
-
-- •See “What the most important information I should know about PROGRAF?”
-- •high blood sugar (diabetes).
-  Your doctor may do certain tests to check for diabetes while you take PROGRAF.
-  Call your doctor right away if you have:
-  - ofrequent urination
-  - oincreased thirst or hunger
-  - oblurred vision
-  - oconfusion
-  - odrowsiness
-  - oloss of appetite
-  - ofruity smell on your breath
-  - onausea, vomiting, or stomach pain
-- •kidney problems.
-  Your doctor may do certain tests to check your kidney function while you take PROGRAF.
-- •nervous system problems.
-  Call your doctor right away if you get any of these symptoms while taking PROGRAF.
-  These could be signs of a serious nervous system problem:
-  - oconfusion
-  - ocoma
-  - omuscle tremors
-  - onumbness and tingling
-  - oheadache
-  - oseizures
-  - ovision changes
-- •high levels of potassium in your blood.
-  Your doctor may do certain tests to check your potassium level while you take PROGRAF.
-- •high blood pressure.
-  Your doctor will monitor your blood pressure while you take PROGRAF.
-- •heart problems (myocardial hypertrophy).
-  Tell your doctor right away if you get any of these symptoms of heart problems while taking PROGRAF:
-  - oshortness of breath
-  - ochest pain
-  - ofeel lightheaded
-  - ofeel faint
-
-The most common side effects of PROGRAF in people receiving kidney transplant are:
-
-- •infection
-- •tremors (shaking of the body)
-- •high blood pressure
-- •kidney problems
-- •constipation
-- •diarrhea
-- •headache
-- •stomach pain
-- •trouble sleeping
-- •nausea
-- •low levels of phosphate in your blood
-- •swelling of the hands, ankles, or legs
-- •weakness
-- •pain
-- •high levels of fat in your blood
-- •high levels of potassium in your blood
-- •low red blood cell count (anemia)
-
-The most common side effects of PROGRAF in people receiving liver transplants are:
-
-- •shaking of the body tremors
-- •headache
-- •diarrhea
-- •high blood pressure
-- •nausea
-- •kidney problems
-- •stomach pain
-- •trouble sleeping
-- •numbness or tingling in your hands or feet
-- •anemia
-- •pain
-- •fever
-- •weakness
-- •high levels of potassium in the blood
-- •low levels of magnesium in the blood
-
-The most common side effects of PROGRAF for heart transplant patients are:
-
-- •kidney problems
-- •high blood pressure
-
-Tell your doctor if you have any side effect that bothers you or that does not go away.
-
-These are not all the possible side effects of PROGRAF.
-For more information, ask your doctor or pharmacist.
-
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
-How should I store PROGRAF?
-
-- •Store PROGRAF at 59º F to 86ºF (15°C to 30º C).
-- •Safely throw away medicine that is out of date or no longer needed.
-
-Keep PROGRAF and all medicines out of reach of children.
-General information about the safe and effective use of PROGRAF
-
-Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
-Do not use PROGRAF for a condition for which it was not prescribed.
-Do not give PROGRAF to other people, even if they have the same symptoms that you have.
-It may harm them.
-How Does PROGRAF Protect My New Organ?
-
-The body’s immune system protects the body against anything that it does not recognize as part of the body.
-For example, when the immune system detects a virus or bacteria it tries to get rid of it to prevent infection.
-When a person has a liver, kidney, or heart transplant, the immune system does not recognize the new organ as a part of the body and tries to get rid of it, too.
-This is called “rejection”.
-PROGRAF protects your new organ by slowing down the body’s immune system.
-
-This Patient Information leaflet summarizes the most important information about PROGRAF.
-If you would like more information, talk with your doctor.
-You can ask your pharmacist or doctor for information about PROGRAF that is written for health professionals.
-
-For more information, go to www.astellas.com/us or call 1-800-727-7003.
-What are the ingredients in PROGRAF?
-
-Active ingredient: tacrolimus
-
-Inactive ingredients: lactose monohydrate, hypromellose, croscarmellose sodium, magnesium stearate, gelatin, titanium dioxide and ferric oxide.
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Product of Japan
-
-Manufactured by: Astellas Ireland Co., Ltd. Killorglin, County Kerry, Ireland
-
-Marketed by: Astellas Pharma US, Inc. Northbrook, IL 60062
-
-Revised: May 2015
-
-15B012-PRG-SPL
+Revised: July 2018

@@ -1,73 +1,21 @@
 # 7 DRUG INTERACTIONS
 
-Since tacrolimus is metabolized mainly by CYP3A enzymes, drugs or substances known to inhibit these enzymes may increase tacrolimus whole blood concentrations.
-Drugs known to induce CYP3A enzymes may decrease tacrolimus whole blood concentrations [see Warnings and Precautions (5.13) and Clinical Pharmacology (12.3)].
-Dose adjustments may be needed along with frequent monitoring of tacrolimus whole blood trough concentrations when Prograf is administered with CYP3A inhibitors or inducers.
-In addition, patients should be monitored for adverse reactions including changes in renal function and QT prolongation [see Warnings and Precautions (5.7) and (5.14)].
+## 7.1 Mycophenolic Acid
 
-## 7.1 Mycophenolic Acid Products
+When PROGRAF is prescribed with a given dose of a mycophenolic acid (MPA) product, exposure to MPA is higher with PROGRAF co-administration than with cyclosporine co-administration because cyclosporine interrupts the enterohepatic recirculation of MPA while tacrolimus does not.
+Monitor for MPA associated adverse reactions and reduce the dose of concomitantly administered mycophenolic acid products as needed.
 
-With a given dose of mycophenolic acid (MPA) products, exposure to MPA is higher with Prograf co-administration than with cyclosporine co-administration because cyclosporine interrupts the enterohepatic recirculation of MPA while tacrolimus does not.
-Clinicians should be aware that there is also a potential for increased MPA exposure after crossover from cyclosporine to Prograf in patients concomitantly receiving MPA-containing products.
+## 7.2 Effects of Other Drugs on PROGRAF
 
-## 7.2 Grapefruit Juice
+Table 15 displays the effects of other drugs on PROGRAF.
 
-Grapefruit juice inhibits CYP3A-enzymes resulting in increased tacrolimus whole blood trough concentrations, and patients should avoid eating grapefruit or drinking grapefruit juice with tacrolimus [see Dosage and Administration (2.5)].
+Table 15: Effects of Other Drugs/Substances on PROGRAFPROGRAF dosage adjustment recommendation based on observed effect of coadministered drug on tacrolimus exposures [see Clinical Pharmacology (12.3)], literature reports of altered tacrolimus exposures, or the other drug’s known CYP3A inhibitor/inducer status.
 
-## 7.3 Protease Inhibitors
-
-Most protease inhibitors inhibit CYP3A enzymes and may increase tacrolimus whole blood concentrations.
-It is recommended to avoid concomitant use of tacrolimus with nelfinavir unless the benefits outweigh the risks [see Clinical Pharmacology (12.3)].
-Whole blood concentrations of tacrolimus are markedly increased when co-administered with telaprevir or with boceprevir [see Clinical Pharmacology (12.3)].
-Monitoring of tacrolimus whole blood concentrations and tacrolimus-associated adverse reactions, and appropriate adjustments in the dosing regimen of tacrolimus are recommended when tacrolimus and protease inhibitors (e.g., ritonavir, telaprevir, boceprevir) are used concomitantly.
-
-## 7.4 Antifungal Agents
-
-Frequent monitoring of whole blood concentrations and appropriate dosage adjustments of tacrolimus are recommended when concomitant use of the following antifungal drugs with tacrolimus is initiated or discontinued [see Clinical Pharmacology (12.3)].
-
-Azoles: Voriconazole, posaconazole, itraconazole, ketoconazole, fluconazole and clotrimazole inhibit CYP3A metabolism of tacrolimus and increase tacrolimus whole blood concentrations.
-When initiating therapy with voriconazole or posaconazole in patients already receiving tacrolimus, it is recommended that the tacrolimus dose be initially reduced to one-third of the original dose and the subsequent tacrolimus doses be adjusted based on the tacrolimus whole blood concentrations.
-
-Caspofungin is an inducer of CYP3A and decreases whole blood concentrations of tacrolimus.
-
-## 7.5 Calcium Channel Blockers
-
-Verapamil, diltiazem, nifedipine, and nicardipine inhibit CYP3A metabolism of tacrolimus and may increase tacrolimus whole blood concentrations.
-Monitoring of whole blood concentrations and appropriate dosage adjustments of tacrolimus are recommended when these calcium channel blocking drugs and tacrolimus are used concomitantly.
-
-## 7.6 Antibacterials
-
-Erythromycin, clarithromycin, troleandomycin and chloramphenicol inhibit CYP3A metabolism of tacrolimus and may increase tacrolimus whole blood concentrations.
-Monitoring of blood concentrations and appropriate dosage adjustments of tacrolimus are recommended when these drugs and tacrolimus are used concomitantly.
-
-## 7.7 Antimycobacterials
-
-Rifampin [see Clinical Pharmacology (12.3)] and rifabutin are inducers of CYP3A enzymes and may decrease tacrolimus whole blood concentrations.
-Monitoring of whole blood concentrations and appropriate dosage adjustments of tacrolimus are recommended when these antimycobacterial drugs and tacrolimus are used concomitantly.
-
-## 7.8 Anticonvulsants
-
-Phenytoin, carbamazepine and phenobarbital induce CYP3A enzymes and may decrease tacrolimus whole blood concentrations.
-Monitoring of whole blood concentrations and appropriate dosage adjustments of tacrolimus are recommended when these drugs and tacrolimus are used concomitantly.
-
-Concomitant administration of phenytoin with tacrolimus may also increase phenytoin plasma concentrations.
-Thus, frequent monitoring phenytoin plasma concentrations and adjusting the phenytoin dose as needed are recommended when tacrolimus and phenytoin are administered concomitantly.
-
-## 7.9 St. John’s Wort (Hypericum perforatum)
-
-St. John’s Wort induces CYP3A enzymes and may decrease tacrolimus whole blood concentrations.
-Monitoring of whole blood concentrations and appropriate dosage adjustments of tacrolimus are recommended when St. John’s Wort and tacrolimus are co-administered.
-
-## 7.10 Gastric Acid Suppressors/Neutralizers
-
-Lansoprazole and omeprazole, as CYP2C19 and CYP3A4 substrates, may potentially inhibit the CYP3A4 metabolism of tacrolimus and thereby substantially increase tacrolimus whole blood concentrations, especially in transplant patients who are intermediate or poor CYP2C19 metabolizers, as compared to those patients who are efficient CYP2C19 metabolizers.
-
-Cimetidine may also inhibit the CYP3A4 metabolism of tacrolimus and thereby substantially increase tacrolimus whole blood concentrations.
-
-Coadministration with magnesium and aluminum hydroxide antacids increase tacrolimus whole blood concentrations [see Clinical Pharmacology (12.3)].
-Monitoring of whole blood concentrations and appropriate dosage adjustments of tacrolimus are recommended when these drugs and tacrolimus are used concomitantly.
-
-## 7.11 Others
-
-Bromocriptine, nefazodone, metoclopramide, danazol, ethinyl estradiol, amiodarone, methylprednisolone, and herbal products containing schisandra sphenanthera extracts may inhibit CYP3A metabolism of tacrolimus and increase tacrolimus whole blood concentrations.
-Monitoring of blood concentrations and appropriate dosage adjustments of tacrolimus are recommended when these drugs and tacrolimus are co-administered.
+| Drug/Substance Class or Name | Drug Interaction Effect | Recommendations |
+| --- | --- | --- |
+| Grapefruit or grapefruit juiceHigh dose or double strength grapefruit juice is a strong CYP3A inhibitor; low dose or single strength grapefruit juice is a moderate CYP3A inhibitor. | May increase tacrolimus whole blood trough concentrations and increase the risk of serious adverse reactions (e.g., neurotoxicity, QT prolongation) [see Warnings and Precautions (5.6, 5.11, 5.12)]. | Avoid grapefruit or grapefruit juice. |
+| Strong CYP3A InducersStrong CYP3A inhibitor/inducer, based on reported effect on exposures to tacrolimus along with supporting in vitro CYP3A inhibitor/inducer data, or based on drug-drug interaction studies with midazolam (sensitive CYP3A probe substrate).: Antimycobacterials (e.g., rifampin, rifabutin), anticonvulsants (e.g., phenytoin, carbamazepine and phenobarbital), St John’s Wort | May decrease tacrolimus whole blood trough concentrations and increase the risk of rejection [see Warnings and Precautions (5.11)]. | Increase PROGRAF dose and monitor tacrolimus whole blood trough concentrations [see Dosage and Administration (2.3, 2.7) and Clinical Pharmacology (12.3)]. |
+| Strong CYP3A Inhibitors: Protease inhibitors (e.g, nelfinavir, telaprevir, boceprevir, ritonavir), azole antifungals (e.g., voriconazole, posaconazole, itraconazole, ketoconazole), antibiotics (e.g., clarithromycin, troleandomycin, chloramphenicol), nefazodone, schisandra sphenanthera extracts | May increase tacrolimus whole blood trough concentrations and increase the risk of serious adverse reactions (e.g., neurotoxicity, QT prolongation) [see Warnings and Precautions (5.6, 5.11, 5.12)]. | Reduce PROGRAF dose (for voriconazole and posaconazole, give one-third of the original dose) and adjust dose based on tacrolimus whole blood trough concentrations [see Dosage and Administration (2.3, 2.7) and Clinical Pharmacology (12.3)]. |
+| Mild or Moderate CYP3A Inhibitors: Clotrimazole, antibiotics (e.g., erythromycin, fluconazole), calcium channel blockers (e.g., verapamil, diltiazem, nifedipine, nicardipine), amiodarone, danazol, ethinyl estradiol, cimetidine, lansoprazole and omeprazole | May increase tacrolimus whole blood trough concentrations and increase the risk of serious adverse reactions (e.g., neurotoxicity, QT prolongation) [see Warnings and Precautions (5.6, 5.11, 5.12)]. | Monitor tacrolimus whole blood trough concentrations and reduce PROGRAF dose if needed [see Dosage and Administration (2.3, 2.7) and Clinical Pharmacology (12.3)]. |
+| Other drugs, such as: Magnesium and aluminum hydroxide antacids Metoclopramide | May increase tacrolimus whole blood trough concentrations and increase the risk of serious adverse reactions (e.g., neurotoxicity, QT prolongation) [see Warnings and Precautions (5.6, 5.11, 5.12)]. | Monitor tacrolimus whole blood trough concentrations and reduce PROGRAF dose if needed [see Dosage and Administration (2.3, 2.7) and Clinical Pharmacology (12.3)]. |
+| Mild or Moderate CYP3A Inducers Methylprednisolone, prednisone | May decrease tacrolimus concentrations. | Monitor tacrolimus whole blood trough concentrations and adjust PROGRAF dose if needed [see Dosage and Administration (2.3, 2.7)]. |

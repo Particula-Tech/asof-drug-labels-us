@@ -1,13 +1,8 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-• Oblong, hard capsule for oral administration contains anhydrous tacrolimus USP as follows:
+PROGRAF is available in the following dosage forms and strengths:
 
-° 0.5 mg, light-yellow color, imprinted in red “0.5 mg” on the capsule cap and “logo607”* on capsule body
-
-° 1 mg, white color, imprinted in red “1 mg” on the capsule cap and “logo617”* on capsule body
-
-° 5 mg, grayish-red color, imprinted with white “5 mg” on the capsule cap and “logo657”* on capsule body *The logo is a letter 'f' in a box as shown on the capsules --
-
-• 1 mL ampule for IV infusion contains anhydrous tacrolimus USP as follows:
-
-° 5 mg/mL, sterile solution
+| Capsules | Oblong, hard capsule for oral administration contains anhydrous tacrolimus USP as follows: • 0.5 mg, light-yellow color, imprinted in red “0.5 mg” on the capsule cap and “607” on capsule body • 1 mg, white color, imprinted in red “1 mg” on the capsule cap and “617” on capsule body • 5 mg, grayish-red color, imprinted with white “5 mg” on the capsule cap and “657” on capsule body |
+| --- | --- |
+| Injection | 1 mL ampule for intravenous infusion contains anhydrous tacrolimus USP 5 mg/mL |
+| For Oral Suspension | Unit-dose packets with white granules for oral suspension contains anhydrous tacrolimus USP: •0.2 mg•1 mg |

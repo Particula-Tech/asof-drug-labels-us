@@ -1,14 +1,6 @@
 # 11 DESCRIPTION
 
-Prograf is available for oral administration as capsules (tacrolimus capsules USP) containing the equivalent of 0.5 mg, 1 mg or 5 mg of anhydrous tacrolimus USP.
-Inactive ingredients include lactose monohydrate NF, hypromellose USP, croscarmellose sodium NF, and magnesium stearate NF.
-The 0.5 mg capsule shell contains gelatin NF, titanium dioxide USP and ferric oxide NF, the 1 mg capsule shell contains gelatin NF and titanium dioxide USP, and the 5 mg capsule shell contains gelatin NF, titanium dioxide USP and ferric oxide NF.
-
-Prograf is also available as a sterile solution (tacrolimus injection) containing the equivalent of 5 mg anhydrous tacrolimus USP in 1 mL for administration by intravenous infusion only.
-Each mL contains polyoxyl 60 hydrogenated castor oil (HCO-60), 200 mg, and dehydrated alcohol, USP, 80.0% v/v.
-Prograf injection must be diluted with 0.9% Sodium Chloride Injection or 5% Dextrose Injection before use.
-
-Tacrolimus, previously known as FK506, is the active ingredient in Prograf.
+Tacrolimus, previously known as FK506, is the active ingredient in PROGRAF.
 Tacrolimus is a macrolide immunosuppressant produced by Streptomyces tsukubaensis.
 Chemically, tacrolimus is designated as [3S-[3R*[E(1S*,3S*,4S*)], 4S*,5R*,8S*,9E,12R*,14R*,15S*,16R*,18S*,19S*,26aR*]] -5,6,8,11,12,13,14,15,16,17,18,19,24,25,26,26a-hexadecahydro-5,19-dihydroxy-3-[2-(4-hydroxy-3-methoxycyclohexyl)-1-methylethenyl]-14,16-dimethoxy-4,10,12,18-tetramethyl-8-(2-propenyl)-15,19-epoxy-3H-pyrido[2,1-c][1,4] oxaazacyclotricosine-1,7,20,21(4H,23H)-tetrone, monohydrate.
 
@@ -17,3 +9,14 @@ The chemical structure of tacrolimus is:
 Tacrolimus has an empirical formula of C44H69NO12•H2O and a formula weight of 822.03.
 Tacrolimus appears as white crystals or crystalline powder.
 It is practically insoluble in water, freely soluble in ethanol, and very soluble in methanol and chloroform.
+
+PROGRAF is available for oral administration as capsules (tacrolimus capsules USP) containing the equivalent of 0.5 mg, 1 mg or 5 mg of anhydrous tacrolimus USP.
+Inactive ingredients include croscarmellose sodium NF, hypromellose USP, lactose monohydrate NF, and magnesium stearate NF.
+The 0.5 mg capsule shell contains ferric oxide NF, gelatin NF and titanium dioxide USP, the 1 mg capsule shell contains gelatin NF and titanium dioxide USP, and the 5 mg capsule shell contains ferric oxide NF, gelatin NF, and titanium dioxide USP.
+
+PROGRAF is also available as a sterile solution (tacrolimus injection) containing the equivalent of 5 mg anhydrous tacrolimus USP in 1 mL for administration by intravenous infusion only.
+Each mL contains the following inactive ingredients: dehydrated alcohol USP, 80.0% v/v and polyoxyl 60 hydrogenated castor oil (HCO-60), 200 mg.
+PROGRAF injection must be diluted with 0.9% Sodium Chloride Injection or 5% Dextrose Injection before use.
+
+PROGRAF Granules is available for oral administration as a suspension containing the equivalent of 0.2 mg or 1 mg of anhydrous tacrolimus USP.
+Inactive ingredients include croscarmellose sodium NF, hypromellose USP, and lactose monohydrate NF.
