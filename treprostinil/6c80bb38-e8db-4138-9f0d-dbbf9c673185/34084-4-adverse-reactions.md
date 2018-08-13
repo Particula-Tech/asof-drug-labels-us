@@ -15,7 +15,7 @@ Infusion site reactions were sometimes severe and could lead to discontinuation 
 
 Table 3: Percentages of Subjects Reporting Subcutaneous Infusion Site Adverse Events
 
-|  | Placebo | Remodulin | Placebo | Remodulin |
+| Placebo | Remodulin | Placebo | Remodulin |  |
 | --- | --- | --- | --- | --- |
 |  | Reaction |  | Pain |  |
 | Severe | 1 | 38 | 2 | 39 |

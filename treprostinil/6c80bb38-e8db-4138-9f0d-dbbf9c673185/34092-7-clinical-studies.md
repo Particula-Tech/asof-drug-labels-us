@@ -21,9 +21,9 @@ As shown in Table 5, chronic therapy with Remodulin resulted in small hemodynami
 
 Table 5: Hemodynamics during Chronic Administration of Remodulin in Patients with PAH in 12-Week Studies
 
-| Hemodynamic Parameter | Remodulin (N=204-231) | Placebo (N=215-235) | Remodulin (N=163-199) | Placebo (N=182-215) |
+| Remodulin (N=204-231) | Placebo (N=215-235) | Remodulin (N=163-199) | Placebo (N=182-215) |  |
 | --- | --- | --- | --- | --- |
-|  | Baseline |  | Mean change from baseline at Week 12 |  |
+| Hemodynamic Parameter | Baseline |  | Mean change from baseline at Week 12 |  |
 | CI (L/min/m2) | 2.4 ± 0.88 | 2.2 ± 0.74 | +0.12 ± 0.58Denotes statistically significant difference between Remodulin and placebo, p<0.05. | -0.06 ± 0.55 |
 | PAPm (mmHg) | 62 ± 17.6 | 60 ± 14.8 | -2.3 ± 7.3 | +0.7 ± 8.5 |
 | RAPm (mmHg) | 10 ± 5.7 | 10 ± 5.9 | -0.5 ± 5.0 | +1.4 ± 4.8 |
@@ -36,7 +36,7 @@ Table 5: Hemodynamics during Chronic Administration of Remodulin in Patients wit
 
 Clinical Effects
 
-The effect of Remodulin on 6-minute walk, the primary end point of the 12-week studies, was small and did not achieve conventional levels of statistical significance.
+The effect of Remodulin on 6-minute walk, the primary endpoint of the 12-week studies, was small and did not achieve conventional levels of statistical significance.
 For the combined populations, the median change from baseline on Remodulin was 10 meters and the median change from baseline on placebo was 0 meters from a baseline of approximately 345 meters.
 Although it was not the primary endpoint of the study, the Borg dyspnea score was significantly improved by Remodulin during the 6-minute walk, and Remodulin also had a significant effect, compared with placebo, on an assessment that combined walking distance with the Borg dyspnea score.
 Remodulin also consistently improved indices of dyspnea, fatigue and signs and symptoms of pulmonary hypertension, but these indices were difficult to interpret in the context of incomplete blinding to treatment assignment resulting from infusion site symptoms.

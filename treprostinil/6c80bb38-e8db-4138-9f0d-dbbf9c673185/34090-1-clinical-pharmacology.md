@@ -16,7 +16,7 @@ Treprostinil administered by the subcutaneous or intravenous routes has the pote
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetics of continuous subcutaneous Remodulin are linear over the dose range of 1.25 to 125 ng/kg/min (corresponding to plasma concentrations of about 15 pg/mL to 18,250 pg/mL) and can be described by a two-compartment model.
+The pharmacokinetics of continuous subcutaneous Remodulin are linear over the dose range of 2.5 to 125 ng/kg/min (corresponding to plasma concentrations of about 260 pg/mL to 18,250 pg/mL) and can be described by a two-compartment model.
 Dose proportionality at infusion rates greater than 125 ng/kg/min has not been studied.
 
 Subcutaneous and intravenous administration of Remodulin demonstrated bioequivalence at steady state at a dose of 10 ng/kg/min.
@@ -25,24 +25,24 @@ Absorption
 
 Remodulin is relatively rapidly and completely absorbed after subcutaneous infusion, with an absolute bioavailability approximating 100%.
 Steady-state concentrations occurred in approximately 10 hours.
-Concentrations in patients treated with an average dose of 9.3 ng/kg/min were approximately 2,000 pg/mL.
+Concentrations in patients treated with an average dose of 9.3 ng/kg/min were approximately 2,000 ng/L.
 
 Distribution
 
 The volume of distribution of the drug in the central compartment is approximately 14 L/70 kg ideal body weight.
-Remodulin at in vitro concentrations ranging from 330-10,000 mcg/L was 91% bound to human plasma protein.
+Remodulin at in vitro concentrations well above what is clinically relevant was 91% bound to human plasma protein.
 
 Metabolism and Excretion
 
 Treprostinil is substantially metabolized by the liver, primarily by CYP2C8.
-In a study conducted in healthy volunteers using [14C] treprostinil, 78.6% and 13.4% of the subcutaneous dose was recovered in the urine and feces, respectively, over 10 days.
+In a study conducted in healthy volunteers using [14C] treprostinil, 79% and 13% of the subcutaneous dose was recovered in the urine and feces, respectively, over 10 days.
 Only 4% was excreted as unchanged treprostinil in the urine.
-Five metabolites were detected in the urine, ranging from 10.2% to 15.5% and representing 64.4% of the dose administered.
+Five metabolites were detected in the urine, ranging from 10% to 16% and representing 64% of the dose administered.
 Four of the metabolites are products of oxidation of the 3-hydroxyloctyl side chain and one is a glucuroconjugated derivative (treprostinil glucuronide).
 The identified metabolites do not appear to have activity.
 
-The elimination of treprostinil (following subcutaneous administration) is biphasic, with a terminal elimination half-life of approximately 4 hours using a two compartment model.
-Systemic clearance is approximately 30 L/hr for a 70 kg person.
+The elimination of treprostinil (following subcutaneous administration) is biphasic, with a terminal elimination half-life of approximately 4 hours using a two-compartment model.
+Systemic clearance is approximately 30 L/hour for a 70 kg person.
 
 Based on in vitro studies treprostinil does not inhibit or induce major CYP enzymes.
 
@@ -61,7 +61,7 @@ Drug Interaction Studies
 
 Effect of CYP2C8 Inhibitors and Inducers on Treprostinil
 
-Co-administration of an oral formulation of treprostinil (treprostinil diolamine) with gemfibrozil (600 mg twice a day), a CYP2C8 enzyme inhibitor, increases the AUC and Cmax of treprostinil by 2-fold in healthy adults.
+Co-administration of an oral formulation of treprostinil (treprostinil diolamine) with gemfibrozil (600 mg twice a day), a CYP2C8 enzyme inhibitor, doubles the AUC and Cmax of treprostinil in healthy adults.
 Co-administration of an oral formulation of treprostinil (treprostinil diolamine) with rifampin (600 mg/day), a CYP2C8 enzyme inducer, decreases AUC of treprostinil by 22%.
 
 Effect of Treprostinil on Cytochrome P450 Enzymes

@@ -3,7 +3,7 @@
 Signs and symptoms of overdose with Remodulin during clinical trials are extensions of its dose-limiting pharmacologic effects and include flushing, headache, hypotension, nausea, vomiting, and diarrhea.
 Most events were self-limiting and resolved with reduction or withholding of Remodulin.
 
-In controlled clinical trials, seven patients received some level of overdose and in open-label follow-on treatment seven additional patients received an overdose; these occurrences resulted from accidental bolus administration of Remodulin, errors in pump programmed rate of administration, and prescription of an incorrect dose.
+In controlled clinical trials using an external infusion pump, seven patients received some level of overdose and in open-label follow-on treatment seven additional patients received an overdose; these occurrences resulted from accidental bolus administration of Remodulin, errors in pump programmed rate of administration, and prescription of an incorrect dose.
 In only two cases did excess delivery of Remodulin produce an event of substantial hemodynamic concern (hypotension, near-syncope).
 
 One pediatric patient was accidentally administered 7.5 mg of Remodulin via a central venous catheter.
