@@ -130,7 +130,7 @@ The total volume upon reconstitution will be 52.6 mL.
 Complete withdrawal of the vial contents will provide 2 g of gemcitabine, respectively.
 The appropriate amount of drug may be administered as prepared or further diluted with 0.9% Sodium Chloride Injection to concentrations as low as 0.1 mg/mL.
 
-Reconstituted gemcitabine for injection is a clear and colorless to light straw-colored solution.
+Reconstituted gemcitabine for injection is a clear, colorless to light straw-colored solution.
 After reconstitution with 0.9% Sodium Chloride Injection, the pH of the resulting solution lies in the range of 2.7 to 3.3.
 The solution should be inspected visually for particulate matter and discoloration, prior to administration, whenever solution or container permit.
 If particulate matter or discoloration is found, do not administer.
@@ -139,5 +139,4 @@ When prepared as directed, gemcitabine solutions are stable for 24 hours at cont
 Discard unused portion.
 Solutions of reconstituted gemcitabine should not be refrigerated, as crystallization may occur.
 
-The compatibility of gemcitabine with other drugs has not been studied.
 No incompatibilities have been observed with infusion bottles or polyvinyl chloride bags and administration sets.

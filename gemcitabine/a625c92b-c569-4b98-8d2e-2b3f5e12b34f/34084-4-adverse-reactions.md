@@ -59,7 +59,7 @@ The incidence of febrile neutropenia (9/262 versus 2/260), sepsis (4% versus 1%)
 The two-drug combination was more myelosuppressive with 4 (1.5%) possibly treatment-related deaths, including 3 resulting from myelosuppression with infection and one case of renal failure associated with pancytopenia and infection.
 No deaths due to treatment were reported on the cisplatin arm.
 
-Table 6: Per-Patient Incidence of Selected Adverse Reactions from Randomized Trial of Gemcitabine Plus Cisplatin versus Single-Agent Cisplatin in Patients with NSCLC Occurring at Higher Incidence in Gemcitabine-Treated Patients [Between Arm Difference of ≥5% (All Grades) or ≥2% (Grades 3-4)]a
+Table 6: Per-Patient Incidence of Selected Adverse Reactions from Randomized Trial of Gemcitabine plus Cisplatin versus Single-Agent Cisplatin in Patients with NSCLC Occurring at Higher Incidence in Gemcitabine-Treated Patients [Between Arm Difference of ≥5% (All Grades) or ≥2% (Grades 3-4)]a
 
 |  | Gemcitabine plus Cisplatinb |  |  | Cisplatinc |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -81,7 +81,7 @@ The proportion of discontinuation of treatment for treatment-related adverse rea
 The proportion of patients hospitalized for febrile neutropenia was lower in the (GC) arm (7% versus 12%).
 There was one death attributed to treatment, a patient with febrile neutropenia and renal failure, which occurred in the gemcitabine/cisplatin arm.
 
-Table 7: Per-Patient Incidence of Selected Adverse Reactions in Randomized Trial of Gemcitabine Plus Cisplatin versus Etoposide Plus Cisplatin in patients with NSCLCa
+Table 7: Per-Patient Incidence of Selected Adverse Reactions in Randomized Trial of Gemcitabine plus Cisplatin versus Etoposide plus Cisplatin in Patients with NSCLCa
 
 |  | Gemcitabine plus Cisplatinb |  |  | Etoposide plus Cisplatinc |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -99,7 +99,7 @@ Table 8 presents the incidence of selected adverse reactions, occurring in ≥10
 The requirement for dose reduction of paclitaxel were higher for patients in the gemcitabine/paclitaxel arm (5% versus 2%).
 The number of paclitaxel doses omitted (<1%), the proportion of patients discontinuing treatment for treatment-related adverse reactions (7% versus 5%), and the number of treatment-related deaths (1 patient in each arm) were similar between the two arms.
 
-Table 8: Per-Patient Incidence of Selected Adverse Reactions from Comparative Trial of Gemcitabine Plus Paclitaxel Versus Single-Agent Paclitaxel in Breast Cancera Occurring at Higher Incidence in Gemcitabine-Treated Patients [Between Arm Difference of ≥5% (All Grades) or ≥2% (Grades 3-4)]
+Table 8: Per-Patient Incidence of Selected Adverse Reactions from Comparative Trial of Gemcitabine plus Paclitaxel versus Single-Agent Paclitaxel in Breast Cancera Occurring at Higher Incidence in Gemcitabine-Treated Patients [Between Arm Difference of ≥5% (All Grades) or ≥2% (Grades 3-4)]
 
 |  | Gemcitabine plus Paclitaxel(N=262) |  |  | Paclitaxel(N=259) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -119,7 +119,7 @@ Additional clinically significant adverse reactions, occurring in less than 10% 
 The proportion of patients with dose adjustments for carboplatin (1.8% versus 3.8%), doses of carboplatin omitted (0.2% versus 0), and discontinuing treatment for treatment-related adverse reactions (10.9% versus 9.8%), were similar between arms.
 Dose adjustment for gemcitabine occurred in 10.4% of patients and gemcitabine dose was omitted in 13.7% of patients in the gemcitabine/carboplatin arm.
 
-Table 9: Per-Patient Incidence of Adverse Reactions in Randomized Trial of Gemcitabine Plus Carboplatin Versus Carboplatin in Ovarian Cancera Occurring at Higher Incidence in Gemcitabine-Treated Patients [Between Arm Difference of ≥5% (All Grades) or ≥2% (Grades 3-4)]
+Table 9: Per-Patient Incidence of Adverse Reactions in Randomized Trial of Gemcitabine plus Carboplatin versus Carboplatin in Ovarian Cancera Occurring at Higher Incidence in Gemcitabine-Treated Patients [Between Arm Difference of ≥5% (All Grades) or ≥2% (Grades 3-4)]
 
 |  | Gemcitabine plus Carboplatin(N=175) |  |  | Carboplatin(N=174) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -141,7 +141,7 @@ Cardiovascular - Congestive heart failure, myocardial infarction, arrhythmias, s
 
 Vascular Disorders - Peripheral vasculitis, gangrene, and capillary leak syndrome [see Warnings and Precautions (5.8)]
 
-Skin - Cellulitis, severe skin reactions, including desquamation and bullous skin eruptions
+Skin - Cellulitis, pseudocellulitis, severe skin reactions, including desquamation and bullous skin eruptions
 
 Hepatic - Hepatic failure, hepatic veno-occlusive disease
 

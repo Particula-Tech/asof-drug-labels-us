@@ -26,14 +26,15 @@ Because many drugs are excreted in human milk and because of the potential for s
 
 The safety and effectiveness of gemcitabine have not been established in pediatric patients.
 The safety and pharmacokinetics of gemcitabine were evaluated in a trial in pediatric patients with refractory leukemia.
-The maximum tolerated dose was 10 mg/m2/min for 360 minutes three times weekly followed by a one-week rest period.
-The safety and activity of gemcitabine were evaluated in a trial of pediatric patients with relapsed acute lymphoblastic leukemia (22 patients) and acute myelogenous leukemia (10 patients) at a dose of 10 mg/m2/min administered over 360 minutes three times weekly followed by a one-week rest period.
+The maximum tolerated dose was 10 mg/m2/min for 360 minutes weekly for three weeks followed by a one-week rest period.
+The safety and activity of gemcitabine were evaluated in a trial of pediatric patients with relapsed acute lymphoblastic leukemia (22 patients) and acute myelogenous leukemia (10 patients) at a dose of 10 mg/m2/min administered over 360 minutes weekly for three weeks followed by a one-week rest period.
+Patients with M1 or M2 bone marrow on Day 28 who did not experience unacceptable toxicity were eligible to receive a maximum of one additional four-week course.
 Toxicities observed included bone marrow suppression, febrile neutropenia, elevation of serum transaminases, nausea, and rash/desquamation.
 No meaningful clinical activity was observed in this trial.
 
 ## 8.5 Geriatric Use
 
-In clinical studies of gemcitabine, enrolling 979 patients with various cancers who received gemcitabine as a single agent, no overall differences in safety were observed between patients aged 65 and older and younger patients, with the exception of a higher rate of Grade 3 - 4 thrombocytopenia in older patients as compared to younger patients.
+In clinical studies of gemcitabine, enrolling 979 patients with various cancers who received gemcitabine as a single agent, no overall differences in safety were observed between patients aged 65 and older and younger patients, with the exception of a higher rate of Grade 3–4 thrombocytopenia in older patients as compared to younger patients.
 In a randomized trial in women with ovarian cancer, 175 women received gemcitabine plus carboplatin, of which 29% were age 65 years or older.
 Similar effectiveness was observed between older and younger women.
 There was significantly higher Grade 3/4 neutropenia in women 65 years of age or older.
@@ -51,4 +52,4 @@ No clinical studies have been conducted with gemcitabine in patients with decrea
 ## 8.8 Gender
 
 Gemcitabine clearance is affected by gender [see Clinical Pharmacology (12.3)].
-In single-agent studies of gemcitabine, women, especially older women, were more likely not to proceed to a subsequent cycle and to experience Grade 3-4 neutropenia and thrombocytopenia.
+In single-agent studies of gemcitabine, women, especially older women, were more likely not to proceed to a subsequent cycle and to experience Grade 3/4 neutropenia and thrombocytopenia.

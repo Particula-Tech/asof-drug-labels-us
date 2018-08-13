@@ -11,6 +11,6 @@ It has a molecular weight of 299.66.
 Gemcitabine HCl is a white to off-white solid.
 It is soluble in water, slightly soluble in methanol, and practically insoluble in ethanol and polar organic solvents.
 
-The clinical formulation is supplied in a sterile form for intravenous use only.
+Gemcitabine HCl is supplied in a sterile form for intravenous use only.
 Vials of gemcitabine for injection, USP contain 2 g of gemcitabine HCl (expressed as free base) formulated with mannitol (2 g) and sodium acetate (125 mg) as a sterile lyophilized powder.
 Hydrochloric acid and/or sodium hydroxide may have been added for pH adjustment.
