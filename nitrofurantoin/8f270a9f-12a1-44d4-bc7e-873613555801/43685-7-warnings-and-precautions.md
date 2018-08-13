@@ -77,7 +77,7 @@ The mechanism for this interaction probably is adsorption of nitrofurantoin onto
 Uricosuric drugs, such as probenecid and sulfinpyrazone, can inhibit renal tubular secretion of nitrofurantoin.
 The resulting increase in nitrofurantoin serum levels may increase toxicity, and the decreased urinary levels could lessen its efficacy as a urinary tract antibacterial.
 
-## DRUG & OR LABORATORY TEST INTERACTIONS
+## Drug/Laboratory Test Interactions
 
 As a result of the presence of nitrofurantoin, a false-positive reaction for glucose in the urine may occur.
 This has been observed with Benedict's and Fehling's solutions but not with the glucose enzymatic test.
@@ -111,7 +111,7 @@ However, at 25 times the human dose, fetal malformations were not observed; the 
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
-### Nonteratogenic Effects
+### Non-teratogenic effects
 
 Nitrofurantoin has been shown in one published transplacental carcinogenicity study to induce lung papillary adenomas in the F1 generation mice at doses 19 times the human dose on a mg/kg basis.
 The relationship of this finding to potential human carcinogenesis is presently unknown.

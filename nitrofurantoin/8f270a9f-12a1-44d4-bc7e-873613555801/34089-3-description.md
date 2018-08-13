@@ -14,3 +14,5 @@ The chemical structure is the following:
 Molecular Weight: 256.17
 
 Inactive Ingredients: Each capsule contains carbomer 934P, corn starch, compressible sugar, D&C Yellow No. 10, edible gray ink, FD&C Blue No. 1, FD&C Red No. 40, gelatin, lactose, magnesium stearate, povidone, talc, and titanium dioxide.
+
+FDA approved dissolution method differs from the current USP monograph dissolution methods.

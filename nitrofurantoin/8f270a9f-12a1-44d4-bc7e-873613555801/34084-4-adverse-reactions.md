@@ -71,7 +71,9 @@ Hematologic: Cyanosis secondary to methemoglobinemia has been reported rarely.
 
 Miscellaneous: As with other antimicrobial agents, superinfections caused by resistant organisms, e.g., Pseudomonas species or Candida species, can occur.
 
-In clinical trials of Macrobid, the most frequent laboratory adverse events (1-5%), without regard to drug relationship, were as follows: eosinophilia, increased AST (SGOT), increased ALT (SGPT), decreased hemoglobin, increased serum phosphorus.
+In clinical trials of Macrobid, the most frequent laboratory adverse events (1% to 5%), without regard to drug relationship, were as follows: eosinophilia, increased AST (SGOT), increased ALT (SGPT), decreased hemoglobin, increased serum phosphorus.
 The following laboratory adverse events also have been reported with the use of nitrofurantoin: glucose-6-phosphate dehydrogenase deficiency anemia (see WARNINGS), agranulocytosis, leukopenia, granulocytopenia, hemolytic anemia, thrombocytopenia, megaloblastic anemia.
 In most cases, these hematologic abnormalities resolved following cessation of therapy.
 Aplastic anemia has been reported rarely.
+
+To request medical information or to report SUSPECTED ADVERSE REACTIONS, contact Almatica Pharma at 1-877-447-7979 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
