@@ -137,7 +137,7 @@ Safety and effectiveness in pediatric patients below the age of twelve years hav
 
 Clinical studies of nitrofurantoin monohydrate/macrocrystals capsules did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
-Spontaneous reports suggest a higher proportion of pulmonary reactions, including fatalities, in elderly patients; these differences appear to be related to the higher proportion of elderly patients receiving long- term nitrofurantoin therapy.
+Spontaneous reports suggest a higher proportion of pulmonary reactions, including fatalities, in elderly patients; these differences appear to be related to the higher proportion of elderly patients receiving long-term nitrofurantoin therapy.
 As in younger patients, chronic pulmonary reactions generally are observed in patients receiving therapy for six months or longer (see WARNINGS).
 Spontaneous reports also suggest an increased proportion of severe hepatic reactions, including fatalities, in elderly patients (see WARNINGS).
 
