@@ -8,9 +8,9 @@ This information does not take the place of talking to your healthcare provider 
 
 What is the most important information I should know about norethindrone acetate (A Progestin Hormone) tablets?
 
-1. •Do not use norethindrone acetate tablets if you are pregnant, breastfeeding or are trying to conceive.
-2. •Do not use norethindrone acetate tablets if you have had a previous blood clot, stroke, or heart attack.
-3. •Do not use norethindrone acetate tablets if you are postmenopausal.
+- Do not use norethindrone acetate tablets if you are pregnant, breastfeeding or are trying to conceive.
+- Do not use norethindrone acetate tablets if you have had a previous blood clot, stroke, or heart attack.
+- Do not use norethindrone acetate tablets if you are postmenopausal.
 
 What are norethindrone acetate tablets?
 
@@ -27,21 +27,21 @@ You should not take norethindrone acetate tablets if you are postmenopausal, pre
 
 You should not take norethindrone acetate tablets if you have the following conditions:
 
-1. •Known or suspected pregnancy.
-   Norethindrone acetate tablets are not indicated during pregnancy as it may cause fetal harm when administered to pregnant women.
-   There is an increased risk of minor birth defects in children whose mothers take norethindrone acetate tablets during the first 4 months of pregnancy (mild masculinization of the external genitalia of the female fetus, as well as hypospadias in the male fetus).
-   If you take norethindrone acetate tablets and later find out you were pregnant, talk with your healthcare provider right away.
-2. •History of blood clots in the legs, lungs, eyes, brain, or elsewhere, or a past history of these conditions
-3. •Liver impairment or disease
-4. •Known or suspected cancer of the breast.
-   If you have or had cancer of the breast, talk with your healthcare provider about whether you should take norethindrone acetate tablets.
-5. •Undiagnosed vaginal bleeding
-6. •Hypersensitivity to norethindrone acetate tablets.
-   See the end of this leaflet for a list of all of the ingredients in norethindrone acetate tablets.
+- Known or suspected pregnancy.
+  Norethindrone acetate tablets are not indicated during pregnancy as it may cause fetal harm when administered to pregnant women.
+  There is an increased risk of minor birth defects in children whose mothers take norethindrone acetate tablets during the first 4 months of pregnancy (mild masculinization of the external genitalia of the female fetus, as well as hypospadias in the male fetus).
+  If you take norethindrone acetate tablets and later find out you were pregnant, talk with your healthcare provider right away.
+- History of blood clots in the legs, lungs, eyes, brain, or elsewhere, or a past history of these conditions
+- Liver impairment or disease
+- Known or suspected cancer of the breast.
+  If you have or had cancer of the breast, talk with your healthcare provider about whether you should take norethindrone acetate tablets.
+- Undiagnosed vaginal bleeding
+- Hypersensitivity to norethindrone acetate tablets.
+  See the end of this leaflet for a list of all of the ingredients in norethindrone acetate tablets.
 
 What are the risks associated with norethindrone acetate tablets?
 
-1. •Risk to the Fetus
+- Risk to the Fetus
 
 Norethindrone acetate tablets should not be used if you are pregnant.
 Norethindrone acetate tablets are contraindicated during pregnancy as it may cause fetal harm when administered to pregnant women.
@@ -52,7 +52,7 @@ Although it is not clear that these events were drug related, you should check w
 You should avoid using norethindrone acetate tablets during pregnancy.
 If you take norethindrone acetate tablets and later find you were pregnant when you took it, be sure to discuss this with your healthcare provider as soon as possible.
 
-1. •Abnormal Blood Clotting
+- Abnormal Blood Clotting
 
 Use of progestational drugs, such as norethindrone acetate tablets, has been associated with changes in the blood-clotting system.
 These changes allow the blood to clot more easily, possibly allowing clots to form in the bloodstream.
@@ -62,52 +62,52 @@ Any of these conditions may cause death or serious long-term disability.
 Call your healthcare provider right away if you suspect you have any of these conditions.
 He or she may advise you to stop using the drug.
 
-1. •Eye Abnormalities
+- Eye Abnormalities
 
 Discontinue norethindrone acetate tablets and call your healthcare provider right away if you experience sudden partial or complete loss of vision, blurred vision, or sudden onset of bulging eyes, double vision, or migraine.
 
 These are some of the warning signs of serious side effects with progestin therapy
 
-1. •Breast lumps
-2. •Dizziness and faintness
-3. •Changes in speech
-4. •Severe headaches
-5. •Chest pain
-6. •Shortness of breath
-7. •Pains in your legs
-8. •Changes in vision
+- Breast lumps
+- Dizziness and faintness
+- Changes in speech
+- Severe headaches
+- Chest pain
+- Shortness of breath
+- Pains in your legs
+- Changes in vision
 
 Call your healthcare provider right away if you get any of these warning signs, or any other unusual symptom that concerns you.
 
 Common side effects include
 
-1. •Headache
-2. •Breast pain
-3. •Irregular vaginal bleeding or spotting
-4. •Stomach/abdominal cramps/bloating
-5. •Nausea and vomiting
-6. •Hair loss
+- Headache
+- Breast pain
+- Irregular vaginal bleeding or spotting
+- Stomach/abdominal cramps/bloating
+- Nausea and vomiting
+- Hair loss
 
 Other side effects include
 
-1. •High blood pressure
-2. •Liver problems
-3. •High blood sugar
-4. •Fluid retention
-5. •Enlargements of benign tumors of the uterus (“fibroids”)
-6. •Vaginal yeast infections
-7. •Mental depression
+- High blood pressure
+- Liver problems
+- High blood sugar
+- Fluid retention
+- Enlargements of benign tumors of the uterus (“fibroids”)
+- Vaginal yeast infections
+- Mental depression
 
 These are not all the possible side effects of progestin and/or estrogen therapy.
 For more information, ask your healthcare provider or pharmacist.
 
 What can I do to lower my chances of getting a serious side effect with norethindrone acetate tablets?
 
-1. •Talk with your healthcare provider regularly about whether you should continue taking norethindrone acetate tablets.
-2. •Have a breast exam and mammogram (breast x-ray) every year unless your healthcare provider tells you something else.
-   If members of your family have had breast cancer or if you have ever had breast lumps or an abnormal mammogram, you may need to have breast exams more often.
-3. •If you have high blood pressure, high cholesterol (fat in the blood), diabetes, are overweight, or if you use tobacco, you may have higher chances for getting heart disease.
-   Ask your healthcare provider for ways to lower your chances of getting heart attacks.
+- Talk with your healthcare provider regularly about whether you should continue taking norethindrone acetate tablets.
+- Have a breast exam and mammogram (breast x-ray) every year unless your healthcare provider tells you something else.
+  If members of your family have had breast cancer or if you have ever had breast lumps or an abnormal mammogram, you may need to have breast exams more often.
+- If you have high blood pressure, high cholesterol (fat in the blood), diabetes, are overweight, or if you use tobacco, you may have higher chances for getting heart disease.
+  Ask your healthcare provider for ways to lower your chances of getting heart attacks.
 
 General information about the safe and effective use of norethindrone acetate tablets
 
