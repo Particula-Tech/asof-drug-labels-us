@@ -42,6 +42,21 @@ Overestimating the acetaminophen and codeine phosphate oral solution dosage when
 
 Accidental ingestion of acetaminophen and codeine phosphate oral solution, especially by children, can result in respiratory depression and death due to an overdose of codeine.
 
+## Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
+
+To ensure that the benefits of opioid analgesics outweigh the risks of addiction, abuse, and misuse, the Food and Drug Administration (FDA) has required a Risk Evaluation and Mitigation Strategy (REMS) for these products.
+Under the requirements of the REMS, drug companies with approved opioid analgesic products must make REMS-compliant education programs available to healthcare providers.
+Prescribers are strongly encouraged to do all of the following:
+
+- Complete a REMS-compliant education program offered by an accredited provider of continuing education (CE) or another education program that includes all the elements of the FDA Education Blueprint for Health Care Providers involved in the Management or Support of Patients with Pain.
+- Discuss the safe use, serious risks, and proper storage and disposal of opioid analgesics with patients and/or their caregivers every time these medicines are prescribed.
+  The Patient Counseling Guide (PCG) can be obtained at this link: www.fda.gov/OpioidAnalgesicsREMSPCD.
+- Emphasize to patients and their caregivers the importance of reading the Medication Guide that they will receive from their pharmacist every time an opioid analgesic is dispensed to them.
+- Consider using other tools to improve patient, household, and community safety, such as patient-prescriber agreements that reinforce patient-prescriber responsibilities.
+
+To obtain further information on the opioid analgesic REMS and for a list of accredited REMS CME/CE, call 800-503-0784, or log on to www.opioidanalgesicrems.com.
+The FDA Blueprint can be found at www.fda.gov/OpioidAnalgesicREMSBlueprint.
+
 ## Ultra-Rapid Metabolism of Codeine and Other Risk Factors for Life-threatening Respiratory Depression in Children
 
 Life-threatening respiratory depression and death have occurred in children who received codeine.
