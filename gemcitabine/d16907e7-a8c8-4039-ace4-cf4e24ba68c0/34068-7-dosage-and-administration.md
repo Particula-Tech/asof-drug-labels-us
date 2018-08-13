@@ -40,7 +40,7 @@ Refer to Dosage and Administration (2.5) for recommendations for non-hematologic
 
 Table 3: Recommended Dose Reductions for Gemcitabine for Myelosuppression on Day of Treatment in Breast Cancer
 
-| Treatment Day | Absolute granulocyte count |  | Platelet count | % of full dose |
+| Treatment Day | Absolute granulocyte count (× 106/L) |  | Platelet count (× 106/L) | % of full dose |
 | --- | --- | --- | --- | --- |
 | Day 1 | ≥1,500less than 1,500 | andor | ≥100,000less than 100,000 | 100%Hold |
 | Day 8 | ≥1,2001,000-1,199700-999<700 | andorandor | >75,00050,000-75,000≥50,000<50,000 | 100%75%50%Hold |
@@ -90,12 +90,12 @@ Table 4: Recommended Dose Reductions for Gemcitabine for Myelosuppression in Pan
 
 ## 2.5 Dose Modifications for Non-Hematologic Adverse Reactions
 
-Permanently discontinue gemcitabine for any of the following
+Permanently discontinue gemcitabine for any of the following:
 
 - •Unexplained dyspnea or other evidence of severe pulmonary toxicity
 - •Severe hepatic toxicity
-- •Hemolytic-Uremic Syndrome
-- •Capillary Leak Syndrome
+- •Hemolytic-uremic syndrome
+- •Capillary leak syndrome
 - •Posterior reversible encephalopathy syndrome
 
 Withhold gemcitabine or reduce dose by 50% for other severe (Grade 3 or 4) non-hematological toxicity until resolved.

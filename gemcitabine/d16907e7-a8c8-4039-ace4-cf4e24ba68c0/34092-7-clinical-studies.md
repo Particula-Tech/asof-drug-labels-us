@@ -21,7 +21,7 @@ Table 11: Randomized Trial of Gemcitabine plus Carboplatin versus Carboplatin in
 | Disease Status Evaluable Bidimensionally measurable | 8% 92% | 3% 96% |
 | Platinum-free intervalb 6-12 months >12 months | 40% 59% | 40% 60% |
 | First-line therapy Platinum-taxane combination Platinum-non-taxane combination Platinum monotherapy | 70% 29% 1% | 71% 28% 1% |
-| a 5 patients on gemcitabine plus carboplatin arm and 4 patients on carboplatin arm with no baseline Eastern Cooperative Oncology Group (ECOG) performance status b 2 patients on gemcitabine plus carboplatin arm and 1 on carboplatin arm had platinum-free interval <6 months. |  |  |
+| a 5 patients on gemcitabine plus carboplatin arm and 4 patients on carboplatin arm with no baseline Eastern Cooperative Oncology Group (ECOG) performance status. b 2 patients on gemcitabine plus carboplatin arm and 1 on carboplatin arm had platinum-free interval <6 months. |  |  |
 
 Table 12: Randomized Trial of Gemcitabine plus Carboplatin versus Carboplatin in Ovarian Cancer - Efficacy Outcomes
 
@@ -39,9 +39,9 @@ Table 12: Randomized Trial of Gemcitabine plus Carboplatin versus Carboplatin in
 | Independently Reviewed Overall Response Ratef | 46.3% | 35.6% |  |  |  |
 | p-valuec | p=0.11 |  |  |  |  |
 | CRd PR plus PRNMe | 9.1% 37.2% | 4.0% 31.7% |  |  |  |
-| a CI=confidence interval. b Log Rank, unadjusted. c Chi Square. d CR=Complete response. e PR plus PRNM=Partial response plus partial response, non-measurable disease. f Independently reviewed cohort - gemcitabine/carboplatin (n=121), carboplatin (n=101); independent reviewers unable to measure disease detected by sonography or physical exam. |  |  |  |  |  |
+| a CI=confidence interval. b Log rank, unadjusted. c Chi square. d CR=Complete response. e PR plus PRNM=Partial response plus partial response, non-measurable disease. f Independently reviewed cohort - gemcitabine/carboplatin (n=121), carboplatin (n=101); independent reviewers unable to measure disease detected by sonography or physical exam. |  |  |  |  |  |
 
-Figure 1: Kaplan-Meier Curve of Progression Free Survival in Gemcitabine plus Carboplatin versus Carboplatin in Ovarian Cancer (N=356)
+Figure 1: Kaplan-Meier Curve of Progression Free Survival in Gemcitabine plus Carboplatin versus Carboplatin in Ovarian Cancer (N=356).
 
 ## 14.2 Breast Cancer
 
@@ -79,7 +79,7 @@ Table 13: Randomized Trial of Gemcitabine plus Paclitaxel versus Paclitaxel in B
 | p-value | p<0.0001 |  |
 | a Karnofsky Performance Status. b These represent reconciliation of investigator and Independent Review Committee assessments according to a predefined algorithm. c Based on the ITT population. |  |  |
 
-Figure 2: Kaplan-Meier Curve of Time to Documented Disease Progression in Gemcitabine plus Paclitaxel versus Paclitaxel Breast Cancer Study (N=529)
+Figure 2: Kaplan-Meier Curve of Time to Documented Disease Progression in Gemcitabine plus Paclitaxel versus Paclitaxel Breast Cancer Study (N=529).
 
 ## 14.3 Non-Small Cell Lung Cancer (NSCLC)
 
@@ -104,14 +104,16 @@ The median survival was 8.7 months for the gemcitabine plus cisplatin arm versus
 Median time to disease progression for the gemcitabine plus cisplatin arm was 5.0 months compared to 4.1 months on the etoposide plus cisplatin arm (Log rank p=0.015, two-sided).
 The objective response rate for the gemcitabine plus cisplatin arm was 33% compared to 14% on the etoposide plus cisplatin arm (Fisher's Exact p=0.01, two-sided).
 
-Figure 3: Kaplan-Meier Survival Curve in Gemcitabine plus Cisplatin versus Cisplatin in Patients with NSCLC Study (N=522)
+Figure 3: Kaplan-Meier Survival Curve in Gemcitabine plus Cisplatin versus Cisplatin in Patients with NSCLC Study (N=522).
 
 Table 14: Randomized Trials of Gemcitabine plus Cisplatin in Patients with NSCLC
 
 | Trial | 28-day Schedulea |  | 21-day Scheduleb |  |
 | --- | --- | --- | --- | --- |
 | Treatment Arm | Gemcitabine plus Cisplatin | Cisplatin | Gemcitabine plus Cisplatin | Etoposide plus Cisplatin |
-| Number of patientsDemographic/Entry Characteristics Male | 260 70% | 262 71% | 69 93% | 66 92% |
+| Number of patients | 260 | 262 | 69 | 66 |
+| Demographic/Entry Characteristics |  |  |  |  |
+| Male | 70% | 71% | 93% | 92% |
 | Median age, years Range | 62 36 to 88 | 63 35 to 79 | 58 33 to 76 | 60 35 to 75 |
 | Stage IIIA Stage IIIB Stage IV | 7% 26% 67% | 7% 23% 70% | N/Ac 48% 52% | N/Ac 52% 49% |
 | Baseline KPSd 70 to 80 Baseline KPSd 90 to 100 | 41% 57% | 44% 55% | 45% 55% | 52% 49% |
@@ -131,7 +133,7 @@ The first trial randomized patients to receive gemcitabine 1,000 mg/m2 intraveno
 In the second trial, all patients received gemcitabine 1,000 mg/m2 intravenously over 30 minutes once weekly for 7 weeks followed by a one-week rest, then once weekly dosing for 3 consecutive weeks every 28-days in subsequent cycles.
 
 The primary efficacy outcome measure in both trials was "clinical benefit response".
-A patient was considered to have had a clinical benefit response if either occurred:
+A patient was considered to have had a clinical benefit response if either of the following occurred:
 
 - •The patient achieved a ≥50% reduction in pain intensity (Memorial Pain Assessment Card) or analgesic consumption, or a 20-point or greater improvement in performance status (Karnofsky Performance Status) for a period of at least 4 consecutive weeks, without showing any sustained worsening in any of the other parameters.
   Sustained worsening was defined as 4 consecutive weeks with either any increase in pain intensity or analgesic consumption or a 20-point decrease in performance status occurring during the first 12 weeks of therapy.
@@ -150,7 +152,9 @@ Table 15: Randomized Trial of Gemcitabine versus 5-Fluorouracil in Pancreatic Ca
 
 |  | Gemcitabine | 5-FU |
 | --- | --- | --- |
-| Number of patients Demographic/Entry Characteristics Male | 63 54% | 63 54% |
+| Number of patients | 63 | 63 |
+| Demographic/Entry Characteristics |  |  |
+| Male | 54% | 54% |
 | Median age Range | 62 years 37 to 79 | 61 years 36 to 77 |
 | Stage IV disease | 71% | 76% |
 | Baseline KPSa ≤70 | 70% | 68% |
@@ -163,4 +167,4 @@ Table 15: Randomized Trial of Gemcitabine versus 5-Fluorouracil in Pancreatic Ca
 | p-valueb | p=0.0013 |  |
 | a Karnofsky Performance Status. b p-value for clinical benefit response calculated using the two-sided test for difference in binomial proportions. All other p-values are calculated using log rank test. |  |  |
 
-Figure 4: Kaplan-Meier Survival Curve
+Figure 4: Kaplan-Meier Survival Curve.

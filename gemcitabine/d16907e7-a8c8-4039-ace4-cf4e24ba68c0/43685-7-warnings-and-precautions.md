@@ -20,18 +20,18 @@ Discontinue gemcitabine in patients who develop unexplained dyspnea, with or wit
 
 ## 5.4 Hemolytic Uremic Syndrome
 
-Hemolytic uremic syndrome, including fatalities from renal failure or the requirement for dialysis can occur in patients treated with gemcitabine.
+Hemolytic uremic syndrome, including fatalities from renal failure or the requirement for dialysis, can occur in patients treated with gemcitabine.
 In clinical trials, HUS was reported in 6 of 2,429 patients (0.25%).
 Most fatal cases of renal failure were due to HUS [see Adverse Reactions (6.1 and 6.2)].
 Assess renal function prior to initiation of gemcitabine and periodically during treatment.
-Consider the diagnosis of HUS in patients who develops anemia with evidence of microangiopathic hemolysis, elevation of bilirubin or LDH, or reticulocytosis; severe thrombocytopenia; or evidence of renal failure (elevation of serum creatinine or BUN) [see Dosage and Administration (2.5) and Use In Specific Populations (8.6)].
+Consider the diagnosis of HUS in patients who develops anemia with evidence of microangiopathic hemolysis, elevation of bilirubin or LDH, or reticulocytosis; severe thrombocytopenia; or evidence of renal failure (elevation of serum creatinine or BUN) [see Dosage and Administration (2.5) and Use in Specific Populations (8.6)].
 Permanently discontinue gemcitabine in patients with HUS or severe renal impairment.
 Renal failure may not be reversible even with discontinuation of therapy.
 
 ## 5.5 Hepatic Toxicity
 
 Drug-induced liver injury, including liver failure and death, has been reported in patients receiving gemcitabine alone or in combination with other potentially hepatotoxic drugs [see Adverse Reactions (6.1 and 6.2)].
-Administration of gemcitabine in patients with concurrent liver metastases or a pre-existing medical history or hepatitis, alcoholism, or liver cirrhosis can lead to exacerbation of the underlying hepatic insufficiency [see Use in Specific Populations (8.7)].
+Administration of gemcitabine in patients with concurrent liver metastases or a pre-existing medical history of hepatitis, alcoholism, or liver cirrhosis can lead to exacerbation of the underlying hepatic insufficiency [see Use in Specific Populations (8.7)].
 Assess hepatic function prior to initiation of gemcitabine and periodically during treatment.
 Discontinue gemcitabine in patients that develop severe liver injury.
 
@@ -39,7 +39,7 @@ Discontinue gemcitabine in patients that develop severe liver injury.
 
 Gemcitabine can cause fetal harm when administered to a pregnant woman, based on its mechanism of action.
 Gemcitabine was teratogenic, embryotoxic, and fetotoxic in mice and rabbits.
-If this drug is used during pregnancy, or if a woman becomes pregnant while taking gemcitabine, the patient should be apprised of the potential hazard to a fetus [see Use In Specific Populations (8.1)].
+If this drug is used during pregnancy, or if a woman becomes pregnant while taking gemcitabine, the patient should be apprised of the potential hazard to a fetus [see Use in Specific Populations (8.1)].
 
 ## 5.7 Exacerbation of Radiation Therapy Toxicity
 

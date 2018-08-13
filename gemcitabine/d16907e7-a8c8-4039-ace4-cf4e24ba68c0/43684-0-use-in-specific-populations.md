@@ -26,8 +26,9 @@ Because many drugs are excreted in human milk and because of the potential for s
 
 The safety and effectiveness of gemcitabine have not been established in pediatric patients.
 The safety and pharmacokinetics of gemcitabine were evaluated in a trial in pediatric patients with refractory leukemia.
-The maximum tolerated dose was 10 mg/m2/min for 360 minutes three times weekly followed by a one-week rest period.
-The safety and activity of gemcitabine were evaluated in a trial of pediatric patients with relapsed acute lymphoblastic leukemia (22 patients) and acute myelogenous leukemia (10 patients) at a dose of 10 mg/m2/min administered over 360 minutes three times weekly followed by a one-week rest period.
+The maximum tolerated dose was 10 mg/m2/min for 360 minutes weekly for three weeks followed by a one-week rest period.
+The safety and activity of gemcitabine were evaluated in a trial of pediatric patients with relapsed acute lymphoblastic leukemia (22 patients) and acute myelogenous leukemia (10 patients) at a dose of 10 mg/m2/min administered over 360 minutes weekly for three weeks followed by a one-week rest period.
+Patients with M1 or M2 bone marrow on Day 28 who did not experience unacceptable toxicity were eligible to receive a maximum of one additional four-week course.
 Toxicities observed included bone marrow suppression, febrile neutropenia, elevation of serum transaminases, nausea, and rash/desquamation.
 No meaningful clinical activity was observed in this trial.
 
