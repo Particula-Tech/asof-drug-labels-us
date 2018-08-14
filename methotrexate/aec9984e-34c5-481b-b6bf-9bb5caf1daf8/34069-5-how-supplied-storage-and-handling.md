@@ -2,9 +2,8 @@
 
 XATMEP is a clear yellow to orange oral solution that contains 2.5 mg of methotrexate per milliliter (equivalent to 2.74 mg of methotrexate sodium/mL).
 It is packaged in a high-density polyethylene (HDPE) bottle with a child‑resistant cap and tamper-evident seal.
-Each bottle contains 120 mL.
 
-NDC 52652-2001-1
+XATMEP is available in bottles of 60 mL (NDC 52652-2001-6) and 120 mL (NDC 52652-2001-1).
 
 Store XATMEP refrigerated (2°C to 8°C/36°F to 46°F) tightly closed in the original container prior to dispensing.
 
