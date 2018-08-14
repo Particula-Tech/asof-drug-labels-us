@@ -10,9 +10,5 @@ All other product/brand names and/or logos are trademarks of their respective ow
 
 © Valeant Pharmaceuticals North America LLC
 
-20001976
-
 Rev.
-07/2017
-
-9383003
+08/2018

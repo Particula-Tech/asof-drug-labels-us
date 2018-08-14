@@ -3,10 +3,10 @@
 Hypertension
 
 In patients who are currently being treated with a diuretic, symptomatic hypotension occasionally may occur following the initial dose of VASOTEC.
-The diuretic should, if possible, be discontinued for two to three days before beginning therapy with VASOTEC to reduce the likelihood of hypotension (see WARNINGS).
+The diuretic should, if possible, be discontinued for two to three days before beginning therapy with VASOTEC to reduce the likelihood of hypotension (see WARNINGS, Hypotension).
 If the patient's blood pressure is not controlled with VASOTEC alone, diuretic therapy may be resumed.
 
-If the diuretic cannot be discontinued an initial dose of 2.5 mg should be used under medical supervision for at least two hours and until blood pressure has stabilized for at least an additional hour (see WARNINGS and PRECAUTIONS, Drug Interactions).
+If the diuretic cannot be discontinued an initial dose of 2.5 mg should be used under medical supervision for at least two hours and until blood pressure has stabilized for at least an additional hour (see WARNINGS, Hypotension and PRECAUTIONS, Drug Interactions).
 
 The recommended initial dose in patients not on diuretics is 5 mg once a day.
 Dosage should be adjusted according to blood pressure response.
@@ -22,12 +22,12 @@ The usual dose of enalapril is recommended for patients with a creatinine cleara
 For patients with creatinine clearance less than or equal to 30 mL/min (serum creatinine more than or equal to 3 mg/dL), the first dose is 2.5 mg once daily.
 The dosage may be titrated upward until blood pressure is controlled or to a maximum of 40 mg daily.
 
-| Renal Status | Creatinine- Clearance mL/min | Initial Dose mg/day |
+| Renal Status | Creatinine Clearance mL/min | Initial Dose mg/day |
 | --- | --- | --- |
 | Normal Renal Function | >80 mL/min | 5 mg |
 | Mild Impairment | ≤ 80 >30 mL/min | 5 mg |
 | Moderate to Severe Impairment | ≤30 mL/min | 2.5 mg |
-| Dialysis PatientsSee WARNINGS, Anaphylactoid reactions during membrane exposure |  | 2.5 mg on dialysis daysDosage on nondialysis days should be adjusted depending on the blood pressure response. |
+| Dialysis PatientsSee WARNINGS, Anaphylactoid Reactions during Membrane Exposure. |  | 2.5 mg on dialysis daysDosage on nondialysis days should be adjusted depending on the blood pressure response. |
 
 Heart Failure
 
@@ -67,9 +67,9 @@ VASOTEC is not recommended in neonates and in pediatric patients with glomerular
 
 Preparation of Suspension (for 200 mL of a 1.0 mg/mL suspension)
 
-Add 50 mL of Bicitra to a polyethylene terephthalate (PET) bottle containing ten 20 mg tablets of VASOTEC and shake for at least 2 minutes.
+Add 50 mL of sodium citrate and citric acid oral solution, USP to a polyethylene terephthalate (PET) bottle containing ten 20 mg tablets of VASOTEC and shake for at least 2 minutes.
 Let concentrate stand for 60 minutes.
 Following the 60-minute hold time, shake the concentrate for an additional minute.
 Add 150 mL of Ora-Sweet SF to the concentrate in the PET bottle and shake the suspension to disperse the ingredients.
-The suspension should be refrigerated at 2-8°C (36-46°F) and can be stored for up to 30 days.
+The suspension should be refrigerated at 2° to 8°C (36° to 46°F) and can be stored for up to 30 days.
 Shake the suspension before each use.

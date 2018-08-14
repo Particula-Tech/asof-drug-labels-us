@@ -23,7 +23,7 @@ Pharmacokinetics and Metabolism
 Following oral administration of VASOTEC, peak serum concentrations of enalapril occur within about one hour.
 Based on urinary recovery, the extent of absorption of enalapril is approximately 60 percent.
 Enalapril absorption is not influenced by the presence of food in the gastrointestinal tract.
-Following absorption, enalapril is hydrolyzed to enalaprilat, which is a more potent angiotensin converting enzyme inhibitor than enalapril; enalaprilat is poorly absorbed when administered orally.
+Following absorption, enalapril is hydrolyzed to enalaprilat, which is a more potent angiotensin-converting enzyme inhibitor than enalapril; enalaprilat is poorly absorbed when administered orally.
 Peak serum concentrations of enalaprilat occur three to four hours after an oral dose of enalapril maleate.
 Excretion of VASOTEC is primarily renal.
 Approximately 94 percent of the dose is recovered in the urine and feces as enalaprilat or enalapril.
@@ -48,12 +48,12 @@ Pharmacodynamics and Clinical Effects
 Hypertension
 
 Administration of VASOTEC to patients with hypertension of severity ranging from mild to severe results in a reduction of both supine and standing blood pressure usually with no orthostatic component.
-Symptomatic postural hypotension is therefore infrequent, although it might be anticipated in volume-depleted patients (see WARNINGS).
+Symptomatic postural hypotension is therefore infrequent, although it might be anticipated in volume-depleted patients (see WARNINGS, Hypotension).
 
 In most patients studied, after oral administration of a single dose of enalapril, onset of antihypertensive activity was seen at one hour with peak reduction of blood pressure achieved by four to six hours.
 
 At recommended doses, antihypertensive effects have been maintained for at least 24 hours.
-In some patients the effects may diminish toward the end of the dosing interval (see DOSAGE AND ADMINISTRATION).
+In some patients the effects may diminish toward the end of the dosing interval (see DOSAGE AND ADMINISTRATION, Hypertension).
 
 In some patients achievement of optimal blood pressure reduction may require several weeks of therapy.
 

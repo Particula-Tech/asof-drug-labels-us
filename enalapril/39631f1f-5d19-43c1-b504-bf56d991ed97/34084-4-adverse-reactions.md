@@ -33,7 +33,7 @@ Heart Failure
 
 Adverse experiences occurring in greater than one percent of patients with heart failure treated with VASOTEC are shown below.
 The incidences represent the experiences from both controlled and uncontrolled clinical trials (maximum duration of therapy was approximately one year).
-In the placebo treated patients, the incidences reported are from the controlled trials (maximum duration of therapy is 12 weeks).
+In the placebo- treated patients, the incidences reported are from the controlled trials (maximum duration of therapy is 12 weeks).
 The percentage of patients with severe heart failure (NYHA Class IV) was 29 percent and 43 percent for patients treated with VASOTEC and placebo, respectively.
 
 |  | VASOTEC (n=673) Incidence (discontinuation) | Placebo (n=339) Incidence |
@@ -94,12 +94,12 @@ Miscellaneous: A symptom complex has been reported which may include some or all
 
 Angioedema: Angioedema has been reported in patients receiving VASOTEC, with an incidence higher in black than in non-black patients.
 Angioedema associated with laryngeal edema may be fatal.
-If angioedema of the face, extremities, lips, tongue, glottis and/or larynx occurs, treatment with VASOTEC should be discontinued and appropriate therapy instituted immediately (see WARNINGS).
+If angioedema of the face, extremities, lips, tongue, glottis and/or larynx occurs, treatment with VASOTEC should be discontinued and appropriate therapy instituted immediately (see WARNINGS, Head and Neck Angioedema).
 
 Hypotension: In the hypertensive patients, hypotension occurred in 0.9 percent and syncope occurred in 0.5 percent of patients following the initial dose or during extended therapy.
 Hypotension or syncope was a cause for discontinuation of therapy in 0.1 percent of hypertensive patients.
 In heart failure patients, hypotension occurred in 6.7 percent and syncope occurred in 2.2 percent of patients.
-Hypotension or syncope was a cause for discontinuation of therapy in 1.9 percent of patients with heart failure (see WARNINGS).
+Hypotension or syncope was a cause for discontinuation of therapy in 1.9 percent of patients with heart failure (see WARNINGS, Hypotension).
 
 Cough: See PRECAUTIONS, Cough.
 
@@ -109,18 +109,18 @@ The adverse experience profile for pediatric patients appears to be similar to t
 
 Clinical Laboratory Test Findings
 
-Serum Electrolytes:
+Serum Electrolytes
 
-Hyperkalemia (see PRECAUTIONS), hyponatremia.
+Hyperkalemia (see PRECAUTIONS, Hyperkalemia), hyponatremia.
 
-Creatinine, Blood Urea Nitrogen:
+Creatinine, Blood Urea Nitrogen
 
 In controlled clinical trials minor increases in blood urea nitrogen and serum creatinine, reversible upon discontinuation of therapy, were observed in about 0.2 percent of patients with essential hypertension treated with VASOTEC alone.
-Increases are more likely to occur in patients receiving concomitant diuretics or in patients with renal artery stenosis (see PRECAUTIONS).
+Increases are more likely to occur in patients receiving concomitant diuretics or in patients with renal artery stenosis (see PRECAUTIONS, Impaired Renal Function).
 In patients with heart failure who were also receiving diuretics with or without digitalis, increases in blood urea nitrogen or serum creatinine, usually reversible upon discontinuation of VASOTEC and/or other concomitant diuretic therapy, were observed in about 11 percent of patients.
 Increases in blood urea nitrogen or creatinine were a cause for discontinuation in 1.2 percent of patients.
 
-Hematology:
+Hematology
 
 Small decreases in hemoglobin and hematocrit (mean decreases of approximately 0.3 g percent and 1.0 vol percent, respectively) occur frequently in either hypertension or congestive heart failure patients treated with VASOTEC but are rarely of clinical importance unless another cause of anemia coexists.
 In clinical trials, less than 0.1 percent of patients discontinued therapy due to anemia.
