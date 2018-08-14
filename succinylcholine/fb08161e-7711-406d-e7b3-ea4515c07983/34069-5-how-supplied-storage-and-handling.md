@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Quelicin™ (Succinylcholine Chloride Injection, USP) is supplied as a clear, colorless solution in the following concentrations and packages:
+QUELICIN™ (Succinylcholine Chloride Injection, USP) is supplied as a clear, colorless solution in the following concentrations and packages:
 
 | NDC No. | Container | Size (mL) | mg/mL | mg (total) | mOsmol/mL (calc.) |
 | --- | --- | --- | --- | --- | --- |
@@ -15,8 +15,8 @@ All units carry a date of expiration.
 Store in refrigerator 2° to 8°C (36° to 46°F).
 The multi-dose vials are stable for up to 14 days at room temperature without significant loss of potency.
 
-Hospira, Inc., Lake Forest, IL 60045 USA
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-1246-1.0
+LAB-1246-2.0
 
-Revised: 01/2018
+Revised: 6/2018
