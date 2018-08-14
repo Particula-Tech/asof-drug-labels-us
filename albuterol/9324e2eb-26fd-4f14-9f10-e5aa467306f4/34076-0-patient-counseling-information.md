@@ -65,16 +65,14 @@ Marketed by: Teva Respiratory, LLC
 
 Horsham, PA 19044
 
-Manufactured by: Teva Pharmaceutical Industries Ltd.
+Manufactured by: Norton (Waterford) Ltd.
 
-Jerusalem, Israel
+Waterford, Ireland
 
-Copyright ©2015-2016, Teva Respiratory, LLC
+Copyright ©2015-2018, Teva Respiratory, LLC
 
 All rights reserved.
 
-ProAir® and RespiClick® are trademarks owned by Teva Respiratory, LLC
-
-United States Patent Nos. 6748947, 6871646, 6446627, 7540282, 8006690, 6701917, 6718972, 8651103, 8978966, 9216260
+United States Patent Nos. 6701917, 6718972, 6748947, 6871646, 7540282, 8006690, 8651103, 8978966, 9216260, 9463288, 9731087
 
 PROR-004

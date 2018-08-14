@@ -20,9 +20,9 @@ Do not use PROAIR RESPICLICK with a spacer or volume holding chamber.
 
 Cleaning:
 
-- •Keep the inhaler clean and dry at all times.
+- Keep the inhaler clean and dry at all times.
   Never wash or put any part of your inhaler in water.
-- •Routine maintenance is not required.
+- Routine maintenance is not required.
   If the mouthpiece needs cleaning, gently wipe the mouthpiece with a dry cloth or tissue as needed.
 
 Dose Counter: The PROAIR RESPICLICK inhaler has a dose counter attached to the actuator.
