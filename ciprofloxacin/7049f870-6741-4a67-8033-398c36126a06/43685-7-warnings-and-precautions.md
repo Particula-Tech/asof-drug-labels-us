@@ -34,15 +34,19 @@ Avoid fluoroquinolones, including ciprofloxacin, in patients who have previously
 
 ## 5.4 Central Nervous System Effects
 
-Fluoroquinolones, including ciprofloxacin, have been associated with an increased risk of central nervous system (CNS) effects, including convulsions, increased intracranial pressure (including pseudotumor cerebri), and toxic psychosis ciprofloxacin may also cause central nervous system (CNS) events including: nervousness, agitation, insomnia, anxiety, nightmares, paranoia, dizziness, confusion, tremors, hallucinations, depression, and, psychotic reactions have progressed to suicidal ideations/thoughts and self-injurious behavior such as attempted or completed suicide.
+Psychiatric Adverse Reactions
+
+Fluoroquinolones, including ciprofloxacin, have been associated with an increased risk of psychiatric adverse reactions, including: toxic psychosis, psychotic reactions progressing to suicidal ideations/thoughts, hallucinations, or paranoia; depression, or self-injurious behavior such as attempted or completed suicide; anxiety, agitation, or nervousness; confusion, delirium, disorientation, or disturbances in attention; insomnia or nightmares; memory impairment.
 These reactions may occur following the first dose.
-Advise patients receiving ciprofloxacin to inform their healthcare provider immediately if these reactions occur, discontinue the drug, and institute appropriate care.
+Advise patients receiving ciprofloxacin to inform their healthcare provider immediately if these reactions occur, discontinue the drug, and institute appropriate care [see Adverse Reactions (6.1)].
+
+Central Nervous System Adverse Reactions
+
+Fluoroquinolones, including ciprofloxacin, have been associated with an increased risk of seizures (convulsions), increased intracranial pressure (pseudotumor cerebri), dizziness, and tremors.
 Ciprofloxacin, like other fluoroquinolones, is known to trigger seizures or lower the seizure threshold.
-As with all fluoroquinolones, use ciprofloxacin with caution in epileptic patients and patients with known or suspected CNS disorders that may predispose to seizures or lower the seizure threshold (for example, severe cerebral arteriosclerosis, previous history of convulsion, reduced cerebral blood flow, altered brain structure, or stroke), or in the presence of other risk factors that may predispose to seizures or lower the seizure threshold (for example, certain drug therapy, renal dysfunction).
-Use ciprofloxacin when the benefits of treatment exceed the risks, since these patients are endangered because of possible undesirable CNS side effects.
 Cases of status epilepticus have been reported.
-If seizures occur, discontinue ciprofloxacin.
-[see Adverse Reactions (6.1) and Drug Interactions (7)].
+As with all fluoroquinolones, use ciprofloxacin with caution in epileptic patients and patients with known or suspected CNS disorders that may predispose to seizures or lower the seizure threshold (for example, severe cerebral arteriosclerosis, previous history of convulsion, reduced cerebral blood flow, altered brain structure, or stroke), or in the presence of other risk factors that may predispose to seizures or lower the seizure threshold (for example, certain drug therapy, renal dysfunction).
+If seizures occur, discontinue ciprofloxacin, and institute appropriate care [see Adverse Reactions (6.1) and Drug Interactions (7)].
 
 ## 5.5 Exacerbation of Myasthenia Gravis
 
@@ -146,3 +150,10 @@ Hydrate patients well to prevent the formation of highly concentrated urine [see
 ## 5.17 Periodic Assessment of Organ System Functions
 
 As with any potent drug, periodic assessment of organ system functions, including renal, hepatic, and hematopoietic function, is advisable during prolonged therapy.
+
+## 5.18 Blood Glucose Disturbances
+
+Fluoroquinolones, including ciprofloxacin, have been associated with disturbances of blood glucose, including symptomatic hyperglycemia and hypoglycemia, usually in diabetic patients receiving concomitant treatment with an oral hypoglycemic agent (e.g., glyburide) or with insulin.
+In these patients, careful monitoring of blood glucose is recommended.
+Severe cases of hypoglycemia resulting in coma or death have been reported.
+If a hypoglycemic reaction occurs in a patient being treated with ciprofloxacin, discontinue ciprofloxacin and initiate appropriate therapy immediately [see Adverse Reactions (6.1), Drug Interactions (7)].

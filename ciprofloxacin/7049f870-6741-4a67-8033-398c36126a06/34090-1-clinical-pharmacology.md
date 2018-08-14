@@ -168,6 +168,62 @@ Gram-negative bacteria
 
 Acinetobacter lwoffi Aeromonas hydrophila Edwardsiella tarda Enterobacter aerogenes Klebsiella oxytoca Legionella pneumophila Pasteurella multocida
 
-Susceptibility Testing
+Susceptibility Test Methods
 
-For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
+When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drug products used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
+These reports should aid the physician in selecting an antibacterial drug product for treatment.
+
+Dilution Techniques
+
+Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
+These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
+The MICs should be determined using a standardized test method (broth and/or agar).5, 6, 7 The MIC values should be interpreted according to criteria provided in Table 10.
+
+Diffusion Techniques
+
+Quantitative methods that require measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
+The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
+The zone size should be determined using a standardized test method.6, 7, 8 This procedure uses paper disks impregnated with 5 mcg ciprofloxacin to test the susceptibility of bacteria to ciprofloxacin.
+The disc diffusion interpretive criteria are provided in Table 11.
+
+Table 11: Susceptibility Test Interpretive Criteria for Ciprofloxacin
+
+|  | MIC (mcg/mL) |  |  | Zone Diameter (mm) |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Bacteria | S | I | R | S | I | R |
+| Enterobacteriaceae | ≤1 | 2 | ≥4 | ≥21 | 16 to 20 | ≤15 |
+| Enterococcus faecalis | ≤1 | 2 | ≥4 | ≥21 | 16 to 20 | ≤15 |
+| Staphylococcus aureus | ≤1 | 2 | ≥4 | ≥21 | 16 to 20 | ≤15 |
+| Staphylococcus epidermidis | ≤1 | 2 | ≥4 | ≥21 | 16 to 20 | ≤15 |
+| Staphylococcus saprophyticus | ≤1 | 2 | ≥4 | ≥21 | 16 to 20 | ≤15 |
+| Pseudomonas aeruginosa | ≤1 | 2 | ≥4 | ≥21 | 16 to 20 | ≤15 |
+| Haemophilus influenzae1 | ≤1 | - | - | ≥21 | - | - |
+| Haemophilus parainfluenzae1 | ≤1 | - | - | ≥21 | - | - |
+| Streptococcus pneumoniae | ≤1 | 2 | ≥4 | ≥21 | 16 to 20 | ≤15 |
+| Streptococcus pyogenes | ≤1 | 2 | ≥4 | ≥21 | 16 to 20 | ≤15 |
+| Bacillus anthracis1 | ≤0.25 | - | - | - | - | - |
+| Yersinia pestis1 | ≤0.25 | - | - | - | - | - |
+| S=Susceptible, I=Intermediate, and R=Resistant. |  |  |  |  |  |  |
+| 1. The current absence of data on resistant isolates precludes defining any results other than “Susceptible”. If isolates yield MIC results other than susceptible, they should be submitted to a reference laboratory for further testing. |  |  |  |  |  |  |
+
+A report of “Susceptible” indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations at the site of infection necessary to inhibit growth of the pathogen.
+A report of “Intermediate” indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
+This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where high dosage of drug can be used.
+This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
+A report of “Resistant” indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations usually achievable at the infection site; other therapy should be selected.
+
+Quality Control
+
+Standardized susceptibility test procedures require the use of laboratory controls to monitor the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.5, 6, 7, 8 Standard ciprofloxacin powder should provide the following range of MIC values noted in Table 12.
+For the diffusion technique using the ciprofloxacin 5 mcg disk the criteria in Table 12 should be achieved.
+
+Table 12: Acceptable Quality Control Ranges for Ciprofloxacin
+
+| Bacteria | MIC range (mcg/mL) | Zone Diameter (mm) |
+| --- | --- | --- |
+| Enterococcus faecalis ATCC® 29212 | 0.25 to 2 | - |
+| Escherichia coli ATCC® 25922 | 0.004 to 0.015 | 30 to 40 |
+| Haemophilus influenzae ATCC® 49247 | 0.004 to 0.03 | 34 to 42 |
+| Pseudomonas aeruginosa ATCC® 27853 | 0.25 to 1 | 25 to 33 |
+| Staphylococcus aureus ATCC® 29213 | 0.12 to 0.5 | - |
+| Staphylococcus aureus ATCC® 25923 | - | 22 to 30 |

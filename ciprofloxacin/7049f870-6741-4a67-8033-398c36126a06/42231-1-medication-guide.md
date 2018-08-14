@@ -224,6 +224,11 @@ Skin rash may be a sign of a more serious reaction to ciprofloxacin.
   Tell your child's healthcare provider if your child has any joint problems during or after treatment with ciprofloxacin.
 - Sensitivity to sunlight (photosensitivity).
   See “What should I avoid while taking ciprofloxacin?”
+- Changes in blood sugar.
+  People who take ciprofloxacin and other fluoroquinolone medicines with oral anti-diabetes medicines or with insulin can get low blood sugar (hypoglycemia) and high blood sugar (hyperglycemia).
+  Follow your healthcare provider's instructions for how often to check your blood sugar.
+  If you have diabetes and you get low blood sugar while taking ciprofloxacin, stop taking ciprofloxacin and call your healthcare provider right away.
+  Your antibiotic medicine may need to be changed.
 
 The most common side effects of ciprofloxacin include:
 
@@ -265,7 +270,7 @@ Brands listed are the trademarks of their respective owners.
 
 SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2018 Sagent Pharmaceuticals, Inc.
 
-Revised: February 2018
+Revised: July 2018
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
