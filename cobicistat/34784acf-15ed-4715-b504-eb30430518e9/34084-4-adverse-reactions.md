@@ -18,9 +18,9 @@ A total of 866 subjects received one tablet of GENVOYA once daily [see Clinical 
 
 The most common adverse reaction (all Grades) reported in at least 10% of subjects in the GENVOYA group was nausea.
 The proportion of subjects who discontinued treatment with GENVOYA or STRIBILD® due to adverse events, regardless of severity, was 1% and 2%, respectively.
-Table 2 displays the frequency of adverse reactions (all Grades) greater than or equal to 5% in the GENVOYA group.
+Table 1 displays the frequency of adverse reactions (all Grades) greater than or equal to 5% in the GENVOYA group.
 
-Table 2 Adverse ReactionsFrequencies of adverse reactions are based on all adverse events attributed to study drugs by the investigator.
+Table 1 Adverse ReactionsFrequencies of adverse reactions are based on all adverse events attributed to study drugs by the investigator.
 (All Grades) Reported in ≥ 5% of HIV-1 Infected Treatment-Naïve Adults Receiving GENVOYA in Studies 104 and 111 (Week 144 analysis)
 
 |  | GENVOYA N=866 | STRIBILD N=867 |
@@ -30,7 +30,7 @@ Table 2 Adverse ReactionsFrequencies of adverse reactions are based on all adver
 | Headache | 6% | 5% |
 | Fatigue | 5% | 4% |
 
-The majority of events presented in Table 2 occurred at severity Grade 1.
+The majority of events presented in Table 1 occurred at severity Grade 1.
 
 Clinical Trials in Virologically Suppressed Adults
 
@@ -81,9 +81,9 @@ The long-term clinical significance of these BMD changes is not known.
 
 Laboratory Abnormalities:
 
-The frequency of laboratory abnormalities (Grades 3–4) occurring in at least 2% of subjects receiving GENVOYA in Studies 104 and 111 are presented in Table 3.
+The frequency of laboratory abnormalities (Grades 3–4) occurring in at least 2% of subjects receiving GENVOYA in Studies 104 and 111 are presented in Table 2.
 
-Table 3 Laboratory Abnormalities (Grades 3–4) Reported in ≥ 2% of Subjects Receiving GENVOYA in Studies 104 and 111 (Week 144 analysis)
+Table 2 Laboratory Abnormalities (Grades 3–4) Reported in ≥ 2% of Subjects Receiving GENVOYA in Studies 104 and 111 (Week 144 analysis)
 
 | Laboratory Parameter AbnormalityFrequencies are based on treatment-emergent laboratory abnormalities. | GENVOYA N=866 | STRIBILD N=867 |
 | --- | --- | --- |
@@ -99,9 +99,9 @@ Serum Lipids:
 
 Subjects receiving GENVOYA experienced greater increases in serum lipids compared to those receiving STRIBILD.
 
-Changes from baseline in total cholesterol, HDL-cholesterol, LDL-cholesterol, triglycerides and total cholesterol to HDL ratio are presented in Table 4.
+Changes from baseline in total cholesterol, HDL-cholesterol, LDL-cholesterol, triglycerides and total cholesterol to HDL ratio are presented in Table 3.
 
-Table 4 Lipid Values, Mean Change from Baseline, Reported in Subjects Receiving GENVOYA or STRIBILD in Studies 104 and 111Excludes subjects who received lipid lowering agents during the treatment period.
+Table 3 Lipid Values, Mean Change from Baseline, Reported in Subjects Receiving GENVOYA or STRIBILD in Studies 104 and 111Excludes subjects who received lipid lowering agents during the treatment period.
 
 | mg/dL | ChangeThe change from baseline is the mean of within-subject changes from baseline for subjects with both baseline and Week 144 values. | mg/dL | Change |  |
 | --- | --- | --- | --- | --- |
@@ -141,10 +141,10 @@ Cohort 2: Virologically-suppressed children (6 to less than 12 years; at least 2
 
 Cohort 2 of Study 106 evaluated pediatric subjects (N=23) who were virologically-suppressed and who switched from their antiretroviral regimen to GENVOYA.
 Although all subjects had HIV-1 RNA < 50 copies/mL, there was a decrease from baseline in CD4+ cell count at Week 24.
-The mean baseline and mean change from baseline in CD4+ cell count and in CD4% from Week 2 to Week 24 are presented in Table 5.
+The mean baseline and mean change from baseline in CD4+ cell count and in CD4% from Week 2 to Week 24 are presented in Table 4.
 All subjects maintained their CD4+ cell counts above 400 cells/mm3 [see Pediatric Use (8.4) and Clinical Studies (14.5)].
 
-Table 5 Mean Change in CD4+ Count and Percentage from Baseline to Week 24 in Virologically-Suppressed Pediatric Patients from 6 to <12 Years Who Switched to GENVOYA
+Table 4 Mean Change in CD4+ Count and Percentage from Baseline to Week 24 in Virologically-Suppressed Pediatric Patients from 6 to <12 Years Who Switched to GENVOYA
 
 | Week 2 | Week 4 | Week 12 | Week 24 |  |  |
 | --- | --- | --- | --- | --- | --- |

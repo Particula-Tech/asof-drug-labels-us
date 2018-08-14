@@ -2,9 +2,9 @@
 
 ## 14.1 Description of Clinical Trials
 
-The efficacy and safety of GENVOYA were evaluated in the studies summarized in Table 15.
+The efficacy and safety of GENVOYA were evaluated in the studies summarized in Table 14.
 
-Table 15 Trials Conducted with GENVOYA in Subjects with HIV-1 Infection
+Table 14 Trials Conducted with GENVOYA in Subjects with HIV-1 Infection
 
 | Trial | Population | Study Arms (N) | Timepoint (Week) |
 | --- | --- | --- | --- |
@@ -22,9 +22,9 @@ Nineteen percent of subjects identified as Hispanic/Latino.
 The mean baseline plasma HIV-1 RNA was 4.5 log10 copies per mL (range 1.3–7.0) and 23% of subjects had baseline viral loads greater than 100,000 copies per mL.
 The mean baseline CD4+ cell count was 427 cells per mm3 (range 0–1360) and 13% had CD4+ cell counts less than 200 cells per mm3.
 
-Pooled treatment outcomes of Studies 104 and 111 through Week 144 are presented in Table 16.
+Pooled treatment outcomes of Studies 104 and 111 through Week 144 are presented in Table 15.
 
-Table 16 Pooled Virologic Outcomes of Randomized Treatment in Studies 104 and 111 at Week 144Week 144 window was between Day 966 and 1049 (inclusive). in Treatment-Naïve Subjects
+Table 15 Pooled Virologic Outcomes of Randomized Treatment in Studies 104 and 111 at Week 144Week 144 window was between Day 966 and 1049 (inclusive). in Treatment-Naïve Subjects
 
 |  | GENVOYA (N=866) | STRIBILD (N=867) |
 | --- | --- | --- |
@@ -50,9 +50,9 @@ The mean baseline CD4+ cell count was 697 cells per mm3 (range 79–1951).
 Subjects were stratified by prior treatment regimen.
 At screening, 42% of subjects were receiving TRUVADA plus atazanavir (given with either cobicistat or ritonavir), 32% were receiving STRIBILD, and 26% were receiving ATRIPLA.
 
-Treatment outcomes of Study 109 through 96 weeks are presented in Table 17.
+Treatment outcomes of Study 109 through 96 weeks are presented in Table 16.
 
-Table 17 Virologic Outcomes of Study 109 at Week 96Week 96 window was between Day 630 and 713 (inclusive). in Virologically-Suppressed Subjects who Switched to GENVOYA
+Table 16 Virologic Outcomes of Study 109 at Week 96Week 96 window was between Day 630 and 713 (inclusive). in Virologically-Suppressed Subjects who Switched to GENVOYA
 
 |  | GENVOYA (N=959) | ATRIPLA or TRUVADA+atazanavir +cobicistat or ritonavir or STRIBILD (N=477) |
 | --- | --- | --- |

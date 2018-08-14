@@ -3,7 +3,6 @@
 ## 5.1 Severe Acute Exacerbation of Hepatitis B in Patients Coinfected with HIV-1 and HBV
 
 Patients with HIV-1 should be tested for the presence of hepatitis B virus (HBV) before initiating antiretroviral therapy [see Dosage and Administration (2.1)].
-GENVOYA is not approved for the treatment of chronic HBV infection and the safety and efficacy of GENVOYA have not been established in patients coinfected with HIV-1 and HBV.
 
 Severe acute exacerbations of hepatitis B (e.g., liver decompensation and liver failure) have been reported in patients who are coinfected with HIV-1 and HBV and have discontinued products containing emtricitabine and/or tenofovir disoproxil fumarate (TDF), and may occur with discontinuation of GENVOYA.
 Patients coinfected with HIV-1 and HBV who discontinue GENVOYA should be closely monitored with both clinical and laboratory follow-up for at least several months after stopping treatment.
@@ -16,7 +15,7 @@ The concomitant use of GENVOYA and other drugs may result in known or potentiall
 - Loss of therapeutic effect of GENVOYA and possible development of resistance.
 - Possible clinically significant adverse reactions from greater exposures of concomitant drugs.
 
-See Table 6 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations.
+See Table 5 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations.
 Consider the potential for drug interactions prior to and during GENVOYA therapy; review concomitant medications during GENVOYA therapy; and monitor for the adverse reactions associated with the concomitant drugs.
 
 ## 5.3 Immune Reconstitution Syndrome
@@ -36,7 +35,8 @@ GENVOYA is not recommended in patients with estimated creatinine clearance below
 
 Patients taking tenofovir prodrugs who have impaired renal function and those taking nephrotoxic agents including non-steroidal anti-inflammatory drugs are at increased risk of developing renal-related adverse reactions.
 
-Prior to and during treatment, as clinically appropriate, assess serum creatinine, estimated creatinine clearance, urine glucose, and urine protein in all patients, and also assess serum phosphorus in patients with chronic kidney disease.
+Prior to or when initiating GENVOYA, and during treatment with GENVOYA on a clinically appropriate schedule, assess serum creatinine, estimated creatinine clearance, urine glucose and urine protein in all patients.
+In patients with chronic kidney disease, also assess serum phosphorus.
 Discontinue GENVOYA in patients who develop clinically significant decreases in renal function or evidence of Fanconi syndrome.
 
 Cobicistat, a component of GENVOYA, produces elevations of serum creatinine due to inhibition of tubular secretion of creatinine without affecting glomerular filtration [see Adverse Reactions (6.1)].
