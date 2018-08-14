@@ -11,7 +11,7 @@ Rats and rabbits were exposed to insulin degludec in animal reproduction studies
 Pre-and post-implantation losses and visceral/skeletal abnormalities were observed in rats at doses 5 times (rat) and at 10 times (rabbit) the human exposure at a dose of 0.75 U/kg/day.
 These effects were similar to those observed in rats administered human insulin (NPH) [see Data].
 
-The estimated background risk of major birth defects is 6-10% in women with pre-gestational diabetes with a HbA1c >7 and has been reported to be as high as 20-25% in women with a HbA1c >10.
+The estimated background risk of major birth defects is 6-10% in women with pre-gestational diabetes with an HbA1c >7 and has been reported to be as high as 20-25% in women with an HbA1c >10.
 The estimated background risk of miscarriage for the indicated population is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 

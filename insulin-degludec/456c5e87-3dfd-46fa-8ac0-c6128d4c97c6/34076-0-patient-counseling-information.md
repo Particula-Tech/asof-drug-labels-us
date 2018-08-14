@@ -23,7 +23,7 @@ Medication Errors
 Inform patients to always check the insulin label before each injection [see Warnings and Precautions (5.4)].
 Inform patients that the dose counter of TRESIBAFlexTouch pen shows the number of units of TRESIBA to be injected.
 NO dose re-calculation is required [see Dosage and Administration (2.2)].
-Instruct Patients to never use a syringe to remove TRESIBA from the FlexTouch disposable insulin prefilled pen.
+Instruct patients to never use a syringe to remove TRESIBA from the FlexTouch disposable insulin prefilled pen.
 
 Women of Reproductive Potential
 
@@ -31,9 +31,9 @@ Advise patients to inform their health care professional if they are pregnant or
 
 Rx Only
 
-Date of Issue: 03/2018
+Date of Issue: 08/2018
 
-Version: 5
+Version: 6
 
 Novo Nordisk®, TRESIBA®, FlexTouch®, LEVEMIR®, NOVOLOG®, NovoFine® and NovoTwist® are registered trademarks of Novo Nordisk A/S.
 

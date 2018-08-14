@@ -34,7 +34,7 @@ After the first dose of TRESIBA, median onset of appearance was around one hour.
 Total insulin degludec concentration (i.e., exposure) increased in a dose proportional manner after subcutaneous administration of 0.4 units/kg to 0.8 units/kg TRESIBA.
 Total and maximum insulin degludec exposure at steady state are comparable between TRESIBA U-100 and TRESIBA U-200 when each is administered at the same units/kg dose.
 
-Insulin degludec concentration reach steady state levels after 3-4 days of TRESIBA administration [see Dosage and Administration (2.2)].
+Insulin degludec concentration reached steady state levels after 3-4 days of TRESIBA administration [see Dosage and Administration (2.2)].
 
 Distribution
 

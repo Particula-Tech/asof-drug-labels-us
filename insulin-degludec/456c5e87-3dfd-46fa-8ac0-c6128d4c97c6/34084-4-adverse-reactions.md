@@ -130,8 +130,7 @@ As with all therapeutic proteins, insulin administration may cause anti-insulin 
 The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay and may be influenced by several factors such as: assay methodology, sample handling, timing of sample collection, concomitant medication, and underlying disease.
 For these reasons, comparison of the incidence of antibodies to TRESIBA with the incidence of antibodies in other studies or to other products may be misleading.
 
-In studies of adult type 1 diabetes patients, 95.9% of patients who received TRESIBA once daily were positive for anti-insulin antibodies (AIA) at least once during the studies, including 89.7% that were positive at baseline.
-In studies of type 2 diabetes patients, 31.5% of patients who received TRESIBA once daily were positive for AIA at least once during the studies, including 14.5% that were positive at baseline.
-The antibody incidence rates for type 2 diabetes may be underreported due to potential assay interference by endogenous insulin in samples in these patients.
-
-The incidence of anti-insulin degludec antibodies has not been established.
+In a 52-week study of adult insulin-experienced type 1 diabetes patients, 68.9% of patients who received TRESIBA were positive at baseline for anti-insulin degludec antibodies and 12.3% of the patients developed anti-insulin degludec antibodies at least once during the study.
+In a 52-week study of pediatric insulin-experienced type 1 diabetes patients, 84.1% of patients who received TRESIBA were positive at baseline for anti-insulin degludec antibodies and 5.8% of patients developed anti-insulin degludec antibodies at least once during the study.
+In a 52-week study of adult insulin-naïve type 2 diabetes patients, 1.7% of patients who received TRESIBA were positive at baseline for anti-insulin degludec antibodies and 6.2% of patients developed anti-insulin degludec antibodies at least once during the study.
+In these trials, between 96.7% and 99.7% of patients who were positive for anti-insulin degludec antibodies were also positive for anti-human insulin antibodies.

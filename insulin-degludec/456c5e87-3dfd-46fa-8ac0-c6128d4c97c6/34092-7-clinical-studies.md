@@ -155,7 +155,7 @@ Table 8: Results at Week 26 in a Trial Comparing TRESIBA to Insulin Detemir in P
 | Baseline mean | 20 U (0.50 U/kg) | 20 U (0.52 U/kg) |
 | Mean dose after 26 weeks | 23 U (0.56 U/kg) | 22 U (0.57 U/kg) |
 
-1. ±The change from baseline to end of treatment visit in HbA1c was analysed using ANOVA with missing data imputed by multiple imputation carrying forward the baseline value and adding the error term, with treatment, region, sex, and age group as fixed factors, and baseline HbA1c as covariate.
+1. ±The change from baseline to end of treatment visit in HbA1c was analyzed using ANOVA with missing data imputed by multiple imputation carrying forward the baseline value and adding the error term, with treatment, region, sex, and age group as fixed factors, and baseline HbA1c as covariate.
 2. In Study J, there were 2.9% of subjects in TRESIBA and 6.3% Insulin detemir arms for whom data was missing at the 26-week HbA1c measurement.
 
 ## 14.3 Type 2 Diabetes - Adult
@@ -315,7 +315,7 @@ Table 12: Results at Week 26 in a Trial Comparing TRESIBA at Same and Alternatin
 | Mean dose after 26 weeks | 45 U | 46 U | 44 U |
 
 1. *OAD: oral antidiabetic agent
-2. **The change from baseline to end of treatment visit in HbA1c was analysed using ANOVA with treatment, region, sex, and anti-diabetic treatment at screening as fixed effects, and age and baseline HbA1c as covariates.
+2. **The change from baseline to end of treatment visit in HbA1c was analyzed using ANOVA with treatment, region, sex, and anti-diabetic treatment at screening as fixed effects, and age and baseline HbA1c as covariates.
 3. In Study G, there were 11.4% subjects for TRESIBA (both same time and alternating times) and 11.7% Insulin glargine arms for whom data was missing at the time of the HbA1c measurement.
 
 Study H: TRESIBA Administered at the Same Time Each Day in Combination with a Rapid-Acting Insulin Analog at Mealtimes in Adult Patients
@@ -416,7 +416,7 @@ The mean age of the trial population was 65 years and the mean duration of diabe
 The population was 62.6% male, 75.6% White 10.9% Black or African American, 10.2% Asian.
 14.9% had Hispanic ethnicity.
 The mean HbA1c was 8.4% and the mean BMI was 33.6 kg/m2.
-The baseline mean estimated glomular filtration rate (eGFR) was 68 mL/min/1.73m2.
+The baseline mean estimated glomerular filtration rate (eGFR) was 68 mL/min/1.73m2.
 41% of patients had eGFR 60-90 mL/min/1.73m2; 35% of patients had eGFR 30 to 60 mL/min/1.73 m2 and 3% of patients had eGFR <30 mL/min/1.73 m2.
 Previous history of severe hypoglycemia was not captured in the trial.
 
