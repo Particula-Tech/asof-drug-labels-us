@@ -27,11 +27,11 @@ Mean Antisecretory Effects After Single and Multiple Daily Lansoprazole Dosing
 | Day 1 | Day 5 | Day 1 | Day 5 |  |  |
 | Mean 24 Hour pH | 2.1 | 2.71 | 4.01 | 3.62 | 4.92 |
 | Mean Nighttime pH | 1.9 | 2.4 | 3.01 | 2.6 | 3.82 |
-| % Time Gastric pH > 3 | 18 | 331 | 591 | 512 | 722 |
-| % Time Gastric pH > 4 | 12 | 221 | 491 | 412 | 662 |
+| % Time Gastric pH>3 | 18 | 331 | 591 | 512 | 722 |
+| % Time Gastric pH>4 | 12 | 221 | 491 | 412 | 662 |
 | NOTE: An intragastric pH of greater than four reflects a reduction in gastric acid by 99%. |  |  |  |  |  |
-| 1. (p < 0.05) vs baseline only. |  |  |  |  |  |
-| 2. (p < 0.05) vs baseline and lansoprazole 15 mg. |  |  |  |  |  |
+| 1. (p<0.05) vs baseline only. |  |  |  |  |  |
+| 2. (p<0.05) vs baseline and lansoprazole 15 mg. |  |  |  |  |  |
 
 After the initial dose in this study, increased gastric pH was seen within one to two hours with 30 mg of lansoprazole and two to three hours with 15 mg of lansoprazole.
 After multiple daily dosing, increased gastric pH was seen within the first hour post-dosing with 30 mg of lansoprazole and within one to two hours post-dosing with 15 mg of lansoprazole.
@@ -45,10 +45,10 @@ Mean Antisecretory Effects After Five Days of Twice Daily and Three Times Daily 
 |  | Lansoprazole |  |  |  |
 | --- | --- | --- | --- | --- |
 | Parameter | 30 mg daily | 15 mg twice daily | 30 mg twice daily | 30 mg three times daily |
-| % Time Gastric pH > 5 | 43 | 47 | 591 | 772 |
-| % Time Gastric pH > 6 | 20 | 23 | 28 | 452 |
-| 1. (p < 0.05) vs lansoprazole 30 mg daily. |  |  |  |  |
-| 2. (p < 0.05) vs lansoprazole 30 mg daily, 15 mg and 30 mg twice daily. |  |  |  |  |
+| % Time Gastric pH>5 | 43 | 47 | 591 | 772 |
+| % Time Gastric pH>6 | 20 | 23 | 28 | 452 |
+| 1. (p<0.05) vs lansoprazole 30 mg daily. |  |  |  |  |
+| 2. (p<0.05) vs lansoprazole 30 mg daily, 15 mg and 30 mg twice daily. |  |  |  |  |
 
 The inhibition of gastric acid secretion as measured by intragastric pH gradually returned to normal over two to four days after multiple doses.
 There was no indication of rebound gastric acidity.
@@ -129,7 +129,7 @@ Pediatric Patients:
 One to 17 years of age
 
 The pharmacokinetics of lansoprazole were studied in pediatric patients with GERD aged one to 11 years and 12 to 17 years in two separate clinical studies.
-In children aged one to 11 years, lansoprazole was dosed 15 mg daily for subjects weighing ≤ 30 kg and 30 mg daily for subjects weighing greater than 30 kg.
+In children aged one to 11 years, lansoprazole was dosed 15 mg daily for subjects weighing ≤30 kg and 30 mg daily for subjects weighing greater than 30 kg.
 Mean Cmax and AUC values observed on Day 5 of dosing were similar between the two dose groups and were not affected by weight or age within each weight-adjusted dose group used in the study.
 In adolescent subjects aged 12 to 17 years, subjects were randomized to receive lansoprazole at 15 mg or 30 mg daily.
 Mean Cmax and AUC values of lansoprazole were not affected by body weight or age; and nearly dose-proportional increases in mean Cmax and AUC values were observed between the two dose groups in the study.
@@ -147,7 +147,7 @@ In a study comparing 12 male and six female human subjects who received lansopra
 
 Racial or Ethnic Groups:
 
-The pooled mean pharmacokinetic parameters of lansoprazole from twelve U.S. studies (N = 513) were compared to the mean pharmacokinetic parameters from two Asian studies (N = 20).
+The pooled mean pharmacokinetic parameters of lansoprazole from twelve U.S. studies (N=513) were compared to the mean pharmacokinetic parameters from two Asian studies (N=20).
 The mean AUCs of lansoprazole in Asian subjects were approximately twice those seen in pooled U.S. data; however, the inter-individual variability was high.
 The Cmax values were comparable.
 
@@ -160,8 +160,8 @@ Therefore, the pharmacokinetics of lansoprazole were not clinically different in
 
 Patients with Hepatic Impairment:
 
-In patients with mild (Child-Pugh Class A) or moderate (Child-Pugh Class B) hepatic impairment there was an approximate 3-fold increase in mean AUC compared to healthy subjects with normal hepatic function following multiple oral doses of 30 mg lansoprazole for 7 days.
-The corresponding mean plasma half-life of lansoprazole was prolonged from 1.5 hours to 4 hours (Child-Pugh A) or 5 hours (Child Pugh B).
+In patients with mild (Child-Pugh Class A) or moderate (Child-Pugh Class B) hepatic impairment there was an approximate 3-fold increase in mean AUC compared to healthy subjects with normal hepatic function following multiple oral doses of 30 mg lansoprazole for seven days.
+The corresponding mean plasma half-life of lansoprazole was prolonged from 1.5 to four hours (Child-Pugh A) or five hours (Child Pugh B).
 
 In patients with compensated and decompensated cirrhosis, there was an approximate 6- and 5-fold increase in AUC, respectively, compared to healthy subjects with normal hepatic function following a single oral dose of 30 mg lansoprazole [see Dosage and Administration (2.3), Use in Specific Populations (8.6)].
 
@@ -202,8 +202,8 @@ In clinical trials, antacids were administered concomitantly with lansoprazole a
 Clopidogrel:
 
 Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
-A study of healthy subjects who were CYP2C19 extensive metabolizers, receiving once daily administration of clopidogrel 75 mg alone or concomitantly with lansoprazole 30 mg (n = 40), for nine days was conducted.
-The mean AUC of the active metabolite of clopidogrel was reduced by approximately 14% (mean AUC ratio was 86%, with 90% CI of 80 to 92%) when lansoprazole was coadministered compared to administration of clopidogrel alone.
+A study of healthy subjects who were CYP2C19 extensive metabolizers, receiving once daily administration of clopidogrel 75 mg alone or concomitantly with lansoprazole 30 mg (n=40), for nine days was conducted.
+The mean AUC of the active metabolite of clopidogrel was reduced by approximately 14% (mean AUC ratio was 86%, with 90% CI of 80 to 92%) when lansoprazole was co-administered compared to administration of clopidogrel alone.
 
 Pharmacodynamic parameters were also measured and demonstrated that the change in inhibition of platelet aggregation (induced by 5 mcM ADP) was related to the change in the exposure to clopidogrel active metabolite.
 The effect on exposure to the active metabolite of clopidogrel and on clopidogrel-induced platelet inhibition is not considered clinically important.
@@ -220,9 +220,9 @@ Lansoprazole, clarithromycin and/or amoxicillin have been shown to be active aga
 
 Helicobacter pylori Pre-treatment Resistance
 
-Clarithromycin pre-treatment resistance (≥ 2.0 mcg/mL) was 9.5% (91/960) by E-test and 11.3% (12/106) by agar dilution in the dual and triple therapy clinical trials (M93-125, M93-130, M93-131, M95-392, and M95-399).
+Clarithromycin pre-treatment resistance (≥2.0 mcg/mL) was 9.5% (91/960) by E-test and 11.3% (12/106) by agar dilution in the dual and triple therapy clinical trials (M93-125, M93-130, M93-131, M95-392, and M95-399).
 
-Amoxicillin pre-treatment susceptible isolates (≤ 0.25 mcg/mL) occurred in 97.8% (936/957) and 98.0% (98/100) of the patients in the dual and triple therapy clinical trials by E-test and agar dilution, respectively.
+Amoxicillin pre-treatment susceptible isolates (≤0.25 mcg/mL) occurred in 97.8% (936/957) and 98.0% (98/100) of the patients in the dual and triple therapy clinical trials by E-test and agar dilution, respectively.
 Twenty one of 957 patients (2.2%) by E-test, and two of 100 patients (2.0%) by agar dilution, had amoxicillin pre-treatment MICs of greater than 0.25 mcg/mL.
 One patient on the 14 day triple therapy regimen had an unconfirmed pre-treatment amoxicillin minimum inhibitory concentration (MIC) of greater than 256 mcg/mL by E-test and the patient was eradicated of H. pylori (Table 8).
 
@@ -242,13 +242,13 @@ Clarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes
 | Intermediate2 |  |  |  |  |  |  |
 | Resistant2 | 4 | 1 |  |  | 3 |  |
 | 1. Includes only patients with pre-treatment clarithromycin susceptibility test results |  |  |  |  |  |  |
-| 2. Susceptible (S) MIC ≤ 0.25 mcg/mL, Intermediate (I) MIC 0.5 to 1.0 mcg/mL, Resistant (R) MIC ≥ 2 mcg/mL |  |  |  |  |  |  |
+| 2. Susceptible (S) MIC≤0.25 mcg/mL, Intermediate (I) MIC 0.5 to 1.0 mcg/mL, Resistant (R) MIC≥2 mcg/mL |  |  |  |  |  |  |
 
 Patients not eradicated of H. pylori following lansoprazole/amoxicillin/clarithromycin triple therapy will likely have clarithromycin resistant H. pylori.
 Therefore, for those patients who fail therapy, clarithromycin susceptibility testing should be done when possible.
 Patients with clarithromycin resistant H. pylori should not be treated with lansoprazole/amoxicillin/clarithromycin triple therapy or with regimens which include clarithromycin as the sole antimicrobial agent.
 
-Amoxicillin Susceptibility Test Results and Clinical/Bacteriological Outcomes: In the dual and triple therapy clinical trials, 82.6% (195/236) of the patients that had pre-treatment amoxicillin susceptible MICs (≤ 0.25 mcg/mL) were eradicated of H. pylori.
+Amoxicillin Susceptibility Test Results and Clinical/Bacteriological Outcomes: In the dual and triple therapy clinical trials, 82.6% (195/236) of the patients that had pre-treatment amoxicillin susceptible MICs (≤0.25 mcg/mL) were eradicated of H. pylori.
 Of those with pre-treatment amoxicillin MICs of greater than 0.25 mcg/mL, three of six had the H. pylori eradicated.
 A total of 30% (21/70) of the patients failed lansoprazole 30 mg three times daily/amoxicillin 1 g three times daily dual therapy and a total of 12.8% (22/172) of the patients failed the 10 and 14 day triple therapy regimens.
 Post-treatment susceptibility results were not obtained on 11 of the patients who failed therapy.

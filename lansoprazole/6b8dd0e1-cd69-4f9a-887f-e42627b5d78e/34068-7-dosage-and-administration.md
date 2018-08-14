@@ -17,7 +17,7 @@
 | Amoxicillin | 1 gram | Three times daily for 14 days |
 | Benign Gastric Ulcer |  |  |
 | Short-Term Treatment | 30 mg | Once daily for up to 8 weeks |
-| NSAID-associated Gastric Ulcer |  |  |
+| NSAID-Associated Gastric Ulcer |  |  |
 | Healing | 30 mg | Once daily for 8 weeks2 |
 | Risk Reduction | 15 mg | Once daily for up to 12 weeks2 |
 | Gastroesophageal Reflux Disease (GERD) |  |  |
@@ -25,7 +25,7 @@
 | Short-Term Treatment of Erosive Esophagitis | 30 mg | Once daily for up to 8 weeks3 |
 | Maintenance of Healing of Erosive Esophagitis | 15 mg | Once daily4 |
 | Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome | 60 mg | Once daily5 |
-| 1. Please refer to amoxicillin and clarithromycin full prescribing information, Contraindications and Warnings and Precautions sections, and for information regarding dosing in elderly and renally-impaired patients. |  |  |
+| 1. Please refer to the amoxicillin and clarithromycin full prescribing information, Contraindications and Warnings and Precautions sections, and for information regarding dosing in elderly and renally-impaired patients. |  |  |
 | 2. Controlled studies did not extend beyond indicated duration. |  |  |
 | 3. For patients who do not heal with lansoprazole delayed-release orally disintegrating tablets for eight weeks (5 to 10%), it may be helpful to give an additional eight weeks of treatment. If there is a recurrence of erosive esophagitis, an additional eight week course of lansoprazole delayed-release orally disintegrating tablets may be considered. |  |  |
 | 4. Controlled studies did not extend beyond 12 months. |  |  |
@@ -33,17 +33,22 @@
 
 ## 2.2 Recommended Pediatric Dosage by Indication
 
-| Indication | Recommended Dose | Frequency |
-| --- | --- | --- |
-| Pediatric (1 to 11 years of age) |  |  |
-| Short-Term Treatment of Symptomatic GERD and Short-Term Treatment of Erosive Esophagitis |  |  |
-| ≤ 30 kg | 15 mg | Once daily for up to 12 weeks1 |
-| > 30 kg | 30 mg | Once daily for up to 12 weeks1 |
-| 1. The lansoprazole dose was increased (up to 30 mg twice daily) in some pediatric patients after two or more weeks of treatment if they remained symptomatic. |  |  |
+Pediatric Patients 1 to 11 Years of Age
+
+In clinical studies, lansoprazole was not administered beyond 12 weeks in 1 to 11 year old.
+It is not known if lansoprazole is safe and effective if used longer than the recommended duration.
+Do not exceed the recommended dose and duration of use in pediatric patients as outlined below [see Use in Specific Populations (8.4)].
 
 | Indication | Recommended Dose | Frequency |
 | --- | --- | --- |
-| Pediatric (12 to 17 years of age) |  |  |
+| Short-Term Treatment of Symptomatic GERD and Short-Term Treatment of Erosive Esophagitis |  |  |
+| ≤30 kg | 15 mg | Once daily for up to 12 weeks |
+| >30 kg | 30 mg | Once daily for up to 12 weeks |
+
+Pediatric Patients 12 to 17 Years of Age
+
+| Indication | Recommended Dose | Frequency |
+| --- | --- | --- |
 | Short-Term Treatment of Symptomatic GERD |  |  |
 | Non-erosive GERD | 15 mg | Once daily for up to 8 weeks |
 | Erosive Esophagitis | 30 mg | Once daily for up to 8 weeks |
@@ -78,7 +83,7 @@ Administration with Water in an Oral Syringe
    Do not save the water and microgranule mixture for later use.
 4. Refill the syringe with approximately 2 mL (5 mL for the 30 mg tablet) of water, shake gently, and administer any remaining contents.
 
-Administration with Water via a NG Tube (≥ 8 French)
+Administration with Water via a NG Tube (≥8 French)
 
 1. Place a 15 mg tablet in a catheter-tip syringe and draw up 4 mL of water, or place a 30 mg tablet in a catheter-tip syringe and draw up 10 mL of water.
 2. Shake gently to allow for a quick dispersal.

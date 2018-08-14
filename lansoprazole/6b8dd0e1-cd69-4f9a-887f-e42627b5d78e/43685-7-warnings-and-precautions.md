@@ -80,3 +80,9 @@ Phenylalanine can be harmful to patients with phenylketonuria (PKU).
 Lansoprazole delayed-release orally disintegrating tablets contain phenylalanine, a component of aspartame.
 Each 15 mg tablet contains 4.05 mg and each 30 mg tablet contains 8.11 mg of phenylalanine.
 Before prescribing lansoprazole delayed-release orally disintegrating tablets to a patient with PKU, consider the combined daily amount of phenylalanine from all sources, including lansoprazole delayed-release orally disintegrating tablets.
+
+## 5.11 Fundic Gland Polyps
+
+PPI use is associated with an increased risk of fundic gland polyps that increases with long-term use, especially beyond one year.
+Most PPI users who developed fundic gland polyps were asymptomatic and fundic gland polyps were identified incidentally on endoscopy.
+Use the shortest duration of PPI therapy appropriate to the condition being treated.

@@ -8,6 +8,7 @@ The following serious adverse reactions are described below and elsewhere in lab
 - Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)]
 - Cyanocobalamin (Vitamin B12) Deficiency [see Warnings and Precautions (5.6)]
 - Hypomagnesemia [see Warnings and Precautions (5.7)]
+- Fundic Gland Polyps [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -21,7 +22,7 @@ The following adverse reactions were reported by the treating physician to have 
 Table 1.
 Incidence of Possibly or Probably Treatment-Related Adverse Reactions in Short-Term, Placebo-Controlled Lansoprazole Studies
 
-| Body System/ Adverse Reaction | Lansoprazole (N = 2768) % | Placebo (N = 1023) % |
+| Body System/ Adverse Reaction | Lansoprazole (N=2768) % | Placebo (N=1023) % |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Abdominal Pain | 2.1 | 1.2 |

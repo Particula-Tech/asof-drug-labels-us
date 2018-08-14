@@ -5,7 +5,7 @@ Tables 2 and 3 include drugs with clinically important drug interactions and int
 Consult the labeling of concomitantly used drugs to obtain further information about interactions with PPIs.
 
 Table 2.
-Clinically Relevant Interactions Affecting Drugs Coadministered with Lansoprazole and Interactions with Diagnostics
+Clinically Relevant Interactions Affecting Drugs Co-Administered with Lansoprazole and Interactions with Diagnostics
 
 | Antiretrovirals |  |
 | --- | --- |
@@ -25,7 +25,7 @@ Clinically Relevant Interactions Affecting Drugs Coadministered with Lansoprazol
 | Intervention: | Individual patients may require additional titration of their theophylline dosage when lansoprazole is started or stopped to ensure clinically effective blood concentrations. |
 | Drugs Dependent on Gastric pH for Absorption (e.g., iron salts, erlotinib, dasatinib, nilotinib, mycophenolate mofetil, ketoconazole/itraconazole) |  |
 | Clinical Impact: | Lansoprazole can reduce the absorption of other drugs due to its effect on reducing intragastric acidity. |
-| Intervention: | Mycophenolate mofetil (MMF): Coadministration of PPIs in healthy subjects and in transplant patients receiving MMF has been reported to reduce the exposure to the active metabolite, mycophenolic acid (MPA), possibly due to a decrease in MMF solubility at an increased gastric pH. The clinical relevance of reduced MPA exposure on organ rejection has not been established in transplant patients receiving lansoprazole and MMF. Use lansoprazole with caution in transplant patients receiving MMF.See the prescribing information for other drugs dependent on gastric pH for absorption. |
+| Intervention: | Mycophenolate mofetil (MMF): Co-administration of PPIs in healthy subjects and in transplant patients receiving MMF has been reported to reduce the exposure to the active metabolite, mycophenolic acid (MPA), possibly due to a decrease in MMF solubility at an increased gastric pH. The clinical relevance of reduced MPA exposure on organ rejection has not been established in transplant patients receiving lansoprazole and MMF. Use lansoprazole with caution in transplant patients receiving MMF.See the prescribing information for other drugs dependent on gastric pH for absorption. |
 | Combination Therapy with Clarithromycin and Amoxicillin |  |
 | Clinical Impact: | Concomitant administration of clarithromycin with other drugs can lead to serious adverse reactions, including potentially fatal arrhythmias, and are contraindicated. Amoxicillin also has drug interactions. |
 | Intervention: | See Contraindications and Warnings and Precautions in prescribing information for clarithromycin.See Drug Interactions in prescribing information for amoxicillin. |
@@ -43,9 +43,9 @@ Clinically Relevant Interactions Affecting Drugs Coadministered with Lansoprazol
 | Intervention: | An alternative confirmatory method should be considered to verify positive results. |
 
 Table 3.
-Clinically Relevant Interactions Affecting Lansoprazole When Coadministered with Other Drugs
+Clinically Relevant Interactions Affecting Lansoprazole When Co-Administered with Other Drugs
 
-| CYP2C19 or CYP3A4 Inducers |  |
+| CYP2C19 OR CYP3A4 Inducers |  |
 | --- | --- |
 | Clinical Impact: | Decreased exposure of lansoprazole when used concomitantly with strong inducers [see Clinical Pharmacology (12.3)]. |
 | Intervention: | St. John’s Wort, rifampin: Avoid concomitant use with lansoprazole.Ritonavir-containing products: See prescribing information. |
