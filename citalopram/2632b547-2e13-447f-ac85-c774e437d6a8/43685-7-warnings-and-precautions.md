@@ -77,7 +77,7 @@ Citalopram should also not be started in a patient who is being treated with MAO
 All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
 No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
 There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking citalopram.
-Citalopram should be discontinued before initiating treatment with the MAOI (see CONTRAINDICATIONS andDOSAGE AND ADMINISTRATION).
+Citalopram should be discontinued before initiating treatment with the MAOI (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
 If concomitant use of citalopram with other serotonergic drugs including, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, amphetamines, tryptophan and St. John’s Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome particularly during treatment initiation and dose increases.
 Treatment with citalopram and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 Angle Closure Glaucoma The pupillary dilation that occurs following use of many antidepressant drugs including citalopram may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
@@ -174,12 +174,12 @@ There are no specific laboratory tests recommended.
 
 ## Drug Interactions
 
-Serotonergic Drugs: See CONTRAINDICATIONS, WARNINGS,andDOSAGE AND ADMINISTRATION.
+Serotonergic Drugs: See CONTRAINDICATIONS, WARNINGS, and DOSAGE AND ADMINISTRATION.
 Triptans There have been rare postmarketing reports of serotonin syndrome with use of an SSRI and a triptan.
 If concomitant treatment of citalopram with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS - Serotonin Syndrome).
 CNS Drugs - Given the primary CNS effects of citalopram, caution should be used when it is taken in combination with other centrally acting drugs.
 Alcohol - Although citalopram did not potentiate the cognitive and motor effects of alcohol in a clinical trial, as with other psychotropic medications, the use of alcohol by depressed patients taking citalopram is not recommended.
-Monoamine Oxidase Inhibitors (MAOIs) - See CONTRAINDICATIONS, WARNINGS and DOSAGE AND ADMINISTRATION.
+Monoamine Oxidase Inhibitors (MAOIs) - See CONTRAINDICATIONS, WARNINGS andDOSAGE AND ADMINISTRATION.
 Drugs That Interfere With Hemostasis (NSAIDs, Aspirin, Warfarin, etc.) - Serotonin release by platelets plays an important role in hemostasis.
 Epidemiological studies of the case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin may potentiate the risk of bleeding.
 Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs and SNRIs are coadministered with warfarin.
@@ -192,7 +192,7 @@ Digoxin – In subjects who had received 21 days of 40 mg/day citalopram, combin
 Lithium - Coadministration of citalopram (40 mg/day for 10 days) and lithium (30 mmol/day for 5 days) had no significant effect on the pharmacokinetics of citalopram or lithium.
 Nevertheless, plasma lithium levels should be monitored with appropriate adjustment to the lithium dose in accordance with standard clinical practice.
 Because lithium may enhance the serotonergic effects of citalopram, caution should be exercised when citalopram tablets and lithium are coadministered.
-Pimozide – In a controlled study, a single dose of pimozide 2 mg coadministered with citalopram 40 mg given once daily for 11 days was associated with a mean increase in QTc values of approximately 10 msec compared to pimozide given alone.
+Pimozide – In a controlled study, a single dose of pimozide 2 mg co-administered with citalopram 40 mg given once daily for 11 days was associated with a mean increase in QTc values of approximately 10 msec compared to pimozide given alone.
 Citalopram did not alter the mean AUC or Cmax of pimozide.
 The mechanism of this pharmacodynamic interaction is not known.
 Theophylline - Combined administration of citalopram (40 mg/day for 21 days) and the CYP1A2 substrate theophylline (single dose of 300 mg) did not affect the pharmacokinetics of theophylline.
@@ -291,6 +291,6 @@ Consequently, regular monitoring of weight and growth should be performed in chi
 Of 4422 patients in clinical studies of citalopram, 1357 were 60 and over, 1034 were 65 and over, and 457 were 75 and over.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 Most elderly patients treated with citalopram in clinical trials received daily doses between 20 mg and 40 mg (see DOSAGE AND ADMINISTRATION).
-SSRIs and SNRIs, including citalopram, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event (seePRECAUTIONS, Hyponatremia).
+SSRIs and SNRIs, including citalopram, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event (see PRECAUTIONS, Hyponatremia).
 In two pharmacokinetic studies, citalopram AUC was increased by 23% and 30%, respectively, in subjects ≥ 60 years of age as compared to younger subjects, and its half-life was increased by 30% and 50%, respectively (see CLINICAL PHARMACOLOGY).
 20 mg/day is the maximum recommended dose for patients who are greater than 60 years of age (see WARNINGS and DOSAGE AND ADMINISTRATION).

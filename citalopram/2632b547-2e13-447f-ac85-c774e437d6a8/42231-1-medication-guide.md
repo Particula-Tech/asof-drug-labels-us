@@ -230,11 +230,11 @@ They may harm them.
 This Medication Guide summarizes the most important information about citalopram tablets.
 If you would like more information, talk with your healthcare provider.
 You may ask your healthcare provider or pharmacist for information about citalopram tablets that is written for healthcare professionals.
-For more information about citalopram tablets, call Aurobindo Pharma USA LLC. at 1-866-850-2876.
+For more information about citalopram tablets, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
 What are the ingredients in citalopram tablets?
 Active ingredient: citalopram hydrobromide Inactive ingredients: copovidone, corn starch, croscarmellose sodium, lactose monohydrate, magnesium stearate, hypromellose, microcrystalline cellulose, polyethylene glycol, and titanium dioxide.
 Iron oxides are used as coloring agents in the peach (10 mg) and light pink (20 mg) tablets.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 Orap® is a registered trademark of Teva Pharmaceuticals USA.
 Coumadin® is a registered trademark of Bristol Myers Squibb.
-Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Lexapro is a registered trademark of Forest Laboratories Inc. Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Distributed by: Aurobindo Pharma USA, Inc 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 06/2017
+Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Lexapro is a registered trademark of Forest Laboratories Inc. Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 04/2018
