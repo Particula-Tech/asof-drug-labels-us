@@ -13,19 +13,25 @@ These reactions have, in some cases (including cases with rocuronium bromide), b
 Due to the potential severity of these reactions, the necessary precautions, such as the immediate availability of appropriate emergency treatment, should be taken.
 Precautions should also be taken in those patients who have had previous anaphylactic reactions to other neuromuscular blocking agents, since cross-reactivity between neuromuscular blocking agents, both depolarizing and nondepolarizing, has been reported.
 
-## 5.3 Need for Adequate Anesthesia
+## 5.3 Risk of Death due to Medication Errors
+
+Administration of rocuronium bromide results in paralysis, which may lead to respiratory arrest and death; this progression may be more likely to occur in a patient for whom it is not intended.
+Confirm proper selection of intended product and avoid confusion with other injectable solutions that are present in critical care and other clinical settings.
+If another healthcare provider is administering the product, ensure that the intended dose is clearly labeled and communicated.
+
+## 5.4 Need for Adequate Anesthesia
 
 Rocuronium bromide has no known effect on consciousness, pain threshold, or cerebration.
 Therefore, its administration must be accompanied by adequate anesthesia or sedation.
 
-## 5.4 Residual Paralysis
+## 5.5 Residual Paralysis
 
 In order to prevent complications resulting from residual paralysis, it is recommended to extubate only after the patient has recovered sufficiently from neuromuscular block.
 Geriatric patients (65 years or older) may be at increased risk for residual neuromuscular block.
 Other factors which could cause residual paralysis after extubation in the post-operative phase (such as drug interactions or patient condition) should also be considered.
 If not used as part of standard clinical practice the use of a reversal agent should be considered, especially in those cases where residual paralysis is more likely to occur.
 
-## 5.5 Long-Term Use in an Intensive Care Unit
+## 5.6 Long-Term Use in an Intensive Care Unit
 
 Rocuronium bromide has not been studied for long-term use in the intensive care unit (ICU).
 As with other nondepolarizing neuromuscular blocking drugs, apparent tolerance to rocuronium bromide may develop during chronic administration in the ICU.
@@ -37,22 +43,22 @@ Prolonged paralysis and/or skeletal muscle weakness may be noted during initial 
 Myopathy after long-term administration of other nondepolarizing neuromuscular blocking agents in the ICU alone or in combination with corticosteroid therapy has been reported.
 Therefore, for patients receiving both neuromuscular blocking agents and corticosteroids, the period of use of the neuromuscular blocking agent should be limited as much as possible and only used in the setting where in the opinion of the prescribing physician, the specific advantages of the drug outweigh the risk.
 
-## 5.6 Malignant Hyperthermia (MH)
+## 5.7 Malignant Hyperthermia (MH)
 
 Rocuronium bromide has not been studied in MH-susceptible patients.
 Because rocuronium bromide is always used with other agents, and the occurrence of malignant hyperthermia during anesthesia is possible even in the absence of known triggering agents, clinicians should be familiar with early signs, confirmatory diagnosis, and treatment of malignant hyperthermia prior to the start of any anesthetic.
 
 In an animal study in MH-susceptible swine, the administration of rocuronium bromide injection did not appear to trigger malignant hyperthermia.
 
-## 5.7 Prolonged Circulation Time
+## 5.8 Prolonged Circulation Time
 
-Conditions associated with an increased circulatory delayed time, e.g., cardiovascular disease or advanced age, may be associated with a delay in onset time [see Dosage and Administration (2.5)].
+Conditions associated with an increased circulatory delayed time, e.g., cardiovascular disease or advanced age, may be associated with a delay in onset time [see Dosage and Administration (2.6)].
 
-## 5.8 QT Interval Prolongation
+## 5.9 QT Interval Prolongation
 
 The overall analysis of ECG data in pediatric patients indicates that the concomitant use of rocuronium bromide with general anesthetic agents can prolong the QTc interval [see Clinical Studies (14.3)].
 
-## 5.9 Conditions/Drugs Causing Potentiation of, or Resistance to, Neuromuscular Block
+## 5.10 Conditions/Drugs Causing Potentiation of, or Resistance to, Neuromuscular Block
 
 Potentiation
 
@@ -60,7 +66,7 @@ Nondepolarizing neuromuscular blocking agents have been found to exhibit profoun
 
 Certain inhalation anesthetics, particularly enflurane and isoflurane, antibiotics, magnesium salts, lithium, local anesthetics, procainamide, and quinidine have been shown to increase the duration of neuromuscular block and decrease infusion requirements of neuromuscular blocking agents [see Drug Interactions (7.3)].
 
-In these or other patients in whom potentiation of neuromuscular block or difficulty with reversal may be anticipated, a decrease from the recommended initial dose of rocuronium bromide should be considered [see Dosage and Administration (2.5)].
+In these or other patients in whom potentiation of neuromuscular block or difficulty with reversal may be anticipated, a decrease from the recommended initial dose of rocuronium bromide should be considered [see Dosage and Administration (2.6)].
 
 Resistance
 
@@ -79,20 +85,20 @@ The potency of rocuronium bromide was significantly enhanced in metabolic acidos
 In addition, experience with other drugs has suggested that acute (e.g., diarrhea) or chronic (e.g., adrenocortical insufficiency) electrolyte imbalance may alter neuromuscular blockade.
 Since electrolyte imbalance and acid-base imbalance are usually mixed, either enhancement or inhibition may occur.
 
-## 5.10 Incompatibility with Alkaline Solutions
+## 5.11 Incompatibility with Alkaline Solutions
 
 Rocuronium bromide, which has an acid pH, should not be mixed with alkaline solutions (e.g., barbiturate solutions) in the same syringe or administered simultaneously during intravenous infusion through the same needle.
 
-## 5.11 Increase in Pulmonary Vascular Resistance
+## 5.12 Increase in Pulmonary Vascular Resistance
 
 Rocuronium bromide may be associated with increased pulmonary vascular resistance, so caution is appropriate in patients with pulmonary hypertension or valvular heart disease [see Clinical Studies (14.1)].
 
-## 5.12 Use In Patients with Myasthenia
+## 5.13 Use In Patients with Myasthenia
 
 In patients with myasthenia gravis or myasthenic (Eaton-Lambert) syndrome, small doses of nondepolarizing neuromuscular blocking agents may have profound effects.
 In such patients, a peripheral nerve stimulator and use of a small test dose may be of value in monitoring the response to administration of muscle relaxants.
 
-## 5.13 Extravasation
+## 5.14 Extravasation
 
 If extravasation occurs, it may be associated with signs or symptoms of local irritation.
 The injection or infusion should be terminated immediately and restarted in another vein.

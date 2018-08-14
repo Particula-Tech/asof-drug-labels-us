@@ -59,7 +59,7 @@ Table 6: Median (Range) Time to Onset and Clinical Duration Following Initial (I
 
 The time to 80% or greater block and clinical duration as a function of dose are presented in Figures 1 and 2.
 
-The clinical durations for the first five maintenance doses, in patients receiving five or more maintenance doses are represented in Figure 3 [see Dosage and Administration (2.3)].
+The clinical durations for the first five maintenance doses, in patients receiving five or more maintenance doses are represented in Figure 3 [see Dosage and Administration (2.4)].
 
 Once spontaneous recovery has reached 25% of control T1, the neuromuscular block produced by rocuronium bromide is readily reversed with anticholinesterase agents, e.g., edrophonium or neostigmine.
 
@@ -104,7 +104,7 @@ These population-based estimates and a measure of the estimate variability are c
 Following intravenous administration of rocuronium bromide, plasma levels of rocuronium follow a three-compartment open model.
 The rapid distribution half-life is 1 to 2 minutes and the slower distribution half-life is 14 to 18 minutes.
 Rocuronium is approximately 30% bound to human plasma proteins.
-In geriatric and other adult surgical patients undergoing either opioid/nitrous oxide/oxygen or inhalational anesthesia, the observed pharmacokinetic profile was essentially unchanged [see Dosage and Administration (2.5)].
+In geriatric and other adult surgical patients undergoing either opioid/nitrous oxide/oxygen or inhalational anesthesia, the observed pharmacokinetic profile was essentially unchanged [see Dosage and Administration (2.6)].
 
 Table 7: Mean (SD) Pharmacokinetic Parameters in Adults (n=22; ages 27 to 58 yrs) and Geriatric (n=20; 65 yrs or greater) During Opioid/Nitrous Oxide/Oxygen Anesthesia
 
@@ -136,7 +136,7 @@ Table 8: Mean (SD) Pharmacokinetic Parameters in Adults with Normal Renal and He
 
 The net result of these findings is that subjects with renal failure have clinical durations that are similar to but somewhat more variable than the duration that one would expect in subjects with normal renal function.
 Hepatically impaired patients, due to the large increase in volume, may demonstrate clinical durations approaching 1.5 times that of subjects with normal hepatic function.
-In both populations the clinician should individualize the dose to the needs of the patient [see Dosage and Administration (2.5)].
+In both populations the clinician should individualize the dose to the needs of the patient [see Dosage and Administration (2.6)].
 
 Tissue redistribution accounts for most (about 80%) of the initial amount of rocuronium administered.
 As tissue compartments fill with continued dosing (4 to 8 hours), less drug is redistributed away from the site of action and, for an infusion-only dose, the rate to maintain neuromuscular blockade falls to about 20% of the initial infusion rate.

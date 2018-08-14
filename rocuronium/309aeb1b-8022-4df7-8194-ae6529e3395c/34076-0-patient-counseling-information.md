@@ -8,4 +8,4 @@ Since allergic cross-reactivity has been reported in this class, request informa
 
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-1239-2.0
+LAB-1239-3.0
