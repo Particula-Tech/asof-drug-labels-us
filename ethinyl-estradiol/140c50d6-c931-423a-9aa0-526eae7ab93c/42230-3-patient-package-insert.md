@@ -9,9 +9,9 @@ For the majority of women, oral contraceptives can be taken safely.
 But there are some women who are at high risk of developing certain serious diseases that can be fatal or may cause temporary or permanent disability.
 The risks associated with taking oral contraceptives increase significantly if you:
 
-- •smoke
-- •have high blood pressure, diabetes, high cholesterol
-- •have or have had clotting disorders, heart attack, stroke, angina pectoris, cancer of the breast or sex organs, jaundice or malignant or benign liver tumors.
+- smoke
+- have high blood pressure, diabetes, high cholesterol
+- have or have had clotting disorders, heart attack, stroke, angina pectoris, cancer of the breast or sex organs, jaundice or malignant or benign liver tumors.
 
 Although cardiovascular disease risks may be increased with oral contraceptive use after age 40 in healthy, non-smoking women (even with the newer low-dose formulations), there are also greater potential health risks associated with pregnancy in older women.
 
@@ -27,13 +27,13 @@ These side effects, especially nausea and vomiting, may subside within the first
 The serious side effects of the pill occur very infrequently, especially if you are in good health and are young.
 However, you should know that the following medical conditions have been associated with or made worse by the pill:
 
-1. 1.Blood clots in the legs (thrombophlebitis), lungs (pulmonary embolism), stoppage or rupture of a blood vessel in the brain (stroke), blockage of blood vessels in the heart (heart attack or angina pectoris) or other organs of the body.
+1. Blood clots in the legs (thrombophlebitis), lungs (pulmonary embolism), stoppage or rupture of a blood vessel in the brain (stroke), blockage of blood vessels in the heart (heart attack or angina pectoris) or other organs of the body.
    As mentioned above, smoking increases the risk of heart attacks and strokes and subsequent serious medical consequences.
-2. 2.In rare cases, oral contraceptives can cause benign but dangerous liver tumors.
+2. In rare cases, oral contraceptives can cause benign but dangerous liver tumors.
    These benign liver tumors can rupture and cause fatal internal bleeding.
    In addition, some studies report an increased risk of developing liver cancer.
    However, liver cancers are rare.
-3. 3.High blood pressure, although blood pressure usually returns to normal when the pill is stopped.
+3. High blood pressure, although blood pressure usually returns to normal when the pill is stopped.
 
 The symptoms associated with these serious side effects are discussed in the detailed leaflet given to you with your supply of pills.
 Notify your healthcare professional if you notice any unusual physical disturbances while taking the pill.
@@ -71,37 +71,37 @@ IMPORTANT POINTS TO REMEMBER
 
 BEFORE YOU START TAKING YOUR PILLS:
 
-1. 1.BE SURE TO READ THESE DIRECTIONS: Before you start taking your pills.
+1. BE SURE TO READ THESE DIRECTIONS: Before you start taking your pills.
    Anytime you are not sure what to do.
-2. 1.THE RIGHT WAY TO TAKE THE PILL IS TO TAKE ONE PILL EVERY DAY AT THE SAME TIME.
+2. THE RIGHT WAY TO TAKE THE PILL IS TO TAKE ONE PILL EVERY DAY AT THE SAME TIME.
    If you miss pills you could get pregnant.
    This includes starting the pack late.
    The more pills you miss, the more likely you are to get pregnant.
-3. 2.MANY WOMEN HAVE SPOTTING OR LIGHT BLEEDING, OR MAY FEEL SICK TO THEIR STOMACH DURING THE FIRST 1-3 PACKS OF PILLS.
+3. MANY WOMEN HAVE SPOTTING OR LIGHT BLEEDING, OR MAY FEEL SICK TO THEIR STOMACH DURING THE FIRST 1-3 PACKS OF PILLS.
    If you feel sick to your stomach, do not stop taking the pill.
    The problem will usually go away.
    If it doesn't go away, check with your healthcare professional.
-4. 3.MISSING PILLS CAN ALSO CAUSE SPOTTING OR LIGHT BLEEDING, even when you make up these missed pills.
+4. MISSING PILLS CAN ALSO CAUSE SPOTTING OR LIGHT BLEEDING, even when you make up these missed pills.
    On the days you take 2 pills to make up for missed pills, you could also feel a little sick to your stomach.
-5. 4.IF YOU HAVE VOMITING OR DIARRHEA, or IF YOU TAKE SOME MEDICINES, your pills may not work as well.
+5. IF YOU HAVE VOMITING OR DIARRHEA, or IF YOU TAKE SOME MEDICINES, your pills may not work as well.
    Use a back-up method (such as a condom or spermicide) until you check with your healthcare professional.
-6. 5.IF YOU HAVE TROUBLE REMEMBERING TO TAKE THE PILL, talk to your healthcare professional about how to make pill-taking easier or about using another method of birth control.
-7. 6.IF YOU HAVE ANY QUESTIONS OR ARE UNSURE ABOUT THE INFORMATION IN THIS LEAFLET, call your healthcare professional.
+6. IF YOU HAVE TROUBLE REMEMBERING TO TAKE THE PILL, talk to your healthcare professional about how to make pill-taking easier or about using another method of birth control.
+7. IF YOU HAVE ANY QUESTIONS OR ARE UNSURE ABOUT THE INFORMATION IN THIS LEAFLET, call your healthcare professional.
 
 BEFORE YOU START TAKING YOUR PILLS
 
-1. 1.DECIDE WHAT TIME OF DAY YOU WANT TO TAKE YOUR PILL.
+1. DECIDE WHAT TIME OF DAY YOU WANT TO TAKE YOUR PILL.
    It is important to take it at about the same time every day.
-2. 7.LOOK AT YOUR PILL PACK TO SEE IF IT HAS 21 OR 28 PILLS.
+2. LOOK AT YOUR PILL PACK TO SEE IF IT HAS 21 OR 28 PILLS.
    The 21-pill pack has 21 “active” pills (with hormones) to take for 3 weeks.
    This is followed by 1 week without pills.
    The 28-pill pack has 21 “active” pills (with hormones) to take for 3 weeks.
    This is followed by 1 week of white “reminder” pills (without hormones).
    Nortrel 1/35 (norethindrone and ethinyl estradiol tablets): There are 21 yellow “active” pills.
    Nortrel 0.5/35 (norethindrone and ethinyl estradiol tablets): There are 21 light yellow “active” pills.
-3. 8.ALSO FIND: 1) where on the pack to start taking pills, 2) in what order to take the pills.
+3. ALSO FIND: 1) where on the pack to start taking pills, 2) in what order to take the pills.
    CHECK ADDITIONAL INSTRUCTIONS FOR USING THIS PACKAGE IN THE BRIEF SUMMARY PATIENT PACKAGE INSERT.
-4. 9.BE SURE YOU HAVE READY AT ALL TIMES: ANOTHER KIND OF BIRTH CONTROL (such as a condom or spermicide) to use as a back-up method in case you miss pills.
+4. BE SURE YOU HAVE READY AT ALL TIMES: ANOTHER KIND OF BIRTH CONTROL (such as a condom or spermicide) to use as a back-up method in case you miss pills.
    AN EXTRA, FULL PILL PACK.
 
 WHEN TO START THE FIRST PACK OF PILLS
@@ -132,10 +132,10 @@ You will not need to use a back-up method of birth control, since you are starti
 
 WHAT TO DO DURING THE MONTH
 
-1. 1.TAKE ONE PILL AT THE SAME TIME EVERY DAY UNTIL THE PACK IS EMPTY.
+1. TAKE ONE PILL AT THE SAME TIME EVERY DAY UNTIL THE PACK IS EMPTY.
    Do not skip pills even if you are spotting or bleeding between monthly periods or feel sick to your stomach (nausea).
    Do not skip pills even if you do not have sex very often.
-2. 2.WHEN YOU FINISH A PACK OR SWITCH YOUR BRAND OF PILLS: 21 pills:Wait 7 days to start the next pack.
+2. WHEN YOU FINISH A PACK OR SWITCH YOUR BRAND OF PILLS: 21 pills:Wait 7 days to start the next pack.
    You will probably have your period during that week.
    Be sure that no more than 7 days pass between 21-day packs.
    28 pills:Start the next pack on the day after your last white “reminder” pill.
@@ -147,89 +147,101 @@ Nortrel 1/35 (norethindrone and ethinyl estradiol tablets):
 
 If you MISS 1 yellow “active” pill:
 
-1. 1.Take it as soon as you remember.
+1. Take it as soon as you remember.
    Take the next pill at your regular time.
    This means you may take 2 pills in 1 day.
-2. 2.You do not need to use a back-up birth control method if you have sex.
+2. You do not need to use a back-up birth control method if you have sex.
 
 If you MISS 2 yellow “active” pills in a row in WEEK 1 OR WEEK 2 of your pack:
 
-1. 1.Take 2 pills on the day you remember and 2 pills the next day.
-2. 2.Then take 1 pill a day until you finish the pack.
-3. 3.You COULD BECOME PREGNANT if you have sex in the 7 days after you miss pills.
+1. Take 2 pills on the day you remember and 2 pills the next day.
+2. Then take 1 pill a day until you finish the pack.
+3. You COULD BECOME PREGNANT if you have sex in the 7 days after you miss pills.
    You MUST use another birth control method (such as a condom or spermicide) as a back-up method for those 7 days.
 
 If you MISS 2 yellow “active” pills in a row in THE 3RD WEEK:
 
-1. 1a.
-   If you are a Sunday Starter: Keep taking 1 pill every day until Sunday.
-   On Sunday, THROW OUT the rest of the pack and start a new pack of pills that same day.
-2. 1b.
-   If you are a Day 1 Starter: THROW OUT the rest of the pill pack and start a new pack that same day.
-3. 2.
-   You may not have your period this month but this is expected.
-   However, if you miss your period 2 months in a row, call your healthcare professional because you might be pregnant.
-4. 3.
-   You COULD BECOME PREGNANT if you have sex in the 7 days after you miss pills.
-   You MUST use another birth control method (such as a condom or spermicide) as a back-up method for those 7 days.
+1a.
+If you are a Sunday Starter: Keep taking 1 pill every day until Sunday.
+On Sunday, THROW OUT the rest of the pack and start a new pack of pills that same day.
+
+1b.
+If you are a Day 1 Starter: THROW OUT the rest of the pill pack and start a new pack that same day.
+
+2.
+You may not have your period this month but this is expected.
+However, if you miss your period 2 months in a row, call your healthcare professional because you might be pregnant.
+
+3.
+You COULD BECOME PREGNANT if you have sex in the 7 days after you miss pills.
+You MUST use another birth control method (such as a condom or spermicide) as a back-up method for those 7 days.
 
 If you MISS 3 OR MORE yellow “active” pills in a row (during the first 3 weeks):
 
-1. 1a.
-   If you are a Sunday Starter: Keep taking 1 pill every day until Sunday.
-   On Sunday, THROW OUT the rest of the pack and start a new pack of pills that same day.
-2. 1b.
-   If you are a Day 1 Starter: THROW OUT the rest of the pill pack and start a new pack that same day.
-3. 2.
-   You may not have your period this month but this is expected.
-   However, if you miss your period 2 months in a row, call your doctor or clinic because you might be pregnant.
-4. 3.
-   You COULD BECOME PREGNANT if you have sex in the 7 days after you miss pills.
-   You MUST use another birth control method (such as a condom or spermicide) as a back-up method for those 7 days.
+1a.
+If you are a Sunday Starter: Keep taking 1 pill every day until Sunday.
+On Sunday, THROW OUT the rest of the pack and start a new pack of pills that same day.
+
+1b.
+If you are a Day 1 Starter: THROW OUT the rest of the pill pack and start a new pack that same day.
+
+2.
+You may not have your period this month but this is expected.
+However, if you miss your period 2 months in a row, call your doctor or clinic because you might be pregnant.
+
+3.
+You COULD BECOME PREGNANT if you have sex in the 7 days after you miss pills.
+You MUST use another birth control method (such as a condom or spermicide) as a back-up method for those 7 days.
 
 Nortrel 0.5/35 (norethindrone and ethinyl estradiol tablets):
 
 If you MISS 1 light yellow “active” pill:
 
-1. 1.Take it as soon as you remember.
+1. Take it as soon as you remember.
    Take the next pill at your regular time.
    This means you may take 2 pills in 1 day.
-2. 2.You do not need to use a back-up birth control method if you have sex.
+2. You do not need to use a back-up birth control method if you have sex.
 
 If you MISS 2 light yellow “active” pills in a row in WEEK 1 OR WEEK 2 of your pack:
 
-1. 1.Take 2 pills on the day you remember and 2 pills the next day.
-2. 2.Then take 1 pill a day until you finish the pack.
-3. 3.You COULD BECOME PREGNANT if you have sex in the 7 days after you miss pills.
+1. Take 2 pills on the day you remember and 2 pills the next day.
+2. Then take 1 pill a day until you finish the pack.
+3. You COULD BECOME PREGNANT if you have sex in the 7 days after you miss pills.
    You MUST use another birth control method (such as a condom or spermicide) as a back-up method for those 7 days.
 
 If you MISS 2 light yellow “active” pills in a row in THE 3RD WEEK:
 
-1. 1a.
-   If you are a Sunday Starter: Keep taking 1 pill every day until Sunday.
-   On Sunday, THROW OUT the rest of the pack and start a new pack of pills that same day.
-2. 1b.
-   If you are a Day 1 Starter: THROW OUT the rest of the pill pack and start a new pack that same day.
-3. 2.
-   You may not have your period this month but this is expected.
-   However, if you miss your period 2 months in a row, call your healthcare professional because you might be pregnant.
-4. 3.
-   You COULD BECOME PREGNANT if you have sex in the 7 days after you miss pills.
-   You MUST use another birth control method (such as a condom or spermicide) as a back-up method for those 7 days.
+1a.
+If you are a Sunday Starter: Keep taking 1 pill every day until Sunday.
+On Sunday, THROW OUT the rest of the pack and start a new pack of pills that same day.
+
+1b.
+If you are a Day 1 Starter: THROW OUT the rest of the pill pack and start a new pack that same day.
+
+2.
+You may not have your period this month but this is expected.
+However, if you miss your period 2 months in a row, call your healthcare professional because you might be pregnant.
+
+3.
+You COULD BECOME PREGNANT if you have sex in the 7 days after you miss pills.
+You MUST use another birth control method (such as a condom or spermicide) as a back-up method for those 7 days.
 
 If you MISS 3 OR MORE light yellow “active” pills in a row (during the first 3 weeks):
 
-1. 1a.
-   If you are a Sunday Starter: Keep taking 1 pill every day until Sunday.
-   On Sunday, THROW OUT the rest of the pack and start a new pack of pills that same day.
-2. 1b.
-   If you are a Day 1 Starter: THROW OUT the rest of the pill pack and start a new pack that same day.
-3. 2.
-   You may not have your period this month but this is expected.
-   However, if you miss your period 2 months in a row, call your healthcare professional because you might be pregnant.
-4. 3.
-   You COULD BECOME PREGNANT if you have sex in the 7 days after you miss pills.
-   You MUST use another birth control method (such as a condom or spermicide) as a back-up method for those 7 days.
+1a.
+If you are a Sunday Starter: Keep taking 1 pill every day until Sunday.
+On Sunday, THROW OUT the rest of the pack and start a new pack of pills that same day.
+
+1b.
+If you are a Day 1 Starter: THROW OUT the rest of the pill pack and start a new pack that same day.
+
+2.
+You may not have your period this month but this is expected.
+However, if you miss your period 2 months in a row, call your healthcare professional because you might be pregnant.
+
+3.
+You COULD BECOME PREGNANT if you have sex in the 7 days after you miss pills.
+You MUST use another birth control method (such as a condom or spermicide) as a back-up method for those 7 days.
 
 A REMINDER FOR THOSE ON 28-DAY PACKS
 
@@ -245,59 +257,57 @@ KEEP TAKING ONE “ACTIVE” PILL EACH DAY until you can reach your healthcare p
 
 How to Use the Blister Cards for the 21 Tablets
 
-1. 1.The blister pack comes to you set up for Sunday Start.
+1. The blister pack comes to you set up for Sunday Start.
    If your healthcare professional has instructed you to start pill-taking on the SUNDAY after your menstrual period has begun, or if your period begins on Sunday you will take your first pill that very same day.
    Start with the Sunday pill in row #1.
    After the Saturday pill has been taken, begin taking the pills in row #2, and so on, until all 21 pills have been taken.
    You will then take no pills for one week (seven days).
-2. 2.If you start pill-taking on a day other than SUNDAY, peel the attached sticker by selecting the day of the week you plan to start.
+2. If you start pill-taking on a day other than SUNDAY, peel the attached sticker by selecting the day of the week you plan to start.
    Place the sticker over the pre-printed days of the week and make sure it lines up with the pills.
    This sticker will help to remind you to take your pill every day.
    Take the yellow pill which corresponds to the day in row #1 for the 1/35 day regimen of the first pack during the first 24 hours of your period.
-3. 3.After the last (Saturday) pill in row #3 has been taken, if any remain in the first row, complete your 21-pill schedule by taking one pill daily starting with Sunday in row #1 until all the pills have been taken.
-4. 4.When you start taking the pill for the first time, use an additional method of protection until you have taken your first 7 pills.
-5. 5.Your tablet dispenser consists of three parts, the foil pouch, wallet, and a blister pack containing 21 individually sealed pills.
+3. After the last (Saturday) pill in row #3 has been taken, if any remain in the first row, complete your 21-pill schedule by taking one pill daily starting with Sunday in row #1 until all the pills have been taken.
+4. When you start taking the pill for the first time, use an additional method of protection until you have taken your first 7 pills.
+5. Your tablet dispenser consists of three parts, the foil pouch, wallet, and a blister pack containing 21 individually sealed pills.
    Note that the pills are arranged in three numbered rows of 7 pills each with the days of the week printed above them.
    All 21 pills are “active” birth control pills.
-6. 6.You must take your pills in order, one pill each day at intervals of 24 hours.
+6. You must take your pills in order, one pill each day at intervals of 24 hours.
    To remove a pill, push down on the pill with your thumb and forefinger so that the pill releases through the back of the dispenser.
-   See diagram below:
-
-1. Note: Rows 1, 2 and 3 are “active” pills.
-2. 7.Proceed taking one pill each day until all pills have been taken.
-3. 8.After you have taken your last pill, wait for 7 days.
+   See diagram below: Note: Rows 1, 2 and 3 are “active” pills.
+7. Proceed taking one pill each day until all pills have been taken.
+8. After you have taken your last pill, wait for 7 days.
    During this time your period should begin.
-4. 9.On the eighth day, start a new pack of pills even if your period is not yet over.
+9. On the eighth day, start a new pack of pills even if your period is not yet over.
 
 How to Use the Blister Cards for the 28 Tablets
 
-1. 1.The blister card comes to you set up for Sunday Start.
+1. The blister card comes to you set up for Sunday Start.
    If your healthcare professional has instructed you to start pill-taking on the SUNDAY after your menstrual period has begun or if your period begins on Sunday you will take your first pill that very same day.
    Start with the Sunday pill in row #1.
    Take one active pill daily for 21 days followed by one white placebo pill daily for 7 days.
-2. 2.If you start pill-taking on a day other than SUNDAY, peel the attached sticker by selecting the day of the week you plan to start.
+2. If you start pill-taking on a day other than SUNDAY, peel the attached sticker by selecting the day of the week you plan to start.
    Place the sticker over the pre-printed days of the week and make sure it lines up with the pills.
    This sticker will help to remind you to take your pill every day.
    Take the yellow pill which corresponds to the day in row #1 for both the 1/35 day regimen and the 0.5/35 day regimen of the first pack during the first 24 hours of your period.
    After taking all of the pills at the end of row #3, go back to row #1 and complete the “active” pills.
    Once all of the active pills have been taken, proceed to row #4 and take the 7 “reminder” pills to complete the pack.
-3. 3.When you start taking the pill for the first time, use an additional method of protection until you have taken your first 7 pills.
-4. 4.Your tablet dispenser consists of three parts, the foil pouch, wallet, and a blister pack containing 28 individually sealed pills.
+3. When you start taking the pill for the first time, use an additional method of protection until you have taken your first 7 pills.
+4. Your tablet dispenser consists of three parts, the foil pouch, wallet, and a blister pack containing 28 individually sealed pills.
    Note that the pills are arranged in four numbered rows of 7 pills each with the days of the week printed above them.
    The 21 colored pills are “active” birth control pills.
    The 7 white pills are inactive; their purpose is to help make your pill-taking schedule simple and easy to remember.
-5. 5.You must take your pills in order, one pill each day at intervals of 24 hours.
+5. You must take your pills in order, one pill each day at intervals of 24 hours.
    Always start with the colored pills in row #1.
    To remove a pill, push down on the pill with your thumb and forefinger so that the pill releases through the back of the dispenser.
    See diagram below: Note: Rows 1, 2 and 3 are “active” pills and row #4 contains the “reminder” pills.
-6. 6.After you have taken all 21 pills, take one white pill daily for 7 days: During this time your period should begin.
-7. 7.After you have taken all of the pills, start a new pack of pills even if your period is not yet over.
+6. After you have taken all 21 pills, take one white pill daily for 7 days: During this time your period should begin.
+7. After you have taken all of the pills, start a new pack of pills even if your period is not yet over.
 
 THREE WAYS TO REMEMBER IN WHAT ORDER TO TAKE THE PILLS
 
-1. 1.Follow the sticker with the days of the week (placed above the pills).
-2. 2.Always go from left to right.
-3. 3.Always finish your pills.
+1. Follow the sticker with the days of the week (placed above the pills).
+2. Always go from left to right.
+3. Always finish your pills.
 
 DETAILED PATIENT LABELING
 
@@ -351,24 +361,24 @@ WHO SHOULD NOT TAKE ORAL CONTRACEPTIVES
 Some women should not use the pill.
 For example, you should not take the pill if you have any of the following conditions:
 
-- •A history of heart attack or stroke
-- •Blood clots in the legs (thrombophlebitis), lungs (pulmonary embolism), or eyes
-- •A history of blood clots in the deep veins of your legs
-- •An inherited problem that makes your blood clot more than normal
-- •Chest pain (angina pectoris)
-- •Known or suspected breast cancer or cancer of the lining of the uterus, cervix or vagina
-- •Unexplained vaginal bleeding (until a diagnosis is reached by your healthcare professional)
-- •Yellowing of the whites of the eyes or of the skin (jaundice) during pregnancy or during previous use of the pill
-- •Liver tumor (benign or cancerous)
-- •Take any Hepatitis C drug combination containing ombitasvir/paritaprevir/ ritonavir, with or without dasabuvir.
+- A history of heart attack or stroke
+- Blood clots in the legs (thrombophlebitis), lungs (pulmonary embolism), or eyes
+- A history of blood clots in the deep veins of your legs
+- An inherited problem that makes your blood clot more than normal
+- Chest pain (angina pectoris)
+- Known or suspected breast cancer or cancer of the lining of the uterus, cervix or vagina
+- Unexplained vaginal bleeding (until a diagnosis is reached by your healthcare professional)
+- Yellowing of the whites of the eyes or of the skin (jaundice) during pregnancy or during previous use of the pill
+- Liver tumor (benign or cancerous)
+- Take any Hepatitis C drug combination containing ombitasvir/paritaprevir/ ritonavir, with or without dasabuvir.
   This may increase levels of the liver enzyme “alanine aminotransferase” (ALT) in the blood.
-- •Known or suspected pregnancy
-- •Valvular heart disease with complications
-- •Severe hypertension
-- •Diabetes with vascular involvement
-- •Headaches with focal neurological symptoms
-- •If you plan to have surgery with prolonged bed rest
-- •Hypersensitivity to any component of this product.
+- Known or suspected pregnancy
+- Valvular heart disease with complications
+- Severe hypertension
+- Diabetes with vascular involvement
+- Headaches with focal neurological symptoms
+- If you plan to have surgery with prolonged bed rest
+- Hypersensitivity to any component of this product.
 
 Tell your healthcare professional if you have ever had any of these conditions.
 Your healthcare professional can recommend a safer method of birth control.
@@ -377,14 +387,14 @@ OTHER CONSIDERATIONS BEFORE TAKING ORAL CONTRACEPTIVES
 
 Tell your healthcare professional if you have or have had:
 
-- •Breast nodules, fibrocystic disease of the breast, an abnormal breast x-ray or mammogram
-- •Diabetes
-- •Elevated cholesterol or triglycerides
-- •High blood pressure
-- •Migraine or other headaches or epilepsy
-- •Mental depression
-- •Gallbladder, liver, heart or kidney disease
-- •History of scanty or irregular menstrual periods
+- Breast nodules, fibrocystic disease of the breast, an abnormal breast x-ray or mammogram
+- Diabetes
+- Elevated cholesterol or triglycerides
+- High blood pressure
+- Migraine or other headaches or epilepsy
+- Mental depression
+- Gallbladder, liver, heart or kidney disease
+- History of scanty or irregular menstrual periods
 
 Women with any of these conditions should be checked often by their healthcare professional if they choose to use oral contraceptives.
 
@@ -399,8 +409,8 @@ Blood clots and blockage of blood vessels are one of the most serious side effec
 Serious blood clots can happen especially if you smoke, are obese, or are older than 35 years of age.
 Serious blood clots are more likely to happen when you:
 
-- •First start taking birth control pills
-- •Restart the same or different birth control pills after not using them for a month or more
+- First start taking birth control pills
+- Restart the same or different birth control pills after not using them for a month or more
 
 In particular, a clot in the legs can cause thrombophlebitis and a clot that travels to the lungs can cause a sudden blocking of the vessel carrying blood to the lungs.
 Rarely, clots occur in the blood vessels of the eye and may cause blindness, double vision, or impaired vision.
@@ -486,15 +496,15 @@ WARNING SIGNALS
 
 If any of these adverse effects occur while you are taking oral contraceptives, call your healthcare professional immediately:
 
-- •Sharp chest pain, coughing of blood, or sudden shortness of breath (indicating a possible clot in the lung)
-- •Pain in the calf (indicating a possible clot in the leg)
-- •Crushing chest pain or heaviness in the chest (indicating a possible heart attack)
-- •Sudden severe headache or vomiting, dizziness or fainting, disturbances of vision or speech, weakness, or numbness in an arm or leg (indicating a possible stroke)
-- •Sudden partial or complete loss of vision (indicating a possible clot in the eye)
-- •Breast lumps (indicating possible breast cancer or fibrocystic disease of the breast; ask your healthcare professional to show you how to examine your breasts)
-- •Severe pain or tenderness in the stomach area (indicating a possibly ruptured liver tumor)
-- •Difficulty in sleeping, weakness, lack of energy, fatigue, or change in mood (possibly indicating severe depression)
-- •Jaundice or a yellowing of the skin or eyeballs, accompanied frequently by fever, fatigue, loss of appetite, dark colored urine, or light colored bowel movements (indicating possible liver problems)
+- Sharp chest pain, coughing of blood, or sudden shortness of breath (indicating a possible clot in the lung)
+- Pain in the calf (indicating a possible clot in the leg)
+- Crushing chest pain or heaviness in the chest (indicating a possible heart attack)
+- Sudden severe headache or vomiting, dizziness or fainting, disturbances of vision or speech, weakness, or numbness in an arm or leg (indicating a possible stroke)
+- Sudden partial or complete loss of vision (indicating a possible clot in the eye)
+- Breast lumps (indicating possible breast cancer or fibrocystic disease of the breast; ask your healthcare professional to show you how to examine your breasts)
+- Severe pain or tenderness in the stomach area (indicating a possibly ruptured liver tumor)
+- Difficulty in sleeping, weakness, lack of energy, fatigue, or change in mood (possibly indicating severe depression)
+- Jaundice or a yellowing of the skin or eyeballs, accompanied frequently by fever, fatigue, loss of appetite, dark colored urine, or light colored bowel movements (indicating possible liver problems)
 
 SIDE EFFECTS OF ORAL CONTRACEPTIVES
 
@@ -572,29 +582,28 @@ Tell your healthcare provider about all medicines and herbal products that you t
 
 Some medicines and herbal products may make hormonal birth control less effective, including, but not limited to:
 
-- •certain seizure medicines (carbamazepine, felbamate, oxcarbazepine, phenytoin, rufinamide, and topiramate)
-- •aprepitant
-- •barbiturates
-- •bosentan
-- •colesevelam
-- •griseofulvin
-- •certain combinations of HIV medicines (nelfinavir, ritonavir, ritonavir-boosted protease inhibitors)
-- •certain non nucleoside reverse transcriptase inhibitors (nevirapine)
-- •rifampin and rifabutin
-- •St.
-  John’s wort
+- certain seizure medicines (carbamazepine, felbamate, oxcarbazepine, phenytoin, rufinamide, and topiramate)
+- aprepitant
+- barbiturates
+- bosentan
+- colesevelam
+- griseofulvin
+- certain combinations of HIV medicines (nelfinavir, ritonavir, ritonavir-boosted protease inhibitors)
+- certain non nucleoside reverse transcriptase inhibitors (nevirapine)
+- rifampin and rifabutin
+- St. John’s wort
 
 Use another birth control method (such as a condom and spermicide or diaphragm and spermicide) when you take medicines that may make Nortrel 0.5/35 or 1/35 less effective.
 
 Some medicines and grapefruit juice may increase your level of the hormone ethinyl estradiol if used together, including:
 
-- •acetaminophen
-- •ascorbic acid
-- •medicines that affect how your liver breaks down other medicines (itraconazole, ketoconazole, voriconazole, and fluconazole)
-- •certain HIV medicines (atazanavir, indinavir)
-- •atorvastatin
-- •rosuvastatin
-- •etravirine
+- acetaminophen
+- ascorbic acid
+- medicines that affect how your liver breaks down other medicines (itraconazole, ketoconazole, voriconazole, and fluconazole)
+- certain HIV medicines (atazanavir, indinavir)
+- atorvastatin
+- rosuvastatin
+- etravirine
 
 Hormonal birth control methods may interact with lamotrigine, a seizure medicine used for epilepsy.
 This may increase the risk of seizures, so your healthcare provider may need to adjust the dose of lamotrigine.
@@ -616,37 +625,37 @@ IMPORTANT POINTS TO REMEMBER
 
 BEFORE YOU START TAKING YOUR PILLS:
 
-1. 1.BE SURE TO READ THESE DIRECTIONS: Before you start taking your pills.
+1. BE SURE TO READ THESE DIRECTIONS: Before you start taking your pills.
    Anytime you are not sure what to do.
-2. 2.THE RIGHT WAY TO TAKE THE PILL IS TO TAKE ONE PILL EVERY DAY AT THE SAME TIME.
+2. THE RIGHT WAY TO TAKE THE PILL IS TO TAKE ONE PILL EVERY DAY AT THE SAME TIME.
    If you miss pills you could get pregnant.
    This includes starting the pack late.
    The more pills you miss, the more likely you are to get pregnant.
-3. 3.MANY WOMEN HAVE SPOTTING OR LIGHT BLEEDING, OR MAY FEEL SICK TO THEIR STOMACH DURING THE FIRST 1-3 PACKS OF PILLS.
+3. MANY WOMEN HAVE SPOTTING OR LIGHT BLEEDING, OR MAY FEEL SICK TO THEIR STOMACH DURING THE FIRST 1-3 PACKS OF PILLS.
    If you feel sick to your stomach, do not stop taking the pill.
    The problem will usually go away.
    If it doesn't go away, check with your healthcare professional.
-4. 4.MISSING PILLS CAN ALSO CAUSE SPOTTING OR LIGHT BLEEDING, even when you make up these missed pills.
+4. MISSING PILLS CAN ALSO CAUSE SPOTTING OR LIGHT BLEEDING, even when you make up these missed pills.
    On the days you take 2 pills to make up for missed pills, you could also feel a little sick to your stomach.
-5. 5.IF YOU HAVE VOMITING OR DIARRHEA, or IF YOU TAKE SOME MEDICINES, your pills may not work as well.
+5. IF YOU HAVE VOMITING OR DIARRHEA, or IF YOU TAKE SOME MEDICINES, your pills may not work as well.
    Use a back-up method (such as a condom or spermicide) until you check with your healthcare professional.
-6. 6.IF YOU HAVE TROUBLE REMEMBERING TO TAKE THE PILL, talk to your healthcare professional about how to make pill-taking easier or about using another method of birth control.
-7. 7.IF YOU HAVE ANY QUESTIONS OR ARE UNSURE ABOUT THE INFORMATION IN THIS LEAFLET, call your healthcare professional.
+6. IF YOU HAVE TROUBLE REMEMBERING TO TAKE THE PILL, talk to your healthcare professional about how to make pill-taking easier or about using another method of birth control.
+7. IF YOU HAVE ANY QUESTIONS OR ARE UNSURE ABOUT THE INFORMATION IN THIS LEAFLET, call your healthcare professional.
 
 BEFORE YOU START TAKING YOUR PILLS
 
-1. 1.DECIDE WHAT TIME OF DAY YOU WANT TO TAKE YOUR PILL.
+1. DECIDE WHAT TIME OF DAY YOU WANT TO TAKE YOUR PILL.
    It is important to take it at about the same time every day.
-2. 2.LOOK AT YOUR PILL PACK TO SEE IF IT HAS 21 OR 28 PILLS.
+2. LOOK AT YOUR PILL PACK TO SEE IF IT HAS 21 OR 28 PILLS.
    The 21-pill pack has 21 “active” pills (with hormones) to take for 3 weeks.
    This is followed by 1 week without pills.
    The 28-pill pack has 21 “active” pills (with hormones) to take for 3 weeks.
    This is followed by 1 week of white “reminder” pills (without hormones).
    Nortrel 1/35 (norethindrone and ethinyl estradiol tablets): There are 21 yellow “active” pills.
    Nortrel 0.5/35 (norethindrone and ethinyl estradiol tablets): There are 21 light yellow “active” pills.
-3. 3.ALSO FIND: 1) where on the pack to start taking pills, 2) in what order to take the pills.
+3. ALSO FIND: 1) where on the pack to start taking pills, 2) in what order to take the pills.
    CHECK ADDITIONAL INSTRUCTIONS FOR USING THIS PACKAGE IN THE BRIEF SUMMARY PATIENT PACKAGE INSERT.
-4. 4.BE SURE YOU HAVE READY AT ALL TIMES: ANOTHER KIND OF BIRTH CONTROL (such as a condom or spermicide) to use as a back-up method in case you miss pills.
+4. BE SURE YOU HAVE READY AT ALL TIMES: ANOTHER KIND OF BIRTH CONTROL (such as a condom or spermicide) to use as a back-up method in case you miss pills.
    AN EXTRA, FULL PILL PACK.
 
 WHEN TO START THE FIRST PACK OF PILLS
@@ -677,10 +686,10 @@ You will not need to use a back-up method of birth control, since you are starti
 
 WHAT TO DO DURING THE MONTH
 
-1. 1.TAKE ONE PILL AT THE SAME TIME EVERY DAY UNTIL THE PACK IS EMPTY.
+1. TAKE ONE PILL AT THE SAME TIME EVERY DAY UNTIL THE PACK IS EMPTY.
    Do not skip pills even if you are spotting or bleeding between monthly periods or feel sick to your stomach (nausea).
    Do not skip pills even if you do not have sex very often.
-2. 2.WHEN YOU FINISH A PACK OR SWITCH YOUR BRAND OF PILLS: 21 pills: Wait 7 days to start the next pack.
+2. WHEN YOU FINISH A PACK OR SWITCH YOUR BRAND OF PILLS: 21 pills: Wait 7 days to start the next pack.
    You will probably have your period during that week.
    Be sure that no more than 7 days pass between 21-day packs.
    28 pills: Start the next pack on the day after your last white “reminder” pill.
@@ -692,89 +701,101 @@ Nortrel 1/35 (norethindrone and ethinyl estradiol tablets):
 
 If you MISS 1 yellow “active” pill:
 
-1. 1.Take it as soon as you remember.
+1. Take it as soon as you remember.
    Take the next pill at your regular time.
    This means you may take 2 pills in 1 day.
-2. 2.You do not need to use a back-up birth control method if you have sex.
+2. You do not need to use a back-up birth control method if you have sex.
 
 If you MISS 2 yellow “active” pills in a row in WEEK 1 OR WEEK 2 of your pack:
 
-1. 1.Take 2 pills on the day you remember and 2 pills the next day.
-2. 2.Then take 1 pill a day until you finish the pack.
-3. 3.You COULD BECOME PREGNANT if you have sex in the 7 days after you miss pills.
+1. Take 2 pills on the day you remember and 2 pills the next day.
+2. Then take 1 pill a day until you finish the pack.
+3. You COULD BECOME PREGNANT if you have sex in the 7 days after you miss pills.
    You MUST use another birth control method (such as a condom or spermicide) as a back-up method for those 7 days.
 
 If you MISS 2 yellow “active” pills in a row in THE 3RD WEEK:
 
-1. 1a.
-   If you are a Sunday Starter: Keep taking 1 pill every day until Sunday.
-   On Sunday, THROW OUT the rest of the pack and start a new pack of pills that same day.
-2. 1b.
-   If you are a Day 1 Starter: THROW OUT the rest of the pill pack and start a new pack that same day.
-3. 2.
-   You may not have your period this month but this is expected.
-   However, if you miss your period 2 months in a row, call your healthcare professional because you might be pregnant.
-4. 3.
-   You COULD BECOME PREGNANT if you have sex in the 7 days after you miss pills.
-   You MUST use another birth control method (such as a condom or spermicide) as a back-up method for those 7 days.
+1a.
+If you are a Sunday Starter: Keep taking 1 pill every day until Sunday.
+On Sunday, THROW OUT the rest of the pack and start a new pack of pills that same day.
+
+1b.
+If you are a Day 1 Starter: THROW OUT the rest of the pill pack and start a new pack that same day.
+
+2.
+You may not have your period this month but this is expected.
+However, if you miss your period 2 months in a row, call your healthcare professional because you might be pregnant.
+
+3.
+You COULD BECOME PREGNANT if you have sex in the 7 days after you miss pills.
+You MUST use another birth control method (such as a condom or spermicide) as a back-up method for those 7 days.
 
 If you MISS 3 OR MORE yellow “active” pills in a row (during the first 3 weeks):
 
-1. 1a.
-   If you are a Sunday Starter: Keep taking 1 pill every day until Sunday.
-   On Sunday, THROW OUT the rest of the pack and start a new pack of pills that same day.
-2. 1b.
-   If you are a Day 1 Starter: THROW OUT the rest of the pill pack and start a new pack that same day.
-3. 2.
-   You may not have your period this month but this is expected.
-   However, if you miss your period 2 months in a row, call your healthcare professional because you might be pregnant.
-4. 3.
-   You COULD BECOME PREGNANT if you have sex in the 7 days after you miss pills.
-   You MUST use another birth control method (such as a condom or spermicide) as a back-up method for those 7 days.
+1a.
+If you are a Sunday Starter: Keep taking 1 pill every day until Sunday.
+On Sunday, THROW OUT the rest of the pack and start a new pack of pills that same day.
+
+1b.
+If you are a Day 1 Starter: THROW OUT the rest of the pill pack and start a new pack that same day.
+
+2.
+You may not have your period this month but this is expected.
+However, if you miss your period 2 months in a row, call your healthcare professional because you might be pregnant.
+
+3.
+You COULD BECOME PREGNANT if you have sex in the 7 days after you miss pills.
+You MUST use another birth control method (such as a condom or spermicide) as a back-up method for those 7 days.
 
 Nortrel 0.5/35 (norethindrone and ethinyl estradiol tablets):
 
 If you MISS 1 light yellow “active” pill:
 
-1. 1.Take it as soon as you remember.
+1. Take it as soon as you remember.
    Take the next pill at your regular time.
    This means you may take 2 pills in 1 day.
-2. 2.You do not need to use a back-up birth control method if you have sex.
+2. You do not need to use a back-up birth control method if you have sex.
 
 If you MISS 2 light yellow “active” pills in a row in WEEK 1 OR WEEK 2 of your pack:
 
-1. 1.Take 2 pills on the day you remember and 2 pills the next day.
-2. 2.Then take 1 pill a day until you finish the pack.
-3. 3.You COULD BECOME PREGNANT if you have sex in the 7 days after you miss pills.
+1. Take 2 pills on the day you remember and 2 pills the next day.
+2. Then take 1 pill a day until you finish the pack.
+3. You COULD BECOME PREGNANT if you have sex in the 7 days after you miss pills.
    You MUST use another birth control method (such as a condom or spermicide) as a back-up method for those 7 days.
 
 If you MISS 2 light yellow “active” pills in a row in THE 3RD WEEK:
 
-1. 1a.
-   If you are a Sunday Starter: Keep taking 1 pill every day until Sunday.
-   On Sunday, THROW OUT the rest of the pack and start a new pack of pills that same day.
-2. 1b.
-   If you are a Day 1 Starter: THROW OUT the rest of the pill pack and start a new pack that same day.
-3. 2.
-   You may not have your period this month but this is expected.
-   However, if you miss your period 2 months in a row, call your healthcare professional because you might be pregnant.
-4. 3.
-   You COULD BECOME PREGNANT if you have sex in the 7 days after you miss pills.
-   You MUST use another birth control method (such as a condom or spermicide) as a back-up method for those 7 days.
+1a.
+If you are a Sunday Starter: Keep taking 1 pill every day until Sunday.
+On Sunday, THROW OUT the rest of the pack and start a new pack of pills that same day.
+
+1b.
+If you are a Day 1 Starter: THROW OUT the rest of the pill pack and start a new pack that same day.
+
+2.
+You may not have your period this month but this is expected.
+However, if you miss your period 2 months in a row, call your healthcare professional because you might be pregnant.
+
+3.
+You COULD BECOME PREGNANT if you have sex in the 7 days after you miss pills.
+You MUST use another birth control method (such as a condom or spermicide) as a back-up method for those 7 days.
 
 If you MISS 3 OR MORE light yellow “active” pills in a row (during the first 3 weeks):
 
-1. 1a.
-   If you are a Sunday Starter: Keep taking 1 pill every day until Sunday.
-   On Sunday, THROW OUT the rest of the pack and start a new pack of pills that same day.
-2. 1b.
-   If you are a Day 1 Starter: THROW OUT the rest of the pill pack and start a new pack that same day.
-3. 2.
-   You may not have your period this month but this is expected.
-   However, if you miss your period 2 months in a row, call your healthcare professional because you might be pregnant.
-4. 3.
-   You COULD BECOME PREGNANT if you have sex in the 7 days after you miss pills.
-   You MUST use another birth control method (such as a condom or spermicide) as a back-up method for those 7 days.
+1a.
+If you are a Sunday Starter: Keep taking 1 pill every day until Sunday.
+On Sunday, THROW OUT the rest of the pack and start a new pack of pills that same day.
+
+1b.
+If you are a Day 1 Starter: THROW OUT the rest of the pill pack and start a new pack that same day.
+
+2.
+You may not have your period this month but this is expected.
+However, if you miss your period 2 months in a row, call your healthcare professional because you might be pregnant.
+
+3.
+You COULD BECOME PREGNANT if you have sex in the 7 days after you miss pills.
+You MUST use another birth control method (such as a condom or spermicide) as a back-up method for those 7 days.
 
 A REMINDER FOR THOSE ON 28-DAY PACKS
 
@@ -824,14 +845,14 @@ HEALTH BENEFITS FROM ORAL CONTRACEPTIVES
 In addition to preventing pregnancy, use of combined oral contraceptives may provide certain benefits.
 They are:
 
-- •menstrual cycles may become more regular
-- •blood flow during menstruation may be lighter and less iron may be lost.
+- menstrual cycles may become more regular
+- blood flow during menstruation may be lighter and less iron may be lost.
   Therefore, anemia due to iron deficiency is less likely to occur.
-- •pain or other symptoms during menstruation may be encountered less frequently
-- •ectopic (tubal) pregnancy may occur less frequently
-- •noncancerous cysts or lumps in the breast may occur less frequently
-- •acute pelvic inflammatory disease may occur less frequently
-- •oral contraceptive use may provide some protection against developing two forms of cancer: cancer of the ovaries and cancer of the lining of the uterus.
+- pain or other symptoms during menstruation may be encountered less frequently
+- ectopic (tubal) pregnancy may occur less frequently
+- noncancerous cysts or lumps in the breast may occur less frequently
+- acute pelvic inflammatory disease may occur less frequently
+- oral contraceptive use may provide some protection against developing two forms of cancer: cancer of the ovaries and cancer of the lining of the uterus.
 
 If you want more information about birth control pills, ask your healthcare professional or pharmacist.
 They have a more technical leaflet called the Professional Labeling, which you may wish to read.

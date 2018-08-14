@@ -4,7 +4,7 @@
 
 ## Nortrel® 1/35 (norethindrone and ethinyl estradiol tablets USP) 21 Day Regimen, 3 Blister Cards, 21 Tablets Each Carton Text
 
-1. NDC 0555-9009-42 3 Blister Cards, 21 Tablets Each
+NDC 0555-9009-42 3 Blister Cards, 21 Tablets Each
 
 21
 
@@ -83,7 +83,7 @@ TEVA
 
 ## Nortrel® 0.5/35 (norethindrone and ethinyl estradiol tablets USP) 28 Day Regimen, 3 Blister Cards, 28 Tablets Each Carton Text
 
-1. NDC 0555-9008-67 3 Blister Cards, 28 Tablets Each
+NDC 0555-9008-67 3 Blister Cards, 28 Tablets Each
 
 28
 

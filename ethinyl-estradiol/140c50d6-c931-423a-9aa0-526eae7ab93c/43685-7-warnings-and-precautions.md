@@ -258,14 +258,14 @@ Women on thyroid hormone replacement therapy may need increased doses of thyroid
 
 Certain endocrine and liver function tests and blood components may be affected by oral contraceptives:
 
-1. a.Increased prothrombin and factors VII, VIII, IX, and X; decreased antithrombin 3; increased norepinephrine-induced platelet aggregability.
-2. b.Increased thyroid binding globulin (TBG) leading to increased circulating total thyroid hormone, as measured by protein-bound iodine (PBI), T4 by column or by radioimmunoassay.
+1. Increased prothrombin and factors VII, VIII, IX, and X; decreased antithrombin 3; increased norepinephrine-induced platelet aggregability.
+2. Increased thyroid binding globulin (TBG) leading to increased circulating total thyroid hormone, as measured by protein-bound iodine (PBI), T4 by column or by radioimmunoassay.
    Free T3 resin uptake is decreased, reflecting the elevated TBG, free T4 concentration is unaltered.
-3. c.Other binding proteins may be elevated in serum.
-4. d.Sex-binding globulins are increased and result in elevated levels of total circulating sex steroids and corticoids; however, free or biologically active levels remain unchanged.
-5. e.Triglycerides may be increased and levels of various other lipids and lipoproteins may be affected.
-6. f.Glucose tolerance may be decreased.
-7. g.Serum folate levels may be depressed by oral contraceptive therapy.
+3. Other binding proteins may be elevated in serum.
+4. Sex-binding globulins are increased and result in elevated levels of total circulating sex steroids and corticoids; however, free or biologically active levels remain unchanged.
+5. Triglycerides may be increased and levels of various other lipids and lipoproteins may be affected.
+6. Glucose tolerance may be decreased.
+7. Serum folate levels may be depressed by oral contraceptive therapy.
    This may be of clinical significance if a woman becomes pregnant shortly after discontinuing oral contraceptives.
 
 ## 10. Carcinogenesis
