@@ -10,7 +10,7 @@ The average duration of adjunctive therapy was 7 days in the levofloxacin arm an
 In clinically and microbiologically evaluable patients with documented Pseudomonas aeruginosa infection, 15 of 17 (88.2%) received ceftazidime (N=11) or piperacillin/tazobactam (N=4) in the levofloxacin arm and 16 of 17 (94.1%) received an aminoglycoside in the comparator arm.
 Overall, in clinically and microbiologically evaluable patients, vancomycin was added to the treatment regimen of 37 of 93 (39.8%) patients in the levofloxacin arm and 28 of 94 (29.8%) patients in the comparator arm for suspected methicillin-resistant S. aureus infection.
 
-Clinical success rates in clinically and microbiologically evaluable patients at the posttherapy visit (primary study endpoint assessed on day 3 to 15 after completing therapy) were 58.1% for levofloxacin and 60.6% for comparator.
+Clinical success rates in clinically and microbiologically evaluable patients at the post-therapy visit (primary study endpoint assessed on day 3 to 15 after completing therapy) were 58.1% for levofloxacin and 60.6% for comparator.
 The 95% CI for the difference of response rates (levofloxacin minus comparator) was [-17.2, 12].
 The microbiological eradication rates at the posttherapy visit were 66.7% for levofloxacin and 60.6% for comparator.
 The 95% CI for the difference of eradication rates (levofloxacin minus comparator) was [-8.3, 20.3].
@@ -65,7 +65,7 @@ MDRSP isolates are isolates resistant to two or more of the following antibacter
 Of 40 microbiologically evaluable patients with MDRSP isolates, 38 patients (95%) achieved clinical and bacteriologic success at post-therapy.
 The clinical and bacterial success rates are shown in Table 13.
 
-Table 13: Clinical and Bacterial Success Rates for levofloxacin-Treated MDRSP in Community Acquired Pneumonia Patients (Population Valid for Efficacy)
+Table 13: Clinical and Bacterial Success Rates for Levofloxacin-Treated MDRSP in Community Acquired Pneumonia Patients (Population Valid for Efficacy)
 
 | Screening Susceptibility | Clinical Success |  | Bacteriological Success‡ |  |
 | --- | --- | --- | --- | --- |
@@ -203,7 +203,7 @@ Patients with missing response were counted as failures in this analysis.
 
 Microbiologically Evaluable population at TOC for individual pathogens recovered from patients randomized to levofloxacin treatment are presented in Table 19.
 
-Table 19: Bacteriological Eradication Rates for Individual Pathogens Recovered From Patients Randomized to levofloxacin 750 mg QD for 5 Days Treatment
+Table 19: Bacteriological Eradication Rates for Individual Pathogens Recovered From Patients Randomized to Levofloxacin 750 mg QD for 5 Days Treatment
 
 | Pathogen | Bacteriological Eradication Rate (n/N) | % |
 | --- | --- | --- |
@@ -241,11 +241,12 @@ Patients with missingresponse were counted as failures in this analysis.
 
 The effectiveness of levofloxacin for this indication is based on plasma concentrations achieved in humans, a surrogate endpoint reasonably likely to predict clinical benefit.
 Levofloxacin has not been tested in humans for the post-exposure prevention of inhalation anthrax.
-The mean plasma concentrations of levofloxacin associated with a statistically significant improvement in survival over placebo in the rhesus monkey model of inhalational anthrax are reached or exceeded in adult and pediatric patients receiving the recommended oral and intravenous dosage regimens [see Indications and Usage (1.13); Dosage and Administration (2.1, 2.2)].
+The mean plasma concentrations of levofloxacin associated with a statistically significant improvement in survival over placebo in the rhesus monkey model of inhalational anthrax are reached or exceeded in adult and pediatric patients receiving the recommended oral and intravenous dosage regimens [see Indications and Usage (1.13) and Dosage and Administration (2.1, 2.2)].
 
 Levofloxacin pharmacokinetics have been evaluated in adult and pediatric patients.
 The mean (± SD) steady state peak plasma concentration in human adults receiving 500 mg orally or intravenously once daily is 5.7 ± 1.4 and 6.4 ± 0.8 mcg/mL, respectively; and the corresponding total plasma exposure (AUC0-24) is 47.5 ± 6.7 and 54.6 ± 11.1 mcg.h/mL, respectively.
 The predicted steady-state pharmacokinetic parameters in pediatric patients ranging in age from 6 months to 17 years receiving 8 mg/kg orally every 12 hours (not to exceed 250 mg per dose) were calculated to be comparable to those observed in adults receiving 500 mg orally once daily [see Clinical Pharmacology (12.3)].
+Levofloxacin tablets can only be administered to pediatric patients with inhalational anthrax (post-exposure) or plague who are 30 kg or greater due to the limitations of the available strengths [see Dosage and Administration (2.2)].
 
 In adults, the safety of levofloxacin for treatment durations of up to 28 days is well characterized.
 However, information pertaining to extended use at 500 mg daily up to 60 days is limited.
@@ -253,7 +254,7 @@ Prolonged levofloxacin therapy in adults should only be used when the benefit ou
 
 In pediatric patients, the safety of levofloxacin for treatment durations of more than 14 days has not been studied.
 An increased incidence of musculoskeletal adverse events (arthralgia, arthritis, tendinopathy, gait abnormality) compared to controls has been observed in clinical studies with treatment duration of up to 14 days.
-Long-term safety data, including effects on cartilage, following the administration of levofloxacin to pediatric patients is limited [seeWarnings and Precautions (5.10), Use in Specific Populations (8.4)].
+Long-term safety data, including effects on cartilage, following the administration of levofloxacin to pediatric patients is limited [seeWarnings and Precautions (5.10) and Use in Specific Populations (8.4)].
 
 A placebo-controlled animal study in rhesus monkeys exposed to an inhaled mean dose of 49 LD50 (~2.7 X 106) spores (range 17 - 118 LD50) of B. anthracis (Ames strain) was conducted.
 The minimal inhibitory concentration (MIC) of levofloxacin for the anthrax strain used in this study was 0.125 mcg/mL.
@@ -273,6 +274,7 @@ The mean plasma concentrations of levofloxacin associated with a statistically s
 Levofloxacin pharmacokinetics have been evaluated in adult and pediatric patients.
 The mean (± SD) steady state peak plasma concentration in human adults receiving 500 mg orally or intravenously once daily is 5.7 ± 1.4 and 6.4 ± 0.8 mcg/mL, respectively; and the corresponding total plasma exposure (AUC0-24) is 47.5 ± 6.7 and 54.6 ± 11.1 mcg.h/mL, respectively.
 The predicted steady-state pharmacokinetic parameters in pediatric patients ranging in age from 6 months to 17 years receiving 8 mg/kg orally every 12 hours (not to exceed 250 mg per dose) were calculated to be comparable to those observed in adults receiving 500 mg orally once daily [see Clinical Pharmacology (12.3)].
+Levofloxacin tablets can only be administered to pediatric patients with inhalational anthrax (post-exposure) or plague who are 30 kg or greater due to the limitations of the available strengths [see Dosage and Administration (2.2)].
 
 A placebo-controlled animal study in African green monkeys exposed to an inhaled mean dose of 65 LD50 (range 3 to 145 LD50) of Yersinia pestis (CO92 strain) was conducted.
 The minimal inhibitory concentration (MIC) of levofloxacin for the Y. pestis strain used in this study was 0.03 mcg/mL.

@@ -2,9 +2,9 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C. Levofloxacin was not teratogenic in rats at oral doses as high as 810 mg/kg/day which corresponds to 9.4 times the highest recommended human dose based upon relative body surface area, or at intravenous doses as high as 160 mg/kg/day corresponding to 1.9 times the highest recommended human dose based upon relative body surface area.
+Pregnancy Category C. Levofloxacin was not teratogenic in rats at oral doses as high as 810 mg/kg/day which corresponds to 9.4 times the highest recommended oral human dose based upon relative body surface area.
 The oral dose of 810 mg/kg/day to rats caused decreased fetal body weight and increased fetal mortality.
-No teratogenicity was observed when rabbits were dosed orally as high as 50 mg/kg/day which corresponds to 1.1 times the highest recommended human dose based upon relative body surface area, or when dosed intravenously as high as 25 mg/kg/day, corresponding to 0.5 times the highest recommended human dose based upon relative body surface area.
+No teratogenicity was observed when rabbits were dosed orally as high as 50 mg/kg/day which corresponds to 1.1 times the highest recommended oral human dose based upon relative body surface area.
 
 There are, however, no adequate and well-controlled studies in pregnant women.
 Levofloxacin should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
@@ -30,15 +30,28 @@ Efficacy studies of levofloxacin could not be conducted in humans with pneumonic
 Therefore, approval of this indication was based on an efficacy study conducted in animals.
 The risk-benefit assessment indicates that administration of levofloxacin to pediatric patients is appropriate [see Indications and Usage (1.8), Dosage and Administration (2.2) and Clinical Studies (14.10)].
 
-Safety and effectiveness in pediatric patients below the age of six months have not been established.
+Safety and effectiveness of levofloxacin tablets in pediatric patients below the age of six months have not been established.
 
-Adverse Events
+Pharmacokinetics following intravenous administration
 
-In clinical trials, 1534 children (6 months to 16 years of age) were treated with oral and intravenous levofloxacin.
-Children 6 months to 5 years of age received levofloxacin10 mg/kg twice a day and children greater than 5 years of age received 10 mg/kg once a day (maximum 500 mg per day) for approximately 10 days.
+The pharmacokinetics of levofloxacin following a single intravenous dose were investigated in pediatric patients ranging in age from six months to 16 years.
+Pediatric patients cleared levofloxacin faster than adult patients resulting in lower plasma exposures than adults for a given mg/kg dose [see Clinical Pharmacology (12.3) and Clinical Studies (14.9)].
 
-A subset of children in the clinical trials (1340 levofloxacin-treated and 893 non-fluoroquinolone-treated) enrolled in a prospective, long-term surveillance study to assess the incidence of protocol-defined musculoskeletal disorders (arthralgia, arthritis, tendinopathy, gait abnormality) during 60 days and 1 year following the first dose of the study drug.
-Children treated with levofloxacin had a significantly higher incidence of musculoskeletal disorders when compared to the non-fluoroquinolone-treated children as illustrated in Table 7.
+Dosage in Pediatric Patients with Inhalational Anthrax or Plague
+
+For the recommended levofloxacin tablet dosage in pediatric patients with inhalational anthrax or plague, see Dosage and Administration (2.2).
+Levofloxacin tablets cannot be administered to pediatric patients who weigh less than 30 kg because of the limitations of the available strengths.
+Alternative formulations of levofloxacin may be considered for pediatric patients who weigh less than 30 kg.
+
+Adverse Reactions
+
+In clinical trials, 1,534 children (6 months to 16 years of age) were treated with oral and intravenous levofloxacin.
+Pediatric patients 6 months to 5 years of age received levofloxacin10 mg/kg twice a day and pediatric patients greater than 5 years of age received 10 mg/kg once a day (maximum 500 mg per day) for approximately 10 days.
+Levofloxacin tablets can only be administered to pediatric patients with inhalational anthrax (post-exposure) or plague who are 30 kg or greater due to the limitations of the available strengths [see Dosage and Administration (2.2)].
+
+A subset of pediatric patients in the clinical trials (1,340 levofloxacin-treated and 893 non-fluoroquinolone-treated) enrolled in a prospective, long-term surveillance study to assess the incidence of protocol-defined musculoskeletal disorders (arthralgia, arthritis, tendinopathy, gait abnormality) during 60 days and 1 year following the first dose of the study drug.
+Pediatric patients treated with levofloxacin had a significantly higher incidence of musculoskeletal disorders when compared to the non-fluoroquinolone-treated children as illustrated in Table 7.
+Levofloxacin tablets can only be administered to pediatric patients with inhalational anthrax (post-exposure) or plague who are 30 kg or greater due to the limitations of the available strengths [see Dosage and Administration (2.2)].
 
 Table 7: Incidence of Musculoskeletal Disorders in Pediatric Clinical Trial
 
@@ -51,18 +64,18 @@ Table 7: Incidence of Musculoskeletal Disorders in Pediatric Clinical Trial
 
 † 2-sided Fisher’s Exact Test
 
-‡There were 1199 levofloxacin-treated and 804 non-fluoroquinolone-treated children who had a one-year evaluation visit.
-However, the incidence of musculoskeletal disorders was calculated using all reported events during the specified period for all children enrolled regardless of whether they completedthe 1-year evaluation visit.
+‡There were 1199 levofloxacin-treated and 804 non-fluoroquinolone-treated pediatric patients who had a one-year evaluation visit.
+However, the incidence of musculoskeletal disorders was calculated using all reported events during the specified period for all pediatric patients enrolled regardless of whether they completedthe 1-year evaluation visit.
 
 Arthralgia was the most frequently occurring musculoskeletal disorder in both treatment groups.
 Most of the musculoskeletal disorders in both groups involved multiple weight-bearing joints.
-Disorders were moderate in 8/46 (17%) children and mild in 35/46 (76%) levofloxacin-treated children and most were treated with analgesics.
-The median time to resolution was 7 days for levofloxacin-treated children and 9 for non-fluoroquinolone-treated children (approximately 80% resolved within 2 months in both groups).
-No child had a severe or serious disorder and all musculoskeletal disorders resolved without sequelae.
+Disorders were moderate in 8/46 (17%) children and mild in 35/46 (76%) levofloxacin-treated pediatric patients and most were treated with analgesics.
+The median time to resolution was 7 days for levofloxacin-treated pediatric patients and 9 for non-fluoroquinolone-treated children (approximately 80% resolved within 2 months in both groups).
+No pediatric patients had a severe or serious disorder and all musculoskeletal disorders resolved without sequelae.
 
-Vomiting and diarrhea were the most frequently reported adverse events, occurring in similar frequency in the levofloxacin-treated and non-fluoroquinolone-treated children.
+Vomiting and diarrhea were the most frequently reported adverse reactions, occurring in similar frequency in the levofloxacin-treated and non-fluoroquinolone-treated pediatric patients.
 
-In addition to the events reported in pediatric patients in clinical trials, events reported in adults during clinical trials or post-marketing experience [seeAdverse Reactions (6)] may also be expected to occur in pediatric patients.
+In addition to the adverse reactions reported in pediatric patients in clinical trials, adverse reactions in adults during clinical trials or post-marketing experience [seeAdverse Reactions (6)] may also be expected to occur in pediatric patients.
 
 ## 8.5 Geriatric Use
 
@@ -89,10 +102,10 @@ Because elderly patients are more likely to have decreased renal function, care 
 
 ## 8.6 Renal Impairment
 
-Clearance of levofloxacin is substantially reduced and plasma elimination half-life is substantially prolonged in patients with impaired renal function (creatinine clearance < 50 mL/min), requiring dosage adjustment in such patients to avoid accumulation.
+Clearance of levofloxacin is substantially reduced and plasma elimination half-life is substantially prolonged in patients with renal impairment (creatinine clearance < 50 mL/min), requiring dosage adjustment in such patients to avoid accumulation.
 Neither hemodialysis nor continuous ambulatory peritoneal dialysis (CAPD) is effective in removal of levofloxacin from the body, indicating that supplemental doses of levofloxacin are not required following hemodialysis or CAPD [seeDosage and Administration (2.3)].
 
 ## 8.7 Hepatic Impairment
 
-Pharmacokinetic studies in hepatically impaired patients have not been conducted.
+Pharmacokinetic studies in in patients with hepatic impairment have not been conducted.
 Due to the limited extent of levofloxacin metabolism, the pharmacokinetics of levofloxacin are not expected to be affected by hepatic impairment.

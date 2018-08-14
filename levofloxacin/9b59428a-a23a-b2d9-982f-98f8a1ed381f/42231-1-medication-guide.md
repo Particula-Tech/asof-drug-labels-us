@@ -4,11 +4,8 @@ Levofloxacin Tablets, 250 mg, 500 mg and 750 mg Tablets
 
 (lee'' voe flox' a sin)
 
-Read this Medication Guide before you start taking levofloxacin tablets and each time you get a refill.
-There may be new information.
-This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or your treatment.
-
 What is the most important information I should know about levofloxacin tablets?
+
 Levofloxacin tablets, a fluoroquinolone antibiotic, can cause serious side effects.
 Some of these serious side effects can happen at the same time and could result in death.
 
@@ -19,8 +16,10 @@ Tendon rupture or swelling of the tendon (tendinitis).
 
 - Tendon problems can happen in people of all ages who takelevofloxacin tablets.
   Tendons are tough cords of tissue that connect muscles to bones.
-
-Some tendon problems include pain, swelling, tears, and swelling of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites.
+  Some tendon problems include:
+  - pain
+  - swelling
+  - tears and swelling of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites.
 
 - The risk of getting tendon problems while you take levofloxacin if you:
   - are over 60 years of age
@@ -35,15 +34,13 @@ Some tendon problems include pain, swelling, tears, and swelling of tendons incl
 
 - Stop taking levofloxacin tablets immediately and get medical help right away at the first sign of tendon pain, swelling or inflammation.
   Avoid exercise and using the affected area.
-
-The most common area of pain and swelling is the Achilles tendon at the back of your ankle.
-This can also happen with other tendons.
-Talk to your healthcare provider about the risk of tendon rupture with continued use of levofloxacin tablets.
-You may need a different antibiotic that is not a fluoroquinolone to treat your infection.
+- The most common area of pain and swelling is the Achilles tendon at the back of your ankle.
+  This can also happen with other tendons.
+  You may need a different antibiotic that is not a fluoroquinolone to treat your infection.
 
 - Tendon rupture can happen while you are taking or after you have finished taking levofloxacin tablets.
   Tendon ruptures can happen within hours or days of taking levofloxacin tablets and have happened up to several months after people have finished taking their fluoroquinolone.
-- · Stop taking levofloxacin tablets immediately and get medical help right away if you get any of the following signs or symptoms of a tendon rupture:
+- Stop taking levofloxacin tablets immediately and get medical help right away if you get any of the following signs or symptoms of a tendon rupture:
   - hear or feel a snap or pop in a tendon area
   - bruising right after an injury in a tendon area
   - unable to move the affected area or bear weight
@@ -94,12 +91,14 @@ Stop taking levofloxacin tablets immediately and talk to your healthcare provide
 
 • feel more suspicious (paranoia)
 
-• suicidal thoughts or acts headaches that will not go away, with or without blurred vision
+• suicidal thoughts or acts
+
+• headaches that will not go away, with or without blurred vision
 
 4.
 Worsening of myasthenia gravis (a problem that causes muscle weakness).
 Fluoroquinolones like levofloxacin tablets may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
-Tell your healthcare provider if you have a history of myasthenia gravis before you start levofloxacin tablets.
+Tell your healthcare provider if you have a history of myasthenia gravis before you start taking levofloxacin tablets.
 Call your healthcare provider right away if you have any worsening muscle weakness or breathing problems.
 
 What are levofloxacin tablets?
@@ -109,20 +108,20 @@ These bacterial infections include:
 
 - nosocomial pneumonia
 - community-acquired pneumonia
-- acute sinus infection
-- acute worsening of chronic bronchitis
 - skin infections, complicated and uncomplicated
 - chronic prostate infection
+- inhalation anthrax germs
+- plague
 - urinary tract infections, complicated and uncomplicated
 - acute kidney infection (pyelonephritis)
-- inhalation anthrax
-- plague
+- acute sinus infection
+- acute worsening of chronic bronchitis
 
 Studies of levofloxacin tablets for use in the treatment of plague and anthrax were done in animals only, because plague and anthrax could not be studied in people.
 
 Levofloxacin tablets should not be used in patients with uncomplicated urinary tract infections, acute bacterial exacerbation of chronic bronchitis, or acute bacterial sinusitis if there are other treatment options available.
 
-Levofloxacin tablets are also used to treat children who are 6 months of age or older and may have breathed in anthrax germs, have plague, or been exposed to plague germs.
+Levofloxacin tablets are also used to treat children who weigh at least 66 pounds (or at least 30 kilograms) and may have breathed in anthrax germs, have plague, or been exposed to plague germs.
 
 It is not known if levofloxacin tablets are safe and effective in children under 6 months of age.
 
@@ -133,12 +132,10 @@ Who should not take levofloxacin tablets?
 Do not take levofloxacin tablets if you have ever had a severe allergic reaction to an antibiotic known as a fluoroquinolone, or if you are allergic to levofloxacin or any of the ingredients in levofloxacin tablets.
 See the end of this leaflet for a complete list of ingredients in levofloxacin tablets.
 
-What should I tell my healthcare provider before taking levofloxacin tablets?
+Before you take levofloxacin tablets, tell your healthcare provider about all of your medical conditions, including if you:
 
-Before you take levofloxacin tablets, tell your healthcare provider if you:
-
-- have tendon problems; levofloxacin tablets should not be used in patients who have a history of tendon problems
-- have a problem that causes muscle weakness (myasthenia gravis); levofloxacin tablets should not be used in patients who have a known history of myasthenia gravis
+- have tendon problems; levofloxacin tablets should not be used in people who have a history of tendon problems
+- have a problem that causes muscle weakness (myasthenia gravis); levofloxacin tablets should not be used in people who have a known history of myasthenia gravis
 - have central nervous system problems such as seizures (epilepsy)
 - have nerve problems; levofloxacin tablets should not be used in patients who have a history of a nerve problem called peripheral neuropathy
 - have or anyone in your family has an irregular heartbeat, especially a condition called “QT prolongation.”
@@ -156,7 +153,7 @@ Before you take levofloxacin tablets, tell your healthcare provider if you:
   You and your healthcare provider should decide if you will take levofloxacin tablets or breastfeed.
   You should not do both.
 
-Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
 Levofloxacin tablets and other medicines can affect each other causing side effects.
 
@@ -167,7 +164,7 @@ Especially tell your healthcare provider if you take:
 - a tricyclic antidepressant
 - a water pill (diuretic)
 - certain medicines may keep levofloxacin tablets from working correctly.
-  Take levofloxacin Tablets either 2 hours before or 2 hours after taking these medicines or supplements:
+  Take levofloxacin tablets either 2 hours before or 2 hours after taking these medicines or supplements:
   - an antacid, multivitamin, or other medicines or supplements that have magnesium, aluminum, iron, or zinc
   - sucralfate (Carafate®)
   - didanosine (Videx®,Videx® EC)
@@ -224,19 +221,21 @@ What should I avoid while taking levofloxacin tablets?
 
 What are the possible side effects of levofloxacin tablets?
 
-Levofloxacin tablets can cause serious side effects, including:
+Levofloxacin tablets may cause serious side effects, including:
 
 - See “What is the most important information I should know about levofloxacin tablets?”
 
 - Serious allergic reactions.
-  Allergic reactions can happen in people taking fluoroquinolones, including levofloxacin tablets, even after only 1 dose.
-  Stop taking levofloxacin tablets and get emergency medical help right away if you have any of the following symptoms of a severe allergic reaction:
-  - hives
-  - trouble breathing or swallowing
-  - swelling of the lips, tongue, facethroat tightness, hoarseness
-  - rapid heartbeat
-  - faint
-  - skin rash
+
+Allergic reactions can happen in people taking fluoroquinolones, including levofloxacin tablets, even after only 1 dose.
+Stop taking levofloxacin tablets and get emergency medical help right away if you have any of the following symptoms of a severe allergic reaction:
+
+- hives
+- trouble breathing or swallowing
+- swelling of the lips, tongue, facethroat tightness, hoarseness
+- rapid heartbeat
+- faint
+- skin rash
 
 Skin rash may happen in people taking levofloxacin tablets, even after only 1 dose.
 Stop taking levofloxacin tablets at the first sign of a skin rash and immediately call your healthcare provider.
@@ -305,16 +304,15 @@ Levofloxacin tablets may cause false-positive urine screening results for opiate
 A positive result should be confirmed using a more specific test.
 
 These are not all the possible side effects of levofloxacin tablets.
-Tell your healthcare provider about any side effect that bothers you or that does not go away.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store levofloxacin tablets?
 
-Levofloxacin tablets should be stored at 20° to 25°C (68° to 77°F) [See Controlled Room Temperature] in well-closed containers.
+Store levofloxacin tablets at 20° to 25°C (68° to 77°F).
 
-Keep levofloxacin tablets and all medicines out of the reach of children.
+Keep levofloxacin tablets in a tightly closed container.
 
 General Information about the safe and effective use of levofloxacin tablets
 
@@ -333,7 +331,7 @@ What are the ingredients in levofloxacin tablets?
 
 Levofloxacin Film-Coated Tablets:
 
-Active ingredient: Levofloxacin USP
+Active ingredient: Levofloxacin
 
 Inactive ingredients:
 
@@ -353,6 +351,6 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 0317
+Revised: 0718
 
 Dispense the Medication Guide available at: www.drreddys.com/medguide/levofloxacintabs.pdf

@@ -2,8 +2,6 @@
 
 ## 7.1 Chelation Agents: Antacids, Sucralfate, Metal Cations, Multivitamins
 
-Levofloxacin Tablets
-
 While the chelation by divalent cations is less marked than with other fluoroquinolones, concurrent administration of levofloxacin tablets with antacids containing magnesium, or aluminum, as well as sucralfate, metal cations such as iron, and multivitamin preparations with zinc may interfere with the gastrointestinal absorption of levofloxacin, resulting in systemic levels considerably lower than desired.
 Tablets with antacids containing magnesium, aluminum, as well as sucralfate, metal cations such as iron, and multivitamins preparations with zinc or didanosine may substantially interfere with the gastrointestinal absorption of levofloxacin, resulting in systemic levels considerably lower than desired.
 These agents should be taken at least two hours before or two hours after oral levofloxacin administration.
@@ -15,12 +13,12 @@ Similarly, no apparent effect of warfarin on levofloxacin absorption and disposi
 However, there have been reports during the postmarketing experience in patients that levofloxacin enhances the effects of warfarin.
 Elevations of the prothrombin time in the setting of concurrent warfarin and levofloxacin use have been associated with episodes of bleeding.
 Prothrombin time, International Normalized Ratio (INR), or other suitable anticoagulation tests should be closely monitored if levofloxacin is administered concomitantly with warfarin.
-Patients should also be monitored for evidence of bleeding [see Adverse Reactions (6.3); Patient Counseling Information (17.4)].
+Patients should also be monitored for evidence of bleeding [see Adverse Reactions (6.3) and Patient Counseling Information (17)].
 
 ## 7.3 Antidiabetic Agents
 
 Disturbances of blood glucose, including hyperglycemia and hypoglycemia, have been reported in patients treated concomitantly with fluoroquinolones and an antidiabetic agent.
-Therefore, careful monitoring of blood glucose is recommended when these agents are co-administered [see Warnings and Precautions (5.12); Adverse Reactions (6.2), Patient Counseling Information (17.4)].
+Therefore, careful monitoring of blood glucose is recommended when these agents are co-administered [see Warnings and Precautions (5.12), Adverse Reactions (6.2) and Patient Counseling Information (17)].
 
 ## 7.4 Non-Steroidal Anti-Inflammatory Drugs
 
@@ -31,7 +29,7 @@ The concomitant administration of a non-steroidal anti-inflammatory drug with a 
 No significant effect of levofloxacin on the plasma concentrations, AUC, and other disposition parameters for theophylline was detected in a clinical study involving healthy volunteers.
 Similarly, no apparent effect of theophylline on levofloxacin absorption and disposition was observed.
 However, concomitant administration of other fluoroquinolones with theophylline has resulted in prolonged elimination half-life, elevated serum theophylline levels, and a subsequent increase in the risk of theophylline-related adverse reactions in the patient population.
-Therefore, theophylline levels should be closely monitored and appropriate dosage adjustments made when levofloxacin is coadministered.
+Therefore, theophylline levels should be closely monitored and appropriate dosage adjustments made when levofloxacin is co-administered.
 Adverse reactions, including seizures, may occur with or without an elevation in serum theophylline levels [see Warnings and Precautions (5.4)]
 
 ## 7.6 Cyclosporine

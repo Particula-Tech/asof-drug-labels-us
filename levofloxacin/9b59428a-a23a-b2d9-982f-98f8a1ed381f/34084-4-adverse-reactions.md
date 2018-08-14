@@ -39,7 +39,7 @@ Therefore, adequate hydration of patients receiving levofloxacin should be maint
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The data described below reflect exposure to levofloxacin in 7537 patients in 29 pooled Phase 3 clinical trials.
+The data described below reflect exposure to levofloxacin in 7,537 patients in 29 pooled Phase 3 clinical trials.
 The population studied had a mean age of 50 years (approximately 74% of the population was < 65 years of age), 50% were male, 71% were Caucasian, 19% were Black.
 Patients were treated with levofloxacin for a wide variety of infectious diseases [see Indications and Usage (1)].
 Patients received levofloxacin doses of 750 mg once daily, 250 mg once daily, or 500 mg once or twice daily.
@@ -53,7 +53,7 @@ The most common adverse drug reactions leading to discontinuation with the 750 m
 Adverse reactions occurring in ≥1% of levofloxacin-treated patients and less common adverse reactions, occurring in 0.1 to <1% of levofloxacin-treated patients, are shown in Table 4 and Table 5, respectively.
 The most common adverse drug reactions (≥3%) are nausea, headache, diarrhea, insomnia, constipation, and dizziness.
 
-Table 4: Common (≥1%) Adverse Reactions Reported in Clinical Trials with levofloxacin
+Table 4: Common (≥1%) Adverse Reactions Reported in Clinical Trials with Levofloxacin#
 
 | System/Organ Class | Adverse Reaction | % (N=7537) |
 | --- | --- | --- |
@@ -65,9 +65,9 @@ Table 4: Common (≥1%) Adverse Reactions Reported in Clinical Trials with levof
 | Skin and SubcutaneousTissue Disorders | rash [see Warnings and Precautions (5.7)]ruritus | 21 |
 | Reproductive System andBreast Disorders | vaginitis | 1† |
 | General Disorders andAdministration SiteConditions | edemainjection site reaction chest pain | 111 |
-| * N = 7274† N=3758 (women) |  |  |
+| * N = 7274 † N=3758 (women)# pool of studies included IV and oral administration |  |  |
 
-Table 5: Less Common (0.1 to 1%) Adverse Reactions Reported in Clinical Trials with levofloxacin (N=7537)
+Table 5: Less Common (0.1 to 1%) Adverse Reactions Reported in Clinical Trials with Levofloxacin (N=7537)
 
 | System/Organ Class | Adverse Reaction |
 | --- | --- |
