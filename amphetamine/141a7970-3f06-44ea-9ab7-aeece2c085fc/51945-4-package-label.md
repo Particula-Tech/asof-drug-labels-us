@@ -18,10 +18,6 @@ CII Rx only
 
 Shire
 
-018576
-
-LOT EXP.
-
 # PRINCIPAL DISPLAY PANEL - 25 mg Capsule Bottle Label
 
 ONCE-DAILY NDC 54092-471-01
@@ -41,10 +37,6 @@ Do not substitute for Adderall XR.
 CII Rx only
 
 Shire
-
-018577
-
-LOT EXP.
 
 # PRINCIPAL DISPLAY PANEL - 37.5 mg Capsule Bottle Label
 
@@ -66,10 +58,6 @@ CII Rx only
 
 Shire
 
-018578
-
-LOT EXP.
-
 # PRINCIPAL DISPLAY PANEL - 50 mg Capsule Bottle Label
 
 ONCE-DAILY NDC 54092-477-01
@@ -89,7 +77,3 @@ Do not substitute for Adderall XR.
 CII Rx only
 
 Shire
-
-018579
-
-LOT EXP.
