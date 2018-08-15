@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA212319"
+  ],
   "inn": "atropine",
   "labeler": "Rafa Laboratories, Ltd.",
   "package_ndcs": [
@@ -10,17 +12,17 @@
   "products": [
     {
       "form": "INJECTION",
+      "generic": "atropine injection, 2 mg",
+      "name": "N/A"
+    },
+    {
+      "form": "INJECTION",
       "generic": "atropine sulfate injection usp, 0.5 mg/0.7 ml",
       "name": "N/A"
     },
     {
       "form": "INJECTION",
       "generic": "atropine sulfate injection usp, 1 mg/0.7 ml",
-      "name": "N/A"
-    },
-    {
-      "form": "INJECTION",
-      "generic": "atropine sulfate injection usp, 2 mg/0.7 ml",
       "name": "N/A"
     }
   ],
