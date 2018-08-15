@@ -7,6 +7,7 @@ The following serious adverse reactions are described below and elsewhere in lab
 - •Bone Fracture [see Warnings and Precautions (5.4)]
 - •Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)]
 - •Hypomagnesemia [see Warnings and Precautions (5.7)]
+- •Fundic Gland Polyps [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience with Intravenous NEXIUM
 
@@ -24,7 +25,7 @@ The population was 18 to 77 years of age; 45% Male, 52% Caucasian, 17% Black, 3%
 Most patients received doses of either 20 or 40 mg either as an infusion or an injection.
 Adverse reactions occurring in ≥1% of patients treated with intravenous esomeprazole (n=359) in clinical trials are listed below:
 
-Table 2: Adverse Reactions Occurring at an Incidence ≥1% in the NEXIUM I.V.
+Table 2: Adverse Reactions Occurring at an Incidence ≥ 1% in the NEXIUM I.V.
 Group
 
 | Adverse Reactions | % of patients Esomeprazole Intravenous (n=359) |
@@ -45,14 +46,14 @@ Intravenous treatment with esomeprazole 20 and 40 mg-administered as an injectio
 Pediatric
 
 A randomized, open-label, multi-national study to evaluate the pharmacokinetics of repeated intravenous doses of once daily esomeprazole in pediatric patients 1 month to 17 years old, inclusive was performed.
-The safety results are consistent with the known safety profile of esomeprazole and no unexpected safety signals were identified [seeClinical Pharmacology (12.3)].
+The safety results are consistent with the known safety profile of esomeprazole and no unexpected safety signals were identified [see Clinical Pharmacology (12.3)].
 
 Risk Reduction of Rebleeding of Gastric or Duodenal Ulcers in Adults
 
 The data described below reflect exposure to NEXIUM I.V. for Injection in 375 patients.
 NEXIUM I.V. for Injection was studied in a placebo-controlled trial.
 Patients were randomized to receive NEXIUM I.V. for Injection (n=375) or placebo (n=389).
-The population was 18 to 98 years old; 68% Male, 87% Caucasian, 1% Black, 7% Asian, 4% Other, who presented with endoscopically confirmed gastric or duodenal ulcer bleeding.
+The population was 18 to 98 years old; 68% Male, 87% Caucasian, 1% Black, 7% Asian, 4% other, who presented with endoscopically confirmed gastric or duodenal ulcer bleeding.
 Following endoscopic hemostasis, patients received either 80 mg esomeprazole as an intravenous infusion over 30 minutes followed by a continuous infusion of 8 mg per hour or placebo for a total treatment duration of 72 hours.
 After the initial 72-hour period, all patients received oral proton pump inhibitor (PPI) for 27 days.
 
@@ -77,6 +78,6 @@ Because these reactions are reported voluntarily from a population of uncertain 
 Postmarketing Reports - There have been spontaneous reports of adverse events with postmarketing use of esomeprazole.
 These reports occurred rarely and are listed below by body system:
 
-Blood And Lymphatic System Disorders: agranulocytosis, pancytopenia; Eye Disorders: blurred vision; Gastrointestinal Disorders: pancreatitis; stomatitis; microscopic colitis; Hepatobiliary Disorders: hepatic failure, hepatitis with or without jaundice; Immune System Disorders: anaphylactic reaction/shock; systemic lupus erythematosus; Infections and Infestations: GI candidiasis; Metabolism and nutritional disorders: hypomagnesemia with or without hypocalcemia and/or hypokalemia; Musculoskeletal And Connective Tissue Disorders: muscular weakness, myalgia, bone fracture; Nervous System Disorders: hepatic encephalopathy, taste disturbance; Psychiatric Disorders: aggression, agitation, depression, hallucination; Renal and Urinary Disorders: interstitial nephritis; Reproductive System and Breast Disorders: gynecomastia; Respiratory, Thoracic and Mediastinal Disorders: bronchospasm; Skin and Subcutaneous Tissue Disorders: alopecia, erythema multiforme, hyperhidrosis, photosensitivity, Stevens-Johnson syndrome, toxic epidermal necrolysis (TEN, some fatal), cutaneous lupus erythematosus.
+Blood And Lymphatic System Disorders: agranulocytosis, pancytopenia; Eye Disorders: blurred vision; Gastrointestinal Disorders: pancreatitis; stomatitis; microscopic colitis; fundic gland polyps; Hepatobiliary Disorders: hepatic failure, hepatitis with or without jaundice; Immune System Disorders: anaphylactic reaction/shock; systemic lupus erythematosus; Infections and Infestations: GI candidiasis; Metabolism and nutritional disorders: hypomagnesemia with or without hypocalcemia and/or hypokalemia; Musculoskeletal And Connective Tissue Disorders: muscular weakness, myalgia, bone fracture; Nervous System Disorders: hepatic encephalopathy, taste disturbance; Psychiatric Disorders: aggression, agitation, depression, hallucination; Renal and Urinary Disorders: interstitial nephritis; Reproductive System and Breast Disorders: gynecomastia; Respiratory, Thoracic and Mediastinal Disorders: bronchospasm; Skin and Subcutaneous Tissue Disorders: alopecia, erythema multiforme, hyperhidrosis, photosensitivity, Stevens-Johnson syndrome, toxic epidermal necrolysis (TEN, some fatal), cutaneous lupus erythematosus.
 
 Other adverse events not observed with NEXIUM, but occurring with omeprazole can be found in the omeprazole package insert, ADVERSE REACTIONS section.

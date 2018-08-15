@@ -76,7 +76,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of NEXIUM I.V. for Injection have been established in pediatric patients 1 month to 17 years of age for short-term treatment of GERD with Erosive Esophagitis [seeClinical Pharmacology (12.3)].
+The safety and effectiveness of NEXIUM I.V. for Injection have been established in pediatric patients 1 month to 17 years of age for short-term treatment of GERD with Erosive Esophagitis [see Clinical Pharmacology (12.3)].
 However, effectiveness has not been established in patients less than 1 month of age.
 
 1 month to 17 years of age
@@ -93,18 +93,18 @@ The safety and effectiveness of NEXIUM I.V. in neonates have not been establishe
 Juvenile Animal Data
 
 In a juvenile rat toxicity study, esomeprazole was administered with both magnesium and strontium salts at oral doses about 34 to 68 times a daily human dose of 40 mg based on body surface area.
-Increases in death were seen at the high dose, and at all doses of esomeprazole, there were decreases in body weight, body weight gain, femur weight and femur length, and decreases in overall growth [seeNonclinical Toxicology (13.2)].
+Increases in death were seen at the high dose, and at all doses of esomeprazole, there were decreases in body weight, body weight gain, femur weight and femur length, and decreases in overall growth [see Nonclinical Toxicology (13.2)].
 
 ## 8.5 Geriatric Use
 
-Of the total number of patients who received oral NEXIUM in clinical trials, 1,459 were 65 to 74 years of age and 354 patients were ≥75 years of age.
+Of the total number of patients who received oral NEXIUM in clinical trials, 1,459 were 65 to 74 years of age and 354 patients were ≥ 75 years of age.
 
 No overall differences in safety and efficacy were observed between the elderly and younger individuals, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
 ## 8.6 Hepatic Impairment
 
-For adult patients with GERD, no dosage adjustment is necessary in patients with mild to moderate hepatic insufficiency (Child‑Pugh Classes A and B). For patients with severe hepatic insufficiency (Child‑Pugh Class C) a dose of 20 mg once daily should not be exceeded [seeDosage and Administration (2), Clinical Pharmacology (12.3)].
+For adult patients with GERD, no dosage adjustment is necessary in patients with mild to moderate hepatic insufficiency (Child‑Pugh Classes A and B). For patients with severe hepatic insufficiency (Child‑Pugh Class C) a dose of 20 mg once daily should not be exceeded [see Dosage and Administration (2), Clinical Pharmacology (12.3)].
 
 For adult patients with bleeding gastric or duodenal ulcers and liver impairment, no dosage adjustment of the initial esomeprazole 80 mg infusion is necessary.
 For adult patients with mild to moderate liver impairment (Child‑Pugh Classes A and B), a maximum continuous infusion of esomeprazole 6 mg/h should not be exceeded.
-For adult patients with severe liver impairment (Child‑Pugh Class C), a maximum continuous infusion of 4 mg/h should not be exceeded [seeDosage and Administration (2.2), Clinical Pharmacology (12.3)].
+For adult patients with severe liver impairment (Child‑Pugh Class C), a maximum continuous infusion of 4 mg/h should not be exceeded [see Dosage and Administration (2.2), Clinical Pharmacology (12.3)].

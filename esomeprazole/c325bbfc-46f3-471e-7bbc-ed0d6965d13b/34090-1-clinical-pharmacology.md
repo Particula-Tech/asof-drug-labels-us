@@ -25,10 +25,10 @@ Table 4: Effect of NEXIUM I.V. for Injection on Intragastric pH on Day 5
 
 Gastric pH was measured over a 24-hour period
 
-In a study in H. pylori negative healthy Caucasian volunteers (n=24), the % time over 24 hours (95 % CI) when intragastric pH was >6 and >7 was 52.3 % (40.3 – 64.4) and 4.8 % (1.8 – 7.8), respectively during administration of esomeprazole as an intravenous infusion of 80 mg over 30 minutes followed by a continuous infusion of 8 mg/h for 23.5 hours.
+In a study in H. pylori negative healthy Caucasian volunteers (n=24), the % time over 24 hours (95 % CI) when intragastric pH was > 6 and > 7 was 52.3 % (40.3 – 64.4) and 4.8 % (1.8 – 7.8), respectively during administration of esomeprazole as an intravenous infusion of 80 mg over 30 minutes followed by a continuous infusion of 8 mg/h for 23.5 hours.
 
-In a study in H. pylori positive and H. pylori negative healthy Chinese subjects (overall n=19), the % time over 24 hours (95 % CI) when intragastric pH was >6 and >7 was 53 % (45.6 – 60.3) and 15.1 % (9.5 – 20.7) in the overall study population during administration of esomeprazole as an intravenous infusion of 80 mg over 30 minutes followed by a continuous infusion of 8 mg/h for 23.5 hours.
-When comparing H. pylori positive (n=8) vs. negative (n=11) subjects, the percentage of time in a 24 h period with intragastric pH >6 [59 % vs. 47 %] and with pH >7 [17 % vs. 11 %] tended to be larger in the H. pylori positive subjects.
+In a study in H. pylori positive and H. pylori negative healthy Chinese subjects (overall n=19), the % time over 24 hours (95 % CI) when intragastric pH was > 6 and > 7 was 53 % (45.6 – 60.3) and 15.1 % (9.5 – 20.7) in the overall study population during administration of esomeprazole as an intravenous infusion of 80 mg over 30 minutes followed by a continuous infusion of 8 mg/h for 23.5 hours.
+When comparing H. pylori positive (n=8) vs. negative (n=11) subjects, the percentage of time in a 24 h period with intragastric pH > 6 [59 % vs. 47 %] and with pH > 7 [17 % vs. 11 %] tended to be larger in the H. pylori positive subjects.
 
 Serum Gastrin Effects
 
@@ -44,7 +44,7 @@ Enterochromaffin-like (ECL) Cell Effects
 
 There are no data available on the effects of intravenous esomeprazole on ECL cells.
 
-In 24-month carcinogenicity studies of oral omeprazole in rats, a dose-related significant occurrence of gastric ECL cell carcinoid tumors and ECL cell hyperplasia was observed in both male and female animals [seeNonclinical Toxicology (13.1)].
+In 24-month carcinogenicity studies of oral omeprazole in rats, a dose-related significant occurrence of gastric ECL cell carcinoid tumors and ECL cell hyperplasia was observed in both male and female animals [see Nonclinical Toxicology (13.1)].
 Carcinoid tumors have also been observed in rats subjected to fundectomy or long-term treatment with other proton pump inhibitors or high doses of H2-receptor antagonists.
 
 Human gastric biopsy specimens have been obtained from more than 3,000 patients (both children and adults) treated orally with omeprazole in long-term clinical trials.
@@ -69,11 +69,11 @@ The results are shown in the following table:
 Table 5: Pharmacokinetic Parameters of NEXIUM Following I.V.
 Dosing for 5 days
 
-| Parameter | NEXIUM I.V.20 mg | NEXIUM I.V.40 mg |
-| --- | --- | --- |
-| AUC (μmol*h/L) | 5.11(3.96:6.61) | 16.21(14.46:18.16) |
-| Cmax (μmol/L) | 3.86(3.16:4.72) | 7.51(6.93:8.13) |
-| t1/2 (h) | 1.05(0.90:1.22) | 1.41(1.30:1.52) |
+| Parameter |  | NEXIUM I.V.20 mg | NEXIUM I.V.40 mg |
+| --- | --- | --- | --- |
+| AUC (μmol*h/L) |  | 5.11(3.96:6.61) | 16.21(14.46:18.16) |
+| Cmax (μmol/L) |  | 3.86(3.16:4.72) | 7.51(6.93:8.13) |
+| t1/2 (h) |  | 1.05(0.90:1.22) | 1.41(1.30:1.52) |
 
 Values represent the geometric mean (95% CI)
 
@@ -149,7 +149,7 @@ Hepatic Impairment
 In oral studies, the steady state pharmacokinetics of esomeprazole obtained after administration of 40 mg once daily to 4 patients each with mild (Child‑Pugh Class A), moderate (Child‑Pugh Class B), and severe (Child‑Pugh Class C) liver insufficiency were compared to those obtained in 36 male and female GERD patients with normal liver function.
 In patients with mild and moderate hepatic insufficiency, the AUCs were within the range that could be expected in patients with normal liver function.
 In patients with severe hepatic insufficiency the AUCs were 2 to 3 times higher than in the patients with normal liver function.
-No dosage adjustment is recommended for patients with mild to moderate hepatic insufficiency (Child‑Pugh Classes A and B). However, in patients with severe hepatic insufficiency (Child‑Pugh Class C) a maximum dose of 20 mg once daily should not be exceeded [seeDosage and Administration (2), Use in Specific Populations (8.6)].
+No dosage adjustment is recommended for patients with mild to moderate hepatic insufficiency (Child‑Pugh Classes A and B). However, in patients with severe hepatic insufficiency (Child‑Pugh Class C) a maximum dose of 20 mg once daily should not be exceeded [see Dosage and Administration (2), Use in Specific Populations (8.6)].
 
 There are no pharmacokinetic data available for esomeprazole administered as continuous intravenous administration in patients with liver impairment.
 The pharmacokinetics of omeprazole 80 mg over 30 minutes, followed by 8 mg/h over 47.5 hours in patients with mild (Child‑Pugh Class A; n=5), moderate (Child‑Pugh Class B; n=4) and severe (Child‑Pugh Class C; n=3) liver impairment were compared to those obtained in 24 male and female healthy volunteers.
@@ -158,7 +158,7 @@ In patients with severe liver impairment, the omeprazole clearance was 50% of th
 
 For adult patients with bleeding gastric or duodenal ulcers and liver impairment, no dosage adjustment of the initial esomeprazole 80 mg infusion is necessary.
 For adult patients with mild to moderate liver impairment (Child‑Pugh Classes A and B), a maximum continuous infusion of esomeprazole 6 mg/h should not be exceeded.
-For adult patients with severe liver impairment (Child‑Pugh Class C), a maximum continuous infusion of 4 mg/h should not be exceeded [seeDosage and Administration (2.2), Use in Specific Populations (8.6)].
+For adult patients with severe liver impairment (Child‑Pugh Class C), a maximum continuous infusion of 4 mg/h should not be exceeded [see Dosage and Administration (2.2), Use in Specific Populations (8.6)].
 
 Renal Impairment
 

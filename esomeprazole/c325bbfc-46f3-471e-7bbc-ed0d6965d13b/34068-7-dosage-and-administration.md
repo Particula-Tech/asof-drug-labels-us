@@ -27,7 +27,7 @@ Adult Patients
 The recommended adult dose is either 20 mg or 40 mg NEXIUM given once daily by intravenous injection (no less than 3 minutes) or intravenous infusion (10 minutes to 30 minutes).
 Safety and efficacy of NEXIUM I.V. for Injection as a treatment of GERD patients with erosive esophagitis for more than 10 days have not been demonstrated.
 
-Dosage adjustment is not required in patients with mild to moderate liver impairment (Child‑Pugh Classes A and B). For patients with severe liver impairment (Child‑Pugh Class C), a maximum dose of 20 mg once daily of NEXIUM should not be exceeded [seeUse in Specific Populations (8.6), Clinical Pharmacology (12.3)].
+Dosage adjustment is not required in patients with mild to moderate liver impairment (Child‑Pugh Classes A and B). For patients with severe liver impairment (Child‑Pugh Class C), a maximum dose of 20 mg once daily of NEXIUM should not be exceeded [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
 Pediatric Patients
 
@@ -57,7 +57,7 @@ General Information
 
 The reconstituted solution of Nexium I.V. should be stored at room temperature up to 30°C (86°F) and administered within 12 hours after reconstitution.
 (Administer within 6 hours if 5% Dextrose Injection is used after reconstitution).
-No refrigeration is required [seeDosage and Administration (2), Table 1].
+No refrigeration is required [see Dosage and Administration (2), Table 1].
 
 Gastroesophageal Reflux Disease (GERD) with Erosive Esophagitis
 
