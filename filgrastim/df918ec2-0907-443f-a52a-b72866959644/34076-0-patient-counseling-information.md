@@ -56,11 +56,9 @@ Inform lactating women that filgrastim was detected in breast milk for up to 3 d
 
 See FDA-Approved Patient Labeling (Patient Information) and Instructions for Use
 
-TBO-006
+TBO-007
 
-©2014-2017 Cephalon, Inc., a wholly owned subsidiary of Teva Pharmaceutical Industries Ltd. All rights reserved.
-
-GRANIX is a trademark of Teva Pharmaceutical Industries Ltd.
+©2014-2018 Cephalon, Inc., a wholly owned subsidiary of Teva Pharmaceutical Industries Ltd. All rights reserved.
 
 Manufactured by:
 
@@ -77,5 +75,3 @@ Teva Pharmaceuticals USA, Inc.
 North Wales, PA 19454
 
 Product of Israel
-
-Revision 06/2017

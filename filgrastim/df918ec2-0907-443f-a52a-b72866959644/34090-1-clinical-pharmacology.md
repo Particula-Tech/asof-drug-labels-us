@@ -8,29 +8,42 @@ G-CSF is known to stimulate differentiation commitment and some end-cell functio
 
 ## 12.2 Pharmacodynamics
 
-In the clinical trials of patients with cancer, the time to the ANCmax was between 3 to 5 days and returned to baseline by 21 days following completion of chemotherapy.
-In the healthy volunteer trials, doubling the tbo-filgrastim subcutaneous dose from 5 to 10 mcg/kg resulted in a 16%-19% increase in the ANCmax and a 33%-36% increase in the area under the effect curve for ANC.
+The time to the maximum ANC level was between 3 to 5 days and returned to baseline by 21 days following completion of chemotherapy.
+Doubling the tbo-filgrastim subcutaneous dose from 5 mcg/kg to 10 mcg/kg resulted in a 16% to 19% increase in the maximum ANC level and a 33% to 36% increase in the area under the effect curve for ANC.
 
 Cardiac Electrophysiology
 
-At the maximum recommended intravenous dose of 5 μg/kg, tbo-filgrastim did not prolong the QT interval to any clinically relevant extent.
+At an intravenous dose of 5 mcg/kg, tbo-filgrastim did not prolong the QT interval to any clinically relevant extent.
 
 ## 12.3 Pharmacokinetics
 
-In healthy subjects, the absolute bioavailability of 5 mcg/kg subcutaneous tbo-filgrastim was 33%.
-Increasing the dose of tbo-filgrastim from 5 to 10 mcg/kg in these healthy subjects resulted in an approximately 200% increase in both the maximum concentration (Cmax) and the area under the curve (AUC0-48h) of the drug.
+Tbo-filgrastim exhibits nonlinear pharmacokinetics.
+Increasing the dose of subcutaneous GRANIX from 5 to 10 mcg/kg resulted in an approximate 2.5-fold increase in the maximum serum concentration (Cmax) and 3.0-fold increase in the area under the curve (AUC).
+In adult patients enrolled across three studies, subcutaneous GRANIX 5 mcg/kg resulted in median time to maximal serum tbo-filgrastim concentrations (Tmax) within 4 to 6 hours.
+Geometric mean [coefficient of variation (CV%)] serum Cmax was 20 to 31 ng/mL [24% to 65%] within 4 to 6 hours.
+Geometric mean serum tbo-filgrastim area under the curve (AUC0-12h) ranged from 151 to 227 ng/mL*h [24%-60%].
+No accumulation in serum tbo-filgrastim concentrations was observed after multiple dosing.
 
-In the clinical trials of patients with cancer, the AUC and Cmax were greater and more variable compared to healthy volunteers receiving the same dose of tbo-filgrastim subcutaneously.
-The median time to maximum concentration was between 4 to 6 hours and the median elimination half-life was between 3.2 to 3.8 hours.
-Accumulation was not observed after repeated dosing.
+Absorption
 
-Pharmacokinetics in Specific Populations
+The absolute bioavailability of 5 mcg/kg subcutaneous tbo-filgrastim was 33%.
 
-Age: Not evaluated.
+Metabolism/Elimination
 
-Gender: No gender-related differences were observed.
+Tbo-filgrastim clearance is primarily dependent on G-CSF receptor-mediated clearance which can be saturated by high serum concentrations of tbo-filgrastim and diminished in neutropenia.
+The median serum elimination half-life of tbo-filgrastim (5 mcg/kg sc) was 3.0 to 3.5 hours.
 
-Renal Impairment: Mild renal impairment (creatinine clearance 60 - 89 mL/min) had no effect on tbo-filgrastim pharmacokinetics (N=11).
-The pharmacokinetic profile in patients with moderate and severe renal impairment has not been assessed.
+Specific Populations
 
-Hepatic Impairment: The pharmacokinetic profile in patients with hepatic impairment has not been assessed.
+No sex-related differences were observed.
+
+Pediatric Patients:
+
+The geometric mean [coefficient of variation (CV%)] of Cmax was 18 ng/mL (56%) and AUC0-12h was 130 ng*hr/mL (52%) following subcutaneous administration of GRANIX 5 mcg/kg in 49 pediatric patients (1.4 to 15.9 years) after chemotherapy.
+No clinically relevant differences in the pharmacokinetics of GRANIX were observed between infants, children and adolescents.
+
+Patients with Renal or Hepatic Impairment:
+
+Mild renal impairment (creatinine clearance 60 to 89 mL/min by Cockcroft-Gault) had no effect on tbo-filgrastim pharmacokinetics.
+The pharmacokinetics in patients with moderate and severe renal impairment has not been studied.
+The pharmacokinetics in patients with hepatic impairment has not been studied.

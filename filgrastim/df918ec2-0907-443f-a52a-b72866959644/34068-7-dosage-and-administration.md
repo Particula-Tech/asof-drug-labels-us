@@ -11,7 +11,7 @@ Monitor complete blood count (CBC) prior to chemotherapy and twice per week unti
 
 ## 2.2 General Considerations for Administration
 
-GRANIX may be administered by either a healthcare professional or by a patient or caregiver.
+GRANIX may be administered by either a healthcare professional, a patient or caregiver.
 Before a decision is made to allow GRANIX to be administered by a patient or caregiver, ensure that the patient is an appropriate candidate for self-administration or administration by a caregiver.
 Proper training on storage, preparation, and administration technique should be provided.
 If a patient or caregiver is not an appropriate candidate for any reason, then in such patients, GRANIX should be administered by a healthcare professional.
@@ -22,7 +22,7 @@ Instruct patients and caregivers to follow the Instructions for Use provided wit
 Visually inspect parenteral drug products for particulate matter and discoloration prior to administration.
 Do not administer GRANIX if discoloration or particulates are observed.
 
-The prefilled syringe is for single-dose only.
+The prefilled syringe and vial are for single-dose only.
 Discard unused portions.
 GRANIX and all its components are not made with natural rubber latex.
 

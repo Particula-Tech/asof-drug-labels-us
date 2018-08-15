@@ -1,9 +1,10 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Splenic Rupture
+## 5.1 Fatal Splenic Rupture
 
 Splenic rupture, including fatal cases, can occur following administration of filgrastim products.
-In patients who report upper abdominal or shoulder pain after receiving GRANIX, discontinue GRANIX and evaluate for an enlarged spleen or splenic rupture.
+Evaluate patients who report upper abdominal or shoulder pain for an enlarged spleen or splenic rupture.
+Discontinue GRANIX if splenic rupture is suspected or confirmed.
 
 ## 5.2 Acute Respiratory Distress Syndrome (ARDS)
 
@@ -11,7 +12,7 @@ Acute respiratory distress syndrome (ARDS) can occur in patients receiving filgr
 Evaluate patients who develop fever and lung infiltrates or respiratory distress after receiving GRANIX, for ARDS.
 Discontinue GRANIX in patients with ARDS.
 
-## 5.3 Allergic Reactions
+## 5.3 Serious Allergic Reactions
 
 Serious allergic reactions, including anaphylaxis, can occur in patients receiving GRANIX.
 Reactions can occur on initial exposure.
@@ -19,11 +20,10 @@ The administration of antihistamines‚ steroids‚ bronchodilators‚ and/or ep
 Permanently discontinue GRANIX in patients with serious allergic reactions.
 Do not administer GRANIX to patients with a history of serious allergic reactions to filgrastim or pegfilgrastim.
 
-## 5.4 Use in Patients with Sickle Cell Disease
+## 5.4 Sickle Cell Disorders
 
-Severe and sometimes fatal sickle cell crises can occur in patients with sickle cell disease receiving filgrastim products.
-Consider the potential risks and benefits prior to the administration of GRANIX in patients with sickle cell disease.
-Discontinue GRANIX in patients undergoing a sickle cell crisis.
+Severe and sometimes fatal sickle cell crises can occur in patients with sickle cell disorders receiving filgrastim products.
+Discontinue GRANIX if sickle cell crisis occurs.
 
 ## 5.5 Glomerulonephritis
 
@@ -43,3 +43,32 @@ Patients who develop symptoms of capillary leak syndrome should be closely monit
 
 The granulocyte colony-stimulating factor (G‑CSF) receptor through which GRANIX acts has been found on tumor cell lines.
 The possibility that GRANIX acts as a growth factor for any tumor type, including myeloid malignancies and myelodysplasia, diseases for which GRANIX is not approved, cannot be excluded.
+
+## 5.8 Leukocytosis
+
+White blood cell counts of 100‚000/mm3 or greater were observed in approximately 2% of patients receiving filgrastim products at dosages above 5 mcg/kg/day.
+In patients with cancer receiving GRANIX as an adjunct to myelosuppressive chemotherapy‚ to avoid the potential risks of excessive leukocytosis‚ it is recommended that GRANIX therapy be discontinued if the ANC surpasses 10‚000/mm3after the chemotherapy-induced ANC nadir has occurred.
+Monitor CBCs at least twice weekly during therapy.
+Dosages of GRANIX that increase the ANC beyond 10‚000/mm3 may not result in any additional clinical benefit.
+In patients with cancer receiving myelosuppressive chemotherapy‚ discontinuation of filgrastim products therapy usually resulted in a 50% decrease in circulating neutrophils within 1 to 2 days‚ with a return to pretreatment levels in 1 to 7 days.
+
+## 5.9 Simultaneous Use with Chemotherapy and Radiation Therapy Not Recommended
+
+The safety and efficacy of filgrastim products, including GRANIX, given simultaneously with cytotoxic chemotherapy have not been established.
+Because of the potential sensitivity of rapidly dividing myeloid cells to cytotoxic chemotherapy‚ do not use GRANIX in the period 24 hours before through 24 hours after the administration of cytotoxic chemotherapy [see Dosage and Administration (2.2)].
+
+The safety and efficacy of GRANIX have not been evaluated in patients receiving concurrent radiation therapy.
+Avoid the simultaneous use of GRANIX with chemotherapy and radiation therapy.
+
+## 5.10 Nuclear Imaging
+
+Increased hematopoietic activity of the bone marrow in response to growth factor therapy has been associated with transient positive bone-imaging changes.
+Consider this when interpreting bone-imaging results.
+
+## 5.11 Aortitis
+
+Aortitis has been reported in patients receiving another filgrastim product.
+It may occur as early as the first week after start of therapy.
+Manifestations may include generalized signs and symptoms such as fever, abdominal pain, malaise, back pain, and increased inflammatory markers (e.g., c‑reactive protein and white blood cell count).
+Consider aortitis in patients who develop these signs and symptoms without known etiology.
+Discontinue GRANIX if aortitis is suspected.

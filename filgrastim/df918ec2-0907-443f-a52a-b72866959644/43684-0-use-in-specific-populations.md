@@ -9,6 +9,7 @@ In animal reproduction studies, administration of tbo-filgrastim to pregnant rab
 GRANIX should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population(s) are unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
 Data
@@ -23,14 +24,17 @@ The dose of 100 mcg/kg/day corresponds to a systemic exposure (AUC) of approxima
 
 ## 8.2 Lactation
 
-No data are available regarding the presence of tbo-filgrastim in human milk, the effects of the drug on the breast fed infant, or the effects of the drug on milk production.
+No data are available regarding the presence of tbo-filgrastim in human milk, the effects of the drug on the breast fed child, or the effects of the drug on milk production.
 Another filgrastim product was detected in human milk for up to 3 days after filgrastim administration.
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of GRANIX in pediatric patients have not been established.
+The safety and effectiveness of GRANIX have been established for pediatric patients 1 month to < 17 years old (no data for the age group < 1 month old).
+Use of GRANIX in these age groups is supported by evidence from adequate and well-controlled studies of GRANIX in adults [see Clinical Studies (14)] with additional safety and pharmacokinetics data from a single-arm trial of 50 pediatric patients with solid tumors treated with GRANIX for chemotherapy-induced neutropenia.
+The 50 pediatric patients had a median age of 9.2 years (range, 1.4-15.9 years); 2 were infants (1 month to < 2 years old), 30 were children (2 to < 12 years old), and 18 were adolescents (12 to < 17 years old).
+The pharmacokinetics and safety profile of GRANIX in the pediatric population were similar to those seen in adults [see Adverse Reactions (6.1), Clinical Pharmacology (12.3)].
 
 ## 8.5 Geriatric Use
 
-Among 677 cancer patients enrolled in clinical trials of GRANIX, a total of 111 patients were 65 years of age and older.
+Among 677 cancer patients enrolled in clinical trials of GRANIX, a total of 111 patients were 65 years of age and older, and 14 patients were 75 years and older.
 No overall differences in safety or effectiveness were observed between patients age 65 and older and younger patients.

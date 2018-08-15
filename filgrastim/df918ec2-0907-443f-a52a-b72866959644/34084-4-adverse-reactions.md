@@ -2,17 +2,22 @@
 
 The following potential serious adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- •Splenic Rupture [see Warnings and Precautions (5.1)]
-- •Acute Respiratory Distress Syndrome [see Warnings and Precautions (5.2)]
-- •Serious Allergic Reactions [see Warnings and Precautions (5.3)]
-- •Use in Patients with Sickle Cell Disease [see Warnings and Precautions (5.4)]
-- •Glomerulonephritis [see Warnings and Precautions (5.5)]
-- •Capillary Leak Syndrome [see Warnings and Precautions (5.6)]
-- •Potential for Tumor Growth Stimulatory Effects on Malignant Cells [see Warnings and Precautions (5.7)]
+- Fatal Splenic Rupture [see Warnings and Precautions (5.1)]
+- Acute Respiratory Distress Syndrome [see Warnings and Precautions (5.2)]
+- Serious Allergic Reactions [see Warnings and Precautions (5.3)]
+- Sickle Cell Disorders [see Warnings and Precautions (5.4)]
+- Glomerulonephritis [see Warnings and Precautions (5.5)]
+- Capillary Leak Syndrome [see Warnings and Precautions (5.6)]
+- Potential for Tumor Growth Stimulatory Effects on Malignant Cells [see Warnings and Precautions (5.7)]
+- Leukocytosis [see Warnings and Precautions (5.8)]
+- Simultaneous Use with Chemotherapy and Radiation Therapy Not Recommended [see Warnings and Precautions (5.9)]
+- Aortitis [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+Adverse Reactions in Adult Patients
 
 GRANIX clinical trials safety data are based upon the results of three randomized clinical trials in patients receiving myeloablative chemotherapy for breast cancer (N=348), lung cancer (N=240) and non-Hodgkin’s lymphoma (N=92).
 In the breast cancer study, 99% of patients were female, the median age was 50 years, and 86% of patients were Caucasian.
@@ -33,6 +38,10 @@ Additional Adverse Reactions
 
 Other adverse reactions known to occur following administration of filgrastim products include myalgia, headache, vomiting, cutaneous vasculitis and thrombocytopenia.
 
+Adverse Reactions in Pediatric Patients GRANIX clinical trials safety data in pediatric patients are based upon the results of one single-arm clinical trial in 50 pediatric patients who received myelosuppressive chemotherapy for treatment of a solid tumors without marrow involvement [see Use in Special Populations (8.4)].
+In this study, GRANIX was administered at 5 mcg/kg subcutaneously once daily beginning one day after chemotherapy.
+The most common (>5%) adverse reactions included thrombocytopenia (34%), pyrexia (8%), pain in extremity (6%), headache (6%) and diarrhea (6%).
+
 ## 6.2 Immunogenicity
 
 As with all therapeutic proteins, there is a potential for immunogenicity.
@@ -40,8 +49,8 @@ The detection of antibody formation is highly dependent on the sensitivity and s
 For these reasons, comparison of the incidence of antibodies to GRANIX with the incidence of antibodies to other products may be misleading.
 
 Binding antibodies to GRANIX were detected using a validated bridging immunoassay.
-In three clinical trials in oncology patients receiving prior chemotherapy, the incidence of antibody binding to tbo-filgrastim was 1.6 % (7/436).
-None of these 7 patients had cross-reactive antibodies to the native G-CSF.
+Anti-drug antibodies to tbo-filgrastim occurred in 1.4 % of 486 adult and pediatric patients.
+None of these patients had cross-reactive antibodies to the native G-CSF.
 All antibody responses were transient and of low titers.
 
 ## 6.3 Postmarketing Experience
