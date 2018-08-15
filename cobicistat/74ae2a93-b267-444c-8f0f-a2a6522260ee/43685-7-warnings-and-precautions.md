@@ -3,7 +3,6 @@
 ## 5.1 Severe Acute Exacerbation of Hepatitis B in Patients Coinfected with HIV-1 and HBV
 
 All patients with HIV-1 should be tested for the presence of hepatitis B virus (HBV) before initiating antiretroviral therapy [see Dosage and Administration (2.1)].
-STRIBILD is not approved for the treatment of chronic HBV infection, and the safety and efficacy of STRIBILD have not been established in patients coinfected with HIV-1 and HBV.
 
 Severe acute exacerbations of hepatitis B (e.g., liver decompensated and liver failure) have been reported in patients who are coinfected with HBV and HIV-1 and have discontinued emtricitabine or tenofovir DF, two of the components of STRIBILD.
 Patients who are coinfected with HIV-1 and HBV should be closely monitored with both clinical and laboratory follow-up for at least several months after stopping treatment with STRIBILD.
@@ -28,7 +27,9 @@ Alternatives to NSAIDs should be considered, if needed, in patients at risk for 
 
 Persistent or worsening bone pain, pain in extremities, fractures, and/or muscular pain or weakness may be manifestations of proximal renal tubulopathy and should prompt an evaluation of renal function in at-risk patients.
 
-It is recommended that serum creatinine, serum phosphorus, estimated creatinine clearance, urine glucose, and urine protein be assessed before initiating STRIBILD and during therapy in all patients as clinically appropriate.
+Prior to initiation and during use of STRIBILD, on a clinically appropriate schedule, assess serum creatinine, estimated creatinine clearance, urine glucose, and urine protein in all patients.
+In patients with chronic kidney disease, also assess serum phosphorus.
+Discontinue STRIBILD in patients who develop clinically significant decreases in renal function or evidence of Fanconi syndrome.
 Initiation of STRIBILD in patients with estimated creatinine clearance below 70 mL per minute is not recommended [see Dosage and Administration (2.1)].
 
 Although cobicistat (a component of STRIBILD) may cause modest increases in serum creatinine and modest declines in estimated creatinine clearance without affecting renal glomerular function [see Adverse Reactions (6.1)], patients who experience a confirmed increase in serum creatinine of greater than 0.4 mg per dL from baseline should be closely monitored for renal safety.
@@ -48,7 +49,7 @@ The concomitant use of STRIBILD and other drugs may result in known or potential
 - Loss of therapeutic effect of STRIBILD and possible development of resistance.
 - Possible clinically significant adverse reactions from greater exposures of concomitant drugs.
 
-See Table 6 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Drug Interactions (7.5)].
+See Table 5 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Drug Interactions (7.5)].
 Consider the potential for drug interactions prior to and during STRIBILD therapy; review concomitant medications during STRIBILD therapy; and monitor for the adverse reactions associated with the concomitant drugs.
 
 ## 5.5 Bone Loss and Mineralization Defects

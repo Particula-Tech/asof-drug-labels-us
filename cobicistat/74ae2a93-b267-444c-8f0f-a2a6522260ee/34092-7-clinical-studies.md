@@ -63,7 +63,7 @@ Subjects were randomized in a 2:1 ratio to either switch to STRIBILD (STRIBILD a
 Subjects had a mean age of 41 years (range 20–72); 93% were male, 78% were White, and 17% were Black.
 The mean baseline CD4+ cell count was 588 cells per mm3 (range 100–1614).
 Randomization was stratified by use of efavirenz in the baseline regimen.
-At screening subjects were receiving efavirenz (78%) (predominantly as ATRIPLA [74%]), nevirapine (17%), rilpivirine (4%) (as COMPLERA [4%]), or etravirine (1%) as the NNRTI in their regimen.
+At screening subjects were receiving efavirenz (78%) (predominantly as ATRIPLA [74%]), nevirapine (17%), rilpivirine (4%) (as COMPLERA® [4%]), or etravirine (1%) as the NNRTI in their regimen.
 
 Virologic outcomes of Study 115 and Study 121 are presented in Table 14.
 Five treated subjects were excluded from the efficacy analysis: in Study 115, three STRIBILD subjects had protocol-prohibited documented resistance and one PI+RTV+TRUVADA subject was not on a protease inhibitor-based regimen at screening; in Study 121, one STRIBILD subject had protocol-prohibited documented resistance.

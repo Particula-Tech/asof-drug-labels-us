@@ -4,7 +4,8 @@
 
 Prior to initiation of STRIBILD, patients should be tested for hepatitis B virus infection [see Warnings and Precautions (5.1)].
 
-It is recommended that serum creatinine, serum phosphorous, estimated creatinine clearance, urine glucose, and urine protein should be assessed before initiating STRIBILD and during therapy in all patients as clinically appropriate [see Warnings and Precautions (5.2)].
+Prior to initiation and during use of STRIBILD, on a clinically appropriate schedule, assess serum creatinine, estimated creatinine clearance, urine glucose, and urine protein in all patients.
+In patients with chronic kidney disease, also assess serum phosphorus [see Warnings and Precautions (5.2)].
 
 ## 2.2 Recommended Dosage
 

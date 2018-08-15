@@ -18,9 +18,9 @@ The safety assessment of STRIBILD is based on the Week-144 pooled data from 1408
 A total of 701 subjects received STRIBILD once daily in these two studies.
 
 The proportion of subjects who discontinued treatment with STRIBILD, ATRIPLA, or ATV+RTV+TRUVADA due to adverse events, regardless of severity, was 6.0%, 7.4%, and 8.5%, respectively.
-Table 2 displays the frequency of adverse reactions greater than or equal to 5% of subjects in any treatment arm.
+Table 1 displays the frequency of adverse reactions greater than or equal to 5% of subjects in any treatment arm.
 
-Table 2 Adverse ReactionsFrequencies of adverse reactions are based on all treatment-emergent adverse events attributed to study drugs.
+Table 1 Adverse ReactionsFrequencies of adverse reactions are based on all treatment-emergent adverse events attributed to study drugs.
 (All Grades) Reported in ≥5% of Adult Subjects in Any Treatment Arm in Studies 102 and 103 (Week-144 Analysis)
 
 |  | STRIBILD N=701 | ATRIPLA N=352 | ATV+RTV+TRUVADA N=355 |
@@ -65,9 +65,9 @@ The mechanism and clinical significance are unknown.
 
 Laboratory Abnormalities:
 
-The frequency of laboratory abnormalities (Grades 3–4) occurring in at least 2% of subjects receiving STRIBILD in studies 102 and 103 are presented in Table 3.
+The frequency of laboratory abnormalities (Grades 3–4) occurring in at least 2% of subjects receiving STRIBILD in studies 102 and 103 are presented in Table 2.
 
-Table 3 Laboratory Abnormalities (Grades 3–4) Reported in ≥2% of Adult Subjects Receiving STRIBILD in Studies 102 and 103 (Week-144 Analysis)
+Table 2 Laboratory Abnormalities (Grades 3–4) Reported in ≥2% of Adult Subjects Receiving STRIBILD in Studies 102 and 103 (Week-144 Analysis)
 
 | Laboratory Parameter AbnormalityFrequencies are based on treatment-emergent laboratory abnormalities.,For subjects with serum amylase >1.5 × upper limit of normal (ULN), lipase test was also performed. The frequency of increased lipase (Grades 3–4) occurring in STRIBILD (N=69), ATRIPLA (N=40), and ATV+RTV+TRUVADA (N=38) was 17%, 15%, and 24%, respectively. | STRIBILD N=701 | ATRIPLA N=352 | ATV+RTV+TRUVADA N=355 |
 | --- | --- | --- | --- |
@@ -86,9 +86,9 @@ Proteinuria (all grades) occurred in 52% of subjects receiving STRIBILD, 41% of 
 
 The cobicistat component of STRIBILD has been shown to increase serum creatinine and decrease estimated creatinine clearance due to inhibition of tubular secretion of creatinine without affecting renal glomerular function.
 In studies 102 and 103, increases in serum creatinine and decreases in estimated creatinine clearance occurred early in treatment with STRIBILD, after which levels stabilized.
-Table 4 displays the mean changes in serum creatinine and eGFR levels at Week 144 and the percentage of subjects with elevations in serum creatinine (all grades).
+Table 3 displays the mean changes in serum creatinine and eGFR levels at Week 144 and the percentage of subjects with elevations in serum creatinine (all grades).
 
-Table 4 Change from Baseline in Serum Creatinine and eGFR and Incidence of Elevated Serum Creatinine (All Grades) in Studies 102 and 103 at Week 144
+Table 3 Change from Baseline in Serum Creatinine and eGFR and Incidence of Elevated Serum Creatinine (All Grades) in Studies 102 and 103 at Week 144
 
 |  | STRIBILD N=701 | ATRIPLA N=352 | ATV+RTV+TRUVADA N=355 |
 | --- | --- | --- | --- |
@@ -101,9 +101,9 @@ Emtricitabine or Tenofovir DF: In addition to the laboratory abnormalities obser
 Serum Lipids: In the clinical trials of STRIBILD, a similar percentage of subjects receiving STRIBILD, ATRIPLA, and ATV+RTV+TRUVADA were on lipid-lowering agents at baseline (12%, 12%, and 13%, respectively).
 While receiving study drug through Week 144, an additional 11% of STRIBILD subjects were started on lipid-lowering agents, compared to 13% of ATRIPLA and 12% of ATV+RTV+TRUVADA subjects.
 
-Changes from baseline in total cholesterol, HDL-cholesterol, LDL-cholesterol, and triglycerides are presented in Table 5.
+Changes from baseline in total cholesterol, HDL-cholesterol, LDL-cholesterol, and triglycerides are presented in Table 4.
 
-Table 5 Lipid Values, Mean Change from Baseline at Week 144 in Adult Subjects Receiving STRIBILD or Comparator in Studies 102 and 103
+Table 4 Lipid Values, Mean Change from Baseline at Week 144 in Adult Subjects Receiving STRIBILD or Comparator in Studies 102 and 103
 
 | mg/dL | ChangeThe change from baseline is the mean of within-patient changes from baseline for patients with both baseline and Week 144 values. | mg/dL | Change | mg/dL | Change |  |
 | --- | --- | --- | --- | --- | --- | --- |
