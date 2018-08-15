@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA206106"
+  ],
+  "inn": "thiamine",
+  "labeler": "Sagent Pharmaceuticals",
+  "package_ndcs": [
+    "25021-500-02"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "thiamine hydrochloride",
+      "name": "thiamine hydrochloride"
+    }
+  ],
+  "setid": "5982cf83-01d6-4acb-8373-339079b8a76e",
+  "source": "dailymed"
+}
