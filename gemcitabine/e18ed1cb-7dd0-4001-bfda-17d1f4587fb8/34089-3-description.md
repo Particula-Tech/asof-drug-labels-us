@@ -5,7 +5,7 @@ Gemcitabine HCl is 2´-deoxy-2´,2´-difluorocytidine monohydrochloride (β-isom
 
 The structural formula is as follows:
 
-The empirical formula for gemcitabine HCl is C9H11F2N3O4 • HCl.
+The empirical formula for gemcitabine HCl is C9H11F2N3O4 ∙ HCl.
 It has a molecular weight of 299.66.
 
 Gemcitabine HCl is a white to off-white solid.

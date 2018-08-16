@@ -4,9 +4,9 @@
 
 Gemcitabine Injection is available in sterile single-use vials individually packaged in a carton as follows:
 
-- •200 mg/5.26 mL (38 mg/mL), sterile solution in a single-use glass vial per package, NDC 0409-0183-25
-- •1 g/26.3 mL (38 mg/mL), sterile solution in a single-use glass vial per package, NDC 0409-0181-25
-- •2 g/52.6 mL (38 mg/mL), sterile solution in a single-use glass vial per package, NDC 0409-0182-25
+- 200 mg/5.26 mL (38 mg/mL), sterile solution in a single-use glass vial per package, NDC 0409-0183-25
+- 1 g/26.3 mL (38 mg/mL), sterile solution in a single-use glass vial per package, NDC 0409-0181-25
+- 2 g/52.6 mL (38 mg/mL), sterile solution in a single-use glass vial per package, NDC 0409-0182-25
 
 ## 16.2 Storage and Handling
 
