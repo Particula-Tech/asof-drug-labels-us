@@ -16,6 +16,8 @@ NOT BIOEQUIVALENT to Neoral® (cyclosporine capsules, USP) MODIFIED.
 
 Do NOT use interchangeably without a physician’s supervision.
 
+Product of Ireland.
+
 Each 25 mg capsule contains:
 
 Cyclosporine, USP 25 mg
@@ -46,6 +48,8 @@ WARNING: Sandimmune® (cyclosporine capsules, USP) is
 NOT BIOEQUIVALENT to Neoral® (cyclosporine capsules, USP) MODIFIED.
 
 Do NOT use interchangeably without a physician’s supervision.
+
+Product of Ireland.
 
 Each 100 mg capsule contains:
 
