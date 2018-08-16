@@ -26,6 +26,12 @@ The within-group LS mean absolute change from baseline in sweat chloride was -20
 In addition, sweat chloride was also assessed after a 2-week washout period to evaluate the off-drug response.
 The within-group LS mean absolute change in sweat chloride from Week 24 at Week 26 following the 2-week washout period was 21.3 mmol/L.
 
+Changes in sweat chloride in response to lumacaftor/ivacaftor were also evaluated in a 24-week, open-label Phase 3 clinical study (Trial 6) in 60 patients with CF, aged 2 through 5 years (homozygous for F508del) who received either lumacaftor 100 mg/ivacaftor 125 mg every 12 hours or lumacaftor 150 mg/ivacaftor 188 mg every 12 hours for 24 weeks.
+Treatment with lumacaftor/ivacaftor demonstrated a reduction in sweat chloride at Week 4 that was sustained through Week 24.
+The mean absolute change from baseline in sweat chloride was –31.7 mmol/L (95% CI: -35.7, -27.6) at Week 24.
+In addition, sweat chloride was also assessed after a 2-week washout period to evaluate the off-drug response.
+The mean absolute change in sweat chloride from Week 24 at Week 26 following the 2-week washout period was an increase of 33.0 mmol/L (95% CI: 28.9, 37.1; P<0.0001).
+
 There was no direct correlation between decrease in sweat chloride levels and improvement in lung function (ppFEV1).
 
 Cardiac Electrophysiology
@@ -42,7 +48,7 @@ The exposure of ivacaftor is similar between healthy adult volunteers and patien
 After twice-daily dosing, steady-state plasma concentrations of lumacaftor and ivacaftor in healthy subjects were generally reached after approximately 7 days of treatment, with an accumulation ratio of approximately 1.9 for lumacaftor.
 The steady-state exposure of ivacaftor is lower than that of Day 1 due to the CYP3A induction effect of lumacaftor.
 
-Table 3: Mean (SD) Pharmacokinetic Parameters of Lumacaftor and Ivacaftor at Steady State in Subjects with CF
+Table 4: Mean (SD) Pharmacokinetic Parameters of Lumacaftor and Ivacaftor at Steady State in Subjects with CF
 
 |  | Drug | Cmax (μg/mL) | t½Based on lumacaftor 200 mg q12h/ivacaftor 250 mg q12h studied in healthy subjects (h) | AUC0-12h (μg∙h/mL) |
 | --- | --- | --- | --- | --- |
@@ -96,6 +102,13 @@ Age: Pediatric Population
 
 The following conclusions about exposures between adults and the pediatric population are based on population pharmacokinetics (PK) analyses:
 
+Pediatric patients 2 through 5 years of age
+
+Following oral administration of ORKAMBI oral granules, lumacaftor 100 mg/ivacaftor 125 mg every 12 hours, the mean lumacaftor (±SD) AUCss was 180 (45.5) µg/mL*h and is comparable to the mean AUCss in patients 12 years and older administered ORKAMBI tablets.
+The mean ivacaftor (±SD) AUCss was 5.92 (4.61) µg/mL*h and is comparable to the mean AUCss in patients 12 years and older administered ORKAMBI tablets.
+Following oral administration of ORKAMBI oral granules, lumacaftor 150 mg/ivacaftor 188 mg every 12 hours, the mean lumacaftor (±SD) AUCss was 217 (48.6) µg/mL*h and is comparable to the mean AUCss in patients 12 years and older administered ORKAMBI tablets.
+The mean ivacaftor (±SD) AUCss was 5.90 (1.93) µg/mL*h and is comparable to the mean AUCss in patients 12 years and older administered ORKAMBI tablets [see Use in Specific Populations (8.4)].
+
 Pediatric patients 6 through 11 years of age
 
 Following oral administration of ORKAMBI tablets, lumacaftor 200 mg/ivacaftor 250 mg every 12 hours, the mean lumacaftor (±SD) AUCss was 203 (57.4) µg/mL*h and is comparable to the mean AUCss in patients 12 years and older administered ORKAMBI tablets, lumacaftor 400 mg/ivacaftor 250 mg every 12 hours.
@@ -144,9 +157,9 @@ Potential for Other Drugs to Affect Lumacaftor/Ivacaftor
 Lumacaftor exposure is not affected by concomitant CYP3A inducers or inhibitors.
 Exposure of ivacaftor when given in combination with lumacaftor is reduced by concomitant CYP3A inducers and increased by concomitant CYP3A inhibitors [see Dosage and Administration (2.3), Warnings and Precautions (5.5), and Drug Interactions (7)].
 
-The effects of co-administered drugs on the exposure of lumacaftor and ivacaftor are shown in Table 4 [see Dosage and Administration (2.3), Warnings and Precautions (5.5), and Drug Interactions (7)].
+The effects of co-administered drugs on the exposure of lumacaftor and ivacaftor are shown in Table 5 [see Dosage and Administration (2.3), Warnings and Precautions (5.5), and Drug Interactions (7)].
 
-Table 4: Impact of Other Drugs on Lumacaftor 200 mg q12h/Ivacaftor 250 mg q12h
+Table 5: Impact of Other Drugs on Lumacaftor 200 mg q12h/Ivacaftor 250 mg q12h
 
 | AUC | Cmax |  |  |  |
 | --- | --- | --- | --- | --- |

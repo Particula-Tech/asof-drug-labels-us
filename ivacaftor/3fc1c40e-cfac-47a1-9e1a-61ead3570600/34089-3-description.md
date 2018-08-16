@@ -17,3 +17,6 @@ ORKAMBI is also available as a pink, oval-shaped, film-coated tablet for oral ad
 Each ORKAMBI tablet contains 100 mg of lumacaftor and 125 mg of ivacaftor, and the following inactive ingredients: cellulose, microcrystalline; croscarmellose sodium; hypromellose acetate succinate; magnesium stearate; povidone; and sodium lauryl sulfate.
 The tablet film coat contains carmine, FD&C Blue #1, FD&C Blue #2, polyethylene glycol, polyvinyl alcohol, talc, and titanium dioxide.
 The printing ink contains ammonium hydroxide, iron oxide black, propylene glycol, and shellac.
+
+ORKAMBI is also available as white to off-white granules for oral administration and enclosed in a unit-dose packet containing lumacaftor 100 mg/ivacaftor 125 mg or lumacaftor 150 mg/ivacaftor 188 mg per packet.
+Each unit-dose packet of ORKAMBI oral granules contains lumacaftor 100 mg/ivacaftor 125 mg or lumacaftor 150 mg/ivacaftor 188 mg per packet and the following inactive ingredients: cellulose, microcrystalline; croscarmellose sodium; hypromellose acetate succinate; povidone; sodium lauryl sulfate.

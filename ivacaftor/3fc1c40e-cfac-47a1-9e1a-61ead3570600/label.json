@@ -1,14 +1,22 @@
 {
   "application_numbers": [
-    "NDA206038"
+    "NDA206038",
+    "NDA211358"
   ],
   "inn": "ivacaftor",
   "labeler": "Vertex Pharmaceuticals Incorporated",
   "package_ndcs": [
+    "51167-500-02",
     "51167-700-02",
-    "51167-809-01"
+    "51167-809-01",
+    "51167-900-01"
   ],
   "products": [
+    {
+      "form": "GRANULE",
+      "generic": "lumacaftor and ivacaftor",
+      "name": "ORKAMBI"
+    },
     {
       "form": "TABLET, FILM COATED",
       "generic": "lumacaftor and ivacaftor",

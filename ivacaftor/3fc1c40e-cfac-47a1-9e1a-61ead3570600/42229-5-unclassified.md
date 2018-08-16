@@ -1,4 +1,4 @@
-Manufactured for Vertex Pharmaceuticals Incorporated Boston, MA 02210
+Manufactured for Vertex Pharmaceuticals Incorporated 50 Northern Avenue Boston, MA 02210
 
 ORKAMBI, the ORKAMBI logo, VERTEX, and the VERTEX triangle logo are registered trademarks of Vertex Pharmaceuticals Incorporated.
-All other trademarks referenced herein are the property of their respective owners. ©2018 Vertex Pharmaceuticals Incorporated ALL RIGHTS RESERVED 104508-03
+All other trademarks referenced herein are the property of their respective owners. ©2018 Vertex Pharmaceuticals Incorporated ALL RIGHTS RESERVED 104508-04 PX2808
