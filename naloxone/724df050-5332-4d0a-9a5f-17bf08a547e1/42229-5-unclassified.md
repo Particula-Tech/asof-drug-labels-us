@@ -4,7 +4,7 @@ Instructions for Use
 
 NARCAN (nar´ kan)
 
-(naloxonehydrochloride)
+(naloxone hydrochloride)
 
 Nasal Spray
 
@@ -59,7 +59,7 @@ Put the used NARCAN Nasal Spray back into its box.
 Step 9.
 Throw away (dispose of) the used NARCAN Nasal Spray in a place that is away from children.
 
-HowshouldI store NARCAN Nasal Spray?
+How should I store NARCAN Nasal Spray?
 
 - Store NARCAN Nasal Spray at room temperature between 59°F to 77°F (15°C to 25°C).
   NARCAN Nasal Spray may be stored for short periods up to 104°F (40°C).
@@ -68,7 +68,7 @@ HowshouldI store NARCAN Nasal Spray?
   Protect from light.
 - Replace NARCAN Nasal Spray before the expiration date on the box.
 
-KeepNARCAN Nasal Sprayand all medicines out of the reach of children.
+Keep NARCAN Nasal Spray and all medicines out of the reach of children.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
