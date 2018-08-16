@@ -13,4 +13,4 @@ Rx Only (USA)
 Manufactured by E-Z-EM Canada Inc., for E-Z-EM, Inc. a subsidiary of Bracco Diagnostics Inc. Monroe Township, NJ 08831 Tel: 1-516-333-8230 1-800 544-4624
 
 rev.
-05/14 TX1219-2 ©2006 E-Z-EM, Inc.
+02/18 CL7A501 TX1893

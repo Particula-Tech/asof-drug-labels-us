@@ -8,4 +8,4 @@ Barium sulfate occurs as a fine, white, odorless, tasteless, bulky powder which 
 Its aqueous suspensions are neutral to litmus.
 It is practically insoluble in water, solutions of acids and alkalies, and organic solvents.
 
-Inactive Ingredients: citric acid, magnesium aluminum silicate, methylcellulose, natural gums, natural and artificial blueberry flavor, polysorbate 80, potassium chloride, potassium sorbate, purified water, saccharin sodium, simethicone, sodium benzoate, sodium citrate, and sorbitol.
+Inactive Ingredients: acacia, carrageenan, citric acid, methylcellulose, natural and artificial blueberry flavor, polysorbate 80, potassium chloride, potassium sorbate, purified water, saccharin sodium, simethicone emulsion, sodium benzoate, sodium citrate, sorbitol solution, and xanthan gum.
