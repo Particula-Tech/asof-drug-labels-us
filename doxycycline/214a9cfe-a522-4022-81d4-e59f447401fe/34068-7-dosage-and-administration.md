@@ -11,7 +11,7 @@ Pediatric Patients:
 
 For all pediatric patients weighing less than 45 kg with severe or life-threatening infections (e.g., anthrax, Rocky Mountain spotted fever), the recommended dosage is 2.2 mg/kg of body weight administered every 12 hours.
 Children weighing 45 kg or more should receive the adult dose.
-(See WARNINGS and PRECAUTIONS.)
+(See WARNINGSand PRECAUTIONS.)
 
 For pediatric patients with less severe disease (greater than 8 years of age and weighing less than 45 kg), the recommended dosage schedule is 4.4 mg/kg of body weight divided into two doses on the first day of treatment, followed by a maintenance dose of 2.2 mg/kg of body weight (given as a single daily dose or divided into twice daily doses).
 For pediatric patients weighing over 45 kg, the usual adult dose should be used.
@@ -51,6 +51,6 @@ Prophylaxis should be continued daily during travel in the malarious area and fo
 
 Inhalational anthrax (post-exposure):
 
-- ADULTS: 100 mg of doxycycline, by mouth, twice a day for 60 days.
-- CHILDREN: weighing less than 45 kg; 2.2 mg/kg of body weight by mouth, twice a day for 60 days.
+- •ADULTS: 100 mg of doxycycline, by mouth, twice a day for 60 days.
+- •CHILDREN: weighing less than 45 kg; 2.2 mg/kg of body weight by mouth, twice a day for 60 days.
   Children weighing 45 kg or more should receive the adult dose.

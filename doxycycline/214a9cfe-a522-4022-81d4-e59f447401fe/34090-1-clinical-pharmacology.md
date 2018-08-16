@@ -57,9 +57,7 @@ Parasites
 Balantidium coli Entamoeba species Plasmodium falciparum*
 
 *Doxycycline has been found to be active against the asexual erythrocytic forms of Plasmodium falciparum, but not against the gametocytes of P. falciparum.
-The precise mechanism of action
-
-of the drug is not known.
+The precise mechanism of action of the drug is not known.
 
 Susceptibility Testing Methods
 
@@ -70,7 +68,7 @@ Dilution Techniques
 
 Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized test method 1,2,4 (broth or agar).
+The MICs should be determined using a standardized test method1,2,4 (broth or agar).
 The MIC values should be interpreted according to criteria provided in Table 1.
 
 Diffusion Techniques
@@ -82,7 +80,7 @@ The disk diffusion interpretive criteria are provided in Table 1.
 
 Anaerobic Techniques
 
-For anaerobic bacteria, the susceptibility to doxycycline can be determined by a standardized test method 5.
+For anaerobic bacteria, the susceptibility to doxycycline can be determined by a standardized test method5.
 The MIC values obtained should be interpreted according to the criteria provided in Table 1.
 
 Table 1: Susceptibility Test Interpretive Criteria for Doxycycline and Tetracycline
@@ -121,15 +119,15 @@ Table 2: Acceptable Quality Control Ranges for Susceptibility Testing for Doxycy
 
 | QC Strain | Minimal Inhibitory Concentration (mcg/mL) | Zone Diameter (mm) | Agar Dilution (mcg/mL) |
 | --- | --- | --- | --- |
-| Enterococcus faecalis ATCC 29212 Doxycycline Tetracycline | 2 - 8 8 - 32 | - - | - - |
-| Escherichia coli ATCC 25922 Doxycycline Tetracycline | 0.5 - 2 0.5 - 2 | 18 - 24 18 - 25 | - - |
-| Eggerthella lenta ATCC 43055 Doxycycline | 2 - 16 | - | - |
-| Haemophilus influenzae ATCC 49247 Tetracycline | 4 - 32 | 14 - 22 | - |
-| Neisseria gonorrhoeae ATCC 49226 Tetracycline | - | 30 - 42 | 0.25 - 1 |
-| Staphylococcus aureus ATCC 25923 Doxycycline Tetracycline | - - | 23 - 29 24 - 30 | - - |
-| Staphylococcus aureus ATCC 29213 Doxycycline Tetracycline | 0.12 - 0.5 0.12 - 1 | - - | - - |
-| Streptococcus pneumoniae ATCC 49619 Doxycycline Tetracycline | 0.015 - 0.12 0.06 - 0.5 | 25 - 34 27 - 31 | - - |
-| Bacteroides fragilis ATCC 25285 Tetracycline | - | - | 0.12 - 0.5 |
-| Bacteroides thetaiotaomicron ATCC 29741 Doxycycline Tetracycline | 2 - 8 - | - - | - 8 - 32 |
-| Mycoplasma pneumoniae ATCC 29342 Tetracycline | 0.06 - 0.5 | - | 0.06 - 0.5 |
-| Ureaplasma urealyticum ATCC 33175 Tetracycline | - | - | ≥8 |
+| Enterococcus faecalis ATCC 29212 Doxycycline Tetracycline | •2 - 8 8 - 32 | - - | - - |
+| Escherichia coli ATCC 25922 Doxycycline Tetracycline | •0.5 - 2 0.5 - 2 | 18 - 24 18 - 25 | - - |
+| Eggerthella lenta ATCC 43055 Doxycycline | • 2 - 16 | - | - |
+| Haemophilus influenzae ATCC 49247 Tetracycline | • 4 - 32 | 14 - 22 | - |
+| Neisseria gonorrhoeae ATCC 49226 Tetracycline | • - | 30 - 42 | 0.25 - 1 |
+| Staphylococcus aureus ATCC 25923 Doxycycline Tetracycline | • - - | 23 - 29 24 - 30 | - - |
+| Staphylococcus aureus ATCC 29213 Doxycycline Tetracycline | • 0.12 - 0.5 0.12 - 1 | - - | - - |
+| Streptococcus pneumoniae ATCC 49619 Doxycycline Tetracycline | • 0.015 - 0.12 0.06 - 0.5 | 25 - 34 27 - 31 | - - |
+| Bacteroides fragilis ATCC 25285 Tetracycline | • - | - | 0.12 - 0.5 |
+| Bacteroides thetaiotaomicron ATCC 29741 Doxycycline Tetracycline | • 2 - 8 - | - - | - 8 - 32 |
+| Mycoplasma pneumoniae ATCC 29342 Tetracycline | • 0.06 - 0.5 | - | 0.06 - 0.5 |
+| Ureaplasma urealyticum ATCC 33175 Tetracycline | • - | - | ≥8 |

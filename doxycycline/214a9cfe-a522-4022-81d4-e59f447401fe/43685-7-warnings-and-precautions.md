@@ -59,31 +59,31 @@ Subjects completing this prophylactic regimen may still transmit the infection t
 
 Prescribing doxycycline hyclate in the absence of proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
-## Information For Patients
+## Information for Patients
 
 Patients taking doxycycline for malaria prophylaxis should be advised:
 
-- that no present-day antimalarial agent, including doxycycline, guarantees protection against malaria.
-- to avoid being bitten by mosquitoes by using personal protective measures that help avoid contact with mosquitoes, especially from dusk to dawn (e.g., staying in well-screened areas, using mosquito nets, covering the body with clothing, and using an effective insect repellent).
-- that doxycycline prophylaxis:
-  - should begin 1-2 days before travel to the malarious area,
-  - should be continued daily while in the malarious area and after leaving the malarious area,
-  - should be continued for 4 further weeks to avoid development of malaria after returning from an endemic area,
-  - should not exceed 4 months.
+- •that no present-day antimalarial agent, including doxycycline, guarantees protection against malaria.
+- •to avoid being bitten by mosquitoes by using personal protective measures that help avoid contact with mosquitoes, especially from dusk to dawn (e.g., staying in well-screened areas, using mosquito nets, covering the body with clothing, and using an effective insect repellent).
+- •that doxycycline prophylaxis:
+  - •should begin 1-2 days before travel to the malarious area,
+  - •should be continued daily while in the malarious area and after leaving the malarious area,
+  - •should be continued for 4 further weeks to avoid development of malaria after returning from an endemic area,
+  - •should not exceed 4 months.
 
 All patients taking doxycycline should be advised:
 
-- to avoid excessive sunlight or artificial ultraviolet light while receiving doxycycline and to discontinue therapy if phototoxicity (e.g., skin eruption, etc.) occurs.
+- •to avoid excessive sunlight or artificial ultraviolet light while receiving doxycycline and to discontinue therapy if phototoxicity (e.g., skin eruption, etc.) occurs.
   Sunscreen or sunblock should be considered.
   (See WARNINGS.)
-- to drink fluids liberally along with doxycycline to reduce the risk of esophageal irritation and ulceration.
+- •to drink fluids liberally along with doxycycline to reduce the risk of esophageal irritation and ulceration.
   (See ADVERSE REACTIONS.)
-- that the absorption of tetracyclines is reduced when taken with foods, especially those which contain calcium.
+- •that the absorption of tetracyclines is reduced when taken with foods, especially those which contain calcium.
   However, the absorption of doxycycline is not markedly influenced by simultaneous ingestion of food or milk.
   (See DRUG INTERACTIONS.)
-- that the absorption of tetracyclines is reduced when taking bismuth subsalicylate.
+- •that the absorption of tetracyclines is reduced when taking bismuth subsalicylate.
   (See DRUG INTERACTIONS.)
-- that the use of doxycycline might increase the incidence of vaginal candidiasis.
+- •that the use of doxycycline might increase the incidence of vaginal candidiasis.
 
 Patients should be counseled that antibacterial drugs, including doxycycline hyclate should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
@@ -112,7 +112,7 @@ Absorption of tetracyclines is impaired by bismuth subsalicylate.
 
 Barbiturates, carbamazepine, and phenytoin decrease the half-life of doxycycline.
 
-The concurrent use of tetracycline and Penthrane ® (methoxyflurane) has been reported to result in fatal renal toxicity.
+The concurrent use of tetracycline and Penthrane® (methoxyflurane) has been reported to result in fatal renal toxicity.
 
 Concurrent use of tetracycline may render oral contraceptives less effective.
 
@@ -135,13 +135,13 @@ Pregnancy: Teratogenic Effects.
 There are no adequate and well-controlled studies on the use of doxycycline in pregnant women.
 The vast majority of reported experience with doxycycline during human pregnancy is short-term, first trimester exposure.
 There are no human data available to assess the effects of long-term therapy of doxycycline in pregnant women, such as that proposed for treatment of anthrax exposure.
-An expert review of published data on experiences with doxycycline use during pregnancy by TERIS – the Teratogen Information System – concluded that therapeutic doses during pregnancy are unlikely to pose a substantial teratogenic risk (the quantity and quality of data were assessed as limited to fair), but the data are insufficient to state that there is no risk 8.
+An expert review of published data on experiences with doxycycline use during pregnancy by TERIS – the Teratogen Information System – concluded that therapeutic doses during pregnancy are unlikely to pose a substantial teratogenic risk (the quantity and quality of data were assessed as limited to fair), but the data are insufficient to state that there is no risk8.
 A case-control study (18,515 mothers of infants with congenital anomalies and 32,804 mothers of infants with no congenital anomalies) shows a weak but marginally statistically significant association with total malformations and use of doxycycline anytime during pregnancy.
 Sixty-three (0.19%) of the controls and fifty-six (0.30%) of the cases were treated with doxycycline.
-This association was not seen when the analysis was confined to maternal treatment during the period of organogenesis (i.e., in the second and third months of gestation) with the exception of a marginal relationship with neural tube defect based on only two exposed cases 9.
+This association was not seen when the analysis was confined to maternal treatment during the period of organogenesis (i.e., in the second and third months of gestation) with the exception of a marginal relationship with neural tube defect based on only two exposed cases9.
 
 A small prospective study of 81 pregnancies describes 43 pregnant women treated for 10 days with doxycycline during early first trimester.
-All mothers reported their exposed infants were normal at 1 year of age 10.
+All mothers reported their exposed infants were normal at 1 year of age10.
 
 Nonteratogenic Effects: (See WARNINGS.)
 
