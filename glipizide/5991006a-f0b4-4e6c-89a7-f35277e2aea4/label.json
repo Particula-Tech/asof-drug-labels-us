@@ -1,0 +1,18 @@
+{
+  "application_numbers": [],
+  "inn": "glipizide",
+  "labeler": "Roerig",
+  "package_ndcs": [
+    "0049-1581-01",
+    "0049-1582-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "glipizide",
+      "name": "Glucotrol"
+    }
+  ],
+  "setid": "5991006a-f0b4-4e6c-89a7-f35277e2aea4",
+  "source": "dailymed"
+}
