@@ -87,12 +87,12 @@ If this syndrome is recognized, the drug should be discontinued immediately.
 
 ## 5.10 Tissue Hyperpigmentation
 
-Tetracycline class antibiotics are known to cause hyperpigmentation.
+Tetracycline-class antibiotics are known to cause hyperpigmentation.
 Tetracycline therapy may induce hyperpigmentation in many organs, including nails, bone, skin, eyes, thyroid, visceral tissue, oral cavity (teeth, mucosa, alveolar bone), sclerae and heart valves.
 Skin and oral pigmentation has been reported to occur independently of time or amount of drug administration, whereas other tissue pigmentation has been reported to occur upon prolonged administration.
 Skin pigmentation includes diffuse pigmentation as well as over sites of scars or injury.
 
-## 5.11 Development of Drug Resistant Bacteria
+## 5.11 Development of Drug-Resistant Bacteria
 
 Bacterial resistance to the tetracyclines may develop in patients using Ximino, therefore, the susceptibility of bacteria associated with infection should be considered in selecting antimicrobial therapy.
 Because of the potential for drug-resistant bacteria to develop during the use of Ximino, it should be used only as indicated.
@@ -104,5 +104,5 @@ If superinfection occurs, Ximino should be discontinued and appropriate therapy 
 
 ## 5.13 Laboratory Monitoring
 
-Periodic laboratory evaluations of organ systems, including hematopoetic, renal and hepatic studies should be performed.
+Periodic laboratory evaluations of organ systems, including hematopoietic, renal and hepatic studies should be performed.
 Appropriate tests for autoimmune syndromes should be performed as indicated.

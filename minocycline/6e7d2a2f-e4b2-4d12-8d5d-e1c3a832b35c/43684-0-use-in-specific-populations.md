@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects: Pregnancy category D [see Warnings and Precautions (5.1)]
+Teratogenic Effects: Pregnancy Category D [see Warnings and Precautions (5.1)]
 
 Ximino should not be used during pregnancy.
 If the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus and stop treatment immediately.

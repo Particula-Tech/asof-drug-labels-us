@@ -12,10 +12,8 @@ The pharmacodynamics of Ximino for the treatment of acne are unknown.
 
 Ximino is not bioequivalent to immediate release minocycline products.
 
-Following administration of a single dose of Ximino (135 mg) to healthy male and female adult subjects, the mean (SD) AUC(0-∞) and Cmax were 12.87 (4.04) mcg x hr/mL and 0.68 (0.25) mcg/mL, respectively, under fasting conditions.
+Following administration of a single dose of Ximino (135 mg) to 32 healthy male and female adult subjects, the mean (SD) AUC(0-∞) and Cmax were 17.90 (5.56) mcg x hr/mL and 0.96 (0.32) mcg/mL, respectively, under fasting conditions.
 
-When a single dose of Ximino (135 mg) was administered with a high fat meal to the same subjects in the same study in a crossover design, the mean (SD) AUC(0-∞) and Cmax were 14.16 (3.10) mcg x hr/mL and 0.85 (0.20) mcg/mL, respectively.
-
-A single-dose, crossover study demonstrated that Ximino (45 mg and 135 mg) exhibited dose-proportional pharmacokinetics.
+In a separate trial, when a single dose of Ximino (135 mg) was administered with a high fat meal to 30 healthy male and female adult subjects, the mean (SD) AUC(0-∞) and Cmax were 17.16 (3.19) mcg x hr/mL and 0.97 (0.25) mcg/mL, respectively.
 
 Minocycline is lipid soluble and distributes into the skin and sebum.

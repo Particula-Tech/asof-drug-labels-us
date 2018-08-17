@@ -7,15 +7,13 @@ The following table shows capsule strength and body weight to achieve approximat
 
 Table 1: Dosing Table for Ximino
 
-| Patient’s Weight (lbs.) | Patient’s Weight (kg) | Capsule Strength (mg) | Actual mg/kg Dose |
+| Patient's Weight (lbs.) | Patient's Weight (kg) | Capsule Strength (mg) | Actual mg/kg Dose |
 | --- | --- | --- | --- |
-| 99 to 122 | 45 to 55 | 45 | 1 to 0.82 |
-| 123 to 164 | 56 to 74 | 67.5 | 1.21 to 0.91 |
-| 165 to 212 | 75 to 96 | 90 | 1.20 to 0.94 |
-| 213 to 276 | 97 to 125 | 112.5 | 1.16 to 0.90 |
-| 277 to 300 | 126 to 136 | 135 | 1.07 to 0.99 |
+| 99 to 131 | 45 to 59 | 45 | 1 to 0.76 |
+| 132 to 199 | 60 to 90 | 90 | 1.5 to 1 |
+| 200 to 300 | 91 to 136 | 135 | 1.48 to 0.99 |
 
-Ximino may be taken with or without food [see Clinical Pharmacology (12)].
+Ximino may be taken with or without food [see Clinical Pharmacology (12.3)].
 The capsules should be swallowed whole without chewing, crushing or splitting.
 Ingestion of food along with Ximino may help reduce the risk of esophageal irritation and ulceration.
 

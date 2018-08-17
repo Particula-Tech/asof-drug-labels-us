@@ -8,7 +8,7 @@ The following table summarizes selected adverse reactions reported in clinical t
 
 Table 2: Selected Treatment-Emergent Adverse Reactions in at least 1% of Clinical Trial Subjects
 
-| Adverse Reactions | Minocycline hydrochloride(1 mg/kg)N = 674 (%) | PLACEBON = 364 (%) |
+| Adverse Reactions | Minocycline hydrochloride (1 mg/kg) N = 674 (%) | PLACEBO N = 364 (%) |
 | --- | --- | --- |
 | At least one treatment-emergent event | 379 (56) | 197 (54) |
 | Headache | 152 (23) | 83 (23) |

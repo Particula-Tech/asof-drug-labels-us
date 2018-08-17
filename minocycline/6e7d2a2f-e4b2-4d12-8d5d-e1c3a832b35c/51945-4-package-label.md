@@ -12,6 +12,8 @@ Extended-Release Capsules
 
 Rx only 30 Capsules
 
+# Package/Label Display Panel
+
 NDC 10631-331-30
 
 XiminoTM
@@ -24,7 +26,11 @@ Extended-Release Capsules
 
 Rx only 30 Capsules
 
-NDC 10631-332-30
+30's Bottle Label
+
+# Package/Label Display Panel
+
+NDC 10631-331-30
 
 XiminoTM
 
@@ -35,3 +41,5 @@ Extended-Release Capsules
 135 mg*
 
 Rx only 30 Capsules
+
+30's Bottle Label

@@ -2,7 +2,7 @@
 
 The active ingredient in Ximino Extended-Release Capsules is minocycline hydrochloride, a semi synthetic derivative of tetracycline.
 Ximino is a tetracycline-class drug.
-Ximino is known chemically as [4S­(4α,4aα,5aα,12aα)]-4,7-Bis(dimethylamino)-1,4,4a,5,5a,6,11,12a-octahydro-3,10,12,12a-tetrahydroxy-1,11-dioxo-2-naphthacenecarboxamide mono hydrochloride.
+Ximino is known chemically as [4 S‑(4α,4aα,5aα,12aα)]-4,7-Bis(dimethylamino)-1,4,4a,5,5a,6,11,12a-octahydro-3,10,12,12a-tetrahydroxy-1,11-dioxo-2-naphthacenecarboxamide mono hydrochloride.
 
 The structural formula is represented below:
 
