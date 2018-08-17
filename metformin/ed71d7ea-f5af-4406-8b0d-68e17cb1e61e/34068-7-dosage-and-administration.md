@@ -1,25 +1,73 @@
-# 2 DOSAGE AND ADMINISTRATION
+# DOSAGE AND ADMINISTRATION
 
-## 2.1 Adult Dosage
+There is no fixed dosage regimen for the management of hyperglycemia in patients with type 2 diabetes with FORTAMET® or any other pharmacologic agent.
+Dosage of FORTAMET® must be individualized on the basis of both effectiveness and tolerance, while not exceeding the maximum recommended daily dose.
+The maximum recommended daily dose of FORTAMET® Extended-Release Tablets in adults is 2500 mg.
 
-FORTAMET extended-release tablets
+FORTAMET® should be taken with a full glass of water once daily with the evening meal.
+FORTAMET® should be started at a low dose, with gradual dose escalation, both to reduce gastrointestinal side effects and to permit identification of the minimum dose required for adequate glycemic control of the patient.
 
-- Swallow FORTAMET extended-release tablets whole and never crush, cut or chew.
-- The recommended starting dose of FORTAMET extended-release is 500 mg orally once daily with the evening meal.
-- Increase the dose in increments of 500 mg weekly on the basis of glycemic control and tolerability, up to a maximum of 2000 mg once daily with the evening meal.
-- If glycemic control is not achieved with FORTAMET extended-release tablets 2000 mg once daily, consider a trial of FORTAMET extended-release tablets 1000 mg twice daily.
-  If higher doses are required, switch to metformin hydrochloride tablets at total daily doses up to 2550 mg administered in divided daily doses, as described above.
-- Patients receiving metformin hydrochloride tablets may be switched to FORTAMET extended-release tablets once daily at the same total daily dose, up to 2000 mg once daily.
+During treatment initiation and dose titration (see Recommended Dosing Schedule), fasting plasma glucose should be used to determine the therapeutic response to FORTAMET® and identify the minimum effective dose for the patient.
+Thereafter, glycosylated hemoglobin should be measured at intervals of approximately three months.
+The therapeutic goal should be to decrease both fasting plasma glucose and glycosylated hemoglobin levels to normal or near normal by using the lowest effective dose of FORTAMET®, either when used as monotherapy or in combination with sulfonylurea or insulin.
 
-## 2.3 Recommendations for Use in Renal Impairment
+Monitoring of blood glucose and glycosylated hemoglobin will also permit detection of primary failure, i.e., inadequate lowering of blood glucose at the maximum recommended dose of medication, and secondary failure, i.e., loss of an adequate blood glucose lowering response after an initial period of effectiveness.
 
-- Assess renal function prior to initiation of FORTAMET extended-release tablets and periodically thereafter.
-- FORTAMET extended-release tablets are contraindicated in patients with an estimated glomerular filtration rate (eGFR) below 30 mL/minute/1.73 m2.
-- Initiation of FORTAMET extended-release tablets in patients with an eGFR between 30 to 45 mL/minute/1.73 m2 is not recommended.
-- In patients taking FORTAMET extended-release tablets whose eGFR later falls below 45 mL/min/1.73 m2, assess the benefit risk of continuing therapy.
-- Discontinue FORTAMET extended-release tablets if the patient’s eGFR later falls below 30 mL/minute/1.73 m2 [see Warnings and Precautions (5.1)].
+Short-term administration of FORTAMET® may be sufficient during periods of transient loss of control in patients usually well-controlled on diet alone.
 
-## 2.4 Discontinuation for Iodinated Contrast Imaging Procedures
+## Recommended Dosing Schedule
 
-Discontinue FORTAMET extended-release tablets at the time of, or prior to, an iodinated contrast imaging procedure in patients with an eGFR between 30 and 60 mL/min/1.73 m2; in patients with a history of liver disease, alcoholism, or heart failure; or in patients who will be administered intra-arterial iodinated contrast.
-Re-evaluate eGFR 48 hours after the imaging procedure; restart FORTAMET extended-release tablets if renal function is stable.
+The usual starting dose of FORTAMET® is 1000 mg taken with a full glass of water once daily with the evening meal, although 500 mg may be utilized when clinically appropriate.
+Dosage increases should be made in increments of 500 mg weekly, up to a maximum of 2500 mg once daily with the evening meal (see CLINICAL PHARMACOLOGY, Clinical Studies).
+
+In randomized trials, patients currently treated with immediate-release metformin were switched to FORTAMET®.
+Results of this trial suggest that patients receiving immediate-release metformin treatment may be safely switched to FORTAMET® once daily at the same total daily dose, up to 2500 mg once daily.
+Following a switch from immediate-release metformin to FORTAMET®, glycemic control should be closely monitored and dosage adjustments made accordingly (see CLINICAL PHARMACOLOGY, Clinical Studies).
+
+Pediatrics – There is no pediatric information available for FORTAMET®.
+
+### Concomitant FORTAMET® and Oral Sulfonylurea Therapy in Adult Patients
+
+If patients have not responded to four weeks of the maximum dose of FORTAMET® monotherapy, consideration should be given to gradual addition of an oral sulfonylurea while continuing FORTAMET® at the maximum dose, even if prior primary or secondary failure to a sulfonylurea has occurred.
+Clinical and pharmacokinetic drug-drug interaction data are currently available only for metformin plus glyburide (also known as glibenclamide).
+With concomitant FORTAMET® and sulfonylurea therapy, the desired control of blood glucose may be obtained by adjusting the dose of each drug.
+However, attempts should be made to identify the minimum effective dose of each drug to achieve this goal.
+With concomitant FORTAMET® and sulfonylurea therapy, the risk of hypoglycemia associated with sulfonylurea therapy continues and may be increased.
+Appropriate precautions should be taken (see Package Insert of the respective sulfonylurea).
+
+If patients have not satisfactorily responded to one to three months of concomitant therapy with the maximum dose of FORTAMET® and the maximum dose of an oral sulfonylurea, consider therapeutic alternatives including switching to insulin with or without FORTAMET®.
+
+### Concomitant FORTAMET® and Insulin Therapy in Adult Patients
+
+The current insulin dose should be continued upon initiation of FORTAMET® therapy.
+FORTAMET® therapy should be initiated at 500 mg once daily in patients on insulin therapy.
+For patients not responding adequately, the dose of FORTAMET® should be increased by 500 mg after approximately 1 week and by 500 mg every week thereafter until adequate glycemic control is achieved.
+The maximum recommended daily dose for FORTAMET® Extended-Release Tablet is 2500 mg.
+It is recommended that the insulin dose be decreased by 10% to 25% when fasting plasma glucose concentrations decrease to less than 120 mg/dL in patients receiving concomitant insulin and FORTAMET®.
+Further adjustment should be individualized based on glucose-lowering response.
+
+### Recommendations for Use in Renal Impairment
+
+Assess renal function prior to initiation of FORTAMET® and periodically thereafter.
+
+FORTAMET® is contraindicated in patients with an estimated glomerular filtration rate (eGFR) below 30 mL/minute/1.73 m2.
+
+Initiation of FORTAMET® in patients with an eGFR between 30 – 45 mL/minute/1.73 m2 is not recommended.
+
+In patients taking FORTAMET® whose eGFR later falls below 45 mL/min/1.73 m2, assess the benefit risk of continuing therapy.
+
+Discontinue FORTAMET® if the patient’s eGFR later falls below 30 mL/minute/1.73 m2 (see WARNINGS and PRECAUTIONS).
+
+### Discontinuation for Iodinated Contrast Imaging Procedures
+
+Discontinue FORTAMET® at the time of, or prior to, an iodinated contrast imaging procedure in patients with an eGFR between 30 and 60 mL/min/1.73 m2; in patients with a history of liver disease, alcoholism or heart failure; or in patients who will be administered intra-arterial iodinated contrast.
+Re-evaluate eGFR 48 hours after the imaging procedure; restart FORTAMET® if renal function is stable.
+
+### Specific Patient Populations
+
+FORTAMET® is not recommended for use in pregnancy, and is not recommended in patients below the age of 17 years.
+
+The initial and maintenance dosing of FORTAMET® should be conservative in patients with advanced age, due to the potential for decreased renal function in this population.
+Any dosage adjustment should be based on a careful assessment of renal function.
+
+Monitoring of renal function is necessary to aid in prevention of lactic acidosis, particularly in the elderly (see WARNINGS).
