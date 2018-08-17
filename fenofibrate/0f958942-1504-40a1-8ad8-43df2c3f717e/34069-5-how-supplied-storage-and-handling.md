@@ -1,20 +1,16 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Fenofibrate tablets, USP are available containing 48 mg and 145 mg of fenofibrate, USP.
+Fenofibrate Tablets, USP are available containing 48 mg or 145 mg of fenofibrate, USP.
 
-The 48 mg tablets are white film-coated, oval, unscored tablets debossed with M on one side of the tablet and FE3 on the other side.
+The 48 mg tablets are white, film-coated, oval, unscored tablets debossed with M on one side of the tablet and FE3 on the other side.
 They are available as follows:
-
-NDC 0378-3065-93 bottles of 30 tablets
 
 NDC 0378-3065-77 bottles of 90 tablets
 
 NDC 0378-3065-05 bottles of 500 tablets
 
-The 145 mg tablets are white film-coated, oval, unscored tablets debossed with M on one side of the tablet and FE4 on the other side.
+The 145 mg tablets are white, film-coated, oval, unscored tablets debossed with M on one side of the tablet and FE4 on the other side.
 They are available as follows:
-
-NDC 0378-3066-93 bottles of 30 tablets
 
 NDC 0378-3066-77 bottles of 90 tablets
 

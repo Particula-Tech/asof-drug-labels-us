@@ -8,7 +8,7 @@ The pharmacological effects of fenofibric acid in both animals and humans have b
 The lipid-modifying effects of fenofibric acid seen in clinical practice have been explained in vivo in transgenic mice and in vitro in human hepatocyte cultures by the activation of peroxisome proliferator activated receptor α (PPARα).
 Through this mechanism, fenofibrate increases lipolysis and elimination of triglyceride-rich particles from plasma by activating lipoprotein lipase and reducing production of apoprotein C-III (an inhibitor of lipoprotein lipase activity).
 
-The resulting decrease in TG produces an alteration in the size and composition of LDL from small, dense particles (which are thought to be atherogenic due to their susceptibility to oxidation) to large buoyant particles.
+The resulting decrease in TG produces an alteration in the size and composition of LDL from small, dense particles (which are thought to be atherogenic due to their susceptibility to oxidation) to large, buoyant particles.
 These larger particles have a greater affinity for cholesterol receptors and are catabolized rapidly.
 Activation of PPARα also induces an increase in the synthesis of apolipoproteins A-I, A-II and HDL-cholesterol.
 
@@ -16,9 +16,9 @@ Fenofibrate also reduces serum uric acid levels in hyperuricemic and normal indi
 
 ## 12.2 Pharmacodynamics
 
-A variety of clinical studies have demonstrated that elevated levels of total-C, LDL-C and apo B, an LDL membrane complex, are associated with human atherosclerosis.
+A variety of clinical studies have demonstrated that elevated levels of total-C, LDL-C, and apo B, an LDL membrane complex, are associated with human atherosclerosis.
 Similarly, decreased levels of HDL-C and its transport complex, apolipoprotein A (apo AI and apo AII) are associated with the development of atherosclerosis.
-Epidemiologic investigations have established that cardiovascular morbidity and mortality vary directly with the level of total-C, LDL-C and TG and inversely with the level of HDL-C.
+Epidemiologic investigations have established that cardiovascular morbidity and mortality vary directly with the level of total-C, LDL-C, and TG, and inversely with the level of HDL-C.
 The independent effect of raising HDL-C or lowering triglycerides (TG) on the risk of cardiovascular morbidity and mortality has not been determined.
 
 Fenofibric acid, the active metabolite of fenofibrate, produces reductions in total cholesterol, LDL cholesterol, apolipoprotein B, total triglycerides and triglyceride rich lipoprotein (VLDL) in treated patients.
@@ -42,7 +42,7 @@ Exposure to fenofibric acid in plasma, as measured by Cmax and AUC, is not signi
 
 ### Distribution
 
-Upon multiple dosing of fenofibrate, fenofibric acid steady-state is achieved within 9 days.
+Upon multiple dosing of fenofibrate, fenofibric acid steady state is achieved within 9 days.
 Plasma concentrations of fenofibric acid at steady state are approximately double of those following a single dose.
 Serum protein binding was approximately 99% in normal and hyperlipidemic subjects.
 
@@ -71,7 +71,7 @@ This indicates that a similar dosage regimen can be used in elderly with normal 
 
 #### Pediatrics
 
-The pharmacokinetics of fenofibrate has not been studied in pediatric populations.
+The pharmacokinetics of fenofibrate tablets have not been studied in pediatric populations.
 
 #### Gender
 
@@ -83,10 +83,10 @@ The influence of race on the pharmacokinetics of fenofibrate has not been studie
 
 #### Renal Impairment
 
-The pharmacokinetics of fenofibric acid was examined in patients with mild, moderate and severe renal impairment.
+The pharmacokinetics of fenofibric acid was examined in patients with mild, moderate, and severe renal impairment.
 Patients with severe renal impairment (estimated glomerular filtration rate [eGFR] < 30 mL/min/1.73m2) showed 2.7-fold increase in exposure for fenofibric acid and increased accumulation of fenofibric acid during chronic dosing compared to that of healthy subjects.
-Patients with mild to moderate renal impairment (eGFR 30 to 59 mL/min/1.73m2) had similar exposure but an increase in the half-life for fenofibric acid compared to that of healthy subjects.
-Based on these findings, the use of fenofibrate should be avoided in patients who have severe renal impairment and dose reduction is required in patients having mild to moderate renal impairment [see Dosage and Administration (2.4)].
+Patients with mild to moderate renal impairment (eGFR 30-59 mL/min/1.73m2) had similar exposure but an increase in the half-life for fenofibric acid compared to that of healthy subjects.
+Based on these findings, the use of fenofibrate tablets should be avoided in patients who have severe renal impairment and dose reduction is required in patients having mild to moderate renal impairment [see Dosage and Administration (2.4)].
 
 #### Hepatic Impairment
 
@@ -94,16 +94,16 @@ No pharmacokinetic studies have been conducted in patients with hepatic impairme
 
 ### Drug-drug Interactions
 
-In vitro studies using human liver microsomes indicate that fenofibrate and fenofibric acid are not inhibitors of cytochrome (CYP) P450 isoforms CYP3A4, CYP2D6, CYP2E1 or CYP1A2.
-They are weak inhibitors of CYP2C8, CYP2C19 and CYP2A6 and mild to moderate inhibitors of CYP2C9 at therapeutic concentrations.
+In vitro studies using human liver microsomes indicate that fenofibrate and fenofibric acid are not inhibitors of cytochrome (CYP) P450 isoforms CYP3A4, CYP2D6, CYP2E1, or CYP1A2.
+They are weak inhibitors of CYP2C8, CYP2C19 and CYP2A6, and mild-to-moderate inhibitors of CYP2C9 at therapeutic concentrations.
 
-Table 2 describes the effects of coadministered drugs on fenofibric acid systemic exposure.
-Table 3 describes the effects of coadministered fenofibrate or fenofibric acid on other drugs.
+Table 2 describes the effects of co-administered drugs on fenofibric acid systemic exposure.
+Table 3 describes the effects of co-administered fenofibrate or fenofibric acid on other drugs.
 
 Table 2.
-Effects of Coadministered Drugs on Fenofibric Acid Systemic Exposure from Fenofibrate Administration
+Effects of Co-Administered Drugs on Fenofibric Acid Systemic Exposure from Fenofibrate Administration
 
-| Coadministered Drug | Dosage Regimen of Coadministered Drug | Dosage Regimen of Fenofibrate | Changes in Fenofibric Acid Exposure |  |
+| Co-Administered Drug | Dosage Regimen of Co-Administered Drug | Dosage Regimen of Fenofibrate | Changes in Fenofibric Acid Exposure |  |
 | --- | --- | --- | --- | --- |
 | AUC | Cmax |  |  |  |
 | Lipid-lowering agents |  |  |  |  |
@@ -112,13 +112,13 @@ Effects of Coadministered Drugs on Fenofibric Acid Systemic Exposure from Fenofi
 | Fluvastatin | 40 mg as a single dose | Fenofibrate 160 mg as a single dose | ↓ 2% | ↓ 10% |
 | Anti-diabetic agents |  |  |  |  |
 | Glimepiride | 1 mg as a single dose | Fenofibrate 145 mg once daily for 10 days | ↑ 1% | ↓ 1% |
-| Metformin | 850 mg three times daily for 10 days | Fenofibrate 54 mg three times daily for 10 days | ↓ 9 | ↓ 6 |
+| Metformin | 850 mg three times daily for 10 days | Fenofibrate 54 mg three times daily for 10 days | ↓ 9% | ↓ 6% |
 | Rosiglitazone | 8 mg once daily for 5 days | Fenofibrate 145 mg once daily for 14 days | ↑ 10% | ↑ 3% |
 
 Table 3.
-Effects of Fenofibrate Coadministration on Systemic Exposure of Other Drugs
+Effects of Fenofibrate Co-Administration on Systemic Exposure of Other Drugs
 
-| Dosage Regimen of Fenofibrate | Dosage Regimen of Coadministered Drug | Change in Coadministered Drug Exposure |  |  |
+| Dosage Regimen of Fenofibrate | Dosage Regimen of Co-Administered Drug | Change in Co-Administered Drug Exposure |  |  |
 | --- | --- | --- | --- | --- |
 | Analyte | AUC | Cmax |  |  |
 | Lipid-lowering agents |  |  |  |  |

@@ -2,7 +2,7 @@
 
 ## 2.1 General Considerations
 
-Patients should be placed on an appropriate lipid-lowering diet before receiving fenofibrate tablets and should continue this diet during treatment with fenofibrate tablets.
+Patients should be placed on an appropriate lipid-lowering diet before receiving fenofibrate tablets, and should continue this diet during treatment with fenofibrate tablets.
 Fenofibrate tablets can be given without regard to meals.
 
 The initial treatment for dyslipidemia is dietary therapy specific for the type of lipoprotein abnormality.
@@ -14,7 +14,7 @@ In such cases, discontinuation of the specific etiologic agent may obviate the n
 
 Lipid levels should be monitored periodically and consideration should be given to reducing the dosage of fenofibrate tablets if lipid levels fall significantly below the targeted range.
 
-Therapy should be withdrawn in patients who do not have an adequate response after 2 months of treatment with the maximum recommended dose of 145 mg once daily.
+Therapy should be withdrawn in patients who do not have an adequate response after two months of treatment with the maximum recommended dose of 145 mg once daily.
 
 ## 2.2 Primary Hypercholesterolemia or Mixed Dyslipidemia
 
@@ -22,13 +22,13 @@ The initial dose of fenofibrate tablets is 145 mg once daily.
 
 ## 2.3 Severe Hypertriglyceridemia
 
-The initial dose is 48 mg to 145 mg per day.
-Dosage should be individualized according to patient response and should be adjusted if necessary following repeat lipid determinations at 4 to 8 week intervals.
+The initial dose is 48 to 145 mg per day.
+Dosage should be individualized according to patient response, and should be adjusted if necessary following repeat lipid determinations at 4 to 8 week intervals.
 The maximum dose is 145 mg once daily.
 
 ## 2.4 Impaired Renal Function
 
-Treatment with fenofibrate tablets should be initiated at a dose of 48 mg per day in patients having mild to moderately impaired renal function and increased only after evaluation of the effects on renal function and lipid levels at this dose.
+Treatment with fenofibrate tablets should be initiated at a dose of 48 mg per day in patients having mild to moderately impaired renal function, and increased only after evaluation of the effects on renal function and lipid levels at this dose.
 The use of fenofibrate tablets should be avoided in patients with severe renal impairment [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 ## 2.5 Geriatric Patients

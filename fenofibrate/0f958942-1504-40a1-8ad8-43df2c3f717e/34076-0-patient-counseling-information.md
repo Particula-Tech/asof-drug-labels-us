@@ -5,16 +5,16 @@ Patients should be advised:
 - •of the potential benefits and risks of fenofibrate tablets.
 - •not to use fenofibrate tablets if there is a known hypersensitivity to fenofibrate or fenofibric acid.
 - •of medications that should not be taken in combination with fenofibrate tablets.
-- •that if they are taking coumarin anticoagulants, fenofibrate tablets may increase their anti-coagulant effect and increased monitoring may be necessary.
+- •that if they are taking coumarin anticoagulants, fenofibrate tablets may increase their anti-coagulant effect, and increased monitoring may be necessary.
 - •to continue to follow an appropriate lipid-modifying diet while taking fenofibrate tablets.
 - •to take fenofibrate tablets once daily, without regard to food, at the prescribed dose, swallowing each tablet whole.
 - •to return for routine monitoring.
-- •to inform their physician of all medications, supplements and herbal preparations they are taking and any change to their medical condition.
+- •to inform their physician of all medications, supplements, and herbal preparations they are taking and any change to their medical condition.
   Patients should also be advised to inform their physicians prescribing a new medication that they are taking fenofibrate tablets.
-- •to inform their physician of any muscle pain, tenderness or weakness; onset of abdominal pain; or any other new symptoms.
+- •to inform their physician of any muscle pain, tenderness, or weakness; onset of abdominal pain; or any other new symptoms.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Manufactured in India by: Mylan Laboratories Limited Hyderabad—500 034, India Code No. MH/DRUGS/25/NKD/89
+Manufactured by: Mylan Laboratories Limited Hyderabad—500 096, India
 
-REVISED APRIL 2013 75051702 MX:FNFBR:R2
+Revised:6/2018 75065205 MX:FNFBR:R3
