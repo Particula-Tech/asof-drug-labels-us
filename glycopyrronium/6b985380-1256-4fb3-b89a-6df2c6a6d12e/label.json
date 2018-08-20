@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA210361"
+  ],
+  "inn": "glycopyrronium",
+  "labeler": "Dermira, Inc.",
+  "package_ndcs": [
+    "70428-011-11",
+    "70428-011-12"
+  ],
+  "products": [
+    {
+      "form": "CLOTH",
+      "generic": "glycopyrronium",
+      "name": "Qbrexza"
+    }
+  ],
+  "setid": "6b985380-1256-4fb3-b89a-6df2c6a6d12e",
+  "source": "dailymed"
+}
