@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "NDA020397",
+    "NDA021447"
+  ],
+  "inn": "tizanidine",
+  "labeler": "Covis Pharma",
+  "package_ndcs": [
+    "70515-594-15",
+    "70515-602-15",
+    "70515-604-15",
+    "70515-606-15"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "tizanidine hydrochloride",
+      "name": "Zanaflex"
+    },
+    {
+      "form": "TABLET",
+      "generic": "tizanidine hydrochloride",
+      "name": "Zanaflex"
+    }
+  ],
+  "setid": "043d9e51-bfa2-4add-9058-5ece332f7e99",
+  "source": "dailymed"
+}
