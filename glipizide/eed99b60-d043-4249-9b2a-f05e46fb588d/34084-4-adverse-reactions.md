@@ -26,7 +26,7 @@ Table 1: Incidence (%) of Adverse Reactions Reported in ≥3% of Patients Treate
 | Tremor | 3.6 | 0.0 |
 | Flatulence | 3.2 | 1.4 |
 
-Hypoglycemia:
+Hypoglycemia
 
 Of the 580 patients that received GLUCOTROL XL in clinical trials, 3.4% had hypoglycemia documented by a blood-glucose measurement <60 mg/dL and/or symptoms believed to be associated with hypoglycemia and 2.6% of patients discontinued for this reason.
 Hypoglycemia was not reported for any placebo patients.
@@ -40,7 +40,9 @@ Dermatologic Reactions
 In clinical trials, allergic skin reactions, i.e., urticaria occurred in less than 1.5% of treated patients and were more common in GLUCOTROL XL treated patients than those receiving placebo.
 These may be transient and may disappear despite continued use of glipizide XL; if skin reactions persist, the drug should be discontinued.
 
-Laboratory Tests: Mild to moderate elevations of ALT, LDH, alkaline phosphatase, BUN and creatinine have been noted.
+Laboratory Tests
+
+Mild to moderate elevations of ALT, LDH, alkaline phosphatase, BUN and creatinine have been noted.
 The relationship of these abnormalities to glipizide is uncertain.
 
 ## 6.2 Postmarketing Experience
