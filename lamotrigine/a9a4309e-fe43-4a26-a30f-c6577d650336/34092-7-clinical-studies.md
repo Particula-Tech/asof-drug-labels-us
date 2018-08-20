@@ -42,7 +42,7 @@ Target doses were designed to approximate 5 mg/kg/day for patients taking valpro
 The primary efficacy endpoint was percentage change from baseline in all partial-onset seizures.
 For the intent-to-treat population, the median reduction of all partial-onset seizures was 36% in patients treated with lamotrigine and 7% on placebo, a difference that was statistically significant (P<0.01).
 Adjunctive Therapy with Lamotrigine in Pediatric and Adult Patients with Lennox-Gastaut Syndrome The effectiveness of lamotrigine as adjunctive therapy in patients with Lennox-Gastaut syndrome was established in a multicenter, double-blind, placebo-controlled trial in 169 patients aged 3 to 25 years (n = 79 on lamotrigine, n = 90 on placebo).
-Following a 4-week single-blind, placebo phase, patients were randomized to 16 weeks of treatment with lamotrigine or placebo added to their current AED regimen of up to 3 drugs.
+Following a 4-week, single-blind, placebo phase, patients were randomized to 16 weeks of treatment with lamotrigine or placebo added to their current AED regimen of up to 3 drugs.
 Patients were dosed on a fixed-dose regimen based on body weight and valproate use.
 Target doses were designed to approximate 5 mg/kg/day for patients taking valproate (maximum dose: 200 mg/day) and 15 mg/kg/day for patients not taking valproate (maximum dose: 400 mg/day).
 The primary efficacy endpoint was percentage change from baseline in major motor seizures (atonic, tonic, major myoclonic, and tonic-clonic seizures).

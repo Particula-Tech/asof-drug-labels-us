@@ -18,7 +18,7 @@ In the bipolar and other mood disorders clinical trials, the rate of serious ras
 No fatalities occurred among these individuals.
 However, in worldwide postmarketing experience, rare cases of rash-related death have been reported, but their numbers are too few to permit a precise estimate of the rate.
 
-Among the rashes leading to hospitalization were Stevens-Johnson syndrome, toxic epidermal necrolysis, angioedema, and those associated with multiorgan hypersensitivity [see Warnings and Precautions (5.2)].
+Among the rashes leading to hospitalization were Stevens-Johnson syndrome, toxic epidermal necrolysis, angioedema, and those associated with multiorgan hypersensitivity [see Warnings and Precautions (5.3)].
 
 There is evidence that the inclusion of valproate in a multidrug regimen increases the risk of serious, potentially life-threatening rash in adults.
 Specifically, of 584 patients administered lamotrigine with valproate in epilepsy clinical trials, 6 (1%) were hospitalized in association with rash; in contrast, 4 (0.16%) of 2,398 clinical trial patients and volunteers administered lamotrigine in the absence of valproate were hospitalized.
@@ -27,7 +27,17 @@ Patients with History of Allergy or Rash to Other Antiepileptic Drugs
 
 The risk of nonserious rash may be increased when the recommended initial dose and/or the rate of dose escalation for lamotrigine is exceeded and in patients with a history of allergy or rash to other AEDs.
 
-## 5.2 Multiorgan Hypersensitivity Reactions and Organ Failure
+## 5.2 Hemophagocytic Lymphohistiocytosis
+
+Hemophagocytic lymphohistiocytosis (HLH) has occurred in pediatric and adult patients taking lamotrigine for various indications.
+HLH is a life-threatening syndrome of pathologic immune activation characterized by clinical signs and symptoms of extreme systemic inflammation.
+It is associated with high mortality rates if not recognized early and treated.
+Common findings include fever, hepatosplenomegaly, rash, lymphadenopathy, neurologic symptoms, cytopenias, high serum ferritin, and liver function and coagulation abnormalities.
+In cases of HLH reported with lamotrigine, patients have presented with signs of systemic inflammation (fever, rash, hepatosplenomegaly, and organ system dysfunction) and blood dyscrasias.
+Symptoms have been reported to occur within 8 to 24 days following the initiation of treatment.
+Patients who develop early manifestations of pathologic immune activation should be evaluated immediately, and a diagnosis of HLH should be considered. lamotrigine should be discontinued if an alternative etiology for the signs or symptoms cannot be established.
+
+## 5.3 Multiorgan Hypersensitivity Reactions and Organ Failure
 
 Multiorgan hypersensitivity reactions, also known as drug reaction with eosinophilia and systemic symptoms (DRESS), have occurred with lamotrigine.
 Some have been fatal or life threatening.
@@ -42,12 +52,12 @@ If such signs or symptoms are present, the patient should be evaluated immediate
 Lamotrigine should be discontinued if an alternative etiology for the signs or symptoms cannot be established.
 Prior to initiation of treatment with lamotrigine, the patient should be instructed that a rash or other signs or symptoms of hypersensitivity (e.g., fever, lymphadenopathy) may herald a serious medical event and that the patient should report any such occurrence to a healthcare provider immediately.
 
-## 5.3 Blood Dyscrasias
+## 5.4 Blood Dyscrasias
 
-There have been reports of blood dyscrasias that may or may not be associated with multiorgan hypersensitivity (also known as DRESS) [see Warnings and Precautions (5.2)].
+There have been reports of blood dyscrasias that may or may not be associated with multiorgan hypersensitivity (also known as DRESS) [see Warnings and Precautions (5.3)].
 These have included neutropenia, leukopenia, anemia, thrombocytopenia, pancytopenia, and, rarely, aplastic anemia and pure red cell aplasia.
 
-## 5.4 Suicidal Behavior and Ideation
+## 5.5 Suicidal Behavior and Ideation
 
 AEDs, including lamotrigine, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
@@ -78,7 +88,7 @@ Should suicidal thoughts and behavior emerge during treatment, the prescriber ne
 Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, the emergence of suicidal thoughts or suicidal behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
-## 5.5 Aseptic Meningitis
+## 5.6 Aseptic Meningitis
 
 Therapy with lamotrigine increases the risk of developing aseptic meningitis.
 Because of the potential for serious outcomes of untreated meningitis due to other causes, patients should also be evaluated for other causes of meningitis and treated as appropriate.
@@ -91,9 +101,9 @@ Re-exposure resulted in a rapid return of symptoms (from within 30 minutes to 1 
 Some of the patients treated with lamotrigine who developed aseptic meningitis had underlying diagnoses of systemic lupus erythematosus or other autoimmune diseases.
 Cerebrospinal fluid (CSF) analyzed at the time of clinical presentation in reported cases was characterized by a mild to moderate pleocytosis, normal glucose levels, and mild to moderate increase in protein.
 CSF white blood cell count differentials showed a predominance of neutrophils in a majority of the cases, although a predominance of lymphocytes was reported in approximately one third of the cases.
-Some patients also had new onset of signs and symptoms of involvement of other organs (predominantly hepatic and renal involvement), which may suggest that in these cases the aseptic meningitis observed was part of a hypersensitivity reaction [see Warnings and Precautions (5.2)].
+Some patients also had new onset of signs and symptoms of involvement of other organs (predominantly hepatic and renal involvement), which may suggest that in these cases the aseptic meningitis observed was part of a hypersensitivity reaction [see Warnings and Precautions (5.3)].
 
-## 5.6 Potential Medication Errors
+## 5.7 Potential Medication Errors
 
 Medication errors involving lamotrigine have occurred.
 In particular, the names lamotrigine can be confused with the names of other commonly used medications.
@@ -102,27 +112,27 @@ To reduce the potential of medication errors, write and say lamotrigine clearly.
 Depictions of the lamotrigine tablets can be found in the Medication Guide that accompanies the product to highlight the distinctive markings, colors, and shapes that serve to identify the different presentations of the drug and thus may help reduce the risk of medication errors.
 To avoid the medication error of using the wrong drug or formulation, patients should be strongly advised to visually inspect their tablets to verify that they are lamotrigine, as well as the correct formulation of lamotrigine, each time they fill their prescription.
 
-## 5.7 Concomitant Use with Oral Contraceptives
+## 5.8 Concomitant Use with Oral Contraceptives
 
 Some estrogen-containing oral contraceptives have been shown to decrease serum concentrations of lamotrigine [see Clinical Pharmacology (12.3)].
 Dosage adjustments will be necessary in most patients who start or stop estrogen-containing oral contraceptives while taking lamotrigine [see Dosage and Administration (2.1)].
 During the week of inactive hormone preparation (pill-free week) of oral contraceptive therapy, plasma lamotrigine levels are expected to rise, as much as doubling at the end of the week.
 Adverse reactions consistent with elevated levels of lamotrigine, such as dizziness, ataxia, and diplopia, could occur.
 
-## 5.8 Withdrawal Seizures
+## 5.9 Withdrawal Seizures
 
 As with other AEDs, lamotrigine should not be abruptly discontinued.
 In patients with epilepsy there is a possibility of increasing seizure frequency.
 In clinical trials in adults with bipolar disorder, 2 patients experienced seizures shortly after abrupt withdrawal of lamotrigine.
 Unless safety concerns require a more rapid withdrawal, the dose of lamotrigine should be tapered over a period of at least 2 weeks (approximately 50% reduction per week) [see Dosage and Administration (2.1)].
 
-## 5.9 Status Epilepticus
+## 5.10 Status Epilepticus
 
 Valid estimates of the incidence of treatment-emergent status epilepticus among patients treated with lamotrigine are difficult to obtain because reporters participating in clinical trials did not all employ identical rules for identifying cases.
 At a minimum, 7 of 2,343 adult patients had episodes that could unequivocally be described as status epilepticus.
 In addition, a number of reports of variably defined episodes of seizure exacerbation (e.g., seizure clusters, seizure flurries) were made.
 
-## 5.10 Sudden Unexplained Death in Epilepsy (SUDEP)
+## 5.11 Sudden Unexplained Death in Epilepsy (SUDEP)
 
 During the premarketing development of lamotrigine, 20 sudden and unexplained deaths were recorded among a cohort of 4,700 patients with epilepsy (5,747 patient-years of exposure).
 
@@ -131,14 +141,13 @@ This represents an incidence of 0.0035 deaths per patient-year.
 Although this rate exceeds that expected in a healthy population matched for age and sex, it is within the range of estimates for the incidence of sudden unexplained death in epilepsy (SUDEP) in patients not receiving lamotrigine (ranging from 0.0005 for the general population of patients with epilepsy, to 0.004 for a recently studied clinical trial population similar to that in the clinical development program for lamotrigine, to 0.005 for patients with refractory epilepsy).
 Consequently, whether these figures are reassuring or suggest concern depends on the comparability of the populations reported upon with the cohort receiving lamotrigine and the accuracy of the estimates provided.
 Probably most reassuring is the similarity of estimated SUDEP rates in patients receiving lamotrigine and those receiving other AEDs, chemically unrelated to each other, that underwent clinical testing in similar populations.
-Importantly, that drug is chemically unrelated to lamotrigine.
 This evidence suggests, although it certainly does not prove, that the high SUDEP rates reflect population rates, not a drug effect.
 
-## 5.11 Addition of Lamotrigine to a Multidrug Regimen that Includes Valproate
+## 5.12 Addition of Lamotrigine to a Multidrug Regimen that Includes Valproate
 
 Because valproate reduces the clearance of lamotrigine, the dosage of lamotrigine in the presence of valproate is less than half of that required in its absence [see Dosage and Administration (2.2, 2.3, 2.4), Drug Interactions (7)].
 
-## 5.12 Binding in the Eye and Other Melanin-Containing Tissues
+## 5.13 Binding in the Eye and Other Melanin-Containing Tissues
 
 Because lamotrigine binds to melanin, it could accumulate in melanin-rich tissues over time.
 This raises the possibility that lamotrigine may cause toxicity in these tissues after extended use.
@@ -146,7 +155,7 @@ Although ophthalmological testing was performed in 1 controlled clinical trial, 
 Moreover, the capacity of available tests to detect potentially adverse consequences, if any, of lamotrigine's binding to melanin is unknown [see Clinical Pharmacology (12.2)].
 Accordingly, although there are no specific recommendations for periodic ophthalmological monitoring, prescribers should be aware of the possibility of long-term ophthalmologic effects.
 
-## 5.13 Laboratory Tests
+## 5.14 Laboratory Tests
 
 False-Positive Drug Test Results Lamotrigine has been reported to interfere with the assay used in some rapid urine drug screens, which can result in false-positive readings, particularly for phencyclidine (PCP).
 A more specific analytical method should be used to confirm a positive result.

@@ -13,7 +13,7 @@ Children and teenagers aged between 2 and 17 years have a higher chance of getti
 
 The risk of getting a serious skin rash is higher if you:
 
-- take lamotrigine tablets while taking valproate [DEPAKENE® (valproic acid) or DEPAKOTE® (divalproex sodium)].
+- take lamotrigine tablets while taking valproate [DEPAKENE (valproic acid) or DEPAKOTE (divalproex sodium)].
 
 - take a higher starting dose of lamotrigine tablets than your healthcare provider prescribed.
 - increase your dose of lamotrigine tablets faster than prescribed.
@@ -112,28 +112,21 @@ Immediately call your pharmacist if you receive a lamotrigine tablet that does n
 
 What are lamotrigine tablets?
 
-Lamotrigine tablets are a prescription medicine used:
-
+- Lamotrigine tablets are a prescription medicine used:
 - together with other medicines to treat certain types of seizures (partial-onset seizures, primary generalized tonic-clonic seizures, generalized seizures of Lennox-Gastaut syndrome) in people aged 2 years and older.
 - alone when changing from 1 other medicine used to treat partial-onset seizures in people aged 16 years and older.
 - for the long-term treatment of bipolar I disorder to lengthen the time between mood episodes in people who have been treated for mood episodes with other medicine.
+- It is not known if lamotrigine tablets are safe or effective in people younger than 18 years with mood episodes such as bipolar disorder or depression.
+- It is not known if lamotrigine tablets are safe or effective when used alone as the first treatment of seizures.
+- It is not known if lamotrigine tablets are safe or effective for people with mood episodes who have not already been treated with other medicines.
+- Lamotrigine tablets should not be used for acute treatment of manic or mixed mood episodes.
 
-It is not known if lamotrigine tablets are safe or effective in people younger than 18 years with mood episodes such as bipolar disorder or depression.
+Do not take lamotrigine tablets?
 
-It is not known if lamotrigine tablets are safe or effective when used alone as the first treatment of seizures.
+- if you have had an allergic reaction to lamotrigine or to any of the inactive ingredients in lamotrigine tablets.
+  See the end of this leaflet for a complete list of ingredients in lamotrigine tablets.
 
-It is not known if lamotrigine tablets are safe or effective for people with mood episodes who have not already been treated with other medicines.
-
-Lamotrigine tablets should not be used for acute treatment of manic or mixed mood episodes.
-
-Who should not take lamotrigine tablets?
-
-You should not take lamotrigine tablets if you have had an allergic reaction to lamotrigine or to any of the inactive ingredients in lamotrigine tablets.
-See the end of this leaflet for a complete list of ingredients in lamotrigine tablets.
-
-What should I tell my healthcare provider before taking lamotrigine tablets?
-
-Before taking lamotrigine tablets, tell your healthcare provider about all of your medical conditions, including if you:
+Before taking lamotrigine tablets, tell your healthcare provider about all of your health conditions, including if you:
 
 - have had a rash or allergic reaction to another antiseizure medicine.
 - have or have had depression, mood problems, or suicidal thoughts or behavior.
@@ -144,7 +137,7 @@ Before taking lamotrigine tablets, tell your healthcare provider about all of yo
   Stopping these medicines while you are taking lamotrigine tablets may cause side effects (such as dizziness, lack of coordination, or double vision).
   Starting these medicines may lessen how well lamotrigine tablets work.
 - are pregnant or plan to become pregnant.
-  It is not known if lamotrigine tablets will harm your unborn baby.
+  It is not known if lamotrigine tablets may harm your unborn baby.
   If you become pregnant while taking lamotrigine tablets, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
   You can enroll in this registry by calling 1-888-233-2334.
   The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
@@ -154,10 +147,12 @@ Before taking lamotrigine tablets, tell your healthcare provider about all of yo
   Call your baby’s healthcare provider right away if you see any of these problems.
   Talk to your healthcare provider about the best way to feed your baby if you take lamotrigine tablets.
 
-Tell your healthcare provider about all the medicines you take or if you are planning to take a new medicine, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+Lamotrigine tablets and certain other medicines may interact with each other.
+This may cause serious side effects.
 
-If you use lamotrigine tablets with certain other medicines, they can affect each other, causing side effects.
-
+Know the medicines you take.
+Keep a list of them to show your healthcare provider and pharmacist when you get a new medicine.
 How should I take lamotrigine tablets?
 
 - Take lamotrigine tablets exactly as prescribed.
@@ -176,7 +171,7 @@ How should I take lamotrigine tablets?
 - If you have epilepsy, tell your healthcare provider if your seizures get worse or if you have any new types of seizures.
 - Swallow lamotrigine tablets whole.
 - If you have trouble swallowing lamotrigine tablets, tell your healthcare provider because there may be another form of lamotrigine you can take.
-- If you receive lamotrigine tablets in a blisterpack, examine the blister pack before use.
+- If you receive lamotrigine tablets in a blister pack, examine the blister pack before use.
   Do not use if blisters are torn, broken, or missing.
 
 What should I avoid while taking lamotrigine tablets?
@@ -210,10 +205,7 @@ Common side effects of lamotrigine tablets include:
 - stuffy nose
 - sore throat
 
-Tell your healthcare provider about any side effect that bothers you or that does not go away.
-
 These are not all the possible side effects of lamotrigine tablets.
-For more information, ask your healthcare provider or pharmacist.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-­800-FDA-1088.
@@ -221,23 +213,20 @@ You may report side effects to FDA at 1-­800-FDA-1088.
 How should I store lamotrigine tablets?
 
 - Store lamotrigine tablets at room temperature between 20° to 25°C (68° to 77°F).
-- Keep lamotrigine tablets and all medicines out of the reach of children.
+
+Keep lamotrigine tablets and all medicines out of the reach of children.
 
 General information about the safe and effective use of lamotrigine tablets
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use lamotrigine tablets for a condition for which it was not prescribed.
-Do not give lamotrigine tablets to other people, even if they have the same symptoms you have.
+Do not give lamotrigine tablets to other people, even if they have the same symptoms that you have.
 They may harm them.
 
 If you take a urine drug screening test, lamotrigine tablets may make the test result positive for another drug.
 If you require a urine drug screening test, tell the healthcare professional administering the test that you are taking lamotrigine tablets.
-
-This Medication Guide summarizes the most important information about lamotrigine tablets.
-If you would like more information, talk with your healthcare provider.
-You can ask your healthcare provider or pharmacist for information about lamotrigine tablets that is written for healthcare professionals.
-
-For more information, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
+You can ask your healthcare provider or pharmacist for information about lamotrigine tablets that is written for health professionals.
+For more information about lamotrigine tablets, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
 
 What are the ingredients in lamotrigine tablets?
 
@@ -250,4 +239,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 The brands listed are trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
 Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
 
-Distributed by: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 05/2018
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 08/2018
