@@ -26,7 +26,7 @@ Pre-marketing Controlled Arthritis Trials
 Table 1 lists all adverse events, regardless of causality, occurring in ≥2% of patients receiving celecoxib capsules from 12 controlled studies conducted in patients with OA or RA that included a placebo and/or a positive control group.
 Since these 12 trials were of different durations, and patients in the trials may not have been exposed for the same duration of time, these percentages do not capture cumulative rates of occurrence.
 
-$ Table 1: Adverse Events Occurring in ≥2% of Celecoxib Patients from Pre-marketing Controlled Arthritis Trials
+Table 1: Adverse Events Occurring in ≥2% of Celecoxib Patients from Pre-marketing Controlled Arthritis Trials
 
 |  | Celecoxib (N=4146) | Placebo (N=1864) | NAP (N=1366) | DCF (N=387) | IBU (N=345) |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -36,7 +36,7 @@ $ Table 1: Adverse Events Occurring in ≥2% of Celecoxib Patients from Pre-mark
 | Dyspepsia | 8.8% | 6.2% | 12.2% | 10.9% | 12.8% |  |
 | Flatulence | 2.2% | 1.0% | 3.6% | 4.1% | 3.5% |  |
 | Nausea | 3.5% | 4.2% | 6.0% | 3.4% | 6.7% |  |
-| Body as whole |  |  |  |  |  |  |
+| Body as a whole |  |  |  |  |  |  |
 | Back Pain | 2.8% | 3.6% | 2.2% | 2.6% | 0.9% |  |
 | Peripheral Edema | 2.1% | 1.1% | 2.1% | 1.0% | 3.5% |  |
 | Injury-Accidental | 2.9% | 2.3% | 3.0% | 2.6% | 3.2% |  |
@@ -92,7 +92,7 @@ The following serious adverse events (causality not evaluated) occurred in <0.1%
 | Nervous: | Ataxia, suicide [see Drug Interactions (7.1)] |
 | Renal: | Acute renal failure |
 
-The Celecoxib Long-Term Arthritis Safety Study [see Special Studies (14.6)]
+The Celecoxib Long-Term Arthritis Safety Study [see Special Studies (14.7)]
 
 Hematological Events: The incidence of clinically significant decreases in hemoglobin (>2 g/dL) was lower in patients on celecoxib capsules 400 mg twice daily (0.5%) compared to patients on either diclofenac 75 mg twice daily (1.3%) or ibuprofen 800 mg three times daily 1.9%.
 The lower incidence of events with celecoxib capsules was maintained with or without aspirin use [see Clinical Pharmacology (12.2)].
@@ -154,7 +154,7 @@ The only additional adverse event reported was post-dental extraction alveolar o
 
 The APC and PreSAP Trials
 
-Adverse reactions from long-term, placebo-controlled polyp prevention studies: Exposure to celecoxib capsules in the APC and PreSAP trials was 400 to 800 mg daily for up to 3 years [see Special Studies Adenomatous Polyp Prevention Studies (14.6)].
+Adverse reactions from long-term, placebo-controlled polyp prevention studies: Exposure to celecoxib capsules in the APC and PreSAP trials was 400 to 800 mg daily for up to 3 years [see Special Studies Adenomatous Polyp Prevention Studies (14.7)].
 
 Some adverse reactions occurred in higher percentages of patients than in the arthritis pre-marketing trials (treatment durations up to 12 weeks; see Adverse events from celecoxib capsules pre-marketing controlled arthritis trials, above).
 The adverse reactions for which these differences in patients treated with celecoxib capsules were greater as compared to the arthritis pre-marketing trials were as follows:

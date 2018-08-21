@@ -1,6 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-Celecoxib capsules are contraindicated in the following patients:
+Celecoxib are contraindicated in the following patients:
 
 - Known hypersensitivity (e.g., anaphylactic reactions and serious skin reactions) to celecoxib, any components of the drug product [see Warnings and Precautions (5.7, 5.9)].
 - History of asthma, urticaria, or other allergic-type reactions after taking aspirin or other NSAIDs.

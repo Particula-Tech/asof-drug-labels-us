@@ -2,7 +2,7 @@
 
 See Table 3 for clinically drug interactions with celecoxib.
 
-$ Table 3: Clinically Significant drug interactions with Celecoxib
+Table 3: Clinically Significant drug interactions with Celecoxib
 
 | Drugs That Interfere with Hemostasis |  |
 | --- | --- |
@@ -36,7 +36,7 @@ $ Table 3: Clinically Significant drug interactions with Celecoxib
 | Clinical Impact: | Concomitant use of celecoxib capsules and pemetrexed may increase the risk of pemetrexed-associated myelosuppression, renal, and GI toxicity (see the pemetrexed prescribing information). |
 | Intervention: | During concomitant use of celecoxib capsules and pemetrexed, in patients with renal impairment whose creatinine clearance ranges from 45 to 79 mL/min, monitor for myelosuppression, renal and GI toxicity. NSAIDs with short elimination half-lives (e.g., diclofenac, indomethacin) should be avoided for a period of two days before, the day of, and two days following administration of pemetrexed. In the absence of data regarding potential interaction between pemetrexed and NSAIDs with longer half-lives (e.g., meloxicam, nabumetone), patients taking these NSAIDs should interrupt dosing for at least five days before, the day of, and two days following pemetrexed administration. |
 | CYP2C9 Inhibitors or inducers |  |
-| Clinical Impact: | Celecoxib metabolism is predominantly mediated via cytochrome P450 (CYP) 2C9 in the liver. Coadministration of celecoxib with drugs that are known to inhibit CYP2C9 (e.g. fluconazole) may enhance the exposure and toxicity of celecoxib whereas co-administration with CYP2C9 inducers (e.g. rifampin) may lead to compromised efficacy of celecoxib. |
+| Clinical Impact: | Celecoxib metabolism is predominantly mediated via cytochrome P450 (CYP) 2C9 in the liver. Co-administration of celecoxib with drugs that are known to inhibit CYP2C9 (e.g. fluconazole) may enhance the exposure and toxicity of celecoxib whereas co-administration with CYP2C9 inducers (e.g. rifampin) may lead to compromised efficacy of celecoxib. |
 | Intervention: | Evaluate each patient's medical history when consideration is given to prescribing celecoxib. A dosage adjustment may be warranted when celecoxib is administered with CYP2C9 inhibitors or inducers. [see Clinical Pharmacology (12.3)]. |
 | CYP2D6 substrates |  |
 | Clinical Impact: | In vitro studies indicate that celecoxib, although not a substrate, is an inhibitor of CYP2D6. Therefore, there is a potential for an in vivo drug interaction with drugs that are metabolized by CYP2D6 (e.g. atomoxetine), and celecoxib may enhance the exposure and toxicity of these drugs. |
