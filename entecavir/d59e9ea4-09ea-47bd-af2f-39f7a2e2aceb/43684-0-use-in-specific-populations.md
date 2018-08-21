@@ -31,11 +31,15 @@ Because many drugs are excreted into human milk and because of the potential for
 
 ## 8.4 Pediatric Use
 
+Entecavir was evaluated in two clinical trials of pediatric subjects 2 years of age and older with HBeAg-positive chronic HBV infection and compensated liver disease.
+The exposure of entecavir in nucleoside-inhibitor-treatment-naïve and lamivudine-experienced pediatric subjects 2 years of age and older with HBeAg-positive chronic HBV infection and compensated liver disease receiving 0.015 mg/kg (up to 0.5 mg once daily) or 0.03 mg/kg (up to 1 mg once daily), respectively, was evaluated in Study AI463028.
+Safety and efficacy of the selected dose in treatment-naïve pediatric subjects were confirmed in Study AI463189, a randomized, placebo-controlled treatment trial [see Indications and Usage (1), Dosage and Administration (2.3), Adverse Reactions (6.2), Clinical Pharmacology (12.3), and Clinical Studies (14.2)].
+
+There are limited data available on the use of entecavir in lamivudine-experienced pediatric patients; entecavir should be used in these patients only if the potential benefit justifies the potential risk to the child.
+Since some pediatric patients may require long-term or even lifetime management of chronic active hepatitis B, consideration should be given to the impact of entecavir on future treatment options [see Microbiology (12.4)].
+
 The efficacy and safety of entecavir have not been established in patients less than 2 years of age.
 Use of entecavir in this age group has not been evaluated because treatment of HBV in this age group is rarely required.
-
-Pediatric use information is approved for Bristol-Myers Squibb Company's Baraclude® (entecavir) tablets.
-However, due to Bristol-Myers Squibb Company's marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 8.5 Geriatric Use
 

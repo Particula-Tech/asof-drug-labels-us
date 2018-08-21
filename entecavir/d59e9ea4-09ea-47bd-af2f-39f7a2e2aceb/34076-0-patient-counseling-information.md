@@ -31,8 +31,10 @@ Indore SEZ, Pithampur, INDIA.
 
 Manufactured for: Cipla USA, Inc.
 
-9100 S. Dadeland Blvd., Suite 1500 Miami, FL 33156
+1560 Sawgrass Corporate Parkway,
+
+Suite 130, Sunrise, FL 33323
 
 Disclaimer: Other brands listed are the registered trademarks of their respective owners and are not of Cipla Ltd.
 
-Revised: 12/2016
+Revised: 7/2018

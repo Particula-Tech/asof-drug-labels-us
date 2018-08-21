@@ -18,8 +18,14 @@ The recommended dose of entecavir tablets for chronic hepatitis B virus infectio
 
 ## 2.3 Recommended Dosage in Pediatric Patients
 
-Pediatric use information is approved for Bristol-Myers Squibb Company's Baraclude® (entecavir) tablets.
-However, due to Bristol-Myers Squibb Company's marketing exclusivity rights, this drug product is not labeled with that information.
+Table 1: Dosing Schedule for Pediatric Patients
+
+|  | Recommended Once-Daily Dose of Tablet (mg) |  |
+| --- | --- | --- |
+| Body Weight (kg) | Treatment-Naïve Patientsa | Lamivudine-Experienced Patientsb |
+| greater than 30 | 0.5 | 1.0 |
+| a Children with body weight greater than 30 kg should receive one 0.5 mg tablet once daily. |  |  |
+| b Children with body weight greater than 30 kg should receive one 1 mg tablet once daily |  |  |
 
 ## 2.4 Renal Impairment
 
@@ -29,15 +35,14 @@ The once-daily dosing regimens are preferred.
 
 | Table 2: | Recommended Dosage of Entecavir Tablets in Adult Patients with Renal Impairment |  |
 | --- | --- | --- |
-| Creatine Clearance (mL/min) | Usual Dose (0.5mg) | Lamivudine-Refractory or Decompensated liver Disease (1mg) |
+| Creatinine Clearance (mL/min) | Usual Dose (0.5mg) | Lamivudine-Refractory or Decompensated liver Disease (1mg) |
 | 50 or greater | 0.5mg once daily | 1mg once daily |
 | 30 to less than 50 | 0.5mg every 48 hours | 0.5mg once daily OR 1mg every 48 hours |
 | 10 to less than 30 | 0.5mg every 72 hours | 1mg every 72 hours |
 | Less than 10 Hemodialysis a or CAPD | 0.5mg every 7 days | 1mg every 7 days |
 | a If administered on a hemodialysis day, administer entecavir tablet after the hemodialysis session. |  |  |
 
-Pediatric use information is approved for Bristol-Myers Squibb Company's Baraclude® (entecavir) tablets.
-However, due to Bristol-Myers Squibb Company's marketing exclusivity rights, this drug product is not labeled with that information.
+Although there are insufficient data to recommend a specific dose adjustment of entecavir tablets in pediatric patients with renal impairment, a reduction in the dose or an increase in the dosing interval similar to adjustments for adults should be considered.
 
 ## 2.5 Hepatic Impairment
 

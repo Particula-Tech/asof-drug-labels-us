@@ -37,21 +37,21 @@ Selected virologic, biochemical, and serologic outcome measures are shown in Tab
 | No change | 46% | 40% | 41% | 34% |
 | Worsening c | 8% | 10% | 12% | 15% |
 | Missing Week 48 biopsy | 7% | 14% | 10% | 13% |
-| aSubjects with evaluable baseline histology (baseline Knodell Necroinflammatory Score ≥2). |  |  |  |  |
-| b≥2-point decrease in Knodell Necroinflammatory Score from baseline with no worsening of the Knodell Fibrosis Score. |  |  |  |  |
+| a Subjects with evaluable baseline histology (baseline Knodell Necroinflammatory Score ≥2). |  |  |  |  |
+| b ≥2-point decrease in Knodell Necroinflammatory Score from baseline with no worsening of the Knodell Fibrosis Score. |  |  |  |  |
 | c For Ishak Fibrosis Score, improvement = ≥1-point decrease from baseline and worsening = ≥1-point increase from baseline. |  |  |  |  |
 
-| Table 9: | Selected Virologic, Biochemical, and Serologic Endpoints at Week 48, Nucleoside-Inhibitor Naïve Subjects in Studies AI463022 and AI463027 |  |  |  |
-| --- | --- | --- | --- | --- |
-|  | Study AI463022 |  | StudyAI463027 |  |
-|  | (HBeAg-Positive) |  | (HBeAg-Negative) |  |
-|  | Entecavir 0.5mg n=354 | Lamivudine 100mg n= 355 | Entecavir 0.5mg n=325 | Lamivudine 100mg n= 313 |
-| HBV DNAa |  |  |  |  |
-| Proportion undetectable (<300 copies/mL) | 67% | 36% | 90% | 72% |
-| Mean change from baseline (log10 copies/mL) | -6.86 | -5.39 | -5.04 | -4.53 |
-| ALT normalization (≤1 x ULN) | 68% | 60% | 78% | 71% |
-| HBeAg seroconversion | 21% | 18% | NA | NA |
-| a Roche COBAS Amplicor PCR assay [lower limit of quantification (LLOQ)=300copies/mL] |  |  |  |  |
+| Table 9: | Selected Virologic, Biochemical, and Serologic Endpoints at Week 48, Nucleoside-Inhibitor Naïve Subjects in Studies AI463022 and AI463027 |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | Study AI463022 |  | StudyAI463027 |  |  |
+|  | (HBeAg-Positive) |  | (HBeAg-Negative) |  |  |
+|  | Entecavir 0.5mg n=354 | Lamivudine 100mg n= 355 | Entecavir 0.5mg n=325 | Lamivudine 100mg n= 313 |  |
+| HBV DNAa |  |  |  |  |  |
+| Proportion undetectable (<300 copies/mL) | 67% | 36% | 90% | 72% |  |
+| Mean change from baseline (log10 copies/mL) | -6.86 | -5.39 | -5.04 | -4.53 |  |
+| ALT normalization (≤1 x ULN) | 68% | 60% | 78% | 71% |  |
+| HBeAg seroconversion | 21% | 18% | NA | NA |  |
+| a Roche COBAS Amplicor PCR assay [lower limit of quantification (LLOQ)=300copies/mL] |  |  |  |  |  |
 
 Histologic Improvement was independent of baseline levels of HBV DNA or ALT.
 
@@ -80,8 +80,8 @@ Table 11 shows selected virologic, biochemical, and serologic endpoints.
 | No change | 44% | 42% |
 | Worsening c | 11% | 26% |
 | Missing Week 48 biopsy | 11% | 16% |
-| aSubjects with evaluable baseline histology (baseline Knodell Necroinflammatory Score ≥2). |  |  |
-| b≥2-point decrease in Knodell Necroinflammatory Score from baseline with no worsening of the Knodell Fibrosis Score. |  |  |
+| a Subjects with evaluable baseline histology (baseline Knodell Necroinflammatory Score ≥2). |  |  |
+| b ≥2-point decrease in Knodell Necroinflammatory Score from baseline with no worsening of the Knodell Fibrosis Score. |  |  |
 | c For Ishak Fibrosis Score, improvement = ≥1-point decrease from baseline and worsening = ≥1-point increase from baseline. |  |  |
 
 | Table 11: | Selected Virologic, Biochemical, | and Serologic Endpoints at |
@@ -93,7 +93,7 @@ Table 11 shows selected virologic, biochemical, and serologic endpoints.
 | Mean change from baseline (log10 copies/mL) | -5.11 | -0.48 |
 | ALT normalization (≤1 x ULN) | 61% | 15% |
 | HBeAg seroconversion | 8% | 3% |
-| aRoche COBAS Amplicor PCR assay (LLOQ = 300 copies/mL). |  |  |
+| a Roche COBAS Amplicor PCR assay (LLOQ = 300 copies/mL). |  |  |
 
 Histologic Improvement was independent of baseline levels of HBV DNA or ALT.
 
@@ -119,7 +119,7 @@ Results for selected study endpoints at Week 48 are shown in Table 12.
 | HBsAg loss | 5% | 0 |
 | Normalization of ALT (≤1 x ULN)d | 49/78 (63%) | 33/71 (46%) |
 | a Endpoints were analyzed using intention-to-treat (ITT) method, treated subjects as randomized. |  |  |
-| bRoche COBAS Amplicor PCR assay (LLOQ = 300 copies/mL). |  |  |
+| b Roche COBAS Amplicor PCR assay (LLOQ = 300 copies/mL). |  |  |
 | c Defined as decrease or no change from baseline in CTP score. |  |  |
 | d Denominator is subjects with abnormal values at baseline. |  |  |
 | ULN=upper limit of normal. |  |  |
@@ -179,5 +179,16 @@ In this cohort of entecavir subjects, 31 (40%) subjects achieved HBV DNA <300 co
 
 ## 14.2 Outcomes in Pediatric Subjects
 
-Pediatric use information is approved for Bristol-Myers Squibb Company's Baraclude® (entecavir) tablets.
-However, due to Bristol-Myers Squibb Company's marketing exclusivity rights, this drug product is not labeled with that information.
+The pharmacokinetics, safety and antiviral activity of entecavir in pediatric subjects were initially assessed in Study AI463028.
+Twenty-four treatment-naïve and 19 lamivudine-experienced HBeAg-positive pediatric subjects 2 to less than 18 years of age with compensated CHB and elevated ALT were treated with entecavir 0.015 mg/kg (up to 0.5 mg) or 0.03 mg/kg (up to 1 mg) once daily.
+Fifty-eight percent (14/24) of treatment-naïve subjects and 47% (9/19) of lamivudine-experienced subjects achieved HBV DNA <50 IU/mL at Week 48 and ALT normalized in 83% (20/24) of treatment-naïve and 95% (18/19) of lamivudine-experienced subjects.
+
+Safety and antiviral efficacy were confirmed in Study AI463189, an ongoing study of entecavir among 180 nucleoside-inhibitor-treatment-naïve pediatric subjects 2 to less than 18 years of age with HBeAg-positive chronic hepatitis B infection, compensated liver disease, and elevated ALT.
+Subjects were randomized 2:1 to receive blinded treatment with entecavir 0.015 mg/kg up to 0.5 mg/day (N=120) or placebo (N=60).
+The randomization was stratified by age group (2 to 6 years; >6 to 12 years; and >12 to <18 years).
+Baseline demographics and HBV disease characteristics were comparable between the 2 treatment arms and across age cohorts.
+At study entry, the mean HBV DNA was 8.1 log10 IU/mL and mean ALT was 103 U/L.
+The primary efficacy endpoint was a composite of HBeAg seroconversion and serum HBV DNA <50 IU/mL at Week 48 assessed in the first 123 subjects reaching 48 weeks of blinded treatment.
+Twenty-four percent (20/82) of subjects in the entecavir-treated group and 2% (1/41) of subjects in the placebo-treated group met the primary endpoint.
+Forty-six percent (38/82) of entecavir-treated subjects and 2% (1/41) of placebo-treated subjects achieved HBV DNA <50 IU/mL at Week 48.
+ALT normalization occurred in 67% (55/82) of entecavir-treated subjects and 22% (9/41) of placebo-treated subjects; 24% (20/82) of entecavir-treated subjects and 12% (5/41) of placebo-treated subjects had HBeAg seroconversion.

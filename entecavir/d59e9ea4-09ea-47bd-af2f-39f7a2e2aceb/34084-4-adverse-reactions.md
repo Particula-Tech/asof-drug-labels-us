@@ -67,7 +67,7 @@ Frequencies of selected treatment-emergent laboratory abnormalities reported dur
 | b Studies AI463022 and AI463027. |  |  |  |  |
 | c Includes Study AI463026 and the entecavir 1 mg and lamivudine treatment arms of Study AI463014, a Phase 2 multinational, randomized, double-blind study of three doses of entecavir (0.1, 0.5, and 1 mg) once daily versus continued lamivudine 100 mg once daily for up to 52 weeks in subjects who experienced recurrent viremia on lamivudine therapy. |  |  |  |  |
 | d Includes hematology, routine chemistries, renal and liver function tests, pancreatic enzymes, and urinalysis. |  |  |  |  |
-| eGrade 3 = 3+, large, ≥500 mg/dL; Grade 4 = 4+, marked, severe. |  |  |  |  |
+| e Grade 3 = 3+, large, ≥500 mg/dL; Grade 4 = 4+, marked, severe. |  |  |  |  |
 | f Grade 3 = 3+, large; Grade 4 = ≥4+, marked, severe, many. |  |  |  |  |
 | ULN=upper limit of normal. |  |  |  |  |
 
@@ -83,21 +83,21 @@ In these studies, a subset of subjects was allowed to discontinue treatment at o
 If entecavir is discontinued without regard to treatment response, the rate of post-treatment flares could be higher.
 [See Warnings and Precautions (5.1).]
 
-| Table 5: | Exacerbations of Hepatitis During Subjects in Studies AI463022, | Off-Treatment Follow-up, AI463027, and AI463026 |
-| --- | --- | --- |
-|  | Subjects with ALT Elevations >10 | x ULN and >2 x Reference a |
-|  | Entecavir | Lamivudine |
-| Nucleoside-inhibitor-naïve |  |  |
-| HBeAg-positive | 4/174 (2%) | 13/147 (9%) |
-| HBeAg-negative | 24/302 (8%) | 30/270 (11%) |
-| Lamivudine-refractory | 6/52 (12%) | 0/16 |
-| a Reference is the minimum of the baseline or last measurement at end of dosing. Median time to off-treatment exacerbation was 23 weeks for entecavir -treated subjects and 10 weeks for lamivudine-treated subjects. |  |  |
+| Table 5: | Exacerbations of Hepatitis During Subjects in Studies AI463022, |  | Off-Treatment Follow-up, AI463027, and AI463026 |
+| --- | --- | --- | --- |
+|  | Subjects with ALT Elevations >10 | x ULN and >2 x Reference a |  |
+|  | Entecavir | Lamivudine |  |
+| Nucleoside-inhibitor-naïve |  |  |  |
+| HBeAg-positive | 4/174 (2%) | 13/147 (9%) |  |
+| HBeAg-negative | 24/302 (8%) | 30/270 (11%) |  |
+| Lamivudine-refractory | 6/52 (12%) | 0/16 |  |
+| a Reference is the minimum of the baseline or last measurement at end of dosing. Median time to off-treatment exacerbation was 23 weeks for entecavir -treated subjects and 10 weeks for lamivudine-treated subjects. |  |  |  |
 
 Decompensated Liver Disease
 
 Study AI463048 was a randomized, open-label study of entecavir 1 mg once daily versus adefovir dipivoxil 10 mg once daily given for up to 48 weeks in adult subjects with chronic HBV infection and evidence of hepatic decompensation, defined as a Child-Turcotte-Pugh (CTP) score of 7 or higher [see Clinical Studies (14.1)].
 Among the 102 subjects receiving entecavir, the most common treatment-emergent adverse events of any severity, regardless of causality, occurring through Week 48 were peripheral edema (16%), ascites (15%), pyrexia (14%), hepatic encephalopathy (10%), and upper respiratory infection (10%).
-Clinical adverse reactions not listed in Table 2 that were observed through Week 48 include blood bicarbonate decreased (2%) and renal failure (<1%).
+Clinical adverse reactions not listed in Table 3 that were observed through Week 48 include blood bicarbonate decreased (2%) and renal failure (<1%).
 
 Eighteen of 102 (18%) subjects treated with entecavir and 18/89 (20%) subjects treated with adefovir dipivoxil died during the first 48 weeks of therapy.
 The majority of deaths (11 in the entecavir group and 16 in the adefovir dipivoxil group) were due to liver-related causes such as hepatic failure, hepatic encephalopathy, hepatorenal syndrome, and upper gastrointestinal hemorrhage.
@@ -123,8 +123,12 @@ entecavir.
 
 ## 6.2 Clinical Trial Experience in Pediatric Subjects
 
-Pediatric use information is approved for Bristol-Myers Squibb Company's Baraclude® (entecavir) tablets.
-However, due to Bristol-Myers Squibb Company's marketing exclusivity rights, this drug product is not labeled with that information.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+The safety of entecavir in pediatric subjects 2 to less than 18 years of age is based on two ongoing clinical trials in subjects with chronic HBV infection (one Phase 2 pharmacokinetic trial [AI463028] and one Phase 3 trial [AI463189]).
+These trials provide experience in 168 HBeAg-positive subjects treated with entecavir for a median duration of 72 weeks.
+The adverse reactions observed in pediatric subjects who received treatment with entecavir were consistent with those observed in clinical trials of entecavir in adults.
+Adverse drug reactions reported in greater than 1% of pediatric subjects included abdominal pain, rash events, poor palatability ("product taste abnormal"), nausea, diarrhea, and vomiting.
 
 ## 6.3 Postmarketing Experience
 
