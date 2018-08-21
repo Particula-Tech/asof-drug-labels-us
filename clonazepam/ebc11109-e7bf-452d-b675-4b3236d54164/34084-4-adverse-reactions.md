@@ -28,7 +28,7 @@ Miscellaneous: Dehydration, general deterioration, fever, lymphadenopathy, weigh
 Neurologic: Abnormal eye movements, aphonia, choreiform movements, coma, diplopia, dysarthria, dysdiadochokinesis, “glassy-eyed” appearance, headache, hemiparesis, hypotonia, nystagmus, respiratory depression, slurred speech, tremor, vertigo
 
 Psychiatric: Confusion, depression, amnesia, hallucinations, hysteria, increased libido, insomnia, psychosis (the behavior effects are more likely to occur in patients with a history of psychiatric disturbances).
-The following paradoxical reactions have been observed: excitability, irritability, aggressive behavior, agitation, nervousness, hostility, anxiety, sleep disturbances, nightmares and vivid dreams
+The following paradoxical reactions have been observed: irritability, aggression, agitation, nervousness, hostility, anxiety, sleep disturbances, nightmares, abnormal dreams, hallucinations.
 
 Respiratory: Chest congestion, rhinorrhea, shortness of breath, hypersecretion in upper respiratory passages
 
@@ -59,7 +59,7 @@ Table 2 Most Common Adverse Events (≥ 1%) Associated with Discontinuation of T
 | Ataxia | 1% | 0% |
 | Intellectual Ability Reduced | 1% | 0% |
 
-Adverse Events Occurring at an Incidence of 1% or More Among Clonazepam-Treated Patients:
+Adverse Events Occurring at an Incidence of 1% or More among Clonazepam-Treated Patients:
 
 Table 3 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse events that occurred during acute therapy of panic disorder from a pool of two 6- to 9-week trials.
 Events reported in 1% or more of patients treated with clonazepam (doses ranging from 0.5 to 4 mg/day) and for which the incidence was greater than that in placebo-treated patients are included.
@@ -124,7 +124,7 @@ Commonly Observed Adverse Events:
 Table 4.
 Incidence of Most Commonly Observed Adverse Events Treatment-emergent events for which the incidence in the clonazepam patients was ≥ 5% and at least twice that in the placebo patients. in Acute Therapy in Pool of 6- to 9- Week Trials
 
-| Adverse Event (Sponsor Preferred Term) | Clonazepam (N = 574) | Placebo (n = 294) |
+| Adverse Event | Clonazepam (N = 574) | Placebo (n = 294) |
 | --- | --- | --- |
 | Somnolence | 37% | 10% |
 | Depression | 7% | 1% |
@@ -164,7 +164,7 @@ Musculoskeletal System Disorders: back pain, fracture traumatic, sprains and str
 
 Platelet, Bleeding and Clotting Disorders: bleeding dermal
 
-Psychiatric Disorders: insomnia, organic disinhibition, anxiety, depersonalization, dreaming excessive, libido loss, appetite increased, libido increased, reactions decreased, aggressive reaction, apathy, attention lack, excitement, feeling mad, hunger abnormal, illusion, nightmares, sleep disorder, suicide ideation, yawning
+Psychiatric Disorders: insomnia, organic disinhibition, anxiety, depersonalization, dreaming excessive, libido loss, appetite increased, libido increased, reactions decreased, aggression, apathy, disturbance in attention, excitement, anger, hunger abnormal, illusion, nightmares, sleep disorder, suicide ideation, yawning
 
 Reproductive Disorders, Female: breast pain, menstrual irregularity
 

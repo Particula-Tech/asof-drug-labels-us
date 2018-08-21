@@ -2,40 +2,40 @@
 
 NDC 16729- 136-00
 
-CLONAZEPAM CIV TABLETS, USP 0.5 mg
+Clonazepam Tablets, USP 0.5 mg
+
+CIV
 
 Rx Only
 
-Pharmacist: Must be dispensed with Medication Guide.
+ATTENTION PHARMACIST: Dispense the accompanying Medication guide to each patient.
 
-100 TABLETS
-
-accord
+100 Tablets
 
 # PRINCIPAL DISPLAY PANEL - 1 mg
 
 NDC 16729- 137-00
 
-CLONAZEPAM CIV TABLETS, USP 1 mg
+Clonazepam Tablets, USP 1 mg
+
+CIV
 
 Rx Only
 
-Pharmacist: Must be dispensed with Medication Guide.
+ATTENTION PHARMACIST: Dispense the accompanying Medication guide to each patient.
 
-100 TABLETS
-
-accord
+100 Tablets
 
 # PRINCIPAL DISPLAY PANEL - 2 mg
 
 NDC 16729- 138-00
 
-CLONAZEPAM CIV TABLETS, USP 2 mg
+Clonazepam Tablets, USP 2 mg
+
+CIV
 
 Rx Only
 
-Pharmacist: Must be dispensed with Medication Guide.
+ATTENTION PHARMACIST: Dispense the accompanying Medication guide to each patient.
 
-100 TABLETS
-
-accord
+100 Tablets

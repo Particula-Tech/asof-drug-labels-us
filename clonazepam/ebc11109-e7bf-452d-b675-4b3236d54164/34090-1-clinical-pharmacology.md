@@ -3,9 +3,6 @@
 ## Pharmacodynamics:
 
 The precise mechanism by which clonazepam exerts its antiseizure and antipanic effects is unknown, although it is believed to be related to its ability to enhance the activity of gamma aminobutyric acid (GABA), the major inhibitory neurotransmitter in the central nervous system.
-Convulsions produced in rodents by pentylenetetrazol or, to a lesser extent, electrical stimulation are antagonized, as are convulsions produced by photic stimulation in susceptible baboons.
-A taming effect in aggressive primates, muscle weakness and hypnosis are also produced.
-In humans, clonazepam is capable of suppressing the spike and wave discharge in absence seizures (petit mal) and decreasing the frequency, amplitude, duration and spread of discharge in minor motor seizures.
 
 ## Pharmacokinetics:
 
@@ -26,6 +23,10 @@ Pharmacokinetics in Demographic Subpopulations and in Disease States:
 Controlled studies examining the influence of gender and age on clonazepam pharmacokinetics have not been conducted, nor have the effects of renal or liver disease on clonazepam pharmacokinetics been studied.
 Because clonazepam undergoes hepatic metabolism, it is possible that liver disease will impair clonazepam elimination.
 Thus, caution should be exercised when administering clonazepam to these patients.
+(see CONTRAINDICATIONS).
+
+In children, clearance values of 0.42 ± 0.32 mL/min/kg (ages 2 – 18 years) and 0.88 ± 0.4 mL/min/kg (ages 7 – 12 years) were reported; these values decreased with increasing body weight.
+Ketogenic diet in children does not affect clonazepam concentrations.
 
 ## Clinical Trials:
 
