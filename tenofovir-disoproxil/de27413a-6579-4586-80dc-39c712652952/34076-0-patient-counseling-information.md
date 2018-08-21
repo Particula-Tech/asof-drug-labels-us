@@ -1,8 +1,8 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use)
+Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
-Inform patients that is not a cure for HIV-1 infection and patients may continue to experience illnesses associated with HIV-1 infection, including opportunistic infections.
+Inform patients that tenofovir disoproxil fumarate is not a cure for HIV-1 infection and patients may continue to experience illnesses associated with HIV-1 infection, including opportunistic infections.
 Patients should remain under the care of a physician when using tenofovir disoproxil fumarate tablets.
 
 Advise patients to avoid doing things that can spread HIV or HBV to others.
@@ -17,7 +17,7 @@ Advise patients to avoid doing things that can spread HIV or HBV to others.
 
 Inform patients that:
 
-- The long term effects of tenofovir disoproxil fumarate are unknown.
+- The long-term effects of tenofovir disoproxil fumarate are unknown.
 - Tenofovir disoproxil fumarate tablets are for oral ingestion only.
 - Tenofovir disoproxil fumarate should not be discontinued without first informing their physician.
 - If you have HIV-1 infection, with or without HBV coinfection, it is important to take tenofovir disoproxil fumarate with combination therapy.
@@ -27,7 +27,7 @@ Inform patients that:
   Tenofovir disoproxil fumarate should be avoided with concurrent or recent use of a nephrotoxic agent (e.g., high-dose or multiple NSAIDs) [See Warnings and Precautions (5.2)].
 - Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported.
   Treatment with tenofovir disoproxil fumarate should be suspended in any patient who develops clinical symptoms suggestive of lactic acidosis or pronounced hepatotoxicity [See Warnings and Precautions (5.3)].
-- Tenofovir disoproxil fumarate should not be coadministered with ATRIPLA, COMPLERA, DESCOVY, GENVOYA, ODEFSEY, STRIBILD, TRUVADA, or VEMLIDY [See Warnings and Precautions (5.4)].
+- Tenofovir disoproxil fumarate should not be coadministered with ATRIPLA, BIKTARVY, COMPLERA, DESCOVY, GENVOYA, ODEFSEY, STRIBILD, TRUVADA, or VEMLIDY [See Warnings and Precautions (5.4)].
 - Tenofovir disoproxil fumarate should not be administered in combination with HEPSERA [See Warnings and Precautions (5.4)].
 - Decreases in bone mineral density have been observed with the use of tenofovir disoproxil fumarate.
   Bone mineral density monitoring should be considered in patients who have a history of pathologic bone fracture or at risk for osteopenia [See Warnings and Precautions (5.6)].
@@ -37,13 +37,19 @@ Inform patients that:
 - In the treatment of chronic hepatitis B, the optimal duration of treatment is unknown.
   The relationship between response and long-term prevention of outcomes such as hepatocellular carcinoma is not known.
 
-COMPLERA, DESCOVY, EMTRIVA, EPCLUSA, GENVOYA, HARVONI, HEPSERA, ODEFSEY, SOVALDI, STRIBILD, TRUVADA, VEMLIDY, and VIREAD are trademarks of Gilead Sciences, Inc., or its related companies.
+BIKTARVY, COMPLERA, DESCOVY, EMTRIVA, EPCLUSA, GENVOYA, HARVONI, HEPSERA, ODEFSEY, SOVALDI, STRIBILD, TRUVADA, VEMLIDY, and VIREAD are trademarks of Gilead Sciences, Inc., or its related companies.
 ATRIPLA is a trademark of Bristol-Myers Squibb & Gilead Sciences, LLC.
 All other trademarks referenced herein are the property of their respective owners.
 
 Manufactured by:
 
-Cipla Ltd., Verna, Goa, India
+CIPLA LTD.
+
+Verna,
+
+Goa 403 722
+
+INDIA
 
 Manufactured for:
 
@@ -53,4 +59,4 @@ Cipla USA, Inc.
 
 Suite 130, Sunrise, FL 33323
 
-Revised: 11/2017
+Revised: 08/2018

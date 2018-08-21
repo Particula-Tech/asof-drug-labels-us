@@ -1,50 +1,50 @@
 PATIENT INFORMATION
 
-Tenofovir disoproxil fumarate
-
-Tablets
+Tenofovir disoproxil fumarate Tablets
 
 Read this Patient Information before you start taking tenofovir disoproxil fumarate and each time you get a refill.
 There may be new information.
-This information does not take the place of talking with your healthcare provider about your medical condition or your treatment.
+This information does not take the place of talking with your healthcare provider about your medical condition or treatment.
 
 What is the most important information I should know about tenofovir disoproxil fumarate tablets?
 
 Tenofovir disoproxil fumarate can cause serious side effects, including:
 
-1. Worsening of your Hepatitis B infection.
-   Your hepatitis B Virus (HBV) infection may become worse (flare-up) if you take tenofovir disoproxil fumarate and then stop it.
-   A "flare-up" is when your HBV infection suddenly returns in a worse way than before.
+1.
+Worsening of your Hepatitis B infection.
+Your hepatitis B Virus (HBV) infection may become worse (flare-up) if you take tenofovir disoproxil fumarate and then stop it.
+A "flare-up" is when your HBV infection suddenly returns in a worse way than before.
 
 - Do not let your tenofovir disoproxil fumarate tablets run out.
-  Refill your prescription or talk to your healthcare provider before your tenofovir disoproxil fumarate tablets is all gone.
+  Refill your prescription or talk to your healthcare provider before your tenofovir disoproxil fumarate tablets are all gone.
 - Do not stop taking tenofovir disoproxil fumarate tablets without first talking to your healthcare provider.
 - If you stop taking tenofovir disoproxil fumarate tablets, your healthcare provider will need to check your health often and do blood tests regularly to check your HBV infection.
   Tell your healthcare provider about any new or unusual symptoms you may have after you stop taking tenofovir disoproxil fumarate tablets.
 
 Talk to your doctor about taking an HIV test before starting treatment with tenofovir disoproxil fumarate for chronic hepatitis B. You should also get a test for HBV if you are taking tenofovir disoproxil fumarate for treatment of HIV.
 
-What is tenofovir disoproxil fumarate tablets?
+What is tenofovir disoproxil fumarate tablet?
 
 Tenofovir disoproxil fumarate is a prescription medicine used:
 
 1. with other antiviral medicines to treat Human Immunodeficiency Virus-1 (HIV-1) in people 2 years of age and older.
-   HIV is the virus that causes AIDS (Acquired Immune Deficiency Syndrome).
-   - When used with other HIV medicines, tenofovir disoproxil fumarate may reduce the amount of HIV in your blood (called "viral load").
-     Tenofovir disoproxil fumarate may also help to increase the number of CD4 (T) cells in your blood which help fight off other infections.
-     Reducing the amount of HIV and increasing the CD4 (T) cell count may improve your immune system.
-     This may reduce your risk of death or infections that can happen when your immune system is weak (opportunistic infections).
-   - Tenofovir disoproxil fumarate does not cure HIV infection or AIDS.
-     People taking tenofovir disoproxil fumarate may still develop infections or other conditions associated with HIV infection.
-   - You must stay on continuous HIV therapy to control infection and decrease HIV-related illnesses.
-   - It is very important that you stay under the care of your healthcare provider.
-   - It is not known if tenofovir disoproxil fumarate is safe and effective for the treatment of HIV-1 infection in children under the age of 2 years.
-2. to treat chronic (long lasting) hepatitis B virus (HBV) in people 12 years of age and older.
-   - Tenofovir disoproxil fumarate will not cure HBV.
-   - Tenofovir disoproxil fumarate may lower the amount of HBV in your body.
-   - Tenofovir disoproxil fumarate may improve the condition of your liver.
-   - The long-term effects of taking tenofovir disoproxil fumarate for treatment of chronic hepatitis B infection are not known.
-   - It is not known if tenofovir disoproxil fumarate is safe and effective for treatment of chronic hepatitis B in children under the age of 12 years.
+
+- When used with other HIV medicines, tenofovir disoproxil fumarate may reduce the amount of HIV in your blood (called "viral load").
+  Tenofovir disoproxil fumarate may also help to increase the number of CD4 (T) cells in your blood which help fight off other infections.
+  Reducing the amount of HIV and increasing the CD4 (T) cell count may improve your immune system.
+  This may reduce your risk of death or infections that can happen when your immune system is weak (opportunistic infections).
+- Tenofovir disoproxil fumaratedoes not cure HIV infection or AIDS.
+  People taking tenofovir disoproxil fumarate may still develop infections or other conditions associated with HIV infection.
+- You must stay on continuous HIV therapy to control infection and decrease HIV-related illnesses.
+- It is very important that you stay under the care of your healthcare provider.
+- HIV is the virus that causes AIDS (Acquired Immune Deficiency Syndrome).
+- It is not known if tenofovir disoproxil fumarate is safe and effective for the treatment of HIV-1 infection in children under the age of 2 years.
+
+1. to treat chronic (long-lasting) hepatitis B virus (HBV) in people 12 years of age and older.
+
+- Tenofovir disoproxil fumarate may lower the amount of HBV in your body.
+- Tenofovir disoproxil fumarate may improve the condition of your liver.
+- It is not known if tenofovir disoproxil fumarate is safe and effective for treatment of chronic hepatitis B in children under the age of 12 years.
 
 What should I tell my healthcare provider before taking tenofovir disoproxil fumarate tablets?
 
@@ -68,26 +68,14 @@ Talk to your healthcare provider about how you can take part in this registry.
   You should not breastfeed because of the risk of passing HIV to your baby.
   Talk to your healthcare provider about the best way to feed your baby.
 
-Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
+Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 
-Tenofovir disoproxil fumarate may affect the way other medicines work, and other medicines may affect how tenofovir disoproxil fumarate works.
+Some medicines may affect how tenofovir disoproxil fumarate works.
 
-Do not take tenofovir disoproxil fumarate if you also take:
-
-- other medicines that contain tenofovir (ATRIPLA®, COMPLERA®, DESCOVY®, GENVOYA®, ODEFSEY®, STRIBILD®, TRUVADA®, VEMLIDY®)
-- adefovir (HEPSERA®)
-
-Especially tell your healthcare provider if you take the following medications.
-
-- didanosine (Videx, Videx EC)
-- atazanavir (Reyataz)
-- darunavir (Prezista)
-- lopinavir with ritonavir (Kaletra)
-- ledipasvir with sofosbuvir (HARVONI®)
-- sofosbuvir with velpatasvir (EPCLUSA®)
-
-Know the medicines you take.
-Keep a list of them to show your healthcare provider or pharmacist when you get a new medicine.
+- Keep a list of your medicines and show it to your healthcare provider and pharmacist when you get a new medicine.
+  You can ask your healthcare provider or pharmacist for a list of medicines that interact with tenofovir disoproxil fumarate.
+- Do not start a new medicine without telling your healthcare provider.
+  Your healthcare provider can tell you if it is safe to take tenofovir disoproxil fumarate with other medicines.
 
 How should I take tenofovir disoproxil fumarate tablets?
 
@@ -98,7 +86,7 @@ How should I take tenofovir disoproxil fumarate tablets?
 - If you are an adult with kidney problems, your healthcare provider may tell you to take tenofovir disoproxil fumarate less often.
 - For children 2 to 12 years of age, your healthcare provider will prescribe the right dose of tenofovir disoproxil fumarate tablets based on your child's body weight.
 - Tell your healthcare provider if your child has problems with swallowing tablets.
-- Take tenofovir disoproxil fumarate tablet by mouth, with or without food.
+- Take tenofovir disoproxil fumarate tablets by mouth, with or without food.
 - Do not miss a dose of tenofovir disoproxil fumarate tablet.
   If you miss a dose of tenofovir disoproxil fumarate tablet, take the missed dose as soon as you remember.
   If it is almost time for your next dose of tenofovir disoproxil fumarate tablet, do not take the missed dose.
@@ -109,7 +97,7 @@ What are the possible side effects of tenofovir disoproxil fumarate?
 
 Tenofovir disoproxil fumarate may cause serious side effects, including:
 
-- See "What is the most important information I should know about tenofovir disoproxil fumarate tablets"?
+- See "What is the most important information I should know about tenofovir disoproxil fumarate tablets?"
 - New or worse kidney problems, including kidney failure, can happen in some people who take tenofovir disoproxil fumarate.
   Your healthcare provider should do blood tests to check your kidneys before you start treatment with tenofovir disoproxil fumarate.
   If you have had kidney problems in the past or need to take another medicine that can cause kidney problems, your healthcare provider may need to do blood tests to check your kidneys during your treatment with tenofovir disoproxil fumarate.
@@ -128,21 +116,31 @@ Tenofovir disoproxil fumarate may cause serious side effects, including:
 
 The most common side effects in all people who take tenofovir disoproxil fumarate are:
 
-- nausea
-- pain
-- rash
-- depression
-- diarrhea
-- weakness
-- headache
+nausea
+
+rash
+
+diarrhea
+
+headache
+
+pain
+
+depression
+
+weakness
 
 In some people with advanced HBV-infection, other common side effects may include:
 
-- sleeping problems
-- itching
-- vomiting
-- dizziness
-- fever
+sleeping problems
+
+itching
+
+vomiting
+
+dizziness
+
+fever
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
@@ -170,12 +168,10 @@ It may harm them.
 
 Avoid doing things that can spread HIV-1 or HBV infection to others.
 
-Do not share or re-use needles or other injection equipment.
-
-Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
-
-Do not have any kind of sex without protection.
-Always practice safe sex by using a latex or polyurethane condom to lower the chance of sexual contact with semen, vaginal secretions, or blood.
+- Do not share or re-use needles or other injection equipment.
+- Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
+- Do not have any kind of sex without protection.
+  Always practice safe sex by using a latex or polyurethane condom to lower the chance of sexual contact with semen, vaginal secretions, or blood.
 
 A vaccine is available to protect people at risk for becoming infected with HBV.
 You can ask your healthcare provider for information about this vaccine.
@@ -194,13 +190,19 @@ Inactive Ingredients: Lactose monohydrate, Croscarmellose sodium, Corn starch, P
 
 Tablet Coating: Opadry II Y-30-10671-A Light blue (Lactose monohydrate, HPMC2910/Hypromellose 15cP, Titanium dioxide, Triacetin / Glycerol triacetate, FD&C Blue #2/Indigo carmine Aluminum Lake).
 
-COMPLERA, DESCOVY, GENVOYA, HARVONI, HEPSERA, ODEFSEY, STRIBILD, TRUVADA, VEMLIDY, and VIREAD are trademarks of Gilead Sciences, Inc., or its related companies.
+COMPLERA, BIKTARVY, DESCOVY, GENVOYA, HARVONI, HEPSERA, ODEFSEY, STRIBILD, TRUVADA, VEMLIDY, and VIREAD are trademarks of Gilead Sciences, Inc., or its related companies.
 ATRIPLA is a trademark of Bristol-Myers Squibb & Gilead Sciences, LLC.
 All other trademarks referenced herein are the property of their respective owners.
 
 Manufactured by:
 
-Cipla Ltd., Verna Goa, India
+CIPLA LTD.
+
+Verna,
+
+Goa 403 722
+
+INDIA
 
 Manufactured for:
 
@@ -210,4 +212,4 @@ Cipla USA, Inc.
 
 Suite 130, Sunrise, FL 33323
 
-Revised: 11/2017
+Revised: 08/2018

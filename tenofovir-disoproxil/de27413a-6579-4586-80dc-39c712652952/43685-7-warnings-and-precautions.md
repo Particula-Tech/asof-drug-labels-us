@@ -17,7 +17,7 @@ In patients at risk of renal dysfunction, including patients who have previously
 Dosing interval adjustment of tenofovir disoproxil fumarate and close monitoring of renal function are recommended in all patients with creatinine clearance below 50 mL/min [see Dosage and Administration (2.3)].
 No safety or efficacy data are available in patients with renal impairment who received tenofovir disoproxil fumarate using these dosing guidelines, so the potential benefit of tenofovir disoproxil fumarate therapy should be assessed against the potential risk of renal toxicity.
 
-Tenofovir disoproxil fumarate should be avoided with concurrent or recent use of a nephrotoxic agent (e.g., high-dose or multiple non-steroidal anti-inflammatory drugs (NSAIDs)) [see Drug Interactions (7.4)].
+Tenofovir disoproxil fumarate should be avoided with concurrent or recent use of a nephrotoxic agent (e.g., high-dose or multiple non-steroidal anti-inflammatory drugs (NSAIDs)) [see Drug Interactions (7.1)].
 Cases of acute renal failure after initiation of high dose or multiple NSAIDs have been reported in HIV-infected patients with risk factors for renal dysfunction who appeared stable on tenofovir DF.
 Some patients required hospitalization and renal replacement therapy.
 Alternatives to NSAIDs should be considered, if needed, in patients at risk for renal dysfunction.
@@ -31,8 +31,8 @@ Treatment with tenofovir disoproxil fumarate should be suspended in any patient 
 
 ## 5.4 Coadministration with Other Products
 
-Tenofovir disoproxil fumarate should not be used in combination with other drugs containing tenofovir DF or tenofovir alafenamide, including ATRIPLA, COMPLERA, DESCOVY, GENVOYA, ODEFSEY, STRIBILD, TRUVADA, or VEMLIDY.
-Tenofovir disoproxil fumarate should not be administered in combination with HEPSERA (adefovir dipivoxil) [see Drug Interactions (7.4)].
+Tenofovir disoproxil fumarate should not be used in combination with other drugs containing tenofovir DF or tenofovir alafenamide, including ATRIPLA, BIKTARVY, COMPLERA, DESCOVY, GENVOYA, ODEFSEY, STRIBILD, TRUVADA, or VEMLIDY.
+Tenofovir disoproxil fumarate should not be administered in combination with HEPSERA (adefovir dipivoxil) [see Drug Interactions (7.2)].
 
 ## 5.5 Patients Coinfected with HIV-1 and HBV
 
@@ -43,13 +43,13 @@ It is also recommended that all patients with HIV-1 be tested for the presence o
 
 ## 5.6 Bone Effects
 
-Bone Mineral Density
+Bone Mineral Density:
 
 In clinical trials in HIV-1 infected adults, tenofovir disoproxil fumarate was associated with slightly greater decreases in bone mineral density (BMD) and increases in biochemical markers of bone metabolism, suggesting increased bone turnover relative to comparators.
-Serum parathyroid hormone levels and 1,25 Vitamin D levels were also higher in subjects receiving tenofovir disoproxil fumarate [see Adverse Reactions (6.1)].
+Serum parathyroid hormone levels and 1,25 Vitamin D levels were also higher in subjects receiving tenofovir disoproxil fumarate [See Adverse Reactions (6.1)].
 
 Clinical trials evaluating tenofovir disoproxil fumarate in pediatric and adolescent subjects were conducted.
-Under normal circumstances BMD increases rapidly in pediatric patients.
+Under normal circumstances, BMD increases rapidly in pediatric patients.
 In HIV-1 infected subjects aged 2 years to less than 18 years, bone effects were similar to those observed in adult subjects and suggest increased bone turnover.
 Total body BMD gain was less in the tenofovir disoproxil fumarate-treated HIV-1 infected pediatric subjects as compared to the control groups.
 Similar trends were observed in chronic hepatitis B infected adolescent subjects aged 12 years to less than 18 years.
@@ -62,7 +62,7 @@ If bone abnormalities are suspected then appropriate consultation should be obta
 
 Mineralization Defects:
 
-Cases of osteomalacia associated with proximal renal tubulopathy, manifested as bone pain or pain in extremities and which may contribute to fractures, have been reported in association with the use of tenofovir disoproxil fumarate [see Adverse Reactions (6.2)].
+Cases of osteomalacia associated with proximal renal tubulopathy, manifested as bone pain or pain in extremities and which may contribute to fractures, have been reported in association with the use of tenofovir disoproxil fumarate [See Adverse Reactions (6.2)].
 Arthralgias and muscle pain or weakness have also been reported in cases of proximal renal tubulopathy.
 Hypophosphatemia and osteomalacia secondary to proximal renal tubulopathy should be considered in patients at risk of renal dysfunction who present with persistent or worsening bone or muscle symptoms while receiving products containing tenofovir DF [See Warnings and Precautions (5.2)].
 

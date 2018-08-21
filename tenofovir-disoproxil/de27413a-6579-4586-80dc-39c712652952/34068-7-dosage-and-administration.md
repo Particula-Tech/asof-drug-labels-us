@@ -16,10 +16,10 @@ For the treatment of HIV-1 in pediatric patients 2 years of age and older, the r
 Tenofovir disoproxil fumarate tablets are also available as tablets in 300 mg strengths for pediatric patients who weigh greater than or equal to 35 kg and who are able to reliably swallow intact tablets.
 The dose is one tablet once daily taken orally, without regard to food.
 
-Tables 1 and 2 contain dosing recommendations for tenofovir disoproxil fumarate tablets based on body weight.
+Table 2 contain dosing recommendations for tenofovir disoproxil fumarate tablets based on body weight.
 Weight should be monitored periodically and the tenofovir disoproxil fumarate dose adjusted accordingly.
 
-Table 2 Dosing Recommendations for Pediatric Patients ≥2 Years of Age and Weighing ≥35 kg Using Tenofovir Disoproxil Fumarate Tablets
+Table 2 Dosing Recommendations for Pediatric Patients 2 Years of Age and older and Weighing at least 35 kg Using Tenofovir Disoproxil Fumarate Tablets
 
 | Body Weight Kilogram (kg) | Tablets Once Daily |
 | --- | --- |
@@ -34,19 +34,19 @@ Safety and efficacy of tenofovir disoproxil fumarate in patients younger than 12
 Significantly increased drug exposures occurred when tenofovir disoproxil fumarate was administered to subjects with moderate to severe renal impairment [See Clinical Pharmacology (12.3)].
 Therefore, the dosing interval of tenofovir disoproxil fumarate tablets 300 mg should be adjusted in patients with baseline creatinine clearance below 50 mL/min using the recommendations in Table 3.
 These dosing interval recommendations are based on modeling of single-dose pharmacokinetic data in non-HIV and non-HBV infected subjects with varying degrees of renal impairment, including end-stage renal disease requiring hemodialysis.
-The safety and effectiveness of these dosing interval adjustment recommendations have not been clinically evaluated in patients with moderate or severe renal impairment, therefore clinical response to treatment and renal function should be closely monitored in these patients [See Warnings and Precautions (5.2)].
+The safety and effectiveness of these dosing interval adjustment recommendations have not been clinically evaluated in patients with moderate or severe renal impairment; therefore, clinical response to treatment and renal function should be closely monitored in these patients [See Warnings and Precautions (5.2)].
 
 No dose adjustment of tenofovir disoproxil fumarate tablets 300 mg is necessary for patients with mild renal impairment (creatinine clearance 50–80 mL/min).
-Routine monitoring of estimated creatinine clearance, serum phosphorus, urine glucose and urine protein should be performed in patients with mild renal impairment [See Warnings and Precautions (5.2)].
+Routine monitoring of estimated creatinine clearance, serum phosphorus, urine glucose, and urine protein should be performed in patients with mild renal impairment [See Warnings and Precautions (5.2)].
 
 Table 3 Dosage Adjustment for Patients with Altered Creatinine Clearance
 
 |  | Creatinine Clearance (mL/min)a |  |  | Hemodialysis Patients |
 | --- | --- | --- | --- | --- |
-| ≥50 | 30-49 | 10-29 |  |  |
+| 50 or greater | 30-49 | 10-29 |  |  |
 | Recommended 300 mg Dosing Interval | Every 24 hours | Every 48 hours | Every 72 to 96 hours | Every 7 days or after a total of approximately 12 hours of dialysisb |
 | a Calculated using ideal (lean) body weight. |  |  |  |  |
-| b Generally once weekly assuming three hemodialysis sessions a week of approximately 4 hours' duration. Tenofovir disoproxil fumarate should be administered following completion of dialysis. |  |  |  |  |
+| b Generally once weekly assuming three hemodialysis sessions a week of approximately 4 hours duration. Tenofovir disoproxil fumarate should be administered following completion of dialysis. |  |  |  |  |
 
 The pharmacokinetics of tenofovir have not been evaluated in non-hemodialysis patients with creatinine clearance below 10 mL/min; therefore, no dosing recommendation is available for these patients.
 
