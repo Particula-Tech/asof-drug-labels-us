@@ -2,4 +2,7 @@ Single-Dose Vial
 
 Not For Intravenous Use
 
-LAB-0160-11.0 October 2016
+This product's label may have been updated.
+For current full prescribing information, please visit www.pfizer.com.
+
+LAB-0160-12.0 January 2018
