@@ -8,7 +8,7 @@ These reactions usually resolve within 20 minutes but may persist for several ho
 Such events are infrequent if vancomycin hydrochloride for injection is given by a slow infusion over 60 minutes.
 In studies of normal volunteers, infusion-related events did not occur when vancomycin hydrochloride for injection was administered at a rate of 10 mg/min or less.
 
-NephrotoxicitySystemic vancomycin exposure may result in acute kidney injury (AKI).
+Nephrotoxicity Systemic vancomycin exposure may result in acute kidney injury (AKI).
 The risk of AKI increases as systemic exposure/serum levels increase.
 Additional risk factors for AKI in patients receiving vancomycin include receipt of concomitant drugs known to be nephrotoxic, in patients with pre-existing renal impairment, or with co-morbidities that predispose to renal impairment.
 Interstitial nephritis has also been reported in patients receiving vancomycin.Gastrointestinal

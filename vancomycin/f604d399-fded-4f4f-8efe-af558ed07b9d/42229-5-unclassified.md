@@ -8,6 +8,6 @@ In animal studies, hypotension and bradycardia occurred in dogs receiving an int
 
 The brand names mentioned in this document are the trademarks of their respective owners/companies.
 
-Lake Zurich, IL 60047 www.fresenius-kabi.us
+Lake Zurich, IL 60047 www.fresenius-kabi.com/us
 
-Revised: March 2017
+Revised: May 2018

@@ -17,7 +17,7 @@ It may be transient or permanent.
 It has been reported mostly in patients who have been given excessive doses, who have an underlying hearing loss, or who are receiving concomitant therapy with another ototoxic agent, such as an aminoglycoside.
 Vancomycin should be used with caution in patients with renal insufficiency because the risk of toxicity is appreciably increased by high, prolonged blood concentrations.
 Dosage of vancomycin hydrochloride for injection must be adjusted for patients with renal dysfunction (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
-Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including vancomycin hydrochloride for injection and may range in severity from mild diarrhea to fatal colitis.
+Clostridium Difficile Associated Diarrhea (CDAD) Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including vancomycin hydrochloride for injection and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
@@ -27,6 +27,12 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
+
+Hemorrhagic Occlusive Retinal Vasculitis (HORV)
+
+Hemorrhagic occlusive retinal vasculitis, including permanent loss of vision, occurred in patients receiving intracameral or intravitreal administration of vancomycin during or after cataract surgery.
+The safety and efficacy of vancomycin administered by the intracameral or the intravitreal route have not been established by adequate and well-controlled trials.
+Vancomycin is not indicated for the prophylaxis of endophthalmitis.
 
 # PRECAUTIONS:
 
@@ -62,8 +68,6 @@ No definitive fertility studies have been performed.
 ## Pregnancy
 
 Teratogenic Effects
-
-Pregnancy Category C
 
 Animal reproduction studies have not been conducted with vancomycin.
 It is not known whether vancomycin can affect reproduction capacity.
