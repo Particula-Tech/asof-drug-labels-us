@@ -21,4 +21,4 @@ Avadel Legacy Pharmaceuticals, LLC
 Chesterfield, MO 63005
 
 Rev.
-04/17
+08/18
