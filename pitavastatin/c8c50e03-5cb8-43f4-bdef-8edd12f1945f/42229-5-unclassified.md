@@ -1,4 +1,4 @@
-| Manufactured by: Cadila Healthcare Ltd. Ahmedabad, India Distributed by: Medicure Somerset, NJ 08873 USA |
+| Manufactured by: Cadila Healthcare Ltd. Ahmedabad, India Distributed by: Medicure Princeton, NJ 08540 USA |
 | --- |
-| Rev.: 07/2018 |
-| PIM-ZYP-03 |
+| Rev.: 08/2018 |
+| PIM-ZYP-04 |
