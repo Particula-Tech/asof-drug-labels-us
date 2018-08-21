@@ -1,4 +1,4 @@
-# Instructions for Use Buprenorphine (byü-prǝ-ˈnȯr-ˌfēn) CIII Transdermal System
+# Instructions for Use Buprenorphine (byü-prə-ˈnȯr-ˌfēn) CIII Transdermal System
 
 Be sure that you read, understand, and follow these Instructions for Use before you use buprenorphine transdermal system.
 Talk to your healthcare provider or pharmacist if you have any questions.
@@ -8,21 +8,25 @@ Before applying buprenorphine transdermal system:
 - Do not use soap, alcohol, lotions, oils, or other products to remove any leftover adhesive from a patch because this may cause more buprenorphine transdermal system to pass through the skin.
 - Each patch is sealed in its own protective pouch.
   Do not remove a patch from the pouch until you are ready to use it.
-- Do not use a patch if the seal on the protective pouch is broken or if the patch is cut, damaged or changed in any way.
+- Do not use a patch if the seal on the protective pouch is broken or if the patch is cut, damaged, or changed in any way.
 - Buprenorphine transdermal system patches are available in different strengths and patch sizes.
   Make sure you have the right strength patch that has been prescribed for you.
 
 Where to apply buprenorphine transdermal system:
 
-﻿Buprenorphine transdermal system should be applied to the upper outer arm, upper chest, upper back, or the side of the chest (See Figure A). ﻿These 4 sites (located on both sides of the body) provide 8 possible buprenorphine transdermal system applicaiton sites.
+- ﻿Buprenorphine transdermal system should be applied to the upper outer arm, upper chest, upper back, or the side of the chest (See Figure A). ﻿These 4 sites (located on both sides of the body) provide 8 possible buprenorphine transdermal system application sites.
+
 Figure A
 
-﻿Do not apply more than 1 patch at the same time unless your doctor tells you to.
-However, if your healthcare provider tells you to do so, you may use 2 patches as prescdribed, applied at the same site (﻿See Figure A﻿ for application sites) right next to each other (﻿See Figure B﻿ for an example of patch position when applying 2 patches).
+﻿
+
+- Do not apply more than 1 patch at the same time unless your doctor tells you to.
+  However, if your healthcare provider tells you to do so, you may use 2 patches as prescribed, applied at the same site (﻿See Figure A﻿ for application sites) right next to each other (﻿See Figure B﻿ for an example of patch position when applying 2 patches).
 
 Always apply and remove the two patches together at the same time.
-Figure B You should change the skin site where you apply buprenorphine transdermal system each week, making sure that at least 3 weeks (21 days) pass before you re-use the same skin site.
+Figure B
 
+- You should change the skin site where you apply buprenorphine transdermal system each week, making sure that at least 3 weeks (21 days) pass before you re-use the same skin site.
 - Apply buprenorphine transdermal system to a hairless or nearly hairless skin site.
   If needed, you can clip the hair at the skin site (See Figure C). Do not shave the area.
   The skin site should not be irritated.
@@ -132,10 +136,16 @@ Never put used buprenorphine transdermal system patches in the trash without fir
 
 This "Instructions for Use" has been approved by the U.S. Food and Drug Administration.
 
-Distributed by: Rhodes Pharmaceuticals L.P., Coventry, RI 02816
+Marketed by: Rhodes Pharmaceuticals L.P., Coventry, RI 02816
 
-Revised: 04/2017
+Manufactured by: LTS Lohmann Therapy Systems Corp., West Caldwell, NJ 07006
+
+LTS Lohmann Therapie-Systeme AG, Andernach, 56626 Germany
+
+Revised: 03/2018
 
 Bioclusive is a trademark of Systagenix Wound Management (US), Inc.
 
 Tegaderm is a trademark of 3M.
+
+304250-0C

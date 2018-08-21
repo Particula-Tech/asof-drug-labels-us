@@ -35,8 +35,8 @@ Data
 Animal Data
 
 Studies in rats and rabbits demonstrated no evidence of teratogenicity following buprenorphine transdermal system or subcutaneous (SC) administration of buprenorphine during the period of organogenesis.
-Rats were administered up to one buprenorphine transdermal system 20 mcg/hour every 3 days (gestation days 6, 9, 12, & 15) or received daily SC buprenorphine up to 5 mg/kg (gestation days 6 to17).
-Rabbits were administered four buprenorphine transdermal systems 20 mcg/hour every 3 days (gestation days 6, 9, 12, 15, 18, & 19) or received daily SC buprenorphine up to 5 mg/kg (gestation days 6 to19).
+Rats were administered up to one buprenorphine transdermal system 20 mcg/hour every 3 days (gestation days 6, 9, 12, and 15) or received daily SC buprenorphine up to 5 mg/kg (gestation days 6 to17).
+Rabbits were administered four buprenorphine transdermal systems 20 mcg/hour every 3 days (gestation days 6, 9, 12, 15, 18, and 19) or received daily SC buprenorphine up to 5 mg/kg (gestation days 6 to19).
 No teratogenicity was observed at any dose.
 AUC values for buprenorphine with buprenorphine transdermal system application and SC injection were approximately 110 and 140 times, respectively, that of human subjects who received the MRHD of one buprenorphine transdermal system 20 mcg/hour.
 
@@ -55,7 +55,7 @@ Because of the potential for serious adverse reactions, including excess sedatio
 Clinical Considerations
 
 Monitor infants exposed to buprenorphine transdermal system through breast milk for excess sedation and respiratory depression.
-Withdrawal symptoms can occur in breastfed infants when maternal administration of buprenorphine is stopped or when breast-feeding is stopped.
+Withdrawal symptoms can occur in breastfed infants when maternal administration of buprenorphine is stopped or when breastfeeding is stopped.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -67,6 +67,8 @@ It is not known whether these effects on fertility are reversible [see Adverse R
 ## 8.4 Pediatric Use
 
 The safety and efficacy of buprenorphine transdermal system in patients under 18 years of age has not been established.
+Buprenorphine transdermal system has been evaluated in an open-label clinical trial in pediatric patients.
+However, definitive conclusions are not possible because of the small sample size.
 
 ## 8.5 Geriatric Use
 
@@ -79,6 +81,7 @@ In a single-dose study of healthy elderly and healthy young subjects treated wit
 In a separate dose-escalation safety study, the pharmacokinetics in the healthy elderly and hypertensive elderly subjects taking thiazide diuretics were similar to those in the healthy young adults.
 In the elderly groups evaluated, adverse event rates were similar to or lower than rates in healthy young adult subjects, except for constipation and urinary retention, which were more common in the elderly.
 Although specific dose adjustments on the basis of advanced age are not required for pharmacokinetic reasons, use caution in the elderly population to ensure safe use [see Clinical Pharmacology (12.3)].
+
 Respiratory depression is the chief risk for elderly patients treated with opioids, and has occurred after large initial doses were administered to patients who were not opioid-tolerant or when opioids were co-administered with other agents that depress respiration.
 Titrate the dosage of buprenorphine transdermal system slowly in geriatric patients and monitor closely for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.5)].
 

@@ -5,18 +5,18 @@
 Buprenorphine transdermal system should be prescribed only by healthcare professionals who are knowledgeable in the use of potent opioids for the management of chronic pain.
 
 Buprenorphine transdermal system doses of 7.5, 10, 15, and 20 mcg/hour are only for use in patients who are opioid experienced and in whom tolerance to an opioid of comparable potency has been established.
-Patients who are opioid-experienced are those receiving, for one week or longer, daily opioid doses up to 80 mg/day of oral morphine or an equianalgesic dose of another opioid
+Patients who are opioid-experienced are those receiving, for one week or longer, daily opioid doses up to 80 mg/day of oral morphine or an equianalgesic dose of another opioid.
 
-- Use the lowest effective dosage for the shortest duration consistent with individual patients treatment goals [see Warnings and Precautions (5)].
+- Use the lowest effective dosage for the shortest duration consistent with individual patient's treatment goals [see Warnings and Precautions (5)].
 - Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
 - Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy and following dosage increases with buprenorphine transdermal system [see Warnings and Precautions (5.2)].
 - Instruct patients not to use buprenorphine transdermal system if the pouch seal is broken or the patch is cut, damaged, or changed in any way and not to cut buprenorphine transdermal system.
-- Instruct patients to avoid exposing buprenorphine transdermal system to external heat sources, hot water, or prolonged direct sunlight [see Warnings and Precautions (5.14)].
+- Instruct patients to avoid exposing buprenorphine transdermal system to external heat sources, hot water, or prolonged direct sunlight [see Warnings and Precautions (5.13)].
 
 Buprenorphine transdermal system is for transdermal use (on intact skin) only.
 Each buprenorphine transdermal system patch is intended to be worn for 7 days.
 
-## 2.2 Initial Dosing
+## 2.2 Initial Dosage
 
 Use of Buprenorphine Transdermal System as the First Opioid Analgesic (opioid-naive patients)
 

@@ -11,11 +11,11 @@ Patients initiated therapy with three days of treatment with buprenorphine trans
 After three days, if adverse events were tolerated, the dose was increased to buprenorphine transdermal system 10 mcg/hour.
 If adverse effects were tolerated but adequate analgesia was not reached, the dose was increased to buprenorphine transdermal system 20 mcg/hour for an additional 10 to 12 days.
 Patients who achieved adequate analgesia and tolerable adverse effects on buprenorphine transdermal system, 10 or 20 mcg/hour, were then randomized to remain on their titrated dose of buprenorphine transdermal system or matching placebo.
-Fifty-three percent of the patients who entered the open-label titration period, were able to titrate to a tolerable and effective dose and were randomized into a 12-week, double-blind treatment period.
+Fifty-three percent of the patients who entered the open-label titration period were able to titrate to a tolerable and effective dose and were randomized into a 12-week, double-blind treatment period.
 Twenty-three percent of patients discontinued due to an adverse event from the open-label titration period and 14% discontinued due to lack of a therapeutic effect.
 The remaining 10% of patients were dropped due to various administrative reasons.
 
-During the first seven days of double-blind treatment patients were allowed up to two tablets per day of immediate-release oxycodone 5 mg as supplemental analgesia to minimize opioid withdrawal symptoms in patients randomized to placebo.
+During the first seven days of double-blind treatment, patients were allowed up to two tablets per day of immediate-release oxycodone 5 mg as supplemental analgesia to minimize opioid withdrawal symptoms in patients randomized to placebo.
 Thereafter, the supplemental analgesia was limited to either acetaminophen 500 mg or ibuprofen 200 mg at a maximum of four tablets per day.
 Sixty-six percent of the patients treated with buprenorphine transdermal system completed the 12-week treatment compared to 70% of the patients treated with placebo.
 Of the 256 patients randomized to buprenorphine transdermal system, 9% discontinued due to lack of efficacy and 16% due to adverse events.

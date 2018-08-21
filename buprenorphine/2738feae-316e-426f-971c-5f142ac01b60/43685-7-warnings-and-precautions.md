@@ -14,7 +14,7 @@ Risks are increased in patients with a personal or family history of substance a
 The potential for these risks should not, however, prevent the proper management of pain in any given patient.
 Patients at increased risk may be prescribed opioids such as buprenorphine transdermal system, but use in such patients necessitates intensive counseling about the risks and proper use of buprenorphine transdermal system, along with intensive monitoring for signs of addiction, abuse, or misuse.
 
-Abuse or misuse of buprenorphine transdermal system by placing it in the mouth, chewing it, swallowing it, or using it in ways other than indicated may cause choking, overdose and death [see Overdosage (10)].
+Abuse or misuse of buprenorphine transdermal system by placing it in the mouth, chewing it, swallowing it, or using it in ways other than indicated may cause choking, overdose, and death [see Overdosage (10)].
 
 Opioids are sought by drug abusers and people with addiction disorders and are subject to criminal diversion.
 Consider these risks when prescribing or dispensing buprenorphine transdermal system.
@@ -86,7 +86,7 @@ The information available does not identify any particular opioids as being more
 A positive-controlled study of the effects of buprenorphine transdermal system on the QTc interval in healthy subjects demonstrated no clinically meaningful effect at a buprenorphine transdermal system dose of 10 mcg/hour; however, a buprenorphine transdermal system dose of 40 mcg/hour (given as two buprenorphine transdermal systems, 20 mcg/hour) was observed to prolong the QTc interval.
 
 Consider these observations in clinical decisions when prescribing buprenorphine transdermal system to patients with hypokalemia or clinically unstable cardiac disease, including unstable atrial fibrillation, symptomatic bradycardia, unstable congestive heart failure, or active myocardial ischemia.
-Avoid the use of buprenorphine transdermal system in patients with a history of Long QT Syndrome or an immediate family member with this condition, or those taking Class IA antiarrhythmic medications (e.g., quinidine, procainamide, disopyramide) or Class III antiarrhythmic medications (e.g., sotalol, amiodarone, dofetilide), or other medications that prolong the QTc interval [see Dosage andAdministration (2.3), Adverse Reactions (6.1)], Clinical Pharmacology (12.2)].
+Avoid the use of buprenorphine transdermal system in patients with a history of Long QT Syndrome or an immediate family member with this condition, or those taking Class IA antiarrhythmic medications (e.g., quinidine, procainamide, disopyramide) or Class III antiarrhythmic medications (e.g., sotalol, amiodarone, dofetilide), or other medications that prolong the QTc interval [see Dosage and Administration (2.3), Adverse Reactions (6.1)], Clinical Pharmacology (12.2)].
 
 ## 5.8 Severe Hypotension
 
@@ -109,7 +109,7 @@ Avoid the use of buprenorphine transdermal system in patients with impaired cons
 Cases of cytolytic hepatitis and hepatitis with jaundice have been observed in individuals receiving sublingual buprenorphine for the treatment of opioid dependence, both in clinical trials and in post-marketing adverse event reports.
 The spectrum of abnormalities ranges from transient asymptomatic elevations in hepatic transaminases to case reports of hepatic failure, hepatic necrosis, hepatorenal syndrome, and hepatic encephalopathy.
 In many cases, the presence of pre-existing liver enzyme abnormalities, infection with hepatitis B or hepatitis C virus, concomitant usage of other potentially hepatotoxic drugs, and ongoing injection drug abuse may have played a causative or contributory role.
-For patients at increased risk of hepatotoxicity (e.g., patients with a history of excessive alcohol intake, intravenous drug abuse or liver disease), obtain baseline liver enzyme levels and monitor periodically and during treatment with buprenorphine transdermal system.
+For patients at increased risk of hepatotoxicity (e.g., patients with a history of excessive alcohol intake, intravenous drug abuse, or liver disease), obtain baseline liver enzyme levels and monitor periodically and during treatment with buprenorphine transdermal system.
 
 ## 5.11 Application Site Skin Reactions
 

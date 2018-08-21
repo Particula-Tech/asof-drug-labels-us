@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Buprenorphine is a partial agonist at the mu-opioid receptor and an antagonist at the kappaopioid receptors, an agonist at delta-opioid receptors, and a partial agonist at ORL-1 (nociceptin) receptors.
+Buprenorphine is a partial agonist at the mu-opioid receptor and an antagonist at the kappa-opioid receptors, an agonist at delta-opioid receptors, and a partial agonist at ORL-1 (nociceptin) receptors.
 The contributions of these actions to its analgesic profile are unclear.
 
 ## 12.2 Pharmacodynamics
@@ -135,7 +135,6 @@ Approximately 27% was excreted in urine.
 
 Following transdermal application, buprenorphine is eliminated via hepatic metabolism, with subsequent biliary excretion and renal excretion of soluble metabolites.
 After removal of buprenorphine transdermal system, mean buprenorphine concentrations decrease approximately 50% within 10 to 24 hours, followed by decline with an apparent terminal half-life of approximately 26 hours.
-
 Since metabolism and excretion of buprenorphine occur mainly via hepatic elimination, reductions in hepatic blood flow induced by some general anesthetics (e.g., halothane) and other drugs may result in a decreased rate of hepatic elimination of the drug, leading to increased plasma concentrations.
 
 The total clearance of buprenorphine is approximately 55 L/hour in postoperative patients.
@@ -151,7 +150,7 @@ Based on the results from this study, metabolism during therapy with buprenorphi
 Antiretroviral agents have been evaluated for CYP3A4 mediated interactions with sublingual buprenorphine.
 Nucleoside reverse transcriptase inhibitors (NRTIs) and non-nucleoside reverse transcriptase inhibitors (NNRTIs) do not appear to have clinically significant interactions with buprenorphine.
 However, certain protease inhibitors (PIs) with CYP3A4 inhibitory activity such as atazanavir and atazanavir/ritonavir resulted in elevated levels of buprenorphine and norbuprenorphine when buprenorphine and naloxone were administered sublingually.
-Cmax and AUC for buprenorphine increased by up to 1.6 and 1.9 fold, and Cmax and AUC for norbuprenorphine increased by up to 1.6 and 2.0 fold respectively, when sublingual buprenorphine was administered with these PIs.
+Cmax and AUC for buprenorphine increased by up to 1.6 and 1.9 fold, and Cmax and AUC for norbuprenorphine increased by up to 1.6 and 2.0 fold, respectively, when sublingual buprenorphine was administered with these PIs.
 Patients in this study reported increased sedation, and symptoms of opiate excess have been found in post-marketing reports of patients receiving buprenorphine and atazanavir with and without ritonavir concomitantly.
 It should be noted that atazanavir is both a CYP3A4 and UGT1A1 inhibitor.
 As such, the drug-drug interaction potential for buprenorphine with CYP3A4 inhibitors is likely to be dependent on the route of administration as well as the specificity of enzyme inhibition [see Drug Interactions (7)].

@@ -7,7 +7,7 @@ Buprenorphine transdermal system contains buprenorphine, a Schedule III controll
 ## 9.2 Abuse
 
 Buprenorphine transdermal system contains buprenorphine, a Schedule III controlled substance with an abuse potential similar to other Schedule III opioids.
-Buprenorphine transdermal system can be abused and is subject to misuse, addiction and criminal diversion [see Warnings and Precautions (5.1)].
+Buprenorphine transdermal system can be abused and is subject to misuse, addiction, and criminal diversion [see Warnings and Precautions (5.1)].
 The high drug content in extended-release formulations adds to the risk of adverse outcomes from abuse and misuse.
 
 All patients treated with opioids, including buprenorphine transdermal system, require careful monitoring for signs of abuse and addiction, since use of opioid analgesic products carries the risk of addiction even under appropriate medical use.
@@ -51,7 +51,7 @@ Physical dependence may not occur to a clinically significant degree until after
 
 Buprenorphine transdermal system should not be abruptly discontinued [see Dosage and Administration (2.4)].
 If buprenorphine transdermal system is abruptly discontinued in a physically-dependent patient, a withdrawal syndrome may occur.
-Some or all of the following can characterize this syndrome: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
+Some, or all of the following, can characterize this syndrome: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
 Other signs and symptoms also may develop, including irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, increased blood pressure, respiratory rate, or heart rate.
 
 Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal symptoms [see Use in Specific Populations (8.1)].
