@@ -15,3 +15,6 @@ DEPO-MEDROL Sterile Aqueous Suspension is available in the following strengths a
 | 25 × 5 mL multidose vials | NDC 0009-0306-12 |
 
 Store at controlled room temperature 20° to 25°C (68° to 77°F) [see USP].
+
+This product's label may have been updated.
+For current full prescribing information, please visit www.pfizer.com.
