@@ -7,7 +7,7 @@ NOTE - JARS ARE FILLED BY WEIGHT NOT VOLUME.
 KEEP CONTAINER TIGHTLY CLOSED AT ALL TIMES WHEN NOT IN USE.
 
 Pharmacist: Dispense in tight containers as specified in USP.
-If dispensed to a consumer, provide child resistant package for dispensing.
+If dispensed to a consumer, provide child-resistant package for dispensing.
 
 Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 Protect from freezing.

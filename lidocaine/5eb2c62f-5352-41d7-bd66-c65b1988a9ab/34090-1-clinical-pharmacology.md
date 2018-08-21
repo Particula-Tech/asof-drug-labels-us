@@ -7,7 +7,7 @@ Lidocaine stabilizes the neuronal membrane by inhibiting the ionic fluxes requir
 ## Onset of anesthesia
 
 Lidocaine Ointment USP, 5% effects local, topical anesthesia.
-The onset of action is 3-5 minutes.
+The onset of action is 3 to 5 minutes.
 It is ineffective when applied to intact skin.
 
 ## Hemodynamics
@@ -19,7 +19,7 @@ These changes may be attributable to a direct depressant effect of the local ane
 
 Lidocaine may be absorbed following topical administration to mucous membranes, its rate and extent of absorption depending upon the specific site of application, duration of exposure, concentration, and total dosage.
 In general, the rate of absorption of local anesthetic agents following topical application occurs most rapidly after intratracheal administration.
-Lidocaine is also well-absorbed from the gastrointestinal tract, but little intact drug appears in the circulation because of biotransformation in the liver.
+Lidocaine is also well absorbed from the gastrointestinal tract, but little intact drug appears in the circulation because of biotransformation in the liver.
 
 Lidocaine is metabolized rapidly by the liver, and metabolites and unchanged drug are excreted by the kidneys.
 Biotransformation includes oxidative N-dealkylation, ring hydroxylation, cleavage of the amide linkage, and conjugation.

@@ -18,4 +18,4 @@ If not treated immediately, both convulsions and cardiovascular depression can r
 If cardiac arrest should occur, standard cardiopulmonary resuscitative measures should be instituted.
 Dialysis is of negligible value in the treatment of acute overdosage with lidocaine.
 
-The oral LD50 of lidocaine HCl in non-fasted female rats is 459 (346-773) mg/kg (as the salt) and 214 (159-324) mg/kg (as the salt) in fasted female rats.
+The oral LD50 of lidocaine HCl in non-fasted female rats is 459 (346 to 773) mg/kg (as the salt) and 214 (159 to 324) mg/kg (as the salt) in fasted female rats.
