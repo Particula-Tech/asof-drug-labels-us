@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA210882"
+  ],
+  "inn": "sodium-nitroprusside",
+  "labeler": "Somerset Therapeutics, LLC",
+  "package_ndcs": [
+    "70069-261-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION, CONCENTRATE",
+      "generic": "sodium nitroprusside",
+      "name": "Sodium Nitroprusside"
+    }
+  ],
+  "setid": "2122b9c1-0af4-493b-82cc-63eee02f987f",
+  "source": "dailymed"
+}
