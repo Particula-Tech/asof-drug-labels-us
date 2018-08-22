@@ -4,7 +4,7 @@ RETIN-A (tretinoin) is supplied as:
 
 | NDC Code | RETIN-A Strength/ Form | RETIN-A Qty. | NDC Code | RETIN-A Strength/ Form | RETIN-A Qty. |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| RETIN-A Cream | RETIN-A Gel |  |  |  |  |  |  |  |
+|  | Retin A Cream |  |  | Retin A Gel |  |  |  |  |
 | 0187-5160-20 | 0.025% Cream | 20 g | 0187-5172-15 | 0.01% Gel | 15 g |  |  |  |
 | 0187-5160-45 | 0.025% Cream | 45 g | 0187-5172-45 | 0.01% Gel | 45 g |  |  |  |
 | 0187-5162-20 | 0.05% Cream | 20 g | 0187-5170-15 | 0.025% Gel | 15 g |  |  |  |

@@ -10,6 +10,6 @@ Retin-A is a trademark of Valeant Pharmaceuticals International, Inc. or its aff
 
 © Valeant Pharmaceuticals North America LLC
 
-Update p/n Update p/n
+9440903 50105658D
 
 Revised: 06/2018

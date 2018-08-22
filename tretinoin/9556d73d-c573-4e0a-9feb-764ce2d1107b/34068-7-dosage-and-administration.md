@@ -15,4 +15,4 @@ Therapeutic results should be noticed after two to three weeks but more than six
 
 Once the acne lesions have responded satisfactorily, it may be possible to maintain the improvement with less frequent applications, or other dosage forms.
 
-Patients treated with RETIN-A (tretinoin) acne treatment may use cosmetics, but the area to be treated should be cleansed thoroughly before the medication is applied (see Precautions).
+Patients treated with RETIN-A (tretinoin) acne treatment may use cosmetics, but the area to be treated should be cleansed thoroughly before the medication is applied (see PRECAUTIONS).

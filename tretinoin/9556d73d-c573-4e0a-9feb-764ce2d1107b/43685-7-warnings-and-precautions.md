@@ -60,7 +60,7 @@ In contrast, several well-controlled animals studies have shown that dermally ap
 
 With widespread use of any drug, a small number of birth defect reports associated temporally with the administration of the drug would be expected by chance alone.
 Thirty human cases of temporally associated congenital malformations have been reported during two decades of clinical use of RETIN-A.
-Although no definite pattern of teratogenicity and no causal association havebeen established from these cases, five of the reports describe the rare birth defect category holoprosencephaly (defects associated with incomplete midline development of the forebrain).
+Although no definite pattern of teratogenicity and no causal association have been established from these cases, five of the reports describe the rare birth defect category holoprosencephaly (defects associated with incomplete midline development of the forebrain).
 The significance of these spontaneous reports in terms of risk to the fetus is not known.
 
 Nonteratogenic effects
