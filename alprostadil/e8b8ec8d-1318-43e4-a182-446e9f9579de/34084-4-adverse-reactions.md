@@ -12,7 +12,7 @@ Penile Pain
 With use of up to 24 months, penile pain was reported at least once by 29% of patients during injection, 35% of patients during erection, and by 30% of patients after erection.
 On a per injection basis, 15% of injections were associated with penile pain.
 Penile pain was judged by patients to be mild in intensity for 80% of painful injections, moderate in intensity for 16% of painful injections, and severe in intensity for 4% of painful injections.
-The frequency of penile pain reports decreased over time; forty-one percent of the patients experienced pain during the first 2 months and 3% of the patients experienced pain during months 21-24.
+The frequency of penile pain reports decreased over time; 41% of the patients experienced pain during the first 2 months and 3% of the patients experienced pain during months 21-24.
 In placebo-controlled studies, penile pain was reported by 31% of patients after edex® and by 9% of patients after placebo injection.
 
 Prolonged Erection/Priapism
@@ -21,12 +21,11 @@ Prolonged erections greater than four hours in duration occurred in 4% of all pa
 In placebo-controlled studies, 3% of patients treated with edex® and <1% of patients treated with placebo reported prolonged erections greater than four hours.
 The incidence of priapism (erections greater than 6 hours in duration) was <1% with long-term use for up to 24 months.
 In the majority of cases, spontaneous detumescence occurred.
-A higher incidence of prolonged erections was found in younger patients (<40 years), non-diabetic patients, and patients with psychogenic etiology of erectile dysfunction.
-(See WARNINGS.)
+A higher incidence of prolonged erections was found in younger patients (<40 years), non-diabetic patients, and patients with psychogenic etiology of erectile dysfunction (See WARNINGS).
 
 Hematoma/Ecchymosis
 
-In patients treated with edex® for up to 24 months, local bleeding, hematoma and ecchymosis were observed in 15%, 5% and 4% of patients, respectively.
+In patients treated with edex® for up to 24 months, local bleeding, hematoma, and ecchymosis were observed in 15%, 5%, and 4% of patients, respectively.
 In placebo-controlled studies, the frequency of local bleeding was 6% with injection of edex® and 3% with injection of placebo.
 In most cases, these reactions were attributed to faulty injection technique.
 

@@ -4,7 +4,9 @@ Alprostadil (PGE1) is one of the prostaglandins, a family of naturally occurring
 Endogenous PGE1 is derived from dihomo-gamma-linolenic acid, a fatty acid found within the phospholipids of cellular membranes.
 As an endogenous substance, PGE1 exerts its biological effects either directly or indirectly by regulating and modifying the synthesis and effects of other hormones and mediators.
 
-Mode of Action Alprostadil is a smooth muscle relaxant.
+Mode of Action
+
+Alprostadil is a smooth muscle relaxant.
 Precontracted isolated preparations of the human corpus cavernosum, corpus spongiosum and cavernous artery are relaxed by alprostadil.
 Alprostadil has been shown to bind to specific receptors in human penile tissue.
 Two types of receptors that differ in their PGE1 binding affinity have been identified.
@@ -21,7 +23,7 @@ Pharmacokinetics
 ### Alpha-Cyclodextrin
 
 After reconstitution, PGE1 immediately dissociates from the α-cyclodextrin inclusion complex; the in vivo disposition of both components occurs independently after administration.
-After intravenous infusion of radiolabeled α-cyclodextrin to healthy volunteers, the radiolabeled components were rapidly eliminated within 24-hours, urine accounting for 81-83% of radioactivity and feces for 0.1%.
+After intravenous infusion of radiolabeled α-cyclodextrin to healthy volunteers, the radiolabeled components were rapidly eliminated within 24-hours, urine accounting for 81% to 83% of radioactivity and feces for 0.1%.
 There was no evidence of significant accumulation of radiolabeled α-cyclodextrin in the body even after 7 days of repeated intravenous injection.
 After intracavernous administration in monkeys, radiolabeled α-cyclodextrin was rapidly distributed from the injection site with less than 0.1% of the dose remaining in the penis 1 hour after administration.
 There was no evidence of tissue retention of radiolabeled α-cyclodextrin in monkeys.
@@ -54,7 +56,7 @@ Excretion
 After further degradation of PGE1 by beta and omega oxidation, the main metabolites are excreted primarily in urine (88%) and feces (12%) over 72 hours, and total excretion is essentially complete (92%) within 24 hours after administration.
 No unchanged PGE1 has been found in the urine and there is no evidence of tissue retention of PGE1 and its metabolites.
 After intracavernous injection of 20 mcg of edex® in patients with erectile dysfunction, the terminal half-lives (t½) of 15-keto-PGE0 and PGE0 were calculated to be 40.9 ± 16.5 minutes and 63.2 ± 31.1 minutes, respectively.
-The terminal half-life of PGE1 in healthy volunteers was calculated to be around 9-11 minutes which is consistent with that reported in the literature (8 minutes).
+The terminal half-life of PGE1 in healthy volunteers was calculated to be around 9 to 11 minutes which is consistent with that reported in the literature (8 minutes).
 
 Mean total body clearance of PGE1 in patients with erectile dysfunction was calculated to be around 115 L/min after an intravenous infusion of 20 mcg alprostadil.
 The above value exceeded cardiac output indicating extensive and rapid elimination of PGE1 in the lungs and/or blood.
@@ -76,8 +78,8 @@ Due to the fact that PGE1 is primarily metabolized in the lung, the observed dif
 Renal Impairment
 
 In a study in symptomatic subjects with end-stage renal disease undergoing hemodialysis and age/weight/sex-matched healthy volunteers, 120 mcg of alprostadil was administered by intravenous infusion over 2 hours.
-The mean Cmax value of PGE1 in renally impaired patients was 37% lower as compared to that in healthy volunteers whereas mean Cmax values of 15-keto-PGE0 and PGE0 in these patients increased 104% and 145%, respectively as compared to those in healthy volunteers.
-The terminal half-lives of PGE1, PGE0 and 15-keto-PGE0 and plasma albumin levels were similar in these patients vs healthy volunteers.
+The mean Cmax value of PGE1 in renally impaired patients was 37% lower as compared to that in healthy volunteers whereas mean Cmax values of 15-keto-PGE0 and PGE0 in these patients increased 104% and 145%, respectively, as compared to those in healthy volunteers.
+The terminal half-lives of PGE1, PGE0, and 15-keto-PGE0 and plasma albumin levels were similar in these patients vs healthy volunteers.
 The mechanism responsible for the observed discrepancies between renally impaired subjects and healthy volunteers is not known.
 
 Pulmonary Disease
@@ -102,20 +104,20 @@ The pharmacokinetic and pharmacodynamic interaction between alprostadil intraven
 Alprostadil had a significant effect on the pharmacodynamics of heparin resulting in a 140% increase in partial thromboplastin time and a 120% increase in thrombin time.
 Therefore, caution should be exercised with concomitant administration of heparin and edex®.
 
-Table 1:
+Table 1
 
-| Study No. | Participants | Route and Dose Administration | Drug/ Metabolites | CmaxBaseline-corrected data. [pg/mL] | Tmax [min] | AUCAUC0-150 for IV infusion and AUC0-120 for IC injection. [pg∙min/mL] | Total ClearanceCalculated as IV dose/AUC0-150 (IV). [L/min] | t1/2Apparent terminal half-life. [min] |
+| Study No. | Participants | Route and Dose Administration | Drug/ Metabolites | CmaxBaseline-corrected data. (pg/mL) | Tmax (min) | AUCAUC0-150 for intravenous (IV) infusion and AUC0-120 for intracavernous (IC) injection. (pg∙min/mL) | Total ClearanceCalculated as IV dose/AUC0-150 (IV). (L/min) | t1/2Apparent terminal half-life. (min) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PHAKI 848 | Erectile Dysfunction Patients | 20 mcg/0.5 hr IV | PGE1 | 7.09 ± 3.12 | 25.5 ± 4.8 | 174 ± 101 | 115 | --- |
 | 15-keto- PGE0 | 471 ± 88 | 30.0 ± 1.2 | 13705 ± 2559 | --- | 15.6 ± 5.6 |  |  |  |
 |  |  |  | PGE0 | 7.10 ± 2.19 | 32.2 ± 2.4 | 380 ± 115 | --- | 39.8 ± 26.3 |
 |  |  | 20 mcg/IC | PGE1 | 16.8 ± 18.9 | 4.8 ± 3.3 | 173 ± 115 | --- | --- |
 |  |  |  | 15-keto- PGE0 | 421 ± 337 | 9.7 ± 7.7 | 10500 ± 4101 | --- | 40.9 ± 16.5 |
-|  |  |  | PGE0 | 3.9 ± 2.3 | 20.3 ± 12.6 | 252 ± 134 |  | 63.2 ± 31.1 |
+|  |  |  | PGE0 | 3.9 ± 2.3 | 20.3 ± 12.6 | 252 ± 134 | --- | 63.2 ± 31.1 |
 
 Clinical Studies
 
-In two studies [Protocol numbers KU-620-001 (Study 1) and KU-620-002 (Study 2)], the safety and efficacy of edex® were evaluated in 347 men with a diagnosis of erectile dysfunction due to vasculogenic, neurogenic and/or mixed etiology.
+In two studies (protocol numbers KU-620-001 [Study 1] and KU-620-002 [Study 2]), the safety and efficacy of edex® were evaluated in 347 men with a diagnosis of erectile dysfunction due to vasculogenic, neurogenic and/or mixed etiology.
 Each study consisted of three phases: an in-office dose-titration phase, a two-week double-blind cross-over phase at home, and an open-label at home treatment phase that lasted for 12 months (Study 1) or six months (Study 2).
 
 During the dose-titration phase, individualized optimum doses of edex® were established.

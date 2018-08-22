@@ -86,7 +86,7 @@ One reusable carrying case
 
 Two single-dose, dual-chamber cartridges (one per injection)
 
-Two ½ inch, 29 gauge (0.33 mm x 12.7 mm) sterile needles (one per injection)
+Two ½-inch, 29-gauge (0.33 mm x 12.7 mm) sterile needles (one per injection)
 
 Four alcohol swabs (two per injection)
 
@@ -101,7 +101,7 @@ One reusable carrying case
 
 Six single-dose, dual-chamber cartridges (one per injection)
 
-Six ½ inch, 29 gauge (0.33 mm x 12.7 mm) sterile needles (one per injection)
+Six ½-inch, 29-gauge (0.33 mm x 12.7 mm) sterile needles (one per injection)
 
 Twelve alcohol swabs (two per injection)
 
@@ -110,7 +110,7 @@ Patient Information for edex® Cartridges
 Storage and Handling
 
 1.
-Store at 25°C (77°F); temperature variations between 15° - 30°C (59° - 86°F) are allowed.
+Store at 25°C (77°F); temperature variations between 15°C - 30°C (59°F - 86°F) are allowed.
 As with any drug product, extremes in temperature should be avoided.
 When traveling, do not store in checked luggage during air travel or leave in a closed automobile.
 
@@ -235,8 +235,6 @@ Once the injection device is dry, place it in the carrying case.
 As with all prescription medicines, do not allow anyone else to use your medication.
 Proper injection technique and individual dose titration are essential for the safe use of this product.
 
-Distributed by: Actient Pharmaceuticals, LLC Lake Forest, Illinois 60045
+Distributed by: Endo Pharmaceuticals Inc. Malvern, PA 19355
 
-Revised: April 2018
-
-120402
+Revised: July 2018

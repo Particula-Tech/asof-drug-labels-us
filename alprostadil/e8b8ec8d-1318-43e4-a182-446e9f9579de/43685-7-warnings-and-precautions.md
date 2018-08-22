@@ -44,11 +44,11 @@ In addition, the evaluation of erectile dysfunction should include a determinati
 
 Drug Interactions
 
-The pharmacodynamic interaction between heparin (5,000 IU) and alprostadil intravenous infusion (90 mcg over 3 hours) was investigated.
+The pharmacodynamic interaction between heparin (5,000 units) and alprostadil intravenous infusion (90 mcg over 3 hours) was investigated.
 The results indicate significant changes in partial thromboplastin time (140% increase) and thrombin time (120% increase).
 Therefore, caution should be exercised with concomitant administration of heparin and edex®.
 
-(Also, see drug-drug interaction studies in CLINICAL PHARMACOLOGY, Pharmacokinetics subsection.)
+(Also, see Drug-Drug Interactions in CLINICAL PHARMACOLOGY, Pharmacokinetics.)
 
 Information for Patients
 
@@ -97,7 +97,7 @@ Alprostadil did not produce damage to chromosomes or the mitotic apparatus in th
 
 Alprostadil did not cause any adverse effects on fertility or general reproductive performance when administered intraperitoneally to male or female rats at dose levels from 2 to 200 mcg/kg/day.
 The high dose of 200 mcg/kg/day is about 300 times the maximum recommended human dose (MRHD) on a body weight basis.
-The human dose of edex® is <1 mcg/kg (MRHD is 40 mcg and the calculation assumes a 60 kg subject).
+The human dose of edex® is <1 mcg/kg (MRHD is 40 mcg and the calculation assumes a 60-kg subject).
 
 Pregnancy, Nursing Mothers and Pediatric Use
 

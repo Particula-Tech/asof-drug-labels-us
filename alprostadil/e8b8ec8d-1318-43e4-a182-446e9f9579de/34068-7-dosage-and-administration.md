@@ -13,19 +13,19 @@ The lowest possible effective dose should always be used.
 
 Initial Titration in Physician's Office
 
-Erectile Dysfunction of Vasculogenic, Psychogenic, or Mixed Etiology
+Erectile Dysfunction of Vasculogenic, Psychogenic, or Mixed Etiology:
 
-Dosage titration should be initiated at 2.5 micrograms of alprostadil.
-If there is a partial response, the dose may be increased by 2.5 micrograms to a dose of 5 micrograms and then in increments of 5 to 10 micrograms, depending upon erectile response, until the dose that produces an erection suitable for intercourse and not exceeding a duration of 1 hour is reached.
-If there is no response to the initial 2.5-microgram dose, the second dose may be increased to 7.5 micrograms, followed by increments of 5 to 10 micrograms.
+Dosage titration should be initiated at 2.5 mcg of alprostadil.
+If there is a partial response, the dose may be increased by 2.5 mcg to a dose of 5 mcg and then in increments of 5 to 10 mcg, depending upon erectile response, until the dose that produces an erection suitable for intercourse and not exceeding a duration of 1 hour is reached.
+If there is no response to the initial 2.5-mcg dose, the second dose may be increased to 7.5 mcg, followed by increments of 5 to 10 mcg.
 The patient must stay in the physician's office until complete detumescence occurs.
 It there is no response, then the next higher dose may be given within 1 hour.
 If there is a response, then there should be at least a 1-day interval before the next dose is given.
 
-Erectile Dysfunction of Pure Neurogenic Etiology (Spinal Cord Injury)
+Erectile Dysfunction of Pure Neurogenic Etiology (Spinal Cord Injury):
 
-Dosage titration should be initiated at 1.25 micrograms of alprostadil.
-The dose may be increased by 1.25 micrograms to a dose of 2.5 micrograms, followed by an increment of 2.5 micrograms to a dose of 5 micrograms, and then in 5-microgram increments until the dose that produces an erection suitable for intercourse and not exceeding a duration of 1 hour is reached.
+Dosage titration should be initiated at 1.25 mcg of alprostadil.
+The dose may be increased by 1.25 mcg to a dose of 2.5 mcg, followed by an increment of 2.5 mcg to a dose of 5 mcg, and then in 5-mcg increments until the dose that produces an erection suitable for intercourse and not exceeding a duration of 1 hour is reached.
 The patient must stay in the physician's office until complete detumescence occurs.
 If there is no response, then the next higher dose may be given within 1 hour.
 If there is a response, then there should be at least a 1-day interval before the next dose is given.
@@ -85,7 +85,7 @@ CAUTION: Do not reuse any solution remaining in the cartridge due to the possibi
 
 ## Administration
 
-edex® is given as an intracavernous injection over a 5 to 10 second interval.
+edex® is given as an intracavernous injection over a 5- to 10-second interval.
 See patient information for edex®.
 
 ## Stability
