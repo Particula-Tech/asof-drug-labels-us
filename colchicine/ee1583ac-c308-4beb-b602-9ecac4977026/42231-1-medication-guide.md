@@ -1,6 +1,6 @@
 Medication Guide
 
-Colchicine Capsules
+Colchicine (kol' chi seen) Capsules
 
 What is the most important information I should know about colchicine capsules?
 
@@ -39,7 +39,8 @@ Before you take colchicine capsules, tell your healthcare provider:
   It is not known if colchicine capsules can harm your unborn baby.
   Talk to your healthcare provider if you are pregnant or plan to become pregnant.
 - if you are breastfeeding or plan to breastfeed.
-  Colchicine can pass into your breast milk and may harm your baby.Talk to your healthcare provider about the best way to feed your baby if you take colchicine capsules.
+  Colchicine can pass into your breast milk and may harm your baby.
+  Talk to your healthcare provider about the best way to feed your baby if you take colchicine capsules.
 
 Tell your healthcare provider about all the medicines you take, including prescription, over-the-counter medicines, vitamins, or herbal supplements.
 
@@ -116,7 +117,7 @@ It may harm them.
 This Medication Guide summarizes the most important information about colchicine capsules.
 If you would like more information, talk to your pharmacist or healthcare provider for information about colchicine capsules that is written for health professionals.
 
-For more information, go to www.west-ward.com or call 1-877-233-2001.
+For more information, go to www.west-ward.com or call 1-800-962-8364.
 
 What are the ingredients in colchicine capsules?
 
@@ -127,8 +128,8 @@ The capsule shell contains gelatin, purified water, titanium dioxide, erythrosin
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724
+Distr. by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724
 
-December 2015
+C50000043/01
 
-Rx Only
+February 2018
