@@ -1,37 +1,45 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Physicians are advised to discuss the following issues with patients for whom they prescribe RISPERIDONE and their caregivers:
+Physicians are advised to discuss the following issues with patients for whom they prescribe risperidone and their caregivers:
 
-## 17.1 Orthostatic Hypotension
+Orthostatic Hypotension
 
-Advise patients and caregivers about the risk of orthostatic hypotension, especially during the period of initial dose titration [see WARNINGS AND PRECAUTIONS (5.7)].
+Advise patients and caregivers about the risk of orthostatic hypotension, especially during the period of initial dose titration [see Warnings and Precautions (5.7)].
 
-## 17.2 Interference with Cognitive and Motor Performance
+Interference with Cognitive and Motor Performance
 
-Inform patients and caregivers that RISPERIDONE has the potential to impair judgment, thinking, or motor skills.
-Advise caution about operating hazardous machinery, including automobiles, until patients are reasonably certain that RISPERIDONE therapy does not affect them adversely [see WARNINGS AND PRECAUTIONS (5.10)].
+Inform patients and caregivers that risperidone has the potential to impair judgment, thinking, or motor skills.
+Advise caution about operating hazardous machinery, including automobiles, until patients are reasonably certain that risperidone therapy does not affect them adversely [see Warnings and Precautions (5.10)].
 
-## 17.3 Pregnancy
+Concomitant Medication
 
-Advise patients and caregivers to notify their physician if the patient becomes pregnant or intends to become pregnant during therapy [see USE IN SPECIFIC POPULATIONS (8.1)].
+Advise patients and caregivers to inform their physicians if the patient is taking, or plans to take, any prescription or over-the-counter drugs, because there is a potential for interactions [see Drug Interactions (7)].
 
-## 17.4 Nursing
+Alcohol
 
-Inform patients and caregivers that risperidone and its active metabolite are present in human breastmilk; there is a potential for serious adverse reactions from RISPERIDONE in nursing infants.
-Advise patients that the decision whether to discontinue nursing or to discontinue the RISPERIDONE should take into account the importance of the drug to the patient [see USE IN SPECIFIC POPULATIONS (8.3)].
+Advise patients to avoid alcohol while taking risperidone [see Drug Interactions (7.2)].
 
-## 17.5 Concomitant Medication
+Metabolic Changes
 
-Advise patients and caregivers to inform their physicians if the patient is taking, or plans to take, any prescription or over-the-counter drugs, because there is a potential for interactions [see DRUG INTERACTIONS (7)].
+Inform patients and caregivers that treatment with risperidone can be associated with hyperglycemia and diabetes mellitus, dyslipidemia, and weight gain [see Warnings and Precautions (5.5)].
 
-## 17.6 Alcohol
+Tardive Dyskinesia
 
-Advise patients to avoid alcohol while taking RISPERIDONE [see DRUG INTERACTIONS (7.2)].
+Inform patients and caregivers about the risk of tardive dyskinesia [see Warnings and Precautions (5.4)].
 
-## 17.7 Metabolic Changes
+Pregnancy
 
-Inform patients and caregivers that treatment with RISPERIDONE can be associated with hyperglycemia and diabetes mellitus, dyslipidemia, and weight gain [see WARNINGS AND PRECAUTIONS (5.5)].
+Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with risperidone.
+Advise patients that risperidone may cause extrapyramidal and/or withdrawal symptoms in a neonate.
+Advise patients that there is a pregnancy registry that monitors pregnancy outcomes in women exposed to risperidone during pregnancy [see Use in Specific Populations (8.1)].
 
-## 17.8 Tardive Dyskinesia
+Lactation
 
-Inform patients and caregivers about the risk of tardive dyskinesia [see WARNINGS AND PRECAUTIONS (5.4)].
+Advise breastfeeding women using risperidone to monitor infants for somnolence, failure to thrive, jitteriness, and extrapyramidal symptoms (tremors and abnormal muscle movements) and to seek medical care if they notice these signs [see Use in Specific Populations (8.2)].
+
+Infertility
+
+Advise females of reproductive potential that risperidone may impair fertility due to an increase in serum prolactin levels.
+The effects on fertility are reversible [see Use in Specific Populations (8.3)].
+
+Brands listed are trademarks of their respective owners.

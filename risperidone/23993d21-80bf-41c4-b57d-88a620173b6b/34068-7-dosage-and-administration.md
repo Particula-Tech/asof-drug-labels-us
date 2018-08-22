@@ -6,13 +6,13 @@ Table 1 Recommended Daily Dosage by Indication
 | --- | --- | --- | --- | --- |
 | Schizophrenia: adults (2.1) | 2 mg | 1 to 2 mg | 4 to 8 mg | 4 to 16 mg |
 | Schizophrenia: adolescents (2.2) | 0.5 mg | 0.5 to 1 mg | 3 mg | 1 to 6 mg |
-| Bipolar mania: adults (2.2) | 2 to 3 mg | 1mg | 1 to 6mg | 1 to 6 mg |
-| Bipolar mania: children and adolescents (2.2) | 0.5 mg | 0.5 to 1mg | 1 to 2.5 mg | 1 to 6 mg |
+| Bipolar mania: adults (2.2) | 2 to 3 mg | 1 mg | 1 to 6 mg | 1 to 6 mg |
+| Bipolar mania: children and adolescents (2.2) | 0.5 mg | 0.5 to 1 mg | 1 to 2.5 mg | 1 to 6 mg |
 | Irritability in autistic disorder (2.3) | 0.25 mg Can increase to 0.5 mg by Day 4: (body weight less than 20 kg) 0.5 mg Can increase to 1 mg by Day 4: (body weight greater than or equal to 20 kg) | After Day 4, at intervals of > 2 weeks: 0.25 mg (body weight less than 20 kg) 0.5 mg (body weight greater than or equal to 20 kg) | 0.5 mg: (body weight less than 20 kg) 1 mg: (body weight greater than or equal to 20 kg) | 0.5 to 3 mg |
 
 Severe Renal and Hepatic Impairment in Adults: use a lower starting dose of 0.5 mg twice daily.
 
-May increase to dosages above 1.5 mg twice daily at intervals of one week or longer
+May increase to dosages above 1.5 mg twice daily at intervals of one week or longer.
 
 ## 2.1 Schizophrenia
 
@@ -20,7 +20,7 @@ Adults
 
 Usual Initial Dose
 
-RISPERIDONE can be administered once or twice daily.
+Risperidone can be administered once or twice daily.
 Initial dosing is 2 mg per day.
 May increase the dose at intervals of 24 hours or greater, in increments of 1 to 2 mg per day, as tolerated, to a recommended dose of 4 to 8 mg per day.
 In some patients, slower titration may be appropriate.
@@ -40,17 +40,17 @@ Patients experiencing persistent somnolence may benefit from administering half 
 
 Maintenance Therapy
 
-While it is unknown how long a patient with schizophrenia should remain on RISPERIDONE, the effectiveness of RISPERIDONE 2 mg per day to 8 mg per day at delaying relapse was demonstrated in a controlled trial in adult patients who had been clinically stable for at least 4 weeks and were then followed for a period of 1 to 2 years [see Clinical Studies (14.1)].
+While it is unknown how long a patient with schizophrenia should remain on risperidone, the effectiveness of risperidone 2 mg per day to 8 mg per day at delaying relapse was demonstrated in a controlled trial in adult patients who had been clinically stable for at least 4 weeks and were then followed for a period of 1 to 2 years [see Clinical Studies (14.1)].
 Both adult and adolescent patients who respond acutely should generally be maintained on their effective dose beyond the acute episode.
 Patients should be periodically reassessed to determine the need for maintenance treatment.
 
 Reinitiation of Treatment in Patients Previously Discontinued
 
-Although there are no data to specifically address reinitiation of treatment, it is recommended that after an interval off RISPERIDONE, the initial titration schedule should be followed.
+Although there are no data to specifically address reinitiation of treatment, it is recommended that after an interval off risperidone, the initial titration schedule should be followed.
 
 Switching From Other Antipsychotics
 
-There are no systematically collected data to specifically address switching schizophrenic patients from other antipsychotics to RISPERIDONE, or treating patients with concomitant antipsychotics.
+There are no systematically collected data to specifically address switching schizophrenic patients from other antipsychotics to risperidone, or treating patients with concomitant antipsychotics.
 
 ## 2.2 Bipolar Mania
 
@@ -62,7 +62,7 @@ The initial dose range is 2 mg to 3 mg per day.
 The dose may be adjusted at intervals of 24 hours or greater, in increments of 1 mg per day.
 The effective dose range is 1 mg to 6 mg per day, as studied in the short-term, placebo-controlled trials.
 In these trials, short-term (3 week) anti-manic efficacy was demonstrated in a flexible dosage range of 1 mg to 6 mg per day [see Clinical Studies (14.2, 14.3)].
-RISPERIDONE doses higher than 6 mg per day were not studied.
+Risperidone doses higher than 6 mg per day were not studied.
 
 Pediatrics
 
@@ -75,14 +75,14 @@ Patients experiencing persistent somnolence may benefit from administering half 
 
 Maintenance Therapy
 
-There is no body of evidence available from controlled trials to guide a clinician in the longer-term management of a patient who improves during treatment of an acute manic episode with RISPERIDONE.
-While it is generally agreed that pharmacological treatment beyond an acute response in mania is desirable, both for maintenance of the initial response and for prevention of new manic episodes, there are no systematically obtained data to support the use of RISPERIDONE in such longer-term treatment (i.e., beyond 3 weeks).
-The physician who elects to use RISPERIDONE for extended periods should periodically re-evaluate the long-term risks and benefits of the drug for the individual patient.
+There is no body of evidence available from controlled trials to guide a clinician in the longer-term management of a patient who improves during treatment of an acute manic episode with risperidone.
+While it is generally agreed that pharmacological treatment beyond an acute response in mania is desirable, both for maintenance of the initial response and for prevention of new manic episodes, there are no systematically obtained data to support the use of risperidone in such longer-term treatment (i.e., beyond 3 weeks).
+The physician who elects to use risperidone for extended periods should periodically re-evaluate the long-term risks and benefits of the drug for the individual patient.
 
-## 2.3 Irritability Associated with Autistic Disorder – Pediatrics (Children and Adolescents)
+## 2.3 Irritability Associated with Autistic Disorder–Pediatrics (Children and Adolescents)
 
-The dosage of RISPERIDONE should be individualized according to the response and tolerability of the patient.
-The total daily dose of RISPERIDONE can be administered once daily, or half the total daily dose can be administered twice daily.
+The dosage of risperidone should be individualized according to the response and tolerability of the patient.
+The total daily dose of risperidone can be administered once daily, or half the total daily dose can be administered twice daily.
 
 For patients with body weight less than 20 kg, initiate dosing at 0.25 mg per day.
 For patients with body weight greater than or equal to 20 kg, initiate dosing at 0.5 mg per day.
@@ -93,7 +93,7 @@ The effective dose range is 0.5 mg to 3 mg per day.
 No dosing data are available for children who weigh less than 15 kg.
 
 Once sufficient clinical response has been achieved and maintained, consider gradually lowering the dose to achieve the optimal balance of efficacy and safety.
-The physician who elects to use RISPERIDONE for extended periods should periodically re-evaluate the long-term risks and benefits of the drug for the individual patient.
+The physician who elects to use risperidone for extended periods should periodically re-evaluate the long-term risks and benefits of the drug for the individual patient.
 
 Patients experiencing persistent somnolence may benefit from a once-daily dose administered at bedtime or administering half the daily dose twice daily, or a reduction of the dose.
 
@@ -105,13 +105,11 @@ For doses above 1.5 mg twice daily, increase in intervals of one week or greater
 
 ## 2.5 Dose Adjustments for Specific Drug Interactions
 
-When RISPERIDONE is coadministered with enzyme inducers (e.g., carbamazepine), the dose of RISPERIDONE should be increased up to double the patient's usual dose.
-It may be necessary to decrease the RISPERIDONE dose when enzyme inducers such as carbamazepine are discontinued [see Drug Interactions (7.1)].
-Similar effect may be expected with coadministration of RISPERIDONE with other enzyme inducers (e.g., phenytoin, rifampin, and phenobarbital).
+When risperidone is coadministered with enzyme inducers (e.g., carbamazepine), the dose of risperidone should be increased up to double the patient's usual dose.
+It may be necessary to decrease the risperidone dose when enzyme inducers such as carbamazepine are discontinued [see Drug Interactions (7.1)].
+Similar effect may be expected with coadministration of risperidone with other enzyme inducers (e.g., phenytoin, rifampin, and phenobarbital).
 
-When fluoxetine or paroxetine is coadministered with RISPERIDONE, the dose of RISPERIDONE should be reduced.
-The RISPERIDONE dose should not exceed 8 mg per day in adults when coadministered with these drugs.
-When initiating therapy, RISPERIDONE should be titrated slowly.
-It may be necessary to increase the RISPERIDONE dose when enzyme inhibitors such as fluoxetine
-
-or paroxetine are discontinued [see Drug Interactions (7.1)].
+When fluoxetine or paroxetine is coadministered with risperidone, the dose of risperidone should be reduced.
+The risperidone dose should not exceed 8 mg per day in adults when coadministered with these drugs.
+When initiating therapy, risperidone should be titrated slowly.
+It may be necessary to increase the risperidone dose when enzyme inhibitors such as fluoxetine or paroxetine are discontinued [see Drug Interactions (7.1)].
