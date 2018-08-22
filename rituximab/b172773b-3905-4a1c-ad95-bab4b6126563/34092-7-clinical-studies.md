@@ -299,7 +299,7 @@ Table 13 Improvement from Baseline in Health Assessment Questionnaire Disability
 
 ## 14.7 Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA)
 
-A total of 197 patients with active, severe GPA and MPA (two forms of ANCA Associated Vasculidities) were treated in a randomized, double-blind, active-controlled multicenter, non-inferiority study, conducted in two phases – a 6 month remission induction phase and a 12 month remission maintenance phase.
+A total of 197 patients with active, severe GPA and MPA (two forms of ANCA Associated Vasculitides) were treated in a randomized, double-blind, active-controlled multicenter, non-inferiority study, conducted in two phases – a 6 month remission induction phase and a 12 month remission maintenance phase.
 Patients were 15 years of age or older, diagnosed with GPA (75% of patients) or MPA (24% of patients) according to the Chapel Hill Consensus conference criteria (1% of the patients had unknown vasculitis type).
 All patients had active disease, with a Birmingham Vasculitis Activity Score for Granulomatosis with Polyangiitis (BVAS/GPA) ≥ 3, and their disease was severe, with at least one major item on the BVAS/GPA.
 Ninety-six (49%) of patients had new disease and 101 (51%) of patients had relapsing disease.

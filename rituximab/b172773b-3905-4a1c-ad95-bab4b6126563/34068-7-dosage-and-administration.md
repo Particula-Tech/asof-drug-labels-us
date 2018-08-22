@@ -2,12 +2,12 @@
 
 ## 2.1 Important Dosing Information
 
-Administer only as an Intravenous Infusion [see Dosage and Administration (2.7)].
+Administer only as an Intravenous Infusion [see Dosage and Administration (2.8)].
 
 Do not administer as an intravenous push or bolus.
 RITUXAN should only be administered by a healthcare professional with appropriate medical support to manage severe infusion reactions that can be fatal if they occur [see Warnings and Precautions (5.1)].
 
-Premedicate before each infusion [see Dosage and Administration (2.7)].
+Premedicate before each infusion [see Dosage and Administration (2.8)].
 
 Prior to First Infusion: Screen all patients for HBV infection by measuring HBsAg and anti-HBc before initiating treatment with RITUXAN [see Warnings and Precautions (5.3)].
 Obtain complete blood counts including platelets (CBC) prior to the first dose.
@@ -72,6 +72,8 @@ The recommended dose is:
 - Maintenance treatment Administer RITUXAN as a 500 mg intravenous infusion at Month 12 and every 6 months thereafter or based on clinical evaluation.
 - Treatment of relapse Administer RITUXAN as a 1000 mg intravenous infusion on relapse, and consider resuming or increasing the glucocorticoid dose based on clinical evaluation.
 
+Subsequent infusions of RITUXAN may be administered no sooner than 16 weeks following the previous infusion.
+
 ## 2.8 Recommended Dose for Premedication and Prophylactic Medications
 
 Premedicate with acetaminophen and an antihistamine before each infusion of RITUXAN.
@@ -80,6 +82,7 @@ For patients administered RITUXAN according to the 90-minute infusion rate, the 
 For RA and PV patients, methylprednisolone 100 mg intravenously or its equivalent is recommended 30 minutes prior to each infusion.
 
 For GPA and MPA patients, glucocorticoids are given in combination with RITUXAN [see Dosage and Administration (2.6)].
+
 Provide prophylaxis treatment for Pneumocystis jirovecii pneumonia (PCP) and herpes virus infections for patients with CLL during treatment and for up to 12 months following treatment as appropriate [see Warnings and Precautions (5.6)].
 
 PCP prophylaxis is also recommended for patients with GPA and MPA during treatment and for at least 6 months following the last RITUXAN infusion.

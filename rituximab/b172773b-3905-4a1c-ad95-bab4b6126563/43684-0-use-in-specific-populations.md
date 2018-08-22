@@ -28,8 +28,8 @@ Rituximab was detected postnatally in the serum of infants exposed in-utero.
 Animal Data
 
 An embryo-fetal developmental toxicity study was performed on pregnant cynomolgus monkeys.
-Pregnant animals received rituximab via the intravenous route during early gestation (organogenesis period; post-coitum days 20 through 50).
-Rituximab was administered as loading doses on postcoitum (PC) Days 20, 21 and 22, at 15, 37.5 or 75 mg/kg/day, and then weekly on PC Days 29, 36, 43 and 50, at 20, 50 or 100 mg/kg/week.
+Pregnant animals received rituximab via the intravenous route during early gestation (organogenesis period; post coitum days 20 through 50).
+Rituximab was administered as loading doses on post coitum (PC) Days 20, 21 and 22, at 15, 37.5 or 75 mg/kg/day, and then weekly on PC Days 29, 36, 43 and 50, at 20, 50 or 100 mg/kg/week.
 The 100 mg/kg/week dose resulted in 80% of the exposure (based on AUC) of those achieved following a dose of 2 grams in humans.
 Rituximab crosses the monkey placenta.
 Exposed offspring did not exhibit any teratogenic effects but did have decreased lymphoid tissue B cells.
