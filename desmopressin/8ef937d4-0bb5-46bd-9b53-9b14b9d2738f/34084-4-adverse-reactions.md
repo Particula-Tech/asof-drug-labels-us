@@ -27,7 +27,7 @@ Among men with nocturia due to nocturnal polyuria, the discontinuation rate due 
 
 Table 1 displays the most common adverse reactions leading to discontinuation in patients with nocturia due to nocturnal polyuria.
 
-Table 1: Most Common Adverse Reactions (≥2 Incidences) Leading to Discontinuation in Patients With Nocturia Due to Nocturnal Polyuria (Studies 1, 2 and 3)Includes adverse reactions occurring during up to 3 months of treatment in patients who continued from Study 3 into Study 4
+Table 1: Most Common Adverse Reactions (≥2 Incidences) Leading to Discontinuation in Patients With Nocturia Due to Nocturnal Polyuria (Studies 1, 2 and 3) Includes adverse reactions occurring during up to 3 months of treatment in patients who continued from Study 3 into Study 4
 
 | Adverse Reactions | Placebo (N=173) | NOCDURNA 27.7 mcg (N=196) | Placebo (N=213) | NOCDURNA 55.3 mcg (N=195) |
 | --- | --- | --- | --- | --- |
@@ -42,7 +42,7 @@ The most common adverse reactions reported with both the 27.7 mcg/day and 55.3 m
 The high incidence of dry mouth may have been affected by specific query about dry mouth in Study 3 (CS29).
 In Studies 1 and 2 where the adverse reaction was spontaneously reported, the incidence was ≤4%.
 
-Table 2: Common Adverse Reactions (Reported by >2% of NOCDURNA-Treated Patients and at a Higher Incidence With Either Dose Than With Placebo) in Patients With Nocturia Due to Nocturnal Polyuria (Studies 1, 2 and 3)Includes adverse reactions occurring during up to 3 months of treatment in patients who continued from Study 3 into Study 4
+Table 2: Common Adverse Reactions (Reported by >2% of NOCDURNA-Treated Patients and at a Higher Incidence With Either Dose Than With Placebo) in Patients With Nocturia Due to Nocturnal Polyuria (Studies 1, 2 and 3) Includes adverse reactions occurring during up to 3 months of treatment in patients who continued from Study 3 into Study 4
 
 | Adverse Reactions | Placebo (N=173) | NOCDURNA 27.7 mcg (N=196) | Placebo (N=213) | NOCDURNA 55.3 mcg (N=195) |
 | --- | --- | --- | --- | --- |
@@ -57,7 +57,7 @@ Hyponatremia
 Serum sodium was measured during screening, at baseline, and on all study visits during treatment including day 4, week 1, week 2 (males only), week 4 and then every month of the studies.
 Tables 3 and Table 4 show the incidence of serum sodium concentrations below the normal range based on the pooled analysis of three phase 3 studies.
 
-Table 3: Incidence of Hyponatremia by Sex in Patients with Nocturia due to Nocturnal Polyuria (Studies 1, 2, and 3)Includes adverse reactions occurring during up to 3 months of treatment in patients who continued from Study 3 into Study 4
+Table 3: Incidence of Hyponatremia by Sex in Patients with Nocturia due to Nocturnal Polyuria (Studies 1, 2, and 3) Includes adverse reactions occurring during up to 3 months of treatment in patients who continued from Study 3 into Study 4
 
 | Serum Sodium (mmol/L) | Placebo (N=171) | NOCDURNA 27.7 mcg/day (N=191) | Placebo (N=207) | NOCDURNA 55.3 mcg/day (N=192) |
 | --- | --- | --- | --- | --- |
@@ -68,7 +68,7 @@ Table 3: Incidence of Hyponatremia by Sex in Patients with Nocturia due to Noctu
 | Some subjects received different doses over the course of Study 3 and are in more than one dose-group. |  |  |  |  |
 | n is number observed post baseline |  |  |  |  |
 
-Table 4: Incidence of Hyponatremia by Sex and Age in Patients with Nocturia due to Nocturnal Polyuria (Studies 1, 2 and 3)Includes adverse reactions occurring during up to 3 months of treatment in patients who continued from Study 3 into Study 4
+Table 4: Incidence of Hyponatremia by Sex and Age in Patients with Nocturia due to Nocturnal Polyuria (Studies 1, 2 and 3) Includes adverse reactions occurring during up to 3 months of treatment in patients who continued from Study 3 into Study 4
 
 | Placebo (N=95) | NOCDURNA 27.7 mcg/day (N=113) | Placebo (N=76) | NOCDURNA 27.7 mcg/day (N=78) | Placebo (N=95) | NOCDURNA 55.3 mcg/day (N=98) | Placebo (n=112) | NOCDURNA 55.3 mcg/day (N=94) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |

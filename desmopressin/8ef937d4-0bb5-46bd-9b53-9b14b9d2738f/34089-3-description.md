@@ -3,7 +3,7 @@
 NOCDURNA is a sublingual tablet containing desmopressin acetate, a synthetic analog of the endogenous pituitary hormone, 8-arginine vasopressin (ADH), an antidiuretic hormone.
 It is chemically defined as follows:
 
-Molecular weight of 1183.34 with the following empirical formula: C46H64N14O12S2∙C2H4O2∙3H2O
+Molecular weight of 1183.34 with the following empirical formula: C 46H 64N 14O 12S 2∙C 2H 4O 2∙3H 2O
 
 1-(3-mercaptopropionic acid)-8-D-arginine vasopressin monoacetate (salt) trihydrate.
 

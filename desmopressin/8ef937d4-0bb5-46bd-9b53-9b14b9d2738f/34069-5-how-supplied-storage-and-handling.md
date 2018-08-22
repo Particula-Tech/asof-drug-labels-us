@@ -2,12 +2,12 @@
 
 NOCDURNA (desmopressin acetate) sublingual tablets are available as:
 
-27.7 mcg of desmopressin acetate (equivalent to 25 mcg of desmopressin): White, round, sublingual tablet with "25" on one side.
+27.7 mcg of desmopressin acetate (equivalent to 25 mcg of desmopressin): White, round, sublingual tablet with " 25" on one side.
 
 | NDC 55566-5050-1 | Carton of 30 sublingual tablets (3 blister packs with 10 tablets each) |
 | --- | --- |
 
-55.3 mcg of desmopressin acetate (equivalent to 50 mcg of desmopressin): White, round, sublingual tablet with "50" on one side.
+55.3 mcg of desmopressin acetate (equivalent to 50 mcg of desmopressin): White, round, sublingual tablet with " 50" on one side.
 
 | NDC 55566-5070-1 | Carton of 30 sublingual tablets (3 blister packs with 10 tablets each) |
 | --- | --- |

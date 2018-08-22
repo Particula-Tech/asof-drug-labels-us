@@ -8,8 +8,8 @@ The antidiuretic effects of desmopressin are mediated by stimulation of vasopres
 
 In a pharmacodynamic study following sublingual administration of 60 mcg desmopressin (1.2 and 2.4 times the maximum recommended dose in men and women, respectively) with suppression of the endogenous vasopressin release by continuous intake of water, the mean time to onset of antidiuretic action was observed within 30 minutes and lasted 6 hours after dosing.
 
-In a study in patients with nocturia due to nocturnal polyuria, the weight-corrected NOCDURNA dose that induced 50% maximum achievable drug effect on nocturnal urine volume (ED50) differed significantly between women and men.
-The ED50 value for men was 2.7-fold (95% CI 1.3-8.1) higher than the value for women, corresponding to higher desmopressin sensitivity among women [see Dosage and Administration (2.1)].
+In a study in patients with nocturia due to nocturnal polyuria, the weight-corrected NOCDURNA dose that induced 50% maximum achievable drug effect on nocturnal urine volume (ED 50) differed significantly between women and men.
+The ED 50 value for men was 2.7-fold (95% CI 1.3-8.1) higher than the value for women, corresponding to higher desmopressin sensitivity among women [see Dosage and Administration (2.1)].
 
 Dose, sex, age and renal impairment affect the risk of developing hyponatremia [see Warnings and Precautions (5.1)].
 

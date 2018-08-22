@@ -30,11 +30,11 @@ Primary Efficacy Results in Subjects with Nocturia due to Nocturnal Polyuria in 
 |  | Placebo | NOCDURNA 27.7 mcg once daily | Placebo | NOCDURNA 55.3 mcg once daily |
 | Mean number of nocturnal voids |  |  |  |  |
 | Baseline (mean) | 2.9 | 2.9 | 3.0 | 3.0 |
-| Change from baselineRepeated measures ANCOVA of change from baseline at Week 1, Month 1, Month 2 and Month 3, adjusted for age stratification factor (<65, ≥65 years), visit, and baseline nocturnal voids | -1.2 | -1.5 | -0.9 | -1.3 |
+| Change from baseline Repeated measures ANCOVA of change from baseline at Week 1, Month 1, Month 2 and Month 3, adjusted for age stratification factor (<65, ≥65 years), visit, and baseline nocturnal voids | -1.2 | -1.5 | -0.9 | -1.3 |
 | Difference from placebo | -0.3 |  | -0.4 |  |
 | 95% CI | (-0.5, -0.1) |  | (-0.6, -0.2) |  |
 | 33% responder status |  |  |  |  |
-| ProbabilityGEE Method for 33% responder status at Week 1, Month 1, Month 2 and Month 3, adjusted for age stratification factor (<65, ≥65 years), visit, and baseline nocturnal voids | 0.62 | 0.78 | 0.50 | 0.67 |
+| Probability GEE Method for 33% responder status at Week 1, Month 1, Month 2 and Month 3, adjusted for age stratification factor (<65, ≥65 years), visit, and baseline nocturnal voids | 0.62 | 0.78 | 0.50 | 0.67 |
 | Odds Ratio | 2.15 |  | 2.02 |  |
 | 95% CI | (1.36, 3.41) |  | (1.30, 3.14) |  |
 | mITT: modified Intent-to-Treat (including all randomized patients who received at least one dose of study drug) |  |  |  |  |
@@ -50,7 +50,7 @@ Table 6 Summary of Additional Analysis Results in Subjects with Nocturia due to 
 |  | Placebo | NOCDURNA 27.7 mcg once daily | Placebo | NOCDURNA 55.3 mcg once daily |
 | Percentage of nights with at most one nocturnal void |  |  |  |  |
 | Baseline (mean) | 0% | 1% | 1% | 0% |
-| PercentageANCOVA model adjusted for treatment, age stratification factor (<65, ≥65 years), and baseline nocturnal voids | 45% | 58% | 32% | 44% |
+| Percentage ANCOVA model adjusted for treatment, age stratification factor (<65, ≥65 years), and baseline nocturnal voids | 45% | 58% | 32% | 44% |
 | Difference from placebo |  | 13% |  | 11% |
 | 95% CI |  | (4%, 21%) |  | (3%, 20%) |
 | Percentage of nights with no nocturnal voids |  |  |  |  |

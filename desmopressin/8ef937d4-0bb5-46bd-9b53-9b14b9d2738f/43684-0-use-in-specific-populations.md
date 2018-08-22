@@ -8,7 +8,7 @@ NOCDURNA is not recommended for the treatment of nocturia in pregnant women.
 Nocturia is usually related to normal, physiologic changes during pregnancy that do not require treatment with NOCDURNA.
 
 There are no data with NOCDURNA use in pregnant women to inform any drug-associated risks.
-No adverse developmental outcomes were observed in animal reproductive and developmental studies following administration of desmopressin acetate during organogenesis to pregnant rats and rabbits, at exposures 92- and 8- times, respectively, the maximum recommended dose in women, based on body surface area (mg/m2) (see Data).
+No adverse developmental outcomes were observed in animal reproductive and developmental studies following administration of desmopressin acetate during organogenesis to pregnant rats and rabbits, at exposures 92- and 8- times, respectively, the maximum recommended dose in women, based on body surface area (mg/m 2) (see Data).
 
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
@@ -16,7 +16,7 @@ Data
 
 Animal Data
 
-Desmopressin acetate, administered during organogenesis did not cause fetal harm in teratology studies in rats at intravenous doses up to 238 mcg/kg/day or in rabbits at subcutaneous doses up to 10 mcg/kg/day, representing 92- and 8-times, respectively, the maximum recommended dose in women of 27.7 mcg, based on body surface area (mg/m2).
+Desmopressin acetate, administered during organogenesis did not cause fetal harm in teratology studies in rats at intravenous doses up to 238 mcg/kg/day or in rabbits at subcutaneous doses up to 10 mcg/kg/day, representing 92- and 8-times, respectively, the maximum recommended dose in women of 27.7 mcg, based on body surface area (mg/m 2).
 
 ## 8.2 Lactation
 
@@ -46,5 +46,5 @@ Clinical studies of desmopressin have shown an increased risk of hyponatremia in
 
 ## 8.6 Renal Impairment
 
-No dose adjustment of NOCDURNA is required for patients with an eGFR at or above 50 mL/min/1.73 m2.
-NOCDURNA is contraindicated in patients with an eGFR below 50 mL/min/1.73 m2 [see Contraindications (4)].
+No dose adjustment of NOCDURNA is required for patients with an eGFR at or above 50 mL/min/1.73 m 2.
+NOCDURNA is contraindicated in patients with an eGFR below 50 mL/min/1.73 m 2 [see Contraindications (4)].
