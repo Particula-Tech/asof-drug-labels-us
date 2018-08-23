@@ -5,8 +5,10 @@ Erythromycin Tablets are supplied as pink, unscored oval tablets in the followin
 | 250 mg tablets (debossed with EB): |  |
 | --- | --- |
 | Bottles of 30 | (NDC 24338-102-03) |
+| Bottles of 100 | (NDC 24338-102-13) |
 | 500 mg tablets (debossed with EA): |  |
 | Bottles of 30 | (NDC 24338-104-03). |
+| Bottles of 100 | (NDC 24338-104-13). |
 
 ## Recommended storage
 

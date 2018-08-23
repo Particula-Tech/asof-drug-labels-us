@@ -46,7 +46,7 @@ For women who cannot tolerate this regimen, a decreased dose of one erythromycin
 
 ## Acute Pelvic Inflammatory Disease Caused by N. gonorrhoeae
 
-500 mg Erythrocin® Lactobionate-I.V.
+500 mg Erythrocin™ Lactobionate-I.V.
 (erythromycin lactobionate for injection, USP) every 6 hours for 3 days, followed by 500 mg of erythromycin base orally every 12 hours for 7 days.
 
 ## Intestinal Amebiasis
