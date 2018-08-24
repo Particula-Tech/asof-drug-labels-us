@@ -14,7 +14,7 @@ Injectable benzathine penicillin is considered the drug of choice in treatment a
 
 Cefazolin is effective in the eradication of streptococci from the nasopharynx; however, data establishing the efficacy of cefazolin in the subsequent prevention of rheumatic fever are not available.
 
-## 1.2 Urinary Tract Infctions
+## 1.2 Urinary Tract Infections
 
 Urinary tract infections due to Escherichia coli, and Proteus mirabilis.
 
