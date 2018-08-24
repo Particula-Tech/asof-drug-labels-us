@@ -19,12 +19,12 @@ Two dosage regimens are described, one of which may be more convenient or suitab
 For the initial cycle of therapy, the patient begins her tablets according to the Day-1 Start or Sunday-Start regimen.
 With either regimen, the patient takes one tablet daily for 21 consecutive days followed by one week of no tablets.
 
-1. A.Sunday-Start Regimen: The patient begins taking tablets from the top row on the first Sunday after menstrual flow begins.
+1. Sunday-Start Regimen: The patient begins taking tablets from the top row on the first Sunday after menstrual flow begins.
    When menstrual flow begins on Sunday, the first tablet is taken on the same day.
    The last tablet in the dispenser will then be taken on a Saturday, followed by no tablets for a week (7 days).
    For all subsequent cycles, the patient then begins a new 21-tablet regimen on the eighth day, Sunday, after taking her last tablet.
    Following this regimen, of 21 days on--7 days off, the patient will start all subsequent cycles on a Sunday.
-2. B.Day-1 Regimen: The first day of menstrual flow is Day 1.
+2. Day-1 Regimen: The first day of menstrual flow is Day 1.
    The patient places the self-adhesive days of the week sticker that corresponds to her starting day over the preprinted days on the blister card.
    She starts taking one tablet daily, beginning with the first tablet in the top row.
    The patient completes her 21-tablet regimen when she has taken the last tablet in the tablet dispenser.
@@ -32,8 +32,9 @@ With either regimen, the patient takes one tablet daily for 21 consecutive days 
    For all subsequent cycles, the patient begins a new 21-tablet regimen on the eighth day after taking her last tablet, again starting with the first tablet in the top row after placing the appropriate days of the week sticker over the preprinted days on the blister card.
    Following this regimen of 21 days on--7 days off, the patient will start all subsequent cycles on the same day of the week as the first course.
    Likewise, the interval of no tablets will always start on the same day of the week.
-3. Tablets should be taken regularly with a meal or at bedtime.
-   It should be stressed that efficacy of medication depends on strict adherence to the dosage schedule.
+
+Tablets should be taken regularly with a meal or at bedtime.
+It should be stressed that efficacy of medication depends on strict adherence to the dosage schedule.
 
 ## Special Notes on Administration
 
@@ -44,44 +45,44 @@ If the patient forgets to take one or more tablets, the following is suggested:
 
 Onetablet is missed
 
-1. •take tablet as soon as remembered
-2. •take next tablet at the regular time
+- take tablet as soon as remembered
+- take next tablet at the regular time
 
 Twoconsecutive tablets are missed (week 1 or week 2)
 
-1. •take twotablets as soon as remembered
-2. •take twotablets the next day
-3. •use another birth control method for seven days following the missed tablets
+- take twotablets as soon as remembered
+- take twotablets the next day
+- use another birth control method for seven days following the missed tablets
 
 Twoconsecutive tablets are missed (week 3)
 
 Sunday-Start Regimen:
 
-1. •take onetablet daily until Sunday
-2. •discard remaining tablets
-3. •start new pack of tablets immediately (Sunday)
-4. •use another birth control method for seven days following the missed tablets
+- take onetablet daily until Sunday
+- discard remaining tablets
+- start new pack of tablets immediately (Sunday)
+- use another birth control method for seven days following the missed tablets
 
 Day-1 Start Regimen:
 
-1. •discard remaining tablets
-2. •start new pack of tablets that same day
-3. •use another birth control method for seven days following the missed tablets
+- discard remaining tablets
+- start new pack of tablets that same day
+- use another birth control method for seven days following the missed tablets
 
 Three(or more) consecutive tablets are missed
 
 Sunday-Start Regimen:
 
-1. •take onetablet daily until Sunday
-2. •discard remaining tablets
-3. •start new pack of tablets immediately (Sunday)
-4. •use another birth control method for seven days following the missed tablets
+- take onetablet daily until Sunday
+- discard remaining tablets
+- start new pack of tablets immediately (Sunday)
+- use another birth control method for seven days following the missed tablets
 
 Day-1 Start Regimen:
 
-1. •discard remaining tablets
-2. •start new pack of tablets that same day
-3. •use another birth control method for seven days following the missed tablets
+- discard remaining tablets
+- start new pack of tablets that same day
+- use another birth control method for seven days following the missed tablets
 
 The possibility of ovulation occurring increases with each successive day that scheduled tablets are missed.
 While there is little likelihood of ovulation occurring if only one tablet is missed, the possibility of spotting or bleeding is increased.
@@ -98,21 +99,22 @@ Junel Fe provides a continuous administration regimen consisting of 21 light yel
 The ferrous fumarate tablets are present to facilitate ease of drug administration via a 28-day regimen and do not serve any therapeutic purpose.
 There is no need for the patient to count days between cycles because there are no “off-tablet days.”
 
-1. A.Sunday-Start Regimen: The patient begins taking the first light yellow or pink tablet from the top row of the dispenser (labeled Sunday) on the first Sunday after menstrual flow begins.
+1. Sunday-Start Regimen: The patient begins taking the first light yellow or pink tablet from the top row of the dispenser (labeled Sunday) on the first Sunday after menstrual flow begins.
    When the menstrual flow begins on Sunday, the first light yellow or pink tablet is taken on the same day.
    The patient takes one light yellow or pink tablet daily for 21 days.
    The last light yellow or pink tablet in the dispenser will be taken on a Saturday.
    Upon completion of all 21 light yellow or pink tablets, and without interruption, the patient takes one brown tablet daily for 7 days.
    Upon completion of this first course of tablets, the patient begins a second course of 28-day tablets, without interruption, the next day (Sunday), starting with the Sunday light yellow or pink tablet in the top row.
    Adhering to this regimen of one light yellow or pink tablet daily for 21 days, followed without interruption by one brown tablet daily for seven days, the patient will start all subsequent cycles on a Sunday.
-2. B.Day-1 Regimen: The first day of menstrual flow is Day 1.
+2. Day-1 Regimen: The first day of menstrual flow is Day 1.
    The patient places the self-adhesive days of the week sticker that corresponds to her starting day over the preprinted days on the blister card.
    She starts taking one light yellow or pink tablet daily, beginning with the first light yellow or pink tablet in the top row.
    After the last light yellow or pink tablet (at the end of the third row) has been taken, the patient will then take the brown tablets for a week (7 days).
    For all subsequent cycles, the patient begins a new 28 tablet regimen on the eighth day after taking her last light yellow or pink tablet, again starting with the first tablet in the top row after placing the appropriate days of the week sticker over the preprinted days on the blister card.
    Following this regimen of 21 light yellow or pink tablets and 7 brown tablets, the patient will start all subsequent cycles on the same day of the week as the first course.
-3. Tablets should be taken regularly with a meal or at bedtime.
-   It should be stressed that efficacy of medication depends on strict adherence to the dosage schedule.
+
+Tablets should be taken regularly with a meal or at bedtime.
+It should be stressed that efficacy of medication depends on strict adherence to the dosage schedule.
 
 ## Special Notes on Administration
 
@@ -124,44 +126,44 @@ If the patient forgets to take one or more light yellow or pink tablets, the fol
 
 Onetablet is missed
 
-1. •take tablet as soon as remembered
-2. •take next tablet at the regular time
+- take tablet as soon as remembered
+- take next tablet at the regular time
 
 Twoconsecutive tablets are missed (week 1 or week 2)
 
-1. •take twotablets as soon as remembered
-2. •take twotablets the next day
-3. •use another birth control method for seven days following the missed tablets
+- take twotablets as soon as remembered
+- take twotablets the next day
+- use another birth control method for seven days following the missed tablets
 
 Twoconsecutive tablets are missed (week 3)
 
 Sunday-Start Regimen:
 
-1. •take onetablet daily until Sunday
-2. •discard remaining tablets
-3. •start new pack of tablets immediately (Sunday)
-4. •use another birth control method for seven days following the missed tablets
+- take onetablet daily until Sunday
+- discard remaining tablets
+- start new pack of tablets immediately (Sunday)
+- use another birth control method for seven days following the missed tablets
 
 Day-1 Start Regimen:
 
-1. •discard remaining tablets
-2. •start new pack of tablets that same day
-3. •use another birth control method for seven days following the missed tablets
+- discard remaining tablets
+- start new pack of tablets that same day
+- use another birth control method for seven days following the missed tablets
 
 Three(or more) consecutive tablets are missed
 
 Sunday-Start Regimen:
 
-1. •take onetablet daily until Sunday
-2. •discard remaining tablets
-3. •start new pack of tablets immediately (Sunday)
-4. •use another birth control method for seven days following the missed tablets
+- take onetablet daily until Sunday
+- discard remaining tablets
+- start new pack of tablets immediately (Sunday)
+- use another birth control method for seven days following the missed tablets
 
 Day-1 Start Regimen:
 
-1. •discard remaining tablets
-2. •start new pack of tablets that same day
-3. •use another birth control method for seven days following the missed tablets
+- discard remaining tablets
+- start new pack of tablets that same day
+- use another birth control method for seven days following the missed tablets
 
 The possibility of ovulation occurring increases with each successive day that scheduled light yellow or pink tablets are missed.
 While there is little likelihood of ovulation occurring if only one light yellow or pink tablet is missed, the possibility of spotting or bleeding is increased.
@@ -176,8 +178,8 @@ Persistent bleeding which is not controlled by this method indicates the need fo
 
 ## Use of Oral Contraceptives in the Event of a Missed Menstrual Period
 
-1. 1.If the patient has not adhered to the prescribed dosage regimen, the possibility of pregnancy should be considered after the first missed period and oral contraceptives should be withheld until pregnancy has been ruled out.
-2. 2.If the patient has adhered to the prescribed regimen and misses two consecutive periods, pregnancy should be ruled out before continuing the contraceptive regimen.
+1. If the patient has not adhered to the prescribed dosage regimen, the possibility of pregnancy should be considered after the first missed period and oral contraceptives should be withheld until pregnancy has been ruled out.
+2. If the patient has adhered to the prescribed regimen and misses two consecutive periods, pregnancy should be ruled out before continuing the contraceptive regimen.
 
 After several months on treatment, bleeding may be reduced to a point of virtual absence.
 This reduced flow may occur as a result of medication, in which event it is not indicative of pregnancy.
