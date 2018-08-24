@@ -2,7 +2,7 @@
 
 NDC 0168-0424-46
 
-Fougera ®
+Fougera®
 
 ADAPALENE CREAM 0.1%
 

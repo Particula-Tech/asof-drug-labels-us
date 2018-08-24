@@ -20,15 +20,15 @@ As with other retinoids, use of "waxing" as a depilatory method should be avoide
 
 Patients using adapalene cream should receive the following information and instructions:
 
-1. This medication is to be used only as directed by the physician.
-2. It is for external use only.
-3. Avoid contact with the eyes, lips, angles of the nose, and mucous membranes.
-4. Cleanse area with a mild or soapless cleanser before applying this medication.
-5. Moisturizers may be used if necessary, however, products containing alpha hydroxyl or glycolic acids should be avoided.
-6. Exposure of the eye to this medication may result in reactions such as swelling, conjunctivitis, and eye irritation.
-7. This medication should not be applied to cuts, abrasions, eczematous or sunburned skin.
-8. Wax epilation should not be performed on treated skin due to the potential for skin erosions.
-9. During the early weeks of therapy, an apparent exacerbation of acne may occur.
+1. 1.This medication is to be used only as directed by the physician.
+2. 2.It is for external use only.
+3. 3.Avoid contact with the eyes, lips, angles of the nose, and mucous membranes.
+4. 4.Cleanse area with a mild or soapless cleanser before applying this medication.
+5. 5.Moisturizers may be used if necessary, however, products containing alpha hydroxyl or glycolic acids should be avoided.
+6. 6.Exposure of the eye to this medication may result in reactions such as swelling, conjunctivitis, and eye irritation.
+7. 7.This medication should not be applied to cuts, abrasions, eczematous or sunburned skin.
+8. 8.Wax epilation should not be performed on treated skin due to the potential for skin erosions.
+9. 9.During the early weeks of therapy, an apparent exacerbation of acne may occur.
    This is due to the action of this medication on previously unseen lesions and should not be considered a reason to discontinue therapy.
    Overall clinical benefit may be noticed after two weeks of therapy, but at least eight weeks are required to obtain consistent beneficial effects.
 
