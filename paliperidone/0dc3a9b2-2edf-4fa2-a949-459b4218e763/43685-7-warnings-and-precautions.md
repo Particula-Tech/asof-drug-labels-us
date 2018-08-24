@@ -1,0 +1,289 @@
+# 5 WARNINGS AND PRECAUTIONS
+
+## 5.1 Increased Mortality in Elderly Patients with Dementia-Related Psychosis
+
+Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
+Analyses of 17 placebo-controlled trials (modal duration of 10 weeks), largely in patients taking atypical antipsychotic drugs, revealed a risk of death in drug-treated patients of between 1.6 to 1.7 times the risk of death in placebo-treated patients.
+Over the course of a typical 10-week controlled trial, the rate of death in drug-treated patients was about 4.5%, compared to a rate of about 2.6% in the placebo group.
+Although the causes of death were varied, most of the deaths appeared to be either cardiovascular (e.g., heart failure, sudden death) or infectious (e.g., pneumonia) in nature.
+Observational studies suggest that, similar to atypical antipsychotic drugs, treatment with conventional antipsychotic drugs may increase mortality.
+The extent to which the findings of increased mortality in observational studies may be attributed to the antipsychotic drug as opposed to some characteristic(s) of the patients is not clear.
+Paliperidone is not approved for the treatment of dementia-related psychosis [see Boxed Warning].
+
+## 5.2 Cerebrovascular Adverse Reactions, Including Stroke, in Elderly Patients With Dementia-Related Psychosis
+
+In placebo-controlled trials with risperidone, aripiprazole, and olanzapine in elderly subjects with dementia, there was a higher incidence of cerebrovascular adverse reactions (cerebrovascular accidents and transient ischemic attacks) including fatalities compared to placebo-treated subjects.
+Paliperidone was not marketed at the time these studies were performed.
+Paliperidone is not approved for the treatment of patients with dementia-related psychosis [see also Boxed Warning and Warnings and Precautions (5.1)].
+
+## 5.3 Neuroleptic Malignant Syndrome
+
+A potentially fatal symptom complex sometimes referred to as Neuroleptic Malignant Syndrome (NMS) has been reported in association with antipsychotic drugs, including paliperidone.
+Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status, and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmia).
+Additional signs may include elevated creatine phosphokinase, myoglobinuria (rhabdomyolysis), and acute renal failure.
+The diagnostic evaluation of patients with this syndrome is complicated.
+In arriving at a diagnosis, it is important to identify cases in which the clinical presentation includes both serious medical illness (e.g., pneumonia, systemic infection, etc.) and untreated or inadequately treated extrapyramidal signs and symptoms (EPS).
+Other important considerations in the differential diagnosis include central anticholinergic toxicity, heat stroke, drug fever, and primary central nervous system pathology.
+The management of NMS should include: (1) immediate discontinuation of antipsychotic drugs and other drugs not essential to concurrent therapy; (2) intensive symptomatic treatment and medical monitoring; and (3) treatment of any concomitant serious medical problems for which specific treatments are available.
+There is no general agreement about specific pharmacological treatment regimens for uncomplicated NMS.
+If a patient appears to require antipsychotic drug treatment after recovery from NMS, reintroduction of drug therapy should be closely monitored, since recurrences of NMS have been reported.
+
+## 5.4 QT Prolongation
+
+Paliperidone causes a modest increase in the corrected QT (QTc) interval.
+The use of paliperidone should be avoided in combination with other drugs that are known to prolong QTc including Class 1A (e.g., quinidine, procainamide) or Class III (e.g., amiodarone, sotalol) antiarrhythmic medications, antipsychotic medications (e.g., chlorpromazine, thioridazine), antibiotics (e.g., gatifloxacin, moxifloxacin), or any other class of medications known to prolong the QTc interval.
+Paliperidone should also be avoided in patients with congenital long QT syndrome and in patients with a history of cardiac arrhythmias.
+Certain circumstances may increase the risk of the occurrence of torsade de pointes and/or sudden death in association with the use of drugs that prolong the QTc interval, including (1) bradycardia; (2) hypokalemia or hypomagnesemia; (3) concomitant use of other drugs that prolong the QTc interval; and (4) presence of congenital prolongation of the QT interval.
+The effects of paliperidone on the QT interval were evaluated in a double-blind, active-controlled (moxifloxacin 400 mg single dose), multicenter QT study in adults with schizophrenia and schizoaffective disorder, and in three placebo- and active-controlled 6-week, fixed-dose efficacy trials in adults with schizophrenia.
+In the QT study (n = 141), the 8 mg dose of immediate-release oral paliperidone (n=50) showed a mean placebo-subtracted increase from baseline in QTcLD of 12.3 msec (90% CI: 8.9; 15.6) on day 8 at 1.5 hours post-dose.
+The mean steady-state peak plasma concentration for this 8 mg dose of paliperidone immediate-release was more than twice the exposure observed with the maximum recommended 12 mg dose of paliperidone (Cmax ss = 113 ng/mL and 45 ng/mL, respectively, when administered with a standard breakfast).
+In this same study, a 4 mg dose of the immediate-release oral formulation of paliperidone, for which Cmax ss = 35 ng/mL, showed an increased placebo-subtracted QTcLD of 6.8 msec (90% CI: 3.6; 10.1) on day 2 at 1.5 hours post-dose.
+None of the subjects had a change exceeding 60 msec or a QTcLD exceeding 500 msec at any time during this study.
+For the three fixed-dose efficacy studies in subjects with schizophrenia, electrocardiogram (ECG) measurements taken at various time points showed only one subject in the paliperidone
+
+12 mg group had a change exceeding 60 msec at one time-point on Day 6 (increase of 62 msec).
+No subject receiving paliperidone had a QTcLD exceeding 500 msec at any time in any of these three studies.
+
+## 5.5 Tardive Dyskinesia
+
+A syndrome of potentially irreversible, involuntary, dyskinetic movements may develop in patients treated with antipsychotic drugs.
+Although the prevalence of the syndrome appears to be highest among the elderly, especially elderly women, it is impossible to predict which patients will develop the syndrome.
+Whether antipsychotic drug products differ in their potential to cause tardive dyskinesia is unknown.
+
+The risk of developing tardive dyskinesia and the likelihood that it will become irreversible appear to increase as the duration of treatment and the total cumulative dose of antipsychotic drugs administered to the patient increase, but the syndrome can develop after relatively brief treatment periods at low doses, although this is uncommon.
+
+The syndrome may remit, partially or completely, if antipsychotic treatment is withdrawn.
+Antipsychotic treatment itself may suppress (or partially suppress) the signs and symptoms of the syndrome and may thus mask the underlying process.
+The effect of symptomatic suppression on the long-term course of the syndrome is unknown.
+
+Given these considerations, paliperidone should be prescribed in a manner that is most likely to minimize the occurrence of tardive dyskinesia.
+Chronic antipsychotic treatment should generally be reserved for patients who suffer from a chronic illness that is known to respond to antipsychotic drugs.
+In patients who do require chronic treatment, the smallest dose and the shortest duration of treatment producing a satisfactory clinical response should be sought.
+The need for continued treatment should be reassessed periodically.
+
+If signs and symptoms of tardive dyskinesia appear in a patient treated with paliperidone, drug discontinuation should be considered.
+However, some patients may require treatment with paliperidone despite the presence of the syndrome.
+
+## 5.6 Metabolic Changes
+
+Atypical antipsychotic drugs have been associated with metabolic changes that may increase cardiovascular/cerebrovascular risk.
+These metabolic changes include hyperglycemia, dyslipidemia, and body weight gain.
+While all of the drugs in the class have been shown to produce some metabolic changes, each drug has its own specific risk profile.
+Hyperglycemia and Diabetes Mellitus Hyperglycemia and diabetes mellitus, in some cases extreme and associated with ketoacidosis or hyperosmolar coma or death, have been reported in patients treated with all atypical antipsychotics.
+These cases were, for the most part, seen in postmarketing clinical use and epidemiologic studies, not in clinical trials, and there have been few reports of hyperglycemia or diabetes in trial subjects treated with paliperidone.
+Assessment of the relationship between atypical antipsychotic use and glucose abnormalities is complicated by the possibility of an increased background risk of diabetes mellitus in patients with schizophrenia and the increasing incidence of diabetes mellitus in the general population.
+Given these confounders, the relationship between atypical antipsychotic use and hyperglycemia-related adverse events is not completely understood.
+However, epidemiological studies suggest an increased risk of treatment-emergent hyperglycemia-related adverse events in patients treated with the atypical antipsychotics.
+Because paliperidone was not marketed at the time these studies were performed, it is not known if paliperidone is associated with this increased risk.
+Patients with an established diagnosis of diabetes mellitus who are started on atypical antipsychotics should be monitored regularly for worsening of glucose control.
+Patients with risk factors for diabetes mellitus (e.g., obesity, family history of diabetes) who are starting treatment with atypical antipsychotics should undergo fasting blood glucose testing at the beginning of treatment and periodically during treatment.
+Any patient treated with atypical antipsychotics should be monitored for symptoms of hyperglycemia including polydipsia, polyuria, polyphagia, and weakness.
+Patients who develop symptoms of hyperglycemia during treatment with atypical antipsychotics should undergo fasting blood glucose testing.
+In some cases, hyperglycemia has resolved when the atypical antipsychotic was discontinued; however, some patients required continuation of anti-diabetic treatment despite discontinuation of the suspect drug.
+Pooled data from the three placebo-controlled, 6-week, fixed-dose studies in adult subjects with schizophrenia are presented in Table 1a.
+
+Table 1a.
+Change in Fasting Glucose from Three Placebo-Controlled, 6-Week, Fixed-Dose Studies in Adult Subjects with Schizophrenia
+
+|  |  | Paliperidone |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Placebo | 3 mg/day | 6 mg/day |  | 9 mg/day | 12 mg/day |  |
+| Mean change from baseline (mg/dL) |  |  |  |  |  |  |
+| n=322 | n=122 | n=212 |  | n=234 | n=218 |  |
+| Serum Glucose Change from baseline | 0.8 | -0.7 | 0.4 |  | 2.3 | 4.3 |
+|  | Proportion of Patients with Shifts |  |  |  |  |  |
+| Serum Glucose Normal to High (<100 mg/dL to ≥126 mg/dL) | 5.1% (12/236) | 3.2% (3/93) |  | 4.5% (7/156) | 4.8% (9/187) | 3.8% (6/157) |
+
+In the uncontrolled, longer-term open-label extension studies, paliperidone was associated with a mean change in glucose of +3.3 mg/dL at Week 24 (n=570) and +4.6 mg/dL at Week 52 (n=314).
+Data from the placebo-controlled 6-week study in adolescent subjects (12 to 17 years of age) with schizophrenia are presented in Table 1b.
+
+Table 1b.
+Change in Fasting Glucose from a Placebo-Controlled 6-Week Study in Adolescent Subjects (12 to 17 years of age) with Schizophrenia
+
+|  |  | Paliperidone |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Placebo | 1.5 mg/day | 3 mg/day |  | 6 mg/day | 12 mg/day |  |
+| Mean change from baseline (mg/dL) |  |  |  |  |  |  |
+| n=41 | n=44 | n=11 |  | n=28 | n=32 |  |
+| Serum Glucose Change from baseline | 0.8 | -1.4 | -1.8 |  | -0.1 | 5.2 |
+|  | Proportion of Patients with Shifts |  |  |  |  |  |
+| Serum Glucose Normal to High (<100 mg/dL to ≥126 mg/dL) | 3% (1/32) | 0% (0/34) |  | 0% (0/9) | 0% (0/20) | 11% (3/27) |
+
+Dyslipidemia Undesirable alterations in lipids have been observed in patients treated with atypical antipsychotics.
+Pooled data from the three placebo-controlled, 6-week, fixed-dose studies in adult subjects with schizophrenia are presented in Table 2a.
+
+Table 2a.
+Change in Fasting Lipids from Three Placebo-Controlled, 6-Week, Fixed-Dose Studies in Adult Subjects with Schizophrenia
+
+|  |  | Paliperidone |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Placebo | 3 mg/day | 6 mg/day |  | 9 mg/day | 12 mg/day |  |
+| Mean change from baseline (mg/dL) |  |  |  |  |  |  |
+| Cholesterol | n=331 | n=120 | n=216 |  | n=236 | n=231 |
+| Change from baseline | -6.3 | -4.4 | -2.4 |  | -5.3 | -4 |
+| LDL | n=322 | n=116 | n=210 |  | n=231 | n=225 |
+| Change from baseline | -3.2 | 0.5 | -0.8 |  | -3.9 | -2 |
+| HDL | n=331 | n=119 | n=216 |  | n=234 | n=230 |
+| Change from baseline | 0.3 | -0.4 | 0.5 |  | 0.8 | 1.2 |
+| Triglycerides | n=331 | n=120 | n=216 |  | n=236 | n=231 |
+| Change from baseline | -22.3 | -18.3 | -12.6 |  | -10.6 | -15.4 |
+|  | Proportion of Patients with Shifts |  |  |  |  |  |
+| Cholesterol Normal to High (<200 mg/dL to ≥240 mg/dL) | 2.6%(5/194) | 2.8% (2/71) |  | 5.6% (7/125) | 4.1% (6/147) | 3.1% (4/130) |
+| LDL Normal to High (<100 mg/dL to ≥160 mg/dL) | 1.9% (2/105) | 0% (0/44) |  | 5% (3/60) | 3.7% (3/81) | 0% (0/69) |
+| HDL Normal to Low (≥40 mg/dL to <40 mg/dL) | 22% (44/200) | 16.3% (13/80) |  | 29.1% (39/134) | 23.4% (32/137) | 20% (27/135) |
+| Triglycerides Normal to High (<150 mg/dL to ≥200 mg/dL) | 5.3% (11/208) | 11% (9/82) |  | 8.8% (12/136) | 8.7% (13/150) | 4.3% (6/139) |
+
+In the uncontrolled, longer-term open-label extension studies, paliperidone was associated with a mean change in (a) total cholesterol of -1.5 mg/dL at Week 24 (n=573) and -1.5 mg/dL at Week 52 (n=317), (b) triglycerides of -6.4 mg/dL at Week 24 (n=573) and -10.5 mg/dL at Week 52 (n=317); (c) LDL of -1.9 mg/dL at Week 24 (n=557) and -2.7 mg/dL at Week 52 (n=297); and (d) HDL of +2.2 mg/dL at Week 24 (n=568) and +3.6 mg/dL at Week 52 (n=302).
+Data from the placebo-controlled 6-week study in adolescent subjects (12 to 17 years of age) with schizophrenia are presented in Table 2b.
+
+Table 2b.
+Change in Fasting Lipids from a Placebo-Controlled 6-Week Study in Adolescent Subjects (12 to 17 years of age) with Schizophrenia
+
+|  |  | Paliperidone |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Placebo | 1.5 mg/day | 3 mg/day |  | 6 mg/day | 12 mg/day |  |
+| Mean change from baseline (mg/dL) |  |  |  |  |  |  |
+| Cholesterol | n=39 | n=45 | n=11 |  | n=28 | n=32 |
+| Change from baseline | -7.8 | -3.3 | 12.7 |  | 3 | -1.5 |
+| LDL | n=37 | n=40 | n=9 |  | n=27 | n=31 |
+| Change from baseline | -4.1 | -3.1 | 7.2 |  | 2.4 | 0.6 |
+| HDL | n=37 | n=41 | n=9 |  | n=27 | n=31 |
+| Change from baseline | -1.9 | 0 | 1.3 |  | 1.4 | 0 |
+| Triglycerides | n=39 | n=44 | n=11 |  | n=28 | n=32 |
+| Change from baseline | -8.9 | 3.2 | 17.6 |  | -5.4 | 3.9 |
+|  | Proportion of Patients with Shifts |  |  |  |  |  |
+| Cholesterol Normal to High (<170 mg/dL to ≥200 mg/dL) | 7% (2/27) | 4% (1/26) |  | 0% (0/6) | 6% (1/18) | 11% (2/19) |
+| LDL Normal to High (<110 mg/dL to ≥130 mg/dL) | 3% (1/32) | 4% (1/25) |  | 14% (1/7) | 0% (0/22) | 9% (2/22) |
+| HDL Normal to Low (≥40 mg/dL to <40 mg/dL) | 14% (4/28) | 7% (2/30) |  | 29% (2/7) | 13% (3/23) | 23% (5/22) |
+| Triglycerides Normal to High (<150 mg/dL to ≥200 mg/dL) | 3% (1/34) | 5% (2/38) |  | 13% (1/8) | 8% (2/26) | 7% (2/28) |
+
+Weight Gain Weight gain has been observed with atypical antipsychotic use.
+Clinical monitoring of weight is recommended.
+Schizophrenia Trials Data on mean changes in body weight and the proportion of subjects meeting a weight gain criterion of ≥ 7% of body weight from the three placebo-controlled, 6-week, fixed-dose studies in adult subjects are presented in Table 3a.
+
+Table 3a.
+Mean Change in Body Weight (kg) and the Proportion of Subjects with ≥ 7% Gain in Body Weight from Three Placebo-Controlled, 6-Week, Fixed-Dose Studies in Adult Subjects with Schizophrenia
+
+|  |  | Paliperidone |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Placebo | 3 mg/day | 6 mg/day | 9 mg/day | 12 mg/day |  |
+| n=323 | n=112 | n=215 | n=235 | n=218 |  |
+| Weight (kg) Change from baseline | -0.4 | 0.6 | 0.6 | 1 | 1.1 |
+| Weight Gain ≥7% increase from baseline | 5% | 7% | 6% | 9% | 9% |
+
+In the uncontrolled, longer-term open-label extension studies, paliperidone was associated with a mean change in weight of +1.4 kg at Week 24 (n=63) and +2.6 kg at Week 52 (n=302).
+Weight gain in adolescent subjects with schizophrenia was assessed in a 6-week, double-blind, placebo-controlled study and an open-label extension with a median duration of exposure to paliperidone of 182 days.
+Data on mean changes in body weight and the proportion of subjects meeting a weight gain criterion of ≥ 7% of body weight [see Clinical Studies (14.1)] from the placebo-controlled 6-week study in adolescent subjects (12 to 17 years of age) are presented in Table 3b.
+
+Table 3b.
+Mean Change in Body Weight (kg) and the Proportion of Subjects with ≥ 7% Gain in Body Weight from a Placebo-Controlled 6-Week Study in Adolescent Subjects (12 to 17 years of age) with Schizophrenia
+
+|  |  | Paliperidone |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Placebo | 1.5 mg/day | 3 mg/day | 6 mg/day | 12 mg/day |  |
+| n=51 | n=54 | n=16 | n=45 | n=34 |  |
+| Weight (kg) Change from baseline | 0 | 0.3 | 0.8 | 1.2 | 1.5 |
+| Weight Gain ≥7% increase from baseline | 2% | 6% | 19% | 7% | 18% |
+
+In the open-label long-term study the proportion of total subjects treated with paliperidone with an increase in body weight of ≥ 7% from baseline was 33%.
+When treating adolescent patients with paliperidone, weight gain should be assessed against that expected with normal growth.
+When taking into consideration the median duration of exposure to paliperidone in the open-label study (182 days) along with expected normal growth in this population based on age and gender, an assessment of standardized scores relative to normative data provides a more clinically relevant measure of changes in weight.
+The mean change from open-label baseline to endpoint in standardized score for weight was 0.1 (4% above the median for normative data).
+Based on comparison to the normative data, these changes are not considered to be clinically significant.
+Schizoaffective Disorder Trials In the pooled data from the two placebo-controlled, 6-week studies in adult subjects with schizoaffective disorder, a higher percentage of paliperidone-treated subjects (5%) had an increase in body weight of ≥ 7% compared with placebo-treated subjects (1%).
+In the study that examined high- and low-dose groups, the increase in body weight of ≥ 7% was 3% in the low-dose group, 7% in the high-dose group, and 1% in the placebo group.
+
+## 5.7 Hyperprolactinemia
+
+Like other drugs that antagonize dopamine D2 receptors, paliperidone elevates prolactin levels and the elevation persists during chronic administration.
+Paliperidone has a prolactin-elevating effect similar to that seen with risperidone, a drug that is associated with higher levels of prolactin than other antipsychotic drugs.
+Hyperprolactinemia, regardless of etiology, may suppress hypothalamic GnRH, resulting in reduced pituitary gonadotrophin secretion.
+This, in turn, may inhibit reproductive function by impairing gonadal steroidogenesis in both female and male patients.
+Galactorrhea, amenorrhea, gynecomastia, and impotence have been reported in patients receiving prolactin-elevating compounds.
+Long-standing hyperprolactinemia when associated with hypogonadism may lead to decreased bone density in both female and male subjects.
+Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is considered in a patient with previously detected breast cancer.
+An increase in the incidence of pituitary gland, mammary gland, and pancreatic islet cell neoplasia (mammary adenocarcinomas, pituitary and pancreatic adenomas) was observed in the risperidone carcinogenicity studies conducted in mice and rats [see Nonclinical Toxicology (13.1)].
+Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans, but the available evidence is too limited to be conclusive.
+
+## 5.8 Potential for Gastrointestinal Obstruction
+
+Because the paliperidone tablet is non-deformable and does not appreciably change in shape in the gastrointestinal tract, paliperidone should ordinarily not be administered to patients with pre­existing severe gastrointestinal narrowing (pathologic or iatrogenic, for example: esophageal motility disorders, small bowel inflammatory disease, “short gut” syndrome due to adhesions or decreased transit time, past history of peritonitis, cystic fibrosis, chronic intestinal pseudoobstruction, or Meckel’s diverticulum).
+There have been rare reports of obstructive symptoms in patients with known strictures in association with the ingestion of drugs in non-deformable controlled-release formulations.
+Because of the controlled-release design of the tablet, paliperidone should only be used in patients who are able to swallow the tablet whole [see Dosage and Administration (2.3) and Patient Counseling Information (17)].
+A decrease in transit time, e.g., as seen with diarrhea, would be expected to decrease bioavailability and an increase in transit time, e.g., as seen with gastrointestinal neuropathy, diabetic gastroparesis, or other causes, would be expected to increase bioavailability.
+These changes in bioavailability are more likely when the changes in transit time occur in the upper GI tract.
+
+## 5.9 Orthostatic Hypotension and Syncope
+
+Paliperidone can induce orthostatic hypotension and syncope in some patients because of its alpha-blocking activity.
+In pooled results of the three placebo-controlled, 6-week, fixed-dose trials in subjects with schizophrenia, syncope was reported in 0.8% (7/850) of subjects treated with paliperidone (3 mg, 6 mg, 9 mg, 12 mg) compared to 0.3% (1/355) of subjects treated with placebo.
+Paliperidone should be used with caution in patients with known cardiovascular disease (e.g., heart failure, history of myocardial infarction or ischemia, conduction abnormalities), cerebrovascular disease, or conditions that predispose the patient to hypotension (e.g., dehydration, hypovolemia, and treatment with antihypertensive medications).
+Monitoring of orthostatic vital signs should be considered in patients who are vulnerable to hypotension.
+
+## 5.10 Falls
+
+Somnolence, postural hypotension, motor and sensory instability have been reported with the use of antipsychotics, including paliperidone, which may lead to falls and, consequently, fractures or other fall-related injuries.
+For patients, particularly the elderly, with diseases, conditions, or medications that could exacerbate these effects, assess the risk of falls when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy.
+
+## 5.11 Leukopenia, Neutropenia, and Agranulocytosis
+
+Class Effect: In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including paliperidone.
+Agranulocytosis has also been reported.
+Possible risk factors for leukopenia/neutropenia include preexisting low white blood cell count (WBC) and history of drug-induced leukopenia/neutropenia.
+Patients with a history of a clinically significant low WBC or a drug-induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and discontinuation of paliperidone should be considered at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
+Patients with clinically significant neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
+Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue paliperidone
+
+and have their WBC followed until recovery.
+
+## 5.12 Potential for Cognitive and Motor Impairment
+
+Somnolence was reported in subjects treated with paliperidone
+
+[see Adverse Reactions (6.1, 6.2)].
+Antipsychotics, including paliperidone, have the potential to impair judgment, thinking, or motor skills.
+Patients should be cautioned about performing activities requiring mental alertness, such as operating hazardous machinery or operating a motor vehicle, until they are reasonably certain that paliperidone therapy does not adversely affect them.
+
+## 5.13 Seizures
+
+During premarketing clinical trials in subjects with schizophrenia (the three placebo-controlled, 6-week, fixed-dose studies and a study conducted in elderly schizophrenic subjects), seizures occurred in 0.22% of subjects treated with paliperidone (3 mg, 6 mg, 9 mg, 12 mg) and 0.25% of subjects treated with placebo.
+Like other antipsychotic drugs, paliperidone
+
+should be used cautiously in patients with a history of seizures or other conditions that potentially lower the seizure threshold.
+Conditions that lower the seizure threshold may be more prevalent in patients 65 years or older.
+
+## 5.14 Dysphagia
+
+Esophageal dysmotility and aspiration have been associated with antipsychotic drug use.
+Aspiration pneumonia is a common cause of morbidity and mortality in patients with advanced Alzheimer’s dementia.
+Paliperidone and other antipsychotic drugs should be used cautiously in patients at risk for aspiration pneumonia.
+
+## 5.15 Priapism
+
+Drugs with alpha-adrenergic blocking effects have been reported to induce priapism.
+Priapism has been reported with paliperidone during postmarketing surveillance.
+Severe priapism may require surgical intervention.
+
+## 5.16 Thrombotic Thrombocytopenic Purpura (TTP)
+
+No cases of TTP were observed during clinical studies with paliperidone.
+Although cases of TTP have been reported in association with risperidone administration, the relationship to risperidone therapy is unknown.
+
+## 5.17 Body Temperature Regulation
+
+Disruption of the body’s ability to reduce core body temperature has been attributed to antipsychotic agents.
+Appropriate care is advised when prescribing paliperidone to patients who will be experiencing conditions which may contribute to an elevation in core body temperature, e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration.
+
+## 5.18 Antiemetic Effect
+
+An antiemetic effect was observed in preclinical studies with paliperidone.
+This effect, if it occurs in humans, may mask the signs and symptoms of overdosage with certain drugs or of conditions such as intestinal obstruction, Reye’s syndrome, and brain tumor.
+
+## 5.19 Use in Patients with Concomitant Illness
+
+Clinical experience with paliperidone in patients with certain concomitant illnesses is limited [see Clinical Pharmacology (12.3)].
+Patients with Parkinson’s Disease or Dementia with Lewy Bodies are reported to have an increased sensitivity to antipsychotic medication.
+Manifestations of this increased sensitivity include confusion, obtundation, postural instability with frequent falls, extrapyramidal symptoms, and clinical features consistent with the neuroleptic malignant syndrome.
+Paliperidone has not been evaluated or used to any appreciable extent in patients with a recent history of myocardial infarction or unstable heart disease.
+Patients with these diagnoses were excluded from premarketing clinical trials.
+Because of the risk of orthostatic hypotension with paliperidone, caution should be observed in patients with known cardiovascular disease [see Warnings and Precautions (5.9)].

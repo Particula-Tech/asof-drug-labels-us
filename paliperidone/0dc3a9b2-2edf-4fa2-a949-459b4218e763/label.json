@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA205618"
+  ],
+  "inn": "paliperidone",
+  "labeler": "Sun Pharma Global FZE",
+  "package_ndcs": [
+    "47335-744-83",
+    "47335-744-88",
+    "47335-765-83",
+    "47335-765-88",
+    "47335-766-83",
+    "47335-766-88",
+    "47335-767-83",
+    "47335-767-88"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "paliperidone",
+      "name": "Paliperidone"
+    }
+  ],
+  "setid": "0dc3a9b2-2edf-4fa2-a949-459b4218e763",
+  "source": "dailymed"
+}
