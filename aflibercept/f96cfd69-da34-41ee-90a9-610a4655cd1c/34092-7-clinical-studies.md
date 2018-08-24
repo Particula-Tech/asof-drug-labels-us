@@ -4,12 +4,12 @@
 
 The safety and efficacy of EYLEA were assessed in two randomized, multi-center, double-masked, active-controlled studies in patients with wet AMD.
 A total of 2412 patients were treated and evaluable for efficacy (1817 with EYLEA) in the two studies (VIEW1 and VIEW2).
-In each study, patients were randomly assigned in a 1:1:1:1 ratio to 1 of 4 dosing regimens: 1) EYLEA administered 2 mg every 8 weeks following 3 initial monthly doses (EYLEA 2Q8); 2) EYLEA administered 2 mg every 4 weeks (EYLEA 2Q4); 3) EYLEA 0.5 mg administered every 4 weeks (EYLEA 0.5Q4); and 4) ranibizumab administered 0.5 mg every 4 weeks (ranibizumab 0.5 mg Q4).
+In each study, up to week 52, patients were randomly assigned in a 1:1:1:1 ratio to 1 of 4 dosing regimens: 1) EYLEA administered 2 mg every 8 weeks following 3 initial monthly doses (EYLEA 2Q8); 2) EYLEA administered 2 mg every 4 weeks (EYLEA 2Q4); 3) EYLEA 0.5 mg administered every 4 weeks (EYLEA 0.5Q4); and 4) ranibizumab administered 0.5 mg every 4 weeks (ranibizumab 0.5 mg Q4).
+Protocol-specified visits occurred every 28±3 days.
 Patient ages ranged from 49 to 99 years with a mean of 76 years.
 
 In both studies, the primary efficacy endpoint was the proportion of patients who maintained vision, defined as losing fewer than 15 letters of visual acuity at week 52 compared to baseline.
-Data are available through week 52.
-Both EYLEA 2Q8 and EYLEA 2Q4 groups were shown to have efficacy that was clinically equivalent to the ranibizumab 0.5 mg Q4 group.
+Both EYLEA 2Q8 and EYLEA 2Q4 groups were shown to have efficacy that was clinically equivalent to the ranibizumab 0.5 mg Q4 group in year 1.
 
 Detailed results from the analysis of the VIEW1 and VIEW2 studies are shown in Table 4 and Figure 8 below.
 
@@ -28,13 +28,22 @@ Table 4: Efficacy Outcomes at Week 52 (Full Analysis Set with LOCF) in VIEW1 and
 | Difference (%) (95.1% CI) | -0.4 (-7.7, 7.0) | 6.6 (-1.0, 14.1) |  | -2.6 (-10.2, 4.9) | -4.6 (-12.1, 2.9) |  |
 | BCVA = Best Corrected Visual Acuity; CI = Confidence Interval; ETDRS = Early Treatment Diabetic Retinopathy Study; LOCF = Last Observation Carried Forward (baseline values are not carried forward); 95.1% confidence intervals were presented to adjust for safety assessment conducted during the study. |  |  |  |  |  |  |
 
-Figure 8: Mean Change in Visual Acuity from Baseline to Week 52 in VIEW1 and VIEW2 Studies
+Treatment effects in evaluable subgroups (e.g., age, gender, race, baseline visual acuity) in each study were in general consistent with the results in the overall populations.
+
+| Figure 8: Mean Change in Visual Acuity from Baseline to Week 96Patient dosing schedules were individualized from weeks 52 to 96 using a modified 12-week dosing regimen. in VIEW1 and VIEW2 Studies |
+| --- |
+
+VIEW1 and VIEW2 studies were both 96 weeks in duration.
+However after 52 weeks patients no longer followed a fixed dosing schedule.
+Between week 52 and week 96, patients continued to receive the drug and dosage strength to which they were initially randomized on a modified 12 week dosing schedule (doses at least every 12 weeks and additional doses as needed).
+Therefore, during the second year of these studies there was no active control comparison arm.
 
 ## 14.2 Macular Edema Following Central Retinal Vein Occlusion (CRVO)
 
 The safety and efficacy of EYLEA were assessed in two randomized, multi-center, double-masked, sham-controlled studies in patients with macular edema following CRVO.
 A total of 358 patients were treated and evaluable for efficacy (217 with EYLEA) in the two studies (COPERNICUS and GALILEO).
 In both studies, patients were randomly assigned in a 3:2 ratio to either 2 mg EYLEA administered every 4 weeks (2Q4), or sham injections (control group) administered every 4 weeks for a total of 6 injections.
+Protocol-specified visits occurred every 28±7 days.
 Patient ages ranged from 22 to 89 years with a mean of 64 years.
 
 In both studies, the primary efficacy endpoint was the proportion of patients who gained at least 15 letters in BCVA compared to baseline.
@@ -50,9 +59,9 @@ Table 5: Efficacy Outcomes at Week 24 (Full Analysis Set with LOCF) in COPERNICU
 |  | Control | EYLEA 2 mg Q4 weeks | Control | EYLEA 2 mg Q4 weeks |
 | Efficacy Outcomes |  |  |  |  |
 | Proportion of patients who gained at least 15 letters in BCVA from Baseline (%) | 12% | 56% | 22% | 60% |
-| Weighted Difference Difference is EYLEA 2 mg Q4 weeks minus Control,Difference and CI are calculated using Cochran-Mantel-Haenszel (CMH) test adjusted for baseline factors; 95.1% confidence intervals were presented to adjust for the multiple assessments conducted during the study. (%) (95.1% CI) |  | 44.8%p<0.01 compared with Control (32.9, 56.6) |  | 38.3% (24.4, 52.1) |
+| Weighted Difference Difference is EYLEA 2 mg Q4 weeks minus Control, Difference and CI are calculated using Cochran-Mantel-Haenszel (CMH) test adjusted for baseline factors; 95.1% confidence intervals were presented to adjust for the multiple assessments conducted during the study. (%) (95.1% CI) |  | 44.8%p<0.01 compared with Control (32.9, 56.6) |  | 38.3% (24.4, 52.1) |
 | Mean change in BCVA as measured by ETDRS letter score from Baseline (SD) | -4.0 (18.0) | 17.3 (12.8) | 3.3 (14.1) | 18.0 (12.2) |
-| Difference in LS mean,LS mean and CI based on an ANCOVA model (95.1% CI) |  | 21.7 (17.3, 26.1) |  | 14.7 (10.7, 18.7) |
+| Difference in LS mean, LS mean and CI based on an ANCOVA model (95.1% CI) |  | 21.7 (17.3, 26.1) |  | 14.7 (10.7, 18.7) |
 
 Figure 9: Mean Change in BCVA as Measured by ETDRS Letter Score from Baseline to Week 24 in COPERNICUS and GALILEO Studies
 
@@ -63,6 +72,7 @@ Treatment effects in evaluable subgroups (e.g., age, gender, race, baseline visu
 The safety and efficacy of EYLEA were assessed in a 24-week, randomized, multi-center, double-masked, controlled study in patients with macular edema following BRVO.
 A total of 181 patients were treated and evaluable for efficacy (91 with EYLEA) in the VIBRANT study.
 In the study, patients were randomly assigned in a 1:1 ratio to either 2 mg EYLEA administered every 4 weeks (2Q4) or laser photocoagulation administered at baseline and subsequently as needed (control group).
+Protocol-specified visits occurred every 28±7 days.
 Patient ages ranged from 42 to 94 years with a mean of 65 years.
 
 In the VIBRANT study, the primary efficacy endpoint was the proportion of patients who gained at least 15 letters in BCVA at week 24 compared to baseline.
@@ -78,9 +88,9 @@ Table 6: Efficacy Outcomes at Week 24 (Full Analysis Set with LOCF) in VIBRANT S
 |  | Control | EYLEA 2 mg Q4 weeks |
 | Efficacy Outcomes |  |  |
 | Proportion of patients who gained at least 15 letters in BCVA from Baseline (%) | 26.7% | 52.7% |
-| Weighted Difference Difference is EYLEA 2 mg Q4 weeks minus Control,Difference and CI are calculated using Mantel-Haenszel weighting scheme adjusted for region (North America vs. Japan) and baseline BCVA category (> 20/200 and ≤ 20/200) (%) (95% CI) |  | 26.6%p<0.01 compared with Control (13.0, 40.1) |
+| Weighted Difference Difference is EYLEA 2 mg Q4 weeks minus Control, Difference and CI are calculated using Mantel-Haenszel weighting scheme adjusted for region (North America vs. Japan) and baseline BCVA category (> 20/200 and ≤ 20/200) (%) (95% CI) |  | 26.6%p<0.01 compared with Control (13.0, 40.1) |
 | Mean change in BCVA as measured by ETDRS letter score from Baseline (SD) | 6.9 (12.9) | 17.0 (11.9) |
-| Difference in LS mean,LS mean and CI based on an ANCOVA model (95% CI) |  | 10.5 (7.1, 14.0) |
+| Difference in LS mean, LS mean and CI based on an ANCOVA model (95% CI) |  | 10.5 (7.1, 14.0) |
 
 Figure 10: Mean Change in BCVA as Measured by ETDRS Letter Score from Baseline to Week 24 in VIBRANT Study
 
@@ -90,6 +100,7 @@ Treatment effects in evaluable subgroups (e.g., age, gender, and baseline retina
 
 The safety and efficacy of EYLEA were assessed in two randomized, multi-center, double-masked, controlled studies in patients with DME.
 A total of 862 randomized and treated patients were evaluable for efficacy.
+Protocol-specified visits occurred every 28±7 days.
 Patient ages ranged from 23 to 87 years with a mean of 63 years.
 
 Of those, 576 were randomized to EYLEA groups in the two studies (VIVID and VISTA).

@@ -14,7 +14,7 @@ Aflibercept acts as a soluble decoy receptor that binds VEGF-A and PlGF, and the
 Neovascular (Wet) Age-Related Macular Degeneration (AMD)
 
 In the clinical studies anatomic measures of disease activity improved similarly in all treatment groups from baseline to week 52.
-Anatomic data were not used to influence treatment decisions [see Clinical Studies (14.1)].
+Anatomic data were not used to influence treatment decisions during the first year.
 
 Macular Edema Following Retinal Vein Occlusion (RVO)
 

@@ -5,26 +5,36 @@
 For ophthalmic intravitreal injection.
 EYLEA must only be administered by a qualified physician.
 
+A 5-micron sterile filter needle (19-gauge × 1½-inch), a 1-mL Luer lock syringe and a 30-gauge × ½-inch sterile injection needle are needed.
+
+EYLEA is available packaged as follows:
+
+- Vial Kit with Injection Components (filter needle, syringe, injection needle)
+
+[see How Supplied (16)].
+
 ## 2.2 Neovascular (Wet) Age-Related Macular Degeneration (AMD)
 
-The recommended dose for EYLEA is 2 mg (0.05 mL or 50 microliters) administered by intravitreal injection every 4 weeks (monthly) for the first 12 weeks (3 months), followed by 2 mg (0.05 mL) via intravitreal injection once every 8 weeks (2 months).
-Although EYLEA may be dosed as frequently as 2 mg every 4 weeks (monthly), additional efficacy was not demonstrated in most patients when EYLEA was dosed every 4 weeks compared to every 8 weeks [see Clinical Studies (14.1)].
+The recommended dose for EYLEA is 2 mg (0.05 mL or 50 microliters) administered by intravitreal injection every 4 weeks (approximately every 28 days, monthly) for the first 12 weeks (3 months), followed by 2 mg (0.05 mL) via intravitreal injection once every 8 weeks (2 months).
+Although EYLEA may be dosed as frequently as 2 mg every 4 weeks (approximately every 25 days, monthly), additional efficacy was not demonstrated in most patients when EYLEA was dosed every 4 weeks compared to every 8 weeks [see Clinical Studies (14.1)].
 Some patients may need every 4 week (monthly) dosing after the first 12 weeks (3 months).
+Although not as effective as the recommended every 8 week dosing regimen, patients may also be treated with one dose every 12 weeks after one year of effective therapy.
+Patients should be assessed regularly.
 
 ## 2.3 Macular Edema Following Retinal Vein Occlusion (RVO)
 
-The recommended dose for EYLEA is 2 mg (0.05 mL or 50 microliters) administered by intravitreal injection once every 4 weeks (monthly) [see Clinical Studies (14.2), (14.3)].
+The recommended dose for EYLEA is 2 mg (0.05 mL or 50 microliters) administered by intravitreal injection once every 4 weeks (approximately every 25 days, monthly) [see Clinical Studies (14.2), (14.3)].
 
 ## 2.4 Diabetic Macular Edema (DME)
 
-The recommended dose for EYLEA is 2 mg (0.05 mL or 50 microliters) administered by intravitreal injection every 4 weeks (monthly) for the first 5 injections, followed by 2 mg (0.05 mL) via intravitreal injection once every 8 weeks (2 months).
-Although EYLEA may be dosed as frequently as 2 mg every 4 weeks (monthly), additional efficacy was not demonstrated in most patients when EYLEA was dosed every 4 weeks compared to every 8 weeks [see Clinical Studies (14.4)].
+The recommended dose for EYLEA is 2 mg (0.05 mL or 50 microliters) administered by intravitreal injection every 4 weeks (approximately every 28 days, monthly) for the first 5 injections, followed by 2 mg (0.05 mL) via intravitreal injection once every 8 weeks (2 months).
+Although EYLEA may be dosed as frequently as 2 mg every 4 weeks (approximately every 25 days, monthly), additional efficacy was not demonstrated in most patients when EYLEA was dosed every 4 weeks compared to every 8 weeks [see Clinical Studies (14.4)].
 Some patients may need every 4 week (monthly) dosing after the first 20 weeks (5 months).
 
 ## 2.5 Diabetic Retinopathy (DR) in Patients with DME
 
-The recommended dose for EYLEA is 2 mg (0.05 mL or 50 microliters) administered by intravitreal injection every 4 weeks (monthly) for the first 5 injections, followed by 2 mg (0.05 mL) via intravitreal injection once every 8 weeks (2 months).
-Although EYLEA may be dosed as frequently as 2 mg every 4 weeks (monthly), additional efficacy was not demonstrated in most patients when EYLEA was dosed every 4 weeks compared to every 8 weeks [see Clinical Studies (14.5)].
+The recommended dose for EYLEA is 2 mg (0.05 mL or 50 microliters) administered by intravitreal injection every 4 weeks (approximately every 28 days, monthly) for the first 5 injections, followed by 2 mg (0.05 mL) via intravitreal injection once every 8 weeks (2 months).
+Although EYLEA may be dosed as frequently as 2 mg every 4 weeks (approximately every 25 days, monthly), additional efficacy was not demonstrated in most patients when EYLEA was dosed every 4 weeks compared to every 8 weeks [see Clinical Studies (14.5)].
 Some patients may need every 4 week (monthly) dosing after the first 20 weeks (5 months).
 
 ## 2.6 Preparation for Administration
@@ -32,15 +42,25 @@ Some patients may need every 4 week (monthly) dosing after the first 20 weeks (5
 EYLEA should be inspected visually prior to administration.
 If particulates, cloudiness, or discoloration are visible, the vial must not be used.
 
-Using aseptic technique, the intravitreal injection should be performed with a 30-gauge × ½-inch injection needle.
-
-Vial
-
 The glass vial is for single use only.
+
+EYLEA is available packaged as follows:
+
+- Vial Kit with Injection Components (filter needle, syringe, injection needle)
+
+[see How Supplied (16)].
+
+Use aseptic technique to carry out the following preparation steps:
+
+Prepare for intravitreal injection with the following medical devices for single use:
+
+- a 5-micron sterile filter needle (19-gauge × 1½-inch)
+- a 1-mL sterile Luer lock syringe (with marking to measure 0.05 mL)
+- a sterile injection needle (30-gauge × ½-inch)
 
 1. Remove the protective plastic cap from the vial (see Figure 1).
 2. Clean the top of the vial with an alcohol wipe (see Figure 2).
-3. Remove the 19-gauge × 1½-inch, 5-micron, filter needle from its pouch and remove the 1-mL syringe supplied in the carton from its pouch.
+3. Remove the 19-gauge × 1½-inch, 5-micron, filter needle and the 1-mL syringe from their packaging.
    Attach the filter needle to the syringe by twisting it onto the Luer lock syringe tip (see Figure 3).
 4. Push the filter needle into the center of the vial stopper until the needle is completely inserted into the vial and the tip touches the bottom or bottom edge of the vial.
 5. Using aseptic technique withdraw all of the EYLEA vial contents into the syringe, keeping the vial in an upright position, slightly inclined to ease complete withdrawal.
@@ -49,7 +69,7 @@ The glass vial is for single use only.
 6. Ensure that the plunger rod is drawn sufficiently back when emptying the vial in order to completely empty the filter needle.
 7. Remove the filter needle from the syringe and properly dispose of the filter needle.
    Note: Filter needle is not to be used for intravitreal injection.
-8. Remove the 30-gauge × ½-inch injection needle from the plastic pouch and attach the injection needle to the syringe by firmly twisting the injection needle onto the Luer lock syringe tip (see Figure 5).
+8. Remove the 30-gauge × ½-inch injection needle from its packaging and attach the injection needle to the syringe by firmly twisting the injection needle onto the Luer lock syringe tip (see Figure 5).
 9. When ready to administer EYLEA, remove the plastic needle shield from the needle.
 10. Holding the syringe with the needle pointing up, check the syringe for bubbles.
     If there are bubbles, gently tap the syringe with your finger until the bubbles rise to the top (see Figure 6).

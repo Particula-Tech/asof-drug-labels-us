@@ -14,36 +14,40 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 A total of 2711 patients treated with EYLEA constituted the safety population in seven phase 3 studies.
 Among those, 2110 patients were treated with the recommended dose of 2 mg.
 Serious adverse reactions related to the injection procedure have occurred in <0.1% of intravitreal injections with EYLEA including endophthalmitis and retinal detachment.
-The most common adverse reactions (≥5%) reported in patients receiving EYLEA were conjunctival hemorrhage, eye pain, cataract, vitreous floaters, intraocular pressure increased, and vitreous detachment.
+The most common adverse reactions (≥5%) reported in patients receiving EYLEA were conjunctival hemorrhage, eye pain, cataract, vitreous detachment, vitreous floaters, and intraocular pressure increased.
 
 Neovascular (Wet) Age-Related Macular Degeneration (AMD)
 
-The data described below reflect exposure to EYLEA in 1824 patients with wet AMD, including 1223 patients treated with the 2-mg dose, in 2 double-masked, active-controlled clinical studies (VIEW1 and VIEW2) for 12 months [see Clinical Studies (14.1)].
+The data described below reflect exposure to EYLEA in 1824 patients with wet AMD, including 1223 patients treated with the 2-mg dose, in 2 double-masked, controlled clinical studies (VIEW1 and VIEW2) for 24 months (with active control in year 1) [see Clinical Studies (14.1)].
+
+Safety data observed in the EYLEA group in a 52-week, double-masked, Phase 2 study were consistent with these results.
 
 Table 1: Most Common Adverse Reactions (≥1%) in Wet AMD Studies
 
-| Adverse Reactions | EYLEA (N=1824) | Active Control (ranibizumab) (N=595) |
-| --- | --- | --- |
-| Conjunctival hemorrhage | 25% | 28% |
-| Eye pain | 9% | 9% |
-| Cataract | 7% | 7% |
-| Vitreous detachment | 6% | 6% |
-| Vitreous floaters | 6% | 7% |
-| Intraocular pressure increased | 5% | 7% |
-| Ocular hyperemia | 4% | 8% |
-| Corneal epithelium defect | 4% | 5% |
-| Detachment of the retinal pigment epithelium | 3% | 3% |
-| Injection site pain | 3% | 3% |
-| Foreign body sensation in eyes | 3% | 4% |
-| Lacrimation increased | 3% | 1% |
-| Vision blurred | 2% | 2% |
-| Intraocular inflammation | 2% | 3% |
-| Retinal pigment epithelium tear | 2% | 1% |
-| Injection site hemorrhage | 1% | 2% |
-| Eyelid edema | 1% | 2% |
-| Corneal edema | 1% | 1% |
+| EYLEA (N=1824) | Active Control (ranibizumab) (N=595) | EYLEA (N=1824) | Control (ranibizumab) (N=595) |  |
+| --- | --- | --- | --- | --- |
+| Adverse Reactions | Baseline to Week 52 |  | Baseline to Week 96 |  |
+| Conjunctival hemorrhage | 25% | 28% | 27% | 30% |
+| Eye pain | 9% | 9% | 10% | 10% |
+| Cataract | 7% | 7% | 13% | 10% |
+| Vitreous detachment | 6% | 6% | 8% | 8% |
+| Vitreous floaters | 6% | 7% | 8% | 10% |
+| Intraocular pressure increased | 5% | 7% | 7% | 11% |
+| Ocular hyperemia | 4% | 8% | 5% | 10% |
+| Corneal epithelium defect | 4% | 5% | 5% | 6% |
+| Detachment of the retinal pigment epithelium | 3% | 3% | 5% | 5% |
+| Injection site pain | 3% | 3% | 3% | 4% |
+| Foreign body sensation in eyes | 3% | 4% | 4% | 4% |
+| Lacrimation increased | 3% | 1% | 4% | 2% |
+| Vision blurred | 2% | 2% | 4% | 3% |
+| Intraocular inflammation | 2% | 3% | 3% | 4% |
+| Retinal pigment epithelium tear | 2% | 1% | 2% | 2% |
+| Injection site hemorrhage | 1% | 2% | 2% | 2% |
+| Eyelid edema | 1% | 2% | 2% | 3% |
+| Corneal edema | 1% | 1% | 1% | 1% |
+| Retinal detachment | <1% | <1% | 1% | 1% |
 
-Less common serious adverse reactions reported in <1% of the patients treated with EYLEA were hypersensitivity, retinal detachment, retinal tear, and endophthalmitis.
+Less common serious adverse reactions reported in <1% of the patients treated with EYLEA were hypersensitivity, retinal tear, and endophthalmitis.
 
 Macular Edema Following Retinal Vein Occlusion (RVO)
 
