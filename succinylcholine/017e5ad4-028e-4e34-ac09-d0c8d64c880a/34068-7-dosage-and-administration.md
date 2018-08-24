@@ -5,21 +5,32 @@ The dosage of succinylcholine should be individualized and should always be dete
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
 Solutions which are not clear and colorless should not be used.
 
-Adults:
+Risk of Medication Errors
 
-For Short Surgical Procedures: The average dose required to produce neuromuscular blockade and to facilitate tracheal intubation is 0.6 mg/kg Succinylcholine Chloride Injection given intravenously.
+Accidental administration of neuromuscular blocking agents may be fatal.
+Store Succinylcholine Chloride Injection with the cap and ferrule intact and in a manner that minimizes the possibility of selecting the wrong product.
+
+Adults
+
+For Short Surgical Procedures
+
+The average dose required to produce neuromuscular blockade and to facilitate tracheal intubation is 0.6 mg/kg Succinylcholine Chloride Injection given intravenously.
 The optimum dose will vary among individuals and may be from 0.3 to 1.1 mg/kg for adults.
 Following administration of doses in this range, neuromuscular blockade develops in about 1 minute; maximum blockade may persist for about 2 minutes, after which recovery takes place within 4 to 6 minutes.
 However, very large doses may result in more prolonged blockade.
 A 5 to 10 mg test dose may be used to determine the sensitivity of the patient and the individual recovery time (see PRECAUTIONS).
 
-For Long Surgical Procedures: The dose of succinylcholine administered by infusion depends upon the duration of the surgical procedure and the need for muscle relaxation.
+For Long Surgical Procedures
+
+The dose of succinylcholine administered by infusion depends upon the duration of the surgical procedure and the need for muscle relaxation.
 The average rate for an adult ranges between 2.5 and 4.3 mg per minute.
 
 Intermittent intravenous injections of succinylcholine may also be used to provide muscle relaxation for long procedures.
 An intravenous injection of 0.3 to 1.1 mg/kg may be given initially, followed, at appropriate intervals, by further injections of 0.04 to 0.07 mg/kg to maintain the degree of relaxation required.
 
-Pediatrics: For emergency tracheal intubation or in instances where immediate securing of the airway is necessary, the intravenous dose of succinylcholine is 2 mg/kg for infants and small pediatric patients; for older pediatric patients and adolescents the dose is 1 mg/kg (see BOX WARNING and PRECAUTIONS: Pediatric Use).
+Pediatrics
+
+For emergency tracheal intubation or in instances where immediate securing of the airway is necessary, the intravenous dose of succinylcholine is 2 mg/kg for infants and small pediatric patients; for older pediatric patients and adolescents the dose is 1 mg/kg (see BOX WARNING and PRECAUTIONS: Pediatric Use).
 It is currently known that the effective dose of succinylcholine in pediatric patients may be higher than that predicted by body weight dosing alone.
 For example, the usual adult intravenous dose of 0.6 mg/kg is comparable to a dose of 2-3 mg/kg in neonates and infants to 6 months and 1-2 mg/kg in infants up to 2 years of age.
 This is thought to be due to the relatively large volume of distribution in the pediatric patient versus the adult patient.
@@ -32,7 +43,9 @@ As in adults, the incidence of bradycardia in pediatric patients is higher follo
 Whereas bradycardia is common in pediatric patients after an initial dose of 1.5 mg/kg, bradycardia is seen in adults only after repeated exposure.
 The occurrence of bradyarrhythmias may be reduced by pretreatment with atropine (see PRECAUTIONS: Pediatric Use).
 
-Intramuscular Use: If necessary, succinylcholine may be given intramuscularly to infants, older pediatric patients or adults when a suitable vein is inaccessible.
+Intramuscular Use
+
+If necessary, succinylcholine may be given intramuscularly to infants, older pediatric patients or adults when a suitable vein is inaccessible.
 A dose of up to 3 to 4 mg/kg may be given, but not more than 150 mg total dose should be administered by this route.
 The onset of effect of succinylcholine given intramuscularly is usually observed in about 2 to 3 minutes.
 

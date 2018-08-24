@@ -1,8 +1,8 @@
 # DESCRIPTION
 
-Succinylcholine Chloride Injection, USP is a sterile, nonpyrogenic solution to be used as a short-acting, depolarizing, skeletal muscle relaxant.
+Succinylcholine Chloride Injection, USP is a sterile, nonpyrogenic solution to be used as an ultra short-acting, depolarizing, skeletal muscle relaxant.
 See HOW SUPPLIED for summary of content and characteristics of the solutions.
-The solutions are for intramuscular or intravenous use.
+The solutions are for intramuscular (IM) or intravenous (IV) use.
 
 Succinylcholine Chloride, USP is chemically designated C14H30Cl2N2O4 and its molecular weight is 361.31.
 
