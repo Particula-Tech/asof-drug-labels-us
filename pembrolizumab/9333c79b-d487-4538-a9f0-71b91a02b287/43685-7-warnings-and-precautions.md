@@ -94,6 +94,11 @@ The median time to onset was 5.1 months (range: 12 days to 12.8 months), and the
 Eight (89%) of the 9 patients received systemic corticosteroids, with 7 of the 8 receiving high-dose corticosteroids for a median duration of 15 days (range: 3 days to 4.0 months) followed by a corticosteroid taper.
 Nephritis led to discontinuation of KEYTRUDA in 3 (0.1%) patients.
 Nephritis resolved in 5 (56%) of the 9 patients.
+Nephritis occurred in 1.7% of 405 patients receiving KEYTRUDA in combination with pemetrexed and platinum in the KEYNOTE-189 study, including Grade 3 (1%) and Grade 4 (0.5%) nephritis.
+The median time to onset was 3.2 months (range: 16 days to 11.1 months) and the duration ranged from 1.6 to 16.8+ months.
+Six (86%) of the 7 patients received systemic corticosteroids, with all 6 receiving high-dose corticosteroids for a median duration of 3 days (range: 1 to 17 days) followed by a corticosteroid taper.
+Nephritis led to discontinuation of KEYTRUDA in 5 (1.2%) patients.
+Nephritis resolved in 2 (29%) of the 7 patients.
 
 ## 5.6 Immune-Mediated Skin Adverse Reactions
 
@@ -116,7 +121,7 @@ Based on limited data from clinical studies in patients whose immune-related adv
 Resume KEYTRUDA when the immune-mediated adverse reaction remains at Grade 1 or less following corticosteroid taper.
 Permanently discontinue KEYTRUDA for any Grade 3 immune-mediated adverse reaction that recurs and for any life-threatening immune-mediated adverse reaction [see Dosage and Administration (2.11) and Adverse Reactions (6.1)].
 
-The following clinically significant, immune-mediated adverse reactions occurred in less than 1% (unless otherwise indicated) of 2799 patients treated with KEYTRUDA: arthritis (1.5%), uveitis, myositis, Guillain-Barré syndrome, myasthenia gravis, vasculitis, pancreatitis, hemolytic anemia, sarcoidosis and encephalitis.
+The following clinically significant, immune-mediated adverse reactions occurred in less than 1% (unless otherwise indicated) of 2799 patients treated with KEYTRUDA: arthritis (1.5%), uveitis, myositis, Guillain-Barré syndrome, myasthenia gravis, vasculitis, pancreatitis, hemolytic anemia, sarcoidosis, and encephalitis.
 In addition, myelitis and myocarditis were reported in other clinical trials, including cHL, and post-marketing use.
 
 Solid organ transplant rejection has been reported in the post-marketing setting in patients treated with KEYTRUDA.

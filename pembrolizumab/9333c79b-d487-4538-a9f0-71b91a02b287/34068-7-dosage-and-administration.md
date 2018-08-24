@@ -1,15 +1,16 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Patient Selection for Treatment of NSCLC, Gastric Cancer, or Cervical Cancer
+## 2.1 Patient Selection for Treatment of NSCLC, Urothelial Carcinoma, Gastric Cancer, or Cervical Cancer
 
 Select patients for treatment with KEYTRUDA as a single agent based on the presence of positive PD-L1 expression in:
 
 - metastatic NSCLC [see Clinical Studies (14.2)].
+- metastatic urothelial carcinoma [see Clinical Studies (14.6)].
 - metastatic gastric cancer [see Clinical Studies (14.8)].
   If PD-L1 expression is not detected in an archival gastric cancer specimen, evaluate the feasibility of obtaining a tumor biopsy for PD-L1 testing.
-- recurrent or metastatic cervical cancer [see Clinical Studies (14.9)]
+- recurrent or metastatic cervical cancer [see Clinical Studies (14.9)].
 
-Information on FDA-approved tests for the detection of PD-L1 expression in NSCLC, gastric cancer, or cervical cancer is available at: http://www.fda.gov/CompanionDiagnostics.
+Information on FDA-approved tests for the detection of PD-L1 expression in NSCLC, urothelial carcinoma, gastric cancer, or cervical cancer is available at: http://www.fda.gov/CompanionDiagnostics.
 
 ## 2.2 Recommended Dosage for Melanoma
 
@@ -20,7 +21,7 @@ The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusi
 The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression [see Clinical Studies (14.2)].
 
 When administering KEYTRUDA in combination with chemotherapy, KEYTRUDA should be administered prior to chemotherapy when given on the same day [see Clinical Studies (14.2)].
-See also the Prescribing Information for pemetrexed and carboplatin.
+See also the Prescribing Information for pemetrexed and carboplatin or cisplatin, as appropriate.
 
 ## 2.4 Recommended Dosage for HNSCC
 

@@ -5,14 +5,14 @@
 Ipilimumab-Naive Melanoma
 
 The safety and efficacy of KEYTRUDA were evaluated in Study KEYNOTE-006 (NCT01866319), a randomized (1:1:1), open-label, multicenter, active-controlled trial.
-Patients were randomized to receive KEYTRUDA at a dose of 10 mg/kg every 2 weeks or 10mg/kg every 3 weeks as an intravenous infusion until disease progression or unacceptable toxicity or to ipilimumab 3 mg/kg every 3 weeks as an intravenous infusion for 4 doses unless discontinued earlier for disease progression or unacceptable toxicity.
+Patients were randomized to receive KEYTRUDA at a dose of 10 mg/kg every 2 weeks or 10 mg/kg every 3 weeks as an intravenous infusion until disease progression or unacceptable toxicity or to ipilimumab 3 mg/kg every 3 weeks as an intravenous infusion for 4 doses unless discontinued earlier for disease progression or unacceptable toxicity.
 Patients with disease progression could receive additional doses of treatment unless disease progression was symptomatic, was rapidly progressive, required urgent intervention, occurred with a decline in performance status, or was confirmed at 4 to 6 weeks with repeat imaging.
 Randomization was stratified by line of therapy (0 vs. 1), ECOG PS (0 vs. 1), and PD-L1 expression (≥1% of tumor cells [positive] vs. <1% of tumor cells [negative]) according to an investigational use only (IUO) assay.
 Key eligibility criteria were unresectable or metastatic melanoma; no prior ipilimumab; and no more than one prior systemic treatment for metastatic melanoma.
 Patients with BRAF V600E mutation-positive melanoma were not required to have received prior BRAF inhibitor therapy.
 Patients with autoimmune disease; a medical condition that required immunosuppression; previous severe hypersensitivity to other monoclonal antibodies; and HIV, hepatitis B or hepatitis C infection, were ineligible.
 Assessment of tumor status was performed at 12 weeks, then every 6 weeks through Week 48, followed by every 12 weeks thereafter.
-The major efficacy outcome measures were overall survival (OS) and progression-free survival (PFS; as assessed by blinded independent central review (BICR) using Response Evaluation Criteria in Solid Tumors [RECIST v1.1]).
+The major efficacy outcome measures were overall survival (OS) and progression-free survival (PFS; as assessed by blinded independent central review (BICR) using Response Evaluation Criteria in Solid Tumors [RECIST v1.1, modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ]).
 Additional efficacy outcome measures were overall response rate (ORR) and response duration.
 
 A total of 834 patients were randomized: 277 patients to the KEYTRUDA 10 mg/kg every 3 weeks arm, 279 to the KEYTRUDA 10 mg/kg every 2 weeks arm, and 278 to the ipilimumab arm.
@@ -42,9 +42,6 @@ Table 18: Efficacy Results in KEYNOTE-006
 Among the 91 patients randomized to KEYTRUDA 10 mg/kg every 3 weeks with an objective response, response durations ranged from 1.4+ to 8.1+ months.
 Among the 94 patients randomized to KEYTRUDA 10 mg/kg every 2 weeks with an objective response, response durations ranged from 1.4+ to 8.2 months.
 
-| Figure 1: Kaplan-Meier Curve for Overall Survival in KEYNOTE-006based on the final analysis with an additional follow-up of 9 months (total of 383 deaths as pre-specified in the protocol) |
-| --- |
-
 Ipilimumab-Refractory Melanoma
 
 The safety and efficacy of KEYTRUDA were evaluated in Study KEYNOTE-002 (NCT01704287), a multicenter, randomized (1:1:1), active-controlled trial.
@@ -56,8 +53,8 @@ The trial excluded patients with uveal melanoma and active brain metastasis.
 Patients received KEYTRUDA until unacceptable toxicity; disease progression that was symptomatic, was rapidly progressive, required urgent intervention, occurred with a decline in performance status, or was confirmed at 4 to 6 weeks with repeat imaging; withdrawal of consent; or physician's decision to stop therapy for the patient.
 Assessment of tumor status was performed at 12 weeks after randomization, then every 6 weeks through week 48, followed by every 12 weeks thereafter.
 Patients on chemotherapy who experienced progression of disease were offered KEYTRUDA.
-The major efficacy outcomes were progression-free survival (PFS) as assessed by BICR per RECIST v1.1 and overall survival (OS).
-Additional efficacy outcome measures were confirmed overall response rate (ORR) as assessed by BICR per RECIST v1.1 and duration of response.
+The major efficacy outcomes were progression-free survival (PFS) as assessed by BICR per RECIST v1.1, modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ, and overall survival (OS).
+Additional efficacy outcome measures were confirmed overall response rate (ORR) as assessed by BICR per RECIST v1.1, modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ, and duration of response.
 
 The treatment arms consisted of KEYTRUDA 2 mg/kg (n=180) or 10 mg/kg (n=181) every 3 weeks or investigator's choice chemotherapy (n=179).
 Among the 540 randomized patients, the median age was 62 years (range: 15 to 89 years), with 43% age 65 or older; 61% male; 98% White; and ECOG performance score was 0 (55%) and 1 (45%).
@@ -88,13 +85,62 @@ Table 19: Efficacy Results in KEYNOTE-002
 | Complete response rate | 2% | 3% | 0% |
 | Partial response rate | 19% | 23% | 4% |
 
-| Figure 2: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-002 |
-| --- |
-
 Among the 38 patients randomized to KEYTRUDA 2 mg/kg with an objective response, response durations ranged from 1.3+ to 11.5+ months.
 Among the 46 patients randomized to KEYTRUDA 10 mg/kg with an objective response, response durations ranged from 1.1+ to 11.1+ months.
 
 ## 14.2 Non-Small Cell Lung Cancer
+
+First-line treatment of metastatic nonsquamous NSCLC with pemetrexed and platinum chemotherapy
+
+The efficacy of KEYTRUDA in combination with pemetrexed and platinum chemotherapy was investigated in Study KEYNOTE-189 (NCT02578680), a randomized, multicenter, double-blind, active-controlled trial conducted in patients with metastatic nonsquamous NSCLC, regardless of PD-L1 tumor expression status, who had not previously received systemic therapy for metastatic disease and in whom there were no EGFR or ALK genomic tumor aberrations.
+Patients with autoimmune disease that required systemic therapy within 2 years of treatment; a medical condition that required immunosuppression; or who had received more than 30 Gy of thoracic radiation within the prior 26 weeks were ineligible.
+Randomization was stratified by smoking status (never vs. former/current), choice of platinum (cisplatin vs. carboplatin), and tumor PD-L1 status (TPS <1% [negative] vs. TPS ≥1%).
+Patients were randomized (2:1) to one of the following treatment arms:
+
+- KEYTRUDA 200 mg, pemetrexed 500 mg/m2, and investigator's choice of cisplatin 75 mg/m2 or carboplatin AUC 5 mg/mL/min intravenously on Day 1 of each 21-day cycle for 4 cycles followed by KEYTRUDA 200 mg and pemetrexed 500 mg/m2 intravenously every 3 weeks.
+  KEYTRUDA was administered prior to chemotherapy on Day 1.
+- Placebo, pemetrexed 500 mg/m2, and investigator's choice of cisplatin 75 mg/m2 or carboplatin AUC 5 mg/mL/min intravenously on Day 1 of each 21-day cycle for 4 cycles followed by placebo and pemetrexed 500 mg/m2 intravenously every 3 weeks.
+
+Treatment with KEYTRUDA continued until RECIST v1.1 (modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ)-defined progression of disease as determined by the investigator, unacceptable toxicity, or a maximum of 24 months.
+Administration of KEYTRUDA was permitted beyond RECIST-defined disease progression if the patient was clinically stable and considered to be deriving clinical benefit by the investigator.
+
+Patients randomized to placebo and chemotherapy were offered KEYTRUDA as a single agent at the time of disease progression.
+
+Assessment of tumor status was performed at Week 6, Week 12, and then every 9 weeks thereafter.
+The main efficacy outcome measures were OS and PFS as assessed by BICR according to RECIST v1.1, modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ.
+Additional efficacy outcome measures were ORR and duration of response, as assessed by the BICR according to RECIST v1.1, modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ.
+
+A total of 616 patients were randomized: 410 patients to the KEYTRUDA and chemotherapy arm and 206 to the placebo and chemotherapy arm.
+The study population characteristics were: median age of 64 years (range: 34 to 84); 49% age 65 or older; 59% male; 94% White and 3% Asian; 56% ECOG performance status of 1; and 18% with history of brain metastases.
+Thirty-one percent had tumor PD-L1 expression TPS <1% [negative].
+Seventy-two percent received carboplatin and 12% were never smokers.
+A total of 85 patients in the placebo and chemotherapy arm received an anti-PD-1/PD-L1 monoclonal antibody at the time of disease progression.
+
+The trial demonstrated a statistically significant improvement in OS and PFS for patients randomized to KEYTRUDA in combination with pemetrexed and platinum chemotherapy compared with placebo, pemetrexed, and platinum chemotherapy.
+Table 20 and Figure 3 summarize the key efficacy measures for KEYNOTE-189.
+
+Table 20: Efficacy Results in KEYNOTE-189
+
+| Endpoint | KEYTRUDA Pemetrexed Platinum Chemotherapy n=410 | Placebo Pemetrexed Platinum Chemotherapy n=206 |
+| --- | --- | --- |
+| OS |  |  |
+| Number (%) of patients with event | 127 (31%) | 108 (52%) |
+| Median in months (95% CI) | NR (NR, NR) | 11.3 (8.7, 15.1) |
+| Hazard ratioBased on the stratified Cox proportional hazard model (95% CI) | 0.49 (0.38, 0.64) |  |
+| p-ValueBased on stratified log-rank test. | <0.00001 |  |
+| PFS |  |  |
+| Number of patients with event (%) | 244 (60%) | 166 (81%) |
+| Median in months (95% CI) | 8.8 (7.6, 9.2) | 4.9 (4.7, 5.5) |
+| Hazard ratio (95% CI) | 0.52 (0.43, 0.64) |  |
+| p-Value | <0.00001 |  |
+| ORR |  |  |
+| Overall response rateResponse: Best objective response as confirmed complete response or partial response (95% CI) | 48% (43, 53) | 19% (14, 25) |
+| Complete response | 0.5% | 0.5% |
+| Partial response | 47% | 18% |
+| p-ValueBased on Miettinen and Nurminen method stratified by PD-L1 status, platinum chemotherapy and smoking status | <0.0001 |  |
+| Duration of Response |  |  |
+| Median in months (range) | 11.2 (1.1+, 18.0+) | 7.8 (2.1+, 16.4+) |
+| NR = not reached |  |  |
 
 First-line treatment of metastatic NSCLC as a single agent
 
@@ -109,13 +155,13 @@ Patients were randomized (1:1) to receive KEYTRUDA 200 mg intravenously every 3 
 - Gemcitabine 1250 mg/m2 on Days 1 and 8 and carboplatin AUC 5 to 6 mg/mL/min every 3 weeks on Day 1 for 4 to 6 cycles;
 - Paclitaxel 200 mg/m2 every 3 weeks and carboplatin AUC 5 to 6 mg/mL/min every 3 weeks on Day 1 for 4 to 6 cycles followed by optional pemetrexed maintenance (for nonsquamous histologies).
 
-Treatment with KEYTRUDA continued until RECIST 1.1-defined progression of disease as determined by an independent radiology committee, unacceptable toxicity, or for up to 24 months.
+Treatment with KEYTRUDA continued until RECIST v1.1 (modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ)-defined progression of disease as determined by an independent radiology committee, unacceptable toxicity, or for up to 24 months.
 Treatment could continue beyond disease progression if the patient was clinically stable and was considered to be deriving clinical benefit by the investigator.
 Patients randomized to chemotherapy were offered KEYTRUDA at the time of disease progression.
 
 Assessment of tumor status was performed every 9 weeks.
-The main efficacy outcome measure was PFS as assessed by a blinded independent central radiologists' (BICR) review according to RECIST 1.1.
-Additional efficacy outcome measures were OS and ORR as assessed by the BICR according to RECIST 1.1.
+The main efficacy outcome measure was PFS as assessed by a blinded independent central radiologists' (BICR) review according to RECIST v1.1, modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ.
+Additional efficacy outcome measures were OS and ORR as assessed by the BICR according to RECIST v1.1, modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ.
 
 A total of 305 patients were randomized: 154 patients to the KEYTRUDA arm and 151 to the chemotherapy arm.
 The study population characteristics were: median age of 65 years (range: 33 to 90), 54% age 65 or older; 61% male; 82% white and 15% Asian; 65% ECOG performance status of 1; 18% with squamous and 82% with nonsquamous histology and 9% with history of brain metastases.
@@ -123,9 +169,9 @@ A total of 66 patients in the chemotherapy arm received KEYTRUDA at the time of 
 
 The trial demonstrated a statistically significant improvement in PFS for patients randomized to KEYTRUDA as compared with chemotherapy.
 Additionally, a pre-specified interim OS analysis at 108 events (64% of the events needed for final analysis) also demonstrated statistically significant improvement of OS for patients randomized to KEYTRUDA as compared with chemotherapy.
-Table 20 summarizes key efficacy measures for KEYNOTE-024.
+Table 21 summarizes key efficacy measures for KEYNOTE-024.
 
-Table 20: Efficacy Results in KEYNOTE-024
+Table 21: Efficacy Results in KEYNOTE-024
 
 |  | n=154 | n=151 |
 | --- | --- | --- |
@@ -148,65 +194,6 @@ Table 20: Efficacy Results in KEYNOTE-024
 | Median duration of response in months (range) | NR (1.9+, 14.5+) | 6.3 (2.1+, 12.6+) |
 | NR = not reached |  |  |
 
-| Figure 3: Kaplan-Meier Curve for Overall Survival in KEYNOTE-024 |
-| --- |
-
-First-line treatment of metastatic nonsquamous NSCLC in combination with pemetrexed and carboplatin
-
-The efficacy of KEYTRUDA was investigated in patients enrolled in an open-label, multicenter, multi-cohort study, Study KEYNOTE-021 (NCT02039674); the efficacy data are limited to patients with metastatic nonsquamous NSCLC randomized within a single cohort (Cohort G1).
-The key eligibility criteria for this cohort were locally advanced or metastatic nonsquamous NSCLC, regardless of tumor PD-L1 expression status, and no prior systemic treatment for metastatic disease.
-Patients with autoimmune disease that required systemic therapy within 2 years of treatment; a medical condition that required immunosuppression; or who had received more than 30 Gy of thoracic radiation within the prior 26 weeks were ineligible.
-Randomization was stratified by PD-L1 tumor expression (TPS <1% vs. TPS ≥1%).
-Patients were randomized (1:1) to one of the following treatment arms:
-
-- KEYTRUDA 200 mg, pemetrexed 500 mg/m2, and carboplatin AUC 5 mg/mL/min intravenously on Day 1 of each 21-day cycle for 4 cycles followed by KEYTRUDA 200 mg intravenously every 3 weeks.
-  KEYTRUDA was administered prior to chemotherapy on Day 1.
-- Pemetrexed 500 mg/m2 and carboplatin AUC 5 mg/mL/min intravenously on Day 1 of each 21-day cycle for 4 cycles.
-
-At the investigator's discretion, maintenance pemetrexed 500 mg/m2 every 3 weeks was permitted in both treatment arms.
-
-Treatment with KEYTRUDA continued until RECIST 1.1-defined progression of disease as determined by blinded independent central review (BICR), unacceptable toxicity, or a maximum of 24 months.
-Administration of KEYTRUDA was permitted beyond RECIST-defined disease progression if the patient was clinically stable and deriving clinical benefit as determined by the investigator.
-
-Patients on chemotherapy were offered KEYTRUDA as a single agent at the time of disease progression.
-
-Assessment of tumor status was performed every 6 weeks through Week 18 and every 9 weeks thereafter.
-The major efficacy outcome measure was objective response rate (ORR) as assessed by BICR using RECIST 1.1.
-Additional efficacy outcome measures were progression-free survival (PFS) as assessed by BICR using RECIST 1.1, duration of response, and overall survival (OS).
-
-A total of 123 patients were randomized: 60 patients to the KEYTRUDA and chemotherapy arm and 63 to the chemotherapy arm.
-The study population characteristics were: median age of 64 years (range: 37 to 80); 48% age 65 or older; 39% male; 87% White and 8% Asian; ECOG performance status of 0 (41%) and 1 (56%); 97% had metastatic disease; and 12% had brain metastases.
-Thirty-six percent had tumor PD-L1 expression TPS <1%; no patients had sensitizing EGFR or ALK genomic aberrations.
-A total of 20 (32%) patients in the chemotherapy arm received KEYTRUDA at the time of disease progression and 12 (19%) additional patients received a checkpoint inhibitor as subsequent therapy.
-
-In Cohort G1 of KEYNOTE-021, there was a statistically significant improvement in ORR in patients randomized to KEYTRUDA in combination with pemetrexed and carboplatin compared with pemetrexed and carboplatin alone (see Table 21).
-
-Table 21: Efficacy Results in Cohort G1 of KEYNOTE-021
-
-| Endpoint | KEYTRUDA Pemetrexed Carboplatin n=60 | Pemetrexed Carboplatin n=63 |
-| --- | --- | --- |
-| Overall Response Rate |  |  |
-| Overall response rate | 55% | 29% |
-| (95% CI) | (42, 68) | (18, 41) |
-| Complete response | 0% | 0% |
-| Partial response | 55% | 29% |
-| p-ValueBased on Miettinen-Nurminen method stratified by PD-L1 status (TPS <1% vs. TPS ≥1%). | 0.0032 |  |
-| Duration of Response |  |  |
-| % with duration ≥ 6 monthsBased on Kaplan-Meier estimation | 93% | 81% |
-| Range (months) | 1.4+ to 13.0+ | 1.4+ to 15.2+ |
-| PFS |  |  |
-| Number of events (%) | 23 (38%) | 33 (52%) |
-| Progressive disease | 15 (25%) | 27 (43%) |
-| Death | 8 (13%) | 6 (10%) |
-| Median in months (95% CI) | 13.0 (8.3, NE) | 8.9 (4.4, 10.3) |
-| Hazard ratioBased on the Cox proportional hazard model stratified by PD-L1 status (TPS <1% vs. TPS ≥1%). (95% CI) | 0.53 (0.31, 0.91) |  |
-| p-ValueBased on the log-rank test stratified by PD-L1 status (TPS <1% vs. TPS ≥1%). | 0.0205 |  |
-| NE = not estimable |  |  |
-
-Exploratory analyses for ORR were conducted in subgroups defined by the stratification variable, PD-L1 tumor expression (TPS <1% and TPS ≥1%).
-In the TPS <1% subgroup, the ORR was 57% in the KEYTRUDA-containing arm and 13.0% in the chemotherapy arm.
-In the TPS ≥1% subgroup, the ORR was 54% in the KEYTRUDA-containing arm and 38% in the chemotherapy arm.
-
 Previously treated NSCLC
 
 The efficacy of KEYTRUDA was investigated in Study KEYNOTE-010 (NCT01905657), a randomized, multicenter, open-label, active-controlled trial conducted in patients with metastatic NSCLC that had progressed following platinum-containing chemotherapy, and if appropriate, targeted therapy for EGFR or ALK genomic tumor aberrations.
@@ -217,7 +204,7 @@ Patients were randomized (1:1:1) to receive KEYTRUDA 2 mg/kg intravenously every
 Patients randomized to KEYTRUDA were permitted to continue until disease progression that was symptomatic, rapidly progressive, required urgent intervention, occurred with a decline in performance status, or confirmation of progression at 4 to 6 weeks with repeat imaging or for up to 24 months without disease progression.
 
 Assessment of tumor status was performed every 9 weeks.
-The main efficacy outcome measures were OS and PFS as assessed by the BICR according to RECIST 1.1 in the subgroup of patients with TPS ≥50% and the overall population with TPS ≥1%.
+The main efficacy outcome measures were OS and PFS as assessed by the BICR according to RECIST v1.1, modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ in the subgroup of patients with TPS ≥50% and the overall population with TPS ≥1%.
 Additional efficacy outcome measures were ORR and response duration in the subgroup of patients with TPS ≥50% and the overall population with TPS ≥1%.
 
 A total of 1033 patients were randomized: 344 to the KEYTRUDA 2 mg/kg arm, 346 patients to the KEYTRUDA 10 mg/kg arm, and 343 patients to the docetaxel arm.
@@ -225,7 +212,7 @@ The study population characteristics were: median age 63 years (range: 20 to 88)
 All patients had received prior therapy with a platinum-doublet regimen, 29% received two or more prior therapies for their metastatic disease.
 
 Tables 22 and 23 summarize key efficacy measures in the subgroup with TPS ≥50% population and in all patients, respectively.
-The Kaplan-Meier curve for OS (TPS ≥1%) is shown in Figure 4.
+The Kaplan-Meier curve for OS (TPS ≥1%) is shown in Figure 5.
 
 Table 22: Efficacy Results of the Subgroup of Patients with TPS ≥50% in KEYNOTE-010
 
@@ -267,9 +254,6 @@ Table 23: Efficacy Results of All Randomized Patients (TPS ≥1%) in KEYNOTE-010
 | Median duration of response in months (range) | NR (0.7+, 20.1+) | NR (2.1+, 17.8+) | 6.2 (1.4+, 8.8+) |
 | NR = not reached |  |  |  |
 
-| Figure 4: Kaplan-Meier Curve for Overall Survival in all Randomized Patients in KEYNOTE-010 (TPS ≥1%) |
-| --- |
-
 ## 14.3 Head and Neck Cancer
 
 The efficacy of KEYTRUDA was investigated in Study KEYNOTE-012 (NCT01848834), a multicenter, non-randomized, open-label, multi-cohort study that enrolled 174 patients with recurrent or metastatic HNSCC who had disease progression on or after platinum-containing chemotherapy administered for recurrent or metastatic HNSCC or following platinum-containing chemotherapy administered as part of induction, concurrent, or adjuvant therapy.
@@ -279,7 +263,7 @@ Patients received KEYTRUDA 10 mg/kg every 2 weeks (n=53) or 200 mg every 3 weeks
 Patients without disease progression were treated for up to 24 months.
 Treatment with pembrolizumab could be reinitiated for subsequent disease progression and administered for up to 1 additional year.
 Assessment of tumor status was performed every 8 weeks.
-The major efficacy outcome measures were ORR according to RECIST 1.1, as assessed by blinded independent central review, and duration of response.
+The major efficacy outcome measures were ORR according to RECIST v1.1, modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ, as assessed by blinded independent central review, and duration of response.
 
 Among the 174 patients, the baseline characteristics were median age 60 years (32% age 65 or older); 82% male; 75% White, 16% Asian, and 6% Black; 87% had M1 disease; 33% had HPV positive tumors; 63% had prior cetuximab; 29% had an ECOG PS of 0 and 71% had an ECOG PS of 1; and the median number of prior lines of therapy administered for the treatment of HNSCC was 2.
 
@@ -305,9 +289,9 @@ Efficacy results for KEYNOTE-087 are summarized in Table 24.
 
 Table 24: Efficacy Results in KEYNOTE-087
 
-|  | KEYNOTE-087Median follow-up time of 9.4 months |
-| --- | --- |
 | Endpoint | N=210 |
+| --- | --- |
+|  | KEYNOTE-087Median follow-up time of 9.4 months |
 | Overall Response Rate |  |
 | ORR (95% CI) | 69% (62, 75) |
 | Complete response | 22% |
@@ -356,7 +340,7 @@ Patients received KEYTRUDA 200 mg every 3 weeks until unacceptable toxicity or d
 Patients with initial radiographic disease progression could receive additional doses of treatment during confirmation of progression unless disease progression was symptomatic, was rapidly progressive, required urgent intervention, or occurred with a decline in performance status.
 Patients without disease progression could be treated for up to 24 months.
 Tumor response assessments were performed at 9 weeks after the first dose, then every 6 weeks for the first year, and then every 12 weeks thereafter.
-The major efficacy outcome measures were ORR according to RECIST 1.1 as assessed by independent radiology review and duration of response.
+The major efficacy outcome measures were ORR according to RECIST v1.1, modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ as assessed by independent radiology review, and duration of response.
 
 In this trial, the median age was 74 years, 77% were male, and 89% were White.
 Eighty-seven percent had M1 disease, and 13% had M0 disease.
@@ -366,7 +350,7 @@ Reasons for cisplatin ineligibility included: 50% with baseline creatinine clear
 Ninety percent of patients were treatment naïve, and 10% received prior adjuvant or neoadjuvant platinum-based chemotherapy.
 
 Among the 370 patients, 30% (n = 110) had tumors that expressed PD-L1 with a combined positive score (CPS) of greater than or equal to 10.
-PD-L1 status was determined using a clinical trial assay (by IHC using the 22C3 antibody).
+PD-L1 status was determined using the PD-L1 IHC 22C3 pharmDx Kit.
 The baseline characteristics of these 110 patients were: median age 73 years, 68% male, and 87% White.
 Eighty-two percent had M1 disease, and 18% had M0 disease.
 Eighty-one percent had a primary tumor in the lower tract, and 18% of patients had a primary tumor in the upper tract.
@@ -379,17 +363,16 @@ Efficacy results are summarized in Table 26.
 
 Table 26: Efficacy Results in KEYNOTE-052
 
-|  | All Subjects n=370 | PD-L1 CPS ≥10 n=110 |
-| --- | --- | --- |
-| Endpoint | KEYTRUDA 200 mg every 3 weeks |  |
-| Objective Response Rate |  |  |
-| ORR (95% CI) | 29% (24, 34) | 47% (38, 57) |
-| Complete response rate | 7% | 15% |
-| Partial response rate | 22% | 32% |
-| Duration of Response |  |  |
-| Median in months (range) | NR (1.4+, 17.8+) | NR (1.4+, 17.8+) |
-| + Denotes ongoing |  |  |
-| NR = not reached |  |  |
+|  | All Subjects n=370 | PD-L1 CPS <10 n=260Includes 9 subjects with unknown PD-L1 status | PD-L1 CPS ≥10 n=110 |
+| --- | --- | --- | --- |
+| Endpoint | KEYTRUDA 200 mg every 3 weeks |  |  |
+| Objective Response Rate |  |  |  |
+| ORR (95% CI) | 29% (24, 34) | 21% (16, 26) | 47% (38, 57) |
+| Complete response rate | 7% | 3% | 15% |
+| Partial response rate | 22% | 18% | 32% |
+| Duration of Response |  |  |  |
+| Median in months (range) | NR (1.4+, 17.8+) | NR (1.4+, 16.3+) | NR (1.4+, 17.8+) |
+| + Denotes ongoing NR = not reached |  |  |  |
 
 Previously Untreated Urothelial Carcinoma
 
@@ -409,8 +392,8 @@ Treatment continued until unacceptable toxicity or disease progression.
 Patients with initial radiographic disease progression could receive additional doses of treatment during confirmation of progression unless disease progression was symptomatic, was rapidly progressive, required urgent intervention, or occurred with a decline in performance status.
 Patients without disease progression could be treated for up to 24 months.
 Assessment of tumor status was performed at 9 weeks after randomization, then every 6 weeks through the first year, followed by every 12 weeks thereafter.
-The major efficacy outcomes were OS and PFS as assessed by BICR per RECIST 1.1.
-Additional efficacy outcome measures were ORR as assessed by BICR per RECIST 1.1 and duration of response.
+The major efficacy outcomes were OS and PFS as assessed by BICR per RECIST v1.1, modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ.
+Additional efficacy outcome measures were ORR as assessed by BICR per RECIST v1.1, modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ, and duration of response.
 
 Among the 542 randomized patients, the study population characteristics were: median age 66 years (range: 26 to 88), 58% age 65 or older; 74% male; 72% White and 23% Asian; 42% ECOG status of 0 and 56% ECOG performance status of 1; and 96% M1 disease and 4% M0 disease.
 Eighty-seven percent of patients had visceral metastases, including 34% with liver metastases.
@@ -419,7 +402,7 @@ Fifteen percent of patients had disease progression following prior platinum-con
 Twenty-one percent had received 2 or more prior systemic regimens in the metastatic setting.
 Seventy-six percent of patients received prior cisplatin, 23% had prior carboplatin, and 1% were treated with other platinum-based regimens.
 
-Table 27 and Figure 5 summarize the key efficacy measures for KEYNOTE-045.
+Table 27 and Figure 6 summarize the key efficacy measures for KEYNOTE-045.
 The study demonstrated statistically significant improvements in OS and ORR for patients randomized to KEYTRUDA as compared to chemotherapy.
 There was no statistically significant difference between KEYTRUDA and chemotherapy with respect to PFS.
 The median follow-up time for this trial was 9.0 months (range: 0.2 to 20.8 months).
@@ -445,11 +428,7 @@ Table 27: Efficacy Results in KEYNOTE-045
 | Partial response rate | 14% | 8% |
 | p-Value (Miettinen-Nurminen) | 0.002 |  |
 | Median duration of response in months (range) | NR (1.6+, 15.6+) | 4.3 (1.4+, 15.4+) |
-| + Denotes ongoing |  |  |
-| NR = not reached |  |  |
-
-| Figure 5: Kaplan-Meier Curve for Overall Survival in KEYNOTE-045 |
-| --- |
+| + Denotes ongoing NR = not reached |  |  |
 
 ## 14.7 Microsatellite Instability-High Cancer
 
@@ -458,14 +437,14 @@ Patients with active autoimmune disease or a medical condition that required imm
 Patients received either KEYTRUDA 200 mg every 3 weeks or KEYTRUDA 10 mg/kg every 2 weeks.
 Treatment continued until unacceptable toxicity or disease progression that was either symptomatic, rapidly progressive, required urgent intervention, or occurred with a decline in performance status.
 A maximum of 24 months of treatment with KEYTRUDA was administered.
-For the purpose of assessment of anti-tumor activity across these 5 trials, the major efficacy outcome measures were ORR as assessed by blinded independent central radiologists' (BICR) review according to RECIST 1.1 and duration of response.
+For the purpose of assessment of anti-tumor activity across these 5 trials, the major efficacy outcome measures were ORR as assessed by blinded independent central radiologists' (BICR) review according to RECIST v1.1, modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ, and duration of response.
 
 Table 28: MSI-H Trials
 
 | Study | Design and Patient Population | Number of patients | MSI-H/dMMR testing | Dose | Prior therapy |
 | --- | --- | --- | --- | --- | --- |
 | KEYNOTE-016 NCT01876511 | prospective, investigator-initiated6 sitespatients with CRC and other tumors | 28 CRC 30 non-CRC | local PCR or IHC | 10 mg/kg every 2 weeks | CRC: ≥ 2 prior regimensNon-CRC: ≥1 prior regimen |
-| KEYNOTE-164 NCT02460198 | prospective international multi-centerCRC | 61 | local PCR or IHC | 200 mg every 3 weeks | Prior fluoropyrimidine, oxaliplatin, and irinotecan +/- anti-VEGF/EGFR mAb |
+| KEYNOTE-164 NCT02460198 | prospective international multi-center CRC | 61 | local PCR or IHC | 200 mg every 3 weeks | Prior fluoropyrimidine, oxaliplatin, and irinotecan +/- anti-VEGF/EGFR mAb |
 | KEYNOTE-012 NCT01848834 | retrospectively identified patients with PD-L1-positive gastric, bladder, or triple-negative breast cancer | 6 | central PCR | 10 mg/kg every 2 weeks | ≥1 prior regimen |
 | KEYNOTE-028 NCT02054806 | retrospectively identified patients with PD-L1-positive esophageal, biliary, breast, endometrial, or CRC | 5 | central PCR | 10 mg/kg every 2 weeks | ≥1 prior regimen |
 | KEYNOTE-158 NCT02628067 | prospective international multi-center enrollment of patients with MSI-H/dMMR non-CRCretrospectively identified patients who were enrolled in specific rare tumor non-CRC cohorts | 19 | local PCR or IHC (central PCR for patients in rare tumor non-CRC cohorts) | 200 mg every 3 weeks | ≥1 prior regimen |
@@ -530,7 +509,7 @@ Patients with active autoimmune disease or a medical condition that required imm
 Patients received KEYTRUDA 200 mg every 3 weeks until unacceptable toxicity or disease progression that was symptomatic, rapidly progressive, required urgent intervention, occurred with a decline in performance status, or was confirmed at least 4 weeks later with repeat imaging.
 Patients without disease progression were treated for up to 24 months.
 Assessment of tumor status was performed every 6 to 9 weeks.
-The major efficacy outcome measures were ORR according to RECIST 1.1, as assessed by blinded independent central review, and duration of response.
+The major efficacy outcome measures were ORR according to RECIST v1.1, modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ, as assessed by blinded independent central review, and duration of response.
 
 Among the 259 patients, 55% (n = 143) had tumors that expressed PD-L1 with a combined positive score (CPS) of greater than or equal to 1 and microsatellite stable (MSS) tumor status or undetermined MSI or MMR status.
 PD-L1 status was determined using the PD-L1 IHC 22C3 pharmDx Kit.
@@ -554,13 +533,14 @@ Patients were treated with KEYTRUDA intravenously at a dose of 200 mg every 3 we
 Patients with initial radiographic disease progression could receive additional doses of treatment during confirmation of progression unless disease progression was symptomatic, was rapidly progressive, required urgent intervention, or occurred with a decline in performance status.
 Patients without disease progression could be treated for up to 24 months.
 Assessment of tumor status was performed every 9 weeks for the first 12 months, and every 12 weeks thereafter.
-The major efficacy outcome measures were ORR according to RECIST 1.1, as assessed by blinded independent central review, and duration of response.
+The major efficacy outcome measures were ORR according to RECIST v1.1, modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ, as assessed by blinded independent central review, and duration of response.
 
 Among the 98 patients in Cohort E, 77 (79%) had tumors that expressed PD-L1 with a CPS ≥ 1 and received at least one line of chemotherapy in the metastatic setting.
 PD-L1 status was determined using the PD-L1 IHC 22C3 pharmDx Kit.
 The baseline characteristics of these 77 patients were: median age was 45 years (range: 27 to 75 years); 81% were White, 14% Asian, 3% Black; ECOG PS was 0 (32%) or 1 (68%); 92% had squamous cell carcinoma, 6% adenocarcinoma, and 1% adenosquamous histology; 95% had M1 disease and 5% had recurrent disease; 35% had one and 65% had two or more prior lines of therapy in the recurrent or metastatic setting.
 
-No responses were observed in patients whose tumors did not have PD-L1 expression (CPS <1).
+No responses were observed in patients whose tumors did not have PD-L1 expression (CPS ˂1).
+
 Efficacy results are summarized in Table 31.
 
 Table 31: Efficacy Results in Patients with Recurrent or Metastatic Cervical Cancer (CPS ≥1) in KEYNOTE-158

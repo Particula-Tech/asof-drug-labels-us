@@ -6,14 +6,12 @@ KEYTRUDA® (pembrolizumab) is indicated for the treatment of patients with unres
 
 ## 1.2 Non-Small Cell Lung Cancer
 
+KEYTRUDA, in combination with pemetrexed and platinum chemotherapy, is indicated for the first-line treatment of patients with metastatic nonsquamous NSCLC, with no EGFR or ALK genomic tumor aberrations [see Clinical Studies (14.2)].
+
 KEYTRUDA, as a single agent, is indicated for the first-line treatment of patients with metastatic non-small cell lung cancer (NSCLC) whose tumors have high PD-L1 expression [Tumor Proportion Score (TPS) ≥50%)] as determined by an FDA-approved test, with no EGFR or ALK genomic tumor aberrations [see Clinical Studies (14.2)].
 
 KEYTRUDA, as a single agent, is indicated for the treatment of patients with metastatic NSCLC whose tumors express PD-L1 (TPS ≥1%) as determined by an FDA-approved test, with disease progression on or after platinum-containing chemotherapy.
 Patients with EGFR or ALK genomic tumor aberrations should have disease progression on FDA-approved therapy for these aberrations prior to receiving KEYTRUDA [see Clinical Studies (14.2)].
-
-KEYTRUDA, in combination with pemetrexed and carboplatin, is indicated for the first-line treatment of patients with metastatic nonsquamous NSCLC [see Clinical Studies (14.2)].
-This indication is approved under accelerated approval based on tumor response rate and progression-free survival.
-Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
 
 ## 1.3 Head and Neck Cancer
 
@@ -40,7 +38,7 @@ Limitation of Use: KEYTRUDA is not recommended for treatment of patients with PM
 
 ## 1.6 Urothelial Carcinoma
 
-KEYTRUDA is indicated for the treatment of patients with locally advanced or metastatic urothelial carcinoma who are not eligible for cisplatin-containing chemotherapy and whose tumors express PD-L1 [Combined Positive Score (CPS) ≥10], or in patients who are not eligible for any platinum-containing chemotherapy regardless of PD-L1 status [see Clinical Studies (14.6)].
+KEYTRUDA is indicated for the treatment of patients with locally advanced or metastatic urothelial carcinoma who are not eligible for cisplatin-containing chemotherapy and whose tumors express PD-L1 [Combined Positive Score (CPS) ≥10] as determined by an FDA-approved test, or in patients who are not eligible for any platinum-containing chemotherapy regardless of PD-L1 status [see Clinical Studies (14.6)].
 
 This indication is approved under accelerated approval based on tumor response rate and duration of response.
 Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials.

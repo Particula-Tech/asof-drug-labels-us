@@ -15,12 +15,12 @@ The following adverse reactions are discussed in greater detail in other section
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The data described in the WARNINGS AND PRECAUTIONS section reflect exposure to KEYTRUDA in 2799 patients in three randomized, open-label, active-controlled clinical trials (KEYNOTE-002, KEYNOTE-006, and KEYNOTE-010), which enrolled 912 patients with melanoma and 682 patients with NSCLC, and one single-arm trial (KEYNOTE-001), which enrolled 655 patients with melanoma and 550 patients with NSCLC.
-In addition, these data reflect exposure to KEYTRUDA in a non-randomized, open-label, multi-cohort trial (KEYNOTE-012), which enrolled 192 patients with HNSCC, two non-randomized, open-label trials (KEYNOTE-013 and KEYNOTE-087), which enrolled 241 cHL patients, and post-marketing use.
-Across all studies, KEYTRUDA was administered at doses of 2 mg/kg intravenously every 3 weeks, 10 mg/kg intravenously every 2 weeks, 10 mg/kg intravenously every 3 weeks, or 200 mg intravenously every 3 weeks.
+The data described in the WARNINGS AND PRECAUTIONS section reflect exposure to KEYTRUDA as a single agent in 2799 patients in three randomized, open-label, active-controlled clinical trials (KEYNOTE-002, KEYNOTE-006, and KEYNOTE-010), which enrolled 912 patients with melanoma and 682 patients with NSCLC, and one single-arm trial (KEYNOTE-001), which enrolled 655 patients with melanoma and 550 patients with NSCLC.
+In addition, these data reflect exposure to KEYTRUDA as a single agent in a non-randomized, open-label, multi-cohort trial (KEYNOTE-012), which enrolled 192 patients with HNSCC and in two non-randomized, open-label trials (KEYNOTE-013 and KEYNOTE-087), which enrolled 241 patients with cHL; in combination with chemotherapy in a randomized, active-controlled trial (KEYNOTE-189), which enrolled 405 patients with nonsquamous NSCLC; and in post-marketing use.
+Across all trials, KEYTRUDA was administered at doses of 2 mg/kg intravenously every 3 weeks, 10 mg/kg intravenously every 2 weeks, 10 mg/kg intravenously every 3 weeks, or 200 mg intravenously every 3 weeks.
 Among the 2799 patients, 41% were exposed for 6 months or more and 21% were exposed for 12 months or more.
 
-The data described in this section were obtained in five randomized, open-label, active-controlled clinical trials (KEYNOTE-002, KEYNOTE-006, KEYNOTE-010, KEYNOTE-021, and KEYNOTE-045) in which KEYTRUDA was administered to 912 patients with melanoma, 741 patients with NSCLC, and 542 patients with urothelial carcinoma, and six non-randomized, open-label trials (KEYNOTE-012, KEYNOTE-087, KEYNOTE-170, KEYNOTE-052, KEYNOTE-059, and KEYNOTE-158) in which KEYTRUDA was administered to 192 patients with HNSCC, 210 patients with cHL, 53 patients with PMBCL, 370 patients with urothelial carcinoma, 259 patients with gastric cancer, and 98 patients with cervical cancer.
+The data described in this section were obtained in five randomized, active-controlled clinical trials (KEYNOTE-002, KEYNOTE-006, KEYNOTE-010, KEYNOTE-045, and KEYNOTE-189) in which KEYTRUDA was administered to 912 patients with melanoma, 1087 patients with NSCLC, and 542 patients with urothelial carcinoma, and six non-randomized, open-label trials (KEYNOTE-012, KEYNOTE-087, KEYNOTE-170, KEYNOTE-052, KEYNOTE-059, and KEYNOTE-158) in which KEYTRUDA was administered to 192 patients with HNSCC, 210 patients with cHL, 53 patients with PMBCL, 370 patients with urothelial carcinoma, 259 patients with gastric cancer, and 98 patients with cervical cancer.
 In these trials, KEYTRUDA was administered at 2 mg/kg every 3 weeks, 200 mg every 3 weeks, or 10 mg/kg every 2 or 3 weeks.
 
 Melanoma
@@ -148,6 +148,69 @@ Other laboratory abnormalities occurring in ≥20% of patients receiving KEYTRUD
 
 NSCLC
 
+First-line treatment of metastatic nonsquamous NSCLC with pemetrexed and platinum chemotherapy
+
+The safety of KEYTRUDA in combination with pemetrexed and investigator's choice of platinum (either carboplatin or cisplatin) was investigated in Study KEYNOTE-189, a multicenter, double-blind, randomized (2:1), active-controlled trial in patients with previously untreated, metastatic nonsquamous NSCLC with no EGFR or ALK genomic tumor aberrations.
+A total of 607 patients received KEYTRUDA 200 mg, pemetrexed and platinum every 3 weeks for 4 cycles followed by KEYTRUDA and pemetrexed (n=405) or placebo, pemetrexed, and platinum every 3 weeks for 4 cycles followed by placebo and pemetrexed (n=202).
+Patients with autoimmune disease that required systemic therapy within 2 years of treatment; a medical condition that required immunosuppression; or who had received more than 30 Gy of thoracic radiation within the prior 26 weeks were ineligible [see Clinical Studies (14.2)].
+
+The median duration of exposure to KEYTRUDA 200 mg every 3 weeks was 7.2 months (range: 1 day to 20.1 months).
+Sixty percent of patients in the KEYTRUDA arm were exposed to KEYTRUDA for ≥6 months.
+Seventy-two percent of patients received carboplatin.
+The study population characteristics were: median age of 64 years (range: 34 to 84), 49% age 65 years or older, 59% male, 94% White and 3% Asian, and 18% with history of brain metastases at baseline.
+
+KEYTRUDA was discontinued for adverse reactions in 20% of patients.
+The most common adverse reactions resulting in permanent discontinuation of KEYTRUDA were pneumonitis (3%) and acute kidney injury (2%).
+Adverse reactions leading to the interruption of KEYTRUDA occurred in 53% of patients; the most common adverse reactions or laboratory abnormalities leading to interruption of KEYTRUDA (≥2%) were neutropenia (13%), asthenia/fatigue (7%), anemia (7%), thrombocytopenia (5%), diarrhea (4%), pneumonia (4%), increased blood creatinine (3%), dyspnea (2%), febrile neutropenia (2%), upper respiratory tract infection (2%), increased ALT (2%), and pyrexia (2%).
+
+Table 5 summarizes the adverse reactions that occurred in at least 20% of patients treated with KEYTRUDA.
+
+Table 5: Adverse Reactions Occurring in ≥20% of Patients in KEYNOTE-189
+
+| Adverse Reaction | All GradesGraded per NCI CTCAE v4.03 (%) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) |
+| --- | --- | --- | --- | --- |
+|  | KEYTRUDA Pemetrexed Platinum Chemotherapy n=405 |  | Placebo Pemetrexed Platinum Chemotherapy n=202 |  |
+| Gastrointestinal Disorders |  |  |  |  |
+| Nausea | 56 | 3.5 | 52 | 3.5 |
+| Constipation | 35 | 1.0 | 32 | 0.5 |
+| Diarrhea | 31 | 5 | 21 | 3.0 |
+| Vomiting | 24 | 3.7 | 23 | 3.0 |
+| General Disorders |  |  |  |  |
+| FatigueIncludes asthenia and fatigue | 56 | 12 | 58 | 6 |
+| Pyrexia | 20 | 0.2 | 15 | 0 |
+| Metabolism and Nutrition Disorders |  |  |  |  |
+| Decreased appetite | 28 | 1.5 | 30 | 0.5 |
+| Skin and Subcutaneous Tissue Disorders |  |  |  |  |
+| RashIncludes genital rash, rash, rash generalized, rash macular, rash maculo-papular, rash papular, rash pruritic, and rash pustular. | 25 | 2.0 | 17 | 2.5 |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |
+| Cough | 21 | 0 | 28 | 0 |
+| Dyspnea | 21 | 3.7 | 26 | 5 |
+
+Table 6 summarizes the laboratory abnormalities that worsened from baseline in at least 20% of patients treated with KEYTRUDA.
+
+Table 6: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of Patients in KEYNOTE-189
+
+| Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA/pemetrexed/platinum chemotherapy (range: 381 to 401 patients) and placebo/pemetrexed/platinum chemotherapy (range: 184 to 197 patients). | All GradesGraded per NCI CTCAE v4.03 % | Grades 3-4 % | All Grades % | Grades 3-4 % |
+| --- | --- | --- | --- | --- |
+|  | KEYTRUDA Pemetrexed Platinum Chemotherapy |  | Placebo Pemetrexed Platinum Chemotherapy |  |
+| Chemistry |  |  |  |  |
+| Hyperglycemia | 63 | 9 | 60 | 7 |
+| Increased ALT | 47 | 3.8 | 42 | 2.6 |
+| Increased AST | 47 | 2.8 | 40 | 1.0 |
+| Hypoalbuminemia | 39 | 2.8 | 39 | 1.1 |
+| Increased creatinine | 37 | 4.2 | 25 | 1.0 |
+| Hyponatremia | 32 | 7 | 23 | 6 |
+| Hypophosphatemia | 30 | 10 | 28 | 14 |
+| Increased alkaline phosphatase | 26 | 1.8 | 29 | 2.1 |
+| Hypocalcemia | 24 | 2.8 | 17 | 0.5 |
+| Hyperkalemia | 24 | 2.8 | 19 | 3.1 |
+| Hypokalemia | 21 | 5 | 20 | 5 |
+| Hematology |  |  |  |  |
+| Anemia | 85 | 17 | 81 | 18 |
+| Lymphopenia | 64 | 22 | 64 | 25 |
+| Neutropenia | 48 | 20 | 41 | 19 |
+| Thrombocytopenia | 30 | 12 | 29 | 8 |
+
 Previously Treated NSCLC
 
 The safety of KEYTRUDA was investigated in Study KEYNOTE-010, a multicenter, open-label, randomized (1:1:1), active-controlled trial, in patients with advanced NSCLC who had documented disease progression following treatment with platinum-based chemotherapy and, if positive for EGFR or ALK genetic aberrations, appropriate therapy for these aberrations.
@@ -166,9 +229,9 @@ Treatment was discontinued for adverse reactions in 8% of patients receiving KEY
 The most common adverse events resulting in permanent discontinuation of KEYTRUDA was pneumonitis (1.8%).
 Adverse reactions leading to interruption of KEYTRUDA occurred in 23% of patients; the most common (≥1%) were diarrhea (1%), fatigue (1.3%), pneumonia (1%), liver enzyme elevation (1.2%), decreased appetite (1.3%), and pneumonitis (1%).
 
-Table 5 summarizes the adverse reactions that occurred in at least 10% of patients treated with KEYTRUDA.
+Table 7 summarizes the adverse reactions that occurred in at least 10% of patients treated with KEYTRUDA.
 
-Table 5: SelectedAdverse reactions occurring at same or higher incidence than in docetaxel arm Adverse Reactions Occurring in ≥10% of Patients Receiving KEYTRUDA in KEYNOTE-010
+Table 7: SelectedAdverse reactions occurring at same or higher incidence than in docetaxel arm Adverse Reactions Occurring in ≥10% of Patients Receiving KEYTRUDA in KEYNOTE-010
 
 | Adverse Reaction | All GradesGraded per NCI CTCAE v4.0 (%) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) |
 | --- | --- | --- | --- | --- |
@@ -191,7 +254,9 @@ Table 5: SelectedAdverse reactions occurring at same or higher incidence than in
 
 Other clinically important adverse reactions occurring in patients receiving KEYTRUDA were fatigue (25%), diarrhea (14%), asthenia (11%) and pyrexia (11%).
 
-Table 6: SelectedLaboratory abnormalities occurring at same or higher incidence than in docetaxel arm.
+Table 8 summarizes the laboratory abnormalities that worsened from baseline in at least 20% of patients treated with KEYTRUDA.
+
+Table 8: SelectedLaboratory abnormalities occurring at same or higher incidence than in docetaxel arm.
 Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of NSCLC Patients Receiving KEYTRUDA in KEYNOTE-010
 
 | Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA (range: 631 to 638 patients) and docetaxel (range: 274 to 277 patients). | All GradesGraded per NCI CTCAE v4.0 % | Grades 3-4 % | All Grades % | Grades 3-4 % |
@@ -204,79 +269,6 @@ Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of NSCLC Pat
 | Alanine aminotransferase increased | 22 | 2.7 | 9 | 0.4 |
 
 Other laboratory abnormalities occurring in ≥20% of patients receiving KEYTRUDA were hyperglycemia (44% all Grades; 4.1% Grades 3-4), anemia (37% all Grades; 3.8% Grades 3-4), hypertriglyceridemia (36% all Grades; 1.8% Grades 3-4), lymphopenia (35% all Grades; 9% Grades 3-4), hypoalbuminemia (34% all Grades; 1.6% Grades 3-4), and hypercholesterolemia (20% all Grades; 0.7% Grades 3-4).
-
-Previously Untreated Nonsquamous NSCLC, in Combination with Chemotherapy
-
-The safety of KEYTRUDA in combination with pemetrexed and carboplatin was investigated in a randomized (1:1) open-label cohort in Study KEYNOTE-021.
-Patients with previously untreated, metastatic nonsquamous NSCLC received KEYTRUDA 200 mg with pemetrexed and carboplatin (n=59), or pemetrexed and carboplatin alone (n=62).
-Patients with autoimmune disease that required systemic therapy within 2 years of treatment; a medical condition that required immunosuppression; or who had received more than 30 Gy of thoracic radiation within the prior 26 weeks were ineligible [see Clinical Studies (14.2)].
-
-The median duration of exposure to KEYTRUDA was 8 months (range: 1 day to 16 months).
-Sixty-eight percent of patients in the KEYTRUDA arm were exposed to KEYTRUDA 200 mg for ≥6 months.
-The study population characteristics were: median age of 64 years (range: 37 to 80), 48% age 65 years or older, 39% male, 87% White and 8% Asian, 97% with metastatic disease, and 12% with brain metastases.
-
-KEYTRUDA was discontinued for adverse reactions in 10% of patients.
-The most common adverse reaction resulting in discontinuation of KEYTRUDA (≥2%) was acute kidney injury (3.4%).
-Adverse reactions leading to interruption of KEYTRUDA occurred in 39% of patients; the most common (≥2%) were fatigue (8%), neutrophil count decreased (8%), anemia (5%), dyspnea (3.4%), and pneumonitis (3.4%).
-
-Table 7 summarizes the adverse reactions that occurred in at least 20% of patients treated with KEYTRUDA.
-KEYNOTE-021 was not designed to demonstrate a statistically significant difference in adverse reaction rates for pembrolizumab plus chemotherapy, as compared to chemotherapy alone, for any specified adverse reaction listed in Table 7.
-
-Table 7: Adverse Reactions Occurring in ≥20% of Patients in KEYNOTE-021
-
-| Adverse Reaction | All GradesGraded per NCI CTCAE v4.0 (%) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) |
-| --- | --- | --- | --- | --- |
-|  | KEYTRUDA Pemetrexed Carboplatin n=59 |  | Pemetrexed Carboplatin n=62 |  |
-| General Disorders and Administration Site Conditions |  |  |  |  |
-| Fatigue | 71 | 3.4 | 50 | 0 |
-| Peripheral edema | 22 | 0 | 18 | 0 |
-| Gastrointestinal Disorders |  |  |  |  |
-| Nausea | 68 | 1.7 | 56 | 0 |
-| Constipation | 51 | 0 | 37 | 1.6 |
-| Vomiting | 39 | 1.7 | 27 | 0 |
-| Diarrhea | 37 | 1.7 | 23 | 1.6 |
-| Skin and Subcutaneous Tissue Disorders |  |  |  |  |
-| RashIncludes rash, rash generalized, rash macular, rash maculo-papular, and rash pruritic. | 42 | 1.7 | 21 | 1.6 |
-| Pruritus | 24 | 0 | 4.8 | 0 |
-| Alopecia | 20 | 0 | 3.2 | 0 |
-| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |
-| Dyspnea | 39 | 3.4 | 21 | 0 |
-| Cough | 24 | 0 | 18 | 0 |
-| Metabolism and Nutrition Disorders |  |  |  |  |
-| Decreased appetite | 31 | 0 | 23 | 0 |
-| Nervous System Disorders |  |  |  |  |
-| Headache | 31 | 0 | 16 | 1.6 |
-| Dizziness | 24 | 0 | 16 | 0 |
-| Dysgeusia | 20 | 0 | 11 | 0 |
-| Psychiatric Disorders |  |  |  |  |
-| Insomnia | 24 | 0 | 15 | 0 |
-| Infections and Infestations |  |  |  |  |
-| Upper respiratory tract infection | 20 | 0 | 3.2 | 0 |
-| Musculoskeletal and Connective Tissue Disorders |  |  |  |  |
-| Arthralgia | 15 | 0 | 24 | 1.6 |
-
-Table 8: Laboratory Abnormalities Worsened from Baseline in ≥20% of Patients in KEYNOTE-021
-
-| Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA pemetrexed carboplatin (range: 56 to 58 patients) and pemetrexed carboplatin (range: 55 to 61 patients). | All GradesGraded per NCI CTCAE v4.0 % | Grades 3-4 % | All Grades % | Grades 3-4 % |
-| --- | --- | --- | --- | --- |
-|  | KEYTRUDA Pemetrexed Carboplatin |  | Pemetrexed Carboplatin |  |
-| Chemistry |  |  |  |  |
-| Hyperglycemia | 74 | 9 | 61 | 5 |
-| Lymphocytes decreased | 53 | 23 | 60 | 28 |
-| Aspartate aminotransferase increased | 51 | 3.5 | 46 | 1.7 |
-| Hypertriglyceridemia | 50 | 0 | 43 | 0 |
-| Alanine aminotransferase increased | 40 | 3.5 | 32 | 1.7 |
-| Creatinine increased | 34 | 3.4 | 19 | 1.7 |
-| Hyponatremia | 33 | 5 | 35 | 3.5 |
-| Hypoalbuminemia | 32 | 0 | 31 | 0 |
-| Hypocalcemia | 30 | 5 | 19 | 1.7 |
-| Hypokalemia | 29 | 5 | 22 | 1.7 |
-| Hypophosphatemia | 29 | 5 | 24 | 11 |
-| Alkaline phosphatase increased | 28 | 0 | 9 | 0 |
-| Hematology |  |  |  |  |
-| Hemoglobin decreased | 83 | 17 | 84 | 19 |
-| Neutrophils decreased | 47 | 14 | 43 | 8 |
-| Platelets decreased | 24 | 9 | 36 | 10 |
 
 HNSCC
 
@@ -382,7 +374,7 @@ Table 11: Adverse Reactions in ≥10% of Patients with PMBCL in KEYNOTE-170
 | Abdominal pain Includes abdominal pain, abdominal pain upper | 13 | 0 |
 | Nausea | 11 | 0 |
 | Cardiac Disorders |  |  |
-| ArrhythmiaIncludes atrial fibrillation, sinus tachycardia, supraventricular tachycardia, tachycardia | 11 | 4 |
+| Arrhythmia Includes atrial fibrillation, sinus tachycardia, supraventricular tachycardia, tachycardia | 11 | 4 |
 | Nervous System Disorders |  |  |
 | Headache | 11 | 0 |
 
