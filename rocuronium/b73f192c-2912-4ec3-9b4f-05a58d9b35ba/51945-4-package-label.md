@@ -8,9 +8,9 @@ ROCURONIUM BROMIDE INJECTION
 
 50 mg/5 mL (10 mg/mL)
 
-For IV Use Only
-
 WARNING: Paralyzing Agent
+
+For IV Use Only
 
 5 mL vial label
 
@@ -22,8 +22,8 @@ ROCURONIUM BROMIDE INJECTION
 
 100 mg/10 mL (10 mg/mL)
 
-For IV Use Only
-
 WARNING: Paralyzing Agent
+
+For IV Use Only
 
 10 mL Vial Label

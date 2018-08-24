@@ -25,9 +25,8 @@ Patients receiving this low dose of 0.45 mg/kg who achieve less than 90% block (
 
 A large bolus dose of 0.9 or 1.2 mg/kg can be administered under opioid/nitrous oxide/oxygen anesthesia without adverse effects to the cardiovascular system [see Clinical Pharmacology (12.2)].
 
-Risk of Medication Errors: Store Rocuronium bromide Injection with the cap and ferrule intact.
-Accidental administration of neuromuscular blocking agents may be fatal.
-Store these products in a way that minimizes the possibility of selecting the wrong product [see Warnings and Precautions (5.3)]
+Risk of Medication Errors: Accidental administration of neuromuscular blocking agents may be fatal.
+Store Rocuronium bromide Injection with the cap and ferrule intact and in a manner that minimizes the possibility of selecting the wrong product [see Warnings and Precautions (5.3)]
 
 ## 2.2 Rapid Sequence Intubation
 

@@ -8,7 +8,7 @@ Box of 10 NDC 39822-4200-2
 
 - Rocurium Bromide Injection 10 mL multiple dose vials containing 100 mg rocuronium bromide (10 mg/mL)Box of 10 NDC 39822-4200-6
 
-The packaging of this product contains no natural rubber (latex).
+This container closure is not made with natural rubber latex.
 
 Rocuronium bromide should be stored in a refrigerator, 2° to 8°C (36° to 46°F).
 

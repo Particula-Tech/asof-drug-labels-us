@@ -16,9 +16,9 @@ Precautions should also be taken in those patients who have had previous anaphyl
 
 ## 5.3 Risk of Death due to Medication Errors
 
-Inadvertent administration of Rocuronium bromide Injection to a patient for whom it is not intended can result in paralysis, respiratory arrest, and death.
-Ensure proper selection of intended product and avoid confusion with other injectable solutions that may be present in critical care settings.
-Ensure that the dose is communicated clearly, and that the intended product is properly selected.
+Administration of Rocuronium bromide Injection results in paralysis, which may lead to respiratory arrest and death; this progression may be more likely to occur in a patient for whom it is not intended.
+Confirm proper selection of intended product and avoid confusion with other injectable solutions that are present in critical care and other clinical settings.
+If another healthcare provider is administering the product, ensure that the intended dose is clearly labeled and communicated.
 
 ## 5.4 Need for Adequate Anesthesia
 
