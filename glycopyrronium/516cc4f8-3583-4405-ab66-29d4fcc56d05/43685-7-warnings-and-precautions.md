@@ -68,7 +68,7 @@ Published literature suggest the following regarding the use of glycopyrrolate d
 Unlike atropine, glycopyrrolate in normal doses (0.004 mg/kg) does not appear to affect fetal heart rate or fetal heart rate variability to a significant degree.
 Concentrations of glycopyrrolate in umbilical venous and aterial blood and in the amniotic fluid are low after intramuscular administration to parturients.
 Therefore, glycopyrrolate does not appear to penetrate through the placental barrier in significant amounts.
-In reproduction studies in rats, dietary administration of glycopyrrolate resulted in diminished rats of pup survival in a dose-related manner.
+In reproduction studies in rats, dietary administration of glycopyrrolate resulted in diminished rates of pup survival in a dose-related manner.
 
 ## Nursing Mothers
 
@@ -79,8 +79,6 @@ As with other anticholinergics, glycopyrrolate may cause suppression of lactatio
 ## Pediatric Use
 
 Due to its benzyl alcohol content, glycopyrrolate injection should not be used in neonates, i.e., patients less than 1 month of age.
-
-Safety and effectiveness in pediatric patients below the age of 16 years have not been established.
 
 Safety and effectiveness in pediatric patients have not been established for the management of peptic ulcer.
 

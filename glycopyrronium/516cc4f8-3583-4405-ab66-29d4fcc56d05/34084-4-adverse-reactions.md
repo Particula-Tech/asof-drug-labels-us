@@ -10,4 +10,4 @@ Injection site reactions including pruritus, edema, erythema, and pain have also
 Glycopyrrolate is chemically a quaternary ammonium compound; hence, its passage across lipid membranes, such as the blood-brain barrier is limited in contrast to atropine sulfate and scopolamine hydrobromide.
 For this reason the occurrence of CNS-related side effects is lower, in comparison to their incidence following administration of anticholinergics which are chemically tertiary amines that can cross this barrier readily.
 
-To report SUSPECTED ADVERSE REACTIONS, contact West-Ward Pharmaceutical Corp. at 1-877-233-2001, or the FDA at 1-800‑FDA‑1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact West-Ward Pharmaceutical Corp. at 1-877-233-2001, or FDA at 1-800‑FDA‑1088 or www.fda.gov/medwatch.
