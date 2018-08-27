@@ -1,5 +1,5 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-250mg Tablets: round, convex, white tablets, inscribed with SOMA 250
+250 mg Tablets: round, convex, white tablets, inscribed with SOMA 250
 
-350mg Tablets: round, convex, white tablets, inscribed with SOMA 350
+350 mg Tablets: round, convex, white tablets, inscribed with SOMA 350

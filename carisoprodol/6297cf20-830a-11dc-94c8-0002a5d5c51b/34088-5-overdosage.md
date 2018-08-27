@@ -1,5 +1,7 @@
 # 10 OVERDOSAGE
 
+Clinical Presentation
+
 Overdosage of SOMA commonly produces CNS depression.
 Death, coma, respiratory depression, hypotension, seizures, delirium, hallucinations, dystonic reactions, nystagmus, blurred vision, mydriasis, euphoria, muscular incoordination, rigidity, and/or headache have been reported with SOMA overdosage.
 Serotonin syndrome has been reported with carisoprodol intoxication.
@@ -7,7 +9,9 @@ Many of the carisoprodol overdoses have occurred in the setting of multiple drug
 The effects of an overdose of carisoprodol and other CNS depressants (e.g., alcohol, benzodiazepines, opioids, tricyclic antidepressants) can be additive even when one of the drugs has been taken in the recommended dosage.
 Fatal accidental and non-accidental overdoses of SOMA have been reported alone or in combination with CNS depressants.
 
-Treatment of Overdosage: Basic life support measures should be instituted as dictated by the clinical presentation of the SOMA overdose.
+Treatment of Overdosage
+
+Basic life support measures should be instituted as dictated by the clinical presentation of the SOMA overdose.
 Vomiting should not be induced because of the risk of CNS and respiratory depression, and subsequent aspiration.
 Circulatory support should be administered with volume infusion and vasopressor agents if needed.
 Seizures should be treated with intravenous benzodiazepines and the reoccurrence of seizures may be treated with phenobarbital.
