@@ -70,9 +70,9 @@ The safety and effectiveness of Pantoprazole Sodium for Injection have not been 
 
 Animal Toxicity Data
 
-In a pre- and post-natal development study in rats, the pups were administered oral doses of pantoprazole at 5, 15, and 30 mg/kg/day on PND 4 through PND 21, in addition to lactational exposure through milk.
+In a pre- and post-natal development study in rats, the pups were administered oral doses of pantoprazole at 5, 15, and 30 mg/kg/day on postnatal day (PND 4) through PND 21, in addition to lactational exposure through milk.
 On PND 21, decreased mean femur length and weight and changes in femur bone mass and geometry were observed in the offspring at 5 mg/kg/day and higher doses.
-Changes in bone parameters were partially reversible following a recovery period [see Use in Specific Populations (8.1)].
+Changes in bone parameters were partially reversible following a recovery period [seeUse in Specific Populations (8.1)].
 
 In neonatal/juvenile animals (rats and dogs) toxicities were similar to those observed in adult animals including gastric alterations, decreases in red cell mass, increases in lipids, enzyme induction and hepatocellular hypertrophy.
 An increased incidence of eosinophilic chief cells in adult and neonatal/juvenile rats, and atrophy of chief cells in adult rats and in neonatal/juvenile dogs, was observed in the fundic mucosa of stomachs in repeated-dose studies.

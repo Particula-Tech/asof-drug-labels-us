@@ -11,7 +11,7 @@ Pantoprazole Sodium for Injection 40 mg once daily does not raise gastric pH to 
 
 ## 2.2 Preparation and Administration Instructions for Gastroesophageal Reflux Disease Associated with a History of Erosive Esophagitis
 
-For intravenous infusion only.
+Only for intravenous infusion; other parenteral routes of administration are not recommended.
 
 Fifteen Minute Infusion
 
@@ -63,7 +63,7 @@ Patients with ZE Syndrome may be vulnerable to serious clinical complications of
 
 ## 2.4 Preparation and Administration Instructions for Pathological Hypersecretion Including Zollinger-Ellison Syndrome
 
-For intravenous infusion only.
+Only for intravenous infusion; other parenteral routes of administration are not recommended.
 
 Fifteen Minute Infusion
 

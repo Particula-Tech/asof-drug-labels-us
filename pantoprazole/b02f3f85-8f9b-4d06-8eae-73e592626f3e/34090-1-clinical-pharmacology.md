@@ -60,6 +60,8 @@ Endocrine Effects
 
 In a clinical pharmacology study, pantoprazole 40 mg given orally once daily for 2 weeks had no effect on the levels of the following hormones: cortisol, testosterone, triiodothyronine (T3), thyroxine (T4), thyroid-stimulating hormone, thyronine-binding protein, parathyroid hormone, insulin, glucagon, renin, aldosterone, follicle-stimulating hormone, luteinizing hormone, prolactin and growth hormone.
 
+In a 1-year study of GERD patients treated with pantoprazole 40 mg or 20 mg, there were no changes from baseline in overall levels of T3, T4, and TSH.
+
 ## 12.3 Pharmacokinetics
 
 Pantoprazole peak serum concentration (Cmax) and area under the serum concentration-time curve (AUC) increase in a manner proportional to intravenous doses of pantoprazole from 10 mg to 80 mg.
@@ -137,8 +139,8 @@ There was a 78% reduction in the Cmax and a 45% reduction in the AUC of MPA in p
 
 Other Drugs
 
-In vivo studies also suggest that pantoprazole does not significantly affect the kinetics of other drugs (cisapride, theophylline, diazepam [and its active metabolite, desmethyldiazepam], phenytoin, metoprolol, nifedipine, carbamazepine, midazolam, clarithromycin, naproxen, piroxicam and oral contraceptives [levonorgestrel/ethinyl estradiol]).
-In other in vivo studies, digoxin, ethanol, glyburide, antipyrine, caffeine, diclofenac, metronidazole, and amoxicillin had no clinically relevant interactions with pantoprazole.
+In vivo studies also suggest that pantoprazole does not significantly affect the kinetics of other drugs (cisapride, theophylline, diazepam [and its active metabolite, desmethyldiazepam], phenytoin, metoprolol, nifedipine, carbamazepine, midazolam, clarithromycin, diclofenac, naproxen, piroxicam and oral contraceptives [levonorgestrel/ethinyl estradiol]).
+In other in vivo studies, digoxin, ethanol, glyburide, antipyrine, caffeine, metronidazole, and amoxicillin had no clinically relevant interactions with pantoprazole.
 
 Although no significant drug-drug interactions have been observed in clinical studies, the potential for significant drug-drug interactions with more than once daily dosing with high doses of pantoprazole has not been studied in poor metabolizers or individuals who are hepatically impaired.
 
