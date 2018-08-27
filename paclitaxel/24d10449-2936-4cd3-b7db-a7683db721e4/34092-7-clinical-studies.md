@@ -61,7 +61,7 @@ Table 12: Efficacy Results from Randomized Non-Small Cell Lung Cancer Trial (Int
 | Squamous Cell Carcinoma | 94/229 (41%) | 54/221 (24%) |
 | Large Cell Carcinoma | 3/9 (33%) | 2/13 (15%) |
 | Other | 7/29 (24%) | 5/33 (15%) |
-| CI = confidence interval; DoR= Duration of response |  |  |
+| CI = confidence interval; DoR= Duration of response. |  |  |
 
 ## 14.3 Adenocarcinoma of the Pancreas
 

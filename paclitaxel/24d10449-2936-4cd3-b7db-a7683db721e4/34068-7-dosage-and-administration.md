@@ -46,7 +46,7 @@ For Grade 3 sensory neuropathy hold treatment until resolution to Grade 1 or 2, 
 
 Non-Small Cell Lung Cancer
 
-- Do not administer ABRAXANE on Day 1 of a cycle until absolute neutrophil count (ANC) is at least 1500 cells/mm3 and platelet count is at least 100,000 cells/mm3 [see Contraindications (4),Warnings and Precautions (5.1) and Adverse Reactions (6.2)].
+- Do not administer ABRAXANE on Day 1 of a cycle until absolute neutrophil count (ANC) is at least 1500 cells/mm3 and platelet count is at least 100,000 cells/mm3 [see Contraindications (4), Warnings and Precautions (5.1) and Adverse Reactions (6.2)].
 - In patients who develop severe neutropenia or thrombocytopenia withhold treatment until counts recover to an absolute neutrophil count of at least 1500 cells/mm3 and platelet count of at least 100,000 cells/mm3 on Day 1 or to an absolute neutrophil count of at least 500 cells/mm3 and platelet count of at least 50,000 cells/mm3 on Days 8 or 15 of the cycle.
   Upon resumption of dosing, permanently reduce ABRAXANE and carboplatin doses as outlined in Table 2.
 - Withhold ABRAXANE for Grade 3-4 peripheral neuropathy.

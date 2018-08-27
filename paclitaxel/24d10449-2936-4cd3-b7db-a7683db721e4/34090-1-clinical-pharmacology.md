@@ -4,7 +4,7 @@
 
 ABRAXANE is a microtubule inhibitor that promotes the assembly of microtubules from tubulin dimers and stabilizes microtubules by preventing depolymerization.
 This stability results in the inhibition of the normal dynamic reorganization of the microtubule network that is essential for vital interphase and mitotic cellular functions.
-Paclitaxel induces abnormal arrays or “bundles” of microtubules throughout the cell cycle and multiple asters of microtubules during mitosis.
+Paclitaxel induces abnormal arrays or "bundles" of microtubules throughout the cell cycle and multiple asters of microtubules during mitosis.
 
 ## 12.3 Pharmacokinetics
 
@@ -24,7 +24,7 @@ This contributes to significantly higher exposure to unbound paclitaxel with ABR
 In vitro studies of binding to human serum proteins, using paclitaxel concentrations ranging from 0.1 to 50 µg/mL, indicated that the presence of cimetidine, ranitidine, dexamethasone, or diphenhydramine did not affect protein binding of paclitaxel.
 The total volume of distribution is approximately 1741 L; the large volume of distribution indicates extensive extravascular distribution and/or tissue binding of paclitaxel.
 
-Metabolism In vitro studies with human liver microsomes and tissue slices showed that paclitaxel was metabolized primarily to 6α-hydroxypaclitaxel by CYP2C8; and to two minor metabolites, 3’-p-hydroxypaclitaxel and 6α, 3’-p-dihydroxypaclitaxel, by CYP3A4.
+Metabolism In vitro studies with human liver microsomes and tissue slices showed that paclitaxel was metabolized primarily to 6α-hydroxypaclitaxel by CYP2C8; and to two minor metabolites, 3'-p-hydroxypaclitaxel and 6α, 3'-p-dihydroxypaclitaxel, by CYP3A4.
 In vitro, the metabolism of paclitaxel to 6α-hydroxypaclitaxel was inhibited by a number of agents (ketoconazole, verapamil, diazepam, quinidine, dexamethasone, cyclosporin, teniposide, etoposide, and vincristine), but the concentrations used exceeded those found in vivo following normal therapeutic doses.
 Testosterone, 17α-ethinyl estradiol, retinoic acid, and quercetin, a specific inhibitor of CYP2C8, also inhibited the formation of 6α-hydroxypaclitaxel in vitro.
 The pharmacokinetics of paclitaxel may also be altered in vivo as a result of interactions with compounds that are substrates, inducers, or inhibitors of CYP2C8 and/or CYP3A4 [see Drug Interactions (7)].
@@ -32,7 +32,7 @@ The pharmacokinetics of paclitaxel may also be altered in vivo as a result of in
 Elimination At the clinical dose range of 80 to 300 mg/m2, the mean total clearance of paclitaxel ranges from 13 to 30 L/h/m2, and the mean terminal half-life ranges from 13 to 27 hours.
 
 After a 30-minute infusion of 260 mg/m2 doses of ABRAXANE, the mean values for cumulative urinary recovery of unchanged drug (4%) indicated extensive non-renal clearance.
-Less than 1% of the total administered dose was excreted in urine as the metabolites 6α-hydroxypaclitaxel and 3’-p-hydroxypaclitaxel.
+Less than 1% of the total administered dose was excreted in urine as the metabolites 6α-hydroxypaclitaxel and 3'-p-hydroxypaclitaxel.
 
 Fecal excretion was approximately 20% of the total dose administered.
 

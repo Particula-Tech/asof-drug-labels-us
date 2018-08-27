@@ -39,6 +39,8 @@ After ruling out infectious etiology and upon making a diagnosis of pneumonitis,
 
 Severe and sometimes fatal hypersensitivity reactions, including anaphylactic reactions, have been reported.
 Patients who experience a severe hypersensitivity reaction to ABRAXANE should not be rechallenged with this drug.
+Cross-hypersensitivity between ABRAXANE and other taxane products has been reported and may include severe reactions such as anaphylaxis.
+Patients with a previous history of hypersensitivity to other taxanes should be closely monitored during initiation of ABRAXANE therapy.
 
 ## 5.6 Hepatic Impairment
 
@@ -55,15 +57,12 @@ Based on effective donor screening and product manufacturing processes, it carri
 A theoretical risk for transmission of Creutzfeldt-Jakob Disease (CJD) also is considered extremely remote.
 No cases of transmission of viral diseases or CJD have ever been identified for albumin.
 
-## 5.8 Use in Pregnancy
+## 5.8 Embryo-Fetal Toxicity
 
-ABRAXANE can cause fetal harm when administered to a pregnant woman.
-Administration of paclitaxel formulated as albumin-bound particles to rats during pregnancy at doses lower than the maximum recommended human dose, based on body surface area, caused embryo-fetal toxicities, including intrauterine mortality, increased resorptions, reduced numbers of live fetuses, and malformations.
+Based on mechanism of action and findings in animals, ABRAXANE can cause fetal harm when administered to a pregnant woman.
+In animal reproduction studies, administration of paclitaxel formulated as albumin-bound particles to rats during pregnancy at doses lower than the maximum recommended human dose, based on body surface area, caused embryo-fetal toxicities, including intrauterine mortality, increased resorptions, reduced numbers of live fetuses, and malformations.
 
-There are no adequate and well-controlled studies in pregnant women receiving ABRAXANE.
-If this drug is used during pregnancy, or if the patient becomes pregnant while receiving this drug, the patient should be apprised of the potential hazard to the fetus.
-Women of childbearing potential should be advised to avoid becoming pregnant while receiving ABRAXANE [see Use in Specific Populations (8.1)].
+Advise females of reproductive potential of the potential risk to a fetus.
+Advise females of reproductive potential to use effective contraception and avoid becoming pregnant during treatment with ABRAXANE and for at least six months after the last dose of ABRAXANE [see Use in Specific Populations (8.1, 8.3) and Clinical Pharmacology (12.1)].
 
-## 5.9 Use in Men
-
-Men should be advised not to father a child while receiving ABRAXANE [see Nonclinical Toxicology (13.1)].
+Based on findings from genetic toxicity and animal reproduction studies, advise male patients with female partners of reproductive potential to use effective contraception and avoid fathering a child during treatment with ABRAXANE and for at least three months after the last dose of ABRAXANE [see Use in Specific Populations (8.1, 8.3) and Nonclinical Toxicology (13.1)].

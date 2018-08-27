@@ -154,7 +154,7 @@ The following common (≥ 10% incidence) adverse reactions were observed at a si
 
 Table 7 provides the frequency and severity of laboratory-detected abnormalities which occurred with a difference of ≥ 5% for all grades (1-4) or ≥ 2% for Grade 3-4 toxicity between ABRAXANE plus carboplatin-treated patients or paclitaxel injection plus carboplatin-treated patients.
 
-Table 7: Selected Hematologic Laboratory-Detected Abnormalities With a Difference of ≥ 5% for grades (1-4) or ≥ 2% for Grade 3-4 Toxicity Between Treatment Groups
+Table 7: Selected Hematologic Laboratory-Detected Abnormalities with a Difference of ≥ 5% for grades (1-4) or ≥ 2% for Grade 3-4 Toxicity Between Treatment Groups
 
 |  | ABRAXANE (100 mg/m2 weekly) plus carboplatin |  | Paclitaxel Injection (200 mg/m2 every 3 weeks) plus carboplatin |  |
 | --- | --- | --- | --- | --- |
@@ -162,9 +162,9 @@ Table 7: Selected Hematologic Laboratory-Detected Abnormalities With a Differenc
 | Anemia1,2 | 98 | 28 | 91 | 7 |
 | Neutropenia1,3 | 85 | 47 | 83 | 58 |
 | Thrombocytopenia1,3 | 68 | 18 | 55 | 9 |
-| 1 508 patients assessed in ABRAXANE/carboplatin-treated group |  |  |  |  |
-| 2 514 patients assessed in paclitaxel injection/carboplatin-treated group |  |  |  |  |
-| 3 513 patients assessed in paclitaxel injection/carboplatin-treated group |  |  |  |  |
+| 1 508 patients assessed in ABRAXANE/carboplatin-treated group. |  |  |  |  |
+| 2 514 patients assessed in paclitaxel injection/carboplatin-treated group. |  |  |  |  |
+| 3 513 patients assessed in paclitaxel injection/carboplatin-treated group. |  |  |  |  |
 
 Table 8 provides the frequency and severity of adverse reactions, which occurred with a difference of ≥ 5% for all grades (1-4) or ≥ 2% for Grade 3-4 between either treatment group for the 514 ABRAXANE plus carboplatin-treated patients compared with the 524 patients who received paclitaxel injection plus carboplatin.
 
@@ -194,14 +194,14 @@ Table 9 provides the frequency and severity of laboratory-detected abnormalities
 
 Table 9: Selected Hematologic Laboratory-Detected Abnormalities with a Higher Incidence (≥ 5% for Grades 1-4 or ≥ 2% for Grades 3-4 Events) in the ABRAXANE/Gemcitabine Arm
 
-|  | ABRAXANE(125 mg/m2)/ Gemcitabined |  | Gemcitabine |  |
+|  | ABRAXANE (125 mg/m2)/ Gemcitabined |  | Gemcitabine |  |
 | --- | --- | --- | --- | --- |
 | Grades 1-4 (%) | Grade 3-4 (%) | Grades 1-4 (%) | Grade 3-4 (%) |  |
 | Neutropeniaa,b | 73 | 38 | 58 | 27 |
 | Thrombocytopeniab,c | 74 | 13 | 70 | 9 |
-| a 405 patients assessed in ABRAXANE/gemcitabine-treated group |  |  |  |  |
-| b 388 patients assessed in gemcitabine-treated group |  |  |  |  |
-| c 404 patients assessed in ABRAXANE/gemcitabine-treated group |  |  |  |  |
+| a 405 patients assessed in ABRAXANE/gemcitabine-treated group. |  |  |  |  |
+| b 388 patients assessed in gemcitabine-treated group. |  |  |  |  |
+| c 404 patients assessed in ABRAXANE/gemcitabine-treated group. |  |  |  |  |
 | d Neutrophil growth factors were administered to 26% of patients in the ABRAXANE/gemcitabine group. |  |  |  |  |
 
 Table 10 provides the frequency and severity of adverse reactions which occurred with a difference of ≥ 5% for all grades or ≥ 2% for Grade 3 or higher in the ABRAXANE plus gemcitabine-treated group compared to the gemcitabine group.
@@ -261,6 +261,7 @@ In some instances, severe events observed with paclitaxel injection may be expec
 
 Hypersensitivity Reactions Severe and sometimes fatal hypersensitivity reactions have been reported with ABRAXANE.
 The use of ABRAXANE in patients previously exhibiting hypersensitivity to paclitaxel injection or human albumin has not been studied.
+In postmarketing experience, cross-hypersensitivity between ABRAXANE and other taxanes has been reported.
 
 Cardiovascular There have been reports of congestive heart failure, left ventricular dysfunction, and atrioventricular block with ABRAXANE.
 Most of the individuals were previously exposed to cardiotoxic drugs, such as anthracyclines, or had underlying cardiac history.
@@ -285,8 +286,10 @@ Injection Site Reaction There have been reports of extravasation of ABRAXANE.
 Given the possibility of extravasation, it is advisable to monitor closely the ABRAXANE infusion site for possible infiltration during drug administration.
 
 Severe events such as phlebitis, cellulitis, induration, necrosis, and fibrosis have been reported as part of the continuing surveillance of paclitaxel injection safety.
-In some cases the onset of the injection site reaction in paclitaxel injection patients either occurred during a prolonged infusion or was delayed by a week to ten days.
-Recurrence of skin reactions at a site of previous extravasation following administration of paclitaxel injection at a different site, i.e., “recall”, has been reported.
+In some cases, the onset of the injection site reaction in paclitaxel injection patients either occurred during a prolonged infusion or was delayed by a week to ten days.
+Recurrence of skin reactions at a site of previous extravasation following administration of paclitaxel injection at a different site, i.e., "recall", has been reported.
+
+Metabolic and Nutritional Disorders Tumor lysis syndrome has been reported with ABRAXANE.
 
 Other Clinical Events Skin reactions including generalized or maculopapular rash, erythema, and pruritus have been observed with ABRAXANE.
 There have been case reports of photosensitivity reactions, radiation recall phenomenon, and in some patients previously exposed to capecitabine, reports of palmar-plantar erythrodysesthesia.

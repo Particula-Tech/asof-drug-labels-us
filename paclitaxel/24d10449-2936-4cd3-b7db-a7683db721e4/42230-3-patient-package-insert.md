@@ -1,127 +1,35 @@
-Patient Information
-
-ABRAXANE® (ah-BRAKS-ane) (paclitaxel protein-bound particles for injectable suspension) (albumin-bound)
-
-Read this Patient Information before you start receiving ABRAXANE and before each infusion.
-This information does not take the place of talking with your doctor about your medical condition or your treatment.
-
-What is ABRAXANE?
-
-ABRAXANE is a prescription medicine used to treat:
-
-- advanced breast cancer in people who have already received certain other medicines for their cancer.
-- advanced non-small cell lung cancer, in combination with carboplatin in people who cannot be treated with surgery or radiation.
-- and advanced pancreatic cancer, when used in combination with gemcitabine as the first medicine for advanced pancreatic cancer.
-
-It is not known if ABRAXANE is safe or effective in children.
-
-Who should not receive ABRAXANE?
-
-Do not receive ABRAXANE if:
-
-- your white blood cell count is below 1,500 cells/ mm3.
-- you have had a severe allergic reaction to ABRAXANE.
-
-What should I tell my doctor before receiving ABRAXANE?
-Before you receive ABRAXANE, tell your doctor if you:
-
-- have liver or kidney problems.
-- have any other medical conditions.
-- are a man planning to father a child.
-  You should not father a child during your treatment with ABRAXANE.
-  ABRAXANE can harm the unborn baby of your partner.
-  Talk to your doctor if this is a concern to you.
-- are pregnant or plan to become pregnant.
-  ABRAXANE can harm your unborn baby.
-  You should not become pregnant while receiving ABRAXANE.
-  Women who may become pregnant should use effective birth control (contraception).
-  Talk to your doctor about the best way to prevent pregnancy while receiving ABRAXANE.
-- are breastfeeding or plan to breastfeed.
-  It is not known if ABRAXANE passes into your breast milk.
-  You and your doctor should decide if you will receive ABRAXANE or breastfeed.
-
-Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
-
-Know the medicines you take.
-Keep a list to show your doctor and pharmacist when you get a new medicine.
-
-How will I receive ABRAXANE?
-
-- Your doctor will prescribe ABRAXANE in an amount that is right for you.
-- Premedication to prevent allergic reactions is generally not needed to receive ABRAXANE.
-  Premedication may be needed if you have had an allergic reaction to ABRAXANE.
-  In case of severe allergic reaction, ABRAXANE should not be used again.
-- ABRAXANE will be given to you by intravenous infusion into your vein.
-- Your doctor should do regular blood tests while you receive ABRAXANE.
-
-What are the possible side effects of ABRAXANE?
-
-ABRAXANE may cause serious side effects, including:
-
-- decreased blood cell counts.
-  ABRAXANE can cause a severe decrease in neutrophils (a type of white blood cells important in fighting against bacterial infections) and platelets (important for clotting and to control bleeding).
-  Your doctor will check your blood cell count during your treatment with ABRAXANE and after you have stopped your treatment.
-- numbness, tingling, pain, or weakness in your hands or feet (neuropathy).
-- severe infection (sepsis).
-  If you receive ABRAXANE in combination with gemcitabine, infections can be severe and lead to death.
-  Tell your doctor right away if you have a fever (temperature of greater than 100.4° F) or develop signs of infection.
-- lung or breathing problems.
-  If you receive ABRAXANE in combination with gemcitabine, lung or breathing problems may be severe and can lead to death.
-  Tell your doctor right away if you have a sudden onset of persistent dry cough or shortness of breath.
-- allergic reactions.
-  Allergic reactions to ABRAXANE may be severe and can lead to death.
-
-The most common side effects of ABRAXANE include:
-
-- hair loss
-- numbness, tingling, pain, or weakness in the hands or feet
-- abnormal heart beat
-- tiredness
-- joint and muscle pain
-- changes in your liver function tests
-- rash
-- low red blood cell count (anemia).
-  Red blood cells carry oxygen to your body tissues.
-  Tell your doctor if you feel weak, tired or short of breath.
-- nausea and vomiting
-- infections.
-  If you have a fever (temperature of greater than 100.4° F) or other signs of infection, tell your doctor right away.
-- Diarrhea
-- Loss of body fluid (dehydration)
-- Swelling in the hands or feet
-
-These are not all the possible side effects of ABRAXANE.
-For more information, ask your doctor or pharmacist.
-
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
-
-General information about the safe and effective use of ABRAXANE.
-
-Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
-
-This Patient Information leaflet summarizes the important information about ABRAXANE.
-If you would like more information, talk to your doctor.
-You can ask your doctor or pharmacist for information about ABRAXANE that is written for health professionals.
-
-For more information, call 1-888-423-5436.
-
-What are the ingredients in ABRAXANE?
-
-Active ingredient: paclitaxel (bound to human albumin).
-
-Other ingredient: human albumin (containing sodium caprylate and sodium acetyltryptophanate)
-
-This Patient Information has been approved by the U.S. Food and Drug Administration.
-
-Revised: July 2015
-
-Manufactured for: Celgene Corporation Summit, NJ 07901
-
-ABRAXANE® is a registered trademark of Abraxis BioScience, LLC. ©2005-2015 Abraxis BioScience, LLC.
-All Rights Reserved.
-Abraxis BioScience, LLC is a wholly owned subsidiary of Celgene Corporation.
-
-U.S. Patent Numbers: See www.celgene.com.
-
-ABRPPI.009 07/15
+| Patient Information ABRAXANE® (ah-BRAKS-ane) (paclitaxel protein-bound particles for injectable suspension) (albumin-bound) |  |
+| --- | --- |
+| What is ABRAXANE? |  |
+| ABRAXANE is a prescription medicine used to treat: advanced breast cancer in people who have already received certain other medicines for their cancer.advanced non-small cell lung cancer, in combination with carboplatin in people who cannot be treated with surgery or radiation.advanced pancreatic cancer, when used in combination with gemcitabine as the first medicine for advanced pancreatic cancer. |  |
+| It is not known if ABRAXANE is safe or effective in children. |  |
+| Do not receive ABRAXANE if: your white blood cell count is below 1,500 cells/ mm3.you have had a severe allergic reaction to ABRAXANE. |  |
+| Before you receive ABRAXANE, tell your healthcare provider about all of your medical conditions, including if you: have liver or kidney problems.had a prior allergic reaction to a taxane.are pregnant or plan to become pregnant. ABRAXANE can harm your unborn baby. Females who are able to become pregnant: Your healthcare provider should do a pregnancy test before you start treatment with ABRAXANE. You should not become pregnant during your treatment and for at least six months after the last dose of ABRAXANE. You should use effective birth control (contraception) during your treatment and for at least six months after the last dose of ABRAXANE. Talk to your healthcare provider about birth control methods you can use during this time. Males with a female sexual partner who can become pregnant: ABRAXANE can harm the unborn baby of your partner.You should not father a child during your treatment and for at least three months after the last dose of ABRAXANE. You should use effective birth control (contraception) during your treatment and for at least three months after the last dose of ABRAXANE. are breastfeeding or plan to breastfeed. Do not breastfeed during your treatment and for two weeks after the last dose of ABRAXANE. |  |
+| Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements. |  |
+| Know the medicines you take. Keep a list to show your healthcare provider and pharmacist when you get a new medicine. |  |
+| How will I receive ABRAXANE? Your healthcare provider will prescribe ABRAXANE in an amount that is right for you.Your healthcare provider may give you certain medicines to help prevent allergic reactions if you have had an allergic reaction to ABRAXANE in the past.ABRAXANE will be given to you by intravenous (IV) infusion into your vein.Your healthcare provider should do blood tests regularly during treatment with ABRAXANE.Your healthcare provider may stop your treatment, delay your treatment, or change your dose of ABRAXANE if you have certain side effects. |  |
+| What are the possible side effects of ABRAXANE? |  |
+| ABRAXANE may cause serious side effects, including: decreased blood cell counts. ABRAXANE can cause a severe decrease in neutrophils, a type of white blood cell which helps fight infections, and blood cells called platelets which help to clot blood. Your healthcare provider will check your blood cell count during your treatment with ABRAXANE.nerve problems (neuropathy). Tell your healthcare provider if you have numbness, tingling, pain, or weakness in your hands or feet.severe infection (sepsis). If you receive ABRAXANE in combination with gemcitabine, infections can be severe and lead to death. Tell your healthcare provider right away if you have a fever (temperature greater than 100.4° F) or develop signs of infection.lung or breathing problems. If you receive ABRAXANE in combination with gemcitabine, lung or breathing problems may be severe and can lead to death. Tell your healthcare provider right away if you suddenly get a dry cough that will not go away or shortness of breath.allergic reactions. Severe allergic reactions are medical emergencies that can happen in people who receive ABRAXANE and can lead to death. You may have an increased risk of having an allergic reaction to ABRAXANE if you are allergic to other taxane medicines. Your healthcare provider will monitor you closely for allergic reactions during your infusion of ABRAXANE. Tell your healthcare provider right away if you get any of these signs of a serious allergic reaction: trouble breathing, sudden swelling of your face, lips, tongue, throat, or trouble swallowing, hives (raised bumps), rash, or redness all over your body. |  |
+| The most common side effects of ABRAXANE in people with breast cancer include: |  |
+| hair lossnumbness, tingling, pain, or weakness in the hands or feettirednesschanges in your liver function testsnauseadiarrheainfections | decreased white blood cell countabnormal heartbeatjoint and muscle painlow red blood cell count (anemia). Red blood cells carry oxygen to your body tissues. Tell your healthcare provider if you feel weak, tired or short of breath. |
+| The most common side effects of ABRAXANE in people with non-small cell lung cancer include: |  |
+| low red blood cell count (anemia)decreased platelet cell countnumbness, tingling, pain, or weakness in the hands or feettiredness | decreased white blood cell counthair lossnausea |
+| The most common side effects of ABRAXANE in people with pancreatic cancer include: |  |
+| decreased white blood cell countnumbness, tingling, pain, or weakness in the hands or feethair lossdiarrheavomitingrash | tirednessnauseaswelling in the hands or feetfeverdecreased appetitesigns of dehydration including, thirst, dry mouth, dark yellow urine, decreased urine, headache, or muscle cramps |
+| Tell your healthcare provider if you have vomiting, diarrhea or signs of dehydration that does not go away. |  |
+| ABRAXANE may cause fertility problems in males and females, which may affect your ability to have a child. Talk to your healthcare provider if this is a concern for you. These are not all the possible side effects of ABRAXANE. |  |
+| Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |
+| General information about the safe and effective use of ABRAXANE. |  |
+| Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. You can ask your healthcare provider or pharmacist for information about ABRAXANE that is written for health professionals. |  |
+| What are the ingredients in ABRAXANE? |  |
+| Active ingredient: paclitaxel (bound to human albumin). |  |
+| Other ingredient: human albumin (containing sodium caprylate and sodium acetyltryptophanate). |  |
+| Manufactured for: Celgene Corporation Summit, NJ 07901 |  |
+| ABRAXANE® is a registered trademark of Abraxis BioScience, LLC. |  |
+| ©2005-2018 Abraxis BioScience, LLC. |  |
+| All Rights Reserved. |  |
+| Abraxis BioScience, LLC is a wholly owned subsidiary of Celgene Corporation. |  |
+| U.S. Patent Numbers: www.celgene.com/therapies |  |
+| ABRPPI.010 08/18 |  |
+| For more information, call 1-888-423-5436. |  |
+| This Patient Information has been approved by the U.S. Food and Drug Administration. | Revised: August 2018 |

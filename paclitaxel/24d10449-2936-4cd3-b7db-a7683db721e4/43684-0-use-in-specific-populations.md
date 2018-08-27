@@ -2,22 +2,62 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see Warnings and Precautions (5.8)].
+Risk Summary
 
-There are no adequate and well-controlled studies in pregnant women using ABRAXANE.
-Based on its mechanism of action and findings in animals, ABRAXANE can cause fetal harm when administered to a pregnant woman.
-If this drug is used during pregnancy, or if the patient becomes pregnant while receiving this drug, the patient should be apprised of the potential hazard to the fetus.
-Women of childbearing potential should be advised to avoid becoming pregnant while receiving ABRAXANE.
+Based on its mechanism of action and findings in animals, ABRAXANE can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)].
+There are no available human data to inform the drug-associated risk.
 
-Administration of paclitaxel formulated as albumin-bound particles to rats during pregnancy, on gestation days 7 to 17 at doses of 6 mg/m2 (approximately 2% of the daily maximum recommended human dose on a mg/m2 basis) caused embryofetal toxicities, as indicated by intrauterine mortality, increased resorptions (up to 5-fold), reduced numbers of litters and live fetuses, reduction in fetal body weight and increase in fetal anomalies.
+In animal reproduction studies, administration of paclitaxel formulated as albumin-bound particles to pregnant rats during the period of organogenesis resulted in embryo-fetal toxicity at doses approximately 2% of the daily maximum recommended human dose on a mg/m2 basis.
+[see Data].
+Advise females of reproductive potential of the potential risk to a fetus.
+
+The background rate of major birth defects and miscarriage is unknown for the indicated population.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+Data
+
+Animal Data
+
+In embryo-fetal development studies, intravenous administration of paclitaxel formulated as albumin-bound particles to rats during pregnancy, on gestation days 7 to 17 at doses of 6 mg/m2 (approximately 2% of the daily maximum recommended human dose on a mg/m2 basis) caused embryo-fetal toxicities, as indicated by intrauterine mortality, increased resorptions (up to 5-fold), reduced numbers of litters and live fetuses, reduction in fetal body weight and increase in fetal anomalies.
 Fetal anomalies included soft tissue and skeletal malformations, such as eye bulge, folded retina, microphthalmia, and dilation of brain ventricles.
-A lower incidence of soft tissue and skeletal malformations were also exhibited at 3 mg/m2 (approximately 1% of the daily maximum recommended human dose on a mg/m2 basis).
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-It is not known whether paclitaxel is excreted in human milk.
-Paclitaxel and/or its metabolites were excreted into the milk of lactating rats.
-Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants, a decision should be made to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Risk Summary
+
+There are no data on the presence of paclitaxel in human milk, or its effect on the breastfed child or on milk production.
+In animal studies, paclitaxel and/or its metabolites were excreted into the milk of lactating rats [see Data].
+Because of the potential for serious adverse reactions in a breastfed child from ABRAXANE, advise lactating women not to breastfeed during treatment with ABRAXANE and for two weeks after the last dose.
+
+Data
+
+Animal Data
+
+Following intravenous administration of radiolabeled paclitaxel to rats on days 9 to 10 postpartum, concentrations of radioactivity in milk were higher than in plasma and declined in parallel with the plasma concentrations.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Pregnancy Testing
+
+Based on animal studies, ABRAXANE can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
+Females of reproductive potential should have a pregnancy test prior to starting treatment with ABRAXANE.
+
+Contraception
+
+Females
+
+ABRAXANE can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
+Advise females of reproductive potential to use effective contraception and avoid becoming pregnant during treatment with ABRAXANE and for at least six months after the last dose of ABRAXANE.
+
+Males
+
+Based on findings in genetic toxicity and animal reproduction studies, advise males with female partners of reproductive potential to use effective contraception and avoid fathering a child during treatment with ABRAXANE and for at least three months after the last dose of ABRAXANE [see Use in Specific Populations (8.1) and Nonclinical Toxicology (13.1)].
+
+Infertility
+
+Females and Males
+
+Based on findings in animals, ABRAXANE may impair fertility in females and males of reproductive potential [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
