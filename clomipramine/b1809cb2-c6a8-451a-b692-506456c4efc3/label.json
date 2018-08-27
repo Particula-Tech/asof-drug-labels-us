@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA208961"
+  ],
+  "inn": "clomipramine",
+  "labeler": "Northstar Rx LLC.",
+  "package_ndcs": [
+    "16714-849-01",
+    "16714-849-02",
+    "16714-849-03",
+    "16714-850-01",
+    "16714-850-02",
+    "16714-850-03",
+    "16714-851-01",
+    "16714-851-02",
+    "16714-851-03"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "clomipramine hydrochloride",
+      "name": "Clomipramine Hydrochloride"
+    }
+  ],
+  "setid": "b1809cb2-c6a8-451a-b692-506456c4efc3",
+  "source": "dailymed"
+}
