@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA210997"
+  ],
+  "inn": "glycopyrronium",
+  "labeler": "Exela Pharma Sciences, LLC",
+  "package_ndcs": [
+    "51754-6000-4",
+    "51754-6001-4"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "glycopyrrolate",
+      "name": "GLYRX-PF"
+    }
+  ],
+  "setid": "2189f3f5-39dc-4e85-b7c6-9515ded59686",
+  "source": "dailymed"
+}
