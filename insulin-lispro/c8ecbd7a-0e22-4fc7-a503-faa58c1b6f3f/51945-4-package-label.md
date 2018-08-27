@@ -10,15 +10,13 @@ VL-7510
 
 Humalog®
 
-insulin lispro injection, USP
-
-(rDNA origin)
+insulin lispro injection
 
 Rx only
 
 U-100
 
-humalog.com
+www.humalog.com
 
 Lilly
 
@@ -28,7 +26,7 @@ NDC 0002-8799-59
 
 Humalog KwikPen®
 
-insulin lispro injection, USP (rDNA origin)
+insulin lispro injection
 
 For Single Patient Use Only
 
@@ -54,13 +52,15 @@ PACKAGE CARTON – HUMALOG Cartridge 3mL
 
 NDC 0002-7516-59
 
+100 units per mL
+
 VL-7516
 
 5 x 3 mL Cartridges
 
 Humalog®
 
-insulin lispro injection, USP (rDNA origin)
+insulin lispro injection
 
 For Single Patient Use Only
 

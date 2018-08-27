@@ -1,6 +1,6 @@
 Patient Information
 
-HUMALOG® (HU-ma-log) (insulin lispro injection, USP [rDNA origin]) for injection
+HUMALOG® (HU-ma-log) (insulin lispro injection)
 
 What is HUMALOG?
 
@@ -110,12 +110,12 @@ For more information, go to www.humalog.com or call 1-800-545-5979.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
-Patient Information revised: March 13, 2015
+Patient Information revised: August 13, 2018
 
-Copyright © 1996, 2015, Eli Lilly and Company.
+Copyright © 1996, 2018, Eli Lilly and Company.
 All rights reserved.
 
-LOG-0002-PPI-20150313
+LOG-0003-PPI-20180813
 
 | Patient Information HUMALOG KwikPen® insulin lispro injection U-200 (200 units per mL) |
 | --- |
