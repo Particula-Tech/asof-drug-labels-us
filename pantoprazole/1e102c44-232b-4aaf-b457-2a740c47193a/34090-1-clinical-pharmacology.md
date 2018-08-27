@@ -44,7 +44,7 @@ However, by 24 hours following the last dose, median serum gastrin concentration
 
 In another placebo-controlled, 7-day study of 40 mg intravenous or oral pantoprazole in patients with GERD and a history of EE, the mean serum gastrin concentration increased approximately 50% from baseline and as compared with placebo, but remained within the normal range.
 
-During 6 days of repeated administration of intravenous pantoprazole sodium in patients with ZE syndrome, consistent changes of serum gastrin concentrations from baseline were not observed.
+During 6 days of repeated administration of intravenous pantoprazole sodium in patients with ZE Syndrome, consistent changes of serum gastrin concentrations from baseline were not observed.
 
 Enterochromaffin-Like (ECL) Cell Effects
 
@@ -59,6 +59,8 @@ In a separate study, a gastric NE-cell tumor without concomitant ECL-cell prolif
 Endocrine Effects
 
 In a clinical pharmacology study, pantoprazole 40 mg given orally once daily for 2 weeks had no effect on the levels of the following hormones: cortisol, testosterone, triiodothyronine (T3), thyroxine (T4), thyroid-stimulating hormone, thyronine-binding protein, parathyroid hormone, insulin, glucagon, renin, aldosterone, follicle-stimulating hormone, luteinizing hormone, prolactin and growth hormone.
+
+In a 1-year study of GERD patients treated with pantoprazole 40 mg or 20 mg, there were no changes from baseline in overall levels of T3, T4, and TSH.
 
 ## 12.3 Pharmacokinetics
 
@@ -137,8 +139,8 @@ There was a 78% reduction in the Cmax and a 45% reduction in the AUC of MPA in p
 
 Other Drugs
 
-In vivo studies also suggest that pantoprazole does not significantly affect the kinetics of other drugs (cisapride, theophylline, diazepam [and its active metabolite, desmethyldiazepam], phenytoin, metoprolol, nifedipine, carbamazepine, midazolam, clarithromycin, naproxen, piroxicam and oral contraceptives [levonorgestrel/ethinyl estradiol]).
-In other in vivo studies, digoxin, ethanol, glyburide, antipyrine, caffeine, diclofenac, metronidazole, and amoxicillin had no clinically relevant interactions with pantoprazole.
+In vivo studies also suggest that pantoprazole does not significantly affect the kinetics of other drugs (cisapride, theophylline, diazepam [and its active metabolite, desmethyldiazepam], phenytoin, metoprolol, nifedipine, carbamazepine, midazolam, clarithromycin, diclofenac, naproxen, piroxicam and oral contraceptives [levonorgestrel/ethinyl estradiol]).
+In other in vivo studies, digoxin, ethanol, glyburide, antipyrine, caffeine, metronidazole, and amoxicillin had no clinically relevant interactions with pantoprazole.
 
 Although no significant drug-drug interactions have been observed in clinical studies, the potential for significant drug-drug interactions with more than once daily dosing with high doses of pantoprazole has not been studied in poor metabolizers or individuals who are hepatically impaired.
 

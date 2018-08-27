@@ -42,6 +42,6 @@ NOVAPLUS is a registered trademark of Vizient, Inc.
 
 NOVAPLUS®
 
-October 2017
+August 2018
 
-PIN485-NOV/1
+PIN485-NOV/2

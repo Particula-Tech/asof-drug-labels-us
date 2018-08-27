@@ -4,7 +4,7 @@
 
 In adults, symptomatic response to therapy with Pantoprazole Sodium for Injection does not preclude the presence of gastric malignancy.
 Consider additional follow-up and diagnostic testing in adult patients who have a suboptimal response or an early symptomatic relapse after completing treatment with a PPI.
-In older patients, consider an endoscopy.
+In older patients, also consider an endoscopy.
 
 ## 5.2 Hypersensitivity and Severe Skin Reactions
 
@@ -76,3 +76,16 @@ Pantoprazole sodium may produce a false-positive urine screen for THC (tetrahydr
 
 Literature suggests that concomitant use of PPIs with methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite, possibly leading to methotrexate toxicities.
 In high-dose methotrexate administration, a temporary withdrawal of the PPI may be considered in some patients [see Drug Interactions (7)].
+
+## 5.12 Fundic Gland Polyps
+
+PPI use is associated with an increased risk of fundic gland polyps that increases with long-term use, especially beyond one year.
+Most PPI users who developed fundic gland polyps were asymptomatic and fundic polyps were identified incidentally on endoscopy.
+Use the shortest duration of PPI therapy appropriate to the condition being treated.
+
+## 5.13 Interference with Investigations for Neuroendocrine Tumors
+
+Serum chromogranin A (CgA) levels increase secondary to drug-induced decreases in gastric acidity.
+The increased CgA level may cause false positive results in diagnostic investigations for neuroendocrine tumors.
+Healthcare providers should temporarily stop Pantoprazole Sodium for Injection treatment at least 14 days before assessing CgA levels and consider repeating the test if initial CgA levels are high.
+If serial tests are performed (e.g. for monitoring), the same commercial laboratory should be used for testing, as reference ranges between tests may vary [see Clinical Pharmacology (12.2)].
