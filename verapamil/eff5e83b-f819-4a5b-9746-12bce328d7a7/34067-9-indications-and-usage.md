@@ -2,9 +2,9 @@
 
 Verapamil is indicated for the treatment of supraventricular tachyarrhythmias, including:
 
-- Rapid conversion to sinus rhythm of paroxysmal supraventricular tachycardias, including those associated with accessory bypass tracts (Wolff-Parkinson-White [WPW] and Lown-Ganong-Levine [LGL] syndromes).
+- •Rapid conversion to sinus rhythm of paroxysmal supraventricular tachycardias, including those associated with accessory bypass tracts (Wolff-Parkinson-White [WPW] and Lown-Ganong-Levine [LGL] syndromes).
   When clinically advisable, appropriate vagal maneuvers (e.g., Valsalva maneuver) should be attempted prior to Verapamil administration.
-- Temporary control of rapid ventricular rate in atrial flutter or atrial fibrillation, except when the atrial flutter and/or atrial fibrillation are associated with accessory bypass tracts (Wolff-Parkinson-White [WPW] and Lown-Ganong-Levine [LGL] syndromes).
+- •Temporary control of rapid ventricular rate in atrial flutter or atrial fibrillation, except when the atrial flutter and/or atrial fibrillation are associated with accessory bypass tracts (Wolff-Parkinson-White [WPW] and Lown-Ganong-Levine [LGL] syndromes).
 
 In controlled studies in the U.S., about 60% of patients with supraventricular tachycardia converted to normal sinus rhythm within 10 minutes after intravenous Verapamil hydrochloride.
 Uncontrolled studies reported in the world literature describe a conversion rate of about 80%.

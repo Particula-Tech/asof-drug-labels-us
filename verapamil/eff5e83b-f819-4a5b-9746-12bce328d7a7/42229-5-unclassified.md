@@ -6,9 +6,12 @@ All forms are individually packaged.
 | --- | --- | --- |
 | 5-mg (2 ml) vial | 51754-0203-2 | 5 |
 | 5-mg (2 ml) vial | 51754-0203-4 | 25 |
+| 10-mg (4 mL) vial | 51754-0205-2 | 5 |
 
 Store at 59° to 86°F (15° to 30°C) [See USP Controlled Room Temperature.]
 
-Distributed and Manufactured By Exela Pharma Sciences Lenoir, NC 28645
+Distributed and Manufactured By: Exela Pharma Sciences
 
-Revised November 2016
+Lenoir, NC 28645
+
+Revised May 2018

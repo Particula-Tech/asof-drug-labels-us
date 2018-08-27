@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Verapamil hydrochloride is a calcium antagonist or slow-channel inhibitor available as a sterile solution for intravenous injection in 5-mg (2 ml) ampules, 5-mg (2 ml) and 10-mg (4 ml) syringes, and 5-mg (2 ml) and 10-mg (4 ml) vials.
+Verapamil hydrochloride is a calcium antagonist or slow-channel inhibitor available as a sterile solution for intravenous injection in 5-mg (2 ml) and 10-mg (4 ml) vials.
 Each form contains Verapamil HCl 2.5 mg/ml and sodium chloride 8.5 mg/ml in water for injection.
 Hydrochloric acid and/or sodium hydroxide is used for pH adjustment.
 The pH of the solution is between 4.1 and 6.0.
