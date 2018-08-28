@@ -10,7 +10,7 @@ Combined P-gp and strong CYP3A inducers decrease exposure to rivaroxaban and may
 
 Interaction with Combined P-gp and Strong CYP3A Inhibitors
 
-Avoid concomitant administration of XARELTO with known combined P-gp and strong CYP3A4 inhibitors (e.g., ketoconazole and ritonavir) [see Warnings and Precautions (5.6) and Clinical Pharmacology (12.3)].
+Avoid concomitant administration of XARELTO with known combined P-gp and strong CYP3A inhibitors (e.g., ketoconazole and ritonavir) [see Warnings and Precautions (5.6) and Clinical Pharmacology (12.3)].
 
 Although clarithromycin is a combined P-gp and strong CYP3A inhibitor, pharmacokinetic data suggests that no precautions are necessary with concomitant administration with XARELTO as the change in exposure is unlikely to affect the bleeding risk [see Clinical Pharmacology (12.3)].
 

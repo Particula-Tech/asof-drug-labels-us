@@ -18,14 +18,14 @@ The terminal elimination half-life of rivaroxaban is 5 to 9 hours in healthy sub
 Concomitant use of other drugs that impair hemostasis increases the risk of bleeding.
 These include aspirin, P2Y12 platelet inhibitors, other antithrombotic agents, fibrinolytic therapy, non-steroidal anti-inflammatory drugs (NSAIDs) [see Drug Interactions (7.4)], selective serotonin reuptake inhibitors, and serotonin norepinephrine reuptake inhibitors.
 
-Concomitant use of drugs that are known combined P-gp and strong CYP3A4 inhibitors increases rivaroxaban exposure and may increase bleeding risk [see Drug Interactions (7.2)].
+Concomitant use of drugs that are known combined P-gp and strong CYP3A inhibitors increases rivaroxaban exposure and may increase bleeding risk [see Drug Interactions (7.2)].
 
 Reversal of Anticoagulant Effect
 
 An agent to reverse the anti-factor Xa activity of rivaroxaban is available.
 Because of high plasma protein binding, rivaroxaban is not dialyzable [see Clinical Pharmacology (12.3)].
 Protamine sulfate and vitamin K are not expected to affect the anticoagulant activity of rivaroxaban.
-Use of procoagulant reversal agents, such as prothrombin complex concentrate (PCC), activated prothrombin complex concentrate or recombinant factor VIIa may be considered but has not been evaluated in clinical efficacy and safety studies.
+Use of procoagulant reversal agents, such as prothrombin complex concentrate (PCC), activated prothrombin complex concentrate or recombinant factor VIIa, may be considered but has not been evaluated in clinical efficacy and safety studies.
 Monitoring for the anticoagulation effect of rivaroxaban using a clotting test (PT, INR or aPTT) or anti-factor Xa (FXa) activity is not recommended.
 
 ## 5.3 Spinal/Epidural Anesthesia or Puncture

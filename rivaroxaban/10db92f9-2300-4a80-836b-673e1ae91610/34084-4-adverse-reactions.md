@@ -193,4 +193,4 @@ Immune system disorders: hypersensitivity, anaphylactic reaction, anaphylactic s
 
 Nervous system disorders: cerebral hemorrhage, subdural hematoma, epidural hematoma, hemiparesis
 
-Skin and subcutaneous tissue disorders: Stevens-Johnson syndrome
+Skin and subcutaneous tissue disorders: Stevens-Johnson syndrome, drug reaction with eosinophilia and systemic symptoms (DRESS)
