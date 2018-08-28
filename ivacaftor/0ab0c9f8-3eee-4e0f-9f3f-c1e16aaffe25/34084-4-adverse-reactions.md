@@ -18,6 +18,7 @@ In addition, the following clinical trials have also been conducted [see Clinica
   Of 34 patients enrolled, 32 had the G551D mutation and 2 had the S549N mutation.
 - An 8-week, crossover design trial (Trial 7) involving patients between the ages of 12 and 72 years who were heterozygous for the F508del mutation and a second CFTR mutation predicted to be responsive to ivacaftor.
   A total of 156 patients were randomized to and received KALYDECO.
+- A cohort of 19 patients aged 12 months to less than 24 months in a 24-week, open-label clinical trial in patients with CF aged less than 24 months (Trial 8).
 
 Of the 353 patients included in the pooled analyses of patients with CF who had either a G551D mutation or were homozygous for the F508del mutation in the CFTR gene, 50% of patients were female and 97% were Caucasian; 221 received KALYDECO, and 132 received placebo from 16 to 48 weeks.
 
@@ -54,7 +55,7 @@ Adverse reactions in the 48-week clinical trials that occurred in the KALYDECO g
 - Respiratory, thoracic and mediastinal disorders: pharyngeal erythema, pleuritic pain, sinus congestion, wheezing
 - Skin and subcutaneous tissue disorders: acne
 
-The safety profile for the CF patients enrolled in the other clinical trials (Trials 3-7) was similar to that observed in the 48-week, placebo-controlled trials (Trials 1 and 2).
+The safety profile for the CF patients enrolled in the other clinical trials (Trials 3-8) was similar to that observed in the 48-week, placebo-controlled trials (Trials 1 and 2).
 
 Laboratory Abnormalities
 
@@ -67,3 +68,7 @@ During the 24-week, open-label, clinical trial in 34 patients ages 2 to less tha
 All 5 patients had maximum ALT or AST levels >8 × ULN, which returned to baseline levels following interruption of KALYDECO dosing.
 Transaminase elevations were more common in patients who had abnormal transaminases at baseline.
 KALYDECO was permanently discontinued in one patient [see Warnings and Precautions (5.1)].
+
+During the 24-week, open-label, clinical trial in 19 patients aged 12 months to less than 24 months (Trial 8), the incidence of patients experiencing transaminase elevations (ALT or AST) >3, >5, and >8 × ULN was 27.8% (5/18), 11.1% (2/18) and 11.1% (2/18), respectively.
+No patients had elevations in total bilirubin.
+No subjects discontinued ivacaftor treatment due to transaminase elevations [see Warnings and Precautions (5.1)].

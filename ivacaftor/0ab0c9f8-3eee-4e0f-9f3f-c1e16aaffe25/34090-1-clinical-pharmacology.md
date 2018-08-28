@@ -21,7 +21,7 @@ Mutations including F508del that are not responsive to ivacaftor potentiation, b
 
 Figure 1: Net Change Over Baseline (% of Normal) in CFTR-Mediated Chloride Transport Following Addition of Ivacaftor in FRT Cells Expressing Mutant CFTR (Ussing Chamber Electrophysiology Data)
 
-*Clinical data exist for these mutations [see Clinical Studies (14)]. #A46D, G85E, E92K, P205S, R334W,R347P, T338I, S492F, I507del, V520F, A559T, R560S, R560T, A561E, L927P, H1054D, G1061R, L1065P, R1066C, R1066H, R1066M, L1077P, H1085R, M1101K, W1282X, N1303K mutations in the CFTR gene do not meet the threshold of change in CFTR mediated chloride transport of at least 10% of normal over baseline.
+* Clinical data exist for these mutations [see Clinical Studies (14)]. # A46D, G85E, E92K, P205S, R334W, R347P, T338I, S492F, I507del, V520F, A559T, R560S, R560T, A561E, L927P, H1054D, G1061R, L1065P, R1066C, R1066H, R1066M, L1077P, H1085R, M1101K, W1282X, N1303K mutations in the CFTR gene do not meet the threshold of change in CFTR mediated chloride transport of at least 10% of normal over baseline.
 
 Note that splice mutations cannot be studied in this FRT assay and are not included in Figure 1.
 Evidence of clinical efficacy exists for non-canonical splice mutations 2789+5G→A, 3272-26A→G, 3849+10kbC→T, 711+3A→G and E831X and these are listed in Table 3 below [see also Clinical Studies (14.4)].
@@ -51,6 +51,9 @@ In a two-part, randomized, double-blind, placebo-controlled, crossover clinical 
 The mean changes in sweat chloride for the mutations for which KALYDECO is indicated ranged from -51 to -8, whereas the range for individual subjects with the G970R mutation was -1 to -11 mmol/L.
 In an open-label clinical trial in 34 patients ages 2 to less than 6 years administered either 50 mg or 75 mg of ivacaftor twice daily (Trial 6), the mean absolute change from baseline in sweat chloride through 24 weeks of treatment was -45 mmol/L (95% CI -53, -38) [see Use in Specific Populations (8.4)].
 In a randomized, double-blind, placebo controlled, 2-period, 3-treatment, 8-week crossover study in patients with CF age 12 years and older who were heterozygous for the F508del mutation and with a second CFTR mutation predicted to be responsive to ivacaftor (Trial 7), the treatment difference in mean change in sweat chloride from study baseline to the average of week 4 and week 8 of treatment for KALYDECO treated patients was -4.5 mmol/L (95% CI -6.7, -2.3).
+
+In a 24-week, open-label clinical trial in patients with CF aged less than 24 months administered either 50 mg or 75 mg of ivacaftor twice daily (Trial 8), the mean absolute change from baseline in sweat chloride for patients aged 12 months to less than 24 months (n=10) was -73.5 mmol/L (95% CI -86.0, -61.0) at week 24.
+[see Use in Specific Populations (8.4)].
 
 There was no direct correlation between decrease in sweat chloride levels and improvement in lung function (FEV1).
 
@@ -106,21 +109,17 @@ Pediatric patients
 
 The following conclusions about exposures between adults and the pediatric population are based on population PK analyses:
 
-Pediatric patients 2 to less than 6 years of age who weigh less than 14 kg
+Table 4: Ivacaftor Exposure by Age Group, Mean (SD)
 
-Following oral administration of KALYDECO granules, 50 mg every 12 hours, the mean (±SD) steady state AUC (AUCss) was 10500 (4260) ng/mL*h and is similar to the mean AUCss of 10700 (4100) ng/mL*h in adult patients administered KALYDECO tablets, 150 mg every 12 hours.
-
-Pediatric patients 2 to less than 6 years of age who weigh 14 kg or greater
-
-Following oral administration of KALYDECO granules, 75 mg every 12 hours, the mean (±SD) AUC (AUCss) was 11300 (3820) ng/mL*h and is similar to the mean AUC in adult patients administered KALYDECO tablets, 150 mg every 12 hours.
-
-Pediatric patients 6 to less than 12 years of age
-
-Following oral administration of KALYDECO tablets, 150 mg every 12 hours, the mean (±SD) AUCss was 20000 (8330) ng/mL*h and is 87% higher than the mean AUC in adult patients administered KALYDECO tablets, 150 mg every 12 hours.
-
-Pediatric patients 12 to less than 18 years of age
-
-Following oral administration of KALYDECO tablets, 150 mg every 12 hours, the mean (±SD) AUCss was 9240 (3420) ng/mL*h and is similar to the mean AUCss in adult patients administered KALYDECO tablets, 150 mg every 12 hours.
+| Age Group | Dose | AUCss (ng*h/mL) |
+| --- | --- | --- |
+| 12 to less than 24 months (7 kg to <14 kg) | 50 mg q12h | 9050 (3050) |
+| 12 to less than 24 months (≥14 kg to <25 kg) | 75 mg q12h | 9600 (1800) |
+| 2 to less than 6 years (<14 kg) | 50 mg q12h | 10500 (4260) |
+| 2 to less than 6 years (≥14 kg to <25 kg) | 75 mg q12h | 11300 (3820) |
+| 6 to less than 12 years | 150 mg q12h | 20000 (8330) |
+| 12 to less than 18 years | 150 mg q12h | 9240 (3420) |
+| Adults (≥18 years) | 150 mg q12h | 10700 (4100) |
 
 Patients with Hepatic impairment
 

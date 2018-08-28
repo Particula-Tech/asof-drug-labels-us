@@ -47,7 +47,7 @@ Patients should be informed about what to do in the event they miss a dose of KA
 
 - In case a dose of KALYDECO is missed within 6 hours of the time it is usually taken, patients should be instructed to take the prescribed dose of KALYDECO with fat-containing food as soon as possible.
 - If more than 6 hours have passed since KALYDECO is usually taken, the missed dose should NOT be taken and the patient should resume the usual dosing schedule.
-- Patients should be advised to contact their health care provider if they have questions.
+- Patients should be advised to contact their healthcare provider if they have questions.
 
 Cataracts
 

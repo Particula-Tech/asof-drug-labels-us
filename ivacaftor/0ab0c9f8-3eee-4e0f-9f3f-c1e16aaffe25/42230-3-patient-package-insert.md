@@ -8,11 +8,11 @@ This information does not take the place of talking to your doctor about your me
 
 What is KALYDECO?
 
-KALYDECO is a prescription medicine used for the treatment of cystic fibrosis (CF) in patients age 2 years and older who have at least one mutation in their CF gene that is responsive to KALYDECO.
+KALYDECO is a prescription medicine used for the treatment of cystic fibrosis (CF) in patients age 12 months and older who have at least one mutation in their CF gene that is responsive to KALYDECO.
 
 Talk to your doctor to learn if you have an indicated CF gene mutation.
 
-It is not known if KALYDECO is safe and effective in children under 2 years of age.
+It is not known if KALYDECO is safe and effective in children under 12 months of age.
 
 Who should not take KALYDECO?
 
@@ -69,7 +69,7 @@ KALYDECO Tablets (ages 6 years and older):
 - In the evening, 12 hours later, open another blister card to remove 1 KALYDECO tablet and take it with food that contains fat.
 - You may cut along the dotted line to separate your doses from the blister card.
 
-KALYDECO Oral Granules (ages 2 to under 6 years old):
+KALYDECO Oral Granules (ages 12 months to under 6 years old):
 
 - Hold the packet with cut line on top.
 - Shake the packet gently to settle the KALYDECO granules.
@@ -173,7 +173,7 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Manufactured for: Vertex Pharmaceuticals Incorporated 50 Northern Avenue Boston, MA 02210
 
-Approved July 2017
+Approved August 2018
 
 KALYDECO, VERTEX, and the VERTEX triangle logo are registered trademarks of Vertex Pharmaceuticals Incorporated.
-All other trademarks referenced herein are the property of their respective owners. ©2017 Vertex Pharmaceuticals Incorporated ALL RIGHTS RESERVED 69264-10
+All other trademarks referenced herein are the property of their respective owners. ©2018 Vertex Pharmaceuticals Incorporated ALL RIGHTS RESERVED 69264-11 PX2755
