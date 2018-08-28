@@ -9,4 +9,4 @@ Its structural formula is:
 Rasagiline mesylate is a white to off-white powder, freely soluble in water or ethanol and sparingly soluble in isopropanol.
 Each rasagiline tablet for oral administration contains rasagiline mesylate equivalent to 0.5 mg or 1 mg of rasagiline base.
 
-Each rasagiline tablet also contains the following inactive ingredients: mannitol, starch, pregelatinized starch, colloidal silicon dioxide, stearic acid and talc.
+Each rasagiline tablet also contains the following inactive ingredients: mannitol, starch, pregelatinized starch, colloidal silicon dioxide, stearic acid, and talc.

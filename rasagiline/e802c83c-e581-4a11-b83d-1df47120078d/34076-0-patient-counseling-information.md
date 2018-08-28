@@ -66,20 +66,12 @@ Instruct patients to take rasagiline as prescribed.
 If a dose is missed, the patient should not double-up the dose of rasagiline.
 The next dose should be taken at the usual time on the following day.
 
-Manufactured in Israel By:
+Manufactured in Israel By: TEVA PHARMACEUTICAL IND.
+LTD. Jerusalem, 9777402, Israel
 
-TEVA PHARMACEUTICAL IND.
-LTD.
+Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
-Jerusalem, 9777402, Israel
+RAS-002
 
-Manufactured For:
-
-TEVA Pharmaceuticals USA, Inc.
-
-North Wales, PA 19454
-
-RAS-001
-
-Iss.
-3/2016
+Rev.
+6/2018

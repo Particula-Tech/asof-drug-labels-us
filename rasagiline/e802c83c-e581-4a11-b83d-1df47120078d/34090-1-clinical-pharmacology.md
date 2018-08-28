@@ -29,7 +29,7 @@ Studies in healthy subjects and in Parkinson’s disease patients have shown tha
 The inhibition lasts at least 1 week after last dose.
 Almost 25-35% MAO-B inhibition was achieved after a single rasagiline dose of 1 mg/day and more than 55% of MAO-B inhibition was achieved after a single rasagiline dose of 2 mg/day.
 Over 90% inhibition was achieved 3 days after rasagiline daily dosing at 2 mg/day and this inhibition level was maintained 3 days postdose.
-Multiple doses of rasagiline of 0.5, 1 and 2 mg per day resulted in complete MAO-B inhibition.
+Multiple doses of rasagiline of 0.5, 1, and 2 mg per day resulted in complete MAO-B inhibition.
 
 ## 12.3 Pharmacokinetics
 
@@ -104,5 +104,5 @@ Antidepressants: Severe CNS toxicity (occasionally fatal) associated with hyperp
 Effect of Rasagiline on Other Drugs
 
 No additional in vivo trials have investigated the effect of rasagiline on other drugs metabolized by the cytochrome P450 enzyme system.
-In vitro studies showed that rasagiline at a concentration of 1 mcg/ml (equivalent to a level that is 160 times the average Cmax ~ 5.9-8.5 ng/mL in Parkinson’s disease patients after 1 mg rasagiline multiple dosing) did not inhibit cytochrome P450 isoenzymes, CYP1A2, CYP2A6, CYP2C9, CYP2C19, CYP2D6, CYP2E1, CYP3A4 and CYP4A.
+In vitro studies showed that rasagiline at a concentration of 1 mcg/mL (equivalent to a level that is 160 times the average Cmax ~ 5.9-8.5 ng/mL in Parkinson’s disease patients after 1 mg rasagiline multiple dosing) did not inhibit cytochrome P450 isoenzymes, CYP1A2, CYP2A6, CYP2C9, CYP2C19, CYP2D6, CYP2E1, CYP3A4 and CYP4A.
 These results indicate that rasagiline is unlikely to cause any clinically significant interference with substrates of these enzymes.

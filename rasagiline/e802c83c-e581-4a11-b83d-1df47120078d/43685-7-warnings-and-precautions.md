@@ -84,7 +84,7 @@ Postural hypotension led to drug discontinuation and premature withdrawal from c
 
 ## 5.7 Dyskinesia
 
-When used as an adjunct to levodopa, rasagiline may cause dyskinesia or potentiate dopaminergic side effects and exacerbate pre-existing dyskinesia.
+When used as an adjunct to levodopa, rasagiline may cause dyskinesia or potentiate dopaminergic side effects and exacerbate preexisting dyskinesia.
 In Study 3, the incidence of dyskinesia was 18% for patients treated with 0.5 mg or 1 mg rasagiline as an adjunct to levodopa and 10% for patients treated with placebo as an adjunct to levodopa.
 Decreasing the dose of levodopa may mitigate this side effect [see Adverse Reactions (6.1].
 
@@ -103,7 +103,7 @@ Postmarketing reports indicate that patients may experience new or worsening men
 Other drugs prescribed to improve the symptoms of Parkinson’s disease can have similar effects on thinking and behavior.
 This abnormal thinking and behavior can consist of one or more of a variety of manifestations including paranoid ideation, delusions, hallucinations, confusion, psychotic-like behavior, disorientation, aggressive behavior, agitation, and delirium.
 
-Patients should be informed of the possibility of developing hallucinations and instructed to report them to their health care provider promptly should they develop.
+Patients should be informed of the possibility of developing hallucinations and instructed to report them to their healthcare provider promptly should they develop.
 
 Patients with a major psychotic disorder should ordinarily not be treated with rasagiline because of the risk of exacerbating the psychosis with an increase in central dopaminergic tone.
 In addition, many treatments for psychosis that decrease central dopaminergic tone may decrease the effectiveness of rasagiline [see Drug Interactions (7.8)].
@@ -114,7 +114,7 @@ Consider dose reduction or stopping the medication if a patient develops halluci
 
 Case reports suggest that patients can experience intense urges to gamble, increased sexual urges, intense urges to spend money, binge eating, and/or other intense urges, and the inability to control these urges while taking one or more of the medications, including rasagiline, that increase central dopaminergic tone and that are generally used for the treatment of Parkinson’s disease.
 In some cases, although not all, these urges were reported to have stopped when the dose was reduced or the medication was discontinued.
-Because patients may not recognize these behaviors as abnormal, it is important for prescribers to specifically ask patients or their caregivers about the development of new or increased gambling urges, sexual urges, uncontrolled spending or other urges while being treated with rasagiline.
+Because patients may not recognize these behaviors as abnormal, it is important for prescribers to specifically ask patients or their caregivers about the development of new or increased gambling urges, sexual urges, uncontrolled spending, or other urges while being treated with rasagiline.
 Consider dose reduction or stopping the medication if a patient develops such urges while taking rasagiline.
 
 ## 5.10 Withdrawal-Emergent Hyperpyrexia and Confusion

@@ -8,7 +8,7 @@ Study 1 was a double-blind, randomized, fixed-dose parallel group, 26-week study
 The majority of the patients were not treated with medications for Parkinson’s disease before receiving rasagiline.
 
 In Study 1, 404 patients were randomly assigned to receive placebo (138 patients), rasagiline 1 mg/day (134 patients) or rasagiline 2 mg/day (132 patients).
-Patients were not allowed to take levodopa, dopamine agonists, selegiline or amantadine, but could take stable doses of anticholinergic medication, if necessary.
+Patients were not allowed to take levodopa, dopamine agonists, selegiline, or amantadine, but could take stable doses of anticholinergic medication, if necessary.
 The average Parkinson’s disease duration was approximately 1 year (range 0 to 11 years).
 
 The primary measure of effectiveness was the change from baseline in the total score of the Unified Parkinson’s Disease Rating Scale (UPDRS), [mentation (Part I) + activities of daily living (ADL) (Part II) + motor function (Part III)].
@@ -63,7 +63,7 @@ Table 6: Secondary Measures of Effectiveness in Study 2
 | Rasagiline 1 mg | 22.2 | -3.7 |  |
 
 Study 3 and Study 4 were randomized, multinational trials conducted in more advanced Parkinson’s disease patients treated chronically with levodopa and experiencing motor fluctuations (including but not limited to, end of dose “wearing off,” sudden or random “off,” etc.). Study 3 was conducted in North America (U.S. and Canada) and compared rasagiline 0.5 mg and 1 mg daily to placebo.
-Study 4 was conducted outside of North America in Europe, Argentina and Israel, and compared rasagiline 1 mg daily to placebo.
+Study 4 was conducted outside of North America in Europe, Argentina, and Israel, and compared rasagiline 1 mg daily to placebo.
 
 Patients had Parkinson’s disease for an average of 9 years (range 5 months to 33 years), had taken levodopa for an average of 8 years (range 5 months to 32 years), and had motor fluctuations for approximately 3 to 4 years (range 1 month to 23 years).
 Patients kept home Parkinson’s disease diaries just prior to baseline and at specified intervals during the trial.
