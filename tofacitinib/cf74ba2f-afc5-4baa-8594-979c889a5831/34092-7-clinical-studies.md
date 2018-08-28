@@ -313,14 +313,14 @@ Table 15: Proportion of Patients Meeting Primary and Key Secondary Efficacy Endp
 |  | 8% | 18% |  |
 | With Prior TNF Blocker FailurePrior TNF blocker failure was defined in this program as inadequate response, loss of response, or intolerance to TNF blocker therapy. | N=64 | N=243 |  |
 |  | 2% | 11% |  |
-| Without Prior TNF Blocker Failure3 | N=58 | N=233 |  |
+| Without Prior TNF Blocker FailurePatients in this group had failed one or more conventional therapies (corticosteroid, azathioprine, 6-mercaptopurine) but did not have history of prior failure of TNF blocker therapy. | N=58 | N=233 |  |
 |  | 16% | 26% |  |
-| Improvement of endoscopic appearance of the mucosa at Week 84 |  |  |  |
+| Improvement of endoscopic appearance of the mucosa at Week 8Improvement of endoscopic appearance of the mucosa was defined as Mayo endoscopy subscore of 0 (normal or inactive disease) or 1 (erythema, decreased vascular pattern). |  |  |  |
 | Total Population | N=122 | N=476 | 16%p-value <0.001. (8.1, 23.4) |
 |  | 16% | 31% |  |
 | With Prior TNF Blocker Failure | N=64 | N=243 |  |
 |  | 6% | 23% |  |
-| Without Prior TNF Blocker FailurePatients in this group had failed one or more conventional therapies (corticosteroid, azathioprine, 6-mercaptopurine) but did not have history of prior failure of TNF blocker therapy. | N=58 | N=233 |  |
+| Without Prior TNF Blocker Failure | N=58 | N=233 |  |
 |  | 26% | 40% |  |
 | Study UC-II |  |  |  |
 | Endpoint | Placebo | XELJANZ 10 mg Twice Daily | Treatment Difference (95% CI) |
@@ -331,7 +331,7 @@ Table 15: Proportion of Patients Meeting Primary and Key Secondary Efficacy Endp
 |  | 0% | 12% |  |
 | Without Prior TNF Blocker Failure | N=52 | N=207 |  |
 |  | 8% | 22% |  |
-| Improvement of endoscopic appearance of the mucosa at Week 8Improvement of endoscopic appearance of the mucosa was defined as Mayo endoscopy subscore of 0 (normal or inactive disease) or 1 (erythema, decreased vascular pattern). |  |  |  |
+| Improvement of endoscopic appearance of the mucosa at Week 8 |  |  |  |
 | Total Population | N=112 | N-429 | 17% (9.5, 24.1) |
 |  | 12% | 28% |  |
 | With Prior TNF Blocker Failure | N=60 | N=222 |  |

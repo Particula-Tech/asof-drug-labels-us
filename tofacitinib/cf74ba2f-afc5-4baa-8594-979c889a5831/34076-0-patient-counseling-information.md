@@ -32,7 +32,8 @@ Advise women not to breastfeed during treatment with XELJANZ/XELJANZ XR and for 
 
 Infertility
 
-Advise females of reproductive potential that XELJANZ/XELJANZ XR may impair fertility [see Use in Specific Populations (8.3), Nonclinical Toxicology (13.1)] It is not known if this effect is reversible.
+Advise females of reproductive potential that XELJANZ/XELJANZ XR may impair fertility [see Use in Specific Populations (8.3), Nonclinical Toxicology (13.1)].
+It is not known if this effect is reversible.
 
 Residual Tablet Shell
 
