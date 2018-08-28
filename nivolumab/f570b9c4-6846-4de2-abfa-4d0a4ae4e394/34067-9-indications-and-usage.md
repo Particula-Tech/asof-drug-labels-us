@@ -19,12 +19,19 @@ OPDIVO is indicated for the adjuvant treatment of patients with melanoma with in
 OPDIVO is indicated for the treatment of patients with metastatic non-small cell lung cancer (NSCLC) with progression on or after platinum-based chemotherapy.
 Patients with EGFR or ALK genomic tumor aberrations should have disease progression on FDA-approved therapy for these aberrations prior to receiving OPDIVO [see Clinical Studies (14.3)].
 
-## 1.4 Advanced Renal Cell Carcinoma
+## 1.4 Small Cell Lung Cancer
 
-- •OPDIVO as a single agent is indicated for the treatment of patients with advanced renal cell carcinoma (RCC) who have received prior anti-angiogenic therapy [see Clinical Studies (14.4)].
-- •OPDIVO, in combination with ipilimumab, is indicated for the treatment of patients with intermediate or poor risk, previously untreated advanced renal cell carcinoma (RCC) [see Clinical Studies (14.4)].
+OPDIVO is indicated for the treatment of patients with metastatic small cell lung cancer (SCLC) with progression after platinum-based chemotherapy and at least one other line of therapy [see Clinical Studies (14.4)].
 
-## 1.5 Classical Hodgkin Lymphoma
+This indication is approved under accelerated approval based on overall response rate and duration of response.
+Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials.
+
+## 1.5 Advanced Renal Cell Carcinoma
+
+- •OPDIVO as a single agent is indicated for the treatment of patients with advanced renal cell carcinoma (RCC) who have received prior anti-angiogenic therapy [see Clinical Studies (14.5)].
+- •OPDIVO, in combination with ipilimumab, is indicated for the treatment of patients with intermediate or poor risk, previously untreated advanced renal cell carcinoma (RCC) [see Clinical Studies (14.5)].
+
+## 1.6 Classical Hodgkin Lymphoma
 
 OPDIVO is indicated for the treatment of adult patients with classical Hodgkin lymphoma (cHL) that has relapsed or progressed after:
 
@@ -32,13 +39,13 @@ OPDIVO is indicated for the treatment of adult patients with classical Hodgkin l
 - •3 or more lines of systemic therapy that includes autologous HSCT.
 
 This indication is approved under accelerated approval based on overall response rate.
-Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials [see Clinical Studies (14.5)].
+Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials [see Clinical Studies (14.6)].
 
-## 1.6 Squamous Cell Carcinoma of the Head and Neck
+## 1.7 Squamous Cell Carcinoma of the Head and Neck
 
-OPDIVO is indicated for the treatment of patients with recurrent or metastatic squamous cell carcinoma of the head and neck (SCCHN) with disease progression on or after platinum-based therapy [see Clinical Studies (14.6)].
+OPDIVO is indicated for the treatment of patients with recurrent or metastatic squamous cell carcinoma of the head and neck (SCCHN) with disease progression on or after platinum-based therapy [see Clinical Studies (14.7)].
 
-## 1.7 Urothelial Carcinoma
+## 1.8 Urothelial Carcinoma
 
 OPDIVO (nivolumab) is indicated for the treatment of patients with locally advanced or metastatic urothelial carcinoma who:
 
@@ -46,18 +53,18 @@ OPDIVO (nivolumab) is indicated for the treatment of patients with locally advan
 - •have disease progression within 12 months of neoadjuvant or adjuvant treatment with platinum-containing chemotherapy.
 
 This indication is approved under accelerated approval based on tumor response rate and duration of response.
-Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials [see Clinical Studies (14.7)].
+Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials [see Clinical Studies (14.8)].
 
-## 1.8 Microsatellite Instability-High (MSI-H) or Mismatch Repair Deficient (dMMR) Metastatic Colorectal Cancer
+## 1.9 Microsatellite Instability-High (MSI-H) or Mismatch Repair Deficient (dMMR) Metastatic Colorectal Cancer
 
-- •OPDIVO, as a single agent, is indicated for the treatment of adult and pediatric patients 12 years and older with microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) metastatic colorectal cancer (CRC) that has progressed following treatment with a fluoropyrimidine, oxaliplatin, and irinotecan [see Clinical Studies (14.8)].
-- •OPDIVO, in combination with ipilimumab, is indicated for the treatment of adults and pediatric patients 12 years and older with MSI-H or dMMR metastatic CRC that has progressed following treatment with a fluoropyrimidine, oxaliplatin, and irinotecan [see Clinical Studies (14.8)].
+- •OPDIVO, as a single agent, is indicated for the treatment of adult and pediatric patients 12 years and older with microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) metastatic colorectal cancer (CRC) that has progressed following treatment with a fluoropyrimidine, oxaliplatin, and irinotecan [see Clinical Studies (14.9)].
+- •OPDIVO, in combination with ipilimumab, is indicated for the treatment of adults and pediatric patients 12 years and older with MSI-H or dMMR metastatic CRC that has progressed following treatment with a fluoropyrimidine, oxaliplatin, and irinotecan [see Clinical Studies (14.9)].
 
 These indications are approved under accelerated approval based on overall response rate and duration of response.
 Continued approval for these indications may be contingent upon verification and description of clinical benefit in confirmatory trials.
 
-## 1.9 Hepatocellular Carcinoma
+## 1.10 Hepatocellular Carcinoma
 
 OPDIVO is indicated for the treatment of patients with hepatocellular carcinoma (HCC) who have been previously treated with sorafenib.
 This indication is approved under accelerated approval based on tumor response rate and durability of response.
-Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials [see Clinical Studies (14.9)].
+Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials [see Clinical Studies (14.10)].

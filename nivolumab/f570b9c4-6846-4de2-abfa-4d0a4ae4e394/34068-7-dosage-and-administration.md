@@ -40,7 +40,15 @@ The recommended dose of OPDIVO is either:
 
 administered as an intravenous infusion over 30 minutes until disease progression or unacceptable toxicity.
 
-## 2.4 Recommended Dosage for RCC
+## 2.4 Recommended Dosage for SCLC
+
+The recommended dose of OPDIVO is:
+
+- •240 mg administered as an intravenous infusion over 30 minutes every 2 weeks
+
+until disease progression or unacceptable toxicity.
+
+## 2.5 Recommended Dosage for RCC
 
 Single Agent
 
@@ -53,7 +61,7 @@ administered as an intravenous infusion over 30 minutes until disease progressio
 
 With Ipilimumab
 
-The recommended dose of OPDIVO is 3 mg/kg administered as an intravenous infusion over 30 minutes, followed by ipilimumab 1 mg/kg administered as an intravenous infusion over 30 minutes on the same day, every 3 weeks for 4 doses [see Clinical Studies (14.4)].
+The recommended dose of OPDIVO is 3 mg/kg administered as an intravenous infusion over 30 minutes, followed by ipilimumab 1 mg/kg administered as an intravenous infusion over 30 minutes on the same day, every 3 weeks for 4 doses [see Clinical Studies (14.5)].
 After completing 4 doses of the combination, administer OPDIVO as a single agent, either:
 
 - •240 mg every 2 weeks, or
@@ -62,7 +70,7 @@ After completing 4 doses of the combination, administer OPDIVO as a single agent
 as an intravenous infusion over 30 minutes until disease progression or unacceptable toxicity.
 Review the Prescribing Information for ipilimumab prior to initiation.
 
-## 2.5 Recommended Dosage for cHL
+## 2.6 Recommended Dosage for cHL
 
 The recommended dose of OPDIVO is either:
 
@@ -71,7 +79,7 @@ The recommended dose of OPDIVO is either:
 
 administered as an intravenous infusion over 30 minutes until disease progression or unacceptable toxicity.
 
-## 2.6 Recommended Dosage for SCCHN
+## 2.7 Recommended Dosage for SCCHN
 
 The recommended dose of OPDIVO is either:
 
@@ -80,7 +88,7 @@ The recommended dose of OPDIVO is either:
 
 administered as an intravenous infusion over 30 minutes until disease progression or unacceptable toxicity.
 
-## 2.7 Recommended Dosage for Urothelial Carcinoma
+## 2.8 Recommended Dosage for Urothelial Carcinoma
 
 The recommended dose of OPDIVO is either:
 
@@ -89,7 +97,7 @@ The recommended dose of OPDIVO is either:
 
 administered as an intravenous infusion over 30 minutes until disease progression or unacceptable toxicity.
 
-## 2.8 Recommended Dosage for MSI-H/dMMR CRC
+## 2.9 Recommended Dosage for MSI-H/dMMR CRC
 
 Single Agent
 
@@ -97,12 +105,12 @@ The recommended dose of OPDIVO as a single agent is 240 mg every 2 weeks adminis
 
 With Ipilimumab
 
-The recommended dose of OPDIVO is 3 mg/kg administered as an intravenous infusion over 30 minutes, followed by ipilimumab 1 mg/kg administered as an intravenous infusion over 30 minutes on the same day, every 3 weeks for 4 doses [see Clinical Studies (14.8)].
+The recommended dose of OPDIVO is 3 mg/kg administered as an intravenous infusion over 30 minutes, followed by ipilimumab 1 mg/kg administered as an intravenous infusion over 30 minutes on the same day, every 3 weeks for 4 doses [see Clinical Studies (14.9)].
 After completing 4 doses of the combination, administer OPDIVO 240 mg as a single agent every 2 weeks as an intravenous infusion over 30 minutes until disease progression or unacceptable toxicity.
 
 Review the Prescribing Information for ipilimumab prior to initiation.
 
-## 2.9 Recommended Dosage for HCC
+## 2.10 Recommended Dosage for HCC
 
 The recommended dose of OPDIVO is either:
 
@@ -111,7 +119,7 @@ The recommended dose of OPDIVO is either:
 
 administered as an intravenous infusion over 30 minutes until disease progression or unacceptable toxicity.
 
-## 2.10 Dose Modifications
+## 2.11 Dose Modifications
 
 Recommendations for OPDIVO modifications are provided in Table 1.
 When OPDIVO is administered in combination with ipilimumab, if OPDIVO is withheld, ipilimumab should also be withheld.
@@ -155,7 +163,7 @@ Table 1: Recommended Dose Modifications for OPDIVO
 | Persistent Grade 2 or 3 adverse reactions lasting 12 weeks or longer | Permanently discontinue |  |
 | * Toxicity was graded per National Cancer Institute Common Terminology Criteria for Adverse Events. Version 4.0 (NCI CTCAE v4). a Resume treatment when adverse reaction improves to Grade 0 or 1. b HCC: hepatocellular carcinoma. c Resume treatment when AST/ALT returns to baseline. |  |  |
 
-## 2.11 Preparation and Administration
+## 2.12 Preparation and Administration
 
 Visually inspect drug product solution for particulate matter and discoloration prior to administration.
 OPDIVO is a clear to opalescent, colorless to pale-yellow solution.

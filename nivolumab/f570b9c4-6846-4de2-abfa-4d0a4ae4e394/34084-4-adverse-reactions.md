@@ -32,7 +32,7 @@ In this ongoing trial, 24% of patients received OPDIVO for greater than 6 months
 In CHECKMATE-037, patients had documented disease progression following treatment with ipilimumab and, if BRAF V600 mutation positive, a BRAF inhibitor.
 The trial excluded patients with autoimmune disease, prior ipilimumab-related Grade 4 adverse reactions (except for endocrinopathies) or Grade 3 ipilimumab-related adverse reactions that had not resolved or were inadequately controlled within 12 weeks of the initiating event, patients with a condition requiring chronic systemic treatment with corticosteroids (>10 mg daily prednisone equivalent) or other immunosuppressive medications, a positive test for hepatitis B or C, and a history of HIV.
 
-The trial population characteristics in the OPDIVO group and the chemotherapy group were similar: 66% male, median age 59.5 years, 98% white, baseline Eastern Cooperative Oncology Group (ECOG) performance status 0 (59%) or 1 (41%), 74% with M1c stage disease, 73% with cutaneous melanoma, 11% with mucosal melanoma, 73% received two or more prior therapies for advanced or metastatic disease, and 18% had brain metastasis.
+The trial population characteristics in the OPDIVO group and the chemotherapy group were similar: 66% male, median age 59.5 years, 98% White, baseline Eastern Cooperative Oncology Group (ECOG) performance status 0 (59%) or 1 (41%), 74% with M1c stage disease, 73% with cutaneous melanoma, 11% with mucosal melanoma, 73% received two or more prior therapies for advanced or metastatic disease, and 18% had brain metastasis.
 There were more patients in the OPDIVO group with elevated LDH at baseline (51% vs. 38%).
 
 OPDIVO was discontinued for adverse reactions in 9% of patients.
@@ -46,10 +46,10 @@ The most common adverse reaction (reported in at least 20% of patients) was rash
 
 Table 2: Adverse Reactions Occurring in ≥10% of OPDIVO-Treated Patients and at a Higher Incidence than in the Chemotherapy Arm (Between Arm Difference of ≥5% [All Grades] or ≥2% [Grades 3-4]) (CHECKMATE-037)
 
-| Percentage (%) of Patients |  |  |  |  |
-| --- | --- | --- | --- | --- |
 | Adverse Reaction | OPDIVO (n=268) |  | Chemotherapy (n=102) |  |
+| --- | --- | --- | --- | --- |
 | All Grades | Grades 3-4 | All Grades | Grades 3-4 |  |
+| Percentage (%) of Patients |  |  |  |  |
 | Skin and Subcutaneous Tissue Disorders |  |  |  |  |
 | Rasha | 21 | 0.4 | 7 | 0 |
 | Pruritus | 19 | 0 | 3.9 | 0 |
@@ -98,7 +98,7 @@ In this trial, 47% of patients received OPDIVO for greater than 6 months and 12%
 
 The trial excluded patients with autoimmune disease and patients requiring chronic systemic treatment with corticosteroids (>10 mg daily prednisone equivalent) or other immunosuppressive medications.
 
-The trial population characteristics in the OPDIVO group and dacarbazine group: 59% male, median age 65 years, 99.5% white, 61% with M1c stage disease, 74% with cutaneous melanoma, 11% with mucosal melanoma, 4% with brain metastasis, and 37% with elevated LDH at baseline.
+The trial population characteristics in the OPDIVO group and dacarbazine group: 59% male, median age 65 years, 99.5% White, 61% with M1c stage disease, 74% with cutaneous melanoma, 11% with mucosal melanoma, 4% with brain metastasis, and 37% with elevated LDH at baseline.
 There were more patients in the OPDIVO group with ECOG performance status 0 (71% vs. 59%).
 
 Adverse reactions led to permanent discontinuation of OPDIVO in 7% of patients and dose interruption in 26% of patients; no single type of adverse reaction accounted for the majority of OPDIVO discontinuations.
@@ -297,7 +297,7 @@ In CHECKMATE-017, 36% of patients received OPDIVO for at least 6 months and 18% 
 
 CHECKMATE-017 and CHECKMATE-057 excluded patients with active autoimmune disease, medical conditions requiring systemic immunosuppression, or with symptomatic interstitial lung disease.
 
-Across both trials, the median age of OPDIVO-treated patients was 61 years (range: 37 to 85); 38% were ≥65 years of age, 61% were male, and 91% were white.
+Across both trials, the median age of OPDIVO-treated patients was 61 years (range: 37 to 85); 38% were ≥65 years of age, 61% were male, and 91% were White.
 Ten percent of patients had brain metastases and ECOG performance status was 0 (26%) or 1 (74%).
 
 OPDIVO was discontinued in 11% of patients, and was delayed in 28% of patients for an adverse reaction.
@@ -339,11 +339,28 @@ Table 11: Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% o
 | Increased TSHb | 14 | N/A | 6 | N/A |  |  |  |  |  |
 | a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO group (range: 405 to 417 patients) and docetaxel group (range: 372 to 390 patients); TSH: OPDIVO group n=314 and docetaxel group n=297. b Not graded per NCI CTCAE v4. |  |  |  |  |  |  |  |  |  |
 
+### Small Cell Lung Cancer
+
+The safety of OPDIVO in SCLC was evaluated in CHECKMATE-032, a multicenter, multi-cohort, open-label, ongoing trial that enrolled 245 patients with SCLC with disease progression after platinum-based chemotherapy who received OPDIVO 3 mg/kg administered intravenously over 60 minutes every 2 weeks [see Clinical Studies (14.4)].
+The median duration of therapy in OPDIVO-treated patients was 1 month (range: 0 to 44.2+ months): 17% of patients received OPDIVO for greater than 6 months and 9% of patients received OPDIVO for greater than one year.
+
+The trial excluded patients with active autoimmune disease, medical conditions requiring systemic immunosuppression, or with symptomatic interstitial lung disease.
+
+The population characteristics were: median age 63 years (range: 29 to 83), 92% White, and 60% male.
+Baseline ECOG performance status was 0 (30%) or 1 (70%), 94% were former/current smokers, 56% received one prior line of therapy, and 44% received two or more prior lines of therapy.
+
+OPDIVO was discontinued for adverse reactions in 10% of patients and 25% of patients had at least one dose withheld for an adverse reaction.
+Serious adverse reactions occurred in 45% of patients.
+The most frequent (≥2%) serious adverse reactions were pneumonia, dyspnea, pneumonitis, pleural effusion, and dehydration.
+The most common (≥20%) adverse reactions were fatigue, decreased appetite, musculoskeletal pain, dyspnea, nausea, diarrhea, constipation, and cough.
+
+The toxicity profile observed in patients with metastatic SCLC was generally similar to that observed in patients with other solid tumors who received OPDIVO as a single agent.
+
 ### Renal Cell Carcinoma
 
 Previously Treated Renal Cell Carcinoma
 
-The safety of OPDIVO was evaluated in CHECKMATE-025, a randomized open-label trial in which 803 patients with advanced RCC who had experienced disease progression during or after at least one anti-angiogenic treatment regimens received 3 mg/kg of OPDIVO by intravenous infusion every 2 weeks (n=406) or everolimus 10 mg daily (n=397) [see Clinical Studies (14.4)].
+The safety of OPDIVO was evaluated in CHECKMATE-025, a randomized open-label trial in which 803 patients with advanced RCC who had experienced disease progression during or after at least one anti-angiogenic treatment regimen received 3 mg/kg of OPDIVO by intravenous infusion every 2 weeks (n=406) or everolimus 10 mg daily (n=397) [see Clinical Studies (14.5)].
 The median duration of treatment was 5.5 months (range: 1 day to 29.6+ months) in OPDIVO-treated patients and 3.7 months (range: 6 days to 25.7+ months) in everolimus-treated patients.
 
 Study therapy was discontinued for adverse reactions in 16% of OPDIVO patients and 19% of everolimus patients.
@@ -429,7 +446,7 @@ In addition, among patients with TSH less than ULN at baseline, a greater propor
 
 Previously Untreated Renal Cell Carcinoma
 
-The safety of OPDIVO 3 mg/kg, administered with ipilimumab 1 mg/kg was evaluated in CHECKMATE-214, a randomized open-label trial in which 1082 patients with previously untreated advanced RCC received OPDIVO 3 mg/kg in combination with ipilimumab 1 mg/kg every 3 weeks for 4 doses followed by OPDIVO monotherapy at the 3 mg/kg dose (n=547) every 2 weeks or sunitinib administered orally 50 mg daily for 4 weeks followed by 2 weeks off, every cycle (n=535) [see Clinical Studies (14.4)].
+The safety of OPDIVO 3 mg/kg, administered with ipilimumab 1 mg/kg was evaluated in CHECKMATE-214, a randomized open-label trial in which 1082 patients with previously untreated advanced RCC received OPDIVO 3 mg/kg in combination with ipilimumab 1 mg/kg every 3 weeks for 4 doses followed by OPDIVO monotherapy at the 3 mg/kg dose (n=547) every 2 weeks or sunitinib administered orally 50 mg daily for 4 weeks followed by 2 weeks off, every cycle (n=535) [see Clinical Studies (14.5)].
 The median duration of treatment was 7.9 months (range: 1 day to 21.4+ months) in OPDIVO plus ipilimumab-treated patients and 7.8 months (range: 1 day to 20.2+ months) in sunitinib-treated patients.
 In this trial, 57% of patients in the OPDIVO plus ipilimumab arm were exposed to treatment for greater than 6 months, and 38% of patients were exposed to treatment for greater than 1 year.
 
@@ -608,7 +625,7 @@ Table 17: Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% o
 
 ### Recurrent or Metastatic Squamous Cell Carcinoma of the Head and Neck
 
-The safety of OPDIVO was evaluated in CHECKMATE-141, a randomized, active-controlled, open-label, multicenter trial in patients with recurrent or metastatic SCCHN with progression during or within 6 months of receiving prior platinum-based therapy [see Clinical Studies (14.6)].
+The safety of OPDIVO was evaluated in CHECKMATE-141, a randomized, active-controlled, open-label, multicenter trial in patients with recurrent or metastatic SCCHN with progression during or within 6 months of receiving prior platinum-based therapy [see Clinical Studies (14.7)].
 Patients received 3 mg/kg of OPDIVO (n=236) over 60 minutes by intravenous infusion every 2 weeks or investigator’s choice of either:
 
 - •cetuximab (n=13), 400 mg/m2 loading dose IV followed by 250 mg/m2 weekly
@@ -712,7 +729,7 @@ Table 19: Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% o
 
 The safety of OPDIVO administered as a single agent or in combination with ipilimumab was evaluated in CHECKMATE-142, a multicenter, non-randomized, multiple parallel-cohort, open-label study.
 In CHECKMATE-142, 74 patients with mCRC received OPDIVO 3 mg/kg every 2 weeks until disease progression or until intolerable toxicity and 119 patients with mCRC received OPDIVO 3 mg/kg and ipilimumab 1 mg/kg on Day 1 of each 21-day cycle for 4 doses, then OPDIVO 3 mg/kg every 2 weeks until disease progression or until unacceptable toxicity.
-[See Clinical Studies (14.8).]
+[See Clinical Studies (14.9).]
 
 OPDIVO was discontinued in 13% of patients and delayed in 45% of patients for an adverse reaction.
 Serious adverse reactions occurred in 47% of patients.

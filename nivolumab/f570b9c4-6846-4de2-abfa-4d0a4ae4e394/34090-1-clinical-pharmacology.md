@@ -15,8 +15,8 @@ In murine syngeneic tumor models, dual blockade of PD-1 and CTLA-4 resulted in i
 Nivolumab pharmacokinetics (PK) was assessed using a population PK approach for both single-agent OPDIVO and OPDIVO with ipilimumab.
 
 OPDIVO as a single agent: The PK of single-agent nivolumab was studied in patients over a dose range of 0.1 to 20 mg/kg administered as a single dose or as multiple doses of OPDIVO as a 60-minute intravenous infusion every 2 or 3 weeks.
-Nivolumab clearance (CL) decreases over time, with a mean maximal reduction (% coefficient of variation [CV%]) from baseline values of 24.5% (47.6%) resulting in a geometric mean steady state clearance (CLss) (CV%) of 8.2 mL/h (53.9%) in patients with metastatic tumors; the decrease in CLss is not considered clinically relevant.
-Nivolumab clearance does not decrease over time in patients with completely resected melanoma, as the geometric mean population clearance is 24% lower in this patient population compared with patients with metastatic melanoma at steady-state.
+Nivolumab clearance (CL) decreases over time, with a mean maximal reduction (% coefficient of variation [CV%]) from baseline values of 24.5% (47.6%) resulting in a geometric mean steady-state clearance (CLss) (CV%) of 8.2 mL/h (53.9%) in patients with metastatic tumors; the decrease in CLss is not considered clinically relevant.
+Nivolumab clearance does not decrease over time in patients with completely resected melanoma, as the geometric mean population clearance is 24% lower in this patient population compared with patients with metastatic melanoma at steady state.
 The geometric mean volume of distribution at steady state (Vss) (CV%) is 6.8 L (27.3%), and geometric mean elimination half-life (t1/2) is 25 days (77.5%).
 Steady-state concentrations of nivolumab were reached by 12 weeks when administered at 3 mg/kg every 2 weeks, and systemic accumulation was 3.7-fold.
 The exposure to nivolumab increases dose proportionally over the dose range of 0.1 to 10 mg/kg administered every 2 weeks.

@@ -41,7 +41,7 @@ Advise females of reproductive potential to use effective contraception during t
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of OPDIVO as a single agent and in combination with ipilimumab have been established in pediatric patients age 12 years and older with microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) metastatic colorectal cancer (mCRC) that has progressed following treatment with a fluoropyrimidine, oxaliplatin, and irinotecan.
-Use of OPDIVO for this indication is supported by evidence from adequate and well-controlled studies of OPDIVO in adults with MSI-H or dMMR mCRC with additional population pharmacokinetic data demonstrating that age and body weight had no clinically meaningful effect on the steady state exposure of nivolumab, that drug exposure is generally similar between adults and pediatric patients age 12 years and older for monoclonal antibodies, and that the course of MSI-H or dMMR mCRC is sufficiently similar in adults and pediatric patients to allow extrapolation of data in adults to pediatric patients [see Dosage and Administration (2.8), Clinical Pharmacology (12.3) and Clinical Studies (14.8)].
+Use of OPDIVO for this indication is supported by evidence from adequate and well-controlled studies of OPDIVO in adults with MSI-H or dMMR mCRC with additional population pharmacokinetic data demonstrating that age and body weight had no clinically meaningful effect on the steady-state exposure of nivolumab, that drug exposure is generally similar between adults and pediatric patients age 12 years and older for monoclonal antibodies, and that the course of MSI-H or dMMR mCRC is sufficiently similar in adults and pediatric patients to allow extrapolation of data in adults to pediatric patients [see Dosage and Administration (2.9), Clinical Pharmacology (12.3) and Clinical Studies (14.9)].
 
 The safety and effectiveness of OPDIVO have not been established (1) in pediatric patients less than 12 years old with MSI-H or dMMR mCRC or (2) in pediatric patients less than 18 years old for the other approved indications.
 
@@ -56,7 +56,7 @@ No overall differences in safety or effectiveness were reported between elderly 
 In CHECKMATE-238 (adjuvant treatment of melanoma), 26% of patients were 65 years or older and 3% were 75 years or older.
 No overall differences in safety or effectiveness were reported between elderly patients and younger patients.
 
-CHECKMATE-037, CHECKMATE-205, CHECKMATE-039, CHECKMATE-141, CHECKMATE-142, and CHECKMATE-040 did not include sufficient numbers of patients aged 65 years and older to determine whether they respond differently from younger patients.
+CHECKMATE-037, CHECKMATE-205, CHECKMATE-039, CHECKMATE-141, CHECKMATE-142, CHECKMATE-040, and CHECKMATE-032 did not include sufficient numbers of patients aged 65 years and older to determine whether they respond differently from younger patients.
 
 Of the 314 patients randomized to OPDIVO administered with ipilimumab in CHECKMATE-067, 41% were 65 years or older and 11% were 75 years or older.
 No overall differences in safety or effectiveness were reported between elderly patients and younger patients.
