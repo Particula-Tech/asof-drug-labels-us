@@ -31,7 +31,7 @@ The average MAP was greater in the control group than in the sodium nitroprussid
 
 In both studies, similar effects on MAP were seen in all age groups.
 
-Table 2: Change from Baseline in MAP (mmHg) After 30 Minutes Double-Blind Infusion (Study 1)
+Table 1: Change from Baseline in MAP (mmHg) After 30 Minutes Double-Blind Infusion (Study 1)
 
 |  | Dose (mcg/kg/min) |  |  |  |
 | --- | --- | --- | --- | --- |

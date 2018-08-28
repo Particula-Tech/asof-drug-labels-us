@@ -29,12 +29,12 @@ Metabolism
 
 As shown in the diagram below, the essential features of nitroprusside metabolism are:
 
-- one molecule of sodium nitroprusside is metabolized by combination with hemoglobin to produce one molecule of cyanmethemoglobin and four CN¯ ions;
-- methemoglobin, obtained from hemoglobin, can sequester cyanide as cyanmethemoglobin;
-- thiosulfate reacts with cyanide to produce thiocyanate;
-- thiocyanate is eliminated in the urine;
-- cyanide not otherwise removed binds to cytochromes; and
-- cyanide is much more toxic than methemoglobin or thiocyanate.
+- •one molecule of sodium nitroprusside is metabolized by combination with hemoglobin to produce one molecule of cyanmethemoglobin and four CN¯ ions;
+- •methemoglobin, obtained from hemoglobin, can sequester cyanide as cyanmethemoglobin;
+- •thiosulfate reacts with cyanide to produce thiocyanate;
+- •thiocyanate is eliminated in the urine;
+- •cyanide not otherwise removed binds to cytochromes; and
+- •cyanide is much more toxic than methemoglobin or thiocyanate.
 
 Cyanide ion is normally found in serum; it is derived from dietary substrates and from tobacco smoke.
 CN¯ levels in packed erythrocytes are typically less than 1 μmol/L (less than 25 mcg/L); levels are roughly doubled in heavy smokers.

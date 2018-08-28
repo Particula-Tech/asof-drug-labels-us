@@ -2,12 +2,12 @@
 
 The following adverse reactions are described, or described in greater detail, in other sections:
 
-- Hypotension [see Warnings and Precautions (5.1)]
-- Cyanide Toxicity [see Warnings and Precautions (5.2)]
-- Thiocyanate Toxicity [see Warnings and Precautions (5.3)]
-- Methemoglobinemia [see Warnings and Precautions (5.4)]
-- Increased Intracranial Pressure [see Warnings and Precautions (5.5)]
-- Anemia and Hypovolemia [see Warnings and Precautions (5.6)]
+- •Hypotension [see Warnings and Precautions (5.1)]
+- •Cyanide Toxicity [see Warnings and Precautions (5.2)]
+- •Thiocyanate Toxicity [see Warnings and Precautions (5.3)]
+- •Methemoglobinemia [see Warnings and Precautions (5.4)]
+- •Increased Intracranial Pressure [see Warnings and Precautions (5.5)]
+- •Anemia and Hypovolemia [see Warnings and Precautions (5.6)]
 
 Less common adverse reactions include:
 

@@ -12,9 +12,9 @@ Start infusion of sodium nitroprusside at a rate of 0.3 mcg/kg/min.
 Evaluate blood pressure for at least 5 minutes before titrating to a higher or lower dose to achieve the desired blood pressure.
 The dose may be titrated upward until:
 
-- the desired effect is achieved,
-- systemic blood pressure cannot be further reduced without compromising the perfusion of vital organs, or
-- the maximum recommended infusion rate of 10 mcg/kg/min has been reached, whichever occurs first.
+- •the desired effect is achieved,
+- •systemic blood pressure cannot be further reduced without compromising the perfusion of vital organs, or
+- •the maximum recommended infusion rate of 10 mcg/kg/min has been reached, whichever occurs first.
 
 In patients with eGFR <30 mL/min/1.73 m2, limit the mean infusion rate to less than 3 mcg/kg/min.
 In anuric patients, limit the mean infusion rate to 1 mcg/kg/min.

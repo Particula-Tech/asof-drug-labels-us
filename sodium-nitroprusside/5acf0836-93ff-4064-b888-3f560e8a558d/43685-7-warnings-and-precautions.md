@@ -10,7 +10,7 @@ Elderly patients may be more sensitive to the hypotensive effects of the drug.
 ## 5.2 Cyanide Toxicity
 
 Sodium nitroprusside infusions above 2 mcg/kg/min generate cyanide ion (CN¯) faster than the body can normally dispose of it.
-At the maximum recommended infusion rate of 10 mcg/kg/min, the patient’s ability to buffer CN- will be exceeded in less than one hour [see Overdose (10)].
+At the maximum recommended infusion rate of 10 mcg/kg/min, the patient’s ability to buffer CN¯ will be exceeded in less than one hour [see Overdose (10)].
 
 Patients with hepatic dysfunction are more susceptible to cyanide toxicity.
 

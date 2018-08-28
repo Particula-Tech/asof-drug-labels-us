@@ -11,9 +11,9 @@ Suspicion of cyanide toxicity is adequate grounds for initiation of treatment.
 
 Treatment of cyanide toxicity consists of:
 
-- discontinuing sodium nitroprusside;
-- administration of sodium nitrite to convert as much hemoglobin into methemoglobin as the patient can safely tolerate; and then
-- infusing sodium thiosulfate to convert the cyanide into thiocyanate.
+- •discontinuing sodium nitroprusside;
+- •administration of sodium nitrite to convert as much hemoglobin into methemoglobin as the patient can safely tolerate; and then
+- •infusing sodium thiosulfate to convert the cyanide into thiocyanate.
 
 Hemodialysis is ineffective in removal of cyanide, but it will eliminate most thiocyanate.
 
