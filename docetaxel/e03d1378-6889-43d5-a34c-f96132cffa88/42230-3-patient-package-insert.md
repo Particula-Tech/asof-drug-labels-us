@@ -80,10 +80,8 @@ Before you receive Docetaxel Injection, tell your doctor if you:
 - •have any other medical conditions
 - •are pregnant or plan to become pregnant.
   Docetaxel Injection can harm your unborn baby.
-  You should not become pregnant during treatment with Docetaxel Injection.
-  Talk to your doctor about effective birth control while receiving Docetaxel Injection.
 - •are breastfeeding or plan to breastfeed.
-  It is not known if Docetaxel Injection passes into your breast milk.
+  It is not known if docetaxel passes into your breast milk.
   You and your doctor should decide if you will receive Docetaxel Injection or breastfeed.
 
 Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
@@ -128,7 +126,8 @@ The most common side effects of Docetaxel Injection include:
 - •nausea and vomiting
 - •diarrhea
 - •mouth or lips sores
-- •hair loss
+- •hair loss: in most cases normal hair growth should return.
+  In some cases (frequency not known) permanent hair loss has been observed.
 - •rash
 - •redness of the eye, excess tearing
 - •skin reactions at the site of Docetaxel Injection administration such as increased skin pigmentation, redness, tenderness, swelling, warmth or dryness of the skin
@@ -174,4 +173,4 @@ Nfg.KG
 
 A-4866 Unterach, Austria
 
-Revised: July 2014
+Revised: December 2015

@@ -19,7 +19,7 @@ Because many drugs are excreted in human milk, and because of the potential for 
 
 ## 8.4 Pediatric Use
 
-The alcohol content of Docetaxel Injection should be taken into account when given to pediatric patients [see Warningsand Precautions(5.12)].
+The alcohol content of Docetaxel Injection should be taken into account when given to pediatric patients [see Warningsand Precautions(5.11)].
 
 The efficacy of docetaxel in pediatric patients as monotherapy or in combination has not been established.
 The overall safety profile of docetaxel in pediatric patients receiving monotherapy or TCF was consistent with the known safety profile in adults.
@@ -96,4 +96,4 @@ Other reported clinical experience with this treatment regimen has not identifie
 Patients with bilirubin >ULN should not receive Docetaxel Injection.
 Also, patients with AST and/or ALT >1.5 x ULN concomitant with alkaline phosphatase >2.5 x ULN should not receive Docetaxel Injection [see Boxed Warning, Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].
 
-The alcohol content of Docetaxel Injection should be taken into account when given to patients with hepatic impairment [see Warnings and Precautions (5.12)].
+The alcohol content of Docetaxel Injection should be taken into account when given to patients with hepatic impairment [see Warnings and Precautions (5.11)].
