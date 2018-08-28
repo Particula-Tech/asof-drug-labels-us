@@ -27,7 +27,7 @@ It does not affect nucleic acid synthesis.
 
 ### Mechanism of Resistance
 
-The major route of resistance is modification of the 23S rNA in the 50S ribosomal subunit to insensitivity while efflux can also be significant.
+The major route of resistance is modification of the 23S rRNA in the 50S ribosomal subunit to insensitivity while efflux can also be significant.
 
 ### Interactions with Other Antibiotics
 
