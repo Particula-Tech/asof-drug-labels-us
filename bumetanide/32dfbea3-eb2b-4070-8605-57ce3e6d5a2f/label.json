@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA018225"
+  ],
+  "inn": "bumetanide",
+  "labeler": "Validus Pharmaceuticals LLC",
+  "package_ndcs": [
+    "30698-630-01",
+    "30698-631-01",
+    "30698-632-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "bumetanide",
+      "name": "Bumex"
+    }
+  ],
+  "setid": "32dfbea3-eb2b-4070-8605-57ce3e6d5a2f",
+  "source": "dailymed"
+}
