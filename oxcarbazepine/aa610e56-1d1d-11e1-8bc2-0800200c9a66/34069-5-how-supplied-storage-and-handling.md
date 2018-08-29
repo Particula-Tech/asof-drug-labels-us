@@ -4,18 +4,15 @@
 
 150 mg (yellow modified-oval shaped tablet printed "150" on one side with edible black ink).
 
-| Bottles of 100 tablets | NDC 17772-121-01 |
-| --- | --- |
+Bottles of 100 tablets……………………………NDC 17772-121-01
 
 300 mg (brown modified-oval shaped tablet printed "300" on one side with edible black ink).
 
-| Bottles of 100 tablets | NDC 17772-122-01 |
-| --- | --- |
+Bottles of 100 tablets……………………………NDC 17772-122-01
 
 600 mg (brownish red modified-oval shaped tablet printed "600" on one side with edible black ink).
 
-| Bottles of 100 tablets | NDC 17772-123-01 |
-| --- | --- |
+Bottles of 100 tablets………………………… NDC 17772-123-01
 
 ## 16.2 Storage and Handling
 

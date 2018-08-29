@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-The pharmacological activity of Oxtellar XR® is primarily exerted through the 10-monohydroxy metabolite (MHD) of oxcarbazepine [see Clinical Pharmacology (12.3)].
+The pharmacological activity of Oxtellar XR ® is primarily exerted through the 10-monohydroxy metabolite (MHD) of oxcarbazepine [see Clinical Pharmacology (12.3)].
 The precise mechanism by which oxcarbazepine and MHD exert their antiseizure effect is unknown; however, in vitro electrophysiological studies indicate that they produce blockade of voltage-sensitive sodium channels, resulting in stabilization of hyperexcited neural membranes, inhibition of repetitive neuronal firing, and diminution of propagation of synaptic impulses.
 These actions are thought to be important in the prevention of seizure spread in the intact brain.
 In addition, increased potassium conductance and modulation of high-voltage activated calcium channels may contribute to the anticonvulsant effects of the drug.
@@ -18,24 +18,24 @@ No development of tolerance (i.e., attenuation of anticonvulsive activity) was o
 
 Following oral administration, oxcarbazepine is absorbed and extensively metabolized to its pharmacologically active 10-monohydroxy metabolite (MHD), which is responsible for most antiepileptic activity.
 
-In clinical studies of Oxtellar XR®, the elimination half-life of oxcarbazepine was between 7 and 11 hours; the elimination half-life of MHD is between 9 and 11 hours.
+In clinical studies of Oxtellar XR ®, the elimination half-life of oxcarbazepine was between 7 and 11 hours; the elimination half-life of MHD is between 9 and 11 hours.
 
 In a mass balance study in human, only 2% of total radioactivity in plasma after administration of immediate-release oxcarbazepine was due to unchanged oxcarbazepine, with approximately 70% present as MHD, and the remainder attributable to minor metabolites.
 
 Absorption
 
-Oxtellar XR® administered as a once daily dose is not bioequivalent to the same total dose of the immediate release formulation given twice daily at steady state.
-Steady state plasma concentrations of MHD are reached within 5 days when Oxtellar XR® is given once daily.
-At steady state, when 1200 mg Oxtellar XR® was given once daily, MHD Cmax occurred 7 hours post-dose.
-At steady state, Oxtellar XR® given once daily produced MHD exposures (AUC and Cmax) about 19% lower and MHD minimum concentrations (Cmin) about 16% lower than the immediate-release oxcarbazepine given twice daily when administered at the same 1200 mg total daily dose.
-When Oxtellar XR® was administered at an equivalent 600 mg single dose (4 × 150 mg tablets, 2 × 300 mg tablets, or 1 × 600 mg tablet), equivalent MHD exposures (AUC) were observed.
+Oxtellar XR ® administered as a once daily dose is not bioequivalent to the same total dose of the immediate release formulation given twice daily at steady state.
+Steady state plasma concentrations of MHD are reached within 5 days when Oxtellar XR ® is given once daily.
+At steady state, when 1200 mg Oxtellar XR ® was given once daily, MHD C max occurred 7 hours post-dose.
+At steady state, Oxtellar XR ® given once daily produced MHD exposures (AUC and C max) about 19% lower and MHD minimum concentrations (C min) about 16% lower than the immediate-release oxcarbazepine given twice daily when administered at the same 1200 mg total daily dose.
+When Oxtellar XR ® was administered at an equivalent 600 mg single dose (4 x 150 mg tablets, 2 x 300 mg tablets, or 1 x 600 mg tablet), equivalent MHD exposures (AUC) were observed.
 
-Following a single dose of Oxtellar XR® (1 × 150 mg tablets, 1 × 300 mg tablets, or 1 × 600 mg tablet), the pharmacokinetics of MHD are not linear and show greater than dose proportional increase in AUC and less than proportional increase in Cmax: AUC increases 2.4-fold and Cmax increases 1.9-fold with a 2-fold increase in dose.
+Following a single dose of Oxtellar XR ® (1 x 150 mg tablets, 1 x 300 mg tablets, or 1 x 600 mg tablet), the pharmacokinetics of MHD are not linear and show greater than dose proportional increase in AUC and less than proportional increase in C max: AUC increases 2.4-fold and C max increases 1.9-fold with a 2-fold increase in dose.
 
-Effect of Food: Single dose administration of 600 mg Oxtellar XR® following a high fat meal (800 – 1000 calories) produced MHD exposure (AUC) equivalent to that produced under fasting conditions.
-Peak MHD concentration (Cmax) was about 60% higher and occurred 2 hours earlier under fed conditions than under fasting conditions.
+Effect of Food: Single dose administration of 600 mg Oxtellar XR ® following a high fat meal (800 – 1000 calories) produced MHD exposure (AUC) equivalent to that produced under fasting conditions.
+Peak MHD concentration (C max) was about 60% higher and occurred 2 hours earlier under fed conditions than under fasting conditions.
 
-The increase in Cmax, even without a significant change in the overall exposure, should be considered by the prescriber especially during the titration phase, when some adverse reactions are most likely to occur coincidentally with peak levels.
+The increase in C max, even without a significant change in the overall exposure, should be considered by the prescriber especially during the titration phase, when some adverse reactions are most likely to occur coincidentally with peak levels.
 
 Distribution
 
@@ -45,7 +45,7 @@ Oxcarbazepine and MHD do not bind to alpha-1-acid glycoprotein.
 
 Metabolism
 
-Oxcarbazepine is rapidly reduced by cytosolic enzymes in the liver to MHD, which is primarily responsible for the pharmacological effect of Oxtellar XR®.
+Oxcarbazepine is rapidly reduced by cytosolic enzymes in the liver to MHD, which is primarily responsible for the pharmacological effect of Oxtellar XR ®.
 MHD is metabolized further by conjugation with glucuronic acid.
 Minor amounts (4% of the dose) are oxidized to the pharmacologically inactive 10,11-dihydroxy metabolite (DHD).
 
@@ -57,14 +57,14 @@ Fecal excretion accounts for less than 4% of an administered dose.
 Approximately 80% of the dose is excreted in the urine either as glucuronides of MHD (49%) or as unchanged MHD (27%); the inactive DHD accounts for approximately 3% and conjugates of MHD and oxcarbazepine account for 13% of the dose.
 
 The half-life of the parent was about two hours, while the half-life of MHD was about nine hours after the immediate release formulation.
-A population pharmacokinetic model for Oxtellar XR® was developed in healthy normal adults and applied to pharmacokinetic data in patients with epilepsy.
+A population pharmacokinetic model for Oxtellar XR ® was developed in healthy normal adults and applied to pharmacokinetic data in patients with epilepsy.
 For oxcarbazepine, systemic parameters were scaled allometrically, suggesting that steady state oxcarbazepine exposure will vary inversely with weight.
 
 Special Populations
 
 Elderly
 
-No studies with Oxtellar XR® in elderly patients have been completed [see Use in Specific Populations (8.5)].
+No studies with Oxtellar XR ® in elderly patients have been completed [see Use in Specific Populations (8.5)].
 
 Following administration of single (300 mg) and multiple (600 mg/day) doses of immediate-release oxcarbazepine to elderly volunteers (60-82 years of age), the maximum plasma concentrations and AUC values of MHD were 30%-60% higher than in younger volunteers (18-32 years of age).
 
@@ -72,24 +72,24 @@ Comparisons of creatinine clearance in young and elderly volunteers indicate tha
 
 Pediatric
 
-Oxtellar XR® is not approved for pediatric patients less than 6 years of age because the size of the tablets are inappropriate for younger children, and has not been studied in patients younger than 4 years of age.
-A pharmacokinetic study of Oxtellar XR® was performed in 18 pediatric patients with epilepsy, 4 to 16 years of age, after multiple doses.
-The population pharmacokinetic model suggested that dosing of pediatric patients with Oxtellar XR®can be determined based on body weight.
+Oxtellar XR ® is not approved for pediatric patients less than 6 years of age because the size of the tablets are inappropriate for younger children, and has not been studied in patients younger than 4 years of age.
+A pharmacokinetic study of Oxtellar XR ® was performed in 18 pediatric patients with epilepsy, 4 to 16 years of age, after multiple doses.
+The population pharmacokinetic model suggested that dosing of pediatric patients with Oxtellar XR ®can be determined based on body weight.
 Weight-normalized doses in pediatric patients should produce MHD exposures (AUC) comparable to that in typical adults, with oxcarbazepine exposures ~40% higher in children than in adults [see Use in Specific Populations (8.4)].
 
 Gender
 
-The effects of gender have not been studied for Oxtellar XR®.
+The effects of gender have not been studied for Oxtellar XR ®.
 
 No gender-related pharmacokinetic differences have been observed in children, adults, or the elderly with immediate-release oxcarbazepine.
 
 Race
 
-The effects of race have not been studied for Oxtellar XR®.
+The effects of race have not been studied for Oxtellar XR ®.
 
 Renal or Hepatic Impairment
 
-The effects of renal or hepatic impairment have not been studied for Oxtellar XR® [see Use in Specific Populations (8.6, 8.7)].
+The effects of renal or hepatic impairment have not been studied for Oxtellar XR ® [see Use in Specific Populations (8.6, 8.7)].
 
 Based on investigations with immediate-release oxcarbazepine, there is a linear correlation between creatinine clearance and the renal clearance of MHD.
 When immediate-release oxcarbazepine is administered as a single 300 mg dose in renally-impaired patients (creatinine clearance <30 mL/min), the elimination half-life of MHD is prolonged to 19 hours, with a two-fold increase in AUC.
