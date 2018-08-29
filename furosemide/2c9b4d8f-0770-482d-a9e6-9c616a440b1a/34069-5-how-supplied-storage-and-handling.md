@@ -21,6 +21,6 @@ Manufactured for and Distributed by: Validus Pharmaceuticals LLC 119 Cherry Hill
 
 Product of Canada
 
-© 2017 Validus Pharmaceuticals LLC
+© 2018 Validus Pharmaceuticals LLC
 
-60031-03 July 2017
+60031-05 August 2018

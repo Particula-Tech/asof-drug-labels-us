@@ -135,7 +135,7 @@ LASIX (furosemide) produced no impairment of fertility in male or female rats, a
 
 ## Pregnancy
 
-PREGNANCY CATEGORY C - Furosemide has been shown to cause unexplained maternal deaths and abortions in rabbits at 2, 4 and 8 times the maximal recommended human dose.
+Furosemide has been shown to cause unexplained maternal deaths and abortions in rabbits at 2, 4 and 8 times the maximal recommended human dose.
 There are no adequate and well-controlled studies in pregnant women.
 LASIX should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 

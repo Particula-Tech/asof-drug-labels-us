@@ -4,10 +4,10 @@
 
 Therapy should be individualized according to patient response to gain maximal therapeutic response and to determine the minimal dose needed to maintain that response.
 
-Adults -- The usual initial dose of LASIX is 20 to 80mg given as a single dose.
+Adults -- The usual initial dose of LASIX is 20 mg to 80mg given as a single dose.
 Ordinarily a prompt diuresis ensues.
 If needed, the same dose can be administered 6 to 8 hours later or the dose may be increased.
-The dose may be raised by 20 or 40mg and given not sooner than 6 to 8 hours after the previous dose until the desired diuretic effect has been obtained.
+The dose may be raised by 20 mg or 40mg and given not sooner than 6 to 8 hours after the previous dose until the desired diuretic effect has been obtained.
 The individually determined single dose should then be given once or twice daily (e.g., at 8 am and 2 pm).
 The dose of LASIX may be carefully titrated up to 600 mg/day in patients with clinically severe edematous states.
 

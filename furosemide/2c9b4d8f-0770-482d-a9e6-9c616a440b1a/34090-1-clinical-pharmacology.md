@@ -7,8 +7,8 @@ The action on the distal tubule is independent of any inhibitory effect on carbo
 
 Recent evidence suggests that furosemide glucuronide is the only or at least the major biotransformation product of furosemide in man.
 Furosemide is extensively bound to plasma proteins, mainly to albumin.
-Plasma concentrations ranging from 1 to 400 μg/mL are 91 to 99% bound in healthy individuals.
-The unbound fraction averages 2.3 to 4.1% at therapeutic concentrations.
+Plasma concentrations ranging from 1 μg/mL to 400 μg/mL are 91% to 99% bound in healthy individuals.
+The unbound fraction averages 2.3% to 4.1% at therapeutic concentrations.
 
 The onset of diuresis following oral administration is within 1 hour.
 The peak effect occurs within the first or second hour.
