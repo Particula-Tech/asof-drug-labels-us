@@ -56,7 +56,7 @@ Due to the dual interaction mechanism of rifampin, simultaneous co-administratio
 
 ## 7.8 Digoxin
 
-When multiple doses of LIPITOR and digoxin were co-administered, steady state plasma digoxin concentrations increased by approximately 20%.
+When multiple doses of LIPITOR and digoxin were co-administered, steady state plasma digoxin concentrations increased [see Clinical Pharmacology (12.3)].
 Patients taking digoxin should be monitored appropriately.
 
 ## 7.9 Oral Contraceptives
