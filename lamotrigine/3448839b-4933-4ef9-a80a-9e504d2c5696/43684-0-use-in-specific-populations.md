@@ -57,8 +57,10 @@ Lamotrigine was associated with an increased risk for infectious adverse reactio
 Infectious adverse reactions included bronchiolitis, bronchitis, ear infection, eye infection, otitis externa, pharyngitis, urinary tract infection, and viral infection.
 Respiratory adverse reactions included nasal congestion, cough, and apnea.
 
-Additional information describing a clinical study in which efficacy was not demonstrated in pediatric patients ages 10 to 17 years is approved for GlaxoSmithKline LLC's LAMICTAL® (lamotrigine) products.
-However, due to GlaxoSmithKline LLC's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Bipolar Disorder
+
+Safety and efficacy of lamotrigine for the maintenance treatment of bipolar disorder were not established in a double-blind, randomized withdrawal, placebo-controlled trial that evaluated 301 pediatric patients aged 10 to 17 years with a current manic/hypomanic, depressed, or mixed mood episode as defined by DSM-IV-TR.
+In the randomized phase of the trial, adverse reactions that occurred in at least 5% of patients taking lamotrigine (n = 87) and were twice as common compared with patients taking placebo (n = 86) were influenza (lamotrigine 8%, placebo 2%), oropharyngeal pain (lamotrigine 8%, placebo 2%), vomiting (lamotrigine 6%, placebo 2%), contact dermatitis (lamotrigine 5%, placebo 2%), upper abdominal pain (lamotrigine 5%, placebo 1%), and suicidal ideation (lamotrigine 5%, placebo 0%).
 
 Juvenile Animal Data
 
