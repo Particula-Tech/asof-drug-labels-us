@@ -1,17 +1,19 @@
 # HOW SUPPLIED
 
-RIOMET (metformin hydrochloride oral solution) 500 mg/5 mL is a clear, colorless liquid with characteristic cherry or clear, colorless to light yellow liquid with characteristic strawberry flavor filled in 4 oz./16 oz.
-HDPE bottles with induction sealed child-resistant cap.
-
 Cherry Flavor
 
-NDC 10631-206-01 Bottles of 4 fl. oz.
-(118 mL)
+RIOMET (metformin hydrochloride oral solution) 500 mg/5 mL is a clear, colorless liquid filled in 4 oz./16 oz.
+HDPE bottles with induction sealed child-resistant cap and supplied as:
 
-NDC 10631-206-02 Bottles of 16 fl. oz.
-(473 mL)
+1. NDC 10631-206-01 Bottles of 4 fl. oz.
+   (118 mL)
+2. NDC 10631-206-02 Bottles of 16 fl. oz.
+   (473 mL)
 
 Strawberry Flavor
+
+RIOMET (metformin hydrochloride oral solution) 500 mg/5 mL is a clear, colorless to light yellow liquid filled in 4 oz./16 oz.
+HDPE bottles with induction sealed child-resistant cap and supplied as:
 
 1. NDC 10631-238-01 Bottles of 4 fl. oz.
    (118 mL)
@@ -26,10 +28,11 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 RIOMET is a registered trademark of Sun Pharmaceutical Industries Limited.
 
-Manufactured for:
+- Manufactured by:
+- Mikart, Inc.
+- Atlanta, GA 30318
+- Distributed by:
+- Sun Pharmaceutical Industries, Inc.
+- Cranbury, NJ 08512
 
-Ranbaxy Laboratories Inc.
-
-Jacksonville, FL 32257 USA
-
-1. April 2017 FDA-07
+1. June 2018 FDA-08

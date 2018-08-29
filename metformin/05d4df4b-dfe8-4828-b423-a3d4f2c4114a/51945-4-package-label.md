@@ -22,9 +22,9 @@ NDC 10631-238-01
 
 RIOMET®(metformin hydrochloride oral solution)
 
-500 mg/5 mL E
+500 mg/5 mL
 
-ach 5 mL contains: 500 mg of metformin hydrochloride, USP.
+Each 5 mL contains: 500 mg of metformin hydrochloride, USP.
 
 Strawberry Flavor
 

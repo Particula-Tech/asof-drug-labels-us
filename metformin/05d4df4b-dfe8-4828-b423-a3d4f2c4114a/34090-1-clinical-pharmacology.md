@@ -19,7 +19,7 @@ The rate and extent of absorption of RIOMET was found to be comparable to that o
 
 | Table 1. Select Mean (± S.D.) Pharmacokinetic Parameters Following Single Oral Doses of 1000 mg RIOMET and Metformin tablets in healthy, nondiabetic adults (n = 36) under fed and fasting conditions |  |  |  |
 | --- | --- | --- | --- |
-| Formulation | Cmax (ng/mL) | AUC0-∞ (ng.h/mL) | tmax (h) |
+| Formulation | Cmax(ng/mL) | AUC0-∞(ng.h/mL) | tmax (h) |
 | Study 1- Fasting state |  |  |  |
 | RIOMET | 1540.1 ± 451.1 | 9069.6 ± 2593.6 | 2.2 ± 0.5 |
 | Metformin Tablets | 1885.1 ± 498.5 | 11100.1 ± 2733.1 | 2.5 ± 0.6 |
@@ -79,7 +79,7 @@ No pharmacokinetic studies of metformin have been conducted in patients with hep
 #### Geriatrics
 
 Limited data from controlled pharmacokinetic studies of metformin in healthy elderly subjects suggest that total plasma clearance of metformin is decreased, the half-life is prolonged, and Cmax is increased, compared to healthy young subjects.
-From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function (see Table 3) (See WARNINGS, PRECAUTIONS and DOSAGE AND ADMINISTRATION.)
+From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function (see Table 3) (See WARNINGS, PRECAUTIONS andDOSAGE AND ADMINISTRATION.)
 
 | Table 3. Select Mean (± S.D.) Metformin Pharmacokinetic Parameters Following Single or Multiple Oral Doses of Metformin |  |  |  |
 | --- | --- | --- | --- |
