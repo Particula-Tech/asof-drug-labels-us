@@ -5,7 +5,7 @@
 Irinotecan is a derivative of camptothecin.
 Camptothecins interact specifically with the enzyme topoisomerase I, which relieves torsional strain in DNA by inducing reversible single-strand breaks.
 Irinotecan and its active metabolite SN-38 bind to the topoisomerase I-DNA complex and prevent religation of these single-strand breaks.
-Current research suggests that the cytotoxicity of irinotecan is due to double-strand DNA damage produced during DNA synthesis when replication enzymes interact with the ternary complex formed by topoisomerase I, DNA, and either irinotecan or SN-38.
+Current research suggests that the cytotoxicity of irinotecan is due to double-strand DNA damage produced during DNA synthesis when replication enzymes interact with the ternary complex formed by topoisomerase I, DNA, and either irinotecan hydrochloride or SN-38.
 Mammalian cells cannot efficiently repair these double-strand breaks.
 
 ## 12.2 Pharmacodynamics

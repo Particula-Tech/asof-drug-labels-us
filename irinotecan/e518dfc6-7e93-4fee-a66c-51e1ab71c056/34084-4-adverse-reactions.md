@@ -41,10 +41,10 @@ Study 1: Percent (%) of Patients Experiencing Clinically Relevant Adverse Events
 | TOTAL Adverse Events | 100 | 53.3 | 100 | 45.7 | 99.6 | 45.7 |
 | GASTROINTESTINAL |  |  |  |  |  |  |
 | Diarrhea | 84.9 | 22.7 | 69.4 | 13.2 | 83.0 | 31.0 |
-| late | -- | 15.1 | -- | 5.9 | -- | 18.4 |
+| Late | -- | 15.1 | -- | 5.9 | -- | 18.4 |
 | grade 3 | -- | 7.6 | -- | 7.3 | -- | 12.6 |
 | grade 4 | 45.8 | 4.9 | 31.5 | 1.4 | 43.0 | 6.7 |
-| early |  |  |  |  |  |  |
+| Early |  |  |  |  |  |  |
 | Nausea | 79.1 | 15.6 | 67.6 | 8.2 | 81.6 | 16.1 |
 | Abdominal pain | 63.1 | 14.6 | 50.2 | 11.5 | 67.7 | 13.0 |
 | Vomiting | 60.4 | 9.7 | 46.1 | 4.1 | 62.8 | 12.1 |
@@ -273,3 +273,5 @@ Transient dysarthria has been reported in patients treated with CAMPTOSAR; in so
 
 Interaction between CAMPTOSAR and neuromuscular blocking agents cannot be ruled out.
 Irinotecan has anticholinesterase activity, which may prolong the neuromuscular blocking effects of suxamethonium and the neuromuscular blockade of non-depolarizing drugs may be antagonized.
+
+Infections and infestations: bacterial, fungal, and viral infections have been reported.

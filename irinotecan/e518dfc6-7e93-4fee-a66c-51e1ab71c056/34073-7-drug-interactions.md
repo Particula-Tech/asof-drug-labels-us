@@ -16,7 +16,7 @@ Do not administer strong CYP3A4 inducers with CAMPTOSAR unless there are no ther
 ## 7.3 Strong CYP3A4 or UGT1A1 Inhibitors
 
 Irinotecan and its active metabolite, SN-38, are metabolized via the human cytochrome P450 3A4 isoenzyme (CYP3A4) and uridine diphosphate-glucuronosyl transferase 1A1 (UGT1A1), respectively, [see Clinical Pharmacology (12.3)].
-Patients receiving concomitant ketoconazole, a CYP3A4 and UGT1A1 inhibitor, have increased exposure to irinotecan and its active metabolite SN-38.
+Patients receiving concomitant ketoconazole, a CYP3A4 and UGT1A1 inhibitor, have increased exposure to irinotecan hydrochloride and its active metabolite SN-38.
 Coadministration of CAMPTOSAR with other inhibitors of CYP3A4 (e.g., clarithromycin, indinavir, itraconazole, lopinavir, nefazodone, nelfinavir, ritonavir, saquinavir, telaprevir, voriconazole) or UGT1A1 (e.g., atazanavir, gemfibrozil, indinavir) may increase systemic exposure to irinotecan or SN-38.
 Discontinue strong CYP3A4 inhibitors at least 1 week prior to starting CAMPTOSAR therapy.
 Do not administer strong CYP3A4 or UGT1A1 inhibitors with CAMPTOSAR unless there are no therapeutic alternatives.
