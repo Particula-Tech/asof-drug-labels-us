@@ -21,16 +21,16 @@ The clinical significance of these various changes in vital signs has not been c
 
 Absorption and Distribution
 
-Linear pharmacokinetics of topiramate from TROKENDI XR® were observed following a single oral dose over the range of 50 mg to 200 mg.
-At 25 mg, the pharmacokinetics of TROKENDI XR® is nonlinear possibly due to the binding of topiramate to carbonic anhydrase in red blood cells.
+Linear pharmacokinetics of topiramate from TROKENDI XR ® were observed following a single oral dose over the range of 50 mg to 200 mg.
+At 25 mg, the pharmacokinetics of TROKENDI XR ® is nonlinear possibly due to the binding of topiramate to carbonic anhydrase in red blood cells.
 
-The peak plasma concentrations (Cmax) of topiramate occurred at approximately 24 hours following a single 200 mg oral dose of TROKENDI XR®.
-At steady-state, the (AUC0-24, Cmax, and Cmin) of topiramate from TROKENDI XR® administered once-daily and the immediate-release tablet administered twice-daily were shown to be bioequivalent.
-Fluctuation of topiramate plasma concentrations at steady-state for TROKENDI XR® administered once-daily was approximately 26% and 42% in healthy subjects and in epileptic patients, respectively, compared to approximately 40% and 51%, respectively, for immediate-release topiramate [see Clinical Pharmacology (12.6)].
+The peak plasma concentrations (C max) of topiramate occurred at approximately 24 hours following a single 200 mg oral dose of TROKENDI XR ®.
+At steady-state, the (AUC 0-24, C max, and C min) of topiramate from TROKENDI XR ® administered once-daily and the immediate-release tablet administered twice-daily were shown to be bioequivalent.
+Fluctuation of topiramate plasma concentrations at steady-state for TROKENDI XR ® administered once-daily was approximately 26% and 42% in healthy subjects and in epileptic patients, respectively, compared to approximately 40% and 51%, respectively, for immediate-release topiramate [see Clinical Pharmacology (12.6)].
 
-Compared to the fasted state, high-fat meal increased the Cmax of topiramate by 37% and shortened the Tmax to approximately 8 hour following a single dose of TROKENDI XR®, while having no effect on the AUC.
-Modeling of the observed single dose fed data with simulation to steady state showed that the effect on Cmax is significantly reduced following repeat administrations.
-TROKENDI XR® can be taken without regard to meals.
+Compared to the fasted state, high-fat meal increased the C max of topiramate by 37% and shortened the T max to approximately 8 hour following a single dose of TROKENDI XR ®, while having no effect on the AUC.
+Modeling of the observed single dose fed data with simulation to steady state showed that the effect on C max is significantly reduced following repeat administrations.
+TROKENDI XR ® can be taken without regard to meals.
 
 Topiramate is 15% to 41% bound to human plasma proteins over the blood concentration range of 0.5 mcg/mL to 250 mcg/mL.
 The fraction bound decreased as blood concentration increased.
@@ -48,13 +48,13 @@ There is evidence of renal tubular reabsorption of topiramate.
 In rats, given probenecid to inhibit tubular reabsorption, along with topiramate, a significant increase in renal clearance of topiramate was observed.
 This interaction has not been evaluated in humans.
 Overall, oral plasma clearance (CL/F) is approximately 20 mL/min to 30 mL/min in adults following oral administration.
-The mean elimination half-life of topiramate was approximately 31 hours following repeat administration of TROKENDI XR®.
+The mean elimination half-life of topiramate was approximately 31 hours following repeat administration of TROKENDI XR ®.
 
 Specific Populations
 
 Renal Impairment
 
-The clearance of topiramate was reduced by 42% in subjects with moderate renal impairment (creatinine clearance 30 to 69 mL/min/1.73m2) and by 54% in subjects with severe renal impairment (creatinine clearance less than 30 mL/min/1.73m2) compared to subjects with normal renal function (creatinine clearance greater than 70 mL/min/1.73m2) [see Dosage and Administration (2.5)].
+The clearance of topiramate was reduced by 42% in subjects with moderate renal impairment (creatinine clearance 30 to 69 mL/min/1.73m 2) and by 54% in subjects with severe renal impairment (creatinine clearance less than 30 mL/min/1.73m 2) compared to subjects with normal renal function (creatinine clearance greater than 70 mL/min/1.73m 2) [see Dosage and Administration (2.5)].
 
 Hemodialysis
 
@@ -76,10 +76,10 @@ Similarly, topiramate half-life was longer (13%) in the elderly.
 Reduced topiramate clearance resulted in slightly higher maximum plasma concentration (23%) and AUC (25%) in elderly subjects than observed in young adults.
 Topiramate clearance is decreased in the elderly only to the extent that renal function is reduced.
 
-In a study of 13 healthy elderly subjects and 18 healthy young adults who received TROKENDI XR®, 30% higher mean Cmax and 44% higher AUC values were observed in elderly compared to young subjects.
-Elderly subjects exhibited shorter median Tmax at 16 hours versus 24 hours in young subjects.
+In a study of 13 healthy elderly subjects and 18 healthy young adults who received TROKENDI XR ®, 30% higher mean C max and 44% higher AUC values were observed in elderly compared to young subjects.
+Elderly subjects exhibited shorter median T max at 16 hours versus 24 hours in young subjects.
 The apparent elimination half-life was similar across age groups.
-As recommended for all patients, dosage adjustment is indicated in elderly patients with a creatinine clearance rate less than 70 mL/min/1.73 m2) [see Dosage and Administration (2.5) and Use in Specific Populations (8.5)].
+As recommended for all patients, dosage adjustment is indicated in elderly patients with a creatinine clearance rate less than 70 mL/min/1.73 m 2) [s ee Dosage and Administration (2.5) and Use in Specific Populations (8.5)].
 
 Clearance of topiramate in adults was not affected by gender or race.
 
@@ -100,13 +100,13 @@ Drug-Drug Interaction Studies
 
 In vitro studies indicate that topiramate does not inhibit CYP1A2, CYP2A6, CYP2B6, CYP2C9, CYP2D6, CYP2E1, and CYP3A4/5 isozymes.
 In vitro studies indicate that immediate-release topiramate is a mild inhibitor of CYP2C19 and a mild inducer of CYP3A4.
-The same drug interactions can be expected with the use of TROKENDI XR®.
+The same drug interactions can be expected with the use of TROKENDI XR ®.
 
 Antiepileptic Drugs
 
 Potential interactions between immediate-release topiramate and standard AEDs were assessed in controlled clinical pharmacokinetic studies in patients with epilepsy.
 The effects of these interactions on mean plasma AUCs are summarized in Table 9.
-Interaction of TROKENDI XR® and standard AEDs is not expected to differ from the experience with immediate-release topiramate products.
+Interaction of TROKENDI XR ® and standard AEDs is not expected to differ from the experience with immediate-release topiramate products.
 
 In Table 9, the second column (AED concentration) describes what happens to the concentration of the co-administered AED listed in the first column when topiramate was added.
 The third column (topiramate concentration) describes how the co-administration of a drug listed in the first column modifies the concentration of topiramate when compared to topiramate given alone.
@@ -115,9 +115,9 @@ Table 9: Summary of AED Interactions with topiramate
 
 | AED Coadministered | AED Concentration | Topiramate Concentration |
 | --- | --- | --- |
-| Phenytoin | NC or 25% increase=Plasma concentration increased 25% in some patients, generally those on a twice a day dosing regimen of phenytoin | 48% decrease |
+| Phenytoin | NC or 25% increase =Plasma concentration increased 25% in some patients, generally those on a twice a day dosing regimen of phenytoin | 48% decrease |
 | Carbamazepine (CBZ) | NC | 40% decrease |
-| CBZ epoxide=Is not administered but is an active metabolite of carbamazepine | NC | NE |
+| CBZ epoxide =Is not administered but is an active metabolite of carbamazepine | NC | NE |
 | Valproic acid | 11% decrease | 14% decrease |
 | Phenobarbital | NC | NE |
 | Primidone | NC | NE |
@@ -139,7 +139,7 @@ The clinical relevance of this observation has not been established.
 Hydrochlorothiazide
 
 A drug interaction study conducted in healthy volunteers evaluated the steady-state pharmacokinetics of hydrochlorothiazide (HCTZ) (25 mg every 24 hours) and topiramate (96 mg every 12 hours) when administered alone and concomitantly.
-The results of this study indicate that topiramate Cmax increased by 27% and AUC increased by 29% when HCTZ was added to topiramate.
+The results of this study indicate that topiramate C max increased by 27% and AUC increased by 29% when HCTZ was added to topiramate.
 The clinical significance of this change is unknown.
 The steady-state pharmacokinetics of HCTZ were not significantly influenced by the concomitant administration of topiramate.
 Clinical laboratory results indicated decreases in serum potassium after topiramate or HCTZ administration, which were greater when HCTZ and topiramate were administered in combination [see Drug Interactions (7.6)].
@@ -147,30 +147,29 @@ Clinical laboratory results indicated decreases in serum potassium after topiram
 Metformin
 
 A drug interaction study conducted in healthy volunteers evaluated the steady-state pharmacokinetics of metformin (500 mg every 12 hours) and topiramate in plasma when metformin was given alone and when metformin and topiramate (100 mg every 12 hours) were given simultaneously.
-The results of this study indicated that the mean metformin Cmax and AUC0-12h increased by 17% and 25%, respectively, when topiramate was added.
-Topiramate did not affect metformin Tmax.
-The clinical significance of the effect of topiramate on metformin pharmacokinetics is not known.
+The results of this study indicated that the mean metformin C max and AUC 0-12h increased by 17% and 25%, respectively, when topiramate was added.
+Topiramate did not affect metformin T max. The clinical significance of the effect of topiramate on metformin pharmacokinetics is not known.
 Oral plasma clearance of topiramate appears to be reduced when administered with metformin.
-The clinical significance of the effect of metformin on topiramate or TROKENDI XR® pharmacokinetics is unclear.
+The clinical significance of the effect of metformin on topiramate or TROKENDI XR ® pharmacokinetics is unclear.
 
 Pioglitazone
 
 A drug interaction study conducted in healthy volunteers evaluated the steady-state pharmacokinetics of topiramate and pioglitazone when administered alone and concomitantly.
-A 15% decrease in the AUCτ,ss of pioglitazone with no alteration in Cmax,ss was observed.
+A 15% decrease in the AUC τ,ss of pioglitazone with no alteration in C max,ss was observed.
 This finding was not statistically significant.
-In addition, a 13% and 16% decrease in Cmax,ss and AUCτ,ss respectively, of the active hydroxy-metabolite was noted as well as a 60% decrease in Cmax,ss and AUCτ,ss of the active keto-metabolite.
+In addition, a 13% and 16% decrease in C max,ss and AUC τ,ss respectively, of the active hydroxy-metabolite was noted as well as a 60% decrease in C max,ss and AUC τ,ss of the active keto-metabolite.
 The clinical significance of these findings is not known [see Drug Interactions (7.7)].
 
 Glyburide
 
 A drug interaction study conducted in patients with type 2 diabetes evaluated the steady-state pharmacokinetics of glyburide (5 mg per day) alone and concomitantly with topiramate (150 mg per day).
-There was a 22% decrease in Cmax and 25% reduction in AUC24 for glyburide during topiramate administration.
-Systemic exposure (AUC) of the active metabolites, 4-trans-hydroxy glyburide (M1) and 3-cis-hydroxyglyburide (M2), was also reduced by 13% and 15%, reduced Cmax by 18% and 25%, respectively.
+There was a 22% decrease in C max and 25% reduction in AUC 24 for glyburide during topiramate administration.
+Systemic exposure (AUC) of the active metabolites, 4- trans-hydroxy glyburide (M1) and 3- cis-hydroxyglyburide (M2), was also reduced by 13% and 15%, reduced C max by 18% and 25%, respectively.
 The steady-state pharmacokinetics of topiramate were unaffected by concomitant administration of glyburide.
 
 Lithium
 
-In patients, the pharmacokinetics of lithium were unaffected during treatment with topiramate at doses of 200 mg per day; however, there was an observed increase in systemic exposure of lithium (27% for Cmax and 26% for AUC) following topiramate doses up to 600 mg per day[see Drug Interactions (7.8)].
+In patients, the pharmacokinetics of lithium were unaffected during treatment with topiramate at doses of 200 mg per day; however, there was an observed increase in systemic exposure of lithium (27% for C max and 26% for AUC) following topiramate doses up to 600 mg per day[see Drug Interactions (7.8)].
 
 Haloperidol
 
@@ -178,7 +177,7 @@ The pharmacokinetics of a single dose of haloperidol (5 mg) were not affected fo
 
 Amitriptyline
 
-There was a 12% increase in AUC and Cmax for amitriptyline (25 mg per day) in 18 healthy subjects (9 males, 9 females) receiving 200 mg per day of immediate-release topiramate [see Drug Interactions (7.9)].
+There was a 12% increase in AUC and C max for amitriptyline (25 mg per day) in 18 healthy subjects (9 males, 9 females) receiving 200 mg per day of immediate-release topiramate [see Drug Interactions (7.9)].
 
 Sumatriptan
 
@@ -188,7 +187,7 @@ Risperidone
 
 When administered concomitantly with topiramate at escalating doses of 100, 250, and 400 mg per day, there was a reduction in risperidone systemic exposure (16% and 33% for steady-state AUC at the 250 and 400 mg per day doses of topiramate).
 No alterations of 9-hydroxyrisperidone levels were observed.
-Coadministration of topiramate 400 mg per day with risperidone resulted in a 14% increase in Cmax and a 12% increase in AUC12 of topiramate.
+Coadministration of topiramate 400 mg per day with risperidone resulted in a 14% increase in C max and a 12% increase in AUC 12 of topiramate.
 There were no clinically significant changes in the systemic exposure of risperidone plus 9-hydroxyrisperidone or of topiramate; therefore, this interaction is not likely to be of clinical significance.
 
 Propranolol
@@ -203,27 +202,26 @@ Similarly, a 1 mg subcutaneous dose of dihydroergotamine did not affect the phar
 
 Diltiazem
 
-Co-administration of diltiazem (240 mg Cardizem CD®) with topiramate (150 mg/day) resulted in a 10% decrease in Cmax and 25% decrease in diltiazem AUC, 27% decrease in Cmax and 18% decrease in des-acetyl diltiazem AUC, and no effect on N-desmethyl diltiazem.
-Co-administration of topiramate with diltiazem resulted in a 16% increase in Cmax and a 19% increase in AUC12 of topiramate.
+Co-administration of diltiazem (240 mg Cardizem CD ®) with topiramate (150 mg/day) resulted in a 10% decrease in C max and 25% decrease in diltiazem AUC, 27% decrease in C max and 18% decrease in des-acetyl diltiazem AUC, and no effect on N-desmethyl diltiazem.
+Co-administration of topiramate with diltiazem resulted in a 16% increase in C max and a 19% increase in AUC 12 of topiramate.
 
 Venlafaxine
 
 Multiple dosing of topiramate (150 mg/day) in healthy volunteers did not affect the pharmacokinetics of venlafaxine or O-desmethyl venlafaxine.
 Multiple dosing of venlafaxine (150 mg) did not affect the pharmacokinetics of topiramate.
 
-## 12.6 Relative Bioavailability of TROKENDI XR® Compared to Immediate-Release Topiramate
+## 12.6 Relative Bioavailability of TROKENDI XR ® Compared to Immediate-Release Topiramate
 
 Study in Healthy Normal Volunteers
 
-TROKENDI XR® taken once a day provides steady state plasma levels comparable to immediate-release topiramate taken every 12 hours, when administered at the same total 200-mg daily dose.
-In a crossover study, 33 healthy subjects were titrated to a 200-mg dose of either TROKENDI XR® or immediate-release topiramate and were maintained at 200 mg per day for 10 days.
+TROKENDI XR ® taken once a day provides steady state plasma levels comparable to immediate-release topiramate taken every 12 hours, when administered at the same total 200-mg daily dose.
+In a crossover study, 33 healthy subjects were titrated to a 200-mg dose of either TROKENDI XR ® or immediate-release topiramate and were maintained at 200 mg per day for 10 days.
 
-The 90% CI for the ratios of AUC0-24, Cmax and Cmin, as well as partial AUC (the area under the concentration-time curve from time 0 to time p (post dose) for multiple time points were within the 80 to 125% bioequivalence limits, indicating no clinically significant difference between the two formulations.
+The 90% CI for the ratios of AUC 0-24, C max and C min, as well as partial AUC (the area under the concentration-time curve from time 0 to time p (post dose) for multiple time points were within the 80 to 125% bioequivalence limits, indicating no clinically significant difference between the two formulations.
 In addition, the 90% CI for the ratios of topiramate plasma concentration at each of multiple time points over 24 hours for the two formulations were within the 80 to 125% bioequivalence limits, except for the initial time points before 1.5 hour post-dose.
 
 Study in Patients with Epilepsy
 
-In a study in epilepsy patients treated with immediate-release topiramate alone or in combination with either enzyme-inducing or neutral AEDs who were switched to an equivalent daily dose of TROKENDI XR®, there was a 10% decrease in AUC0-24, Cmax, and Cmin on the first day after the switch in all patients.
-At steady state, AUC0-24 and Cmax were comparable to immediate-release topiramate in all patients.
-While patients treated with TROKENDI XR® alone or in combination with neutral AEDs showed comparable Cmin at steady state, patients treated with enzyme-inducers showed a 10% decrease in Cmin.
-This difference is likely not clinically significant and probably due to the small number of patients on enzyme-inducers.
+In a study in epilepsy patients treated with immediate-release topiramate alone or in combination with either enzyme-inducing or neutral AEDs who were switched to an equivalent daily dose of TROKENDI XR ®, there was a 10% decrease in AUC 0-24, C max, and C min on the first day after the switch in all patients.
+At steady state, AUC 0-24 and C max were comparable to immediate-release topiramate in all patients.
+While patients treated with TROKENDI XR ® alone or in combination with neutral AEDs showed comparable C min at steady state, patients treated with enzyme-inducers showed a 10% decrease in C min. This difference is likely not clinically significant and probably due to the small number of patients on enzyme-inducers.

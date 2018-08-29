@@ -56,22 +56,22 @@ Animal Data
 When topiramate (20, 100, and 500 mg/kg/day) was administered orally to pregnant mice during the period of organogenesis, the incidence of fetal malformations (primarily craniofacial defects) was increased at all doses.
 Fetal body weights and skeletal ossification were reduced at the highest dose tested in conjunction with decreased maternal body weight gain.
 A no-effect dose for embryofetal developmental toxicity in mice was not identified.
-The lowest dose tested, which was associated with teratogenic effects, is less than the maximum recommended human dose (MRHD) for epilepsy (400 mg/day) or migraine (100 mg/day) on a body surface area (mg/m2) basis.
+The lowest dose tested, which was associated with teratogenic effects, is less than the maximum recommended human dose (MRHD) for epilepsy (400 mg/day) or migraine (100 mg/day) on a body surface area (mg/m 2) basis.
 
 In pregnant rats administered topiramate (20, 100, and 500 mg/kg/day or 0.2, 2.5, 30, and 400 mg/kg/day) orally during the period of organogenesis, the frequency of limb malformations (ectrodactyly, micromelia, and amelia) was increased in fetuses at 400 or 500 mg/kg/day.
 Embryotoxicity (reduced fetal body weights, increased incidences of structural variations) was observed at doses as low as 20 mg/kg/day.
 Clinical signs of maternal toxicity were seen at 400 mg/kg/day and above, and maternal body weight gain was reduced at doses of 100 mg/kg/day or greater.
-The no-effect dose for embryofetal developmental toxicity in rats is less than the MRHD for epilepsy or migraine on a mg/m2 basis.
+The no-effect dose for embryofetal developmental toxicity in rats is less than the MRHD for epilepsy or migraine on a mg/m 2 basis.
 
 In pregnant rabbits administered topiramate (20, 60, and 180 mg/kg/day or 10, 35, and 120 mg/kg/day) orally during organogenesis, embryofetal mortality was increased at 35 mg/kg/day and teratogenic effects (primarily rib and vertebral malformations) were observed at 120 mg/kg/day.
 Evidence of maternal toxicity (decreased body weight gain, clinical signs, and/or mortality) was seen at 35 mg/kg/day and above.
-The no-effect dose (20 mg/kg/day) for embryofetal developmental toxicity in rabbits is equivalent to the MRHD for epilepsy and approximately 4 times the MRHD for migraine on a mg/m2 basis.
+The no-effect dose (20 mg/kg/day) for embryofetal developmental toxicity in rabbits is equivalent to the MRHD for epilepsy and approximately 4 times the MRHD for migraine on a mg/m 2 basis.
 
 When topiramate (0.2, 4, 20, and 100 mg/kg/day or 2, 20, and 200 mg/kg/day) was administered orally to female rats during the latter part of gestation and throughout lactation, offspring exhibited decreased viability and delayed physical development at 200 mg/kg/day and reductions in pre-and/or postweaning body weight gain at 2 mg/kg/day and above.
 Maternal toxicity (decreased body weight gain, clinical signs) was evident at 100 mg/kg/day or greater.
 
 In a rat embryo/fetal development study which included postnatal assessment of offspring, oral administration of topiramate (0.2, 2.5, 30, and 400 mg/kg/day) to pregnant animals during the period of organogenesis resulted in delayed physical development at 400 mg/kg/day and persistent reductions in body weight gain at 30 mg/kg/day and higher in the offspring.
-The no-effect dose (0.2 mg/kg/day) for pre- and postnatal developmental toxicity is less than the MRHD for epilepsy or migraine on a mg/m2 basis.
+The no-effect dose (0.2 mg/kg/day) for pre- and postnatal developmental toxicity is less than the MRHD for epilepsy or migraine on a mg/m 2 basis.
 
 ## 8.2 Lactation
 
@@ -96,7 +96,7 @@ Women of childbearing potential who are not planning a pregnancy should use effe
 
 Seizures in Pediatric Patients 6 Years of Age and Older
 
-The safety and effectiveness of TROKENDI XR® for treatment of partial onset seizures, primary generalized tonic-clonic seizures, or Lennox-Gastaut syndromes in pediatric patients at least 6 years of age is based on controlled trials with immediate-release topiramate [see Clinical Studies (14.2, 14.3)].
+The safety and effectiveness of TROKENDI XR ® for treatment of partial onset seizures, primary generalized tonic-clonic seizures, or Lennox-Gastaut syndromes in pediatric patients at least 6 years of age is based on controlled trials with immediate-release topiramate [see Clinical Studies (14.2, 14.3)].
 
 The adverse reactions in pediatric patients treated for partial onset seizure, primary generalized tonic-clonic seizures, or Lennox-Gastaut syndrome are similar to those seen in adults [see Warnings and Precautions (5) and Adverse Reactions (6)].
 
@@ -110,7 +110,7 @@ Not Recommended for Pediatric Patients Younger than 6 Years of Age
 
 The safety and effectiveness of TROKENDI XR for treatment of partial onset seizures, primary generalized tonic-clonic seizures, or Lennox-Gastaut syndromes in pediatric patients younger than 6 years of age has not been established.
 
-Because the capsule must be swallowed whole, and may not be sprinkled on food, crushed or chewed, TROKENDI XR® is recommended only for children age 6 or older.
+Because the capsule must be swallowed whole, and may not be sprinkled on food, crushed or chewed, TROKENDI XR ® is recommended only for children age 6 or older.
 
 The following pediatric use information for adjunctive treatment for partial onset epilepsy in infants and toddlers (1 to 24 months) is based on studies conducted with immediate-release topiramate, which failed to demonstrate efficacy.
 
@@ -181,17 +181,17 @@ The risk for cognitive adverse reactions was greater in younger patients (6 to 1
 
 Juvenile Animal Studies
 
-When topiramate (30, 90, and 300 mg/kg/day) was administered orally to rats during the juvenile period of development (postnatal days 12 to 50), bone growth plate thickness was reduced in males at the highest dose, which is approximately 5-8 times the maximum recommended pediatric dose (9 mg/kg/day) on a body surface area (mg/m2) basis.
+When topiramate (30, 90, and 300 mg/kg/day) was administered orally to rats during the juvenile period of development (postnatal days 12 to 50), bone growth plate thickness was reduced in males at the highest dose, which is approximately 5-8 times the maximum recommended pediatric dose (9 mg/kg/day) on a body surface area (mg/m 2) basis.
 
 ## 8.5 Geriatric Use
 
 Clinical studies of immediate-release topiramate did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently than younger subjects.
-Dosage adjustment may be necessary for elderly with creatinine clearance less than 70 mL/min/1.73 m2.
+Dosage adjustment may be necessary for elderly with creatinine clearance less than 70 mL/min/1.73 m 2.
 Estimate GFR should be measured prior to dosing [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
-The clearance of topiramate is reduced in patients with moderate (creatinine clearance 30 to 69 mL/min/1.73m2) and severe (creatinine clearance less than 30 mL/min/1.73m2) renal impairment.
+The clearance of topiramate is reduced in patients with moderate (creatinine clearance 30 to 69 mL/min/1.73m 2) and severe (creatinine clearance less than 30 mL/min/1.73m 2) renal impairment.
 A dosage adjustment is recommended in patients with moderate or severe renal impairment [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Patients Undergoing Hemodialysis

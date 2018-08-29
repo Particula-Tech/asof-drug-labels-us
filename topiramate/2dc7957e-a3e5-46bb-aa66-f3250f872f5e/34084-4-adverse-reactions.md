@@ -14,7 +14,7 @@ The following serious adverse reactions are discussed in more detail in other se
 - Hypothermia with Concomitant Valproic Acid Use [see Warnings and Precautions (5.12)]
 
 The data described in the following sections were obtained using immediate-release topiramate tablets.
-TROKENDI XR® has not been studied in a randomized, placebo-controlled Phase III clinical study; however, it is expected that TROKENDI XR® would produce a similar adverse reaction profile as immediate-release topiramate.
+TROKENDI XR ® has not been studied in a randomized, placebo-controlled Phase III clinical study; however, it is expected that TROKENDI XR ® would produce a similar adverse reaction profile as immediate-release topiramate.
 
 ## 6.1 Clinical Trials Experience
 
@@ -38,7 +38,7 @@ The most common (≥ 2% more frequent than in the 50 mg/day group) adverse react
 
 Tables 3 and 4 present the incidence of adverse reactions occurring in at least 3% of adult and pediatric patients treated with 400 mg/day immediate-release topiramate and occurring with greater incidence than 50 mg/day topiramate.
 
-Table 3: Incidence (%) of Adverse Reaction in the Monotherapy Epilepsy Trial in AdultsValues represent the percentage of patients reporting a given adverse reaction.
+Table 3: Incidence (%) of Adverse Reaction in the Monotherapy Epilepsy Trial in Adults Values represent the percentage of patients reporting a given adverse reaction.
 Patients may have reported more than one adverse reaction during the study and can be included in more than one adverse reaction category Where Incidence Was at Least 3% in the 400 mg/day Immediate-Release Topiramate Group and Greater Than the Rate in the 50 mg/day Immediate-Release Topiramate Group
 
 | Adverse Reaction | (N=160) | (N=159) |
@@ -93,7 +93,7 @@ Patients may have reported more than one adverse reaction during the study and c
 | Cystitis | 1 | 3 |
 | Renal calculus | 0 | 3 |
 
-Table 4: Incidence (%) of Adverse Reactions in the Monotherapy Epilepsy Trial in Pediatric Patients (Ages 6 to 15 Years)Values represent the percentage of patients reporting a given adverse event.
+Table 4: Incidence (%) of Adverse Reactions in the Monotherapy Epilepsy Trial in Pediatric Patients (Ages 6 to 15 Years) Values represent the percentage of patients reporting a given adverse event.
 Patients may have reported more than one adverse event during the study and can be included in more than one adverse event category Where Incidence Was at Least 3% in the 400 mg/day Immediate-Release Topiramate Group and Greater than the Rate in the 50 mg/day Immediate-Release Topiramate Group
 
 | Adverse Reaction | (N=74) | (N=77) |
@@ -123,7 +123,7 @@ Patients may have reported more than one adverse event during the study and can 
 | Personality disorder (behavior problems) | 0 | 3 |
 | Red Blood Cell Disorders |  |  |
 | Anemia | 1 | 3 |
-| Reproductive Disorders, FemaleN with Reproductive Disorders, Female-Incidence calculated relative to the number of females; Pediatric TPM 50 mg n=40; Pediatric TPM 400 mg n=33 |  |  |
+| Reproductive Disorders, Female N with Reproductive Disorders, Female-Incidence calculated relative to the number of females; Pediatric TPM 50 mg n=40; Pediatric TPM 400 mg n=33 |  |  |
 | Intermenstrual bleeding | 0 | 3 |
 | Resistance Mechanism Disorders |  |  |
 | Infection | 3 | 8 |
@@ -219,7 +219,7 @@ The most common adverse reactions in the controlled clinical trial that occurred
 Table 6 presents the incidence of adverse reactions that occurred in at least 3% of pediatric patients 2 to 15 years of age receiving 5 mg to 9 mg/kg/day (recommended dosage range) of immediate-release topiramate and was greater than placebo incidence.
 
 Table 6.
-Adverse Reactions in Pooled Placebo-Controlled, Adjunctive Epilepsy Trial in Pediatric Patients 2 to 15 Years of AgePatients in these adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to topiramate or placebo,Values represent the percentage of patients reporting a given adverse reaction.
+Adverse Reactions in Pooled Placebo-Controlled, Adjunctive Epilepsy Trial in Pediatric Patients 2 to 15 Years of Age Patients in these adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to topiramate or placebo,Values represent the percentage of patients reporting a given adverse reaction.
 Patients may have reported more than one adverse reaction during the study and can be included in more than one adverse reaction category
 
 | Body System/ Adverse Reaction | Placebo (N=101) % | Topiramate (N=98) % |
@@ -276,7 +276,7 @@ The most common adverse reactions with immediate-release topiramate 100mg in mig
 Table 7 includes those adverse reactions that occurred in the placebo-controlled trials where the incidence in any immediate-release topiramate group was at least 3% and was greater than that for placebo patients.
 The incidence of some adverse reactions (e.g., fatigue, dizziness, somnolence, difficulty with memory, difficulty with concentration/attention) was dose-related and greater at higher than recommended topiramate dosing (200 mg/day) compared to the incidence of these adverse reactions at the recommended dosing (100 mg/day).
 
-Table 7: Adverse Reactions in Pooled, Placebo-Controlled, Migraine Trials in AdultsIncludes 35 adolescent patients age 12 to 15 years,Values represent the percentage of patients reporting a given reaction.
+Table 7: Adverse Reactions in Pooled, Placebo-Controlled, Migraine Trials in Adults Includes 35 adolescent patients age 12 to 15 years,Values represent the percentage of patients reporting a given reaction.
 Patients may have reported more than one adverse reaction during the study and can be included in more than one adverse reaction category.,Blurred vision was the most common term considered as vision abnormal.
 Blurred vision was an included term that accounted for more than 50% of reactions coded as vision abnormal, a preferred term
 
@@ -354,7 +354,7 @@ Table 8 also shows adverse reactions in pediatric patients in controlled migrain
 Many adverse reactions shown in Table 8 indicate a dose-dependent relationship.
 The incidence of some adverse reactions (e.g., allergy, fatigue, headache, anorexia, insomnia, somnolence, and viral infection) was dose-related and greater at higher than recommended immediate-release topiramate dosing (200 mg daily) compared to the incidence of these adverse reactions at the recommended dosing (100 mg daily).
 
-Table 8: Adverse Reactions in Pooled Double-Blind Migraine Prophylaxis Studies in Pediatric Patients 12 to 17 Years of Age)35 adolescent patients aged 12 to <16 years were also included in adverse reaction assessment for adultsIncidence is based on the number of subjects experiencing at least 1 adverse event, not the number of events.
+Table 8: Adverse Reactions in Pooled Double-Blind Migraine Prophylaxis Studies in Pediatric Patients 12 to 17 Years of Age) 35 adolescent patients aged 12 to <16 years were also included in adverse reaction assessment for adultsIncidence is based on the number of subjects experiencing at least 1 adverse event, not the number of events.
 
 | Body System/ Adverse Reaction | Placebo (N=45) % | 50 mg/day (N=46) % | 100 mg/day (N=48) % |
 | --- | --- | --- | --- |
@@ -413,11 +413,11 @@ Pediatric Patients
 
 In pediatric patients (1-24 months) receiving adjunctive topiramate for partial onset seizures, there was an increased incidence for an increased result (relative to normal analyte reference range) associated with immediate-release topiramate (vs placebo) for the following clinical laboratory analytes: creatinine, BUN, alkaline phosphatase, and total protein.
 The incidence was also increased for a decreased result for bicarbonate (i.e., metabolic acidosis), and potassium with immediate-release topiramate (vs. placebo) [see Use in Specific Populations (8.4)].
-TROKENDI XR® is not indicated for partial onset seizures in pediatric patients less than 6 years of age.
+TROKENDI XR ® is not indicated for partial onset seizures in pediatric patients less than 6 years of age.
 
 In pediatric patients (ranging from 6-17 years old) receiving immediate-release topiramate for migraine prophylaxis, there was an increased incidence for an increased result (relative to normal analyte reference range) associated with immediate-release topiramate (vs placebo) for the following clinical laboratory analytes: creatinine, BUN, uric acid, chloride, ammonia, alkaline phosphatase, total protein, platelets, and eosinophils.
 The incidence was also increased for a decreased result for phosphorus, bicarbonate, total white blood count, and neutrophils [see Use in Specific Populations (8.4)].
-TROKENDI XR® is not indicated for prophylaxis of migraine headache in pediatric patients less than 12 years of age.
+TROKENDI XR ® is not indicated for prophylaxis of migraine headache in pediatric patients less than 12 years of age.
 
 ## 6.2 Postmarketing Experience
 
