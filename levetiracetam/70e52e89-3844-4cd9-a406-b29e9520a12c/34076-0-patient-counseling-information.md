@@ -28,6 +28,6 @@ Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A
 
 Manufactured by: InfoRLife SA Campascio, Switzerland
 
-Revised: 1/2018 HQ:LEVETIJ:R6
+HQ:LEVETIJ:R7
 
-L52USLEVET07
+L52USLEVET08
