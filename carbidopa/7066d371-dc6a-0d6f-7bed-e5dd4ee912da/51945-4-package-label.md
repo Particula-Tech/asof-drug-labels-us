@@ -1,4 +1,4 @@
-NDC 0074–3012–07
+NDC 0074-3012-07
 
 Duopa
 
@@ -8,9 +8,12 @@ carbidopa and levodopa enteral suspension
 
 7 Cassettes (100 mL each)
 
-Each mL contains 5 mg of carbidopa monohydrate (equivalent to 4.63 mg of carbidopa anhydrous) and 20 mg of levodopa.
+Each mL contains 5 mg of carbidopa monohydrate
+
+(equivalent to 4.63 mg of carbidopa anhydrous) and 20 mg of levodopa.
 
 Pharmacist: Store frozen.
+
 Thaw in refrigerator prior to dispensing.
 
 See package insert for full prescribing information.
