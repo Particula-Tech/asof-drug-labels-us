@@ -74,7 +74,7 @@ For pediatric patients, particular care should be taken to assure safe ambulatio
 An increased risk of congenital malformations associated with the use of benzodiazepine drugs (diazepam and chlordiazepoxide) has been suggested in several studies.
 If this drug is used during pregnancy, the patient should be apprised of the potential hazard to the fetus.
 
-Withdrawal symptoms of the barbiturate type have occurred after the discontinuation of benzodiazepines (see DRUG ABUSE AND DEPENDENCE section).
+Withdrawal symptoms of the barbiturate type have occurred after the discontinuation of benzodiazepines (see DRUG ABUSE AND DEPENDENCE).
 
 ## Usage In Preterm Infants And Neonates
 
@@ -115,9 +115,9 @@ Midazolam does not protect against the increase in intracranial pressure or agai
 
 The efficacy and safety of midazolam in clinical use are functions of the dose administered, the clinical status of the individual patient, and the use of concomitant medications capable of depressing the CNS.
 Anticipated effects range from mild sedation to deep levels of sedation virtually equivalent to a state of general anesthesia where the patient may require external support of vital functions.
-Care must be taken to individualize and carefully titrate the dose of midazolam to the patient's underlying medical/surgical conditions, administer to the desired effect being certain to wait an adequate time for peak CNS effects of both midazolam and concomitant medications, and have the personnel and size-appropriate equipment and facilities available for monitoring and intervention (see Boxed WARNING, WARNINGS and DOSAGE AND ADMINISTRATION sections).
+Care must be taken to individualize and carefully titrate the dose of midazolam to the patient's underlying medical/surgical conditions, administer to the desired effect being certain to wait an adequate time for peak CNS effects of both midazolam and concomitant medications, and have the personnel and size-appropriate equipment and facilities available for monitoring and intervention (see Boxed WARNING, WARNINGS and DOSAGE AND ADMINISTRATION).
 Practitioners administering midazolam must have the skills necessary to manage reasonably foreseeable adverse effects, particularly skills in airway management.
-For information regarding withdrawal see DRUG ABUSE AND DEPENDENCE section.
+For information regarding withdrawal (see DRUG ABUSE AND DEPENDENCE).
 
 ## Information for Patients
 
@@ -257,7 +257,7 @@ Caution should be exercised when midazolam is administered to a nursing woman.
 ## Pediatric Use
 
 The safety and efficacy of midazolam for sedation/anxiolysis/amnesia following single dose intramuscular administration, intravenously by intermittent injections and continuous infusion have been established in pediatric and neonatal patients.
-For specific safety monitoring and dosage guidelines see Boxed WARNING, CLINICAL PHARMACOLOGY, INDICATIONS, WARNINGS, PRECAUTIONS, ADVERSE REACTIONS, OVERDOSAGE and DOSAGE AND ADMINISTRATION sections.
+For specific safety monitoring and dosage guidelines (see Boxed WARNING, CLINICAL PHARMACOLOGY, INDICATIONS, WARNINGS, PRECAUTIONS, ADVERSE REACTIONS, OVERDOSAGE and DOSAGE AND ADMINISTRATION).
 UNLIKE ADULT PATIENTS, PEDIATRIC PATIENTS GENERALLY RECEIVE INCREMENTS OF MIDAZOLAM ON A MG/KG BASIS.
 As a group, pediatric patients generally require higher dosages of midazolam (mg/kg) than do adults.
 Younger (less than six years) pediatric patients may require higher dosages (mg/kg) than older pediatric patients, and may require closer monitoring.

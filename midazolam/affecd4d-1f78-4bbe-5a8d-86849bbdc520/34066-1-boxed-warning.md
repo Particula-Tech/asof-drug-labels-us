@@ -8,7 +8,7 @@ Intravenous midazolam has been associated with respiratory depression and respir
 In some cases, where this was not recognized promptly and treated effectively, death or hypoxic encephalopathy has resulted.
 Intravenous midazolam should be used only in hospital or ambulatory care settings, including physicians' and dental offices, that provide for continuous monitoring of respiratory and cardiac function, e.g, pulse oximetry.
 Immediate availability of resuscitative drugs and age- and size-appropriate equipment for bag/valve/mask ventilation and intubation, and personnel trained in their use and skilled in airway management should be assured (see WARNINGS).
-For deeply sedated pediatric patients, a dedicated individual, other than the practitioner performing the procedure, should monitor the patient throughout the procedures.
+For deeply sedated pediatric patients, a dedicated individual, other than the practitioner performing the procedure, should monitor the patient throughout the procedure.
 
 ## Risks From Concomitant Use With Opioids
 

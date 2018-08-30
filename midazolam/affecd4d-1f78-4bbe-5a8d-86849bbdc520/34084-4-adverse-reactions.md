@@ -27,7 +27,7 @@ The majority of airway-related events occurred in patients receiving other CNS d
 
 ## Neonates
 
-For information concerning hypotensive episodes and seizures following the administration of midazolam to neonates, see Boxed WARNING, CONTRAINDICATIONS, WARNINGS and PRECAUTIONS sections.
+For information concerning hypotensive episodes and seizures following the administration of midazolam to neonates, (see Boxed WARNING, CONTRAINDICATIONS, WARNINGS and PRECAUTIONS).
 
 Other adverse experiences, observed mainly following intravenous injection as a single sedative/anxiolytic/amnesia agent and occurring at an incidence of <1.0% in adult and pediatric patients, are as follows:
 

@@ -5,4 +5,4 @@ Based on comparisons across species, the window of vulnerability to these change
 
 In primates, exposure to 3 hours of an anesthetic regimen that produced a light surgical plane of anesthesia did not increase neuronal cell loss, however, treatment regimens of 5 hours or longer increased neuronal cell loss.
 Data in rodents and in primates suggest that the neuronal and oligodendrocyte cell losses are associated with subtle but prolonged cognitive deficits in learning and memory.
-The clinical significance of these nonclinical findings is not known, and healthcare providers should balance the benefits of appropriate anesthesia in neonates and young children who require procedures against the potential risks suggested by the nonclinical data (see WARNINGS/Pediatric Neurotoxicity, PRECAUTIONS/Pregnancy and Pediatric Use).
+The clinical significance of these nonclinical findings is not known, and healthcare providers should balance the benefits of appropriate anesthesia in neonates and young children who require procedures against the potential risks suggested by the nonclinical data (see WARNINGS/Pediatric Neurotoxicity and PRECAUTIONS/Pregnancy and Pediatric Use).
