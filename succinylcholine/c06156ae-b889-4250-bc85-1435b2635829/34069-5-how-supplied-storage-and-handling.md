@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-QuelicinTM (Succinylcholine Chloride Injection, USP) is supplied as a clear, colorless solution in the following concentrations and packages:
+QUELICINTM (Succinylcholine Chloride Injection, USP) is supplied as a clear, colorless solution in the following concentrations and packages:
 
 | NDC No. | Container | Size (mL) | mg/mL | mg (total) | mOsmol/mL (calc.) |
 | --- | --- | --- | --- | --- | --- |
@@ -17,6 +17,6 @@ Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
 Novaplus is a registered trademark of Vizient, Inc.
 
-LAB-1247-2.0
+LAB-1247-3.0
 
-Revised: 04/2018
+Revised: 08/2018
