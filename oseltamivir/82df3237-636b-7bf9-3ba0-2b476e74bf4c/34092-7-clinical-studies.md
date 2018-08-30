@@ -2,7 +2,7 @@
 
 ## 14.1 Treatment of Influenza
 
-Adults Two randomized, placebo-controlled, double-blind clinical trials of oseltamivir phosphate were conducted in adults between 18 and 65 years old, one in the U.S. and one outside the U.S, for the treatment of acute uncomplicated influenza.
+Adults Two randomized, placebo-controlled, double-blind clinical trials of oseltamivir phosphate were conducted in adults between 18 and 65 years old, one in the U.S. and one outside the U.S., for the treatment of acute uncomplicated influenza.
 Eligible subjects had fever of at least 100ºF, accompanied by at least one respiratory symptom (cough, nasal symptoms, or sore throat) and at least one systemic symptom (myalgia, chills/sweats, malaise, fatigue, or headache), and influenza virus was known to be circulating in the community.
 Subjects were randomized to receive oral oseltamivir phosphate or placebo for 5 days.
 All enrolled subjects were allowed to take fever-reducing medications.
@@ -11,9 +11,9 @@ Of 1,355 subjects enrolled in these two trials, 849 (63%) subjects were influenz
 Of the 849 influenza-infected subjects, 95% were infected with influenza A, 3% with influenza B, and 2% with influenza of unknown type.
 
 Study medication was started within 40 hours of onset of symptoms and administered twice daily for 5 days.
-Subjects were required to self-assess the influenza-associated symptoms (nasal congestion, sore throat, cough, aches, fatigue, headaches, and chills/sweats) twice daily as “none,” “mild,” “moderate,” or “severe.”
-Time to improvement was calculated from the time of treatment initiation to the time when all symptoms were assessed as “none” or “mild.”
-In both trials there was a 1.3-day reduction in the median time to improvement in influenza-infected subjects who received oseltamivir phosphate 75 mg twice a day for 5 days compared to subjects who received placebo.
+Subjects were required to self-assess the influenza-associated symptoms (nasal congestion, sore throat, cough, aches, fatigue, headaches, and chills/sweats) twice daily as “none,” “mild,” “moderate,” or “severe”.
+Time to improvement was calculated from the time of treatment initiation to the time when all symptoms were assessed as “none” or “mild”.
+In both trials, there was a 1.3-day reduction in the median time to improvement in influenza-infected subjects who received oseltamivir phosphate 75 mg twice a day for 5 days compared to subjects who received placebo.
 Subgroup analyses by gender showed no differences in the treatment effect of oseltamivir phosphate in men and women.
 
 In the treatment of influenza, no increased efficacy was demonstrated in subjects who received higher doses of oseltamivir phosphate.
@@ -29,16 +29,16 @@ Of 741 subjects enrolled, 476 (65%) subjects were influenza-infected; of these, 
 In the pooled analysis, there was a 1-day reduction in the median time to improvement in influenza-infected subjects who received oseltamivir phosphate 75 mg twice daily for 5 days compared to those who received placebo (p=NS) [see Use in Specific Populations (8.5)].
 Some seasonal variability was noted in the clinical efficacy outcomes.
 
-Pediatric Subjects (1 year to 12 years of age) One double-blind placebo-controlled treatment trial was conducted in pediatric subjects aged 1 to 12 years (median age 5 years) who had fever (at least 100ºF) plus one respiratory symptom (cough or coryza) when influenza virus was known to be circulating in the community.
+Pediatric Subjects (1 year to 12 years of age) One double-blind placebo-controlled treatment trial was conducted in pediatric subjects aged 1 year to 12 years (median age 5 years) who had fever (at least 100ºF) plus one respiratory symptom (cough or coryza) when influenza virus was known to be circulating in the community.
 Of 698 subjects enrolled in this trial, 452 (65%) were influenza-infected (50% male; 68% Caucasian).
 Of the 452 influenza-infected subjects, 67% were infected with influenza A and 33% with influenza B.
 
 Efficacy in this trial was determined by the time to alleviation or resolution of influenza signs and symptoms, measured by a composite endpoint that required the following four individual conditions be met: i) alleviation of cough, ii) alleviation of coryza, iii) resolution of fever, and iv) parental opinion of a return to normal health and activity.
-Oseltamivir phosphate treatment of 2 mg/kg twice daily, started within 48 hours of onset of symptoms, reduced the total composite time to freedom from illness by 1.5 days compared to placebo.
+Oseltamivir phosphate treatment of 2 mg per kg twice daily, started within 48 hours of onset of symptoms, reduced the total composite time to freedom from illness by 1.5 days compared to placebo.
 Subgroup analyses by gender showed no differences in the treatment effect of oseltamivir phosphate in male and female pediatric subjects.
 
 Pediatric Subjects (2 weeks to less than 1 year of age) Two open-label trials evaluated the safety and pharmacokinetics of oseltamivir and oseltamivir carboxylate in influenza-infected pediatric subjects 2 weeks to less than 1 year of age (including premature infants at least 36 weeks post conceptional age).
-Subjects received oseltamivir phosphate at doses ranging from 2 to 3.5 mg/kg twice daily for 5 days depending on subject age.
+Subjects received oseltamivir phosphate at doses ranging from 2 to 3.5 mg per kg twice daily for 5 days depending on subject age.
 These clinical trials were not designed to evaluate clinical efficacy or virologic response.
 
 Of the 136 subjects under the age of 1 year enrolled and dosed in the trials, the majority of the subjects were male (55%), white (79%), non-Hispanic (74%), full term (76%) and infected with influenza A (80%).
@@ -76,7 +76,7 @@ Among household contacts 1 year to 12 years of age not already shedding virus at
 
 Immunocompromised Subjects A double-blind, placebo-controlled trial was conducted for seasonal prophylaxis of influenza in 475 immunocompromised subjects (including 18 pediatric subjects 1 year to 12 years of age) who had received solid organ (n=388; liver, kidney, liver and kidney) or hematopoietic stem cell transplants (n=87).
 Median time since transplant for solid organ transplant recipients was 1,105 days for the placebo group and 1,379 days for the oseltamivir phosphate group.
-Median time since transplant for hematopoietic stem cell transplant recipients was 424 days for the placebo group and 367 days for the oseltamivir group.
+Median time since transplant for hematopoietic stem cell transplant recipients was 424 days for the placebo group and 367 days for the oseltamivir phosphate group.
 Approximately 40% of subjects received influenza vaccine prior to entering the study.
 The primary efficacy endpoint was the incidence of confirmed clinical influenza, defined as oral temperature higher than 99.0°F (37.2°C) plus cough and/or coryza, all recorded within 24 hours, plus either a positive virus culture or a four-fold increase in virus antibody titers from baseline.
 Subjects received treatment with oseltamivir phosphate 75 mg or placebo once daily by mouth for 12 weeks.

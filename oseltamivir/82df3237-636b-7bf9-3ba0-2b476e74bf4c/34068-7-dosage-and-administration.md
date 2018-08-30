@@ -18,7 +18,7 @@ Initiate treatment with Oseltamivir Phosphate for Oral Suspension within 48 hour
 
 Adults and Adolescents (13 years of age and older)
 
-The recommended oral dose of Oseltamivir Phosphate for Oral Suspension for treatment of influenza in adults and adolescents 13 years and older is 75 mg twice daily (12.5 mL of oral suspension twice daily) for 5 days.
+The recommended oral dosage of Oseltamivir Phosphate for Oral Suspension for treatment of influenza in adults and adolescents 13 years and older is 75 mg twice daily (12.5 mL of oral suspension twice daily) for 5 days.
 
 Pediatric Patients (2 weeks of age through 12 years of age)
 
@@ -31,13 +31,13 @@ Initiate seasonal prophylaxis with Oseltamivir Phosphate for Oral Suspension dur
 
 Adults and Adolescents (13 years of age and older)
 
-The recommended oral dose of Oseltamivir Phosphate for Oral Suspension for prophylaxis of influenza in adults and adolescents 13 years and older is 75 mg once daily (12.5 mL of oral suspension once daily) for at least 10 days following close contact with an infected individual and up to 6 weeks during a community outbreak.
+The recommended dosage of Oseltamivir Phosphate for Oral Suspension for prophylaxis of influenza in adults and adolescents 13 years and older is 75 mg orally once daily (12.5 mL of oral suspension once daily) for at least 10 days following close contact with an infected individual and up to 6 weeks during a community outbreak.
 In immunocompromised patients, Oseltamivir Phosphate for Oral Suspension may be continued for up to 12 weeks [see Use in Specific Populations (8.9)].
 The duration of protection lasts for as long as Oseltamivir Phosphate for Oral Suspension dosing is continued.
 
 Pediatric Patients (1 year to 12 years of age)
 
-Table 1 displays the recommended oral dose of oseltamivir phosphate for prophylaxis of influenza in pediatric patients 1 year to 12 years of age based on body weight and provides information about prescribing the formulation for oral suspension.
+Table 1 displays the recommended oral dosage of oseltamivir phosphate for prophylaxis of influenza in pediatric patients 1 year to 12 years of age based on body weight and provides information about prescribing the formulation for oral suspension.
 Prophylaxis in pediatric patients is recommended for 10 days following close contact with an infected individual and up to 6 weeks during a community outbreak [see Use in Specific Populations (8.4) and Clinical Studies (14.2)].
 
 Table 1 Oseltamivir Phosphate for Oral Suspension Dosage Recommendations in Pediatric Patients for Treatment and Prophylaxis of Influenza
@@ -58,7 +58,7 @@ Table 1 Oseltamivir Phosphate for Oral Suspension Dosage Recommendations in Pedi
 Table 2 displays the dosage recommendations for the treatment and prophylaxis of influenza in adults with various stages of renal impairment (estimated creatinine clearance of less than or equal to 90 mL per minute).
 Dosage modifications are recommended in adults with an estimated creatinine clearance less than or equal to 60 mL per minute [see Use in Specific Population (8.6) and Clinical Pharmacology (12.3)].
 
-Table 2 Recommended Dosage for Modifications for Treatment and Prophylaxix of Influenza in Adults with Renal Impairment or End Stage Renal Disease (ESRD) on Dialysis
+Table 2 Recommended Dosage for Modifications for Treatment and Prophylaxis of Influenza in Adults with Renal Impairment or End Stage Renal Disease (ESRD) on Dialysis
 
 | Renal Impairment (Creatinine Clearance) | Recommended Treatment Regimen* | Recommended Prophylaxis Regimen† |
 | --- | --- | --- |

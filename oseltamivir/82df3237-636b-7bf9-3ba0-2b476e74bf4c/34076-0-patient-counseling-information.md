@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use)
+Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
 Serious Skin/Hypersensitivity Reactions Advise patients and/or caregivers of the risk of severe allergic reactions (including anaphylaxis) or serious skin reactions.
 Instruct patients and/or caregiver to stop Oseltamivir Phosphate for Oral Suspension and seek immediate medical attention if an allergic-like reaction occurs or is suspected [see Warnings and Precautions (5.1)].

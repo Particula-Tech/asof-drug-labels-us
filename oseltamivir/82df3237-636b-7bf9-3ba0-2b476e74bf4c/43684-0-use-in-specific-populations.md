@@ -14,13 +14,13 @@ Clinical Considerations Disease-Associated Maternal and/or Embryo/Fetal Risk Pre
 
 Data Human Data
 
-Published prospective and retrospective observational studies of approximately 1,500 women exposed to oseltamivir during pregnancy, including approximately 400 women exposed in the first trimester, suggest that the observed rate of congenital malformations was not increased above the rate in the general comparison population, regardless of when therapy was administered during the gestational period.
-However, individually, none of these studies had adequate sample sizes and some lacked information on dose which preclude a definitive assessment of the risk.
+Published prospective and retrospective observational studies of approximately 1,500 women exposed to oseltamivir phosphate during pregnancy, including approximately 400 women exposed in the first trimester, suggest that the observed rate of congenital malformations was not increased above the rate in the general comparison population, regardless of when therapy was administered during the gestational period.
+However, individually, none of these studies had adequate sample sizes and some lacked information on dose, which preclude a definitive assessment of the risk.
 
 Animal Data Studies for effects on embryo-fetal development were conducted in rats (50, 250, and 1,500 mg/kg/day) and rabbits (50, 150, and 500 mg/kg/day) by the oral route.
 Relative exposures at these doses were, respectively, 2, 13, and 100 times human exposure in the rat and 4, 8, and 50 times human exposure in the rabbit, based on AUC.
 Pharmacokinetic studies indicated that there was fetal exposure in both species.
-In the rat study, minimal maternal toxicity was reported in the 1500 mg/kg/day group.
+In the rat study, minimal maternal toxicity was reported in the 1,500 mg/kg/day group.
 In the rabbit study, slight and marked maternal toxicities were observed, respectively, in the 150 and 500 mg/kg/day groups.
 At the maternally toxic doses, statistically significant increases in the incidence rates of a variety of minor skeletal abnormalities and variants were observed in the exposed offspring.
 However, the individual incidence rate of each skeletal abnormality or variant remained within the background rates of occurrence in the species studied.
@@ -73,7 +73,7 @@ The safety and pharmacokinetics in patients with severe hepatic impairment have 
 ## 8.8 Use in Patients with Chronic Conditions
 
 Efficacy of oseltamivir phosphate in the treatment of influenza in patients with chronic cardiac disease and/or respiratory disease was evaluated in one randomized, placebo-controlled clinical trial.
-Efficacy in this population, as measured by time to alleviation of all symptoms, was not established but no new safety signals were identified [see Clinical Studies (14.1)].
+Efficacy in this population, as measured by time to alleviation of all symptoms, was not established, but no new safety signals were identified [see Clinical Studies (14.1)].
 No clinical trial data are available regarding treatment of influenza in patients with any medical condition sufficiently severe or unstable to be considered at imminent risk of requiring hospitalization.
 
 No clinical trial data are available regarding treatment of influenza in patients with any medical condition sufficiently severe or unstable to be considered at imminent risk of requiring hospitalization.

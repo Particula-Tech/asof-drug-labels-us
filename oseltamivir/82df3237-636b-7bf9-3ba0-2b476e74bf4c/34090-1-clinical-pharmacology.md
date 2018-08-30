@@ -22,7 +22,7 @@ Plasma concentrations of oseltamivir carboxylate are proportional to doses up to
 
 Coadministration with food had no significant effect on the peak plasma concentration (551 ng/mL under fasted conditions and 441 ng/mL under fed conditions) and the area under the plasma concentration time curve (6,218 ng·h/mL under fasted conditions and 6,069 ng·h/mL under fed conditions) of oseltamivir carboxylate.
 
-Distribution The volume of distribution (Vss) of oseltamivir carboxylate, following intravenous administration in 24 subjects, (Oseltamivir Phosphate for Oral Suspension is not available as an IV formulation), ranged between 23 and 26 liters.
+Distribution The volume of distribution (Vss) of oseltamivir carboxylate, following intravenous administration in 24 subjects (Oseltamivir Phosphate for Oral Suspension is not available as an IV formulation), ranged between 23 and 26 liters.
 
 The binding of oseltamivir carboxylate to human plasma protein is low (3%).
 The binding of oseltamivir to human plasma protein is 42%, which is insufficient to cause significant displacement-based drug interactions.
@@ -34,7 +34,7 @@ Plasma concentrations of oseltamivir carboxylate declined with a half-life of 6 
 
 Metabolism
 
-Oseltamivir is extensively converted to the active metabolite, oseltamivir carboxylate by esterases located predominantly in the liver.
+Oseltamivir is extensively converted to the active metabolite, oseltamivir carboxylate, by esterases located predominantly in the liver.
 Oseltamivir carboxylate is not further metabolized.
 Neither oseltamivir nor oseltamivir carboxylate is a substrate for, or inhibitor of, cytochrome P450 isoforms.
 
@@ -50,7 +50,7 @@ Population-derived pharmacokinetic parameters were determined for patients with 
 Median simulated exposures of oseltamivir carboxylate for recommended treatment and prophylaxis regimens are provided in Table 7.
 The pharmacokinetics of oseltamivir have not been studied in ESRD patients not undergoing dialysis [see Indications and Usage (1.3), and Use in Specific Populations (8.6)].
 
-Table 7 Simulated Median Treatment Exposure Metrics of Oseltamivir Carboxylate in Patients with and Normal Renal Function, with Renal Imparment and ESRD Patients on Hemodialysis
+Table 7 Simulated Median Treatment Exposure Metrics of Oseltamivir Carboxylate in Patients with and Normal Renal Function, with Renal Impairment and ESRD Patients on Hemodialysis
 
 | Renal Function/ Impairment | Normal Creatinine Clearance 90-140 mL/min(n=57) | Mild Creatinine Clearance 60-90 mL/min (n=45) | Moderate Creatinine Clearance 30-60 mL/min (n=13) | Severe Creatinine Clearance 10-30 mL/min (n=11) | ESRD Creatinine Clearance <10 mL/min on Hemodialysis (n=24) |
 | --- | --- | --- | --- | --- | --- |
@@ -105,7 +105,8 @@ The median IC50 values of oseltamivir against influenza A/H1N1, influenza A/H3N2
 
 Antiviral Activity The antiviral activity of oseltamivir carboxylate against laboratory strains and clinical isolates of influenza virus was determined in cell culture.
 The concentrations of oseltamivir carboxylate required for inhibition of influenza virus in cell culture were highly variable depending on the assay method used and the virus tested.
-The 50% and 90% effective concentrations (EC50 and EC90) were in the range of 0.0008 micromolar to greater than 35 micromolar and 0.004 micromolar to greater than 100 micromolar, respectively (1 micromolar=0.284 microgram per mL).The relationship between the antiviral activity in cell culture, inhibitory activity in the neuraminidase assay, and the inhibition of influenza virus replication in humans has not been established.
+The 50% and 90% effective concentrations (EC50 and EC90) were in the range of 0.0008 micromolar to greater than 35 micromolar and 0.004 micromolar to greater than 100 micromolar, respectively (1 micromolar=0.284 microgram per mL).
+The relationship between the antiviral activity in cell culture, inhibitory activity in the neuraminidase assay, and the inhibition of influenza virus replication in humans has not been established.
 
 Resistance Cell culture studies: Influenza A virus isolates with reduced susceptibility to oseltamivir carboxylate have been recovered by serial passage of virus in cell culture in the presence of increasing concentrations of oseltamivir carboxylate.
 Reduced susceptibility of influenza virus to inhibition by oseltamivir carboxylate may be conferred by amino acid substitutions in the viral neuraminidase and/or hemagglutinin proteins.
@@ -145,7 +146,7 @@ The R292K oseltamivir resistance-associated substitution observed in N2, and the
 These examples do not represent an exhaustive list of cross resistance-associated substitutions and prescribers should consider available information from the CDC on influenza drug susceptibility patterns and treatment effects when deciding whether to use Oseltamivir Phosphate for Oral Suspension.
 
 No single amino acid substitution has been identified that could confer cross-resistance between the neuraminidase inhibitor class (oseltamivir, zanamivir) and the M2 ion channel inhibitor class (amantadine, rimantadine).
-However, a virus may carry a neuraminidase inhibitor-associated substitution in neuraminidase and an M2 ion channel inhibitor associated substitution in M2 and may therefore be resistant to both classes of inhibitors.
+However, a virus may carry a neuraminidase inhibitor-associated substitution in neuraminidase and an M2 ion channel inhibitor-associated substitution in M2 and may therefore be resistant to both classes of inhibitors.
 The clinical relevance of phenotypic cross-resistance evaluations has not been established.
 
 Immune Response No influenza vaccine/oseltamivir interaction study has been conducted.

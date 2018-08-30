@@ -12,7 +12,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 Adverse Reactions from Treatment and Prophylaxis Trials in Adult and Adolescent Subjects (13 years of age and older) The overall safety profile of Oseltamivir Phosphate for Oral Suspension is based on data from 2,646 adult and adolescent subjects that received the recommended dosage of 75 mg orally twice daily for 5 days for treatment of influenza and 1,943 adult and adolescent subjects that received the recommended dosage of 75 mg orally once daily for up to 6 weeks for prophylaxis of influenza in clinical trials.
 
 The most common adverse reactions in the pooled treatment and pooled prophylaxis trials in adults and adolescents are displayed in Table 5.
-The majority of these adverse reactions were reported on a single occasion, occurred on either the first or second treatment day and resolved spontaneously within 1-2 days.
+The majority of these adverse reactions were reported on a single occasion, occurred on either the first or second treatment day and resolved spontaneously within 1 to 2 days.
 This summary includes otherwise healthy adults/adolescents and subjects “at risk” (subjects at higher risk of developing complications associated with influenza, e.g., elderly patients and patients with chronic cardiac or respiratory disease).
 In general, the safety profile in the subjects “at risk” was qualitatively similar to that in otherwise healthy adults/adolescents.
 
