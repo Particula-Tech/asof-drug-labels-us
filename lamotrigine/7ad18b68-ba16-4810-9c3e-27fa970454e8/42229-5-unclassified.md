@@ -6,4 +6,4 @@ For:
 
 OWP Pharmaceuticals, Inc., 931 W. Hawthorne Lane, West Chicago, IL 60185.
 
-OWOSSUBMG0617 Revised April 2018
+OWOSSUBMG0617 8070369 Revised August 2018

@@ -12,7 +12,7 @@ Children and teenagers aged between 2 and 17 years have a higher chance of getti
 
 The risk of getting a serious skin rash is higher if you:
 
-- take SUBVENITE while taking valproate [DEPAKENE®(valproic acid) or DEPAKOTE®(divalproex sodium)].
+- take SUBVENITE while taking valproate [DEPAKENE(valproic acid) or DEPAKOTE(divalproex sodium)].
 - take a higher starting dose of SUBVENITE than your healthcare provider prescribed.
 - increase your dose of SUBVENITE faster than prescribed.
 
@@ -110,26 +110,13 @@ Immediately call your pharmacist if you receive a SUBVENITE tablet that does not
 
 What is SUBVENITE?
 
-SUBVENITE is a prescription medicine used:
+• SUBVENITE is a prescription medicine used: o together with other medicines to treat certain types of seizures (partial-onset seizures, primary generalized tonic-clonic seizures, generalized seizures of Lennox-Gastaut syndrome) in people aged 2 years and older. o alone when changing from 1 other medicine used to treat partial-onset seizures in people aged 16 years and older. o for the long-term treatment of bipolar I disorder to lengthen the time between mood episodes in people who have been treated for mood episodes with other medicine. • It is not known if SUBVENITE is safe or effective in people younger than 18 years with mood episodes such as bipolar disorder or depression. • It is not known if SUBVENITE is safe or effective when used alone as the first treatment of seizures. • It is not known if SUBVENITE is safe or effective for people with mood episodes who have not already been treated with other medicines.
+SUBVENITE should not be used for acute treatment of manic or mixed mood episodes.
 
-- together with other medicines to treat certain types of seizures (partial-onset seizures, primary generalized tonic-clonic seizures, generalized seizures of Lennox-Gastaut syndrome) in people aged 2 years and older.
-- alone when changing from 1 other medicine used to treat partial-onset seizures in people aged 16 years and older.
-- for the long-term treatment of bipolar I disorder to lengthen the time between mood episodes in people who have been treated for mood episodes with other medicine.
+Do not take SUBVENITE:
 
-It is not known if lamotrigine is safe or effective in people younger than 18 years with mood episodes such as bipolar disorder or depression.
-
-It is not known if lamotrigine is safe or effective when used alone as the first treatment of seizures.
-
-It is not known if lamotrigine is safe or effective for people with mood episodes who have not already been treated with other medicines.
-
-Lamotrigine should not be used for acute treatment of manic or mixed mood episodes.
-
-Who should not take SUBVENITE?
-
-You should not take SUBVENITE if you have had an allergic reaction to lamotrigine or to any of the inactive ingredients in SUBVENITE.
-See the end of this leaflet for a complete list of ingredients in SUBVENITE.
-
-What should I tell my healthcare provider before taking SUBVENITE?
+- if you have had an allergic reaction to lamotrigine or to any of the inactive ingredients in SUBVENITE.
+  See the end of this leaflet for a complete list of ingredients in LAMICTAL.
 
 Before taking SUBVENITE, tell your healthcare provider about all of your medical conditions, including if you:
 
@@ -152,9 +139,12 @@ Before taking SUBVENITE, tell your healthcare provider about all of your medical
   Call your baby's healthcare provider right away if you see any of these problems.
   Talk to your healthcare provider about the best way to feed your baby if you take SUBVENITE.
 
-Tell your healthcare provider about all the medicines you take or if you are planning to take a new medicine, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+SUBVENITE and certain other medicines may interact with each other.
+This may cause serious side effects.
 
-If you use SUBVENITE with certain other medicines, they can affect each other, causing side effects.
+Know the medicines you take.
+Keep a list of them to show your healthcare provider and pharmacist when you get a new medicine.
 
 How should I take SUBVENITE?
 
@@ -174,7 +164,7 @@ How should I take SUBVENITE?
 - If you have epilepsy, tell your healthcare provider if your seizures get worse or if you have any new types of seizures.
 - Swallow SUBVENITE whole.
 - If you have trouble swallowing SUBVENITE tablets, tell your healthcare provider because there may be another form of lamotrigine you can take.
-- If you receive SUBVENITE in a blisterpack, examine the blisterpack before use.
+- If you receive SUBVENITE in a blister-pack, examine the blister-pack before use.
   Do not use if blisters are torn, broken, or missing.
 
 What should I avoid while taking lamotrigine?
@@ -208,10 +198,7 @@ Common side effects of SUBVENITE include:
 - stuffy nose
 - sore throat
 
-Tell your healthcare provider about any side effect that bothers you or that does not go away.
-
-These are not all the possible side effects of lamotrigine.
-For more information, ask your healthcare provider or pharmacist.
+These are not all the possible side effects of SUBVENITE.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
@@ -225,17 +212,15 @@ General information about the safe and effective use of SUBVENITE.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use SUBVENITE for a condition for which it was not prescribed.
-Do not give SUBVENITE to other people, even if they have the same symptoms you have.
+Do not give SUBVENITE to other people, even if they have the same symptoms that you have.
 It may harm them.
 
 If you take a urine drug screening test, SUBVENITE may make the test result positive for another drug.
 If you require a urine drug screening test, tell the healthcare professional administering the test that you are taking SUBVENITE.
 
-This Medication Guide summarizes the most important information about SUBVENITE.
-If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about SUBVENITE that is written for healthcare professionals.
 
-For more information, call 1-269-544-2299.
+For more information, call 1-800-273-6729.
 
 What are the ingredients in SUBVENITE?
 SUBVENITE(lamotrigine) tablets, USP
@@ -256,4 +241,4 @@ For:
 
 OWP Pharmaceuticals, Inc., 931 W. Hawthorne Lane, West Chicago, IL 60185.
 
-OWOSSUBPI0617 Revised November 2017
+OWOSSUBPI0617 8070370 Revised August 2018

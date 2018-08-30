@@ -57,8 +57,8 @@ SUBVENITE was associated with an increased risk for infectious adverse reactions
 Infectious adverse reactions included bronchiolitis, bronchitis, ear infection, eye infection, otitis externa, pharyngitis, urinary tract infection, and viral infection.
 Respiratory adverse reactions included nasal congestion, cough, and apnea.
 
-Additional information describing a clinical study in which efficacy was not demonstrated in pediatric patients ages 10 to 17 years is approved for GlaxoSmithKline LLC's LAMICTAL® (lamotrigine) products.
-However, due to GlaxoSmithKline LLC's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Bipolar Disorder Safety and efficacy of SUBVENITE for the maintenance treatment of bipolar disorder were not established in a double-blind, randomized withdrawal, placebo-controlled trial that evaluated 301 pediatric patients aged 10 to 17 years with a current manic/hypomanic, depressed, or mixed mood episode as defined by DSM-IV-TR.
+In the randomized phase of the trial, adverse reactions that occurred in at least 5% of patients taking SUBVENITE (n = 87) and were twice as common compared with patients taking placebo (n = 86) were influenza (SUBVENITE 8%, placebo 2%), oropharyngeal pain(SUBVENITE 8%, placebo 2%), vomiting (SUBVENITE 6%, placebo 2%), contact dermatitis (SUBVENITE 5%, placebo 2%), upper abdominal pain (SUBVENITE 5%, placebo 1%), and suicidal ideation (SUBVENITE 5%, placebo 0%).
 
 Juvenile Animal Data
 

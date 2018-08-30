@@ -3,13 +3,14 @@
 The following adverse reactions are described in more detail in the Warnings and Precautions section of the label:
 
 - Serious skin rashes [see Warnings and Precautions (5.1)]
-- Multiorgan hypersensitivity reactions and organ failure [see Warnings and Precautions (5.2)]
-- Blood dyscrasias [see Warnings and Precautions (5.3)]
-- Suicidal behavior and ideation [see Warnings and Precautions (5.4)]
-- Aseptic meningitis [see Warnings and Precautions (5.5)]
-- Withdrawal seizures [see Warnings and Precautions (5.8)]
-- Status epilepticus [see Warnings and Precautions (5.9)]
-- Sudden unexplained death in epilepsy [see Warnings and Precautions (5.10)]
+- Hemophagocytic Lymphohistiocytosis [see Warnings and Precautions (5.2)]
+- Multiorgan hypersensitivity reactions and organ failure [see Warnings and Precautions (5.3)]
+- Blood dyscrasias [see Warnings and Precautions (5.4)]
+- Suicidal behavior and ideation [see Warnings and Precautions (5.5)]
+- Aseptic meningitis [see Warnings and Precautions (5.6)]
+- Withdrawal seizures [see Warnings and Precautions (5.9)]
+- Status epilepticus [see Warnings and Precautions (5.10)]
+- Sudden unexplained death in epilepsy [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trial Experience
 
@@ -75,7 +76,7 @@ Dose-Related Adverse Reactions from a Randomized, Placebo-Controlled Adjunctive 
 The overall adverse reaction profile for SUBVENITE was similar between females and males and was independent of age.
 Because the largest non-Caucasian racial subgroup was only 6% of patients exposed to SUBVENITE in placebo-controlled trials, there are insufficient data to support a statement regarding the distribution of adverse reaction reports by race.
 Generally, females receiving either SUBVENITE as adjunctive therapy or placebo were more likely to report adverse reactions than males.
-The only adverse reaction for which the reports on SUBVENITE were greater than 10% more frequent in females than males (without a corresponding difference by gender on placebo) was dizziness (difference = 16.5%).
+The only adverse reaction for which the reports on SUBVENITE were > 10% more frequent in females than males (without a corresponding difference by gender on placebo) was dizziness (difference = 16.5%).
 There was little difference between females and males in the rates of discontinuation of SUBVENITE for individual adverse reactions.
 
 Controlled Monotherapy Trial in Adults with Partial-Onset Seizures: Table 10 lists adverse reactions that occurred in patients with epilepsy treated with monotherapy with SUBVENITE in a double-blind trial following discontinuation of either concomitant carbamazepine or phenytoin not seen at an equivalent frequency in the control group.
@@ -96,7 +97,7 @@ Adverse Reactions in a Controlled Monotherapy Trial in Adult Patients with Parti
 | c Up to 500 mg/day. |  |  |
 | d 1,000 mg/day. |  |  |
 
-Adverse reactions that occurred with a frequency of less than 5% and greater than 2% of patients receiving SUBVENITE and numerically more frequent than placebo were:
+Adverse reactions that occurred with a frequency of < 5% and > 2% of patients receiving SUBVENITE and numerically more frequent than placebo were:
 
 Body as a Whole: Asthenia, fever.
 
@@ -158,7 +159,7 @@ Adverse Reactions in 2 Placebo-Controlled Trials in Adult Patients with Bipolar 
 
 Other reactions that occurred in 5% or more patients but equally or more frequently in the placebo group included: dizziness, mania, headache, infection, influenza, pain, accidental injury, diarrhea, and dyspepsia.
 
-Adverse reactions that occurred with a frequency of less than 5% and greater than 1% of patients receiving SUBVENITE and numerically more frequent than placebo were:
+Adverse reactions that occurred with a frequency of < 5% and > 1% of patients receiving SUBVENITE and numerically more frequent than placebo were:
 
 General: Fever, neck pain.
 
@@ -177,9 +178,9 @@ Respiratory: Sinusitis.
 Urogenital: Urinary frequency.
 
 Adverse Reactions following Abrupt Discontinuation: In the 2 controlled clinical trials, there was no increase in the incidence, severity, or type of adverse reactions in patients with bipolar disorder after abruptly terminating therapy with SUBVENITE.
-In the clinical development program in adults with bipolar disorder, 2 patients experienced seizures shortly after abrupt withdrawal of SUBVENITE [see Warnings and Precautions (5.8)].
+In the clinical development program in adults with bipolar disorder, 2 patients experienced seizures shortly after abrupt withdrawal of SUBVENITE [see Warnings and Precautions (5.9)].
 
-Mania/Hypomania/Mixed Episodes: During the double-blind placebo-controlled clinical trials in bipolar I disorder in which adults were converted to monotherapy with SUBVENITE (100 to 400 mg/day) from other psychotropic medications and followed for up to 18 months, the rates of manic or hypomanic or mixed mood episodes reported as adverse reactions were 5% for patients treated with SUBVENITE (n = 227), 4% for patients treated with lithium (n = 166), and 7% for patients treated with placebo (n = 190).
+Mania/Hypomania/Mixed Episodes: During the double-blind placebo-controlled clinical trials in bipolar I disorder in which adults were converted to monotherapy with SUBVENITE (100 to 400-mg/day) from other psychotropic medications and followed for up to 18 months, the rates of manic or hypomanic or mixed mood episodes reported as adverse reactions were 5% for patients treated with SUBVENITE (n = 227), 4% for patients treated with lithium (n = 166), and 7% for patients treated with placebo (n = 190).
 In all bipolar controlled trials combined, adverse reactions of mania (including hypomania and mixed mood episodes) were reported in 5% of patients treated with SUBVENITE (n = 956), 3% of patients treated with lithium (n = 280), and 4% of patients treated with placebo (n = 803).
 
 ## 6.2 Other Adverse Adverse Reactions Observed in All Clinical Trials
