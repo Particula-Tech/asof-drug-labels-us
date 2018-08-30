@@ -11,4 +11,4 @@ It has an octanol/phosphate buffer (pH 6.5) partition coefficient (log p) of 1.2
 Tenofovir disoproxil fumarate is available as tablets.
 Tenofovir disoproxil fumarate tablets are for oral administration in strengths of 300 mg of tenofovir DF, which are equivalent to 245 mg of tenofovir disoproxil.
 Each tablet contains the following inactive ingredients: croscarmellose sodium, lactose monohydrate, magnesium stearate, microcrystalline cellulose, and pregelatinized starch.
-The tablets are coated with Opadry II Blue 30K505001, which contains FD&C blue #2 aluminum lake, hypromellose, lactose monohydrate,polyethylene glycol, titanium dioxide and triacetin In this insert, all dosages are expressed in terms of tenofovir DF except where otherwise noted.
+The tablets are coated with Opadry II Blue 30K505001, which contains FD&C blue #2 aluminum lake, hypromellose, lactose monohydrate, titanium dioxide and triacetin In this insert, all dosages are expressed in terms of tenofovir DF except where otherwise noted.

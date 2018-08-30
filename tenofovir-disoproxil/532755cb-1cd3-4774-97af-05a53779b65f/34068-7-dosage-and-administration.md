@@ -21,10 +21,10 @@ Table 2 Dosing Recommendations for Pediatric Patients ≥2 Years of Age and Weig
 
 | Body Weight Kilogram (kg) | Tablets Once Daily |
 | --- | --- |
-| 17 to <22 | 150 mg |
-| 22 to <28 | 200 mg |
-| 28 to <35 | 250 mg |
-| ≥35 | 300 mg |
+| 17 to less than 22 | 150 mg |
+| 22 to less than 28 | 200 mg |
+| 28 to less than 35 | 250 mg |
+| 35 or greater | 300 mg |
 
 Chronic Hepatitis B Safety and efficacy of tenofovir disoproxil fumarate in patients younger than 12 years of age have not been established
 
@@ -41,7 +41,7 @@ Table 3 Dosage Adjustment for Patients with Altered Creatinine Clearance
 
 |  | Creatinine Clearance (mL/min)a |  |  | Hemodialysis Patients |
 | --- | --- | --- | --- | --- |
-|  | ≥50 | 30–49 | 10–29 | Every 7 days or after a total of approximately 12 hours of dialysisb |
+|  | 50 or greater | 30–49 | 10–29 | Every 7 days or after a total of approximately 12 hours of dialysisb |
 | Recommended 300 mg Dosing Interval | Every 24 hours | Every 48 hours | Every 72 to 96 hours |  |
 
 a. Calculated using ideal (lean) body weight. b. Generally once weekly assuming three hemodialysis sessions a week of approximately 4 hours duration. tenofovir disoproxil fumarate should be administered following completion of dialysis.
