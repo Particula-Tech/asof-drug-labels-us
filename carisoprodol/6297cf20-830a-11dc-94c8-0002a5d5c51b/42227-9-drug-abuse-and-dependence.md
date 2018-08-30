@@ -2,8 +2,8 @@
 
 ## 9.1 Controlled Substance
 
-Soma contains carisoprodol, a Schedule IV controlled substance.
-Carisoprodol has been subject to abuse, misuse, and criminal diversion for nontherapeutic use [see Warnings and Precautions (5.2)]
+SOMA contains carisoprodol, a Schedule IV controlled substance.
+Carisoprodol has been subject to abuse, misuse, and criminal diversion for nontherapeutic use [see Warnings and Precautions (5.2)].
 
 ## 9.2 Abuse
 

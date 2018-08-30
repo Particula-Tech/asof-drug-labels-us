@@ -4,7 +4,7 @@
 
 ### Risk Summary
 
-Data over many decades of carisoprodol use in pregnancy have not identifed a drug-associated risk of major birth defects, miscarriage, or other adverse maternal or fetal outcomes.
+Data over many decades of carisoprodol use in pregnancy have not identified a drug-associated risk of major birth defects, miscarriage, or other adverse maternal or fetal outcomes.
 Data on meprobamate, the primary metabolite of carisoprodol, also do not show a consistent association between maternal use of meprobamate and an increased risk of major birth defects (see Data).
 
 In a published animal reproduction study, pregnant mice administered carisoprodol orally at 2.6- and 4.1-times the maximum recommended human dose ([MRHD] of 1400 mg per day [350 mg QID] based on body surface area [BSA] comparison) from gestation through weaning resulted in reduced fetal weights, postnatal weight gain, and postnatal survival (see Data).

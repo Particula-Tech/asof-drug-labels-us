@@ -21,10 +21,10 @@ Lactation
 
 Advise nursing mothers using SOMA to monitor neonates for signs of sedation [see Use in Specific Populations (8.2)].
 
-SOMA and MEDA PHARMACEUTICALS are registered trademarks of MEDA AB or a related entity.
+Manufactured for: Meda Pharmaceuticals Inc. Somerset, New Jersey 08873-4120
 
-Meda Pharmaceuticals Inc. Somerset, New Jersey 08873-4120
+SOMA is a registered trademark of Meda Pharmaceuticals Inc., a Mylan company ©2018 Mylan Specialty LP
 
-IN-90H2-22
+IN-90H2-21
 
-© 2018 Meda Pharmaceuticals Inc.
+Revised: 8/2018
