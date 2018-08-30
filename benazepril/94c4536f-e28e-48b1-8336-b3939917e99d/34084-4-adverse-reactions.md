@@ -82,6 +82,4 @@ Serum Electrolytes: see PRECAUTIONS.
 Creatinine and BUN: Minor reversible increases in serum creatinine and BUN were observed in patients with essential hypertension treated with Lotensin HCT.
 Such increases occurred most frequently in patients with renal artery stenosis (see PRECAUTIONS).
 
-To report SUSPECTED ADVERSE REACTIONS, contact Validus Pharmaceuticals LLC at
-
-1-866-982-5438 (1-866-9VALIDUS) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Validus Pharmaceuticals LLC at 1-866-982-5438 (1-866-9VALIDUS) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

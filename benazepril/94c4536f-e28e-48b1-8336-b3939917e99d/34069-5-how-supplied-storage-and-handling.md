@@ -5,7 +5,7 @@ Lotensin HCT USP is available in tablets of three different strengths:
 | Benazepril HCl | Hydrochlorothiazide | Tablet Color |
 | --- | --- | --- |
 | 10 mg | 12.5 mg | light pink |
-| 20 mg | 12.5 mg | grayish-violet |
+| 20 mg | 12.5 mg | grayish violet |
 | 20 mg | 25 mg | red |
 
 Tablets of each strength are supplied in bottles that contain a desiccant and 100 tablets.
@@ -26,6 +26,6 @@ Dispense in a tight, light-resistant container (USP).
 
 Manufactured for and Distributed by: Validus Pharmaceuticals LLC 119 Cherry Hill Road, Suite 310 Parsippany, NJ 07054 info@validuspharma.com www.validuspharma.com 1-866-982-5438 (1-866-9VALIDUS)
 
-© 2017 Validus Pharmaceuticals LLC
+© 2018 Validus Pharmaceuticals LLC
 
-60024-01 August 2017
+60024-03 August 2018

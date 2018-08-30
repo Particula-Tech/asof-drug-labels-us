@@ -55,16 +55,14 @@ In a small study of hypertensive patients with unilateral or bilateral renal art
 
 ## Neutropenia/Agranulocytosis
 
-Another angiotensin-converting enzyme inhibitor, captopril, has been shown to cause
-
-agranulocytosis and bone marrow depression, rarely in uncomplicated patients (incidence probably less than once per 10,000 exposures) but more frequently (incidence possibly as great as once per 1000 exposures) in patients with renal impairment, especially those who also have collagen-vascular diseases such as systemic lupus erythematosus or scleroderma.
+Another angiotensin-converting enzyme inhibitor, captopril, has been shown to cause agranulocytosis and bone marrow depression, rarely in uncomplicated patients (incidence probably less than once per 10,000 exposures) but more frequently (incidence possibly as great as once per 1000 exposures) in patients with renal impairment, especially those who also have collagen-vascular diseases such as systemic lupus erythematosus or scleroderma.
 
 Available data from clinical trials of benazepril are insufficient to show that benazepril does not cause agranulocytosis at similar rates.
 Monitoring of white blood cell counts should be considered in patients with collagen-vascular disease, especially if the disease is associated with impaired renal function.
 
 ## Fetal toxicity
 
-Pregnancy category D
+Pregnancy
 
 Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
 Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
@@ -121,7 +119,7 @@ Serum Electrolyte Abnormalities
 In clinical trials of Lotensin HCT, the average change in serum potassium was near zero in subjects who received 5/6.25 mg or 20/12.5 mg, but the average subject who received 10/12.5 mg or 20/25 mg experienced a mild reduction in serum potassium, similar to that experienced by the average subject receiving the same dose of hydrochlorothiazide monotherapy.
 
 Hydrochlorothiazide can cause hypokalemia and hyponatremia.
-Hypomagnesema can result in hypokalemia which appears difficult to treat despite potassium repletion.
+Hypomagnesemia can result in hypokalemia which appears difficult to treat despite potassium repletion.
 Drugs that inhibit the renin-angiotensin system can cause hyperkalemia.
 Monitor serum electrolytes periodically.
 
@@ -230,7 +228,7 @@ Alcohol, barbiturates or narcotics: Concomitant administration of thiazide diure
 
 Pressor amines: Hydrochlorothiazide may reduce the response to pressor amines such as noradrenaline but the clinical significance of this effect is not sufficient to preclude their use.
 
-## Non-clinical safety data
+Non-clinical safety data
 
 ### Carcinogenesis, Mutagenicity, Fertility
 
@@ -243,7 +241,7 @@ Under the auspices of the National Toxicology Program, rats and mice received hy
 These studies uncovered no evidence of a carcinogenic potential of hydrochlorothiazide in rats or female mice, but there was equivocal evidence of hepatocarcinogenicity in male mice.
 
 Hydrochlorothiazide was not genotoxic in in vitro assays using strains TA 98, TA 100, TA 1535, TA 1537, and TA 1538 of Salmonella typhimurium (the Ames test); in the Chinese Hamster Ovary (CHO) test for chromosomal aberrations; or in in vivo assays using mouse germinal cell chromosomes, Chinese hamster bone marrow chromosomes, and the Drosophila sex-linked recessive lethal trait gene.
-Positive test results were obtained in the in vitro CHO Sister Chromatid Exchange (clastogenicity) test and in the Mouse Lymphoma Cell (mutagenicity) assays, using concentrations of hydrochlorothiazide of 43 - 1300 µg/mL.
+Positive test results were obtained in the in vitro CHO Sister Chromatid Exchange (clastogenicity) test and in the Mouse Lymphoma Cell (mutagenicity) assays, using concentrations of hydrochlorothiazide of 43 to 1300 µg/mL.
 Positive test results were also obtained in the Aspergillus nidulans nondisjunction assay, using an unspecified concentration of hydrochlorothiazide.
 
 ## Fertility
@@ -278,10 +276,8 @@ Safety and effectiveness in pediatric patients have not been established.
 
 ## Renal Impairment
 
-Safety and effectiveness of Lotensin HCT in patients with severe renal impairment (CrCL ≤ 30
-
-mL/min) have not been established.
-No dose adjustment is required in patients with mild (CrCL 60-90 mL/min) or moderate (CrCL 30-60 mL/min) renal impairment.
+Safety and effectiveness of Lotensin HCT in patients with severe renal impairment (CrCL ≤ 30mL/min) have not been established.
+No dose adjustment is required in patients with mild (CrCL 60 to 90 mL/min) or moderate (CrCL 30 to 60 mL/min) renal impairment.
 
 ## Hepatic Impairment
 

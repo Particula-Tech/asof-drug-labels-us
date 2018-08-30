@@ -2,11 +2,11 @@
 
 In single-dose studies, benazepril lowered blood pressure within 1 hour, with peak reductions achieved 2 to 4 hours after dosing.
 The antihypertensive effect of a single dose persisted for 24 hours.
-In multiple-dose studies, once-daily doses of 20 to 80 mg decreased seated pressure (systolic/diastolic) 24 hours after dosing by about 6-12/4-7 mm Hg.
+In multiple-dose studies, once-daily doses of 20 mg to 80 mg decreased seated pressure (systolic/diastolic) 24 hours after dosing by about 6-12/4-7 mm Hg.
 The reductions at trough are about 50% of those seen at peak.
 
 Four dose-response studies of benazepril monotherapy using once-daily dosing were conducted in 470 mild-to-moderate hypertensive patients not using diuretics.
-The minimal effective once-daily dose of benazepril was 10 mg; further falls in blood pressure, especially at morning trough, were seen with higher doses in the studied dosing range (10 to 80 mg).
+The minimal effective once-daily dose of benazepril was 10 mg; further falls in blood pressure, especially at morning trough, were seen with higher doses in the studied dosing range (10 mg to 80 mg).
 In studies comparing the same daily dose of benazepril given as a single morning dose or as a twice-daily dose, blood pressure reductions at the time of morning trough blood levels were greater with the divided regimen.
 
 The antihypertensive effects of benazepril were not appreciably different in patients receiving high- or low-sodium diets.

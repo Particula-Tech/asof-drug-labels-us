@@ -34,14 +34,14 @@ In fasting subjects, the rate and extent of absorption of benazepril and hydroch
 
 The estimated absolute bioavailability of hydrochlorothiazide after oral administration is about 70%.
 Peak plasma hydrochlorothiazide concentrations (Cmax) are reached within 2 to 5 hours after oral administration.
-Hydrochlorothiazide binds to albumin (40% - 70%) and distributes into erythrocytes.
+Hydrochlorothiazide binds to albumin (40% to 70%) and distributes into erythrocytes.
 
 The absorption of benazepril from Lotensin tablets is not influenced by the presence of food in the gastrointestinal tract.
 There is no clinically significant effect of food on the bioavailability of hydrochlorothiazide.
 
 Cleavage of the ester group (primarily in the liver) converts benazepril to its active metabolite, benazeprilat.
 Peak plasma concentrations of benazeprilat are reached 1 to 2 hours after drug intake in the fasting state and 2 to 4 hours after drug intake in the nonfasting state.
-The serum protein binding of benazepril is about 96.7% and that of benazeprilat about 95.3%, as measured by equilibrium dialysis; on the basis of in vitro studies, the degree of protein binding should be unaffected by age, hepatic dysfunction, or – over the concentration range of 0.24 - 23.6 µmol/L – concentration.
+The serum protein binding of benazepril is about 96.7% and that of benazeprilat about 95.3%, as measured by equilibrium dialysis; on the basis of in vitro studies, the degree of protein binding should be unaffected by age, hepatic dysfunction, or – over the concentration range of 0.24 to 23.6 µmol/L – concentration.
 
 In studies of rats given 14C-benazepril, benazepril and its metabolites crossed the blood-brain barrier only to an extremely low extent.
 Multiple doses of benazepril did not result in accumulation in any tissue except the lung, where, as with other ACE inhibitors in similar studies, there was a slight increase in concentration due to slow elimination in that organ.
@@ -52,24 +52,20 @@ Only trace amounts of an administered dose of benazepril can be recovered unchan
 In patients with hepatic dysfunction due to cirrhosis, levels of benazeprilat are essentially unaltered.
 Similarly, the pharmacokinetics of benazepril and benazeprilat do not appear to be influenced by age.
 
-The kinetics of benazepril are dose-proportional within the dosage range of 5 to 20 mg.
-Small deviations from dose proportionality were observed when the broader range of 2 to 80 mg was
-
-studied, possibly due to the saturable binding of the compound to ACE.
+The kinetics of benazepril are dose-proportional within the dosage range of 5 mg to 20 mg.
+Small deviations from dose proportionality were observed when the broader range of 2 mg to 80 mg was studied, possibly due to the saturable binding of the compound to ACE.
 
 The effective half-life of accumulation of benazeprilat following multiple dosing of benazepril is 10 to11 hours.
 Thus, steady-state concentrations of benazeprilat should be reached after 2 or 3 doses of benazepril given once daily.
 
-During chronic administration (28 days) of once-daily doses of benazepril between 5 mg and
-
-20 mg, the kinetics did not change, and there was no significant accumulation.
+During chronic administration (28 days) of once-daily doses of benazepril between 5 mg and 20 mg, the kinetics did not change, and there was no significant accumulation.
 Accumulation ratios based on AUC and urinary recovery of benazeprilat were 1.19 and 1.27, respectively.
 
 When dialysis was started 2 hours after ingestion of 10 mg of benazepril, approximately 6% of benazeprilat was removed in 4 hours of dialysis.
 The parent compound, benazepril, was not detected in the dialysate.
 
 Benazepril and benazeprilat are cleared predominantly by renal excretion in healthy subjects with normal renal function.
-Nonrenal (i.e., biliary) excretion accounts for approximately 11% - 12% of benazeprilat excretion in healthy subjects.
+Nonrenal (i.e., biliary) excretion accounts for approximately 11% to 12% of benazeprilat excretion in healthy subjects.
 In patients with renal failure, biliary clearance may compensate to an extent for deficient renal clearance.
 
 The disposition of benazepril and benazeprilat in patients with mild-to-moderate renal insufficiency (creatinine clearance > 30 mL/min) is similar to that in patients with normal renal function.
@@ -83,8 +79,8 @@ In a study in individuals with impaired renal function, the mean elimination hal
 
 Benazepril
 
-Single and multiple doses of 10 mg or more of benazepril cause inhibition of plasma ACE activity by at least 80% - 90% for at least 24 hours after dosing.
-For up to 4 hours after a 10 mg dose, pressor responses to exogenous angiotensin I were inhibited by 60% - 90%.
+Single and multiple doses of 10 mg or more of benazepril cause inhibition of plasma ACE activity by at least 80% to 90% for at least 24 hours after dosing.
+For up to 4 hours after a 10 mg dose, pressor responses to exogenous angiotensin I were inhibited by 60% to 90%.
 
 In normal human volunteers, single doses of benazepril caused an increase in renal blood flow but had no effect on glomerular filtration rate.
 
@@ -94,6 +90,4 @@ After oral administration of hydrochlorothiazide, diuresis begins within 2 hours
 
 Drug Interactions
 
-Lotensin HCT potentiates the antihypertensive action of other antihypertensive drugs (e.g., curare curare derivatives, guanethidine, methyldopa, beta-blockers, vasodilators, calcium channel
-
-blockers ACE inhibitors and ARBs and DRIs).
+Lotensin HCT potentiates the antihypertensive action of other antihypertensive drugs (e.g., curare derivatives, guanethidine, methyldopa, beta-blockers, vasodilators, calcium channel blockers ACE inhibitors and ARBs and DRIs).
