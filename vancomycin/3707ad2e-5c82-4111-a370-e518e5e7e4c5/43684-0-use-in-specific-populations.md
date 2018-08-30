@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B: The highest doses of vancomycin tested were not teratogenic in rats given up to 200 mg/kg/day IV (1180 mg/m2 or 1 times the recommended maximum human dose based on body surface area) or in rabbits given up to 120 mg/kg/day IV (1320 mg/m2 or 1.1 times the recommended maximum human dose based on body surface area).
+The highest doses of vancomycin tested were not teratogenic in rats given up to 200 mg/kg/day IV (1180 mg/m2 or 1 times the recommended maximum human dose based on body surface area) or in rabbits given up to 120 mg/kg/day IV (1320 mg/m2 or 1.1 times the recommended maximum human dose based on body surface area).
 No effects on fetal weight or development were seen in rats at the highest dose tested or in rabbits given 80 mg/kg/day (880 mg/m2 or 0.74 times the recommended maximum human dose based on body surface area).
 
 In a controlled clinical study, the potential ototoxic and nephrotoxic effects of vancomycin on infants were evaluated when the drug was administered intravenously to pregnant women for serious staphylococcal infections complicating intravenous drug abuse.

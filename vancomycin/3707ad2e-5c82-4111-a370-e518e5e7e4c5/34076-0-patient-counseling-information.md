@@ -9,4 +9,4 @@ Rx Only
 
 Distributed by: ANI Pharmaceuticals, Inc. Baudette, MN 56623
 
-9904 Rev 10/16
+10067 Rev 02/18
