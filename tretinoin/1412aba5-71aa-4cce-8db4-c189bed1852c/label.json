@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA209353"
+  ],
+  "inn": "tretinoin",
+  "labeler": "Valeant Pharmaceuticals North America LLC",
+  "package_ndcs": [
+    "0187-0005-03",
+    "0187-0005-45"
+  ],
+  "products": [
+    {
+      "form": "LOTION",
+      "generic": "tretinoin",
+      "name": "Altreno"
+    }
+  ],
+  "setid": "1412aba5-71aa-4cce-8db4-c189bed1852c",
+  "source": "dailymed"
+}
