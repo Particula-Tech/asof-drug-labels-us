@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-VANCOCIN CAPSULES are available in:
+VANCOCIN (vancomycin hydrochloride capsules USP) are available in:
 
 The 125 mg* capsules have an opaque blue cap and opaque brown body imprinted with “3125” on the cap and “VANCOCIN HCL 125 MG” on the body in white ink.
 A carton contains 2 blister packs.

@@ -9,8 +9,4 @@ VANCOCIN® is a registered U.S. trademark owned by ANI Pharmaceuticals, Inc.
 
 Rx Only
 
-Distributed by:
-
-ANI Pharmaceuticals, Inc.
-
-Baudette, MN 56623 PKG01910 Rev 08/14
+Distributed by: ANI Pharmaceuticals, Inc. Baudette, MN 56623 10026 Rev 02/18

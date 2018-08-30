@@ -10,10 +10,10 @@ The mean duration of treatment was 9.4 days.
 The median age of patients was 67, ranging between 19 and 96 years of age.
 Patients were predominantly Caucasian (93%) and 52% were male.
 
-Adverse reactions occurring in ≥ 5% of VANCOCIN-treated subjects are shown in Table 1.
-The most common adverse reactions associated with VANCOCIN (≥ 10%) were nausea, abdominal pain, and hypokalemia.
+Adverse reactions occurring in ≥5% of VANCOCIN-treated subjects are shown in Table 1.
+The most common adverse reactions associated with VANCOCIN (≥10%) were nausea, abdominal pain, and hypokalemia.
 
-Table 1: Common (≥ 5%) Adverse Reactionsa for VANCOCIN Reported in Clinical Trials for Treatment of Diarrhea Associated with C. difficile
+Table 1: Common (≥5%) Adverse Reactionsa for VANCOCIN Reported in Clinical Trials for Treatment of Diarrhea Associated with C. difficile
 
 | System/Organ Class | Adverse Reaction | VANCOCIN % (N=260) |
 | --- | --- | --- |
