@@ -4,7 +4,7 @@
 
 ### Risk Summary
 
-There are no adequate and well-controlled studies with PRILOSEC in pregnant women.
+There are no adequate and well-controlled studies with omeprazole in pregnant women.
 Available epidemiologic data fail to demonstrate an increased risk of major congenital malformations or other adverse pregnancy outcomes with first trimester omeprazole use.
 Reproduction studies in rats and rabbits resulted in dose-dependent embryo-lethality at omeprazole doses that were approximately 3.4 to 34 times an oral human dose of 40 mg (based on a body surface area for a 60 kg person).
 
@@ -14,7 +14,7 @@ When maternal administration was confined to gestation only, there were no effec
 
 The estimated background risks of major birth defects and miscarriage for the indicated population are unknown.
 All pregnancies have a background risk of birth defect, loss or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+In the US general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 ### Data
 
@@ -78,7 +78,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of PRILOSEC have been established in pediatric patients 1 to 16 years for the treatment of symptomatic GERD, treatment of EE due to acid-mediated GERD, and maintenance of healing of EE due to acid-mediated GERD.
-Use of PRILOSEC in this age group is supported by adequate and well-controlled studies in adults and uncontrolled safety, efficacy and pharmacokinetic studies performed in pediatric and adolescent patients [see Clinical Pharmacology (12.3), Clinical Studies (14.8)].
+Use of PRILOSEC in this age group is supported by adequate and well-controlled studies in adults and uncontrolled safety, efficacy, and pharmacokinetic studies performed in pediatric and adolescent patients [see Clinical Pharmacology (12.3), Clinical Studies (14.8)].
 
 The safety and effectiveness of PRILOSEC have been established in pediatric patients 1 month to less than 1 year of age for the treatment of EE due to acid-mediated GERD and is supported by adequate and well-controlled studies in adults and safety, pharmacokinetic, and pharmacodynamic studies performed in pediatric patients [see Clinical Pharmacology (12.3)].
 

@@ -26,35 +26,27 @@ Table 2: Recommended Dosage Regimen of PRILOSEC in Pediatric Patients by Indicat
 | Indication | PRILOSEC Dosage Regimen and Duration |  |  |
 | --- | --- | --- | --- |
 | Patient Age | Weight-Based Dose (mg) | Regimen and Duration |  |
-| Treatment of Symptomatic GERD | 1 to 16 years | 5 to less than 10 kg: 5 mg10 to less than 20 kg: 10 mg20 kg and greater: 20 mg | Once daily for up to 4 weeks |
-| Treatment of EE due to Acid-Mediated GERD | 1 to 16 years | 5 to less than 10 kg: 5 mg10 to less than 20 kg: 10 mg20 kg and greater: 20 mg | Once daily for 4 to 8 weeksThe efficacy of PRILOSEC used for longer than 8 weeks in patients with EE has not been established. If a patient does not respond to 8 weeks of treatment, an additional 4 weeks of treatment may be given. If there is recurrence of EE or GERD symptoms (e.g., heartburn), additional 4 to 8 week courses of PRILOSEC may be considered. |
-| 1 month to less than 1 year | 3 to less than 5 kg: 2.5 mg5 to less than 10 kg: 5 mg10 kg and greater: 10 mg | Once daily up to 6 weeks |  |
-| Maintenance of Healing of EE due to Acid-Mediated GERD | 1 to 16 years | 5 to less than 10 kg: 5 mg10 to less than 20 kg: 10 mg20 kg and greater: 20 mg | Once daily. Controlled studies do not extend beyond 12 months |
+| Treatment of Symptomatic GERD | 1 to 16 years | 5 to less than 10 kg: 5 mg | Once daily for up to 4 weeks |
+| 10 to less than 20 kg: 10 mg |  |  |  |
+| 20 kg and greater: 20 mg |  |  |  |
+| Treatment of EE due to Acid-Mediated GERD | 1 to 16 years | 5 to less than 10 kg: 5 mg | Once daily for 4 to 8 weeksThe efficacy of PRILOSEC used for longer than 8 weeks in patients with EE has not been established. If a patient does not respond to 8 weeks of treatment, an additional 4 weeks of treatment may be given. If there is recurrence of EE or GERD symptoms (e.g., heartburn), additional 4 to 8 week courses of PRILOSEC may be considered. |
+| 10 to less than 20 kg: 10 mg |  |  |  |
+| 20 kg and greater: 20 mg |  |  |  |
+| 1 month to less than 1 year | 3 to less than 5 kg: 2.5 mg | Once daily up to 6 weeks |  |
+| 5 to less than 10 kg: 5 mg |  |  |  |
+| 10 kg and greater: 10 mg |  |  |  |
+| Maintenance of Healing of EE due to Acid-Mediated GERD | 1 to 16 years | 5 to less than 10 kg: 5 mg | Once daily. Controlled studies do not extend beyond 12 months |
+| 10 to less than 20 kg: 10 mg |  |  |  |
+| 20 kg and greater: 20 mg |  |  |  |
 
 ## 2.3 Administration Instructions
 
+- •PRILOSEC is intended to be prepared in water and administered orally or via a nasogastric (NG) or gastric tube.
 - •Take PRILOSEC before meals.
 - •Antacids may be used concomitantly with PRILOSEC.
 - •Missed doses: If a dose is missed, administer as soon as possible.
   However, if the next scheduled dose is due, do not take the missed dose, and take the next dose on time.
   Do not take two doses at one time to make up for a missed dose.
-
-PRILOSEC Delayed-Release Capsules
-
-- •Swallow PRILOSEC delayed-release capsules whole; do not chew.
-- •For patients unable to swallow an intact capsule, PRILOSEC delayed-release capsules can be opened and administered as follows:
-- 1.Place one tablespoon of applesauce into a clean container (e.g., empty bowl).
-  The applesauce used should not be hot and should be soft enough to be swallowed without chewing.
-- 2.Open the capsule.
-- 3.Carefully empty all of the pellets inside the capsule on the applesauce.
-- 4.Mix the pellets with the applesauce.
-- 5.Swallow applesauce and pellets immediately with a glass of cool water to ensure complete swallowing of the pellets.
-  Do not chew or crush the pellets.
-  Do not save the applesauce and pellets for future use.
-
-PRILOSEC For Delayed-Release Oral Suspension
-
-PRILOSEC for delayed-release oral suspension is intended to be prepared in water and administered orally or via a nasogastric (NG) or gastric tube.
 
 Oral Administration in Water
 

@@ -69,25 +69,14 @@ No significant differences between treatment groups were observed in development
 
 ## 12.3 Pharmacokinetics
 
-Omeprazole is a time-dependent inhibitor of CYP2C19, resulting in autoinhibition and nonlinear pharmacokinetics.
-The systemic exposure increases in a more than dose proportional manner after multiple oral doses of omeprazole.
-Compared to the first dose, the systemic exposure (Cmax and AUC0-24h) at steady state following once a day dosing increased by 61% and 62%, respectively, compared to after the first dose for the 20 mg dose of PRILOSEC delayed-release capsules and increased by 118% and 175%, respectively, for the 40 mg dose of PRILOSEC delayed-release capsules.
-
 Absorption
 
-PRILOSEC delayed-release capsules contain an enteric-coated granule formulation of omeprazole (because omeprazole is acid-labile), so that absorption of omeprazole begins only after the granules leave the stomach.
-Absorption is rapid, with peak plasma concentrations of omeprazole occurring within 0.5 to 3.5 hours.
-Peak plasma concentrations of omeprazole and AUC are approximately proportional to doses up to 40 mg, but because of a saturable first-pass effect, a greater than linear response in peak plasma concentration and AUC occurs with doses greater than 40 mg.
-Absolute bioavailability (compared with intravenous administration) is about 30 to 40% at doses of 20 to 40 mg, due in large part to presystemic metabolism.
-In healthy subjects the plasma half-life is 0.5 to 1 hour, and the total body clearance is 500 to 600 mL/min.
-
-Based on a relative bioavailability study, the AUC and Cmax of PRILOSEC for delayed-release oral suspension were 87% and 88% of those for PRILOSEC delayed-release capsules, respectively.
-
-The bioavailability of omeprazole increases slightly upon repeated administration of PRILOSEC delayed-release capsules.
-
-The systemic exposure (Cmax and AUC) are similar when a 40 mg PRILOSEC delayed-release capsule is administered with and without applesauce.
-However, administration of a 20 mg PRILOSEC delayed-release capsule with applesauce, results in a mean 25% reduction in Cmax without a significant change in AUC compared to administration without applesauce.
-The clinical relevance of this finding is unknown.
+PRILOSEC for delayed-release oral suspension contains omeprazole magnesium granules and inactive granules to be administered in water.
+Absorption of omeprazole begins only after the gastro-resistant granules leave the stomach.
+The pharmacokinetics of omeprazole are time dependent, with higher plasma concentrations at steady state compared to after a single dose.
+The systemic exposure (AUC and Cmax) to omeprazole following once daily dosing of 20 mg delayed-release oral suspension for 5 days is 51% and 58% higher, respectively, than after the first dose.
+Peak plasma concentrations of omeprazole after repeated doses of delayed-release oral suspension occur within 1.5 to 2 hours.
+In healthy subjects, the plasma half-life is 0.5 to 1 hour.
 
 Distribution
 
@@ -133,14 +122,14 @@ Table 6: Clarithromycin Tissue Concentrations 2 hours after DoseMean ± SD (μg/
 
 Specific Populations
 
-Age: Geriatric Population
+Geriatric Patients
 
 The elimination rate of omeprazole was somewhat decreased in the elderly, and bioavailability was increased.
 Omeprazole was 76% bioavailable when a single 40 mg oral dose of omeprazole (buffered solution) was administered to healthy elderly volunteers, versus 58% in young volunteers given the same dose.
 Nearly 70% of the dose was recovered in urine as metabolites of omeprazole and no unchanged drug was detected.
 The plasma clearance of omeprazole was 250 mL/min (about half that of young volunteers) and its plasma half-life averaged one hour, about twice that of young healthy volunteers.
 
-Age: Pediatric Population
+Pediatric Patients
 
 2 to 16 Years of Age
 
@@ -148,7 +137,7 @@ The pharmacokinetics of omeprazole have been investigated in pediatric patients 
 
 Table 7: Pharmacokinetic Parameters of Omeprazole Following Single and Repeated Oral Administration in Pediatric Populations Compared with Adults
 
-| Single or Repeated Oral Dosing/Parameter | ChildrenData from single and repeated dose studies. Doses of 10, 20 and 40 mg omeprazole as enteric-coated granules. ≤ 20 kg2-5 years10 mg | Children > 20 kg6-16 years20 mg | AdultsData from a single and repeated dose study. Doses of 10, 20 and 40 mg omeprazole as enteric-coated granules. (mean 76 kg)23-29 years (n=12) |
+| Single or Repeated Oral Dosing/Parameter | ChildrenData from single and repeated dose studies. Doses of 10, 20, and 40 mg omeprazole administered as suspension prepared from omeprazole magnesium delayed-release capsules. ≤ 20 kg2-5 years10 mg | Children > 20 kg6-16 years20 mg | AdultsData from a single and repeated dose study. Doses of 10, 20, and 40 mg omeprazole administered as delayed-release capsules. (mean 76 kg)23-29 years (n=12) |
 | --- | --- | --- | --- |
 | Single Dosing |  |  |  |
 | CmaxPlasma concentration adjusted to an oral dose of 1 mg/kg. (ng/mL) | 288 (n=10) | 495 (n=49) | 668 |
@@ -162,21 +151,22 @@ Following comparable mg/kg doses of omeprazole, younger children (2 to 5 years o
 1 to 11 Months of Age
 
 A population pharmacokinetics model was used to determine appropriate doses of PRILOSEC in pediatric patients 1 month to less than 1 year of age for treatment (up to 6 weeks) of erosive esophagitis due to acid-mediated GERD.
-The model was based on data from 64 children 0.5 month to 16 year of age.
-Only limited data were available in children below the age of 1 year.
-Pediatric doses were simulated in the age group of 1 to 11 month, to achieve comparable omeprazole exposures with adults following treatment with 20 mg once daily [see Dosage and Administration (2.2)].
+The model was based on data from three studies in 64 children 0.5 month to 16 years of age.
+Only limited data were available in children younger than the age of 1 year.
+Omeprazole was administered to the pediatric patients in these studies as an oral suspension prepared from the delayed-release capsules.
+Pediatric doses were simulated in the age group of 1 to 11 months, to achieve comparable omeprazole exposures with adults following treatment with 20 mg once daily [see Dosage and Administration (2.2)].
 
-Race/Ethnicity
+Racial or Ethnic Groups
 
 [See Clinical Pharmacology (12.5)].
 
-Renal Impairment
+Patients with Renal Impairment
 
 In patients with chronic renal impairment (creatinine clearance between 10 and 62 mL/min/1.73 m2), the disposition of omeprazole was very similar to that in healthy subjects, although there was a slight increase in bioavailability.
 Because urinary excretion is a primary route of excretion of omeprazole metabolites, their elimination slowed in proportion to the decreased creatinine clearance.
 This increase in bioavailability is not considered to be clinically meaningful.
 
-Hepatic Impairment
+Patients with Hepatic Impairment
 
 In patients with chronic hepatic disease classified as Child-Pugh Class A (n=3), B (n=4) and C (n=1), the bioavailability increased to approximately 100% compared to healthy subjects, reflecting decreased first-pass effect, and the plasma half-life of the drug increased to nearly 3 hours compared with the half-life in healthy subjects of 0.5 to 1 hour.
 Plasma clearance averaged 70 mL/min, compared with a value of 500 to 600 mL/min in healthy subjects [see Dosage and Administration (2.1), Use in Specific Populations (8.6)].
@@ -202,7 +192,6 @@ Saquinavir: Following multiple dosing of saquinavir/ritonavir (1000/100 mg) twic
 
 AUC was increased by 82%, Cmax by 75%, and Cmin by 106%.
 The mechanism behind this interaction is not fully elucidated.
-Therefore, clinical and laboratory monitoring for saquinavir toxicity is recommended during concurrent use with PRILOSEC.
 
 Clopidogrel
 
