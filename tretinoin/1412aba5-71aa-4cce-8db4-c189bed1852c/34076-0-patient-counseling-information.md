@@ -22,6 +22,6 @@ U.S. Patent Number: 6,517,847
 Altreno and Ortho Dermatologics are trademarks of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
 - © Valeant Pharmaceuticals North America LLC
-- 9650300
+- 9650300 20002182A
 - Rev.
   08/2018

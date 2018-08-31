@@ -85,4 +85,4 @@ Altreno and Ortho Dermatologics are trademarks of Valeant Pharmaceuticals Intern
 - This Patient Information has been approved by the U.S. Food and Drug Administration.
 - Issued: 08/2018
 
-9650300
+9650300 20002182A
