@@ -4,7 +4,9 @@ Nimbex®
 
 (cisatracurium besylate) injection
 
-10 mg/5 mL (2 mg/mL)
+10 mg/5 mL* (2 mg/mL)
+
+WARNING: Paralyzing Agent
 
 Single-dose vial
 
@@ -18,7 +20,9 @@ Nimbex®
 
 (cisatracurium besylate) injection
 
-20 mg/10 mL (2 mg/mL)
+20 mg/10 mL* (2 mg/mL)
+
+WARNING: Paralyzing Agent
 
 Multiple-dose vial
 
@@ -34,7 +38,9 @@ Nimbex®
 
 (cisatracurium besylate) injection
 
-200 mg/20 mL (10 mg/mL)
+200 mg/20 mL* (10 mg/mL)
+
+WARNING: Paralyzing Agent
 
 Single-dose vial
 
