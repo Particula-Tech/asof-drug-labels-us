@@ -244,7 +244,7 @@ Linezolid binds to a site on the bacterial 23S ribosomal RNA of the 50S subunit 
 The results of time-kill studies have shown linezolid to be bacteriostatic against enterococci and staphylococci.
 For streptococci, linezolid was found to be bactericidal for the majority of isolates.
 
-Mechanisms of Resistance
+Resistance
 
 In vitro studies have shown that point mutations in the 23S rRNA are associated with linezolid resistance.
 Reports of vancomycin-resistant Enterococcus faecium becoming resistant to linezolid during its clinical use have been published.
@@ -265,7 +265,7 @@ Gram-positive bacteria
 Enterococcus faecium (vancomycin-resistant isolates only) Staphylococcus aureus (including methicillin-resistant isolates) Streptococcus agalactiae Streptococcus pneumoniae Streptococcus pyogenes
 
 The following in vitro data are available, but their clinical significance is unknown.
-Greater than 90% of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the linezolid-susceptible breakpoint for organisms of similar genus shown in Table 12.
+Greater than 90% of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the linezolid-susceptible breakpoint for organisms of similar genus.
 The safety and effectiveness of linezolid in treating clinical infections due to these bacteria have not been established in adequate and well-controlled clinical trials.
 
 Gram-positive bacteria
@@ -276,57 +276,6 @@ Gram-negative bacteria
 
 Pasteurella multocida
 
-Susceptibility Test Methods
+Susceptibility Testing
 
-When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drug products used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
-These reports should aid the physician in selecting an antibacterial drug product for treatment.
-
-Dilution techniques
-
-Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
-These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized method1,2 (broth and/or agar).
-The MIC values should be interpreted according to criteria provided in Table 12.
-
-Diffusion techniques
-
-Quantitative methods that require measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
-The zone size should be determined using a standardized test method2,3.
-This procedure uses paper disks impregnated with 30 mcg linezolid to test the susceptibility of bacteria to linezolid.
-The disk diffusion interpretive criteria are provided in Table 12.
-
-Table 12.
-Susceptibility Test Interpretive Criteria for Linezolid
-
-| Pathogen | S | I | R | S | I | R |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | Susceptibility Interpretive Criteria |  |  |  |  |  |
-|  | Minimal Inhibitory Concentrations (MIC in mcg/mL) |  |  | Disk Diffusion (Zone Diameters in mm) |  |  |
-| Enterococcus spp. | ≤2 | 4 | ≥8 | ≥23 | 21–22 | ≤20 |
-| Staphylococcus spp.For disk diffusion testing of staphylococcal species, petri plates should be held up to the light source and read with transmitted light. The zone margin should be considered the area showing no obvious, visible growth that can be detected with the unaided eye. Ignore faint growth of tiny colonies that can be detected only with a magnifying lens at the edge of the zone of inhibited growth. Any discernible growth within the zone of inhibition is indicative of resistance. Resistant results obtained by the disk diffusion method should be confirmed using an MIC method. | ≤4 | --- | ≥8 | ≥21 | --- | ≤20 |
-| Streptococcus pneumoniaeThe current absence of data on resistant isolates precludes defining any categories other than "Susceptible." Isolates yielding test results suggestive of a "nonsusceptible" category should be retested, and if the result is confirmed, the isolate should be submitted to a reference laboratory for further testing. | ≤2 | --- | --- | ≥21 | --- | --- |
-| Streptococcus spp. other than S. pneumoniae | ≤2 | --- | --- | ≥21 | --- | --- |
-| S=susceptible, I=intermediate, R=resistant |  |  |  |  |  |  |
-
-A report of "Susceptible" indicates that the antimicrobial drug is likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
-A report of "Intermediate" indicates that the result should be considered equivocal, and, if the bacteria is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
-This category implies possible clinical applicability in body sites where the drug product is physiologically concentrated or in situations where a high dosage of the drug product can be used.
-This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of "Resistant" indicates that the antimicrobial drug is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the site of infection; other therapy should be selected.
-
-Quality Control
-
-Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test1,2,3.
-Standard linezolid powder should provide the following range of MIC values noted in Table 13.
-For the diffusion technique using the 30 mcg linezolid disk, the criteria in Table 13 should be achieved.
-
-Table 13.
-Acceptable Quality Control Ranges for Linezolid
-
-|  | Minimum Inhibitory Ranges (MIC in mcg/mL) | Disk Diffusion Ranges Zone Diameters (mm) |
-| --- | --- | --- |
-| Enterococcus faecalis ATCC 29212 | 1–4 | Not applicable |
-| Staphylococcus aureus ATCC 29213 | 1–4 | Not applicable |
-| Staphylococcus aureus ATCC 25923 | Not applicable | 25–32 |
-| Streptococcus pneumoniae ATCC 49619This organism may be used for validation of susceptibility test results when testing Streptococcus spp. other than S. pneumoniae. | 0.25–2 | 25–34 |
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
