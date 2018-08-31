@@ -109,7 +109,7 @@ Effects of Fenofibrate on Systemic Exposure of Co-Administered Drugs
 | Fenofibrate 160 mg1 once daily for 10 days | Atorvastatin, 20 mg once daily for 10 days | Atorvastatin | ↓17% | 0% |  |  |  |  |  |
 | Fenofibrate 3 x 67 mg2 as a single dose | Pravastatin, 40 mg as a single dose | Pravastatin | ↑13% | ↑13% |  |  |  |  |  |
 |  |  | 3α-Hydroxyl-iso-pravastatin | ↑26% | ↑29% |  |  |  |  |  |
-| Fenofibrate 160 mg1 as a single dose | Fluvastatin, 40 mg as a single dose | (+)-3R, 5S-Fluvastatin | ↑5% | ↑16% |  |  |  |  |  |
+| Fenofibrate 160 mg1 as a single dose | Fluvastatin, 40 mg as a single dose | (+)-3R, 5S-Fluvastatin | ↑15% | ↑16% |  |  |  |  |  |
 | Anti-diabetic agents |  |  |  |  |  |  |  |  |  |
 | Fenofibrate 145 mg1 once daily for 10 days | Glimepiride, 1 mg as a single dose | Glimepiride | ↑35% | ↑18% |  |  |  |  |  |
 | Fenofibrate 54 mg1 three times daily for 10 days | Metformin, 850 mg three times daily for 10 days | Metformin | ↑3% | ↑6% |  |  |  |  |  |

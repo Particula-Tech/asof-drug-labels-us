@@ -15,4 +15,4 @@ Patients should be advised:
 
 Product of Israel
 
-Manufactured for: ANI Pharmaceuticals, Inc. Baudette, MN 56623 9854 Rev 02/16
+Manufactured for: ANI Pharmaceuticals, Inc. Baudette, MN 56623 9854 Rev 09/18
