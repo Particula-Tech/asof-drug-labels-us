@@ -239,7 +239,7 @@ Musculo-Skeletal System: arthralgia, leg cramps, leg pain, myalgia
 
 Psychiatric: confusion, hallucinations
 
-Reproductive System, Male: impotence
+Reproductive System, Male: erectile dysfunction
 
 Respiratory System: dyspnea
 
