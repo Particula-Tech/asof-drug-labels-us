@@ -20,4 +20,4 @@ However, impotence and decreased libido may occur in patients treated with finas
 Physicians should instruct their patients to promptly report any changes in their breasts such as lumps, pain or nipple discharge.
 Breast changes including breast enlargement, tenderness and neoplasm have been reported [see Adverse Reactions (6.1)].
 Physicians should instruct their patients to read the patient package insert before starting therapy with finasteride and to reread it each time the prescription is renewed so that they are aware of current information for patients regarding finasteride.
-Distributed by: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 038, India Revised: 09/2017
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 038, India Revised: 06/2018

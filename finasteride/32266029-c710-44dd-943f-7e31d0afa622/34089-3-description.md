@@ -5,6 +5,6 @@ Finasteride is 4-azaandrost-1-ene-17-carboxamide, N-(1,1-dimethylethyl)-3-oxo-,(
 The molecular formula of finasteride is C23H36N2O2 and its molecular weight is 372.55.
 Its structural formula is:
 
-Finasteride USP is a white crystalline powder with a melting point near 250°C.
+Finasteride, USP is a white crystalline powder with a melting point near 250°C.
 It is freely soluble in chloroform and in lower alcohol solvents, but is practically insoluble in water.
 Finasteride tablets, USP for oral administration are film-coated tablets that contain 5 mg of finasteride and the following inactive ingredients: lactose monohydrate, microcrystalline cellulose, sodium starch glycolate, pregelatinised starch (maize), docusate sodium, magnesium stearate, hypromellose, hydroxypropyl cellulose, titanium dioxide, talc, iron oxide yellow, and FD&C Blue #2 aluminum lake.
