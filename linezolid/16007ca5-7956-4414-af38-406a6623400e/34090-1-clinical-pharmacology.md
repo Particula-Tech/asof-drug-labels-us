@@ -220,46 +220,43 @@ In vitro studies have demonstrated additivity or indifference between linezolid 
 
 Linezolid has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections [see Indications and Usage (1)].
 
-Gram-positive bacteria: Enterococcus faecium (vancomycin-resistant isolates only)
+Gram-positive Bacteria
 
-Staphylococcus aureus (including methicillin-resistant isolates)
+1. Enterococcus faecium (vancomycin-resistant isolates only)
+2. Staphylococcus aureus (including methicillin-resistant isolates)
+3. Streptococcus agalactiae
+4. Streptococcus pneumoniae
+5. Streptococcus pyogenes
 
-Streptococcus agalactiae
-
-Streptococcus pneumoniae
-
-Streptococcus pyogenes
-
+The following in vitro data are available, but their clinical significance is unknown.
 Greater than 90% of the following bacteria exhibit an in vitro MIC less than or equal to the linezolid-susceptible breakpoint for organisms of similar genus shown in Table 12.
 The safety and effectiveness of linezolid in treating clinical infections due to these bacteria have not been established in adequate and well-controlled clinical trials.
 
-Gram-positive bacteria: Enterococcus faecalis (including vancomycin-resistant isolates)
+Gram-positive Bacteria
 
-Enterococcus faecium (vancomycin-susceptible isolates)
+1. Enterococcus faecalis (including vancomycin-resistant isolates)
+2. Enterococcus faecium (vancomycin-susceptible isolates)
+3. Staphylococcus epidermidis (including methicillin-resistant isolates)
+4. Staphylococcus haemolyticus
+5. Viridans group streptococci
 
-Staphylococcus epidermidis (including methicillin-resistant isolates)
+Gram-negative Bacteria
 
-Staphylococcus haemolyticus
+1. Pasteurella multocida
 
-Viridans group streptococci
-
-Gram-negative bacteria:
-
-Pasteurella multocida
-
-Susceptibility Test Methods:
+Susceptibility Test Methods
 
 When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drug products used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
 These reports should aid the physician in selecting an antibacterial drug product for treatment.
 
-Dilution techniques:
+Dilution techniques
 
 Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
 The MICs should be determined using a standardized method1,2 (broth and/or agar).
 The MIC values should be interpreted according to criteria provided in Table 12.
 
-Diffusion techniques:
+Diffusion techniques
 
 Quantitative methods that require measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
@@ -284,7 +281,7 @@ This category implies possible clinical applicability in body sites where the dr
 This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
 A report of “Resistant” indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the site of infection; other therapy should be selected.
 
-Quality Control:
+Quality Control
 
 Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test1,2,3.
 Standard linezolid powder should provide the following range of MIC values noted in Table 13.
@@ -297,6 +294,6 @@ Table 13: Acceptable Quality Control Ranges for Linezolid
 | Enterococcus faecalisATCC 29212 | 1 to 4 | Not applicable |
 | Staphylococcus aureusATCC 29213 | 1 to 4 | Not applicable |
 | Staphylococcus aureusATCC 25923 | Not applicable | 25 to 32 |
-| Staphylococcus pneumoniaeATCC 49619a | 0.25 to 2 | 25 to 34 |
+| Staphylococcus pneumoniaeATCC 49619This organism may be used for validation of susceptibility test results when testing Streptococcus spp. other than S. pneumoniae. | 0.25 to 2 | 25 to 34 |
 
-aThis organism may be used for validation of susceptibility test results when testing Streptococcus spp. other than S. pneumoniae.
+1. 1.This organism may be used for validation of susceptibility test results when testing Streptococcus spp. other than S. pneumoniae.

@@ -113,7 +113,7 @@ The cure rates for ITT, MITT, and clinically evaluable patients are presented in
 After the study was completed, 13 additional patients ranging from 4 days through 16 years of age were enrolled in an open-label extension of the VRE arm of the study.
 Table 19 provides clinical cure rates by pathogen for microbiologically evaluable patients including microbiologically evaluable patients with vancomycin-resistant Enterococcus faecium from the extension of this study.
 
-Table 18: Cure Rates at the Test-of-Cure Visit for Intent-to-Treat, Modified Intent-to-Treat, and Clinically Evaluable Pediatric Patients for the Overall Population and by Baseline Diagnosis
+Table 18: Cure Rates at the Test-of-Cure Visit for Intent-to-Treat, Modified Intent-to-Treat, and Clinically Evaluable Pediatric Patients for the Overall Population and by Select Baseline Diagnosis
 
 | Population | ITT |  | MITTMITT = ITT patients with an isolated Gram-positive pathogen at baseline |  | Clinically Evaluable |  |
 | --- | --- | --- | --- | --- | --- | --- |

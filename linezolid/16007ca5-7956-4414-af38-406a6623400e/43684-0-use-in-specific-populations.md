@@ -2,16 +2,14 @@
 
 ## 8.1 Pregnancy
 
-### Teratogenic Effects
+Teratogenic Effects
 
-#### Pregnancy Category C
-
-Linezolid was not teratogenic in mice, rats, or rabbits at exposure levels 6.5-fold (in mice), equivalent to (in rats), or 0.06-fold (in rabbits) the expected human exposure level, based on AUCs.
-However, embryo and fetal toxicities were seen (see Nonteratogenic Effects).
+Pregnancy Category C: Linezolid was not teratogenic in mice, rats, or rabbits at exposure levels 6.5-fold (in mice), equivalent to (in rats), or 0.06-fold (in rabbits) the expected human exposure level, based on AUCs.
+However, embryo and fetal toxicities were seen [see Non-Teratogenic Effects].
 There are no adequate and well-controlled studies in pregnant women.
 Linezolid should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-### Nonteratogenic Effects
+Non-Teratogenic Effects:
 
 In mice, embryo and fetal toxicities were seen only at doses that caused maternal toxicity (clinical signs and reduced body weight gain).
 A dose of 450 mg/kg/day (6.5-fold the estimated human exposure level based on AUCs) correlated with increased postimplantational embryo death, including total litter loss, decreased fetal body weights, and an increased incidence of costal cartilage fusion.

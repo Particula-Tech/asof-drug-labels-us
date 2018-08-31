@@ -9,9 +9,9 @@ When constituted as directed, each bottle will contain 150 mL of a suspension pr
 
 NDC 0054-0319-50: 150 mL per Bottle (when constituted)
 
-## 16.4 Storage
+## 16.4 Storage and Handling
 
 Store at 20º to 25ºC (68º to 77ºF).
 [See USP Controlled Room Temperature].
-Protect from light.
-Keep bottles tightly closed to protect from moisture.
+Keep bottles tightly closed.
+Protect from light and moisture.
