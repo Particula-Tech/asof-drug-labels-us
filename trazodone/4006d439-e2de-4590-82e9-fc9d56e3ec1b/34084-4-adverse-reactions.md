@@ -2,15 +2,15 @@
 
 The following serious adverse reactions are described elsewhere in the labeling:
 
-- •Clinical Worsening and Suicide Risk [see Boxed Warning and Warnings and Precautions (5.1)]
-- •Serotonin Syndrome or NMS-Like Reactions [see Warnings and Precautions (5.2)]
-- •QT Prolongation and Risk of Sudden Death [see Warnings and Precautions (5.4)]
-- •Orthostatic Hypotension [see Warnings and Precautions (5.6)]
-- •Abnormal Bleeding Events [see Warnings and Precautions (5.7)]
-- •Priapism [see Warnings and Precautions (5.9)]
-- •Hyponatremia [see Warnings and Precautions (5.10)]
-- •Cognitive and Motor Impairment [see Warnings and Precautions (5.11)]
-- •Discontinuation Symptoms [see Warnings and Precautions (5.13)]
+- Clinical Worsening and Suicide Risk [see Boxed Warning and Warnings and Precautions (5.1)]
+- Serotonin Syndrome or NMS-Like Reactions [see Warnings and Precautions (5.2)]
+- QT Prolongation and Risk of Sudden Death [see Warnings and Precautions (5.4)]
+- Orthostatic Hypotension [see Warnings and Precautions (5.6)]
+- Abnormal Bleeding Events [see Warnings and Precautions (5.7)]
+- Priapism [see Warnings and Precautions (5.9)]
+- Hyponatremia [see Warnings and Precautions (5.10)]
+- Cognitive and Motor Impairment [see Warnings and Precautions (5.11)]
+- Discontinuation Symptoms [see Warnings and Precautions (5.13)]
 
 The most common adverse reactions (reported in ≥ 5% and at twice the rate of placebo) are:
 

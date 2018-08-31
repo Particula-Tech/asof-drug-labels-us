@@ -5,5 +5,7 @@ Trazodone hydrochloride, USP is a triazolopyridine derivative designated as 2-[3
 It is a white, odorless crystalline powder which is freely soluble in water.
 The structural formula is represented as follows:
 
+C19H22ClN5O • HCl M. W. 408.33
+
 Each tablet, for oral administration, contains 50 mg, 100 mg or 150 mg of trazodone hydrochloride, USP.
 In addition, each tablet contains colloidal silicon dioxide, lactose anhydrous, magnesium stearate, microcrystalline cellulose and sodium starch glycolate.
