@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "NDA020375"
+  ],
+  "inn": "estradiol",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "0781-7104-54",
+    "0781-7104-58",
+    "0781-7119-54",
+    "0781-7119-58",
+    "0781-7122-54",
+    "0781-7122-58",
+    "0781-7133-54",
+    "0781-7133-58",
+    "0781-7134-54",
+    "0781-7134-58",
+    "0781-7136-54",
+    "0781-7136-58"
+  ],
+  "products": [
+    {
+      "form": "PATCH",
+      "generic": "estradiol",
+      "name": "Estradiol Transdermal System"
+    }
+  ],
+  "setid": "c714974b-766f-42f2-a846-b0c1f5a60560",
+  "source": "dailymed"
+}
