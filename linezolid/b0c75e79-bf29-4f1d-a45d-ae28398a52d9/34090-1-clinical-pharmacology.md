@@ -61,15 +61,6 @@ Formation of metabolite A is presumed to be formed via an enzymatic pathway wher
 In vitro studies have demonstrated that linezolid is minimally metabolized and may be mediated by human cytochrome P450.
 However, the metabolic pathway of linezolid is not fully understood.
 
-Excretion
-
-Nonrenal clearance accounts for approximately 65% of the total clearance of linezolid.
-Under steady-state conditions, approximately 30% of the dose appears in the urine as linezolid, 40% as metabolite B, and 10% as metabolite A. The mean renal clearance of linezolid is 40 mL/min which suggests net tubular reabsorption.
-Virtually no linezolid appears in the feces, while approximately 6% of the dose appears in the feces as metabolite B, and 3% as metabolite A.
-
-A small degree of nonlinearity in clearance was observed with increasing doses of linezolid, which appears to be due to lower renal and nonrenal clearance of linezolid at higher concentrations.
-However, the difference in clearance was small and was not reflected in the apparent elimination half-life.
-
 Geriatric Patients
 
 The pharmacokinetics of linezolid are not significantly altered in elderly patients (65 years or older).
@@ -159,7 +150,14 @@ Hepatic Impairment
 The pharmacokinetics of linezolid are not altered in patients (n=7) with mild-to-moderate hepatic impairment (Child-Pugh class A or B). On the basis of the available information, no dose adjustment is recommended for patients with mild-to-moderate hepatic impairment.
 The pharmacokinetics of linezolid in patients with severe hepatic impairment have not been evaluated.
 
-Specific Populations
+Excretion
+
+Nonrenal clearance accounts for approximately 65% of the total clearance of linezolid.
+Under steady-state conditions, approximately 30% of the dose appears in the urine as linezolid, 40% as metabolite B, and 10% as metabolite A. The mean renal clearance of linezolid is 40 mL/min which suggests net tubular reabsorption.
+Virtually no linezolid appears in the feces, while approximately 6% of the dose appears in the feces as metabolite B, and 3% as metabolite A.
+
+A small degree of nonlinearity in clearance was observed with increasing doses of linezolid, which appears to be due to lower renal and nonrenal clearance of linezolid at higher concentrations.
+However, the difference in clearance was small and was not reflected in the apparent elimination half-life.
 
 Drugs Metabolized by Cytochrome P450
 
@@ -220,6 +218,8 @@ Serotonergic Agents
 Dextromethorphan: The potential drug-drug interaction with dextromethorphan was studied in healthy volunteers.
 Subjects were administered dextromethorphan (two 20-mg doses given 4 hours apart) with or without linezolid.
 No serotonin syndrome effects (confusion, delirium, restlessness, tremors, blushing, diaphoresis, hyperpyrexia) have been observed in normal subjects receiving linezolid and dextromethorphan.
+
+Specific Populations
 
 Drug Interactions
 
