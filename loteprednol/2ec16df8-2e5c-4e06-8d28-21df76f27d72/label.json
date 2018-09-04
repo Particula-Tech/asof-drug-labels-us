@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA210565"
+  ],
+  "inn": "loteprednol",
+  "labeler": "Kala Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "71571-121-28"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "loteprednol etabonate",
+      "name": "INVELTYS"
+    }
+  ],
+  "setid": "2ec16df8-2e5c-4e06-8d28-21df76f27d72",
+  "source": "dailymed"
+}
