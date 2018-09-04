@@ -6,7 +6,7 @@ Advise patients to discontinue GLUCOPHAGE/GLUCOPHAGE XR immediately and to promp
 Counsel patients against excessive alcohol intake and inform patients about importance of regular testing of renal function while receiving GLUCOPHAGE/GLUCOPHAGE XR.
 Instruct patients to inform their doctor that they are taking GLUCOPHAGE/GLUCOPHAGE XR prior to any surgical or radiological procedure, as temporary discontinuation may be required [see Warnings and Precautions (5.1)].
 
-Hypoglycemia Inform patients that hypoglycemia may occur when GLUCOPHAGE/GLUCOPHAGE XR is coadministered with oral sulfonylureas and insulin.
+Hypoglycemia: Inform patients that hypoglycemia may occur when GLUCOPHAGE/GLUCOPHAGE XR is coadministered with oral sulfonylureas and insulin.
 Explain to patients receiving concomitant therapy the risks of hypoglycemia, its symptoms and treatment, and conditions that predispose to its development [see Warnings and Precautions (5.3)].
 
 Vitamin B12 Deficiency: Inform patients about importance of regular hematological parameters while receiving GLUCOPHAGE/GLUCOPHAGE XR [see Warnings and Precautions (5.2)].
@@ -17,4 +17,4 @@ GLUCOPHAGE XR Administration Information: Inform patients that GLUCOPHAGE XR mus
 
 Distributed by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA GLUCOPHAGE® is a registered trademark of Merck Santé S.A.S., a subsidiary of Merck KGaA of Darmstadt, Germany, licensed to Bristol-Myers Squibb Company.
 
-1390866A0 Rev May 2018
+3976400 1397294 Rev May 2018

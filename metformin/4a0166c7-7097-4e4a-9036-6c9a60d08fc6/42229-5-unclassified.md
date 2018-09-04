@@ -281,4 +281,4 @@ GLUCOPHAGE® is a registered trademark of Merck Santé S.A.S., a subsidiary of M
 
 Other brands listed are the trademarks of their respective owners.
 
-Distributed by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA 1390866A0 Rev May 2018
+Distributed by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA 3976400 1397294 Rev May 2018

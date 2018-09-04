@@ -89,7 +89,7 @@ Mean change in body weight from baseline to week 16 was -1.3 lbs, -1.3 lbs, -0.7
 A 24-week, double-blind, randomized study of GLUCOPHAGE XR, taken once daily with the evening meal, and GLUCOPHAGE, taken twice daily (with breakfast and evening meal), was conducted in patients with type 2 diabetes mellitus who had been treated with GLUCOPHAGE 500 mg twice daily for at least 8 weeks prior to study entry.
 The results are shown in Table 11.
 
-Table 11: Mean Changes from Baseline* in HbA1c and Fasting Plasma Glucose at Week 24 Comparing GLUCOPHAGE XR vs GLUCOPHAGE in Patients with Type 2 Diabetes Mellitus
+Table 11: Mean Changes from Baseline in HbA1c and Fasting Plasma Glucose at Week 24 Comparing GLUCOPHAGE XR vs GLUCOPHAGE in Patients with Type 2 Diabetes Mellitus
 
 |  | GLUCOPHAGE 500 mg Twice Daily | GLUCOPHAGE XR |  |
 | --- | --- | --- | --- |
@@ -105,5 +105,5 @@ Table 11: Mean Changes from Baseline* in HbA1c and Fasting Plasma Glucose at Wee
 
 a n=68
 
-Mean baseline body weight was 210lbs, 203 lbs and 193 lbs in the GLUCOPHAGE 500mg twice daily, and GLUCOPHAGE XR 1000mg and 1500mg once daily arms, respectively.
+Mean baseline body weight was 210 lbs, 203 lbs and 193 lbs in the GLUCOPHAGE 500 mg twice daily, and GLUCOPHAGE XR 1000 mg and 1500 mg once daily arms, respectively.
 Mean change in body weight from baseline to week 24 was 0.9 lbs, 1.1 lbs and 0.9 lbs, respectively.

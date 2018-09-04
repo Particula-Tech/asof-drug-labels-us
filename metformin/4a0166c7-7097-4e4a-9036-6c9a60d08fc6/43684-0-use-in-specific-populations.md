@@ -61,5 +61,4 @@ GLUCOPHAGE/GLUCOPHAGE XR is contraindicated in severe renal impairment, patients
 ## 8.7 Hepatic Impairment
 
 Use of metformin in patients with hepatic impairment has been associated with some cases of lactic acidosis.
-GLUCOPHAGE/GLUCOPHAGE XR is not recommended in patients with hepatic impairment.
-[see Warnings and Precautions (5.1)].
+GLUCOPHAGE/GLUCOPHAGE XR is not recommended in patients with hepatic impairment [see Warnings and Precautions (5.1)].

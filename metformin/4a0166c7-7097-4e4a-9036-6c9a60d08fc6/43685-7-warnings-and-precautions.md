@@ -16,7 +16,7 @@ For each of the known and possible risk factors for metformin-associated lactic 
 - Renal impairment—The postmarketing metformin-associated lactic acidosis cases primarily occurred in patients with significant renal impairment.
 
 The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney.
-Clinical recommendations based upon the patient’s renal function include [see Dosage and Administration (2.1), Clinical Pharmacology (12.3)]
+Clinical recommendations based upon the patient’s renal function include [see Dosage and Administration (2.1) andClinical Pharmacology (12.3)]
 
 - Before initiating GLUCOPHAGE/GLUCOPHAGE XR, obtain an estimated glomerular filtration rate (eGFR).
 - GLUCOPHAGE/GLUCOPHAGE XR is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 [see Contraindications (4)]
