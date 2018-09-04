@@ -22,27 +22,27 @@ What is the most important information I should know about the Epinephrine Injec
    Anaphylaxis can be life threatening, can happen within minutes, and can be caused by stinging and biting insects, allergy injections, foods, medicines, exercise, or unknown causes.
    Symptoms of anaphylaxis may include:
    1. 1.trouble breathing
-   2. 2.wheezing
-   3. 3.hoarseness (changes in the way your voice sounds)
-   4. 4.hives (raised reddened rash that may itch)
-   5. 5.severe itching
-   6. 6.swelling of your face, lips, mouth, or tongue
-   7. 7.skin rash, redness, or swelling
-   8. 8.fast heartbeat
-   9. 9.weak pulse
-   10. 10.feeling very anxious
-   11. 11.confusion
-   12. 12.stomach pain
-   13. 13.losing control of urine or bowel movements (incontinence)
-   14. 14.diarrhea or stomach cramps
-   15. 15.dizziness, fainting, or “passing out” (unconsciousness)
+   2. •wheezing
+   3. •hoarseness (changes in the way your voice sounds)
+   4. •hives (raised reddened rash that may itch)
+   5. •severe itching
+   6. •swelling of your face, lips, mouth, or tongue
+   7. •skin rash, redness, or swelling
+   8. •fast heartbeat
+   9. •weak pulse
+   10. •feeling very anxious
+   11. •confusion
+   12. •stomach pain
+   13. •losing control of urine or bowel movements (incontinence)
+   14. •diarrhea or stomach cramps
+   15. •dizziness, fainting, or “passing out” (unconsciousness)
 2. 2.Always carry your epinephrine injection, USP auto-injector with you because you may not know when anaphylaxis may happen.
    Talk to your healthcare provider if you need additional units to keep at work, school, or other locations.
    Tell your family members, caregivers, and others where you keep your epinephrine injection, USP auto-injector and how to use it before you need it.
    You may be unable to speak in an allergic emergency.
 3. 3.When you have an allergic emergency (anaphylaxis)
-   1. 16.Use epinephrine injection, USP auto-injector right away.
-   2. 17.Get emergency medical help right away.
+   1. •Use epinephrine injection, USP auto-injector right away.
+   2. •Get emergency medical help right away.
       You may need further medical attention.
       You may need to use a second epinephrine injection, USP auto-injector if symptoms continue or recur.
       Only a healthcare provider should give additional doses of epinephrine if you need more than 2 injections for a single anaphylaxis episode.
