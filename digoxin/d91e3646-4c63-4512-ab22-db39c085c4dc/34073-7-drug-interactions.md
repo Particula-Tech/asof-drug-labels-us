@@ -34,6 +34,7 @@ Therefore, drugs that induce/inhibit P-glycoprotein have the potential to alter 
 | Conivaptan | 33% | 43% |  |
 | Diltiazem | 20% | NA |  |
 | Indomethacin | 40% | NA |  |
+| Mirabegron | 29% | 27% |  |
 | Nefazodone | 27% | 15% |  |
 | Nifedipine | 45% | NA |  |
 | Propantheline | 24% | 24% |  |
@@ -49,7 +50,8 @@ Therefore, drugs that induce/inhibit P-glycoprotein have the potential to alter 
 | Alprazolam, azithromycin, cyclosporine, diclofenac, diphenoxylate, epoprostenol, esomeprazole, ibuprofen, ketoconazole, lansoprazole, metformin, omeprazole |  |  | Measure serum digoxin concentrations before initiating concomitant drugs. Continue monitoring and reduce digoxin dose as necessary. |
 | Digoxin concentrations decreased |  |  |  |
 | Acarbose, activated charcoal, albuterol, antacids, certain cancer chemotherapy or radiation therapy, cholestyramine, colestipol, extenatide, kaolin-pectin, meals high in bran, metoclopramide, miglitol, neomycin, penicillamine, phenytoin, rifampin, St. John’s Wort, sucralfate, sulfasalazine |  |  | Measure serum digoxin concentrations before initiating concomitant drugs. Continue monitoring and increase digoxin dose by approximately 20-40% as necessary. |
-| NA – Not available/reported |  |  |  |
+
+NA – Not available/reported
 
 ## 7.3 Potentially Significant Pharmacodynamic Drug Interactions
 
