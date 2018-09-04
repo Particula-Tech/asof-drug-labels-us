@@ -20,4 +20,3 @@ Administration Instructions Patients should be counseled to take zolpidem tartra
 Zolpidem tartrate tablets should not be taken with or immediately after a meal.
 Advise patients NOT to take zolpidem tartrate if they drank alcohol that evening.
 Medication Guides available at www.northstarrxllc.com/products or call 1-800-206-7821.
-Revised: 06/2017

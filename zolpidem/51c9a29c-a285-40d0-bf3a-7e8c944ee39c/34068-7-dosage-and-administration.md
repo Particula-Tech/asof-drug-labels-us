@@ -14,7 +14,8 @@ The recommended initial doses for women and men are different because zolpidem c
 ## 2.2 Special Populations
 
 Elderly or debilitated patients may be especially sensitive to the effects of zolpidem tartrate.
-The recommended dose of zolpidem tartrate in these patients is 5 mg once daily immediately before bedtime [see Warnings and Precautions (5.1), Use in Specific Populations (8.5)].
+The recommended dose of zolpidem tartrate in these patients is 5 mg once daily immediately before bedtime [see Warnings and Precautions (5.1), Use in Specific Populations (8.5)]
+
 Patients with mild to moderate hepatic impairment do not clear the drug as rapidly as normal subjects.
 The recommended dose of zolpidem tartrate in these patients is 5 mg once daily immediately before bedtime.
 Avoid zolpidem tartrate use in patients with severe hepatic impairment as it may contribute to encephalopathy [see Warnings and Precautions (5.7), Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
