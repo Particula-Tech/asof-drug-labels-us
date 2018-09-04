@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA209135"
+  ],
+  "inn": "neostigmine",
+  "labeler": "Dr.Reddy's Laboratories Inc",
+  "package_ndcs": [
+    "43598-528-11",
+    "43598-528-36",
+    "43598-529-11",
+    "43598-529-36"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "neostigmine",
+      "name": "Neostigmine"
+    }
+  ],
+  "setid": "81243f47-bd25-bd02-518a-087badcca755",
+  "source": "dailymed"
+}
