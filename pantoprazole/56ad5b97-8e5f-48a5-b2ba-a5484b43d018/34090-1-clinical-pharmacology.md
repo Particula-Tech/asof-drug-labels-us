@@ -171,7 +171,7 @@ The clinical significance of this finding is not clear.
 
 ##### Mycophenolate Mofetil (MMF)
 
-Administration of pantoprazole 40 mg twice daily for 4 days and a single 1000 mg dose of MMF approximately 1 hour after the last dose of pantoprazole to 12 healthy subjects in a crossover study resulted in a 57% reduction in the Cmax and 27% reduction in the AUC of MPA.
+Administration of pantoprazole 40 mg twice daily for 4 days and a single 1000 mg dose of MMF approximately 1 hour after the last dose of pantoprazole to 12 healthy subjects in a cross-over study resulted in a 57% reduction in the Cmax and 27% reduction in the AUC of MPA.
 Transplant patients receiving approximately 2000 mg per day of MMF (n = 12) were compared to transplant patients receiving approximately the same dose of MMF and pantoprazole 40 mg per day (n = 21).
 There was a 78% reduction in the Cmax and a 45% reduction in the AUC of MPA in patients receiving both pantoprazole and MMF [see Drug Interactions (7)].
 

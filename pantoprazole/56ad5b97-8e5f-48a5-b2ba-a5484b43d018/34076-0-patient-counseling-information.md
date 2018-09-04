@@ -16,7 +16,7 @@ Cyanocobalamin (Vitamin B-12) Deficiency: Advise patients to report any clinical
 
 Hypomagnesemia: Advise patients to report any clinical symptoms that may be associated with hypomagnesemia to their healthcare provider, if they have been receiving pantoprazole sodium delayed-release tablets for at least 3 months [see Warnings and Precautions (5.7)].
 
-Drug Interactions: Instruct patients to inform their healthcare provider of any other medications they are currently taking, including rilpivirine-containing products [see Contraindications (4)], digoxin [see Warnings and Precautions (5.7)] and high dose methotrexate [see Warnings and Precautions (5.11)].
+Drug Interactions: Instruct patients to inform their healthcare provider of any other medications they are currently taking, including rilpivirine-containing products [see Contraindications (4)], digoxin [see Warnings and Precautions (5.7)] and high dose methotrexate [see Warnings and Precautions (5.12)].
 
 Pregnancy: Inform female patients of reproductive potential that pantoprazole sodium delayed-release tablets may cause fetal harm and to inform their prescriber of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
 

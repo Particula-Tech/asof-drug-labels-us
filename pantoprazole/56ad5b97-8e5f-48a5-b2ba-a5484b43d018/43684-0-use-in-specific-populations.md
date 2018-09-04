@@ -29,7 +29,7 @@ Pantoprazole and its metabolites are excreted in the milk of rats.
 Pantoprazole excretion in human milk has been detected in a study of a single nursing mother after a single 40 mg oral dose of pantoprazole sodium.
 The clinical relevance of this finding is not known.
 Many drugs which are excreted in human milk have a potential for serious adverse reactions in nursing infants.
-Based on the potential for tumorigenicity shown for pantoprazole in rodent carcinogenicity studies, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the benefit of the drug to the mother.
+Based on the potential for tumorigenicity shown for pantoprazole sodium in rodent carcinogenicity studies, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the benefit of the drug to the mother.
 
 ## 8.4 Pediatric Use
 
@@ -80,7 +80,7 @@ Because pantoprazole was not shown to be effective in the randomized, placebo-co
 
 ### Animal Toxicity Data
 
-In a pre- and postnatal development study in rats, the pups were administered oral doses of pantoprazole at 5, 15, and 30 mg/kg/day (approximately 1, 2.3, and 3.2 times the exposure (AUC) in children aged 6 to 11 years at a dose of 40 mg) on postnatal day (PND 4) through PND 21, in addition to lactational exposure through milk.
+In a pre- and post-natal development study in rats, the pups were administered oral doses of pantoprazole at 5, 15, and 30 mg/kg/day (approximately 1, 2.3, and 3.2 times the exposure (AUC) in children aged 6 to 11 years at a dose of 40 mg) on postnatal day (PND 4) through PND 21, in addition to lactational exposure through milk.
 On PND 21, decreased mean femur length and weight and changes in femur bone mass and geometry were observed in the offspring at 5 mg/kg/day (approximately equal exposures (AUC) in children aged 6 to 11 years at the 40 mg dose) and higher doses.
 Changes in bone parameters were partially reversible following a recovery period.
 
