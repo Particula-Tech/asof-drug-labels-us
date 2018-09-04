@@ -99,9 +99,9 @@ Geriatric patients treated with androgens may be at an increased risk of develop
 
 ### Teratogenic Effects
 
-#### Pregnancy Category X
-
-(See CONTRAINDICATIONS.)
+The use of testosterone in women who are pregnant is contraindicated.
+Testosterone is teratogenic and may cause fetal harm.
+Testosterone is known to cause virilization of the female fetus when administrated to pregnant women.
 
 Benzyl alcohol can cross the placenta.
 See WARNINGS.
