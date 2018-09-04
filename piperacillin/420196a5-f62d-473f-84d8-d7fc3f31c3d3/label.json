@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA204959"
+  ],
+  "inn": "piperacillin",
+  "labeler": "Qilu Tianhe Pharmaceutical Co., Ltd.",
+  "package_ndcs": [
+    "35369-0501-1",
+    "35369-0501-2",
+    "35369-0502-1",
+    "35369-0502-2",
+    "35369-0503-1",
+    "35369-0503-2"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "piperacillin and tazobactam",
+      "name": "Piperacillin and Tazobactam"
+    }
+  ],
+  "setid": "420196a5-f62d-473f-84d8-d7fc3f31c3d3",
+  "source": "dailymed"
+}
