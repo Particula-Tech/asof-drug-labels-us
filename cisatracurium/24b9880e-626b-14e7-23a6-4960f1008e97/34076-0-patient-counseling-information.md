@@ -15,4 +15,4 @@ North Chicago, IL 60064 USA
 
 Nimbex® is a registered trademark of GlaxoSmithKline, licensed for use by AbbVie Inc.
 
-EN10017 August, 2018
+EN10062 August, 2018
