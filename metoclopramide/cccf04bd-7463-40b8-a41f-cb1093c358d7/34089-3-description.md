@@ -3,6 +3,9 @@
 Metoclopramide hydrochloride, USP is a white crystalline, odorless substance, freely soluble in water.
 Chemically, it is 4-amino-5-chloro-N-[2-(diethylamino)ethyl]-2-methoxy benzamide monohydrochloride monohydrate and has the following structural formula:
 
+C14H22ClN3O2•HCl•H2O M.W.
+354.3
+
 Metoclopramide injection USP is a clear, colorless, sterile solution with a pH of 2.5-6.5 for intravenous (IV) or intramuscular (IM) administration.
 
 This product is light sensitive.
