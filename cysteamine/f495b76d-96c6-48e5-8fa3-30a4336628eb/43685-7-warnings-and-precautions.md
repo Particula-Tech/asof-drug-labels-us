@@ -13,7 +13,7 @@ Patients should not engage in hazardous activities until the effects of CYSTAGON
 Gastrointestinal ulceration and bleeding have been reported in patients receiving cysteamine bitartrate.
 Physicians should remain alert for signs of ulceration and bleeding and should inform patients and/or guardians about the signs and symptoms of serious G.I. toxicity and what steps to take if they occur.
 
-Post marketing reports include one report of interstitial nephritis with early renal failure.
+Post-marketing reports include one report of interstitial nephritis with early renal failure.
 A causal relationship between this event and cysteamine bitartrate therapy has not been established.
 
 # PRECAUTIONS
@@ -71,10 +71,6 @@ Cysteamine was found to have no effect on fertility and reproductive performance
 At an oral dose of 375 mg/kg/day (2,250 mg/m2/day, 1.7 times the recommended human dose based on body surface area), it reduced the fertility of the adult rats and the survival of their offspring.
 
 ## Pregnancy
-
-### Teratogenic Effects
-
-#### Pregnancy Category C
 
 Teratology studies have been performed in rats at oral doses in a range of 37.5 to 150 mg/kg/day (about 0.2 to 0.7 times the recommended human maintenance dose on a body surface basis) and have revealed cysteamine bitartrate to be teratogenic and fetotoxic.
 Observed teratogenic findings were cleft palate, Kyphosis, heart ventricular septal defects, microcephaly and exencephaly.

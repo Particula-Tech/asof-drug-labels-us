@@ -25,14 +25,14 @@ The recommended maintenance dose of 1.30 grams/m2/day can be approximated by adm
 
 | Weight in Pounds | mg of Cysteamine Free Base Every 6 Hours |
 | --- | --- |
-| 0–10 | 100 |
-| 11–20 | 150 |
-| 21–30 | 200 |
-| 31–40 | 250 |
-| 41–50 | 300 |
-| 51–70 | 350 |
-| 71–90 | 400 |
-| 91–110 | 450 |
+| 0 - 10 | 100 |
+| 11 - 20 | 150 |
+| 21 - 30 | 200 |
+| 31 - 40 | 250 |
+| 41 - 50 | 300 |
+| 51 - 70 | 350 |
+| 71 - 90 | 400 |
+| 91 - 110 | 450 |
 | > 110 | 500 |
 
 Patients over age 12 and over 110 pounds should receive 2.0 grams/day given in four divided doses as a starting maintenance dose.

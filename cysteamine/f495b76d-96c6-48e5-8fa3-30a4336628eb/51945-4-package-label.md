@@ -1,12 +1,12 @@
-PRINCIPAL DISPLAY PANEL - 50 mg
+# PRINCIPAL DISPLAY PANEL - 50 mg
 
-NDC 0378-9040-01
+NDC 0378-9040-05
 
 CYSTAGON® (cysteamine bitartrate) Capsules 50 mg*
 
 PHARMACIST: Dispense the accompanying Patient and Parent Information Leaflet to each patient.
 
-Rx only 100 Capsules
+Rx only 500 Capsules
 
 *Each capsule contains cysteamine bitartrate equivalent to 50 mg of cysteamine.
 
@@ -23,21 +23,23 @@ Protect from light and moisture.
 
 Usual Dosage: See accompanying prescribing information.
 
+This container is not intended for dispensing for household use.
+
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RM9040A5
+RM9040B5
 
-PRINCIPAL DISPLAY PANEL - 150 mg
+# PRINCIPAL DISPLAY PANEL - 150 mg
 
-NDC 0378-9045-01
+NDC 0378-9045-05
 
 CYSTAGON® (cysteamine bitartrate) Capsules 150 mg*
 
 PHARMACIST: Dispense the accompanying Patient and Parent Information Leaflet to each patient.
 
-Rx only 100 Capsules
+Rx only 500 Capsules
 
 *Each capsule contains cysteamine bitartrate equivalent to 150 mg of cysteamine.
 
@@ -54,8 +56,10 @@ Protect from light and moisture.
 
 Usual Dosage: See accompanying prescribing information.
 
+This container is not intended for dispensing for household use.
+
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RM9045A5
+RM9045B6

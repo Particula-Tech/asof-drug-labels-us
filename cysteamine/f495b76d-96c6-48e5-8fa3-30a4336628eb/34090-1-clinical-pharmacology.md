@@ -67,7 +67,7 @@ TABLE 1: CREATININE CLEARANCE CHANGES BY WHITE CELL CYSTINE DEPLETION
 | Good DepletionMedian leukocyte cystine levels were less than 1 nmol/½ cystine/mg protein and received cysteamine for at least 1 year. (n = 19) | 3.3 ± 2.2 | 7.2 ± 0.7 | 44.3 ± 15.0 | 50.5 ± 5.1 |
 | (95% confidence limits on difference between final creatinine clearances, 6.1 and 35.5 ml/min/1.73m2, despite older mean age of good depletion group.) |  |  |  |  |
 
-The Long Term Study, initiated in 1988, utilized both cysteamine HCl and phosphocysteamine (patient's choice) in 46 patients who had completed the NCCS (averaging 6.5 years of treatment) and 93 new patients.
+The Long Term Study, initiated in 1988, utilized both cysteamine HCl and phosphocysteamine (patient’s choice) in 46 patients who had completed the NCCS (averaging 6.5 years of treatment) and 93 new patients.
 Patients had cystinosis diagnosed by elevated white cell cystine (mean 3.63 nmol/½ cystine/mg).
 New patients and 46 continuing patients were required to have serum creatinine less than 3.0 mg/dL and 4.0 mg/dL, respectively.
 Patients were randomized to doses of 1.3 or 1.95 g/m2/day and stratified according to whether the serum creatinine was above 1.2 mg/dL or not.
