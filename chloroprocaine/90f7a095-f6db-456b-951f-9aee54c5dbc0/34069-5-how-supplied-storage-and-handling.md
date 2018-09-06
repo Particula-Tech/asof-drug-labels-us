@@ -8,7 +8,7 @@ The CLOROTEKAL® is supplied as a 50mg/5mL (10 mg/mL) equivalent to 44.05 mg/5 m
 
 The product is intended for intrathecal administration.
 
-Solution which are discolored or which contain particulate matter should not be administered.
+Solutions which are discolored or which contain particulate matter should not be administered.
 
 Handling
 
@@ -23,4 +23,4 @@ Handling
 
 Storage
 
-Store at 20°C to 25°C (68°C to 77°F); excursions permitted between 15°C to 30°C (59°F to 86°F).
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C to 30°C (59°F to 86°F).

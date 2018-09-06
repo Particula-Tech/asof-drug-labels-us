@@ -46,7 +46,7 @@ Rx Only 10 Single Dose Ampules x 5 mL Discard Unused Portion
 LOT EXP
 
 Do not refrigerate or freeze.
-Store at 20°C to 25°C (68°C to 77°F) [See USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F) [See USP Controlled Room Temperature].
 Retain in carton until time of use.
 Protect from light.
 Read the package Insert Labeling before use.
