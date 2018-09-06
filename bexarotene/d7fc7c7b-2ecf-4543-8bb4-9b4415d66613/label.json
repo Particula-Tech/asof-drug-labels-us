@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA210105"
+  ],
+  "inn": "bexarotene",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "69238-1250-1"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "bexarotene",
+      "name": "Bexarotene"
+    }
+  ],
+  "setid": "d7fc7c7b-2ecf-4543-8bb4-9b4415d66613",
+  "source": "dailymed"
+}
