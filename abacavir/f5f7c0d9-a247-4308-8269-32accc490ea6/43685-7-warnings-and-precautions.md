@@ -37,7 +37,9 @@ Myopathy and myositis, with pathological changes similar to that produced by HIV
 
 ## 5.4 Lactic Acidosis and Severe Hepatomegaly with Steatosis
 
-Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues and other antiretrovirals.
+Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues, including abacavir, lamivudine and zidovudine (components of abacavir, lamivudine and zidovudine tablets).
+A majority of these cases have been in women.
+Female sex and obesity may be risk factors for the development of lactic acidosis and severe hepatomegaly with steatosis in patients treated with antiretroviral nucleoside analogues.
 See full prescribing information for ZIAGEN® (abacavir), EPIVIR® (lamivudine), and RETROVIR® (zidovudine).
 Treatment with abacavir, lamivudine and zidovudine tablets should be suspended in any patient who develops clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity (which may include hepatomegaly and steatosis even in the absence of marked transaminase elevations).
 
@@ -72,17 +74,19 @@ During the initial phase of combination antiretroviral treatment, patients whose
 
 Autoimmune disorders (such as Graves' disease, polymyositis, and Guillain-BarrÉ syndrome) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable, and can occur many months after initiation of treatment.
 
-## 5.8 Fat Redistribution
+## 5.8 Lipoatrophy
 
-Redistribution/accumulation of body fat including central obesity, dorsocervical fat enlargement (buffalo hump), peripheral wasting, facial wasting, breast enlargement, and "cushingoid appearance" have been observed in patients receiving antiretroviral therapy.
-The mechanism and long-term consequences of these events are currently unknown.
-A causal relationship has not been established.
+Treatment with zidovudine, a component of abacavir, lamivudine and zidovudine tablets, has been associated with loss of subcutaneous fat.
+The incidence and severity of lipoatrophy are related to cumulative exposure.
+This fat loss, which is most evident in the face, limbs, and buttocks, may be only partially reversible and improvement may take months to years after switching to a non-zidovudine containing regimen.
+Patients should be regularly assessed for signs of lipoatrophy during therapy with zidovudine-containing products, and if feasible, therapy should be switched to an alternative regimen if there is suspicion of lipoatrophy.
 
 ## 5.9 Myocardial Infarction
 
-In a published prospective, observational, epidemiological trial designed to investigate the rate of myocardial infarction (MI) in patients on combination antiretroviral therapy, the use of abacavir within the previous 6 months was correlated with an increased risk of MI.
-In a sponsor-conducted pooled analysis of clinical trials, no excess risk of MI was observed in abacavir-treated subjects as compared with control subjects.
-In totality, the available data from the observational cohort and from clinical trials are inconclusive.
+Several prospective, observational, epidemiological studies have reported an association with the use of abacavir and the risk of myocardial infarction (MI).
+Meta-analyses of randomized, controlled clinical trials have observed no excess risk of MI in abacavir-treated subjects as compared with control subjects.
+To date, there is no established biological mechanism to explain a potential increase in risk.
+In totality, the available data from the observational studies and from controlled clinical trials show inconsistency; therefore, evidence for a causal relationship between abacavir treatment and the risk of MI is inconclusive.
 
 As a precaution, the underlying risk of coronary heart disease should be considered when prescribing antiretroviral therapies, including abacavir, and action taken to minimize all modifiable risk factors (e.g., hypertension, hyperlipidemia, diabetes mellitus, smoking).
 

@@ -7,7 +7,14 @@ Methadone
 In a trial of 11 HIV-1-infected subjects receiving methadone-maintenance therapy with 600 mg of ZIAGEN® twice daily (twice the currently recommended dose), oral methadone clearance increased [see CLINICAL PHARMACOLOGY (12.3)].
 This alteration will not result in a methadone dose modification in the majority of patients; however, an increased methadone dose may be required in a small number of patients.
 
-## 7.2 Zidovudine
+## 7.2 Lamivudine
+
+Sorbitol
+
+Coadministration of single doses of lamivudine and sorbitol resulted in a sorbitol dose-dependent reduction in lamivudine exposures.
+When possible, avoid use of sorbitol-containing medicines with lamivudine-containing medicines [see CLINICAL PHARMACOLOGY (12.3)].
+
+## 7.3 Zidovudine
 
 Agents Antagonistic with Zidovudine
 

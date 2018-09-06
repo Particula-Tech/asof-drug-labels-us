@@ -22,7 +22,7 @@ Prolonged use of zidovudine has been associated with symptomatic myopathy [see W
 
 Lactic Acidosis and Severe Hepatomegaly with Steatosis
 
-Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues and other antiretrovirals.
+Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues, including abacavir, lamivudine, and zidovudine (components of abacavir, lamivudine and zidovudine tablets).
 Discontinue abacavir, lamivudine and zidovudine tablets if clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity occur [see WARNINGS AND PRECAUTIONS (5.4)].
 
 Exacerbations of Hepatitis B

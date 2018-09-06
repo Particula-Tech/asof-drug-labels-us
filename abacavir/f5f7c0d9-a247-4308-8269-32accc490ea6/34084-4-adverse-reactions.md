@@ -10,7 +10,7 @@ The following adverse reactions are discussed in other sections of the labeling:
 - Hepatic decompensation in patients co-infected with HIV-1 and hepatitis C [see WARNINGS AND PRECAUTIONS (5.6)].
 - Exacerbation of anemia in HIV-1/HCV co-infected patients receiving ribavirin and zidovudine [see WARNINGS AND PRECAUTIONS (5.6)].
 - Immune reconstitution syndrome [see WARNINGS AND PRECAUTIONS (5.7)].
-- Fat redistribution [see WARNINGS AND PRECAUTIONS (5.8)].
+- Lipoatrophy [see WARNINGS AND PRECAUTIONS (5.8)].
 - Myocardial infarction [see WARNINGS AND PRECAUTIONS (5.9)].
 
 ## 6.1 Clinical Trials Experience
@@ -101,7 +101,7 @@ Abacavir, Lamivudine, and/or Zidovudine
 
 Body as a Whole:
 
-Redistribution/accumulation of body fat [see WARNINGS AND PRECAUTIONS (5.8)].
+Redistribution/accumulation of body fat.
 
 Cardiovascular:
 

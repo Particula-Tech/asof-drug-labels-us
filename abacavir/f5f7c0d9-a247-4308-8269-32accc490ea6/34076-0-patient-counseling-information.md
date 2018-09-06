@@ -41,15 +41,15 @@ Inform patients with HIV-1/HCV co-infection that hepatic decompensation (some fa
 
 Drug Interactions
 
-Advise patients that other medications may interact with abacavir, lamivudine and zidovudine tablets and certain medications, including ganciclovir, interferon alfa, and ribavirin, may exacerbate the toxicity of zidovudine, a component of abacavir, lamivudine and zidovudine tablets [see DRUG INTERACTIONS (7.2)].
+Advise patients that other medications may interact with abacavir, lamivudine and zidovudine tablets and certain medications, including ganciclovir, interferon alfa, and ribavirin, may exacerbate the toxicity of zidovudine, a component of abacavir, lamivudine and zidovudine tablets [see DRUG INTERACTIONS (7.3)].
 
 Immune Reconstitution Syndrome
 
 Advise patients to inform their healthcare provider immediately of any signs and symptoms of infection as inflammation from previous infection may occur soon after combination antiretroviral therapy, including when abacavir, lamivudine and zidovudine tablets are started [see WARNINGS AND PRECAUTIONS (5.7)].
 
-Redistribution/Accumulation of Body Fat
+Lipoatrophy
 
-Inform patients that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy and that the cause and long-term health effects of these conditions are not known at this time [see WARNINGS AND PRECAUTIONS (5.8)].
+Advise patients that loss of subcutaneous fat may occur in patients receiving abacavir, lamivudine and zidovudine tablets and that they will be regularly assessed during therapy [see WARNINGS AND PRECAUTIONS (5.8)].
 
 Pregnancy Registry
 
@@ -87,4 +87,4 @@ Pithampur (M.P.) - 454 775
 
 India
 
-Revised: July 2017 ID#:252303
+Revised: September 2018 ID#:256269

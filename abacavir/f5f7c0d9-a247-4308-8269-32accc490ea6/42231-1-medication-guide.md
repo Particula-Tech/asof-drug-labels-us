@@ -64,7 +64,7 @@ If your healthcare provider tells you that you can take abacavir, lamivudine and
   - nausea
   - pain, aching, or tenderness on the right side of your stomach area
 
-You may be more likely to get lactic acidosis or serious liver problems if you are female, very overweight (obese), or have been taking nucleoside analogue medicines for a long time.
+You may be more likely to get lactic acidosis or serious liver problems if you are female or very overweight (obese).
 
 - Worsening of hepatitis B virus in people who have HIV-1 infection.
   If you have HIV-1 and hepatitis B virus (HBV) infection, your HBV may get worse (flare-up) if you stop taking abacavir, lamivudine and zidovudine tablets.
@@ -87,8 +87,6 @@ HIV-1 is the virus that causes Acquired Immune Deficiency Syndrome (AIDS).
 Abacavir, lamivudine and zidovudine tablet contains 3 prescription medicines, abacavir (ZIAGEN®), lamivudine (EPIVIR®) and zidovudine (RETROVIR®).
 
 Abacavir, lamivudine and zidovudine tablets should not be used in children weighing less than 88 pounds (40 kg).
-
-Who should not take abacavir, lamivudine and zidovudine tablets?
 
 Do not take abacavir, lamivudine and zidovudine tablets if you:
 
@@ -150,10 +148,9 @@ What are the possible side effects of abacavir, lamivudine and zidovudine tablet
 - Changes in your immune system (Immune Reconstitution Syndrome) can happen when you start taking HIV-1 medicines.
   Your immune system may get stronger and begin to fight infections that have been hidden in your body for a long time.
   Tell your healthcare provider right away if you start having new symptoms after you start taking abacavir, lamivudine and zidovudine tablets.
-- Changes in body fat can happen in people who take HIV-1 medicines.
-  These changes may include an increased amount of fat in the upper back and neck ("buffalo hump"), breast, and around the middle of your body (trunk).
-  Loss of fat from the legs, arms, and face may also happen.
-  The exact cause and long-term health effects of these conditions are not known.
+- Loss of body fat can happen in people who take HIV-1 medicines that contain zidovudine.
+  This loss of fat may occur in the legs, arms, buttocks, and face.
+  The loss of fat may be permanent and long-term health effects are not known.
 - Heart attack (myocardial infarction).
   Some HIV-1 medicines including abacavir, lamivudine and zidovudine tablets may increase your risk of heart attack.
 
@@ -216,4 +213,4 @@ Pithampur (M.P.) - 454 775
 
 India
 
-Revised: July 2017 ID#: 252304
+Revised: September 2018 ID#: 256360

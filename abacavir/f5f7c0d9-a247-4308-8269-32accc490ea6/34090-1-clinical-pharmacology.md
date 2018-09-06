@@ -61,19 +61,19 @@ Administration of abacavir, lamivudine and zidovudine tablets with food did not 
 
 Specific Populations
 
-Renal Impairment:
+Patients with Renal Impairment:
 
 Abacavir, Lamivudine and Zidovudine Tablets
 
 The effect of renal impairment on the combination of abacavir, lamivudine, and zidovudine has not been evaluated (see the U.S. prescribing information for the individual abacavir, lamivudine, and zidovudine components).
 
-Hepatic Impairment:
+Patients with Hepatic Impairment:
 
 Abacavir, Lamivudine and Zidovudine Tablets
 
 The effect of hepatic impairment on the combination of abacavir, lamivudine, and zidovudine has not been evaluated (see the U.S. prescribing information for the individual abacavir, lamivudine, and zidovudine components).
 
-Pregnancy:
+Pregnant Women:
 
 Abacavir
 
@@ -99,11 +99,11 @@ Geriatric Patients:
 
 The pharmacokinetics of abacavir, lamivudine, and zidovudine have not been studied in subjects over 65 years of age.
 
-Gender:
+Male and Female Patients:
 
 There are no significant or clinically relevant gender differences in the pharmacokinetics of the individual components (abacavir, lamivudine, or zidovudine) based on the available information that was analyzed for each of the individual components.
 
-Race:
+Racial Groups:
 
 Abacavir and Lamivudine
 
@@ -113,22 +113,34 @@ Zidovudine
 
 The pharmacokinetics of zidovudine with respect to race have not been determined.
 
-Drug Interactions
+Drug Interaction Studies:
 
 The drug interaction trials described were conducted with abacavir, lamivudine or zidovudine as single entities; no drug interaction trials have been conducted using abacavir, lamivudine and zidovudine tablets.
 No clinically significant drug interactions are expected between abacavir, lamivudine, and zidovudine.
 
-Cytochrome P450 Enzymes:
+Effect of Abacavir and Lamivudine on the Pharmacokinetics of Other Agents:
 
-Abacavir, lamivudine, and zidovudine are not significantly metabolized by cytochrome P450 enzymes; therefore, it is unlikely that clinically significant drug interactions will occur with drugs metabolized through these pathways.
+Abacavir and lamivudine do not inhibit or induce CYP enzymes (such as CYP3A4, CYP2C9, or CYP2D6), therefore, it is unlikely that clinically significant drug interactions will occur with drugs metabolized through these pathways.
+Based on in vitro study results, abacavir and lamivudine at therapeutic drug exposures are not expected to affect the pharmacokinetics of drugs that are substrates of the following transporters: organic anion transporter polypeptide (OATP)1B1/3, breast cancer resistance protein (BCRP) or P-glycoprotein (P-gp), organic cation transporter (OCT)1, OCT2, OCT3 (lamivudine only), or multidrug and toxic extrusion protein (MATE)1 and MATE2-K.
+
+Effect of Other Agents on the Pharmacokinetics of Abacavir, Lamivudine, or Zidovudine:
+
+Abacavir, lamivudine, and zidovudine are not significantly metabolized by cytochrome P450 enzymes; therefore, CYP enzyme inhibitors or inducers are not expected to affect their concentrations.
+In vitro, abacavir is not a substrate of OATP1B1, OATP1B3, OCT1, OCT2, OAT1, MATE1, MATE2-K, multidrug resistance-associated protein (MRP)2 or MRP4; therefore, drugs that modulate these transporters are not expected to affect abacavir plasma concentrations.
+Abacavir is a substrate of BCRP and P-gp in vitro; however, considering its absolute bioavailability (83%), modulators of these transporters are unlikely to result in a clinically relevant impact on abacavir concentrations.
+
+Lamivudine is a substrate of MATE1, MATE2-K, and OCT2 in vitro.
+Trimethoprim (an inhibitor of these drug transporters) has been shown to increase lamivudine plasma concentrations.
+This interaction is not considered clinically significant as no dose adjustment of lamivudine is needed.
+
+Lamivudine is a substrate of P-gp and BCRP; however, considering its absolute bioavailability (87%), it is unlikely that these transporters play a significant role in the absorption of lamivudine.
+Therefore, coadministration of drugs that are inhibitors of these efflux transporters is unlikely to affect the disposition and elimination of lamivudine.
 
 Glucuronyl Transferase:
 
 Due to the common metabolic pathways of abacavir and zidovudine via glucuronyl transferase, 15 HIV-1-infected subjects were enrolled in a crossover trial evaluating single doses of abacavir (600 mg), lamivudine (150 mg), and zidovudine (300 mg) alone or in combination.
 Analysis showed no clinically relevant changes in the pharmacokinetics of abacavir with the addition of lamivudine or zidovudine or the combination of lamivudine and zidovudine.
 Lamivudine exposure (AUC decreased 15%) and zidovudine exposure (AUC increased 10%) did not show clinically relevant changes with concurrent abacavir.
-
-Other Interactions
 
 Ethanol:
 
@@ -148,6 +160,12 @@ Ribavirin:
 
 In vitro data indicate ribavirin reduces phosphorylation of lamivudine, stavudine, and zidovudine.
 However, no pharmacokinetic (e.g., plasma concentrations or intracellular triphosphorylated active metabolite concentrations) or pharmacodynamic (e.g., loss of HIV-1/HCV virologic suppression) interaction was observed when ribavirin and lamivudine (n = 18), stavudine (n = 10), or zidovudine (n = 6) were coadministered as part of a multi-drug regimen to HIV-1/HCV co-infected subjects [see WARNINGS AND PRECAUTIONS (5.6)].
+
+Sorbitol (Excipient):
+
+Lamivudine and sorbitol solutions were coadministered to 16 healthy adult subjects in an open-label, randomized-sequence, 4-period, crossover trial.
+Each subject received a single 300-mg dose of lamivudine oral solution alone or coadministered with a single dose of 3.2 grams, 10.2 grams, or 13.4 grams of sorbitol in solution.
+Coadministration of lamivudine with sorbitol resulted in dose-dependent decreases of 20%, 39%, and 44% in the AUC (0-24); 14%, 32%, and 36% in the AUC(∞); and 28%, 52%, and 55% in the Cmax; of lamivudine, respectively.
 
 The effects of other coadministered drugs on abacavir, lamivudine, or zidovudine are provided in Table 4.
 
