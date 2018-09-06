@@ -103,7 +103,7 @@ Vaccination
 
 Administration of live or live, attenuated vaccines is contraindicated in patients receiving immunosuppressive doses of corticosteroids.
 Killed or inactivated vaccines may be administered.
-However, the response to such vaccines can not be predicted.
+However, the response to such vaccines cannot be predicted.
 Immunization procedures may be undertaken in patients receiving corticosteroids as replacement therapy, e.g., for Addison’s disease.
 
 Viral infections
@@ -143,6 +143,8 @@ Kaposi’s sarcoma has been reported to occur in patients receiving corticostero
 Discontinuation of corticosteroids may result in clinical improvement.
 
 Cardio-renal
+
+Caution is required in patients with systemic sclerosis because an increased incidence of scleroderma renal crisis has been observed with corticosteroids, including methylprednisolone.
 
 As sodium retention with resultant edema and potassium loss may occur in patients receiving corticosteroids, these agents should be used with caution in patients with congestive heart failure, hypertension, or renal insufficiency.
 
