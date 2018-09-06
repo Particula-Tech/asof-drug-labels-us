@@ -12,7 +12,7 @@ Doses of 1 gram may also be administered as an intravenous bolus injection (5 mL
 Dosage should be reduced in patients with creatinine clearance of 50 mL/min or less.
 (See dosing table below.)
 
-When only serum creatinine is available, the following formula (Cockcroft and Gault equation)5 may be used to estimate creatinine clearance.
+When only serum creatinine is available, the following formula (Cockcroft and Gault equation) 5 may be used to estimate creatinine clearance.
 
 Males: Creatinine Clearance (mL/min) = Weight (kg) x (140 - age)__
 

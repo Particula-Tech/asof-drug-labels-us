@@ -13,9 +13,9 @@ The success rates in the clinically evaluable patients at the follow-up visit we
 
 The following table provides the results for the overall as well as subgroup comparisons in clinically evaluable population.
 
-| Success Ratea |  |  |
+| Success Rate a |  |  |
 | --- | --- | --- |
-| Population | Meropenem for injection (I.V.) nb/Nc (%) | Imipenem-cilastatin nb/Nc (%) |
+| Population | Meropenem for injection (I.V.) n b/N c (%) | Imipenem-cilastatin n b/N c (%) |
 | Total | 225/261 (86) | 238/287 (83) |
 | Diabetes mellitus | 83/97 (86) | 76/105 (72) |
 | No diabetes mellitus | 142/164 (87) | 162/182 (89) |
@@ -33,7 +33,7 @@ c N = number of patients in the clinically evaluable population or respective su
 The following clinical efficacy rates were obtained, per organism.
 The values represent the number of patients clinically cured/number of clinically evaluable patients at the post-treatment follow-up visit, with the percent cure in parentheses (Fully Evaluable analysis set).
 
-| MICROORGANISMSa | Meropenem for injection (I.V.) nb/Nc (%)d | Imipenem-cilastatin nb/Nc (%)d |
+| MICROORGANISMS a | Meropenem for injection (I.V.) n b/N c (%) d | Imipenem-cilastatin n b/N c (%) d |
 | --- | --- | --- |
 | Gram-positive aerobes |  |  |
 | Staphylococcus aureus, methicillin susceptible | 82/88 (93) | 84/100 (84) |
@@ -93,8 +93,8 @@ The values represent the number of patients clinically cured/number of clinicall
 | MICROORGANISMS | MEROPENEM FOR INJECTION (I.V.) | COMPARATOR |
 | --- | --- | --- |
 | S. pneumoniae | 17/24 (71) | 19/30 (63) |
-| H. influenzae (+)a | 8/10 (80) | 6/6 (100) |
-| H. influenzae (-/NT)b | 44/59 (75) | 44/60 (73) |
+| H. influenzae (+) a | 8/10 (80) | 6/6 (100) |
+| H. influenzae (-/NT) b | 44/59 (75) | 44/60 (73) |
 | N. meningitidis | 30/35 (86) | 35/39 (90) |
 | Total (including others) | 102/131 (78) | 108/140 (77) |
 

@@ -24,16 +24,16 @@ After a single intravenous dose of Meropenem for injection (I.V.), the highest m
 
 | Table 1. Meropenem Concentrations in Selected Tissues (Highest Concentrations Reported) |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Tissue | Intravenous Dose (gram) | Number of Samples | Mean [mcg/mL or mcg/(gram)]a | Range [mcg/mL or mcg/(gram)] |
+| Tissue | Intravenous Dose (gram) | Number of Samples | Mean [mcg/mL or mcg/(gram)] a | Range [mcg/mL or mcg/(gram)] |
 | Endometrium | 0.5 | 7 | 4.2 | 1.7 to 10.2 |
 | Myometrium | 0.5 | 15 | 3.8 | 0.4 to 8.1 |
 | Ovary | 0.5 | 8 | 2.8 | 0.8 to 4.8 |
 | Cervix | 0.5 | 2 | 7 | 5.4 to 8.5 |
 | Fallopian tube | 0.5 | 9 | 1.7 | 0.3 to 3.4 |
 | Skin | 0.5 | 22 | 3.3 | 0.5 to 12.6 |
-| Interstitial fluidb | 0.5 | 9 | 5.5 | 3.2 to 8.6 |
+| Interstitial fluid b | 0.5 | 9 | 5.5 | 3.2 to 8.6 |
 | Skin | 1 | 10 | 5.3 | 1.3 to 16.7 |
-| Interstitial fluidb | 1 | 5 | 26.3 | 20.9 to 37.4 |
+| Interstitial fluid b | 1 | 5 | 26.3 | 20.9 to 37.4 |
 | Colon | 1 | 2 | 2.6 | 2.5 to 2.7 |
 | Bile | 1 | 7 | 14.6 (3 hours) | 4 to 25.7 |
 | Gall bladder | 1 | 1 | - | 3.9 |
@@ -44,7 +44,7 @@ After a single intravenous dose of Meropenem for injection (I.V.), the highest m
 | Fascia | 1 | 9 | 8.8 | 1.5 to 20 |
 | Heart valves | 1 | 7 | 9.7 | 6.4 to 12.1 |
 | Myocardium | 1 | 10 | 15.5 | 5.2 to 25.5 |
-| CSF (inflamed) | 20 mg/kgc 40 mg/kgd | 8 5 | 1.1 (2 hours) 3.3 (3 hours) | 0.2 to 2.8 0.9 to 6.5 |
+| CSF (inflamed) | 20 mg/kg c 40 mg/kg d | 8 5 | 1.1 (2 hours) 3.3 (3 hours) | 0.2 to 2.8 0.9 to 6.5 |
 | CSF (uninflamed) | 1 | 4 | 0.2 (2 hours) | 0.1 to 0.3 |
 
 a at 1 hour unless otherwise noted
@@ -91,15 +91,15 @@ Pediatric Patients The pharmacokinetics of meropenem for injection I.V., in pedi
 The elimination half-life for meropenem was approximately 1.5 hours in pediatric patients of age 3 months to 2 years.
 The pharmacokinetics of meropenem in patients less than 3 months of age receiving combination antibacterial drug therapy are given below.
 
-Table 2 Meropenem Pharmacokinetic Parameters in Patients Less Than 3 Months of Age*
+Table 2 Meropenem Pharmacokinetic Parameters in Patients Less Than 3 Months of Age *
 
 |  | GA less than 32 weeks PNA less than 2 weeks (20 mg/kg every 12 hours) | GA less than 32 weeks PNA 2 weeks or older (20 mg/kg every 8 hours) | GA 32 weeks or older PNA less than 2 weeks (20 mg/kg every 8 hours) | GA 32 weeks or older PNA 2 weeks or older (30 mg/kg every 8 hours) | Overall |
 | --- | --- | --- | --- | --- | --- |
 | CL (L/h/kg) | 0.089 | 0.122 | 0.135 | 0.202 | 0.119 |
 | V (L/kg) | 0.489 | 0.467 | 0.463 | 0.451 | 0.468 |
-| AUC0-24 (mcg-h/mL) | 448 | 491 | 445 | 444 | 467 |
-| Cmax (mcg/mL) | 44.3 | 46.5 | 44.9 | 61 | 46.9 |
-| Cmin (mcg/mL) | 5.36 | 6.65 | 4.84 | 2.1 | 5.65 |
+| AUC 0-24 (mcg-h/mL) | 448 | 491 | 445 | 444 | 467 |
+| C max (mcg/mL) | 44.3 | 46.5 | 44.9 | 61 | 46.9 |
+| C min (mcg/mL) | 5.36 | 6.65 | 4.84 | 2.1 | 5.65 |
 | T1/2 (h) | 3.82 | 2.68 | 2.33 | 1.58 | 2.68 |
 | * Values are derived from a population pharmacokinetic analysis of sparse data |  |  |  |  |  |
 
@@ -116,7 +116,7 @@ Mechanism of Action
 The bactericidal activity of meropenem results from the inhibition of cell wall synthesis.
 Meropenem readily penetrates the cell wall of most Gram-positive and Gram-negative bacteria to reach penicillin-binding-protein (PBP) targets.
 Its strongest affinities are toward PBPs 2, 3 and 4 of Escherichia coli and Pseudomonas aeruginosa; and PBPs 1, 2 and 4 of Staphylococcus aureus.
-Bactericidal concentrations (defined as a 3 log10 reduction in cell counts within 12 hours to 24 hours) are typically 1-2 times the bacteriostatic concentrations of meropenem, with the exception of Listeria monocytogenes, against which lethal activity is not observed.
+Bactericidal concentrations (defined as a 3 log 10 reduction in cell counts within 12 hours to 24 hours) are typically 1-2 times the bacteriostatic concentrations of meropenem, with the exception of Listeria monocytogenes, against which lethal activity is not observed.
 
 Meropenem has significant stability to hydrolysis by β-lactamases, both penicillinases and cephalosporinases produced by Gram-positive and Gram-negative bacteria.
 
@@ -249,7 +249,7 @@ Dilution Techniques:
 Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
 The MICs should be determined using a standardized test method.
-Standardized procedures are based on a dilution method1,3 (broth or agar) or equivalent using standardized inoculum concentrations and standardized concentrations of meropenem powder.
+Standardized procedures are based on a dilution method 1,3 (broth or agar) or equivalent using standardized inoculum concentrations and standardized concentrations of meropenem powder.
 The MIC values should be interpreted according to the criteria provided in Table 3.
 
 Diffusion Techniques:
@@ -262,19 +262,20 @@ The disk diffusion interpretive criteria are provided in Table 3.
 
 Anaerobic Techniques:
 
-For anaerobic bacteria, the susceptibility to meropenem as MICs can be determined by a standardized test method.2,4 The MIC values obtained should be interpreted according to the criteria provided in Table 3.
+For anaerobic bacteria, the susceptibility to meropenem as MICs can be determined by a standardized test method.
+2,4 The MIC values obtained should be interpreted according to the criteria provided in Table 3.
 
 | Table 3. Susceptibility Interpretive Criteria for Meropenem |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion (zone diameters in mm) |  |  |
 | Pathogen | S | I | R | S | I | R |
 | Enterobacteriaceae | ≤ 1 | 2 | ≥ 4 | ≥ 23 | 20 to 22 | ≤ 19 |
-| Pseudomonas aeruginosaa | ≤ 2 | 4 | ≥ 8 | ≥ 19 | 16 to 18 | ≤ 15 |
-| Haemophilus influenzaeb | ≤ 0.5 | -- | -- | ≥ 20 | -- | -- |
-| Neisseria meningitidisb | ≤ 0.25 | -- | -- | ≥ 30 | -- | -- |
-| Streptococcus pneumoniaec,e | ≤ 0.25 | 0.5 | ≥ 1 | -- | -- | -- |
-| Streptococcus agalactiae and Streptococcus pyogenesb,d,e | ≤ 0.5 | -- | -- | -- | -- | -- |
-| Anaerobesf | ≤ 4 | 8 | ≥ 16 | -- | -- | -- |
+| Pseudomonas aeruginosa a | ≤ 2 | 4 | ≥ 8 | ≥ 19 | 16 to 18 | ≤ 15 |
+| Haemophilus influenzae b | ≤ 0.5 | -- | -- | ≥ 20 | -- | -- |
+| Neisseria meningitidis b | ≤ 0.25 | -- | -- | ≥ 30 | -- | -- |
+| Streptococcus pneumoniae c,e | ≤ 0.25 | 0.5 | ≥ 1 | -- | -- | -- |
+| Streptococcus agalactiae and Streptococcus pyogenes b,d,e | ≤ 0.5 | -- | -- | -- | -- | -- |
+| Anaerobes f | ≤ 4 | 8 | ≥ 16 | -- | -- | -- |
 
 S = Susceptible, I = Intermediate, R = Resistant
 
