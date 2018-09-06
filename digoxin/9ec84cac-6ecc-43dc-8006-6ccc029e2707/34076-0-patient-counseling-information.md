@@ -15,5 +15,5 @@ LANOXIN is registered trademark of GlaxoSmithKline.
 
 Manufactured for Covis Pharma Zug, 6300 Switzerland
 
-2017, Covis Pharma.
+2018, Covis Pharma.
 All rights reserved.

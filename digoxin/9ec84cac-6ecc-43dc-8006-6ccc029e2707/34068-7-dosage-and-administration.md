@@ -81,7 +81,7 @@ Recommended Maintenance Dose (in micrograms given once daily) of LANOXIN Injecti
 ## 2.4 Maintenance Dosing in Pediatric Patients Less Than 10 Years Old
 
 The starting maintenance dose for heart failure in pediatric patients less than 10 years old is based on lean body weight, renal function, age, and concomitant products [see Clinical Pharmacology (12.3)].
-The recommended starting maintenance doses for pediatric patients are given in.
+The recommended starting maintenance doses for pediatric patients are given in Table 4.
 These recommendations assume the presence of normal renal function.
 
 Table 4.

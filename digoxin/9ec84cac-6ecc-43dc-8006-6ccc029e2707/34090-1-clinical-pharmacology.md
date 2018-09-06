@@ -17,7 +17,7 @@ The cardiologic consequences of these direct and indirect effects are an increas
 
 ## 12.2 Pharmacodynamics
 
-The times to onset of pharmacologic effect and to peak effect of preparations of LANOXIN are shown in.
+The times to onset of pharmacologic effect and to peak effect of preparations of LANOXIN are shown in Table 7.
 
 Table 7.
 Times to Onset of Pharmacologic Effect and to Peak Effect of Preparations of LANOXIN

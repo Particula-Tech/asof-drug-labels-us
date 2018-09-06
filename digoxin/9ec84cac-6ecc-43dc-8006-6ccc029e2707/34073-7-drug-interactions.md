@@ -26,6 +26,7 @@ Table below provides available interaction data using digoxin IV formulation (NA
 | Quinine | NA | 34-38% |  |
 | Spironolactone | NA | 44% |  |
 | Verapamil | NA | 24% |  |
+| Mirabegron | 29% | 27% |  |
 
 ## 7.3 Potentially Significant Pharmacodynamic Drug Interactions
 
