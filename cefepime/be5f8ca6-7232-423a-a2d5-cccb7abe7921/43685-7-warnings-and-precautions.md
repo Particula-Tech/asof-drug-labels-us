@@ -43,7 +43,7 @@ Urinary Glucose
 The administration of cefepime may result in a false-positive reaction for glucose in the urine when using some methods (e.g.
 CLINITEST tablets) [see Drug Interactions (7.1)].
 
-Coombs' Test
+Coombs' Tests
 
 Positive direct Coombs’ tests have been reported during treatment with cefepime.
 In patients who develop hemolytic anemia, discontinue the drug and institute appropriate therapy.
