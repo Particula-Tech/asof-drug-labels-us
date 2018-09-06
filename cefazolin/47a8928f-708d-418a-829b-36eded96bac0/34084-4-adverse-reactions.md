@@ -2,8 +2,8 @@
 
 The following serious adverse reactions to cefazolin are described below and elsewhere in the labeling:
 
-- Hypersensitivity reactions [see Warnings and Precautions (5.1)]
-- Clostridium difficile-associated diarrhea [see Warnings and Precautions (5.3)]
+- Hypersensitivity reactions [seeWarnings and Precautions (5.1)]
+- Clostridium difficile-associated diarrhea [seeWarnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
 

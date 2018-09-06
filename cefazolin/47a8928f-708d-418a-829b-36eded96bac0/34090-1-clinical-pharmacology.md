@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Cefazolin is an antibacterial drug [see Microbiology (12.4)].
+Cefazolin is an antibacterial drug [seeMicrobiology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
@@ -75,20 +75,20 @@ Dilution Techniques
 
 Quantitative methods are used to determine minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standard test1, 2 (broth and/or agar).
+The MICs should be determined using a standard test 1, 2 (broth and/or agar).
 The MIC values obtained should be interpreted according to criteria as provided in Table 3.
 
 Diffusion Techniques
 
 Quantitative methods that require measurement of zone diameters provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
-The zone size should be interpreted using a standard test method2, 3.
+The zone size should be interpreted using a standard test method 2, 3.
 This procedure uses paper disks impregnated with 30 mcg cefazolin to test the susceptibility of microorganisms to cefazolin.
 The disk diffusion interpretive criteria are provided in Table 3.
 
-| Table 3: Susceptibility Test Interpretive Criteria for Cefazolina |  |  |  |  |  |  |
+| Table 3: Susceptibility Test Interpretive Criteria for Cefazolin a |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Pathogen | Minimum Inhibitory Concentration (mcg/mL) |  |  | Disk Diffusion Zone Diameter (mm)b |  |  |
+| Pathogen | Minimum Inhibitory Concentration (mcg/mL) |  |  | Disk Diffusion Zone Diameter (mm) b |  |  |
 | S | I | R | S | I | R |  |
 | Escherichia coli Proteus mirabilis | ≤ 1 | 2 | ≥ 4 | - | - | - |
 | Staphylococcus aureus | ≤ 8 | 16 | ≥ 32 | ≥ 18 | 15 to 17 | ≤ 14 |
@@ -112,13 +112,13 @@ A report of Resistant indicates that the antimicrobial is not likely to inhibit 
 
 Quality Control
 
-Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individual performing the test1, 2, 3.
+Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individual performing the test 1, 2, 3.
 Standard cefazolin powder should provide the following MIC values noted in Table 4.
 For the diffusion technique using the 30 mcg disk, the criteria in Table 4 should be achieved.
 
 | Table 4: Acceptable Quality Control Ranges for Cefazolin |  |  |
 | --- | --- | --- |
 | QC Isolate | Minimum Inhibitory Concentration mcg/mL | Disk Diffusion Zone Diameters (mm) |
-| E. coli ATCC® 25922 | 1 to 4 | 21 to 27 |
-| S. aureus ATCC® 29213 | 0.25 to 1 | ------------ |
-| S. aureus ATCC® 25923 | ------------- | 29 to 35 |
+| E. coli ATCC ® 25922 | 1 to 4 | 21 to 27 |
+| S. aureus ATCC ® 29213 | 0.25 to 1 | ------------ |
+| S. aureus ATCC ® 25923 | ------------- | 29 to 35 |

@@ -29,8 +29,8 @@ No overall differences in safety or effectiveness were observed between these su
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
 This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [see Dosage and Administration (2.3) and Warnings and Precautions (5.2)].
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [seeDosage and Administration (2.3) and Warnings and Precautions (5.2)].
 
 ## 8.6 Patients with Renal Impairment
 
-When Cefazolin for Injection is administered to patients with low urinary output because of impaired renal function (creatinine clearance less than 55 mL/min.), lower daily dosage is required [see Dosage and Administration (2.3) and Warnings and Precautions (5.2)].
+When Cefazolin for Injection is administered to patients with low urinary output because of impaired renal function (creatinine clearance less than 55 mL/min.), lower daily dosage is required [seeDosage and Administration (2.3) and Warnings and Precautions (5.2)].
