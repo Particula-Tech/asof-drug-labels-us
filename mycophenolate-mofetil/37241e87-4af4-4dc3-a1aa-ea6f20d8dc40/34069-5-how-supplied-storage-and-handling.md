@@ -1,59 +1,41 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## CellCept (mycophenolate mofetil capsules) 250 mg
+## 16.1 Handling and Disposal
 
-Blue-brown, two-piece hard gelatin capsules, printed in black with "CellCept 250" on the blue cap and "Roche" on the brown body.
-Supplied in the following presentations:
+Mycophenolate mofetil (MMF) has demonstrated teratogenic effects in humans [see Warnings and Precautions (5.1) and Use in Specific Populations (8.1)].
+CELLCEPT tablets should not be crushed and CELLCEPT capsules should not be opened or crushed.
+Wearing disposable gloves is recommended during reconstitution and when wiping the outer surface of the bottle/cap and the table after reconstitution.
+Avoid inhalation or direct contact with skin or mucous membranes of the powder contained in CELLCEPT capsules, CELLCEPT Oral Suspension (before or after constitution), or CELLCEPT Intravenous (during or after preparation) [see Dosage and Administration (2.6)].
+Follow applicable special handling and disposable procedures1.
 
-| NDC Number | Size |
+## 16.2 CELLCEPT (mycophenolate mofetil capsules) 250 mg
+
+| Capsules Blue-brown, two-piece hard gelatin capsules, printed in black with "CELLCEPT 250" on the blue cap and "Roche" on the brown body. |  |
 | --- | --- |
-| NDC 0004-0259-01 | Bottle of 100 |
-| NDC 0004-0259-05 | Package containing 12 bottles of 120 |
-| NDC 0004-0259-43 | Bottle of 500 |
+| Sizes |  |
+| Bottle of 100 | NDC 0004-0259-01 |
+| Bottle of 500 | NDC 0004-0259-43 |
+| Storage Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) |  |
 
-### Storage
+## 16.3 CELLCEPT (mycophenolate mofetil tablets) 500 mg
 
-Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
-
-## CellCept (mycophenolate mofetil tablets) 500 mg
-
-Lavender-colored, caplet-shaped, film-coated tablets printed in black with "CellCept 500" on one side and "Roche" on the other.
-Supplied in the following presentations:
-
-| NDC Number | Size |
+| Tablets Lavender-colored, caplet-shaped, film-coated tablets printed in black with "CELLCEPT 500" on one side and "Roche" on the other |  |
 | --- | --- |
-| NDC 0004-0260-01 | Bottle of 100 |
-| NDC 0004-0260-43 | Bottle of 500 |
+| Sizes |  |
+| Bottle of 100 | NDC 0004-0260-01 |
+| Bottle of 500 | NDC 0004-0260-43 |
+| Storage and Dispensing Information: Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F). Dispense in light-resistant containers, such as the manufacturer's original containers. |  |
 
-### Storage and Dispensing Information
+## 16.4 CELLCEPT Oral Suspension (mycophenolate mofetil for oral suspension)
 
-Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
-Dispense in light-resistant containers, such as the manufacturer's original containers.
-
-## CellCept Oral Suspension (mycophenolate mofetil for oral suspension)
-
-Supplied as a white to off-white powder blend for constitution to a white to off-white mixed-fruit flavor suspension.
-Supplied in the following presentation:
-
-| NDC Number | Size |
+| For suspension: white to off-white powder blend for constitution to a white to off-white mixed-fruit flavor suspension |  |
 | --- | --- |
-| NDC 0004-0261-29 | 225 mL bottle with bottle adapter and 2 oral dispensers |
+| 225 mL bottle with bottle adapter and 2 oral dispensers | NDC 0004-0261-29 |
+| Storage Store dry powder at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F). Store constituted suspension at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) for up to 60 days. Storage in a refrigerator at 2° to 8°C (36° to 46°F) is acceptable. Do not freeze. |  |
 
-### Storage
+## 16.5 CELLCEPT Intravenous (mycophenolate mofetil hydrochloride for injection)
 
-Store dry powder at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
-Store constituted suspension at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) for up to 60 days.
-Storage in a refrigerator at 2° to 8°C (36° to 46°F) is acceptable.
-Do not freeze.
-
-## CellCept Intravenous (mycophenolate mofetil hydrochloride for injection)
-
-Supplied in a 20 mL, sterile vial containing the equivalent of 500 mg mycophenolate mofetil as the hydrochloride salt in cartons of 4 vials:
-
-NDC Number
-
-NDC 0004-0298-09
-
-### Storage
-
-Store powder and reconstituted/infusion solutions at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
+| For injection: 500 mg mycophenolate mofetil as the hydrochloride salt in a 20 mL sterile vial cartons of 4 vials |  |
+| --- | --- |
+| Cartons of 4 vials | NDC 0004-0298-09 |
+| Storage Store powder and reconstituted infusion solution at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F). |  |

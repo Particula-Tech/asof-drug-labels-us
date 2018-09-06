@@ -1,12 +1,3 @@
-# HANDLING AND DISPOSAL
+Distributed by:
 
-Mycophenolate mofetil has demonstrated teratogenic effects in humans (see Pregnancy and WARNINGS: Embryofetal Toxicity).
-CellCept tablets should not be crushed and CellCept capsules should not be opened or crushed.
-Avoid inhalation or direct contact with skin or mucous membranes of the powder contained in CellCept capsules and CellCept Oral Suspension (before or after constitution).
-If such contact occurs, wash thoroughly with soap and water; rinse eyes with plain water.
-Should a spill occur, wipe up using paper towels wetted with water to remove spilled powder or suspension.
-Caution should be exercised in the handling and preparation of solutions of CellCept Intravenous.
-Avoid direct contact of the prepared solution of CellCept Intravenous with skin or mucous membranes.
-If such contact occurs, wash thoroughly with soap and water; rinse eyes with plain water.
-
-PI Revised: September 2013
+Genentech USA, Inc. A Member of the Roche Group 1 DNA Way South San Francisco, CA 94080-4990
