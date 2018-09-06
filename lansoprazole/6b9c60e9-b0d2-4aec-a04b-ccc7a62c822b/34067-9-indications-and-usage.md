@@ -41,7 +41,7 @@ Controlled studies did not extend beyond 12 weeks [see Clinical Studies (14.6)].
 
 ## 1.7 Treatment of Symptomatic Gastroesophageal Reflux Disease (GERD)
 
-Lansoprazole delayed-release capsules are indicated in adults and pediatric patients one year of age and older for the treatment of heartburn and other symptoms associated with GERD for up to eight weeks [see Clinical Studies (14.7)].
+Lansoprazole delayed-release capsules are indicated for short-term treatment in adults and pediatric patients 12 to 17 years of age (up to eight weeks) and pediatric patients one to 11 years of age (up to 12 weeks) for the treatment of heartburn and other symptoms associated with GERD [see Clinical Studies (14.7)].
 
 ## 1.8 Treatment of Erosive Esophagitis (EE)
 

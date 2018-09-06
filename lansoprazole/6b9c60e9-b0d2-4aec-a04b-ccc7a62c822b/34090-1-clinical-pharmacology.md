@@ -46,48 +46,36 @@ The percentage of time gastric pH was elevated above five and six was evaluated 
 The inhibition of gastric acid secretion as measured by intragastric pH gradually returned to normal over two to four days after multiple doses.
 There was no indication of rebound gastric acidity.
 
-Enterochromaffin-like (ECL) Cell Effects
-
-During lifetime exposure of rats with up to 150 mg/kg/day of lansoprazole dosed seven days per week, marked hypergastrinemia was observed followed by ECL cell proliferation and formation of carcinoid tumors, especially in female rats.
+Enterochromaffin-like (ECL) Cell Effects During lifetime exposure of rats with up to 150 mg/kg/day of lansoprazole dosed seven days per week, marked hypergastrinemia was observed followed by ECL cell proliferation and formation of carcinoid tumors, especially in female rats.
 Gastric biopsy specimens from the body of the stomach from approximately 150 patients treated continuously with lansoprazole for at least one year did not show evidence of ECL cell effects similar to those seen in rat studies.
 Longer term data are needed to rule out the possibility of an increased risk of the development of gastric tumors in patients receiving long-term therapy with lansoprazole [see Nonclinical Toxicology (13.1)].
 
-Other Gastric Effects in Humans
-
-Lansoprazole did not significantly affect mucosal blood flow in the fundus of the stomach.
+Other Gastric Effects in Humans Lansoprazole did not significantly affect mucosal blood flow in the fundus of the stomach.
 Due to the normal physiologic effect caused by the inhibition of gastric acid secretion, a decrease of about 17% in blood flow in the antrum, pylorus, and duodenal bulb was seen.
 Lansoprazole significantly slowed the gastric emptying of digestible solids.
 Lansoprazole increased serum pepsinogen levels and decreased pepsin activity under basal conditions and in response to meal stimulation or insulin injection.
 As with other agents that elevate intragastric pH, increases in gastric pH were associated with increases in nitrate-reducing bacteria and elevation of nitrite concentration in gastric juice in patients with gastric ulcer.
 No significant increase in nitrosamine concentrations was observed.
 
-Serum Gastrin Effects
-
-In over 2100 patients, median fasting serum gastrin levels increased 50 to 100% from baseline but remained within normal range after treatment with 15 to 60 mg of oral lansoprazole.
+Serum Gastrin Effects In over 2100 patients, median fasting serum gastrin levels increased 50 to 100% from baseline but remained within normal range after treatment with 15 to 60 mg of oral lansoprazole.
 These elevations reached a plateau within two months of therapy and returned to pre-treatment levels within four weeks after discontinuation of therapy.
 
 Increased gastrin causes enterochromaffin-like cell hyperplasia and increased serum CgA levels.
 The increased CgA levels may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions (5.8)].
 
-Endocrine Effects
-
-Human studies for up to one year have not detected any clinically significant effects on the endocrine system.
+Endocrine Effects Human studies for up to one year have not detected any clinically significant effects on the endocrine system.
 Hormones studied include testosterone, luteinizing hormone (LH), follicle stimulating hormone (FSH), sex hormone binding globulin (SHBG), dehydroepiandrosterone sulfate (DHEA-S), prolactin, cortisol, estradiol, insulin, aldosterone, parathormone, glucagon, thyroid stimulating hormone (TSH), triiodothyronine (T3), thyroxine (T4), and somatotropic hormone (STH).
 Lansoprazole in oral doses of 15 to 60 mg for up to one year had no clinically significant effect on sexual function.
 In addition, lansoprazole in oral doses of 15 to 60 mg for two to eight weeks had no clinically significant effect on thyroid function.
 In 24 month carcinogenicity studies in Sprague-Dawley rats with daily lansoprazole dosages up to 150 mg/kg, proliferative changes in the Leydig cells of the testes, including benign neoplasm, were increased compared to control rats.
 
-Other Effects
-
-No systemic effects of lansoprazole on the central nervous system, lymphoid, hematopoietic, renal, hepatic, cardiovascular, or respiratory systems have been found in humans.
+Other Effects No systemic effects of lansoprazole on the central nervous system, lymphoid, hematopoietic, renal, hepatic, cardiovascular, or respiratory systems have been found in humans.
 Among 56 patients who had extensive baseline eye evaluations, no visual toxicity was observed after lansoprazole treatment (up to 180 mg/day) for up to 58 months.
 After lifetime lansoprazole exposure in rats, focal pancreatic atrophy, diffuse lymphoid hyperplasia in the thymus, and spontaneous retinal atrophy were seen.
 
 ## 12.3 Pharmacokinetics
 
-Absorption:
-
-Lansoprazole contain an enteric-coated granule formulation of lansoprazole (because lansoprazole is acid-labile), so that absorption of lansoprazole begins only after the granules leave the stomach.
+Absorption: Lansoprazole contain an enteric-coated granule formulation of lansoprazole (because lansoprazole is acid-labile), so that absorption of lansoprazole begins only after the granules leave the stomach.
 The mean peak plasma levels of lansoprazole occur at approximately 1.7 hours.
 After a single-dose administration of 15 to 60 mg of oral lansoprazole, the peak plasma concentrations (Cmax) of lansoprazole and the area under the plasma concentration curves (AUCs) of lansoprazole were approximately proportional to the administered dose.
 Lansoprazole does not accumulate and its pharmacokinetics are unaltered by multiple dosing.
@@ -142,9 +130,7 @@ The corresponding mean plasma half-life of lansoprazole was prolonged from 1.5 t
 
 In patients with compensated and decompensated cirrhosis, there was an approximate 6-and 5-fold increase in AUC, respectively, compared to healthy subjects with normal hepatic function following a single oral dose of 30 mg lansoprazole [see Dosage and Administration (2.3), Use in Specific Populations (8.6)].
 
-Drug Interaction Studies
-
-Effect of Lansoprazole on Other Drugs
+Drug Interaction Studies Effect of Lansoprazole on Other Drugs
 
 Cytochrome P450 Interactions: Lansoprazole is metabolized through the cytochrome P450 system, specifically through the CYP3A and CYP2C19 isozymes.
 Studies have shown that lansoprazole does not have clinically significant interactions with other drugs metabolized by the cytochrome P450 system, such as warfarin, antipyrine, indomethacin, ibuprofen, phenytoin, propranolol, prednisone, diazepam, or clarithromycin in healthy subjects.
@@ -208,4 +194,7 @@ A total of 30% (21/70) of the patients failed lansoprazole 30 mg three times dai
 Post-treatment susceptibility results were not obtained on 11 of the patients who failed therapy.
 Nine of the 11 patients with amoxicillin post-treatment MICs that failed the triple therapy regimen also had clarithromycin resistant H. pylori isolates.
 
-Susceptibility Test for Helicobacter pylori: For susceptibility testing information about Helicobacter pylori, see Microbiology section in prescribing information for clarithromycin and amoxicillin.
+Susceptibility Test for Helicobacter pylori:
+
+For susceptibility testing information about Helicobacter pylori, see Microbiology section in prescribing information for clarithromycin and amoxicillin.
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.

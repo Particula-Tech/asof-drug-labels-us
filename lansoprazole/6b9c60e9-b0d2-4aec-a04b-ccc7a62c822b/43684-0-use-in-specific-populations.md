@@ -2,9 +2,11 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary
+Risk Summary Available data from published observational studies overall do not indicate an association of adverse pregnancy outcomes with lansoprazole treatment (see Data).
 
-Available data from published observational studies overall do not indicate an association of adverse pregnancy outcomes with lansoprazole treatment (see Data).
+In animal reproduction studies, oral administration of lansoprazole to rats during organogenesis through lactation at 6.4 times the maximum recommended human dose produced reductions in the offspring in femur weight, femur length, crown-rump length and growth plate thickness (males only) on postnatal Day 21 (see Data).
+These effects were associated with reduction in body weight gain.
+Advise pregnant women of the potential risk to a fetus.
 
 The estimated background risk of major birth defects and miscarriage for the indicated populations are unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
@@ -24,6 +26,15 @@ A meta-analysis that compared 1,530 pregnant women exposed to PPIs in at least t
 
 Animal Data No adverse effects on embryo-fetal development occurred in studies performed in pregnant rats at oral lansoprazole doses up to 150 mg/kg/day (40 times the recommended human dose [30 mg/day] based on body surface area) administered during organogenesis and pregnant rabbits at oral lansoprazole doses up to 30 mg/kg/day (16 times the recommended human dose based on body surface area) administered during organogenesis.
 
+A pre- and postnatal developmental toxicity study in rats with additional endpoints to evaluate bone development was performed with lansoprazole at oral doses of 10 to 100 mg/kg/day (0.7 to 6.4 times the maximum recommended human lansoprazole dose of 30 mg based on AUC [area under the plasma concentration-time curve]) administered during organogenesis through lactation.
+Maternal effects observed at 100 mg/kg/day (6.4 times the maximum recommended human lansoprazole dose of 30 mg based on AUC) included increased gestation period, decreased body weight gain during gestation, and decreased food consumption.
+The number of stillbirths was increased at this dose, which may have been secondary to maternal toxicity.
+Body weight of pups was reduced at 100 mg/kg/day starting on postnatal Day 11.
+Femur weight, femur length, and crown-rump length were reduced at 100 mg/kg/day on postnatal Day 21.
+Femur weight was still decreased in the 100 mg/kg/day group at age 17 to 18 weeks.
+Growth plate thickness was decreased in the 100 mg/kg/day males on postnatal Day 21, and was increased in the 30 and 100 mg/kg/day males at age 17 to 18 weeks.
+The effects on bone parameters were associated with reduction in body weight gain.
+
 ## 8.2 Lactation
 
 Risk Summary There is no information regarding the presence of lansoprazole in human milk, the effects on the breastfed infant, or the effects on milk production.
@@ -32,11 +43,17 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of lansoprazole have been established in pediatric patients one to 17 years of age for short-term treatment of symptomatic GERD and erosive esophagitis, however, lansoprazole was not effective in patients with symptomatic GERD one month to less than one year of age in a multi-center, double-blind, placebo-controlled study.
+Lansoprazole was not effective in pediatric patients with symptomatic GERD one month to less than one year of age in a multicenter, double-blind, placebo controlled study.
+Therefore, safety and effectiveness have not been established in patients less than one year.
+Nonclinical studies in juvenile rats have demonstrated an adverse effect of heart valve thickening and bone changes at lansoprazole doses higher than the maximum recommended equivalent human dose.
 
-Neonate to less than one year of age
+The safety and effectiveness of lansoprazole has been established in pediatric patients one to 17 years of age for short-term treatment of symptomatic GERD and erosive esophagitis.
 
-The pharmacokinetics of lansoprazole were studied in pediatric patients with GERD aged less than 28 days and one to 11 months.
+In clinical studies of symptomatic GERD and erosive esophagitis, lansoprazole was not administered beyond 12 weeks in one to 11 year olds.
+It is not known if lansoprazole is safe and effective if used longer than the recommended duration.
+Do not exceed the recommended dose and duration of use in pediatric patients (see Juvenile Animal Toxicity Data).
+
+Neonate to less than one year of age The pharmacokinetics of lansoprazole were studied in pediatric patients with GERD aged less than 28 days and one to 11 months.
 Compared to healthy adults receiving 30 mg, neonates had higher exposure (mean weight-based normalized AUC values 2.04 and 1.88 fold higher at doses of 0.5 mg/kg/day and 1 mg/kg/day, respectively).
 Infants aged ≤10 weeks had clearance and exposure values that were similar to neonates.
 Infants aged greater than 10 weeks who received 1 mg/kg/day had mean AUC values that were similar to adults who received a 30 mg dose.
@@ -53,9 +70,7 @@ There were no adverse events reported in pediatric clinical studies (one month t
 Based on the results of the Phase 3 efficacy study, lansoprazole was not shown to be effective.
 Therefore, these results do not support the use of lansoprazole in treating symptomatic GERD in infants.
 
-One to 11 years of age
-
-In an uncontrolled, open-label, U.S. multi-center study, 66 pediatric patients (one to 11 years of age) with GERD were assigned, based on body weight, to receive an initial dose of either lansoprazole 15 mg daily if ≤30 kg or lansoprazole 30 mg daily if greater than 30 kg administered for eight to 12 weeks.
+One to 11 years of age In an uncontrolled, open-label, U.S. multi-center study, 66 pediatric patients (one to 11 years of age) with GERD were assigned, based on body weight, to receive an initial dose of either lansoprazole 15 mg daily if ≤30 kg or lansoprazole 30 mg daily if greater than 30 kg administered for eight to 12 weeks.
 The lansoprazole dose was increased (up to 30 mg twice daily) in 24 of 66 pediatric patients after two or more weeks of treatment if they remained symptomatic.
 At baseline 85% of patients had mild to moderate overall GERD symptoms (assessed by investigator interview), 58% had non-erosive GERD and 42% had erosive esophagitis (assessed by endoscopy).
 
@@ -105,6 +120,23 @@ Of the 87 adolescent patients with GERD, 6% (5/87) took lansoprazole delayed-rel
 
 The most frequently reported (at least 3%) treatment-related adverse reactions in these patients were headache (7%), abdominal pain (5%), nausea (3%) and dizziness (3%).
 Treatment-related dizziness, reported in this prescribing information as occurring in less than 1% of adult patients, was reported in this study by three adolescent patients with non-erosive GERD, who had dizziness concurrently with other reactions (such as migraine, dyspnea, and vomiting).
+
+Juvenile Animal Toxicity Data In a juvenile rat study, adverse effects on bone growth and development and heart valves were observed at lansoprazole doses higher than the maximum recommended equivalent human dose.
+
+An eight-week oral toxicity study with a four-week recovery phase was conducted in juvenile rats, with lansoprazole administered from postnatal Day 7 (age equivalent to neonatal humans) through 62 (age equivalent to approximately 14 years in humans) at doses of 40 to 500 mg/kg/day (about 1.2 to 12 times the daily pediatric dose of 15 mg in children age one to 11 years weighing 30 kg or less, based on AUC).
+
+Heart valve thickening occurred at a dose of 500 mg/kg/day (approximately 12 times the daily dose of 15 mg in pediatric patients age one to 11 years weighing 30 kg or less, based on AUC).
+Heart valve thickening was not observed at the next lower dose (250 mg/kg/day) and below.
+The findings trended towards reversibility after a four-week drug-free recovery period.
+The relevance of heart valve thickening in this study to pediatric patients less than approximately 12 years of age is unknown.
+These findings are not relevant for patients 12 years of age and older.
+No effects on heart valves were observed in a 13-week intravenous toxicity study of lansoprazole in adolescent rats (approximately 12 years human age equivalence) at systemic exposures similar to those achieved in the eight-week oral toxicity study in juvenile (neonatal) rats.
+
+In the eight-week oral toxicity study, doses equal to or greater than 100 mg/kg/day (about 2.5 times the daily pediatric dose of 15 mg in children age one to 11 years weighing 30 kg or less, based on AUC) produced delayed growth, with impairment of weight gain observed as early as postnatal Day 10 (age equivalent to neonatal humans).
+At the end of treatment, the signs of impaired growth at 100 mg/kg/day and higher included reductions in body weight (14% to 44% compared to controls), absolute weight of multiple organs, femur weight, femur length, and crown-rump length.
+Femoral growth plate thickness was reduced only in males and only at the 500 mg/kg/day dose.
+The effects related to delayed growth persisted through the end of the 4-week recovery period.
+Longer term data were not collected.
 
 ## 8.5 Geriatric Use
 
