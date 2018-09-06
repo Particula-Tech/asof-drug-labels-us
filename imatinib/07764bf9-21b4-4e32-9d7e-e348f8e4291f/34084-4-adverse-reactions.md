@@ -323,6 +323,6 @@ Skin and Subcutaneous Tissue Disorders: lichenoid keratosis, lichen planus, toxi
 
 Musculoskeletal and Connective Tissue Disorders: avascular necrosis/hip osteonecrosis, rhabdomyolysis/myopathy, growth retardation in children, musculoskeletal pain upon treatment discontinuation (including myalgia, pain in extremity, arthralgia, bone pain)
 
-Reproduction Disorders: hemorrhagic corpus luteum/hemorrhagic ovarian cyst
+Reproduction Disorders: hemorrhagic corpus luteum/hemorrhagic ovarian cyst Blood and Lymphatic System Disorders: thrombotic microangiopathy
 
 1Including some fatalities
