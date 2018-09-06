@@ -102,8 +102,6 @@ The pregnancy rate was slightly decreased in the treated animals; however, the d
 
 Teratogenic Effects
 
-Pregnancy Category C
-
 Bumetanide is neither teratogenic nor embryocidal in mice when given in doses up to 3400 times the maximum human therapeutic dose.
 
 Bumetanide has been shown to be nonteratogenic, but it has a slight embryocidal effect in rats when given in doses of 3400 times the maximum human therapeutic dose and in rabbits at doses of 3.4 times the maximum human therapeutic dose.
