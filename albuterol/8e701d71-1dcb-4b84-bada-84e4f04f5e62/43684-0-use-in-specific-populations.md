@@ -28,7 +28,7 @@ Serious adverse reactions, including pulmonary edema, have been reported during 
 
 ## 8.3 Nursing Mothers
 
-Plasma levels of albuterol sulfate and HFA-134a after inhaled therapeutic doses are very low in humans, but it is not known whether the components of PROAIR HFA Inhalation Aerosol are excreted in human milk.
+Plasma levels of albuterol sulfate and HFA‑134a after inhaled therapeutic doses are very low in humans, but it is not known whether the components of PROAIR HFA Inhalation Aerosol are excreted in human milk.
 
 Caution should be exercised when PROAIR HFA Inhalation Aerosol is administered to a nursing woman.
 Because of the potential for tumorigenicity shown for albuterol in animal studies and lack of experience with the use of PROAIR HFA Inhalation Aerosol by nursing mothers, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
