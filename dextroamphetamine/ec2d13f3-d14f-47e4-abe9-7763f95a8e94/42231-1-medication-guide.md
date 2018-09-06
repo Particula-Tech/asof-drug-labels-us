@@ -8,7 +8,7 @@ Read the Medication Guide that comes with Dextroamphetamine Sulfate Tablets befo
 There may be new information.
 This Medication Guide does not take the place of talking to your doctor about you or your child’s treatment with Dextroamphetamine Sulfate Tablets.
 
-| What is the most important information I should know about Dextroamphetamine Sulfate Tablets?The following have been reported with use of Dextroamphetamine Sulfate Tablets and other stimulant medicines.1. Heart-related problems: •sudden death in patients who have heart problems or heart defects•stroke and heart attack in adults•increased blood pressure and heart rate Tell your doctor if you or your child have any heart problems, heart defects, high blood pressure, or a family history of these problems.Your doctor should check you or your child carefully for heart problems before starting Dextroamphetamine Sulfate Tablets.Your doctor should check your or your child’s blood pressure and heart rate regularly during treatment with Dextroamphetamine Sulfate Tablets.Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking Dextroamphetamine Sulfate Tablets.2. Mental (Psychiatric) problems:All Patients •new or worse behavior and thought problems•new or worse bipolar illness•new or worse aggressive behavior or hostility Children and Teenagers •new psychotic symptoms (such as hearing voices, believing things that are not true, are suspicious) or new manic symptoms Tell your doctor about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression.Call your doctor right away if you or your child have any new or worsening mental symptoms or problems while taking Dextroamphetamine Sulfate Tablets, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious.3. Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud's phenomenon]: •Fingers or toes may feel numb, cool, painful•Fingers or toes may change color from pale, to blue, to red Tell your doctor if you have or your child has numbness, pain, skin color change, or sensitivity to temperature in your fingers or toes.Call your doctor right away if you have or your child has any signs of unexplained wounds appearing on fingers or toes while taking Dextroamphetamine Sulfate Tablets.Dextroamphetamine Sulfate Tablets may not be right for you or your child. Before starting Dextroamphetamine Sulfate Tablets tell your or your child’s doctor about all health conditions (or a family history of) including: •circulation problems in fingers and toes. |
+| What is the most important information I should know about Dextroamphetamine Sulfate Tablets?The following have been reported with use of Dextroamphetamine Sulfate Tablets and other stimulant medicines.1. Heart-related problems: sudden death in patients who have heart problems or heart defectsstroke and heart attack in adultsincreased blood pressure and heart rate Tell your doctor if you or your child have any heart problems, heart defects, high blood pressure, or a family history of these problems.Your doctor should check you or your child carefully for heart problems before starting Dextroamphetamine Sulfate Tablets.Your doctor should check your or your child’s blood pressure and heart rate regularly during treatment with Dextroamphetamine Sulfate Tablets.Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking Dextroamphetamine Sulfate Tablets.2. Mental (Psychiatric) problems:All Patients new or worse behavior and thought problemsnew or worse bipolar illnessnew or worse aggressive behavior or hostility Children and Teenagers new psychotic symptoms (such as hearing voices, believing things that are not true, are suspicious) or new manic symptoms Tell your doctor about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression.Call your doctor right away if you or your child have any new or worsening mental symptoms or problems while taking Dextroamphetamine Sulfate Tablets, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious.3. Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud's phenomenon]: Fingers or toes may feel numb, cool, painfulFingers or toes may change color from pale, to blue, to red Tell your doctor if you have or your child has numbness, pain, skin color change, or sensitivity to temperature in your fingers or toes.Call your doctor right away if you have or your child has any signs of unexplained wounds appearing on fingers or toes while taking Dextroamphetamine Sulfate Tablets.Dextroamphetamine Sulfate Tablets may not be right for you or your child. Before starting Dextroamphetamine Sulfate Tablets tell your or your child’s doctor about all health conditions (or a family history of) including: circulation problems in fingers and toes. |
 | --- |
 
 What are Dextroamphetamine Sulfate Tablets?
@@ -28,25 +28,25 @@ Who should not take Dextroamphetamine Sulfate Tablets?
 
 Dextroamphetamine Sulfate Tablets should not be taken if you or your child:
 
-- •have heart disease or hardening of the arteries
-- •have moderate to severe high blood pressure
-- •have hyperthyroidism
-- •have an eye problem called glaucoma
-- •are very anxious, tense, or agitated
-- •have a history of drug abuse
-- •are taking or have taken within the past 14 days an anti-depression medicine called a monoamine oxidase inhibitor or MAOI.
-- •is sensitive to, allergic to, or had a reaction to other stimulant medicines
+- have heart disease or hardening of the arteries
+- have moderate to severe high blood pressure
+- have hyperthyroidism
+- have an eye problem called glaucoma
+- are very anxious, tense, or agitated
+- have a history of drug abuse
+- are taking or have taken within the past 14 days an anti-depression medicine called a monoamine oxidase inhibitor or MAOI.
+- is sensitive to, allergic to, or had a reaction to other stimulant medicines
 
 Dextroamphetamine Sulfate Tablets are not recommended for use in children less than 3 years old.
 
 Dextroamphetamine Sulfate Tablets may not be right for you or your child.
 Before starting Dextroamphetamine Sulfate Tablets tell your or your child’s doctor about all health conditions (or a family history of) including:
 
-- •heart problems, heart defects, high blood pressure
-- •mental problems including psychosis, mania, bipolar illness, or depression
-- •tics or Tourette’s syndrome
-- •thyroid problems
-- •seizures or have had an abnormal brain wave test (EEG)
+- heart problems, heart defects, high blood pressure
+- mental problems including psychosis, mania, bipolar illness, or depression
+- tics or Tourette’s syndrome
+- thyroid problems
+- seizures or have had an abnormal brain wave test (EEG)
 
 Tell your doctor if you or your child is pregnant, planning to become pregnant, or breastfeeding.
 
@@ -61,10 +61,10 @@ Your doctor will decide whether Dextroamphetamine Sulfate Tablets can be taken w
 
 Especially tell your doctor if you or your child take:
 
-- •anti-depression medicines including MAOIs
-- •blood pressure medicines
-- •antacids
-- •seizure medicines
+- anti-depression medicines including MAOIs
+- blood pressure medicines
+- antacids
+- seizure medicines
 
 Know the medicines that you or your child take.
 Keep a list of your medicines with you to show your doctor and pharmacist.
@@ -73,16 +73,16 @@ Do not start any new medicine while taking Dextroamphetamine Sulfate Tablets wit
 
 How should Dextroamphetamine Sulfate Tablets be taken?
 
-- •Take Dextroamphetamine Sulfate Tablets exactly as prescribed.
+- Take Dextroamphetamine Sulfate Tablets exactly as prescribed.
   Your doctor may adjust the dose until it is right for you or your child.
-- •Dextroamphetamine Sulfate Tablets are usually taken two or three times a day.
+- Dextroamphetamine Sulfate Tablets are usually taken two or three times a day.
   The first dose is usually taken in the morning.
   One or two more doses may be taken during the day, 4 to 6 hours apart.
-- •From time to time, your doctor may stop Dextroamphetamine Sulfate Tablets treatment for a while to check ADHD symptoms.
-- •Your doctor may do regular checks of the blood, heart, and blood pressure while taking Dextroamphetamine Sulfate Tablets.
+- From time to time, your doctor may stop Dextroamphetamine Sulfate Tablets treatment for a while to check ADHD symptoms.
+- Your doctor may do regular checks of the blood, heart, and blood pressure while taking Dextroamphetamine Sulfate Tablets.
   Children should have their height and weight checked often while taking Dextroamphetamine Sulfate Tablets.
   Dextroamphetamine Sulfate Tablets treatment may be stopped if a problem is found during these check-ups.
-- •If you or your child take too much Dextroamphetamine Sulfate Tablets or overdoses, call your doctor or poison control center right away, or get emergency treatment.
+- If you or your child take too much Dextroamphetamine Sulfate Tablets or overdoses, call your doctor or poison control center right away, or get emergency treatment.
 
 What are possible side effects of Dextroamphetamine Sulfate Tablets?
 
@@ -90,32 +90,32 @@ See “What is the most important information I should know about Dextroamphetam
 
 Other serious side effects include:
 
-- •slowing of growth (height and weight) in children
-- •seizures, mainly in patients with a history of seizures
-- •eyesight changes or blurred vision
-- •serotonin syndrome.
+- slowing of growth (height and weight) in children
+- seizures, mainly in patients with a history of seizures
+- eyesight changes or blurred vision
+- serotonin syndrome.
   A potentially life-threatening problem called serotonin syndrome can happen when medicines such as Dextroamphetamine Sulfate Tablets are taken with certain other medicines.
   Symptoms of serotonin syndrome may include:
-  - •agitation, hallucinations, coma or other changes in mental status
-  - •problems controlling your movements or muscle twitching
-  - •fast heartbeat
-  - •high or low blood pressure
-  - •sweating or fever
-  - •nausea or vomiting
-  - •diarrhea
-  - •muscle stiffness or tightness
+  - agitation, hallucinations, coma or other changes in mental status
+  - problems controlling your movements or muscle twitching
+  - fast heartbeat
+  - high or low blood pressure
+  - sweating or fever
+  - nausea or vomiting
+  - diarrhea
+  - muscle stiffness or tightness
 
 Common side effects include:
 
-- •fast heart beat
-- •decreased appetite
-- •tremors
-- •headache
-- •trouble sleeping
-- •dizziness
-- •stomach upset
-- •weight loss
-- •dry mouth
+- fast heart beat
+- decreased appetite
+- tremors
+- headache
+- trouble sleeping
+- dizziness
+- stomach upset
+- weight loss
+- dry mouth
 
 Dextroamphetamine Sulfate Tablets may affect your or your child’s ability to drive or do other dangerous activities.
 
@@ -129,8 +129,8 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store Dextroamphetamine Sulfate Tablets?
 
-- •Store Dextroamphetamine Sulfate Tablets in a safe place at room temperature, 20° to 25°C (68° to 77°F).
-- •Keep Dextroamphetamine Sulfate Tablets and all medicines out of the reach of children.
+- Store Dextroamphetamine Sulfate Tablets in a safe place at room temperature, 20° to 25°C (68° to 77°F).
+- Keep Dextroamphetamine Sulfate Tablets and all medicines out of the reach of children.
 
 General information about Dextroamphetamine Sulfate Tablets
 
