@@ -1,0 +1,9 @@
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+NDC 70771-1355-1
+
+Carbidopa Tablets
+
+Rx only
+
+100 Tablets

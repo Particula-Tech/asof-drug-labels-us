@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA209910"
+  ],
+  "inn": "carbidopa",
+  "labeler": "Cadila Healthcare Limited",
+  "package_ndcs": [
+    "70771-1355-1"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "carbidopa",
+      "name": "CARBIDOPA"
+    }
+  ],
+  "setid": "83012ccc-aba2-45bb-9326-dc30cdeb4e3b",
+  "source": "dailymed"
+}
