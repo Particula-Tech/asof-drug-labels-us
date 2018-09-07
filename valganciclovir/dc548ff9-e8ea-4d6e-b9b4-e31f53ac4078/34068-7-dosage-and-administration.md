@@ -22,9 +22,9 @@ Prevention of CMV Disease:
 
 ## 2.3 Recommended Dosage in Pediatric Patients
 
-Prevention of CMV Disease in Pediatric Kidney Transplant Patients: For pediatric kidney transplant patients 4 months to 16 years of age, the recommended once daily mg dose (7 × BSA × CrCL) should start within 10 days of post-transplantation until 200 days post-transplantation.
+Prevention of CMV Disease in Pediatric Kidney Transplant Patients: For pediatric kidney transplant patients 4 months to 16 years of age, the recommended once daily mg dose (7 × BSA × CrCl) should start within 10 days of post-transplantation until 200 days post-transplantation.
 
-Prevention of CMV Disease in Pediatric Heart Transplant Patients: For pediatric heart transplant patients 1 month to 16 years of age, the recommended once daily mg dose (7 × BSA × CrCL) should start within 10 days of transplantation until 100 days post-transplantation.
+Prevention of CMV Disease in Pediatric Heart Transplant Patients: For pediatric heart transplant patients 1 month to 16 years of age, the recommended once daily mg dose (7 × BSA × CrCl) should start within 10 days of transplantation until 100 days post-transplantation.
 
 The recommended once daily dosage of VALCYTE is based on body surface area (BSA) and creatinine clearance (CrCl) derived from a modified Schwartz formula, and is calculated using the equation below:
 
@@ -32,7 +32,11 @@ Pediatric Dose (mg) = 7 × BSA × CrCl (calculated using a modified Schwartz for
 If the calculated Schwartz creatinine clearance exceeds 150 mL/min/1.73m2, then a maximum value of 150 mL/min/1.73m2 should be used in the equation.
 The k values used in the modified Schwartz formula are based on pediatric patient age, as shown in Table 1.
 
-Table 1. k Values According to Pediatric Patient AgeThe k values provided are based on the Jaffe method of measuring serum creatinine, and may require correction when enzymatic methods are used1.
+| Schwartz Creatinine Clearance (mL / min / 1.73m2) = | k × Height (cm) |  |
+| --- | --- | --- |
+| Serum Creatinine(mg / dL) |  |  |
+
+Table 1 k Values According to Pediatric Patient AgeThe k values provided are based on the Jaffe method of measuring serum creatinine, and may require correction when enzymatic methods are used1.
 
 | k value | Pediatric Patient Age |
 | --- | --- |
@@ -77,7 +81,7 @@ For adult patients on hemodialysis (CrCl less than 10 mL/min), a dose recommenda
 
 Table 2 Dosage Recommendations for Adult Patients with Impaired Renal Function
 
-| CrClAn estimated creatinine clearance in adults is calculated from serum creatinine by the following formulas: (mL/min) | Induction Dose | Maintenance/ Prevention Dose |
+| CrCl* (mL/min) | Induction Dose | Maintenance/Prevention Dose |
 | --- | --- | --- |
 | VALCYTE 450 mg Tablets |  |  |
 | ≥ 60 | 900 mg twice daily | 900 mg once daily |
@@ -86,9 +90,11 @@ Table 2 Dosage Recommendations for Adult Patients with Impaired Renal Function
 | 10 – 24 | 450 mg every 2 days | 450 mg twice weekly |
 | < 10 (on hemodialysis) | not recommended | not recommended |
 
-| For males = | (140 – age [years]) × (body weight [kg]) |  |
-| --- | --- | --- |
-| (72) × (serum creatinine [mg/dL]) |  |  |
+*An estimated creatinine clearance in adults is calculated from serum creatinine by the following formulas:
+
+| For males = | (140 – age [years]) × (body weight [kg]) |
+| --- | --- |
+| (72) × (serum creatinine [mg/dL]) |  |
 
 For females = 0.85 × male value
 

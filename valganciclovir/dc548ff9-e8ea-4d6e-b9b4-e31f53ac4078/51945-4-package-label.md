@@ -1,12 +1,10 @@
-# PRINCIPAL DISPLAY PANEL - 450 mg Tablet Bottle Carton
+# PRINCIPAL DISPLAY PANEL - 450 mg Bottle Carton
 
 NDC 0004-0038-22
 
-Valcyte® (valganciclovir HCl) tablets
+Valcyte® (valganciclovir) tablets
 
 450 mg
-
-equivalent to 450 mg valganciclovir
 
 DO NOT BREAK OR CRUSH TABLETS
 
@@ -16,9 +14,9 @@ CAUTION: Strict adherence to dosage recommendations is essential to avoid overdo
 
 Genentech
 
-10179152
+10206721
 
-# PRINCIPAL DISPLAY PANEL - 50 mg/1 mL Bottle Carton
+# PRINCIPAL DISPLAY PANEL - 100 mL Bottle Carton
 
 NDC 0004-0039-09
 
@@ -34,4 +32,4 @@ Rx only
 
 Genentech
 
-10179149
+10206717

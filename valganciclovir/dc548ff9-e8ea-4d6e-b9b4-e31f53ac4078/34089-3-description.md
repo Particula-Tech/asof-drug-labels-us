@@ -11,7 +11,7 @@ VALCYTE is also available as a powder for oral solution, which when constituted 
 The inactive ingredients of VALCYTE for oral solution are sodium benzoate, fumaric acid, povidone K-30, sodium saccharin, mannitol and tutti-frutti flavoring.
 
 Valganciclovir HCl is a white to off-white crystalline powder with a molecular formula of C14H22N6O5∙HCl and a molecular weight of 390.83.
-The chemical name for valganciclovir HCl is L-Valine, 2-[(2-amino-1,6-dihydro-6-oxo-9H-purin-9-yl)methoxy]-3-hydroxypropyl ester, monohydrochloride.
+The chemical name for valganciclovir HCl is L-Valine, 2-[(2-amino-1,6-dihydro-6-oxo-9H-purin-9-yl) methoxy]-3-hydroxypropyl ester, monohydrochloride.
 Valganciclovir HCl is a polar hydrophilic compound with a solubility of 70 mg/mL in water at 25°C at a pH of 7.0 and an n-octanol/water partition coefficient of 0.0095 at pH 7.0.
 The pKa for valganciclovir HCl is 7.6.
 

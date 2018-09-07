@@ -33,15 +33,15 @@ These results are summarized in Table 20.
 
 Mortality at six months was 3.7% (9/244) in the VALCYTE group and 1.6% (2/126) in the oral ganciclovir group.
 
-Table 20 Percentage of Patients with CMV Disease, Tissue-Invasive CMV Disease or CMV syndrome by Organ Type: Endpoint Committee, 6 Month ITT Population
+Table 20 Percentage of Patients with CMV Disease, Tissue-Invasive CMV Disease or CMV Syndrome by Organ Type: Endpoint Committee, 6 Month ITT Population
 
 | Organ | VGCV (N=239) | GCV (N=125) | VGCV (N=239) | GCV (N=125) | VGCV (N=239) | GCV (N=125) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | CMV DiseaseNumber of patients with CMV disease = Number of patients with tissue-invasive CMV disease or CMV syndrome |  | Tissue-Invasive CMV Disease |  | CMV SyndromeCMV syndrome was defined as evidence of CMV viremia accompanied with fever greater than or equal to 38°C on two or more occasions separated by at least 24 hours within a 7-day period and one or more of the following: malaise, leukopenia, atypical lymphocytosis, thrombocytopenia, and elevation of hepatic transaminases |  |
-| Liver (n=177) | 19% (22 / 118) | 12% (7 / 59) | 14% (16 / 118) | 3% (2 / 59) | 5% (6 / 118) | 8% (5 / 59) |
-| Kidney (n=120) | 6% (5 / 81) | 23% (9 / 39) | 1% (1 / 81) | 5% (2 / 39) | 5% (4 / 81) | 18% (7 / 39) |
-| Heart (n=56) | 6% (2 / 35) | 10% (2 / 21) | 0% (0 / 35) | 5% (1 / 21) | 6% (2 / 35) | 5% (1 / 21) |
-| Kidney / Pancreas (n=11) | 0% (0 / 5) | 17% (1 / 6) | 0% (0 / 5) | 17% (1 / 6) | 0% (0 / 5) | 0% (0 / 6) |
+| Liver (n=177) | 19% (22/118) | 12% (7/59) | 14% (16/118) | 3% (2/59) | 5% (6/118) | 8% (5/59) |
+| Kidney (n=120) | 6% (5/81) | 23% (9/39) | 1% (1/81) | 5% (2/39) | 5% (4/81) | 18% (7/39) |
+| Heart (n=56) | 6% (2/35) | 10% (2/21) | 0% (0/35) | 5% (1/21) | 6% (2/35) | 5% (1/21) |
+| Kidney/Pancreas (n=11) | 0% (0/5) | 17% (1/6) | 0% (0/5) | 17% (1/6) | 0% (0/5) | 0% (0/6) |
 | GCV = oral ganciclovir; VGCV = valganciclovir |  |  |  |  |  |  |
 
 Prevention of CMV Disease in Kidney Transplantation: A double-blind, placebo-controlled study was conducted in 326 kidney transplant patients at high risk for CMV disease (D+/R-) to assess the efficacy and safety of extending VALCYTE CMV prophylaxis from 100 to 200 days post-transplant.

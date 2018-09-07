@@ -27,7 +27,7 @@ Advise patients that VALCYTE may cause temporary or permanent female and male in
 
 Impairment of Cognitive Ability
 
-Inform patients that tasks requiring alertness may be affected including the patient's ability to drive and operate machinery as seizures, sedation, dizziness, and/or confusion have been reported with the use of VALCYTE [see Adverse Reactions (6.1)].
+Inform patients that tasks requiring alertness may be affected including the patient's ability to drive and operate machinery as seizures, dizziness, and/or confusion have been reported with the use of VALCYTE [see Adverse Reactions (6.1)].
 
 Use in Patients with CMV Retinitis
 

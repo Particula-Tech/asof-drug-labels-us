@@ -1,6 +1,4 @@
-# Instructions for Use
-
-VALCYTE (Val-site) (valganciclovir hydrochloride) for oral solution
+# Instructions for Use VALCYTE (Val-site) (valganciclovir hydrochloride) for oral solution
 
 Be sure that you read, and that you understand and follow these instructions carefully to ensure proper dosing of the oral solution.
 
@@ -19,39 +17,18 @@ Your pharmacist inserts the bottle adapter in the VALCYTE for oral solution bott
 | Figure 1 |
 | --- |
 
-Step 1: With the child-resistant cap on the bottle, shake the bottle well for about 5 seconds before each use.
-
-Step 2: Open the bottle by pressing downward firmly on the child-resistant cap and turning it counter-clockwise.
-Do not throw away the child-resistant cap.
-
-Step 3: Check the dose in milliliters (mL) as prescribed by your healthcare provider.
-Find this number on the oral dispenser.
-
-Step 4: Push the plunger down toward the tip of the oral dispenser.
-
-Step 5: With the bottle in an upright position, insert the oral dispenser into the bottle adapter opening until firmly in place.
-
-| Step 6: Carefully turn the bottle upside down with the oral dispenser in place. Pull the plunger to withdraw the prescribed dose. If you see air bubbles in the syringe, fully push in the plunger so that the oral solution flows back into the bottle. Then withdraw your prescribed dose of VALCYTE for oral solution. |  |
+| Step 1: With the child-resistant cap on the bottle, shake the bottle well for about 5 seconds before each use. |  |
 | --- | --- |
-
-Step 7: Leave the oral dispenser in the bottle adapter and turn the bottle to an upright position.
-Slowly remove the oral dispenser from the bottle adapter.
-
-Steps 8: Give or take the dose of VALCYTE for oral solution.
-
-- Place the tip of the oral dispenser in the mouth.
-- Slowly push down the oral dispenser plunger until the oral dispenser is empty.
-
-Step 9: Put the child-resistant cap back on the bottle.
-Return the bottle back to the refrigerator.
-
-Step 10: Rinse the oral dispenser with tap water after each use.
-
-- Remove the plunger from the oral dispenser barrel.
-- Rinse the oral dispenser barrel and plunger with water and let them air dry.
-- When the oral dispenser barrel and plunger are dry, put the plunger back into the oral dispenser barrel for the next use.
-
-Do not throw away the oral dispenser.
+| Step 2: Open the bottle by pressing downward firmly on the child-resistant cap and turning it counter-clockwise. Do not throw away the child-resistant cap. |  |
+| Step 3: Check the dose in milliliters (mL) as prescribed by your healthcare provider. Find this number on the oral dispenser. |  |
+| Step 4: Push the plunger down toward the tip of the oral dispenser. |  |
+| Step 5: With the bottle in an upright position, insert the oral dispenser into the bottle adapter opening until firmly in place. |  |
+| Step 6: Carefully turn the bottle upside down with the oral dispenser in place. Pull the plunger to withdraw the prescribed dose. If you see air bubbles in the oral dispenser, fully push in the plunger so that the oral solution flows back into the bottle. Then withdraw your prescribed dose of VALCYTE for oral solution. |  |
+| Step 7: Leave the oral dispenser in the bottle adapter and turn the bottle to an upright position. Slowly remove the oral dispenser from the bottle adapter. |  |
+| Step 8: Give or take the dose of VALCYTE for oral solution. Place the tip of the oral dispenser in the mouth. Slowly push down the oral dispenser plunger until the oral dispenser is empty. |  |
+| Step 9: Put the child-resistant cap back on the bottle. Return the bottle back to the refrigerator. |  |
+| Step 10: Rinse the oral dispenser with tap water after each use. Remove the plunger from the oral dispenser barrel by pulling the plunger all the way out of the barrel.Rinse the oral dispenser barrel and plunger with water and let them air dry. |  |
+| When the oral dispenser barrel and plunger are dry, put the plunger back into the oral dispenser barrel for the next use. Do not throw away the oral dispenser. |  |
 
 How should I store VALCYTE for oral solution?
 
@@ -59,3 +36,11 @@ How should I store VALCYTE for oral solution?
 - Do not freeze.
 
 This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
+
+VALCYTE is a registered trademark of Hoffmann-La Roche Inc.
+
+Distributed by: Genentech USA, Inc. A Member of the Roche Group 1 DNA Way South San Francisco, CA 94080-4990 Revised: 08/2018
+
+For more information, go to www.VALCYTE.com or call 1-888-835-2555.
+
+© 2018 Genentech, Inc. All rights reserved.

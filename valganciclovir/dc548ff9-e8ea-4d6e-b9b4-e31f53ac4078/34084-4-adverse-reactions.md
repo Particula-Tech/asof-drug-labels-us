@@ -74,7 +74,7 @@ Table 4 Pooled Selected Laboratory Abnormalities Reported in Patients Who Receiv
 Prevention of CMV Disease in Solid Organ Transplant Patients: Table 5 shows selected adverse reactions regardless of severity with an incidence of greater than or equal to 5% from a clinical trial (up to 28 days after study treatment) where heart, kidney, kidney-pancreas and liver transplant patients received VALCYTE tablets (N=244) or oral ganciclovir (N=126) until Day 100 post-transplant.
 The majority of the adverse reactions were of mild or moderate intensity.
 
-Table 5 Percentage of Selected Grades 1-4 Adverse Reactions Reported in greater than or equal to 5% of Adult Patients From a Study of Solid Organ Transplant Patients
+Table 5 Percentage of Selected Grades 1–4 Adverse Reactions Reported in greater than or equal to 5% of Adult Patients From a Study of Solid Organ Transplant Patients
 
 | Adverse Reactions | VALCYTE Tablets (N=244) % | Oral Ganciclovir (N=126) % |
 | --- | --- | --- |
@@ -92,7 +92,7 @@ Table 5 Percentage of Selected Grades 1-4 Adverse Reactions Reported in greater 
 Table 6 shows selected adverse reactions regardless of severity with an incidence of greater than or equal to 5% from another clinical trial where kidney transplant patients received either valganciclovir once daily starting within 10 days post-transplant until Day 100 post-transplant followed by 100 days of placebo or valganciclovir once daily until Day 200 post-transplant.
 The overall safety profile of VALCYTE did not change with the extension of prophylaxis until Day 200 post-transplant in high risk kidney transplant patients.
 
-Table 6 Percentage of Selected Grades 1-4 Adverse Reactions Reported in greater than or equal to 5% of Adult Patients from a Study of Kidney Transplant Patients
+Table 6 Percentage of Selected Grades 1–4 Adverse Reactions Reported in greater than or equal to 5% of Adult Patients from a Study of Kidney Transplant Patients
 
 | Adverse Reactions | VALCYTE Tablets Day 100 Post-transplant (N=164) % | VALCYTE Tablets Day 200 Post-transplant (N=156) % |
 | --- | --- | --- |
@@ -107,7 +107,7 @@ Table 6 Percentage of Selected Grades 1-4 Adverse Reactions Reported in greater 
 | General disorders and administration site conditions |  |  |
 | Pyrexia | 12 | 9 |
 
-Tables 7 and 8 show selected laboratory abnormalities reported with VALCYTE tablets in two trials in solid organ transplant patients.
+Table 7 and Table 8 show selected laboratory abnormalities reported with VALCYTE tablets in two trials in solid organ transplant patients.
 
 Table 7 Selected Laboratory Abnormalities Reported in a Study of Adult Solid Organ Transplant PatientsLaboratory abnormalities are those reported by investigators.
 
@@ -161,7 +161,7 @@ General disorders and administration site conditions: fatigue, pain, malaise, as
 
 Hepatobiliary disorders: hepatic function abnormal
 
-Infections and infestations: candida infections including oral candidiasis, upper respiratory tract infection, influenza, urinary tract infections, pharyngitis/nasopharyngitis, postoperative wound infection
+Infections and infestations: candida infections including oral candidiasis, upper respiratory tract infection, influenza, urinary tract infection, pharyngitis/nasopharyngitis, postoperative wound infection
 
 Injury, poisoning, and procedural complications: postoperative complications, wound secretion
 
@@ -185,7 +185,7 @@ Other adverse reactions with VALCYTE in clinical trials in either patients with 
 
 Blood and lymphatic disorders: febrile neutropenia, pancytopenia, bone marrow failure (including aplastic anemia)
 
-Cardiovascular disorders: arrhythmias
+Cardiovascular disorders: arrhythmia
 
 Ear and labyrinth disorders: deafness
 
@@ -205,7 +205,7 @@ Investigations: aspartate aminotransferase increased, alanine aminotransferase i
 
 Musculoskeletal and connective tissue disorders: limb pain
 
-Nervous system disorders: seizures, dysguesia (taste disturbance)
+Nervous system disorders: seizure, dysguesia (taste disturbance)
 
 Psychiatric disorders: confusional state, agitation, psychotic disorder, hallucinations
 
@@ -220,10 +220,10 @@ The most frequently reported adverse reactions (greater than 10% of patients) in
 
 In general, the safety profile was similar in pediatric patients compared to that observed in adult patients.
 However, the rates of certain adverse reactions, and laboratory abnormalities, such as upper respiratory tract infection, pyrexia, nasopharyngitis, anemia, and abdominal pain were reported more frequently in pediatric patients than in adults [see Use in Specific Populations (8.4), Clinical Studies (14.2)].
-Neutropenia was reported with higher incidence in the two pediatric studies as compared to adults, but there was no correlation between neutropenia and infections observed in the pediatric population.
+Neutropenia was reported at a higher incidence in the two pediatric studies as compared to adults, but there was no correlation between neutropenia and infections observed in the pediatric population.
 
 The overall safety profile of VALCYTE was similar with the extension of prophylaxis until Day 200 post-transplant in high risk pediatric kidney transplant patients.
-However, the incidence of severe neutropenia (ANC<500/µL) was higher in pediatric kidney transplant patients treated with VALCYTE until Day 200 (17/57, 30%) compared to pediatric kidney transplant patients treated until Day 100 (3/63, 5%).
+However, the incidence of severe neutropenia (ANC < 500/µL) was higher in pediatric kidney transplant patients treated with VALCYTE until Day 200 (17/57, 30%) compared to pediatric kidney transplant patients treated until Day 100 (3/63, 5%).
 There were no differences in the incidence of severe (Grade 4) anemia or thrombocytopenia in patients treated 100 or 200 days with VALCYTE.
 
 ## 6.2 Postmarketing Experience
@@ -232,7 +232,7 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 As VALCYTE is rapidly and extensively converted to ganciclovir, any adverse reactions associated with ganciclovir might also occur with valganciclovir.
 
-- –Anaphylactic reactions
+- –Anaphylactic reaction
 - –Agranulocytosis
 - –Granulocytopenia
 

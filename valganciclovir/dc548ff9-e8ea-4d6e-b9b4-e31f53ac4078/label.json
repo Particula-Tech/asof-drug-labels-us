@@ -12,12 +12,12 @@
   ],
   "products": [
     {
-      "form": "POWDER, FOR SOLUTION",
-      "generic": "valganciclovir hydrochloride",
+      "form": "TABLET, FILM COATED",
+      "generic": "valganciclovir",
       "name": "Valcyte"
     },
     {
-      "form": "TABLET, FILM COATED",
+      "form": "POWDER, FOR SOLUTION",
       "generic": "valganciclovir hydrochloride",
       "name": "Valcyte"
     }
