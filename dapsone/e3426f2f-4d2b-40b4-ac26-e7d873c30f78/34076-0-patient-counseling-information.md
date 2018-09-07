@@ -1,4 +1,4 @@
-# 17 PATIENT COUNSELING INFORMATION
+# 17PATIENT COUNSELING INFORMATION
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
@@ -15,14 +15,14 @@ Important Administration Instructions
 - ACZONE Gel, 7.5% is for topical use only.
 - Do not apply ACZONE Gel, 7.5% to eyes, mouth, or mucous membranes.
 
-Manufactured for: Allergan, Inc. Irvine CA 92612, U.S.A. By: DPT Laboratories, Ltd. San Antonio, TX 78215 U.S.A.
+Distributed by: Allergan USA, Inc. Madison, NJ 07940
 
-© 2016 Allergan.
+© 2018 Allergan.
 All rights reserved.
-Irvine, CA 92612, U.S.A. All trademarks are the property of their respective owners.
+All trademarks are the property of their respective owners.
 Patented.
-See: www.allergan.com/products/patent_notices Made in the U.S.A.
+See: www.allergan.com/patents
 
-72780US10
+v1.0USPI5206
 
--------Cut Here ✂ ----------------------------------------------------------------------------------------------------------------
+-------Cut Here ----------------------------------------------------------------------------------------------------------------

@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-The safety and efficacy of once daily use of ACZONE Gel, 7.5%, was assessed in two 12-week multicenter, randomized, double-blind, vehicle-controlled studies.
+The safety and efficacy of once daily use of ACZONE Gel, 7.5%, was assessed in two 12-week multicenter, randomized, double-blind, vehicle-controlled trials.
 Efficacy was assessed in a total of 4340 subjects 12 years of age and older.
 The majority of the subjects had moderate acne vulgaris, 20 to 50 inflammatory and 30 to 100 non-inflammatory lesions at baseline, who were randomized to receive either ACZONE Gel, 7.5% or vehicle.
 
@@ -10,7 +10,8 @@ A GAAS score of “minimal” corresponded to a few non-inflammatory lesions (co
 
 The GAAS success rate, mean reduction, and percent reduction in acne lesion counts from baseline after 12 weeks of treatment are presented in the following table.
 
-Table 3 Clinical Efficacy of ACZONE® Gel at Week 12 in Subjects with Acne Vulgaris
+Table 2.
+Clinical Efficacy of ACZONE® Gel at Week 12 in Subjects with Acne Vulgaris
 
 |  | Trial 1 |  | Trial 2 |  |
 | --- | --- | --- | --- | --- |

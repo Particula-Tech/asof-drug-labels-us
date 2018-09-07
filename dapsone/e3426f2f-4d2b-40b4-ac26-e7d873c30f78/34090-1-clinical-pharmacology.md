@@ -1,10 +1,10 @@
-# 12 CLINICAL PHARMACOLOGY
+# 12CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism of Action
+## 12.1Mechanism of Action
 
 The mechanism of action of dapsone gel in treating acne vulgaris is not known.
 
-## 12.3 Pharmacokinetics
+## 12.3Pharmacokinetics
 
 In a pharmacokinetic study, male and female subjects 16 years of age or older with acne vulgaris (N=19) received 2 grams of ACZONE Gel, 7.5%, topically to the face, upper chest, upper back and shoulders once daily for 28 days.
 Steady state for dapsone was reached within 7 days of dosing.
@@ -16,7 +16,7 @@ Based on the measurable dapsone concentrations from 408 subjects (M=192, F=216),
 Similarly, dapsone exposures were approximately the same between the age groups of 12-15 years (N=155) and those greater than or equal to 16 years (N=253).
 There was no evidence of increasing systemic exposure to dapsone over the study year in these subjects.
 
-## 12.4 Microbiology
+## 12.4Microbiology
 
 In Vivo Activity: No microbiology or immunology studies were conducted during ACZONE Gel, 7.5% clinical studies.
 

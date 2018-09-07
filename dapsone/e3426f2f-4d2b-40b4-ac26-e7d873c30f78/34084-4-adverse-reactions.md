@@ -8,7 +8,8 @@ A total of 2161 subjects were treated with ACZONE Gel, 7.5%, for 12 weeks in 2 c
 The population ranged in age from 12 to 63 years, was 56% female, and 58% Caucasian.
 Adverse drug reactions that were reported in at least 0.9% of subjects treated with ACZONE Gel, 7.5% appear in Table 1 below.
 
-Table 1 Adverse Reactions Occurring in at Least 0.9% of Subjects with Acne Vulgaris in 12-week Controlled Clinical Trials
+Table 1.
+Adverse Reactions Occurring in at Least 0.9% of Subjects with Acne Vulgaris in 12-week Controlled Clinical Trials
 
 |  | ACZONE Gel, 7.5% (N=2161) | Vehicle (N=2175) |
 | --- | --- | --- |
@@ -21,7 +22,8 @@ Although not observed in the clinical trials with topical dapsone, serious adver
 
 ## 6.3 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of topical dapsone.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Methemoglobinemia has been identified during postmarketing use of topical dapsone [see Warnings and Precautions (5.1)].
+The following adverse reactions have been identified during post-approval use of topical dapsone:
+
+methemoglobinemia, rash (including erythematous rash, application site rash) and swelling of face (including lip swelling, eye swelling).
