@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA210806"
+  ],
+  "inn": "doravirine",
+  "labeler": "Merck Sharp & Dohme Corp.",
+  "package_ndcs": [
+    "0006-3069-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "doravirine",
+      "name": "PIFELTRO"
+    }
+  ],
+  "setid": "76ce1f00-28c0-4314-bd2c-d473fe3d0970",
+  "source": "dailymed"
+}
