@@ -51,12 +51,11 @@ Valganciclovir does not cure CMV retinitis.
 You may still get retinitis or worsening of retinitis during or after treatment with valganciclovir.
 It is important to stay under a healthcare provider’s care and have your eyes checked at least every 4 to 6 weeks during treatment with valganciclovir.
 
-In children valganciclovir tablets or oral solution are used:
+In children, valganciclovir tablets or oral solution are used:
 
-- to prevent cytomegalovirus (CMV) disease in children 4 months to 16 years of age who have received a heart transplant and have a high risk for getting CMV disease.
-
-Pediatric use information for pediatric kidney transplant patients ages 4 months to 16 years and for pediatric heart transplant patients ages 1 to less than 4 months is approved for Roche Palo Alto LLC’s VALCYTE (valganciclovir hydrochloride) tablets and oral solution.
-However, due to Roche Palo Alto LLC’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+- to prevent CMV disease in children 4 months to 16 years of age who have received a kidney transplant and have a high risk for getting CMV disease.
+- to prevent CMV disease in children 1 month to 16 years of age who have received a heart transplant and have a high risk for getting CMV disease.
+  It is not known if valganciclovir is safe and effective in children for prevention of CMV disease in liver transplant, in kidney transplant in infants less than 4 months of age, in heart transplant in infants less than 1 month of age, in children with AIDS who have CMV retinitis, and in infants with congenital CMV infection.
 
 Do not take valganciclovir if you have had a serious allergic reaction to valganciclovir, ganciclovir or any of the ingredients of valganciclovir.
 See the end of this leaflet for a list of the ingredients in valganciclovir.
@@ -105,7 +104,7 @@ How should I take valganciclovir?
 
 What should I avoid during treatment with valganciclovir?
 
-Valganciclovir can cause seizures, sleepiness, dizziness, and confusion.
+Valganciclovir can cause seizures, dizziness, and confusion.
 You should not drive a car or operate machinery until you know how valganciclovir affects you.
 
 What are the possible side effects of valganciclovir?
@@ -141,8 +140,6 @@ How should I store valganciclovir tablets?
 
 Keep valganciclovir tablets and all medicines out of the reach of children.
 
-Keep valganciclovir tablets and all medicines out of the reach of children.
-
 General information about the safe and effective use of valganciclovir
 
 Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
@@ -170,7 +167,7 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 0717
+Revised: 0918
 
 Dispense with Patient Information Sheet available at:
 

@@ -27,13 +27,18 @@ Advise patients that valganciclovir may cause temporary or permanent female and 
 
 Impairment of Cognitive Ability
 
-Inform patients that tasks requiring alertness may be affected including the patient’s ability to drive and operate machinery as seizures, sedation, dizziness, and/or confusion have been reported with the use of valganciclovir [see Adverse Reactions (6.1)].
+Inform patients that tasks requiring alertness may be affected including the patient’s ability to drive and operate machinery as seizures, dizziness, and/or confusion have been reported with the use of valganciclovir [see Adverse Reactions (6.1)].
 
 Use in Patients with CMV Retinitis
 
 Inform patients that valganciclovir is not a cure for CMV retinitis, and they may continue to experience progression of retinitis during or following treatment.
 Advise patients to have ophthalmologic follow-up examinations at a minimum of every 4 to 6 weeks while being treated with valganciclovir.
 Some patients will require more frequent follow-up.
-AdministrationInform adult patients that they should use valganciclovir tablets, not valganciclovir for oral solution [see Dosage and Administration (2.1)].
+
+Administration
+
+Inform adult patients that they should use valganciclovir tablets, not valganciclovir for oral solution [see Dosage and Administration (2.1)].
 
 Inform patients to take valganciclovir with food to maximize bioavailability.
+
+For more information, call 1-888-375-3784.
