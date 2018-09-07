@@ -72,15 +72,13 @@ LOT/EXP:
 
 8Q2671
 
-# PRINCIPAL DISPLAY PANEL - 1 mL Syringe Carton
+# PRINCIPAL DISPLAY PANEL - 1 mL Syringe Carton - NDC 0009-7376-11
 
 NDC 0009-7376-11
 
-Pfizer Depo-Provera® Contraceptive Injection
+Pfizer Depo-Provera® Contraceptive Injection (medroxyprogesterone acetate) injectable suspension, USP
 
 150 mg per mL
-
-medroxyprogesterone acetate injectable suspension, USP
 
 Intramuscular use only Single Use Syringe Rx only
 
