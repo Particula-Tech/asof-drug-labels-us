@@ -5,4 +5,4 @@ Manufactured by:
 
 Tris Pharma, Inc., Monmouth Junction, NJ 08852
 
-LAB-0733-6.0
+LAB-0733-7.0
