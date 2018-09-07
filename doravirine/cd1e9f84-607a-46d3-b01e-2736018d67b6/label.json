@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA210807"
+  ],
+  "inn": "doravirine",
+  "labeler": "Merck Sharp & Dohme Corp.",
+  "package_ndcs": [
+    "0006-5007-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "doravirine, lamivudine, and tenofovir disoproxil fumarate",
+      "name": "DELSTRIGO"
+    }
+  ],
+  "setid": "cd1e9f84-607a-46d3-b01e-2736018d67b6",
+  "source": "dailymed"
+}

@@ -1,0 +1,165 @@
+# 6 ADVERSE REACTIONS
+
+The following adverse reactions are discussed in other sections of the labeling:
+
+- Severe Acute Exacerbation of Hepatitis B in Patients Coinfected with HIV-1 and HBV [see Warnings and Precautions (5.1)]
+- New Onset or Worsening Renal Impairment [see Warnings and Precautions (5.2)]
+- Bone Loss and Mineralization Defects [see Warnings and Precautions (5.4)]
+- Immune Reconstitution Syndrome [see Warnings and Precautions (5.5)]
+
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+Adverse Reactions in Adults with No Prior Antiretroviral Treatment History
+
+The safety assessment of DELSTRIGO is based on Week 48 data from two Phase 3, randomized, international, multicenter, double-blind, active-controlled trials.
+A total of 747 subjects received doravirine either as the single entity in combination with other antiretroviral drugs as background regimens (n=383) or as the fixed-dose DELSTRIGO (n=364), and a total of 747 subjects were randomized to control arms.
+
+In DRIVE-AHEAD (Protocol 021), 728 adult subjects received either DELSTRIGO (n=364) or EFV/FTC/TDF once daily (n=364).
+By Week 48, 3% in the DELSTRIGO group and 6% in the EFV/FTC/TDF group had adverse events leading to discontinuation of study medication.
+
+Adverse reactions reported in greater than or equal to 5% of subjects in any treatment group in DRIVE-AHEAD are presented in Table 1.
+
+Table 1: Adverse ReactionsFrequencies of adverse reactions are based on all adverse events attributed to trial drugs by the investigator.
+(All Grades) Reported in ≥5%No adverse reactions of Grade 2 or higher (moderate or severe) occurred in ≥2% of subjects treated with DELSTRIGO. of Subjects in Any Treatment Group in Adults with No Antiretroviral Treatment History in DRIVE-AHEAD (Week 48)
+
+|  | DELSTRIGO Once Daily N=364 | EFV/FTC/TDF Once Daily N=364 |
+| --- | --- | --- |
+| Dizziness | 7% | 32% |
+| Nausea | 5% | 7% |
+| Abnormal Dreams | 5% | 9% |
+| Insomnia | 4% | 5% |
+| Diarrhea | 3% | 5% |
+| Somnolence | 3% | 7% |
+| RashRash: includes rash, rash erythematous, rash generalized, rash macular, rash maculo-papular, rash papular, rash pruritic. | 2% | 12% |
+
+The majority (65%) of adverse reactions associated with DELSTRIGO occurred at severity Grade 1 (mild).
+
+Neuropsychiatric Adverse Events
+
+For DRIVE-AHEAD, the analysis of subjects with neuropsychiatric adverse events by Week 48 is presented in Table 2.
+The proportion of subjects who reported one or more neuropsychiatric adverse events was 24% and 57% in the DELSTRIGO and EFV/FTC/TDF groups, respectively.
+
+A statistically significantly lower proportion of DELSTRIGO-treated subjects compared to EFV/FTC/TDF-treated subjects reported neuropsychiatric adverse events by Week 48 in the three pre-specified categories of dizziness, sleep disorders and disturbances, and altered sensorium.
+
+Table 2: DRIVE-AHEAD - Analysis of Subjects with Neuropsychiatric Adverse EventsAll causality and all grade events were included in the analysis.
+(Week 48)
+
+|  | DELSTRIGO Once Daily N=364 | EFV/FTC/TDF Once Daily N=364 | Treatment Difference (DELSTRIGO - EFV/FTC/TDF) Estimate (95% CI)The 95% CIs were calculated using Miettinen and Nurminen's method. Categories pre-specified for statistical testing were dizziness (p <0.001), sleep disorders and disturbances (p <0.001), and altered sensorium (p=0.033). |
+| --- | --- | --- | --- |
+| Sleep disorders and disturbancesPredefined using MedDRA preferred terms including: abnormal dreams, hyposomnia, initial insomnia, insomnia, nightmare, sleep disorder, somnambulism. | 12% | 26% | -13.5 (-19.1, -7.9) |
+| Dizziness | 9% | 37% | -28.3 (-34.0, -22.5) |
+| Altered sensoriumPredefined using MedDRA preferred terms including: altered state of consciousness, lethargy, somnolence, syncope. | 4% | 8% | -3.8 (-7.6, -0.3) |
+
+Neuropsychiatric adverse events in the pre-defined category of depression and suicide/self-injury were reported in 4% and 7% of subjects, in the DELSTRIGO and EFV/FTC/TDF groups, respectively.
+
+In DRIVE-AHEAD through 48 weeks of treatment, the majority of subjects who reported neuropsychiatric adverse events reported events that were mild to moderate in severity (97% [83/86] and 96% [198/207], in the DELSTRIGO and EFV/FTC/TDF groups, respectively) and the majority of subjects reported these events in the first 4 weeks of treatment (72% [62/86] in the DELSTRIGO group and 86% [177/207] in the EFV/FTC/TDF group).
+
+Neuropsychiatric adverse events led to treatment discontinuation in 1% (2/364) and 1% (5/364) of subjects in the DELSTRIGO and EFV/FTC/TDF groups, respectively.
+The proportion of subjects who reported neuropsychiatric adverse events through Week 4 was 17% (62/364) in the DELSTRIGO group and 49% (177/364) in the EFV/FTC/TDF group.
+At Week 48, the prevalence of neuropsychiatric adverse events was 12% (44/364) in the DELSTRIGO group and 22% (81/364) in the EFV/FTC/TDF group.
+
+Laboratory Abnormalities
+
+The percentages of subjects with selected laboratory abnormalities (that represent a worsening from baseline) who were treated with DELSTRIGO or EFV/FTC/TDF in DRIVE-AHEAD are presented in Table 3.
+
+Table 3: Selected Laboratory Abnormalities Reported in Adult Subjects with No Antiretroviral Treatment History in DRIVE-AHEAD (Week 48)
+
+| Blood Chemistry |  |  |
+| --- | --- | --- |
+| Laboratory Parameter Preferred Term (Unit)/Limit | DELSTRIGO Once Daily N=364 | EFV/FTC/TDF Once Daily N=364 |
+| Total bilirubin |  |  |
+| 1.1 - <1.6 × ULN | 4% | 0% |
+| 1.6 - <2.6 × ULN | 2% | 0% |
+| ≥2.6 × ULN | <1% | <1% |
+| Creatinine (mg/dL) |  |  |
+| >1.3 - 1.8 × ULN or Increase of >0.3 mg/dL above baseline | 2% | 1% |
+| >1.8 × ULN or Increase of ≥1.5 × above baseline | 2% | 1% |
+| Aspartate aminotransferase (IU/L) |  |  |
+| 2.5 - <5.0 × ULN | 2% | 2% |
+| ≥5.0 × ULN | <1% | 2% |
+| Alanine aminotransferase (IU/L) |  |  |
+| 2.5 - <5.0 × ULN | 3% | 4% |
+| ≥5.0 × ULN | <1% | 2% |
+| Alkaline phosphatase (IU/L) |  |  |
+| 2.5 - <5.0 × ULN | 0% | <1% |
+| ≥5.0 × ULN | 0% | <1% |
+| Lipase |  |  |
+| 1.5 - <3.0 × ULN | 5% | 4% |
+| ≥3.0 × ULN | 1% | 2% |
+| Creatine kinase (IU/L) |  |  |
+| 6.0 - <10.0 × ULN | 2% | 2% |
+| ≥10.0 × ULN | 2% | 3% |
+| Cholesterol, fasted (mg/dL) |  |  |
+| ≥300 mg/dL | <1% | <1% |
+| LDL cholesterol, fasted (mg/dL) |  |  |
+| ≥190 mg/dL | <1% | 2% |
+| Triglycerides, fasted (mg/dL) |  |  |
+| >500 mg/dL | <1% | 3% |
+| ULN = Upper limit of normal range. |  |  |
+
+Change in Lipids from Baseline
+
+For DRIVE-AHEAD, changes from baseline at Week 48 in LDL-cholesterol, non-HDL-cholesterol, total cholesterol, triglycerides, and HDL-cholesterol are shown in Table 4.
+
+The LDL and non-HDL comparisons were pre-specified and are summarized in Table 4.
+The differences were statistically significant, showing superiority of DELSTRIGO for both parameters.
+The clinical benefit of these findings has not been demonstrated.
+
+Table 4: Mean Change from Baseline in Fasting Lipids in Adult Subjects with No Antiretroviral Treatment History in DRIVE-AHEAD (Week 48)
+
+|  | Baseline | Change | Baseline | Change | Difference (95% CI) |
+| --- | --- | --- | --- | --- | --- |
+| Laboratory Parameter Preferred Term | DELSTRIGO Once Daily N=320 |  | EFV/FTC/TDF Once Daily N=307 |  | Difference Estimates (DELSTRIGO - EFV/FTC/TDF) |
+| LDL-Cholesterol (mg/dL)P-value for the pre-specified hypothesis testing for treatment difference was <0.0001. | 91.7 | -2.1 | 91.3 | 8.3 | -10.2 (-13.8, -6.7) |
+| Non-HDL Cholesterol (mg/dL) | 114.7 | -4.1 | 115.3 | 12.7 | -16.9 (-20.8, -13.0) |
+| Total Cholesterol (mg/dL) Not pre-specified for hypothesis testing. | 156.8 | -2.2 | 156.8 | 21.1 | - |
+| Triglycerides (mg/dL) | 118.7 | -12.0 | 122.6 | 21.6 | - |
+| HDL-Cholesterol (mg/dL) | 42.1 | 1.8 | 41.6 | 8.4 | - |
+| Subjects on lipid-lowering agents at baseline were excluded from these analyses (DELSTRIGO n=15 and EFV/FTC/TDF n=10). Subjects initiating a lipid-lowering agent post-baseline had their last fasted on-treatment value (prior to starting the agent) carried forward (DELSTRIGO n=3 and EFV/FTC/TDF n=8). |  |  |  |  |  |
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during postmarketing experience in patients receiving lamivudine- or TDF-containing regimens.
+Because postmarketing reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Lamivudine:
+
+Body as a Whole: redistribution/accumulation of body fat
+
+Endocrine and Metabolic: hyperglycemia
+
+General: Weakness
+
+Hemic and Lymphatic: anemia (including pure red cell aplasia and severe anemias progressing on therapy)
+
+Hepatic and Pancreatic: lactic acidosis and hepatic steatosis, posttreatment exacerbations of hepatitis B
+
+Hypersensitivity: anaphylaxis, urticaria
+
+Musculoskeletal: muscle weakness, CPK elevation, rhabdomyolysis
+
+Skin: alopecia, pruritus
+
+TDF:
+
+Immune System Disorders: allergic reaction, including angioedema
+
+Metabolism and Nutrition Disorders: lactic acidosis, hypokalemia, hypophosphatemia
+
+Respiratory, Thoracic, and Mediastinal Disorders: dyspnea
+
+Gastrointestinal Disorders: pancreatitis, increased amylase, abdominal pain
+
+Hepatobiliary Disorders: hepatic steatosis, hepatitis, increased liver enzymes (most commonly AST, ALT gamma GT)
+
+Skin and Subcutaneous Tissue Disorders: rash
+
+Musculoskeletal and Connective Tissue Disorders: rhabdomyolysis, osteomalacia (manifested as bone pain and which may contribute to fractures), muscular weakness, myopathy
+
+Renal and Urinary Disorders: acute renal failure, renal failure, acute tubular necrosis, Fanconi syndrome, proximal renal tubulopathy, interstitial nephritis (including acute cases), nephrogenic diabetes insipidus, renal insufficiency, increased creatinine, proteinuria, polyuria
+
+General Disorders and Administration Site Conditions: asthenia
+
+The following adverse reactions, listed under the body system headings above, may occur as a consequence of proximal renal tubulopathy: rhabdomyolysis, osteomalacia, hypokalemia, muscular weakness, myopathy, hypophosphatemia.
