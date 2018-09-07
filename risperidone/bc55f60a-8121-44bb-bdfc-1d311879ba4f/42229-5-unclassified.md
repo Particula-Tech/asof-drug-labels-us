@@ -1,18 +1,22 @@
-Risperidone Oral Solution
+# Instructions For Use
+
+Risperidone (ris per’ i done) Oral Solution
 
 PHARMACIST:
 
 TEAR AT PERFORATION AND GIVE TO PATIENT
 
-USING YOUR RISPERIDONE DISPENSING-PIPETTE AND BOTTLE
+---------------------------------------------------------------------------------------------------------------------------------------
 
-NDC 65162-673-84 30mL
+USING YOUR RISPERIDONE ORAL SOLUTION DISPENSING - PIPETTE AND BOTTLE
+
+NDC 65162-673-84 30 mL
 
 Risperidone Oral Solution
 
-1mg/mL
+1 mg/mL
 
-Each 1mL contains: 1mg of risperidone in an aqueous solution.
+Each 1 mL contains: 1 mg of risperidone in an aqueous solution.
 
 Use this product as indicated below, unless directed otherwise by your Physician.
 
@@ -34,4 +38,4 @@ Keep away from children; avoid freezing and protect from light.
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-03-2017-04
+08-2018-05

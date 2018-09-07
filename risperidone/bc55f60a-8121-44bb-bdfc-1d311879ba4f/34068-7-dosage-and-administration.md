@@ -5,11 +5,11 @@ Recommended Daily Dosage by Indication
 
 |  | Initial Dose | Titration (Increments) | Target Dose | Effective Dose Range |
 | --- | --- | --- | --- | --- |
-| Schizophrenia: adults (2.1) | 2 mg | 1 to 2 mg | 4 to 8 mg | 4 to 16 mg |
-| Schizophrenia: adolescents (2.2) | 0.5 mg | 0.5 to 1 mg | 3 mg | 1 to 6 mg |
-| Bipolar mania: adults (2.2) | 2 to 3 mg | 1 mg | 1 to 6 mg | 1 to 6 mg |
-| Bipolar mania: children and adolescents (2.2) | 0.5 mg | 0.5 to 1 mg | 1 to 2.5 mg | 1 to 6 mg |
-| Irritability in autistic disorder (2.3) | 0.25 mg Can increase to 0.5 mg by Day 4: (body weight less than 20 kg) 0.5 mg Can increase to 1 mg by Day 4: (body weight greater than or equal to 20 kg) | After Day 4, at intervals of > 2 weeks: 0.25 mg (body weight less than 20 kg) 0.5 mg:(body weight greater than or equal to 20 kg) | 0.5 mg: (body weight less than 20 kg) 1 mg: (body weight greater than or equal to 20 kg) | 0.5 to 3 mg |
+| Schizophrenia: adults (2.1) | 2 mg | 1 mg to 2 mg | 4 mg to 8 mg | 4 mg to 16 mg |
+| Schizophrenia: adolescents (2.2) | 0.5 mg | 0.5 mg to 1 mg | 3 mg | 1 mg to 6 mg |
+| Bipolar mania: adults (2.2) | 2 mg to 3 mg | 1 mg | 1 mg to 6 mg | 1 mg to 6 mg |
+| Bipolar mania: children and adolescents (2.2) | 0.5 mg | 0.5 mg to 1 mg | 1 mg to 2.5 mg | 1 mg to 6 mg |
+| Irritability in autistic disorder (2.3) | 0.25 mg Can increase to 0.5 mg by Day 4: (body weight less than 20 kg) 0.5 mg Can increase to 1 mg by Day 4: (body weight greater than or equal to 20 kg) | After Day 4, at intervals of > 2 weeks: 0.25 mg (body weight less than 20 kg) 0.5 mg: (body weight greater than or equal to 20 kg) | 0.5 mg: (body weight less than 20 kg) 1 mg: (body weight greater than or equal to 20 kg) | 0.5 mg to 3 mg |
 
 Severe Renal and Hepatic Impairment in Adults: use a lower starting dose of 0.5 mg twice daily.
 
@@ -22,10 +22,10 @@ Adults
 Usual Initial Dose
 
 Risperidone oral solution can be administered once or twice daily.
-Initial dosing is 2 mg/day.
-May increase the dose at intervals of 24 hours or greater, in increments of 1 to 2 mg per day, as tolerated, to a recommended dose of 4 mg to 8 mg per day.
+Initial dosing is 2 mg per day.
+May increase the dose at intervals of 24 hours or greater, in increments of 1 mg per day to 2 mg per day, as tolerated, to a recommended dose of 4 mg per day to 8 mg per day.
 In some patients, slower titration may be appropriate.
-Efficacy has been demonstrated in a range of 4 mg to 16 mg per day.
+Efficacy has been demonstrated in a range of 4 mg per day to 16 mg per day.
 However, doses above 6 mg per day for twice daily dosing were not demonstrated to be more efficacious than lower doses, were associated with more extrapyramidal symptoms and other adverse effects, and are generally not recommended.
 In a single study supporting once-daily dosing, the efficacy results were generally stronger for 8 mg than for 4 mg.
 The safety of doses above 16 mg per day has not been evaluated in clinical trials [see Clinical Studies (14.1)].
@@ -33,8 +33,8 @@ The safety of doses above 16 mg per day has not been evaluated in clinical trial
 Adolescents
 
 The initial dose is 0.5 mg once daily, administered as a single-daily dose in the morning or evening.
-The dose may be adjusted at intervals of 24 hours or greater, in increments of 0.5 mg or 1 mg per day, as tolerated, to a recommended dose of 3 mg per day.
-Although efficacy has been demonstrated in studies of adolescent patients with schizophrenia at doses between 1 mg to 6 mg per day, no additional benefit was observed above 3 mg per day, and higher doses were associated with more adverse events.
+The dose may be adjusted at intervals of 24 hours or greater, in increments of 0.5 mg per day or 1 mg per day, as tolerated, to a recommended dose of 3 mg per day.
+Although efficacy has been demonstrated in studies of adolescent patients with schizophrenia at doses between 1 mg per day to 6 mg per day, no additional benefit was observed above 3 mg per day, and higher doses were associated with more adverse events.
 Doses higher than 6 mg per day have not been studied.
 
 Patients experiencing persistent somnolence may benefit from administering half the daily dose twice daily.
@@ -59,16 +59,16 @@ Usual Dose
 
 Adults
 
-The initial dose range is 2 mg to 3 mg per day.
+The initial dose range is 2 mg per day to 3 mg per day.
 The dose may be adjusted at intervals of 24 hours or greater, in increments of 1 mg per day.
-The effective dose range is 1 mg to 6 mg per day, as studied in the short-term, placebo-controlled trials.
-In these trials, short-term (3 week) anti-manic efficacy was demonstrated in a flexible dosage range of 1 mg to 6 mg per day [see Clinical Studies (14.2, 14.3)].
+The effective dose range is 1 mg per day to 6 mg per day, as studied in the short-term, placebo-controlled trials.
+In these trials, short-term (3 week) anti-manic efficacy was demonstrated in a flexible dosage range of 1 mg per day to 6 mg per day [see Clinical Studies (14.2, 14.3)].
 Risperidone oral solution, doses higher than 6 mg per day were not studied.
 
 Pediatrics
 
 The initial dose is 0.5 mg once daily, administered as a single-daily dose in the morning or evening.
-The dose may be adjusted at intervals of 24 hours or greater, in increments of 0.5 mg or 1 mg per day, as tolerated, to the recommended target dose of 1 mg to 2.5 mg per day.
+The dose may be adjusted at intervals of 24 hours or greater, in increments of 0.5 mg or 1 mg per day, as tolerated, to the recommended target dose of 1 mg per day to 2.5 mg per day.
 Although efficacy has been demonstrated in studies of pediatric patients with bipolar mania at doses between 0.5 mg and 6 mg per day, no additional benefit was observed above 2.5 mg per day, and higher doses were associated with more adverse events.
 Doses higher than 6 mg per day have not been studied.
 
@@ -77,7 +77,7 @@ Patients experiencing persistent somnolence may benefit from administering half 
 Maintenance Therapy
 
 There is no body of evidence available from controlled trials to guide a clinician in the longer-term management of a patient who improves during treatment of an acute manic episode with risperidone oral solution.
-While it is generally agreed that pharmacological treatment beyond an acute response in mania is desirable, both for maintenance of the initial response and for prevention of new manic episodes, there are no systematically obtained data to support the use of risperidone oral solution in such longer-term treatment (i.e., beyond 3 weeks).
+While it is generally agreed that pharmacological treatment beyond an acute response in mania is desirable, both for maintenance of the initial response and for prevention of new manic episodes, there are no systematically obtained data to support the use of risperidone oral solution in such longer-term treatment (i.e. beyond 3 weeks).
 The physician who elects to use risperidone oral solution for extended periods should periodically re-evaluate the long-term risks and benefits of the drug for the individual patient.
 
 ## 2.3 Irritability Associated with Autistic Disorder – Pediatrics (Children and Adolescents)
@@ -90,7 +90,7 @@ For patients with body weight greater than or equal to 20 kg, initiate dosing at
 After a minimum of four days, the dose may be increased to the recommended dose of 0.5 mg per day for patients less than 20 kg and 1 mg per day for patients greater than or equal to 20 kg.
 Maintain this dose for a minimum of 14 days.
 In patients not achieving sufficient clinical response, the dose may be increased at intervals of 2 weeks or greater, in increments of 0.25 mg per day for patients less than 20 kg, or increments of 0.5 mg per day for patients greater than or equal to 20 kg.
-The effective dose range is 0.5 mg to 3 mg per day.
+The effective dose range is 0.5 mg per day to 3 mg per day.
 No dosing data are available for children who weigh less than 15 kg.
 
 Once sufficient clinical response has been achieved and maintained, consider gradually lowering the dose to achieve the optimal balance of efficacy and safety.
