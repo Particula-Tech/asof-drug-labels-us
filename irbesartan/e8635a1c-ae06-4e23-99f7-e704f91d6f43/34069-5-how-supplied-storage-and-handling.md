@@ -13,4 +13,4 @@ Unit-of-use bottles contain 30, 90 or 500 tablets and blister packs contain 100 
 | Blister of 100 | 33342-047-12 | 33342-048-12 | --- |
 | Blister of 90 | --- | --- | 33342-049-39 |
 
-StorageStore at 20° to 25°C (68° to 77° F); excursions permitted to 15° to 30°C (59° to 86° F) [see USP Controlled Room Temperature].
+Storage Store at 20° to 25°C (68° to 77° F); excursions permitted to 15° to 30°C (59° to 86° F) [see USP Controlled Room Temperature].

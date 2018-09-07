@@ -8,13 +8,13 @@ These studies allowed comparison of once-or twice-daily regimens at 150 mg/day, 
 Two of the seven placebo-controlled trials identified above examined the antihypertensive effects of irbesartan and hydrochlorothiazide in combination.
 
 The 7 studies of irbesartan monotherapy included a total of 1915 patients randomized to irbesartan (1mg to 900 mg) and 611 patients randomized to placebo.
-Once-daily doses of 150 mg and 300 mg provided statistically and clinically significant decreases in systolic and diastolic blood pressure with trough (24 hours post-dose) effects after 6 to 12 weeks of treatment compared to placebo, of about 8-10/5-6 mmHg and 8-12/5-8 mmHg, respectively.
+Once-daily doses of 150 mg and 300 mg provided statistically and clinically significant decreases in systolic and diastolic blood pressure with trough (24 hours post dose) effects after 6 to 12 weeks of treatment compared to placebo, of about 8-10/5-6 mmHg and 8-12/5-8 mmHg, respectively.
 No further increase in effect was seen at dosages greater than 300 mg.
 The dose-response relationships for effects on systolic and diastolic pressure are shown in Figures 1 and 2.
 
 Once-daily administration of therapeutic doses of irbesartan gave peak effects at around 3 to 6 hours and, in one ambulatory blood pressure monitoring study, again around 14 hours.
 This was seen with both once-daily and twice-daily dosing.
-Trough-to-peak ratios for systolic and diastolic response were generally between 60% to 70%.
+Trough-to-peak ratios for systolic and diastolic response were generally between 60% and 70%.
 In a continuous ambulatory blood pressure monitoring study, once-daily dosing with 150 mg gave trough and mean 24-hour responses similar to those observed in patients receiving twice-daily dosing at the same total daily dose.
 
 In controlled trials, the addition of irbesartan to hydrochlorothiazide doses of 6.25 mg, 12.5 mg, or 25 mg produced further dose-related reductions in blood pressure similar to those achieved with the same monotherapy dose of irbesartan.

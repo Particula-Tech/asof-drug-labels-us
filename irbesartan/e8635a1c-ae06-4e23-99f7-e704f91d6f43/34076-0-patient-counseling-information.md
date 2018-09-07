@@ -14,4 +14,4 @@ Manufactured for: Macleods Pharma USA, Inc. Plainsboro, NJ 08536
 
 Manufactured by: Macleods Pharmaceuticals Ltd. Daman (U.T.), INDIA
 
-Revision: February 2016 PM01444203
+Revision: September 2018 PM01444204
