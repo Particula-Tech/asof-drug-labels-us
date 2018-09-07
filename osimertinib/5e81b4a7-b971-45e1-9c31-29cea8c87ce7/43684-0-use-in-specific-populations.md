@@ -50,7 +50,7 @@ Infertility
 
 Based on animal studies, TAGRISSO may impair fertility in females and males of reproductive potential.
 The effects on female fertility showed a trend toward reversibility.
-It is not known whether the effects on male fertility are reversible [see Nonclinical Toxicology (13.1)
+It is not known whether the effects on male fertility are reversible [see Nonclinical Toxicology (13.1)]
 
 ## 8.4 Pediatric Use
 
@@ -64,10 +64,9 @@ Exploratory analysis suggests a higher incidence of Grade 3 and 4 adverse reacti
 
 ## 8.6 Renal Impairment
 
-No dose adjustment is recommended in patients with mild, [creatinine clearance (CLcr) 60-89 mL/min, as estimated by the Cockcroft Gault method (C-G)], moderate, (CLcr 30 59 mL/min) or severe (CLcr 15-29 mL/min) renal impairment.
-There is no recommended dose of TAGRISSO for patients with end-stage renal disease [see Clinical Pharmacology (12.3)].
+No dose adjustment is recommended in patients with creatinine clearance (CLcr) 15 - 89 mL/min, as estimated by Cockcroft-Gault.
+There is no recommended dose of TAGRISSO for patients with end-stage renal disease (CLcr < 15 mL/min) [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
-No dose adjustment is recommended in patients with mild hepatic impairment [total bilirubin ≤ upper limit of normal (ULN) and AST > ULN or total bilirubin between 1 to 1.5 times ULN and any AST] or moderate hepatic impairment (total bilirubin between 1.5 to 3 times ULN and any AST).
-There is no recommended dose for TAGRISSO for patients with severe hepatic impairment [see Clinical Pharmacology (12.3)].
+No dose adjustment is recommended in patients with mild to moderate hepatic impairment (Child-Pugh A and B or total bilirubin ≤ ULN and AST > ULN or total bilirubin 1 to 3 times ULN and any AST).There is no recommended dose for TAGRISSO for patients with severe hepatic impairment (total bilirubin between 3 to 10 times ULN and any AST) [see Clinical Pharmacology (12.3)].

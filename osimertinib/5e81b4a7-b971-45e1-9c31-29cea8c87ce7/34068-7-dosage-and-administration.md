@@ -23,7 +23,7 @@ If a dose of TAGRISSO is missed, do not make up the missed dose and take the nex
 Disperse tablet in 60 mL (2 ounces) of non-carbonated water only.
 Stir until tablet is dispersed into small pieces (the tablet will not completely dissolve) and swallow immediately.
 Do not crush, heat, or ultrasonicate during preparation.
-Rinse the container with 120 mL to 240 mL (4 to 8 ounces of) water and immediately drink.
+Rinse the container with 120 mL to 240 mL (4 to 8 ounces) of water and immediately drink.
 
 If administration via nasogastric tube is required, disperse the tablet as above in 15 mL of non-carbonated water, and then use an additional 15 mL of water to transfer any residues to the syringe.
 The resulting 30 mL liquid should be administered as per the nasogastric tube instructions with appropriate water flushes (approximately 30 mL).
@@ -47,5 +47,5 @@ Recommended Dosage Modifications for TAGRISSO
 
 Drug Interactions
 
-Strong CYP3A4 Inducers If concurrent use is unavoidable, increase TAGRISSO dosage to 160 mg daily when coadministering with a strong CYP3A inducer.
+Strong CYP3A4 Inducers If concurrent use is unavoidable, increase TAGRISSO dosage to 160 mg daily when co-administering with a strong CYP3A inducer.
 Resume TAGRISSO at 80 mg 3 weeks after discontinuation of the strong CYP3A4 inducer [see Drug Interactions (7) and Clinical Pharmacology (12.3)].

@@ -13,7 +13,7 @@ These data are consistent with observations of tumor regression and increased su
 
 ## 12.2 Pharmacodynamics
 
-Based on an analysis of dose-exposure response relationships over the dose range of 20 mg (0.25 times the recommended dose) to 240 mg (3 times the recommended dose), no apparent relationship between osimertinib exposure and objective response rate, duration of response and progression-free survival was identified; however, there were limited data available at the 20 mg dose.
+Based on an analysis of dose-exposure response relationships over the dose range of 20 mg (0.25 times the recommended dose) to 240 mg (3 times the recommended dose), no apparent relationship between osimertinib exposure and overall response rate, duration of response and progression-free survival was identified; however, there were limited data available at the 20 mg dose.
 Over the same dose range, increased exposure led to increased probability of adverse reactions, specifically rash, diarrhea and ILD.
 
 Cardiac Electrophysiology
@@ -55,24 +55,26 @@ Unchanged osimertinib accounted for approximately 2% of the elimination.
 
 Specific Populations
 
-No clinically significant differences in the pharmacokinetics of osimertinib were observed based on age, sex, ethnicity, body weight, baseline albumin, line of therapy, smoking status, mild (CLcr 60-89 mL/min), moderate (CLcr 30-59 mL/min, as estimated by C-G), or severe (CLcr 15-29 mL/min) renal impairment, or mild (total bilirubin ≤ ULN and AST > ULN or total bilirubin between 1 to 1.5 times ULN and any AST) or moderate (total bilirubin between 1.5 to 3 times ULN and any AST) hepatic impairment.
-The pharmacokinetics of osimertinib in patients with end-stage renal disease (CLcr < 15 mL/min) or with severe hepatic impairment (total bilirubin between 3 to 10 times ULN and any AST) are unknown.
+No clinically significant differences in the pharmacokinetics of osimertinib were observed based on age, sex, ethnicity, body weight, baseline albumin, line of therapy, smoking status, renal function (creatinine clearance (CLcr) ≥15 mL/min by Cockcroft-Gault), or hepatic impairment (Child-Pugh A and B, or total bilirubin ≤ ULN and AST > ULN or total bilirubin between 1 to 3 times ULN and any AST).
+The pharmacokinetics of osimertinib in patients with end-stage renal disease (CLcr < 15 mL/min) or severe hepatic impairment (total bilirubin 3 to 10 times ULN and any AST) are unknown [see Use in Specific Populations (8.6) and (8.7)].
 
 Drug Interaction Studies
 
 Effect of Other Drugs on TAGRISSO in Clinical Pharmacokinetic Studies
 
-Strong CYP3A Inducers: The steady-state AUC of osimertinib was reduced by 78% in patients when coadministered with rifampin (600 mg daily for 21 days) in a clinical pharmacokinetic study [see Drug Interactions (7.1)].
+Strong CYP3A Inducers: The steady-state AUC of osimertinib was reduced by 78% in patients when co-administered with rifampin (600 mg daily for 21 days) [see Drug Interactions (7.1)].
 
-Strong CYP3A Inhibitors: Coadministering TAGRISSO with 200 mg itraconazole twice daily (a strong CYP3A4 inhibitor) had no clinically significant effect on the exposure of osimertinib (AUC increased by 24% and Cmax decreased by 20%).
+Strong CYP3A Inhibitors: Co-administering TAGRISSO with 200 mg itraconazole twice daily (a strong CYP3A4 inhibitor) had no clinically significant effect on the exposure of osimertinib (AUC increased by 24% and Cmax decreased by 20%).
 
 Gastric Acid Reducing Agents: The exposure of osimertinib was not affected by concurrent administration of a single 80 mg TAGRISSO tablet following 40 mg omeprazole administration for 5 days.
 
 Effect of Osimertinib on Other Drugs in Clinical Pharmacokinetic Studies
 
-BCRP substrates: Coadministering TAGRISSO with rosuvastatin (a BCRP substrate) increased rosuvastatin AUC by 35% and Cmax by 72% [see Drug Interactions (7.2)].
+BCRP substrates: Co-administering TAGRISSO with rosuvastatin (a BCRP substrate) increased rosuvastatin AUC by 35% and Cmax by 72% [see Drug Interactions (7.2)].
 
-CYP3A4 substrates: Coadministering TAGRISSO with simvastatin (a CYP3A4 substrate) had no clinically significant effect on the exposure of simvastatin.
+P-gp substrates: Co-administering TAGRISSO with fexofenadine (a P-gp substrate) increased fexofenadine AUC and Cmax by 56% and 76% after a single dose and 27% and 25% at steady state, respectively.
+
+CYP3A4 substrates: Co-administering TAGRISSO with simvastatin (a CYP3A4 substrate) had no clinically significant effect on the exposure of simvastatin.
 
 In Vitro Studies
 
@@ -80,4 +82,4 @@ CYP450 Metabolic Pathways: Osimertinib does not inhibit CYP1A2, 2A6, 2B6, 2C8, 2
 Osimertinib induced CYP1A2 enzymes.
 
 Transporter Systems: Osimertinib is a substrate of P-glycoprotein and BCRP and is not a substrate of OATP1B1 and OATP1B3.
-Osimertinib is an inhibitor of BCRP and does not inhibit P-glycoprotein, OAT1, OAT3, OATP1B1, OATP1B3, MATE1, MATE2K and OCT2.
+Osimertinib is an inhibitor of BCRP and does not inhibit OAT1, OAT3, OATP1B1, OATP1B3, MATE1, MATE2K and OCT2.

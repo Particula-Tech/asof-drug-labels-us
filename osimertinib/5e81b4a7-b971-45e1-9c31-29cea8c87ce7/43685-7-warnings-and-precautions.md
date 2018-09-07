@@ -1,7 +1,5 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-Click here to enter Warnings and Precautions
-
 ## 5.1 Interstitial Lung Disease/Pneumonitis
 
 Interstitial lung disease (ILD)/pneumonitis occurred in 3.9% of the 1142 TAGRISSO-treated patients; 0.4% of cases were fatal.

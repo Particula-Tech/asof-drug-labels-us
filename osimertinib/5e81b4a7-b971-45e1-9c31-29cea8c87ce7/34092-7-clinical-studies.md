@@ -32,15 +32,15 @@ Efficacy Results in FLAURA according to Investigator Assessment
 | PFS events (%) | 136 (49) | 206 (74) |
 | Progressive disease (%) | 125 (45) | 192 (69) |
 | DeathWithout documented radiological disease progression (%) | 11 (4) | 14 (5) |
-| Median PFS in months (95% CI) | 18.9 (15.2, 21.4) | 10.2 (9.6, 11.4) |
+| Median PFS in months (95% CI) | 18.9 (15.2, 21.4) | 10.2 (9.6, 11.1) |
 | Hazard Ratio (95% CI)Stratified by ethnicity (Asian vs. non-Asian) and mutation status (Ex19del vs. L858R)Pike estimator | 0.46 (0.37, 0.57) |  |
-| P-valueStratified log-rank test | P < 0.0001 |  |
+| p-valueStratified log-rank test | P < 0.0001 |  |
 | Overall Response Rate (ORR) |  |  |
 | ORR % (95% CI) | 77 (71, 82) | 69 (63, 74) |
 | Complete response, % | 2% | 1% |
 | Partial response, % | 75% | 68% |
 | Duration of Response (DoR)Confirmed responses |  |  |
-| Median Duration (95% CI) | 17.6 (13.8, 22.0) | 9.6 (8.3, 11.1) |
+| Median in months (95% CI) | 17.6 (13.8, 22.0) | 9.6 (8.3, 11.1) |
 
 Figure 1.
 Kaplan-Meier Curves of PFS by Investigator Assessment in FLAURA
@@ -59,7 +59,7 @@ CNS ORR and DOR by BICR in Patients with Measurable CNS Lesions at Baseline in F
 | CNS Tumor Response AssessmentAccording to RECIST v1.1.Based on confirmed response. |  |  |
 | CNS ORR, % (95% CI) | 77% (55, 92) | 63% (38, 84) |
 | Complete response | 18% | 0% |
-| Duration of CNS Response |  |  |
+| Duration of CNS ResponseBased on patients with response only; DoR defined as the time from the date of first documented response (complete response or partial response) until progression or death event. |  |  |
 | Number of responders | 17 | 12 |
 | Response Duration ≥6 months | 88% | 50% |
 | Response Duration ≥12 months | 47% | 33% |
@@ -75,8 +75,8 @@ Patients in the TAGRISSO arm received TAGRISSO 80 mg orally once daily until int
 Patients in the chemotherapy arm received pemetrexed 500 mg/m2 with carboplatin AUC5 or pemetrexed 500mg/m2 with cisplatin 75 mg/m2 on Day 1 of every 21-day cycle for up to 6 cycles.
 Patients whose disease had not progressed after four cycles of platinum-based chemotherapy could have received pemetrexed maintenance therapy (pemetrexed 500 mg/m2 on Day 1 of every 21-day cycle).
 
-The major efficacy outcome measure was progression free survival (PFS) according to Response Evaluation Criteria in Solid Tumors (RECIST v1.1) by investigator assessment.
-Additional efficacy outcome measures included objective response rate (ORR), duration of response (DoR), and overall survival (OS).
+The major efficacy outcome measure was progression-free survival (PFS) according to Response Evaluation Criteria in Solid Tumors (RECIST v1.1) by investigator assessment.
+Additional efficacy outcome measures included overall response rate (ORR), duration of response (DoR), and overall survival (OS).
 Patients randomized to the chemotherapy arm who had radiological progression according to both investigator and blinded independent central review (BICR) were permitted to cross over to receive treatment with TAGRISSO.
 
 The baseline demographic and disease characteristics of the overall trial population were: median age 62 years (range: 20-90 years), ≥75 years old (15%), female (64%), White (32%), Asian (65%), never smoker (68%), WHO performance status 0 or 1 (100%).
@@ -108,11 +108,11 @@ Efficacy Results According to Investigator Assessment in AURA3
 | Median Duration of Response in months (95% CI) | 11.0 (8.6, 12.6) | 4.2 (3.0, 5.9) |
 
 Figure 2.
-Kaplan-Meier Curves of PFS by Investigator Assessment in Aura 3
+Kaplan-Meier Curves of PFS by Investigator Assessment in AURA3
 
 In a supportive analysis of PFS according to blinded independent central review, median PFS was 11 months in the TAGRISSO arm compared to 4.2 months in the chemotherapy arm (HR 0.28; 95% CI: 0.20, 0.38).
 
-Of 419 patients, 205 (49%) had baseline brain scans reviewed by BICR; this included 134 (48%) patients in the TAGRISSO arm and 71 (52%) patients in the chemotherapy arm.
+Of 419 patients, 205 (49%) had baseline brain scans reviewed by BICR; this included 134 (48%) patients in the TAGRISSO arm and 71 (51%) patients in the chemotherapy arm.
 Assessment of CNS efficacy by RECIST v1.1 was performed in the subgroup of 46/419 (11%) patients identified by BICR to have measurable CNS lesions on a baseline brain scan.
 Results are summarized in Table 9.
 
@@ -122,8 +122,8 @@ CNS ORR and DoR by BICR in Patients with Measurable CNS Lesions at Baseline in A
 |  | TAGRISSON=30 | ChemotherapyN=16 |
 | --- | --- | --- |
 | CNS Tumor Response AssessmentAccording to RECIST v1.1Based on confirmed response |  |  |
-| CNS ORR, % (95% CI) | 57% (37, 75) | 25% (7. 52) |
-| Complete response | 7% | 0% |
+| CNS ORR, % (95% CI) | 57% (37, 75) | 25% (7, 52) |
+| Complete response | 7% | 0 |
 | Duration of CNS ResponseBased on patients with response only; DoR definedas the time from the date of first documented response (complete response or partial response) until progression or death event. |  |  |
 | Number of responders | 17 | 4 |
 | Response Duration ≥ 6 months | 47% | 0 |
