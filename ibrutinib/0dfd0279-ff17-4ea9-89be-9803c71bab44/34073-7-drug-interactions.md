@@ -16,4 +16,3 @@ Avoid grapefruit and Seville oranges during IMBRUVICA treatment, as these contai
 
 The coadministration of IMBRUVICA with strong CYP3A inducers may decrease ibrutinib concentrations.
 Avoid coadministration with strong CYP3A inducers [see Clinical Pharmacology (12.3)].
-Examplesa of strong CYP3A inducers include: carbamazepine, enzalutamide, mitotane, phenytoin, rifampin, and St. John’s wortb.

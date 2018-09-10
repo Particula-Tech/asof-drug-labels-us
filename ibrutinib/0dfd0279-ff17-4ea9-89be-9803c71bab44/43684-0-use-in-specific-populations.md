@@ -6,12 +6,14 @@ Risk Summary
 
 IMBRUVICA, a kinase inhibitor, can cause fetal harm based on findings from animal studies.
 There are no available data on IMBRUVICA use in pregnant women to inform a drug-associated risk of major birth defects and miscarriage.
-In animal reproduction studies, administration of ibrutinib to pregnant rats and rabbits during the period of organogenesis at exposures up to 2-20 times the clinical doses of 420-560 mg daily produced embryofetal toxicity including structural abnormalities (see Animal Data).
+In animal reproduction studies, administration of ibrutinib to pregnant rats and rabbits during the period of organogenesis at exposures up to 2-20 times the clinical doses of 420-560 mg daily produced embryofetal toxicity including structural abnormalities (see Data).
 If IMBRUVICA is used during pregnancy or if the patient becomes pregnant while taking IMBRUVICA, the patient should be apprised of the potential hazard to the fetus.
 
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+
+Data
 
 Animal Data
 
@@ -53,10 +55,11 @@ Advise men to avoid fathering a child while receiving IMBRUVICA, and for 1 month
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of IMBRUVICA in pediatric patients has not been established.
+Pediatric studies have not been completed.
 
 ## 8.5 Geriatric Use
 
-Of the 905 patients in clinical studies of IMBRUVICA, 62% were ≥ 65 years of age, while 21% were ≥75 years of age.
+Of the 1011 patients in clinical studies of IMBRUVICA, 62% were ≥ 65 years of age, while 22% were ≥75 years of age.
 No overall differences in effectiveness were observed between younger and older patients.
 Anemia (all grades) and Grade 3 or higher pneumonia occurred more frequently among older patients treated with IMBRUVICA.
 

@@ -17,7 +17,7 @@ IMBRUVICA is indicated for the treatment of adult patients with chronic lymphocy
 
 ## 1.4 Waldenström's Macroglobulinemia
 
-IMBRUVICA is indicated for the treatment of adult patients with Waldenström’s macroglobulinemia (WM).
+IMBRUVICA is indicated for the treatment of adult patients with Waldenström's macroglobulinemia (WM).
 
 ## 1.5 Marginal Zone Lymphoma
 

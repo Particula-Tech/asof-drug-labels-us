@@ -261,61 +261,115 @@ Table 8: Adverse Reactions Reported in at Least 10% of Patients and at Least 2% 
 | The body system and individual ADR terms are sorted in descending frequency order in the IMBRUVICA arm. <1 used for frequency above 0 and below 0.5% |  |  |  |  |
 
 Atrial fibrillation of any grade occurred in 7% of patients treated with IMBRUVICA + BR and 2% of patients treated with placebo + BR.
-The frequency of Grade 3 and 4 atrial fibrillation was 3% in patients treated with IMBRUVICA + BR and 1% in patients treated with placebo +BR.
+The frequency of Grade 3 and 4 atrial fibrillation was 3% in patients treated with IMBRUVICA + BR and 1% in patients treated with placebo + BR.
 
 Waldenström's Macroglobulinemia and Marginal Zone Lymphoma
 
-The data described below reflect exposure to IMBRUVICA in open-label clinical trials that included 63 patients with previously treated WM (Study 1118) and 63 patients with previously treated MZL (Study 1121).
+The data described below reflect exposure to IMBRUVICA in three single-arm open-label clinical trials (Study 1118, Study 1121, and INNOVATE monotherapy arm) and one randomized controlled trial (INNOVATE) in patients with WM or MZL, including a total n=307 patients overall and n=232 patients exposed to IMBRUVICA.
+Study 1118 included 63 patients with previously treated WM who received single agent IMBRUVICA.
+Study 1121 included 63 patients with previously treated MZL who received single agent IMBRUVICA.
+INNOVATE included 150 patients with treatment naïve or previously treated WM who received IMBRUVICA or placebo in combination with rituximab.
+The INNOVATE monotherapy arm included 31 patients with previously treated WM who failed prior rituximab-containing therapy and received IMBRUVICA.
 
-The most commonly occurring adverse reactions in Studies 1118 and 1121 (≥ 20%) were thrombocytopenia, diarrhea, neutropenia, fatigue, bruising, hemorrhage, anemia, rash, musculoskeletal pain, and nausea.
+The most commonly occurring adverse reactions in Studies 1118, 1121, and INNOVATE (≥ 20%) were thrombocytopenia, diarrhea, bruising, neutropenia, musculoskeletal pain, hemorrhage, anemia, rash, fatigue, and nausea.
 
-Nine percent of patients receiving IMBRUVICA across Studies 1118 and 1121 discontinued treatment due to adverse reactions.
-The most common adverse reactions leading to discontinuation were interstitial lung disease, diarrhea and rash.
-Adverse reactions leading to dose reduction occurred in 10% of patients.
+Seven percent of patients receiving IMBRUVICA across Studies 1118, 1121, and INNOVATE discontinued treatment due to adverse reactions.
+The most common adverse reactions leading to discontinuation were atrial fibrillation, interstitial lung disease, diarrhea and rash.
+Adverse reactions leading to dose reduction occurred in 13% of patients.
 
-Study 1118
+Study 1118 and INNOVATE Monotherapy Arm
 
-Adverse reactions and laboratory abnormalities described below in Tables 9 and 10 reflect exposure to IMBRUVICA with a median duration of 11.7 months in Study 1118.
+Adverse reactions and laboratory abnormalities described below in Tables 9 and 10 reflect exposure to IMBRUVICA with a median duration of 11.7 months in Study 1118 and 33 months in the INNOVATE Monotherapy Arm.
 
-Table 9: Non-Hematologic Adverse Reactions in ≥ 10% in Patients with WM in Study 1118 (N=63)
+Table 9: Non-Hematologic Adverse Reactions in ≥ 10% in Patients with WM in Study 1118 and the INNOVATE Monotherapy Arm (N=94)
 
 | Body System | Adverse Reaction | All Grades (%) | Grade 3 or 4 (%) |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Gastrointestinal disorders | Diarrhea | 37 | 0 |  |  |
+| Gastrointestinal disorders | Diarrhea | 38 | 2 |  |  |
 | Nausea | 21 | 0 |  |  |  |
-| StomatitisIncludes multiple ADR terms. | 16 | 0 |  |  |  |
-| Gastroesophageal reflux disease | 13 | 0 |  |  |  |
-| Skin and subcutaneous tissue disorders | Rash | 22 | 0 |  |  |
-| Bruising | 16 | 0 |  |  |  |
-| Pruritus | 11 | 0 |  |  |  |
-| General disorders and administrative site conditions | Fatigue | 21 | 0 |  |  |
-| Musculoskeletal and connective tissue disorders | Muscle spasms | 21 | 0 |  |  |
-| Arthropathy | 13 | 0 |  |  |  |
+| StomatitisIncludes multiple ADR terms. | 15 | 0 |  |  |  |
+| Constipation | 12 | 1 |  |  |  |
+| Gastroesophageal reflux disease | 12 | 0 |  |  |  |
+| Skin and subcutaneous tissue disorders | Bruising | 28 | 1 |  |  |
+| Rash | 21 | 1 |  |  |  |
+| Vascular disorders | Hemorrhage | 28 | 0 |  |  |
+| Hypertension | 14 | 4 |  |  |  |
+| General disorders and administrative site conditions | Fatigue | 18 | 2 |  |  |
+| Pyrexia | 12 | 2 |  |  |  |
+| Musculoskeletal and connective tissue disorders | Musculoskeletal pain | 21 | 0 |  |  |
+| Muscle spasms | 19 | 0 |  |  |  |
 | Infections and infestations | Upper respiratory tract infection | 19 | 0 |  |  |
-| Sinusitis | 19 | 0 |  |  |  |
-| Pneumonia | 14 | 6 |  |  |  |
-| Skin infection | 14 | 2 |  |  |  |
-| Respiratory, thoracic and mediastinal disorders | Epistaxis | 19 | 0 |  |  |
-| Cough | 13 | 0 |  |  |  |
-| Nervous system disorders | Dizziness | 14 | 0 |  |  |
-| Headache | 13 | 0 |  |  |  |
-| Neoplasms benign, malignant, and unspecified (including cysts and polyps) | Skin cancer | 11 | 0 |  |  |
+| Skin infection | 18 | 3 |  |  |  |
+| Sinusitis | 16 | 0 |  |  |  |
+| Pneumonia | 13 | 5 |  |  |  |
+| Nervous system disorders | Headache | 14 | 0 |  |  |
+| Dizziness | 13 | 0 |  |  |  |
+| Respiratory, thoracic and mediastinal disorders | Cough | 13 | 0 |  |  |
 | The body system and individual ADR preferred terms are sorted in descending frequency order. |  |  |  |  |  |
 
-Table 10: Treatment-Emergent Hematologic Laboratory Abnormalities in Patients with WM in Study 1118 (N=63)
+Table 10: Treatment-Emergent Hematologic Laboratory Abnormalities in Patients with WM in Study 1118 and the INNOVATE Monotherapy Arm (N=94)
 
 |  | All Grades (%) | Grade 3 or 4 (%) |
 | --- | --- | --- |
-|  | Percent of Patients (N=63) |  |
-| Platelets Decreased | 43 | 13 |
-| Neutrophils Decreased | 44 | 19 |
-| Hemoglobin Decreased | 13 | 8 |
+|  | Percent of Patients (N=94) |  |
+| Platelets Decreased | 38 | 11 |
+| Neutrophils Decreased | 43 | 16 |
+| Hemoglobin Decreased | 21 | 6 |
+
+INNOVATE
+
+Adverse reactions described below in Table 11 reflect exposure to IMBRUVICA + R with a median duration of 25.8 months and exposure to placebo + R with a median duration of 15.5 months in patients with treatment naïve or previously treated WM in INNOVATE.
+
+Table 11: Adverse Reactions Reported in at Least 10% of Patients and at Least 2% Greater in the IMBRUVICA Arm in Patients with WM in INNOVATE
+
+| All Grades (%) | Grade 3 or 4 (%) | All Grades (%) | Grade 3 or 4 (%) |  |
+| --- | --- | --- | --- | --- |
+| Body System Adverse Reaction | IMBRUVICA + R (N=75) |  | Placebo + R (N=75) |  |
+| Skin and subcutaneous tissue disorders |  |  |  |  |
+| BruisingIncludes multiple ADR terms. | 37 | 1 | 5 | 0 |
+| Rash | 24 | 1 | 11 | 0 |
+| Musculoskeletal and connective tissue disorders |  |  |  |  |
+| Musculoskeletal pain | 35 | 4 | 21 | 3 |
+| Arthralgia | 24 | 3 | 11 | 1 |
+| Muscle spasms | 17 | 0 | 12 | 1 |
+| Vascular disorders |  |  |  |  |
+| Hemorrhage | 32 | 3 | 17 | 3 |
+| Hypertension | 20 | 13 | 5 | 4 |
+| Gastrointestinal disorders |  |  |  |  |
+| Diarrhea | 28 | 0 | 15 | 1 |
+| Nausea | 21 | 0 | 12 | 0 |
+| Dyspepsia | 16 | 0 | 1 | 0 |
+| Constipation | 13 | 1 | 11 | 1 |
+| Infections and infestations |  |  |  |  |
+| Pneumonia | 19 | 13 | 5 | 3 |
+| Skin infection | 17 | 3 | 3 | 0 |
+| Urinary tract infection | 13 | 0 | 0 | 0 |
+| Bronchitis | 12 | 3 | 7 | 0 |
+| Influenza | 12 | 0 | 7 | 1 |
+| Viral upper respiratory tract infection | 11 | 0 | 7 | 0 |
+| General disorders and administration site conditions |  |  |  |  |
+| Peripheral edema | 17 | 0 | 12 | 1 |
+| Respiratory, thoracic, and mediastinal disorders |  |  |  |  |
+| Cough | 17 | 0 | 11 | 0 |
+| Blood and Lymphatic System Disorders |  |  |  |  |
+| Neutropenia | 16 | 12 | 11 | 4 |
+| Cardiac Disorders |  |  |  |  |
+| Atrial fibrillation | 15 | 12 | 3 | 1 |
+| Nervous system disorders |  |  |  |  |
+| Dizziness | 11 | 0 | 7 | 0 |
+| Psychiatric disorders |  |  |  |  |
+| Insomnia | 11 | 0 | 4 | 0 |
+| Metabolism and nutrition disorders |  |  |  |  |
+| Hypokalemia | 11 | 0 | 1 | 1 |
+| The body system and individual ADR preferred terms are sorted in descending frequency order. |  |  |  |  |
+
+Grade 3 or 4 infusion related reactions were observed in 1% of patients treated with IMBRUVICA + R.
 
 Study 1121
 
-Adverse reactions and laboratory abnormalities described below in Tables 11 and 12 reflect exposure to IMBRUVICA with a median duration of 11.6 months in Study 1121.
+Adverse reactions and laboratory abnormalities described below in Tables 12 and 13 reflect exposure to IMBRUVICA with a median duration of 11.6 months in Study 1121.
 
-Table 11: Non-Hematologic Adverse Reactions in ≥ 10% in Patients with MZL in Study 1121 (N=63)
+Table 12: Non-Hematologic Adverse Reactions in ≥ 10% in Patients with MZL in Study 1121 (N=63)
 
 | Body System | Adverse Reaction | All Grades (%) | Grade 3 or 4 (%) |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -353,7 +407,7 @@ Table 11: Non-Hematologic Adverse Reactions in ≥ 10% in Patients with MZL in S
 | Psychiatric disorders | Anxiety | 16 | 2 |  |  |
 | The body system and individual ADR preferred terms are sorted in descending frequency order. |  |  |  |  |  |
 
-Table 12: Treatment-Emergent Hematologic Laboratory Abnormalities in Patients with MZL in Study 1121 (N=63)
+Table 13: Treatment-Emergent Hematologic Laboratory Abnormalities in Patients with MZL in Study 1121 (N=63)
 
 |  | All Grades (%) | Grade 3 or 4 (%) |
 | --- | --- | --- |
@@ -373,9 +427,9 @@ Twenty-four percent of patients receiving IMBRUVICA in the cGVHD trial discontin
 The most common adverse reactions leading to discontinuation were fatigue and pneumonia.
 Adverse reactions leading to dose reduction occurred in 26% of patients.
 
-Adverse reactions and laboratory abnormalities described below in Tables 13 and 14 reflect exposure to IMBRUVICA with a median duration of 4.4 months in the cGVHD trial.
+Adverse reactions and laboratory abnormalities described below in Tables 14 and 15 reflect exposure to IMBRUVICA with a median duration of 4.4 months in the cGVHD trial.
 
-Table 13: Non-Hematologic Adverse Reactions in ≥ 10% of Patients with cGVHD (N=42)
+Table 14: Non-Hematologic Adverse Reactions in ≥ 10% of Patients with cGVHD (N=42)
 
 | Body System | Adverse Reaction | All Grades (%) | Grade 3 or 4 (%) |
 | --- | --- | --- | --- |
@@ -401,7 +455,7 @@ Table 13: Non-Hematologic Adverse Reactions in ≥ 10% of Patients with cGVHD (N
 | Metabolism and nutrition disorders | Hypokalemia | 12 | 7 |
 | The system organ class and individual ADR preferred terms are sorted in descending frequency order. |  |  |  |
 
-Table 14: Treatment-Emergent Hematologic Laboratory Abnormalities in Patients with cGVHD (N=42)
+Table 15: Treatment-Emergent Hematologic Laboratory Abnormalities in Patients with cGVHD (N=42)
 
 | All Grades (%) | Grade 3 or 4 (%) |  |
 | --- | --- | --- |
@@ -414,33 +468,33 @@ Additional Important Adverse Reactions
 
 Cardiac Arrhythmias
 
-In randomized controlled trials (n=1227; median treatment duration of 13.1 months for patients treated with IMBRUVICA and 9.0 months for patients in the control arm), the incidence of ventricular tachyarrhythmias (ventricular extrasystoles, ventricular arrhythmias, ventricular fibrillation, ventricular flutter, and ventricular tachycardia) of any grade was 1.0% versus 0.2% and of Grade 3 or greater was 0.2% versus 0% in patients treated with IMBRUVICA compared to patients in the control arm.
-In addition, the incidence of atrial fibrillation and atrial flutter of any grade was 7% versus 1.5% and for Grade 3 or greater was 2.8% versus 0.3% in patients treated with IMBRUVICA compared to patients in the control arm.
+In randomized controlled trials (n=1377; median treatment duration of 14.0 months for patients treated with IMBRUVICA and 7.5 months for patients in the control arm), the incidence of ventricular tachyarrhythmias (ventricular extrasystoles, ventricular arrhythmias, ventricular fibrillation, ventricular flutter, and ventricular tachycardia) of any grade was 1.0% versus 0.4% and of Grade 3 or greater was 0.2% versus 0% in patients treated with IMBRUVICA compared to patients in the control arm.
+In addition, the incidence of atrial fibrillation and atrial flutter of any grade was 8% versus 2% and for Grade 3 or greater was 4% versus 0.4% in patients treated with IMBRUVICA compared to patients in the control arm.
 
 Diarrhea
 
-Diarrhea of any grade occurred at a rate of 43% (range, 36% to 59%) of patients treated with IMBRUVICA.
-Grade 2 diarrhea occurred in 9% (range, 3% to 14%) and Grade 3 in 3% (range, 0 to 5%) of patients treated with IMBRUVICA.
-The median time to first onset of any grade diarrhea was 10 days (range, 0 to 627), of Grade 2 was 39 days (range, 1 to 719) and of Grade 3 was 74 days (range, 3 to 627).
-Of the patients who reported diarrhea, 82% had complete resolution, 1% had partial improvement and 17% had no reported improvement at time of analysis.
-The median time from onset to resolution or improvement of any grade diarrhea was 5 days (range, 1 to 418), and was similar for Grades 2 and 3.
-Less than 1% of patients discontinued IMBRUVICA due to diarrhea.
+Diarrhea of any grade occurred at a rate of 40% of patients treated with IMBRUVICA compared to 19% of patients in the control arm.
+Grade 3 diarrhea occurred in 3% versus 1% of IMBRUVICA-treated patients compared to the control arm, respectively.
+The median time to first onset was 21 days (range: 0 to 475) versus 47 days (range: 0 to 492) for any grade diarrhea and 77 days (range: 3 to 310) versus 194 days (range: 11 to 325) for Grade 3 diarrhea in IMBRUVICA-treated patients compared to the control arm, respectively.
+Of the patients who reported diarrhea, 84% versus 88% had complete resolution, and 16% versus 12% had not reported resolution at time of analysis in IMBRUVICA-treated patients compared to the control arm, respectively.
+The median time from onset to resolution in IMBRUVICA-treated subjects was 6 days (range: 1 to 655) versus 5 days (range: 1 to 367) for any grade diarrhea and 6 days (range: 1 to 78) versus 19 days (range: 1 to 56) for Grade 3 diarrhea in IMBRUVICA-treated subjects compared to the control arm, respectively.
+Less than 1% of subjects discontinued IMBRUVICA due to diarrhea compared with 0% in the control arm.
 
 Visual Disturbance
 
-Blurred vision and decreased visual acuity of any grade occurred in 10% of patients treated with IMBRUVICA (9% Grade 1, 2% Grade 2).
-The median time to first onset was 85 days (range, 1 to 414 days).
-Of the patients with visual disturbance, 61% had complete resolution and 38% had no reported improvement at time of analysis.
-The median time from onset to resolution or improvement was 29 days (range, 1 to 335 days).
+Blurred vision and decreased visual acuity of any grade occurred in 12% of patients treated with IMBRUVICA (10% Grade 1, 2% Grade 2, no Grade 3 or higher) compared to 6% in the control arm (5% Grade 1 and <1% Grade 2 and 3).
+The median time to first onset was 96 days (range, 0 to 617) versus 109 days (range, 2 to 477) in IMBRUVICA-treated patients compared to the control arm, respectively.
+Of the patients who reported visual disturbances, 61% versus 71% had complete resolution and 39% versus 29% had not reported resolution at the time of analysis in IMBRUVICA-treated patients compared to the control arm, respectively.
+The median time from onset to resolution was 31 days (range, 1 to 457) versus 29 days (range, 1 to 253) in IMBRUVICA-treated subjects compared to the control arm, respectively.
 
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of IMBRUVICA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- Hepatobiliary disorders: hepatic failure
+- Hepatobiliary disorders: hepatic failure including acute and/or fatal events, hepatic cirrhosis
 - Respiratory disorders: interstitial lung disease
 - Metabolic and nutrition disorders: tumor lysis syndrome [see Warnings & Precautions (5.7)]
 - Immune system disorders: anaphylactic shock, angioedema, urticaria
-- Skin and subcutaneous tissue disorders: Stevens-Johnson Syndrome (SJS), onychoclasis
+- Skin and subcutaneous tissue disorders: Stevens-Johnson Syndrome (SJS), onychoclasis, panniculitis
 - Infections: hepatitis B reactivation

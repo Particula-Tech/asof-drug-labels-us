@@ -15,9 +15,9 @@ The recommended dose of IMBRUVICA for MCL and MZL is 560 mg orally once daily un
 
 Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma and Waldenström's Macroglobulinemia
 
-The recommended dose of IMBRUVICA for CLL/SLL and WM is 420 mg orally once daily until disease progression or unacceptable toxicity.
+The recommended dose of IMBRUVICA for CLL/SLL and WM as a single agent, in combination with rituximab for WM, or in combination with bendamustine and rituximab for CLL/SLL is 420 mg orally once daily until disease progression or unacceptable toxicity.
 
-The recommended dose of IMBRUVICA for CLL/SLL when used in combination with bendamustine and rituximab (administered every 28 days for up to 6 cycles) is 420 mg orally once daily until disease progression or unacceptable toxicity.
+When administering IMBRUVICA in combination with rituximab, consider administering IMBRUVICA prior to rituximab when given on the same day.
 
 Chronic Graft versus Host Disease
 
@@ -47,12 +47,13 @@ Recommended dose modifications are described below [see Drug Interactions (7.1)]
 
 | Patient Population | Coadministered Drug | Recommended IMBRUVICA Dose |
 | --- | --- | --- |
-| B-Cell Malignancies | Moderate CYP3A inhibitorVoriconazole 200 mg twice dailyPosaconazole suspension 100 mg once daily, 100 mg twice daily, or 200 mg twice daily | 140 mg once daily Interrupt dose as recommended [see Dosage and Administration (2.3)]. |
-| Posaconazole suspension 200 mg three times daily or 400 mg twice dailyPosaconazole IV injection 300 mg once dailyPosaconazole delayed-release tablets 300 mg once daily | 70 mg once daily Interrupt dose as recommended [see Dosage and Administration (2.3). |  |
-| Other strong CYP3A inhibitors | Avoid concomitant use. If these inhibitors will be used short-term (such as anti-infectives for seven days or less), interrupt IMBRUVICA. |  |
+| B-Cell Malignancies | Moderate CYP3A inhibitor | 280 mg once daily Modify dose as recommended [see Dosage and Administration (2.3)]. |
+|  | Voriconazole 200 mg twice dailyPosaconazole suspension 100 mg once daily, 100 mg twice daily, or 200 mg twice daily | 140 mg once daily Modify dose as recommended [see Dosage and Administration (2.3)]. |
+|  | Posaconazole suspension 200 mg three times daily or 400 mg twice dailyPosaconazole IV injection 300 mg once dailyPosaconazole delayed-release tablets 300 mg once daily | 70 mg once daily Interrupt dose as recommended [see Dosage and Administration (2.3)]. |
+|  | Other strong CYP3A inhibitors | Avoid concomitant use. If these inhibitors will be used short-term (such as anti-infectives for seven days or less), interrupt IMBRUVICA. |
 | Chronic Graft versus Host Disease | Moderate CYP3A inhibitor | 420 mg once daily Modify dose as recommended [see Dosage and Administration (2.3)]. |
 | Voriconazole 200 mg twice daily Posaconazole suspension 100 mg once daily, 100 mg twice daily, or 200 mg twice daily | 280 mg once daily Modify dose as recommended [see Dosage and Administration (2.3)]. |  |
-| Posaconazole suspension 200 mg three times daily or 400 mg twice dailyPosaconazole IV injection 300 mg once dailyPosaconazole delayed-release tablets 300 mg once daily | 140 mg once daily Interrupt dose as recommended [see Dosage and Administration (2.3). |  |
+| Posaconazole suspension 200 mg three times daily or 400 mg twice dailyPosaconazole IV injection 300 mg once dailyPosaconazole delayed-release tablets 300 mg once daily | 140 mg once daily Interrupt dose as recommended [see Dosage and Administration (2.3)]. |  |
 | Other strong CYP3A inhibitors | Avoid concomitant use. If these inhibitors will be used short-term (such as anti-infectives for seven days or less), interrupt IMBRUVICA. |  |
 
 After discontinuation of a CYP3A inhibitor, resume previous dose of IMBRUVICA [see Dosage and Administration (2.2) and Drug Interactions (7.1)].
