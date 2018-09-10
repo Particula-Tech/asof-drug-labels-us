@@ -2,31 +2,31 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic effects Pregnancy Category C Risk Summary There are no adequate and well-controlled studies with oseltamivir phosphate capsules in pregnant women.
+Pregnancy Category C Risk Summary There are no adequate and well-controlled studies with oseltamivir phosphate capsules in pregnant women.
 Available published epidemiological data suggest that oseltamivir phosphate capsules, taken in any trimester, is not associated with an increased risk of birth defects.
 However, these studies individually are limited by small sample sizes, use of different comparison groups, and some lacked information on dose, which preclude a definitive assessment of the risk.
 In animal studies, there was a dose-dependent increase in the incidence rates of a variety of minor skeletal abnormalities and variants in offspring of rats and rabbits exposed at maternally toxic doses 100 and 50 times human exposures, respectively.
 Oseltamivir phosphate capsules should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus [see Clinical Pharmacology (12.3)].
 
 Clinical Considerations Disease-Associated Maternal and/or Embryo/Fetal Risk Pregnant women are at higher risk of severe complications from influenza, which may lead to adverse pregnancy and/or fetal outcomes including maternal death, still births, birth defects, preterm delivery, low birth weight and small for gestational age.
-Data Human Data Published prospective and retrospective observational studies of approximately 1,500 women exposed to oseltamivir during pregnancy, including approximately 400 women exposed in the first trimester suggest that the observed rate of congenital malformations was not increased above the rate in the general comparison population, regardless of when therapy was administered during the gestational period.
+Data Human Data Published prospective and retrospective observational studies of approximately 1,500 women exposed to oseltamivir during pregnancy, including approximately 400 women exposed in the first trimester, suggest that the observed rate of congenital malformations was not increased above the rate in the general comparison population, regardless of when therapy was administered during the gestational period.
 However, individually, none of these studies had adequate sample sizes and some lacked information on dose, which preclude a definitive assessment of the risk.
-Animal Data Studies for effects on embryo-fetal development were conducted in rats (50, 250, and 1500 mg/kg/day) and rabbits (50, 150, and 500 mg/kg/day) by the oral route.
+Animal Data Studies for effects on embryo-fetal development were conducted in rats (50 mg/kg/day, 250 mg/kg/day, and 1,500 mg/kg/day) and rabbits (50 mg/kg/day, 150 mg/kg/day, and 500 mg/kg/day) by the oral route.
 Relative exposures at these doses were, respectively, 2, 13, and 100 times human exposure in the rat and 4, 8, and 50 times human exposure in the rabbit, based on AUC.
 Pharmacokinetic studies indicated that there was fetal exposure in both species.
-In the rat study, minimal maternal toxicity was reported in the 1500 mg/kg/day group.
-In the rabbit study, slight and marked maternal toxicities were observed, respectively, in the 150 and 500 mg/kg/day groups.
+In the rat study, minimal maternal toxicity was reported in the 1,500 mg/kg/day group.
+In the rabbit study, slight and marked maternal toxicities were observed, respectively, in the 150 mg/kg/day and 500 mg/kg/day groups.
 At the maternally toxic doses, statistically significant increases in the incidence rates of a variety of minor skeletal abnormalities and variants were observed in the exposed offspring.
 However, the individual incidence rate of each skeletal abnormality or variant remained within the background rates of occurrence in the species studied.
 
 ## 8.3 Nursing Mothers
 
 Risk Summary Based on limited published data, oseltamivir and oseltamivir carboxylate are present in human milk at low levels considered unlikely to lead to toxicity in the breastfed infant.
-Exercise caution when oseltamivir phosphate capsules is administered to a nursing woman.
+Exercise caution when oseltamivir phosphate capsules are administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
-Treatment of Influenza The safety and efficacy of oseltamivir phosphate for treatment of influenza in pediatric patients 2 weeks old to 17 years of age has been established [see Dosage and Administration (2.2), Clinical Pharmacology (12.3), and Clinical Studies (14.1)] and is based on:
+Treatment of Influenza The safety and efficacy of oseltamivir phosphate for the treatment of influenza in pediatric patients 2 weeks old to 17 years of age has been established [see Dosage and Administration (2.2), Clinical Pharmacology(12.3), and Clinical Studies (14.1)] and is based on:
 
 - 13 to 17 years of age: Safety and efficacy in adolescent patients 13 to 17 years of age was supported by adequate and well-controlled trials in adults and adolescents and younger pediatric patients and safety data in adolescents treated with oseltamivir phosphate in a study of treatment and prophylaxis.
 - 1 year to 12 years of age: Safety and efficacy in pediatric patients 1 year to 12 years of age was supported by results of one double-blind, placebo-controlled trial in 452 pediatric patients with influenza in whom oseltamivir phosphate 2 mg per kg twice daily or placebo was administered within 48 hours of symptom onset [see Clinical Studies (14.1)].
@@ -57,7 +57,7 @@ In a randomized, placebo-controlled trial in elderly residents of nursing homes 
 
 Patients with renal impairment had higher blood levels of oseltamivir carboxylate compared to patients with normal renal function which may increase the risk of oseltamivir phosphate capsules-associated adverse reactions.
 Therefore, dosage adjustment is recommended for patients with a serum creatinine clearance between 10 and 60 mL/minute and for patients with end-stage renal disease (ESRD) undergoing routine hemodialysis or continuous peritoneal dialysis treatment [see Dosage and Administration (2.4)].
-Oseltamivir phosphate capsules is not recommended for patients with ESRD not undergoing dialysis [see Indications and Usage (1.3) and Clinical Pharmacology (12.3)].
+Oseltamivir phosphate capsules are not recommended for patients with ESRD not undergoing dialysis [see Indications and Usage (1.3)and Clinical Pharmacology(12.3)].
 
 ## 8.7 Hepatic Impairment
 
@@ -67,7 +67,7 @@ The safety and pharmacokinetics in patients with severe hepatic impairment have 
 ## 8.8 Use in Patients with Chronic Conditions
 
 Efficacy of oseltamivir phosphate capsules in the treatment of influenza in patients with chronic cardiac disease and/or respiratory disease was evaluated in one randomized, placebo-controlled clinical trial.
-Efficacy in this population, as measured by time to alleviation of all symptoms, was not established but no new safety signals were identified [see Clinical Studies (14.1)].
+Efficacy in this population, as measured by time to alleviation of all symptoms, was not established, but no new safety signals were identified [see Clinical Studies (14.1)].
 
 No clinical trial data are available regarding treatment of influenza in patients with any medical condition sufficiently severe or unstable to be considered at imminent risk of requiring hospitalization.
 

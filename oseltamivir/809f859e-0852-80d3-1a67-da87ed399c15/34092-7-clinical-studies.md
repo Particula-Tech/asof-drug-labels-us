@@ -47,19 +47,19 @@ Pharmacokinetic data indicated that a dose of 3 mg per kg twice daily in pediatr
 ## 14.2 Prophylaxis of Influenza
 
 Adult and Adolescent Subjects (13 years of age and older) The efficacy of oseltamivir phosphate capsules in preventing naturally occurring influenza illness has been demonstrated in three seasonal prophylaxis (community outbreak) clinical trials and one post-exposure prophylaxis trial in household contacts.
-The efficacy endpoint for all of these trials was the incidence of laboratory-confirmed clinical influenza defined as meeting all the following criteria (all signs and symptoms must have been recorded within 24 hours) • oral temperature greater than or equal to 99.0ºF (37.2ºC), • at least one respiratory symptom (cough, sore throat, nasal congestion), • at least one constitutional symptom (aches and pain, fatigue, headache, chills/sweats), and • either a positive virus isolation or a four-fold increase in virus antibody titers from baseline.
+The efficacy endpoint for all of these trials was the incidence of laboratory-confirmed clinical influenza defined as meeting all the following criteria (all signs and symptoms must have been recorded within 24 hours): • oral temperature greater than or equal to 99.0ºF (37.2ºC), • at least one respiratory symptom (cough, sore throat, nasal congestion), • at least one constitutional symptom (aches and pain, fatigue, headache, chills/sweats), and • either a positive virus isolation or a four-fold increase in virus antibody titers from baseline.
 
-In the pooled analysis of two seasonal prophylaxis trials in healthy unvaccinated adults (aged 18 to 65 years), oseltamivir phosphate capsules 75 mg once daily taken for 42 days during a community outbreak reduced the incidence of laboratory-confirmed clinical influenza from 5% (25/519) for the placebo group to 1% (6/520) for the oseltamivir phosphate capsules group.
+In a pooled analysis of two seasonal prophylaxis trials in healthy unvaccinated adults (aged 18 to 65 years), oseltamivir phosphate capsules 75 mg once daily taken for 42 days during a community outbreak reduced the incidence of laboratory-confirmed clinical influenza from 5% (25/519) for the placebo group to 1% (6/520) for the oseltamivir phosphate capsules group.
 
-In a seasonal (community outbreak) prophylaxis trial in elderly residents of skilled nursing homes, about 80%, 43%, and 14% of the subjects were vaccinated, had cardiac disorders, and had chronic airway obstructive disorders, respectively.
+In the seasonal (community outbreak) prophylaxis trial in elderly residents of skilled nursing homes, about 80%, 43%, and 14% of the subjects were vaccinated, had cardiac disorders, and had chronic airway obstructive disorders, respectively.
 In this trial, subjects were randomized to oseltamivir phosphate capsules 75 mg once daily or placebo taken orally for 42 days.
 The incidence of laboratory-confirmed clinical influenza was 4% (12/272) in the placebo-treated subjects compared to less than 1% (1/276) in the oseltamivir phosphate capsules-treated subjects.
 
 In the post-exposure prophylaxis trial in household contacts (aged 13 years or older) of an index influenza case, oseltamivir phosphate capsules 75 mg once daily or placebo taken orally was administered within 48 hours of onset of symptoms in the index case and continued for 7 days (index cases did not receive oseltamivir phosphate capsules treatment).
 The incidence of laboratory-confirmed clinical influenza was 12% (24/200) in the placebo-treated subjects compared to 1% (2/205) in the oseltamivir phosphate capsules-treated subjects.
 
-Pediatric Subjects (1 year to 12 years of age) The efficacy of oseltamivir phosphate capsules in preventing naturally occurring influenza illness was demonstrated in a randomized, open-label post-exposure prophylaxis trial in household contacts that included pediatric subjects aged 1 year to 12 years, both as index cases and as family contacts.
-All index cases in this trial received oseltamivir phosphate for oral suspension 30 to 60 mg taken orally once daily for 10 days.
+Pediatric Subjects (1 year to 12 years of age) The efficacy of oseltamivir phosphate in preventing naturally occurring influenza illness was demonstrated in a randomized, open-label post-exposure prophylaxis trial in household contacts that included pediatric subjects aged 1 year to 12 years, both as index cases and as family contacts.
+All index cases in this trial received oseltamivir phosphate for oral suspension 30 mg to 60 mg taken orally once daily for 10 days.
 The efficacy parameter was the incidence of laboratory-confirmed clinical influenza in the household.
 Laboratory-confirmed clinical influenza was defined as meeting all of the following criteria:
 
@@ -68,11 +68,11 @@ Laboratory-confirmed clinical influenza was defined as meeting all of the follow
 Among household contacts 1 year to 12 years of age not already shedding virus at baseline, the incidence of laboratory-confirmed clinical influenza was lower in the group who received oseltamivir phosphate prophylaxis [3% (3/95)] compared to the group who did not receive oseltamivir phosphate prophylaxis [17% (18/106)].
 
 Immunocompromised Subjects A double-blind, placebo-controlled trial was conducted for seasonal prophylaxis of influenza in 475 immunocompromised subjects (including 18 pediatric subjects 1 year to 12 years of age) who had received solid organ (n=388; liver, kidney, liver and kidney) or hematopoietic stem cell transplants (n=87).
-Median time since transplant for solid organ transplant recipients was 1,105 days for the placebo group and 1,379 days for the oseltamivir phosphate capsules group.
-Median time since transplant for hematopoietic stem cell transplant recipients was 424 days for the placebo group and 367 days for the oseltamivir phosphate capsules group.
+Median time since transplant for solid organ transplant recipients was 1,105 days for the placebo group and 1,379 days for the oseltamivir phosphate group.
+Median time since transplant for hematopoietic stem cell transplant recipients was 424 days for the placebo group and 367 days for the oseltamivir phosphate group.
 Approximately 40% of subjects received influenza vaccine prior to entering the study.
 The primary efficacy endpoint was the incidence of confirmed clinical influenza, defined as oral temperature higher than 99.0°F (37.2°C) plus cough and/or coryza, all recorded within 24 hours, plus either a positive virus culture or a four-fold increase in virus antibody titers from baseline.
-Subjects received treatment with oseltamivir phosphate capsules 75 mg or placebo once daily by mouth for 12 weeks.
-The incidence of confirmed clinical influenza was 3% (7/238) in the placebo group compared with 2% (5/237) in the oseltamivir phosphate capsules group; this difference was not statistically significant.
+Subjects received treatment with oseltamivir phosphate 75 mg or placebo once daily by mouth for 12 weeks.
+The incidence of confirmed clinical influenza was 3% (7/238) in the placebo group compared with 2% (5/237) in the oseltamivir phosphate group; this difference was not statistically significant.
 A secondary analysis was performed using the same clinical symptoms and RT-PCR for laboratory confirmation of influenza infection.
-Among subjects who were not already shedding virus at baseline, the incidence of RT-PCR-confirmed clinical influenza infection was 3% (7/231) in the placebo group and <1% (1/232) in the oseltamivir phosphate capsules group.
+Among subjects who were not already shedding virus at baseline, the incidence of RT-PCR-confirmed clinical influenza infection was 3% (7/231) in the placebo group and <1% (1/232) in the oseltamivir phosphate group.

@@ -10,7 +10,7 @@ Oseltamivir was found to be non-mutagenic in the Ames test and the human lymphoc
 It was found to be positive in a Syrian Hamster Embryo (SHE) cell transformation test.
 Oseltamivir carboxylate was non-mutagenic in the Ames test and the L5178Y mouse lymphoma assay with and without enzymatic activation and negative in the SHE cell transformation test.
 
-In a fertility and early embryonic development study in rats, doses of oseltamivir at 50, 250, and 1500 mg/kg/day were administered to females for 2 weeks before mating, during mating and until day 6 of pregnancy.
+In a fertility and early embryonic development study in rats, doses of oseltamivir at 50 mg/kg/day, 250 mg/kg/day, and 1,500 mg/kg/day were administered to females for 2 weeks before mating, during mating and until day 6 of pregnancy.
 Males were dosed for 4 weeks before mating, during mating, and for 2 weeks after mating.
 There were no effects on fertility, mating performance or early embryonic development at any dose level.
 The highest dose in this study was approximately 100 times the human systemic exposure (AUC0-24h) of oseltamivir carboxylate that occurs after administration of the maximum recommended human dose.

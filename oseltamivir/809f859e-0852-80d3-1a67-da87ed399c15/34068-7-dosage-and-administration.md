@@ -31,7 +31,7 @@ Prophylaxis in pediatric patients is recommended for 10 days following close con
 
 Table 1 Oseltamivir Phosphate Dosage Recommendations in Pediatric Patients for Treatment and Prophylaxis of Influenza
 
-| Weight | Treatment Dosing for 5 days | Prophylaxis Dosing for 10 days* | Volume of Oral Suspension (6 mg/mL) for each Dose | Number of Bottles of Oral Suspension to Dispense | Number of Capsules to Dispense (Strength)‡ |
+| Weight | Treatment Dosage for 5 days | Prophylaxis Dosage for 10 days* | Volume of Oral Suspension (6 mg/mL) for each Dose | Number of Bottles of Oral Suspension to Dispense | Number of Capsules to Dispense (Strength)‡ |
 | --- | --- | --- | --- | --- | --- |
 | Patients from 2 Weeks to less than 1 Year of Age |  |  |  |  |  |
 | Any weight | 3 mg/kg twice daily | Not applicable | 0.5 mL/kg§ | 1 bottle | Not applicable |
@@ -56,7 +56,7 @@ Table 2 Recommended Dosage Modifications for Treatment and Prophylaxis of Influe
 | Severe (>10-30 mL/minute) | 30 mg once daily for 5 days | 30 mg every other day |
 | ESRD Patients on Hemodialysis (≤ 10 mL/minute) | 30 mg immediately and then 30 mg after every hemodialysis cycle (treatment duration not to exceed 5 days) | 30 mg immediately and then 30 mg after alternate hemodialysis cycles |
 | ESRD Patients on Continuous Ambulatory Peritoneal Dialysis‡ (≤10 mL/minute) | A single 30 mg dose administered immediately | 30 mg immediately and then 30 mg once weekly |
-| ESRD Patients not on Dialysis | oseltamivir phosphate capsules is not recommended | oseltamivir phosphate capsules is not recommended |
+| ESRD Patients not on Dialysis | Oseltamivir phosphate capsules are not recommended | Oseltamivir phosphate capsules are not recommended |
 | * Capsules or oral suspension can be used for 30 mg dosing. † The recommended duration for post-exposure prophylaxis is at least 10 days and the recommended duration for community outbreak (seasonal/pre-exposure) prophylaxis is up to 6 weeks (or up to 12 weeks in immunocompromised patients). ‡ Data derived from studies in continuous ambulatory peritoneal dialysis (CAPD) patients. |  |  |
 
 ## 2.6 Emergency Preparation of Oral Suspension from 75 mg Oseltamivir Phosphate Capsules
@@ -91,8 +91,8 @@ Table 4 Emergency Preparation: Number of Oseltamivir Phosphate 75 mg Capsules an
 
 Step #3: Follow the instructions below for preparing the 75 mg oseltamivir phosphate capsules to produce the oral suspension (6 mg per mL):
 
-a. Place the specified amount of water into a polyethyleneterephthalate (PET) or glass bottle (see Table 4).
+a. Place the specified amount of water into a polyethylene terephthalate (PET) or glass bottle (see Table 4).
 Constitution in other bottle types is not recommended because there is no stability data with other bottle types. b. Carefully separate the capsule body and cap and pour the contents of the required number of oseltamivir phosphate 75 mg capsules into the PET or glass bottle. c. Gently swirl the suspension to ensure adequate wetting of the oseltamivir phosphate powder for at least 2 minutes. d. Slowly add the specified amount of vehicle to the bottle. e. Close the bottle using a child-resistant cap and shake well for 30 seconds to completely dissolve the active drug and to ensure homogeneous distribution of the dissolved drug in the resulting suspension.
 The active drug, oseltamivir phosphate, readily dissolves in the specified vehicles.
 The suspension is caused by inert ingredients of oseltamivir phosphate capsules which are insoluble in these vehicles. f. Put an ancillary label on the bottle indicating “Shake Well Before Use.” g. Instruct the parent or caregiver that any unused suspension remaining in the bottle following completion of therapy must be discarded by either affixing an ancillary label to the bottle or adding a statement to the pharmacy label instructions. h. Place a pharmacy label on the bottle that includes the patient’s name, dosing instructions, drug name and any other required information to be in compliance with all State and Federal Pharmacy Regulations.
-Place an appropriate expiration date on the label according to storage conditions below. i. Include the recommended dosage on the pharmacy label as per Tables 1 and 2 [see Dosage and Administration (2.2, 2.3, and 2.4)]. j. Store the prepared oral suspension in glass or PET bottles either: • In a refrigerator [2° to 8°C (36° to 46°F)]: Stable for 5 weeks when stored in a refrigerator. • At room temperature [25°C (77°F)]: Stable for 5 days when stored at room temperature
+Place an appropriate expiration date on the label according to storage conditions below. i. Include the recommended dosage on the pharmacy label as per Tables 1 and 2 [see Dosage and Administration (2.2, 2.3, and 2.4)]. j. Store the prepared oral suspension in glass or PET bottles either: • In a refrigerator [2° to 8°C (36° to 46°F)]: Stable for 5 weeks when stored in a refrigerator. • At room temperature [25°C (77°F)]: Stable for 5 days when stored at room temperature.
