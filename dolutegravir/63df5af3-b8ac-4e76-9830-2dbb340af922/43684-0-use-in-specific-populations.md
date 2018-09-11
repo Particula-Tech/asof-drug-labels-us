@@ -4,44 +4,66 @@
 
 Pregnancy Exposure Registry
 
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to TIVICAY during pregnancy.
+There is a pregnancy exposure registry that monitors pregnancy outcomes in individuals exposed to TIVICAY during pregnancy.
 Healthcare providers are encouraged to register patients by calling the Antiretroviral Pregnancy Registry (APR) at 1-800-258-4263.
 
 Risk Summary
 
-There are insufficient human data on the use of TIVICAY during pregnancy to inform a drug-associated risk of birth defects and miscarriage.
-Given the limited number of pregnancies exposed to dolutegravir-based regimens reported to the APR, no definitive conclusions can be drawn on the safety of TIVICAY in pregnancy, and continued monitoring is ongoing through the APR.
-The background rate for major birth defects in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) is 2.7%.
-The rate of miscarriage is not reported in the APR.
-The estimated background rate of miscarriage in clinically recognized pregnancies in the U.S. general population is 15% to 20%.
-The background risk for major birth defects and miscarriage for the indicated population is unknown.
-The APR uses the MACDP as the U.S. reference population for birth defects in the general population.
-The MACDP evaluates women and infants from a limited geographic area and does not include outcomes for births that occurred at less than 20 weeks’ gestation.
+Preliminary data from an observational study has identified a possible increased risk of neural tube defects when TIVICAY is administered at the time of conception compared with non-dolutegravir-containing antiretroviral regimens.
+As defects related to closure of the neural tube occur from conception through the first 6 weeks of gestation, embryos exposed to dolutegravir from the time of conception through the first 6 weeks of gestation are at potential risk.
+In addition, 2 of the 4 birth defects (encephalocele and iniencephaly), which have been observed with dolutegravir use, although often termed neural tube defects, may occur post-neural tube closure, the time period of which may be later than 6 weeks of gestation, but within the first trimester.
+Due to the limited understanding of the types of reported neural tube defects associated with dolutegravir use and because the date of conception may not be determined with precision, avoid use of TIVICAY at the time of conception through the first trimester of pregnancy.
+No neural tube defects have been reported in infants born to mothers who have started TIVICAY after the first trimester of pregnancy (see Data).
 
-In animal reproduction studies, no evidence of adverse developmental outcomes was observed with dolutegravir (see Data).
-During organogenesis in the rat and rabbit, systemic exposures (AUC) to dolutegravir were less than (rabbits) and approximately 27 times (rats) the exposure in humans at the maximum recommended human dose (MRHD).
-In the rat pre/post-natal developmental study, maternal systemic exposure (AUC) to dolutegravir was approximately 27 times the exposure in humans at the MRHD.
+If there are plans to become pregnant or if pregnancy is confirmed while on TIVICAY during the first trimester, if possible, switch to an alternative regimen.
+Advise pregnant adolescents and adults of the potential risk to the embryo exposed to TIVICAY from the time of conception through the first trimester of pregnancy.
+
+There are insufficient human data on the use of TIVICAY during pregnancy to definitively assess a drug-associated risk for birth defects and miscarriage.
+The background risk for major birth defects for the indicated population is unknown.
+In the U.S. general population, the estimated background rate for major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+In animal reproduction studies, no evidence of adverse developmental outcomes was observed with dolutegravir at systemic exposures (AUC) less than (rabbits) and approximately 27 times (rats) the exposure in humans at the maximum recommended human dose (MRHD) of TIVICAY (see Data).
 
 Data
 
-Animal Data: Dolutegravir was administered orally at up to 1,000 mg per kg daily to pregnant rats and rabbits on gestation Days 6 to 17 and 6 to 18, respectively, and also to rats on gestation day 6 to lactation/post-partum Day 20.
+Human Data: As of May 2018, in an ongoing birth outcome surveillance study in Botswana, there have been 4 cases of neural tube defects reported out of 426 births (0.94%) to mothers who were exposed to dolutegravir-containing regimens at the time of conception.
+In comparison, the neural tube defect prevalence rates were 0.12% (14/11,300) in the non-dolutegravir arm and 0.09% (61/66,057) in the HIV-uninfected arm.
+Four cases reported with dolutegravir included one case each of encephalocele, anencephaly, myelomeningocele, and iniencephaly.
+No infant born to a woman who started dolutegravir during pregnancy had a neural tube defect (n = 2,812).
+
+Data analyzed to date from other sources including the APR, clinical trials, and postmarketing data are insufficient to address the risk of neural tube defects with dolutegravir.
+
+Animal Data: Dolutegravir was administered orally at up to 1,000 mg per kg daily to pregnant rats and rabbits on gestation Days 6 to 17 and 6 to 18, respectively, and to rats on gestation Day 6 to lactation/post-partum Day 20.
 No adverse effects on embryo-fetal (rats and rabbits) or pre/post-natal (rats) development were observed at up to the highest dose tested.
-During organogenesis systemic exposures (AUC) to dolutegravir in rabbits were less than the exposure in humans at the MRHD and in rats were approximately 27 times the exposure in humans at the MRHD.
+During organogenesis, systemic exposures (AUC) to dolutegravir in rabbits were less than the exposure in humans at the MRHD and in rats were approximately 27 times the exposure in humans at the MRHD.
 In the rat pre/post-natal development study, decreased body weight of the developing offspring was observed during lactation at a maternally toxic dose (approximately 27 times human exposure at the MRHD).
 
 ## 8.2 Lactation
 
 Risk Summary
 
-The Centers for Disease Control and Prevention recommend that HIV‑1‑infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV-1 infection.
+The Centers for Disease Control and Prevention recommends that HIV‑1‑infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV-1 infection.
+
 It is not known whether TIVICAY is present in human breast milk, affects human milk production, or has effects on the breastfed infant.
 When administered to lactating rats, dolutegravir was present in milk (see Data).
 
-Because of the potential for (1) HIV‑1 transmission (in HIV-negative infants), and (2) developing viral resistance (in HIV-positive infants), instruct mothers not to breastfeed if they are receiving TIVICAY.
+Because of the potential for (1) HIV‑1 transmission (in HIV-negative infants), (2) developing viral resistance (in HIV-positive infants), and (3) adverse reactions in a breastfed infant similar to those seen in adults, instruct mothers not to breastfeed if they are receiving TIVICAY.
 
 Data
 
-Animal Data: Dolutegravir was the primary drug-related component excreted into the milk of lactating rats following a single oral dose of 50 mg per kg on lactation Day 10, with milk concentrations of up to approximately 1.3 times that of maternal plasma concentrations observed 8 hours post-dose.
+Animal Data: Dolutegravir was the primary drug-related component excreted into the milk of lactating rats following a single oral dose of 50 mg per kg on lactation Day 10, with milk concentrations of up to approximately 1.3 times that of maternal plasma concentrations observed 8 hours postdose.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Pregnancy Testing
+
+Perform pregnancy testing in adolescents and adults of childbearing potential before initiation of TIVICAY.
+
+Contraception
+
+Adolescents and adults of childbearing potential should avoid use of TIVICAY at the time of conception through the first trimester of pregnancy because of the potential risk of neural tube defects [see Use in Specific Populations (8.1)].
+
+Advise adolescents and adults of childbearing potential who are taking TIVICAY to consistently use effective contraception.
 
 ## 8.4 Pediatric Use
 

@@ -16,17 +16,24 @@ Hepatotoxicity
 Inform patients that hepatotoxicity has been reported with dolutegravir [see Warnings and Precautions (5.2)].
 Advise patients that laboratory monitoring for hepatoxicity during therapy with TIVICAY is recommended, especially for patients with liver disease, such as hepatitis B or C.
 
+Embryo-Fetal Toxicity
+
+Advise adolescents and adults of childbearing potential to avoid use of TIVICAY at the time of conception through the first trimester of pregnancy.
+Advise adolescents and adults of childbearing potential to contact their healthcare provider if they plan to become pregnant, become pregnant, or if pregnancy is suspected during treatment with TIVICAY [see Warnings and Precaution (5.3)].
+
+Advise adolescents and adults of childbearing potential taking TIVICAY to consistently use effective contraception [see Use in Specific Populations (8.1, 8.3)].
+
 Immune Reconstitution Syndrome
 
-Advise patients to inform their healthcare provider immediately of any signs or symptoms of infection as inflammation from previous infection may occur soon after combination antiretroviral therapy, including when TIVICAY is started [see Warnings and Precautions (5.3)].
+Advise patients to inform their healthcare provider immediately of any signs or symptoms of infection as inflammation from previous infection may occur soon after combination antiretroviral therapy, including when TIVICAY is started [see Warnings and Precautions (5.5)].
 
 Pregnancy Registry
 
-Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to TIVICAY during pregnancy [see Use in Specific Populations (8.1)].
+Inform patients that there is an antiretroviral pregnancy registry to monitor fetal outcomes in those exposed to TIVICAY during pregnancy [see Use in Specific Populations (8.1)].
 
 Lactation
 
-Instruct women with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in the breast milk [see Use in Specific Populations (8.2)].
+Instruct mothers with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in the breast milk [see Use in Specific Populations (8.2)].
 
 Missed Dosage
 
@@ -55,8 +62,8 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2017 ViiV Healthcare group of companies or its licensor.
+©2018 ViiV Healthcare group of companies or its licensor.
 
-TVC:9PI
+TVC:10PI
 
 PHARMACIST‑DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _

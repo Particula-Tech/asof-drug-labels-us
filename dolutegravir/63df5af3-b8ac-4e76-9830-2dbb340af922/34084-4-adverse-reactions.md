@@ -3,8 +3,8 @@
 The following serious adverse drug reactions are discussed in other sections of the labeling:
 
 - •Hypersensitivity reactions [see Warnings and Precautions (5.1)].
-- •Hepatotoxicity [see Warnings and Precautions (5.2)].
-- •Immune Reconstitution Syndrome [see Warnings and Precautions (5.4)].
+- •Hepatotoxicity [see Warnings and Precautions (5.3)].
+- •Immune Reconstitution Syndrome [see Warnings and Precautions (5.5)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -46,8 +46,7 @@ Treatment-Emergent Adverse Reactions of at Least Moderate Intensity (Grades 2 to
 | Fatigue | <1% | <1% | 2% | 2% |
 | Ear and Labyrinth |  |  |  |  |
 | Vertigo | 0 | <1% | 0 | 2% |
-
-a Includes pooled terms: rash, rash generalized, rash macular, rash maculo-papular, rash pruritic, and drug eruption.
+| a Includes pooled terms: rash, rash generalized, rash macular, rash maculo-papular, rash pruritic, and drug eruption. |  |  |  |  |
 
 In addition, Grade 1 insomnia was reported by 1% and less than 1% of subjects receiving TIVICAY and raltegravir, respectively, in SPRING-2; whereas in SINGLE the rates were 7% and 4% for TIVICAY and ATRIPLA, respectively.
 These events were not treatment limiting.
@@ -67,7 +66,7 @@ The rate of adverse events leading to discontinuation was 4% of subjects at Week
 
 Treatment-emergent ARs in VIKING-3 were generally similar compared with observations with the 50-mg once-daily dose in adult Phase 3 trials.
 
-Virologically Suppressed Subjects: The ARs observed for TIVICAY plus rilpivirine in the Week 48 analysis of pooled data from two identical, international, multicenter, open-label trials (SWORD-1 and SWORD-2) of 513 HIV–1-infected, virologically suppressed subjects switching from their current antiretroviral regimen to dolutegravir plus rilpivirine, were consistent with the AR profiles and severities for the individual components when administered with other antiretroviral agents.
+Virologically Suppressed Subjects: The ARs observed for TIVICAY plus rilpivirine in the Week 48 analysis of pooled data from 2 identical, international, multicenter, open-label trials (SWORD-1 and SWORD-2) of 513 HIV–1-infected, virologically suppressed subjects switching from their current antiretroviral regimen to dolutegravir plus rilpivirine, were consistent with the AR profiles and severities for the individual components when administered with other antiretroviral agents.
 There were no ARs (Grades 2 to 4) with an incidence of at least 2% in either treatment arm.
 The rates of adverse events leading to discontinuation were 4% in subjects receiving TIVICAY plus rilpivirine once daily and less than 1% in subjects who remained on their current antiretroviral regimen.
 
@@ -96,46 +95,43 @@ Side-by-side tabulation is to simplify presentation; direct comparisons across t
 Table 4.
 Selected Laboratory Abnormalities (Grades 2 to 4) in Treatment-Naïve Subjects in SPRING-2 (Week 96 Analysis) and SINGLE Trials (Week 144 Analysis)
 
-| Laboratory ParameterPreferred Term | SPRING-2 |  | SINGLE |  |
-| --- | --- | --- | --- | --- |
-| TIVICAY 50 mg Once Daily +2 NRTIs(n = 403) | Raltegravir400 mg Twice Daily + 2 NRTIs(n = 405) | TIVICAY 50 mg + EPZICOM Once Daily(n = 414) | ATRIPLAOnce Daily(n = 419) |  |
-| ALT |  |  |  |  |
-| Grade 2 (>2.5-5.0 x ULN) | 4% | 4% | 3% | 5% |
-| Grade 3 to 4 (>5.0 x ULN) | 2% | 2% | 1% | <1% |
-| AST |  |  |  |  |
-| Grade 2 (>2.5-5.0 x ULN) | 5% | 3% | 3% | 4% |
-| Grade 3 to 4 (>5.0 x ULN) | 3% | 2% | 1% | 3% |
-| Total Bilirubin |  |  |  |  |
-| Grade 2 (1.6-2.5 x ULN) | 3% | 2% | <1% | <1% |
-| Grade 3 to 4 (>2.5 x ULN) | <1% | <1% | <1% | <1% |
-| Creatine kinase |  |  |  |  |
-| Grade 2 (6.0-9.9 x ULN) | 2% | 5% | 5% | 3% |
-| Grade 3 to 4 (≥10.0 x ULN) | 7% | 4% | 7% | 8% |
-| Hyperglycemia |  |  |  |  |
-| Grade 2 (126-250 mg/dL) | 6% | 6% | 9% | 6% |
-| Grade 3 (>250 mg/dL) | <1% | 2% | 2% | <1% |
-| Lipase |  |  |  |  |
-| Grade 2 (>1.5-3.0 x ULN) | 7% | 7% | 11% | 11% |
-| Grade 3 to 4 (>3.0 x ULN) | 2% | 5% | 5% | 4% |
-| Total neutrophils |  |  |  |  |
-| Grade 2 (0.75-0.99 x 109) | 4% | 3% | 4% | 5% |
-| Grade 3 to 4 (<0.75 x 109) | 2% | 2% | 3% | 3% |
-
-ULN = Upper limit of normal.
+| Laboratory ParameterPreferred Term | SPRING-2 |  | SINGLE |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| TIVICAY 50 mg Once Daily +2 NRTIs(n = 403) | Raltegravir400 mg Twice Daily + 2 NRTIs(n = 405) | TIVICAY 50 mg + EPZICOM Once Daily(n = 414) | ATRIPLAOnce Daily(n = 419) |  |  |  |  |  |  |
+| ALT |  |  |  |  |  |  |  |  |  |
+| Grade 2 (>2.5-5.0 x ULN) | 4% | 4% | 3% | 5% |  |  |  |  |  |
+| Grade 3 to 4 (>5.0 x ULN) | 2% | 2% | 1% | <1% |  |  |  |  |  |
+| AST |  |  |  |  |  |  |  |  |  |
+| Grade 2 (>2.5-5.0 x ULN) | 5% | 3% | 3% | 4% |  |  |  |  |  |
+| Grade 3 to 4 (>5.0 x ULN) | 3% | 2% | 1% | 3% |  |  |  |  |  |
+| Total Bilirubin |  |  |  |  |  |  |  |  |  |
+| Grade 2 (1.6-2.5 x ULN) | 3% | 2% | <1% | <1% |  |  |  |  |  |
+| Grade 3 to 4 (>2.5 x ULN) | <1% | <1% | <1% | <1% |  |  |  |  |  |
+| Creatine kinase |  |  |  |  |  |  |  |  |  |
+| Grade 2 (6.0-9.9 x ULN) | 2% | 5% | 5% | 3% |  |  |  |  |  |
+| Grade 3 to 4 (≥10.0 x ULN) | 7% | 4% | 7% | 8% |  |  |  |  |  |
+| Hyperglycemia |  |  |  |  |  |  |  |  |  |
+| Grade 2 (126-250 mg/dL) | 6% | 6% | 9% | 6% |  |  |  |  |  |
+| Grade 3 (>250 mg/dL) | <1% | 2% | 2% | <1% |  |  |  |  |  |
+| Lipase |  |  |  |  |  |  |  |  |  |
+| Grade 2 (>1.5-3.0 x ULN) | 7% | 7% | 11% | 11% |  |  |  |  |  |
+| Grade 3 to 4 (>3.0 x ULN) | 2% | 5% | 5% | 4% |  |  |  |  |  |
+| Total neutrophils |  |  |  |  |  |  |  |  |  |
+| Grade 2 (0.75-0.99 x 109) | 4% | 3% | 4% | 5% |  |  |  |  |  |
+| Grade 3 to 4 (<0.75 x 109) | 2% | 2% | 3% | 3% |  |  |  |  |  |
+| ULN = Upper limit of normal. |  |  |  |  |  |  |  |  |  |
 
 Table 5.
 Mean Change from Baseline in Fasted Lipid Values in Treatment-Naïve Subjects in SPRING-2 (Week 96 Analysisa) and SINGLE Trials (Week 144 Analysisa)
 
-| Laboratory ParameterPreferred Term | SPRING-2 |  | SINGLE |  |
-| --- | --- | --- | --- | --- |
-| TIVICAY 50 mg Once Daily + 2 NRTIs(n = 403) | Raltegravir 400 mg Twice Daily + 2 NRTIs(n = 405) | TIVICAY 50 mg + EPZICOM Once Daily(n = 414) | ATRIPLAOnce Daily(n = 419) |  |
-| Cholesterol (mg/dL) | 8.1 | 10.1 | 24.0 | 26.7 |
-| HDL cholesterol (mg/dL) | 2.0 | 2.3 | 5.4 | 7.2 |
-| LDL cholesterol (mg/dL) | 5.1 | 6.1 | 16.0 | 14.6 |
-| Triglycerides (mg/dL) | 6.7 | 6.6 | 13.6 | 31.9 |
-
-a Subjects on lipid-lowering agents at baseline were excluded from these analyses (19 subjects in each arm in SPRING-2, and in SINGLE: TIVICAY + EPZICOM n = 30 and ATRIPLA n = 27).
-Ninety-four subjects initiated a lipid-lowering agent post-baseline; their last fasted on-treatment values (prior to starting the agent) were used regardless if they discontinued the agent (SPRING-2: TIVICAY n = 9, raltegravir n = 13; SINGLE: TIVICAY + EPZICOM n = 36 and ATRIPLA: n = 36).
+| Laboratory ParameterPreferred Term | SPRING-2 |  | SINGLE |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| TIVICAY 50 mg Once Daily + 2 NRTIs(n = 403) | Raltegravir 400 mg Twice Daily + 2 NRTIs(n = 405) | TIVICAY 50 mg + EPZICOM Once Daily(n = 414) | ATRIPLAOnce Daily(n = 419) |  |  |  |  |  |  |  |  |  |  |  |
+| Cholesterol (mg/dL) | 8.1 | 10.1 | 24.0 | 26.7 |  |  |  |  |  |  |  |  |  |  |
+| HDL cholesterol (mg/dL) | 2.0 | 2.3 | 5.4 | 7.2 |  |  |  |  |  |  |  |  |  |  |
+| LDL cholesterol (mg/dL) | 5.1 | 6.1 | 16.0 | 14.6 |  |  |  |  |  |  |  |  |  |  |
+| Triglycerides (mg/dL) | 6.7 | 6.6 | 13.6 | 31.9 |  |  |  |  |  |  |  |  |  |  |
+| a Subjects on lipid-lowering agents at baseline were excluded from these analyses (19 subjects in each arm in SPRING-2, and in SINGLE: TIVICAY + EPZICOM n = 30 and ATRIPLA n = 27). Ninety-four subjects initiated a lipid-lowering agent post-baseline; their last fasted on-treatment values (prior to starting the agent) were used regardless if they discontinued the agent (SPRING-2: TIVICAY n = 9, raltegravir n = 13; SINGLE: TIVICAY + EPZICOM n = 36 and ATRIPLA: n = 36). |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Laboratory abnormalities observed in the FLAMINGO trial were generally consistent with observations in SPRING-2 and SINGLE.
 
@@ -176,6 +172,10 @@ Because these reactions are reported voluntarily from a population of uncertain 
 Hepatobiliary Disorders
 
 Acute liver failure, hepatotoxicity.
+
+Investigations
+
+Weight increased.
 
 Musculoskeletal
 
