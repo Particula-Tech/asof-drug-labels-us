@@ -323,7 +323,7 @@ The significance of these findings relative to the use of carbamazepine in human
 
 ## Usage in Pregnancy
 
-Carbamazepine can cause fetal harm when administered to a pregnant woman (See WARNINGS)
+(See WARNINGS)
 
 ## Labor and Delivery
 
