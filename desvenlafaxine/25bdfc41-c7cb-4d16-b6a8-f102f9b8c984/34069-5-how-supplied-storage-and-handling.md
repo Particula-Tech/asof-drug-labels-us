@@ -30,8 +30,6 @@ NDC 51991-312-11,carton of 100 (10 x 10)unit-dose tablets
 
 NDC 51991-312-80, carton of 80 (10 x 8)unit-dose tablets
 
-The unit-of-use package is intended to be dispensed as a unit.
-
 Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 
 Each tablet contains 76 mg or 152 mg of desvenlafaxine succinate equivalent to 50 mg or 100 mg of desvenlafaxine, respectively.

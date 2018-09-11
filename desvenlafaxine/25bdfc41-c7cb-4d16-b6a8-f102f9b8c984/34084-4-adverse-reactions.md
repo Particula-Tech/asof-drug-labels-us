@@ -3,10 +3,10 @@
 The following adverse reactions are discussed in greater detail in other sections of the label.
 
 - Hypersensitivity [see Contraindications (4)]
-- Suicidal Thoughts and Behaviors in Adolescents and Young Adults [see Warnings and Precautions (5.1)]
+- Suicidal Thoughts and Behaviors in Pediatric and Young Adult Patients [see Warnings and Precautions (5.1)]
 - Serotonin Syndrome [see Warnings and Precautions (5.2)]
 - Elevated Blood Pressure [see Warnings and Precautions (5.3)]
-- Abnormal Bleeding [see Warnings and Precautions (5.4)]
+- Increased Risk of Bleeding [see Warnings and Precautions (5.4)]
 - Angle Closure Glaucoma [see Warnings and Precautions (5.5)]
 - Activation of Mania/Hypomania [see Warnings and Precautions (5.6)]
 - Discontinuation Syndrome [see Warnings and Precautions (5.7)]
@@ -87,7 +87,7 @@ Sexual function adverse reactions
 
 Table 3 shows the incidence of sexual function adverse reactions that occurred in ≥ 2% of desvenlafaxine treated MDD patients in any fixed-dose group (pre-marketing pooled 8-week, placebo-controlled, fixed -dose, clinical studies).
 
-Table 3: Sexual Function Adverse Reactions (≥ 2% in Men or Women in any desvenlafaxine Group) During the On-Therapy Period
+Table 3: Sexual Function Adverse Reactions (≥ 2% in Men or Women in any Desvenlafaxine Group) During the On-Therapy Period
 
 |  |  | Desvenlafaxine |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -200,6 +200,4 @@ In the pre-marketing short-term, placebo-controlled clinical studies with doses 
 The following adverse reaction has been identified during post-approval use of desvenlafaxine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
-Skin and subcutaneous tissue disorders – Stevens-Johnson syndrome.
-Gastrointestinal disorders – Pancreatitis acute.
-Cardiovascular system – Takotsubo cardiomyopathy.
+Skin and subcutaneous tissue disorders – Stevens-Johnson syndrome Gastrointestinal disorders – Pancreatitis acute Cardiovascular system – Takotsubo cardiomyopathy
