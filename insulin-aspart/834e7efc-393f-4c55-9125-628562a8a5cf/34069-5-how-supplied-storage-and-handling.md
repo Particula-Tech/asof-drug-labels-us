@@ -4,13 +4,13 @@
 
 FIASP (insulin aspart injection) 100 units of insulin aspart per mL (U-100) is available as a clear and colorless solution in:
 
-1. 10 mL multiple-dose vials NDC 0169-3201-11 3 mL single-patient use FIASP FlexTouch Pen NDC 0169-3204-15
+1. 10 mL multiple-dose vials NDC 0169-3201-11 3 mL single-patient use FIASP FlexTouch pen NDC 0169-3204-15The FIASP FlexTouch pen dials in 1 unit increments.
 
 ## 16.2 Recommended Storage
 
 Unused FIASP vials should be stored between 2° to 8°C (36° to 46°F) in a refrigerator, but not in or near a freezing compartment.
 FIASP should not be exposed to excessive heat or light and must never be frozen.
-Do not freeze FIASP and do not use FIASP if it hasbeen frozen.
+Do not freeze FIASP and do not use FIASP if it has been frozen.
 FIASP should not be drawn into a syringe and stored for later use.
 Only use the product if it has a clear and almost colorless appearance.
 

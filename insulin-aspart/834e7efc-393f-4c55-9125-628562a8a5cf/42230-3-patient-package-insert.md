@@ -259,7 +259,7 @@ Revised: 09/2017
 
 Instructions for Use
 
-FIASP® (fee’ asp)FlexTouch® Pen
+FIASP® (fee’ asp) FlexTouch® Pen
 
 (insulin aspart injection)
 
@@ -268,7 +268,7 @@ FIASP® (fee’ asp)FlexTouch® Pen
 - •FIASP FlexTouch Pen (“Pen”) is a prefilled disposable pen containing 300 units of U-100 FIASP (insulin aspart injection).
   You can inject from 1 to 80 units in a single injection.
   The units can be increased by 1 unit at a time.
-- •This Pen is not recommended for use by the blind or visually impaired without the assistance of a person trained in the proper use of the product.
+- •People who are blind or have vision problems should not use the Pen without help from a person trained to use the Pen.
 - •Do not use a syringe to remove FIASP from the FlexTouch Pen.
 
 Supplies you will need to give your FIASP injection:
@@ -379,7 +379,7 @@ Novo Nordisk A/S
 
 DK-2880 Bagsvaerd, Denmark
 
-Revised: July/2018
+Revised: 09/2018
 
 For more information go to
 

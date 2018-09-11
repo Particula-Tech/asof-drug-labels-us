@@ -67,7 +67,7 @@ Pharmacokinetic/pharmacodynamic study to assess the effect of age on the onset o
 
 ## 8.6 Renal Impairment
 
-Patients with renal impairment may be at increased risk of hypoglycemia and may require more frequent FIASP dose adjustment and more frequent blood glucose monitoring [see Warnings and Precautions (5.3) andClinical Pharmacology (12.3)].
+Patients with renal impairment may be at increased risk of hypoglycemia and may require more frequent FIASP dose adjustment and more frequent blood glucose monitoring [see Warnings and Precautions (5.3) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 

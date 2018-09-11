@@ -41,15 +41,15 @@ Patients must be advised that FIASP must NOT be diluted or mixed with any other 
 
 Instruct patients on basal-bolus treatment who forget a mealtime dose to monitor their blood glucose level to decide if an insulin dose is needed, and to resume their usual dosing schedule at the next meal.
 
-Date of Issue: September 2017
+Date of Issue: 09/2018
 
-Version: 1
+Version: 2
 
 Novo Nordisk®, FIASP®, NovoLog®, FlexTouch®, NovoFine®, and NovoTwist® are registered trademarks of Novo Nordisk A/S.
 
 PATENT Information: http://novonordisk-us.com/patients/products/product-patents.html
 
-© 2017 Novo Nordisk A/S
+© 2018 Novo Nordisk A/S
 
 Manufactured by: Novo Nordisk A/S DK-2880 Bagsvaerd, Denmark
 

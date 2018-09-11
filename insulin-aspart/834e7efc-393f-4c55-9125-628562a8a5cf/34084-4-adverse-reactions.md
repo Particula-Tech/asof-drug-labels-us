@@ -46,7 +46,7 @@ Adverse Reactions (%*) in Patients with Type 2 Diabetes
 
 Hypoglycemia
 
-Hypoglycemia is the most commonly observed adverse reaction in patients using insulin, including FIASP[see Warnings and Precautions (5.3)].
+Hypoglycemia is the most commonly observed adverse reaction in patients using insulin, including FIASP [see Warnings and Precautions (5.3)].
 The rates of reported hypoglycemia depend on the definition of hypoglycemia used, diabetes type, insulin dose, intensity of glucose control, background therapies, and other intrinsic and extrinsic patient factors.
 For these reasons, comparing rates of hypoglycemia in clinical trials for FIASP with the incidence of hypoglycemia for other products may be misleading and also, may not be representative of hypoglycemia rates that occur in clinical practice.
 

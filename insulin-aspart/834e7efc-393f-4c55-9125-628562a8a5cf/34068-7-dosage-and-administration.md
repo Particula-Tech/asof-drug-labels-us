@@ -6,6 +6,8 @@
 - •Inspect visually for particulate matter and discoloration.
   Only use FIASP if the solution appears clear and colorless.
 - •Train patients on proper use and injection technique before initiating FIASP.
+- •Use FIASP FlexTouch pen with caution in patients with visual impairment that may rely
+- on audible clicks to dial their dose.
 - •DO NOT administer FIASP intramuscularly.
 - •DO NOT dilute or mix FIASP with any other insulin products or solutions, except infusion fluids.
 
@@ -20,6 +22,7 @@ Subcutaneous Injection:
 - •Rotate injection sites within the same region from one injection to the next to reduce the risk of lipodystrophy [see Adverse Reactions (6.1)].
 - •FIASP given by subcutaneous injection should generally be used in regimens with intermediate or long-acting insulin [see Warnings and Precautions (5.2)].
 - •Instruct patients on basal-bolus treatment who forget a mealtime dose to monitor their blood glucose level to decide if an insulin dose is needed, and to resume their usual dosing schedule at the next meal.
+- •The FIASP FlexTouch pen dials in 1 unit increments.
 
 Intravenous Administration:
 
