@@ -23,13 +23,24 @@ Cases of hepatic toxicity including elevated serum liver biochemistries and hepa
 Drug-induced liver injury leading to acute liver failure has been reported with dolutegravir-containing products, including liver transplant with TRIUMEQ (abacavir, dolutegravir, and lamivudine).
 Monitoring for hepatotoxicity is recommended.
 
-## 5.3 Depressive Disorders
+## 5.3 Embryo-Fetal Toxicity
+
+Preliminary data from an observational study showed that dolutegravir, a component of JULUCA, was associated with increased risk of neural tube defects when administered at the time of conception and in early pregnancy.
+As there is limited understanding of reported types of neural tube defects associated with dolutegravir use and because the date of conception may not be determined with precision, avoid use of JULUCA at the time of conception through the first trimester of pregnancy [see Use in Specific Populations (8.1)].
+
+If there are plans to become pregnant or if pregnancy is confirmed within the first trimester while on JULUCA, if possible, switch to an alternative regimen.
+
+Perform pregnancy testing before initiation of JULUCA in adolescents and adults of childbearing potential to exclude use of JULUCA during the first trimester of pregnancy [see Dosage and Administration (2.1)].
+
+Advise adolescents and adults of childbearing potential to consistently use effective contraception [see Use in Specific Populations (8.1, 8.3)].
+
+## 5.4 Depressive Disorders
 
 Depressive disorders (including depressed mood, depression, dysphoria, major depression, mood altered, negative thoughts, suicide attempt, and suicidal ideation) have been reported with rilpivirine [see Adverse Reactions (6.1)].
-For information regarding depressive disorders reported in patients taking dolutegravir, [see Adverse Reactions (6.1)].
+For information regarding depressive disorders reported in patients taking dolutegravir, see Adverse Reactions (6.1).
 Promptly evaluate patients with severe depressive symptoms to assess whether the symptoms are related to JULUCA and to determine whether the risks of continued therapy outweigh the benefits.
 
-## 5.4 Risk of Adverse Reactions or Loss of Virologic Response Due to Drug Interactions
+## 5.5 Risk of Adverse Reactions or Loss of Virologic Response Due to Drug Interactions
 
 The concomitant use of JULUCA and other drugs may result in known or potentially significant drug interactions, some of which may lead to [see Contraindications (4), Drug Interactions (7.4)]:
 

@@ -12,7 +12,7 @@ The effect of JULUCA on the QT interval has not been studied.
 
 In a randomized, placebo-controlled, crossover trial, 42 healthy subjects received single-dose oral administration of placebo, dolutegravir 250-mg suspension (exposures approximately 3–fold of the 50-mg once-daily dose at steady state), and moxifloxacin 400 mg (active control) in random sequence.
 After baseline and placebo adjustment, the maximum mean QTc change based on Fridericia correction method (QTcF) for dolutegravir was 2.4 msec (1-sided 95% upper CI: 4.9 msec).
-Dolutegravir did not prolong the QTc interval over 24 hours post-dose.
+Dolutegravir did not prolong the QTc interval over 24 hours postdose.
 
 The effect of rilpivirine at the recommended dose of 25 mg once daily on the QTcF interval was evaluated in a randomized, placebo- and active- (moxifloxacin 400 mg once daily) controlled crossover study in 60 healthy adults, with 13 measurements over 24 hours at steady state.
 The maximum mean time-matched (95% upper confidence bound) differences in QTcF interval from placebo after baseline correction was 2.0 (5.0) milliseconds (i.e., below the threshold of clinical concern).
@@ -52,22 +52,17 @@ Pharmacokinetic Properties of the Components of JULUCA
 | t1/2 (h) | 14 | 50 |
 | % of dose excreted as total 14C (unchanged drug) in urineb | 31 (<1) | 6.5 (<1) |
 | % of dose excreted as total 14C (unchanged drug) in fecesb | 64 (53) | 85 (25) |
-
-a Geometric mean ratio (fed/fasted) in PK parameters and (90% confidence interval).
-High-calorie/high-fat meal = ~900 kcal, 56% fat.
-Moderate-fat meal = ~625 kcal, 32% fat.
-When rilpivirine was taken with only a protein-rich nutritional drink, exposures were 50% lower than when taken with a meal. b Dosing in mass balance studies: single-dose administration of [14C] dolutegravir or [14C] rilpivirine.
+| a Geometric mean ratio (fed/fasted) in PK parameters and (90% confidence interval). High-calorie/high-fat meal = ~900 kcal, 56% fat. Moderate-fat meal = ~625 kcal, 32% fat. When rilpivirine was taken with only a protein-rich nutritional drink, exposures were 50% lower than when taken with a meal. b Dosing in mass balance studies: single-dose administration of [14C] dolutegravir or [14C] rilpivirine. |  |  |
 
 Table 6.
 Multiple-Dose Pharmacokinetic Properties of the Components of JULUCA
 
-| Parameter Mean (CV%) | Dolutegravira | Rilpivirinea |
-| --- | --- | --- |
-| Cmax (mcg/mL) | 3.67 (20) | 0.13 (54)b |
-| AUCtau (mcg/h/mL) | 53.6 (27) | 2.2 (38) |
-| Ctrough (mcg/mL) | 1.11 (46) | 0.08 (44) |
-
-a Based on population pharmacokinetic analyses using pooled data from ART treatment-naïve adults receiving 50 mg dolutegravir once daily or 25 mg rilpivirine once daily. b Observed Cmax in a pharmacokinetic substudy in ART treatment-naïve adults receiving 25 mg rilpivirine once daily.
+| Parameter Mean (CV%) | Dolutegravira | Rilpivirinea |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Cmax (mcg/mL) | 3.67 (20) | 0.13 (54)b |  |  |  |
+| AUCtau (mcg/h/mL) | 53.6 (27) | 2.2 (38) |  |  |  |
+| Ctrough (mcg/mL) | 1.11 (46) | 0.08 (44) |  |  |  |
+| a Based on population pharmacokinetic analyses using pooled data from ART treatment-naïve adults receiving 50 mg dolutegravir once daily or 25 mg rilpivirine once daily. b Observed Cmax in a pharmacokinetic substudy in ART treatment-naïve adults receiving 25 mg rilpivirine once daily. |  |  |  |  |  |
 
 Specific Populations
 
@@ -102,8 +97,7 @@ In vitro, dolutegravir did not induce CYP1A2, CYP2B6, or CYP3A4.
 
 In vitro, dolutegravir inhibited the renal OCT2 (IC50 = 1.93 microM) and MATE1 (IC50 = 6.34 microM).
 In vivo, dolutegravir inhibits tubular secretion of creatinine by inhibiting OCT2 and potentially MATE1.
-Dolutegravir may increase plasma concentrations of drugs eliminated via OCT2 or MATE1 such as dofetilide and metformin.
-[see Contraindications (4), Drug Interactions (7.4)].
+Dolutegravir may increase plasma concentrations of drugs eliminated via OCT2 or MATE1 such as dofetilide and metformin [see Contraindications (4), Drug Interactions (7.4)].
 
 In vitro, dolutegravir inhibited the basolateral renal transporters, organic anion transporter (OAT)1 (IC50 = 2.12 microM) and OAT3 (IC50 = 1.97 microM).
 However, in vivo, dolutegravir did not alter the plasma concentrations of tenofovir or para-amino hippurate, substrates of OAT1 and OAT3.
@@ -197,7 +191,7 @@ Summary of Effect of Coadministered Drugs on the Pharmacokinetics of Rilpivirine
 | Famotidine 40 mg single dose taken 2 hours before rilpivirine | 150 mgsingle dosea | 23 | 0.15(0.12 to 0.19) | 0.24(0.20 to 0.28) | NA |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Famotidine 40 mg single dose taken 4 hours after rilpivirine | 150 mgsingle dosea | 24 | 1.21(1.06 to 1.39) | 1.13(1.01 to 1.27) | NA |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Ketoconazole 400 mg once daily | 150 mgonce dailyb | 15 | 1.30(1.13 to 1.48) | 1.49(1.31 to 1.70) | 1.76(1.57 to 1.97) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Methadone 60-100 mg once daily, individualised dose | 25 mgonce daily | 12 | ↔b | ↔b | ↔b |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Methadone 60-100 mg once daily, individualized dose | 25 mgonce daily | 12 | ↔b | ↔b | ↔b |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Omeprazole 20 mg once daily | 150 mgonce dailya | 16 | 0.60(0.48 to 0.73) | 0.60(0.51 to 0.71) | 0.67(0.58 to 0.78) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Rifabutin 300 mg once daily | 25 mgonce daily | 18 | 0.69(0.62 to 0.76) | 0.58(0.52 to 0.65) | 0.52(0.46 to 0.59) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Rifabutin 300 mg once daily | 50 mgonce daily | 18 | 1.43(1.30 to 1.56) | 1.16(1.06 to 1.26) | 0.93(0.85 to 1.01) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -250,7 +244,7 @@ Dolutegravir: The susceptibility of dolutegravir was tested against 60 INSTI-res
 The single INSTI-resistance substitutions T66K, I151L, and S153Y conferred a greater than 2-fold decrease in dolutegravir susceptibility (range: 2.3-fold to 3.6-fold from reference).
 Combinations of multiple substitutions T66K/L74M; E92Q/N155H; G140C/Q148R; G140S/Q148H, R or K; Q148R/N155H; T97A/G140S/Q148, and substitutions at E138/G140/Q148 showed a greater than 2-fold decrease in dolutegravir susceptibility (range: 2.5-fold to 21-fold from reference).
 
-Rilpivirine: Considering all of the available cell culture and clinical data, any of the following amino acid substitutions, when present at baseline, are likely to decrease the antiviral activity of rilpivirine: K101E, K101P, E138A, E138G, E138K, E138R, E138Q, V179L, Y181C, Y181I, Y181V, Y188L, H221Y, F227C, M230I, or M230L.
+Rilpivirine: Considering all of the available cell culture and clinical data, any of the following amino acid substitutions, when present at baseline, are likely to decrease the antiviral activity of rilpivirine: K101E or P; E138A, G, K, R, or Q; V179L; Y181C, I, or V; Y188L; H221Y; F227C; M230I or L.
 
 Cross-resistance in site-directed mutant virus has been observed among NNRTIs.
 The single NNRTI substitutions K101P, Y181I, and Y181V conferred 52 times, 15 times, and 12 times decreased susceptibility to rilpivirine, respectively.

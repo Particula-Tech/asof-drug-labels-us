@@ -13,10 +13,17 @@ Hepatotoxicity
 Inform patients that hepatotoxicity has been reported with rilpivirine and dolutegravir, components of JULUCA [see Warnings and Precautions (5.2), Adverse Reactions (6.1)].
 Inform patients that monitoring for hepatotoxicity is recommended.
 
+Embryo-Fetal Toxicity
+
+Advise adolescents and adults of childbearing potential to avoid use of JULUCA at the time of conception through the first trimester of pregnancy.
+Advise adolescents and adults of childbearing potential to contact their healthcare provider if they plan to become pregnant, become pregnant, or if pregnancy is suspected during treatment with JULUCA [see Warnings and Precaution (5.3)].
+
+Advise adolescents and adults of childbearing potential taking JULUCA to consistently use effective contraception [see Use in Specific Populations (8.1, 8.3)].
+
 Depressive Disorders
 
 Inform patients that depressive disorders (depressed mood, depression, dysphoria, major depression, mood altered, negative thoughts, suicide attempt, suicidal ideation) have been reported with the components of JULUCA.
-Advise patients to seek immediate medical evaluation if they experience depressive symptoms [see Warnings and Precautions (5.3), Adverse Reactions (6.1)].
+Advise patients to seek immediate medical evaluation if they experience depressive symptoms [see Warnings and Precautions (5.4), Adverse Reactions (6.1)].
 
 Drug Interactions
 
@@ -31,16 +38,16 @@ Advise the patient a protein drink alone does not replace a meal [see Clinical P
 
 Pregnancy Registry
 
-Inform patients that there is an antiretroviral pregnancy registry to monitor fetal outcomes of pregnant women exposed to JULUCA [see Use in Specific Populations (8.1)].
+Inform patients that there is an antiretroviral pregnancy registry to monitor fetal outcomes in those exposed to JULUCA during pregnancy [see Use in Specific Populations (8.1)].
 
 Lactation
 
-Instruct women with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in the breast milk [see Use in Specific Populations (8.2)].
+Instruct mothers with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in the breast milk [see Use in Specific Populations (8.2)].
 
 Storage
 
 Instruct patients to store JULUCA in the original bottle to protect from moisture and keep the bottle tightly closed.
-Do not remove desiccant [see How Supplied/Storage and Handling (16).]
+Do not remove desiccant [see How Supplied/Storage and Handling (16)].
 
 JULUCA, TIVICAY, and TRIUMEQ are trademarks owned by or licensed to the ViiV Healthcare group of companies.
 
@@ -55,6 +62,6 @@ by:
 
 GlaxoSmithKline Research Triangle Park, NC 27709
 
-©2017 ViiV Healthcare group of companies or its licensor.
+©2018 ViiV Healthcare group of companies or its licensor.
 
-JLC:2PI
+JLC:3PI
