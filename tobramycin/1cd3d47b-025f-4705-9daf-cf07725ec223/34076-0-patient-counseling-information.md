@@ -64,6 +64,6 @@ Rx Only U.S. Patent 6,987,094.
 
 Manufactured for Chiesi USA, Inc. by Catalent Pharma Solutions, LLC Woodstock, Illinois 60098
 
-© Chiesi USA, Inc. 2017 Printed in USA
+© Chiesi USA, Inc. 2018 Printed in USA
 
-CTB-004-0416-04B-SPL
+CTB-004-0416-04B-SPL-1
