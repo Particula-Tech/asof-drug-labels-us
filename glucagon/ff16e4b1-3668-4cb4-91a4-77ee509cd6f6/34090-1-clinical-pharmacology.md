@@ -15,7 +15,9 @@ Blood glucose concentration rises within 10 minutes of injection and maximal con
 The duration of hyperglycemic action after intravenous or intramuscular injection is 60 – 90 minutes.
 
 Figure 1.
-Recovery from Insulin Induced Hypoglycemia (mean blood glucose) After Intramuscular Injection of 1 mg GlucaGen in Type I Diabetic Men
+Recovery from Insulin Induced Hypoglycemia (mean blood glucose) after Intramuscular Injection of
+
+1 mg GlucaGen in Type I Diabetic Men
 
 For use as a diagnostic aid:
 
