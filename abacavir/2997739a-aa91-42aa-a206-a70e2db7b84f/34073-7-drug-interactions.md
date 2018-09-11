@@ -45,19 +45,18 @@ Established and Other Potentially Significant Drug Interactions for Dolutegravir
 | --- | --- | --- |
 | HIV-1 Antiviral Agents |  |  |
 | Antiarrhythmic: Dofetilide | ↑Dofetilide | Coadministration is contraindicated with TRIUMEQ [see Contraindications (4)]. |
-| Non-nucleoside reverse transcriptase inhibitor:Etravirinea | ↓Dolutegravir | Use of TRIUMEQ with etravirine without coadministration of atazanavir/ritonavir, darunavir/ritonavir, or lopinavir/ritonavir is not recommended. |
-| Non-nucleoside reverse transcriptase inhibitor:Efavirenza | ↓Dolutegravir | Adjust dolutegravir dose to 50 mg twice daily. An additional 50-mg dose of dolutegravir should be taken, separated by 12 hours from TRIUMEQ. |
-| Non-nucleoside reverse transcriptase inhibitor:Nevirapine | ↓Dolutegravir | Avoid coadministration with TRIUMEQ because there are insufficient data to make dosing recommendations. |
-| Protease inhibitor:Fosamprenavir/ritonavira Tipranavir/ritonavira | ↓Dolutegravir | Adjust dolutegravir dose to 50 mg twice daily. An additional dolutegravir 50-mg dose should be taken, separated by 12 hours from TRIUMEQ. |
+| Non-nucleoside reverse transcriptase inhibitor: Etravirinea | ↓Dolutegravir | Use of TRIUMEQ with etravirine without coadministration of atazanavir/ritonavir, darunavir/ritonavir, or lopinavir/ritonavir is not recommended. |
+| Non-nucleoside reverse transcriptase inhibitor: Efavirenza | ↓Dolutegravir | Adjust dolutegravir dose to 50 mg twice daily. An additional 50-mg dose of dolutegravir should be taken, separated by 12 hours from TRIUMEQ. |
+| Non-nucleoside reverse transcriptase inhibitor: Nevirapine | ↓Dolutegravir | Avoid coadministration with TRIUMEQ because there are insufficient data to make dosing recommendations. |
+| Protease inhibitor: Fosamprenavir/ritonavira Tipranavir/ritonavira | ↓Dolutegravir | Adjust dolutegravir dose to 50 mg twice daily. An additional dolutegravir 50-mg dose should be taken, separated by 12 hours from TRIUMEQ. |
 | Other Agents |  |  |
 | Carbamazepinea | ↓Dolutegravir | Adjust dolutegravir dose to 50 mg twice daily. An additional dolutegravir 50-mg dose should be taken, separated by 12 hours from TRIUMEQ. |
 | Oxcarbazepine Phenytoin Phenobarbital St. John’s wort (Hypericum perforatum) | ↓Dolutegravir | Avoid coadministration with TRIUMEQ because there are insufficient data to make dosing recommendations. |
-| Medications containing polyvalent cations (e.g., Mg or Al):Cation-containing antacidsa or laxatives SucralfateBuffered medications | ↓Dolutegravir | Administer TRIUMEQ 2 hours before or 6 hours after taking medications containing polyvalent cations. |
+| Medications containing polyvalent cations (e.g., Mg or Al): Cation-containing antacidsa or laxatives Sucralfate Buffered medications | ↓Dolutegravir | Administer TRIUMEQ 2 hours before or 6 hours after taking medications containing polyvalent cations. |
 | Oral calcium and iron supplements, including multivitamins containing calcium or irona | ↓Dolutegravir | Administer TRIUMEQ 2 hours before or 6 hours after taking supplements containing calcium or iron. Alternatively, TRIUMEQ and supplements containing calcium or iron can be taken together with food. |
 | Metformina | ↑Metformin | With concomitant use, limit the total daily dose of metformin to 1,000 mg either when starting metformin or TRIUMEQ. When stopping TRIUMEQ, the metformin dose may require an adjustment. Monitoring of blood glucose when initiating concomitant use and after withdrawal of TRIUMEQ is recommended. |
 | Rifampina | ↓Dolutegravir | Adjust dolutegravir dose to 50 mg twice daily. An additional 50-mg dose of dolutegravir should be taken, separated by 12 hours from TRIUMEQ. |
-
-a See Clinical Pharmacology (12.3) Table 8 or Table 9 for magnitude of interaction.
+| a See Clinical Pharmacology (12.3) Table 8 or Table 9 for magnitude of interaction. |  |  |
 
 Methadone
 

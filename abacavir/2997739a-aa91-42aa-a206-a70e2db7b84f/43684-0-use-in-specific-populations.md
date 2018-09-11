@@ -4,30 +4,39 @@
 
 Pregnancy Exposure Registry
 
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to TRIUMEQ during pregnancy.
-Healthcare providers are encouraged to register patients by calling the Antiretroviral Pregnancy Registry (APR) 1‑800‑258‑4263.
+There is a pregnancy exposure registry that monitors pregnancy outcomes in individuals exposed to TRIUMEQ during pregnancy.
+Healthcare providers are encouraged to register patients by calling the Antiretroviral Pregnancy Registry (APR) at 1‑800‑258‑4263.
 
 Risk Summary
 
-There are insufficient human data on the use of TRIUMEQ during pregnancy to inform a drug-associated risk of birth defects and miscarriage.
-Given the limited number of pregnancies exposed to dolutegravir-based regimens reported to the APR, no definitive conclusions can be drawn on the safety of TRIUMEQ in pregnancy, and continued monitoring is ongoing through the APR.
+Preliminary data from an observational study has identified a possible increased risk of neural tube defects when dolutegravir, a component of TRIUMEQ, is administered at the time of conception compared with non-dolutegravir-containing antiretroviral regimens.
+As defects related to closure of the neural tube occur from conception through the first 6 weeks of gestation, embryos exposed to dolutegravir from the time of conception through the first 6 weeks of gestation are at potential risk.
+In addition, 2 of the 4 birth defects (encephalocele and iniencephaly), which have been observed with dolutegravir use, although often termed neural tube defects, may occur post-neural tube closure, the time period of which may be later than 6 weeks of gestation, but within the first trimester.
+Due to the limited understanding of the types of reported neural tube defects associated with dolutegravir use and because the date of conception may not be determined with precision, avoid use of TRIUMEQ at the time of conception through the first trimester of pregnancy.
+No neural tube defects have been reported in infants born to mothers who have started dolutegravir after the first trimester of pregnancy (see Data).
 
-Available data from the APR show no difference in the overall risk of birth defects for abacavir or lamivudine compared with the background rate for birth defects of 2.7% in the Metropolitan Atlanta Congenital Defects Program (MACDP) reference population (see Data).
-The APR uses the MACDP as the U.S. reference population for birth defects in the general population.
-The MACDP evaluates women and infants from a limited geographic area and does not include outcomes for births that occurred at less than 20 weeks’ gestation.
-The rate of miscarriage is not reported in the APR.
-The estimated background rate of miscarriage in clinically recognized pregnancies in the U.S. general population is 15% to 20%.
-The background risk for major birth defects and miscarriage for the indicated population is unknown.
+If there are plans to become pregnant or if pregnancy is confirmed while on TRIUMEQ during the first trimester, if possible, switch to an alternative regimen.
+Advise pregnant adolescents and adults of the potential risk to the embryo exposed to TRIUMEQ from the time of conception through the first trimester of pregnancy.
 
-In animal reproduction studies, no evidence of adverse developmental outcomes was observed with dolutegravir (see Data).
-During organogenesis in the rat and rabbit and a rat pre/postnatal developmental study, systemic exposures (AUC) to dolutegravir were less than (rabbits) and approximately 50 times (rats) the exposure in humans at the recommended human dose (RHD).
+There are insufficient human data on the use of TRIUMEQ during pregnancy to definitively assess a drug-associated risk for birth defects and miscarriage.
+The background risk for major birth defects for the indicated population is unknown.
+In the U.S. general population, the estimated background rate for major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+In animal reproduction studies, no evidence of adverse developmental outcomes was observed with dolutegravir at systemic exposures (AUC) less than (rabbits) and approximately 50 times (rats) the exposure in humans at the recommended human dose (RHD) (see Data).
 Oral administration of abacavir to pregnant rats during organogenesis resulted in fetal malformations and other embryonic and fetal toxicities at exposures 35 times the human exposure (AUC) at the RHD.
 No adverse developmental effects were observed following oral administration of abacavir to pregnant rabbits during organogenesis at exposures approximately 9 times the human exposure (AUC) at the RHD.
 Oral administration of lamivudine to pregnant rabbits during organogenesis resulted in embryolethality at a human exposure (AUC) similar to the RHD; however, no adverse development effects were observed with oral administration of lamivudine to pregnant rats during organogenesis at plasma concentrations (Cmax) 35 times the RHD (see Data).
 
 Data
 
-Human Data: Abacavir: Based on prospective reports to the APR of over 2,000 exposures to abacavir during pregnancy resulting in live births (including over 1,000 exposed in the first trimester), there was no difference between the overall risk of birth defects for abacavir compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
+Human Data: Dolutegravir: As of May 2018, in an ongoing birth outcome surveillance study in Botswana, there have been 4 cases of neural tube defects reported out of 426 births (0.94%) to mothers who were exposed to dolutegravir-containing regimens at the time of conception.
+In comparison, the neural tube defect prevalence rates were 0.12% (14/11,300) in the non-dolutegravir arm and 0.09% (61/66,057) in the HIV-uninfected arm.
+Four cases reported with dolutegravir included one case each of encephalocele, anencephaly, myelomeningocele, and iniencephaly.
+No infant born to a woman who started dolutegravir during pregnancy had a neural tube defect (n = 2,812).
+
+Data analyzed to date from other sources including the APR, clinical trials, and postmarketing data are insufficient to address the risk of neural tube defects with dolutegravir.
+
+Abacavir: Based on prospective reports to the APR of over 2,000 exposures to abacavir during pregnancy resulting in live births (including over 1,000 exposed in the first trimester), there was no difference between the overall risk of birth defects for abacavir compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
 The prevalence of defects in live births was 2.9% (95% CI: 2.0% to 4.1%) following first trimester exposure to abacavir-containing regimens and 2.7% (95% CI: 1.9% to 3.7%) following second/third trimester exposure to abacavir-containing regimens.
 
 Abacavir has been shown to cross the placenta and concentrations in neonatal plasma at birth were essentially equal to those in maternal plasma at delivery [see Clinical Pharmacology (12.3)].
@@ -64,15 +73,29 @@ In the study, development of the offspring, including fertility and reproductive
 
 ## 8.2 Lactation
 
+Risk Summary
+
 The Centers for Disease Control and Prevention recommends that HIV‑1‑infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV‑1 infection.
 Abacavir and lamivudine are present in human milk.
 When administered to lactating rats, dolutegravir was present in milk (see Data).
 There is no information on the effects of TRIUMEQ or its components on the breastfed infant or the effects of the drug on milk production.
-Because of the potential for (1) HIV‑1 transmission (in HIV-negative infants), (2) developing viral resistance (in HIV-positive infants), and (3) adverse reactions in a breastfed infant, instruct mothers not to breastfeed if they are receiving TRIUMEQ.
+Because of the potential for (1) HIV‑1 transmission (in HIV-negative infants), (2) developing viral resistance (in HIV-positive infants), and (3) adverse reactions in a breastfed infant similar to those seen in adults, instruct mothers not to breastfeed if they are receiving TRIUMEQ.
 
 Data
 
-Animal Data: Dolutegravir was the primary drug-related component excreted into the milk of lactating rats following a single oral dose of 50 mg per kg on lactation Day 10, with milk concentrations of up to approximately 1.3 times that of maternal plasma concentrations observed 8 hours’ post-dose.
+Animal Data: Dolutegravir was the primary drug-related component excreted into the milk of lactating rats following a single oral dose of 50 mg per kg on lactation Day 10, with milk concentrations of up to approximately 1.3 times that of maternal plasma concentrations observed 8 hours postdose.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Pregnancy Testing
+
+Perform pregnancy testing in adolescents and adults of childbearing potential before initiation of TRIUMEQ.
+
+Contraception
+
+Adolescents and adults of childbearing potential should avoid use of TRIUMEQ at the time of conception through the first trimester of pregnancy because of the potential risk of neural tube defects [see Use in Specific Populations (8.1)].
+
+Advise adolescents and adults of childbearing potential who are taking TRIUMEQ to consistently use effective contraception.
 
 ## 8.4 Pediatric Use
 

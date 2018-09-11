@@ -3,12 +3,12 @@
 The following adverse reactions are discussed in other sections of the labeling:
 
 - •Serious and sometimes fatal hypersensitivity reaction [see Boxed Warning, Warnings and Precautions (5.1)].
-- •Exacerbations of hepatitis B [see Boxed Warning, Warnings and Precautions (5.2)].
+- •Exacerbations of hepatitis B [see Boxed Warning, Warnings and Precautions (5.3)].
 - •Hepatotoxicity [see Warnings and Precautions (5.4)].
 - •Lactic acidosis and severe hepatomegaly with steatosis [see Warnings and Precautions (5.5)].
-- •Hepatic decompensation in patients co-infected with HIV-1 and Hepatitis C [see Warnings and Precautions (5.7)].
-- •Immune reconstitution syndrome [see Warnings and Precautions (5.8)].
-- •Myocardial infarction [see Warnings and Precautions (5.9)].
+- •Hepatic decompensation in patients co-infected with HIV-1 and Hepatitis C [see Warnings and Precautions (5.8)].
+- •Immune reconstitution syndrome [see Warnings and Precautions (5.9)].
+- •Myocardial infarction [see Warnings and Precautions (5.10)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -58,8 +58,7 @@ Treatment-Emergent Adverse Drug Reactions of at Least Moderate Intensity (Grades
 | Rasha | <1% | 6% |
 | Ear and Labyrinth |  |  |
 | Vertigo | 0 | 2% |
-
-a Includes pooled terms: rash, rash generalized, rash macular, rash maculo-papular, rash pruritic, and drug eruption.
+| a Includes pooled terms: rash, rash generalized, rash macular, rash maculo-papular, rash pruritic, and drug eruption. |  |  |
 
 Treatment-Experienced Subjects: SAILING is an international, double-blind trial in INSTI-naïve, antiretroviral treatment-experienced adult subjects.
 Subjects were randomized and received either TIVICAY 50 mg once daily or raltegravir 400 mg twice daily with investigator-selected background regimen consisting of up to 2 agents, including at least one fully active agent.
@@ -97,41 +96,38 @@ The mean change from baseline observed for selected lipid values is presented in
 Table 3.
 Selected Laboratory Abnormalities (Grades 2 to 4) in Treatment-Naïve Subjects in SINGLE (Week 144 Analysis)
 
-| Laboratory Abnormality | TIVICAY + EPZICOM Once Daily(n = 414) | ATRIPLAOnce Daily(n = 419) |
-| --- | --- | --- |
-| ALT |  |  |
-| Grade 2 (>2.5-5.0 x ULN) | 3% | 5% |
-| Grade 3 to 4 (>5.0 x ULN) | 1% | <1% |
-| AST |  |  |
-| Grade 2 (>2.5-5.0 x ULN) | 3% | 4% |
-| Grade 3 to 4 (>5.0 x ULN) | 1% | 3% |
-| Creatine kinase |  |  |
-| Grade 2 (6.0-9.9 x ULN) | 5% | 3% |
-| Grade 3 to 4 (≥10.0 x ULN) | 7% | 8% |
-| Hyperglycemia |  |  |
-| Grade 2 (126-250 mg/dL) | 9% | 6% |
-| Grade 3 (>250 mg/dL) | 2% | <1% |
-| Lipase |  |  |
-| Grade 2 (>1.5-3.0 x ULN) | 11% | 11% |
-| Grade 3 to 4 (>3.0 ULN) | 5% | 4% |
-| Total neutrophils |  |  |
-| Grade 2 (0.75-0.99 x 109) | 4% | 5% |
-| Grade 3 to 4 (<0.75 x 109) | 3% | 3% |
-
-ULN = Upper limit of normal.
+| Laboratory Abnormality | TIVICAY + EPZICOM Once Daily(n = 414) | ATRIPLAOnce Daily(n = 419) |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| ALT |  |  |  |  |  |
+| Grade 2 (>2.5-5.0 x ULN) | 3% | 5% |  |  |  |
+| Grade 3 to 4 (>5.0 x ULN) | 1% | <1% |  |  |  |
+| AST |  |  |  |  |  |
+| Grade 2 (>2.5-5.0 x ULN) | 3% | 4% |  |  |  |
+| Grade 3 to 4 (>5.0 x ULN) | 1% | 3% |  |  |  |
+| Creatine kinase |  |  |  |  |  |
+| Grade 2 (6.0-9.9 x ULN) | 5% | 3% |  |  |  |
+| Grade 3 to 4 (≥10.0 x ULN) | 7% | 8% |  |  |  |
+| Hyperglycemia |  |  |  |  |  |
+| Grade 2 (126-250 mg/dL) | 9% | 6% |  |  |  |
+| Grade 3 (>250 mg/dL) | 2% | <1% |  |  |  |
+| Lipase |  |  |  |  |  |
+| Grade 2 (>1.5-3.0 x ULN) | 11% | 11% |  |  |  |
+| Grade 3 to 4 (>3.0 ULN) | 5% | 4% |  |  |  |
+| Total neutrophils |  |  |  |  |  |
+| Grade 2 (0.75-0.99 x 109) | 4% | 5% |  |  |  |
+| Grade 3 to 4 (<0.75 x 109) | 3% | 3% |  |  |  |
+| ULN = Upper limit of normal. |  |  |  |  |  |
 
 Table 4.
 Mean Change from Baseline in Fasted Lipid Values in Treatment-Naïve Subjects in SINGLE (Week 144 Analysisa)
 
-| Lipid | TIVICAY + EPZICOM Once Daily(n = 414) | ATRIPLAOnce Daily(n = 419) |
-| --- | --- | --- |
-| Cholesterol (mg/dL) | 24.0 | 26.7 |
-| HDL cholesterol (mg/dL) | 5.4 | 7.2 |
-| LDL cholesterol (mg/dL) | 16.0 | 14.6 |
-| Triglycerides (mg/dL) | 13.6 | 31.9 |
-
-a Subjects on lipid-lowering agents at baseline were excluded from these analyses (TIVICAY + EPZICOM: n = 30 and ATRIPLA n = 27).
-Seventy-two subjects initiated a lipid-lowering agent post-baseline; their last fasted on-treatment values (prior to starting the agent) were used regardless if they discontinued the agent (TIVICAY + EPZICOM: n = 36 and ATRIPLA: n = 36).
+| Lipid | TIVICAY + EPZICOM Once Daily(n = 414) | ATRIPLAOnce Daily(n = 419) |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cholesterol (mg/dL) | 24.0 | 26.7 |  |  |  |  |  |  |
+| HDL cholesterol (mg/dL) | 5.4 | 7.2 |  |  |  |  |  |  |
+| LDL cholesterol (mg/dL) | 16.0 | 14.6 |  |  |  |  |  |  |
+| Triglycerides (mg/dL) | 13.6 | 31.9 |  |  |  |  |  |  |
+| a Subjects on lipid-lowering agents at baseline were excluded from these analyses (TIVICAY + EPZICOM: n = 30 and ATRIPLA: n = 27). Seventy-two subjects initiated a lipid-lowering agent post-baseline; their last fasted on-treatment values (prior to starting the agent) were used regardless if they discontinued the agent (TIVICAY + EPZICOM: n = 36 and ATRIPLA: n = 36). |  |  |  |  |  |  |  |  |
 
 Treatment-Experienced Subjects: Laboratory abnormalities observed in SAILING were generally similar compared with observations seen in the treatment-naïve trials.
 
@@ -171,6 +167,10 @@ The changes in mean serum creatinine were similar to those observed in adults.
 In addition to adverse reactions reported from clinical trials, the following adverse reactions have been identified during postmarketing use with one or more of the components of TRIUMEQ.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
+Blood and Lymphatic Systems
+
+Aplastic anemia, anemia (including pure red cell aplasia and severe anemias progressing on therapy), lymphadenopathy, splenomegaly.
+
 Digestive
 
 Stomatitis.
@@ -183,10 +183,6 @@ General
 
 Weakness.
 
-Blood and Lymphatic Systems
-
-Aplastic anemia, anemia (including pure red cell aplasia and severe anemias progressing on therapy), lymphadenopathy, splenomegaly.
-
 Hepatobiliary Disorders
 
 Acute liver failure, liver transplant.
@@ -194,6 +190,10 @@ Acute liver failure, liver transplant.
 Hypersensitivity
 
 Sensitization reactions (including anaphylaxis), urticaria [see Warnings and Precautions (5.1), Adverse Reactions (6.1)].
+
+Investigations
+
+Weight increased.
 
 Metabolism and Nutrition Disorders
 

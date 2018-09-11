@@ -37,21 +37,28 @@ Lactic Acidosis/Hepatomegaly
 
 Inform patients that some HIV medicines, including TRIUMEQ, can cause a rare, but serious condition called lactic acidosis with liver enlargement (hepatomegaly) [see Boxed Warning, Warnings and Precautions (5.5)].
 
+Embryo-Fetal Toxicity
+
+Advise adolescents and adults of childbearing potential to avoid use of TRIUMEQ at the time of conception through the first trimester of pregnancy.
+Advise adolescents and adults of childbearing potential to contact their healthcare provider if they plan to become pregnant, become pregnant, or if pregnancy is suspected during treatment with TRIUMEQ [see Warnings and Precaution (5.6)].
+
+Advise adolescents and adults of childbearing potential taking TRIUMEQ to consistently use effective contraception [see Use in Specific Populations (8.1, 8.3)].
+
 Use with Interferon- and Ribavirin‑Based Regimens in Patients with Hepatitis C Co-infection
 
-Inform patients with HIV‑1/HCV co-infection that hepatic decompensation (some fatal) has occurred in HIV‑1/HCV co-infected patients receiving combination antiretroviral therapy for HIV‑1 and interferon alfa with or without ribavirin [see Warnings and Precautions (5.7)].
+Inform patients with HIV‑1/HCV co-infection that hepatic decompensation (some fatal) has occurred in HIV‑1/HCV co-infected patients receiving combination antiretroviral therapy for HIV‑1 and interferon alfa with or without ribavirin [see Warnings and Precautions (5.8)].
 
 Immune Reconstitution Syndrome
 
-Advise patients to inform their healthcare provider immediately of any signs and symptoms of infection as inflammation from previous infection may occur soon after combination antiretroviral therapy, including when TRIUMEQ is started [see Warnings and Precautions (5.8)].
+Advise patients to inform their healthcare provider immediately of any signs and symptoms of infection as inflammation from previous infection may occur soon after combination antiretroviral therapy, including when TRIUMEQ is started [see Warnings and Precautions (5.9)].
 
 Pregnancy Registry
 
-Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to TRIUMEQ during pregnancy [see Use in Specific Populations (8.1)].
+Inform patients that there is an antiretroviral pregnancy registry to monitor fetal outcomes in those exposed to TRIUMEQ during pregnancy [see Use in Specific Populations (8.1)].
 
 Lactation
 
-Instruct women with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in the breast milk [see Use in Specific Populations (8.2)].
+Instruct mothers with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in the breast milk [see Use in Specific Populations (8.2)].
 
 Missed Dose
 
@@ -89,4 +96,4 @@ Research Triangle Park, NC 27709
 
 ©2018 ViiV Healthcare group of companies or its licensor.
 
-TRM:7PI
+TRM:8PI

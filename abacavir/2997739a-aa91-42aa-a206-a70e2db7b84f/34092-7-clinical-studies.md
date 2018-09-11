@@ -39,14 +39,7 @@ Virologic Outcomes of Randomized Treatment in SINGLE at 144 Weeks (Snapshot Algo
 | Race |  |  |
 | White | 72% | 71% |
 | African-American/African Heritage/Other | 71% | 47% |
-
-a Adjusted for pre-specified stratification factors.
-
-b Includes subjects who discontinued due to an adverse event or death at any time point if this resulted in no virologic data on treatment during the analysis window.
-
-c Other includes reasons such as withdrew consent, loss to follow-up, moved, and protocol deviation.
-
-d The primary endpoint was assessed at Week 48 and the virologic success rate was 88% in the group receiving TIVICAY and 81% in the ATRIPLA group, with a treatment difference of 7.4% and 95% CI of (2.5%, 12.3%).
+| a Adjusted for pre-specified stratification factors. b Includes subjects who discontinued due to an adverse event or death at any time point if this resulted in no virologic data on treatment during the analysis window. c Other includes reasons such as withdrew consent, loss to follow-up, moved, and protocol deviation. d The primary endpoint was assessed at Week 48 and the virologic success rate was 88% in the group receiving TIVICAY and 81% in the ATRIPLA group, with a treatment difference of 7.4% and 95% CI of (2.5%, 12.3%). |  |  |
 
 Treatment differences were maintained across baseline characteristics including baseline viral load, CD4+ cell count, age, gender, and race.
 The adjusted mean changes in CD4+ cell counts from baseline were 378 cells per mm3 in the group receiving TIVICAY + EPZICOM and 332 cells per mm3 for the ATRIPLA group at 144 weeks.
