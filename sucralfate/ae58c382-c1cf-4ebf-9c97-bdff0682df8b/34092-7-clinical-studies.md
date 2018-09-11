@@ -7,7 +7,7 @@ Multicenter trials conducted in the United States, both of them placebo-controll
 
 STUDY 1
 
-| Treatment Groups | Ulcer Healing/ No. Patients |  |
+| Treatment Groups | Ulcer Healing/No. Patients |  |
 | --- | --- | --- |
 |  | 2 wk | 4 wk (Overall) |
 | Sucralfate | 37/105 (35.2%) | 82/109 (75.2%) |
@@ -15,7 +15,7 @@ STUDY 1
 
 STUDY 2
 
-| Treatment Groups | Ulcer Healing/ No. Patients |  |
+| Treatment Groups | Ulcer Healing/No. Patients |  |
 | --- | --- | --- |
 |  | 2 wk | 4 wk (Overall) |
 | Sucralfate | 8/24 (33%) | 22/24 (92%) |
