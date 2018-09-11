@@ -17,7 +17,7 @@ GlucaGen (glucagon) for injection is supplied as a sterile, lyophilized white po
 
 Before Reconstitution:
 
-The GlucaGen package may be stored up to 24 months at controlled room temperature 20o to 25o C (68o to 77o F) prior to reconstitution.
+The GlucaGen package may be stored up to 24 months at controlled room temperature 20o to 25oC (68o to 77oF) prior to reconstitution.
 Do not freeze.
 Keep in the original package to protect from light.
 GlucaGen should not be used after the expiry date on the vials.

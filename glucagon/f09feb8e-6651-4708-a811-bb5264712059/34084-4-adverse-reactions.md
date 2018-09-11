@@ -14,6 +14,9 @@ Patients taking beta-blockers might be expected to have a greater increase in bo
 The increase in blood pressure and pulse rate may require therapy in patients with pheochromocytoma or coronary artery disease [see Warnings and Precautions (5.1)].
 Anaphylactic reactions may occur in some cases.
 
+The following adverse reactions have been identified during postapproval use of GlucaGen.
+Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
 Table 1 Frequency of Adverse Reactions
 
 | Treatment of severe hypoglycemia |  |
@@ -26,9 +29,6 @@ Table 1 Frequency of Adverse Reactions
 | < 1 | Vomiting |
 | < 1 | Hypoglycemia |
 | <1 | Hypoglycemic coma |
-
-The following adverse reactions have been identified during postapproval use of GlucaGen.
-Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Necrolytic migratory erythema (NME) cases have been reported postmarketing in patients
 
