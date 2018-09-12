@@ -21,3 +21,5 @@ Lacerations, bent needles, and embedded needles have been reported when Adrenacl
 Injection into the buttock has resulted in cases of gas gangrene [see Warnings and Precautions (5.2)].
 
 Rare cases of serious skin and soft tissue infections, including necrotizing fasciitis and myonecrosis caused by Clostridia (gas gangrene), have been reported following epinephrine injection in the thigh [see Warnings and Precautions (5.3)].
+
+Rare cases of stress cardiomyopathy have been reported in patients treated with epinephrine.

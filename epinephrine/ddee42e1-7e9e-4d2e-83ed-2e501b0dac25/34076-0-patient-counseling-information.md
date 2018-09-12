@@ -1,4 +1,4 @@
-# ​17 PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
 [see FDA-Approved Patient Labeling (Patient Information and Instructions for Use)]
 
@@ -58,4 +58,4 @@ All rights reserved.
 
 For inquiries call 1-888-894-6528
 
-51006-07
+51006-08

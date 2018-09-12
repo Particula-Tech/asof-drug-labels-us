@@ -1,4 +1,4 @@
-# ​Instructions for Use
+# Instructions for Use
 
 ADRENACLICK® (a-dren-a-click)
 
