@@ -2,10 +2,10 @@
 
 Systemic and local corticosteroid use may result in the following:
 
-- •Epistaxis, nasal discomfort, nasal ulcerations, Candida albicans infection, and impaired wound healing [see Warnings and Precautions (5.1)]
-- •Eye Disorders [see Warnings and Precautions (5.2)]
-- •Hypercorticism, adrenal suppression, and growth reduction [see Warnings and Precautions (5.5)(5.6), Use in Specific Populations (8.4)]
-- •Immunosuppression [see Warnings and Precautions (5.4)]
+- Epistaxis, nasal discomfort, nasal ulcerations, Candida albicans infection, and impaired wound healing [see Warnings and Precautions (5.1)]
+- Eye Disorders [see Warnings and Precautions (5.2)]
+- Hypercorticism, adrenal suppression, and growth reduction [see Warnings and Precautions (5.5)(5.6), Use in Specific Populations (8.4)]
+- Immunosuppression [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -21,7 +21,7 @@ Patient ages ranged from 12 to 82 years and the racial distribution of patients 
 Short-Term (2–6 Weeks) Trials: Less than 2% of patients in the clinical trials discontinued treatment because of adverse reactions with the rate of withdrawal among patients who received QNASL Nasal Aerosol similar to or lower than the rate among patients who received placebo.
 Table 1 displays the common adverse reactions (≥ 1% and greater than placebo-treated patients).
 
-| Table 1. Adverse Events With ≥ 1% Incidence and Greater than Placebo in QNASL Nasal Aerosol-Treated Adult and Adolescent Patients with Seasonal or Perennial Allergic Rhinitis in Controlled Clinical Trials of 2 to 6 Weeks Duration (Safety Population) |  |  |
+| Table 1. Adverse Events With ≥ 1% Incidence and Greater than Placebo in QNASLNasal Aerosol-Treated Adult and Adolescent Patients with Seasonal or Perennial Allergic Rhinitis in Controlled Clinical Trials of 2 to 6 Weeks Duration (Safety Population) |  |  |
 | --- | --- | --- |
 |  | Adult and Adolescent Patients 12 Years of Age and Older |  |
 |  | QNASL Nasal Aerosol 320 mcg (N = 575) n (%) | Placebo (N = 578) n (%) |
