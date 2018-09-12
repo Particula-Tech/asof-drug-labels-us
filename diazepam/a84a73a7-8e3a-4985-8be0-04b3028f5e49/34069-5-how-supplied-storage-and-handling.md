@@ -45,7 +45,7 @@ By: DPT Laboratories, Ltd. San Antonio, TX 78215 USA
 
 All other product/brand names are trademarks of their respective owners.
 
-9435002
+9596200-70012677
 
 Rev.
 12/16

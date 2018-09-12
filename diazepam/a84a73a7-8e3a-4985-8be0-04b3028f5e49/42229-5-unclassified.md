@@ -103,13 +103,25 @@ Stay with the person for 4 hours and make notes on the following:
 
 HOW TO ADMINISTER AND DISPOSAL
 
-®/™ are trademarks of Valeant Pharmaceuticals International, Inc. or its affiliates.
+®/™ are trademarks of Valeant
+
+Pharmaceuticals International, Inc. or its
+
+affiliates.
 
 ©Valeant Pharmaceuticals North America LLC
 
-Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA By: DPT Laboratories, Ltd. San Antonio, TX 78215 USA
+Manufactured for:
 
-9435002
+Valeant Pharmaceuticals North America LLC
 
-Rev.
+Bridgewater, NJ 08807 USA
+
+By:
+
+DPT Laboratories, Ltd.
+
+San Antonio, TX 78215 USA
+
+9596200-70012677 Rev.
 12/16
