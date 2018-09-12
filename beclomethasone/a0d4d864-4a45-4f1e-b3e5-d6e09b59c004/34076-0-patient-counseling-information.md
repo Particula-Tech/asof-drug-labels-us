@@ -44,7 +44,5 @@ QNASL® is a registered trademark of Teva Respiratory, LLC.
 
 Manufactured for Teva Respiratory, LLC Frazer, PA 19355 By: 3M Drug Delivery Systems Northridge, CA 91324
 
-United States Patent Nos. 7,780,038
-
 PE3533 Rev.
 07/2017
