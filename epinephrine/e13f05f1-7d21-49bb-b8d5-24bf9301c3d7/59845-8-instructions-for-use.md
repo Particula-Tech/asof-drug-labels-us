@@ -84,7 +84,9 @@ This Patient Information and Instructions for Use has been approved by the U.S. 
 
 © 2016 Impax Laboratories, Inc., Hayward, CA. All rights reserved.
 
+Manf. by: Hospira, Inc. McPherson, KS 67460
+
 Dist. by: Impax Generics Hayward, CA 94544
 
-1872-01 Rev.
-07/2016
+1872-02 Rev.
+08/2018
