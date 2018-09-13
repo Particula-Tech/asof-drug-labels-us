@@ -33,11 +33,7 @@ Patients should be instructed on self-management procedures including glucose mo
 Patients must be instructed on handling of special situations such as intercurrent conditions (illness, stress, or emotional disturbances), an inadequate or skipped insulin dose, inadvertent administration of an increased insulin dose, inadequate food intake, and skipped meals [see Warnings and Precautions (5.3)].
 Refer patients to the BASAGLAR “Patient Information” for additional information about the potential side effects of insulin therapy, including lipodystrophy (and the need to rotate injection sites within the same body region), weight gain, allergic reactions, and hypoglycemia.
 
-Women of Reproductive Potential
-
-Advise patients to inform their health care professional if they are pregnant or are contemplating pregnancy.
-
-Literature revised June 17, 2016
+Literature revised September 2018
 
 Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 
@@ -45,7 +41,7 @@ And
 
 Boehringer Ingelheim Pharmaceuticals, Inc., Ridgefield, CT 06877, USA
 
-Copyright © 2015, 2016, Eli Lilly and Company.
+Copyright © 2015, 2018, Eli Lilly and Company.
 All rights reserved.
 
-BASKP-0002-USPI-20160617
+BASKP-0003-USPI-20180905

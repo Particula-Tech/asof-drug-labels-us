@@ -20,7 +20,7 @@ One pen contains multiple doses of medicine.
 - The plunger only moves a little with each injection, and you may not notice that it moves.
   When the plunger reaches the end of the cartridge, you have used all 300 units in the Pen.
 
-This Pen is not recommended for use by the blind or visually impaired without the help of someone trained to use the Pen.
+People who are blind or have vision problems should not use the Pen without help from a person trained to use the Pen.
 
 How to recognize your BASAGLAR KwikPen:
 
@@ -156,11 +156,11 @@ This Instructions for Use have been approved by the U.S. Food and Drug Administr
 
 BASAGLAR® and BASAGLAR® KwikPen® are trademarks of Eli Lilly and Company.
 
-Instructions for Use revised: April 20, 2017
+Instructions for Use revised: September 2018
 
 Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA and Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877, USA
 
-Copyright © 2015, 2017, Eli Lilly and Company.
+Copyright © 2015, 2018, Eli Lilly and Company.
 All rights reserved.
 
 | BASAGLAR KwikPen meets the current dose accuracy and functional requirements of ISO 11608-1:2014. |
@@ -170,4 +170,4 @@ BI (logo)
 
 Lilly (red script)
 
-BASKP-0004-IFU-20170420
+BASKP-0005-IFU-20180905

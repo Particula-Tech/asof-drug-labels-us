@@ -8,6 +8,7 @@
   Only use if the solution is clear and colorless with no visible particles.
 - Inject between 1 and 80 units per injection.
 - Administer BASAGLAR subcutaneously into the abdominal area, thigh, or deltoid, and rotate injection sites within the same region from one injection to the next to reduce the risk of lipodystrophy [see Adverse Reactions (6.1)].
+- Use BASAGLAR with caution in patients with visual impairment that may rely on audible clicks to dial their dose.
 - Do not dilute or mix BASAGLAR with any other insulin or solution as the onset of action or time to peak effect of BASAGLAR and the mixed insulin may be altered in an unpredictable manner.
 - Do not administer intravenously or via an insulin pump because this could result in severe hypoglycemia.
 
@@ -17,6 +18,7 @@
 - Inject BASAGLAR subcutaneously once daily at any time of day but at the same time every day.
 - Individualize and titrate the dosage of BASAGLAR based on the individual's metabolic needs, blood glucose monitoring results and glycemic control goal.
 - Dosage adjustments may be needed with changes in physical activity, changes in meal patterns (i.e., macronutrient content or timing of food intake), during acute illness, or changes in renal or hepatic function and should be made under medical supervision with appropriate glucose monitoring [see Warnings and Precautions (5.2)].
+- The BASAGLAR KwikPen dials in 1 unit increments.
 
 ## 2.3 Initiation of BASAGLAR Therapy
 

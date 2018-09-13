@@ -6,6 +6,8 @@ BASAGLAR is a clear, colorless, sterile solution, with no visible particles, 100
 
 5 x 3 mL BASAGLAR KwikPen (prefilled) NDC 0002-7715-59 (HP-7715)
 
+The BASAGLAR KwikPen dials in 1 unit increments.
+
 Needles are not included.
 
 This device is recommended for use with Becton, Dickinson & Company's insulin pen needles which are sold separately.

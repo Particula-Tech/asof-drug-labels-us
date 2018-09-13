@@ -2,23 +2,32 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
-
 Risk Summary
 
-All pregnancies have a background risk of birth defects, loss, or other adverse outcome regardless of drug exposure.
-This background risk is increased in pregnancies complicated by hyperglycemia and may be decreased with good metabolic control.
-It is essential for patients with diabetes or history of gestational diabetes to maintain good metabolic control before conception and throughout pregnancy.
-In patients with diabetes or gestational diabetes, insulin requirements may decrease during the first trimester, generally increase during the second and third trimesters, and rapidly decline after delivery.
-Careful monitoring of glucose control is essential in these patients.
-Therefore, female patients should be advised to tell their physicians if they intend to become, or if they become pregnant while taking BASAGLAR.
+Published studies with use of insulin glargine products during pregnancy have not reported a clear association with insulin glargine products and adverse developmental outcomes (see Data).
+There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy (see Clinical Considerations).
+In animal reproduction studies, another insulin glargine product was administered to rats before, during and throughout pregnancy at doses up to 7 times the clinical dose of 10 units/day and to rabbits during organogenesis at doses approximately 2 times the clinical dose of 10 units/day.
+The effects of this other insulin glargine product did not generally differ from those observed with regular human insulin in rats or rabbits (see Data).
 
-Human data
+The estimated background risk of major birth defects is 6-10% in women with pre-gestational diabetes with a HbA1c >7 and has been reported to be as high as 20-25% in women with a HbA1c >10.
+The estimated background risk of miscarriage for the indicated population is unknown.
+In the US general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
-There are no well-controlled clinical studies of the use of insulin glargine in pregnant women.
-Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Clinical Considerations
 
-Animal data
+Disease-associated maternal and/or embryo/fetal risk
+
+Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, stillbirth and delivery complications.
+Poorly controlled diabetes increases the fetal risk for major birth defects, stillbirth, and macrosomia related morbidity.
+
+Data
+
+Human Data
+
+Published data do not report a clear association with insulin glargine products and major birth defects, miscarriage, or adverse maternal or fetal outcomes when insulin glargine products are used during pregnancy.
+However, these studies cannot definitely establish the absence of any risk because of methodological limitations including small sample size and some with no comparative group.
+
+Animal Data
 
 Subcutaneous reproduction and teratology studies have been performed with another insulin glargine product and with regular human insulin in rats and Himalayan rabbits.
 This other insulin glargine product was given to female rats before mating, during mating, and throughout pregnancy at dose up to 0.36 mg/kg/day, which is approximately 7 times the recommended human subcutaneous starting dose of 10 units/day (0.008 mg/kg/day) based on mg/m2.
@@ -27,11 +36,14 @@ The effects of this other insulin glargine product did not generally differ from
 However, in rabbits, five fetuses from two litters of the high-dose group exhibited dilation of the cerebral ventricles.
 Fertility and early embryonic development appeared normal.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-Endogenous insulin is present in human milk; it is unknown whether insulin glargine is excreted in human milk.
-Because many drugs, including human insulin, are excreted in human milk, caution should be exercised when BASAGLAR is administered to a nursing woman.
-Use of BASAGLAR is compatible with breastfeeding, but women with diabetes who are lactating may require adjustments of their insulin doses.
+Risk Summary
+
+There are no data on the presence of insulin glargine in human milk, the effects on the breastfed infant, or the effects on milk production.
+Endogenous insulin is present in human milk.
+
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for BASAGLAR and any potential adverse effects on the breastfed child from BASAGLAR or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
