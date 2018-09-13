@@ -46,7 +46,7 @@ Other factors that increase the risk of GI bleeding in patients treated with NSA
 Most postmarketing reports of fatal GI events occurred in elderly or debilitated patients.
 Additionally, patients with advanced liver disease and/or coagulopathy are at increased risk for GI bleeding.
 
-Strategies to Minimize the GI Risks in NSAID-treated patients:
+Strategies to Minimize the GI Risks in NSAID-Treated Patients:
 
 - Use the lowest effective dosage for the shortest possible duration.
 - Avoid administration of more than one NSAID at a time.
@@ -152,7 +152,7 @@ FLECTOR PATCH is contraindicated in patients with previous serious skin reaction
 ## 5.10 Premature Closure of Fetal Ductus Arteriosus
 
 Diclofenac may cause premature closure of the fetal ductus arteriosus.
-Avoid use of NSAIDs, including FLECTOR PATCH, in pregnant women starting at 30 weeks of gestation (third trimester) [see Use in Specific Populations (8.1)].
+Avoid use of NSAIDs, including FLECTOR PATCH, in pregnant women starting at 30 weeks' gestation (third trimester) [see Use in Specific Populations (8.1)].
 
 ## 5.11 Hematologic Toxicity
 
@@ -174,16 +174,16 @@ Because serious GI bleeding, hepatotoxicity, and renal injury can occur without 
 
 ## 5.14 Accidental Exposure in Children
 
-Even a used Flector Patch contains a large amount of diclofenac epolamine (as much as 170 mg).
-The potential therefore exists for a small child or pet to suffer serious adverse effects from chewing or ingesting a new or used Flector Patch.
-It is important for patients to store and dispose of Flector Patch out of the reach of children and pets.
+Even a used FLECTOR PATCH contains a large amount of diclofenac epolamine (as much as 170 mg).
+The potential therefore exists for a small child or pet to suffer serious adverse effects from chewing or ingesting a new or used FLECTOR PATCH.
+It is important for patients to store and dispose of FLECTOR PATCH out of the reach of children and pets.
 
 ## 5.15 Eye Exposure
 
-Avoid contact of Flector Patch with eyes and mucosa.
+Avoid contact of FLECTOR PATCH with eyes and mucosa.
 Advise patients that if eye contact occurs, immediately wash out the eye with water or saline and consult a physician if irritation persists for more than an hour.
 
 ## 5.16 Oral Nonsteroidal Anti-inflammatory Drugs
 
 Concomitant use of oral and topical NSAIDs may result in a higher rate of hemorrhage, more frequent abnormal creatinine, urea and hemoglobin.
-Do not use combination therapy with Flector Patch and an oral NSAID unless the benefit outweighs the risk.
+Do not use combination therapy with FLECTOR PATCH and an oral NSAID unless the benefit outweighs the risk.

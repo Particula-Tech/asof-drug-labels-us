@@ -56,7 +56,7 @@ Approximately 65% of the dose is excreted in the urine and approximately 35% in 
 
 Specific Populations
 
-The pharmacokinetics of Flector Patch has not been investigated in children, patients with hepatic or renal impairment, or specific racial groups.
+The pharmacokinetics of FLECTOR PATCH has not been investigated in children, patients with hepatic or renal impairment, or specific racial groups.
 
 Drug Interaction Studies
 
