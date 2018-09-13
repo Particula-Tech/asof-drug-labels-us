@@ -48,6 +48,10 @@ Drug Interactions
 
 Advise patients that other medications may interact with RETROVIR and certain medications, including ganciclovir, interferon alfa, and ribavirin, may exacerbate the toxicity of RETROVIR [see Drug Interactions (7)].
 
+Dosage and Administration in Neonates
+
+Due to the small volume of RETROVIR administered to neonates, advise caregivers to use an appropriate-sized syringe with 0.1-mL graduation to ensure accurate dosing of the syrup formulation [see Dosage and Administration (2.3)].
+
 Pregnancy
 
 Inform pregnant women considering the use of RETROVIR during pregnancy for prevention of HIV-1 transmission to their infants that transmission may still occur in some cases despite therapy.
@@ -79,6 +83,6 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2017 ViiV Healthcare group of companies or its licensor.
+©2018 ViiV Healthcare group of companies or its licensor.
 
-RTR:6PI
+RTR:7PI

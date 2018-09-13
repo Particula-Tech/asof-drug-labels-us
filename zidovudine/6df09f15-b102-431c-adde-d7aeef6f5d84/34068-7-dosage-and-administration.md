@@ -58,7 +58,7 @@ Neonatal Dosing
 
 Start neonatal dosing within 12 hours after birth and continue through 6 weeks of age.
 Neonates unable to receive oral dosing may be administered RETROVIR intravenously.
-See Table 2.
+See Table 2 for dosing recommendations.
 
 Table 2.
 Recommended Neonatal Dosages of RETROVIR
@@ -67,6 +67,8 @@ Recommended Neonatal Dosages of RETROVIR
 | --- | --- | --- |
 | Oral | 8 mg/kg/day | 2 mg/kg every 6 hours |
 | Intravenous | 6 mg/kg/day | 1.5 mg/kg infused over 30 minutes, every 6 hours |
+
+Use an appropriate-sized syringe with 0.1-mL graduation to ensure accurate dosing of the syrup formulation in neonates.
 
 ## 2.4 Patients with Severe Anemia and/or Neutropenia
 
