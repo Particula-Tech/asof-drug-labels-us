@@ -2,7 +2,7 @@
 
 Hepatotoxicity in Patients with Severe Pre-Existing Hepatic Impairment Instruct patients to inform their physician about any underlying liver disease [see Warnings and Precautions (5.2)].
 
-Renal Toxicity Instruct patients to inform their physician about any underlying renal disease [see Warnings and Precautions (5.3) and Use in Specific Populations (8.6)].
+Renal Toxicity Instruct patients to inform their physician about any underlying renal disease [see Warnings and Precautions (5.3)].
 
 Embryo-Fetal Risk Advise pregnant women of the potential risk to a fetus [see Warnings and Precautions (5.5) and Use in Specific Populations (8.1)].
 
@@ -23,4 +23,4 @@ Lactation Advise patients to avoid breastfeeding while receiving VIDAZA [see Use
 |  | Italy |
 
 VIDAZA® is a registered trademark of Celgene Corporation. © 2004-2018 Celgene Corporation, All Rights Reserved.
-VIDPI.12 7/18
+VIDPI.13 9/18
