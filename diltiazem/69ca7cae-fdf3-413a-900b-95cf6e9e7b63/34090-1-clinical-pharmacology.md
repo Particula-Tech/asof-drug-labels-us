@@ -6,9 +6,9 @@ The therapeutic benefits achieved with diltiazem are believed to be related to i
 
 Although precise mechanisms of its antianginal actions are still being delineated, diltiazem is believed to act in the following ways:
 
-- •Angina Due to Coronary Artery Spasm: Diltiazem has been shown to be a potent dilator of coronary arteries both epicardial and subendocardial.
+- Angina Due to Coronary Artery Spasm: Diltiazem has been shown to be a potent dilator of coronary arteries both epicardial and subendocardial.
   Spontaneous and ergonovine-induced coronary artery spasms are inhibited by diltiazem.
-- •Exertional Angina: Diltiazem has been shown to produce increases in exercise tolerance, probably due to its ability to reduce myocardial oxygen demand.
+- Exertional Angina: Diltiazem has been shown to produce increases in exercise tolerance, probably due to its ability to reduce myocardial oxygen demand.
   This is accomplished via reductions in heart rate and systemic blood pressure at submaximal and maximal exercise workloads.
 
 In animal models, diltiazem interferes with the slow inward (depolarizing) current in excitable tissue.
