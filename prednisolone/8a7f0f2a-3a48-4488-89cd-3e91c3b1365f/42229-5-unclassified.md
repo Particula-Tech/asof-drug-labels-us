@@ -14,7 +14,7 @@ Do not touch dropper tip to any surface as this may contaminate the solution.
 
 ## Usage in Pregnancy:
 
-Pregnancy Category C: Animal reproductive studies have not been conducted with prednisolone sodium phosphate.
+Animal reproductive studies have not been conducted with prednisolone sodium phosphate.
 It is also not known whether prednisolone sodium phosphate can cause fetal harm when administered to a pregnant woman or can affect reproductive capacity.
 Prednisolone sodium phosphate should be given to a pregnant woman only if clearly needed.
 

@@ -2,10 +2,12 @@
 
 NDC 24208-715-10
 
-Bausch & Lomb
-
 Prednisolone Sodium Phosphate Ophthalmic Solution USP, 1% (Sterile)
+
+FOR OPHTHALMIC USE ONLY
 
 Rx only
 
-[icon- eye] [icon- 1%] [icon- solution] [icon- 10 mL]
+10 mL
+
+BAUSCH + LOMB
