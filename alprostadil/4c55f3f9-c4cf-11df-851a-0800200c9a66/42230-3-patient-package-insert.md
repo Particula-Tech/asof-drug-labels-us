@@ -1,8 +1,4 @@
-MUSE®
-
-(alprostadil) urethral suppository
-
-PATIENT INFORMATION
+# PATIENT INFORMATION
 
 Please read this pamphlet before using MUSE® (alprostadil).
 This pamphlet is a quick reference source on important information about MUSE for you and your partner.
@@ -48,7 +44,7 @@ Side effects reported less frequently:
 - • Prolonged erection - PLEASE NOTE: IF YOUR ERECTION IS RIGID FOR MORE THAN 4 HOURS, CALL YOUR DOCTOR PROMPTLY.
 - • Swelling of leg veins
 - • Light-headedness/Dizziness
-- • Fainting - PLEASE NOTE: AFTER USING MUSE, YOU SHOULD AVOID ACTIVITIES, SUCH AS DRIVING OR HAZARDOUS TASKS WHERE INJURY COULD RESULT IF DIZZINESS OR FAINTING WERE TO OCCUR.
+- • Fainting - PLEASE NOTE: AFTER USING MUSE, YOU SHOULD AVOID ACTIVITIES, SUCH AS DRIVING OR HAZARDOUS TASKS, WHERE INJURY COULD RESULT IF DIZZINESS OR FAINTING WERE TO OCCUR.
   IN PATIENTS EXPERIENCING THESE SYMPTOMS, THE SYMPTOMS HAVE USUALLY OCCURRED DURING INITIATION OF THERAPY AND WITHIN ONE HOUR OF MUSE ADMINISTRATION.
 - • Rapid pulse.
 
@@ -108,42 +104,52 @@ HOW TO ADMINISTER MUSE:
    2).
    Let the MUSE slide out of the pouch.
    Save the pouch for discarding the MUSE applicator later.
-3. 3.To remove the protective cover from the applicator stem (Fig.
+
+1. 3.To remove the protective cover from the applicator stem (Fig.
    3), hold the body of the applicator with your thumb and forefinger.
    Twist the body and pull out the applicator from the cover, being careful not to push in or pull out the applicator button.
    Avoid touching the applicator stem and tip.
    Save the cover for discarding the MUSE applicator later.
-4. 4.Visually inspect the MUSE.
+
+1. 4.Visually inspect the MUSE.
    The MUSE system is see-through, and you will be able to see the medicated pellet at the end of the stem.
    Make sure that the pellet is present before insertion (Fig.
    4).
-5. 5.Hold the applicator in a way which is the most comfortable for you.
+
+1. 5.Hold the applicator in a way which is the most comfortable for you.
    (Fig.
    5a and 5b)
-6. 6.Please review Figure 6a, the anatomy of the penis.While sitting or standing, whichever is more comfortable for you, take several seconds to gently and slowly stretch the penis upward to its full length, with gentle compression from top to bottom of the glans (Fig.
+
+1. 6.Please review Figure 6a, the anatomy of the penis.
+
+1. While sitting or standing, whichever is more comfortable for you, take several seconds to gently and slowly stretch the penis upward to its full length, with gentle compression from top to bottom of the glans (Fig.
    6b).
    This straightens and opens the urethra.
    Slowly insert the MUSE stem into the urethra up to the collar (Fig.
    6c).
    If you feel any discomfort or a pulling sensation, withdraw the applicator slightly and then gently reinsert.
-7. 7.Gently and completely push down (Fig.
+
+1. 7.Gently and completely push down (Fig.
    7) the button at the top of the applicator until it stops.
    It is important to do this to ensure that the medicated pellet is completely released.
    Hold the applicator in this position for 5 seconds.
-8. 8.Gently rock the applicator from side to side.
+
+1. 8.Gently rock the applicator from side to side.
    This will separate the medicated pellet from the applicator tip (Fig.
    8).
    If you apply too much pressure you may scratch the lining of the urethra causing it to bleed.
-9. 9.Remove the applicator while keeping the penis upright.
-10. 10.Visually inspect the applicator tip to see that the medication is no longer in the applicator.
-    Do not touch the stem.
-    If you notice some residual medication in the end of the applicator, gently reinsert into the urethra and repeat steps 7, 8, and 9.
-11. 11.Holding the penis upright and stretched to its full length, roll the penis firmly between your hands for at least 10 seconds.
-    This will ensure that the medication is adequately distributed along the walls of the urethra (Fig.
-    9).
-    If you feel a burning sensation, it may help to continue to roll the penis for an additional 30 – 60 seconds or until the burning subsides.
-12. 12.Remember, each MUSE is good for a single administration only.
-    Replace the cover on the MUSE applicator, place in the opened foil pouch, fold, and discard as normal household waste.
+
+1. 9.Remove the applicator while keeping the penis upright.
+2. 10.Visually inspect the applicator tip to see that the medication is no longer in the applicator.
+   Do not touch the stem.
+   If you notice some residual medication in the end of the applicator, gently reinsert into the urethra and repeat steps 7, 8, and 9.
+3. 11.Holding the penis upright and stretched to its full length, roll the penis firmly between your hands for at least 10 seconds.
+   This will ensure that the medication is adequately distributed along the walls of the urethra (Fig.
+   9).
+   If you feel a burning sensation, it may help to continue to roll the penis for an additional 30 – 60 seconds or until the burning subsides.
+
+1. 12.Remember, each MUSE is good for a single administration only.
+   Replace the cover on the MUSE applicator, place in the opened foil pouch, fold, and discard as normal household waste.
 
 After you have administered MUSE, it is important to sit, or preferably stand or walk about for 10 minutes while the erection is developing.
 This increases blood flow to the penis and will enhance your erection.
@@ -154,7 +160,7 @@ Factors Which May Enhance Your Erection:
 
 - • Being well rested and relaxed
 - • Sexual foreplay with your partner or self-stimulation while sitting or standing
-- • Pelvic exercises (for example, Kegel exercises) these consist of tightening and releasing your pelvic and buttock muscles.
+- • Pelvic exercises (for example, Kegel exercises) - these consist of tightening and releasing your pelvic and buttock muscles.
   These are the muscles you use to stop urination
 - • Various positions that may favor blood flow into the penis.
   Please refer to the patient starter booklet and video for illustrative examples.
@@ -245,10 +251,8 @@ MUSE should not be used more than twice per day.
 
 If you have any additional questions about MUSE, please call the toll free patient information line at Meda Pharmaceuticals Inc. 1-888-367-MUSE (1-888-367-6873), or visit the MUSE product web site, http://www.muserx.net
 
-MUSE and MEDA PHARMACEUTICALS are registered trademarks, and the MEDA PHARMACEUTICALS logo is a trademark of Meda AB or a related entity.
+MUSE is a registered trademark of Meda AB, a Mylan company.
 
 Distributed by: MEDA PHARMACEUTICALS® Somerset, New Jersey 08873-4120
 
-http://www.muserx.net
-
-Catalog Number: 05-10-00000E IS-1001-03 Revised August 2014 U.S. Patent No. 5,886,039 ©2014 Meda Pharmaceuticals Inc.
+http://www.muserx.net Catalog Number: 05-10-00000F IS-1001-04 Revised: 4/2018 ©2018 Mylan Specialty L.P.

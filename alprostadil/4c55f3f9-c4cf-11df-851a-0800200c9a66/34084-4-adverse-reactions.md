@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-## In-Clinic Titration:
+## In-Clinic Titration
 
 In the 2 largest double-blind, parallel, placebo-controlled trials, 1511 patients received MUSE at least 1 time in the clinic setting.
 The most frequently reported drug-related side effects during in-clinic titration included pain in the penis (36%), urethra (13%), or testes (5%).
@@ -11,31 +11,39 @@ Dizziness was reported in 4% of patients.
 Syncope (fainting) was reported by 0.4% of patients.
 (See WARNINGS).
 
-## Home Treatment:
+## Home Treatment
 
 996 patients (66% of those who began titration) were studied during the home treatment portion of 2 Phase III placebo-controlled studies.
 Fewer than 2% of patients discontinued from these studies primarily because of adverse events.
 The following table summarizes the frequency of adverse events reported by patients using MUSE or placebo.
 
-Adverse Events Reported by ≥2% of Patients Treated with MUSE, and More Common than on Placebo, at Home in Phase III Placebo-Controlled Clinical Studies for up to 3 Months
+Adverse Events Reported by ≥ 2% of Patients Treated with MUSE, and More Common than on Placebo, at Home in Phase III Placebo-Controlled Clinical Studies for up to 3 Months
 
-|  | MUSE | Placebo |  | MUSE | Placebo |
-| --- | --- | --- | --- | --- | --- |
-| Event | n = 486 | n = 511 | Event | n = 486 | n = 511 |
-| UROGENITAL SYSTEM |  |  | BODY AS A WHOLE |  |  |
-| Penile Pain | 32% | 3% | Flu Symptoms | 4% | 2% |
-| Urethral Burning | 12% | 4% | Headache | 3% | 2% |
-| Minor Urethral Bleeding/ | 5% | 1% | Pain | 3% | 1% |
-| Spotting |  |  | Accidental Injury | 3% | 2% |
-| Testicular Pain | 5% | 1% | Back Pain | 2% | 1% |
-| NERVOUS SYSTEM |  |  | Pelvic Pain | 2% | <1% |
-| Dizziness | 2% | <1% | RESPIRATORY |  |  |
-|  |  |  | Rhinitis | 2% | <1% |
-|  |  |  | Infection | 3% | 2% |
+| Event | MUSEn = 486 | Placebon = 511 |
+| --- | --- | --- |
+| UROGENITAL SYSTEM |  |  |
+| Penile Pain | 32% | 3% |
+| Urethral Burning | 12% | 4% |
+| Minor Urethral Bleeding/Spotting | 5% | 1% |
+| Testicular Pain | 5% | 1% |
+| NERVOUS SYSTEM |  |  |
+| Dizziness | 2% | < 1% |
+| BODY AS A WHOLE |  |  |
+| Flu Symptoms | 4% | 2% |
+| Headache | 3% | 2% |
+| Pain | 3% | 1% |
+| Accidental Injury | 3% | 2% |
+| Back Pain | 2% | 1% |
+| Pelvic Pain | 2% | < 1% |
+| RESPIRATORY |  |  |
+| Rhinitis | 2% | < 1% |
+| Infection | 3% | 2% |
 
-Other drug-related side effects observed during in-clinic titration and home treatment include swelling of leg veins, leg pain, perineal pain, and rapid pulse, each occurring in <2% of patients.
+Other drug-related side effects observed during in-clinic titration and home treatment include swelling of leg veins, leg pain, perineal pain, and rapid pulse, each occurring in < 2% of patients.
 
-Female Partner Adverse Events: The most common drug-related adverse event reported by female partners during placebo-controlled clinical studies was vaginal burning/itching, reported by 5.8% of partners of patients on active vs. 0.8% of partners of patients on placebo.
+## Female Partner Adverse Events
+
+The most common drug-related adverse event reported by female partners during placebo-controlled clinical studies was vaginal burning/itching, reported by 5.8% of partners of patients on active vs. 0.8% of partners of patients on placebo.
 It is unknown whether this adverse event experienced by female partners was a result of the medication or a result of resuming sexual intercourse, which occurred much more frequently in partners of patients on active medication.
 
 To report suspected adverse reactions, contact Meda Pharmaceuticals Inc. at 1-888-345-6873 or contact FDA at 1-800-FDA-1088, fax 1-800-FDA-0178 or online at www.fda.gov/medwatch/report.htm.
