@@ -78,6 +78,8 @@ Bottle of 2100 NDC-13668-040-57
 
 90 Unit Dose Tablets NDC-13668-040-64
 
+* 0.5 mg is registered from Indrad only.
+
 ## 16.2 Storage and Handling
 
 Store at 20 to 25 C (68 to 77 F); excursions permitted to 15 to 30 C (59 to 86 F). [See USP Controlled Room Temperature].
