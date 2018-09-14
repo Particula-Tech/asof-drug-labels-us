@@ -6,7 +6,7 @@ Safe use of robaxin® and robaxin®-750 has not been established with regard to 
 There have been reports of fetal and congenital abnormalities following in utero exposure to methocarbamol.
 Therefore, robaxin® and robaxin®-750 should not be used in women who are or may become pregnant and particularly during early pregnancy unless in the judgment of the physician the potential benefits outweigh the possible hazards (see PRECAUTIONS, Pregnancy).
 
-## Use In Activities Requiring Mental Alertness
+## Use in Activities Requiring Mental Alertness
 
 Methocarbamol may impair mental and/or physical abilities required for performance of hazardous tasks, such as operating machinery or driving a motor vehicle.
 Patients should be cautioned about operating machinery, including automobiles, until they are reasonably certain that methocarbamol therapy does not adversely affect their ability to engage in such activities.

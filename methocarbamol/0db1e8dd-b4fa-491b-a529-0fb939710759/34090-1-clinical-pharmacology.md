@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-The mechanism of action of methocarbamol in humans has not been established, but may be due to general central nervous system (CNS) depression.
+The mechanism of action of methocarbamol in humans has not been established, but may be due to general CNS depression.
 It has no direct action on the contractile mechanism of striated muscle, the motor end plate or the nerve fiber.
 
 ## Pharmacokinetics
@@ -16,8 +16,8 @@ Small amounts of unchanged methocarbamol also are excreted in the urine.
 
 ### Elderly
 
-The mean (± SD) elimination half-life of methocarbamol in elderly healthy volunteers (mean (± SD) age, 69 (± 4) years) was slightly prolonged compared to a younger (mean (± SD) age, 53.3 (± 8.8) years), healthy population (1.5 (± 0.4) hours versus 1.1 (±0.27) hours, respectively).
-The fraction of bound methocarbamol was slightly decreased in the elderly versus younger volunteers (41 to 43% versus 46 to 50%, respectively).
+The mean (± SD) elimination half-life of methocarbamol in elderly healthy volunteers (mean [± SD] age, 69 [± 4] years) was slightly prolonged compared to a younger (mean [± SD] age, 53.3 [± 8.8] years), healthy population (1.5 [± 0.4] hours versus 1.1 [±0.27] hours, respectively).
+The fraction of bound methocarbamol was slightly decreased in the elderly versus younger volunteers (41% to 43% versus 46% to 50%, respectively).
 
 ### Renally impaired
 
@@ -27,4 +27,4 @@ The clearance of methocarbamol in 8 renally-impaired patients on maintenance hem
 
 In 8 patients with cirrhosis secondary to alcohol abuse, the mean total clearance of methocarbamol was reduced approximately 70% compared to that obtained in 8 age- and weight-matched normal subjects.
 The mean (± SD) elimination half-life in the cirrhotic patients and the normal subjects was 3.38 (± 1.62) hours and 1.11 (± 0.27) hours, respectively.
-The percent of methocarbamol bound to plasma proteins was decreased to approximately 40 to 45% compared to 46 to 50% in the normal subjects.
+The percent of methocarbamol bound to plasma proteins was decreased to approximately 40% to 45% compared to 46% to 50% in the normal subjects.
