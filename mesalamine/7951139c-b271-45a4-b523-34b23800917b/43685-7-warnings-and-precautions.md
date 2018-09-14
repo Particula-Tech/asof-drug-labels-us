@@ -24,3 +24,7 @@ Some patients who have experienced a hypersensitivity reaction to sulfasalazine 
 
 There have been reports of hepatic failure in patients with pre-existing liver disease who have been administered mesalamine.
 Caution should be exercised when administering APRISO to patients with liver disease.
+
+## 5.5 Contains Phenylalanine
+
+Phenylketonurics: Each APRISO capsule contains aspartame equivalent to 0.56 mg of phenylalanine, so that the recommended adult dosing provides an equivalent of 2.24 mg of phenylalanine per day.

@@ -21,4 +21,6 @@ Apriso is a trademark of Valeant Pharmaceuticals International, Inc., or its aff
 
 Please see www.salix.com for patent information.
 
-1. 9602401 20001702
+- p/n
+- Rev.
+  09/2018
