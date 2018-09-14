@@ -2,7 +2,7 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 49702-203-18
 
-EPIVIR®
+EPIVIR
 
 (lamivudine)
 
@@ -34,16 +34,16 @@ Research Triangle Park, NC 27709
 
 Made in Canada
 
-EPIVIR is a registered trademark
+Trademark owned or licensed by ViiV Healthcare.
 
-1. 10000000146471 Rev.
-   5/17
+1. 10000000149606 Rev.
+   9/18
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 49702-204-13
 
-EPIVIR®
+EPIVIR
 
 (lamivudine)
 
@@ -61,10 +61,6 @@ See prescribing information for dosage information.
 
 Store at 25oC (77oF); excursions permitted to 15o to 30oC (59o to 86oF) [see USP Controlled Room Temperature].
 
-Manufactured under agreement from Shire Pharmaceuticals Group plc
-
-Basingstoke, UK
-
 Manufactured for:
 
 ViiV Healthcare
@@ -79,10 +75,10 @@ Research Triangle Park, NC 27709
 
 Made in Canada
 
-EPIVIR is a registered trademark
+Trademark owned or licensed by ViiV Healthcare.
 
-1. 10000000146549 Rev.
-   5/17
+1. 10000000149607 Rev.
+   8/18
 
 PRINCIPAL DISPLAY PANEL
 
