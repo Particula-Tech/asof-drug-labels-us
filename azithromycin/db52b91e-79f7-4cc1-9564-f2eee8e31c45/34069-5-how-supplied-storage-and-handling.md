@@ -7,7 +7,7 @@ ZITHROMAX is supplied in the following strengths and package configurations:
 | 250 mg (containing azithromycin dihydrate equivalent to 250 mg of azithromycin) | Pink modified capsular shaped, engraved, film-coated | Engraved with "PFIZER" on one side and "306" on the other | Bottles of 30 | NDC 0069-3060-30 |
 | Boxes of 3 (Z-PAKS® of 6) | NDC 0069-3060-75 |  |  |  |
 | Unit Dose package of 50 | NDC 0069-3060-86 |  |  |  |
-| Engraved with "PFIZER" on one side and "ZTM 250" on the other | Bottles of 30 | NDC 0069-4061-01 |  |  |
+| Engraved with "Pfizer" on one side and "ZTM 250" on the other | Bottles of 30 | NDC 0069-4061-01 |  |  |
 | Boxes of 3 (Z-PAKS® of 6) | NDC 0069-4061-75 |  |  |  |
 | Unit Dose package of 50 | NDC 0069-4061-89 |  |  |  |
 | 500 mg (containing azithromycin dihydrate equivalent to 500 mg of azithromycin) | Pink modified capsular shaped, engraved, film coated | Engraved with "Pfizer" on one side and "ZTM500" on the other | Bottles of 30 | NDC 0069-3070-30 |
