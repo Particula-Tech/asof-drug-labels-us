@@ -179,7 +179,7 @@ Effect of Naltrexone/Bupropion Coadministration on Systemic Exposure of Other Dr
 | Naltrexone/Bupropion 16 mg/180 mg single dose | Atorvastatin 80 mg single dose | No Effect |
 | Naltrexone/Bupropion 16 mg/180 mg single dose | Glyburide 6 mg single dose | No Effect |
 | Naltrexone/Bupropion 16 mg/180 mg single dose | Lisinopril 40 mg single dose | No Effect |
-| Naltrexone/Bupropion 16 mg/180 mg single dose | Metformin 850 mg single dose | ↑23% AUC; No effect on Cmax |
+| Naltrexone/Bupropion 16 mg/180 mg twice daily | Metformin 850 mg single dose | ↑23% AUC; No effect on Cmax |
 | Naltrexone/Bupropion 16 mg/180 mg single dose | Nifedipine 90 mg single dose | No Effect |
 | Naltrexone/Bupropion 16 mg/180 mg single dose | Valsartan 320 mg single dose | No Effect |
 | Bupropion 150 mg twice daily for 12 days | Lamotrigine 100 mg single dose | No Effect |

@@ -49,10 +49,13 @@ Patients with type 2 diabetes mellitus on antidiabetic therapy should be advised
 Patients should be advised to swallow CONTRAVE tablets whole so that the release rate is not altered.
 Do not chew, divide, or crush tablets.
 
-Distributed by: Orexigen Therapeutics, Inc. La Jolla, CA 92037
+| Distributed by: | Manufactured for: |
+| --- | --- |
+| Pernix Therapeutics, LLC. | Nalpropion Pharmaceuticals, Inc. |
+| Morristown, NJ 07960 | La Jolla, CA 92037 |
 
-CONTRAVE® is a registered trademark of Orexigen Therapeutics, Inc.
+CONTRAVE® is a registered trademark of Nalpropion Pharmaceuticals, Inc.
 
-All other trademarks are the property of their respective owners. ©2017 Orexigen Therapeutics, Inc.
+All other trademarks are the property of their respective owners. © 2018 Nalpropion Pharmaceuticals, Inc.
 
-LBL-00073
+LBL-00076
