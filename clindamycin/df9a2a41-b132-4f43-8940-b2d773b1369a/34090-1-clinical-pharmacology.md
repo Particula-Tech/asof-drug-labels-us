@@ -7,7 +7,7 @@
 Pharmacokinetic studies with a 150 mg oral dose of clindamycin hydrochloride in 24 normal adult volunteers showed that clindamycin was rapidly absorbed after oral administration.
 An average peak serum concentration of 2.50 mcg/mL was reached in 45 minutes; serum concentrations averaged 1.51 mcg/mL at 3 hours and 0.70 mcg/mL at 6 hours.
 Absorption of an oral dose is virtually complete (90%), and the concomitant administration of food does not appreciably modify the serum concentrations; serum concentrations have been uniform and predictable from person to person and dose to dose.
-Pharmacokineticstudies following multiple doses of CLEOCIN HCl for up to 14 days show no evidence of accumulation or altered metabolism of drug.
+Pharmacokinetic studies following multiple doses of CLEOCIN HCl for up to 14 days show no evidence of accumulation or altered metabolism of drug.
 Doses of up to 2 grams of clindamycin per day for 14 days have been well tolerated by healthy volunteers, except that the incidence of gastrointestinal side effects is greater with the higher doses.
 
 ### Distribution
