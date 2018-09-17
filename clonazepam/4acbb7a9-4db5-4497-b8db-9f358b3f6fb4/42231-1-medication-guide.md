@@ -76,8 +76,8 @@ Clonazepam tablets can cause abuse and dependence.
 
 - •Do not stop taking clonazepam tablets all of a sudden.
   Stopping clonazepam tablets suddenly can cause seizures that do not stop, hearing or seeing things that are not there (hallucinations), shaking, and stomach and muscle cramps.
-  - ºTalk to your doctor about slowly stopping clonazepam tablets to avoid getting sick with withdrawal symptoms.
-  - ºPhysical dependence is not the same as drug addiction.
+  - •Talk to your doctor about slowly stopping clonazepam tablets to avoid getting sick with withdrawal symptoms.
+  - •Physical dependence is not the same as drug addiction.
     Your healthcare provider can tell you more about the differences between physical dependence and drug addiction.
 
 Clonazepam is a federally controlled substance (C-IV) because it can be abused or lead to dependence.

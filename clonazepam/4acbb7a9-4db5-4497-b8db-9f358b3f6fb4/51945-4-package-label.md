@@ -23,9 +23,9 @@ Distributed by: Solco Healthcare US, LLC Cranbury, NJ 08512, USA
 
 Manufactured by: Prinston Laboratories 3241 Woodpark Blvd, Charlotte, NC 28206
 
-Rev: JUL2017
+Rev: FEB2018
 
-9040305-01
+9040305-02
 
 # PRINCIPAL DISPLAY PANEL - 1 mg
 
@@ -52,9 +52,9 @@ Distributed by: Solco Healthcare US, LLC Cranbury, NJ 08512, USA
 
 Manufactured by: Prinston Laboratories 3241 Woodpark Blvd, Charlotte, NC 28206
 
-Rev: JUL2017
+Rev: FEB2018
 
-9040308-01
+9040308-02
 
 # PRINCIPAL DISPLAY PANEL - 2 mg
 
@@ -81,6 +81,6 @@ Distributed by: Solco Healthcare US, LLC Cranbury, NJ 08512, USA
 
 Manufactured by: Prinston Laboratories 3241 Woodpark Blvd, Charlotte, NC 28206
 
-Rev: JUL2017
+Rev: FEB2018
 
-9040311-01
+9040311-02
