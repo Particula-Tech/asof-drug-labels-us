@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA206185"
+  ],
+  "inn": "latanoprost",
+  "labeler": "Sun Pharma Global FZE",
+  "package_ndcs": [
+    "47335-317-90",
+    "47335-317-92",
+    "47335-317-94",
+    "47335-317-98"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "latanprost",
+      "name": "XELPROS"
+    }
+  ],
+  "setid": "34ad5cf6-4df0-4104-bddd-4c7631133ded",
+  "source": "dailymed"
+}
