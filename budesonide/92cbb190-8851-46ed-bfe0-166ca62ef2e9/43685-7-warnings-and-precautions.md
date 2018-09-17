@@ -10,12 +10,12 @@ Since UCERIS is a glucocorticosteroid, general warnings concerning glucocorticoi
 ## 5.2 Transferring Patients from Systemic Glucocorticosteroid Therapy
 
 Care is needed in patients who are transferred from glucocorticosteroid treatment with higher systemic effects to glucocorticosteroids with lower systemic effects, such as UCERIS, since symptoms attributed to withdrawal of steroid therapy, including those of acute adrenal suppression or benign intracranial hypertension, may develop.
-Adrenocortical function monitoring may be required in these patients and the dose of glucocorticosteroid treatment with high systemic effects should be reduced cautiously.
+Adrenocortical function monitoring may be required in these patients, and the dose of glucocorticosteroid treatment with high systemic effects should be reduced cautiously.
 
 ## 5.3 Immunosuppression
 
 Patients who are on drugs that suppress the immune system are more susceptible to infection than healthy individuals.
-Chicken pox and measles, for example, can have a more serious or even fatal course in susceptible patients or patients on immunosuppressant doses of glucocorticosteroids.
+Chickenpox and measles, for example, can have a more serious or even fatal course in susceptible patients or patients on immunosuppressant doses of glucocorticosteroids.
 In patients who have not had these diseases, particular care should be taken to avoid exposure.
 
 How the dose, route, and duration of glucocorticosteroid administration affect the risk of developing a disseminated infection is not known.
@@ -23,7 +23,7 @@ The contribution of the underlying disease and/or prior glucocorticosteroid trea
 If exposed, therapy with varicella zoster immune globulin (VZIG) or pooled intravenous immunoglobulin (IVIG), as appropriate, may be indicated.
 If exposed to measles, prophylaxis with pooled intramuscular immunoglobulin (IG) may be indicated.
 (See prescribing information for VZIG and IG.)
-If chicken pox develops, treatment with antiviral agents may be considered.
+If chickenpox develops, treatment with antiviral agents may be considered.
 
 Glucocorticosteroids should be used with caution, if at all, in patients with active or quiescent tuberculosis infection, untreated fungal, bacterial, systemic viral or parasitic infections.
 

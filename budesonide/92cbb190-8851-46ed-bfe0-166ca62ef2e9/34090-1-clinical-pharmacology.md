@@ -27,7 +27,7 @@ There was no accumulation of budesonide with respect to both AUC and Cmax follow
 Food Effect
 
 A food-effect study involving administration of UCERIS to healthy volunteers under fasting conditions and with a high-fat meal indicated that the Cmax was decreased by 27% while there was no significant decrease in AUC.
-Additionally, a mean delay in absorption lag time of 2.4 hours is observed under fed conditions.
+Additionally, a mean delay in absorption lag time of 2.4 hours was observed under fed conditions.
 
 Distribution
 
@@ -44,7 +44,7 @@ The glucocorticoid activity of these metabolites is negligible (<1/100) in relat
 In vivo investigations with intravenous doses in healthy subjects are in agreement with the in vitro findings and demonstrate that budesonide has a high plasma clearance, 0.9-1.8 L/min.
 These high plasma clearance values approach the estimated liver blood flow, and, accordingly, suggest that budesonide is a high hepatic clearance drug.
 
-The plasma elimination half-life, t1/2, after administration of intravenous doses ranges between 2.0 and 3.6 hours.
+The plasma elimination half-life, t1/2, after administration of intravenous doses ranges between 2 and 3.6 hours.
 
 Excretion
 
@@ -60,7 +60,7 @@ Hepatic Impairment
 In patients with liver cirrhosis, systemic availability of orally administered budesonide correlates with disease severity and is, on average, 2.5-fold higher compared with healthy controls.
 Patients with mild liver disease are minimally affected.
 Patients with severe liver dysfunction were not studied.
-Absorption parameters are not altered, and for the intravenous dose, no significant differences in CL or VSS are observed.
+Absorption parameters were not altered, and for the intravenous dose, no significant differences in CL or VSS were observed.
 
 Renal Impairment
 

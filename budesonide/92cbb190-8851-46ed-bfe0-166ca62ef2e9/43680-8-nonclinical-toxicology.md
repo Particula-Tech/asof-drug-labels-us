@@ -20,5 +20,5 @@ Budesonide was not genotoxic in the Ames test, the mouse lymphoma cell forward g
 Impairment of Fertility
 
 In rats, budesonide had no effect on fertility at subcutaneous doses up to 80 mcg/kg (approximately 0.07 times the maximum recommended human dose on a body surface area basis).
-However, it caused a decrease in prenatal viability and viability in pups at birth and during lactation, along with a decrease in maternal body-weight gain, at subcutaneous doses of 20 mcg/kg (approximately 0.02 times the maximum recommended human dose on a body surface area basis) and above.
+However, it caused a decrease in prenatal viability and viability in pups at birth and during lactation, along with a decrease in maternal body weight gain, at subcutaneous doses of 20 mcg/kg (approximately 0.02 times the maximum recommended human dose on a body surface area basis) and above.
 No such effects were noted at 5 mcg/kg (approximately 0.005 times the maximum recommended human dose on a body surface area basis).

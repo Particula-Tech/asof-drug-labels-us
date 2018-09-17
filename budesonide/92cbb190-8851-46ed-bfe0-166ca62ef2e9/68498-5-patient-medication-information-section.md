@@ -1,4 +1,4 @@
-# FDA-approved Patient Labeling
+# Patient Information
 
 UCERIS (u SAIR us)
 
@@ -25,7 +25,7 @@ Before you take UCERIS extended release tablets tell your healthcare provider if
 
 - •have liver problems
 - •are planning to have surgery
-- •have chicken pox or measles or have recently been near anyone with chicken pox or measles
+- •have chickenpox or measles or have recently been near anyone with chickenpox or measles
 - •have an infection
 - •have or had a family history of diabetes, cataracts or glaucoma
 - •have or had tuberculosis
@@ -64,47 +64,42 @@ What are the possible side effects of UCERIS extended release tablets?
 
 UCERIS can cause some serious side effects, including:
 
-Effects of having too much corticosteroid medicine in your blood (hypercorticism).
-Long-time use of UCERIS extended release tablets can cause you to have too much glucocorticosteroid medicine in your blood.
-Tell your healthcare provider if you have any of the following signs and symptoms of hypercorticism:
-
-- •acne
-- •bruise easily
-- •rounding of your face (moon face)
-- •ankle swelling
-- •thicker or more hair on your body and face
-- •a fatty pad or hump between your shoulders (buffalo hump)
-- •pink or purple stretch marks on the skin of your abdomen, thighs, breasts and arms
-
-Adrenal suppression.
-When UCERIS extended release tablets is taken for a long period of time (chronic use), the adrenal glands do not make enough steroid hormones (adrenal suppression).
-Tell your healthcare provider if you are under stress or have any symptoms of adrenal suppression during treatment with UCERIS extended release tablets including:
-
-- •tiredness
-- •weakness
-- •nausea
-- •vomiting
-- •low blood pressure
-
-Immune system effects and a higher chance of infections.
+- •Effects of having too much corticosteroid medicine in your blood (hypercorticism).
+  Long-time use of UCERIS extended release tablets can cause you to have too much glucocorticosteroid medicine in your blood.
+  Tell your healthcare provider if you have any of the following signs and symptoms of hypercorticism:
+- oacne
+- obruise easily
+- orounding of your face (moon face)
+- oankle swelling
+- othicker or more hair on your body and face
+- oa fatty pad or hump between your shoulders (buffalo hump)
+- opink or purple stretch marks on the skin of your abdomen, thighs, breasts and arms
+- •Adrenal suppression.
+  When UCERIS extended release tablets is taken for a long period of time (chronic use), the adrenal glands do not make enough steroid hormones (adrenal suppression).
+  Tell your healthcare provider if you are under stress or have any symptoms of adrenal suppression during treatment with UCERIS extended release tablets including:
+- otiredness
+- oweakness
+- onausea
+- ovomiting
+- olow blood pressure
+- •Immune system effects and a higher chance of infections.
 
 UCERIS extended release tablets weaken your immune system.
 Taking medicines that weaken your immune system makes you more likely to get infections.
-Avoid contact with people who have contagious diseases such as chicken pox or measles, while taking UCERIS extended release tablets.
+Avoid contact with people who have contagious diseases such as chickenpox or measles, while taking UCERIS extended release tablets.
 
 Tell your health care provider about any signs or symptoms of infection during treatment with UCERIS extended release tablets, including:
 
-- •fever
-- •pain
-- •aches
-- •chills
-- •feeling tired
-- •nausea and vomiting
-
-Worsening of allergies.
-If you take certain other corticosteroid medicines to treat allergies, switching to UCERIS extended release tablets may cause your allergies to come back.
-These allergies may include eczema (a skin disease) or rhinitis (inflammation inside your nose).
-Tell your healthcare provider if any of your allergies become worse while taking UCERIS extended release tablets.
+- ofever
+- opain
+- oaches
+- ochills
+- ofeeling tired
+- onausea and vomiting
+- •Worsening of allergies.
+  If you take certain other corticosteroid medicines to treat allergies, switching to UCERIS extended release tablets may cause your allergies to come back.
+  These allergies may include eczema (a skin disease) or rhinitis (inflammation inside your nose).
+  Tell your healthcare provider if any of your allergies become worse while taking UCERIS extended release tablets.
 
 The most common side effects of UCERIS extended release tablets include:
 
@@ -130,10 +125,10 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store UCERIS extended release tablets?
 
-- •Store UCERIS extended release tablets at room temperature, between 68°F to 77°F (20°C to 25°C)
+- •Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 - •Keep the bottle tightly closed to protect UCERIS from light and moisture.
 
-Keep UCERIS extended release tablets and all medicines out of the reach of children.
+Keep out of reach of children
 
 General Information about UCERIS extended release tablets
 
@@ -145,7 +140,7 @@ It may harm them.
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about UCERIS that is written for health professionals.
 
-For more information go to www.UCERIS.com or call (1-800-508-0024).
+For more information go to www.UCERIS.com or call 1-800-321-4576.
 
 What are the ingredients in UCERIS extended release tablets?
 
@@ -163,17 +158,18 @@ Valeant Pharmaceuticals North America LLC
 
 Bridgewater, NJ 08807 USA
 
-By: Cosmo SpA Milan, 20020 Italy
+By: Cosmo S.p.A.
+Milan, 20020 Italy
 
-By license of Cosmo Technologies Ltd., Dublin, Ireland U.S. Patent Nos: 7,410,651; 7,431,943; 8,293,273; 8,784,888;
+By license of Cosmo Technologies Ltd., Dublin, Ireland U.S. Patent Numbers: 7,410,651; 7,431,943; 8,293,273; 8,784,888;
 
-8,895,064; 9,132,093; 9,192,581; 9,320,716; and RE43799
+8,895,064; 9,132,093; 9,192,581; 9,320,716; 9,532,954; 9,592,203 and RE43799
 
-UCERIS is a trademark of Valeant Pharmaceuticals International, Inc.
+Uceris is a trademark of Valeant Pharmaceuticals International, Inc.
 
 or its affiliates.
 
-©Valeant Pharmaceuticals North America LLC
+© Valeant Pharmaceuticals North America LLC
 
-9464201 Rev.
-11/2016
+1. 9464202 70013428 Rev.
+   02/2018

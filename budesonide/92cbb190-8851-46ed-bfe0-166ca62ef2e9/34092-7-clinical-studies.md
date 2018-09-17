@@ -2,7 +2,7 @@
 
 Induction of Remission in Active, Mild to Moderate Ulcerative Colitis
 
-Two similarly-designed, randomized, double-blind, placebo-controlled studies were conducted in a total of 970 adult patients with active, mild to moderate ulcerative colitis (UC) which was defined as an Ulcerative Colitis Disease Activity Index (UCDAI of ≥4 and ≤10).
+Two similarly designed, randomized, double-blind, placebo-controlled studies were conducted in a total of 970 adult patients with active, mild to moderate ulcerative colitis (UC) which was defined as an Ulcerative Colitis Disease Activity Index (UCDAI of ≥4 and ≤10).
 Eight hundred ninety-nine of these patients had histology consistent with active UC; this was considered the primary analysis population.
 UCDAI is a four-component scale (total score of 0 to 12) that encompasses the clinical assessments of stool frequency, rectal bleeding, mucosal appearance and physician’s rating of disease activity (score of 0 to 3 for each of the components).
 
@@ -36,4 +36,4 @@ CI=Confidence Interval
 
 *The reference arm in Study 1 is a delayed release mesalamine 2.4 g; the reference arm in Study 2 is a budesonide 9 mg not approved for the treatment of UC.
 
-†p<0.025 for UCERIS 9 mg vs. placebo in both Studies 1 and 2 based on the Chi-square test (alpha = 0.025)
+†p<0.025 for UCERIS 9 mg vs. placebo in both Studies 1 and 2 based on the Chi-square test (alpha=0.025)

@@ -9,7 +9,7 @@ Its structural formula is:
 
 Budesonide is a white to off-white, tasteless, odorless powder that is practically insoluble in water, sparingly soluble in alcohol, and freely soluble in chloroform.
 
-UCERIS, a delayed and extended-release tablet, is coated with a polymer film, which breaks down at or above pH 7.0.
+UCERIS, a delayed and extended release tablet, is coated with a polymer film, which breaks down at or above pH 7.
 The tablet core contains budesonide with polymers that provide for extended release of budesonide.
 
 Each tablet contains the following inactive ingredients: stearic acid, lecithin, microcrystalline cellulose, hydroxypropyl cellulose, lactose, silicon dioxide, magnesium stearate, methacrylic acid copolymer types A and B, talc, triethyl citrate, and titanium dioxide.

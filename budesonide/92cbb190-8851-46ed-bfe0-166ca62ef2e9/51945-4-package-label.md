@@ -16,4 +16,4 @@ Swallow tablet whole, do not chew or break.
 
 30 Tablets
 
-Salix PHARMACEUTICALS
+Salix
