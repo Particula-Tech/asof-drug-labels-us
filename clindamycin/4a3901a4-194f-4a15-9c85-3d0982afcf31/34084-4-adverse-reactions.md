@@ -4,19 +4,19 @@ In 18 clinical studies of various formulations of CLEOCIN T using placebo vehicl
 
 Number of Patients Reporting Events
 
-| Treatment Emergent Adverse Event | Solution n=553(%) |  | Gel n=148(%) |  | Lotion n=160(%) |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Burning | 62 | (11) | 15 | (10) | 17 | (11) |
-| Itching | 36 | (7) | 15 | (10) | 17 | (11) |
-| Burning/Itching | 60 | (11) | # | (–) | # | (–) |
-| Dryness | 105 | (19) | 34 | (23) | 29 | (18) |
-| Erythema | 86 | (16) | 10 | (7) | 22 | (14) |
-| Oiliness/Oily Skin | 8 | (1) | 26 | (18) | 12of 126 subjects | (10) |
-| Peeling | 61 | (11) | # | (–) | 11 | (7) |
-| # not recorded |  |  |  |  |  |  |
+| Treatment Emergent Adverse Event | Solution n=553(%) | Gel n=148(%) | Lotion n=160(%) |
+| --- | --- | --- | --- |
+| Burning | 62 (11) | 15 (10) | 17 (11) |
+| Itching | 36 (7) | 15 (10) | 17 (11) |
+| Burning/Itching | 60 (11) | # (–) | # (–) |
+| Dryness | 105 (19) | 34 (23) | 29 (18) |
+| Erythema | 86 (16) | 10 (7) | 22 (14) |
+| Oiliness/Oily Skin | 8 (1) | 26 (18) | 12of 126 subjects (10) |
+| Peeling | 61 (11) | # (–) | 11 (7) |
+| # not recorded |  |  |  |
 
 Orally and parenterally administered clindamycin has been associated with severe colitis which may end fatally.
 
 Cases of diarrhea, bloody diarrhea and colitis (including pseudomembranous colitis) have been reported as adverse reactions in patients treated with oral and parenteral formulations of clindamycin and rarely with topical clindamycin (see WARNINGS).
 
-Abdominal pain gastrointestinal disturbances gram-negative folliculitis eye pain and contact dermatitis have also been reported in association with the use of topical formulations of clindamycin.
+Abdominal pain, gastrointestinal disturbances, gram-negative folliculitis, eye pain and contact dermatitis have also been reported in association with the use of topical formulations of clindamycin.
