@@ -35,7 +35,7 @@ Weekly Mean Pain Scores (Observed Cases in ITT Population): Study 1
 Figure 2.
 Weekly Mean Pain Scores (Observed Cases in ITT Population): Study 2
 
-The proportion of responders (those patients reporting at least 50% improvement in endpoint pain score compared with baseline) was calculated for each study (Figure 3).
+The proportion of responders (those patients reporting at least 50% improvement in endpoint pain score compared to baseline) was calculated for each study (Figure 3).
 
 ­­­­
 

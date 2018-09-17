@@ -53,7 +53,7 @@ The clearance was highly variable in infants <1 year of age.
 The normalized CL/F values observed in pediatric patients 5 years of age and older were consistent with values observed in adults after a single dose.
 The oral volume of distribution normalized per body weight was constant across the age range.
 
-These pharmacokinetic data indicate that the effective daily dose in pediatric patients with epilepsy ages 3 and 4 years should be 40 mg/kg/day to achieve average plasma concentrations similar to those achieved in patients 5 years of age and older receiving gabapentin at 30 mg/kg/day [see Dosage and Administration (2.1)].
+These pharmacokinetic data indicate that the effective daily dose in pediatric patients with epilepsy ages 3 and 4 years should be 40 mg/kg/day to achieve average plasma concentrations similar to those achieved in patients 5 years of age and older receiving gabapentin at 30 mg/kg/day [see Dosage and Administration (2.2)].
 
 Adult Patients with Renal Impairment
 
@@ -109,7 +109,7 @@ Morphine A literature article reported that when a 60 mg controlled-release morp
 Morphine pharmacokinetic parameter values were not affected by administration of gabapentin 2 hours after morphine.
 The magnitude of interaction at other doses is not known.
 
-Cimetidine In the presence of cimetidine at 300 mg QID (N=12), the mean apparent oral clearance of gabapentin fell by 14% and creatinine clearance fell by 10%.
+Cimetidine In the presence of cimetidine at 300 mg four times a day (N=12), the mean apparent oral clearance of gabapentin fell by 14% and creatinine clearance fell by 10%.
 Thus, cimetidine appeared to alter the renal excretion of both gabapentin and creatinine, an endogenous marker of renal function.
 This small decrease in excretion of gabapentin by cimetidine is not expected to be of clinical importance.
 The effect of gabapentin on cimetidine was not evaluated.
