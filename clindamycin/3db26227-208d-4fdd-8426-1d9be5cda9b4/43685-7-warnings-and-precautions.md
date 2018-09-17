@@ -60,8 +60,8 @@ Since this effect was not observed in other mouse strains or in other species, t
 
 ## Nursing Mothers
 
-Clindamycin has been detected in human milk after oral or parenteral administration.
-It is not known if clindamycin is excreted in human milk following the use of vaginally administered clindamycin phosphate.
+Clindamycin has been detected in human breast milk in ranges from <0.5 to 3.8 µg/mL following systemic use.
+It is not known if clindamycin is excreted in human breast milk following the use of vaginally administered clindamycin phosphate.
 
 Clindamycin has the potential to cause adverse effects on the breastfed infant's gastrointestinal flora.
 If oral or intravenous clindamycin is required by a nursing mother, it is not a reason to discontinue breastfeeding, but an alternate drug may be preferred.
