@@ -32,7 +32,7 @@ Rat doses were 4.4, 13.3, and 40 mg/kg/day (equivalent to 0.2, 0.5 and 1.5 times
 No embryo-fetal effects were observed in rats at the doses tested with the high dose causing increased maternal lethality.
 An increase in embryo-fetal deaths was observed in rabbits at the high dose in the absence of maternal toxicity.
 
-Decreased pup survival was noted at 1.5 times the MRHD in a rat pre- and post-natal development study when pregnant animals were administered subcutaneous doses of 4.4, 13.3, and 40 mg/kg/day bupivacaine (equivalent to 0.2, 0.5 and 1.5 times the MRHD, respectively, based on the BSA comparisons and a 60 kg human weight) from implantation through weaning (during pregnancy and lactation).
+Decreased pup survival was noted at 1.5 times the MRHD in a rat pre- and post-natal development study when pregnant animals were administered subcutaneous doses of 4.4, 13.3, and 40 mg/kg/day bupivacaine hydrochloride (equivalent to 0.2, 0.5 and 1.5 times the MRHD, respectively, based on the BSA comparisons and a 60 kg human weight) from implantation through weaning (during pregnancy and lactation).
 
 ## 8.2 Lactation
 

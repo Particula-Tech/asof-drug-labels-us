@@ -4,4 +4,4 @@ EXPAREL is indicated for single-dose infiltration in adults to produce postsurgi
 
 Limitations of Use
 
-Safety and efficacy h not been established in other nerve blocks.
+Safety and efficacy have not been established in other nerve blocks.
