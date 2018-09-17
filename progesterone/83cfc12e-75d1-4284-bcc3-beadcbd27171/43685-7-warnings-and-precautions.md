@@ -6,6 +6,11 @@ Should any of these occur or be suspected, the drug should be discontinued immed
 Medication should be discontinued pending examination if there is a sudden partial or complete loss of vision, or if there is a sudden onset of proptosis, diplopia or migraine.
 If examination reveals papilledema or retinal vascular lesions, medication should be withdrawn.
 
+Acute eosinophilic pneumonia has been reported in patients receiving progesterone in sesame oil.
+In reported cases associated with progesterone in sesame oil, patients developed fever, dyspnea with hypoxic respiratory insufficiency, and diffuse pulmonary infiltrates.
+In general, patients developed eosinophilic pneumonia 2 to 4 weeks after starting progesterone in sesame oil and improved when progesterone in sesame oil was discontinued and a different formulation of progesterone and/or steroid therapy was initiated.
+Patients who develop these signs and symptoms while receiving progesterone in sesame oil should undergo prompt medical evaluation, and progesterone in sesame oil should be discontinued immediately.
+
 # PRECAUTIONS
 
 ## General

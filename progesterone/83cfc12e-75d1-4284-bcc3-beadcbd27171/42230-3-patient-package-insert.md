@@ -1,5 +1,11 @@
 # PATIENT INFORMATION
 
+PROGESTERONE INJECTION, USP
+
+IN SESAME OIL – FOR INTRAMUSCULAR USE ONLY
+
+Rx Only
+
 FOR THE TREATMENT OF AMENORRHEA (ABSENCE OF MENSES IN WOMEN WHO HAVE PREVIOUSLY HAD A MENSTRUAL PERIOD) OR ABNORMAL UTERINE BLEEDING DUE TO HORMONAL IMBALANCE.
 
 Please read this information carefully before you start to use progesterone injection and each time your prescription is renewed, in case anything has changed.
@@ -20,6 +26,7 @@ Progesterone injection can provide you with the progesterone needed during a nor
 Possible side effects of progesterone injection The following side effects have been reported with progesterone injection.
 Consult your doctor if you experience any of the side effects mentioned below, or other side effects.
 
+- anaphylactoid (life-threatening allergic) reaction with symptoms that may include a sense of uneasiness or apprehension; flushing; fast, throbbing heartbeat; itching; hives; difficult breathing; swelling of the throat; eosinophilic pneumonia (gathering of eosinophils, a type of white blood cell, in the lungs), fainting; nausea; vomiting; or convulsions.
 - breakthrough bleeding
 - spotting
 - changes in menstrual flow
@@ -37,7 +44,6 @@ Consult your doctor if you experience any of the side effects mentioned below, o
 - fever
 - insomnia or sleepiness*
 - nausea
-- anaphylactoid (life-threatening allergic) reaction with symptoms that may include a sense of uneasiness or apprehension; flushing; fast, throbbing heartbeat; itching; hives; difficult breathing; swelling of the throat; fainting; nausea; vomiting; or convulsions.
 
 *If you experience sleepiness, do not drive or operate machinery.
 
@@ -89,13 +95,27 @@ If you have any questions about product administration, ask your doctor or healt
 How Supplied Progesterone Injection, USP 50 mg/mL is available in 10 mL multiple dose vials.
 Vials are individually boxed.
 
-Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
+Progesterone Injection should be stored at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
 Do not use progesterone injection after the expiration date which is printed on the vial label.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
-Manufactured by: Hikma Farmaceutica (Portugal) S.A.
+Manufactured By:
 
-Distributed by: West-ward Pharmaceutical Corp. Eatontown, NJ 07724 USA
+HIKMA FARMACÊUTICA (PORTUGAL), S.A.
+
+Estrada do Rio da Mó, 8, 8A e 8B – Fervença – 2705-906 Terrugem SNT, Portugal
+
+Distributed by:
+
+WEST-WARD
+
+A HIKMA COMPANY
+
+Eatontown, NJ 07724 USA
+
+Revised: August 2018
+
+PIN258-WES/4

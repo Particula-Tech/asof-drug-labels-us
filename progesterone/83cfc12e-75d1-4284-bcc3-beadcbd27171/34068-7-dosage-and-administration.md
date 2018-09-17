@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-Progesterone injection is administered by intramuscular injection.
+Progesterone Injection, USP is administered by intramuscular injection.
 It differs from other commonly used steroids in that it is irritating at the place of injection.
 
 Amenorrhea: Five to 10 mg are given for six to eight consecutive days.

@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Progesterone injection, USP a progestin, is a sterile solution of progesterone in a suitable vegetable oil available for intramuscular use.
+Progesterone injection, USP, a progestin, is a sterile solution of progesterone in a suitable vegetable oil available for intramuscular use.
 
 Progesterone occurs as a white or creamy white, crystalline powder.
 It is odorless and is stable in air.
