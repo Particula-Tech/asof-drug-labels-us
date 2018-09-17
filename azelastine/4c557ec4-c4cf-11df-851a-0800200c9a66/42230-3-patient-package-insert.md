@@ -1,8 +1,10 @@
-PATIENT INFORMATION
+# PATIENT INFORMATION
 
 DYMISTA (Dy-Mist-A)
 
-(azelastine hydrochloride and fluticasone propionate) nasal spray
+(azelastine hydrochloride and fluticasone
+
+propionate) nasal spray
 
 Important: For use in your nose only
 
@@ -24,19 +26,17 @@ Before using DYMISTA tell your healthcare provider if you:
 - •are not feeling well or have any other symptoms that you do not understand
 - •have any other medical conditions
 - •are pregnant or plan to become pregnant.
-  It is not known if DYMISTA will harm your unborn baby.
-  Talk to your healthcare provider if you are pregnant or plan to become pregnant.
 - •are breastfeeding or plan to breastfeed.
   It is not known if DYMISTA passes into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby while using DYMISTA.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
-DYMISTA and other medicines may affect each other,causing side effects.
+DYMISTA and other medicines may affect each other, causing side effects.
 
 Especially tell your healthcare provider if you take:
 
-- •ritanovir (Norvir) or medicines that contain ritanovir (commonly used to treat HIV infection or AIDS)
+- •ritonavir (Norvir) or medicines that contain ritonavir (commonly used to treat HIV infection or AIDS)
 - •ketoconazole, fluconazole, or itraconazole (for fungal infections)
 
 Ask your healthcare provider or pharmacist for a list of these medications, if you are not sure.
@@ -144,11 +144,7 @@ Active ingredients: azelastine hydrochloride and fluticasone propionate
 
 Inactive ingredients: glycerin, microcrystalline cellulose and carboxymethylcellulose sodium, phenylethyl alcohol, edetate disodium, benzalkonium chloride, polysorbate 80, and purified water.
 
-Instructions for Use
-
-DYMISTA (Dy-Mist-A)
-
-(azelastine hydrochloride and fluticasone propionate) nasal spray
+Instructions for Use DYMISTA (Dy-Mist-A) (azelastine hydrochloride and fluticasone propionate) nasal spray
 
 For use in your nose only.
 Do not spray in your eyes.
@@ -223,7 +219,9 @@ Step 5.
 
 For each spray firmly press the pump 1 time.
 Keep your head tilted down and at the same time, gently breathe in through your nostril.
-(See Figure F) Do not spray directly onto the nasal septum (the wall between your 2 nostrils).
+(See Figure F).
+
+Do not spray directly onto the nasal septum (the wall between your 2 nostrils).
 
 - •Repeat Step 5 in your other nostril.
 - •Do not tilt your head back.
@@ -248,7 +246,7 @@ Keep track of the number of sprays you use from your bottle of DYMISTA and throw
 
 Do not count any sprays used for initially priming the bottle.
 
-To Clean the Spray Pump Tip:
+Cleaning the Spray Pump Tip:
 
 Your DYMISTA should be cleaned at least 1 time each week.
 To do this:
@@ -292,13 +290,12 @@ Replace the dust cap and your DYMISTA is ready for use.
 
 This Patient Package Insert and Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Distributed by: MEDA PHARMACEUTICALS® Somerset, New Jersey 08873-4120
+Distributed by:
 
-©2015 Meda Pharmaceuticals Inc.
+Meda Pharmaceuticals Inc. Somerset, New Jersey 08873-4120 ©2018 Mylan Specialty L.P.
 
-MEDA PHARMACEUTICALS and DYMISTA are registered trademarks of Meda Pharmaceuticals Inc. or a related entity.
+DYMISTA is a registered trademark of Meda Pharmaceuticals Inc., a Mylan company.
 
-U.S. Patents 8,163,723; 8,168,620
+U.S. Patents 8,163,723; 8,168,620; 9,259,428; and 9,901,585
 
-IN-023A6-05 Rev.
-2/2015
+IN-023A6-XX Revised: 9/2018

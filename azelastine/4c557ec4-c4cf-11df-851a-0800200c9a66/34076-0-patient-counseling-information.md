@@ -48,12 +48,14 @@ Potential Drug Interactions
 
 Advise patients that coadministration of DYMISTA and ritonavir is not recommended and to be cautious if DYMISTA is coadministered with ketoconazole [see Drug Interactions (7.2)].
 
-U.S. Patents 8,163,723; 8,168,620
+U.S. Patents 8,163,723; 8,168,620; 9,259,428; and 9,901,585
 
 Manufactured by: Cipla Ltd. Goa, India
 
-Distributed by: MEDA PHARMACEUTICALS® Somerset, New Jersey 08873-4120
+Distributed by:
 
-MEDA PHARMACEUTICALS and DYMISTA are registered trademarks of Meda Pharmaceuticals Inc. or a related entity.
+MEDA PHARMACEUTICALS® Somerset, New Jersey 08873-4120
+
+DYMISTA is a registered trademark of Meda Pharmaceuticals Inc, a Mylan company.
 
 Made in India.

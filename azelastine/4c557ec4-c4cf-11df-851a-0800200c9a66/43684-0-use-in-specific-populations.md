@@ -2,46 +2,82 @@
 
 ## 8.1 Pregnancy
 
-DYMISTA: Teratogenic Effects: Pregnancy Category C:
+### Risk Summary
 
-There are no adequate and well-controlled clinical trials of DYMISTA, azelastine hydrochloride only, or fluticasone propionate only in pregnant women.
-Animal reproductive studies of azelastine hydrochloride and fluticasone propionate in mice, rats, and/or rabbits revealed evidence of teratogenicity as well as other developmental toxic effects.
-Because animal reproduction studies are not always predictive of human response, DYMISTA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Limited data from postmarketing experience with DYMISTA in pregnant women have not identified any drug associated risks of miscarriage, birth defects, or other adverse maternal or fetal outcomes.
+The individual components of DYMISTA have been marketed for decades.
+While the data regarding the use of nasal preparations of fluticasone propionate in pregnancy are limited, data from clinical studies of inhaled fluticasone propionate do not indicate an increased risk of adverse maternal or fetal outcomes.
 
-Azelastine hydrochloride: Teratogenic Effects: In mice, azelastine hydrochloride caused embryo-fetal death, malformations (cleft palate; short or absent tail; fused, absent or branched ribs), delayed ossification, and decreased fetal weight at an oral dose approximately 610 times the maximum recommended human daily intranasal dose (MRHDID) in adults (on a mg/m2 basis at a maternal dose of 68.6 mg/kg).
-This dose also caused maternal toxicity as evidenced by decreased body weight.
-Neither fetal nor maternal effects occurred at a dose that was approximately 26 times the MRHDID (on a mg/m2 basis at a maternal dose of 3 mg/kg).
+Animal reproduction studies with DYMISTA are not available; however, studies are available with its individual components, azelastine hydrochloride and fluticasone propionate.
+In animal reproduction studies, there was no evidence of fetal harm in animals at oral doses of azelastine hydrochloride approximately 10 times the clinical daily dose.
+Oral administration of azelastine hydrochloride to pregnant mice, rats, and rabbits, during the period of organogenesis, produced developmental toxicity that included structural abnormalities, decreased embryo-fetal survival, and decreased fetal body weights at doses 530 times and higher than the maximum recommended human daily intranasal dose (MRHDID) of 0.548 mg.
+However, the relevance of these findings in animals to pregnant women was considered questionable based upon the high animal to human dose multiple.
 
-In rats, azelastine hydrochloride caused malformations (oligo- and brachydactylia), delayed ossification and skeletal variations, in the absence of maternal toxicity, at an oral dose approximately 530 times the MRHDID in adults (on a mg/m2 basis at a maternal dose of 30 mg/kg).
-At a dose approximately 1200 times the MRHDID (on a mg/m2 basis at a maternal dose of 68.6 mg/kg), azelastine hydrochloride also caused embryo-fetal death and decreased fetal weight; however, this dose caused severe maternal toxicity.
-Neither fetal nor maternal effects occurred at a dose approximately 53 times the MRHDID (on a mg/m2 basis at a maternal dose of 3 mg/kg).
+In animal reproduction studies, fluticasone propionate administered via nose-only inhalation to rats decreased fetal body weight, but did not induce teratogenicity at a maternal toxic dose less than the MRHDID on a mcg/m2 basis.
+Teratogenicity, characteristic of corticosteroids, decreased fetal body weight and/or skeletal variations, in rats, mice, and rabbits were observed with subcutaneously administered maternal toxic doses of fluticasone propionate less than the MRHDID of 200 mcg on a mcg/m2 basis (see Data).
+Experience with corticosteroids suggests that rodents are more prone to teratogenic effects from corticosteroids than humans.
 
-In rabbits, azelastine hydrochloride caused abortion, delayed ossification, and decreased fetal weight at oral doses approximately 1100 times the MRHDID in adults (on a mg/m2 basis at a maternal dose of 30 mg/kg); however, these doses also resulted in severe maternal toxicity.
-Neither fetal nor maternal effects occurred at a dose approximately 11 times the MRHDID (on a mg/m2 basis at a maternal dose of 0.3 mg/kg).
+The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
-Fluticasone propionate: Teratogenic Effects: Corticosteroids have been shown to be teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
-Subcutaneous studies in the mouse and rat at doses approximately equivalent to and 4 times, respectively, the MRHDID in adults (on a mcg/m2 basis at maternal doses of 45 and 100 mcg/kg, respectively), revealed fetal toxicity characteristic of potent corticosteroid compounds, including embryonic growth retardation, omphalocele, cleft palate, and retarded cranial ossification.
+### Data
 
-In the rabbit, fetal weight reduction and cleft palate were observed at a subcutaneous dose less than the MRHDID in adults (on a mcg/m2 basis at a maternal dose of 4 mcg/kg).
-However, no teratogenic effects were reported at oral doses up to approximately 25 times the MRHDID in adults (on a mcg/m2 basis at a maternal dose of 300 mcg/kg) of fluticasone propionate to the rabbit.
-No fluticasone propionate was detected in the plasma in this study, consistent with the established low bioavailability following oral administration [see Clinical Pharmacology (12.3)].
+#### Animal Data
 
-Experience with oral corticosteroids since their introduction in pharmacologic, as opposed to physiologic, doses suggests that rodents are more prone to teratogenic effects from corticosteroids than humans.
-In addition, because there is a natural increase in corticosteroid production during pregnancy, most women will require a lower exogenous corticosteroid dose and many will not need corticosteroid treatment during pregnancy.
+##### Azelastine hydrochloride
 
-Nonteratogenic Effects: Fluticasone propionate crossed the placenta following oral administration of approximately 4 and 25 times the MRHDID in adults (on a mcg/m2 basis at maternal doses of 100 mcg/kg and 300 mcg/kg to rats and rabbits, respectively).
+In an embryo-fetal development study in mice dosed during the period of organogenesis, azelastine hydrochloride caused embryo-fetal death, structural abnormalities (cleft palate; short or absent tail; fused, absent or branched ribs), delayed ossification, and decreased fetal weight at approximately 610 times the MRHDID in adults (on a mg/m2 basis at a maternal oral dose of 68.6 mg/kg/day), which also caused maternal toxicity as evidenced by decreased maternal body weight.
+Neither fetal nor maternal effects occurred in mice at approximately 25 times the MRHDID in adults (on a mg/m2 basis at a maternal oral dose of 3 mg/kg/day).
 
-## 8.3 Nursing Mothers
+In an embryo-fetal development study in pregnant rats dosed during the period of organogenesis from gestation days 7 to 17, azelastine hydrochloride caused structural abnormalities (oligo-and brachydactylia), delayed ossification, and skeletal variations, in the absence of maternal toxicity, at approximately 530 times the MRHDID in adults (on a mg/m2 basis at a maternal oral dose of 30 mg/kg/day).
+Azelastine hydrochloride caused embryo-fetal death and decreased fetal weight and severe maternal toxicity at approximately 1200 times the MRHDID (on a mg/m2 basis at a maternal oral dose of 68.6 mg/kg/day).
+Neither fetal nor maternal effects occurred at approximately 55 times the MRHDID (on a mg/m2 basis at a maternal oral dose of 3 mg/kg/day).
 
-DYMISTA: It is not known whether DYMISTA is excreted in human breast milk.
-Because many drugs are excreted in human milk, caution should be exercised when DYMISTA is administered to a nursing woman.
-Since there are no data from well-controlled human studies on the use of DYMISTA by nursing mothers, based on data from the individual components, a decision should be made whether to discontinue nursing or to discontinue DYMISTA, taking into account the importance of DYMISTA to the mother.
+In an embryo-fetal development study in pregnant rabbits dosed during the period of organogenesis from gestation days 6 to 18, azelastine hydrochloride caused abortion, delayed ossification and decreased fetal weight and severe maternal toxicity at approximately 1100 times the MRHDID in adults (on a mg/m2 basis at a maternal oral dose of 30 mg/kg/day).
+Neither fetal nor maternal effects occurred at approximately 10 times the MRHDID (on a mg/m2 basis at a maternal oral dose of 0.3 mg/kg/day).
 
-Azelastine hydrochloride: It is not known if azelastine hydrochloride is excreted in human milk.
+In a prenatal and postnatal development study in pregnant rats dosed from late in the gestation period and through the lactation period from gestation day 17 through lactation day 21, azelastine hydrochloride produced no adverse developmental effects on pups at maternal doses up to approximately 530 times the MRHDID (on mg/m2 basis at a maternal dose of 30 mg/kg/day).
 
-Fluticasone propionate: It is not known if fluticasone propionate is excreted in human milk.
-However, other corticosteroids are excreted in human milk.
-Subcutaneous administration to lactating rats of 10 mcg/kg of tritiated fluticasone propionate (less than the maximum recommended daily intranasal dose in adults on a mcg/m2 basis) resulted in measurable radioactivity in the milk.
+##### Fluticasone propionate
+
+In embryofetal development studies with pregnant rats and mice dosed by the subcutaneous route throughout the period of organogenesis, fluticasone propionate was teratogenic in both species.
+Omphalocele, decreased body weight, and skeletal variations were observed in rat fetuses, in the presence of maternal toxicity, at a dose approximately 5 times the MRHDID (on a mg/m2 basis with a maternal subcutaneous dose of 100 mcg/kg/day).
+Neither fetal nor maternal effects occurred in rats at approximately 1 times the MRHDID (on a mg/m2 basis with a maternal subcutaneous dose of 30 mcg/kg/day).
+Cleft palate and fetal skeletal variations were observed in mouse fetuses at a dose approximately 1 times the MRHDID (on a mg/m2 basis with a maternal subcutaneous dose of 45 mcg/kg/day).
+Neither fetal nor maternal effects occurred in mice with a dose approximately 0.4 times the MRHDID (on a mg/m2 basis with a maternal subcutaneous dose of 15 mcg/kg/day).
+
+In an embryofetal development study with pregnant rats dosed by the nose-only inhalation route throughout the period of organogenesis, fluticasone propionate produced decreased fetal body weights and skeletal variations, in the presence of maternal toxicity, at a dose approximately 1 times the MRHDID (on a mg/m2 basis with a maternal nose-only inhalation dose of 25.7 mcg/kg/day); however, there was no evidence of teratogenicity.
+Neither fetal nor maternal effects occurred in rats with a dose approximately 0.25 times the MRHDID (on a mg/m2 basis with a maternal nose-only inhalation dose of 5.5 mcg/kg/day).
+
+In an embryofetal development study in pregnant rabbits that were dosed by the subcutaneous route throughout organogenesis, fluticasone propionate produced reductions of fetal body weights, in the presence of maternal toxicity, at doses approximately 0.06 times the MRHDID and higher (on a mg/m2 basis with a maternal subcutaneous dose of 0.57 mcg/kg/day).
+Teratogenicity was evident based upon a finding of cleft palate for 1 fetus at dose approximately 0.4 times the MRHDID (on a mg/m2 basis with a maternal subcutaneous dose of 4 mcg/kg/day).
+Neither fetal nor maternal effects occurred in rabbits with a dose approximately 0.01 times the MRHDID (on a mg/m2 basis with a maternal subcutaneous dose of 0.08 mcg/kg/day).
+
+Fluticasone propionate crossed the placenta following subcutaneous administration to mice and rats and oral administration to rabbits.
+
+In a pre- and post-natal development study in pregnant rats dosed from late gestation through delivery and lactation (Gestation Day 17 to Postpartum Day 22), fluticasone propionate was not associated with decreases in pup body weight, and had no effects on developmental landmarks, learning, memory, reflexes, or fertility at doses up to 2 times the MRHDID (on a mg/m2 basis with maternal subcutaneous doses up to 50 mcg/kg/day).
+
+## 8.2 Lactation
+
+### Risk Summary
+
+There are no available data on the presence of azelastine hydrochloride or fluticasone propionate in human milk, the effects on the breastfed infant, or the effects on milk production.
+Breastfed infants should be monitored for signs of milk rejection during DYMISTA use by lactating women (see Clinical Considerations).
+Fluticasone propionate is present in rat milk (see Data).
+Other corticosteroids have been detected in human milk.
+However, fluticasone propionate concentrations in plasma after intranasal therapeutic doses are low and therefore concentrations in human breast milk are likely to be correspondingly low [see Clinical Pharmacology (12.3)].
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for DYMISTA and any potential adverse effects on the breastfed infant from DYMISTA or from the underlying maternal condition.
+
+### Clinical Considerations
+
+#### Monitoring for Adverse Reactions
+
+Breastfed infants of lactating women treated with DYMISTA should be monitored for possible signs of milk rejection related to the bitter taste of azelastine hydrochloride.
+
+### Data
+
+Subcutaneous administration of 10 mcg/kg of tritiated fluticasone propionate to lactating rats resulted in measurable radioactivity in the milk.
 
 ## 8.4 Pediatric Use
 

@@ -12,7 +12,7 @@ Systemic and local corticosteroid use may result in the following:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect rates observed in practice.
 
-Adults and Adolescents 12 Years of Age and Older
+### Adults and Adolescents 12 Years of Age and Older
 
 The safety data described below in adults and adolescents 12 years of age and older reflect exposure to DYMISTA in 853 patients (12 years of age and older; 36% male and 64% female) with seasonal allergic rhinitis in 3 double-blind, placebo-controlled clinical trials of 2-week duration.
 The racial distribution for the 3 clinical trials was 80% white, 16% black, 2% Asian, and 1% other.
@@ -25,17 +25,18 @@ Overall, 1% of patients in both the DYMISTA and placebo groups discontinued due 
 Table 1 contains adverse reactions reported with frequencies greater than or equal to 2% and more frequently than placebo in patients treated with DYMISTA in the seasonal allergic rhinitis controlled clinical trials.
 
 Table 1.
-Adverse Reactions with ≥2% Incidence and More Frequently than Placebo in Placebo-Controlled Trials of 2 Weeks Duration with DYMISTA in Adult and Adolescent Patients With Seasonal Allergic Rhinitis
+Adverse Reactions with ≥ 2% Incidence and More Frequently than Placebo in Placebo-Controlled Trials of 2 Weeks Duration with DYMISTA in Adult and Adolescent Patients with Seasonal Allergic Rhinitis
 
 |  | 1 spray per nostril twice daily |  |  |  |
 | --- | --- | --- | --- | --- |
-| DYMISTA (N=853)* | Azelastine Hydrochloride Nasal Spray† (N=851) | Fluticasone Propionate Nasal Spray† (N=846) | Vehicle Placebo (N=861) |  |
+| DYMISTA(N=853)Safety population N=853, intent-to-treat population N=848 | Azelastine Hydrochloride Nasal SprayNot commercially marketed (N=851) | Fluticasone Propionate Nasal Spray(N=846) | Vehicle Placebo(N=861) |  |
 | Dysgeusia | 30(4%) | 44(5%) | 4(1%) | 2(<1%) |
 | Headache | 18(2%) | 20(2%) | 20(2%) | 10(1%) |
 | Epistaxis | 16(2%) | 14(2%) | 14(2%) | 15(2%) |
-| *Safety population N=853, intent-to-treat population N=848 † Not commercially marketed |  |  |  |  |
 
-Pediatric Patients 6-11 Years of Age
+In the above trials, somnolence was reported in <1% of patients treated with DYMISTA (6 of 853) or vehicle placebo (1 of 861) [see Warnings and Precautions (5.1)].
+
+### Pediatric Patients 6-11 Years of Age
 
 The safety data described below in children 6-11 years of age reflect exposure to DYMISTA in 152 patients (6-11 years of age; 57% male and 43% female) with seasonal allergic rhinitis in one double-blind, placebo-controlled clinical trial of 2-week duration.
 The racial distribution for the clinical trial was 69% white, 31% black, 2% Asian and 2% other.
@@ -47,16 +48,17 @@ Overall, 1% of patients in both the DYMISTA and placebo groups discontinued due 
 Table 2 contains adverse reactions reported with frequencies greater than or equal to 2% and more frequently than placebo in patients treated with DYMISTA in the seasonal allergic rhinitis controlled clinical trial.
 
 Table 2.
-Adverse Reactions with ≥2% Incidence and More Frequently than Placebo in Placebo-Controlled Trials of 2 Weeks Duration with DYMISTA in Children 6 to 11 Years of Age With Seasonal Allergic Rhinitis
+Adverse Reactions with ≥2% Incidence and More Frequently than Placebo in Placebo-Controlled Trials of 2 Weeks Duration with DYMISTA in Children 6 to 11 Years of Age with Seasonal Allergic Rhinitis
 
-|  | 1 spray per nostril twice daily |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| DYMISTA (N=152)* | Vehicle Placebo (N=152) |  |  |  |  |  |  |  |
-| Dysgeusia | 6 (4%) | 0 (0%) |  |  |  |  |  |  |
-| Epistaxis | 6 (4%) | 4 (3%) |  |  |  |  |  |  |
-| *Safety population N=152, intent-to-treat population N=152 |  |  |  |  |  |  |  |  |
+|  | 1 spray per nostril twice daily |  |
+| --- | --- | --- |
+| DYMISTA (N=152)Safety population N=152, intent-to-treat population N=152 | Vehicle Placebo (N=152) |  |
+| Dysgeusia | 6 (4%) | 0 (0%) |
+| Epistaxis | 6 (4%) | 4 (3%) |
 
-Long-Term (12-Month) Safety Trial in Adults and Adolescents 12 Years of Age and Older:
+In the above trial, somnolence was not reported [see Warnings and Precautions (5.1)].
+
+### Long-Term (12-Month) Safety Trial in Adults and Adolescents 12 Years of Age and Older
 
 In the 12-month open-label, active-controlled clinical trial, 404 Asian patients (240 males and 164 females) with perennial allergic rhinitis or vasomotor rhinitis were treated with DYMISTA, 1 spray per nostril twice daily.
 
@@ -69,7 +71,7 @@ No patients had reports of severe epistaxis.
 Focused nasal examinations were performed and no nasal ulcerations or septal perforations were observed.
 Eleven of 404 patients (3%) treated with DYMISTA and 6 of 207 patients (3%) treated with fluticasone propionate nasal spray discontinued from the trial due to adverse events.
 
-Long-Term (3-Month) Safety Trial in Pediatric Patients 6-11 Years of Age
+### Long-Term (3-Month) Safety Trial in Pediatric Patients 6-11 Years of Age
 
 In the 3-month open label active-controlled clinical trial, 264 patients (60% male, 40% female) (80% white, 19% black, 4% Asian and 2% other) with allergic rhinitis were treated with DYMISTA, 1 spray per nostril twice daily.
 
