@@ -186,12 +186,6 @@ Other Microorganisms
 
 - Chlamydia trachomatis
 
-Susceptibility Test Methods
+Susceptibility Testing
 
-When available, the clinical microbiology laboratory should provide cumulative reports of in vitro susceptibility test results for antimicrobial drugs used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
-These reports should aid the physician in selecting an antibacterial drug for treatment.
-
-Mycobacteria
-
-Susceptibility testing of azithromycin is not recommended because of the technical difficulties associated with testing azithromycin (i.e., poor solubility at the high concentration of drug that must be tested).
-Clarithromycin is the most appropriate class drug for testing the macrolides 1.
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
