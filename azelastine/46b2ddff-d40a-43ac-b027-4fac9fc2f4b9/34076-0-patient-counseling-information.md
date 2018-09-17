@@ -27,11 +27,3 @@ Keep Out of Children’s Reach
 
 Instruct patients to keep Astelin Nasal Spray out of the reach of children.
 If a child accidentally ingests Astelin Nasal Spray, seek medical help or call a poison control center immediately.
-
-U.S. Patent D447,419
-
-Manufactured by: Meda Pharmaceuticals Inc. Somerset, New Jersey 08873-4120
-
-©2014 Meda Pharmaceuticals Inc.
-
-ASTELIN and MEDA PHARMACEUTICALS are registered trademarks of Meda Pharmaceuticals Inc.

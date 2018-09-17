@@ -13,6 +13,8 @@ The recommended dosage of Astelin Nasal Spray in adults and adolescent patients 
 
 Administer Astelin Nasal Spray by the intranasal route only.
 
-Priming: Prime Astelin Nasal Spray before initial use by releasing 4 sprays or until a fine mist appears.
+### Priming
+
+Prime Astelin Nasal Spray before initial use by releasing 4 sprays or until a fine mist appears.
 When Astelin Nasal Spray has not been used for 3 or more days, reprime with 2 sprays or until a fine mist appears.
 Avoid spraying Astelin Nasal Spray into the eyes.

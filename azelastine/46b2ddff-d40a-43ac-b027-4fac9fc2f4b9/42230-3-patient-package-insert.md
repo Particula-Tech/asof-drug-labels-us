@@ -1,12 +1,14 @@
-PATIENT INFORMATION Astelin [AS-ta-LIN] (azelastine hydrochloride) Nasal Spray
+PATIENT INFORMATION
+
+Astelin [AS-ta-LIN] (azelastine hydrochloride) Nasal Spray
 
 | Important: For use in your nose only. |
 | --- |
 
 What is Astelin Nasal Spray?
 
-- Astelin Nasal Spray is a prescription medicine used to treat symptoms of seasonal allergic rhinitis in people age 5 and older and vasomotor rhinitis in people age 12 and older.
-- Astelin Nasal Spray may help to reduce your nasal symptoms including stuffy nose, runny nose, itching and sneezing.
+- •Astelin Nasal Spray is a prescription medicine used to treat symptoms of seasonal allergic rhinitis in people age 5 and older and vasomotor rhinitis in people age 12 and older.
+- •Astelin Nasal Spray may help to reduce your nasal symptoms including stuffy nose, runny nose, itching and sneezing.
 
 It is not known if Astelin Nasal Spray is safe and effective in children with seasonal allergic rhinitis under 5 years of age or in children with vasomotor rhinitis under 12 years of age.
 
@@ -14,11 +16,10 @@ What should I tell my healthcare provider before using Astelin Nasal Spray?
 
 Before using Astelin Nasal Spray, tell your healthcare provider if you are:
 
-- allergic to any of the ingredients in Astelin Nasal Spray.
+- •allergic to any of the ingredients in Astelin Nasal Spray.
   See the end of this leaflet for a complete list of ingredients in Astelin Nasal Spray.
-- pregnant, or plan to become pregnant.
-  It is not known if Astelin Nasal Spray will harm your unborn baby.
-- breastfeeding, or plan to breastfeed.
+- •pregnant, or plan to become pregnant.
+- •breastfeeding, or plan to breastfeed.
   It is not known if Astelin Nasal Spray passes into your breast milk.
   You and your healthcare provider should decide if you will use Astelin Nasal Spray if you plan to breastfeed.
 
@@ -27,41 +28,41 @@ Astelin Nasal Spray and other medicines may affect each other, causing side effe
 
 How should I use Astelin Nasal Spray?
 
-- Read the Instructions for Use at the end of this leaflet for information about the right way to use Astelin Nasal Spray.
-- Spray Astelin Nasal Spray in your nose only.
+- •Read the Instructions for Use at the end of this leaflet for information about the right way to use Astelin Nasal Spray.
+- •Spray Astelin Nasal Spray in your nose only.
   Do not spray it into your eyes or mouth.
-- Use Astelin Nasal Spray exactly as your healthcare provider tells you to use it.
-- Do not use more than your healthcare provider tells you.
-- Throw away your Astelin Nasal Spray bottle after using 200 sprays.
+- •Use Astelin Nasal Spray exactly as your healthcare provider tells you to use it.
+- •Do not use more than your healthcare provider tells you.
+- •Throw away your Astelin Nasal Spray bottle after using 200 sprays.
   Even though the bottle may not be completely empty, you may not get the correct dose of medicine.
-- If you use too much or a child accidentally swallows Astelin Nasal Spray, call your healthcare provider or go to the nearest hospital emergency room right away.
+- •If you use too much or a child accidentally swallows Astelin Nasal Spray, call your healthcare provider or go to the nearest hospital emergency room right away.
 
 What should I avoid while using Astelin Nasal Spray?
 
 Astelin Nasal Spray can cause sleepiness:
 
-- Do not drive, operate machinery, or do other dangerous activities until you know how Astelin Nasal Spray affects you.
-- Do not drink alcohol or take other medicines that may cause you to feel sleepy while using Astelin Nasal Spray.
+- •Do not drive, operate machinery, or do other dangerous activities until you know how Astelin Nasal Spray affects you.
+- •Do not drink alcohol or take other medicines that may cause you to feel sleepy while using Astelin Nasal Spray.
   It may make your sleepiness worse.
 
 What are the possible side effects of Astelin Nasal Spray?
 
 The most common side effects of Astelin Nasal Spray include:
 
-- unusual bitter taste
-- headache
-- sleepiness
-- nose burning, pain or discomfort
-- runny nose
-- scratchy or sore throat
-- nosebleeds
-- inflamation or swelling of the sinuses
-- sneezing
-- nausea
-- dry mouth
-- fatigue
-- dizziness
-- weight increase
+- •unusual bitter taste
+- •headache
+- •sleepiness
+- •nose burning, pain or discomfort
+- •runny nose
+- •scratchy or sore throat
+- •nosebleeds
+- •inflammation or swelling of the sinuses
+- •sneezing
+- •nausea
+- •dry mouth
+- •fatigue
+- •dizziness
+- •weight increase
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
@@ -73,9 +74,9 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store Astelin Nasal Spray?
 
-- Keep Astelin Nasal Spray upright at 68°F to 77°F (20°C to 25°C).
-- Do not freeze Astelin Nasal Spray.
-- Do not use Astelin Nasal Spray after the expiration date "EXP" on the medicine label and box.
+- •Keep Astelin Nasal Spray upright at 68°F to 77°F (20°C to 25°C).
+- •Do not freeze Astelin Nasal Spray.
+- •Do not use Astelin Nasal Spray after the expiration date "EXP" on the medicine label and box.
 
 Keep Astelin Nasal Spray and all medicines out of reach of children.
 
@@ -97,3 +98,92 @@ What are the ingredients in Astelin Nasal Spray?
 Active ingredient: azelastine hydrochloride
 
 Inactive ingredients: benzalkonium chloride, edetate disodium, hypromellose, citric acid, dibasic sodium phosphate, sodium chloride, and purified water.
+
+Instructions for Use Astelin [AS-ta-LIN] (azelastine hydrochloride) Nasal Spray
+
+| Important: For use in your nose only. |
+| --- |
+
+For the correct dose of medicine:
+
+- •Keep your head tilted downward when spraying into your nostril.
+- •Change nostrils each time you use the spray.
+- •Breathe gently and do not tip your head back after using the spray.
+  This will keep the medicine from running down into your throat.
+  You may get a bitter taste in your mouth.
+
+Figure A identifies the parts of your Astelin Nasal Spray pump
+
+Before you use Astelin Nasal Spray for the first time, you will need to prime the bottle.
+
+Priming your Astelin Nasal Spray
+
+Remove the blue dust cover over the tip of the pump and the blue safety clip just under the "shoulders" of the pump (See Figure B).
+
+Hold the bottle upright with 2 fingers on the shoulders of the spray pump unit and
+
+- •put your thumb on the bottom of the bottle.
+  Press upward with your thumb and release for the pumping action.
+  Repeat this until you see a fine mist (See Figure C).
+- •To get a fine mist you must pump the spray fast and use firm pressure against the bottom of the bottle.
+  If you see a stream of liquid, the pump is not working correctly and you may have nasal discomfort.
+- •This should happen in 4 sprays or less.
+
+Now your pump is primed and ready to use.
+
+- •Do not use Astelin Nasal Spray unless you see a fine mist after you do the priming sprays.
+  If you do not see a fine mist, clean the tip of the spray nozzle.
+  See the "Cleaning the Spray Tip of your Astelin Nasal Spray" section below.
+- •If you do not use Astelin Nasal Spray for 3 or more days, you will need to prime the pump with 2 sprays or until you see a fine mist.
+
+Using your Astelin Nasal Spray
+
+Step 1.
+Blow your nose to clear your nostrils.
+
+Step 2.
+Keep your head tilted downward toward your toes.
+
+Step 3.
+Place the spray tip about ¼ inch to ½ inch into 1 nostril.
+Hold bottle upright and aim the spray tip toward the back of your nose (See Figure D).
+
+Step 4.
+Close your other nostril with a finger.
+Press the pump 1 time and sniff gently at the same time, keeping your head tilted forward and down (See Figure E).
+
+Step 5.
+Repeat Step 3 and Step 4 in your other nostril.
+
+Step 6.
+If your healthcare provider tells you to use 2 sprays in each nostril, repeat Steps 2 through 4 above for the second spray in each nostril.
+
+Step 7.
+Breathe in gently, and do not tilt your head back after using Astelin Nasal Spray.
+This will help to keep the medicine from going into your throat.
+
+Step 8.
+When you finish using your Astelin Nasal Spray, wipe the spray tip with a clean tissue or cloth.
+Put the safety clip and dust cover back on the bottle.
+
+Cleaning the Spray Tip of your Astelin Nasal Spray
+
+- •If the spray tip opening is clogged, do not use a pin or pointed object to unclog the tip.
+  Unscrew the spray pump unit from the bottle by turning it to the left (counter-clockwise) (See Figure F).
+- •Soak only the spray pump unit in warm water.
+  Squirt the spray unit several times while holding it under water.
+  Use the pumping action to clear the opening in the tip (See Figure G).
+
+- •Let the spray pump unit air dry.
+  Make sure it is dry before you put it back onto the bottle.
+- •Put the spray pump unit back into the open bottle and tighten it by turning clockwise (to the right).
+- •To keep the medicine from leaking out, use firm pressure when you put the pump back onto the bottle.
+- •After cleaning, follow the instructions for priming.
+
+This Patient Information and Instructions for Use has been approved by the U.S. Food and Drug Administration.
+
+Manufactured for: MEDA Pharmaceuticals Somerset, NJ 08873-4120 ©2018 Mylan Specialty LP
+
+Astelin is a registered trademark of Meda Pharmaceuticals Inc., a Mylan company
+
+U.S. Patent D447,419 IN-023S6-08 Revised: 9/2018

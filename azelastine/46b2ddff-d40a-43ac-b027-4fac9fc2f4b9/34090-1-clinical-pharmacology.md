@@ -8,7 +8,7 @@ The major metabolite, desmethylazelastine, also possesses H1-receptor antagonist
 
 ## 12.2 Pharmacodynamics
 
-Cardiac Electrophysiology:
+### Cardiac Electrophysiology:
 
 In a placebo-controlled study (95 subjects with allergic rhinitis), there was no evidence of an effect of Astelin Nasal Spray (2 sprays per nostril twice daily for 56 days) on cardiac repolarization as represented by the corrected QT interval (QTc) of the electrocardiogram.
 Following multiple dose oral administration of azelastine 4 mg or 8 mg twice daily, the mean change in QTc was 7.2 msec and 3.6 msec, respectively.
@@ -19,42 +19,66 @@ At a dose approximately 8 times the maximum recommended dose, azelastine hydroch
 
 ## 12.3 Pharmacokinetics
 
-Absorption: After intranasal administration, the systemic bioavailability of azelastine hydrochloride is approximately 40%.
+### Absorption
+
+After intranasal administration, the systemic bioavailability of azelastine hydrochloride is approximately 40%.
 Maximum plasma concentrations (Cmax) are achieved in 2-3 hours.
 
 Azelastine hydrochloride administered intranasally at doses above two sprays per nostril twice daily for 29 days resulted in greater than proportional increases in Cmax and area under the curve (AUC) for azelastine.
 
-Distribution: Based on intravenous and oral administration, the steady-state volume of distribution is 14.5 L/kg.
+### Distribution
+
+Based on intravenous and oral administration, the steady-state volume of distribution is 14.5 L/kg.
 In vitro studies with human plasma indicate that the plasma protein binding of azelastine and its metabolite, desmethylazelastine, are approximately 88% and 97%, respectively.
 
-Metabolism: Azelastine is oxidatively metabolized to the principal active metabolite, desmethylazelastine, by the cytochrome P450 enzyme system.
+### Metabolism
+
+Azelastine is oxidatively metabolized to the principal active metabolite, desmethylazelastine, by the cytochrome P450 enzyme system.
 The specific P450 isoforms responsible for the biotransformation of azelastine have not been identified.
 After intranasal dosing of azelastine hydrochloride to steady-state, plasma concentrations of desmethylazelastine range from 20-50% of azelastine concentrations.
 Limited data indicate that the metabolite profile is similar when azelastine hydrochloride is administered via the intranasal or oral route.
 
-Elimination: Based on intravenous and oral administration, the elimination half-life and plasma clearance are 22 hours and 0.5 L/h/kg, respectively.
+### Elimination
+
+Based on intravenous and oral administration, the elimination half-life and plasma clearance are 22 hours and 0.5 L/h/kg, respectively.
 Approximately 75% of an oral dose of radiolabeled azelastine hydrochloride was excreted in the feces with less than 10% as unchanged azelastine.
 
-Special Populations:
+### Special Populations
 
-Hepatic Impairment: Following oral administration, pharmacokinetic parameters were not influenced by hepatic impairment.
+#### Hepatic Impairment
 
-Renal Impairment: Based on oral, single-dose studies, renal insufficiency (creatinine clearance <50 mL/min) resulted in a 70-75% higher Cmax and AUC compared to normal subjects.
+Following oral administration, pharmacokinetic parameters were not influenced by hepatic impairment.
+
+#### Renal Impairment
+
+Based on oral, single-dose studies, renal insufficiency (creatinine clearance <50 mL/min) resulted in a 70-75% higher Cmax and AUC compared to normal subjects.
 Time to maximum concentration was unchanged.
 
-Age: Following oral administration, pharmacokinetic parameters were not influenced by age.
+#### Age
 
-Gender: Following oral administration, pharmacokinetic parameters were not influenced by gender.
+Following oral administration, pharmacokinetic parameters were not influenced by age.
 
-Race: The effect of race has not been evaluated.
+#### Gender
 
-Drug-Drug Interactions:
+Following oral administration, pharmacokinetic parameters were not influenced by gender.
 
-Erythromycin: No significant pharmacokinetic interaction was observed with the co-administration of orally administered azelastine (4 mg twice daily) with erythromycin (500 mg three times daily for 7 days).
+#### Race
+
+The effect of race has not been evaluated.
+
+### Drug-Drug Interactions
+
+#### Erythromycin
+
+No significant pharmacokinetic interaction was observed with the co-administration of orally administered azelastine (4 mg twice daily) with erythromycin (500 mg three times daily for 7 days).
 In this study, co-administration of orally administered azelastine with erythromycin resulted in Cmax of 5.36 ± 2.6 ng/mL and AUC of 49.7 ± 24 ng•h/mL for azelastine, whereas, administration of azelastine alone resulted in Cmax of 5.57 ± 2.7 ng/mL and AUC of 48.4 ± 24 ng•h/mL for azelastine.
 
-Cimetidine and Ranitidine: In a multiple-dose, steady-state drug interaction trial in healthy subjects, cimetidine (400 mg twice daily) increased orally administered mean azelastine (4 mg twice daily) concentrations by approximately 65%.
+#### Cimetidine and Ranitidine
+
+In a multiple-dose, steady-state drug interaction trial in healthy subjects, cimetidine (400 mg twice daily) increased orally administered mean azelastine (4 mg twice daily) concentrations by approximately 65%.
 No pharmacokinetic interaction was observed with co-administration of orally administered azelastine (4 mg twice daily) with ranitidine hydrochloride (150 mg twice daily).
 Oral co-administration of azelastine with ranitidine resulted in Cmax of 8.89 ±3.28 ng/mL and AUC of 88.22 ± 40.43 ng•h/mL for azelastine, whereas, azelastine when administered alone resulted in Cmax of 7.83 ± 4.06 ng/mL and AUC of 80.09 ± 43.55 ng•h/mL for azelastine.
 
-Theophylline: No significant pharmacokinetic interaction was observed with the co-administration of an oral 4 mg dose of azelastine hydrochloride twice daily and theophylline 300 mg or 400 mg twice daily.
+#### Theophylline
+
+No significant pharmacokinetic interaction was observed with the co-administration of an oral 4 mg dose of azelastine hydrochloride twice daily and theophylline 300 mg or 400 mg twice daily.
