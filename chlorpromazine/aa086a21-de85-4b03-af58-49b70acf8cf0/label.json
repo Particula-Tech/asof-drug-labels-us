@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA209755"
+  ],
+  "inn": "chlorpromazine",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "69238-1054-1",
+    "69238-1056-1",
+    "69238-1058-1",
+    "69238-1060-1",
+    "69238-1062-1"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "chlorpromazine hydrochloride",
+      "name": "CHLORPROMAZINE HYDROCHLORIDE"
+    }
+  ],
+  "setid": "aa086a21-de85-4b03-af58-49b70acf8cf0",
+  "source": "dailymed"
+}
