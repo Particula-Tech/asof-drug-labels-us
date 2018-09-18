@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA204587"
+  ],
+  "inn": "ritonavir",
+  "labeler": "Camber Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "31722-597-12",
+    "31722-597-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "ritonavir",
+      "name": "Ritonavir"
+    }
+  ],
+  "setid": "db633374-6d8e-4622-9fe1-f9d68baa59bb",
+  "source": "dailymed"
+}
