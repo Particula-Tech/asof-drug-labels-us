@@ -1,5 +1,8 @@
 # 7 DRUG INTERACTIONS
 
-Topotecan is a substrate for both P-glycoprotein (P-gp) and breast cancer resistance protein (BCRP).
-Inhibitors of these transporters increase the systemic exposure to oral topotecan.
-Avoid concomitant use of P-gp inhibitors (e.g., amiodarone, azithromycin, captopril, carvedilol, clarithromycin, conivaptan, cyclosporine, diltiazem, dronedarone, erythromycin, felodipine, itraconazole, ketoconazole, lopinavir, ritonavir, quercetin, quinidine, ranolazine, ticagrelor, verapamil) and BCRP inhibitors (e.g., cyclosporine, eltrombopag) with HYCAMTIN capsules [see Clinical Pharmacology (12.3)].
+## 7.1 Effect of Other Drugs on HYCAMTIN
+
+P-glycoprotein or Breast Cancer Resistance Protein Inhibitor
+
+Concomitant use of a P-glycoprotein (P-gp) or breast cancer resistance protein (BCRP) inhibitor increases topotecan AUC [see Clinical Pharmacology (12.3)], which may increase the risk of adverse reactions.
+Avoid concomitant use HYCAMTIN capsules with P-gp inhibitors or BCRP inhibitors.
