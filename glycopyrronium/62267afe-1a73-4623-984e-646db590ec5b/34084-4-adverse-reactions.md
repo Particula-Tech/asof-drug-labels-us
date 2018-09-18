@@ -1,9 +1,9 @@
 # ADVERSE REACTIONS
 
-Anticholinergics, including gylcopyrrolate injection, can produce certain effects, most of which are extensions of their pharmacologic actions.
+Anticholinergics, including glycopyrrolate injection, can produce certain effects, most of which are extensions of their pharmacologic actions.
 Adverse reactions may include xerostomia (dry mouth); urinary hesitancy and retention; blurred vision and photophobia due to mydriasis (dilation of the pupil); cycloplegia; increased ocular tension; tachycardia; palpitation; decreased sweating; loss of taste; headache; nervousness; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; severe allergic reactions including anaphylactic/anaphylactoid reactions; hypersensitivity; urticaria, pruritus, dry skin and other dermal manifestations; some degree of mental confusion and/or excitement, especially in elderly persons.
 
-In addition, the following adverse events have been reported from post-marketing experience with glycopyrrolate: malignant hyperthermia; cardiac arrhythmias (including bradycardia, ventricular tachycardia, ventricular fibrillation); cardiac arrest; hypertension; hypotension; seizures; and respiratory arrest.
+In addition, the following adverse events have been reported from postmarketing experience with glycopyrrolate: malignant hyperthermia; cardiac arrhythmias (including bradycardia, ventricular tachycardia, ventricular fibrillation); cardiac arrest; hypertension; hypotension; seizures; and respiratory arrest.
 Postmarketing reports have included cases of heart block and QTc interval prolongation associated with the combined use of glycopyrrolate and an anticholinesterase.
 Injection site reactions including pruritus, edema, erythema, and pain have also been reported.
 

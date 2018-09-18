@@ -26,9 +26,9 @@ Investigate any tachycardia before giving glycopyrrolate injection since an incr
 Use with caution in patients with: coronary artery disease; congestive heart failure; cardiac arrhythmias; hypertension; hyperthyroidism.
 
 Use with caution in patients with renal disease since the renal elimination of glycopyrrolate may be severely impaired in patients with renal failure.
-Dosage adjustments may be necessary (see Pharmacokinetics - Renally Impaired).
+Dosage adjustments may be necessary (see Pharmacokinetics - Renal Impairment).
 
-Use glycopyrrolate with caution in the elderly and in all patients with autonomic neuropathy, hepatic or renal disease, ulcerative colitis, prostatic hypertrophy, or hiatal hernia, since anticholinergic drugs may aggravate these conditions.
+Use glycopyrrolate with caution in the elderly and in all patients with autonomic neuropathy, hepatic disease, ulcerative colitis, prostatic hypertrophy, or hiatal hernia, since anticholinergic drugs may aggravate these conditions.
 
 The use of anticholinergetic drugs in the treatment of gastric ulcer may produce a delay in gastric emptying due to antral statis.
 
@@ -80,8 +80,6 @@ As with other anticholinergics, glycopyrrolate may cause suppression of lactatio
 ## Pediatric Use
 
 Due to its benzyl alcohol content, glycopyrrolate injection should not be used in neonates, i.e., patients less than 1 month of age.
-
-Safety and effectiveness in pediatric patients below the age of 16 years have not been established.
 
 Safety and effectiveness in pediatric patients have not been established for the management of peptic ulcer.
 

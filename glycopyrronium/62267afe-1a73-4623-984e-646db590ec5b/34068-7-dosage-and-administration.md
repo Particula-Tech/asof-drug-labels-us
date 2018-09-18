@@ -1,12 +1,14 @@
 # DOSAGE AND ADMINISTRATION
 
-NOTE: CONTAINS BENZYL ALCOHOL (See PRECAUTIONS)
+NOTE: CONTAINS BENZYL ALCOHOL (See PRECAUTIONS) Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
 
 Glycopyrrolate injection may be administered intramuscularly, or intravenously, without dilution, in the following indications:
 
-## Adults:
+## Adults
 
-Preanesthetic Medication: The recommended dose of glycopyrrolate injection is 0.004 mg/kg by intramuscular injection, given 30 to 60 minutes prior to the anticipated time of induction of anesthesia or at the time the preanesthetic narcotic and/or sedative are administered.
+### Preanesthetic Medication
+
+The recommended dose of glycopyrrolate injection is 0.004 mg/kg by intramuscular injection, given 30 to 60 minutes prior to the anticipated time of induction of anesthesia or at the time the preanesthetic narcotic and/or sedative are administered.
 
 ### Intraoperative Medication:
 
@@ -16,7 +18,7 @@ The usual attempts should be made to determine the etiology of the arrhythmia, a
 
 ### Reversal of Neuromuscular Blockade:
 
-The recommended dose of glycopyrrolate injection is 0.2 mg for each 1.0 mg of neostigmine or 5.0 mg of pyridostigmine.
+The recommended dose of glycopyrrolate injection is 0.2 mg for each 1 mg of neostigmine or 5 mg of pyridostigmine.
 In order to minimize the appearance of cardiac side effects, the drugs may be administered simultaneously by intravenous injection and may be mixed in the same syringe.
 
 ### Peptic Ulcer:
@@ -44,30 +46,28 @@ The usual attempts should be made to determine the etiology of the arrhythmia, a
 
 ### Reversal of Neuromuscular Blockade:
 
-The recommended pediatric dose of glycopyrrolate injection is 0.2 mg for each 1.0 mg of neostigmine or 5.0 mg of pyridostigmine.
+The recommended pediatric dose of glycopyrrolate injection is 0.2 mg for each 1 mg of neostigmine or 5 mg of pyridostigmine.
 In order to minimize the appearance of cardiac side effects, the drugs may be administered simultaneously by intravenous injection and may be mixed in the same syringe.
 
 ### Peptic Ulcer:
 
 Glycopyrrolate injection is not recommended for the treatment of peptic ulcer in pediatric patients (see PRECAUTIONS-Pediatric Use).
 
-NOTE: Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
-
-## DILUENT COMPATIBILITIES
+## Diluent Compatibilities
 
 Dextrose 5% and 10% in water, or saline, dextrose 5% in sodium chloride 0.45%, sodium chloride 0.9%, and Ringer's Injection.
 
-## DILUENT INCOMPATIBILITIES
+## Diluent Incompatibilities
 
 Lactated Ringer's solution
 
-## ADMIXTURE COMPATIBILITIES
+## Admixture Compatibilities
 
 Physical Compatibility: This list does not constitute an endorsement of the clinical utility or safety of coadministration of glycopyrrolate with these drugs.
 Glycopyrrolate injection is compatible for mixing and injection with the following injectable dosage forms: atropine sulfate, USP; Antilirium® (physostigmine salicylate); Benadryl® (diphenhydramine HCl); codeine phosphate, USP; Emete-Con® (benz-quinamide HCl); hydromorphone HCl, USP; Inapsine® (droperidol); Levo-Dromoran® (levorphanol tartrate); lidocaine, USP; meperidine HCl, USP; Mestinon®/Regonol® (pyridostigmine bromide); morphine sulfate, USP; Nubain® (nalbuphine HCl); Numorphan® (oxymorphone HCl); procaine HCl, USP; promethazine HCl, USP; Prostigmin® (neostigmine methylsulfate, USP); scopolamine HBr, USP; Stadol® (butorphanol tartrate); Sublimaze® (fentanyl citrate); Tigan® (trimethobenzamide HCl); and Vistaril® (hydroxyzine HCl).
 Glycopyrrolate injection may be administered via the tubing of a running infusion of normal saline.
 
-## ADMIXTURE INCOMPATIBILITIES
+## Admixture Incompatibilities
 
 Physical Incompatibility: Since the stability of glycopyrrolate is questionable above a pH of 6.0 do not combine glycopyrrolate injection in the same syringe with Brevital® (methohexital Na); Chloromycetin® (chloramphenicol Na succinate); Dramamine® (dimenhydrinate); Nembutal® (pentobarbital Na); Pentothal® (thiopental Na); Seconal® (secobarbital Na); sodium bicarbonate (Abbott); Valium® (diazepam); Decadron® (dexamethasone Na phosphate); or Talwin® (pentazocine lactate).
 These mixtures will result in a pH higher than 6.0 and may result in gas production or precipitation.

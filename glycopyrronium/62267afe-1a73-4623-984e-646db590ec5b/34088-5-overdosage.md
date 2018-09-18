@@ -9,7 +9,7 @@ If CNS symptoms (e.g., excitement, restlessness, convulsions, psychotic behavior
 Physostigmine 0.5 to 2 mg should be slowly administered intravenously and repeated as necessary up to a total of 5 mg in adults.
 Proportionately smaller doses should be used in pediatric patients.
 
-To combat hypotension, administer IV fluids and/or pressor agents along with supportive care.
+To combat hypotension, administer intravenous fluids and/or pressor agents along with supportive care.
 
 Fever should be treated symptomatically.
 

@@ -95,3 +95,13 @@ Directions for Use: See Package Insert.
 
 AMERICAN REGENT, INC. SHIRLEY, NY 11967 Iss.
 12/16
+
+# Serialization Labels
+
+Serialization Label - 1 mL
+
+Serialization Label - 2 mL
+
+Serialization Label - 5 mL
+
+20 mL Serialization Label

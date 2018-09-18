@@ -12,7 +12,7 @@ With intravenous injection, the onset of action is generally evident within one 
 Following intramuscular administration, the onset of action is noted in 15 to 30 minutes, with peak effects occurring within approximately 30 to 45 minutes.
 The vagal blocking effects persist for 2 to 3 hours and the antisialagogue effects persist up to 7 hours, periods longer than for atropine.
 
-## PHARMACOKINETICS
+## Pharmacokinetics
 
 The following pharmacokinetic information and conclusions were obtained from published studies that used nonspecific assay methods.
 
@@ -20,25 +20,25 @@ Distribution: The mean volume of distribution of glycopyrrolate was estimated to
 
 Metabolism: The in vivo metabolism of glycopyrrolate in humans has not been studied.
 
-Excretion: The mean clearance and mean T1/2 values were reported to be 0.54 ± 0.14 L/kg/hr and 0.83 ± 0.13 hr, respectively post IV administration.
-After IV administration of a 0.2 mg radiolabeled glycopyrrolate, 85% of dose recovered was recovered in urine 48 hours postdose and some of radioactivity was also recovered in bile.
-After IM administration of glycopyrrolate to adults, the mean T1/2 value is reported to be between 0.55 to 1.25 hrs. Over 80% of IM dose administered was recovered in urine and the bile as unchanged drug and half the IM dose is excreted within 3 hrs. The following table summarizes the mean and standard deviation of pharmacokinetic parameters from a study.
+Excretion: The mean clearance and mean T1/2 values were reported to be 0.54 ± 0.14 L/kg/hr and 0.83 ± 0.13 hr, respectively post intravenous administration.
+After intravenous administration of a 0.2 mg radiolabeled glycopyrrolate, 85% of dose recovered was recovered in urine 48 hours postdose and some of the radioactivity was also recovered in bile.
+After intramuscular administration of glycopyrrolate to adults, the mean T1/2 value is reported to be between 0.55 to 1.25 hrs. Over 80% of intramuscular dose administered was recovered in urine and the bile as unchanged drug and half the intramuscular dose is excreted within 3 hrs. The following table summarizes the mean and standard deviation of pharmacokinetic parameters from a study.
 
-| Group | T 1/2 (hr) | VSS (L/kg) | CL (L/kg/hr) | T max (min) | Cmax (µg/L) | AUC (µg/L•hr) |
+| Group | T 1/2 (hr) | VSS (L/kg) | CL (L/kg/hr) | T max (min) | Cmax (mcg/L) | AUC (mcg/L•hr) |
 | --- | --- | --- | --- | --- | --- | --- |
-| (6 µg/kg IV) | 0.83 ± 0.27 | 0.42 ± 0.22 | 0.54 ± 0.14 | - | - | 8.64 ± 1.49** |
-| (8 µg/kg IM) | - | - | - | 27.48 ± 6.12 | 3.47 ± 1.48 | 6.64 ± 2.33** |
-| *0-12 hr **0-8 hr |  |  |  |  |  |  |
+| (6 mcg/kg intravenous) | 0.83 ± 0.27 | 0.42 ± 0.22 | 0.54 ± 0.14 | - | - | 8.64 ± 1.49* |
+| (8 mcg/kg intramuscular) | - | - | - | 27.48 ± 6.12 | 3.47 ± 1.48 | 6.64 ± 2.33* |
+| *0-8 hr |  |  |  |  |  |  |
 
-## SPECIAL POPULATIONS
+## Special Populations
 
 Gender: Gender differences in pharmacokinetics of glycopyrrolate have not been investigated.
 
-Renal Impairment:In one study glycopyrrolate was administered IV in uremic patients undergoing renal transplantation.
+Renal Impairment:In one study glycopyrrolate was administered intravenously in uremic patients undergoing renal transplantation.
 The mean elimination half-life was significantly longer (46.8 minutes) than in healthy patients (18.6 minutes).
-The mean area-under-the-concentration-time curve (10.6 hr-μg/L), mean plasma clearance (0.43 L/hr/kg), and mean 3-hour urine excretion (0.7%) for glycopyrrolate were also significantly different than those of controls (3.73 hr-μg/L, 1.14 L/hr/kg, and 50%, respectively).
+The mean area-under-the-concentration-time curve (10.6 hr-mcg/L), mean plasma clearance (0.43 L/hr/kg), and mean 3-hour urine excretion (0.7%) for glycopyrrolate were also significantly different than those of controls (3.73 hr-mcg/L, 1.14 L/hr/kg, and 50%, respectively).
 These results suggest that elimination of glycopyrrolate is severely impaired in patients with renal failure.
 
 Hepatic Impairment:Pharmocokinetic information in patients with hepatic impairment is unavailable.
 
-Pediatrics: Following IV administration (5 μg/kg glycopyrrolate) to infants and children, the mean T1/2 values were reported to be between 21.6 and 130.0 minutes and between 19.2 and 99.2 minutes, respectively.
+Pediatrics: Following intravenous administration (5mcg/kg glycopyrrolate) to infants and children, the mean T1/2 values were reported to be between 21.6 and 130.0 minutes and between 19.2 and 99.2 minutes, respectively.
