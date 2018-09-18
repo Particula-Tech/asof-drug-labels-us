@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 100 mg Capsule Bottle Label
+# PRINCIPAL DISPLAY PANEL - 100 mg, 100 Capsules Bottle Label
 
 BIONPHARMA
 
@@ -8,6 +8,6 @@ Amantadine HCl Capsules, USP
 
 100 mg
 
-Rx Only
+Rx only
 
-100 capsules
+100 Capsules
