@@ -21,7 +21,7 @@ Physicians considering combined therapy with atorvastatin and fibric acid deriva
 Lower starting and maintenance doses of atorvastatin should be considered when taken concomitantly with the aforementioned drugs [see Drug Interactions (7)].
 Periodic creatine phosphokinase (CPK) determinations may be considered in such situations, but there is no assurance that such monitoring will prevent the occurrence of severe myopathy.
 
-Prescribing recommendations for interacting agents are summarized in Table 2 [see Dosage and Administration (2.6), Drug Interactions (7), Clinical Pharmacology (12.3)].
+Prescribing recommendations for interacting agents are summarized in Table 2 [see Dosage and Administration (2.6), Drug Interactions (7), and Clinical Pharmacology (12.3)].
 
 Table 2.
 Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyolysis

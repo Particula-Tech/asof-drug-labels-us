@@ -4,7 +4,7 @@ Atorvastatin Calcium Tablets, USP
 
 (a tor″ va stat′ in kal′ see um)
 
-Read the Patient Information that comes with atorvastatin calcium tablets USP before you start taking it and each time you get a refill.
+Read the Patient Information that comes with atorvastatin calcium tablets before you start taking it and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with your doctor about your condition or treatment.
 
@@ -39,7 +39,7 @@ Who Should Not Take Atorvastatin Calcium Tablets?
 
 Do not take atorvastatin calcium tablets if you:
 
-- are pregnant or think you may be pregnant or are planning to become pregnant.
+- are pregnant or think you may be pregnant, or are planning to become pregnant.
   Atorvastatin calcium tablets may harm your unborn baby.
   If you get pregnant, stop taking atorvastatin calcium tablets and call your doctor right away.
 - are breast feeding.
@@ -178,7 +178,7 @@ APOTEX INC. ATORVASTATIN CALCIUM TABLETS, USP 10 mg, 20 mg, 40 mg, and 80 mg
 | Toronto, Ontario | Weston, Florida |
 | Canada, M9L 1T9 | 33326 |
 
-Revised: June 2018
+Revised: September 2018
 
 Rev.
-13
+14
