@@ -8,7 +8,7 @@ Rx only
 
 100 Tablets
 
-Amneal Pharmaceuticals
+Amneal Pharmaceuticals LLC
 
 NDC 69238-1490-1
 
@@ -18,7 +18,7 @@ Rx only
 
 100 Tablets
 
-Amneal Pharmaceuticals
+Amneal Pharmaceuticals LLC
 
 NDC 69238-1491-1
 
@@ -28,4 +28,4 @@ Rx only
 
 100 Tablets
 
-Amneal Pharmaceuticals
+Amneal Pharmaceuticals LLC

@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-The most frequent clinical adverse reactions considered probably or possibly related to bumetanide are muscle cramps (seen in 1.1% of treated patients), dizziness (1.1%), hypotension (0.8%), headache (0.6%), nausea (0.6%) and encephalopathy (in patients with preexisting liver disease) (0.6%).
+The most frequent clinical adverse reactions considered probably or possibly related to bumetanide are muscle cramps (seen in 1.1% of treated patients), dizziness (1.1%), hypotension (0.8%), headache (0.6%), nausea (0.6%) and encephalopathy (in patients with pre-existing liver disease) (0.6%).
 One or more of these adverse reactions have been reported in approximately 4.1% of patients treated with bumetanide.
 
 Serious skin reactions (i.e., Stevens-Johnson syndrome, toxic epidermal necrolysis) have been reported in association with bumetanide use.

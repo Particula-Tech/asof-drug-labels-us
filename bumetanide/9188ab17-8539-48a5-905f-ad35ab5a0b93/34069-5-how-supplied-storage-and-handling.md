@@ -6,25 +6,25 @@ Bumetanide Tablets USP, 0.5 mg are supplied as white to off white, round biconve
 
 They are available as follows:
 
-Bottle of 100 Tablets: NDC 69238-1489-1
+Bottles of 100: NDC 69238-1489-1
 
-Bottle of 500 Tablets: NDC 69238-1489-5
+Bottles of 500: NDC 69238-1489-5
 
 Bumetanide Tablets USP, 1 mg are supplied as white to off white, round biconvex bisected and debossed “AC” above and “41” below the bisect on one side and plain on the reverse side.
 
 They are available as follows:
 
-Bottle of 100 Tablets: NDC 69238-1490-1
+Bottles of 100: NDC 69238-1490-1
 
-Bottle of 500 Tablets: NDC 69238-1490-5
+Bottles of 500: NDC 69238-1490-5
 
 Bumetanide Tablets USP, 2 mg are supplied as white to off white, round, biconvex, bisected and debossed “AC” above and “42” below the bisect on one side and plain on the reverse side.
 
 They are available as follows:
 
-Bottle of 100 Tablets: NDC 69238-1491-1
+Bottles of 100: NDC 69238-1491-1
 
-Bottle of 500 Tablets: NDC 69238-1491-5
+Bottles of 500: NDC 69238-1491-5
 
 Storage:
 
@@ -48,4 +48,4 @@ Amneal Pharmaceuticals LLC
 Bridgewater, NJ 08807
 
 Rev.
-10-2017-00
+08-2018-01
