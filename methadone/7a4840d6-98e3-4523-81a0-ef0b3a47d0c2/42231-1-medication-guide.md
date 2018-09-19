@@ -14,4 +14,4 @@
 | Distr. by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724 For more information, please call 1-800-962-8364. |  |
 | This Medication Guide has been approved by the U.S. Food and Drug Administration. |  |
 
-4077444//10 Revised January 2018
+4077444//11 Revised September 2018

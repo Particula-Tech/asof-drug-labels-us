@@ -109,7 +109,7 @@ Cytochrome P450 Inhibitors:
 
 Antiretroviral Drugs: Although antiretroviral drugs such as efavirenz, nelfinavir, nevirapine, ritonavir, telaprevir, lopinavir+ritonavir combination are known to inhibit some CYPs, they are shown to reduce the plasma levels of methadone, possibly due to CYP induction activity.
 
-1. Abacavir, Amprenavir, Darunavir+Ritonavir, Efavirenz, Nelfinavir, Nevirapine, Ritonavir, Telaprevir, Lopinavir+Ritonavir, Saquinavir+Ritonavir, Tipranvair+Ritonavir Combination:
+1. Abacavir, Amprenavir, Darunavir+Ritonavir, Efavirenz, Nelfinavir, Nevirapine, Ritonavir, Telaprevir, Lopinavir+Ritonavir, Saquinavir+Ritonavir, Tipranavir+Ritonavir Combination:
 2. Co-administration of these anti-retroviral agents resulted in increased clearance or decreased plasma levels of methadone [see Drug Interactions (7)].
 3. 
 4. Didanosine and Stavudine: Methadone decreased the AUC and peak levels for didanosine and stavudine, with a more significant decrease for didanosine.

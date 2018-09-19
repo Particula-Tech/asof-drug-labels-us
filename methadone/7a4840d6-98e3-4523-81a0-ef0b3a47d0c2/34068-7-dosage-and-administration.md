@@ -39,7 +39,7 @@ Use the lowest effective dosage for the shortest duration consistent with indivi
 
 Initiate the dosing regimen for each patient individually, taking into account the patient’s severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
 
-Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy and following dosage increases with DOLOPHINE Tablets and adjust the dosage accordingly [see Warnings and Precautions (5.2)].
+Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy and following dosage increases with DOLOPHINE Tablets and adjust the dosage accordingly [see Warnings and Precautions (5.3)].
 
 Use of DOLOPHINE Tablets as the First Opioid Analgesic
 
@@ -132,7 +132,7 @@ Adjust the dose to obtain an appropriate balance between management of pain and 
 
 When a patient no longer requires therapy with DOLOPHINE Tablets for pain, taper the dose gradually, by 15% to 50% every two to four days, to prevent signs and symptoms of withdrawal.
 If the patient develops these signs or symptoms, raise the dose to the previous level and taper more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both.
-Do not abruptly discontinue DOLOPHINE Tablets [see Warnings and Precautions (5.14), Drug Abuse and Dependence (9.3)].
+Do not abruptly discontinue DOLOPHINE Tablets [see Warnings and Precautions (5.15), Drug Abuse and Dependence (9.3)].
 
 ## 2.6 Induction/Initial Dosing for Detoxification and Maintenance Treatment of Opioid Addiction
 
