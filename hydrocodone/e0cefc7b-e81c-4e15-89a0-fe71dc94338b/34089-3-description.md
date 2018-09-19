@@ -10,7 +10,7 @@ It has the following structural formula:
 Acetaminophen, USP, 4´-hydroxyacetanilide, a slightly bitter, white, odorless, crystalline powder, is a non-opiate, non-salicylate analgesic and antipyretic.
 It has the following structural formula:
 
-Each Hydrocodone Bitartrate and Acetaminophen Tablets, USP, 10 mg/325 mg contains:
+Each Hydrocodone Bitartrate and Acetaminophen Tablet, USP, 10 mg/325 mg contains:
 
 Hydrocodone Bitartrate, USP......
 10 mg Acetaminophen, USP.................

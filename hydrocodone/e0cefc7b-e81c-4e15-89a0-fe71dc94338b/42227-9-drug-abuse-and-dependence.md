@@ -36,7 +36,7 @@ The risk is increased with concurrent abuse of Hydrocodone Bitartrate and Acetam
 
 Parenteral drug abuse is commonly associated with transmission of infectious diseases such as hepatitis and HIV.
 
-Dependence
+Dependence:
 
 Both tolerance and physical dependence can develop during chronic opioid therapy.
 Tolerance is the need for increasing doses of opioids to maintain a defined effect such as analgesia (in the absence of disease progression or other external factors).
