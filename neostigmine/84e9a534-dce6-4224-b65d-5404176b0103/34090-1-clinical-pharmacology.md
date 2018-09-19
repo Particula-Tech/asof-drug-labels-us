@@ -7,7 +7,7 @@ By reducing the breakdown of acetylcholine, neostigmine methylsulfate induces an
 
 ## 12.2. Pharmacodynamics
 
-Neostigmine methylsulfate-induced increases in acetylcholine levels results in the potentiation of both muscarinic and nicotinic cholinergic activity.
+Neostigmine methylsulfate-induced increases in acetylcholine levels result in the potentiation of both muscarinic and nicotinic cholinergic activity.
 The resulting elevation of acetylcholine competes with nondepolarizing neuromuscular blocking agents to reverse neuromuscular blockade.
 Neostigmine methylsulfate does not readily cross the blood-brain barrier and, therefore, does not significantly affect cholinergic function in the central nervous system.
 

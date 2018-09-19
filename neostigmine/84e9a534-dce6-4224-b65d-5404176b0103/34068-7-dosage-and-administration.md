@@ -33,7 +33,7 @@ An anticholinergic agent, e.g., atropine sulfate or glycopyrrolate, should be ad
 8. h.Patients should continue to be monitored for adequacy of reversal from NMBAs for a period of time that would assure full recovery based on the patient’s medical condition and the pharmacokinetics of neostigmine and the NMBA used.
 9. i.The recommended maximum total dose is 0.07 mg/kg or up to a total of 5 mg, whichever is less.
 
-## 2.3. Dosage in Pediatric Patients, including Neonates
+## 2.3. Dosage in Pediatric Patients, Including Neonates
 
 Adult guidelines should be followed when BLOXIVERZ is administered to pediatric patients.
 Pediatric patients require BLOXIVERZ doses similar to those for adult patients.

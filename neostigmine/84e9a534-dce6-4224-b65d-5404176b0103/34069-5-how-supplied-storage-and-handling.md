@@ -2,7 +2,7 @@
 
 BLOXIVERZ (Neostigmine Methylsulfate Injection, USP) is available in the following:
 
-| NDC No. | Presentation |
+| NDC | Presentation |
 | --- | --- |
 | 68001-329-66 | 10 mL multiple-dose vial in a single carton; strength 1mg/ml |
 | 68001-329-67 | 10 mL vial cartons packaged in a bundle of 10 |
