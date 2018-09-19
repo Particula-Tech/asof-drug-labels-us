@@ -12,6 +12,8 @@ Rx only
 
 30 Tablets
 
+# Package/Label Display Panel
+
 RANBAXY
 
 NDC 63304-950-30
@@ -20,9 +22,9 @@ risperiDONE Orally Disintegrating Tablets
 
 1 mg
 
-Rx only
+Rx only 30 Tablets
 
-30 Tablets
+# Package/Label Display Panel
 
 RANBAXY
 
@@ -36,6 +38,8 @@ Rx only
 
 30 Tablets
 
+# Package/Label Display Panel
+
 RANBAXY
 
 NDC 63304-643-30
@@ -48,14 +52,18 @@ Rx only
 
 30 Tablets
 
+3 mg Bottle Label
+
+# Package/Label Display Panel
+
 RANBAXY
 
 NDC 63304-644-30
 
-risperiDONE Orally Disintegrating Tablets
+risperiDONE
+
+Orally Disintegrating Tablets
 
 4 mg
 
-Rx only
-
-30 Tablets
+Rx only 30 Tablets

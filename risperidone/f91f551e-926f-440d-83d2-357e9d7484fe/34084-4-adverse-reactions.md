@@ -2,20 +2,21 @@
 
 The following are discussed in more detail in other sections of the labeling:
 
-- Increased mortality in elderly patients with dementia-related psychosis [see Boxed Warning and Warnings and Precautions (5.1)]
-- Cerebrovascular adverse events, including stroke, in elderly patients with dementia-related psychosis [see Warnings and Precautions (5.2)]
-- Neuroleptic malignant syndrome [see Warnings and Precautions (5.3)]
-- Tardive dyskinesia [see Warnings and Precautions (5.4)]
-- Metabolic Changes (Hyperglycemia and diabetes mellitus, Dyslipidemia, and Weight Gain) [see Warnings and Precautions (5.5)]
-- Hyperprolactinemia [see Warnings and Precautions (5.6)]
-- Orthostatic hypotension [see Warnings and Precautions (5.7)]
-- Leukopenia, neutropenia, and agranulocytosis [see Warnings and Precautions (5.8)]
-- Potential for cognitive and motor impairment [see Warnings and Precautions (5.9)]
-- Seizures [see Warnings and Precautions (5.10)]
-- Dysphagia [see Warnings and Precautions (5.11)]
-- Priapism [see Warnings and Precautions (5.12)]
-- Disruption of body temperature regulation [see Warnings and Precautions (5.13)]
-- Patients with Phenylketonuria [see Warnings and Precautions (5.14)].
+- •Increased mortality in elderly patients with dementia-related psychosis [see Boxed Warning and Warnings and Precautions (5.1)]
+- •Cerebrovascular adverse events, including stroke, in elderly patients with dementia-related psychosis [see Warnings and Precautions (5.2)]
+- •Neuroleptic malignant syndrome [see Warnings and Precautions (5.3)]
+- •Tardive dyskinesia [see Warnings and Precautions (5.4)]
+- •Metabolic Changes (Hyperglycemia and diabetes mellitus, Dyslipidemia, and Weight Gain) [see Warnings and Precautions (5.5)]
+- •Hyperprolactinemia [see Warnings and Precautions (5.6)]
+- •Orthostatic hypotension [see Warnings and Precautions (5.7)]
+- •Falls [see Warnings and Precautions (5.8)]
+- •Leukopenia, neutropenia, and agranulocytosis [see Warnings and Precautions (5.9)]
+- •Potential for cognitive and motor impairment [seeWarnings and Precautions (5.10)]
+- •Seizures [see Warnings and Precautions (5.11)]
+- •Dysphagia [see Warnings and Precautions (5.12)]
+- •Priapism [see Warnings and Precautions (5.13)]
+- •Disruption of body temperature regulation [see Warnings and Precautions (5.14)]
+- •Patients with Phenylketonuria [see Warnings and Precautions (5.15)]
 
 The most common adverse reactions in clinical trials (> 5% and twice placebo) were parkinsonism, akathisia, dystonia, tremor, sedation, dizziness, anxiety, blurred vision, nausea, vomiting, upper abdominal pain, stomach discomfort, dyspepsia, diarrhea, salivary hypersecretion, constipation, dry mouth, increased appetite, increased weight, fatigue, rash, nasal congestion, upper respiratory tract infection, nasopharyngitis, and pharyngolaryngeal pain.
 
@@ -86,7 +87,7 @@ Adverse Reactions in ≥ 2% of Risperidone-Treated Adult Patients (and greater t
 | Nasal congestion | 4 | 6 | 2 |
 | Dyspnea | 1 | 2 | 0 |
 | Epistaxis | < 1 | 2 | 0 |
-| Skin and Subcutaneous TissueDisorders |  |  |  |
+| Skin and Subcutaneous Tissue Disorders |  |  |  |
 | Rash | 1 | 4 | 1 |
 | Dry skin | 1 | 3 | 0 |
 | Vascular Disorders |  |  |  |
@@ -100,22 +101,22 @@ Table 9 lists the adverse reactions reported in 5% or more of risperidone-treate
 Table 9.
 Adverse Reactions in ≥ 5% of Risperidone-Treated Pediatric Patients (and greater than placebo) with Schizophrenia in a Double-Blind Trial
 
-|  | Percentage of Patients Reporting Reaction Risperidone |  |  |
-| --- | --- | --- | --- |
-|  | Risperidone |  |  |
-| System/Organ Class Adverse Reaction | 1 to 3 mg per day (N = 55) | 4 to 6 mg per day (N = 51) | Placebo (N = 54) |
-| Gastrointestinal Disorders |  |  |  |
-| Salivary hypersecretion | 0 | 10 | 2 |
-| Nervous System Disorders |  |  |  |
-| Sedation | 24 | 12 | 4 |
-| Parkinsonism* | 16 | 28 | 11 |
-| Tremor | 11 | 10 | 6 |
-| Akathisia* | 9 | 10 | 4 |
-| Dizziness | 7 | 14 | 2 |
-| Dystonia* | 2 | 6 | 0 |
-| Psychiatric Disorders |  |  |  |
-| Anxiety | 7 | 6 | 0 |
-| * Parkinsonism includes extrapyramidal disorder, muscle rigidity, musculoskeletal stiffness, and hypokinesia. Akathisia includes akathisia and restlessness. Dystonia includes dystonia and oculogyration. |  |  |  |
+|  | Percentage of Patients Reporting Reaction Risperidone |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Risperidone |  |  |  |  |  |  |
+| System/Organ Class Adverse Reaction | 1 to 3 mg per day (N = 55) | 4 to 6 mg per day (N = 51) | Placebo (N = 54) |  |  |  |  |
+| Gastrointestinal Disorders |  |  |  |  |  |  |  |
+| Salivary hypersecretion | 0 | 10 | 2 |  |  |  |  |
+| Nervous System Disorders |  |  |  |  |  |  |  |
+| Sedation | 24 | 12 | 4 |  |  |  |  |
+| Parkinsonism* | 16 | 28 | 11 |  |  |  |  |
+| Tremor | 11 | 10 | 6 |  |  |  |  |
+| Akathisia* | 9 | 10 | 4 |  |  |  |  |
+| Dizziness | 7 | 14 | 2 |  |  |  |  |
+| Dystonia* | 2 | 6 | 0 |  |  |  |  |
+| Psychiatric Disorders |  |  |  |  |  |  |  |
+| Anxiety | 7 | 6 | 0 |  |  |  |  |
+| * Parkinsonism includes extrapyramidal disorder, muscle rigidity, musculoskeletal stiffness, and hypokinesia. Akathisia includes akathisia and restlessness. Dystonia includes dystonia and oculogyration. |  |  |  |  |  |  |  |
 
 Commonly-Observed Adverse Reactions in Double-Blind, Placebo-Controlled Clinical Trials – Bipolar Mania
 
@@ -126,60 +127,60 @@ Table 10 lists the adverse reactions reported in 2% or more of risperidone-treat
 Table 10.
 Adverse Reactions in ≥ 2% of Risperidone-Treated Adult Patients (and greater than placebo) with Bipolar Mania in Double-Blind, Placebo-Controlled Monotherapy Trials
 
-|  | Percentage of Patients Reporting Reaction |  |
-| --- | --- | --- |
-| System/Organ Class Adverse Reaction | Risperidone 1 to 6 mg per day (N = 448) | Placebo (N = 424) |
-| Eye Disorders |  |  |
-| Vision blurred | 2 | 1 |
-| Gastrointestinal Disorders |  |  |
-| Nausea | 5 | 2 |
-| Diarrhea | 3 | 2 |
-| Salivary hypersecretion | 3 | 1 |
-| Stomach discomfort | 2 | < 1 |
-| General Disorders |  |  |
-| Fatigue | 2 | 1 |
-| Nervous System Disorders |  |  |
-| Parkinsonism* | 25 | 9 |
-| Sedation | 11 | 4 |
-| Akathisia* | 9 | 3 |
-| Tremor* | 6 | 3 |
-| Dizziness | 6 | 5 |
-| Dystonia* | 5 | 1 |
-| Lethargy | 2 | 1 |
-| * Parkinsonism includes extrapyramidal disorder, parkinsonism, musculoskeletal stiffness, hypokinesia, muscle rigidity, muscle tightness, bradykinesia, cogwheel rigidity. Akathisia includes akathisia and restlessness. Tremor includes tremor and parkinsonian rest tremor. Dystonia includes dystonia, muscle spasms, oculogyration, torticollis. |  |  |
+|  | Percentage of Patients Reporting Reaction |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| System/Organ Class Adverse Reaction | Risperidone 1 to 6 mg per day (N = 448) | Placebo (N = 424) |  |  |  |  |  |  |  |  |
+| Eye Disorders |  |  |  |  |  |  |  |  |  |  |
+| Vision blurred | 2 | 1 |  |  |  |  |  |  |  |  |
+| Gastrointestinal Disorders |  |  |  |  |  |  |  |  |  |  |
+| Nausea | 5 | 2 |  |  |  |  |  |  |  |  |
+| Diarrhea | 3 | 2 |  |  |  |  |  |  |  |  |
+| Salivary hypersecretion | 3 | 1 |  |  |  |  |  |  |  |  |
+| Stomach discomfort | 2 | < 1 |  |  |  |  |  |  |  |  |
+| General Disorders |  |  |  |  |  |  |  |  |  |  |
+| Fatigue | 2 | 1 |  |  |  |  |  |  |  |  |
+| Nervous System Disorders |  |  |  |  |  |  |  |  |  |  |
+| Parkinsonism* | 25 | 9 |  |  |  |  |  |  |  |  |
+| Sedation | 11 | 4 |  |  |  |  |  |  |  |  |
+| Akathisia* | 9 | 3 |  |  |  |  |  |  |  |  |
+| Tremor* | 6 | 3 |  |  |  |  |  |  |  |  |
+| Dizziness | 6 | 5 |  |  |  |  |  |  |  |  |
+| Dystonia* | 5 | 1 |  |  |  |  |  |  |  |  |
+| Lethargy | 2 | 1 |  |  |  |  |  |  |  |  |
+| * Parkinsonism includes extrapyramidal disorder, parkinsonism, musculoskeletal stiffness, hypokinesia, muscle rigidity, muscle tightness, bradykinesia, cogwheel rigidity. Akathisia includes akathisia and restlessness. Tremor includes tremor and parkinsonian rest tremor. Dystonia includes dystonia, muscle spasms, oculogyration, torticollis. |  |  |  |  |  |  |  |  |  |  |
 
 Table 11 lists the adverse reactions reported in 2% or more of risperidone-treated adult patients with bipolar mania in two 3-week, double-blind, placebo-controlled adjuvant therapy trials.
 
 Table 11.
 Adverse Reactions in ≥ 2% of Risperidone-Treated Adult Patients (and greater than placebo) with Bipolar Mania in Double-Blind, Placebo-Controlled Adjunctive Therapy Trials
 
-|  | Percentage of Patients Reporting Reaction |  |
-| --- | --- | --- |
-| System/Organ Class Adverse Reaction | Risperidone + Mood Stabilizer (N = 127) | Placebo + Mood Stabilizer (N = 126) |
-| Cardiac Disorders |  |  |
-| Palpitations | 2 | 0 |
-| Gastrointestinal Disorders |  |  |
-| Dyspepsia | 9 | 8 |
-| Nausea | 6 | 4 |
-| Diarrhea | 6 | 4 |
-| Salivary hypersecretion | 2 | 0 |
-| General Disorders |  |  |
-| Chest pain | 2 | 1 |
-| Infections and Infestations |  |  |
-| Urinary tract infection | 2 | 1 |
-| Nervous System Disorders |  |  |
-| Parkinsonism* | 14 | 4 |
-| Sedation | 9 | 4 |
-| Akathisia* | 8 | 0 |
-| Dizziness | 7 | 2 |
-| Tremor | 6 | 2 |
-| Lethargy | 2 | 1 |
-| Psychiatric Disorders |  |  |
-| Anxiety | 3 | 2 |
-| Respiratory, Thoracic and Mediastinal Disorders |  |  |
-| Pharyngolaryngeal pain | 5 | 2 |
-| Cough | 2 | 0 |
-| * Parkinsonism includes extrapyramidal disorder, hypokinesia and bradykinesia. Akathisia includes hyperkinesia and akathisia. |  |  |
+|  | Percentage of Patients Reporting Reaction |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| System/Organ Class Adverse Reaction | Risperidone + Mood Stabilizer (N = 127) | Placebo + Mood Stabilizer (N = 126) |  |  |  |  |  |  |  |  |  |  |  |
+| Cardiac Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Palpitations | 2 | 0 |  |  |  |  |  |  |  |  |  |  |  |
+| Gastrointestinal Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Dyspepsia | 9 | 8 |  |  |  |  |  |  |  |  |  |  |  |
+| Nausea | 6 | 4 |  |  |  |  |  |  |  |  |  |  |  |
+| Diarrhea | 6 | 4 |  |  |  |  |  |  |  |  |  |  |  |
+| Salivary hypersecretion | 2 | 0 |  |  |  |  |  |  |  |  |  |  |  |
+| General Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Chest pain | 2 | 1 |  |  |  |  |  |  |  |  |  |  |  |
+| Infections and Infestations |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Urinary tract infection | 2 | 1 |  |  |  |  |  |  |  |  |  |  |  |
+| Nervous System Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Parkinsonism* | 14 | 4 |  |  |  |  |  |  |  |  |  |  |  |
+| Sedation | 9 | 4 |  |  |  |  |  |  |  |  |  |  |  |
+| Akathisia* | 8 | 0 |  |  |  |  |  |  |  |  |  |  |  |
+| Dizziness | 7 | 2 |  |  |  |  |  |  |  |  |  |  |  |
+| Tremor | 6 | 2 |  |  |  |  |  |  |  |  |  |  |  |
+| Lethargy | 2 | 1 |  |  |  |  |  |  |  |  |  |  |  |
+| Psychiatric Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Anxiety | 3 | 2 |  |  |  |  |  |  |  |  |  |  |  |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Pharyngolaryngeal pain | 5 | 2 |  |  |  |  |  |  |  |  |  |  |  |
+| Cough | 2 | 0 |  |  |  |  |  |  |  |  |  |  |  |
+| * Parkinsonism includes extrapyramidal disorder, hypokinesia and bradykinesia. Akathisia includes hyperkinesia and akathisia. |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Pediatric Patients with Bipolar Mania
 
@@ -188,36 +189,37 @@ Table 12 lists the adverse reactions reported in 5% or more of risperidone-treat
 Table 12.
 Adverse Reactions in ≥ 5% of Risperidone-Treated Pediatric Patients (and greater than placebo) with Bipolar Mania in Double-Blind, Placebo-Controlled Trials
 
-|  | Percentage of Patients Reporting Reaction Risperidone |  |  |
-| --- | --- | --- | --- |
-|  | Risperidone |  |  |
-| System/Organ Class Adverse Reaction | 0.5 to 2.5 mg per day (N = 50) | 3 to 6 mg per day (N = 61) | Placebo (N = 58) |
-| Eye Disorders |  |  |  |
-| Vision blurred | 4 | 7 | 0 |
-| Gastrointestinal Disorders |  |  |  |
-| Abdominal pain upper | 16 | 13 | 5 |
-| Nausea | 16 | 13 | 7 |
-| Vomiting | 10 | 10 | 5 |
-| Diarrhea | 8 | 7 | 2 |
-| Dyspepsia | 10 | 3 | 2 |
-| Stomach discomfort | 6 | 0 | 2 |
-| General Disorders |  |  |  |
-| Fatigue | 18 | 30 | 3 |
-| Metabolism and Nutrition Disorders |  |  |  |
-| Increased appetite | 4 | 7 | 2 |
-| Nervous System Disorders |  |  |  |
-| Sedation | 42 | 56 | 19 |
-| Dizziness | 16 | 13 | 5 |
-| Parkinsonism* | 6 | 12 | 3 |
-| Dystonia* | 6 | 5 | 0 |
-| Akathisia* | 0 | 8 | 2 |
-| Psychiatric Disorders |  |  |  |
-| Anxiety | 0 | 8 | 3 |
-| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |
-| Pharyngolaryngeal pain | 10 | 3 | 5 |
-| Skin and Subcutaneous Tissue Disorders |  |  |  |
-| Rash | 0 | 7 | 2 |
-| * Parkinsonism includes musculoskeletal stiffness, extrapyramidal disorder, bradykinesia, and nuchal rigidity.Dystonia includes dystonia, laryngospasm, and muscle spasms. Akathisia includes restlessness and akathisia. |  |  |  |
+|  | Percentage of Patients Reporting Reaction Risperidone |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Risperidone |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| System/Organ Class Adverse Reaction | 0.5 to 2.5 mg per day (N = 50) | 3 to 6 mg per day (N = 61) | Placebo (N = 58) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Eye Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Vision blurred | 4 | 7 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Gastrointestinal Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Abdominal pain upper | 16 | 13 | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Nausea | 16 | 13 | 7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Vomiting | 10 | 10 | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Diarrhea | 8 | 7 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Dyspepsia | 10 | 3 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Stomach discomfort | 6 | 0 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| General Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Fatigue | 18 | 30 | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metabolism and Nutrition Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Increased appetite | 4 | 7 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Nervous System Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Sedation | 42 | 56 | 19 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Dizziness | 16 | 13 | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Parkinsonism* | 6 | 12 | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Dystonia* | 6 | 5 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Akathisia* | 0 | 8 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Psychiatric Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Anxiety | 0 | 8 | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Pharyngolaryngeal pain | 10 | 3 | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Skin and Subcutaneous Tissue Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Rash | 0 | 7 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| * Parkinsonism includes musculoskeletal stiffness, extrapyramidal disorder, bradykinesia, and nuchal rigidity. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Dystonia includes dystonia, laryngospasm, and muscle spasms. Akathisia includes restlessness and akathisia. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Commonly-Observed Adverse Reactions in Double-Blind, Placebo-Controlled Clinical Trials - Autistic Disorder
 
@@ -226,43 +228,43 @@ Table 13 lists the adverse reactions reported in 5% or more of risperidone-treat
 Table 13.
 Adverse Reactions in ≥ 5% of Risperidone-Treated Pediatric Patients (and greater than placebo) Treated for Irritability Associated with Autistic Disorder in Double-Blind, Placebo-Controlled Trials
 
-|  | Percentage of Patients Reporting Reaction |  |
-| --- | --- | --- |
-| System/Organ Class Adverse Reaction | Risperidone 0.5 to 4 mg/day (N = 107) | Placebo (N = 115) |
-| Gastrointestinal Disorders |  |  |
-| Vomiting | 20 | 17 |
-| Constipation | 17 | 6 |
-| Dry mouth | 10 | 4 |
-| Nausea | 8 | 5 |
-| Salivary hypersecretion | 7 | 1 |
-| General Disorders and Administration Site Conditions |  |  |
-| Fatigue | 31 | 9 |
-| Pyrexia | 16 | 13 |
-| Thirst | 7 | 4 |
-| Infections and Infestations |  |  |
-| Nasopharyngitis | 19 | 9 |
-| Rhinitis | 9 | 7 |
-| Upper respiratory tract infection | 8 | 3 |
-| Investigations |  |  |
-| Weight increased | 8 | 2 |
-| Metabolism and Nutrition Disorders |  |  |
-| Increased appetite | 44 | 15 |
-| Nervous System Disorders |  |  |
-| Sedation | 63 | 15 |
-| Drooling | 12 | 4 |
-| Headache | 12 | 10 |
-| Tremor | 8 | 1 |
-| Dizziness | 8 | 2 |
-| Parkinsonism* | 8 | 1 |
-| Renal and Urinary Disorders |  |  |
-| Enuresis | 16 | 10 |
-| Respiratory, Thoracic and Mediastinal Disorders |  |  |
-| Cough | 17 | 12 |
-| Rhinorrhea | 12 | 10 |
-| Nasal congestion | 10 | 4 |
-| Skin and Subcutaneous Tissue Disorders |  |  |
-| Rash | 8 | 5 |
-| *Parkinsonism includes musculoskeletal stiffness, extrapyramidal disorder, muscle rigidity, cogwheel rigidity, and muscle tightness. |  |  |
+|  | Percentage of Patients Reporting Reaction |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| System/Organ Class Adverse Reaction | Risperidone 0.5 to 4 mg/day (N = 107) | Placebo (N = 115) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Gastrointestinal Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Vomiting | 20 | 17 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Constipation | 17 | 6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Dry mouth | 10 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Nausea | 8 | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Salivary hypersecretion | 7 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| General Disorders and Administration Site Conditions |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Fatigue | 31 | 9 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Pyrexia | 16 | 13 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Thirst | 7 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Infections and Infestations |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Nasopharyngitis | 19 | 9 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Rhinitis | 9 | 7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Upper respiratory tract infection | 8 | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Investigations |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Weight increased | 8 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metabolism and Nutrition Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Increased appetite | 44 | 15 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Nervous System Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Sedation | 63 | 15 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Drooling | 12 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Headache | 12 | 10 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Tremor | 8 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Dizziness | 8 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Parkinsonism* | 8 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Renal and Urinary Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Enuresis | 16 | 10 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Cough | 17 | 12 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Rhinorrhea | 12 | 10 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Nasal congestion | 10 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Skin and Subcutaneous Tissue Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Rash | 8 | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| *Parkinsonism includes musculoskeletal stiffness, extrapyramidal disorder, muscle rigidity, cogwheel rigidity, and muscle tightness. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Other Adverse Reactions Observed During the Clinical Trial Evaluation of Risperidone
 

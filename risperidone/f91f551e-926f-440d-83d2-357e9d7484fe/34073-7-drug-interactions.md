@@ -25,17 +25,17 @@ Table 18 Summary of Effect of Coadministered Drugs on Exposure to Active Moiety 
 | Amitriptyline | 50 mg twice daily | 3 mg twice daily | 1.2 | 1.1 | Dose adjustment not needed |
 | *Change relative to reference |  |  |  |  |  |
 
-Effect of Risperidone on other drugs
+Effect of Risperidone on Other Drugs
 
 Lithium
 
-Repeated oral doses of risperidone (3 mg twice daily) did not affect the exposure (AUC) or peak plasma concentrations (C max) of lithium (n = 13).
+Repeated oral doses of risperidone (3 mg twice daily) did not affect the exposure (AUC) or peak plasma concentrations (Cmax) of lithium (n = 13).
 Dose adjustment for lithium is not recommended.
 
 Valproate
 
 Repeated oral doses of risperidone (4 mg once daily) did not affect the pre-dose or average plasma concentrations and exposure (AUC) of valproate (1000 mg/day in three divided doses) compared to placebo (n = 21).
-However, there was a 20% increase in valproate peak plasma concentration (C max) after concomitant administration of risperidone.
+However, there was a 20% increase in valproate peak plasma concentration (Cmax) after concomitant administration of risperidone.
 Dose adjustment for valproate is not recommended.
 
 Digoxin

@@ -43,7 +43,7 @@ A syndrome of potentially irreversible, involuntary, dyskinetic movements may de
 The risk of developing tardive dyskinesia and the likelihood that it will become irreversible are believed to increase as the duration of treatment and the total cumulative dose of antipsychotic drugs administered to the patient increase.
 However, the syndrome can develop, although much less commonly, after relatively brief treatment periods at low doses.
 
-There is no known treatment for established cases of tardive dyskinesia, although the syndrome may remit, partially or completely, if antipsychotic treatment is withdrawn.
+The syndrome may remit, partially or completely, if antipsychotic treatment is withdrawn.
 Antipsychotic treatment, itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome and thereby may possibly mask the underlying process.
 The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown.
 
@@ -96,13 +96,14 @@ Data from the placebo-controlled 3- to 6-week study in children and adolescents 
 Table 3.
 Change in Fasting Glucose from Three Placebo-Controlled, 3- to 6-Week, Fixed-Dose Studies in Children and Adolescents with Schizophrenia (13 to 17 years of age), Bipolar Mania (10 to 17 years of age), or Autistic Disorder (5 to 17 years of age)
 
-|  | Placebo | Risperidone 0.5 to 6 mg/day |
+|  |  | Risperidone |
 | --- | --- | --- |
+|  | Placebo | 0.5 to 6 mg/day |
 |  | Mean change from baseline (mg/dL) |  |
 |  | n = 76 | n = 135 |
 | Serum Glucose | -1.3 | 2.6 |
 |  | Proportion of patients with shifts |  |
-| Serum Glucose (< 100 mg/dL to ≥ 126 mg/dL) | 0% (0/64) | 0.8% (1/120) |
+| Serum Glucose (< 100 mg/dL to ≥ 126 mg/dL) | 0%(0/64) | 0.8%(1/120) |
 
 In longer-term, uncontrolled, open-label extension pediatric studies, risperidone was associated with a mean change in fasting glucose of +5.2 mg/dL at Week 24 (n = 119).
 
@@ -209,7 +210,7 @@ When treating pediatric patients with risperidone for any indication, weight gai
 
 ## 5.6 Hyperprolactinemia
 
-As with other drugs that antagonize dopamine D 2 receptors, risperidone elevates prolactin levels and the elevation persists during chronic administration.
+As with other drugs that antagonize dopamine D2 receptors, risperidone elevates prolactin levels and the elevation persists during chronic administration.
 Risperidone is associated with higher levels of prolactin elevation than other antipsychotic agents.
 
 Hyperprolactinemia may suppress hypothalamic GnRH, resulting in reduced pituitary gonadotropin secretion.
@@ -231,7 +232,12 @@ A dose reduction should be considered if hypotension occurs.
 Risperidone should be used with particular caution in patients with known cardiovascular disease (history of myocardial infarction or ischemia, heart failure, or conduction abnormalities), cerebrovascular disease, and conditions which would predispose patients to hypotension, e.g., dehydration and hypovolemia.
 Clinically significant hypotension has been observed with concomitant use of risperidone and antihypertensive medication.
 
-## 5.8 Leukopenia, Neutropenia, and Agranulocytosis
+## 5.8 Falls
+
+Somnolence, postural hypotension, motor and sensory instability have been reported with the use of antipsychotics, including risperidone, which may lead to falls and, consequently, fractures or other fall-related injuries.
+For patients, particularly the elderly, with diseases, conditions, or medications that could exacerbate these effects, assess the risk of falls when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy.
+
+## 5.9 Leukopenia, Neutropenia, and Agranulocytosis
 
 Class Effect: In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including risperidone.
 
@@ -241,39 +247,39 @@ Possible risk factors for leukopenia/neutropenia include pre-existing low white 
 Patients with a history of a clinically significant low WBC or a drug-induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and discontinuation of risperidone should be considered at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
 
 Patients with clinically significant neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
-Patients with severe neutropenia (absolute neutrophil count < 1000/mm 3) should discontinue risperidone and have their WBC followed until recovery.
+Patients with severe neutropenia (absolute neutrophil count < 1000/mm3) should discontinue risperidone and have their WBC followed until recovery.
 
-## 5.9 Potential for Cognitive and Motor Impairment
+## 5.10 Potential for Cognitive and Motor Impairment
 
 Somnolence was a commonly reported adverse reaction associated with risperidone treatment, especially when ascertained by direct questioning of patients.
 This adverse reaction is dose-related, and in a study utilizing a checklist to detect adverse events, 41% of the high-dose patients (risperidone 16 mg/day) reported somnolence compared to 16% of placebo patients.
 Direct questioning is more sensitive for detecting adverse events than spontaneous reporting, by which 8% of risperidone 16 mg/day patients and 1% of placebo patients reported somnolence as an adverse reaction.
 Since risperidone has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that risperidone therapy does not affect them adversely.
 
-## 5.10 Seizures
+## 5.11 Seizures
 
 During premarketing testing in adult patients with schizophrenia, seizures occurred in 0.3% (9/2607) of risperidone-treated patients, two in association with hyponatremia.
 Risperidone should be used cautiously in patients with a history of seizures.
 
-## 5.11 Dysphagia
+## 5.12 Dysphagia
 
 Esophageal dysmotility and aspiration have been associated with antipsychotic drug use.
 Aspiration pneumonia is a common cause of morbidity and mortality in patients with advanced Alzheimer’s dementia.
 Risperidone and other antipsychotic drugs should be used cautiously in patients at risk for aspiration pneumonia.
 [see Boxed Warning and Warnings and Precautions (5.1)]
 
-## 5.12 Priapism
+## 5.13 Priapism
 
 Priapism has been reported during postmarketing surveillance.
 Severe priapism may require surgical intervention.
 
-## 5.13 Body Temperature Regulation
+## 5.14 Body Temperature Regulation
 
 Disruption of body temperature regulation has been attributed to antipsychotic agents.
 Both hyperthermia and hypothermia have been reported in association with oral risperidone use.
 Caution is advised when prescribing for patients who will be exposed to temperature extremes.
 
-## 5.14 Patients with Phenylketonuria
+## 5.15 Patients with Phenylketonuria
 
 Inform patients that risperidone orally disintegrating tablets contain phenylalanine.
 Phenylalanine is a component of aspartame.
