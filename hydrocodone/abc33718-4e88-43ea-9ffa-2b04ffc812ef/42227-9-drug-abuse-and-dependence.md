@@ -6,7 +6,8 @@ Hydrocodone bitartrate and ibuprofen contains hydrocodone, a Schedule II control
 
 Abuse
 
-Hydrocodone bitartrate and ibuprofen contains hydrocodone, a substance with a high potential for abuse similar to other opioids including fentanyl, hydromorphone, methadone, morphine, oxycodone, oxymorphone, and tapentadol. hydrocodone bitartrate and ibuprofen can be abused and is subject to misuse, addiction, and criminal diversion (see WARNINGS: Addiction, Abuse, and Misuse).
+Hydrocodone bitartrate and ibuprofen contains hydrocodone, a substance with a high potential for abuse similar to other opioids including fentanyl, hydromorphone, methadone, morphine, oxycodone, oxymorphone, and tapentadol.
+Hydrocodone bitartrate and ibuprofen can be abused and is subject to misuse, addiction, and criminal diversion (see WARNINGS: Addiction, Abuse, and Misuse).
 
 All patients treated with opioids require careful monitoring for signs of abuse and addiction, because use of opioid analgesic products carries the risk of addiction even under appropriate medical use.
 
