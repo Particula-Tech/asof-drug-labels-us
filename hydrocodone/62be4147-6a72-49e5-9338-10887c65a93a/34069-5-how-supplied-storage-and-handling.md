@@ -10,11 +10,9 @@ Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
 Dispense in a tight, light-resistant container as defined in the USP with a child-resistant closure.
 
-A Schedule II Narcotic
-
-DEA Order Form Required.
+A Schedule II Narcotic DEA Order Form Required.
 
 Manufactured by: Amneal Pharmaceuticals of NY LLC Brookhaven, NY 11719
 
 Rev.
-02-2017-07
+07-2018-09
