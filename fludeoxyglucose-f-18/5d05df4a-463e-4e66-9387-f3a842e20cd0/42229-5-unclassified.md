@@ -2,6 +2,6 @@ RX ONLY
 
 # Manufactured & Distributed by:
 
-Triad Isotopes, Inc.
+Triad Isotopes
 
 Orlando, Florida
