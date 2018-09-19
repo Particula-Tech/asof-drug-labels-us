@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA206614"
+  ],
+  "inn": "ritonavir",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "65862-687-01",
+    "65862-687-05",
+    "65862-687-30",
+    "65862-687-99"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "ritonavir",
+      "name": "Ritonavir"
+    }
+  ],
+  "setid": "11f757f1-cf48-47a8-925e-918359cbd2d4",
+  "source": "dailymed"
+}
