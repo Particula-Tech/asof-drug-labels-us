@@ -1,7 +1,6 @@
 # DESCRIPTION
 
-KRISTALOSE® (LACTULOSE) is a synthetic disaccharide in the form of crystals for reconstitution prior to use for oral administration.
-Each 10 g of lactulose contains less than 0.3 g galactose and lactose as a total sum.
+KRISTALOSE (lactulose) is a synthetic disaccharide in the form of crystals for reconstitution prior to use for oral administration Each 10 g of lactulose contains less than 0.3 g galactose and lactose as a total sum.
 The pH range is 3.0 to 7.0.
 
 Lactulose is a colonic acidifier which promotes laxation.

@@ -10,8 +10,6 @@ The packets are supplied as follows:
 
 STORE AT ROOM TEMPERATURE, 15°-30°C (59°-86°F).
 
-To report adverse events associated with this product, please call 1-877-484-2700.
+To report SUSPECTED ADVERSE REACTIONS, contact Cumberland Pharmaceuticals Inc. at 1-877-484-2700 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
-www.kristalose.com
-
-Manufactured for: CUMBERLAND PHARMACEUTICALS INC. Nashville, TN 37203 KPI 021201
+Manufactured for: CUMBERLAND PHARMACEUTICALS INC. Nashville, TN 37203 KRISTALOSE is a registered trademark of Cumberland Pharmaceuticals Inc. Issued: July 2018

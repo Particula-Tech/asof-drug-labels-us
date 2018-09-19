@@ -1,8 +1,3 @@
-For Oral Solution
-
-| Rx only |
-| --- |
-
 # DIRECTIONS FOR PREPARATION
 
 Dissolve contents of packet in half a glass (4 ounces) of water.
