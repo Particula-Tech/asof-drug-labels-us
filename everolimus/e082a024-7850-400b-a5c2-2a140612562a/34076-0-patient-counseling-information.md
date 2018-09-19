@@ -23,7 +23,7 @@ Advise patients to contact their physician if they develop any symptoms of infec
 
 Kidney Graft Thrombosis
 
-Inform patients that Zortress has been associated with an increased risk of kidney arterial and venous thrombosis, resulting in graft loss, usually within the first 30 days post-transplantation [see Warnings and Precautions (5.4)].
+Inform patients that Zortress has been associated with an increased risk of kidney arterial and venous thrombosis, resulting in graft loss, usually within the first 30 days posttransplantation [see Warnings and Precautions (5.4)].
 
 Zortress and Calcineurin Inhibitor-Induced Nephrotoxicity
 
@@ -39,7 +39,7 @@ Wound Healing Complications and Fluid Accumulation
 
 Inform patients the use of Zortress has been associated with impaired or delayed wound healing, fluid accumulation and the need for careful observation of their incision site [see Warnings and Precautions (5.9)].
 
-Interstitial Lung Disease/Non-Infectious Pneumonitis
+Interstitial Lung Disease (ILD)/Non-Infectious Pneumonitis
 
 Inform patients the use of Zortress may increase the risk of non-infectious pneumonitis.
 Advise patients to seek medical attention if they develop clinical symptoms consistent with pneumonia [see Warnings and Precautions (5.10)].
@@ -61,7 +61,7 @@ Also advise not to breastfeed while taking Zortress [see Use in Specific Populat
 
 Male and Female Fertility
 
-Inform male and female patients that Zortress may impair fertility [see Warnings and Precautions (5.18), Use in Specific Populations (8.1, 8.3), NonClinical Toxicology (13.1)].
+Inform male and female patients that Zortress may impair fertility [see Warnings and Precautions (5.18), Use in Specific Populations (8.1, 8.3), Nonclinical Toxicology (13.1)].
 
 Medications that Interfere with Zortress
 
@@ -82,10 +82,8 @@ Patient with Hereditary Disorders
 
 Advise patients to inform their physicians that if they have hereditary disorders of galactose intolerance (Lapp-lactase deficiency or glucose-galactose malabsorption) not to take Zortress [see Warnings and Precautions (5.21)].
 
-Manufactured by: Novartis Pharma Stein AG Stein, Switzerland
-
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
 © Novartis
 
-T2018-03
+T2018-110

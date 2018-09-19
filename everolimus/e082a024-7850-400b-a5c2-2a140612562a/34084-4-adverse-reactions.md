@@ -25,7 +25,7 @@ The following adverse reactions are discussed in greater detail in other section
 
 Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed cannot be directly compared to rates in other trials and may not reflect the rates observed in clinical practice.
 
-Kidney transplantation
+Kidney Transplantation
 
 The data described below reflect exposure to Zortress in an open-label, randomized trial of de novo kidney transplant patients of concentration-controlled everolimus at an initial Zortress starting dose of 1.5 mg per day [target trough concentrations 3 to 8 ng/mL with reduced exposure cyclosporine (N = 274) compared to mycophenolic acid (N = 273) with standard exposure cyclosporine].
 All patients received basiliximab induction therapy and corticosteroids.
@@ -48,7 +48,7 @@ A total of 13 patients died during the first 12 months of study; 7 (3%) in the Z
 The most common causes of death across the study groups were related to cardiac conditions and infections.
 
 There were 12 (4%) graft losses in the Zortress group and 8 (3%) in the control group over the 12 month study period.
-Of the graft losses, 4 were due to renal artery and two due to renal vein thrombosis in the Zortress group (2%) compared to two renal artery thromboses in the control group (1%) [see Boxed Warning and Warnings and Precautions (5.4)].
+Of the graft losses, 4 were due to renal artery and two due to renal vein thrombosis in the Zortress group (2%) compared to two renal artery thromboses in the control group (1%) [see Boxed Warning, Warnings and Precautions (5.4)].
 
 The most common (greater than or equal to 20%) adverse reactions observed in the Zortress group were: peripheral edema, constipation, hypertension, nausea, anemia, urinary tract infection, and hyperlipidemia.
 
@@ -75,7 +75,7 @@ Neoplasms
 
 Adverse reactions due to malignant and benign neoplasms were reported in 3% of patients in the Zortress group and 6% in the control group.
 The most frequently reported neoplasms in the control group were basal cell carcinoma, squamous cell carcinoma, skin papilloma and seborrheic keratosis.
-One patient in the Zortress group who underwent a melanoma excision prior to transplantation died due to metastatic melanoma [see Boxed Warning and Warnings and Precautions (5.2)].
+One patient in the Zortress group who underwent a melanoma excision prior to transplantation died due to metastatic melanoma [see Boxed Warning, Warnings and Precautions (5.2)].
 
 New Onset Diabetes Mellitus (NODM)
 
@@ -91,15 +91,15 @@ Table 2 compares the incidence of treatment-emergent adverse reactions reported 
 Within each MedDRA system organ class, the adverse reactions are presented in order of decreasing frequency.
 
 Table 2.
-Incidence Rates of Frequent (Greater than or Equal to 10% in Any Treatment Group) Adverse Reactions by Primary System Organ Class and Preferred Term after Kidney Transplantation (Safety Population*)
+Incidence Rates of Frequent (Greater than or Equal to 10% in any Treatment Group) Adverse Reactions by Primary System Organ Class and Preferred Term After Kidney Transplantation (Safety Population*)
 
-| Primary System Organ Class Preferred Term | Zortress (everolimus) 1.5 mg With reduced exposure cyclosporine N=274 n (%) | Mycophenolic acid 1.44 g With standard exposure cyclosporine N=273 n (%) |
+| Primary System Organ Class Preferred Term | Zortress (everolimus) 1.5 mg With Reduced Exposure Cyclosporine N = 274 n (%) | Mycophenolic Acid 1.44 g With Standard Exposure Cyclosporine N = 273 n (%) |
 | --- | --- | --- |
 | Any Adverse Reactions* | 271 (99) | 270 (99) |
-| Blood lymphatic system disorders | 93 (34) | 111 (41) |
+| Blood Lymphatic System Disorders | 93 (34) | 111 (41) |
 | Anemia | 70 (26) | 68 (25) |
 | Leukopenia | 8 (3) | 33 (12) |
-| Gastrointestinal disorders | 196 (72) | 207 (76) |
+| Gastrointestinal Disorders | 196 (72) | 207 (76) |
 | Constipation | 105 (38) | 117 (43) |
 | Nausea | 79 (29) | 85 (31) |
 | Diarrhea | 51 (19) | 54 (20) |
@@ -107,19 +107,19 @@ Incidence Rates of Frequent (Greater than or Equal to 10% in Any Treatment Group
 | Abdominal pain | 36 (13) | 42 (15) |
 | Dyspepsia | 12 (4) | 31 (11) |
 | Abdominal pain upper | 9 (3) | 30 (11) |
-| General disorders and administrative site conditions | 181 (66) | 160 (59) |
-| Edema peripheral | 123 (45) | 108 (40) |
+| General Disorders and Administrative site Conditions | 181 (66) | 160 (59) |
+| Edema Peripheral | 123 (45) | 108 (40) |
 | Pyrexia | 51 (19) | 40 (15) |
 | Fatigue | 25 (9) | 28 (10) |
-| Infections and infestations | 169 (62) | 185 (68) |
-| Urinary tract infection | 60 (22) | 63 (23) |
-| Upper respiratory tract infection | 44 (16) | 49 (18) |
-| Injury, poisoning and procedural complications | 163 (60) | 163 (60) |
+| Infections and Infestations | 169 (62) | 185 (68) |
+| Urinary Tract Infection | 60 (22) | 63 (23) |
+| Upper Respiratory Tract Infection | 44 (16) | 49 (18) |
+| Injury, Poisoning and Procedural Complications | 163 (60) | 163 (60) |
 | Incision site pain | 45 (16) | 47 (17) |
 | Procedural pain | 40 (15) | 37 (14) |
 | Investigations | 137 (50) | 133 (49) |
-| Blood creatinine increased | 48 (18) | 59 (22) |
-| Metabolism and nutrition disorders | 222 (81) | 199 (73) |
+| Blood creatinine Increased | 48 (18) | 59 (22) |
+| Metabolism and Nutrition Disorders | 222 (81) | 199 (73) |
 | Hyperlipidemia | 57 (21) | 43 (16) |
 | Hyperkalemia | 49 (18) | 48 (18) |
 | Hypercholesterolemia | 47 (17) | 34 (13) |
@@ -128,41 +128,41 @@ Incidence Rates of Frequent (Greater than or Equal to 10% in Any Treatment Group
 | Hypophosphatemia | 35 (13) | 35 (13) |
 | Hyperglycemia | 34 (12) | 38 (14) |
 | Hypokalemia | 32 (12) | 32 (12) |
-| Musculoskeletal and connective tissue disorders | 112 (41) | 105 (39) |
-| Pain in extremity | 32 (12) | 29 (11) |
+| Musculoskeletal and Connective Tissue Disorders | 112 (41) | 105 (39) |
+| Pain in Extremity | 32 (12) | 29 (11) |
 | Back pain | 30 (11) | 28 (10) |
-| Nervous system disorders | 92 (34) | 109 (40) |
+| Nervous System Disorders | 92 (34) | 109 (40) |
 | Headache | 49 (18) | 40 (15) |
 | Tremor | 23 (8) | 38 (14) |
-| Psychiatric disorders | 90 (33) | 72 (26) |
+| Psychiatric Disorders | 90 (33) | 72 (26) |
 | Insomnia | 47 (17) | 43 (16) |
-| Renal and urinary disorders | 112 (41) | 124 (45) |
+| Renal and Urinary Disorders | 112 (41) | 124 (45) |
 | Hematuria | 33 (12) | 33 (12) |
 | Dysuria | 29 (11) | 28 (10) |
-| Respiratory, thoracic and mediastinal disorders | 86 (31) | 93 (34) |
+| Respiratory, Thoracic and Mediastinal Disorders | 86 (31) | 93 (34) |
 | Cough | 20 (7) | 30 (11) |
-| Vascular disorders | 122 (45) | 124 (45) |
+| Vascular Disorders | 122 (45) | 124 (45) |
 | Hypertension | 81 (30) | 82 (30) |
 
 *The safety analysis population defined as all randomized kidney transplant patients who received at least one dose of treatment and had at least one post-baseline safety assessment.
 
 Adverse reaction that occurred with at least a 5% higher frequency in the Zortress 1.5 mg group compared to the control group were: peripheral edema (45% compared to 40%), hyperlipidemia (21% compared to 16%), dyslipidemia (15% compared to 9%), and stomatitis/mouth ulceration (8% compared to 3%).
 
-A third treatment group of Zortress 3.0 mg per day (1.5 mg twice daily; target trough concentrations 6 to 12 ng/mL) with reduced exposure cyclosporine was included in the study described above.
+A third treatment group of Zortress 3 mg per day (1.5 mg twice daily; target trough concentrations 6 to 12 ng/mL) with reduced exposure cyclosporine was included in the study described above.
 Although as effective as the lower dose Zortress group, the overall safety was worse and consequently higher doses of Zortress cannot be recommended.
 Out of 279 patients, 95 (34%) discontinued the study medication with 57 (20%) doing so because of adverse reactions.
-The most frequent adverse reactions leading to discontinuation of Zortress when used at this higher dose were injury, poisoning and procedural complications (Zortress 1.5 mg: 5%, Zortress 3.0 mg: 7%, and control: 2%), infections (2%, 6%, and 3%, respectively), renal and urinary disorders (4%, 7%, and 4%, respectively) and gastrointestinal disorders (1%, 3%, and 2%).
+The most frequent adverse reactions leading to discontinuation of Zortress when used at this higher dose were injury, poisoning and procedural complications (Zortress 1.5 mg: 5%, Zortress 3 mg: 7%, and control: 2%), infections (2%, 6%, and 3%, respectively), renal and urinary disorders (4%, 7%, and 4%, respectively) and gastrointestinal disorders (1%, 3%, and 2%).
 
 The combination of fixed dose Zortress and standard doses of cyclosporine in previous kidney clinical trials resulted in frequent elevations of serum creatinine with higher mean and median serum creatinine values observed than in the current study with reduced exposure cyclosporine.
 These results indicate that Zortress increases the cyclosporine-induced nephrotoxicity; and therefore should only be used in a concentration-controlled regimen with reduced exposure cyclosporine [see Boxed Warnings, Indications and Usage (1.1), Warnings and Precautions (5.6)].
 
-Liver transplantation
+Liver Transplantation
 
 The data described below reflect exposure to Zortress starting 30 days after transplantation in an open-label, randomized trial of liver transplant patients.
-Seven hundred and nineteen (719) patients who fulfilled the inclusion/exclusion criteria [see Clinical Studies section (14.2)] were randomized into one of the three treatment groups of the study.
+Seven hundred and nineteen (719) patients who fulfilled the inclusion/exclusion criteria [see Clinical Studies (14.2)] were randomized into one of the three treatment groups of the study.
 During the first 30 days prior to randomization patients received tacrolimus and corticosteroids, with or without mycophenolate mofetil (about 70% to 80% received MMF).
 No induction antibody was administered.
-At randomization, MMF was discontinued and patients were randomized to Zortress initial dose of 1.0 mg twice per day (2.0 mg daily) and adjusted to protocol specified target trough concentrations of 3 to 8 ng/mL with reduced exposure tacrolimus [protocol specified target troughs 3 to 5 ng/mL] (N = 245) [see Clinical Pharmacology (12.7, 12.9)] or to a control group of standard exposure tacrolimus [protocol specified target troughs 8 to 12 ng/mL up to Month 4 post-transplant, then 6 to 10 ng/mL Month 4 through Month 12 post-transplant] (N=241).
+At randomization, MMF was discontinued and patients were randomized to Zortress initial dose of 1 mg twice per day (2 mg daily) and adjusted to protocol specified target trough concentrations of 3 to 8 ng/mL with reduced exposure tacrolimus [protocol specified target troughs 3 to 5 ng/mL] (N = 245) [see Clinical Pharmacology (12.7, 12.9)] or to a control group of standard exposure tacrolimus [protocol specified target troughs 8 to 12 ng/mL up to Month 4 posttransplant, then 6 to 10 ng/mL Month 4 through Month 12 posttransplant] (N = 241).
 A third randomized group was discontinued prematurely [see Clinical Studies (14.2)] and is not described in this section.
 
 The population was between 18 and 70 years, more than 50% were 50 years of age (mean age was 54 years in the Zortress group, 55 years in the tacrolimus control group); 74% were male in both Zortress and control groups, respectively, and a majority were Caucasian (86% Zortress group, 80% control group).
@@ -170,7 +170,7 @@ Demographic characteristics were comparable between treatment groups.
 The most frequent diseases leading to transplantation were balanced between groups.
 The most frequent causes of end-stage liver disease (ESLD) were alcoholic cirrhosis, hepatitis C, and hepatocellular carcinoma and were balanced between groups.
 
-Twenty-seven percent discontinued study drug in the Zortress group compared with 22% for the tacrolimus control group during the first 12 months of study.
+Twenty-seven percent (27%) discontinued study drug in the Zortress group compared with 22% for the tacrolimus control group during the first 12 months of study.
 The most common reason for discontinuation of study medication was due to adverse reactions (19% and 11%, respectively), including proteinuria, recurrent hepatitis C, and pancytopenia in the Zortress group.
 At 24 months, the rate of discontinuation of study medication in liver transplant patients was greater for the Zortress group (42%) compared to tacrolimus control group (33%).
 
@@ -199,14 +199,14 @@ Neoplasms
 Malignant and benign neoplasms were reported as adverse reactions in 4% of patients in the Zortress group and 7% in the control group at 12 months.
 In the Zortress group, 3 malignant tumors were reported compared to 9 cases in the control group.
 For the Zortress group this included lymphoma, lymphoproliferative disorder and a hepatocellular carcinoma, and for the control group included Kaposi’s sarcoma (2), metastatic colorectal cancer, glioblastoma, malignant hepatic neoplasm, pancreatic neuroendocrine tumor, hemophagocytic histiocytosis, and squamous cell carcinomas.
-At 24 months, the rates of malignancies were similar (10% and 11% respectively) [see Boxed Warning and Warnings and Precautions (5.2)].
+At 24 months, the rates of malignancies were similar (10% and 11% respectively) [see Boxed Warning, Warnings and Precautions (5.2)].
 
 Lipid Abnormalities
 
 Hyperlipidemia adverse reactions (including the preferred terms: hyperlipidemia, hypercholesterolemia, blood cholesterol increased, blood triglycerides increased, hypertriglyceridemia lipids increased, total cholesterol/HDL ratio increased, and dyslipidemia) were reported for 24% Zortress patients, and 10% control patients at 12 months.
 Results were similar at 24 months (28% and 12% respectively).
 
-New Onset of Diabetes After Transplant (NODAT)
+New Onset of Diabetes after Transplant (NODAT)
 
 Of the patients without diabetes mellitus at randomization, NODAT was reported in 32% in the Zortress group compared to 29% in the control group at 12 months and similar at 24 months.
 
@@ -214,48 +214,47 @@ Table 3 compares the incidence of treatment-emergent adverse reactions reported 
 Within each MedDRA system organ class, the adverse reactions are presented in order of decreasing frequency.
 
 Table 3.
-Incidence Rates of most Frequent (Greater than or Equal to 10% in Any Treatment Group) Adverse Reactions by Primary System Organ Class and Preferred Term and Treatment at 12 Months and 24 Months after Liver Transplantation (Safety population)
+Incidence Rates of most Frequent (Greater than or Equal to 10% in any Treatment Group) Adverse Reactions by Primary System Organ Class and Preferred Term and Treatment at 12 Months and 24 Months After Liver Transplantation (Safety population)
 
 | Preferred System Organ Class Preferred Term | 12 month |  | 24 month |  |
 | --- | --- | --- | --- | --- |
-|  | Zortress with reduced exposure tacrolimus N = 245 n (%) | Tacrolimus standard exposure N = 241 n (%) | Zortress with reduced exposure tacrolimus N = 245 n (%) | Tacrolimus standard exposure N = 242 n (%) |
+|  | Zortress With Reduced Exposure Tacrolimus N = 245 n (%) | Tacrolimus Standard Exposure N = 241 n (%) | Zortress With Reduced Exposure Tacrolimus N = 245 n (%) | Tacrolimus Standard Exposure N = 242 n (%) |
 | Any Adverse Reaction/Infection | 232 (95) | 229 (95) | 236 (96) | 237 (98) |
-| Blood & lymphatic system disorders | 66 (27) | 47 (20) | 79 (32) | 58 (24) |
+| Blood & Lymphatic System Disorders | 66 (27) | 47 (20) | 79 (32) | 58 (24) |
 | -Leukopenia | 29 (12) | 12 (5) | 31 (13) | 12 (5) |
-| Gastrointestinal disorders | 136 (56) | 121 (50) | 148 (60) | 138 (57) |
+| Gastrointestinal Disorders | 136 (56) | 121 (50) | 148 (60) | 138 (57) |
 | -Diarrhea | 47 (19) | 50 (21) | 59 (24) | 61 (25) |
 | -Nausea | 33 (14) | 28 (12) | 36 (15) | 33 (14) |
 | -Abdominal pain | 32 (13) | 22 (9) | 37 (15) | 31 (13) |
-| General disorders and administration site conditions | 94 (38) | 85 (35) | 113 (46) | 98 (41) |
-| -Peripheral edema | 43 (18) | 26 (11) | 49 (20) | 31 (13) |
+| General Disorders and Administration site Conditions | 94 (38) | 85 (35) | 113 (46) | 98 (41) |
+| -Peripheral Edema | 43 (18) | 26 (11) | 49 (20) | 31 (13) |
 | -Pyrexia | 32 (13) | 25 (10) | 43 (18) | 28 (12) |
 | -Fatigue | 22 (9) | 26 (11) | 27 (11) | 28 (12) |
-| Infections and infestations | 123 (50) | 105 (44) | 135 (56) | 125 (52) |
+| Infections and Infestations | 123 (50) | 105 (44) | 135 (56) | 125 (52) |
 | -Hepatitis C* | 28 (11) | 19 (8) | 33 (14) | 24 (10) |
 | Investigations | 81 (33) | 78 (32) | 92 (38) | 98 (41) |
 | -Liver function test abnormal | 16 (7) | 24 (10) | 19 (8) | 25 (10) |
-| Metabolism and nutrition disorders | 111 (45) | 92 (38) | 134 (55) | 106 (44) |
+| Metabolism and Nutrition Disorders | 111 (45) | 92 (38) | 134 (55) | 106 (44) |
 | -Hypercholesterolemia | 23 (9) | 6 (3) | 27 (11) | 9 (4) |
-| Nervous system disorders | 89 (36) | 85 (35) | 99 (40) | 101 (42) |
+| Nervous System Disorders | 89 (36) | 85 (35) | 99 (40) | 101 (42) |
 | -Headache | 47 (19) | 46 (19) | 53 (22) | 54 (22) |
 | -Tremor | 23 (9) | 29 (12) | 25 (10) | 37 (15) |
 | -Insomnia | 14 (6) | 19 (8) | 17 (7) | 24 (10) |
-| Renal and urinary disorders | 49 (20) | 53 (22) | 67 (27) | 73 (30) |
+| Renal and Urinary Disorders | 49 (20) | 53 (22) | 67 (27) | 73 (30) |
 | -Renal failure | 13 (5) | 17 (7) | 24 (10) | 37 (15) |
-| Vascular disorders | 56 (23) | 57 (24) | 72 (29) | 68 (28) |
+| Vascular Disorders | 56 (23) | 57 (24) | 72 (29) | 68 (28) |
 | -Hypertension | 42 (17) | 38 (16) | 52 (21) | 44 (18) |
+| *The safety analysis population is defined as all randomized liver transplant patients who received at least one dose of treatment and had at least one post-baseline safety assessment. |  |  |  |  |
 
 Primary system organ classes are presented alphabetically.
 
-*The safety analysis population is defined as all randomized liver transplant patients who received at least one dose of treatment and had at least one post-baseline safety assessment.
-
 **No de novo hepatitis C cases were reported.
 
-Less common adverse reactions, occurring overall in greater than or equal to 1% to less than10% of either kidney or liver transplant patients treated with Zortress include:
+Less common adverse reactions, occurring overall in greater than or equal to 1% to less than 10% of either kidney or liver transplant patients treated with Zortress include:
 
 Blood and Lymphatic System Disorders: anemia, leukocytosis, lymphadenopathy, neutropenia, pancytopenia, thrombocythemia, thrombocytopenia
 
-Cardiac and Vascular Disorders: angina pectoris, atrial fibrillation, cardiac failure congestive, palpitations, tachycardia, hypertension including hypertensive crisis, hypotension, deep vein thrombosis
+Cardiac and Vascular Disorders: angina pectoris, atrial fibrillation, cardiac failure congestive, palpitations, tachycardia, hypertension including hypertensive crisis, hypotension, deep-vein thrombosis
 
 Endocrine Disorders: Cushingoid, hyperparathyroidism, hypothyroidism
 
@@ -269,7 +268,7 @@ Hepatobiliary Disorders: hepatic enzyme increased, bile duct stenosis, bilirubin
 
 Infections and Infestations: BK virus infection [see Warnings and Precautions (5.13)], bacteremia, bronchitis, candidiasis, cellulitis, CMV, folliculitis, gastroenteritis, herpes infections, influenza, lower respiratory tract, nasopharyngitis, onychomycosis, oral candidiasis, oral herpes, osteomyelitis, pneumonia, pyelonephritis, sepsis, sinusitis, tinea pedis, upper respiratory tract infection, urethritis, urinary tract infection, wound infection [see Boxed Warning, Warnings and Precautions (5.3)]
 
-Injury Poisoning and Procedural Complications: incision site complications including infections, perinephric collection, seroma, wound dehiscence, incisional hernia, perinephric hematoma, localized intraabdominal fluid collection, impaired healing, lymophocele, lymphorrhea
+Injury Poisoning and Procedural Complications: incision site complications including infections, perinephric collection, seroma, wound dehiscence, incisional hernia, perinephric hematoma, localized intra-abdominal fluid collection, impaired healing, lymophocele, lymphorrhea
 
 Investigations: blood alkaline phosphatase increased, blood creatinine increased, blood glucose increased, hemoglobin decreased, white blood cell count decreased, transaminases increased
 
@@ -281,20 +280,20 @@ Nervous System Disorders: dizziness, hemiparesis, hypoesthesia, lethargy, migrai
 
 Psychiatric Disorders: agitation, anxiety, depression, hallucination
 
-Renal and Urinary Disorders: bladder spasm, hydronephrosis, micturation urgency, nephritis interstitial, nocturia, pollakiuria, polyuria, proteinuria [see Warnings and Precautions (5.12)], pyuria, renal artery thrombosis [see Boxed Warning and Warnings and Precautions (5.4)], acute renal failure, renal impairment [see Warnings and Precautions (5.6)], renal tubular necrosis, urinary retention
+Renal and Urinary Disorders: bladder spasm, hydronephrosis, micturation urgency, nephritis interstitial, nocturia, pollakiuria, polyuria, proteinuria [see Warnings and Precautions (5.12)], pyuria, renal artery thrombosis [see Boxed Warning, Warnings and Precautions (5.4)], acute renal failure, renal impairment [see Warnings and Precautions (5.6)], renal tubular necrosis, urinary retention
 
 Reproductive System and Breast Disorders: amenorrhea, benign prostatic hyperplasia, erectile dysfunction, ovarian cyst, scrotal edema
 
 Respiratory, Thoracic, Mediastinal Disorders: atelectasis, bronchitis, dyspnea, cough, epistaxis, lower respiratory tract infection, nasal congestion, oropharyngeal pain, pleural effusions, pulmonary edema, rhinorrhea, sinus congestion, wheezing
 
-Skin and Subcutaneous Tissue Disorders: acne, alopecia, dermatitis acneiform, ecchymosis, hirsutism, hyperhydrosis, hypertrichosis, night sweats, pruritus, rash
+Skin and Subcutaneous Tissue Disorders: acne, alopecia, dermatitis acneiform, ecchymosis, hirsutism, hyperhidrosis, hypertrichosis, night sweats, pruritus, rash
 
 Vascular Disorders: venous thromboembolism (including deep vein thrombosis), phlebitis, pulmonary embolism
 
 Less common, serious adverse reactions occurring overall in less than1% of either kidney or liver transplant patients treated with Zortress include:
 
 - Angioedema [see Warnings and Precautions (5.8)]
-- Interstitial Lung Disease/Non-Infectious Pneumonitis [see Warnings and Precautions (5.10) and Adverse Reactions (6.1)]
+- Interstitial Lung Disease/Non-Infectious Pneumonitis [see Warnings and Precautions (5.10), Adverse Reactions (6.1)]
 - Pericardial effusions [see Warnings and Precautions (5.9)]
 - Pancreatitis
 - Thrombotic Microangiopathy (TMA), Thrombotic Thrombocytopenic Purpura (TTP), and Hemolytic Uremic Syndrome (HUS) [see Warnings and Precautions (5.15)]

@@ -9,7 +9,7 @@ There are limited case reports of Zortress use in pregnant women; however, these
 Reproductive studies in animals have demonstrated that everolimus was maternally toxic in rabbits, and caused embryo-fetal toxicities in rats and rabbits, at exposures near or below those achieved in human transplant patients.
 Advise pregnant women of the potential risk to a fetus.
 
-The background risk of major birth defects and miscarriage for the indicated population is unknown; however, in the U.S. general population, the estimated background risk of major birth defects is 2-%4% and of miscarriage is 15%-20% of clinically recognized pregnancies.
+The background risk of major birth defects and miscarriage for the indicated population is unknown; however, in the U.S. general population, the estimated background risk of major birth defects is 2%-4% and of miscarriage is 15%-20% of clinically recognized pregnancies.
 
 Data
 
@@ -33,7 +33,7 @@ Risk Summary
 
 There is no data regarding the presence of Zortress in human milk, the effects on breastfed infants, or the effects on milk production.
 Everolimus and/or its metabolites are readily transferred into milk of lactating rats at a concentration 3.5 times higher than in maternal rat serum.
-In pre-post-natal and juvenile studies in rats, exposure to everolimus during the postnatal period caused developmental toxicity [see Use in Specific Populations (8.1) and Nonclinical Toxicology (13.2)].
+In pre-post-natal and juvenile studies in rats, exposure to everolimus during the postnatal period caused developmental toxicity [see Use in Specific Populations (8.1), Nonclinical Toxicology (13.2)].
 Advise lactating women not to breastfeed because of the potential for serious adverse reactions in infants exposed to everolimus.
 
 ## 8.3 Females and Males of Reproductive Potential

@@ -5,7 +5,7 @@
 Only physicians experienced in management of systemic immunosuppressant therapy in transplantation should prescribe Zortress.
 Patients receiving the drug should be managed in facilities equipped and staffed with adequate laboratory and supportive medical resources.
 The physician responsible for the maintenance therapy should have complete information requisite for the follow-up of the patient.
-In limited data with the complete elimination of CNI (calcineurin inhibition), there was an increased risk of acute rejection.
+In limited data with the complete elimination of calcineurin inhibition (CNI), there was an increased risk of acute rejection.
 
 ## 5.2 Lymphomas and Other Malignancies
 
@@ -24,12 +24,12 @@ Antimicrobial prophylaxis for Pneumocystis jiroveci (carinii) pneumonia and prop
 
 ## 5.4 Kidney Graft Thrombosis
 
-An increased risk of kidney arterial and venous thrombosis, resulting in graft loss, has been reported, usually within the first 30 days post-transplantation [see Boxed Warning].
+An increased risk of kidney arterial and venous thrombosis, resulting in graft loss, has been reported, usually within the first 30 days posttransplantation [see Boxed Warning].
 
 ## 5.5 Hepatic Artery Thrombosis
 
 Mammalian target of rapamycin (mTOR) inhibitors are associated with an increase in hepatic artery thrombosis (HAT).
-Reported cases mostly have occurred within the first 30 days post-transplant and most also lead to graft loss or death.
+Reported cases mostly have occurred within the first 30 days posttransplant and most also lead to graft loss or death.
 Therefore, Zortress should not be administered earlier than 30 days after liver transplant.
 
 ## 5.6 Zortress and Calcineurin Inhibitor-Induced Nephrotoxicity
@@ -46,7 +46,7 @@ Caution should be exercised when using other drugs which are known to impair ren
 
 ## 5.7 Heart Transplantation
 
-In a clinical trial of de novo heart transplant patients, Zortress in an immunosuppressive regimen with or without induction therapy, resulted in an increased mortality often associated with serious infections within the first three months post-transplantation compared to the control regimen.
+In a clinical trial of de novo heart transplant patients, Zortress in an immunosuppressive regimen with or without induction therapy, resulted in an increased mortality often associated with serious infections within the first three months posttransplantation compared to the control regimen.
 Use of Zortress in heart transplantation is not recommended.
 
 ## 5.8 Angioedema
@@ -60,7 +60,7 @@ Zortress increases the risk of delayed wound healing and increases the occurrenc
 These wound-related complications may require more surgical intervention.
 Generalized fluid accumulation, including peripheral edema (e.g., lymphoedema) and other types of localized fluid collection, such as pericardial and pleural effusions and ascites have also been reported.
 
-## 5.10 Interstitial Lung Disease/Non-Infectious Pneumonitis
+## 5.10 Interstitial Lung Disease (ILD)/Non-Infectious Pneumonitis
 
 A diagnosis of interstitial lung disease (ILD) should be considered in patients presenting with symptoms consistent with infectious pneumonia but not responding to antibiotic therapy and in whom infectious, neoplastic and other non-drug causes have been ruled out through appropriate investigations.
 Cases of ILD, implying lung intraparenchymal inflammation (pneumonitis) and/or fibrosis of non-infectious etiology, some reported with pulmonary hypertension [including pulmonary arterial hypertension (PAH)] as a secondary event, have occurred in patients receiving rapamycins and their derivatives, including Zortress.
@@ -75,7 +75,7 @@ Use of anti-lipid therapy may not normalize lipid levels in patients receiving Z
 Any patient who is administered Zortress should be monitored for hyperlipidemia.
 If detected, interventions, such as diet, exercise, and lipid-lowering agents should be initiated as outlined by the National Cholesterol Education Program guidelines.
 The risk/benefit should be considered in patients with established hyperlipidemia before initiating an immunosuppressive regimen containing Zortress.
-Similarly, the risk/benefit of continued Zortress therapy should be re-evaluated in patients with severe refractory hyperlipidemia.
+Similarly, the risk/benefit of continued Zortress therapy should be reevaluated in patients with severe refractory hyperlipidemia.
 Zortress has not been studied in patients with baseline cholesterol levels greater than 350 mg/dL.
 
 Due to an interaction with cyclosporine, clinical trials of Zortress and cyclosporine in kidney transplant patients strongly discouraged patients from receiving the HMG-CoA reductase inhibitors simvastatin and lovastatin.

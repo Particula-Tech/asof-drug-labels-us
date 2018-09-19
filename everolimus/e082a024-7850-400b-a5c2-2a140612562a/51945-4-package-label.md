@@ -12,3 +12,8 @@ PRINCIPAL DISPLAY PANEL
 
 Package Label – 0.75 mg Rx Only NDC 0078-0415-20 Zortress® (everolimus) Tablets 0.75 mg per tablet Dispense With Medication Guide Enclosed or Provided Separately.
 Contents: 6 blister cards of 10 tablets each
+
+PRINCIPAL DISPLAY PANEL
+
+Package Label – 1 mg Rx Only NDC 0078-0422-20 Zortress® (everolimus) Tablets 1 mg per tablet Dispense With Medication Guide Enclosed or Provided Separately.
+Contents: 6 blister cards of 10 tablets each

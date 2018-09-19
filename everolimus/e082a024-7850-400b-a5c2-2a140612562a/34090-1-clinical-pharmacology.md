@@ -4,7 +4,7 @@
 
 Everolimus inhibits antigenic and interleukin (IL-2 and IL-15) stimulated activation and proliferation of T and B lymphocytes.
 
-In cells, everolimus binds to a cytoplasmic protein, the FK506 Binding Protein-12 (FKBP-12), to form an immunosuppressive complex (everolimus: FKBP-12) that binds to and inhibits the mammalian Target Of Rapamycin (mTOR), a key regulatory kinase.
+In cells, everolimus binds to a cytoplasmic protein, the FK506 Binding Protein-12 (FKBP-12), to form an immunosuppressive complex (everolimus: FKBP-12) that binds to and inhibits the mammalian target of rapamycin (mTOR), a key regulatory kinase.
 In the presence of everolimus phosphorylation of p70 S6 ribosomal protein kinase (p70S6K), a substrate of mTOR, is inhibited.
 Consequently, phosphorylation of the ribosomal S6 protein and subsequent protein synthesis and cell proliferation are inhibited.
 The everolimus: FKBP-12 complex has no effect on calcineurin activity.
@@ -31,6 +31,8 @@ The blood-to-plasma ratio of everolimus is concentration dependent ranging from 
 Plasma protein binding is approximately 74% in healthy subjects and in patients with moderate hepatic impairment.
 The apparent distribution volume associated with the terminal phase (Vz/F) from a single-dose pharmacokinetic study in maintenance kidney transplant patients is 342 to 107 L (range 128 to 589 L).
 
+Elimination
+
 Metabolism
 
 Everolimus is a substrate of CYP3A4 and P-gp.
@@ -55,7 +57,7 @@ Steady-State Pharmacokinetic Parameters (mean +/- SD) Following the Administrati
 | --- | --- | --- | --- | --- | --- |
 | 11.1 + 4.6 ng/mL | 1-2 h | 75 + 31 ng•h/mL | 8.8 L/h | 110 L | 30 ± 11h |
 
-1 population pharmacokinetic analysis
+1population pharmacokinetic analysis
 
 The half-life estimates from 12 maintenance renal transplant patients who received single doses of everolimus capsules at 0.75 mg or 2.5 mg with their maintenance cyclosporine regimen indicate that the pharmacokinetics of everolimus are linear over the clinically-relevant dose range.
 Results indicate the half-life of everolimus in maintenance renal transplant patients receiving single doses of 0.75 mg or 2.5 mg Zortress during steady-state cyclosporine treatment was 30 ± 11 hours (range 19 to 53 hours).
@@ -69,12 +71,12 @@ Drug interaction studies have not been conducted with drugs other than those des
 Cyclosporine (CYP3A4/P-gp Inhibitor and CYP3A4 Substrate): Zortress should be taken concomitantly with cyclosporine in kidney transplant patients.
 Everolimus concentrations may decrease when doses of cyclosporine are reduced, unless the Zortress dose is increased [see Dosage and Administration (2.1), Drug Interactions (7.2)].
 
-In a single-dose study in healthy subjects, cyclosporine (Neoral) administered at a dose of 175 mg increased everolimus AUC by 168% (range, 46% to 365%) and Cmax by 82% (range, 25% to 158%) when administered with 2 mg Zortress compared with administration of Zortress alone [see Drug Interactions (7.2)].
+In a single-dose study in healthy subjects, cyclosporine (Neoral) administered at a dose of 175 mg increased everolimus AUC by 168% (range 46% to 365%) and Cmax by 82% (range 25% to 158%) when administered with 2 mg Zortress compared with administration of Zortress alone [see Drug Interactions (7.2)].
 
 Ketoconazole and Other Strong CYP3A4 Inhibitors: Multiple-dose administration of 200 mg ketoconazole twice daily for 5 days to 12 healthy volunteers significantly increased everolimus Cmax, AUC, and half-life by 3.9-fold, 15-fold, and 89%, respectively, when coadministered with 2 mg Zortress.
 It is recommended that strong inhibitors of CYP3A4 (e.g., ketoconazole, itraconazole, voriconazole, clarithromycin, telithromycin, ritonavir, boceprevir, telaprevir) should not be coadministered with Zortress [see Warnings and Precautions (5.14), Drug Interactions (7.3)].
 
-Erythromycin (Moderate CYP3A4 Inhibitor): Multiple-dose administration of 500 mg erythromycin 3 times daily for 5 days to 16 healthy volunteers significantly increased everolimus Cmax, AUC, and half-life by 2.0-fold, 4.4-fold, and 39%, respectively, when coadministered with 2 mg Zortress.
+Erythromycin (Moderate CYP3A4 Inhibitor): Multiple-dose administration of 500 mg erythromycin 3 times daily for 5 days to 16 healthy volunteers significantly increased everolimus Cmax, AUC, and half-life by 2-fold, 4.4-fold, and 39%, respectively, when coadministered with 2 mg Zortress.
 If erythromycin is coadministered, everolimus blood concentrations should be monitored and a dose adjustment made as necessary [see Drug Interactions (7.4)].
 
 Verapamil (CYP3A4 Inhibitor and P-gp Substrate): Multiple-dose administration of 80 mg verapamil 3 times daily for 5 days to 16 healthy volunteers significantly increased everolimus Cmax and AUC by 2.3-fold and 3.5-fold, respectively, when coadministered with 2 mg Zortress.
@@ -105,11 +107,11 @@ Further dose adjustment and/or dose titration should be made if a patient’s wh
 Renal Impairment
 
 No pharmacokinetic studies in patients with renal impairment were conducted.
-Post-transplant renal function (creatinine clearance range 11 to 107 mL/min) did not affect the pharmacokinetics of everolimus, therefore, no dosage adjustments are needed in patients with renal impairment.
+Posttransplant renal function (creatinine clearance range 11 to 107 mL/min) did not affect the pharmacokinetics of everolimus, therefore, no dosage adjustments are needed in patients with renal impairment.
 
 Geriatrics
 
-A limited reduction in everolimus oral CL of 0.33% per year was estimated in adults (age range studied was 16 to 70 years).
+A limited reduction in everolimus oral CL/F of 0.33% per year was estimated in adults (age range studied was 16 to 70 years).
 There is no evidence to suggest that elderly patients will require a different dosage recommendation from younger adult patients.
 
 Race
@@ -120,30 +122,30 @@ Based on analysis of population pharmacokinetics, oral clearance (CL/F) is, on a
 
 Everolimus in Kidney Transplantation
 
-Based on exposure-efficacy and exposure-safety analyses of clinical trials and using an LC/MS/MS assay method, kidney transplant patients achieving everolimus whole blood trough concentrations greater than or equal to 3.0 ng/mL have been found to have a lower incidence of treated biopsy-proven acute rejection compared with patients whose trough concentrations were below 3.0 ng/mL.
+Based on exposure-efficacy and exposure-safety analyses of clinical trials and using an LC/MS/MS assay method, kidney transplant patients achieving everolimus whole blood trough concentrations greater than or equal to 3 ng/mL have been found to have a lower incidence of treated biopsy-proven acute rejection compared with patients whose trough concentrations were below 3 ng/mL.
 Patients who attained everolimus trough concentrations within the range of 6 to 12 ng/mL had similar efficacy and more adverse reactions than patients who attained lower trough concentrations between 3 to 8 ng/mL [see Dosage and Administration (2.3)].
 
 In the kidney clinical trial [see Clinical Studies (14.1)], everolimus whole blood trough concentrations were measured at Days 3, 7, and 14 and Months 1, 2, 3, 4, 6, 7, 9, and 12.
 The proportion of patients receiving 0.75 mg twice daily Zortress treatment regimen who had everolimus whole blood trough concentrations within the protocol specified target range of 3 to 8 ng/mL at Days 3, 7, and 14 were 55%, 71% and 69%, respectively.
-Approximately 80% of patients had everolimus whole blood trough concentrations within the 3 to 8 ng/mL target range by Month 1 and remained stable within range through Month 12 post-transplant.
+Approximately 80% of patients had everolimus whole blood trough concentrations within the 3 to 8 ng/mL target range by Month 1 and remained stable within range through Month 12 posttransplant.
 The median everolimus trough concentration for the 0.75 mg twice daily treatment group was between 3 and 8 ng/mL throughout the study duration.
 
 Everolimus in Liver Transplantation
 
-In the liver clinical trial [see Clinical Studies (14.2)] Zortress dosing was initiated after 30 days following transplantation.
+In the liver clinical trial [see Clinical Studies (14.2)], Zortress dosing was initiated after 30 days following transplantation.
 Whole blood trough everolimus concentrations were measured within 5 days after first dose, followed by weekly intervals for 3 to 4 weeks, and then monthly thereafter.
 Approximately 49%, 37%, and 18% of patients, respectively, were below 3 ng/mL at 1, 2, and 4 weeks after initiation of Zortress dosing.
-The majority of patients (approximately 70% to 80%) had everolimus trough blood concentrations within the target range of 3 to 8 ng/mL from Month 2 through Month 24 post-transplant.
+The majority of patients (approximately 70% to 80%) had everolimus trough blood concentrations within the target range of 3 to 8 ng/mL from Month 2 through Month 24 posttransplant.
 
 ## 12.8 Cyclosporine Concentrations Observed in Kidney Transplant Patients
 
-In the kidney transplant clinical trial [see Clinical Studies (14.1)], the target cyclosporine whole blood trough concentration for the Zortress treatment arm of 0.75 mg twice daily were 100 to 200 ng/mL through Month 1 post-transplant, 75 to 150 ng/mL at Months 2 and 3 post-transplant, 50 to 100 ng/mL at Month 4 post-transplant, and 25 to 50 ng/mL from Month 6 through Month 12 post-transplant.
+In the kidney transplant clinical trial [see Clinical Studies (14.1)], the target cyclosporine whole blood trough concentration for the Zortress treatment arm of 0.75 mg twice daily were 100 to 200 ng/mL through Month 1 posttransplant, 75 to 150 ng/mL at Months 2 and 3 posttransplant, 50 to 100 ng/mL at Month 4 posttransplant, and 25 to 50 ng/mL from Month 6 through Month 12 posttransplant.
 Table 5 below provides a summary of the observed cyclosporine whole blood trough concentrations during the study.
 
 Table 5.
-Cyclosporine Trough Concentrations Over 12 Months Post-transplant – Kidney Study Median Values (ng/mL) with 10th and 90th Percentiles
+Cyclosporine Trough Concentrations Over 12 Months Posttransplant – Kidney Study Median Values (ng/mL) with 10th and 90th Percentiles
 
-| Treatment group | Visit | N | Target (ng/mL) | Median | 10th Percentile | 90th Percentile |
+| Treatment Group | Visit | N | Target (ng/mL) | Median | 10th Percentile | 90th Percentile |
 | --- | --- | --- | --- | --- | --- | --- |
 | Zortress 0.75 mg twice daily | Day 3 | 242 | 100-200 | 172 | 46 | 388 |
 |  | Day 7 | 265 | 100-200 | 185 | 75 | 337 |
@@ -159,18 +161,18 @@ Cyclosporine Trough Concentrations Over 12 Months Post-transplant – Kidney Stu
 
 ## 12.9 Tacrolimus Concentrations in Liver Transplant
 
-In the liver transplant clinical trial [see Clinical Studies (14.2)], the target tacrolimus whole blood trough concentrations were greater than or equal to 8 ng/mL in the first 30 days post-transplant.
+In the liver transplant clinical trial [see Clinical Studies (14.2)], the target tacrolimus whole blood trough concentrations were greater than or equal to 8 ng/mL in the first 30 days posttransplant.
 The protocol required that patients had a tacrolimus trough concentration of at least 8 ng/mL in the week prior to initiation of Zortress.
-Zortress was initiated after 30 days post-transplant.
+Zortress was initiated after 30 days posttransplant.
 At that time, the target tacrolimus trough concentrations were reduced to 3 to 5 ng/mL.
-Table 6 below provides a summary of the tacrolimus whole blood trough concentrations observed during the study through Month 24 post-transplant.
+Table 6 below provides a summary of the tacrolimus whole blood trough concentrations observed during the study through Month 24 posttransplant.
 
 Table 6.
-Tacrolimus Trough Concentrations Over 24 Months Post-transplant – Liver Study Median Values (ng/mL) with 10th and 90th Percentiles
+Tacrolimus Trough Concentrations Over 24 Months Posttransplant – Liver Study Median Values (ng/mL) With 10th and 90th Percentiles
 
-| Treatment group | Visit | N | Target (ng/mL) | Median | 10th Percentile | 90th Percentile |
+| Treatment Group | Visit | N | Target (ng/mL) | Median | 10th Percentile | 90th Percentile |
 | --- | --- | --- | --- | --- | --- | --- |
-| Predose group Zortress 1.0 mg twice daily (initiated at Month 1) | Week 4 | 234 | 3-5 | 9.5 | 5.8 | 14.6 |
+| Pre-dose group Zortress 1 mg twice daily (initiated at Month 1) | Week 4 | 234 | 3-5 | 9.5 | 5.8 | 14.6 |
 |  | Week 5 | 219 | 3-5 | 8.1 | 4.5 | 13.8 |
 |  | Week 6 | 233 | 3-5 | 7.0 | 4.1 | 12.0 |
 |  | Month 2 | 219 | 3-5 | 5.6 | 3.4 | 10.3 |
