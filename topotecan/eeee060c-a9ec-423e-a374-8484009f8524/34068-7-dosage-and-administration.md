@@ -1,58 +1,54 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Verify dose using body surface area prior to dispensing.
-Recommended dosage should generally not exceed 4 mg intravenously [see Overdosage (10)].
+## 2.1 Important Safety Information
 
-## 2.1 Ovarian Cancer
+Verify dosage using body surface area.
+Do not exceed a single dose of 4 mg intravenously.
 
-Recommended Dose and Schedule
+## 2.2 Recommended Dosage for Ovarian Cancer
 
-The recommended dose of HYCAMTIN is 1.5 mg/m2 by intravenous infusion over 30 minutes daily for 5 consecutive days, starting on Day 1 of a 21‑day course.
+The recommended dosage of HYCAMTIN for injection is 1.5 mg/m2 by intravenous infusion over 30 minutes daily for 5 consecutive days, starting on Day 1 of a 21-day cycle until disease progression or unacceptable toxicity.
 
-## 2.2 Small Cell Lung Cancer
+## 2.3 Recommended Dosage for Small Cell Lung Cancer (SCLC)
 
-Recommended Dose and Schedule
+The recommended dosage of HYCAMTIN for injection is 1.5 mg/m2 by intravenous infusion over 30 minutes daily for 5 consecutive days, starting on Day 1 of a 21-day cycle.
 
-The recommended dose of HYCAMTIN is 1.5 mg/m2 by intravenous infusion over 30 minutes daily for 5 consecutive days, starting on Day 1 of a 21-day course.
+## 2.4 Recommended Dosage for Cervical Cancer
 
-## 2.3 Cervical Cancer
+The recommended dosage of HYCAMTIN for injection is 0.75 mg/m2 by intravenous infusion over 30 minutes daily on Days 1, 2, and 3, in combination with cisplatin 50 mg/m2 on Day 1, of a 21-day cycle.
 
-Recommended Dose and Schedule
+## 2.5 Dose Modifications for Adverse Reactions
 
-The recommended dose of HYCAMTIN is 0.75 mg/m2 by intravenous infusion over 30 minutes daily on Days 1, 2, and 3 in combination with cisplatin 50 mg/m2 on Day 1, repeated every 21 days.
+Hematologic
 
-## 2.4 Dose Modifications
+Do not administer subsequent cycles of HYCAMTIN for injection until neutrophils recover to greater than 1,000/mm3, platelets recover to greater than 100,000/mm3, and hemoglobin levels recover to greater than or equal to 9 g/dL (with transfusion if necessary).
 
-Hematologic Toxicities
+For HYCAMTIN for injection as a single agent, reduce the dose to 1.25 mg/m2/day for:
 
-For single-agent use, dose reduce HYCAMTIN to 1.25 mg/m2 for:
+- neutrophil counts of less than 500/mm3 or administer granulocyte-colony stimulating factor (G-CSF) starting no sooner than 24 hours following the last dose
+- platelet counts less than 25,000/mm3 during previous cycle
 
-- •neutrophil counts of less than 500 cells/mm3, or administer granulocyte-colony stimulating factor (G-CSF) starting no sooner than 24 hours following the last dose of HYCAMTIN.
-- •platelet counts less than 25,000 cells/mm3 during previous cycle.
+For HYCAMTIN for injection in combination with cisplatin, reduce the dose to 0.6 mg/m2/day (and further to 0.45 mg/m2 if necessary) for:
 
-For combination use with cisplatin, dose reduce HYCAMTIN to 0.60 mg/m2 (and further to 0.45 mg/m2 if necessary) for:
+- febrile neutropenia (defined as neutrophil counts less than 1,000/mm3 with temperature of greater than or equal to 38.0°C (100.4°F) or administer G-CSF starting no sooner than 24 hours following the last dose
+- platelet counts less than 25,000/mm3 during previous cycle
 
-- •febrile neutropenia (defined as neutrophil counts less than 1,000 cells/mm3 with temperature of greater than or equal to 38.0°C (100.4°F), or administer G‑CSF starting no sooner than 24 hours following the last dose of HYCAMTIN.
-- •platelet counts less than 25,000 cells/mm3 during previous cycle.
+## 2.6 Dosage Modification for Renal Impairment
 
-Renal Impairment
+For HYCAMTIN for injection as a single agent, reduce the dose to 0.75 mg/m2/day for patients with creatinine clearance (CLcr) of 20 to 39 mL/min (calculated with the Cockcroft-Gault method using ideal body weight) [see Clinical Pharmacology (12.3)].
 
-For single-agent use, dose reduce HYCAMTIN to 0.75 mg/m2 in patients with moderate renal impairment (creatinine clearance [Clcr] = 20 to 39 mL/min).
-Insufficient data are available in patients with severe renal impairment (Clcr less than 20 mL/min) to provide a dosage recommendation for HYCAMTIN [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
+## 2.7 Preparation and Intravenous Administration
 
-## 2.5 Preparation and Intravenous Administration
+- Visually inspect for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
-HYCAMTIN is a cytotoxic drug.
-Follow applicable special handling and disposable procedures.1
+Preparation
 
-Preparation and Administration
-
-Reconstitute each 4-mg vial of HYCAMTIN with 4 mL Sterile Water for Injection, USP.
-Dilute the appropriate volume of the reconstituted solution in either 0.9% Sodium Chloride Intravenous Infusion, USP or 5% Dextrose in Water Injection, USP prior to administration.
+- Reconstitute each 4 mg vial of HYCAMTIN for injection with 4 mL Sterile Water for Injection, USP.
+- Dilute the appropriate volume of the reconstituted solution in either 0.9% Sodium Chloride Intravenous Infusion, USP or 5% Dextrose in Water Injection, USP.
 
 Stability
 
-Unopened vials of HYCAMTIN are stable until the date indicated on the package when stored between 20°C and 25°C (68°F and 77°F) [see USP] and protected from light in the original carton.
-Because the vials contain no preservative, contents should be used immediately after reconstitution.
-
-Reconstituted vials of HYCAMTIN diluted for infusion are stable at approximately 20°C to 25°C (68°F to 77°F) and ambient lighting conditions for 24 hours.
+- Because the vials contain no preservative, use contents immediately after reconstitution.
+  Discard any unused portion.
+- Store reconstituted product diluted for infusion at approximately 20°C to 25°C (68°F to 77°F) protected from light for no more than 24 hours.
+  Discard after 24 hours.
