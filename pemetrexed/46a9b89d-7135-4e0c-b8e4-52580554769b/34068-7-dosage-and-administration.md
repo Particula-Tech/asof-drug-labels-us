@@ -1,0 +1,128 @@
+# 2 DOSAGE AND ADMINISTRATION
+
+## 2.1 Combination Use with Cisplatin for Nonsquamous Non-Small Cell Lung Cancer or Malignant Pleural Mesothelioma
+
+The recommended dose of Pemetrexed for Injection is 500 mg/m2 administered as an intravenous infusion over 10 minutes on Day 1 of each 21-day cycle.
+The recommended dose of cisplatin is 75 mg/m2 infused over 2 hours beginning approximately 30 minutes after the end of Pemetrexed for Injection administration.
+See cisplatin package insert for more information.
+
+## 2.2 Single-Agent Use as Maintenance Following First-Line Therapy, or as a Second-Line Therapy
+
+The recommended dose of Pemetrexed for Injection is 500 mg/m2 administered as an intravenous infusion over 10 minutes on Day 1 of each 21-day cycle.
+
+## 2.3 Premedication Regimen and Concurrent Medications
+
+Vitamin Supplementation
+
+Instruct patients to initiate folic acid 400 mcg to 1000 mcg orally once daily beginning 7 days before the first dose of Pemetrexed for Injection.
+Continue folic acid during the full course of therapy and for 21 days after the last dose of Pemetrexed for Injection [see Warnings and Precautions (5.1)].
+
+Administer vitamin B12 1 mg intramuscularly 1 week prior to the first dose of Pemetrexed for Injection and every 3 cycles thereafter.
+Subsequent vitamin B12 injections may be given the same day as treatment with Pemetrexed for Injection [see Warnings and Precautions (5.1)].
+
+Corticosteroids
+
+Administer dexamethasone 4 mg by mouth twice daily the day before, the day of, and the day after Pemetrexed for Injection administration [see Warnings and Precautions (5.1)].
+
+## 2.4 Laboratory Monitoring and Dose Reduction/Discontinuation Recommendations
+
+Monitoring
+
+Complete blood cell counts, including platelet counts, should be performed on all patients receiving Pemetrexed for Injection.
+Patients should be monitored for nadir and recovery, which were tested in the clinical study before each dose and on days 8 and 15 of each cycle.
+Patients should not begin a new cycle of treatment unless the ANC is ≥1500 cells/mm3, the platelet count is ≥100,000 cells/mm3, and creatinine clearance is ≥45 mL/min.
+Periodic chemistry tests should be performed to evaluate renal and hepatic function [see Warnings and Precautions (5.5)].
+
+Dose Reduction Recommendations
+
+Dose adjustments at the start of a subsequent cycle should be based on nadir hematologic counts or maximum nonhematologic toxicity from the preceding cycle of therapy.
+Treatment may be delayed to allow sufficient time for recovery.
+Upon recovery, patients should be retreated using the guidelines in Tables 1-3, which are suitable for using Pemetrexed for Injection as a single-agent or in combination with cisplatin.
+
+Table 1: Dose Reduction for Pemetrexed for Injection (single-agent or in combination) and Cisplatin – Hematologic Toxicities
+
+| Nadir ANC <500/mm3 and nadir platelets ≥50,000/mm3. | 75% of previous dose (pemetrexed and cisplatin). |
+| --- | --- |
+| Nadir platelets <50,000/mm3 without bleeding regardless of nadir ANC. | 75% of previous dose (pemetrexed and cisplatin). |
+| Nadir platelets <50,000/mm3 with bleedinga, regardless of nadir ANC. | 50% of previous dose (pemetrexed and cisplatin). |
+| a These criteria meet the CTC version 2.0 (NCI 1998) definition of ≥CTC Grade 2 bleeding. |  |
+
+If patients develop nonhematologic toxicities (excluding neurotoxicity) ≥Grade 3, treatment should be withheld until resolution to less than or equal to the patient's pre-therapy value.
+Treatment should be resumed according to guidelines in Table 2.
+
+Table 2: Dose Reduction for Pemetrexed for Injection (single-agent or in combination) and Cisplatin – Nonhematologic Toxicitiesa,b
+
+|  | Dose of Pemetrexed for Injection (mg/m2) | Dose of Cisplatin (mg/m2) |
+| --- | --- | --- |
+| Any Grade 3 or 4 toxicities except mucositis | 75% of previous dose | 75% of previous dose |
+| Any diarrhea requiring hospitalization (irrespective of Grade) or Grade 3 or 4 diarrhea | 75% of previous dose | 75% of previous dose |
+| Grade 3 or 4 mucositis | 50% of previous dose | 100% of previous dose |
+| a NCI Common Toxicity Criteria (CTC). |  |  |
+| b Excluding neurotoxicity (see Table 3). |  |  |
+
+In the event of neurotoxicity, the recommended dose adjustments for Pemetrexed for Injection and cisplatin are described in Table 3.
+Patients should discontinue therapy if Grade 3 or 4 neurotoxicity is experienced.
+
+Table 3: Dose Reduction for Pemetrexed for Injection (single-agent or in combination) and Cisplatin – Neurotoxicity
+
+|  | Dose of Pemetrexed for Injection | Dose of Cisplatin |
+| --- | --- | --- |
+| CTC Grade | (mg/m2) | (mg/m2) |
+| 0-1 | 100% of previous dose | 100% of previous dose |
+| 2 | 100% of previous dose | 50% of previous dose |
+
+Discontinuation Recommendation
+
+Pemetrexed for Injection therapy should be discontinued if a patient experiences any hematologic or nonhematologic Grade 3 or 4 toxicity after 2 dose reductions or immediately if Grade 3 or 4 neurotoxicity is observed.
+
+Renally Impaired Patients
+
+In clinical studies, patients with creatinine clearance ≥45 mL/min required no dose adjustments other than those recommended for all patients.
+Insufficient numbers of patients with creatinine clearance below 45 mL/min have been treated to make dosage recommendations for this group of patients [see Clinical Pharmacology (12.3)].
+Therefore, Pemetrexed for Injection should not be administered to patients whose creatinine clearance is <45 mL/min using the standard Cockcroft and Gault formula (below) or GFR measured by Tc99m-DTPA serum clearance method:
+
+| Males: | [140 - Age in years] × Actual Body Weight (kg) | = mL/min |
+| --- | --- | --- |
+| 72 × Serum Creatinine (mg/dL) |  |  |
+| Females: | Estimated creatinine clearance for males × 0.85 |  |
+
+Caution should be exercised when administering Pemetrexed for Injection concurrently with NSAIDs to patients whose creatinine clearance is <80 mL/min [see Drug Interactions (7.1)].
+
+## 2.5 Preparation and Administration Precautions
+
+As with other potentially toxic anticancer agents, care should be exercised in the handling and preparation of infusion solutions of Pemetrexed for Injection.
+The use of gloves is recommended.
+If a solution of Pemetrexed for Injection contacts the skin, wash the skin immediately and thoroughly with soap and water.
+If Pemetrexed for Injection contacts the mucous membranes, flush thoroughly with water.
+Several published guidelines for handling and disposal of anticancer agents are available [see References (15)].
+
+Pemetrexed for Injection is not a vesicant.
+There is no specific antidote for extravasation of Pemetrexed for Injection.
+To date, there have been few reported cases of Pemetrexed for Injection extravasation, which were not assessed as serious by the investigator.
+Pemetrexed for Injection extravasation should be managed with local standard practice for extravasation as with other non-vesicants.
+
+## 2.6 Preparation for Intravenous Infusion Administration
+
+1. Use aseptic technique during the reconstitution and further dilution of Pemetrexed for Injection for intravenous infusion administration.
+2. Calculate the dose of Pemetrexed for Injection and determine the number of vials needed.
+   Vials contain either 100 mg or 500 mg of Pemetrexed for Injection.
+   The vials contain an excess of Pemetrexed for Injection to facilitate delivery of label amount.
+3. Reconstitute each 100-mg vial with 4.2 ml of 0.9% Sodium Chloride Injection (preservative free).
+   Reconstitute each 500-mg vial with 20 mL of 0.9% Sodium Chloride Injection (preservative free).
+   Reconstitution of either size vial gives a solution containing 25 mg/mL Pemetrexed for Injection.
+   Gently swirl each vial until the powder is completely dissolved.
+   The resulting solution is clear and ranges in color from colorless to yellow or green-yellow without adversely affecting product quality.
+   The pH of the reconstituted Pemetrexed for Injection solution is between 6.6 and 7.8.
+   FURTHER DILUTION IS REQUIRED.
+4. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+   If particulate matter is observed, do not administer.
+5. An appropriate quantity of the reconstituted Pemetrexed for Injection solution must be further diluted into a solution of 0.9% Sodium Chloride Injection (preservative free), so that the total volume of solution is 100 ml.
+   Pemetrexed for Injection is administered as an intravenous infusion over 10 minutes.
+6. Chemical and physical stability of reconstituted and infusion solutions of Pemetrexed for Injection were demonstrated for up to 24 hours following initial reconstitution, when stored refrigerated.
+   When prepared as directed, reconstitution and infusion solutions of Pemetrexed for Injection contain no antimicrobial preservatives.
+   Discard any unused portion.
+
+Reconstitution and further dilution prior to intravenous infusion is only recommended with 0.9% Sodium Chloride Injection (preservative free).
+Pemetrexed for Injection is physically incompatible with diluents containing calcium, including Lactated Ringer's Injection, USP and Ringer's Injection, USP and therefore these should not be used.
+Coadministration of Pemetrexed for Injection with other drugs and diluents has not been studied, and therefore is not recommended.
+Pemetrexed for Injection is compatible with standard polyvinyl chloride (PVC) administration sets and intravenous solution bags.

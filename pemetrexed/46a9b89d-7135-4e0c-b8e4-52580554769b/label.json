@@ -1,0 +1,18 @@
+{
+  "application_numbers": [],
+  "inn": "pemetrexed",
+  "labeler": "Qilu Pharmaceutical Co., Ltd.",
+  "package_ndcs": [
+    "67184-0503-1",
+    "67184-0504-1"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "pemetrexed disodium",
+      "name": "Pemetrexed"
+    }
+  ],
+  "setid": "46a9b89d-7135-4e0c-b8e4-52580554769b",
+  "source": "dailymed"
+}
