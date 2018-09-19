@@ -5,7 +5,7 @@ Use the lowest effective dose for the shortest duration consistent with individu
 
 Diclofenac potassium tablets are indicated:
 
-1. •For treatment of primary dysmenorrhea
-2. •For relief of mild to moderate pain
-3. •For relief of the signs and symptoms of osteoarthritis
-4. •For relief of the signs and symptoms of rheumatoid arthritis
+- For treatment of primary dysmenorrhea
+- For relief of mild to moderate pain
+- For relief of the signs and symptoms of osteoarthritis
+- For relief of the signs and symptoms of rheumatoid arthritis
