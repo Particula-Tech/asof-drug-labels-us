@@ -7,12 +7,12 @@ Doses of 1 to 900 mg were included in these trials in order to fully explore the
 These studies allowed comparison of once-or twice-daily regimens at 150 mg/day, comparisons of peak and trough effects, and comparisons of response by sex, age, and race.
 Two of the seven placebo-controlled trials identified above examined the antihypertensive effects of irbesartan and hydrochlorothiazide in combination.
 The 7 studies of irbesartan monotherapy included a total of 1915 patients randomized to irbesartan (1 to 900 mg) and 611 patients randomized to placebo.
-Once-daily doses of 150 mg and 300 mg provided statistically and clinically significant decreases in systolic and diastolic blood pressure with trough (24 hours post-dose) effects after 6 to 12 weeks of treatment compared to placebo, of about 8 to 10/5 to 6 mmHg and 8 to 12/5 to 8 mmHg, respectively.
+Once-daily doses of 150 mg and 300 mg provided statistically and clinically significant decreases in systolic and diastolic blood pressure with trough (24 hours post dose) effects after 6 to 12 weeks of treatment compared to placebo, of about 8 to 10/5 to 6 mmHg and 8 to 12/5 to 8 mmHg, respectively.
 No further increase in effect was seen at dosages greater than 300 mg.
 The dose-response relationships for effects on systolic and diastolic pressure are shown in Figures 1 and 2.
 Once-daily administration of therapeutic doses of irbesartan gave peak effects at around 3 to 6 hours and, in one ambulatory blood pressure monitoring study, again around 14 hours.
 This was seen with both once-daily and twice-daily dosing.
-Trough-to-peak ratios for systolic and diastolic response were generally between 60% to 70%.
+Trough-to-peak ratios for systolic and diastolic response were generally between 60% and 70%.
 In a continuous ambulatory blood pressure monitoring study, once-daily dosing with 150 mg gave trough and mean 24-hour responses similar to those observed in patients receiving twice-daily dosing at the same total daily dose.
 In controlled trials, the addition of irbesartan to hydrochlorothiazide doses of 6.25 mg, 12.5 mg, or 25 mg produced further dose-related reductions in blood pressure similar to those achieved with the same monotherapy dose of irbesartan.
 HCTZ also had an approximately additive effect.
@@ -52,8 +52,8 @@ Table 1: IDNT: Components of Primary Composite Endpoint
 | Death | 11.1 | 11.2 | --- |  |  | --- | 9.5 | --- | --- |
 | Incidence of total events over entire period of follow-up |  |  |  |  |  |  |  |  |  |
 | 2x creatinine | 16.9 | 23.7 |  |  | 0.67 | 0.52 to 0.87 | 25.4 | 0.63 | 0.49 to 0.81 |
-| ESRD | 14.2 | 17.8 |  |  | 0.77 | 0.57-1.03 | 18.3 | 0.77 | 0.57 to 1.03 |
-| Death | 15.0 | 16.3 |  |  | 0.92 | 0.69 to 1.23 | 14.6 | 1.04 | 0.77 to 1.4 |
+| ESRD | 14.2 | 17.8 |  |  | 0.77 | 0.57 to 1.03 | 18.3 | 0.77 | 0.57 to 1.03 |
+| Death | 15.0 | 16.3 |  |  | 0.92 | 0.69 to 1.23 | 14.6 | 1.04 | 0.77 to 1.40 |
 
 The secondary endpoint of the study was a composite of cardiovascular mortality and morbidity (myocardial infarction, hospitalization for heart failure, stroke with permanent neurological deficit, amputation).
 There were no statistically significant differences among treatment groups in these endpoints.
