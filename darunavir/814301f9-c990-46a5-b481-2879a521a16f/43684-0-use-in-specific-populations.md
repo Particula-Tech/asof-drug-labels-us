@@ -81,7 +81,8 @@ The maximal maternal plasma exposures achieved with darunavir (up to 1000 mg/kg 
 Contraception
 
 Use of PREZISTA may reduce the efficacy of combined hormonal contraceptives and the progestin only pill.
-Advise patients using combined hormonal contraceptives or the progestin only pill to use an effective alternative contraceptive method or add a barrier method of contraception [see Drug Interactions (7.3)].
+Advise patients to use an effective alternative (non-hormonal) contraceptive method or add a barrier method of contraception.
+For co-administration with drospirenone, clinical monitoring is recommended due to the potential for hyperkalemia [see Drug Interactions (7.3)].
 
 ## 8.4 Pediatric Use
 

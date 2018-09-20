@@ -54,7 +54,7 @@ These interactions may lead to:
 - Clinically significant adverse reactions from greater exposures of PREZISTA/ritonavir.
 - Loss of therapeutic effect of PREZISTA/ritonavir and possible development of resistance.
 
-See Table 11 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Drug Interactions (7)].
+See Table 10 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Drug Interactions (7)].
 Consider the potential for drug interactions prior to and during PREZISTA/ritonavir therapy; review concomitant medications during PREZISTA/ritonavir therapy; and monitor for the adverse reactions associated with the concomitant drugs [see Contraindications (4) and Drug Interactions (7)].
 
 ## 5.6 Diabetes Mellitus/Hyperglycemia

@@ -24,9 +24,9 @@ The majority of the adverse drug reactions (ADRs) reported during treatment with
 The most common clinical ADRs to PREZISTA/ritonavir 800/100 mg once daily (greater than or equal to 5%) of at least moderate intensity (greater than or equal to Grade 2) were diarrhea, headache, abdominal pain and rash.
 2.3% of subjects in the PREZISTA/ritonavir arm discontinued treatment due to ADRs.
 
-ADRs to PREZISTA/ritonavir 800/100 mg once daily of at least moderate intensity (greater than or equal to Grade 2) in antiretroviral treatment-naïve HIV-1-infected adult subjects are presented in Table 7 and subsequent text below the table.
+ADRs to PREZISTA/ritonavir 800/100 mg once daily of at least moderate intensity (greater than or equal to Grade 2) in antiretroviral treatment-naïve HIV-1-infected adult subjects are presented in Table 6 and subsequent text below the table.
 
-Table 7: Selected Clinical Adverse Drug Reactions to PREZISTA/ritonavir 800/100 mg Once DailyExcluding laboratory abnormalities reported as ADRs. of at Least Moderate Intensity (≥Grade 2) Occurring in ≥2% of Antiretroviral Treatment-Naïve HIV-1-Infected Adult Subjects (Trial TMC114-C211)
+Table 6: Selected Clinical Adverse Drug Reactions to PREZISTA/ritonavir 800/100 mg Once DailyExcluding laboratory abnormalities reported as ADRs. of at Least Moderate Intensity (≥Grade 2) Occurring in ≥2% of Antiretroviral Treatment-Naïve HIV-1-Infected Adult Subjects (Trial TMC114-C211)
 
 | System organ class, preferred term, % | PREZISTA/ritonavir 800/100 mg once daily + TDF/FTC N=343 | lopinavir/ritonavir 800/200 mg per day + TDF/FTC N=346 |
 | --- | --- | --- |
@@ -67,9 +67,9 @@ Skin and Subcutaneous Tissue Disorders: angioedema, pruritus, Stevens-Johnson Sy
 
 Laboratory Abnormalities
 
-Selected Grade 2 to 4 laboratory abnormalities that represent a worsening from baseline observed in antiretroviral treatment-naïve adult subjects treated with PREZISTA/ritonavir 800/100 mg once daily are presented in Table 8.
+Selected Grade 2 to 4 laboratory abnormalities that represent a worsening from baseline observed in antiretroviral treatment-naïve adult subjects treated with PREZISTA/ritonavir 800/100 mg once daily are presented in Table 7.
 
-Table 8: Grade 2 to 4 Laboratory Abnormalities Observed in Antiretroviral Treatment-Naïve HIV-1-Infected Adult SubjectsGrade 4 data not applicable in Division of AIDS grading scale.
+Table 7: Grade 2 to 4 Laboratory Abnormalities Observed in Antiretroviral Treatment-Naïve HIV-1-Infected Adult SubjectsGrade 4 data not applicable in Division of AIDS grading scale.
 (Trial TMC114-C211)
 
 | Laboratory parameter % | Limit | PREZISTA/ritonavir 800/100 mg once daily + TDF/FTC | lopinavir/ritonavir 800/200 mg per day + TDF/FTC |
@@ -124,9 +124,9 @@ The majority of the ADRs reported during treatment with PREZISTA/ritonavir 600/1
 The most common clinical ADRs to PREZISTA/ritonavir 600/100 mg twice daily (greater than or equal to 5%) of at least moderate intensity (greater than or equal to Grade 2) were diarrhea, nausea, rash, abdominal pain and vomiting.
 4.7% of subjects in the PREZISTA/ritonavir arm discontinued treatment due to ADRs.
 
-ADRs to PREZISTA/ritonavir 600/100 mg twice daily of at least moderate intensity (greater than or equal to Grade 2) in antiretroviral treatment-experienced HIV-1-infected adult subjects are presented in Table 9 and subsequent text below the table.
+ADRs to PREZISTA/ritonavir 600/100 mg twice daily of at least moderate intensity (greater than or equal to Grade 2) in antiretroviral treatment-experienced HIV-1-infected adult subjects are presented in Table 8 and subsequent text below the table.
 
-Table 9: Selected Clinical Adverse Drug Reactions to PREZISTA/ritonavir 600/100 mg Twice DailyExcluding laboratory abnormalities reported as ADRs of at Least Moderate Intensity (≥Grade 2) Occurring in ≥2% of Antiretroviral Treatment-Experienced HIV-1-Infected Adult Subjects (Trial TMC114-C214)
+Table 8: Selected Clinical Adverse Drug Reactions to PREZISTA/ritonavir 600/100 mg Twice DailyExcluding laboratory abnormalities reported as ADRs of at Least Moderate Intensity (≥Grade 2) Occurring in ≥2% of Antiretroviral Treatment-Experienced HIV-1-Infected Adult Subjects (Trial TMC114-C214)
 
 | System organ class, preferred term, % | PREZISTA/ritonavir 600/100 mg twice daily + OBR N=298 | lopinavir/ritonavir 400/100 mg twice daily + OBR N=297 |
 | --- | --- | --- |
@@ -163,9 +163,9 @@ Skin and Subcutaneous Tissue Disorders: pruritus, urticaria
 
 Laboratory Abnormalities
 
-Selected Grade 2 to 4 laboratory abnormalities that represent a worsening from baseline observed in antiretroviral treatment-experienced adult subjects treated with PREZISTA/ritonavir 600/100 mg twice daily are presented in Table 10.
+Selected Grade 2 to 4 laboratory abnormalities that represent a worsening from baseline observed in antiretroviral treatment-experienced adult subjects treated with PREZISTA/ritonavir 600/100 mg twice daily are presented in Table 9.
 
-Table 10: Grade 2 to 4 Laboratory Abnormalities Observed in Antiretroviral Treatment-Experienced HIV-1-Infected Adult SubjectsGrade 4 data not applicable in Division of AIDS grading scale (Trial TMC114-C214)
+Table 9: Grade 2 to 4 Laboratory Abnormalities Observed in Antiretroviral Treatment-Experienced HIV-1-Infected Adult SubjectsGrade 4 data not applicable in Division of AIDS grading scale (Trial TMC114-C214)
 
 | Laboratory parameter, % | Limit | PREZISTA/ritonavir 600/100 mg twice daily + OBR | lopinavir/ritonavir 400/100 mg twice daily + OBR |
 | --- | --- | --- | --- |
