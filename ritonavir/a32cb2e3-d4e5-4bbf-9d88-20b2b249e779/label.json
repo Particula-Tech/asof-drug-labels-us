@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA208890"
+  ],
+  "inn": "ritonavir",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "65162-061-06",
+    "65162-061-32"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "ritonavir",
+      "name": "Ritonavir"
+    }
+  ],
+  "setid": "a32cb2e3-d4e5-4bbf-9d88-20b2b249e779",
+  "source": "dailymed"
+}
