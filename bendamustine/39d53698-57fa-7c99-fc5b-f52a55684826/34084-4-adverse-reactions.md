@@ -2,14 +2,14 @@
 
 The following serious adverse reactions have been associated with TREANDA in clinical trials and are discussed in greater detail in other sections of the label.
 
-- •Myelosuppression [see Warnings and Precautions (5.1)]
-- •Infections [see Warnings and Precautions (5.2)]
-- •Anaphylaxis and Infusion Reactions [see Warnings and Precautions (5.3)]
-- •Tumor Lysis Syndrome [see Warnings and Precautions (5.4)]
-- •Skin Reactions [see Warnings and Precautions (5.5)]
-- •Hepatotoxicity [see Warnings and Precautions (5.6)]
-- •Other Malignancies [see Warnings and Precautions (5.7)]
-- •Extravasation Injury [see Warnings and Precautions (5.8)]
+- Myelosuppression [see Warnings and Precautions (5.1)]
+- Infections [see Warnings and Precautions (5.2)]
+- Anaphylaxis and Infusion Reactions [see Warnings and Precautions (5.3)]
+- Tumor Lysis Syndrome [see Warnings and Precautions (5.4)]
+- Skin Reactions [see Warnings and Precautions (5.5)]
+- Hepatotoxicity [see Warnings and Precautions (5.6)]
+- Other Malignancies [see Warnings and Precautions (5.7)]
+- Extravasation Injury [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 

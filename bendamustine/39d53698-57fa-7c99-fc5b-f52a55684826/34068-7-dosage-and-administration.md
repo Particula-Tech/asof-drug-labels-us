@@ -62,20 +62,20 @@ TREANDA Injection (45 mg/0.5 mL or 180 mg/2 mL solution)
 
 TREANDA Injection must be diluted in a biosafety cabinet (BSC) or containment isolator.
 
-- •When preparing and transferring the concentrated TREANDA Injection solution into the infusion bag, do not use devices that contain polycarbonate or ABS.
+- When preparing and transferring the concentrated TREANDA Injection solution into the infusion bag, do not use devices that contain polycarbonate or ABS.
   However, after dilution of TREANDA Injection into the infusion bag, devices that contain polycarbonate or ABS, including infusion sets, may be used.
   TREANDA Injection contains N,N-dimethylacetamide (DMA), which is incompatible with devices that contain polycarbonate or ABS.
   Devices, including CSTDs, adapters, and syringes that contain polycarbonate or ABS have been shown to dissolve when they come in contact with DMA which is present in the product.
   This incompatibility leads to device failure (e.g., leaking, breaking, or operational failure of CSTD components), possible product contamination, and potential serious adverse health consequences to the practitioner, including skin reactions; or to the patient, including but not limited to, the risk of small blood vessel blockage if they receive product contaminated with dissolved ABS or polycarbonate.
   Devices that are compatible for use in dilution of TREANDA Injection are available.
-- •If using a syringe to withdraw and transfer TREANDA Injection from the vial into the infusion bag, only use a polypropylene syringe with a metal needle and a polypropylene hub to withdraw and transfer TREANDA Injection into the infusion bag.
-- •Each vial of TREANDA Injection is intended for single dose only.
-- •Aseptically withdraw the volume needed for the required dose from the 90 mg/mL solution using a polypropylene syringe with a metal needle and a polypropylene hub.
-- •Immediately transfer the solution to a 500 mL infusion bag of 0.9% Sodium Chloride Injection, USP (normal saline).
+- If using a syringe to withdraw and transfer TREANDA Injection from the vial into the infusion bag, only use a polypropylene syringe with a metal needle and a polypropylene hub to withdraw and transfer TREANDA Injection into the infusion bag.
+- Each vial of TREANDA Injection is intended for single dose only.
+- Aseptically withdraw the volume needed for the required dose from the 90 mg/mL solution using a polypropylene syringe with a metal needle and a polypropylene hub.
+- Immediately transfer the solution to a 500 mL infusion bag of 0.9% Sodium Chloride Injection, USP (normal saline).
   As an alternative to 0.9% Sodium Chloride Injection, USP (normal saline), a 500 mL infusion bag of 2.5% Dextrose/0.45% Sodium Chloride Injection, USP, may be considered.
   The resulting final concentration of bendamustine HCl in the infusion bag should be within 0.2 – 0.7 mg/mL.
-- •After dilution of TREANDA Injection into the infusion bag, devices that contain polycarbonate or ABS, including infusion sets, may be used.
-- •Visually inspect the filled syringe and the prepared infusion bag to ensure the lack of visible particulate matter prior to administration.
+- After dilution of TREANDA Injection into the infusion bag, devices that contain polycarbonate or ABS, including infusion sets, may be used.
+- Visually inspect the filled syringe and the prepared infusion bag to ensure the lack of visible particulate matter prior to administration.
   The admixture should be a clear colorless to yellow solution.
 
 Use either 0.9% Sodium Chloride Injection, USP, or 2.5% Dextrose/0.45% Sodium Chloride Injection, USP, for dilution, as outlined above.
@@ -85,19 +85,19 @@ TREANDA for Injection (25 mg/vial or 100 mg/vial lyophilized powder)
 
 If a closed system transfer device or adapter that contains polycarbonate or ABS is to be used as supplemental protection during preparation1, only use TREANDA for Injection, the lyophilized formulation.
 
-- •Each vial of TREANDA for Injection is intended for single dose only.
-- •Aseptically reconstitute each TREANDA for Injection vial as follows:
-  - ∘25 mg TREANDA for Injection vial: Add 5 mL of only Sterile Water for Injection, USP.
-  - ∘100 mg TREANDA for Injection vial: Add 20 mL of only Sterile Water for Injection, USP.
-- •Shake well to yield a clear, colorless to a pale yellow solution with a bendamustine HCl concentration of 5 mg/mL.
+- Each vial of TREANDA for Injection is intended for single dose only.
+- Aseptically reconstitute each TREANDA for Injection vial as follows:
+  - 25 mg TREANDA for Injection vial: Add 5 mL of only Sterile Water for Injection, USP.
+  - 100 mg TREANDA for Injection vial: Add 20 mL of only Sterile Water for Injection, USP.
+- Shake well to yield a clear, colorless to a pale yellow solution with a bendamustine HCl concentration of 5 mg/mL.
   The lyophilized powder should completely dissolve in 5 minutes.
   The reconstituted solution must be transferred to the infusion bag within 30 minutes of reconstitution.
   If particulate matter is observed, the reconstituted product should not be used.
-- •Aseptically withdraw the volume needed for the required dose (based on 5 mg/mL concentration) and immediately transfer to a 500 mL infusion bag of 0.9% Sodium Chloride Injection, USP (normal saline).
+- Aseptically withdraw the volume needed for the required dose (based on 5 mg/mL concentration) and immediately transfer to a 500 mL infusion bag of 0.9% Sodium Chloride Injection, USP (normal saline).
   As an alternative to 0.9% Sodium Chloride Injection, USP (normal saline), a 500 mL infusion bag of 2.5% Dextrose/0.45% Sodium Chloride Injection, USP, may be considered.
   The resulting final concentration of bendamustine HCl in the infusion bag should be within 0.2 – 0.6 mg/mL.
   After transferring, thoroughly mix the contents of the infusion bag.
-- •Visually inspect the filled syringe and the prepared infusion bag to ensure the lack of visible particulate matter prior to administration.
+- Visually inspect the filled syringe and the prepared infusion bag to ensure the lack of visible particulate matter prior to administration.
   The admixture should be a clear and colorless to slightly yellow solution.
 
 Use Sterile Water for Injection, USP, for reconstitution and then either 0.9% Sodium Chloride Injection, USP, or 2.5% Dextrose/0.45% Sodium Chloride Injection, USP, for dilution, as outlined above.

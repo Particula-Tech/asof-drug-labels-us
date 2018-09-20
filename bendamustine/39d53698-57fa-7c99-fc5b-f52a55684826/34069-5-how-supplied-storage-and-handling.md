@@ -14,13 +14,13 @@ If TREANDA contacts the mucous membranes, flush thoroughly with water.
 
 TREANDA (bendamustine hydrochloride) Injection is supplied as a 90 mg/mL clear colorless to yellow solution in individual cartons as follows:
 
-- •NDC 63459-395-02: 45 mg/0.5 mL of solution in an amber single-dose vial
-- •NDC 63459-396-02: 180 mg/2 mL of solution in an amber single-dose vial
+- NDC 63459-395-02: 45 mg/0.5 mL of solution in an amber single-dose vial
+- NDC 63459-396-02: 180 mg/2 mL of solution in an amber single-dose vial
 
 TREANDA (bendamustine hydrochloride) for Injection is supplied in individual cartons as follows:
 
-- •NDC 63459-390-08: 25 mg white to off-white lyophilized powder in a 8 mL amber single-dose vial
-- •NDC 63459-391-20: 100 mg white to off-white lyophilized powder in a 20 mL amber single-dose vial
+- NDC 63459-390-08: 25 mg white to off-white lyophilized powder in a 8 mL amber single-dose vial
+- NDC 63459-391-20: 100 mg white to off-white lyophilized powder in a 20 mL amber single-dose vial
 
 ## 16.3 Storage
 
