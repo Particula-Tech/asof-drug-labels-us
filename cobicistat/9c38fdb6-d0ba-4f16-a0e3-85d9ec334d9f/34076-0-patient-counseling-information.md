@@ -23,12 +23,12 @@ Inform patients that renal impairment, including cases of acute renal failure an
 
 Pregnancy
 
-Advise patients that PREZCOBIX is not recommended in pregnant women and to alert their healthcare provider if they get pregnant while taking PREZCOBIX [see Use in Specific Populations (8.1)].
-Inform patients that there is an antiretroviral pregnancy registry to monitor fetal outcomes of pregnant women exposed to PREZCOBIX [see Use in Specific Populations (8.1)].
+Advise patients that PREZCOBIX is not recommended during pregnancy and to alert their healthcare provider if they get pregnant while taking PREZCOBIX [see Use in Specific Populations (8.1)].
+Inform patients that there is an antiretroviral pregnancy registry to monitor fetal outcomes of pregnant individuals exposed to PREZCOBIX [see Use in Specific Populations (8.1)].
 
 Lactation
 
-Instruct women with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in breast milk [see Use in Specific Populations (8.2)].
+Instruct individuals with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in breast milk [see Use in Specific Populations (8.2)].
 
 Drug Interactions
 

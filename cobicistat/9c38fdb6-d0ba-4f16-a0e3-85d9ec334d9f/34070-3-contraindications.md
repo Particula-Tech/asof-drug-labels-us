@@ -13,6 +13,6 @@ PREZCOBIX is contraindicated in patients receiving the following co-administered
 - GI motility agent: cisapride
 - Herbal product: St. John's wort (Hypericum perforatum)
 - Hepatitis C direct acting antiviral: elbasvir/grazoprevir
-- HMG-CoA reductase inhibitors: lovastatin, simvastatin
+- Lipid modifying agents: lomitapide, lovastatin, simvastatin
 - PDE-5 inhibitor: sildenafil when used for treatment of pulmonary arterial hypertension
 - Sedatives/hypnotics: orally administered midazolam, triazolam

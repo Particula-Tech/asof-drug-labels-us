@@ -4,15 +4,15 @@
 
 Pregnancy Exposure Registry
 
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to PREZCOBIX during pregnancy.
+There is a pregnancy exposure registry that monitors pregnancy outcomes in individuals exposed to PREZCOBIX during pregnancy.
 Healthcare providers are encouraged to register patients by calling the Antiretroviral Pregnancy Registry (APR) 1-800-258-4263.
 
 Risk Summary
 
-There are insufficient data with PREZCOBIX in pregnant women from the APR to inform a drug-associated risk of pregnancy outcomes.
+There are insufficient data with PREZCOBIX in pregnant individuals from the APR to inform a drug-associated risk of pregnancy outcomes.
 Available data from the APR show no difference in rate of overall birth defects for darunavir compared with the background rate for major birth defects of 2.7% in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) (see Data).
 The APR uses the MACDP as the U.S. reference population for birth defects in the general population.
-The MACDP evaluates women and infants from a limited geographic area and does not include outcomes for births that occurred at less than 20 weeks gestation.
+The MACDP evaluates pregnant individuals and infants from a limited geographic area and does not include outcomes for births that occurred at less than 20 weeks gestation.
 
 The rate of miscarriage is not reported in the APR.
 The estimated background rate of miscarriage in clinically recognized pregnancies in the U.S. general population is 15–20%.
@@ -25,23 +25,23 @@ Clinical Considerations
 
 Not Recommended During Pregnancy
 
-PREZCOBIX is not recommended for use in pregnant women because of substantially lower exposures of darunavir and cobicistat during pregnancy (see Data) and [see Clinical Pharmacology (12.3)].
+PREZCOBIX is not recommended for use during pregnancy because of substantially lower exposures of darunavir and cobicistat during pregnancy (see Data) and [see Clinical Pharmacology (12.3)].
 
-PREZCOBIX should not be initiated in pregnant women.
-An alternative regimen is recommended for women who become pregnant during therapy with PREZCOBIX.
+PREZCOBIX should not be initiated in pregnant individuals.
+An alternative regimen is recommended for individuals who become pregnant during therapy with PREZCOBIX.
 
 Data
 
 Human Data
 
-Darunavir/Cobicistat: PREZCOBIX in combination with a background regimen was evaluated in a clinical trial of 7 pregnant women taking PREZCOBIX prior to enrollment and who were willing to remain on PREZCOBIX throughout the study.
+Darunavir/Cobicistat: PREZCOBIX in combination with a background regimen was evaluated in a clinical trial of 7 pregnant individuals taking PREZCOBIX prior to enrollment and who were willing to remain on PREZCOBIX throughout the study.
 The study period included the second and third trimesters, and through 12 weeks postpartum.
-Six women completed the trial.
+Six pregnant individuals completed the trial.
 
 Exposure to darunavir and cobicistat as part of an antiretroviral regimen was substantially lower during the second and third trimesters of pregnancy compared with postpartum [see Clinical Pharmacology (12.3)].
 
-One out of 6 women who completed the study experienced virologic failure with HIV-1 RNA >1,000 copies/mL from the third trimester visit through the postpartum period.
-Five women had sustained virologic response (HIV RNA <50 copies/mL) throughout the study period.
+One out of 6 pregnant individuals who completed the study experienced virologic failure with HIV-1 RNA >1,000 copies/mL from the third trimester visit through the postpartum period.
+Five pregnant individuals had sustained virologic response (HIV RNA <50 copies/mL) throughout the study period.
 There are no clinical data on the virologic response when PREZCOBIX is initiated during pregnancy.
 
 There were no new clinically relevant safety findings compared with the known safety profile of PREZCOBIX in HIV-1-infected adults.
@@ -89,6 +89,14 @@ In the rat pre- and postnatal development study, a reduction in pup body weight 
 The maximal maternal plasma exposures achieved with darunavir (up to 1000 mg/kg with ritonavir) were approximately 50% of those obtained in humans at the recommended clinical dose of darunavir with ritonavir.
 
 Cobicistat: During the pre/postnatal developmental toxicology study at doses up to 75 mg/kg/day, mean cobicistat milk to plasma ratio of up to 1.9 was measured 2 hours after administration to rats on lactation day 10.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Contraception
+
+Additional or alternative (non-hormonal) forms of contraception should be considered when estrogen-containing contraceptives are co-administered with PREZCOBIX.
+For co-administration with drospirenone, clinical monitoring is recommended due to the potential for hyperkalemia.
+No data are available to make recommendations on co-administration with other hormonal contraceptives [see Drug Interactions (7.3)].
 
 ## 8.4 Pediatric Use
 
