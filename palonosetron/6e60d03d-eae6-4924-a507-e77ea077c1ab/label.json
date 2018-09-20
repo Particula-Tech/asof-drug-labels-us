@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA204289"
+  ],
+  "inn": "palonosetron",
+  "labeler": "Sagent Pharmaceuticals",
+  "package_ndcs": [
+    "25021-783-05"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "palonosetron hydrochloride",
+      "name": "palonosetron hydrochloride"
+    }
+  ],
+  "setid": "6e60d03d-eae6-4924-a507-e77ea077c1ab",
+  "source": "dailymed"
+}
