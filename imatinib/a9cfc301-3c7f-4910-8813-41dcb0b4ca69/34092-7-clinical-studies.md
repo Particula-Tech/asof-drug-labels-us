@@ -253,10 +253,10 @@ Table 23: Response in ASM
 | FIP1L1-PDGFRα Fusion Kinase (or CHIC2 Deletion) | 7 | 7 (100) | 0 |
 | Juxtamembrane Mutation | 2 | 0 | 2 (100) |
 | Unknown or No Cytogenetic Abnormality Detected | 15 | 0 | 7 (44) |
-| D816V Mutation | 4 | 1Patient had concomitant CML and ASM (25) | 0 |
+| D816V Mutation | 4 | 1Patient had concomitant CML and ASM(25) | 0 |
 | Total | 28 | 8 (29) | 9 (32) |
 
-1. 1.Patient had concomitant CML and ASM
+1. Patient had concomitant CML and ASM
 
 Imatinib mesylate has not been shown to be effective in patients with less aggressive forms of systemic mastocytosis (SM).
 Imatinib mesylate is therefore not recommended for use in patients with cutaneous mastocytosis, indolent systemic mastocytosis (smoldering SM or isolated bone marrow mastocytosis), SM with an associated clonal hematological non-mast cell lineage disease, mast cell leukemia, mast cell sarcoma or extracutaneous mastocytoma.
@@ -305,7 +305,7 @@ Table 25: Response in DFSP
 | Partial Response5 patients made disease free by surgery | 8 | 44 |
 | Total Responders | 15 | 83 |
 
-1. 1.5 patients made disease free by surgery
+1. 5 patients made disease free by surgery
 
 Twelve of these 18 patients either achieved a complete response (7 patients) or were made disease free by surgery after a partial response (5 patients, including one child) for a total complete response rate of 67%.
 A further 3 patients achieved a partial response, for an overall response rate of 83%.

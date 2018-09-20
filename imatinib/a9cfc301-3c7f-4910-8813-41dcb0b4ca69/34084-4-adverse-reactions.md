@@ -2,19 +2,19 @@
 
 The following serious adverse reactions are described elsewhere in the labeling:
 
-- •Fluid Retention and Edema [see Warnings and Precautions (5.1)]
-- •Hematologic Toxicity [see Warnings and Precautions (5.2)]
-- •Congestive Heart Failure and Left Ventricular Dysfunction [see Warnings and Precautions (5.3)]
-- •Hepatotoxicity [see Warnings and Precautions (5.4)]
-- •Hemorrhage [see Warnings and Precautions (5.5)]
-- •Gastrointestinal Disorders [see Warnings and Precautions (5.6)]
-- •Hypereosinophilic Cardiac Toxicity [see Warnings and Precautions (5.7)]
-- •Dermatologic Toxicities [see Warnings and Precautions (5.8)]
-- •Hypothyroidism [see Warnings and Precautions (5.9)]
-- •Growth Retardation in Children and Adolescents [see Warnings and Precautions (5.11)]
-- •Tumor Lysis Syndrome [see Warnings and Precautions (5.12)]
-- •Impairments Related to Driving and Using Machinery [see Warnings and Precautions (5.13)]
-- •Renal Toxicity [see Warnings and Precautions (5.14)]
+- Fluid Retention and Edema [see Warnings and Precautions (5.1)]
+- Hematologic Toxicity [see Warnings and Precautions (5.2)]
+- Congestive Heart Failure and Left Ventricular Dysfunction [see Warnings and Precautions (5.3)]
+- Hepatotoxicity [see Warnings and Precautions (5.4)]
+- Hemorrhage [see Warnings and Precautions (5.5)]
+- Gastrointestinal Disorders [see Warnings and Precautions (5.6)]
+- Hypereosinophilic Cardiac Toxicity [see Warnings and Precautions (5.7)]
+- Dermatologic Toxicities [see Warnings and Precautions (5.8)]
+- Hypothyroidism [see Warnings and Precautions (5.9)]
+- Growth Retardation in Children and Adolescents [see Warnings and Precautions (5.11)]
+- Tumor Lysis Syndrome [see Warnings and Precautions (5.12)]
+- Impairments Related to Driving and Using Machinery [see Warnings and Precautions (5.13)]
+- Renal Toxicity [see Warnings and Precautions (5.14)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -213,7 +213,7 @@ Table 6: Percent Incidence of Clinically Relevant Grade 3/4NCI Common Terminolog
 | Elevated alkaline phosphatase | < 1 | 0 |
 | Elevated creatinine | < 1 | 0 |
 
-- Table 7: Laboratory Abnormalities in Other CML Clinical Trials
+Table 7: Laboratory Abnormalities in Other CML Clinical Trials
 
 |  | Myeloid Blast Crisis(n = 260)600 mg n = 223400 mg n = 37% |  | Accelerated Phase(n = 235)600 mg n = 158400 mg n = 77% |  | Chronic Phase, IFN Failure(n = 532)400 mg% |  |
 | --- | --- | --- | --- | --- | --- | --- |
