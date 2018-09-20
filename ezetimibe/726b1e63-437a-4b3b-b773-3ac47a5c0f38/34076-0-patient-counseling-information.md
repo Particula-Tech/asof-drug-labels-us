@@ -140,4 +140,4 @@ Inactive ingredients:
 
 Croscarmellose sodium, crospovidone, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose and sodium lauryl sulfate.
 
-Distributed by: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 08/2017
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 06/2018
