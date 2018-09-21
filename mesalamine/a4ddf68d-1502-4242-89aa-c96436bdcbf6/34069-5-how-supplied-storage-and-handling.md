@@ -10,7 +10,7 @@ Carton of 28 Bottles - NDC 45802-098-28
 
 Combo Kit with 7 Bottles and Wipes - NDC 45802-923-41
 
-Combo Kit with 28 Bottles and Wipes - NDC 45802-923-49
+Combo Kit with 28 Bottles and Wipes - NDC 45802-929-49
 
 Mesalamine Rectal Suspension USP, Enemas are for rectal use only.
 
@@ -28,13 +28,18 @@ Slight darkening will not affect potency, however, enemas with dark brown conten
 NOTE: Mesalamine Rectal Suspension, USP will cause staining of direct contact surfaces, including but not limited to fabrics, flooring, painted surfaces, marble, granite, vinyl, and enamel.
 Take care in choosing a suitable location for administration of this product.
 
-RX Only
+Rx Only
 
-MADE IN ISRAEL
+Made in Israel
 
-MANUFACTURED BY PERRIGO, YERUHAM 80500, ISRAEL
+Manufactured By Perrigo
 
-2N900 RC J5
+Yeruham, Israel
 
-Rev.
-11/09
+Distributed By Perrigo®
+
+Allegan, MI 49010 • www.perrigo.com
+
+Rev 08-16
+
+2N900 RC J6

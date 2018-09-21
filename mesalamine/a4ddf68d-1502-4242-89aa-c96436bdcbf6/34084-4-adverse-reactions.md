@@ -5,6 +5,37 @@
 Mesalamine Rectal Suspension, USP is usually well tolerated.
 Most adverse effects have been mild and transient.
 
+ADVERSE REACTION OCCURRING IN MORE THAN 0.1% OF MESLAMINE RECTAL SUSPENSION TREATED PATIENTS (COMPARISON TO PLACEBO)
+
+|  | MESALAMINE RECTAL SUSPENSION USP |  | PLACEBO |  |
+| --- | --- | --- | --- | --- |
+| SYMPTOM | N=815N | % | N=128N | % |
+| Abdominal Pain/Cramps/Discomfort | 66 | 8.10 | 10 | 7.81 |
+| Headache | 53 | 6.50 | 16 | 12.50 |
+| Gas/Flatulence | 50 | 6.13 | 5 | 3.91 |
+| Nausea | 47 | 5.77 | 12 | 9.38 |
+| Flu | 43 | 5.28 | 1 | 0.78 |
+| Tired/Week/Malaise/Fatigue | 28 | 3.44 | 8 | 6.25 |
+| Fever | 26 | 3.19 | 0 | 0.00 |
+| Rash/Spots | 23 | 2.82 | 4 | 3.12 |
+| Cold/Sore Throat | 19 | 2.33 | 9 | 7.03 |
+| Diarrhea | 17 | 2.09 | 5 | 3.91 |
+| Leg/joint Pain | 17 | 2.09 | 1 | 0.78 |
+| Dizziness | 15 | 1.84 | 3 | 2.34 |
+| Bloating | 12 | 1.47 | 2 | 1.56 |
+| Back Pain | 11 | 1.35 | 1 | 0.78 |
+| Pain on Insertion of Enema Tip | 11 | 1.35 | 1 | 0.78 |
+| Hemorrhoids | 11 | 1.35 | 0 | 0.00 |
+| Itching | 10 | 1.23 | 1 | 0.78 |
+| Rectal Pain | 10 | 1.23 | 0 | 0.00 |
+| Constipation | 8 | 0.98 | 4 | 3.12 |
+| Hair Loss | 7 | 0.86 | 0 | 0.00 |
+| Peripheral Edema | 5 | 0.61 | 11 | 8.59 |
+| UTI/Urinary Burning | 5 | 0.61 | 4 | 3.12 |
+| Rectal Pain/Soreness/Burning | 5 | 0.61 | 3 | 2.34 |
+| Asthenia | 1 | 0.12 | 4 | 3.12 |
+| Insomnia | 1 | 0.12 | 3 | 2.34 |
+
 In addition, the following adverse events have been identified during post-approval use of products which contain (or are metabolized to) mesalamine in clinical practice: nephrotoxicity, pancreatitis, fibrosing alveolitis and elevated liver enzymes.
 Cases of pancreatitis and fibrosing alveolitis have been reported as manifestations of inflammatory bowel disease as well.
 Published case reports and/or spontaneous post marketing surveillance have described rare instances of aplastic anemia, agranulocytosis, thrombocytopenia, eosinophilia, pancytopenia, neutropenia, oligospermia, and infertility in men.

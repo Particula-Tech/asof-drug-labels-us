@@ -14,15 +14,19 @@ The patient's history of sulfasalazine intolerance, if any, should be re-evaluat
 If a rechallenge is performed later in order to validate the hypersensitivity it should be carried out under close supervision and only if clearly needed, giving consideration to reduced dosage.
 In the literature one patient previously sensitive to sulfasalazine was rechallenged with 400 mg oral mesalamine; within eight hours she experienced headache, fever, intensive abdominal colic, profuse diarrhea and was readmitted as an emergency.
 She responded poorly to steroid therapy and two weeks later a pancolectomy was required.
+
 Although renal abnormalities were not noted in the clinical trials with Mesalamine Rectal Suspension, USP, the possibility of increased absorption of mesalamine and concomitant renal tubular damage as noted in the preclinical studies must be kept in mind.
 Patients on Mesalamine Rectal Suspension, USP, especially those on concurrent oral products which liberate mesalamine and those with preexisting renal disease, should be carefully monitored with urinalysis, BUN (blood urea nitrogen) and creatinine studies.
 
 In a clinical trial most patients who were hypersensitive to sulfasalazine were able to take mesalamine enemas without evidence of any allergic reaction.
 Nevertheless, caution should be exercised when mesalamine is initially used in patients known to be allergic to sulfasalazine.
 These patients should be instructed to discontinue therapy if signs of rash or fever become apparent.
+
 While using Mesalamine Rectal Suspension, USP some patients have developed pancolitis.
 However, extension of upper disease boundary and/or flare-ups occurred less often in the Mesalamine Rectal Suspension, USP treated group than in the placebo-treated group.
+
 Worsening of colitis or symptoms of inflammatory bowel disease, including melena and hematochezia, may occur after commencing mesalamine.
+
 Rare instances of pericarditis have been reported with mesalamine containing products including sulfasalazine.
 Cases of pericarditis have also been reported as manifestations of inflammatory bowel disease.
 In the cases reported with Mesalamine Rectal Suspension, USP there have been positive rechallenges with mesalamine or mesalamine containing products.

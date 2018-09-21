@@ -1,7 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
 Sulfasalazine is split by bacterial action in the colon into sulfapyridine (SP) and mesalamine (5-ASA).
-
 It is thought that the mesalamine component is therapeutically active in ulcerative colitis [A.K.
 Azad Khan et al, Lancet 2:892-895 (1977)].
 The usual oral dose of sulfasalazine for active ulcerative colitis in adults is two to four grams per day in divided doses.
@@ -34,6 +33,7 @@ The extent of absorption is dependent upon the retention time of the drug produc
 At steady state, approximately 10 to 30% of the daily 4-gram dose can be recovered in cumulative 24-hour urine collections.
 Other than the kidney, the organ distribution and other bioavailability characteristics of absorbed mesalamine in man are not known.
 It is known that the compound undergoes acetylation but whether this process takes place at colonic or systemic sites has not been elucidated.
+
 Whatever the metabolic site, most of the absorbed mesalamine is excreted in the urine as the N-acetyl-5-ASA metabolite.
 The poor colonic absorption of rectally administered mesalamine is substantiated by the low serum concentration of 5-ASA and N-acetyl-5-ASA seen in ulcerative colitis patients after dosage with mesalamine.
 Under clinical conditions patients demonstrated plasma levels 10 to 12 hours post mesalamine administration of 2 mcg/mL, about two-thirds of which was the N-acetyl metabolite.
@@ -46,16 +46,29 @@ In addition, steady state plasma levels demonstrated a lack of accumulation of e
 
 In a placebo-controlled, international, multicenter trial of 153 patients with active distal ulcerative colitis, proctosigmoiditis or proctitis, Mesalamine Rectal Suspension USP, Enema reduced the overall disease activity index (DAI) and individual components as follows:
 
+EFFECT OF TREATMENT ON SEVERITY OF DISEASE DATA FROM U.S.- CANADA TRIAL COMBINED RESULTS OF EIGHT CENTERS
+
+Activity Indices, mean
+
+|  |  | N | Base-line | Day 22 | End-Point | Change Baselineto End-Point † |
+| --- | --- | --- | --- | --- | --- | --- |
+| Overall DAI | Mesalamine Rectal Suspension | 76 | 7.42 | 4.05** | 3.37*** | -55.07%*** |
+|  | Placebo | 77 | 7.40 | 6.03 | 5.83 | -21.58% |
+| Stool Frequency | Mesalamine Rectal Suspension |  | 1.58 | 1.11* | 1.01** | -0.57* |
+|  | Placebo |  | 1.92 | 1.47 | 1.50 | -0.41 |
+| Rectal Bleeding | Mesalamine Rectal Suspension |  | 1.82 | 0.59*** | 0.51*** | -1.30*** |
+|  | Placebo |  | 1.73 | 1.21 | 1.11 | -0.61 |
+| Mucosal Inflammation | Mesalamine Rectal Suspension |  | 2.17 | 1.22** | 0.96*** | -1.21** |
+|  | Placebo |  | 2.18 | 1.74 | 1.61 | -0.56 |
+| Physician’s Assessment of Disease Severity | Mesalamine Rectal Suspension |  | 1.86 | 1.13*** | 0.88*** | -0.97*** |
+|  | Placebo |  | 1.87 | 1.62 | 1.55 | -0.30 |
+
 Each parameter has a 4-point scale with a numerical rating:
 
 0 = normal, 1 = mild, 2 = moderate, 3 = severe.
-The four parameters are
+The four parameters are added together to produce a maximum overall DAI of 12.
 
-added together to produce a maximum overall DAI of 12.
-
-†Percent change for overall DAI only (calculated by taking the average of
-
-the change for each individual patient).
+†Percent change for overall DAI only (calculated by taking the average of the change for each individual patient).
 
 *Significant Mesalamine Rectal Suspension, USP /placebo difference.
 
