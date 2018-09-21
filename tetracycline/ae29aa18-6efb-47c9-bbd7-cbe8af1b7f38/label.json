@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA210674"
+  ],
+  "inn": "tetracycline",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "69238-1522-1",
+    "69238-1523-1"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "tetracycline hydrochloride",
+      "name": "Tetracycline Hydrochloride"
+    }
+  ],
+  "setid": "ae29aa18-6efb-47c9-bbd7-cbe8af1b7f38",
+  "source": "dailymed"
+}
