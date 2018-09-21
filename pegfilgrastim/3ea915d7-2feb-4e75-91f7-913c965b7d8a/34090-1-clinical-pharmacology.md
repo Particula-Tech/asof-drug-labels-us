@@ -25,7 +25,7 @@ No gender-related differences were observed in the pharmacokinetics of pegfilgra
 
 #### Renal Impairment
 
-In a study of 30 subjects with varying degrees of renal dysfunction, including end stage renal disease, renal dysfunction had no effect on the pharmacokinetics of pegfilgrastim [see Use in Specific Populations (8.6)].
+In a study of 30 subjects with varying degrees of renal dysfunction, including end stage renal disease, renal dysfunction had no effect on the pharmacokinetics of pegfilgrastim.
 
 #### Pediatric Patients with Cancer Receiving Myelosuppressive Chemotherapy
 

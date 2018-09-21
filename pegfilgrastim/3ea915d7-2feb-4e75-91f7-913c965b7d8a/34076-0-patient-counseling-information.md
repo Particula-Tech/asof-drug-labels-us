@@ -10,6 +10,7 @@ Advise patients of the following risks and potential risks with Fulphila:
 - •Sickle cell crisis
 - •Glomerulonephritis
 - •Capillary Leak Syndrome
+- •Aortitis
 
 Instruct patients who self-administer Fulphila using the single-dose prefilled syringe of the:
 
@@ -17,4 +18,4 @@ Instruct patients who self-administer Fulphila using the single-dose prefilled s
 - •Dangers of reusing syringes.
 - •Importance of following local requirements for proper disposal of used syringes.
 
-Manufactured by: Mylan GmbH Zurich, Switzerland, CH-8050 U.S. License No. 2062
+Manufactured by: Mylan GmbH Steinhausen, Switzerland, CH-6312 U.S. License No. 2062

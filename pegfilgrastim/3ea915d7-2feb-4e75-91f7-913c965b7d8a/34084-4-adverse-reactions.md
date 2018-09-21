@@ -10,6 +10,7 @@ The following serious adverse reactions are discussed in greater detail in other
 - •Leukocytosis [See Warnings and Precautions (5.6)]
 - •Capillary Leak Syndrome [See Warnings and Precautions (5.7)]
 - •Potential for Tumor Growth Stimulatory Effects on Malignant Cells [See Warnings and Precautions (5.8)]
+- •Aortitis [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -69,3 +70,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - •Capillary Leak Syndrome [see Warnings and Precautions (5.7)]
 - •Injection site reactions
 - •Sweet’s syndrome, (acute febrile neutrophilic dermatosis), cutaneous vasculitis
+- •Aortitis [see Warnings and Precautions (5.9)]

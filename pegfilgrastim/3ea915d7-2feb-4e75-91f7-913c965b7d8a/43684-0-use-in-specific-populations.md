@@ -9,6 +9,7 @@ These studies have not established an association of filgrastim product use duri
 
 In animal studies, no evidence of reproductive/developmental toxicity occurred in the offspring of pregnant rats that received cumulative doses of pegfilgrastim approximately 10 times the recommended human dose (based on body surface area).
 In pregnant rabbits, increased embryolethality and spontaneous abortions occurred at 4 times the maximum recommended human dose simultaneously with signs of maternal toxicity (see Data).
+
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.

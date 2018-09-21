@@ -23,7 +23,7 @@ Keep this and all medication out of the reach of children.
 
 Dosage: See prescribing information for dosage and instructions for use.
 
-Manufactured by: Mylan GmbH Zurich, Switzerland CH-805 U.S. License No. 2062
+Manufactured by: Mylan GmbH Steinhausen, Switzerland CH-6312 U.S. License No. 2062
 
 Distributed by: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
 
@@ -31,4 +31,4 @@ Product of India
 
 Mylan.com
 
-B:833:1C:R4 Code No.: KR/DRUGS/KTK/28D/7/2006
+B:833:1C:R5 Code No.: KR/DRUGS/KTK/28D/7/2006

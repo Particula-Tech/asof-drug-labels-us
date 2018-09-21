@@ -13,7 +13,7 @@ Fulphila is administered subcutaneously via a single-dose prefilled syringe for 
 Prior to use‚ remove the carton from the refrigerator and allow the Fulphila prefilled syringe to reach room temperature for a minimum of 30 minutes.
 Discard any prefilled syringe left at room temperature for greater than 72 hours.
 
-Visually inspect parenteral drug products (prefilled syringe) for particulate matter and discoloration prior to administration, whenever solution and container permit.
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 Do not administer Fulphila if discoloration or particulates are observed.
 
 ### Pediatric Patients weighing less than 45 kg
