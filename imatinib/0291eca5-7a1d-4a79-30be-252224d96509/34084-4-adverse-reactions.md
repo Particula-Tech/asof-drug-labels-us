@@ -222,22 +222,21 @@ Table 6: Percent Incidence of Clinically Relevant Grade 3/4* Laboratory Abnormal
 
 Table 7: Laboratory Abnormalities in Other CML Clinical Trials
 
-|  | Myeloid Blast Crisis |  | Accelerated Phase |  | Chronic Phase, IFN Failure |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  | (n=260) 600 mg n=223 400 mg n=37 % |  | (n=235) 600 mg n=158 400 mg n=77 % |  | (n=532) 400 mg % |  |  |
-| CTC Grades1 | Grade 3 | Grade 4 | Grade 3 | Grade 4 | Grade 3 | Grade 4 |  |
-| Hematology Parameters |  |  |  |  |  |  |  |
-| − Neutropenia | 16 | 48 | 23 | 36 | 27 | 9 |  |
-| − Thrombocytopenia | 30 | 33 | 31 | 13 | 21 | <1 |  |
-| − Anemia | 42 | 11 | 34 | 7 | 6 | 1 |  |
-| Biochemistry Parameters |  |  |  |  |  |  |  |
-| − Elevated Creatinine | 1.5 | 0 | 1.3 | 0 | 0.2 | 0 |  |
-| − Elevated Bilirubin | 3.8 | 0 | 2.1 | 0 | 0.6 | 0 |  |
-| − Elevated Alkaline Phosphatase | 4.6 | 0 | 5.5 | 0.4 | 0.2 | 0 |  |
-| − Elevated SGOT (AST) | 1.9 | 0 | 3.0 | 0 | 2.3 |  |  |
-| − Elevated SGPT (ALT) | 2.3 | 0.4 | 4.3 | 0 | 2.1 | 0 |  |
-
-1CTC Grades: neutropenia (Grade 3 greater than or equal to 0.5 to 1.0 x 109/L, Grade 4 less than 0.5 x 109/L), thrombocytopenia (Grade 3 greater than or equal to 10 to 50 x 109/L, Grade 4 less than 10 x 109/L), anemia (hemoglobin greater than or equal to 65 to 80 g/L, Grade 4 less than 65 g/L), elevated creatinine (Grade 3 greater than 3 to 6 x upper limit normal range [ULN], Grade 4 greater than 6 x ULN), elevated bilirubin (Grade 3 greater than 3 to 10 x ULN, Grade 4 greater than 10 x ULN), elevated alkaline phosphatase (Grade 3 greater than 5 to 20 x ULN, Grade 4 greater than 20 x ULN), elevated SGOT or SGPT (Grade 3 greater than 5 to 20 x ULN, Grade 4 greater than 20 x ULN)
+|  | Myeloid Blast Crisis |  | Accelerated Phase |  | Chronic Phase, IFN Failure |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | (n=260) 600 mg n=223 400 mg n=37 % |  | (n=235) 600 mg n=158 400 mg n=77 % |  | (n=532) 400 mg % |  |
+| CTC Grades1 | Grade 3 | Grade 4 | Grade 3 | Grade 4 | Grade 3 | Grade 4 |
+| Hematology Parameters |  |  |  |  |  |  |
+| − Neutropenia | 16 | 48 | 23 | 36 | 27 | 9 |
+| − Thrombocytopenia | 30 | 33 | 31 | 13 | 21 | <1 |
+| − Anemia | 42 | 11 | 34 | 7 | 6 | 1 |
+| Biochemistry Parameters |  |  |  |  |  |  |
+| − Elevated Creatinine | 1.5 | 0 | 1.3 | 0 | 0.2 | 0 |
+| − Elevated Bilirubin | 3.8 | 0 | 2.1 | 0 | 0.6 | 0 |
+| − Elevated Alkaline Phosphatase | 4.6 | 0 | 5.5 | 0.4 | 0.2 | 0 |
+| − Elevated SGOT (AST) | 1.9 | 0 | 3.0 | 0 | 2.3 | 0 |
+| − Elevated SGPT (ALT) | 2.3 | 0.4 | 4.3 | 0 | 2.1 | 0 |
+| 1CTC Grades: neutropenia (Grade 3 greater than or equal to 0.5 to 1.0 x 109/L, Grade 4 less than 0.5 x 109/L), thrombocytopenia (Grade 3 greater than or equal to 10 to 50 x 109/L, Grade 4 less than 10 x 109/L), anemia (hemoglobin greater than or equal to 65 to 80 g/L, Grade 4 less than 65 g/L), elevated creatinine (Grade 3 greater than 3 to 6 x upper limit normal range [ULN], Grade 4 greater than 6 x ULN), elevated bilirubin (Grade 3 greater than 3 to 10 x ULN, Grade 4 greater than 10 x ULN), elevated alkaline phosphatase (Grade 3 greater than 5 to 20 x ULN, Grade 4 greater than 20 x ULN), elevated SGOT or SGPT (Grade 3 greater than 5 to 20 x ULN, Grade 4 greater than 20 x ULN) |  |  |  |  |  |  |
 
 Hepatotoxicity Severe elevation of transaminases or bilirubin occurred in approximately 5% of CML patients (see Tables 6 and 7) and were usually managed with dose reduction or interruption (the median duration of these episodes was approximately 1 week).
 Treatment was discontinued permanently because of liver laboratory abnormalities in less than 1.0% of CML patients.
@@ -394,5 +393,7 @@ Skin and Subcutaneous Tissue Disorders: lichenoid keratosis, lichen planus, toxi
 Musculoskeletal and Connective Tissue Disorders: avascular necrosis/hip osteonecrosis, rhabdomyolysis/myopathy, growth retardation in children, musculoskeletal pain upon treatment discontinuation (including myalgia, pain in extremity, arthalgia, bone pain)
 
 Reproduction Disorders: hemorrhagic corpus luteum/hemorrhagic ovarian cyst
+
+Blood and Lymphatic System Disorders: thrombotic microangiopathy
 
 1Including some fatalities

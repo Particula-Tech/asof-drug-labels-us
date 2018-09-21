@@ -74,7 +74,7 @@ A dose of 100 mg/day was tolerated in two patients with severe renal impairment 
 ## 2.13 Dose Adjustment for Hepatotoxicity and Non-Hematologic Adverse Reactions
 
 If elevations in bilirubin greater than 3 times the institutional upper limit of normal (IULN) or in liver transaminases greater than 5 times the IULN occur, imatinib mesylate tablets should be withheld until bilirubin levels have returned to a less than 1.5 times the IULN and transaminase levels to less than 2.5 times the IULN.
-In adults, treatment with imatinib mesylate tablets may then be continued at a reduced daily dose (i.e., 400 mg to 300 mg, 600 mg to 400 mg or 800 mg to 600 mg (imatinib as free base)).
+In adults, treatment with imatinib mesylate tablets may then be continued at a reduced daily dose (i.e., 400 mg to 300 mg, 600 mg to 400 mg or 800 mg to 600 mg (imatinib as free base).
 In children, daily doses can be reduced under the same circumstances from 340 mg/m2/day to 260 mg/m2/day (imatinib as free base).
 
 If a severe non-hematologic adverse reaction develops (such as severe hepatotoxicity or severe fluid retention), imatinib mesylate tablets should be withheld until the event has resolved.

@@ -40,4 +40,4 @@ APOTEX INC. Imatinib Mesylate Tablets 100 mg and 400 mg
 | Apotex Inc. | Apotex Corp. |
 | Toronto, Ontario Canada M9L 1T9 | Weston Florida USA 33326 |
 
-Revised: October 2017 Revision: 16
+Revised: September 2018 Revision: 17
