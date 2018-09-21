@@ -5,7 +5,7 @@ Dosage should be adjusted to the needs of the individual patients.
 A low initial daily dosage with gradual increase is advised.
 As soon as adequate control is achieved, the dosage may be reduced very gradually to the minimum effective level.
 Carbamazepine extended-release capsules may be taken with or without food.
-Carbamazepine extended-release capsules may be swallowed whole or may be opened and all the granules sprinkled on a teaspoon of soft food such as applesauce.
+Carbamazepine extended-release capsules may be swallowed whole or may be opened and all the beads sprinkled on a teaspoon of soft food such as applesauce.
 Make sure all of the food and medicine mixture is swallowed.
 Do not crush or chew carbamazepine extended-release capsules or the sprinkled beads.
 
@@ -29,7 +29,7 @@ If satisfactory clinical response has not been achieved, plasma levels should be
 No recommendation regarding the safety of carbamazepine extended-release capsules for use at doses above 35 mg/kg/24 hours can be made.
 
 Combination Therapy: Carbamazepine extended-release capsules may be used alone or with other anticonvulsants.
-When added to existing anticonvulsant therapy, the drug should be added gradually while the other anticonvulsants are maintained or gradually decreased, except phenytoin, which may have to be increased (see PRECAUTIONS, Drug Interactions, and Pregnancy Category D).
+When added to existing anticonvulsant therapy, the drug should be added gradually while the other anticonvulsants are maintained or gradually decreased, except phenytoin, which may have to be increased (see PRECAUTIONS, Drug Interactions).
 
 Trigeminal Neuralgia (see INDICATIONS AND USAGE)
 

@@ -39,7 +39,7 @@ Of 5,645 cases of carbamazepine exposures reported to US poison centers in 2002,
 Over 39% of the cases reported to these poison centers were managed safely at home with conservative care.
 Successful management of large or intentional carbamazepine exposures requires implementation of supportive care, frequent monitoring of serum drug concentrations, as well as aggressive but appropriate gastric decontamination.
 
-Elimination of the Drug
+Elimination of the Drug:
 
 The primary method for gastric decontamination of carbamazepine overdose is use of activated charcoal.
 For substantial recent ingestions, gastric lavage may also be considered.
@@ -48,31 +48,31 @@ There is no specific antidote.
 In overdose, absorption of carbamazepine may be prolonged and delayed.
 More than one dose of activated charcoal may be beneficial in patients that have evidence of continued absorption (e.g., rising serum carbamazepine levels).
 
-Measures to Accelerate Elimination
+Measures to Accelerate Elimination:
 
 The data on use of dialysis to enhance elimination in carbamazepine is scarce.
 Dialysis, particularly high flux or high efficiency hemodialysis, may be considered in patients with severe carbamazepine poisoning associated with renal failure or in cases of status epilepticus, or where there are rising serum drug levels and worsening clinical status despite appropriate supportive care and gastric decontamination.
 For severe cases of carbamazepine overdose unresponsive to other measures, charcoal hemoperfusion may be used to enhance drug clearance.
 
-Respiratory Depression
+Respiratory Depression:
 
 Keep the airways free; resort, if necessary, to endotracheal intubation, artificial respiration, and administration of oxygen.
 
-Hypotension, Shock
+Hypotension, Shock:
 
 Keep the patient's legs raised and administer a plasma expander.
 If blood pressure fails to rise despite measures taken to increase plasma volume, use of vasoactive substances should be considered.
 
-Convulsions
+Convulsions:
 
 Diazepam or barbiturates.
 
-Warning
+Warning:
 
 Diazepam or barbiturates may aggravate respiratory depression (especially in children), hypotension, and coma.
 However, barbiturates should not be used if drugs that inhibit monoamine oxidase have also been taken by the patient either in overdosage or in recent therapy (within 1 week).
 
-Surveillance
+Surveillance:
 
 Respiration, cardiac function (ECG monitoring), blood pressure, body temperature, pupillary reflexes, and kidney and bladder function should be monitored for several days.
 

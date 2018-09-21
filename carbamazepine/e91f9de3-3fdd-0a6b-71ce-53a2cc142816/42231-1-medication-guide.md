@@ -1,5 +1,7 @@
 Medication Guide Carbamazepine Extended-Release Capsules
 
+(kar” ba maz’ e peen)
+
 Read this Medication Guide before you start taking carbamazepine extended-release capsules and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
@@ -193,7 +195,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store carbamazepine extended-release capsules?
 
-Store at 20˚ to 25°C (68˚ to 77°F); excursions permitted to 15˚ to 30°C (59˚ to 86°F) [see USP Controlled Room Temperature].
+Store at 20˚C to 25°C (68˚F to 77°F); excursions permitted to 15˚C to 30°C (59˚F to 86°F) [see USP Controlled Room Temperature].
 Dispense in a tight, light-resistant container [see USP].
 
 Keep carbamazepine extended-release capsules and all medicines out of the reach of children.
@@ -215,11 +217,11 @@ What are the ingredients in carbamazepine extended-release capsules?
 
 Active ingredient: carbamazepine
 
-Inactive ingredients: ethylcellulose, colloidal silicon dioxide, and stearic acid.
+Inactive ingredients: colloidal silicon dioxide, ethylcellulose, and stearic acid.
 
 In addition:
 
-- the 100 mg, 200 mg and 300 mg capsule shells contain gelatin-NF, FD&C Blue #2, yellow iron oxide, titanium dioxide and are imprinted with black ink.
+- the 100 mg, 200 mg and 300 mg capsule shells contain FD&C Blue #2, gelatin, iron oxide yellow, titanium dioxide and are imprinted with black ink (S-1-8114 andS-1-8115) contain FD&C BLUE #2, FD&C RED #40, FD&C BLUE #1, D&C YELLOW #10 and shellac.
 
 This Medication Guide has been approved by the US Food and Drug Administration.
 
@@ -228,7 +230,7 @@ APOTEX INC. CARBAMAZEPINE EXTENDED-RELEASE CAPSULES 100 mg, 200 mg and 300 mg
 | Manufactured by: Apotex Inc. Toronto, Ontario Canada M9L 1T9 | Manufactured for: Apotex Corp. Weston, Florida USA 33326 |
 | --- | --- |
 
-Revised: June 2013
+Revised: September 2018
 
 Rev.
-6
+7

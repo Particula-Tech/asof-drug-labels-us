@@ -194,7 +194,7 @@ Since dizziness and drowsiness may occur, patients should be cautioned about the
 
 Patients should be encouraged to enroll in the NAAED Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-To enroll, patients can call the toll free number 1-888-233-2334 (see WARNINGS, Usage in Pregnancy).
+To enroll, patients can call the toll free number 1-888-233-2334 (see Warnings, Usage in Pregnancy).
 
 If necessary, the carbamazepine extended-release capsules can be opened and the contents sprinkled over food, such as a teaspoon of applesauce or other similar food products.
 Carbamazepine extended-release capsules or their contents should not be crushed or chewed.
@@ -207,7 +207,7 @@ See FDA approved Medication Guide.
 
 ## Laboratory Tests
 
-For genetically at-risk patients (See WARNINGS), high-resolution ‘HLA-B*1502 typing’ is recommended.
+For genetically at-risk patients [See WARNINGS], high-resolution ‘HLA-B*1502 typing’ is recommended.
 The test is positive if either one or two HLA-B*1502 alleles are detected and negative if no HLA-B*1502 alleles are detected.
 
 Complete pretreatment blood counts, including platelets and possibly reticulocytes and serum iron, should be obtained as a baseline.
@@ -236,11 +236,11 @@ Interference with some pregnancy tests has been reported.
 
 Clinically meaningful drug interactions have occurred with concomitant medications and include, but are not limited to the following:
 
-Agents Highly Bound to Plasma Protein
+Agents Highly Bound to Plasma Protein:
 
 Carbamazepine is not highly bound to plasma proteins; therefore, administration of carbamazepine extended-release capsules to a patient taking another drug that is highly protein bound should not cause increased free concentrations of the other drug.
 
-Agents that Inhibits Cytochrome P450 Isoenzymes and/or Epoxide Hydrolase
+Agents that Inhibit Cytochrome P450 Isoenzymes and/or Epoxide Hydrolase:
 
 Carbamazepine is metabolized mainly by cytochrome P450 (CYP) 3A4 to the active carbamazepine 10, 11-epoxide, which is further metabolized to the trans-diol by epoxide hydrolase.
 Therefore, the potential exists for interaction between carbamazepine and any agent that inhibits CYP3A4 and/or epoxide hydrolase.
@@ -252,7 +252,7 @@ Acetazolamide, azole antifungals, cimetidine, clarithromycin(1), dalfopristin, d
 
 Thus, if a patient has been titrated to a stable dosage of carbamazepine extended-release capsules, and then begins a course of treatment with one of these CYP3A4 or epoxide hydrolase inhibitors, it is reasonable to expect that a dose reduction for carbamazepine extended-release capsules may be necessary.
 
-Agents that Induce Cytochrome P450 Isoenzymes
+Agents that Induce Cytochrome P450 Isoenzymes:
 
 Carbamazepine is metabolized by CYP3A4.
 Therefore, the potential exists for interaction between carbamazepine and any agent that induces CYP3A4.
@@ -264,27 +264,27 @@ Cisplatin, doxorubicin HCL, felbamate, rifampin, phenobarbital, phenytoin(2), pr
 
 Thus, if a patient has been titrated to a stable dosage on carbamazepine extended-release capsules, and then begins a course of treatment with one of these CYP3A4 inducers, it is reasonable to expect that a dose increase for carbamazepine extended-release capsules may be necessary.
 
-Agents with Decreased Levels in the Presence of Carbamazepine due to Induction of Cytochrome P450 Enzymes
+Agents with Decreased Levels in the Presence of Carbamazepine due to Induction of Cytochrome P450 Enzymes:
 
 Carbamazepine is known to induce CYP1A2 and CYP3A4.
 Therefore, the potential exists for interaction between carbamazepine and any agent metabolized by one (or more) of these enzymes.
 Agents that have been found, or are expected to have decreased plasma levels in the presence of carbamazepine extended-release capsules due to induction of CYP enzymes are the following:
 
-Acetaminophen, alprazolam, amitriptyline, bupropion, buspirone, citalopram, clobazam, clonazepam, clozapine, cyclosporin, delavirdine, desipramine, diazepam, dicumarol, doxycycline, ethosuximide, felbamate, felodipine, glucocorticoids, haloperidol, itraconazole, lamotrigine, levothyroxine, lorazepam, methadone, midazolam, mirtazapine, nefazodone(7), nortriptyline, olanzapine, oral and other hormonal contraceptives(3), oxcarbazepine, phenytoin(4), praziquantel, protease inhibitors, quetiapine, risperidone, theophylline, topiramate, tiagabine, tramadol, triazolam, trazodone(5), valproate, warfarin(6), ziprasidone, and zonisamide.
+Acetaminophen, alprazolam, amitriptyline, bupropion, buspirone, citalopram, clobazam, clonazepam, clozapine, cyclosporin, delavirdine, desipramine, diazepam, dicumarol, doxycycline, ethosuximide, felbamate, felodipine, glucocorticoids, haloperidol, itraconazole, lamotrigine, levothyroxine, lorazepam, methadone, midazolam, mirtazapine, nefazodone(3), nortriptyline, olanzapine, oral and other hormonal contraceptives(4), oxcarbazepine, phenytoin(5), praziquantel, protease inhibitors, quetiapine, risperidone, theophylline, topiramate, tiagabine, tramadol, triazolam, trazodone(6), valproate, warfarin(7), ziprasidone, and zonisamide.
 
-(3) Concomitant use of carbamazepine with hormonal contraceptive products (e.g., oral and levonorgestrel subdermal implant contraceptives) may render the contraceptives less effective because the plasma concentrations of the hormones may be decreased.
+(3)Coadministration of carbamazepine and nefazodone may result in insufficient plasma concentrations of nefazodone and its active metabolite to achieve a therapeutic effect.
+Coadministration of carbamazepine with nefazodone is contraindicated (see CONTRAINDICATIONS).
+
+(4) Concomitant use of carbamazepine with hormonal contraceptive products (e.g., oral and levonorgestrel subdermal implant contraceptives) may render the contraceptives less effective because the plasma concentrations of the hormones may be decreased.
 Breakthrough bleeding and unintended pregnancies have been reported with carbamazepine.
 Alternative or back-up methods of contraception should be considered.
 
-(4) Phenytoin has also been reported to increase in the presence of carbamazepine.
+(5) Phenytoin has also been reported to increase in the presence of carbamazepine.
 Careful monitoring of phenytoin plasma levels following co-medication with carbamazepine is advised.
 
-(5) Following co-administration of carbamazepine 400 mg/day with trazodone 100 mg to 300 mg daily, carbamazepine reduced trough plasma concentrations of trazodone (as well as meta-chlorophenylpiperazine [mCPP]) by 76 and 60% respectively, compared to precarbamazepine values.
+(6) Following co-administration of carbamazepine 400 mg/day with trazodone 100 mg to 300 mg daily, carbamazepine reduced trough plasma concentrations of trazodone (as well as meta-chlorophenylpiperazine [mCPP]) by 76 and 60% respectively, compared to precarbamazepine values.
 
-(6) Warfarin’s anticoagulant effect can be reduced in the presence of carbamazepine.
-
-(7) Coadministration of carbamazepine and nefazodone may result in insufficient plasma concentrations of nefazodone and its active metabolite to achieve a therapeutic effect.
-Coadministration of carbamazepine with nefazodone is contraindicated (see CONTRAINDICATIONS).
+(7) Warfarin’s anticoagulant effect can be reduced in the presence of carbamazepine.
 
 Thus, if a patient has been titrated to a stable dosage on one of the agents in this category, and then begins a course of treatment with carbamazepine extended-release capsules, it is reasonable to expect that a dose increase for the concomitant agent may be necessary.
 
@@ -322,7 +322,7 @@ The significance of these findings relative to the use of carbamazepine in human
 
 ## Usage in Pregnancy
 
-Pregnancy Category D (See WARNINGS)
+(See WARNINGS)
 
 ## Labor and Delivery
 
