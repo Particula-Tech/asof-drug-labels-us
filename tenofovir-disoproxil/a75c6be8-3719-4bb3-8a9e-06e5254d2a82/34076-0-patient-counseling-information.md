@@ -27,7 +27,7 @@ Inform patients that:
   Tenofovir disoproxil fumarate should be avoided with concurrent or recent use of a nephrotoxic agent (e.g., high-dose or multiple NSAIDs) [see Warnings and Precautions (5.2)].
 - Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported.
   Treatment with tenofovir disoproxil fumarate should be suspended in any patient who develops clinical symptoms suggestive of lactic acidosis or pronounced hepatotoxicity [see Warnings and Precautions (5.3)].
-- Tenofovir disoproxil fumarate should not be coadministered with ATRIPLA, COMPLERA, DESCOVY, GENVOYA, ODEFSEY, STRIBILD, TRUVADA, or VEMLIDY [see Warnings and Precautions (5.4)].
+- Tenofovir disoproxil fumarate should not be coadministered with ATRIPLA, BIKTARVY, COMPLERA, DESCOVY, GENVOYA, ODEFSEY, STRIBILD, TRUVADA, or VEMLIDY [see Warnings and Precautions (5.4)].
 - Tenofovir disoproxil fumarate should not be administered in combination with HEPSERA [See Warnings and Precautions (5.4)].
 - Decreases in bone mineral density have been observed with the use of tenofovir disoproxil fumarate.
   Bone mineral density monitoring should be considered in patients who have a history of pathologic bone fracture or at risk for osteopenia [see Warnings and Precautions (5.6)].

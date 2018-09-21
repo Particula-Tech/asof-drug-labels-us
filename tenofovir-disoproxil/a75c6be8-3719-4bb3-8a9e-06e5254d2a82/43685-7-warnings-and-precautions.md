@@ -17,7 +17,7 @@ In patients at risk of renal dysfunction, including patients who have previously
 Dosing interval adjustment of tenofovir disoproxil fumarate and close monitoring of renal function are recommended in all patients with creatinine clearance below 50 mL/min [see Dosage and Administration (2.3)].
 No safety or efficacy data are available in patients with renal impairment who received tenofovir disoproxil fumarate using these dosing guidelines, so the potential benefit of tenofovir disoproxil fumarate therapy should be assessed against the potential risk of renal toxicity.
 
-Tenofovir disoproxil fumarate should be avoided with concurrent or recent use of a nephrotoxic agent (e.g., high-dose or multiple non-steroidal anti-inflammatory drugs (NSAIDs)) [see Drug Interactions (7.4)].
+Tenofovir disoproxil fumarate should be avoided with concurrent or recent use of a nephrotoxic agent (e.g., high-dose or multiple non-steroidal anti-inflammatory drugs (NSAIDs)) [see Drug Interactions (7.1)].
 Cases of acute renal failure after initiation of high dose or multiple NSAIDs have been reported in HIV-infected patients with risk factors for renal dysfunction who appeared stable on tenofovir DF.
 Some patients required hospitalization and renal replacement therapy.
 Alternatives to NSAIDs should be considered, if needed, in patients at risk for renal dysfunction.
@@ -31,8 +31,8 @@ Treatment with tenofovir disoproxil fumarate should be suspended in any patient 
 
 ## 5.4 Coadministration with Other Products
 
-Tenofovir disoproxil fumarate should not be used in combination with other drugs containing tenofovir DF or tenofovir alafenamide, including ATRIPLA, COMPLERA, DESCOVY, GENVOYA, ODEFSEY, STRIBILD, TRUVADA, or VEMLIDY.
-VIREAD should not be administered in combination with HEPSERA (adefovir dipivoxil) [see Drug Interactions (7.4)].
+Tenofovir disoproxil fumarate should not be used in combination with other drugs containing tenofovir DF or tenofovir alafenamide, including ATRIPLA, BIKTARVY, COMPLERA, DESCOVY, GENVOYA, ODEFSEY, STRIBILD, TRUVADA, or VEMLIDY.
+VIREAD should not be administered in combination with HEPSERA (adefovir dipivoxil) [see Drug Interactions (7.2)].
 
 ## 5.5 Patients Coinfected with HIV-1 and HBV
 

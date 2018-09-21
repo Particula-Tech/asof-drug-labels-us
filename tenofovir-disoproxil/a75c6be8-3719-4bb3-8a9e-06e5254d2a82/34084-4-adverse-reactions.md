@@ -15,7 +15,7 @@ Clinical Trials in Adult Patients with HIV-1 Infection More than 12,000 subjects
 A total of 1544 subjects have received tenofovir disoproxil fumarate 300 mg once daily in clinical trials; over 11,000 subjects have received tenofovir disoproxil fumarate in expanded access programs.
 The most common adverse reactions (incidence greater than or equal to 10%, Grades 2 to 4) identified from any of the 3 large controlled clinical trials include rash, diarrhea, headache, pain, depression, asthenia, and nausea.
 Treatment-Naïve Patients Study 903 - Treatment-Emergent Adverse Reactions: The most common adverse reactions seen in a double-blind comparative controlled trial in which 600 treatment-naïve subjects received tenofovir disoproxil fumarate (N=299) or stavudine (N=301) in combination with lamivudine and efavirenz for 144 weeks (Study 903) were mild to moderate gastrointestinal events and dizziness.
-Mild adverse reactions (Grade 1) were common with a similar incidence in both arms, and included dizziness, diarrhea, and nausea.
+Mild adverse reactions (Grade 1) were common with a similar incidence in both arms and included dizziness, diarrhea, and nausea.
 Selected treatment-emergent moderate to severe adverse reactions are summarized in Table 4.
 
 Table 4 Selected Treatment-Emergent Adverse Reactionsa (Grades 2 to 4) Reported in ≥5% in Any Treatment Group in Study 903 (0 to 144 Weeks)
@@ -193,11 +193,11 @@ Changes in Bone Mineral Density:
 
 Clinical trials in HIV-1 infected children and adolescents evaluated BMD changes.
 In Study 321 (12 to less than 18 years), the mean rate of BMD gain at Week 48 was less in the tenofovir disoproxil fumarate compared to the placebo treatment group.
-Six tenofovir disoproxil fumarate treated subjects and one placebo treated subject had significant (greater than 4%) lumbar spine BMD loss at Week 48.
+Six tenofovir disoproxil fumarate-treated subjects and one placebo-treated subject had significant (greater than 4%) lumbar spine BMD loss at Week 48.
 Changes from baseline BMD Z-scores were -0.341 for lumbar spine and -0.458 for total body in the 28 subjects who were treated with tenofovir disoproxil fumarate for 96 weeks.
 In Study 352 (2 to less than 12 years), the mean rate of BMD gain in lumbar spine at Week 48 was similar between the tenofovir disoproxil fumarate and the d4T or AZT treatment groups.
 Total body BMD gain was less in the tenofovir disoproxil fumarate compared to the d4T or AZT treatment groups.
-One tenofovir disoproxil fumarate-treated subject and none of the d4T or AZT-treated subjects experienced significant (greater than 4%) lumbar spine BMD loss at Week 48.
+One tenofovir disoproxil fumarate-treated subject and none of the d4T- or AZT-treated subjects experienced significant (greater than 4%) lumbar spine BMD loss at Week 48.
 Changes from baseline in BMD Z scores were -0.012 for lumbar spine and -0.338 for total body in the 64 subjects who were treated with tenofovir disoproxil fumarate for 96 weeks.
 In both trials, skeletal growth (height) appeared to be unaffected [see Warnings and Precautions (5.6)].
 Clinical Trials in Adult Subjects with Chronic Hepatitis B and Compensated Liver Disease Treatment-Emergent Adverse Reactions: In controlled clinical trials in 641 subjects with chronic hepatitis B (0102 and 0103), more subjects treated with tenofovir disoproxil fumarate during the 48-week double-blind period experienced nausea: 9% with tenofovir disoproxil fumarate versus 2% with HEPSERA.

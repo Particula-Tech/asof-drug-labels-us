@@ -15,14 +15,14 @@ The dose is one tablet once daily taken orally, without regard to food.
 Table 2 contains dosing recommendations for tenofovir disoproxil fumarate tablets based on body weight.
 Weight should be monitored periodically and the tenofovir disoproxil fumarate tablets dose adjusted accordingly.
 
-Table 2 Dosing Recommendations for Pediatric Patients ≥2 Years of Age and Weighing ≥17 kg Using Tenofovir Disoproxil Fumarate Tablets
+Table 2 Dosing Recommendations for Pediatric Patients 2 Years of Age and Older and Weighing At Least 17 kg Using Tenofovir Disoproxil Fumarate Tablets
 
 | Body Weight Kilogram (kg) | Tablets Once Daily |
 | --- | --- |
-| 17 to <22 | 150 mg |
-| 22 to <28 | 200 mg |
-| 28 to <35 | 250 mg |
-| ≥35 | 300 mg |
+| 17 to less than 22 | 150 mg |
+| 22 to less than 28 | 200 mg |
+| 28 to less than 35 | 250 mg |
+| 35 or greater | 300 mg |
 
 Chronic Hepatitis B Safety and efficacy of tenofovir disoproxil fumarate tablets in patients younger than 12 years of age have not been established.
 
@@ -40,9 +40,9 @@ Table 3 Dosage Adjustment for Patients with Altered Creatinine Clearance
 
 |  | Creatinine Clearance (mL/min)a |  |  | Hemodialysis Patients |
 | --- | --- | --- | --- | --- |
-| ≥50 | 30 to 49 | 10 to 29 |  |  |
+| 50 or greater | 30 to 49 | 10 to 29 |  |  |
 | Recommended 300 mg Dosing Interval | Every 24 hours | Every 48 hours | Every 72 to 96 hours | Every 7 days or after a total of approximately 12 hours of dialysisb |
-| a. Calculated using ideal (lean) body weight. b. Generally once weekly assuming three hemodialysis sessions a week of approximately 4 hours' duration. Tenofovir disoproxil fumarate tablets should be administered following completion of dialysis. |  |  |  |  |
+| a. Calculated using ideal (lean) body weight. b. Generally once weekly assuming three hemodialysis sessions a week of approximately 4 hours duration. Tenofovir disoproxil fumarate tablets should be administered following completion of dialysis. |  |  |  |  |
 
 The pharmacokinetics of tenofovir have not been evaluated in non-hemodialysis patients with creatinine clearance below 10 mL/min; therefore, no dosing recommendation is available for these patients.
 No data are available to make dose recommendations in pediatric patients with renal impairment.

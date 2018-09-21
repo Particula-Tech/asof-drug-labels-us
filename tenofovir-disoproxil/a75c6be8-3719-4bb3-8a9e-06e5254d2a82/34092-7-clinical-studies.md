@@ -7,9 +7,9 @@ Subjects had a mean age of 36 years (range 18 to 64); 74% were male, 64% were Ca
 The mean baseline CD4+ cell count was 279 cells/mm3 (range 3 to 956) and median baseline plasma HIV-1 RNA was 77,600 copies/mL (range 417 to 5,130,000).
 Subjects were stratified by baseline HIV-1 RNA and CD4+ cell count.
 Forty-three percent of subjects had baseline viral loads >100,000 copies/mL and 39% had CD4+ cell counts <200 cells/mm3.
-Treatment outcomes through 48 and 144 weeks are presented in Table 17.
+Treatment outcomes through 48 and 144 weeks are presented in Table 18.
 
-Table 17 Outcomes of Randomized Treatment at Week 48 and 144 (Study 903)
+Table 18 Outcomes of Randomized Treatment at Week 48 and 144 (Study 903)
 
 | Tenofovir Disoproxil Fumarate + 3TC+EFV (N=299) | d4T+3TC +EFV (N=301) | Tenofovir Disoproxil Fumarate + 3TC+EFV (N=299) | d4T+3TC+ EFV (N=301) |  |
 | --- | --- | --- | --- | --- |
@@ -33,9 +33,9 @@ From Weeks 96 to 144 of the trial, subjects received a fixed-dose combination of
 Subjects had a mean age of 38 years (range 18 to 80); 86% were male, 59% were Caucasian, and 23% were Black.
 The mean baseline CD4+ cell count was 245 cells/mm3 (range 2 to 1191) and median baseline plasma HIV-1 RNA was 5.01 log10 copies/mL (range 3.56 to 6.54).
 Subjects were stratified by baseline CD4+ cell count (< or ≥200 cells/mm3); 41% had CD4+ cell counts <200 cells/mm3 and 51% of subjects had baseline viral loads >100,000 copies/mL.
-Treatment outcomes through 48 and 144 weeks for those subjects who did not have efavirenz resistance at baseline are presented in Table 18.
+Treatment outcomes through 48 and 144 weeks for those subjects who did not have efavirenz resistance at baseline are presented in Table 19.
 
-Table 18 Outcomes of Randomized Treatment at Week 48 and 144 (Study 934)
+Table 19 Outcomes of Randomized Treatment at Week 48 and 144 (Study 934)
 
 | FTC+ Tenofovir Disoproxil Fumarate + EFV (N=244) | AZT/3TC+ EFV (N=243) | FTC+ Tenofovir Disoproxil Fumarate + EFV (N=227)a | AZT/3TC+ EFV (N=229)a |  |
 | --- | --- | --- | --- | --- |
@@ -59,9 +59,9 @@ Treatment-Experienced Adult Patients Study 907 Study 907 was a 24-week, double-b
 After 24 weeks of blinded trial treatment, all subjects continuing on trial were offered open-label tenofovir disoproxil fumarate for an additional 24 weeks.
 Subjects had a mean baseline CD4+ cell count of 427 cells/mm3 (range 23 to 1385), median baseline plasma HIV-1 RNA of 2340 (range 50 to 75,000) copies/mL, and mean duration of prior HIV-1 treatment was 5.4 years.
 Mean age of the subjects was 42 years; 85% were male, 69% Caucasian, 17% Black, and 12% Hispanic.
-The percent of subjects with HIV-1 RNA <400 copies/mL and outcomes of subjects through 48 weeks are summarized in Table 19.
+The percent of subjects with HIV-1 RNA <400 copies/mL and outcomes of subjects through 48 weeks are summarized in Table 20.
 
-Table 19 Outcomes of Randomized Treatment (Study 907)
+Table 20 Outcomes of Randomized Treatment (Study 907)
 
 | Tenofovir Disoproxil Fumarate (N=368) | Placebo (N=182) | Tenofovir Disoproxil Fumarate (N=368) | Placebo Crossover to Tenofovir Disoproxil Fumarate (N=170) |  |
 | --- | --- | --- | --- | --- |
@@ -86,9 +86,9 @@ HBeAg-Positive Chronic Hepatitis B Study 0103 was a Phase 3, randomized, double-
 The mean age of subjects was 34 years; 69% were male, 36% were Asian, 52% were Caucasian, 16% had previously received alpha-interferon therapy, and <5% were nucleoside experienced.
 At baseline, subjects had a mean Knodell necroinflammatory score of 8.4; mean plasma HBV DNA was 8.7 log10 copies/mL; and mean serum ALT was 147 U/L.
 The primary data analysis was conducted after all subjects reached 48 weeks of treatment and results are summarized below.
-The primary efficacy endpoint in both trials was complete response to treatment defined as HBV DNA <400 copies/mL (69 IU/mL) and Knodell necroinflammatory score improvement of at least 2 points, without worsening in Knodell fibrosis at Week 48 (Table 20).
+The primary efficacy endpoint in both trials was complete response to treatment defined as HBV DNA <400 copies/mL (69 IU/mL) and Knodell necroinflammatory score improvement of at least 2 points, without worsening in Knodell fibrosis at Week 48 (Table 21).
 
-Table 20 Histological, Virological, Biochemical, and Serological Response at Week 48
+Table 21 Histological, Virological, Biochemical, and Serological Response at Week 48
 
 | Tenofovir Disoproxil Fumarate (N=250) | HEPSERA (N=125) | Tenofovir Disoproxil Fumarate (N=176) | HEPSERA (N=90) |  |
 | --- | --- | --- | --- | --- |
@@ -117,7 +117,7 @@ In the subjects without cirrhosis at baseline (Ishak fibrosis score 0 to 4), 92%
 In subjects with cirrhosis at baseline (Ishak fibrosis score 5 to 6), 97% (90/93) and 99% (92/93) had either improvement or no change in Ishak fibrosis score at Week 48 and Week 240, respectively.
 Twenty-nine percent (27/93) and 72% (67/93) of subjects with cirrhosis at baseline experienced regression of cirrhosis by Week 48 and Week 240, respectively, with a reduction in Ishak fibrosis score of at least 2 points.
 No definitive conclusions can be established about the remaining study population who were not part of this subset analysis.
-Patients with Lamivudine-Resistant Chronic Hepatitis B Study 121 was a randomized, double-blind, active-controlled trial evaluating the safety and efficacy of tenofovir disoproxil fumarate compared to an unapproved antiviral regimen in subjects with chronic hepatitis B, persistent viremia (HBV DNA ≥1,000 IU/mL), and genotypic evidence of lamivudine resistance (rtM204I/V +/-rtL180M).
+Patients with Lamivudine-Resistant Chronic Hepatitis B Study 121 was a randomized, double-blind, active-controlled trial evaluating the safety and efficacy of tenofovir disoproxil fumarate compared to an unapproved antiviral regimen in subjects with chronic hepatitis B, persistent viremia (HBV DNA ≥1000 IU/mL), and genotypic evidence of lamivudine resistance (rtM204I/V +/-rtL180M).
 One hundred forty-one adult subjects were randomized to the tenofovir disoproxil fumarate treatment arm.
 The mean age of subjects randomized to tenofovir disoproxil fumarate was 47 years (range 18 to 73); 74% were male, 59% were Caucasian, and 37% were Asian.
 At baseline, 54% of subjects were HBeAg-negative, 46% were HBeAg-positive, and 56% had abnormal ALT.
