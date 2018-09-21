@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA205648"
+  ],
+  "inn": "palonosetron",
+  "labeler": "Qilu Pharmaceutical Co., Ltd.",
+  "package_ndcs": [
+    "67184-0514-1",
+    "67184-0515-1",
+    "67184-0515-2"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "palonosetron hydrochloride",
+      "name": "Palonosetron"
+    }
+  ],
+  "setid": "633abdc2-a942-4eb2-a0f8-f9f4e727211e",
+  "source": "dailymed"
+}
