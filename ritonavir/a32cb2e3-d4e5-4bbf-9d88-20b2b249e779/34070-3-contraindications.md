@@ -5,9 +5,11 @@
 - Ritonavir is contraindicated with drugs that are highly dependent on CYP3A for clearance and for which elevated plasma concentrations are associated with serious and/or life-threatening reactions.
 - Ritonavir is contraindicated with drugs that are potent CYP3A inducers where significantly reduced lopinavir plasma concentrations may be associated with the potential for loss of virologic response and possible resistance and cross-resistance.
 
-| Table 2. Drugs that are Contraindicated with Ritonavir |  |  |
-| --- | --- | --- |
+Table 2.
+Drugs that are Contraindicated with Ritonavir
+
 | Drug Class | Drugs Within Class That Are Contraindicated With Ritonavir** | Clinical Comments |
+| --- | --- | --- |
 | Alpha1-adrenoreceptor antagonist | Alfuzosin HCL | Potential for hypotension. |
 | Antianginal | Ranolazine | Potential for serious and/or life-threatening reactions. |
 | Antiarrhythmic | Amiodarone, dronedarone, flecainide, propafenone, quinidine | Potential for cardiac arrhythmias. |
@@ -20,6 +22,4 @@
 | HMG-CoA Reductase Inhibitors | Lovastatin, simvastatin | Potential for myopathy including rhabdomyolysis. |
 | PDE5 inhibitor | Sildenafilb (Revatio®) when used for the treatment of pulmonary arterial hypertension (PAH) | Potential for sildenafil-associated adverse events, including visual abnormalities, hypotension, prolonged erection, and syncope. |
 | Sedative/hypnotics | Oral midazolamc, triazolam | Prolonged or increased sedation or respiratory depression. |
-| a see Drug Interactions (7), Table 5 for colchicine doses in patients with normal hepatic and renal function. |  |  |
-| b see Drug Interactions (7), Table 5 for co-administration of sildenafil in patients with erectile dysfunction. |  |  |
-| c see Drug Interactions (7), Table 5 for parenterally administered midazolam. |  |  |
+| a see Drug Interactions (7), Table 5 for colchicine doses in patients with normal hepatic and renal function.b see Drug Interactions (7), Table 5 for co-administration of sildenafil in patients with erectile dysfunction.c see Drug Interactions (7), Table 5 for parenterally administered midazolam. |  |  |

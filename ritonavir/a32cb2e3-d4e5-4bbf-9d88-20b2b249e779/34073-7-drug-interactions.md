@@ -20,9 +20,11 @@ Ritonavir also appears to induce CYP3A, CYP1A2, CYP2C9, CYP2C19, and CYP2B6 as w
 Table 5 provides a list of established or potentially clinically significant drug interactions.
 Alteration in dose or regimen may be recommended based on drug interaction studies or predicted interaction [see Clinical Pharmacology (12.3)] for magnitude of interaction.
 
-| Table 5. Established and Other Potentially Significant Drug Interactions |  |  |
-| --- | --- | --- |
+Table 5.
+Established and Other Potentially Significant Drug Interactions
+
 | Concomitant Drug Class: Drug Name | Effect on Concentration of Ritonavir or Concomitant Drug | Clinical Comment |
+| --- | --- | --- |
 | HIV-Antiviral Agents |  |  |
 | HIV-1 Protease Inhibitor: atazanavir darunavir fosamprenavir | ↑ amprenavir ↑ atazanavir ↑ darunavir | See the complete prescribing information for fosamprenavir, atazanavir, darunavir for details on co-administration with ritonavir. |
 | HIV-1 Protease Inhibitor: indinavir | ↑ indinavir | Appropriate doses for this combination, with respect to efficacy and safety, have not been established. |

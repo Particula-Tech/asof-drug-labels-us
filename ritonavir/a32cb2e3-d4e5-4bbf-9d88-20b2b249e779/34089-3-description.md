@@ -11,4 +11,4 @@ Ritonavir, USP has a bitter metallic taste.
 It is freely soluble in methanol and ethanol, soluble in isopropanol and practically insoluble in water.
 
 Ritonavir tablets, USP are available for oral administration in a strength of 100 mg ritonavir, USP with the following inactive ingredients: anhydrous dibasic calcium phosphate, colloidal silicon dioxide, copovidone, and sodium stearyl fumarate.
-The following are the ingredients in the film coating: hypromellose, tpolyethylene glycol, talc, and titanium dioxide.
+The following are the ingredients in the film coating: hypromellose, polyethylene glycol, talc, and titanium dioxide.

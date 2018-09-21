@@ -1,20 +1,5 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Ritonavir tablets are administered orally.
-Ritonavir tablets should be swallowed whole, and not chewed, broken or crushed.
-Take ritonavir tablets with meals.
-
-General Dosing Guidelines
-
-Patients who take the 600 mg twice daily soft gel capsule ritonavir dose may experience more gastrointestinal side effects such as nausea, vomiting, abdominal pain or diarrhea when switching from the soft gel capsule to the tablet formulation because of greater maximum plasma concentration (Cmax) achieved with the tablet formulation relative to the soft gel capsule [see Clinical Pharmacology (12.3)].
-Patients should also be aware that these adverse events (gastrointestinal or paresthesias) may diminish as therapy is continued.
-
-Dose Modification for Ritonavir Tablets
-
-Dose reduction of ritonavir tablets is necessary when used with other protease inhibitors: atazanavir, darunavir, fosamprenavir, saquinavir, and tipranavir.
-
-Prescribers should consult the full prescribing information and clinical study information of these protease inhibitors if they are co-administered with a reduced dose of ritonavir [see Warnings and Precautions (5.1), and Drug Interactions (7)].
-
 ## 2.1 General Dosing and Administration Recommendations
 
 - Ritonavir tablets must be used in combination with other antiretroviral agents.

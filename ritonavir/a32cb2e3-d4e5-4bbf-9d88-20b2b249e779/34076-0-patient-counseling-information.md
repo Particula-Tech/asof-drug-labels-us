@@ -49,7 +49,7 @@ Advise patients that treatment with ritonavir therapy can result in substantial 
 
 Diabetes Mellitus/Hyperglycemia
 
-Advise patients that new onset of diabetes or exacerbation of pre-existing diabetes mellitus, and hyperglycemia have been reported and to notify their healthcare provider if they develop the signs and symptoms of diabetes mellitus including frequent urination, excessive thirst, extreme hunger or unusual weight loss and/or an increased blood sugar while on ritonavir as they may require a change in their diabetes treatment or new treatment [see Warnings and Precautions 5.8)].
+Advise patients that new onset of diabetes or exacerbation of pre-existing diabetes mellitus, and hyperglycemia have been reported and to notify their healthcare provider if they develop the signs and symptoms of diabetes mellitus including frequent urination, excessive thirst, extreme hunger or unusual weight loss and/or an increased blood sugar while on ritonavir as they may require a change in their diabetes treatment or new treatment [see Warnings and Precautions (5.8)].
 
 Immune Reconstitution Syndrome
 

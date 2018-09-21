@@ -45,9 +45,11 @@ In a study of five subjects receiving a 600 mg dose of 14C-ritonavir oral soluti
 In that study, 86.4 ± 2.9% of the dose was excreted in the feces with 33.8 ± 10.8% of the dose excreted as unchanged parent drug.
 Upon multiple dosing, ritonavir accumulation is less than predicted from a single dose possibly due to a time and dose-related increase in clearance.
 
-| Table 6. Ritonavir Pharmacokinetic Characteristics |  |  |
-| --- | --- | --- |
+Table 6.
+Ritonavir Pharmacokinetic Characteristics
+
 | Parameter | N | Values (Mean ± SD) |
+| --- | --- | --- |
 | Vβ/F‡ | 91 | 0.41 ± 0.25 L/kg |
 | t½ |  | 3 to 5 h |
 | CL/F SS† | 10 | 8.8 ± 3.2 L/h |
@@ -55,9 +57,7 @@ Upon multiple dosing, ritonavir accumulation is less than predicted from a singl
 | CLR | 62 | < 0.1 L/h |
 | RBC/Plasma Ratio |  | 0.14 |
 | Percent Bound* |  | 98 to 99% |
-| † SS = steady-state; patients taking ritonavir 600 mg q12h. |  |  |
-| ‡ Single ritonavir 600 mg dose. |  |  |
-| * Primarily bound to human serum albumin and alpha-1 acid glycoprotein over the ritonavir concentration range of 0.01 to 30 mcg/mL. |  |  |
+| † SS = steady-state; patients taking ritonavir 600 mg q12h.‡ Single ritonavir 600 mg dose.* Primarily bound to human serum albumin and alpha-1 acid glycoprotein over the ritonavir concentration range of 0.01 to 30 mcg/mL. |  |  |
 
 Cardiac Electrophysiology
 
@@ -107,14 +107,16 @@ Based on evaluation of the published literature, ritonavir exposures are reduced
 
 Drug Interactions
 
-[see also Contraindications (4), Warnings and Precautions (5.1), andDrug Interactions (7)]
+[see also Contraindications (4), Warnings and Precautions (5.1), and Drug Interactions (7)]
 
 Table 7 and Table 8 summarize the effects on AUC and Cmax, with 95% confidence intervals (95% CI), of co-administration of ritonavir with a variety of drugs.
 For information about clinical recommendations see Table 5 in Drug Interactions (7).
 
-| Table 7. Drug Interactions - Pharmacokinetic Parameters for Ritonavir in the Presence of the Co-administered Drug |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
+Table 7.
+Drug Interactions - Pharmacokinetic Parameters for Ritonavir in the Presence of the Co-administered Drug
+
 | Co-administered Drug | Dose of Co-administered Drug (mg) | Dose of Ritonavir (mg) | N | AUC % (95% CI) | Cmax (95% CI) | Cmin (95% CI) |
+| --- | --- | --- | --- | --- | --- | --- |
 | Clarithromycin | 500 q12h, 4 d | 200 q8h, 4 d | 22 | ↑ 12% (2, 23%) | ↑ 15% (2, 28%) | ↑ 14% (-3, 36%) |
 | Didanosine | 200 q12h, 4 d | 600 q12h, 4 d | 12 | ↔ | ↔ | ↔ |
 | Fluconazole | 400 single dose, day 1; 200 daily, 4 d | 200 q6h, 4 d | 8 | ↑ 12% (5, 20%) | ↑ 15% (7, 22%) | ↑ 14% (0, 26%) |
@@ -139,7 +141,7 @@ For information about clinical recommendations see Table 5 in Drug Interactions 
 | Meperidine Normeperidine metabolite | 50 oral single dose | 500 q12h, 10 d | 8 6 | ↓ 62% (59, 65%) ↑ 47% (-24, 345%) | ↓ 59% (42, 72%) ↑ 87% (42, 147%) | ND ND |
 | Methadone2 | 5, single dose | 500 q12h, 15 d | 11 | ↓ 36% (16, 52%) | ↓ 38% (28, 46%) | ND |
 | Raltegravir | 400, single dose | 100 q12h, 16 d | 10 | ↓ 16% (-30, 1%) | ↓ 24% (-45, 4%) | ↓ 1% (-30, 40%) |
-| Rivaroxaban | 10, single dose (days 0 and 7) | 600 q12h (days 2 to 7) | 12 | ↑ 150% (130170%)7 | ↑ 60% (4070%)7 | ND |
+| Rivaroxaban | 10, single dose (days 0 and 7) | 600 q12h (days 2 to 7) | 12 | ↑ 150% (130% to 170%)7 | ↑ 60% (40% to 70%)7 | ND |
 | Rifabutin 25-O-desacetyl rifabutin metabolite | 150 daily, 16 d | 500 q12h, 10 d | 5, 11* | ↑ 4-fold (2.8, 6.1X) ↑ 38-fold (28, 56X) | ↑ 2.5-fold (1.9, 3.4X) ↑ 16-fold (13, 20X) | ↑ 6-fold (3.5, 18.3X) ↑ 181-fold (ND) |
 | Sildenafil | 100, single dose | 500 twice daily, 8 d | 28 | ↑ 11-fold | ↑ 4-fold | ND |
 | Simeprevir | 200 mg qd, 7 d | 100 mg bid,15 d | 12 | ↑ 618% (463% to 815%)8 | ↑370% (284% to 476%)8 | ↑1335% (929% to 1901%)8 |
@@ -153,18 +155,7 @@ For information about clinical recommendations see Table 5 in Drug Interactions 
 |  | 400 q12h, 1 d; then 200 q12h, 8 d | 100 q12h, 9 d |  | ↓ 39% | ↓ 24% |  |
 | Warfarin S-Warfarin R-Warfarin | 5, single dose | 400 q12h, 12d | 12 | ↑ 9% (-17, 44%)4 ↓ 33% (-38, -27%)4 | ↓ 9% (-16, -2%)4 ↔ | ND ND |
 | Zidovudine | 200 q8h, 4 d | 300 q6h, 4 d | 9 | ↓ 25% (15, 34%) | ↓ 27% (4, 45%) | ND |
-| 1 Ritonavir and indinavir were co-administered for 15 days; Day 14 doses were administered after a 15%-fat breakfast (757 Kcal) and 9%-fat evening snack (236 Kcal), and Day 15 doses were administered after a 15%-fat breakfast (757 Kcal) and 32%-fat dinner (815 Kcal). Indinavir Cmin was also increased 4-fold. Effects were assessed relative to an indinavir 800 mg q8h regimen under fasting conditions. |  |  |  |  |  |  |
-| 2 Effects were assessed on a dose-normalized comparison to a methadone 20 mg single dose. |  |  |  |  |  |  |
-| 3 Sulfamethoxazole and trimethoprim taken as single combination tablet. |  |  |  |  |  |  |
-| 4 90% CI presented for R- and S-warfarin AUC and Cmax ratios. |  |  |  |  |  |  |
-| 5 This significant increase in plasma fluticasone propionate exposure resulted in a significant decrease (86%) in plasma cortisol AUC. |  |  |  |  |  |  |
-| 6 For the reference arm: N=14 for Cmax and AUC(0-inf), and for the test arm: N=13 for Cmax and N=4 for AUC(0-inf). |  |  |  |  |  |  |
-| 7 90% CI presented for rivaroxaban |  |  |  |  |  |  |
-| 8 90% CI presented for simeprevir (change in exposure presented as percentage increase) |  |  |  |  |  |  |
-| ↑ Indicates increase. |  |  |  |  |  |  |
-| ↓ Indicates decrease. |  |  |  |  |  |  |
-| ↔ Indicates no change. |  |  |  |  |  |  |
-| * Parallel group design; entries are subjects receiving combination and control regimens, respectively. |  |  |  |  |  |  |
+| 1 Ritonavir and indinavir were co-administered for 15 days; Day 14 doses were administered after a 15%-fat breakfast (757 Kcal) and 9%-fat evening snack (236 Kcal), and Day 15 doses were administered after a 15%-fat breakfast (757 Kcal) and 32%-fat dinner (815 Kcal). Indinavir Cmin was also increased 4-fold. Effects were assessed relative to an indinavir 800 mg q8h regimen under fasting conditions.2 Effects were assessed on a dose-normalized comparison to a methadone 20 mg single dose.3 Sulfamethoxazole and trimethoprim taken as single combination tablet.4 90% CI presented for R- and S-warfarin AUC and Cmax ratios.5 This significant increase in plasma fluticasone propionate exposure resulted in a significant decrease (86%) in plasma cortisol AUC.6 For the reference arm: N=14 for Cmax and AUC(0-inf), and for the test arm: N=13 for Cmax and N=4 for AUC(0-inf).7 90% CI presented for rivaroxaban8 90% CI presented for simeprevir (change in exposure presented as percentage increase)↑ Indicates increase.↓ Indicates decrease.↔ Indicates no change.* Parallel group design; entries are subjects receiving combination and control regimens, respectively. |  |  |  |  |  |  |
 
 ## 12.4 Microbiology
 

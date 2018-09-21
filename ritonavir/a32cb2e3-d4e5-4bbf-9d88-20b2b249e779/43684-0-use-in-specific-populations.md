@@ -28,7 +28,7 @@ Clinical Considerations
 
 Dose Adjustments During Pregnancy and the Postpartum Period
 
-Ritonavir oral solution contains alcohol and propylene glycol and is not recommended during pregnancy because there is no known safe level of alcohol exposure during pregnancy [see Dosage and Administration (2.3) andWarnings and Precautions (5.2)].
+Ritonavir oral solution contains alcohol and propylene glycol and is not recommended during pregnancy because there is no known safe level of alcohol exposure during pregnancy [see Dosage and Administration (2.3) and Warnings and Precautions (5.2)].
 
 ### Data
 
