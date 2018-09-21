@@ -2,6 +2,8 @@
 
 ## 1.1 Treatment of Moderate to Severe Vasomotor Symptoms due to Menopause
 
+.
+
 ## 1.2 Prevention of Postmenopausal Osteoporosis
 
 Limitation of Use

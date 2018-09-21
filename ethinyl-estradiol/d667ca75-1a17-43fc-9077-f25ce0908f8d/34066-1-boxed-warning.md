@@ -23,8 +23,6 @@ Endometrial Cancer There is an increased risk of endometrial cancer in a woman w
 Adding a progestin to estrogen therapy has been shown to reduce the risk of endometrial hyperplasia, which may be a precursor to endometrial cancer.
 Adequate diagnostic measures, including directed or random endometrial sampling when indicated, should be undertaken to rule out malignancy in postmenopausal women with undiagnosed persistent or recurring abnormal genital bleeding [see Warnings and Precautions (5.2)].
 
-1. 
-
 Cardiovascular Disorders and Probable Dementia
 
 Estrogen-alone therapy should not be used for the prevention of cardiovascular disease or dementia [see Warnings and Precautions (5.1, 5.3), and Clinical Studies (14.5, 14.6)].

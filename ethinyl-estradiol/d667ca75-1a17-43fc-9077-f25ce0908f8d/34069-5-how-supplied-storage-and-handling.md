@@ -10,8 +10,7 @@ Debossed with stylized b on one side and 125 on
 the other side.
 Available in:
 
-1. Bottle of 90 Tablets NDC 0093- 3122 -98
-2. 5 Blister Cards of 28 Tablets per Carton NDC 0093- 3122 -42
+Bottle of 90 Tablets NDC 0093- 3122 -98 5 Blister Cards of 28 Tablets per Carton NDC 0093- 3122 -42
 
 ## 16.2 Storage and Handling
 
