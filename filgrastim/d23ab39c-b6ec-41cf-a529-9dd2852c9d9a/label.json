@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "BLA761080"
+  ],
+  "inn": "filgrastim",
+  "labeler": "Pfizer Laboratories Div Pfizer Inc",
+  "package_ndcs": [
+    "0069-0291-01",
+    "0069-0291-10",
+    "0069-0292-01",
+    "0069-0292-10",
+    "0069-0293-01",
+    "0069-0293-10",
+    "0069-0294-01",
+    "0069-0294-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "filgrastim-aafi",
+      "name": "Nivestym"
+    }
+  ],
+  "setid": "d23ab39c-b6ec-41cf-a529-9dd2852c9d9a",
+  "source": "dailymed"
+}
