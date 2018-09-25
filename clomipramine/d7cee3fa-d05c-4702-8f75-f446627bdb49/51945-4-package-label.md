@@ -4,7 +4,7 @@ NDC 0406-8806-01
 
 100 Capsules
 
-Clomipramine Hydrochloride Capsules USP
+ClomiPRAMINE Hydrochloride Capsules USP
 
 25 mg
 
@@ -17,9 +17,9 @@ RX only
 
 Mallinckrodt™
 
-2000009035
+2000010729
 
-Rev 08/2017
+Rev 07/2018
 
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 50 mg Bottle
 
@@ -27,7 +27,7 @@ NDC 0406-8807-01
 
 100 Capsules
 
-Clomipramine Hydrochloride Capsules USP
+ClomiPRAMINE Hydrochloride Capsules USP
 
 50 mg
 
@@ -40,9 +40,9 @@ RX only
 
 Mallinckrodt™
 
-2000009036
+2000010730
 
-Rev 08/2017
+Rev 07/2018
 
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 75 mg Bottle
 
@@ -50,7 +50,7 @@ NDC 0406-8808-01
 
 100 Capsules
 
-Clomipramine Hydrochloride Capsules USP
+ClomiPRAMINE Hydrochloride Capsules USP
 
 75 mg
 
@@ -63,6 +63,6 @@ RX only
 
 Mallinckrodt™
 
-2000009037
+2000010731
 
-Rev 08/2017
+Rev 07/2018
