@@ -9,7 +9,7 @@ Patients considered opioid-tolerant are those taking, for one week or longer, at
 
 - Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
 - Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
-- Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy and following dosage increases with KADIAN and adjust the dosage accordingly [see Warnings and Precautions (5.2)].
+- Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy and following dosage increases with KADIAN and adjust the dosage accordingly [see Warnings and Precautions (5.3)].
 
 Instruct patients to swallow KADIAN capsules whole [see Patient Counseling Information (17)].Crushing, chewing, or dissolving the pellets in KADIAN capsules will result in uncontrolled delivery of morphine and can lead to overdose or death [see Warnings and Precautions (5.1)].
 
@@ -90,9 +90,9 @@ Adjust the dosage to obtain an appropriate balance between management of pain an
 
 ## 2.4 Discontinuation of KADIAN
 
-When a patient no longer requires therapy with KADIAN, taper the dose gradually, by 25% to 50 %, every 2 to 4 days, while monitoring for signs and symptoms of withdrawal.
+When a patient no longer requires therapy with KADIAN, taper the dose gradually, by 25% to 50%, every 2 to 4 days, while monitoring for signs and symptoms of withdrawal.
 If the patient develops these signs or symptoms, raise the dose to the previous level and taper more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both.
-Do not abruptly discontinue KADIAN [see Warnings and Precautions (5.12), Drug Abuse and Dependence (9.3).
+Do not abruptly discontinue KADIAN [see Warnings and Precautions (5.13), Drug Abuse and Dependence (9.3)].
 
 ## 2.5 Administration of KADIAN
 
@@ -108,7 +108,7 @@ Instruct the patient to:
 - Rinse the mouth to ensure all pellets have been swallowed.
 - Discard any unused portion of the KADIAN capsules after the contents have been sprinkled on applesauce.
 
-The contents of the KADIAN capsules (pellets) may be administered through a 16 French gastrostomy tube.
+The contents of the KADIAN capsules (pellets) may be administered through a French gastrostomy tube.
 
 1. Flush the gastrostomy tube with water to ensure that it is wet.
 2. Sprinkle the KADIAN Pellets into 10 mL of water.

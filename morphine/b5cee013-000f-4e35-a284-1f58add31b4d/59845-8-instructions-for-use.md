@@ -20,8 +20,12 @@ You should not receive KADIAN through a nasogastric tube.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Distributed By: Allergan USA, Inc.
+Distributed by:
 
-Irvine, CA 92612
+Allergan USA, Inc.
+
+Madison, NJ 07940
 
 Revised: 12/2016
+
+v1.0IFU6011

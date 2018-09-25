@@ -81,11 +81,11 @@ Table 2: Mean pharmacokinetic parameters (% coefficient variation) resulting fro
 
 | Regimen/Dosage Form | AUC#,+ (ng•h/mL) | Cmax+ (ng/mL) | Tmax (h) | Cmin+ (ng/mL) | Fluctuation* |
 | --- | --- | --- | --- | --- | --- |
-| Single Dose (n = 24) |  |  |  |  |  |
+| Single Dose (n=24) |  |  |  |  |  |
 | KADIAN Capsule | 271.0 (19.4) | 15.6 (24.4) | 8.6 (41.1) | na^ | na |
 | Extended-Release Tablet | 304.3 (19.1) | 30.5 (32.1) | 2.5 (52.6) | na | na |
 | Morphine Solution | 362.4 (42.6) | 64.4 (38.2) | 0.9 (55.8) | na | na |
-| Multiple Dose (n = 24) |  |  |  |  |  |
+| Multiple Dose (n=24) |  |  |  |  |  |
 | KADIAN Capsule Once Daily | 500.9 (38.6) | 37.3 (37.7) | 10.3 (32.2) | 9.9 (52.3) | 3.0 (45.5) |
 | Extended-Release Tablet Twice Daily | 457.3 (40.2) | 36.9 (42.0) | 4.4 (53.0) | 7.6 (60.3) | 4.1 (51.5) |
 
