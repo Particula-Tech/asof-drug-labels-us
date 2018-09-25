@@ -9,3 +9,5 @@ At the time of manufacture, the air in the container is replaced by nitrogen.
 
 The chemical name for triamcinolone acetonide is 9-Fluoro-11β,16α,17,21-tetrahydroxypregna-1,4-diene-3,20-dione cyclic 16,17-acetal with acetone.
 Its structural formula is:
+
+MW 434.50
