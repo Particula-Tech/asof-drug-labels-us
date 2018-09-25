@@ -41,7 +41,7 @@ Table 1: Probing Pocket Depth at Baseline and Change in Pocket Depth at 9 Months
 | Time | Study OPI-103A N=368 |  |  |  | Study OPI-103B N=380 |  |
 | PD (mm) at Baseline | 5.88 ±0.04 | 5.91 ±0.04 | 5.88 ±0.04 | 5.79 ±0.03 | 5.82 ±0.04 | 5.81 ±0.04 |
 | [Mean ± SE] |  |  |  |  |  |  |
-| PD (mm) Change from Baseline at 9 Months, [Mean ± SE] | -1.04 ±0.07 | -0.90±0.54 | -1.20*††±0.07 | -1.32±0.07 | -1.30±0.07 | -1.63**††±0.07 |
+| PD (mm) Change from Baseline at 9 Months [Mean ± SE] | -1.04 ±0.07 | -0.90±0.54 | -1.20*††±0.07 | -1.32±0.07 | -1.30±0.07 | -1.63**††±0.07 |
 | SE = standard error; SRP = scaling and root planing; PD = pocket depth |  |  |  |  |  |  |
 | Significantly different from SRP: *(P ≤0.05); **(P ≤0.001) |  |  |  |  |  |  |
 | Significantly different from SRP + vehicle: ††(P ≤0.001) |  |  |  |  |  |  |
