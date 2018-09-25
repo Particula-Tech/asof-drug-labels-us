@@ -50,4 +50,4 @@ Clinitest is a trademark of Siemens Healthcare Diagnostics Inc.
 07-19-00-400
 
 Rev.
-July 2018
+September 2018
