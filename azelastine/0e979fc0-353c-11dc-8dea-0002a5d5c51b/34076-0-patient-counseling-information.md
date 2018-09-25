@@ -29,12 +29,10 @@ Keep Out of Children’s Reach
 Instruct patients to keep ASTEPRO out of the reach of children.
 If a child accidentally ingests ASTEPRO, seek medical help or call a poison control center immediately.
 
-Manufactured by:
+Manufactured for: Meda Pharmaceuticals Inc. Somerset, New Jersey 08873-4120
 
-MEDA PHARMACEUTICALS®
+©2018 Meda Pharmaceuticals Inc.
 
-Somerset, NJ 08873-4120
+ASTEPRO and MEDA PHARMACEUTICALS are registered trademarks of Meda Pharmaceuticals Inc. or a related entity.
 
-Astelin, ASTEPRO and MEDA PHARMACEUTICALS are registered trademarks of Meda Pharmaceuticals Inc. or a related entity.
-
-U.S. Patents 8,071,073; D447,419; 8,518,919
+U.S. Patents 8,071,073; 8,518,919

@@ -3,8 +3,9 @@
     "NDA022203"
   ],
   "inn": "azelastine",
-  "labeler": "Meda Pharmaceuticals Inc.",
+  "labeler": "Meda Pharmaceuticals",
   "package_ndcs": [
+    "0037-0242-30",
     "0037-0243-04",
     "0037-0243-30"
   ],

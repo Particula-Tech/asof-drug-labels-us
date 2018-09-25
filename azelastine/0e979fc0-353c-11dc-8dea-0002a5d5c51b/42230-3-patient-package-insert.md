@@ -25,7 +25,6 @@ Before using ASTEPRO, tell your healthcare provider if you are:
 - •allergic to any of the ingredients in ASTEPRO.
   See the end of this leaflet for a complete list of ingredients in ASTEPRO.
 - •pregnant, or plan to become pregnant.
-  It is not known if ASTEPRO will harm your unborn baby.
 - •breastfeeding, or plan to breastfeed.
   It is not known if ASTEPRO passes into your breast milk.
   You and your healthcare provider should decide if you will use ASTEPRO if you plan to breastfeed.
@@ -196,12 +195,12 @@ Cleaning the Spray Tip of your ASTEPRO
 
 This Patient Information and Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: MEDA PHARMACEUTICALS® Somerset, NJ 08873-4120
+Manufactured for: MEDA Pharmaceuticals Inc. Somerset, New Jersey 08873-4120
 
-©2015 Meda Pharmaceuticals Inc.
+©2018 Meda Pharmaceuticals Inc.
 
-ASTEPRO and MEDA PHARMACEUTICALS are registered trademarks of Meda Pharmaceuticals Inc. or a related entity.
+ASTEPRO and MEDA are registered trademarks of Meda Pharmaceuticals Inc. or a related entity
 
-U.S. Patents 8,518,919, 8,071,073, and D447,419
+U.S. Patents 8,071,073; 8,518,919
 
-IN-023D6-09 Revised: 2/2015
+IN-023D6-XX Revised: 9/2018

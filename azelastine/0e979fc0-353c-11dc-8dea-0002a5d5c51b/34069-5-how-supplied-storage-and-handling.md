@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-ASTEPRO (azelastine hydrochloride) 0.1% nasal spray is supplied as a 30-mL package delivering 200 metered sprays in a high-density polyethylene (HDPE) bottle fitted with a metered-dose spray pump unit.
+ASTEPRO (azelastine hydrochloride) 0.1% nasal spray is supplied as a 30-mL package (NDC 0037-0242-30) delivering 200 metered sprays in a high-density polyethylene (HDPE) bottle fitted with a metered-dose spray pump unit.
 The spray pump unit consists of a nasal spray pump fitted with a blue safety clip and a blue plastic dust cover.
 The net content of the bottle is 30 mL (net weight 30 gm of solution).
 Each bottle contains 30 mg (1 mg/mL) of azelastine hydrochloride.
@@ -18,7 +18,7 @@ The bottle should be discarded after 200 sprays have been used.
 
 ASTEPRO should not be used after the expiration date “EXP” printed on the medicine label and carton.
 
-Storage
+Storage:
 
-Store upright at controlled room temperature 20° - 25°C (68° - 77°F).
+Store at controlled room temperature 20° to 25°C (68° to 77°F).
 Protect from freezing.
