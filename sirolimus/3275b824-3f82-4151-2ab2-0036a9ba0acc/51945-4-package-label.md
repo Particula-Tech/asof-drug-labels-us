@@ -88,7 +88,7 @@ For oral use only.
 
 100 Tablets Rx only
 
-PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 0.5 MG TABLETS - REDIPAK®BLISTER
+# PRINCIPAL DISPLAY PANEL - 0.5 mg Tablet Blister Pack
 
 NDC 0008-1040-10
 
@@ -98,15 +98,19 @@ Rapamune® (sirolimus) Tablet
 
 Wyeth Sub of Pfizer Inc Phila, PA 19101
 
-13096000
+PAA073118
 
-EXP AND LOT AREA
+LOT X
+
+EXP Y
 
 # PRINCIPAL DISPLAY PANEL - 0.5 mg Tablet Blister Pack Carton
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-Pfizer NDC 0008-1040-10
+Pfizer
+
+NDC 0008-1040-10
 
 Rapamune® (sirolimus) Tablets
 
@@ -114,9 +118,9 @@ Rapamune® (sirolimus) Tablets
 
 For oral use only.
 
-Unit Dose - 100 Tablets (10 Blister Cards of 10 Tablets Each)
+Unit Dose - 100 Tablets
 
-Rx only
+(10 Blister Cards of 10 Tablets Each) Rx only
 
 # PRINCIPAL DISPLAY PANEL - 1 mg Tablet Bottle Label
 
@@ -132,7 +136,7 @@ For oral use only.
 
 100 Tablets Rx only
 
-PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 1 MG TABLETS - REDIPAK®BLISTER
+# PRINCIPAL DISPLAY PANEL - 1 mg Tablet Blister Pack
 
 NDC 0008-1041-10
 
@@ -142,15 +146,19 @@ Rapamune® (sirolimus) Tablet
 
 Wyeth Sub of Pfizer Inc Phila, PA 19101
 
-13096300
+PAA086081
 
-EXP AND LOT AREA
+LOT X
+
+EXP Y
 
 # PRINCIPAL DISPLAY PANEL - 1 mg Tablet Blister Pack Carton
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-Pfizer NDC 0008-1041-10
+Pfizer
+
+NDC 0008-1041-10
 
 Rapamune® (sirolimus) Tablets
 
@@ -158,9 +166,9 @@ Rapamune® (sirolimus) Tablets
 
 For oral use only.
 
-Unit Dose - 100 Tablets (10 Blister Cards of 10 Tablets Each)
+Unit Dose - 100 Tablets
 
-Rx only
+(10 Blister Cards of 10 Tablets Each) Rx only
 
 # PRINCIPAL DISPLAY PANEL - 2 mg Tablet Bottle Label
 
