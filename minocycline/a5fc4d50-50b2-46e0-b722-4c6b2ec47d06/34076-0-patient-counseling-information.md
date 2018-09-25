@@ -139,8 +139,9 @@ The 100 mg capsule shell also contains black iron oxide.
 
 Brands listed are the trademarks of their respective owners.
 
-Manufactured by: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
+Manufactured in India by: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
 
 Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised: November 2017
+Rev.
+A 9/2018

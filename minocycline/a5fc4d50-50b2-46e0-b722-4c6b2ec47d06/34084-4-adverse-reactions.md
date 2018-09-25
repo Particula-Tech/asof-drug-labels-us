@@ -36,7 +36,7 @@ A transient lupus-like syndrome and serum sickness-like reactions also have been
 Blood: Agranulocytosis, hemolytic anemia, thrombocytopenia, leukopenia, neutropenia, pancytopenia, and eosinophilia have been reported.
 
 Central Nervous System: Convulsions, dizziness, hypesthesia, paresthesia, sedation, and vertigo.
-Bulging fontanels in infants and benign intracranial hypertension (pseudotumor cerebri) in adults have been reported (see PRECAUTIONS-General).
+Bulging fontanels in infants and benign intracranial hypertension (pseudotumor cerebri) in adults have been reported (see PRECAUTIONS - General).
 Headache has also been reported.
 
 Other: Thyroid cancer has been reported in the postmarketing setting in association with minocycline products.
