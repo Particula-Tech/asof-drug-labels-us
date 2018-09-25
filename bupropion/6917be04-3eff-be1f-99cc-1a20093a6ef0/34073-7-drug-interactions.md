@@ -12,7 +12,7 @@ Coadministration of FORFIVO XL with ticlopidine or clopidogrel is not recommende
 
 Inducers of CYP2B6
 
-Ritonavir, Lopinavir,and Efavirenz: Concomitant treatment with these drugs can decrease bupropion and hydroxybupropion exposure.
+Ritonavir, Lopinavir, and Efavirenz: Concomitant treatment with these drugs can decrease bupropion and hydroxybupropion exposure.
 Patients receiving any of these drugs with bupropion may need increased doses of bupropion, but the maximum recommended dose of bupropion should not be exceeded [see Clinical Pharmacology (12.3)].
 
 Carbamazepine, Phenobarbital, and Phenytoin: Although not systematically studied, these drugs may induce metabolism of bupropion and may decrease bupropion exposure [see Clinical Pharmacology (12.3)].

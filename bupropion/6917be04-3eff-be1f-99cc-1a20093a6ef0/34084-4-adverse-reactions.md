@@ -134,27 +134,27 @@ Incidence of Weight Gain or Weight Loss (≥ 5 lbs) in Placebo-controlled Trials
 The following adverse reactions have been identified during postapproval use of bupropion hydrochloride.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Body (General)—chills, facial edema, edema, peripheral edema, musculoskeletal chest pain, photosensitivity, and malaise.
+Body (General) - chills, facial edema, edema, peripheral edema, musculoskeletal chest pain, photosensitivity, and malaise.
 
-Cardiovascular—postural hypotension, hypertension, stroke, vasodilation, syncope, complete atrioventricular block, extrasystoles, myocardial infarction, phlebitis, and pulmonary embolism.
+Cardiovascular - postural hypotension, hypertension, stroke, vasodilation, syncope, complete atrioventricular block, extrasystoles, myocardial infarction, phlebitis, and pulmonary embolism.
 
-Digestive—abnormal liver function, bruxism, gastric reflux, gingivitis, glossitis, increased salivation, jaundice, mouth ulcers, stomatitis, thirst, edema of tongue, colitis, esophagitis, gastrointestinal hemorrhage, gum hemorrhage, hepatitis, intestinal perforation, liver damage, pancreatitis, and stomach ulcer.
+Digestive - abnormal liver function, bruxism, gastric reflux, gingivitis, glossitis, increased salivation, jaundice, mouth ulcers, stomatitis, thirst, edema of tongue, colitis, esophagitis, gastrointestinal hemorrhage, gum hemorrhage, hepatitis, intestinal perforation, liver damage, pancreatitis, and stomach ulcer.
 
-Endocrine—hyperglycemia, hypoglycemia, and syndrome of inappropriate antidiuretic hormone secretion.
+Endocrine - hyperglycemia, hypoglycemia, and syndrome of inappropriate antidiuretic hormone secretion.
 
-Hemic and Lymphatic—ecchymosis, anemia, leukocytosis, leukopenia, lymphadenopathy, pancytopenia, and thrombocytopenia.
+Hemic and Lymphatic - ecchymosis, anemia, leukocytosis, leukopenia, lymphadenopathy, pancytopenia, and thrombocytopenia.
 Altered PT and/or INR, associated with hemorrhagic or thrombotic complications, were observed when bupropion was coadministered with warfarin.
 
-Metabolic and Nutritional—glycosuria.
+Metabolic and Nutritional - glycosuria.
 
-Musculoskeletal—leg cramps, fever/rhabdomyolysis, and muscle weakness.
+Musculoskeletal - leg cramps, fever/rhabdomyolysis, and muscle weakness.
 
-Nervous System—abnormal coordination, depersonalization, emotional lability, hyperkinesia, hypertonia, hypesthesia, vertigo, amnesia, ataxia, derealization, abnormal electroencephalogram (EEG), aggression, akinesia, aphasia, coma, dysarthria, dyskinesia, dystonia, euphoria, extrapyramidal syndrome, hypokinesia, increased libido, neuralgia, neuropathy, paranoid ideation, restlessness, suicide attempt, and unmasking tardive dyskinesia.
+Nervous System - abnormal coordination, depersonalization, emotional lability, hyperkinesia, hypertonia, hypesthesia, vertigo, amnesia, ataxia, derealization, abnormal electroencephalogram (EEG), aggression, akinesia, aphasia, coma, dysarthria, dyskinesia, dystonia, euphoria, extrapyramidal syndrome, hypokinesia, increased libido, neuralgia, neuropathy, paranoid ideation, restlessness, suicide attempt, and unmasking tardive dyskinesia.
 
-Respiratory—bronchospasm and pneumonia.
+Respiratory - bronchospasm and pneumonia.
 
-Skin—maculopapular rash, alopecia, angioedema, exfoliative dermatitis, and hirsutism.
+Skin - maculopapular rash, alopecia, angioedema, exfoliative dermatitis, and hirsutism.
 
-Special Senses—accommodation abnormality, dry eye, deafness, increased intraocular pressure, angle-closure glaucoma, and mydriasis.
+Special Senses - accommodation abnormality, dry eye, deafness, increased intraocular pressure, angle-closure glaucoma, and mydriasis.
 
-Urogenital—impotence, polyuria, prostate disorder, abnormal ejaculation, cystitis, dyspareunia, dysuria, gynecomastia, menopause, painful erection, salpingitis, urinary incontinence, urinary retention, and vaginitis.
+Urogenital - impotence, polyuria, prostate disorder, abnormal ejaculation, cystitis, dyspareunia, dysuria, gynecomastia, menopause, painful erection, salpingitis, urinary incontinence, urinary retention, and vaginitis.
