@@ -19,17 +19,17 @@ Mechanism of Action
 Erythromycin acts by inhibition of protein synthesis by binding 50 S ribosomal subunits of susceptible organisms.
 It does not affect nucleic acid synthesis.
 
+Resistance
+
+Resistance to erythromycin in S. aureus may emerge during therapy.
+
+Erythromycin has been shown to be active against most strains of the following organisms both in vitro and in clinical infections (See INDICATIONS AND USAGE):
+
 Interactions with Other Antibiotics
 
 Antagonism has been demonstrated in vitro between erythromycin and clindamycin, lincomycin and chloramphenicol.
 
 Many strains of Haemophilus influenzae are resistant to erythromycin, but are susceptible to erythromycin and sulfonamides used concomitantly.
-
-Development of Resistance
-
-Resistance to erythromycin in S. aureus may emerge during therapy.
-
-Erythromycin has been shown to be active against most strains of the following organisms both in vitro and in clinical infections (See INDICATIONS AND USAGE):
 
 Gram-positive bacteria Aerobic
 
@@ -62,57 +62,4 @@ Moraxella catarrhalis
 
 Susceptibility Testing
 
-When available, the clinical microbiology laboratory should provide cumulative results of the in vitro susceptibility test results for antimicrobial drugs used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
-These reports should aid the physician in selecting the most effective antimicrobial.
-
-Dilution techniques
-
-Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
-These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized procedure.
-Standardized procedures are based on a dilution method (broth or agar)1 or equivalent with standardized inoculum concentrations and standardized concentrations of erythromycin powder.
-The MIC values should be interpreted according to the criteria provided in Table 1.
-
-Diffusion technique
-
-Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-One such standardized procedure2 requires the use of standardized inoculum concentrations.
-This procedure uses paper disks impregnated with 15 mcg of erythromycin to test the susceptibility of microorganisms to erythromycin.
-The disk diffusion interpretive criteria are provided in Table 1.
-
-Table 1.
-Susceptibility Interpretive Criteria for Erythromycin
-
-|  | Susceptibility Interpretive Criteria |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Minimum Inhibitory Concentration (mcg/mL) |  |  |  |  |  | Disk Diffusion (zone diameter in mm) |  |  |  |  |  |
-| Pathogen | S |  | I |  | R |  | S |  | I |  | R |  |
-| Staphylococcus spp. | ≤0.5 |  | 1 to 4 |  | ≥8 |  | ≥23 |  | 14 to 22 |  | ≤13 |  |
-| Enterococcus spp. | ≤0.5 |  | 1 to 4 |  | ≥8 |  | ≥23 |  | 14 to 22 |  | ≤13 |  |
-| Streptococcus pneumoniaea,b | ≤0.25 |  | 0.5 |  | ≥1 |  | ≥21 |  | 16 to 20 |  | ≤15 |  |
-| Streptococcus spp. (β-hemolytic group)a,b | ≤0.25 |  | 0.5 |  | ≥1 |  | ≥21 |  | 16 to 20 |  | ≤15 |  |
-| Streptococcus spp. (Viridans group)a,b | ≤0.25 |  | 0.5 |  | ≥1 |  | ≥21 |  | 16 to 20 |  | ≤15 |  |
-| a The MIC interpretive criteria for Streptococcus pneumoniae, Streptococcus spp. (β-hemolytic group), and Streptococcus spp. (Viridans group) are applicable only to tests performed by broth microdilution using cation-adjusted Mueller-Hinton broth supplemented with 2 to 5% lysed horse blood inoculated with a direct colony suspension and incubated in ambient air at 35 ± 2°C for 20 to 24 hours.b The zone diameter interpretive criteria for Streptococcus pneumoniae, Streptococcus spp. (β‑hemolytic group), and Streptococcus spp. (Viridans group) are applicable only to tests performed using Mueller-Hinton agar supplemented with 5% defibrinated sheep blood inoculated with a direct colony suspension and incubated in 5% CO2 at 35 ± 2°C for 20 to 24 hours. |  |  |  |  |  |  |  |  |  |  |  |  |
-
-A report of Susceptible indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound in the blood reaches the concentrations usually achievable.
-A report of Intermediate indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
-This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where a high dosage of drug can be used.
-This category also provides a buffer zone, which prevents small, uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of Resistant indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial compound in the blood reaches the concentrations usually achievable and other therapy should be selected.
-
-Quality Control
-
-Standardized susceptibility test procedures require the use of quality control microorganisms to control the technical aspects of the test procedures3.
-Standard Erythromycin powder should provide the following range of values noted in Table 2.
-
-Table 2.
-Acceptable Quality Control Ranges for Erythromycin
-
-| QC Strain | Acceptable Quality Control Ranges |  |
-| --- | --- | --- |
-| Minimum Inhibitory Concentration (mcg/mL) | Disk Diffusion (zone diameter in mm) |  |
-| Enterococcus faecalis ATCC 29212 | 1 to 4 | NAa |
-| Staphylococcus aureus ATCC 29213 | 0.25 to 1 | NA |
-| Staphylococcus aureus ATCC 25923 | NA | 22 to 30 |
-| Streptococcus pneumoniae ATCC 49619b | 0.03 to 0.12c | 25 to 30d |
-| a not applicableb This organism may be used for validation of susceptibility test results when testing Streptococcus spp. other than S. pneumoniae.c This quality control range for S. pneumoniae is applicable only to tests performed by broth microdilution using cation-adjusted Mueller-Hinton broth supplemented with 2 to 5% lysed horse blood inoculated with a direct colony suspension and incubated in ambient air at 35 ± 2°C for 20 to 24 hours.d This quality control zone diameter range is applicable only to tests performed using Mueller-Hinton agar supplemented with 5% defibrinated sheep blood inoculated with a direct colony suspension and incubated in 5% CO2 at 35 ± 2°C for 20 to 24 hours. |  |  |
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.

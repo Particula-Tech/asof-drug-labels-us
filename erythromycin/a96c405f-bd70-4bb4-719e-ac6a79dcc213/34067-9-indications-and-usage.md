@@ -25,17 +25,17 @@ Although no controlled clinical efficacy studies have been conducted, in vitro a
 
 Prevention of Initial Attacks of Rheumatic Fever
 
-Penicillin is considered by the American Heart Association to be the drug of choice in the prevention of initial attacks of rheumatic fever (treatment of Group A beta-hemolytic streptococcal infections of the upper respiratory tract e.g., tonsillitis, or pharyngitis).4 Erythromycin is indicated for the treatment of penicillin-allergic patients.
+Penicillin is considered by the American Heart Association to be the drug of choice in the prevention of initial attacks of rheumatic fever (treatment of Group A beta-hemolytic streptococcal infections of the upper respiratory tract e.g., tonsillitis, or pharyngitis).1 Erythromycin is indicated for the treatment of penicillin-allergic patients.
 The therapeutic dose should be administered for ten days.
 
 Prevention of Recurrent Attacks of Rheumatic Fever
 
 Penicillin or sulfonamides are considered by the American Heart Association to be the drugs of choice in the prevention of recurrent attacks of rheumatic fever.
-In patients who are allergic to penicillin and sulfonamides, oral erythromycin is recommended by the American Heart Association in the long-term prophylaxis of streptococcal pharyngitis (for the prevention of recurrent attacks of rheumatic fever).4
+In patients who are allergic to penicillin and sulfonamides, oral erythromycin is recommended by the American Heart Association in the long-term prophylaxis of streptococcal pharyngitis (for the prevention of recurrent attacks of rheumatic fever).1
 
 Prevention of Bacterial Endocarditis
 
-Although no controlled clinical efficacy trials have been conducted, oral erythromycin has been recommended by the American Heart Association for prevention of bacterial endocarditis in penicillin-allergic patients with prosthetic cardiac valves, most congenital cardiac malformations, surgically constructed systemic pulmonary shunts, rheumatic or other acquired valvular dysfunction, idiopathic hypertrophic subaortic stenosis (IHSS), previous history of bacterial endocarditis and mitral valve prolapse with insufficiency when they undergo dental procedures and surgical procedures of the upper respiratory tract.5
+Although no controlled clinical efficacy trials have been conducted, oral erythromycin has been recommended by the American Heart Association for prevention of bacterial endocarditis in penicillin-allergic patients with prosthetic cardiac valves, most congenital cardiac malformations, surgically constructed systemic pulmonary shunts, rheumatic or other acquired valvular dysfunction, idiopathic hypertrophic subaortic stenosis (IHSS), previous history of bacterial endocarditis and mitral valve prolapse with insufficiency when they undergo dental procedures and surgical procedures of the upper respiratory tract.2
 
 To reduce the development of drug-resistant bacteria and maintain the effectiveness of erythromycin and other antibacterial drugs, erythromycin should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
