@@ -11,4 +11,4 @@ Advise patients of the following:
   Patients should also inform their physician that they are taking paricalcitol capsules if a new medication is prescribed.
 - Breastfeeding is not recommended during treatment with paricalcitol capsules [see Use in Specific Populations (8.2)].
 
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt)-509302 India Revised: 04/2017
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad - 500 038, India Revised: 07/2018
