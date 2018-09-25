@@ -14,6 +14,8 @@ The following serious adverse reactions are described below and elsewhere in lab
 
 • Hypomagnesemia [see Warnings and Precautions (5.8)]
 
+• Fundic Gland Polyps [see Warnings and Precautions (5.12)]
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.

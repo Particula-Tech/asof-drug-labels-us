@@ -225,8 +225,6 @@ Esomeprazole Magnesium Delayed-Release Capsules:
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-To reorder additional Medication Guides, please contact Dr. Reddy’s Customer Service at 1-866-733-3952.
-
 Rx only
 
 Manufactured by:
@@ -235,7 +233,7 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 1216
+Revised: 0718
 
 Dispense with medication guide available at:
 
