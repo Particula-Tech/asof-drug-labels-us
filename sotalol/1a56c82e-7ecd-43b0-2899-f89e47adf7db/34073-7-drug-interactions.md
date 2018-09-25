@@ -1,79 +1,38 @@
-# Drug Interactions
+# 7 DRUG INTERACTIONS
 
-## Drugs undergoing CYP450 metabolism
+## 7.1 Antiarrhythmics and other QT Prolonging Drugs
 
-Sotalol is primarily eliminated by renal excretion; therefore, drugs that are metabolized by CYP450 are not expected to alter the pharmacokinetics of sotalol.
+Sotalol has not been studied with other drugs that prolong the QT interval such as antiarrhythmics, some phenothiazines, tricyclic antidepressants, certain oral macrolides and certain quinolone antibiotics.
+Discontinue Class I or Class III antiarrhythmic agents for at least three half-lives prior to dosing with sotalol.
+Class Ia antiarrhythmic drugs, such as disopyramide, quinidine and procainamide and other Class III drugs (for example, amiodarone) are not recommended as concomitant therapy with sotalol hydrochloride/sotalol hydrochloride AF, because of their potential to prolong refractoriness [see Warnings and Precautions (5.2)].
+There is only limited experience with the concomitant use of Class Ib or Ic antiarrhythmics.
+Additive Class II effects would also be anticipated with the use of other beta-blocking agents concomitantly with sotalol hydrochloride/sotalol hydrochloride AF.
 
-## Digoxin
+## 7.2 Digoxin
 
 Proarrhythmic events were more common in sotalol treated patients also receiving digoxin; it is not clear whether this represents an interaction or is related to the presence of CHF, a known risk factor for proarrhythmia, in the patients receiving digoxin.
 Both digitalis glycosides and beta-blockers slow atrioventricular conduction and decrease heart rate.
 Concomitant use can increase the risk of bradycardia.
 
-## Calcium blocking drugs
+## 7.3 Calcium-Channel Blocking Drugs
 
-Sotalol (AF) should be administered with caution in conjunction with calcium blocking drugs because of possible additive effects on atrioventricular conduction or ventricular function.
-Additionally, concomitant use of these drugs may have additive effects on blood pressure, possibly leading to hypotension.
+Sotalol and calcium-blocking drugs can be expected to have additive effects on atrioventricular conduction or ventricular function.
+Monitor such patients for evidence of bradycardia and hypotension.
 
-## Catecholamine-depleting agents
+## 7.4 Catecholamine-Depleting Agents
 
 Concomitant use of catecholamine-depleting drugs, such as reserpine and guanethidine, with a beta-blocker may produce an excessive reduction of resting sympathetic nervous tone.
-Patients treated with sotalol (AF) plus a catecholamine depletor should therefore be closely monitored for evidence of hypotension and/or marked bradycardia which may produce syncope.
+Monitor such patients for evidence of hypotension and/or marked bradycardia which may produce syncope.
 
-## Insulin and oral antidiabetics
+## 7.5 Insulin and Oral Antidiabetics
 
-Hyperglycemia may occur, and the dosage of insulin or antidiabetic drugs may require adjustment.
-Symptoms of hypoglycemia may be masked.
+Hyperglycemia may occur, and the dosage of insulin or antidiabetic drugs may require adjustment [see Warnings and Precautions 5.7)].
 
-## Beta-2-receptor stimulants
+## 7.6 Clonidine
 
-Beta-agonists such as salbutamol, terbutaline and isoprenaline may have to be administered in increased dosages when used concomitantly with sotalol (AF).
+Concomitant use with sotalol increases the risk of bradycardia.
+Because beta-blockers may potentiate the rebound hypertension sometimes observed after clonidine discontinuation, withdraw sotalol several days before the gradual withdrawal of clonidine to reduce the risk of rebound hypertension.
 
-## Clonidine
+## 7.7 Antacids
 
-Beta-blocking drugs may potentiate the rebound hypertension sometimes observed after discontinuation of clonidine; therefore, caution is advised when discontinuing clonidine in patients receiving sotalol (AF).
-
-## Other
-
-No pharmacokinetic interactions were observed with hydrochlorothiazide or warfarin.
-
-## Antacids
-
-Administration of sotalol (AF) within 2 hours of antacids containing aluminum oxide and magnesium hydroxide should be avoided because it may result in a reduction in Cmax and AUC of 26% and 20%, respectively and consequently in a 25% reduction in the bradycardic effect at rest.
-Administration of the antacid two hours after sotalol (AF) has no effect on the pharmacokinetics or pharmacodynamics of sotalol.
-
-## Drug/Laboratory Test Interactions
-
-The presence of sotalol in the urine may result in falsely elevated levels of urinary metanephrine when measured by fluorimetric or photometric methods.
-In screening patients suspected of having a pheochromocytoma and being treated with sotalol, a specific method, such as a high performance liquid chromatographic assay with solid phase extraction (e.g., J. Chromatogr.
-385:241, 1987) should be employed in determining levels of catecholamines.
-
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
-
-No evidence of carcinogenic potential was observed in rats during a 24-month study at 137 to 275 mg/kg/day (approximately 30 times the maximum recommended human oral dose (MRHD) as mg/kg or 5 times the MRHD as mg/m2) or in mice, during a 24-month study at 4141 to 7122 mg/kg/day (approximately 450 to 750 times the MRHD as mg/kg or 36 to 63 times the MRHD as mg/m2).
-
-Sotalol has not been evaluated in any specific assay of mutagenicity or clastogenicity.
-
-No significant reduction in fertility occurred in rats at oral doses of 1000 mg/kg/day (approximately 100 times the MRHD as mg/kg or 9 times the MRHD as mg/m2) prior to mating, except for a small reduction in the number of offspring per litter.
-
-## Pregnancy Category B
-
-Reproduction studies in rats and rabbits during organogenesis at 100 and 22 times the MRHD as mg/kg (9 and 7 times the MRHD as mg/m2), respectively, did not reveal any teratogenic potential associated with sotalol hydrochloride.
-In rabbits, a high dose of sotalol hydrochloride (160 mg/kg/day) at 16 times the MRHD as mg/kg (6 times the MRHD as mg/m2) produced a slight increase in fetal death likely due to maternal toxicity.
-Eight times the maximum dose (80 mg/kg/day or 3 times the MRHD as mg/m2) did not result in an increased incidence of fetal deaths.
-In rats, 1000 mg/kg/day sotalol hydrochloride, 100 times the MRHD (18 times the MRHD as mg/m2), increased the number of early resorptions, while at 14 times the maximum dose (2.5 times the MRHD as mg/m2), no increase in early resorptions was noted.
-However, animal reproduction studies are not always predictive of human response.
-
-Although there are no adequate and well-controlled studies in pregnant women, sotalol hydrochloride has been shown to cross the placenta, and is found in amniotic fluid.
-There has been a report of subnormal birth weight with sotalol.
-Therefore, sotalol (AF) should be used during pregnancy only if the potential benefit outweighs the potential risk.
-
-## Nursing Mothers
-
-Sotalol is excreted in the milk of laboratory animals and has been reported to be present in human milk.
-Because of the potential for adverse reactions in nursing infants from sotalol (AF), a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
-
-## Pediatric Use
-
-The safety and effectiveness of sotalol (AF) in children have not been established.
-However, the Class III electrophysiologic and beta-blocking effects, the pharmacokinetics, and the relationship between the effects (QTc interval and resting heart rate) and drug concentrations have been evaluated in children aged between 3 days and 12 years old (see CLINICAL PHARMACOLOGY).
+Avoid administration of oral sotalol within 2 hours of antacids containing aluminum oxide and magnesium hydroxide.

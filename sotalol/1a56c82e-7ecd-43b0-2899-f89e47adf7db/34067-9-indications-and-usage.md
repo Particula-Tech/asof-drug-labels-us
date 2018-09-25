@@ -1,11 +1,20 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-Sotalol hydrochloride tablets, USP (AF) are indicated for the maintenance of normal sinus rhythm [delay in time to recurrence of atrial fibrillation/atrial flutter (AFIB/AFL)] in patients with symptomatic AFIB/AFL who are currently in sinus rhythm.
-Because sotalol hydrochloride tablets, USP (AF) can cause life-threatening ventricular arrhythmias, it should be reserved for patients in whom AFIB/AFL is highly symptomatic.
-Patients with paroxysmal AFIB whose AFIB/AFL that is easily reversed (by Valsalva maneuver, for example) should usually not be given sotalol hydrochloride tablets, USP (AF) (see WARNINGS).
+## 1.1 Life-Threatening Ventricular Arrhythmias
 
-In general, antiarrhythmic therapy for AFIB/AFL aims to prolong the time in normal sinus rhythm.
-Recurrence is expected in some patients (see CLINICAL STUDIES).
+Sotalol hydrochloride/Sotalol hydrochloride AF tablets are indicated for the treatment of life-threatening, documented ventricular arrhythmias, such as sustained ventricular tachycardia (VT).
 
-Sotalol is also indicated for the treatment of documented life-threatening ventricular arrhythmias and is marketed under the brand name Betapace (sotalol hydrochloride).
-Sotalol hydrochloride tablets, however, must not be substituted for Betapace AF (sotalol hydrochloride tablets, USP (AF) because of significant differences in labeling (i.e. patient package insert, dosing administration and safety information).
+Limitation of Use:
+
+Sotalol hydrochloride/Sotalol hydrochloride AF tablets may not enhance survival in patients with ventricular arrhythmias.
+Because of the proarrhythmic effects of sotalol hydrochloride/ sotalol hydrochloride AF tablets, including a 1.5 to 2% rate of Torsade de Pointes (TdP) or new ventricular tachycardia/fibrillation (VT/VF) in patients with either non-sustained ventricular tachycardia (NSVT) or supraventricular arrhythmias (SVT), its use in patients with less severe arrhythmias, even if the patients are symptomatic, is generally not recommended.
+Avoid treatment of patients with asymptomatic ventricular premature contractions [see Warnings and Precautions (5.2)].
+
+## 1.2 Delay in Recurrence of Atrial Fibrillation/Atrial Flutter (AFIB/AFL)
+
+Sotalol hydrochloride/Sotalol hydrochloride AF tablets are indicated for the maintenance of normal sinus rhythm (delay in time to recurrence of AFIB/AFL) in patients with symptomatic AFIB/AFL who are currently in sinus rhythm.
+
+Limitation of Use:
+
+Because sotalol hydrochloride/sotalol hydrochloride AF tablets can cause life-threatening ventricular arrhythmias, reserve its use for patients in whom AFIB/AFL is highly symptomatic.
+Patients with paroxysmal AFIB that is easily reversed (by Valsalva maneuver, for example) should usually not be given sotalol hydrochloride/sotalol hydrochloride AF tablets.
