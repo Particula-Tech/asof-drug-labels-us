@@ -12,8 +12,8 @@ C14H22ClN3O2•HCl•H2O M.W.
 Metoclopramide tablets are for oral administration.
 Metoclopramide tablets are available in 5 mg and 10 mg tablets.
 
-- •Each metoclopramide tablet, 5 mg contains 5 mg metoclopramide (equivalent to 5.91 mg of metoclopramide hydrochloride, USP).
-- •Each metoclopramide tablet, 10 mg contains 10 mg metoclopramide (equivalent to 11.82 mg of metoclopramide hydrochloride, USP).
+- Each metoclopramide tablet, 5 mg contains 5 mg metoclopramide (equivalent to 5.91 mg of metoclopramide hydrochloride, USP).
+- Each metoclopramide tablet, 10 mg contains 10 mg metoclopramide (equivalent to 11.82 mg of metoclopramide hydrochloride, USP).
 
 Inactive Ingredients
 

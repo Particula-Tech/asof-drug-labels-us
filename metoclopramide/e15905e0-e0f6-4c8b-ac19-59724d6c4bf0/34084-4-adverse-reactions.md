@@ -2,14 +2,14 @@
 
 The following adverse reactions are described, or described in greater detail, in other sections of the labeling:
 
-- •Tardive dyskinesia [see Boxed Warning and Warnings and Precautions (5.1)]
-- •Other extrapyramidal effects [see Warnings and Precautions (5.2)]
-- •Neuroleptic malignant syndrome [see Warnings and Precautions (5.3)]
-- •Depression [see Warnings and Precautions (5.4)]
-- •Hypertension [see Warnings and Precautions (5.5)]
-- •Fluid retention [see Warnings and Precautions (5.6)]
-- •Hyperprolactinemia [see Warnings and Precautions (5.7)]
-- •Effects on the ability to drive and operate machinery [see Warnings and Precautions (5.8)]
+- Tardive dyskinesia [see Boxed Warning and Warnings and Precautions (5.1)]
+- Other extrapyramidal effects [see Warnings and Precautions (5.2)]
+- Neuroleptic malignant syndrome [see Warnings and Precautions (5.3)]
+- Depression [see Warnings and Precautions (5.4)]
+- Hypertension [see Warnings and Precautions (5.5)]
+- Fluid retention [see Warnings and Precautions (5.6)]
+- Hyperprolactinemia [see Warnings and Precautions (5.7)]
+- Effects on the ability to drive and operate machinery [see Warnings and Precautions (5.8)]
 
 The following adverse reactions have been identified from clinical studies or postmarketing reports of metoclopramide.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -21,12 +21,12 @@ Adverse reactions, especially those involving the nervous system, occurred after
 
 Central Nervous System Disorders
 
-- •Tardive dyskinesia, acute dystonic reactions, drug-induced parkinsonism, akathisia, and other extrapyramidal symptoms
-- •Convulsive seizures
-- •Hallucinations
-- •Restlessness, drowsiness, fatigue, and lassitude occurred in approximately 10% of patients who received 10 mg four times daily.
+- Tardive dyskinesia, acute dystonic reactions, drug-induced parkinsonism, akathisia, and other extrapyramidal symptoms
+- Convulsive seizures
+- Hallucinations
+- Restlessness, drowsiness, fatigue, and lassitude occurred in approximately 10% of patients who received 10 mg four times daily.
   Insomnia, headache, confusion, dizziness, or depression with suicidal ideation occurred less frequently.
-- •Neuroleptic malignant syndrome, serotonin syndrome (in combination with serotonergic agents).
+- Neuroleptic malignant syndrome, serotonin syndrome (in combination with serotonergic agents).
 
 Endocrine Disorders: Fluid retention secondary to transient elevation of aldosterone.
 Galactorrhea, amenorrhea, gynecomastia, impotence secondary to hyperprolactinemia

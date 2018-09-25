@@ -21,7 +21,7 @@ Avoid metoclopramide in patients receiving other drugs that are likely to cause 
 In addition to TD, metoclopramide may cause other extrapyramidal symptoms (EPS), parkinsonian symptoms, and motor restlessness.
 Advise patients to seek immediate medical attention if such symptoms occur and to discontinue metoclopramide.
 
-- •Extrapyramidal symptoms (EPS), such as acute dystonic reactions, occurred in patients treated with metoclopramide dosages of 30 mg to 40 mg daily.
+- Extrapyramidal symptoms (EPS), such as acute dystonic reactions, occurred in patients treated with metoclopramide dosages of 30 mg to 40 mg daily.
   Such reactions occurred more frequently in adults less than 30 years of age and at higher than recommended dosages.
   EPS occurred more frequently in pediatric patients compared to adults (metoclopramide is not approved for use in pediatric patients).
   Symptoms can occur in the first 24 to 48 hours after starting metoclopramide.
@@ -29,11 +29,11 @@ Advise patients to seek immediate medical attention if such symptoms occur and t
   Rarely, dystonic reactions were present as stridor and dyspnea, possibly due to laryngospasm.
   Diphenhydramine hydrochloride or benztropine mesylate may be used to treat these adverse reactions.
   Avoid metoclopramide in patients receiving other drugs that can cause EPS (e.g., antipsychotics).
-- •Parkinsonian symptoms (bradykinesia, tremor, cogwheel rigidity, mask-like facies) have occurred after starting metoclopramide, more commonly within the first 6 months, but also after longer periods.
+- Parkinsonian symptoms (bradykinesia, tremor, cogwheel rigidity, mask-like facies) have occurred after starting metoclopramide, more commonly within the first 6 months, but also after longer periods.
   Symptoms generally have subsided within 2 to 3 months after discontinuation of metoclopramide.
   Avoid metoclopramide in patients with Parkinson’s disease and other patients being treated with antiparkinsonian drugs due to potential exacerbation of symptoms.
   Avoid treatment with metoclopramide for more than 12 weeks [see Dosage and Administration (2.2, 2.3), Warnings and Precautions (5.1)].
-- •Motor restlessness (akathisia) has developed and consisted of feelings of anxiety, agitation, jitteriness, and insomnia, as well as inability to sit still, pacing, and foot tapping.
+- Motor restlessness (akathisia) has developed and consisted of feelings of anxiety, agitation, jitteriness, and insomnia, as well as inability to sit still, pacing, and foot tapping.
   If symptoms resolve, consider restarting at a lower dosage.
 
 ## 5.3 Neuroleptic Malignant Syndrome
@@ -51,9 +51,9 @@ Other important considerations in the differential diagnosis include central ant
 
 Management of NMS includes:
 
-- •Immediate discontinuation of metoclopramide and other drugs not essential to concurrent therapy [see Drug Interactions (7.1)].
-- •Intensive symptomatic treatment and medical monitoring.
-- •Treatment of any concomitant serious medical problems for which specific treatments are available.
+- Immediate discontinuation of metoclopramide and other drugs not essential to concurrent therapy [see Drug Interactions (7.1)].
+- Intensive symptomatic treatment and medical monitoring.
+- Treatment of any concomitant serious medical problems for which specific treatments are available.
 
 ## 5.4 Depression
 

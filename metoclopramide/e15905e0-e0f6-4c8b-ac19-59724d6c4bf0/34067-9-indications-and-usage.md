@@ -2,8 +2,8 @@
 
 Metoclopramide tablets are indicated for the:
 
-- •Treatment for 4 to 12 weeks of symptomatic, documented gastroesophageal reflux in adults who fail to respond to conventional therapy.
-- •Relief of symptoms in adults with acute and recurrent diabetic gastroparesis.
+- Treatment for 4 to 12 weeks of symptomatic, documented gastroesophageal reflux in adults who fail to respond to conventional therapy.
+- Relief of symptoms in adults with acute and recurrent diabetic gastroparesis.
 
 Limitations of Use:
 
