@@ -118,33 +118,25 @@ If tretinoin is going to have a beneficial effect for you, you should notice a c
 Don’t be discouraged if you see no immediate improvement.
 Don’t stop treatment at the first signs of improvement.
 
-Once your acne is under control you should continue regular application of tretinoin until your physician instructs otherwise.
+Once your acne is under control you should continue regular application of tretinoin until your
+
+physician instructs otherwise.
 
 IF YOU HAVE QUESTIONS
 
 All questions of a medical nature should be taken up with your doctor.
+For more information about Tretinoin Cream, call our toll-free number: 1-800-636-7546.
 
-Manufactured for:
+Distributed by:
 
-Obagi Medical Products, a division of
+Obagi Cosmeceuticals LLC
 
-Valeant Pharmaceuticals North America LLC
+Long Beach, CA 90806
 
-Bridgewater, NJ 08807 USA
-
-By:
-
-Valeant Pharmaceuticals International, Inc.
-
-Laval, Quebec H7L 4A8, Canada
-
-Made in Canada
-
-©OMP, Inc.
-
-www.obagi.com
+© 2018 Obagi Cosmeceuticals LLC.
+All rights reserved. www.obagi.com
 
 Rev.
-03/2017
+04/2018
 
-9441001 20000283B
+9441002

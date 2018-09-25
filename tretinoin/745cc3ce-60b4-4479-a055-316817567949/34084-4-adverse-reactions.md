@@ -6,3 +6,5 @@ True contact allergy to topical tretinoin is rarely encountered.
 Temporary hyper- or hypopigmentation has been reported with repeated application of tretinoin.
 Some individuals have been reported to have heightened susceptibility to sunlight while under treatment with tretinoin.
 To date, all adverse effects of tretinoin have been reversible upon discontinuance of therapy (see Dosage and Administration).
+
+To report SUSPECTED ADVERSE REACTIONS, contact Obagi Cosmeceuticals LLC at 1-800-636-7546 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

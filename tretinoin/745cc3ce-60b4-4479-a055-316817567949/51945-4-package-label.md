@@ -4,9 +4,7 @@ NDC 62032-417-20
 
 Rx only
 
-OBAGI®
-
-MEDICAL
+OBAGI® MEDICAL
 
 Tretinoin Cream 0.1%
 
@@ -14,7 +12,7 @@ USP 0.1%
 
 FOR TOPICAL USE ONLY.
 
-Net wt.
+Net Wt.
 0.7 oz.
 (20 g)
 
@@ -24,15 +22,13 @@ NDC 62032-412-20
 
 Rx only
 
-OBAGI®
-
-MEDICAL
+OBAGI® MEDICAL
 
 Tretinoin Cream USP 0.05%
 
 FOR TOPICAL USE ONLY.
 
-Net wt.
+Net Wt.
 0.7 oz.
 (20 g)
 
@@ -42,16 +38,12 @@ NDC 62032-414-20
 
 Rx only
 
-OBAGI®
+OBAGI® MEDICAL
 
-MEDICAL
-
-Tretinoin Cream
-
-USP 0.025%
+Tretinoin Cream USP 0.025%
 
 FOR TOPICAL USE ONLY.
 
-Net wt.
+Net Wt.
 0.7 oz.
 (20 g)
