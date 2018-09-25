@@ -9,6 +9,6 @@ Bottles of 30 tablets with Child Resistant Closure, NDC 59746-334-30 Bottles of 
 Losartan potassium Tablets USP, 100 mg Green, oval, film coated tablet debossed with "C" on one side and "335" on other side.
 Bottles of 30 tablets with Child Resistant Closure, NDC 59746-335-30 Bottles of 90 tablets with Child Resistant Closure, NDC 59746-335-90 Bottles of 100 tablets with Child Resistant Closure, NDC 59746-335-01 Bottles of 1000 tablets with Plain Closure, NDC 59746-335-10
 
-Storage Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
+Storage Store at 25°C (77°F); excursions permitted to 15oC to 30°C (59oF to 86°F) [see USP Controlled Room Temperature].
 Keep container tightly closed.
 Protect from light.

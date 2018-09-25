@@ -128,8 +128,8 @@ If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about Losartan potassium tablets that is written for health professionals.
 
 What are the ingredients in Losartan potassium tablets?
-Active ingredients: losartan potassium, USP Inactive ingredients: microcrystalline cellulose, lactose monohydrate, pregelatinized starch, magnesium stearate, hydroxypropyl cellulose, hypromellose, titanium dioxide, D&C yellow No. 10 aluminum lake and FD&C blue No. 2 aluminum lake.
+Active ingredients: losartan potassium, USP Inactive ingredients: microcrystalline cellulose, lactose monohydrate, pregelatinized starch, magnesium stearate, polyvinyl alcohol, ployethylene glycol/macrogol, talc, titanium dioxide, D&C yellow No. 10 aluminum lake and FD&C blue No. 2/indigo carmine aluminum lake
 
 Manufactured by: Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA
 
-0333/PIL Rev. # 01/2016
+0333/PIL Rev. # 03/2017
