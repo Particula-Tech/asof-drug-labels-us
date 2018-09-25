@@ -8,7 +8,7 @@ Two hundred seventy (270) subjects were treated with a single 2 g oral dose of Z
 A subject was considered a cure if signs and symptoms related to the acute infection had resolved, or if clinical improvement was such that no additional antibiotics were deemed necessary.
 The clinical response for the primary population, Clinical Per Protocol Subjects, is presented below.
 
-Table 9: Clinical Response in Patients with Acute Bacterial Maxillary Sinusitis
+Table 7: Clinical Response in Patients with Acute Bacterial Maxillary Sinusitis
 
 | RESPONSE AT TOC | N = 255 | N = 254 |
 | --- | --- | --- |
@@ -18,7 +18,7 @@ Table 9: Clinical Response in Patients with Acute Bacterial Maxillary Sinusitis
 
 Clinical response by pathogen in the Bacteriologic Per Protocol population is presented below.
 
-Table 10: Clinical Response by Pathogen in Patients with Acute Bacterial Maxillary Sinusitis
+Table 8: Clinical Response by Pathogen in Patients with Acute Bacterial Maxillary Sinusitis
 
 | Pathogen | N | Cure | N | Cure |
 | --- | --- | --- | --- | --- |
@@ -36,7 +36,7 @@ In Trial 2, 211 subjects were treated with a single 2.0 g oral dose of Zmax and 
 A patient was considered a cure if signs and symptoms related to the acute infection had resolved, or if clinical improvement was such that no additional antibiotics were deemed necessary; in addition, the chest x-ray performed at the TOC visit was to be either improved or stable.
 The clinical response at TOC for the primary population, Clinical Per Protocol Subjects, is presented in the table below.
 
-Table 11: Clinical Response at Test of Cure (TOC) in Patients with Community-Acquired Pneumonia
+Table 9: Clinical Response at Test of Cure (TOC) in Patients with Community-Acquired Pneumonia
 
 |  | Zmax | Comparator |
 | --- | --- | --- |
@@ -49,7 +49,7 @@ Table 11: Clinical Response at Test of Cure (TOC) in Patients with Community-Acq
 
 Clinical response by pathogen in the Bacteriologic Per Protocol population, across both studies, is presented below:
 
-Table 12: Clinical Response by Pathogen in Patients with Community-Acquired Pneumonia
+Table 10: Clinical Response by Pathogen in Patients with Community-Acquired Pneumonia
 
 |  | N | Cure | N | Cure |
 | --- | --- | --- | --- | --- |
