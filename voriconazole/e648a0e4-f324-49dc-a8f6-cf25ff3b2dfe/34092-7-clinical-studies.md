@@ -36,20 +36,32 @@ Overall Efficacy and Success by Species in the Primary Treatment of Acute Invasi
 
 |  | n/N (%) | n/N (%) |  |
 | --- | --- | --- | --- |
-|  | Voriconazole | Ampho BAmphotericin B followed by other licensed antifungal therapy | Stratified Difference (95% CI)Difference and corresponding 95% confidence interval are stratified by protocol |
+|  | Voriconazole | Ampho B‡ | Stratified Difference (95% CI)§ |
 | Efficacy as Primary Therapy |  |  |  |
-| Satisfactory Global ResponseAssessed by independent Data Review Committee (DRC) | 76/144 (53) | 42/133 (32) | 21.8% (10.5%, 33%) p<0.0001 |
-| Survival at Day 84Proportion of subjects alive | 102/144 (71) | 77/133 (58) | 13.1% (2.1%, 24.2%) |
+| Satisfactory Global Response* | 76/144 (53) | 42/133 (32) | 21.8% (10.5%, 33%) p<0.0001 |
+| Survival at Day 84† | 102/144 (71) | 77/133 (58) | 13.1% (2.1%, 24.2%) |
 | Success by Species |  |  |  |
 | Success n/N (%) |  |  |  |
 | Overall success | 76/144 (53) | 42/133 (32) |  |
-| MycologicallyConfirmedNot all mycologically confirmed specimens were speciated | 37/84 (44) | 16/67 (24) |  |
-| Aspergillus spp.Some patients had more than one species isolated at baseline |  |  |  |
-| A.fumigatus | 28/63 (44) | 12/47 (26) |  |
-| A.flavus | 3/6 | 4/9 |  |
-| A.terreus | 2/3 | 0/3 |  |
-| A.niger | 1/4 | 0/9 |  |
-| A.nidulans | 1/1 | 0/0 |  |
+| Mycologicallyconfirmed¶ | 37/84 (44) | 16/67 (24) |  |
+| Aspergillus spp.# |  |  |  |
+| A. fumigatus | 28/63 (44) | 12/47 (26) |  |
+| A. flavus | 3/6 | 4/9 |  |
+| A. terreus | 2/3 | 0/3 |  |
+| A. niger | 1/4 | 0/9 |  |
+| A. nidulans | 1/1 | 0/0 |  |
+
+*Assessed by independent Data Review Committee (DRC)
+
+†Proportion of subjects alive
+
+‡Amphotericin B followed by other licensed antifungal therapy
+
+§ Difference and corresponding 95% confidence interval are stratified by protocol
+
+¶Not all mycologically confirmed specimens were speciated
+
+#Some patients had more than one species isolated at baseline
 
 Study 304 – Primary and Salvage Therapy of Aspergillosis
 
@@ -109,7 +121,7 @@ Overall Success Rates Sustained From EOT To The Fixed 12-Week Follow-Up Time Poi
 In a secondary analysis, which counted DRC-assessed successes at any time point (EOT, or 2, 6, or 12 weeks after EOT), the response rates were 65% for voriconazole and 71% for the regimen of amphotericin B followed by fluconazole.
 
 In Studies 608 and 309/604 (non-comparative study in patients with invasive fungal infections who were refractory to, or intolerant of, other antifungal agents), voriconazole was evaluated in 35 patients with deep tissue Candida infections.
-A favorable response was seen in 4 of 7 patients with intra-abdominal infections, 5 of 6 patients with kidney and bladder wall infections, 3 of 3 patients with deep tissue abscess or wound infection, 1 of 2 patients with pneumonia/pleural space infections, 2 of 4 patients with skin lesions, 1 of 1 patients with mixed intra-abdominal and pulmonary infection, 1 of 2 patients with suppurative phlebitis, 1 of 3 patients with hepatosplenic infection, 1 of 5 patients with osteomyelitis, 0 of 1 with liver infection, and 0 of 1 with cervical lymph node infection.
+A favorable response was seen in 4 of 7 patients with intra-abdominal infections, 5 of 6 patients with kidney and bladder wall infections, 3 of 3 patients with deep tissue abscess or wound infection, 1 of 2 patients with pneumonia/pleural space infections, 2 of 4 patients with skin lesions, 1 of 1 patients with mixed intraabdominal and pulmonary infection, 1 of 2 patients with suppurative phlebitis, 1 of 3 patients with hepatosplenic infection, 1 of 5 patients with osteomyelitis, 0 of 1 with liver infection, and 0 of 1 with cervical lymph node infection.
 
 ## 14.3 Esophageal Candidiasis
 
@@ -123,7 +135,7 @@ Voriconazole and fluconazole (200 mg once daily) showed comparable efficacy rate
 Table 15.
 Success Rates in Patients Treated for Esophageal Candidiasis
 
-| Population | Voriconazole (%) | Fluconazole (%) | Difference % (95% CI)Confidence Interval for the difference (Voriconazole – Fluconazole) in success rates. |
+| Population | Voriconazole | Fluconazole | Difference % (95% CI)Confidence Interval for the difference (Voriconazole – Fluconazole) in success rates. |
 | --- | --- | --- | --- |
 | PPPP (Per Protocol) patients had confirmation of Candida esophagitis by endoscopy, received at least 12 days of treatment, and had a repeat endoscopy at EOT (end of treatment). | 113/115 (98.2%) | 134/141 (95%) | 3.2 (-1.1, 7.5) |
 | ITTITT (Intent to Treat) patients without endoscopy or clinical assessment at EOT were treated as failures. | 175/200 (87.5%) | 171/191 (89.5%) | -2 (-8.3, 4.3) |
@@ -135,11 +147,15 @@ Clinical and mycological outcome by baseline pathogen in patients with esophagea
 
 |  | Voriconazole |  | Fluconazole |  |
 | --- | --- | --- | --- | --- |
-|  | Favorable endoscopic responsePatients with endoscopic and/or mycological assessment at end of therapy. | Mycological eradication | Favorable endoscopic response | Mycological eradication |
-| PathogenSome patients had more than one species isolated at baseline. | Success/Total (%) | Eradication/Total (%) | Success/Total (%) | Eradication/Total (%) |
-| C.albicans | 134/140 (96%) | 90/107 (84%) | 147/156 (94%) | 91/115 (79%) |
-| C.glabrata | 8/8 (100%) | 4/7 (57%) | 4/4 (100%) | 1/4 (25%) |
-| C.krusei | 1/1 | 1/1 | 2/2 (100%) | 0/0 |
+|  | Favorable endoscopic response† | Mycological eradication† | Favorable endoscopic response | Mycological eradication |
+| Pathogen* | Success/Total (%) | Eradication/Total (%) | Success/Total (%) | Eradication/Total (%) |
+| C. albicans | 134/140 (96%) | 90/107 (84%) | 147/156 (94%) | 91/115 (79%) |
+| C. glabrata | 8/8 (100%) | 4/7 (57%) | 4/4 (100%) | 1/4 (25%) |
+| C. krusei | 1/1 | 1/1 | 2/2 (100%) | 0/0 |
+
+*Some patients had more than one species isolated at baseline
+
+†Patients with endoscopic and/or mycological assessment at end of therapy
 
 ## 14.4 Other Serious Fungal Pathogens
 

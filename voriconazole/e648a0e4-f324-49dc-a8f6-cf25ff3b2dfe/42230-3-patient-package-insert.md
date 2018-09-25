@@ -9,7 +9,7 @@ This information does not take the place of talking with your healthcare provide
 What is voriconazole for injection?
 
 Voriconazole for injection is a prescription medicine used to treat certain serious fungal infections in your blood and body.
-These infections are called “aspergillosis,” “esophageal candidiasis,” “Scedosporium,” “Fusarium,” and “candidemia.”.
+These infections are called “aspergillosis,” “esophageal candidiasis,” “Scedosporium,” “Fusarium,” and “candidemia”.
 
 It is not known if voriconazole for injection is safe and effective in children younger than 12 years old.
 
@@ -63,14 +63,17 @@ Keep a list of them to show your healthcare provider or pharmacist when you get 
 
 How should I take voriconazole for injection?
 
-- •Voriconazole for injection will be given to you by a healthcare provider over 1 to 2 hours
+Voriconazole for injection may be prescribed to you as:
+
+- •Intravenous infusion.
+- •Voriconazole for injection will be given to you by a healthcare provider over 1 to 2 hours.
 - •If you take too much voriconazole for injection, call your healthcare provider or go to the nearest hospital emergency room.
 
 What should I avoid while taking voriconazole for injection?
 
 - •You should not drive at night while taking voriconazole for injection.
   Voriconazole can cause changes in your vision such as blurring or sensitivity to light.
-- •Do not drive or, operate machinery, or do other dangerous activities until you know how voriconazole for injection affects you.
+- •Do not drive or operate machinery, or do other dangerous activities until you know how voriconazole for injection affects you.
 - •Avoid direct sunlight.
   Voriconazole for injection can make your skin sensitive to the sun and the light from sunlamps and tanning beds.
   You could get a severe sunburn.
@@ -161,13 +164,13 @@ What are the ingredients of voriconazole for injection?
 
 Active ingredient: voriconazole
 
-Inactive ingredients: sulfobutyl ether beta-cyclodextrin sodium
+Inactive ingredients:sulfobutyl ether beta-cyclodextrin sodium
 
 The brands listed are the registered trademarks of their respective owners and are not trademarks of Sandoz Inc.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Finished drug product Manufactured by Lek Pharmaceuticals, d.d.
+Finished drug product Manufactured by Lek Pharmaceuticals d.d.
 
 SI-1526, Ljubljana, Slovenia
 
@@ -175,4 +178,4 @@ for Sandoz Inc., Princeton, NJ 08540
 
 Product of India
 
-Rev.: February 2016
+Rev.: August 2018

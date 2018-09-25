@@ -18,4 +18,4 @@ From a microbiological point of view, following reconstitution of the lyophile w
 If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and should not be longer than 24 hours at 2° to 8°C (36° to 46°F).
 Chemical and physical in-use stability has been demonstrated for 24 hours at 2° to 8°C (36° to 46°F).
 This medicinal product is for single use only and any unused solution should be discarded.
-Only clear solutions without particles should be used [see DOSAGE AND ADMINISTRATION (2.1)].
+Only clear solutions without particles should be used [seeDosage and Administration (2.1)].

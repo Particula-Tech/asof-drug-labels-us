@@ -12,7 +12,7 @@ Blood products and concentrated electrolytes
 
 Voriconazole for injection must not be infused concomitantly with any blood product or short-term infusion of concentrated electrolytes, even if the two infusions are running in separate intravenous lines (or cannulas).
 
-Electrolyte disturbances such as hypokalemia, hypomagnesemia and hypocalcemia should be corrected prior to initiation of and during voriconazole therapy [see WARNINGS AND PRECAUTIONS (5.8)].
+Electrolyte disturbances such as hypokalemia, hypomagnesemia and hypocalcemia should be corrected prior to initiation of and during voriconazole therapy [see Warnings and Precautions (5.8)].
 
 Intravenous solutions containing (non-concentrated) electrolytes
 
@@ -25,14 +25,14 @@ If infused through a multiple-lumen catheter, TPN needs to be administered using
 
 ## 2.3 Recommended Dosing in Adults
 
-Invasive aspergillosis and serious fungal infections due to Fusarium spp. and Scedosporium apiospermum
+Invasive aspergillosis and serious fungal infectionsdue toFusarium spp. and Scedosporium apiospermum
 
 See Table 1.
-Therapy must be initiated with the specified loading dose regimen of intravenous voriconazole on Day 1 followed by the recommended maintenance dose regimen.
+Therapy must be initiated with the specified loading dose regimen of intravenous voriconazole on Day 1 followed by the recommended maintenance dose (RMD) regimen.
 Intravenous treatment should be continued for at least 7 days.
 Once the patient has clinically improved and can tolerate medication given by mouth, the oral tablet form or oral suspension form of voriconazole may be utilized.
 The recommended oral maintenance dose of 200 mg achieves a voriconazole exposure similar to 3 mg/kg IV; a 300 mg oral dose achieves an exposure similar to 4 mg/kg IV.
-Switching between the intravenous and oral formulations is appropriate because of the high bioavailability of the oral formulation in adults [see CLINICAL PHARMACOLOGY (12)].
+Switching between the intravenous and oral formulations is appropriate because of the high bioavailability of the oral formulation in adults [see Clinical Pharmacology (12)].
 
 Candidemia in non-neutropenic patients and other deep tissue Candida infections
 
@@ -49,8 +49,8 @@ Recommended Dosing Regimen
 
 | Infection | IV | IV | OralAdult patients who weigh less than 40 kg should receive half of the oral maintenance dose. |
 | --- | --- | --- | --- |
-|  | Loading dose | Maintenance DoseIncrease dose when voriconazole is co-administered with phenytoin or efavirenz (7); Decrease dose in patients with hepatic impairment (2.7),In healthy volunteer studies, the 200 mg oral q12h dose provided an exposure (AUCτ) similar to a 3 mg/kg IV q12h dose; the 300 mg oral q12h dose provided an exposure (AUCτ) similar to a 4 mg/kg IV q12h dose [see CLINICAL PHARMACOLOGY (12)]. |  |
-| Invasive AspergillosisIn a clinical study of invasive aspergillosis, the median duration of intravenous voriconazole therapy was 10 days (range 2-85 days). The median duration of oral voraconazole therapy was 76 days (range 2 to 232 days) [see CLINICAL STUDIES (14.1)]. | 6 mg/kg q12h for the first 24 hours | 4 mg/kg q12h | 200 mg q12h |
+|  | Loading dose | Maintenance DoseIncrease dose when voriconazole is co-administered with phenytoin or efavirenz (7); Decrease dose in patients with hepatic impairment (2.7),In healthy volunteer studies, the 200 mg oral q12h dose provided an exposure (AUCτ) similar to a 3 mg/kg IV q12h dose; the 300 mg oral q12h dose provided an exposure (AUCτ) similar to a 4 mg/kg IV q12h dose [see Clinical Pharmacology (12)]. |  |
+| Invasive AspergillosisIn a clinical study of invasive aspergillosis, the median duration of intravenous voriconazole therapy was 10 days (range 2 to 85 days). The median duration of oral voriconazole therapy was 76 days (range 2 to 232 days) [see Clinical Studies (14.1)]. | 6 mg/kg q12h for the first 24 hours | 4 mg/kg q12h | 200 mg q12h |
 | Candidemia in nonneutropenic patients and other deep tissue Candida infections | 6 mg/kg q12h for the first 24 hours | 3-4 mg/kg q12hIn clinical trials, patients with candidemia received 3 mg/kg IV q12h as primary therapy, while patients with other deep tissue Candida infections received 4 mg/kg q12h as salvage therapy. Appropriate dose should be based on the severity and nature of the infection. | 200 mg q12h |
 | Esophageal Candidiasis | Not evaluated in patients with esophageal candidiasis. |  | 200 mg q12h |
 | Scedosporiosis and Fusariosis | 6 mg/kg q12h for the first 24 hours | 4 mg/kg q12h | 200 mg q12h |
@@ -65,7 +65,7 @@ If patient is unable to tolerate 4 mg/kg IV q12h, reduce the intravenous mainten
 
 The maintenance dose of voriconazole should be increased when co-administered with phenytoin or efavirenz [see Drug Interactions (7)].
 
-The maintenance dose of voriconazole should be reduced in patients with mild to moderate hepatic impairment, Child-Pugh Class A and B [see DOSAGE AND ADMINISTRATION (2.7)].
+The maintenance dose of voriconazole should be reduced in patients with mild to moderate hepatic impairment, Child-Pugh Class A and B [see Dosage and Administration (2.7)].
 There are no PK data to allow for dosage adjustment recommendations in patients with severe hepatic impairment (Child-Pugh Class C).
 
 Duration of therapy should be based on the severity of the patient’s underlying disease, recovery from immunosuppression, and clinical response.
@@ -84,11 +84,11 @@ Dilution
 Voriconazole for injection must be infused over 1 to 2 hours, at a concentration of 5 mg/mL or less.
 Therefore, the required volume of the 10 mg/mL voriconazole for injection concentrate should be further diluted as follows (appropriate diluents listed below):
 
-- 1.Calculate the volume of 10 mg/mL voriconazole for injection concentrate required based on the patient’s weight (see Table 2).
-- 2.In order to allow the required volume of voriconazole for injection concentrate to be added, withdraw and discard at least an equal volume of diluent from the infusion bag or bottle to be used.
-  The volume of diluent remaining in the bag or bottle should be such that when the 10 mg/mL voriconazole for injection concentrate is added, the final concentration is not less than 0.5 mg/mL nor greater than 5 mg/mL.
-- 3.Using a suitable size syringe and aseptic technique, withdraw the required volume of voriconazole for injection concentrate from the appropriate number of vials and add to the infusion bag or bottle.
-  Discard Partially Used Vials.
+1. 1.Calculate the volume of 10 mg/mL voriconazole for injection concentrate required based on the patient’s weight (see Table 2).
+2. 2.In order to allow the required volume of voriconazole for injection concentrate to be added, withdraw and discard at least an equal volume of diluent from the infusion bag or bottle to be used.
+   The volume of diluent remaining in the bag or bottle should be such that when the 10 mg/mL voriconazole for injection concentrate is added, the final concentration is not less than 0.5 mg/mL nor greater than 5 mg/mL.
+3. 3.Using a suitable size syringe and aseptic technique, withdraw the required volume of voriconazole for injection concentrate from the appropriate number of vials and add to the infusion bag or bottle.
+   Discard Partially Used Vials.
 
 The final voriconazole for injection solution must be infused over 1 to 2 hours at a maximum rate of 3 mg/kg per hour.
 
@@ -152,22 +152,22 @@ Compatibility with other concentrations is unknown.
 ## 2.7 Use in Patients With Hepatic Impairment
 
 In the clinical program, patients were included who had baseline liver function tests (ALT, AST) up to 5 times the upper limit of normal.
-No dose adjustment is necessary in patients with this degree of abnormal liver function, but continued monitoring of liver function tests for further elevations is recommended [see WARNINGS AND PRECAUTIONS (5.9)].
+No dose adjustment is necessary in patients with this degree of abnormal liver function, but continued monitoring of liver function tests for further elevations is recommended [see Warnings and Precautions (5.9)].
 
-It is recommended that the standard loading dose regimens be used but that the maintenance dose be halved in patients with mild to moderate hepatic cirrhosis (Child-Pugh Class A and B) [see CLINICAL PHARMACOLOGY (12.3)].
+It is recommended that the standard loading dose regimens be used but that the maintenance dose be halved in patients with mild to moderate hepatic cirrhosis (Child-Pugh Class A and B) [see Clinical Pharmacology (12.3)].
 
 Voriconazole has not been studied in patients with severe hepatic cirrhosis (Child-Pugh Class C) or in patients with chronic hepatitis B or chronic hepatitis C disease.
 Voriconazole has been associated with elevations in liver function tests and clinical signs of liver damage, such as jaundice, and should only be used in patients with severe hepatic impairment if the benefit outweighs the potential risk.
-Patients with hepatic insufficiency must be carefully monitored for drug toxicity.
+Patients with hepatic impairment must be carefully monitored for drug toxicity.
 
 ## 2.8 Use in Patients With Renal Impairment
 
 The pharmacokinetics of orally administered voriconazole are not significantly affected by renal impairment.
-Therefore, no adjustment is necessary for oral dosing in patients with mild to severe renal impairment [see CLINICAL PHARMACOLOGY (12.3)].
+Therefore, no adjustment is necessary for oral dosing in patients with mild to severe renal impairment [see Clinical Pharmacology (12.3)].
 
 In patients with moderate or severe renal impairment (creatinine clearance <50 mL/min), accumulation of the intravenous vehicle, SBECD, occurs.
 Oral voriconazole should be administered to these patients, unless an assessment of the benefit/risk to the patient justifies the use of intravenous voriconazole.
-Serum creatinine levels should be closely monitored in these patients, and, if increases occur, consideration should be given to changing to oral voriconazole therapy [see WARNINGS AND PRECAUTIONS (5.10)].
+Serum creatinine levels should be closely monitored in these patients, and, if increases occur, consideration should be given to changing to oral voriconazole therapy [see Warnings and Precautions (5.10)].
 
 Voriconazole is hemodialyzed with clearance of 121 mL/min.
 The intravenous vehicle, SBECD, is hemodialyzed with clearance of 55 mL/min.

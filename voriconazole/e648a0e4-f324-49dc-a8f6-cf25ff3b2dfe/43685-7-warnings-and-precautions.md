@@ -3,33 +3,32 @@
 ## 5.1 Drug Interactions
 
 See Table 7 for a listing of drugs that may significantly alter voriconazole concentrations.
-Also, see Table 8 for a listing of drugs that may interact with voriconazole resulting in altered pharmacokinetics or pharmacodynamics of the other drug [see CONTRAINDICATIONS (4), and DRUG INTERACTIONS (7)].
+Also, see Table 8 for a listing of drugs that may interact with voriconazole resulting in altered pharmacokinetics or pharmacodynamics of the other drug [see Contraindications (4) and Drug Interactions (7)].
 
 ## 5.2 Hepatic Toxicity
 
 In clinical trials, there have been uncommon cases of serious hepatic reactions during treatment with voriconazole (including clinical hepatitis, cholestasis and fulminant hepatic failure, including fatalities).
 Instances of hepatic reactions were noted to occur primarily in patients with serious underlying medical conditions (predominantly hematological malignancy).
 Hepatic reactions, including hepatitis and jaundice, have occurred among patients with no other identifiable risk factors.
-Liver dysfunction has usually been reversible on discontinuation of therapy [see WARNINGS AND PRECAUTIONS (5.9), and ADVERSE REACTIONS (6.3)].
+Liver dysfunction has usually been reversible on discontinuation of therapy [see Warnings and Precautions (5.9) and Adverse Reactions (6.3)].
 
 Measure serum transaminase levels and bilirubin at the initiation of voriconazole therapy and monitor at least weekly for the first month of treatment.
 Monitoring frequency can be reduced to monthly during continued use if no clinically significant changes are noted.
-If liver function tests become markedly elevated compared to baseline, voriconazole should be discontinued unless the medical judgment of the benefit-risk of the treatment for the patient justifies continued use [see WARNINGS AND PRECAUTIONS (5.9), DOSAGE AND ADMINISTRATION (2.4, 2.7), and ADVERSE REACTIONS (6.3)].
+If liver function tests become markedly elevated compared to baseline, voriconazole should be discontinued unless the medical judgment of the benefit-risk of the treatment for the patient justifies continued use [see Warnings and Precautions (5.9), Dosage and Administration (2.4, 2.7) and Adverse Reactions (6.3)].
 
 ## 5.3 Visual Disturbances
 
 The effect of voriconazole on visual function is not known if treatment continues beyond 28 days.
 There have been post-marketing reports of prolonged visual adverse events, including optic neuritis and papilledema.
-If treatment continues beyond 28 days, visual function including visual acuity, visual field and color perception should be monitored [see ADVERSE REACTIONS (6.2)].
+If treatment continues beyond 28 days, visual function including visual acuity, visual field and color perception should be monitored [see Adverse Reactions (6.2)].
 
 ## 5.4 Embryo-Fetal Toxicity
 
 Voriconazole can cause fetal harm when administered to a pregnant woman.
 
-In animals, voriconazole administration was associated with teratogenicity, embryotoxicity, increased gestational length, dystocia and embryomortality.
-Please refer to section 8.1 (Use in Pregnancy) for additional details.
+In animals, voriconazole administration was associated with teratogenicity, embryotoxicity, increased gestational length, dystocia and embryomortality [see Use in Specific Populations (8.1)].
 
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be informed of the potential hazard to the fetus.
+If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, inform the patient of the potential hazard to the fetus.
 
 ## 5.6 Arrhythmias and QT Prolongation
 
@@ -43,9 +42,9 @@ Voriconazole should be administered with caution to patients with potentially pr
 - •Cardiomyopathy, in particular when heart failure is present
 - •Sinus bradycardia
 - •Existing symptomatic arrhythmias
-- •Concomitant medicinal product that is known to prolong QT interval [see CONTRAINDICATIONS (4), DRUG INTERACTIONS (7), and CLINICAL PHARMACOLOGY (12.3)]
+- •Concomitant medicinal product that is known to prolong QT interval [see Contraindications (4), Drug Interactions (7), and Clinical Pharmacology (12.3)]
 
-Rigorous attempts to correct potassium, magnesium and calcium should be made before starting and during voriconazole therapy [see CLINICAL PHARMACOLOGY (12.3)].
+Rigorous attempts to correct potassium, magnesium and calcium should be made before starting and during voriconazole therapy [see Clinical Pharmacology (12.3)].
 
 ## 5.7 Infusion Related Reactions
 
@@ -61,16 +60,16 @@ Patient management should include laboratory evaluation of renal (particularly s
 
 ## 5.9 Patients With Hepatic Impairment
 
-It is recommended that the standard loading dose regimens be used but that the maintenance dose be halved in patients with mild to moderate hepatic cirrhosis (Child-Pugh Class A and B) receiving voriconazole [see CLINICAL PHARMACOLOGY (12.3), and DOSAGE AND ADMINISTRATION (2.7)].
+It is recommended that the standard loading dose regimens be used but that the maintenance dose be halved in patients with mild to moderate hepatic cirrhosis (Child-Pugh Class A and B) receiving voriconazole [see Clinical Pharmacology (12.3) and Dosage and Administration (2.7)].
 
-Voriconazole has not been studied in patients with severe cirrhosis (Child-Pugh Class C). Voriconazole has been associated with elevations in liver function tests and clinical signs of liver damage, such as jaundice, and should only be used in patients with severe hepatic insufficiency if the benefit outweighs the potential risk.
-Patients with hepatic insufficiency must be carefully monitored for drug toxicity.
+Voriconazole has not been studied in patients with severe cirrhosis (Child-Pugh Class C). Voriconazole has been associated with elevations in liver function tests and clinical signs of liver damage, such as jaundice, and should only be used in patients with severe hepatic impairment if the benefit outweighs the potential risk.
+Patients with hepatic impairment must be carefully monitored for drug toxicity.
 
 ## 5.10 Patients With Renal Impairment
 
 In patients with moderate to severe renal dysfunction (creatinine clearance <50 mL/min), accumulation of the intravenous vehicle, SBECD, occurs.
 Oral voriconazole should be administered to these patients, unless an assessment of the benefit/risk to the patient justifies the use of intravenous voriconazole.
-Serum creatinine levels should be closely monitored in these patients, and if increases occur, consideration should be given to changing to oral voriconazole therapy [see CLINICAL PHARMACOLOGY (12.3), and DOSAGE AND ADMINISTRATION (2.8)].
+Serum creatinine levels should be closely monitored in these patients, and if increases occur, consideration should be given to changing to oral voriconazole therapy [see Clinical Pharmacology (12.3) and Dosage and Administration (2.8)].
 
 ## 5.11 Monitoring of Renal Function
 
@@ -103,4 +102,4 @@ In children experiencing photoaging injuries such as lentigines or ephelides, su
 ## 5.14 Skeletal Adverse Events
 
 Fluorosis and periostitis have been reported during long-term voriconazole therapy.
-If a patient develops skeletal pain and radiologic findings compatible with fluorosis or periostitis, voriconazole should be discontinued [see ADVERSE REACTIONS (6.4)].
+If a patient develops skeletal pain and radiologic findings compatible with fluorosis or periostitis, voriconazole should be discontinued [see Adverse Reactions (6.4)].
