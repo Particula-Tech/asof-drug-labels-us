@@ -124,15 +124,15 @@ Esomeprazole magnesium delayed-release capsules can cause serious side effects, 
   If low magnesium levels happen, it is usually after a year of treatment.
 - You may or may not have symptoms of low magnesium.
   Tell your doctor right away if you have any of these symptoms:
-  1. oseizures
-  2. odizziness
-  3. oabnormal or fast heart beat
-  4. ojitteriness
-  5. ojerking movements or shaking (tremors)
-  6. omuscle weakness
-  7. ospasms of the hands and feet
-  8. ocramps or muscle aches
-  9. ospasm of the voice box
+  1. 1.seizures
+  2. 2.dizziness
+  3. 3.abnormal or fast heart beat
+  4. 4.jitteriness
+  5. 5.jerking movements or shaking (tremors)
+  6. 6.muscle weakness
+  7. 7.spasms of the hands and feet
+  8. 8.cramps or muscle aches
+  9. 9.spasm of the voice box
 
 Your doctor may check the level of magnesium in your body before you start taking esomeprazole magnesium delayed-release capsules or during treatment if you will be taking esomeprazole magnesium delayed-release capsules for a long period of time.
 
