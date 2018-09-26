@@ -102,7 +102,7 @@ Laboratory Abnormalities: Creatinine increase, Elevated liver enzymes, Hemoglobi
 
 Sensory: Cataracts, Deafness, Tinnitus.
 
-## Postmarketing Experience
+## Post-marketing Experience
 
 ### Serotonin syndrome
 

@@ -18,6 +18,21 @@ Consider these risks when prescribing or dispensing ULTRAM.
 Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity and advising the patient on the proper disposal of unused drug (see PRECAUTIONS; Information for Patients).
 Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
 
+## Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
+
+To ensure that the benefits of opioid analgesics outweigh the risks of addiction, abuse, and misuse, the Food and Drug Administration (FDA) has required a Risk Evaluation and Mitigation Strategy (REMS) for these products.
+Under the requirements of the REMS, drug companies with approved opioid analgesic products must make REMS-compliant education programs available to healthcare providers.
+Healthcare providers are strongly encouraged to do all of the following:
+
+- Complete a REMS-compliant education program offered by an accredited provider of continuing education (CE) or another education program that includes all the elements of the FDA Education Blueprint for Health Care Providers Involved in the Management or Support of Patients with Pain.
+- Discuss the safe use, serious risks, and proper storage and disposal of opioid analgesics with patients and/or their caregivers every time these medicines are prescribed.
+  The Patient Counseling Guide (PCG) can be obtained at this link: www.fda.gov/OpioidAnalgesicREMSPCG.
+- Emphasize to patients and their caregivers the importance of reading the Medication Guide that they will receive from their pharmacist every time an opioid analgesic is dispensed to them.
+- Consider using other tools to improve patient, household, and community safety, such as patient-prescriber agreements that reinforce patient-prescriber responsibilities.
+
+To obtain further information on the opioid analgesic REMS and for a list of accredited REMS CME/CE, call 1-800-503-0784, or log on to www.opioidanalgesicrems.com.
+The FDA Blueprint can be found at www.fda.gov/OpioidAnalgesicREMSBlueprint.
+
 ## Life-Threatening Respiratory Depression
 
 Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
@@ -37,7 +52,7 @@ Accidental ingestion of even one dose of ULTRAM, especially by children, can res
 
 Life-threatening respiratory depression and death have occurred in children who received tramadol.
 Tramadol and codeine are subject to variability in metabolism based upon CYP2D6 genotype (described below), which can lead to increased exposure to an active metabolite.
-Based upon postmarketing reports with tramadol or with codeine, children younger than 12 years of age may be more susceptible to the respiratory depressant effects of tramadol.
+Based upon post-marketing reports with tramadol or with codeine, children younger than 12 years of age may be more susceptible to the respiratory depressant effects of tramadol.
 Furthermore, children with obstructive sleep apnea who are treated with opioids for post-tonsillectomy and/or adenoidectomy pain may be particularly sensitive to their respiratory depressant effect.
 Because of the risk of life-threatening respiratory depression and death:
 
@@ -159,7 +174,7 @@ The information available does not identify any particular opioids as being more
 
 The use of ULTRAM in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
 
-Patients with Chronic Pulmonary Disease: ULTRAM -treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of ULTRAM (see WARNINGS).
+Patients with Chronic Pulmonary Disease: ULTRAM-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of ULTRAM (see WARNINGS).
 
 Elderly, Cachectic, or Debilitated Patients: Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients (see WARNINGS).
 
@@ -169,7 +184,7 @@ Alternatively, consider the use of non-opioid analgesics in these patients.
 ## Severe Hypotension
 
 ULTRAM may cause severe hypotension including orthostatic hypotension and syncope in ambulatory patients.
-There is increased risk in patients whose ability to maintain blood pressure has already been compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g. phenothiazines or general anesthetics) (see PRECAUTIONS; Drug Interactions).
+There is increased risk in patients whose ability to maintain blood pressure has already been compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g., phenothiazines or general anesthetics) (see PRECAUTIONS; Drug Interactions).
 Monitor these patients for signs of hypotension after initiating or titrating the dosage of ULTRAM.
 In patients with circulatory shock, ULTRAM may cause vasodilation that can further reduce cardiac output and blood pressure.
 Avoid the use of ULTRAM in patients with circulatory shock.
@@ -197,8 +212,7 @@ When these events do occur it is often following the first dose.
 Other reported allergic reactions include pruritus, hives, bronchospasm, angioedema, toxic epidermal necrolysis and Stevens-Johnson syndrome.
 Patients with a history of anaphylactoid reactions to tramadol and other opioids may be at increased risk and therefore should not receive ULTRAM (see CONTRAINDICATIONS).
 If anaphylaxis or other hypersensitivity occurs, stop administration of ULTRAM immediately, discontinue ULTRAM permanently, and do not rechallenge with any formulation of tramadol.
-Advise patients to seek immediate medical attention if they experience any symptoms of a hypersensitivity reaction.
-(see CONTRAINDICATIONS, PRECAUTIONS; Information for Patients)
+Advise patients to seek immediate medical attention if they experience any symptoms of a hypersensitivity reaction (see CONTRAINDICATIONS, PRECAUTIONS; Information for Patients).
 
 ## Withdrawal
 
@@ -339,7 +353,7 @@ The concomitant use of ULTRAM and CYP2D6 inhibitors, such as quinidine, fluoxeti
 Since M1 is a more potent µ-opioid agonist, decreased M1 exposure could result in decreased therapeutic effects, and may result in signs and symptoms of opioid withdrawal in patients who had developed physical dependence to tramadol.
 Increased tramadol exposure can result in increased or prolonged therapeutic effects and increased risk for serious adverse events including seizures and serotonin syndrome.
 
-After stopping a CYP2D6 inhibitor, as the effects of the inhibitor decline, the tramadol plasma concentration will decrease and the M1 plasma concentration will increase which could increase or prolong therapeutic effects but also increase adverse reactions related to opioid toxicity, and may cause potentially fatal respiratory depression (see CLINICAL PHARMACOLOGY)
+After stopping a CYP2D6 inhibitor, as the effects of the inhibitor decline, the tramadol plasma concentration will decrease and the M1 plasma concentration will increase which could increase or prolong therapeutic effects but also increase adverse reactions related to opioid toxicity, and may cause potentially fatal respiratory depression (see CLINICAL PHARMACOLOGY).
 
 If concomitant use of a CYP2D6 inhibitor is necessary, follow patients closely for adverse reactions including opioid withdrawal, seizures, and serotonin syndrome.
 
@@ -353,7 +367,7 @@ The clinical consequences of these findings are unknown.
 
 ### Inhibitors of CYP3A4
 
-The concomitant use of ULTRAM and CYP3A4 inhibitors, such as macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g. ketoconazole), protease inhibitors (e.g., ritonavir), can increase the plasma concentration of tramadol, and may result in a greater amount of metabolism via CYP2D6 and greater levels of M1.
+The concomitant use of ULTRAM and CYP3A4 inhibitors, such as macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g., ketoconazole), protease inhibitors (e.g., ritonavir), can increase the plasma concentration of tramadol, and may result in a greater amount of metabolism via CYP2D6 and greater levels of M1.
 Follow patients closely for increased risk of serious adverse events including seizures and serotonin syndrome, and adverse reactions related to opioid toxicity including potentially fatal respiratory depression, particularly when a CYP3A4 inhibitor is added after a stable dose of ULTRAM is achieved.
 
 After stopping a CYP3A4 inhibitor, as the effects of the inhibitor decline, the tramadol plasma concentration will decrease (see CLINICAL PHARMACOLOGY), resulting in decreased opioid efficacy or a withdrawal syndrome in patients who had developed physical dependence to tramadol.
@@ -455,7 +469,7 @@ Prolonged use of opioid analgesics during pregnancy may cause neonatal opioid wi
 Available data with ULTRAM in pregnant women are insufficient to inform a drug-associated risk for major birth defects and miscarriage.
 
 In animal reproduction studies, tramadol administration during organogenesis decreased fetal weights and reduced ossification in mice, rats, and rabbits at 1.4, 0.6, and 3.6 times the maximum recommended human daily dosage (MRHD).
-Tramadol decreased pup body weight and increased pup mortality at 1.2 and 1.9 times the MRHD [see Data].
+Tramadol decreased pup body weight and increased pup mortality at 1.2 and 1.9 times the MRHD (see Data).
 Based on animal data, advise pregnant women of the potential risk to a fetus.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.

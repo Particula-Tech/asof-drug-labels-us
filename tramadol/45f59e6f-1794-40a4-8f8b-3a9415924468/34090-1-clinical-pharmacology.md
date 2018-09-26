@@ -81,7 +81,7 @@ There is no evidence of self-induction (see Figure 1 and Table 1 below).
 
 Figure 1: Mean Tramadol and M1 Plasma Concentration Profiles after a Single 100 mg Oral Dose and after Twenty-Nine 100 mg Oral Doses of Tramadol HCl given four times per day.
 
-Table 1 Mean (%CV) Pharmacokinetic Parameters for Racemic Tramadol and M1 Metabolite
+Table 1: Mean (%CV) Pharmacokinetic Parameters for Racemic Tramadol and M1 Metabolite
 
 | Population/Dosage RegimenSD = Single dose, MD = Multiple dose, p.o.= Oral administration, i.v.= Intravenous administration, q.i.d. = Four times daily | Parent Drug/Metabolite | Peak Conc. (ng/mL) | Time to Peak (hrs) | Clearance/FF represents the oral bioavailability of tramadol (mL/min/Kg) | t1/2 (hrs) |
 | --- | --- | --- | --- | --- | --- |
