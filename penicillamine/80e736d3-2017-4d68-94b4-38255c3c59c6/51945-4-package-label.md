@@ -4,14 +4,10 @@ NDC 25010-705-15
 
 Rx only
 
-Cuprimine® (Penicillamine) Capsules
+Cuprimine® (penicillamine) Capsules
 
-250 mg
+250 mg 100 Capsules
 
-Each capsule contains 250 mg
+Each capsule contains 250 mg of penicillamine.
 
-of penicillamine.
-
-Keep container tightly closed.
-
-100 Capsules
+VALEANT

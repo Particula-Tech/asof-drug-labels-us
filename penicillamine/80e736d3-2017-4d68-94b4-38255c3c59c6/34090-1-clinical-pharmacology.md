@@ -1,7 +1,7 @@
 # CLINICAL PHARMACOLOGY
 
 Penicillamine is a chelating agent recommended for the removal of excess copper in patients with Wilson's disease.
-From in vitro studies which indicate that one atom of copper combines with two molecules of penicillamine, it would appear that one gram of penicillamine should be followed by the excretion of about 200 milligrams of copper; however, the actual amount excreted is about one percent of this.
+From in vitro studies which indicate that one atom of copper combines with two molecules of penicillamine, it would appear that 1 g of penicillamine should be followed by the excretion of about 200 mg of copper; however, the actual amount excreted is about 1% of this.
 
 Penicillamine also reduces excess cystine excretion in cystinuria.
 This is done, at least in part, by disulfide interchange between penicillamine and cystine, resulting in formation of penicillamine-cysteine disulfide, a substance that is much more soluble than cystine and is excreted readily.
@@ -14,21 +14,21 @@ Also unlike cytotoxic immunosuppressants which act on both, penicillamine in vit
 
 In vitro, penicillamine dissociates macroglobulins (rheumatoid factor) although the relationship of the activity to its effect in rheumatoid arthritis is not known.
 
-In rheumatoid arthritis, the onset of therapeutic response to CUPRIMINE may not be seen for two or three months.
-In those patients who respond, however, the first evidence of suppression of symptoms such as pain, tenderness, and swelling is generally apparent within three months.
+In rheumatoid arthritis, the onset of therapeutic response to CUPRIMINE may not be seen for 2 or 3 months.
+In those patients who respond, however, the first evidence of suppression of symptoms such as pain, tenderness, and swelling is generally apparent within 3 months.
 The optimum duration of therapy has not been determined.
 If remissions occur, they may last from months to years, but usually require continued treatment (see DOSAGE AND ADMINISTRATION).
 
-In all patients receiving penicillamine, it is important that CUPRIMINE be given on an empty stomach, at least one hour before meals or two hours after meals, and at least one hour apart from any other drug, food, milk, antacid, zinc or iron-containing preparation.
+In all patients receiving penicillamine, it is important that CUPRIMINE be given on an empty stomach, at least 1 hour before meals or 2 hours after meals, and at least 1 hour apart from any other drug, food, milk, antacid, zinc, or iron-containing preparation.
 This permits maximum absorption and reduces the likelihood of inactivation by metal binding in the gastrointestinal tract.
 
 ## Pharmacokinetics
 
 Penicillamine is absorbed rapidly but incompletely (40-70%) from the gastrointestinal tract, with wide inter-individual variations.
 Food, antacids, and iron reduce absorption of the drug.
-The peak plasma concentration of penicillamine occurs 1-3 hours after ingestion; it is approximately 1-2 mg/L after an oral dose of 250 mg.
-The drug appears in the plasma as free penicillamine, penicillamine disulfide, and cysteine-penicillamine disulfide.
-When prolonged treatment is stopped, there is a slow elimination phase lasting 4-6 days.
+The peak plasma concentration of penicillamine occurs 1 to 3 hours after ingestion; it is approximately 1 to 2 mg/L after an oral dose of 250 mg.
+The drug appears in the plasma as free penicillamine, penicillamine disulfide, and penicillamine-cysteine disulfide.
+When prolonged treatment is stopped, there is a slow elimination phase lasting 4 to 6 days.
 
 More than 80% of plasma penicillamine is bound to proteins, especially albumin and ceruloplasmin.
 The drug also binds to erythrocytes and macrophages.

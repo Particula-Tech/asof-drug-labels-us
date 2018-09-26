@@ -7,7 +7,7 @@ Reported incidences (%) for the most commonly occurring adverse reactions in rhe
 
 ## Allergic
 
-Generalized pruritus, early and late rashes (5%), pemphigus (see WARNINGS), and drug eruptions which may be accompanied by fever, arthralgia, or lymphadenopathy have occurred (see WARNINGS and PRECAUTIONS).
+Generalized pruritus, early and late rashes (5%), pemphigus (see WARNINGS), and drug eruptions, which may be accompanied by fever, arthralgia, or lymphadenopathy have occurred (see WARNINGS and PRECAUTIONS).
 Some patients may show a lupus erythematosus-like syndrome similar to drug-induced lupus produced by other pharmacological agents (see PRECAUTIONS).
 
 Urticaria and exfoliative dermatitis have occurred.
@@ -21,11 +21,11 @@ Some patients may develop a migratory polyarthralgia, often with objective synov
 
 Anorexia, epigastric pain, nausea, vomiting, or occasional diarrhea may occur (17%).
 
-Isolated cases of reactivated peptic ulcer have occurred, as have hepatic dysfunction including hepatic failure, and pancreatitis.
+Isolated cases of reactivated peptic ulcer have occurred, as have hepatic dysfunction including hepatic failure and pancreatitis.
 Intrahepatic cholestasis and toxic hepatitis have been reported rarely.
 There have been a few reports of increased serum alkaline phosphatase, lactic dehydrogenase, and positive cephalin flocculation and thymol turbidity tests.
 
-Some patients may report a blunting, diminution, or total loss of taste perception (12%); or may develop oral ulcerations.
+Some patients may report a blunting, diminution, or total loss of taste perception (12%) or may develop oral ulcerations.
 Although rare, cheilosis, glossitis, and gingivostomatitis have been reported (see PRECAUTIONS).
 
 Gastrointestinal side effects are usually reversible following cessation of therapy.
@@ -33,7 +33,7 @@ Gastrointestinal side effects are usually reversible following cessation of ther
 ## Hematological
 
 Penicillamine can cause bone marrow depression (see WARNINGS).
-Leukopenia (2%) and thrombocytopenia (4%) have occurred.
+Leukopenia (2%) and thrombocytopenia (4%) also have occurred.
 Fatalities have been reported as a result of thrombocytopenia, agranulocytosis, aplastic anemia, and sideroblastic anemia.
 
 Thrombotic thrombocytopenic purpura, hemolytic anemia, red cell aplasia, monocytosis, leukocytosis, eosinophilia, and thrombocytosis have also been reported.
@@ -45,7 +45,7 @@ Renal failure has been reported.
 
 ## Central Nervous System
 
-Tinnitus, optic neuritis and peripheral sensory and motor neuropathies (including polyradiculoneuropathy, i.e., Guillain-Barré syndrome) have been reported.
+Tinnitus, optic neuritis, and peripheral sensory and motor neuropathies (including polyradiculoneuropathy, i.e., Guillain-Barré syndrome) have been reported.
 Muscular weakness may or may not occur with the peripheral neuropathies.
 Visual and psychic disturbances; mental disorders; and agitation and anxiety have been reported.
 
@@ -57,14 +57,14 @@ Myasthenia gravis (see WARNINGS); dystonia.
 
 Adverse reactions that have been reported rarely include thrombophlebitis; hyperpyrexia (see PRECAUTIONS); falling hair or alopecia; lichen planus; polymyositis; dermatomyositis; mammary hyperplasia; elastosis perforans serpiginosa; toxic epidermal necrolysis; anetoderma (cutaneous macular atrophy); and Goodpasture's syndrome, a severe and ultimately fatal glomerulonephritis associated with intra-alveolar hemorrhage (see WARNINGS).
 Vasculitis, including fatal renal vasculitis, has also been reported.
-Allergic alveolitis, obliterative bronchiolitis, interstitial pneumonitis and pulmonary fibrosis have been reported in patients with severe rheumatoid arthritis, some of whom were receiving penicillamine.
+Allergic alveolitis, obliterative bronchiolitis, interstitial pneumonitis, and pulmonary fibrosis have been reported in patients with severe rheumatoid arthritis, some of whom were receiving penicillamine.
 Bronchial asthma also has been reported.
 
-Increased skin friability, excessive wrinkling of skin, and development of small white papules at venipuncture and surgical sites have been reported (see PRECAUTIONS); yellow nail syndrome.
+Increased skin friability; excessive wrinkling of skin; and development of small white papules at venipuncture and surgical sites have been reported (see PRECAUTIONS); yellow nail syndrome.
 
-The chelating action of the drug may cause increased excretion of other heavy metals such as zinc, mercury and lead.
+The chelating action of the drug may cause increased excretion of other heavy metals such as zinc, mercury, and lead.
 
 There have been reports associating penicillamine with leukemia.
 However, circumstances involved in these reports are such that a cause and effect relationship to the drug has not been established.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Aton Pharma, Inc., a division of Valeant Pharmaceuticals North America LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

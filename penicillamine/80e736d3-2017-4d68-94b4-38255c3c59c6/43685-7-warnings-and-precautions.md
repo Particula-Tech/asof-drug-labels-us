@@ -2,44 +2,44 @@
 
 The use of penicillamine has been associated with fatalities due to certain diseases such as aplastic anemia, agranulocytosis, thrombocytopenia, Goodpasture's syndrome, and myasthenia gravis.
 
-Because of the potential for serious hematological and renal adverse reactions to occur at any time, routine urinalysis, white and differential blood cell count, hemoglobin determination, and direct platelet count must be done twice weekly, together with monitoring of the patient's skin, lymph nodes and body temperature, during the first month of therapy, every two weeks for the next five months, and monthly thereafter.
-Patients should be instructed to report promptly the development of signs and symptoms of granulocytopenia and/or thrombocytopenia such as fever, sore throat, chills, bruising or bleeding.
+Because of the potential for serious hematological and renal adverse reactions to occur at any time, routine urinalysis, white and differential blood cell count, hemoglobin determination, and direct platelet count must be done twice weekly, together with monitoring of the patient's skin, lymph nodes, and body temperature, during the first month of therapy, every two weeks for the next 5 months, and monthly thereafter.
+Patients should be instructed to report promptly the development of signs and symptoms of granulocytopenia and/or thrombocytopenia such as fever, sore throat, chills, bruising, or bleeding.
 The above laboratory studies should then be promptly repeated.
 
-Leukopenia and thrombocytopenia have been reported to occur in up to five percent of patients during penicillamine therapy.
+Leukopenia and thrombocytopenia have been reported to occur in up to 5% of patients during penicillamine therapy.
 Leukopenia is of the granulocytic series and may or may not be associated with an increase in eosinophils.
-A confirmed reduction in WBC below 3500/mm3 mandates discontinuance of penicillamine therapy.
+A confirmed reduction in White Blood Cells (WBC) below 3500/mm3 mandates discontinuance of penicillamine therapy.
 Thrombocytopenia may be on an idiosyncratic basis, with decreased or absent megakaryocytes in the marrow, when it is part of an aplastic anemia.
-In other cases the thrombocytopenia is presumably on an immune basis since the number of megakaryocytes in the marrow has been reported to be normal or sometimes increased.
+In other cases, the thrombocytopenia is presumably on an immune basis since the number of megakaryocytes in the marrow has been reported to be normal or sometimes increased.
 The development of a platelet count below 100,000/mm3, even in the absence of clinical bleeding, requires at least temporary cessation of penicillamine therapy.
-A progressive fall in either platelet count or WBC in three successive determinations, even though values are still within the normal range, likewise requires at least temporary cessation.
+A progressive fall in either platelet count or WBC count in three successive determinations, even though values are still within the normal range, likewise requires at least temporary cessation.
 
 Proteinuria and/or hematuria may develop during therapy and may be warning signs of membranous glomerulopathy which can progress to a nephrotic syndrome.
 Close observation of these patients is essential.
-In some patients the proteinuria disappears with continued therapy; in others, penicillamine must be discontinued.
-When a patient develops proteinuria or hematuria the physician must ascertain whether it is a sign of drug-induced glomerulopathy or is unrelated to penicillamine.
+In some patients, the proteinuria disappears with continued therapy; in others, penicillamine must be discontinued.
+When a patient develops proteinuria or hematuria, the physician must ascertain whether it is a sign of drug-induced glomerulopathy or is unrelated to penicillamine.
 
-Rheumatoid arthritis patients who develop moderate degrees of proteinuria may be continued cautiously on penicillamine therapy, provided that quantitative 24-hour urinary protein determinations are obtained at intervals of one to two weeks.
+Rheumatoid arthritis patients who develop moderate degrees of proteinuria may be continued cautiously on penicillamine therapy, provided that quantitative 24-hour urinary protein determinations are obtained at intervals of 1 to 2 weeks.
 Penicillamine dosage should not be increased under these circumstances.
 Proteinuria which exceeds 1 g/24 hours, or proteinuria which is progressively increasing, requires either discontinuance of the drug or a reduction in the dosage.
 In some patients, proteinuria has been reported to clear following reduction in dosage.
 
-In rheumatoid arthritis patients penicillamine should be discontinued if unexplained gross hematuria or persistent microscopic hematuria develops.
+In rheumatoid arthritis patients, penicillamine should be discontinued if unexplained gross hematuria or persistent microscopic hematuria develops.
 
-In patients with Wilson's disease or cystinuria the risks of continued penicillamine therapy in patients manifesting potentially serious urinary abnormalities must be weighed against the expected therapeutic benefits.
+In patients with Wilson's disease or cystinuria, the risks of continued penicillamine therapy in patients manifesting potentially serious urinary abnormalities must be weighed against the expected therapeutic benefits.
 
 When penicillamine is used in cystinuria, an annual x-ray for renal stones is advised.
-Cystine stones form rapidly, sometimes in six months.
+Cystine stones form rapidly, sometimes in 6 months.
 Up to one year or more may be required for any urinary abnormalities to disappear after penicillamine has been discontinued.
 
-Because of rare reports of intrahepatic cholestasis and toxic hepatitis, liver function tests are recommended every six months for the duration of therapy.
+Because of rare reports of intrahepatic cholestasis and toxic hepatitis, liver function tests are recommended every 6 months for the duration of therapy.
 In Wilson's disease, these are recommended every three months, at least during the first year of treatment.
 
 Goodpasture's syndrome has occurred rarely.
 The development of abnormal urinary findings associated with hemoptysis and pulmonary infiltrates on x-ray requires immediate cessation of penicillamine.
 
 Obliterative bronchiolitis has been reported rarely.
-The patient should be cautioned to report immediately pulmonary symptoms such as exertional dyspnea, unexplained cough or wheezing.
+The patient should be cautioned to report immediately pulmonary symptoms such as exertional dyspnea, unexplained cough, or wheezing.
 Pulmonary function studies should be considered at that time.
 
 Onset of new neurological symptoms has been reported with CUPRIMINE (see ADVERSE REACTIONS).
@@ -58,11 +58,11 @@ Treatment may be required for only a few weeks or months, but may need to be con
 Once instituted for Wilson's disease or cystinuria, treatment with penicillamine should, as a rule, be continued on a daily basis.
 Interruptions for even a few days have been followed by sensitivity reactions after reinstitution of therapy.
 
-## Pregnancy Category D
+## Pregnancy
 
 Penicillamine can cause fetal harm when administered to a pregnant woman.
-Penicillamine has been shown to be teratogenic in rats when given in doses 6 times higher than the highest dose recommended for human use.
-Skeletal defects, cleft palates and fetal toxicity (resorptions) have been reported.
+Penicillamine has been shown to be teratogenic in rats when given in doses six times higher than the highest dose recommended for human use.
+Skeletal defects, cleft palates, and fetal toxicity (resorptions) have been reported.
 
 There are no controlled studies on the use of penicillamine in pregnant women.
 Although normal outcomes have been reported, characteristic congenital cutis laxa and associated birth defects have been reported in infants born of mothers who received therapy with penicillamine during pregnancy.
@@ -72,13 +72,10 @@ If this drug is used during pregnancy, or if the patient becomes pregnant while 
 
 ## Wilson's Disease
 
-Reported experienceScheinberg, I.H.; Sternlieb, I.: N. Engl.
-J. Med.
-293: 1300-1302, Dec.
-18, 1975. shows that continued treatment with penicillamine throughout pregnancy protects the mother against relapse of the Wilson's disease, and that discontinuation of penicillamine has deleterious effects on the mother, which may be fatal.
+Reported experience*** shows that continued treatment with penicillamine throughout pregnancy protects the mother against relapse of Wilson's disease, and that discontinuation of penicillamine has deleterious effects on the mother, which may be fatal.
 
 If penicillamine is administered during pregnancy to patients with Wilson's disease, it is recommended that the daily dosage be limited to 750 mg.
-If cesarean section is planned the daily dose should be reduced to 250 mg, but not lower, for the last six weeks of pregnancy and postoperatively until wound healing is complete.
+If cesarean section is planned, the daily dose should be reduced to 250 mg, but not lower, for the last 6 weeks of pregnancy and postoperatively until wound healing is complete.
 
 ## Cystinuria
 
@@ -89,7 +86,7 @@ If stones continue to form in these patients, the benefits of therapy to the mot
 ## Rheumatoid Arthritis
 
 Penicillamine should not be administered to rheumatoid arthritis patients who are pregnant (see CONTRAINDICATIONS) and should be discontinued promptly in patients in whom pregnancy is suspected or diagnosed.
-There is a report that a woman with rheumatoid arthritis treated with less than one gram a day of penicillamine during pregnancy gave birth (cesarean delivery) to an infant with growth retardation, flattened face with broad nasal bridge, low set ears, short neck with loose skin folds, and unusually lax body skin.
+There is a report that a woman with rheumatoid arthritis treated with less than 1 g/day of penicillamine during pregnancy gave birth (cesarean delivery) to an infant with growth retardation, flattened face with broad nasal bridge, low set ears, short neck with loose skin folds, and unusually lax body skin.
 
 # PRECAUTIONS
 
@@ -104,14 +101,15 @@ In the case of drug fever in rheumatoid arthritis patients, because other treatm
 The skin and mucous membranes should be observed for allergic reactions.
 Early and late rashes have occurred.
 Early rash occurs during the first few months of treatment and is more common.
-It is usually a generalized pruritic, erythematous, maculopapular or morbilliform rash and resembles the allergic rash seen with other drugs.
+It is usually a generalized pruritic, erythematous, maculopapular, or morbilliform rash and resembles the allergic rash seen with other drugs.
 Early rash usually disappears within days after stopping penicillamine and seldom recurs when the drug is restarted at a lower dosage.
 Pruritus and early rash may often be controlled by the concomitant administration of antihistamines.
-Less commonly, a late rash may be seen, usually after six months or more of treatment, and requires discontinuation of penicillamine.
+
+Less commonly, a late rash may be seen, usually after 6 months or more of treatment, which requires discontinuation of penicillamine.
 It is usually on the trunk, is accompanied by intense pruritus, and is usually unresponsive to topical corticosteroid therapy.
 Late rash may take weeks to disappear after penicillamine is stopped and usually recurs if the drug is restarted.
 
-The appearance of a drug eruption accompanied by fever, arthralgia, lymphadenopathy or other allergic manifestations usually requires discontinuation of penicillamine.
+The appearance of a drug eruption accompanied by fever, arthralgia, lymphadenopathy, or other allergic manifestations usually requires discontinuation of penicillamine.
 
 Certain patients will develop a positive antinuclear antibody (ANA) test and some of these may show a lupus erythematosus-like syndrome similar to drug-induced lupus associated with other drugs.
 The lupus erythematosus-like syndrome is not associated with hypocomplementemia and may be present without nephropathy.
@@ -119,11 +117,11 @@ The development of a positive ANA test does not mandate discontinuance of the dr
 
 Some patients may develop oral ulcerations which in some cases have the appearance of aphthous stomatitis.
 The stomatitis usually recurs on rechallenge but often clears on a lower dosage.
-Although rare, cheilosis, glossitis and gingivostomatitis have also been reported.
+Although rare, cheilosis, glossitis, and gingivostomatitis have also been reported.
 These oral lesions are frequently dose-related and may preclude further increase in penicillamine dosage or require discontinuation of the drug.
 
 Hypogeusia (a blunting or diminution in taste perception) has occurred in some patients.
-This may last two to three months or more and may develop into a total loss of taste; however, it is usually self-limited despite continued penicillamine treatment.
+This may last 2 to 3 months or more and may develop into a total loss of taste; however, it is usually self-limited despite continued penicillamine treatment.
 Such taste impairment is rare in patients with Wilson's disease.
 
 Penicillamine should not be used in patients who are receiving concurrently gold therapy, antimalarial or cytotoxic drugs, oxyphenbutazone or phenylbutazone because these drugs are also associated with similar serious hematologic and renal adverse reactions.
@@ -142,11 +140,11 @@ Mineral supplements should not be given, since they may block the response to pe
 Iron deficiency may develop, especially in pediatric patients and in menstruating women.
 In Wilson's disease, this may be a result of adding the effects of the low copper diet, which is probably also low in iron, and the penicillamine to the effects of blood loss or growth.
 In cystinuria, a low methionine diet may contribute to iron deficiency, since it is necessarily low in protein.
-If necessary, iron may be given in short courses, but a period of two hours should elapse between administration of penicillamine and iron, since orally administered iron has been shown to reduce the effects of penicillamine.
+If necessary, iron may be given in short courses, but a period of 2 hours should elapse between administration of penicillamine and iron, since orally administered iron has been shown to reduce the effects of penicillamine.
 
 Penicillamine causes an increase in the amount of soluble collagen.
-In the rat this results in inhibition of normal healing and also a decrease in tensile strength of intact skin.
-In man this may be the cause of increased skin friability at sites especially subject to pressure or trauma, such as shoulders, elbows, knees, toes, and buttocks.
+In the rat, this results in inhibition of normal healing and also a decrease in tensile strength of intact skin.
+In man, this may be the cause of increased skin friability at sites especially subject to pressure or trauma, such as shoulders, elbows, knees, toes, and buttocks.
 Extravasations of blood may occur and may appear as purpuric areas, with external bleeding if the skin is broken, or as vesicles containing dark blood.
 Neither type is progressive.
 There is no apparent association with bleeding elsewhere in the body and no associated coagulation defect has been found.
@@ -160,7 +158,7 @@ Reinstitution of full therapy should be delayed until wound healing is complete.
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Long-term animal carcinogenicity studies have not been done with penicillamine.
-There is a report that five of ten autoimmune disease-prone NZB hybrid mice developed lymphocytic leukemia after 6 months' intraperitoneal treatment with a dose of 400 mg/kg penicillamine 5 days per week.
+There is a report that five of ten autoimmune disease-prone New Zealand black (NZB) hybrid mice developed lymphocytic leukemia after 6 months' intraperitoneal treatment with a dose of 400 mg/kg penicillamine 5 days per week.
 
 Penicillamine is directly mutagenic to S. typhimurium strain TA92 in the Ames test; mutagenicity is enhanced by kidney postmitochondrial subcellular fraction 9.
 Penicillamine does not induce gene mutations in Chinese hamster V79 cells.
@@ -168,9 +166,7 @@ Penicillamine does not induce gene mutations in Chinese hamster V79 cells.
 Penicillamine induces sister-chromatid exchanges and chromosome aberrations in cultivated mammalian cells.
 No studies on the effect of penicillamine on fertility are available.
 
-## Pregnancy
-
-### Pregnancy Category D
+### Pregnancy
 
 (see WARNINGS, Pregnancy)
 
@@ -186,7 +182,7 @@ The efficacy of CUPRIMINE in juvenile rheumatoid arthritis has not been establis
 
 Clinical studies of CUPRIMINE are limited in subjects aged 65 and over; they did not include sufficient numbers of elderly subjects aged 65 and over to adequately determine whether they respond differently from younger subjects.
 Review of reported clinical trials with penicillamine in the elderly suggest greater risk than in younger patients for overall skin rash and abnormality of taste.
-In general, dose selection for an elderly patient should be cautious, starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drugs.
+In general, dose selection for an elderly patient should be cautious, starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drugs.
 
 This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and careful monitoring of renal function is recommended.
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection and careful monitoring of renal function is recommended.

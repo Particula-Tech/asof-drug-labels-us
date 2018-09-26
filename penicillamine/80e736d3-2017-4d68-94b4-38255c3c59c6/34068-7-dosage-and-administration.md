@@ -9,13 +9,13 @@ Optimal dosage can be determined by measurement of urinary copper excretion and 
 The urine must be collected in copper-free glassware, and should be quantitatively analyzed for copper before and soon after initiation of therapy with CUPRIMINE.
 
 Determination of 24-hour urinary copper excretion is of greatest value in the first week of therapy with penicillamine.
-In the absence of any drug reaction, a dose between 0.75 and 1.5 g that results in an initial 24-hour cupriuresis of over 2 mg should be continued for about three months, by which time the most reliable method of monitoring maintenance treatment is the determination of free copper in the serum.
-This equals the difference between quantitatively determined total copper and ceruloplasmin-copper.
+In the absence of any drug reaction, a dose between 0.75 and 1.5 g that results in an initial 24-hour cupriuresis of over 2 mg should be continued for about 3 months, by which time the most reliable method of monitoring maintenance treatment is the determination of free copper in the serum.
+This equals the difference between quantitatively determined total copper and ceruloplasmin copper.
 Adequately treated patients will usually have less than 10 mcg free copper/dL of serum.
 It is seldom necessary to exceed a dosage of 2 g/day.
 If the patient is intolerant to therapy with CUPRIMINE, alternative treatment is trientine hydrochloride.
 
-In patients who cannot tolerate as much as 1 g/day initially, initiating dosage with 250 mg/day, and increasing gradually to the requisite amount, gives closer control of the effects of the drug and may help to reduce the incidence of adverse reactions.
+In patients who cannot tolerate as much as 1 g/day initially, initiating dosage with 250 mg/day and increasing gradually to the requisite amount, gives closer control of the effects of the drug and may help to reduce the incidence of adverse reactions.
 
 ## Cystinuria
 
@@ -38,16 +38,13 @@ The greater the fluid intake, the lower the required dosage of CUPRIMINE.
 Dosage must be individualized to an amount that limits cystine excretion to 100-200 mg/day in those with no history of stones, and below 100 mg/day in those who have had stone formation and/or pain.
 Thus, in determining dosage, the inherent tubular defect, the patient's size, age, and rate of growth, and his diet and water intake all must be taken into consideration.
 
-The standard nitroprusside cyanide test has been reported useful as a qualitative measure of the effective dose:Lotz, M.; Potts, J.T. and Bartter, F.C.: Brit.
-Med.
-J. 2: 521, Aug.
-28, 1965 (in Medical Memoranda).
-Add 2 mL of freshly prepared 5 percent sodium cyanide to 5 mL of a 24-hour aliquot of protein-free urine and let stand ten minutes.
-Add 5 drops of freshly prepared 5 percent sodium nitroprusside and mix.
+The standard nitroprusside cyanide test has been reported useful as a qualitative measure of the effective dose:† Add 2 mL of freshly prepared 5% sodium cyanide to 5 mL of a 24-hour aliquot of protein-free urine and let stand 10 minutes.
+Add five drops of freshly prepared 5% sodium nitroprusside and mix.
 Cystine will turn the mixture magenta.
 If the result is negative, it can be assumed that cystine excretion is less than 100 mg/g creatinine.
 
-Although penicillamine is rarely excreted unchanged, it also will turn the mixture magenta.If there is any question as to which substance is causing the reaction, a ferric chloride test can be done to eliminate doubt: Add 3 percent ferric chloride dropwise to the urine.
+Although penicillamine is rarely excreted unchanged, it also will turn the mixture magenta.
+If there is any question as to which substance is causing the reaction, a ferric chloride test can be done to eliminate doubt: Add 3% ferric chloride dropwise to the urine.
 Penicillamine will turn the urine an immediate and quickly fading blue.
 Cystine will not produce any change in appearance.
 
@@ -61,36 +58,36 @@ When treatment with CUPRIMINE has been interrupted because of adverse reactions 
 
 ### Initial Therapy
 
-The currently recommended dosage regimen in rheumatoid arthritis begins with a single daily dose of 125 mg or 250 mg, which is thereafter increased at one to three month intervals, by 125 mg or 250 mg/day, as patient response and tolerance indicate.
-If a satisfactory remission of symptoms is achieved, the dose associated with the remission should be continued (see Maintenance Therapy).
-If there is no improvement and there are no signs of potentially serious toxicity after two to three months of treatment with doses of 500-750 mg/day, increases of 250 mg/day at two to three month intervals may be continued until a satisfactory remission occurs (see Maintenance Therapy) or signs of toxicity develop (see WARNINGS and PRECAUTIONS).
+The currently recommended dosage regimen in rheumatoid arthritis begins with a single daily dose of 125 mg or 250 mg, which is thereafter increased at 1- to 3-month intervals, by 125 mg or 250 mg/day, as patient response and tolerance indicate.
+If a satisfactory remission of symptoms is achieved, the dose associated with the remission should be continued (see DOSAGE AND ADMINISTRATION, Rheumatoid Arthritis, Maintenance Therapy).
+If there is no improvement and there are no signs of potentially serious toxicity after 2 to 3 months of treatment with doses of 500-750 mg/day, increases of 250 mg/day at 2- to 3-month intervals may be continued until a satisfactory remission occurs (see DOSAGE AND ADMINISTRATION, Rheumatoid Arthritis, Maintenance Therapy) or signs of toxicity develop (see WARNINGS and PRECAUTIONS).
 If there is no discernible improvement after three to four months of treatment with 1000 to 1500 mg of penicillamine/day, it may be assumed the patient will not respond and CUPRIMINE should be discontinued.
 
 ### Maintenance Therapy
 
 The maintenance dosage of CUPRIMINE must be individualized, and may require adjustment during the course of treatment.
-Many patients respond satisfactorily to a dosage within the 500-750 mg/day range.
+Many patients respond satisfactorily to a dosage within the 500 to 750 mg/day range.
 Some need less.
 
-Changes in maintenance dosage levels may not be reflected clinically or in the erythrocyte sedimentation rate for two to three months after each dosage adjustment.
+Changes in maintenance dosage levels may not be reflected clinically or in the erythrocyte sedimentation rate for 2 to 3 months after each dosage adjustment.
 
 Some patients will subsequently require an increase in the maintenance dosage to achieve maximal disease suppression.
-In those patients who do respond, but who evidence incomplete suppression of their disease after the first six to nine months of treatment, the daily dosage of CUPRIMINE may be increased by 125 mg or 250 mg/day at three-month intervals.
+In those patients who do respond, but who evidence incomplete suppression of their disease after the first 6 to 9 months of treatment, the daily dosage of CUPRIMINE may be increased by 125 mg or 250 mg/day at 3-month intervals.
 It is unusual in current practice to employ a dosage in excess of 1 g/day, but up to 1.5 g/day has sometimes been required.
 
 ### Management of Exacerbations
 
 During the course of treatment some patients may experience an exacerbation of disease activity following an initial good response.
-These may be self-limited and can subside within twelve weeks.
+These may be self-limited and can subside within 12 weeks.
 They are usually controlled by the addition of non-steroidal anti-inflammatory drugs, and only if the patient has demonstrated a true "escape" phenomenon (as evidenced by failure of the flare to subside within this time period) should an increase in the maintenance dose ordinarily be considered.
 
-In the rheumatoid patient, migratory polyarthralgia due to penicillamine is extremely difficult to differentiate from an exacerbation of the rheumatoid arthritis.
+In the rheumatoid patient, migratory polyarthralgia due to penicillamine is extremely difficult to differentiate from an exacerbation of rheumatoid arthritis.
 Discontinuance or a substantial reduction in dosage of CUPRIMINE for up to several weeks will usually determine which of these processes is responsible for the arthralgia.
 
 ### Duration of Therapy
 
 The optimum duration of therapy with CUPRIMINE in rheumatoid arthritis has not been determined.
-If the patient has been in remission for six months or more, a gradual, stepwise dosage reduction in decrements of 125 mg or 250 mg/day at approximately three month intervals may be attempted.
+If the patient has been in remission for 6 months or more, a gradual, stepwise dosage reduction in decrements of 125 mg or 250 mg/day at approximately 3-month intervals may be attempted.
 
 ### Concomitant Drug Therapy
 

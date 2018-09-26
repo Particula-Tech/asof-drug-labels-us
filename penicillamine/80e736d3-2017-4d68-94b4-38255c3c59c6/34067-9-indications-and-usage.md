@@ -5,46 +5,42 @@ Available evidence suggests that CUPRIMINE is not of value in ankylosing spondyl
 
 ## Wilson's Disease
 
-Wilson's disease (hepatolenticular degeneration) occurs in individuals who have inherited an autosomal recessive defect that leads to an accumulation of copper far in excess of metabolic requirements.
+Wilson's disease (hepatolenticular degeneration) occurs in individuals who have inherited an autosomal-recessive defect that leads to an accumulation of copper far in excess of metabolic requirements.
 The excess copper is deposited in several organs and tissues, and eventually produces pathological effects primarily in the liver, where damage progresses to postnecrotic cirrhosis, and in the brain, where degeneration is widespread.
 Copper is also deposited as characteristic, asymptomatic, golden-brown Kayser-Fleischer rings in the corneas of all patients with cerebral symptomatology and some patients who are either asymptomatic or manifest only hepatic symptomatology.
 
 Two types of patients require treatment for Wilson's disease: (1) the symptomatic, and (2) the asymptomatic in whom it can be assumed the disease will develop in the future if the patient is not treated.
 
-The diagnosis, if suspected on the basis of family or individual history or physical examination, can be confirmed if the plasma copper-protein ceruloplasminFor quantitative test for serum ceruloplasmin see: Morell, A.G.; Windsor, J.; Sternlieb, I.; Scheinberg, I.H.: Measurement of the concentration of ceruloplasmin in serum by determination of its oxidase activity, in "Laboratory Diagnosis of Liver Disease", F.W.
-Sunderman; F.W.
-Sunderman, Jr.
-(eds.), St. Louis, Warren H. Green, Inc., 1968, pp.
-193-195. is <20 mg/dL and either a quantitative determination in a liver biopsy specimen shows an abnormally high concentration of copper (>250 mcg/g dry weight) or Kayser-Fleischer rings are present.
+The diagnosis, if suspected on the basis of family or individual history or physical examination, can be confirmed if the plasma copper-protein ceruloplasmin** is less than 20 mg/dL and either a quantitative determination in a liver biopsy specimen shows an abnormally high concentration of copper (greater than 250 mcg/g dry weight) or Kayser-Fleischer rings are present.
 
 Treatment has two objectives:
 
-1. 1)to minimize dietary intake of copper;
-2. 2)to promote excretion and complex formation (i.e., detoxification) of excess tissue copper.
+1. (1)to minimize dietary intake of copper;
+2. (2)to promote excretion and complex formation (i.e., detoxification) of excess tissue copper.
 
-The first objective is attained by a daily diet that contains no more than one or two milligrams of copper.
+The first objective is attained by a daily diet that contains no more than 1 or 2 mg of copper.
 Such a diet should exclude, most importantly, chocolate, nuts, shellfish, mushrooms, liver, molasses, broccoli, and cereals and dietary supplements enriched with copper, and be composed to as great an extent as possible of foods with a low copper content.
-Distilled or demineralized water should be used if the patient's drinking water contains more than 0.1 mg of copper per liter.
+Distilled or demineralized water should be used if the patient's drinking water contains more than 0.1 mg/L of copper.
 
 For the second objective, a copper chelating agent is used.
 
-In symptomatic patients this treatment usually produces marked neurologic improvement, fading of Kayser-Fleischer rings, and gradual amelioration of hepatic dysfunction and psychic disturbances.
+In symptomatic patients, this treatment usually produces marked neurologic improvement, fading of Kayser-Fleischer rings, and gradual amelioration of hepatic dysfunction and psychic disturbances.
 
 Clinical experience to date suggests that life is prolonged with the above regimen.
 
-Noticeable improvement may not occur for one to three months.
+Noticeable improvement may not occur for 1 to 3 months.
 Occasionally, neurologic symptoms become worse during initiation of therapy with CUPRIMINE.
 Despite this, the drug should not be withdrawn.
 Temporary interruption carries an increased risk of developing a sensitivity reaction upon resumption of therapy, although it may result in clinical improvement of neurological symptoms (see WARNINGS).
 If the neurological symptoms and signs continue to worsen for a month after the initiation of CUPRIMINE therapy, several short courses of treatment with 2,3 - dimercaprol (BAL) while continuing CUPRIMINE may be considered.
 
-Treatment of asymptomatic patients has been carried out for over thirty years.
+Treatment of asymptomatic patients has been carried out for over 30 years.
 Symptoms and signs of the disease appear to be prevented indefinitely if daily treatment with CUPRIMINE is continued.
 
 ## Cystinuria
 
 Cystinuria is characterized by excessive urinary excretion of the dibasic amino acids, arginine, lysine, ornithine, and cystine, and the mixed disulfide of cysteine and homocysteine.
-The metabolic defect that leads to cystinuria is inherited as an autosomal, recessive trait.
+The metabolic defect that leads to cystinuria is inherited as an autosomal-recessive trait.
 Metabolism of the affected amino acids is influenced by at least two abnormal factors: (1) defective gastrointestinal absorption and (2) renal tubular dysfunction.
 
 Arginine, lysine, ornithine, and cysteine are soluble substances, readily excreted.
@@ -59,7 +55,7 @@ At 500 to 600 mg/day, stone formation is almost certain.
 When it is more than 300 mg/day, treatment is indicated.
 
 Conventional treatment is directed at keeping urinary cystine diluted enough to prevent stone formation, keeping the urine alkaline enough to dissolve as much cystine as possible, and minimizing cystine production by a diet low in methionine (the major dietary precursor of cystine).
-Patients must drink enough fluid to keep urine specific gravity below 1.010, take enough alkali to keep urinary pH at 7.5 to 8, and maintain a diet low in methionine.
+Patients must drink enough fluid to keep urine-specific gravity below 1.010, take enough alkali to keep urinary pH at 7.5 to 8, and maintain a diet low in methionine.
 This diet is not recommended in growing children and probably is contraindicated in pregnancy because of its low protein content (see PRECAUTIONS).
 
 When these measures are inadequate to control recurrent stone formation, CUPRIMINE may be used as additional therapy, and when patients refuse to adhere to conventional treatment, CUPRIMINE may be a useful substitute.
@@ -82,4 +78,4 @@ In this process, it is assumed that the deprotonated form of penicillamine, PS',
 
 Because CUPRIMINE can cause severe adverse reactions, its use in rheumatoid arthritis should be restricted to patients who have severe, active disease and who have failed to respond to an adequate trial of conventional therapy.
 Even then, benefit-to-risk ratio should be carefully considered.
-Other measures, such as rest, physiotherapy, salicylates, and corticosteroids should be used, when indicated, in conjunction with CUPRIMINE (see PRECAUTIONS).
+Other measures, such as rest, physiotherapy, salicylates, and corticosteroids, should be used, when indicated, in conjunction with CUPRIMINE (see PRECAUTIONS).
