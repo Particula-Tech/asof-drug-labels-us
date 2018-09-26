@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA018615"
+  ],
+  "inn": "sulfamethoxazole",
+  "labeler": "Pharmaceutical Associates, Inc.",
+  "package_ndcs": [
+    "0121-0853-00",
+    "0121-0853-20",
+    "0121-0853-40"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "sulfamethoxazole and trimethoprim",
+      "name": "Sulfamethoxazole and Trimethoprim"
+    }
+  ],
+  "setid": "777da85a-a776-4681-976d-326ec421cfc9",
+  "source": "dailymed"
+}
