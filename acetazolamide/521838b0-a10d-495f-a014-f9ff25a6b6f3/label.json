@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA200880"
+  ],
+  "inn": "acetazolamide",
+  "labeler": "Mylan Institutional LLC",
+  "package_ndcs": [
+    "67457-853-50"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "acetazolamide sodium",
+      "name": "Acetazolamide"
+    }
+  ],
+  "setid": "521838b0-a10d-495f-a014-f9ff25a6b6f3",
+  "source": "dailymed"
+}
