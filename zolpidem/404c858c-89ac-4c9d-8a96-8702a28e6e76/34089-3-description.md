@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
-AMBIEN CR contains zolpidem tartrate, a gamma-aminobutyric acid (GABA) A agonist of the imidazopyridine class.
-AMBIEN CR (zolpidem tartrate extended-release tablets) is available in 6.25 mg and 12.5 mg strength tablets for oral administration.
+AMBIEN CR contains zolpidem tartrate, a gamma-aminobutyric acid (GABA) A receptor positive modulator of the imidazopyridine class.
+AMBIEN CR (zolpidem tartrate) extended-release tablets is available in 6.25 mg and 12.5 mg strength tablets for oral administration.
 
 Chemically, zolpidem is N,N,6-trimethyl-2-p-tolylimidazo[1,2-a] pyridine-3-acetamide L-(+)-tartrate (2:1).
 It has the following structure:
