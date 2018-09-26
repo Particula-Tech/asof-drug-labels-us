@@ -17,7 +17,7 @@ Clinical Worsening and Suicide Risk in Treating Psychiatric Disorders
 
 Instruct patients, their families, and/or their caregivers to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
 Advise families and caregivers of patients to observe for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
-Such symptoms should be reported to the patient’s prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
+Such symptoms should be reported to the patient's prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
 
 Severe Allergic Reactions
@@ -50,7 +50,7 @@ APLENZIN treatment may lead to decreased alcohol tolerance.
 
 Concomitant Medications
 
-Counsel patients to notify their healthcare provider if they are taking or plan to take any prescription or over-the-counter drugs, because APLENZIN Tablets and other drugs may affect each other’s metabolism.
+Counsel patients to notify their healthcare provider if they are taking or plan to take any prescription or over-the-counter drugs, because APLENZIN Tablets and other drugs may affect each other's metabolism.
 
 Pregnancy
 
@@ -58,8 +58,8 @@ Advise patients to notify their healthcare provider if they become pregnant or i
 
 Precautions for Nursing Mothers
 
-Communicate with the patient and pediatric healthcare provider regarding the infant’s exposure to bupropion through human milk.
-Instruct patients to immediately contact the infant’s healthcare provider if they note any side effect in the infant that concerns them or is persistent.
+Communicate with the patient and pediatric healthcare provider regarding the infant's exposure to bupropion through human milk.
+Instruct patients to immediately contact the infant's healthcare provider if they note any side effect in the infant that concerns them or is persistent.
 
 Administration Information
 

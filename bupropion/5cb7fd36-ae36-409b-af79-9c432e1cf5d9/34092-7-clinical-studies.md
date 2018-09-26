@@ -15,7 +15,7 @@ A longer-term, placebo-controlled, randomized withdrawal trial demonstrated the 
 The trial included adult outpatients meeting DSM-IV criteria for MDD, recurrent type, who had responded during an 8-week open-label trial of bupropion 300 mg per day.
 Responders were randomized to continuation of bupropion 300 mg per day or placebo, for up to 44 weeks of observation for relapse.
 Response during the open-label phase was defined as a CGI-Improvement Scale score of 1 (very much improved) or 2 (much improved) for each of the final 3 weeks.
-Relapse during the double-blind phase was defined as the investigator’s judgment that drug treatment was needed for worsening depressive symptoms.
+Relapse during the double-blind phase was defined as the investigator's judgment that drug treatment was needed for worsening depressive symptoms.
 Patients in the bupropion group experienced significantly lower relapse rates over the subsequent 44 weeks compared to those in the placebo group.
 
 Although there are no independent trials demonstrating the efficacy of APLENZIN or bupropion HCl extended-release in the acute treatment of MDD, studies have demonstrated similar bioavailability between the immediate-, sustained-, and extended-release formulations of bupropion HCl under steady-state conditions (i.e., the exposures [Cmax and AUC] for bupropion and its metabolites are similar among the 3 formulations).
@@ -36,7 +36,7 @@ To enter the trials, patients must have had a low level of depressive symptoms, 
 The primary efficacy measure was the Structured Interview Guide for the Hamilton Depression Rating Scale, Seasonal Affective Disorders (SIGH-SAD), which is identical to the HAM-D-24.
 The SIGH-SAD consists of the HAMD-17 plus 7 items specifically assessing core symptoms of seasonal affective disorder: social withdrawal, weight gain, increased appetite, increased eating, carbohydrate craving, hypersomnia, and fatigability.
 The primary efficacy endpoint was the onset of a seasonal major depressive episode.
-The criteria for defining an episode included: 1) the investigator’s judgment that a major depressive episode had occurred or that the patient required intervention for depressive symptoms, or 2) a SIGH-SAD score of >20 on 2 consecutive weeks.
+The criteria for defining an episode included: 1) the investigator's judgment that a major depressive episode had occurred or that the patient required intervention for depressive symptoms, or 2) a SIGH-SAD score of >20 on 2 consecutive weeks.
 The primary analysis was a comparison of depression-free rates between the bupropion and placebo groups.
 
 In these 3 trials, the percentage of patients who were depression-free (did not have an episode of MDD) at the end of treatment was significantly higher in the bupropion group than in the placebo group: 81.4% vs. 69.7%, 87.2% vs. 78.7%, and 84.0% vs. 69.0% for Trials 1, 2 and 3, respectively.

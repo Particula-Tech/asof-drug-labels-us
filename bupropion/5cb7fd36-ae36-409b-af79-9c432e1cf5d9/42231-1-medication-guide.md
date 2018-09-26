@@ -6,12 +6,12 @@ This information does not take the place of talking to your healthcare provider 
 If you have any questions about APLENZIN, ask your healthcare provider or pharmacist.
 
 IMPORTANT: Be sure to read the three sections of this Medication Guide.
-The first section is about the risk of suicidal thoughts and actions with antidepressant medicines; the second section is about the risk of changes in thinking and behavior, depression and suicidal thoughts or actions with medicines used to quit smoking; and the third section is entitled “What Other Important Information Should I Know About APLENZIN?
+The first section is about the risk of suicidal thoughts and actions with antidepressant medicines; the second section is about the risk of changes in thinking and behavior, depression and suicidal thoughts or actions with medicines used to quit smoking; and the third section is entitled "What Other Important Information Should I Know About APLENZIN?
 
 Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions
 
 This section of the Medication Guide is only about the risk of suicidal thoughts and actions with antidepressant medicines.
-Talk to your healthcare provider or your family member’s healthcare provider about:
+Talk to your healthcare provider or your family member's healthcare provider about:
 
 - •all risks and benefits of treatment with antidepressant medicines
 - •all treatment choices for depression or other serious mental illness
@@ -97,7 +97,7 @@ What Other Important Information Should I Know About APLENZIN?
   - •who take certain medicines
 
 The chance of having seizures increases with higher doses of APLENZIN.
-For more information, see the sections “Who should not take APLENZIN?” and “What should I tell my healthcare provider before using APLENZIN?
+For more information, see the sections "Who should not take APLENZIN?" and "What should I tell my healthcare provider before using APLENZIN?
 Tell your healthcare provider about all of your medical conditions and all the medicines you take.
 Do not take any other medicines while you are using APLENZIN unless your healthcare provider has said it is okay to take them.
 
@@ -147,7 +147,7 @@ Do not take APLENZIN if you:
 What should I tell my healthcare provider before using APLENZIN?
 
 - •Tell your healthcare provider if you have ever had depression, suicidal thoughts or actions, or other mental health problems.
-  See “Antidepressant Medicines, Depression, and Other Mental Illnesses, and Suicidal Thoughts or Actions.”
+  See "Antidepressant Medicines, Depression, and Other Mental Illnesses, and Suicidal Thoughts or Actions."
 - •Tell your healthcare provider about your other medical conditions including if you:
   - •are pregnant or plan to become pregnant.
     It is not known if APLENZIN can harm your unborn baby.

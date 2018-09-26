@@ -38,7 +38,7 @@ For the prevention of seasonal MDD episodes associated with SAD, initiate APLENZ
 Continue treatment through the winter season.
 Taper and discontinue APLENZIN in early spring.
 For patients treated with 348 mg per day, decrease the dose to 150 mg once daily before discontinuing APLENZIN.
-Individualize the timing of initiation and duration of treatment should be individualized, based on the patient’s historical pattern of seasonal MDD episodes.
+Individualize the timing of initiation and duration of treatment should be individualized, based on the patient's historical pattern of seasonal MDD episodes.
 
 ## 2.5 To Discontinue APLENZIN, Taper the Dose
 
