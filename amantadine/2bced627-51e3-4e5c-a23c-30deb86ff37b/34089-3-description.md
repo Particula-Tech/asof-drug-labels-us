@@ -5,7 +5,7 @@ The active ingredient in OSMOLEX ER is amantadine hydrochloride.
 
 The chemical name for amantadine hydrochloride is tricyclo [3.3.1.1 3,7] decan-1-amine, hydrochloride or 1-adamantanamine hydrochloride, and it has the following structural formula:
 
-The molecular formula is C 10H 17N•HCl and the molecular weight is 187.71 (g/mol).
+The molecular formula is C10H17N•HCl and the molecular weight is 187.71 (g/mol).
 Amantadine hydrochloride, USP is a stable white or nearly white crystalline powder, freely soluble in water and alcohol, and soluble in chloroform.
 
 OSMOLEX ER tablets are for oral use.

@@ -60,7 +60,7 @@ Patients with Renal Impairment
 
 The renal clearance of amantadine is significantly lower in patients with moderate or severe renal impairment, compared to healthy subjects with normal renal function.
 Therefore, a reduction in dosing frequency is required for patients with moderate or severe renal impairment [see Dosage and Administration (2.3)].
-OSMOLEX ER is contraindicated in patients with end-stage renal disease (i.e., creatinine clearance below 15 mL/min/1.73 m 2) [see Contraindications (4)].
+OSMOLEX ER is contraindicated in patients with end-stage renal disease (i.e., creatinine clearance below 15 mL/min/1.73 m2) [see Contraindications (4)].
 
 Male and Female Patients
 

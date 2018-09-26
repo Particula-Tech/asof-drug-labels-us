@@ -10,10 +10,10 @@ Round, biconvex, white coated tablets, imprinted on one side with a black “VP�
 
 - Unit-dose cards of 10: NDC 68025-075-11
 - Bottles of 30: NDC 68025-075-30
-- Bottles of 90: NDC 68025-075-90 193 mg tablets:Round, biconvex, green coated tabled, imprinted on one side with a black “VP” over “076”
+- Bottles of 90: NDC 68025-075-90193 mg tablets:Round, biconvex, green coated tabled, imprinted on one side with a black “VP” over “076”
 - Unit-dose cards of 10: NDC 68025-076-11
 - Bottles of 30: NDC 68025-076-30
-- Bottles of 90: NDC 68025-076-90 258 mg tablets:Round, biconvex, blue coated tablets, imprinted on one side with a black “VP” over “077”
+- Bottles of 90: NDC 68025-076-90258 mg tablets:Round, biconvex, blue coated tablets, imprinted on one side with a black “VP” over “077”
 - Unit-dose cards of 10: NDC 68025-077-11
 - Bottles of 30: NDC 68025-077-30
 - Bottles of 90: NDC 68025-077-90

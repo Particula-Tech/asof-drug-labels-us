@@ -47,7 +47,7 @@ Vertical Pharmaceuticals, LLC
 
 Bridgewater, NJ 08807 USA
 
-200132-00
+200244-00
 
 Patent Numbers:
 
