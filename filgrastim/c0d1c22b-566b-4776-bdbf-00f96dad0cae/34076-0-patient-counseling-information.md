@@ -44,8 +44,8 @@ US License No. 2003
 
 At:
 
-GP Grenzach Produktions GmbH
+Sandoz GmbH
 
-Grenzach-Wyhlen, Germany
+Langkampfen, Austria
 
 Product of Austria

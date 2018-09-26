@@ -124,13 +124,13 @@ Inactive ingredients: glutamic acid, polysorbate 80, sorbitol, sodium hydroxide,
 
 Manufactured by: Sandoz Inc., Princeton, NJ 08540, US License No. 2003
 
-At: GP Grenzach Produktions GmbH, Grenzach-Wyhlen, Germany, Product of Austria
+At: Sandoz GmbH, Langkampfen, Austria, Product of Austria
 
 For more information visit www.zarxio.com or call 1-800-525-8747.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: May 2017
+Revised: April 2018
 
 Instructions for Use
 
@@ -367,10 +367,11 @@ US License No. 2003
 
 At:
 
-GP Grenzach Produktions GmbH, Grenzach-Wyhlen,
+Sandoz GmbH.
+Langkampfen, Austria,
 
-Germany, Product of Austria
+Product of Austria
 
-Revised: May 2017
+Revised: April 2018
 
-46223727
+46228889
