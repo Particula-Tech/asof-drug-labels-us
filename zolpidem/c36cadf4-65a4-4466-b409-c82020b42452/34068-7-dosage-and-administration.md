@@ -5,9 +5,9 @@
 Use the lowest effective dose for the patient.
 The recommended initial dose is 5 mg for women and either 5 or 10 mg for men, taken only once per night immediately before bedtime with at least 7–8 hours remaining before the planned time of awakening.
 If the 5 mg dose is not effective, the dose can be increased to 10 mg.
-In some patients, the higher morning blood levels following use of the 10 mg dose increase the risk of next day impairment of driving and other activities that require full alertness [see Warnings and Precautions (5.1)].
+In some patients, the higher morning blood levels following use of the 10 mg dose increase the risk of next-day impairment of driving and other activities that require full alertness [see Warnings and Precautions (5.1)].
 The total dose of AMBIEN should not exceed 10 mg once daily immediately before bedtime.
-Ambien should be taken as a single dose and should not be readministered during the same night.
+AMBIEN should be taken as a single dose and should not be readministered during the same night.
 
 The recommended initial doses for women and men are different because zolpidem clearance is lower in women.
 
@@ -22,7 +22,7 @@ Avoid AMBIEN use in patients with severe hepatic impairment as it may contribute
 
 ## 2.3 Use with CNS Depressants
 
-Dosage adjustment may be necessary when AMBIEN is combined with other CNS depressant drugs because of the potentially additive effects [see Warnings and Precautions (5.1)].
+Dosage adjustment may be necessary when AMBIEN is combined with other CNS-depressant drugs because of the potentially additive effects [see Warnings and Precautions (5.1)].
 
 ## 2.4 Administration
 

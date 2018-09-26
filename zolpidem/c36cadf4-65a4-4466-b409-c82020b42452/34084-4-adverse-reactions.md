@@ -9,7 +9,9 @@ The following serious adverse reactions are discussed in greater detail in other
 
 ## 6.1 Clinical Trials Experience
 
-Associated with discontinuation of treatment: Approximately 4% of 1,701 patients who received zolpidem at all doses (1.25 to 90 mg) in U.S. premarketing clinical trials discontinued treatment because of an adverse reaction.
+Associated with Discontinuation of Treatment
+
+Approximately 4% of 1,701 patients who received zolpidem at all doses (1.25 to 90 mg) in U.S. premarketing clinical trials discontinued treatment because of an adverse reaction.
 Reactions most commonly associated with discontinuation from U.S. trials were daytime drowsiness (0.5%), dizziness (0.4%), headache (0.5%), nausea (0.6%), and vomiting (0.5%).
 
 Approximately 4% of 1,959 patients who received zolpidem at all doses (1 to 50 mg) in similar foreign trials discontinued treatment because of an adverse reaction.
@@ -17,10 +19,14 @@ Reactions most commonly associated with discontinuation from these trials were d
 
 Data from a clinical study in which selective serotonin reuptake inhibitor (SSRI)-treated patients were given zolpidem revealed that four of the seven discontinuations during double-blind treatment with zolpidem (n=95) were associated with impaired concentration, continuing or aggravated depression, and manic reaction; one patient treated with placebo (n=97) was discontinued after an attempted suicide.
 
-Most commonly observed adverse reactions in controlled trials: During short-term treatment (up to 10 nights) with AMBIEN at doses up to 10 mg, the most commonly observed adverse reactions associated with the use of zolpidem and seen at statistically significant differences from placebo-treated patients were drowsiness (reported by 2% of zolpidem patients), dizziness (1%), and diarrhea (1%).
+Most Commonly Observed Adverse Reactions in Controlled Trials
+
+During short-term treatment (up to 10 nights) with AMBIEN at doses up to 10 mg, the most commonly observed adverse reactions associated with the use of zolpidem and seen at statistically significant differences from placebo-treated patients were drowsiness (reported by 2% of zolpidem patients), dizziness (1%), and diarrhea (1%).
 During longer-term treatment (28 to 35 nights) with zolpidem at doses up to 10 mg, the most commonly observed adverse reactions associated with the use of zolpidem and seen at statistically significant differences from placebo-treated patients were dizziness (5%) and drugged feelings (3%).
 
-Adverse reactions observed at an incidence of ≥ 1% in controlled trials: The following tables enumerate treatment-emergent adverse reactions frequencies that were observed at an incidence equal to 1% or greater among patients with insomnia who received zolpidem tartrate and at a greater incidence than placebo in U.S. placebo-controlled trials.
+Adverse Reactions Observed at an Incidence of ≥1% in Controlled Trials
+
+The following tables enumerate treatment-emergent adverse reactions frequencies that were observed at an incidence equal to 1% or greater among patients with insomnia who received zolpidem tartrate and at a greater incidence than placebo in U.S. placebo-controlled trials.
 Events reported by investigators were classified utilizing a modified World Health Organization (WHO) dictionary of preferred terms for the purpose of establishing event frequencies.
 The prescriber should be aware that these figures cannot be used to predict the incidence of side effects in the course of usual medical practice, in which patient characteristics and other factors differ from those that prevailed in these clinical trials.
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigators involving related drug products and uses, since each group of drug trials is conducted under a different set of conditions.
@@ -29,9 +35,9 @@ However, the cited figures provide the physician with a basis for estimating the
 The following table was derived from results of 11 placebo-controlled short-term U.S. efficacy trials involving zolpidem in doses ranging from 1.25 to 20 mg.
 The table is limited to data from doses up to and including 10 mg, the highest dose recommended for use.
 
-Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinical Trials Lasting up to 10 Nights (Percentage of patients reporting)
+Table 1: Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinical Trials Lasting up to 10 Nights (percentage of patients reporting)
 
-| Body System/ Adverse EventReactions reported by at least 1% of patients treated with AMBIEN and at a greater frequency than placebo. | Zolpidem (≤10 mg) (N=685) | Placebo (N=473) |
+| Body System Adverse EventReactions reported by at least 1% of patients treated with AMBIEN and at a greater frequency than placebo. | Zolpidem (≤10 mg) (N=685) | Placebo (N=473) |
 | --- | --- | --- |
 | Central and Peripheral Nervous System |  |  |
 | Headache | 7 | 6 |
@@ -45,9 +51,9 @@ These trials involved patients with chronic insomnia who were treated for 28 to 
 The table is limited to data from doses up to and including 10 mg, the highest dose recommended for use.
 The table includes only adverse events occurring at an incidence of at least 1% for zolpidem patients.
 
-Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinical Trials Lasting up to 35 Nights (Percentage of patients reporting)
+Table 2: Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinical Trials Lasting up to 35 Nights (percentage of patients reporting)
 
-| Body System/ Adverse EventReactions reported by at least 1% of patients treated with AMBIEN and at a greater frequency than placebo. | Zolpidem (≤10 mg) (N=152) | Placebo (N=161) |
+| Body System Adverse EventReactions reported by at least 1% of patients treated with AMBIEN and at a greater frequency than placebo. | Zolpidem (≤10 mg) (N=152) | Placebo (N=161) |
 | --- | --- | --- |
 | Autonomic Nervous System |  |  |
 | Dry mouth | 3 | 1 |
@@ -78,9 +84,13 @@ Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinic
 | Skin and Appendages |  |  |
 | Rash | 2 | 1 |
 
-Dose relationship for adverse reactions: There is evidence from dose comparison trials suggesting a dose relationship for many of the adverse reactions associated with zolpidem use, particularly for certain CNS and gastrointestinal adverse events.
+Dose Relationship for Adverse Reactions
 
-Adverse event incidence across the entire preapproval database: AMBIEN was administered to 3,660 subjects in clinical trials throughout the U.S., Canada, and Europe.
+There is evidence from dose comparison trials suggesting a dose relationship for many of the adverse reactions associated with zolpidem use, particularly for certain CNS and gastrointestinal adverse events.
+
+Adverse Event Incidence Across the Entire Preapproval Database
+
+AMBIEN was administered to 3,660 subjects in clinical trials throughout the U.S., Canada, and Europe.
 Treatment-emergent adverse events associated with clinical trial participation were recorded by clinical investigators using terminology of their own choosing.
 To provide a meaningful estimate of the proportion of individuals experiencing treatment-emergent adverse events, similar types of untoward events were grouped into a smaller number of standardized event categories and classified utilizing a modified World Health Organization (WHO) dictionary of preferred terms.
 
@@ -142,7 +152,7 @@ Rare: acute renal failure, dysuria, micturition frequency, nocturia, polyuria, p
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of AMBIEN.
+The following adverse reactions have been identified during postapproval use of AMBIEN.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Liver and biliary system: acute hepatocellular, cholestatic or mixed liver injury with or without jaundice (i.e., bilirubin >2×ULN, alkaline phosphatase ≥2×ULN, transaminase ≥5×ULN).
+Liver and biliary system: acute hepatocellular, cholestatic or mixed liver injury with or without jaundice (i.e., bilirubin >2 × ULN, alkaline phosphatase ≥2 × ULN, transaminase ≥5 × ULN).

@@ -1,4 +1,4 @@
-MEDICATION GUIDE AMBIEN® (ām'bē-ən) (zolpidem tartrate) Tablets C-IV
+MEDICATION GUIDE AMBIEN® (ām'bē–ən) (zolpidem tartrate) tablets C-IV
 
 Read the Medication Guide that comes with AMBIEN before you start taking it and each time you get a refill.
 There may be new information.
@@ -27,14 +27,14 @@ Call your healthcare provider right away if you find out that you have done any 
 Do not take AMBIEN if you:
 
 - drank alcohol that evening or before bed
-- took another medicine to help you sleep.
+- took another medicine to help you sleep
 
 What is AMBIEN?
 
 AMBIEN is a sedative-hypnotic (sleep) medicine.
 AMBIEN is used in adults for the short-term treatment of a sleep problem called insomnia (trouble falling asleep).
 
-It is not known if AMBIEN is safe and effective in children under the age of 18 years.
+AMBIEN is not recommended for use in children under the age of 18 years.
 
 | AMBIEN is a federally controlled substance (C-IV) because it can be abused or lead to dependence. Keep AMBIEN in a safe place to prevent misuse and abuse. Selling or giving away AMBIEN may harm others, and is against the law. Tell your healthcare provider if you have ever abused or have been dependent on alcohol, prescription medicines or street drugs. |
 | --- |
@@ -57,10 +57,11 @@ Before starting AMBIEN, tell your healthcare provider about all of your health c
 - have kidney or liver disease
 - have a lung disease or breathing problems
 - are pregnant, planning to become pregnant.
-  It is not known if AMBIEN will harm your unborn baby.
+  Talk to your healthcare provider about the risk to your unborn baby if you take AMBIEN.
+- Using AMBIEN in the last trimester of pregnancy may cause breathing difficulties or excess sleepiness in your newborn.
+  Monitor for signs of sleepiness (more than usual), trouble breathing, or limpness in the newborn if AMBIEN is taken late in pregnancy.
 - are breastfeeding or plan to breastfeed.
-  AMBIEN can pass into your breast milk.
-  It is not known if AMBIEN will harm your baby.
+  AMBIEN passes into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby while you take AMBIEN.
 
 Tell your healthcare provider about all of the medicines you take, including prescription and nonprescription medicines, vitamins and herbal supplements.
@@ -123,7 +124,7 @@ After you stop taking a sleep medicine, you may have symptoms for 1 to 2 days su
 These are not all the side effects of AMBIEN.
 Ask your healthcare provider or pharmacist for more information.
 
-Call your healthcare provider for medical advice about side effects.
+Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1–800–FDA–1088.
 
 How should I store AMBIEN?
@@ -149,13 +150,13 @@ What are the ingredients in AMBIEN?
 
 Active Ingredient: Zolpidem tartrate
 
-Inactive Ingredients: hydroxypropyl methylcellulose, lactose, magnesium stearate, micro-crystalline cellulose, polyethylene glycol, sodium starch glycolate, and titanium dioxide.
+Inactive Ingredients: hydroxypropyl methylcellulose, lactose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, sodium starch glycolate, and titanium dioxide.
 In addition, the 5 mg tablet contains FD&C Red No. 40, iron oxide colorant, and polysorbate 80.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
-October 2014
+September 2018
 
-© 2014 sanofi-aventis U.S. LLC
+© 2018 sanofi-aventis U.S. LLC
