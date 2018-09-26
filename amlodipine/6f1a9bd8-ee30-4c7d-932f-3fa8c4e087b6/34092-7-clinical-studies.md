@@ -269,7 +269,7 @@ The remaining 3 receptor-negative patients had a mean LDL-C reduction of 22%.
 
 ## 14.11 Atorvastatin for Heterozygous Familial Hypercholesterolemia in Pediatric Patients
 
-In a double-blind, placebo-controlled study followed by an open-label phase, 187 boys and post-menarchal girls 10 years to17 years of age (mean age 14.1 years) with HeFH or severe hypercholesterolemia, were randomized to atorvastatin (n=140) or placebo (n=47) for 26 weeks and then all received atorvastatin for 26 weeks.
+In a double-blind, placebo-controlled study followed by an open-label phase, 187 boys and post-menarchal girls 10 years to 17 years of age (mean age 14.1 years) with HeFH or severe hypercholesterolemia, were randomized to atorvastatin (n=140) or placebo (n=47) for 26 weeks and then all received atorvastatin for 26 weeks.
 Inclusion in the study required 1) a baseline LDL-C level ≥ 190 mg/dL or 2) a baseline LDL-C level ≥ 160 mg/dL and positive family history of FH or documented premature cardiovascular disease in a first or second-degree relative.
 The mean baseline LDL-C value was 218.6 mg/dL (range: 138.5–385.0 mg/dL) in the atorvastatin group compared to 230.0 mg/dL (range: 160.0–324.5 mg/dL) in the placebo group.
 The dosage of atorvastatin (once daily) was 10 mg for the first 4 weeks and uptitrated to 20 mg if the LDL-C level was > 130 mg/dL.
