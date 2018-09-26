@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA009900"
+  ],
   "inn": "hydrocortisone",
   "labeler": "Pharmacia and Upjohn Company",
   "package_ndcs": [
     "0009-0142-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "hydrocortisone cypionate",
+      "name": "Cortef"
+    }
+  ],
   "setid": "b221b509-ea5c-427c-94f7-27939957ed97",
   "source": "dailymed"
 }
