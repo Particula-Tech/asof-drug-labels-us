@@ -16,6 +16,6 @@ It is freely soluble in methylene chloride, sparingly soluble in tetrahydrofuran
 It has a pKa of 3.7 (based on extrapolation of values obtained from methanolic solutions) and a log (n-octanol/water) partition coefficient of 5.66 at pH 8.1.
 
 Itraconazole capsules contain 100 mg of itraconazole coated on sugar spheres (composed of sucrose, starch and purified water).
-Inactive ingredients are hydroxypropyl methylcellulose, polyethylene glycol, hypromellose, gelatin, titanium dioxide, D&C Red No. 22, FD&C Blue No. 1, and D&C Red No. 28.
+Inactive ingredients are hydroxypropyl methylcellulose, polyethylene glycol, gelatin, titanium dioxide, D&C Red No. 22, FD&C Blue No. 1, and D&C Red No. 28.
 
 The imprinting ink contains shellac, propylene glycol, black iron oxide, and potassium hydroxide.

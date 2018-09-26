@@ -56,7 +56,7 @@ Only the Oral Solution has been demonstrated effective for oral and/or esophagea
 
 ## General:
 
-Itraconazole capsulesshould be administered after a full meal.
+Itraconazole capsules should be administered after a full meal.
 (See CLINICAL PHARMACOLOGY: Pharmacokinetics and Metabolism).
 
 Under fasted conditions, itraconazole absorption was decreased in the presence of decreased gastric acidity.
@@ -65,22 +65,19 @@ Studies conducted under fasted conditions demonstrated that administration with 
 This increase relative to the effects of a full meal is unknown.
 (See CLINICAL PHARMACOLOGY: Pharmacokinetics and Metabolism).
 
-Hepatotoxicity:
-
-Rare cases of serious hepatotoxicity have been observed with itraconazole treatment, including some cases within the first week.
+Hepatotoxicity: Rare cases of serious hepatotoxicity have been observed with itraconazole treatment, including some cases within the first week.
 It is recommended that liver function monitoring be considered in all patients receiving itraconazole.
 Treatment should be stopped immediately and liver function testing should be conducted in patients who develop signs and symptoms suggestive of liver dysfunction.
 
-Neuropathy:
+Neuropathy: If neuropathy occurs that may be attributable to itraconazole capsules, the treatment should be discontinued.
 
-If neuropathy occurs that may be attributable to itraconazole capsules, the treatment should be discontinued.
+Immunocompromised Patients: In some immunocompromised patients (e.g., neutropenic, AIDS or organ transplant patients), the oral bioavailability of itraconazole capsules may be decreased.
+Therefore, the dose should be adjusted based on the clinical response in these patients.
 
 Cystic Fibrosis: If a cystic fibrosis patient does not respond to itraconazole capsules, consideration should be given to switching to alternative therapy.
 For more information concerning the use of itraconazole in cystic fibrosis patients see the prescribing information for itraconazole Oral Solution.
 
-Hearing Loss:
-
-Transient or permanent hearing loss has been reported in patients receiving treatment with itraconazole.
+Hearing Loss: Transient or permanent hearing loss has been reported in patients receiving treatment with itraconazole.
 Several of these reports included concurrent administration of quinidine which is contraindicated (See BOXED WARNING: Drug Interactions, CONTRAINDICATIONS: Drug Interactions and PRECAUTIONS: Drug Interactions).
 The hearing loss usually resolves when treatment is stopped, but can persist in some patients.
 
@@ -130,7 +127,7 @@ Although many of the clinical drug interactions in Table 1 are based on informat
 | Digoxina |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Antibacterials |  |  |
 | Bedaquilineb |  | Concomitant itraconazole not recommended for more than 2 weeks at any time during bedaquiline treatment. |
-| Rifabutin |  | Not recommended 2 weeks before, during, and 2 weeks after itraconazole treatment..See also Table 2. |
+| Rifabutin |  | Not recommended 2 weeks before, during, and 2 weeks after itraconazole treatment. See also Table 2. |
 | Clarithromycin |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. See also Table 2. |
 | Trimetrexate |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Anticoagulants and Antiplatelets |  |  |
@@ -273,7 +270,7 @@ Itraconazole produced no mutagenic effects when assayed in DNA repair test (unsc
 Itraconazole did not affect the fertility of male or female rats treated orally with dosage levels of up to 40 mg/kg/day (5 times the MRHD), even though parental toxicity was present at this dosage level.
 More severe signs of parental toxicity, including death, were present in the next higher dosage level, 160 mg/kg/day (20 times the MRHD).
 
-## Pregnancy: Teratogenic effects. Pregnancy Category C:
+## Pregnancy: Teratogenic effects:
 
 Itraconazole was found to cause a dose-related increase in maternal toxicity, embryotoxicity, and teratogenicity in rats at dosage levels of approximately 40 to 160 mg/kg/day (5 to 20 times the MRHD), and in mice at dosage levels of approximately 80 mg/kg/day (10 times the MRHD).
 Itraconazole has been shown to cross the placenta in a rat model.
