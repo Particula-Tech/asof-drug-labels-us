@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA060014"
+  ],
   "inn": "penicillin-g",
   "labeler": "Roerig",
   "package_ndcs": [
     "0049-0210-35"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SUSPENSION",
+      "generic": "penicillin g benzathine",
+      "name": "Permapen"
+    }
+  ],
   "setid": "05613e85-cc86-47fc-8ff9-15fab38ac9fa",
   "source": "dailymed"
 }
