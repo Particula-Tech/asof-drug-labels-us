@@ -20,7 +20,7 @@ Other factors that may independently increase the risk of tendon rupture include
 Tendinitis and tendon rupture have been reported in patients taking fluoroquinolones who do not have the above risk factors.
 Discontinue levofloxacin immediately if the patient experiences pain, swelling, inflammation or rupture of a tendon.
 Patients should be advised to rest at the first sign of tendinitis or tendon rupture, and to contact their healthcare provider regarding changing to a non-quinolone antimicrobial drug.
-Avoid levofloxacin in patients who have a history of tendon disorders or tendon rupture [see Adverse Reactions (6.3); Patient Counseling Information (17)].
+Avoid levofloxacin in patients who have a history of tendon disorders or tendon rupture [see Adverse Reactions (6.3) and Patient Counseling Information (17)].
 
 ## 5.3 Peripheral Neuropathy
 
@@ -28,7 +28,7 @@ Fluoroquinolones, including levofloxacin, have been associated with an increased
 Cases of sensory or sensorimotor axonal polyneuropathy affecting small and/or large axons resulting in paresthesias, hypoesthesias, dysesthesias and weakness have been reported in patients receiving fluoroquinolones, including levofloxacin.
 Symptoms may occur soon after initiation of levofloxacin and may be irreversible in some patients [see Warnings and Precautions (5.1) and Adverse Reactions (6.1, 6.2)].
 Discontinue levofloxacin immediately if the patient experiences symptoms of neuropathy including pain, burning, tingling, numbness, and/or weakness or other alterations of sensation including light touch, pain, temperature, position sense, and vibratory sensation.
-Avoid fluoroquinolones, including levofloxacin, in patients who have previously experienced peripheral neuropathy [see Adverse Reactions (6), Patient Counseling Information (17)].
+Avoid fluoroquinolones, including levofloxacin, in patients who have previously experienced peripheral neuropathy [see Adverse Reactions (6) and Patient Counseling Information (17)].
 
 ## 5.4 Central Nervous System Effects
 
@@ -38,13 +38,13 @@ Suicidal thoughts, and attempted or completed suicide may also occur, especially
 These reactions may occur following the first dose.
 If these reactions occur in patients receiving levofloxacin, discontinue levofloxacin and institute appropriate measures.
 As with other fluoroquinolones, levofloxacin should be used with caution in patients with a known or suspected central nervous system (CNS) disorder that may predispose them to seizures or lower the seizure threshold (e.g., severe cerebral arteriosclerosis, epilepsy) or in the presence of other risk factors that may predispose them to seizures or lower the seizure threshold (e.g., certain drug therapy, renal dysfunction).
-[see Adverse Reactions (6); Drug Interactions (7.4, 7.5); Patient Counseling Information (17)].
+[see Adverse Reactions (6), Drug Interactions (7.4, 7.5), and Patient Counseling Information (17)].
 
 ## 5.5 Exacerbation of Myasthenia Gravis
 
 Fluoroquinolones, including levofloxacin, have neuromuscular blocking activity and may exacerbate muscle weakness in patients with myasthenia gravis.
 Postmarketing serious adverse reactions including deaths and requirement for ventilatory support, have been associated with fluoroquinolone use in patients with myasthenia gravis.
-Avoid levofloxacin in patients with a known history of myasthenia gravis [see Adverse Reactions (6.3); Patient Counseling Information (17)].
+Avoid levofloxacin in patients with a known history of myasthenia gravis [see Adverse Reactions (6.3) and Patient Counseling Information (17)].
 
 ## 5.6 Other Serious and Sometimes Fatal Adverse Reactions
 
@@ -59,7 +59,7 @@ Clinical manifestations may include one or more of the following:
 - hepatitis; jaundice; acute hepatic necrosis or failure;
 - anemia, including hemolytic and aplastic; thrombocytopenia, including thrombotic thrombocytopenic purpura; leukopenia; agranulocytosis; pancytopenia; and/or other hematologic abnormalities.
 
-Discontinue levofloxacin immediately at the first appearance of skin rash, jaundice, or any other sign of hypersensitivity and institute supportive measures [see Adverse Reactions (6); Patient Counseling Information (17)].
+Discontinue levofloxacin immediately at the first appearance of skin rash, jaundice, or any other sign of hypersensitivity and institute supportive measures [see Adverse Reactions (6) and Patient Counseling Information (17)].
 
 ## 5.7 Hypersensitivity Reactions
 
@@ -67,7 +67,7 @@ Serious and occasionally fatal hypersensitivity and/or anaphylactic reactions ha
 These reactions often occur following the first dose.
 Some reactions have been accompanied by cardiovascular collapse, hypotension/shock, seizure, loss of consciousness, tingling, angioedema (including tongue, laryngeal, throat, or facial edema/swelling), airway obstruction (including bronchospasm, shortness of breath, and acute respiratory distress), dyspnea, urticaria, itching, and other serious skin reactions.
 Levofloxacin should be discontinued immediately at the first appearance of a skin rash or any other sign of hypersensitivity.
-Serious acute hypersensitivity reactions may require treatment with epinephrine and other resuscitative measures, including oxygen, intravenous fluids, antihistamines, corticosteroids, pressor amines, and airway management, as clinically indicated [see Adverse Reactions (6); Patient Counseling Information (17)].
+Serious acute hypersensitivity reactions may require treatment with epinephrine and other resuscitative measures, including oxygen, intravenous fluids, antihistamines, corticosteroids, pressor amines, and airway management, as clinically indicated [see Adverse Reactions (6) and Patient Counseling Information (17)].
 
 ## 5.8 Hepatotoxicity
 
@@ -76,7 +76,7 @@ No evidence of serious drug-associated hepatotoxicity was detected in clinical t
 Severe hepatotoxicity generally occurred within 14 days of initiation of therapy and most cases occurred within 6 days.
 Most cases of severe hepatotoxicity were not associated with hypersensitivity [see Warnings and Precautions (5.6)].
 The majority of fatal hepatotoxicity reports occurred in patients 65 years of age or older and most were not associated with hypersensitivity.
-Levofloxacin should be discontinued immediately if the patient develops signs and symptoms of hepatitis [see Adverse Reactions (6); Patient Counseling Information (17)].
+Levofloxacin should be discontinued immediately if the patient develops signs and symptoms of hepatitis [see Adverse Reactions (6) and Patient Counseling Information (17)].
 
 ## 5.9 Clostridium difficile-Associated Diarrhea
 
@@ -89,7 +89,7 @@ CDAD must be considered in all patients who present with diarrhea following anti
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
-Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated [see Adverse Reactions (6.2), Patient Counseling Information (17)].
+Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated [see Adverse Reactions (6.2) and Patient Counseling Information (17)].
 
 ## 5.10 Prolongation of the QT Interval
 
@@ -103,7 +103,7 @@ Elderly patients may be more susceptible to drug-associated effects on the QT in
 Levofloxacin is indicated in pediatric patients (6 months of age and older) only for the prevention of inhalational anthrax (post-exposure) and for plague [see Indications and Usage (1.7, 1.8)].
 An increased incidence of musculoskeletal disorders (arthralgia, arthritis, tendinopathy, and gait abnormality) compared to controls has been observed in pediatric patients receiving levofloxacin [see Use in Specific Populations (8.4)].
 
-In immature rats and dogs, the oral administration of levofloxacin resulted in increased osteochondrosis.
+In immature rats and dogs, the oral and intravenous administration of levofloxacin resulted in increased osteochondrosis.
 Histopathological examination of the weight-bearing joints of immature dogs dosed with levofloxacin revealed persistent lesions of the cartilage.
 Other fluoroquinolones also produce similar erosions in the weight-bearing joints and other signs of arthropathy in immature animals of various species [see Animal Toxicology and/or Pharmacology (13.2)].
 
@@ -111,13 +111,13 @@ Other fluoroquinolones also produce similar erosions in the weight-bearing joint
 
 As with other fluoroquinolones, disturbances of blood glucose, including symptomatic hyper- and hypoglycemia, have been reported with levofloxacin, usually in diabetic patients receiving concomitant treatment with an oral hypoglycemic agent (e.g., glyburide) or with insulin.
 In these patients, careful monitoring of blood glucose is recommended.
-If a hypoglycemic reaction occurs in a patient being treated with levofloxacin, levofloxacin should be discontinued and appropriate therapy should be initiated immediately [see Adverse Reactions (6.2); Drug Interactions (7.3); Patient Counseling Information (17)].
+If a hypoglycemic reaction occurs in a patient being treated with levofloxacin, levofloxacin should be discontinued and appropriate therapy should be initiated immediately [see Adverse Reactions (6.2), Drug Interactions (7.3) and Patient Counseling Information (17)].
 
 ## 5.13 Photosensitivity/Phototoxicity
 
 Moderate to severe photosensitivity/phototoxicity reactions, the latter of which may manifest as exaggerated sunburn reactions (e.g., burning, erythema, exudation, vesicles, blistering, edema) involving areas exposed to light (typically the face, “V” area of the neck, extensor surfaces of the forearms, dorsa of the hands), can be associated with the use of fluoroquinolones after sun or UV light exposure.
 Therefore, excessive exposure to these sources of light should be avoided.
-Drug therapy should be discontinued if photosensitivity/phototoxicity occurs [see Adverse Reactions (6.3); Patient Counseling Information (17)].
+Drug therapy should be discontinued if photosensitivity/phototoxicity occurs [see Adverse Reactions (6.3) and Patient Counseling Information (17)].
 
 ## 5.14 Development of Drug Resistant Bacteria
 

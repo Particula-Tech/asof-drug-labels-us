@@ -48,7 +48,7 @@ They do not treat viral infections (e.g., the common cold).
 When levofloxacin is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by levofloxacin or other antibacterial drugs in the future.
 Administration with Food, Fluids, and Concomitant Medications Patients should be informed that levofloxacin tablets may be taken with or without food.
-The tablet should be taken at the same time each day.
+The tablets should be taken at the same time each day.
 Patients should drink fluids liberally while taking levofloxacin to avoid formation of a highly concentrated urine and crystal formation in the urine.
 Antacids containing magnesium, or aluminum, as well as sucralfate, metal cations such as iron, and multivitamin preparations with zinc or didanosine should be taken at least two hours before or two hours after oral levofloxacin administration.
 Drug Interactions with Insulin, Oral Hypoglycemic Agents, and Warfarin Patients should be informed that if they are diabetic and are being treated with insulin or an oral hypoglycemic agent and a hypoglycemic reaction occurs, they should discontinue levofloxacin and consult a physician.
@@ -57,4 +57,4 @@ Patients should be informed that concurrent administration of warfarin and levof
 Patients should notify their physician if they are taking warfarin, be monitored for evidence of bleeding, and also have their anticoagulation tests closely monitored while taking warfarin concomitantly.
 Plague and Anthrax Studies Patients given levofloxacin for these conditions should be informed that efficacy studies could not be conducted in humans for ethical and feasibility reasons.
 Therefore, approval for these conditions was based on efficacy studies conducted in animals.
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500038, India Revised: 06/2018 Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500038, India Revised: 09/2018 Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides

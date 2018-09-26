@@ -1,6 +1,6 @@
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 250 mg (50 Tablet Bottle)
 
-NDC 65862-536-50 Rx only Once-a-dayLevofloxacin Tablets USP 250 mg ATTENTION PHARMACIST: Dispense the accompanying Medication Guide to each patient AUROBINDO 50 Tablets
+NDC 65862-536-50 Rx only Once-a-day Levofloxacin Tablets USP 250 mg ATTENTION PHARMACIST: Dispense the accompanying Medication Guide to each patient AUROBINDO 50 Tablets
 
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 250 mg Blister Carton (10 x 10 Unit-dose)
 
