@@ -9,7 +9,7 @@ Patients who are opioid tolerant are those receiving, for one week or longer, at
 
 - Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
 - Initiate the dosing regimen for each patient individually; taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
-- Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy and following dosage increases with MORPHABOND ER and adjust the dosage accordingly [see Warnings and Precautions (5.2)].
+- Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy and following dosage increases with MORPHABOND ER and adjust the dosage accordingly [see Warnings and Precautions (5.3)].
 
 Instruct patients to swallow MORPHABOND ER tablets whole [see Patient Counseling Information (17)].
 Crushing, chewing, or dissolving MORPHABOND ER tablets will result in uncontrolled delivery of morphine and can lead to overdose or death [see Warnings and Precautions (5.1)].
@@ -26,7 +26,7 @@ Use of MORPHABOND ER in Patients who are not Opioid Tolerant (opioid non-toleran
 
 The starting dosage for patients who are not opioid tolerant is MORPHABOND ER 15 mg orally every 8 or 12 hours.
 
-Use of higher starting doses in patients who are not opioid tolerant may cause fatal respiratory depression [see Warnings and Precautions (5.2)].
+Use of higher starting doses in patients who are not opioid tolerant may cause fatal respiratory depression [see Warnings and Precautions (5.3)].
 
 Conversion from Other Oral Morphine to MORPHABOND ER
 
@@ -78,10 +78,10 @@ Adjust the dosage to obtain an appropriate balance between management of pain an
 
 ## 2.4 Dosage Modifications with Concomitant Use of Central Nervous System Depressants
 
-If the patient is currently taking a central nervous system (CNS) depressant and the decision is made to begin MORPHABOND ER, start with the lowest possible dose, 15 mg every 12 hours, monitor patients for signs of respiratory depression, sedation, and hypotension, and consider using a lower dosage of the concomitant CNS depressant [see Warnings and Precautions (5.4), Drug Interactions (7)]
+If the patient is currently taking a central nervous system (CNS) depressant and the decision is made to begin MORPHABOND ER, start with the lowest possible dose, 15 mg every 12 hours, monitor patients for signs of respiratory depression, sedation, and hypotension, and consider using a lower dosage of the concomitant CNS depressant [see Warnings and Precautions (5.5), Drug Interactions (7)].
 
 ## 2.5Discontinuation of MORPHABOND ER
 
 When the patient no longer requires therapy with MORPHABOND ER tablets, taper the dosage gradually, by 25% to 50% every 2 to 4 days, while monitoring carefully for signs and symptoms of withdrawal.
 If a patient develops these signs or symptoms, raise the dose to the previous level and taper more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both.
-Do not abruptly discontinue MORPHABOND ER [see Warnings and Precautions (5.12), Drug Abuse and Dependence (9.3)].
+Do not abruptly discontinue MORPHABOND ER [see Warnings and Precautions (5.13), Drug Abuse and Dependence (9.3)].

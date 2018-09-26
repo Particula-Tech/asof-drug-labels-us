@@ -112,7 +112,7 @@ An analysis of pharmacokinetic data from healthy subjects taking morphine sulfat
 
 Race/Ethnicity
 
-Chinese subjects given intravenous morphine had a higher clearance when compared to Caucasian subjects (1852 +/- 116 mL/min compared to 1495 +/-80 mL/min).
+Chinese subjects given intravenous morphine had a higher clearance when compared to Caucasian subjects (1852 +/- 116 mL/min compared to 1495 +/- 80 mL/min).
 
 Hepatic Impairment
 
