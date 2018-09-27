@@ -24,7 +24,8 @@ Glabellar Lines
 
 ## 16.2 Storage
 
-Unopened vials of XEOMIN can be stored at room temperature 20°C to 25°C (68°F to 77°F), in a refrigerator at 2°C to 8°C (36°F to 46°F), or a freezer at -20°C to -10°C (-4°F to 14°F).
+Unopened vials of XEOMIN should be stored at or below 25°C (77°F).
+Refrigeration of unopened vials is not required.
 Do not use after the expiration date on the vial.
 
 ## 16.3 Handling
