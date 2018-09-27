@@ -9,10 +9,10 @@ Patients who are opioid tolerant are those receiving, for one week or longer, at
 
 - Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
 - Initiate the dosing regimen for each patient individually, taking into account the patient’s severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
-- Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy and following dosage increases with ARYMO ER and adjust the dosage accordingly [see Warnings and Precautions (5.2)].
+- Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy and following dosage increases with ARYMO ER and adjust the dosage accordingly [see Warnings and Precautions (5.3)].
 
 Instruct patients to take ARYMO ER tablets whole, one tablet at a time, with enough water to ensure complete swallowing immediately after placing in the mouth [see Patient Counseling Information (17)].
-Instruct patients not to pre-soak, lick, or otherwise wet the tablet prior to placing in the mouth [see Warnings and Precautions (5.10)].
+Instruct patients not to pre-soak, lick, or otherwise wet the tablet prior to placing in the mouth [see Warnings and Precautions (5.11)].
 Cutting, breaking, crushing, chewing, or dissolving ARYMO ER tablets will result in uncontrolled delivery of morphine that could lead to overdose and death [see Warnings and Precautions (5.1)].
 
 ARYMO ER is administered orally every 8 or 12 hours.
@@ -27,7 +27,7 @@ Use of ARYMO ER in Patients who are not Opioid Tolerant (opioid-non-tolerant pat
 
 The starting dose for patients who are not opioid tolerant is ARYMO ER 15 mg orally every 8 or 12 hours.
 
-Use of higher starting doses in patients who are not opioid tolerant may cause fatal respiratory depression [see Warnings and Precautions (5.2)].
+Use of higher starting doses in patients who are not opioid tolerant may cause fatal respiratory depression [see Warnings and Precautions (5.3)].
 
 Conversion from Other Oral Morphine to ARYMO ER
 
