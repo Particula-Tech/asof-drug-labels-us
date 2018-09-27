@@ -1,3 +1,3 @@
-Manufactured for USL PHARMA, INC. Denver, CO 80223
+Manufactured for USL PHARMA, LLC Denver, CO 80223
 
-Revised 0317
+Revised 0618
