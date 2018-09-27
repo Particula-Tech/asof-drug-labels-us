@@ -128,11 +128,11 @@ Drug Interaction Studies
 CYP3A4 Inhibitors
 
 CYP3A4 is the major enzyme involved in noroxycodone formation.
-A published study showed that the coadministration of voriconazole, a CYP3A4 inhibitor, increased oxycodone AUC and Cmax by 3.6 and 1.7 fold, respectively [see Warnings and Precautions (5.4) and Drug Interactions (7)].
+A published study showed that the coadministration of voriconazole, a CYP3A4 inhibitor, increased oxycodone AUC and Cmax by 3.6 and 1.7 fold, respectively [see Warnings and Precautions (5.5) and Drug Interactions (7)].
 
 CYP3A4 Inducers
 
-A published study showed that the co-administration of rifampin, a drug metabolizing enzyme inducer, decreased oxycodone AUC and Cmax values by 86% and 63%, respectively [see Warnings and Precautions (5.4) and Drug Interactions (7)].
+A published study showed that the co-administration of rifampin, a drug metabolizing enzyme inducer, decreased oxycodone AUC and Cmax values by 86% and 63%, respectively [see Warnings and Precautions (5.5) and Drug Interactions (7)].
 
 CYP2D6 Inhibitors
 
