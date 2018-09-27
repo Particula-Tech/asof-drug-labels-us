@@ -48,49 +48,47 @@ __________________________________________________________________________
 1. A diaphragm and cervical cap must each be used with spermicide, a special cream that kills sperm.
 2. I understand that at least one of my two methods of birth control must be a primary method.
 3. Initial: ______
-4. 6.I will talk with my doctor about any medicines including herbal products I plan to take during my isotretinoin treatment because hormonal birth control methods may not work if I am taking certain medicines or herbal products.
+4. 1.I will talk with my doctor about any medicines including herbal products I plan to take during my isotretinoin treatment because hormonal birth control methods may not work if I am taking certain medicines or herbal products.
 5. Initial: ______
-6. 7.I may receive a free birth control counseling session from a doctor or other family planning expert.
+6. 2.I may receive a free birth control counseling session from a doctor or other family planning expert.
    My isotretinoin doctor can give me an Isotretinoin Contraception Patient Referral Form for this free consultation.
 7. Initial: ______
-8. 8.I must begin using the birth control methods I have chosen as described above at least one month before I start taking isotretinoin.
+8. 3.I must begin using the birth control methods I have chosen as described above at least one month before I start taking isotretinoin.
 9. Initial: ______
-10. 9.I cannot get my first prescription for isotretinoin unless my doctor has told me that I have two negative pregnancy test results.
+10. 4.I cannot get my first prescription for isotretinoin unless my doctor has told me that I have two negative pregnancy test results.
     The first pregnancy test should be done when my doctor decides to prescribe isotretinoin.
     The second pregnancy test must be done in a lab during the first 5 days of my menstrual period right before starting isotretinoin therapy treatment, or as instructed by my doctor.
     I will then have one pregnancy test; in a lab.
-11. 
-    - •every month during treatment
-    - •at the end of treatment
-    - •and one month after stopping treatment
-12. I must not start taking isotretinoin until I am sure that I am not pregnant, have negative results from two pregnancy tests, and the second test has been done in a lab.
-13. Initial: ______
-14. 10.I have read and understand the materials my doctor has provided to me, including the Guide to Isotretinoin for Female Patients Who Can Get Pregnant, Birth Control Workbook and Patient Introductory Brochure.
+    1. •every month during treatment
+    2. •at the end of treatment
+    3. •and one month after stopping treatment
+11. I must not start taking isotretinoin until I am sure that I am not pregnant, have negative results from two pregnancy tests, and the second test has been done in a lab.
+12. Initial: ______
+13. 5.I have read and understand the materials my doctor has provided to me, including the Guide to Isotretinoin for Female Patients Who Can Get Pregnant, Birth Control Workbook and Patient Introductory Brochure.
     I have received information on emergency birth control.
-15. My doctor provided me and asked me to watch a video about birth control and a video about birth defects and isotretinoin.
-16. Initial: ______
-17. 11.I must stop taking isotretinoin right away and call my doctor if I get pregnant, miss my expected menstrual period, stop using birth control, or have sexual intercourse without using my two birth control methods at any time.
-18. Initial: ______
-19. 12.My doctor provided me information about the purpose and importance of providing information to the iPLEDGE Program should I become pregnant while taking isotretinoin or within one month of the last dose.
+14. My doctor provided me and asked me to watch a video about birth control and a video about birth defects and isotretinoin.
+15. Initial: ______
+16. 6.I must stop taking isotretinoin right away and call my doctor if I get pregnant, miss my expected menstrual period, stop using birth control, or have sexual intercourse without using my two birth control methods at any time.
+17. Initial: ______
+18. 7.My doctor provided me information about the purpose and importance of providing information to the iPLEDGE Program should I become pregnant while taking isotretinoin or within one month of the last dose.
     I understand that if I become pregnant, information about my pregnancy, my health, and my baby’s health may be shared with the makers of isotretinoin, authorized parties who maintain the iPLEDGE Program for the makers of isotretinoin and government health regulatory authorities.
-20. Initial: ______
-21. 13.I understand that being qualified to receive isotretinoin in the iPLEDGE Program means that I:
-22. 
-    - •have had two negative urine or blood pregnancy tests before receiving the first isotretinoin prescription.
-      The second test must be done in a lab.
-      I must have a negative result from a urine or blood pregnancy test done in a lab repeated each month before I receive another isotretinoin prescription.
-    - •have chosen and agreed to use two methods of effective birth control at the same time.
-      At least one method must be a primary method of birth control, unless I have chosen never to have sexual contact with a male (abstinence), or I have undergone a hysterectomy or bilateral oophorectomy, or I have been medically confirmed to be post-menopausal.
-      I must use two methods of birth control for at least one month before I start isotretinoin therapy, during therapy, and for one month after stopping therapy.
-      I must receive counseling, repeated on a monthly basis, about birth control and behaviors associated with an increased risk of pregnancy.
-    - •have signed a Patient Information/Informed Consent About Birth Defects (for female patients who can get pregnant) that contains warnings about the chance of possible birth defects if I am pregnant or become pregnant and my unborn baby is exposed to isotretinoin.
-    - •have been informed of and understand the purpose and importance of providing information to the iPLEDGE Program should I become pregnant while taking isotretinoin or within one month of the last dose.
-    - •have interacted with the iPLEDGE Program before starting isotretinoin and on a monthly basis to answer questions on the program requirements and to enter my two chosen methods of birth control.
-23. Initial: ______
+19. Initial: ______
+20. 8.I understand that being qualified to receive isotretinoin in the iPLEDGE Program means that I:
+    1. •have had two negative urine or blood pregnancy tests before receiving the first isotretinoin prescription.
+       The second test must be done in a lab.
+       I must have a negative result from a urine or blood pregnancy test done in a lab repeated each month before I receive another isotretinoin prescription.
+    2. •have chosen and agreed to use two methods of effective birth control at the same time.
+       At least one method must be a primary method of birth control, unless I have chosen never to have sexual contact with a male (abstinence), or I have undergone a hysterectomy or bilateral oophorectomy, or I have been medically confirmed to be post-menopausal.
+       I must use two methods of birth control for at least one month before I start isotretinoin therapy, during therapy, and for one month after stopping therapy.
+       I must receive counseling, repeated on a monthly basis, about birth control and behaviors associated with an increased risk of pregnancy.
+    3. •have signed a Patient Information/Informed Consent About Birth Defects (for female patients who can get pregnant) that contains warnings about the chance of possible birth defects if I am pregnant or become pregnant and my unborn baby is exposed to isotretinoin.
+    4. •have been informed of and understand the purpose and importance of providing information to the iPLEDGE Program should I become pregnant while taking isotretinoin or within one month of the last dose.
+    5. •have interacted with the iPLEDGE Program before starting isotretinoin and on a monthly basis to answer questions on the program requirements and to enter my two chosen methods of birth control.
+21. Initial: ______
 
 My doctor has answered all my questions about isotretinoin and I understand that it is my responsibility not to get pregnant one month before, during isotretinoin treatment, or for one month after I stop taking isotretinoin.
 
-1. Initial: ______
+- Initial: ______
 
 I now authorize my doctor ____________________to begin my treatment with isotretinoin.
 
@@ -149,35 +147,34 @@ Do not sign this agreement and do not take isotretinoin if there is anything tha
 14. Initials: ______
 15. 7.Once I start taking isotretinoin, I agree to stop using isotretinoin and tell my doctor right away if any of the following signs and symptoms of depression or psychosis happen.
     I:
-16. 
-    - •Start to feel sad or have crying spells
-    - •Lose interest in activities I once enjoyed
-    - •Sleep too much or have trouble sleeping
-    - •Become more irritable, angry, or aggressive than usual (for example, temper outbursts, thoughts of violence)
-    - •Have a change in my appetite or body weight
-    - •Have trouble concentrating
-    - •Withdraw from my friends or family
-    - •Feel like I have no energy
-    - •Have feelings of worthlessness or guilt
-    - •Start having thoughts about hurting myself or taking my own life (suicidal thoughts)
-    - •Start acting on dangerous impulses
-    - •Start seeing or hearing things that are not real
-17. Initials: ______
-18. 8.I agree to return to see my doctor every month I take isotretinoin to get a new prescription for isotretinoin, to check my progress, and to check for signs of side effects.
-19. Initials: ______
-20. 9.Isotretinoin will be prescribed just for me — I will not share isotretinoin with other people because it may cause serious side effects, including birth defects.
-21. Initials: ______
-22. 10.I will not give blood while taking isotretinoin or for one month after I stop taking isotretinoin.
+    1. •Start to feel sad or have crying spells
+    2. •Lose interest in activities I once enjoyed
+    3. •Sleep too much or have trouble sleeping
+    4. •Become more irritable, angry, or aggressive than usual (for example, temper outbursts, thoughts of violence)
+    5. •Have a change in my appetite or body weight
+    6. •Have trouble concentrating
+    7. •Withdraw from my friends or family
+    8. •Feel like I have no energy
+    9. •Have feelings of worthlessness or guilt
+    10. •Start having thoughts about hurting myself or taking my own life (suicidal thoughts)
+    11. •Start acting on dangerous impulses
+    12. •Start seeing or hearing things that are not real
+16. Initials: ______
+17. 8.I agree to return to see my doctor every month I take isotretinoin to get a new prescription for isotretinoin, to check my progress, and to check for signs of side effects.
+18. Initials: ______
+19. 9.Isotretinoin will be prescribed just for me — I will not share isotretinoin with other people because it may cause serious side effects, including birth defects.
+20. Initials: ______
+21. 10.I will not give blood while taking isotretinoin or for one month after I stop taking isotretinoin.
     I understand that if someone who is pregnant gets my donated blood, her baby may be exposed to isotretinoin and may be born with serious birth defects.
-23. Initials: ______
-24. 11.I have read the Patient Introductory Brochure, and other materials my provider provided me containing important safety information about isotretinoin.
+22. Initials: ______
+23. 11.I have read the Patient Introductory Brochure, and other materials my provider provided me containing important safety information about isotretinoin.
     I understand all the information I received.
-25. Initials: ______
-26. 12.My doctor and I have decided I should take isotretinoin.
+24. Initials: ______
+25. 12.My doctor and I have decided I should take isotretinoin.
     I understand that I must be qualified in the iPLEDGE Program to have my prescription filled each month.
     I understand that I can stop taking isotretinoin at any time.
     I agree to tell my doctor if I stop taking isotretinoin.
-27. Initials: ______
+26. Initials: ______
 
 I now allow my doctor _______________________ to begin my treatment with isotretinoin.
 

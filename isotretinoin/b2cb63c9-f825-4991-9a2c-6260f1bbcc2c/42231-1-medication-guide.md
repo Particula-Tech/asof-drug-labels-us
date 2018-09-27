@@ -11,26 +11,24 @@ What is the most important information I should know about Amnesteem?
 - •Amnesteem® is used to treat a type of severe acne (nodular acne) that has not been helped by other treatments, including antibiotics.
 - •Because Amnesteem can cause birth defects, Amnesteem is only for patients who can understand and agree to carry out all of the instructions in the iPLEDGE Program.
 - •Amnesteem may cause serious mental health problems.
-- 1.Birth defects (deformed babies), loss of a baby before birth (miscarriage), death of the baby, and early (premature) births.
+- •Birth defects (deformed babies), loss of a baby before birth (miscarriage), death of the baby, and early (premature) births.
   Female patients who are pregnant or who plan to become pregnant must not take Amnesteem.
   Female patients must not get pregnant:
-- 
   - •for one month before starting Amnesteem
   - •while taking Amnesteem
   - •for one month after stopping Amnesteem.
 - If you get pregnant while taking Amnesteem, stop taking it right away and call your doctor.
   Doctors and patients should report all cases of pregnancy to:
-- 
-  - •FDA MedWatch at 1-800-FDA-1088, and
-  - •the iPLEDGE Pregnancy Registry at 1-866-495-0654
-- 2.Serious mental health problems.
+  1. •FDA MedWatch at 1-800-FDA-1088, and
+  2. •the iPLEDGE Pregnancy Registry at 1-866-495-0654
+- •Serious mental health problems.
   Amnesteem may cause:
-  1. •depression
-  2. •psychosis (seeing or hearing things that are not real)
-  3. •suicide.
-     Some patients taking Amnesteem have had thoughts about hurting themselves or putting an end to their own lives (suicidal thoughts).
-     Some people tried to end their own lives.
-     And some people have ended their own lives.
+  - •depression
+  - •psychosis (seeing or hearing things that are not real)
+  - •suicide.
+    Some patients taking Amnesteem have had thoughts about hurting themselves or putting an end to their own lives (suicidal thoughts).
+    Some people tried to end their own lives.
+    And some people have ended their own lives.
 - Stop Amnesteem and call your doctor right away if you or a family member notices that you have any of the following signs and symptoms of depression or psychosis:
   1. •start to feel sad or have crying spells
   2. •lose interest in activities you once enjoyed

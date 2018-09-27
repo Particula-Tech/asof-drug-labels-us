@@ -15,7 +15,7 @@ In some cases death has occurred with certain of the abnormalities previously no
 
 If pregnancy does occur during treatment of a female patient who is taking Amnesteem, Amnesteem must be discontinued immediately and she should be referred to an Obstetrician-Gynecologist experienced in reproductive toxicity for further evaluation and counseling.
 
-1. Special Prescribing Requirements
+- Special Prescribing Requirements
 
 Because of Amnesteem’s teratogenicity and to minimize fetal exposure, Amnesteem is approved for marketing only under a special restricted distribution program approved by the Food and Drug Administration.
 This program is called iPLEDGE®.
