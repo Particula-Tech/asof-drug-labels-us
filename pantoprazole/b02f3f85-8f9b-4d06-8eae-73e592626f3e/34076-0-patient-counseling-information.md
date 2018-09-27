@@ -38,6 +38,4 @@ Estrada do Rio da Mό, 8, 8A e 8B – Fervença – 2705-906 Terrugem SNT, PORT
 
 Distributed by: WEST-WARD A HIKMA COMPANY Eatontown, NJ 07724 USA
 
-July 2017
-
-PIN469-WES/1
+PIN469-WES/3

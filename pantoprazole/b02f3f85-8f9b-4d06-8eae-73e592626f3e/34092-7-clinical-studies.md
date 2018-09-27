@@ -53,7 +53,7 @@ Data comparing intravenous pantoprazole sodium to other PPIs (oral or intravenou
 
 ## 14.2 Pathological Hypersecretion Associated with Zollinger-Ellison Syndrome
 
-Two studies measured the pharmacodynamic effects of 6 day treatment with intravenous pantoprazole sodium in patients with ZE Syndrome (with and without multiple endocrine neoplasia type I). In one of these studies, an initial treatment with intravenous pantoprazole sodium in 21 patients (29 to 75 years; 8 female; 4 Black, 1 Hispanic, 16 White) reduced acid output to the target level (10 mEq/h or less) and significantly reduced H+ concentration and the volume of gastric secretions; target levels were achieved within 45 minutes of drug administration.
+Two studies measured the pharmacodynamic effects of 6 day treatment with intravenous pantoprazole sodium in patients with ZE Syndrome (with and without multiple endocrine neoplasia type I). In one of these studies, an initial treatment with intravenous pantoprazole sodium in 21 patients (29 to 75 years; 8 female; 4 Black, 1 Hispanic, 16 White) reduced acid output to the target level (less than or equal to 10 mEq/h) and significantly reduced H+ concentration and the volume of gastric secretions; target levels were achieved within 45 minutes of drug administration.
 
 In the other study of 14 patients (38 to 67 years; 5 female; 2 Black, 12 White) with ZE Syndrome, treatment was switched from an oral PPI to intravenous pantoprazole sodium.
 Intravenous pantoprazole sodium maintained or improved control of gastric acid secretion.
