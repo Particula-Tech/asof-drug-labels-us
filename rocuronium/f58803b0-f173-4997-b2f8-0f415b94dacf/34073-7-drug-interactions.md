@@ -2,29 +2,29 @@
 
 ## 7.1 Antibiotics
 
-Drugs which may enhance the neuromuscular blocking action of non-depolarizing agents such as rocuronium bromide include certain antibiotics (e.g., aminoglycosides; vancomycin; tetracyclines; bacitracin; polymyxins; colistin; and sodium colistimethate).
-If these antibiotics are used in conjunction with rocuronium bromide, prolongation of neuromuscular block may occur.
+Drugs which may enhance the neuromuscular blocking action of nondepolarizing agents such as rocuronium bromide injection include certain antibiotics (e.g., aminoglycosides; vancomycin; tetracyclines; bacitracin; polymyxins; colistin; and sodium colistimethate).
+If these antibiotics are used in conjunction with rocuronium bromide injection, prolongation of neuromuscular block may occur.
 
 ## 7.2 Anticonvulsants
 
-In 2 of 4 patients receiving chronic anticonvulsant therapy, apparent resistance to the effects of rocuronium bromide was observed in the form of diminished magnitude of neuromuscular block, or shortened clinical duration.
-As with other non-depolarizing neuromuscular blocking drugs, if rocuronium bromide is administered to patients chronically receiving anticonvulsant agents such as carbamazepine or phenytoin, shorter durations of neuromuscular block may occur and infusion rates may be higher due to the development of resistance to non-depolarizing muscle relaxants.
+In 2 of 4 patients receiving chronic anticonvulsant therapy, apparent resistance to the effects of rocuronium bromide injection was observed in the form of diminished magnitude of neuromuscular block, or shortened clinical duration.
+As with other nondepolarizing neuromuscular blocking drugs, if rocuronium bromide injection is administered to patients chronically receiving anticonvulsant agents such as carbamazepine or phenytoin, shorter durations of neuromuscular block may occur and infusion rates may be higher due to the development of resistance to nondepolarizing muscle relaxants.
 While the mechanism for development of this resistance is not known, receptor up-regulation may be a contributing factor [see Warnings and Precautions (5.10)].
 
 ## 7.3 Inhalation Anesthetics
 
 Use of inhalation anesthetics has been shown to enhance the activity of other neuromuscular blocking agents (enflurane > isoflurane > halothane).
 
-Isoflurane and enflurane may also prolong the duration of action of initial and maintenance doses of rocuronium bromide and decrease the average infusion requirement of rocuronium bromide by 40% compared to opioid/nitrous oxide/oxygen anesthesia.
-No definite interaction between rocuronium bromide and halothane has been demonstrated.
+Isoflurane and enflurane may also prolong the duration of action of initial and maintenance doses of rocuronium bromide injection and decrease the average infusion requirement of rocuronium bromide injection by 40% compared to opioid/nitrous oxide/oxygen anesthesia.
+No definite interaction between rocuronium bromide injection and halothane has been demonstrated.
 In one study, use of enflurane in 10 patients resulted in a 20% increase in mean clinical duration of the initial intubating dose, and a 37% increase in the duration of subsequent maintenance doses, when compared in the same study to 10 patients under opioid/nitrous oxide/oxygen anesthesia.
-The clinical duration of initial doses of rocuronium bromide of 0.57 to 0.85 mg/kg under enflurane or isoflurane anesthesia, as used clinically, was increased by 11% and 23%, respectively.
+The clinical duration of initial doses of rocuronium bromide injection of 0.57 to 0.85 mg/kg under enflurane or isoflurane anesthesia, as used clinically, was increased by 11% and 23%, respectively.
 The duration of maintenance doses was affected to a greater extent, increasing by 30% to 50% under either enflurane or isoflurane anesthesia.
 
-Potentiation by these agents is also observed with respect to the infusion rates of rocuronium bromide required to maintain approximately 95% neuromuscular block.
+Potentiation by these agents is also observed with respect to the infusion rates of rocuronium bromide injection required to maintain approximately 95% neuromuscular block.
 Under isoflurane and enflurane anesthesia, the infusion rates are decreased by approximately 40% compared to opioid/nitrous oxide/oxygen anesthesia.
 The median spontaneous recovery time (from 25% to 75% of control T1) is not affected by halothane, but is prolonged by enflurane (15% longer) and isoflurane (62% longer).
-Reversal-induced recovery of rocuronium bromide neuromuscular block is minimally affected by anesthetic technique [see Dosage and Administration (2.6) and Warnings and Precautions (5.10)].
+Reversal-induced recovery of rocuronium bromide injection neuromuscular block is minimally affected by anesthetic technique [see Dosage and Administration (2.6) and Warnings and Precautions (5.10)].
 
 ## 7.4 Lithium Carbonate
 
@@ -38,10 +38,10 @@ Local anesthetics have been shown to increase the duration of neuromuscular bloc
 
 Magnesium salts administered for the management of toxemia of pregnancy may enhance neuromuscular blockade [see Warnings and Precautions (5.10)].
 
-## 7.7 Non-depolarizing Muscle Relaxants
+## 7.7 Nondepolarizing Muscle Relaxants
 
-There are no controlled studies documenting the use of rocuronium bromide before or after other non-depolarizing muscle relaxants.
-Interactions have been observed when other non-depolarizing muscle relaxants have been administered in succession.
+There are no controlled studies documenting the use of rocuronium bromide injection before or after other nondepolarizing muscle relaxants.
+Interactions have been observed when other nondepolarizing muscle relaxants have been administered in succession.
 
 ## 7.8 Procainamide
 
@@ -49,16 +49,16 @@ Procainamide has been shown to increase the duration of neuromuscular block and 
 
 ## 7.9 Propofol
 
-The use of propofol for induction and maintenance of anesthesia does not alter the clinical duration or recovery characteristics following recommended doses of rocuronium bromide.
+The use of propofol for induction and maintenance of anesthesia does not alter the clinical duration or recovery characteristics following recommended doses of rocuronium bromide injection.
 
 ## 7.10 Quinidine
 
 Injection of quinidine during recovery from use of muscle relaxants is associated with recurrent paralysis.
-This possibility must also be considered for rocuronium bromide [see Warnings and Precautions (5.10)].
+This possibility must also be considered for rocuronium bromide injection [see Warnings and Precautions (5.10)].
 
 ## 7.11 Succinylcholine
 
-The use of rocuronium bromide before succinylcholine, for the purpose of attenuating some of the side effects of succinylcholine, has not been studied.
+The use of rocuronium bromide injection before succinylcholine, for the purpose of attenuating some of the side effects of succinylcholine, has not been studied.
 
-If rocuronium bromide is administered following administration of succinylcholine, it should not be given until recovery from succinylcholine has been observed.
-The median duration of action of rocuronium bromide 0.6 mg/kg administered after a 1 mg/kg dose of succinylcholine when T1 returned to 75% of control was 36 minutes (range: 14 to 57, n=12) vs. 28 minutes (range: 17 to 51, n=12) without succinylcholine.
+If rocuronium bromide injection is administered following administration of succinylcholine, it should not be given until recovery from succinylcholine has been observed.
+The median duration of action of rocuronium bromide injection 0.6 mg/kg administered after a 1 mg/kg dose of succinylcholine when T1 returned to 75% of control was 36 minutes (range: 14-57, n = 12) vs. 28 minutes (range: 17-51, n = 12) without succinylcholine.
