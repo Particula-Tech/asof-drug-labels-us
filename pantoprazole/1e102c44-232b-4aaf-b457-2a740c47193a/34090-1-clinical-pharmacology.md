@@ -60,8 +60,6 @@ Endocrine Effects
 
 In a clinical pharmacology study, pantoprazole 40 mg given orally once daily for 2 weeks had no effect on the levels of the following hormones: cortisol, testosterone, triiodothyronine (T3), thyroxine (T4), thyroid-stimulating hormone, thyronine-binding protein, parathyroid hormone, insulin, glucagon, renin, aldosterone, follicle-stimulating hormone, luteinizing hormone, prolactin and growth hormone.
 
-In a 1-year study of GERD patients treated with pantoprazole 40 mg or 20 mg, there were no changes from baseline in overall levels of T3, T4, and TSH.
-
 ## 12.3 Pharmacokinetics
 
 Pantoprazole peak serum concentration (Cmax) and area under the serum concentration-time curve (AUC) increase in a manner proportional to intravenous doses of pantoprazole from 10 mg to 80 mg.
