@@ -7,12 +7,12 @@ OXYCONTIN should be prescribed only by healthcare professionals who are knowledg
 OXYCONTIN 60 mg and 80 mg tablets, a single dose greater than 40 mg, or a total daily dose greater than 80 mg are only for use in patients in whom tolerance to an opioid of comparable potency has been established.
 Adult patients who are opioid tolerant are those receiving, for one week or longer, at least 60 mg oral morphine per day, 25 mcg transdermal fentanyl per hour, 30 mg oral oxycodone per day, 8 mg oral hydromorphone per day, 25 mg oral oxymorphone per day, 60 mg oral hydrocodone per day, or an equianalgesic dose of another opioid.
 
-- Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5.1)].
+- Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
 - Initiate the dosing regimen for each patient individually; taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
-- Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy and following dosage increases with OXYCONTIN and adjust the dosage accordingly [see Warnings and Precautions (5.2)].
+- Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy and following dosage increases with OXYCONTIN and adjust the dosage accordingly [see Warnings and Precautions (5.3)].
 
 Instruct patients to swallow OXYCONTIN tablets whole, one tablet at a time, with enough water to ensure complete swallowing immediately after placing in the mouth [see Patient Counseling Information (17)].
-Instruct patients not to pre-soak, lick, or otherwise wet the tablet prior to placing in the mouth [see Warnings and Precautions (5.10)].
+Instruct patients not to pre-soak, lick, or otherwise wet the tablet prior to placing in the mouth [see Warnings and Precautions (5.11)].
 Cutting, breaking, crushing, chewing, or dissolving OXYCONTIN tablets will result in uncontrolled delivery of oxycodone and can lead to overdose or death [see Warnings and Precautions (5.1)].
 
 OXYCONTIN is administered orally every 12 hours.
@@ -21,7 +21,7 @@ OXYCONTIN is administered orally every 12 hours.
 
 The starting dosage for patients who are not opioid tolerant is OXYCONTIN 10 mg orally every 12 hours.
 
-Use of higher starting doses in patients who are not opioid tolerant may cause fatal respiratory depression [see Warnings and Precautions (5.2)].
+Use of higher starting doses in patients who are not opioid tolerant may cause fatal respiratory depression [see Warnings and Precautions (5.3)].
 
 ## 2.3 Conversion from Opioids to OXYCONTIN in Adults
 
@@ -124,7 +124,7 @@ As a guideline for adults, the total daily oxycodone dosage usually can be incre
 
 ## 2.6 Dosage Modifications with Concomitant Use of Central Nervous System Depressants
 
-If the patient is currently taking a central nervous system (CNS) depressant and the decision is made to begin OXYCONTIN, start with one-third to one-half the recommended starting dosage of OXYCONTIN, consider using a lower dosage of the concomitant CNS depressant, and monitor patients for signs of respiratory depression, sedation, and hypotension [see Warnings and Precautions (5.5), Drug Interactions (7)].
+If the patient is currently taking a central nervous system (CNS) depressant and the decision is made to begin OXYCONTIN, start with one-third to one-half the recommended starting dosage of OXYCONTIN, consider using a lower dosage of the concomitant CNS depressant, and monitor patients for signs of respiratory depression, sedation, and hypotension [see Warnings and Precautions (5.6), Drug Interactions (7)].
 
 ## 2.7 Dosage Modifications in Geriatric Patients who are Debilitated and not Opioid-Tolerant
 
@@ -139,4 +139,4 @@ Monitor for signs of respiratory depression, sedation, and hypotension [see Use 
 
 When the patient no longer requires therapy with OXYCONTIN, taper the dosage gradually, by 25% to 50% every 2 to 4 days, while monitoring for signs and symptoms of withdrawal.
 If a patient develops these signs or symptoms, raise the dose to the previous level and taper more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both.
-Do not abruptly discontinue OXYCONTIN [see Warnings and Precautions (5.13), Drug Abuse and Dependence (9.3)].
+Do not abruptly discontinue OXYCONTIN [see Warnings and Precautions (5.14), Drug Abuse and Dependence (9.3)].

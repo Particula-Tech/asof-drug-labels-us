@@ -144,7 +144,7 @@ In the pediatric age group of 11 years of age and older, systemic exposure of ox
 Sex
 
 Across individual pharmacokinetic studies, average plasma oxycodone concentrations for female subjects were up to 25% higher than for male subjects on a body weight-adjusted basis.
-The reason for this difference is unknown [see Use in Specific Populations (8.9)].
+The reason for this difference is unknown [see Use in Specific Populations (8.8)].
 
 Hepatic Impairment
 

@@ -4,7 +4,7 @@
 
 Risk Summary
 
-Prolonged use of opioid analgesics during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.3)].
+Prolonged use of opioid analgesics during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.4)].
 There are no available data with OXYCONTIN in pregnant women to inform a drug-associated risk for major birth defects and miscarriage.
 In animal reproduction studies, there was no embryo-fetal toxicity when oxycodone hydrochloride was orally administered to rats and rabbits, during the period of organogenesis, at doses 1.3 to 40 times the adult human dose of 60 mg/day, respectively.
 In a pre- and postnatal toxicity study, when oxycodone was orally administered to rats, there was transiently decreased pup body weight during lactation and the early post-weaning period at the dose equivalent to an adult dose of 60 mg/day.
@@ -23,7 +23,7 @@ Prolonged use of opioid analgesics during pregnancy for medical or nonmedical pu
 
 Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and failure to gain weight.
 The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
-Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.3)].
+Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.4)].
 
 Labor or Delivery
 
@@ -94,7 +94,7 @@ However, a dosage reduction in debilitated, non-opioid-tolerant patients is reco
 
 Respiratory depression is the chief risk for elderly patients treated with opioids, and has occurred after large initial doses were administered to patients who are not opioid-tolerant or when opioids were co-administered with other agents that depress respiration.
 Titrate the dosage of OXYCONTIN slowly in these patients and monitor closely for signs of central nervous system and respiratory depression.
-[see Warnings and Precautions (5.6)].
+[see Warnings and Precautions (5.7)].
 
 Oxycodone is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
