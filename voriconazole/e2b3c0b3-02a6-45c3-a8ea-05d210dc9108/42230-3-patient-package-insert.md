@@ -67,15 +67,17 @@ Keep a list of them to show your healthcare provider or pharmacist when you get 
 
 How should I take voriconazole tablets?
 
-- •Take voriconazole tablets exactly as your healthcare provider tells you to.
-- •Take voriconazole tablets at least 1 hour before or at least 1 hour after meals.
-- •If you take too many voriconazole tablets, call your healthcare provider or go to the nearest hospital emergency room.
+- •Voriconazole may be prescribed to you as:
+  - •Tablets
+  - •Take voriconazole tablets exactly as your healthcare provider tells you to.
+  - •Take voriconazole tablets at least 1 hour before or at least 1 hour after meals.
+  - •If you take too many voriconazole tablets, call your healthcare provider or go to the nearest hospital emergency room.
 
 What should I avoid while taking voriconazole tablets?
 
 - •You should not drive at night while taking voriconazole tablets.
   Voriconazole tablets can cause changes in your vision such as blurring or sensitivity to light.
-- •Do not drive or, operate machinery, or do other dangerous activities until you know how voriconazole tablets affects you.
+- •Do not drive or operate machinery, or do other dangerous activities until you know how voriconazole tablets affects you.
 - •Avoid direct sunlight.
   Voriconazole tablets can make your skin sensitive to the sun and the light from sunlamps and tanning beds.
   You could get a severe sunburn.
@@ -161,7 +163,7 @@ This Patient Information Leaflet summarizes the most important information about
 If you would like more information, talk to your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about voriconazole tablets that is written for health professionals.
 
-For more information about voriconazole tablets, call Sandoz Inc., at 1-800-525-8747
+For more information about voriconazole tablets, call Sandoz Inc., at 1-800-525-8747.
 
 What are the ingredients of voriconazole tablets?
 
@@ -177,5 +179,4 @@ Manufactured in India by Sandoz Private Ltd.
 
 for Sandoz Inc., Princeton, NJ 08540
 
-Rev.
-January 2016
+Rev.: August 2018

@@ -5,7 +5,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 ## 6.1 Overview
 
 The most frequently reported adverse events (all causalities) in the therapeutic trials were visual disturbances (18.7%), fever (5.7%), nausea (5.4%), rash (5.3%), vomiting (4.4%), chills (3.7%), headache (3%), liver function test increased (2.7%), tachycardia (2.4%), hallucinations (2.4%).
-The treatment-related adverse events which most often led to discontinuation of voriconazole therapy were elevated liver function tests, rash, and visual disturbances [see WARNING AND PRECAUTIONS (5.2, 5.3), and ADVERSE REACTIONS (6.2, 6.3)].
+The treatment-related adverse events which most often led to discontinuation of voriconazole therapy were elevated liver function tests, rash, and visual disturbances [see Warning and Precautions (5.2, 5.3) andAdverse Reactions (6.2, 6.3)].
 
 ## 6.2 Clinical Trial Experience in Adults
 
@@ -26,12 +26,12 @@ Laboratory test abnormalities for these studies are discussed under Clinical Lab
 
 Table 3 Treatment Emergent Adverse Events
 
-Rate ≥ 2% on Voriconazole or Adverse Events of Concern in All Therapeutic Studies Population, Studies 307/602-608 Combined, or Study 305.
+Rate ≥2% on Voriconazole or Adverse Events of Concern in All Therapeutic Studies Population, Studies 307/602-608 Combined, or Study 305.
 Possibly Related to Therapy or Causality Unknown†
 
 |  | All Therapeutic Studies | Studies 307/602 and 608 (IV/ oral therapy) |  |  | Study 305 (oral therapy) |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Voriconazole N = 1655 | Voriconazole N = 468 | Ampho B* N=185 | Ampho B→ Fluconazole N= 131 | Voriconazole N = 200 | Fluconazole N =191 |  |
+| Voriconazole N=1655 | Voriconazole N= 468 | Ampho B* N=185 | Ampho B→ Fluconazole N=131 | Voriconazole N=200 | Fluconazole N=191 |  |
 | N (%) | N (%) | N (%) | N (%) | N (%) | N (%) |  |
 | Special Senses** |  |  |  |  |  |  |
 | Abnormal vision | 310 (18.7) | 63 (13.5) | 1 (0.5) | 0 | 31 (15.5) | 8 (4.2) |
@@ -66,7 +66,7 @@ Possibly Related to Therapy or Causality Unknown†
 
 † Study 307/602: invasive aspergillosis; Study 608: candidemia; Study 305: esophageal candidiasis
 
-* Amphotericin B followed by other licensed antifungal therapy **See WARNINGS AND PRECAUTIONS(5.3)
+* Amphotericin B followed by other licensed antifungal therapy **See Warnings and Precautions (5.3)
 
 Visual Disturbances
 
@@ -74,14 +74,13 @@ Voriconazole treatment-related visual disturbances are common.
 In therapeutic trials, approximately 21% of patients experienced abnormal vision, color vision change and/or photophobia.
 Visual disturbances may be associated with higher plasma concentrations and/or doses.
 
-There have been post-marketing reports of prolonged visual adverse events, including optic neuritis and papilledema.
-[see WARNINGS AND PRECAUTIONS (5.3)].
+There have been post-marketing reports of prolonged visual adverse events, including optic neuritis and papilledema [see Warnings and Precautions (5.3)].
 
 The mechanism of action of the visual disturbance is unknown, although the site of action is most likely to be within the retina.
 In a study in healthy subjects investigating the effect of 28-day treatment with voriconazole on retinal function, voriconazole caused a decrease in the electroretinogram (ERG) waveform amplitude, a decrease in the visual field, and an alteration in color perception.
 The ERG measures electrical currents in the retina.
 The effects were noted early in administration of voriconazole and continued through the course of study drug dosing.
-Fourteen days after end of dosing, ERG, visual fields and color perception returned to normal [see WARNINGS AND PRECAUTIONS (5.7)].
+Fourteen days after end of dosing, ERG, visual fields and color perception returned to normal [see Warnings and Precautions (5.7)].
 
 Dermatological Reactions
 
@@ -94,21 +93,21 @@ If a patient develops an exfoliative cutaneous reaction, voriconazole should be 
 In addition, voriconazole has been associated with photosensitivity skin reactions.
 Patients should avoid strong, direct sunlight during voriconazole therapy.
 In patients with photosensitivity skin reactions, squamous cell carcinoma of the skin and melanoma have been reported during long-term therapy.
-If a patient develops a skin lesion consistent with squamous cell carcinoma or melanoma, voriconazole should be discontinued [see WARNINGS AND PRECAUTIONS (5.13)].
+If a patient develops a skin lesion consistent with squamous cell carcinoma or melanoma, voriconazole should be discontinued [see Warnings and Precautions (5.13)].
 
 Less Common Adverse Events
 
 The following adverse events occurred in <2% of all voriconazole-treated patients in all therapeutic studies (N=1,655).
 This listing includes events where a causal relationship to voriconazole cannot be ruled out or those which may help the physician in managing the risks to the patients.
-The list does not include events included in Table 3 above and does not include every event reported in the voriconazole clinical program.
+The list does not include events included in Table 5 above and does not include every event reported in the voriconazole clinical program.
 
 Body as a Whole
 
-Abdominal pain, abdomen enlarged, allergic reaction, anaphylactoid reaction [see WARNINGS AND PRECAUTIONS (5.6)], ascites, asthenia, back pain, chest pain, cellulitis, edema, face edema, flank pain, flu syndrome, graft versus host reaction, granuloma, infection, bacterial infection, fungal infection, injection site pain, injection site infection/inflammation, mucous membrane disorder, multi-organ failure, pain, pelvic pain, peritonitis, sepsis, substernal chest pain.
+Abdominal pain, abdomen enlarged, allergic reaction, anaphylactoid reaction [see Warnings and Precautions (5.6)], ascites, asthenia, back pain, chest pain, cellulitis, edema, face edema, flank pain, flu syndrome, graft versus host reaction, granuloma, infection, bacterial infection, fungal infection, injection site pain, injection site infection/inflammation, mucous membrane disorder, multi-organ failure, pain, pelvic pain, peritonitis, sepsis, substernal chest pain.
 
 Cardiovascular
 
-Atrial arrhythmia, atrial fibrillation, AV block complete, bigeminy, bradycardia, bundle branch block, cardiomegaly, cardiomyopathy, cerebral hemorrhage, cerebral ischemia, cerebrovascular accident, congestive heart failure, deep thrombophlebitis, endocarditis, extrasystoles, heart arrest, hypertension, hypotension, myocardial infarction, nodal arrhythmia, palpitation, phlebitis, postural hypotension, pulmonary embolus, QT interval prolonged, supraventricular extrasystoles, supraventricular tachycardia, syncope, thrombophlebitis, vasodilatation, ventricular arrhythmia, ventricular fibrillation, ventricular tachycardia (including torsade de pointes) [see WARNINGS AND PRECAUTIONS (5.6)].
+Atrial arrhythmia, atrial fibrillation, AV block complete, bigeminy, bradycardia, bundle branch block, cardiomegaly, cardiomyopathy, cerebral hemorrhage, cerebral ischemia, cerebrovascular accident, congestive heart failure, deep thrombophlebitis, endocarditis, extrasystoles, heart arrest, hypertension, hypotension, myocardial infarction, nodal arrhythmia, palpitation, phlebitis, postural hypotension, pulmonary embolus, QT interval prolonged, supraventricular extrasystoles, supraventricular tachycardia, syncope, thrombophlebitis, vasodilatation, ventricular arrhythmia, ventricular fibrillation, ventricular tachycardia (including torsade de pointes) [see Warnings and Precautions (5.6)].
 
 Digestive
 
@@ -162,7 +161,7 @@ Most of these patients had other serious underlying conditions.
 Liver function tests should be evaluated at the start of and during the course of voriconazole therapy.
 Patients who develop abnormal liver function tests during voriconazole therapy should be monitored for the development of more severe hepatic injury.
 Patient management should include laboratory evaluation of hepatic function (particularly liver function tests and bilirubin).
-Discontinuation of voriconazole tablets must be considered if clinical signs and symptoms consistent with liver disease develop that may be attributable to voriconazole tablets [see WARNINGS AND PRECAUTIONS (5.2)].
+Discontinuation of voriconazole tablets must be considered if clinical signs and symptoms consistent with liver disease develop that may be attributable to voriconazole tablets [see Warnings and Precautions (5.2)].
 
 Acute renal failure has been observed in severely ill patients undergoing treatment with voriconazole.
 Patients being treated with voriconazole are likely to be treated concomitantly with nephrotoxic medications and have concurrent conditions that may result in decreased renal function.
@@ -178,7 +177,7 @@ Table 4 Protocol 305 – Patients with Esophageal Candidiasis Clinically Signifi
 
 |  | Criteria* | Voriconazole | Fluconazole |
 | --- | --- | --- | --- |
-|  | n/N (%) | n /N (%) |  |
+|  | n/N (%) | n/N (%) |  |
 | T. Bilirubin | >1.5x ULN | 8/185 (4.3) | 7/186 (3.8) |
 | AST | >3x ULN | 38/187 (20.3) | 15/186 (8.1) |
 | ALT | >3x ULN | 20/187 (10.7) | 12/186 (6.5) |
@@ -218,11 +217,11 @@ Table 6 Protocol 608 – Treatment of Candidemia Clinically Significant Laborato
 | Creatinine | >1.3x ULN | 39/260 (15) | 32/118 (27.1) |
 | Potassium | <0.9x LLN | 43/258 (16.7) | 35/118 (29.7) |
 
-*Without regard to baseline value n number of patients with a clinically significant abnormality while on study therapy N = total number of patients with at least one observation of the given lab test while on study therapy ULN = upper limit of normal LLN = lower limit of normal
+*Without regard to baseline value n = number of patients with a clinically significant abnormality while on study therapy N = total number of patients with at least one observation of the given lab test while on study therapy ULN = upper limit of normal LLN = lower limit of normal
 
 ## 6.4 Postmarketing Experience
 
 The following adverse reactions have been identified during post approval use of voriconazole.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Skeletal: Fluorosis and periostitis have been reported during long-term voriconazole therapy [see WARNINGS AND PRECAUTIONS (5.14)].
+Skeletal: Fluorosis and periostitis have been reported during long-term voriconazole therapy [see Warnings and Precautions (5.14)].

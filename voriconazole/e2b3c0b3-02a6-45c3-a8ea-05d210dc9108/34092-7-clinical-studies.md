@@ -33,24 +33,24 @@ Table 12 also summarizes the response (success) based on mycological confirmatio
 
 Table 12 Overall Efficacy and Success by Species in the Primary Treatment of Acute Invasive Aspergillosis Study 307/602
 
-|  | Voriconazole | Ampho Bc | Stratified Difference (95% CI)d |
+|  | Voriconazole | Ampho B‡ | Stratified Difference (95% CI)§ |
 | --- | --- | --- | --- |
 |  | n/N (%) | n/N (%) |  |
 | Efficacy as Primary Therapy |  |  |  |
-| Satisfactory Global Responsea | 76/144 (53) | 42/133 (32) | 21.8%(10.5%, 33%)p<0.0001 |
-| Survival at Day 84b | 102/144 (71) | 77/133 (58) | 13.1% (2.1%, 24.2%) |
+| Satisfactory Global Response* | 76/144 (53) | 42/133 (32) | 21.8%(10.5%, 33%)p<0.0001 |
+| Survival at Day 84† | 102/144 (71) | 77/133 (58) | 13.1% (2.1%, 24.2%) |
 | Success by Species |  |  |  |
 |  | Success n/N (%) |  |  |
 | Overall success | 76/144 (53) | 42/133 (32) |  |
-| Mycologically confirmede | 37/84 (44) | 16/67 (24) |  |
-| Aspergillus spp.f |  |  |  |
+| Mycologically confirmed¶ | 37/84 (44) | 16/67 (24) |  |
+| Aspergillusspp.# |  |  |  |
 | A. fumigatus | 28/63 (44) | 12/47 (26) |  |
 | A. flavus | 3/6 | 4/9 |  |
 | A. terreus | 2/3 | 0/3 |  |
 | A. niger | 1/4 | 0/9 |  |
 | A. nidulans | 1/1 | 0/0 |  |
 
-a Assessed by independent Data Review Committee (DRC) b Proportion of subjects alive c Amphotericin B followed by other licensed antifungal therapy d Difference and corresponding 95% confidence interval are stratified by protocol e Not all mycologically confirmed specimens were speciated f Some patients had more than one species isolated at baseline
+*Assessed by independent Data Review Committee (DRC) †Proportion of subjects alive ‡Amphotericin B followed by other licensed antifungal therapy §Difference and corresponding 95% confidence interval are stratified by protocol ¶Not all mycologically confirmed specimens were speciated #Some patients had more than one species isolated at baseline
 
 Study 304 – Primary and Salvage Therapy of Aspergillosis
 
@@ -105,7 +105,7 @@ Table 14 Overall Success Rates Sustained From EOT To The Fixed 12-Week Follow-Up
 | C. glabrata | 12/36 (33%) | 7/21 (33%) |
 | C. krusei | 1/4 | 0/1 |
 
-a A few patients had more than one pathogen at baseline. b Patients who did not have a 12-week assessment for any reason were considered a treatment failure.
+aA few patients had more than one pathogen at baseline. bPatients who did not have a 12-week assessment for any reason were considered a treatment failure.
 
 In a secondary analysis, which counted DRC-assessed successes at any time point (EOT, or 2, 6, or 12 weeks after EOT), the response rates were 65% for voriconazole and 71% for the regimen of amphotericin B followed by fluconazole.
 
@@ -128,16 +128,16 @@ Table 15 Success Rates in Patients Treated for Esophageal Candidiasis
 | PPb | 113/115 (98.2%) | 134/141 (95%) | 3.2 (-1.1, 7.5) |
 | ITTc | 175/200 (87.5%) | 171/191 (89.5%) | -2 (-8.3, 4.3) |
 
-a Confidence Interval for the difference (Voriconazole – Fluconazole) in success rates. b PP (Per Protocol) patients had confirmation of Candida esophagitis by endoscopy, received at least 12 days of treatment, and had a repeat endoscopy at EOT (end of treatment). c ITT (Intent to Treat) patients without endoscopy or clinical assessment at EOT were treated as failures.
+a Confidence Interval for the difference (Voriconazole – Fluconazole) in success rates. bPP (Per Protocol) patients had confirmation of Candida esophagitis by endoscopy, received at least 12 days of treatment, and had a repeat endoscopy at EOT (end of treatment). cITT (Intent to Treat) patients without endoscopy or clinical assessment at EOT were treated as failures.
 
 Microbiologic success rates by Candida species are presented in Table 16.
 
-Table 16 Clinical and mycological outcome by baseline pathogen in patients with esophageal candidiasis (Study 150-305)
+Table 16 Clinical and mycological outcome by baseline pathogen in patients with esophageal candidiasis (Study-150-305)
 
 | Pathogena | Voriconazole |  | Fluconazole |  |
 | --- | --- | --- | --- | --- |
 | Favorable endoscopic responseb | Mycological eradicationb | Favorable endoscopic responseb | Mycological eradicationb |  |
-| Success/Total (%) | Eradication/Total (%) | Success/Total (%) | Eradication/Total(%) |  |
+| Success/Total (%) | Eradication/Total (%) | Success/Total (%) | Eradication/Total (%) |  |
 | C. albicans | 134/140 (96%) | 90/107 (84%) | 147/156 (94%) | 91/115 (79%) |
 | C. glabrata | 8/8 (100%) | 4/7 (57%) | 4/4 (100%) | 1/4 (25%) |
 | C. krusei | 1/1 | 1/1 | 2/2 (100%) | 0/0 |
