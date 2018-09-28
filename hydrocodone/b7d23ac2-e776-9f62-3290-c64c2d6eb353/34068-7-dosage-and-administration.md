@@ -7,12 +7,12 @@ HYSINGLA ER should be prescribed only by healthcare professionals who are knowle
 Daily doses of HYSINGLA ER greater than or equal to 80 mg are only for use in patients in whom tolerance to an opioid of comparable potency has been established.
 Patients who are opioid tolerant are those receiving, for one week or longer, at least 60 mg oral morphine per day, 25 mcg transdermal fentanyl per hour, 30 mg oral oxycodone per day, 8 mg oral hydromorphone per day, 25 mg oral oxymorphone per day, 60 mg oral hydrocodone per day, or an equianalgesic dose of another opioid.
 
-- Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5.1)].
+- Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
 - Initiate the dosing regimen for each patient individually; taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
-- Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy and following dosage increases with HYSINGLA ER and adjust the dosage accordingly [see Warnings and Precautions (5.2)].
+- Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy and following dosage increases with HYSINGLA ER and adjust the dosage accordingly [see Warnings and Precautions (5.3)].
 
 Instruct patients to swallow HYSINGLA ER tablets whole, one tablet at a time, with enough water to ensure complete swallowing immediately after placing in the mouth [see Patient Counseling Information (17)].
-Instruct patients not to pre-soak, lick, or otherwise wet the tablet prior to placing in the mouth [see Warnings and Precautions (5.11)].
+Instruct patients not to pre-soak, lick, or otherwise wet the tablet prior to placing in the mouth [see Warnings and Precautions (5.12)].
 Crushing, chewing, or dissolving HYSINGLA ER tablets will result in uncontrolled delivery of hydrocodone and can lead to overdose or death [see Warnings and Precautions (5.1)].
 
 HYSINGLA ER is administered orally once daily (every 24 hours).
@@ -26,7 +26,7 @@ Initiate therapy with HYSINGLA ER 20 mg orally every 24 hours.
 
 Use of HYSINGLA ER in Patients who are not Opioid Tolerant (opioid non-tolerant patients) The starting dose for patients who are not opioid tolerant is HYSINGLA ER 20 mg orally every 24 hours.
 
-Use of higher starting doses in patients who are not opioid tolerant may cause fatal respiratory depression [see Warnings and Precautions (5.2)].
+Use of higher starting doses in patients who are not opioid tolerant may cause fatal respiratory depression [see Warnings and Precautions (5.3)].
 
 Conversion from Oral Hydrocodone Formulations to HYSINGLA ER Patients receiving other oral hydrocodone-containing formulations may be converted to HYSINGLA ER by administering the patient's total daily oral hydrocodone dose as HYSINGLA ER once daily.
 
@@ -36,7 +36,8 @@ There is inter-patient variability in the relative potency of opioid drugs and f
 Therefore, a conservative approach is advised when determining the total daily dosage of HYSINGLA ER.
 It is safer to underestimate a patient’s 24-hour oral hydrocodone dosage and provide rescue medication (e.g., immediate-release opioid) than to overestimate the 24-hour oral hydrocodone dosage and manage an adverse reaction due to an overdose.
 
-In a HYSINGLA ER clinical trial with an open-label titration period, patients were converted from their prior opioid to HYSINGLA ER using Table 1 as a guide for the initial HYSINGLA ER dose.To obtain the initial HYSINGLA ER dose, first use Table 1 to convert the prior oral opioids to a total hydrocodone daily dose and then reduce the calculated daily hydrocodone dose by 25% to account for interpatient variability in relative potency of different opioids.
+In a HYSINGLA ER clinical trial with an open-label titration period, patients were converted from their prior opioid to HYSINGLA ER using Table 1 as a guide for the initial HYSINGLA ER dose.
+To obtain the initial HYSINGLA ER dose, first use Table 1 to convert the prior oral opioids to a total hydrocodone daily dose and then reduce the calculated daily hydrocodone dose by 25% to account for interpatient variability in relative potency of different opioids.
 
 Consider the following when using the information found in Table 1.
 
