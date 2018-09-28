@@ -73,33 +73,33 @@ In opioid-tolerant patients, the situation may be altered by the development of 
 
 The analgesic activity of tramadol is due to both parent drug and the M1 metabolite.
 Tramadol Hydrochloride Extended-Release Capsules are administered as a racemate and both tramadol and M1 are detected in the circulation.
-The C max and AUC of Tramadol Hydrochloride Extended-Release Capsules have been observed to be dose-proportional over an oral dose range of 100 to 300 mg in healthy subjects.
+The Cmax and AUC of Tramadol Hydrochloride Extended-Release Capsules have been observed to be dose-proportional over an oral dose range of 100 to 300 mg in healthy subjects.
 
 Absorption
 
-After a single dose administration of Tramadol Hydrochloride Extended-Release Capsules, T max occurs around 10-12 hours.
+After a single dose administration of Tramadol Hydrochloride Extended-Release Capsules, Tmax occurs around 10-12 hours.
 
-The mean C max and AUC of Tramadol Hydrochloride Extended-Release Capsules after a 300 mg single dose was 308 ng/mL and 6777 ng*hr/mL, respectively under fasting conditions.
+The mean Cmax and AUC of Tramadol Hydrochloride Extended-Release Capsules after a 300 mg single dose was 308 ng/mL and 6777 ng.*hr/mL, respectively under fasting conditions.
 Tramadol Hydrochloride Extended-Release Capsules are bioequivalent to a reference extended-release tramadol product following a single 300 mg dose under fasting conditions.
 
-At steady-state, Tramadol Hydrochloride Extended-Release Capsules at 200 mg has been observed to be bioequivalent to a reference extended-release tramadol product at 200 mg under fasting conditions (Table 2).
+At steady-state, Tramadol Hydrochloride Extended-Release Capsules at 200 mg has been observed to be bioequivalent to a reference extended-release tramadol product at 200 mg under fasting conditions (Table 3).
 Following administration of Tramadol Hydrochloride Extended-Release Capsules 200 mg capsules, steady-state plasma concentrations of both tramadol and M1 are achieved within four days of once daily dosing.
 
 Table 3.
 
 | Mean (%CV) Steady-State Pharmacokinetic Parameter Values (N= 38) |  |  |  |  |
 | --- | --- | --- | --- | --- |
-|  | Tramadol |  | O-Desmethyl-Tramadol (M1 Metabolite) |  |
-| Parameter | Tramadol Hydrochloride Extended Release Capsules 200 mg | A Reference Extended-Release Tramadol Product 200 mg | Tramadol Hydrochloride Extended Release Capsules 200 mg | A Reference Extended-Release Tramadol Product 200 mg |
-| AUC 0-24(ng.h/mL) | 5678 (27%) | 5563 (32%) | 1319 (34%) | 1302 (40%) |
-| C max(ng/mL) | 332 (25%) | 350 (31%) | 70 (34%) | 74 (41%) |
-| C min (ng/mL) | 128 (39%) | 125 (45%) | 35 (34%) | 33 (42%) |
-| T max | 5.9 (66%) | 10 (30%) | 11 (37%) | 13 (29%) |
+|  | Tramadol |  | O-Desmethyltramadol (M1 Metabolite) |  |
+| Parameter | Tramadol hydrochloride Extended Release Capsules 200 mg | A Reference Extended-Release Tramadol Product 200 mg | Tramadol hydrochloride Extended Release Capsules 200 mg | A Reference Extended-Release Tramadol Product 200 mg |
+| AUC0-24(ng.hr/mL) | 5678 (27%) | 5563 (32%) | 1319 (34%) | 1302 (40%) |
+| Cmax(ng/mL) | 332 (25%) | 350 (31%) | 70 (34%) | 74 (41%) |
+| Cmin (ng/mL) | 128 (39%) | 125 (45%) | 35 (34%) | 33 (42%) |
+| Tmax | 5.9 (66%) | 10 (30%) | 11 (37%) | 13 (29%) |
 | % Fluctuation | 88 (19%) | 101 (30%) | 64 (22%) | 76 (30%) |
-| AUC 0-24: Area Under the Curve in a 24-hour dosing interval |  |  |  |  |
-| C max: Peak Concentration in a 24-hour dosing interval |  |  |  |  |
-| C min: Trough Concentration in a 24-hour dosing interval |  |  |  |  |
-| T max: Time to Peak Concentration |  |  |  |  |
+| AUC0-24: Area Under the Curve in a 24-hour dosing interval |  |  |  |  |
+| Cmax: Peak Concentration in a 24-hour dosing interval |  |  |  |  |
+| Cmin: Trough Concentration in a 24-hour dosing interval |  |  |  |  |
+| Tmax: Time to Peak Concentration |  |  |  |  |
 
 Food Effect
 
@@ -121,7 +121,7 @@ Metabolism
 
 Tramadol is extensively metabolized after oral administration.
 The major metabolic pathways appear to be N – (mediated by CYP3A4 and CYP2B6) and O – (mediated by CYP2D6) demethylation and glucuronidation or sulfation in the liver.
-One metabolite (O-desmethyl tramadol, denoted M1) is pharmacologically active in animal models.
+One metabolite (O-desmethyltramadol, denoted M1) is pharmacologically active in animal models.
 Formation of M1 is dependent on CYP2D6 and as such is subject to inhibition and polymorphism, which may affect the therapeutic response [see Drug Interactions (7)].
 
 Excretion
@@ -145,9 +145,9 @@ Renal Impairment
 
 Impaired renal function results in a decreased rate and extent of excretion of tramadol and its active metabolite, M1.
 The pharmacokinetics of tramadol was studied in patients with mild or moderate renal impairment after receiving multiple doses of an extended-release tramadol product at 100 mg.
-There is no consistent trend observed for tramadol exposure related to renal function in patients with mild (CL cr: 50-80 mL/min) or moderate (CL cr: 30-50 mL/min) renal impairment in comparison to patients with normal renal function (CL cr > 80 mL/min).
+There is no consistent trend observed for tramadol exposure related to renal function in patients with mild (CLcr: 50-80 mL/min) or moderate (CLcr: 30-50 mL/min) renal impairment in comparison to patients with normal renal function (CLcr > 80 mL/min).
 However, exposure of M1 increased 20-40% with increased severity of the renal impairment (from normal to mild and moderate).
-The pharmacokinetics of tramadol has not been studied in patients with severe renal impairment (CL cr < 30 mL/min).
+The pharmacokinetics of tramadol has not been studied in patients with severe renal impairment (CLcr < 30 mL/min).
 The limited availability of dose strengths of Tramadol Hydrochloride Extended-Release Capsules does not permit the dosing flexibility required for safe use in patients with severe renal impairment.
 Therefore, Tramadol Hydrochloride Extended-Release Capsules should not be used in patients with severe renal impairment.
 The total amount of tramadol and M1 removed during a 4-hour dialysis period is less than 7% of the administered dose [see Use in Specific Populations (8.6)].
@@ -191,11 +191,11 @@ The clinical consequences of these findings are unknown.
 
 To evaluate the effect of tramadol, a CYP2D6 substrate on quinidine, an in vitro drug interaction study in human liver microsomes was conducted.
 The results from this study indicate that tramadol has no effect on quinidine metabolism.
-[see Warnings and Precautions (5.1, 5.5), Drug Interactions (7)].
+[see Warnings and Precautions (5.1, 5.6), Drug Interactions (7)].
 
 CYP3A4 Inhibitors and Inducers
 
-Since tramadol is also metabolized by CYP3A4, administration of CYP3A4 inhibitors, such as ketoconazole and erythromycin, or CYP3A4 inducers, such as rifampin and St. John’s Wort, with Tramadol Hydrochloride Extended-Release Capsules may affect the metabolism of tramadol leading to altered tramadol exposure [see Warnings and Precautions (5.1, 5.5), Drug Interactions (7)].
+Since tramadol is also metabolized by CYP3A4, administration of CYP3A4 inhibitors, such as ketoconazole and erythromycin, or CYP3A4 inducers, such as rifampin and St. John’s Wort, with Tramadol Hydrochloride Extended-Release Capsules may affect the metabolism of tramadol leading to altered tramadol exposure [see Warnings and Precautions (5.1, 5.6), Drug Interactions (7)].
 
 Cimetidine
 

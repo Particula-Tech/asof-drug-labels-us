@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 Tramadol Hydrochloride Extended-Release Capsules are an opioid agonist in an extended-release oral formulation.
-The chemical name for tramadol hydrochloride USP is (±) cis-2-[(dimethylamino)methyl]-1-(3-methoxyphenyl) cyclohexanol hydrochloride.
+The chemical name for tramadol hydrochloride USP is (±)cis-2-[(dimethylamino)methyl]-1-(3-methoxyphenyl) cyclohexanol hydrochloride.
 Its structural formula is:
 
 The molecular weight of tramadol hydrochloride USP is 299.8.

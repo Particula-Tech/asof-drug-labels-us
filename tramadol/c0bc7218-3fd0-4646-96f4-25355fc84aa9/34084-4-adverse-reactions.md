@@ -3,18 +3,18 @@
 The following serious or otherwise important adverse reactions are described in greater detail, in other sections:
 
 - Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
-- Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
-- Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-Threatening Respiratory Depression in Children [see Warnings and Precautions (5.3)]
-- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
-- Interactions with Benzodiazepines and Other CNS Depressants [see Warnings and Precautions (5.6)]
-- Serotonin Syndrome [see Warnings and Precautions (5.7)]
-- Seizures [see Warnings and Precautions (5.8)]
-- Suicide [see Warnings and Precautions (5.9)]
-- Adrenal Insufficiency [see Warnings and Precautions (5.10)]
-- Severe Hypotension [see Warnings and Precautions (5.12)]
-- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.14)]
-- Hypersensitivity Reactions [see Warnings and Precautions (5.15)]
-- Withdrawal [see Warnings and Precautions (5.16)]
+- Life-Threatening Respiratory Depression [see Warnings and Precautions (5.3)]
+- Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-Threatening Respiratory Depression in Children [see Warnings and Precautions (5.4)]
+- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.5)]
+- Interactions with Benzodiazepines and Other CNS Depressants [see Warnings and Precautions (5.7)]
+- Serotonin Syndrome [see Warnings and Precautions (5.8)]
+- Seizures [see Warnings and Precautions (5.9)]
+- Suicide [see Warnings and Precautions (5.10)]
+- Adrenal Insufficiency [see Warnings and Precautions (5.11)]
+- Severe Hypotension [see Warnings and Precautions (5.13)]
+- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.15)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.16)]
+- Withdrawal [see Warnings and Precautions (5.17)]
 
 ## 6.1 Clinical Trials Experience
 

@@ -4,7 +4,7 @@
 
 Risk Summary
 
-Prolonged use of opioid analgesics during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.3)].
+Prolonged use of opioid analgesics during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.5)].
 Available data with Tramadol Hydrochloride Extended-Release Capsules in pregnant women are insufficient to inform a drug-associated risk for major birth defects and miscarriage.
 
 In animal reproduction studies, tramadol administration during organogenesis decreased fetal weights and reduced ossification in mice, rats, and rabbits at 1.4, 0.6, and 3.6 times the maximum recommended human daily dosage (MRHD).
@@ -22,7 +22,7 @@ Fetal/Neonatal Adverse Reactions
 Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
 Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and failure to gain weight.
 The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
-Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.4)].
+Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.5)].
 
 Neonatal seizures, neonatal withdrawal syndrome, fetal death and still birth have been reported with tramadol during post-approval use of tramadol immediate-release products.
 
@@ -45,7 +45,7 @@ Data
 Animal Data
 
 Tramadol has been shown to be embryotoxic and fetotoxic in mice, (120 mg/kg), rats (25 mg/kg) and rabbits (75 mg/kg) at maternally toxic dosages, but was not teratogenic at these dose levels.
-These doses on a mg/m 2 basis are 1.9, 0.8, and 4.9 times the maximum recommended human daily dosage (MRHD) for mouse, rat and rabbit, respectively.
+These doses on a mg/m2 basis are 1.9, 0.8, and 4.9 times the maximum recommended human daily dosage (MRHD) for mouse, rat and rabbit, respectively.
 
 No drug-related teratogenic effects were observed in progeny of mice (up to 140 mg/kg), rats (up to 80 mg/kg) or rabbits (up to 300 mg/kg) treated with tramadol by various routes.
 Embryo and fetal toxicity consisted primarily of decreased fetal weights, decreased skeletal ossification, and increased supernumerary ribs at maternally toxic dose levels.
@@ -62,7 +62,7 @@ Risk Summary
 
 Tramadol Hydrochloride Extended-Release Capsules are not recommended for obstetrical preoperative medication or for post-delivery analgesia in nursing mothers because its safety in infants and newborns has not been studied.
 
-Tramadol and its metabolite, O-desmethyl tramadol (M1), are present in human milk.
+Tramadol and its metabolite, O-desmethyltramadol (M1), are present in human milk.
 There is no information on the effects of the drug on the breastfed infant or the effects of the drug on milk production.
 The M1 metabolite is more potent than tramadol in mu opioid receptor binding [see Clinical Pharmacology (12.1)].
 Published studies have reported tramadol and M1 in colostrum with administration of tramadol to nursing mothers in the early post-partum period.
@@ -84,13 +84,13 @@ Following a single IV 100 mg dose of tramadol, the cumulative excretion in breas
 Infertility
 
 Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
-It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2), Clinical Pharmacology (12.2), Nonclinical Pharmacology (13.1)].
+It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2), Clinical Pharmacology (12.2), Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of Tramadol Hydrochloride Extended-Release Capsules in pediatric patients have not been established.
 
-Life-threatening respiratory depression and death have occurred in children who received tramadol [see Warnings and Precautions (5.3)].
+Life-threatening respiratory depression and death have occurred in children who received tramadol [see Warnings and Precautions (5.4)].
 In some of the reported cases, these events followed tonsillectomy and/or adenoidectomy, and one of the children had evidence of being an ultra-rapid metabolizer of tramadol (i.e., multiple copies of the gene for cytochrome P450 isoenzyme 2D6).
 Children with sleep apnea may be particularly sensitive to the respiratory depressant effects of tramadol.
 Because of the risk of life-threatening respiratory depression and death:
@@ -101,7 +101,7 @@ Because of the risk of life-threatening respiratory depression and death:
 
 - Avoid the use of Tramadol Hydrochloride Extended-Release Capsules in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of tramadol unless the benefits outweigh the risks.
   Risk factors include conditions associated with hypoventilation, such as postoperative status, obstructive sleep apnea, obesity, severe pulmonary disease, neuromuscular disease, and concomitant use of other medications that cause respiratory depression.
-  [see Warnings and Precautions (5.3)].
+  [see Warnings and Precautions (5.4)].
 
 ## 8.5 Geriatric Use
 
@@ -111,7 +111,7 @@ In general, higher incidence rates of adverse events were observed for patients 
 For this reason, Tramadol Hydrochloride Extended-Release Capsules should be used with great caution in patients older than 75 years of age [see Dosage and Administration (2.3)].
 
 Respiratory depression is the chief risk for elderly patients treated with opioids, and has occurred after large initial doses were administered to patients who were not opioid-tolerant or when opioids were co-administered with other agents that depress respiration.
-Titrate the dosage of Tramadol Hydrochloride Extended-Release Capsules slowly in geriatric patients and monitor closely for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.2)].
+Titrate the dosage of Tramadol Hydrochloride Extended-Release Capsules slowly in geriatric patients and monitor closely for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.3)].
 
 Tramadol is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.

@@ -79,11 +79,11 @@ Get emergency medical help if you have:
 
 These are not all the possible side effects of Tramadol Hydrochloride Extended-Release Capsules.
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
+You may report side effects to Trigen Laboratories, LLC at (888) 987-4436 or FDA at 1-800-FDA-1088.
 For more information go to dailymed.nlm.nih.gov
 
 Manufactured for: Trigen Laboratories, LLC, Bridgewater, NJ 08807 USA, call 1-888-987-4436
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Issued: 08/2017
+Issued: 09/2018
