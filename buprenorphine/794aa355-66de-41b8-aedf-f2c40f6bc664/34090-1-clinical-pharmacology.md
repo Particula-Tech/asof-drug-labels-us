@@ -77,11 +77,11 @@ The reapplication of BUTRANS 10 mcg/hour after various rest periods to the same 
 
 Effects of Heat In a study of healthy subjects, application of a heating pad directly on the BUTRANS 10 mcg/hour system caused a 26% - 55% increase in blood concentrations of buprenorphine.
 Concentrations returned to normal within 5 hours after the heat was removed.
-For this reason, instruct patients not to apply heating pads directly to the BUTRANS system during system wear [see Warnings and Precautions (5.13)].
+For this reason, instruct patients not to apply heating pads directly to the BUTRANS system during system wear [see Warnings and Precautions (5.14)].
 
 Fever may increase the permeability of the skin, leading to increased buprenorphine concentrations during BUTRANS treatment.
 As a result, febrile patients are at increased risk for the possibility of BUTRANS-related reactions during treatment with BUTRANS.
-Monitor patients with febrile illness for adverse effects and consider dose adjustment [see Warnings and Precautions (5.14)].
+Monitor patients with febrile illness for adverse effects and consider dose adjustment [see Warnings and Precautions (5.15)].
 In a crossover study of healthy subjects receiving endotoxin or placebo challenge during BUTRANS 10 mcg/hour wear, the AUC and Cmax were similar despite a physiologic response of mild fever to endotoxin.
 
 Distribution Buprenorphine is approximately 96% bound to plasma proteins, mainly to alpha- and beta-globulin.
@@ -142,7 +142,7 @@ Hepatic Impairment The pharmacokinetics of buprenorphine following an IV infusio
 Buprenorphine and norbuprenorphine exposure did not increase in the mild and moderate hepatic impairment patients.
 
 BUTRANS has not been evaluated in patients with severe (Child-Pugh C) hepatic impairment.
-[see, Warnings and Precautions (5.10), and Use in Specific Populations (8.6)].
+[see, Warnings and Precautions (5.11), and Use in Specific Populations (8.6)].
 
 Renal Impairment No studies in patients with renal impairment have been performed with BUTRANS.
 

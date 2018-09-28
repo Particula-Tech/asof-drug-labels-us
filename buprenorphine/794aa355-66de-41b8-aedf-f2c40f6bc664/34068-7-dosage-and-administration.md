@@ -9,7 +9,7 @@ Patients who are opioid-experienced are those receiving, for one week or longer,
 
 - Use the lowest effective dosage for the shortest duration consistent with individual patients treatment goals [see Warnings and Precautions (5)].
 - Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
-- Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy and following dosage increases with BUTRANS [see Warnings and Precautions (5.2)].
+- Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy and following dosage increases with BUTRANS [see Warnings and Precautions (5.3)].
 - Instruct patients not to use BUTRANS if the pouch seal is broken or the patch is cut, damaged, or changed in any way and not to cut BUTRANS.
 - Instruct patients to avoid exposing BUTRANS to external heat sources, hot water, or prolonged direct sunlight [see Warnings and Precautions (5.14)].
 
@@ -52,7 +52,7 @@ The minimum BUTRANS titration interval is 72 hours, based on the pharmacokinetic
 
 The maximum BUTRANS dose is 20 mcg/hour.
 Do not exceed a dose of one 20 mcg/hour BUTRANS system due to the risk of QTc interval prolongation.
-In a clinical trial, BUTRANS 40 mcg/hour (given as two BUTRANS 20 mcg/hour systems) resulted in prolongation of the QTc interval [see Warnings and Precautions (5.7), Clinical Pharmacology (12.2)].
+In a clinical trial, BUTRANS 40 mcg/hour (given as two BUTRANS 20 mcg/hour systems) resulted in prolongation of the QTc interval [see Warnings and Precautions (5.8), Clinical Pharmacology (12.2)].
 
 Patients who experience breakthrough pain may require dosage adjustment increase of BUTRANS, or may need rescue medication with an appropriate dose of an immediate-release analgesic.
 If the level of pain increases after dose stabilization, attempt to identify the source of increased pain before increasing the BUTRANS dose.

@@ -4,8 +4,9 @@
 
 Risk Summary
 
-Prolonged use of opioid analgesics during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.3)].
+Prolonged use of opioid analgesics during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.4)].
 Available data with BUTRANS in pregnant women are insufficient to inform a drug-associated risk for major birth defects and miscarriage.
+
 In animal reproduction studies, buprenorphine caused an increase in the number of stillborn offspring, reduced litter size, and reduced offspring growth in rats at maternal exposure levels that were approximately 10 times that of human subjects who received one BUTRANS 20 mcg/hour, the maximum recommended human dose (MRHD) [see Data].
 Based on animal data, advise pregnant women of the potential risk to a fetus.
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
@@ -17,7 +18,7 @@ Clinical Considerations
 Fetal/neonatal adverse reactions Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
 Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and failure to gain weight.
 The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
-Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.3)].
+Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.4)].
 
 Labor and Delivery Opioids cross the placenta and may produce respiratory depression in neonates.
 An opioid antagonist such as naloxone must be available for reversal of opioid-induced respiratory depression in the neonate.
@@ -78,7 +79,7 @@ In the elderly groups evaluated, adverse event rates were similar to or lower th
 Although specific dose adjustments on the basis of advanced age are not required for pharmacokinetic reasons, use caution in the elderly population to ensure safe use [see Clinical Pharmacology (12.3)].
 
 Respiratory depression is the chief risk for elderly patients treated with opioids, and has occurred after large initial doses were administered to patients who were not opioid-tolerant or when opioids were co-administered with other agents that depress respiration.
-Titrate the dosage of BUTRANS slowly in geriatric patients and monitor closely for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.5)].
+Titrate the dosage of BUTRANS slowly in geriatric patients and monitor closely for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.6)].
 
 ## 8.6 Hepatic Impairment
 
