@@ -94,7 +94,7 @@ How should I take valganciclovir tablets?
 
 What should I avoid during treatment with valganciclovir tablets?
 
-Valganciclovir tablets can cause seizures, sleepiness, dizziness, and confusion.
+Valganciclovir tablets can cause seizures, dizziness, and confusion.
 You should not drive a car or operate machinery until you know how valganciclovir tablets affect you.
 
 What are the possible side effects of valganciclovir tablets?
@@ -158,18 +158,4 @@ All brands listed are the trademarks of their respective owners and are not trad
 
 For more information, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
 
-Distributed by:
-
-Aurobindo Pharma USA, Inc.
-
-2400 Route 130 North
-
-Dayton, NJ 08810
-
-Manufactured by:
-
-Aurobindo Pharma Limited
-
-Hyderabad-500 038, India
-
-Revised: 05/2018
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 09/2018

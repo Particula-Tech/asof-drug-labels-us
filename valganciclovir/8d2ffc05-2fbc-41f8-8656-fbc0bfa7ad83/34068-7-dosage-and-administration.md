@@ -21,15 +21,15 @@ Prevention of CMV Disease:
 
 ## 2.3 Recommended Dosage in Pediatric Patients
 
-Prevention of CMV Disease in Pediatric Kidney Transplant Patients: For pediatric kidney transplant patients 4 months to 16 years of age, the recommended once daily mg dose (7 x BSA x CrCL) should start within 10 days of post-transplantation until 200 days post-transplantation.
+Prevention of CMV Disease in Pediatric Kidney Transplant Patients: For pediatric kidney transplant patients 4 months to 16 years of age, the recommended once daily mg dose (7 x BSA x CrCl) should start within 10 days of post-transplantation until 200 days post-transplantation.
 
-Prevention of CMV Disease in Pediatric Heart Transplant Patients: For pediatric heart transplant patients 1 month to 16 years of age, the recommended once daily mg dose (7 x BSA x CrCL) should start within 10 days of transplantation until 100 days post-transplantation.
+Prevention of CMV Disease in Pediatric Heart Transplant Patients: For pediatric heart transplant patients 1 month to 16 years of age, the recommended once daily mg dose (7 x BSA x CrCl) should start within 10 days of transplantation until 100 days post-transplantation.
 
 The recommended once daily dosage of valganciclovir tablets are based on body surface area (BSA) and creatinine clearance (CrCl) derived from a modified Schwartz formula, and is calculated using the equation below: Pediatric Dose (mg) = 7 x BSA x CrCl (calculated using a modified Schwartz formula).
 If the calculated Schwartz creatinine clearance exceeds 150 mL/min/1.73m2, then a maximum value of 150 mL/min/1.73m2 should be used in the equation.
 The k values used in the modified Schwartz formula are based on pediatric patient age, as shown in Table 1.
 
-Table 1. k Values According to Pediatric Patient Age*
+Table 1 k Values According to Pediatric Patient Age*
 
 | k value | Pediatric Patient Age |
 | --- | --- |

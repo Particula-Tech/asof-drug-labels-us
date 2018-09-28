@@ -9,8 +9,8 @@ Cytopenia may occur at any time during treatment and may worsen with continued d
 Cell counts usually begin to recover within 3 to 7 days after discontinuing drug.
 In patients with severe leukopenia, neutropenia, anemia and/or thrombocytopenia, treatment with hematopoietic growth factors may be considered.
 
-Due to the frequency of neutropenia, anemia, and thrombocytopenia in patients receiving valganciclovir hydrochloride [see Adverse Reactions (6.1)], complete blood counts with differential and platelet counts should be performed frequently, especially in patients with renal impairment and in patients in whom ganciclovir or other nucleoside analogues have previously resulted in leukopenia, or in whom neutrophil counts are less than 1000 cells/µL at the beginning of treatment.
-Increased monitoring for cytopenias may be warranted if therapy with oral ganciclovir is changed to valganciclovir hydrochloride, because of increased plasma concentrations of ganciclovir after valganciclovir hydrochloride administration [see Clinical Pharmacology (12.3)].
+Due to the frequency of neutropenia, anemia, and thrombocytopenia in patients receiving valganciclovir hydrochloride [see Adverse Reactions (6.1)], complete blood counts with differential and platelet counts should be performed frequently, especially in infants, in patients with renal impairment, and in patients in whom ganciclovir or other nucleoside analogues have previously resulted in leukopenia, or in whom neutrophil counts are less than 1000 cells/µL at the beginning of treatment.
+Increased monitoring for cytopenias may be warranted if therapy with oral ganciclovir is changed to valganciclovir hydrochloride because of increased plasma concentrations of ganciclovir after valganciclovir hydrochloride administration [see Clinical Pharmacology (12.3)].
 
 ## 5.2 Acute Renal Failure
 
@@ -25,13 +25,13 @@ Acute renal failure may occur in:
 
 ## 5.3 Impairment of Fertility
 
-Based on animal data with ganciclovir, valganciclovir hydrochloride at the recommended human doses may cause temporary or permanent inhibition of spermatogenesis in males, and may cause suppression of fertility in females.
+Based on animal data and limited human data, valganciclovir hydrochloride at the recommended human doses may cause temporary or permanent inhibition of spermatogenesis in males, and may cause suppression of fertility in females.
 Advise patients that fertility may be impaired with use of valganciclovir hydrochloride [see Use in Specific Populations (8.1, 8.3), Nonclinical Toxicology (13.1)].
 
 ## 5.4 Fetal Toxicity
 
 Ganciclovir may cause fetal toxicity when administered to pregnant women based on findings in animal studies.
-When given to pregnant rabbits at dosages resulting in 2-times the human exposure (based on AUC), ganciclovir caused malformations in multiple organs of the fetuses.
+When given to pregnant rabbits at dosages resulting in 2 times the human exposure (based on AUC), ganciclovir caused malformations in multiple organs of the fetuses.
 Maternal and fetal toxicity were also observed in pregnant mice and rabbits.
 Therefore, valganciclovir hydrochloride has the potential to cause birth defects.
 Pregnancy should be avoided in female patients taking valganciclovir hydrochloride and in females with male partners taking valganciclovir hydrochloride.

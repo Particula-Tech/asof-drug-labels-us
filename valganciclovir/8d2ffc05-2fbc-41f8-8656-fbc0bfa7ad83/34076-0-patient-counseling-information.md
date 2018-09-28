@@ -9,7 +9,7 @@ Similarly, advise males to use condoms during and for at least 90 days following
 Carcinogenicity Advise patients that valganciclovir hydrochloride is considered a potential carcinogen [see Nonclinical Toxicity (13.1)].
 Lactation Advise mothers not to breast-feed if they are receiving valganciclovir hydrochloride because of the potential for hematologic toxicity and cancer in nursing infants, and because HIV can be passed to the baby in breast milk [see Use in Specific Populations (8.2)].
 Infertility Advise patients that valganciclovir hydrochloride may cause temporary or permanent female and male infertility [see Warnings and Precautions (5.3), Use in Specific Populations (8.3)].
-Impairment of Cognitive Ability Inform patients that tasks requiring alertness may be affected including the patient’s ability to drive and operate machinery as seizures, sedation, dizziness, and/or confusion have been reported with the use of valganciclovir hydrochloride [see Adverse Reactions (6.1)].
+Impairment of Cognitive Ability Inform patients that tasks requiring alertness may be affected including the patient’s ability to drive and operate machinery as seizures, dizziness, and/or confusion have been reported with the use of valganciclovir hydrochloride [see Adverse Reactions (6.1)].
 Use in Patients with CMV Retinitis Inform patients that valganciclovir hydrochloride is not a cure for CMV retinitis, and they may continue to experience progression of retinitis during or following treatment.
 Advise patients to have ophthalmologic follow-up examinations at a minimum of every 4 to 6 weeks while being treated with valganciclovir hydrochloride.
 Some patients will require more frequent follow-up.

@@ -11,7 +11,7 @@ Valganciclovir Cmax and AUC are approximately 1% and 3% of those of ganciclovir,
 
 Pharmacokinetics in Adults: The pharmacokinetics of ganciclovir after administration of valganciclovir tablets have been evaluated in HIV- and CMV-seropositive patients, patients with AIDS and CMV retinitis, and in solid organ transplant patients (Table 10).
 
-Table 10 Ganciclovir Pharmacokinetics* in Healthy Volunteers and HIV-positive/CMV-positive Adults Administered Valganciclovir Tablets 900 mg Once Daily with Food.
+Table 10 Ganciclovir Pharmacokinetics* in Healthy Volunteers and HIV-positive/CMV-positive Adults Administered Valganciclovir Tablets 900 mg Once Daily with Food
 
 | PK parameter | N | Value (Mean ± SD) |
 | --- | --- | --- |
@@ -24,7 +24,7 @@ Table 10 Ganciclovir Pharmacokinetics* in Healthy Volunteers and HIV-positive/CM
 
 The systemic ganciclovir exposures attained following administration of 900 mg valganciclovir tablets once daily were comparable across kidney, heart and liver transplant recipients (Table 11).
 
-Table 11 Ganciclovir Pharmacokinetics in Solid Organ Transplant Recipients Administered Valganciclovir Tablets 900 mg Once Daily with Food.
+Table 11 Ganciclovir Pharmacokinetics in Solid Organ Transplant Recipients Administered Valganciclovir Tablets 900 mg Once Daily with Food
 
 | Parameter | Value (Mean ± SD) |  |  |
 | --- | --- | --- | --- |
@@ -40,7 +40,7 @@ Absorption, Distribution, Metabolism, and Excretion
 
 The pharmacokinetic (PK) properties of valganciclovir hydrochloride are provided in Table 12.
 
-Table 12 Pharmacokinetic Properties of Ganciclovir and Valganciclovir Associated with Valganciclovir hydrochloride.
+Table 12 Pharmacokinetic Properties of Ganciclovir and Valganciclovir Associated with Valganciclovir hydrochloride
 
 |  | Valganciclovir | Ganciclovir |
 | --- | --- | --- |
@@ -55,10 +55,10 @@ Table 12 Pharmacokinetic Properties of Ganciclovir and Valganciclovir Associated
 | Elimination |  |  |
 | Dose proportionality |  | AUC was dose proportional under fed conditions across a valganciclovir dose range of 450 to 2625 mg |
 | Major route of elimination | Metabolism to ganciclovir | Glomerular filtration and active tubular secretion |
-| t1/2 (h) |  | 0.4 to 1.99 h |
+| t1/2 (h) |  | See Tables 10 and 11 |
 | % Of dose excreted in urine | Unknown |  |
 | % Of dose excreted in feces | Unknown |  |
-| a Steady state ganciclovir PK was assessed after administration of valganciclovir tablets (875 mg once daily) were administered with a high fat meal containing approximately 600 total calories (31.1 g fat, 51.6 g carbohydrates and 22.2 g protein) to 16 HIV-positive subjects. |  |  |
+| a Steady state ganciclovir PK was assessed after administration of valganciclovir tablets (875 mg once daily) with a high fat meal containing approximately 600 total calories (31.1 g fat, 51.6 g carbohydrates and 22.2 g protein) to 16 HIV-positive subjects. |  |  |
 
 Specific Populations:
 
@@ -81,18 +81,18 @@ In these studies, patients received oral doses of valganciclovir (either valganc
 In studies using the pediatric valganciclovir dosing algorithm, the pharmacokinetics of ganciclovir were similar across organ types and age ranges (Table 14).
 Relative to adult transplant patients (Table 11), AUC values in pediatric patients were somewhat increased, but were within the range considered safe and effective in adults.
 
-Table 14 Ganciclovir Pharmacokinetics by Age in Pediatric Solid Organ Transplant Patients Administered Valganciclovir hydrochloridea.
+Table 14 Ganciclovir Pharmacokinetics by Age in Pediatric Solid Organ Transplant Patients Administered Valganciclovir hydrochloride
 
 |  |  | Age Group |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Organ | PK Parameter mean (SD) | < 4 months | 4 months to ≤ 2 years | > 2 to < 12 years | ≥ 12 years |
 |  | N | 14a | 6 | 2 | 4 |
-| Heart (N =26) | A U C0-24h (mcg∙ h / mL) Cmax(mcg / mL) t1/2(h) | 66.3 (20.5) 10.8 (3.30) 3.5 (0.87) | 55.4 (22.8) 8.2 (2.5) 3.8 (1.7) | 59.6 (21.0) 12.5 (1.2) 2.8 (0.9) | 60.6 (25.0) 9.5 (3.3) 4.9 (0.8) |
+| Heart (N=26) | AUC0-24h (mcg∙h/mL) Cmax (mcg/mL) t1/2 (h) | 66.3 (20.5) 10.8 (3.30) 3.5 (0.87) | 55.4 (22.8) 8.2 (2.5) 3.8 (1.7) | 59.6 (21.0) 12.5 (1.2) 2.8 (0.9) | 60.6 (25.0) 9.5 (3.3) 4.9 (0.8) |
 |  | N |  | 2 | 10 | 19 |
-| Kidney (N=31) | A U C0-24h (mcg∙ h / mL) Cmax(mcg / mL) t1/2(h) | NA | 67.6 (13.0) 10.4 (0.4) 4.5 (1.5) | 55.9 (12.1) 8.7 (2.1) 4.8 (1.0) | 47.8 (12.4) 7.7 (2.1) 6.0 (1.3) |
+| Kidney (N=31) | AUC0-24h (mcg∙h/mL) Cmax (mcg/mL) t1/2 (h) | NA | 67.6 (13.0) 10.4 (0.4) 4.5 (1.5) | 55.9 (12.1) 8.7 (2.1) 4.8 (1.0) | 47.8 (12.4) 7.7 (2.1) 6.0 (1.3) |
 | N |  | 9 | 6 | 2 |  |
-| Liver (N =17) | A U C0-24h (mcg∙ h / mL) Cmax(mcg / mL) t1/2(h) | NA | 69.9 (37.0) 11.9 (3.7) 2.8 (1.5) | 59.4 (8.1) 9.5 (2.3) 3.8 (0.7) | 35.4 (2.8) 5.5 (1.1) 4.4 (0.2) |
-| N= number of patients, NA=not applicable a Ages ranged from 26 to 124 days |  |  |  |  |  |
+| Liver (N=17) | AUC0-24h (mcg∙h/mL) Cmax (mcg/mL) t1/2 (h) | NA | 69.9 (37.0) 11.9 (3.7) 2.8 (1.5) | 59.4 (8.1) 9.5 (2.3) 3.8 (0.7) | 35.4 (2.8) 5.5 (1.1) 4.4 (0.2) |
+| N= number of patients, NA=not applicable a Ages ranged from 26 to 124 days. |  |  |  |  |  |
 
 Pharmacokinetics in Geriatric Patients: The pharmacokinetic characteristics of valganciclovir hydrochloride in elderly patients have not been established.
 
@@ -106,7 +106,7 @@ Table 15 Results of Drug Interaction Studies with Ganciclovir: Effects of Coadmi
 
 | Coadministered Drug | Ganciclovir Dosage | N | Ganciclovir Pharmacokinetic (PK) Parameter |
 | --- | --- | --- | --- |
-| Mycophenolate Mofetil (MMF) 1.5 g single dose | 5 mg/kg IV single dose | 12 | No effect on ganciclovir PK parameters observed (patients with normal renal function) |
+| Mycophenolate mofetil (MMF) 1.5 g single dose | 5 mg/kg IV single dose | 12 | No effect on ganciclovir PK parameters observed (patients with normal renal function) |
 | Trimethoprim 200 mg once daily | 1000 mg every 8 hours | 12 | No effect on ganciclovir PK parameters observed |
 | Didanosine 200 mg every 12 hours simultaneously administered with ganciclovir | 5 mg/kg IV twice daily | 11 | No effect on ganciclovir PK parameters observed |
 | 5 mg/kg IV once daily | 11 | No effect on ganciclovir PK parameters observed |  |
@@ -117,7 +117,7 @@ Table 16 Results of Drug Interaction Studies with Ganciclovir: Effects of Gancic
 | Coadministered Drug | Ganciclovir Dosage | N | Coadministered Drug Pharmacokinetic (PK) Parameter |
 | --- | --- | --- | --- |
 | Oral cyclosporine at therapeutic doses | 5 mg/kg infused over 1 hour every 12 hours | 93 | In a retrospective analysis of liver allograft recipients, there was no evidence of an effect on cyclosporine whole blood concentrations. |
-| Mycophenolate Mofetil (MMF) 1.5 g single dose | 5 mg/kg IV single dose | 12 | No PK interaction observed (patients with normal renal function) |
+| Mycophenolate mofetil (MMF) 1.5 g single dose | 5 mg/kg IV single dose | 12 | No PK interaction observed (patients with normal renal function) |
 | Trimethoprim 200 mg once daily | 1000 mg every 8 hours | 12 | No effect on trimethoprim PK parameters observed |
 | Didanosine 200 mg every 12 hours | 5 mg/kg IV twice daily | 11 | AUC0-12↑70 ± 40% (range: 3% to 121%) Cmax↑49 ± 48% (range: -28% to 125%) |
 | Didanosine 200 mg every 12 hours | 5 mg/kg IV once daily | 11 | AUC0-12 ↑50 ± 26% (range: 22% to 110%) Cmax ↑36 ± 36% (range: -27% to 94%) |

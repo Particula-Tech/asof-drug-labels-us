@@ -30,7 +30,7 @@ However, in liver transplant patients, the incidence of tissue-invasive CMV dise
 These results are summarized in Table 20.
 Mortality at six months was 3.7% (9/244) in the valganciclovir hydrochloride group and 1.6% (2/126) in the oral ganciclovir group.
 
-Table 20 Percentage of Patients with CMV Disease, Tissue-Invasive CMV Disease or CMV syndrome by Organ Type: Endpoint Committee, 6 Month ITT Population
+Table 20 Percentage of Patients with CMV Disease, Tissue-Invasive CMV Disease or CMV Syndrome by Organ Type: Endpoint Committee, 6 Month ITT Population
 
 |  | CMV Disease1 |  | Tissue-Invasive CMV Disease |  | CMV Syndrome2 |  |
 | --- | --- | --- | --- | --- | --- | --- |

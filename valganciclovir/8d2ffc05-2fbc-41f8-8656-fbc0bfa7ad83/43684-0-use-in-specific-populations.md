@@ -15,11 +15,11 @@ Perinatal infection can also occur from exposure of the neonate to CMV shedding 
 Approximately 10% of children with congenital CMV infection are symptomatic at birth.
 Mortality in these infants is about 10% and approximately 50 to 90% of symptomatic surviving newborns experience significant morbidity, including mental retardation, sensorineural hearing loss, microcephaly, seizures, and other medical problems.
 The risk of congenital CMV infection resulting from primary maternal CMV infection may be higher and of greater severity than that resulting from maternal reactivation of CMV infection.
-Data Animal Data At doses resulting in two-times the human exposure of ganciclovir (all dose comparisons presented are based on the human AUC following a single intravenous infusion of 5 mg per kg of ganciclovir) resulted in maternal and embryo-fetal toxicity in pregnant mice and rabbits as well as teratogenicity in the rabbits.
+Data Animal Data Doses resulting in two-times the human exposure of ganciclovir (based on the human AUC following a single intravenous infusion of 5 mg per kg of ganciclovir) resulted in maternal and embryo-fetal toxicity in pregnant mice and rabbits as well as teratogenicity in the rabbits.
 Fetal resorptions were present in at least 85% of rabbits and mice.
 Rabbits showed increased embryo-fetal mortality, growth retardation of the fetuses and structural abnormalities of multiple organs of the fetuses including the palate (cleft palate), eyes (anophthalmia/microphthalmia), brain (hydrocephalus), jaw (brachygnathia), kidneys and pancreas (aplastic organs).
 Increased embryo-fetal mortality was also seen in mice.
-Daily intravenous doses of approximately 1.7-times the human exposure (based on AUC) administered to female mice prior to mating, during gestation, and during lactation caused hypoplasia of the testes and seminal vesicles in the male offspring, as well as pathologic changes in the nonglandular region of the stomach.
+Daily intravenous doses of approximately 1.7 times the human exposure (based on AUC) administered to female mice prior to mating, during gestation, and during lactation caused hypoplasia of the testes and seminal vesicles in the male offspring, as well as pathologic changes in the nonglandular region of the stomach.
 Data from an ex-vivo human placental model showed that ganciclovir crosses the human placenta.
 The transfer occurred by passive diffusion and was not saturable over a concentration range of 1 to 10 mg/mL.
 
@@ -44,11 +44,15 @@ Because of the mutagenic and teratogenic potential of valganciclovir hydrochlori
 
 Males
 
-Because of its mutagenic potential, males should be advised to use condoms during and for at least 90 days following, treatment with valganciclovir hydrochloride [see Dosage and Administration (2.6), Warnings and Precautions (5.3), Nonclinical Toxicology (13.1)].
+Because of its mutagenic potential, males should be advised to use condoms during and for at least 90 days following, treatment with valganciclovir hydrochloride [see Dosage and Administration (2.6), Warnings and Precautions (5.3, 5.5), Nonclinical Toxicology (13.1)].
 
 Infertility
 
 Valganciclovir hydrochloride at the recommended doses may cause temporary or permanent female and male infertility [see Warnings and Precautions (5.3), Nonclinical Toxicology (13.1)].
+Data Human Data In a small, open-label, non-randomized clinical study, adult male renal transplant patients receiving valganciclovir hydrochloride for CMV prophylaxis for up to 200 days post-transplantation were compared to an untreated control group.
+Patients were followed-up for six months after valganciclovir hydrochloride discontinuation.
+Among 24 evaluable patients in the valganciclovir hydrochloride group, the mean sperm density at the end of treatment visit decreased by 11 million/mL from baseline; whereas, among 14 evaluable patients in the control group the mean sperm density increased by 33 million/mL.
+However, at the follow-up visit among 20 evaluable patients in the valganciclovir hydrochloride group the mean sperm density was comparable to that observed among 10 evaluable patients in the untreated control group (the mean sperm density at the end of follow-up visit increased by 41 million/mL from baseline in the valganciclovir hydrochloride group and by 43 million/mL in the untreated group).
 
 ## 8.4 Pediatric Use
 
@@ -80,7 +84,7 @@ Renal function should be monitored and dosage adjustments should be made accordi
 ## 8.6 Renal Impairment
 
 Dose reduction is recommended when administering valganciclovir hydrochloride to patients with renal impairment [see Dosage and Administration (2.5), Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].
-For adult patients on hemodialysis (CrCl less than 10 mL/min) valganciclovir tablets should not be used.
+For adult patients on hemodialysis (CrCl less than 10 mL/min), valganciclovir tablets should not be used.
 Adult hemodialysis patients should use ganciclovir in accordance with the dose-reduction algorithm cited in the CYTOVENE®-IV complete product information section on DOSAGE AND ADMINISTRATION: Renal Impairment [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
