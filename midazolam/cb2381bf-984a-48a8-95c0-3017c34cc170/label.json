@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA209566"
+  ],
+  "inn": "midazolam",
+  "labeler": "Meridian Medical Technologies, Inc.",
+  "package_ndcs": [
+    "11704-650-01",
+    "11704-650-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "midazolam hydrochloride",
+      "name": "Seizalam"
+    }
+  ],
+  "setid": "cb2381bf-984a-48a8-95c0-3017c34cc170",
+  "source": "dailymed"
+}
