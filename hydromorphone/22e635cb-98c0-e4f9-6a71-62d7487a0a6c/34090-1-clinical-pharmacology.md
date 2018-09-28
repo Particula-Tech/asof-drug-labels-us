@@ -83,7 +83,7 @@ Table 5.
 
 Mean (±SD) EXALGO Pharmacokinetic Parameters
 
-| Regimen | Dosage | Tmax*(hrs) | Cmax (ng/mL) | AUC (ng·hr/mL) | T½ (hr) |
+| Regimen | Dosage | Tmax* (hrs) | Cmax (ng/mL) | AUC (ng·hr/mL) | T½ (hr) |
 | --- | --- | --- | --- | --- | --- |
 | Single Dose (N = 31) | 8 mg | 12 (4-30) | 0.93 (1.01) | 18.1 (5.8) | 10.6 (4.3) |
 | 16 mg | 16 (6-30) | 1.69 (0.78) | 36.5 (11.3) | 10.3 (2.4) |  |
@@ -92,7 +92,7 @@ Mean (±SD) EXALGO Pharmacokinetic Parameters
 | Multiple Dose† (N = 29) | 16 mg q24h | 12 (6-24) | 3.54 (0.96)‡ | 57.6 (16.3) | NA |
 | IR 4 mg q6h | 0.75 (0.5-2) | 5.28 (1.37)§ | 54.8 (14.8) | NA |  |
 
-NA = not applicable *Median (range) reported for Tmax † Steady-state results on Day 5 (0-24 hours) ‡ Cmin 2.15 (0.87) ng/mL § Cmin 1.47 (0.42) ng/mL
+NA = not applicable * Median (range) reported for Tmax † Steady-state results on Day 5 (0-24 hours) ‡ Cmin 2.15 (0.87) ng/mL § Cmin 1.47 (0.42) ng/mL
 
 Food Effect
 

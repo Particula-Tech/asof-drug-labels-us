@@ -14,7 +14,7 @@ Patients who are opioid-tolerant are those receiving, for one week or longer, at
 
 - Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
 - Initiate the dosing regimen for each patient individually, taking into account the patient's prior analgesic treatment experience and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
-- Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy and following dosage increases with EXALGO and adjust the dosage accordingly [see Warnings and Precautions (5.2)].
+- Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy and following dosage increases with EXALGO and adjust the dosage accordingly [see Warnings and Precautions (5.3)].
 
 Instruct patients to swallow EXALGO tablets whole [see Patient Counseling Information (17)].
 Crushing, chewing, or dissolving EXALGO tablets will result in uncontrolled delivery of hydromorphone and can lead to overdose or death [see Warnings and Precautions (5.1)].

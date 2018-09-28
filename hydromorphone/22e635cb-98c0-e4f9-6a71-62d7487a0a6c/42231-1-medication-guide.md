@@ -9,4 +9,4 @@
 | The possible side effects of EXALGO are: constipation, nausea, sleepiness, vomiting, tiredness, headache, dizziness, abdominal pain. Call your healthcare provider if you have any of these symptoms and they are severe. Get emergency medical help if you have: trouble breathing, shortness of breath, fast heartbeat, chest pain, swelling of your face, tongue, or throat, extreme drowsiness, light-headedness when changing positions, feeling faint, agitation, high body temperature, trouble walking, stiff muscles, or mental changes such as confusion. These are not all the possible side effects of EXALGO. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. For more information go to dailymed.nlm.nih.govTrademarks are the property of a Mallinckrodt company. Distributed by: SpecGx LLC, Webster Groves, MO 63119 USA, www.Exalgo.com or call 1-800-778-7898Mallinckrodt™ |
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Revised: 09/2017
+Revised: 09/2017 MG20H35
