@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA211139"
+  ],
+  "inn": "amphetamine",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "69238-1563-1",
+    "69238-1564-1"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "amphetamine",
+      "name": "Amphetamine Sulfate"
+    }
+  ],
+  "setid": "53d40847-e0d3-48ec-81a7-ec5478553565",
+  "source": "dailymed"
+}
