@@ -2,7 +2,7 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 49702-202-18
 
-COMBIVIR®
+COMBIVIR
 
 (lamivudine and zidovudine)
 
@@ -32,13 +32,11 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-Lamivudine is manufactured under agreement from
+Trademarks are owned or licensed by ViiV Healthcare.
 
-Shire Pharmaceuticals Group plc
-
-Basingstoke, UK
+2018 ViiV Healthcare or licensor.
 
 Made in UK
 
-1. 10000000146182 Rev.
-   5/17
+1. 10000000149610 Rev.
+   9/18
