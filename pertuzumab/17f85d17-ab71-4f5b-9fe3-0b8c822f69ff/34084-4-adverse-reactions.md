@@ -405,3 +405,13 @@ As a result, data may not accurately reflect the true incidence of anti-pertuzum
 
 In the neoadjuvant period of BERENICE, 0.3% (1/383) of patients treated with PERJETA tested positive for anti-PERJETA antibodies.
 This patient did not experience any anaphylactic/hypersensitivity reactions.
+
+## 6.3 Post-Marketing Experience
+
+The following adverse reactions have been identified during post-approval use of PERJETA.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+- Tumor lysis syndrome (TLS): Cases of possible TLS have been reported in patients treated with PERJETA.
+  Patients with significant tumor burden (e.g., bulky metastases) may be at a higher risk.
+  Patients could present with hyperuricemia, hyperphosphatemia, and acute renal failure which may represent possible TLS.
+  Providers should consider additional monitoring and/or treatment as clinically indicated.

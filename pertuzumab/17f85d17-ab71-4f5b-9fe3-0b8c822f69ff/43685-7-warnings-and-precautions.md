@@ -47,7 +47,8 @@ Advise females of reproductive potential to use effective contraception during t
 
 ## 5.3 Infusion-Related Reactions
 
-PERJETA has been associated with infusion reactions [see Adverse Reactions (6.1)].
+PERJETA has been associated with infusion reactions, including fatal events.
+[see Adverse Reactions (6.1)].
 An infusion reaction was defined in CLEOPATRA as any event described as hypersensitivity, anaphylactic reaction, acute infusion reaction, or cytokine release syndrome occurring during an infusion or on the same day as the infusion.
 The initial dose of PERJETA was given the day before trastuzumab and docetaxel to allow for the examination of PERJETA-associated reactions.
 On the first day, when only PERJETA was administered, the overall frequency of infusion reactions was 13% in the PERJETA-treated group and 10% in the placebo-treated group.
@@ -77,6 +78,7 @@ In APHINITY, the overall frequency of hypersensitivity/anaphylaxis was 5% in the
 The incidence was highest in the PERJETA plus TCH treated group (8%) of which 1% were NCI-CTCAE (v4.0) Grade 3 – 4.
 
 Patients should be observed closely for hypersensitivity reactions.
-Severe hypersensitivity, including anaphylaxis, has been observed in clinical trials with treatment of PERJETA [see Clinical Trials Experience (6.1)].
+Severe hypersensitivity, including anaphylaxis and fatal events, have been observed in patients treated with PERJETA [see Clinical Trials Experience (6.1)].
+Angioedema has been described in post-marketing reports.
 Medications to treat such reactions, as well as emergency equipment, should be available for immediate use.
 PERJETA is contraindicated in patients with known hypersensitivity to pertuzumab or to any of its excipients [see Contraindications (4)].
