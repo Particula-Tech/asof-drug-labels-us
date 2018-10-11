@@ -4,7 +4,7 @@
 
 Risk Summary
 
-Prolonged use of opioid analgesics during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.3)].
+Prolonged use of opioid analgesics during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.4)].
 There are no studies of ZOHYDRO ER use in pregnant women.
 Rats administered oral hydrocodone during gestation and lactation showed increases in stillborn pups and decreases in pup survival at doses equivalent to the human dose of 100 mg/day.
 Reduced nursing behavior and decreased body weights were observed at 2 times the human dose.
@@ -22,9 +22,9 @@ Clinical Considerations
 Fetal/neonatal adverse reactions
 
 Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the newborn and neonatal opioid withdrawal syndrome shortly after birth.
-Observe newborns for symptoms of neonatal opioid withdrawal syndrome, such as poor feeding, diarrhea, irritability, tremor, rigidity, and seizures, and manage accordingly [see Warnings and Precautions (5.3)].
+Observe newborns for symptoms of neonatal opioid withdrawal syndrome, such as poor feeding, diarrhea, irritability, tremor, rigidity, and seizures, and manage accordingly [see Warnings and Precautions (5.4)].
 
-#### Labor or Delivery
+Labor or Delivery
 
 Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
 An opioid antagonist such as naloxone must be available for reversal of opioid induced respiratory depression in the neonate.
@@ -55,7 +55,6 @@ Hydrocodone is present in human milk.
 A published lactation study reports variable concentrations of hydrocodone and hydromorphone (an active metabolite) in breast milk with administration of immediate-release hydrocodone to nursing mothers in the early post-partum period.
 This lactation study did not assess breastfed infants for potential adverse drug reactions.
 Lactation studies have not been conducted with extended-release hydrocodone, including ZOHYDRO ER, and no information is available on the effects of the drug on the breastfed infant or the effects of the drug on milk production.
-Because of the potential for serious adverse reactions, including excess sedation and respiratory depression in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with ZOHYDRO ER.
 
 Because of the potential for serious adverse reactions, including excess sedation and respiratory depression in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with ZOHYDRO ER.
 
@@ -87,7 +86,7 @@ Elderly patients (aged 65 years or older) may have increased sensitivity to hydr
 In general, use caution when selecting a dosage for an elderly patient, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of the concomitant disease or other drug therapy.
 
 Respiratory depression is the chief risk for elderly patients treated with opioids, and has occurred after large initial doses were administered to patients who were not opioid-tolerant or when opioids were co-administered with other agents that depress respiration.
-Titrate the dosage of ZOHYDRO ER slowly in geriatric patients and monitor closely for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.6)].
+Titrate the dosage of ZOHYDRO ER slowly in geriatric patients and monitor closely for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.7)].
 
 Hydrocodone is known to be substantially secreted by the kidney and the risk adverse reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.

@@ -14,7 +14,7 @@ The high drug content in extended release formulations adds to the risk of adver
 All patients treated with opioids require careful monitoring for signs of abuse and addiction as use of opioid analgesic products carries the risk of addiction even under appropriate medical use.
 
 Prescription drug abuse is the intentional non-therapeutic use of a prescription drug, even once, for its rewarding psychological or physiological effects.
-Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that develop after repeated substance use and includes: a strong desire to take the drug, difficulties in controlling its use, persisting in its use despite harmful consequences, a higher priority given to drug use then to other activities and obligations, increased tolerance, and sometimes a physical withdrawal.
+Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that develop after repeated substance use and includes: a strong desire to take the drug, difficulties in controlling its use, persisting in its use despite harmful consequences, a higher priority given to drug use than to other activities and obligations, increased tolerance, and sometimes a physical withdrawal.
 
 "Drug-seeking" behavior is very common in persons with substance use disorders.
 Drug seeking tactics include emergency calls or visits near the end of office hours, refusal to undergo appropriate examination, testing, or referral, repeated "loss" of prescriptions, tampering with prescriptions, and reluctance to provide prior medical records or contact information for other treating healthcare provider(s).

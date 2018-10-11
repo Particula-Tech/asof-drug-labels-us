@@ -29,7 +29,7 @@ Other opioid-induced effects may include a reduction in gastric, in biliary and 
 
 Effects on the Cardiovascular System
 
-Hydrocodone produces peripheral vasodilation, which may result in orthostatic hypotenstion or syncope.
+Hydrocodone produces peripheral vasodilation, which may result in orthostatic hypotension or syncope.
 Manifestations of histamine release and/or peripheral vasodilation may include pruritus, flushing, red eyes, sweating, and/or orthostatic hypotension.
 
 Effects on the Endocrine System
@@ -55,8 +55,7 @@ The minimum effective analgesic concentration of hydrocodone for any individual 
 Concentration—Adverse Experience Relationships
 
 There is a relationship between increasing hydrocodone plasma concentration and increasing frequency of adverse experiences such as nausea, vomiting, CNS effects, and respiratory depression.
-In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.2.
-2.3)].
+In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.2, 2.3)].
 
 ## 12.3 Pharmacokinetics
 
@@ -120,7 +119,7 @@ Drug Interaction Studies
 Interactions with Alcohol
 
 The rate of absorption of ZOHYDRO ER 50 mg was affected by co-administration with 40% alcohol in the fasted state, as exhibited by an increase in peak hydrocodone concentrations (on average 2.4-fold increase with maximum increase of 3.9-fold in one subject) and a decrease in the time to peak concentrations.
-The extent of absorption was increased on average 1.2-fold with maximum increase of 1.7-fold in one subject with 40% alcohol [see Warnings and Precautions (5.5)].
+The extent of absorption was increased on average 1.2-fold with maximum increase of 1.7-fold in one subject with 40% alcohol [see Warnings and Precautions (5.6)].
 
 Cytochrome P450 Enzymes
 
@@ -130,4 +129,4 @@ N-demethylation of hydrocodone to form norhydrocodone is attributed to CYP3A4 an
 CYP3A4 Inhibitors and Inducers
 
 An increase in CYP3A4 activity by initiation of CYP3A4 inhibiting drugs or discontinuation of CYP3A4 inducing drugs could alter the metabolic profile of hydrocodone causing a slowing of hydrocodone clearance, and lead to elevated hydrocodone concentrations and effects, which could be more pronounced with concomitant use of cytochrome P450 CYP3A4 inhibitors.
-Initiation of a CYP3A4 inducing drug can lower hydrocodone plasma levels and may induce an opioid-withdrawal syndrome [see Warnings and Precautions (5.4) and Drug Interactions (7)].
+Initiation of a CYP3A4 inducing drug can lower hydrocodone plasma levels and may induce an opioid-withdrawal syndrome [see Warnings and Precautions (5.5) and Drug Interactions (7)].

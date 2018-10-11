@@ -7,14 +7,14 @@ ZOHYDRO ER should be prescribed only by healthcare professionals who are knowled
 Daily doses of ZOHYDRO ER, a single dose of greater than 40 mg, or a total daily dose of greater than 80 mg, are only for use in patients in whom tolerance to an opioid of comparable potency has been established.
 Patients who are opioid tolerant are those receiving, for one week or longer, at least 60 mg oral morphine per day, 25 mcg transdermal fentanyl per hour, 30 mg oral oxycodone per day, 8 mg oral hydromorphone per day, 25 mg oral oxymorphone per day, 60 mg oral hydrocodone per day, or an equianalgesic dose of another opioid.
 
-- Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5.5)].
+- Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
 - Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
-- Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy and following dosage increases with ZOHYDRO ER and adjust the dosage accordingly [see Warnings and Precautions (5.2)].
+- Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy and following dosage increases with ZOHYDRO ER and adjust the dosage accordingly [see Warnings and Precautions (5.3)].
 
 Instruct patients to swallow ZOHYDRO ER capsules whole [see Patient Counseling Information (17)].
 Crushing, chewing, or dissolving the beads in ZOHYDRO ER capsules will result in uncontrolled delivery of hydrocodone and can lead to overdose or death [see Warnings and Precautions (5.1)].
 
-ZOHYDRO ER is administered orally twice daily (every 12 hours)
+ZOHYDRO ER is administered orally twice daily (every 12 hours).
 
 ## 2.2 Initial Dosage
 
@@ -26,8 +26,7 @@ Use of ZOHYDRO ER in Patients Who Are Not Opioid Tolerant
 
 The starting dose for patients who are not opioid tolerant is ZOHYDRO ER 10 mg orally every 12 hours.
 
-Use of higher starting doses in patients who are not opioid tolerant may cause fatal respiratory depression.
-[see Warnings and Precautions (5.2)].
+Use of higher starting doses in patients who are not opioid tolerant may cause fatal respiratory depression [see Warnings and Precautions (5.3)].
 
 Conversion from Oral Hydrocodone Formulations to ZOHYDRO ER
 
