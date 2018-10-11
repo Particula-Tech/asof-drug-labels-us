@@ -5,7 +5,7 @@ It is supplied in glass vials containing a volume of 100 mL, affording a dose of
 It is also supplied in plastic containers containing volumes of 100 mL or 200 mL, affording doses of 200 mg and 400 mg of Fluconazole, USP, respectively.
 Fluconazole injections in plastic containers are available both in Sodium Chloride, USP and Dextrose, USP diluents.
 
-Fluconazole Injection, USP in glass vials:
+Fluconazole in Sodium Chloride Injection, USP in glass vials:
 
 NDC 0143-9899-91 Fluconazole in iso-osmotic Sodium Chloride Diluent 200 mg/100 mL packaged in cartons of 6 vials.
 

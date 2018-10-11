@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL
 
-NDC 0143-9899-01 FLUCONAZOLE INJECTION, USP 200 mg/100 mL* (2 mg/mL) Sterile Solution in 0.9% Sodium Chloride Injection FOR IV INFUSION ONLY Rx ONLY 100 mL Single Dose Vial *Each 100 mL unit contains 200 mg of Fluconazole, USP, 900 mg of Sodium Chloride, USP and Water for Injection, USP.
+NDC 0143-9899-01 FLUCONAZOLE in Sodium Chloride Injection, USP 200 mg/100 mL* (2 mg/mL) Sterile Solution in 0.9% Sodium Chloride Injection FOR IV INFUSION ONLY Rx ONLY 100 mL Single Dose Vial *Each 100 mL unit contains 200 mg of Fluconazole, USP, 900 mg of Sodium Chloride, USP and Water for Injection, USP.
 The solution is sterile and iso-osmotic (approximately 300 mOsmol/L).
 USUAL DOSAGE: See package insert.
 Store at 5º to 30ºC (41º to 86ºF).
