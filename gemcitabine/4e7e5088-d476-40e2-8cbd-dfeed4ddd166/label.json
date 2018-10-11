@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "NDA208313"
+  ],
+  "inn": "gemcitabine",
+  "labeler": "Sun Pharmaceutical Industries Limited",
+  "package_ndcs": [
+    "62756-008-60",
+    "62756-073-60",
+    "62756-102-60",
+    "62756-219-60",
+    "62756-321-60",
+    "62756-438-60",
+    "62756-533-60",
+    "62756-614-60",
+    "62756-746-60",
+    "62756-974-60"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "gemcitabine",
+      "name": "INFUGEM"
+    }
+  ],
+  "setid": "4e7e5088-d476-40e2-8cbd-dfeed4ddd166",
+  "source": "dailymed"
+}
