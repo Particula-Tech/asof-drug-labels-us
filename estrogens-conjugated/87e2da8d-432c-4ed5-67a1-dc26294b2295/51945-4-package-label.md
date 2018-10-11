@@ -1,39 +1,32 @@
-PACKAGE LABEL - PRINCIPAL DISPLAY - 25 MG - LABEL
-
-NDC 0046-0749-05
-
-Premarin® Intravenous
-
-(conjugated estrogens, USP)
-
-for injection
-
-25 mg
-
-Prepared by cryodesiccation.
+# PRINCIPAL DISPLAY PANEL - 25 mg Vial Label
 
 SECULE® vial
 
-Rx only
+Refrigerate at 2° to 8°C (36° to 46°F).
 
-PACKAGE LABEL - PRINCIPAL DISPLAY - 25 MG - CARTON
+NDC 0046-0749-05 Rx only
 
-NDC 0046-0749-05
+Pfizer
 
-Premarin® Intravenous
-
-(conjugated estrogens, USP)
-
-for injection
-
-Prepared by cryodesiccation.
-
-This package provides one SECULE® vial containing
+Premarin® Intravenous (conjugated estrogens, USP) for injection Prepared by cryodesiccation.
 
 25 mg
 
-of conjugated estrogens, USP, for injection.
+To be reconstituted with Sterile Water for Injection, USP.
+See package circular for reconstitution instructions and complete directions for use.
+Distributed by Wyeth Pharmaceuticals Inc A subsidiary of Pfizer Inc
 
-Rx only
+14513800 cod.
+229845
 
-Pfizer
+# PRINCIPAL DISPLAY PANEL - 25 mg Vial Carton
+
+Pfizer NDC 0046-0749-05 Rx only
+
+Premarin® Intravenous (conjugated estrogens, USP) for injection
+
+25 mg
+
+Prepared by cryodesiccation.
+
+This package provides one SECULE® vial containing 25 mg of conjugated estrogens, USP, for injection.

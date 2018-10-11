@@ -47,29 +47,3 @@ The WHI estrogen plus progestin substudy also demonstrated an increased risk of 
 In the absence of comparable data, these risks should be assumed to be similar for other doses of CE and MPA, and other combinations and dosage forms of estrogens and progestins.
 
 Estrogens with or without progestins should be prescribed at the lowest effective doses and for the shortest duration consistent with treatment goals and risks for the individual woman.
-
-What is the most important information I should know about Premarin Intravenous (an estrogen mixture)?
-
-- Using estrogen-alone increases your chance of getting cancer of the uterus (womb) Report any unusual vaginal bleeding right away.
-  Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb).
-  Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
-- Do not use estrogen-alone to prevent heart disease, heart attacks, strokes, or dementia (decline in brain function)
-- Using estrogen-alone may increase your chances of getting stroke or blood clots
-- Using estrogen-alone may increase your chance of getting dementia, based on a study of women 65 years of age or older
-- Do not use estrogens with progestins to prevent heart disease, heart attacks, strokes or dementia
-- Using estrogens with progestins may increase your chances of getting heart attacks, strokes, breast cancer, or blood clots
-- Using estrogens with progestins may increase your chance of getting dementia, based on a study of women 65 years of age or older
-- You and your healthcare provider should talk regularly about whether you still need treatment with estrogens
-
-What is the most important information I should know about Premarin Intravenous (an estrogen mixture)?
-
-- Using estrogen-alone increases your chance of getting cancer of the uterus (womb) Report any unusual vaginal bleeding right away.
-  Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb).
-  Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
-- Do not use estrogen-alone to prevent heart disease, heart attacks, strokes, or dementia (decline in brain function)
-- Using estrogen-alone may increase your chances of getting stroke or blood clots
-- Using estrogen-alone may increase your chance of getting dementia, based on a study of women 65 years of age or older
-- Do not use estrogens with progestins to prevent heart disease, heart attacks, strokes or dementia
-- Using estrogens with progestins may increase your chances of getting heart attacks, strokes, breast cancer, or blood clots
-- Using estrogens with progestins may increase your chance of getting dementia, based on a study of women 65 years of age or older
-- You and your healthcare provider should talk regularly about whether you still need treatment with estrogens.
