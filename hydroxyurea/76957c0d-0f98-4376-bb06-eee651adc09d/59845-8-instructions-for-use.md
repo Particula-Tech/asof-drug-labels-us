@@ -41,6 +41,6 @@ Keep SIKLOS and all medicines out of the reach of children.
 
 Distributed by: MEDUNIK USA.
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Issued: 12/2017
+Issued: 05/2018
 
 Special form to illustrate daily dose and how to handle tablets

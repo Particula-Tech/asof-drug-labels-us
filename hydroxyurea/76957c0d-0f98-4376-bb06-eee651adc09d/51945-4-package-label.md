@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 100 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 100 mg Tablet Bottle Carton
 
 NDC 71770-100-60
 
@@ -12,13 +12,11 @@ ATTENTION PHARMACIST: Each patient is required to receive the enclosed Medicatio
 
 addmedica
 
-# PRINCIPAL DISPLAY PANEL - 1,000 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 1,000 mg Tablet Bottle Carton
 
 NDC 71770-120-30
 
-Siklos® 1,000 mg
-
-(hydroxyurea) tablets
+Siklos® 1,000 mg (hydroxyurea) tablets
 
 1,000 mg per tablet
 
