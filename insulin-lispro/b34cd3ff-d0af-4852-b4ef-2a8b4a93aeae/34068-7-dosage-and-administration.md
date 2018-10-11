@@ -1,33 +1,31 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-Table 1*: Summary of Pharmacodynamic Properties of Insulin Products (Pooled Cross-Study Comparison)
+## 2.1 Important Administration Instructions
 
-| Insulin Products | Dose, U/kg | Time of Peak Activity, Hours After Dosing | Percent of Total Activity Occurring in the First 4 Hours |
-| --- | --- | --- | --- |
-| Humalog | 0.3 | 2.4 (0.8 - 4.3) | 70% (49 - 89%) |
-| Humulin R | 0.32 (0.26 - 0.37) | 4.4 (4.0 - 5.5) | 54% (38 - 65%) |
-| Humalog Mix75/25 | 0.3 | 2.6 (1.0 - 6.5) | 35% (21 - 56%) |
-| Humulin 70/30 | 0.3 | 4.4 (1.5 - 16) | 32% (14 - 60%) |
-| Humalog Mix50/50 | 0.3 | 2.3 (0.8 - 4.8) | 45% (27 - 69%) |
-| Humulin 50/50 | 0.3 | 3.3 (2.0 - 5.5) | 44% (21 - 60%) |
-| NPH | 0.32 (0.27 - 0.40) | 5.5 (3.5 - 9.5) | 14% (3.0 - 48%) |
-| NPL component | 0.3 | 5.8 (1.3 - 18.3) | 22% (6.3 - 40%) |
-| * The information supplied in Table 1 indicates when peak insulin activity can be expected and the percent of the total insulin activity occurring during the first 4 hours. The information was derived from 3 separate glucose clamp studies in nondiabetic subjects. Values represent means, with ranges provided in parentheses. |  |  |  |
+- Always check insulin labels before administration [see Warnings and Precautions (5.4)].
+- HUMALOG Mix50/50 is a suspension that must be resuspended immediately before use.
+  Resuspension is easier when the insulin has reached room temperature.
+- To resuspend vial, carefully invert the vial at least 10 times until the suspension appears uniformly white and cloudy.
+  Inject immediately.
+- To resuspend KwikPen, gently roll the KwikPen at least 10 times and then carefully invert the Kwikpen at least 10 times until the suspension appears uniformly white and cloudy.
+  Inject immediately.
+- Inspect HUMALOG Mix50/50 visually before use.
+  Do not use if discoloration or particulate matter is seen.
+- Administer HUMALOG Mix50/50 by subcutaneous injection into the abdominal wall, thigh, upper arm, or buttocks.
+- Rotate the injection site within the same region from one injection to the next to reduce the risk of lipodystrophy [see Adverse Reactions (6)].
+- The HUMALOG Mix50/50 KwikPen dials in 1 unit increments.
+- Use HUMALOG Mix5050 KwikPen with caution in patients with visual impairment that may rely on audible clicks to dial their dose.
+- Do not administer HUMALOG Mix50/50 intravenously, intramuscularly or by a continuous subcutaneous insulin infusion pump.
+- Do not mix HUMALOG Mix50/50 with any other insulins or diluents.
 
-Humalog Mix50/50 is intended only for subcutaneous administration.
-Humalog Mix50/50 should not be administered intravenously.
-Dosage regimens of Humalog Mix50/50 will vary among patients and should be determined by the healthcare provider familiar with the patient's metabolic needs, eating habits, and other lifestyle variables.
-Humalog has been shown to be equipotent to Regular human insulin on a molar basis.
-One unit of Humalog has the same glucose-lowering effect as one unit of Regular human insulin, but its effect is more rapid and of shorter duration.
-The quicker glucose-lowering effect of Humalog is related to the more rapid absorption rate of insulin lispro from subcutaneous tissue.
+## 2.2 Dosage Information
 
-Direct comparison between Humalog Mix50/50 and Humulin 50/50 was not performed.
-However, a cross-study comparison shown in Figure 3 suggests that Humalog Mix50/50 has a duration of activity that is similar to Humulin 50/50.
+- Individualize and adjust the dosage of HUMALOG Mix50/50 based on the individual's metabolic needs, blood glucose monitoring results and glycemic control goal.
+- Inject HUMALOG Mix50/50 subcutaneously within 15 minutes before a meal.
+- HUMALOG Mix50/50 is typically dosed twice-daily (with each dose intended to cover 2 meals or a meal and a snack)
+- Dosage adjustments may be needed with changes in physical activity, changes in meal patterns (i.e., macronutrient content or timing of food intake), changes in renal or hepatic function or during acute illness [see Warnings and Precautions (5.2, 5.3) and Use in Specific Populations (8.6, 8.7)].
+- Dosage adjustment may be needed when switching from another insulin to HUMALOG Mix50/50.
 
-The rate of insulin absorption and consequently the onset of activity are known to be affected by the site of injection, exercise, and other variables.
-As with all insulin preparations, the time course of action of Humalog Mix50/50 may vary considerably in different individuals or within the same individual.
-Patients must be educated to use proper injection techniques.
+## 2.3 Dosage Adjustment Due to Drug Interactions
 
-Humalog Mix50/50 should be inspected visually before use.
-Humalog Mix50/50 should be used only if it appears uniformly cloudy after mixing.
-Humalog Mix50/50 should not be used after its expiration date.
+- Dosage adjustment may be needed when HUMALOG Mix50/50 is coadministered with certain drugs [see Drug Interactions (7)].

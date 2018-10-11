@@ -1,34 +1,27 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Humalog Mix50/50 [50% insulin lispro protamine suspension and 50% insulin lispro injection, (rDNA origin)] is available in the following package sizes: each presentation containing 100 units insulin lispro per mL (U-100).
+## 16.1 How Supplied
 
-| 10 mL vials | NDC 0002-7512-01 (VL-7512) |
+HUMALOG Mix50/50 injectable suspension 100 units per mL (U-100) is 50% insulin lispro protamine and 50% insulin lispro, a white and cloudy suspension available as:
+
+| 10 mL multiple-dose vial | NDC 0002-7512-01 |
 | --- | --- |
-| 5 x 3 mL prefilled insulin delivery devices (KwikPen®) | NDC 0002-8798-59 (HP-8798) |
+| 3 mL single-patient-use KwikPen (prefilled) | NDC 0002-8798-59 |
 
-Each prefilled Humalog Mix50/50 KwikPen is for use by a single patient.
-Humalog Mix50/50 KwikPens must never be shared between patients, even if the needle is changed.
-Patients using Humalog Mix50/50 vials must never share needles or syringes with another person.
+HUMALOG Mix50/50 KwikPens must never be shared between patients, even if the needle is changed.
+Patients using HUMALOG Mix50/50 vials must never share needles or syringes with another person.
+Always use a new disposable syringe or needle for each injection to prevent contamination.
 
-Storage — Humalog Mix50/50 should be stored in a refrigerator [2° to 8°C (36° to 46°F)], but not in the freezer.
-Do not use Humalog Mix50/50 if it has been frozen.
-Unrefrigerated [below 30°C (86°F)] vials must be used within 28 days or be discarded, even if they still contain Humalog Mix50/50.
-Unrefrigerated [below 30°C (86°F)] KwikPens must be used within 10 days or be discarded, even if they still contain Humalog Mix50/50.
+The HUMALOG Mix50/50 KwikPen dials in 1 unit increments.
+
+## 16.2 Storage and Handling
+
+Do not use after the expiration date.
 Protect from direct heat and light.
-See table below:
+Do not freeze.
+See storage table below:
 
-|  | Not In-Use (Unopened) Room Temperature [Below 30°C (86°F)] | Not In-Use (Unopened) Refrigerated | In-Use (Opened) Room Temperature [Below 30°C (86°F)] |
+|  | Not In-Use (Unopened) Refrigerated (36° to 46°F [2° to 8°C]) | Not In Use (unopened) Room Temperature (Below 86°F [30°C]) | In-Use (Opened) Room Temperature, (Below 86°F [30°C]) |
 | --- | --- | --- | --- |
-| 10 mL Vial | 28 days | Until expiration date | 28 days, refrigerated/room temperature. |
-| 3 mL KwikPen (prefilled) | 10 days | Until expiration date | 10 days. Do not refrigerate. |
-
-Literature revised May 11, 2018
-
-Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
-
-www.humalog.com
-
-Copyright © 2007, 2018, Eli Lilly and Company.
-All rights reserved.
-
-LOG5050-0002-USPI-20180511
+| 10 mL multiple-dose vial | Until expiration date | 28 days | 28 days, refrigerated/room temperature |
+| 3 mL single-patient-use KwikPen | Until expiration date | 10 days | 10 days, room temperature. Do not refrigerate. |

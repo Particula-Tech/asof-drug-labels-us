@@ -1,10 +1,8 @@
-# PACKAGE CARTON – HUMALOG Mix50/50 10 mL vial
+PACKAGE CARTON – HUMALOG Mix50/50 10 mL vial 1ct
 
 NDC 0002-7512-01
 
 10 mL
-
-VL-7512
 
 100 units per mL
 
@@ -12,13 +10,11 @@ Humalog®
 
 Mix50/50™
 
-50% insulin lispro
+insulin lispro protamine
 
-protamine suspension
+and insulin lispro
 
-50% insulin lispro injection
-
-(rDNA origin)
+injectable suspension
 
 For subcutaneous use only.
 
@@ -30,7 +26,7 @@ www.humalog.com
 
 Lilly
 
-# PACKAGE CARTON – HUMALOG Mix50/50 KwikPen
+PACKAGE CARTON – HUMALOG Mix50/50 KwikPen 5ct
 
 NDC 0002-8798-59
 
@@ -38,9 +34,9 @@ Humalog® Mix50/50™
 
 KwikPen®
 
-50% insulin lispro protamine suspension
+insulin lispro protamine and insulin lispro
 
-50% insulin lispro injection (rDNA origin)
+injectable suspension
 
 For Single Patient Use Only
 

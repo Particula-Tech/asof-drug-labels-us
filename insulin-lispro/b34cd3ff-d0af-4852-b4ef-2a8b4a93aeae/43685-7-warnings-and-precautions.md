@@ -1,106 +1,59 @@
-# WARNINGS
+# 5 WARNINGS AND PRECAUTIONS
 
-Humalog® Mix50/50™ KwikPens® must never be shared between patients, even if the needle is changed.
-Patients using Humalog Mix50/50 vials must never share needles or syringes with another person.
+## 5.1 Never Share a HUMALOG Mix50/50 KwikPen or Syringe Between Patients
+
+HUMALOG Mix50/50 KwikPens must never be shared between patients, even if the needle is changed.
+Patients using HUMALOG Mix50/50 vials must never share needles or syringes with another person.
 Sharing poses a risk for transmission of blood-borne pathogens.
 
-Humalog differs from Regular human insulin by its rapid onset of action as well as a shorter duration of activity.
-Therefore, the dose of Humalog Mix50/50 should be given within 15 minutes before a meal.
+## 5.2 Hyperglycemia or Hypoglycemia with Changes in Insulin Regimen
 
-Hypoglycemia is the most common adverse effect associated with the use of insulins, including Humalog Mix50/50.
-As with all insulins, the timing of hypoglycemia may differ among various insulin formulations.
-Glucose monitoring is recommended for all patients with diabetes.
+Changes in insulin strength, manufacturer, type, or method of administration may affect glycemic control and predispose to hypoglycemia [see Warnings and Precautions (5.3)] or hyperglycemia.
+These changes should be made cautiously and under close medical supervision and the frequency of blood glucose monitoring should be increased.
+For patients with type 2 diabetes, dosage adjustments of concomitant anti-diabetic products may be needed.
 
-Any change of insulin should be made cautiously and only under medical supervision.
-Changes in insulin strength, manufacturer, type (e.g., Regular, NPH, analog), species, or method of manufacture may result in the need for a change in dosage.
+## 5.3 Hypoglycemia
 
-Fluid retention and heart failure with concomitant use of PPAR-gamma agonists: Thiazolidinediones (TZDs), which are peroxisome proliferator-activated receptor (PPAR)-gamma agonists, can cause dose-related fluid retention, particularly when used in combination with insulin.
+Hypoglycemia is the most common adverse reaction associated with all insulin therapies, including HUMALOG Mix50/50.
+Severe hypoglycemia can cause seizures, may lead to unconsciousness, may be life-threatening, or cause death.
+Hypoglycemia can impair concentration ability and reaction time, this may place an individual and others at risk in situations where these abilities are important (e.g., driving or operating other machinery).
+
+Hypoglycemia can happen suddenly and symptoms may differ in each individual and change over time in the same individual.
+Symptomatic awareness of hypoglycemia may be less pronounced in patients with longstanding diabetes, in patients with diabetic nerve disease, in patients using medications that block the sympathetic nervous system (e.g., beta-blockers) [see Drug Interactions (7)], or in patients who experience recurrent hypoglycemia.
+
+Risk Factors for Hypoglycemia
+
+The risk of hypoglycemia after an injection is related to the duration of action of the insulin and in general, is highest when the glucose lowering effect of the insulin is maximal.
+As with all insulin preparations, the glucose lowering effect time course of HUMALOG Mix50/50 may vary in different individuals or at different times in the same individual and depends on many conditions, including the area of injection as well as the injection site blood supply and temperature [see Clinical Pharmacology (12.2)].
+Other factors which may increase the risk of hypoglycemia include changes in meal pattern (e.g., macronutrient content or timing of meals), changes in level of physical activity, or changes to co-administered medication [see Drug Interactions (7)].
+Patients with renal or hepatic impairment may be at higher risk of hypoglycemia [see Use in Specific Populations (8.6, 8.7)].
+
+Risk Mitigation Strategies for Hypoglycemia
+
+Patients and caregivers must be educated to recognize and manage hypoglycemia.
+Self-monitoring of blood glucose plays an essential role in the prevention and management of hypoglycemia.
+In patients at higher risk for hypoglycemia and patients who have reduced symptomatic awareness of hypoglycemia, increased frequency of blood glucose monitoring is recommended.
+
+## 5.4 Hypoglycemia Due to Medication Errors
+
+Accidental mix-ups between HUMALOG Mix50/50 and other insulin products have been reported.
+To avoid medication errors between HUMALOG Mix50/50 and other insulins, instruct patients to always check the insulin label before each injection.
+
+## 5.5 Hypersensitivity Reactions
+
+Severe, life-threatening, generalized allergy, including anaphylaxis, can occur with insulin products, including HUMALOG Mix50/50.
+If hypersensitivity reactions occur, discontinue HUMALOG Mix50/50; treat per standard of care and monitor until symptoms and signs resolve.
+HUMALOG Mix50/50 is contraindicated in patients who have had hypersensitivity reactions to HUMALOG Mix50/50 or any of its excipients [see Contraindications (4)].
+
+## 5.6 Hypokalemia
+
+All insulin products, including HUMALOG Mix50/50, cause a shift in potassium from the extracellular to intracellular space, possibly leading to hypokalemia.
+Untreated hypokalemia may cause respiratory paralysis, ventricular arrhythmia, and death.
+Monitor potassium levels in patients at risk for hypokalemia if indicated (e.g., patients using potassium-lowering medications, patients taking medications sensitive to serum potassium concentrations).
+
+## 5.7 Fluid Retention and Heart Failure with Concomitant Use of PPAR-gamma Agonists
+
+Thiazolidinediones (TZDs), which are peroxisome proliferator-activated receptor (PPAR)-gamma agonists, can cause dose-related fluid retention, particularly when used in combination with insulin.
 Fluid retention may lead to or exacerbate heart failure.
-Patients treated with insulin, including Humalog Mix50/50, and a PPAR-gamma agonist should be observed for signs and symptoms of heart failure.
+Patients treated with insulin, including HUMALOG Mix50/50, and a PPAR-gamma agonist should be observed for signs and symptoms of heart failure.
 If heart failure develops, it should be managed according to current standards of care, and discontinuation or dose reduction of the PPAR-gamma agonist must be considered.
-
-# PRECAUTIONS
-
-## General
-
-Hypoglycemia and hypokalemia are among the potential clinical adverse effects associated with the use of all insulins.
-Because of differences in the action of Humalog Mix50/50 and other insulins, care should be taken in patients in whom such potential side effects might be clinically relevant (e.g., patients who are fasting, have autonomic neuropathy, or are using potassium-lowering drugs or patients taking drugs sensitive to serum potassium level).
-Lipodystrophy and hypersensitivity are among other potential clinical adverse effects associated with the use of all insulins.
-
-As with all insulin preparations, the time course of Humalog Mix50/50 action may vary in different individuals or at different times in the same individual and is dependent on site of injection, blood supply, temperature, and physical activity.
-
-Adjustment of dosage of any insulin may be necessary if patients change their physical activity or their usual meal plan.
-Insulin requirements may be altered during illness, emotional disturbances, or other stress.
-
-Hypoglycemia — As with all insulin preparations, hypoglycemic reactions may be associated with the administration of Humalog Mix50/50.
-Rapid changes in serum glucose concentrations may induce symptoms of hypoglycemia in persons with diabetes, regardless of the glucose value.
-Early warning symptoms of hypoglycemia may be different or less pronounced under certain conditions, such as long duration of diabetes, diabetic nerve disease, use of medications such as beta-blockers, or intensified diabetes control.
-
-Renal Impairment — As with other insulins, the requirements for Humalog Mix50/50 may be reduced in patients with renal impairment.
-
-Hepatic Impairment — Although impaired hepatic function does not affect the absorption or disposition of Humalog, careful glucose monitoring and dose adjustments of insulin, including Humalog Mix50/50, may be necessary.
-
-Allergy — Local Allergy — As with any insulin therapy, patients may experience redness, swelling, or itching at the site of injection.
-These minor reactions usually resolve in a few days to a few weeks.
-In some instances, these reactions may be related to factors other than insulin, such as irritants in the skin cleansing agent or poor injection technique.
-
-Systemic Allergy — Less common, but potentially more serious, is generalized allergy to insulin, which may cause rash (including pruritus) over the whole body, shortness of breath, wheezing, reduction in blood pressure, rapid pulse, or sweating.
-Severe cases of generalized allergy, including anaphylactic reaction, may be life threatening.
-Localized reactions and generalized myalgias have been reported with the use of cresol as an injectable excipient.
-
-Antibody Production — In clinical trials, antibodies that cross-react with human insulin and insulin lispro were observed in both human insulin mixtures and insulin lispro mixtures treatment groups.
-
-## Information for Patients
-
-Patients should be informed of the potential risks and advantages of Humalog Mix50/50 and alternative therapies.
-Patients should not mix Humalog Mix50/50 with any other insulin.
-They should also be informed about the importance of proper insulin storage, injection technique, timing of dosage, adherence to meal planning, regular physical activity, regular blood glucose monitoring, periodic hemoglobin A1c testing, recognition and management of hypo- and hyperglycemia, and periodic assessment for diabetes complications.
-
-Patients should be advised to inform their physician if they are pregnant or intend to become pregnant.
-
-Refer patients to the Patient Information leaflet for information on normal appearance, timing of dosing (within 15 minutes before a meal), storing, and common adverse effects.
-
-For Patients Using Insulin Pen Delivery Devices: Before starting therapy, patients should read the Patient Information leaflet that accompanies the drug product and the User Manual that accompanies the delivery device and re-read them each time the prescription is renewed.
-Patients should be instructed on how to properly use the delivery device, prime the Pen to a stream of insulin, and properly dispose of needles.
-Patients should be advised not to share their Pens with others.
-
-## Laboratory Tests
-
-As with all insulins, the therapeutic response to Humalog Mix50/50 should be monitored by periodic blood glucose tests.
-Periodic measurement of hemoglobin A1c is recommended for the monitoring of long-term glycemic control.
-
-## Drug Interactions
-
-Insulin requirements may be increased by medications with hyperglycemic activity such as corticosteroids, isoniazid, certain lipid-lowering drugs (e.g., niacin), estrogens, oral contraceptives, phenothiazines, and thyroid replacement therapy.
-
-Insulin requirements may be decreased in the presence of drugs that increase insulin sensitivity or have hypoglycemic activity, such as oral antidiabetic agents, salicylates, sulfa antibiotics, certain antidepressants (monoamine oxidase inhibitors), angiotensin-converting-enzyme inhibitors, angiotensin II receptor blocking agents, beta-adrenergic blockers, inhibitors of pancreatic function (e.g., octreotide), and alcohol.
-Beta-adrenergic blockers may mask the symptoms of hypoglycemia in some patients.
-
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
-
-Long-term studies in animals have not been performed to evaluate the carcinogenic potential of Humalog, Humalog Mix75/25, or Humalog Mix50/50.
-Insulin lispro was not mutagenic in a battery of in vitro and in vivo genetic toxicity assays (bacterial mutation tests, unscheduled DNA synthesis, mouse lymphoma assay, chromosomal aberration tests, and a micronucleus test).
-There is no evidence from animal studies of impairment of fertility induced by insulin lispro.
-
-## Pregnancy
-
-Reproduction studies with insulin lispro have been performed in pregnant rats and rabbits at parenteral doses up to 4 and 0.3 times, respectively, the average human dose (40 units/day) based on body surface area.
-The results have revealed no evidence of impaired fertility or harm to the fetus due to insulin lispro.
-There are, however, no adequate and well-controlled studies with Humalog, Humalog Mix75/25, or Humalog Mix50/50 in pregnant women.
-Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
-
-## Nursing Mothers
-
-It is unknown whether insulin lispro is excreted in significant amounts in human milk.
-Many drugs, including human insulin, are excreted in human milk.
-For this reason, caution should be exercised when Humalog Mix50/50 is administered to a nursing woman.
-Patients with diabetes who are lactating may require adjustments in Humalog Mix50/50 dose, meal plan, or both.
-
-## Pediatric Use
-
-Safety and effectiveness of Humalog Mix50/50 in patients less than 18 years of age have not been established.
-
-## Geriatric Use
-
-Clinical studies of Humalog Mix50/50 did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently than younger patients.
-In general, dose selection for an elderly patient should take into consideration the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy in this population.

@@ -1,82 +1,38 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## Antidiabetic Activity
+## 12.1 Mechanism of Action
 
-The primary activity of insulin, including Humalog Mix50/50, is the regulation of glucose metabolism.
-In addition, all insulins have several anabolic and anti-catabolic actions on many tissues in the body.
-In muscle and other tissues (except the brain), insulin causes rapid transport of glucose and amino acids intracellularly, promotes anabolism, and inhibits protein catabolism.
-In the liver, insulin promotes the uptake and storage of glucose in the form of glycogen, inhibits gluconeogenesis, and promotes the conversion of excess glucose into fat.
+The primary activity of insulin including HUMALOG Mix50/50 is the regulation of glucose metabolism.
+Insulins lower blood glucose by stimulating peripheral glucose uptake by skeletal muscle and fat, and by inhibiting hepatic glucose production.
+Insulins inhibit lipolysis and proteolysis, and enhance protein synthesis.
 
-Insulin lispro, the rapid-acting component of Humalog Mix50/50, has been shown to be equipotent to Regular human insulin on a molar basis.
-One unit of Humalog® has the same glucose-lowering effect as one unit of Regular human insulin, but its effect is more rapid and of shorter duration.
+## 12.2 Pharmacodynamics
 
-## Pharmacokinetics
-
-Absorption — Studies in nondiabetic subjects and patients with type 1 (insulin-dependent) diabetes demonstrated that Humalog, the rapid-acting component of Humalog Mix50/50, is absorbed faster than Regular human insulin (U-100).
-In nondiabetic subjects given subcutaneous doses of Humalog ranging from 0.1 to 0.4 U/kg, peak serum concentrations were observed 30 to 90 minutes after dosing.
-When nondiabetic subjects received equivalent doses of Regular human insulin, peak insulin concentrations occurred between 50 to 120 minutes after dosing.
-Similar results were seen in patients with type 1 diabetes.
-
-Humalog Mix50/50 has two phases of absorption.
-The early phase represents insulin lispro and its distinct characteristics of rapid onset.
-The late phase represents the prolonged action of insulin lispro protamine suspension.
-In 30 healthy nondiabetic subjects given subcutaneous doses (0.3 U/kg) of Humalog Mix50/50, peak serum concentrations were observed 45 minutes to 13.5 hours (median, 60 minutes) after dosing (see Figure 1).
-In patients with type 1 diabetes, peak serum concentrations were observed 45 minutes to 120 minutes (median, 60 minutes) after dosing.
-The rapid absorption characteristics of Humalog are maintained with Humalog Mix50/50 (see Figure 1).
-
-Direct comparison of Humalog Mix50/50 and Humulin 50/50 was not performed.
-However, a cross-study comparison shown in Figure 1 suggests that Humalog Mix50/50 has a more rapid absorption than Humulin 50/50.
-
-Distribution — Radiolabeled distribution studies of Humalog Mix50/50 have not been conducted.
-However, the volume of distribution following injection of Humalog is identical to that of Regular human insulin, with a range of 0.26 to 0.36 L/kg.
-
-Metabolism — Human metabolism studies of Humalog Mix50/50 have not been conducted.
-Studies in animals indicate that the metabolism of Humalog, the rapid-acting component of Humalog Mix50/50, is identical to that of Regular human insulin.
-
-Elimination — Humalog Mix50/50 has two absorption phases, a rapid and a prolonged phase, representative of the insulin lispro and insulin lispro protamine suspension components of the mixture.
-As with other intermediate-acting insulins, a meaningful terminal phase half-life cannot be calculated after administration of Humalog Mix50/50 because of the prolonged insulin lispro protamine suspension absorption.
-
-## Pharmacodynamics
-
-Studies in nondiabetic subjects and patients with diabetes demonstrated that Humalog has a more rapid onset of glucose-lowering activity, an earlier peak for glucose-lowering, and a shorter duration of glucose-lowering activity than Regular human insulin.
-The early onset of activity of Humalog Mix50/50 is directly related to the rapid absorption of Humalog.
-The time course of action of insulin and insulin analogs, such as Humalog (and hence Humalog Mix50/50), may vary considerably in different individuals or within the same individual.
-The parameters of Humalog Mix50/50 activity (time of onset, peak time, and duration) as presented in Figures 2 and 3 should be considered only as general guidelines.
-The rate of insulin absorption and consequently the onset of activity is known to be affected by the site of injection, exercise, and other variables (see General under PRECAUTIONS).
-
-In a glucose clamp study performed in 30 nondiabetic subjects, the onset of action and glucose-lowering activity of Humalog, Humalog Mix50/50, Humalog® Mix75/25™, and insulin lispro protamine suspension (NPL component) were compared (see Figure 2).
+In a glucose clamp study performed in 30 healthy subjects, the onset of action and glucose-lowering activity of HUMALOG, HUMALOG Mix50/50, HUMALOG® Mix75/25™, and insulin lispro protamine suspension (ILPS) were compared (see Figure 1).
 Graphs of mean glucose infusion rate versus time showed a distinct insulin activity profile for each formulation.
-The rapid onset of glucose-lowering activity characteristic of Humalog was maintained in Humalog Mix50/50.
+The rapid onset of glucose-lowering activity characteristic of HUMALOG was maintained in HUMALOG Mix50/50.
+The median maximum pharmacologic effect of HUMALOG Mix50/50 after administration of a 0.3 unit/kg dose to healthy subjects occurred at 2 hours (range: 1-5 hours); glucose lowering activity was detectable for a median of 22 hours (range: 11 to 22 hours), which was the end of the clamp.
 
-Direct comparison between Humalog Mix50/50 and Humulin 50/50 was not performed.
-However, a cross-study comparison shown on Figure 3 suggests that Humalog Mix50/50 has a duration of activity that is similar to Humulin 50/50.
+Figure 1 should be considered only as a representative example since the time course of action of insulin and insulin analogs, may vary in different individuals or within the same individual.
 
-Figures 2 and 3 represent insulin activity profiles as measured by glucose clamp studies in healthy nondiabetic subjects.
+Figure 1: Mean Insulin Activity Versus Time Profiles After Injection of 0.3 units/kg of HUMALOG, HUMALOG Mix50/50, HUMALOG Mix75/25, or Insulin Lispro Protamine Suspension (ILPS) in 30 Healthy Subjects.
 
-Figure 2 shows the time activity profiles of Humalog, Humalog Mix75/25, Humalog Mix50/50, and insulin lispro protamine suspension (NPL component).
+## 12.3 Pharmacokinetics
 
-Figure 3 is a comparison of the time activity profiles of Humalog Mix50/50 (see Figure 3a) and of Humulin 50/50 (see Figure 3b) from two different studies.
+Absorption — HUMALOG Mix50/50 has two phases of absorption.
+The early phase represents insulin lispro and its distinct characteristics of rapid onset.
+The late phase represents the prolonged absorption of insulin lispro protamine suspension.
 
-### Special Populations
+In 30 healthy subjects given subcutaneous doses (0.3 unit/kg) of HUMALOG Mix50/50, the median peak serum concentration occurred at 60 minutes (range: 45 minutes to 13.5 hours) after dosing.
+In patients with type 1 diabetes, the median peak serum concentration occurred at 60 minutes (range: 45 minutes to 2 hours) after dosing.
 
-Age and Gender — Information on the effect of age on the pharmacokinetics of Humalog Mix50/50 is unavailable.
-Pharmacokinetic and pharmacodynamic comparisons between men and women administered Humalog Mix50/50 showed no gender differences.
-In large Humalog clinical trials, sub-group analysis based on age and gender demonstrated that differences between Humalog and Regular human insulin in postprandial glucose parameters are maintained across sub-groups.
+Metabolism — Human metabolism studies of HUMALOG Mix50/50 have not been conducted.
+However, studies in animals indicate that the metabolism of HUMALOG, the rapid-acting component of HUMALOG Mix50/50, is identical to that of regular human insulin.
 
-Smoking — The effect of smoking on the pharmacokinetics and pharmacodynamics of Humalog Mix50/50 has not been studied.
+Elimination — Because of the absorption-rate limited kinetics of insulin mixtures, a true half-life cannot be accurately estimated from the terminal slope of the concentration versus time curve.
 
-Pregnancy — The effect of pregnancy on the pharmacokinetics and pharmacodynamics of Humalog Mix50/50 has not been studied.
+Specific Populations
 
-Obesity — The effect of obesity and/or subcutaneous fat thickness on the pharmacokinetics and pharmacodynamics of Humalog Mix50/50 has not been studied.
-In large clinical trials, which included patients with Body Mass Index up to and including 35 kg/m2, no consistent differences were observed between Humalog and Humulin® R with respect to postprandial glucose parameters.
+The effects of age, race, obesity, pregnancy, smoking, or renal or hepatic impairment on the pharmacokinetics of HUMALOG Mix50/50 have not been studied.
 
-Renal Impairment — The effect of renal impairment on the pharmacokinetics and pharmacodynamics of Humalog Mix50/50 has not been studied.
-In a study of 25 patients with type 2 diabetes and a wide range of renal function, the pharmacokinetic differences between Humalog and Regular human insulin were generally maintained.
-However, the sensitivity of the patients to insulin did change, with an increased response to insulin as the renal function declined.
-Careful glucose monitoring and dose reductions of insulin, including Humalog Mix50/50, may be necessary in patients with renal dysfunction.
-
-Hepatic Impairment — Some studies with human insulin have shown increased circulating levels of insulin in patients with hepatic failure.
-The effect of hepatic impairment on the pharmacokinetics and pharmacodynamics of Humalog Mix50/50 has not been studied.
-However, in a study of 22 patients with type 2 diabetes, impaired hepatic function did not affect the subcutaneous absorption or general disposition of Humalog when compared with patients with no history of hepatic dysfunction.
-In that study, Humalog maintained its more rapid absorption and elimination when compared with Regular human insulin.
-Careful glucose monitoring and dose adjustments of insulin, including Humalog Mix50/50, may be necessary in patients with hepatic dysfunction.
+Gender — Pharmacokinetic and pharmacodynamic comparisons between men and women administered HUMALOG Mix50/50 showed no gender differences.
