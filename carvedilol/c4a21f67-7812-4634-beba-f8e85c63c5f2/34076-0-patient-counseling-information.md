@@ -14,11 +14,15 @@ Patients taking carvedilol should be advised of the following:
 - •Diabetic patients should report any changes in blood sugar levels to their physician.
 - •Contact lens wearers may experience decreased lacrimation.
 
-- Manufactured by:
-- Glenmark Pharmaceuticals Ltd. India
-- Manufactured for: Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
-- Questions?
-  1 (888)721-7115
-- www.glenmarkpharma.com/usa
+Manufactured by:
 
-December 2015
+Glenmark Pharmaceuticals Ltd. India
+
+Manufactured for: Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430 Questions?
+1 (888)721-7115 www.glenmarkpharma.com/usa
+
+September 2018
+
+- PHARMACIST-DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

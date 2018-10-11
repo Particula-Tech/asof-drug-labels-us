@@ -7,7 +7,7 @@ Carvedilol has no intrinsic sympathomimetic activity.
 
 ## 12.2 Pharmacodynamics
 
-Heart Failure:
+Heart Failure
 
 The basis for the beneficial effects of carvedilol in heart failure is not established.
 
@@ -18,15 +18,15 @@ Initial effects on cardiac output, stroke volume index, and systemic vascular re
 These trials measured hemodynamic effects again at 12 to 14 weeks.
 Carvedilol significantly reduced systemic blood pressure, pulmonary artery pressure, right atrial pressure, systemic vascular resistance, and heart rate, while stroke volume index was increased.
 
-Among 839 subjects with NYHA class II-III heart failure treated for 26 to 52 weeks in 4 US placebo-controlled trials, average left ventricular ejection fraction (EF) measured by radionuclide ventriculography increased by 9 EF units (%) in subjects receiving carvedilol and by 2 EF units in placebo subjects at a target dose of 25 to 50 mg twice daily.
+Among 839 subjects with NYHA class II-III heart failure treated for 26 to 52 weeks in 4 U.S. placebo-controlled trials, average left ventricular ejection fraction (EF) measured by radionuclide ventriculography increased by 9 EF units (%) in subjects receiving carvedilol and by 2 EF units in placebo subjects at a target dose of 25 to 50 mg twice daily.
 The effects of carvedilol on ejection fraction were related to dose.
 Doses of 6.25 mg twice daily, 12.5 mg twice daily, and 25 mg twice daily were associated with placebo-corrected increases in EF of 5 EF units, 6 EF units, and 8 EF units, respectively; each of these effects were nominally statistically significant
 
-Left Ventricular Dysfunction Following Myocardial Infarction:
+Left Ventricular Dysfunction following Myocardial Infarction
 
 The basis for the beneficial effects of carvedilol in patients with left ventricular dysfunction following an acute myocardial infarction is not established.
 
-Hypertension:
+Hypertension
 
 The mechanism by which β-blockade produces an antihypertensive effect has not been established.
 
@@ -83,25 +83,25 @@ Plasma clearance ranges from 500 to 700 mL/min.
 
 ## 12.4 Specific Populations
 
-Heart Failure:
+Heart Failure
 
 Steady-state plasma concentrations of carvedilol and its enantiomers increased proportionally over the 6.25 to 50 mg dose range in subjects with heart failure.
-Compared with healthy subjects, heart failure subjects had increased mean AUC and Cmax values for carvedilol and its enantiomers, with up to 50% to 100% higher values observed in 6 subjects with NYHA class IV heart failure.
-The mean apparent terminal elimination half-life for carvedilol was similar to that observed in healthy subjects
+Compared with healthy subjects, subjects with heart failure had increased mean AUC and Cmax values for carvedilol and its enantiomers, with up to 50% to 100% higher values observed in 6 subjects with NYHA class IV heart failure.
+The mean apparent terminal elimination half-life for carvedilol was similar to that observed in healthy subjects.
 
-Geriatric:
+Geriatric
 
 Plasma levels of carvedilol average about 50% higher in the elderly compared with young subjects.
 
-Hepatic Impairment:
+Hepatic Impairment
 
 Compared with healthy subjects, patients with severe liver impairment (cirrhosis) exhibit a 4 to 7 fold increase in carvedilol levels.
 Carvedilol is contraindicated in patients with severe liver impairment.
 
-Renal Impairment:
+Renal Impairment
 
-Although carvedilol is metabolized primarily by the liver, plasma concentrations of carvedilol have been reported to be increased in subjects with renal impairment.
-Based on mean AUC data, approximately 40% to 50% higher plasma concentrations of carvedilol were observed in hypertensive subjects with moderate to severe renal impairment compared with a control group of hypertensive subjects with normal renal function.
+Although carvedilol is metabolized primarily by the liver, plasma concentrations of carvedilol have been reported to be increased in patients with renal impairment.
+Based on mean AUC data, approximately 40% to 50% higher plasma concentrations of carvedilol were observed in subjects with hypertension and moderate to severe renal impairment compared with a control group of subjects with hypertension and normal renal function.
 However, the ranges of AUC values were similar for both groups.
 Changes in mean peak plasma levels were less pronounced, approximately 12% to 26% higher in subjects with impaired renal function.
 
@@ -111,35 +111,35 @@ Consistent with its high degree of plasma protein-binding, carvedilol does not a
 
 Since carvedilol undergoes substantial oxidative metabolism, the metabolism and pharmacokinetics of carvedilol may be affected by induction or inhibition of cytochrome P450 enzymes.
 
-Amiodarone:
+Amiodarone
 
 In a pharmacokinetic trial conducted in 106 Japanese subjects with heart failure, coadministration of small loading and maintenance doses of amiodarone with carvedilol resulted in at least a 2-fold increase in the steady-state trough concentrations of S(-) carvedilol [see Drug Interactions (7.6)].
 
-Cimetidine:
+Cimetidine
 
 In a pharmacokinetic trial conducted in 10 healthy male subjects, cimetidine (1,000 mg per day) increased the steady-state AUC of carvedilol by 30% with no change in Cmax[see Drug Interactions (7.5)].
 
-Digoxin:
+Digoxin
 
-Following concomitant administration of carvedilol (25 mg once daily) and digoxin (0.25 mg once daily) for 14 days, steady-state AUC and trough concentrations of digoxin were increased by 14% and 16%, respectively, in 12 hypertensive subjects [see Drug Interactions (7.4)].
+Following concomitant administration of carvedilol (25 mg once daily) and digoxin (0.25 mg once daily) for 14 days, steady-state AUC and trough concentrations of digoxin were increased by 14% and 16%, respectively, in 12 subjects with hypertension [see Drug Interactions (7.4)].
 
-Glyburide:
+Glyburide
 
 In 12 healthy subjects, combined administration of carvedilol (25 mg once daily) and a single dose of glyburide did not result in a clinically relevant pharmacokinetic interaction for either compound.
 
-Hydrochlorothiazide:
+Hydrochlorothiazide
 
 A single oral dose of carvedilol 25 mg did not alter the pharmacokinetics of a single oral dose of hydrochlorothiazide 25 mg in 12 subjects with hypertension.
 Likewise, hydrochlorothiazide had no effect on the pharmacokinetics of carvedilol.
 
-Rifampin:
+Rifampin
 
 In a pharmacokinetic trial conducted in 8 healthy male subjects, rifampin (600 mg daily for 12 days) decreased the AUC and Cmax of carvedilol by about 70% [see Drug Interactions (7.5)].
 
-Torsemide:
+Torsemide
 
 In a trial of 12 healthy subjects, combined oral administration of carvedilol 25 mg once daily and torsemide 5 mg once daily for 5 days did not result in any significant differences in their pharmacokinetics compared with administration of the drugs alone.
 
-Warfarin:
+Warfarin
 
 Carvedilol (12.5 mg twice daily) did not have an effect on the steady-state prothrombin time ratios and did not alter the pharmacokinetics of R(+)- and S(-)-warfarin following concomitant administration with warfarin in 9 healthy volunteers.

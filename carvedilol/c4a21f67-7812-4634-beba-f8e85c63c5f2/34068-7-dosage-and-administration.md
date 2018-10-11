@@ -22,7 +22,7 @@ The dose of carvedilol tablets should be reduced if patients experience bradycar
 
 Episodes of dizziness or fluid retention during initiation of carvedilol tablets can generally be managed without discontinuation of treatment and do not preclude subsequent successful titration of, or a favorable response to, carvedilol.
 
-## 2.2 Left Ventricular Dysfunction Following Myocardial Infarction
+## 2.2 Left Ventricular Dysfunction following Myocardial Infarction
 
 DOSAGE MUST BE INDIVIDUALIZED AND MONITORED DURING UP-TITRATION.
 Treatment with carvedilol tablets may be started as an inpatient or outpatient and should be started after the patient is hemodynamically stable and fluid retention has been minimized.
@@ -35,9 +35,7 @@ The recommended dosing regimen need not be altered in patients who received trea
 
 DOSAGE MUST BE INDIVIDUALIZED.
 The recommended starting dose of carvedilol tablets is 6.25 mg twice daily.
-If this dose is tolerated, using standing systolic pressure measured about 1 hour after dosing as a guide, the dose should be maintained for 7 to 14 days, and then increased to 12.5 mg twice daily if needed, based on trough blood pressure, again using standing systolic pressure
-
-1 hour after dosing as a guide for tolerance.
+If this dose is tolerated, using standing systolic pressure measured about 1 hour after dosing as a guide, the dose should be maintained for 7 to 14 days, and then increased to 12.5 mg twice daily if needed, based on trough blood pressure, again using standing systolic pressure 1 hour after dosing as a guide for tolerance.
 This dose should also be maintained for 7 to 14 days and can then be adjusted upward to 25 mg twice daily if tolerated and needed.
 The full antihypertensive effect of carvedilol tablets is seen within 7 to 14 days.
 Total daily dose should not exceed 50 mg.

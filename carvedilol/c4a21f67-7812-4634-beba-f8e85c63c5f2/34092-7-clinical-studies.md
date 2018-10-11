@@ -8,25 +8,25 @@ Mild-to-Moderate Heart Failure:
 
 Carvedilol was studied in 5 multicenter, placebo-controlled trials, and in 1 active-controlled trial (COMET trial) involving subjects with mild-to-moderate heart failure.
 
-Four US multicenter, double-blind, placebo-controlled trials enrolled 1,094 subjects (696 randomized to carvedilol) with NYHA class II-III heart failure and ejection fraction less than or equal to 0.35.
+Four U.S. multicenter, double-blind, placebo-controlled trials enrolled 1,094 subjects (696 randomized to carvedilol) with NYHA class II-III heart failure and ejection fraction less than or equal to 0.35.
 The vast majority were on digitalis, diuretics, and an ACE inhibitor at trial entry.
 Patients were assigned to the trials based upon exercise ability.
 An Australia-New Zealand double-blind, placebo-controlled trial enrolled 415 subjects (half randomized to carvedilol) with less severe heart failure.
 All protocols excluded subjects expected to undergo cardiac transplantation during the 7.5 to 15 months of double-blind follow-up.
 All randomized subjects had tolerated a 2-week course on carvedilol 6.25 mg twice daily.
 
-In each trial, there was a primary end point, either progression of heart failure (1 US trial) or exercise tolerance (2 US trials meeting enrollment goals and the Australia-New Zealand trial).
+In each trial, there was a primary end point, either progression of heart failure (1 U.S. trial) or exercise tolerance (2 U.S. trials meeting enrollment goals and the Australia-New Zealand trial).
 There were many secondary end points specified in these trials, including NYHA classification, patient and physician global assessments, and cardiovascular hospitalization.
 Other analyses not prospectively planned included the sum of deaths and total cardiovascular hospitalizations.
 In situations where the primary end points of a trial do not show a significant benefit of treatment, assignment of significance values to the other results is complex, and such values need to be interpreted cautiously.
 
-The results of the US and Australia-New Zealand trials were as follows:
+The results of the U.S. and Australia-New Zealand trials were as follows:
 
-Slowing Progression of Heart Failure: One US multicenter trial (366 subjects) had as its primary end point the sum of cardiovascular mortality, cardiovascular hospitalization, and sustained increase in heart failure medications.
+Slowing Progression of Heart Failure: One U.S. multicenter trial (366 subjects) had as its primary end point the sum of cardiovascular mortality, cardiovascular hospitalization, and sustained increase in heart failure medications.
 Heart failure progression was reduced, during an average follow-up of 7 months, by 48% (P = 0.008).
 
 In the Australia-New Zealand trial, death and total hospitalizations were reduced by about 25% over 18 to 24 months.
-In the 3 largest US trials, death and total hospitalizations were reduced by 19%, 39%, and 49%, nominally statistically significant in the last 2 trials.
+In the 3 largest U.S. trials, death and total hospitalizations were reduced by 19%, 39%, and 49%, nominally statistically significant in the last 2 trials.
 The Australia-New Zealand results were statistically borderline.
 
 Functional Measures: None of the multicenter trials had NYHA classification as a primary end point, but all such trials had it as a secondary end point.
@@ -37,7 +37,7 @@ Subjective Measures: Health-related quality of life, as measured with a standard
 However, patients’ and investigators’ global assessments showed significant improvement in most trials.
 
 Mortality: Death was not a pre-specified end point in any trial, but was analyzed in all trials.
-Overall, in these 4 US trials, mortality was reduced, nominally significantly so in 2 trials.
+Overall, in these 4 U.S. trials, mortality was reduced, nominally significantly so in 2 trials.
 
 The COMET Trial:
 
@@ -51,19 +51,19 @@ The mean dose of carvedilol was 42 mg per day.
 The trial had 2 primary end points: all-cause mortality and the composite of death plus hospitalization for any reason.
 The results of COMET are presented in Table 3 below.
 All-cause mortality carried most of the statistical weight and was the primary determinant of the trial size.
-All-cause mortality was 34% in the subjects treated with carvedilol and was 40% in the immediate-release metoprolol group (P = 0.0017; hazard ratio = 0.83, 95%CI 0.74-0.93).
+All-cause mortality was 34% in the subjects treated with carvedilol and was 40% in the immediate-release metoprolol group (P = 0.0017; hazard ratio = 0.83, 95%CI 0.74 to 0.93).
 The effect on mortality was primarily due to a reduction in cardiovascular death.
 The difference between the 2 groups with respect to the composite end point was not significant (P = 0.122).
-The estimated mean survival was 8.0 years with carvedilol and 6.6 years with immediate-release metoprolol.
+The estimated mean survival was 8 years with carvedilol and 6.6 years with immediate-release metoprolol.
 
 Table 3.
 Results of COMET
 
-| End point | CarvedilolN=1,511 | MetoprololN=1,518 | Hazard Ratio | (95% CI) |
+| End Point | CarvedilolN=1,511 | MetoprololN=1,518 | Hazard Ratio | (95% CI) |
 | --- | --- | --- | --- | --- |
 | All-cause mortality | 34% | 40% | 0.83 | 0.74-0.93 |
-| Mortality + all hopitalization | 74% | 76% | 0.94 | 0.86-1.02 |
-| Cardiovasular death | 30% | 35% | 0.80 | 0.70-0.90 |
+| Mortality + all hospitalization | 74% | 76% | 0.94 | 0.86-1.02 |
+| Cardiovascular death | 30% | 35% | 0.80 | 0.70-0.90 |
 | Sudden death Death due to circulatory failure Death due to stroke | 14%11%0.9% | 17%13%2.5% | 0.810.830.33 | 0.68-0.970.67-1.020.18-0.62 |
 
 It is not known whether this formulation of metoprolol at any dose or this low dose of metoprolol in any formulation has any effect on survival or hospitalization in patients with heart failure.
@@ -71,7 +71,7 @@ Thus, this trial extends the time over which carvedilol manifests benefits on su
 
 Severe Heart Failure (COPERNICUS):
 
-In a double-blind trial (COPERNICUS), 2,289 subjects with heart failure at rest or with minimal exertion and left ventricular ejection fraction less than 25% (mean 20%), despite digitalis (66%), diuretics (99%), and ACE inhibitors (89%) were randomized to placebo or carvedilol.
+In a double-blind trial (COPERNICUS), 2,289 subjects with heart failure at rest or with minimal exertion and left ventricular ejection fraction less than 25% (mean 20%), despite digitalis (66%), diuretics (99%), and ACE inhibitors (89%), were randomized to placebo or carvedilol.
 Carvedilol was titrated from a starting dose of 3.125 mg twice daily to the maximum tolerated dose or up to 25 mg twice daily over a minimum of 6 weeks.
 Most subjects achieved the target dose of 25 mg.
 The trial was conducted in Eastern and Western Europe, the United States, Israel, and Canada.
@@ -85,7 +85,7 @@ The results of COPERNICUS are shown in Table 4.
 Table 4.
 Results of COPERNICUS Trial in Subjects with Severe Heart Failure
 
-| End Point | Placebo(N=1,133) | Carvedilol(N=1,156) | Hazard Ratio (95% CI) | % Reduction | Nominal P value |
+| End Point | Placebo(n=1,133) | Carvedilol(n=1,156) | Hazard Ratio (95% CI) | % Reduction | Nominal P value |
 | --- | --- | --- | --- | --- | --- |
 | Mortality | 190 | 130 | 0.65(0.52-0.81) | 35 | 0.00013 |
 | Mortality + all hospitalization | 507 | 425 | 0.76(0.67-0.87) | 24 | 0.00004 |
@@ -95,7 +95,7 @@ Results of COPERNICUS Trial in Subjects with Severe Heart Failure
 Cardiovascular = CV; Heart failure = HF.
 
 Figure 1.
-Survival Analysis for COPERNICUS (intent-to-treat)
+Survival Analysis for COPERNICUS (Intent-to-Treat)
 
 The effect on mortality was principally the result of a reduction in the rate of sudden death among subjects without worsening heart failure.
 
@@ -110,7 +110,7 @@ Carvedilol had a consistent and beneficial effect on all-cause mortality as well
 Figure 2.
 Effects on Mortality for Subgroups in COPERNICUS
 
-## 14.2 Left Ventricular Dysfunction Following Myocardial Infarction
+## 14.2 Left Ventricular Dysfunction following Myocardial Infarction
 
 CAPRICORN was a double-blind trial comparing carvedilol and placebo in 1,959 subjects with a recent myocardial infarction (within 21 days) and left ventricular ejection fraction of less than or equal to 40%, with (47%) or without symptoms of heart failure.
 Subjects given carvedilol received 6.25 mg twice daily, titrated as tolerated to 25 mg twice daily.
@@ -126,7 +126,13 @@ Nearly all deaths were cardiovascular (which were reduced by 25% by carvedilol),
 Another trial end point, total mortality and all-cause hospitalization, did not show a significant improvement.
 
 There was also a significant 40% reduction in fatal or non-fatal myocardial infarction observed in the group treated with carvedilol (95% CI 11% to 60%, P = 0.01).
-A similar reduction in the risk of myocardial infarction was also observed in a meta-analysis of placebo controlled trials of carvedilol in heart failure.
+A similar reduction in the risk of myocardial infarction was also observed in a meta-analysis of placebo-controlled trials of carvedilol in heart failure.
+
+Figure 3.
+Survival Analysis for CAPRICORN (Intent-to-Treat)
+
+Figure 4.
+Effects on Mortality for Subgroups in CAPRICORN
 
 ## 14.3 Hypertension
 
@@ -141,7 +147,7 @@ There were no age- or gender-related differences in response.
 The peak antihypertensive effect occurred 1 to 2 hours after a dose.
 The dose-related blood pressure response was accompanied by a dose-related increase in adverse effects [see Adverse Reactions (6)].
 
-## 14.4 Hypertension With Type 2 Diabetes Mellitus
+## 14.4 Hypertension with Type 2 Diabetes Mellitus
 
 In a double-blind trial (GEMINI), carvedilol, added to an ACE inhibitor or angiotensin receptor blocker, was evaluated in a population with mild-to-moderate hypertension and well controlled type 2 diabetes mellitus.
 The mean HbA1c at baseline was 7.2%.
