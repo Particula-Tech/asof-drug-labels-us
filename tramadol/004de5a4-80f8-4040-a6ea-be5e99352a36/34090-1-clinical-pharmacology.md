@@ -112,8 +112,8 @@ Quinidine Tramadol is metabolized to active metabolite M1 by CYP2D6.
 Coadministration of quinidine, a selective inhibitor of CYP2D6, with tramadol hydrochloride extended-release tablets resulted in a 50 to 60% increase in tramadol exposure and a 50 to 60% decrease in M1 exposure.
 The clinical consequences of these findings are unknown.
 To evaluate the effect of tramadol, a CYP2D6 substrate on quinidine, an in vitro drug interaction study in human liver microsomes was conducted.
-The results from this study indicate that tramadol has no effect on quinidine metabolism [see Warnings and Precautions (5.5), Drug Interactions (7)].
-CYP3A4 Inhibitors and Inducers Since tramadol is also metabolized by CYP3A4, administration of CYP3A4 inhibitors, such as ketoconazole and erythromycin, or CYP3A4 inducers, such as rifampin and St. John’s Wort, with tramadol hydrochloride extended-release tablets may affect the metabolism of tramadol leading to altered tramadol exposure [see Warnings and Precautions (5.5), Drug Interactions (7)].
+The results from this study indicate that tramadol has no effect on quinidine metabolism [see Warnings and Precautions (5.6), Drug Interactions (7)].
+CYP3A4 Inhibitors and Inducers Since tramadol is also metabolized by CYP3A4, administration of CYP3A4 inhibitors, such as ketoconazole and erythromycin, or CYP3A4 inducers, such as rifampin and St. John’s Wort, with tramadol hydrochloride extended-release tablets may affect the metabolism of tramadol leading to altered tramadol exposure [see Warnings and Precautions (5.6), Drug Interactions (7)].
 Cimetidine Concomitant administration of tramadol IR tablets with cimetidine, a weak CYP3A4 inhibitor, does not result in clinically significant changes in tramadol pharmacokinetics.
 No alteration of the tramadol hydrochloride extended-release tablets dosage regimen with cimetidine is recommended.
 Carbamazepine Carbamazepine, a CYP3A4 inducer, increases tramadol metabolism.

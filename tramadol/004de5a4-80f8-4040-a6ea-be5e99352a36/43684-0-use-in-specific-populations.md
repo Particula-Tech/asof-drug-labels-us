@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary Prolonged use of opioid analgesics during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.4)].
+Risk Summary Prolonged use of opioid analgesics during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.5)].
 Available data with tramadol hydrochloride extended-release tablets in pregnant women are insufficient to inform a drug-associated risk for major birth defects and miscarriage.
 In animal reproduction studies, tramadol administration during organogenesis decreased fetal weights and reduced ossification in mice, rats, and rabbits at 1.4, 0.6, and 3.6 times the maximum recommended human daily dosage (MRHD).
 Tramadol decreased pup body weight and increased pup mortality at 1.2 and 1.9 times the MRHD [see Data].
@@ -13,7 +13,7 @@ In the U.S. general population, the estimated background risk of major birth def
 Clinical Considerations Fetal/Neonatal Adverse Reactions Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
 Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and failure to gain weight.
 The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
-Observe newborns for symptoms and signs of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.4)].
+Observe newborns for symptoms and signs of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.5)].
 Neonatal seizures, neonatal withdrawal syndrome, fetal death and stillbirth have been reported with tramadol during post-approval use of tramadol immediate-release products.
 Labor or Delivery Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
 An opioid antagonist, such as naloxone, must be available for reversal of opioid-induced respiratory depression in the neonate.
@@ -62,7 +62,7 @@ It is not known whether these effects on fertility are reversible [see Adverse R
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of tramadol hydrochloride extended-release tablets in pediatric patients have not been established.
-Life-threatening respiratory depression and death have occurred in children who received tramadol [see Warnings and Precautions (5.3)].
+Life-threatening respiratory depression and death have occurred in children who received tramadol [see Warnings and Precautions (5.4)].
 In some of the reported cases, these events followed tonsillectomy and/or adenoidectomy, and one of the children had evidence of being an ultra-rapid metabolizer of tramadol (i.e., multiple copies of the gene for cytochrome P450 isoenzyme 2D6).
 Children with sleep apnea may be particularly sensitive to the respiratory depressant effects of tramadol.
 Because of the risk of life-threatening respiratory depression and death:
@@ -71,7 +71,7 @@ Because of the risk of life-threatening respiratory depression and death:
 - Tramadol hydrochloride extended-release tablets are contraindicated for post-operative management in pediatric patients younger than 18 years of age following tonsillectomy and/or adenoidectomy [seeContraindications (4)].
 - Avoid the use of tramadol hydrochloride extended-release tablets in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of tramadol unless the benefits outweigh the risks.
   Risk factors include conditions associated with hypoventilation, such as postoperative status, obstructive sleep apnea, obesity, severe pulmonary disease, neuromuscular disease, and concomitant use of other medications that cause respiratory depression.
-  [see Warnings and Precautions (5.3)].
+  [see Warnings and Precautions (5.4)].
 
 ## 8.5 Geriatric Use
 
@@ -80,7 +80,7 @@ Of those subjects, 156 were 75 years of age and older.
 In general, higher incidence rates of adverse events were observed for patients older than 65 years of age compared with patients 65 years and younger, particularly for the following adverse events: constipation, fatigue, weakness, postural hypotension and dyspepsia.
 For this reason, tramadol hydrochloride extended-release tablets should be used with caution in patients over 65 years of age, and with even greater caution in patients older than 75 years of age [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
 Respiratory depression is the chief risk for elderly patients treated with opioids, and has occurred after large initial doses were administered to patients who were not opioidtolerant or when opioids were co-administered with other agents that depress respiration.
-Titrate the dosage of tramadol hydrochloride extended-release tablets slowly in geriatric patients and monitor closely for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.11)].
+Titrate the dosage of tramadol hydrochloride extended-release tablets slowly in geriatric patients and monitor closely for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.12)].
 Tramadol is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
 
