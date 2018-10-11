@@ -1,8 +1,8 @@
 # DRUG ABUSE AND DEPENDENCE
 
-## ​Controlled Substance
+## Controlled Substance
 
-Testosterone Cypionate Injection contains testosterone, a Schedule III controlled sub-stance in the Controlled Substances Act.
+Testosterone Cypionate Injection contains testosterone, a Schedule III controlled substance in the Controlled Substances Act.
 
 Abuse Drug abuse is intentional non-therapeutic use of a drug, even once, for its rewarding psychological and physiological effects.
 Abuse and misuse of testosterone are seen in male and female adults and adolescents.
