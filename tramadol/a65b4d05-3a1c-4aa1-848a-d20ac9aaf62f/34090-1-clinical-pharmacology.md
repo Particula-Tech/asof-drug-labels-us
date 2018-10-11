@@ -82,15 +82,15 @@ After a single dose administration of CONZIP, Tmax occurs around 10-12 hours.
 The mean Cmax and AUC of CONZIP capsules after a 300 mg single dose was 308 ng/mL and 6777 ng.hr/mL, respectively under fasting conditions.
 CONZIP is bioequivalent to a reference extended-release tramadol product following a single 300 mg dose under fasting conditions.
 
-At steady-state, CONZIP at 200 mg has been observed to be bioequivalent to a reference extended-release tramadol product at 200 mg under fasting conditions (Table 2).
+At steady-state, CONZIP at 200 mg has been observed to be bioequivalent to a reference extended-release tramadol product at 200 mg under fasting conditions (Table 3).
 Following administration of CONZIP 200 mg capsules, steady-state plasma concentrations of both tramadol and M1 are achieved within four days of once daily dosing.
 
 Table 3.
 
 | Mean (%CV) Steady-State Pharmacokinetic Parameter Values (N= 38) |  |  |  |  |
 | --- | --- | --- | --- | --- |
-|  | Tramadol |  | O-Desmethyl-Tramadol (M1 Metabolite) |  |
-| Parameter | Tramadol hydrochloride Extended-Release Capsules 200 mg | A Reference Extended-Release Tramadol Product 200 mg | Tramadol hydrochloride Extended-Release Capsules 200 mg | A Reference Extended-Release Tramadol Product 200 mg |
+|  | Tramadol |  | O-Desmethyltramadol (M1 Metabolite) |  |
+| Parameter | Tramadol hydrochloride Extended- Release Capsules 200 mg | A Reference Extended- Release Tramadol Product 200 mg | Tramadol hydrochloride Extended- Release Capsules 200 mg | A Reference Extended- Release Tramadol Product 200 mg |
 | AUC0-24 (ng.hr/mL) | 5678 (27%) | 5563 (32%) | 1319 (34%) | 1302 (40%) |
 | Cmax (ng/mL) | 332 (25%) | 350 (31%) | 70 (34%) | 74 (41%) |
 | Cmin (ng/mL) | 128 (39%) | 125 (45%) | 35 (34%) | 33 (42%) |
@@ -121,7 +121,7 @@ Metabolism
 
 Tramadol is extensively metabolized after oral administration.
 The major metabolic pathways appear to be N – (mediated by CYP3A4 and CYP2B6) and O – (mediated by CYP2D6) demethylation and glucuronidation or sulfation in the liver.
-One metabolite (O-desmethyl tramadol, denoted M1) is pharmacologically active in animal models.
+One metabolite (O-desmethyltramadol, denoted M1) is pharmacologically active in animal models.
 Formation of M1 is dependent on CYP2D6 and as such is subject to inhibition and polymorphism, which may affect the therapeutic response [see Drug Interactions (7)].
 
 Excretion
@@ -191,11 +191,11 @@ The clinical consequences of these findings are unknown.
 
 To evaluate the effect of tramadol, a CYP2D6 substrate on quinidine, an in vitro drug interaction study in human liver microsomes was conducted.
 The results from this study indicate that tramadol has no effect on quinidine metabolism.
-[see Warnings and Precautions (5.1, 5.5), Drug Interactions (7)].
+[see Warnings and Precautions (5.1, 5.6), Drug Interactions (7)].
 
 CYP3A4 Inhibitors and Inducers
 
-Since tramadol is also metabolized by CYP3A4, administration of CYP3A4 inhibitors, such as ketoconazole and erythromycin, or CYP3A4 inducers, such as rifampin and St. John's Wort, with CONZIP may affect the metabolism of tramadol leading to altered tramadol exposure [see Warnings and Precautions (5.1, 5.5).
+Since tramadol is also metabolized by CYP3A4, administration of CYP3A4 inhibitors, such as ketoconazole and erythromycin, or CYP3A4 inducers, such as rifampin and St. John's Wort, with CONZIP may affect the metabolism of tramadol leading to altered tramadol exposure [see Warnings and Precautions (5.1, 5.6).
 Drug Interactions (7)].
 
 Cimetidine
