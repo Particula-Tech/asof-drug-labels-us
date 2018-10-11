@@ -63,7 +63,7 @@ Specific Populations
 
 Ethnicity
 
-Eltrombopag concentrations in Asian (i.e., Japanese, Chinese, Taiwanese, Korean) patients with ITP or chronic hepatitis C, were 50% to 55% highers compared with non-Asian subjects [see Dosage and Administration (2.1, 2.3)].
+Eltrombopag concentrations in Asian (i.e., Japanese, Chinese, Taiwanese, Korean) patients with ITP or chronic hepatitis C, were 50% to 55% higher compared with non-Asian subjects [see Dosage and Administration (2.1, 2.3)].
 
 Eltrombopag exposure in healthy African-American subjects was approximately 40% higher than that observed in Caucasian subjects in one clinical pharmacology trial and similar in three other clinical pharmacology trials.
 The effect of African-American ethnicity on exposure and related safety and efficacy of eltrombopag has not been established.

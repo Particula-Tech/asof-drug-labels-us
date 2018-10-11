@@ -1,6 +1,7 @@
 {
   "application_numbers": [
-    "NDA022291"
+    "NDA022291",
+    "NDA207027"
   ],
   "inn": "eltrombopag",
   "labeler": "Novartis Pharmaceuticals Corporation",
@@ -8,9 +9,17 @@
     "0078-0684-15",
     "0078-0685-15",
     "0078-0686-15",
-    "0078-0687-15"
+    "0078-0687-15",
+    "0078-0972-19",
+    "0078-0972-23",
+    "0078-0972-61"
   ],
   "products": [
+    {
+      "form": "POWDER, FOR SUSPENSION",
+      "generic": "eltrombopag olamine",
+      "name": "PROMACTA"
+    },
     {
       "form": "TABLET, FILM COATED",
       "generic": "eltrombopag olamine",

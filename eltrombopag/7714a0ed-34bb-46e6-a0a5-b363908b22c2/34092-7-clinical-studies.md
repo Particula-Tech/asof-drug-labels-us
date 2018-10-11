@@ -39,7 +39,7 @@ Patients were allowed to taper or discontinue concomitant ITP medications after 
 Patients were permitted to receive rescue treatments at any time during the trial as clinically indicated.
 
 The median ages of the patients treated with PROMACTA and placebo were 47 years and 52.5 years, respectively.
-Approximately half of the patients treated with PROMACTA and placebo (47% and 50%, respectively) were receiving concomitant ITP medication (predominantly corticosteroids) at randomization and had baseline platelet counts less than or equal to15 x 109/L (50% and 48%, respectively).
+Approximately half of the patients treated with PROMACTA and placebo (47% and 50%, respectively) were receiving concomitant ITP medication (predominantly corticosteroids) at randomization and had baseline platelet counts less than or equal to 15 x 109/L (50% and 48%, respectively).
 A similar percentage of patients treated with PROMACTA and placebo (37% and 34%, respectively) had a prior splenectomy.
 
 The efficacy of PROMACTA in this trial was evaluated by the odds of achieving a platelet count greater than or equal to 50 x 109/L and less than or equal to 400 x 109/L for patients receiving PROMACTA relative to placebo and was based on patient response profiles throughout the 6-month treatment period.

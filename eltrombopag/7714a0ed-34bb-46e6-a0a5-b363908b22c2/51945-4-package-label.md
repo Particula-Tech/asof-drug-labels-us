@@ -117,3 +117,19 @@ Important: Use safety closures when dispensing this product unless otherwise dir
 Novartis
 
 Made in Ireland
+
+PRINCIPAL DISPLAY PANEL
+
+NDC 0078-0972-61
+
+PROMACTA®
+
+(eltrombopag) for Oral Suspension
+
+12.5 mg
+
+Dispense with Medication Guide enclosed or provided separately
+
+30 Packets
+
+Novartis

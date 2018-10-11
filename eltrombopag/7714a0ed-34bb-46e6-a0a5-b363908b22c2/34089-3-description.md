@@ -18,5 +18,5 @@ Tablet Core: magnesium stearate, mannitol, microcrystalline cellulose, povidone,
 Coating: hypromellose, polyethylene glycol 400, titanium dioxide, polysorbate 80 (12.5-mg tablet), FD&C Yellow No. 6 aluminum lake (25-mg tablet), FD&C Blue No. 2 aluminum lake (50-mg tablet), or Iron Oxide Red and Iron Oxide Black (75-mg tablet).
 
 PROMACTA (eltrombopag) for oral suspension packets contain a reddish-brown to yellow powder which produces a reddish-brown suspension when reconstituted with water.
-Each 25-mg packet delivers eltrombopag olamine equivalent to 25 mg of eltrombopag free acid.
+Each packet delivers eltrombopag olamine equivalent to 12.5 mg or 25 mg of eltrombopag free acid.
 The inactive ingredients of PROMACTA for oral suspension are mannitol, sucralose, and xanthan gum.

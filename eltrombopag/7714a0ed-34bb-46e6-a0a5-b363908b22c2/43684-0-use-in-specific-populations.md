@@ -37,7 +37,7 @@ Risk Summary
 
 There are no data regarding the presence of eltrombopag or its metabolites in human milk, the effects on the breastfed child, or the effects on milk production.
 However, eltrombopag was detected in the pups of lactating rats 10 days postpartum suggesting the potential for transfer during lactation.
-Due to the potential for serious adverse reactions in a breastfedchild from PROMACTA, breastfeeding is not recommended during treatment.
+Due to the potential for serious adverse reactions in a breastfed child from PROMACTA, breastfeeding is not recommended during treatment.
 
 ## 8.3 Females and Males of Reproductive Potential
 

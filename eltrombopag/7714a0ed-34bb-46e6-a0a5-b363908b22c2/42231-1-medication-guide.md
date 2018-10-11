@@ -75,13 +75,13 @@ Not included in the kit:
 | Step 1. Make sure that the mixing bottle, cap, lid and oral dosing syringe are dry before use. Remove the lid from the mixing bottle. •Prepare a clean, flat work surface.•Wash and dry your hands before preparing the medicine. |  |
 | Step 2. Fill the oral dosing syringe with 20 mL of drinking water from the glass or cup. •Start with the plunger pushed all the way into the syringe. •Place the tip of the oral dosing syringe all the way into the water and pull back on the plunger to the 20 mL mark on the barrel of the oral dosing syringe. Note: Use a new (single-use) oral dosing syringe to prepare each dose of PROMACTA for oral suspension. |  |
 | Step 3. Place the tip of the oral dosing syringe into the open mixing bottle. Empty water into open mixing bottle by slowly pushing the plunger all the way into the oral dosing syringe. |  |
-| Step 4. Take only the prescribed number of packets for one dose out of the kit. You may need to use more than one packet to prepare the entire dose. •12.5-mg dose (1 packet); Note: See Step 9 for instructions on how to give a 12.5-mg dose.•25-mg dose (1 packet)•50-mg dose (2 packets)•75-mg dose (3 packets) |  |
+| Step 4. Take only the prescribed number of packets for one dose out of the kit. You may need to use more than one packet to prepare the entire dose. 12.5-mg packet • 12.5-mg dose (1 packet) 25-mg packet • 12.5-mg dose (1 packet); Note: See Step 9 for instructions on how to give a 12.5-mg dose using a 25-mg packet. • 25-mg dose (1 packet) • 50-mg dose (2 packets) • 75-mg dose (3 packets) |  |
 | Step 5. Add the prescribed number of packets to the mixing bottle. •Tap the top of each packet to make sure the contents fall to the bottom.•Cut off the top of the packet with scissors and empty the entire contents of the packet into the mixing bottle.•Make sure not to spill the powder outside the mixing bottle. |  |
 | Step 6. Screw the lid tightly onto the mixing bottle. Make sure the cap is pushed onto the lid. |  |
 | Step 7. Gently and slowly shake the mixing bottle back and forth for at least 20 seconds to mix the water with the powder. •To prevent the mixture from foaming, do not shake the mixing bottle hard. |  |
 | How should I give a dose of PROMACTA for oral suspension? |  |
 | Step 8. Make sure the plunger is pushed all the way into the oral dosing syringe. Pull cap off the mixing bottle lid and insert the tip of the oral dosing syringe into the hole in the lid. |  |
-| Step 9. Transfer the mixture into the oral dosing syringe. The liquid will be dark brown in color. •Turn the mixing bottle upside down along with the oral dosing syringe.•Pull back the plunger: oto the 10 mL mark on the oral dosing syringe for a 12.5-mg dose only ORountil all the medicine is in the oral dosing syringe (25-mg, 50-mg, or 75-mg dose). |  |
+| Step 9. Transfer the mixture into the oral dosing syringe. The liquid will be dark brown in color. Turn the mixing bottle upside down along with the oral dosing syringe. Pull back the plunger: 12.5-mg packet ountil all the medicine is in the oral dosing syringe (12.5-mg dose) 25-mg packet oto the 10 mL mark on the oral dosing syringe for a 12.5-mg dose only ORountil all the medicine is in the oral dosing syringe (25-mg, 50-mg, or 75-mg dose). |  |
 | Step 10. Return the mixing bottle to the upright position and remove the oral dosing syringe from the mixing bottle. |  |
 | Step 11. Giving a dose of PROMACTA for oral suspension to a child. •Place the tip of the oral dosing syringe into the inside of the child’s cheek. •Slowly push the plunger all the way down to give the entire dose. Make sure the child has time to swallow the medicine. |  |
 | How should I clean up? |  |
@@ -102,6 +102,6 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 © Novartis
 
-T2018-108
+T2018-119
 
-Revised: July 2018
+Revised: September 2018
