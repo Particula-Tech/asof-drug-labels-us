@@ -162,6 +162,6 @@ Store at Controlled Room Temperature 20° – 25°C (68° – 77°F).
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com.
 
-LAB- 0515-4.0
+LAB-0515-5.0
 
-Rev- December/2014
+Rev-September/2018
