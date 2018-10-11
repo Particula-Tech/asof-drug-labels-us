@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA204607"
+  ],
+  "inn": "decitabine",
+  "labeler": "Mylan Institutional LLC",
+  "package_ndcs": [
+    "67457-316-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "decitabine",
+      "name": "Decitabine"
+    }
+  ],
+  "setid": "447a9fbd-106d-4ff6-8fd0-bb38a8c90e17",
+  "source": "dailymed"
+}
