@@ -81,18 +81,14 @@ Only those events not already listed in Table 4 appear in this listing.
 Events of major clinical importance are also described in the WARNINGS and PRECAUTIONS sections.
 Body as a Whole: frequent: malaise, abdominal pain, abdominal syndrome acute; infrequent: chills, fever, face edema, ulcer, photosensitivity reaction, neck rigidity, neck pain, abdomen enlarged; rare: cellulitis, chest pain substernal.
 Cardiovascular System: frequent: hypertension, vasodilatation; infrequent: angina pectoris, myocardial infarction, bradycardia, ventricular extrasystoles, syncope, migraine, hypotension; rare: atrial arrhythmia, bigeminy, vascular headache, pulmonary embolus, cerebral ischemia, cardiomegaly, phlebitis, left heart failure.
-
 Digestive System: frequent: vomiting, anorexia; infrequent: eructation, glossitis, cholecystitis, nausea and vomiting, gum hemorrhage, stomatitis, colitis, liver function tests abnormal; rare: tongue discoloration, ulcerative stomatitis, salivary gland enlargement, increased salivation, intestinal obstruction, pancreatitis, aphthous stomatitis, cirrhosis of liver, gastritis, gastroenteritis, oral moniliasis, tongue edema.
 Endocrine System: rare: goiter, hypothyroidism.
 Hemic and Lymphatic System: rare: lymphadenopathy, leukopenia, petechia, anemia, thrombocytopenia, lymphocytosis, pancytopenia.
-
 Metabolic and Nutritional Disorders: frequent: thirst; infrequent: dehydration, weight loss; rare: gout, SGOT increased, healing abnormal, acid phosphatase increased, SGPT increased, diabetes mellitus, hyponatremia.
-
 Musculoskeletal System: frequent: myasthenia, arthralgia; infrequent: arthritis, tenosynovitis; rare: pathologic fracture, osteoporosis fracture, bone pain, myositis, tendon rupture, arthrosis, bursitis.
 Nervous System: frequent: hypesthesia, apathy, depression, hypokinesia, vertigo, twitching, agitation, anxiety, amnesia, hyperkinesia, paresthesia; infrequent: ataxia, delirium, delusions, depersonalization, dyskinesia, extrapyramidal syndrome, libido increased, coordination abnormal, dysarthria, hallucinations, manic reaction, neurosis, dystonia, hostility, reflexes increased, emotional lability, euphoria, paranoid reaction; rare: aphasia, nystagmus, akathisia (psychomotor restlessness), stupor, dementia, diplopia, drug dependence, paralysis, grand mal convulsion, hypotonia, myoclonus, psychotic depression, withdrawal syndrome, serotonin syndrome.
 Respiratory System: frequent: cough increased, sinusitis; infrequent: epistaxis, bronchitis, asthma, pneumonia; rare: asphyxia, laryngitis, pneumothorax, hiccup.
 Skin and Appendages: frequent: pruritus, rash; infrequent: acne, exfoliative dermatitis, dry skin, herpes simplex, alopecia; rare: urticaria, herpes zoster, skin hypertrophy, seborrhea, skin ulcer.
-
 Special Senses: infrequent: eye pain, abnormality of accommodation, conjunctivitis, deafness, keratoconjunctivitis, lacrimation disorder, angle-closure glaucoma, hyperacusis, ear pain; rare: blepharitis, partial transitory deafness, otitis media, taste loss, parosmia.
 Urogenital System: frequent: urinary tract infection; infrequent: kidney calculus, cystitis, dysuria, urinary incontinence, urinary retention, vaginitis, hematuria, breast pain, amenorrhea, dysmenorrhea, leukorrhea, impotence; rare: polyuria, urethritis, metrorrhagia, menorrhagia, abnormal ejaculation, breast engorgement, breast enlargement, urinary urgency.
 
