@@ -37,7 +37,8 @@ Abuse of OXYCONTIN poses a risk of overdose and death.
 The risk is increased with concurrent use of OXYCONTIN with alcohol and other central nervous system depressants.
 Taking cut, broken, chewed, crushed, or dissolved OXYCONTIN enhances drug release and increases the risk of overdose and death.
 
-With parenteral abuse, the inactive ingredients in OXYCONTIN can be expected to result in local tissue necrosis, infection, pulmonary granulomas, and increased risk of endocarditis and valvular heart injury.
+With parenteral abuse, the inactive ingredients in OXYCONTIN can be expected to result in local tissue necrosis, infection, pulmonary granulomas, increased risk of endocarditis, valvular heart injury, embolism, and death.
+Cases of thrombotic microangiopathy (a condition characterized clinically by thrombocytopenia and microangiopathic hemolytic anemia) associated with parenteral abuse have been reported.
 Parenteral drug abuse is commonly associated with transmission of infectious diseases, such as hepatitis and HIV.
 
 Abuse Deterrence Studies
