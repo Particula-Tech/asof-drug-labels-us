@@ -54,7 +54,7 @@ Exacerbations: In Trial 3, the primary endpoint was annual rate of on-treatment 
 Exacerbations were defined as worsening of 2 or more major symptoms (dyspnea, sputum volume, and sputum purulence) or worsening of any 1 major symptom together with any 1 of the following minor symptoms: sore throat, colds (nasal discharge and/or nasal congestion), fever without other cause, and increased cough or wheeze for at least 2 consecutive days.
 Exacerbations were considered to be moderate severity if treatment with systemic corticosteroids and/or antibiotics was required and were considered to be severe if resulted in hospitalization or death.
 
-Treatment with TRELEGY ELLIPTA statistically significantly reduced the on-treatment annual rate of moderate/severe exacerbations by 15% compared with fluticasone furoate/vilanterol and by 25% compared with umeclidinium/vilanterol ().
+Treatment with TRELEGY ELLIPTA statistically significantly reduced the on-treatment annual rate of moderate/severe exacerbations by 15% compared with fluticasone furoate/vilanterol and by 25% compared with umeclidinium/vilanterol (Table 3).
 
 Table 3.
 Moderate and Severe Chronic Obstructive Pulmonary Disease Exacerbations
