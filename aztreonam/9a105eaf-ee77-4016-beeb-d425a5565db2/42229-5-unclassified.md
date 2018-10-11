@@ -5,4 +5,4 @@ All other trademarks are the property of their respective owners.
 
 Manufactured by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA Made in Italy
 
-1268779A2 Rev June 2018
+Print code Rev September 2018

@@ -115,44 +115,6 @@ Aztreonam has little effect on the anaerobic intestinal microflora in in vitro s
 Clostridium difficile and its cytotoxin were not found in animal models following administration of aztreonam.
 (See ADVERSE REACTIONS: Gastrointestinal.)
 
-#### Susceptibility Test Methods
+#### Susceptibility Testing
 
-When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drug products used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
-These reports should aid the physician in selecting an antibacterial drug product for treatment.
-
-##### Dilution Techniques
-
-Quantitative methods are used to determine antimicrobial MICs.1-3 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized procedure.
-Standardized procedures are based on a dilution method6 (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of aztreonam powder.
-The MIC values should be interpreted according to the criteria in Table 2.
-
-##### Diffusion Techniques
-
-Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
-The zone size should be determined using a standardized test method.6,7 This procedure uses paper disks impregnated with 30 mcg aztreonam to test the susceptibility of microorganisms to aztreonam.
-The disk diffusion interpretive criteria are provided in Table 2.
-
-Table 2: Susceptibility Test Interpretive Criteria for Aztreonam
-
-| (S) Susceptible | (I) Intermediate | (R) Resistant | (S) Susceptible | (I) Intermediate | (R) Resistant |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Pathogen | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion Zone Diameters (mm) |  |  |
-| Enterobacteriaceae | ≤4 | 8 | ≥16 | ≥21 | 18-20 | ≤17 |
-| Haemophilus influenzaea | ≤2 | - | - | ≥26 | - | - |
-| Pseudomonas aeruginosa | ≤8 | 16 | ≥32 | ≥22 | 16-21 | ≤15 |
-| a The current absence of data on resistant isolates precludes defining any category other than “Susceptible.” If isolates yield MIC results other than susceptible, they should be submitted to a reference laboratory for additional testing. |  |  |  |  |  |  |
-
-##### Quality Control
-
-Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individual performing the test.6-8 Standard aztreonam powder should provide the following range of MIC values noted in Table 3.
-For the diffusion technique using the 30 mcg disk, the criteria in Table 3 should be achieved.
-
-Table 3: Acceptable Quality Control Ranges for Aztreonam
-
-| QC Strain | Minimum Inhibitory Concentrations (mcg/mL) | Disk Diffusion Zone Diameters (mm) |
-| --- | --- | --- |
-| Escherichia coli ATCC 25922 | 0.06-0.25 | 28-36 |
-| Haemophilus influenzae ATCC 49247 | 0.12-5 | 30-38 |
-| Pseudomonas aeruginosa ATCC 27853 | 2-8 | 23-29 |
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.

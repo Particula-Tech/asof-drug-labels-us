@@ -5,7 +5,7 @@
 AZACTAM may be administered intravenously or by intramuscular injection.
 Dosage and route of administration should be determined by susceptibility of the causative organisms, severity and site of infection, and the condition of the patient.
 
-Table 4: Azactam Dosage Guidelines for Adults*
+Table 2: Azactam Dosage Guidelines for Adults*
 
 | Type of Infection | Dose | Frequency (hours) |
 | --- | --- | --- |
@@ -51,7 +51,7 @@ AZACTAM should be administered intravenously to pediatric patients with normal r
 There are insufficient data regarding intramuscular administration to pediatric patients or dosing in pediatric patients with renal impairment.
 (See PRECAUTIONS: Pediatric Use.)
 
-Table 5: Azactam Dosage Guidelines for Pediatric Patients*
+Table 3: Azactam Dosage Guidelines for Pediatric Patients*
 
 | Type of Infection | Dose | Frequency (hours) |
 | --- | --- | --- |
