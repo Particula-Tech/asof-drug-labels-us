@@ -55,7 +55,7 @@ DLIS are present in up to half of all neonates and in varying percentages of pre
 The measured levels of DLIS (as digoxin equivalents) are usually low (0.2-0.4 ng/mL), but sometimes they reach levels that would be considered therapeutic or even toxic.
 
 In some assays, spironolactone, canrenone, and potassium canrenoate may be falsely detected as digoxin, at levels up to 0.5 ng/mL.
-Some traditional Chinese and Ayurvedic medicine substances like Chan Su, Siberian Ginseng, Asian Ginseng, Ashwagandha, or Dashen can cause similar interference.
+Some traditional Chinese and Ayurvedic medicine substances like Chan Su, Siberian Ginseng, Asian Ginseng, Ashwagandha, or Danshen can cause similar interference.
 
 Spironolactone and DLIS are much more extensively protein-bound than digoxin.
 As a result, assays of free digoxin levels in protein-free ultrafiltrate (which tend to be about 25% less than total levels, consistent with the usual extent of protein binding) are less affected by spironolactone or DLIS.

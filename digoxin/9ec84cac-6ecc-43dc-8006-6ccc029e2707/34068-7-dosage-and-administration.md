@@ -18,8 +18,6 @@ LANOXIN Injection and Injection Pediatric can be administered undiluted or dilut
 The use of less than a 4-fold volume of diluent could lead to precipitation of the digoxin.
 Immediate use of the diluted product is recommended.
 
-If tuberculin syringes are used to measure very small doses do not flush with the parenteral solution after its contents are expelled into an indwelling vascular catheter to avoid overadministration of digoxin.
-
 Consider interruption or reduction in LANOXIN dose prior to electrical cardioversion [see Warnings and Precautions (5.4)].
 
 ## 2.2 Loading Dosing Regimen in Adults and Pediatric Patients
