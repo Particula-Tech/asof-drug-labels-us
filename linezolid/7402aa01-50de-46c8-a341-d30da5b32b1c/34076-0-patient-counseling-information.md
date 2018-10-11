@@ -22,14 +22,10 @@ Patients should be advised that:
 - Inform patient, particularly those with diabetes mellitus that hypoglycemic reactions, such as diaphoresis and tremulousness, along with low blood glucose measurements may occur when treated with linezolid.
   If such reactions occur, patients should contact a physician or other health professional for proper treatment.
 
-Manufactured by:
-
-Alkem Laboratories Ltd.
-
-Mumbai - 400 013, INDIA
+Manufactured by: Alkem Laboratories Ltd. Mumbai - 400 013, INDIA
 
 Distributed by:
 
 Ascend Laboratories, LLC
 
-Parsippany, NJ 07054 Revised: January, 2017 PT 1985-04/2129-02
+Parsippany, NJ 07054 Revised: March, 2018 PT 1985-05

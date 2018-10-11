@@ -13,7 +13,7 @@ One hundred twenty-two (60%) linezolid-treated patients and 103 (53%) vancomycin
 The cure rates in clinically evaluable patients were 57% for linezolid-treated patients and 60% for vancomycin-treated patients.
 The cure rates in clinically evaluable patients with ventilator-associated pneumonia were 47% for linezolid-treated patients and 40% for vancomycin-treated patients.
 A modified intent-to-treat (MITT) analysis of 94 linezolid-treated patients and 83 vancomycin-treated patients included subjects who had a pathogen isolated before treatment.
-The cure rates in the MITT analysis were 57% in linezolid-treated patients and 46% in vancomyc in­ vancomycin­-treated patients.
+The cure rates in the MITT analysis were 57% in linezolid-treated patients and 46% in­ vancomycin­-treated patients.
 The cure rates by pathogen for microbiologically evaluable patients are presented in Table 14.
 Table 14.
 Cure Rates at the Test-of-Cure Visit for Microbiologically Evaluable Adult Patients with Nosocomial Pneumonia
@@ -22,7 +22,7 @@ Cure Rates at the Test-of-Cure Visit for Microbiologically Evaluable Adult Patie
 | --- | --- | --- |
 | Linezolid n/N (%) | Vancomycin n/N (%) |  |
 | Staphylococcus aureus | 23/38 (61) | 14/23 (61) |
-| Methicillin-resistantS. aureus | 13/22 (59) | 7/10 (70) |
+| Methicillin-resistant S. aureus | 13/22 (59) | 7/10 (70) |
 | Streptococcus pneumoniae | 9/9 (100) | 9/10 (90) |
 
 Complicated Skin and Skin Structure Infections
@@ -44,7 +44,7 @@ Cure Rates at the Test-of-Cure Visit for Microbiologically Evaluable Adult Patie
 | --- | --- | --- |
 | Linezolid n/N (%) | Oxacillin/Dicloxacillin n/N (%) |  |
 | Staphylococcus aureus | 73/83 (88) | 72/84 (86) |
-| Methicillin-resistantS. aureus | 2/3 (67) | 0/0 (-) |
+| Methicillin-resistant S. aureus | 2/3 (67) | 0/0 (-) |
 | Streptococcus agalactiae | 6/6 (100) | 3/6 (50) |
 | Streptococcus pyogenes | 18/26 (69) | 21/28 (75) |
 
@@ -78,7 +78,7 @@ Cure Rates at the Test-of-Cure Visit for Microbiologically Evaluable Adult Patie
 | --- | --- | --- |
 | Linezolid n/N (%) | Comparator n/N (%) |  |
 | Staphylococcus aureus | 49/63 (78) | 20/29 (69) |
-| Methicillin-resistantS. aureus | 12/17 (71) | 2/3 (67) |
+| Methicillin-resistant S. aureus | 12/17 (71) | 2/3 (67) |
 | Streptococcus agalactiae | 25/29 (86) | 9/16 (56) |
 
 Vancomycin-Resistant Enterococcal Infections

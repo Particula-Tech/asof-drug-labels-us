@@ -6,7 +6,7 @@ The recommended dosage for Linezolid formulations for the treatment of infection
 Table 1.
 Dosage Guidelines for Linezolid
 
-|  | Dosage and Route of Administration |  | Recommended Duration of Treatment (consecutive days) |
+|  | Dosage, Route and Frequency of Administration |  | Recommended Duration of Treatment (consecutive days) |
 | --- | --- | --- | --- |
 | Infection* | Pediatric Patients† (Birth through 11 Years of Age) | Adults and Adolescents (12 Years and Older) |  |
 | Nosocomial pneumonia | 10 mg/kg intravenously or oral‡ every 8 hours | 600 mg intravenously or oral‡ every 12 hours | 10 to 14 |
@@ -22,5 +22,5 @@ These neonates should be initiated with a dosing regimen of 10 mg/kg every 12 ho
 Consideration may be given to the use of 10 mg/kg every 8 hours regimen in neonates with a sub-optimal clinical response.
 All neonatal patients should receive 10 mg/kg every 8 hours by 7 days of life [see Use in Specific Populations (8.4) and Clinical Pharmacology (12.3)].
 
-‡ Oral dosing using either Linezolid Tablets or Linezolid for Oral Suspension [seeHow Supplied/Storage and Handling (16)].
+‡ Oral dosing using either Linezolid Tablets or Linezolid for Oral Suspension [see How Supplied/Storage and Handling (16)].
 No dose adjustment is necessary when switching from intravenous to oral administration.
