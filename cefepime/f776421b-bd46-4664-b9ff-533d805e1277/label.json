@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA209408"
+  ],
+  "inn": "cefepime",
+  "labeler": "SAMSON MEDICAL TECHNOLOGIES LLC",
+  "package_ndcs": [
+    "66288-8100-1"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "cefepime",
+      "name": "CEFEPIME"
+    }
+  ],
+  "setid": "f776421b-bd46-4664-b9ff-533d805e1277",
+  "source": "dailymed"
+}
