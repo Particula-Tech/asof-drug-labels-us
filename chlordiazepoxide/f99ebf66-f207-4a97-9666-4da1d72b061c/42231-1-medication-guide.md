@@ -1,4 +1,4 @@
-# Medication Guide
+# MEDICATION GUIDE
 
 LIBRAX (lee braks)
 
@@ -86,7 +86,7 @@ The most common side effects of Librax include:
 - •skin problems
 - •swelling
 - •irregular menstrual (periods) cycles
-- •increase and decreased desire for sex (libido)
+- •increased and decreased desire for sex (libido)
 - •problems starting to urinate
 - •drowsiness, coordination problems, and confusion may happen, especially in people who are elderly or weak
 
@@ -113,18 +113,20 @@ What are the ingredients in Librax?
 Active ingredient: chlordiazepoxide hydrochloride and clidinium bromide
 
 Inactive ingredients: corn starch, lactose and talc.
-Gelatin capsule shells may contain methyl and propyl parabens and potassium sorbate, with the following dye systems: D&C Yellow No. 10 and either FD&C Blue No.1 or FD&C Green No. 3.
-
-Manufactured in Canada by: Valeant Pharmaceuticals International, Inc. Steinbach, MB R5G 1Z7 Canada
+Gelatin capsule shells may contain methylparaben, propylparaben, and potassium sorbate, with the following dye systems: D&C Yellow No. 10 and either FD&C Green No. 3.
 
 Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+
+Manufactured by: Valeant Pharmaceuticals International, Inc. Steinbach, MB R5G 1Z7 Canada
 
 Librax is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
 ©Valeant Pharmaceuticals North America LLC
 
-For more information, go to www.valeant.com or contact Valeant Pharmaceuticals North America LLC at 1-800-321-4576
+For more information, go to www.valeant.com or contact Valeant Pharmaceuticals North America LLC at 1-800-321-4576.
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Issued: 01/2017
+
+9548901 20001783
