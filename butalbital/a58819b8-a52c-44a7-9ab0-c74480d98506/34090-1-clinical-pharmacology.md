@@ -132,16 +132,16 @@ Elimination
 
 Caffeine is cleared through metabolism and excretion in the urine.
 
-- Metabolism
+Metabolism
 
 Caffeine is mainly metabolized by CYP1A2.
 Other enzymes, including CYP2E1, CYP3A4, CYP2C8 and CYP2C9 may play a minor role in its metabolism.
 Hepatic biotransformation prior to excretion results in about equal amounts of 1methylxanthine and 1-methyluric acid.
 
-- Excretion
+Excretion
 
 Of the 70% of the dose that is recovered in the urine, only 3% is unchanged drug.
-The plasma half-life is about 3 hours
+The plasma half-life is about 3 hours.
 
 [See Overdosage (10) for toxicity information].
 
@@ -160,7 +160,7 @@ The plasma concentration does not correlate with brain concentration or relief o
 
 Elimination
 
-- Metabolism
+Metabolism
 
 About 70-80% of administered dose of codeine is metabolized by conjugation with glucuronic acid to codeine-6glucuronide (C6G) and via O-demethylation to morphine (about 5-10%) and N-demethylation to norcodeine (about 10%) respectively.
 UDP-glucuronosyltransferase (UGT) 2B7 and 2B4 are the major enzymes mediating glucuronidation of codeine to C6G.
@@ -171,7 +171,7 @@ Morphine and M6G are known to have analgesic activity in humans.
 The analgesic activity of C6G in humans is unknown.
 Norcodeine and M3G are generally not considered to possess analgesic properties.
 
-- Excretion
+Excretion
 
 The plasma half-life is about 2.9 hours.
 The elimination of codeine is primarily via the kidneys, and about 90% of an oral dose is excreted by the kidneys within 24 hours of dosing.

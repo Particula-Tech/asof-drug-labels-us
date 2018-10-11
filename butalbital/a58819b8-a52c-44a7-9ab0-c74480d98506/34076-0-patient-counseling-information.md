@@ -9,29 +9,28 @@ Instruct patients not to share Butalbital, Acetaminophen, Caffeine, and Codeine 
 
 Life-Threatening Respiratory Depression
 
-Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules or when the dosage is increased, and that it can occur even at recommended dosages [see Warnings and Precautions (5.2)].
+Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules or when the dosage is increased, and that it can occur even at recommended dosages [see Warnings and Precautions (5.3)].
 Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.
 
 Accidental Ingestion
 
 Inform patients that accidental ingestion, especially in children, may result in respiratory depression or death.
-Instruct patients to take steps to store Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules securely and to properly dispose of unused Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules in accordance with the local state guidelines and/or regulations [see Warnings and Precautions (5.2)].
+Instruct patients to take steps to store Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules securely and to properly dispose of unused Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules in accordance with the local state guidelines and/or regulations [see Warnings and Precautions (5.3)].
 
 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants (Including Alcohol)
 
-Inform patients and caregivers that potentially fatal additive effects may occur if Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules are used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.3), Drug Interactions (7)].
+Inform patients and caregivers that potentially fatal additive effects may occur if Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules are used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.4), Drug Interactions (7)].
 
 Ultra-Rapid Metabolism of Codeine and Other Risk Factors for Life-threatening Respiratory Depression in Children
 
 Advise caregivers that Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules are contraindicated in all children younger than 12 years of age and in children younger than 18 years of age following tonsillectomy and/or adenoidectomy.
-Advise caregivers of children 12-18 years of age receiving codeine to monitor for signs of respiratory depression [see Warnings and Precautions (5.4)].
+Advise caregivers of children 12-18 years of age receiving codeine to monitor for signs of respiratory depression [see Warnings and Precautions (5.5)].
 
 Serotonin Syndrome
 
 Inform patients that opioids could cause a rare but potentially life-threatening condition resulting from concomitant administration of serotonergic drugs.
 Warn patients of the symptoms of serotonin syndrome and to seek medical attention right away if symptoms develop.
-Instruct patients to inform their physicians if they are taking, or plan to take serotonergic medications.
-[see Drug Interactions (7)].
+Instruct patients to inform their physicians if they are taking, or plan to take serotonergic medications [see Drug Interactions (7)].
 
 MAOI Interaction
 
@@ -42,19 +41,19 @@ Adrenal Insufficiency
 
 Inform patients that opioids could cause adrenal insufficiency, a potentially life-threatening condition.
 Adrenal insufficiency may present with non-specific symptoms and signs such as nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
-Advise patients to seek medical attention if they experience a constellation of these symptoms [see Warnings and Precautions (5.10)].
+Advise patients to seek medical attention if they experience a constellation of these symptoms [see Warnings and Precautions (5.11)].
 
 Important Administration Instructions
 
 Instruct patients how to properly take Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules, including the following:
 
-- •To take the drug only for as long as it is prescribed, in the amounts prescribed, and no more frequently than prescribed [see Dosage and Administration (2.1, 2.2)].
-- •Do not take more than 4000 milligrams of acetaminophen per day and to call their healthcare provider if they took more than the recommended dose.
+- To take the drug only for as long as it is prescribed, in the amounts prescribed, and no more frequently than prescribed [see Dosage and Administration (2.1, 2.2)].
+- Do not take more than 4000 milligrams of acetaminophen per day and to call their healthcare provider if they took more than the recommended dose.
 
 Severe Hypotension
 
 Inform patients that Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules may cause orthostatic hypotension and syncope.
-Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) [see Warnings and Precautions (5.11)].
+Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) [see Warnings and Precautions (5.12)].
 
 Anaphylaxis
 
@@ -65,7 +64,7 @@ Pregnancy
 
 Neonatal Opioid Withdrawal Syndrome
 
-Inform female patients of reproductive potential that prolonged use of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.5), Use in Specific Populations (8.1)].
+Inform female patients of reproductive potential that prolonged use of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.6), Use in Specific Populations (8.1)].
 
 Embryo-Fetal Toxicity
 
@@ -83,7 +82,7 @@ It is not known whether these effects on fertility are reversible [see Adverse R
 Risks of Driving and Operating Heavy Machinery
 
 Inform patients that Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules may impair the ability to perform potentially hazardous activities such as driving a car or operating heavy machinery.
-Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.16)].
+Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.17)].
 
 Constipation
 
@@ -100,7 +99,7 @@ Distributed By: Actavis Pharma, Inc.
 
 Parsippany, NJ 07054
 
-©2017 Teva Pharmaceuticals USA, Inc. All rights reserved.
+©2018 Teva Pharmaceuticals USA, Inc. All rights reserved.
 
 Rev.
-8/2017
+9/2018
