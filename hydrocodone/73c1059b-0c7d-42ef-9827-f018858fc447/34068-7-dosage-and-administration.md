@@ -16,15 +16,11 @@ Initiating Treatment with Hydrocodone Bitartrate and Acetaminophen Tablets
 | --- | --- |
 | 7.5 mg/325 mg 10 mg/325 mg | The usual adult dosage is one tablet every four to six hours as needed for pain. The total daily dosage should not exceed 6 tablets. |
 
-Conversion from Other Opioids to Hydrocodone Bitartrate and Acetaminophen Tablets
-
-There is inter-patient variability in the potency of opioid drugs and opioid formulations.
+Conversion from Other Opioids to Hydrocodone Bitartrate and Acetaminophen Tablets There is inter-patient variability in the potency of opioid drugs and opioid formulations.
 Therefore, a conservative approach is advised when determining the total daily dosage of hydrocodone bitartrate and acetaminophen tablets.
 It is safer to underestimate a patient’s 24-hour hydrocodone bitartrate and acetaminophen tablets dosage than to overestimate the 24-hour hydrocodone bitartrate and acetaminophen tablets dosage and manage an adverse reaction due to overdose.
 
-Conversion from Hydrocodone Bitartrate and Acetaminophen Tablets to Extended-Release Hydrocodone
-
-The relative bioavailability of hydrocodone from hydrocodone bitartrate and acetaminophen tablets compared to extended-release hydrocodone products is unknown, so conversion to extended-release products must be accompanied by close observation for signs of excessive sedation and respiratory depression.
+Conversion from Hydrocodone Bitartrate and Acetaminophen Tablets to Extended-Release Hydrocodone The relative bioavailability of hydrocodone from hydrocodone bitartrate and acetaminophen tablets compared to extended-release hydrocodone products is unknown, so conversion to extended-release products must be accompanied by close observation for signs of excessive sedation and respiratory depression.
 
 Titration and Maintenance of Therapy
 

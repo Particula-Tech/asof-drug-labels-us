@@ -28,9 +28,7 @@ Careful record-keeping of prescribing information, including quantity, frequency
 
 Proper assessment of the patient, proper prescribing practices, periodic re-evaluation of therapy, and proper dispensing and storage are appropriate measures that help to limit abuse of opioid drugs.
 
-Risks Specific to Abuse of Hydrocodone Bitartrate and Acetaminophen Tablets
-
-Hydrocodone bitartrate and acetaminophen tablets are for oral use only.
+Risks Specific to Abuse of Hydrocodone Bitartrate and Acetaminophen Tablets Hydrocodone bitartrate and acetaminophen tablets are for oral use only.
 Hydrocodone bitartrate and acetaminophen tablets pose a risk of overdose and death.
 The risk is increased with concurrent abuse of hydrocodone bitartrate and acetaminophen tablets with alcohol and other central nervous system depressants.
 

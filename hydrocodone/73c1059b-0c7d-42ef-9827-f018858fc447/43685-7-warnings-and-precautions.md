@@ -18,6 +18,21 @@ Consider these risks when prescribing or dispensing hydrocodone bitartrate and a
 Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity and advising the patient on the proper disposal of unused drug (see PRECAUTIONS, Information for Patients).
 Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
 
+## Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
+
+To ensure that the benefits of opioid analgesics outweigh the risks of addiction, abuse, and misuse, the Food and Drug Administration (FDA) has required a Risk Evaluation and Mitigation Strategy (REMS) for these products.
+Under the requirements of the REMS, drug companies with approved opioid analgesic products must make REMS-compliant education programs available to healthcare providers.
+Healthcare providers are strongly encouraged to do all of the following:
+
+- Complete a REMS-compliant education program offered by an accredited provider of continuing education (CE) or another education program that includes all the elements of the FDA Education Blueprint for Health Care Providers Involved in the Management or Support of Patients with Pain.
+- Discuss the safe use, serious risks, and proper storage and disposal of opioid analgesics with patients and/or their caregivers every time these medicines are prescribed.
+  The Patient Counseling Guide (PCG) can be obtained at this link: www.fda.gov/OpioidAnalgesicREMSPCG.
+- Emphasize to patients and their caregivers the importance of reading the Medication Guide that they will receive from their pharmacist every time an opioid analgesic is dispensed to them.
+- Consider using other tools to improve patient, household, and community safety, such as patient-prescriber agreements that reinforce patient-prescriber responsibilities.
+
+To obtain further information on the opioid analgesic REMS and for a list of accredited REMS CME/CE, call 1-800-503-0784, or log on to www.opioidanalgesicrems.com.
+The FDA Blueprint can be found at www.fda.gov/OpioidAnalgesicREMSBlueprint.
+
 ## Life-Threatening Respiratory Depression
 
 Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
@@ -152,112 +167,74 @@ Do not abruptly discontinue hydrocodone bitartrate and acetaminophen tablets (se
 
 # PRECAUTIONS
 
-Risks of Driving and Operating Machinery
+## Risks of Driving and Operating Machinery
 
 Hydrocodone bitartrate and acetaminophen tablets may impair the mental or physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery.
 Warn patients not to drive or operate dangerous machinery unless they are tolerant to the effects of hydrocodone bitartrate and acetaminophen tablets and know how they will react to the medication (see PRECAUTIONS, Information for Patients).
 
-Information for Patients
+## Information for Patients
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Addiction, Abuse, and Misuse
-
-Inform patients that the use of hydrocodone bitartrate and acetaminophen tablets, even when taken as recommended, can result in addiction, abuse, and misuse, which can lead to overdose and death (see WARNINGS).
+Addiction, Abuse, and Misuse Inform patients that the use of hydrocodone bitartrate and acetaminophen tablets, even when taken as recommended, can result in addiction, abuse, and misuse, which can lead to overdose and death (see WARNINGS).
 Instruct patients not to share hydrocodone bitartrate and acetaminophen tablets with others and to take steps to protect hydrocodone bitartrate and acetaminophen tablets from theft or misuse.
 
-Life-Threatening Respiratory Depression
-
-Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting hydrocodone bitartrate and acetaminophen tablets or when the dosage is increased, and that it can occur even at recommended dosages (see WARNINGS).
+Life-Threatening Respiratory Depression Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting hydrocodone bitartrate and acetaminophen tablets or when the dosage is increased, and that it can occur even at recommended dosages (see WARNINGS).
 Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.
 
-Accidental Ingestion
-
-Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death (see WARNINGS).
+Accidental Ingestion Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death (see WARNINGS).
 Instruct patients to take steps to store hydrocodone bitartrate and acetaminophen tablets securely and to dispose of unused hydrocodone bitartrate and acetaminophen tablets by flushing down the toilet.
 
-Interactions with Benzodiazepines and Other CNS Depressants
+Interactions with Benzodiazepines and Other CNS Depressants Inform patients and caregivers that potentially fatal additive effects may occur if hydrocodone bitartrate and acetaminophen tablets are used with benzodiazepines and other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider (see WARNINGS and PRECAUTIONS, Drug Interactions).
 
-Inform patients and caregivers that potentially fatal additive effects may occur if hydrocodone bitartrate and acetaminophen tablets are used with benzodiazepines and other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider (see WARNINGS and PRECAUTIONS, Drug Interactions).
-
-Serotonin Syndrome
-
-Inform patients that hydrocodone bitartrate and acetaminophen tablets could cause a rare but potentially life-threatening condition resulting from concomitant administration of serotonergic drugs.
+Serotonin Syndrome Inform patients that hydrocodone bitartrate and acetaminophen tablets could cause a rare but potentially life-threatening condition resulting from concomitant administration of serotonergic drugs.
 Warn patients of the symptoms of serotonin syndrome and to seek medical attention right away if symptoms develop.
 Instruct patients to inform their healthcare providers if they are taking, or plan to take serotonergic medications (see PRECAUTIONS, Drug Interactions).
 
-Monoamine Oxidase Inhibitor (MAOI) Interaction
-
-Inform patients to avoid taking hydrocodone bitartrate and acetaminophen tablets while using any drugs that inhibit monoamine oxidase.
+Monoamine Oxidase Inhibitor (MAOI) Interaction Inform patients to avoid taking hydrocodone bitartrate and acetaminophen tablets while using any drugs that inhibit monoamine oxidase.
 Patients should not start MAOIs while taking hydrocodone bitartrate and acetaminophen tablets (see PRECAUTIONS, Drug Interactions).
 
-Adrenal Insufficiency
-
-Inform patients that hydrocodone bitartrate and acetaminophen tablets opioids could cause adrenal insufficiency, a potentially life-threatening condition.
+Adrenal Insufficiency Inform patients that hydrocodone bitartrate and acetaminophen tablets opioids could cause adrenal insufficiency, a potentially life-threatening condition.
 Adrenal insufficiency may present with non-specific symptoms and signs such as nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
 Advise patients to seek medical attention if they experience a constellation of these symptoms (see WARNINGS).
 
-Important Administration Instructions
+Important Administration Instructions Instruct patients how to properly take hydrocodone bitartrate and acetaminophen tablets (see DOSAGE AND ADMINISTRATION and WARNINGS).
 
-Instruct patients how to properly take hydrocodone bitartrate and acetaminophen tablets (see DOSAGE AND ADMINISTRATION and WARNINGS).
-
-Maximum Daily Dose of Acetaminophen
-
-Inform patients not to take more than 4,000 milligrams of acetaminophen per day.
+Maximum Daily Dose of Acetaminophen Inform patients not to take more than 4,000 milligrams of acetaminophen per day.
 Advise patients to call their prescriber if they take more than the recommended dose.
 
-Hypotension
-
-Inform patients that hydrocodone bitartrate and acetaminophen tablets may cause orthostatic hypotension and syncope.
+Hypotension Inform patients that hydrocodone bitartrate and acetaminophen tablets may cause orthostatic hypotension and syncope.
 Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) (see WARNINGS).
 
-Anaphylaxis
-
-Inform patients that anaphylaxis has been reported with ingredients contained in hydrocodone bitartrate and acetaminophen tablets.
+Anaphylaxis Inform patients that anaphylaxis has been reported with ingredients contained in hydrocodone bitartrate and acetaminophen tablets.
 Advise patients how to recognize such a reaction and when to seek medical attention (see CONTRAINDICATIONS and ADVERSE REACTIONS).
 
 Pregnancy
 
-Neonatal Opioid Withdrawal Syndrome
+Neonatal Opioid Withdrawal Syndrome Inform female patients of reproductive potential that prolonged use of hydrocodone bitartrate and acetaminophen tablets during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated (see WARNINGS and PRECAUTIONS, Pregnancy).
 
-Inform female patients of reproductive potential that prolonged use of hydrocodone bitartrate and acetaminophen tablets during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated (see WARNINGS and PRECAUTIONS, Pregnancy).
+Embryo-Fetal Toxicity Inform female patients of reproductive potential that hydrocodone bitartrate and acetaminophen tablets can cause fetal harm and to inform their healthcare provider of a known or suspected pregnancy (see PRECAUTIONS, Pregnancy).
 
-Embryo-Fetal Toxicity
-
-Inform female patients of reproductive potential that hydrocodone bitartrate and acetaminophen tablets can cause fetal harm and to inform their healthcare provider of a known or suspected pregnancy (see PRECAUTIONS, Pregnancy).
-
-Lactation
-
-Advise nursing mothers to monitor infants for increased sleepiness (more than usual), breathing difficulties, or limpness.
+Lactation Advise nursing mothers to monitor infants for increased sleepiness (more than usual), breathing difficulties, or limpness.
 Instruct nursing mothers to seek immediate medical care if they notice these signs (see PRECAUTIONS, Nursing Mothers).
 
-Infertility
-
-Inform patients that chronic use of opioids may cause reduced fertility.
+Infertility Inform patients that chronic use of opioids may cause reduced fertility.
 It is not known whether these effects on fertility are reversible (see ADVERSE REACTIONS).
 
-Driving or Operating Heavy Machinery
-
-Inform patients that hydrocodone bitartrate and acetaminophen tablets may impair the ability to perform potentially hazardous activities such as driving a car or operating heavy machinery.
+Driving or Operating Heavy Machinery Inform patients that hydrocodone bitartrate and acetaminophen tablets may impair the ability to perform potentially hazardous activities such as driving a car or operating heavy machinery.
 Advise patients not to perform such tasks until they know how they will react to the medication (see WARNINGS).
 
-Constipation
+Constipation Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention (see ADVERSE REACTIONS and CLINICAL PHARMACOLOGY).
 
-Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention (see ADVERSE REACTIONS and CLINICAL PHARMACOLOGY).
+Disposal of Unused Hydrocodone Bitartrate and Acetaminophen Tablets Advise patients to dispose of unused hydrocodone bitartrate and acetaminophen tablets by flushing unused tablets down the toilet.
 
-Disposal of Unused Hydrocodone Bitartrate and Acetaminophen Tablets
-
-Advise patients to dispose of unused hydrocodone bitartrate and acetaminophen tablets by flushing unused tablets down the toilet.
-
-Laboratory Tests
+## Laboratory Tests
 
 In patients with severe hepatic or renal disease, effects of therapy should be followed with serial liver and/or renal function tests.
 
-Drug Interactions
+## Drug Interactions
 
-Inhibitors of CYP3A4 and CYP2D6
-
-The concomitant use of hydrocodone bitartrate and acetaminophen tablets and CYP3A4 inhibitors, such as macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g., ketoconazole), and protease inhibitors (e.g., ritonavir), can increase the plasma concentration of the hydrocodone from hydrocodone bitartrate and acetaminophen tablets, resulting in increased or prolonged opioid effects.
+Inhibitors of CYP3A4 and CYP2D6 The concomitant use of hydrocodone bitartrate and acetaminophen tablets and CYP3A4 inhibitors, such as macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g., ketoconazole), and protease inhibitors (e.g., ritonavir), can increase the plasma concentration of the hydrocodone from hydrocodone bitartrate and acetaminophen tablets, resulting in increased or prolonged opioid effects.
 These effects could be more pronounced with concomitant use of hydrocodone bitartrate and acetaminophen tablets and both CYP3A4 and CYP2D6 inhibitors, particularly when an inhibitor is added after a stable dose of hydrocodone bitartrate and acetaminophen tablets is achieved (see WARNINGS).
 
 After stopping a CYP3A4 inhibitor, as the effects of the inhibitor decline, the hydrocodone plasma concentration will decrease (see CLINICAL PHARMACOLOGY), resulting in decreased opioid efficacy or a withdrawal syndrome in patients who had developed physical dependence to hydrocodone bitartrate and acetaminophen tablets.
@@ -267,9 +244,7 @@ Follow patients for respiratory depression and sedation at frequent intervals.
 If a CYP3A4 inhibitor is discontinued, consider increasing the hydrocodone bitartrate and acetaminophen tablets dosage until stable drug effects are achieved.
 Follow for signs or symptoms of opioid withdrawal.
 
-Inducers of CYP3A4
-
-The concomitant use of hydrocodone bitartrate and acetaminophen tablets and CYP3A4 inducers, such as rifampin, carbamazepine, and phenytoin, can decrease the plasma concentration of hydrocodone (see CLINICAL PHARMACOLOGY), resulting in decreased efficacy or onset of a withdrawal syndrome in patients who have developed physical dependence to hydrocodone (see WARNINGS).
+Inducers of CYP3A4 The concomitant use of hydrocodone bitartrate and acetaminophen tablets and CYP3A4 inducers, such as rifampin, carbamazepine, and phenytoin, can decrease the plasma concentration of hydrocodone (see CLINICAL PHARMACOLOGY), resulting in decreased efficacy or onset of a withdrawal syndrome in patients who have developed physical dependence to hydrocodone (see WARNINGS).
 
 After stopping a CYP3A4 inducer, as the effects of the inducer decline, the hydrocodone plasma concentration will increase (see CLINICAL PHARMACOLOGY), which could increase or prolong both the therapeutic effects and adverse reactions, and may cause serious respiratory depression.
 
@@ -277,76 +252,56 @@ If concomitant use is necessary, consider increasing the hydrocodone bitartrate 
 Follow the patient for signs and symptoms of opioid withdrawal.
 If a CYP3A4 inducer is discontinued, consider hydrocodone bitartrate and acetaminophen tablets dosage reduction and follow for signs of respiratory depression.
 
-Benzodiazepines and Other CNS Depressants
-
-Due to additive pharmacologic effect, the concomitant use of benzodiazepines and other CNS depressants, such as benzodiazepines and other sedative hypnotics, anxiolytics, and tranquilizers, muscle relaxants, general anesthetics, antipsychotics, and other opioids, including alcohol, can increase the risk of hypotension, respiratory depression, profound sedation, coma, and death.
+Benzodiazepines and Other CNS Depressants Due to additive pharmacologic effect, the concomitant use of benzodiazepines and other CNS depressants, such as benzodiazepines and other sedative hypnotics, anxiolytics, and tranquilizers, muscle relaxants, general anesthetics, antipsychotics, and other opioids, including alcohol, can increase the risk of hypotension, respiratory depression, profound sedation, coma, and death.
 
 Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 Limit dosages and durations to the minimum required.
 Follow patients closely for signs of respiratory depression and sedation (see WARNINGS).
 
-Serotonergic Drugs
-
-The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system, such as selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), and monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue), has resulted in serotonin syndrome (see PRECAUTIONS, Information for Patients).
+Serotonergic Drugs The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system, such as selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), and monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue), has resulted in serotonin syndrome (see PRECAUTIONS, Information for Patients).
 
 If concomitant use is warranted, carefully follow the patient, particularly during treatment initiation and dose adjustment.
 Discontinue hydrocodone bitartrate and acetaminophen tablets if serotonin syndrome is suspected.
 
-Monoamine Oxidase Inhibitors (MAOIs)
-
-The concomitant use of opioids and MAOIs, such as phenelzine, tranylcypromine, or linezolid, may manifest as serotonin syndrome, or opioid toxicity (e.g., respiratory depression, coma) (see WARNINGS).
+Monoamine Oxidase Inhibitors (MAOIs) The concomitant use of opioids and MAOIs, such as phenelzine, tranylcypromine, or linezolid, may manifest as serotonin syndrome, or opioid toxicity (e.g., respiratory depression, coma) (see WARNINGS).
 
 The use of hydrocodone bitartrate and acetaminophen tablets is not recommended for patients taking MAOIs or within 14 days of stopping such treatment.
 
 If urgent use of an opioid is necessary, use test doses and frequent titration of small doses to treat pain while closely monitoring blood pressure and signs and symptoms of CNS and respiratory depression.
 
-Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics
-
-The concomitant use of opioids with other opioid analgesics, such as butorphanol, nalbuphine, pentazocine, may reduce the analgesic effect of hydrocodone bitartrate and acetaminophen tablets and/or precipitate withdrawal symptoms.
+Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics The concomitant use of opioids with other opioid analgesics, such as butorphanol, nalbuphine, pentazocine, may reduce the analgesic effect of hydrocodone bitartrate and acetaminophen tablets and/or precipitate withdrawal symptoms.
 
 Advise patient to avoid concomitant use of these drugs.
 
-Muscle Relaxants
-
-Hydrocodone bitartrate and acetaminophen tablets may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression.
+Muscle Relaxants Hydrocodone bitartrate and acetaminophen tablets may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression.
 
 If concomitant use is warranted, monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of hydrocodone bitartrate and acetaminophen tablets and/or the muscle relaxant as necessary.
 
-Diuretics
-
-Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic hormone.
+Diuretics Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic hormone.
 
 If concomitant use is warranted, follow patients for signs of diminished diuresis and/or effects on blood pressure and increase the dosage of the diuretic as needed.
 
-Anticholinergic Drugs
-
-The concomitant use of anticholinergic drugs may increase risk of urinary retention and/or severe constipation, which may lead to paralytic ileus.
+Anticholinergic Drugs The concomitant use of anticholinergic drugs may increase risk of urinary retention and/or severe constipation, which may lead to paralytic ileus.
 
 If concomitant use is warranted, follow patients for signs and symptoms of urinary retention or reduced gastric motility when hydrocodone bitartrate and acetaminophen tablets are used concomitantly with anticholinergic drugs.
 
-Drug/Laboratory Test Interactions
+## Drug/Laboratory Test Interactions
 
 Acetaminophen may produce false-positive test results for urinary 5-hydroxyindoleacetic acid.
 
-Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Carcinogenesis
-
-Long-term studies to evaluate the carcinogenic potential of the combination of hydrocodone bitartrate and acetaminophen tablets have not been conducted.
+Carcinogenesis Long-term studies to evaluate the carcinogenic potential of the combination of hydrocodone bitartrate and acetaminophen tablets have not been conducted.
 
 Long-term studies in mice and rats have been completed by the National Toxicology Program to evaluate the carcinogenic potential of acetaminophen.
 In 2-year feeding studies, F344/N rats and B6C3F1 mice were fed a diet containing acetaminophen up to 6000 ppm.
 Female rats demonstrated equivocal evidence of carcinogenic activity based on increased incidences of mononuclear cell leukemia at 0.8 times the maximum human daily dose (MHDD) of 4 grams/day, based on a body surface area comparison.
 In contrast, there was no evidence of carcinogenic activity in male rats that received up to 0.7 times or mice at up to 1.2 to 1.4 times the MHDD, based on a body surface area comparison.
 
-Mutagenesis
-
-In the published literature, acetaminophen has been reported to be clastogenic when administered at 1500 mg/kg/day to the rat model (3.6 times the MHDD, based on a body surface area comparison).
+Mutagenesis In the published literature, acetaminophen has been reported to be clastogenic when administered at 1500 mg/kg/day to the rat model (3.6 times the MHDD, based on a body surface area comparison).
 In contrast, no clastogenicity was noted at a dose of 750 mg/kg/day (1.8 times the MHDD, based on a body surface area comparison), suggesting a threshold effect.
 
-Impairment of Fertility
-
-In studies conducted by the National Toxicology Program, fertility assessments with acetaminophen have been completed in Swiss CD-1 mice via a continuous breeding study.
+Impairment of Fertility In studies conducted by the National Toxicology Program, fertility assessments with acetaminophen have been completed in Swiss CD-1 mice via a continuous breeding study.
 There were no effects on fertility parameters in mice consuming up to 1.7 times the MHDD of acetaminophen, based on a body surface area comparison.
 Although there was no effect on sperm motility or sperm density in the epididymis, there was a significant increase in the percentage of abnormal sperm in mice consuming 1.78 times the MHDD (based on a body surface comparison) and there was a reduction in the number of mating pairs producing a fifth litter at this dose, suggesting the potential for cumulative toxicity with chronic administration of acetaminophen near the upper limit of daily dosing.
 
@@ -354,23 +309,17 @@ Published studies in rodents report that oral acetaminophen treatment of male an
 These effects appear to increase with the duration of treatment.
 The clinical significance of these findings is not known.
 
-Infertility
-
-Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
+Infertility Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
 It is not known whether these effects on fertility are reversible (see ADVERSE REACTIONS).
 
-Pregnancy
+## Pregnancy
 
 Teratogenic Effects
 
-Pregnancy Category C
-
-There are no adequate and well-controlled studies in pregnant women.
+Pregnancy Category C There are no adequate and well-controlled studies in pregnant women.
 Hydrocodone bitartrate and acetaminophen tablets should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-Nonteratogenic Effects
-
-Fetal/Neonatal Adverse Reactions
+Nonteratogenic Effects Fetal/Neonatal Adverse Reactions
 
 Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
 
@@ -378,7 +327,7 @@ Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity, abn
 The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
 Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly (see WARNINGS).
 
-Labor or Delivery
+## Labor or Delivery
 
 Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
 An opioid antagonist, such as naloxone, must be available for reversal of opioid-induced respiratory depression in the neonate.
@@ -387,7 +336,7 @@ Opioid analgesics, including hydrocodone bitartrate and acetaminophen tablets, c
 However, this effect is not consistent and may be offset by an increased rate of cervical dilation, which tends to shorten labor.
 Monitor neonates exposed to opioid analgesics during labor for signs of excess sedation and respiratory depression.
 
-Nursing Mothers
+## Nursing Mothers
 
 Hydrocodone is present in human milk.
 
@@ -396,11 +345,11 @@ The developmental and health benefits of breastfeeding should be considered alon
 Infants exposed to hydrocodone bitartrate and acetaminophen tablets through breast milk should be monitored for excess sedation and respiratory depression.
 Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped, or when breastfeeding is stopped.
 
-Pediatric Use
+## Pediatric Use
 
 Safety and effectiveness of hydrocodone bitartrate and acetaminophen tablets in pediatric patients have not been established.
 
-Geriatric Use
+## Geriatric Use
 
 Elderly patients (aged 65 years or older) may have increased sensitivity to hydrocodone bitartrate and acetaminophen tablets.
 In general, use caution when selecting a dosage for an elderly patient, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy.
@@ -411,12 +360,8 @@ Titrate the dosage of hydrocodone bitartrate and acetaminophen tablets slowly in
 Hydrocodone and acetaminophen are known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
 
-Hepatic Impairment
-
-Patients with hepatic impairment may have higher plasma hydrocodone concentrations than those with normal function.
+Hepatic Impairment Patients with hepatic impairment may have higher plasma hydrocodone concentrations than those with normal function.
 Use a low initial dose of hydrocodone bitartrate and acetaminophen tablets in patients with hepatic impairment and follow closely for adverse events such as respiratory depression and sedation.
 
-Renal Impairment
-
-Patients with renal impairment may have higher plasma hydrocodone concentrations than those with normal function.
+Renal Impairment Patients with renal impairment may have higher plasma hydrocodone concentrations than those with normal function.
 Use a low initial dose hydrocodone bitartrate and acetaminophen tablets in patients with renal impairment and follow closely for adverse events such as respiratory depression and sedation.
