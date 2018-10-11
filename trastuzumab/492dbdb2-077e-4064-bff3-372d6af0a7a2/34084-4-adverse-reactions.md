@@ -349,3 +349,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Oligohydramnios or oligohydramnios sequence, including pulmonary hypoplasia, skeletal abnormalities, and neonatal death [see Warnings and Precautions (5.3)]
 - Glomerulopathy [see Adverse Reactions (6.1)]
 - Immune thrombocytopenia
+- Tumor lysis syndrome (TLS): Cases of possible TLS have been reported in patients treated with Herceptin.
+  Patients with significant tumor burden (e.g. bulky metastases) may be at a higher risk.
+  Patients could present with hyperuricemia, hyperphosphatemia, and acute renal failure which may represent possible TLS.
+  Providers should consider additional monitoring and/or treatment as clinically indicated.

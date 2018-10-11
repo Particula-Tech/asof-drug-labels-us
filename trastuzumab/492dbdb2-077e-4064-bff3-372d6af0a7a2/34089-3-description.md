@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 Herceptin (trastuzumab) is a humanized IgG1 kappa monoclonal antibody that selectively binds with high affinity to the extracellular domain of the human epidermal growth factor receptor 2 protein, HER2.
-Trastuzumab is produced by recombinant DNA technology in a mammalian cell (Chinese Hamster Ovary) culture containing the antibiotic gentamicin.
+Trastuzumab is produced by recombinant DNA technology in a mammalian cell (Chinese Hamster Ovary) culture which may contain the antibiotic gentamicin.
 Gentamicin is not detectable in the final product.
 
 Herceptin (trastuzumab) is a sterile, white to pale yellow, preservative-free lyophilized powder for Injection, for intravenous administration.
