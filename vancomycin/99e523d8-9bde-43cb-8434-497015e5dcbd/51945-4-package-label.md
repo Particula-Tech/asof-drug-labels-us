@@ -34,7 +34,7 @@ Baxter and Galaxy are trademarks of Baxter International Inc. Baxter Healthcare 
 
 07-34-74-761
 
-Carton Label
+Carton Labels
 
 Thaw at room temperature (25°C/77°F) or under refrigeration (5°C/41°F).
 Product should not be thawed by immersion in water baths or by microware irradiation.
@@ -107,6 +107,12 @@ Cautions: Do not add supplementary medication or additives.
 Baxter Logo
 
 Baxter and Galaxy are registered trademarks of Baxter International Inc. Baxter Healthcare Corporation, Deerfield, IL 60015 USA
+
+CODE: 2G3551 LOT: XXXXXXXXX EXP: DD MMM YY QTY: QQ SN: ######### FOR PLACEMENT ONLY.
+(01) X XXXXXXX XXXXX X (21) XXXXXXXXX (17) XXXXXX (10) XXXXXXXXX
+
+CODE: 2G3551 LOT: XXXXXXXXX EXP: DD MMM YY QTY: QQ SN: ######### FOR PLACEMENT ONLY.
+(01) X XXXXXXX XXXXX X (21) XXXXXXXXX (17) XXXXXX (10) XXXXXXXXX 07-06-77-861
 
 NDC 0338-3552-48
 
@@ -212,6 +218,12 @@ Baxter Logo
 
 Baxter and Galaxy are registered trademarks of Baxter International Inc. Baxter Healthcare Corporation, Deerfield, IL 60015 USA
 
+CODE: 2G3552 LOT: XXXXXXXXX EXP: DD MMM YY QTY: QQ SN: ######### FOR PLACEMENT ONLY.
+(01) X XXXXXXX XXXXX X (21) XXXXXXXXX (17) XXXXXX (10) XXXXXXXXX
+
+CODE: 2G3552 LOT: XXXXXXXXX EXP: DD MMM YY QTY: QQ SN: ######### FOR PLACEMENT ONLY.
+(01) X XXXXXXX XXXXX X (21) XXXXXXXXX (17) XXXXXX (10) XXXXXXXXX 07-06-77-864
+
 Container Label
 
 NDC 0338-3580-48
@@ -246,7 +258,7 @@ Baxter and Galaxy are trademarks of Baxter International Inc. Baxter Healthcare 
 
 07-34-74-762
 
-Carton Label
+Carton Labels
 
 Thaw at room temperature (25°C/77°F) or under refrigeration (5°C/41°F).
 Product should not be thawed by immersion in water baths or by microware irradiation.
@@ -319,6 +331,12 @@ Cautions: Do not add supplementary medication or additives.
 Baxter Logo
 
 Baxter and Galaxy are registered trademarks of Baxter International Inc. Baxter Healthcare Corporation, Deerfield, IL 60015 USA
+
+CODE: 2G3580 LOT: XXXXXXXXX EXP: DD MMM YY QTY: QQ SN: ######### FOR PLACEMENT ONLY.
+(01) X XXXXXXX XXXXX X (21) XXXXXXXXX (17) XXXXXX (10) XXXXXXXXX
+
+CODE: 2G3580 LOT: XXXXXXXXX EXP: DD MMM YY QTY: QQ SN: ######### FOR PLACEMENT ONLY.
+(01) X XXXXXXX XXXXX X (21) XXXXXXXXX (17) XXXXXX (10) XXXXXXXXX 07-06-77-862
 
 NDC 0338-3581-01
 
@@ -423,6 +441,12 @@ Cautions: Do not add supplementary medication or additives.
 Baxter Logo
 
 Baxter and Galaxy are registered trademarks of Baxter International Inc. Baxter Healthcare Corporation, Deerfield, IL 60015 USA
+
+CODE: 2G3590 LOT: XXXXXXXXX EXP: DD MMM YY QTY: QQ SN: ######### FOR PLACEMENT ONLY.
+(01) X XXXXXXX XXXXX X (21) XXXXXXXXX (17) XXXXXX (10) XXXXXXXXX
+
+CODE: 2G3590 LOT: XXXXXXXXX EXP: DD MMM YY QTY: QQ SN: ######### FOR PLACEMENT ONLY.
+(01) X XXXXXXX XXXXX X (21) XXXXXXXXX (17) XXXXXX (10) XXXXXXXXX 07-06-77-865
 
 Container Label
 
@@ -530,6 +554,12 @@ Baxter Logo
 
 Baxter and Galaxy are registered trademarks of Baxter International Inc. Baxter Healthcare Corporation, Deerfield, IL 60015 USA
 
+CODE: 2G3591 LOT: XXXXXXXXX EXP: DD MMM YY QTY: QQ SN: ######### FOR PLACEMENT ONLY.
+(01) X XXXXXXX XXXXX X (21) XXXXXXXXX (17) XXXXXX (10) XXXXXXXXX
+
+CODE: 2G3591 LOT: XXXXXXXXX EXP: DD MMM YY QTY: QQ SN: ######### FOR PLACEMENT ONLY.
+(01) X XXXXXXX XXXXX X (21) XXXXXXXXX (17) XXXXXX (10) XXXXXXXXX 07-06-77-863
+
 Container Label
 
 NDC 0338-3583-01
@@ -635,3 +665,9 @@ Cautions: Do not add supplementary medication or additives.
 Baxter Logo
 
 Baxter and Galaxy are registered trademarks of Baxter International Inc. Baxter Healthcare Corporation, Deerfield, IL 60015 USA
+
+CODE: 2G3592 LOT: XXXXXXXXX EXP: DD MMM YY QTY: QQ SN: ######### FOR PLACEMENT ONLY.
+(01) X XXXXXXX XXXXX X (21) XXXXXXXXX (17) XXXXXX (10) XXXXXXXXX
+
+CODE: 2G3592 LOT: XXXXXXXXX EXP: DD MMM YY QTY: QQ SN: ######### FOR PLACEMENT ONLY.
+(01) X XXXXXXX XXXXX X (21) XXXXXXXXX (17) XXXXXX (10) XXXXXXXXX 07-06-77-866

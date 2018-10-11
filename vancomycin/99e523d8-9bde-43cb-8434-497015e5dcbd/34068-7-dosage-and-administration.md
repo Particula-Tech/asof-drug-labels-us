@@ -29,7 +29,7 @@ In premature infants, vancomycin clearance decreases as postconceptional age dec
 Therefore, longer dosing intervals may be necessary in premature infants.
 Close monitoring of serum concentrations of vancomycin is recommended in these patients.
 
-### Patients With Impaired Renal Function and Elderly Patients
+## Patients With Impaired Renal Function and Elderly Patients
 
 Dosage adjustment must be made in patients with impaired renal function.
 In the elderly, greater dosage reductions than expected may be necessary because of decreased renal function.
@@ -38,7 +38,7 @@ Vancomycin serum concentrations can be determined by use of microbiologic assay,
 If creatinine clearance can be measured or estimated accurately, the dosage for most patients with renal impairment can be calculated using the following table.
 The dosage of vancomycin per day in mg is about 15 times the glomerular filtration rate in mL/min:
 
-| DOSAGE TABLE FOR VANCOMYCIN IN PATIENTS WITH IMPAIRED RENAL FUNCTION (Adapted from Moellering et al)4 |  |
+| DOSAGE TABLE FOR VANCOMYCIN IN PATIENTS WITH IMPAIRED RENAL FUNCTION (Adapted from Moellering et al)1 |  |
 | --- | --- |
 | Creatinine Clearance mL/min | Vancomycin Dose mg/24 h |
 | 100 | 1,545 |
