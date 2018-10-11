@@ -7,7 +7,7 @@ Docetaxel Injection, USP 20 mg/mL
 Single use vial.
 Discard unused portion.
 
-For Intravenous Infusion only
+For Intravenous Use only
 
 Ready to add to infusion solution.
 Check concentration prior to preparation.
@@ -25,7 +25,7 @@ Docetaxel Injection, USP
 
 20 mg/mL
 
-For Intravenous Infusion only
+For Intravenous Use only
 
 Ready to add to infusion solution
 
@@ -42,7 +42,7 @@ Docetaxel Injection, USP 80 mg/4 mL
 
 (20 mg/mL)
 
-For Intravenous Infusion only Rx only
+For Intravenous Use only Rx only
 
 Ready to add to infusion solution.
 Check concentration prior to preparation.
@@ -60,7 +60,7 @@ Docetaxel Injection, USP 80 mg/4 mL
 
 (20 mg/mL)
 
-For Intravenous Infusion only
+For Intravenous Use only
 
 Ready to add to infusion solution
 
@@ -77,7 +77,7 @@ Docetaxel Injection, USP 160 mg/8 mL
 
 (20 mg/mL)
 
-For Intravenous Infusion only Rx only
+For Intravenous Use only Rx only
 
 Ready to add to infusion solution.
 Check concentration prior to preparation.
@@ -95,7 +95,7 @@ Docetaxel Injection, USP 160 mg/8 mL
 
 (20 mg/mL)
 
-For Intravenous Infusion only
+For Intravenous Use only
 
 Ready to add to infusion solution
 

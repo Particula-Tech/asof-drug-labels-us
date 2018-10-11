@@ -1,7 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
 For all indications, toxicities may warrant dosage adjustments [see Dosage and Administration (2.7)].
-
 Administer in a facility equipped to manage possible complications (e.g. anaphylaxis).
 
 ## 2.1 Breast Cancer
