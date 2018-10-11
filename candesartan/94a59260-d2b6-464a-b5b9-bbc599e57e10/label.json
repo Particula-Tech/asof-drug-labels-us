@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA020838"
+  ],
+  "inn": "candesartan",
+  "labeler": "ANI Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "62559-640-30",
+    "62559-641-30",
+    "62559-642-30",
+    "62559-642-90",
+    "62559-643-30",
+    "62559-643-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "candesartan cilexetil",
+      "name": "ATACAND"
+    }
+  ],
+  "setid": "94a59260-d2b6-464a-b5b9-bbc599e57e10",
+  "source": "dailymed"
+}
