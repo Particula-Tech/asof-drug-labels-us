@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA211242"
+  ],
+  "inn": "norepinephrine",
+  "labeler": "Mylan Institutional LLC",
+  "package_ndcs": [
+    "67457-852-00",
+    "67457-852-04"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION, CONCENTRATE",
+      "generic": "norepinephrine bitartrate",
+      "name": "Norepinephrine bitartrate"
+    }
+  ],
+  "setid": "d3ea12e0-88cc-49b0-b06e-5199ecd6ca69",
+  "source": "dailymed"
+}

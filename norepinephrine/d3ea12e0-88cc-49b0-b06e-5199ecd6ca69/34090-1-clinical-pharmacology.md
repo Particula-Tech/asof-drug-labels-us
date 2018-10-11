@@ -1,0 +1,3 @@
+# CLINICAL PHARMACOLOGY
+
+1. Norepinephrine bitartrate injection functions as a peripheral vasoconstrictor (alpha-adrenergic action) and as an inotropic stimulator of the heart and dilator of coronary arteries (beta-adrenergic action).
