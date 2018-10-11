@@ -104,8 +104,6 @@ The pregnancy rate was slightly decreased in the treated animals; however, the d
 
 ### Teratogenic Effects
 
-#### Pregnancy Category C
-
 Bumetanide is neither teratogenic nor embryocidal in mice when given in doses up to 3400 times the maximum human therapeutic dose.
 
 Bumetanide has been shown to be nonteratogenic, but it has a slight embryocidal effect in rats when given in doses of 3400 times the maximum human therapeutic dose and in rabbits at doses of 3.4 times the maximum human therapeutic dose.
@@ -114,7 +112,7 @@ These effects were associated with maternal weight reductions noted during dosin
 No such adverse effects were observed at 30 mg/kg/day (1000 times the maximum human therapeutic dose).
 No fetotoxicity was observed at 1000 to 2000 times the human therapeutic dose.
 
-In rabbits, a dose-related decrease in litter size and an increase in resorption rate were noted at oral doses of 0.1 and 0.3 mg/kg/day (3.4 and 10 times the maximum human therapeutic dose).
+In rabbits, a dose-related decrease in litter size and an increase in resorption rate were noted at oral doses of 0.1 mg/kg/day and 0.3 mg/kg/day (3.4 and 10 times the maximum human therapeutic dose).
 A slightly increased incidence of delayed ossification of sternebrae occurred at 0.3 mg/kg/day; however, no such adverse effects were observed at the dose of 0.03 mg/kg/day.
 The sensitivity of the rabbit to bumetanide parallels the marked pharmacologic and toxicologic effects of the drug in this species.
 
