@@ -19,6 +19,21 @@ Consider these risks when prescribing or dispensing acetaminophen and codeine ph
 Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity and advising the patient on the proper disposal of unused drug (see PRECAUTIONS, Information for Patients/Caregivers).
 Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
 
+Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
+
+To ensure that the benefits of opioid analgesics outweigh the risks of addiction, abuse, and misuse, the Food and Drug Administration (FDA) has required a Risk Evaluation and Mitigation Strategy (REMS) for these products.
+Under the requirements of the REMS, drug companies with approved opioid analgesic products must make REMS-compliant education programs available to healthcare providers.
+Healthcare providers are strongly encouraged to do all of the following:
+
+- Complete a REMS-compliant education program offered by an accredited provider of continuing education (CE) or another education program that includes all the elements of the FDA Education Blueprint for Health Care Providers Involved in the Management or Support of Patients with Pain.
+- Discuss the safe use, serious risks, and proper storage and disposal of opioid analgesics with patients and/or their caregivers every time these medicines are prescribed.
+  The Patient Counseling Guide (PCG) can be obtained at this link: www.fda.gov/OpioidAnalgesicREMSPCG.
+- Emphasize to patients and their caregivers the importance of reading the Medication Guide that they will receive from their pharmacist every time an opioid analgesic is dispensed to them.
+- Consider using other tools to improve patient, household, and community safety, such as patient-prescriber agreements that reinforce patient-prescriber responsibilities.
+
+To obtain further information on the opioid analgesic REMS and for a list of accredited REMS CME/CE, call 800-503-0784, or log on to www.opioidanalgesicrems.com.
+The FDA Blueprint can be found at www.fda.gov/OpioidAnalgesicREMSBlueprint.
+
 Life-Threatening Respiratory Depression
 
 Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
@@ -39,12 +54,12 @@ Ultra-Rapid Metabolism of Codeine and Other Risk Factors for Life-Threatening Re
 Life-threatening respiratory depression and death have occurred in children who received codeine.
 Codeine is subject to variability in metabolism based upon CYP2D6 genotype (described below), which can lead to an increased exposure to the active metabolite morphine.
 Based upon postmarketing reports, children younger than 12 years old appear to be more susceptible to the respiratory depressant effects of codeine, particularly if there are risk factors for respiratory depression.
-For example, many reported cases of death occurred in the post-operative period following tonsillectomy and/or adenoidectomy, and many of the children had evidence of being ultra-rapid metabolizers of codeine.
+For example, many reported cases of death occurred in the postoperative period following tonsillectomy and/or adenoidectomy, and many of the children had evidence of being ultra-rapid metabolizers of codeine.
 Furthermore, children with obstructive sleep apnea who are treated with codeine for post-tonsillectomy and/or adenoidectomy pain may be particularly sensitive to its respiratory depressant effect.
 Because of the risk of life-threatening respiratory depression and death:
 
 - Acetaminophen and codeine phosphate tablets are contraindicated for all children younger than 12 years of age (see CONTRAINDICATIONS).
-- Acetaminophen and codeine phosphate tablets are contraindicated for post-operative management in pediatric patients younger than 18 years of age following tonsillectomy and/or adenoidectomy (see CONTRAINDICATIONS).
+- Acetaminophen and codeine phosphate tablets are contraindicated for postoperative management in pediatric patients younger than 18 years of age following tonsillectomy and/or adenoidectomy (see CONTRAINDICATIONS).
 - Avoid the use of acetaminophen and codeine phosphate tablets in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of codeine unless the benefits outweigh the risks.
   Risk factors include conditions associated with hypoventilation, such as postoperative status, obstructive sleep apnea, obesity, severe pulmonary disease, neuromuscular disease, and concomitant use of other medications that cause respiratory depression (see WARNINGS).
 - As with adults, when prescribing codeine for adolescents, healthcare providers should choose the lowest effective dose for the shortest period of time and inform patients and caregivers about these risks and the signs of morphine overdose (see OVERDOSAGE).
@@ -522,7 +537,7 @@ Children with sleep apnea may be particularly sensitive to the respiratory depre
 Because of the risk of life-threatening respiratory depression and death:
 
 - Acetaminophen and codeine phosphate tablets are contraindicated for all children younger than 12 years of age (see CONTRAINDICATIONS).
-- Acetaminophen and codeine phosphate tablets are contraindicated for post-operative management in pediatric patients younger than 18 years of age following tonsillectomy and/or adenoidectomy (see CONTRAINDICATIONS).
+- Acetaminophen and codeine phosphate tablets are contraindicated for postoperative management in pediatric patients younger than 18 years of age following tonsillectomy and/or adenoidectomy (see CONTRAINDICATIONS).
 - Avoid the use of acetaminophen and codeine phosphate tablets in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of codeine unless the benefits outweigh the risks.
   Risk factors include conditions associated with hypoventilation, such as postoperative status, obstructive sleep apnea, obesity, severe pulmonary disease, neuromuscular disease, and concomitant use of other medications that cause respiratory depression (see WARNINGS).
 

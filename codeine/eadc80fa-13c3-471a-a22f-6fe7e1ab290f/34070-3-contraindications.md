@@ -3,7 +3,7 @@
 Acetaminophen and codeine phosphate tablets are contraindicated for:
 
 - All children younger than 12 years of age (see WARNINGS).
-- Post-operative management in children younger than 18 years of age following tonsillectomy and/or adenoidectomy (see WARNINGS).
+- Postoperative management in children younger than 18 years of age following tonsillectomy and/or adenoidectomy (see WARNINGS).
 
 Acetaminophen and codeine phosphate tablets are contraindicated in patients with:
 

@@ -14,7 +14,7 @@ Acetaminophen
 Dose-dependent, potentially fatal hepatic necrosis is the most serious adverse effect of acetaminophen overdose.
 Renal tubular necrosis, hypoglycemic coma, and coagulation defects may also occur.
 
-Early symptoms following a potentially hepatotoxic overdose may include; anorexia, nausea, vomiting, diaphoresis, pallor and general malaise.
+Early symptoms following a potentially hepatotoxic overdose may include: anorexia, nausea, vomiting, diaphoresis, pallor and general malaise.
 Clinical and laboratory evidence of hepatic toxicity may not be apparent until 48 to 72 hours post-ingestion.
 
 Treatment of Overdose
