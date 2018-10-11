@@ -42,6 +42,7 @@ Distribution
 The serum protein binding of azithromycin is variable in the concentration range approximating human exposure, decreasing from 51% at 0.02 mcg/mL to 7% at 2 mcg/mL.
 
 Tissue concentrations have not been obtained following intravenous infusions of azithromycin, but following oral administration in humans azithromycin has been shown to penetrate into tissues, including skin, lung, tonsil, and cervix.
+
 Tissue levels were determined following a single oral dose of 500 mg azithromycin in 7 gynecological patients.
 Approximately 17 hr after dosing, azithromycin concentrations were 2.7 mcg/g in ovarian tissue, 3.5 mcg/g in uterine tissue, and 3.3 mcg/g in salpinx.
 Following a regimen of 500 mg on the first day followed by 250 mg daily for 4 days, concentrations in the cerebrospinal fluid were less than 0.01 mcg/mL in the presence of non-inflamed meninges.
@@ -165,54 +166,6 @@ Anaerobic Bacteria Peptostreptococcus species Prevotella bivia
 
 Other Bacteria Ureaplasma urealyticum
 
-Susceptibility Testing Methods
+Susceptibility Testing
 
-When available, the clinical microbiology laboratory should provide cumulative reports of in vitro susceptibility test results for antibacterial drugs used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
-These reports should aid the physician in selecting an antibacterial drug for treatment.
-
-Dilution techniques
-
-Quantitative methods are used to determine antimicrobial MICs.
-These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized test method 1,2,3,4 (broth, and/or agar).
-The MIC values should be interpreted according to criteria provided in Table 3.
-
-Diffusion techniques
-
-Quantitative methods that require measurement of zone diameters can provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-The zone size should be determined using standardized methods 2,3,4.
-This procedure uses paper disk impregnated with 15 mcg azithromycin to test the susceptibility of bacteria to azithromycin.
-The disk diffusion breakpoints are provided in Table 3.
-
-Table 3.
-Susceptibility Interpretive Criteria for Azithromycin
-
-| S | I | R | S | I | R |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Pathogen | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion (zone diameters in mm) |  |  |
-| Haemophilus influenzae.Insufficient information is available to determine Intermediate or Resistant interpretive criteria | ≤ 4 | -- | -- | ≥ 12 | -- | -- |
-| Staphylococcus aureus | ≤ 2 | 4 | ≥ 8 | ≥ 18 | 14–17 | ≤ 13 |
-| Streptococci including S. pneumoniae | ≤ 0.5 | 1 | ≥ 2 | ≥ 18 | 14–17 | ≤ 13 |
-| Moraxella catarrhalis | ≤ 0.25 | - | - | ≥ 26 | - | - |
-
-A report of Susceptible (S) indicates that the antimicrobial drug is likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
-A report of Intermediate (I) indicates that the result should be considered equivocal and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
-This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where a high dosage of the drug can be used.
-This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of Resistant (R) indicates that the antimicrobial drug is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentrations usually achievable at the infection site; other therapy should be selected.
-
-Quality Control
-
-Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test 1,2,3.
-Standard azithromycin powder should provide the following range of MIC values provided in Table 4.
-For the diffusion technique using the 15-mcg azithromycin disk the criteria provided in Table 4 should be achieved.
-
-Table 4: Acceptable Quality Control Ranges for Susceptibility Testing
-
-| Quality Control Organism | Minimum Inhibitory Concentrations (mcg/mL) | Disk Diffusion (zone diameters in mm) |
-| --- | --- | --- |
-| Staphylococcus aureus ATCCATCC = American Type Culture Collection 25923 | Not Applicable | 21–26 |
-| Staphylococcus aureus ATCC 29213 | 0.5–2 | Not Applicable |
-| Haemophilus Influenzae ATCC 49247 | 1–4 | 13–21 |
-| Streptococcus pneumoniae ATCC 49619 | 0.06–0.25 | 19–25 |
-| Neisseria gonorrhoeae ATCC 49226 | 0.25–1 | Not Applicable |
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
