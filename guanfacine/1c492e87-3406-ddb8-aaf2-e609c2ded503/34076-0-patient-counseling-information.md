@@ -1,0 +1,41 @@
+# 17 PATIENT COUNSELING INFORMATION
+
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
+
+Dosing and Administration
+
+Instruct patients to swallow guanfacine extended-release tablets whole with water, milk or other liquid.
+Tablets should not be crushed, chewed or broken prior to administration because this may increase the rate of release of the active drug.
+Patients should not take guanfacine extended-release tablets together with a high-fat meal, since this can raise blood levels of guanfacine.
+Instruct the parent or caregiver to supervise the child or adolescent taking guanfacine extended-release tablets and to keep the bottle of tablets out of reach of children.
+
+Advise patients not to abruptly discontinue guanfacine extended-release tablets as abrupt discontinuation can result in clinically significant rebound hypertension.
+Concomitant stimulant use and abrupt discontinuation of guanfacine extended-release tablets may increase this hypertensive response.
+Instruct patients on how to properly taper the dose to minimize the risk of rebound hypertension [see Dosage and Administration (2.5) and Warnings and Precautions (5.4)].
+
+Adverse Reactions
+
+Advise patients that sedation can occur, particularly early in treatment or with dose increases.
+Caution against operating heavy equipment or driving until they know how they respond to treatment with guanfacine extended-release tablets [see Warnings and Precautions (5.2)].
+Headache and abdominal pain can also occur.
+If any of these symptoms persist, or other symptoms occur, the patient should be advised to discuss the symptoms with the health care provider.
+
+Advise patients to avoid becoming dehydrated or overheated, which may potentially increase the risks of hypotension and syncope [see Warnings and Precautions (5.1)].
+Advise patients to avoid use with alcohol.
+
+All registered trademarks in this document are the property of their respective owners.
+
+APOTEX INC.
+
+Guanfacine Extended-Release Tablets
+
+1 mg, 2 mg, 3 mg and 4 mg
+
+| Manufactured By: | Manufactured For: |
+| --- | --- |
+| Apotex Inc. Toronto, Ontario Canada M9L 1T9 | Apotex Corp. Weston, Florida USA 33326 |
+
+Revised: April 2018
+
+Rev.
+7

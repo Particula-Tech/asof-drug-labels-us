@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA205430"
+  ],
+  "inn": "guanfacine",
+  "labeler": "Apotex Corp.",
+  "package_ndcs": [
+    "60505-3927-1",
+    "60505-3927-3",
+    "60505-3927-8",
+    "60505-3928-1",
+    "60505-3928-3",
+    "60505-3928-8",
+    "60505-3929-1",
+    "60505-3929-3",
+    "60505-3929-8",
+    "60505-3930-1",
+    "60505-3930-3",
+    "60505-3930-8"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "guanfacine",
+      "name": "Guanfacine extended-release"
+    }
+  ],
+  "setid": "1c492e87-3406-ddb8-aaf2-e609c2ded503",
+  "source": "dailymed"
+}
