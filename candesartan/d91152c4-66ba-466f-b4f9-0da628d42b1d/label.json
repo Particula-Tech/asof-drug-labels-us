@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA021093"
+  ],
+  "inn": "candesartan",
+  "labeler": "ANI Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "62559-650-90",
+    "62559-651-90",
+    "62559-652-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "candesartan cilexetil and hydrochlorothiazide",
+      "name": "ATACAND HCT"
+    }
+  ],
+  "setid": "d91152c4-66ba-466f-b4f9-0da628d42b1d",
+  "source": "dailymed"
+}
