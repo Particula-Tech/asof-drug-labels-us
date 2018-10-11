@@ -1,7 +1,7 @@
 # 14 CLINICAL STUDIES
 
 In two 12-week vehicle-controlled clinical trials, tazarotene cream, 0.05% and 0.1% was significantly more effective than vehicle in reducing the severity of stable plaque psoriasis.
-Tazarotene cream 0.1% and 0.05% demonstrated superiority over vehicle cream as early as 1 week and 2 weeks, respectively, after starting treatment.
+Tazarotene cream 0.05% and 0.1% demonstrated superiority over vehicle cream as early as 1 week and 2 weeks, respectively, after starting treatment.
 
 In these trials, the primary efficacy endpoint was “clinical success,” defined as the proportion of subjects with none, minimal, or mild overall lesional assessment at Week 12, and shown in Table 1.
 “Clinical success” was also significantly greater with tazarotene cream, 0.05% and 0.1% versus vehicle at most follow-up visits.
@@ -20,15 +20,15 @@ In these trials, the primary efficacy endpoint was “clinical success,” defin
 | "Clinical Success" | 0 | 91 (42%*) | 73 (33%*) | 0 | 85 (40%*) | 0 | 87 (39%*) | 67 (30%*) | 0 | 107 (51%*) | 0 | 56 (24%) | 50 (22%) | 0 | 56 (26%) |
 | 0 no plaque elevation above normal skin level; may have residual non-erythematous discoloration; no psoriatic scale 1 essentially flat with possible trace elevation; may have up to moderate erythema (red coloration); no psoriatic scale 2 slight but definite elevation of plaque above normal skin level; may have up to moderate erythema (red coloration); fine scales with some lesions partially covered 3 moderate elevation with rounded or sloped edges to plaque; moderate erythema (red coloration); somewhat coarser scales with most lesions partially covered 4 marked elevation with hard, sharp edges to plaque; severe erythema (very red coloration); thick scales with virtually all lesions covered and a rough surface 5 very marked elevation with very hard, sharp edges to plaque; very severe erythema (extreme red coloration); very coarse, thick scales with all lesions covered and a very rough surface Clinical Success defined as an overall lesional assessment score of none, minimal, or mild. # Trial 1 had post-treatment period observations for 12 weeks after stopping therapy, which were not part of Trial 2. * Denotes statistically significant difference for "Clinical Success" compared with vehicle. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-At the end of 12 weeks of treatment, Tazarotene Cream, 0.05% and 0.1% was consistently superior to vehicle in reducing the plaque thickness of psoriasis.
-Improvements in erythema and scaling were generally significantly greater with Tazarotene Cream, 0.05% and 0.1% than with vehicle.
-Tazarotene Cream, 0.1% was also generally more effective than Tazarotene Cream, 0.05% in reducing the severity of the individual signs of disease.
-However, Tazarotene Cream, 0.1% was associated with a greater degree of local irritation than Tazarotene Cream, 0.05%
+At the end of 12 weeks of treatment, tazarotene cream, 0.05% and 0.1% was consistently superior to vehicle in reducing the plaque thickness of psoriasis.
+Improvements in erythema and scaling were generally significantly greater with tazarotene cream, 0.05% and 0.1% than with vehicle.
+Tazarotene cream, 0.1% was also generally more effective than tazarotene cream, 0.05% in reducing the severity of the individual signs of disease.
+However, tazarotene cream, 0.1% was associated with a greater degree of local irritation than tazarotene cream, 0.05%
 
 | Table 2. Mean Decreases in Plaque Elevation, Scaling and Erythema in Two Controlled Clinical Trials for Psoriasis |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  | Tazarotene Cream, 0.05% |  |  |  |  |  | Tazarotene Cream, 0.1% |  |  |  |  |  | Vehicle Cream |  |  |  |  |  |
-| Lesion |  | Trunk/Arm/ Leg lesions |  | Knee/Elbow Lesions |  | All Treated |  | Trunk/Arm/ Leg lesions |  | Knee/Elbow Lesions |  | All Treated |  | Trunk/Arm/ Leg lesions |  | Knee/Elbow Lesions |  | All Treated |  |
+| Lesion |  | Trunk/Arm/ Leg Lesions |  | Knee/Elbow Lesions |  | All Treated |  | Trunk/Arm/ Leg Lesions |  | Knee/Elbow Lesions |  | All Treated |  | Trunk/Arm/ Leg Lesions |  | Knee/Elbow Lesions |  | All Treated |  |
 |  |  | Trial 1 | Trial 2 | Trial 1 | Trial 2 | Trial 1 | Trial 2 | Trial 1 | Trial 2 | Trial 1 | Trial 2 | Trial 1 | Trial 2 | Trial 1 | Trial 2 | Trial 1 | Trial 2 | Trial 1 | Trial 2 |
 | N=218 | N=210 | N=218 | N=210 | N=218 | N=210 | N=221 | N=211 | N=221 | N=211 | N=221 | N=211 | N=229 | N=214 | N=229 | N=214 | N=229 | N=214 |  |  |
 | Plaque Elevation | B# C-12 C-24 | 2.29 -0.83* -0.75* | 2.50 -0.98* | 2.40 -0.91* -0.73* | 2.52 -1.04* | 2.28 -0.75* -0.60* | 2.51 -0.90* | 2.34 -1.08* -0.87* | 2.52 -1.25* | 2.35 -0.96* -0.73* | 2.49 -1.21* | 2.32 -0.83* -0.63* | 2.51 -1.08* | 2.28 -0.59 -0.57 | 2.51 -0.69 | 2.35 -0.57 -0.49 | 2.51 -0.68 | 2.29 -0.48 -0.42 | 2.51 -0.61 |
@@ -39,8 +39,8 @@ However, Tazarotene Cream, 0.1% was associated with a greater degree of local ir
 Acne:
 
 In two large vehicle-controlled trials, subjects age 12 years and over with facial acne vulgaris of a severity suitable for monotherapy with a topical agent were enrolled.
-After face cleansing in the evening, Tazarotene Cream, 0.1% was applied once daily to the entire face as a thin layer.
-Tazarotene Cream, 0.1% was significantly more effective than vehicle in the treatment of facial acne vulgaris.
+After face cleansing in the evening, tazarotene cream, 0.1% was applied once daily to the entire face as a thin layer.
+Tazarotene cream, 0.1% was significantly more effective than vehicle in the treatment of facial acne vulgaris.
 Efficacy results after 12 weeks of treatment are shown in Table 3:
 
 | Table 3. Efficacy Results after Twelve Weeks of Treatment in Two Controlled Clinical Trials for Acne |  |  |  |  |

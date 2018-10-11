@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Tazarotene Cream is a white cream available in a concentration of 0.1%.
+Tazarotene cream is a white cream available in a concentration of 0.1%.
 It is supplied in a collapsible aluminum tube with a white polypropylene screw cap.
 It is available in 30 g and 60 g sizes.
 
