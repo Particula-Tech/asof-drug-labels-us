@@ -1,10 +1,12 @@
-# WARNING: ADDICTION, ABUSE, AND MISUSE; LIFE-THREATENING RESPIRATORY DEPRESSION; ACCIDENTAL INGESTION; ULTRA-RAPID METABOLISM OF TRAMADOL AND OTHER RISK FACTORS FOR LIFE-THREATENING RESPIRATORY DEPRESSION IN CHILDREN; NEONATAL OPIOID WITHDRAWAL SYNDROME, INTERACTIONS WITH DRUGS AFFECTING CYTOCHROME P450 ISOENZYMES; and RISKS FROM CONCOMITANT USE WITH BENZODIAZEPINES OR OTHER CNS DEPRESSANTS
+# WARNING: ADDICTION, ABUSE, AND MISUSE; RISK EVALUATION AND MITIGATION STRATEGY (REMS); LIFE-THREATENING RESPIRATORY DEPRESSION; ACCIDENTAL INGESTION; ULTRA-RAPID METABOLISM OF TRAMADOL AND OTHER RISK FACTORS FOR LIFE-THREATENING RESPIRATORY DEPRESSION IN CHILDREN; NEONATAL OPIOID WITHDRAWAL SYNDROME, INTERACTIONS WITH DRUGS AFFECTING CYTOCHROME P450 ISOENZYMES; and RISKS FROM CONCOMITANT USE WITH BENZODIAZEPINES OR OTHER CNS DEPRESSANTS
 
 Addiction, Abuse, and Misuse
 
 Tramadol hydrochloride extended-release tablets expose patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death.
 Assess each patient’s risk prior to prescribing tramadol hydrochloride extended-release tablets, and monitor all patients regularly for the development of these behaviors and conditions [see WARNINGS].
-
+Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS): To ensure that the benefits of opioid analgesics outweigh the risks of addiction, abuse, and misuse, the Food and Drug Administration (FDA) has required a REMS for these products [see Warnings].
+Under the requirements of the REMS, drug companies with approved opioid analgesic products must make REMS-compliant education programs available to healthcare providers.
+Healthcare providers are strongly encouraged to • complete a REMS-compliant education program, • counsel patients and/or their caregivers, with every prescription, on safe use, serious risks, storage, and disposal of these products, • emphasize to patients and their caregivers the importance of reading the Medication Guide every time it is provided by their pharmacist, and • consider other tools to improve patient, household, and community safety.
 Life-Threatening Respiratory Depression
 
 Serious, life-threatening, or fatal respiratory depression may occur with use of tramadol hydrochloride extended-release tablets.

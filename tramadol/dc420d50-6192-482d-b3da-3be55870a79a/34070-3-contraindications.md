@@ -2,7 +2,7 @@
 
 Tramadol hydrochloride extended-release tablets are contraindicated for:
 
-- all children younger than 12 years of age [see WARNINGS]
+- all children younger than 12 years of age [see WARNINGS].
 - postoperative management in children younger than 18 years of age following tonsillectomy and/or adenoidectomy [see WARNINGS].
 
 Tramadol hydrochloride extended-release tablets are also contraindicated in patients with:

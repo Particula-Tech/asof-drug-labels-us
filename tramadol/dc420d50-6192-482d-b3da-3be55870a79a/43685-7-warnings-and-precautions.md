@@ -21,6 +21,16 @@ Consider these risks when prescribing or dispensing tramadol hydrochloride exten
 Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity and advising the patient on the proper disposal of unused drug [see PRECAUTIONS; Information for Patients].
 Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
 
+Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS) To ensure that the benefits of opioid analgesics outweigh the risks of addiction, abuse, and misuse, the Food and Drug Administration (FDA) has required a Risk Evaluation and Mitigation Strategy (REMS) for these products.
+Under the requirements of the REMS, drug companies with approved opioid analgesic products must make REMS-compliant education programs available to healthcare providers.
+Healthcare providers are strongly encouraged to do all of the following:
+
+• Complete a REMS-compliant education program offered by an accredited provider of continuing education (CE) or another education program that includes all the elements of the FDA Education Blueprint for Health Care Providers Involved in the Management or Support of Patients with Pain. • Discuss the safe use, serious risks, and proper storage and disposal of opioid analgesics with patients and/or their caregivers every time these medicines are prescribed.
+The Patient Counseling Guide (PCG) can be obtained at this link: www.fda.gov/OpioidAnalgesicREMSPCG. • Emphasize to patients and their caregivers the importance of reading the Medication Guide that they will receive from their pharmacist every time an opioid analgesic is dispensed to them. • Consider using other tools to improve patient, household, and community safety, such as patient-prescriber agreements that reinforce patient-prescriber responsibilities.
+
+To obtain further information on the opioid analgesic REMS and for a list of accredited REMS CME/CE, call 800-503-0784, or log on to www.opioidanalgesicrems.com.
+The FDA Blueprint can be found at www.fda.gov/OpioidAnalgesicREMSBlueprint.
+
 Life-Threatening Respiratory Depression
 
 Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
@@ -200,22 +210,18 @@ When these events do occur it is often following the first dose.
 Other reported hypersensitivity reactions include pruritus, hives, bronchospasm, angioedema, toxic epidermal necrolysis and Stevens-Johnson syndrome.
 Patients with a history of hypersensitivity reactions to tramadol and other opioids may be at increased risk and therefore should not receive tramadol hydrochloride extended-release tablets.
 If anaphylaxis or other hypersensitivity occurs, stop administration of tramadol hydrochloride extended-release tablets immediately, discontinue tramadol hydrochloride extended-release tablets permanently, and do not rechallenge with any formulation of tramadol.
-Advise patients to seek immediate medical attention if they experience any symptoms of a hypersensitivity reaction [see CONTRAINDICATIONS and PRECAUTIONS; Information for Patients].
-
-# PRECAUTIONS
-
-## Withdrawal
-
-Avoid the use of mixed agonist/antagonist (e.g, pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including tramadol hydrochloride extended-release tablets.
+Advise patients to seek immediate medical attention if they experience any symptoms of a hypersensitivity reaction [see CONTRAINDICATIONS and PRECAUTIONS; Information forPatients].
+Withdrawal Avoid the use of mixed agonist/antagonist (e.g, pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including tramadol hydrochloride extended-release tablets.
 In these patients, mixed agonist/antagonist and partial analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms.
 
 When discontinuing tramadol hydrochloride extended-release tablets, gradually taper the dosage [see DOSAGE AND ADMINISTRATION].
 Do not abruptly discontinue tramadol hydrochloride extended-release tablets [see DRUG ABUSE AND DEPENDENCE].
-
-## Risks of Driving and Operating Machinery
+Risks of Driving and Operating Machinery
 
 Tramadol hydrochloride extended-release tablets may impair the mental or physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery.
 Warn patients not to drive or operate dangerous machinery unless they are tolerant to the effects of tramadol hydrochloride extended-release tablets and know how they will react to the medication [see PRECAUTIONS; Information for Patients].
+
+# PRECAUTIONS
 
 ## Use in Renal and Hepatic Disease
 

@@ -137,7 +137,8 @@ Renal Impairment
 Impaired renal function results in a decreased rate and extent of excretion of tramadol and its active metabolite, M1 in patients taking an immediate-release formulation of tramadol.
 Tramadol hydrochloride extended-release tablets have not been studied in patients with renal impairment.
 The limited availability of dose strengths and once daily dosing of tramadol hydrochloride extended-release tablets do not permit the dosing flexibility required for safe use in patients with severe renal impairment.
-Therefore, tramadol hydrochloride extended-release tablets should not be used in patients with severe renal impairment (creatinine clearance less than 30 mL/min) [see WARNINGS, Use in Renal and Hepatic Disease and DOSAGE AND ADMINISTRATION].The total amount of tramadol and M1 removed during a 4-hour dialysis period is less than 7% of the administered dose.
+Therefore, tramadol hydrochloride extended-release tablets should not be used in patients with severe renal impairment (creatinine clearance less than 30 mL/min) [see WARNINGS, Use in Renal and Hepatic Disease and DOSAGE AND ADMINISTRATION].
+The total amount of tramadol and M1 removed during a 4-hour dialysis period is less than 7% of the administered dose.
 
 Geriatric Patients
 

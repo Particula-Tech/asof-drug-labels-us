@@ -2,7 +2,7 @@
 
 Tramadol Hydrochloride (tram a dol hye droe klor ide)
 
-Extended-Release Tablets, CIV
+Extended-Release Tablets, C-IV
 
 Tramadol hydrochloride extended-release tablets are:
 
@@ -101,6 +101,6 @@ Halol-Baroda Highway,
 Halol-389 350, Gujarat, India.
 
 ISS.
-08/2017
+07/2018
 
-PJPI0263F
+PJPI0263G
