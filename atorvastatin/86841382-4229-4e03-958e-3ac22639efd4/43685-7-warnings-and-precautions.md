@@ -21,7 +21,7 @@ Physicians considering combined therapy with atorvastatin calcium and fibric aci
 Lower starting and maintenance doses of atorvastatin should be considered when taken concomitantly with the aforementioned drugs [see Drug Interactions (7)].
 Periodic creatine phosphokinase (CPK) determinations may be considered in such situations, but there is no assurance that such monitoring will prevent the occurrence of severe myopathy.
 
-Prescribing recommendations for interacting agents are summarized in Table 2 [see Dosage and Administration (2.6), Drug Interactions (7), Clinical Pharmacology (12.3)].
+Prescribing recommendations for interacting agents are summarized in Table 2 [see Dosage and Administration (2.6), Drug Interactions (7), and Clinical Pharmacology (12.3)].
 
 Table 2.
 Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyolysis
@@ -30,8 +30,9 @@ Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyolysis
 | --- | --- |
 | Cyclosporine, HIV protease inhibitors (tipranavir plus ritonavir), hepatitis C protease inhibitor (telaprevir) | Avoid atorvastatin |
 | HIV protease inhibitor (lopinavir plus ritonavir) | Use with caution and lowest dose necessary |
-| Clarithromycin, itraconazole, HIV protease inhibitors (saquinavir plus ritonavirUse with caution and with the lowest dose necessary (12.3), darunavir plus ritonavir, fosamprenavir, fosamprenavir plus ritonavir) | Do not exceed 20 mg atorvastatin daily |
+| Clarithromycin, itraconazole, HIV protease inhibitors (saquinavir plus ritonavir*, darunavir plus ritonavir, fosamprenavir, fosamprenavir plus ritonavir) | Do not exceed 20 mg atorvastatin daily |
 | HIV protease inhibitor (nelfinavir) Hepatitis C protease inhibitor (boceprevir) | Do not exceed 40 mg atorvastatin daily |
+| * Use with caution and with the lowest dose necessary(12.3) |  |
 
 Cases of myopathy, including rhabdomyolysis, have been reported with atorvastatin coadministered with colchicine, and caution should be exercised when prescribing atorvastatin with colchicine [see Drug Interactions (7.11)].
 
@@ -70,10 +71,10 @@ Caution should be exercised if a statin is administered concomitantly with drugs
 
 Brain hemorrhage was seen in a female dog treated for 3 months at 120 mg/kg/day.
 Brain hemorrhage and optic nerve vacuolation were seen in another female dog that was sacrificed in moribund condition after 11 weeks of escalating doses up to 280 mg/kg/day.
-The 120 mg/kg dose resulted in a systemic exposure approximately 16 times the human plasma area-under-the-curve (AUC, 0-24 hours) based on the maximum human dose of 80 mg/day.
+The 120 mg/kg dose resulted in a systemic exposure approximately 16 times the human plasma area-under-the-curve (AUC, 0 to 24 hours) based on the maximum human dose of 80 mg/day.
 A single tonic convulsion was seen in each of 2 male dogs (one treated at 10 mg/kg/day and one at 120 mg/kg/day) in a 2-year study.
 No CNS lesions have been observed in mice after chronic treatment for up to 2 years at doses up to 400 mg/kg/day or in rats at doses up to 100 mg/kg/day.
-These doses were 6 to 11 times (mouse) and 8 to 16 times (rat) the human AUC (0-24) based on the maximum recommended human dose of 80 mg/day.
+These doses were 6 to 11 times (mouse) and 8 to 16 times (rat) the human AUC (0 to 24) based on the maximum recommended human dose of 80 mg/day.
 
 CNS vascular lesions, characterized by perivascular hemorrhages, edema, and mononuclear cell infiltration of perivascular spaces, have been observed in dogs treated with other members of this class.
 A chemically similar drug in this class produced optic nerve degeneration (Wallerian degeneration of retinogeniculate fibers) in clinically normal dogs in a dose-dependent fashion at a dose that produced plasma drug levels about 30 times higher than the mean drug level in humans taking the highest recommended dose.

@@ -20,7 +20,7 @@ Table 3 summarizes the frequency of clinical adverse reactions, regardless of ca
 Table 3.
 Clinical Adverse Reactions Occurring in ≥ 2% in Patients Treated with any Dose of Atorvastatin Calcium and at an Incidence Greater Than Placebo Regardless of Causality (% of Patients).
 
-| Adverse ReactionAdverse Reaction ≥ 2% in any dose greater than placebo | Any doseN = 8755 | 10 mg N = 3908 | 20 mg N = 188 | 40 mg N = 604 | 80 mg N = 4055 | Placebo N = 7311 |
+| Adverse Reaction* | Any doseN = 8755 | 10 mg N = 3908 | 20 mg N = 188 | 40 mg N = 604 | 80 mg N = 4055 | Placebo N = 7311 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Nasopharyngitis | 8.3 | 12.9 | 5.3 | 7.0 | 4.2 | 8.2 |
 | Arthralgia | 6.9 | 8.9 | 11.7 | 10.6 | 4.3 | 6.5 |
@@ -34,6 +34,7 @@ Clinical Adverse Reactions Occurring in ≥ 2% in Patients Treated with any Dose
 | Myalgia | 3.5 | 3.6 | 5.9 | 8.4 | 2.7 | 3.1 |
 | Insomnia | 3.0 | 2.8 | 1.1 | 5.3 | 2.8 | 2.9 |
 | Pharyngolaryngeal pain | 2.3 | 3.9 | 1.6 | 2.8 | 0.7 | 2.1 |
+| * Adverse Reaction ≥ 2% in any dose greater than placebo |  |  |  |  |  |  |
 
 Other adverse reactions reported in placebo-controlled studies include:
 

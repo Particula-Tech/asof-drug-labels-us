@@ -56,8 +56,7 @@ Due to the dual interaction mechanism of rifampin, simultaneous coadministration
 
 ## 7.8 Digoxin
 
-When multiple doses of atorvastatin calcium and digoxin were coadministered, steady state plasma digoxin concentrations increased by approximately 20%.
-Patients taking digoxin should be monitored appropriately.
+When multiple doses of atorvastatin calcium and digoxin were coadministered, steady state plasma digoxin concentrations increased [see Clinical Pharmacology (12.3)].Patients taking digoxin should be monitored appropriately.
 
 ## 7.9 Oral Contraceptives
 

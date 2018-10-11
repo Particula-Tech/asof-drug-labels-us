@@ -48,7 +48,7 @@ The overall risk reduction was consistent regardless of age (< 65, ≥ 65) or ge
 Table 6.
 Overview of Efficacy Results in TNT
 
-| Endpoint | Atorvastatin 10 mg (N = 5006) |  | Atorvastatin 80 mg (N = 4995) |  | HRAtorvastatin 80 mg: atorvastatin 10 mg (95% CI) |
+| Endpoint | Atorvastatin 10 mg (N = 5006) |  | Atorvastatin 80 mg (N = 4995) |  | HRa(95% CI) |
 | --- | --- | --- | --- | --- | --- |
 | PRIMARY ENDPOINT | n | (%) | n | (%) |  |
 | First major cardiovascular endpoint | 548 | (10.9) | 434 | (8.7) | 0.78 (0.69, 0.89) |
@@ -57,11 +57,11 @@ Overview of Efficacy Results in TNT
 | Non-fatal, non-procedure related MI | 308 | (6.2) | 243 | (4.9) | 0.78 (0.66, 0.93) |
 | Resuscitated cardiac arrest | 26 | (0.5) | 25 | (0.5) | 0.96 (0.56, 1.67) |
 | Stroke (fatal and non-fatal) | 155 | (3.1) | 117 | (2.3) | 0.75 (0.59, 0.96) |
-| SECONDARY ENDPOINTSSecondary endpoints not included in primary endpoint |  |  |  |  |  |
+| SECONDARY ENDPOINTS* |  |  |  |  |  |
 | First CHF with hospitalization | 164 | (3.3) | 122 | (2.4) | 0.74 (0.59, 0.94) |
 | First PVD endpoint | 282 | (5.6) | 275 | (5.5) | 0.97 (0.83, 1.15) |
-| First CABG or other coronary revascularization procedureComponent of other secondary endpoints | 904 | (18.1) | 667 | (13.4) | 0.72 (0.65, 0.80) |
-| First documented angina endpoint | 615 | (12.3) | 545 | (10.9) | 0.88 (0.79, 0.99) |
+| First CABG or other coronary revascularization procedureb | 904 | (18.1) | 667 | (13.4) | 0.72 (0.65, 0.80) |
+| First documented angina endpointb | 615 | (12.3) | 545 | (10.9) | 0.88 (0.79, 0.99) |
 | All-cause mortality | 282 | (5.6) | 284 | (5.7) | 1.01 (0.85, 1.19) |
 | Components of All-Cause Mortality |  |  |  |  |  |
 | Cardiovascular death | 155 | (3.1) | 126 | (2.5) | 0.81 (0.64, 1.03) |
@@ -69,7 +69,7 @@ Overview of Efficacy Results in TNT
 | Cancer death | 75 | (1.5) | 85 | (1.7) | 1.13 (0.83, 1.55) |
 | Other non-CV death | 43 | (0.9) | 58 | (1.2) | 1.35 (0.91, 2.00) |
 | Suicide, homicide, and other traumatic non-CV death | 9 | (0.2) | 15 | (0.3) | 1.67 (0.73, 3.82) |
-| HR = hazard ratio; CHD = coronary heart disease; CI = confidence interval; MI = myocardial infarction; CHF = congestive heart failure; CV = cardiovascular; PVD = peripheral vascular disease; CABG = coronary artery bypass graft Confidence intervals for the Secondary Endpoints were not adjusted for multiple comparisons |  |  |  |  |  |
+| a Atorvastatin 80 mg: atorvastatin 10 mg b Secondary endpoints not included in primary endpoints * Component of other secondary endpointsHR = hazard ratio; CHD = coronary heart disease; CI = confidence interval; MI = myocardial infarction; CHF = congestive heart failure; CV = cardiovascular; PVD = peripheral vascular disease; CABG = coronary artery bypass graft Confidence intervals for the Secondary Endpoints were not adjusted for multiple comparisons |  |  |  |  |  |
 
 Of the events that comprised the primary efficacy endpoint, treatment with atorvastatin 80 mg/day significantly reduced the rate of non-fatal, non-procedure related MI and fatal and non-fatal stroke, but not CHD death or resuscitated cardiac arrest (Table 6).
 Of the predefined secondary endpoints, treatment with atorvastatin 80 mg/day significantly reduced the rate of coronary revascularization, angina, and hospitalization for heart failure, but not peripheral vascular disease.
@@ -100,7 +100,7 @@ In two multicenter, placebo-controlled, dose-response studies in patients with h
 (Pooled results are provided in Table 7.)
 
 Table 7.
-Dose Response in Patients with Primary Hyperlipidemia (Adjusted Mean % Change From Baseline)Results are pooled from 2 dose-response studies.
+Dose Response in Patients with Primary Hyperlipidemia (Adjusted Mean % Change From Baseline)a
 
 | Dose | N | TC | LDL-C | Apo B | TG | HDL-C | Non-HDL- C/HDL-C |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -109,6 +109,7 @@ Dose Response in Patients with Primary Hyperlipidemia (Adjusted Mean % Change Fr
 | 20 | 20 | -33 | -43 | -35 | -26 | 9 | -41 |
 | 40 | 21 | -37 | -50 | -42 | -29 | 6 | -45 |
 | 80 | 23 | -45 | -60 | -50 | -37 | 5 | -53 |
+| a Results are pooled from 2 dose-response studies. |  |  |  |  |  |  |  |
 
 In patients with Fredrickson Types IIa and IIb hyperlipoproteinemia pooled from 24 controlled trials, the median (25th and 75th percentile) percent changes from baseline in HDL-C for atorvastatin calcium 10, 20, 40, and 80 mg were 6.4 (-1.4, 14), 8.7 (0, 17), 7.8 (0, 16), and 5.1 (-2.7, 15), respectively.
 Additionally, analysis of the pooled data demonstrated consistent and significant decreases in total-C, LDL-C, TG, total-C/HDL-C, and LDL-C/HDL-C.
@@ -122,11 +123,12 @@ Mean Percentage Change From Baseline at Endpoint (Double-Blind, Randomized, Acti
 | Treatment(Daily Dose) | N | Total-C | LDL-C | Apo B | TG | HDL-C | Non-HDL-C/HDL-C |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Study 1 |  |  |  |  |  |  |  |
-| Atorvastatin 10 mg Lovastatin 20 mg 95% CI for DiffA negative value for the 95% CI for the difference between treatments favors atorvastatin calcium for all except HDL-C, for which a positive value favors atorvastatin calcium. If the range does not include 0, this indicates a statistically significant difference. | 707191 | -27Significantly different from lovastatin, ANCOVA, p ≤ 0.05-19-9.2, -6.5 | -36-27-10.7, -7.1 | -28-20-10.0, -6.5 | -17-6-15.2, -7.1 | +7+7-1.7, 2.0 | -37-28-11.1, -7.1 |
+| Atorvastatin 10 mg Lovastatin 20 mg 95% CI for Diff1 | 707191 | -27a-19-9.2, -6.5 | -36a-27-10.7, -7.1 | -282-20-10.0, -6.5 | -17a-6-15.2, -7.1 | +7+7-1.7, 2.0 | -37a-28-11.1, -7.1 |
 | Study 2 |  |  |  |  |  |  |  |
-| Atorvastatin 10 mgPravastatin 20 mg95% CI for Diff | 22277 | -25Significantly different from pravastatin, ANCOVA, p ≤ 0.05-17-10.8, -6.1 | -35-23-14.5, -8.2 | -27-17-13.4, -7.4 | -17-9-14.1, -0.7 | +6+8-4.9, 1.6 | -36-28-11.5, -4.1 |
+| Atorvastatin 10 mgPravastatin 20 mg95% CI for Diff1 | 22277 | -25b-17-10.8, -6.1 | -35b-23-14.5, -8.2 | -27b-17-13.4, -7.4 | -17b-9-14.1, -0.7 | +6+8-4.9, 1.6 | -36b-28-11.5, -4.1 |
 | Study 3 |  |  |  |  |  |  |  |
-| Atorvastatin 10 mg Simvastatin 10 mg 95% CI for Diff | 13245 | -29Significantly different from simvastatin, ANCOVA, p ≤ 0.05-24-8.7, -2.7 | -37-30-10.1, -2.6 | -34-30-8.0, -1.1 | -23-15-15.1, -0.7 | +7+7-4.3, 3.9 | -39-33-9.6, -1.9 |
+| Atorvastatin 10 mg Simvastatin 10 mg 95% CI for Diff1 | 13245 | -29c-24-8.7, -2.7 | -374-30-10.1, -2.6 | -34c-30-8.0, -1.1 | -23c-15-15.1, -0.7 | +7+7-4.3, 3.9 | -39c-33-9.6, -1.9 |
+| A negative value for the 95% CI for the difference between treatments favors atorvastatin calcium for all except HDL-C, for which a positive value favors atorvastatin calcium. If the range does not include 0, this indicates a statistically significant difference. a Significantly different from lovastatin, ANCOVA, p ≤ 0.05b Significantly different from pravastatin, ANCOVA, p ≤ 0.05c Significantly different from simvastatin, ANCOVA, p ≤ 0.05 |  |  |  |  |  |  |  |
 
 The impact on clinical outcomes of the differences in lipid-altering effects between treatments shown in Table 8 is not known.
 Table 8 does not contain data comparing the effects of atorvastatin 10 mg and higher doses of lovastatin, pravastatin, and simvastatin.
