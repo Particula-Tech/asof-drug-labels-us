@@ -230,7 +230,7 @@ This Instruction for Use has been approved by the U.S. Food and Drug Administrat
 
 Manufactured By:
 
-Inventia Healthcare Private Limited
+Inventia Healthcare Limited
 
 Plot No.F1 & F-1/1,
 
@@ -255,4 +255,4 @@ Revised: July 2018
 
 All other trademarks names are the property of their respective owners.
 
-ECA3TGIOIOUS74200
+ECA3TGIOIOUS74203

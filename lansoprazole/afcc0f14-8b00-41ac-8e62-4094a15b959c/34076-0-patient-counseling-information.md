@@ -56,7 +56,7 @@ Administration
 
 Manufactured By:
 
-Inventia Healthcare Private Limited
+Inventia Healthcare Limited
 
 Plot No.F1 & F-1/1,
 
@@ -79,4 +79,4 @@ Mahwah, NJ 07430 USA
 
 Revision Date: July 2018
 
-ECA3TPIOIOUS72502
+ECA3TPIOIOUS72503
