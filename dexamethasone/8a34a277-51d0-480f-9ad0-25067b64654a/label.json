@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA208912"
+  ],
+  "inn": "dexamethasone",
+  "labeler": "Icon Bioscience, Inc.",
+  "package_ndcs": [
+    "71997-100-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SUSPENSION",
+      "generic": "dexamethasone",
+      "name": "Dexycu"
+    }
+  ],
+  "setid": "8a34a277-51d0-480f-9ad0-25067b64654a",
+  "source": "dailymed"
+}
