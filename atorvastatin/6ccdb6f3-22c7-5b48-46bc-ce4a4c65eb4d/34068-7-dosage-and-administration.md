@@ -13,7 +13,6 @@ After initiation and/or upon titration of atorvastatin calcium tablets, lipid le
 
 The recommended starting dose of atorvastatin calcium tablets is 10 mg/day; the usual dose range is 10 to 20 mg orally once daily [see Clinical Studies (14.6)].
 Doses should be individualized according to the recommended goal of therapy [see Indications and Usage (1.2) and Clinical Pharmacology (12)].
-Doses should be individualized according to the recommended goal of therapy [see Indications and Usage (1.2) and Clinical Pharmacology (12)].
 Adjustments should be made at intervals of 4 weeks or more
 
 ## 2.3 Homozygous Familial Hypercholesterolemia

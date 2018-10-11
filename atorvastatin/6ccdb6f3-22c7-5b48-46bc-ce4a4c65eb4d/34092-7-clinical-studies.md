@@ -117,7 +117,7 @@ In two multicenter, placebo-controlled, dose-response studies in patients with h
 TABLE 7.
 Dose Response in Patients With Primary Hyperlipidemia (Adjusted Mean % Change From Baseline)a
 
-| Dose | N | TC | LDL-C | Apo B | TG | HDL-C | Non-HDLC/ HDL-C |
+| Dose | N | TC | LDL-C | Apo B | TG | HDL-C | Non-HDL-C/ HDL-C |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Placebo | 21 | 4 | 4 | 3 | 10 | -3 | 7 |
 | 10 | 22 | -29 | -39 | -32 | -19 | 6 | -34 |

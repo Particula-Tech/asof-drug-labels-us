@@ -62,7 +62,7 @@ The safety and effectiveness of atorvastatin calcium have been established in pe
 
 • LDL-C ≥ 190 mg/dL, or
 
-• LDL-C ≥ 160 mg/dL and o two or more other CVD risk factors are present.
+• LDL-C ≥ 160 mg/dL and
 
 o a positive family history of FH, or premature CVD in a first, or second-degreerelative, or
 

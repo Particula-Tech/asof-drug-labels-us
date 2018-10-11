@@ -8,7 +8,7 @@ Liver enzyme abnormalities [see Warnings and Precautions (5.2)]
 
 ## 6.1 Clinical Trials Experience
 
-Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
 In the atorvastatin calcium placebo-controlled clinical trial database of 16,066 patients (8755 atorvastatin calcium vs. 7311 placebo; age range 10 to 93 years, 39% women, 91% Caucasians, 3% Blacks, 2% Asians, 4% other) with a median treatment duration of 53 weeks, 9.7% of patients on atorvastatin calcium and 9.5% of the patients on placebo discontinued due to adverse reactions regardless of causality.
 The five most common adverse reactions in patients treated with atorvastatin calcium that led to treatment discontinuation and occurred at a rate greater than placebo were: myalgia (0.7%), diarrhea (0.5%), nausea (0.4%), alanine aminotransferase increase (0.4%), and hepatic enzyme increase (0.4%).
