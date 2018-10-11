@@ -123,8 +123,9 @@ Because of the potential for lasting damage, priapism should be evaluated by a d
 
 Common side effects include:
 
-1. • stomach ache • decreased appetite
-2. • nausea • fever
+| • stomach ache | • decreased appetite |
+| --- | --- |
+| • nausea | • fever |
 
 Talk to your doctor if you or your child has side effects that are bothersome or do not go away.
 
