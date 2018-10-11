@@ -18,6 +18,6 @@ Regitine, trademark, CIBA Pharmaceuticals Company.
 
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-1151-2.0
+LAB-1151-3.0
 
-Revised: 08/2018
+Revised: 09/2018
