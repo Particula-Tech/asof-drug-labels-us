@@ -1,12 +1,19 @@
 # PATIENT INFORMATION
 
-Minocycline Hydrochloride Extended-Release Tablets [Minocycline (mye no SYE kleen)] Read this Patient Information leaflet that comes with minocycline hydrochloride extended-release tablets before you start taking them and each time you get a refill.
+Minocycline Hydrochloride Extended-Release Tablets, USP
+
+(min'' oh sye' kleen hye'' droe klor' ide)
+
+Read this Patient Information leaflet that comes with minocycline hydrochloride extended-release tablets before you start taking them and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with your doctor about your condition or treatment.
+
 What are minocycline hydrochloride extended-release tablets?
+
 Minocycline hydrochloride is a tetracycline-class drug.
 Minocycline hydrochloride extended-release tablets are prescription medicine used to treat pimples and red bumps (non-nodular inflammatory lesions) that happen with moderate to severe acne vulgaris in people 12 years and older.
 Minocycline hydrochloride extended-release tablets are not effective for acne that is not red-looking (this means acne that is not inflammatory).
+
 It is not known if minocycline hydrochloride extended-release tablets are:
 
 - safe for use longer than 12 weeks.
@@ -14,9 +21,12 @@ It is not known if minocycline hydrochloride extended-release tablets are:
 - safe and effective in children under the age of 12 years.
 
 Who should not take minocycline hydrochloride extended-release tablets?
+
 Do not take minocycline hydrochloride extended-release tablets if you are allergic to tetracycline-class drugs.
 Ask your doctor or pharmacist for a list of these medicines if you are not sure.
+
 What should I tell my doctor before taking minocycline hydrochloride extended-release tablets?
+
 Before you take minocycline hydrochloride extended-release tablets, tell your doctor if you:
 
 - have kidney problems.
@@ -40,6 +50,7 @@ Before you take minocycline hydrochloride extended-release tablets, tell your do
 
 Tell your doctor about all the other medicines you take including prescription and nonprescription medicines, vitamins and herbal supplements.
 Minocycline hydrochloride extended-release tablets may affect the way other medicines work, and other medicines may affect how minocycline hydrochloride extended-release tablets work.
+
 Especially tell your doctor if you take:
 
 - birth control pills.
@@ -54,8 +65,10 @@ Especially tell your doctor if you take:
   Minocycline hydrochloride extended-release tablets and isotretinoin should not be used together.
 
 Ask your doctor or pharmacist if you are not sure if your medicine is one that is listed above.
+
 Know the medicines you take.
 Keep a list of them to show your doctor and pharmacist.
+
 How should I take minocycline hydrochloride extended-release tablets?
 
 - Take minocycline hydrochloride extended-release tablets exactly as your doctor tells you.
@@ -70,6 +83,7 @@ How should I take minocycline hydrochloride extended-release tablets?
 
 If you take too much minocycline hydrochloride extended-release tablets, call your doctor or poison control center right away.
 Your doctor may do blood tests to check you for side effects during treatment with minocycline hydrochloride extended-release tablets.
+
 What should I avoid while taking minocycline hydrochloride extended-release tablets?
 
 - Avoid sunlight, sunlamps, and tanning beds.
@@ -80,6 +94,7 @@ What should I avoid while taking minocycline hydrochloride extended-release tabl
   Minocycline hydrochloride extended-release tablets may cause you to feel dizzy or lightheaded, or have a spinning feeling (vertigo).
 
 What are possible side effects of minocycline hydrochloride extended-release tablets?
+
 Minocycline hydrochloride extended-release tablets may cause serious side effects, including:
 
 - Harm to an unborn baby.
@@ -124,7 +139,7 @@ Minocycline hydrochloride extended-release tablets may cause serious side effect
   - pain on the right side of the stomach area (abdominal pain)
   - chest pain or abnormal heartbeats
   - swelling in your legs, ankles, and feet
-  - darkening of your nails, skin, eyes, scars, teeth, and gums.
+  - darkening of your nails, skin, eyes, scars, teeth, and gums
 
 The most common side effects of minocycline hydrochloride extended-release tablets include:
 
@@ -135,11 +150,14 @@ The most common side effects of minocycline hydrochloride extended-release table
 
 Call your doctor if you have a side effect that bothers you or that does not go away.
 Your doctor may do tests to check you for side effects during treatment with minocycline hydrochloride extended-release tablets.
+
 These are not all the side effects with minocycline hydrochloride extended-release tablets.
 Ask your doctor or pharmacist for more information.
+
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 You may also report side effects to Aurobindo Pharma USA, Inc. at 1-866-850-2876.
+
 How should I store minocycline hydrochloride extended-release tablets?
 
 - Store minocycline hydrochloride extended-release tablets between 20° to 25°C (68° to 77°F).
@@ -147,26 +165,39 @@ How should I store minocycline hydrochloride extended-release tablets?
 - Keep minocycline hydrochloride extended-release tablets dry.
 
 Keep minocycline hydrochloride extended-release tablets and all medicines out of the reach of children.
-General information about minocycline hydrochloride extended-release tablets Medicines are sometimes prescribed for purposes other than those listed in the Patient Information leaflet.
-Do not use minocycline hydrochloride extended-release tablets
 
-for a condition for which it was not prescribed.
-Do not give minocycline hydrochloride extended-release tablets
+General information about minocycline hydrochloride extended-release tablets
 
-to other people, even if they have the same symptoms you have.
+Medicines are sometimes prescribed for purposes other than those listed in the Patient Information leaflet.
+Do not use minocycline hydrochloride extended-release tablets for a condition for which it was not prescribed.
+Do not give minocycline hydrochloride extended-release tablets to other people, even if they have the same symptoms you have.
 They may harm them.
+
 This Patient Information leaflet summarizes the most important information about minocycline hydrochloride extended-release tablets.
 If you would like more information, talk to your doctor.
-You can ask your doctor or pharmacist for information about minocycline hydrochloride extended-release tablets
+You can ask your doctor or pharmacist for information about minocycline hydrochloride extended-release tablets that is written for health professionals.
 
-that is written for health professionals.
 For more information, call 1-866-850-2876.
+
 What are the ingredients in minocycline hydrochloride extended-release tablets?
+
 Active Ingredient: Minocycline Hydrochloride, USP.
-Inactive Ingredients:colloidal silicon dioxide, hypromellose, lactose monohydrate, magnesium stearate, titanium dioxide, and triacetin.
+
+Inactive Ingredients: colloidal silicon dioxide, hypromellose, lactose monohydrate, magnesium stearate, titanium dioxide, and triacetin.
 The 45 mg tablets also contain iron oxide black.
+The 65 mg tablets also contain D&C Yellow #10 aluminum lake, FD&C Blue #1/Brilliant blue FCF aluminum lake, FD&C Blue #2/Indigo caramine aluminum lake, and polyethylene glycol.
+The 80 mg tablets also contain FD&C Blue #2 indigo caramine aluminum lake, FD&C Red # 40/Allura Red AC aluminum lake, FD&C Yellow #6/Sunset yellow FCF aluminum lake and polyethylene glycol.
 The 90 mg tablets also contain iron oxide yellow and polyethylene glycol.
+The 105 mg tablets also contain D&C Red #27/Phloxine aluminum lake, FD&C Blue #1/Brilliant blue FCF aluminum lake and polyethylene glycol.
+The 115 mg tablets also contain D&C Yellow #10 aluminum lake, FD&C Blue #1/Brilliant blue FCF aluminum lake and FD&C Blue #2/Indigo caramine aluminum lake.
 The 135 mg tablets also contain iron oxide red and polyethylene glycol.
+
 This Patient Information has been approved by the U.S. Food and Drug Administration.
+
 All brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt) AP-509302, INDIA Revised: 11/2013
+
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520
+
+Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India
+
+Issued: August 2018

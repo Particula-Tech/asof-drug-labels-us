@@ -2,12 +2,11 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects: Pregnancy Category D [see WARNINGS AND PRECAUTIONS (5.1)].
-Minocycline hydrochloride extended-release tablets should not be used during pregnancy.
+Teratogenic Effects: Pregnancy Category D [see WARNINGS AND PRECAUTIONS (5.1)] Minocycline hydrochloride extended-release tablets should not be used during pregnancy.
 If the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus and stop treatment immediately.
 There are no adequate and well-controlled studies on the use of minocycline in pregnant women.
 Minocycline, like other tetracycline-class drugs, crosses the placenta and may cause fetal harm when administered to a pregnant woman.
-Rare spontaneous reports of congenital anomalies including limb reduction have been reported with minocycline use in pregnancy in postmarketing experience.
+Rare spontaneous reports of congenital anomalies including limb reduction have been reported with minocycline use in pregnancy in post-marketing experience.
 Only limited information is available regarding these reports; therefore, no conclusion on causal association can be established.
 Minocycline induced skeletal malformations (bent limb bones) in fetuses when administered to pregnant rats and rabbits in doses of 30 mg/kg/day and 100 mg/kg/day, respectively, (resulting in approximately 3 times and 2 times, respectively, the systemic exposure to minocycline observed in patients as a result of use of minocycline hydrochloride extended-release tablets).
 Reduced mean fetal body weight was observed in studies in which minocycline was administered to pregnant rats at a dose of 10 mg/kg/day (which resulted in approximately the same level of systemic exposure to minocycline as that observed in patients who use minocycline hydrochloride extended-release tablets).
@@ -30,8 +29,6 @@ Use of tetracycline-class antibiotics below the age of 8 is not recommended due 
 
 ## 8.5 Geriatric Use
 
-Clinical studies of minocycline hydrochloride extended-release tablets
-
-did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical studies of minocycline hydrochloride extended-release tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and concomitant disease or other drug therapy.

@@ -18,7 +18,7 @@ Evidence of embryotoxicity has been noted in animals treated early in pregnancy 
 ## 5.2 Pseudomembranous Colitis
 
 Clostridium difficile associated diarrhea (CDAD) has been reported with nearly all antibacterial agents, including minocycline, and may range in severity from mild diarrhea to fatal colitis.
-Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C.difficile.
+Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 C. difficile produces toxins A and B which contribute to the development of CDAD.
 Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
 CDAD must be considered in all patients who present with diarrhea following antibiotic use.
@@ -28,7 +28,7 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 
 ## 5.3 Hepatotoxicity
 
-Postmarketing cases of serious liver injury, including irreversible drug-induced hepatitis and fulminant hepatic failure (sometimes fatal) have been reported with minocycline use in the treatment of acne.
+Post-marketing cases of serious liver injury, including irreversible drug-induced hepatitis and fulminant hepatic failure (sometimes fatal) have been reported with minocycline use in the treatment of acne.
 
 ## 5.4 Metabolic Effects
 
@@ -92,12 +92,11 @@ Because of the potential for drug-resistant bacteria to develop during the use o
 
 ## 5.12 Superinfection
 
-As with other antibiotic preparations, use of minocycline hydrochloride extended-release tablets
-
-may result in overgrowth of nonsusceptible organisms, including fungi.
+As with other antibiotic preparations, use of minocycline hydrochloride extended-release tablets may result in overgrowth of nonsusceptible organisms, including fungi.
 If superinfection occurs, minocycline hydrochloride extended-release tablets should be discontinued and appropriate therapy instituted.
 
 ## 5.13 Laboratory Monitoring
 
 Periodic laboratory evaluations of organ systems, including hematopoietic, renal and hepatic studies should be performed.
 Appropriate tests for autoimmune syndromes should be performed as indicated.
+Minocycline hydrochloride extended-release tablets, 80 mg contain FD&C Yellow No. 6 as a color additive.
