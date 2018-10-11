@@ -1,6 +1,6 @@
-# 9 DRUG ABUSE AND DEPENDENCE
+# 9DRUG ABUSE AND DEPENDENCE
 
-## 9.2 Abuse and Dependence
+## 9.2Abuse and Dependence
 
 Physical and Psychological Dependence
 

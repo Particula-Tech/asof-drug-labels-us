@@ -1,8 +1,8 @@
-# 17 PATIENT COUNSELING INFORMATION
+# 17PATIENT COUNSELING INFORMATION
 
 See FDA-approved Medication Guide
 
-## 17.1 Information for Patients
+## 17.1Information for Patients
 
 Physicians are advised to discuss the following issues with patients for whom they prescribe Lexapro.
 
@@ -25,7 +25,7 @@ Symptoms such as these may be associated with an increased risk for suicidal thi
 
 Serotonin Syndrome
 
-Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of Lexapro with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines and St. John's Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid) [see Warnings and Precautions (5.2)].
+Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of Lexapro with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines and St. John’s Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid) [see Warnings and Precautions (5.2)].
 
 Abnormal Bleeding
 
@@ -69,6 +69,6 @@ Drug treatment may not be indicated for all adolescents with this syndrome.
 Safety and effectiveness of Lexapro in MDD has not been established in pediatric patients less than 12 years of age.
 Antidepressants are not intended for use in the adolescent who exhibits symptoms secondary to environmental factors and/or other primary psychiatric disorders.
 Appropriate educational placement is essential and psychosocial intervention is often helpful.
-When remedial measures alone are insufficient, the decision to prescribe antidepressant medication will depend upon the physician's assessment of the chronicity and severity of the patient's symptoms.
+When remedial measures alone are insufficient, the decision to prescribe antidepressant medication will depend upon the physician’s assessment of the chronicity and severity of the patient’s symptoms.
 
-## 17.2 FDA-Approved Medication Guide
+## 17.2FDA-Approved Medication Guide

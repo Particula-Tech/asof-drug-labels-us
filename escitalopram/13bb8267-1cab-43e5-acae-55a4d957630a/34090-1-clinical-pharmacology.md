@@ -1,10 +1,10 @@
-# 12 CLINICAL PHARMACOLOGY
+# 12CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism of Action
+## 12.1Mechanism of Action
 
 The mechanism of antidepressant action of escitalopram, the S-enantiomer of racemic citalopram, is presumed to be linked to potentiation of serotonergic activity in the central nervous system (CNS) resulting from its inhibition of CNS neuronal reuptake of serotonin (5-HT).
 
-## 12.2 Pharmacodynamics
+## 12.2Pharmacodynamics
 
 In vitro and in vivo studies in animals suggest that escitalopram is a highly selective serotonin reuptake inhibitor (SSRI) with minimal effects on norepinephrine and dopamine neuronal reuptake.
 Escitalopram is at least 100-fold more potent than the R-enantiomer with respect to inhibition of 5-HT reuptake and inhibition of 5-HT neuronal firing rate.
@@ -13,7 +13,7 @@ Escitalopram has no or very low affinity for serotonergic (5-HT1-7) or other rec
 Escitalopram also does not bind to, or has low affinity for, various ion channels including Na+, K+, Cl-, and Ca++ channels.
 Antagonism of muscarinic, histaminergic, and adrenergic receptors has been hypothesized to be associated with various anticholinergic, sedative, and cardiovascular side effects of other psychotropic drugs.
 
-## 12.3 Pharmacokinetics
+## 12.3Pharmacokinetics
 
 The single- and multiple-dose pharmacokinetics of escitalopram are linear and dose-proportional in a dose range of 10 to 30 mg/day.
 Biotransformation of escitalopram is mainly hepatic, with a mean terminal half-life of about 27-32 hours.

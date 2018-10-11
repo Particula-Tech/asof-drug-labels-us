@@ -1,8 +1,8 @@
-# 2 DOSAGE AND ADMINISTRATION
+# 2DOSAGE AND ADMINISTRATION
 
 Lexapro should be administered once daily, in the morning or evening, with or without food.
 
-## 2.1 Major Depressive Disorder
+## 2.1Major Depressive Disorder
 
 Initial Treatment
 
@@ -25,7 +25,7 @@ Systematic evaluation of continuing Lexapro 10 or 20 mg/day in adults patients w
 Nevertheless, the physician who elects to use Lexapro for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient.
 Patients should be periodically reassessed to determine the need for maintenance treatment.
 
-## 2.2 Generalized Anxiety Disorder
+## 2.2Generalized Anxiety Disorder
 
 Initial Treatment
 
@@ -40,14 +40,14 @@ Generalized anxiety disorder is recognized as a chronic condition.
 The efficacy of Lexapro in the treatment of GAD beyond 8 weeks has not been systematically studied.
 The physician who elects to use Lexapro for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient.
 
-## 2.3 Special Populations
+## 2.3Special Populations
 
 10 mg/day is the recommended dose for most elderly patients and patients with hepatic impairment.
 
 No dosage adjustment is necessary for patients with mild or moderate renal impairment.
 Lexapro should be used with caution in patients with severe renal impairment.
 
-## 2.4 Discontinuation of Treatment with Lexapro
+## 2.4Discontinuation of Treatment with Lexapro
 
 Symptoms associated with discontinuation of Lexapro and other SSRIs and SNRIs have been reported [see Warnings and Precautions (5.3)].
 Patients should be monitored for these symptoms when discontinuing treatment.
@@ -55,12 +55,12 @@ A gradual reduction in the dose rather than abrupt cessation is recommended when
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
 Subsequently, the physician may continue decreasing the dose but at a more gradual rate.
 
-## 2.5 Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
+## 2.5Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
 
 At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with Lexapro.
 Conversely, at least 14 days should be allowed after stopping Lexapro before starting an MAOI intended to treat psychiatric disorders [see Contraindications (4.1)].
 
-## 2.6 Use of Lexapro with Other MAOIs such as Linezolid or Methylene Blue
+## 2.6Use of Lexapro with Other MAOIs such as Linezolid or Methylene Blue
 
 Do not start Lexapro in a patient who is being treated with linezolid or intravenous methylene blue because there is an increased risk of serotonin syndrome.
 In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered [see Contraindications (4.1)].

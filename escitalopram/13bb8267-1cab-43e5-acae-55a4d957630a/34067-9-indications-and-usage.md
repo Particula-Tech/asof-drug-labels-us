@@ -1,4 +1,4 @@
-# 1 INDICATIONS AND USAGE
+# 1INDICATIONS AND USAGE
 
 ## 1.1 Major Depressive Disorder
 
@@ -6,7 +6,7 @@ Lexapro (escitalopram) is indicated for the acute and maintenance treatment of m
 
 A major depressive episode (DSM-IV) implies a prominent and relatively persistent (nearly every day for at least 2 weeks) depressed or dysphoric mood that usually interferes with daily functioning, and includes at least five of the following nine symptoms: depressed mood, loss of interest in usual activities, significant change in weight and/or appetite, insomnia or hypersomnia, psychomotor agitation or retardation, increased fatigue, feelings of guilt or worthlessness, slowed thinking or impaired concentration, a suicide attempt or suicidal ideation.
 
-## 1.2 Generalized Anxiety Disorder
+## 1.2Generalized Anxiety Disorder
 
 Lexapro is indicated for the acute treatment of Generalized Anxiety Disorder (GAD) in adults [see Clinical Studies (14.2)].
 

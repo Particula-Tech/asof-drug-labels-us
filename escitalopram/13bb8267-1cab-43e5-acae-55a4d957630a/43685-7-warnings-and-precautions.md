@@ -1,6 +1,6 @@
-# 5 WARNINGS AND PRECAUTIONS
+# 5WARNINGS AND PRECAUTIONS
 
-## 5.1 Clinical Worsening and Suicide Risk
+## 5.1Clinical Worsening and Suicide Risk
 
 Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
@@ -15,10 +15,9 @@ There were differences in absolute risk of suicidality across the different indi
 The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
 These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1.
 
-TABLE 1
-
-| Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
+| TABLE 1 |  |
 | --- | --- |
+| Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
 |  | Increases Compared to Placebo |
 | <18 | 14 additional cases |
 | 18-24 | 5 additional cases |
@@ -53,9 +52,9 @@ Whether any of the symptoms described above represent such a conversion is unkno
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
 It should be noted that Lexapro is not approved for use in treating bipolar depression.
 
-## 5.2 Serotonin Syndrome
+## 5.2Serotonin Syndrome
 
-The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including Lexapro, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John's Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
+The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including Lexapro, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
 
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination) seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 Patients should be monitored for the emergence of serotonin syndrome.
@@ -67,11 +66,11 @@ No reports involved the administration of methylene blue by other routes (such a
 There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking Lexapro.
 Lexapro should be discontinued before initiating treatment with the MAOI [see Contraindications (4.1) and Dosage and Administration (2.5 and 2.6)].
 
-If concomitant use of Lexapro with other serotonergic drugs including, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, amphetamine and St. John's Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
+If concomitant use of Lexapro with other serotonergic drugs including, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, amphetamine and St. John’s Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
 
 Treatment with Lexapro and any concomitant serotonergic agents, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
-## 5.3 Discontinuation of Treatment with Lexapro
+## 5.3Discontinuation of Treatment with Lexapro
 
 During marketing of Lexapro and other SSRIs and SNRIs (serotonin and norepinephrine reuptake inhibitors), there have been spontaneous reports of adverse events occurring upon discontinuation of these drugs, particularly when abrupt, including the following: dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g., paresthesias such as electric shock sensations), anxiety, confusion, headache, lethargy, emotional lability, insomnia, and hypomania.
 While these events are generally self-limiting, there have been reports of serious discontinuation symptoms.
@@ -81,21 +80,21 @@ A gradual reduction in the dose rather than abrupt cessation is recommended when
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
 Subsequently, the physician may continue decreasing the dose but at a more gradual rate [see Dosage and Administration (2.4)].
 
-## 5.4 Seizures
+## 5.4Seizures
 
 Although anticonvulsant effects of racemic citalopram have been observed in animal studies, Lexapro has not been systematically evaluated in patients with a seizure disorder.
 These patients were excluded from clinical studies during the product's premarketing testing.
 In clinical trials of Lexapro, cases of convulsion have been reported in association with Lexapro treatment.
 Like other drugs effective in the treatment of major depressive disorder, Lexapro should be introduced with care in patients with a history of seizure disorder.
 
-## 5.5 Activation of Mania/Hypomania
+## 5.5Activation of Mania/Hypomania
 
 In placebo-controlled trials of Lexapro in major depressive disorder, activation of mania/hypomania was reported in one (0.1%) of 715 patients treated with Lexapro and in none of the 592 patients treated with placebo.
 One additional case of hypomania has been reported in association with Lexapro treatment.
 Activation of mania/hypomania has also been reported in a small proportion of patients with major affective disorders treated with racemic citalopram and other marketed drugs effective in the treatment of major depressive disorder.
 As with all drugs effective in the treatment of major depressive disorder, Lexapro should be used cautiously in patients with a history of mania.
 
-## 5.6 Hyponatremia
+## 5.6Hyponatremia
 
 Hyponatremia may occur as a result of treatment with SSRIs and SNRIs, including Lexapro.
 In many cases, this hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH), and was reversible when Lexapro was discontinued.
@@ -107,7 +106,7 @@ Discontinuation of Lexapro should be considered in patients with symptomatic hyp
 Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which may lead to falls.
 Signs and symptoms associated with more severe and/or acute cases have included hallucination, syncope, seizure, coma, respiratory arrest, and death.
 
-## 5.7 Abnormal Bleeding
+## 5.7Abnormal Bleeding
 
 SSRIs and SNRIs, including Lexapro, may increase the risk of bleeding events.
 Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs, warfarin, and other anticoagulants may add to the risk.
@@ -116,16 +115,16 @@ Bleeding events related to SSRIs and SNRIs use have ranged from ecchymoses, hema
 
 Patients should be cautioned about the risk of bleeding associated with the concomitant use of Lexapro and NSAIDs, aspirin, or other drugs that affect coagulation.
 
-## 5.8 Interference with Cognitive and Motor Performance
+## 5.8Interference with Cognitive and Motor Performance
 
 In a study in normal volunteers, Lexapro 10 mg/day did not produce impairment of intellectual function or psychomotor performance.
 Because any psychoactive drug may impair judgment, thinking, or motor skills, however, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that Lexapro therapy does not affect their ability to engage in such activities.
 
-## 5.9 Angle Closure Glaucoma
+## 5.9Angle Closure Glaucoma
 
 Angle Closure Glaucoma: The pupillary dilation that occurs following use of many antidepressant drugs including Lexapro may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 
-## 5.10 Use in Patients with Concomitant Illness
+## 5.10Use in Patients with Concomitant Illness
 
 Clinical experience with Lexapro in patients with certain concomitant systemic illnesses is limited.
 Caution is advisable in using Lexapro in patients with diseases or conditions that produce altered metabolism or hemodynamic responses.

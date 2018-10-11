@@ -1,11 +1,11 @@
-# 14 CLINICAL STUDIES
+# 14CLINICAL STUDIES
 
-## 14.1 Major Depressive Disorder
+## 14.1Major Depressive Disorder
 
 Adolescents
 
 The efficacy of Lexapro as an acute treatment for major depressive disorder in adolescent patients was established in an 8-week, flexible-dose, placebo-controlled study that compared Lexapro 10-20 mg/day to placebo in outpatients 12 to 17 years of age inclusive who met DSM-IV criteria for major depressive disorder.
-The primary outcome was change from baseline to endpoint in the Children's Depression Rating Scale - Revised (CDRS-R).
+The primary outcome was change from baseline to endpoint in the Children’s Depression Rating Scale - Revised (CDRS-R).
 In this study, Lexapro showed statistically significant greater mean improvement compared to placebo on the CDRS-R.
 
 The efficacy of Lexapro in the acute treatment of major depressive disorder in adolescents was established, in part, on the basis of extrapolation from the 8-week, flexible-dose, placebo-controlled study with racemic citalopram 20-40 mg/day.
@@ -35,7 +35,7 @@ Response during the open-label phase was defined by having a decrease of the MAD
 Relapse during the double-blind phase was defined as an increase of the MADRS total score to ≥ 22, or discontinuation due to insufficient clinical response.
 Patients receiving continued Lexapro experienced a statistically significant longer time to relapse compared to those receiving placebo.
 
-## 14.2 Generalized Anxiety Disorder
+## 14.2Generalized Anxiety Disorder
 
 The efficacy of Lexapro in the acute treatment of Generalized Anxiety Disorder (GAD) was demonstrated in three, 8-week, multicenter, flexible-dose, placebo-controlled studies that compared Lexapro 10-20 mg/day to placebo in adult outpatients between 18 and 80 years of age who met DSM-IV criteria for GAD.
 In all three studies, Lexapro showed statistically significant greater mean improvement compared to placebo on the Hamilton Anxiety Scale (HAM-A).

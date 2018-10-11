@@ -1,6 +1,6 @@
-# 6 ADVERSE REACTIONS
+# 6ADVERSE REACTIONS
 
-## 6.1 Clinical Trials Experience
+## 6.1Clinical Trials Experience
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
@@ -63,40 +63,43 @@ The most commonly observed adverse reactions in Lexapro patients (incidence of a
 Table 2 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse events that occurred among 715 depressed patients who received Lexapro at doses ranging from 10 to 20 mg/day in placebo-controlled trials.
 Events included are those occurring in 2% or more of patients treated with Lexapro and for which the incidence in patients treated with Lexapro was greater than the incidence in placebo-treated patients.
 
-TABLE 2 Treatment-Emergent Adverse Reactions observed with a frequency of ≥ 2% and greater than placebo for Major Depressive Disorder
+| TABLE 2 |
+| --- |
+| Treatment-Emergent Adverse Reactions observed with a frequency of ≥ 2% and greater than placebo for Major Depressive Disorder |
+| Adverse Reaction LexaproPlacebo |
+| (N=715) (N=592) % % |
+| Autonomic Nervous System Disorders |
+| Dry Mouth 6% 5% |
+| Sweating Increased 5% 2% |
+| Central & Peripheral Nervous System Disorders |
+| Dizziness 5% 3% |
+| Gastrointestinal Disorders |
+| Nausea 15% 7% |
+| Diarrhea 8% 5% |
+| Constipation 3% 1% |
+| Indigestion 3% 1% |
+| Abdominal Pain 2% 1% |
+| General |
+| Influenza-like Symptoms 5% 4% |
+| Fatigue 5% 2% |
+| Psychiatric Disorders |
+| Insomnia 9% 4% |
+| Somnolence 6% 2% |
+| Appetite Decreased 3% 1% |
+| Libido Decreased 3% 1% |
+| Respiratory System Disorders |
+| Rhinitis 5% 4% |
+| Sinusitis 3% 2% |
+| Urogenital |
+| Ejaculation Disorder1,2 9% <1% |
+| Impotence2 3% <1% |
+| Anorgasmia3 2% <1% |
 
-| Adverse Reaction | Lexapro | Placebo |
-| --- | --- | --- |
-|  | (N=715) % | (N=592) % |
-| Autonomic Nervous System Disorders |  |  |
-| Dry Mouth | 6% | 5% |
-| Sweating Increased | 5% | 2% |
-| Central & Peripheral Nervous System Disorders |  |  |
-| Dizziness | 5% | 3% |
-| Gastrointestinal Disorders |  |  |
-| Nausea | 15% | 7% |
-| Diarrhea | 8% | 5% |
-| Constipation | 3% | 1% |
-| Indigestion | 3% | 1% |
-| Abdominal Pain | 2% | 1% |
-| General |  |  |
-| Influenza-like Symptoms | 5% | 4% |
-| Fatigue | 5% | 2% |
-| Psychiatric Disorders |  |  |
-| Insomnia | 9% | 4% |
-| Somnolence | 6% | 2% |
-| Appetite Decreased | 3% | 1% |
-| Libido Decreased | 3% | 1% |
-| Respiratory System Disorders |  |  |
-| Rhinitis | 5% | 4% |
-| Sinusitis | 3% | 2% |
-| Urogenital |  |  |
-| Ejaculation Disorder1,2 | 9% | <1% |
-| Impotence2 | 3% | <1% |
-| Anorgasmia3 | 2% | <1% |
-| 1Primarily ejaculatory delay. |  |  |
-| 2Denominator used was for males only (N=225 Lexapro; N=188 placebo). |  |  |
-| 3Denominator used was for females only (N=490 Lexapro; N=404 placebo). |  |  |
+1Primarily ejaculatory delay.
+
+2Denominator used was for males only (N=225 Lexapro; N=188 placebo).
+
+3Denominator used was for females only (N=490 Lexapro; N=404 placebo).
 
 Generalized Anxiety Disorder
 
@@ -107,47 +110,50 @@ The most commonly observed adverse reactions in Lexapro patients (incidence of a
 Table 3 enumerates the incidence, rounded to the nearest percent of treatment-emergent adverse events that occurred among 429 GAD patients who received Lexapro 10 to 20 mg/day in placebo-controlled trials.
 Events included are those occurring in 2% or more of patients treated with Lexapro and for which the incidence in patients treated with Lexapro was greater than the incidence in placebo-treated patients.
 
-TABLE 3 Treatment-Emergent Adverse Reactions observed with a frequency of ≥ 2% and greater than placebo for Generalized Anxiety Disorder
+| TABLE 3 |
+| --- |
+| Treatment-Emergent Adverse Reactions observed with a frequency of ≥ 2% and greater than placebo for Generalized Anxiety Disorder |
+| Adverse ReactionsLexapro Placebo |
+| (N=429) (N=427) % % |
+| Autonomic Nervous System Disorders |
+| Dry Mouth 9% 5% |
+| Sweating Increased 4% 1% |
+| Central & Peripheral Nervous System Disorders |
+| Headache 24% 17% |
+| Paresthesia 2% 1% |
+| Gastrointestinal Disorders |
+| Nausea 18% 8% |
+| Diarrhea 8% 6% |
+| Constipation 5% 4% |
+| Indigestion 3% 2% |
+| Vomiting 3% 1% |
+| Abdominal Pain 2% 1% |
+| Flatulence 2% 1% |
+| Toothache 2% 0% |
+| General |
+| Fatigue 8% 2% |
+| Influenza-like Symptoms 5% 4% |
+| Musculoskeletal System Disorder |
+| Neck/Shoulder Pain 3% 1% |
+| Psychiatric Disorders |
+| Somnolence 13% 7% |
+| Insomnia 12% 6% |
+| Libido Decreased 7% 2% |
+| Dreaming Abnormal 3% 2% |
+| Appetite Decreased 3% 1% |
+| Lethargy 3% 1% |
+| Respiratory System Disorders |
+| Yawning 2% 1% |
+| Urogenital |
+| Ejaculation Disorder1,2 14% 2% |
+| Anorgasmia3 6% <1% |
+| Menstrual Disorder 2% 1% |
 
-| Adverse Reactions | Lexapro | Placebo |
-| --- | --- | --- |
-|  | (N=429) % | (N=427) % |
-| Autonomic Nervous System Disorders |  |  |
-| Dry Mouth | 9% | 5% |
-| Sweating Increased | 4% | 1% |
-| Central & Peripheral Nervous System Disorders |  |  |
-| Headache | 24% | 17% |
-| Paresthesia | 2% | 1% |
-| Gastrointestinal Disorders |  |  |
-| Nausea | 18% | 8% |
-| Diarrhea | 8% | 6% |
-| Constipation | 5% | 4% |
-| Indigestion | 3% | 2% |
-| Vomiting | 3% | 1% |
-| Abdominal Pain | 2% | 1% |
-| Flatulence | 2% | 1% |
-| Toothache | 2% | 0% |
-| General |  |  |
-| Fatigue | 8% | 2% |
-| Influenza-like Symptoms | 5% | 4% |
-| Musculoskeletal System Disorder |  |  |
-| Neck/Shoulder Pain | 3% | 1% |
-| Psychiatric Disorders |  |  |
-| Somnolence | 13% | 7% |
-| Insomnia | 12% | 6% |
-| Libido Decreased | 7% | 2% |
-| Dreaming Abnormal | 3% | 2% |
-| Appetite Decreased | 3% | 1% |
-| Lethargy | 3% | 1% |
-| Respiratory System Disorders |  |  |
-| Yawning | 2% | 1% |
-| Urogenital |  |  |
-| Ejaculation Disorder1,2 | 14% | 2% |
-| Anorgasmia3 | 6% | <1% |
-| Menstrual Disorder | 2% | 1% |
-| 1Primarily ejaculatory delay. |  |  |
-| 2Denominator used was for males only (N=182 Lexapro; N=195 placebo). |  |  |
-| 3Denominator used was for females only (N=247 Lexapro; N=232 placebo). |  |  |
+1Primarily ejaculatory delay.
+
+2Denominator used was for males only (N=182 Lexapro; N=195 placebo).
+
+3Denominator used was for females only (N=247 Lexapro; N=232 placebo).
 
 Dose Dependency of Adverse Reactions
 
@@ -155,10 +161,10 @@ The potential dose dependency of common adverse reactions (defined as an inciden
 The overall incidence rates of adverse events in 10 mg Lexapro-treated patients (66%) was similar to that of the placebo-treated patients (61%), while the incidence rate in 20 mg/day Lexapro-treated patients was greater (86%).
 Table 4 shows common adverse reactions that occurred in the 20 mg/day Lexapro group with an incidence that was approximately twice that of the 10 mg/day Lexapro group and approximately twice that of the placebo group.
 
-TABLE 4 Incidence of Common Adverse Reactions in Patients with Major Depressive Disorder
-
-| Adverse Reaction | Placebo | 10 mg/day | 20 mg/day |
+| TABLE 4 |  |  |  |
 | --- | --- | --- | --- |
+| Incidence of Common Adverse Reactions in Patients with Major Depressive Disorder |  |  |  |
+| Adverse Reaction | Placebo | 10 mg/day | 20 mg/day |
 |  | (N=311) | Lexapro | Lexapro |
 |  |  | (N=310) | (N=125) |
 | Insomnia | 4% | 7% | 14% |
@@ -179,10 +185,10 @@ In particular, some evidence suggests that SSRIs can cause such untoward sexual 
 Reliable estimates of the incidence and severity of untoward experiences involving sexual desire, performance, and satisfaction are difficult to obtain, however, in part because patients and physicians may be reluctant to discuss them.
 Accordingly, estimates of the incidence of untoward sexual experience and performance cited in product labeling are likely to underestimate their actual incidence.
 
-TABLE 5 Incidence of Sexual Side Effects in Placebo-Controlled Clinical Trials
-
-| Adverse Event | Lexapro | Placebo |
+| TABLE 5 |  |  |
 | --- | --- | --- |
+| Incidence of Sexual Side Effects in Placebo-Controlled Clinical Trials |  |  |
+| Adverse Event | Lexapro | Placebo |
 |  | In Males Only |  |
 |  | (N=407) | (N=383) |
 | Ejaculation Disorder (primarily ejaculatory delay) | 12% | 1% |
@@ -217,7 +223,7 @@ These analyses revealed no clinically important changes in laboratory test param
 ECG Changes
 
 Electrocardiograms from Lexapro (N=625) and placebo (N=527) groups were compared with respect to outliers defined as subjects with QTc changes over 60 msec from baseline or absolute values over 500 msec post-dose, and subjects with heart rate increases to over 100 bpm or decreases to less than 50 bpm with a 25% change from baseline (tachycardic or bradycardic outliers, respectively).
-None of the patients in the Lexapro group had a QTcF interval >500 msec or a prolongation >60 msec compared to 0.2% of patients in the placebo group.
+None of the patients in the Lexapro group had a QTcF interval >500 msec or a prolongion >60 msec compared to 0.2% of patients in the placebo group.
 The incidence of tachycardic outliers was 0.2% in the Lexapro and the placebo group.
 The incidence of bradycardic outliers was 0.5% in the Lexapro group and 0.2% in the placebo group.
 
@@ -258,7 +264,7 @@ Special Senses - vision blurred, tinnitus.
 
 Urinary System Disorders - urinary frequency, urinary tract infection.
 
-## 6.2 Post-Marketing Experience
+## 6.2Post-Marketing Experience
 
 Adverse Reactions Reported Subsequent to the Marketing of Escitalopram
 
@@ -285,7 +291,9 @@ Hepatobiliary Disorders: fulminant hepatitis, hepatic failure, hepatic necrosis,
 
 Immune System Disorders: allergic reaction, anaphylaxis.
 
-Investigations: bilirubin increased, decreased weight, electrocardiogram QT prolongation, hepatic enzymes increased, hypercholesterolemia, INR increased, prothrombin decreased.
+Investigations: bilirubin increased, decreased weight, electrocardiogram QT prolongation, hepatic enzymes increased,
+
+hypercholesterolemia, INR increased, prothrombin decreased.
 
 Metabolism and Nutrition Disorders: hyperglycemia, hypoglycemia, hypokalemia, hyponatremia.
 

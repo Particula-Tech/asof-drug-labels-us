@@ -1,6 +1,6 @@
-# 8 USE IN SPECIFIC POPULATIONS
+# 8USE IN SPECIFIC POPULATIONS
 
-## 8.1 Pregnancy
+## 8.1Pregnancy
 
 Pregnancy Category C
 
@@ -48,18 +48,18 @@ Women who discontinued antidepressant medication during pregnancy showed a signi
 When treating a pregnant woman with Lexapro, the physician should carefully consider both the potential risks of taking an SSRl, along with the established benefits of treating depression with an antidepressant.
 This decision can only be made on a case by case basis [see Dosage and Administration (2.1.)].
 
-## 8.2 Labor and Delivery
+## 8.2Labor and Delivery
 
 The effect of Lexapro on labor and delivery in humans is unknown.
 
-## 8.3 Nursing Mothers
+## 8.3Nursing Mothers
 
 Escitalopram is excreted in human breast milk.
 Limited data from women taking 10-20 mg escitalopram showed that exclusively breast-fed infants receive approximately 3.9% of the maternal weight-adjusted dose of escitalopram and 1.7% of the maternal weight-adjusted dose of desmethylcitalopram.
 There were two reports of infants experiencing excessive somnolence, decreased feeding, and weight loss in association with breastfeeding from a racemic citalopram-treated mother; in one case, the infant was reported to recover completely upon discontinuation of racemic citalopram by its mother and, in the second case, no follow-up information was available.
 Caution should be exercised and breastfeeding infants should be observed for adverse reactions when Lexapro is administered to a nursing woman.
 
-## 8.4 Pediatric Use
+## 8.4Pediatric Use
 
 The safety and effectiveness of Lexapro have been established in adolescents (12 to 17 years of age) for the treatment of major depressive disorder [see Clinical Studies (14.1)].
 Although maintenance efficacy in adolescent patients with major depressive disorder has not been systematically evaluated, maintenance efficacy can be extrapolated from adult data along with comparisons of escitalopram pharmacokinetic parameters in adults and adolescent patients.
@@ -72,7 +72,7 @@ Safety and effectiveness of Lexapro has not been established in pediatric patien
 Decreased appetite and weight loss have been observed in association with the use of SSRIs.
 Consequently, regular monitoring of weight and growth should be performed in children and adolescents treated with an SSRI such as Lexapro.
 
-## 8.5 Geriatric Use
+## 8.5Geriatric Use
 
 Approximately 6% of the 1144 patients receiving escitalopram in controlled trials of Lexapro in major depressive disorder and GAD were 60 years of age or older; elderly patients in these trials received daily doses of Lexapro between 10 and 20 mg.
 The number of elderly patients in these trials was insufficient to adequately assess for possible differential efficacy and safety measures on the basis of age.
