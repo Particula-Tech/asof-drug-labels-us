@@ -963,7 +963,7 @@ Important:
 Fill chamber
 
 Fill the water level cup with distilled water up to the arrow markers on the water cup.
-Use fresh distilled water with each treatment (ie, do not use water left in the chamber from a previous treatment).
+Use fresh distilled water each day (ie, do not use water left in the chamber from the previous day).
 Pour the distilled water into the water chamber.
 
 Make sure the water level is above the upper, silver sensor and below the blue ring in the water chamber (about 45 mL of distilled water).
@@ -1676,10 +1676,10 @@ For further questions and information, or to report a problem with your device o
 
 Distributed by: United Therapeutics Corporation Research Triangle Park, North Carolina 27709
 
-© 2017, United Therapeutics Corporation.
+© 2018, United Therapeutics Corporation.
 All rights reserved.
 
 TYVASO is a registered trademark of United Therapeutics Corporation.
 
-Literature issued 2017-10-31 RTP-4-00104, Rev.
-E
+Literature issued 2018-08-01 RTP-4-00104, Rev.
+G
