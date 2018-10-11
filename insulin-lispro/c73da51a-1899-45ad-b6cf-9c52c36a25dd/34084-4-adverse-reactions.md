@@ -1,11 +1,57 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-Clinical studies comparing Humalog Mix75/25 with human insulin mixtures did not demonstrate a difference in frequency of adverse events between the two treatments.
+The following adverse reactions are discussed elsewhere in the labeling:
 
-Adverse events commonly associated with human insulin therapy include the following:
+- Hypoglycemia [see Warnings and Precautions (5.3)]
+- Medication Errors [see Warnings and Precautions (5.4)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.5)]
+- Hypokalemia [see Warnings and Precautions (5.6)]
 
-Body as a Whole — allergic reactions (see PRECAUTIONS).
+Adverse Reactions from Clinical Studies or Postmarketing Reports
 
-Skin and Appendages — injection site reaction, lipodystrophy, pruritus, rash.
+The following adverse reactions have been identified during post-marketing use of HUMALOG Mix75/25.
+Because some of these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Other — hypoglycemia (see WARNINGS and PRECAUTIONS).
+Adverse reactions associated with insulin initiation and glucose control intensification
+
+Intensification or rapid improvement in glucose control has been associated with a transitory, reversible ophthalmologic refraction disorder, worsening of diabetic retinopathy, and acute painful peripheral neuropathy.
+Over the long-term, improved glycemic control decreases the risk of diabetic retinopathy and neuropathy.
+
+Hypersensitivity reactions
+
+Severe, life-threatening, generalized allergy, including anaphylaxis.
+
+Hypoglycemia
+
+Hypoglycemia is the most commonly observed adverse reaction in HUMALOG Mix75/25.
+
+Hypokalemia
+
+HUMALOG Mix75/25 can cause a shift in potassium from the extracellular to intracellular space, possibly leading to hypokalemia.
+
+Injection site reactions
+
+HUMALOG Mix75/25 can cause local injection site reactions including redness, swelling, or itching at the site of injection.
+These reactions usually resolve in a few days to a few weeks, but in some occasions, may require discontinuation.
+Localized reactions and generalized myalgias have been reported with the use of meta-cresol, which is an excipient in HUMALOG Mix75/25.
+
+Lipodystrophy
+
+Administration of insulin subcutaneously, including HUMALOG Mix75/25, has resulted in lipoatrophy (depression in the skin) or lipohypertrophy (enlargement or thickening of tissue) [see Dosage and Administration (2.1)] in some patients.
+
+Medication Errors
+
+Medication errors in which other insulins have been accidentally substituted for HUMALOG Mix75/25 have been identified during postapproval use.
+
+Peripheral Edema
+
+Insulin, including HUMALOG Mix75/25, may cause sodium retention and edema, particularly if previously poor metabolic control is improved by intensified insulin therapy.
+
+Weight gain
+
+Weight gain can occur with insulin therapy, including HUMALOG Mix75/25, and has been attributed to the anabolic effects of insulin and the decrease in glycosuria.
+
+Immunogenicity
+
+As with all therapeutic peptides, insulin administration may cause anti-insulin antibodies to form.
+The incidence of antibody formation with HUMALOG Mix75/25 is unknown.

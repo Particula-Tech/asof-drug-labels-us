@@ -1,24 +1,20 @@
-# PACKAGE CARTON – HUMALOG Mix75/25 10 mL vial
+PACKAGE CARTON – HUMALOG Mix75/25 10 mL vial 1ct
 
 NDC 0002-7511-01
 
 10 mL
 
-VL-7511
-
 100 units per mL
 
 Humalog®
 
-Mix75/25™
+Mix75/25TM
 
-75% insulin lispro
+insulin lispro protamine
 
-protamine suspension
+and insulin lispro
 
-25% insulin lispro injection
-
-(rDNA origin)
+injectable suspension
 
 For subcutaneous use only.
 
@@ -30,7 +26,7 @@ www.humalog.com
 
 Lilly
 
-# PACKAGE CARTON – HUMALOG Mix75/25 KwikPen
+PACKAGE CARTON – HUMALOG Mix75/25 KwikPen 5ct
 
 NDC 0002-8797-59
 
@@ -38,9 +34,9 @@ Humalog® Mix75/25™
 
 KwikPen®
 
-75% insulin lispro protamine suspension
+insulin lispro protamine and insulin lispro
 
-25% insulin lispro injection (rDNA origin)
+injectable suspension
 
 For Single Patient Use Only
 
