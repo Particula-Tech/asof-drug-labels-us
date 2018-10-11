@@ -6,7 +6,7 @@ Asthma
 
 Omalizumab inhibits the binding of IgE to the high-affinity IgE receptor (FcεRI) on the surface of mast cells and basophils.
 Reduction in surface-bound IgE on FcεRI-bearing cells limits the degree of release of mediators of the allergic response.
-Treatment with Xolair also reduces the number of FcεRI receptors on basophils in atopic patients.
+Treatment with XOLAIR also reduces the number of FcεRI receptors on basophils in atopic patients.
 
 Chronic Idiopathic Urticaria
 
@@ -22,25 +22,25 @@ In clinical studies, serum free IgE levels were reduced in a dose dependent mann
 Mean serum free IgE decrease was greater than 96% using recommended doses.
 Serum total IgE levels (i.e., bound and unbound) increased after the first dose due to the formation of omalizumab:IgE complexes, which have a slower elimination rate compared with free IgE.
 At 16 weeks after the first dose, average serum total IgE levels were five-fold higher compared with pre-treatment when using standard assays.
-After discontinuation of Xolair dosing, the Xolair-induced increase in total IgE and decrease in free IgE were reversible, with no observed rebound in IgE levels after drug washout.
-Total IgE levels did not return to pre-treatment levels for up to one year after discontinuation of Xolair.
+After discontinuation of XOLAIR dosing, the XOLAIR-induced increase in total IgE and decrease in free IgE were reversible, with no observed rebound in IgE levels after drug washout.
+Total IgE levels did not return to pre-treatment levels for up to one year after discontinuation of XOLAIR.
 
 Chronic Idiopathic Urticaria
 
-In clinical studies in CIU patients, Xolair treatment led to a dose-dependent reduction of serum free IgE and an increase of serum total IgE levels, similar to the observations in asthma patients.
+In clinical studies in CIU patients, XOLAIR treatment led to a dose-dependent reduction of serum free IgE and an increase of serum total IgE levels, similar to the observations in asthma patients.
 Maximum suppression of free IgE was observed 3 days following the first subcutaneous dose.
 After repeat dosing once every 4 weeks, predose serum free IgE levels remained stable between 12 and 24 weeks of treatment.
 Total IgE levels in serum increased after the first dose due to the formation of omalizumab-IgE complexes which have a slower elimination rate compared with free IgE.
-After repeat dosing once every 4 weeks at 75 mg up to 300 mg, average predose serum total IgE levels at Week 12 were two-to three-fold higher compared with pre-treatment levels, and remained stable between 12 and 24 weeks of treatment.
-After discontinuation of Xolair dosing, free IgE levels increased and total IgE levels decreased towards pre-treatment levels over a 16-week follow-up period.
+After repeat dosing once every 4 weeks at 75 mg up to 300 mg, average predose serum total IgE levels at Week 12 were two- to three-fold higher compared with pre-treatment levels, and remained stable between 12 and 24 weeks of treatment.
+After discontinuation of XOLAIR dosing, free IgE levels increased and total IgE levels decreased towards pre-treatment levels over a 16-week follow-up period.
 
 ## 12.3 Pharmacokinetics
 
 After SC administration, omalizumab was absorbed with an average absolute bioavailability of 62%.
-Following a single SC dose in adult and adolescent patients with asthma, omalizumab was absorbed slowly, reaching peak serum concentrations after an average of 7-8 days.
+Following a single SC dose in adult and adolescent patients with asthma, omalizumab was absorbed slowly, reaching peak serum concentrations after an average of 7–8 days.
 In patients with CIU, the peak serum concentration was reached at a similar time after a single SC dose.
 The pharmacokinetics of omalizumab was linear at doses greater than 0.5 mg/kg.
-In patients with asthma, following multiple doses of Xolair, areas under the serum concentration-time curve from Day 0 to Day 14 at steady state were up to 6-fold of those after the first dose.
+In patients with asthma, following multiple doses of XOLAIR, areas under the serum concentration-time curve from Day 0 to Day 14 at steady state were up to 6-fold of those after the first dose.
 In patients with CIU, omalizumab exhibited linear pharmacokinetics across the dose range of 75 mg to 600 mg given as single subcutaneous dose.
 Following repeat dosing from 75 to 300 mg every 4 weeks, trough serum concentrations of omalizumab increased proportionally with the dose levels.
 
@@ -63,7 +63,7 @@ Special Populations
 Asthma
 
 The population pharmacokinetics of omalizumab was analyzed to evaluate the effects of demographic characteristics in patients with asthma.
-Analyses of these data suggested that no dose adjustments are necessary for age (6-76 years), race, ethnicity, or gender.
+Analyses of these data suggested that no dose adjustments are necessary for age (6–76 years), race, ethnicity, or gender.
 
 Chronic Idiopathic Urticaria
 

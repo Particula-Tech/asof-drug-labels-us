@@ -1,5 +1,5 @@
 # 4 CONTRAINDICATIONS
 
-The use of Xolair is contraindicated in the following:
+The use of XOLAIR is contraindicated in the following:
 
-Severe hypersensitivity reaction to Xolair or any ingredient of Xolair [see Warnings and Precautions (5.1)].
+Severe hypersensitivity reaction to XOLAIR or any ingredient of XOLAIR [see Warnings and Precautions (5.1)].
