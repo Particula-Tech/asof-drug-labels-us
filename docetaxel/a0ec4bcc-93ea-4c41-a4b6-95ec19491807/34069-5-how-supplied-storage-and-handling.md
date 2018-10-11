@@ -15,7 +15,7 @@ Store at 20 to 25°C (68 to 77°F).
 [See USP Controlled Room Temperature].
 Retain in original package to protect from light.
 Freezing does not adversely affect the product.
-After first use and following multiple needle entries and product withdrawals, Docetaxel Injection, USP multi-use vials are stable for up to 28 days when stored between 2°C and 8°C (36°F and 46°F) and protected from light.
+After first use and following multiple needle entries and product withdrawals, Docetaxel Injection multi-use vials are stable for up to 28 days when stored between 2°C and 8°C (36°F and 46°F) and protected from light.
 
 ## 16.3 Handling and Disposal
 

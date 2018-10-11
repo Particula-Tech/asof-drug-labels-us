@@ -9,7 +9,7 @@ Docetaxel Injection, USP 20 mg/2 mL
 Single use vial.
 Discard unused portion.
 
-For Intravenous Infusion only
+For Intravenous Use only
 
 Ready to add to infusion solution.
 Check concentration prior to preparation.
@@ -30,7 +30,7 @@ Docetaxel Injection, USP 20 mg/2 mL
 
 (10 mg/mL)
 
-For Intravenous Infusion only Ready to add to infusion solution Caution: Cytotoxic Agent
+For Intravenous Use only Ready to add to infusion solution Caution: Cytotoxic Agent
 
 Check concentration prior to preparation.
 See package insert for complete instructions.
@@ -45,13 +45,11 @@ Docetaxel Injection, USP 80 mg/8 mL
 
 (10 mg/mL)
 
-For Intravenous Infusion only
+For Intravenous Use only
 
 Ready to add to infusion solution.
 Check concentration prior to preparation.
 See package insert for complete instructions.
-
-RL-4530
 
 # PRINCIPAL DISPLAY PANEL - 8 mL Vial Carton
 
@@ -65,7 +63,7 @@ Docetaxel Injection, USP 80 mg/8 mL
 
 (10 mg/mL)
 
-For Intravenous Infusion only Ready to add to infusion solution Caution: Cytotoxic Agent
+For Intravenous Use only Ready to add to infusion solution Caution: Cytotoxic Agent
 
 Check concentration prior to preparation.
 See package insert for complete instructions.
@@ -80,7 +78,7 @@ Docetaxel Injection, USP 160 mg/16 mL
 
 (10 mg/mL)
 
-For Intravenous Infusion only
+For Intravenous Use only
 
 Ready to add to infusion solution.
 Check concentration prior to preparation.
@@ -98,7 +96,7 @@ Docetaxel Injection, USP 160 mg/16 mL
 
 (10 mg/mL)
 
-For Intravenous Infusion only Ready to add to infusion solution Caution: Cytotoxic Agent
+For Intravenous Use only Ready to add to infusion solution Caution: Cytotoxic Agent
 
 Check concentration prior to preparation.
 See package insert for complete instructions.

@@ -116,9 +116,9 @@ Table 1 - Recommended Dose Modifications for Toxicities in Patients Treated with
 | Stomatitis/mucositis grade 3 | First episode: reduce fluorouracil dose by 20%. Second episode: stop fluorouracil only, at all subsequent cycles. Third episode: reduce Docetaxel Injection dose by 20%. |
 | Stomatitis/mucositis grade 4 | First episode: stop fluorouracil only, at all subsequent cycles. Second episode: reduce Docetaxel Injection dose by 20%. |
 
-Liver dysfunction: In case of AST/ALT >2.5 to ≤5 x ULN and AP ≤2.5 x ULN, or AST/ALT >1.5 to ≤5 x ULN and AP >2.5 to ≤5 x ULN, Docetaxel Injection should be reduced by 20%.
+Liver dysfunction: In case of AST/ALT >2.5 to ≤5 × ULN and AP ≤2.5 × ULN, or AST/ALT >1.5 to ≤5 × ULN and AP >2.5 to ≤5 × ULN, Docetaxel Injection should be reduced by 20%.
 
-In case of AST/ALT >5 x ULN and/or AP >5 x ULN Docetaxel Injection should be stopped.
+In case of AST/ALT >5 × ULN and/or AP >5 × ULN Docetaxel Injection should be stopped.
 The dose modifications for cisplatin and fluorouracil in the gastric cancer study are provided below:
 
 Cisplatin dose modifications and delays
@@ -134,7 +134,7 @@ In the case of neurological signs or symptoms, more frequent examinations should
 
 Nephrotoxicity
 
-In the event of a rise in serum creatinine ≥grade 2 (>1.5 x normal value) despite adequate rehydration, CrCl should be determined before each subsequent cycle and the following dose reductions should be considered (see Table 2).
+In the event of a rise in serum creatinine ≥grade 2 (>1.5 × normal value) despite adequate rehydration, CrCl should be determined before each subsequent cycle and the following dose reductions should be considered (see Table 2).
 
 For other cisplatin dosage adjustments, also refer to the manufacturers' prescribing information.
 

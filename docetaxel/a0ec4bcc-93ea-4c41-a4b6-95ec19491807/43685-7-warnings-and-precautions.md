@@ -44,6 +44,9 @@ Patients should be observed closely for hypersensitivity reactions, especially d
 Severe hypersensitivity reactions characterized by generalized rash/erythema, hypotension and/or bronchospasm, or very rarely fatal anaphylaxis, have been reported in patients premedicated with 3 days of corticosteroids.
 Severe hypersensitivity reactions require immediate discontinuation of the Docetaxel Injection infusion and aggressive therapy.
 Patients with a history of severe hypersensitivity reactions should not be rechallenged with Docetaxel Injection.
+Cross-hypersensitivity between paclitaxel and docetaxel has been reported.
+This may include more severe reactions such as anaphylactic reactions.
+These patients should be closely monitored during initiation of docetaxel therapy.
 
 Hypersensitivity reactions may occur within a few minutes following initiation of a Docetaxel Injection infusion.
 If minor reactions such as flushing or localized skin reactions occur, interruption of therapy is not required.
