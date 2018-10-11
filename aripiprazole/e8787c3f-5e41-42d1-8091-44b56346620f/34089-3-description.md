@@ -3,7 +3,7 @@
 ABILIFY MYCITE is a drug-device combination product containing aripiprazole, an atypical antipsychotic, embedded with an Ingestible Event Marker (IEM) sensor.
 
 Aripiprazole is 7-[4-[4-(2,3-dichlorophenyl)-1-piperazinyl]butoxy]-3,4-dihydrocarbostyril.
-The empirical formula is C23H27Cl2N3O2 and its molecular weight is 448.38.
+The empirical formula is C 23H 27Cl 2N 3O 2 and its molecular weight is 448.38.
 The chemical structure is:
 
 ABILIFY MYCITE is available in 2 mg, 5 mg, 10 mg, 15 mg, 20 mg, and 30 mg strength tablets with sensor.

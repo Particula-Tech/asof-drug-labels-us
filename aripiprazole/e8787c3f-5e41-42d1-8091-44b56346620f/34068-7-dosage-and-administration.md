@@ -5,7 +5,7 @@
 The ABILIFY MYCITE System is composed of the following components:
 
 - Aripiprazole tablet embedded with an IEM sensor (ABILIFY MYCITE);
-- MYCITE® Patch (wearable sensor) that detects the signal from the IEM sensor after ingestion and transmits data to a smartphone;
+- MYCITE ® Patch (wearable sensor) that detects the signal from the IEM sensor after ingestion and transmits data to a smartphone;
 - MYCITE APP - a smartphone application (app) which is used with a compatible smartphone to display information for the patient;
 - Web-based portal for healthcare professionals and caregivers
 

@@ -40,10 +40,10 @@ Patients receiving aripiprazole tablets 15 mg/day experienced a significantly lo
 
 Table 14: Schizophrenia Studies
 
-|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |
+|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference Difference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |
 | --- | --- | --- | --- | --- |
 | Study Number | Treatment Group | Primary Efficacy Measure: PANSS |  |  |
-| Study 1 | Aripiprazole tablets (15 mg/day)Doses statistically significantly superior to placebo. | 98.5 (17.2) | -15.5 (2.40) | -12.6 (-18.9, -6.2) |
+| Study 1 | Aripiprazole tablets (15 mg/day) Doses statistically significantly superior to placebo. | 98.5 (17.2) | -15.5 (2.40) | -12.6 (-18.9, -6.2) |
 |  | Aripiprazole tablets (30 mg/day) | 99.0 (19.2) | -11.4 (2.39) | -8.5 (-14.8, -2.1) |
 |  | Placebo | 100.2 (16.5) | -2.9 (2.36) | -- |
 | Study 2 | Aripiprazole tablets (20 mg/day) | 92.6 (19.5) | -14.5 (2.23) | -9.6 (-15.4, -3.8) |
@@ -89,10 +89,10 @@ Seventy-one percent of the patients coadministered valproate and 62% of the pati
 
 Table 15: Bipolar Studies
 
-|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |
+|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference Difference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |
 | --- | --- | --- | --- | --- |
 | Study Number | Treatment Group | Primary Efficacy Measure: Y-MRS |  |  |
-| Study 1 | Aripiprazole tablets (30/15 mg/day)Doses statistically significantly superior to placebo. | 29.0 (5.9) | -12.52 (1.05) | -5.33 (-7.90, -2.76) |
+| Study 1 | Aripiprazole tablets (30/15 mg/day) Doses statistically significantly superior to placebo. | 29.0 (5.9) | -12.52 (1.05) | -5.33 (-7.90, -2.76) |
 |  | Placebo | 28.5 (4.6) | -7.19 (1.07) | -- |
 | Study 2 | Aripiprazole tablets (30/15 mg/day) | 27.8 (5.7) | -8.15 (1.23) | -4.80 (-7.80, -1.80) |
 |  | Placebo | 29.1 (6.9) | -3.35(1.22) | -- |
@@ -160,10 +160,10 @@ With regards to gender, a smaller mean reduction on the MADRS total score was se
 
 Table 16: Adjunctive Treatment of Major Depressive Disorder Studies
 
-|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |
+|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference Difference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |
 | --- | --- | --- | --- | --- |
 | Study Number | Treatment Group | Primary Efficacy Measure: MADRS |  |  |
-| Study 1 | Aripiprazole tablets (5-20 mg/day)Doses statistically significantly superior to placebo. + Antidepressant | 25.2(6.2) | -8.49 (0.66) | -2.84 (-4.53, -1.15) |
+| Study 1 | Aripiprazole tablets (5-20 mg/day) Doses statistically significantly superior to placebo. + Antidepressant | 25.2(6.2) | -8.49 (0.66) | -2.84 (-4.53, -1.15) |
 |  | Placebo + Antidepressant | 27.0 (5.5) | -5.65 (0.64) | -- |
 | Study 2 | Aripiprazole tablets (5-20 mg/day) + Antidepressant | 26.0 (6.0) | -8.78 (0.63) | -3.01 (-4.66, -1.37) |
 |  | Placebo + Antidepressant | 26.0 (6.5) | -5.77 (0.67) | -- |
