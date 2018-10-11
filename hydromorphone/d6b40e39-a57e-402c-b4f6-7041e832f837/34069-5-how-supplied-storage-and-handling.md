@@ -2,7 +2,7 @@
 
 DILAUDID is available as follows:
 
-Oral Solution: a clear, colorless to pale yellow, slightly viscous liquid.
+Oral Solution 5 mg/5 mL: a clear, colorless to pale yellow, slightly viscous liquid.
 
 NDC 42858-416-16: Bottles of 1 pint (473 mL)
 
@@ -18,7 +18,6 @@ NDC 42858-234-01: Bottles of 100 NDC 42858-234-25: Unit Dose Packages of 100 (4�
 
 NDC 42858-338-01: Bottles of 100
 
-Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
-[See USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
 Protect from light.

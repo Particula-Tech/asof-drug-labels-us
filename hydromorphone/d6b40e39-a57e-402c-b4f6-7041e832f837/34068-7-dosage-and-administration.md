@@ -11,8 +11,9 @@ Instruct patients to obtain a calibrated measuring cup/syringe for administering
 Do not use household teaspoons or tablespoons to measure DILAUDID Oral Solution, as using a tablespoon instead of a teaspoon could lead to overdosage [see Warnings and Precautions (5.1)].
 
 - Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
+
 - Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.2)].
-- Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy and following dosage increases with DILAUDID Oral Solution or DILAUDID Tablets and adjust the dosage accordingly [see Warnings and Precautions (5.3)].
+- Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy and following dosage increases with DILAUDID Oral Solution or DILAUDID Tablets and adjust the dosage accordingly [see Warnings and Precautions (5.4)].
 
 ## 2.2 Initial Dosage
 
@@ -20,7 +21,7 @@ Initiating Treatment with DILAUDID Oral Solution or DILAUDID Tablets
 
 Dilaudid Oral Solution
 
-Initiate treatment with DILAUDID Oral Solution in a dosing range of one-half (2.5 mL) to two teaspoonful (10 mL) 2.5 mg to 10 mg every 3 to 6 hours as needed for pain.
+Initiate treatment with DILAUDID Oral Solution in a dosing range of one-half (2.5 mL) to two teaspoonsful (10 mL), 2.5 mg to 10 mg, every 3 to 6 hours as needed for pain.
 
 Dilaudid Tablets
 
@@ -33,7 +34,7 @@ Therefore, a conservative approach is advised when determining the total daily d
 It is safer to underestimate a patient's 24-hour DILAUDID dosage than to overestimate the 24-hour dosage and manage an adverse reaction due to overdose.
 
 In general, it is safest to start DILAUDID therapy by administering half of the usual starting dose every 3 to 6 hours for DILAUDID Oral Solution; and every 4 to 6 hours for DILAUDID Tablets.
-The dose of DILAUDID can be gradually adjusted until adequate pain relief and acceptable side effects have been achieved [See Dosage and Administration (2.4)].
+The dose of DILAUDID can be gradually adjusted until adequate pain relief and acceptable side effects have been achieved [see Dosage and Administration (2.4)].
 
 Conversion from DILAUDID Oral Solution or DILAUDID Tablets to Extended-Release Hydromorphone Hydrochloride
 
@@ -65,4 +66,4 @@ A supplemental dose of 5 to 15% of the total daily usage may be administered eve
 When a patient who has been taking DILAUDID Oral Solution or DILAUDID Tablets regularly and may be physically dependent no longer requires therapy with DILAUDID, taper the dose gradually, by 25% to 50% every 2 to 4 days, while monitoring carefully for signs and symptoms of withdrawal.
 If the patient develops these signs and symptoms, raise the dose to the previous level and taper more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both.
 Do not abruptly discontinue DILAUDID Oral Solution or DILAUDID Tablets in a physically dependent patient.
-[see Warnings and Precautions (5.12), Drug Abuse and Dependence (9.3)].
+[see Warnings and Precautions (5.13), Drug Abuse and Dependence (9.3)].

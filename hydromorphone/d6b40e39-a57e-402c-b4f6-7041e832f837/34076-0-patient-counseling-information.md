@@ -10,41 +10,40 @@ If the prescribed concentration is changed, instruct patients on how to correctl
 
 Addiction, Abuse, and Misuse
 
-Inform patients that the use of DILAUDID Oral Solution or DILAUDUD Tablets, even when taken as recommended, can result in addiction, abuse, and misuse, which can lead to overdose and death [see Warnings and Precautions (5.2)].
-Instruct patients not to share DILAUDID Oral Solution or DILAUDUD Tablets with others and to take steps to protect DILAUDID Oral Solution or DILAUDUD Tablets from theft or misuse.
+Inform patients that the use of DILAUDID Oral Solution or DILAUDID Tablets, even when taken as recommended, can result in addiction, abuse, and misuse, which can lead to overdose and death [see Warnings and Precautions (5.2)].
+Instruct patients not to share DILAUDID Oral Solution or DILAUDID Tablets with others and to take steps to protect DILAUDID Oral Solution or DILAUDID Tablets from theft or misuse.
 
 Life-Threatening Respiratory Depression
 
-Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting DILAUDID Oral Solution or DILAUDUD Tablets or when the dosage is increased, and that it can occur even at recommended dosages [see Warnings and Precautions (5.3)].
+Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting DILAUDID Oral Solution or DILAUDID Tablets or when the dosage is increased, and that it can occur even at recommended dosages [see Warnings and Precautions (5.4)].
 Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.
 
 Accidental Ingestion
 
-Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.3)].
-Instruct patients to take steps to store DILAUDID Oral Solution or DILAUDUD Tablets securely and to dispose of unused DILAUDID Oral Solution or DILAUDUD Tablets.
-When DILAUDID Oral Solution or DILAUDUD Tablets are no longer needed, the unused medication should be destroyed by flushing it down the toilet.
+Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.4)].
+Instruct patients to take steps to store DILAUDID Oral Solution or DILAUDID Tablets securely and to dispose of unused DILAUDID Oral Solution or DILAUDID Tablets.
+When DILAUDID Oral Solution or DILAUDID Tablets are no longer needed, the unused medication should be destroyed by flushing it down the toilet.
 
 Interactions with Benzodiazepines and Other CNS Depressants
 
-Inform patients and caregivers that potentially fatal additive effects may occur if DILAUDID Oral Solution or DILAUDUD Tablets are used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a health care provider [see Warnings and Precautions (5.4), Drug Interactions (7)].
+Inform patients and caregivers that potentially fatal additive effects may occur if DILAUDID Oral Solution or DILAUDID Tablets are used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a health care provider [see Warnings and Precautions (5.5), Drug Interactions (7)].
 
 Serotonin Syndrome
 
 Inform patients that DILAUDID could cause a rare but potentially life-threatening condition resulting from concomitant administration of serotonergic drugs.
 Warn patients of the symptoms of serotonin syndrome and to seek medical attention right away if symptoms develop.
-Instruct patients to inform their healthcare providers if they are taking, or plan to take serotonergic medications.
-[see Drug Interactions 7].
+Instruct patients to inform their healthcare providers if they are taking, or plan to take serotonergic medications [see Drug Interactions (7)].
 
 MAOI Interaction
 
-Inform patients to avoid taking DILAUDID Oral Solution or DILAUDUD Tablets while using any drugs that inhibit monoamine oxidase.
-Patients should not start MAOIs while taking DILAUDID Oral Solution or DILAUDUD Tablets [see Dug Interactions (7)].
+Inform patients to avoid taking DILAUDID Oral Solution or DILAUDID Tablets while using any drugs that inhibit monoamine oxidase.
+Patients should not start MAOIs while taking DILAUDID Oral Solution or DILAUDID Tablets [see Drug Interactions (7)].
 
 Adrenal Insufficiency
 
 Inform patients that opioids could cause adrenal insufficiency, a potentially life-threatening condition.
 Adrenal insufficiency may present with non-specific symptoms and signs such as nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
-Advise patients to seek medical attention if they experience a constellation of these symptoms [see Warnings and Precautions (5.7)].
+Advise patients to seek medical attention if they experience a constellation of these symptoms [see Warnings and Precautions (5.8)].
 
 Important Administration Instructions
 
@@ -59,7 +58,7 @@ Instruct patients how to properly take DILAUDID.
 Hypotension
 
 Inform patients that DILAUDID Oral Solution or DILAUDID Tablets may cause orthostatic hypotension and syncope.
-Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) [see Warnings and Precautions (5.8)].
+Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) [see Warnings and Precautions (5.9)].
 
 Anaphylaxis
 
@@ -70,11 +69,11 @@ Pregnancy
 
 Neonatal Opioid Withdrawal Syndrome
 
-Inform female patients of reproductive potential that prolonged use of DILAUDID Oral Solution or DILAUDID Tablets during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
+Inform female patients of reproductive potential that prolonged use of DILAUDID Oral Solution or DILAUDID Tablets during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.5), Use in Specific Populations (8.1)].
 
 Embryo-Fetal Toxicity
 
-Inform female patients of reproductive potential that DILAUDID Oral Solution or DILAUDID Tablets can cause fetal harm and to inform their healthcare provider of a known or suspected pregnancy [see Use in Specific Populations (8.1), Warnings and Precautions (5.4)]
+Inform female patients of reproductive potential that DILAUDID Oral Solution or DILAUDID Tablets can cause fetal harm and to inform their healthcare provider of a known or suspected pregnancy [see Use in Specific Populations (8.1), Warnings and Precautions (5.5)]
 
 Lactation
 
@@ -89,7 +88,7 @@ It is not known whether these effects on fertility are reversible [see Use in Sp
 Driving or Operating Heavy Machinery
 
 Inform patients that DILAUDID Oral Solution or DILAUDID Tablets may impair the ability to perform potentially hazardous activities such as driving a car or operating heavy machinery.
-Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.13)].
+Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.14)].
 
 Constipation
 

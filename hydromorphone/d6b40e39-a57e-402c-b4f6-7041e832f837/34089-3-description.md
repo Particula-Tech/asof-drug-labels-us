@@ -5,7 +5,7 @@ DILAUDID (hydromorphone hydrochloride), a hydrogenated ketone of morphine, is an
 DILAUDID Tablets are supplied in 2 mg, 4 mg, and 8 mg tablets for oral administration.
 The tablet strengths describe the amount of hydromorphone hydrochloride in each tablet.
 
-DILAUDID Oral Solution is supplied as 5mg/ 5 mL (1 mg/mL) viscous liquid.
+DILAUDID Oral Solution is supplied as 5mg/5 mL (1 mg/mL) viscous liquid.
 
 The chemical name is 4,5α-epoxy-3-hydroxy-17-methylmorphinan-6-one hydrochloride.
 The molecular Weight is 321.80.
@@ -16,7 +16,7 @@ Hydromorphone hydrochloride is a white or almost white crystalline powder that i
 The 2 mg, 4 mg, and 8 mg tablets contain the following inactive ingredients: lactose anhydrous and magnesium stearate.
 DILAUDID Tablets may also contain traces of sodium metabisulfite.
 
-The 2 mg tablets also contain D&C red #30 Lake dye, and D&C yellow #10 Lake dye.
+The 2 mg tablets also contain D&C red #30 Lake dye and D&C yellow #10 Lake dye.
 
 The 4 mg tablets also contain D&C yellow #10 Lake dye.
 

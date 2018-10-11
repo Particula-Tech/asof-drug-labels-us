@@ -5,4 +5,4 @@ Manufactured by: Halo Pharmaceutical, Inc. Whippany, NJ 07981
 Marketed by: Rhodes Pharmaceuticals L.P.
 Coventry, RI 02816
 
-Componet # 304374-0B Revised: 03/2017
+Component # 304374-0C Revised: 9/2018
