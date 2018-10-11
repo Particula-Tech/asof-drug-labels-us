@@ -21,7 +21,7 @@ Oxycodone causes miosis, even in total darkness.
 Pinpoint pupils are a sign of opioid overdose but are not pathognomonic (e.g., pontine lesions of hemorrhagic or ischemic origins may produce similar findings).
 Marked mydriasis rather than miosis may be seen due to hypoxia in overdose situations.
 
-Effects on Gastrointestinal Tract And Other Smooth Muscle
+Effects on Gastrointestinal Tract and Other Smooth Muscle
 
 Oxycodone causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.

@@ -6,13 +6,11 @@ Use the lowest effective dosage for the shortest duration consistent with indivi
 
 Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
 
-Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy and following dosage increases with ROXICODONE and adjust the dosage accordingly [see Warnings and Precautions (5.2)].
+Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy and following dosage increases with ROXICODONE and adjust the dosage accordingly [see Warnings and Precautions (5.3)].
 
 ## 2.2 Initial Dosage
 
-Use of ROXICODONE as the First Opioid Analgesic
-
-Initiate treatment with ROXICODONE in a dosing range of 5 to 15 mg every 4 to 6 hours as needed for pain.
+Use of ROXICODONE as the First Opioid Analgesic Initiate treatment with ROXICODONE in a dosing range of 5 to 15 mg every 4 to 6 hours as needed for pain.
 Titrate the dose based upon the individual patient’s response to their initial dose of ROXICODONE.
 Patients with chronic pain should have their dosage given on an around-the-clock basis to prevent the reoccurrence of pain rather than treating the pain after it has occurred.
 This dose can then be adjusted to an acceptable level of analgesia taking into account side effects experienced by the patient.
@@ -21,9 +19,7 @@ For control of severe chronic pain, ROXICODONE should be administered on a regul
 
 Although it is not possible to list every condition that is important to the selection of the initial dose of ROXICODONE, attention should be given to: 1) the daily dose, potency, and characteristics of a pure full agonist or mixed agonist/antagonist the patient has been taking previously, 2) the reliability of the relative potency estimate to calculate the dose of oxycodone needed, 3) the degree of opioid tolerance, 4) the general condition and medical status of the patient, and 5) the balance between pain control and adverse experiences.
 
-Conversion from Other Opioids to ROXICODONE
-
-There is inter-patient variability in the potency of opioid drugs and opioid formulations.
+Conversion from Other Opioids to ROXICODONE There is inter-patient variability in the potency of opioid drugs and opioid formulations.
 Therefore, a conservative approach is advised when determining the total daily dosage of ROXICODONE.
 It is safer to underestimate a patient’s 24-hour ROXICODONE dosage than to overestimate the 24-hour ROXICODONE dosage and manage an adverse reaction due to overdose.
 If a patient has been receiving opioid-containing medications prior to taking ROXICODONE, the potency of the prior opioid relative to oxycodone should be factored into the selection of the total daily dose (TDD) of oxycodone.
@@ -31,16 +27,12 @@ If a patient has been receiving opioid-containing medications prior to taking RO
 In converting patients from other opioids to ROXICODONE close observation and adjustment of dosage based upon the patient’s response to ROXICODONE is imperative.
 Administration of supplemental analgesia for breakthrough or incident pain and titration of the total daily dose of ROXICODONE may be necessary, especially in patients who have disease states that are changing rapidly.
 
-Conversion from Fixed-Ratio Opioid/Acetaminophen, Opioid/Aspirin, or Opioid/Nonsteroidal Combination Drugs
-
-When converting patients from fixed ratio opioid/non-opioid drug regimens a decision should be made whether or not to continue the non-opioid analgesic.
+Conversion from Fixed-Ratio Opioid/Acetaminophen, Opioid/Aspirin, or Opioid/Nonsteroidal Combination Drugs When converting patients from fixed ratio opioid/non-opioid drug regimens a decision should be made whether or not to continue the non-opioid analgesic.
 If a decision is made to discontinue the use of non-opioid analgesic, it may be necessary to titrate the dose of ROXICODONE in response to the level of analgesia and adverse effects afforded by the dosing regimen.
 If the non-opioid regimen is continued as a separate single entity agent, the starting dose ROXICODONE should be based upon the most recent dose of opioid as a baseline for further titration of oxycodone.
 Incremental increases should be gauged according to side effects to an acceptable level of analgesia.
 
-Conversion from ROXICODONE to Extended-Release Oxycodone
-
-The relative bioavailability of ROXICODONE compared to extended-release oxycodone is unknown, so conversion to extended-release tablets must be accompanied by close observation for signs of excessive sedation and respiratory depression.
+Conversion from ROXICODONE to Extended-Release Oxycodone The relative bioavailability of ROXICODONE compared to extended-release oxycodone is unknown, so conversion to extended-release tablets must be accompanied by close observation for signs of excessive sedation and respiratory depression.
 
 ## 2.3 Titration and Maintenance of Therapy
 
