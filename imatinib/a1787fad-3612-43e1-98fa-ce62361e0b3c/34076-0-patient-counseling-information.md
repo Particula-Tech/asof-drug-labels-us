@@ -29,4 +29,4 @@ Therefore, caution patients about driving a car or operating machinery [see Warn
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Revised: 10/2017 IMAT:R7
+Revised: 9/2018 IMAT:R8

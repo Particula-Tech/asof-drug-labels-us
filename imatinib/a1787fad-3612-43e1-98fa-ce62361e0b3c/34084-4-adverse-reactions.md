@@ -22,7 +22,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 ### Chronic Myeloid Leukemia
 
-The majority of imatinib mesylate-treated patients experienced adverse reactions at some time.
+The majority of imatinib mesylate treated patients experienced adverse reactions at some time.
 Imatinib mesylate was discontinued due to drug-related adverse reactions in 2.4% of patients receiving imatinib mesylate in the randomized trial of newly diagnosed patients with Ph+ CML in chronic phase comparing imatinib mesylate versus IFN+Ara-C, and in 12.5% of patients receiving imatinib mesylate in the randomized trial of newly diagnosed patients with Ph+ CML in chronic phase comparing imatinib mesylate and nilotinib.
 Imatinib mesylate was discontinued due to drug-related adverse reactions in 4% of patients in chronic phase after failure of interferon-alpha therapy, in 4% of patients in accelerated phase and in 5% of patients in blast crisis.
 
@@ -35,9 +35,9 @@ These reactions appear to be dose related, were more common in the blast crisis 
 These reactions were usually managed by interrupting imatinib mesylate treatment and using diuretics or other appropriate supportive care measures.
 These reactions may be serious or life-threatening.
 
-Adverse reactions, regardless of relationship to study drug, that were reported in at least 10% of the imatinib mesylate-treated patients are shown in Tables 2, 3, and 4.
+Adverse reactions, regardless of relationship to study drug, that were reported in at least 10% of the imatinib mesylate treated patients are shown in Tables 2, 3, and 4.
 
-Table 2: Adverse Reactions Regardless of Relationship to Study Drug Reported in Newly Diagnosed CML Clinical Trial in the Imatinib Mesylate versus IFN+Ara-C Study (Greater Than or Equal to 10% of Imatinib Mesylate-Treated Patients)All adverse reactions occurring in greater than or equal to 10% of imatinib mesylate-treated patients are listed regardless of suspected relationship to treatment.
+Table 2: Adverse Reactions Regardless of Relationship to Study Drug Reported in Newly Diagnosed CML Clinical Trial in the Imatinib Mesylate versus IFN+Ara-C Study (Greater Than or Equal to 10% of Imatinib Mesylate Treated Patients)All adverse reactions occurring in greater than or equal to 10% of imatinib mesylate treated patients are listed regardless of suspected relationship to treatment.
 
 | Preferred Term | All Grades |  | CTC Grades 3/4 |  |
 | --- | --- | --- | --- | --- |
@@ -458,5 +458,7 @@ Skin and Subcutaneous Tissue Disorders: lichenoid keratosis, lichen planus, toxi
 Musculoskeletal and Connective Tissue Disorders: avascular necrosis/hip osteonecrosis, rhabdomyolysis/myopathy, growth retardation in children, musculoskeletal pain upon treatment discontinuation (including myalgia, pain in extremity, arthralgia, bone pain)
 
 Reproduction Disorders: hemorrhagic corpus luteum/hemorrhagic ovarian cyst
+
+Blood and Lymphatic System Disorders: thrombotic microangiopathy
 
 1Including some fatalities

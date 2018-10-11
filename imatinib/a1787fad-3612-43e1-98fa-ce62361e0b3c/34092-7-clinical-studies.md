@@ -237,7 +237,7 @@ Table 22: Response in MDS/MPD
 | Overall Population | 31 | 14 (45) | 12 (39) |
 | Chromosome 5 Translocation | 14 | 11 (79) | 11 (79) |
 | Chromosome 4 Translocation | 2 | 2 (100) | 1 (50) |
-| Others/no Translocation | 14 | 1 (7) | 0 |
+| Others / no Translocation | 14 | 1 (7) | 0 |
 | Molecular Relapse | 1 | NENE: Not Evaluable | NE |
 
 ## 14.6 Aggressive Systemic Mastocytosis
