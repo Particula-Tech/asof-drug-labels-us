@@ -7,4 +7,5 @@ AZACTAM® (aztreonam injection) in GALAXY plastic container (PL 2040) is manufac
 
 Print code
 
-June 2018
+Rev.
+September 2018
