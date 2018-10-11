@@ -23,6 +23,6 @@ This Patient Information has been approved by the U. S. Food and Drug Administra
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Manufactured by: Banner Pharmacaps Inc. 4125 Premier Drive High Point, NC 27265
+Manufactured by: Patheon Softgels, Inc. 4125 Premier Drive High Point, NC 27265
 
-Revised: 06/2017 BNR:PL:BEXA:R2p
+Revised: 6/2018 BNR:PL:BEXA:R3p
