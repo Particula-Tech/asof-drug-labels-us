@@ -10,7 +10,7 @@ The chemical name is methyl α-phenyl-2-piperidineacetate hydrochloride, and its
 Figure 1.
 Methylphenidate HCl structure
 
-C14H19NO2∙HCl Mol.
+C14H19NO2•HCI Mol.
 Wt.
 269.77
 

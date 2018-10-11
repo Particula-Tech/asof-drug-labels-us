@@ -9,7 +9,7 @@ There are clinical considerations [see Clinical Considerations].
 No teratogenic effects were observed in embryo-fetal development studies with oral administration of methylphenidate to pregnant rats and rabbits during organogenesis at doses 2 and 11 times, respectively, the maximum recommended human dose (MRHD).
 However, spina bifida was observed in rabbits at a dose 40 times the MRHD [see Data].
 
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Clinical Considerations
 
@@ -35,7 +35,7 @@ Risk Summary
 Limited published literature reports that methylphenidate is present in human milk, which resulted in infant doses of 0.16% to 0.7% of the maternal weight-adjusted dosage and a milk/plasma ratio ranging between 1.1 and 2.7.
 There are no reports of adverse effects on the breastfed infant and no effects on milk production.
 Long-term neurodevelopmental effects on infants from CNS stimulant exposure are unknown.
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for QUILLIVANT XR and any potential adverse effects on the breastfed infant from QUILLIVANT XR or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for QUILLIVANT XR and any potential adverse effects on the breastfed infant from QUILLIVANT XR or from the underlying maternal condition.
 
 Clinical Considerations
 
@@ -45,7 +45,7 @@ Monitor breastfeeding infants for adverse reactions, such as agitation, insomnia
 
 The safety and effectiveness of QUILLIVANT XR have been established in pediatric patients ages 6 to 17 years.
 Use of QUILLIVANT XR in pediatric patients 6 to 12 years of age is supported by one adequate and well-controlled study [see Clinical Studies (14)].
-Use in 12 to 17 year olds is supported by the adequate and well-controlled studies of QUILLIVANT XR in younger pediatric patients and additional pharmacokinetic data in adolescents, along with safety information from other methylphenidate-containing products.
+Use in 12 to 17 year olds is supported by the adequate and well-controlled studies of QUILLIVANT XR in younger pediatric patients and additional pharmacokinetic data in adolescents, along with safety information from other methylphenidate‑containing products.
 The long-term efficacy of methylphenidate in pediatric patients has not been established.
 Safety and efficacy in pediatric patients below the age of 6 years have not been established.
 
@@ -61,7 +61,7 @@ A deficit in acquisition of a specific learning task was observed in females onl
 The doses at which these findings were observed are at least 6 times the maximum recommended human dose (MRHD) on a mg/m2 basis.
 
 In the study conducted in young rats, methylphenidate was administered orally at doses of up to 100 mg/kg/day for 9 weeks, starting early in the postnatal period (postnatal day 7) and continuing through sexual maturity (postnatal week 10).
-When these animals were tested as adults (postnatal weeks 13–14), decreased spontaneous locomotor activity was observed in males and females previously treated with 50 mg/kg/day (approximately 6 times the maximum recommended human dose [MRHD] on a mg/m2 basis) or greater, and a deficit in the acquisition of a specific learning task was observed in females exposed to the highest dose (12 times the MRHD on a mg/m2 basis).
+When these animals were tested as adults (postnatal weeks 13 to 14), decreased spontaneous locomotor activity was observed in males and females previously treated with 50 mg/kg/day (approximately 6 times the maximum recommended human dose [MRHD] on a mg/m2 basis) or greater, and a deficit in the acquisition of a specific learning task was observed in females exposed to the highest dose (12 times the MRHD on a mg/m2 basis).
 The no effect level for juvenile neurobehavioral development in rats was 5 mg/kg/day (half the MRHD on a mg/m2 basis).
 The clinical significance of the long-term behavioral effects observed in rats is unknown.
 
