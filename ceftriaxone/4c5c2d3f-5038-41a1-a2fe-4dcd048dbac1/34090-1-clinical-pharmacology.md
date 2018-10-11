@@ -173,4 +173,4 @@ Porphyromonas (Bacteroides) melaninogenicus
 
 ## Susceptibility Tests
 
-For specific information regarding susceptibility test interpretive criteria and associated text methods and quality control standards recognized by FDA for this drug, please see: http://www.fda.gov/STIC.
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: http://www.fda.gov/STIC.
