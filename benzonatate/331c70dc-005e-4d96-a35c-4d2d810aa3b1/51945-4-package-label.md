@@ -1,12 +1,12 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-NDC 68382-247-05 in bottle of 500 capsules
+NDC 68382-247-01 in bottle of 100 capsules
 
 Benzonatate Capsules USP, 100 mg
 
 Rx only
 
-500 capsules
+100 capsules
 
 ZYDUS
 

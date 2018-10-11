@@ -13,6 +13,4 @@ Zydus Pharmaceuticals USA Inc.
 
 Pennington, NJ 08534
 
-Rev.: 08/16
-
-Revision Date: 27/08/2016
+Rev.: 10/18
