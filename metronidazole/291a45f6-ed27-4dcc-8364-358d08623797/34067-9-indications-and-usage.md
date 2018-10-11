@@ -2,11 +2,11 @@
 
 ## Symptomatic Trichomoniasis
 
-Metronidazole Tablets USP are indicated for the treatment of T. vaginalis infection in females and males when the presence of the trichomonad has been confirmed by appropriate laboratory procedures (wet smears and/or cultures).
+Metronidazole tablets are indicated for the treatment of T. vaginalis infection in females and males when the presence of the trichomonad has been confirmed by appropriate laboratory procedures (wet smears and/or cultures).
 
 ## Asymptomatic Trichomoniasis
 
-Metronidazole Tablets USP are indicated in the treatment of asymptomatic T. vaginalis infection in females when the organism is associated with endocervicitis, cervicitis, or cervical erosion.
+Metronidazole tablets are indicated in the treatment of asymptomatic T. vaginalis infection in females when the organism is associated with endocervicitis, cervicitis, or cervical erosion.
 Since there is evidence that presence of the trichomonad can interfere with accurate assessment of abnormal cytological smears, additional smears should be performed after eradication of the parasite.
 
 ## Treatment of Asymptomatic Sexual Partners
@@ -16,19 +16,19 @@ Therefore, asymptomatic sexual partners of treated patients should be treated si
 The decision as to whether to treat an asymptomatic male partner who has a negative culture or one for whom no culture has been attempted is an individual one.
 In making this decision, it should be noted that there is evidence that a woman may become reinfected if her sexual partner is not treated.
 Also, since there can be considerable difficulty in isolating the organism from the asymptomatic male carrier, negative smears and cultures cannot be relied upon in this regard.
-In any event, the sexual partner should be treated with metronidazole tablets USP in cases of reinfection.
+In any event, the sexual partner should be treated with metronidazole tablets in cases of reinfection.
 
 ## Amebiasis
 
-Metronidazole Tablets USP are indicated in the treatment of acute intestinal amebiasis (amebic dysentery) and amebic liver abscess.
+Metronidazole tablets are indicated in the treatment of acute intestinal amebiasis (amebic dysentery) and amebic liver abscess.
 
-In amebic liver abscess, metronidazole tablets USP therapy does not obviate the need for aspiration or drainage of pus.
+In amebic liver abscess, metronidazole tablets therapy does not obviate the need for aspiration or drainage of pus.
 
 ## Anaerobic Bacterial Infections
 
-Metronidazole Tablets USP are indicated in the treatment of serious infections caused by susceptible anaerobic bacteria.
-Indicated surgical procedures should be performed in conjunction with metronidazole tablets USP therapy.
-In a mixed aerobic and anaerobic infection, antimicrobials appropriate for the treatment of the aerobic infection should be used in addition to metronidazole tablets USP.
+Metronidazole tablets are indicated in the treatment of serious infections caused by susceptible anaerobic bacteria.
+Indicated surgical procedures should be performed in conjunction with metronidazole tablets therapy.
+In a mixed aerobic and anaerobic infection, antimicrobials appropriate for the treatment of the aerobic infection should be used in addition to metronidazole tablets.
 
 INTRA-ABDOMINAL INFECTIONS, including peritonitis, intra-abdominal abscess, and liver abscess, caused by Bacteroides species including the B. fragilis group (B. fragilis, B. distasonis, B. ovatus, B. thetaiotaomicron, B. vulgatus), Clostridium species, Eubacterium species, Peptococcus species, and Peptostreptococcus species.
 
@@ -46,6 +46,6 @@ LOWER RESPIRATORY TRACT INFECTIONS, including pneumonia, empyema, and lung absce
 
 ENDOCARDITIS caused by Bacteroides species including the B. fragilis group.
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of metronidazole tablets USP and other antibacterial drugs, metronidazole tablets USP should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of metronidazole tablets and other antibacterial drugs, metronidazole tablets should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.

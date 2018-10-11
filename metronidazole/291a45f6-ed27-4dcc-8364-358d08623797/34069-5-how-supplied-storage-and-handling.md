@@ -18,30 +18,10 @@ Dispense in a tight, light-resistant container as defined in the USP, with a chi
 
 KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
 
-## REFERENCES
-
-1.
-Clinical and Laboratory Standards Institute (CLSI).
-Methods for Antimicrobial Susceptibility Testing of Anaerobic Bacteria; Approved Standard - Eighth Edition.
-CLSI document M11-A8.
-Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, PA 19087 USA, 2012.
-
-2.
-Clinical and Laboratory Standards Institute (CLSI).
-Performance Standards for Antimicrobial Susceptibility Testing; Twenty-fifth Informational Supplement, CLSI document M100-S25.
-CLSI, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2015.
-
-Manufactured In Czech Republic By:
-
-TEVA CZECH INDUSTRIES s.r.o.
-
+Manufactured In Czech Republic By: Teva Czech Industries s.r.o.
 Opava-Komarov, Czech Republic
 
-Manufactured For:
-
-TEVA PHARMACEUTICALS USA, INC.
-
-North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-C 8/2015
+D 8/2018
