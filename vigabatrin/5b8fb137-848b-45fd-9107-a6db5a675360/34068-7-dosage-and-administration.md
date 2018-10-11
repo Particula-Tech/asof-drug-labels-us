@@ -43,11 +43,10 @@ Patients weighing more than 60 kg should be dosed according to adult recommendat
 Table 1.
 Pediatric CPS Dosing Recommendations
 
-| Body Weight [kg] | Total Daily* Starting Dose [mg/day] | Total Daily* Maintenance Dose† [mg/day] |
+| Body Weight[kg] | Total Daily*Starting Dose[mg/day] | Total Daily*Maintenance Dose†[mg/day] |
 | --- | --- | --- |
 | 25 to 60†† | 500 | 2,000 |
-
-*Administered in two divided doses. †Maintenance dose is based on 3,000 mg/day adult-equivalent dose †† Patients weighing more than 60 kg should be dosed according to adult recommendations
+| *Administered in two divided doses.†Maintenance dose is based on 3,000 mg/day adult-equivalent dose†† Patients weighing more than 60 kg should be dosed according to adult recommendations |  |  |
 
 In patients with refractory complex partial seizures, vigabatrin for oral solution should be withdrawn if a substantial clinical benefit is not observed within 3 months of initiating treatment.
 If, in the clinical judgment of the prescriber, evidence of treatment failure becomes obvious earlier than 3 months, treatment should be discontinued at that time [see Warnings and Precautions (5.1)].
@@ -121,7 +120,7 @@ The concentration after reconstitution is 50 mg/mL.
 Table 3.
 Number of Vigabatrin Packets and mL of Water Needed for Each Individual Dose
 
-| Individual Dose [mg] [Given Twice Daily] | Total Number of Vigabatrin Packets | Total mL of Water Required for Dissolving |
+| Individual Dose [mg][Given Twice Daily] | Total Number ofVigabatrin Packets | Total mL of WaterRequired for Dissolving |
 | --- | --- | --- |
 | 0 to 500 | 1 Packet | 10 mL |
 | 501 to 1,000 | 2 Packets | 20 mL |

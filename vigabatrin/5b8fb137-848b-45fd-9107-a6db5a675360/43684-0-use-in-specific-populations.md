@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C.
+Pregnancy Category C
 
 Vigabatrin produced developmental toxicity, including teratogenic and neurohistopathological effects, when administered to pregnant animals at clinically relevant doses.
 In addition, developmental neurotoxicity was observed in rats treated with vigabatrin during a period of postnatal development corresponding to the third trimester of human pregnancy.
@@ -48,7 +48,7 @@ Duration of therapy for infantile spasms was evaluated in a post hoc analysis of
 This analysis suggests that a total duration of 6 months of vigabatrin therapy is adequate for the treatment of infantile spasms.
 However, prescribers must use their clinical judgment as to the most appropriate duration of use [see Clinical Studies (14.2)].
 
-Abnormal MRI signal changes were observed in infants [see Warnings and Precautions (5.3,5.4)].
+Abnormal MRI signal changes were observed in infants [see Warnings and Precautions (5.3, 5.4)].
 
 Oral administration of vigabatrin (5, 15, or 50 mg/kg) to young rats during the neonatal and juvenile periods of development (postnatal days 4 to 65) produced neurobehavioral (convulsions, neuromotor impairment, learning deficits) and neurohistopathological (brain gray matter vacuolation, decreased myelination, and retinal dysplasia) abnormalities.
 The no-effect dose for developmental neurotoxicity in juvenile rats (the lowest dose tested) was associated with plasma vigabatrin exposures (AUC) substantially less than those measured in pediatric patients at recommended doses.

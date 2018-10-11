@@ -1,8 +1,6 @@
 # Instructions for Use
 
-Vigabatrin (vye-GA-ba-trin)
-
-for oral solution
+Vigabatrin (vye-GA-ba-trin) for oral solution
 
 Read this Instructions for Use before your child starts taking vigabatrin for oral solution and each time you get a refill.
 There may be new information.
@@ -33,6 +31,8 @@ Supplies you will need to mix 1 dose of vigabatrin for oral solution:
 - Small spoon or other clean utensil to stir the mixture
 - Scissors
 
+Oral syringe detail
+
 Step 1: Start with 1 of the empty cups and the total number of packets you will need for 1 dose.
 
 Step 2: Before you open the packet, tap it to settle all the powder to the bottom of the packet.
@@ -41,9 +41,13 @@ Step 3: Use a pair of scissors to cut open the vigabatrin for oral solution pack
 
 Step 4: Empty the entire contents of the vigabatrin for oral solution packet into 1 of the clean empty cups (see Figure A).
 
+Figure A
+
 - Repeat steps 2 to 4 above to open all of the packets needed for 1 dose of vigabatrin for oral solution.
 
 Step 5: Take the second cup and fill it half way with water (see Figure B). Do not mix vigabatrin for oral solution with anything other than water.
+
+Figure B
 
 - You will use the larger oral syringe (10 mL) to draw up the water needed to mix with the powder from the packets.
   You will need 10 mL of water for each packet of vigabatrin for oral solution.
@@ -58,11 +62,17 @@ Step 6: Use the 10 mL oral syringe to draw up 10 mL of water.
 To do this, put the tip of the oral syringe all the way into the water in your cup.
 Then pull the plunger up towards you until the edge of the white plunger is at the 10 mL line on the barrel of the oral syringe (see Figure C).
 
+Figure C
+
 - If you see bubbles of air in the oral syringe after drawing up the water, turn the oral syringe so the tip is pointing up (see Figure D). The air will move to the top of the oral syringe.
   Pull the plunger back towards you and then push it back gently into the oral syringe to get rid of the bubbles.
   Tiny bubbles are normal.
 
+Figure D
+
 Step 7: Check the oral syringe to make sure it is filled with water up to the 10 mL line (see Figure E).
+
+Figure E
 
 Step 8: Get the second cup that contains the vigabatrin for oral solution needed for your dose.
 
@@ -70,9 +80,13 @@ Step 9: Hold the 10 mL oral syringe that is filled with water with the tip point
 
 Step 10: Slowly push the oral syringe plunger all the way down to empty the water from the oral syringe straight into the cup containing the vigabatrin for oral solution (see Figure F).
 
+Figure F
+
 Repeat steps 6 through 10 until all of the water that is needed to mix 1 dose of vigabatrin for oral solution has been added to the cup containing the powder.
 
 Step 11: Stir the mixture with the small spoon or other clean utensil until the solution is clear (see Figure G). This means that all of the powder is dissolved and ready for use.
+
+Figure G
 
 - To give a dose of vigabatrin for oral solution to your child, you should use the oral syringe to draw up the total number of mLs of the mixture that your healthcare provider tells you to.
 
@@ -83,11 +97,17 @@ Step 12: Put the tip of the oral syringe all the way into the mixture.
 Pull the plunger up towards you to draw up the mixture.
 Stop when the edge of the white plunger lines up with markings on the barrel of the oral syringe that matches the number of mLs of mixture your healthcare provider told you to give (see Figure H).
 
+Figure H
+
 - If you see bubbles of air in the oral syringe after drawing up the mixture, turn the oral syringe so the tip is pointing up (see Figure I). The air will move to the top of the oral syringe.
   Pull the plunger back towards you and then gently push it back in the oral syringe in order to get rid of the bubbles.
   Tiny bubbles are normal.
 
+Figure I
+
 Step 13: Place the tip of the oral syringe into your child’s mouth and point the oral syringe towards either cheek (see Figure J). Push on the plunger slowly, a small amount at a time, until all of the mixture in the oral syringe is given.
+
+Figure J
 
 - If the dose you are giving your child is more than 10 mLs, repeat steps 12 and 13 until you give the total dose of mixture prescribed by your healthcare provider.
 

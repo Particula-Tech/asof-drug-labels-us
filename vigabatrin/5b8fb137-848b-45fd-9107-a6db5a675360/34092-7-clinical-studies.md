@@ -31,10 +31,7 @@ Median Monthly Frequency of Complex Partial Seizures+
 | 1 g/day vigabatrin | 45 | 8.5 | 7.7 |
 | 3 g/day vigabatrin | 41 | 8.5 | 3.7* |
 | 6 g/day vigabatrin | 43 | 8.5 | 4.5* |
-
-*p<0.05 compared to placebo
-
-+Including one patient with simple partial seizures with secondary generalization only
+| *p<0.05 compared to placebo+Including one patient with simple partial seizures with secondary generalization only |  |  |  |
 
 Figure 1 presents the percentage of patients (X-axis) with a percent reduction in seizure frequency (responder rate) from baseline to the maintenance phase at least as great as that represented on the Y-axis.
 A positive value on the Y-axis indicates an improvement from baseline (i.e., a decrease in complex partial seizure frequency), while a negative value indicates a worsening from baseline (i.e., an increase in complex partial seizure frequency).
@@ -58,8 +55,7 @@ Median Monthly Frequency of Complex Partial Seizures
 | --- | --- | --- | --- |
 | Placebo | 90 | 9.0 | 7.5 |
 | 3 g/day vigabatrin | 92 | 8.3 | 5.5* |
-
-*p<0.05 compared to placebo
+| *p<0.05 compared to placebo |  |  |  |
 
 Figure 2 presents the percentage of patients (X-axis) with a percent reduction in seizure frequency (responder rate) from baseline to the maintenance phase at least as great as that represented on the Y-axis.
 A positive value on the Y-axis indicates an improvement from baseline (i.e., a decrease in complex partial seizure frequency), while a negative value indicates a worsening from baseline (i.e., an increase in complex partial seizure frequency).
@@ -117,7 +113,7 @@ Study 2
 Study 2 (N=40) was a multicenter, randomized, double-blind, placebo-controlled, parallel-group study consisting of a pre-treatment (baseline) period of 2 to 3 days, followed by a 5-day double-blind treatment phase during which patients were treated with vigabatrin (initial dose of 50 mg/kg/day with titration allowed to 150 mg/kg/day) or placebo.
 The primary efficacy endpoint in this study was the average percent change in daily spasm frequency, assessed during a pre-defined and consistent 2-hour window of evaluation, comparing baseline to the final 2 days of the 5-day double-blind treatment phase.
 No statistically significant differences were observed in the average frequency of spasms using the 2-hour evaluation window.
-However, a post-hoc alternative efficacy analysis, using a 24-hour clinical evaluation window found a statistically significant difference in the overall percentage of reductions in spasms between the vigabatrin group (68.9%) and the placebo group (17%) (p=0.030).
+However, a post-hoc alternative efficacy analysis, using a 24-hour clinical evaluation window found a statistically significant difference in the overall percentage of reductions in spasms between the vigabatrin group (68.9%) and the placebo group (17.0%) (p=0.030).
 
 Duration of therapy for infantile spasms was evaluated in a post hoc analysis of a Canadian Pediatric Epilepsy Network (CPEN) study of developmental outcomes in infantile spasms patients.
 The 38/68 infants in the study who had responded to vigabatrin therapy (complete cessation of spasms and hypsarrhythmia) continued vigabatrin therapy for a total duration of 6 months therapy.

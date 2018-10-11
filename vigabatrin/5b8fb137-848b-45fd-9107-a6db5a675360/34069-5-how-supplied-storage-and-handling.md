@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-Vigabatrin for oral solution, USP, 500 mg packets contain a white to off-white granular powder.
+Vigabatrin for oral solution USP, 500 mg packets contain a white to off-white granular powder.
 
 They are available as follows:
 
