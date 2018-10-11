@@ -40,12 +40,12 @@ During the 24 week controlled portions of Studies I to V, patients treated with 
 
 Table 3 Clinical Response at Weeks 24 and 52 in Active and Placebo Controlled Trials of Intravenous ACTEMRA (Percent of Patients)
 
-|  | (95% CI)CI: 95% confidence interval of the weighted difference to placebo adjusted for site (and disease duration for Study I only) |  | (95% CI) | (95% CI) |  | (95% CI) | (95% CI) |  | (95% CI) |  | (95% CI) | (95% CI) |  |
+| Response Rate |  | (95% CI)CI: 95% confidence interval of the weighted difference to placebo adjusted for site (and disease duration for Study I only) |  | (95% CI) | (95% CI) |  | (95% CI) | (95% CI) |  | (95% CI) |  | (95% CI) | (95% CI) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Percent of Patients |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | Study I |  | Study II |  |  | Study III |  |  | Study IV |  | Study V |  |  |
 |  | MTX | ACTEMRA 8 mg per kg | Placebo + MTX | ACTEMRA 4 mg per kg + MTX | ACTEMRA 8 mg per kg + MTX | Placebo + MTX | ACTEMRA 4 mg per kg + MTX | ACTEMRA 8 mg per kg + MTX | Placebo + DMARDs | ACTEMRA 8 mg per kg + DMARDs | Placebo + MTX | ACTEMRA 4 mg per kg + MTX | ACTEMRA 8 mg per kg + MTX |
-| Response Rate | N=284 | N=286 | N=393 | N=399 | N=398 | N=204 | N=213 | N=205 | N=413 | N=803 | N=158 | N=161 | N=170 |
+|  | N=284 | N=286 | N=393 | N=399 | N=398 | N=204 | N=213 | N=205 | N=413 | N=803 | N=158 | N=161 | N=170 |
 | ACR 20 |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Week 24 | 53% | 70% (0.11, 0.27) | 27% | 51% (0.17, 0.29) | 56% (0.23, 0.35) | 27% | 48% (0.15, 0.32) | 59% (0.23, 0.41) | 24% | 61% (0.30, 0.40) | 10% | 30% (0.15, 0.36) | 50% (0.36, 0.56) |
 | Week 52 | N/A | N/A | 25% | 47% (0.15, 0.28) | 56% (0.25, 0.38) | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
@@ -55,7 +55,7 @@ Table 3 Clinical Response at Weeks 24 and 52 in Active and Placebo Controlled Tr
 | ACR 70 |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Week 24 | 15% | 28% (0.07, 0.22) | 2% | 11% (0.03, 0.13) | 13% (0.05, 0.15) | 2% | 12% (0.04, 0.18) | 22% (0.12, 0.27) | 3% | 21% (0.13, 0.21) | 1% | 5% (-0.06, 0.14) | 12% (0.03, 0.22) |
 | Week 52 | N/A | N/A | 4% | 16% (0.08, 0.17) | 20% (0.12, 0.21) | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
-| Major Clinical Responses Major clinical response is defined as achieving an ACR 70 response for a continuous 24 week period |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Major Clinical ResponsesMajor clinical response is defined as achieving an ACR 70 response for a continuous 24 week period |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Week 52 | N/A | N/A | 1% | 4% (0.01, 0.06) | 7% (0.03, 0.09) | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
 
 In study II, a greater proportion of patients treated with 4 mg per kg and 8 mg per kg ACTEMRA + MTX achieved a low level of disease activity as measured by a DAS 28-ESR less than 2.6 compared with placebo +MTX treated patients at week 52.
@@ -79,14 +79,14 @@ Similar results to Study III were observed in Studies I, II and IV.
 
 Table 5 Components of ACR Response at Week 24 in Trials of Intravenous ACTEMRA
 
-| Component (mean) | Baseline | Week 24Data shown is mean at week 24, difference in adjusted mean change from baseline compared with placebo + MTX at week 24 and 95% confidence interval for that difference | Baseline | Week 24 | Baseline | Week 24 | Baseline | Week 24 | Baseline | Week 24 | Baseline | Week 24 |
+| Component (mean) | Baseline | Week 24 Data shown is mean at week 24, difference in adjusted mean change from baseline compared with placebo + MTX at week 24 and 95% confidence interval for that difference | Baseline | Week 24 | Baseline | Week 24 | Baseline | Week 24 | Baseline | Week 24 | Baseline | Week 24 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Study III |  |  |  |  |  | Study V |  |  |  |  |  |
 |  | ACTEMRA 4 mg per kg + MTX |  | ACTEMRA 8 mg per kg + MTX |  | Placebo + MTX |  | ACTEMRA 4 mg per kg + MTX |  | ACTEMRA 8 mg per kg + MTX |  | Placebo + MTX |  |
 |  | N=213 |  | N=205 |  | N=204 |  | N=161 |  | N=170 |  | N=158 |  |
 | Number of tender joints (0-68) | 33 | 19 -7.0 (-10.0, -4.1) | 32 | 14.5 -9.6 (-12.6, -6.7) | 33 | 25 | 31 | 21 -10.8 (-14.6, -7.1) | 32 | 17 -15.1 (-18.8, -11.4) | 30 | 30 |
 | Number of swollen joints (0-66) | 20 | 10 -4.2 (-6.1, -2.3) | 19.5 | 8 -6.2 (-8.1, -4.2) | 21 | 15 | 19.5 | 13 -6.2 (-9.0, -3.5) | 19 | 11 -7.2 (-9.9, -4.5) | 19 | 18 |
-| Pain Visual analog scale: 0 = best, 100 = worst | 61 | 33 -11.0 (-17.0, -5.0) | 60 | 30 -15.8 (-21.7, -9.9) | 57 | 43 | 63.5 | 43 -12.4 (-22.1, -2.1) | 65 | 33 -23.9 (-33.7, -14.1) | 64 | 48 |
+| PainVisual analog scale: 0 = best, 100 = worst | 61 | 33 -11.0 (-17.0, -5.0) | 60 | 30 -15.8 (-21.7, -9.9) | 57 | 43 | 63.5 | 43 -12.4 (-22.1, -2.1) | 65 | 33 -23.9 (-33.7, -14.1) | 64 | 48 |
 | Patient global assessment | 66 | 34 -10.9 (-17.1, -4.8) | 65 | 31 -14.9 (-20.9, -8.9) | 64 | 45 | 70 | 46 -10.0 (-20.3, 0.3) | 70 | 36 -17.4 (-27.8, -7.0) | 71 | 51 |
 | Physician global assessment | 64 | 26 -5.6 (-10.5, -0.8) | 64 | 23 -9.0 (-13.8, -4.2) | 64 | 32 | 66.5 | 39 -10.5 (-18.6, -2.5) | 66 | 28 -18.2 (-26.3, -10.0) | 67.5 | 43 |
 | Disability index (HAQ)Health Assessment Questionnaire: 0 = best, 3 = worst; 20 questions; 8 categories: dressing and grooming, arising, eating, walking, hygiene, reach, grip, and activities | 1.64 | 1.01 -0.18 (-0.34, -0.02) | 1.55 | 0.96 -0.21 (-0.37, -0.05) | 1.55 | 1.21 | 1.67 | 1.39 -0.25 (-0.42, -0.09) | 1.75 | 1.34 -0.34 (-0.51, -0.17) | 1.70 | 1.58 |
@@ -225,13 +225,7 @@ Table 8 Efficacy Results from Study WA28119
 | Sustained ESR<30 mm/hrPatients who did not have an elevated ESR ≥30 mm/hr which was classified as attributed to GCA from Week 12 up to Week 52., n (%) | 20 (40.0%) | 22 (43.1%) | 83 (83.0%) | 37 (75.5%) |
 | Sustained CRP normalizationPatients who did not have two or more consecutive CRP records of ≥ 1mg/dL from Week 12 up to Week 52., n (%) | 17 (34.0%) | 13 (25.5%) | 72 (72.0%) | 34 (69.4%) |
 | Successful prednisone taperingPatients who did not enter escape therapy and received ≤ 100mg of additional concomitant prednisone from Week 12 up to Week 52., n (%) | 10 (20.0%) | 20 (39.2%) | 60 (60.0%) | 28 (57.1%) |
-| Patients not completing the study to week 52 were classified as non-responders in the primary and key secondary analysis: PBO+26: 6 (12.0%), PBO+52: 5 (9.8%), TCZ QW: 15 (15.0%), TCZ Q2W: 9 (18.4%). |  |  |  |  |
-| CRP = C-reactive protein |  |  |  |  |
-| ESR = erythrocyte sedimentation rate |  |  |  |  |
-| PBO = placebo |  |  |  |  |
-| Q2W = every other week dose |  |  |  |  |
-| QW = every week dose |  |  |  |  |
-| TCZ = tocilizumab |  |  |  |  |
+| Patients not completing the study to week 52 were classified as non-responders in the primary and key secondary analysis: PBO+26: 6 (12.0%), PBO+52: 5 (9.8%), TCZ QW: 15 (15.0%), TCZ Q2W: 9 (18.4%). CRP = C-reactive protein ESR = erythrocyte sedimentation rate PBO = placebo Q2W = every other week dose QW = every week dose TCZ = tocilizumab |  |  |  |  |
 
 The estimated annual cumulative prednisone dose was lower in the two ACTEMRA dose groups (medians of 1887 mg and 2207 mg on ACTEMRA QW and Q2W, respectively) relative to the placebo arms (medians of 3804 mg and 3902 mg on placebo + 26 weeks prednisone and placebo + 52 weeks prednisone taper, respectively).
 
@@ -284,18 +278,21 @@ Primary endpoint result and JIA ACR response rates at Week 12 are shown in Table
 
 Table 9 Efficacy Findings at Week 12
 
-| Primary Endpoint: JIA ACR 30 response + absence of fever |  |  |
-| --- | --- | --- |
 |  | ACTEMRA N=75 | Placebo N=37 |
+| --- | --- | --- |
+| Primary Endpoint: JIA ACR 30 response + absence of fever |  |  |
 | Responders | 85% | 24% |
 | Weighted difference (95% CI) | 62 (45, 78) | - |
 | JIA ACR Response Rates at Week 12 |  |  |
 | JIA ACR 30 |  |  |
-| Responders Weighted differenceThe weighted difference is the difference between the ACTEMRA and Placebo response rates, adjusted for the stratification factors (weight, disease duration, background oral corticosteroid dose and background methotrexate use). (95% CI)CI: confidence interval of the weighted difference. | 91% 67 (51, 83) | 24% - |
+| Responders | 91% | 24% |
+| Weighted differenceThe weighted difference is the difference between the ACTEMRA and Placebo response rates, adjusted for the stratification factors (weight, disease duration, background oral corticosteroid dose and background methotrexate use). (95% CI)CI: confidence interval of the weighted difference. | 67 (51, 83) | - |
 | JIA ACR 50 |  |  |
-| Responders Weighted difference (95% CI) | 85% 74 (58, 90) | 11% - |
+| Responders | 85% | 11% |
+| Weighted difference (95% CI) | 74 (58, 90) | - |
 | JIA ACR 70 |  |  |
-| Responders Weighted difference (95% CI) | 71% 63 (46, 80) | 8% - |
+| Responders | 71% | 8% |
+| Weighted difference (95% CI) | 63 (46, 80) | - |
 
 The treatment effect of ACTEMRA was consistent across all components of the JIA ACR response core variables.
 JIA ACR scores and absence of fever responses in the open label extension were consistent with the controlled portion of the study (data available through 44 weeks).
@@ -317,13 +314,22 @@ Health Related Outcomes
 Physical function and disability were assessed using the Childhood Health Assessment Questionnaire Disability Index (CHAQ-DI).
 Seventy-seven percent (58 out of 75) of patients in the ACTEMRA treatment group achieved a minimal clinically important improvement in CHAQ-DI (change from baseline of ≥ 0.13 units) at week 12 compared to 19% (7 out of 37) in the placebo treatment group.
 
-## 14.7 Cytokine Release Syndrome—Intravenous Administration
+## 14.7 Systemic Juvenile Idiopathic Arthritis—Subcutaneous Administration
+
+Subcutaneously administered ACTEMRA in pediatric patients with systemic juvenile idiopathic arthritis (SJIA) was assessed in a 52-week, open-label, multicenter, PK-PD and safety study to determine the appropriate subcutaneous dose of ACTEMRA that achieved comparable PK/PD profiles to the ACTEMRA-IV regimen.
+
+Eligible patients received ACTEMRA subcutaneously dosed according to body weight, with patients weighing at or above 30 kg (n = 26) dosed with 162 mg of ACTEMRA every week and patients weighing below 30 kg (n = 25) dosed with 162 mg of ACTEMRA every 10 days (n=8) or every 2 weeks (n=17) for 52 weeks.
+Of these 51 patients, 26 (51%) were naive to subcutaneous ACTEMRA and 25 (49%) had been receiving ACTEMRA intravenously and switched to subcutaneous ACTEMRA at baseline.
+
+The efficacy of subcutaneous ACTEMRA in children 2 to 17 years of age is based on pharmacokinetic exposure and extrapolation of the established efficacy of intravenous ACTEMRA in systemic JIA patients [see Clinical Pharmacology (12.3) and Clinical Studies (14.2 and 14.6)]
+
+## 14.8 Cytokine Release Syndrome—Intravenous Administration
 
 The efficacy of ACTEMRA for the treatment of CRS was assessed in a retrospective analysis of pooled outcome data from clinical trials of CAR T-cell therapies for hematological malignancies.
 Evaluable patients had been treated with tocilizumab 8 mg/kg (12 mg/kg for patients < 30 kg) with or without additional high-dose corticosteroids for severe or life-threatening CRS; only the first episode of CRS was included in the analysis.
 The study population included 24 males and 21 females (total 45 patients) of median age 12 years (range, 3–23 years); 82% were Caucasian.
 The median time from start of CRS to first dose of tocilizumab was 4 days (range, 0–18 days).
 Resolution of CRS was defined as lack of fever and off vasopressors for at least 24 hours.
-Patients were considered responders if CRS resolved within 14 days of the first dose of tocilizumab, no more than 2 doses of tocilizumab were needed, and no drugs other than tocilizumab and corticosteroids were used for treatment.
+Patients were considered responders if CRS resolved within 14 days of the first dose of tocilizumab, if no more than 2 doses of tocilizumab were needed, and if no drugs other than tocilizumab and corticosteroids were used for treatment.
 Thirty-one patients (69%; 95% CI: 53%–82%) achieved a response.
 Achievement of resolution of CRS within 14 days was confirmed in a second study using an independent cohort that included 15 patients (range: 9–75 years old) with CAR T cell-induced CRS.

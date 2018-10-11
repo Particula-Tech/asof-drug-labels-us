@@ -90,7 +90,7 @@ Liver enzyme abnormalities are summarized in Table 1.
 In patients experiencing liver enzyme elevation, modification of treatment regimen, such as reduction in the dose of concomitant DMARD, interruption of ACTEMRA-IV, or reduction in ACTEMRA-IV dose, resulted in decrease or normalization of liver enzymes [see Dosage and Administration (2.6)].
 These elevations were not associated with clinically relevant increases in direct bilirubin, nor were they associated with clinical evidence of hepatitis or hepatic insufficiency [see Warnings and Precautions (5.3)].
 
-Table 1 Incidence of Liver Enzyme Abnormalities in the 24 Week Controlled Period of Studies I to VFor a description of these studies,see Section 14, Clinical Studies.
+Table 1 Incidence of Liver Enzyme Abnormalities in the 24 Week Controlled Period of Studies I to VFor a description of these studies, see Section 14, Clinical Studies.
 
 |  | N = 288 (%) | N = 284 (%) | N = 774 (%) | N = 1582 (%) | N = 1170 (%) |
 | --- | --- | --- | --- | --- | --- |
@@ -147,11 +147,11 @@ Adverse reactions occurring in 2% or more of patients on 4 or 8 mg per kg ACTEMR
 
 Table 2 Adverse Reactions Occurring in at Least 2% or More of Patients on 4 or 8 mg per kg ACTEMRA plus DMARD and at Least 1% Greater Than That Observed in Patients on Placebo plus DMARD
 
-| Preferred Term | N = 288 (%) | N = 284 (%) | N = 774 (%) | N = 1582 (%) | N = 1170 (%) |
+| Upper Respiratory Tract Infection | 7 | 5 | 6 | 8 | 6 |
 | --- | --- | --- | --- | --- | --- |
 | 24 Week Phase 3 Controlled Study Population |  |  |  |  |  |
 |  | ACTEMRA 8 mg per kg MONOTHERAPY | Methotrexate | ACTEMRA 4 mg per kg + DMARDs | ACTEMRA 8 mg per kg + DMARDs | Placebo + DMARDs |
-| Upper Respiratory Tract Infection | 7 | 5 | 6 | 8 | 6 |
+| Preferred Term | N = 288 (%) | N = 284 (%) | N = 774 (%) | N = 1582 (%) | N = 1170 (%) |
 | Nasopharyngitis | 7 | 6 | 4 | 6 | 4 |
 | Headache | 7 | 2 | 6 | 5 | 3 |
 | Hypertension | 6 | 2 | 4 | 4 | 3 |
@@ -383,13 +383,29 @@ Elevation in LDL greater than 1.5× ULN – 2× ULN occurred in 1.9% of patients
 
 In the open label extension study over an average duration of 73 weeks of treatment, the pattern and incidence of elevations in lipid parameters remained consistent with the 12 week controlled study data.
 
-## 6.7 Clinical Trials Experience in Patients with Cytokine Release Syndrome Treated with Intravenous ACTEMRA (ACTEMRA-IV)
+## 6.7 Clinical Trials Experience in Systemic Juvenile Idiopathic Arthritis Patients Treated with Subcutaneous ACTEMRA (ACTEMRA-SC)
+
+The safety profile of ACTEMRA-SC was studied in 51 pediatric patients 1 to 17 years of age with SJIA who had an inadequate clinical response to NSAIDs and corticosteroids.
+In general, the safety observed for ACTEMRA administered subcutaneously was consistent with the known safety profile of intravenous ACTEMRA, with the exception of ISRs where a higher frequency was observed in ACTEMRA-SC treated SJIA patients compared to PJIA patients and adult RA or GCA patients [see Adverse Reactions (6.2 and 6.3)].
+
+Injection Site Reactions (ISRs)
+
+A total of 41.2% (21/51) SJIA patients experienced ISRs to ACTEMRA-SC.
+The most common ISRs were erythema, pruritus, pain, and swelling at the injection site.
+The majority of ISRs reported were Grade 1 events and all ISRs reported were non-serious and none required patient withdrawal from treatment or dose interruption.
+
+Immunogenicity
+
+Forty-six of the 51 (90.2%) patients who were tested for anti-tocilizumab antibodies at baseline had at least one post-baseline screening assay result.
+No patient developed positive anti-tocilizumab antibodies post-baseline.
+
+## 6.8 Clinical Trials Experience in Patients with Cytokine Release Syndrome Treated with Intravenous ACTEMRA (ACTEMRA-IV)
 
 In a retrospective analysis of pooled outcome data from multiple clinical trials 45 patients were treated with tocilizumab 8 mg/kg (12 mg/kg for patients less than 30 kg) with or without additional high-dose corticosteroids for severe or life-threatening CAR T-cell-induced CRS.
 A median of 1 dose of tocilizumab (range, 1-4 doses) was administered.
 No adverse reactions related to tocilizumab were reported [see Clinical Studies (14.7)].
 
-## 6.8 Postmarketing Experience
+## 6.9 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of ACTEMRA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

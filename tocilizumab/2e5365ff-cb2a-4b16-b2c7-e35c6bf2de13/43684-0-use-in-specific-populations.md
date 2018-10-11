@@ -60,10 +60,10 @@ ACTEMRA by intravenous use is indicated for the treatment of pediatric patients 
 ACTEMRA by subcutaneous use is indicated for the treatment of pediatric patients with:
 
 - Active polyarticular juvenile idiopathic arthritis in patients 2 years of age and older
+- Active systemic juvenile idiopathic arthritis in patients 2 years of age and older
 
-Safety and effectiveness of ACTEMRA in pediatric patients with conditions other than PJIA, SJIA or CRS have not been established.
-The safety and effectiveness in pediatric patients below the age of 2 have not been established.
-Subcutaneous administration has not been studied in SJIA pediatric patients.
+The safety and effectiveness of ACTEMRA in pediatric patients with conditions other than PJIA, SJIA or CRS have not been established.
+The safety and effectiveness in pediatric patients below the age of 2 have not been established in PJIA, SJIA, or CRS.
 
 Systemic Juvenile Idiopathic Arthritis – Intravenous Use
 
