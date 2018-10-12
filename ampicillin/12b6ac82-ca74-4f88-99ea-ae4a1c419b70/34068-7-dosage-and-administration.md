@@ -40,9 +40,9 @@ Adults and children: 150 to 200 mg/kg/day in equally divided doses every 3 to 4 
 (Treatment may be initiated with intravenous drip therapy and continued with intramuscular injections.)
 The doses for other infections may be given by either the intravenous or intramuscular route.
 
-Neonates (less than or equal to 28 days of postnatal age): Dosage should be based on Gestational age and Postnatal age according to Table 3.
+Neonates (less than or equal to 28 days of postnatal age): Dosage should be based on Gestational age and Postnatal age according to Table 1.
 
-1. Table 3: Dosage in Neonates (less than or equal to 28 days of postnatal age) for Bacterial Meningitis and Septicemia
+1. Table 1: Dosage in Neonates (less than or equal to 28 days of postnatal age) for Bacterial Meningitis and Septicemia
 
 | Gestational age (weeks) | Postnatal age (days) | Dosage |
 | --- | --- | --- |

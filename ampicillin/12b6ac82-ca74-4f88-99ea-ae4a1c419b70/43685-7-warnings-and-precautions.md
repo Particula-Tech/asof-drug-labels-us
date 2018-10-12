@@ -25,8 +25,6 @@ Appropriate fluid and electrolyte management, protein supplementation, antibacte
 
 ## General
 
-Prescribing Ampicillin for Injection, USP in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
-
 The possibility of superinfections with mycotic organisms or bacterial pathogens should be kept in mind during therapy.
 In such cases, discontinue the drug and substitute appropriate treatment.
 
@@ -35,6 +33,8 @@ Typically, the rash appears 7 to 10 days after the start of oral ampicillin ther
 In most cases, the rash is maculopapular, pruritic and generalized.
 Therefore, the administration of ampicillin is not recommended in patients with mononucleosis.
 It is not known whether these patients are truly allergic to ampicillin.
+
+Prescribing Ampicillin for Injection, USP in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
 ## Information for Patients
 

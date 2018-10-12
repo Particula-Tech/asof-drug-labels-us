@@ -2,7 +2,7 @@
 
 NDC 44567-104-10
 
-Ampicillin for Injection, USP 10 grams
+Ampicillin for Injection, USP 10 gram
 
 Pharmacy Bulk Package
 
