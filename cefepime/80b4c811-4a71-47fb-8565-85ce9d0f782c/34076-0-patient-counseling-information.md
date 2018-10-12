@@ -16,7 +16,7 @@ Qilu Pharmaceutical Co., Ltd. High Tech Zone
 
 Jinan, 250101, China
 
-Revised: 04/2016
+Revised: 07/2018
 
 Rev.
-02
+03

@@ -37,7 +37,7 @@ Adjust the dose of Cefepime for Injection in patients with creatinine clearance 
 In these patients, the recommended initial dose of Cefepime for Injection should be the same as in patients with CrCL greater than 60 mL/min except in patients undergoing hemodialysis.
 The recommended doses of Cefepime for Injection in patients with renal impairment are presented in Table 2.
 
-When only serum creatinine is available, the following formula (Cockcroft and Gault equation)4 may be used to estimate creatinine clearance.
+When only serum creatinine is available, the following formula (Cockcroft and Gault equation)1 may be used to estimate creatinine clearance.
 The serum creatinine should represent a steady state of renal function:
 
 | Males: Creatinine Clearance (mL/min) = | Weight (kg) x (140 – age) |
@@ -81,7 +81,7 @@ o 0.5% or 1% Lidocaine Hydrochloride Injection
 
 o Sterile Bacteriostatic Water for Injection with Parabens or Benzyl Alcohol
 
-•Dilute reconstituted solution with one of the following compatible infusion solutions prior to intravenous infusion (Refer to Table 3 below for the amount of diluent to be added to each vial):
+•Dilute reconstituted solution with one of the following compatible infusion solutions prior to intravenous infusion (Refer to Table 3 below for the amount of diluent to be added to each vial and the amount of the reconstituted solution to be withdrawn):
 
 o 0.9% Sodium Chloride Injection
 
@@ -106,20 +106,20 @@ However, during infusion of a solution containing cefepime, it is desirable to d
 ## 2.5 Preparation for Intramuscular Administration
 
 Constitute Cefepime for Injection vials 0.5 gram, 1 gram and 2 grams with one of the following diluents: Sterile Water for Injection, 0.9% Sodium Chloride, 5% Dextrose Injection, 0.5% or 1% Lidocaine Hydrochloride, or Sterile Bacteriostatic Water for Injection with Parabens or Benzyl Alcohol.
-Refer to Table 3 below for the amount of diluent to be added to each vial.
+Refer to Table 3 below for the amount of diluent to be added to each vial and the amount of reconstituted volume to be withdrawn.
 
 Parenteral drugs should be inspected visually for particulate matter before administration.
 If particulate matter is evident in reconstituted fluids, the drug solution should be discarded.
 
-Table 3: Preparation of Constituted Solutions of Cefepime for Injection
+Table 3: Preparation of Reconstituted Solutions of Cefepime for Injection
 
-| Single-Dose Vials for Intravenous (IV)/Intramuscular (IM)Administration | Amount of Diluentto be added (mL) | Approximate Available Volume (mL) | Approximate Cefepime Concentration(mg/mL) |
+| Single-Dose Vials for Intravenous (IV)/Intramuscular (IM)Administration | Amount of Diluentto be added (mL) | Approximate Cefepime Concentration (mg/mL) | Amount of Reconstituted Volume to be Withdrawn (mL) |
 | --- | --- | --- | --- |
-| 500 mg (IV) | 5 | 5.6 | 100 |
-| 500 mg (IM) | 1.3 | 1.8 | 280 |
-| 1 g (IV) | 10 | 11.3 | 100 |
-| 1 g (IM) | 2.4 | 3.6 | 280 |
-| 2 g (IV) | 10 | 12.5 | 160 |
+| 500 mg (IV) | 5 | 100 | 5 |
+| 500 mg (IM) | 1.3 | 280 | 1.8 |
+| 1 g (IV) | 10 | 100 | 10.5 |
+| 1 g (IM) | 2.4 | 280 | 3.6 |
+| 2 g (IV) | 10 | 160 | 12.5 |
 
 ## 2.6 Compatibility and Stability
 

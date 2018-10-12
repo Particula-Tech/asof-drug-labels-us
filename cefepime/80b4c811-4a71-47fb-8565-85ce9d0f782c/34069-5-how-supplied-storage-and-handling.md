@@ -13,4 +13,4 @@ Constituted solution of Cefepime for Injection can range in color from pale yell
 
 Storage and Handling
 
-Cefepime for Injection in the dry state should be stored at 20 to 25° C (68 to 77° F) [see USP controlled room temperature.] and protected from light.
+Cefepime for injection in the dry state should be stored at 20° to 25° C (68° to 77° F) [see USP controlled room temperature.] and protected from light.
