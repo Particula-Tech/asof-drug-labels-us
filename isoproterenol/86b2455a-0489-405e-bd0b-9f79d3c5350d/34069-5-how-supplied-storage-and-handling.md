@@ -2,7 +2,7 @@
 
 | NDC | Container | Concentration | Fill | Quantity |
 | --- | --- | --- | --- | --- |
-| 0548-9501-00 | Single-Dose Vial | 0.2 mg/mL | 1 mL | 25 × 1 mL Single Dose Vials |
+| 0548-9501-00 | Single-Dose Vial | 0.2 mg/mL | 1 mL | 10 × 1 mL Single Dose Vials |
 | 0548-9502-00 | Single-Dose Vial | 1 mg/5 mL (0.2 mg/mL) | 5 mL | 10 × 5 mL Single Dose Vials |
 
 Protect from light.

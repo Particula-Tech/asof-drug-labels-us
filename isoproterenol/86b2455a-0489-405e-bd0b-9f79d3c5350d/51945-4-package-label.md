@@ -15,11 +15,12 @@ AMPHASTAR PHARMACEUTICALS, INC. Rancho Cucamonga, CA 91730 U.S.A. 7395016C/6-17
 
 # PRINCIPLE DISPLAY PANEL: Carton (1 mL)
 
-25 x 1 mL Single-Dose Vials NDC 0548-9501-00 Rx Only
+10 x 1 mL Single-Dose Vials NDC 0548-9501-00 Rx Only
 
 Isoproterenol Hydrochloride Injection, USP 0.2 mg/mL
 
 Intravenous, Subcutaneous, Intramuscular or Intracardiac Use Only.
+Sterile Injection
 
 AMPHASTAR PHARMACEUTICALS, INC. Rancho Cucamonga, CA 91730 U.S.A.
 
