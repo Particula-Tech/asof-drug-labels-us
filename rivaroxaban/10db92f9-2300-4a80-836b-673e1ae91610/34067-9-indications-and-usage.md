@@ -21,3 +21,7 @@ XARELTO is indicated for the reduction in the risk of recurrence of DVT and/or P
 ## 1.5 Prophylaxis of Deep Vein Thrombosis Following Hip or Knee Replacement Surgery
 
 XARELTO is indicated for the prophylaxis of DVT, which may lead to PE in patients undergoing knee or hip replacement surgery.
+
+## 1.6 Reduction of Risk of Major Cardiovascular Events in Patients with Chronic Coronary Artery Disease (CAD) or Peripheral Artery Disease (PAD)
+
+XARELTO, in combination with aspirin, is indicated to reduce the risk of major cardiovascular events (cardiovascular (CV) death, myocardial infarction (MI) and stroke) in patients with chronic coronary artery disease (CAD) or peripheral artery disease (PAD).

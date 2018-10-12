@@ -4,7 +4,7 @@
 
 Premature discontinuation of any oral anticoagulant, including XARELTO, in the absence of adequate alternative anticoagulation increases the risk of thrombotic events.
 An increased rate of stroke was observed during the transition from XARELTO to warfarin in clinical trials in atrial fibrillation patients.
-If XARELTO is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant [see Dosage and Administration (2.3, 2.8) and Clinical Studies (14.1)].
+If XARELTO is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant [see Dosage and Administration (2.2, 2.3) and Clinical Studies (14.1)].
 
 ## 5.2 Risk of Bleeding
 
@@ -16,7 +16,7 @@ Discontinue XARELTO in patients with active pathological hemorrhage.
 The terminal elimination half-life of rivaroxaban is 5 to 9 hours in healthy subjects aged 20 to 45 years.
 
 Concomitant use of other drugs that impair hemostasis increases the risk of bleeding.
-These include aspirin, P2Y12 platelet inhibitors, other antithrombotic agents, fibrinolytic therapy, non-steroidal anti-inflammatory drugs (NSAIDs) [see Drug Interactions (7.4)], selective serotonin reuptake inhibitors, and serotonin norepinephrine reuptake inhibitors.
+These include aspirin, P2Y12 platelet inhibitors, dual antiplatelet therapy, other antithrombotic agents, fibrinolytic therapy, non-steroidal anti-inflammatory drugs (NSAIDs) [see Drug Interactions (7.4)], selective serotonin reuptake inhibitors, and serotonin norepinephrine reuptake inhibitors.
 
 Concomitant use of drugs that are known combined P-gp and strong CYP3A inhibitors increases rivaroxaban exposure and may increase bleeding risk [see Drug Interactions (7.2)].
 
@@ -47,7 +47,7 @@ If signs or symptoms of spinal hematoma are suspected, initiate urgent diagnosis
 
 Nonvalvular Atrial Fibrillation
 
-Periodically assess renal function as clinically indicated (i.e., more frequently in situations in which renal function may decline) and adjust therapy accordingly [see Dosage and Administration (2.4)].
+Periodically assess renal function as clinically indicated (i.e., more frequently in situations in which renal function may decline) and adjust therapy accordingly [see Table 1].
 Consider dose adjustment or discontinuation of XARELTO in patients who develop acute renal failure while on XARELTO [see Use in Specific Populations (8.6)].
 
 Treatment of Deep Vein Thrombosis (DVT), Pulmonary Embolism (PE), and Reduction in the Risk of Recurrence of DVT and of PE

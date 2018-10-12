@@ -58,7 +58,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 Data
 
-Animal Data
+Animal data
 
 Following a single oral administration of 3 mg/kg of radioactive [14C]-rivaroxaban to lactating rats between Day 8 to 10 postpartum, the concentration of total radioactivity was determined in milk samples collected up to 32 hours post-dose.
 The estimated amount of radioactivity excreted with milk within 32 hours after administration was 2.1% of the maternal dose.
@@ -77,6 +77,7 @@ Of the total number of patients in the RECORD 1–3 clinical studies evaluating 
 In ROCKET AF, approximately 77% were 65 years and over and about 38% were >75 years.
 In the EINSTEIN DVT, PE and Extension clinical studies approximately 37% were 65 years and over and about 16% were >75 years.
 In EINSTEIN CHOICE, approximately 39% were 65 years and over and about 12% were >75 years.
+In the COMPASS study, approximately 76% were 65 years and over and about 17% were >75 years.
 In clinical trials the efficacy of XARELTO in the elderly (65 years or older) was similar to that seen in patients younger than 65 years.
 Both thrombotic and bleeding event rates were higher in these older patients, but the risk-benefit profile was favorable in all age groups [see Clinical Pharmacology (12.3) and Clinical Studies (14)].
 
@@ -88,7 +89,7 @@ Increases in pharmacodynamic effects were also observed [see Clinical Pharmacolo
 Nonvalvular Atrial Fibrillation
 
 In the ROCKET AF trial, patients with CrCl 30 to 50 mL/min were administered XARELTO 15 mg once daily resulting in serum concentrations of rivaroxaban and clinical outcomes similar to those in patients with better renal function administered XARELTO 20 mg once daily.
-Patients with CrCl 15 to 30 mL/min were not studied, but administration of XARELTO 15 mg once daily is also expected to result in serum concentrations of rivaroxaban similar to those in patients with normal renal function [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+Patients with CrCl 15 to 30 mL/min were not studied, but administration of XARELTO 15 mg once daily is also expected to result in serum concentrations of rivaroxaban similar to those in patients with normal renal function [see Clinical Pharmacology (12.3)].
 
 Patients with End-Stage Renal Disease on Dialysis
 
@@ -106,6 +107,12 @@ Prophylaxis of DVT Following Hip or Knee Replacement Surgery
 The combined analysis of the RECORD 1–3 clinical efficacy studies did not show an increase in bleeding risk for patients with CrCl 30 to 50 mL/min and reported a possible increase in total venous thromboemboli in this population.
 Observe closely and promptly evaluate any signs or symptoms of blood loss in patients with CrCl 30 to 50 mL/min.
 Avoid the use of XARELTO in patients with CrCl <30 mL/min.
+
+Reduction of Risk of Major Cardiovascular Events in Patients with Chronic CAD or PAD
+
+Limited data are available.
+In patients with CrCl 15–30 mL/min, a dose of 2.5 mg XARELTO twice daily is expected to give an exposure similar to that in patients with moderate renal impairment [see Clinical Pharmacology (12.3)], whose efficacy and safety outcomes were similar to those with preserved renal function.
+Patients with CrCl <15 mL/min at screening were excluded from COMPASS; no dosing instructions can be provided.
 
 ## 8.7 Hepatic Impairment
 

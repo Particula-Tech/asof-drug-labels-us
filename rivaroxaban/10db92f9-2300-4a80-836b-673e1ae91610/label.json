@@ -6,6 +6,10 @@
   "inn": "rivaroxaban",
   "labeler": "Janssen Pharmaceuticals, Inc.",
   "package_ndcs": [
+    "50458-577-10",
+    "50458-577-14",
+    "50458-577-18",
+    "50458-577-60",
     "50458-578-07",
     "50458-578-10",
     "50458-578-14",
@@ -26,6 +30,11 @@
   "products": [
     {
       "form": "KIT",
+      "generic": "rivaroxaban",
+      "name": "XARELTO"
+    },
+    {
+      "form": "TABLET, FILM COATED",
       "generic": "rivaroxaban",
       "name": "XARELTO"
     },
