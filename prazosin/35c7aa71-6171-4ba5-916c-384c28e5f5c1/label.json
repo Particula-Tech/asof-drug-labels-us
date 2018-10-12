@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA210971"
+  ],
+  "inn": "prazosin",
+  "labeler": "Novitium Pharma LLC",
+  "package_ndcs": [
+    "70954-019-10",
+    "70954-019-20",
+    "70954-020-10",
+    "70954-020-20",
+    "70954-021-10",
+    "70954-021-20"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "prazosin hydrochloride",
+      "name": "Prazosin Hydrochloride"
+    }
+  ],
+  "setid": "35c7aa71-6171-4ba5-916c-384c28e5f5c1",
+  "source": "dailymed"
+}
