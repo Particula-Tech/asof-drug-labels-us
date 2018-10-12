@@ -4,9 +4,8 @@
 
 Carcinogenesis
 
-Zolpidem was administered to mice and rats for 2 years at oral doses of 4, 18, and 80 mg base/kg.
-In mice, these doses are approximately 2, 9, and 40 times the maximum recommended human dose (MRHD) of 12.5 mg/day (10 mg zolpidem base) on mg/m2 basis.
-In rats, these doses are approximately 4, 18, and 80 times the MRHD on a mg/m2 basis.
+Zolpidem was administered to mice and rats for 2 years at oral doses of 4, 18, and 80 mg base/kg/day.
+In mice, these doses are approximately 2, 9, and 40 times the MRHD of 12.5 mg/day (10 mg zolpidem base) based on mg/m2 body surface area and in rats, these doses are approximately 4, 18, and 80 times the MRHD based on mg/m2 body surface area.
 No evidence of carcinogenic potential was observed in mice.
 In rats, renal tumors (lipoma, liposarcoma) were seen at the mid- and high doses.
 
@@ -16,6 +15,7 @@ Zolpidem was negative in in vitro (bacterial reverse mutation, mouse lymphoma, a
 
 Impairment of Fertility
 
-Oral administration of zolpidem (doses of 4, 20, and 100 mg base/kg/day) to rats prior to and during mating, and continuing in females through postpartum day 25, resulted in irregular estrus cycles and prolonged precoital intervals at the highest dose tested.
-The no-effect dose for these findings is approximately 20 times the MRHD on a mg/m2 basis.
+Zolpidem was administered to rats at 4, 20, and 100 mg base/kg/day, which are approximately 4, 20, and 100 times the MRHD of 12.5 mg/day (10 mg zolpidem base) based on mg/m2 body surface area, prior to and during mating, and continuing in females through postpartum day 25.
+Zolpidem caused irregular estrus cycles and prolonged precoital intervals at the highest dose tested, which is approximately 100 times the MRHD based on mg/m2 body surface area.
+The NOAEL for these effects is 20 times the MRHD based on mg/m2 body surface area.
 There was no impairment of fertility at any dose tested.

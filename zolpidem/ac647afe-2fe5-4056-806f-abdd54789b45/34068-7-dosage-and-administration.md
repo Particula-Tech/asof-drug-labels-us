@@ -22,7 +22,7 @@ Avoid zolpidem tartrate extended-release tablets use in patients with severe hep
 
 ## 2.3 Use with CNS Depressants
 
-Dosage adjustment may be necessary when zolpidem tartrate extended-release tablets are combined with other CNS depressant drugs because of the potentially additive effects [see WARNINGS AND PRECAUTIONS (5.1)].
+Dosage adjustment may be necessary when zolpidem tartrate extended-release tablets are combined with other CNS-depressant drugs because of the potentially additive effects [see WARNINGS AND PRECAUTIONS (5.1)].
 
 ## 2.4 Administration
 

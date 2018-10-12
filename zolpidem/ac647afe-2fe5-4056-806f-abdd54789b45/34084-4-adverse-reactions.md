@@ -37,9 +37,11 @@ The following tables were derived from results of two placebo-controlled efficac
 These trials involved patients with primary insomnia who were treated for 3 weeks with zolpidem tartrate extended-release tablets at doses of 12.5 mg (Table 1) or 6.25 mg (Table 2), respectively.
 The tables include only adverse reactions occurring at an incidence of at least 1% for zolpidem tartrate extended-release tablets patients and with an incidence greater than that seen in the placebo patients.
 
-| Table 1. Incidences of Treatment-Emergent Adverse Reactions in a 3-Week Placebo-Controlled Clinical Trial in Adults (percentage of patients reporting) |  |  |
+Table 1.
+Incidences of Treatment-Emergent Adverse Reactions in a 3-Week Placebo-Controlled Clinical Trial in Adults (percentage of patients reporting)
+
+| Body System Adverse Reaction* | Zolpidem Tartrate Extended-Release Tablets, 12.5 mg (N = 102) | Placebo (N = 110) |
 | --- | --- | --- |
-| Body System/Adverse Reaction* | Zolpidem Tartrate Extended-Release Tablets, 12.5 mg (N = 102) | Placebo (N = 110) |
 | Infections and infestations |  |  |
 | Influenza | 3 | 0 |
 | Gastroenteritis | 1 | 0 |
@@ -47,7 +49,7 @@ The tables include only adverse reactions occurring at an incidence of at least 
 | Metabolism and nutrition disorders |  |  |
 | Appetite disorder | 1 | 0 |
 | Psychiatric disorders |  |  |
-| Hallucinations ** | 4 | 0 |
+| Hallucinations † | 4 | 0 |
 | Disorientation | 3 | 2 |
 | Anxiety | 2 | 0 |
 | Depression | 2 | 0 |
@@ -62,7 +64,7 @@ The tables include only adverse reactions occurring at an incidence of at least 
 | Headache | 19 | 16 |
 | Somnolence | 15 | 2 |
 | Dizziness | 12 | 5 |
-| Memory disorders*** | 3 | 0 |
+| Memory disorders‡ | 3 | 0 |
 | Balance disorder | 2 | 0 |
 | Disturbance in attention | 2 | 0 |
 | Hypoesthesia | 2 | 1 |
@@ -109,12 +111,11 @@ The tables include only adverse reactions occurring at an incidence of at least 
 | Social circumstances |  |  |
 | Exposure to poisonous plant | 1 | 0 |
 | * Reactions reported by at least 1% of patients treated with zolpidem tartrate extended-release tablets and at greater frequency than in the placebo group. |  |  |
-| ** Hallucinations included hallucinations NOS as well as visual and hypnogogic hallucinations. |  |  |
-| *** Memory disorders include: memory impairment, amnesia, anterograde amnesia. |  |  |
+| † Hallucinations included hallucinations NOS as well as visual and hypnagogic hallucinations. |  |  |
+| ‡ Memory disorders include: memory impairment, amnesia, anterograde amnesia. |  |  |
 
-| Table 2. Incidences of Treatment-Emergent Adverse Reactions in a 3-Week Placebo-Controlled Clinical Trial in Elderly (percentage of patients reporting) |  |  |
+| Body System Adverse Reaction * | Zolpidem Tartrate Extended-Release Tablets, 6.25 mg (N=99) | Placebo (N=106) |
 | --- | --- | --- |
-| Body System/Adverse Reaction * | Zolpidem Tartrate Extended-Release Tablets, 6.25 mg (N=99) | Placebo (N=106) |
 | Infections and infestations |  |  |
 | Nasopharyngitis | 6 | 4 |
 | Lower respiratory tract infection | 1 | 0 |
@@ -131,7 +132,7 @@ The tables include only adverse reactions occurring at an incidence of at least 
 | Somnolence | 6 | 5 |
 | Burning sensation | 1 | 0 |
 | Dizziness postural | 1 | 0 |
-| Memory disorders ** | 1 | 0 |
+| Memory disorders † | 1 | 0 |
 | Muscle contractions involuntary | 1 | 0 |
 | Paresthesia | 1 | 0 |
 | Tremor | 1 | 0 |
@@ -159,17 +160,17 @@ The tables include only adverse reactions occurring at an incidence of at least 
 | Injury, poisoning and procedural complications |  |  |
 | Neck injury | 1 | 0 |
 | * Reactions reported by at least 1% of patients treated with zolpidem tartrate extended-release tablets and at greater frequency than in the placebo group. |  |  |
-| ** Memory disorders include: memory impairment, amnesia, anterograde amnesia. |  |  |
+| † Memory disorders include: memory impairment, amnesia, anterograde amnesia. |  |  |
 
 Dose Relationship for Adverse Reactions
 
 There is evidence from dose comparison trials suggesting a dose relationship for many of the adverse reactions associated with zolpidem use, particularly for certain CNS and gastrointestinal adverse events.
 
-Other Adverse Reactions Observed During the Premarketing Evaluation of Zolpidem Tartrate Extended-Release Tablets
+Other Adverse Reactions Observed during the Premarketing Evaluation of Zolpidem Tartrate Extended-Release Tablets
 
 Other treatment-emergent adverse reactions associated with participation in zolpidem tartrate extended-release tablets studies (those reported at frequencies of <1%) were not different in nature or frequency to those seen in studies with immediate-release zolpidem tartrate, which are listed below.
 
-Adverse Events Observed During the Premarketing Evaluation of Immediate-Release Zolpidem Tartrate
+Adverse Events Observed during the Premarketing Evaluation of Immediate-Release Zolpidem Tartrate
 
 Immediate-release zolpidem tartrate was administered to 3,660 subjects in clinical trials throughout the U.S., Canada, and Europe.
 Treatment-emergent adverse events associated with clinical trial participation were recorded by clinical investigators using terminology of their own choosing.
@@ -264,7 +265,7 @@ Rare: acute renal failure, dysuria, micturition frequency, nocturia, polyuria, p
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of zolpidem tartrate extended-release tablets.
+The following adverse reactions have been identified during postapproval use of zolpidem tartrate extended-release tablets.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Liver and biliary system

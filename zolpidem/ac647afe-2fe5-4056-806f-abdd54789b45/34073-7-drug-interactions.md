@@ -1,8 +1,8 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 CNS-active Drugs
+## 7.1 CNS-Active Drugs
 
-Co-administration of zolpidem with other CNS depressants increases the risk of CNS depression.
+Coadministration of zolpidem with other CNS depressants increases the risk of CNS depression.
 Concomitant use of zolpidem with these drugs may increase drowsiness and psychomotor impairment, including impaired driving ability [see WARNINGS AND PRECAUTIONS (5.1)].
 Zolpidem tartrate was evaluated in healthy volunteers in single-dose interaction studies for several CNS drugs.
 
