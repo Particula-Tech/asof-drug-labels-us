@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA210692"
+  ],
+  "inn": "atovaquone",
+  "labeler": "Camber Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "31722-629-21"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "atovaquone",
+      "name": "Atovaquone"
+    }
+  ],
+  "setid": "2445304e-4b4e-4358-b098-31f3c49c52ef",
+  "source": "dailymed"
+}
