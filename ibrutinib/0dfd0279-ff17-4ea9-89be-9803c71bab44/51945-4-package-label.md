@@ -78,7 +78,7 @@ Imbruvica® (ibrutinib) tablets
 
 140 mg
 
-Each table contains: ibrutinib 140 mg Swallow tablet whole with water
+Each tablet contains: ibrutinib 140 mg Swallow tablet whole with water
 
 28 Tablets
 
@@ -96,7 +96,7 @@ Imbruvica® (ibrutinib) tablets
 
 140 mg
 
-Each table contains: ibrutinib 140 mg Swallow tablet whole with water
+Each tablet contains: ibrutinib 140 mg Swallow tablet whole with water
 
 28 Tablets
 
@@ -114,7 +114,7 @@ Imbruvica® (ibrutinib) tablets
 
 140 mg
 
-Each table contains: ibrutinib 140 mg Swallow tablet whole with water
+Each tablet contains: ibrutinib 140 mg Swallow tablet whole with water
 
 28 Tablets
 
@@ -132,7 +132,7 @@ Imbruvica® (ibrutinib) tablets
 
 280 mg
 
-Each table contains: ibrutinib 280 mg Swallow tablet whole with water
+Each tablet contains: ibrutinib 280 mg Swallow tablet whole with water
 
 28 Tablets
 
@@ -150,7 +150,7 @@ Imbruvica® (ibrutinib) tablets
 
 280 mg
 
-Each table contains: ibrutinib 280 mg Swallow tablet whole with water
+Each tablet contains: ibrutinib 280 mg Swallow tablet whole with water
 
 28 Tablets
 
@@ -168,7 +168,7 @@ Imbruvica® (ibrutinib) tablets
 
 280 mg
 
-Each table contains: ibrutinib 280 mg Swallow tablet whole with water
+Each tablet contains: ibrutinib 280 mg Swallow tablet whole with water
 
 28 Tablets
 
@@ -186,7 +186,7 @@ Imbruvica® (ibrutinib) tablets
 
 420 mg
 
-Each table contains: ibrutinib 420 mg Swallow tablet whole with water
+Each tablet contains: ibrutinib 420 mg Swallow tablet whole with water
 
 28 Tablets
 
@@ -204,7 +204,7 @@ Imbruvica® (ibrutinib) tablets
 
 420 mg
 
-Each table contains: ibrutinib 420 mg Swallow tablet whole with water
+Each tablet contains: ibrutinib 420 mg Swallow tablet whole with water
 
 28 Tablets
 
@@ -222,7 +222,7 @@ Imbruvica® (ibrutinib) tablets
 
 420 mg
 
-Each table contains: ibrutinib 420 mg Swallow tablet whole with water
+Each tablet contains: ibrutinib 420 mg Swallow tablet whole with water
 
 28 Tablets
 
@@ -240,7 +240,7 @@ Imbruvica® (ibrutinib) tablets
 
 560 mg
 
-Each table contains: ibrutinib 560 mg Swallow tablet whole with water
+Each tablet contains: ibrutinib 560 mg Swallow tablet whole with water
 
 28 Tablets
 
@@ -258,7 +258,7 @@ Imbruvica® (ibrutinib) tablets
 
 560 mg
 
-Each table contains: ibrutinib 560 mg Swallow tablet whole with water
+Each tablet contains: ibrutinib 560 mg Swallow tablet whole with water
 
 28 Tablets
 
@@ -276,7 +276,7 @@ Imbruvica® (ibrutinib) tablets
 
 560 mg
 
-Each table contains: ibrutinib 560 mg Swallow tablet whole with water
+Each tablet contains: ibrutinib 560 mg Swallow tablet whole with water
 
 28 Tablets
 
