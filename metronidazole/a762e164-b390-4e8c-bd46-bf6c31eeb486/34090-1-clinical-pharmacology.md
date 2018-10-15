@@ -139,25 +139,6 @@ Antimicrobial Activity
 
 PYLERA plus omeprazole therapy has been shown to be active against most isolates of Helicobacter pylori both in vitro and in clinical infections [see Clinical Studies (14)].
 
-Susceptibility Test Methods
+Susceptibility Testing
 
-When available, the clinical microbiology laboratory should provide results of in vitro susceptibility test results for antimicrobial drug products used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nosocomial or community-acquired pathogens.
-These reports should aid the physician in selecting an antibacterial drug product for treatment.
-
-Dilution techniques
-
-Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
-These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The agar dilution procedure using Mueller-Hinton agar (MHA) supplemented with 5% v/v aged (≥2-week old) sheep blood is recommended for testing H. pylori [see References (15)].
-No interpretive criteria have been established for testing metronidazole or tetracycline against H. pylori.
-
-Quality Control
-
-Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test [see References (15)].
-Standard metronidazole or tetracycline powder should provide the following range of MIC values noted in Table 6.
-
-Table 6: Acceptable Quality Control Ranges for Metronidazole and Tetracycline
-
-| QC Strain | Agar Dilution (mcg/mL) |
-| --- | --- |
-| Helicobacter pylori ATCC 43504 Metronidazole Tetracycline | 64 – 256 0.12 – 1 |
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
