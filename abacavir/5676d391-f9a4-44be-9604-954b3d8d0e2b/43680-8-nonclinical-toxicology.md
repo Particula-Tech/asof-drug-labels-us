@@ -4,7 +4,7 @@
 
 ### Carcinogenicity
 
-Abacavir was administered orally at three dosage levels to separate groups of mice and rats in 2-year carcinogenicity studies.
+Abacavir was administered orally at 3 dosage levels to separate groups of mice and rats in 2-year carcinogenicity studies.
 Results showed an increase in the incidence of malignant and non-malignant tumors.
 Malignant tumors occurred in the preputial gland of males and the clitoral gland of females of both species, and in the liver of female rats.
 In addition, non-malignant tumors also occurred in the liver and thyroid gland of female rats.
@@ -20,7 +20,7 @@ Abacavir was not mutagenic in bacterial mutagenicity assays in the presence and 
 
 ### Impairment of Fertility
 
-Abacavir did not affect male or female fertility in rats at a dose associated with exposures approximately 8 times higher than the exposure in humans at the dose of 600 mg.
+Abacavir did not affect male or female fertility in rats at a dose associated with exposures (AUC) approximately 3.3 times (male) or 4.1 times (female) those in humans at the clinically recommended dose.
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
