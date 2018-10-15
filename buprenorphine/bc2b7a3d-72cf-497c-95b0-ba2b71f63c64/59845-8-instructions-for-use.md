@@ -1,6 +1,6 @@
 # Instructions for Use
 
-BELBUCA (bel-BUE-kuh) (buprenorphine) buccal film, CIII
+BELBUCA (bel-BUE-kuh) (buprenorphine buccal film), CIII
 
 Before you use BELBUCA buccal film, it is important that you read the Medication Guide and these Patient Instructions for Use so that you use BELBUCA the right way.
 Ask your healthcare provider or pharmacist if you have any questions about the right way to use BELBUCA.
@@ -35,15 +35,16 @@ Use BELBUCA buccal film as follows:
    - Avoid touching or moving BELBUCA buccal film with your tongue or finger after it is in place.
    - Do not chew or swallow BELBUCA.
 
-This Instruction for Use has been approved by the U.S. Food and Drug Administration.
+These Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
 For more information call BioDelivery Sciences International, Inc. at 1-800-469-0261.
 
-Manufactured for: BioDelivery Sciences International, Inc. Raleigh, NC 27612
+Manufactured for: BioDelivery Sciences International, Inc., Raleigh, NC 27612
 
 BELBUCA is a trademark of BioDelivery Sciences International, Inc.
 
-©2017 BioDelivery Sciences International, Inc. All rights reserved.
-03/2017 117832
+©2018 BioDelivery Sciences International, Inc. All rights reserved.
 
-BEL-001-MG-DEC2016
+121226
+
+BEL-001-MG-SEP2018

@@ -33,7 +33,7 @@ Risks Specific to Abuse of BELBUCA
 
 BELBUCA is intended for buccal use only.
 Abuse of BELBUCA poses a risk of overdose and death.
-This risk is increased with concurrent abuse of BELBUCA with alcohol and other substances, including other opioids and benzodiazepines [see Warnings and Precautions (5.4), Drug Interactions (7)].
+This risk is increased with concurrent abuse of BELBUCA with alcohol and other substances, including other opioids and benzodiazepines [see Warnings and Precautions (5.5), Drug Interactions (7)].
 Intentional compromise of the buccal film might result in the uncontrolled delivery of buprenorphine and pose a significant risk to the abuser that could result in overdose and death [see Warnings and Precautions (5.1)].
 Abuse may occur by applying the buccal film in the absence of legitimate purpose, or by swallowing, snorting, or injecting buprenorphine extracted from the buccal film.
 Parenteral drug abuse is commonly associated with transmission of infectious diseases such as hepatitis and HIV.

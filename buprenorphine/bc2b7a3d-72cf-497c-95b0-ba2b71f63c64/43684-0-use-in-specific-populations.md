@@ -4,7 +4,7 @@
 
 Risk Summary
 
-Prolonged use of opioid analgesics during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.3)].
+Prolonged use of opioid analgesics during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.4)].
 There are no adequate and well-controlled studies of BELBUCA or buprenorphine in pregnant women.
 Limited published data on use of buprenorphine, the active ingredient in BELBUCA, in pregnancy, have not shown an increased risk of major malformations.
 Reproductive and developmental studies in rats and rabbits identified adverse events at approximately 2 times the maximum recommended human dose (MRHD) of 1.8 mg/day of BELBUCA.
@@ -25,7 +25,7 @@ Fetal/Neonatal Adverse Reactions
 Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
 Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and failure to gain weight.
 The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
-Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.3)].
+Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.4)].
 
 Labor or Delivery
 
@@ -39,7 +39,7 @@ Data
 
 Animal Data
 
-The exposure margins listed below are based on body surface area comparisons (mg/m 2) to MRHD of 1.8 mg buprenorphine via BELBUCA.
+The exposure margins listed below are based on body surface area comparisons (mg/m2) to MRHD of 1.8 mg buprenorphine via BELBUCA.
 
 Following oral administration to rats no teratogenic effects were observed at buprenorphine doses up to 250 mg/kg/day (estimated exposure approximately 1351 times the MRHD of 1.8 mg).
 Following oral administration to rabbits, no teratogenic effects were observed at buprenorphine doses up to 40 mg/kg/day (estimated exposure approximately 432 times the MRHD of 1.8 mg).
@@ -59,7 +59,8 @@ In rabbits, buprenorphine produced statistically significant pre-implantation lo
 
 Dystocia was noted in pregnant rats treated intramuscularly with buprenorphine during gestation and lactation at 5 mg/kg/day (approximately 27 times the MRHD of 1.8 mg).
 Fertility, pre-, and post-natal development studies with buprenorphine in rats indicated increases in neonatal mortality after oral doses of 0.8 mg/kg/day and up (approximately 4.3 times the MRHD of 1.8 mg), after IM doses of 0.5 mg/kg/day and up (approximately 2.7 times the MRHD of 1.8 mg), and after SC doses of 0.1 mg/kg/day and up (approximately 0.5 times the MRHD of 1.8 mg).
-An apparent lack of milk production during these studies occurrence of righting reflex and startle response were noted in rat pups at an oral dose of 80 mg/kg/day (approximately 432 times the MRHD of 1.8 mg).
+An apparent lack of milk production during these studies likely contributed to the decreased pup viability and lactation indices.
+Delays in the occurrence of righting reflex and startle response were noted in rat pups at an oral dose of 80 mg/kg/day (approximately 432 times the MRHD of 1.8 mg).
 
 ## 8.2 Lactation
 
@@ -104,7 +105,7 @@ The incidences of selected BELBUCA-related adverse effects were higher in older 
 No notable differences in pharmacokinetics were observed from population pharmacokinetic analysis in subjects aged 65 compared to younger subjects.
 Other reported clinical experience with buprenorphine has not identified differences in responses between the elderly and younger patients.
 Although specific dose adjustments on the basis of advanced age are not required for pharmacokinetic reasons, use caution in the elderly population to ensure safe use.
-Titrate the dosage of BELBUCA slowly in geriatric patients and monitor closely for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.5),and Clinical Pharmacology (12.3)].
+Titrate the dosage of BELBUCA slowly in geriatric patients and monitor closely for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.6), Clinical Pharmacology (12.3)].
 
 Buprenorphine is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
@@ -118,5 +119,5 @@ Buprenorphine is extensively metabolized in the liver and buprenorphine plasma l
 
 Given that increased buprenorphine plasma levels are associated with a greater risk of toxicity and overdose, a dosage reduction in patients with severe hepatic impairment (i.e., Child-Pugh C) is recommended [see Dosage and Administration (2.5)].
 Monitor patients with severe hepatic impairment for signs and symptoms of overdose.
-A dosage reduction in patients with moderate hepatic impairment (Child-Pugh B) is not needed, however, monitor these patients for signs and symptoms of toxicity or overdose.
-A dosage reduction in patients with mild hepatic impairment (Child-Pugh A) is not needed [see Dosage and Administration (2.5), Warnings and Precautions (5.10) and Clinical Pharmacology (12.3)].
+A dosage reduction in patients with moderate hepatic impairment (Child-Pugh B) is not needed; however, monitor these patients for signs and symptoms of toxicity or overdose.
+A dosage reduction in patients with mild hepatic impairment (Child-Pugh A) is not needed [see Dosage and Administration (2.5), Warnings and Precautions (5.11), Clinical Pharmacology (12.3)].

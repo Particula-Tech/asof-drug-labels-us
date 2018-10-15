@@ -22,7 +22,7 @@ Of the 209 patients randomized to BELBUCA, 4% discontinued due to lack of effica
 Of the 211 patients randomized to placebo, 11% discontinued due to lack of efficacy and 4% due to adverse events.
 
 Of the patients who were randomized, the mean pain (SD) scores on a 0 to 10 numeric rating scale (NRS) were 7.1 (1.06) and 7.2 (1.05) prior to open-label titration and 2.8 (1.01) and 2.8 (1.12) at the beginning of the double-blind period for BELBUCA and placebo, respectively.
-The change from double-blind baseline to week 12 in mean pain (SD) NRS score was statistically significant favoring patients treated with BELBUCA, compared with patients treated with placebo.
+The change from double-blind baseline to week 12 in mean pain (SD) NRS score was statistically significant favoring patients treated with BELBUCA compared with patients treated with placebo.
 
 A higher proportion of BELBUCA patients (62%) had at least a 30% reduction in pain score from prior to open-label titration to study endpoint when compared to patients who received placebo buccal film (47%).
 A higher proportion of BELBUCA patients (41%) also had at least a 50% reduction in pain score from prior to open-label titration to study endpoint compared to patients who received placebo (33%).
@@ -35,7 +35,7 @@ Figure 1: Percentage Improvement in Pain Intensity from Titration-Baseline to We
 
 Eight hundred and ten (810) patients on chronic opioid therapy (total daily dose 30-160 mg in oral morphine sulfate equivalents (MSE) for at least 4 weeks) entered an open-label, dose-titration period with BELBUCA for up to 8 weeks, following taper of their prior opioids to 30 mg oral MSE daily.
 Potential subjects were excluded from participation for QTcF interval of 450 ms or more, hypokalemia, clinically unstable cardiac disease, a history of Long QT Syndrome or an immediate family member with this condition, or taking Class IA or Class III antiarrhythmic medications.
-Patients were initiated with BELBUCA 150 mcg every 12 hours if they were on 30 to 89 mg oral MSE daily and 300 mcg every 12 hours if they were on 90 to160 mg oral MSE daily prior to taper.
+Patients were initiated with BELBUCA 150 mcg every 12 hours if they were on 30 to 89 mg oral MSE daily and 300 mcg every 12 hours if they were on 90 to 160 mg oral MSE daily prior to taper.
 If a patient tolerated the adverse events and the analgesic effects were not adequate, the dose was increased in increments of 150 mcg every 12 hours after 4 to 8 days for up to 6 weeks.
 Patients were permitted to take hydrocodone/acetaminophen 5/325 mg as analgesic rescue as needed up to a maximum of 4 doses per day during the open-label dose titration period.
 After a dose was reached with adequate analgesia and tolerable adverse effects for a period of 2 weeks, patients were randomized to continue their titrated dose of BELBUCA or matching placebo.
