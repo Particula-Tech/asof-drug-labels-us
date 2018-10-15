@@ -4,7 +4,7 @@ NDC 42858-122-01
 
 Dilaudid® (hydromorphone HCl) Tablets, USP CII
 
-2 mg Rx Only
+2 mg Rx only
 
 Dispense the accompanying Medication Guide to each patient.
 
@@ -18,7 +18,7 @@ NDC 42858-234-01
 
 Dilaudid® (hydromorphone HCl) Tablets, USP CII
 
-4 mg Rx Only
+4 mg Rx only
 
 Dispense the accompanying Medication Guide to each patient.
 
@@ -32,7 +32,7 @@ NDC 42858-338-01
 
 Dilaudid® (hydromorphone HCl) Tablets, USP CII
 
-8 mg Rx Only
+8 mg Rx only
 
 Dispense the accompanying Medication Guide to each patient.
 
