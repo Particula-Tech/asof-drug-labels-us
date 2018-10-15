@@ -46,9 +46,9 @@ Priapism
 Advise patients, caregivers, and family members of the possibility of painful or prolonged penile erections (priapism).
 Instruct the patient to seek immediate medical attention in the event of priapism [see Warnings and Precautions (5.5)].
 
-Circulation Problems in Fingers and Toes [Peripheral Vasculopathy, including Raynaud’s Phenomenon]
+Circulation Problems in Fingers and Toes [Peripheral Vasculopathy, including Raynaud's Phenomenon]
 
-- Instruct patients beginning treatment with QUILLIVANT XR about the risk of peripheral vasculopathy, including Raynaud’s phenomenon, and associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red.
+- Instruct patients beginning treatment with QUILLIVANT XR about the risk of peripheral vasculopathy, including Raynaud's phenomenon, and associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red.
 - Instruct patients to report to their physician any new numbness, pain, skin color change, or sensitivity to temperature in fingers or toes.
 - Instruct patients to call their physician immediately with any signs of unexplained wounds appearing on fingers or toes while taking QUILLIVANT XR.
 - Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
@@ -61,13 +61,3 @@ Alcohol Effect
 
 Patients should be advised to avoid alcohol while taking QUILLIVANT XR Oral Suspension.
 Consumption of alcohol while taking QUILLIVANT XR may result in a more rapid release of the dose of methylphenidate [see Clinical Pharmacology (12.3)].
-
-This product’s label may have been updated.
-For current full prescribing information, please visit www.trispharma.com
-
-Distributed by:
-
-Manufactured by: Tris Pharma, Inc. Monmouth Junction, NJ 08852
-
-LB8529 Rev.
-00 08/2018

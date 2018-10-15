@@ -7,7 +7,7 @@ Methylphenidate HCl is a central nervous system (CNS) stimulant.
 ## 12.2 Pharmacodynamics
 
 Methylphenidate is a racemic mixture comprised of the d- and l-isomers.
-The d-isomer is more pharmacologically active than the l‑isomer.
+The d-isomer is more pharmacologically active than the l-isomer.
 The mode of therapeutic action in ADHD is not known.
 Methylphenidate blocks the reuptake of norepinephrine and dopamine into the presynaptic neuron and increases the release of these monoamines into the extraneuronal space.
 
@@ -15,25 +15,23 @@ Methylphenidate blocks the reuptake of norepinephrine and dopamine into the pres
 
 Absorption
 
-Following a single, 60 mg oral dose of QUILLIVANT XR in 28 healthy adult subjects in a crossover study under fasting conditions, d-methylphenidate (d-MPH) mean (± SD) peak plasma concentrations of 13.6 (± 5.8) ng/mL occurred at a median time of 5 hours after dosing (Figure 2).
-The relative bioavailability of QUILLIVANT XR compared to Methylphenidate IR oral solution (2x30 mg, q6h) is 95%.
+Following a single, 60 mg oral dose of QUILLIVANT XR in 28 healthy adult subjects in a crossover study under fasting conditions, d-methylphenidate (d-MPH) mean (± SD) peak plasma concentrations of 13.6 (± 5.8) ng/mL occurred at a median time of 5.0 hours after dosing (Figure 2).
+The relative bioavailability of QUILLIVANT XR compared to Methylphenidate IR oral solution (2×30 mg, q6h) is 95%.
 
 Figure 2.
 Mean d-Methylphenidate Plasma Concentration-Time Profiles
 
 The single dose pharmacokinetics of d-MPH under fed conditions are summarized (Table 3) from studies in children and adolescents with ADHD, and healthy adults following an oral dose of 60 mg QUILLIVANT XR.
 
-Table 3. d-MPH PK Parameters (mean ±SD) after 60 mg oral dosing of QUILLIVANT XR*
+Table 3. d-MPH PK Parameters (mean ±SD) after 60 mg oral dosing of QUILLIVANT XRBreakfast was given 30 min prior to drug administration
 
-| PK Parameter | Children† (n=3) | Adolescent† (n=4) | Adult (n=27) |
+| PK Parameter | Childrentotal MPH measured in children (9–12 years old) and adolescents (13–15 years old), l-MPH <2% of d-MPH in circulation (n=3) | Adolescent (n=4) | Adult (n=27) |
 | --- | --- | --- | --- |
-| Tmax (hr)‡ | 4.05 (3.98-6.0) | 2.0 (1.98-4.0) | 4.0 (1.3-7.3) |
+| Tmax (hr)data presented as median (range) | 4.05 (3.98–6.0) | 2.0 (1.98–4.0) | 4.0 (1.3–7.3) |
 | T1/2 (hr) | 5.2±0.1 | 5.0±0.2 | 5.2±1.0 |
 | Cmax (ng/mL) | 34.4±14.0 | 21.1±5.9 | 17.0±7.7 |
 | AUCinf (hr*ng/mL) | 378±175 | 178±54.2 | 163.2±80.3 |
 | Cl (L/hr/kg) | 4.27±0.70 | 5.06±1.42 | 5.66±2.15 |
-
-* Breakfast was given 30 min prior to drug administration† total MPH measured in children (9 to 12 years old) and adolescents (13 to 15 years old), l-MPH <2% of d-MPH in circulation‡ data presented as median (range)
 
 Food Effects
 
@@ -74,8 +72,8 @@ There is insufficient experience with the use of QUILLIVANT XR to detect ethnic 
 Age
 
 The pharmacokinetics of methylphenidate after QUILLIVANT XR administration were studied in pediatric patients with ADHD between 9 and 15 years of age.
-After a single oral dose of 60 mg QUILLIVANT XR, plasma concentrations of methylphenidate in children (9 to 12 years old; n=3) were approximately twice the concentrations observed in adults.
-The plasma concentrations in adolescent patients (13 to 15 years old; n=4) were similar to those in adults.
+After a single oral dose of 60 mg QUILLIVANT XR, plasma concentrations of methylphenidate in children (9–12 years old; n=3) were approximately twice the concentrations observed in adults.
+The plasma concentrations in adolescent patients (13–15 years old; n=4) were similar to those in adults.
 
 Renal Impairment
 

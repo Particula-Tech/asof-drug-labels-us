@@ -9,7 +9,7 @@ The following are discussed in more detail in other sections of the labeling:
 - Blood Pressure and Heart Rate Increases [see Warnings and Precautions (5.3)]
 - Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
 - Priapism [see Warnings and Precautions (5.5)]
-- Peripheral Vasculopathy, including Raynaud’s phenomenon [see Warnings and Precautions (5.6)]
+- Peripheral Vasculopathy, including Raynaud's phenomenon [see Warnings and Precautions (5.6)]
 - Long-Term Suppression of Growth [see Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Trials Experience
@@ -24,7 +24,7 @@ Clinical Trials Experience with QUILLIVANT XR in Children and Adolescents with A
 
 There is limited experience with QUILLIVANT XR in controlled trials.
 Based on this limited experience, the adverse reaction profile of QUILLIVANT XR appears similar to other methylphenidate extended-release products.
-The most common (≥2% in the QUILLIVANT XR group and greater than placebo) adverse reactions reported in the Phase 3 controlled study conducted in 45 ADHD patients (ages 6 to 12 years) were affect lability, excoriation, initial insomnia, tic, decreased appetite, vomiting, motion sickness, eye pain, and rash.
+The most common (≥2% in the QUILLIVANT XR group and greater than placebo) adverse reactions reported in the Phase 3 controlled study conducted in 45 ADHD patients (ages 6–12 years) were affect lability, excoriation, initial insomnia, tic, decreased appetite, vomiting, motion sickness, eye pain, and rash.
 
 Table 2.
 Common Adverse Reactions occurring in ≥2% of subjects on QUILLIVANT XR and greater than placebo during the controlled cross-over phase
@@ -71,4 +71,4 @@ Urogenital System: Priapism
 
 Skin and Subcutaneous Tissue Disorders: Alopecia, Erythema
 
-Vascular Disorders: Raynaud’s phenomenon
+Vascular Disorders: Raynaud's phenomenon

@@ -14,7 +14,7 @@ Before administering the dose, VIGOROUSLY SHAKE the bottle of QUILLIVANT XR for 
 The recommended starting dose of QUILLIVANT XR for patients 6 years and above is 20 mg once daily in the morning.
 The dose may be titrated weekly in increments of 10 mg to 20 mg.
 Daily doses above 60 mg have not been studied and are not recommended.
-As with any CNS stimulant, during titration of QUILLIVANT XR, the prescribed dose should be adjusted, if necessary, until a well‑tolerated, therapeutic dose is achieved.
+As with any CNS stimulant, during titration of QUILLIVANT XR, the prescribed dose should be adjusted, if necessary, until a well-tolerated, therapeutic dose is achieved.
 
 Pharmacologic treatment of ADHD may be needed for extended periods.
 Health care providers should periodically re-evaluate the long-term use of QUILLIVANT XR, and adjust dosage as needed.
@@ -34,7 +34,7 @@ Do not substitute for other methylphenidate products on a milligram-per-milligra
 ## 2.5 Dose Reduction and Discontinuation
 
 If paradoxical aggravation of symptoms or other adverse effects occur, reduce dosage, or, if necessary, discontinue the drug.
-QUILLIVANT XR should be periodically discontinued to assess the child’s condition.
+QUILLIVANT XR should be periodically discontinued to assess the child's condition.
 If improvement is not observed after appropriate dosage adjustment over a one-month period, the drug should be discontinued.
 
 ## 2.6 Reconstitution Instructions for the Pharmacist

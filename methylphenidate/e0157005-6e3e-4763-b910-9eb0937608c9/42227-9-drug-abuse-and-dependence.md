@@ -20,7 +20,7 @@ After prescribing, keep careful prescription records, educate patients and their
 
 Tolerance
 
-Tolerance (a state of adaptation in which exposure to a drug results in a reduction of the drug’s desired and/or undesired effects over time) can occur during chronic therapy with CNS stimulants including QUILLIVANT XR.
+Tolerance (a state of adaptation in which exposure to a drug results in a reduction of the drug's desired and/or undesired effects over time) can occur during chronic therapy with CNS stimulants including QUILLIVANT XR.
 
 Dependence
 
