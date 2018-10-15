@@ -15,18 +15,18 @@ The capsule shell contains gelatin, NF, water, sorbitol sorbitan solution, NF, g
 The imprinting ink contains hypromellose, USP, iron oxide black, and polyethylene glycol, USP.
 
 Usual Dosage: See package insert.
+
 Store at 2° to 25°C (36° to 77°F).
 
 AVOID EXPOSING TO HIGH TEMPERATURES AND HUMIDITY AFTER THE BOTTLE IS OPENED.
 PROTECT FROM LIGHT.
 
 KEEP OUT OF REACH OF CHILDREN.
-
 PATIENT: READ ACCOMPANYING PATIENT INFORMATION CAREFULLY.
 
 Manufactured by: Patheon Softgels, Inc. High Point, NC 27265
 
-Distributed by: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
