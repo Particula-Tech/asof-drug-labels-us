@@ -18,7 +18,7 @@ At a dose approximately 8 times the maximum recommended dose, azelastine hydroch
 ## 12.3 Pharmacokinetics
 
 Absorption After intranasal administration, the systemic bioavailability of azelastine hydrochloride is approximately 40%.
-Maximum plasma concentrations (Cmax) are achieved in 2­ - 3 hours.
+Maximum plasma concentrations (Cmax) are achieved in 2­-3 hours.
 
 Azelastine hydrochloride administered intranasally at doses above two sprays per nostril twice daily for 29 days resulted in greater than proportional increases in Cmax and area under the curve (AUC) for azelastine.
 

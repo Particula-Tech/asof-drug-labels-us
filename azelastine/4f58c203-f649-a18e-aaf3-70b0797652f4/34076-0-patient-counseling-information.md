@@ -24,4 +24,4 @@ APOTEX INC. AZELASTINE HYDROCHLORIDE NASAL SPRAY 137 mcg
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | 33326 |
 
-Revised: January 2017
+Revised: September 2018

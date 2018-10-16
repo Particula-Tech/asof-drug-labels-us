@@ -2,7 +2,7 @@
 
 Azelastine hydrochloride nasal solution 0.1% (nasal spray), 137 micrograms (mcg) per spray, is an antihistamine formulated as a metered-spray solution for intranasal administration.
 Azelastine hydrochloride occurs as a white, almost odorless, crystalline powder with a bitter taste.
-It has a molecular weight of 418.37.
+It has a molecular weight of 418.37 g/mol.
 It is sparingly soluble in water, methanol, and propylene glycol and slightly soluble in ethanol, octanol, and glycerine.
 It has a melting point of about 225ºC and the pH of a saturated solution is between 5.0 and 5.4.
 Its chemical name is (±)-1-(2H)-phthalazinone,4-[(4-chlorophenyl) methyl]-2-(hexahydro-1-methyl-1H-azepin-4-yl)-, monohydrochloride.
