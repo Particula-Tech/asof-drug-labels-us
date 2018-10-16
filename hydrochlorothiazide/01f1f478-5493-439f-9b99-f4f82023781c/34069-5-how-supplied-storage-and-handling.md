@@ -5,4 +5,19 @@ Bottles of 100 NDC 65862-133-01 Bottles of 1,000 NDC 65862-133-99 Hydrochlorothi
 Bottles of 100 NDC 65862-134-01 Bottles of 1,000 NDC 65862-134-99 PHARMACIST: Dispense in a well-closed container as defined in the USP.
 Use child-resistant closure (as required).
 Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
-Distributed by: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad - 500 038, India Revised: 07/2017
+
+Distributed by:
+
+Aurobindo Pharma USA, Inc.
+
+279 Princeton-Hightstown Road
+
+East Windsor, NJ 08520
+
+Manufactured by:
+
+Aurobindo Pharma Limited
+
+Hyderabad-500 038, India
+
+Revised: 07/2018
