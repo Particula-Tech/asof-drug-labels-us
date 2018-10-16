@@ -1,6 +1,6 @@
 Medication Guide
 
-Lexapro® (leks-a-pro) (escitalopram oxalate) Tablets/Oral Solution
+Lexapro® (leks-a-pro) (escitalopram) Tablets/Oral Solution
 
 Read the Medication Guide that comes with Lexapro before you start taking it and each time you get a refill.
 There may be new information.
@@ -92,9 +92,7 @@ Visual problems
 - swelling or redness in or around the eye
 
 Only some people are at risk for these problems.
-You may want to undergo an eye examination to see if
-
-you are at risk and receive preventative treatment if you are.
+You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 
 Do not stop Lexapro without first talking to your healthcare provider.
 Stopping Lexapro too quickly may cause serious symptoms including:
@@ -119,7 +117,7 @@ Who should not take Lexapro?
 
 Do not take Lexapro if you:
 
-- are allergic to escitalopram oxalate or citalopram hydrobromide or any of the ingredients in Lexapro.
+- are allergic to escitalopram or citalopram or any of the ingredients in Lexapro.
   See the end of this Medication Guide for a complete list of ingredients in Lexapro.
 - take a monoamine oxidase inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
@@ -135,8 +133,7 @@ Get medical help right away if you have any of these symptoms:
 - rapid changes in heart rate or blood pressure
 - confusion
 - loss of consciousness (pass out)
-
-- take the antipsychotic medicine pimozide (Orap®) because taking this drug with Lexapro can cause serious heart problems.
+- Do not take Lexapro with Orap® (pimozide) because taking these two drugs together can cause serious heart problems.
 
 What should I tell my healthcare provider before taking Lexapro?
 Ask if you are not sure.
@@ -166,7 +163,7 @@ Lexapro and some medicines may interact with each other, may not work as well, o
 Your healthcare provider or pharmacist can tell you if it is safe to take Lexapro with your other medicines.
 Do not start or stop any medicine while taking Lexapro without talking to your healthcare provider first.
 
-| If you take Lexapro, you should not take any other medicines that contain escitalopram oxalate or citalopram hydrobromide including: Celexa |
+| If you take Lexapro, you should not take any other medicines that contain escitalopram or citalopram including: Celexa |
 | --- |
 
 How should I take Lexapro?
@@ -253,13 +250,13 @@ Inactive ingredients:
   The film coating contains hypromellose, titanium dioxide, and polyethylene glycol.
 - Oral Solution: sorbitol, purified water, citric acid, sodium citrate, malic acid, glycerin, propylene glycol, methylparaben, propylparaben, and natural peppermint flavor.
 
-Distributed by: Allergan USA, Inc. Irvine, CA 92612
+Distributed by: Allergan USA, Inc. Madison, NJ 07940
 
 Licensed from H. Lundbeck A/S
 
-Revised: 1/2017
+Revised: 10/2018
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-- © 2017 ALLERGAN.
-  ALL RIGHTS RESERVED.
+© 2018 Allergan.
+All rights reserved.

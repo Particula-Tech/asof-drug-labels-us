@@ -223,7 +223,7 @@ These analyses revealed no clinically important changes in laboratory test param
 ECG Changes
 
 Electrocardiograms from Lexapro (N=625) and placebo (N=527) groups were compared with respect to outliers defined as subjects with QTc changes over 60 msec from baseline or absolute values over 500 msec post-dose, and subjects with heart rate increases to over 100 bpm or decreases to less than 50 bpm with a 25% change from baseline (tachycardic or bradycardic outliers, respectively).
-None of the patients in the Lexapro group had a QTcF interval >500 msec or a prolongion >60 msec compared to 0.2% of patients in the placebo group.
+None of the patients in the Lexapro group had a QTcF interval >500 msec or a prolongation>60 msec compared to 0.2% of patients in the placebo group.
 The incidence of tachycardic outliers was 0.2% in the Lexapro and the placebo group.
 The incidence of bradycardic outliers was 0.5% in the Lexapro group and 0.2% in the placebo group.
 

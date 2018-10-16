@@ -1,6 +1,6 @@
 # 11DESCRIPTION
 
-Lexapro® (escitalopram oxalate) is an orally administered selective serotonin reuptake inhibitor (SSRI).
+Lexapro® (escitalopram) is an orally administered selective serotonin reuptake inhibitor (SSRI).
 Escitalopram is the pure S-enantiomer (single isomer) of the racemic bicyclic phthalane derivative citalopram.
 Escitalopram oxalate is designated S-(+)-1-[3-(dimethyl-amino)propyl]-1-(p-fluorophenyl)-5-phthalancarbonitrile oxalate with the following structural formula:
 
@@ -8,7 +8,7 @@ The molecular formula is C20H21FN2O • C2H2O4 and the molecular weight is 414.4
 
 Escitalopram oxalate occurs as a fine, white to slightly-yellow powder and is freely soluble in methanol and dimethyl sulfoxide (DMSO), soluble in isotonic saline solution, sparingly soluble in water and ethanol, slightly soluble in ethyl acetate, and insoluble in heptane.
 
-Lexapro (escitalopram oxalate) is available as tablets or as an oral solution.
+Lexapro (escitalopram) is available as tablets or as an oral solution.
 
 Lexapro tablets are film-coated, round tablets containing escitalopram oxalate in strengths equivalent to 5 mg, 10 mg, and 20 mg escitalopram base.
 The 10 and 20 mg tablets are scored.
