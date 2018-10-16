@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA210227"
+  ],
+  "inn": "medroxyprogesterone",
+  "labeler": "Mylan Institutional LLC",
+  "package_ndcs": [
+    "67457-887-00",
+    "67457-887-01",
+    "67457-887-99"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SUSPENSION",
+      "generic": "medroxyprogesterone acetate",
+      "name": "Medroxyprogesterone Acetate"
+    }
+  ],
+  "setid": "60aba812-59eb-4d40-9b6b-d135dca9d36b",
+  "source": "dailymed"
+}
