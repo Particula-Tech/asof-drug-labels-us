@@ -1,7 +1,5 @@
 # Package/Label Display Panel
 
-## Fluoxetine Capsules USP 10 mg 100s Label Text
-
 NDC 50111-647-01
 
 FLUOXETINE Capsules USP 10 mg*
@@ -15,8 +13,6 @@ Rx only
 TEVA
 
 # Package/Label Display Panel
-
-## Fluoxetine Capsules USP 20 mg 100s Label Text
 
 NDC 50111-648-01
 

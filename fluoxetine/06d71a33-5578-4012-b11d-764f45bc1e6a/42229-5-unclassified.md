@@ -1,12 +1,12 @@
 How should I take fluoxetine capsules?
 
-1. •Take fluoxetine capsules exactly as prescribed.
-   Your healthcare provider may need to change the dose of fluoxetine capsules until it is the right dose for you.
-2. •Fluoxetine capsules may be taken with or without food.
-3. •If you miss a dose of fluoxetine capsules, take the missed dose as soon as you remember.
-   If it is almost time for the next dose, skip the missed dose and take your next dose at the regular time.
-   Do not take two doses of fluoxetine capsules at the same time.
-4. •If you take too many fluoxetine capsules, call your healthcare provider or poison control center right away, or get emergency treatment.
+- Take fluoxetine capsules exactly as prescribed.
+  Your healthcare provider may need to change the dose of fluoxetine capsules until it is the right dose for you.
+- Fluoxetine capsules may be taken with or without food.
+- If you miss a dose of fluoxetine capsules, take the missed dose as soon as you remember.
+  If it is almost time for the next dose, skip the missed dose and take your next dose at the regular time.
+  Do not take two doses of fluoxetine capsules at the same time.
+- If you take too many fluoxetine capsules, call your healthcare provider or poison control center right away, or get emergency treatment.
 
 What should I avoid while taking fluoxetine capsules?
 
@@ -18,37 +18,37 @@ What are the possible side effects of fluoxetine capsules?
 
 Fluoxetine capsules may cause serious side effects, including:
 
-- •See “What is the most important information I should know about fluoxetine capsules?”
-- •Problems with blood sugar control.
+- See “What is the most important information I should know about fluoxetine capsules?”
+- Problems with blood sugar control.
   People who have diabetes and take fluoxetine capsules may have problems with low blood sugar while taking fluoxetine capsules.
   High blood sugar can happen when fluoxetine capsules are stopped.
   Your healthcare provider may need to change the dose of your diabetes medicines when you start or stop taking fluoxetine capsules.
-- •Feeling anxious or trouble sleeping
+- Feeling anxious or trouble sleeping
 
 Common possible side effects in people who take fluoxetine capsules include:
 
-- •unusual dreams
-- •sexual problems
-- •loss of appetite, diarrhea, indigestion, nausea or vomiting, weakness, or dry mouth
-- •flu symptoms
-- •feeling tired or fatigued
-- •change in sleep habits
-- •yawning
-- •sinus infection or sore throat
-- •tremor or shaking
-- •sweating
-- •feeling anxious or nervous
-- •hot flashes
-- •rash
+- unusual dreams
+- sexual problems
+- loss of appetite, diarrhea, indigestion, nausea or vomiting, weakness, or dry mouth
+- flu symptoms
+- feeling tired or fatigued
+- change in sleep habits
+- yawning
+- sinus infection or sore throat
+- tremor or shaking
+- sweating
+- feeling anxious or nervous
+- hot flashes
+- rash
 
 Other side effects in children and adolescents include:
 
-- •increased thirst
-- •abnormal increase in muscle movement or agitation
-- •nose bleed
-- •urinating more often
-- •heavy menstrual periods
-- •possible slowed growth rate and weight change.
+- increased thirst
+- abnormal increase in muscle movement or agitation
+- nose bleed
+- urinating more often
+- heavy menstrual periods
+- possible slowed growth rate and weight change.
   Your child’s height and weight should be monitored during treatment with fluoxetine capsules.
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
@@ -60,9 +60,9 @@ YOU MAY REPORT SIDE EFFECTS TO THE FDA AT 1-800-FDA-1088.
 
 How should I store fluoxetine capsules?
 
-- •Store fluoxetine capsules at room temperature between 20° to 25°C (68° to 77°F).
-- •Keep fluoxetine capsules away from light.
-- •Keep fluoxetine capsules bottle closed tightly.
+- Store fluoxetine capsules at room temperature between 20° to 25°C (68° to 77°F).
+- Keep fluoxetine capsules away from light.
+- Keep fluoxetine capsules bottle closed tightly.
 
 Keep fluoxetine capsules and all medicines out of the reach of children.
 

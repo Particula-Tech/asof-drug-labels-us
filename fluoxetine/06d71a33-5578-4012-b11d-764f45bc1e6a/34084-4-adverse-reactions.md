@@ -2,19 +2,19 @@
 
 The following adverse reactions are discussed in more detail in other sections of the labeling:
 
-- •Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults [see Boxed Warning and Warnings and Precautions (5.1)]
-- •Serotonin Syndrome [see Warnings and Precautions (5.2)]
-- •Allergic Reactions and Rash [see Warnings and Precautions (5.3)]
-- •Screening Patients for Bipolar Disorder and Monitoring for Mania/Hypomania [see Warnings and Precautions (5.4)]
-- •Seizures [see Warnings and Precautions (5.5)]
-- •Altered Appetite and Weight [see Warnings and Precautions (5.6)]
-- •Abnormal Bleeding [see Warnings and Precautions (5.7)]
-- •Angle-Closure Glaucoma [see Warnings and Precautions (5.8)]
-- •Hyponatremia [see Warnings and Precautions (5.9)]
-- •Anxiety and Insomnia [see Warnings and Precautions (5.10)]
-- •QT Prolongation [see Warnings and Precautions (5.11)]
-- •Potential for Cognitive and Motor Impairment [see Warnings and Precautions (5.13)]
-- •Discontinuation Adverse Reactions [see Warnings and Precautions (5.15)]
+- Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults [see Boxed Warning and Warnings and Precautions (5.1)]
+- Serotonin Syndrome [see Warnings and Precautions (5.2)]
+- Allergic Reactions and Rash [see Warnings and Precautions (5.3)]
+- Screening Patients for Bipolar Disorder and Monitoring for Mania/Hypomania [see Warnings and Precautions (5.4)]
+- Seizures [see Warnings and Precautions (5.5)]
+- Altered Appetite and Weight [see Warnings and Precautions (5.6)]
+- Abnormal Bleeding [see Warnings and Precautions (5.7)]
+- Angle-Closure Glaucoma [see Warnings and Precautions (5.8)]
+- Hyponatremia [see Warnings and Precautions (5.9)]
+- Anxiety and Insomnia [see Warnings and Precautions (5.10)]
+- QT Prolongation [see Warnings and Precautions (5.11)]
+- Potential for Cognitive and Motor Impairment [see Warnings and Precautions (5.13)]
+- Discontinuation Adverse Reactions [see Warnings and Precautions (5.15)]
 
 When using fluoxetine and olanzapine in combination, also refer to the Adverse Reactions section of the package insert for Symbyax.
 
