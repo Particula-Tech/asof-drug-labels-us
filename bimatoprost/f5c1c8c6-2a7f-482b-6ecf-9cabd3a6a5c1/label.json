@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA090449"
+  ],
+  "inn": "bimatoprost",
+  "labeler": "Apotex Corp.",
+  "package_ndcs": [
+    "60505-0583-1",
+    "60505-0583-4",
+    "60505-0583-5"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "bimatoprost",
+      "name": "Bimatoprost"
+    }
+  ],
+  "setid": "f5c1c8c6-2a7f-482b-6ecf-9cabd3a6a5c1",
+  "source": "dailymed"
+}
