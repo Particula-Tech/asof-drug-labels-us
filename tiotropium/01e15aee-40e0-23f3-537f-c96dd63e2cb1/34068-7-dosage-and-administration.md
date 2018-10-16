@@ -16,4 +16,4 @@ If not used for more than 3 days, patients are to actuate the inhaler once to pr
 If not used for more than 21 days, patients are to actuate the inhaler until an aerosol cloud is visible and then repeat the process three more times to prepare the inhaler for use [see Patient Counseling Information (17)].
 
 No dosage adjustment is required for geriatric, hepatically-impaired, or renally-impaired patients.
-However, patients with moderate to severe renal impairment given STIOLTO RESPIMAT should be monitored closely for anticholinergic effects [see Warnings and Precautions (5.9), Use in Specific Populations (8.5, 8.6, 8.7), and Clinical Pharmacology (12.3)].
+However, patients with moderate to severe renal impairment given STIOLTO RESPIMAT should be monitored closely for anticholinergic effects [see Warnings and Precautions (5.10), Use in Specific Populations (8.5, 8.6, 8.7), and Clinical Pharmacology (12.3)].

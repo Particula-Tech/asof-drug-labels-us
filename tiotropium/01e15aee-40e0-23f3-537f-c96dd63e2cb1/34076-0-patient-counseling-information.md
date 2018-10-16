@@ -26,6 +26,9 @@ Excessive use of sympathomimetics may cause significant cardiovascular effects, 
 
 Risks Associated with Beta2-Agonist Therapy Inform patients of adverse effects associated with beta2-agonists, such as palpitations, chest pain, rapid heart rate, tremor, or nervousness.
 
+Immediate Hypersensitivity Reactions Inform patients that anaphylaxis, angioedema (including swelling of the lips, tongue, or throat), urticaria, rash, bronchospasm, or itching, may occur after administration of STIOLTO RESPIMAT.
+Advise patient to immediately discontinue treatment and consult a physician should any of these signs or symptoms develop.
+
 Paradoxical Bronchospasm Inform patients that STIOLTO RESPIMAT can produce paradoxical bronchospasm.
 Advise patients that if paradoxical bronchospasm occurs, patients should discontinue STIOLTO RESPIMAT.
 
@@ -57,4 +60,4 @@ STIOLTO® and RESPIMAT® are registered trademarks and are used under license fr
 
 Copyright © 2018 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-IT6053ID242018
+IT6053LJ82018

@@ -51,10 +51,24 @@ Results from Trial 2 are shown in Figure 1.
 
 Figure 1 FEV1 profile for STIOLTO RESPIMAT, tiotropium 5 mcg and olodaterol 5 mcg over a 24-hour dosing interval after 24 weeks (12 hr PFT subset from Trial 2)
 
-The St. George’s Respiratory Questionnaire (SGRQ) was assessed in Trials 1 and 2 and in two additional 12-week placebo-controlled trials.
+The St. George’s Respiratory Questionnaire (SGRQ) was assessed in Trials 1 and 2 and in two additional 12-week placebo-controlled trials (Trials 3 and 4).
 
-In the first 12-week trial, SGRQ responder rates at week 12 (defined as an improvement in score of 4 or more as a threshold) were 53%, 42%, and 31% for STIOLTO RESPIMAT, tiotropium 5mcg, and placebo, respectively, with odds ratios of 1.6 (95% CI 1.1, 2.4) and 2.5 (95% CI 1.6, 3.8) for STIOLTO RESPIMAT vs. tiotropium 5mcg and STIOLTO RESPIMAT vs. placebo, respectively.
-In the second 12-week trial, results were similar with odds ratios of 1.5 (95% CI 1.0, 2.3) and 2.2 (95% CI 1.5, 3.4) for STIOLTO RESPIMAT vs. tiotropium 5mcg and STIOLTO RESPIMAT vs. placebo, respectively.
+In the first 12-week trial, SGRQ responder rates at week 12 (defined as an improvement in score of 4 or more as a threshold) were 53%, 42%, and 31% for STIOLTO RESPIMAT, tiotropium 5 mcg, and placebo, respectively, with odds ratios of 1.6 (95% CI 1.1, 2.4) and 2.5 (95% CI 1.6, 3.8) for STIOLTO RESPIMAT vs. tiotropium 5 mcg and STIOLTO RESPIMAT vs. placebo, respectively.
+In the second 12-week trial, results were similar with odds ratios of 1.5 (95% CI 1.0, 2.3) and 2.2 (95% CI 1.5, 3.4) for STIOLTO RESPIMAT vs. tiotropium 5 mcg and STIOLTO RESPIMAT vs. placebo, respectively.
 For the 52-week trials similar responder rates were seen.
-In Trial 1, the odds ratios for STIOLTO vs. tiotropium 5mcg and STIOLTO vs. olodaterol 5mcg at week 24 were 1.6 (95% CI 1.2, 2.0) and 1.9 (95% CI 1.5, 2.4), respectively.
-The results were similar in the 52-week Trial 2, with odds ratios for STIOLTO vs. tiotropium 5mcg and STIOLTO vs. olodaterol 5mcg of 1.3 (95% CI 1.0, 1.7) and 1.5 (95% CI 1.1, 1.9), respectively.
+In Trial 1, the odds ratios for STIOLTO vs. tiotropium 5 mcg and STIOLTO vs. olodaterol 5 mcg at week 24 were 1.6 (95% CI 1.2, 2.0) and 1.9 (95% CI 1.5, 2.4), respectively.
+The results were similar in the 52-week Trial 2, with odds ratios for STIOLTO vs. tiotropium 5 mcg and STIOLTO vs. olodaterol 5 mcg of 1.3 (95% CI 1.0, 1.7) and 1.5 (95% CI 1.1, 1.9), respectively.
+
+Exacerbations Tiotropium 5 mcg Trials Evaluating Exacerbations The effect of tiotropium 5 mcg inhalation spray on exacerbations was evaluated in three 48-week randomized, double-blind, placebo-controlled clinical trials that included COPD exacerbations as the primary endpoint.
+Exacerbations of COPD were defined as a complex of lower respiratory events/symptoms (increase or new onset) related to the underlying COPD, with duration of three days or more, requiring a prescription of antibiotics and/or systemic steroids and/or hospitalization.
+In a pooled analysis of the first two trials, tiotropium 5 mcg significantly reduced the number of COPD exacerbations compared to placebo with a rate ratio of 0.78 (95% CI 0.67, 0.92).
+In the third trial, tiotropium 5 mcg delayed the time to first COPD exacerbation compared to placebo with a hazard ratio of 0.69 (95% CI 0.63, 0.77).
+
+STIOLTO RESPIMAT Trial Evaluating Exacerbations In a one-year, randomized, double-blind, active-controlled parallel group clinical trial (Trial 5), the effect of STIOLTO RESPIMAT on COPD exacerbations was compared with tiotropium 5 mcg inhalation spray.
+Exacerbations were defined as above.
+Enrolled patients (3939 patients receiving STIOLTO RESPIMAT and 3941 patients receiving tiotropium 5 mcg inhalation spray) had a history of COPD exacerbation in the previous 12 months.
+The primary endpoint was the annualized rate of moderate to severe COPD exacerbations.
+The majority of patients were male (71%) and Caucasian (79%).
+The mean age was 66 years, and mean post-bronchodilator FEV1 percent predicted was 45%.
+STIOLTO RESPIMAT treatment did not demonstrate superiority to tiotropium 5 mcg inhalation spray for the primary endpoint, the annualized rate of moderate to severe COPD exacerbations, with a rate ratio of 0.93 (99% CI, 0.85-1.02, p=0.0498).
+The study did not reach the pre-specified significance level of 0.01.

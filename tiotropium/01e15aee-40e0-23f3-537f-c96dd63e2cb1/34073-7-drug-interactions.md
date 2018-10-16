@@ -30,7 +30,7 @@ In this setting, cardioselective beta-blockers could be considered, although the
 ## 7.6 Anticholinergics
 
 There is potential for an additive interaction with concomitantly used anticholinergic medications.
-Therefore, avoid co-administration of STIOLTO RESPIMAT with other anticholinergic-containing drugs as this may lead to an increase in anticholinergic adverse effects [see Warnings and Precautions (5.7, 5.8) and Adverse Reactions (6)].
+Therefore, avoid co-administration of STIOLTO RESPIMAT with other anticholinergic-containing drugs as this may lead to an increase in anticholinergic adverse effects [see Warnings and Precautions (5.8, 5.9) and Adverse Reactions (6)].
 
 ## 7.7 Inhibitors of Cytochrome P450 and P-gp Efflux Transporter
 
