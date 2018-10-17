@@ -9,8 +9,7 @@ Since the sedative effects of SOMA and other CNS depressants (e.g., alcohol, ben
 
 ## 5.2 Abuse, Dependence, and Withdrawal
 
-Carisoprodol, the active ingredient in SOMA, has been subject to abuse, dependence, and withdrawal, misuse and criminal diversion.
-[see Drug Abuse and Dependence (9.1, 9.2, 9.3)].
+Carisoprodol, the active ingredient in SOMA, has been subject to abuse, dependence, and withdrawal, misuse and criminal diversion [see Drug Abuse and Dependence (9.1, 9.2, 9.3)].
 Abuse of SOMA poses a risk of overdosage which may lead to death, CNS and respiratory depression, hypotension, seizures and other disorders [see Overdosage (10)].
 
 Post-marketing experience cases of carisoprodol abuse and dependence have been reported in patients with prolonged use and a history of drug abuse.

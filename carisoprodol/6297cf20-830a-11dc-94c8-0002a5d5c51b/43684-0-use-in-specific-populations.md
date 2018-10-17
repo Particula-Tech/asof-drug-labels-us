@@ -61,5 +61,4 @@ Since SOMA is metabolized in the liver, caution should be exercised if SOMA is a
 ## 8.8 Patients with Reduced CYP2C19 Activity
 
 Patients with reduced CYP2C19 activity have higher exposure to carisoprodol.
-Therefore, caution should be exercised in administration of SOMA to these patients.
-[see Clinical Pharmacology (12.3)].
+Therefore, caution should be exercised in administration of SOMA to these patients [see Clinical Pharmacology (12.3)].
