@@ -1,6 +1,6 @@
 # OVERDOSAGE
 
-The toxic levels for lithium are close to the therapeutic levels.
+The toxic levels for lithium (≥ 1.5 mEq/L) are close to the therapeutic levels (0.6 to 1.2 mEq/L).
 It is therefore important that patients and their families be cautioned to watch for early toxic symptoms and to discontinue the drug and inform the physician should they occur.
 Toxic symptoms are listed in detail under ADVERSE REACTIONS.
 
@@ -12,4 +12,5 @@ In severe cases of lithium poisoning, the first and foremost goal of treatment c
 Treatment is essentially the same as that used in barbiturate poisoning: 1) gastric lavage, 2) correction of fluid and electrolyte imbalance, and 3) regulation of kidney function.
 Urea, mannitol and aminophylline all produce significant increases in lithium excretion.
 Hemodialysis is an effective and rapid means of removing the ion from the severely toxic patient.
+
 Infection prophylaxis, regular chest X-rays and preservation of adequate respiration are essential.

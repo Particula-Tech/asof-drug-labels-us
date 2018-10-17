@@ -1,22 +1,22 @@
 # DOSAGE AND ADMINISTRATION
 
-Doses of extended-release tablets are usually given b.i.d.
+Doses of controlled-release tablets are usually given b.i.d.
 (approximately 12-hour intervals).
-When initiating therapy with immediate-release or extended-release lithium, dosage must be individualized according to serum levels and clinical response.
+When initiating therapy with controlled-release lithium, dosage must be individualized according to serum levels and clinical response.
 
-When switching a patient from immediate-release capsules to the lithium carbonate extended-release tablets USP, give the same total daily dose when possible.
-Most patients on maintenance therapy are stabilized on 900 mg daily, e.g., lithium carbonate extended-release tablets, 450 mg b.i.d.
-When the previous dosage of immediate-release lithium is not a multiple of 450 mg, e.g., 1500 mg, initiate lithium extended-release tablet at the multiple of 450 mg nearest to, but below, the original daily dose, i.e., 1350 mg.
-When the two doses are unequal, give the larger dose in the evening.
-In the above example, with a total daily dose of 1350 mg, generally 450 mg of lithium carbonate extended-release tablets should be given in the morning and 900 mg of lithium carbonate extended-release tablets in the evening.
-If desired, the total daily dose of 1350 mg can be given in three equal 450 mg doses of lithium carbonate extended-release tablets.
+When switching a patient from immediate-release capsules to Lithium Carbonate Extended-Release Tablets, give the same total daily dose when possible.
+Most patients on maintenance therapy are stabilized on 900 mg daily, e.g., Lithium Carbonate Extended-Release Tablets, 450 mg b.i.d.
+When the previous dosage of immediate-release lithium is not a multiple of 450 mg, e.g., 1,500 mg, initiate Lithium Carbonate Extended-Release Tablets at the multiple of 450 mg nearest to, but below, the original daily dose, i.e., 1,350 mg.
+When the 2 doses are unequal, give the larger dose in the evening.
+In the above example, with a total daily dose of 1,350 mg, generally 450 mg of Lithium Carbonate Extended-Release Tablets should be given in the morning and 900 mg of Lithium Carbonate Extended-Release Tablets in the evening.
+If desired, the total daily dose of 1,350 mg can be given in three equal 450 mg doses of Lithium Carbonate Extended-Release Tablets.
 These patients should be monitored at 1- to 2-week intervals, and dosage adjusted if necessary, until stable and satisfactory serum levels and clinical state are achieved.
 
-When patients require closer titration than that available with doses of lithium carbonate extended-release tablets in increments of 450 mg, immediate-release capsules should be used.
+When patients require closer titration than that available with doses of Lithium Carbonate Extended-Release Tablets in increments of 450 mg, immediate-release capsules should be used.
 
 ## Acute Mania
 
-Optimal patient response to lithium can usually be established and maintained with 1800 mg per day in divided doses.
+Optimal patient response to Lithium Carbonate Extended-Release Tablets can usually be established and maintained with 1800 mg per day in divided doses.
 Such doses will normally produce the desired serum lithium level ranging between 1 and 1.5 mEq/L.
 
 Dosage must be individualized according to serum levels and clinical response.
@@ -31,10 +31,11 @@ Serum lithium levels in uncomplicated cases receiving maintenance therapy during
 
 Patients unusually sensitive to lithium may exhibit toxic signs at serum levels below 1 mEq/L.
 
-## N.B.
+## Important Considerations
 
-Blood samples for serum lithium determinations should be drawn immediately prior to the next dose when lithium concentrations are relatively stable (i.e., 8 to 12 hours after the previous dose).
-Total reliance must not be placed on serum levels alone.
-Accurate patient evaluation requires both clinical and laboratory analysis.
+- •Blood samples for serum lithium determinations should be drawn immediately prior to the next dose when lithium concentrations are relatively stable (i.e., 8 to 12 hours after the previous dose).
+  Total reliance must not be placed on serum levels alone.
+  Accurate patient evaluation requires both clinical and laboratory analysis.
+- •Elderly patients often respond to reduced dosage, and may exhibit signs of toxicity at serum levels ordinarily tolerated by younger patients.
 
-Elderly patients often respond to reduced dosage, and may exhibit signs of toxicity at serum levels ordinarily tolerated by younger patients.
+Lithium Carbonate Extended-Release Tablets must be swallowed whole and never chewed or crushed.

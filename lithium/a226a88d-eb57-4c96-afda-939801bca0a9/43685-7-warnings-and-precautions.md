@@ -6,12 +6,8 @@ Lithium toxicity is closely related to serum lithium levels, and can occur at do
 
 Outpatients and their families should be warned that the patient must discontinue lithium carbonate therapy and contact his physician if such clinical signs of lithium toxicity as diarrhea, vomiting, tremor, mild ataxia, drowsiness or muscular weakness occur.
 
-Lithium carbonate may impair mental and/or physical abilities.
-Caution patients about activities requiring alertness (e.g., operating vehicles or machinery).
-
-Lithium should generally not be given to patients with significant renal or cardiovascular disease, severe debilitation or dehydration, or sodium depletion, since the risk of lithium toxicity is very high in such patients.
-If the psychiatric indication is life-threatening, and if such a patient fails to respond to other measures, lithium treatment may be undertaken with extreme caution, including daily serum lithium determinations and adjustment to the usually low doses ordinarily tolerated by these individuals.
-In such instances, hospitalization is a necessity.
+The risk of lithium toxicity is increased in patients with significant renal or cardiovascular disease, severe debilitation or dehydration, or sodium depletion, and for patients receiving prescribed medications that may affect kidney function, such as angiotensin converting enzyme inhibitors (ACE inhibitors), angiotensin receptor blockers (ARBs), diuretics (loops and thiazides) and NSAIDs.
+For these patients, consider starting with lower doses and titrating slowly while frequently monitoring serum lithium concentrations and signs of lithium toxicity.
 
 ## Unmasking of Brugada Syndrome
 
@@ -20,17 +16,28 @@ Brugada Syndrome is a disorder characterized by abnormal electrocardiographic (E
 Lithium should generally be avoided in patients with Brugada Syndrome or those suspected of having Brugada Syndrome.
 Consultation with a cardiologist is recommended if: (1) treatment with lithium is under consideration for patients suspected of having Brugada Syndrome or patients who have risk factors for Brugada Syndrome, e.g., unexplained syncope, a family history of Brugada Syndrome, or a family history of sudden unexplained death before the age of 45 years, (2) patients who develop unexplained syncope or palpitations after starting lithium therapy.
 
+## Pseudotumor Cerebri
+
+Cases of pseudotumor cerebri (increased intracranial pressure and papilledema) have been reported with lithium use.
+If undetected, this condition may result in enlargement of the blind spot, constriction of visual fields, and eventual blindness due to optic atrophy.
+Lithium should be discontinued, if clinically possible, if this syndrome occurs.
+
 ## Renal Effects
 
 Chronic lithium therapy may be associated with diminution of renal concentrating ability, occasionally presenting as nephrogenic diabetes insipidus, with polyuria and polydipsia.
 Such patients should be carefully managed to avoid dehydration with resulting lithium retention and toxicity.
 This condition is usually reversible when lithium is discontinued.
 
+Post marketing cases consistent with nephrotic syndrome have been reported with the use of lithium.
+Biopsy findings in patients with nephrotic syndrome include minimal change disease and focal segmental glomerulosclerosis.
+Discontinuation of lithium in patients with nephrotic syndrome has resulted in remission of nephrotic syndrome.
+
 Morphologic changes with glomerular and interstitial fibrosis and nephron atrophy have been reported in patients on chronic lithium therapy.
 Morphologic changes have also been seen in manic-depressive patients never exposed to lithium.
 The relationship between renal functional and morphologic changes and their association with lithium therapy have not been established.
 
-When kidney function is assessed, for baseline data prior to starting lithium therapy or thereafter, routine urinalysis and other tests may be used to evaluate tubular function (e.g., urine specific gravity or osmolality following a period of water deprivation, or 24-hour urine volume) and glomerular function (e.g., serum creatinine or creatinine clearance).
+Kidney function should be assessed prior to and during lithium therapy.
+Routine urinalysis and other tests may be used to evaluate tubular function (e.g., urine specific gravity or osmolality following a period of water deprivation, or 24-hour urine volume) and glomerular function (e.g., serum creatinine, creatinine clearance or proteinuria).
 During lithium therapy, progressive or sudden changes in renal function, even within the normal range, indicate the need for reevaluation of treatment.
 
 ## Encephalopathic Syndrome
@@ -40,7 +47,18 @@ In some instances, the syndrome was followed by irreversible brain damage.
 Because of a possible causal relationship between these events and the concomitant administration of lithium and neuroleptics, patients receiving such combined therapy should be monitored closely for early evidence of neurologic toxicity and treatment discontinued promptly if such signs appear.
 This encephalopathic syndrome may be similar to or the same as neuroleptic malignant syndrome (NMS).
 
-## Concomitant Use With Neuromuscular Blocking Agents
+## Serotonin Syndrome
+
+Lithium can precipitate serotonin syndrome, a potentially life-threatening condition.
+The risk is increased with concomitant use of other serotonergic drugs (including selective serotonin reuptake inhibitors, serotonin and norepinephrine reuptake inhibitors, triptans, tricyclic antidepressants, fentanyl, tramadol, tryptophan, buspirone, and St. John’s Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs (see PRECAUTIONS).
+
+Serotonin syndrome signs and symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+
+Monitor all patients taking lithium for the emergence of serotonin syndrome.
+Discontinue treatment with lithium and any concomitant serotonergic agents immediately if the above symptoms occur, and initiate supportive symptomatic treatment.
+If concomitant use of lithium with other serotonergic drugs is clinically warranted, inform patients of the increased risk for serotonin syndrome and monitor for symptoms.
+
+## Concomitant Use with Neuromuscular Blocking Agents
 
 Lithium may prolong the effects of neuromuscular blocking agents.
 Therefore, neuromuscular blocking agents should be given with caution to patients receiving lithium.
@@ -56,18 +74,14 @@ If this drug is used in women of childbearing potential, or during pregnancy, or
 ## Usage in Nursing Mothers
 
 Lithium is excreted in human milk.
-Nursing should not be undertaken during lithium therapy except in rare and unusual circumstances where, in the view of the physician, the potential benefits to the mother outweigh possible hazards to the child.
+Nursing should not be undertaken during lithium therapy except in rare and unusual circumstances where, in the view of the physician, the potential benefits to the mother outweigh possible hazards to the infant or neonate.
+Signs and symptoms of lithium toxicity such as hypertonia, hypothermia, cyanosis, and ECG changes have been reported in some infants and neonates.
 
 ## Usage in Pediatric Patients
 
-Since information regarding the safety and effectiveness of lithium carbonate in children under 12 years of age is not available, its use in such patients is not recommended.
+Safety and effectiveness in pediatric patients under 12 years of age have not been determined; its use in these patients is not recommended.
 
 There has been a report of a transient syndrome of acute dystonia and hyperreflexia occurring in a 15 kg child who ingested 300 mg of lithium carbonate.
-
-## Usage in the Elderly
-
-Elderly patients often require lower lithium dosages to achieve therapeutic serum levels.
-They may also exhibit adverse reactions at serum levels ordinarily tolerated by younger patients.
 
 # PRECAUTIONS
 
@@ -85,36 +99,13 @@ Decreased tolerance to lithium has been reported to ensue from protracted sweati
 
 In addition to sweating and diarrhea, concomitant infection with elevated temperatures may also necessitate a temporary reduction or cessation of medication.
 
-Previously existing underlying thyroid disorders do not necessarily constitute a contraindication to lithium treatment; where hypothyroidism exists, careful monitoring of thyroid function during lithium stabilization and maintenance allows for correction of changing thyroid parameters, if any; where hypothyroidism occurs during lithium stabilization and maintenance, supplemental thyroid treatment may be used.
+Previously existing underlying thyroid disorders do not necessarily constitute a contraindication to lithium treatment; where hypothyroidism pre-exists, careful monitoring of thyroid function during lithium stabilization and maintenance allows for correction of changing thyroid parameters, if any; where hypothyroidism occurs during lithium stabilization and maintenance, supplemental thyroid treatment may be used.
 
-## Information for the Patients
+## Information for Patients
+
+Lithium carbonate may impair mental and/or physical abilities.
+Caution patients about activities requiring alertness (e.g. operating vehicles or machinery).
 
 A condition known as Brugada Syndrome may pre-exist and be unmasked by lithium therapy.
 Brugada Syndrome is a heart disorder characterized by abnormal electrocardiographic (ECG) findings and risk of sudden death.
-Patients should be advised to seek immediate emergency assistance if they experience fainting, lightheadedness, abnormal heart beats, or shortness of breath.
-
-## Drug Interactions
-
-Caution should be used when lithium and diuretics are used concomitantly because diuretic-induced sodium loss may reduce the renal clearance of lithium and increase serum lithium levels with risk of lithium toxicity.
-Patients receiving such combined therapy should have serum lithium levels monitored and the lithium dosage adjusted if necessary.
-
-Lithium levels should be closely monitored when patients initiate or discontinue NSAID use.
-In some cases, lithium toxicity has resulted from interactions between an NSAID and lithium.
-Indomethacin and piroxicam have been reported to increase significantly steady-state plasma lithium concentrations.
-There is also evidence that other nonsteroidal anti-inflammatory agents, including the selective cyclooxygenase-2 (COX-2) inhibitors, have the same effect.
-In a study conducted in healthy subjects, mean steady-state lithium plasma levels increased approximately 17% in subjects receiving lithium 450 mg b.i.d. with celecoxib 200 mg b.i.d. as compared to subjects receiving lithium alone.
-
-Concurrent use of metronidazole with lithium may provoke lithium toxicity due to reduced renal clearance.
-Patients receiving such combined therapy should be monitored closely.
-
-There is evidence that angiotensin-converting enzyme inhibitors, such as enalapril and captopril, and angiotension II receptor antagonists, such as losartan, may substantially increase steady-state plasma lithium levels, sometimes resulting in lithium toxicity.
-When such combinations are used, lithium dosage may need to be decreased, and plasma lithium levels should be measured more often.
-
-Concurrent use of calcium channel blocking agents with lithium may increase the risk of neurotoxicity in the form of ataxia, tremors, nausea, vomiting, diarrhea and/or tinnitus.
-Caution is recommended.
-
-The concomitant administration of lithium with selective serotonin reuptake inhibitors should be undertaken with caution as this combination has been reported to result in symptoms such as diarrhea, confusion, tremor, dizziness and agitation.
-
-The following drugs can lower serum lithium concentrations by increasing urinary lithium excretion: acetazolamide, urea, xanthine preparations and alkalinizing agents such as sodium bicarbonate.
-
-The following have also been shown to interact with lithium: methyldopa, phenytoin and carbamazepine.
+Patients should be advised to seek immediate emergency assistance if they experience fainting, lightheadedness, abnormal heart beats, or shortness of breath because they may have a potentially life-threatening heart disorder known as Brugada Syndrome.

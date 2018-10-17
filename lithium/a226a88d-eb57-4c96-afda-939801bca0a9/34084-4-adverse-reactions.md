@@ -18,35 +18,31 @@ Serum lithium levels should not be permitted to exceed 2 mEq/L during the acute 
 
 The following reactions have been reported and appear to be related to serum lithium levels, including levels within the therapeutic range:
 
-Neuromuscular/Central Nervous System: tremor, muscle hyperirritability (fasciculations, twitching, clonic movements of whole limbs), hypertonicity, ataxia, choreo-athetotic movements, hyperactive deep tendon reflex, extrapyramidal symptoms including acute dystonia, cogwheel rigidity, blackout spells, epileptiform seizures, slurred speech, dizziness, vertigo, downbeat nystagmus, incontinence of urine or feces, somnolence, psychomotor retardation, restlessness, confusion, stupor, coma, tongue movements, tics, tinnitus, hallucinations, poor memory, slowed intellectual functioning, startled response, worsening of organic brain syndromes, myasthenia gravis (rarely).
+Neuromuscular/Central Nervous System: Tremor, muscle hyperirritability (fasciculations, twitching, clonic movements of whole limbs), hypertonicity, ataxia, choreo-athetotic movements, hyperactive deep tendon reflex, extrapyramidal symptoms including acute dystonia, cogwheel rigidity, blackout spells, epileptiform seizures, slurred speech, dizziness, vertigo, downbeat nystagmus, incontinence of urine or feces, somnolence, psychomotor retardation, restlessness, confusion, stupor, coma, tongue movements, tics, tinnitus, hallucinations, poor memory, slowed intellectual functioning, startled response, worsening of organic brain syndromes, myasthenia gravis (rarely).
 
-Cardiovascular: cardiac arrhythmia, hypotension, peripheral circulatory collapse, bradycardia, sinus node dysfunction with severe bradycardia (which may result in syncope), unmasking of Brugada Syndrome (See WARNINGS: Unmasking of Brugada Syndrome and PRECAUTIONS: Information for the Patients).
+Cardiovascular: Cardiac arrhythmia, hypotension, peripheral circulatory collapse, bradycardia, sinus node dysfunction with severe bradycardia (which may result in syncope), Unmasking of Brugada Syndrome (See WARNINGSand PRECAUTIONS, Information for Patients).
 
-Gastrointestinal: anorexia, nausea, vomiting, diarrhea, gastritis, salivary gland swelling, abdominal pain, excessive salivation, flatulence, indigestion.
+Gastrointestinal: Anorexia, nausea, vomiting, diarrhea, gastritis, salivary gland swelling, abdominal pain, excessive salivation, flatulence, indigestion.
 
-Genitourinary: glycosuria, decreased creatinine clearance, albuminuria, oliguria, and symptoms of nephrogenic diabetes insipidus including polyuria, thirst and polydipsia.
+Genitourinary: Glycosuria, decreased creatinine clearance, albuminuria, oliguria, and symptoms of nephrogenic diabetes insipidus including polyuria, thirst and polydipsia.
 
-Dermatologic: drying and thinning of hair, alopecia, anesthesia of skin, acne, chronic folliculitis, xerosis cutis, psoriasis or its exacerbation, generalized pruritus with or without rash, cutaneous ulcers, angioedema.
+Dermatologic: Drying and thinning of hair, alopecia, anesthesia of skin, acne, chronic folliculitis, xerosis cutis, psoriasis or its exacerbation, generalized pruritus with or without rash, cutaneous ulcers, angioedema.
 
-Autonomic: blurred vision, dry mouth, impotence/sexual dysfunction.
+Autonomic Nervous System: Blurred vision, dry mouth, impotence/sexual dysfunction.
 
-Thyroid Abnormalities: euthyroid goiter and/or hypothyroidism (including myxedema) accompanied by lower T3 and T4.
+Thyroid Abnormalities: Euthyroid goiter and/or hypothyroidism (including myxedema) accompanied by lower T3 and T4.
 I131 uptake may be elevated.
 (See PRECAUTIONS.)
 Paradoxically, rare cases of hyperthyroidism have been reported.
 
-EEG Changes: diffuse slowing, widening of the frequency spectrum, potentiation and disorganization of background rhythm.
+EEG Changes: Diffuse slowing, widening of the frequency spectrum, potentiation and disorganization of background rhythm.
 
-EKG Changes: reversible flattening, isoelectricity or inversion of T-waves.
+EKG Changes: Reversible flattening, isoelectricity or inversion of T-waves.
 
-Miscellaneous: fatigue, lethargy, transient scotomata, exophthalmos, dehydration, weight loss, leukocytosis, headache, transient hyperglycemia, hypercalcemia, hyperparathyroidism, excessive weight gain, edematous swelling of ankles or wrists, metallic taste, dysgeusia/taste distortion, salty taste, thirst, swollen lips, tightness in chest, swollen and/or painful joints, fever, polyarthralgia, dental caries.
+Miscellaneous: Fatigue, lethargy, transient scotomata, exophthalmos, dehydration, weight loss, leukocytosis, headache, transient hyperglycemia, hypercalcemia, hyperparathyroidism, excessive weight gain, edematous swelling of ankles or wrists, metallic taste, dysgeusia/taste distortion, salty taste, thirst, swollen lips, tightness in chest, swollen and/or painful joints, fever, polyarthralgia, dental caries.
 
-Some reports of nephrogenic diabetes insipidus, hyperparathyroidism and hypothyroidism which persist after lithium discontinuation have been received.
+Some reports of nephrogenic diabetes insipidus, hyperparathyroidism, and hypothyroidism which persist after lithium discontinuation have been received.
 
 A few reports have been received of the development of painful discoloration of fingers and toes and coldness of the extremities within one day of the starting of treatment with lithium.
 The mechanism through which these symptoms (resembling Raynaud's syndrome) developed is not known.
 Recovery followed discontinuance.
-
-Cases of pseudotumor cerebri (increased intracranial pressure and papilledema) have been reported with lithium use.
-If undetected, this condition may result in enlargement of the blind spot, constriction of visual fields and eventual blindness due to optic atrophy.
-Lithium should be discontinued, if clinically possible, if this syndrome occurs.
