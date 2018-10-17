@@ -22,20 +22,20 @@ Table 2: Single Dose and Multiple Dose Mean (±SD) Plasma Pharmacokinetic Parame
 
 | Mesalamine (5-ASA) | Single Dose (n=24) | Multiple Dosec (n=24) |
 | --- | --- | --- |
-| AUC0-24 (mcg*h/mL) | 11 ± 5 | 17 ± 6 |
-| AUC0-inf (mcg*h/mL) | 14 ± 5 | - |
-| Cmax (mcg/mL) | 2.1 ± 1.1 | 2.7 ± 1.1 |
+| AUC0-24 (mcg*h/mL) | 11±5 | 17±6 |
+| AUC0-inf (mcg*h/mL) | 14±5 | - |
+| Cmax (mcg/mL) | 2.1±1.1 | 2.7±1.1 |
 | Tmax (h)a | 4 (2, 16) | 4 (2, 8) |
-| t½ (h)b | 9 ± 7 | 10 ± 8 |
+| t½ (h)b | 9±7 | 10±8 |
 | N-Ac-5-ASA |  |  |
-| AUC0-24 (mcg*h/mL) | 26 ± 6 | 37 ± 9 |
-| AUC0-inf (mcg*h/mL) | 51 ± 23 | - |
-| Cmax (mcg/mL) | 2.8 ± 0.8 | 3.4 ± 0.9 |
+| AUC0-24 (mcg*h/mL) | 26±6 | 37±9 |
+| AUC0-inf (mcg*h/mL) | 51±23 | - |
+| Cmax (mcg/mL) | 2.8±0.8 | 3.4±0.9 |
 | Tmax (h)a | 4 (4, 12) | 5 (2, 8) |
-| t½ (h)b | 12 ± 11 | 14 ± 10 |
+| t½ (h)b | 12±11 | 14±10 |
 | a Median (range); b Harmonic mean (pseudo SD); c after 7 days of treatment |  |  |
 
-In a separate study (n=30), it was observed that under fasting conditions about 32% ± 11% (mean ± SD) of the administered dose was systemically absorbed based on the combined cumulative urinary excretion of 5-ASA and N-Ac-5-ASA over 96 hours post-dose.
+In a separate study (n=30), it was observed that under fasting conditions about 32%±11% (mean±SD) of the administered dose was systemically absorbed based on the combined cumulative urinary excretion of 5-ASA and N-Ac-5-ASA over 96 hours post-dose.
 
 The effect of a high fat meal intake on absorption of mesalamine granules (the same granules contained in APRISO capsules) was evaluated in 30 healthy subjects.
 Subjects received 1.6 g of mesalamine granules in sachet (2 x 0.8 g) following an overnight fast or a high fat meal in a crossover study.
@@ -46,7 +46,7 @@ As APRISO and mesalamine granules in sachet were bioequivalent, APRISO can be ta
 
 Distribution
 
-In an in vitro study, at 2.5 mcg/mL, mesalamine and N-Ac-5-ASA are 43 ± 6% and 78 ± 1% bound, respectively, to plasma proteins.
+In an in vitro study, at 2.5 mcg/mL, mesalamine and N-Ac-5-ASA are 43±6% and 78±1% bound, respectively, to plasma proteins.
 Protein binding of N-Ac-5-ASA does not appear to be concentration dependent at concentrations ranging from 1 to 10 mcg/mL.
 
 Metabolism

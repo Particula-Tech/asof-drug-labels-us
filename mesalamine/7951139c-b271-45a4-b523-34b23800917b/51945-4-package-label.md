@@ -6,6 +6,4 @@ Rx only
 
 apriso® (mesalamine) Extended-Release Capsules 0.375 g
 
-120 Capsules Salix
-
-PHARMACEUTICALS
+120 Capsules Salix PHARMACEUTICALS
