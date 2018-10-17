@@ -209,7 +209,7 @@ Because the 5 mg dose alone was not superior to aspirin alone, only the data con
 Patients with established CAD or PAD were eligible.
 Patients with CAD who were younger than 65 years of age were also required to have documentation of atherosclerosis involving at least two vascular beds or to have at least two additional cardiovascular risk factors (current smoking, diabetes mellitus, an estimated glomerular filtration rate [eGFR] <60 mL per minute, heart failure, or non-lacunar ischemic stroke ≥1 month earlier).
 Patients with PAD were either symptomatic with ankle brachial index <0.90 or had asymptomatic carotid artery stenosis ≥50%, a previous carotid revascularization procedure, or established ischemic disease of one or both lower extremities.
-Patients were excluded for use of dual antiplatelet, other non-aspirin antiplatelet, or oral anticoagulant therapies, ischemic, non-lacunar stroke within 1 month, hemorrhagic or lacunar stroke at any time, or eGFR < 15 mL/min.
+Patients were excluded for use of dual antiplatelet, other non-aspirin antiplatelet, or oral anticoagulant therapies, ischemic, non-lacunar stroke within 1 month, hemorrhagic or lacunar stroke at any time, or eGFR <15 mL/min.
 [see Warnings and Precautions (5.2)].
 
 The mean age was 68 years and 21% of the subject population were ≥75 years.
@@ -230,7 +230,7 @@ Figure 10 shows the risk of primary efficacy outcome across major subgroups.
 
 Figure 10: Risk of Primary Efficacy Outcome by Baseline Characteristics in COMPASS (Intent-to-Treat Population)
 
-Table 15: Efficacy results (including net clinical benefit endpoint) from COMPASS study
+Table 15: Efficacy results from COMPASS study
 
 | n (%) | Event Rate (%/year) | n (%) | Event Rate (%/year) |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -247,7 +247,7 @@ Table 15: Efficacy results (including net clinical benefit endpoint) from COMPAS
 | CV deathCV death includes CHD death, or death due to other CV causes or unknown death., MI, ischemic stroke, acute limb ischemia | 389 (4.3) | 2.2 | 516 (5.7) | 3.00 | 0.74 (0.65, 0.85) |
 | All-cause mortality | 313 (3.4) | 1. 8 | 378 (4.1) | 2.2 | 0.82 (0.71, 0.96) |
 | Lower extremity amputations for CV reasons | 15 (0.2) | <0.1 | 31 (0.3) | 0.2 | 0.48 (0.26, 0.89) |
-|  | Patients with PAD |  |  |  |  |
+| Patients with PAD |  |  |  |  |  |
 | Acute limb ischemia | 19 (0.8) | 0.4 | 34 (1.4) | 0.8 | 0.56 (0.32, 0.99) |
 | CHD: coronary heart disease, CI: confidence interval; CV: cardiovascular; MI: myocardial infarction |  |  |  |  |  |
 

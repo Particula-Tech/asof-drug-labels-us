@@ -47,7 +47,7 @@ If signs or symptoms of spinal hematoma are suspected, initiate urgent diagnosis
 
 Nonvalvular Atrial Fibrillation
 
-Periodically assess renal function as clinically indicated (i.e., more frequently in situations in which renal function may decline) and adjust therapy accordingly [see Table 1].
+Periodically assess renal function as clinically indicated (i.e., more frequently in situations in which renal function may decline) and adjust therapy accordingly [see Dosage and Administration (2.1)].
 Consider dose adjustment or discontinuation of XARELTO in patients who develop acute renal failure while on XARELTO [see Use in Specific Populations (8.6)].
 
 Treatment of Deep Vein Thrombosis (DVT), Pulmonary Embolism (PE), and Reduction in the Risk of Recurrence of DVT and of PE

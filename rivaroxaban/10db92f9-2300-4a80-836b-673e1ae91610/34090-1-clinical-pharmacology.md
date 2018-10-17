@@ -44,7 +44,7 @@ For the 2.5 mg and 10 mg dose, it is estimated to be 80% to 100% and is not affe
 XARELTO 10 mg tablets can be taken with or without food.
 For the 20 mg dose in the fasted state, the absolute bioavailability is approximately 66%.
 Coadministration of XARELTO with food increases the bioavailability of the 20 mg dose (mean AUC and Cmax increasing by 39% and 76% respectively with food).
-XARELTO 15 mg and 20 mg tablets should be taken with food [see Table 1].
+XARELTO 15 mg and 20 mg tablets should be taken with food [see Dosage and Administration (2.1)].
 
 The maximum concentrations (Cmax) of rivaroxaban appear 2 to 4 hours after tablet intake.
 The pharmacokinetics of rivaroxaban were not affected by drugs altering gastric pH.
@@ -122,7 +122,7 @@ Drug Interactions
 In vitro studies indicate that rivaroxaban neither inhibits the major cytochrome P450 enzymes CYP1A2, 2C8, 2C9, 2C19, 2D6, 2J2, and 3A nor induces CYP1A2, 2B6, 2C19, or 3A.
 In vitro data also indicates a low rivaroxaban inhibitory potential for P-gp and ABCG2 transporters.
 
-The effects of coadministered drugs on the pharmacokinetics of rivaroxaban exposure are summarized in Figure 4 [see Drug Interactions (7) for dosing recommendations].
+The effects of coadministered drugs on the pharmacokinetics of rivaroxaban exposure are summarized in Figure 4 [see Drug Interactions (7)].
 
 Figure 4: Effect of Coadministered Drugs on the Pharmacokinetics of Rivaroxaban
 

@@ -3,7 +3,7 @@
 The following adverse reactions are also discussed in other sections of the labeling:
 
 - Increased risk of stroke after discontinuation in nonvalvular atrial fibrillation [see Boxed Warning and Warnings and Precautions (5.1)]
-- Bleeding risk [see Warnings and Precautions (5.2, 5.4, 5.5, 5.6, 5.7,)]
+- Bleeding risk [see Warnings and Precautions (5.2, 5.4, 5.5, 5.6, 5.7)]
 - Spinal/epidural hematoma [see Boxed Warning and Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
@@ -142,21 +142,21 @@ Table 6 shows the number of patients experiencing various types of major bleedin
 Table 6: Major Bleeding EventsMajor bleeding events within each subcategory were counted once per patient, but patients may have contributed events to multiple subcategories.
 These events occurred during treatment or within 2 days of stopping treatment. in COMPASS - On Treatment Plus 2 days
 
-|  | n (n/100 p-yrs) | n (n/100 p-yrs) | HR (95 % CI) |
+| Parameter | n (%/year) | n (%/year) | HR (95 % CI) |
 | --- | --- | --- | --- |
-| Parameter | XARELTO plus aspirinTreatment schedule: XARELTO 2.5 mg twice daily plus aspirin 100 mg once daily, or aspirin 100 mg once daily N=9134 | Aspirin alone N=9107 | XARELTO plus aspirin Vs. Aspirin alone |
+|  | XARELTO plus aspirinTreatment schedule: XARELTO 2.5 mg twice daily plus aspirin 100 mg once daily, or aspirin 100 mg once daily N=9134 | Aspirin alone N=9107 | XARELTO plus aspirin vs. Aspirin alone |
 | Modified ISTH Major BleedingDefined as i) fatal bleeding, or ii) symptomatic bleeding in a critical area or organ, such as intraarticular, intramuscular with compartment syndrome, intraspinal, intracranial, intraocular, respiratory, pericardial, liver, pancreas, retroperitoneal, adrenal gland or kidney; or iii) bleeding into the surgical site requiring reoperation, or iv) bleeding leading to hospitalization. | 263 (1.6) | 144 (0.9) | 1.84 (1.50, 2.26) |
 | - Fatal bleeding event | 12 (<0.1) | 8 (<0.1) | 1.51 (0.62, 3.69) |
 | Intracranial hemorrhage (ICH) | 6 (<0.1) | 3 (<0.1) | 2.01 (0.50, 8.03) |
 | Non-intracranial | 6 (<0.1) | 5 (<0.1) | 1.21 (0.37, 3.96) |
 | - Symptomatic bleeding in critical organ (non-fatal) | 58 (0.3) | 43 (0.3) | 1.36 (0.91, 2.01) |
 | ICH | 23 (0.1) | 21 (0.1) | 1.09 (0.61, 1.98) |
-| Haemorrhagic Stroke | 18 (0.1) | 13 (<0.1) | 1.38 (0.68, 2.82) |
+| Hemorrhagic Stroke | 18 (0.1) | 13 (<0.1) | 1.38 (0.68, 2.82) |
 | Other ICH | 6 (<0.1) | 9 (<0.1) | 0.67 (0.24, 1.88) |
 | - Bleeding into the surgical site requiring reoperation (non-fatal, not in critical organ) | 7 (<0.1) | 6 (<0.1) | 1.17 (0.39, 3.48) |
 | - Bleeding leading to hospitalization (non-fatal, not in critical organ, not requiring reoperation) | 188 (1.1) | 91 (0.5) | 2.08 (1.62, 2.67) |
 | Major GI bleeding | 117 (0.7) | 49 (0.3) | 2.40 (1.72, 3.35) |
-| CI: confidence interval; HR: hazard ratio; ISTH: International Society on Thrombosis and Hemostasis; p-yrs: patient years |  |  |  |
+| CI: confidence interval; HR: hazard ratio; ISTH: International Society on Thrombosis and Hemostasis |  |  |  |
 
 Figure 2 shows the risk of modified ISTH major bleeding events across major subgroups.
 
@@ -222,4 +222,4 @@ Immune system disorders: hypersensitivity, anaphylactic reaction, anaphylactic s
 
 Nervous system disorders: cerebral hemorrhage, subdural hematoma, epidural hematoma, hemiparesis
 
-Skin and subcutaneous tissue disorders: Stevens-Johnson syndrome
+Skin and subcutaneous tissue disorders: Stevens-Johnson syndrome, drug reaction with eosinophilia and systemic symptoms (DRESS)

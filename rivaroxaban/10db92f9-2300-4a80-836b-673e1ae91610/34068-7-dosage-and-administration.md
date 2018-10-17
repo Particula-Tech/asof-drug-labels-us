@@ -7,17 +7,17 @@ Table 1: Recommended Dosage
 | Indication | Renal ConsiderationsSee Use in Specific Populations (8.6) | Dosage | Food/TimingSee Clinical Pharmacology (12.3) |
 | --- | --- | --- | --- |
 | Reduction in Risk of Stroke in Nonvalvular Atrial Fibrillation | CrCl >50 mL/min | 20 mg once daily | Take with evening meal |
-| CrCl 15 to 50 mL/min | 15 mg once daily | Take with evening meal |  |
-| Treatment of DVT and/or PE | CrCl ≥ 30 mL/min | 15 mg twice daily ▼ after 21 days, transition to ▼ 20 mg once daily | Take with food, at the same time each day |
+| CrCl ≤50 mL/min | 15 mg once daily | Take with evening meal |  |
+| Treatment of DVT and/or PE | CrCl ≥30 mL/min | 15 mg twice daily ▼ after 21 days, transition to ▼ 20 mg once daily | Take with food, at the same time each day |
 | CrCl <30 mL/min | Avoid Use |  |  |
-| Reduction in the Risk of Recurrence of DVT and/or PE in patients at continued risk for DVT and/or PE | CrCl ≥ 30 mL/min | 10 mg once daily, after at least 6 months of standard anticoagulant treatment | Take with or without food |
-| CrCl < 30 mL/min | Avoid Use |  |  |
+| Reduction in the Risk of Recurrence of DVT and/or PE in patients at continued risk for DVT and/or PE | CrCl ≥30 mL/min | 10 mg once daily, after at least 6 months of standard anticoagulant treatment | Take with or without food |
+| CrCl <30 mL/min | Avoid Use |  |  |
 | Prophylaxis of DVT Following: |  |  |  |
-| -Hip Replacement SurgerySee Dosage and Administration (2.3) | CrCl ≥ 30 mL/min | 10 mg once daily for 35 days, 6–10 hours after surgery once hemostasis has been established | Take with or without food |
+| -Hip Replacement SurgerySee Dosage and Administration (2.3) | CrCl ≥30 mL/min | 10 mg once daily for 35 days, 6–10 hours after surgery once hemostasis has been established | Take with or without food |
 | CrCl <30 mL/min | Avoid Use |  |  |
-| -Knee Replacement Surgery | CrCl ≥ 30 mL/min | 10 mg once daily for 12 days, 6–10 hours after surgery once hemostasis has been established | Take with or without food |
+| -Knee Replacement Surgery | CrCl ≥30 mL/min | 10 mg once daily for 12 days, 6–10 hours after surgery once hemostasis has been established | Take with or without food |
 | CrCl <30 mL/min | Avoid Use |  |  |
-| Reduction of Risk of Major Cardiovascular Events (CV Death, MI, and Stroke) in Chronic CAD or PAD | CrCl >15 mL/min | 2.5 mg twice daily, plus aspirin (75–100 mg) once daily | Take with or without food |
+| Reduction of Risk of Major Cardiovascular Events (CV Death, MI, and Stroke) in Chronic CAD or PAD | No dose adjustment needed based on CrCl | 2.5 mg twice daily, plus aspirin (75–100 mg) once daily | Take with or without food |
 
 ## 2.2 Switching to and from XARELTO
 
