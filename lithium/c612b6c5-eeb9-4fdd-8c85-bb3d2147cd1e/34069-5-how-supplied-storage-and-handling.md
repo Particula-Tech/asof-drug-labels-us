@@ -6,7 +6,9 @@ Lithium Carbonate Extended-release Tablets USP
 
 NDC 0054-0021-25: Bottle of 100 Tablets
 
-NDC 0054-0021-29: Bottle of 500 Tablets Storage
+NDC 0054-0021-29: Bottle of 500 Tablets
+
+Storage
 
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
@@ -19,6 +21,6 @@ Pharmaceuticals Corp.
 
 Eatontown, NJ 07724
 
-10002523/06
+10002523/07
 
-Revised March 2016
+Revised July 2016
