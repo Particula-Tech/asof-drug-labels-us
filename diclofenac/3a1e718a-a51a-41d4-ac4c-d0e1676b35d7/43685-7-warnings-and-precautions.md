@@ -16,9 +16,13 @@ Patients should be informed about the symptoms of serious CV events and the step
 There is no consistent evidence that concurrent use of aspirin mitigates the increased risk of serious CV thrombotic events associated with NSAID use.
 The concurrent use of aspirin and an NSAID, such as diclofenac, increases the risk of serious gastrointestinal (GI) events [see Warnings and Precautions (5.2)].
 
-Status Post Coronary Artery Bypass Graft (CABG) Surgery Two large, controlled, clinical trials of a a COX-2 selective NSAID for the treatment of pain in the first 10 - 14 days following CABG surgery found an increased incidence of myocardial infarction and stroke [see Contraindications (4)].
+Status Post Coronary Artery Bypass Graft (CABG) Surgery
 
-Post-MI Patients Observational studies conducted in the Danish National Registry have demonstrated that patients treated with NSAIDs in the post-MI period were at increased risk of reinfarction, CV-related death, and all-cause mortality beginning in the first week of treatment.
+Two large, controlled, clinical trials of a a COX-2 selective NSAID for the treatment of pain in the first 10 - 14 days following CABG surgery found an increased incidence of myocardial infarction and stroke [see Contraindications (4)].
+
+Post-MI Patients
+
+Observational studies conducted in the Danish National Registry have demonstrated that patients treated with NSAIDs in the post-MI period were at increased risk of reinfarction, CV-related death, and all-cause mortality beginning in the first week of treatment.
 In this same cohort, the incidence of death in the first year post-MI was 20 per 100 person years in NSAID-treated patients compared to 12 per 100 person years in non-NSAID exposed patients.
 Although the absolute rate of death declined somewhat after the first year post-MI, the increased relative risk of death in NSAID users persisted over at least the next four years of follow-up.
 
@@ -33,7 +37,9 @@ Only one in five patients who develop a serious upper GI adverse event on NSAID 
 Upper GI ulcers, gross bleeding, or perforation caused by NSAIDs occurred in approximately 1% of patients treated for 3 - 6 months, and in about 2 %- 4% of patients treated for one year.
 However, even short-term NSAID therapy is not without risk.
 
-Risk Factors for GI Bleeding, Ulceration, and Perforation Patients with a prior history of peptic ulcer disease and/or GI bleeding who used NSAIDs had a greater than 10-fold increased risk for developing a GI bleed compared to patients without these risk factors.
+Risk Factors for GI Bleeding, Ulceration, and Perforation
+
+Patients with a prior history of peptic ulcer disease and/or GI bleeding who used NSAIDs had a greater than 10-fold increased risk for developing a GI bleed compared to patients without these risk factors.
 Other factors that increase the risk of GI bleeding in patients treated with NSAIDs include longer duration of NSAID therapy; concomitant use of oral corticosteroids, aspirin, anticoagulants, or selective serotonin reuptake inhibitors (SSRIs); smoking; use of alcohol; older age; and poor general health status.
 Most postmarketing reports of fatal GI events occurred in elderly or debilitated patients.
 Additionally, patients with advanced liver disease and/or coagulopathy are at increased risk for GI bleeding.
@@ -89,7 +95,7 @@ Monitor blood pressure (BP) closely during the initiation of NSAID treatment and
 
 ## 5.5 Heart Failure and Edema
 
-The Coxib and traditional NSAID Trialists’ Collaboration meta-analysis of randomized controlled trials demonstrated an approximately two-fold increase in hospitalizations for heart failure in COX-2 selective-treated patients and nonselective NSAID-treated patients compared to placebo-treated patients.
+The Coxib and traditional NSAID Trialists' Collaboration meta-analysis of randomized controlled trials demonstrated an approximately two-fold increase in hospitalizations for heart failure in COX-2 selective-treated patients and nonselective NSAID-treated patients compared to placebo-treated patients.
 In a Danish National Registry study of patients with heart failure, NSAID use increased the risk of MI, hospitalization for heart failure, and death.
 
 Additionally, fluid retention and edema have been observed in some patients treated with NSAIDs.
@@ -100,7 +106,9 @@ If PENNSAID is used in patients with severe heart failure, monitor patients for 
 
 ## 5.6 Renal Toxicity and Hyperkalemia
 
-Renal Toxicity Long-term administration of NSAIDs has resulted in renal papillary necrosis and other renal injury.
+Renal Toxicity
+
+Long-term administration of NSAIDs has resulted in renal papillary necrosis and other renal injury.
 
 Renal toxicity has also been seen in patients in whom renal prostaglandins have a compensatory role in the maintenance of renal perfusion.
 In these patients, administration of an NSAID may cause a dose-dependent reduction in prostaglandin formation and, secondarily, in renal blood flow, which may precipitate overt renal decompensation.
@@ -115,7 +123,9 @@ Monitor renal function in patients with renal or hepatic impairment, heart failu
 Avoid the use of PENNSAID in patients with advanced renal disease unless the benefits are expected to outweigh the risk of worsening renal function.
 If PENNSAID is used in patients with advanced renal disease, monitor patients for signs of worsening renal function.
 
-Hyperkalemia Increases in serum potassium concentration, including hyperkalemia, have been reported with use of NSAIDs, even in some patients without renal impairment.
+Hyperkalemia
+
+Increases in serum potassium concentration, including hyperkalemia, have been reported with use of NSAIDs, even in some patients without renal impairment.
 In patients with normal renal function, these effects have been attributed to a hyporeninemic-hypoaldosteronism state.
 
 ## 5.7 Anaphylactic Reactions
@@ -136,6 +146,7 @@ NSAIDs, including diclofenac, can cause serious skin adverse reactions such as e
 These serious events may occur without warning.
 Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of PENNSAID at the first appearance of skin rash or any other sign of hypersensitivity.
 PENNSAID is contraindicated in patients with previous serious skin reactions to NSAIDs [see Contraindications (4)].
+
 Do not apply PENNSAID to open skin wounds, infections, inflammations, or exfoliative dermatitis, as it may affect absorption and tolerability of the drug.
 
 ## 5.10 Premature Closure of Fetal Ductus Arteriosus

@@ -2,7 +2,7 @@
 
 ## 2.1 General Dosing Instructions
 
-Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5.2)]
+Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warning and Precautions (5.2)]
 
 For the relief of the signs and symptoms of osteoarthritis of the knee(s), the recommended dose is 40 drops per knee, 4 times a day.
 
@@ -26,5 +26,7 @@ Application of PENNSAID in an amount exceeding or less than the recommended dose
 - Avoid wearing clothing over the PENNSAID-treated knee(s) until the treated knee is dry.
 - Protect the treated knee(s) from natural or artificial sunlight
 - Wait until the treated area is dry before applying sunscreen, insect repellant, lotion, moisturizer, cosmetics, or other topical medication to the same knee you have just treated with PENNSAID.
-  Until the treated knee(s) is completely dry, avoid skin-to-skin contact between other people and the treated knee(s).
+
+Until the treated knee(s) is completely dry, avoid skin-to-skin contact between other people and the treated knee(s).
+
 - Do not use combination therapy with PENNSAID and an oral NSAID unless the benefit outweighs the risk and conduct periodic laboratory evaluations.

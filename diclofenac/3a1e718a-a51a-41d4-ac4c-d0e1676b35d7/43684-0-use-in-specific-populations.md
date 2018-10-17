@@ -4,7 +4,9 @@
 
 Pregnancy Category C prior to 30 weeks gestation; Category D starting 30 weeks gestation
 
-Risk Summary Use of NSAIDs, including PENNSAID, during the third trimester of pregnancy increases the risk of premature closure of the fetal ductus arteriosus.
+Risk Summary
+
+Use of NSAIDs, including PENNSAID, during the third trimester of pregnancy increases the risk of premature closure of the fetal ductus arteriosus.
 Avoid use of NSAIDs, including PENNSAID, in pregnant women starting at 30 weeks of gestation (third trimester).
 
 There are no adequate and well-controlled studies of PENNSAID in pregnant women.
@@ -15,27 +17,41 @@ In animal reproduction studies, no evidence of teratogenicity was observed in mi
 Based on animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization.
 In animal studies, administration of prostaglandin synthesis inhibitors such as diclofenac, resulted in increased pre- and post-implantation loss.
 
-Clinical Considerations Labor or Delivery
+Clinical Considerations
+
+Labor or Delivery
 
 There are no studies on the effects of PENNSAID during labor or delivery.
 In animal studies, NSAIDS, including diclofenac, inhibit prostaglandin synthesis, cause delayed parturition, and increase the incidence of stillbirth.
 
-Data Animal data Reproductive and developmental studies in animals demonstrated that diclofenac sodium administration during organogenesis did not produce teratogenicity despite the induction of maternal toxicity and fetal toxicity in mice at oral doses up to 20 mg/kg/day (approximately 0.6 times the maximum recommended human dose [MRHD] of PENNSAID, 154 mg/day, based on body surface area (BSA) comparison), and in rats and rabbits at oral doses up to 10 mg/kg/day (approximately 0.6 and 1.3 times, respectively, the MRHD based on BSA comparison).
+Data
+
+Animal data
+
+Reproductive and developmental studies in animals demonstrated that diclofenac sodium administration during organogenesis did not produce teratogenicity despite the induction of maternal toxicity and fetal toxicity in mice at oral doses up to 20 mg/kg/day (approximately 0.6 times the maximum recommended human dose [MRHD] of PENNSAID, 154 mg/day, based on body surface area (BSA) comparison), and in rats and rabbits at oral doses up to 10 mg/kg/day (approximately 0.6 and 1.3 times, respectively, the MRHD based on BSA comparison).
 Published reproductive and developmental studies of dimethyl sulfoxide (DMSO, the solvent used in PENNSAID) are equivocal as to potential teratogenicity.
 
 In rats, maternally toxic doses of diclofenac were associated with dystocia, prolonged gestation, reduced fetal weights and growth, and reduced fetal survival.
 
 ## 8.2 Lactation
 
-Risk Summary Based on available data, diclofenac may be present in human milk.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for CATAFLAM and any potential adverse effects on the breastfed infant from the CATAFLAM or from the underlying maternal condition.
+Risk Summary
 
-Data One woman treated orally with a diclofenac salt, 150 mg/day, had a milk diclofenac level of 100 mcg/L, equivalent to an infant dose of about 0.03 mg/kg/day.
+Based on available data, diclofenac may be present in human milk.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for CATAFLAM and any potential adverse effects on the breastfed infant from the CATAFLAM or from the underlying maternal condition.
+
+Data
+
+One woman treated orally with a diclofenac salt, 150 mg/day, had a milk diclofenac level of 100 mcg/L, equivalent to an infant dose of about 0.03 mg/kg/day.
 Diclofenac was not detectable in breast milk in 12 women using diclofenac (after either 100 mg/day orally for 7 days or a single 50 mg intramuscular dose administered in the immediate postpartum period).
 
 ## 8.3 Females and Males of Reproductive Potential
 
-Infertility Females Based on the mechanism of action, the use of prostaglandin-mediated NSAIDS, including PENNSAID, may delay or prevent rupture of ovarian follicles, which has been associated with reversible infertility in some women.
+Infertility
+
+Females
+
+Based on the mechanism of action, the use of prostaglandin-mediated NSAIDS, including PENNSAID, may delay or prevent rupture of ovarian follicles, which has been associated with reversible infertility in some women.
 Published animal studies have shown that administration prostaglandin synthesis inhibitors has the potential to disrupt prostaglandin-mediated follicular rupture required for ovulation.
 Small studies in women treated with NSAIDs have also shown a reversible delay in ovulation.
 Consider withdrawal of NSAIDs, including PENNSAID, in women who have difficulties conceiving or who are undergoing investigation of infertility.

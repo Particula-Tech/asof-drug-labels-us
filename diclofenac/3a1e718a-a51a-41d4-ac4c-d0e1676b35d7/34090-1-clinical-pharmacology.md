@@ -24,8 +24,8 @@ Table 2: Single-Dose (80 drops) and Multiple Dose (80 drops four times daily for
 | Single Dose | Multiple Dose Four times daily for 7 days |  |
 | AUC0-t | 177.5 ± 72.6 ng.h/mL | 695.4 ± 348.9 ng.h/mL |
 | AUC0-inf | 196.3 ± 68.5 ng.h/mL | 745.2 ± 374.7 ng.h/mL |
-| Plasma Cmax | 8.1 ± 5.9 ng/mL | 19.4 ± 9.3 ng.h/mL |
-| Plasma Tmax (h) | 8.1 ± 5.9 ng/mL | 4.0 ± 6.5 |
+| Plasma Cmax | 8.1 ± 5.9 ng/mL | 19.4 ± 9.3 ng/mL |
+| Plasma Tmax (h) | 11.0 ± 6.4 | 4.0 ± 6.5 |
 | Plasma t1/2 (h) | 36.7 ± 20.8 | 79.0 ± 38.1 |
 | Kel (h-1) | 0.024 ± 0.010 | 0.011 ± 0.004 |
 | CL/F (L/h) | 244.7 ± 84.71 | -- |
@@ -38,6 +38,7 @@ Diclofenac systemic exposure from PENNSAID application (4 times daily for 1 week
 Distribution
 
 Diclofenac is more than 99% bound to human serum proteins, primarily to albumin.
+
 Diclofenac diffuses into and out of the synovial fluid.
 Diffusion into the joint occurs when plasma levels are higher than those in the synovial fluid, after which the process reverses and synovial fluid levels are higher than plasma levels.
 It is not known whether diffusion into the joint plays a role in the effectiveness of diclofenac.
@@ -47,7 +48,9 @@ Elimination
 Metabolism
 
 Five diclofenac metabolites have been identified in human plasma and urine.
-The metabolites include 4'-hydroxy-, 5-hydroxy-, 3'-hydroxy-, 4',5-dihydroxy- and 3'-hydroxy-4'-methoxy diclofenac.
+The metabolites include 4'-hydroxy-, 5-hydroxy-, 3'-hydroxy-, 4',5-dihydroxy- and 3'-hydroxy-4'-methoxy
+
+diclofenac.
 The major diclofenac metabolite, 4'-hydroxy-diclofenac, has very weak pharmacologic activity.
 The formation of 4'-hydroxy diclofenac is primarily mediated by CPY2C9.
 Both diclofenac and its oxidative metabolites undergo glucuronidation or sulfation followed by biliary excretion.
@@ -66,6 +69,8 @@ Pediatric: The pharmacokinetics of PENNSAID has not been investigated in pediatr
 
 Race: Pharmacokinetic differences due to race have not been studied.
 
-Drug Interaction Studies Aspirin: When NSAIDs were administered with aspirin, the protein binding of NSAIDs were reduced, although the clearance of free NSAID was not altered.
+Drug Interaction Studies
+
+Aspirin: When NSAIDs were administered with aspirin, the protein binding of NSAIDs were reduced, although the clearance of free NSAID was not altered.
 The clinical significance of this interaction is not known.
 See Table 1 for clinically significant drug interactions of NSAIDs with aspirin [see Drug Interactions (7)].

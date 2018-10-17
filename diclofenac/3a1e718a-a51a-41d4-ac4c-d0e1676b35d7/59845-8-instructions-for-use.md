@@ -1,4 +1,8 @@
-Instructions for Use PENNSAID® (pen/sed) (diclofenac sodium topical solution)
+Instructions for Use
+
+PENNSAID® (pen/sed)
+
+(diclofenac sodium topical solution)
 
 Read the Medication Guide that comes with PENNSAID® first.
 Be sure that you read, understand and follow these Instructions for Use before you use PENNSAID® for the first time.
@@ -25,8 +29,15 @@ Wash your hands with soap and water before applying PENNSAID®.
 Step 2.
 Put 10 drops of PENNSAID® either on your hand or directly on your knee (see Figure A).
 
+| Figure A |  | or |  |
+| --- | --- | --- | --- |
+
 Step 3.
 Spread PENNSAID® evenly on the front, back and sides of your knee (see Figures B and C). Repeat steps 2 and 3, three times so that your knee is completely covered with a total of 40 drops of PENNSAID®.
+
+| Figure B |  |
+| --- | --- |
+| Figure C |  |
 
 Step 4.
 If your healthcare provider has prescribed PENNSAID® for both knees, repeat steps 2 and 3 for the other knee.
@@ -39,7 +50,10 @@ Do not:
 
 - touch the treated knee or allow another person to touch the knee treated with PENNSAID® until your knee is completely dry.
 - cover your knee with clothing until your knee is completely dry.
-- put sunscreen, insect repellant, lotion, moisturizer, cosmetics, or other topical medicines on your knee until it is completely dry.
+- put sunscreen, insect repellant, lotion, moisturizer, cosmetics, or other topical medicines on
+
+your knee until it is completely dry.
+
 - take a shower or a bath for at least 30 minutes after you put PENNSAID® on your knee.
 - use heating pads or cover the treated area with bandages where you have applied PENNSAID®.
 - use sunlamps and tanning beds.
@@ -54,10 +68,10 @@ Keep PENNSAID® and all medicines out of the reach of children.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Distributed by: Nuvo Pharmaceuticals Inc. Mississauga, Ontario, L4T 4H4 Canada
+Distributed by: Nuvo Pharmaceuticals Inc. Mississauga, Ontario, L5N 6J5 Canada
 
 Manufactured by: Nuvo Pharmaceuticals Inc. Varennes, Quebec, J3X 1P7 Canada
 
 PENNSAID is a trademark of Nuvo Pharmaceuticals Inc. Other brands are trademarks of their respective owners.
 
-Issued 02/2017
+Issued 10/2018
