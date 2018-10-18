@@ -231,7 +231,7 @@ Repeat injections for hyperhidrosis should be administered when the clinical eff
 Instructions for the Minor’s Iodine-Starch Test Procedure:
 
 Patients should shave underarms and abstain from use of over-the-counter deodorants or antiperspirants for 24 hours prior to the test.
-Patient should be resting comfortably without exercise, hot drinks for approximately 30 minutes prior to the test.
+Patient should be resting comfortably without exercise or hot drinks for approximately 30 minutes prior to the test.
 Dry the underarm area and then immediately paint it with iodine solution.
 Allow the area to dry, then lightly sprinkle the area with starch powder.
 Gently blow off any excess starch powder.
@@ -292,7 +292,6 @@ Subsequent Doses for Residual or Recurrent Strabismus
 
 - It is recommended that patients be re-examined 7-14 days after each injection to assess the effect of that dose.
 - Patients experiencing adequate paralysis of the target muscle that require subsequent injections should receive a dose comparable to the initial dose.
-
 - Subsequent doses for patients experiencing incomplete paralysis of the target muscle may be increased up to two-fold compared to the previously administered dose.
 - Subsequent injections should not be administered until the effects of the previous dose have dissipated as evidenced by substantial function in the injected and adjacent muscles.
 - The maximum recommended dose as a single injection for any one muscle is 25 Units.

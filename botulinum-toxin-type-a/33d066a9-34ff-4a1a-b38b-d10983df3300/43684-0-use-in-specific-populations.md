@@ -41,6 +41,9 @@ Prophylaxis of Headaches in Chronic Migraine
 
 Safety and effectiveness in patients below the age of 18 years have not been established.
 
+In a 12-week, multicenter, double-blind, placebo-controlled clinical trial, 123 adolescent patients (ages 12 to below 18 years) with chronic migraine were randomized to receive BOTOX 74 Units, BOTOX 155 Units, or placebo, for one injection cycle.
+This trial did not establish the efficacy of BOTOX, compared with placebo, for the prophylaxis of headaches in adolescents with chronic migraine.
+
 Spasticity
 
 Safety and effectiveness in patients below the age of 18 years have not been established.
