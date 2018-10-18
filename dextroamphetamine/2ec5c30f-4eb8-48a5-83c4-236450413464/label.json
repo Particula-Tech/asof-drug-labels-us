@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA017078"
+  ],
+  "inn": "dextroamphetamine",
+  "labeler": "Impax Generics",
+  "package_ndcs": [
+    "0115-9927-10",
+    "0115-9928-10",
+    "0115-9929-10"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "dextroamphetamine sulfate",
+      "name": "Dextroamphetamine Sulfate"
+    }
+  ],
+  "setid": "2ec5c30f-4eb8-48a5-83c4-236450413464",
+  "source": "dailymed"
+}
