@@ -2,9 +2,7 @@
 
 NDC 0075-8003-01
 
-TAXOTERE® (docetaxel) Injection Concentrate
-
-20 mg/mL
+TAXOTERE® (docetaxel) Injection Concentrate 20 mg/mL
 
 READY TO ADD TO INFUSION SOLUTION
 
@@ -16,15 +14,11 @@ Rx ONLY
 
 SANOFI
 
-Pull to remove leaflet
-
 # PRINCIPAL DISPLAY PANEL - 4 mL Vial Carton
 
 NDC 0075-8004-04
 
-TAXOTERE® (docetaxel) Injection Concentrate
-
-80 mg/4 mL (20 mg/mL)
+TAXOTERE® (docetaxel) Injection Concentrate 80 mg/4 mL (20 mg/mL)
 
 READY TO ADD TO INFUSION SOLUTION
 
@@ -35,5 +29,3 @@ Contains 4 mL
 Rx ONLY
 
 SANOFI
-
-Pull to remove leaflet

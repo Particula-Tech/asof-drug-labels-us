@@ -1,8 +1,8 @@
-# 14. CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
 ## 14.1 Locally Advanced or Metastatic Breast Cancer
 
-The efficacy and safety of TAXOTERE have been evaluated in locally advanced or metastatic breast cancer after failure of previous chemotherapy (alkylating agent-containing regimens or anthracycline-containing regimens).
+The efficacy and safety of TAXOTERE have been evaluated in locally advanced or metastatic breast cancer after failure of previous chemotherapy (alkylating agent–containing regimens or anthracycline-containing regimens).
 
 Randomized Trials
 
@@ -11,12 +11,14 @@ Two hundred three patients were randomized to TAXOTERE and 189 to the comparator
 Most patients had received prior chemotherapy for metastatic disease; only 27 patients on the TAXOTERE arm and 33 patients on the comparator arm entered the study following relapse after adjuvant therapy.
 Three-quarters of patients had measurable, visceral metastases.
 The primary endpoint was time to progression.
-The following table summarizes the study results (See Table 12).
+The following table summarizes the study results.
+(See Table 12.)
 
-Table 12 - Efficacy of TAXOTERE in the Treatment of Breast Cancer Patients Previously Treated with an Anthracycline-Containing Regimen (Intent-to-Treat Analysis)
+Table 12: Efficacy of TAXOTERE in the Treatment of Breast Cancer Patients Previously Treated with an Anthracycline-Containing Regimen (Intent-to-Treat Analysis)
 
-| Efficacy Parameter | Docetaxel (n=203) | Mitomycin/Vinblastine (n=189) | p-value |
+|  | (n=203) | (n=189) |  |
 | --- | --- | --- | --- |
+| Efficacy Parameter | Docetaxel | Mitomycin/Vinblastine | p-value |
 | Median Survival | 11.4 months | 8.7 months |  |
 | Risk RatioFor the risk ratio, a value less than 1.00 favors docetaxel., Mortality (Docetaxel: Control) | 0.73 |  | p=0.01 Log Rank |
 | 95% CI (Risk Ratio) | 0.58–0.93 |  |  |
@@ -31,9 +33,10 @@ One hundred sixty-one patients were randomized to TAXOTERE and 165 patients to d
 Approximately one-half of patients had received prior chemotherapy for metastatic disease, and one-half entered the study following relapse after adjuvant therapy.
 Three-quarters of patients had measurable, visceral metastases.
 The primary endpoint was time to progression.
-The study results are summarized below (See Table 13).
+The study results are summarized below.
+(See Table 13.)
 
-Table 13 - Efficacy of TAXOTERE in the Treatment of Breast Cancer Patients Previously Treated with an Alkylating-Containing Regimen (Intent-to-Treat Analysis)
+Table 13: Efficacy of TAXOTERE in the Treatment of Breast Cancer Patients Previously Treated with an Alkylating-Containing Regimen (Intent-to-Treat Analysis)
 
 | Efficacy Parameter | Docetaxel (n=161) | Doxorubicin (n=165) | p-value |
 | --- | --- | --- | --- |
@@ -55,10 +58,10 @@ Single Arm Studies
 
 TAXOTERE at a dose of 100 mg/m2 was studied in six single arm studies involving a total of 309 patients with metastatic breast cancer in whom previous chemotherapy had failed.
 Among these, 190 patients had anthracycline-resistant breast cancer, defined as progression during an anthracycline-containing chemotherapy regimen for metastatic disease, or relapse during an anthracycline-containing adjuvant regimen.
-In anthracycline-resistant patients, the overall response rate was 37.9% (72/190; 95% C.I.: 31.0–44.8) and the complete response rate was 2.1%.
+In anthracycline-resistant patients, the overall response rate was 37.9% (72/190; 95% CI: 31.0–44.8) and the complete response rate was 2.1%.
 
 TAXOTERE was also studied in three single arm Japanese studies at a dose of 60 mg/m2, in 174 patients who had received prior chemotherapy for locally advanced or metastatic breast cancer.
-Among 26 patients whose best response to an anthracycline had been progression, the response rate was 34.6% (95% C.I.: 17.2–55.7), similar to the response rate in single arm studies of 100 mg/m2.
+Among 26 patients whose best response to an anthracycline had been progression, the response rate was 34.6% (95% CI: 17.2–55.7), similar to the response rate in single arm studies of 100 mg/m2.
 
 ## 14.2 Adjuvant Treatment of Breast Cancer
 
@@ -72,19 +75,19 @@ Adjuvant radiation therapy was prescribed according to guidelines in place at pa
 Results from a second interim analysis (median follow-up 55 months) are as follows: In study TAX316, the docetaxel-containing combination regimen TAC showed significantly longer disease-free survival (DFS) than FAC (hazard ratio=0.74; 2-sided 95% CI=0.60, 0.92, stratified log rank p=0.0047).
 The primary endpoint, disease-free survival, included local and distant recurrences, contralateral breast cancer and deaths from any cause.
 The overall reduction in risk of relapse was 25.7% for TAC-treated patients.
-(See Figure 1).
+(See Figure 1.)
 
 At the time of this interim analysis, based on 219 deaths, overall survival was longer for TAC than FAC (hazard ratio=0.69, 2-sided 95% CI=0.53, 0.90).
-(See Figure 2).
+(See Figure 2.)
 There will be further analysis at the time survival data mature.
 
-| Figure 1 - TAX316 Disease Free Survival K-M curve |
-| --- |
-| Figure 2 - TAX316 Overall Survival K-M Curve |
+Figure 1: TAX316 Disease Free Survival K-M curve
 
-The following table describes the results of subgroup analyses for DFS and OS (See Table 14).
+Figure 2: TAX316 Overall Survival K-M Curve
 
-Table 14 - Subset Analyses-Adjuvant Breast Cancer Study
+The following table describes the results of subgroup analyses for DFS and OS (see Table 14).
+
+Table 14: Subset Analyses-Adjuvant Breast Cancer Study
 
 | Patient subset | Number of patients | Hazard ratioa hazard ratio of less than 1 indicates that TAC is associated with a longer disease free survival or overall survival compared to FAC. | 95% CI | Hazard ratio | 95% CI |
 | --- | --- | --- | --- | --- | --- |
@@ -99,7 +102,7 @@ Table 14 - Subset Analyses-Adjuvant Breast Cancer Study
 
 ## 14.3 Non-Small Cell Lung Cancer (NSCLC)
 
-The efficacy and safety of TAXOTERE has been evaluated in patients with unresectable, locally advanced or metastatic non-small cell lung cancer whose disease has failed prior platinum-based chemotherapy or in patients who are chemotherapy-naïve.
+The efficacy and safety of TAXOTERE has been evaluated in patients with unresectable, locally advanced or metastatic non-small cell lung cancer whose disease has failed prior platinum-based chemotherapy or in patients who are chemotherapy naive.
 
 Monotherapy with TAXOTERE for NSCLC Previously Treated with Platinum-Based Chemotherapy
 
@@ -116,35 +119,28 @@ Forty percent of the patients in this study had a history of prior paclitaxel ex
 The primary endpoint was survival in both trials.
 The efficacy data for the TAXOTERE 75 mg/m2 arm and the comparator arms are summarized in Table 15 and Figures 3 and 4 showing the survival curves for the two studies.
 
-Table 15 - Efficacy of TAXOTERE in the Treatment of Non-Small Cell Lung Cancer Patients Previously Treated with a Platinum-Based Chemotherapy Regimen (Intent-to-Treat Analysis)
+Table 15: Efficacy of TAXOTERE in the Treatment of Non-Small Cell Lung Cancer Patients Previously Treated with a Platinum-Based Chemotherapy Regimen (Intent-to-Treat Analysis)
 
-|  | Docetaxel 75 mg/m2 n=55 | Best Supportive Care n=49 | Docetaxel 75 mg/m2 n=125 | Control (V/IVinorelbine/Ifosfamide) n=123 |
+| Docetaxel 75 mg/m2 n=55 | Best Supportive Care n=49 | Docetaxel 75 mg/m2 n=125 | Control (V/IVinorelbine/Ifosfamide) n=123 |  |
 | --- | --- | --- | --- | --- |
 |  | TAX317 |  | TAX320 |  |
-| Overall Survival |  |  |  |  |
-| Log-rank Test | p=0.01 |  | p=0.13 |  |
-| Risk Ratioa value less than 1.00 favors docetaxel, Mortality |  |  |  |  |
-| (Docetaxel: Control) | 0.56 |  | 0.82 |  |
-| 95% CI (Risk Ratio) | (0.35, 0.88) |  | (0.63, 1.06) |  |
-| Median Survival | 7.5 monthsp≤0.05 | 4.6 months | 5.7 months | 5.6 months |
-| 95% CI | (5.5, 12.8) | (3.7, 6.1) | (5.1, 7.1) | (4.4, 7.9) |
-| % 1-year Survival | 37%uncorrected for multiple comparisons | 12% | 30% | 20% |
-| 95% CI | (24, 50) | (2, 23) | (22, 39) | (13, 27) |
-| Time to Progression | 12.3 weeks | 7.0 weeks | 8.3 weeks | 7.6 weeks |
-| 95% CI | (9.0, 18.3) | (6.0, 9.3) | (7.0, 11.7) | (6.7, 10.1) |
-| Response Rate | 5.5% | Not Applicable | 5.7% | 0.8% |
-| 95% CI | (1.1, 15.1) |  | (2.3, 11.3) | (0.0, 4.5) |
+| Overall Survival Log-rank Test | p=0.01 |  | p=0.13 |  |
+| Risk Ratioa value less than 1.00 favors docetaxel, Mortality (Docetaxel: Control) 95% CI (Risk Ratio) | 0.56 (0.35, 0.88) |  | 0.82 (0.63, 1.06) |  |
+| Median Survival 95% CI | 7.5 monthsp≤0.05 (5.5, 12.8) | 4.6 months (3.7, 6.1) | 5.7 months (5.1, 7.1) | 5.6 months (4.4, 7.9) |
+| % 1-year Survival 95% CI | 37%uncorrected for multiple comparisons (24, 50) | 12% (2, 23) | 30% (22, 39) | 20% (13, 27) |
+| Time to Progression 95% CI | 12.3 weeks (9.0, 18.3) | 7.0 weeks (6.0, 9.3) | 8.3 weeks (7.0, 11.7) | 7.6 weeks (6.7, 10.1) |
+| Response Rate 95% CI | 5.5% (1.1, 15.1) | Not Applicable | 5.7% (2.3, 11.3) | 0.8% (0.0, 4.5) |
 
 Only one of the two trials (TAX317) showed a clear effect on survival, the primary endpoint; that trial also showed an increased rate of survival to one year.
 In the second study (TAX320) the rate of survival at one year favored TAXOTERE 75 mg/m2.
 
-| Figure 3 - TAX317 Survival K-M Curves - TAXOTERE 75 mg/m2 vs. Best Supportive Care |
-| --- |
-| Figure 4 - TAX320 Survival K-M Curves - TAXOTERE 75 mg/m2 vs. Vinorelbine or Ifosfamide Control |
+Figure 3: TAX317 Survival K-M Curves - TAXOTERE 75 mg/m2 Versus Best Supportive Care
+
+Figure 4: TAX320 Survival K-M Curves - TAXOTERE 75 mg/m2 Versus Vinorelbine or Ifosfamide Control
 
 Patients treated with TAXOTERE at a dose of 75 mg/m2 experienced no deterioration in performance status and body weight relative to the comparator arms used in these trials.
 
-Combination Therapy with TAXOTERE for Chemotherapy-Naïve NSCLC
+Combination Therapy with TAXOTERE for Chemotherapy-Naive NSCLC
 
 In a randomized controlled trial (TAX326), 1218 patients with unresectable stage IIIB or IV NSCLC and no prior chemotherapy were randomized to receive one of three treatments: TAXOTERE 75 mg/m2 as a 1 hour infusion immediately followed by cisplatin 75 mg/m2 over 30 to 60 minutes every 3 weeks; vinorelbine 25 mg/m2 administered over 6–10 minutes on days 1, 8, 15, 22 followed by cisplatin 100 mg/m2 administered on day 1 of cycles repeated every 4 weeks; or a combination of TAXOTERE and carboplatin.
 
@@ -154,31 +150,29 @@ The 95% confidence interval of the hazard ratio (adjusted for interim analysis a
 The results of a further statistical analysis showed that at least (the lower bound of the 95% confidence interval) 62% of the known survival effect of vinorelbine when added to cisplatin (about a 2-month increase in median survival; Wozniak et al. JCO, 1998) was maintained.
 The efficacy data for the TAXOTERE+cisplatin arm and the comparator arm are summarized in Table 16.
 
-Table 16 - Survival Analysis of TAXOTERE in Combination Therapy for Chemotherapy-Naïve NSCLC
+Table 16: Survival Analysis of TAXOTERE in Combination Therapy for Chemotherapy-Naive NSCLC
 
-| Comparison | Taxotere+Cisplatin n=408 | Vinorelbine+Cisplatin n=405 |
+| Comparison | TAXOTERE + Cisplatin n=408 | Vinorelbine + Cisplatin n=405 |
 | --- | --- | --- |
 | Kaplan-Meier Estimate of Median Survival | 10.9 months | 10.0 months |
 | p-valueFrom the superiority test (stratified log rank) comparing TAXOTERE+cisplatin to vinorelbine+cisplatin | 0.122 |  |
-| Estimated Hazard RatioHazard ratio of TAXOTERE+cisplatin vs. vinorelbine+cisplatin. A hazard ratio of less than 1 indicates that TAXOTERE+cisplatin is associated with a longer survival. | 0.88 |  |
+| Estimated Hazard RatioHazard ratio of TAXOTERE+cisplatin versus vinorelbine+cisplatin. A hazard ratio of less than 1 indicates that TAXOTERE+cisplatin is associated with a longer survival. | 0.88 |  |
 | Adjusted 95% CIAdjusted for interim analysis and multiple comparisons. | (0.74, 1.06) |  |
 
 The second comparison in the same three-arm study, vinorelbine+cisplatin versus TAXOTERE+carboplatin, did not demonstrate superior survival associated with the TAXOTERE arm (Kaplan-Meier estimate of median survival was 9.1 months for TAXOTERE+carboplatin compared to 10.0 months on the vinorelbine+cisplatin arm) and the TAXOTERE+carboplatin arm did not demonstrate preservation of at least 50% of the survival effect of vinorelbine added to cisplatin.
 Secondary endpoints evaluated in the trial included objective response and time to progression.
 There was no statistically significant difference between TAXOTERE+cisplatin and vinorelbine+cisplatin with respect to objective response and time to progression (see Table 17).
 
-Table 17 - Response and TTP Analysis of TAXOTERE in Combination Therapy for Chemotherapy-Naïve NSCLC
+Table 17: Response and TTP Analysis of TAXOTERE in Combination Therapy for Chemotherapy-Naive NSCLC
 
-| Endpoint | TAXOTERE+Cisplatin | Vinorelbine+Cisplatin | p-value |
+| Endpoint | TAXOTERE + Cisplatin | Vinorelbine + Cisplatin | p-value |
 | --- | --- | --- | --- |
-| Objective Response Rate | 31.6% | 24.4% | Not Significant |
-| (95% CI)Adjusted for multiple comparisons. | (26.5%, 36.8%) | (19.8%, 29.2%) |  |
-| Median Time to ProgressionKaplan-Meier estimates. | 21.4 weeks | 22.1 weeks | Not Significant |
-| (95% CI) | (19.3, 24.6) | (18.1, 25.6) |  |
+| Objective Response Rate (95% CI)Adjusted for multiple comparisons. | 31.6% (26.5%, 36.8%) | 24.4% (19.8%, 29.2%) | Not Significant |
+| Median Time to ProgressionKaplan-Meier estimates. (95% CI) | 21.4 weeks (19.3, 24.6) | 22.1 weeks (18.1, 25.6) | Not Significant |
 
-## 14.4 Hormone Refractory Prostate Cancer
+## 14.4 Castration-Resistant Prostate Cancer
 
-The safety and efficacy of TAXOTERE in combination with prednisone in patients with androgen independent (hormone refractory) metastatic prostate cancer were evaluated in a randomized multicenter active control trial.
+The safety and efficacy of TAXOTERE in combination with prednisone in patients with metastatic castration-resistant prostate cancer were evaluated in a randomized multicenter active control trial.
 A total of 1006 patients with Karnofsky Performance Status (KPS) ≥60 were randomized to the following treatment groups:
 
 - TAXOTERE 75 mg/m2 every 3 weeks for 10 cycles.
@@ -191,19 +185,18 @@ In the TAXOTERE every three week arm, a statistically significant overall surviv
 In the TAXOTERE weekly arm, no overall survival advantage was demonstrated compared to the mitoxantrone control arm.
 Efficacy results for the TAXOTERE every 3 week arm versus the control arm are summarized in Table 18 and Figure 5.
 
-Table 18 - Efficacy of TAXOTERE in the Treatment of Patients with Androgen Independent (Hormone Refractory) Metastatic Prostate Cancer (Intent-to-Treat Analysis)
+Table 18: Efficacy of TAXOTERE in the Treatment of Patients with Metastatic Castration-Resistant Prostate Cancer (Intent-to-Treat Analysis)
 
-|  | TAXOTERE+ Prednisone every 3 weeks | Mitoxantrone+ Prednisone every 3 weeks |
+|  | TAXOTERE + Prednisone every 3 weeks | Mitoxantrone + Prednisone every 3 weeks |
 | --- | --- | --- |
 | Number of patients | 335 | 337 |
 | Median survival (months) | 18.9 | 16.5 |
 | 95% CI | (17.0–21.2) | (14.4–18.6) |
 | Hazard ratio | 0.761 | -- |
 | 95% CI | (0.619–0.936) | -- |
-| p-valueStratified log rank test. Threshold for statistical significance = 0.0175 because of 3 arms. | 0.0094 | -- |
+| p-valueStratified log-rank test. Threshold for statistical significance = 0.0175 because of 3 arms. | 0.0094 | -- |
 
-| Figure 5 - TAX327 Survival K-M Curves |
-| --- |
+Figure 5: TAX327 Survival K-M Curves
 
 ## 14.5 Gastric Adenocarcinoma
 
@@ -219,17 +212,15 @@ Approximately 75% of patients had died at the time of this analysis.
 Overall survival was significantly longer (p=0.0201) in the TCF arm with a HR of 1.29 (95% CI: 1.04–1.61).
 Efficacy results are summarized in Table 19 and Figures 6 and 7.
 
-Table 19 - Efficacy of TAXOTERE in the treatment of patients with gastric adenocarcinoma
+Table 19: Efficacy of TAXOTERE in the Treatment of Patients with Gastric Adenocarcinoma
 
 | Endpoint | TCF n=221 | CF n=224 |
 | --- | --- | --- |
-| Median TTP (months) | 5.6 | 3.7 |
-| (95%CI) | (4.86–5.91) | (3.45–4.47) |
+| Median TTP (months) (95%CI) | 5.6 (4.86–5.91) | 3.7 (3.45–4.47) |
 | Hazard ratioFor the hazard ratio (TCF/CF), values less than 1.00 favor the TAXOTERE arm. | 0.68 |  |
 | (95%CI) | (0.55–0.84) |  |
 | Unstratified log-rank testp-value | 0.0004 |  |
-| Median survival (months) | 9.2 | 8.6 |
-| (95%CI) | (8.38–10.58) | (7.16–9.46) |
+| Median survival (months) (95%CI) | 9.2 (8.38–10.58) | 8.6 (7.16–9.46) |
 | Hazard ratio | 0.77 |  |
 | (95%CI) | (0.62–0.96) |  |
 | p-value | 0.0201 |  |
@@ -238,13 +229,13 @@ Table 19 - Efficacy of TAXOTERE in the treatment of patients with gastric adenoc
 
 Subgroup analyses were consistent with the overall results across age, gender and race.
 
-| Figure 6 - Gastric Cancer Study (TAX325) Time to Progression K-M Curve |
-| --- |
-| Figure 7 - Gastric Cancer Study (TAX325) Survival K-M Curve |
+Figure 6: Gastric Cancer Study (TAX325) Time to Progression K-M Curve
+
+Figure 7: Gastric Cancer Study (TAX325) Survival K-M Curve
 
 ## 14.6 Head and Neck Cancer
 
-Induction chemotherapy followed by radiotherapy (TAX323)
+Induction Chemotherapy Followed by Radiotherapy (TAX323)
 
 The safety and efficacy of TAXOTERE in the induction treatment of patients with squamous cell carcinoma of the head and neck (SCCHN) was evaluated in a multicenter, open-label, randomized trial (TAX323).
 In this study, 358 patients with inoperable locally advanced SCCHN, and WHO performance status 0 or 1, were randomized to one of two treatment arms.
@@ -258,29 +249,31 @@ At the end of chemotherapy, with a minimal interval of 4 weeks and a maximal int
 Locoregional therapy with radiation was delivered either with a conventional fraction regimen (1.8 Gy–2.0 Gy once a day, 5 days per week for a total dose of 66 to 70 Gy) or with an accelerated/hyperfractionated regimen (twice a day, with a minimum interfraction interval of 6 hours, 5 days per week, for a total dose of 70 to 74 Gy, respectively).
 Surgical resection was allowed following chemotherapy, before or after radiotherapy.
 
-The primary endpoint in this study, progression-free survival (PFS), was significantly longer in the TPF arm compared to the PF arm, p=0.0077 (median PFS: 11.4 vs. 8.3 months respectively) with an overall median follow up time of 33.7 months.
-Median overall survival with a median follow-up of 51.2 months was also significantly longer in favor of the TPF arm compared to the PF arm (median OS: 18.6 vs. 14.2 months respectively).
+The primary endpoint in this study, progression-free survival (PFS), was significantly longer in the TPF arm compared to the PF arm, p=0.0077 (median PFS: 11.4 vs 8.3 months, respectively) with an overall median follow-up time of 33.7 months.
+Median overall survival with a median follow-up of 51.2 months was also significantly longer in favor of the TPF arm compared to the PF arm (median OS: 18.6 vs 14.2 months, respectively).
 Efficacy results are presented in Table 20 and Figures 8 and 9.
 
-Table 20 - Efficacy of TAXOTERE in the induction treatment of patients with inoperable locally advanced SCCHN (Intent-to-Treat Analysis)
+Table 20: Efficacy of TAXOTERE in the Induction Treatment of Patients with Inoperable Locally Advanced SCCHN (Intent-to-Treat Analysis)
 
-| ENDPOINT | TAXOTERE+ Cisplatin+ Fluorouracil n=177 | Cisplatin+ Fluorouracil n=181 |
+| ENDPOINT | TAXOTERE + Cisplatin + Fluorouracil n=177 | Cisplatin + Fluorouracil n=181 |
 | --- | --- | --- |
 | Median progression free survival (months) (95%CI) | 11.4 (10.1–14.0) | 8.3 (7.4–9.1) |
-| Adjusted Hazard ratio (95%CI) Stratified log-rank test based on primary tumor sitep-value | 0.71 (0.56–0.91) 0.0077 |  |
+| Adjusted Hazard ratio (95%CI) | 0.71 (0.56–0.91) |  |
+| Stratified log-rank test based on primary tumor sitep-value | 0.0077 |  |
 | Median survival (months) (95%CI) | 18.6 (15.7–24.0) | 14.2 (11.5–18.7) |
-| Hazard ratio (95%CI) Stratified log-rank test, not adjusted for multiple comparisonsp-value | 0.71 (0.56–0.90) 0.0055 |  |
+| Hazard ratio (95%CI) | 0.71 (0.56–0.90) |  |
+| Stratified log-rank test, not adjusted for multiple comparisonsp-value | 0.0055 |  |
 | Best overall response (CR + PR) to chemotherapy (%) (95%CI) | 67.8 (60.4–74.6) | 53.6 (46.0–61.0) |
 | Chi square test, not adjusted for multiple comparisonsp-value | 0.006 |  |
 | Best overall response (CR + PR) to study treatment [chemotherapy +/- radiotherapy] (%) (95%CI) | 72.3 (65.1–78.8) | 58.6 (51.0–65.8) |
 | p-value | 0.006 |  |
 | A Hazard ratio of less than 1 favors TAXOTERE+Cisplatin+Fluorouracil |  |  |
 
-| Figure 8 - TAX323 Progression-Free Survival K-M Curve |
-| --- |
-| Figure 9 - TAX323 Overall Survival K-M Curve |
+Figure 8: TAX323 Progression-Free Survival K-M Curve
 
-Induction chemotherapy followed by chemoradiotherapy (TAX324)
+Figure 9: TAX323 Overall Survival K-M Curve
+
+Induction Chemotherapy Followed by Chemoradiotherapy (TAX324)
 
 The safety and efficacy of TAXOTERE in the induction treatment of patients with locally advanced (unresectable, low surgical cure, or organ preservation) SCCHN was evaluated in a randomized, multicenter open-label trial (TAX324).
 In this study, 501 patients, with locally advanced SCCHN, and a WHO performance status of 0 or 1, were randomized to one of two treatment arms.
@@ -294,17 +287,16 @@ During radiotherapy, carboplatin (AUC 1.5) was given weekly as a one-hour intrav
 Radiation was delivered with megavoltage equipment using once daily fractionation (2 Gy per day, 5 days per week for 7 weeks for a total dose of 70–72 Gy).
 Surgery on the primary site of disease and/or neck could be considered at anytime following completion of CRT.
 
-The primary efficacy endpoint, overall survival (OS), was significantly longer (log-rank test, p=0.0058) with the TAXOTERE-containing regimen compared to PF [median OS: 70.6 versus 30.1 months respectively, hazard ratio (HR)=0.70, 95% confidence interval (CI)= 0.54 – 0.90].
+The primary efficacy endpoint, overall survival (OS), was significantly longer (log-rank test, p=0.0058) with the TAXOTERE-containing regimen compared to PF (median OS: 70.6 vs 30.1 months, respectively, hazard ratio [HR]=0.70, 95% confidence interval [CI]= 0.54–0.90).
 Overall survival results are presented in Table 21 and Figure 10.
 
-Table 21 - Efficacy of TAXOTERE in the induction treatment of patients with locally advanced SCCHN (Intent-to-Treat Analysis)
+Table 21: Efficacy of TAXOTERE in the Induction Treatment of Patients with Locally Advanced SCCHN (Intent-to-Treat Analysis)
 
-| ENDPOINT | TAXOTERE+ Cisplatin+ Fluorouracil n=255 | Cisplatin+ Fluorouracil n=246 |
+| ENDPOINT | TAXOTERE + Cisplatin + Fluorouracil n=255 | Cisplatin + Fluorouracil n=246 |
 | --- | --- | --- |
 | Median overall survival (months) (95% CI) | 70.6 (49.0–NE) | 30.1 (20.9–51.5) |
-| Hazard ratio: (95% CI) un-adjusted log-rank test p-value | 0.70 (0.54–0.90) 0.0058 |  |
-| A Hazard ratio of less than 1 favors TAXOTERE+cisplatin+fluorouracil |  |  |
-| NE - not estimable |  |  |
+| Hazard ratio: (95% CI) | 0.70 (0.54–0.90) |  |
+| un-adjusted log-rank testp-value | 0.0058 |  |
+| A Hazard ratio of less than 1 favors TAXOTERE+cisplatin+fluorouracil NE - not estimable |  |  |
 
-| Figure 10 - TAX324 Overall Survival K-M Curve |
-| --- |
+Figure 10: TAX324 Overall Survival K-M Curve

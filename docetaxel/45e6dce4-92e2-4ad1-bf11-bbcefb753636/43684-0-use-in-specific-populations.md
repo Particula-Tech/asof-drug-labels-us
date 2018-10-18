@@ -1,16 +1,16 @@
-# 8. USE IN SPECIFIC POPULATIONS
+# 8 USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see 'Warnings and Precautions' section]
+Pregnancy Category D [see Warnings and Precautions (5.13)]
 
 Based on its mechanism of action and findings in animals, TAXOTERE can cause fetal harm when administered to a pregnant woman.
 If TAXOTERE is used during pregnancy, or if the patient becomes pregnant while receiving this drug, the patient should be apprised of the potential hazard to the fetus.
-Women of childbearing potential should be advised to avoid becoming pregnant during therapy with TAXOTERE.
+Women of childbearing potential should be advised to avoid becoming pregnant during therapy with TAXOTERE [see Warnings and Precautions (5.13)].
 
 TAXOTERE can cause fetal harm when administered to a pregnant woman.
 Studies in both rats and rabbits at doses ≥0.3 and 0.03 mg/kg/day, respectively (about 1/50 and 1/300 the daily maximum recommended human dose on a mg/m2 basis), administered during the period of organogenesis, have shown that TAXOTERE is embryotoxic and fetotoxic (characterized by intrauterine mortality, increased resorption, reduced fetal weight, and fetal ossification delay).
-The doses indicated above also caused maternal toxicity.
+The doses indicated above also caused maternal toxicity [see Warnings and Precautions (5.13)].
 
 ## 8.3 Nursing Mothers
 
@@ -19,12 +19,12 @@ Because many drugs are excreted in human milk, and because of the potential for 
 
 ## 8.4 Pediatric Use
 
-The alcohol content of TAXOTERE Injection should be taken into account when given to pediatric patients [see Warnings and Precautions (5.11)].
+The alcohol content of TAXOTERE Injection should be taken into account when given to pediatric patients [see Warnings and Precautions (5.12].
 
 The efficacy of TAXOTERE in pediatric patients as monotherapy or in combination has not been established.
 The overall safety profile of TAXOTERE in pediatric patients receiving monotherapy or TCF was consistent with the known safety profile in adults.
 
-TAXOTERE has been studied in a total of 289 pediatric patients: 239 in 2 trials with monotherapy and 50 in combination treatment with cisplatin and 5-fluoruracil (TCF).
+TAXOTERE has been studied in a total of 289 pediatric patients: 239 in 2 trials with monotherapy and 50 in combination treatment with cisplatin and 5-fluorouracil (TCF).
 
 TAXOTERE Monotherapy
 
@@ -42,13 +42,13 @@ Seventy-five patients (median age 16 years, range 9 to 21 years) were randomized
 The primary endpoint was the CR rate following induction treatment of NPC.
 One patient out of 50 in the TCF group (2%) had a complete response while none of the 25 patients in the CF group had a complete response.
 
-Pharmacokinetics:
+Pharmacokinetics
 
 Pharmacokinetic parameters for docetaxel were determined in 2 pediatric solid tumor trials.
 Following docetaxel administration at 55 mg/m2 to 235 mg/m2 in a 1-hour intravenous infusion every 3 weeks in 25 patients aged 1 to 20 years (median 11 years), docetaxel clearance was 17.3±10.9 L/h/m2.
 
 Docetaxel was administered in combination with cisplatin and 5-fluorouracil (TCF), at dose levels of 75 mg/m2 in a 1-hour intravenous infusion day 1 in 28 patients aged 10 to 21 years (median 16 years, 17 patients were older than 16).
-Docetaxel clearance was 17.9±8.75 L/h/m2, corresponding to an AUC of 4.20±2.57 μg.h/mL.
+Docetaxel clearance was 17.9±8.75 L/h/m2, corresponding to an AUC of 4.20±2.57 μg∙h/mL.
 
 In summary, the body surface area adjusted clearance of docetaxel monotherapy and TCF combination in children were comparable to those in adults [see Clinical Pharmacology (12.3)].
 
@@ -58,18 +58,18 @@ In general, dose selection for an elderly patient should be cautious, reflecting
 
 Non-Small Cell Lung Cancer
 
-In a study conducted in chemotherapy-naïve patients with NSCLC (TAX326), 148 patients (36%) in the TAXOTERE+cisplatin group were 65 years of age or greater.
+In a study conducted in chemotherapy-naive patients with NSCLC (TAX326), 148 patients (36%) in the TAXOTERE+cisplatin group were 65 years of age or greater.
 There were 128 patients (32%) in the vinorelbine+cisplatin group 65 years of age or greater.
 In the TAXOTERE+cisplatin group, patients less than 65 years of age had a median survival of 10.3 months (95% CI: 9.1 months, 11.8 months) and patients 65 years or older had a median survival of 12.1 months (95% CI: 9.3 months, 14 months).
 In patients 65 years of age or greater treated with TAXOTERE+cisplatin, diarrhea (55%), peripheral edema (39%) and stomatitis (28%) were observed more frequently than in the vinorelbine+cisplatin group (diarrhea 24%, peripheral edema 20%, stomatitis 20%).
 Patients treated with TAXOTERE+cisplatin who were 65 years of age or greater were more likely to experience diarrhea (55%), infections (42%), peripheral edema (39%) and stomatitis (28%) compared to patients less than the age of 65 administered the same treatment (43%, 31%, 31% and 21%, respectively).
 
-When TAXOTERE was combined with carboplatin for the treatment of chemotherapy-naïve, advanced non-small cell lung carcinoma, patients 65 years of age or greater (28%) experienced higher frequency of infection compared to similar patients treated with TAXOTERE+cisplatin, and a higher frequency of diarrhea, infection and peripheral edema than elderly patients treated with vinorelbine+cisplatin.
+When TAXOTERE was combined with carboplatin for the treatment of chemotherapy-naive, advanced non-small cell lung carcinoma, patients 65 years of age or greater (28%) experienced higher frequency of infection compared to similar patients treated with TAXOTERE+cisplatin, and a higher frequency of diarrhea, infection and peripheral edema than elderly patients treated with vinorelbine+cisplatin.
 
 Prostate Cancer
 
 Of the 333 patients treated with TAXOTERE every three weeks plus prednisone in the prostate cancer study (TAX327), 209 patients were 65 years of age or greater and 68 patients were older than 75 years.
-In patients treated with TAXOTERE every three weeks, the following treatment emergent adverse reactions occurred at rates ≥10% higher in patients 65 years of age or greater compared to younger patients: anemia (71% vs. 59%), infection (37% vs. 24%), nail changes (34% vs. 23%), anorexia (21% vs. 10%), weight loss (15% vs. 5%) respectively.
+In patients treated with TAXOTERE every three weeks, the following treatment emergent adverse reactions occurred at rates ≥10% higher in patients 65 years of age or greater compared to younger patients: anemia (71% vs 59%), infection (37% vs 24%), nail changes (34% vs 23%), anorexia (21% vs 10%), weight loss (15% vs 5%), respectively.
 
 Breast Cancer
 
@@ -96,4 +96,4 @@ Other reported clinical experience with this treatment regimen has not identifie
 Patients with bilirubin >ULN should not receive TAXOTERE.
 Also, patients with AST and/or ALT >1.5 × ULN concomitant with alkaline phosphatase >2.5 × ULN should not receive TAXOTERE [see Boxed Warning, Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].
 
-The alcohol content of TAXOTERE Injection should be taken into account when given to patients with hepatic impairment [see Warnings and Precautions (5.11)].
+The alcohol content of TAXOTERE Injection should be taken into account when given to patients with hepatic impairment [see Warnings and Precautions (5.12)].

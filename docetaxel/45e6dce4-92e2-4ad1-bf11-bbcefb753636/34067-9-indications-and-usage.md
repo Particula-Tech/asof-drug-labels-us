@@ -1,4 +1,4 @@
-# 1. INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
 ## 1.1 Breast Cancer
 
@@ -14,7 +14,7 @@ TAXOTERE in combination with cisplatin is indicated for the treatment of patient
 
 ## 1.3 Prostate Cancer
 
-TAXOTERE in combination with prednisone is indicated for the treatment of patients with androgen independent (hormone refractory) metastatic prostate cancer.
+TAXOTERE in combination with prednisone is indicated for the treatment of patients with metastatic castration-resistant prostate cancer.
 
 ## 1.4 Gastric Adenocarcinoma
 
