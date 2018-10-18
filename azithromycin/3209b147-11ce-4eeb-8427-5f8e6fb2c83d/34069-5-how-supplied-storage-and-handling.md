@@ -1,9 +1,9 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Azithromycin for oral suspension USP after constitution contains a flavored pink suspension.
-Azithromycin for oral suspension USP is supplied to provide 100 mg/5 mL or 200 mg/5 mL suspension in bottles as follows:
+Azithromycin For Oral Suspension USP after constitution contains a flavored pink suspension.
+Azithromycin For Oral Suspension USP is supplied to provide 100 mg/5 mL or 200 mg/5 mL suspension in bottles as follows:
 
-| Azithromycin contents per bottle | NDC |
+| Azithromycin, USP contents per bottle | NDC |
 | --- | --- |
 | 300 mg | 0093-2027-23 |
 | 600 mg | 0093-2026-23 |

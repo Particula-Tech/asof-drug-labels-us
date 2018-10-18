@@ -13,28 +13,28 @@ What is azithromycin for oral suspension?
 Azithromycin for oral suspension is a macrolide antibiotic prescription medicine used in adults 18 years or older to treat certain infections caused by certain germs called bacteria.
 These bacterial infections include:
 
-- •acute worsening of chronic bronchitis
-- •acute sinus infection
-- •community-acquired pneumonia
-- •infected throat or tonsils
-- •skin infections
-- •infections of the urethra or cervix
-- •genital ulcers in men
+- acute worsening of chronic bronchitis
+- acute sinus infection
+- community-acquired pneumonia
+- infected throat or tonsils
+- skin infections
+- infections of the urethra or cervix
+- genital ulcers in men
 
 Azithromycin for oral suspension is also used in children to treat:
 
-- •ear infections
-- •community-acquired pneumonia
-- •infected throat or tonsils
+- ear infections
+- community-acquired pneumonia
+- infected throat or tonsils
 
 Azithromycin should not be taken by people who cannot tolerate oral medications because they are very ill or have certain other risk factors including:
 
-- •have cystic fibrosis
-- •have hospital acquired infections
-- •have known or suspected bacteria in the blood
-- •need to be in the hospital
-- •are elderly
-- •have any medical problems that can lower the ability of the immune system to fight infections
+- have cystic fibrosis
+- have hospital acquired infections
+- have known or suspected bacteria in the blood
+- need to be in the hospital
+- are elderly
+- have any medical problems that can lower the ability of the immune system to fight infections
 
 Azithromycin for oral suspension is not for viral infections such as the common cold.
 
@@ -48,23 +48,23 @@ Who should not take azithromycin for oral suspension?
 
 Do not take azithromycin for oral suspension if you:
 
-- •have had a severe allergic reaction to certain antibiotics known as macrolides or ketolides including azithromycin and erythromycin.
-- •have a history of cholestatic jaundice or hepatic dysfunction that happened with the use of azithromycin.
+- have had a severe allergic reaction to certain antibiotics known as macrolides or ketolides including azithromycin and erythromycin.
+- have a history of cholestatic jaundice or hepatic dysfunction that happened with the use of azithromycin.
 
 What should I tell my healthcare provider before taking azithromycin for oral suspension?
 
 Before you take azithromycin for oral suspension, tell your healthcare provider if you:
 
-- •have pneumonia
-- •have cystic fibrosis
-- •have known or suspected bacteremia (bacterial infection in the blood)
-- •have liver or kidney problems
-- •have an irregular heartbeat, especially a problem called “QT prolongation”
-- •have a problem that causes muscle weakness (myasthenia gravis)
-- •have any other medical problems
-- •are pregnant or plan to become pregnant.
+- have pneumonia
+- have cystic fibrosis
+- have known or suspected bacteremia (bacterial infection in the blood)
+- have liver or kidney problems
+- have an irregular heartbeat, especially a problem called “QT prolongation”
+- have a problem that causes muscle weakness (myasthenia gravis)
+- have any other medical problems
+- are pregnant or plan to become pregnant.
   It is not known if azithromycin for oral suspension will harm your unborn baby.
-- •are breastfeeding or plan to breastfeed.
+- are breastfeeding or plan to breastfeed.
   Azithromycin has been reported to pass into breast milk.
   Talk to your healthcare provider about the best way to feed your baby while you take azithromycin for oral suspension.
 
@@ -77,72 +77,75 @@ Azithromycin for oral suspension may affect the way other medicines work, and ot
 
 Especially tell your healthcare provider if you take:
 
-- •nelfinavir
-- •a blood thinner (warfarin)
-- •digoxin
-- •phenytoin
-- •an antacid that contains aluminum or magnesium
+- nelfinavir
+- a blood thinner (warfarin)
+- digoxin
+- phenytoin
+- an antacid that contains aluminum or magnesium
 
 Know the medicines you take.
 Keep a list of your medicines and show it to your healthcare provider and pharmacist when you get a new medicine.
 
 How should I take azithromycin for oral suspension?
 
-- •Take azithromycin for oral suspension exactly as your healthcare provider tells you to take it.
-- •Azithromycin for oral suspension can be taken with or without food.
-- •If you take azithromycin for oral suspension, shake the bottle well just before you take it.
-- •Do not skip any doses of azithromycin for oral suspension or stop taking it, even if you begin to feel better, until you finish your prescribed treatment unless you have a serious allergic reaction or your healthcare provider tells you to stop taking azithromycin for oral suspension.
+- Take azithromycin for oral suspension exactly as your healthcare provider tells you to take it.
+- Azithromycin for oral suspension can be taken with or without food.
+- If you take azithromycin for oral suspension, shake the bottle well just before you take it.
+- Do not skip any doses of azithromycin for oral suspension or stop taking it, even if you begin to feel better, until you finish your prescribed treatment unless you have a serious allergic reaction or your healthcare provider tells you to stop taking azithromycin for oral suspension.
   See “What are the possible side effects of azithromycin for oral suspension?”
   If you skip doses, or do not complete the total course of azithromycin for oral suspension your treatment may not work as well and your infection may be harder to treat.
   Taking all of your azithromycin for oral suspension doses will help lower the chance that the bacteria will become resistant to azithromycin.
-- •If the bacteria becomes resistant to azithromycin, azithromycin for oral suspension and other antibiotic medicines may not work for you in the future.
-- •If you take too much azithromycin for oral suspension, call your healthcare provider or get medical help right away.
+- If the bacteria becomes resistant to azithromycin, azithromycin for oral suspension and other antibiotic medicines may not work for you in the future.
+- If you take too much azithromycin for oral suspension, call your healthcare provider or get medical help right away.
 
 What are the possible side effects of azithromycin for oral suspension?
 
 Azithromycin for oral suspension can cause serious side effects, including:
 
-- •Serious allergic reactions.
+- Serious allergic reactions.
   Allergic reactions can happen in people taking azithromycin the active ingredient in azithromycin for oral suspension, even after only 1 dose.
   Stop taking azithromycin for oral suspension and get emergency medical help right away if you have any of the following symptoms of a severe allergic reaction:
-  - otrouble breathing or swallowing
-  - oswelling of the lips, tongue, face
-  - othroat tightness, hoarseness
-  - orapid heartbeat
-  - ofaintness
-  - oskin rash (hives)
-  - onew onset of fever and swollen lymph nodes
-- Stop taking azithromycin for oral suspension at the first sign of a skin rash and call your healthcare provider.
-- Skin rash may be a sign of a more serious reaction to azithromycin for oral suspension.
-- •Liver damage (hepatotoxicity).
+  - trouble breathing or swallowing
+  - swelling of the lips, tongue, face
+  - throat tightness, hoarseness
+  - rapid heartbeat
+  - faintness
+  - skin rash (hives)
+  - new onset of fever and swollen lymph nodes
+
+Stop taking azithromycin for oral suspension at the first sign of a skin rash and call your healthcare provider.
+Skin rash may be a sign of a more serious reaction to azithromycin for oral suspension.
+
+- Liver damage (hepatotoxicity).
   Hepatotoxicity can happen in people who take azithromycin for oral suspension.
   Call your healthcare provider right away if you have unexplained symptoms such as:
 
-| onausea or vomitingostomach painofeveroweaknessoabdominal pain or tendernessoitchingounusual tiredness | oloss of appetiteochange in the color of your bowel movementsodark colored urineoyellowing of your skin or of the whites of your eyes |
+| nausea or vomitingstomach painfeverweaknessabdominal pain or tendernessitchingunusual tiredness | loss of appetitechange in the color of your bowel movementsdark colored urineyellowing of your skin or of the whites of your eyes |
 | --- | --- |
 
-1. Stop taking azithromycin for oral suspension and tell your healthcare provider right away if you have yellowing of your skin or white part of your eyes, or if you have dark urine.
-   These can be signs of a serious reaction to azithromycin for oral suspension (a liver problem).
-2. •Serious heart rhythm changes (QT prolongation and torsades de pointes).
-   Tell your healthcare provider right away if you have a change in your heartbeat (a fast or irregular heartbeat), or if you feel faint and dizzy.
-   Azithromycin for oral suspension may cause a rare heart problem known as prolongation of the QT interval.
-   This condition can cause an abnormal heartbeat and can be very dangerous.
-   The chances of this happening are higher in people:
-   - owho are elderly
-   - owith a family history of prolonged QT interval
-   - owith low blood potassium
-   - owho take certain medicines to control heart rhythm (antiarrhythmics)
-3. •Worsening of myasthenia gravis (a problem that causes muscle weakness).
-   Certain antibiotics like azithromycin for oral suspension may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
-   Call your healthcare provider right away if you have any worsening muscle weakness or breathing problems.
-4. •Diarrhea.
-   Tell your healthcare provider right away if you have watery diarrhea, diarrhea that does not go away, or bloody stools.
-   You may experience cramping and a fever.
-   This could happen after you have finished your azithromycin for oral suspension.
-5. The most common side effects of azithromycin for oral suspension include:
-   1. •nausea
-   2. •stomach pain
-   3. •vomiting
+Stop taking azithromycin for oral suspension and tell your healthcare provider right away if you have yellowing of your skin or white part of your eyes, or if you have dark urine.
+These can be signs of a serious reaction to azithromycin for oral suspension (a liver problem).
+
+- Serious heart rhythm changes (QT prolongation and torsades de pointes).
+  Tell your healthcare provider right away if you have a change in your heartbeat (a fast or irregular heartbeat), or if you feel faint and dizzy.
+  Azithromycin for oral suspension may cause a rare heart problem known as prolongation of the QT interval.
+  This condition can cause an abnormal heartbeat and can be very dangerous.
+  The chances of this happening are higher in people:
+  - who are elderly
+  - with a family history of prolonged QT interval
+  - with low blood potassium
+  - who take certain medicines to control heart rhythm (antiarrhythmics)
+- Worsening of myasthenia gravis (a problem that causes muscle weakness).
+  Certain antibiotics like azithromycin for oral suspension may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
+  Call your healthcare provider right away if you have any worsening muscle weakness or breathing problems.
+- Diarrhea.
+  Tell your healthcare provider right away if you have watery diarrhea, diarrhea that does not go away, or bloody stools.
+  You may experience cramping and a fever.
+  This could happen after you have finished your azithromycin for oral suspension.
+  The most common side effects of azithromycin for oral suspension include:
+  - nausea
+  - stomach pain
+  - vomiting
 
 These are not all the possible side effects of azithromycin for oral suspension.
 Tell your healthcare provider about any side effect that bothers you or that does not go away.
@@ -152,11 +155,11 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store azithromycin for oral suspension?
 
-- •Store dry powder at 68° to 77°F (20° to 25°C).
+- Store dry powder at 68° to 77°F (20° to 25°C).
   PROTECT FROM FREEZING.
-- •Store constituted suspension between 41° to 77°F (5° to 25°C) and discard when full dosing is completed.
-- •Keep azithromycin for oral suspension in a tightly closed container.
-- •Safely throw away any medicine that is out of date or no longer needed.
+- Store constituted suspension between 41° to 77°F (5° to 25°C) and discard when full dosing is completed.
+- Keep azithromycin for oral suspension in a tightly closed container.
+- Safely throw away any medicine that is out of date or no longer needed.
 
 Keep azithromycin for oral suspension and all medicines out of the reach of children.
 

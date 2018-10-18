@@ -30,7 +30,7 @@ Due to limited serum samples on day 2 (3 day regimen) and days 2 to 4 (5 day reg
 | Serum AUC0-∞ (mcg·hr/mL) | 17.4 (6.2)* |  | 14.9 (3.1)* |  |
 | Serum T1/2 | 71.8 hr |  | 68.9 hr |  |
 
-1. *Total AUC for the entire 3 day and 5 day regimens.
+*Total AUC for the entire 3 day and 5 day regimens.
 
 Absorption
 
@@ -112,7 +112,7 @@ No dosage adjustment of drugs listed in Table 1 is recommended when coadminister
 
 Coadministration of azithromycin with efavirenz or fluconazole had a modest effect on the pharmacokinetics of azithromycin.
 Nelfinavir significantly increased the Cmax and AUC of azithromycin.
-No dosage adjustment of azithromycin is recommended when administered with drugs listed in Table 2[see Drug Interactions (7.3)].
+No dosage adjustment of azithromycin is recommended when administered with drugs listed in Table 2 [see Drug Interactions (7.3)].
 
 Table 1.
 Drug Interactions: Pharmacokinetic Parameters for Coadministered Drugs in the Presence of Azithromycin
@@ -169,97 +169,34 @@ Azithromycin has been shown to be active against most isolates of the following 
 
 Gram-Positive Bacteria
 
-1. Staphylococcus aureus
-2. Streptococcus agalactiae
-3. Streptococcus pneumoniae
-4. Streptococcus pyogenes
+Staphylococcus aureus Streptococcus agalactiae Streptococcus pneumoniae Streptococcus pyogenes
 
 Gram-Negative Bacteria
 
-1. Haemophilus ducreyi
-2. Haemophilus influenzae
-3. Moraxella catarrhalis
-4. Neisseria gonorrhoeae
+Haemophilus ducreyi Haemophilus influenzae Moraxella catarrhalis Neisseria gonorrhoeae
 
 Other Bacteria
 
-1. Chlamydophila pneumoniae
-2. Chlamydia trachomatis
-3. Mycoplasma pneumoniae
+Chlamydophila pneumoniae Chlamydia trachomatis Mycoplasma pneumoniae
 
 The following in vitro data are available, but their clinical significance is unknown.
 At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for azithromycin against isolates of similar genus or organism group.
 However, the efficacy of azithromycin in treating clinical infections caused by these bacteria has not been established in adequate and well-controlled clinical trials.
 
-1. Gram-Positive Bacteria
-2. Beta-hemolytic streptococci (Groups C, F, G)
-3. Viridans group streptococci
+Gram-Positive Bacteria Beta-hemolytic streptococci (Groups C, F, G) Viridans group streptococci
 
 Gram-Negative Bacteria
 
-1. Bordetella pertussis
-2. Legionella pneumophila
+Bordetella pertussis Legionella pneumophila
 
 Anaerobic Bacteria
 
-1. Prevotella bivia
-2. Peptostreptococcus species
+Prevotella bivia Peptostreptococcus species
 
 Other Bacteria
 
-1. Ureaplasma urealyticum
+Ureaplasma urealyticum
 
-Susceptibility Testing Methods
+Susceptibility Testing
 
-When available, the clinical microbiology laboratory should provide cumulative reports of in vitro susceptibility test results for antibacterial drugs used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
-These reports should aid the physician in selecting an antibacterial drug for treatment.
-
-Dilution Techniques
-
-Quantitative methods are used to determine antimicrobial MICs.
-These MICs provide estimates of the susceptibility of bacteria to antibacterial compounds.
-The MICs should be determined using a standardized test method1,2,3,4 (broth and/or agar).
-The MIC values should be interpreted according to criteria provided in Table 3.
-
-Diffusion Techniques
-
-Quantitative methods that require measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antibacterial compounds.
-The zone size should be determined using a standardized method2,3,4.
-This procedure uses paper disk impregnated with 15 mcg azithromycin to test the susceptibility of bacteria to azithromycin.
-The disk diffusion breakpoints are provided in Table 3.
-
-| Table 3. Susceptibility Test Interpretive Criteria for Azithromycin |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Pathogen | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion (zone diameter in mm) |  |  |
-|  | S | I | R | S | I | R |
-| Haemophilus influenzaea | ≤ 4 | - | - | ≥ 12 |  |  |
-| Staphylococcus aureus | ≤ 2 | 4 | ≥ 8 | ≥ 18 | 14 to 17 | ≤ 13 |
-| Streptococci including S. pneumoniae | ≤ 0.5 | 1 | ≥ 2 | ≥ 18 | 14 to 17 | ≤ 13 |
-| Moraxella catarrhalisa | ≤ 0.25 | - | - | ≥ 26 | - | - |
-
-aInsufficient information is available to determine Intermediate or Resistant interpretive criteria
-
-A report of Susceptible (S) indicates that the antimicrobial drug is likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
-A report of Intermediate (I) indicates that the result should be considered equivocal and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
-This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where a high dosage of the drug can be used.
-This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of Resistant (R) indicates that the antimicrobial drug is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentrations usually achievable at the infection site; other therapy should be selected.
-
-Quality Control
-
-Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test1,2,3,4.
-Standard azithromycin powder should provide the following range of MIC values provided in Table 4.
-For the diffusion technique using the 15 mcg azithromycin disk the criteria provided in Table 4 should be achieved.
-
-Table 4.
-Acceptable Quality Control Ranges for Susceptibility Testing
-
-| Quality Control Organism | Minimum Inhibitory Concentrations(mcg/mL) | Disk Diffusion (zone diameters in mm) |
-| --- | --- | --- |
-| Staphylococcus aureusATCC* 25923 | Not Applicable | 21 to 26 |
-| Staphylococcus aureusATCC 29213 | 0.5 to 2 | Not Applicable |
-| Haemophilus influenzaeATCC 49247 | 1 to 4 | 13 to 21 |
-| Streptococcus pneumoniae ATCC 49619 | 0.06 to 0.25 | 19 to 25 |
-| Neisseria gonorrhoeae ATCC 49226 | 0.25 to 1 | Not Applicable |
-
-*ATCC = American Type Culture Collection
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
