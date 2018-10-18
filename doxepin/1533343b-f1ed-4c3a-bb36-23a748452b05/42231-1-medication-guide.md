@@ -1,3 +1,5 @@
+# Medication Guide
+
 Medication Guide Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions
 
 Read the Medication Guide that comes with your or your family member's antidepressant medicine.
