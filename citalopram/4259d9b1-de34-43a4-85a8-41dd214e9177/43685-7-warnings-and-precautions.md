@@ -1,10 +1,112 @@
 # WARNINGS
 
+WARNINGS-Clinical Worsening and Suicide Risk
+
+## Clinical Worsening and Suicide Risk
+
+Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
+Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
+There has been a long-standing concern, however, that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
+
+Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18-24) with major depressive disorder (MDD) and other psychiatric disorders.
+Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
+
+The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 shortterm trials of 9 antidepressant drugs in over 4400 patients.
+The pooled analyses of placebocontrolled trials in adults with MDD or other psychiatric disorders included a total of 295 shortterm trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
+There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
+There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
+The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
+These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1.
+
+TABLE 1
+
+| Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
+| --- | --- |
+|  | Increases Compared to Placebo |
+| <18 | 14 additional cases |
+| 18-24 | 5 additional cases |
+|  | Decreases Compared to Placebo |
+| 25-64 | 1 fewer case |
+| ≥65 | 6 fewer cases |
+
+No suicides occurred in any of the pediatric trials.
+There were suicides in the adult trials, but the number was not sufficient to reach any conclusion about drug effect on suicide.
+
+It is unknown whether the suicidality risk extends to longer-term use, i.e., beyond several months.
+However, there is substantial evidence from placebo-controlled maintenance trials in adults with depression that the use of antidepressants can delay the recurrence of depression.
+
+All patients being treated with antidepressants for any indication should be monitored appropriately and observed closely for clinical worsening, suicidality, and unusual changes in behavior, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases.
+
+The following symptoms, anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, and mania, have been reported in adult and pediatric patients being treated with antidepressants for major depressive disorder as well as for other indications, both psychiatric and nonpsychiatric.
+Although a causal link between the emergence of such symptoms and either the worsening of depression and/or the emergence of suicidal impulses has not been established, there is concern that such symptoms may represent precursors to emerging suicidality.
+
+Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
+
+If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms (see PRECAUTIONS and DOSAGE AND ADMINISTRATION— Discontinuation of Treatment with Celexa, for a description of the risks of discontinuation of Celexa).
+
+Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
+Such monitoring should include daily observation by families and caregivers.
+Prescriptions for Celexa should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
+
+## QT-Prolongation and Torsade de Pointes
+
+Citalopram causes dose-dependent QTc prolongation, an ECG abnormality that has been associated with Torsade de Pointes (TdP), ventricular tachycardia, and sudden death, all of which have been observed in postmarketing reports for citalopram.
+
+Individually corrected QTc (QTcNi) interval was evaluated in a randomized, placebo and active (moxifloxacin 400 mg) controlled cross-over, escalating multiple-dose study in 119 healthy subjects.
+The maximum mean (upper bound of the 95% one-sided confidence interval) difference from placebo were 8.5 (10.8) and 18.5 (21.0) msec for 20 mg and 60 mg citalopram, respectively.
+Based on the established exposure-response relationship, the predicted QTcNi change from placebo (upper bound of the 95% one-sided confidence interval) under the Cmax for the dose of 40 mg is 12.6 (14.3) msec.
+
+Because of the risk of QTc prolongation at higher citalopram doses, it is recommended that citalopram should not be given at doses above 40 mg/day.
+
+It is recommended that citalopram should not be used in patients with congenital long QT syndrome, bradycardia, hypokalemia or hypomagnesemia, recent acute myocardial infarction, or uncompensated heart failure.
+Citalopram should also not be used in patients who are taking other drugs that prolong the QTc interval.
+Such drugs include Class 1A (e.g., quinidine, procainamide) or Class III (e.g., amiodarone, sotalol) antiarrhythmic medications, antipsychotic medications (e.g., chlorpromazine, thioridazine), antibiotics (e.g., gatifloxacin, moxifloxacin), or any other class of medications known to prolong the QTc interval (e.g., pentamidine, levomethadyl acetate, methadone).
+
+The citalopram dose should be limited in certain populations.
+The maximum dose should be limited to 20 mg/day in patients who are CYP2C19 poor metabolizers or those patients who may be taking concomitant cimetidine or another CYP2C19 inhibitor, since higher citalopram exposures would be expected.
+The maximum dose should also be limited to 20 mg/day in patients with hepatic impairment and in patients who are greater than 60 years of age because of expected higher exposures.
+
+Electrolyte and/or ECG monitoring is recommended in certain circumstances.
+Patients being considered for citalopram treatment who are at risk for significant electrolyte disturbances should have baseline serum potassium and magnesium measurements with periodic monitoring.
+Hypokalemia (and/or hypomagnesemia) may increase the risk of QTc prolongation and arrhythmia, and should be corrected prior to initiation of treatment and periodically monitored.
+ECG monitoring is recommended in patients for whom citalopram use is not recommended (see above), but, nevertheless, considered essential.
+These include those patients with the cardiac conditions noted above, and those taking other drugs that may prolong the QTc interval.
+
+Citalopram should be discontinued in patients who are found to have persistent QTc measurements >500 ms. If patients taking citalopram experience symptoms that could indicate the occurrence of cardiac arrhythmias, e.g., dizziness, palpitations, or syncope, the prescriber should initiate further evaluation, including cardiac monitoring.
+
+Screening Patients for Bipolar Disorder: A major depressive episode may be the initial presentation of bipolar disorder.
+It is generally believed (though not established in controlled trials) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for bipolar disorder.
+Whether any of the symptoms described above represent such a conversion is unknown.
+However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
+It should be noted that Celexa is not approved for use in treating bipolar depression.
+
+## Serotonin Syndrome
+
+The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including Celexa, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, trytophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
+
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+Patients should be monitored for the emergence of serotonin syndrome.
+
+The concomitant use of Celexa with MAOIs intended to treat psychiatric disorders is contraindicated.
+Celexa should also not be started in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue.
+All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
+No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
+There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking Celexa.
+Celexa should be discontinued before initiating treatment with the MAOI (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
+
+If concomitant use of Celexa with other serotonergic drugs including, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, amphetamines, trytophan and St. John’s Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome particularly during treatment initiation and dose increases.
+
+Treatment with Celexa and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
+
+## Angle Closure Glaucoma
+
+The pupillary dilation that occurs following use of many antidepressant drugs including Celexa may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+
 # PRECAUTIONS
 
 ## General
 
-### Discontinuation of Treatment with Celexa
+Discontinuation of Treatment with Celexa
 
 During marketing of Celexa and other SSRIs and SNRIs (serotonin and norepinephrine reuptake inhibitors), there have been spontaneous reports of adverse events occurring upon discontinuation of these drugs, particularly when abrupt, including the following: dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g., paresthesias such as electric shock sensations), anxiety, confusion, headache, lethargy, emotional lability, insomnia, and hypomania.
 While these events are generally self-limiting, there have been reports of serious discontinuation symptoms.
@@ -14,7 +116,7 @@ A gradual reduction in the dose rather than abrupt cessation is recommended when
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
 Subsequently, the physician may continue decreasing the dose but at a more gradual rate (see DOSAGE AND ADMINISTRATION).
 
-#### Abnormal Bleeding
+Abnormal Bleeding
 
 SSRIs and SNRIs, including Celexa, may increase the risk of bleeding events.
 Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs, warfarin, and other anticoagulants may add to the risk.
@@ -23,7 +125,7 @@ Bleeding events related to SSRIs and SNRIs use have ranged from ecchymoses, hema
 
 Patients should be cautioned about the risk of bleeding associated with the concomitant use of Celexa and NSAIDs, aspirin, or other drugs that affect coagulation.
 
-#### Hyponatremia
+Hyponatremia
 
 Hyponatremia may occur as a result of treatment with SSRIs and SNRIs, including Celexa.
 In many cases, this hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH), and was reversible when Celexa was discontinued.
@@ -35,25 +137,25 @@ Discontinuation of Celexa should be considered in patients with symptomatic hypo
 Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which may lead to falls.
 Signs and symptoms associated with more severe and/or acute cases have included hallucination, syncope, seizure, coma, respiratory arrest, and death.
 
-#### Activation of Mania/Hypomania
+Activation of Mania/Hypomania
 
 In placebo-controlled trials of Celexa, some of which included patients with bipolar disorder, activation of mania/hypomania was reported in 0.2% of 1063 patients treated with Celexa and in none of the 446 patients treated with placebo.
 Activation of mania/hypomania has also been reported in a small proportion of patients with major affective disorders treated with other marketed antidepressants.
 As with all antidepressants, Celexa should be used cautiously in patients with a history of mania.
 
-#### Seizures
+Seizures
 
 Although anticonvulsant effects of citalopram have been observed in animal studies, Celexa has not been systematically evaluated in patients with a seizure disorder.
 These patients were excluded from clinical studies during the product's premarketing testing.
 In clinical trials of Celexa, seizures occurred in 0.3% of patients treated with Celexa (a rate of one patient per 98 years of exposure) and 0.5% of patients treated with placebo (a rate of one patient per 50 years of exposure).
 Like other antidepressants, Celexa should be introduced with care in patients with a history of seizure disorder.
 
-#### Interference with Cognitive and Motor Performance
+Interference with Cognitive and Motor Performance
 
 In studies in normal volunteers, Celexa in doses of 40 mg/day did not produce impairment of intellectual function or psychomotor performance.
 Because any psychoactive drug may impair judgment, thinking, or motor skills, however, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that Celexa therapy does not affect their ability to engage in such activities.
 
-#### Use in Patients with Concomitant Illness
+Use in Patients with Concomitant Illness
 
 Clinical experience with Celexa in patients with certain concomitant systemic illnesses is limited.
 Due to the risk of QT prolongation, citalopram use should be avoided in patients with certain cardiac conditions, and ECG monitoring is advised if Celexa must be used in such patients.
@@ -100,7 +202,7 @@ The complete text of the Medication Guide is reprinted at the end of this docume
 Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking Celexa.
 
 Clinical Worsening and Suicide Risk: Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
-Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
+Families and caregivers of patients should be advised to look for the emergence of such symptoms on a dayto-day basis, since changes may be abrupt.
 Such symptoms should be reported to the patient's prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
 
@@ -172,7 +274,7 @@ Electroconvulsive Therapy (ECT) - There are no clinical studies of the combined 
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-### Carcinogenesis
+Carcinogenesis
 
 Citalopram was administered in the diet to NMRI/BOM strain mice and COBS WI strain rats for 18 and 24 months, respectively.
 There was no evidence for carcinogenicity of citalopram in mice receiving up to 240 mg/kg/day, which is equivalent to 20 times the maximum recommended human daily dose (MRHD) of 60 mg on a surface area (mg/m2) basis.
@@ -180,21 +282,21 @@ There was an increased incidence of small intestine carcinoma in rats receiving 
 A no-effect dose for this finding was not established.
 The relevance of these findings to humans is unknown.
 
-### Mutagenesis
+Mutagenesis
 
 Citalopram was mutagenic in the in vitro bacterial reverse mutation assay (Ames test) in 2 of 5 bacterial strains (Salmonella TA98 and TA1537) in the absence of metabolic activation.
 It was clastogenic in the in vitro Chinese hamster lung cell assay for chromosomal aberrations in the presence and absence of metabolic activation.
 Citalopram was not mutagenic in the in vitro mammalian forward gene mutation assay (HPRT) in mouse lymphoma cells or in a coupled in vitro/in vivo unscheduled DNA synthesis (UDS) assay in rat liver.
 It was not clastogenic in the in vitro chromosomal aberration assay in human lymphocytes or in two in vivo mouse micronucleus assays.
 
-### Impairment of Fertility
+Impairment of Fertility
 
 When citalopram was administered orally to 16 male and 24 female rats prior to and throughout mating and gestation at doses of 32, 48, and 72 mg/kg/day, mating was decreased at all doses, and fertility was decreased at doses ≥ 32 mg/kg/day, approximately 5 times the MRHD of 60 mg/day on a body surface area (mg/m2) basis.
 Gestation duration was increased at 48 mg/kg/day, approximately 8 times the MRHD.
 
 ## Pregnancy
 
-### Pregnancy Category C
+Pregnancy Category C
 
 In animal reproduction studies, citalopram has been shown to have adverse effects on embryo/fetal and postnatal development, including teratogenic effects, when administered at doses greater than human therapeutic doses.
 
@@ -211,9 +313,11 @@ A no-effect dose was not determined in that study.
 
 There are no adequate and well-controlled studies in pregnant women; therefore, citalopram should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-### Pregnancy-Nonteratogenic Effects
+Pregnancy-Nonteratogenic Effects
 
-Neonates exposed to Celexa and other SSRIs or serotonin and norepinephrine reuptake inhibitors (SNRIs), late in the third trimester, have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
+Neonates exposed to Celexa and other SSRIs or serotonin and norepinephrine reuptake inhibitors
+
+(SNRIs), late in the third trimester, have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
 Such complications can arise immediately upon delivery.
 Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying.
 These features are consistent with either a direct toxic effect of SSRIs and SNRIs or, possibly, a drug discontinuation syndrome.
@@ -243,7 +347,7 @@ The decision whether to continue or discontinue either nursing or Celexa therapy
 ## Pediatric Use
 
 Safety and effectiveness in the pediatric population have not been established (see BOXED WARNING and WARNINGS—Clinical Worsening and Suicide Risk).
-Two placebo-controlled trials in 407 pediatric patients with MDD have been conducted with Celexa, and the data were not sufficient to support a claim for use in pediatric patients.
+Two placebo- controlled trials in 407 pediatric patients with MDD have been conducted with Celexa, and the data were not sufficient to support a claim for use in pediatric patients.
 Anyone considering the use of Celexa in a child or adolescent must balance the potential risks with the clinical need.
 
 Decreased appetite and weight loss have been observed in association with the use of SSRIs.

@@ -1,14 +1,14 @@
 # ANIMAL TOXICOLOGY
 
-## Retinal Changes in Rats
+Retinal Changes in Rats
 
-Pathologic changes (degeneration/atrophy) were observed in the retinas of albino rats in the 2-year carcinogenicity study with citalopram.
+Pathologic changes (degeneration/atrophy) were observed in the retinas of albino rats in the 2year carcinogenicity study with citalopram.
 There was an increase in both incidence and severity of retinal pathology in both male and female rats receiving 80 mg/kg/day (13 times the maximum recommended daily human dose of 60 mg on a mg/m2 basis).
 Similar findings were not present in rats receiving 24 mg/kg/day for two years, in mice treated for 18 months at doses up to 240 mg/kg/day, or in dogs treated for one year at doses up to 20 mg/kg/day (4, 20, and 10 times, respectively, the maximum recommended daily human dose on a mg/m2 basis).
 
 Additional studies to investigate the mechanism for this pathology have not been performed, and the potential significance of this effect in humans has not been established.
 
-## Cardiovascular Changes in Dogs
+Cardiovascular Changes in Dogs
 
 In a one-year toxicology study, 5 of 10 beagle dogs receiving oral doses of 8 mg/kg/day (4 times the maximum recommended daily human dose of 60 mg on a mg/m2 basis) died suddenly between weeks 17 and 31 following initiation of treatment.
 Although appropriate data from that study are not available to directly compare plasma levels of citalopram (CT) and its metabolites, demethylcitalopram (DCT) and didemethylcitalopram (DDCT), to levels that have been achieved in humans, pharmacokinetic data indicate that the relative dog-to-human exposure was greater for the metabolites than for citalopram.
@@ -20,12 +20,16 @@ Assays of DDCT plasma concentrations in 2020 citalopram-treated individuals demo
 While DDCT is ordinarily present in humans at lower levels than in dogs, it is unknown whether there are individuals who may achieve higher DDCT levels.
 The possibility that DCT, a principal metabolite in humans, may prolong the QT interval in dogs has not been directly examined because DCT is rapidly converted to DDCT in that species.
 
-Distributed by: Allergan USA, Inc. Irvine, CA 92612
+Distributed by:
+
+Allergan USA, Inc.
+
+Madison, NJ 07940
 
 Licensed from H. Lundbeck A/S
 
-© 2017 Allergan.
+© 2018 Allergan.
 All rights reserved.
 
 Rev.
-January 2017
+October 2018

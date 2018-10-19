@@ -1,8 +1,10 @@
-# Medication Guide
+v1.1MG4040
+
+Medication Guide
 
 Celexa® (se-lek-sa)
 
-(citalopram hydrobromide)
+(citalopram)
 
 Tablets
 
@@ -21,8 +23,8 @@ Suicidal thoughts or actions:
 - Celexa and other antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment or when the dose is changed.
 - Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
 - Watch for these changes and call your healthcare provider right away if you notice:
-  - New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
-  - Pay particular attention to such changes when Celexa is started or when the dose is changed.
+- New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
+- Pay particular attention to such changes when Celexa is started or when the dose is changed.
 
 Keep all follow-up visits with your healthcare provider and call between visits if you are worried about symptoms.
 
@@ -37,18 +39,17 @@ Call your healthcare provider right away if you have any of the following sympto
 - feeling agitated, restless, angry or irritable
 - trouble sleeping
 - an increase in activity or talking more than what is normal for you
-- other unusual changes in behavior or mood
-
-Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency.
-Celexa may be associated with these serious side effects:
+- other unusual changes in behavior or mood Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency.
+  Celexa may be associated with these serious side effects:
 
 2.
 Changes in the electrical activity of your heart (QT prolongation and Torsade de Pointes).
 
 This condition can be life threatening.
+
 The symptoms may include:
 
-- chest pain
+- Chest pain
 - fast or slow heartbeat
 - shortness of breath
 - dizziness or fainting
@@ -61,18 +62,15 @@ This condition can be life-threatening and may include:
 - coordination problems or muscle twitching (overactive reflexes)
 - racing heartbeat, high or low blood pressure
 - sweating or fever
-- nausea, vomiting, or diarrhea
-- muscle rigidity
+- nausea, vomiting, or diarrheamuscle rigidity
 
 4.
-Severe allergic reactions:
+Severe allergic reactions: trouble breathing swelling of the face, tongue, eyes or mouth
 
-- trouble breathing
-- swelling of the face, tongue, eyes or mouth
 - rash, itchy welts (hives) or blisters, alone or with fever or joint pain
 
 5.
-Abnormal bleeding: Celexa and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
+Abnormal bleeding: Celexa and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal antiinflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
 
 6.
 Seizures or convulsions
@@ -82,11 +80,9 @@ Manic episodes:
 
 - greatly increased energy
 - severe trouble sleeping
-- racing thoughts
-- reckless behavior
+- racing thoughts, reckless behavior
 - unusually grand ideas
-- excessive happiness or irritability
-- talking more or faster than usual
+- excessive happiness or irritability, talking more or faster than usual
 
 8.
 Changes in appetite or weight.
@@ -112,6 +108,7 @@ Only some people are at risk for these problems.
 You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 
 Do not stop Celexa without first talking to your healthcare provider.
+
 Stopping Celexa too quickly may cause serious symptoms including:
 
 - anxiety, irritability, high or low mood, feeling restless or changes in sleep habits
@@ -125,57 +122,55 @@ It is important to talk with your healthcare provider about the risks of treatin
 You should discuss all treatment choices with your healthcare provider.
 Celexa is also used to treat:
 
-- Major Depressive Disorder (MDD)
-
-Talk to your healthcare provider if you do not think that your condition is getting better with Celexa treatment.
+- Major Depressive Disorder (MDD) Talk to your healthcare provider if you do not think that your condition is getting better with Celexa treatment.
 
 Who should not take Celexa?
 
 Do not take Celexa if you:
 
-- are allergic to citalopram hydrobromide or escitalopram oxalate or any of the ingredients in Celexa.
+- are allergic to citalopram or escitalopram or any of the ingredients in Celexa.
   See the end of this Medication Guide for a complete list of ingredients in Celexa.
 - take a monoamine oxidase inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
 - Do not take an MAOI within 2 weeks of stopping Celexa unless directed to do so by your physician.
 - Do not start Celexa if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
-  People who take Celexa close in time to an MAOI may have serious or even life-threatening side effects.
-  Get medical help right away if you have any of these symptoms:
-  - high fever
-  - uncontrolled muscle spasms
-  - stiff muscles
-  - rapid changes in heart rate or blood pressure
-  - confusion
-  - loss of consciousness (pass out)
-- take the antipsychotic medicine pimozide (Orap®) because this can cause serious heart problems.
-- have a heart problem including congenital long QT syndrome
 
-What should I tell my healthcare provider before taking Celexa?
-Ask if you are not sure.
+People who take Celexa close in time to an MAOI may have serious or even life-threatening side effects.
+Get medical help right away if you have any of these symptoms:
+
+- high fever
+- uncontrolled muscle spasms
+- stiff muscles
+- rapid changes in heart rate or blood pressure
+- confusion
+- loss of consciousness (pass out)
+- have a heart problem including congenital long QT syndrome
+- Do not take Celexa with Orap® (pimozide) because taking these two drugs together can cause serious heart problems.
+- What should I tell my healthcare provider before taking Celexa?
+  Ask if you are not sure.
 
 Before starting Celexa, tell your healthcare provider if you
 
 - Are taking certain drugs such as:
-  - Medicines for heart problems
-  - Medicines that lower your potassium or magnesium levels in your body
-  - Cimetidine
-  - Triptans used to treat migraine headache
-  - Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, amphetamines, or antipsychotics
-  - Tramadol
-  - Over-the-counter supplements such as tryptophan or St. John's Wort
+- Medicines for heart problems
+- Medicines that lower your potassium or magnesium levels in your body
+- Cimetidine
+- Triptans used to treat migraine headache
+- Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, amphetamines, or antipsychotics
+- Tramadol
+- Over-the-counter supplements such as tryptophan or St. John’s Wort
 - have liver problems
 - have kidney problems
 - have heart problems
 - have or had seizures or convulsions
 - have bipolar disorder or mania
 - have low sodium levels in your blood
-- have a history of a stroke
-- have high blood pressure
+- have a history of a stroke  have high blood pressure
 - have or had bleeding problems
 - are pregnant or plan to become pregnant.
   It is not known if Celexa will harm your unborn baby.
   Talk to your healthcare provider about the benefits and risks of treating depression during pregnancy
-- are breast-feeding or plan to breast-feed.
+- are breast-feeding or plan to breastfeed.
   Some Celexa may pass into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby while taking Celexa.
 
@@ -185,7 +180,7 @@ Celexa and some medicines may interact with each other, may not work as well, or
 Your healthcare provider or pharmacist can tell you if it is safe to take Celexa with your other medicines.
 Do not start or stop any medicine while taking Celexa without talking to your healthcare provider first.
 
-| If you take Celexa, you should not take any other medicines that contain citalopram hydrobromide or escitalopram oxalate including: Lexapro. |
+| If you take Celexa, you should not take any other medicines that contain citalopram or escitalopram including: Lexapro. |
 | --- |
 
 How should I take Celexa?
@@ -236,14 +231,14 @@ Other side effects in children and adolescents include:
 - urinating more often
 - heavy menstrual periods
 - possible slowed growth rate and weight change.
-  Your child's height and weight should be monitored during treatment with Celexa.
+  Your child’s height and weight should be monitored during treatment with Celexa.
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 These are not all the possible side effects of Celexa.
 For more information, ask your healthcare provider or pharmacist.
 
 CALL YOUR DOCTOR FOR MEDICAL ADVICE ABOUT SIDE EFFECTS.
-YOU MAY REPORT SIDE EFFECTS TO THE FDA AT 1-800-FDA-1088.
+YOU MAY REPORT SIDE EFFECTS TO THE FDA AT 1800-FDA-1088.
 
 How should I store Celexa?
 
@@ -271,16 +266,15 @@ Active ingredient: citalopram hydrobromide
 
 Inactive ingredients:
 
-- Tablets: copolyvidone, corn starch, crosscarmellose sodium, glycerin, lactose monohydrate, magnesium stearate, hypromellose, microcrystalline cellulose, polyethylene glycol, titanium dioxide and iron dioxide for coloring.
+• Tablets: copolyvidone, corn starch, crosscarmellose sodium, glycerin, lactose monohydrate, magnesium stearate, hypromellose, microcrystalline cellulose, polyethylene glycol, titanium dioxide and iron dioxide for coloring.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: January 2017
+Revised: October 2018
 
-Distributed by: Allergan USA, Inc. Irvine, CA 92612 Licensed from H. Lundbeck A/S
+Distributed by: Allergan USA, Inc. Madison, NJ 07940 Licensed from H. Lundbeck A/S
 
-© 2017 Allergan.
+© 2018Allergan.
 All rights reserved.
 
-Rev.
-January 2017
+Rev. -October 2018 v1.1MG4040

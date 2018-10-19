@@ -3,7 +3,7 @@
     "NDA020822"
   ],
   "inn": "citalopram",
-  "labeler": "Allergan USA, Inc.",
+  "labeler": "Allergan, Inc.",
   "package_ndcs": [
     "0456-4010-01",
     "0456-4020-01",
@@ -16,7 +16,7 @@
   "products": [
     {
       "form": "TABLET, FILM COATED",
-      "generic": "citalopram hydrobromide",
+      "generic": "citalopram",
       "name": "Celexa"
     }
   ],

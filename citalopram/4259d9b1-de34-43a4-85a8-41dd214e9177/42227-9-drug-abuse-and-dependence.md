@@ -1,13 +1,14 @@
 # DRUG ABUSE AND DEPENDENCE
 
-## Controlled Substance Class
+Controlled Substance Class
 
-Celexa (citalopram HBr) is not a controlled substance.
+Celexa (citalopram) is not a controlled substance.
 
-## Physical and Psychological Dependence
+Physical and Psychological Dependence
 
 Animal studies suggest that the abuse liability of Celexa is low.
 Celexa has not been systematically studied in humans for its potential for abuse, tolerance, or physical dependence.
+
 The premarketing clinical experience with Celexa did not reveal any drug-seeking behavior.
 However, these observations were not systematic and it is not possible to predict, on the basis of this limited experience, the extent to which a CNS-active drug will be misused, diverted, and/or abused once marketed.
 Consequently, physicians should carefully evaluate Celexa patients for history of drug abuse and follow such patients closely, observing them for signs of misuse or abuse (e.g., development of tolerance, incrementations of dose, drug-seeking behavior).
