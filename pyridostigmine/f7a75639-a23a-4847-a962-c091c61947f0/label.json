@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA205464"
+  ],
+  "inn": "pyridostigmine",
+  "labeler": "Rising Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "64980-220-03"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "pyridostigmine bromide",
+      "name": "Pyridostigmine Bromide"
+    }
+  ],
+  "setid": "f7a75639-a23a-4847-a962-c091c61947f0",
+  "source": "dailymed"
+}
