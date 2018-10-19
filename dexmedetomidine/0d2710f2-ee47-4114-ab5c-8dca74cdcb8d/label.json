@@ -6,9 +6,21 @@
   "labeler": "WG Critical Care, LLC",
   "package_ndcs": [
     "44567-600-04",
-    "44567-601-04"
+    "44567-601-04",
+    "44567-602-24",
+    "44567-603-24"
   ],
   "products": [
+    {
+      "form": "INJECTION",
+      "generic": "dexmedetomidine hydrochloride",
+      "name": "Dexmedetomidine Hydrochloride"
+    },
+    {
+      "form": "INJECTION, LIPID COMPLEX",
+      "generic": "dexmedetomidine hydrochloride",
+      "name": "Dexmedetomidine Hydrochloride"
+    },
     {
       "form": "INJECTION, SOLUTION, CONCENTRATE",
       "generic": "dexmedetomidine hydrochloride",

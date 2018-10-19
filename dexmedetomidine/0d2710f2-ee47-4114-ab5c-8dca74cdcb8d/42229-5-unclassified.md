@@ -7,4 +7,16 @@ Dexmedetomidine Hydrochloride Injection is clear and colorless, and is available
 | 44567-600-04 | 400 mcg/4 mL | 4 vials/carton |
 | 44567-601-04 | 1000 mcg/10 mL | 4 vials/carton |
 
-Store vials at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
+Dexmedetomidine Hydrochloride Injection is available in single-dose, single-port, ready-to-use flexible plastic infusion bags in a foil laminate overwrap as follows:
+
+| NDC No. | Strength | Package |
+| --- | --- | --- |
+| 44567-602-24 | 200 mcg/50 mL* | 24 bags/carton |
+| 44567-603-24 | 400 mcg/100 mL | 24 bags/carton |
+
+*Partial fill container 50 mL volume in 100 mL container.
+
+Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
+Protect from light.
+It is recommended that the infusion bags be kept in the overwrap until ready to use.
+PROTECT INFUSION BAGS FROM FREEZING.

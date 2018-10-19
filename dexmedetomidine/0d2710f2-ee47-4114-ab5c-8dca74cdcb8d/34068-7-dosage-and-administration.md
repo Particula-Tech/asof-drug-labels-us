@@ -2,7 +2,8 @@
 
 ## 2.1 Important Dosage and Administration Instructions
 
-1. •Dexmedetomidine HCl Injection must be diluted prior to administration [see Dosage and Administration (2.6)].
+1. •Dexmedetomidine HCl Injection, 400 mcg in 4 mL and 100 mcg in 10 mL vial must be diluted prior to administration.
+   Dexmedetomidine HCl Injection, 200 mcg/50 mL and 400mcg/100mL single-dose bags do not require further dilution prior to administration [see Dosage and Administration (2.6)].
 2. •Dexmedetomidine HCl Injection should be administered only by health care providers skilled in the management of patients in the intensive care or operating room setting.
 3. •Administer by continuous intravenous infusion using a controlled infusion device.
 4. •Administration duration should not exceed 24 hours [see Warnings and Precautions (5.5, 5.6)].
@@ -50,6 +51,8 @@ When co-administered with anesthetics, sedatives/hypnotics, or opioids, consider
 
 ## 2.6 Preparation of Diluted Dexmedetomidine HCl Solution for Administration
 
+Dexmedetomidine HCL Injection, 400 mcg in 4 mL and 1000 mcg in 10 mL (100 mcg/mL)
+
 Dexmedetomidine HCl Injection must be diluted prior to administration to a final concentration of 4 mcg/mL by adding:
 
 - •2 mL of Dexmedetomidine HCl Injection to 48 mL of 0.9% Sodium Chloride Injection to a total volume of 50 mL or
@@ -61,6 +64,11 @@ Prior to administration, visually inspect the diluted dexmedetomidine HCl soluti
 Prior to use, may store the diluted dexmedetomidine HCl solution for up to 4 hours at room temperature or up to 24 hours at 2o to 8oC.
 
 Discard unused portion.
+
+Dexmedetomidine HCL Injection, 200 mcg/50 mL and 400 mcg/100 mL (4 mcg/mL) flexible plastic infusion bag
+
+Dexmedetomidine HCL Injection is supplied in a flexible plastic infusion bag containing a premixed, ready-to-use dexmedetomidine solution in 5% dextrose in water.
+No further dilution of these preparations are necessary.
 
 ## 2.7 Drug Compatibility
 

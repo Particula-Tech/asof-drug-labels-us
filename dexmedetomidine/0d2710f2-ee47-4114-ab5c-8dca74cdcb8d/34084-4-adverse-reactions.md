@@ -45,7 +45,7 @@ Table 2: Adverse Reactions with an Incidence >2%— Adult Intensive Care Unit Se
 
 Adverse reaction information was also derived from the placebo-controlled, continuous infusion trials of dexmedetomidine HCl for sedation in the surgical intensive care unit setting in which 387 adult patients received dexmedetomidine HCl for less than 24 hours.
 
-Table 3: Treatment-Emergent Adverse Events Occurring in >1% Of All Dexmedetomidine-Treated Adult Patients and at an Incidence Greater than Plaecbo in the Randomized Placebo-Controlled Continuous Infusion <24 Hours ICU Sedation Studies
+Table 3: Treatment-Emergent Adverse Events Occurring in >1% Of All Dexmedetomidine-Treated Adult Patients and at an Incidence Greater than Placebo in the Randomized Placebo-Controlled Continuous Infusion <24 Hours ICU Sedation Studies
 
 | Adverse Event | Randomized Dexmedetomidine (N = 387) | Placebo (N = 379) |
 | --- | --- | --- |

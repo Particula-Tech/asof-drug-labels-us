@@ -15,6 +15,8 @@ WG Critical Care, LLC
 
 Paramus, NJ 07652
 
-Made in Finland
+Vials made in Finland
 
-Revised: September 2016
+Bags made in Switzerland
+
+Revised: July 2018
