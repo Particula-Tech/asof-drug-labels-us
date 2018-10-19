@@ -6,7 +6,7 @@ Use the lowest effective dosage for the shortest duration consistent with indivi
 
 Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
 
-Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy and following dosage increases with codeine sulfate tablets and adjust the dosage accordingly [see Warnings and Precautions (5.2)].
+Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy and following dosage increases with codeine sulfate tablets and adjust the dosage accordingly [see Warnings and Precautions (5.3)].
 
 ## 2.2 Initial Dosage
 
@@ -36,4 +36,4 @@ Adjust the dosage to obtain an appropriate balance between management of pain an
 
 When a patient who has been taking codeine sulfate tablets regularly and may be physically dependent no longer requires therapy with codeine sulfate tablets, taper the dose gradually, by 25% to 50% every 2 to 4 days, while monitoring carefully for signs and symptoms of withdrawal.
 If the patient develops these signs or symptoms, raise the dose to the previous level and taper more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both.
-Do not abruptly discontinue codeine sulfate tablets in a physically-dependent patient [see Warnings and Precautions (5.14), Drug Abuse and Dependence (9.3)].
+Do not abruptly discontinue codeine sulfate tablets in a physically-dependent patient [see Warnings and Precautions (5.15), Drug Abuse and Dependence (9.3)].

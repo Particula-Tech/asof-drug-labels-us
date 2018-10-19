@@ -33,8 +33,6 @@ Do not use if shrink wrap is open or torn.
 
 NDC 0527-1698-01
 
-Lannett​
-
 CODEINE CII SULFATE TABLETS, USP
 
 30 mg
@@ -46,8 +44,6 @@ Rx only
 # PRINCIPAL DISPLAY PANEL - 60 mg Container Label
 
 NDC 0527-1699-01
-
-Lannett
 
 CODEINE CII SULFATE TABLETS, USP
 
