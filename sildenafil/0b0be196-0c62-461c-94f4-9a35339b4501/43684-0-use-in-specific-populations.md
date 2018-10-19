@@ -2,21 +2,29 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B.
-
-VIAGRA is not indicated for use in women.
-There are no adequate and well-controlled studies of sildenafil in pregnant women.
-
 Risk Summary
 
-Based on animal data, VIAGRA is not predicted to increase the risk of adverse developmental outcomes in humans.
+VIAGRA is not indicated for use in females.
+
+There are no data with the use of VIAGRA in pregnant women to inform any drug-associated risks for adverse developmental outcomes.
+Animal reproduction studies conducted with sildenafil did not show adverse developmental outcomes when administered during organogenesis in rats and rabbits at oral doses up to 16 and 32 times, respectively, the maximum recommended human dose (MRHD) of 100 mg/day on a mg/m2 basis (see Data).
+
+Data
 
 Animal Data
 
-No evidence of teratogenicity, embryotoxicity or fetotoxicity was observed in rats and rabbits which received up to 200 mg/kg/day during organogenesis.
-These doses represent, respectively, about 20 and 40 times the Maximum Recommended Human Dose (MRHD) on a mg/m2 basis in a 50 kg subject.
-In the rat pre- and postnatal development study, the no observed adverse effect dose was 30 mg/kg/day given for 36 days.
-In the nonpregnant rat the AUC at this dose was about 20 times human AUC.
+No evidence of teratogenicity, embryotoxicity or fetotoxicity was observed in rats and rabbits which received oral doses up to 200 mg/kg/day during organogenesis.
+These doses represent, respectively, about 16 and 32 times the MRHD on a mg/m2 basis in a 50 kg subject.
+In the rat pre- and postnatal development study, the no observed adverse effect dose was 30 mg/kg/day given for 36 days, about 2 times the MRHD on a mg/m2 basis in a 50 kg subject.
+
+## 8.2 Lactation
+
+Risk Summary
+
+VIAGRA is not indicated for use in females.
+
+Limited data indicate that sildenafil and its active metabolite are present in human milk.
+There is no information on the effects on the breastfed child, or the effects on milk production.
 
 ## 8.4 Pediatric Use
 
