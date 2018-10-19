@@ -14,10 +14,10 @@ What is the most important information I should know about antidepressant medici
    Some people may have a particularly high risk of having suicidal thoughts or actions.
    These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
 3. 3.How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
-4. 4.Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+4. •Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
    This is very important when an antidepressant medicine is started or when the dose is changed.
-5. 5.Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
-6. 6.Keep all follow up visits with your healthcare provider as scheduled.
+5. •Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
+6. •Keep all follow up visits with your healthcare provider as scheduled.
    Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
 
 Call your healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
@@ -99,7 +99,7 @@ What Other Important Information Should I Know About WELLBUTRIN XL?
   - •who take certain medicines.
 
 The chance of having seizures increases with higher doses of WELLBUTRIN XL.
-For more information, see the sections “Who should not take WELLBUTRIN XL?” and “What should I tell my healthcare provider before takingWELLBUTRIN XL?”
+For more information, see the sections “Who should not take WELLBUTRIN XL?” and “What should I tell my healthcare provider before taking WELLBUTRIN XL?”
 Tell your healthcare provider about all of your medical conditions and all the medicines you take.
 Do not take any other medicines while you are taking WELLBUTRIN XL unless your healthcare provider has said it is okay to take them.
 
@@ -293,8 +293,6 @@ U.S. Patents 6,096,341; 7,537,784
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-9395605
-
-20002167
+9395605-20002167
 
 Revised: 05/2017
