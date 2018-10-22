@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA209048"
+  ],
+  "inn": "aspirin",
+  "labeler": "Dr. Reddy's Laboratories Inc",
+  "package_ndcs": [
+    "43598-339-60"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "aspirin and dipyridamole",
+      "name": "Aspirin and Dipyridamole"
+    }
+  ],
+  "setid": "92222dd3-7802-2a03-7d30-58cf192cc33e",
+  "source": "dailymed"
+}
