@@ -1,26 +1,24 @@
 # PRINCIPAL DISPLAY PANEL - 800 mg Bottle Label
 
-NDC 0955-1050-27
+NDC 0955-1050-27 Rx only
 
-Winthrop
+Winthrop A SANOFI COMPANY
 
 Sevelamer Carbonate Tablets
 
 800 mg
 
-270 film-coated tablets
-
-Rx only
+270 Film-Coated Tablets
 
 SANOFI
 
 # PRINCIPAL DISPLAY PANEL - 0.8 g Packet Box
 
-Winthrop
+Winthrop A SANOFI COMPANY
 
 SANOFI
 
-NDC 0955-1052-90
+NDC 0955-1052-90 Rx only
 
 Sevelamer Carbonate For Oral Suspension
 
@@ -28,24 +26,20 @@ Citrus Flavor
 
 0.8 g
 
-Rx Only
-
 Contains 90 packets
 
 # PRINCIPAL DISPLAY PANEL - 2.4 g Packet Box
 
-Winthrop
+Winthrop A SANOFI COMPANY
 
 SANOFI
 
-NDC 0955-1054-90
+NDC 0955-1054-90 Rx only
 
 Sevelamer Carbonate For Oral Suspension
 
 Citrus Flavor
 
 2.4 g
-
-Rx Only
 
 Contains 90 packets
