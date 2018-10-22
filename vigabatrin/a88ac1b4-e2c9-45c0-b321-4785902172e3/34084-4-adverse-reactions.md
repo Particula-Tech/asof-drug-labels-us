@@ -229,4 +229,4 @@ Psychiatric Disorders: Acute psychosis, apathy, delirium, hypomania, neonatal ag
 
 Respiratory Disorders: Laryngeal edema, pulmonary embolism, respiratory failure, stridor
 
-Skin and Subcutaneous Tissue Disorders: Angioedema, maculo-papular rash, pruritus, Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN)
+Skin and Subcutaneous Tissue Disorders: Angioedema, maculo-papular rash, pruritus, Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), alopecia
