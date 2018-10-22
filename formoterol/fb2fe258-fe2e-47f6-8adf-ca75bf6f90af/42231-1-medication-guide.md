@@ -15,8 +15,8 @@ PERFOROMIST Inhalation Solution can cause serious side effects including:
 - •People with asthma who take long-acting beta2 adrenergic agonist (LABA) medicines such as PERFOROMIST Inhalation Solution have an increased risk of death from asthma problems.
 - •It is not known if LABA medicines, such as PERFOROMIST Inhalation Solution, increase the risk of death in people with chronic obstructive pulmonary disease (COPD).
 - • Get emergency medical care if:
-  - obreathing problems worsen quickly
-  - oyou use your rescue inhaler medicine, but it does not relieve your breathing problems
+  - •breathing problems worsen quickly
+  - •you use your rescue inhaler medicine, but it does not relieve your breathing problems
 
 What is PERFOROMIST Inhalation Solution?
 
@@ -72,17 +72,17 @@ Read the step-by-step instructions for using PERFOROMIST Inhalation Solution at 
   Take your next dose at your usual time.
   Do not take 2 doses at one time.
 - •While you are using PERFOROMIST Inhalation Solution 2 times each day:
-  - odo not use other medicines that contain a long-acting beta2-agonist (LABA) for any reason.
-  - odo not use your short-acting beta2-agonist medicine on a regular basis (four times a day).
+  - •do not use other medicines that contain a long-acting beta2-agonist (LABA) for any reason.
+  - •do not use your short-acting beta2-agonist medicine on a regular basis (four times a day).
 - •PERFOROMIST Inhalation Solution does not relieve sudden symptoms of COPD.
   Always have a rescue inhaler medicine with you to treat sudden symptoms.
   If you do not have a rescue inhaler medicine, call your healthcare provider to have one prescribed for you.
 - •Do not stop using PERFOROMIST Inhalation Solution or other medicines to control or treat your COPD unless told to do so by your healthcare provider because your symptoms might get worse.
   Your healthcare provider will change your medicines as needed.
 - •Do not use PERFOROMIST Inhalation Solution:
-  - omore often than prescribed,
-  - omore medicine than prescribed for you, or
-  - owith other LABA medicines
+  - •more often than prescribed,
+  - •more medicine than prescribed for you, or
+  - •with other LABA medicines
 
 Call your healthcare provider or get emergency medical care right away if:
 
@@ -185,4 +185,4 @@ Manufactured by: The Ritedose Corporation Columbia, SC 29203 U.S.A.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-Revised: 3/2018 MG:FORMIS:R2
+Revised: 10/2018 MG:FORMIS:R2
