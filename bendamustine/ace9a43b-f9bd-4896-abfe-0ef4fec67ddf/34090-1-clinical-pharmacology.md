@@ -60,19 +60,14 @@ Bendamustine clearance in humans is approximately 700 mL/minute.
 
 Renal Impairment
 
-In a population pharmacokinetic analysis of bendamustine in patients receiving 120 mg/m2, there was no meaningful effect of renal impairment (CrCL 40 - 80 mL/min, N=31) on the pharmacokinetics of bendamustine.
-Bendamustine has not been studied in patients with CrCL < 40 mL/min.
-
-These results are however limited, and therefore bendamustine should be used with caution in patients with mild or moderate renal impairment.
-Bendamustine should not be used in patients with CrCL < 40 mL/min.
-[see Use in Specific Populations (8.6)]
+In a population pharmacokinetic analysis of bendamustine in patients receiving 120 mg/m2, there was no meaningful effect of renal impairment (CrCL 30 - 80 mL/min, N=31) on the pharmacokinetics of bendamustine.
+Bendamustine has not been studied in patients with CrCL < 30 mL/min and should not be used in these patients.
 
 Hepatic Impairment
 
 In a population pharmacokinetic analysis of bendamustine in patients receiving 120 mg/m2, there was no meaningful effect of mild (total bilirubin ≤ ULN, AST ≥ ULN to 2.5 x ULN, and/or ALP ≥ ULN to 5 x ULN, N=26) hepatic impairment on the pharmacokinetics of bendamustine.
 Bendamustine has not been studied in patients with moderate or severe hepatic impairment.
 
-These results are however limited, and therefore bendamustine should be used with caution in patients with mild hepatic impairment.
 Bendamustine should not be used in patients with moderate (AST or ALT 2.5 - 10 x ULN and total bilirubin 1.5 - 3 x ULN) or severe (total bilirubin > 3 x ULN) hepatic impairment.
 [see Use in Specific Populations (8.7)]
 

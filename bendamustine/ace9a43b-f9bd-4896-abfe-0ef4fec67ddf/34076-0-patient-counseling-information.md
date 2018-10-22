@@ -26,11 +26,8 @@ Men receiving BENDEKA (bendamustine hydrochloride) injection should use reliable
 Advise patients to report pregnancy immediately.
 Advise patients to avoid nursing while receiving BENDEKA (bendamustine hydrochloride) [see Use in Specific Populations (8.1) and (8.3)].
 
-BEN-005
+BEN-006
 
 Distributed By: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
-
-Rev.
-03/2018
 
 All rights reserved.
