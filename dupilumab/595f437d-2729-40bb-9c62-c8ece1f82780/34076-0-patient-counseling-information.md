@@ -15,31 +15,20 @@ Conjunctivitis and Keratitis
 
 Advise patients to consult their healthcare provider if new onset or worsening eye symptoms develop [see Warnings and Precautions (5.2)].
 
-Comorbid Asthma
+Eosinophilic Conditions
 
-Advise patients with comorbid asthma not to adjust or stop their asthma treatment without talking to their physicians [see Warnings and Precautions (5.3)].
+Advise patients to notify their healthcare provider if they present with clinical features of eosinophilic pneumonia or vasculitis consistent with eosinophilic granulomatosis with polyangiitis [see Warnings and Precautions (5.3)].
 
-REGENERON SANOFI GENZYME
+Not for Acute Asthma Symptoms or Deteriorating Disease
 
-Manufactured by:
+Inform patients that DUPIXENT does not treat acute asthma symptoms or acute exacerbations.
+Inform patients to seek medical advice if their asthma remains uncontrolled or worsens after initiation of treatment with DUPIXENT [see Warnings and Precautions (5.4)].
 
-Regeneron Pharmaceuticals, Inc.
+Reduction in Corticosteroid Dosage
 
-Tarrytown, NY 10591
+Inform patients to not discontinue systemic or inhaled corticosteroids except under the direct supervision of a physician.
+Inform patients that reduction in corticosteroid dose may be associated with systemic withdrawal symptoms and/or unmask conditions previously suppressed by systemic corticosteroid therapy [see Warnings and Precautions (5.5)].
 
-U.S. License No. 1760
+Atopic Dermatitis Patients with Comorbid Asthma
 
-Marketed by:
-
-sanofi-aventis U.S. LLC (Bridgewater, NJ 08807) and
-
-Regeneron Pharmaceuticals, Inc. (Tarrytown, NY 10591)
-
-DUPIXENT® is a registered trademark of Sanofi Biotechnology
-
-© 2017 Regeneron Pharmaceuticals, Inc. / sanofi-aventis U.S. LLC.
-All rights reserved.
-
-Revised: April 2018
-
-Initial U.S. Approval: 2017
+Advise atopic dermatitis patients with comorbid asthma not to adjust or stop their asthma treatment without talking to their physicians [see Warnings and Precautions (5.6)].
