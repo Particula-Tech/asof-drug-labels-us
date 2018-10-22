@@ -5,9 +5,10 @@
 Endothelin (ET)-1 and its receptors (ETA and ETB) mediate a variety of deleterious effects, such as vasoconstriction, fibrosis, proliferation, hypertrophy, and inflammation.
 In disease conditions such as PAH, the local ET system is upregulated and is involved in vascular hypertrophy and in organ damage.
 
-Macitentan is an endothelin receptor antagonist that prevents the binding of ET-1 to both ETA and ETB receptors.
+Macitentan is an endothelin receptor antagonist that inhibits the binding of ET-1 to both ETA and ETB receptors.
 Macitentan displays high affinity and sustained occupancy of the ET receptors in human pulmonary arterial smooth muscle cells.
 One of the metabolites of macitentan is also pharmacologically active at the ET receptors and is estimated to be about 20% as potent as the parent drug in vitro.
+The clinical impact of dual endothelin blockage is unknown.
 
 ## 12.2 Pharmacodynamics
 
@@ -37,7 +38,7 @@ Metabolism and Elimination
 
 Following oral administration, the apparent elimination half-lives of macitentan and its active metabolite are approximately 16 hours and 48 hours, respectively.
 Macitentan is metabolized primarily by oxidative depropylation of the sulfamide to form the pharmacologically active metabolite.
-This reaction is dependent on the cytochrome P450 (CYP) system, mainly CYP3A4 with a minor contribution of CYP2C19.
+This reaction is dependent on the cytochrome P450 (CYP) system, mainly CYP3A4 with minor contributions of CYP2C8, CYP2C9, and CYP2C19.
 At steady state in PAH patients, the systemic exposure to the active metabolite is 3-times the exposure to macitentan and is expected to contribute approximately 40% of the total pharmacologic activity.
 In a study in healthy subjects with radiolabeled macitentan, approximately 50% of radioactive drug material was eliminated in urine but none was in the form of unchanged drug or the active metabolite.
 About 24% of the radioactive drug material was recovered from feces.
@@ -56,8 +57,11 @@ Drug Interactions
 
 In vitro studies
 
-At plasma levels obtained with dosing at 10 mg once daily, macitentan has no relevant inhibitory or inducing effects on CYP enzymes, and is neither a substrate nor an inhibitor of the multi-drug resistance protein (P-gp, MDR-1).
-Macitentan and its active metabolite are neither substrates nor inhibitors of the organic anion transporting polypeptides (OATP1B1 and OATP1B3) and do not significantly interact with proteins involved in hepatic bile salt transport, i.e., the bile salt export pump (BSEP) and the sodium-dependent taurocholate co-transporting polypeptide (NTCP).
+At plasma levels obtained with dosing at 10 mg once daily, macitentan has no relevant inhibitory or inducing effects on CYP enzymes.
+Macitentan is not a substrate or inhibitor of multi-drug resistance protein (P-gp, MDR-1).
+The active metabolite of macitentan also is not an inhibitor of P-gp/MDR-1 at clinically relevant concentrations.
+
+Macitentan and its active metabolite are not expected to have significant interaction with drug transporters such as organic anion transporting polypeptide (OATP1B1, OATP1B3), multidrug and toxin extrusion protein (MATE-1, MATE-2K), bile salt export pump (BSEP), sodium-taurocholate co-transporting polypeptide (NTCP), organic cation transporter (OCT-1, OCT-3), organic anion transporter (OAT-1, OAT-3) or BCRP transporter at clinically relevant plasma concentrations.
 
 In vivo studies
 
@@ -73,3 +77,7 @@ Warfarin: Macitentan once daily dosing did not alter the exposure to R- and S-wa
 
 Sildenafil: At steady-state, the exposure to sildenafil 20 mg t.i.d. increased by 15% during concomitant administration of macitentan 10 mg once daily.
 This change is not considered clinically relevant.
+
+Hormonal contraceptives: Macitentan 10 mg once daily did not affect the pharmacokinetics of an oral contraceptive (norethisterone 1 mg and ethinyl estradiol 35 µg).
+
+BCRP Substrate drugs: Macitentan 10 mg once daily did not affect the pharmacokinetics of concomitant use of a BCRP substrate drug (rosuvastatin 10 mg).

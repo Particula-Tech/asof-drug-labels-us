@@ -3,6 +3,7 @@
 ## 14.1 Pulmonary Arterial Hypertension
 
 The effect of macitentan on progression of PAH was demonstrated in a multi-center, long-term (average duration of exposure approximately 2 years), placebo-controlled study in 742 patients with symptomatic [WHO functional class (FC) II-IV] PAH who were randomized to placebo (n=250), 3 mg macitentan (n=250), or 10 mg macitentan (n=242) once daily.
+Patients were treated with OPSUMIT monotherapy or in combination with phosphodiesterase-5 inhibitors or inhaled prostanoids.
 
 The primary study endpoint was time to the first occurrence of death, a significant morbidity event, defined as atrial septostomy, lung transplantation, initiation of IV or subcutaneous (SC) prostanoids, or "other worsening of PAH" during double-blind treatment plus 7 days.
 Other worsening was defined as all of the following: 1) a sustained ≥15% decrease from baseline in 6 minute walk distance (6MWD), 2) worsening of PAH symptoms (worsening of WHO FC), and 3) need for additional treatment for PAH.
@@ -63,3 +64,9 @@ Treatment with OPSUMIT 10 mg resulted in a placebo-corrected mean increase in 6M
 The increase in 6MWD achieved with OPSUMIT was maintained for the duration of the study.
 
 Treatment with OPSUMIT 10 mg led to an improvement of at least one WHO Functional Class at Month 6 in 22% of patients compared to 13% of patients treated with placebo.
+
+Long-Term Treatment of PAH
+
+In long-term follow-up of patients who were treated with OPSUMIT 10 mg in the placebo-controlled study (N=242) and the open-label extension study, Kaplan-Meier estimates of survival at 1, 2, 5, and 7 years were 95%, 89%, 73%, and 63% respectively.
+The median exposure to OPSUMIT was 4.6 years.
+These uncontrolled observations do not allow comparison with a group not given Opsumit and cannot be used to determine the long term-effect of Opsumit on mortality.
