@@ -1,8 +1,8 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Never Share a FIASP FlexTouch Pen Between Patients
+## 5.1 Never Share a FIASP FlexTouch Pen, PenFill Cartridge or PenFill Cartridge Device Between Patients
 
-FIASP FlexTouch disposable prefilled pen should never be shared between patients, even if the needle is changed.
+FIASP FlexTouch disposable prefilled pen, PenFill cartridge and PenFill cartridge devices should never be shared between patients, even if the needle is changed.
 Patients using FIASP vials should never share needles or syringes with another person.
 Sharing poses a risk for transmission of blood-borne pathogens.
 

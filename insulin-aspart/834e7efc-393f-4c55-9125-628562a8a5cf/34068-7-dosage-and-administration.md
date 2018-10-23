@@ -6,8 +6,7 @@
 - •Inspect visually for particulate matter and discoloration.
   Only use FIASP if the solution appears clear and colorless.
 - •Train patients on proper use and injection technique before initiating FIASP.
-- •Use FIASP FlexTouch pen with caution in patients with visual impairment that may rely
-- on audible clicks to dial their dose.
+- •Use FIASP FlexTouch pen with caution in patients with visual impairment that may rely on audible clicks to dial their dose.
 - •DO NOT administer FIASP intramuscularly.
 - •DO NOT dilute or mix FIASP with any other insulin products or solutions, except infusion fluids.
 

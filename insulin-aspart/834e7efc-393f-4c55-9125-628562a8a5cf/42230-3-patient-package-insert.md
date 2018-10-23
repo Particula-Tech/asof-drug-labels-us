@@ -158,14 +158,13 @@ Preparing your FIASP dose:
   This is especially important if you use more than 1 type of insulin.
 - •Check that the FIASP vial is not cracked or damaged.
   Do not use if the FIASP vial is cracked or damaged.
-- .
 - •FIASP should look clear and colorless.
   Do not use FIASP if it is thick, cloudy, or is colored.
 - •Do not use FIASP past the expiration date printed on the label.
 
 | Step 1: Pull off the tamper-resistant cap (See Figure A).Step 2: Wipe the rubber stopper with an alcohol swab (See Figure B). | (Figure A Figure B) |
 | --- | --- |
-| Step 3: Hold the syringe with the needle pointing up.Pull down on the plunger until the tip of the plunger reaches the line for the number of units for your prescribed dose (See Figure C). | (Figure C) |
+| Step 3: Hold the syringe with the needle pointing up. Pull down on the plunger until the tip of the plunger reaches the line for the number of units for your prescribed dose (See Figure C). | (Figure C) |
 | Step 4: Push the needle through the rubber stopper of the FIASP vial (See Figure D). | (Figure D) |
 | Step 5: Push the plunger all the way in. This puts air into the FIASP vial (See Figure E). | (Figure E) |
 | Step 6: Turn the FIASP vial and syringe upside down and slowly pull the plunger down until the tip of the plunger is a few units past the line for your dose (See Figure F).If there are air bubbles, tap the syringe gently a few times to let any air bubbles rise to the top (See Figure G). | (Figure F)(Figure G) |
@@ -178,11 +177,11 @@ Giving your FIASP injection:
 - •Inject your FIASP exactly as your healthcare provider has shown you.
   Your healthcare provider should tell you if you need to pinch the skin before injecting.
 - •You should take your dose of FIASP at the start of a meal or within 20 minutes after starting a meal.
-- •FIASPcan be injected under the skin (subcutaneously) of your stomach area, upper legs, or upper arms.
+- •FIASP can be injected under the skin (subcutaneously) of your stomach area, upper legs, or upper arms.
   Do not inject FIASP into your muscle.
 - •Change (rotate) your injection site for each injection.
   Do not use the same injection site for each injection.
-- •Do not dilute ormix FIASP with any other type of insulin products or solutions.
+- •Do not dilute or mix FIASP with any other type of insulin products or solutions.
 
 | Step 10: Choose your injection site and wipe the skin with an alcohol swab (See Figure J). Let the injectionsite dry before you inject your dose. | (Figure J) |
 | --- | --- |
@@ -196,20 +195,24 @@ After your injection:
 
 Disposing of your used needles and syringes:
 
-- •Put your used insulin needles and syringes in a FDA-cleared sharps disposal container right away after use.
-  Do not throw away (dispose of) loose needles and syringes in your household trash.
-- •If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
-  - •made of a heavy-duty plastic;
-  - •can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out;
-  - •upright and stable during use;
-  - •leak-resistant, and
-  - •properly labeled to warn of hazardous waste inside the container.
-- •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
-  There may be state or local laws about how you should throw away used needles and syringes.
-  Do not reuse or share needles or syringes with another person.
-  For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.
-- •Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
-  Do not recycle your used sharps disposal container.
+Put your used insulin needles and syringes in a FDA-cleared sharps disposal container right away after use.
+Do not throw away (dispose of) loose needles and syringes in your household trash.
+
+If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
+
+- •made of a heavy-duty plastic;
+- •can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out;
+- •upright and stable during use;
+- •leak-resistant, and
+- •properly labeled to warn of hazardous waste inside the container.
+
+When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
+There may be state or local laws about how you should throw away used needles and syringes.
+Do not reuse or share needles or syringes with another person.
+For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.
+
+Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
+Do not recycle your used sharps disposal container.
 
 How should I store FIASP?
 
@@ -217,7 +220,7 @@ How should I store FIASP?
   Do not use FIASP if it has been frozen.
 - •Keep FIASP away from excessive heat or light.
 - •Store unopened FIASP vials in the refrigerator at 36°F to 46°F (2°C to 8°C) or at room temperature below 86°F (30°C).
-- •Store opened FIASPvials in the refrigerator at 36°F to 46°F (2°C to 8°C) or at room temperature below 86°F (30°C).
+- •Store opened FIASP vials in the refrigerator at 36°F to 46°F (2°C to 8°C) or at room temperature below 86°F (30°C).
 - •Unopened FIASP vials may be used until the expiration date printed on the label, if they are kept in the refrigerator.
 - •If FIASP vials are stored at room temperature prior to first use, they should be used or thrown away within 28 days.
 - •Opened FIASP vials should be thrown away after 28 days, even if they still have insulin left in them.
@@ -227,7 +230,7 @@ General information about the safe and effective use of FIASP
 - •Always use a new syringe and needle for each injection to help ensure sterility and prevent blocked needles.
 - •Do not reuse or share syringes or needles with other people.
   You may give other people a serious infection or get a serious infection from them.
-- •Keep FIASPvials, syringes, and needles out of the reach of children.
+- •Keep FIASP vials, syringes, and needles out of the reach of children.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
@@ -310,7 +313,7 @@ Selecting your dose:
 
 | Step 10:Check to make sure the dose selector is set at 0. •Turn the dose selector to select the number of units you need to inject. The dose pointer should line up with your dose (See Figure K). •If you select the wrong dose, you can turn the dose selector forwards or backwards to the correct dose.•The even numbers are printed on the dial.•The odd numbers are shown as lines. |  |
 | --- | --- |
-| •The FIASP FlexTouch Pen insulin scale will show you how much insulin is left in your Pen (See Figure L). |  |
+| The FIASP FlexTouch Pen insulin scale will show you how much insulin is left in your Pen (See Figure L). |  |
 | •To see how much insulin is left in your FIASP FlexTouch Pen: •Turn the dose selector until it stops. The dose counter will line up with the number of units of insulin that is left in your Pen. If the dose counter shows 80, there are at least 80 units left in your Pen.•If the dose counter shows less than 80, the number shown in the dose counter is the number of units left in your Pen. |  |
 
 Giving your injection:
@@ -336,11 +339,11 @@ After your injection:
 - •Put your used FIASP FlexTouch Pen and needles in a FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) loose needles and Pens in your household trash.
 - •If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
-- •made of a heavy-duty plastic
-- •can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out
-- •upright and stable during use
-- •leak-resistant
-- •properly labeled to warn of hazardous waste inside the container
+- omade of a heavy-duty plastic
+- ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out
+- oupright and stable during use
+- oleak-resistant
+- oproperly labeled to warn of hazardous waste inside the container
 - •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
   There may be state or local laws about how you should throw away used needles and syringes.
   Do not reuse or share needles or syringes with another person.
@@ -386,3 +389,216 @@ For more information go to
 www.FIASPflextouch.com
 
 © 2018 Novo Nordisk
+
+Instructions for Use
+
+Fiasp®(fee’asp) PenFill® 3 mL cartridge 100 Units/mL (U-100)
+
+(insulin aspart injection)
+
+- •Do not share your PenFill cartridge or PenFill cartridge compatible insulin delivery device with other people, even if the needle has been changed.
+  You may give other people a serious infection, or get a serious infection from them.
+- •Your healthcare provider should show you or your caregiver how to inject FIASP the right way before you inject it for the first time.
+- •FIASP PenFillcartridge 100 Units/mL is a prefilled cartridge containing 300 units of U-100 FIASP (insulin aspart injection).
+- •After you insert the PenFill cartridge in your device, you can use it for multiple injections.
+  Read the instruction manual that comes with your insulin delivery device for complete instructions on how to use the PenFill cartridge with the device.
+- •This PenFill cartridge is not recommended for use by the blind or visually impaired without the assistance of a person trained in the proper use of the product and your insulin delivery device.
+- •If using a new FIASP PenFill cartridge, start with Step 1.
+- •If the FIASP PenFill cartridge has already been used, start with Step 2.
+
+Supplies you will need to give your FIASP injection:
+
+- •FIASP PenFill cartridge
+- •Novo Nordisk 3 mL PenFill cartridge compatible insulin delivery device
+- •1 new NovoFine®, NovoFine® Plus, or NovoTwist® needle
+- •Alcohol swab
+- •Adhesive bandage
+- •Cotton gauze
+- •A sharps container for throwing away used PenFill cartridges and needles.
+  See “After your injection” at the end of these instructions.
+
+(Figure A)
+
+How to use the FIASP PenFill cartridge
+
+- •Wash your hands with soap and water.
+- •Before you start to prepare your injection, check the FIASPPenFill cartridge label to make sure that it contains the insulin you need.
+  This is especially important if you take more than 1 type of insulin.
+- •The tamper-resistant foil should be in place before the first use.
+  If the foil has been broken or removed before your first use of the cartridge, do not use it.
+  Call Novo Nordisk at 1-800-727-6500.
+- •Carefully look at the cartridge and the insulin inside it.
+  Check that the FIASP cartridge:
+  - ois not damaged, for example cracked or leaking
+  - ois not loose on the threaded end
+- •FIASP should look clear and colorless.
+  Do not use FIASP if it is cloudy or colored or if the threaded end is loose (See Figure B).
+
+(Figure B)
+
+Step 1:
+
+- •Insert a 3 mL cartridge with the threaded end first into your Novo Nordisk 3 mL PenFill cartridge compatible insulin delivery device (See Figure C).
+- •If you drop your device, check the insulin cartridge for damage such as cracks or leaking.
+  If your cartridge is damaged, throw it away and use a new one.
+
+(Figure C)
+
+Prepare your device with a new needle
+
+Step 2:
+
+- •Take a new needle, and tear off the paper tab.
+  Always use a new needle for each injection to make sure the needle is free of germs (sterile) and to prevent blocked needles.
+  Do not attach a new needle to your device until you are ready to give your injection.
+  Do not reuse or share your needles with other people.
+  You may give others a serious infection, or get a serious infection from them.
+- •Be careful not to bend or damage the needle before you use it.
+- •Push the needle straight onto the device.
+  Turn the needle clockwise until it is on tight(See Figure D).
+
+(Figure D)
+
+Step 3:
+
+- •Pull off the outer needle cap (See Figure E). Do not throw it away.
+  You will need it after the injection to safely remove the needle.
+
+(Figure E)
+
+Step 4:
+
+- •Pull off the inner needle cap and throw it away (See Figure F). Do not try to put the inner needle cap back on the needle.
+
+(Figure F)
+
+A drop of insulin may appear at the needle tip.
+This is normal, but you must still check the insulin flow.
+
+Check the insulin flow
+
+Step 5:
+
+- •Small amounts of air may collect in the cartridge during normal use.
+  You must do an airshot before each injection to avoid injecting air and to make sure you receive the prescribed dose of your medicine.
+- •Do the airshot as described in the instruction manual that comes with your device.
+- •Keep testing your Novo Nordisk 3 mL PenFill cartridge compatible insulin delivery device until you see insulin at the needle tip.
+  If you still do not see a drop of insulin after 6 times, change the needle and repeat this step.
+  This makes sure that any air bubbles are removed and that insulin is getting through the needle (See Figure G).
+
+(Figure G)
+
+Select your dose
+
+Step 6:
+
+- •Check to make sure that the dose counter is set to 0.
+- •Turn the dose selector clockwise to select the dose you need to inject (See Figure H). The pointer should line up with your dose.
+  When turning the dose selector, be careful not to press the dose button as insulin will come out.
+  You will hear a click for every single unit dialed.
+  Do not set the dose by counting the number of clicks you hear because you may get an incorrect dose.
+- •Refer to your insulin delivery device manual if necessary.
+
+(Figure H)
+
+Inject your dose
+
+Step 7:
+
+- •Do the injection exactly as shown to you by your healthcare provider.
+  Your healthcare provider should tell you if you need to pinch the skin before injecting.
+- •You should take your dose of FIASP at the start of a meal or within 20 minutes after starting a meal.
+- •FIASP can be injected under the skin (subcutaneously) of your stomach area (abdomen), upper legs (thighs), or upper arms (See Figure I).
+
+(Figure I)
+
+- •For each injection, change (rotate) your injection site within the area of skin that you use.
+  Do not use the same injection site for each injection.
+- •Clean your injection site with an alcohol swab.
+  Let your skin dry.
+  Do not touch this area again before injecting.
+- •Insert the needle into your skin.
+  Press and hold down the dose button until the dose counter shows “0”.
+  Continue to keep the dose button pressed and keep the needle in your skin and slowly count to 6 (see Figure J).
+- •Remove the needle from your skin.
+
+(Figure J)
+
+You may see a drop of FIASP at the needle tip after injecting.
+This is normal and has no effect on the dose you just received.
+If blood appears after you take the needle out of your skin, press the injection site lightly with a cotton gauze and cover with an adhesive bandage, if necessary.
+Do not rub the area.
+
+After your injection
+
+Step 8:
+
+- •Lay your outer needle cap on a flat surface.
+  Carefully, lead the needle tip into the outer needle cap without touching the needle (See Figure K) and push the outer needle cap completely on.
+
+(Figure K)
+
+- •Hold the black cartridge holder on the insulin delivery device and unscrew the needle counterclockwise (See Figure L).
+
+(Figure L)
+
+- •Throw away (dispose of) the needle in an FDA-cleared sharps container as your healthcare professional has instructed you.
+- •Put your empty FIASP PenFill cartridge and used needles in a FDA-cleared sharps disposal container right away after use.
+  Do not throw away (dispose of) loose needles and PenFill cartridges in your household trash.
+- •If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
+- omade of a heavy-duty plastic
+- ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out
+- oupright and stable during use
+- oleak-resistant
+- oproperly labeled to warn of hazardous waste inside the container
+- •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
+  There may be state or local laws about how you should throw away used needles and syringes.
+  Do not reuse or share your needles or syringes with other people.
+  For more information about the safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.
+- •Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
+  Do not recycle your used sharps disposal container.
+
+Step 9:
+
+- •Keep the 3 mL PenFill cartridge in the device.
+  Do not store your device with a needle attached.
+  This will prevent infection or leakage of insulin and will make sure that you receive the right dose of FIASP.
+- •Put the pen cap on your device after each use to protect the insulin from light (See Figure M).
+
+(Figure M)
+
+How should I store my FIASP PenFill cartridge?
+
+Before use:
+
+- •Store unused FIASP PenFill cartridges in the refrigerator at 36°F to 46°F (2°C to 8°C).
+- •Do not freeze FIASP.
+  Do not use FIASP if it has been frozen.
+- •Unused PenFill cartridges may be used until the expiration date printed on the label, if kept in the refrigerator.
+- •If FIASP is stored mistakenly outside of refrigeration between 47°F (9°C) to 86°F (30°C) prior to first use, it should be used within 28 days or thrown away.
+
+PenFill cartridges in use:
+
+- •Store the PenFill cartridgeyou are currently using in the insulin delivery device at room temperature below 86°F (30°C) for up to 28 days.
+  Do not refrigerate.
+- •Keep FIASP away from heat or light.
+- •The FIASP PenFill cartridge you are using should be thrown away after 28 days, even if it still has insulin left in it.
+
+General Information about the safe and effective use of FIASP.
+
+- •Keep FIASP PenFill cartridges and needles out of the reach of children.
+- •Do not share FIASP PenFill cartridgesor needles with other people.
+  You may give other people a serious infection, or get a serious infection from them.
+- •Always carry extra insulin of the same type(s) you use in case of loss or damage.
+
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
+
+© 2018 Novo Nordisk
+
+Manufactured by:
+
+Novo Nordisk A/S
+
+DK-2880 Bagsvaerd, Denmark
+
+Revised: 09/2018

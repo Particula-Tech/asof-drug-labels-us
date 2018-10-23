@@ -2,9 +2,9 @@
 
 Advise the patient to read the FDA-Approved Patient Labeling (Patient Information and Instructions for Use).
 
-Never Share a FIASP FlexTouch Pen Device Between Patients
+Never Share a FIASP FlexTouch Pen Device, PenFill Cartridge or PenFill Cartridge Device Between Patients
 
-Advise patients that they should never share a FIASP FlexTouch pen device with another person, even if the needle is changed, because doing so carries a risk for transmission of blood-borne pathogens.
+Advise patients that they should never share a FIASP FlexTouch pen device, PenFill cartridge or PenFill cartridge devices with another person, even if the needle is changed, because doing so carries a risk for transmission of blood-borne pathogens.
 Advise patients using FIASP vials not to share needles or syringes with another person.
 Sharing poses a risk for transmission of blood-borne pathogens [see Warnings and Precautions (5.1)].
 
@@ -43,9 +43,9 @@ Instruct patients on basal-bolus treatment who forget a mealtime dose to monitor
 
 Date of Issue: 09/2018
 
-Version: 2
+Version: 3
 
-Novo Nordisk®, FIASP®, NovoLog®, FlexTouch®, NovoFine®, and NovoTwist® are registered trademarks of Novo Nordisk A/S.
+Novo Nordisk®, FIASP®, NovoLog®, FlexTouch®, and PenFill® are registered trademarks of Novo Nordisk A/S.
 
 PATENT Information: http://novonordisk-us.com/patients/products/product-patents.html
 
