@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA206323"
+  ],
+  "inn": "codeine",
+  "labeler": "Mainpointe Pharmaceuticals",
+  "package_ndcs": [
+    "71269-040-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "codeine phosphate and chlorpheniramine maleate",
+      "name": "Tuxarin"
+    }
+  ],
+  "setid": "a7cfab67-6087-4ab4-b7cd-4f9295413180",
+  "source": "dailymed"
+}
