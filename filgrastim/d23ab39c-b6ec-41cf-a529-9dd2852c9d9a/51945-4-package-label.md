@@ -1,12 +1,14 @@
 # PRINCIPAL DISPLAY PANEL - 1 mL Vial Label
 
-1 mL Single-Dose Vial
+NDC 0069-0293-01 Rx Only
 
 Nivestym™ (filgrastim-aafi) Injection
 
 300 mcg/mL
 
-Mfd. by Hospira, Inc., a Pfizer Company, Lake Forest, IL 60045 USA US License No. 1974
+1 mL Single-Dose Vial
+
+Pfizer Biosimilars
 
 # PRINCIPAL DISPLAY PANEL - 1 mL Vial Carton
 
@@ -14,27 +16,29 @@ Mfd. by Hospira, Inc., a Pfizer Company, Lake Forest, IL 60045 USA US License No
 
 NDC 0069-0293-10 Rx Only
 
-Pfizer
-
 Nivestym™ (filgrastim-aafi) Injection
 
 300 mcg/mL
+
+A recombinant Granulocyte Colony Stimulating Factor (rG-CSF) derived from E. coli
 
 For Intravenous or Subcutaneous Use Only
 
 Sterile Solution - No Preservative
 
-A recombinant Granulocyte Colony Stimulating Factor (rG-CSF) derived from E. coli
+Pfizer Biosimilars
 
 # PRINCIPAL DISPLAY PANEL - 1.6 mL Vial Label
 
-1.6 mL Single-Dose Vial
+NDC 0069-0294-01 Rx Only
 
 Nivestym™ (filgrastim-aafi) Injection
 
 480 mcg/1.6 mL
 
-Mfd. by Hospira, Inc., a Pfizer Company, Lake Forest, IL 60045 USA US License No. 1974
+1.6 mL Single-Dose Vial
+
+Pfizer Biosimilars
 
 # PRINCIPAL DISPLAY PANEL - 1.6 mL Vial Carton
 
@@ -42,75 +46,75 @@ Mfd. by Hospira, Inc., a Pfizer Company, Lake Forest, IL 60045 USA US License No
 
 NDC 0069-0294-10 Rx Only
 
-Pfizer
-
 Nivestym™ (filgrastim-aafi) Injection
 
 480 mcg/1.6 mL
+
+A recombinant Granulocyte Colony Stimulating Factor (rG-CSF) derived from E. coli
 
 For Intravenous or Subcutaneous Use Only
 
 Sterile Solution - No Preservative
 
-A recombinant Granulocyte Colony Stimulating Factor (rG-CSF) derived from E. coli
+Pfizer Biosimilars
 
 # PRINCIPAL DISPLAY PANEL - 0.5 mL Syringe Label
 
-Nivestym™ (filgrastim-aafi) Injection
+NDC 0069-0291-01 Rx Only
 
-NDC 0069-0292-01 Rx Only For Subcutaneous Use Only Mfd by Hospira Inc, a Pfizer Company, Lake Forest, IL 60045 USA
+Nivestym™ (filgrastim-aafi) Injection
 
 300 mcg/0.5 mL
 
-Single-Dose Prefilled Syringe with Needle Guard
+Single-Dose Prefilled Syringe with Needle Guard For Subcutaneous Use Only Mfd by Hospira Inc, a Pfizer Company, Lake Forest, IL 60045 USA
 
 US License No. 1974
 
-# PRINCIPAL DISPLAY PANEL - 0.5 mL Syringe Carton - 2431
+# PRINCIPAL DISPLAY PANEL - 0.5 mL Syringe Carton - 71002448
 
-Pfizer
+1 x 300 mcg/0.5 mL Single-Dose Prefilled Syringe with Needle Guard
 
-Nivestym™ (filgrastim-aafi) Injection
-
-1 x 300 mcg/0.5 mL Single-Dose Prefilled Syringe with Needle Guard Discard unused portion.
-
-NDC 0069-0291-01 Rx Only
-
-A recombinant Granulocyte Colony Stimulating Factor (rG-CSF) derived from E. coli
-
-300 mcg/0.5 mL
+Discard unused portion.
 
 Refrigerate at 2° to 8°C (36° to 46°F).
 Do Not Freeze or Shake.
 Protect from light.
 
-The syringe plunger stopper and needle cover are not made with natural rubber latex.
-
-Subcutaneous Use Only Sterile Solution - No Preservative
-
-# PRINCIPAL DISPLAY PANEL - 0.5 mL Syringe Carton - 2433
-
-Pfizer
+Subcutaneous Use Only
 
 Nivestym™ (filgrastim-aafi) Injection
 
 300 mcg/0.5 mL
 
-1 x 300 mcg/0.5 mL Single-Dose Prefilled Syringe with Needle Guard Discard unused portion.
+A recombinant Granulocyte Colony Stimulating Factor (rG-CSF) derived from E. coli
+
+Pfizer Biosimilars
 
 NDC 0069-0291-01 Rx Only
 
-A recombinant Granulocyte Colony Stimulating Factor (rG-CSF) derived from E. coli
+The syringe plunger stopper and needle cover are not made with natural rubber latex.
 
-Subcutaneous Use Only Sterile Solution - No Preservative
+Sterile Solution - No Preservative
 
-# PRINCIPAL DISPLAY PANEL - 0.5 mL Syringe Carton - 2434
-
-10 x 300 mcg/0.5 mL Single-Dose Prefilled Syringe with Needle Guard Discard unused portion.
+# PRINCIPAL DISPLAY PANEL - 0.5 mL Syringe Carton - 10 Pk
 
 NDC 0069-0291-10 Rx Only
 
-Pfizer
+Nivestym™ (filgrastim-aafi) Injection
+
+300 mcg/0.5 mL
+
+10 x 300 mcg/0.5 mL Single-Dose Prefilled Syringe with Needle Guard Discard unused portion.
+
+A recombinant Granulocyte Colony Stimulating Factor (rG-CSF) derived from E. coli
+
+Subcutaneous Use Only Sterile Solution - No Preservative
+
+Pfizer Biosimilars
+
+# PRINCIPAL DISPLAY PANEL - 0.5 mL Syringe Carton - 71002449
+
+NDC 0069-0291-01 Rx Only
 
 Nivestym™ (filgrastim-aafi) Injection
 
@@ -118,65 +122,69 @@ Nivestym™ (filgrastim-aafi) Injection
 
 A recombinant Granulocyte Colony Stimulating Factor (rG-CSF) derived from E. coli
 
+1 x 300 mcg/0.5 mL Single-Dose Prefilled Syringe with Needle Guard Discard unused portion.
+
 Subcutaneous Use Only Sterile Solution - No Preservative
+
+Pfizer Biosimilars
 
 # PRINCIPAL DISPLAY PANEL - 0.8 mL Syringe Label
 
-Nivestym™ (filgrastim-aafi) Injection
+NDC 0069-0292-01 Rx Only
 
-NDC 0069-0291-01 Rx Only For Subcutaneous Use Only Mfd by Hospira Inc, a Pfizer Company, Lake Forest, IL 60045 USA
+Nivestym™ (filgrastim-aafi) Injection
 
 480 mcg/0.8 mL
 
-Single-Dose Prefilled Syringe with Needle Guard
+Single-Dose Prefilled Syringe with Needle Guard For Subcutaneous Use Only Mfd by Hospira Inc, a Pfizer Company, Lake Forest, IL 60045 USA
 
 US License No. 1974
 
-# PRINCIPAL DISPLAY PANEL - 0.8 mL Sryinge Carton - 2432
+# PRINCIPAL DISPLAY PANEL - 0.8 mL Syringe Carton - 71002447
 
-Pfizer
+1 x 480 mcg/0.8 mL Single-Dose Prefilled Syringe with Needle Guard
 
-Nivestym™ (filgrastim-aafi) Injection
-
-1 x 480 mcg/0.8 mL Single-Dose Prefilled Syringe with Needle Guard Discard unused portion.
-
-NDC 0069-0292-01 Rx Only
-
-A recombinant Granulocyte Colony Stimulating Factor (rG-CSF) derived from E. coli
-
-480 mcg/0.8 mL
-
-Subcutaneous Use Only Sterile Solution - No Preservative
+Discard unused portion.
 
 Refrigerate at 2° to 8°C (36° to 46°F).
 Do Not Freeze or Shake.
 Protect from light.
 
-The syringe plunger stopper and needle cover are not made with natural rubber latex.
-
-# PRINCIPAL DISPLAY PANEL - 0.8 mL Sryinge Carton - 2435
-
-Pfizer
+Subcutaneous Use Only
 
 Nivestym™ (filgrastim-aafi) Injection
 
-1 x 480 mcg/0.8 mL Single-Dose Prefilled Syringe with Needle Guard Discard unused portion.
+480 mcg/0.8 mL
+
+A recombinant Granulocyte Colony Stimulating Factor (rG-CSF) derived from E. coli
+
+Pfizer Biosimilars
 
 NDC 0069-0292-01 Rx Only
 
+The syringe plunger stopper and needle cover are not made with natural rubber latex.
+
+Sterile Solution - No Preservative
+
+# PRINCIPAL DISPLAY PANEL - 0.8 mL Syringe Carton - 10 Pk
+
+NDC 0069-0292-10 Rx Only
+
+Nivestym™ (filgrastim-aafi) Injection
+
 480 mcg/0.8 mL
+
+10 x 480 mcg/0.8 mL Single-Dose Prefilled Syringe with Needle Guard Discard unused portion.
 
 A recombinant Granulocyte Colony Stimulating Factor (rG-CSF) derived from E. coli
 
 Subcutaneous Use Only Sterile Solution - No Preservative
 
-# PRINCIPAL DISPLAY PANEL - 0.8 mL Sryinge Carton - 2436
+Pfizer Biosimilars
 
-10 x 480 mcg/0.8 mL Single-Dose Prefilled Syringe with Needle Guard Discard unused portion.
+# PRINCIPAL DISPLAY PANEL - 0.8 mL Syringe Carton - 71002451
 
-NDC 0069-0292-10 Rx Only
-
-Pfizer
+NDC 0069-0292-01 Rx Only
 
 Nivestym™ (filgrastim-aafi) Injection
 
@@ -184,4 +192,8 @@ Nivestym™ (filgrastim-aafi) Injection
 
 A recombinant Granulocyte Colony Stimulating Factor (rG-CSF) derived from E. coli
 
+1 x 480 mcg/0.8 mL Single-Dose Prefilled Syringe with Needle Guard Discard unused portion.
+
 Subcutaneous Use Only Sterile Solution - No Preservative
+
+Pfizer Biosimilars
