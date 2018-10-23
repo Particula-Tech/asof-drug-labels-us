@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA209795"
+  ],
+  "inn": "clobazam",
+  "labeler": "Camber Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "31722-639-01",
+    "31722-639-31",
+    "31722-640-01",
+    "31722-640-31"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "clobazam",
+      "name": "Clobazam"
+    }
+  ],
+  "setid": "cf31b8d1-0d19-4529-99b6-1f7366064a3c",
+  "source": "dailymed"
+}
