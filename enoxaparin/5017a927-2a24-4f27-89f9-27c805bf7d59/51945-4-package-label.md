@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 30mg/0.3mL Syringe Carton
+# PRINCIPAL DISPLAY PANEL - 30 mg/0.3 mL Syringe Carton
 
 NDC 0075-0624-30
 
@@ -14,7 +14,7 @@ Ten 0.3mL Syringes
 
 SANOFI
 
-# PRINCIPAL DISPLAY PANEL - 40mg/0.4mL Syringe Carton
+# PRINCIPAL DISPLAY PANEL - 40 mg/0.4 mL Syringe Carton
 
 NDC 0075-0620-40
 
@@ -30,7 +30,7 @@ Ten 0.4mL Syringes
 
 SANOFI
 
-# PRINCIPAL DISPLAY PANEL - 60mg/0.6mL Syringe Carton
+# PRINCIPAL DISPLAY PANEL - 60 mg/0.6 mL Syringe Carton
 
 NDC 0075-0621-60
 
@@ -46,7 +46,7 @@ Ten 0.6mL Syringes
 
 SANOFI
 
-# PRINCIPAL DISPLAY PANEL - 80mg/0.8mL Syringe Carton
+# PRINCIPAL DISPLAY PANEL - 80 mg/0.8 mL Syringe Carton
 
 NDC 0075-0622-80
 
@@ -62,13 +62,13 @@ Ten 0.8mL Syringes
 
 SANOFI
 
-# PRINCIPAL DISPLAY PANEL - 100mg/1mL Syringe Carton
+# PRINCIPAL DISPLAY PANEL - 100 mg/1 mL Syringe Carton
 
 NDC 0075-0623-00
 
 LOVENOX® (enoxaparin sodium injection)
 
-100mg/1mL
+100mg/1 mL
 
 Rx ONLY
 
@@ -78,7 +78,7 @@ Ten 1mL Syringes
 
 SANOFI
 
-# PRINCIPAL DISPLAY PANEL - 300mg/3mL Vial Carton
+# PRINCIPAL DISPLAY PANEL - 300 mg/3 mL Vial Carton
 
 NDC 0075-0626-03
 
@@ -96,7 +96,7 @@ One 3mL Vial
 
 SANOFI
 
-# PRINCIPAL DISPLAY PANEL - 120mg/0.8mL Syringe Carton
+# PRINCIPAL DISPLAY PANEL - 120 mg/0.8 mL Syringe Carton
 
 NDC 0075-2912-01
 
@@ -112,13 +112,13 @@ Ten 0.8mL Syringes
 
 SANOFI
 
-# PRINCIPAL DISPLAY PANEL - 150mg/1mL Syringe Carton
+# PRINCIPAL DISPLAY PANEL - 150 mg/1 mL Syringe Carton
 
 NDC 0075-2915-01
 
 LOVENOX® (enoxaparin sodium injection)
 
-150mg/1mL
+150mg/1 mL
 
 Rx ONLY
 
