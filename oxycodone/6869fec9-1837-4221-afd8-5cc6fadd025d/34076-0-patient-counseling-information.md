@@ -17,17 +17,17 @@ Instruct patients not to share Oxycodone Hydrochloride Oral Solution with others
 
 Life-Threatening Respiratory Depression
 
-Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting Oxycodone Hydrochloride Oral Solution or when the dosage is increased, and that it can occur even at recommended dosages [see Warnings and Precautions (5.3)].
+Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting Oxycodone Hydrochloride Oral Solution or when the dosage is increased, and that it can occur even at recommended dosages [see Warnings and Precautions (5.4)].
 Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.
 
 Accidental Ingestion
 
-Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.3].
+Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.4].
 Instruct patients to take steps to store Oxycodone Hydrochloride Oral Solution securely and to dispose of unused Oxycodone Hydrochloride Oral Solution by flushing down the toilet.
 
 Interactions with Benzodiazepines and Other CNS Depressants
 
-Inform patients and caregivers that potentially fatal additive effects may occur if Oxycodone Hydrochloride Oral Solution is used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a health care provider [see Warnings and Precautions (5.6), Drug Interactions (7)].
+Inform patients and caregivers that potentially fatal additive effects may occur if Oxycodone Hydrochloride Oral Solution is used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a health care provider [see Warnings and Precautions (5.7), Drug Interactions (7)].
 
 Serotonin Syndrome
 
@@ -45,7 +45,7 @@ Adrenal Insufficiency
 
 Inform patients that opioids could cause adrenal insufficiency, a potentially life-threatening condition.
 Adrenal insufficiency may present with non-specific symptoms and signs such as nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
-Advise patients to seek medical attention if they experience a constellation of these symptoms [see Warnings and Precautions (5.8)].
+Advise patients to seek medical attention if they experience a constellation of these symptoms [see Warnings and Precautions (5.9)].
 
 Important Administration Instructions
 
@@ -62,7 +62,7 @@ Provide a dose schedule to accomplish a gradual discontinuation of the medicatio
 Hypotension
 
 Inform patients that Oxycodone Hydrochloride Oral Solution may cause orthostatic hypotension and syncope.
-Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) [see Warnings and Precautions (5.9)].
+Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) [see Warnings and Precautions (5.10)].
 
 Anaphylaxis
 
@@ -73,7 +73,7 @@ Pregnancy
 
 Neonatal Opioid Withdrawal Syndrome
 
-Inform female patients of reproductive potential that prolonged use of Oxycodone Hydrochloride Oral Solution during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
+Inform female patients of reproductive potential that prolonged use of Oxycodone Hydrochloride Oral Solution during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.5), Use in Specific Populations (8.1)].
 
 Embryo-Fetal Toxicity
 
@@ -87,12 +87,12 @@ Instruct nursing mothers to seek immediate medical care if they notice these sig
 Infertility
 
 Inform patients that chronic use of opioids may cause reduced fertility.
-It is not known whether these effects on fertility are reversible [see Use in Specific Populations (8.3].
+It is not known whether these effects on fertility are reversible [see Use in Specific Populations (8.3)].
 
 Driving or Operating Heavy Machinery
 
 Inform patients that Oxycodone Hydrochloride Oral Solution may impair the ability to perform potentially hazardous activities such as driving a car or operating heavy machinery.
-Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.14)].
+Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.15)].
 
 Constipation
 
