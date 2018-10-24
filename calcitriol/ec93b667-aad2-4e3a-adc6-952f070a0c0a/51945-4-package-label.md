@@ -1,7 +1,5 @@
 # Package/Label Display Panel
 
-## Calcitriol Capsules 0.25 mcg, 100s Label Text
-
 NDC 0093-7352-01
 
 Calcitriol
@@ -17,8 +15,6 @@ Rx only
 TEVA
 
 # Package/Label Display Panel
-
-## Calcitriol Capsules 0.5 mcg, 100s Label Text
 
 NDC 0093-7353-01
 
