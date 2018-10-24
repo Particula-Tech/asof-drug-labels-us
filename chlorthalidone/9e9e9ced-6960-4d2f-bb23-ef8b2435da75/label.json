@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA210742"
+  ],
+  "inn": "chlorthalidone",
+  "labeler": "Dr. Reddy's Laboratories Inc.",
+  "package_ndcs": [
+    "43598-719-01",
+    "43598-719-10",
+    "43598-720-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "chlorthalidone",
+      "name": "CHLORTHALIDONE"
+    }
+  ],
+  "setid": "9e9e9ced-6960-4d2f-bb23-ef8b2435da75",
+  "source": "dailymed"
+}
