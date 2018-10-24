@@ -8,5 +8,5 @@ Manufactured for Daiichi Sankyo, Inc., Basking Ridge, NJ 07920
 
 Rx Only
 
-Copyright © Daiichi Sankyo, Inc.2017.
+Copyright © Daiichi Sankyo, Inc. 2017.
 All rights reserved.

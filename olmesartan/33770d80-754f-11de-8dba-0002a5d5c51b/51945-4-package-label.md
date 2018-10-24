@@ -1,11 +1,11 @@
 # PRINCIPAL DISPLAY PANEL
 
-NDC 65597-101-30 Benicar (olmesartan medoxomil) 5 mg 30 Tablets Rx Only
+NDC 65597-101-30 TABLETS Benicar (olmesartan medoxomil) 5 mg 30 TABLETS Rx Only
 
 # PRINCIPAL DISPLAY PANEL
 
-NDC 65597-103-30 Benicar (olmesartan medoxomil) 20 mg 30 Tablets Rx Only
+NDC 65597-103-30 TABLETS Benicar (olmesartan medoxomil) 20 mg 30 TABLETS Rx Only
 
 # PRINCIPAL DISPLAY PANEL
 
-NDC 65597-104-30 Benicar (olmesartan medoxomil) 40 mg 30 Tablets Rx Only
+NDC 65597-104-30 TABLETS Benicar (olmesartan medoxomil) 40 mg 30 TABLETS Rx Only

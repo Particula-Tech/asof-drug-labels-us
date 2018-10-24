@@ -60,7 +60,7 @@ Geriatric
 
 The pharmacokinetics of olmesartan were studied in the elderly (≥65 years).
 Overall, maximum plasma concentrations of olmesartan were similar in young adults and the elderly.
-Modest accumulation of olmesartan was observed in the elderly with repeated dosing; AUCss, was 33% higher in elderly patients, corresponding to an approximate 30% reduction in CLR [see Dosage and Administration (2.1) and Use in Specific Populations (8.5)].
+Modest accumulation of olmesartan was observed in the elderly with repeated dosing; AUCss,τ was 33% higher in elderly patients, corresponding to an approximate 30% reduction in CLR [see Dosage and Administration (2.1) and Use in Specific Populations (8.5)].
 
 Pediatric
 
