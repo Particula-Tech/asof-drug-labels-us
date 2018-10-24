@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020784"
+  ],
   "inn": "triamcinolone-acetonide",
-  "labeler": "Aventis Pharmaceuticals Inc.",
+  "labeler": "sanofi-aventis U.S. LLC",
   "package_ndcs": [
     "0075-9403-43"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "AEROSOL, METERED",
+      "generic": "triamcinolone acetonide",
+      "name": "Nasacort HFA"
+    }
+  ],
   "setid": "17281fd4-f7b3-44cf-971f-491eba72d5d7",
   "source": "dailymed"
 }
