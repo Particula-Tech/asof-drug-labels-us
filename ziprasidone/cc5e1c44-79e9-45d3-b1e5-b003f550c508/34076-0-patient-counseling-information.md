@@ -6,7 +6,7 @@ To assure safe and effective use of ziprasidone hydrochloride, the information a
 
 ## 17.1 Administration with Food
 
-Patients should be instructed to take ziprasidone hydrochloride capsules with food for optimal absorption.
+Patients should be instructed to take ziprasidone capsules with food for optimal absorption.
 The absorption of ziprasidone is increased up to two-fold in the presence of food [see Drug Interactions (7.8) and Clinical Pharmacology (12.3)].
 
 ## 17.2 QTc Prolongation

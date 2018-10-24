@@ -112,7 +112,7 @@ Table 1: Glucose* Mean Change from Baseline in Short-Term (up to 6 weeks), Place
 | Ziprasidone |  |  |  |  |  | Placebo |
 | 5 mg BID | 20 mg BID | 40 mg BID | 60 mg BID | 80 mg BID | 100 mg BID |  |
 | -1.1 (N=45) | +2.4 (N=179) | -0.2 (N=146) | -0.5 (N=119) | -1.7 (N=104) | +4.1 (N=85) | +1.4 (N=260) |
-| * “Random” glucose measurements—fasting/non-fasting status unknown |  |  |  |  |  |  |
+| *“Random” glucose measurements—fasting/non-fasting status unknown |  |  |  |  |  |  |
 
 Table 2: Glucose* Categorical Changes in Short-Term (up to 6 weeks), Placebo-Controlled, Fixed-Dose, Oral Ziprasidone, Monotherapy Trials in Adult Patients with Schizophrenia
 
