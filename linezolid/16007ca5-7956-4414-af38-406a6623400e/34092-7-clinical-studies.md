@@ -58,7 +58,7 @@ Diabetic Foot Infections: Adult diabetic patients with clinically documented com
 One group of patients received linezolid 600 mg every 12 hours intravenously or orally; the other group received ampicillin/sulbactam 1.5 to 3 g intravenously or amoxicillin/clavulanate 500 to 875 mg every 8 to 12 hours orally.
 In countries where ampicillin/sulbactam is not marketed, amoxicillin/clavulanate 500 mg to 2 g every 6 hours was used for the intravenous regimen.
 Patients in the comparator group could also be treated with vancomycin 1 g every 12 hours intravenously if MRSA was isolated from the foot infection.
-Patients in either treatment group who had Gram- negative bacilli isolated from the infection site could also receive aztreonam 1 to 2 g every 8 to 12 hours intravenously.
+Patients in either treatment group who had Gram-negative bacilli isolated from the infection site could also receive aztreonam 1 to 2 g every 8 to 12 hours intravenously.
 All patients were eligible to receive appropriate adjunctive treatment methods, such as debridement and off-loading, as typically required in the treatment of diabetic foot infections, and most patients received these treatments.
 There were 241 linezolid-treated and 120 comparator-treated patients in the intent-to-treat (ITT) study population.
 Two hundred twelve (86%) linezolid-treated patients and 105 (85%) comparator-treated patients were clinically evaluable.

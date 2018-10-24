@@ -33,11 +33,11 @@ The patient should also be monitored for discontinuation symptoms of the antidep
 ## 5.4 Mortality Imbalance in an Investigational Study in Patients with Catheter-Related Bloodstream Infections, including those with catheter-site infections
 
 An imbalance in mortality was seen in patients treated with linezolid relative to vancomycin/dicloxacillin/oxacillin in an open-label study in seriously ill patients with intravascular catheter-related infections [78/363 (21.5%) vs. 58/363 (16%); odds ratio 1.426, 95% CI 0.97, 2.098].
-While causality has not been established, this observed imbalance occurred primarily in linezolid-treated patients in whom either Gram-negative pathogens, mixed Gram- negative and Gram-positive pathogens, or no pathogen were identified at baseline, but was not seen in patients with Gram-positive infections only.
+While causality has not been established, this observed imbalance occurred primarily in linezolid-treated patients in whom either Gram-negative pathogens, mixed Gram-negative and Gram-positive pathogens, or no pathogen were identified at baseline, but was not seen in patients with Gram-positive infections only.
 
 Linezolid is not approved and should not be used for the treatment of patients with catheter-related bloodstream infections or catheter-site infections.
 
-Linezolid has no clinical activity against Gram-negative pathogens and is not indicated for the treatment of Gram- negative infections.
+Linezolid has no clinical activity against Gram-negative pathogens and is not indicated for the treatment of Gram-negative infections.
 It is critical that specific Gram-negative therapy be initiated immediately if a concomitant Gram-negative pathogen is documented or suspected [see Indications and Usage (1)].
 
 ## 5.5 Clostridium difficile Associated Diarrhea
