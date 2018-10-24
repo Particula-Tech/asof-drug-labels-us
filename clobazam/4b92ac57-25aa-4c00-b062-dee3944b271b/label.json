@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA208819"
+  ],
+  "inn": "clobazam",
+  "labeler": "Bionpharma Inc.",
+  "package_ndcs": [
+    "69452-116-45"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "clobazam",
+      "name": "Clobazam"
+    }
+  ],
+  "setid": "4b92ac57-25aa-4c00-b062-dee3944b271b",
+  "source": "dailymed"
+}
