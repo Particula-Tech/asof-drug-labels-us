@@ -25,4 +25,4 @@ Advise patients to inform physicians and dentists that they are taking Plavix be
 Proton Pump Inhibitors
 
 Advise patients not to take omeprazole or esomeprazole while taking Plavix.
-Dexlansoprazole, lansoprazole and pantoprazole had less pronounced effects on the antiplatelet activity of Plavix than did omeprazole or esomeprazole [see Drug Interactions (7.1)].
+Dexlansoprazole, lansoprazole, and pantoprazole had less pronounced effects on the antiplatelet activity of Plavix than did omeprazole or esomeprazole [see Drug Interactions (7.1)].

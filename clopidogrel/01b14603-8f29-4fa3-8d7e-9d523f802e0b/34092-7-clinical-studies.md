@@ -7,7 +7,7 @@ CURE
 The CURE study included 12,562 patients with ACS without ST-elevation (UA or NSTEMI) and presenting within 24 hours of onset of the most recent episode of chest pain or symptoms consistent with ischemia.
 Patients were required to have either ECG changes compatible with new ischemia (without ST-elevation) or elevated cardiac enzymes or troponin I or T to at least twice the upper limit of normal.
 
-Patients were randomized to receive Plavix (300-mg loading dose followed by 75 mg once daily) or placebo, and were treated for up to one year.
+Patients were randomized to receive Plavix (300 mg loading dose followed by 75 mg once daily) or placebo, and were treated for up to one year.
 Patients also received aspirin (75–325 mg once daily) and other standard therapies such as heparin.
 The use of GPIIb/IIIa inhibitors was not permitted for three days prior to randomization.
 
@@ -39,7 +39,7 @@ The use of oral anticoagulants, nonstudy antiplatelet drugs, and chronic NSAIDs 
 Figure 3: Hazard Ratio for Patient Baseline Characteristics and On-Study Concomitant Medications/Interventions for the CURE Study
 
 The use of Plavix in CURE was associated with a decrease in the use of thrombolytic therapy (71 patients [1.1%] in the Plavix group, 126 patients [2.0%] in the placebo group; relative risk reduction of 43%), and GPIIb/IIIa inhibitors (369 patients [5.9%] in the Plavix group, 454 patients [7.2%] in the placebo group, relative risk reduction of 18%).
-The use of Plavix in CURE did not affect the number of patients treated with CABG or PCI (with or without stenting), (2253 patients [36.0%] in the Plavix group, 2324 patients [36.9%] in the placebo group; relative risk reduction of 4.0%).
+The use of Plavix in CURE did not affect the number of patients treated with CABG or PCI (with or without stenting) (2253 patients [36.0%] in the Plavix group, 2324 patients [36.9%] in the placebo group; relative risk reduction of 4.0%).
 
 COMMIT
 
@@ -75,7 +75,7 @@ Such subgroup analyses should be interpreted cautiously.
 
 Figure 6: Effects of Adding Plavix to Aspirin on the Combined Primary Endpoint across Baseline and Concomitant Medication Subgroups for the COMMIT Study
 
-* CI is 95% for Overall row only
+* CI is 95% for Overall row only.
 
 ## 14.2 Recent Myocardial Infarction, Recent Stroke, or Established Peripheral Arterial Disease
 
@@ -112,7 +112,7 @@ However, because aspirin is itself effective in reducing cardiovascular events i
 
 The CAPRIE trial enrolled a population that had recent MI, recent stroke, or PAD.
 The efficacy of Plavix relative to aspirin was heterogeneous across these subgroups (p=0.043) (see Figure 8).
-Nonetheless this difference may be a chance occurrence because the CAPRIE trial was not designed to evaluate the relative benefit of Plavix over aspirin in the individual patient subgroups.
+Nonetheless, this difference may be a chance occurrence because the CAPRIE trial was not designed to evaluate the relative benefit of Plavix over aspirin in the individual patient subgroups.
 The benefit was most apparent in patients who were enrolled because of peripheral arterial disease and less apparent in stroke patients.
 In patients who were enrolled in the trial on the sole basis of a recent myocardial infarction, Plavix was not numerically superior to aspirin.
 

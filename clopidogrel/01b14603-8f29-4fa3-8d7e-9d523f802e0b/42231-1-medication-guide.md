@@ -67,8 +67,7 @@ Before you take Plavix, tell your doctor if you:
   It is not known if Plavix will harm your unborn baby
 - are breastfeeding or plan to breastfeed.
   It is not known if Plavix passes into your breast milk.
-  You and your doctor should decide if you will take Plavix or breastfeed.
-  You should not do both without talking to your doctor
+  A decision should be made with your healthcare provider to avoid or discontinue breastfeeding when continuing Plavix is needed.
 - have had an allergy or reaction to any medicine used to treat your disease.
 
 Tell all of your doctors and your dentist that you are taking Plavix.
@@ -88,7 +87,7 @@ Especially tell your doctor if you take:
   Always talk to your doctor about whether you should take aspirin along with Plavix to treat your condition.
 - Non-steroidal anti-inflammatory drugs (NSAIDs).
   Ask your doctor or pharmacist for a list of NSAID medicines if you are not sure.
-- warfarin (Coumadin®, Jantoven®)
+- warfarin (Coumadin®, Jantoven®).
 - selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs).
   Ask your doctor or pharmacist for a list of SSRI or SNRI medicines if you are not sure.
 
