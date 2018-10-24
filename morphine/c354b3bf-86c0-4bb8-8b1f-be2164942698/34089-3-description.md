@@ -2,7 +2,7 @@
 
 MS CONTIN (morphine sulfate extended-release tablets) is for oral use and contains morphine sulfate, an opioid agonist.
 
-Each tablet contains the following inactive ingredients common to all strengths: cetostearyl alcohol, hydroxyethyl cellulose, hypromellose, magnesium stearate, polyethylene glycol, talc and titanium dioxide.
+Each tablet contains the following inactive ingredients common to all strengths: cetostearyl alcohol, hydroxyethyl cellulose, hypromellose, magnesium stearate, polyethylene glycol, talc, and titanium dioxide.
 
 The tablet strengths describe the amount of morphine per tablet as the pentahydrated sulfate salt (morphine sulfate).
 
