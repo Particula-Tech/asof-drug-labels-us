@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA210039"
+  ],
+  "inn": "clobazam",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "69238-1535-2"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "clobazam",
+      "name": "Clobazam"
+    }
+  ],
+  "setid": "a526ad73-d3c1-40b7-8e71-426b01cdea27",
+  "source": "dailymed"
+}
