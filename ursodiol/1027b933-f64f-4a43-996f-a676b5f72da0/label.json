@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA211301"
+  ],
+  "inn": "ursodiol",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "69238-1540-1"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "ursodiol",
+      "name": "Ursodiol"
+    }
+  ],
+  "setid": "1027b933-f64f-4a43-996f-a676b5f72da0",
+  "source": "dailymed"
+}
