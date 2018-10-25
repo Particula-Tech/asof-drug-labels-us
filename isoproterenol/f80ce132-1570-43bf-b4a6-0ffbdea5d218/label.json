@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA210576"
+  ],
+  "inn": "isoproterenol",
+  "labeler": "Amneal Biosciences LLC",
+  "package_ndcs": [
+    "70121-1604-1",
+    "70121-1604-7",
+    "70121-1605-1",
+    "70121-1605-7"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "isoproterenol hydrochloride",
+      "name": "Isoproterenol Hydrochloride"
+    }
+  ],
+  "setid": "f80ce132-1570-43bf-b4a6-0ffbdea5d218",
+  "source": "dailymed"
+}
