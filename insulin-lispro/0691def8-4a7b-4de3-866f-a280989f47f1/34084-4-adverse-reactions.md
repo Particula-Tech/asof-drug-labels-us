@@ -69,7 +69,7 @@ Insulin, including ADMELOG, may cause sodium retention and edema, particularly i
 Adverse Reactions with Continuous Subcutaneous Insulin Infusion (CSII)
 
 In a randomized, open-label crossover study in adult patients with type 1 diabetes treated over two 4-week periods, the incidence of infusion set occlusions (defined as failure to correct hyperglycemia [plasma glucose ≥300 mg/dL] by insulin bolus via insulin pump) in ADMELOG-treated patients (n=25) was evaluated.
-Infusion set occlusions were reported by 24% of patients.
+Infusion-set occlusions were reported by 24% of patients.
 
 In a randomized, 16-week, open-label, parallel design study of children and adolescents with type 1 diabetes, adverse event reports related to infusion-site reactions for another insulin lispro product, 100 units/mL, occurred in 21% of patients.
 The most frequently reported infusion site adverse events were infusion site erythema and infusion site reaction.

@@ -7,6 +7,7 @@ ADMELOG: Insulin Lispro Injection 100 units per mL (U-100) is available as:
 | Dosage Unit | Package Size | NDC# |
 | --- | --- | --- |
 | 10 mL multiple-dose vials | Carton of 1 | 0024-5924-10 |
+| 3 mL multiple-dose vials | Carton of 1 | 0024-5926-05 |
 | 3 mL single patient use SoloStar prefilled pen | Carton of 5 | 0024-5925-05 |
 
 Each prefilled SoloStar pen is for use by a single patient.
@@ -28,6 +29,7 @@ See table below:
 | ADMELOG | Not In-Use (Unopened) Room Temperature (Below 86°F [30°C]) | Not In-Use (Unopened) Refrigerated (36°F-46°F [2°C-8°C]) | In-Use (Opened) Room Temperature (Below 86°F [30°C]) |
 | --- | --- | --- | --- |
 | 10 mL multiple-dose vial | 28 days | Until expiration date | 28 days refrigerated/room temperature |
+| 3 mL multiple-dose vial | 28 days | Until expiration date | 28 days refrigerated/room temperature |
 | 3 mL single patient use SoloStar prefilled pen | 28 days | Until expiration date | 28 days Do not refrigerate. |
 
 Use in an External Insulin Pump

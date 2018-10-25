@@ -35,7 +35,7 @@ The average time (±SE) required to attain near normoglycemia was 129 ± 14 minu
 
 Table 2: Mean Blood Glucose Concentrations (mg/dL) During Intravenous Infusions of Another Insulin Lispro Product, 100 units/mL
 
-| Time from Start of Infusion (minutes) | Mean Blood Glucose (mg/dL) IntravenousResults shown as mean ± SD |
+| Time from Start of Infusion (minutes) | Mean Blood Glucose (mg/dL) IntravenousResults shown as mean ± SD. |
 | --- | --- |
 | 0 | 224 ± 16 |
 | 30 | 205 ± 21 |
@@ -54,7 +54,7 @@ The pharmacokinetic profile of a single 0.3 unit/kg dose of ADMELOG administered
 In this study, the mean observed area under the plasma insulin lispro concentration-time curve from time zero to infinity and peak plasma insulin lispro concentration were 12800 pg∙hr/mL and 5070 pg/mL, respectively.
 The median time to maximum plasma insulin lispro concentration was 0.83 hours after injection (see Figure 2).
 
-Figure 2: Mean plasma Concentrations of ADMELOG after a Single Subcutaneous Administration of ADMELOG (0.3 unit/kg) in Patients with Type 1 Diabetes
+Figure 2: Mean Plasma Concentrations of ADMELOG after a Single Subcutaneous Administration of ADMELOG (0.3 unit/kg) in Patients with Type 1 Diabetes
 
 The absolute bioavailability of another insulin lispro product, 100 units/mL, after subcutaneous injection ranges from 55% to 77% with doses between 0.1 to 0.2 unit/kg, inclusive.
 

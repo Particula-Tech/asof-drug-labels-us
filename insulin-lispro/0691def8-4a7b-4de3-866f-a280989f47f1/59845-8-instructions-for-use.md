@@ -1,4 +1,4 @@
-Instructions for Use ADMELOG® (ad-mah-log) (insulin lispro injection) for subcutaneous use 10 mL Vial (100 Units/mL, U-100)
+Instructions for Use ADMELOG® (ad-mah-log) (insulin lispro injection) for subcutaneous use 10 mL or 3 mL Vial (100 Units/mL, U-100)
 
 Read these Instructions for Use before you start taking ADMELOG and each time you get a new ADMELOG vial.
 There may be new information.
@@ -9,7 +9,7 @@ You may give other people a serious infection, or get a serious infection from t
 
 Supplies needed to give your injection
 
-- an ADMELOG 10 mL vial
+- an ADMELOG 10 mL or 3 mL vial
 - a U-100 insulin syringe and needle
 - 2 alcohol swabs
 - 1 sharps container for throwing away used needles and syringes.
@@ -136,11 +136,11 @@ After ADMELOG vials have been opened (in-use)
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: sanofi-aventis U.S. LLC, Bridgewater, NJ 08807, A SANOFI COMPANY
+sanofi-aventis U.S. LLC, Bridgewater, NJ 08807, A SANOFI COMPANY
 
 ADMELOG is a registered trademark of sanofi-aventis U.S. LLC.
 
-Approved: December 2017
+Revised: October 2018
 
 # Instructions for Use ADMELOG® SoloStar® (ad-mah-log) (insulin lispro injection) for subcutaneous use 3 mL disposable prefilled pen (100 Units/mL, U-100)
 

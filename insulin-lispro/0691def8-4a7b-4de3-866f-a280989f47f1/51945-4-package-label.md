@@ -28,8 +28,22 @@ For subcutaneous use only
 
 Do not mix with other insulins
 
-Area reserved for security sticker
-
 Five 3 mL Prefilled Pens
+
+SANOFI
+
+# PRINCIPAL DISPLAY PANEL - 3 mL Vial Carton
+
+NDC 0024-5926-05 Rx ONLY
+
+Admelog® insulin lispro injection
+
+100 units/mL (U-100)
+
+For subcutaneous use
+
+For intravenous infusion after further dilution ONLY under direct medical supervision
+
+One 3 mL Vial
 
 SANOFI
