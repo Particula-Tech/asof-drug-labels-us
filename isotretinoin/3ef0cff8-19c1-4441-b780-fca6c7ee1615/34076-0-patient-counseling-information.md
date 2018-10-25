@@ -4,18 +4,18 @@ See FDA-Approved Patient Labeling (Medication Guide)
 
 Advise the patient that ABSORICA is only available through a restricted program called iPLEDGE.
 
-- •As a component of the iPLEDGE program, prescribers must instruct patients to read the Medication Guide, the iPLEDGE program patient educational booklets, and watch the video with the following videos — “Be Prepared, Be Protected” and “Be Aware: The Risk of Pregnancy While on Isotretinoin”.
-  The video includes information about contraception, the most common reasons that contraception fails, and the importance of using 2 forms of effective contraception when taking teratogenic drugs and comprehensive information about types of potential birth defects which could occur if a female patient who is pregnant takes ABSORICA at any time during pregnancy.
-- •Male patients and Females of non-reproductive potential must understand the risks and benefits of ABSORICA, comply with the REMS requirements described in the booklet entitled The iPLEDGE Program Guide to Isotretinoin for Male Patients and Female Patients Who Cannot Get Pregnant, and sign a Patient Information/Informed Consent form.
+- •As a component of the iPLEDGE Program, prescribers must instruct patients to read the Medication Guide, the iPLEDGE Program patient educational booklets, the iPLEDGE Program Birth Control Information Sheet and watch the video with the following videos — “Be Prepared, Be Protected” and “Be Aware: The Risk of Pregnancy While on Isotretinoin”.
+  The video includes information about contraception, the most common reasons that contraception fails, the importance of using 2 methods of effective contraception when taking teratogenic drugs, and comprehensive information about types of potential birth defects which could occur if a female patient who is pregnant takes ABSORICA at any time during pregnancy.
+- •Male patients and females of non-reproductive potential must understand the risks and benefits of ABSORICA, comply with the REMS requirements described in the booklet entitled Guide to Isotretinoin for Male Patients and Female Patients Who Cannot Get Pregnant, and sign a Patient Information/Informed Consent form.
 - •Females of reproductive potential must be instructed that they must not be pregnant when ABSORICA therapy is initiated or plan to become pregnant while receiving ABSORICA therapy.
-  Additionally, they must use 2 forms of effective contraception simultaneously for 1 month before starting ABSORICA, while taking ABSORICA, and for 1 month after ABSORICA has been stopped, unless they commit to continuous abstinence from heterosexual intercourse.
+  Additionally, they must use 2 methods of effective contraception simultaneously for 1 month before starting ABSORICA, while taking ABSORICA, and for 1 month after ABSORICA has been stopped, unless they commit to continuous abstinence from heterosexual intercourse.
   They should also sign a Patient Information/Informed Consent form and Patient Information/Informed Consent About Birth Defects (for female patients who can get pregnant) form prior to beginning ABSORICA therapy.
   Female patients should be seen by their prescribers monthly and have a urine or serum pregnancy test, in a CLIA-certified laboratory, performed each month during treatment to confirm negative pregnancy status before another ABSORICA prescription is written.
   Additionally, a pregnancy test must be completed at the end of the entire course of ABSORICA therapy and 1 month after discontinuation of therapy.
 - •Advise the patient that isotretinoin is found in the semen of male patients taking isotretinoin, but the amount delivered to a female partner would be about one million times lower than an oral dose of 40 mg.
-  While the no-effect limit for isotretinoin induced embryopathy is unknown, 20 years of post-marketing reports include four with isolated defects compatible with features of retinoid exposed fetuses; however two of these reports were incomplete and two had other possible explanations for the defects observed.
-- •Advise the patient that ABSORICA is available only from pharmacies that are certified in the iPLEDGE program, and provide them with the telephone number (1-866-495-0654) and website (www.ipledgeprogram.com) for information on how to obtain.
-- •Advise patients that they may be requested to participate in a survey to evaluate the effectiveness of the iPLEDGE program.
+  While the no-effect limit for isotretinoin induced embryopathy is unknown, 20 years of postmarketing reports include four with isolated defects compatible with features of retinoid exposed fetuses; however two of these reports were incomplete and two had other possible explanations for the defects observed.
+- •Advise the patient that ABSORICA is available only from pharmacies that are certified in the iPLEDGE Program, and provide them with the telephone number (1-866-495-0654) and website (www.ipledgeprogram.com) for information on how to obtain.
+- •Advise patients that they may be requested to participate in a survey to evaluate the effectiveness of the iPLEDGE Program.
 - •Prescribers should be alert to the warning signs of psychiatric disorders to guide patients to receive the help they need.
   Therefore, prior to initiation of ABSORICA treatment, patients and family members should be asked about any history of psychiatric disorder, and at each visit during treatment patients should be assessed for symptoms of depression, mood disturbance, psychosis, or aggression to determine if further evaluation may be necessary.
   Inform patients that symptoms of depression include sad mood, hopelessness, feelings of guilt, worthlessness or helplessness, loss of pleasure or interest in activities, fatigue, difficulty concentrating, change in sleep pattern, change in weight or appetite, suicidal thoughts or attempts, restlessness, irritability, acting on dangerous impulses, and persistent physical symptoms unresponsive to treatment.
@@ -61,7 +61,17 @@ Advise the patient that ABSORICA is only available through a restricted program 
   Consideration should be given to discontinuation of isotretinoin if any significant abnormality is found.
 - •Neutropenia and rare cases of agranulocytosis have been reported in patients treated with isotretinoin.
   ABSORICA should be discontinued if clinically significant decreases in white cell counts occur.
-- •Patients should be advised that severe skin reactions (Stevens-Johnson syndrome and toxic epidermal necrolysis) have been reported in post marketing data in patients treated with isotretinoin.
+- •Patients should be advised that severe skin reactions (Stevens-Johnson syndrome and toxic epidermal necrolysis) have been reported in postmarketing data in patients treated with isotretinoin.
   Treatment with ABSORICA should be discontinued if clinically significant skin reactions occur.
 - •Adolescent patients who participate in sports with repetitive impact should be informed that isotretinoin use may increase their risk of spondylolisthesis or hip growth plate injuries.
   There are spontaneous reports of fractures and/or delayed healing in patients while on therapy with isotretinoin or following cessation of therapy with isotretinoin while involved in these activities [see Warnings and Precautions (5.12)].
+
+ABSORICA is a registered trademark of Sun Pharmaceutical Industries, Inc. All other trademarks are property of their respective owners.
+
+Manufactured by: Galephar Pharmaceutical Research, Inc. Humacao, PR 00792
+
+Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512
+
+GK-067
+
+Revised: May 2018

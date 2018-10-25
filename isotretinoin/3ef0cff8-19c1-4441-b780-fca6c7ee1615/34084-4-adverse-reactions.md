@@ -19,7 +19,7 @@ The following adverse reactions with ABSORICA or other isotretinoin products are
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of ABSORICA cannot be directly compared to rates in clinical trials of other drugs and may not reflect the rates observed in practice.
 
-The adverse reactions listed below reflect both clinical experience with ABSORICA, and consider other adverse reactions that are known from clinical trials and the post-marketing surveillance with oral isotretinoin.
+The adverse reactions listed below reflect both clinical experience with ABSORICA, and consider other adverse reactions that are known from clinical trials and the postmarketing surveillance with oral isotretinoin.
 The relationship of some of these events to isotretinoin therapy is unknown.
 Many of the side effects and adverse events seen in patients receiving isotretinoin are similar to those described in patients taking very high doses of vitamin A (dryness of the skin and mucous membranes, e.g., of the lips, nasal passage, and eyes).
 
@@ -44,21 +44,21 @@ In addition to the above adverse reactions, the following adverse reactions have
 
 Gastrointestinal
 
-The following adverse reactions have been reported in a clinical trial conducted with ABSORICA and a generic product of Accutane® (isotretinoin): lip dry, chapped lips, cheilitis, nausea, constipation, diarrhea, abdominal pain, vomiting.
+The following adverse reactions have been reported in a clinical trial conducted with ABSORICA and a generic product of Accutane® (isotretinoin): dry lips, chapped lips, cheilitis, nausea, constipation, diarrhea, abdominal pain, vomiting.
 In addition to the above adverse reactions, the following adverse reactions have been reported with isotretinoin: inflammatory bowel disease, hepatitis, pancreatitis, bleeding and inflammation of the gums, colitis, esophagitis/esophageal ulceration, ileitis, and other nonspecific gastrointestinal symptoms.
 
 Hematologic
 
 The following adverse reactions have been reported with isotretinoin: allergic reactions, anemia, thrombocytopenia, neutropenia, rare reports of agranulocytosis.
 
-Infections and infestations
+Infections and Infestations
 
 The following adverse reactions have been reported in a clinical trial conducted with ABSORICA and a generic product of Accutane® (isotretinoin): nasopharyngitis, hordeolum, upper respiratory tract infection.
 In addition to the above adverse reactions, the following adverse reaction has been reported with isotretinoin: infections (including disseminated herpes simplex).
 
 Laboratory Abnormalities
 
-The following changes in laboratory tests have been noted in a clinical trial conducted with ABSORICA and a generic product of Accutane® (isotretinoin): blood creatine phosphokinase (CPK) increased, blood triglycerides increased, alanine aminotransferase (SGPT) increased, aspartate aminotransferase (SGOT) increased, gamma-glutamyltransferase (GGTP) increased, blood cholesterol increased, low density lipoprotein (LDL) increased, white blood cell count decreased, blood alkaline phosphatase increased, blood bilirubin increased, blood glucose increased, high density lipopoprotein (HDL) decreased, bone mineral density decreased.
+The following changes in laboratory tests have been noted in a clinical trial conducted with ABSORICA and a generic product of Accutane® (isotretinoin): blood creatine phosphokinase (CPK) increased, blood triglycerides increased, alanine aminotransferase (SGPT) increased, aspartate aminotransferase (SGOT) increased, gamma-glutamyltransferase (GGTP) increased, blood cholesterol increased, low density lipoprotein (LDL) increased, white blood cell count decreased, blood alkaline phosphatase increased, blood bilirubin increased, blood glucose increased, high density lipoprotein (HDL) decreased, bone mineral density decreased.
 In addition to the above adverse reactions, the following adverse reactions have been reported with isotretinoin: increased LDH, elevation of fasting blood sugar, hyperuricemia, decreases in red blood cell parameters, decreases in white blood cell counts (including severe neutropenia and rare reports of agranulocytosis), elevated sedimentation rates, elevated platelet counts, thrombocytopenia, white cells in the urine, proteinuria, microscopic or gross hematuria.
 
 Musculoskeletal and Connective Tissue

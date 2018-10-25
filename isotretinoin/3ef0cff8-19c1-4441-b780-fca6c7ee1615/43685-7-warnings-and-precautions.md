@@ -11,7 +11,7 @@ Although the overall incidence of FD&C Yellow No.5 (tartrazine) sensitivity in t
 Teratogenicity
 
 Major congenital malformations, spontaneous abortions, and premature births have been documented following pregnancy exposure to isotretinoin [see Use in Specific Populations (8.1)].
-Females of Reproductive Potential must comply with the pregnancy testing and contraception requirements described in the iPLEDGE program [see Warnings and Precautions (5.2) and Use in Specific Populations (8.6)].
+Females of Reproductive Potential must comply with the pregnancy testing and contraception requirements described in the iPLEDGE Program [see Warnings and Precautions (5.2), Use in Specific Populations (8.6)].
 There are no accurate means of determining whether an exposed fetus has been affected.
 
 No Blood Donation
@@ -22,17 +22,18 @@ Patients must be informed not to donate blood during isotretinoin therapy and fo
 
 Because of the risk of teratogenicity and to minimize fetal exposure, ABSORICA is available only through a restricted program under a REMS called iPLEDGE.
 Under the ABSORICA REMS, prescribers, patients, pharmacies, and distributors must enroll and be registered in the program.
-ABSORICA must not be prescribed, dispensed or otherwise obtained through the internet or any other means outside of the iPLEDGE program.
+ABSORICA must not be prescribed, dispensed or otherwise obtained through the internet or any other means outside of the iPLEDGE Program.
 Only FDA-approved isotretinoin products must be distributed, prescribed, dispensed, and used.
 
 Required components of the iPLEDGE Program are:
 
-- •ABSORICA must only be prescribed by prescribers who are registered and activated with the iPLEDGE program and agree to comply with the REMS requirements described in the booklets entitled The Guide to Best Practices for the iPLEDGE Program, The iPLEDGE Program Prescriber Contraception Counseling Guide, and Recognizing Psychiatric Disorders in Adolescents and Young Adults: A Guide for Prescribers of Isotretinoin.
-- •Male patients and Females of non-reproductive potential: To obtain ABSORICA, these patients must understand the risks and benefits of ABSORICA, comply with the REMS requirements described in the booklet entitled The iPLEDGE Program Guide to Isotretinoin for Male Patients and Female Patients Who Cannot Get Pregnant, and sign a Patient Information/Informed Consent form.
+- •ABSORICA must only be prescribed by prescribers who are registered and activated with the iPLEDGE Program and agree to comply with the REMS requirements described in the booklets entitled Guide to Best Practices for the iPLEDGE Program, Prescriber Contraception Counseling Guide, and Recognizing Psychiatric Disorders in Adolescents and Young Adults: A Guide for Prescribers of Isotretinoin.
+- •Male patients and Females of non-reproductive potential: To obtain ABSORICA, these patients must understand the risks and benefits of ABSORICA, comply with the REMS requirements described in the booklet entitled Guide to Isotretinoin for Male Patients and Female Patients Who Cannot Get Pregnant, and sign a Patient Information/Informed Consent form.
 - •Females of reproductive potential: ABSORICA is contraindicated in female patients who are or may become pregnant [see Contraindications (4.1)].
-- •Females of reproductive potential who are not pregnant must understand the risks and benefits, comply with the REMS requirements described in the booklet entitled The iPLEDGE Program Guide to Isotretinoin for Female Patients Who Can Get Pregnant and The iPLEDGE Program Birth Control Workbook (including the pregnancy testing and contraception requirements [see Use in Specific Populations (8.6) and Patient Counseling Information (17)]), and sign a Patient Information/Informed Consent form and Patient Information/Informed Consent About Birth Defects form.
-  Additionally, the patient must answer questions about the iPLEDGE program and pregnancy prevention monthly.
-- •Pharmacies that dispense ABSORICA must be registered and activated with iPLEDGE, must only dispense to patients who are authorized to receive ABSORICA, and agree to comply with the REMS requirements described in the booklet entitled The Pharmacist Guide for the iPLEDGE Program.
+- •Females of reproductive potential who are not pregnant must understand the risks and benefits, comply with the REMS requirements described in the booklet entitled Guide to Isotretinoin for Female Patients Who Can Get Pregnant and Birth Control Workbook (including the pregnancy testing and contraception requirements [see Use in Specific Populations (8.6), Patient Counseling Information (17)]), and sign a Patient Information/Informed Consent form and Patient Information/Informed Consent About Birth Defects form.
+  Additionally, the patient must answer questions about the iPLEDGE Program and pregnancy prevention monthly.
+- •Pharmacies that dispense ABSORICA must be registered and activated with iPLEDGE, must only dispense to patients who are authorized to receive ABSORICA, and agree to comply with the REMS requirements described in the booklet entitled Pharmacist Guide, specifically the “Key Information for Pharmacists” section including the following dispensing information:
+  - •Prescriptions must be obtained no later than the “Do Not Dispense To After” date, and if not obtained, then the RMA must be reversed in the iPLEDGE Program system and the product returned to inventory.
 - •Females of reproductive potential must obtain the prescription within 7 days of the specimen collection for the pregnancy test; male patients and females of non-reproductive potential must obtain the prescription within 30 days of the office visit.
 - •ABSORICA must only be dispensed in no more than a 30-day supply with a Medication Guide.
   Refills require a new prescription and a new authorization from the iPLEDGE system.
@@ -75,7 +76,7 @@ Patients with these symptoms should be screened for papilledema and, if present,
 
 ## 5.6 Serious Skin Reactions
 
-There have been post-marketing reports of erythema multiforme and severe skin reactions [e.g., Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN)] associated with isotretinoin use.
+There have been postmarketing reports of erythema multiforme and severe skin reactions [e.g., Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN)] associated with isotretinoin use.
 These reactions may be serious and result in death, life-threatening events, hospitalization, or disability.
 Patients should be monitored closely for severe skin reactions, and discontinuation of ABSORICA should be considered if warranted.
 
@@ -122,9 +123,9 @@ Patients experiencing abdominal pain, rectal bleeding or severe diarrhea should 
 Bone Mineral Density Changes
 
 Isotretinoin may have a negative effect on bone mineral density (BMD) in some patients.
-In a clinical trial of ABSORICA and a generic product of Accutane® (isotretinoin), 27/306 (8.8%) of adolescents had BMD declines, defined as ≥ 4% lumbar spine or total hip, or ≥ 5% femoral neck, during the 20 week treatment period.
-Repeat scans conducted within 2-3 months after the post-treatment scan showed no recovery of BMD.
-Longer term data at 4-11 months showed that 3 out of 7 patients had total hip and femoral neck BMD below pre-treatment baseline, and 2 others did not show the increase in BMD above baseline expected in this adolescent population.
+In a clinical trial of ABSORICA and a generic product of Accutane® (isotretinoin), 27/306 (8.8%) of adolescents had BMD declines, defined as ≥ 4% lumbar spine or total hip, or ≥ 5% femoral neck, during the 20-week treatment period.
+Repeat scans conducted within 2 to 3 months after the post-treatment scan showed no recovery of BMD.
+Long-term data at 4 to 11 months showed that 3 out of 7 patients had total hip and femoral neck BMD below pre-treatment baseline, and 2 others did not show the increase in BMD above baseline expected in this adolescent population.
 Therefore, physicians should use caution when prescribing ABSORICA to patients with a history of childhood osteoporosis conditions, osteomalacia, or other disorders of bone metabolism.
 This would include patients diagnosed with anorexia nervosa and those who are on chronic drug therapy that causes drug-induced osteoporosis/osteomalacia and/or affects vitamin D metabolism, such as systemic corticosteroids and any anticonvulsant [see Use in Specific Populations (8.4)].
 
@@ -148,7 +149,7 @@ Patients may be at an increased risk when participating in sports with repetitiv
 Effects of multiple courses of isotretinoin on the developing musculoskeletal system are unknown.
 There is some evidence that long-term, high-dose, or multiple courses of therapy with isotretinoin have more of an effect than a single course of therapy on the musculoskeletal system.
 
-Longer term effects have not been studied.
+Long-term effects have not been studied.
 It is important that ABSORICA be given at the recommended doses for no longer than the recommended duration.
 
 Hyperostosis
@@ -218,6 +219,6 @@ CPK
 Some patients undergoing vigorous physical activity while on isotretinoin therapy have experienced elevated CPK levels; however, the clinical significance is unknown.
 There have been rare postmarketing reports of rhabdomyolysis, some associated with strenuous physical activity.
 In an isotretinoin clinical trial of 924 patients, marked elevations in CPK (≥350 U/L) were observed in approximately 24% of patients.
-In another clinical trial of 217 pediatric patients (12 – 17 years) elevations in CPK were observed in 12% of patients, including those undergoing strenuous physical activity in association with reported musculoskeletal adverse events such as back pain, arthralgia, limb injury, or muscle sprain.
+In another clinical trial of 217 pediatric patients (12 to 17 years) elevations in CPK were observed in 12% of patients, including those undergoing strenuous physical activity in association with reported musculoskeletal adverse events such as back pain, arthralgia, limb injury, or muscle sprain.
 In these patients, approximately half of the CPK elevations returned to normal within 2 weeks and half returned to normal within 4 weeks.
 No cases of rhabdomyolysis were reported in this clinical trial.

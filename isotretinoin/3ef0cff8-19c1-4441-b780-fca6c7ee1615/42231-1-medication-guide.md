@@ -9,12 +9,14 @@ This information does not take the place of talking with your doctor about your 
 What is the most important information I should know about ABSORICA?
 
 - •ABSORICA is used to treat a type of severe acne (nodular acne) that has not been helped by other treatments, including antibiotics.
-- •Because ABSORICA can cause birth defects, ABSORICA is only for patients who can understand and agree to carry out all of the instructions in the iPLEDGE program.
+- •Because ABSORICA can cause birth defects, ABSORICA is only for patients who can understand and agree to carry out all of the instructions in the iPLEDGE Program.
 - •ABSORICA may cause serious mental health problems.
-- 1.
-  Birth defects (deformed babies), loss of a baby before birth (miscarriage), death of the baby, and early (premature) births.
-  Females who are pregnant or who plan to become pregnant must not take ABSORICA.
-  Females must not get pregnant:
+
+1.
+Birth defects (deformed babies), loss of a baby before birth (miscarriage), death of the baby, and early (premature) births.
+Females who are pregnant or who plan to become pregnant must not take ABSORICA.
+Females must not get pregnant:
+
 - •for 1 month before starting ABSORICA
 - •while taking ABSORICA
 - •for 1 month after stopping ABSORICA
@@ -23,10 +25,12 @@ If you get pregnant while taking ABSORICA, stop taking it right away and call yo
 Doctors and patients should report all cases of pregnancy to:
 
 - •FDA MedWatch at 1-800-FDA-1088, and
-- •the iPLEDGE pregnancy registry at 1-866-495-0654
-- 2.
-  Serious mental health problems.
-  ABSORICA may cause:
+- •The iPLEDGE Pregnancy Registry at 1-866-495-0654
+
+2.
+Serious mental health problems.
+ABSORICA may cause:
+
 - •depression
 - •psychosis (seeing or hearing things that are not real)
 - •suicide.
@@ -57,9 +61,9 @@ ABSORICA is a medicine taken by mouth to treat the most severe form of acne (nod
 ABSORICA can cause serious side effects (see “What is the most important information I should know about ABSORICA?”).
 ABSORICA can only be:
 
-- •prescribed by doctors that are registered in the iPLEDGE program
-- •dispensed by a pharmacy that is registered with the iPLEDGE program
-- •given to patients who are registered in the iPLEDGE program and agree to do everything required in the program
+- •prescribed by doctors that are registered in the iPLEDGE Program
+- •dispensed by a pharmacy that is registered with the iPLEDGE Program
+- •given to patients who are registered in the iPLEDGE Program and agree to do everything required in the program.
 
 What is severe nodular acne?
 
@@ -72,7 +76,7 @@ Who should not take ABSORICA?
 - •Do not take ABSORICA if you are pregnant, plan to become pregnant, or become pregnant during ABSORICA treatment.
   ABSORICA causes severe birth defects.
   See “What is the most important information I should know about ABSORICA?”
-- Do not take ABSORICA if you are allergic to anything in it.
+- •Do not take ABSORICA if you are allergic to anything in it.
   See the end of this Medication Guide for a complete list of ingredients in ABSORICA.
 
 What should I tell my doctor before taking ABSORICA?
@@ -108,7 +112,7 @@ Especially tell your doctor if you take:
 - •Corticosteroid medicines.
   These medicines taken with ABSORICA may weaken your bones.
 - •St.
-  John's Wort.
+  John’s Wort.
   This herbal supplement may make birth control pills work less effectively.
 
 These medicines should not be used with ABSORICA unless your doctor tells you it is okay.
@@ -120,16 +124,16 @@ Do not take any new medicine without talking with your doctor.
 How should I take ABSORICA?
 
 - •You must take ABSORICA exactly as prescribed.
-  You must also follow all the instructions of the iPLEDGE program.
+  You must also follow all the instructions of the iPLEDGE Program.
   Before prescribing ABSORICA, your doctor will:
-  - •explain the iPLEDGE program to you
+  - •explain the iPLEDGE Program to you
   - •have you sign the Patient Information/Informed Consent form (for all patients).
     Females who can get pregnant must also sign another consent form.
 
-You will not be prescribed ABSORICA if you cannot agree to or follow all the instructions of the iPLEDGE program.
+You will not be prescribed ABSORICA if you cannot agree to or follow all the instructions of the iPLEDGE Program.
 
 - •You will get no more than a 30-day supply of ABSORICA at a time.
-  This is to make sure you are following the ABSORICA iPLEDGE program.
+  This is to make sure you are following the ABSORICA iPLEDGE Program.
   You should talk with your doctor each month about side effects.
 - •The amount of ABSORICA you take has been specially chosen for you.
   It is based on your body weight, and may change during treatment.
@@ -143,15 +147,17 @@ You will not be prescribed ABSORICA if you cannot agree to or follow all the ins
 - •Your acne may get worse when you first start taking ABSORICA.
   This should last only a short while.
   Talk with your doctor if this is a problem for you.
-- •You must return to your doctor as directed to make sure you don't have signs of serious side effects.
+- •You must return to your doctor as directed to make sure you don’t have signs of serious side effects.
   Your doctor may do blood tests to check for serious side effects from ABSORICA.
   Females who can get pregnant will get a pregnancy test each month.
 - •Females who can get pregnant must agree to use two separate forms of effective birth control at the same time one month before, while taking, and for one month after taking ABSORICA.
-  You must access the iPLEDGE system to answer questions about the program requirements and to enter your two chosen forms of birth control.
-  To access the iPLEDGE system, go to www.ipledgeprogram.com or call 1-866-495-0654.
-- •You must talk about effective birth control methods with your doctor or go for a free visit to talk about birth control with another doctor or family planning expert.
-  Your doctor can arrange this free visit, which will be paid for by the company that makes ABSORICA.
-- •If you have sex at any time without using two forms of effective birth control, get pregnant, or miss your expected period, stop using ABSORICA and call your doctor right away.
+  You must access the iPLEDGE Program system to answer questions about the program requirements and to enter your two chosen forms of birth control.
+  To access the iPLEDGE Program system, go to www.ipledgeprogram.com or call 1-866-495-0654.
+
+You must talk about effective birth control forms with your doctor or go for a free visit to talk about birth control with another doctor or family planning expert.
+Your doctor can arrange this free visit, which will be paid for by the company that makes ABSORICA.
+
+If you have sex at any time without using two forms of effective birth control, get pregnant, or miss your expected period, stop using ABSORICA and call your doctor right away.
 
 What should I avoid while taking ABSORICA?
 
@@ -171,9 +177,8 @@ What should I avoid while taking ABSORICA?
 - •Avoid sunlight and ultraviolet lights as much as possible.
   Tanning machines use ultraviolet lights.
   ABSORICA may make your skin more sensitive to light.
-
-Do not share ABSORICA with other people.
-It can cause birth defects and other serious health problems.
+- •Do not share ABSORICA with other people.
+  It can cause birth defects and other serious health problems.
 
 What are the possible side effects of ABSORICA?
 
@@ -185,16 +190,16 @@ What are the possible side effects of ABSORICA?
   ABSORICA can increase the pressure in your brain.
   This can lead to permanent loss of eyesight and, in rare cases, death.
   Stop taking ABSORICA and call your doctor right away if you get any of these signs of increased brain pressure:
-- •bad headache
-- •blurred vision
-- •dizziness
-- •nausea or vomiting
-- •seizures (convulsions)
-- •stroke
+  - •bad headache
+  - •blurred vision
+  - •dizziness
+  - •nausea or vomiting
+  - •seizures (convulsions)
+  - •stroke
 - •skin problems.
   Skin rash can occur in patients taking ABSORICA.
   In some patients a rash can be serious.
-  Stop using ABSORICA and call your doctor right away if you develop conjunctivitis (red or inflamed eyes, like "pink eye"), a rash with a fever, blisters on legs, arms or face and/or sores in your mouth, throat, nose, eyes, or if your skin begins to peel.
+  Stop using ABSORICA and call your doctor right away if you develop conjunctivitis (red or inflamed eyes, like “pink eye”), a rash with a fever, blisters on legs, arms or face and/or sores in your mouth, throat, nose, eyes, or if your skin begins to peel.
 - •stomach area (abdomen) problems.
   Certain symptoms may mean that your internal organs are being damaged.
   These organs include the liver, pancreas, bowel (intestines), and esophagus (connection between mouth and stomach).
@@ -211,27 +216,54 @@ What are the possible side effects of ABSORICA?
   ABSORICA may affect bones, muscles, and ligaments and cause pain in your joints or muscles.
   Tell your doctor if you plan hard physical activity during treatment with ABSORICA.
   Tell your doctor if you get:
-- •back pain
-- •joint pain
-- •broken bone.
-  Tell all healthcare providers that you take ABSORICA if you break a bone.Stop ABSORICA and call your doctor right away if you have muscle weakness.
-  Muscle weakness with or without pain can be a sign of serious muscle damage.
-  ABSORICA may stop long bone growth in teenagers who are still growing.
+  - •back pain
+  - •joint pain
+  - •broken bone.
+    Tell all healthcare providers that you take ABSORICA if you break a bone.
 
-The common, less serious side effects of ABSORICA are dry skin, chapped lips, dry eyes, and dry nose that may lead to nosebleeds.
+Stop ABSORICA and call your doctor right away if you have muscle weakness.
+Muscle weakness with or without pain can be a sign of serious muscle damage.
+
+ABSORICA may stop long bone growth in teenagers who are still growing.
+
+- •hearing problems.
+  Stop using ABSORICA and call your doctor if your hearing gets worse or if you have ringing in your ears.
+  Your hearing loss may be permanent.
+- •vision problems.
+  ABSORICA may affect your ability to see in the dark.
+  This condition usually clears up after you stop taking ABSORICA, but it may be permanent.
+  Other serious eye effects can occur.
+  Stop taking ABSORICA and call your doctor right away if you have any problems with your vision or dryness of the eyes that is painful or constant.
+  If you wear contact lenses, you may have trouble wearing them while taking ABSORICA and after treatment.
+- •lipid (fats and cholesterol in blood) problems.
+  ABSORICA can raise the level of fats and cholesterol in your blood.
+  This can be a serious problem.
+  Return to your doctor for blood tests to check your lipids and to get any needed treatment.
+  These problems usually go away when ABSORICA treatment is finished.
+- •serious allergic reactions.
+  Stop taking ABSORICA and get emergency care right away if you develop hives, a swollen face or mouth, or have trouble breathing.
+  Stop taking ABSORICA and call your doctor if you get a fever, rash, or red patches or bruises on your legs.
+- •blood sugar problems.
+  ABSORICA may cause blood sugar problems including diabetes.
+  Tell your doctor if you are very thirsty or urinate a lot.
+- •decreased red and white blood cells.
+  Call your doctor if you have trouble breathing, faint, or feel weak.
+- •The common, less serious side effects of ABSORICA are dry skin, chapped lips, dry eyes, and dry nose that may lead to nosebleeds.
+  Call your doctor if you get any side effect that bothers you or that does not go away.
 
 ABSORICA contains the color additive FD&C Yellow No. 5 (tartrazine) which may cause allergic type reactions, including asthma in some people.
 The overall occurrence of allergic reaction is low.
 This reaction is most often seen in people who also have an allergy to aspirin.
 
+These are not all of the possible side effects of ABSORICA.
+Your doctor or pharmacist can give you more detailed information.
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
-
-You may also report side effects to Sun Pharmaceutical Industries, Inc., the manufacturer of ABSORICA at 1-800-406-7984.
+You may report side effects to FDA at 1-800-FDA-1088 or Sun Pharmaceutical Industries, Inc. at 1-800-818-4555.
 
 How should I store ABSORICA?
 
-- •Store ABSORICA at room temperature, 68° to 77° F (20° to 25° C). Protect from light.
+- •Store ABSORICA at room temperature, 68°F to 77°F (20°C to 25°C).
+  Protect from light.
 - •Keep ABSORICA and all medicines out of the reach of children.
 
 General Information about ABSORICA
@@ -245,30 +277,22 @@ This Medication Guide summarizes the most important information about ABSORICA.
 If you would like more information, talk with your doctor.
 
 You can ask your doctor or pharmacist for information about ABSORICA that is written for health care professionals.
-You can also call iPLEDGE program at 1-866-495-0654 or visit www.ipledgeprogram.com.
+You can also call iPLEDGE Program at 1-866-495-0654 or visit www.ipledgeprogram.com.
 
 What are the ingredients in ABSORICA?
 
 Active ingredient: Isotretinoin, USP
 
 Inactive ingredients: Propyl gallate, sorbitan monooleate, soybean oil and stearoyl polyoxylglycerides.
-Gelatin capsules contain the following dye systems: 10 mg – iron oxide (yellow) and titanium dioxide; 20 mg – iron oxide (red) and titanium dioxide; 25 mg – FD&C Blue #1, FD&C Yellow #5 (tartrazine)*, FD&C Yellow #6 and titanium dioxide; 30 mg – iron oxide (black, red and yellow) and titanium dioxide; 35 mg – FD&C Blue #2, iron oxide (black, red and yellow) and titanium dioxide; and 40 mg – iron oxide (black, red and yellow) and titanium dioxide.
+Gelatin capsules contain the following dye systems: 10 mg – iron oxide (yellow) and titanium dioxide; 20 mg – iron oxide (red) and titanium dioxide; 25 mg – FD&C Blue #1, FD&C Yellow #5 (tartrazine), FD&C Yellow #6 and titanium dioxide; 30 mg – iron oxide (black, red and yellow) and titanium dioxide; 35 mg – FD&C Blue #2, iron oxide (black, red and yellow) and titanium dioxide; and 40 mg – iron oxide (black, red and yellow) and titanium dioxide.
 
-Dilantin is a registered trademark of Warner-Lambert Company LLC.
+ABSORICA is a registered trademark of Sun Pharmaceutical Industries, Inc. All other trademarks are property of their respective owners.
 
-Manufactured by:
+Manufactured by: Galephar Pharmaceutical Research, Inc. Humacao, PR 00792
 
-Galephar Pharmaceutical Research, Inc.
-
-Humacao, PR 00792
-
-Distributed by:
-
-Sun Pharmaceutical Industries, Inc.
-
-Cranbury, NJ 08512
+Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512
 
 GK-244
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Revised: July 2017
+Revised: May 2018

@@ -1,10 +1,10 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Healthcare professionals who prescribe ABSORICA must be certified in the iPLEDGE program and must comply with the required monitoring to ensure safe use of ABSORICA [see Warnings and Precautions (5.2)].
+Healthcare professionals who prescribe ABSORICA must be certified in the iPLEDGE Program and must comply with the required monitoring to ensure safe use of ABSORICA [see Warnings and Precautions (5.2)].
 
 The required laboratory testing must be completed prior to dosing ABSORICA [see Dosage and Administration (2.4)].
 
-Pregnancy Testing, and Contraceptive measures must be followed prior to dosing ABSORICA [see Use in Specific Populations (8.6)].
+Pregnancy Testing and Contraceptive measures must be followed prior to dosing ABSORICA [see Use in Specific Populations (8.6)].
 
 ## 2.1 Recommended Dosage
 
@@ -29,7 +29,7 @@ Adult patients whose disease is very severe with scarring or is primarily manife
 
 ## 2.3 Duration of Use
 
-A normal course of treatment is 15 – 20 weeks.
+A normal course of treatment is 15 to 20 weeks.
 If the total nodule count has been reduced by more than 70% prior to completing 15 to 20 weeks of treatment, the drug may be discontinued.
 After a period of 2 months or more off therapy, and if warranted by persistent or recurring severe nodular acne, a second course of therapy may be initiated.
 The optimal interval before retreatment has not been defined for patients who have not completed skeletal growth.

@@ -25,9 +25,9 @@ Under fed conditions after a high-fat meal, it was observed that the mean AUC0-t
 The observed elimination half-life (T1/2) was slightly lower in the fed state versus fasted.
 The time to peak concentration (Tmax) increased with food and this may be related to a longer absorption phase.
 
-Table 2: Pharmacokinetic parameters of ABSORICA mean (%CV) following administration of 40 mg strength, N=14
+Table 2: Pharmacokinetic Parameters of ABSORICA Mean (%CV) Following Administration of 40 mg Strength, N=14
 
-| ABSORICA¶ (1 x 40 mg capsules) | AUC0-t (ng x hr/mL) | Cmax (ng/mL) | Tmax (hr) | T1/2 (hr) |
+| ABSORICA(1 x 40 mg capsules) | AUC0-t (ng x hr/mL) | Cmax (ng/mL) | Tmax (hr) | T1/2 (hr) |
 | --- | --- | --- | --- | --- |
 | Fed | 6095 (26 %) | 395 (39 %) | 6.4 (47 %) | 22 (25 %) |
 | Fasted | 4055 (20 %) | 314 (26 %) | 2.9 (34 %) | 24 (28 %) |
