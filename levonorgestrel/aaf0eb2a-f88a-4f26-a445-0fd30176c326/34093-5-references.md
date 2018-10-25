@@ -1,4 +1,4 @@
-# 15 REFERENCES
+# 15REFERENCES
 
 (1) Workowski KA, Berman S; Centers for Disease Control and Prevention (CDC).
 Sexually transmitted diseases treatment guidelines, 2010.

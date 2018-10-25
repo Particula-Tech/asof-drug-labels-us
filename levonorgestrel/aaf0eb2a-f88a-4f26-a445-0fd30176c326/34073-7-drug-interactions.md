@@ -1,4 +1,4 @@
-# 7 DRUG INTERACTIONS
+# 7DRUG INTERACTIONS
 
 No drug-drug interaction studies have been conducted with LILETTA.
 

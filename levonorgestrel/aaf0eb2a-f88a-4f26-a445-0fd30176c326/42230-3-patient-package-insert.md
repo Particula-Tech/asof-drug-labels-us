@@ -13,7 +13,7 @@ You should also learn about other birth control methods to choose the one that i
 
 What is LILETTA?
 
-- LILETTA is a hormone-releasing system placed in your uterus by your healthcare provider to prevent pregnancy for up to 4 years.
+- LILETTA is a hormone-releasing system placed in your uterus by your healthcare provider to prevent pregnancy for up to 5 years.
 - LILETTA can be removed by your healthcare provider at any time.
 - LILETTA can be used whether or not you have given birth to a child.
 
@@ -27,18 +27,18 @@ The threads are the only part of LILETTA you can feel when LILETTA is in your ut
 | LILETTA is small | and flexible |
 | --- | --- |
 
-What if I need birth control for more than 4 years?
+What if I need birth control for more than 5 years?
 
-LILETTA must be removed after 4 years.
+LILETTA must be removed after 5 years.
 Your healthcare provider can place a new LILETTA during the same office visit if you choose to continue using LILETTA.
 
 What if I want to stop using LILETTA?
 
-LILETTA is intended for use up to 4 years, but you can stop using LILETTA at any time by asking your healthcare provider to remove it.
+LILETTA is intended for use up to 5 years, but you can stop using LILETTA at any time by asking your healthcare provider to remove it.
 You could become pregnant as soon as LILETTA is removed, so you should use another method of birth control if you do not want to become pregnant.
 Talk to your healthcare provider about the best birth control methods for you, because your new method may need to be started 7 days before LILETTA is removed to prevent pregnancy.
 
-What if I change my mind about birth control and want to become pregnant in less than 4 years?
+What if I change my mind about birth control and want to become pregnant in less than 5 years?
 
 Your healthcare provider can remove LILETTA at any time.
 You could become pregnant as soon as LILETTA is removed.
@@ -63,7 +63,7 @@ Who might use LILETTA?
 You might choose LILETTA if you:
 
 - want long-term birth control that provides a low chance of getting pregnant (less than 1 in 100)
-- want birth control that works continuously for up to 4 years
+- want birth control that works continuously for up to 5 years
 - want birth control that is reversible
 - want a birth control method that you do not need to take daily
 - are willing to use a birth control method that is placed in the uterus
@@ -76,7 +76,10 @@ Do not use LILETTA if you:
 - have an untreated lower genital infection now
 - have had an infection from an abortion within the last 3 months
 - can get infections easily.
-  For example, if you: ○ have problems with your immune system ○ have multiple sexual partners or your partner has multiple sexual partners ○ use or abuse intravenous drugs
+  For example, if you:
+  - have problems with your immune system
+  - have multiple sexual partners or your partner has multiple sexual partners
+  - use or abuse intravenous drugs
 - have or suspect you might have cancer of the uterus or cervix
 - have bleeding from the vagina that has not been explained
 - have short-term (acute) liver disease or liver tumor
@@ -97,8 +100,6 @@ Before having LILETTA placed, tell your healthcare provider if you have any medi
 - have severe migraine headaches
 - have severe or frequent headaches
 - have AIDS, HIV, or any other sexually transmitted infection
-
-Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
 How is LILETTA placed?
 
@@ -216,7 +217,6 @@ LILETTA can cause serious side effects, including:
   More serious cases of PID or endometritis may require surgery.
   Removal of the uterus (hysterectomy) is sometimes needed.
   In rare cases, infections that start as PID or endometritis can even cause death.
-  Tell your healthcare provider right away if you have any of these signs of PID or endometritis: long-lasting or heavy bleeding, unusual vaginal discharge, low abdominal pain, painful sex, chills, or fever.
 - perforation.
   LILETTA may become attached to (embedded) or go through the wall of the uterus.
   This is called perforation.
@@ -240,6 +240,8 @@ LILETTA can cause serious side effects, including:
   However, the bleeding usually becomes lighter than usual and may be irregular.
   Call your healthcare provider if the bleeding remains heavier than usual or increases after it has been light for a while.
 
+Tell your healthcare provider right away if you have any of these signs of PID or endometritis: long-lasting or heavy bleeding, unusual vaginal discharge, low abdominal pain, painful sex, chills, or fever.
+
 The most common side effects of LILETTA include:
 
 | vaginal bacterial infection | yeast infection of the outer part of your vagina (vulvovaginal) |
@@ -252,7 +254,7 @@ The most common side effects of LILETTA include:
 | mood changes | anxiety |
 
 - Pain, bleeding, or dizziness during and after placement.
-  If these symptoms do not stop within 30 minutes after placement, LILETTA may not have been placed correctly.
+  If these symptoms do not stop within 30 minutes after placement, LILETTA may not have been placed correctly, or they may be symptoms of perforation or expulsion.
   Your healthcare provider will examine you to see if LILETTA needs to be removed or replaced.
 - Missed menstrual periods.
   About 2 out of 10 women stop having periods after 1 year of LILETTA use.
@@ -299,13 +301,27 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 LILETTA® and its design are registered trademarks of Odyssea Pharma SPRL, an Allergan affiliate.
 
-Manufactured by: Odyssea Pharma, Belgium An affiliated company of Allergan USA, Inc.
+Manufactured by:
 
-Distributed by: Allergan USA, Inc. Irvine, CA 92612
+Odyssea Pharma, SPRL, Belgium
 
-Marketed by: Allergan USA, Inc. Medicines360 Irvine, CA 92612 San Francisco, CA 94111
+An affiliated company of Allergan USA, Inc.
 
-© 2017 Allergan and Medicines360.
+Distributed by:
+
+Allergan USA, Inc. Irvine, CA 92612
+
+Marketed by:
+
+Allergan USA, Inc. Medicines360
+
+Irvine, CA 92612 San Francisco, CA 94111
+
+© 2018 Allergan and Medicines360.
 All rights reserved.
 
-Approved: August 2017
+Allergan® and its design are trademarks of Allergan, Inc.
+
+Approved: October 2018
+
+73159US12
