@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA210331"
+  ],
+  "inn": "fluocinolone-acetonide",
+  "labeler": "EyePoint Pharmaceuticals US, Inc",
+  "package_ndcs": [
+    "71879-136-01"
+  ],
+  "products": [
+    {
+      "form": "IMPLANT",
+      "generic": "fluocinolone acetonide",
+      "name": "YUTIQ"
+    }
+  ],
+  "setid": "43ba66d9-653d-48b9-9914-b0a50b68b79a",
+  "source": "dailymed"
+}
