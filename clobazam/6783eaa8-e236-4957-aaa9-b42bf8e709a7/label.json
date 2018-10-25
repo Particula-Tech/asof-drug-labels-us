@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA209718"
+  ],
+  "inn": "clobazam",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "69238-1305-1",
+    "69238-1306-1"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "clobazam",
+      "name": "CLOBAZAM"
+    }
+  ],
+  "setid": "6783eaa8-e236-4957-aaa9-b42bf8e709a7",
+  "source": "dailymed"
+}
