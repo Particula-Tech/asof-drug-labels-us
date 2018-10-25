@@ -1,40 +1,67 @@
-# CLINICAL PHARMACOLOGY
+# 12CLINICAL PHARMACOLOGY
 
-TOBI is specifically formulated for administration by inhalation.
-When inhaled, tobramycin is concentrated in the airways.
+## 12.1 Mechanism of Action
 
-## Pharmacokinetics
+Tobramycin is an aminoglycoside antibacterial [see Microbiology (12.4)].
 
-TOBI contains tobramycin, a cationic polar molecule that does not readily cross epithelial membranes.(1) The bioavailability of TOBI may vary because of individual differences in nebulizer performance and airway pathology.(2) Following administration of TOBI, tobramycin remains concentrated primarily in the airways.
+## 12.3 Pharmacokinetics
 
-Sputum Concentrations: Ten minutes after inhalation of the first 300-mg dose of TOBI, the average concentration of tobramycin was 1237 mcg/g (ranging from 35 to 7417 mcg/g) in sputum.
-Tobramycin does not accumulate in sputum; after 20 weeks of therapy with the TOBI regimen, the average concentration of tobramycin at ten minutes after inhalation was 1154 mcg/g (ranging from 39 to 8085 mcg/g) in sputum.
-High variability of tobramycin concentration in sputum was observed.
-Two hours after inhalation, sputum concentrations declined to approximately 14% of tobramycin levels at ten minutes after inhalation.
+Absorption
 
-Serum Concentrations: The average serum concentration of tobramycin one hour after inhalation of a single 300-mg dose of TOBI by cystic fibrosis patients was 0.95 mcg/mL.
+TOBI contains tobramycin, a cationic polar molecule that does not readily cross epithelial membranes.
+(1)The bioavailability of TOBI may vary because of individual differences in nebulizer performance and airway pathology.
+(2)Following administration of TOBI, tobramycin remains concentrated primarily in the airways.
+
+Serum Concentrations
+
+The average serum concentration of tobramycin one hour after inhalation of a single 300-mg dose of TOBI by cystic fibrosis patients was 0.95 mcg/mL.
 After 20 weeks of therapy on the TOBI regimen, the average serum tobramycin concentration one hour after dosing was 1.05 mcg/mL.
 
-Elimination: The elimination half-life of tobramycin from serum is approximately 2 hours after intravenous (IV) administration.
-Assuming tobramycin absorbed following inhalation behaves similarly to tobramycin following IV administration, systemically absorbed tobramycin is eliminated principally by glomerular filtration.
+Sputum Concentrations
+
+Ten minutes after inhalation of the first 300-mg dose of TOBI by cystic fibrosis patients, the average concentration of tobramycin was 1237 mcg/g (range 35 to 7417 mcg/g) in sputum.
+Tobramycin does not accumulate in sputum; after 20 weeks of therapy with the TOBI regimen, the average concentration of tobramycin at ten minutes after inhalation was 1154 mcg/g (range 39 to 8085 mcg/g) in sputum.
+Two hours after inhalation, sputum concentrations declined to approximately 14% of tobramycin levels at ten minutes after inhalation.
+
+Distribution
+
+Following administration of TOBI, tobramycin remains concentrated primarily in the airways.
+Binding of tobramycin to serum proteins is negligible.
+
+Elimination
+
+Metabolism
+
+Tobramycin is not metabolized.
+
+Excretion
+
+The elimination half-life of tobramycin from serum is approximately 2 and 3 hours after intravenous (IV) administration and inhalation, respectively.
+Systemically absorbed tobramycin is primarily excreted unchanged in the urine principally by glomerular filtration.
 Unabsorbed tobramycin, following TOBI administration, is probably eliminated primarily in expectorated sputum.
 
-## Microbiology
+## 12.4 Microbiology
 
-Tobramycin is an aminoglycoside antibiotic produced by Streptomyces tenebrarius.(1) It acts primarily by disrupting protein synthesis, leading to altered cell membrane permeability, progressive disruption of the cell envelope, and eventual cell death.(3)
+Mechanism of Action
 
-Tobramycin has in vitro activity against a wide range of gram-negative organisms including Pseudomonas aeruginosa.
-It is bactericidal at concentrations equal to or slightly greater than inhibitory concentrations.
+Tobramycin is an aminoglycoside antibacterial produced by Streptomyces tenebrarius.
+(1)It acts primarily by disrupting protein synthesis, leading to altered cell membrane permeability, progressive disruption of the cell envelope, and eventual cell death.(3)
 
-## Susceptibility Testing
+Tobramycin has in vitro activity against gram-negative bacteria including Pseudomonas aeruginosa.
+It is bactericidal in vitro at concentrations equal to or slightly greater than the minimum inhibitory concentration (MIC).
 
-A single sputum sample from a cystic fibrosis patient may contain multiple morphotypes of Pseudomonas aeruginosa and each morphotype may have a different level of in vitro susceptibility to tobramycin.
+Resistance
+
 Treatment for 6 months with TOBI in two clinical studies did not affect the susceptibility of the majority of P. aeruginosa isolates tested; however, increased minimum inhibitory concentrations (MICs) were noted in some patients.
-The clinical significance of this information has not been clearly established in the treatment of P. aeruginosa in cystic fibrosis patients.
-For additional information regarding the effects of TOBI on P. aeruginosa MIC values and bacterial sputum density, please refer to the CLINICAL STUDIES section.
+The clinical significance of this information has not been clearly established in the treatment of P. aeruginosa in cystic fibrosis patients [see Clinical Studies (14)].
 
+Susceptibility Test Methods
+
+Interpretive criteria for inhaled antibacterial products are not defined.
 The in vitro antimicrobial susceptibility test methods used for parenteral tobramycin therapy can be used to monitor the susceptibility of P. aeruginosa isolated from cystic fibrosis patients.
 If decreased susceptibility is noted, the results should be reported to the clinician.
 
 Susceptibility breakpoints established for parenteral administration of tobramycin do not apply to aerosolized administration of TOBI.
 The relationship between in vitro susceptibility test results and clinical outcome with TOBI therapy is not clear.
+
+A single sputum sample from a cystic fibrosis patient may contain multiple morphotypes of Pseudomonas aeruginosa and each morphotype may have a different level of in vitro susceptibility to tobramycin.

@@ -1,4 +1,4 @@
-# REFERENCES
+# 15REFERENCES
 
 1.
 Neu HC.
@@ -16,11 +16,3 @@ Aminoglycoside resistance.
 Bryan LE, Ed.
 Antimicrobial drug resistance.
 Orlando, FL: Academic Press, 1984: 241-77.
-
-U.S. Patent 5,508,269; other patents pending.
-
-Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
-
-© Novartis
-
-T2015-140 October 2015

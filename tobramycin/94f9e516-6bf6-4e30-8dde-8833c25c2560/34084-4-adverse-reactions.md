@@ -1,9 +1,49 @@
-# ADVERSE REACTIONS
+# 6ADVERSE REACTIONS
 
-TOBI was generally well tolerated during two clinical studies in 258 cystic fibrosis patients ranging in age from 6 to 48 years.
+The following serious adverse reactions are described below and elsewhere in the labeling:
+
+- Bronchospasm [see Warnings and Precautions (5.1)]
+- Ototoxicity [see Warnings and Precautions (5.2)]
+- Nephrotoxicity [see Warnings and Precautions (5.3)]
+- Neuromuscular Disorders [see Warnings and Precautions (5.4)]
+- Embryo-fetal Toxicity [see Warnings and Precautions (5.5)]
+- Concomitant Use of Systemic Aminoglycosides [see Warnings and Precautions (5.6)]
+
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+TOBI was studied in two Phase 3 clinical studies involving 258 cystic fibrosis patients ranging in age from 6 to 48 years.
 Patients received TOBI in alternating periods of 28 days on and 28 days off drug in addition to their standard cystic fibrosis therapy for a total of 24 weeks.
 
-Voice alteration and tinnitus were the only adverse experiences reported by significantly more TOBI-treated patients.
+Table 1 lists the percent of patients with selected adverse reactions that occurred in > 5% of TOBI patients during the two Phase 3 studies.
+
+Table 1: Percent of Patients With Selected Adverse Reactions Occurring in > 5% of TOBI Patients
+
+| Adverse Reaction | Tobramycin Inhalation Solution (n = 258) % | Placebo (n = 262) % |
+| --- | --- | --- |
+| Cough Increased | 46.1 | 47.3 |
+| Pharyngitis | 38.0 | 39.3 |
+| Sputum Increased | 37.6 | 39.7 |
+| Dyspnea | 33.7 | 38.5 |
+| Hemoptysis | 19.4 | 23.7 |
+| Lung Function Decreased1 | 16.3 | 15.3 |
+| Voice Alteration | 12.8 | 6.5 |
+| Taste Perversion | 6.6 | 6.9 |
+| Rash | 5.4 | 6.1 |
+| 1Includes reported decreases in pulmonary function tests or decreased lung volume on chest radiograph associated with intercurrent illness or study drug administration. |  |  |
+
+Selected adverse reactions that occurred in less than or equal to 5% of patients treated with TOBI:
+
+Ear and Labyrinth Disorders: Tinnitus
+
+Musculoskeletal and ConnectiveTtissue Disorders: Myalgia
+
+Infections and Infestations: Laryngitis
+
+Voice Alteration and Tinnitus
+
+Voice alteration and tinnitus were the only adverse reactions reported by significantly more TOBI-treated patients.
 Thirty-three patients (13%) treated with TOBI complained of voice alteration compared to 17 (7%) placebo patients.
 Voice alteration was more common in the on-drug periods.
 
@@ -12,84 +52,32 @@ All episodes were transient, resolved without discontinuation of the TOBI treatm
 Tinnitus is one of the sentinel symptoms of cochlear toxicity, and patients with this symptom should be carefully monitored for high frequency hearing loss.
 The numbers of patients reporting vestibular adverse experiences such as dizziness were similar in the TOBI and placebo groups.
 
+Changes in Serum Creatinine
+
 Nine (3%) patients in the TOBI group and nine (3%) patients in the placebo group had increases in serum creatinine of at least 50% over baseline.
 In all nine patients in the TOBI group, creatinine decreased at the next visit.
 
-Table 1 lists the percent of patients with treatment-emergent adverse experiences (spontaneously reported and solicited) that occurred in >5% of TOBI patients during the two Phase III studies.
+## 6.2 Postmarketing Experience
 
-Table 1: Percent of Patients With Treatment Emergent Adverse Experiences Occurring in >5% of TOBI Patients
-
-| Adverse Event | TOBI (n=258) % | Placebo (n=262) % |
-| --- | --- | --- |
-| Cough Increased | 46.1 | 47.3 |
-| Pharyngitis | 38.0 | 39.3 |
-| Sputum Increased | 37.6 | 39.7 |
-| Asthenia | 35.7 | 39.3 |
-| Rhinitis | 34.5 | 33.6 |
-| Dyspnea | 33.7 | 38.5 |
-| Fever1 | 32.9 | 43.5 |
-| Lung Disorder | 31.4 | 31.3 |
-| Headache | 26.7 | 32.1 |
-| Chest Pain | 26.0 | 29.8 |
-| Sputum Discoloration | 21.3 | 19.8 |
-| Hemoptysis | 19.4 | 23.7 |
-| Anorexia | 18.6 | 27.9 |
-| Lung Function Decreased2 | 16.3 | 15.3 |
-| Asthma | 15.9 | 20.2 |
-| Vomiting | 14.0 | 22.1 |
-| Abdominal Pain | 12.8 | 23.7 |
-| Voice Alteration | 12.8 | 6.5 |
-| Nausea | 11.2 | 16.0 |
-| Weight Loss | 10.1 | 15.3 |
-| Pain | 8.1 | 12.6 |
-| Sinusitis | 8.1 | 9.2 |
-| Ear Pain | 7.4 | 8.8 |
-| Back Pain | 7.0 | 8.0 |
-| Epistaxis | 7.0 | 6.5 |
-| Taste Perversion | 6.6 | 6.9 |
-| Diarrhea | 6.2 | 10.3 |
-| Malaise | 6.2 | 5.3 |
-| Lower Respiratory Tract Infection | 5.8 | 8.0 |
-| Dizziness | 5.8 | 7.6 |
-| Hyperventilation | 5.4 | 9.9 |
-| Rash | 5.4 | 6.1 |
-| 1Includes subjective complaints of fever. |  |  |
-| 2Includes reported decreases in pulmonary function tests or decreased lung volume on chest radiograph associated with intercurrent illness or study drug administration. |  |  |
-
-Adverse drug reactions (<5%) occurring more frequently with TOBI in the placebo-controlled studies and assessed as drug-related in ≥1% of patients:
-
-Ear and labyrinth disorders
-
-Tinnitus (3.1%, vs 0% for placebo)
-
-Musculoskeletal and connective tissue disorders
-
-Myalgia (4.7%, vs 2.7% for placebo)
-
-Infections and infestations
-
-Laryngitis (4.3%, vs 3.1% for placebo)
-
-Adverse drug reactions derived from spontaneous reports
-
-The following adverse reactions have been identified during postapproval use of TOBI.
+The following adverse reactions have been identified during post-approval use of TOBI.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Ear and labyrinth disorders
+Ear and Labyrinth Disorders
 
-Hearing loss (see WARNINGS – Ototoxicity)
+Hearing loss: Some of these reports occurred in patients with previous or concomitant treatment with systemic aminoglycosides.
+Patients with hearing loss frequently reported tinnitus [see Warnings and Precautions (5.2)].
 
-Skin and subcutaneous tissue disorders
+Skin and Subcutaneous Tissue Disorders
 
 Hypersensitivity, pruritus, urticaria, rash
 
-Nervous system disorders
+Nervous System Disorders
 
 Aphonia, dysgeusia
 
-Respiratory, thoracic, and mediastinal disorders
+Respiratory, Thoracic, and Mediastinal Disorders
 
-Bronchospasm (see WARNINGS – Bronchospasm), oropharyngeal pain
+Bronchospasm [see Warnings and Precautions (5.1)] oropharyngeal pain
 
 Metabolism and Nutrition Disorders
 
