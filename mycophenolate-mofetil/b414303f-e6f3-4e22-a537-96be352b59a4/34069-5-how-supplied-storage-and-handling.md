@@ -1,43 +1,22 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## Mycophenolate Mofetil Capsules USP, 250 mg
+## 16.1 Handling and Disposal
 
-Mycophenolate mofetil capsules USP are available as follows:
+Mycophenolate mofetil (MMF) has demonstrated teratogenic effects in humans [see Warnings and Precautions (5.1) and Use in Specific Populations (8.1)].
+Mycophenolate Mofetil Capsules USP should not be opened or crushed.
+Avoid inhalation or direct contact with skin or mucous membranes of the powder contained in Mycophenolate Mofetil Capsules USP.
+Follow applicable special handling and disposal procedures1.
+
+Mycophenolate Mofetil Capsules USP are available as follows:
 
 250 mg – hard gelatin capsules with a light blue opaque cap and a bright orange opaque body, filled with a white to off-white powder with small agglomerates; imprinted with "TEVA" on the cap and "7334" on the body.
 They are available in bottles of 100 and 500 capsules.
 (NDC 0093-7334-01 and NDC 0093-7334-05)
 
-## Mycophenolate Mofetil Tablets USP, 500 mg
-
-Mycophenolate mofetil tablets USP are available as follows:
-
-500 mg – purple, oval-shaped, film-coated tablets, debossed with “93” on one side of the tablet and with “7477” on the other side.
-They are available in bottles of 100 and 500 tablets.
-(NDC 0093-7477-01 and NDC 0093-7477-05)
-
-## Storage and Dispensing Information
+## 16.2 Storage and Dispensing Information
 
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
 Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure (as required).
 
 KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
-
-All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA, Inc.
-
-Manufactured In Israel By:
-
-TEVA PHARMACEUTICAL IND.
-LTD.
-
-Jerusalem, 9777402, Israel
-
-Manufactured For:
-
-TEVA PHARMACEUTICALS USA, INC.
-
-North Wales, PA 19454
-
-Rev.
-K 7/2015

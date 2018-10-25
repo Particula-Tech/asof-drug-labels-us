@@ -1,4 +1,4 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
 Mycophenolate mofetil, USP is the 2-morpholinoethyl ester of mycophenolic acid (MPA), an immunosuppressive agent; inosine monophosphate dehydrogenase (IMPDH) inhibitor.
 
@@ -14,10 +14,6 @@ No polymorphic form was found.
 The apparent partition coefficient in 1-octanol/water (pH 7.4) buffer solution is 238.
 The pKa values for mycophenolate mofetil, USP are 5.6 for the morpholino group and 8.5 for the phenolic group.
 
-Mycophenolate mofetil, USP is available for oral administration as capsules containing 250 mg of mycophenolate mofetil, USP and as tablets containing 500 mg of mycophenolate mofetil, USP.
+Mycophenolate mofetil, USP is available for oral administration as capsules containing 250 mg of mycophenolate mofetil, USP.
 
-Inactive ingredients in mycophenolate mofetil capsules USP, 250 mg include: black iron oxide, croscarmellose sodium, D&C red #28, D&C yellow #10, FD&C blue #1, FD&C red #40, gelatin, magnesium stearate, povidone, pregelatinized starch, propylene glycol, shellac glaze, and titanium dioxide.
-
-Inactive ingredients in mycophenolate mofetil tablets USP, 500 mg include: croscarmellose sodium, FD&C blue #2 aluminum lake, FD&C red #40 aluminum lake, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, povidone, talc, and titanium dioxide.
-
-Mycophenolate mofetil tablets USP meet USP Dissolution Test 3.
+Inactive ingredients in Mycophenolate Mofetil Capsules USP, 250 mg include: black iron oxide, croscarmellose sodium, D&C red #28, D&C yellow #10, FD&C blue #1, FD&C red #40, gelatin, magnesium stearate, povidone, pregelatinized corn starch, propylene glycol, shellac glaze, and titanium dioxide.

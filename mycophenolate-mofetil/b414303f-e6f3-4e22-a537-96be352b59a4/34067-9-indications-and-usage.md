@@ -1,6 +1,3 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-## Renal, Cardiac, and Hepatic Transplant
-
-Mycophenolate mofetil capsules USP and mycophenolate mofetil tablets USP are indicated for the prophylaxis of organ rejection in patients receiving allogeneic renal, cardiac or hepatic transplants.
-Mycophenolate mofetil, USP should be used concomitantly with cyclosporine and corticosteroids.
+Mycophenolate mofetil capsules (MMF) are indicated for the prophylaxis of organ rejection, in recipients of allogeneic kidney [see Clinical Studies (14.1)], heart [see Clinical Studies (14.2)] or liver transplants [see Clinical Studies (14.3)], in combination with other immunosuppressants.
