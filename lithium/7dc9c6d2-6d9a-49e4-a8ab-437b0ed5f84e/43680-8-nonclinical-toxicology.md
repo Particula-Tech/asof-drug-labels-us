@@ -14,4 +14,3 @@ Impairment of Fertility
 
 There have been no adequate studies performed in animals at current standards to evaluate the effect of lithium treatment on fertility.
 However, published studies in male mice and rats administered repeated daily dosing of lithium carbonate report adverse effects on male reproductive organs, decreased spermatogenesis and decreased testosterone levels.
-The clinical significance of these findings is not clear.

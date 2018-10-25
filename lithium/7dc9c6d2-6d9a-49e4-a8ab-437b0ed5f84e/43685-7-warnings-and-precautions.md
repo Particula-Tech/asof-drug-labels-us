@@ -3,7 +3,7 @@
 ## 5.1 Acute Lithium Toxicity
 
 The toxic concentrations for lithium (≥1.5 mEq/L) are close to the therapeutic range (0.8 to 1.2mEq/L).
-Some patients abnormally sensitive to lithium may exhibit toxic signs at serum concentrations that are considered within the therapeutic range [see Boxed Warning, Dosage and Administration (2.6)].
+Some patients abnormally sensitive to lithium may exhibit toxic signs at serum concentrations that are considered within the therapeutic range [see Boxed Warning, Dosage and Administration (2.3)].
 Lithium may take up to 24 hours to distribute into brain tissue, so occurrence of acute toxicity symptoms may be delayed.
 
 Diarrhea, vomiting, drowsiness, muscular weakness and lack of coordination may be early signs of lithium toxicity, and can occur at lithium concentrations below 2.0 mEq/L.
@@ -25,7 +25,7 @@ Dose requirements during the acute manic phase are higher to maintain therapeuti
 The risk of lithium toxicity is very high in patients with significant renal or cardiovascular disease, severe debilitation or dehydration, or sodium depletion, and for patients receiving prescribed medications that may affect kidney function, such as angiotensin converting enzyme inhibitors (ACE inhibitors), diuretics (loops and thiazides) and NSAIDs.
 For these patients, consider starting with lower doses and titrating slowly while frequently monitoring serum lithium concentrations and signs of lithium toxicity.
 
-To reduce the risk of acute lithium toxicity during treatment initiation, facilities for prompt and accurate serum lithium determinations should be available before initiating treatment [seeBoxed Warning, Dosage and Administration (2.6)].
+To reduce the risk of acute lithium toxicity during treatment initiation, facilities for prompt and accurate serum lithium determinations should be available before initiating treatment [seeBoxed Warning, Dosage and Administration (2.3)].
 Advise patients and caregivers to watch for signs of early toxicity and to discontinue lithium and immediately inform their health care provider if they occur.
 
 ## 5.2 Lithium-Induced Polyuria

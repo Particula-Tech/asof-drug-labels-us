@@ -17,15 +17,11 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Clinical Considerations
 
-Dose Adjustments During Pregnancy and the Postpartum Period
-
-If the decision is made to continue lithium treatment during pregnancy, serum lithium concentrations should be monitored and the dosage adjusted during pregnancy.
+Dose Adjustments During Pregnancy and the Postpartum Period: If the decision is made to continue lithium treatment during pregnancy, serum lithium concentrations should be monitored and the dosage adjusted during pregnancy.
 Two to three days prior to delivery, lithium dosage should be decreased or discontinued to reduce the risk of maternal and/or neonatal toxicity.
-Lithium may be restarted in the post-partum period at preconception doses in medically stable patients as long as serum lithium levels are closely monitored [see Dosage and Administration (2.7), Warnings and Precautions (5.1)].
+Lithium may be restarted in the post-partum period at preconception doses in medically stable patients as long as serum lithium levels are closely monitored [see Dosage and Administration (2.4), Warnings and Precautions (5.1)].
 
-Fetal/Neonatal Adverse Reactions
-
-Lithium toxicity may occur in neonates who were exposed to lithium in late pregnancy.
+Fetal/Neonatal Adverse Reactions: Lithium toxicity may occur in neonates who were exposed to lithium in late pregnancy.
 A floppy baby syndrome including neurological, cardiac, and hepatic abnormalities that are similar to those seen with lithium toxicity in adults have been observed.
 Symptoms include hypotonia, respiratory distress syndrome, cyanosis, lethargy, feeding difficulties, depressed neonatal reflexes, neonatal depression, apnea, and bradycardia.
 Monitor neonates and provide supportive care until lithium is excreted and toxic signs disappear, which may take up to 14 days.
@@ -49,8 +45,9 @@ Consider regular monitoring of lithium levels and thyroid function in a breastfe
 
 ## 8.4 Pediatric Use
 
-Dosage recommendations for lithium in patients 12 years and older are similar to that of adults [see Dosage and Administration (2.5)].
-Safety and effectiveness of lithium in pediatric patients below the age of 12 years have not been established.
+The safety and effectiveness of lithium for monotherapy treatment of acute manic or mixed episodes of bipolar I disorder and maintenance monotherapy of bipolar I disorder in pediatric patients ages 7 to 17 years of age have been established in an acute-phase clinical trial of 8 weeks in duration followed by a 28-week randomized withdrawal phase [see Dosage and Administration (2.1), Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14)].
+
+The safety and effectiveness of lithium has not been established in pediatric patients less than 7 years of age with bipolar I disorder.
 
 ## 8.5 Geriatric Use
 
@@ -64,6 +61,6 @@ Because elderly patients are more likely to have decreased renal function, care 
 ## 8.6 Renal Impairment
 
 As lithium is eliminated primarily through the kidney, lithium renal clearance is decreased in patients with abnormal renal function, and the risk of lithium intoxication increases considerably in this setting.
-Lithium should not be used in severe renal insufficiency (creatinine clearance less than 30 mL/min evaluated by Cockcroft-Gault), especially if the condition requires adherence to a low-sodium diet[see Dosage and Administration (2.8)].
+Lithium should not be used in severe renal insufficiency (creatinine clearance less than 30 mL/min evaluated by Cockcroft-Gault), especially if the condition requires adherence to a low-sodium diet[see Dosage and Administration (2.5)].
 
-Start patients with mild to moderately impaired renal function (creatinine clearance 30 to 89 mL/min evaluated by Cockcroft-Gault) with lower doses of lithium and titrate slowly while frequently monitoring serum lithium concentrations and for signs of lithium toxicity [see Dosage and Administration (2.8)].
+Start patients with mild to moderately impaired renal function (creatinine clearance 30 to 89 mL/min evaluated by Cockcroft-Gault) with lower doses of lithium and titrate slowly while frequently monitoring serum lithium concentrations and for signs of lithium toxicity [see Dosage and Administration (2.5)].

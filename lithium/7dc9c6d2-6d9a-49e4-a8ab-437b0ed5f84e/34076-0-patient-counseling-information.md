@@ -24,7 +24,7 @@ Hyponatremia
 Counsel patients on the adverse reactions of hyponatremia, when to seek medical attention, the importance of maintaining a normal diet including adequate salt intake and staying hydrated [see Warnings and Precautions (5.3)].
 Salt supplements and additional fluids may be required if excessive losses occur.
 
-Serotonin Syndrome
+SerotoninSyndrome
 
 Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of lithium with other serotonergic drugs including SSRIs, SNRIs, triptans, tricyclic antidepressants, fentanyl, tramadol, tryptophan, buspirone, St. John’s Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid) [see Warnings and Precautions (5.6) and Drug Interactions (7)].
 
@@ -50,6 +50,6 @@ Pharmaceuticals Corp.
 
 Eatontown, NJ 07724
 
-Revised December 2017
+Revised September 2018
 
-10008909/04
+10008909/05
