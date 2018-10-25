@@ -6,6 +6,10 @@ The safety and efficacy of gemcitabine were studied in a randomized trial (Study
 Patients were randomized to receive either gemcitabine hydrochloride 1000 mg/m2 on Days 1 and 8 of a 21-day cycle and carboplatin AUC 4 administered after gemcitabine hydrochloride infusion on Day 1 of each cycle (n=178) or to carboplatin AUC 5 administered on Day 1 of each 21-day cycle (n=178).
 The primary efficacy outcome measure was progression free survival (PFS).
 
+Baseline demographics and disease characteristics in gemcitabine plus carboplatin arm were: median age of 59 (range: 36 to 78), 94% ECOG PS 0-1.
+8% had evaluable disease and 92% had bidimensionally measurable disease.
+40% had 6 to 12 months of platinum free interval, 59% had greater than 12 months platinum free interval; and as first-line therapy, 70% had platinum-taxane combination, 29% had platinum-non-taxane combination and 1% had platinum monotherapy.
+
 Baseline demographics and disease characteristics in the carboplatin arm were: median age of 58 (range 21 to 81), 95% had an Eastern Cooperative Oncology Group (ECOG) performance status of 0-1; 3% had evaluable disease and 96% had bidimensionally measurable disease; 40% had a 6 to 12 month platinum-free interval and 60% had a greater than 12 month platinum-free interval; and as first-line therapy, 71% had a platinum-taxane combination, 28% had platinum-non-taxane combination, and 1% had platinum monotherapy.
 
 The addition of gemcitabine to carboplatin resulted in statistically significant improvements in PFS and overall response rate as shown in Table 18 and Figure 1.
