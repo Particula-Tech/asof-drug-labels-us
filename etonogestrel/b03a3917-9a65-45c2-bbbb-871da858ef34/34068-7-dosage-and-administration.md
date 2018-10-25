@@ -4,10 +4,11 @@ The efficacy of NEXPLANON does not depend on daily, weekly or monthly administra
 
 All healthcare providers should receive instruction and training prior to performing insertion and/or removal of NEXPLANON.
 
-A single NEXPLANON implant is inserted subdermally in the upper arm.
-To reduce the risk of neural or vascular injury, the implant should be inserted at the inner side of the non-dominant upper arm about 8-10 cm (3-4 inches) above the medial epicondyle of the humerus.
-The implant should be inserted subdermally just under the skin, avoiding the sulcus (groove) between the biceps and triceps muscles and the large blood vessels and nerves that lie there in the neurovascular bundle deeper in the subcutaneous tissues.
+A single NEXPLANON implant is inserted subdermally just under the skin at the inner side of the non-dominant upper arm.
+The insertion site is overlying the triceps muscle about 8-10 cm (3-4 inches) from the medial epicondyle of the humerus and 3-5 cm (1.25-2 inches) posterior to the sulcus (groove) between the biceps and triceps muscles.
+This location is intended to avoid the large blood vessels and nerves lying within and surrounding the sulcus (See Figures 2a, 2b and 2c).
 An implant inserted more deeply than subdermally (deep insertion) may not be palpable and the localization and/or removal can be difficult or impossible [see Dosage and Administration (2.3) and Warnings and Precautions (5.1)].
+
 NEXPLANON must be inserted by the expiration date stated on the packaging.
 NEXPLANON is a long-acting (up to 3 years), reversible, hormonal contraceptive method.
 The implant must be removed by the end of the third year and may be replaced by a new implant at the time of removal, if continued contraceptive protection is desired.
@@ -76,11 +77,14 @@ The basis for successful use and subsequent removal of NEXPLANON is a correct an
 Both the healthcare provider and the woman should be able to feel the implant under the skin after placement.
 
 All healthcare providers performing insertions and/or removals of NEXPLANON should receive instructions and training prior to inserting or removing the implant.
-Information concerning the insertion and removal of NEXPLANON will be sent upon request free of charge [1-877-467-5266].
 
 Preparation
 
-Prior to inserting NEXPLANON carefully read the instructions for insertion as well as the full prescribing information.
+Before inserting NEXPLANON, carefully read the instructions for insertion as well as the full prescribing information.
+If you are unsure of the necessary steps to safely insert and/or remove NEXPLANON, do not attempt the procedure.
+
+Call the Merck National Service Center at 1-877-888-4231 if you have any questions.
+Videos demonstrating insertion and removal are available online for trained healthcare providers (www.nexplanontraining.com).
 
 Before insertion of NEXPLANON, the healthcare provider should confirm that:
 
@@ -96,85 +100,121 @@ Insert NEXPLANON under aseptic conditions.
 The following equipment is needed for the implant insertion:
 
 - An examination table for the woman to lie on
-- Sterile surgical drapes, sterile gloves, antiseptic solution, sterile marker (optional)
+- Sterile surgical drapes, sterile gloves, antiseptic solution, surgical marker
 - Local anesthetic, needles, and syringe
 - Sterile gauze, adhesive bandage, pressure bandage
 
 Insertion Procedure
 
+To help make sure the implant is inserted just under the skin, the healthcare providers should be positioned to see the advancement of the needle by viewing the applicator from the side and not from above the arm.
+From the side view, the insertion site and the movement of the needle just under the skin can be clearly visualized.
+
+For illustrative purposes, Figures depict the left inner arm.
+
 Step 1.
-Have the woman lie on her back on the examination table with her non-dominant arm flexed at the elbow and externally rotated so that her wrist is parallel to her ear or her hand is positioned next to her head (Figure 1).
+Have the woman lie on her back on the examination table with her non-dominant arm flexed at the elbow and externally rotated so that her hand is underneath her head (or as close as possible) (Figure 1).
 
 Step 2.
-Identify the insertion site, which is at the inner side of the non-dominant upper arm about 8-10 cm (3-4 inches) above the medial epicondyle of the humerus, avoiding the sulcus (groove) between the biceps and triceps muscles and the large blood vessels and nerves that lie there in the neurovascular bundle deeper in the subcutaneous tissue (Figure 2).
-The implant should be inserted subdermally just under the skin [see Warnings and Precautions (5.1)].
+Identify the insertion site, which is at the inner side of the non-dominant upper arm.
+The insertion site is overlying the triceps muscle about 8-10 cm (3-4 inches) from the medial epicondyle of the humerus and 3-5 cm (1.25-2 inches) posterior to the sulcus (groove) between the biceps and triceps muscles (Figures 2a, 2b and 2c).
+This location is intended to avoid the large blood vessels and nerves lying within and surrounding the sulcus.
+If it is not possible to insert the implant in this location (e.g., in women with thin arms), it should be inserted as far posterior from the sulcus as possible.
+[See Warnings and Precautions (5.1).]
 
 Step 3.
-Make two marks with a sterile marker: first, mark the spot where the etonogestrel implant will be inserted, and second, mark a spot a few centimeters proximal to the first mark (Figure 2).
-This second mark will later serve as a direction guide during insertion.
+Make two marks with a surgical marker: first, mark the spot where the etonogestrel implant will be inserted, and second, mark a spot at 5 centimeters (2 inches) proximal (toward the shoulder) to the first mark (Figure 2a and 2b).
+This second mark (guiding mark) will later serve as a direction guide during insertion.
+
+| Figure 2a P - Proximal (toward the shoulder) D - Distal (toward the elbow) |
+| --- |
+
+|  | Figure 2b | Figure 2c: Cross section of the upper left arm, as viewed from the elbow |  |
+| --- | --- | --- | --- |
 
 Step 4.
-Clean the insertion site with an antiseptic solution.
+After marking the arm, confirm the site is in the correct location on the inner side of the arm.
 
 Step 5.
-Anesthetize the insertion area (for example, with anesthetic spray or by injecting 2 mL of 1% lidocaine just under the skin along the planned insertion tunnel).
+Clean the skin from the insertion site to the guiding mark with an antiseptic solution.
 
 Step 6.
+Anesthetize the insertion area (for example, with anesthetic spray or by injecting 2 mL of 1% lidocaine just under the skin along the planned insertion tunnel).
+
+Step 7.
 Remove the sterile preloaded disposable NEXPLANON applicator carrying the implant from its blister.
 The applicator should not be used if sterility is in question.
 
-Step 7.
+Step 8.
 Hold the applicator just above the needle at the textured surface area.
 Remove the transparent protection cap by sliding it horizontally in the direction of the arrow away from the needle (Figure 3).
 If the cap does not come off easily, the applicator should not be used.
-You can see the white colored implant by looking into the tip of the needle.
-Do not touch the purple slider until you have fully inserted the needle subdermally, as it will retract the needle and prematurely release the implant from the applicator.
-
-Step 8.
-With your free hand, stretch the skin around the insertion site with thumb and index finger (Figure 4).
+You should see the white colored implant by looking into the tip of the needle.
+Do not touch the purple slider until you have fully inserted the needle subdermally, as doing so will retract the needle and prematurely release the implant from the applicator.
 
 Step 9.
-Puncture the skin with the tip of the needle slightly angled less than 30° (Figure 5).
+With your free hand, stretch the skin around the insertion site towards the elbow (Figure 4).
 
 Step 10.
-Lower the applicator to a horizontal position.
-While lifting the skin with the tip of the needle (Figure 6), slide the needle to its full length.
+The implant should be inserted subdermally just under the skin (see Warnings and Precautions (5.1))
+
+To help make sure the implant is inserted just under the skin, you should position yourself to see the advancement of the needle by viewing the applicator from the side and not from above the arm.
+From the side view (see Figure 6), you can clearly see the insertion site and the movement of the needle just under the skin.
+
+Step 11.
+Puncture the skin with the tip of the needle slightly angled less than 30° (Figure 5a).
+
+Step 12.
+Insert the needle until the bevel (slanted opening of the tip) is just under the skin (and no further) (Figure 5b).
+If you insert the needle past the bevel, withdraw it until only the bevel is beneath the skin.
+
+Step 13.
+Lower the applicator to a nearly horizontal position.
+To facilitate subdermal placement, lift the skin with the needle while sliding the needle to its full length (Figure 6).
 You may feel slight resistance but do not exert excessive force.
 If the needle is not inserted to its full length, the implant will not be inserted properly.
 
-You can best see movement of the needle, and that it is inserted just under the skin, if you are seated and are looking at the applicator from the side and NOT from above.
-In this position, you can clearly see the insertion site and the movement of the needle just under the skin.
-
-Step 11.
-Keep the applicator in the same position with the needle inserted to its full length.
-If needed, you may use your free hand to keep the applicator in the same position during the following procedure.
-Unlock the purple slider by pushing it slightly down.
-Move the slider fully back until it stops (Figure 7).
-The implant is now in its final subdermal position, and the needle is locked inside the body of the applicator.
-The applicator can now be removed.
-If the applicator is not kept in the same position during this procedure or if the purple slider is not completely moved to the back, the implant will not be inserted properly.
-
-Step 12.
-Always verify the presence of the implant in the woman's arm immediately after insertion by palpation.
-By palpating both ends of the implant, you should be able to confirm the presence of the 4 cm rod (Figure 8).
-See "If the rod is not palpable" below.
-
-Step 13.
-Place a small adhesive bandage over the insertion site.
-Request that the woman palpate the implant.
+If the needle tip emerges from the skin before needle insertion is complete, the needle should be pulled back and be readjusted to subdermal position before completing the insertion procedure.
 
 Step 14.
-Apply a pressure bandage with sterile gauze to minimize bruising.
-The woman may remove the pressure bandage in 24 hours and the small bandage over the insertion site after 3 to 5 days.
+Keep the applicator in the same position with the needle inserted to its full length (Figure 7).
+If needed, you may use your free hand to stabilize the applicator.
+Unlock the purple slider by pushing it slightly down (Figure 8a).
+Move the slider fully back until it stops.
+Do not move the applicator while moving the purple slider (Figure 8b).
+The implant is now in its final subdermal position, and the needle is locked inside the body of the applicator.
+The applicator can now be removed (Figure 8c).
+
+|  | Figure 8a | Figure 8b |  |
+| --- | --- | --- | --- |
+
+If the applicator is not kept in the same position during this procedure or if the purple slider is not moved fully back until it stops, the implant will not be inserted properly and may protrude from the insertion site.
+
+If the implant is protruding from the insertion site, remove the implant and perform a new procedure at the same insertion site using a new applicator.
+Do not push the protruding implant back into the incision.
 
 Step 15.
+Apply a small adhesive bandage over the insertion site.
+
+Step 16.
+Always verify the presence of the implant in the woman's arm immediately after insertion by palpation.
+By palpating both ends of the implant, you should be able to confirm the presence of the 4 cm rod (Figure 9).
+See "If the rod is not palpable after insertion" below.
+
+Step 17.
+Request that the woman palpate the implant.
+
+Step 18.
+Apply a pressure bandage with sterile gauze to minimize bruising.
+The woman may remove the pressure bandage in 24 hours and the small adhesive bandage over the insertion site after 3 to 5 days.
+
+Step 19.
 Complete the USER CARD and give it to the woman to keep.
 Also, complete the PATIENT CHART LABEL and affix it to the woman's medical record.
 
-Step 16.
+Step 20.
 The applicator is for single use only and should be disposed in accordance with the Center for Disease Control and Prevention guidelines for handling of hazardous waste.
 
-If the rod is not palpable:
+If the rod is not palpable after insertion:
 
 If you cannot feel the implant or are in doubt of its presence, the implant may not have been inserted or it may have been inserted deeply:
 
@@ -183,19 +223,27 @@ If you cannot feel the implant or are in doubt of its presence, the implant may 
 - Use other methods to confirm the presence of the implant.
   Given the radiopaque nature of the implant, suitable methods for localization are two-dimensional X-ray and X-ray computerized tomography (CT scan).
   Ultrasound scanning (USS) with a high-frequency linear array transducer (10 MHz or greater) or magnetic resonance imaging (MRI) may be used.
-  If these methods fail, call 1-877-467-5266 for information on the procedure for measuring etonogestrel blood levels.
+  If these methods fail, call the Merck National Service Center at 1-877-888-4231 for information on the procedure for measuring etonogestrel blood levels which can be used for verification of the presence of the implant.
 
 Until the presence of the implant has been verified, the woman should be advised to use a non-hormonal contraceptive method, such as condoms.
 
-Once the non-palpable implant has been located, removal is recommended [see Warnings and Precautions (5.1)].
+Deeply-placed implants should be localized and removed as soon as possible to avoid the potential for distant migration [see Warnings and Precautions (5.1)].
 
 ## 2.3 Removal of NEXPLANON
 
 Preparation
 
-Before initiating the removal procedure, the healthcare provider should carefully read the instructions for removal and consult the USER CARD and/or the PATIENT CHART LABEL for the location of the implant.
+Removal of the implant should only be performed under aseptic conditions by a healthcare provider who is familiar with the removal technique.
+If you are unfamiliar with the removal technique, call 1-877-888-4231 for further information.
+
+Before initiating the removal procedure, the healthcare provider should assess the location of the implant and carefully read the instructions for removal.
 The exact location of the implant in the arm should be verified by palpation.
-[See Dosage and Administration (2.3) and Localization and Removal of a Non-Palpable Implant.]
+If the implant is not palpable, consult the User Card or medical record to verify the arm which contains the implant.
+If the implant cannot be palpated, it may be deeply located or have migrated.
+Consider that it may lie close to vessels and nerves.
+Removal of non-palpable implants should only be performed by a healthcare provider experienced in removing deeply placed implants and familiar with localizing the implant and the anatomy of the arm.
+Call 1-877-888-4231 for further information.
+[See Localization and Removal of a Non-Palpable Implant, below.]
 
 Procedure for Removal of an Implant that is Palpable
 
@@ -203,65 +251,82 @@ Before removal of the implant, the healthcare provider should confirm that:
 
 - The woman does not have allergies to the antiseptic or anesthetic to be used.
 
-Remove the implant under aseptic conditions.
-
 The following equipment is needed for removal of the implant:
 
 - An examination table for the woman to lie on
-- Sterile surgical drapes, sterile gloves, antiseptic solution, sterile marker (optional)
+- Sterile surgical drapes, sterile gloves, antiseptic solution, surgical marker
 - Local anesthetic, needles, and syringe
 - Sterile scalpel, forceps (straight and curved mosquito)
-- Skin closure, sterile gauze, adhesive bandage and pressure bandages
+- Skin closure, sterile gauze, and pressure bandage
 
 Removal Procedure
 
+For illustrative purposes, Figures depict the left inner arm
+
 Step 1.
-Clean the site where the incision will be made and apply an antiseptic.
-Locate the implant by palpation and mark the distal end (end closest to the elbow), for example, with a sterile marker (Figure 9).
+Have the woman lie on her back on the table.
+The arm should be positioned with the elbow flexed and the hand underneath the head (or as close as possible).
+(See Figure 1.)
 
 Step 2.
-Anesthetize the arm, for example, with 0.5 to 1 mL 1% lidocaine at the marked site where the incision will be made (Figure 10).
-Be sure to inject the local anesthetic under the implant to keep it close to the skin surface.
+Locate the implant by palpation.
+Push down the end of the implant closest to the shoulder (Figure 10) to stabilize it; a bulge should appear indicating the tip of the implant that is closest to the elbow.
+If the tip does not pop up, removal of the implant may be more challenging and should be performed by providers experienced with removing deeper implants.
+Call 1-877-888-4231 for further information.
+
+Mark the distal end (end closest to the elbow), for example, with a surgical marker.
+
+| Figure 10 P - Proximal (toward the shoulder) D - Distal (toward the elbow) |
+| --- |
 
 Step 3.
-Push down the proximal end of the implant (Figure 11) to stabilize it; a bulge may appear indicating the distal end of the implant.
-Starting at the distal tip of the implant, make a longitudinal incision of 2 mm towards the elbow.
+Clean the site with an antiseptic solution.
 
 Step 4.
-Gently push the implant towards the incision until the tip is visible.
-Grasp the implant with forceps (preferably curved mosquito forceps) and gently remove the implant (Figure 12).
+Anesthetize the site, for example, with 0.5 to 1 mL 1% lidocaine, where the incision will be made (Figure 11).
+Be sure to inject the local anesthetic under the implant to keep the implant close to the skin surface.
+Injection of local anesthetic over the implant may make removal more difficult.
 
 Step 5.
-If the implant is encapsulated, make an incision into the tissue sheath and then remove the implant with the forceps (Figures 13 and 14).
-
-| Figure 13 | Figure 14 |
-| --- | --- |
+Push down the end of the implant closest to the shoulder (Figure 12) to stabilize it throughout the procedure.
+Starting over the tip of the implant closest to the elbow, make a longitudinal (parallel to the implant) incision of 2 mm towards the elbow.
+Take care not to cut the tip of the implant.
 
 Step 6.
-If the tip of the implant does not become visible in the incision, gently insert a forceps into the incision (Figure 15).
-Flip the forceps over into your other hand (Figure 16).
+The tip of the implant should pop out of the incision.
+If it does not, gently push the implant towards the incision until the tip is visible.
+Grasp the implant with forceps and, if possible, remove the implant (Figure 13).
+If needed, gently remove adherent tissue from the tip of the implant using blunt dissection.
+If the implant tip is not exposed following blunt dissection, make an incision into the tissue sheath and then remove the implant with the forceps (Figures 14 and 15).
 
-| Figure 15 | Figure 16 |
-| --- | --- |
+|  | Figure 14 | Figure 15 |  |
+| --- | --- | --- | --- |
 
 Step 7.
-With a second pair of forceps carefully dissect the tissue around the implant and grasp the implant (Figure 17).
-The implant can then be removed.
+If the tip of the implant does not become visible in the incision, insert a forceps (preferably curved mosquito forceps, with the tips pointed up) superficially into the incision (Figure 16).
+Gently grasp the implant and then flip the forceps over into your other hand (Figure 17).
+
+|  | Figure 16 | Figure 17 |  |
+| --- | --- | --- | --- |
 
 Step 8.
+With a second pair of forceps carefully dissect the tissue around the implant and grasp the implant (Figure 18).
+The implant can then be removed.
+If the implant cannot be grasped, stop the procedure and refer the woman to a healthcare provider experienced with complex removals or call 1-877-888-4231.
+
+Step 9.
 Confirm that the entire implant, which is 4 cm long, has been removed by measuring its length.
 There have been reports of broken implants while in the patient's arm.
 In some cases, difficult removal of the broken implant has been reported.
 If a partial implant (less than 4 cm) is removed, the remaining piece should be removed by following the instructions in section 2.3.
-[See Dosage and Administration (2.3).]
-If the woman would like to continue using NEXPLANON, a new implant may be inserted immediately after the old implant is removed using the same incision [see Dosage and Administration (2.4)].
-
-Step 9.
-After removing the implant, close the incision with a steri-strip and apply an adhesive bandage.
+If the woman would like to continue using NEXPLANON, a new implant may be inserted immediately after the old implant is removed using the same incision as long as the site is in the correct location [see Dosage and Administration (2.4)].
 
 Step 10.
+After removing the implant, close the incision with a sterile adhesive wound closure.
+
+Step 11.
 Apply a pressure bandage with sterile gauze to minimize bruising.
-The woman may remove the pressure bandage in 24 hours and the small bandage in 3 to 5 days.
+The woman may remove the pressure bandage in 24 hours and the sterile adhesive wound closure in 3 to 5 days.
 
 Localization and Removal of a Non-Palpable Implant
 
@@ -271,16 +336,18 @@ An implant that has been deeply inserted or has migrated may not be palpable and
 A non-palpable implant should always be located prior to attempting removal.
 Given the radiopaque nature of the implant, suitable methods for localization include two-dimensional X-ray and X-ray computer tomography (CT).
 Ultrasound scanning (USS) with a high-frequency linear array transducer (10 MHz or greater) or magnetic resonance imaging (MRI) may be used.
-Once the implant has been localized in the arm, the implant should be removed according to the instructions in Dosage and Administration (2.3), Procedure for Removal of an Implant that is Palpable, and the use of ultrasound guidance during the removal should be considered.
+Once the implant has been localized in the arm, the implant should be removed by a healthcare provider experienced in removing deeply placed implants and familiar with the anatomy of the arm.
+The use of ultrasound guidance during the removal should be considered.
 
 If the implant cannot be found in the arm after comprehensive localization attempts, consider applying imaging techniques to the chest as events of migration to the pulmonary vasculature have been reported.
 If the implant is located in the chest, surgical or endovascular procedures may be needed for removal; healthcare providers familiar with the anatomy of the chest should be consulted.
 
 If at any time these imaging methods fail to locate the implant, etonogestrel blood level determination can be used for verification of the presence of the implant.
-For details on etonogestrel blood level determination, call 1-877-467-5266 for further instructions.
+For details on etonogestrel blood level determination, call 1-877-888-4231 for further instructions.
 
 If the implant migrates within the arm, removal may require a minor surgical procedure with a larger incision or a surgical procedure in an operating room.
-Removal of deeply inserted implants should be conducted with caution in order to prevent injury to deeper neural or vascular structures in the arm and be performed by healthcare providers familiar with the anatomy of the arm.
+Removal of deeply inserted implants should be conducted with caution in order to help prevent injury to deeper neural or vascular structures in the arm.
+Non-palpable and deeply inserted implants should be removed by healthcare providers familiar with the anatomy of the arm and removal of deeply-inserted implants.
 
 Exploratory surgery without knowledge of the exact location of the implant is strongly discouraged.
 
@@ -288,7 +355,7 @@ Exploratory surgery without knowledge of the exact location of the implant is st
 
 Immediate replacement can be done after removal of the previous implant and is similar to the insertion procedure described in section 2.2 Insertion of NEXPLANON.
 
-The new implant may be inserted in the same arm, and through the same incision from which the previous implant was removed.
+The new implant may be inserted in the same arm, and through the same incision from which the previous implant was removed, as long as the site is in the correct location [see Dosage and Administration (2.2)].
 If the same incision is being used to insert a new implant, anesthetize the insertion site [for example, 2 mL lidocaine (1%)] applying it just under the skin along the 'insertion canal.'
 
 Follow the subsequent steps in the insertion instructions [see Dosage and Administration (2.2)].

@@ -105,7 +105,8 @@ The timing of insertion is important.
 Your healthcare provider may:
 
 - Perform a pregnancy test before inserting NEXPLANON
-- Schedule the insertion at a specific time of your menstrual cycle (for example, within the first days of your regular menstrual bleeding)
+- Schedule the insertion at a specific time of your menstrual cycle (for example, within the first 5 days of your regular menstrual bleeding).
+  If the implant is placed after the fifth day of menses, then you should use an additional contraceptive method (such as a condom) for the first 7 days after insertion.
 
 Your healthcare provider will cover the site where NEXPLANON was placed with 2 bandages.
 Leave the top bandage on for 24 hours.
@@ -115,7 +116,7 @@ Immediately after the NEXPLANON implant has been placed, you and your healthcare
 
 If you cannot feel the implant immediately after insertion, the implant may not have been inserted, or it may have been inserted deeply.
 A deep insertion may cause problems with locating and removing the implant.
-Once the healthcare professional has located the implant, removal may be recommended.
+Once the healthcare professional has located the implant, it should be removed.
 
 If at any time you cannot feel the NEXPLANON implant, contact your healthcare provider immediately and use a non-hormonal birth control method (such as condoms) until your healthcare provider confirms that the implant is in place.
 You may need special tests to check that the implant is in place or to help find the implant when it is time to take it out.
@@ -251,7 +252,9 @@ A few women who use birth control that contains hormones may get:
 - Gallbladder problems
 - Rare cancerous or noncancerous liver tumors
 
-- Broken or Bent Implant If you feel that the implant may have broken or bent while in your arm, contact your healthcare provider.
+• Broken or Bent Implant
+
+If you feel that the implant may have broken or bent while in your arm, contact your healthcare provider.
 
 When should I call my healthcare provider?
 
@@ -289,17 +292,4 @@ Additional Information
 This Patient Information leaflet contains important information about NEXPLANON.
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider for information about NEXPLANON that is written for healthcare professionals.
-You may also call 1-877-467-5266 or visit www.NEXPLANON-USA.com.
-
-Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
-
-Manufactured by: N.V.
-Organon, Oss, The Netherlands, a subsidiary of Merck & Co., Inc., Whitehouse Station, NJ 08889, USA
-
-For patent information: www.merck.com/product/patent/home.html
-
-Copyright © 2011-2017 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
-
-Revised: 05/2017
-
-usppi-mk8415-iptx-1705r018
+You may also call 1-800-622-4477 or visit www.NEXPLANON-USA.com.

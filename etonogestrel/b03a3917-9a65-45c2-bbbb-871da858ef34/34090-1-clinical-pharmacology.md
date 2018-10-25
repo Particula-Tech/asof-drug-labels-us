@@ -20,10 +20,9 @@ The mean (± SD) serum etonogestrel concentration decreased gradually over time,
 For the non-radiopaque etonogestrel implant (IMPLANON), the mean (± SD) maximum serum etonogestrel concentrations were 1145 (± 577) pg/mL and were reached within the first two weeks after insertion (n=53).
 The mean (± SD) serum etonogestrel concentration decreased gradually over time, declining to 223 (± 73) pg/mL at 12 months (n=40), 172 (± 77) pg/mL at 24 months (n=32), and 153 (± 52) pg/mL at 36 months (n=30).
 
-The pharmacokinetic profile of NEXPLANON is shown in Figure 20.
+The pharmacokinetic profile of NEXPLANON is shown in Figure 21.
 
-| Figure 20: Mean (± SD) Serum Concentration-Time Profile of Etonogestrel After Insertion of NEXPLANON During 3 Years of Use |
-| --- |
+Figure 21: Mean (± SD) Serum Concentration-Time Profile of Etonogestrel After Insertion of NEXPLANON During 3 Years of Use
 
 Distribution
 
