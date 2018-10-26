@@ -288,6 +288,11 @@ Pseudomembranous colitis can happen 2 or more months after you have finished you
   Tell your child’s healthcare provider if your child has any joint problems during or after treatment with CIPRO.
 - •Sensitivity to sunlight (photosensitivity).
   See “What should I avoid while taking CIPRO?”
+- Changes in blood sugar
+- •People who take CIPRO and other fluoroquinolone medicines with oral anti-diabetes medicines or with insulin can get low blood sugar (hypoglycemia) and high blood sugar (hyperglycemia).
+  Follow your healthcare provider's instructions for how often to check your blood sugar.
+  If you have diabetes and you get low blood sugar while taking CIPRO, stop taking CIPRO and call your healthcare provider right away.
+  Your antibiotic medicine may need to be changed.
 
 The most common side effects of CIPRO include:
 
