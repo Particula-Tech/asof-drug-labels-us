@@ -3,10 +3,10 @@
 The following adverse reactions are discussed in greater detail in other sections of the label.
 
 - •Hypersensitivity [see Contraindications (4)]
-- •Suicidal Thoughts and Behaviors in Adolescents and Young Adults [see Warnings and Precautions (5.1)]
+- •Suicidal Thoughts and Behaviors in Pediatric and Young Adult Patients [see Warnings and Precautions (5.1)]
 - •Serotonin Syndrome [see Warnings and Precautions (5.2)]
 - •Elevated Blood Pressure [see Warnings and Precautions (5.3)]
-- •Abnormal Bleeding [see Warnings and Precautions (5.4)]
+- •Increased Risk of Bleeding [see Warnings and Precautions (5.4)]
 - •Angle Closure Glaucoma [see Warnings and Precautions (5.5)]
 - •Activation of Mania/Hypomania [see Warnings and Precautions (5.6)]
 - •Discontinuation Syndrome [see Warnings and Precautions (5.7)]
@@ -33,7 +33,7 @@ For the 100 mg dose of desvenlafaxine the discontinuation rate due to an adverse
 The most common adverse reactions leading to discontinuation in at least 2% and at a rate greater than placebo of the desvenlafaxine treated patients in the short-term studies, up to 8 weeks, were: nausea (4%); dizziness, headache and vomiting (2% each).
 In a longer-term study, up to 9 months, the most common was vomiting (2%).
 
-Common Adverse Reactions in Placebo-Controlled MDD Studies
+Common Adverse Reactions in Placebo-controlled MDD Studies
 
 The most commonly observed adverse reactions in desvenlafaxine treated MDD patients in pre-marketing pooled 8-week, placebo-controlled, fixed-dose studies (incidence ≥ 5% and at least twice the rate of placebo in the 50 mg or 100 mg dose groups) were: nausea, dizziness, insomnia, hyperhidrosis, constipation, somnolence, decreased appetite, anxiety, and specific male sexual function disorders.
 
@@ -46,7 +46,7 @@ Table 2: Common Adverse Reactions (≥ 2% in any Fixed-Dose Group and Twice the 
 |  | Desvenlafaxine |  |  |  |  |
 | System Organ Class Preferred Term | Placebo(n=636) | 50 mg(n=317) | 100 mg(n=424) | 200 mg(n=307) | 400 mg(n=317) |
 | Cardiac Disorders |  |  |  |  |  |
-| Blood Pressure Increase | 1 | 1 | 1 | 2 | 2 |
+| Blood Pressure Increased | 1 | 1 | 1 | 2 | 2 |
 | Gastrointestinal Disorders |  |  |  |  |  |
 | Nausea | 10 | 22 | 26 | 36 | 41 |
 | Dry Mouth | 9 | 11 | 17 | 21 | 25 |
@@ -112,21 +112,21 @@ Other Adverse Reactions Observed in Premarketing and Postmarketing Clinical Stud
 
 Other infrequent adverse reactions, not described elsewhere in the label, occurring at an incidence of < 2% in MDD patients treated with desvenlafaxine were:
 
-Cardiac Disorders – Tachycardia.
+Cardiac Disorders:Tachycardia.
 
-General Disorders and Administration Site Conditions – Asthenia.
+General Disorders and Administration Site Conditions:Asthenia.
 
-Investigations – Weight increased, liver function test abnormal, blood prolactin increased.
+Investigations:Weight increased, liver function test abnormal, blood prolactin increased.
 
-Musculoskeletal and Connective Tissue Disorders – Musculoskeletal stiffness.
+Musculoskeletal and Connective Tissue Disorders:Musculoskeletal stiffness.
 
-Nervous System Disorders –Syncope, convulsion, dystonia.
+Nervous System Disorders:Syncope, convulsion, dystonia.
 
-Psychiatric Disorders – Depersonalization, bruxism.
+Psychiatric Disorders:Depersonalization, bruxism.
 
-Renal and Urinary Disorders – Urinary retention.
+Renal and Urinary Disorders:Urinary retention.
 
-Skin and Subcutaneous Tissue Disorders – Rash, alopecia, photosensitivity reaction, angioedema.
+Skin and Subcutaneous Tissue Disorders:Rash, alopecia, photosensitivity reaction, angioedema.
 
 In clinical studies, there were uncommon reports of ischemic cardiac adverse reactions, including myocardial ischemia, myocardial infarction, and coronary occlusion requiring revascularization; these patients had multiple underlying cardiac risk factors.
 More patients experienced these events during desvenlafaxine treatment as compared to placebo.
@@ -167,11 +167,11 @@ Table 6: Mean Changes in Vital Signs at Final on Therapy for All Short-term, Fix
 | --- | --- | --- | --- | --- | --- |
 | Placebo | 50 mg | 100 mg | 200 mg | 400 mg |  |
 | Blood Pressure |  |  |  |  |  |
-| Supine Systolic bp (mm Hg) | -1.4 | 1.2 | 2 | 2.5 | 2.1 |
+| Supine Systolic bp (mm Hg) | -1.4 | 1.2 | 2.0 | 2.5 | 2.1 |
 | Supine Diastolic bp (mm Hg) | -0.6 | 0.7 | 0.8 | 1.8 | 2.3 |
 | Pulse Rate |  |  |  |  |  |
 | Supine Pulse (bpm) | -0.3 | 1.3 | 1.3 | 0.9 | 4.1 |
-| Weight (kg) | 0 | -0.4 | -0.6 | -0.9 | -1.1 |
+| Weight (kg) | 0.0 | -0.4 | -0.6 | -0.9 | -1.1 |
 
 Treatment with desvenlafaxine at all doses from 50 mg per day to 400 mg per day in controlled studies was associated with sustained hypertension, defined as treatment-emergent supine diastolic blood pressure (SDBP) ≥ 90 mm Hg and ≥ 10 mm Hg above baseline for 3 consecutive on-therapy visits (see Table 7).
 Analyses of patients in desvenlafaxine pre-marketing short-term controlled studies who met criteria for sustained hypertension revealed a consistent increase in the proportion of patients who developed sustained hypertension.
@@ -194,5 +194,8 @@ Orthostatic Hypotension: In the pre-marketing short-term, placebo-controlled cli
 The following adverse reaction has been identified during post-approval use of desvenlafaxine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
-Skin and Subcutaneous Tissue Disorders – Stevens-Johnson syndrome.
-Gastrointestinal Disorders – Pancreatitis acute.
+Skin and Subcutaneous Tissue Disorders: Stevens-Johnson syndrome
+
+Gastrointestinal Disorders: Pancreatitis acute
+
+Cardiovascular System: Takotsubo cardiomyopathy

@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 General Instruction for Use
+## 2.1 General Instructions for Use
 
 The recommended dose for desvenlafaxine extended-release tablets is 50 mg once daily, with or without food.
 The 50 mg dose is both a starting dose and the therapeutic dose.
@@ -11,46 +11,40 @@ In clinical studies, doses of 10 mg to 400 mg per day were studied.
 In clinical studies, doses of 50 mg to 400 mg per day were shown to be effective, although no additional benefit was demonstrated at doses greater than 50 mg per day and adverse reactions and discontinuations were more frequent at higher doses.
 
 The 25 mg per day dose is intended for a gradual reduction in dose when discontinuing treatment.
-When discontinuing therapy, gradual dose reduction is recommended whenever possible to minimize discontinuation symptoms [see Dosage and Administration (2.4)andWarnings and Precautions (5.9)].
+When discontinuing therapy, gradual dose reduction is recommended whenever possible to minimize discontinuation symptoms [see Dosage and Administration (2.5) and Warnings and Precautions (5.7)].
 
-## 2.2 Special Populations
+## 2.2 Dosage Recommendations for Patients with Renal Impairment
 
-Patients with Renal Impairment
+The maximum recommended dose in patients with moderate renal impairment (24-hr creatinine clearance [ClCr] = 30 to 50 mL/min, Cockcroft-Gault [C-G]) is 50 mg per day.
+The maximum recommended dose in patients with severe renal impairment (ClCr15 to 29 mL/min, C-G) or end-stage renal disease (ESRD, ClCr < 15 mL/min, C-G) is 25 mg every day or 50 mg every other day.
+Supplemental doses should not be given to patients after dialysis [see Use in Specific Populations (8.6) andClinical Pharmacology (12.3)].
 
-The maximum recommended dose in patients with moderate renal impairment (24-hr creatinine clearance [CrCl] = 30 to 50 mL/min, Cockcroft-Gault [C-G]) is 50 mg per day.
-The maximum recommended dose in patients with severe renal impairment (24-hr CrCl less than 30 mL/min, C-G) or end-stage renal disease (ESRD) is 25 mg every day or 50 mg every other day.
-Supplemental doses should not be given to patients after dialysis [see Use in Specific Populations (8.6)and Clinical Pharmacology (12.3)].
+## 2.3 Dosage Recommendations for Patients with Hepatic Impairment
 
-Patients with Hepatic Impairment
+The recommended dose in patients with moderate to severe hepatic impairment (Child-Pugh score 7 to 15) is 50 mg per day.
+Dose escalation above 100 mg per day is not recommended [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
 
-The recommended dose in patients with moderate to severe hepatic impairment is 50 mg per day.
-Dose escalation above 100 mg per day is not recommended [see Clinical Pharmacology (12.3)].
-
-## 2.3 Maintenance/Continuation/Extended Treatment
+## 2.4 Maintenance/Continuation/Extended Treatment
 
 It is generally agreed that acute episodes of major depressive disorder require several months or longer of sustained pharmacologic therapy.
 Longer-term efficacy of desvenlafaxine (50 mg to 400 mg) was established in two maintenance trials [see Clinical Studies (14)].Patients should be periodically reassessed to determine the need for continued treatment.
 
-## 2.4 Discontinuing Desvenlafaxine Extended-release Tablets
+## 2.5 Discontinuing Desvenlafaxine Extended-Release Tablets
 
-Symptoms associated with discontinuation of desvenlafaxine, other SNRIs and SSRIs have been reported [see Warnings and Precautions (5.9)].
-Patients should be monitored for these symptoms when discontinuing treatment.
-A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible.
-If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
-Subsequently, the physician may continue decreasing the dose, but at a more gradual rate.
-The 25 mg dose is available for discontinuing therapy.
+Adverse reactions may occur upon discontinuation of desvenlafaxine [see Warnings and Precautions (5.7)].
+Gradually reduce the dosage rather than stopping desvenlafaxine extended-release tablets abruptly whenever possible.
 
-## 2.5 Switching Patients from Other Antidepressants to Desvenlafaxine Extended-release Tablets
+## 2.6 Switching Patients from Other Antidepressants to Desvenlafaxine Extended-Release Tablets
 
 Discontinuation symptoms have been reported when switching patients from other antidepressants, including venlafaxine, to desvenlafaxine.
 Tapering of the initial antidepressant may be necessary to minimize discontinuation symptoms.
 
-## 2.6 Switching Patients To or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
+## 2.7 Switching Patients to or from a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
 
 At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with desvenlafaxine.
 Conversely, at least 7 days should be allowed after stopping desvenlafaxine before starting an MAOI intended to treat psychiatric disorders [see Contraindications (4)].
 
-Use of Desvenlafaxine with other MAOIs such as Linezolid or Methylene Blue
+## 2.8 Use of Desvenlafaxine Extended-Release Tablets with other MAOIs such as Linezolid or Methylene Blue
 
 Do not start desvenlafaxine in a patient who is being treated with linezolid or intravenous methylene blue because there is increased risk of serotonin syndrome.
 In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered [see Contraindications (4)].
