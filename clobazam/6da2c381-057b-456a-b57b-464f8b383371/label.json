@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA209687"
+  ],
+  "inn": "clobazam",
+  "labeler": "Upsher-Smith Laboratories, LLC",
+  "package_ndcs": [
+    "0832-0580-11",
+    "0832-0581-11"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "clobazam",
+      "name": "Clobazam"
+    }
+  ],
+  "setid": "6da2c381-057b-456a-b57b-464f8b383371",
+  "source": "dailymed"
+}
