@@ -3,7 +3,7 @@
 The following reactions can occur:
 
 Body As A Whole: Ischemic injury due to potent vasoconstrictor action and tissue hypoxia.
-Cardiovascular System: Bradycardia, probably as a reflex result of a rise in blood pressure, arrhythmias.
+Cardiovascular System: Bradycardia, probably as a reflex result of a rise in blood pressure, arrhythmias, and stress cardiomyopathy.
 Nervous System: Anxiety, transient headache.
 Respiratory System: Respiratory difficulty.
 Skin and Appendages: Extravasation necrosis at injection site.
