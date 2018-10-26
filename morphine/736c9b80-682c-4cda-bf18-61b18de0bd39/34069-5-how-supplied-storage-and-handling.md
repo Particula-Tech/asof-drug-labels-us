@@ -1,5 +1,7 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
+Morphine sulfate extended-release tablets are supplied as follows:
+
 Morphine sulfate extended-release tablets 15 mg are round, blue-colored, film-coated tablets debossed with "RD" and "70" on one side and plain on the other side.
 They are supplied as follows:
 
@@ -39,7 +41,3 @@ They are supplied as follows:
 Store at 20° - 25° C (68° - 77° F) [See USP Controlled Room Temperature].
 
 Dispense in a tight, light-resistant container.
-
-CAUTION
-
-DEA FORM REQUIRED

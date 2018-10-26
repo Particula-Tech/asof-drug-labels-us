@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Morphine is full opioid agonist is relatively selective for the mu-opioid receptor, although it can bind to other opioid receptors at higher doses.
+Morphine is a full opioid agonist is relatively selective for the mu-opioid receptor, although it can bind to other opioid receptors at higher doses.
 The principal therapeutic action of morphine is analgesia.
 Like all full opioid agonists, there is no ceiling effect for analgesia with morphine.
 Clinically, dosage is titrated to provide adequate analgesia and may be limited by adverse reactions, including respiratory and CNS depression.

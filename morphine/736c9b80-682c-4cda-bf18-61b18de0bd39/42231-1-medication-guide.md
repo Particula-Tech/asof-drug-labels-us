@@ -74,7 +74,8 @@ Get emergency medical help if you have:
 
 These are not all the possible side effects of morphine sulfate extended-release tablets.
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.For more information go to dailymed.nlm.nih.gov
+You may report side effects to FDA at 1-800-FDA-1088.
+For more information go to dailymed.nlm.nih.gov
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
