@@ -138,4 +138,4 @@ Manufactured for: Merz North America, Inc. Raleigh, NC 27615
 
 © 2017 Merz Pharmaceuticals, LLC CUVPOSA® is a registered trademark of Merz Pharmaceuticals, LLC
 
-GLY-PPI-08 Rev 09/2017
+GLY-PPI-08 Rev 02/2018
