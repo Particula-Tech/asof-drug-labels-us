@@ -5,25 +5,25 @@
 Co-administration of zolpidem with other CNS depressants increases the risk of CNS depression [see Warnings and Precautions (5.1)].
 Zolpidem tartrate was evaluated in healthy volunteers in single-dose interaction studies for several CNS drugs.
 
-Imipramine, Chlorpromazine
+### Imipramine, Chlorpromazine
 
 Imipramine in combination with zolpidem produced no pharmacokinetic interaction other than a 20% decrease in peak levels of imipramine, but there was an additive effect of decreased alertness.
 Similarly, chlorpromazine in combination with zolpidem produced no pharmacokinetic interaction, but there was an additive effect of decreased alertness and psychomotor performance [see Clinical Pharmacology (12.3)].
 
-Haloperidol
+### Haloperidol
 
 A study involving haloperidol and zolpidem revealed no effect of haloperidol on the pharmacokinetics or pharmacodynamics of zolpidem.
 The lack of a drug interaction following single-dose administration does not predict the absence of an effect following chronic administration [see Clinical Pharmacology (12.3)].
 
-Alcohol
+### Alcohol
 
 An additive adverse effect on psychomotor performance between alcohol and oral zolpidem was demonstrated [see Warnings and Precautions (5.1)].
 
-Sertraline
+### Sertraline
 
 Concomitant administration of zolpidem and sertraline increases exposure to zolpidem and may increase the pharmacodynamics effect of zolpidem [see Clinical Pharmacology (12.3)].
 
-Fluoxetine
+### Fluoxetine
 
 After multiple doses of zolpidem tartrate and fluoxetine an increase in the zolpidem half-life (17%) was observed.
 There was no evidence of an additive effect in psychomotor performance [see Clinical Pharmacology (12.3)].
@@ -33,12 +33,12 @@ There was no evidence of an additive effect in psychomotor performance [see Clin
 Some compounds known to inhibit CYP3A may increase exposure to zolpidem.
 The effect of other P450 enzymes on the exposure to zolpidem is not known.
 
-Rifampin
+### Rifampin
 
 Rifampin, a CYP3A4 inducer, significantly reduced the exposure to and the pharmacodynamics effects of zolpidem.
 Use of Rifampin in combination with zolpidem may decrease the efficacy of zolpidem.
 
-Ketoconazole
+### Ketoconazole
 
 Ketoconazole, a potent CYP3A4 inhibitor, increased the pharmacodynamics effects of zolpidem.
 Consideration should be given to using a lower dose of zolpidem when ketoconazole and zolpidem are given together.

@@ -2,14 +2,18 @@
 
 ## 12.1 Mechanism of Action
 
-Zolpidem, the active moiety of zolpidem tartrate, is a hypnotic agent with a chemical structure unrelated to benzodiazepines, barbiturates, or other drugs with known hypnotic properties.
-It interacts with a GABA-BZ receptor complex and shares some of the pharmacological properties of the benzodiazepines.
-In contrast to the benzodiazepines, which non-selectively bind to and activate all BZ receptor subtypes, zolpidem in vitro binds the BZ1 receptor preferentially with a high affinity ratio of the α1/α5 subunits.
-This selective binding of zolpidem on the BZ1 receptor is not absolute, but it may explain the relative absence of myorelaxant and anticonvulsant effects in animal studies as well as the preservation of deep sleep (stages 3 and 4) in human studies of zolpidem tartrate at hypnotic doses.
+Zolpidem is a GABA A receptor positive modulator presumed to exert its therapeutic effects in the short-term treatment of insomnia through binding to the benzodiazepine site of α1 subunit containing GABA A receptors, increasing the frequency of chloride channel opening resulting in the inhibition of neuronal excitation.
+
+## 12.2 Pharmacodynamics
+
+Zolpidem binds to GABAA receptors with a greater affinity for α1 subunit relative to α2 and α3 subunit containing receptors.
+Zolpidem has no appreciable binding affinity for α5 subunit containing GABAA receptors.
+This binding profile may explain the relative absence of myorelaxant effects in animal studies.
+Zolpidem has no appreciable binding affinity for dopaminergic D2, serotonergic 5HT2, adrenergic, histaminergic or muscarinic receptors.
 
 ## 12.3 Pharmacokinetics
 
-Absorption:
+### Absorption:
 
 Edluar (zolpidem tartrate) sublingual tablets are bioequivalent to Ambien® tablets (Sanofi-Aventis) with respect to Cmax and AUC.
 Similar to zolpidem tartrate oral tablets, Edluar sublingual tablets result in a pharmacokinetic profile characterized by rapid absorption.
@@ -20,35 +24,35 @@ A food-effect study in 18 healthy volunteers compared the pharmacokinetics of Ed
 The mean AUC and Cmax were decreased by 20% and 31%, respectively, while median Tmax was prolonged by 28% (from 82 to 105 min). The half-life remained unchanged.
 These results suggest that, for faster sleep onset, Edluar should not be administered with or immediately after a meal.
 
-Distribution:
+### Distribution:
 
 Based on data obtained with oral zolpidem, the total protein binding was found to be 92.5 ± 0.1% and remained constant, independent of concentration between 40 and 790 ng/mL.
 
-Metabolism:
+### Metabolism:
 
 Based on data obtained with oral zolpidem, zolpidem is converted to inactive metabolites that are eliminated primarily by renal excretion.
 
-Elimination:
+### Elimination:
 
 When Edluar administered as a single 5 or 10 mg dose in healthy adult subjects, the mean zolpidem elimination half-life was 2.85 hours (range: 1.57-6.73 hr) and 2.65 hours (range: 1.75 to 3.77 hr) respectively.
 
-Special Populations
+### Special Populations
 
-Elderly:
+#### Elderly:
 
 In the elderly, the dose for Edluar should be 5 mg [see Warnings and Precautions (5) and Dosage and Administration (2)].
 This recommendation is based on several studies with zolpidem tartrate in which the mean Cmax, T1/2, and AUC were significantly increased when compared to results in young adults.
 In one study of eight elderly subjects (>70 years), the means for Cmax, T1/2, and AUC significantly increased by 50% (255 vs. 384 ng/mL), 32% (2.2 vs. 2.9 hr), and 64% (955 vs. 1,562 ng•hr/mL), respectively, as compared to younger adults (20 to 40 years) following a single 20 mg oral dose.
 Zolpidem did not accumulate in elderly subjects following nightly oral dosing of 10 mg for 1 week.
 
-Hepatic Impairment:
+#### Hepatic Impairment:
 
 The pharmacokinetics of zolpidem tartrate in eight patients with chronic hepatic insufficiency were compared to results in healthy subjects.
 Following a single 20-mg oral zolpidem tartrate dose, mean Cmax and AUC were found to be two times (250 vs. 499 ng/mL) and five times (788 vs. 4,203 ng•hr/mL) higher, respectively, in hepatically-compromised patients.
 Tmax did not change.
 The mean half-life in cirrhotic patients of 9.9 hr (range: 4.1 to 25.8 hr) was greater than that observed in normals of 2.2 hr (range: 1.6 to 2.4 hr). Dosing with Edluar should be modified accordingly in patients with hepatic insufficiency [see Dosage and Administration (2.2)].
 
-Renal Impairment:
+#### Renal Impairment:
 
 The pharmacokinetics of zolpidem tartrate were studied in 11 patients with end-stage 4 renal failure (mean ClCr = 6.5 ± 1.5 mL/min) undergoing hemodialysis three times a week, who were dosed with zolpidem tartrate 10 mg orally each day for 14 or 21 days.
 No statistically significant differences were observed for Cmax, Tmax, half-life, and AUC between the first and last day of drug administration when baseline concentration adjustments were made.
@@ -57,9 +61,9 @@ No accumulation of unchanged drug appeared after 14 or 21 days.
 Zolpidem pharmacokinetics were not significantly different in renally-impaired patients.
 No dosage adjustment is necessary in patients with compromised renal function.
 
-Drug Interactions
+### Drug Interactions
 
-CNS-depressants:
+#### CNS-depressants:
 
 Co-administration of zolpidem with other CNS depressants increases the risk of CNS depression [see Warnings and Precautions (5.1)].
 Zolpidem tartrate was evaluated in healthy volunteers in single-dose interaction studies for several CNS drugs.
@@ -78,7 +82,7 @@ A single-dose interaction study with zolpidem tartrate 10 mg and fluoxetine 20 m
 When multiple doses of zolpidem and fluoxetine were given at steady-state and the concentrations evaluated in healthy females, an increase in the zolpidem half-life (17%) was observed.
 There was no evidence of an additive effect in psychomotor performance.
 
-Drugs that Affect Drug metabolism via Cytochrome P450
+#### Drugs that Affect Drug metabolism via Cytochrome P450
 
 Some compounds known to inhibit CYP3A may increase exposure to zolpidem.
 The effect of inhibitors of other P450 enzymes on the pharmacokinetics of zolpidem is unknown.
@@ -92,7 +96,7 @@ Rifampin, a CYP3A4 inducer, significantly reduced the exposure to and the pharma
 A single-dose interaction study with zolpidem 5 mg and ketoconazole, a potent CYP3A4 inhibitor, given as 200 mg twice daily for 2 days increased Cmax of zolpidem (30%) and the total AUC of zolpidem (70%) compared to zolpidem alone and prolonged the elimination half-life (30%) along with an increase in the pharmacodynamics effects of zolpidem.
 Consideration should be given to using a lower dose of zolpidem when ketoconazole and zolpidem are given together.
 
-Other Drugs with No Interactions with Zolpidem
+#### Other Drugs with No Interactions with Zolpidem
 
 A study involving cimetidine/zolpidem tartrate and ranitidine/zolpidem tartrate combinations revealed no effect of either drug on the pharmacokinetics or pharmacodynamics of zolpidem.
 

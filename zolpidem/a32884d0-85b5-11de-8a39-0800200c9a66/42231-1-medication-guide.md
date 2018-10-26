@@ -8,7 +8,7 @@ What is the most important information I should know about Edluar?
 
 - •Do not take more Edluar than prescribed.
 - •Do not take Edluar unless you are able to stay in bed a full night (7 to 8 hours) before you must be active again.
-- •Take Edluar right before you get in bed, not sooner
+- •Take Edluar right before you get in bed, not sooner.
 
 Edluar may cause serious side effects, including:
 
@@ -64,24 +64,25 @@ Before starting Edluar, tell your healthcare provider about all of your health c
 - •have kidney or liver disease
 - •have lung disease or breathing problems
 - •are pregnant or planning to become pregnant.
-  It is not known if Edluar will harm your unborn baby.
+  Talk to your healthcare provider about the risk to your unborn baby if you take Edluar.
+- •using Edluar in the last trimester of pregnancy may cause breathing difficulties or excess sleepiness in your newborn.
+  Monitor for signs of sleepiness (more than usual), trouble breathing, or limpness in the newborn if Edluar is taken late in pregnancy.
 - •are breastfeeding or plan to breastfeed.
-  Edluar can pass into your breast milk.
-  It is not known if Edluar will harm your baby.
+  Edluar passes into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby while you take Edluar.
 
 Tell your healthcare provider about all of the medicines you take, including prescription and nonprescription medicines, vitamins and herbal supplements.
 
 Medicines can interact with each other, sometimes causing serious side effects.
 
-Do not take Edluar with other medicines that can make you sleepy, unless directed by your healthcare provider
+Do not take Edluar with other medicines that can make you sleepy, unless directed by your healthcare provider.
 
 Know the medicines you take.
 Keep a list of your medicines with you to show your healthcare provider and pharmacist each time you get a new medicine.
 
 How should I take Edluar?
 
-- •See "What is the most important information I should know about Edluar?"
+- •See “What is the most important information I should know about Edluar?”
 - •Take Edluar exactly as prescribed.
   Only take 1 Edluar tablet a night and only if needed.
 - •Do not take Edluar if you drank alcohol that evening or before bed.
@@ -102,7 +103,7 @@ What are the possible side effects of Edluar?
 Edluar may cause serious side effects, including:
 
 - •getting out of bed while not being fully awake and doing an activity that you do not know you are doing.
-  See "What is the most important information I should know about Edluar?"
+  See “What is the most important information I should know about Edluar?”
 - •abnormal thoughts and behavior.
   Symptoms include more outgoing or aggressive behavior than normal, confusion, agitation, hallucinations, worsening of depression, suicidal thoughts or actions.
 - •memory loss
@@ -164,7 +165,7 @@ This Medication Guide summarizes the most important information about Edluar.
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about Edluar that is written for healthcare professionals.
 
-For more information about Edluar, go to www.meda.us or call Meda Pharmaceuticals Inc. at 1-866-444-7799
+For more information about Edluar, go to www.meda.us or call Meda Pharmaceuticals Inc. at 1-866-444-7799.
 
 What are the ingredients in Edluar?
 
@@ -176,12 +177,13 @@ This Medication Guide has been approved by U.S. Food and Drug Administration.
 
 Manufactured by: Recipharm Stockholm AB, Sweden for Meda Pharmaceuticals Inc.
 
-Distributed by: Meda Pharmaceuticals Meda Pharmaceuticals Inc. Somerset, NJ 08873-4120
+Distributed by: Meda Pharmaceuticals Inc. Somerset, NJ 08873-4120
 
-©2014 Meda Pharmaceuticals Inc. U.S. Patents 6,761,910; 8,512,747;
+©2018 Meda Pharmaceuticals Inc. U.S. Patents 6,761,910; 8,512,747
 
-MEDA PHARMACEUTICALS is a registered trademark of Meda AB.
-EDLUAR is a registered trademark of Meda Pharmaceuticals Inc.
+MEDA and EDLUAR are registered trademarks of Meda AB or a related entity.
 
-IG-6010-05 Rev.
-10/2014
+The brands listed are trademarks of their respective owners.
+
+IG-6010-XX Rev.
+10/2018 797139

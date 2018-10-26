@@ -36,6 +36,18 @@ Tolerance, Abuse, and Dependence
 
 Tell patients not to increase the dose of Edluar on their own, and to inform you if they believe the drug “does not work”.
 
+Pregnancy
+
+Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with Edluar.
+Advise patients that use of Edluar late in the third trimester may cause respiratory depression and sedation in neonates.
+Advise mothers who used Edluar during the late third trimester of pregnancy to monitor neonates for signs of sleepiness (more than usual), breathing difficulties, or limpness [see Use in Specific Populations (8.1)].
+
+Lactation
+
+Advise breastfeeding mothers using Edluar to monitor infants for increased sleepiness, breathing difficulties, or limpness.
+Instruct nursing mothers to seek immediate medical care if they notice these signs.
+A lactating woman may consider pumping and discarding breastmilk during treatment and for 23 hours after Edluar administration to minimize drug exposure to a breastfed infant [see Use in Specific Populations (8.2)].
+
 Administration Instructions
 
 Patients should be counseled to take Edluar right before they get into bed and only when they are able to stay in bed a full night (7-8 hours) before being active again.

@@ -2,29 +2,56 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C:
+### Risk Summary
 
-There are no adequate and well-controlled studies of Edluar in pregnant women.
-Studies in children to assess the effects of prenatal exposure to zolpidem have not been conducted; however, cases of severe neonatal respiratory depression have been reported when zolpidem was used at the end of pregnancy, especially when taken with other CNS-depressants.
-Children born to mothers taking sedative-hypnotic drugs may be at risk for withdrawal symptoms during the postnatal period.
-Neonatal flaccidity has also been reported in infants born to mothers who received sedative-hypnotic drugs during pregnancy.
-Edluar should be used during pregnancy only if the potential benefit outweighs the potential risk to the fetus.
+Neonates born to mothers using zolpidem late in the third trimester of pregnancy have been reported to experience symptoms of respiratory depression and sedation [see Clinical Considerations and Data].
+Published data on the use of zolpidem during pregnancy have not identified a drug-associated risk of and major birth defects [see Data].
+Oral administration of zolpidem to pregnant rats and rabbits did not indicate a risk for adverse effects on fetal development at clinically relevant doses [see Data].
 
-Administration of zolpidem to pregnant rats and rabbits resulted in adverse effects on offspring development at doses greater than the maximum recommended human dose (MRHD) of 10 mg/day (approximately 8 mg/day zolpidem base); however, teratogenicity was not observed.
+The estimated background risk of major birth defects and miscarriage for the indicated populations are unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-When zolpidem was administered at oral doses of 4, 20, and 100 mg base/kg to pregnant rats during the period of organogenesis, dose-related decreases in fetal skull ossification occurred at all but the lowest dose, which is approximately 5 times the MRHD on a mg/m2 basis.
-In rabbits treated during organogenesis with zolpidem at oral doses of 1, 4, and 16 mg base/kg, increased embryo-fetal death and incomplete fetal skeletal ossification occurred at the highest dose.
-The no-effect dose for embryo-fetal toxicity in rabbits is approximately 10 times the MRHD on a mg/m2 basis.
-Administration of zolpidem to rats at oral doses of 4, 20, and 100 mg base/kg during the latter part of pregnancy and throughout lactation produced decreased offspring growth and survival at all but the lowest dose, which is approximately 5 times the MRHD on a mg/m2 basis.
+### Clinical Considerations
 
-## 8.2 Labor and Delivery
+#### Fetal/neonatal adverse reactions
 
-Edluar has no established use in labor and delivery [see Pregnancy (8.1)].
+Zolpidem crosses the placenta and may produce respiratory depression and sedation in neonates.
+Monitor neonates exposed to Edluar during pregnancy and labor for signs of excess sedation, hypotonia, and respiratory depression and manage accordingly.
 
-## 8.3 Nursing Mothers
+### Data
 
-Zolpidem is excreted in human milk.
-Caution should be exercised when Edluar is administered to a nursing woman.
+#### Human Data
+
+Published data from observational studies, birth registries and case reports on the use of zolpidem during pregnancy have not identified a drug-associated risk of major birth defects.
+
+There are limited postmarketing reports of severe to moderate cases of respiratory depression that occurred after birth in neonates whose mothers had taken zolpidem during pregnancy.
+These cases required artificial ventilation or intra-tracheal intubation.
+The majority of neonates recovered within hours to a few weeks after birth once treated.
+
+Zolpidem has been shown to cross the placenta.
+
+#### Animal Data
+
+Oral administration of zolpidem to pregnant rats during the period of organogenesis at 4, 20, and 100 mg base/kg/day, which are approximately 5, 25, and 120 times the MRHD of 10 mg/day (8 mg zolpidem base) based on mg/m2 body surface area, caused delayed fetal development (incomplete fetal skeletal ossification) at maternally toxic (ataxia) doses 25 and 120 times the MRHD based on mg/m2 body surface area.
+
+Oral administration of zolpidem to pregnant rabbits during the period of organogenesis at 1, 4, and 16 mg base/kg/day, which are approximately 2.5, 10, and 40 times the MRHD of 10 mg/day (8 mg zolpidem base) based on mg/m2 body surface area caused embryo-fetal death and delayed fetal development (incomplete fetal skeletal ossification) at a maternally toxic (decreased body weight gain) dose 40 times the MRHD based on mg/m2 body surface area.
+
+Oral administration of zolpidem to pregnant rats from day 15 of gestation through lactation at 4, 20, and 100 mg base/kg/day, which are approximately 5, 25, and 120 times the MRHD of 10 mg/day (8 mg zolpidem base) based on mg/m2 body surface area, delayed offspring growth and decreased survival at doses 25 and 120 times, respectively, the MRHD based on mg/m2 body surface area.
+
+## 8.2 Lactation
+
+### Risk Summary
+
+Limited data from published literature reports the presence of zolpidem in human milk.
+There are reports of excess sedation in infants exposed to zolpidem through breastmilk [see Clinical Considerations].
+There is no information on the effects of zolpidem on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Edluar and any potential adverse effects on the breastfed infant from Edluar or from the underlying maternal condition.
+
+### Clinical Considerations
+
+Infants exposed to Edluar through breastmilk should be monitored for excess sedation, hypotonia, and respiratory depression.
+A lactating woman may consider interrupting breastfeeding and pumping and discarding breast milk during treatment and for 23 hours (approximately 5 elimination half-lives) after Edluar administration in order to minimize drug exposure to a breast fed infant.
 
 ## 8.4 Pediatric Use
 
@@ -52,7 +79,7 @@ Of these 28 patients, 23 (82%) were receiving zolpidem doses >10 mg.
 A total of 24/1,959 (1.2%) non-U.S. patients receiving zolpidem reported confusion, including 18/24 (75%) who were ≥70 years of age.
 Of these 18 patients, 14 (78%) were receiving zolpidem doses >10 mg.
 
-The dose of Edluar in elderly patients is 5 mg to minimize adverse effects related to impaired motor and/or cognitive performance and unusual sensitivity to sedative/hypnotic drugs [see Dosage and Administration (2), Warnings and Precautions (5) Clinical Pharmacology (12) and Clinical Studies (14)].
+The dose of Edluar in elderly patients is 5 mg to minimize adverse effects related to impaired motor and/or cognitive performance and unusual sensitivity to sedative/hypnotic drugs [see Dosage and Administration (2), Warnings and Precautions (5)Clinical Pharmacology (12) and Clinical Studies (14)].
 
 ## 8.6 Gender Difference in Pharmacokinetics
 
