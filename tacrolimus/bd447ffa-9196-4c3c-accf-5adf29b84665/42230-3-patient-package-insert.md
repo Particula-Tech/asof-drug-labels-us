@@ -214,6 +214,8 @@ This Patient Information leaflet summarizes the most important information about
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about tacrolimus capsules that is written for health professionals.
 
+For more information, go to www.accordhealthcare.us or call Accord Healthcare at 1-866-941-7875.
+
 What are the ingredients in tacrolimus capsules?
 
 Active ingredient: tacrolimus
@@ -247,6 +249,6 @@ Dist.- Ahmedabad – 382210.
 
 India.
 
-10 0108 0 665135
+10 0108 1 679378
 
-Issued February 2016
+Issued November 2017
