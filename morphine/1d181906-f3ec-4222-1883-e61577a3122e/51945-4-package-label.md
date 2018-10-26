@@ -75,27 +75,31 @@ RL-2242 (8/07)
 
 RL-2243
 
-# PRINCIPAL DISPLAY PANEL - 0.5 mg/mL Vial Label
+# PRINCIPAL DISPLAY PANEL - 5 mg/10 mL Vial Label
 
-10 mL Single-dose Dicard unused portion Preservative-Free Rx only
-
-MORPHINE Sulfate Inj., USP CII WARNING: MAY BE HABIT FORMING 5 mg/10 mL (0.5 mg/mL) Hospira
-
-For I.V., Epidural or Intrathecal Use.
-
-HOSPIRA, INC., LAKE FOREST, IL 60045 USA
-
-# PRINCIPAL DISPLAY PANEL - 0.5 mg/mL Vial Carton
-
-10 mL
-
-Single-dose 5 Fliptop Vials
-
-NDC 0409-3814-12
+10 mL Single-dose
 
 Preservative-Free
 
-MORPHINE Sulfate Injection, USP CII WARNING: MAY BE HABIT FORMING.
+CII
+
+MORPHINE Sulfate Inj., USP 5 mg/10 mL (0.5 mg/mL)
+
+For I.V., Epidural or Intrathecal Use.
+
+Dist. by Hospira, Inc., Lake Forest, IL 60045 USA
+
+# PRINCIPAL DISPLAY PANEL - 5 mg/10 mL Vial Carton
+
+10 mL Single-dose 5 Fliptop Vials
+
+Preservative-Free
+
+NDC 0409-3814-12 Contains 5 of NDC 0409-3814-11
+
+MORPHINE Sulfate Injection, USP
+
+CII
 
 5 mg/10 mL (0.5 mg/mL) Rx only
 
@@ -105,38 +109,38 @@ Store in carton until time of use.
 
 Hospira
 
-Hospira, Inc., Lake Forest, IL 60045 USA
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-# PRINCIPAL DISPLAY PANEL - 1 mg/mL Vial Label
+# PRINCIPAL DISPLAY PANEL - 10 mg/10 mL Vial Label
 
-10 mL Single-dose Discard unused portion Preservative-Free
+10 mL Single-dose Preservative-Free
 
-MORPHINE Sulfate Inj., USP CII WARNING: MAY BE HABIT FORMING 10 mg/10 mL (1 mg/mL) Rx only
+CII
+
+MORPHINE Sulfate Inj., USP 10 mg/10 mL (1 mg/mL)
 
 For I.V., Epidural or Intrathecal Use.
 
-HOSPIRA, INC., LAKE FOREST, IL 60045 USA
+Dist. by Hospira, Inc., Lake Forest, IL 60045 USA
 
-# PRINCIPAL DISPLAY PANEL - 1 mg/mL Vial Carton
+# PRINCIPAL DISPLAY PANEL - 10 mg/10 mL Vial Carton
 
-10 mL
-
-Single-dose 5 Fliptop Vials
-
-NDC 0409-3815-12
+10 mL Single-dose 5 Fliptop Vials
 
 Preservative-Free
 
-MORPHINE Sulfate Injection, USP CII
+NDC 0409-3815-12 Contains 5 of NDC 0409-3815-11
 
-WARNING: MAY BE HABIT FORMING.
+MORPHINE Sulfate Injection, USP
+
+CII
 
 10 mg/10 mL (1 mg/mL) Rx only
 
-For I.V., Epidural or Intrathecal use.
+For Intravenous, Epidural or Intrathecal use.
 Protect from light.
 Store in carton until time of use.
 
-HOSPIRA, INC., LAKE FOREST, IL 60045 USA
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
 Hospira
