@@ -18,8 +18,6 @@ NDC 0378-4593-77 bottles of 90 tablets
 
 NDC 0378-4593-01 bottles of 100 tablets
 
-NDC 0378-4593-05 bottles of 500 tablets
-
 The 50 mg tablets are pink, film-coated, round, scored tablets debossed with M over 32 on one side of the tablet and scored on the other side.
 They are available as follows:
 
@@ -35,8 +33,6 @@ They are available as follows:
 NDC 0378-4594-77 bottles of 90 tablets
 
 NDC 0378-4594-01 bottles of 100 tablets
-
-NDC 0378-4594-05 bottles of 500 tablets
 
 The 100 mg tablets are light blue, film-coated, round, scored tablets debossed with M over 47 on one side of the tablet and scored on the other side.
 They are available as follows:
@@ -54,8 +50,8 @@ Protect from moisture.
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Mylan Pharmaceuticals Inc. at 1-877-446-3679 (1-877-4-INFO-RX) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Mylan at 1-877-446-3679 (1-877-4-INFO-RX) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Revised: 11/2017 MTPL:R18
+Revised: 9/2018 MTPL:R19

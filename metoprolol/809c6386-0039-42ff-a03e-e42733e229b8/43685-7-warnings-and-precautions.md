@@ -22,7 +22,7 @@ Chronically administered beta-blocking therapy should not be routinely withdrawn
 ## Bradycardia
 
 Bradycardia, including sinus pause, heart block, and cardiac arrest have occurred with the use of metoprolol.
-Patients with first-degree atrioventricular block, sinus node dysfunction, or conduction disorders may be at increased risk.
+Patients with first-degree atrioventricular block sinus node dysfunction or conduction disorders may be at increased risk.
 Monitor heart rate and rhythm in patients receiving metoprolol.
 If severe bradycardia develops, reduce or stop metoprolol.
 
@@ -51,7 +51,7 @@ Avoid abrupt withdrawal of beta-blockade, which might precipitate a thyroid stor
 
 ## Risk of Anaphylactic Reactions
 
-While taking beta-blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic.
+While taking beta-blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic or therapeutic.
 Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reaction.
 
 ## Information for Patients
@@ -84,7 +84,7 @@ Concomitant administration of a beta-adrenergic antagonist with a calcium channe
 
 Potent inhibitors of the CYP2D6 enzyme may increase the plasma concentration of metoprolol which would mimic the pharmacokinetics of CYP2D6 poor metabolizer (see CLINICAL PHARMACOLOGY: Pharmacokinetics).
 Increase in plasma concentrations of metoprolol would decrease the cardioselectivity of metoprolol.
-Known clinically significant potent inhibitors of CYP2D6 are antidepressants such as fluvoxamine, fluoxetine, paroxetine, sertraline, bupropion, clomipramine, and desipramine; antipsychotics such as chlorpromazine, fluphenazine, haloperidol, and thioridazine; antiarrhythmics such as quinidine or propafenone; antiretrovirals such as ritonavir; antihistamines such as diphenhydramine; antimalarials such as hydroxychloroquine or quinidine; antifungals such as terbinafine.
+Known clinically significant potent inhibitors of CYP2D6 are antidepressants such as fluvoxamine, fluoxetine, paroxetine, sertraline, bupropion, clomipramine and desipramine; antipsychotics such as chlorpromazine, fluphenazine, haloperidol and thioridazine; antiarrhythmics such as quinidine or propafenone; antiretrovirals such as ritonavir; antihistamines such as diphenhydramine; antimalarials such as hydroxychloroquine or quinidine; antifungals such as terbinafine.
 
 ### Hydralazine
 
@@ -118,11 +118,11 @@ This 21-month study was repeated in CD-1 mice, and no statistically or biologica
 All mutagenicity tests performed (a dominant lethal study in mice, chromosome studies in somatic cells, a Salmonella/mammalian-microsome mutagenicity test, and a nucleus anomaly test in somatic interphase nuclei) were negative.
 
 Reproduction toxicity studies in mice, rats and rabbits did not indicate teratogenic potential for metoprolol tartrate.
-Embryotoxicity and/or fetotoxicity in rats and rabbits were noted starting at doses of 50 mg/kg in rats and 25 mg/kg in rabbits, as demonstrated by increases in preimplantation loss, decreases in the number of viable fetuses per dose, and/or decreases in neonatal survival.
+Embryotoxicity and/or fetotoxicity in rats and rabbits were noted starting at doses of 50 mg/kg in rats and 25 mg/kg in rabbits, as demonstrated by increases in preimplantation loss, decreases in the number of viable fetuses per dose and/or decreases in neonatal survival.
 High doses were associated with some maternal toxicity, and growth delay of the offspring in utero, which was reflected in minimally lower weights at birth.
-The oral NOAELs for embryo-fetal development in mice, rats, and rabbits were considered to be 25 mg/kg, 200 mg/kg, and 12.5 mg/kg.
-This corresponds to dose levels that are approximately 0.3 times, 4 times, and 0.5 times, respectively, when based on surface area, the maximum human oral dose (8 mg/kg/day) of metoprolol tartrate.
-Metoprolol tartrate has been associated with reversible adverse effects on spermatogenesis starting at oral dose levels of 3.5 mg/kg in rats (a dose that is only 0.1 times the human dose, when based on surface area), although other studies have shown no effect of metoprolol tartrate on reproductive performance in male rats.
+The oral NOAELs for embryo-fetal development in mice, rats and rabbits were considered to be 25, 200, and 12.5 mg/kg.
+This corresponds to dose levels that are approximately 0.3 times, 4 times, and 0.5 times, respectively, when based on surface area, the maximum human oral dose (8 mg/kg/day) of metoprolol.
+Metoprolol tartrate has been associated with reversible adverse effects on spermatogenesis starting at oral dose levels of 3.5 mg/kg in rats (a dose that is only 0.1 times the human dose, when based on surface area), although other studies have shown no effect of metoprolol on reproductive performance in male rats.
 
 ## Pregnancy
 
