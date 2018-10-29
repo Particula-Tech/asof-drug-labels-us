@@ -117,7 +117,6 @@ It may harm them.
 This Medication Guide summarizes the most important information about AFREZZA.
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about AFREZZA that is written for health professionals.
-For more information, go to www.AFREZZA.com or call MannKind Corp. 1-877-323-8505.
 
 What are the ingredients in AFREZZA?
 
@@ -125,12 +124,14 @@ Active ingredient: human insulin
 
 Inactive ingredients: fumaryl diketopiperazine, polysorbate 80
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
 AFREZZA® is a registered trademark owned by MannKind Corporation
 
 Patented: http://www.mannkindcorp.com/research-development/patent-notices
 
-MannKind Corporation Danbury, CT 06810
+MannKind Corporation, Danbury, CT 06810
 
-Revised 03/2017
+For more information, go to www.AFREZZA.com or call MannKind Corp. 1-877-323-8505.
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+Revised 10/2018

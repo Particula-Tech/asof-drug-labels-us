@@ -10,7 +10,7 @@ Acute bronchospasm has been observed following AFREZZA dosing in patients with a
 In a study of patients with asthma, bronchoconstriction and wheezing following AFREZZA dosing was reported in 29% (5 out of 17) and 0% (0 out of 13) of patients with and without a diagnosis of asthma, respectively.
 In this study, a mean decline in FEV1 of 400 mL was observed 15 minutes after a single dose in patients with asthma.
 In a study of patients with COPD (n=8), a mean decline in FEV1 of 200 mL was observed 18 minutes after a single dose of AFREZZA.
-The long-term safety and efficacy of AFREZZA in patients with chronic lung disease has not been established.
+The long-term safety and efficacy of AFREZZA in patients with chronic lung disease have not been established.
 
 ## 5.2 Changes in Insulin Regimen
 
