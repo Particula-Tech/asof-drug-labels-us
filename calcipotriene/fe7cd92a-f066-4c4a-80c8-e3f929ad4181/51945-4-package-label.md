@@ -1,6 +1,4 @@
-# Calcipotriene Ointment, 0.005% - 60 g carton
-
-PRASCO
+# PRINCIPAL DISPLAY PANEL FOR CALCIPOTRIENE OINTMENT 0.005% 60G
 
 NDC 66993-878-61
 
@@ -11,9 +9,7 @@ Calcipotriene Ointment, 0.005%
 
 Rx only
 
-# Calcipotriene Ointment, 0.005% - 120 g carton
-
-PRASCO
+# PRINCIPAL DISPLAY PANEL FOR CALCIPOTRIENE OINTMENT 0.005% 120G
 
 NDC 66993-878-78
 
