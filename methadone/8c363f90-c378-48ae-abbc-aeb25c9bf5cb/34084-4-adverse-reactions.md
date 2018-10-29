@@ -2,16 +2,16 @@
 
 1. The following serious adverse reactions are described, or described in greater detail, in other sections:
 2. •Addiction, Abuse, and Misuse [see Warnings and Precautions (5.2)]
-3. •Life Threatening Respiratory Depression [see Warnings and Precautions (5.3)]
-4. •QT Prolongation [see Warnings and Precautions (5.4)]
-5. •Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.5)]
-6. •Interactions with Benzodiazepines and Other CNS Depressants [see Warnings and Precautions (5.7)]
-7. •Serotonin Syndrome [see Warnings and Precautions (5.9)]
-8. •Adrenal Insufficiency [see Warnings and Precautions (5.10)]
-9. •Severe Hypotension [see Warnings and Precautions (5.11)]
-10. •Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.13)]
-11. •Seizures [see Warnings and Precautions (5.14)]
-12. •Withdrawal [see Warnings and Precautions (5.15)]
+3. •Life Threatening Respiratory Depression [see Warnings and Precautions (5.4)]
+4. •QT Prolongation [see Warnings and Precautions (5.5)]
+5. •Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.6)]
+6. •Interactions with Benzodiazepines and Other CNS Depressants [see Warnings and Precautions (5.8)]
+7. •Serotonin Syndrome [see Warnings and Precautions (5.10)]
+8. •Adrenal Insufficiency [see Warnings and Precautions (5.11)]
+9. •Severe Hypotension [see Warnings and Precautions (5.12)]
+10. •Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.14)]
+11. •Seizures [see Warnings and Precautions (5.15)]
+12. •Withdrawal [see Warnings and Precautions (5.16)]
 
 The following adverse reactions associated with the use of methadone were identified in clinical studies or postmarketing reports.
 Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

@@ -26,7 +26,22 @@ Consider these risks when prescribing or dispensing Methadone Hydrochloride Oral
 Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity and advising the patient on the proper disposal of unused drug [see Patient Counseling Information (17)].
 Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
 
-## 5.3 Life-Threatening Respiratory Depression
+## 5.3 Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
+
+To ensure that the benefits of opioid analgesics outweigh the risks of addiction, abuse, and misuse, the Food and Drug Administration (FDA) has required a Risk Evaluation and Mitigation Strategy (REMS) for these products.
+Under the requirements of the REMS, drug companies with approved opioid analgesic products must make REMS-compliant education programs available to healthcare providers.
+Healthcare providers are strongly encouraged to do all of the following:
+
+- •Complete a REMS-compliant education program offered by an accredited provider of continuing education (CE) or another education program that includes all the elements of the FDA Education Blueprint for Healthcare Providers Involved in the Management or Support of Patients with Pain.
+- •Discuss the safe use, serious risks, and proper storage and disposal of opioid analgesics with patients and/or their caregivers every time these medicines are prescribed.
+  The Patient Counseling Guide (PCG) can be obtained at this link:www.fda.gov/OpioidAnalgesicREMSPCGhttps://www.fda.gov/OpioidAnalgesicREMSPCD.
+- •Emphasize to patients and their caregivers the importance of reading the Medication Guide that they will receive from their pharmacist every time an opioid analgesic is dispensed to them.
+- •Consider using other tools to improve patient, household, and community safety, such as patient-prescriber agreements that reinforce patient-prescriber responsibilities.
+
+To obtain further information on the opioid analgesic REMS and for a list of accredited REMS CME/CE, call 800‑503‑0784, or log on to www.opioidanalgesicrems.com.
+The FDA Blueprint can be found at www.fda.gov/OpioidAnalgesicREMSBlueprint.
+
+## 5.4 Life-Threatening Respiratory Depression
 
 1. Serious, life-threatening, or fatal respiratory depression has been reported with the use of methadone, even when used as recommended.
    The peak respiratory depressant effect of methadone occurs later, and persists longer than the peak analgesic effect.
@@ -41,7 +56,7 @@ Contact local state professional licensing board or state controlled substances 
 
 Accidental ingestion of even one dose of methadone, especially by children, can result in respiratory depression and death due to overdose of methadone.
 
-## 5.4 Life-Threatening QT Prolongation
+## 5.5 Life-Threatening QT Prolongation
 
 1. Cases of QT interval prolongation and serious arrhythmia (torsades de pointes) have been observed during treatment with methadone.
    These cases appear to be more commonly associated with, but not limited to, higher dose treatment (> 200 mg/day).
@@ -56,7 +71,7 @@ Accidental ingestion of even one dose of methadone, especially by children, can 
 
 The use of methadone in patients already known to have a prolonged QT interval has not been systematically studied.
 
-## 5.5 Neonatal Opioid Withdrawal Syndrome
+## 5.6 Neonatal Opioid Withdrawal Syndrome
 
 1. Neonatal opioid withdrawal syndrome (NOWS) is an expected and treatable outcome of prolonged use of opioids during pregnancy, whether that use is medically-authorized or illicit.
    Unlike opioid withdrawal syndrome in adults, NOWS may be life-threatening if not recognized and treated in the neonate.
@@ -68,7 +83,7 @@ The use of methadone in patients already known to have a prolonged QT interval h
    NOWS can result from in utero exposure to opioids regardless of the source.
    Therefore, prescribers should discuss the importance and benefits of management of opioid addiction throughout pregnancy.
 
-## 5.6 Risks of Concomitant Use of Cytochrome P450 3A4, 2B6, 2C19, 2C9, or 2D6 Inhibitor or Discontinuation of P450 3A4, 2B6, 2C19, or 2C9 Inducers
+## 5.7 Risks of Concomitant Use of Cytochrome P450 3A4, 2B6, 2C19, 2C9, or 2D6 Inhibitor or Discontinuation of P450 3A4, 2B6, 2C19, or 2C9 Inducers
 
 1. Concomitant use of Methadone Hydrochloride Oral Solution with CYP3A4, CYP2B6, CYP2C19, CYP2C9, or CYP2D6 inhibitors, may increase plasma concentrations of methadone, prolong opioid adverse reactions, and may cause potentially fatal respiratory depression, particularly when an inhibitor is added after a stable dosage of Methadone Hydrochloride Oral Solution is achieved.
    Similarly, discontinuation of concomitant CYP3A4, CYP2B6, CYP2C19, or CYP2C9 inducers in Methadone Hydrochloride Oral Solution-treated patients may increase methadone plasma concentrations resulting in fatal respiratory depression.
@@ -76,7 +91,7 @@ The use of methadone in patients already known to have a prolonged QT interval h
 2. Addition of CYP3A4, CYP2B6, CYP2C19, or CYP2C9 inducers or discontinuation of CYP3A4, CYP2B6, CYP2C19, CYP2C9, or CYP2D6 inhibitors in patients treated with Methadone Hydrochloride Oral Solution may decrease methadone plasma concentrations, reducing efficacy and may lead to opioid withdrawal symptoms in patients physically dependent on methadone.
    When using Methadone Hydrochloride Oral Solution with CYP3A4, CYP2B6, CYP2C19, or CYP2C9 inducers or discontinuing CYP3A4, CYP2B6, CYP2C19, CYP2C9, or CYP2D6 inhibitors, follow patients for signs or symptoms of opioid withdrawal and consider increasing the Methadone Hydrochloride Oral Solution dosage as needed [see Drug Interactions (7)].
 
-## 5.7 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
+## 5.8 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
 Profound sedation, respiratory depression, coma, and death may result from the concomitant use of Methadone Hydrochloride Oral Solution with benzodiazepines or other CNS depressants (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
 
@@ -120,22 +135,22 @@ Ensure that other healthcare providers prescribing benzodiazepines or other CNS 
 In addition, take measures to confirm that patients are taking the medications prescribed and not diverting or supplementing with illicit drugs.
 Toxicology screening should test for prescribed and illicit benzodiazepines [see Drug Interactions (7)].
 
-## 5.8 Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or in Elderly, Cachectic, and Debilitated Patients
+## 5.9 Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or in Elderly, Cachectic, and Debilitated Patients
 
 The use of Methadone Hydrochloride Oral Solution in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
 
 Patients with Chronic Pulmonary Disease
 
-Methadone Hydrochloride Oral Solution-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of Methadone Hydrochloride Oral Solution [see Warnings and Precautions (5.3)].
+Methadone Hydrochloride Oral Solution-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of Methadone Hydrochloride Oral Solution [see Warnings and Precautions (5.4)].
 
 Elderly, Cachectic, or Debilitated Patients
 
-Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.3)].
+Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.4)].
 
-Monitor such patients closely, particularly when initiating and titrating Methadone Hydrochloride Oral Solution and when Methadone Hydrochloride Oral Solution are given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.3, 5.7)].
+Monitor such patients closely, particularly when initiating and titrating Methadone Hydrochloride Oral Solution and when Methadone Hydrochloride Oral Solution are given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.4, 5.8)].
 Alternatively, consider the use of non-opioid analgesics in these patients.
 
-## 5.9 Serotonin Syndrome with Concomitant Use of Serotonergic Drugs
+## 5.10 Serotonin Syndrome with Concomitant Use of Serotonergic Drugs
 
 Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of Methadone Hydrochloride Oral Solution with serotonergic drugs.
 Serotonergic drugs include selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5HT3 receptor antagonists, drugs that affect the serotonergic neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), and drugs that impair metabolism of serotonin (including MAO inhibitors, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue) [see Drug Interactions (7)].
@@ -144,7 +159,7 @@ Serotonin syndrome symptoms may include mental status changes (e.g., agitation, 
 The onset of symptoms generally occurs within several hours to a few days of concomitant use, but may occur later than that.
 Discontinue Methadone Hydrochloride Oral Solution if serotonin syndrome is suspected.
 
-## 5.10 Adrenal Insufficiency
+## 5.11 Adrenal Insufficiency
 
 Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
 Presentation of adrenal insufficiency may include non-specific symptoms and signs including nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
@@ -154,7 +169,7 @@ Wean the patient off of the opioid to allow adrenal function to recover and cont
 Other opioids may be tried as some cases reported use of a different opioid without recurrence of adrenal insufficiency.
 The information available does not identify any particular opioids as being more likely to be associated with adrenal insufficiency.
 
-## 5.11 Severe Hypotension
+## 5.12 Severe Hypotension
 
 Methadone Hydrochloride Oral Solution may cause severe hypotension including orthostatic hypotension and syncope in ambulatory patients.
 There is an increased risk in patients whose ability to maintain blood pressure has already been compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g. phenothiazines or general anesthetics) [see Drug Interactions (7)].
@@ -162,14 +177,14 @@ Monitor these patients for signs of hypotension after initiating or titrating th
 In patients with circulatory shock, Methadone Hydrochloride Oral Solution may cause vasodilation that can further reduce cardiac output and blood pressure.
 Avoid the use of Methadone Hydrochloride Oral Solution in patients with circulatory shock.
 
-## 5.12 Risks of Use in Patients with Increased Pressure, Brain Tumors, Head Injury, or Impaired Consciousness
+## 5.13 Risks of Use in Patients with Increased Pressure, Brain Tumors, Head Injury, or Impaired Consciousness
 
 1. In patients who may be susceptible to the intracranial effects of CO2 retention (e.g., those with evidence of increased intracranial pressure or brain tumors) Methadone Hydrochloride Oral Solution may reduce respiratory drive, and the resultant CO2 retention can further increase intracranial pressure.
    Monitor such patients for signs of sedation and respiratory depression, particularly when initiating therapy with Methadone Hydrochloride Oral Solution.
 2. Opioids may also obscure the clinical course in a patient with a head injury.
 3. Avoid the use of Methadone Hydrochloride Oral Solution in patients with impaired consciousness or coma.
 
-## 5.13 Risks of Use in Patients with Gastrointestinal Conditions
+## 5.14 Risks of Use in Patients with Gastrointestinal Conditions
 
 Methadone Hydrochloride Oral Solution is contraindicated in patients with known or suspected gastrointestinal obstruction, including paralytic ileus.
 
@@ -177,12 +192,12 @@ The methadone in Methadone Hydrochloride Oral Solution may cause spasm of the sp
 Opioids may cause increases in the serum amylase.
 Monitor patients with biliary tract disease, including acute pancreatitis, for worsening symptoms.
 
-## 5.14 Increased Risk of Seizures in Patients with Seizure Disorders
+## 5.15 Increased Risk of Seizures in Patients with Seizure Disorders
 
 The methadone in Methadone Hydrochloride Oral Solution may increase the frequency of seizures in patients with seizure disorders, and may increase the risk of seizures in other clinical settings associated with seizures.
 Monitor patients with a history of seizure disorders for worsened seizure control during Methadone Hydrochloride Oral Solution therapy.
 
-## 5.15 Withdrawal
+## 5.16 Withdrawal
 
 Avoid the use of mixed agonist/antagonist (i.e., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist, including Methadone Hydrochloride Oral Solution.
 In these patients, mixed agonists/antagonist and partial agonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms [see Drug Interactions (7)].
@@ -190,11 +205,11 @@ In these patients, mixed agonists/antagonist and partial agonist analgesics may 
 When discontinuing Methadone Hydrochloride Oral Solution, gradually taper the dosage [see Dosage and Administration (2.5)].
 Do not abruptly discontinue Methadone Hydrochloride Oral Solution [see Drug Abuse and Dependence (9.3)].
 
-## 5.16 Risks of Driving and Operating Machinery
+## 5.17 Risks of Driving and Operating Machinery
 
 Methadone Hydrochloride Oral Solution may impair the mental or physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery.
 Warn patients not to drive or operate dangerous machinery unless they are tolerant to the effects of methadone and know how they will react to the medication [see Patient Counseling Information (17)].
 
-## 5.17 Laboratory Test Interactions
+## 5.18 Laboratory Test Interactions
 
 False positive urine drug screens for methadone have been reported for several drugs including diphenhydramine, doxylamine, clomipramine, chlorpromazine, thioridazine, quetiapine, and verapamil.

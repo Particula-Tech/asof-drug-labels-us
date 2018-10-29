@@ -9,4 +9,5 @@ Methadone Hydrochloride Oral Solution is indicated for the:
 5. 2.Detoxification treatment of opioid addiction (heroin or other morphine-like drugs).
 6. 3.Maintenance treatment of opioid addiction (heroin or other morphine-like drugs), in conjunction with appropriate social and medical services.
 7. Limitations of Use
-8. Methadone products used for the treatment of opioid addiction in detoxification or maintenance programs are subject to the conditions for distribution and use required under 42 CFR 8.12 [see Dosage and Administration (2.1)].
+
+Methadone products used for the treatment of opioid addiction in detoxification or maintenance programs are subject to the conditions for distribution and use required under 42 CFR 8.12 [see Dosage and Administration (2.1)].
