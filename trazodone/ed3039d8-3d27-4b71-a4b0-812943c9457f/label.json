@@ -1,0 +1,34 @@
+{
+  "application_numbers": [
+    "ANDA206923"
+  ],
+  "inn": "trazodone",
+  "labeler": "Accord Healthcare, Inc.",
+  "package_ndcs": [
+    "16729-299-01",
+    "16729-299-16",
+    "16729-299-17",
+    "16729-299-43",
+    "16729-299-44",
+    "16729-300-01",
+    "16729-300-16",
+    "16729-300-17",
+    "16729-300-43",
+    "16729-300-44",
+    "16729-301-01",
+    "16729-301-16",
+    "16729-301-17",
+    "16729-302-01",
+    "16729-302-16",
+    "16729-302-17"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "trazodone hydrochloride",
+      "name": "Trazodone Hydrochloride"
+    }
+  ],
+  "setid": "ed3039d8-3d27-4b71-a4b0-812943c9457f",
+  "source": "dailymed"
+}
