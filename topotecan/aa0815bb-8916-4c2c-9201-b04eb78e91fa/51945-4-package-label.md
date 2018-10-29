@@ -6,7 +6,7 @@ HYCAMTIN®
 
 (topotecan) Capsules
 
-.25 mg
+0.25 mg
 
 Rx only
 
