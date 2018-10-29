@@ -294,6 +294,8 @@ The 100 mg and 400 mg tablets contain only iron oxide yellow.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
+Medication guide available at www.accordhealthcare.us/products
+
 Manufactured For:
 
 Accord Healthcare Inc., 1009 Slater Road, Suite 210-B, Durham, NC 27703, USA.
@@ -302,6 +304,6 @@ Manufactured By:
 
 Intas Pharmaceuticals Limited, Ahmedabad -380 009, India.
 
-10 0210 1 674302
+10 0210 3 676479
 
-Issued March 2017
+Issued August 2017

@@ -85,6 +85,6 @@ Manufactured By:
 
 Intas Pharmaceuticals Limited, Ahmedabad -380 009, India.
 
-10 0210 1 674302
+10 0210 3 676479
 
-Issued March 2017
+Issued August 2017
