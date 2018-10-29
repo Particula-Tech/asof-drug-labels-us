@@ -55,7 +55,6 @@ DO NOT ADMINISTER OR MIX WITH DEXTROSE SOLUTION.
 ## 2.4 Dose Modifications
 
 There are no recommended dose reductions.
-
 Discontinue MVASI for:
 
 - Gastrointestinal perforations (gastrointestinal perforations, fistula formation in the gastrointestinal tract, intra-abdominal abscess), fistula formation involving an internal organ [see Boxed Warning, Warnings and Precautions (5.1, 5.2)].
