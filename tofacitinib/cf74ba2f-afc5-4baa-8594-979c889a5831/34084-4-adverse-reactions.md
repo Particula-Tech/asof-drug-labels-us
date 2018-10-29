@@ -5,7 +5,7 @@ The following clinically significant adverse reactions are described elsewhere i
 - Serious Infections [see Warnings and Precautions (5.1)]
 - Malignancy and Lymphoproliferative Disorders [see Warnings and Precautions (5.2)]
 - Gastrointestinal Perforations [see Warnings and Precautions (5.3)]
-- Laboratory Abnormalities [see Warnings and Precautions (5.4)]
+- Laboratory Abnormalities [see Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -84,7 +84,7 @@ Lymphopenia
 
 In the controlled clinical trials, confirmed decreases in absolute lymphocyte counts below 500 cells/mm3 occurred in 0.04% of patients for the 5 mg twice daily and 10 mg twice daily XELJANZ groups combined during the first 3 months of exposure.
 
-Confirmed lymphocyte counts less than 500 cells/mm3 were associated with an increased incidence of treated and serious infections [see Warnings and Precautions (5.4)].
+Confirmed lymphocyte counts less than 500 cells/mm3 were associated with an increased incidence of treated and serious infections [see Warnings and Precautions (5.5)].
 
 Neutropenia
 
@@ -94,7 +94,7 @@ There were no confirmed decreases in ANC below 500 cells/mm3 observed in any tre
 
 There was no clear relationship between neutropenia and the occurrence of serious infections.
 
-In the long-term safety population, the pattern and incidence of confirmed decreases in ANC remained consistent with what was seen in the controlled clinical trials [see Warnings and Precautions (5.4)].
+In the long-term safety population, the pattern and incidence of confirmed decreases in ANC remained consistent with what was seen in the controlled clinical trials [see Warnings and Precautions (5.5)].
 
 Liver Enzyme Elevations
 
@@ -226,3 +226,7 @@ In the long-term extension study, malignancies (including solid cancers, lymphom
 Four cases of pulmonary embolism were reported in patients taking XELJANZ 10 mg twice daily, including one fatality in a patient with advanced cancer.
 
 Dose-dependent adverse reactions seen in patients treated with XELJANZ 10 mg twice daily, in comparison to 5 mg twice daily, include the following: herpes zoster infections, serious infections, and NMSC [see Warnings and Precautions (5.1, 5.2)].
+
+## 6.2 Postmarketing Experience
+
+Immune system disorders: Drug hypersensitivity (events such as angioedema and urticaria have been observed).

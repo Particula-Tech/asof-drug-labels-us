@@ -15,7 +15,7 @@ Risk Summary
 Available data with XELJANZ/XELJANZ XR use in pregnant women are insufficient to establish a drug associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes.
 There are risks to the mother and the fetus associated with rheumatoid arthritis and UC in pregnancy (see Clinical Considerations).
 In animal reproduction studies, fetocidal and teratogenic effects were noted when pregnant rats and rabbits received tofacitinib during the period of organogenesis at exposures multiples of 73-times and 6.3-times the maximum recommended dose of 10 mg twice daily, respectively.
-Further, in a peri and post-natal study in rats, tofacitinib resulted in reductions in live litter size, postnatal survival, and pup body weights at exposure multiples of approximately 73-times the recommended dose of 5 mg twice daily and approximately 36 times the maximum recommended dose of 10 mg twice daily, respectively (see Data).
+Further, in a peri- and post-natal study in rats, tofacitinib resulted in reductions in live litter size, postnatal survival, and pup body weights at exposure multiples of approximately 73-times the recommended dose of 5 mg twice daily and approximately 36 times the maximum recommended dose of 10 mg twice daily, respectively (see Data).
 
 The estimated background risks of major birth defects and miscarriage for the indicated populations are unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
@@ -99,7 +99,7 @@ As there is a higher incidence of infection in diabetic population in general, c
 Moderate and Severe Impairment
 
 XELJANZ-treated patients with moderate or severe renal impairment had greater tofacitinib blood concentrations than XELJANZ-treated patients with normal renal function.
-Therefore, dosage adjustment of XELJANZ is recommended in patients with moderate or severe renal impairment.
+Therefore, dosage adjustment of XELJANZ is recommended in patients with moderate or severe renal impairment (including but not limited to those with severe insufficiency who are undergoing hemodialysis).
 
 - Rheumatoid arthritis and psoriatic arthritis patients with moderate or severe renal impairment receiving XELJANZ XR should switch to XELJANZ and adjust the dosage [see Dosage and Administration (2.2)].
 

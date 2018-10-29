@@ -44,6 +44,7 @@ Patients with latent tuberculosis should be treated with standard antimycobacter
 Viral Reactivation
 
 Viral reactivation, including cases of herpes virus reactivation (e.g., herpes zoster), were observed in clinical studies with XELJANZ.
+Postmarketing cases of hepatitis B reactivation have been reported in patients treated with XELJANZ.
 The impact of XELJANZ/XELJANZ XR on chronic viral hepatitis reactivation is unknown.
 Patients who screened positive for hepatitis B or C were excluded from clinical trials.
 Screening for viral hepatitis should be performed in accordance with clinical guidelines before starting therapy with XELJANZ/XELJANZ XR.
@@ -66,7 +67,7 @@ In the long-term extension study, malignancies (including solid cancers and lymp
 
 In Phase 2B, controlled dose-ranging trials in de-novo renal transplant patients, all of whom received induction therapy with basiliximab, high-dose corticosteroids, and mycophenolic acid products, Epstein Barr Virus-associated post-transplant lymphoproliferative disorder was observed in 5 out of 218 patients treated with XELJANZ (2.3%) compared to 0 out of 111 patients treated with cyclosporine.
 
-Other malignancies were observed in clinical studies and the post-marketing setting, including, but not limited to, lung cancer, breast cancer, melanoma, prostate cancer, and pancreatic cancer.
+Other malignancies were observed in clinical studies and the postmarketing setting, including, but not limited to, lung cancer, breast cancer, melanoma, prostate cancer, and pancreatic cancer.
 
 Non-Melanoma Skin Cancer
 
@@ -84,7 +85,13 @@ There was no discernable difference in frequency of gastrointestinal perforation
 XELJANZ/XELJANZ XR should be used with caution in patients who may be at increased risk for gastrointestinal perforation (e.g., patients with a history of diverticulitis or taking NSAIDs).
 Patients presenting with new onset abdominal symptoms should be evaluated promptly for early identification of gastrointestinal perforation [see Adverse Reactions (6.1)].
 
-## 5.4 Laboratory Abnormalities
+## 5.4 Hypersensitivity
+
+Reactions such as angioedema and urticaria that may reflect drug hypersensitivity have been observed in patients receiving XELJANZ/XELJANZ XR.
+Some events were serious.
+If a serious hypersensitivity reaction occurs, promptly discontinue tofacitinib while evaluating the potential cause or causes of the reaction [see Adverse Reactions (6.2)].
+
+## 5.5 Laboratory Abnormalities
 
 Lymphocyte Abnormalities
 
@@ -135,7 +142,7 @@ Assessment of lipid parameters should be performed approximately 4–8 weeks fol
 
 Manage patients according to clinical guidelines [e.g., National Cholesterol Educational Program (NCEP)] for the management of hyperlipidemia.
 
-## 5.5 Vaccinations
+## 5.6 Vaccinations
 
 Avoid use of live vaccines concurrently with XELJANZ/XELJANZ XR.
 The interval between live vaccinations and initiation of tofacitinib therapy should be in accordance with current vaccination guidelines regarding immunosuppressive agents.
@@ -146,7 +153,7 @@ Tofacitinib was discontinued and the patient recovered after treatment with stan
 
 Update immunizations in agreement with current immunization guidelines prior to initiating XELJANZ/XELJANZ XR therapy.
 
-## 5.6 Risk of Gastrointestinal Obstruction with a Non-Deformable Extended-Release Formulation such as XELJANZ XR
+## 5.7 Risk of Gastrointestinal Obstruction with a Non-Deformable Extended-Release Formulation such as XELJANZ XR
 
 As with any other non-deformable material, caution should be used when administering XELJANZ XR to patients with pre-existing severe gastrointestinal narrowing (pathologic or iatrogenic).
 There have been rare reports of obstructive symptoms in patients with known strictures in association with the ingestion of other drugs utilizing a non-deformable extended-release formulation.

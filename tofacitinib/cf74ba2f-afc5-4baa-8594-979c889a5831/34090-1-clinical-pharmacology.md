@@ -92,6 +92,9 @@ Note: Reference values for weight, age, gender, and race comparisons are 70 kg, 
 
 a [see Dosage and Administration (2.2, 2.3)] for dosage adjustment in RA, PsA, and UC patients.
 
+In subjects with ESRD maintained on hemodialysis, mean AUC was approximately 40% higher compared with historical healthy subject data, consistent with approximately 30% contribution of renal clearance to the total clearance of tofacitinib.
+Dose adjustment is recommended in ESRD patients maintained on hemodialysis ([see Dosage and Administration (2.2, 2.3)] for dosage adjustment in RA, PsA, and UC patients).
+
 Drug Interaction Studies
 
 Potential for XELJANZ/XELJANZ XR to Influence the PK of Other Drugs

@@ -15,9 +15,13 @@ Malignancies and Lymphoproliferative Disorders
 Inform patients that XELJANZ/XELJANZ XR may increase their risk of certain cancers, and that lymphoma and other cancers have been observed in patients taking XELJANZ.
 Instruct patients to inform their healthcare provider if they have ever had any type of cancer [see Warnings and Precautions (5.2)].
 
+Hypersensitivity
+
+Advise patients to stop taking XELJANZ/XELJANZ XR and to call their healthcare provider right away if they experience any symptoms of allergic reactions while taking XELJANZ/XELJANZ XR [see Warnings and Precautions (5.4)].
+
 Important Information on Laboratory Abnormalities
 
-Inform patients that XELJANZ/XELJANZ XR may affect certain lab test results, and that blood tests are required before and during XELJANZ/XELJANZ XR treatment [see Warnings and Precautions (5.4)].
+Inform patients that XELJANZ/XELJANZ XR may affect certain lab test results, and that blood tests are required before and during XELJANZ/XELJANZ XR treatment [see Warnings and Precautions (5.5)].
 
 Pregnancy
 
