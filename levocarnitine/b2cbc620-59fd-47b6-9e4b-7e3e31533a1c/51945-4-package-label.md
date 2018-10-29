@@ -4,10 +4,11 @@ NDC 54482-145-08
 
 CARNITOR® (levocarnitine) Oral Solution
 
-118mL (4 fl. oz.)
-Multiple Unit Container
+118 mL (4 fl. oz.)
 
-Active ingredient: L-carnitine 1g/10mL Inactive ingredients: Artificial Cherry Flavor, D,L-Malic Acid, Methylparaben NF, Propylparaben NF, Purified Water, Sucrose Syrup
+Active ingredient: L-carnitine 1g/10mL
+
+Inactive ingredients: Artificial Cherry Flavor, D,L-Malic Acid, Methylparaben NF, Propylparaben NF, Purified Water, Sucrose Syrup
 
 Leadiant Biosciences
 
@@ -18,6 +19,6 @@ See USP.
 Dosage: See package insert.
 Rx only.
 
-Rev 171:03 04/17 OL(H)-5 02/17
-
 Distributed by: Leadiant Biosciences, Inc. Gaithersburg, MD 20878
+
+Rev 171:04 06/18 OL(H)-6 06/18
