@@ -46,7 +46,9 @@ Abuse Deterrence Studies
 ARYMO ER is formulated with inactive ingredients that make the tablet more difficult to manipulate for misuse and abuse.
 
 To evaluate the ability of ARYMO ER to reduce the potential for misuse and abuse, a series of abuse-deterrent in vitro laboratory physical manipulation, chemical extraction, and syringeability studies were conducted.
-An oral pharmacokinetic study and an oral clinical abuse potential study were also conducted.
+One oral human abuse potential study and one intranasal human abuse potential study were conducted.
+In each study both pharmacokinetic and pharmacodynamic (subjective measures) data were collected.
+These data are described below for both studies.
 
 In Vitro Testing
 
@@ -54,7 +56,9 @@ In vitro physical and chemical manipulation studies were performed to evaluate t
 The results of this testing demonstrated that ARYMO ER tablets, in comparison to morphine sulfate extended-release tablets, have increased resistance to cutting, crushing, grinding or breaking using a variety of tools.
 When subjected to a liquid environment, the manipulated ARYMO ER tablets form a viscous hydrogel (i.e., a gelatinous mass) that resists passage through a hypodermic needle.
 
-Oral Pharmacokinetic Study
+Oral Human Abuse Potential Study
+
+Pharmacokinetic Results:
 
 The pharmacokinetic profile of manipulated ARYMO ER was characterized following oral administration.
 The study was conducted in a randomized cross-over design.
@@ -77,10 +81,13 @@ Table 2: Results from Oral Pharmacokinetic Study
 | Median (Range) | 157.1 (94.5, 215.3) | 159.4 (80.9, 274.8) | 185.5 (61.8, 284.1) |
 | Cmax = maximum observed plasma concentration; Tmax = time to achieve the maximum observed plasma concentration; AUC0–∞ = area under the curve, zero to infinity |  |  |  |
 
-Oral Clinical Abuse Potential Study
+Pharmacodynamic Results:
 
 An oral abuse potential study was conducted in 39 subjects who were non-dependent recreational opioid users; 38 subjects completed the study.
 Treatment arms included manipulated ARYMO ER 60 mg tablets (taken with juice), intact ARYMO ER 60 mg tablets (taken with juice), crushed 60 mg morphine sulfate extended-release tablets (mixed in juice), and placebo.
+
+Drug liking was measured on a 100 mm bipolar visual analog scale (VAS) where 50 represents a neutral response of “neither like nor dislike”, 0 represents “strong disliking”, and 100 represents “strong liking.”
+Response to whether the subject would take the study drug again was also measured on a bipolar scale of 0 to 100 where 50 represents a neutral response (‘do not care’), 0 represents the strongest negative response (‘definitely would not’) and 100 represents the strongest positive response (‘definitely would’).
 
 The study demonstrated that the oral administration of manipulated ARYMO ER resulted in a statistically lower mean drug liking score than the oral administration of crushed morphine sulfate extended-release tablets.
 However, the difference between manipulated ARYMO ER and crushed morphine sulfate extended-release tablets for Take Drug Again was not statistically significant, indicating that the difference in drug liking scores was not clinically meaningful.
@@ -98,16 +105,64 @@ Table 3: Summary of Maximum Scores (Emax) for Drug Liking and Take Drug Again VA
 | Take Drug Again (Emax) |  |  |  |  |
 | Mean (SD) | 62.9 (19.6) | 54.8 (20.8) | 70.1 (17.5) | 51.0 (10.2) |
 | Median (Q1, Q3) | 61.5 (51.0, 71.0) | 56.0 (50.0, 65.0) | 68.0 (56.0, 80.0) | 50.0 (50.0, 50.0) |
-| 1 100 point bipolar VAS (0=maximum negative response, 50=neutral response, 100=maximum positive response) |  |  |  |  |
+| 1 100 point bipolar VAS (0=maximum negative response, 50=neutral response, 100=maximum positive response)Q1=1st Quartile; Q3=3rd Quartile |  |  |  |  |
+
+Intranasal Human Abuse Potential Study
+
+Pharmacokinetic Results:
+
+The pharmacokinetic profile of manipulated ARYMO ER compared to crushed morphine sulfate extended-release was evaluated following intranasal administration in 46 subjects.
+The study was conducted in a randomized cross-over design.
+Subjects were non-dependent recreational opioid users with insufflation experience.
+The preparation of ARYMO ER in this study required a multi-step procedure (mechanical and electrical manipulations) compared to morphine sulfate extended-release tablets, which were crushed in a single-step (mechanical) procedure.
+Treatment arms included ARYMO ER 60 mg tablet manipulated, morphine sulfate extended-release 60 mg tablet crushed, oral intact ARYMO ER 60 mg tablet, and placebo.
+
+The pharmacokinetic parameters that were measured include Cmax, Tmax and overall exposure (AUC0–∞).
+The results are summarized in Table 4 and demonstrate that snorting manipulated ARYMO ER had a lower Cmax, longer Tmax and lower overall exposure compared to snorting crushed morphine sulfate extended-release tablets.
+The pharmacokinetic profile of manipulated Arymo ER is consistent with an oral intact extended-release profile
+
+Table 4: Pharmacokinetic Results from Intranasal Study
+
+| PK Parameter | Manipulated ARYMO ER (n = 45) | Intact ARYMO ER (Oral) (n = 46) | Crushed Morphine Sulfate Extended- Release (n = 46) |
+| --- | --- | --- | --- |
+| Cmax (ng/mL) |  |  |  |
+| Mean (SD) | 19.0 (9.6) | 17.2 (4.3) | 36.3 (12.9) |
+| Median (Range) | 19.8 (4.2-40.1) | 18.1 (9.3-24.8) | 34.6 (6.5-62.3) |
+| Tmax (h) |  |  |  |
+| Median (Range) | 2.2 (1.1-6.1) | 3.7 (1.1-6.2) | 1.1 (0.4-2.7) |
+| AUC0–∞ (h*ng/mL) |  |  |  |
+| Mean (SD) | 125.2 (63.6) | 149.0 (25.5) | 181.6 (49.7) |
+| Median (Range) | 137.7 (20.8-244.2) | 153.4 (85.6-188.6) | 177.6 (29.8-286.0) |
+| Cmax = maximum observed plasma concentration; Tmax = time to achieve the maximum observed plasma concentration; AUC0–∞ = area under the curve, zero to infinity; SD=standard deviation |  |  |  |
+
+Pharmacodynamic Results:
+
+In the intranasal abuse potential study, drug liking was measured on a 100 mm bipolar visual analog scale (VAS) where 50 represents a neutral response of “neither like nor dislike”, 0 represents “strong disliking”, and 100 represents “strong liking.”
+Response to whether the subject would take the study drug again was also measured on a bipolar scale of 0 to 100 where 50 represents a neutral response (‘do not care’), 0 represents the strongest negative response (‘definitely would not’) and 100 represents the strongest positive response (‘definitely would’).
+The study results demonstrated that subjects who snorted manipulated ARYMO ER reported statistically significantly lower maximum scores (Emax) for drug liking and take drug again compared to snorting crushed morphine sulfate extended-release tablets.
+These results are summarized in Table 5.
+
+Table 5: Summary of Maximum Scores (Emax) for Drug Liking and Take Drug Again1 following Intranasal Administration of Manipulated ARYMO ER and Crushed Morphine Sulfate Extended-Release Tablets in Non-Dependent Recreational Opioid Users
+
+| Parameter | Manipulated ARYMO ER (n = 46) | Crushed Morphine Sulfate Extended-Release (n = 46) | Placebo (n = 46) |
+| --- | --- | --- | --- |
+| Maximum Drug Liking (Emax) |  |  |  |
+| Mean (SD) | 65.5 (14.3) | 77.7 (11.7) | 54.7 (10.6) |
+| Median (Q1, Q3) | 62.0 (52.0, 76.0) | 77.5 (70.0, 85.0) | 51.0 (50.0, 58.0) |
+| Take Drug Again (Emax) |  |  |  |
+| Mean (SD) | 43.1 (29.6) | 69.9 (27.4) | 52.5 (12.7) |
+| Median (Q1, Q3) | 50.0 (19.0, 66.0) | 73.0 (57.0, 90.0) | 50.0 (50.0, 51.0) |
+| 1100 point bipolar VAS (0=maximum negative response, 50=neutral response, 100=maximum positive response)Q1=1st Quartile; Q3=3rd Quartile |  |  |  |
 
 Summary
 
 The in vitro data demonstrate that ARYMO ER has physical and chemical properties expected to make abuse by injection difficult.
+The data from the in vitro studies and the intranasal clinical abuse potential study indicate that ARYMO ER has physical and chemical properties that are expected to reduce abuse via the intranasal route.
 
 Although the results of the oral human abuse potential study showed a difference in the Drug Liking endpoint, there was no statistically significant reduction in the response to Take Drug Again.
 Therefore, it cannot be concluded that ARYMO ER has physical and chemical properties that are expected to reduce abuse via the oral route.
 
-Abuse of ARYMO ER by injection, as well as by the oral and nasal routes, is still possible.
+Abuse of ARYMO ER by the intravenous and nasal routes, as well as by the oral route, is still possible.
 
 Additional data, including epidemiological data, when available, may provide further information on the impact of the current formulation of ARYMO ER on the abuse liability of the drug.
 Accordingly, this section may be updated in the future as appropriate.

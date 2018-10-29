@@ -103,4 +103,4 @@ Egalet US Inc. Wayne, PA 19087
 All rights reserved.
 US Patent Numbers 9,044,402 and 9,549,899
 
-LBL # 301.03 9/2018
+LBL # 301.04 10/2018
