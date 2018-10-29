@@ -34,8 +34,8 @@ Rx Only
 
 BusPIRone Hydrochloride Tablets USP
 
-30 mg 500 Tablets
+30 mg 60 Tablets
 
-NDC 16729- 289-16
+NDC 16729- 289-12
 
 Rx Only
