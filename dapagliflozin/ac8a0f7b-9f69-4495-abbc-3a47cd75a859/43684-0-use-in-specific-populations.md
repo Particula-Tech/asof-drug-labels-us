@@ -17,7 +17,6 @@ Dapagliflozin
 In a juvenile toxicity study, when dapagliflozin was dosed directly to young rats from postnatal day (PND) 21 until PND 90 at doses of 1, 15, or 75 mg/kg/day, increased kidney weights and renal pelvic and tubular dilatations were reported at all levels.
 Exposure at the lowest tested dose was 15 times the maximum clinical dose, based on AUC.
 The renal pelvic and tubular dilatations observed in juvenile animals did not fully reverse within the approximate 1-month recovery period.
-
 In a prenatal and postnatal development study, maternal rats were dosed from gestation day 6 through lactation day 21 at doses of 1, 15, or 75 mg/kg/day, and pups were indirectly exposed in utero and throughout lactation.
 Increased incidence or severity of renal pelvic dilatation was observed in adult offspring of treated dams at 75 mg/kg/day (maternal and pup dapagliflozin exposures were 1415 times and 137 times, respectively, the human values at the clinical dose).
 Dose-related reductions in pup body weights were observed at doses ≥1 mg/kg/day (approximately ≥19 times the clinical dose).
@@ -31,7 +30,7 @@ At higher doses in rats, malformations of blood vessels, ribs, vertebrae, manubr
 Metformin hydrochloride
 
 Metformin hydrochloride did not cause adverse developmental effect when administered to pregnant Sprague Dawley rats and rabbits up to 600 mg/kg/day during the period of organogenesis.
-This represents an exposure of about 2- and 6-times a 2000 mg clinical dose based on body surface area (mg/m2) for rats and rabbits, respectively.
+This represents an exposure of about 2 and 6 times a 2000 mg clinical dose based on body surface area (mg/m2) for rats and rabbits, respectively.
 Metformin was not teratogenic in rats and rabbits at doses up to 600 mg/kg/day.
 This represents an exposure of about 2 and 6 times the MRHD of 2000 mg based on body surface area comparisons for rats and rabbits, respectively.
 Determination of fetal concentrations demonstrated a partial placental barrier to metformin.
@@ -67,7 +66,7 @@ Metformin hydrochloride
 Controlled clinical studies of metformin did not include sufficient numbers of elderly patients to determine whether they respond differently than younger patients, although other reported clinical experience has not identified differences in responses between the elderly and young patients.
 Metformin is known to be substantially excreted by the kidney and because the risk of lactic acidosis with metformin is greater in patients with moderately to severely impaired renal function.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy and the higher risk of lactic acidosis.
-Assess renal function more frequently in elderly patients [see Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
+Assess renal function more frequently in elderly patients [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
 ## 8.6 Patients with Mild Renal Impairment (eGFR ≥60 to <90 mL/min/1.73 m2)
 

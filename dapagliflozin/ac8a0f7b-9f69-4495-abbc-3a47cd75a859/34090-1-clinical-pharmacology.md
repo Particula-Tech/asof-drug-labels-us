@@ -117,13 +117,13 @@ Higher systemic exposure of dapagliflozin in patients with type 2 diabetes melli
 The steady-state 24-hour urinary glucose excretion in patients with type 2 diabetes and mild, moderate, and severe renal impairment was 42%, 80%, and 90% lower, respectively, than in patients with type 2 diabetes with normal renal function.
 The impact of hemodialysis on dapagliflozin exposure is not known [see Dosage and Administration (2.2), Warnings and Precautions (5.1), and Use in Specific Populations (8.6)].
 
-Metformin hydrochloride
+#### Metformin hydrochloride
 
 In patients with decreased renal function, the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased [see Contraindications (4) and Warnings and Precautions (5.1)].
 
 #### Hepatic Impairment
 
-Dapagliflozin
+#### Dapagliflozin
 
 In patients with mild and moderate hepatic impairment (Child-Pugh Classes A and B), mean Cmax and AUC of dapagliflozin were up to 12% and 36% higher, respectively, as compared to healthy matched control subjects following single-dose administration of 10 mg dapagliflozin.
 These differences were not considered to be clinically meaningful.
@@ -258,9 +258,9 @@ Dapagliflozin did not meaningfully affect the pharmacokinetics of the coadminist
 
 Table 10: Effects of Dapagliflozin on the Systemic Exposures of Coadministered Drugs
 
-| ChangePercent change (with/without coadministered drug and no change = 0%); ↑ and ↓ indicate the exposure increase and decrease, respectively.inAUCAUC = AUC(INF) for drugs given as single dose and AUC = AUC(TAU) for drugs given in multiple doses. | Change in Cmax |  |  |
+|  |  | Coadministered Drug |  |
 | --- | --- | --- | --- |
-| Coadministered Drug (Dose Regimen)Single dose unless otherwise noted. | Dapagliflozin (Dose Regimen) | Coadministered Drug |  |
+| Coadministered Drug (Dose Regimen)Single dose unless otherwise noted. | Dapagliflozin (Dose Regimen) | ChangePercent change (with/without coadministered drug and no change = 0%); ↑ and ↓ indicate the exposure increase and decrease, respectively.in AUCAUC = AUC(INF) for drugs given as single dose and AUC = AUC(TAU) for drugs given in multiple doses. | Change in Cmax |
 | No dosing adjustments required for the following: |  |  |  |
 | Oral Antidiabetic Agents |  |  |  |
 | Metformin (1000 mg) | 20 mg | 0% | ↓5% |

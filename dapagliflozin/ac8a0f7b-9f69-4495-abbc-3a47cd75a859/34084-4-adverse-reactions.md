@@ -8,10 +8,11 @@ The following important adverse reactions are described below and elsewhere in t
 - •Acute Kidney Injury and Impairment in Renal Function [see Warnings and Precautions (5.4)]
 - •Urosepsis and Pyelonephritis [see Warnings and Precautions (5.5)]
 - •Use with Medications Known to Cause Hypoglycemia [see Warnings and Precautions (5.6)]
-- •Vitamin B12 Concentrations [see Warnings and Precautions (5.7)]
-- •Genital Mycotic Infections [see Warnings and Precautions (5.8)]
-- •Increases in Low-Density Lipoprotein Cholesterol (LDL-C) [see Warnings and Precautions (5.9)]
-- •Bladder Cancer [see Warnings and Precautions (5.10)]
+- •Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene) [see Warnings and Precautions (5.7)]
+- •Vitamin B12 Concentrations [see Warnings and Precautions (5.8)]
+- •Genital Mycotic Infections [see Warnings and Precautions (5.9)]
+- •Increases in Low-Density Lipoprotein Cholesterol (LDL-C) [see Warnings and Precautions (5.10)]
+- •Bladder Cancer [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -37,10 +38,10 @@ These adverse reactions were not present at baseline, occurred more commonly on 
 
 Table 1: Adverse Reactions in Placebo-Controlled Studies Reported in ≥2% of Patients Treated with Dapagliflozin and Metformin
 
-| Placebo and Metformin N=1185 | Dapagliflozin 5 mg and Metformin N=410 | Dapagliflozin 10 mg and Metformin N=983 |  |
-| --- | --- | --- | --- |
 | Adverse Reaction | % of Patients |  |  |
+| --- | --- | --- | --- |
 | Pool of 8 Placebo-Controlled Studies |  |  |  |
+| Placebo and MetforminN=1185 | Dapagliflozin5 mg and MetforminN=410 | Dapagliflozin10 mg and MetforminN=983 |  |
 | Female genital mycotic infectionsGenital mycotic infections include the following adverse reactions, listed in order of frequency reported for females: vulvovaginal mycotic infection, vaginal infection, genital infection, vulvovaginitis, fungal genital infection, vulvovaginal candidiasis, vulval abscess, genital candidiasis, and vaginitis bacterial. (N for females: Placebo and metformin=534, dapagliflozin 5 mg and metformin=223, dapagliflozin 10 mg and metformin=430). | 1.5 | 9.4 | 9.3 |
 | Nasopharyngitis | 5.9 | 6.3 | 5.2 |
 | Urinary tract infectionsUrinary tract infections include the following adverse reactions, listed in order of frequency reported: urinary tract infection, cystitis, pyelonephritis, urethritis, and prostatitis. | 3.6 | 6.1 | 5.5 |
@@ -82,10 +83,10 @@ These adverse reactions were not present at baseline, occurred more commonly on 
 
 Table 2: Adverse Reactions in Placebo-Controlled Studies Reported in ≥2% of Patients Treated with Dapagliflozin
 
-| Placebo N=1393 | Dapagliflozin 5 mg N=1145 | Dapagliflozin 10 mg N=1193 |  |
-| --- | --- | --- | --- |
 | Adverse Reaction | % of Patients |  |  |
+| --- | --- | --- | --- |
 | Pool of 12 Placebo-Controlled Studies |  |  |  |
+| Placebo N=1393 | Dapagliflozin5 mgN=1145 | Dapagliflozin10 mg N=1193 |  |
 | Female genital mycotic infectionsGenital mycotic infections include the following adverse reactions, listed in order of frequency reported for females: vulvovaginal mycotic infection, vaginal infection, vulvovaginal candidiasis, vulvovaginitis, genital infection, genital candidiasis, fungal genital infection, vulvitis, genitourinary tract infection, vulval abscess, and vaginitis bacterial. (N for females: Placebo=677, dapagliflozin 5 mg=581, dapagliflozin 10 mg=598). | 1.5 | 8.4 | 6.9 |
 | Nasopharyngitis | 6.2 | 6.6 | 6.3 |
 | Urinary tract infectionsUrinary tract infections include the following adverse reactions, listed in order of frequency reported: urinary tract infection, cystitis, Escherichia urinary tract infection, genitourinary tract infection, pyelonephritis, trigonitis, urethritis, kidney infection, and prostatitis. | 3.7 | 5.7 | 4.3 |
@@ -118,7 +119,7 @@ Table 3: Adverse Reactions of Volume DepletionVolume depletion includes reports 
 
 |  | Pool of 12 Placebo-Controlled Studies |  |  | Pool of 13 Placebo-Controlled Studies |  |
 | --- | --- | --- | --- | --- | --- |
-|  | Placebo | Dapagliflozin 5 mg | Dapagliflozin 10 mg | Placebo | Dapagliflozin 10 mg |
+|  | Placebo | Dapagliflozin5 mg | Dapagliflozin10 mg | Placebo | Dapagliflozin10 mg |
 | Overall population N (%) | N=13935 (0.4%) | N=11457 (0.6%) | N=11939 (0.8%) | N=229517 (0.7%) | N=236027 (1.1%) |
 | Patient Subgroup n (%) |  |  |  |  |  |
 | Patients on loop diuretics | n=55 1 (1.8%) | n=40 0 | n=31 3 (9.7%) | n=267 4 (1.5%) | n=236 6 (2.5%) |
@@ -137,7 +138,7 @@ Table 4: Changes in Serum Creatinine and eGFR Associated with Dapagliflozin in t
 
 |  |  | Pool of 12 Placebo-Controlled Studies |  |  |
 | --- | --- | --- | --- | --- |
-|  |  | Placebo N=1393 | Dapagliflozin 5 mg N=1145 | Dapagliflozin 10 mg N=1193 |
+| PlaceboN=1393 | Dapagliflozin 5 mgN=1145 | Dapagliflozin 10 mgN=1193 |  |  |
 | Baseline Mean | Serum Creatinine (mg/dL) | 0.853 | 0.860 | 0.847 |
 | eGFR (mL/min/1.73 m2) | 86.0 | 85.3 | 86.7 |  |
 | Week 1 Change | Serum Creatinine (mg/dL) | −0.003 | 0.029 | 0.041 |
@@ -145,7 +146,7 @@ Table 4: Changes in Serum Creatinine and eGFR Associated with Dapagliflozin in t
 | Week 24 Change | Serum Creatinine (mg/dL) | −0.005 | −0.001 | 0.001 |
 | eGFR (mL/min/1.73 m2) | 0.8 | 0.8 | 0.3 |  |
 |  |  | Moderate Renal Impairment Study |  |  |
-|  |  | Placebo N=84 | Dapagliflozin 5 mg N=83 | Dapagliflozin 10 mg N=85 |
+| PlaceboN=84 | Dapagliflozin 5 mgN=83 | Dapagliflozin 10 mgN=85 |  |  |
 | Baseline Mean | Serum Creatinine (mg/dL) | 1.46 | 1.53 | 1.52 |
 | eGFR (mL/min/1.73 m2) | 45.6 | 44.2 | 43.9 |  |
 | Week 1 Change | Serum Creatinine (mg/dL) | 0.01 | 0.13 | 0.18 |
@@ -157,9 +158,9 @@ Table 4: Changes in Serum Creatinine and eGFR Associated with Dapagliflozin in t
 
 Table 5: Proportion of Patients with at Least One Renal Impairment-Related Adverse Reaction
 
-|  | Pool of 6 Placebo-Controlled Studies (up to 104 weeks)Subset of patients from the pool of 12 placebo-controlled studies with long-term extensions. |  |  | Pool of 9 Placebo-Controlled Studies (up to 104 weeks)Subset of patients from the pool of 13 placebo-controlled studies with long-term extensions. |  |
+|  | Pool of 6 Placebo-ControlledStudies (up to 104 weeks)Subset of patients from the pool of 12 placebo-controlled studies with long-term extensions. |  |  | Pool of 9 Placebo-Controlled Studies (up to 104 weeks)Subset of patients from the pool of 13 placebo-controlled studies with long-term extensions. |  |
 | --- | --- | --- | --- | --- | --- |
-| Baseline Characteristic | Placebo | Dapagliflozin 5 mg | Dapagliflozin 10 mg | Placebo | Dapagliflozin 10 mg |
+| Baseline Characeteristic | Placebo | Dapagliflozin5 mg | Dapagliflozin10 mg | Placebo | Dapagliflozin10 mg |
 | Overall population Patients (%) with at least one event | n=785 13 (1.7%) | n=767 14 (1.8%) | n=859 16 (1.9%) | n=1956 82 (4.2%) | n=2026 136 (6.7%) |
 | 65 years of age and older Patients (%) with at least one event | n=190 4 (2.1%) | n=162 5 (3.1%) | n=159 6 (3.8%) | n=655 52 (7.9%) | n=620 87 (14.0%) |
 | eGFR ≥30 and <60 mL/min/1.73 m2 Patients (%) with at least one event | n=77 5 (6.5%) | n=88 7 (8.0%) | n=75 9 (12.0%) | n=249 40 (16.1%) | n=251 71 (28.3%) |
@@ -239,7 +240,7 @@ Mean percent change from baseline at Week 24 were 0.0% versus 2.5% for total cho
 Metformin hydrochloride
 
 Metformin may lower serum vitamin B12 concentrations.
-Measurement of hematologic parameters on an annual basis is advised in patients on XIGDUO XR and any apparent abnormalities should be appropriately investigated and managed [see Warnings and Precautions (5.7)].
+Measurement of hematologic parameters on an annual basis is advised in patients on XIGDUO XR and any apparent abnormalities should be appropriately investigated and managed [see Warnings and Precautions (5.8)].
 
 ## 6.2 Postmarketing Experience
 
@@ -248,9 +249,10 @@ Dapagliflozin
 Additional adverse reactions have been identified during postapproval use of dapagliflozin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- •Ketoacidosis [see Warnings and Precautions (5.3)]
-- •Acute Kidney Injury and Impairment in Renal Function [see Warnings and Precautions (5.4)]
-- •Urosepsis and Pyelonephritis [see Warnings and Precautions (5.5)]
+- •Ketoacidosis
+- •Acute Kidney Injury and Impairment in Renal Function
+- •Urosepsis and Pyelonephritis
+- •Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene)
 - •Rash
 
 Metformin hydrochloride

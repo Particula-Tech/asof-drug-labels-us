@@ -19,14 +19,14 @@ For each of the known and possible risk factors for metformin-associated lactic 
 
 Renal Impairment: The postmarketing metformin-associated lactic acidosis cases primarily occurred in patients with significant renal impairment.
 The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney.
-Clinical recommendations based upon the patient’s renal function include [see Dosage and Administration (2.2), and Clinical Pharmacology (12.3)]:
+Clinical recommendations based upon the patient’s renal function include [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)]:
 
 - •Before initiating XIGDUO XR, obtain an estimated glomerular filtration rate (eGFR).
-- •XIGDUO XR is contraindicated in patients with an eGFR less than 60 mL/minute/1.73 m2 [see Contraindications (4)].
+- •XIGDUO XR is contraindicated in patients with an eGFR less than 60 mL/minute/1.73 m2[see Contraindications (4)].
 - •Obtain an eGFR at least annually in all patients taking XIGDUO XR.
   In patients at increased risk for the development of renal impairment (e.g., the elderly), renal function should be assessed more frequently.
 
-Drug Interactions: The concomitant use of XIGDUO XR with specific drugs may increase the risk of metformin-associated lactic acidosis: those that impair renal function, result in significant hemodynamic change, interfere with acid-base balance or increase metformin accumulation (e.g. cationic drugs) [see Drug Interactions (7)].
+Drug Interactions: The concomitant use of XIGDUO XR with specific drugs may increase the risk of metformin-associated lactic acidosis: those that impair renal function, result in significant hemodynamic change, interfere with acid-base balance or increase metformin accumulation (e.g., cationic drugs) [see Drug Interactions (7)].
 Therefore, consider more frequent monitoring of patients.
 
 Age 65 or Greater: The risk of metformin-associated lactic acidosis increases with the patient’s age because elderly patients have a greater likelihood of having hepatic, renal, or cardiac impairment than younger patients.
@@ -88,7 +88,7 @@ Dapagliflozin increases serum creatinine and decreases eGFR.
 Elderly patients and patients with impaired renal function may be more susceptible to these changes.
 Adverse reactions related to renal function can occur after initiating XIGDUO XR [see Adverse Reactions (6.1)].
 Renal function should be evaluated prior to initiation of XIGDUO XR and monitored periodically thereafter.
-XIGDUO XR is contraindicated in patients with an eGFR below 60 mL/min/1.73 m2 [see Dosage and Administration (2.2), Contraindications (4), Warnings and Precautions (5.1) and Use in Specific Populations (8.6)].
+XIGDUO XR is contraindicated in patients with an eGFR below 60 mL/min/1.73 m2[see Dosage and Administration (2.2), Contraindications (4), Warnings and Precautions (5.1) and Use in Specific Populations (8.6)].
 
 ## 5.5 Urosepsis and Pyelonephritis
 
@@ -110,7 +110,17 @@ Hypoglycemia does not occur in patients receiving metformin alone under usual ci
 Elderly, debilitated, or malnourished patients, and those with adrenal or pituitary insufficiency or alcohol intoxication are particularly susceptible to hypoglycemic effects.
 Hypoglycemia may be difficult to recognize in the elderly and in people who are taking beta-adrenergic blocking drugs.
 
-## 5.7 Vitamin B12 Concentrations
+## 5.7 Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene)
+
+Reports of necrotizing fasciitis of the perineum (Fournier’s gangrene), a rare but serious and life-threatening necrotizing infection requiring urgent surgical intervention, have been identified in postmarketing surveillance in patients with diabetes mellitus receiving SGLT2 inhibitors, including dapagliflozin.
+Cases have been reported in females and males.
+Serious outcomes have included hospitalization, multiple surgeries, and death.
+
+Patients treated with XIGDUO XR presenting with pain or tenderness, erythema, or swelling in the genital or perineal area, along with fever or malaise, should be assessed for necrotizing fasciitis.
+If suspected, start treatment immediately with broad-spectrum antibiotics and, if necessary, surgical debridement.
+Discontinue XIGDUO XR, closely monitor blood glucose levels, and provide appropriate alternative therapy for glycemic control.
+
+## 5.8 Vitamin B12 Concentrations
 
 In controlled clinical trials of metformin of 29-week duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of patients.
 This decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex is, however, very rarely associated with anemia and appears to be rapidly reversible with discontinuation of metformin or vitamin B12 supplementation.
@@ -119,18 +129,18 @@ Measurement of hematologic parameters on an annual basis is advised in patients 
 Certain individuals (those with inadequate vitamin B12 or calcium intake or absorption) appear to be predisposed to developing subnormal vitamin B12 levels.
 In these patients, routine serum vitamin B12 measurements at 2- to 3-year intervals may be useful.
 
-## 5.8 Genital Mycotic Infections
+## 5.9 Genital Mycotic Infections
 
 Dapagliflozin increases the risk of genital mycotic infections.
 Patients with a history of genital mycotic infections were more likely to develop genital mycotic infections [see Adverse Reactions (6.1)].
 Monitor and treat appropriately.
 
-## 5.9 Increases in Low-Density Lipoprotein Cholesterol (LDL-C)
+## 5.10 Increases in Low-Density Lipoprotein Cholesterol (LDL-C)
 
 Increases in LDL-C occur with dapagliflozin [see Adverse Reactions (6.1)].
 Monitor LDL-C and treat per standard of care after initiating XIGDUO XR.
 
-## 5.10 Bladder Cancer
+## 5.11 Bladder Cancer
 
 Across 22 clinical studies, newly diagnosed cases of bladder cancer were reported in 10/6045 patients (0.17%) treated with dapagliflozin and 1/3512 patient (0.03%) treated with placebo/comparator.
 After excluding patients in whom exposure to study drug was less than one year at the time of diagnosis of bladder cancer, there were 4 cases with dapagliflozin and no cases with placebo/comparator.
@@ -141,6 +151,6 @@ There are insufficient data to determine whether dapagliflozin has an effect on 
 Consequently, XIGDUO XR should not be used in patients with active bladder cancer.
 In patients with prior history of bladder cancer, the benefits of glycemic control versus unknown risks for cancer recurrence with XIGDUO XR should be considered.
 
-## 5.11 Macrovascular Outcomes
+## 5.12 Macrovascular Outcomes
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with XIGDUO XR.

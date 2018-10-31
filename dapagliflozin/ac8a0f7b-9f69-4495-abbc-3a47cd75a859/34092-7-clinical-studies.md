@@ -22,8 +22,9 @@ Dapagliflozin 10 mg as monotherapy also provided statistically significant impro
 
 Table 11: Results at Week 24 (LCOFLOCF: last observation (prior to rescue for rescued patients) carried forward.) in an Active-Controlled Study of Dapagliflozin Initial Combination Therapy with Metformin XR
 
-| Efficacy Parameter | Dapagliflozin 10 mg + Metformin XR N=211All randomized patients who took at least one dose of double-blind study medication during the short-term double-blind period. | Dapagliflozin 10 mg N=219 | Metformin XR N=208 |
+| Efficacy Parameter | Dapagliflozin 10 mg + Metformin XR | Dapagliflozin 10 mg | Metformin XR |
 | --- | --- | --- | --- |
+|  | N=211All randomized patients who took at least one dose of double-blind study medication during the short-term double-blind period. | N=219 | N=208 |
 | HbA1c (%) |  |  |  |
 | Baseline (mean) | 9.1 | 9.0 | 9.0 |
 | Change from baseline (adjusted meanLeast squares mean adjusted for baseline value.) | −2.0 | −1.5 | −1.4 |
@@ -49,13 +50,14 @@ The combination treatment of dapagliflozin 5 mg plus metformin XR provided stati
 
 Table 12: Results at Week 24 (LOCFLOCF: last observation (prior to rescue for rescued patients) carried forward.) in an Active-Controlled Study of Dapagliflozin Initial Combination Therapy with Metformin XR
 
-| Efficacy Parameter | Dapagliflozin 5 mg + Metformin XR N=194All randomized patients who took at least one dose of double-blind study medication during the short-term double-blind period. | Dapagliflozin 5 mg N=203 | Metformin XR N=201 |
+| Efficacy Parameter | Dapagliflozin 5 mg + Metformin XR | Dapagliflozin 5 mg | Metformin XR |
 | --- | --- | --- | --- |
+|  | N=194All randomized patients who took at least one dose of double-blind study medication during the short-term double-blind period. | N=203 | N=201 |
 | HbA1c (%) |  |  |  |
 | Baseline (mean) | 9.2 | 9.1 | 9.1 |
 | Change from baseline (adjusted meanLeast squares mean adjusted for baseline value.) | −2.1 | −1.2 | −1.4 |
 | Difference from dapagliflozin (adjusted mean) (95% CI) | −0.9p-value <0.0001. (−1.1, −0.6) |  |  |
-| Difference from metformin XR (adjusted mean) (95% CI) | −0.7§ (−0.9, −0.5) |  |  |
+| Difference from metformin XR (adjusted mean) (95% CI) | −0.7 (−0.9, −0.5) |  |  |
 | Percent of patients achieving HbA1c <7% adjusted for baseline | 52.4%p-value <0.05. | 22.5% | 34.6% |
 | FPG (mg/dL) |  |  |  |
 | Baseline (mean) | 193.4 | 190.8 | 196.7 |
@@ -74,7 +76,7 @@ Patients on metformin at a dose of at least 1500 mg/day were randomized after co
 Following the lead-in period, eligible patients were randomized to dapagliflozin 5 mg, dapagliflozin 10 mg, or placebo in addition to their current dose of metformin.
 
 As add-on treatment to metformin, dapagliflozin 10 mg provided statistically significant improvements in HbA1c and FPG, and statistically significant reduction in body weight compared with placebo at Week 24 (see Table 13 and Figure 3).
-Statistically significant (p<0.05 for both doses) mean changes frombaseline in systolic blood pressure relative to placebo plus metformin were −4.5 mmHg and −5.3 mmHg with dapagliflozin 5 mg and 10 mg plus metformin, respectively.
+Statistically significant (p<0.05 for both doses) mean changes from baseline in systolic blood pressure relative to placebo plus metformin were −4.5 mmHg and −5.3 mmHg with dapagliflozin 5 mg and 10 mg plus metformin, respectively.
 
 Table 13: Results of a 24-Week (LOCFLOCF: last observation (prior to rescue for rescued patients) carried forward.)
 Placebo-Controlled Study of Dapagliflozin in Add-On Combination with Metformin
@@ -89,7 +91,7 @@ Placebo-Controlled Study of Dapagliflozin in Add-On Combination with Metformin
 | FPG (mg/dL) |  |  |  |
 | Baseline (mean) | 156.0 | 169.2 | 165.6 |
 | Change from baseline at Week 24 (adjusted mean) | −23.5 | −21.5 | −6.0 |
-| Difference from placebo(adjusted mean) (95% CI) | −17.5 (−25.0, −10.0) | −15.5 (−22.9, −8.1) |  |
+| Difference from placebo (adjusted mean) (95% CI) | −17.5 (−25.0, −10.0) | −15.5 (−22.9, −8.1) |  |
 | Change from baseline at Week 1 (adjusted mean) | −16.5 (N=115) | −12.0 (N=121) | 1.2 (N=126) |
 | Body Weight (kg) |  |  |  |
 | Baseline (mean) | 86.3 | 84.7 | 87.7 |
@@ -111,7 +113,7 @@ Statistically significant (p<0.0001) mean change from baseline in systolic blood
 
 Table 14: Results at Week 52 (LOCFLOCF: last observation carried forward.) in an Active-Controlled Study Comparing Dapagliflozin to Glipizide as Add-On to Metformin
 
-| Efficacy Parameter | Dapagliflozin + Metformin N=400Randomized and treated patients with baseline and at least 1 postbaseline efficacy measurement. | Glipizide + Metformin N=401 |
+| Efficacy Parameter | Dapagliflozin+MetforminN=400Randomized and treated patients with baseline and at least 1 postbaseline efficacy measurement. | Glipizide+MetforminN=401 |
 | --- | --- | --- |
 | HbA1c (%) |  |  |
 | Baseline (mean) | 7.7 | 7.7 |
@@ -120,4 +122,4 @@ Table 14: Results at Week 52 (LOCFLOCF: last observation carried forward.) in an
 | Body Weight (kg) |  |  |
 | Baseline (mean) | 88.4 | 87.6 |
 | Change from baseline (adjusted mean) | −3.2 | 1.4 |
-| Difference from glipizide + metformin (adjusted mean) (95% CI) | −4.7p-value <0.0001. (−5.1, −4.2) |  |
+| Difference from glipizide + metformin (adjusted mean) (95% CI) | −4.7p-value <0.0001 (−5.1, −4.2) |  |
