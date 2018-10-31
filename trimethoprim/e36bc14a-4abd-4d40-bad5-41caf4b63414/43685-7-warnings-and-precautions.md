@@ -42,7 +42,7 @@ No adverse effects on fertility or general reproductive performance were observe
 Trimethoprim has been shown to be teratogenic in the rat when given in doses 40 times the human dose.
 In some rabbit studies, the overall increase in fetal loss (dead and resorbed and malformed conceptuses) was associated with doses 6 times the human therapeutic dose.
 
-While there are no large well-controlled studies on the use of trimethoprim in pregnant women, Brumfitt and Pursell,4 in a retrospective study, reported the outcome of 186 pregnancies during which the mother received either placebo or trimethoprim in combination with sulfamethoxazole.
+While there are no large well-controlled studies on the use of trimethoprim in pregnant women, Brumfitt and Pursell, 4 in a retrospective study, reported the outcome of 186 pregnancies during which the mother received either placebo or trimethoprim in combination with sulfamethoxazole.
 The incidence of congenital abnormalities was 4.5% (3 of 66) in those who received placebo and 3.3% (4 of 120) in those receiving trimethoprim plus sulfamethoxazole.
 There were no abnormalities in the 10 children whose mothers received the drug during the first trimester.
 In a separate survey, Brumfitt and Pursell also found no congenital abnormalities in 35 children whose mothers had received trimethoprim plus sulfamethoxazole at the time of conception or shortly thereafter.

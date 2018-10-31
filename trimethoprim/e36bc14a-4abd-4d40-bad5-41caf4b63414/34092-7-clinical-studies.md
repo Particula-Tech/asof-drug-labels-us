@@ -3,7 +3,7 @@
 The results of one multicenter, 30-day, comparative, randomized clinical trial without tympanocentesis in 262 pediatric patients with acute otitis media (AOM) are shown below.
 In this clinical trial, strict evaluability criteria were used to determine clinical response.
 
-|  | TRIMPEX | SMX + TMPsulfamethoxazole + trimethoprim oral suspension |
+|  | TRIMPEX | SMX + TMP sulfamethoxazole + trimethoprim oral suspension |
 | --- | --- | --- |
 | Enrolled | 133 | 129 |
 | Evaluable | 130 | 129 |

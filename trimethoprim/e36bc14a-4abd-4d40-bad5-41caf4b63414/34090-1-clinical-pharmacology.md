@@ -28,7 +28,7 @@ Since normal vaginal and fecal flora are the source of most pathogens causing ur
 
 Concentrations of trimethoprim in vaginal secretions are consistently greater than those found simultaneously in the serum, being typically 1.6 times the concentrations of simultaneously obtained serum samples.
 Sufficient trimethoprim is excreted in the feces to markedly reduce or eliminate trimethoprim-susceptible organisms from the fecal flora.
-The dominant non-Enterobacteriaceae fecal organisms, Bacteroides spp. and Lactobacillus spp., are not susceptible to trimethoprim concentrations obtained with the recommended dosage.
+The dominant non- Enterobacteriaceae fecal organisms, Bacteroides spp. and Lactobacillus spp., are not susceptible to trimethoprim concentrations obtained with the recommended dosage.
 Trimethoprim also concentrates into middle ear fluid (MEF) very efficiently.
 In a study in children aged 1 to 12 years, administration of a single 4 mg/kg dose resulted in a mean peak MEF concentration of 2.0 mcg/mL.
 
@@ -45,7 +45,7 @@ Thus, trimethoprim selectively interferes with bacterial biosynthesis of nucleic
 ### Resistance
 
 Resistance to trimethorprim may be conferred by a variety of mechanisms including cell wall impermeability, overproduction of the chromosomal dihydrofolate reductase (DHFR) enzyme, production of a resistant chromosomal DHFR enzyme or production of a plasmid-mediated thrimethoprim-resistant DHFR enzyme, Acinetobacter baumannii/Acinetobacter calcoaceticus complex, Burkholderia cepacia complex, Pseudomonas aeruginosa, Stenotrophomonas maltophilia are intrinsically resistant to trimethoprim.
-Non-Enterobacteriaceae fecal organisms, Bacteroides spp. and Lactobacillus spp. are not susceptible to trimethoprim at the concetrations obtained with the recommended dosage.
+Non- Enterobacteriaceae fecal organisms, Bacteroides spp. and Lactobacillus spp. are not susceptible to trimethoprim at the concetrations obtained with the recommended dosage.
 Moraxella catarrhalis isolates were found consistently resistant to trimethoprim.
 Entercoccus spp.
 (E. faecalis, E. faecium, E. gallinarum/E. casseliflavus) may appear active in vitro to trimethoprim but are not effective clinically and should not be reported as susceptible.
