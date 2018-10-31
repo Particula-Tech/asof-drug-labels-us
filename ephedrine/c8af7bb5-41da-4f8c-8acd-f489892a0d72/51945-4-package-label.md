@@ -12,8 +12,8 @@ Must Be Diluted
 
 For Intravenous Use
 
-Rx Only
-
 10 x 1 mL Single Dose Vials
+
+Rx Only
 
 SANDOZ A Novartis Division
