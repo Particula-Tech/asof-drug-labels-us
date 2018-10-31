@@ -2,9 +2,9 @@ Manufactured by: Valeant Pharmaceuticals International, Inc. Steinbach, MB R5G 1
 
 Distributed by: Oceanside Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-9496102
+9496103
 
-20001680
+20001719
 
 Rev.
 06/2016
