@@ -201,7 +201,7 @@ This Medication Guide summarizes the most important information about Buprenorph
 If you would like more information, talk to your doctor or pharmacist.
 You can ask your doctor or pharmacist for information that is written for healthcare professionals.
 
-For more information call West-Ward Pharmaceuticals Corp. at 1-800-962-8364.
+For more information call Hikma Pharmaceuticals USA Inc. at 1-800-962-8364.
 
 What are the ingredients in Buprenorphine Sublingual Tablets?
 
@@ -211,12 +211,10 @@ Inactive Ingredients: citric acid anhydrous, corn starch, crospovidone, lactose 
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Distr. by: West-Ward
-
-Pharmaceuticals Corp.
+Distr. by: Hikma Pharmaceuticals USA Inc.
 
 Eatontown, NJ 07724
 
-10004964/06
+C50000231/01
 
-Revised January 2018
+Revised October 2018
