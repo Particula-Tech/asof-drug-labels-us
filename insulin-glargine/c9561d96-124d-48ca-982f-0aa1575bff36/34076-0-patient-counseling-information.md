@@ -66,7 +66,3 @@ Administration
 
 TOUJEO must only be used if the solution is clear and colorless with no particles visible.
 Patients must be advised that TOUJEO must NOT be diluted or mixed with any other insulin or solution.
-
-Pregnancy
-
-Advise patients to inform their health care professional if they are pregnant or are contemplating pregnancy.

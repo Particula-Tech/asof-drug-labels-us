@@ -35,7 +35,7 @@ Type 2 Diabetes
 - To minimize the risk of hypoglycemia when changing patients from a once-daily long-acting or intermediate-acting insulin product to TOUJEO, the starting dose of TOUJEO can be the same as the once-daily long-acting dose.
   For patients controlled on LANTUS (insulin glargine, 100 units/mL) expect that a higher daily dose of TOUJEO will be needed to maintain the same level of glycemic control [see Clinical Pharmacology (12.2) and Clinical Studies (14.1)].
 - To minimize the risk of hypoglycemia when changing patients from twice-daily NPH insulin to once-daily TOUJEO, the recommended starting TOUJEO dose is 80% of the total daily NPH dosage.
-- To minimize the risk of hyperglycemia when changing patients to TOUJEO, monitor glucose frequently in the first weeks of therapy titrate the dose of TOUJEO per instructions and the dose of other glucose-lowering therapies per standard of care [see Warning and Precautions (5.2) and Clinical Pharmacology (12.2)].
+- To minimize the risk of hyperglycemia when changing patients to TOUJEO, monitor glucose frequently in the first weeks of therapy titrate the dose of TOUJEO per instructions and the dose of other glucose-lowering therapies per standard of care [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.2)].
 
 ## 2.4 Important Administration Instructions
 

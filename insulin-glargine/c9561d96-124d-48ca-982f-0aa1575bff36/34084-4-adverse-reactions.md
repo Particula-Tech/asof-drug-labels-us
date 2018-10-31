@@ -3,7 +3,7 @@
 The following adverse reactions are discussed elsewhere:
 
 - Hypoglycemia [see Warnings and Precautions (5.3)]
-- Medication Errors [see Warnings and Precautions (5.4)]
+- Medication errors [see Warnings and Precautions (5.4)]
 - Hypersensitivity and allergic reactions [see Warnings and Precautions (5.5)]
 - Hypokalemia [see Warnings and Precautions (5.6)]
 

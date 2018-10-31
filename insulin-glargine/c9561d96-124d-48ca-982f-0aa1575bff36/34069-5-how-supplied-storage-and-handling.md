@@ -20,10 +20,11 @@ TOUJEO SoloStar or TOUJEO Max SoloStar disposable prefilled pens must never be s
 
 TOUJEO SoloStar or TOUJEO Max SoloStar disposable prefilled pen should not be stored in the freezer and should not be allowed to freeze.
 Discard TOUJEO disposable prefilled pen if it has been frozen.
+Protect TOUJEO SoloStar/TOUJEO Max SoloStar from direct heat and light.
 
 Storage conditions are summarized in the following table:
 
 |  | Not in-use (unopened) Refrigerated 36°F–46°F (2°C–8°C) | In-use (opened) To prevent degradation, always store the prefilled pens with the cap on during in-use period. Room temperature only (Do not refrigerate) below 86°F (30°C) |
 | --- | --- | --- |
-| 1.5 mL TOUJEO SoloStar disposable prefilled pen | Until expiration date | 42 days |
-| 3 mL TOUJEO Max SoloStar disposable prefilled pen | Until expiration date | 42 days |
+| 1.5 mL TOUJEO SoloStar disposable prefilled pen | Until expiration date | 56 days |
+| 3 mL TOUJEO Max SoloStar disposable prefilled pen | Until expiration date | 56 days |

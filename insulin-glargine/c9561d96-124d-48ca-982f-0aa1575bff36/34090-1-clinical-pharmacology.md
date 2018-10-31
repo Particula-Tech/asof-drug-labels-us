@@ -22,7 +22,7 @@ Glucose lowering at least 30% of the effect of a single 0.4 U/kg dose of LANTUS 
 Multiple Once-Daily Dose Pharmacodynamics
 
 The pharmacodynamics of TOUJEO after 8 days of daily injection was evaluated in 30 patients with type 1 diabetes.
-At steady state, the 24-hour glucose lowering effect (GIR-AUC0–24) of TOUJEO 0.4 U/kg was approximately 27% lower with a different distribution profile than that of an equivalent dose of LANTUS [see Dosage and Administration (2), Warning and Precautions (5.2), and Clinical Pharmacology (12.3)].
+At steady state, the 24-hour glucose lowering effect (GIR-AUC0–24) of TOUJEO 0.4 U/kg was approximately 27% lower with a different distribution profile than that of an equivalent dose of LANTUS [see Dosage and Administration (2), Warnings and Precautions (5.2), and Clinical Pharmacology (12.3)].
 The glucose lowering effect of a TOUJEO dose increased with each daily administration.
 
 The pharmacodynamic profile for TOUJEO given subcutaneously as multiple once-daily subcutaneous injections of 0.4 U/kg in a euglycemic clamp study in patients with type 1 diabetes is shown in Figure 1.

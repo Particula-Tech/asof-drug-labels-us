@@ -20,7 +20,7 @@ Important information
 
 - Do not use your pen if it is damaged or if you are not sure that it is working properly.
 - Always perform a safety test (see Step 3).
-- Always carry a spare pen and spare needles in case they got lost or stop working.
+- Always carry a spare pen and spare needles in case they are lost or stop working.
 
 Learn to inject
 
@@ -36,7 +36,7 @@ Extra items you will need:
 
 - a new sterile needle (not included with the pen) (see Step 2).
 - an alcohol swab.
-- a puncture-resistant container for used needles and pens (see Throwing your pen away).
+- a puncture-resistant container for used needles and pens (see "Throwing your pen away").
 
 Places to inject
 
@@ -54,7 +54,7 @@ Cold insulin is more painful to inject.
 
 - 1ACheck the name and expiration date on the label of your pen.
   - Make sure you have the correct insulin.
-  - Do not use your pen after the expiration date.
+  - Do not use your pen after the expiration date printed on the label.
 - 1BPull off the pen cap.
 - 1CCheck that the insulin is clear.
   - Do not use the pen if the insulin looks cloudy, colored or contains particles.
@@ -105,7 +105,7 @@ If no insulin appears:
 - If no insulin comes out after the third time, the needle may be blocked.
   If this happens:
   - –change the needle (see Step 6 and Step 2),
-  - –then repeat the safety test (Step 3).
+  - –then repeat the safety test (see Step 3).
 - Do not use your pen if there is still no insulin coming out of the needle tip.
   Use a new pen.
 - Do not use a syringe to remove insulin from your pen.
@@ -121,7 +121,7 @@ Step 4: Select the dose
   This may damage your pen.
 - TOUJEO SoloStar is made to deliver the number of insulin units that your healthcare provider prescribed.
   You do not need to do any dose calculations.
-- The dose selector of your Toujeo SoloStar pen dials by 1 unit.
+- The dose selector of your TOUJEO SoloStar pen dials by 1 unit.
 
 - 4AMake sure a needle is attached and the dose is set to '0'.
 - 4BTurn the dose selector until the dose pointer lines up with your dose.
@@ -157,7 +157,7 @@ Step 5: Inject your dose
 If you find it hard to press the injection button in, do not force it as this may break your pen.
 See the section below for help.
 
-- 5AChoose a place to inject as shown in the picture labeled "Places to Inject".
+- 5AChoose a place to inject as shown in the picture labeled "Places to inject."
   - The site you choose for the injection should be clean and dry.
   - If your skin is dirty, clean it as instructed by your healthcare provider.
 - 5BPush the needle into your skin as shown by your healthcare provider.
@@ -195,7 +195,7 @@ Step 6: Remove the needle
 
 Use by
 
-- Only use your pen for up to 42 days after its first use.
+- Only use your pen for up to 56 days after its first use.
 
 How to store your pen
 
@@ -203,10 +203,12 @@ Before first use
 
 - Keep new pens in the refrigerator between 36°F and 46°F (2°C and 8°C).
 - Do not freeze.
+  Throw away your pen if it has been frozen (See "Throwing your pen away").
 
 After first use
 
 - Keep your pen at room temperature below 86°F (30°C).
+- Protect your pen from direct heat and light.
 - Do not put your pen back in the refrigerator.
 - Do not store your pen with the needle attached.
 - Store your pen with the pen cap on.
@@ -248,7 +250,7 @@ sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
 ©2018 sanofi-aventis U.S. LLC
 
-Revised: March 2018
+Revised: October 2018
 
 # Instructions for Use
 
@@ -284,13 +286,13 @@ Learn to inject
 
 Need help?
 
-If you have any questions about your pen or about diabetes, ask your healthcare provider, go to www.Toujeo.com or call sanofi-aventis on 1-800-633-1610.
+If you have any questions about your pen or about diabetes, ask your healthcare provider, go to www.Toujeo.com or call sanofi-aventis at 1-800-633-1610.
 
 Extra items you will need:
 
 - a new sterile needle (not included with the pen) (see Step 2).
 - an alcohol swab.
-- a puncture-resistant container for used needles and pens (see Throwing your pen away).
+- a puncture-resistant container for used needles and pens (see "Throwing your pen away").
 
 Places to inject
 
@@ -357,7 +359,7 @@ This could cause high blood sugar.
   - If no insulin comes out after the sixth time, the needle may be blocked.
     If this happens:
     - –change the needle (see Step 6 and Step 2),
-    - –then repeat the safety test (Step 3).
+    - –then repeat the safety test (see Step 3).
   - Do not use your pen if there is still no insulin coming out of the needle tip.
     Use a new pen.
   - Do not use a syringe to remove insulin from your pen.
@@ -373,7 +375,7 @@ Step 4: Select the dose
   This may damage your pen.
 - TOUJEO Max SoloStar is made to deliver the number of insulin units that your healthcare provider prescribed.
   You do not need to do any dose calculations.
-- The dose selector of your Toujeo Max SoloStar pen dials by 2 units and can only dial even doses of insulin.
+- The dose selector of your TOUJEO Max SoloStar pen dials by 2 units and can only dial even doses of insulin.
 
 - 4AMake sure a needle is attached and the dose is set to '0'.
 - 4BTurn the dose selector until the dose pointer lines up with your dose.
@@ -446,7 +448,7 @@ Step 6: Remove the needle
 
 Use by
 
-- Only use your pen for up to 42 days after its first use.
+- Only use your pen for up to 56 days after its first use.
 
 How to store your pen
 
@@ -454,10 +456,12 @@ Before first use
 
 - Keep new pens in the refrigerator between 36°F and 46°F (2°C and 8°C).
 - Do not freeze.
+  Throw away your pen if it has been frozen (See "Throwing your pen away").
 
 After first use
 
 - Keep your pen at room temperature below 86°F (30°C).
+- Protect your pen from direct heat and light.
 - Do not put your pen back in the refrigerator.
 - Do not store your pen with the needle attached.
 - Store your pen with the pen cap on.
@@ -499,4 +503,4 @@ sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
 ©2018 sanofi-aventis U.S. LLC
 
-Issued: March 2018
+Revised: October 2018
