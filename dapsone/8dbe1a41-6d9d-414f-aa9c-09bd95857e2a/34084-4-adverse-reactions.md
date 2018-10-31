@@ -4,19 +4,19 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Serious adverse reactions reported in patients treated with dapsone gel, 5%, during clinical trials included but were not limited to the following:
+Serious adverse reactions reported in subjects treated with dapsone gel, 5%, during clinical trials included but were not limited to the following:
 
 - Nervous system/Psychiatric – Suicide attempt, tonic clonic movements.
 - Gastrointestinal – Abdominal pain, severe vomiting, pancreatitis.
 - Other – Severe pharyngitis
 
-In the clinical trials, a total of 12 out of 4032 patients were reported to have depression (3 of 1660 treated with vehicle and 9 of 2372 treated with dapsone gel, 5%).
-Psychosis was reported in 2 of 2372 patients treated with dapsone gel, 5%, and in 0 of 1660 patients treated with vehicle.
+In the clinical trials, a total of 12 out of 4032 subjects were reported to have depression (3 of 1660 treated with vehicle and 9 of 2372 treated with dapsone gel, 5%).
+Psychosis was reported in 2 of 2372 subjects treated with dapsone gel, 5%, and in 0 of 1660 subjects treated with vehicle.
 
 Combined contact sensitization/irritation studies with dapsone gel, 5%, in 253 healthy subjects resulted in at least 3 subjects with moderate erythema.
 Dapsone gel, 5%, did not induce phototoxicity or photoallergy in human dermal safety studies.
 
-Dapsone gel, 5%, was evaluated for 12 weeks in four controlled studies for local cutaneous events in 1819 patients.
+Dapsone gel, 5%, was evaluated for 12 weeks in four controlled trials for local cutaneous events in 1819 subjects.
 The most common events reported from these studies include oiliness/peeling, dryness, and erythema.
 These data are shown by severity in Table 1 below.
 
@@ -29,9 +29,9 @@ Table 1 – Application Site Adverse Reactions by Maximum Severity
 | Dryness | 14% | 3% | <1% | 14% | 4% | <1% |
 | Oiliness/Peeling | 13% | 6% | <1% | 15% | 6% | <1% |
 
-The adverse reactions occurring in at least 1% of patients in either arm in the four vehicle controlled studies are presented in Table 2.
+The adverse reactions occurring in at least 1% of subjects in either arm in the four vehicle controlled trials are presented in Table 2.
 
-Table 2 – Adverse Reactions Occurring in at Least 1% of Patients
+Table 2 – Adverse Reactions Occurring in at Least 1% of Subjects
 
 |  | Dapsone N=1819 | Vehicle N=1660 |
 | --- | --- | --- |
@@ -49,12 +49,13 @@ Table 2 – Adverse Reactions Occurring in at Least 1% of Patients
 | Cough | 2% | 2% |
 | Joint Sprain | 1% | 1% |
 | Headache NOS | 4% | 4% |
-| NOS = Not otherwise specified |  |  |
 
-One patient treated with dapsone gel in the clinical trials had facial swelling which led to discontinuation of medication.
+NOS = Not otherwise specified
 
-In addition, 486 patients were evaluated in a 12 month safety study.
-The adverse event profile in this study was consistent with that observed in the vehicle-controlled studies.
+One subject treated with dapsone gel in the clinical trials had facial swelling which led to discontinuation of medication.
+
+In addition, 486 subjects were evaluated in a 12 month safety trial.
+The adverse event profile in this trial was consistent with that observed in the vehicle-controlled trials.
 
 ## 6.2 Experience with Oral Use of Dapsone
 
@@ -62,7 +63,8 @@ Although not observed in the clinical trials with dapsone gel (topical dapsone) 
 
 ## 6.3 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of dapsone gel, 5%.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Methemoglobinemia has been identified during postmarketing use of dapsone gel, 5% [see Warnings and Precautions (5.1)].
+The following adverse reactions have been identified during post-approval use of topical dapsone gel, 5%:
+
+methemoglobinemia, rash (including erythematous rash, application site rash) and swelling of face (including lip swelling, eye swelling).

@@ -15,9 +15,9 @@ Topical application of dapsone gel followed by benzoyl peroxide in subjects with
 
 ## 7.3 Drug Interactions with Oral Dapsone
 
-Certain concomitant medications (such as rifampin, anticonvulsants, St. John's wort) may increase the formation of dapsone hydroxylamine, a metabolite of dapsone associated with hemolysis.
+Certain concomitant medications (such as rifampin, anticonvulsants, St. John’s wort) may increase the formation of dapsone hydroxylamine, a metabolite of dapsone associated with hemolysis.
 With oral dapsone treatment, folic acid antagonists such as pyrimethamine have been noted to possibly increase the likelihood of hematologic reactions.
 
-## 7.4 Concomitant Use with Drugs that Induce Methemoglobinemia
+## 7.4Concomitant Use with Drugs that Induce Methemoglobinemia
 
 Concomitant use of dapsone gel with drugs that induce methemoglobinemia such as sulfonamides, acetaminophen, acetanilide, aniline dyes, benzocaine, chloroquine, dapsone, naphthalene, nitrates and nitrites, nitrofurantoin, nitroglycerin, nitroprusside, pamaquine, para‐aminosalicylic acid, phenacetin, phenobarbital, phenytoin, primaquine, and quinine may increase the risk for developing methemoglobinemia [see Warnings and Precautions (5.1)].

@@ -1,10 +1,10 @@
-# 12 CLINICAL PHARMACOLOGY
+# 12CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism of Action
+## 12.1Mechanism of Action
 
 The mechanism of action of dapsone gel in treating acne vulgaris is not known.
 
-## 12.3 Pharmacokinetics
+## 12.3Pharmacokinetics
 
 An open-label study compared the pharmacokinetics of dapsone after dapsone gel, 5%, (110 ± 60 mg/day) was applied twice daily (~BSA 22.5%) for 14 days (n=18) with a single 100 mg dose of oral dapsone administered to a subgroup of patients (n=10) in a crossover design.
 On Day 14 the mean dapsone AUC0-24h was 415 ± 224 ng•h/mL for dapsone gel, 5%, whereas following a single 100 mg dose of oral dapsone the AUC0-infinity was 52,641 ± 36,223 ng•h/mL.
@@ -15,7 +15,7 @@ Based on the measurable dapsone concentrations from 408 patients (M=192, F=216),
 Similarly, dapsone exposures were approximately the same between the age groups of 12-15 years (N=155) and those greater than or equal to 16 years (N=253).
 There was no evidence of increasing systemic exposure to dapsone over the study year in these patients.
 
-## 12.4 Microbiology
+## 12.4Microbiology
 
 In Vivo Activity: No microbiology or immunology studies were conducted during dapsone gel clinical trials.
 
