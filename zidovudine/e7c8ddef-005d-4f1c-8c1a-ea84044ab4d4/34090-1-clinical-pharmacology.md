@@ -78,13 +78,13 @@ Zidovudine Pharmacokinetic Parameters in Pediatric Subjectsa
 | Elimination half-life (h) | 3.1 ± 1.2 (n = 21) | 1.9 ± 0.7 (n = 18) | 1.5 ± 0.7 (n = 21) |
 | a Data presented as mean ± standard deviation except where noted. b Median [range]. |  |  |  |
 
-Pregnancy: Zidovudine pharmacokinetics have been studied in a Phase I trial of 8 women during the last trimester of pregnancy.
+Pregnant Women: Zidovudine pharmacokinetics have been studied in a Phase I trial of 8 women during the last trimester of pregnancy.
 Zidovudine pharmacokinetics were similar to those of nonpregnant adults.
 Consistent with passive transmission of the drug across the placenta, zidovudine concentrations in neonatal plasma at birth were essentially equal to those in maternal plasma at delivery [see Use in Specific Populations (8.1)].
 Although data are limited, methadone maintenance therapy in 5 pregnant women did not appear to alter zidovudine pharmacokinetics.
 Geriatric Patients: Zidovudine pharmacokinetics have not been studied in subjects over 65 years of age.
 Male and Female Patients: A pharmacokinetic trial in healthy male (n = 12) and female (n = 12) subjects showed no differences in zidovudine AUC when a single dose of zidovudine was administered as a 300 mg zidovudine tablet.
-Drug Interactions [See Drug Interactions (7).]
+Drug Interaction Studies [See Drug Interactions (7).]
 
 Table 10.
 Effect of Coadministered Drugs on Zidovudine AUCa

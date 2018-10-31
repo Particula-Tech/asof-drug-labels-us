@@ -43,6 +43,7 @@ Patients also should be encouraged to contact their physician if they experience
 Drug Interactions
 
 Advise patients that other medications may interact with zidovudine and certain medications, including ganciclovir, interferon alfa, and ribavirin, may exacerbate the toxicity of zidovudine [see Drug Interactions (7)].
+Dosage and Administration in Neonates Due to the small volume of zidovudine administered to neonates, advise caregivers to use an appropriate-sized syringe with 0.1 mL graduation to ensure accurate dosing of the syrup formulation [see Dosage and Administration (2.3)].
 
 Pregnancy
 
@@ -56,25 +57,11 @@ Lactation
 
 Instruct women with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in the breast milk [see Use in Specific Populations (8.2)].
 
-Missed Dose
-
-Instruct patients that if they miss a dose of zidovudine, to take it as soon as they remember.
+Missed Dose Instruct patients that if they miss a dose of zidovudine, to take it as soon as they remember.
 Advise patients not to double their next dose or take more than the prescribed dose [see Dosage and Administration (2)].
 
 EPIVIR is trademark owned by or licensed to the ViiV Healthcare group of companies.
 
-Distributed by:
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520
 
-Aurobindo Pharma USA, Inc.
-
-2400 Route 130 North
-
-Dayton, NJ 08810
-
-Manufactured by:
-
-Aurobindo Pharma Limited
-
-Hyderabad-500 038, India
-
-Revised: 12/2017
+Manufactured by: Aurobindo Pharma Limited Hyderabad–500 038, India Revised: 10/2018
