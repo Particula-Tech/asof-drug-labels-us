@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA207169"
+  ],
+  "inn": "midodrine",
+  "labeler": "Par Pharmaceutical, Inc.",
+  "package_ndcs": [
+    "49884-814-01",
+    "49884-814-05",
+    "49884-849-01",
+    "49884-849-05",
+    "49884-874-01",
+    "49884-874-05"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "midodrine hydrochloride",
+      "name": "Midodrine Hydrochloride"
+    }
+  ],
+  "setid": "863f12bd-d4a9-4547-8667-5dfa9e2ce6d1",
+  "source": "dailymed"
+}
