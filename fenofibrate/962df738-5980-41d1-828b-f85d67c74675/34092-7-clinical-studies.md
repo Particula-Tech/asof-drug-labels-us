@@ -7,13 +7,13 @@ Fenofibrate therapy lowered LDL-C, Total-C, and the LDL-C/HDL-C ratio.
 Fenofibrate therapy also lowered triglycerides and raised HDL-C (see Table 4).
 
 Table 4.
-Mean Percent Change in Lipid Parameters at End of TreatmentDuration of study treatment was 3 to 6 months.
+Mean Percent Change in Lipid Parameters at End of Treatment Duration of study treatment was 3 to 6 months.
 
 | Treatment Group | Total-C | LDL-C | HDL-C | TG |
 | --- | --- | --- | --- | --- |
 | Pooled Cohort |  |  |  |  |
 | Mean baseline lipid values (n=646) | 306.9 mg/dL | 213.8 mg/dL | 52.3 mg/dL | 191.0 mg/dL |
-| All FEN (n=361) | -18.7%p=<0.05 vs. placebo | -20.6% | +11.0% | -28.9% |
+| All FEN (n=361) | -18.7% p=<0.05 vs. placebo | -20.6% | +11.0% | -28.9% |
 | Placebo (n=285) | -0.4% | -2.2% | +0.7% | +7.7% |
 | Baseline LDL-C >160 mg/dL and TG <150 mg/dL |  |  |  |  |
 | Mean baseline lipid values (n=334) | 307.7 mg/dL | 227.7 mg/dL | 58.1 mg/dL | 101.7 mg/dL |
@@ -37,10 +37,10 @@ Treatment of patients with elevated triglycerides often results in an increase o
 Table 5.
 Effects of Fenofibrate in Patients With Severe Hypertriglyceridemia
 
-| Study 1 | Placebo |  |  |  | FenofibrateDosage comparable to 160 mg Triglide |  |  |  |
+| Study 1 | Placebo |  |  |  | Fenofibrate Dosage comparable to 160 mg Triglide |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Baseline TG levels 350 to 499 mg/dL | N | Baseline (Mean) | Endpoint (Mean) | % Change (Mean) | N | Baseline (Mean) | Endpoint (Mean) | % Change (Mean) |
-| Triglycerides | 28 | 449 | 450 | -0.5 | 27 | 432 | 223 | -46.2=p<0.05 vs. placebo |
+| Triglycerides | 28 | 449 | 450 | -0.5 | 27 | 432 | 223 | -46.2 =p<0.05 vs. placebo |
 | VLDL Triglycerides | 19 | 367 | 350 | 2.7 | 19 | 350 | 178 | -44.1 |
 | Total Cholesterol | 28 | 255 | 261 | 2.8 | 27 | 252 | 227 | -9.1 |
 | HDL Cholesterol | 28 | 35 | 36 | 4 | 27 | 34 | 40 | 19.6 |

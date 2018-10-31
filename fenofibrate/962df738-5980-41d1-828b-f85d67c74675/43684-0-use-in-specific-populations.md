@@ -8,15 +8,15 @@ Safety in pregnant women has not been established.
 There are no adequate and well controlled studies of fenofibrate in pregnant women.
 Fenofibrate should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-In female rats given oral dietary doses of 15, 75, and 300 mg/kg/day of fenofibrate from 15 days prior to mating through weaning, maternal toxicity was observed at 0.3 times the maximum recommended human dose (MRHD), based on body surface area comparisons; mg/m2.
+In female rats given oral dietary doses of 15, 75, and 300 mg/kg/day of fenofibrate from 15 days prior to mating through weaning, maternal toxicity was observed at 0.3 times the maximum recommended human dose (MRHD), based on body surface area comparisons; mg/m 2.
 
-In pregnant rats given oral dietary doses of 14, 127, and 361 mg/kg/day from gestation day 6-15 during the period of organogenesis, adverse developmental findings were not observed at 14 mg/kg/day (less than 1 times the MRHD, based on body surface area comparisons; mg/m2).
+In pregnant rats given oral dietary doses of 14, 127, and 361 mg/kg/day from gestation day 6-15 during the period of organogenesis, adverse developmental findings were not observed at 14 mg/kg/day (less than 1 times the MRHD, based on body surface area comparisons; mg/m 2).
 At higher multiples of human doses evidence of maternal toxicity was observed.
 
-In pregnant rabbits given oral gavage doses of 15, 150, and 300 mg/kg/day from gestation day 6-18 during the period of organogenesis and allowed to deliver, aborted litters were observed at 150 mg/kg/day (10 times the MRHD, based on body surface area comparisons; mg/m2).
-No developmental findings were observed at 15 mg/kg/day (at less than 1 times the MRHD, based on body surface area comparisons; mg/m2).
+In pregnant rabbits given oral gavage doses of 15, 150, and 300 mg/kg/day from gestation day 6-18 during the period of organogenesis and allowed to deliver, aborted litters were observed at 150 mg/kg/day (10 times the MRHD, based on body surface area comparisons; mg/m 2).
+No developmental findings were observed at 15 mg/kg/day (at less than 1 times the MRHD, based on body surface area comparisons; mg/m 2).
 
-In pregnant rats given oral dietary doses of 15, 75, and 300 mg/kg/day from gestation day 15 through lactation day 21 (weaning), maternal toxicity was observed at less than 1 times the MRHD, based on body surface area comparisons; mg/m2.
+In pregnant rats given oral dietary doses of 15, 75, and 300 mg/kg/day from gestation day 15 through lactation day 21 (weaning), maternal toxicity was observed at less than 1 times the MRHD, based on body surface area comparisons; mg/m 2.
 
 ## 8.3 Nursing Mothers
 

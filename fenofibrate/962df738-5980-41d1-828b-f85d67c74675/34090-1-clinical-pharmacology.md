@@ -60,8 +60,8 @@ Gender: No pharmacokinetic difference between males and females has been observe
 Race: The influence of race on the pharmacokinetics of fenofibrate has not been studied; however, fenofibrate is not metabolized by enzymes known for exhibiting inter-ethnic variability.
 
 Renal Impairment: The pharmacokinetics of fenofibric acid was examined in patients with mild, moderate, and severe renal impairment.
-Patients with severe renal impairment (creatinine clearance [CrCl≤30 mL/min] <30 mL/min or estimated glomerular filtration rate [eGFR] <30 mL/min/1.73m2) showed 2.7-fold increase in exposure for fenofibric acid and increased accumulation of fenofibric acid during chronic dosing compared to that of healthy subjects.
-Patients with mild to moderate renal impairment (CrCl 30-80 mL/min or eGFR 30-59 mL/min/1.73m2) had similar exposure but an increase in the half-life for fenofibric acid compared to that of healthy subjects.
+Patients with severe renal impairment (creatinine clearance [CrCl≤30 mL/min] <30 mL/min or estimated glomerular filtration rate [eGFR] <30 mL/min/1.73m 2) showed 2.7-fold increase in exposure for fenofibric acid and increased accumulation of fenofibric acid during chronic dosing compared to that of healthy subjects.
+Patients with mild to moderate renal impairment (CrCl 30-80 mL/min or eGFR 30-59 mL/min/1.73m 2) had similar exposure but an increase in the half-life for fenofibric acid compared to that of healthy subjects.
 Based on these findings, avoid use of Triglide in patients with mild or moderate renal impairment.
 Triglide is contraindicated for patients with severe renal impairment, including end-stage renal disease (ESRD) or those receiving dialysis [see Contraindications (4) and Use in Special Populations (8.6)].
 
@@ -77,12 +77,12 @@ Table 3 describes the effects of fenofibrate on co-administered drugs.
 Table 2.
 Effects of Co-Administered Drugs on Fenofibric Acid Systemic Exposure from Fenofibrate Administration
 
-| AUC | Cmax |  |  |  |
+| AUC | C max |  |  |  |
 | --- | --- | --- | --- | --- |
 | Co-Administered Drug | Dosage Regimen of Co-Administered Drug | Dosage Regimen of Fenofibrate | Changes in Fenofibric Acid Exposure |  |
 | Lipid-lowering agents |  |  |  |  |
-| Atorvastatin | 20 mg once daily for 10 days | Fenofibrate 160 mgTriCor (fenofibrate) oral tabletonce daily for 10 days | ↓2% | ↓4% |
-| Pravastatin | 40 mg as a single dose | Fenofibrate 3 × 67 mgTriCor (fenofibrate) oral micronized capsule as a single dose | ↓1% | ↓2% |
+| Atorvastatin | 20 mg once daily for 10 days | Fenofibrate 160 mg TriCor (fenofibrate) oral tabletonce daily for 10 days | ↓2% | ↓4% |
+| Pravastatin | 40 mg as a single dose | Fenofibrate 3 × 67 mg TriCor (fenofibrate) oral micronized capsule as a single dose | ↓1% | ↓2% |
 | Fluvastatin | 40 mg as a single dose | Fenofibrate 160 mg as a single dose | ↓2% | ↓10% |
 | Anti-diabetic agents |  |  |  |  |
 | Glimepiride | 1 mg as a single dose | Fenofibrate 145 mg once daily for 10 days | ↑1% | ↓1% |
@@ -92,12 +92,12 @@ Effects of Co-Administered Drugs on Fenofibric Acid Systemic Exposure from Fenof
 Table 3.
 Effects of Fenofibrate on Systemic Exposure of Co-Administered Drugs
 
-| Analyte | AUC | Cmax |  |  |
+| Analyte | AUC | C max |  |  |
 | --- | --- | --- | --- | --- |
 | Dosage Regimen of Fenofibrate | Dosage Regimen of Co-Administered Drug | Change in Co-Administered Drug Exposure |  |  |
 | Lipid-lowering agents |  |  |  |  |
-| Fenofibrate 160 mgTriCor (fenofibrate) oral tablet once daily for 10 days | Atorvastatin, 20 mg once daily for 10 days | Atorvastatin | ↓17% | 0% |
-| Fenofibrate 3 × 67 mgTriCor (fenofibrate) oral micronized capsule as a single dose | Pravastatin, 40 mg as a single dose | Pravastatin | ↑13% | ↑13% |
+| Fenofibrate 160 mg TriCor (fenofibrate) oral tablet once daily for 10 days | Atorvastatin, 20 mg once daily for 10 days | Atorvastatin | ↓17% | 0% |
+| Fenofibrate 3 × 67 mg TriCor (fenofibrate) oral micronized capsule as a single dose | Pravastatin, 40 mg as a single dose | Pravastatin | ↑13% | ↑13% |
 |  |  | 3α-Hydroxyl-iso-pravastatin | ↑26% | ↑29% |
 | Fenofibrate 160 mg as a single dose | Fluvastatin, 40 mg as a single dose | (+)-3R, 5S-Fluvastatin | ↑15% | ↑16% |
 | Anti-diabetic agents |  |  |  |  |
