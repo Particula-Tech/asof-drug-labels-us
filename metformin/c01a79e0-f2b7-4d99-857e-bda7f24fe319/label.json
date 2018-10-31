@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA078596"
+  ],
+  "inn": "metformin",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "65162-178-03",
+    "65162-178-09",
+    "65162-178-10",
+    "65162-178-11",
+    "65162-178-50",
+    "65162-179-03",
+    "65162-179-09",
+    "65162-179-10",
+    "65162-179-50"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "metformin hydrochloride",
+      "name": "Metformin Hydrochloride"
+    }
+  ],
+  "setid": "c01a79e0-f2b7-4d99-857e-bda7f24fe319",
+  "source": "dailymed"
+}
