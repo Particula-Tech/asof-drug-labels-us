@@ -29,11 +29,11 @@ Inform patients of the following serious adverse reactions that have been associ
   If this occurs, instruct patients to contact their physician as soon as possible.
 - Prolongation of the QT Interval: Instruct patients to inform their physician of any personal or family history of QT prolongation or proarrhythmic conditions such as hypokalemia, bradycardia, or recent myocardial ischemia; if they are taking any Class IA (quinidine, procainamide), or Class III (amiodarone, sotalol) antiarrhythmic agents.
   Instruct patients to notify their physician if they have any symptoms of prolongation of the QT interval, including prolonged heart palpitations or a loss of consciousness.
+- Blood Glucose Disturbances: Inform the patients that if they are diabetic and are being treated with insulin or an oral hypoglycemic agent and a hypoglycemic reaction occurs, they should discontinue moxifloxacin hydrochloride and consult a physician.
 - Photosensitivity/Phototoxicity: Inform patients that photosensitivity/phototoxicity has been reported in patients receiving fluoroquinolones.
   Inform patients to minimize or avoid exposure to natural or artificial sunlight (tanning beds or UVA/B treatment) while taking quinolones.
   If patients need to be outdoors while using quinolones, instruct them to wear loose-fitting clothes that protect skin from sun exposure and discuss other sun protection measures with their physician.
   If a sunburn-like reaction or skin eruption occurs, instruct patients to contact their physician.
-- Blood Glucose Disturbances: Inform the patients that if they are diabetic and are being treated with insulin or an oral hypoglycemic agent and a hypoglycemic reaction occurs, they should discontinue moxifloxacin hydrochloride and consult a physician.
 
 Antibacterial Resistance
 
@@ -44,10 +44,10 @@ Skipping doses or not completing the full course of therapy may (1) decrease the
 
 Administration With Food, Fluids, and Drug Products Containing Multivalent Cations
 
-Inform patients that moxifloxacin hydrochloride tablets may be taken with or without food.
+Inform patients that moxifloxacin tablets may be taken with or without food.
 Advise patients drink fluids liberally.
 
-Inform patients that moxifloxacin hydrochloride tablets should be taken at least 4 hours before or 8 hours after multivitamins (containing iron or zinc), antacids (containing magnesium or aluminum), sucralfate, or didanosine buffered tablets for oral suspension or the pediatric powder for oral solution.
+Inform patients that moxifloxacin tablets should be taken at least 4 hours before or 8 hours after multivitamins (containing iron or zinc), antacids (containing magnesium or aluminum), sucralfate, or didanosine buffered tablets for oral suspension or the pediatric powder for oral solution.
 
 Plague Studies
 

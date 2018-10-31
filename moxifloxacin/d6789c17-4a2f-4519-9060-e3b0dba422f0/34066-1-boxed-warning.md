@@ -1,4 +1,4 @@
-# WARNING: SERIOUS ADVERSE REACTIONS INCLUDING TENDINITIS, TENDON RUPTURE, PERIPHERAL NEUROPATHY, CENTRAL NERVOUS SYSTEM EFFECTS AND EXACERBATION OF MYASTHENIA GRAVIS
+# WARNING: SERIOUS ADVERSE REACTIONS INCLUDING TENDINITIS, TENDON RUPTURE, PERIPHERAL NEUROPATHY, CENTRAL NERVOUS SYSTEM EFFECTS and EXACERBATION OF MYASTHENIA GRAVIS
 
 - Fluoroquinolones, including moxifloxacin hydrochloride, have been associated with disabling and potentially irreversible serious adverse reactions that have occurred together [see Warnings and Precautions (5.1)], including:
   - Tendinitis and tendon rupture [see Warnings and Precautions (5.2)]

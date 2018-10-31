@@ -35,10 +35,18 @@ Avoid fluoroquinolones, including moxifloxacin hydrochloride, in patients who ha
 
 ## 5.4 Central Nervous System Effects
 
-Fluoroquinolones, including moxifloxacin hydrochloride, have been associated with an increased risk of central nervous system (CNS) reactions, including: convulsions and increased intracranial pressure (including pseudotumor cerebri) and toxic psychosis, Fluoroquinolones may also cause CNS reactions of nervousness, agitation, insomnia, anxiety, nightmares, paranoia, dizziness, confusion, tremors, hallucinations, depression, and, suicidal thoughts or acts.
+Psychiatric Adverse Reactions
+
+Fluoroquinolones, including moxifloxacin hydrochloride, have been associated with an increased risk of psychiatric adverse reactions, including: toxic psychosis, hallucinations, or paranoia; depression or suicidal thoughts or acts; anxiety, agitation, or nervousness; confusion, delirium, disorientation, or disturbances in attention; insomnia or nightmares; memory impairment.
 These adverse reactions may occur following the first dose.
-If these reactions occur in patients receiving moxifloxacin hydrochloride, discontinue moxifloxacin hydrochloride immediately and institute appropriate measures.
-As with all fluoroquinolones, use moxifloxacin hydrochloride when the benefits of treatment exceed the risks in patients with known or suspected CNS disorders (for example, severe cerebral arteriosclerosis, epilepsy) or in the presence of other risk factors that may predispose to seizures or lower the seizure threshold [see Drug Interactions (7.4)].
+If these reactions occur in patients receiving moxifloxacin hydrochloride, discontinue moxifloxacin hydrochloride immediately and institute appropriate measures [see Adverse Reactions (6.1, 6.2)].
+
+Central Nervous System Adverse Reactions
+
+Fluoroquinolones, including moxifloxacin hydrochloride, have been associated with an increased risk of seizures (convulsions), increased intracranial pressure (including pseudotumor cerebri), dizziness, and tremors.
+As with all fluoroquinolones, use moxifloxacin hydrochloride with caution in patients with known or suspected CNS disorders (for example, severe cerebral arteriosclerosis, epilepsy) or in the presence of other risk factors that may predispose to seizures or lower the seizure threshold.
+These adverse reactions may occur following the first dose.
+If these reactions occur in patients receiving moxifloxacin hydrochloride, discontinue moxifloxacin hydrochloride immediately and institute appropriate measures [see Drug Interactions (7.4) Adverse Reactions (6.1, 6.2), and Patient Counseling Information (17)].
 
 ## 5.5 Exacerbation of Myasthenia Gravis
 
@@ -70,7 +78,7 @@ The magnitude of QT prolongation may increase with increasing concentrations of 
 Therefore the recommended dose or infusion rate should not be exceeded.
 
 In premarketing clinical trials, the rate of cardiovascular adverse reactions was similar in 798 moxifloxacin hydrochloride and 702 comparator treated patients who received concomitant therapy with drugs known to prolong the QTc interval.
-No excess in cardiovascular morbidity or mortality attributable to QTc prolongation occurred with moxifloxacin hydrochloride treatment in over 15,500 patients in controlled clinical studies, including 759 patients who were hypokalemic at the start of treatment, and there was no increase in mortality in over 18,000 moxifloxacin hydrochloride tablet treated patients in a postmarketing observational study in which ECGs were not performed.
+No excess in cardiovascular morbidity or mortality attributable to QTc prolongation occurred with moxifloxacin hydrochloride treatment in over 15,500 patients in controlled clinical studies, including 759 patients who were hypokalemic at the start of treatment, and there was no increase in mortality in over 18,000 moxifloxacin tablet treated patients in a postmarketing observational study in which ECGs were not performed.
 
 ## 5.7 Other Serious and Sometimes Fatal Adverse Reactions
 
@@ -116,8 +124,9 @@ Related quinolone-class drugs also produce erosions of cartilage of weight-beari
 
 As with all fluoroquinolones, disturbances in blood glucose, including both hypoglycemia and hyperglycemia have been reported with moxifloxacin hydrochloride.
 In moxifloxacin hydrochloride-treated patients, dysglycemia occurred predominantly in elderly diabetic patients receiving concomitant treatment with an oral hypoglycemic agent (for example, sulfonylurea) or with insulin.
+Severe cases of hypoglycemia resulting in coma or death have been reported.
 In diabetic patients, careful monitoring of blood glucose is recommended.
-If a hypoglycemic reaction occurs, moxifloxacin hydrochloride should be discontinued and appropriate therapy should be initiated immediately [see Drug Interactions (7.3)].
+If a hypoglycemic reaction occurs, discontinue moxifloxacin hydrochloride and initiate appropriate therapy immediately [see Adverse Reactions (6.1), Drug Interactions (7.3)] and Patient Counseling Information (17).
 
 ## 5.12 Photosensitivity/Phototoxicity
 

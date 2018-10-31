@@ -22,9 +22,9 @@ Conversion of Intravenous to Oral Dosing in Adults
 
 Intravenous formulation is indicated when it offers a route of administration advantageous to the patient (for example, patient cannot tolerate an oral dosage form).
 When switching from intravenous to oral formulation, no dosage adjustment is necessary.
-Patients whose therapy is started with moxifloxacin hydrochloride injection may be switched to moxifloxacin hydrochloride tablets when clinically indicated at the discretion of the physician.
+Patients whose therapy is started with moxifloxacin hydrochloride injection may be switched to moxifloxacin tablets when clinically indicated at the discretion of the physician.
 
 ## 2.2 Important Administration Instructions
 
-With Multivalent Cations Administer moxifloxacin hydrochloride tablets at least 4 hours before or 8 hours after products containing magnesium, aluminum, iron or zinc, including antacids, sucralfate, multivitamins and didanosine buffered tablets for oral suspension or the pediatric powder for oral solution [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
-With Food Moxifloxacin hydrochloride tablets can be taken with or without food, drink fluids liberally.
+With Multivalent Cations Administer moxifloxacin tablets at least 4 hours before or 8 hours after products containing magnesium, aluminum, iron or zinc, including antacids, sucralfate, multivitamins and didanosine buffered tablets for oral suspension or the pediatric powder for oral solution [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
+With Food Moxifloxacin tablets can be taken with or without food, drink fluids liberally.

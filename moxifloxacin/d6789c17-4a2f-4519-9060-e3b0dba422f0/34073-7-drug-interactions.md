@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Antacids, Sucralfate, Multivitamins and other Products Containing Multivalent Cations
+## 7.1 Antacids, Sucralfate, Multivitamins and Other Products Containing Multivalent Cations
 
 Fluoroquinolones, including moxifloxacin hydrochloride, form chelates with alkaline earth and transition metal cations.
 Oral administration of moxifloxacin hydrochloride with antacids containing aluminum or magnesium, with sucralfate, with metal cations such as iron, or with multivitamins containing iron or zinc, or with formulations containing divalent and trivalent cations such as didanosine buffered tablets for oral suspension or the pediatric powder for oral solution, may substantially interfere with the absorption of moxifloxacin hydrochloride, resulting in systemic concentrations considerably lower than desired.

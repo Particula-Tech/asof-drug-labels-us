@@ -27,7 +27,7 @@ When rib and vertebral malformations were combined, there was an increased fetal
 Signs of maternal toxicity in rabbits at this dose included mortality, abortions, marked reduction of food consumption, decreased water intake, body weight loss and hypoactivity.
 There was no evidence of teratogenicity when pregnant cynomolgus macaques were given oral doses as high as 100 mg/kg/day (2.5 times the maximum recommended human dose based upon systemic exposure) during organogenesis (gestation days 20 to 50).
 An increased incidence of smaller fetuses was observed at 100 mg/kg/day in macaques.
-In a pre-and postnatal development study conducted in rats given oral doses from Gestation day 6, throughout gestation and rearing to Postpartum day 21, effects observed at 500 mg/kg/day (0.24 times the maximum recommended human dose based on systemic exposure (AUC)) included slight increases in duration of pregnancy and prenatal loss, reduced pup birth weight and decreased neonatal survival.
+In a pre- and postnatal development study conducted in rats given oral doses from Gestation day 6, throughout gestation and rearing to Postpartum day 21, effects observed at 500 mg/kg/day (0.24 times the maximum recommended human dose based on systemic exposure (AUC)) included slight increases in duration of pregnancy and prenatal loss, reduced pup birth weight and decreased neonatal survival.
 Treatment-related maternal mortality occurred during gestation at 500 mg/kg/day in this study.
 
 ## 8.2 Lactation
@@ -56,7 +56,7 @@ Geriatric patients are at increased risk for developing severe tendon disorders 
 This risk is further increased in patients receiving concomitant corticosteroid therapy.
 Tendinitis or tendon rupture can involve the Achilles, hand, shoulder, or other tendon sites and can occur during or after completion of therapy; cases occurring up to several months after fluoroquinolone treatment have been reported.
 Caution should be used when prescribing moxifloxacin hydrochloride to elderly patients especially those on corticosteroids.
-Patients should be informed of this potential side effect and advised to discontinue moxifloxacin hydrochloride tablets and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur [see Boxed Warning, and Warnings and Precautions (5.2)].
+Patients should be informed of this potential side effect and advised to discontinue moxifloxacin tablets and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur [see Boxed Warning, and Warnings and Precautions (5.2)].
 
 In controlled multiple-dose clinical trials, 23% of patients receiving oral moxifloxacin hydrochloride were greater than or equal to 65 years of age and 9% were greater than or equal to 75 years of age.
 The clinical trial data demonstrate that there is no difference in the safety and efficacy of oral moxifloxacin hydrochloride in patients aged 65 or older compared to younger adults.

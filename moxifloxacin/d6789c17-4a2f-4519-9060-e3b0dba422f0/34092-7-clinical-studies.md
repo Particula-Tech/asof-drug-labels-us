@@ -2,7 +2,7 @@
 
 ## 14.1 Acute Bacterial Sinusitis
 
-In a controlled double-blind study conducted in the U.S., moxifloxacin hydrochloride tablets (400 mg once daily for ten days) were compared with cefuroxime axetil (250 mg twice daily for ten days) for the treatment of acute bacterial sinusitis.
+In a controlled double-blind study conducted in the U.S., moxifloxacin tablets (400 mg once daily for ten days) were compared with cefuroxime axetil (250 mg twice daily for ten days) for the treatment of acute bacterial sinusitis.
 The trial included 457 patients valid for the efficacy analysis.
 Clinical success (cure plus improvement) at the 7 to 21 day post-therapy test of cure visit was 90% for moxifloxacin hydrochloride and 89% for cefuroxime.
 An additional non-comparative study was conducted to gather bacteriological data and to evaluate microbiological eradication in adult patients treated with moxifloxacin 400 mg once daily for seven days.
@@ -11,11 +11,11 @@ Clinical success rates and eradication/presumed eradication rates at the 21 to 3
 
 ## 14.2 Acute Bacterial Exacerbation of Chronic Bronchitis
 
-Moxifloxacin hydrochloride tablets (400 mg once daily for five days) were evaluated for the treatment of acute bacterial exacerbation of chronic bronchitis in a randomized, double-blind, controlled clinical trial conducted in the U.S. This study compared moxifloxacin hydrochloride with clarithromycin (500 mg twice daily for 10 days) and enrolled 629 patients.
+Moxifloxacin tablets (400 mg once daily for five days) were evaluated for the treatment of acute bacterial exacerbation of chronic bronchitis in a randomized, double-blind, controlled clinical trial conducted in the U.S. This study compared moxifloxacin hydrochloride with clarithromycin (500 mg twice daily for 10 days) and enrolled 629 patients.
 Clinical success was assessed at 7 to 17 days post-therapy.
 The clinical success for moxifloxacin hydrochloride was 89% (222/250) compared to 89% (224/251) for clarithromycin.
 
-Table 12: Clinical Success Rates at Follow-Up Visit for Clinically Evaluable Patients by Pathogen (Acute Bacterial Exacerbation of Chronic Bronchitis)
+Table 10: Clinical Success Rates at Follow-Up Visit for Clinically Evaluable Patients by Pathogen (Acute Bacterial Exacerbation of Chronic Bronchitis)
 
 | Pathogen | Moxifloxacin Hydrochloride | Clarithromycin |
 | --- | --- | --- |
@@ -30,7 +30,7 @@ The microbiological eradication rates (eradication plus presumed eradication) in
 
 ## 14.3 Community Acquired Pneumonia
 
-A randomized, double-blind, controlled clinical trial was conducted in the U.S. to compare the efficacy of moxifloxacin hydrochloride tablets (400 mg once daily) to that of high-dose clarithromycin (500 mg twice daily) in the treatment of patients with clinically and radiologically documented community acquired pneumonia.
+A randomized, double-blind, controlled clinical trial was conducted in the U.S. to compare the efficacy of moxifloxacin tablets (400 mg once daily) to that of high-dose clarithromycin (500 mg twice daily) in the treatment of patients with clinically and radiologically documented community acquired pneumonia.
 This study enrolled 474 patients (382 of whom were valid for the efficacy analysis conducted at the 14 to 35 day follow-up visit).
 Clinical success for clinically evaluable patients was 95% (184/194) for moxifloxacin hydrochloride and 95% (178/188) for high dose clarithromycin.
 
@@ -38,14 +38,14 @@ A randomized, double-blind, controlled trial was conducted in the U.S. and Canad
 This study enrolled 516 patients, 362 of whom were valid for the efficacy analysis conducted at the 7 to 30 day post-therapy visit.
 The clinical success rate was 86% (157/182) for moxifloxacin hydrochloride therapy and 89% (161/180) for the fluoroquinolone comparators.
 
-An open-label ex-U.S. study that enrolled 628 patients compared moxifloxacin hydrochloride tablets to sequential intravenous/oral amoxicillin/clavulanate (1.2 gram intravenously every 8 hours/625 mg orally every 8 hours) with or without high-dose intravenous/oral clarithromycin (500 mg twice a day).
+An open-label ex-U.S. study that enrolled 628 patients compared moxifloxacin tablets to sequential intravenous/oral amoxicillin/clavulanate (1.2 gram intravenously every 8 hours/625 mg orally every 8 hours) with or without high-dose intravenous/oral clarithromycin (500 mg twice a day).
 The intravenous formulations of the comparators are not FDA approved.
-The clinical success rate at Day 5 to 7 for moxifloxacin hydrochloride therapy was 93% (241/258) and demonstrated superiority to amoxicillin/ clavulanate ± clarithromycin (85%, 239/280) [95% C.I. of difference in success rates between moxifloxacin and comparator (2.9%, 13.2%)].
+The clinical success rate at Day 5 to 7 for moxifloxacin hydrochloride therapy was 93% (241/258) and demonstrated superiority to amoxicillin/clavulanate ± clarithromycin (85%, 239/280) [95% C.I. of difference in success rates between moxifloxacin and comparator (2.9%, 13.2%)].
 The clinical success rate at the 21 to 28 days post-therapy visit for moxifloxacin hydrochloride was 84% (216/258), which also demonstrated superiority to the comparators (74%, 208/280) [95% C.I. of difference in success rates between moxifloxacin and comparator (2.6%, 16.3%)].
 
-The clinical success rates by pathogen across four CAP studies are presented in Table 13.
+The clinical success rates by pathogen across four CAP studies are presented in Table 11.
 
-Table 13: Clinical Success Rates By Pathogen (Pooled CAP Studies)
+Table 11: Clinical Success Rates By Pathogen (Pooled CAP Studies)
 
 | Pathogen | Moxifloxacin Hydrochloride |  |
 | --- | --- | --- |
@@ -61,11 +61,11 @@ Community Acquired Pneumonia caused by Multi-Drug Resistant Streptococcus pneumo
 
 Moxifloxacin hydrochloride was effective in the treatment of community acquired pneumonia (CAP) caused by multi-drug resistant Streptococcus pneumoniae MDRSP* isolates.
 Of 37 microbiologically evaluable patients with MDRSP isolates, 35 patients (95%) achieved clinical and bacteriological success post-therapy.
-The clinical and bacteriological success rates based on the number of patients treated are shown in Table 14.
+The clinical and bacteriological success rates based on the number of patients treated are shown in Table 12.
 
 * MDRSP, Multi-drug resistant Streptococcus pneumoniae includes isolates previously known as PRSP (Penicillin­-resistant S. pneumoniae), and are isolates resistant to two or more of the following antibiotics: penicillin (MIC ≥ 2 mcg/mL), 2nd generation cephalosporins (for example, cefuroxime), macrolides, tetracyclines, and trimethoprim/sulfamethoxazole.
 
-Table 14: Clinical and Bacteriological Success Rates for Moxifloxacin Hydrochloride-Treated MDRSP CAP Patients (Population: Valid for Efficacy)
+Table 12: Clinical and Bacteriological Success Rates for Moxifloxacin Hydrochloride-Treated MDRSP CAP Patients (Population: Valid for Efficacy)
 
 | Screening Susceptibility | Clinical Success |  | Bacteriological Success |  |
 | --- | --- | --- | --- | --- |
@@ -78,9 +78,9 @@ Table 14: Clinical and Bacteriological Success Rates for Moxifloxacin Hydrochlor
 | a) n = number of patients successfully treated; N = number of patients with MDRSP (from a total of 37 patients) b) n = number of patients successfully treated (presumed eradication or eradication); N = number of patients with MDRSP (from a total of 37 patients) c) One patient had a respiratory isolate that was resistant to penicillin and cefuroxime but a blood isolate that was intermediate to penicillin and cefuroxime. The patient is included in the database based on the respiratory isolate. d) Azithromycin, clarithromycin, and erythromycin were the macrolide antimicrobials tested. |  |  |  |  |
 
 Not all isolates were resistant to all antimicrobial classes tested.
-Success and eradication rates are summarized in Table 15.
+Success and eradication rates are summarized in Table 13.
 
-Table 15: Clinical Success Rates and Microbiological Eradication Rates for Resistant Streptococcus pneumoniae (Community Acquired Pneumonia)
+Table 13: Clinical Success Rates and Microbiological Eradication Rates for Resistant Streptococcus pneumoniae (Community Acquired Pneumonia)
 
 | S. pneumoniae with MDRSP | Clinical Success | Bacteriological Eradication Rate |
 | --- | --- | --- |
@@ -108,9 +108,9 @@ This study enrolled 804 patients, 632 of which were valid for the efficacy analy
 Surgical incision and drainage or debridement was performed on 55% of the moxifloxacin hydrochloride treated and 53% of the comparator treated patients in these studies and formed an integral part of therapy for this indication.
 Success rates varied with the type of diagnosis ranging from 61% in patients with infected ulcers to 90% in patients with complicated erysipelas.
 These rates were similar to those seen with comparator drugs.
-The overall success rates in the evaluable patients and the clinical success by pathogen are shown in Tables 16 and 17.
+The overall success rates in the evaluable patients and the clinical success by pathogen are shown in Tables 14 and 15.
 
-Table 16: Overall Clinical Success Rates in Patients with Complicated Skin and Skin Structure Infections
+Table 14: Overall Clinical Success Rates in Patients with Complicated Skin and Skin Structure Infections
 
 | Study | Moxifloxacin Hydrochloride n/N (%) | Comparator n/N (%) | 95% Confidence Intervala |
 | --- | --- | --- | --- |
@@ -118,7 +118,7 @@ Table 16: Overall Clinical Success Rates in Patients with Complicated Skin and S
 | International | 254/315 (80.6%) | 268/317 (84.5%) | (-9.4%, 2.2%) |
 | a) of difference in success rates between Moxifloxacin and comparator (Moxifloxacin – comparator) |  |  |  |
 
-Table 17: Clinical Success Rates by Pathogen in Patients with Complicated Skin and Skin Structure Infections
+Table 15: Clinical Success Rates by Pathogen in Patients with Complicated Skin and Skin Structure Infections
 
 | Pathogen | Moxifloxacin Hydrochloride n/N (%) | Comparator n/N (%) |
 | --- | --- | --- |
@@ -131,14 +131,14 @@ Table 17: Clinical Success Rates by Pathogen in Patients with Complicated Skin a
 ## 14.6 Complicated Intra-Abdominal Infections
 
 Two randomized, active controlled trials of cIAI were performed.
-A double-blind trial was conducted primarily in North America to compare the efficacy of sequential intravenous/oral moxifloxacin 400 mg once a day for 5 to 14 days to intravenous /piperacillin/tazobactam followed by oral amoxicillin/clavulanic acid in the treatment of patients with cIAI, including peritonitis, abscesses, appendicitis with perforation, and bowel perforation.
+A double-blind trial was conducted primarily in North America to compare the efficacy of sequential intravenous/oral moxifloxacin 400 mg once a day for 5 to 14 days to intravenous/piperacillin/tazobactam followed by oral amoxicillin/clavulanic acid in the treatment of patients with cIAI, including peritonitis, abscesses, appendicitis with perforation, and bowel perforation.
 This study enrolled 681 patients, 379 of which were considered clinically evaluable.
 A second open-label international study compared moxifloxacin 400 mg once a day for 5 to 14 days to intravenous ceftriaxone plus intravenous metronidazole followed by oral amoxicillin/clavulanic acid in the treatment of patients with cIAI.
 This study enrolled 595 patients, 511 of which were considered clinically evaluable.
 The clinically evaluable population consisted of subjects with a surgically confirmed complicated infection, at least 5 days of treatment and a 25 to 50 day follow-up assessment for patients at the Test of Cure visit.
-The overall clinical success rates in the clinically evaluable patients are shown in Table 18.
+The overall clinical success rates in the clinically evaluable patients are shown in Table 16.
 
-Table 18: Clinical Success Rates in Patients with Complicated Intra-Abdominal Infections
+Table 16: Clinical Success Rates in Patients with Complicated Intra-Abdominal Infections
 
 | Study | Moxifloxacin Hydrochloride n/N (%) | Comparator n/N (%) | 95% Confidence Intervala |
 | --- | --- | --- | --- |
@@ -164,4 +164,4 @@ Ten of 10 (100%) moxifloxacin-treated animals survived for the 30-day period aft
 Compared to the placebo group, mortality in the moxifloxacin group was significantly lower (difference in survival: 100% with a two-sided 95% exact confidence interval [66.3%, 100%], p-value<0.0001).
 The mean plasma concentrations of moxifloxacin associated with a statistically significant improvement in survival over placebo in an AGM model of pneumonic plague are reached or exceeded in human adults receiving the recommended oral and intravenous dosage regimens.
 The mean (± SD) peak plasma concentration (Cmax) and total plasma exposure defined as the area under the plasma concentration-time curve (AUC) in human adults receiving 400 mg intravenously were 3.9 ± 0.9 mcg/mL and 39.3 ± 8.6 mcg•h/mL, respectively [see Clinical Pharmacology (12.3)].
-The mean (± SD) peak plasma concentration and AUC0-24 in AGM following one-day administration of a humanized dosing regimen simulating the human AUC0-24 at a 400 mg dose were 4.4 ± 1.5 mcg/mL and 22 ± 8.0 mcg·h/mL, respectively.
+The mean (± SD) peak plasma concentration and AUC0-24 in AGM following one- day administration of a humanized dosing regimen simulating the human AUC0-24 at a 400 mg dose were 4.4 ± 1.5 mcg/mL and 22 ± 8.0 mcg·h/mL, respectively.
