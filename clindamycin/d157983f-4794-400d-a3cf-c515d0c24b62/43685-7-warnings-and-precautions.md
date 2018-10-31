@@ -117,7 +117,7 @@ See WARNINGS.
 
 ## Nursing Mothers
 
-Clindamycin has been reported to appear in breast milk in the range of 0.7 to 3.8 mcg/mL at dosages of 150 mg orally to 600 mg intravenously.
+Clindamycin has been reported to appear in human breast milk in the range of <0.5 to 3.8 mcg/mL at dosages of 150 mg orally to 600 mg intravenously.
 Clindamycin has the potential to cause adverse effects on the breastfed infant's gastrointestinal flora.
 If oral or intravenous clindamycin is required by a nursing mother, it is not a reason to discontinue breastfeeding, but an alternate drug may be preferred.
 Monitor the infant for possible adverse effects on the gastrointestinal flora, such as diarrhea, candidiasis (thrush, diaper rash) or rarely, blood in the stool indicating possible antibiotic-associated colitis.
