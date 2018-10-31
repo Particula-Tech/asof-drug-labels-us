@@ -28,7 +28,7 @@ Animal Data
 
 Dapagliflozin dosed directly to juvenile rats from postnatal day (PND) 21 until PND 90 at doses of 1, 15, or 75 mg/kg/day, increased kidney weights and increased the incidence of renal pelvic and tubular dilatations at all dose levels.
 Exposure at the lowest dose tested was 15-times the 10 mg clinical dose (based on AUC).
-The renal pelvic and tubular dilatations observed in juvenile animals did not fully reverse within a 1 month recovery period.
+The renal pelvic and tubular dilatations observed in juvenile animals did not fully reverse within a 1-month recovery period.
 
 In a prenatal and postnatal development study, dapagliflozin was administered to maternal rats from gestation day 6 through lactation day 21 at doses of 1, 15, or 75 mg/kg/day, and pups were indirectly exposed in utero and throughout lactation.
 Increased incidence or severity of renal pelvic dilatation was observed in 21-day-old pups offspring of treated dams at 75 mg/kg/day (maternal and pup dapagliflozin exposures were 1415-times and 137-times, respectively, the human values at the 10 mg clinical dose, based on AUC).
@@ -47,7 +47,7 @@ Risk Summary
 
 There is no information regarding the presence of dapagliflozin in human milk, the effects on the breastfed infant, or the effects on milk production.
 Dapagliflozin is present in the milk of lactating rats [see Data].
-However, due to species- specific differences in lactation physiology, the clinical relevance of these data are not clear.
+However, due to species-specific differences in lactation physiology, the clinical relevance of these data are not clear.
 Since human kidney maturation occurs in utero and during the first 2 years of life when lactational exposure may occur, there may be risk to the developing human kidney.
 
 Because of the potential for serious adverse reactions in breastfed infants, advise women that use of FARXIGA is not recommended while breastfeeding.

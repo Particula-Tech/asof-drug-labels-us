@@ -15,6 +15,6 @@ Initiation of FARXIGA is not recommended in patients with an eGFR less than 60 m
 
 No dose adjustment is needed in patients with mild renal impairment (eGFR of 60 mL/min/1.73 m2 or greater).
 
-Use of FARXIGA is not recommended in patients with an eGFR persistently between 30 and less than 60 mL/min/1.73 m2[see Warnings and Precautions (5.3) and Use in Specific Populations (8.6)].
+Use of FARXIGA is not recommended in patients with an eGFR persistently between 30 and less than 60 mL/min/1.73 m2 [see Warnings and Precautions (5.3) and Use in Specific Populations (8.6)].
 
-FARXIGA is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2[see Contraindications (4)].
+FARXIGA is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 [see Contraindications (4)].

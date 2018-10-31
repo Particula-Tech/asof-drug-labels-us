@@ -2,7 +2,7 @@
 
 ## 14.1 Overview of Clinical Studies of FARXIGA for Type 2 Diabetes
 
-FARXIGA has been studied as monotherapy, in combination with metformin, pioglitazone, sulfonylurea (glimepiride), sitagliptin (with or without metformin), metformin plus a sulfonylurea, or insulin (with or without other oral antidiabetic therapy), compared to a sulfonylurea (glipizide), and in combination with a GLP-1 receptor agonist (exenatide extended- release) added on to metformin.
+FARXIGA has been studied as monotherapy, in combination with metformin, pioglitazone, sulfonylurea (glimepiride), sitagliptin (with or without metformin), metformin plus a sulfonylurea, or insulin (with or without other oral antidiabetic therapy), compared to a sulfonylurea (glipizide), and in combination with a GLP-1 receptor agonist (exenatide extended-release) added-on to metformin.
 FARXIGA has also been studied in patients with type 2 diabetes and moderate renal impairment.
 
 Treatment with FARXIGA as monotherapy and in combination with metformin, glimepiride, pioglitazone, sitagliptin, or insulin produced statistically significant improvements in mean change from baseline at Week 24 in HbA1c compared to control.
@@ -97,7 +97,7 @@ Patients on metformin at a dose of at least 1500 mg per day were randomized afte
 Following the lead-in period, eligible patients were randomized to FARXIGA 5 mg, FARXIGA 10 mg, or placebo in addition to their current dose of metformin.
 
 As add-on treatment to metformin, FARXIGA 10 mg provided statistically significant improvements in HbA1c and FPG, and statistically significant reduction in body weight compared with placebo at Week 24 (see Table 11 and Figure 3).
-Statistically significant (p<0.05 for both doses) mean changes from baseline in systolic blood pressure relative to placebo plus metformin were −4.5 mmHg and −5.3 mmHg with FARXIGA 5 mg and 10 mg plus metformin, respectively.
+Statistically significant (p <0.05 for both doses) mean changes from baseline in systolic blood pressure relative to placebo plus metformin were −4.5 mmHg and −5.3 mmHg with FARXIGA 5 mg and 10 mg plus metformin, respectively.
 
 Table 11: Results of a 24-Week (LOCFLOCF: last observation (prior to rescue for rescued patients) carried forward.)
 Placebo-Controlled Study of FARXIGA in Add-On Combination with Metformin
@@ -160,11 +160,11 @@ Statistically significant (p<0.05 for both doses) mean changes from baseline in 
 ### Add-on Combination Therapy with Metformin and a Sulfonylurea
 
 A total of 218 patients with type 2 diabetes and inadequate glycemic control (HbA1c ≥7% and ≤10.5%) participated in a 24-week, placebo-controlled study to evaluate FARXIGA in combination with metformin and a sulfonylurea.
-Patients on a stable dose of metformin (immediate- or extended-release formulations) ≥1500mg/day plus maximum tolerated dose, which must be at least half the maximum dose, of a sulfonylurea for at least 8 weeks prior to enrollment were randomized after an 8-week placebo lead-in period to FARXIGA 10 mg or placebo.
-Dose-titration of FARXIGA or metformin was not permitted during the 24 –week treatment period.
+Patients on a stable dose of metformin (immediate- or extended-release formulations) ≥1500 mg/day plus maximum tolerated dose, which must be at least half the maximum dose, of a sulfonylurea for at least 8 weeks prior to enrollment were randomized after an 8-week placebo lead-in period to FARXIGA 10 mg or placebo.
+Dose-titration of FARXIGA or metformin was not permitted during the 24-week treatment period.
 Down-titration of the sulfonylurea was permitted to prevent hypoglycemia, but no up-titration was permitted.
 As add-on treatment to combined metformin and a sulfonylurea, treatment with FARXIGA 10 mg provided statistically significant improvements in HbA1c and FPG and statistically significant reduction in body weight compared with placebo at Week 24 (Table 13).
-A statistically significant (p<0.05) mean change from baseline in systolic blood pressure relative to placebo in combination with metformin and a sulfonyl urea was -3.8mmHg with FARXIGA 10 mg in combination with metformin and a sulfonylurea at Week 8.
+A statistically significant (p <0.05) mean change from baseline in systolic blood pressure relative to placebo in combination with metformin and a sulfonyl urea was -3.8 mmHg with FARXIGA 10 mg in combination with metformin and a sulfonylurea at Week 8.
 
 ### Add-On Combination Therapy with a Thiazolidinedione
 
@@ -173,7 +173,7 @@ Patients on a stable dose of pioglitazone of 45 mg per day (or 30 mg per day, if
 Dose titration of FARXIGA or pioglitazone was not permitted during the study.
 
 In combination with pioglitazone, treatment with FARXIGA 10 mg provided statistically significant improvements in HbA1c, 2-hour PPG, FPG, the proportion of patients achieving HbA1c <7%, and a statistically significant reduction in body weight compared with the placebo plus pioglitazone treatment groups (see Table 13) at Week 24.
-A statistically significant (p<0.05) mean change from baseline in systolic blood pressure relative to placebo in combination with pioglitazone was −4.5 mmHg with FARXIGA 10 mg in combination with pioglitazone.
+A statistically significant (p <0.05) mean change from baseline in systolic blood pressure relative to placebo in combination with pioglitazone was −4.5 mmHg with FARXIGA 10 mg in combination with pioglitazone.
 
 ### Add-On Combination Therapy with a DPP4 Inhibitor
 
@@ -220,7 +220,7 @@ Placebo-Controlled Studies of FARXIGA in Combination with Antidiabetic Agents
 | 2-hour PPG2-hour PPG level as a response to a 75-gram oral glucose tolerance test (OGTT). (mg/dL) |  |  |  |
 | Baseline (mean) | 329.6 | 322.8 | 324.1 |
 | Change from baseline (adjusted mean) | −60.6 | –54.5 | −11.5 |
-| Difference from placebo (adjusted mean‡) (95% CI) | −49.1 (−64.1, −34.1) | −43.0 (–58.4, −27.5) |  |
+| Difference from placebo (adjusted mean) (95% CI) | −49.1 (−64.1, −34.1) | −43.0 (–58.4, −27.5) |  |
 | Body Weight (kg) |  |  |  |
 | Baseline (mean) | 80.6 | 81.0 | 80.9 |
 | Change from baseline (adjusted mean) | −2.3 | −1.6 | −0.7 |
@@ -291,10 +291,10 @@ Placebo-Controlled Studies of FARXIGA in Combination with Antidiabetic Agents
 
 ### Combination Therapy with Exenatide-Extended Release as Add-On to Metformin
 
-A total of 694 adult patients with type 2 diabetes and inadequate glycemic control (HbA1c ≥8.0 and ≤12.0%) on metformin, were evaluated in a 28-week double-blind, active-controlled study to compare FARXIGA in combination with exenatide extended-release (a GLP 1 receptor agonist) to FARXIGA alone and exenatide extended-release alone, as add- on to metformin (NCT02229396).
-Patients on metformin at a dose of at least 1,500 mg per day were randomized following a 1-week placebo lead in period to receive either FARXIGA 10 mg once daily (QD) in combination with exenatide extended-release 2 mg once weekly (QW), FARXIGA 10 mg QD, or exenatide extended–release 2 mg QW.
+A total of 694 adult patients with type 2 diabetes and inadequate glycemic control (HbA1c ≥8.0 and ≤12.0%) on metformin, were evaluated in a 28-week double-blind, active-controlled study to compare FARXIGA in combination with exenatide extended-release (a GLP-1 receptor agonist) to FARXIGA alone and exenatide extended-release alone, as add-on to metformin (NCT02229396).
+Patients on metformin at a dose of at least 1,500 mg per day were randomized following a 1-week placebo lead-in period to receive either FARXIGA 10 mg once daily (QD) in combination with exenatide extended-release 2 mg once weekly (QW), FARXIGA 10 mg QD, or exenatide extended–release 2 mg QW.
 
-At week 28, FARXIGA in combination with exenatide extended-release provided statistically significantly greater reductions in HbA1c (-1.77%) compared to FARXIGA alone (-1.32%, p=0.001) and exenatide extended-release alone (-1.42%, p=0.012).
+At Week 28, FARXIGA in combination with exenatide extended-release provided statistically significantly greater reductions in HbA1c (-1.77%) compared to FARXIGA alone (-1.32%, p=0.001) and exenatide extended-release alone (-1.42%, p=0.012).
 FARXIGA in combination with exenatide extended-release provided statistically significantly greater reductions in FPG (-57.35 mg/dL) compared to FARXIGA alone (-44.72 mg/dL, p=0.006) and exenatide extended-release alone (-40.53, p <0.001).
 
 ## 14.7 Use in Patients with Type 2 Diabetes and Renal Impairment

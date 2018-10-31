@@ -37,7 +37,7 @@ FARXIGA increases serum creatinine and decreases eGFR.
 Elderly patients and patients with impaired renal function may be more susceptible to these changes.
 Adverse reactions related to renal function can occur after initiating FARXIGA [see Adverse Reactions (6.1)].
 Renal function should be evaluated prior to initiation of FARXIGA and monitored periodically thereafter.
-Use of FARXIGA is not recommended in patients with an eGFR persistently between 30 and less than 60 mL/min/1.73 m2 and is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 [see Dosage and Administration (2.2),Contraindications (4), Use in Specific Populations (8.6)].
+Use of FARXIGA is not recommended in patients with an eGFR persistently between 30 and less than 60 mL/min/1.73 m2 and is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 [see Dosage and Administration (2.2), Contraindications (4) and Use in Specific Populations (8.6)].
 
 ## 5.4 Urosepsis and Pyelonephritis
 
@@ -51,18 +51,28 @@ Insulin and insulin secretagogues are known to cause hypoglycemia.
 FARXIGA can increase the risk of hypoglycemia when combined with insulin or an insulin secretagogue [see Adverse Reactions (6.1)].
 Therefore, a lower dose of insulin or insulin secretagogue may be required to minimize the risk of hypoglycemia when these agents are used in combination with FARXIGA.
 
-## 5.6 Genital Mycotic Infections
+## 5.6 Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene)
+
+Reports of necrotizing fasciitis of the perineum (Fournier’s Gangrene), a rare but serious and life-threatening necrotizing infection requiring urgent surgical intervention, have been identified in postmarketing surveillance in patients with diabetes mellitus receiving SGLT2 inhibitors, including FARXIGA.
+Cases have been reported in both females and males.
+Serious outcomes have included hospitalization, multiple surgeries, and death.
+
+Patients treated with FARXIGA presenting with pain or tenderness, erythema, or swelling in the genital or perineal area, along with fever or malaise, should be assessed for necrotizing fasciitis.
+If suspected, start treatment immediately with broad-spectrum antibiotics and, if necessary, surgical debridement.
+Discontinue FARXIGA, closely monitor blood glucose levels, and provide appropriate alternative therapy for glycemic control.
+
+## 5.7 Genital Mycotic Infections
 
 FARXIGA increases the risk of genital mycotic infections.
 Patients with a history of genital mycotic infections were more likely to develop genital mycotic infections [see Adverse Reactions (6.1)].
 Monitor and treat appropriately.
 
-## 5.7 Increases in Low-Density Lipoprotein Cholesterol (LDL-C)
+## 5.8 Increases in Low-Density Lipoprotein Cholesterol (LDL-C)
 
 Increases in LDL‑C occur with FARXIGA [see Adverse Reactions (6.1)].
 Monitor LDL‑C and treat per standard of care after initiating FARXIGA.
 
-## 5.8 Bladder Cancer
+## 5.9 Bladder Cancer
 
 Across 22 clinical studies, newly diagnosed cases of bladder cancer were reported in 10/6045 patients (0.17%) treated with FARXIGA and 1/3512 patient (0.03%) treated with placebo/comparator.
 After excluding patients in whom exposure to study drug was less than one year at the time of diagnosis of bladder cancer, there were 4 cases with FARXIGA and no cases with placebo/comparator.
@@ -73,6 +83,6 @@ There are insufficient data to determine whether FARXIGA has an effect on pre-ex
 Consequently, FARXIGA should not be used in patients with active bladder cancer.
 In patients with prior history of bladder cancer, the benefits of glycemic control versus unknown risks for cancer recurrence with FARXIGA should be considered.
 
-## 5.9 Macrovascular Outcomes
+## 5.10 Macrovascular Outcomes
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with FARXIGA.
