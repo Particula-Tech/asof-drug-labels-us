@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA017078"
+  ],
+  "inn": "dextroamphetamine",
+  "labeler": "Impax Specialty Pharma",
+  "package_ndcs": [
+    "64896-673-10",
+    "64896-674-10",
+    "64896-675-10"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "dextroamphetamine sulfate",
+      "name": "DEXEDRINE"
+    }
+  ],
+  "setid": "cc717b9b-22ea-4c60-a1d4-ee38a40bce78",
+  "source": "dailymed"
+}
