@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Meropenem for Injection, USP is a sterile, pyrogen-free, synthetic, broad-spectrum, carbapenem antibacterial for intravenous administration.
+Meropenem for Injection, USP is a sterile, pyrogen-free, synthetic, carbapenem antibacterial for intravenous administration.
 It is (4R,5S,6S)-3-[[(3S,5S)-5-(Dimethylcarbamoyl)-3-pyrrolidinyl]thio]-6-[(1R)-1-hydroxyethyl]-4-methyl-7-oxo-1-azabicyclo[3.2.0]hept-2-ene-2-carboxylic acid trihydrate.
 Its molecular formula is C17H25N3O5S•3H2O with a molecular weight of 437.52.
 Its structural formula is:
