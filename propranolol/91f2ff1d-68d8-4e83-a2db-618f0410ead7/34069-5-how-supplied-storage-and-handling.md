@@ -10,6 +10,6 @@ Protect from freezing or excessive heat.
 Manufactured by: HIKMA FARMACÊUTICA (PORTUGAL), S.A.
 Estrada do Rio da Mó, 8, 8A e 8B – Fervença – 2705-906 Terrugem SNT, PORTUGAL
 
-Distributed by: WEST-WARD PHARMACEUTICAL CORP. Eatontown, NJ 07724 USA
+Distributed by: WEST-WARD A HIKMA COMPANY Eatontown, NJ 07724 USA
 
-Rev.: 05/2015 PIN166-WES/4
+Revised: June 2016 PIN166-WES/6

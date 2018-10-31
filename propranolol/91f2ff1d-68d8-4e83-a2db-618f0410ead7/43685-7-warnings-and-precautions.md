@@ -50,7 +50,7 @@ Patients should be told that propranolol might interfere with the glaucoma scree
 Withdrawal may lead to a return of elevated intraocular pressure.
 
 Risk of anaphylactic reaction.
-While taking beta blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic.
+While taking beta-blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic.
 Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reaction.
 
 ### Angina Pectoris
