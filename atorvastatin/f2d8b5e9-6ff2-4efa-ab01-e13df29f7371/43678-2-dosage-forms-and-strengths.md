@@ -1,8 +1,8 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Atorvastatin calcium tablets are yellow, oval shape, biconvex, film coated, and are available in four strengths (see Table 1).
+Atorvastatin calcium tablets, USP are yellow, oval shape, biconvex, film coated, and are available in four strengths (see Table 1).
 
-Table 1: Atorvastatin Calcium Tablet Strengths and Identifying Features
+Table 1: Atorvastatin Calcium Tablets, USP Strengths and Identifying Features
 
 | Tablet Strength | Identifying Features |  |
 | --- | --- | --- |

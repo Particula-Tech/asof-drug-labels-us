@@ -41,6 +41,8 @@ Because of the potential for serious adverse reactions in a breastfed infant, ad
 
 ## 8.3 Females and Males of Reproductive Potential
 
+Contraception
+
 Atorvastatin calcium may cause fetal harm when administered to a pregnant woman.
 Advise females of reproductive potential to use effective contraception during treatment with atorvastatin calcium [see Use in Specific Populations (8.1)].
 

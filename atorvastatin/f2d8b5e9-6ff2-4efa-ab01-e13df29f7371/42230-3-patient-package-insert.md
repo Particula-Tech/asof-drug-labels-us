@@ -1,6 +1,6 @@
 PATIENT INFORMATION
 
-Atorvastatin Calcium Tablets (a tor″ va stat′ in kal′ see um)
+Atorvastatin Calcium Tablets, USP (a tor″ va stat′ in kal′ see um)
 
 Read the Patient Information that comes with atorvastatin calcium tablets before you start taking it and each time you get a refill.
 There may be new information.
@@ -161,12 +161,12 @@ This leaflet summarizes the most important information about atorvastatin calciu
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about atorvastatin calcium tablets that is written for health professionals.
 
-What are the Ingredients in Atorvastatin Calcium Tablets?
+What are the Ingredients in Atorvastatin Calcium Tablets, USP?
 
-Active Ingredient: atorvastatin calcium
+Active Ingredient: atorvastatin calcium, USP
 
 Inactive Ingredients: anhydrous lactose, NF; colloidal silicon dioxide, NF; copovidone, NF; croscarmellose sodium, NF; magnesium stearate, NF; mannitol, USP; silicified microcrystalline cellulose, NF; sodium bicarbonate, USP; sodium carbonate anhydrous, NF; sodium lauryl sulfate, NF; lecitihin, polyvinyl alcohol part hydrolyzed, talc, titanium dioxide, xanthan gum and iron oxide yellow.
 
 Manufactured by: ScieGen Pharmaceuticals, Inc. Hauppauge, NY 11788 USA
 
-Rev: 10/17
+Rev: 09/18

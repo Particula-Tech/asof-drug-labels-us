@@ -66,8 +66,8 @@ Overview of Efficacy Results in TNT
 | SECONDARY ENDPOINTS* |  |  |  |  |  |
 | First CHF with hospitalization | 164 | (3.3) | 122 | (2.4) | 0.74 (0.59, 0.94) |
 | First PVD endpoint | 282 | (5.6) | 275 | (5.5) | 0.97 (0.83, 1.15) |
-| First CABG or other coronary revascularization procedure‡ | 904 | (18.1) | 667 | (13.4) | 0.72 (0.65, 0.80) |
-| First documented angina endpoint‡ | 615 | (12.3) | 545 | (10.9) | 0.88 (0.79, 0.99) |
+| First CABG or other coronary revascularization procedureb | 904 | (18.1) | 667 | (13.4) | 0.72 (0.65, 0.80) |
+| First documented angina endpointb | 615 | (12.3) | 545 | (10.9) | 0.88 (0.79, 0.99) |
 | All-cause mortality | 282 | (5.6) | 284 | (5.7) | 1.01 (0.85, 1.19) |
 | Components of All-Cause Mortality |  |  |  |  |  |
 | Cardiovascular death | 155 | (3.1) | 126 | (2.5) | 0.81 (0.64, 1.03) |
