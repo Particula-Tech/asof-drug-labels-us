@@ -29,9 +29,9 @@ However, the cited figures provide the physician with a basis for estimating the
 The following table was derived from results of 11 placebo-controlled short-term U.S. efficacy trials involving zolpidem in doses ranging from 1.25 to 20 mg.
 The table is limited to data from doses up to and including 10 mg, the highest dose recommended for use.
 
-Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinical Trials Lasting up to 10 Nights (Percentage of Patients Reporting)
+Table 1: Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinical Trials Lasting up to 10 Nights (Percentage of Patients Reporting)
 
-| Body System/ Adverse Event* | Zolpidem (≤10 mg) (N=685) | Placebo (N=473) |
+| Body System Adverse Event* | Zolpidem (≤10 mg) (N=685) | Placebo (N=473) |
 | --- | --- | --- |
 | Central and Peripheral Nervous System |  |  |
 | Headache | 7 | 6 |
@@ -47,9 +47,9 @@ These trials involved patients with chronic insomnia who were treated for 28 to 
 The table is limited to data from doses up to and including 10 mg, the highest dose recommended for use.
 The table includes only adverse events occurring at an incidence of at least 1% for zolpidem patients.
 
-Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinical Trials Lasting up to 35 Nights (Percentage of patients reporting)
+Table 2: Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinical Trials Lasting up to 35 Nights (Percentage of patients reporting)
 
-| Body System/ Adverse Event* | Zolpidem (≤10 mg) (N=152) | Placebo (N=161) |
+| Body System Adverse Event* | Zolpidem (≤10 mg) (N=152) | Placebo (N=161) |
 | --- | --- | --- |
 | Autonomic Nervous System |  |  |
 | Dry mouth | 3 | 1 |

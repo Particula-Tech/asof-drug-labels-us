@@ -22,7 +22,7 @@ Increased wakefulness during the last third of the night as measured by polysomn
 
 ## 14.3 Studies Pertinent to Safety Concerns for Sedative/Hypnotic Drugs
 
-Next-day Residual Effects
+Next-Day Residual Effects
 
 Next-day residual effects of zolpidem tartrate were evaluated in seven studies involving normal subjects.
 In three studies in adults (including one study in a phase advance model of transient insomnia) and in one study in elderly subjects, a small but statistically significant decrease in performance was observed in the Digit Symbol Substitution Test (DSST) when compared to placebo.

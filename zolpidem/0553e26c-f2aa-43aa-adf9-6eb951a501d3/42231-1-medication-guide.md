@@ -36,7 +36,7 @@ What are zolpidem tartrate tablets?
 Zolpidem tartrate tablets are a sedative-hypnotic (sleep) medicine.
 Zolpidem tartrate tablets are used in adults for the short-term treatment of a sleep problem called insomnia (trouble falling asleep).
 
-It is not known if zolpidem tartrate tablets are safe and effective in children under the age of 18 years.
+Zolpidem tartrate tablets are not recommended for use in children under the age of 18 years.
 
 Who should not take zolpidem tartrate tablets?
 
@@ -56,11 +56,12 @@ Before starting zolpidem tartrate tablets, tell your healthcare provider about a
 - •have kidney or liver disease
 - •have a lung disease or breathing problems
 - •are pregnant, planning to become pregnant.
-  It is not known if zolpidem tartrate tablets will harm your unborn baby.
+  Talk to your healthcare provider about the risk to your unborn baby if you take zolpidem tartrate.
+- •Using zolpidem tartrate in the last trimester of pregnancy may cause breathing difficulties or excess sleepiness in your newborn.
+  Monitor for signs of sleepiness (more than usual), trouble breathing, or limpness in the newborn if zolpidem tartrate is taken late in pregnancy.
 - •are breastfeeding or plan to breastfeed.
-  Zolpidem can pass into your breast milk.
-  It is not known if zolpidem tartrate tablets will harm your baby.
-  Talk to your healthcare provider about the best way to feed your baby while you take zolpidem tartrate tablets.
+  Zolpidem passes into your breast milk.
+  Talk to your healthcare provider about the best way to feed your baby while you take zolpidem tartrate.
 
 Tell your healthcare provider about all of the medicines you take, including prescription and nonprescription medicines, vitamins and herbal supplements.
 
@@ -122,12 +123,12 @@ After you stop taking a sleep medicine, you may have symptoms for 1 to 2 days su
 These are not all the side effects of zolpidem tartrate tablets.
 Ask your healthcare provider or pharmacist for more information.
 
-Call your healthcare provider for medical advice about side effects.
+Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1–800–FDA–1088.
 
 How should I store zolpidem tartrate tablets?
 
-- •Store zolpidem tartrate tablets at room temperature, 68°F to 77°F (20°C to 25°C).
+Store zolpidem tartrate tablets at room temperature, 68°F to 77°F (20°C to 25°C).
 
 Keep zolpidem tartrate tablets and all medicines out of reach of children.
 
@@ -157,4 +158,4 @@ Finished Drug Product Manufactured by Lek Pharmaceuticals d.d.
 SI-1526 Ljubljana, Slovenia, for Sandoz Inc., Princeton, NJ 08540
 
 Rev.
-March 2017
+October 2018

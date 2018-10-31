@@ -2,10 +2,14 @@
 
 ## 12.1 Mechanism of Action
 
-Zolpidem, the active moiety of zolpidem tartrate, is a hypnotic agent with a chemical structure unrelated to benzodiazepines, barbiturates, or other drugs with known hypnotic properties.
-It interacts with a GABA-BZ receptor complex and shares some of the pharmacological properties of the benzodiazepines.
-In contrast to the benzodiazepines, which non-selectively bind to and activate all BZ receptor subtypes, zolpidem in vitro binds the BZ1 receptor preferentially with a high affinity ratio of the α1/α5 subunits.
-This selective binding of zolpidem on the BZ1 receptor is not absolute, but it may explain the relative absence of myorelaxant and anticonvulsant effects in animal studies as well as the preservation of deep sleep (stages 3 and 4) in human studies of zolpidem tartrate at hypnotic doses.
+Zolpidem, is a GABA A receptor positive modulator presumed to exert its therapeutic effects in the short-term treatment of insomnia through binding to the benzodiazepine site of α1 subunit containing GABA A receptors, increasing the frequency of chloride channel opening resulting in the inhibition of neuronal excitation.
+
+## 12.2 Pharmacodynamics
+
+Zolpidem binds to GABA A receptors with greater affinity for α1 subunit relative to α2 and α3 subunit containing receptors.
+Zolpidem has no appreciable binding affinity for α5 subunit containing GABA A receptors.
+This binding profile may explain the relative absence of myorelaxant effects in animal studies.
+Zolpidem has no appreciable binding affinity for dopaminergic D2, serotonergic 5HT2, adrenergic, histaminergic or muscarinic receptors.
 
 ## 12.3 Pharmacokinetics
 
@@ -26,39 +30,40 @@ Special Populations
 
 Elderly
 
-In the elderly, the dose for zolpidem tartrate should be 5 mg [see Warnings and Precautions (5) and Dosage and Administration (2)].
+In the elderly, the dose for zolpidem tartrate should be 5 mg [seeWarnings and Precautions (5), Dosage and Administration (2)].
 This recommendation is based on several studies in which the mean Cmax, T1/2, and AUC were significantly increased when compared to results in young adults.
 In one study of eight elderly subjects (> 70 years), the means for Cmax, T1/2, and AUC significantly increased by 50% (255 vs. 384 ng/mL), 32% (2.2 vs. 2.9 hr), and 64% (955 vs. 1,562 ng∙hr/mL), respectively, as compared to younger adults (20 to 40 years) following a single 20 mg oral dose.
 Zolpidem tartrate did not accumulate in elderly subjects following nightly oral dosing of 10 mg for 1 week.
 
 Hepatic Impairment
 
-The pharmacokinetics of zolpidem tartrate in eight patients with chronic hepatic insufficiency were compared to results in healthy subjects.
+The pharmacokinetics of zolpidem tartrate in eight patients with chronic hepatic insufficiency was compared to results in healthy subjects.
 Following a single 20 mg oral zolpidem tartrate dose, mean Cmax and AUC were found to be two times (250 vs. 499 ng/mL) and five times (788 vs. 4,203 ng∙hr/mL) higher, respectively, in hepatically -compromised patients.
 Tmax did not change.
 The mean half-life in cirrhotic patients of 9.9 hr (range: 4.1 to 25.8 hr) was greater than that observed in normal subjects of 2.2 hr (range: 1.6 to 2.4 hr) [see Dosage and Administration (2.2), Warnings and Precautions (5.7), Use in Specific Populations (8.7)].
 
 Renal Impairment
 
-The pharmacokinetics of zolpidem tartrate were studied in 11 patients with end-stage renal failure (mean ClCr = 6.5 ± 1.5 mL/min) undergoing hemodialysis three times a week, who were dosed with zolpidem tartrate 10 mg orally each day for 14 or 21 days.
+The pharmacokinetics of zolpidem tartrate was studied in 11 patients with end-stage renal failure (mean ClCr = 6.5 ± 1.5 mL/min) undergoing hemodialysis three times a week, who were dosed with zolpidem tartrate 10 mg orally each day for 14 or 21 days.
 No statistically significant differences were observed for Cmax, Tmax, half-life, and AUC between the first and last day of drug administration when baseline concentration adjustments were made.
 Zolpidem was not hemodialyzable.
 No accumulation of unchanged drug appeared after 14 or 21 days.
-Zolpidem pharmacokinetics were not significantly different in renally impaired patients.
+Zolpidem pharmacokinetics was not significantly different in renally impaired patients.
 No dosage adjustment is necessary in patients with compromised renal function.
 
 Drug Interactions
 
 CNS-Depressants
 
-Co-administration of zolpidem with other CNS depressants increases the risk of CNS depression [see Warnings and Precautions (5.1)].Zolpidem tartrate was evaluated in healthy volunteers in single-dose interaction studies for several CNS drugs.
+Co-administration of zolpidem with other CNS depressants increases the risk of CNS depression [seeWarnings and Precautions (5.1)].
+Zolpidem tartrate was evaluated in healthy volunteers in single-dose interaction studies for several CNS drugs.
 Imipramine in combination with zolpidem produced no pharmacokinetic interaction other than a 20% decrease in peak levels of imipramine, but there was an additive effect of decreased alertness.
 Similarly, chlorpromazine in combination with zolpidem produced no pharmacokinetic interaction, but there was an additive effect of decreased alertness and psychomotor performance.
 
 A study involving haloperidol and zolpidem revealed no effect of haloperidol on the pharmacokinetics or pharmacodynamics of zolpidem.
 The lack of a drug interaction following single-dose administration does not predict the absence of an effect following chronic administration.
 
-An additive adverse effect on psychomotor performance between alcohol and oral zolpidem was demonstrated [see Warnings and Precautions (5.1)].
+An additive adverse effect on psychomotor performance between alcohol and oral zolpidem was demonstrated [seeWarnings and Precautions (5.1)].
 
 Following five consecutive nightly doses at bedtime of oral zolpidem tartrate 10 mg in the presence of sertraline 50 mg (17 consecutive daily doses, at 7:00 am, in healthy female volunteers), zolpidem Cmax was significantly higher (43%) and Tmax was significantly decreased (-53%).
 Pharmacokinetics of sertraline and N-desmethylsertraline were unaffected by zolpidem.

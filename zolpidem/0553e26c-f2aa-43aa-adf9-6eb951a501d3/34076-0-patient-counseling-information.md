@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide).
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Inform patients and their families about the benefits and risks of treatment with zolpidem tartrate tablets.
 Inform patients of the availability of a Medication Guide and instruct them to read the Medication Guide prior to initiating treatment with zolpidem tartrate tablets and with each prescription refill.
@@ -18,7 +18,7 @@ Severe Anaphylactic and Anaphylactoid Reactions
 Inform patients that severe anaphylactic and anaphylactoid reactions have occurred with zolpidem.
 Describe the signs/symptoms of these reactions and advise patients to seek medical attention immediately if any of them occur.
 
-Sleep-driving and Other Complex Behaviors
+Sleep-Driving and Other Complex Behaviors
 
 Instruct patients and their families that sedative hypnotics can cause abnormal thinking and behavior change, including "sleep driving" and other complex behaviors while not being fully awake (preparing and eating food, making phone calls, or having sex).
 Tell patients to call you immediately if they develop any of these symptoms.
@@ -41,3 +41,15 @@ Administration Instructions
 Patients should be counseled to take zolpidem tartrate tablets right before they get into bed and only when they are able to stay in bed a full night (7 to 8 hours) before being active again.
 Zolpidem tartrate tablets should not be taken with or immediately after a meal.
 Advise patients NOT to take zolpidem tartrate tablets if they drank alcohol that evening.
+
+Pregnancy
+
+Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with zolpidem tartarate tablets.
+Advise patients that use of zolpidem tartarate tablets late in the third trimester may cause respiratory depression and sedation in neonates.
+Advise mothers who used zolpidem tartarate during the late third trimester of pregnancy to monitor neonates for signs of sleepiness (more than usual), breathing difficulties, or limpness [see Use in Specific Populations (8.1)].
+
+Lactation
+
+Advise breastfeeding mothers using zolpidem tartarate tablets to monitor infants for increased sleepiness, breathing difficulties, or limpness.
+Instruct breastfeeding mothers to seek immediate medical care if they notice these signs.
+A lactating woman may consider pumping and discarding breastmilk during treatment and for 23 hours after zolpidem administration to minimize drug exposure to a breastfed infant [see Use in Specific Populations (8.2)].
