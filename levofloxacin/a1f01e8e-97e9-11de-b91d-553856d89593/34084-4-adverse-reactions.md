@@ -45,20 +45,20 @@ Table 4: Common (≥1%) Adverse Reactions Reported in Clinical Trials with LEVAQ
 | System/Organ Class | Adverse Reaction | % (N=7537) |
 | --- | --- | --- |
 | Infections and Infestations | moniliasis | 1 |
-| Psychiatric Disorders | insomniaN = 7274 [see Warnings and Precautions (5.4)] | 4 |
+| Psychiatric Disorders | insomniaN = 7274[see Warnings and Precautions (5.4)] | 4 |
 | Nervous System Disorders |  |  |
 |  | headache | 6 |
 |  | dizziness [see Warnings and Precautions (5.4)] | 3 |
 | Respiratory, Thoracic and Mediastinal Disorders | dyspnea [see Warnings and Precautions (5.7)] | 1 |
 | Gastrointestinal Disorders | nausea | 7 |
-| diarrhea | 5 |  |
-| constipation | 3 |  |
-| abdominal pain | 2 |  |
-| vomiting | 2 |  |
-| dyspepsia | 2 |  |
+|  | diarrhea | 5 |
+|  | constipation | 3 |
+|  | abdominal pain | 2 |
+|  | vomiting | 2 |
+|  | dyspepsia | 2 |
 | Skin and Subcutaneous Tissue Disorders | rash [see Warnings and Precautions (5.7)] | 2 |
 | pruritus | 1 |  |
-| Reproductive System and Breast Disorders | vaginitis | 1N = 3758 (women) |
+| Reproductive System and Breast Disorders | Vaginitis | 1N = 3758 (women) |
 | General Disorders and Administration Site Conditions | edema | 1 |
 | injection site reaction | 1 |  |
 | chest pain | 1 |  |
@@ -71,7 +71,7 @@ Table 5: Less Common (0.1 to 1%) Adverse Reactions Reported in Clinical Trials w
 | Blood and Lymphatic System Disorders | anemia thrombocytopenia granulocytopenia [see Warnings and Precautions (5.6)] |
 | Immune System Disorders | allergic reaction [see Warnings and Precautions (5.6, 5.7)] |
 | Metabolism and Nutrition Disorders | hyperglycemia hypoglycemia [see Warnings and Precautions (5.12)] hyperkalemia |
-| Psychiatric Disorders | anxiety agitation confusion depression hallucination nightmareN = 7274 [see Warnings and Precautions (5.4)] sleep disorder anorexia abnormal dreaming |
+| Psychiatric Disorders | anxiety agitation confusion depression hallucination nightmare [see Warnings and Precautions (5.4)] sleep disorderN = 7274 anorexia abnormal dreaming |
 | Nervous System Disorders | tremor convulsions [see Warnings and Precautions (5.4)] paresthesia [see Warnings and Precautions (5.3)] vertigo hypertonia hyperkinesias abnormal gait somnolence syncope |
 | Respiratory, Thoracic and Mediastinal Disorders | epistaxis |
 | Cardiac Disorders | cardiac arrest palpitation ventricular tachycardia ventricular arrhythmia |
