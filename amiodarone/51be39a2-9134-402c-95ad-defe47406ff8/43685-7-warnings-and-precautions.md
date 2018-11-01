@@ -1,356 +1,106 @@
-# WARNINGS
+# 5 WARNINGS AND PRECAUTIONS
 
-## Mortality
+## 5.1 Persistence of Adverse Effects
 
-In the National Heart, Lung and Blood Institute's Cardiac Arrhythmia Suppression Trial (CAST), a long-term, multi-centered, randomized, double-blind study in patients with asymptomatic non-life-threatening ventricular arrhythmias who had had myocardial infarctions more than six days but less than two years previously, an excessive mortality or non-fatal cardiac arrest rate was seen in patients treated with encainide or flecainide (56/730) compared with that seen in patients assigned to matched placebo-treated groups (22/725).
-The average duration of treatment with encainide or flecainide in this study was ten months.
+Because of the long half-life of amiodarone (15 to 142 days) and its active metabolite desethylamiodarone (14 to 75 days), adverse reactions and drug interactions can persist for several weeks following amiodarone discontinuation [see Clinical Pharmacology (12.3)].
 
-Cordarone therapy was evaluated in two multi-centered, randomized, double-blind, placebo-controlled trials involving 1202 (Canadian Amiodarone Myocardial Infarction Arrhythmia Trial; CAMIAT) and 1486 (European Myocardial Infarction Amiodarone Trial; EMIAT) post-MI patients followed for up to 2 years.
-Patients in CAMIAT qualified with ventricular arrhythmias, and those randomized to amiodarone received weight- and response-adjusted doses of 200 to 400 mg/day.
-Patients in EMIAT qualified with ejection fraction <40%, and those randomized to amiodarone received fixed doses of 200 mg/day.
-Both studies had weeks-long loading dose schedules.
-Intent-to-treat all-cause mortality results were as follows:
+## 5.2 Pulmonary Toxicity
 
-|  | N | Deaths | N | Deaths |  | 95%CI |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | Placebo |  | Amiodarone |  | Relative Risk |  |
-| EMIAT | 743 | 102 | 743 | 103 | 0.99 | 0.76–1.31 |
-| CAMIAT | 596 | 68 | 606 | 57 | 0.88 | 0.58–1.16 |
+CORDARONE may cause a clinical syndrome of cough and progressive dyspnea accompanied by functional, radiographic, gallium-scan, and pathological data consistent with pulmonary toxicity.
+Pulmonary toxicity secondary to CORDARONE may result from either indirect or direct toxicity as represented by hypersensitivity pneumonitis (including eosinophilic pneumonia) or interstitial/alveolar pneumonitis, respectively.
+Rates of pulmonary toxicity have been reported to be as high as 17% and is fatal in about 10% of cases.
+Obtain a baseline chest X-ray and pulmonary-function tests, including diffusion capacity, when CORDARONE therapy is initiated.
+Repeat history, physical exam, and chest X-ray every 3 to 6 months or if symptoms occur.
+Consider alternative antiarrhythmic therapy if the patient experiences signs or symptoms of pulmonary toxicity.
+Prednisone 40 to 60 mg/day tapered over several weeks may be helpful in treating pulmonary toxicity.
 
-These data are consistent with the results of a pooled analysis of smaller, controlled studies involving patients with structural heart disease (including myocardial infarction).
+Adult Respiratory Distress Syndrome (ARDS)
 
-## Pulmonary Toxicity
+Postoperatively, occurrences of ARDS have been reported in patients receiving CORDARONE therapy who have undergone either cardiac or noncardiac surgery.
+Although patients usually respond well to vigorous respiratory therapy, in rare instances the outcome has been fatal.
 
-There have been postmarketing reports of acute-onset (days to weeks) pulmonary injury in patients treated with oral Cordarone with or without initial I.V. therapy.
-Findings have included pulmonary infiltrates and/or mass on X-ray, pulmonary alveolar hemorrhage, pleural effusion, bronchospasm, wheezing, fever, dyspnea, cough, hemoptysis, and hypoxia.
-Some cases have progressed to respiratory failure and/or death.
-Postmarketing reports describe cases of pulmonary toxicity in patients treated with low doses of Cordarone; however, reports suggest that the use of lower loading and maintenance doses of Cordarone are associated with a decreased incidence of Cordarone-induced pulmonary toxicity.
+## 5.3 Hepatic Injury
 
-Cordarone Tablets may cause a clinical syndrome of cough and progressive dyspnea accompanied by functional, radiographic, gallium-scan, and pathological data consistent with pulmonary toxicity, the frequency of which varies from 2 to 7% in most published reports, but is as high as 10 to 17% in some reports.
-Therefore, when Cordarone therapy is initiated, a baseline chest X-ray and pulmonary-function tests, including diffusion capacity, should be performed.
-The patient should return for a history, physical exam, and chest X-ray every 3 to 6 months.
+Asymptomatic elevations of hepatic enzyme levels are seen frequently, but CORDARONE can cause life-threatening hepatic injury.
+Histology has resembled that of alcoholic hepatitis or cirrhosis.
+Obtain baseline and periodic liver transaminases.
+If transaminases exceed three times normal, or doubles in a patient with an elevated baseline, discontinue or reduce dose of CORDARONE, obtain follow-up tests and treat appropriately.
 
-Pulmonary toxicity secondary to Cordarone seems to result from either indirect or direct toxicity as represented by hypersensitivity pneumonitis (including eosinophilic pneumonia) or interstitial/alveolar pneumonitis, respectively.
+## 5.4 Worsened Arrhythmia
 
-Patients with preexisting pulmonary disease have a poorer prognosis if pulmonary toxicity develops.
+CORDARONE can exacerbate the presenting arrhythmia in about 2 to 5% of patients or cause new ventricular fibrillation, incessant ventricular tachycardia, increased resistance to cardioversion, and polymorphic ventricular tachycardia associated with QTc prolongation (Torsade de Pointes [TdP]).
 
-Hypersensitivity pneumonitis usually appears earlier in the course of therapy, and rechallenging these patients with Cordarone results in a more rapid recurrence of greater severity.
+Correct hypokalemia, hypomagnesemia, and hypocalcemia before initiating treatment with CORDARONE, as these disorders can exaggerate the degree of QTc prolongation and increase the potential for TdP.
+Give special attention to electrolyte and acid-base balance in patients experiencing severe or prolonged diarrhea or receiving drugs affecting electrolyte levels, such as diuretics, laxatives, systemic corticosteroids, or amphotericin B.
 
-Bronchoalveolar lavage is the procedure of choice to confirm this diagnosis, which can be made when a T suppressor/cytotoxic (CD8-positive) lymphocytosis is noted.
-Steroid therapy should be instituted and Cordarone therapy discontinued in these patients.
+## 5.5 Visual Impairment and Loss of Vision
 
-Interstitial/alveolar pneumonitis may result from the release of oxygen radicals and/or phospholipidosis and is characterized by findings of diffuse alveolar damage, interstitial pneumonitis or fibrosis in lung biopsy specimens.
-Phospholipidosis (foamy cells, foamy macrophages), due to inhibition of phospholipase, will be present in most cases of Cordarone-induced pulmonary toxicity; however, these changes also are present in approximately 50% of all patients on Cordarone therapy.
-These cells should be used as markers of therapy, but not as evidence of toxicity.
-A diagnosis of Cordarone-induced interstitial/alveolar pneumonitis should lead, at a minimum, to dose reduction or, preferably, to withdrawal of the Cordarone to establish reversibility, especially if other acceptable antiarrhythmic therapies are available.
-Where these measures have been instituted, a reduction in symptoms of amiodarone-induced pulmonary toxicity was usually noted within the first week, and a clinical improvement was greatest in the first two to three weeks.
-Chest X-ray changes usually resolve within two to four months.
-According to some experts, steroids may prove beneficial.
-Prednisone in doses of 40 to 60 mg/day or equivalent doses of other steroids have been given and tapered over the course of several weeks depending upon the condition of the patient.
-In some cases rechallenge with Cordarone at a lower dose has not resulted in return of toxicity.
+Optic Neuropathy and Optic Neuritis
 
-In a patient receiving Cordarone, any new respiratory symptoms should suggest the possibility of pulmonary toxicity, and the history, physical exam, chest X-ray, and pulmonary-function tests (with diffusion capacity) should be repeated and evaluated.
-A 15% decrease in diffusion capacity has a high sensitivity but only a moderate specificity for pulmonary toxicity; as the decrease in diffusion capacity approaches 30%, the sensitivity decreases but the specificity increases.
-A gallium-scan also may be performed as part of the diagnostic workup.
+Cases of optic neuropathy and optic neuritis, usually resulting in visual impairment and sometimes permanent blindness, have been reported in patients treated with amiodarone and may occur at any time during therapy.
+If symptoms of visual impairment appear, such as changes in visual acuity and decreases in peripheral vision, consider discontinuing CORDARONE and promptly refer for ophthalmic examination.
+Regular ophthalmic examination, including funduscopy and slit-lamp examination, is recommended during administration of CORDARONE [see Adverse Reactions (6.1)].
 
-Fatalities, secondary to pulmonary toxicity, have occurred in approximately 10% of cases.
-However, in patients with life-threatening arrhythmias, discontinuation of Cordarone therapy due to suspected drug-induced pulmonary toxicity should be undertaken with caution, as the most common cause of death in these patients is sudden cardiac death.
-Therefore, every effort should be made to rule out other causes of respiratory impairment (i.e., congestive heart failure with Swan-Ganz catheterization if necessary, respiratory infection, pulmonary embolism, malignancy, etc.) before discontinuing Cordarone in these patients.
-In addition, bronchoalveolar lavage, transbronchial lung biopsy and/or open lung biopsy may be necessary to confirm the diagnosis, especially in those cases where no acceptable alternative therapy is available.
+Corneal Microdeposits
 
-If a diagnosis of Cordarone-induced hypersensitivity pneumonitis is made, Cordarone should be discontinued, and treatment with steroids should be instituted.
-If a diagnosis of Cordarone-induced interstitial/alveolar pneumonitis is made, steroid therapy should be instituted and, preferably, Cordarone discontinued or, at a minimum, reduced in dosage.
-Some cases of Cordarone-induced interstitial/alveolar pneumonitis may resolve following a reduction in Cordarone dosage in conjunction with the administration of steroids.
-In some patients, rechallenge at a lower dose has not resulted in return of interstitial/alveolar pneumonitis; however, in some patients (perhaps because of severe alveolar damage) the pulmonary lesions have not been reversible.
-
-## Worsened Arrhythmia
-
-Cordarone, like other antiarrhythmics, can cause serious exacerbation of the presenting arrhythmia and has been reported in about 2 to 5% in most series, and has included new ventricular fibrillation, incessant ventricular tachycardia, increased resistance to cardioversion, and polymorphic ventricular tachycardia associated with QTc prolongation (Torsade de Pointes [TdP]).
-In addition, Cordarone has caused symptomatic bradycardia or sinus arrest with suppression of escape foci in 2 to 4% of patients.
-The risk of exacerbation may be increased when other risk factors are present such as electrolytic disorders or use of concomitant antiarrhythmics or other interacting drugs (See "Drug Interactions").
-
-Correct hypokalemia, hypomagnesemia or hypocalcemia whenever possible before initiating treatment with CORDARONE, as these disorders can exaggerate the degree of QTc prolongation and increase the potential for TdP.
-Give special attention to electrolyte and acid-base balance in patients experiencing severe or prolonged diarrhea or in patients receiving concomitant diuretics and laxatives, systemic corticosteroids, amphotericin B (IV) or other drugs affecting electrolyte levels.
-
-The need to co-administer amiodarone with any other drug known to prolong the QTc interval must be based on a careful assessment of the potential risks and benefits of doing so for each patient.
-
-## Serious Symptomatic Bradycardia When Co-administered with Ledipasvir/Sofosbuvir or with Sofosbuvir with Simeprevir
-
-Postmarketing cases of symptomatic bradycardia, some requiring pacemaker insertion and at least one fatal, have been reported when ledipasvir/sofosbuvir or sofosbuvir with simeprevir were initiated in patients on amiodarone.
-Bradycardia generally occurred within hours to days, but in some cases up to 2 weeks after initiating antiviral treatment.
-Bradycardia generally resolved after discontinuation of antiviral treatment.
-The mechanism for this effect is unknown.
-Monitor heart rate in patients taking or recently discontinuing amiodarone when starting antiviral treatment.
-
-## Implantable Cardiac Devices
-
-In patients with implanted defibrillators or pacemakers, chronic administration of antiarrhythmic drugs may affect pacing or defibrillating thresholds.
-Therefore, at the inception of and during amiodarone treatment, pacing and defibrillation thresholds should be assessed.
-
-## Thyrotoxicosis
-
-Cordarone-induced hyperthyroidism may result in thyrotoxicosis and/or the possibility of arrhythmia breakthrough or aggravation.
-There have been reports of death associated with amiodarone-induced thyrotoxicosis.
-IF ANY NEW SIGNS OF ARRHYTHMIA APPEAR, THE POSSIBILITY OF HYPERTHYROIDISM SHOULD BE CONSIDERED (see "PRECAUTIONS, Thyroid Abnormalities").
-
-## Liver Injury
-
-Elevations of hepatic enzyme levels are seen frequently in patients exposed to Cordarone and in most cases are asymptomatic.
-If the increase exceeds three times normal, or doubles in a patient with an elevated baseline, discontinuation of Cordarone or dosage reduction should be considered.
-In a few cases in which biopsy has been done, the histology has resembled that of alcoholic hepatitis or cirrhosis.
-Hepatic failure has been a rare cause of death in patients treated with Cordarone.
-
-## Loss of Vision
-
-Cases of optic neuropathy and/or optic neuritis, usually resulting in visual impairment, have been reported in patients treated with amiodarone.
-In some cases, visual impairment has progressed to permanent blindness.
-Optic neuropathy and/or neuritis may occur at any time following initiation of therapy.
-A causal relationship to the drug has not been clearly established.
-If symptoms of visual impairment appear, such as changes in visual acuity and decreases in peripheral vision, prompt ophthalmic examination is recommended.
-Appearance of optic neuropathy and/or neuritis calls for re-evaluation of Cordarone therapy.
-The risks and complications of antiarrhythmic therapy with Cordarone must be weighed against its benefits in patients whose lives are threatened by cardiac arrhythmias.
-Regular ophthalmic examination, including funduscopy and slit-lamp examination, is recommended during administration of Cordarone.
-(See "ADVERSE REACTIONS").
-
-## Neonatal Injury
-
-Amiodarone can cause fetal harm when administered to a pregnant woman.
-Fetal exposure may increase the potential for adverse experiences including cardiac, thyroid, neurodevelopmental, neurological and growth effects in neonate.
-Inform the patient of the potential hazard to the fetus if Cordarone is administered during pregnancy or if the patient becomes pregnant while taking Cordarone.
-
-In pregnant rats and rabbits, amiodarone HCl in doses of 25 mg/kg/day (approximately 0.4 and 0.9 times, respectively, the maximum recommended human maintenance dose600 mg in a 50 kg patient (doses compared on a body surface area basis)) had no adverse effects on the fetus.
-In the rabbit, 75 mg/kg/day (approximately 2.7 times the maximum recommended human maintenance dose) caused abortions in greater than 90% of the animals.
-In the rat, doses of 50 mg/kg/day or more were associated with slight displacement of the testes and an increased incidence of incomplete ossification of some skull and digital bones; at 100 mg/kg/day or more, fetal body weights were reduced; at 200 mg/kg/day, there was an increased incidence of fetal resorption.
-(These doses in the rat are approximately 0.8, 1.6 and 3.2 times the maximum recommended human maintenance dose.)
-Adverse effects on fetal growth and survival also were noted in one of two strains of mice at a dose of 5 mg/kg/day (approximately 0.04 times the maximum recommended human maintenance dose).
-
-# PRECAUTIONS
-
-## Impairment of Vision
-
-### Optic Neuropathy and/or Neuritis
-
-Cases of optic neuropathy and optic neuritis have been reported (see "WARNINGS").
-
-### Corneal Microdeposits
-
-Corneal microdeposits appear in the majority of adults treated with Cordarone.
+Corneal microdeposits appear in the majority of adults treated with CORDARONE.
 They are usually discernible only by slit-lamp examination, but give rise to symptoms such as visual halos or blurred vision in as many as 10% of patients.
 Corneal microdeposits are reversible upon reduction of dose or termination of treatment.
-Asymptomatic microdeposits alone are not a reason to reduce dose or discontinue treatment (see "ADVERSE REACTIONS").
+Asymptomatic microdeposits alone are not a reason to reduce dose or discontinue treatment [see Adverse Reactions (6.1)].
 
-## Neurologic
+## 5.6 Thyroid Abnormalities
 
-Chronic administration of oral amiodarone in rare instances may lead to the development of peripheral neuropathy that may resolve when amiodarone is discontinued, but this resolution has been slow and incomplete.
+CORDARONE inhibits peripheral conversion of thyroxine (T4) to triiodothyronine (T3) and may cause increased thyroxine levels, decreased T3 levels, and increased levels of inactive reverse T3 (rT3) in clinically euthyroid patients.
+CORDARONE can cause either hypothyroidism (reported in up to 10% of patients) or hyperthyroidism (occurring in about 2% of patients).
+Monitor thyroid function prior to treatment and periodically thereafter, particularly in elderly patients, and in any patient with a history of thyroid nodules, goiter, or other thyroid dysfunction.
 
-## Photosensitivity
-
-Cordarone has induced photosensitization in about 10% of patients; some protection may be afforded by the use of sun-barrier creams or protective clothing.
-During long-term treatment, a blue-gray discoloration of the exposed skin may occur.
-The risk may be increased in patients of fair complexion or those with excessive sun exposure, and may be related to cumulative dose and duration of therapy.
-
-## Thyroid Abnormalities
-
-Cordarone inhibits peripheral conversion of thyroxine (T4) to triiodothyronine (T3) and may cause increased thyroxine levels, decreased T3 levels, and increased levels of inactive reverse T3 (rT3) in clinically euthyroid patients.
-It is also a potential source of large amounts of inorganic iodine.
-Because of its release of inorganic iodine, or perhaps for other reasons, Cordarone can cause either hypothyroidism or hyperthyroidism.
-Thyroid function should be monitored prior to treatment and periodically thereafter, particularly in elderly patients, and in any patient with a history of thyroid nodules, goiter, or other thyroid dysfunction.
-Because of the slow elimination of Cordarone and its metabolites, high plasma iodide levels, altered thyroid function, and abnormal thyroid-function tests may persist for several weeks or even months following Cordarone withdrawal.
-
-Hypothyroidism has been reported in 2 to 10% of patients receiving amiodarone and may be primary or subsequent to resolution of preceding amiodarone-induced hyperthyroidism.
-This condition may be identified by clinical symptoms and elevated serum TSH levels.
-Cases of severe hypothyroidism and myxedema coma, sometimes fatal, have been reported in association with amiodarone therapy.
-In some clinically hypothyroid amiodarone-treated patients, free thyroxine index values may be normal.
-Manage hypothyroidism by reducing the dose of or discontinuing Cordarone and considering the need for thyroid hormone supplement.
-
-Hyperthyroidism occurs in about 2% of patients receiving Cordarone, but the incidence may be higher among patients with prior inadequate dietary iodine intake.
-Cordarone-induced hyperthyroidism usually poses a greater hazard to the patient than hypothyroidism because of the possibility of thyrotoxicosis and/or arrhythmia breakthrough or aggravation, all of which may result in death.
-There have been reports of death associated with amiodarone-induced thyrotoxicosis.
-IF ANY NEW SIGNS OF ARRHYTHMIA APPEAR, THE POSSIBILITY OF HYPERTHYROIDISM SHOULD BE CONSIDERED.
-
-Hyperthyroidism is best identified by relevant clinical symptoms and signs, accompanied usually by abnormally elevated levels of serum T3 RIA, and further elevations of serum T4, and a subnormal serum TSH level (using a sufficiently sensitive TSH assay).
-The finding of a flat TSH response to TRH is confirmatory of hyperthyroidism and may be sought in equivocal cases.
-Since arrhythmia breakthroughs may accompany Cordarone-induced hyperthyroidism, aggressive medical treatment is indicated, including, if possible, dose reduction or withdrawal of Cordarone.
-
-The institution of antithyroid drugs, β-adrenergic blockers and/or temporary corticosteroid therapy may be necessary.
-The action of antithyroid drugs may be especially delayed in amiodarone-induced thyrotoxicosis because of substantial quantities of preformed thyroid hormones stored in the gland.
+Hyperthyroidism may induce arrhythmia breakthrough.
+If any new signs of arrhythmia appear, the possibility of hyperthyroidism should be considered.
+Antithyroid drugs, β-adrenergic blockers, temporary corticosteroid therapy may be necessary to treat the symptoms of hyperthyroidism.
+The action of antithyroid drugs may be delayed in amiodarone-induced thyrotoxicosis because of substantial quantities of preformed thyroid hormones stored in the gland.
 Radioactive iodine therapy is contraindicated because of the low radioiodine uptake associated with amiodarone-induced hyperthyroidism.
-Cordarone-induced hyperthyroidism may be followed by a transient period of hypothyroidism (see "WARNINGS, Thyrotoxicosis").
+CORDARONE-induced hyperthyroidism may be followed by a transient period of hypothyroidism.
 
-When aggressive treatment of amiodarone-induced thyrotoxicosis has failed or amiodarone cannot be discontinued because it is the only drug effective against the resistant arrhythmia, surgical management may be an option.
-Experience with thyroidectomy as a treatment for amiodarone-induced thyrotoxicosis is limited, and this form of therapy could induce thyroid storm.
-Therefore, surgical and anesthetic management require careful planning.
+Hypothyrodism may be primary or subsequent to resolution of preceding amiodarone-induced hyperthyroidism.
+Severe hypothyroidism and myxedema coma, sometimes fatal, have been reported in association with amiodarone therapy.
+In some clinically hypothyroid amiodarone-treated patients, free thyroxine index values may be normal.
+Manage hypothyroidism by reducing the dose of or discontinuing CORDARONE and thyroid hormone supplementation.
 
-There have been postmarketing reports of thyroid nodules/thyroid cancer in patients treated with Cordarone.
-In some instances hyperthyroidism was also present (see "WARNINGS" and "ADVERSE REACTIONS").
+## 5.7 Bradycardia
 
-## Surgery
+CORDARONE causes symptomatic bradycardia or sinus arrest with suppression of escape foci in 2 to 4% of patients.
+The risk is increased by electrolytic disorders or use of concomitant antiarrhythmics or negative chronotropes [see Drug Interactions (7)].
+Bradycardia may require a pacemaker for rate control.
 
-### Volatile Anesthetic Agents
+Postmarketing cases of symptomatic bradycardia, some requiring pacemaker insertion and at least one fatal, have been reported when ledipasvir/sofosbuvir or sofosbuvir with simeprevir were initiated in patients on amiodarone.
+Bradycardia generally occurred within hours to days, but in some cases presented up to 2 weeks after initiating antiviral treatment.
+Bradycardia generally resolved after discontinuation of antiviral treatment.
+The mechanism for this effect is unknown.
+Monitor heart rate in patients taking or recently discontinuing amiodarone when starting antiviral treatment [see Drug Interactions (7)].
 
-Close perioperative monitoring is recommended in patients undergoing general anesthesia who are on amiodarone therapy as they may be more sensitive to the myocardial depressant and conduction effects of halogenated inhalational anesthetics.
+## 5.8 Implantable Cardiac Devices
 
-### Hypotension Postbypass
+In patients with implanted defibrillators or pacemakers, chronic administration of antiarrhythmic drugs may affect pacing or defibrillation thresholds.
+Therefore, at the inception of and during amiodarone treatment, pacing and defibrillation thresholds should be assessed.
 
-Rare occurrences of hypotension upon discontinuation of cardiopulmonary bypass during open-heart surgery in patients receiving Cordarone have been reported.
-The relationship of this event to Cordarone therapy is unknown.
+## 5.9 Fetal Toxicity
 
-### Adult Respiratory Distress Syndrome (ARDS)
+CORDARONE may cause fetal harm when administered to a pregnant woman.
+Fetal exposure may increase the potential for cardiac, thyroid, neurodevelopmental, neurological, and growth effects in neonate [see Use in Specific Populations (8.1)].
 
-Postoperatively, occurrences of ARDS have been reported in patients receiving Cordarone therapy who have undergone either cardiac or noncardiac surgery.
-Although patients usually respond well to vigorous respiratory therapy, in rare instances the outcome has been fatal.
-Until further studies have been performed, it is recommended that FiO2 and the determinants of oxygen delivery to the tissues (e.g., SaO2, PaO2) be closely monitored in patients on Cordarone.
+## 5.10 Peripheral Neuropathy
 
-## Corneal Refractive Laser Surgery
+Chronic administration of CORDARONE may lead to peripheral neuropathy, which may not resolve when CORDARONE is discontinued.
 
-Patients should be advised that most manufacturers of corneal refractive laser surgery devices contraindicate that procedure in patients taking Cordarone.
+## 5.11 Photosensitivity and Skin Discoloration
 
-## Information for Patients
+CORDARONE induces photosensitization in about 10% of patients; some protection may be afforded sun-barrier creams or protective clothing.
+During long-term treatment, a blue-gray discoloration of the exposed skin may occur.
+The risk may be increased in patients of fair complexion or those with excessive sun exposure.
+Some reversal of discoloration may occur upon drug discontinuation.
 
-Patients should be instructed to read the accompanying Medication Guide each time they refill their prescription.
-The complete text of the Medication Guide is reprinted at the end of this document.
+## 5.12 Surgery
 
-## Laboratory Tests
+Volatile Anesthetic Agents
 
-Elevations in liver enzymes (aspartate aminotransferase and alanine aminotransferase) can occur.
-Liver enzymes in patients on relatively high maintenance doses should be monitored on a regular basis.
-Persistent significant elevations in the liver enzymes or hepatomegaly should alert the physician to consider reducing the maintenance dose of Cordarone or discontinuing therapy.
-
-Cordarone alters the results of thyroid-function tests, causing an increase in serum T4 and serum reverse T3, and a decline in serum T3 levels.
-Despite these biochemical changes, most patients remain clinically euthyroid.
-
-## Drug Interactions
-
-In view of the long and variable half-life of amiodarone, potential for drug interactions exists, not only with concomitant medication, but also with drugs administered after discontinuation of amiodarone.
-
-### Pharmacodynamic interactions
-
-#### Drugs inducing TdP or prolonging QT
-
-Co-administration of amiodarone with drugs known to prolong the QT interval (such as class I and III antiarrhythmics, lithium, certain phenothiazines, tricyclic antidepressants, certain fluoroquinolone and macrolide antibiotics, IV pentamidine, and azole antifungals) increases the risk of Torsades de Points.
-Avoid concomitant use of drugs that prolong the QT interval.
-
-#### Drugs lowering heart rate or causing automaticity or conduction disorders
-
-Concomitant use of drugs with depressant effects on the sinus and AV node (e.g., digoxin, beta blockers, verapamil, diltiazem, ivabradine, clonidine) can potentiate the electrophysiologic and hemodynamic effects of amiodarone, resulting in bradycardia, sinus arrest, and AV block.
-Monitor heart rate in patients on amiodarone and concomitant drugs that slow heart rate.
-
-### Pharmacokinetic interactions
-
-#### Effects of other medicinal products on amiodarone
-
-Since amiodarone is a substrate for CYP3A and CYP2C8, drugs/substances that inhibit CYP3A (e.g., certain protease inhibitors, loratadine, cimetidine, trazodone) may decrease the metabolism and increase serum concentrations of amiodarone.
-Concomitant use of CYP3A inducers (rifampin, St. John's Wort), may lead to decreased serum concentrations and loss of efficacy.
-Consider serial measurement of amiodarone serum concentration during concomitant use of drugs affecting CYP3A activity.
-
-Grapefruit juice given to healthy volunteers increased amiodarone AUC by 50% and Cmax by 84%, and decreased DEA to unquantifiable concentrations.
-Grapefruit juice inhibits CYP3A-mediated metabolism of oral amiodarone in the intestinal mucosa, resulting in increased plasma levels of amiodarone; therefore, grapefruit juice should not be taken during treatment with oral amiodarone.
-This information should be considered when transitioning from intravenous to oral amiodarone.
-Cholestyramine reduces enterohepatic circulation of amiodarone thereby increasing its elimination.
-This results in reduced amiodarone serum levels and half-life.
-
-#### Effects of amiodarone on other medicinal products
-
-Amiodarone inhibits P-glycoprotein and certain CYP450 enzymes, including CYP1A2, CYP2C9, CYP2D6, and CYP3A.
-This inhibition can result in unexpectedly high plasma levels of other drugs which are metabolized by those CYP450 enzymes or are substrates of P-glycoprotein.
-Reported examples of this interaction include the following:
-
-Cyclosporine (CYP3A substrate) administered in combination with oral amiodarone has been reported to produce persistently elevated plasma concentrations of cyclosporine resulting in elevated creatinine, despite reduction in dose of cyclosporine.
-Monitor cyclosporine drug levels and renal function in patients taking both drugs.
-
-##### HMG-CoA reductase inhibitors
-
-The use of HMG-CoA reductase inhibitors that are CYP3A substrates in combination with amiodarone has been associated with reports of myopathy/rhabdomyolysis.
-Limit the dose of simvastatin in patients on amiodarone to 20 mg daily.
-Limit the daily dose of lovastatin to 40 mg.
-Lower starting and maintenance doses of other CYP3A substrates (e.g., atorvastatin) may be required as amiodarone may increase the plasma concentration of these drugs.
-
-##### Digoxin
-
-In patients receiving digoxin therapy, administration of oral amiodarone results in an increase in the serum digoxin concentration.
-Amiodarone taken concomitantly with digoxin increases the serum digoxin concentration by 70% after one day.
-On initiation of oral amiodarone, the need for digitalis therapy should be reviewed and the dose reduced by approximately 50% or discontinued.
-If digitalis treatment is continued, serum levels should be closely monitored and patients observed for clinical evidence of toxicity.
-
-##### Antiarrhythmics
-
-The metabolism of quinidine, procainamide, flecainide can be inhibited by amiodarone.
-Amiodarone taken concomitantly with quinidine increases quinidine serum concentration by 33% after two days.
-Amiodarone taken concomitantly with procainamide for less than seven days increases plasma concentrations of procainamide and n-acetyl procainamide by 55% and 33%, respectively.
-In general, any added antiarrhythmic drug should be initiated at a lower than usual dose with careful monitoring.
-
-Combination of amiodarone with other antiarrhythmic therapy should be reserved for patients with life-threatening ventricular arrhythmias who are incompletely responsive to a single agent or incompletely responsive to amiodarone.
-During transition to amiodarone the dose levels of previously administered agents should be reduced by 30 to 50% several days after the addition of amiodarone, when arrhythmia suppression should be beginning.
-The continued need for the other antiarrhythmic agent should be reviewed after the effects of amiodarone have been established, and discontinuation ordinarily should be attempted.
-If the treatment is continued, these patients should be particularly carefully monitored for adverse effects, especially conduction disturbances and exacerbation of tachyarrhythmias, as amiodarone is continued.
-In amiodarone-treated patients who require additional antiarrhythmic therapy, the initial dose of such agents should be approximately half of the usual recommended dose.
-
-Metabolism of lidocaine (CYP3A substrate) can be inhibited by amiodarone resulting in increased lidocaine concentrations.
-Sinus bradycardia and seizure has been reported in patients receiving concomitant lidocaine and amiodarone.
-
-##### Anticoagulants
-
-Potentiation of warfarin-type (CYP2C9 and CYP3A substrate) anticoagulant response is almost always seen in patients receiving amiodarone and can result in serious or fatal bleeding.
-Since the concomitant administration of warfarin with amiodarone increases the prothrombin time by 100% after 3 to 4 days, the dose of the anticoagulant should be reduced by one-third to one-half, and prothrombin times should be monitored closely.
-
-A potential interaction between clopidogrel and amiodarone resulting in ineffective inhibition of platelet aggregation has been reported.
-
-Dabigatran etexilate when taken concomitantly with amiodarone may result in elevated serum concentration of dabigatran.
-
-Fentanyl (CYP3A substrate) in combination with amiodarone may cause hypotension, bradycardia, and decreased cardiac output.
-
-Increased steady-state levels of phenytoin during concomitant therapy with amiodarone have been reported.
-Monitor phenytoin levels in patients taking both drugs.
-
-Dextromethorphan is a substrate for both CYP2D6 and CYP3A.
-Amiodarone inhibits CYP2D6 and CYP3A.
-Chronic (>2 weeks) amiodarone treatment impairs metabolism of dextromethorphan leading to increased serum concentration.
-
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
-
-Amiodarone HCl was associated with a statistically significant, dose-related increase in the incidence of thyroid tumors (follicular adenoma and/or carcinoma) in rats.
-The incidence of thyroid tumors was greater than control even at the lowest dose level tested, i.e., 5 mg/kg/day (approximately 0.08 times the maximum recommended human maintenance dose600 mg in a 50 kg patient (dose compared on a body surface area basis)).
-
-Mutagenicity studies (Ames, micronucleus, and lysogenic tests) with Cordarone were negative.
-
-In a study in which amiodarone HCl was administered to male and female rats, beginning 9 weeks prior to mating, reduced fertility was observed at a dose level of 90 mg/kg/day (approximately 1.4 times the maximum recommended human maintenance dose).
-
-## Pregnancy
-
-See "WARNINGS, Neonatal Injury".
-
-### Teratogenic Effects
-
-Amiodarone and desethylamiodarone cross the placenta.
-
-Reported risks include:
-
-- neonatal bradycardia, QT prolongation, and periodic ventricular extrasystoles
-- neonatal hypothyroidism (with or without goiter) detected antenatally or in the newborn and reported even after a few days of exposure
-- neonatal hyperthyroxinemia
-- neurodevelopmental abnormalities independent of thyroid function, including speech delay and difficulties with written language and arithmetic, delayed motor development, and ataxia.
-- jerk nystagmus with synchronous head titubation
-- fetal growth retardation
-- premature birth
-
-## Labor and Delivery
-
-It is not known whether the use of Cordarone during labor or delivery has any immediate or delayed adverse effects.
-Preclinical studies in rodents have not shown any effect of Cordarone on the duration of gestation or on parturition.
-
-## Nursing Mothers
-
-Amiodarone and one of its major metabolites, DEA, are excreted in human milk, suggesting that breast-feeding could expose the nursing infant to a significant dose of the drug.
-Nursing offspring of lactating rats administered amiodarone have been shown to be less viable and have reduced body-weight gains.
-The risk of exposing the infant to amiodarone and DEA must be weighed against the potential benefit of arrhythmia suppression in the mother.
-Advise the mother to discontinue nursing.
-
-## Pediatric Use
-
-The safety and effectiveness of Cordarone Tablets in pediatric patients have not been established.
-
-## Geriatric Use
-
-Clinical studies of Cordarone Tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
-Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
-In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+Patients on CORDARONE therapy may be more sensitive to the myocardial depressant and conduction effects of halogenated inhalational anesthetics.
