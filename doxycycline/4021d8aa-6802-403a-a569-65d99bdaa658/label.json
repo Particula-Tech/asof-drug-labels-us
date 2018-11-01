@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA209844"
+  ],
+  "inn": "doxycycline",
+  "labeler": "Chartwell RX, LLC.",
+  "package_ndcs": [
+    "62135-596-01",
+    "62135-596-87"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "doxycycline hyclate",
+      "name": "LymePak"
+    }
+  ],
+  "setid": "4021d8aa-6802-403a-a569-65d99bdaa658",
+  "source": "dailymed"
+}
