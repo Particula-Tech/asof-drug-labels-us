@@ -1,0 +1,13 @@
+# PRINCIPAL DISPLAY PANEL - 1 g Vial Tray Label
+
+NDC 42023-221-85
+
+Ertapenem Sodium IV/IM
+
+FOR INTRAVENOUS OR INTRAMUSCULAR USE
+
+1 g
+
+Rx only
+
+PREMIERProRx®

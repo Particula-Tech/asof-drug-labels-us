@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021337"
+  ],
+  "inn": "ertapenem",
+  "labeler": "Par Pharmaceutical Inc.",
+  "package_ndcs": [
+    "42023-221-85",
+    "42023-221-89"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "ertapenem sodium",
+      "name": "ERTAPENEM"
+    }
+  ],
+  "setid": "41304b1d-7db4-468a-ab1d-04e56fb50de4",
+  "source": "dailymed"
+}
