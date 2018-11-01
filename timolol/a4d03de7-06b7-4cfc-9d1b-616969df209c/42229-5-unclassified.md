@@ -4,4 +4,6 @@ TIMOPTIC and TIMOPTIC-XE are trademarks of Bausch & Lomb Incorporated or its aff
 
 © Bausch & Lomb Incorporated
 
-P/N
+Revised: 07/2018
+
+9447301
