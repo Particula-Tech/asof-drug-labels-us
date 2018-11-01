@@ -13,7 +13,7 @@ In this setting, B cells may be acting at multiple sites in the autoimmune/infla
 Non-Hodgkin's Lymphoma (NHL)
 
 In NHL patients, administration of RITUXAN resulted in depletion of circulating and tissue-based B cells.
-Among 166 patients in Study 1, circulating CD19-positive B cells were depleted within the first three weeks with sustained depletion for up to 6 to 9 months post treatment in 83% of patients.
+Among 166 patients in Study 1 (NCT000168740), circulating CD19-positive B cells were depleted within the first three weeks with sustained depletion for up to 6 to 9 months post treatment in 83% of patients.
 B-cell recovery began at approximately 6 months and median B-cell levels returned to normal by 12 months following completion of treatment.
 
 There were sustained and statistically significant reductions in both IgM and IgG serum levels observed from 5 through 11 months following rituximab administration; 14% of patients had IgM and/or IgG serum levels below the normal range.
@@ -33,9 +33,12 @@ Treatment with rituximab in patients with RA was associated with reduction of ce
 
 Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis
 
-In GPA and MPA patients, peripheral blood CD19 B-cells depleted to less than 10 cells/μl following the first two infusions of RITUXAN, and remained at that level in most (84%) patients through Month 6.
+In GPA and MPA patients in GPA/MPA Study 1, peripheral blood CD19 B-cells depleted to less than 10 cells/μl following the first two infusions of RITUXAN, and remained at that level in most (84%) patients through Month 6.
 By Month 12, the majority of patients (81%) showed signs of B-cell return with counts >10 cells/μL.
 By Month 18, most patients (87%) had counts >10 cells/μL.
+
+In GPA/MPA Study 2 where patients received non-U.S.-licensed rituximab as two 500 mg intravenous infusions separated by two weeks, followed by a 500 mg intravenous infusion at Month 6, 12, and 18, 70% (30 out of 43) of the rituximab-treated patients with CD19+ peripheral B cells evaluated post-baseline had undetectable CD19+ peripheral B cells at Month 24.
+At Month 24, all 37 patients with evaluable baseline CD19+ peripheral B cells and Month 24 measurements had lower CD19+ B cells relative to baseline.
 
 ## 12.3 Pharmacokinetics
 
@@ -63,7 +66,7 @@ Age, weight and gender had no effect on the pharmacokinetics of rituximab in RA 
 
 Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis
 
-Based on the population pharmacokinetic analysis of data in 97 GPA and MPA patients who received 375 mg/m2 rituximab once weekly by intravenous infusion for four weeks, the estimated median terminal elimination half-life was 23 days (range, 9 to 49 days).
+Based on the population pharmacokinetic analysis of data in 97 GPA and MPA patients in the GPA/MPA Study 1, who received 375 mg/m2 rituximab once weekly by intravenous infusion for four weeks, the estimated median terminal elimination half-life was 23 days (range, 9 to 49 days).
 Rituximab mean clearance and volume of distribution were 0.
 312 L/day (range, 0.115 to 0.728 L/day) and 4.50 L (range, 2.21 to 7.52 L) respectively.
 Male patients and patients with higher BSA or positive anti-rituximab antibody levels have higher clearance.

@@ -141,17 +141,17 @@ Neutropenia was the only Grade 3 or 4 adverse reaction that occurred more freque
 
 DLBCL
 
-In Studies 7 and 8, [see Clinical Studies (14.3)], the following adverse reactions, regardless of severity, were reported more frequently (≥ 5%) in patients age ≥ 60 years receiving R-CHOP as compared to CHOP alone: pyrexia (56% vs. 46%), lung disorder (31% vs. 24%), cardiac disorder (29% vs. 21%), and chills (13% vs. 4%).
+In Studies 7 (NCT00003150) and 8, [see Clinical Studies (14.3)], the following adverse reactions, regardless of severity, were reported more frequently (≥ 5%) in patients age ≥ 60 years receiving R-CHOP as compared to CHOP alone: pyrexia (56% vs. 46%), lung disorder (31% vs. 24%), cardiac disorder (29% vs. 21%), and chills (13% vs. 4%).
 Detailed safety data collection in these studies was primarily limited to Grade 3 and 4 adverse reactions and serious adverse reactions.
 
 In Study 8, a review of cardiac toxicity determined that supraventricular arrhythmias or tachycardia accounted for most of the difference in cardiac disorders (4.5% for R-CHOP vs. 1.0% for CHOP).
 
 The following Grade 3 or 4 adverse reactions occurred more frequently among patients in the R-CHOP arm compared with those in the CHOP arm: thrombocytopenia (9% vs. 7%) and lung disorder (6% vs. 3%).
-Other Grade 3 or 4 adverse reactions occurring more frequently among patients receiving R-CHOP were viral infection (Study 8), neutropenia (Studies 8 and 9), and anemia (Study 9).
+Other Grade 3 or 4 adverse reactions occurring more frequently among patients receiving R-CHOP were viral infection (Study 8), neutropenia (Studies 8 and 9 (NCT00064116)), and anemia (Study 9).
 
 CLL
 
-The data below reflect exposure to RITUXAN in combination with fludarabine and cyclophosphamide in 676 patients with CLL in Study 11 or Study 12 [see Clinical Studies (14.5)].
+The data below reflect exposure to RITUXAN in combination with fludarabine and cyclophosphamide in 676 patients with CLL in Study 11 (NCT00281918) or Study 12 (NCT00090051) [see Clinical Studies (14.5)].
 The age range was 30–83 years and 71% were men.
 Detailed safety data collection in Study 11 was limited to Grade 3 and 4 adverse reactions and serious adverse reactions.
 
@@ -166,7 +166,7 @@ Fifty-nine percent of R-FC-treated patients experienced an infusion reaction of 
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The data presented below reflect the experience in 2578 RA patients treated with RITUXAN in controlled and long-term studies with a total exposure of 5014 patient-years.
+The data presented below reflect the experience in 2578 RA patients treated with RITUXAN in controlled and long-term studiesPooled studies: NCT00074438, NCT00422383, NCT00468546, NCT00299130, NCT00282308, NCT00266227, NCT02693210, NCT02093026 and NCT02097745 with a total exposure of 5014 patient-years.
 
 Among all exposed patients, adverse reactions reported in greater than 10% of patients include infusion reactions, upper respiratory tract infection, nasopharyngitis, urinary tract infection, and bronchitis.
 
@@ -256,7 +256,9 @@ In RA Study 2, where all patients initially received RITUXAN, the safety profile
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The data presented below reflect the experience in 197 patients with GPA and MPA treated with RITUXAN or cyclophosphamide in a single controlled study, which was conducted in two phases: a 6 month randomized, double-blind, double-dummy, active-controlled remission induction phase and an additional 12 month remission maintenance phase.
+Induction Treatment of Patients with Active GPA/MPA (GPA/MPA Study 1)
+
+The data presented below from GPA/MPA Study 1 (NCT00104299) reflect the experience in 197 patients with active GPA and MPA treated with RITUXAN or cyclophosphamide in a single controlled study, which was conducted in two phases: a 6 month randomized, double-blind, double-dummy, active-controlled remission induction phase and an additional 12 month remission maintenance phase [see Clinical Studies (14.7)].
 In the 6-month remission induction phase, 197 patients with GPA and MPA were randomized to either RITUXAN 375 mg/ m2 once weekly for 4 weeks plus glucocorticoids, or oral cyclophosphamide 2 mg/kg daily (adjusted for renal function, white blood cell count, and other factors) plus glucocorticoids to induce remission.
 Once remission was achieved or at the end of the 6 month remission induction period, the cyclophosphamide group received azathioprine to maintain remission.
 The RITUXAN group did not receive additional therapy to maintain remission.
@@ -266,7 +268,7 @@ Adverse reactions presented below in Table 3 were adverse events which occurred 
 This table reflects experience in 99 GPA and MPA patients treated with RITUXAN, with a total of 47.6 patient-years of observation and 98 GPA and MPA patients treated with cyclophosphamide, with a total of 47.0 patient-years of observation.
 Infection was the most common category of adverse events reported (47-62%) and is discussed below.
 
-Table 3 Incidence of All Adverse Reactions Occurring in ≥ 10% of RITUXAN-treated GPA and MPA Patients in the Clinical Study Up to Month 6The study design allowed for crossover or treatment by best medical judgment, and 13 patients in each treatment group received a second therapy during the 6 month study period.
+Table 3 Incidence of All Adverse Reactions Occurring in ≥ 10% of RITUXAN-treated Patients with active GPA and MPA in the GPA/MPA Study 1 Up to Month 6The study design allowed for crossover or treatment by best medical judgment, and 13 patients in each treatment group received a second therapy during the 6 month study period.
 
 | Adverse Reaction | RITUXAN N=99 n (%) | Cyclophosphamide N=98 n (%) |
 | --- | --- | --- |
@@ -289,7 +291,7 @@ Table 3 Incidence of All Adverse Reactions Occurring in ≥ 10% of RITUXAN-treat
 
 Infusion Reactions
 
-Infusion reactions in the active-controlled, double-blind study were defined as any adverse event occurring within 24 hours of an infusion and considered to be infusion-related by investigators.
+Infusion reactions in GPA/MPA Study 1 were defined as any adverse event occurring within 24 hours of an infusion and considered to be infusion-related by investigators.
 Among the 99 patients treated with RITUXAN, 12% experienced at least one infusion reaction, compared with 11% of the 98 patients in the cyclophosphamide group.
 Infusion reactions included cytokine release syndrome, flushing, throat irritation, and tremor.
 In the RITUXAN group, the proportion of patients experiencing an infusion reaction was 12%, 5%, 4%, and 1% following the first, second, third, and fourth infusions, respectively.
@@ -297,7 +299,7 @@ Patients were pre-medicated with antihistamine and acetaminophen before each RIT
 
 Infections
 
-In the active-controlled, double-blind study, 62% (61/99) of patients in the RITUXAN group experienced an infection of any type compared to 47% (46/98) patients in the cyclophosphamide group by Month 6.
+In GPA/MPA Study 1, 62% (61/99) of patients in the RITUXAN group experienced an infection of any type compared to 47% (46/98) patients in the cyclophosphamide group by Month 6.
 The most common infections in the RITUXAN group were upper respiratory tract infections, urinary tract infections, and herpes zoster.
 
 The incidence of serious infections was 11% in the RITUXAN-treated patients and 10% in the cyclophosphamide treated patients, with rates of approximately 25 and 28 per 100 patient-years, respectively.
@@ -305,30 +307,44 @@ The most common serious infection was pneumonia.
 
 Hypogammaglobulinemia
 
-Hypogammaglobulinemia (IgA, IgG or IgM below the lower limit of normal) has been observed in patients with GPA and MPA treated with RITUXAN.
+Hypogammaglobulinemia (IgA, IgG or IgM below the lower limit of normal) has been observed in patients with GPA and MPA treated with RITUXAN in GPA/MPA Study 1.
 At 6 months, in the RITUXAN group, 27%, 58% and 51% of patients with normal immunoglobulin levels at baseline, had low IgA, IgG and IgM levels, respectively compared to 25%, 50% and 46% in the cyclophosphamide group.
 
-Retreatment in Patients with GPA and MPA
+Follow up Treatment of Patients with GPA/MPA who have Achieved Disease Control with Induction Treatment (GPA/MPA Study 2)
 
-In the active-controlled, double-blind study, subsequent courses of RITUXAN were allowed for patients experiencing a relapse of disease.
-The limited data preclude any conclusions regarding the safety of subsequent courses of RITUXAN with GPA and MPA [see Dosage and Administration (2.6), and Warnings and Precautions (5.14)].
+In GPA/MPA Study 2 (NCT00748644), an open-label, controlled, clinical study [See Clinical Studies (14.7)], evaluating the efficacy and safety of non-U.S.-licensed rituximab versus azathioprine as follow up treatment in patients with GPA, MPA or renal-limited ANCA-associated vasculitis who had achieved disease control after induction treatment with cyclophosphamide, a total of 57 GPA and MPA patients in disease remission received follow up treatment with two 500 mg intravenous infusions of non-U.S.-licensed rituximab, separated by two weeks on Day 1 and Day 15, followed by a 500 mg intravenous infusion every 6 months for 18 months.
+
+The safety profile was consistent with the safety profile for RITUXAN in RA and GPA and MPA.
+
+Infusion Reactions
+
+In GPA/MPA Study 2, 7/57 (12%) patients in the non-U.S.-licensed rituximab arm reported infusion-related reactions.
+The incidence of IRR symptoms was highest during or after the first infusion (9%) and decreased with subsequent infusions (<4%).
+One patient had two serious IRRs, two IRRs led to a dose modification, and no IRRs were severe, fatal, or led to withdrawal from the study.
+
+Infections
+
+In GPA/MPA Study 2, 30/57 (53%) patients in the non-U.S.-licensed rituximab arm and 33/58 (57%) in the azathioprine arm reported infections.
+The incidence of all grade infections was similar between the arms.
+The incidence of serious infections was similar in both arms (12%).
+The most commonly reported serious infection in the group was mild or moderate bronchitis.
 
 ## 6.4 Clinical Trials Experience in Pemphigus Vulgaris (PV)
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-A non-U.S.-approved rituximab product in combination with short-term prednisone was compared to that of prednisone monotherapy in a randomized, controlled, multicenter open-label study of 90 patients (74 Pemphigus Vulgaris [PV] patients and 16 Pemphigus Foliaceus [PF] patients) [see Clinical Studies (14.8)].
+Non-U.S.-licensed rituximab in combination with short-term prednisone was compared to prednisone monotherapy in a randomized, controlled, multicenter open-label study of 90 patients (74 Pemphigus Vulgaris [PV] patients and 16 Pemphigus Foliaceus [PF] patients) (NCT00784589) [see Clinical Studies (14.8)].
 Safety results for the PV patient population during the 24-month treatment period are described below.
 
-The safety profile of the non-U.S.-approved rituximab product in patients with PV was consistent with that observed in patients with RITUXAN-treated RA and GPA and MPA [see Adverse Reactions (6.2 and 6.3)].
+The safety profile of the non-U.S.-licensed rituximab in patients with PV was consistent with that observed in patients with RITUXAN-treated RA and GPA and MPA [see Adverse Reactions (6.2 and 6.3)].
 
-Adverse reactions presented below in Table 4 were adverse events which occurred at a rate ≥5% among PV patients treated with a non-U.S.-approved rituximab product and with at least 2% absolute difference in incidence between the group treated with a non-U.S.-approved rituximab product and the prednisone monotherapy group up to Month 24.
-No patients in the group treated with a non-U.S.-approved rituximab product withdrew due to adverse reactions.
+Adverse reactions presented below in Table 4 were adverse events which occurred at a rate ≥5% among PV patients treated with non-U.S.-licensed rituximab and with at least 2% absolute difference in incidence between the group treated with non-U.S.-licensed rituximab and the prednisone monotherapy group up to Month 24.
+No patients in the group treated with non-U.S.-licensed rituximab withdrew due to adverse reactions.
 The clinical study did not include sufficient number of patients to allow for direct comparison of adverse reaction rates between treatment groups.
 
-Table 4 Incidence of All Adverse Reactions Occurring in ≥ 5% Among PV Patients treated with a non-U.S.-approved rituximab product and with at Least 2% Absolute Difference in Incidence Between the Group treated with a non-U.S.-approved rituximab product with Short-term Prednisone and the Group Treated with Prednisone Monotherapy in the Clinical Study Up to Month 24
+Table 4 Incidence of All Adverse Reactions Occurring in ≥ 5% Among PV Patients Treated with Non-U.S.-licensed Rituximab and with at Least 2% Absolute Difference in Incidence Between the Group Treated with Non-U.S.-licensed Rituximab with Short-term Prednisone and the Group Treated with Prednisone Monotherapy in the Clinical Study Up to Month 24
 
-| Adverse Reactions | A non-U.S.-approved rituximab product + short-term prednisone N=38 n (%) | Prednisone N=36 n (%) |
+| Adverse Reactions | Non-U.S.-licensed rituximab + short-term prednisone N=38 n (%) | Prednisone N=36 n (%) |
 | --- | --- | --- |
 | Infusion reactionsInfusion reactions included symptoms collected on the next scheduled visit after each infusion, and adverse reactions occurring on the day of or one day after the infusion. The most common infusion reactions included headaches, chills, high blood pressure, nausea, asthenia, and pain. | 22 (58%) | N/A |
 | Depression | 7 (18%) | 4 (11%) |
@@ -360,9 +376,9 @@ Symptoms of infusion reactions were similar in type and severity to those seen i
 
 Infections
 
-Fourteen patients (37%) in the group treated with a non-U.S.-approved rituximab product experienced treatment-related infections compared to 15 patients (42%) in the prednisone group.
-The most common infections in the group treated with a non-U.S.-approved rituximab product were herpes simplex, herpes zoster, bronchitis, urinary tract infection, fungal infection, and conjunctivitis.
-Three patients (8%) in the group treated with a non-U.S.-approved rituximab product experienced a total of 5 serious infections (Pneumocystis jirovecii pneumonia, infective thrombosis, intervertebral discitis, lung infection, Staphylococcal sepsis) and 1 patient (3%) in the prednisone group experienced 1 serious infection (Pneumocystis jirovecii pneumonia).
+Fourteen patients (37%) in the group treated with non-U.S.-licensed rituximab experienced treatment-related infections compared to 15 patients (42%) in the prednisone group.
+The most common infections in the group treated with non-U.S.-licensed rituximab were herpes simplex, herpes zoster, bronchitis, urinary tract infection, fungal infection, and conjunctivitis.
+Three patients (8%) in the group treated with non-U.S.-licensed rituximab experienced a total of 5 serious infections (Pneumocystis jirovecii pneumonia, infective thrombosis, intervertebral discitis, lung infection, Staphylococcal sepsis) and 1 patient (3%) in the prednisone group experienced 1 serious infection (Pneumocystis jirovecii pneumonia).
 
 ## 6.5 Immunogenicity
 
@@ -379,10 +395,10 @@ Anti-rituximab antibody positivity was not associated with increased rates of in
 Upon further treatment, the proportions of patients with infusion reactions were similar between anti-rituximab antibody positive and negative patients, and most reactions were mild to moderate.
 Four anti-rituximab antibody positive patients had serious infusion reactions, and the temporal relationship between anti-rituximab antibody positivity and infusion reaction was variable.
 
-A total of 23/99 (23%) RITUXAN-treated patients with GPA and MPA tested positive for anti-rituximab antibodies by 18 months.
+A total of 23/99 (23%) RITUXAN-treated patients with GPA and MPA developed anti-rituximab antibodies by 18 months in GPA/MPA Study 1.
 The clinical relevance of anti-rituximab antibody formation in RITUXAN-treated patients is unclear.
 
-Using a new ELISA assay, a total of 19/34 (56%) patients with PV, who were treated with a non-U.S.-approved rituximab product, tested positive for anti-rituximab antibodies by 18 months.
+Using a new ELISA assay, a total of 19/34 (56%) patients with PV, who were treated with non-U.S.-licensed rituximab, tested positive for anti-rituximab antibodies by 18 months.
 The clinical relevance of anti-rituximab antibody formation in RITUXAN-treated PV patients is unclear.
 
 ## 6.6 Postmarketing Experience

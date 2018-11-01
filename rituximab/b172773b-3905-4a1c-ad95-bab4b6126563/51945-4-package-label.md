@@ -12,9 +12,9 @@ For Intravenous Use
 
 100 mg Rx only One 100 mg vial
 
-Jointly Marketed by: Biogen Inc. and Genentech USA, Inc.
+Jointly Marketed by: Biogen and Genentech USA, Inc.
 
-10175017
+10200390
 
 # PRINCIPAL DISPLAY PANEL - 500 mg Vial Carton
 
@@ -26,10 +26,12 @@ Rituximab
 
 500 mg/50 mL (10 mg/mL)
 
+For Intravenous Use
+
 500 mg
 
-For Intravenous Use Rx only One 500 mg vial
+Rx only One 500 mg vial
 
-Jointly Marketed by: Biogen Inc. and Genentech USA, Inc.
+Jointly Marketed by: Biogen and Genentech USA, Inc.
 
-10175018
+10200397

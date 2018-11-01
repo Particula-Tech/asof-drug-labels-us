@@ -121,8 +121,3 @@ Use of concomitant immunosuppressants other than corticosteroids has not been st
 
 While the efficacy of RITUXAN was supported in four controlled trials in patients with RA with prior inadequate responses to non-biologic DMARDs, and in a controlled trial in MTX-naïve patients, a favorable risk-benefit relationship has not been established in these populations.
 The use of RITUXAN in patients with RA who have not had prior inadequate response to one or more TNF antagonists is not recommended [see Clinical Studies (14.6)].
-
-## 5.14 Retreatment in Patients with Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA)
-
-Limited data are available on the safety and efficacy of subsequent courses of RITUXAN in patients with GPA and MPA.
-The safety and efficacy of retreatment with RITUXAN have not been established [see Dosage and Administration (2.6), Adverse Reactions (6.3), and Clinical Studies (14.7)].

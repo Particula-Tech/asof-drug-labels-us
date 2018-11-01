@@ -61,10 +61,18 @@ The recommended dose is:
 
 ## 2.6 Recommended Dose for Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA)
 
-- Administer RITUXAN as a 375 mg/m2 intravenous infusion once weekly for 4 weeks.
+Induction Treatment of Patients with Active GPA/MPA
+
+- Administer RITUXAN as a 375 mg/m2 intravenous infusion once weekly for 4 weeks for patients with active GPA or MPA.
 - Glucocorticoids administered as methylprednisolone 1000 mg intravenously per day for 1 to 3 days followed by oral prednisone 1 mg/kg/day (not to exceed 80 mg/day and tapered per clinical need) are recommended to treat severe vasculitis symptoms.
-  This regimen should begin within 14 days prior to or with the initiation of RITUXAN and may continue during and after the 4 week course of Rituximab treatment.
-- Safety and efficacy of treatment with subsequent courses of RITUXAN have not been established [see Warnings and Precautions (5.14)].
+  This regimen should begin within 14 days prior to or with the initiation of RITUXAN and may continue during and after the 4 week induction course of RITUXAN treatment.
+
+Follow up Treatment of Patients with GPA/MPA who have achieved disease control with induction treatment
+
+- Administer RITUXAN as two 500 mg intravenous infusions separated by two weeks, followed by a 500 mg intravenous infusion every 6 months thereafter based on clinical evaluation.
+- Patients should receive 100 mg intravenous methylprednisolone to be completed 30 minutes prior to each RITUXAN infusion.
+- If induction treatment of active disease was with RITUXAN, follow up treatment with RITUXAN should be initiated within 24 weeks after the last RITUXAN induction infusion or based on clinical evaluation, but no sooner than 16 weeks after the last RITUXAN induction infusion.
+- If induction treatment of active disease was with other standard of care immunosuppressants, RITUXAN follow up treatment should be initiated within the 4 week period that follows achievement of disease control.
 
 ## 2.7 Recommended Dose for Pemphigus Vulgaris (PV)
 
@@ -98,14 +106,14 @@ Do not use vial if particulates or discoloration is present.
 
 Administration
 
-Withdraw the necessary amount of RITUXAN and dilute to a final concentration of 1 mg/mL to 4 mg/mL in an infusion bag containing either 0.9% Sodium Chloride, USP, or 5% Dextrose in Water, USP.
+Withdraw the necessary amount of RITUXAN and dilute to a final concentration of 1 mg/mL to 4 mg/mL in an infusion bag containing either 0.9% Sodium Chloride, USP, or 5% Dextrose Injection, USP.
 Gently invert the bag to mix the solution.
 Do not mix or dilute with other drugs.
 Discard any unused portion left in the vial.
 
 Storage
 
-RITUXAN solutions for infusion may be stored at 2°C–8°C (36°F–46°F) for 24 hours.
-RITUXAN solutions for infusion have been shown to be stable for an additional 24 hours at room temperature.
-However, since RITUXAN solutions do not contain a preservative, diluted solutions should be stored refrigerated (2°C–8°C).
+Diluted RITUXAN solutions for infusion may be stored at 2°C to 8°C (36°F to 46°F) for 24 hours.
+Diluted RITUXAN solutions for infusion have been shown to be stable for an additional 24 hours at room temperature.
+However, since RITUXAN solutions do not contain a preservative, diluted solutions should be stored refrigerated (2°C to 8°C).
 No incompatibilities between RITUXAN and polyvinylchloride or polyethylene bags have been observed.

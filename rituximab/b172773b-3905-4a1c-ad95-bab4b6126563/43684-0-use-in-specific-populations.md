@@ -88,7 +88,7 @@ In exploratory analyses defined by age, there was no observed benefit from the a
 Patients 70 years or older received lower dose intensity of fludarabine and cyclophosphamide compared to younger patients, regardless of the addition of RITUXAN.
 In Study 11, the dose intensity of RITUXAN was similar in older and younger patients, however in Study 12 older patients received a lower dose intensity of RITUXAN.
 
-The incidence of Grade 3 and 4 adverse reactions was higher among patients receiving R-FC who were 70 years or older compared to younger patients for neutropenia [44% vs. 31% (Study 11); 56% vs. 39% (Study 12)], febrile neutropenia [16% vs. 6% (Study 10)], anemia [5% vs. 2% (Study 11); 21% vs. 10% (Study 12)], thrombocytopenia [19% vs. 8% (Study 12)], pancytopenia [7% vs. 2% (Study 11); 7% vs. 2% (Study 12)] and infections [30% vs. 14% (Study 12)].
+The incidence of Grade 3 and 4 adverse reactions was higher among patients receiving R-FC who were 70 years or older compared to younger patients for neutropenia [44% vs. 31% (Study 11); 56% vs. 39% (Study 12)], febrile neutropenia [16% vs. 6% (Study 10 (NCT00719472)], anemia [5% vs. 2% (Study 11); 21% vs. 10% (Study 12)], thrombocytopenia [19% vs. 8% (Study 12)], pancytopenia [7% vs. 2% (Study 11); 7% vs. 2% (Study 12)] and infections [30% vs. 14% (Study 12)].
 
 Rheumatoid Arthritis
 
@@ -98,12 +98,15 @@ The rates of serious adverse reactions, including serious infections, malignanci
 
 Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis
 
-Of the 99 RITUXAN-treated GPA and MPA patients, 36 (36%) were 65 years old and over, while 8 (8%) were 75 years and over.
+Of the 99 RITUXAN-treated GPA and MPA patients in GPA/MPA Study 1, 36 (36%) were 65 years old and over, while 8 (8%) were 75 years and over.
 No overall differences in efficacy were observed between patients that were 65 years old and over and younger patients.
 The overall incidence and rate of all serious adverse events was higher in patients 65 years old and over.
 The clinical study did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger subjects.
 
+In GPA/MPA Study 2, 30 (26%) of the enrolled patients were at least 65 years old, of which 12 patients were exposed to non-U.S.-licensed rituximab and 18 were exposed to azathioprine.
+The clinical study did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger subjects.
+
 Pemphigus Vulgaris
 
-Of the 46 patients treated with a non-U.S.-approved rituximab product, 15 (33%) patients were 65 years of age and older.
+Of the 46 patients treated with non-U.S.-licensed rituximab, 15 (33%) patients were 65 years of age and older.
 The clinical study did not include sufficient numbers of patients aged 65 and older to determine whether they respond differently from younger patients.

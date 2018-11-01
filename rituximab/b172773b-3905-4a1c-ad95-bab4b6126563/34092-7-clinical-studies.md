@@ -195,12 +195,12 @@ Reducing the Signs and Symptoms: Initial and Re-Treatment Courses
 The efficacy and safety of RITUXAN were evaluated in two randomized, double-blind, placebo-controlled studies of adult patients with moderately to severely active RA who had a prior inadequate response to at least one TNF inhibitor.
 Patients were 18 years of age or older, diagnosed with active RA according to American College of Rheumatology (ACR) criteria, and had at least 8 swollen and 8 tender joints.
 
-In RA Study 1, patients were randomized to receive either RITUXAN 2 × 1000 mg + MTX or placebo + MTX for 24 weeks.
+In RA Study 1 (NCT00468546), patients were randomized to receive either RITUXAN 2 × 1000 mg + MTX or placebo + MTX for 24 weeks.
 Further courses of RITUXAN 2 × 1000 mg + MTX were administered in an open label extension study at a frequency determined by clinical evaluation, but no sooner than 16 weeks after the preceding course of RITUXAN.
 In addition to the intravenous premedication, glucocorticoids were administered orally on a tapering schedule from baseline through Day 14.
 The proportions of patients achieving ACR 20, 50, and 70 responses at Week 24 of the placebo-controlled period are shown in Table 10.
 
-In RA Study 2, all patients received the first course of RITUXAN 2 × 1000 mg + MTX.
+In RA Study 2 (NCT00266227), all patients received the first course of RITUXAN 2 × 1000 mg + MTX.
 Patients who experienced ongoing disease activity were randomized to receive a second course of either RITUXAN 2 × 1000 mg + MTX or placebo + MTX, the majority between Weeks 24–28.
 The proportions of patients achieving ACR 20, 50, and 70 responses at Week 24, before the re-treatment course, and at Week 48, after retreatment, are shown in Table 10.
 
@@ -273,7 +273,7 @@ In their second year of treatment with RITUXAN + MTX, more patients had no progr
 
 Lesser Efficacy of 500 Vs. 1000 mg Treatment Courses for Radiographic Outcomes
 
-RA Study 3 is a randomized, double-blind, placebo-controlled study which evaluated the effect of placebo + MTX compared to RITUXAN 2 × 500 mg + MTX and RITUXAN 2 × 1000 mg + MTX treatment courses in MTX-naïve RA patients with moderately to severely active disease.
+RA Study 3 (NCT00299104) is a randomized, double-blind, placebo-controlled study which evaluated the effect of placebo + MTX compared to RITUXAN 2 × 500 mg + MTX and RITUXAN 2 × 1000 mg + MTX treatment courses in MTX-naïve RA patients with moderately to severely active disease.
 Patients received a first course of two infusions of rituximab or placebo on Days 1 and 15.
 MTX was initiated at 7.5 mg/week and escalated up to 20 mg/week by Week 8 in all three treatment arms.
 After a minimum of 24 weeks, patients with ongoing disease activity were eligible to receive re-treatment with additional courses of their assigned treatment.
@@ -282,7 +282,7 @@ However, with respect to radiographic scores, only the RITUXAN 1000 mg treatment
 
 Physical Function Response
 
-RA Study 4 is a randomized, double-blind, placebo-controlled study in adult RA patients with moderately to severely active disease with inadequate response to MTX.
+RA Study 4 (NCT00299130) is a randomized, double-blind, placebo-controlled study in adult RA patients with moderately to severely active disease with inadequate response to MTX.
 Patients were randomized to receive an initial course of RITUXAN 500 mg, RITUXAN 1000 mg, or placebo in addition to background MTX.
 
 Physical function was assessed at Weeks 24 and 48 using the Health Assessment Questionnaire Disability Index (HAQ-DI).
@@ -298,6 +298,8 @@ Table 13 Improvement from Baseline in Health Assessment Questionnaire Disability
 | Percent of patients with "Improved" score (Change from Baseline ≥ MCID)Minimal Clinically Important Difference: MCID for HAQ = 0.22. | 48% | 58% | 11% (0%, 21%) |
 
 ## 14.7 Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA)
+
+Induction Treatment of Patients with Active Disease (GPA/MPA Study 1)
 
 A total of 197 patients with active, severe GPA and MPA (two forms of ANCA Associated Vasculitides) were treated in a randomized, double-blind, active-controlled multicenter, non-inferiority study, conducted in two phases – a 6 month remission induction phase and a 12 month remission maintenance phase.
 Patients were 15 years of age or older, diagnosed with GPA (75% of patients) or MPA (24% of patients) according to the Chapel Hill Consensus conference criteria (1% of the patients had unknown vasculitis type).
@@ -326,24 +328,47 @@ Complete Remission (CR) at 12 and 18 months
 In the RITUXAN group, 44% of patients achieved CR at 6 and 12 months, and 38% of patients achieved CR at 6, 12, and 18 months.
 In patients treated with cyclophosphamide (followed by azathioprine for maintenance of CR), 38% of patients achieved CR at 6 and 12 months, and 31% of patients achieved CR at 6, 12, and 18 months.
 
-Retreatment with RITUXAN
+Retreatment of Flares with RITUXAN
 
-Based upon investigator judgment, 15 patients received a second course of RITUXAN therapy for treatment of relapse of disease activity which occurred between 8 and 17 months after the first course of RITUXAN.
-The limited data preclude any conclusions regarding the efficacy of subsequent courses of RITUXAN in patients with GPA and MPA [see Warnings and Precautions (5.14)].
+Based upon investigator judgment, 15 patients received a second course of RITUXAN therapy for treatment of relapse of disease activity which occurred between 8 and 17 months after the induction treatment course of RITUXAN.
+
+Follow up Treatment of Patients with GPA/MPA who have achieved disease control with other Immunosuppressant (GPA/MPA Study 2)
+
+A total of 115 patients (86 with GPA, 24 with MPA, and 5 with renal-limited ANCA-associated vasculitis) in disease remission were randomized to receive azathioprine (58 patients) or non-U.S.-licensed rituximab (57 patients) in this open-label, prospective, multi-center, randomized, active-controlled study.
+Eligible patients were 21 years and older and had either newly diagnosed (80%) or relapsing disease (20%).
+A majority of the patients were ANCA-positive.
+Remission of active disease was achieved using a combination of glucocorticoids and cyclophosphamide.
+Within a maximum of 1 month after the last cyclophosphamide dose, eligible patients (based on BVAS of 0), were randomized in a 1:1 ratio to receive either non-U.S.-licensed rituximab or azathioprine.
+
+The non-U.S.-licensed rituximab was administered as two 500 mg intravenous infusions separated by two weeks (on Day 1 and Day 15) followed by a 500 mg intravenous infusion every 6 months for 18 months.
+Azathioprine was administered orally at a dose of 2 mg/kg/day for 12 months, then 1.5 mg/kg/day for 6 months, and finally 1 mg/kg/day for 4 months; treatment was discontinued after 22 months.
+Prednisone treatment was tapered and then kept at a low dose (approximately 5 mg per day) for at least 18 months after randomization.
+Prednisone dose tapering and the decision to stop prednisone treatment after month 18 were left at the investigator's discretion.
+
+Planned follow-up was until month 28 (10 or 6 months, respectively, after the last non-U.S.-licensed rituximab infusion or azathioprine dose).
+The primary endpoint was the occurrence of major relapse (defined by the reappearance of clinical and/or laboratory signs of vasculitis activity that could lead to organ failure or damage, or could be life threatening) through month 28.
+
+By month 28, major relapse occurred in 3 patients (5%) in the non-U.S.-licensed rituximab group and 17 patients (29%) in the azathioprine group.
+
+The observed cumulative incidence rate of first major relapse during the 28 months was lower in patients on non-U.S.-licensed rituximab relative to azathioprine (Figure 3).
+
+| Figure 3 Cumulative Incidence Over Time of First Major Relapse |
+| --- |
+| Patients were censored at the last follow-up dates if they had no event |
 
 ## 14.8 Pemphigus Vulgaris (PV)
 
-A non-U.S.-approved rituximab product in combination with short-term prednisone was compared to prednisone monotherapy as first-line treatment in 90 newly diagnosed adult patients with moderate to severe pemphigus (74 Pemphigus Vulgaris [PV] and 16 Pemphigus Foliaceus [PF]) in this randomized, open-label, controlled, multicenter study.
+Non-U.S.-licensed rituximab in combination with short-term prednisone was compared to prednisone monotherapy as first-line treatment in 90 newly diagnosed adult patients with moderate to severe pemphigus (74 Pemphigus Vulgaris [PV] and 16 Pemphigus Foliaceus [PF]) in this randomized, open-label, controlled, multicenter study.
 Patients were between 19 and 79 years of age and had not received prior therapies for pemphigus.
-In the PV population, 5 (13%) patients in the group treated with a non-U.S.-approved rituximab product and 3 (8%) patients in the prednisone group had moderate disease and 33 (87%) patients in the group treated with a non-U.S.-approved rituximab product and 33 (92%) patients in the prednisone group had severe disease according to disease severity defined by Harman's criteria.
+In the PV population, 5 (13%) patients in the group treated with non-U.S.-licensed rituximab and 3 (8%) patients in the prednisone group had moderate disease and 33 (87%) patients in the group treated with non-U.S.-licensed rituximab and 33 (92%) patients in the prednisone group had severe disease according to disease severity defined by Harman's criteria.
 
-Patients were stratified by baseline disease severity (moderate or severe) and randomized 1:1 to receive either the non-U.S.-approved rituximab product and short-term prednisone or long-term prednisone monotherapy.
-Patients were pre-medicated with antihistamine, acetaminophen and methylprednisolone prior to infusion of the non-U.S.-approved rituximab product.
-Patients randomized to the group treated with a non-U.S.-approved rituximab product received an initial intravenous infusion of 1000 mg non-U.S.-approved rituximab product on Study Day 1 in combination with a short-term regimen of 0.5 mg/kg/day oral prednisone tapered off over 3 months if they had moderate disease or 1 mg/kg/day oral prednisone tapered off over 6 months if they had severe disease.
-All patients received a second intravenous infusion of non-U.S.-approved rituximab product 1000 mg on Study Day 15.
-Maintenance infusions of 500 mg non-U.S.-approved rituximab product were administered at Months 12 and 18.
+Patients were stratified by baseline disease severity (moderate or severe) and randomized 1:1 to receive either the non-U.S.-licensed rituximab and short-term prednisone or long-term prednisone monotherapy.
+Patients were pre-medicated with antihistamine, acetaminophen and methylprednisolone prior to infusion of the non-U.S.-licensed rituximab.
+Patients randomized to the group treated with non-U.S.-licensed rituximab received an initial intravenous infusion of 1000 mg non-U.S.-licensed rituximab on Study Day 1 in combination with a short-term regimen of 0.5 mg/kg/day oral prednisone tapered off over 3 months if they had moderate disease or 1 mg/kg/day oral prednisone tapered off over 6 months if they had severe disease.
+All patients received a second intravenous infusion of 1000 mg non-U.S.-licensed rituximab on Study Day 15.
+Maintenance infusions of 500 mg non-U.S.-licensed rituximab were administered at Months 12 and 18.
 Patients randomized to the prednisone monotherapy group received an initial 1 mg/kg/day oral prednisone tapered off over 12 months if they had moderate disease or 1.5 mg/kg/day oral prednisone tapered off over 18 months if they had severe disease.
-Patients in the group treated with a non-U.S.-approved rituximab product who relapsed could receive an additional infusion of non-U.S.-approved rituximab product 1000 mg in combination with reintroduced or escalated prednisone dose.
+Patients in the group treated with non-U.S.-licensed rituximab who relapsed could receive an additional infusion of 1000 mg non-U.S.-licensed rituximab in combination with reintroduced or escalated prednisone dose.
 Maintenance and relapse infusions were administered no sooner than 16 weeks following the previous infusion.
 
 The primary endpoint for the study was complete remission (complete epithelialization and absence of new and/or established lesions) at Month 24 without the use of prednisone therapy for 2 months or more (CRoff for ≥2 months).
@@ -352,7 +377,7 @@ The results of the trial are presented in Table 15.
 
 Table 15 Percentage of Pemphigus Patients in Complete Remission Off Corticosteroid Therapy for Two Months or More (CRoff ≥ 2 months) at Month 24 (Intent-to-Treat Population)
 
-|  | Non-U.S.-approved rituximab product + short-term prednisone N=46 | Prednisone N=44 |
+|  | Non-U.S.-licensed rituximab + short-term prednisone N=46 | Prednisone N=44 |
 | --- | --- | --- |
 | Number of responders (response rate [%]) | 41 (89%) | 15 (34%) |
 | PV patients | 34/38 (90%) | 10/36 (28%) |
