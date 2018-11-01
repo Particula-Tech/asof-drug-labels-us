@@ -2,7 +2,7 @@ Principal Display Panel - Zilretta Cart 32mg Carton Label
 
 NDC 70801-003-01 Rx Only
 
-Zilretta™
+Zilretta ®
 
 (triamcinolone acetonide extended-release injectable suspension)
 
@@ -29,7 +29,7 @@ Principal Display Panel - Zilretta Cart 32mg Professional Carton Label
 
 NDC 70801-003-02 Rx Only
 
-Zilretta™
+Zilretta ®
 
 (triamcinolone acetonide extended-release injectable suspension)
 
@@ -60,7 +60,7 @@ Principal Display Panel - Zilretta 32mg Vial Label
 
 NDC 70801-001-01 Rx Only
 
-Zilretta™
+Zilretta ®
 
 (triamcinolone acetonide extended-release injectable suspension)
 
@@ -76,7 +76,7 @@ Principal Display Panel - Zilretta 32mg Professional Vial Label
 
 NDC 70801-001-02 Rx Only
 
-Zilretta™
+Zilretta ®
 
 (triamcinolone acetonide extended-release injectable suspension)
 
@@ -92,7 +92,7 @@ Principal Display Panel - Zilretta Diluent 5mL Vial Label
 
 NDC 70801-002-01 Rx Only
 
-DILUENT for use with Zilretta™
+DILUENT for use with Zilretta ®
 
 5 mL
 
@@ -106,7 +106,7 @@ Principal Display Panel - Zilretta Diluent 5mL Professional Vial Label
 
 NDC 70801-002-02 Rx Only
 
-DILUENT for use with Zilretta™
+DILUENT for use with Zilretta ®
 
 5 mL
 

@@ -1,6 +1,6 @@
 Instructions for Use
 
-ZILRETTA™ (triamcinolone acetonide extended-release injectable suspension)
+ZILRETTA ® (triamcinolone acetonide extended-release injectable suspension)
 
 For intra-articular injection only
 
@@ -239,4 +239,4 @@ Note: Discard all used components in an appropriate medical waste container acco
 Note: ZILRETTA is for intra-articular use only.
 ZILRETTA is not intended for epidural, intrathecal, intravenous, intraocular, intramuscular, intradermal, or subcutaneous use.
 
-Part Number: 60-005-01 Rev: 10/2017
+Part Number: 60-005-02 Rev: 05/2018
