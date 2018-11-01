@@ -97,9 +97,10 @@ Co-administration of gemfibrozil and repaglinide increases the risk of severe hy
 Dasabuvir: Co-administration of gemfibrozil with dasabuvir increased dasabuvir AUC and Cmax (ratios: 11.3 and 2.01, respectively) due to CYP2C8 inhibition.
 Increased dasabuvir exposure may increase the risk of QT prolongation, therefore, coadministration of gemfibrozil with dasabuvir is contraindicated (see CONTRAINDICATIONS).
 
-Enzalutamide
+Selexipag: Co-administration of gemfibrozil with selexipag doubled exposure to selexipag and increased exposure to the active metabolite by approximately 11-fold.
+Concomitant administration of gemfibrozil with selexipag is contraindicated (see CONTRAINDICATIONS).
 
-In healthy volunteers given a single 160 mg dose of enzalutamide after gemfibrozil 600 mg twice daily, the AUC of enzalutamide plus active metabolite (N-desmethyl enzalutamide) was increased by 2.2 fold and corresponding C was decreased by 16%.
+Enzalutamide:In healthy volunteers given a single 160 mg dose of enzalutamide after gemfibrozil 600 mg twice daily, the AUC of enzalutamide plus active metabolite (N-desmethyl enzalutamide) was increased by 2.2 fold and corresponding Cmax was decreased by 16%.
 Increased enzalutamide exposure may increase the risk of seizures.
 If co-administration is considered necessary, the dose of enzalutamide should be reduced (see WARNINGS).
 
@@ -141,7 +142,7 @@ Peroxisome proliferation has been shown to occur in humans with either of two ot
 Administration of approximately 2 times the human dose (based on surface area) to male rats for 10 weeks resulted in a dose-related decrease of fertility.
 Subsequent studies demonstrated that this effect was reversed after a drug-free period of about eight weeks, and it was not transmitted to the offspring.
 
-## 5. Pregnancy Category C
+## 5. Pregnancy
 
 Gemfibrozil has been shown to produce adverse effects in rats and rabbits at doses between 0.5 and 3 times the human dose (based on surface area).
 There are no adequate and well-controlled studies in pregnant women.
