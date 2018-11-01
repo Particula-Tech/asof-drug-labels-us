@@ -34,7 +34,7 @@ Since there have been rare spontaneous reports of thrombocytopenia from postmark
 
 ## General
 
-Serum potassium should be measured periodically and potassium supplements or potassium-sparing diuretics added if necessary.
+Serum potassium should be measured periodically and potassium supplements or potassium sparing diuretics added if necessary.
 Periodic determinations of other electrolytes are advised in patients treated with high doses or for prolonged periods, particularly in those on low-salt diets.
 
 Hyperuricemia may occur; it has been asymptomatic in cases reported to date.
@@ -53,9 +53,7 @@ The relationship of these occurrences to bumetanide use is not certain.
 
 ## Drug Interactions
 
-### Drugs with Ototoxic Potential
-
-(See WARNINGS)
+### Drugs with Ototoxic Potential (see WARNINGS)
 
 Especially in the presence of impaired renal function, the use of parenterally administered bumetanide in patients to whom aminoglycoside antibiotics are also being given should be avoided, except in life-threatening conditions.
 
@@ -97,14 +95,12 @@ Bumetanide was devoid of mutagenic activity in various strains of Salmonella typ
 An 18-month study showed an increase in mammary adenomas of questionable significance in female rats receiving oral doses of 60 mg/kg/day (2000 times a 2-mg human dose).
 A repeat study at the same doses failed to duplicate this finding.
 
-Reproduction studies were performed to evaluate general reproductive performance and fertility in rats at oral dose levels of 10 mg/kg/day, 30 mg/kg/day, 60 mg/kg/day or 100 mg/kg/day.
+Reproduction studies were performed to evaluate general reproductive performance and fertility in rats at oral dose levels of 10, 30, 60 or 100 mg/kg/day.
 The pregnancy rate was slightly decreased in the treated animals; however, the differences were small and not statistically significant.
 
 ## Pregnancy
 
 ### Teratogenic Effects
-
-#### Pregnancy Category C
 
 Bumetanide is neither teratogenic nor embryocidal in mice when given in doses up to 3400 times the maximum human therapeutic dose.
 
@@ -117,6 +113,7 @@ No fetotoxicity was observed at 1000 to 2000 times the human therapeutic dose.
 In rabbits, a dose-related decrease in litter size and an increase in resorption rate were noted at oral doses of 0.1 mg/kg/day and 0.3 mg/kg/day (3.4 and 10 times the maximum human therapeutic dose).
 A slightly increased incidence of delayed ossification of sternebrae occurred at 0.3 mg/kg/day; however, no such adverse effects were observed at the dose of 0.03 mg/kg/day.
 The sensitivity of the rabbit to bumetanide parallels the marked pharmacologic and toxicologic effects of the drug in this species.
+
 Bumetanide was not teratogenic in the hamster at an oral dose of 0.5 mg/kg/day (17 times the maximum human therapeutic dose).
 Bumetanide was not teratogenic when given intravenously to mice and rats at doses up to 140 times the maximum human therapeutic dose.
 
@@ -133,7 +130,7 @@ As a general rule, nursing should not be undertaken while the patient is on bume
 
 Safety and effectiveness in pediatric patients below the age of 18 have not been established.
 
-In vitro studies using pooled sera from critically ill neonates have shown bumetanide to be a potent displacer of bilirubin (see CLINICAL PHARMACOLOGY, Pediatric Pharmacology).
+In vitro studies using pooled sera from critically ill neonates have shown bumetanide to be a potent displacer of bilirubin (see CLINICAL PHARMACOLOGY: Pediatric Pharmacology).
 The administration of bumetanide could present a particular concern if given to critically ill or jaundiced neonates at risk for kernicterus.
 
 ## Geriatric Use

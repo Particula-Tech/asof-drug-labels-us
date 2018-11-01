@@ -34,8 +34,6 @@ Dispense contents in a tight, light-resistant container as defined in the USP wi
 
 KEEP TIGHTLY CLOSED.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Sandoz Inc. at 1-800-525-8747 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
-
 Manufactured by
 
 Sandoz Inc.
@@ -45,6 +43,6 @@ Princeton, NJ 08540
 46192277
 
 Rev.
-September 2016
+September 2018
 
-MF0128REV09/16
+MF0128REV09/18
