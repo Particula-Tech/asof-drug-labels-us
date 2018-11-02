@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Doxorubicin hydrochloride liposome injection is a sterile, translucent, red liposomal dispersion in 10 mL or 25 mL glass, single use vials.
+Doxorubicin hydrochloride liposome injection is a sterile, translucent, red liposomal dispersion in 10 mL or 25 mL glass, single dose vials.
 Each 10 mL vial contains 20 mg doxorubicin hydrochloride at a concentration of 2 mg/mL.
 Each 25 mL vial contains 50 mg doxorubicin hydrochloride at a concentration of 2 mg/mL.
 The following individually cartoned vials are available:
