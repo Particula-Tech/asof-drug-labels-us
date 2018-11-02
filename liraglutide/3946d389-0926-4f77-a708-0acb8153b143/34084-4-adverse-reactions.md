@@ -67,10 +67,11 @@ Adverse reactions reported in greater than or equal to 2% of Saxenda-treated pat
 | Insomnia | 1.7 | 2.4 |
 | Anxiety | 1.6 | 2.0 |
 
-- •Documented symptomatic (defined as documented symptoms of hypoglycemia in combination with a plasma glucose less than or equal to 70 mg/dL) in patients with type 2 diabetes (Study 2).
-  See text below for further information regarding hypoglycemia in patients with and without type 2 diabetes.
-  T2DM = type 2 diabetes mellitus
-- * Adverse reactions for trials with treatment period up to 56 weeks
+1 Documented symptomatic (defined as documented symptoms of hypoglycemia in combination with a plasma glucose less than or equal to 70 mg/dL) in patients with type 2 diabetes (Study 2).
+See text below for further information regarding hypoglycemia in patients with and without type 2 diabetes.
+T2DM = type 2 diabetes mellitus
+
+* Adverse reactions for trials with treatment period up to 56 weeks
 
 Hypoglycemia
 

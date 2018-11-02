@@ -6,7 +6,7 @@ Liraglutide causes dose-dependent and treatment-duration-dependent thyroid C-cel
 Malignant thyroid C-cell carcinomas were detected in rats and mice.
 It is unknown whether Saxenda will cause thyroid C-cell tumors, including medullary thyroid carcinoma (MTC), in humans, as the human relevance of liraglutide-induced rodent thyroid C-cell tumors has not been determined.
 
-Cases of MTC in patients treated with liraglutide have been reported in the postmarketing period; the data in these reports are insufficient to establish or exclude a causal relationship between MTC and liraglutide use in humans.
+Cases of MTC in patients treated with liraglutide have been reported in the post-marketing period; the data in these reports are insufficient to establish or exclude a causal relationship between MTC and liraglutide use in humans.
 
 Saxenda is contraindicated in patients with a personal or family history of MTC or in patients with MEN 2.
 Counsel patients regarding the potential risk for MTC with the use of Saxenda and inform them of symptoms of thyroid tumors (e.g., a mass in the neck, dysphagia, dyspnea, persistent hoarseness).
@@ -19,7 +19,7 @@ Patients with thyroid nodules noted on physical examination or neck imaging shou
 
 ## 5.2 Acute Pancreatitis
 
-Based on spontaneous postmarketing reports, acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, has been observed in patients treated with liraglutide.
+Based on spontaneous post-marketing reports, acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, has been observed in patients treated with liraglutide.
 After initiation of Saxenda, observe patients carefully for signs and symptoms of pancreatitis (including persistent severe abdominal pain, sometimes radiating to the back and which may or may not be accompanied by vomiting).
 If pancreatitis is suspected, Saxenda should promptly be discontinued and appropriate management should be initiated.
 If pancreatitis is confirmed, Saxenda should not be restarted.
@@ -28,7 +28,8 @@ In Saxenda clinical trials, acute pancreatitis was confirmed by adjudication in 
 In addition, there were 2 cases of acute pancreatitis in Saxenda-treated patients who prematurely withdrew from these clinical trials, occurring 74 and 124 days after the last dose.
 There were 2 additional cases in Saxenda-treated patients, 1 during an off-treatment follow-up period within 2 weeks of discontinuing Saxenda, and 1 that occurred in a patient who completed treatment and was off-treatment for 106 days.
 
-It is unknown whether patients with a history of pancreatitis are at increased risk for pancreatitis while using Saxenda, since these patients were excluded from clinical trials.
+Liraglutide has been studied in a limited number of patients with a history of pancreatitis.
+It is unknown if patients with a history of pancreatitis are at higher risk for development of pancreatitis on Saxenda.
 
 ## 5.3 Acute Gallbladder Disease
 
@@ -57,8 +58,6 @@ Tachycardia was reported as an adverse reaction in 0.6% of Saxenda-treated patie
 
 In a clinical pharmacology trial that monitored heart rate continuously for 24 hours, Saxenda treatment was associated with a heart rate that was 4 to 9 bpm higher than that observed with placebo.
 
-The clinical significance of the heart rate elevation with Saxenda treatment is unclear, especially for patients with cardiac and cerebrovascular disease as a result of limited exposure in these patients in clinical trials.
-
 Heart rate should be monitored at regular intervals consistent with usual clinical practice.
 Patients should inform health care providers of palpitations or feelings of a racing heartbeat while at rest during Saxenda treatment.
 For patients who experience a sustained increase in resting heart rate while taking Saxenda, Saxenda should be discontinued.
@@ -74,11 +73,11 @@ Use caution when initiating or escalating doses of Saxenda in patients with rena
 
 ## 5.7 Hypersensitivity Reactions
 
-There have been reports of serious hypersensitivity reactions (e.g., anaphylactic reactions and angioedema) in patients treated with liraglutide [see Adverse Reactions (6.1, 6.2)].
+There have been reports of serious hypersensitivity reactions (e.g., anaphylactic reactions and angioedema) in patients treated with liraglutide [see Contraindications (4) and Adverse Reactions (6.1, 6.2)].
 If a hypersensitivity reaction occurs, the patient should discontinue Saxenda and other suspect medications and promptly seek medical advice.
 
-Angioedema has also been reported with other GLP-1 receptor agonists.
-Use caution in a patient with a history of angioedema with another GLP-1 receptor agonist because it is unknown whether such patients will be predisposed to angioedema with Saxenda.
+Anaphylaxis and angioedema have been reported with other GLP-1 receptor agonists.
+Use caution in a patient with a history of anaphylaxis or angioedema with another GLP-1 receptor agonist because it is unknown whether such patients will be predisposed to these reactions with Saxenda.
 
 ## 5.8 Suicidal Behavior and Ideation
 

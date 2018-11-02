@@ -4,10 +4,10 @@
 
 Risk Summary
 
-SAXENDA is contraindicated during pregnancy because weight loss offers no potential benefit to a pregnant woman and may result in fetal harm [see Clinical Considerations].
+Saxenda is contraindicated during pregnancy because weight loss offers no potential benefit to a pregnant woman and may result in fetal harm [see Clinical Considerations].
 There are no available data with liraglutide in pregnant women to inform a drug associated risk for major birth defects and miscarriage.
-SAXENDA should not be used during pregnancy.
-If a patient wishes to become pregnant, or pregnancy occurs, treatment with SAXENDA should be discontinued.
+Saxenda should not be used during pregnancy.
+If a patient wishes to become pregnant, or pregnancy occurs, treatment with Saxenda should be discontinued.
 
 Animal reproduction studies identified increased adverse embryofetal developmental outcomes from exposure during pregnancy.
 Liraglutide exposure was associated with early embryonic deaths and an imbalance in some fetal abnormalities in pregnant rats administered liraglutide during organogenesis at doses that approximate clinical exposures at the maximum recommended human dose (MRHD) of 3 mg/day.
@@ -15,9 +15,7 @@ In pregnant rabbits administered liraglutide during organogenesis, decreased fet
 
 The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
 
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage of
-
-clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage of clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
 Clinical Considerations
 
@@ -56,7 +54,7 @@ Risk Summary
 There are no data on the presence of liraglutide in human milk, the effects on the breastfed infant, or effects on milk production.
 Liraglutide was present in the milk of lactating rats (see Data).
 
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for SAXENDA and any potential adverse effects on the breastfed infant from SAXENDA or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Saxenda and any potential adverse effects on the breastfed infant from Saxenda or from the underlying maternal condition.
 
 Data
 
@@ -75,7 +73,7 @@ No overall differences in safety or effectiveness were observed between these pa
 ## 8.6 Renal Impairment
 
 There is limited experience with Saxenda in patients with mild, moderate, and severe renal impairment, including end‑stage renal disease.
-However, there have been postmarketing reports of acute renal failure and worsening of chronic renal failure with liraglutide, which may sometimes require hemodialysis [see Warnings and Precautions (5.6) and Adverse Reactions (6.2)].
+However, there have been post-marketing reports of acute renal failure and worsening of chronic renal failure with liraglutide, which may sometimes require hemodialysis [see Warnings and Precautions (5.6) and Adverse Reactions (6.2)].
 Saxenda should be used with caution in this patient population [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment

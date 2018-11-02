@@ -12,6 +12,4 @@ Limitations of Use
   Saxenda should not be used in combination with any other GLP-1 receptor agonist.
 - •Saxenda has not been studied in patients taking insulin.
   Saxenda and insulin should not be used together [see Warnings and Precautions (5.4)].
-- •The effects of Saxenda on cardiovascular morbidity and mortality have not been established.
 - •The safety and effectiveness of Saxenda in combination with other products intended for weight loss, including prescription drugs, over-the-counter drugs, and herbal preparations, have not been established.
-- •Saxenda has not been studied in patients with a history of pancreatitis [see Warnings and Precautions (5.2)].

@@ -1,7 +1,5 @@
 # Medication Guide
 
-Medication Guide
-
 Saxenda (sax-end-ah) (liraglutide) injection solution for subcutaneous use
 
 What is the most important information I should know about Saxenda?
@@ -41,10 +39,7 @@ Do not use Saxenda if:
   This is a disease where people have tumors in more than one gland in their body.
 - •you are allergic to liraglutide or any of the ingredients in Saxenda.
   See the end of this Medication Guide for a complete list of ingredients in Saxenda.
-
-Symptoms of a serious allergic reaction may include:
-
-- 
+- •Symptoms of a serious allergic reaction may include:
   - •swelling of your face, lips, tongue, or throat
   - •fainting or feeling dizzy
   - •very rapid heartbeat
@@ -113,7 +108,7 @@ Tell your healthcare provider if you take diabetes medicines, especially sulfony
 
 What are the possible side effects of Saxenda?
 
-- •Saxendamay cause serious side effects, including: possible thyroid tumors, including cancer.
+- •Saxenda may cause serious side effects, including: possible thyroid tumors, including cancer.
   See “What is the most important information I should know about Saxenda?”
 - •inflammation of the pancreas (pancreatitis).
   Stop using Saxenda and call your healthcare provider right away if you have severe pain in your stomach area (abdomen) that will not go away, with or without vomiting.
@@ -208,7 +203,7 @@ For information about Saxenda contact: Novo Nordisk Inc. 800 Scudders Mill Road 
 
 Saxenda®, Victoza®, NovoFine®, and NovoTwist® are registered trademarks of Novo Nordisk A/S.
 
-PATENT Information:http://novonordisk-us.com/patients/products/product-patents.html
+PATENT Information: http://novonordisk-us.com/patients/products/product-patents.html
 
 © 2016 Novo Nordisk
 

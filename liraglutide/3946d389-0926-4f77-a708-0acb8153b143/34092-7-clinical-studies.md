@@ -77,7 +77,8 @@ Effect of Saxenda on Body Weight in a 160-week Trial (Study 1, Subset of Patient
 
 The numbers and percentages of patients known to have lost greater than or equal to 5% body weight at week 56 and/or week 160 in Study 1 (patients with abnormal glucose at randomization only) are summarized in Table 5 for descriptive purposes.
 
-- Table 5.Changes in Weight at Week 56 and Week 160 for Study 1 (Subset of Patients with Abnormal Blood Glucose at Randomization)
+1. Table 5.
+   Changes in Weight at Week 56 and Week 160 for Study 1 (Subset of Patients with Abnormal Blood Glucose at Randomization)
 
 |  | SaxendaN=1505 | PlaceboN=749 |
 | --- | --- | --- |
@@ -142,3 +143,18 @@ Based on last observation carried forward method while on study drug
 * Baseline value is the geometric mean
 
 †Values are baseline median, median % change, and the Hodges-Lehmann estimate of the median treatment difference.
+
+Cardiovascular Outcomes Trial of Liraglutide 1.8 mg in Patients with Type 2 Diabetes and Cardiovascular Disease
+
+Liraglutide 1.8 mg (Victoza) is used in the treatment of type 2 diabetes mellitus in adults.
+The efficacy of liraglutide at doses below 3 mg daily has not been established for chronic weight management.
+
+The LEADER trial (NCT01179048) randomized 9340 patients with inadequately controlled type 2 diabetes and cardiovascular disease to liraglutide 1.8 mg or placebo in addition to standard of care treatments for type 2 diabetes for a median duration of 3.5 years.
+Patients either were 50 years of age or older with established, stable cardiovascular, cerebrovascular, peripheral vascular disease, chronic renal failure or chronic heart failure (80% of patients), or were 60 years of age or older and had other specified risk factors of vascular disease (20% of patients).The population was 64% male, 78% Caucasian, 10% Asian and 8% Black; 12% of the population was Hispanic or Latino.
+
+In total, 96.8% of the patients completed the trial; vital status was known at the end of the trial for
+
+99.7%.
+The primary endpoint was the time from randomization to first occurrence of a major adverse cardiovascular event (MACE) defined as: cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke.
+No increased risk for MACE was observed with liraglutide 1.8 mg.
+The total number of primary component MACE endpoints was 1302 (608 [13.0%] with liraglutide 1.8 mg and 694 [14.9%] with placebo).
