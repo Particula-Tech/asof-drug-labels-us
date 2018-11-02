@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "NDA203752"
+  ],
+  "inn": "estradiol",
+  "labeler": "Noven Therapeutics, LLC",
+  "package_ndcs": [
+    "68968-3410-1",
+    "68968-3410-8",
+    "68968-3425-1",
+    "68968-3425-8",
+    "68968-3437-1",
+    "68968-3437-8",
+    "68968-3450-1",
+    "68968-3450-8",
+    "68968-3475-1",
+    "68968-3475-8"
+  ],
+  "products": [
+    {
+      "form": "FILM, EXTENDED RELEASE",
+      "generic": "estradiol",
+      "name": "Estradiol"
+    }
+  ],
+  "setid": "bf185599-2138-4083-9c52-2b95dce09ae0",
+  "source": "dailymed"
+}
