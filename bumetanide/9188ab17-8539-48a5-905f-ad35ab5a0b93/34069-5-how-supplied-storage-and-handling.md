@@ -32,6 +32,8 @@ Store at 20˚ to 25˚C (68˚ to 77˚F); excursions permitted between 15° to 30�
 
 Dispense contents in a tight, light-resistant container as defined in the USP with a child- resistant closure, as required.
 
+Do not take improper broken tablets, if found in the container.
+
 Manufactured by:
 
 Amneal Pharmaceuticals Pvt.
@@ -48,4 +50,4 @@ Amneal Pharmaceuticals LLC
 Bridgewater, NJ 08807
 
 Rev.
-08-2018-01
+10-2018-02
