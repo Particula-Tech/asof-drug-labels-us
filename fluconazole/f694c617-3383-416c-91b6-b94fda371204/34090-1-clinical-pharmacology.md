@@ -16,7 +16,7 @@ Therefore, DIFLUCAN may be taken without regard to meals.
 
 Administration of a single oral 150 mg tablet of DIFLUCAN (fluconazole) to ten lactating women resulted in a mean Cmax of 2.61 µg/mL (range: 1.57 to 3.65 µg/mL).
 
-Steady-state concentrations are reached within 5to 10 days following oral doses of 50to 400 mg given once daily.
+Steady-state concentrations are reached within 5 to 10 days following oral doses of 50 to 400 mg given once daily.
 Administration of a loading dose (on Day 1) of twice the usual daily dose results in plasma concentrations close to steady-state by the second day.
 The apparent volume of distribution of fluconazole approximates that of total body water.
 Plasma protein binding is low (11 to 12%).
@@ -310,15 +310,10 @@ Such cases may require alternative antifungal therapy.
 
 Fluconazole has been shown to be active against most isolates of the following microorganisms both in vitro and in clinical infections.
 
-Candida albicans Candida glabrata (Many isolates are intermediately susceptible)* In a majority of the studies, fluconazole MIC90 values against C. glabrata were above the susceptible breakpoint (≥16 mcg/mL).
-Resistance in Candida glabrata usually includes upregulation of CDR genes resulting in resistance to multiple azoles.
-For an isolate where the MIC is between 16 to 32 mcg/mL, (see Table 1), the highest dose is recommended.
-(See DOSAGE AND ADMINISTRATION.)
-For resistant isolates, alternative therapy is recommended.
-Candida parapsilosis Candida tropicalis Cryptococcus neoformans
+Candida albicans Candida glabrata (Many isolates are intermediately susceptible) Candida parapsilosis Candida tropicalis Cryptococcus neoformans
 
 The following in vitro data are available, but their clinical significance is unknown.
-At least 90% of the following fungi exhibit an in vitro MIC less than or equal to the susceptible breakpoint for fluconazole against isolates of similar genus or organism group.
+At least 90% of the following fungi exhibit an in vitro MIC less than or equal to the susceptible breakpoint for fluconazole (https://www.fda.gov/STIC) against isolates of similar genus or organism group.
 However, the effectiveness of fluconazole in treating clinical infections due to these fungi has not been established in adequate and well-controlled clinical trials.
 
 Candida dubliniensis Candida guilliermondii Candida kefyr Candida lusitaniae
@@ -329,61 +324,6 @@ Resistance in C. krusei appears to be mediated by reduced sensitivity of the tar
 There have been reports of cases of superinfection with Candida species other than C. albicans, which are often inherently not susceptible to DIFLUCAN (e.g., Candida krusei).
 Such cases may require alternative antifungal therapy.
 
-### Susceptibility Testing Methods
+### Susceptibility Testing
 
-#### Cryptococcus neoformans and filamentous fungi
-
-No interpretive criteria have been established for Cryptococcus neoformans and filamentous fungi.
-
-#### Candida species
-
-The interpretive standards for fluconazole against Candida species are applicable only to tests performed using Clinical and Laboratory Standards Institute (CLSI) broth dilution reference method M27 for MIC read at 24 hours or disk diffusion reference method M44 for zone diameter read at 24 hours.1–3
-
-##### Dilution Techniques
-
-Quantitative methods are used to determine antifungal MICs.
-These MICs provide estimates of the susceptibility of Candida spp. to antifungal compounds.
-The MICs should be determined using a standardized test method at 24 hours1,2 (broth dilution).
-The MIC values should be interpreted according to the criteria provided in Table 1.
-
-##### Diffusion Techniques
-
-Qualitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of Candida spp. to an antifungal compound.
-The zone size should be determined using a standard test method.3 This procedure uses paper disks impregnated with 25 mcg of fluconazole to test the susceptibility of yeasts to fluconazole.
-The disk diffusion interpretive criteria are provided in Table 1.
-
-Table 1: Susceptibility Interpretive Criteria for Fluconazole against Candida species
-
-|  | Susceptible (S) | Intermediate (I) | Resistant (R) | Susceptible (S) | Intermediate (I) | Resistant (R) |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | Broth Microdilution at 24 hours (MIC in mcg/mL) |  |  | Disk Diffusion at 24 hoursIsolates of C. krusei are assumed to be intrinsically resistant to fluconazole and their MICs and/or zone diameters should not be interpreted using this scale. (Zone Diameters in mm) |  |  |
-| C. albicans | ≤2 | 4 | ≥8 | ≥17 | 14–16 | ≤13 |
-| C. glabrata | - | ≤32 | ≥64 | - | ≥15 | ≤14 |
-| C. parapsilosis | ≤2 | 4 | ≥8 | ≥17 | 14–16 | ≤13 |
-| C. tropicalis | ≤2 | 4 | ≥8 | ≥17 | 14–16 | ≤13 |
-| ** The intermediate category is sometimes called Susceptible-Dose Dependent (SDD) and both categories are equivalent for fluconazole. |  |  |  |  |  |  |
-
-A report of Susceptible (S) indicates that the antimicrobial drug is likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
-
-A report of Intermediate (I) indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
-This category implies possible clinical applicability in body sites where the drugs are physiologically concentrated or when a high dosage of drug is used.
-This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-
-A report of Resistant (R) indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentrations usually achievable at the infection site; other therapy should be selected.
-
-### Quality Control
-
-Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the tests.1–3 Standardized fluconazole powder should provide the following range of MIC values noted in Table 2.
-For the diffusion technique using the 25 mcg disks, the criteria in Table 2 should be achieved.
-
-NOTE: Quality control microorganisms are specific strains of organisms with intrinsic biological properties relating to resistance mechanisms and their genetic expression within fungi; the specific strains used for microbiological control are not clinically significant.
-
-Table 2: Acceptable Quality Control Ranges for Fluconazole to be Used in Validation of Susceptibility Test Results
-
-| QC Strain | Macrodilution (MIC in mcg/mL) @ 48 hours | Microdilution (MIC in mcg/mL) @ 24 hours | Microdilution (MIC in mcg/mL) @ 48 hours | Disk Diffusion (Zone Diameter in mm) @ 24 hours |
-| --- | --- | --- | --- | --- |
-| Candida parapsilosis ATCC 22019 | 2.0–8.0 | 0.5–4.0 | 1.0–4.0 | 22–33 |
-| Candida krusei ATCC 6258 | 16–64 | 8.0–64.0 | 16–128 | ---Quality control ranges have not been established for this strain/antifungal agent combination due to their extensive interlaboratory variation during initial quality control studies. |
-| Candida albicans ATCC 90028 | 0.25–1.0 | --- | --- | 28–39 |
-| Candidia albicans ATCC 24433 | 0.25–1.0 | --- |  |  |
-| Candida tropicalis ATCC 750 | 1.0–4.0 | --- | --- | 26–37 |
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.

@@ -390,7 +390,7 @@ However, there was no consistent difference between the older and younger patien
 Of the most frequently reported (>1%) side effects, rash, vomiting, and diarrhea occurred in greater proportions of older patients.
 Similar proportions of older patients (2.4%) and younger patients (1.5%) discontinued fluconazole therapy because of side effects.
 In post-marketing experience, spontaneous reports of anemia and acute renal failure were more frequent among patients 65 years of age or older than in those between 12 and 65 years of age.
-Because of the voluntary nature of the reports and the natural increase in the incidence of anemia and renal failure in the elderly, it is however not possible to establish a casual relationship to drug exposure.
+Because of the voluntary nature of the reports and the natural increase in the incidence of anemia and renal failure in the elderly, it is however not possible to establish a causal relationship to drug exposure.
 
 Controlled clinical trials of fluconazole did not include sufficient numbers of patients aged 65 and older to evaluate whether they respond differently from younger patients in each indication.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
