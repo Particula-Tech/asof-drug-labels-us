@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA207241"
+  ],
+  "inn": "leucovorin",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "63323-631-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "leucovorin calcium",
+      "name": "Leucovorin calcium"
+    }
+  ],
+  "setid": "d5d4f0fd-7520-43a9-9acc-f7e117e1f6ee",
+  "source": "dailymed"
+}
