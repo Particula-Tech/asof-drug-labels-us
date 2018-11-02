@@ -9,3 +9,5 @@ Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/5%
 45g
 
 For External Use Only
+
+The following image is a placeholder representing the product identifier that is either affixed or imprinted on the drug package label during the packaging operation.
