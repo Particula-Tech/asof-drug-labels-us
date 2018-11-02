@@ -218,63 +218,8 @@ Gram-positive bacteria:
 - Streptococcus agalactiae
 - Streptococcus intermedius
 
-Susceptibility Test Methods
+Susceptibility Testing
 
-When available, the clinical microbiology laboratory should provide cumulative reports of in vitro susceptibility test results for antimicrobial drugs used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
-These reports should aid the physician in selecting an antibacterial drug for treatment.
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for ceftolozane and tazobactam, please see:
 
-Dilution Techniques:
-
-Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
-Ceftolozane and tazobactam susceptibility testing is performed with a fixed 4 mcg/mL concentration of tazobactam.
-These MICs provide estimates of the susceptibility of bacteria to antibacterial compounds.
-The MICs should be determined using a standardized test method (broth, and/or agar).1,4 The MIC values should be interpreted according to the criteria in Table 7.
-
-Diffusion Techniques:
-
-Quantitative methods that require measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-The zone size should be determined using a standardized test method.2,4 This procedure uses paper disks impregnated with 30 mcg of ceftolozane and 10 mcg of tazobactam to test the susceptibility of bacteria to ceftolozane and tazobactam.
-The disk diffusion should be interpreted according to the criteria in Table 7.
-
-Anaerobic Techniques:
-
-For anaerobic bacteria, the susceptibility to ceftolozane and tazobactam can be determined by standardized test method.3 The MIC values obtained should be interpreted according to criteria provided in Table 7.
-
-Table 7: Susceptibility Test Interpretive Criteria for Ceftolozane/Tazobactam
-
-| S | I | R | S | I | R |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Pathogen | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion Zone Diameter (mm) |  |  |
-| Enterobacteriaceae | ≤2/4 | 4/4 | ≥8/4 | ≥21 | 18-20 | ≤17 |
-| Pseudomonas aeruginosa | ≤4/4 | 8/4 | ≥16/4 | ≥21 | 17-20 | ≤16 |
-| Streptococcus anginosus Streptococcus constellatus and Streptococcus salivarius | ≤8/4 | 16/4 | ≥32/4 | --- | --- | --- |
-| Bacteroides fragilis | ≤8/4 | 16/4 | ≥32/4 | --- | --- | --- |
-| S = susceptible, I = intermediate, R = resistant |  |  |  |  |  |  |
-
-A report of Susceptible (S) indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
-A report of Intermediate (I) indicates that the result should be considered equivocal, and if the microorganism is not fully susceptible to alternative clinically feasible drugs, the test should be repeated.
-This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where a high dose of the drug can be used.
-This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of Resistant (R) indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentrations usually achievable at the infection site; other therapy should be selected.
-
-Quality Control
-
-Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.1,2,3,4 Standard ceftolozane and tazobactam powder should provide the following range of MIC values provided in Table 8.
-For the diffusion technique using the 30 mcg ceftolozane/10 mcg tazobactam disk, the criteria provided in Table 8 should be achieved.4
-
-Table 8: Acceptable Quality Control Ranges for Ceftolozane/Tazobactam
-
-| Quality Control Strain | Minimum Inhibitory Concentrations (mcg/mL) | Disk Diffusion (Zone Diameters in mm) |
-| --- | --- | --- |
-| Escherichia coli ATCC 25922 | 0.12/4-0.5/4 | 24-32 |
-| Escherichia coliStore E. coli ATCC 35218 and K. pneumoniae ATCC 700603 stock cultures at -60°C or below and prepare working stock cultures weekly. ATCC 35218 | 0.06/4-0.25/4 | 25-31 |
-| Pseudomonas aeruginosa ATCC 27853 | 0.25/4-1/4 | 25-31 |
-| Staphylococcus aureus ATCC 25923 | Not Applicable | 10-18 |
-| Staphylococcus aureus ATCC 29213 | 16/4-64/4 | Not Applicable |
-| Haemophilus influenzaeThis strain may lose its plasmid and develop susceptibility to beta-lactam antimicrobial agents after repeated transfers onto culture media. Minimize by removing new culture from storage at least monthly or whenever the strain begins to show increased zone diameters to ampicillin, piperacillin, or ticarcillin. ATCC 49247 | 0.5/4-2/4 | 23-29 |
-| Klebsiella pneumoniae ATCC 700603 | 0.5/4-2/4 | 17-25 |
-| Streptococcus pneumoniae ATCC 49619 | 0.25/4-1/4 | 21-29 |
-| Bacteroides fragilis ATCC 25285 (agar and broth) | 0.12/4-1/4 | Not Applicable |
-| Bacteroides thetaiotaomicron ATCC 29741 (agar) | 16/4-128/4 | Not Applicable |
-| Bacteroides thetaiotaomicron ATCC 29741 (broth) | 16/4-64/4 | Not Applicable |
-| ATCC = American Type Culture Collection |  |  |
+https://www.fda.gov/STIC.
