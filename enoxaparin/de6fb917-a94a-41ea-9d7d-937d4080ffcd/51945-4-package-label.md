@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 30 mg/0.3 mL Syringe Carton
+# PRINCIPAL DISPLAY PANEL - 30 mg/0.3 mL Syringe Blister Pack Carton
 
 NDC 0075-8013-10
 
@@ -16,7 +16,7 @@ Ten 0.3mL Syringes
 
 PREMIERProRx®
 
-# PRINCIPAL DISPLAY PANEL - 40 mg/0.4 mL Syringe Carton
+# PRINCIPAL DISPLAY PANEL - 40 mg/0.4 mL Syringe Blister Pack Carton
 
 NDC 0075-8014-10
 
@@ -34,7 +34,7 @@ Ten 0.4mL Syringes
 
 PREMIERProRx®
 
-# PRINCIPAL DISPLAY PANEL - 60 mg/0.6 mL Syringe Carton
+# PRINCIPAL DISPLAY PANEL - 60 mg/0.6 mL Syringe Blister Pack Carton
 
 NDC 0075-8016-10
 
@@ -52,7 +52,7 @@ Ten 0.6mL Syringes
 
 PREMIERProRx®
 
-# PRINCIPAL DISPLAY PANEL - 80 mg/0.8 mL Syringe Carton
+# PRINCIPAL DISPLAY PANEL - 80 mg/0.8 mL Syringe Blister Pack Carton
 
 NDC 0075-8018-10
 
@@ -70,7 +70,7 @@ Ten 0.8mL Syringes
 
 PREMIERProRx®
 
-# PRINCIPAL DISPLAY PANEL - 100 mg/1 mL Syringe Carton
+# PRINCIPAL DISPLAY PANEL - 100 mg/1 mL Syringe Blister Pack Carton
 
 NDC 0075-8020-10
 
@@ -88,7 +88,7 @@ Ten 1mL Syringes
 
 PREMIERProRx®
 
-# PRINCIPAL DISPLAY PANEL - 300 mg/3 mL Vial Carton
+# PRINCIPAL DISPLAY PANEL - 3 mL Vial Carton
 
 NDC 0075-8030-01
 
@@ -106,7 +106,7 @@ One 3mL Vial
 
 PREMIERProRx®
 
-# PRINCIPAL DISPLAY PANEL - 120 mg/0.8 mL Syringe Carton
+# PRINCIPAL DISPLAY PANEL - 120 mg/0.8 mL Syringe Blister Pack Carton
 
 NDC 0075-8022-10
 
@@ -124,7 +124,7 @@ Ten 0.8mL Syringes
 
 PREMIERProRx®
 
-# PRINCIPAL DISPLAY PANEL - 150 mg/1 mL Syringe Carton
+# PRINCIPAL DISPLAY PANEL - 150 mg/1 mL Syringe Blister Pack Carton
 
 NDC 0075-8025-10
 
