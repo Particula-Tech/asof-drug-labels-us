@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021372"
+  ],
+  "inn": "palonosetron",
+  "labeler": "Helsinn Therapeutics (U.S.), Inc.",
+  "package_ndcs": [
+    "69639-103-01",
+    "69639-103-05"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "palonosetron hydrochloride",
+      "name": "Aloxi"
+    }
+  ],
+  "setid": "795f386e-2b44-5092-e053-2991aa0a5820",
+  "source": "dailymed"
+}
