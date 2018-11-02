@@ -12,6 +12,8 @@ One complete course of therapy in a convenient, prefilled, and disposable applic
 
 NET WT 5.8 g
 
+The following image is a placeholder representing the product identifier that is either affixed or imprinted on the drug package label during the packaging operation.
+
 # PACKAGE/LABEL DISPLAY PANEL – Professional Sample – Not to be Sold
 
 Clindesse®
@@ -27,3 +29,5 @@ This applicator delivers approximately 5 g of vaginal cream containing approxima
 One complete course of therapy in a convenient, prefilled, and disposable applicator.
 
 NET WT 5.8 g
+
+The following image is a placeholder representing the product identifier that is either affixed or imprinted on the drug package label during the packaging operation.
