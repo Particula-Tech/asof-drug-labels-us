@@ -31,7 +31,7 @@
     Circulation.
     2006;113:2425-2434.
 
-CombiPatch® is a registered trademark of Noven Pharmaceuticals, Inc.
+CombiPatch ® is a registered trademark of Noven Pharmaceuticals, Inc.
 
 Manufactured by: Noven Pharmaceuticals Inc. Miami, FL 33186
 

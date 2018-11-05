@@ -29,12 +29,12 @@ Mean (SD) Serum Estradiol and Estrone Concentrations (pg/mL) at Steady-State (Un
 
 | Estradiol |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| System Size | Dose Estradiol/NETA (mg per day) | Cmax | Cmin | Cavg |
-| 9 cm2 | 0.05/0.14 | 71 (32) | 27 (17) | 45 (21) |
-| 16 cm2 | 0.05/0.25 | 71 (30) | 37 (17) | 50 (21) |
+| System Size | Dose Estradiol/NETA (mg per day) | C max | C min | C avg |
+| 9 cm 2 | 0.05/0.14 | 71 (32) | 27 (17) | 45 (21) |
+| 16 cm 2 | 0.05/0.25 | 71 (30) | 37 (17) | 50 (21) |
 | Estrone |  |  |  |  |
-| 9 cm2 | 0.05/0.14 | 72 (23) | 49 (19) | 54 (19) |
-| 16 cm2 | 0.05/0.25 | 78 (22) | 58 (22) | 60 (18) |
+| 9 cm 2 | 0.05/0.14 | 72 (23) | 49 (19) | 54 (19) |
+| 16 cm 2 | 0.05/0.25 | 78 (22) | 58 (22) | 60 (18) |
 
 Norethindrone: Progestins used in hormone therapy are well absorbed through the skin, mucous membranes, and gastrointestinal tract.
 Norethindrone steady-state concentrations are attained within 24 hours of application of the CombiPatch transdermal delivery systems.
@@ -47,10 +47,10 @@ The corresponding pharmacokinetic parameters are summarized in Table 2.
 Table 2.
 Mean (SD) Serum Norethindrone Concentrations (pg/mL) at Steady-State
 
-| System Size | Dose Estradiol/NETA (mg per day) | Cmax | Cmin | Cavg |
+| System Size | Dose Estradiol/NETA (mg per day) | C max | C min | C avg |
 | --- | --- | --- | --- | --- |
-| 9 cm2 | 0.05/0.14 | 617 (341) | 386 (137) | 489 (244) |
-| 16 cm2 | 0.05/0.25 | 1060 (543) | 686 (306) | 840 (414) |
+| 9 cm 2 | 0.05/0.14 | 617 (341) | 386 (137) | 489 (244) |
+| 16 cm 2 | 0.05/0.25 | 1060 (543) | 686 (306) | 840 (414) |
 
 Distribution
 
