@@ -21,7 +21,7 @@ The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusi
 The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression [see Clinical Studies (14.2)].
 
 When administering KEYTRUDA in combination with chemotherapy, KEYTRUDA should be administered prior to chemotherapy when given on the same day [see Clinical Studies (14.2)].
-See also the Prescribing Information for pemetrexed and carboplatin or cisplatin, as appropriate.
+See also the Prescribing Information for the chemotherapy agents administered in combination with KEYTRUDA, as appropriate.
 
 ## 2.4 Recommended Dosage for HNSCC
 

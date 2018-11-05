@@ -20,7 +20,7 @@ In addition, these data reflect exposure to KEYTRUDA as a single agent in a non-
 Across all trials, KEYTRUDA was administered at doses of 2 mg/kg intravenously every 3 weeks, 10 mg/kg intravenously every 2 weeks, 10 mg/kg intravenously every 3 weeks, or 200 mg intravenously every 3 weeks.
 Among the 2799 patients, 41% were exposed for 6 months or more and 21% were exposed for 12 months or more.
 
-The data described in this section were obtained in five randomized, active-controlled clinical trials (KEYNOTE-002, KEYNOTE-006, KEYNOTE-010, KEYNOTE-045, and KEYNOTE-189) in which KEYTRUDA was administered to 912 patients with melanoma, 1087 patients with NSCLC, and 542 patients with urothelial carcinoma, and six non-randomized, open-label trials (KEYNOTE-012, KEYNOTE-087, KEYNOTE-170, KEYNOTE-052, KEYNOTE-059, and KEYNOTE-158) in which KEYTRUDA was administered to 192 patients with HNSCC, 210 patients with cHL, 53 patients with PMBCL, 370 patients with urothelial carcinoma, 259 patients with gastric cancer, and 98 patients with cervical cancer.
+The data described in this section were obtained in six randomized, controlled clinical trials (KEYNOTE-002, KEYNOTE-006, KEYNOTE-010, KEYNOTE-045, KEYNOTE-189, and KEYNOTE-407) in which KEYTRUDA was administered to 912 patients with melanoma, 1188 patients with NSCLC, and 542 patients with urothelial carcinoma, and six non-randomized, open-label trials (KEYNOTE-012, KEYNOTE-087, KEYNOTE-170, KEYNOTE-052, KEYNOTE-059, and KEYNOTE-158) in which KEYTRUDA was administered to 192 patients with HNSCC, 210 patients with cHL, 53 patients with PMBCL, 370 patients with urothelial carcinoma, 259 patients with gastric cancer, and 98 patients with cervical cancer.
 In these trials, KEYTRUDA was administered at 2 mg/kg every 3 weeks, 200 mg every 3 weeks, or 10 mg/kg every 2 or 3 weeks.
 
 Melanoma
@@ -210,6 +210,23 @@ Table 6: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of 
 | Lymphopenia | 64 | 22 | 64 | 25 |
 | Neutropenia | 48 | 20 | 41 | 19 |
 | Thrombocytopenia | 30 | 12 | 29 | 8 |
+
+First-line treatment of metastatic squamous NSCLC with carboplatin and either paclitaxel or nab-paclitaxel chemotherapy
+
+The safety of KEYTRUDA in combination with carboplatin and investigator's choice of either paclitaxel or nab-paclitaxel was investigated in Study KEYNOTE-407, a multicenter, double-blind, randomized (1:1), placebo-controlled trial in 558 patients with previously untreated, metastatic squamous NSCLC.
+Safety data are available for the first 203 patients who received KEYTRUDA and chemotherapy (n=101) or placebo and chemotherapy (n=102).
+Patients with autoimmune disease that required systemic therapy within 2 years of treatment; a medical condition that required immunosuppression; or who had received more than 30 Gy of thoracic radiation within the prior 26 weeks were ineligible [see Clinical Studies (14.2)].
+
+The median duration of exposure to KEYTRUDA was 7 months (range: 1 day to 12 months).
+Sixty-one percent of patients in the KEYTRUDA arm were exposed to KEYTRUDA for ≥6 months.
+A total of 139 of 203 patients (68%) received paclitaxel and 64 patients (32%) received nab-paclitaxel in combination with carboplatin.
+The study population characteristics were: median age of 65 years (range: 40 to 83); 52% age 65 or older; 78% male; 83% White; and 9% with history of brain metastases.
+
+KEYTRUDA was discontinued for adverse reactions in 15% of patients, with no single type of adverse reaction accounting for the majority.
+Adverse reactions leading to interruption of KEYTRUDA occurred in 43% of patients; the most common (≥2%) were thrombocytopenia (20%), neutropenia (11%), anemia (6%), asthenia (2%), and diarrhea (2%).
+The most frequent (≥2%) serious adverse reactions were febrile neutropenia (6%), pneumonia (6%), and urinary tract infection (3%).
+
+The adverse reactions observed in KEYNOTE-407 were similar to those observed in KEYNOTE-189 with the exception that increased incidences of alopecia (47% vs. 36%) and peripheral neuropathy (31% vs. 25%) were observed in the KEYTRUDA and chemotherapy arm compared to the placebo and chemotherapy arm in KEYNOTE-407.
 
 Previously Treated NSCLC
 
