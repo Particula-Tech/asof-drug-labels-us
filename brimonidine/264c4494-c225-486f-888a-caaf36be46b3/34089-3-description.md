@@ -1,4 +1,4 @@
-# 11 DESCRIPTION
+# 11DESCRIPTION
 
 ALPHAGAN® P (brimonidine tartrate ophthalmic solution) 0.1% or 0.15%, sterile, is a relatively selective alpha-2 adrenergic receptor agonist (topical intraocular pressure lowering agent).
 

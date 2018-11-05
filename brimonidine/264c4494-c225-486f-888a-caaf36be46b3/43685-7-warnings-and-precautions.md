@@ -1,11 +1,11 @@
-# 5 WARNINGS AND PRECAUTIONS
+# 5WARNINGS AND PRECAUTIONS
 
 ## 5.1 Potentiation of Vascular Insufficiency
 
 ALPHAGAN® P may potentiate syndromes associated with vascular insufficiency.
-ALPHAGAN® P should be used with caution in patients with depression, cerebral or coronary insufficiency, Raynaud's phenomenon, orthostatic hypotension, or thromboangiitis obliterans.
+ALPHAGAN® P should be used with caution in patients with depression, cerebral or coronary insufficiency, Raynaud’s phenomenon, orthostatic hypotension, or thromboangiitis obliterans.
 
-## 5.2 Severe Cardiovascular Disease
+## 5.2Severe Cardiovascular Disease
 
 Although brimonidine tartrate ophthalmic solution had minimal effect on the blood pressure of patients in clinical studies, caution should be exercised in treating patients with severe cardiovascular disease.
 

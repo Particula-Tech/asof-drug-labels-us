@@ -1,4 +1,4 @@
-# 14 CLINICAL STUDIES
+# 14CLINICAL STUDIES
 
 Elevated IOP presents a major risk factor in glaucomatous field loss.
 The higher the level of IOP, the greater the likelihood of optic nerve damage and visual field loss.
