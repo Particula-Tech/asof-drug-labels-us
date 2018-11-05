@@ -9,7 +9,7 @@ Dose titration, final dosage, and wear time should be individualized according t
 | --- | --- | --- | --- | --- |
 | Upward Titration, if Response is Not Maximized |  |  |  |  |
 |  | Week 1 | Week 2 | Week 3 | Week 4 |
-| Patch Size | 12.5 cm2 | 18.75 cm2 | 25 cm2 | 37.5 cm2 |
+| Patch Size | 12.5 cm 2 | 18.75 cm 2 | 25 cm 2 | 37.5 cm 2 |
 | Nominal Delivered Dose* (mg/9 hours) | 10 mg | 15 mg | 20 mg | 30 mg |
 | Delivery Rate* | (1.1 mg/hr)* | (1.6 mg/hr)* | (2.2 mg/hr)* | (3.3 mg/hr)* |
 | *Nominal in vivo delivery rate in children and adolescents when applied to the hip, based on a 9-hour wear period. |  |  |  |  |

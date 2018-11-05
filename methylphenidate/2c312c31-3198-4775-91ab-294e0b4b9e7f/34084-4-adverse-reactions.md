@@ -29,7 +29,7 @@ The most common (≥ 2% of subjects) adverse reaction associated with discontinu
 The overall Daytrana development program included exposure to Daytrana in a total of 2,152 participants in clinical trials, including 1,529 children aged 6-12, 223 adolescents aged 13-17, and 400 adults.
 The 1,752 child and adolescent subjects aged 6-17 years were evaluated in 10 controlled clinical studies, 7 open-label clinical studies, and 5 clinical pharmacology studies.
 In a combined studies pool of children using Daytrana with a wear time of 9 hours, 212 subjects were exposed for ≥ 6 months and 115 were exposed for ≥ 1 year; 85 adolescents have been exposed for ≥ 6 months.
-Most patients studied were exposed to Daytrana patch sizes of 12.5 cm2, 18.75 cm2, 25 cm2 or 37.5 cm2, with a wear time of 9 hours.
+Most patients studied were exposed to Daytrana patch sizes of 12.5 cm 2, 18.75 cm 2, 25 cm 2 or 37.5 cm 2, with a wear time of 9 hours.
 
 In the data presented below, the adverse reactions reported during exposure were obtained primarily by general inquiry at each visit, and were recorded by the clinical investigators using terminology of their own choosing.
 Consequently, it is not possible to provide a meaningful estimate of the proportion of individuals experiencing adverse reactions without first grouping similar types of events into a smaller number of standardized event categories.

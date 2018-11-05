@@ -12,7 +12,7 @@ The mouse strain used is sensitive to the development of hepatic tumors and the 
 
 Orally administered methylphenidate did not cause any increases in tumors in a lifetime carcinogenicity study carried out in F344 rats; the highest dose used was approximately 45 mg/kg/day.
 
-In a 24-week oral carcinogenicity study in the transgenic mouse strain p53+/-, which is sensitive to genotoxic carcinogens, there was no evidence of carcinogenicity.
+In a 24-week oral carcinogenicity study in the transgenic mouse strain p53 +/-, which is sensitive to genotoxic carcinogens, there was no evidence of carcinogenicity.
 In this study, male and female mice were fed diets containing the same concentration of methylphenidate as in the lifetime carcinogenicity study; the high-dose groups were exposed to 60 to 74 mg/kg/day of methylphenidate.
 
 Mutagenesis

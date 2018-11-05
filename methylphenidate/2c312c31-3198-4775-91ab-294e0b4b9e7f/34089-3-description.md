@@ -5,7 +5,7 @@ The chemical name for methylphenidate is α-phenyl-2-piperidineacetic acid methy
 It is a white to off-white powder and is soluble in alcohol, ethyl acetate, and ether.
 Methylphenidate is practically insoluble in water and petrol ether.
 Its molecular weight is 233.31.
-Its empirical formula is C14H19NO2.
+Its empirical formula is C 14H 19NO 2.
 The structural formula of methylphenidate is:
 
 ## 11.1 Patch Components
