@@ -8,7 +8,11 @@ FUROSEMIDE INJECTION, USP
 
 FOR IV OR IM USE 2 mL SINGLE DOSE VIAL
 
-Manufactured for: Claris Lifesciences Inc. North Brunswick, NJ 08902
+Manufactured for:
+
+Baxter Healthcare Corporation
+
+Deerfield, IL 60015 USA
 
 # PRINCIPAL PANEL DISPLAY- 4 mL Vial
 
@@ -22,7 +26,11 @@ FOR IV OR IM USE
 
 4 mL SINGLE DOSE VIAL
 
-Manufactured for: Claris Lifesciences Inc. North Brunswick, NJ 08902
+Manufactured for:
+
+Baxter Healthcare Corporation
+
+Deerfield, IL 60015 USA
 
 # PRINCIPAL PANEL DISPLAY- 10 mL Vial
 
@@ -36,7 +44,11 @@ FOR IV OR IM USE
 
 10 mL SINGLE DOSE VIAL
 
-Manufactured for: Claris Lifesciences Inc. North Brunswick, NJ 08902
+Manufactured for:
+
+Baxter Healthcare Corporation
+
+Deerfield, IL 60015 USA
 
 # PRINCIPAL PANEL DISPLAY- 2 mL Vial - 25 count label
 
@@ -50,7 +62,11 @@ FOR IV OR IM USE
 
 2 mL SINGLE DOSE VIAL
 
-Manufactured for: Claris Lifesciences Inc. North Brunswick, NJ 08902
+Manufactured for:
+
+Baxter Healthcare Corporation
+
+Deerfield, IL 60015 USA
 
 # PRINCIPAL PANEL DISPLAY- 4 mL Vial - 25 count label
 
@@ -64,7 +80,11 @@ FOR IV OR IM USE
 
 4 mL SINGLE DOSE VIAL
 
-Manufactured for: Claris Lifesciences Inc. North Brunswick, NJ 08902
+Manufactured for:
+
+Baxter Healthcare Corporation
+
+Deerfield, IL 60015 USA
 
 # PRINCIPAL PANEL DISPLAY- 10 mL Vial - 25 count label
 
@@ -78,4 +98,8 @@ FOR IV OR IM USE
 
 10 mL SINGLE DOSE VIAL
 
-Manufactured for: Claris Lifesciences Inc. North Brunswick, NJ 08902
+Manufactured for:
+
+Baxter Healthcare Corporation
+
+Deerfield, IL 60015 USA
