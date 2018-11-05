@@ -16,7 +16,7 @@ What is MINIVELLE?
 MINIVELLE is a prescription medicine patch (Transdermal System) that contains estradiol (an estrogen hormone).
 When applied to the skin as directed below, Minivelle releases estrogen through the skin into the bloodstream.
 
-What is MINIVELLE® used for?
+What is MINIVELLE ® used for?
 
 THE MINIVELLE patch is used after menopause to:
 

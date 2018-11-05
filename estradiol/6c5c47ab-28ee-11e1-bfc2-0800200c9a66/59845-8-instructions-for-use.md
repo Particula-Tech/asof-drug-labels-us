@@ -1,6 +1,6 @@
 Instructions for Use
 
-MINIVELLE® (MIN-ee-vell)
+MINIVELLE ® (MIN-ee-vell)
 
 (estradiol transdermal system)
 

@@ -10,18 +10,18 @@ The following serious adverse reactions are discussed elsewhere in labeling:
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 There were no clinical trials conducted with MINIVELLE.
-MINIVELLE is bioequivalent to Vivelle®.
+MINIVELLE is bioequivalent to Vivelle ®.
 The following adverse reactions are reported with Vivelle therapy:
 
 Table 1: Summary of Most Frequently Reported Adverse Reactions (Vivelle versus Placebo) Regardless of Relationship Reported at a Frequency ≥5 Percent
 
-|  | Vivelle 0.025 mg/day† (N=47) N (%) | Vivelle 0.0375 mg/day† (N=130) N (%) | Vivelle 0.05 mg/day† (N=103) N (%) | Vivelle 0.075 mg/day† (N=46) N (%) | Vivelle 0.1 mg/day† (N=132) 2 N (%) | Placebo (N=157) N (%) |
+|  | Vivelle 0.025 mg/day † (N=47) N (%) | Vivelle 0.0375 mg/day † (N=130) N (%) | Vivelle 0.05 mg/day † (N=103) N (%) | Vivelle 0.075 mg/day † (N=46) N (%) | Vivelle 0.1 mg/day † (N=132) 2 N (%) | Placebo (N=157) N (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 | Gastrointestinal disorders |  |  |  |  |  |  |
 | Constipation | 2 (4.3) | 5 (3.8) | 4 (3.9) | 3 (6.5) | 2 (1.5) | 4 (2.5) |
 | Dyspepsia | 4 (8.5) | 12 (9.2) | 3 (2.9) | 2 (4.3) | 0 | 10 (6.4) |
 | Nausea | 2 (4.3) | 8 (6.2) | 4 (3.9) | 0 | 7 (5.3) | 5 (3.2) |
-| General disorders and administration site conditions*** |  |  |  |  |  |  |
+| General disorders and administration site conditions *** |  |  |  |  |  |  |
 | Influenza-like illness | 3 (6.4) | 6 (4.6) | 8 (7.8) | 0 | 3 (2.3) | 10 (6.4) |
 | Pain NOS* | 0 | 8 (6.2) | 0 | 2 (4.3) | 7 (5.3) | 7 (4.5) |
 | Infections and infestations |  |  |  |  |  |  |
@@ -40,7 +40,7 @@ Table 1: Summary of Most Frequently Reported Adverse Reactions (Vivelle versus P
 | Headache NOS* | 7 (14.9) | 35 (26.9) | 32 (31.1) | 23 (50.0) | 34 (25.8) | 37 (23.6) |
 | Sinus headache | 0 | 12 (9.2) | 5 (4.9) | 5 (10.9) | 2 (1.5) | 8 (5.1) |
 | Psychiatric disorders |  |  |  |  |  |  |
-| Anxiety NEC** | 3 (6.4) | 5 (3.8) | 0 | 0 | 2 (1.5) | 4 (2.5) |
+| Anxiety NEC ** | 3 (6.4) | 5 (3.8) | 0 | 0 | 2 (1.5) | 4 (2.5) |
 | Depression | 5 (10.6) | 4 (3.1) | 7 (6.8) | 0 | 4 (3.0) | 6 (3.8) |
 | Insomnia | 3 (6.4) | 6 (4.6) | 4 (3.9) | 2 (4.3) | 2 (1.5) | 9 (5.7) |
 | Reproductive system and breast disorders |  |  |  |  |  |  |
