@@ -51,5 +51,5 @@ Manufactured for: Incyte Corporation Wilmington, DE 19803
 
 Jakafi is a registered trademark of Incyte.
 All rights reserved.
-U.S. Patent Nos. 7598257; 8415362; 8722693; 8822481; 8829013; 9079912 © 2011-2017 Incyte Corporation.
+U.S. Patent Nos. 7598257; 8415362; 8722693; 8822481; 8829013; 9079912 © 2011-2018 Incyte Corporation.
 All rights reserved.
