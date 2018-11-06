@@ -3,7 +3,7 @@
 The continuous release of oxybutynin from DITROPAN XL® should be considered in the treatment of overdosage.
 Patients should be monitored for at least 24 hours.
 Treatment should be symptomatic and supportive.
-Activated charcoal as well as a cathartic may be administered.
+A cathartic may be administered.
 
 Overdosage with oxybutynin chloride has been associated with anticholinergic effects including central nervous system excitation, flushing, fever, dehydration, cardiac arrhythmia, vomiting, and urinary retention.
 
