@@ -118,8 +118,8 @@ In patients who initially had grades 3 or 4 erosive esophagitis, for maintenance
 
 ## 14.5 Reduction of Risk of Upper Gastrointestinal Bleeding in Critically Ill Patients
 
-A double-blind, multicenter, randomized, non-inferiority clinical trial was conducted to compare ZEGERID Oral Suspension 40 mg/1680 mg and I.V. cimetidine for the reduction of risk of upper gastrointestinal (GI) bleeding in critically ill patients (mean APACHE II score = 23.7).
+A double-blind, multicenter, randomized, non-inferiority clinical trial was conducted to compare ZEGERID Oral Suspension 40 mg/1,680 mg and I.V. cimetidine for the reduction of risk of upper gastrointestinal (GI) bleeding in critically ill patients (mean APACHE II score = 23.7).
 The primary endpoint was significant upper GI bleeding defined as bright red blood which did not clear after adjustment of the nasogastric tube and a 5 to 10 minute lavage, or persistent Gastroccult positive coffee grounds for 8 consecutive hours which did not clear with 100 cc lavage.
-ZEGERID Oral Suspension 40 mg/1680 mg (two doses administered 6 to 8 hours apart on the first day via orogastric or nasogastric tube, followed by 40 mg once daily thereafter) was compared to continuous I.V. cimetidine (300 mg bolus, and 50 to 100 mg/hr continuously thereafter) for up to 14 days (mean = 6.8 days).
+ZEGERID Oral Suspension 40 mg/1,680 mg (two doses administered 6 to 8 hours apart on the first day via orogastric or nasogastric tube, followed by 40 mg once daily thereafter) was compared to continuous I.V. cimetidine (300 mg bolus, and 50 to 100 mg/hr continuously thereafter) for up to 14 days (mean = 6.8 days).
 A total of 359 patients were studied, age range 16 to 91 (mean = 56 yrs), 58.5% were males, and 64% were Caucasians.
 The results of the study showed that ZEGERID was non-inferior to I.V. cimetidine, 10/181 (5.5%) patients in the cimetidine group vs. 7/178 (3.9%) patients in the ZEGERID group experienced clinically significant upper GI bleeding.

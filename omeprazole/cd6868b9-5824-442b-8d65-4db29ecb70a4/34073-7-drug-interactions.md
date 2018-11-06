@@ -42,13 +42,13 @@ The clinical importance and the mechanisms behind these interactions are not alw
 Increased gastric pH during omeprazole treatment may change the absorption of the antiretroviral drug.
 Other possible interaction mechanisms are via CYP2C19.
 For some antiretroviral drugs, such as atazanavir and nelfinavir, decreased serum levels have been reported when given together with omeprazole.
-Following multiple doses of nelfinavir (1250 mg, twice daily) and omeprazole (40 mg, daily), AUC was decreased by 36% and 92%, Cmax by 37% and 89% and Cmin by 39% and 75% respectively for nelfinavir and M8.
+Following multiple doses of nelfinavir (1,250 mg, twice daily) and omeprazole (40 mg, daily), AUC was decreased by 36% and 92%, Cmax by 37% and 89% and Cmin by 39% and 75% respectively for nelfinavir and M8.
 Following multiple doses of atazanavir (400 mg, daily) and omeprazole (40 mg, daily, 2 hours before atazanavir), AUC was decreased by 94%, Cmax by 96%, and Cmin by 95%.
 Concomitant administration with omeprazole and drugs such as atazanavir and nelfinavir is therefore not recommended.
 
 Increased Concentration of Saquinavir
 
-For other antiretroviral drugs, such as saquinavir, elevated serum levels have been reported with an increase in AUC by 82%, in Cmax by 75% and in Cmin by 106% following multiple dosing of saquinavir/ritonavir (1000/100 mg) twice daily for 15 days with omeprazole 40 mg daily coadministered days 11 to 15.
+For other antiretroviral drugs, such as saquinavir, elevated serum levels have been reported with an increase in AUC by 82%, in Cmax by 75% and in Cmin by 106% following multiple dosing of saquinavir/ritonavir (1,000/100 mg) twice daily for 15 days with omeprazole 40 mg daily coadministered days 11 to 15.
 Dose reduction of saquinavir should be considered from the safety perspective for individual patients.
 There are also some antiretroviral drugs of which unchanged serum levels have been reported when given with omeprazole.
 

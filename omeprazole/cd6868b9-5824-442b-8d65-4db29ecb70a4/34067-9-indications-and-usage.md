@@ -36,5 +36,5 @@ Controlled studies do not extend beyond 12 months.
 
 ## 1.5 Reduction of Risk of Upper Gastrointestinal Bleeding in Critically Ill Patients (40 mg Oral Suspension Only)
 
-ZEGERID Powder for Oral Suspension 40 mg/1680 mg is indicated for the reduction of risk of upper GI bleeding in critically ill patients.
+ZEGERID Powder for Oral Suspension 40 mg/1,680 mg is indicated for the reduction of risk of upper GI bleeding in critically ill patients.
 [See Clinical Studies (14.5).]

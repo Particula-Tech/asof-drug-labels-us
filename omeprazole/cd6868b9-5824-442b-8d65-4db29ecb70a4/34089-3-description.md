@@ -9,6 +9,6 @@ Omeprazole is a white to off-white crystalline powder which melts with decomposi
 It is a weak base, freely soluble in ethanol and methanol, slightly soluble in acetone and isopropanol and very slightly soluble in water.
 The stability of omeprazole is a function of pH; it is rapidly degraded in acid media but has acceptable stability under alkaline conditions.
 
-ZEGERID is supplied as immediate-release capsules and unit-dose packets as powder for oral suspension.
-Each capsule contains either 40 mg or 20 mg of omeprazole and 1100 mg of sodium bicarbonate with the following excipients: croscarmellose sodium and sodium stearyl fumarate.
-Packets of powder for oral suspension contain either 40 mg or 20 mg of omeprazole and 1680 mg of sodium bicarbonate with the following excipients: xylitol, sucrose, sucralose, xanthan gum, and flavorings.
+ZEGERID is supplied as immediate-release capsules and unit-dose packets as a powder for oral suspension.
+Each capsule contains either 40 mg or 20 mg of omeprazole and 1,100 mg of sodium bicarbonate with the following excipients: croscarmellose sodium and sodium stearyl fumarate.
+Packets of powder for oral suspension contain either 40 mg or 20 mg of omeprazole and 1,680 mg of sodium bicarbonate with the following excipients: xylitol, sucrose, sucralose, xanthan gum, and flavorings.

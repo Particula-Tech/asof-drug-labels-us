@@ -38,7 +38,7 @@ Table 3 summarizes the adverse reactions that occurred in 1% or more of omeprazo
 
 Table 3: Incidence of Adverse Reactions ≥1% Causal Relationship Not Assessed
 
-|  | Omeprazole (n = 2631) | Placebo(n = 120) |
+|  | Omeprazole (n = 2,631) | Placebo(n = 120) |
 | --- | --- | --- |
 | Body as a Whole, Site Unspecified |  |  |
 | Abdominal Pain | 5.2 | 3.3 |
@@ -53,7 +53,7 @@ Table 3: Incidence of Adverse Reactions ≥1% Causal Relationship Not Assessed
 | Nervous System/Psychiatric |  |  |
 | Headache | 2.9 | 2.5 |
 
-A controlled clinical trial was conducted in 359 critically ill patients, comparing ZEGERID 40 mg/1680 mg suspension once daily to I.V. cimetidine 1200 mg/day for up to 14 days.
+A controlled clinical trial was conducted in 359 critically ill patients, comparing ZEGERID 40 mg/1,680 mg suspension once daily to I.V. cimetidine 1,200 mg/day for up to 14 days.
 The incidence and total number of AEs experienced by ≥3% of patients in either group are presented in Table 4 by body system and preferred term.
 
 Table 4: Number (%) of Critically Ill Patients with Frequently Occurring (≥3%) Adverse Events by Body System and Preferred Term

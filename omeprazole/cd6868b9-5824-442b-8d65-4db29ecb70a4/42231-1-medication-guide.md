@@ -248,14 +248,13 @@ Giving ZEGERID Powder for Oral Suspension through a nasogastric tube (NG tube) o
 Manufactured for: Salix Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
 Zegerid is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
-All other product/brand names are trademarks of their respective owners.
+All other product/brand names and/or logos are trademarks of the respective owners.
 
 © Valeant Pharmaceuticals North America LLC
 
 Revised: 06/2018
 
-- Patheon Med Guide: Update p/n
-
-Norwich Med Guide: Update p/n
+1. 9654500 70013887
+2. 9524003 2000010801
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration

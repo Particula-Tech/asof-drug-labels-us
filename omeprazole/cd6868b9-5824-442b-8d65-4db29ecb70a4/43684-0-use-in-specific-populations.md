@@ -71,7 +71,7 @@ Increases in death were seen at the high dose, and at all doses of esomeprazole,
 
 ## 8.5 Geriatric Use
 
-Omeprazole was administered to over 2000 elderly individuals (≥65 years of age) in clinical trials in the U.S. and Europe.
+Omeprazole was administered to over 2,000 elderly individuals (≥65 years of age) in clinical trials in the U.S. and Europe.
 There were no differences in safety and effectiveness between the elderly and younger subjects.
 Other reported clinical experience has not identified differences in response between the elderly and younger subjects, but greater sensitivity of some older individuals cannot be ruled out.
 

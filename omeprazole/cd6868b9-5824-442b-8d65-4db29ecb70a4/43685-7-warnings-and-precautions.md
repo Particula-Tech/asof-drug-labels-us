@@ -15,10 +15,10 @@ Discontinue ZEGERID if acute interstitial nephritis develops.
 
 ## 5.3 Buffer Content
 
-Each ZEGERID Capsule contains 1100 mg (13 mEq) of sodium bicarbonate.
+Each ZEGERID Capsule contains 1,100 mg (13 mEq) of sodium bicarbonate.
 The total content of sodium in each capsule is 304 mg.
 
-Each packet of ZEGERID Powder for Oral Suspension contains 1680 mg (20 mEq) of sodium bicarbonate (equivalent to 460 mg of Na+).
+Each packet of ZEGERID Powder for Oral Suspension contains 1,680 mg (20 mEq) of sodium bicarbonate (equivalent to 460 mg of Na+).
 
 The sodium content of ZEGERID products should be taken into consideration when administering to patients on a sodium restricted diet.
 

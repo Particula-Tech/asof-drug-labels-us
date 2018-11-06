@@ -1,7 +1,7 @@
 # 10 OVERDOSAGE
 
 Reports have been received of overdosage with omeprazole in humans.
-Doses ranged up to 2400 mg (120 times the usual recommended clinical dose).
+Doses ranged up to 2,400 mg (120 times the usual recommended clinical dose).
 Manifestations were variable, but included confusion, drowsiness, blurred vision, tachycardia, nausea, vomiting, diaphoresis, flushing, headache, dry mouth, and other adverse reactions similar to those seen in normal clinical experience [see Adverse Reactions (6)].
 Symptoms were transient, and no serious clinical outcome has been reported when omeprazole was taken alone.
 No specific antidote for omeprazole overdosage is known.
@@ -12,7 +12,7 @@ As with the management of any overdose, the possibility of multiple drug ingesti
 For current information on treatment of any drug overdose, a certified Regional Poison Control Center should be contacted.
 Telephone numbers are listed in the Physicians’ Desk Reference (PDR) or local telephone book.
 
-Single oral doses of omeprazole at 1350, 1339, and 1200 mg/kg were lethal to mice, rats, and dogs, respectively.
+Single oral doses of omeprazole at 1,350, 1,339, and 1,200 mg/kg were lethal to mice, rats, and dogs, respectively.
 Animals given these doses showed sedation, ptosis, tremors, convulsions, and decreased activity, body temperature, and respiratory rate and increased depth of respiration.
 
 In addition, a sodium bicarbonate overdose may cause hypocalcemia, hypokalemia, hypernatremia, and seizures.

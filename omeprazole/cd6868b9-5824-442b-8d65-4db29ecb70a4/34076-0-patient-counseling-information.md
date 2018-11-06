@@ -42,24 +42,25 @@ DO NOT USE OTHER LIQUIDS OR FOODS.
 Stir well and drink immediately.
 Refill cup with water and drink.
 
-ZEGERID is available either as 40 mg or 20 mg capsules with 1100 mg sodium bicarbonate.
-ZEGERID is also available either as 40 mg or 20 mg single-dose packets of powder for oral suspension with 1680 mg sodium bicarbonate.
+ZEGERID is available either as 40 mg or 20 mg capsules with 1,100 mg sodium bicarbonate.
+ZEGERID is also available either as 40 mg or 20 mg single-dose packets of powder for oral suspension with 1,680 mg sodium bicarbonate.
 
 Patients should be instructed not to substitute ZEGERID Capsules or Suspension for other ZEGERID dosage forms because different dosage forms contain different amounts of sodium bicarbonate and magnesium hydroxide.
 [See Dosage and Administration (2).]
 
-Patients should be advised that since both the 20 mg and 40 mg oral suspension packets contain the same amount of sodium bicarbonate (1680 mg), two packets of 20 mg are not equivalent to one packet of ZEGERID 40 mg; therefore, two 20 mg packets of ZEGERID should not be substituted for one packet of ZEGERID 40 mg.
+Patients should be advised that since both the 20 mg and 40 mg oral suspension packets contain the same amount of sodium bicarbonate (1,680 mg), two packets of 20 mg are not equivalent to one packet of ZEGERID 40 mg; therefore, two 20 mg packets of ZEGERID should not be substituted for one packet of ZEGERID 40 mg.
 Conversely ½ of a 40 mg packet should not be substituted for one 20 mg packet.
 [See Dosage and Administration (2).]
 
-Patients should be advised that since both the 20 mg and 40 mg capsules contain the same amount of sodium bicarbonate (1100 mg), two capsules of 20 mg are not equivalent to one capsule of ZEGERID 40 mg; therefore, two 20 mg capsules of ZEGERID should not be substituted for one capsule of ZEGERID 40 mg.
+Patients should be advised that since both the 20 mg and 40 mg capsules contain the same amount of sodium bicarbonate (1,100 mg), two capsules of 20 mg are not equivalent to one capsule of ZEGERID 40 mg; therefore, two 20 mg capsules of ZEGERID should not be substituted for one capsule of ZEGERID 40 mg.
 [See Dosage and Administration (2).]
 
 Manufactured for: Salix Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA Zegerid is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
-All other product/brand names are trademarks of their respective owners.
+All other product/brand names and/or logos are trademarks of the respective owners.
 
 © Valeant Pharmaceuticals North America LLC
 
-Patheon PI: Update p/n
+Salix PHARMACEUTICALS
 
-Norwich PI: Update p/n
+1. 9524003 2000010801
+2. 9654500 70013887
