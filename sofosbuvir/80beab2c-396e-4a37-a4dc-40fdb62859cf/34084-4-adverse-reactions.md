@@ -118,3 +118,7 @@ Because postmarketing reactions are reported voluntarily from a population of un
 Cardiac Disorders
 
 Serious symptomatic bradycardia has been reported in patients taking amiodarone who initiate treatment with a sofosbuvir-containing regimen [see Warnings and Precautions (5.2), Drug Interactions (7.1)].
+
+Skin and Subcutaneous Tissue Disorders
+
+Skin rashes, sometimes with blisters or angioedema-like swelling Angioedema
