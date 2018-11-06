@@ -2,7 +2,7 @@
 
 For Direct Injection Only
 
-| Product No. | NDCNo. |  |
+| Product No. | NDC No. |  |
 | --- | --- | --- |
 | 20805 | 63323-208-05 | Lidocaine Hydrochloride Injection, USP, 20 mg/mL in a 5 mL Single Dose Vial, in packages of 25. |
 
