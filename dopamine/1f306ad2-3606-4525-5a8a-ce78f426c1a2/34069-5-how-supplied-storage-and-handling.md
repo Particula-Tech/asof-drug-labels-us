@@ -1,11 +1,11 @@
 # HOW SUPPLIED
 
-Dopamine Hydrochloride Injection, USP is supplied as follows (40 mg/mL and 80 mg/mL):
+Dopamine Hydrochloride Injection, USP is supplied as follows (40 mg/mL):
 
 | Unit of Sale | Total Strength/Total Volume (Concentration) |
 | --- | --- |
-| NDC 0409-5820-01 25 in a carton | 200 mg/5 mL (40 mg/mL) |
-| NDC 0409-9104-20 25 in a carton | 400 mg/10 mL (40 mg/mL) |
+| NDC 0409-5820-01 25 Fliptop Vials in a Tray | 200 mg/5 mL (40 mg/mL) |
+| NDC 0409-9104-20 25 Fliptop Vials in a Tray | 400 mg/10 mL (40 mg/mL) |
 
 Avoid contact with alkalies (including sodium bicarbonate), oxidizing agents or iron salts.
 
@@ -16,6 +16,6 @@ Store at 20 to 25°C (68 to 77°F).
 
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-1154-1.0
+LAB-1154-2.0
 
-Revised: 03/2018
+Revised: 10/2018

@@ -4,19 +4,18 @@ WARNING: This is a potent drug; it must be diluted before administration to the 
 
 Dopamine Hydrochloride Injection, USP is administered (only after dilution) by intravenous infusion.
 
-Suggested Dilution – For the 40 mg/mL preparation, transfer by aseptic technique the contents containing either 5 mL, 200 mg or 10 mL, 400 mg of Dopamine Hydrochloride to either a 250 mL or 500 mL bottle of one of the sterile intravenous solutions listed below.
-For the 80 mg/mL preparation, transfer by aseptic technique the contents containing 10 mL, 800 mg of Dopamine Hydrochloride to a 250 mL, 500 mL or 1000 mL bottle of one of the following sterile intravenous solutions:
+Suggested Dilution – For the 40 mg/mL preparation, transfer by aseptic technique the contents containing either 5 mL, 200 mg or 10 mL, 400 mg of Dopamine Hydrochloride to either a 250 mL or 500 mL bottle of one of the sterile intravenous solutions listed below:
 
 0.9% Sodium Chloride Injection, USP 5% Dextrose Injection, USP 5% Dextrose and 0.9% Sodium Chloride Injection, USP 5% Dextrose and 0.45% Sodium Chloride Injection, USP 5% Dextrose and Lactated Ringer's Injection Sodium Lactate Injection, USP 1/6 Molar Lactated Ringer's Injection, USP
 
 The resultant dilutions are summarized in the following chart:
 
-| Concentration ofDopamine Hydrochloride | 40 mg/mL |  | 80 mg/mL |
-| --- | --- | --- | --- |
-| Volume of DopamineHydrochloride Injection, USP | 5 mL | 10 mL | 10 mL |
-| 250 mL Bottle of I.V. Solution | 800 mcg/mL | 1600 mcg/mL | 3200 mcg/mL |
-| 500 mL Bottle of I.V. Solution | 400 mcg/mL | 800 mcg/mL | 1600 mcg/mL |
-| 1000 mL Bottle of I.V. Solution | 200 mcg/mL | 400 mcg/mL | 800 mcg/mL |
+| Concentration of Dopamine Hydrochloride | 40 mg/mL |  |
+| --- | --- | --- |
+| Volume of Dopamine Hydrochloride Injection, USP | 5 mL | 10 mL |
+| 250 mL Bottle of I.V. Solution | 800 mcg/mL | 1600 mcg/mL |
+| 500 mL Bottle of I.V. Solution | 400 mcg/mL | 800 mcg/mL |
+| 1000 mL Bottle of I.V. Solution | 200 mcg/mL | 400 mcg/mL |
 
 Dopamine Hydrochloride Injection, USP has been found to be stable for a minimum of 24 hours after dilution in the foregoing intravenous solutions.
 However, as with all intravenous admixtures, dilution should be made just prior to administration.
