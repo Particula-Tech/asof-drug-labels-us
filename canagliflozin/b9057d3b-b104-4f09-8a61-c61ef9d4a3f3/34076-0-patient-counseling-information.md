@@ -2,29 +2,6 @@
 
 See FDA-approved patient labeling (Medication Guide).
 
-Instructions
-
-Instruct patients to read the Medication Guide before starting INVOKANA (canagliflozin) therapy and to reread it each time the prescription is renewed.
-
-Inform patients of the potential risks and benefits of INVOKANA and of alternative modes of therapy.
-Also inform patients about the importance of adherence to dietary instructions, regular physical activity, periodic blood glucose monitoring and HbA1C testing, recognition and management of hypoglycemia and hyperglycemia, and assessment for diabetes complications.
-Advise patients to seek medical advice promptly during periods of stress such as fever, trauma, infection, or surgery, as medication requirements may change.
-
-Instruct patients to take INVOKANA only as prescribed.
-If a dose is missed, advise patients to take it as soon as it is remembered unless it is almost time for the next dose, in which case patients should skip the missed dose and take the medicine at the next regularly scheduled time.
-Advise patients not to take two doses of INVOKANA at the same time.
-
-Inform patients that the most common adverse reactions associated with INVOKANA are genital mycotic infection, urinary tract infection, and increased urination.
-
-Inform female patients of child bearing age that the use of INVOKANA during pregnancy has not been studied in humans, and that INVOKANA should only be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-Instruct patients to report pregnancies to their physicians as soon as possible.
-
-Inform nursing mothers to discontinue INVOKANA or nursing, taking into account the importance of drug to the mother.
-
-Laboratory Tests
-
-Due to its mechanism of action, patients taking INVOKANA will test positive for glucose in their urine.
-
 Lower Limb Amputation
 
 Inform patients that INVOKANA is associated with an increased risk of amputations.
@@ -52,7 +29,12 @@ Serious Urinary Tract Infections
 
 Inform patients of the potential for urinary tract infections, which may be serious.
 Provide them with information on the symptoms of urinary tract infections.
-Advise them to seek medical advice if such symptoms occur [see Warnings and Precautions (5.6)].
+Advise them to seek medical advice if such symptoms occur [see Warnings and Precautions (5.5)].
+
+Necrotizing Fasciitis of the Perineum (Fournier's Gangrene)
+
+Inform patients that necrotizing infections of the perineum (Fournier's gangrene) have occurred with INVOKANA.
+Counsel patients to promptly seek medical attention if they develop pain or tenderness, redness, or swelling of the genitals or the area from the genitals back to the rectum, along with a fever above 100.4°F or malaise [see Warnings and Precautions (5.7)].
 
 Genital Mycotic Infections in Females (e.g., Vulvovaginitis)
 
@@ -68,12 +50,12 @@ Advise them of treatment options and when to seek medical advice [see Warnings a
 Hypersensitivity Reactions
 
 Inform patients that serious hypersensitivity reactions, such as urticaria, rash, anaphylaxis, and angioedema, have been reported with INVOKANA.
-Advise patients to report immediately any signs or symptoms suggesting allergic reaction, and to discontinue drug until they have consulted prescribing physicians.
+Advise patients to report immediately any signs or symptoms suggesting allergic reaction, and to discontinue drug until they have consulted prescribing physicians [see Warnings and Precautions (5.9)].
 
 Bone Fracture
 
 Inform patients that bone fractures have been reported in patients taking INVOKANA.
-Provide them with information on factors that may contribute to fracture risk.
+Provide them with information on factors that may contribute to fracture risk [see Warnings and Precautions (5.10)].
 
 Pregnancy
 
@@ -83,3 +65,12 @@ Instruct females of reproductive potential to report pregnancies to their physic
 Lactation
 
 Advise women that breastfeeding is not recommended during treatment with INVOKANA [see Use in Specific Populations (8.2)].
+
+Laboratory Tests
+
+Inform patients that due to its mechanism of action, patients taking INVOKANA will test positive for glucose in their urine [see Drug Interactions (7.3)].
+
+Missed Dose
+
+If a dose is missed, advise patients to take it as soon as it is remembered unless it is almost time for the next dose, in which case patients should skip the missed dose and take the medicine at the next regularly scheduled time.
+Advise patients not to take two doses of INVOKANA at the same time.

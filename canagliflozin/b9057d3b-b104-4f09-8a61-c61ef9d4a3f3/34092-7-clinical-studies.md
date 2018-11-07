@@ -1,15 +1,17 @@
 # 14 CLINICAL STUDIES
 
-INVOKANA (canagliflozin) has been studied as monotherapy, in combination with metformin, sulfonylurea, metformin and sulfonylurea, metformin and sitagliptin, metformin and a thiazolidinedione (i.e., pioglitazone), and in combination with insulin (with or without other antihyperglycemic agents).
+INVOKANA (canagliflozin) has been studied as monotherapy, in combination with metformin, sulfonylurea, metformin and sulfonylurea, metformin and sitagliptin, metformin and a thiazolidinedione (i.e., pioglitazone), and in combination with insulin (with or without other anti-hyperglycemic agents).
 The efficacy of INVOKANA was compared to a dipeptidyl peptidase-4 (DPP-4) inhibitor (sitagliptin), both as add-on combination therapy with metformin and sulfonylurea, and a sulfonylurea (glimepiride), both as add-on combination therapy with metformin.
 INVOKANA was also evaluated in adults 55 to 80 years of age and patients with moderate renal impairment.
 
 In patients with type 2 diabetes, treatment with INVOKANA produced clinically and statistically significant improvements in HbA1C compared to placebo.
 Reductions in HbA1C were observed across subgroups including age, gender, race, and baseline body mass index (BMI).
 
-## 14.1 Monotherapy
+## 14.1 Glycemic Control Trials in Adults with Type 2 Diabetes Mellitus
 
-A total of 584 patients with type 2 diabetes inadequately controlled on diet and exercise participated in a 26-week, double-blind, placebo-controlled study to evaluate the efficacy and safety of INVOKANA.
+Monotherapy
+
+A total of 584 patients with type 2 diabetes inadequately controlled on diet and exercise participated in a 26-week double-blind, placebo-controlled trial to evaluate the efficacy and safety of INVOKANA.
 The mean age was 55 years, 44% of patients were men, and the mean baseline eGFR was 87 mL/min/1.73 m2.
 Patients taking other antihyperglycemic agents (N=281) discontinued the agent and underwent an 8-week washout followed by a 2-week, single-blind, placebo run-in period.
 Patients not taking oral antihyperglycemic agents (N=303) entered the 2-week, single-blind, placebo run-in period directly.
@@ -41,11 +43,9 @@ Table 9: Results from 26-Week Placebo-Controlled Clinical Study with INVOKANA as
 | % change from baseline (adjusted mean) | -0.6 | -2.8 | -3.9 |
 | Difference from placebo (adjusted mean) (95% CI) |  | -2.2 (-2.9; -1.6) | -3.3 (-4.0; -2.6) |
 
-## 14.2 Combination Therapy
-
 Add-on Combination Therapy with Metformin
 
-A total of 1284 patients with type 2 diabetes inadequately controlled on metformin monotherapy (greater than or equal to 2,000 mg/day, or at least 1,500 mg/day if higher dose not tolerated) participated in a 26-week, double-blind, placebo- and active-controlled study to evaluate the efficacy and safety of INVOKANA in combination with metformin.
+A total of 1,284 patients with type 2 diabetes inadequately controlled on metformin monotherapy (greater than or equal to 2,000 mg/day, or at least 1,500 mg/day if higher dose not tolerated) participated in a 26-week, double-blind, placebo- and active-controlled trial to evaluate the efficacy and safety of INVOKANA in combination with metformin.
 The mean age was 55 years, 47% of patients were men, and the mean baseline eGFR was 89 mL/min/1.73 m2.
 Patients already on the required metformin dose (N=1009) were randomized after completing a 2-week, single-blind, placebo run-in period.
 Patients taking less than the required metformin dose or patients on metformin in combination with another antihyperglycemic agent (N=275) were switched to metformin monotherapy (at doses described above) for at least 8 weeks before entering the 2-week, single-blind, placebo run-in.
@@ -79,7 +79,7 @@ Table 10: Results from 26-Week Placebo-Controlled Clinical Study of INVOKANA in 
 
 Initial Combination Therapy with Metformin
 
-A total of 1186 patients with type 2 diabetes inadequately controlled with diet and exercise participated in a 26-week double-blind, active-controlled, parallel-group, 5-arm, multicenter study to evaluate the efficacy and safety of initial therapy with INVOKANA in combination with metformin XR.
+A total of 1,186 patients with type 2 diabetes inadequately controlled with diet and exercise participated in a 26-week double-blind, active-controlled, parallel-group, 5-arm, multicenter trial to evaluate the efficacy and safety of initial therapy with INVOKANA in combination with metformin XR.
 The median age was 56 years, 48% of patients were men, and the mean baseline eGFR was 87.6 mL/min/1.73 m2.
 The median duration of diabetes was 1.6 years, and 72% of patients were treatment naïve.
 After completing a 2-week single-blind placebo run-in period, patients were randomly assigned for a double-blind treatment period of 26 weeks to 1 of 5 treatment groups (Table 11).
@@ -95,19 +95,19 @@ Table 11: Results from 26-Week Active-Controlled Clinical Study of INVOKANA Alon
 | HbA1C (%) |  |  |  |  |  |
 | Baseline (mean) | 8.81 | 8.78 | 8.77 | 8.83 | 8.90 |
 | Change from baseline (adjusted mean)There were 121 patients without week 26 efficacy data. Analyses addressing missing data gave consistent results with the results provided in this table. | -1.30 | -1.37 | -1.42 | -1.77 | -1.78 |
-| Difference from canagliflozin 100 mg (adjusted mean) (95% CI) Least squares mean adjusted for covariates including baseline value and stratification factor |  |  |  | -0.40Adjusted p=0.001 for superiority (-0.59, -0.21) |  |
+| Difference from canagliflozin 100 mg (adjusted mean) (95% CI)Least squares mean adjusted for covariates including baseline value and stratification factor |  |  |  | -0.40Adjusted p=0.001 for superiority (-0.59, -0.21) |  |
 | Difference from canagliflozin 300 mg (adjusted mean) (95% CI) |  |  |  |  | -0.36 (-0.56, -0.17) |
-| Difference from metformin XR (adjusted mean) (95% CI) |  | -0.06 Adjusted p=0.001 for non-inferiority (-0.26, 0.13) | -0.11 (-0.31, 0.08) | -0.46 (-0.66, -0.27) | -0.48 (-0.67, -0.28) |
+| Difference from metformin XR (adjusted mean) (95% CI) |  | -0.06Adjusted p=0.001 for non-inferiority (-0.26, 0.13) | -0.11 (-0.31, 0.08) | -0.46 (-0.66, -0.27) | -0.48 (-0.67, -0.28) |
 | Percent of patients achieving HbA1C < 7% | 38 | 34 | 39 | 47Adjusted p<0.05 | 51 |
 
 INVOKANA Compared to Glimepiride, Both as Add-on Combination With Metformin
 
-A total of 1450 patients with type 2 diabetes inadequately controlled on metformin monotherapy (greater than or equal to 2,000 mg/day, or at least 1,500 mg/day if higher dose not tolerated) participated in a 52-week, double-blind, active-controlled study to evaluate the efficacy and safety of INVOKANA in combination with metformin.
+A total of 1,450 patients with type 2 diabetes inadequately controlled on metformin monotherapy (greater than or equal to 2,000 mg/day, or at least 1,500 mg/day if higher dose not tolerated) participated in a 52-week, double-blind, active-controlled trial to evaluate the efficacy and safety of INVOKANA in combination with metformin.
 
 The mean age was 56 years, 52% of patients were men, and the mean baseline eGFR was 90 mL/min/1.73 m2.
 Patients tolerating maximally required metformin dose (N=928) were randomized after completing a 2-week, single-blind, placebo run-in period.
 Other patients (N=522) were switched to metformin monotherapy (at doses described above) for at least 10 weeks, then completed a 2-week single-blind run-in period.
-After the 2-week run-in period, patients were randomized to INVOKANA 100 mg, INVOKANA 300 mg, or glimepiride (titration allowed throughout the 52-week study to 6 or 8 mg), administered once daily as add-on therapy to metformin.
+After the 2-week run-in period, patients were randomized to INVOKANA 100 mg, INVOKANA 300 mg, or glimepiride (titration allowed throughout the 52-week trial to 6 or 8 mg), administered once daily as add-on therapy to metformin.
 
 As shown in Table 12 and Figure 1, at the end of treatment, INVOKANA 100 mg provided similar reductions in HbA1C from baseline compared to glimepiride when added to metformin therapy.
 INVOKANA 300 mg provided a greater reduction from baseline in HbA1C compared to glimepiride, and the relative treatment difference was -0.12% (95% CI: −0.22; −0.02).
@@ -155,7 +155,7 @@ Table 13: Results from 18-Week Placebo−Controlled Clinical Study of INVOKANA i
 
 Add-on Combination Therapy With Metformin and Sulfonylurea
 
-A total of 469 patients with type 2 diabetes inadequately controlled on the combination of metformin (greater than or equal to 2,000 mg/day or at least 1,500 mg/day if higher dose not tolerated) and sulfonylurea (maximal or near-maximal effective dose) participated in a 26-week, double-blind, placebo-controlled study to evaluate the efficacy and safety of INVOKANA in combination with metformin and sulfonylurea.
+A total of 469 patients with type 2 diabetes inadequately controlled on the combination of metformin (greater than or equal to 2,000 mg/day or at least 1,500 mg/day if higher dose not tolerated) and sulfonylurea (maximal or near-maximal effective dose) participated in a 26-week, double-blind, placebo-controlled trial to evaluate the efficacy and safety of INVOKANA in combination with metformin and sulfonylurea.
 The mean age was 57 years, 51% of patients were men, and the mean baseline eGFR was 89 mL/min/1.73 m2.
 Patients already on the protocol-specified doses of metformin and sulfonylurea (N=372) entered a 2-week, single-blind, placebo run-in period.
 Other patients (N=97) were required to be on a stable protocol-specified dose of metformin and sulfonylurea for at least 8 weeks before entering the 2-week run-in period.
@@ -184,7 +184,7 @@ Table 14: Results from 26-Week Placebo-Controlled Clinical Study of INVOKANA in 
 
 Add-on Combination Therapy With Metformin and Sitagliptin
 
-A total of 217 patients with type 2 diabetes inadequately controlled on the combination of metformin (greater than or equal to 1,500 mg/day) and sitagliptin 100 mg/day (or equivalent fixed-dose combination) participated in a 26-week, double-blind, placebo-controlled study to evaluate the efficacy and safety of INVOKANA in combination with metformin and sitagliptin.
+A total of 217 patients with type 2 diabetes inadequately controlled on the combination of metformin (greater than or equal to 1,500 mg/day) and sitagliptin 100 mg/day (or equivalent fixed-dose combination) participated in a 26-week, double-blind, placebo-controlled trial to evaluate the efficacy and safety of INVOKANA in combination with metformin and sitagliptin.
 The mean age was 57 years, 58% of patients were men, 73% of patients were Caucasian, 15% were Asian, and 12% were Black or African-American.
 The mean baseline eGFR was 90 mL/min/1.73 m2 and the mean baseline BMI was 32 kg/m2.
 The mean duration of diabetes was 10 years.
@@ -210,7 +210,7 @@ Table 15: Results from 26−Week Placebo-Controlled Clinical Study of INVOKANA i
 
 INVOKANA Compared to Sitagliptin, Both as Add-on Combination Therapy With Metformin and Sulfonylurea
 
-A total of 755 patients with type 2 diabetes inadequately controlled on the combination of metformin (greater than or equal to 2,000 mg/day or at least 1,500 mg/day if higher dose not tolerated) and sulfonylurea (near-maximal or maximal effective dose) participated in a 52-week, double-blind, active-controlled study to compare the efficacy and safety of INVOKANA 300 mg versus sitagliptin 100 mg in combination with metformin and sulfonylurea.
+A total of 755 patients with type 2 diabetes inadequately controlled on the combination of metformin (greater than or equal to 2,000 mg/day or at least 1,500 mg/day if higher dose not tolerated) and sulfonylurea (near-maximal or maximal effective dose) participated in a 52-week, double-blind, active-controlled trial to compare the efficacy and safety of INVOKANA 300 mg versus sitagliptin 100 mg in combination with metformin and sulfonylurea.
 The mean age was 57 years, 56% of patients were men, and the mean baseline eGFR was 88 mL/min/1.73 m2.
 Patients already on protocol-specified doses of metformin and sulfonylurea (N=716) entered a 2-week single-blind, placebo run-in period.
 Other patients (N=39) were required to be on a stable protocol-specified dose of metformin and sulfonylurea for at least 8 weeks before entering the 2-week run-in period.
@@ -238,18 +238,17 @@ Table 16: Results from 52-Week Clinical Study Comparing INVOKANA to Sitagliptin 
 | % change from baseline (adjusted mean) | -2.5 | 0.3 |
 | Difference from sitagliptin (adjusted mean) (95% CI) | -2.8p<0.001 (-3.3; -2.2) |  |
 
-| Figure 2: Mean HbA1C Change at Each Time Point (Completers) and at Week 52 Using Last Observation Carried Forward (mITT Population) |
-| --- |
+Figure 2: Mean HbA1C Change at Each Time Point (Completers) and at Week 52 Using Last Observation Carried Forward (mITT Population)
 
 Add-on Combination Therapy With Metformin and Pioglitazone
 
-A total of 342 patients with type 2 diabetes inadequately controlled on the combination of metformin (greater than or equal to 2,000 mg/day or at least 1,500 mg/day if higher dose not tolerated) and pioglitazone (30 or 45 mg/day) participated in a 26-week, double-blind, placebo-controlled study to evaluate the efficacy and safety of INVOKANA in combination with metformin and pioglitazone.
+A total of 342 patients with type 2 diabetes inadequately controlled on the combination of metformin (greater than or equal to 2,000 mg/day or at least 1,500 mg/day if higher dose not tolerated) and pioglitazone (30 or 45 mg/day) participated in a 26-week, double-blind, placebo-controlled trial to evaluate the efficacy and safety of INVOKANA in combination with metformin and pioglitazone.
 The mean age was 57 years, 63% of patients were men, and the mean baseline eGFR was 86 mL/min/1.73 m2.
 Patients already on protocol-specified doses of metformin and pioglitazone (N=163) entered a 2-week, single-blind, placebo run-in period.
 Other patients (N=181) were required to be on stable protocol-specified doses of metformin and pioglitazone for at least 8 weeks before entering the 2-week run-in period.
 Following the run-in period, patients were randomized to INVOKANA 100 mg, INVOKANA 300 mg, or placebo, administered once daily as add-on to metformin and pioglitazone.
 
-At the of end of treatment, INVOKANA 100 mg and 300 mg once daily resulted in a statistically significant improvement in HbA1C (p<0.001 for both doses) compared to placebo when added to metformin and pioglitazone.
+At the end of treatment, INVOKANA 100 mg and 300 mg once daily resulted in a statistically significant improvement in HbA1C (p<0.001 for both doses) compared to placebo when added to metformin and pioglitazone.
 INVOKANA 100 mg and 300 mg once daily also resulted in a greater proportion of patients achieving an HbA1C less than 7%, in significant reduction in fasting plasma glucose (FPG) and in percent body weight reduction compared to placebo when added to metformin and pioglitazone (see Table 17).
 Statistically significant (p<0.05 for both doses) mean changes from baseline in systolic blood pressure relative to placebo were -4.1 mmHg and -3.5 mmHg with INVOKANA 100 mg and 300 mg, respectively.
 
@@ -273,14 +272,14 @@ Table 17: Results from 26-Week Placebo-Controlled Clinical Study of INVOKANA in 
 
 Add-On Combination Therapy With Insulin (With or Without Other Antihyperglycemic Agents)
 
-A total of 1718 patients with type 2 diabetes inadequately controlled on insulin greater than or equal to 30 units/day or insulin in combination with other antihyperglycemic agents participated in an 18-week, double-blind, placebo-controlled substudy of a cardiovascular study to evaluate the efficacy and safety of INVOKANA in combination with insulin.
+A total of 1,718 patients with type 2 diabetes inadequately controlled on insulin greater than or equal to 30 units/day or insulin in combination with other antihyperglycemic agents participated in an 18-week, double-blind, placebo-controlled substudy of a cardiovascular trial to evaluate the efficacy and safety of INVOKANA in combination with insulin.
 The mean age was 63 years, 66% of patients were men, and the mean baseline eGFR was 75 mL/min/1.73 m2.
 Patients on basal, bolus, or basal/bolus insulin for at least 10 weeks entered a 2-week, single-blind, placebo run-in period.
 Approximately 70% of patients were on a background basal/bolus insulin regimen.
 After the run-in period, patients were randomized to INVOKANA 100 mg, INVOKANA 300 mg, or placebo, administered once daily as add-on to insulin.
 The mean daily insulin dose at baseline was 83 units, which was similar across treatment groups.
 
-At the of end of treatment, INVOKANA 100 mg and 300 mg once daily resulted in a statistically significant improvement in HbA1C (p<0.001 for both doses) compared to placebo when added to insulin.
+At the end of treatment, INVOKANA 100 mg and 300 mg once daily resulted in a statistically significant improvement in HbA1C (p<0.001 for both doses) compared to placebo when added to insulin.
 INVOKANA 100 mg and 300 mg once daily also resulted in a greater proportion of patients achieving an HbA1C less than 7%, in significant reductions in fasting plasma glucose (FPG), and in percent body weight reductions compared to placebo (see Table 18).
 Statistically significant (p<0.001 for both doses) mean changes from baseline in systolic blood pressure relative to placebo were -2.6 mmHg and -4.4 mmHg with INVOKANA 100 mg and 300 mg, respectively.
 
@@ -302,20 +301,62 @@ Table 18: Results from 18-Week Placebo-Controlled Clinical Study of INVOKANA in 
 | % change from baseline (adjusted mean) | 0.1 | -1.8 | -2.3 |
 | Difference from placebo (adjusted mean) (97.5% CI) |  | -1.9 (-2.2; -1.6) | -2.4 (-2.7; -2.1) |
 
-## 14.3 Studies in Special Populations
+Study in Patients Ages 55 to 80
 
-Adults 55 to 80 Years of Age
-
-A total of 714 older patients with type 2 diabetes inadequately controlled on current diabetes therapy (either diet and exercise alone or in combination with oral or parenteral agents) participated in a 26-week, double-blind, placebo-controlled study to evaluate the efficacy and safety of INVOKANA in combination with current diabetes treatment.
+A total of 714 type 2 diabetes patients ages 55 to 80 years and inadequately controlled on current diabetes therapy (either diet and exercise alone or in combination with oral or parenteral agents) participated in a 26-week, double-blind, placebo-controlled trial to evaluate the efficacy and safety of INVOKANA in combination with current diabetes treatment.
 The mean age was 64 years, 55% of patients were men, and the mean baseline eGFR was 77 mL/min/1.73 m2.
-Patients were randomized to the addition of INVOKANA 100 mg, INVOKANA 300 mg, or placebo, administered once daily.
-At the end of treatment, INVOKANA provided statistically significant improvements from baseline relative to placebo in HbA1C (p<0.001 for both doses) of -0.57% (95% CI: -0.71; -0.44) for INVOKANA 100 mg and -0.70% (95% CI: -0.84; -0.57) for INVOKANA 300 mg.
-Statistically significant (p<0.001 for both doses) reductions from baseline in fasting plasma glucose (FPG) and body weight were also observed in this study relative to placebo [see Use in Specific Populations (8.5)].
+Patients were randomized in a 1:1:1 ratio to the addition of INVOKANA 100 mg, INVOKANA 300 mg, or placebo, administered once daily.
+At the end of treatment, INVOKANA provided statistically significant improvements from baseline relative to placebo in HbA1C (p<0.001 for both doses) of -0.57% (95% CI: -0.71%; -0.44%) for INVOKANA 100 mg and -0.70% (95% CI: -0.84%; -0.57%) for INVOKANA 300 mg.
+[see Use in Specific Populations (8.5)].
 
 Moderate Renal Impairment
 
-A total of 269 patients with type 2 diabetes and a baseline eGFR of 30 mL/min/1.73 m2 to less than 50 mL/min/1.73 m2 inadequately controlled on current diabetes therapy participated in a 26-week, double-blind, placebo-controlled clinical study to evaluate the efficacy and safety of INVOKANA in combination with current diabetes treatment (diet or antihyperglycemic agent therapy, with 95% of patients on insulin and/or sulfonylurea).
+A total of 269 patients with type 2 diabetes and a baseline eGFR of 30 mL/min/1.73 m2 to less than 50 mL/min/1.73 m2 inadequately controlled on current diabetes therapy participated in a 26-week, double-blind, placebo-controlled clinical trial to evaluate the efficacy and safety of INVOKANA in combination with current diabetes treatment (diet or antihyperglycemic agent therapy, with 95% of patients on insulin and/or sulfonylurea).
 The mean age was 68 years, 61% of patients were men, and the mean baseline eGFR was 39 mL/min/1.73 m2.
-Patients were randomized to the addition of INVOKANA 100 mg, INVOKANA 300 mg, or placebo, administered once daily.
+Patients were randomized in a 1:1:1 ratio to the addition of INVOKANA 100 mg, INVOKANA 300 mg, or placebo, administered once daily.
 
-At the end of treatment, INVOKANA 100 mg and INVOKANA 300 mg daily provided greater reductions in HbA1C relative to placebo (-0.30% [95% CI: -0.53; -0.07] and -0.40%, [95% CI: -0.64; -0.17], respectively) [see Warnings and Precautions (5.4), Adverse Reactions (6.1), and Use in Specific Populations (8.6)].
+At the end of treatment, INVOKANA 100 mg and INVOKANA 300 mg daily provided greater reductions in HbA1C relative to placebo (-0.30% [95% CI: -0.53%; -0.07%] and -0.40%, [95% CI: -0.64%; -0.17%], respectively) [see Warnings and Precautions (5.4), Adverse Reactions (6.1), and Use in Specific Populations (8.6)].
+
+## 14.2 Cardiovascular Outcomes in Patients with Type 2 Diabetes Mellitus and Atherosclerotic Cardiovascular Disease
+
+The CANVAS and CANVAS-R trials were multicenter, multi-national, randomized, double-blind parallel group, with similar inclusion and exclusion criteria.
+Patients eligible for enrollment in both CANVAS and CANVAS-R trials were: 30 years of age or older and had established, stable, cardiovascular, cerebrovascular, peripheral artery disease (66% of the enrolled population) or were 50 years of age or older and had two or more other specified risk factors for cardiovascular disease (34% of the enrolled population).
+
+The integrated analysis of the CANVAS and CANVAS-R trials compared the risk of Major Adverse Cardiovascular Event (MACE) between canagliflozin and placebo when these were added to and used concomitantly with standard of care treatments for diabetes and atherosclerotic cardiovascular disease.
+The primary endpoint, MACE, was the time to first occurrence of a three-part composite outcome which included cardiovascular death, non-fatal myocardial infarction and non-fatal stroke.
+
+In CANVAS, patients were randomly assigned 1:1:1 to canagliflozin 100 mg, canagliflozin 300 mg, or matching placebo.
+In CANVAS-R, patients were randomly assigned 1:1 to canagliflozin 100 mg or matching placebo, and titration to 300 mg was permitted at the investigator's discretion (based on tolerability and glycemic needs) after Week 13.
+Concomitant antidiabetic and atherosclerotic therapies could be adjusted, at the discretion of investigators, to ensure participants were treated according to the standard care for these diseases.
+
+A total of 10,134 patients were treated (4,327 in CANVAS and 5,807 in CANVAS-R; total of 4,344 randomly assigned to placebo and 5,790 to canagliflozin) and exposed for a mean of 149 weeks (exposed for a mean of 223 weeks [4.3 years] in CANVAS and 94 weeks [1.8 years] in CANVAS-R).
+Approximately 78% of the trial population was Caucasian, 13% was Asian, and 3% was Black.
+The mean age was 63 years and approximately 64% were male.
+
+The mean HbA1C at baseline was 8.2% and mean duration of diabetes was 13.5 years with 70% of patients having had diabetes for 10 years or more.
+Approximately 31%, 21% and 17% reported a past history of neuropathy, retinopathy and nephropathy, respectively, and the mean eGFR 76 mL/min/1.73 m2.
+At baseline, patients were treated with one (19%) or more (80%) antidiabetic medications including metformin (77%), insulin (50%), and sulfonylurea (43%).
+
+At baseline, the mean systolic blood pressure was 137 mmHg, the mean diastolic blood pressure was 78 mmHg, the mean LDL was 89 mg/dL, the mean HDL was 46 mg/dL, and the mean urinary albumin to creatinine ratio (UACR) was 115 mg/g.
+At baseline, approximately 80% of patients were treated with renin angiotensin system inhibitors, 53% with beta-blockers, 13% with loop diuretics, 36% with non-loop diuretics, 75% with statins, and 74% with antiplatelet agents (mostly aspirin).
+During the trial, investigators could modify anti-diabetic and cardiovascular therapies to achieve local standard of care treatment targets with respect to blood glucose, lipid, and blood pressure.
+More patients receiving canagliflozin compared to placebo initiated anti-thrombotics (5.2% vs 4.2%) and statins (5.8% vs 4.8%) during the trial.
+
+For the primary analysis, a stratified Cox proportional hazards model was used to test for non-inferiority against a pre-specified risk margin of 1.3 for the hazard ratio of MACE.
+
+In the integrated analysis of CANVAS and CANVAS-R trials, canagliflozin reduced the risk of first occurrence of MACE.
+The estimated hazard ratio (95% CI) for time to first MACE was 0.86 (0.75, 0.97).
+Refer to Table 19.
+Vital status was obtained for 99.6% of patients across the trials.
+The Kaplan-Meier curve depicting time to first occurrence of MACE is shown in Figure 3.
+
+Table 19: Treatment Effect for the Primary Composite Endpoint, MACE, and its Components in the Integrated Analysis of CANVAS and CANVAS-R studiesIntent-To-Treat Analysis Set
+
+|  | Placebo N=4347 | Canagliflozin N=5795 | Hazard ratio (95% C.I.)Stratified Cox-proportional hazards model with treatment as a factor and stratified by study and by prior CV disease |
+| --- | --- | --- | --- |
+| Composite of cardiovascular death, non-fatal myocardial infarction, non-fatal stroke (time to first occurrence)P-value for superiority (2-sided) = 0.0158, Number and percentage of first events, Due to pooling of unequal randomization ratios, Cochran-Mantel-Haenszel weights were applied to calculate percentages, | 426 (10.4) | 585 (9.2) | 0.86 (0.75, 0.97) |
+| Non-fatal myocardial infarction, | 159 (3.9) | 215 (3.4) | 0.85 (0.69, 1.05) |
+| Non-fatal Stroke, | 116 (2.8) | 158 (2.5) | 0.90 (0.71, 1.15) |
+| Cardiovascular Death, | 185 (4.6) | 268 (4.1) | 0.87 (0.72, 1.06) |
+
+Figure 3: Time to First Occurrence of MACE

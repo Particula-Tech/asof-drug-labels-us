@@ -27,7 +27,7 @@ Animal Data
 Canagliflozin dosed directly to juvenile rats from postnatal day (PND) 21 until PND 90 at doses of 4, 20, 65, or 100 mg/kg increased kidney weights and dose dependently increased the incidence and severity of renal pelvic and tubular dilatation at all doses tested.
 Exposure at the lowest dose was greater than or equal to 0.5-times the 300 mg clinical dose, based on AUC.
 These outcomes occurred with drug exposure during periods of renal development in rats that correspond to the late second and third trimester of human renal development.
-The renal pelvic dilatations observed in juvenile animals did not fully reverse within a 1 month recovery period.
+The renal pelvic dilatations observed in juvenile animals did not fully reverse within a 1-month recovery period.
 
 In embryo-fetal development studies in rats and rabbits, canagliflozin was administered for intervals coinciding with the first trimester period of organogenesis in humans.
 No developmental toxicities independent of maternal toxicity were observed when canagliflozin was administered at doses up to 100 mg/kg in pregnant rats and 160 mg/kg in pregnant rabbits during embryonic organogenesis or during a study in which maternal rats were dosed from gestation day (GD) 6 through PND 21, yielding exposures up to approximately 19-times the 300 mg clinical dose, based on AUC.
@@ -55,18 +55,18 @@ Safety and effectiveness of INVOKANA in pediatric patients under 18 years of age
 
 ## 8.5 Geriatric Use
 
-Two thousand thirty-four (2034) patients 65 years and older, and 345 patients 75 years and older were exposed to INVOKANA in nine clinical studies of INVOKANA [see Clinical Studies (14.3)].
+In 13 clinical trials of INVOKANA, 2,294 patients 65 years and older, and 351 patients 75 years and older were exposed to INVOKANA [see Clinical Studies (14.1)].
 
 Patients 65 years and older had a higher incidence of adverse reactions related to reduced intravascular volume with INVOKANA (such as hypotension, postural dizziness, orthostatic hypotension, syncope, and dehydration), particularly with the 300 mg daily dose, compared to younger patients; a more prominent increase in the incidence was seen in patients who were 75 years and older [see Dosage and Administration (2.1) and Adverse Reactions (6.1)].
 Smaller reductions in HbA1C with INVOKANA relative to placebo were seen in older (65 years and older; -0.61% with INVOKANA 100 mg and -0.74% with INVOKANA 300 mg relative to placebo) compared to younger patients (-0.72% with INVOKANA 100 mg and -0.87% with INVOKANA 300 mg relative to placebo).
 
 ## 8.6 Renal Impairment
 
-The efficacy and safety of INVOKANA were evaluated in a study that included patients with moderate renal impairment (eGFR 30 to less than 50 mL/min/1.73 m2) [see Clinical Studies (14.3)].
+The efficacy and safety of INVOKANA were evaluated in a trial that included patients with moderate renal impairment (eGFR 30 to less than 50 mL/min/1.73 m2) [see Clinical Studies (14.1)].
 These patients had less overall glycemic efficacy and had a higher occurrence of adverse reactions related to reduced intravascular volume, renal-related adverse reactions, and decreases in eGFR compared to patients with mild renal impairment or normal renal function (eGFR greater than or equal to 60 mL/min/1.73 m2).
 Dose-related, transient mean increases in serum potassium were observed early after initiation of INVOKANA (i.e., within 3 weeks) in this trial.
 Increases in serum potassium of greater than 5.4 mEq/L and 15% above baseline occurred in 16.1%, 12.4%, and 27.0% of patients treated with placebo, INVOKANA 100 mg, and INVOKANA 300 mg, respectively.
-Severe elevations (greater than or equal to 6.5 mEq/L) occurred in 1.1%, 2.2%, and 2.2% of patients treated with placebo, INVOKANA 100 mg, and INVOKANA 300 mg, respectively [see Dosage and Administration (2.2), Warnings and Precautions (5.2, 5.4, and 5.5), and Adverse Reactions (6.1)].
+Severe elevations (greater than or equal to 6.5 mEq/L) occurred in 1.1%, 2.2%, and 2.2% of patients treated with placebo, INVOKANA 100 mg, and INVOKANA 300 mg, respectively [see Dosage and Administration (2.3), Warnings and Precautions (5.2, 5.4), and Adverse Reactions (6.1)].
 
 The efficacy and safety of INVOKANA have not been established in patients with severe renal impairment (eGFR less than 30 mL/min/1.73 m2), with ESRD, or receiving dialysis.
 INVOKANA is not expected to be effective in these patient populations [see Contraindications (4) and Clinical Pharmacology (12.3)].

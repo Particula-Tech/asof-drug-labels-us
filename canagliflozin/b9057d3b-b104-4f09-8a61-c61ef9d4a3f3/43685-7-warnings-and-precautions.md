@@ -2,9 +2,7 @@
 
 ## 5.1 Lower Limb Amputation
 
-An approximately 2-fold increased risk of lower limb amputations associated with INVOKANA use was observed in CANVAS and CANVAS-R, two large, randomized, placebo-controlled trials evaluating patients with type 2 diabetes who had either established cardiovascular disease or were at risk for cardiovascular disease.
-In CANVAS, INVOKANA-treated patients and placebo-treated patients had 5.9 and 2.8 amputations per 1000 patients per year, respectively.
-In CANVAS-R, INVOKANA-treated patients and placebo-treated patients had 7.5 and 4.2 amputations per 1000 patients per year, respectively.
+An approximately 2-fold increased risk of lower limb amputations associated with INVOKANA use was observed in CANVAS and CANVAS-R, two randomized, placebo-controlled trials evaluating patients with type 2 diabetes who had either established cardiovascular disease or were at risk for cardiovascular disease.
 The risk of lower limb amputations was observed at both the 100 mg and 300 mg once daily dosage regimens.
 The amputation data for CANVAS and CANVAS-R are shown in Tables 2 and 3, respectively [see Adverse Reactions (6.1)].
 
@@ -42,40 +40,42 @@ In some but not all cases, factors predisposing to ketoacidosis such as insulin 
 Before initiating INVOKANA, consider factors in the patient history that may predispose to ketoacidosis including pancreatic insulin deficiency from any cause, caloric restriction, and alcohol abuse.
 In patients treated with INVOKANA consider monitoring for ketoacidosis and temporarily discontinuing INVOKANA in clinical situations known to predispose to ketoacidosis (e.g., prolonged fasting due to acute illness or surgery).
 
-## 5.4 Acute Kidney Injury and Impairment in Renal Function
+## 5.4 Acute Kidney Injury
 
-INVOKANA causes intravascular volume contraction [see Warnings and Precautions (5.2)] and can cause renal impairment [see Adverse Reactions (6.1)].
+INVOKANA causes intravascular volume contraction [see Warnings and Precautions (5.2)] and can cause acute kidney injury.
 There have been postmarketing reports of acute kidney injury, some requiring hospitalization and dialysis, in patients receiving INVOKANA; some reports involved patients younger than 65 years of age.
 
 Before initiating INVOKANA, consider factors that may predispose patients to acute kidney injury including hypovolemia, chronic renal insufficiency, congestive heart failure and concomitant medications (diuretics, ACE inhibitors, ARBs, NSAIDs).
 Consider temporarily discontinuing INVOKANA in any setting of reduced oral intake (such as acute illness or fasting) or fluid losses (such as gastrointestinal illness or excessive heat exposure); monitor patients for signs and symptoms of acute kidney injury.
 If acute kidney injury occurs, discontinue INVOKANA promptly and institute treatment.
 
-INVOKANA increases serum creatinine and decreases eGFR.
-Patients with hypovolemia may be more susceptible to these changes.
-Renal function abnormalities can occur after initiating INVOKANA [see Adverse Reactions (6.1)].
+Initiation of INVOKANA may increase serum creatinine and decrease eGFR.
+Patients with hypovolemia may be more susceptible to these changes [see Adverse Reactions (6.1)].
 Renal function should be evaluated prior to initiation of INVOKANA and monitored periodically thereafter.
 Dosage adjustment and more frequent renal function monitoring are recommended in patients with an eGFR below 60 mL/min/1.73 m2.
-Use of INVOKANA is not recommended when eGFR is persistently less than 45 mL/min/1.73 m2 and is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 [see Dosage and Administration (2.2), Contraindications (4) and Use in Specific Populations (8.6)].
+Use of INVOKANA is not recommended when eGFR is persistently less than 45 mL/min/1.73 m2 and is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 [see Dosage and Administration (2.3), Contraindications (4) and Use in Specific Populations (8.6)].
 
-## 5.5 Hyperkalemia
-
-INVOKANA can lead to hyperkalemia.
-Patients with moderate renal impairment who are taking medications that interfere with potassium excretion, such as potassium-sparing diuretics, or medications that interfere with the renin-angiotensin-aldosterone system are at an increased risk of developing hyperkalemia [see Dosage and Administration (2.2) and Adverse Reactions (6.1)].
-
-Monitor serum potassium levels periodically after initiating INVOKANA in patients with impaired renal function and in patients predisposed to hyperkalemia due to medications or other medical conditions.
-
-## 5.6 Urosepsis and Pyelonephritis
+## 5.5 Urosepsis and Pyelonephritis
 
 There have been postmarketing reports of serious urinary tract infections including urosepsis and pyelonephritis requiring hospitalization in patients receiving SGLT2 inhibitors, including INVOKANA.
 Treatment with SGLT2 inhibitors increases the risk for urinary tract infections.
 Evaluate patients for signs and symptoms of urinary tract infections and treat promptly, if indicated [see Adverse Reactions (6)].
 
-## 5.7 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
+## 5.6 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
 
 Insulin and insulin secretagogues are known to cause hypoglycemia.
-INVOKANA can increase the risk of hypoglycemia when combined with insulin or an insulin secretagogue [see Adverse Reactions (6.1)].
+INVOKANA may increase the risk of hypoglycemia when combined with insulin or an insulin secretagogue [see Adverse Reactions (6.1)].
 Therefore, a lower dose of insulin or insulin secretagogue may be required to minimize the risk of hypoglycemia when used in combination with INVOKANA.
+
+## 5.7 Necrotizing Fasciitis of the Perineum (Fournier's Gangrene)
+
+Reports of necrotizing fasciitis of the perineum (Fournier's gangrene), a rare but serious and life-threatening necrotizing infection requiring urgent surgical intervention, have been identified in postmarketing surveillance in patients with diabetes mellitus receiving SGLT2 inhibitors, including INVOKANA.
+Cases have been reported in both females and males.
+Serious outcomes have included hospitalization, multiple surgeries, and death.
+
+Patients treated with INVOKANA presenting with pain or tenderness, erythema, or swelling in the genital or perineal area, along with fever or malaise, should be assessed for necrotizing fasciitis.
+If suspected, start treatment immediately with broad-spectrum antibiotics and, if necessary, surgical debridement.
+Discontinue INVOKANA, closely monitor blood glucose levels, and provide appropriate alternative therapy for glycemic control.
 
 ## 5.8 Genital Mycotic Infections
 
@@ -91,14 +91,10 @@ If hypersensitivity reactions occur, discontinue use of INVOKANA; treat and moni
 
 ## 5.10 Bone Fracture
 
-An increased risk of bone fracture, occurring as early as 12 weeks after treatment initiation, was observed in patients using INVOKANA.
+An increased risk of bone fracture, occurring as early as 12 weeks after treatment initiation, was observed in patients using INVOKANA in the CANVAS trial [see Clinical Studies (14.2)].
 Consider factors that contribute to fracture risk prior to initiating INVOKANA [see Adverse Reactions (6.1)].
 
 ## 5.11 Increases in Low-Density Lipoprotein (LDL-C)
 
 Dose-related increases in LDL-C occur with INVOKANA [see Adverse Reactions (6.1)].
 Monitor LDL-C and treat if appropriate after initiating INVOKANA.
-
-## 5.12 Macrovascular Outcomes
-
-There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with INVOKANA [see Adverse Reactions (6.1)].

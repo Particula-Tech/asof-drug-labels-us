@@ -10,15 +10,15 @@ By inhibiting SGLT2, canagliflozin reduces reabsorption of filtered glucose and 
 
 Following single and multiple oral doses of canagliflozin in patients with type 2 diabetes, dose-dependent decreases in the renal threshold for glucose (RTG) and increases in urinary glucose excretion were observed.
 From a starting RTG value of approximately 240 mg/dL, canagliflozin at 100 mg and 300 mg once daily suppressed RTG throughout the 24-hour period.
-Maximal suppression of mean RTG over the 24-hour period was seen with the 300 mg daily dose to approximately 70 to 90 mg/dL in patients with type 2 diabetes in Phase 1 studies.
+Maximal suppression of mean RTG over the 24-hour period was seen with the 300 mg daily dose to approximately 70 to 90 mg/dL in patients with type 2 diabetes in Phase 1 trials.
 The reductions in RTG led to increases in mean UGE of approximately 100 g/day in subjects with type 2 diabetes treated with either 100 mg or 300 mg of canagliflozin.
-In patients with type 2 diabetes given 100 mg to 300 mg once daily over a 16-day dosing period, reductions in RTG and increases in urinary glucose excretion were observed over the dosing period.
-In this study, plasma glucose declined in a dose-dependent fashion within the first day of dosing.
-In single-dose studies in healthy and type 2 diabetic subjects, treatment with canagliflozin 300 mg before a mixed-meal delayed intestinal glucose absorption and reduced postprandial glucose.
+In patients with type 2 diabetes given 100 to 300 mg once daily over a 16-day dosing period, reductions in RTG and increases in urinary glucose excretion were observed over the dosing period.
+In this trial, plasma glucose declined in a dose-dependent fashion within the first day of dosing.
+In single-dose trials in healthy and type 2 diabetic subjects, treatment with canagliflozin 300 mg before a mixed-meal delayed intestinal glucose absorption and reduced postprandial glucose.
 
 Cardiac Electrophysiology
 
-In a randomized, double-blind, placebo-controlled, active-comparator, 4-way crossover study, 60 healthy subjects were administered a single oral dose of canagliflozin 300 mg, canagliflozin 1,200 mg (4 times the maximum recommended dose), moxifloxacin, and placebo.
+In a randomized, double-blind, placebo-controlled, active-comparator, 4-way crossover trial, 60 healthy subjects were administered a single oral dose of canagliflozin 300 mg, canagliflozin 1,200 mg (4 times the maximum recommended dose), moxifloxacin, and placebo.
 No meaningful changes in QTc interval were observed with either the recommended dose of 300 mg or the 1,200 mg dose.
 
 ## 12.3 Pharmacokinetics
@@ -34,7 +34,7 @@ Absorption
 
 The mean absolute oral bioavailability of canagliflozin is approximately 65%.
 Co-administration of a high-fat meal with canagliflozin had no effect on the pharmacokinetics of canagliflozin; therefore, INVOKANA may be taken with or without food.
-However, based on the potential to reduce postprandial plasma glucose excursions due to delayed intestinal glucose absorption, it is recommended that INVOKANA be taken before the first meal of the day [see Dosage and Administration (2.1)].
+However, based on the potential to reduce postprandial plasma glucose excursions due to delayed intestinal glucose absorption, it is recommended that INVOKANA be taken before the first meal of the day [see Dosage and Administration (2.2)].
 
 Distribution
 
@@ -64,10 +64,10 @@ Specific Populations
 
 Renal Impairment
 
-A single-dose, open-label study evaluated the pharmacokinetics of canagliflozin 200 mg in subjects with varying degrees of renal impairment (classified using the MDRD-eGFR formula) compared to healthy subjects.
+A single-dose, open-label trial evaluated the pharmacokinetics of canagliflozin 200 mg in subjects with varying degrees of renal impairment (classified using the MDRD-eGFR formula) compared to healthy subjects.
 
 Renal impairment did not affect the Cmax of canagliflozin.
-Compared to healthy subjects (N=3; eGFR greater than or equal to 90 mL/min/1.73 m2), plasma AUC of canagliflozin was increased by approximately 15%, 29%, and 53% in subjects with mild (N=10), moderate (N=9), and severe (N=10) renal impairment, respectively, (eGFR 60 to less than 90, 30 to less than 60 and 15 to less than 30 mL/min/1.73 m2, respectively), but was similar for ESRD (N=8) subjects and healthy subjects.
+Compared to healthy subjects (N=3; eGFR greater than or equal to 90 mL/min/1.73 m2), plasma AUC of canagliflozin was increased by approximately 15%, 29%, and 53% in subjects with mild (N=10), moderate (N=9), and severe (N=10) renal impairment, respectively, (eGFR 60 to less than 90, 30 to less than 60, and 15 to less than 30 mL/min/1.73 m2, respectively), but was similar for ESRD (N=8) subjects and healthy subjects.
 
 Increases in canagliflozin AUC of this magnitude are not considered clinically relevant.
 The pharmacodynamic response to canagliflozin declines with increasing severity of renal impairment [see Contraindications (4) and Warnings and Precautions (5.4)].
@@ -85,10 +85,6 @@ Pharmacokinetic Effects of Age, Body Mass Index (BMI)/Weight, Gender and Race
 
 Based on the population PK analysis with data collected from 1526 subjects, age, body mass index (BMI)/weight, gender, and race do not have a clinically meaningful effect on the pharmacokinetics of canagliflozin [see Use in Specific Populations (8.5)].
 
-Pediatric
-
-Studies characterizing the pharmacokinetics of canagliflozin in pediatric patients have not been conducted.
-
 Drug Interaction Studies
 
 In Vitro Assessment of Drug Interactions
@@ -105,7 +101,7 @@ Table 7: Effect of Co−Administered Drugs on Systemic Exposures of Canagliflozi
 
 | AUCAUCinf for drugs given as a single dose and AUC24h for drugs given as multiple doses (90% CI) | Cmax (90% CI) |  |  |  |
 | --- | --- | --- | --- | --- |
-| Co-Administered Drug | Dose of Co-Administered DrugSingle dose unless otherwise noted | Dose of Canagliflozin | Geometric Mean Ratio (Ratio With/Without Co-Administered Drug) No Effect=1.0 |  |
+| Co-Administered Drug | Dose of Co-Administered DrugSingle dose unless otherwise noted | Dose of Canagliflozin | Geometric Mean Ratio (Ratio With/Without Co-Administered Drug) No Effect = 1.0 |  |
 | See Drug Interactions (7.1) for the clinical relevance of the following: |  |  |  |  |
 | Rifampin | 600 mg QD for 8 days | 300 mg | 0.49 (0.44; 0.54) | 0.72 (0.61; 0.84) |
 | No dose adjustments of INVOKANA required for the following: |  |  |  |  |
@@ -122,17 +118,17 @@ Table 8: Effect of Canagliflozin on Systemic Exposure of Co-Administered Drugs
 | --- | --- | --- | --- | --- | --- |
 | Co-Administered Drug | Dose of Co-Administered DrugSingle dose unless otherwise noted | Dose of Canagliflozin | Geometric Mean Ratio (Ratio With/Without Co-Administered Drug) No Effect = 1.0 |  |  |
 | See Drug Interactions (7.2) for the clinical relevance of the following: |  |  |  |  |  |
-| Digoxin | 0.5 mg QD first day followed by 0.25 mg QD for 6 days | 300 mg QD for 7 days | digoxin | 1.20 (1.12; 1.28) | 1.36 (1.21; 1.53) |
+| Digoxin | 0.5 mg QD first day followed by 0.25 mg QD for 6 days | 300 mg QD for 7 days | Digoxin | 1.20 (1.12; 1.28) | 1.36 (1.21; 1.53) |
 | No dose adjustments of co-administered drug required for the following: |  |  |  |  |  |
-| Acetaminophen | 1,000 mg | 300 mg BID for 25 days | acetaminophen | 1.06AUC0–12h (0.98; 1.14) | 1.00 (0.92; 1.09) |
+| Acetaminophen | 1,000 mg | 300 mg BID for 25 days | Acetaminophen | 1.06AUC0–12h (0.98; 1.14) | 1.00 (0.92; 1.09) |
 | Ethinyl estradiol and levonorgestrel | 0.03 mg ethinyl estradiol and 0.15 mg levonorgestrel | 200 mg QD for 6 days | ethinyl estradiol | 1.07 (0.99; 1.15) | 1.22 (1.10; 1.35) |
-| levonorgestrel | 1.06 (1.00; 1.13) | 1.22 (1.11; 1.35) |  |  |  |
-| Glyburide | 1.25 mg | 200 mg QD for 6 days | glyburide | 1.02 (0.98; 1.07) | 0.93 (0.85; 1.01) |
+| Levonorgestrel | 1.06 (1.00; 1.13) | 1.22 (1.11; 1.35) |  |  |  |
+| Glyburide | 1.25 mg | 200 mg QD for 6 days | Glyburide | 1.02 (0.98; 1.07) | 0.93 (0.85; 1.01) |
 | 3-cis-hydroxy-glyburide | 1.01 (0.96; 1.07) | 0.99 (0.91; 1.08) |  |  |  |
 | 4-trans-hydroxy-glyburide | 1.03 (0.97; 1.09) | 0.96 (0.88; 1.04) |  |  |  |
-| Hydrochlorothiazide | 25 mg QD for 35 days | 300 mg QD for 7 days | hydrochlorothiazide | 0.99 (0.95; 1.04) | 0.94 (0.87; 1.01) |
-| Metformin | 2,000 mg | 300 mg QD for 8 days | metformin | 1.20 (1.08; 1.34) | 1.06 (0.93; 1.20) |
-| Simvastatin | 40 mg | 300 mg QD for 7 days | simvastatin | 1.12 (0.94; 1.33) | 1.09 (0.91; 1.31) |
+| Hydrochlorothiazide | 25 mg QD for 35 days | 300 mg QD for 7 days | Hydrochlorothiazide | 0.99 (0.95; 1.04) | 0.94 (0.87; 1.01) |
+| Metformin | 2,000 mg | 300 mg QD for 8 days | Metformin | 1.20 (1.08; 1.34) | 1.06 (0.93; 1.20) |
+| Simvastatin | 40 mg | 300 mg QD for 7 days | Simvastatin | 1.12 (0.94; 1.33) | 1.09 (0.91; 1.31) |
 | simvastatin acid | 1.18 (1.03; 1.35) | 1.26 (1.10; 1.45) |  |  |  |
 | Warfarin | 30 mg | 300 mg QD for 12 days | (R)-warfarin | 1.01 (0.96; 1.06) | 1.03 (0.94; 1.13) |
 | (S)-warfarin | 1.06 (1.00; 1.12) | 1.01 (0.90; 1.13) |  |  |  |
