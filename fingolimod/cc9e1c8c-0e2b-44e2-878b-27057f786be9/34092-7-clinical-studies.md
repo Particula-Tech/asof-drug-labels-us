@@ -36,7 +36,7 @@ Study 2 was a 1-year randomized, double-blind, double-dummy, active-controlled s
 Prior therapy with interferon-beta or glatiramer acetate up to the time of randomization was permitted.
 
 Neurological evaluations were performed at screening, every 3 months, and at the time of suspected relapses.
-MRI evaluations were performed at screening and at month 12.
+MRI evaluations were performed at screening and at Month 12.
 The primary endpoint was the annualized relapse rate.
 
 Median age was 36 years, median disease duration was 5.9 years, and median EDSS score at baseline was 2.0.
@@ -70,7 +70,7 @@ Pooled results of study 1 and study 2 showed a consistent and statistically sign
 Study 4 (NCT 01892722) evaluated the efficacy of once-daily oral doses of GILENYA 0.25 mg or GILENYA 0.5 mg in pediatric patients 10 to less than 18 years of age with relapsing-remitting multiple sclerosis.
 Study 4 was a 215-patient, double-blind, randomized, clinical trial that compared GILENYA to intramuscular interferon beta-1a.
 Prior therapy with interferon-beta, dimethyl fumarate, or glatiramer acetate up to the time of randomization was permitted.
-The study included patients who had experienced at least 1 clinical relapse during the year prior or 2 relapses during the 2 years prior to screening, or evidence of 1 or more Gd enhancing lesions on MRI within 6 months prior to randomization, and had an EDSS score from 0 to 5.5.
+The study included patients who had experienced at least 1 clinical relapse during the year prior or 2 relapses during the 2 years prior to screening, or evidence of 1 or more Gd-enhancing lesions on MRI within 6 months prior to randomization, and had an EDSS score from 0 to 5.5.
 Neurological evaluations were scheduled at screening, every 3 months, and at the time of suspected relapses.
 MRI evaluations were performed at screening and every 6 months throughout the study.
 The primary endpoint was the annualized relapse rate.

@@ -7,4 +7,4 @@ GILENYA is contraindicated in patients who have:
 - a baseline QTc interval ≥ 500 msec
 - concomitant treatment with Class Ia or Class III anti-arrhythmic drugs
 - had a hypersensitivity reaction to fingolimod or any of the excipients in GILENYA.
-  Observed reactions include rash, urticaria and angioedema upon treatment initiation [see Warnings and Precautions (5.12)].
+  Observed reactions include rash, urticaria and angioedema upon treatment initiation [see Warnings and Precautions (5.13)].

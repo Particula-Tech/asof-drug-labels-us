@@ -18,6 +18,11 @@ The receptor affected by fingolimod (sphingosine 1-phosphate receptor) is known 
 In the US general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2%-4% and 15%-20%, respectively.
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 
+Clinical Considerations
+
+The possibility of severe increase in disability should be considered in women who discontinue or are considering discontinuation of GILENYA because of pregnancy or planned pregnancy.
+In many of the cases in which increase in disability was reported after stopping GILENYA, patients had stopped GILENYA because of pregnancy or planned pregnancy [see Warnings and Precautions (5.9)].
+
 Data
 
 Animal Data
@@ -35,14 +40,14 @@ Risk Summary
 
 There are no data on the presence of fingolimod in human milk, the effects on the breastfed infant, or the effects of the drug on milk production.
 Fingolimod is excreted in the milk of treated rats.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clincial need for GILENYA and any potential adverse effects on the breastfed infant from GILENYA or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for GILENYA and any potential adverse effects on the breastfed infant from GILENYA or from the underlying maternal condition.
 
 ## 8.3 Females and Males of Reproductive Potential
 
 Contraception
 
 Before initiation of GILENYA treatment, women of childbearing potential should be counselled on the potential for a serious risk to the fetus and the need for effective contraception during treatment with GILENYA [see Use in Specific Populations (8.1)].
-Since it takes approximately 2 months to eliminate the compound from the body after stopping treatment, the potential risk to the fetus may persist and women should use effective contraception during this period [see Warnings and Precautions (5.8, 5.11)].
+Since it takes approximately 2 months to eliminate the compound from the body after stopping treatment, the potential risk to the fetus may persist and women should use effective contraception during this period [see Warnings and Precautions (5.8, 5.12)].
 
 ## 8.4 Pediatric Use
 

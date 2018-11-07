@@ -8,7 +8,7 @@ Advise patients to contact their physician if they accidently take more GILENYA 
 Cardiac Effects
 
 Advise patients that initiation of GILENYA treatment results in a transient decrease in heart rate.
-Inform patients that they will need to be observed in the doctor's office or other facility for at least 6 hours after the first dose, after reinitiation if treatment is interrupted or discontinued for certain periods, and after the dosage is increased [see Dosage and Administration (2.5), Warnings and Precautions (5.1)].
+Inform patients that they will need to be observed in the doctor's office or other facility for at least 6 hours after the first dose, after reinitiation if treatment is interrupted or discontinued for certain periods, and after the dosage is increased [see Dosage and Administration (2.4), Warnings and Precautions (5.1)].
 
 Risk of Infections
 
@@ -31,7 +31,7 @@ Inform patients with diabetes mellitus or a history of uveitis that their risk o
 
 Posterior Reversible Encephalopathy Syndrome
 
-Advise patients to immediately report to their healthcare provide any symptoms involving sudden onset of severe headache, altered mental status, visual disturbances, or seizure.
+Advise patients to immediately report to their healthcare provider any symptoms involving sudden onset of severe headache, altered mental status, visual disturbances, or seizure.
 Inform patients that delayed treatment could lead to permanent neurological sequelae [see Warnings and Precautions (5.5)].
 
 Respiratory Effects
@@ -48,27 +48,31 @@ Fetal Risk
 Inform patients that, based on animal studies, GILENYA may cause fetal harm.
 Discuss with women of childbearing age whether they are pregnant, might be pregnant or are trying to become pregnant.
 Advise women of childbearing age of the need for effective contraception during GILENYA treatment and for 2 months after stopping GILENYA.
-Advise the patient that if she should nevertheless become pregnant, she should immediately inform her physician [see Warnings and Precautions (5.9)].
+Advise the patient that if she should nevertheless become pregnant, she should immediately inform her physician [see Warnings and Precautions (5.8)].
+
+Severe Increase in Disability after Stopping GILENYA
+
+Inform patients that severe increase in disability has been reported after discontinuation of GILENYA.
+Advise patients to contact their physician if they develop worsening symptoms of MS following discontinuation of GILENYA [see Warnings and Precautions (5.9)].
 
 Cutaneous Malignancies
 
 Advise patients that basal cell carcinoma and melanoma are associated with use of GILENYA.
 Advise patients that any suspicious skin lesions should be promptly evaluated.
-Advise patients to limit exposure to sunlight and ultraviolet light by wearing protective clothing and using a sunscreen with a high protection factor [see Warnings and Precautions (5.10)].
+Advise patients to limit exposure to sunlight and ultraviolet light by wearing protective clothing and using a sunscreen with a high protection factor [see Warnings and Precautions (5.11)].
 
 Persistence of GILENYA Effects after Drug Discontinuation
 
-Advise patients that GILENYA remains in the blood and continues to have effects, including decreased blood lymphocyte counts, for up to 2 months following the last dose [see Warnings and Precautions (5.11)].
+Advise patients that GILENYA remains in the blood and continues to have effects, including decreased blood lymphocyte counts, for up to 2 months following the last dose [see Warnings and Precautions (5.12)].
 
 Hypersensitivity Reactions
 
 Advise patients that GILENYA may cause hypersensitivity reactions including rash, urticaria, and angioedema.
-Advise patients to contact their physician if they have any symptoms associated with hypersensitivity [see Warnings and Precautions (5.12)].
+Advise patients to contact their physician if they have any symptoms associated with hypersensitivity [see Warnings and Precautions (5.13)].
 
 Pregnancy and Pregnancy Registry
 
 Instruct patients that if they are pregnant or plan to become pregnant while taking GILENYA they should inform their physician.
-
 Encourage patients to enroll in the GILENYA Pregnancy Registry if they become pregnant while taking GILENYA [see Use in Specific Populations (8.1)].
 
-T2018-75
+T2018-123

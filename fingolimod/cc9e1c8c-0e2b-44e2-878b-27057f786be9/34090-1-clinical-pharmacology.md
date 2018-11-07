@@ -47,7 +47,7 @@ GILENYA reduces the immune response to vaccination, as evaluated in 2 studies.
 In the first study, the immunogenicity of keyhole limpet hemocyanin (KLH) and pneumococcal polysaccharide vaccine (PPV-23) immunization were assessed by IgM and IgG titers in a steady-state, randomized, placebo-controlled study in healthy adult volunteers.
 Compared to placebo, antigen-specific IgM titers were decreased by 91% and 25% in response to KLH and PPV-23, respectively, in subjects on GILENYA 0.5 mg.
 Similarly, IgG titers were decreased by 45% and 50%, in response to KLH and PPV-23, respectively, in subjects on GILENYA 0.5 mg daily compared to placebo.
-The responder rate for GILENYA 0.5 mg as measured by the number of subjects with a > 4-fold increase in KLH IgG was comparable to placebo and 25% lower for PPV-23 IgG, while the number of subjects with a >4 fold increase in KLH and PPV-23 IgM was 75% and 40% lower, respectively, compared to placebo.
+The responder rate for GILENYA 0.5 mg as measured by the number of subjects with a > 4-fold increase in KLH IgG was comparable to placebo and 25% lower for PPV-23 IgG, while the number of subjects with a > 4 fold increase in KLH and PPV-23 IgM was 75% and 40% lower, respectively, compared to placebo.
 The capacity to mount a skin delayed-type hypersensitivity reaction to Candida and tetanus toxoid was decreased by approximately 30% in subjects on GILENYA 0.5 mg daily, compared to placebo.
 Immunologic responses were further decreased with fingolimod 1.25 mg (a dose higher than recommended in MS) [see Warnings and Precautions (5.2)].
 
@@ -62,7 +62,7 @@ In a 14-day study of 0.5, 1.25, or 5 mg/day, fingolimod was not associated with 
 Subjects on fingolimod treatment had a normal bronchodilator response to inhaled beta-agonists.
 
 In a 14-day placebo-controlled study of adult patients with moderate asthma, no effect was seen for GILENYA 0.5 mg (recommended dose in MS). A 10% reduction in mean FEV1 at 6 hours after dosing was observed in adult patients receiving fingolimod 1.25 mg (a dose higher than recommended for use in MS) on Day 10 of treatment.
-Fingolimod 1.25 mg was associated with a 5-fold increase in the use of rescue short acting beta-agonists.
+Fingolimod 1.25 mg was associated with a 5-fold increase in the use of rescue short-acting beta-agonists.
 
 ## 12.3 Pharmacokinetics
 
@@ -71,7 +71,7 @@ Absorption
 The Tmax of fingolimod is 12-16 hours.
 The apparent absolute oral bioavailability is 93%.
 
-Food intake does not alter Cmax or exposure area under the curve (AUC) of fingolimod or fingolimod-phosphate.
+Food intake does not alter Cmax or (AUC) of fingolimod or fingolimod-phosphate.
 Therefore, GILENYA may be taken without regard to meals.
 
 Steady-state blood concentrations are reached within 1 to 2 months following once-daily administration and steady-state levels are approximately 10-fold greater than with the initial dose.

@@ -10,10 +10,11 @@ The following serious adverse reactions are described elsewhere in labeling:
 - Respiratory Effects [see Warnings and Precautions (5.6)]
 - Liver Injury [see Warnings and Precautions (5.7)]
 - Fetal Risk [see Warnings and Precautions (5.8)]
-- Increased Blood Pressure [see Warnings and Precautions (5.9)]
-- Cutaneous Malignancies [see Warnings and Precautions (5.10)]
-- Immune System Effects Following GILENYA Discontinuation [see Warnings and Precautions (5.11)]
-- Hypersensitivity Reactions [see Warnings and Precautions (5.12)]
+- Severe Increase in Disability After Stopping GILENYA [see Warnings and Precautions (5.9)]
+- Increased Blood Pressure [see Warnings and Precautions (5.10)]
+- Cutaneous Malignancies [see Warnings and Precautions (5.11)]
+- Immune System Effects Following GILENYA Discontinuation [see Warnings and Precautions (5.12)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.13)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -27,7 +28,7 @@ The overall exposure in the controlled trials was equivalent to 1716 person-year
 Approximately 1000 patients received at least 2 years of treatment with GILENYA 0.5 mg.
 In all clinical studies, including uncontrolled extension studies, the exposure to GILENYA 0.5 mg was approximately 4119 person-years.
 
-In placebo-controlled trials, the most frequent adverse reactions (incidence ≥ 10% and > placebo) for GILENYA 0.5 mg were headache, liver transaminase elevation, diarrhea, cough, influenza, sinusitis, back pain, abdominal pain, and pain in extremity.
+In placebo-controlled trials, the most frequent adverse reactions (incidence ≥ 10% and greater than placebo) for GILENYA 0.5 mg were headache, liver transaminase elevation, diarrhea, cough, influenza, sinusitis, back pain, abdominal pain, and pain in extremity.
 Adverse events that led to treatment discontinuation and occurred in more than 1% of patients taking GILENYA 0.5 mg were serum transaminase elevations (4.7% compared to 1% on placebo) and basal cell carcinoma (1% compared to 0.5% on placebo).
 
 Table 1 lists adverse reactions in clinical studies in adults that occurred in ≥ 1% of GILENYA-treated patients and ≥ 1% higher rate than for placebo.

@@ -89,7 +89,7 @@ In clinical studies, patients who received GILENYA did not receive concomitant t
 
 When switching to GILENYA from immune-modulating or immunosuppressive medications, consider the duration of their effects and their mode of action to avoid unintended additive immunosuppressive effects.
 
-VZV Antibody Testing/Vaccination
+Varicella Zoster Virus Antibody Testing/Vaccination
 
 Patients without a healthcare professional confirmed history of chickenpox or without documentation of a full course of vaccination against VZV should be tested for antibodies to VZV before initiating GILENYA.
 VZV vaccination of antibody-negative patients is recommended prior to commencing treatment with GILENYA, following which initiation of treatment with GILENYA should be postponed for 1 month to allow the full effect of vaccination to occur [see Drug Interactions (7.3), Use in Specific Populations (8.4)].
@@ -186,13 +186,21 @@ Because GILENYA exposure is doubled in patients with severe hepatic impairment, 
 Based on animal studies, GILENYA may cause fetal harm.
 Because it takes approximately 2 months to eliminate GILENYA from the body, women of childbearing potential should use effective contraception to avoid pregnancy during and for 2 months after stopping GILENYA treatment.
 
-## 5.9 Increased Blood Pressure
+## 5.9 Severe Increase in Disability After Stopping GILENYA
+
+Severe increase in disability accompanied by multiple new lesions on MRI has been reported after discontinuation of GILENYA in the postmarketing setting.
+Patients in most of these reported cases did not return to the functional status they had before stopping GILENYA.
+The increase in disability generally occurred within 12 weeks after stopping GILENYA, but was reported up to 24 weeks after GILENYA discontinuation.
+
+Monitor patients for development of severe increase in disability following discontinuation of GILENYA and begin appropriate treatment as needed.
+
+## 5.10 Increased Blood Pressure
 
 In adult MS controlled clinical trials, patients treated with GILENYA 0.5 mg had an average increase over placebo of approximately 3 mmHg in systolic pressure, and approximately 2 mmHg in diastolic pressure, first detected after approximately 1 month of treatment initiation, and persisting with continued treatment.
 Hypertension was reported as an adverse reaction in 8% of patients on GILENYA 0.5 mg and in 4% of patients on placebo.
 Blood pressure should be monitored during treatment with GILENYA.
 
-## 5.10 Cutaneous Malignancies
+## 5.11 Cutaneous Malignancies
 
 The risk of basal cell carcinoma (BCC) and melanoma is increased in patients treated with GILENYA.
 In two-year placebo-controlled trials in adult patients, the incidence of BCC was 2% in patients on GILENYA 0.5 mg and 1% in patients on placebo [see Adverse Reactions (6.1)].
@@ -202,13 +210,13 @@ Providers and patients are advised to monitor for suspicious skin lesions.
 If a suspicious skin lesion is observed, it should be promptly evaluated.
 As usual for patients with increased risk for skin cancer, exposure to sunlight and ultraviolet light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
 
-## 5.11 Immune System Effects Following GILENYA Discontinuation
+## 5.12 Immune System Effects Following GILENYA Discontinuation
 
 Fingolimod remains in the blood and has pharmacodynamic effects, including decreased lymphocyte counts, for up to 2 months following the last dose of GILENYA.
 Lymphocyte counts generally return to the normal range within 1–2 months of stopping therapy [see Clinical Pharmacology (12.2)].
 Because of the continuing pharmacodynamic effects of fingolimod, initiating other drugs during this period warrants the same considerations needed for concomitant administration (e.g., risk of additive immunosuppressant effects) [see Drug Interactions (7.4)].
 
-## 5.12 Hypersensitivity Reactions
+## 5.13 Hypersensitivity Reactions
 
 Hypersensitivity reactions, including rash, urticaria, and angioedema have been reported with GILENYA in the postmarketing setting.
 GILENYA is contraindicated in patients with history of hypersensitivity to fingolimod or any of its excipients [see Contraindications (4)].
