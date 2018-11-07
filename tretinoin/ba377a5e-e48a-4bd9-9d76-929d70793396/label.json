@@ -1,0 +1,37 @@
+{
+  "application_numbers": [
+    "NDA017340",
+    "NDA017522",
+    "NDA017579",
+    "NDA017955",
+    "NDA019049"
+  ],
+  "inn": "tretinoin",
+  "labeler": "Mylan Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0378-8082-20",
+    "0378-8082-45",
+    "0378-8083-20",
+    "0378-8083-45",
+    "0378-8084-20",
+    "0378-8084-45",
+    "0378-8085-15",
+    "0378-8085-45",
+    "0378-8086-15",
+    "0378-8086-45"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "tretionin",
+      "name": "Tretionin"
+    },
+    {
+      "form": "GEL",
+      "generic": "tretionin",
+      "name": "Tretionin"
+    }
+  ],
+  "setid": "ba377a5e-e48a-4bd9-9d76-929d70793396",
+  "source": "dailymed"
+}
