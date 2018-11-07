@@ -44,16 +44,16 @@ All brand names listed are the registered trademarks of their respective owners 
 
 Manufactured In Israel By:
 
-TEVA PHARMACEUTICAL IND.
-LTD.
+Teva Pharmaceutical Ind.
+Ltd.
 
 Jerusalem, 9777402, Israel
 
 Manufactured For:
 
-TEVA PHARMACEUTICALS USA, INC.
+Teva Pharmaceuticals USA, Inc.
 
 North Wales, PA 19454
 
 Rev.
-H 9/2015
+I 8/2018

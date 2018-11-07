@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Anastrozole Tablets for oral administration contain 1 mg of anastrozole, USP, a non-steroidal aromatase inhibitor.
+Anastrozole Tablets USP for oral administration contain 1 mg of anastrozole, USP, a non-steroidal aromatase inhibitor.
 It is chemically described as 1,3-Benzenediacetonitrile, α, α, α', α'-tetramethyl-5-(1H-1,2,4-triazol-1-ylmethyl).
 Its structural formula is:
 

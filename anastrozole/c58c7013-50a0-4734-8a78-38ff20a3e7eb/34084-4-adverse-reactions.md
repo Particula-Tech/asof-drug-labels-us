@@ -18,9 +18,9 @@ The median duration of adjuvant treatment for safety evaluation was 59.8 months 
 
 Adverse reactions occurring with an incidence of at least 5% in either treatment group during treatment or within 14 days of the end of treatment are presented in Table 1.
 
-Table 1 - Adverse Reactions Occurring With an Incidence of at Least 5% in Either Treatment Group During Treatment, or Within 14 Days of the End of Treatment in the ATAC TrialThe combination arm was discontinued due to lack of efficacy benefit at 33 months of follow-up.
+Table 1 - Adverse Reactions Occurring With an Incidence of at Least 5% in Either Treatment Group During Treatment, or Within 14 Days of the End of Treatment in the ATAC Trial1
 
-| Body system and adverse reactions by COSTARTCOSTART Coding Symbols for Thesaurus of Adverse Reaction Terms. preferred termA patient may have had more than 1 adverse reaction, including more than 1 adverse reaction in the same body system. | Anastrozole 1 mg (NN = Number of patients receiving the treatment. = 3092) | Tamoxifen 20 mg (N = 3094) |
+| Body system and adverse reactions by COSTART2 preferred term3 | Anastrozole 1 mg (N4 = 3092) | Tamoxifen 20 mg (N4 = 3094) |
 | --- | --- | --- |
 | Body as a whole |  |  |
 | Asthenia | 575 (19) | 544 (18) |
@@ -82,17 +82,18 @@ Table 1 - Adverse Reactions Occurring With an Incidence of at Least 5% in Either
 | Breast pain | 251 (8) | 169 (6) |
 | Breast Neoplasm | 164 (5) | 139 (5) |
 | Vulvovaginitis | 194 (6) | 150 (5) |
-| Vaginal HemorrhageVaginal Hemorrhage without further diagnosis. | 122 (4) | 180 (6) |
+| Vaginal Hemorrhage5 | 122 (4) | 180 (6) |
 | Vaginitis | 125 (4) | 158 (5) |
+| The combination arm was discontinued due to lack of efficacy benefit at 33 months of follow-up.COSTART Coding Symbols for Thesaurus of Adverse Reaction Terms.A patient may have had more than 1 adverse reaction, including more than 1 adverse reaction in the same body system.N = Number of patients receiving the treatment.Vaginal Hemorrhage without further diagnosis. |  |  |
 
 Certain adverse reactions and combinations of adverse reactions were prospectively specified for analysis, based on the known pharmacologic properties and side effect profiles of the two drugs (see Table 2).
 
-Table 2 — Number of Patients With Pre-Specified Adverse Reactions in ATAC TrialPatients with multiple events in the same category are counted only once in that category.
+Table 2 — Number of Patients With Pre-Specified Adverse Reactions in ATAC Trial
 
 |  | AnastrozoleN = 3092(%) | TamoxifenN = 3094(%) | Odds-ratio | 95% CI |
 | --- | --- | --- | --- | --- |
 | Hot Flashes | 1104 (36) | 1264 (41) | 0.80 | 0.73 to 0.89 |
-| Musculoskeletal EventsRefers to joint symptoms, including joint disorder, arthritis, arthrosis and arthralgia. | 1100 (36) | 911 (29) | 1.32 | 1.19 to 1.47 |
+| Musculoskeletal Events2 | 1100 (36) | 911 (29) | 1.32 | 1.19 to 1.47 |
 | Fatigue/Asthenia | 575 (19) | 544 (18) | 1.07 | 0.94 to 1.22 |
 | Mood Disturbances | 597 (19) | 554 (18) | 1.10 | 0.97 to 1.25 |
 | Nausea and Vomiting | 393 (13) | 384 (12) | 1.03 | 0.88 to 1.19 |
@@ -108,7 +109,8 @@ Table 2 — Number of Patients With Pre-Specified Adverse Reactions in ATAC Tria
 | Venous Thromboembolic Events | 87 (3) | 140 (5) | 0.61 | 0.47 to 0.80 |
 | Deep Venous Thromboembolic Events | 48 (2) | 74 (2) | 0.64 | 0.45 to 0.93 |
 | Ischemic Cerebrovascular Event | 62 (2) | 88 (3) | 0.70 | 0.50 to 0.97 |
-| Endometrial CancerPercentages calculated based upon the numbers of patients with an intact uterus at baseline. | 4 (0.2) | 13 (0.6) | 0.31 | 0.10 to 0.94 |
+| Endometrial Cancer3 | 4 (0.2) | 13 (0.6) | 0.31 | 0.10 to 0.94 |
+| Patients with multiple events in the same category are counted only once in that category.Refers to joint symptoms, including joint disorder, arthritis, arthrosis and arthralgia.Percentages calculated based upon the numbers of patients with an intact uterus at baseline. |  |  |  |  |
 
 Ischemic Cardiovascular Events
 
@@ -166,12 +168,12 @@ Results are consistent with the previous analyses.
 
 Serious adverse reactions were similar between anastrozole (50%) and tamoxifen (51%).
 
-- •Cardiovascular events were consistent with the known safety profiles of anastrozole and tamoxifen.
-- •The cumulative incidences of all first fractures (both serious and non-serious, occurring either during or after treatment) was higher in the anastrozole group (15%) compared to the tamoxifen group (11%).
+- Cardiovascular events were consistent with the known safety profiles of anastrozole and tamoxifen.
+- The cumulative incidences of all first fractures (both serious and non-serious, occurring either during or after treatment) was higher in the anastrozole group (15%) compared to the tamoxifen group (11%).
   This increased first fracture rate during treatment did not continue in the post-treatment follow-up period.
-- •The cumulative incidence of new primary cancers was similar in the anastrozole group (13.7%) compared to the tamoxifen group (13.9%).
+- The cumulative incidence of new primary cancers was similar in the anastrozole group (13.7%) compared to the tamoxifen group (13.9%).
   Consistent with the previous analyses, endometrial cancer was higher in the tamoxifen group (0.8%) compared to the anastrozole group (0.2%).
-- •The overall number of deaths (during or off-trial treatment) was similar between the treatment groups.
+- The overall number of deaths (during or off-trial treatment) was similar between the treatment groups.
   There were more deaths related to breast cancer in the tamoxifen than in the anastrozole treatment group.
 
 First-Line Therapy
@@ -182,7 +184,7 @@ Table 3 - Adverse Reactions Occurring With an Incidence of at Least 5% in Trials
 
 | Body system | Number (%) of subjects |  |
 | --- | --- | --- |
-| Adverse ReactionA patient may have had more than 1 adverse event. |  |  |
+| Adverse Reaction1 |  |  |
 |  | Anastrozole | Tamoxifen |
 | (N = 506) | (N = 511) |  |
 | Whole body |  |  |
@@ -220,6 +222,7 @@ Table 3 - Adverse Reactions Occurring With an Incidence of at Least 5% in Trials
 | Rash | 38 (8) | 34 (8) |
 | Urogenital |  |  |
 | Leukorrhea | 9 (2) | 31 (6) |
+| A patient may have had more than 1 adverse event. |  |  |
 
 Less frequent adverse experiences reported in patients receiving anastrozole 1 mg in either Trial 0030 or Trial 0027 were similar to those reported for second-line therapy.
 
@@ -230,21 +233,22 @@ Table 4 - Number of Patients With Pre-Specified Adverse Reactions in Trials 0030
 
 |  | Number (n) and Percentage of Patients |  |
 | --- | --- | --- |
-| Adverse ReactionA patient may have had more than 1 adverse reaction. | Anastrozole | NOLVADEX® |
+| Adverse Reaction1 | Anastrozole | NOLVADEX® |
 |  | 1 mg | 20 mg |
 |  | (N = 506) | (N = 511) |
 |  | n (%) | n (%) |
 | Depression | 23 (5) | 32 (6) |
 | Tumor Flare | 15 (3) | 18 (4) |
-| Thromboembolic DiseaseIncludes pulmonary embolus, thrombophlebitis, retinal vein thrombosis. | 18 (4) | 33 (6) |
-| Venous | 5 | 15 |
-| Coronary and CerebralIncludes myocardial infarction, myocardial ischemia, angina pectoris, cerebrovascular accident, cerebral ischemia and cerebral infarct. | 13 | 19 |
+| Thromboembolic Disease2 | 18 (4) | 33 (6) |
+| Venous2 | 5 | 15 |
+| Coronary and Cerebral3 | 13 | 19 |
 | Gastrointestinal Disturbance | 170 (34) | 196 (38) |
 | Hot Flushes | 134 (26) | 118 (23) |
 | Vaginal Dryness | 9 (2) | 3 (1) |
 | Lethargy | 6 (1) | 15 (3) |
 | Vaginal Bleeding | 5 (1) | 11 (2) |
 | Weight Gain | 11 (2) | 8 (2) |
+| A patient may have had more than 1 adverse reaction.Includes pulmonary embolus, thrombophlebitis, retinal vein thrombosis.Includes myocardial infarction, myocardial ischemia, angina pectoris, cerebrovascular accident, cerebral ischemia and cerebral infarct. |  |  |
 
 Second-Line Therapy
 
@@ -255,7 +259,7 @@ Adverse reactions reported in greater than 5% of the patients in any of the trea
 
 Table 5 - Number (N) and Percentage of Patients With Adverse Reactions in Trials 0004 and 0005
 
-| Adverse ReactionA patient may have had more than one adverse reaction. | Anastrozole1 mg(N = 262) |  | Anastrozole10 mg(N = 246) |  | Megesterol Acetate160 mg(N = 253) |  |
+| Adverse Reaction1 | Anastrozole1 mg(N = 262) |  | Anastrozole10 mg(N = 246) |  | Megesterol Acetate160 mg(N = 253) |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | n | % | n | % | n | % |
 | Asthenia | 42 | (16) | 33 | (13) | 47 | (19) |
@@ -285,6 +289,7 @@ Table 5 - Number (N) and Percentage of Patients With Adverse Reactions in Trials
 | Weight Gain | 4 | (2) | 9 | (4) | 30 | (12) |
 | Sweating | 4 | (2) | 3 | (1) | 16 | (6) |
 | Increased Appetite | 0 | (0) | 1 | (0) | 13 | (5) |
+| A patient may have had more than one adverse reaction. |  |  |  |  |  |  |
 
 Other less frequent (2% to 5%) adverse reactions reported in patients receiving anastrozole 1 mg in either Trial 0004 or Trial 0005 are listed below.
 These adverse experiences are listed by body system and are in order of decreasing frequency within each body system regardless of assessed causality.
@@ -318,9 +323,9 @@ The results are shown in the table below.
 
 Table 6 — Number (n) and Percentage of Patients With Pre-Specified Adverse Reactions in Trials 0004 and 0005
 
-|  | Anastrozole |  | Anastrozole |  | Megestrol Acetate |  |
+|  | Anastrozole | Anastrozole |  | Megestrol Acetate |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | 1 mg(N = 262) |  | 10 mg(N = 246) |  | 160 mg(N = 253) |  |
+|  | 1 mg(N = 262) | 10 mg(N = 246) |  | 160 mg(N = 253) |  |  |
 |  | n | (%) | n | (%) | n | (%) |
 | Adverse Reaction Group |  |  |  |  |  |  |
 | Gastrointestinal Disturbance | 77 | (29) | 81 | (33) | 54 | (21) |
@@ -336,7 +341,7 @@ These adverse reactions are reported voluntarily from a population of uncertain 
 Therefore, it is not always possible to estimate reliably their frequency or establish a causal relationship to drug exposure.
 The following have been reported in post-approval use of anastrozole:
 
-1. •Hepatobiliary events including increases in alkaline phosphatase, alanine aminotransferase, aspartate aminotransferase, gamma-GT, and bilirubin; hepatitis
-2. •Rash including cases of mucocutaneous disorders such as erythema multiforme and Stevens-Johnson syndrome
-3. •Cases of allergic reactions including angioedema, urticaria and anaphylaxis [see Contraindications (4.2)]
-4. •Myalgia, trigger finger and hypercalcemia (with or without an increase in parathyroid hormone)
+- Hepatobiliary events including increases in alkaline phosphatase, alanine aminotransferase, aspartate aminotransferase, gamma-GT, and bilirubin; hepatitis
+- Rash including cases of mucocutaneous disorders such as erythema multiforme and Stevens-Johnson syndrome
+- Cases of allergic reactions including angioedema, urticaria and anaphylaxis [see Contraindications (4.2)]
+- Myalgia, trigger finger and hypercalcemia (with or without an increase in parathyroid hormone)
