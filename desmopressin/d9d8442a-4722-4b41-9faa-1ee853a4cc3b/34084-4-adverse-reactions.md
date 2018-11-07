@@ -1,36 +1,17 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-Infrequently, high dosages of intranasal DDAVP have produced transient headache and nausea.
-Nasal congestion, rhinitis and flushing have also been reported occasionally along with mild abdominal cramps.
-These symptoms disappeared with reduction in dosage.
-Nosebleed, sore throat, cough and upper respiratory infections have also been reported.
+The following serious reactions are described below and elsewhere in the labeling:
 
-The following table lists the percentage of patients having adverse experiences without regard to relationship to study drug from the pooled pivotal study data for nocturnal enuresis.
+- Hyponatremia [see Warnings and Precautions (5.1)].
+- Altered Absorption in Patients with Changes in Nasal Mucosa [see Warnings and Precautions (5.2)].
 
-|  | % | % | % |
-| --- | --- | --- | --- |
-| ADVERSE REACTION | PLACEBO (N=59) | DDAVP 20 mcg (N=60) | DDAVP 40 mcg (N=61) |
-| BODY AS A WHOLE |  |  |  |
-| Abdominal Pain | 0 | 2 | 2 |
-| Asthenia | 0 | 0 | 2 |
-| Chills | 0 | 0 | 2 |
-| Headache | 0 | 2 | 5 |
-| NERVOUS SYSTEM |  |  |  |
-| Dizziness | 0 | 0 | 3 |
-| RESPIRATORY SYSTEM |  |  |  |
-| Epistaxis | 2 | 3 | 0 |
-| Nostril Pain | 0 | 2 | 0 |
-| Rhinitis | 2 | 8 | 3 |
-| DIGESTIVE SYSTEM |  |  |  |
-| Gastrointestinal Disorder | 0 | 2 | 0 |
-| Nausea | 0 | 0 | 2 |
-| SPECIAL SENSES |  |  |  |
-| Conjunctivitis | 0 | 2 | 0 |
-| Edema Eyes | 0 | 2 | 0 |
-| Lachrymation Disorder | 0 | 0 | 2 |
+The following adverse reactions have been identified during post-approval use of desmopressin acetate.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
-## Post Marketing
+Increase in blood pressure, headache, nasal congestion, rhinitis, nosebleed, sore throat, cough, upper respiratory infections, nausea, flushing, and abdominal cramps.
 
-There have been rare reports of hyponatremic convulsions associated with concomitant use with the following medications: oxybutinin and imipramine.
+Water intoxication with hyponatremia
 
-See WARNINGS for the possibility of water intoxication and hyponatremia.
+Hyponatremic convulsions associated with concomitant use of the following medications: oxybutinin and imipramine [see Drug Interactions (7.1)].
+
+Severe allergic reactions and anaphylaxis [see Contraindications (4)]

@@ -1,56 +1,26 @@
-# PATIENT INSTRUCTION GUIDE
-
-DDAVP® Nasal Spray (desmopressin acetate)
-
-A better way to deliver DDAVP
-
-Delivering DDAVP more efficiently
-
-Your doctor has prescribed DDAVP as antidiuretic hormone replacement therapy.
-Follow the dosage schedule that is specified.
-The convenient nasal spray pump provides an efficient, reliable way to administer your medication.
-It is important, however, to adhere completely to the following instructions so that you will always receive a consistent dose of your medication.
-
-CAUTION: The nasal spray pump accurately delivers 50 doses of 10 micrograms each.
-Any solution remaining after 50 doses should be discarded since the amount delivered thereafter per actuation may be substantially less than 10 micrograms of drug.
-Do not transfer any remaining solution to another bottle.
-Please read the following instructions carefully before using the spray pump.
-
-Ensure that in children administration is under adult supervision in order to control the dose intake.
-
-If you accidentally deliver/administer too much of a dose, immediately telephone your doctor or a certified Regional Poison Center for advice.
-Possible signs of overdose may include confusion, drowsiness, continuing headache, problems with passing urine and rapid weight gain due to fluid retention.
-
-Using your DDAVP Nasal Spray Pump
-
-- 1.Remove protective cap.
-- 2.The spray pump must be primed prior to the first use.
-  To prime pump, press down 4 times.
-- 3.Once primed, the spray pump delivers 10 micrograms of medication each time it is pressed.
-  To ensure dosing accuracy, tilt bottle so that dip tube inside the bottle draws from the deepest portion of the medication.To administer a 10-microgram dose, place the spray nozzle in nostril and press the spray pump once.
-  If a higher dose has been prescribed, spray half the dose in each nostril.
-  The spray pump cannot be used for doses less than 10 micrograms or doses other than multiples of 10 micrograms.
-- 4.Replace the protective cap on bottle after use.
-  The pump will stay primed for up to one week.
-  If the product has not been used for a period of one week, re-prime the pump by pressing once.
-- 5.We have included a convenient check-off chart to assist you in keeping track of medication doses used.
-  This will help assure that you receive 50 "full doses" of medication.
-  Please note that the bottle has been filled with extra solution to accommodate the initial priming activity.
-  DDAVP Nasal Spray 50-Dose Check-off1234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950
-
-- 1.Retain with medication or affix in convenient location.
-- 2.Starting with dose #1, check off after each administration.
-- 3.Discard medication after 50 doses.
-
-Store at Controlled Room Temperature 20 to 25°C (68 to 77°F) [see USP].
-
-STORE BOTTLE IN UPRIGHT POSITION.
-
-Manufactured for: Ferring Pharmaceuticals Inc. Parsippany, NJ 07054 USA
-
-Origin Sweden
-
-Rev.
-04/2015
-
-2009054172
+| Patient Information DDAVP (phonetic spelling) Nasal Spray, 10 mcg per 0.1 mL for Intranasal Use Only |  |  |  |
+| --- | --- | --- | --- |
+| What is DDAVP? |  |  |  |
+| DDAVP is a prescription medicine called a vasopressin analog used as an antidiuretic replacement to manage central diabetes insipidus. |  |  |  |
+| DDAVP is not effective in the treatment of nephrogenic diabetes insipidus.DDAVP should not be used in people with nasal problems that may keep them from using a nasal spray. |  |  |  |
+| Who should not use DDAVP? |  |  |  |
+| Do not use DDAVP if you: |  |  |  |
+| are allergic to DDAVP or any of the ingredients in DDAVP. Some people have had severe allergic reactions while taking DDAVP. See the end of this Patient Information for a complete list of ingredients in DDAVP.have kidney problemshave or have had low levels of sodium in your blood (hyponatremia) |  |  |  |
+| What should I tell my healthcare provider before using DDAVP? Before using DDAVP, tell your healthcare provider about all your medical conditions including if you: |  |  |  |
+| have or have had nasal sores, nasal surgery, nasal injury, or have problems such as a stuffy nose or trouble breathing through your nose.have or have had any heart, blood circulation, or blood pressure problemshave a condition that causes fluid or water imbalance problems such as cystic fibrosis, or heart failure.have or have had a condition that causes you to be very thirstyare pregnant or plan to become pregnant. It is not known if DDAVP will harm your unborn baby.are breastfeeding or plan to breastfeed. It is not known if DDAVP passes into your breast milk. You and your healthcare provider should decide if you will use DDAVP. |  |  |  |
+| Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements. |  |  |  |
+| How should I use DDAVP? |  |  |  |
+| Read the Instructions for Use that comes with your DDAVP.Use DDAVP exactly as your healthcare provider tells you to use it.Your healthcare provider may change your dose of DDAVP if needed. |  |  |  |
+| What are the possible side effects of DDAVP? |  |  |  |
+| DDAVP may cause serious side effects including: |  |  |  |
+| low levels of sodium in the blood (hyponatremia). People using DDAVP are at risk for low sodium levels in the blood, water intoxication, and fluid overload. Follow your healthcare provider's instructions on limiting the amount of fluid you can drink when using DDAVP. Do not drink more than you need to satisfy your thirst. You can have serious side effects such as seizures, coma, and death from drinking too much fluid.Children and the elderly are at higher risk for these problems and should follow their healthcare provider's limits on drinking fluids.Call your healthcare provider right away if you have any of the following symptoms while using DDAVP. They may mean that your blood sodium level is too low. |  |  |  |
+|  | headacherestlessnessdisorientationfeeling irritablehallucinations | nausea, vomitingtirednessloss of appetitefeeling weak confusion | weight gainsleepinessmuscle cramps |
+| nasal scarring or swelling. Some people using DDAVP for long periods of time may have nasal problems such as scarring or swelling. This may affect how well DDAVP works for you. |  |  |  |
+| The most common side effects of DDAVP include: headache, stuffy nose, runny nose, nosebleed, sore throat, cough, upper respiratory infections, nausea, flushing, and stomach cramps. |  |  |  |
+| Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |  |  |
+| General information about the safe and effective use of DDAVP. |  |  |  |
+| Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use DDAVP for a condition for which it was not prescribed. Do not give DDAVP to other people, even if they have the same symptoms that you have. It may harm them. You can ask your healthcare provider or pharmacist for information about DDAVP that is written for health professionals. For more information call 1-888-FERRING (1-888-337-7464). |  |  |  |
+| What are the ingredients in DDAVP? |  |  |  |
+| Active ingredient: desmopressin acetate |  |  |  |
+| Inactive ingredients: benzalkonium chloride solution (50%), sodium chloride, citric acid monohydrate, disodium phosphate dihydrate, purified water |  |  |  |
+| This Patient Information has been approved by the Food and Drug Administration |  |  | 09/18 |
