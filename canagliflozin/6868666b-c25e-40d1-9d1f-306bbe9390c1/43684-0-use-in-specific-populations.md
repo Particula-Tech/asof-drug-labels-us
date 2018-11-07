@@ -4,9 +4,9 @@
 
 Risk Summary
 
-Based on animal data showing adverse renal effects, INVOKAMET is not recommended during the second and third trimesters of pregnancy.
+Based on animal data showing adverse renal effects, INVOKAMET/INVOKAMET XR is not recommended during the second and third trimesters of pregnancy.
 
-Limited data with INVOKAMET or canagliflozin in pregnant women are not sufficient to determine a drug-associated risk for major birth defects or miscarriage.
+Limited data with INVOKAMET, INVOKAMET XR or canagliflozin in pregnant women are not sufficient to determine a drug-associated risk for major birth defects or miscarriage.
 Published studies with metformin use during pregnancy have not reported a clear association with metformin and major birth defect or miscarriage risk [see Data].
 There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy [see Clinical Considerations].
 
@@ -56,13 +56,13 @@ No adverse developmental effects were observed when canagliflozin and metformin 
 
 Risk Summary
 
-There is no information regarding the presence of INVOKAMET or canagliflozin in human milk, the effects on the breastfed infant, or the effects on milk production.
+There is no information regarding the presence of INVOKAMET, INVOKAMET XR or canagliflozin in human milk, the effects on the breastfed infant, or the effects on milk production.
 Limited published studies report that metformin is present in human milk [see Data].
 However, there is insufficient information on the effects of metformin on the breastfed infant and no available information on the effects of metformin on milk production.
 Canagliflozin is present in the milk of lactating rats [see Data].
 Since human kidney maturation occurs in utero and during the first 2 years of life when lactational exposure may occur, there may be risk to the developing human kidney.
 
-Because of the potential for serious adverse reactions in a breastfed infant, advise women that use of INVOKAMET is not recommended while breastfeeding.
+Because of the potential for serious adverse reactions in a breastfed infant, advise women that use of INVOKAMET/INVOKAMET XR is not recommended while breastfeeding.
 
 Data
 
@@ -82,24 +82,24 @@ Discuss the potential for unintended pregnancy with premenopausal women as thera
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of INVOKAMET in pediatric patients under 18 years of age have not been established.
+Safety and effectiveness of INVOKAMET/INVOKAMET XR in pediatric patients under 18 years of age have not been established.
 
 ## 8.5 Geriatric Use
 
-INVOKAMET
+INVOKAMET and INVOKAMET XR
 
-Because renal function abnormalities can occur after initiating canagliflozin, metformin is substantially excreted by the kidney, and aging can be associated with reduced renal function, monitor renal function more frequently after initiating INVOKAMET in the elderly and then adjust dose based on renal function [see Dosage and Administration (2.2) and Warnings and Precautions (5.1, 5.5)].
+Because renal function abnormalities can occur after initiating canagliflozin, metformin is substantially excreted by the kidney, and aging can be associated with reduced renal function, monitor renal function more frequently after initiating INVOKAMET/INVOKAMET XR in the elderly and then adjust dose based on renal function [see Dosage and Administration (2.4) and Warnings and Precautions (5.1, 5.5)].
 
 Canagliflozin
 
-Two thousand thirty-four (2034) patients 65 years and older, and 345 patients 75 years and older were exposed to canagliflozin in nine clinical studies of canagliflozin.
-Of these patients, 1334 patients 65 years and older and 181 patients 75 years and older were exposed to the combination of canagliflozin and metformin [see Clinical Studies (14)].
+In 13 clinical trials of canagliflozin, 2,294 patients 65 years and older, and 351 patients 75 years and older were exposed to canagliflozin.
+Of these patients, 1,534 patients 65 years and older and 196 patients 75 years and older were exposed to the combination of canagliflozin and metformin [see Clinical Studies (14)].
 Patients 65 years and older had a higher incidence of adverse reactions related to reduced intravascular volume with canagliflozin (such as hypotension, postural dizziness, orthostatic hypotension, syncope, and dehydration), particularly with the 300 mg daily dose, compared to younger patients; a more prominent increase in the incidence was seen in patients who were 75 years and older [see Dosage and Administration (2.1) and Adverse Reactions (6.1)].
 Smaller reductions in HbA1C with canagliflozin relative to placebo were seen in older (65 years and older; -0.61% with canagliflozin 100 mg and -0.74% with canagliflozin 300 mg relative to placebo) compared to younger patients (-0.72% with canagliflozin 100 mg and -0.87% with canagliflozin 300 mg relative to placebo).
 
 Metformin
 
-Controlled clinical studies of metformin did not include sufficient numbers of elderly patients to determine whether they respond differently from younger patients, although other reported clinical experience has not identified differences in responses between the elderly and younger patients.
+Controlled clinical trials of metformin did not include sufficient numbers of elderly patients to determine whether they respond differently from younger patients, although other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 The initial and maintenance dosing of metformin should be conservative in patients with advanced age due to the potential for decreased renal function in this population.
 Any dose adjustment should be based on a careful assessment of renal function [see Contraindications (4), Warnings and Precautions (5.5), and Clinical Pharmacology (12.3)].
 
@@ -107,11 +107,11 @@ Any dose adjustment should be based on a careful assessment of renal function [s
 
 Canagliflozin
 
-The efficacy and safety of canagliflozin were evaluated in a study that included patients with moderate renal impairment (eGFR 30 to less than 50 mL/min/1.73 m2).
+The efficacy and safety of canagliflozin were evaluated in a trial that included patients with moderate renal impairment (eGFR 30 to less than 50 mL/min/1.73 m2).
 These patients had less overall glycemic efficacy and had a higher occurrence of adverse reactions related to reduced intravascular volume, renal-related adverse reactions, and decreases in eGFR compared to patients with mild renal impairment or normal renal function (eGFR greater than or equal to 60 mL/min/1.73 m2).
 Dose-related, transient mean increases in serum potassium were observed early after initiation of canagliflozin (i.e., within 3 weeks) in this trial.
 Increases in serum potassium of greater than 5.4 mEq/L and 15% above baseline occurred in 16.1%, 12.4%, and 27.0% of patients treated with placebo, canagliflozin 100 mg, and canagliflozin 300 mg, respectively.
-Severe elevations (greater than or equal to 6.5 mEq/L) occurred in 1.1%, 2.2%, and 2.2% of patients treated with placebo, canagliflozin 100 mg, and canagliflozin 300 mg, respectively [see Dosage and Administration (2.2), Contraindications (4), Warnings and Precautions (5.1, 5.4, 5.5), and Adverse Reactions (6.1)].
+Severe elevations (greater than or equal to 6.5 mEq/L) occurred in 1.1%, 2.2%, and 2.2% of patients treated with placebo, canagliflozin 100 mg, and canagliflozin 300 mg, respectively [see Dosage and Administration (2.4), Contraindications (4), Warnings and Precautions (5.3, 5.5), and Adverse Reactions (6.1)].
 
 The efficacy and safety of canagliflozin have not been established in patients with severe renal impairment (eGFR less than 30 mL/min/1.73 m2), with ESRD, or receiving dialysis.
 Canagliflozin is not expected to be effective in these patient populations [see Contraindications (4) and Clinical Pharmacology (12.3)].
@@ -119,5 +119,4 @@ Canagliflozin is not expected to be effective in these patient populations [see 
 ## 8.7 Hepatic Impairment
 
 Use of metformin in patients with hepatic impairment has been associated with some cases of lactic acidosis.
-INVOKAMET is not recommended in patients with hepatic impairment.
-[see Warnings and Precautions (5.1)]
+INVOKAMET/INVOKAMET XR is not recommended in patients with hepatic impairment [see Warnings and Precautions (5.1)].

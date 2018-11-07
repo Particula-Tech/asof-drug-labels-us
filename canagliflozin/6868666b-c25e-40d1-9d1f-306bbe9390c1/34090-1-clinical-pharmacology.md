@@ -2,10 +2,6 @@
 
 ## 12.1 Mechanism of Action
 
-INVOKAMET
-
-INVOKAMET (canagliflozin and metformin hydrochloride) combines two oral antihyperglycemic agents with complementary mechanisms of action to improve glycemic control in patients with type 2 diabetes: canagliflozin, a sodium-glucose co-transporter 2 (SGLT2) inhibitor, and metformin hydrochloride, a member of the biguanide class.
-
 Canagliflozin
 
 Sodium-glucose co-transporter 2 (SGLT2), expressed in the proximal renal tubules, is responsible for the majority of the reabsorption of filtered glucose from the tubular lumen.
@@ -16,8 +12,7 @@ Metformin
 
 Metformin is an antihyperglycemic agent which improves glucose tolerance in patients with type 2 diabetes, lowering both basal and postprandial plasma glucose.
 Metformin decreases hepatic glucose production, decreases intestinal absorption of glucose, and improves insulin sensitivity by increasing peripheral glucose uptake and utilization.
-Metformin does not produce hypoglycemia in either patients with type 2 diabetes or normal patients except in special circumstances [see Warnings and Precautions (5.8)] and does not cause hyperinsulinemia.
-With metformin therapy, insulin secretion remains unchanged while fasting insulin levels and day-long plasma insulin response may actually decrease.
+With metformin therapy, insulin secretion remains unchanged while fasting insulin levels and day-long plasma insulin response may decrease.
 
 ## 12.2 Pharmacodynamics
 
@@ -25,27 +20,32 @@ Canagliflozin
 
 Following single and multiple oral doses of canagliflozin in patients with type 2 diabetes, dose-dependent decreases in RTG and increases in urinary glucose excretion were observed.
 From a starting RTG value of approximately 240 mg/dL, canagliflozin at 100 mg and 300 mg once daily suppressed RTG throughout the 24-hour period.
-Maximal suppression of mean RTG over the 24-hour period was seen with the 300 mg daily dose to approximately 70 to 90 mg/dL in patients with type 2 diabetes in Phase 1 studies.
+Maximal suppression of mean RTG over the 24-hour period was seen with the 300 mg daily dose to approximately 70 to 90 mg/dL in patients with type 2 diabetes in Phase 1 trials.
 The reductions in RTG led to increases in mean UGE of approximately 100 g/day in patients with type 2 diabetes treated with either 100 mg or 300 mg of canagliflozin.
 The 24-h mean RTG at steady state was similar following once daily and twice daily dosing regimens at the same total daily dose of 100 mg or 300 mg.
 In patients with type 2 diabetes given 100 to 300 mg once daily over a 16-day dosing period, reductions in RTG and increases in urinary glucose excretion were observed over the dosing period.
-In this study, plasma glucose declined in a dose-dependent fashion within the first day of dosing.
+In this trial, plasma glucose declined in a dose-dependent fashion within the first day of dosing.
 
 Cardiac Electrophysiology
 
-In a randomized, double-blind, placebo-controlled, active-comparator, 4-way crossover study, 60 healthy subjects were administered a single oral dose of canagliflozin 300 mg, canagliflozin 1,200 mg (4 times the maximum recommended dose), moxifloxacin, and placebo.
+In a randomized, double-blind, placebo-controlled, active-comparator, 4-way crossover trial, 60 healthy subjects were administered a single oral dose of canagliflozin 300 mg, canagliflozin 1,200 mg (4 times the maximum recommended dose), moxifloxacin, and placebo.
 No meaningful changes in QTc interval were observed with either the recommended dose of 300 mg or the 1,200 mg dose.
 
 ## 12.3 Pharmacokinetics
 
 INVOKAMET
 
-The results of a bioequivalence study in healthy subjects demonstrated that INVOKAMET 50 mg/500 mg, 50 mg/1,000 mg, 150 mg/500 mg and 150 mg/1,000 mg combination tablets are bioequivalent to co-administration of corresponding doses of canagliflozin and metformin hydrochloride as individual tablets under fed conditions.
+The results of a bioequivalence trial in healthy subjects demonstrated that INVOKAMET 50 mg/500 mg, 50 mg/1,000 mg, 150 mg/500 mg and 150 mg/1,000 mg combination tablets are bioequivalent to co-administration of corresponding doses of canagliflozin and metformin HCl as individual tablets under fed conditions.
 
 Administration of INVOKAMET 150 mg/1,000 mg fixed-dose combination with food resulted in no change in overall exposure of canagliflozin.
 There was no change in metformin AUC; however, the mean peak plasma concentration of metformin was decreased by 16% when administered with food.
 A delayed time to peak plasma concentration was observed for both components (a delay of 2 hours for canagliflozin and 1 hour for metformin) under fed conditions.
 These changes are not likely to be clinically meaningful.
+
+INVOKAMET XR
+
+After administration of INVOKAMET XR tablets with a high-fat breakfast, the peak (Cmax) and total (AUC) exposure of canagliflozin were not altered relative to dosing in the fasted state.
+However, the AUC of metformin increased by approximately 61% and Cmax increased by approximately 13%.
 
 Canagliflozin
 
@@ -65,8 +65,11 @@ The mean absolute oral bioavailability of canagliflozin is approximately 65%.
 
 Metformin
 
-The absolute bioavailability of a metformin hydrochloride 500 mg tablet given under fasting conditions is approximately 50% to 60%.
-Studies using single oral doses of metformin hydrochloride 500 to 1,500 mg, and 850 to 2,550 mg, indicate that there is a lack of dose proportionality with increasing doses, which is due to decreased absorption rather than an alteration in elimination.
+The absolute bioavailability of a metformin HCl 500 mg tablet given under fasting conditions is approximately 50% to 60%.
+Trials using single oral doses of metformin hydrochloride 500 to 1,500 mg, and 850 to 2,550 mg, indicate that there is a lack of dose proportionality with increasing doses, which is due to decreased absorption rather than an alteration in elimination.
+
+Following a single oral dose of 1,000 mg (two 500 mg tablets) metformin HCl extended-release after a meal, the time to reach maximum plasma metformin concentration (Tmax) is achieved at approximately 7–8 hours.
+In both single and multiple-dose trials in healthy subjects, once daily 1,000 mg (two 500 mg tablets) dosing results in up to 35% higher Cmax, of metformin relative to the immediate-release given as 500 mg twice daily without any change in overall systemic exposure, as measured by AUC.
 
 Distribution
 
@@ -79,10 +82,9 @@ Plasma protein binding is not meaningfully altered in patients with renal or hep
 
 Metformin
 
-The apparent volume of distribution (V/F) of metformin following single oral doses of metformin hydrochloride 850 mg tablets averaged 654 ± 358 L. Metformin is negligibly bound to plasma proteins, in contrast to sulfonylureas, which are more than 90% protein bound.
+The apparent volume of distribution (V/F) of metformin following single oral doses of metformin HCl 850 mg immediate-release tablets averaged 654 ± 358 L. Metformin is negligibly bound to plasma proteins, in contrast to sulfonylureas, which are more than 90% protein bound.
 Metformin partitions into erythrocytes, most likely as a function of time.
-At usual clinical doses and dosing schedules of metformin tablets, steady-state plasma concentrations of metformin are reached within 24 to 48 hours and are generally less than 1 mcg/mL.
-During controlled clinical trials of metformin, maximum metformin plasma levels did not exceed 5 mcg/mL, even at maximum doses.
+At usual clinical doses and dosing schedules of metformin HCl tablets, steady-state plasma concentrations of metformin are reached within 24 to 48 hours and are generally less than 1 mcg/mL.
 
 Metabolism
 
@@ -93,7 +95,7 @@ CYP3A4-mediated (oxidative) metabolism of canagliflozin is minimal (approximatel
 
 Metformin
 
-Intravenous single-dose studies in normal subjects demonstrate that metformin is excreted unchanged in the urine and does not undergo hepatic metabolism (no metabolites have been identified in humans) or biliary excretion.
+Intravenous single-dose trials in normal subjects demonstrate that metformin is excreted unchanged in the urine and does not undergo hepatic metabolism (no metabolites have been identified in humans) or biliary excretion.
 
 Excretion
 
@@ -102,7 +104,7 @@ Canagliflozin
 Following administration of a single oral [14C] canagliflozin dose to healthy subjects, 41.5%, 7.0%, and 3.2% of the administered radioactive dose was recovered in feces as canagliflozin, a hydroxylated metabolite, and an O-glucuronide metabolite, respectively.
 Enterohepatic circulation of canagliflozin was negligible.
 
-Approximately 33% of the administered radioactive dose was excreted in urine, mainly as O−glucuronide metabolites (30.5%).
+Approximately 33% of the administered radioactive dose was excreted in urine, mainly as O-glucuronide metabolites (30.5%).
 Less than 1% of the dose was excreted as unchanged canagliflozin in urine.
 Renal clearance of canagliflozin 100 mg and 300 mg doses ranged from 1.30 to 1.55 mL/min.
 
@@ -116,17 +118,17 @@ In blood, the elimination half-life is approximately 17.6 hours, suggesting that
 
 Specific Populations
 
-Studies characterizing the pharmacokinetics of canagliflozin and metformin after administration of INVOKAMET were not conducted in patients with renal and hepatic impairment.
+Trials characterizing the pharmacokinetics of canagliflozin and metformin after administration of INVOKAMET/INVOKAMET XR were not conducted in patients with renal and hepatic impairment.
 Descriptions of the individual components in this patient population are described below.
 
 Renal Impairment
 
 Canagliflozin
 
-A single-dose, open-label study evaluated the pharmacokinetics of canagliflozin 200 mg in subjects with varying degrees of renal impairment (classified using the MDRD-eGFR formula) compared to healthy subjects.
+A single-dose, open-label trial evaluated the pharmacokinetics of canagliflozin 200 mg in subjects with varying degrees of renal impairment (classified using the MDRD-eGFR formula) compared to healthy subjects.
 
 Renal impairment did not affect the Cmax of canagliflozin.
-Compared to healthy subjects (N=3; eGFR greater than or equal to 90 mL/min/1.73 m2), plasma AUC of canagliflozin was increased by approximately 15%, 29%, and 53% in subjects with mild (N=10), moderate (N=9), and severe (N=10) renal impairment, respectively, (eGFR 60 to less than 90, 30 to less than 60, and 15 to less than 30 mL/min/1.73 m2, respectively) but was similar for ESRD (N=8) subjects and healthy subjects.
+Compared to healthy subjects (N=3; eGFR greater than or equal to 90 mL/min/1.73 m2), plasma AUC of canagliflozin was increased by approximately 15%, 29%, and 53% in subjects with mild (N=10), moderate (N=9), and severe (N=10) renal impairment, respectively, (eGFR 60 to less than 90, 30 to less than 60, and 15 to less than 30 mL/min/1.73 m2, respectively), but was similar for ESRD (N=8) subjects and healthy subjects.
 Increases in canagliflozin AUC of this magnitude are not considered clinically relevant.
 The pharmacodynamic response to canagliflozin declines with increasing severity of renal impairment [see Contraindications (4) and Warnings and Precautions (5.5)].
 
@@ -135,6 +137,9 @@ Canagliflozin was negligibly removed by hemodialysis.
 Metformin
 
 In patients with decreased renal function, the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased [see Contraindications (4) and Warnings and Precautions (5.1)].
+
+Following a single dose administration of metformin HCl extended-release 500 mg in patients with mild and moderate renal failure (based on measured creatinine clearance), the oral and renal clearance of metformin were decreased by 33% and 50% and 16% and 53%, respectively [see Warnings and Precautions (5.5)].
+Metformin peak and systemic exposure was 27% and 61% greater, respectively in mild renal impaired and 74% and 2.36-fold greater in moderate renal impaired patients as compared to healthy subjects [see Contraindications (4) and Warnings and Precautions (5.1)].
 
 Hepatic Impairment
 
@@ -147,7 +152,7 @@ There is no clinical experience in patients with Child-Pugh class C (severe) hep
 
 Metformin
 
-No pharmacokinetic studies of metformin have been conducted in patients with hepatic insufficiency [see Warnings and Precautions (5.1)].
+No pharmacokinetic trials of metformin have been conducted in patients with hepatic insufficiency [see Warnings and Precautions (5.1)].
 
 Pharmacokinetic Effects of Age, Body Mass Index (BMI)/Weight, Gender and Race
 
@@ -159,13 +164,7 @@ Metformin
 
 Metformin pharmacokinetic parameters did not differ significantly between normal subjects and patients with type 2 diabetes when analyzed according to gender.
 
-No studies of metformin pharmacokinetic parameters according to race have been performed.
-
-Geriatric
-
-INVOKAMET
-
-Studies characterizing the pharmacokinetics of canagliflozin and metformin after administration of INVOKAMET in geriatric patients have not been performed [see Warnings and Precautions (5.1, 5.5) and Use in Specific Populations (8.5)].
+No trials of metformin pharmacokinetic parameters according to race have been performed.
 
 Canagliflozin
 
@@ -173,18 +172,14 @@ Age had no clinically meaningful effect on the pharmacokinetics of canagliflozin
 
 Metformin
 
-Limited data from controlled pharmacokinetic studies of metformin in healthy elderly subjects suggest that total plasma clearance of metformin is decreased, the half-life is prolonged, and Cmax is increased, compared with healthy young subjects.
-From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function.
-
-Pediatric
-
-Studies characterizing the pharmacokinetics of canagliflozin and metformin after administration of INVOKAMET in pediatric patients have not been performed.
+Limited data from controlled pharmacokinetic trials of metformin in healthy elderly subjects suggest that total plasma clearance of metformin is decreased, the half-life is prolonged, and Cmax is increased, compared with healthy young subjects.
+From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function [see Warnings and Precautions (5.1, 5.5) and Use in Specific Populations (8.5)].
 
 Drug-Drug Interactions
 
-INVOKAMET
+INVOKAMET and INVOKAMET XR
 
-Pharmacokinetic drug interaction studies with INVOKAMET have not been performed; however, such studies have been conducted with the individual components canagliflozin and metformin hydrochloride.
+Pharmacokinetic drug interaction trials with INVOKAMET/INVOKAMET XR have not been performed; however, such trials have been conducted with the individual components canagliflozin and metformin hydrochloride.
 
 Co-administration of multiple doses of canagliflozin (300 mg) and metformin (2,000 mg) given once daily did not meaningfully alter the pharmacokinetics of either canagliflozin or metformin in healthy subjects.
 
@@ -200,7 +195,7 @@ Canagliflozin is also a substrate of drug transporters P-glycoprotein (P-gp) and
 
 In Vivo Assessment of Drug Interactions
 
-Table 7: Effect of Co−Administered Drugs on Systemic Exposures of Canagliflozin
+Table 7: Effect of Co–Administered Drugs on Systemic Exposures of Canagliflozin
 
 | AUCAUCinf for drugs given as a single dose and AUC24h for drugs given as multiple doses (90% CI) | Cmax (90% CI) |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -221,17 +216,17 @@ Table 8: Effect of Canagliflozin on Systemic Exposure of Co-Administered Drugs
 | --- | --- | --- | --- | --- | --- |
 | Co-Administered Drug | Dose of Co-Administered DrugSingle dose unless otherwise noted | Dose of Canagliflozin | Geometric Mean Ratio (Ratio With/Without Co-Administered Drug) No Effect = 1.0 |  |  |
 | See Drug Interactions (7.2) for the clinical relevance of the following: |  |  |  |  |  |
-| Digoxin | 0.5 mg QD first day followed by 0.25 mg QD for 6 days | 300 mg QD for 7 days | digoxin | 1.20 (1.12; 1.28) | 1.36 (1.21; 1.53) |
+| Digoxin | 0.5 mg QD first day followed by 0.25 mg QD for 6 days | 300 mg QD for 7 days | Digoxin | 1.20 (1.12; 1.28) | 1.36 (1.21; 1.53) |
 | No dose adjustments of co-administered drug required for the following: |  |  |  |  |  |
-| Acetaminophen | 1,000 mg | 300 mg BID for 25 days | acetaminophen | 1.06AUC0–12h (0.98; 1.14) | 1.00 (0.92; 1.09) |
+| Acetaminophen | 1,000 mg | 300 mg BID for 25 days | Acetaminophen | 1.06AUC0–12h (0.98; 1.14) | 1.00 (0.92; 1.09) |
 | Ethinyl estradiol and levonorgestrel | 0.03 mg ethinyl estradiol and 0.15 mg levonorgestrel | 200 mg QD for 6 days | ethinyl estradiol | 1.07 (0.99; 1.15) | 1.22 (1.10; 1.35) |
-| levonorgestrel | 1.06 (1.00; 1.13) | 1.22 (1.11; 1.35) |  |  |  |
-| Glyburide | 1.25 mg | 200 mg QD for 6 days | glyburide | 1.02 (0.98; 1.07) | 0.93 (0.85; 1.01) |
+| Levonorgestrel | 1.06 (1.00; 1.13) | 1.22 (1.11; 1.35) |  |  |  |
+| Glyburide | 1.25 mg | 200 mg QD for 6 days | Glyburide | 1.02 (0.98; 1.07) | 0.93 (0.85; 1.01) |
 | 3-cis-hydroxy-glyburide | 1.01 (0.96; 1.07) | 0.99 (0.91; 1.08) |  |  |  |
 | 4-trans-hydroxy-glyburide | 1.03 (0.97; 1.09) | 0.96 (0.88; 1.04) |  |  |  |
 | Hydrochlorothiazide | 25 mg QD for 35 days | 300 mg QD for 7 days | Hydrochlorothiazide | 0.99 (0.95; 1.04) | 0.94 (0.87; 1.01) |
-| Metformin | 2,000 mg | 300 mg QD for 8 days | metformin | 1.20 (1.08; 1.34) | 1.06 (0.93; 1.20) |
-| Simvastatin | 40 mg | 300 mg QD for 7 days | simvastatin | 1.12 (0.94; 1.33) | 1.09 (0.91; 1.31) |
+| Metformin | 2,000 mg | 300 mg QD for 8 days | Metformin | 1.20 (1.08; 1.34) | 1.06 (0.93; 1.20) |
+| Simvastatin | 40 mg | 300 mg QD for 7 days | Simvastatin | 1.12 (0.94; 1.33) | 1.09 (0.91; 1.31) |
 | simvastatin acid | 1.18 (1.03; 1.35) | 1.26 (1.10; 1.45) |  |  |  |
 | Warfarin | 30 mg | 300 mg QD for 12 days | (R)-warfarin | 1.01 (0.96; 1.06) | 1.03 (0.94; 1.13) |
 | (S)-warfarin | 1.06 (1.00; 1.12) | 1.01 (0.90; 1.13) |  |  |  |
@@ -240,13 +235,13 @@ Table 8: Effect of Canagliflozin on Systemic Exposure of Co-Administered Drugs
 
 Metformin
 
-Table 9: Effect of Co−Administered Drugs on Plasma Metformin Systemic Exposures
+Table 9: Effect of Co–Administered Drugs on Plasma Metformin Systemic Exposures
 
 | AUCAUC = AUC0–∞ | Cmax |  |  |  |
 | --- | --- | --- | --- | --- |
-| Co-Administered Drug | Dose of Co-Administered DrugSingle dose unless otherwise noted | Dose of Metformin | Geometric Mean Ratio (Ratio With/Without Co-Administered Drug) No Effect = 1.00 |  |
+| Co-Administered Drug | Dose of Co-Administered DrugSingle dose unless otherwise noted | Dose of Metformin HCl | Geometric Mean Ratio (Ratio With/Without Co-Administered Drug) No Effect = 1.00 |  |
 | No dose adjustments required for the following: |  |  |  |  |
-| Glyburide | 5 mg | 500 mgMetformin hydrochloride extended-release tablets 500 mg | 0.98Ratio of arithmetic means | 0.99 |
+| Glyburide | 5 mg | 500 mgMetformin HCl extended-release tablets 500 mg | 0.98Ratio of arithmetic means | 0.99 |
 | Furosemide | 40 mg | 850 mg | 1.09 | 1.22 |
 | Nifedipine | 10 mg | 850 mg | 1.16 | 1.21 |
 | Propranolol | 40 mg | 850 mg | 0.90 | 0.94 |
@@ -256,11 +251,11 @@ Table 9: Effect of Co−Administered Drugs on Plasma Metformin Systemic Exposure
 | Carbonic anhydrase inhibitors may cause metabolic acidosis [see Warnings and Precautions (5) and Drug Interactions (7)] |  |  |  |  |
 | TopiramateHealthy volunteer study at steady state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours for 7 days. Study conducted to assess pharmacokinetics only | 100 mg | 500 mg | 1.25Steady state AUC0–12h. | 1.18 |
 
-Table 10: Effect of Metformin on Co−Administered Drug Systemic Exposures
+Table 10: Effect of Metformin on Co–Administered Drug Systemic Exposures
 
 | AUCAUC = AUC0–∞ | Cmax |  |  |  |
 | --- | --- | --- | --- | --- |
-| Co-Administered Drug | Dose of Co-Administered DrugSingle dose unless otherwise noted | Dose of Metformin | Geometric Mean Ratio (Ratio With/Without Co-Administered Drug) No Effect = 1.00 |  |
+| Co-Administered Drug | Dose of Co-Administered DrugSingle dose unless otherwise noted | Dose of Metformin HCl | Geometric Mean Ratio (Ratio With/Without Co-Administered Drug) No Effect = 1.00 |  |
 | No dose adjustments required for the following: |  |  |  |  |
 | Glyburide | 5 mg | 500 mgAUC0–24 hr reported | 0.78Ratio of arithmetic means, p-value of difference <0.05 | 0.63 |
 | Furosemide | 40 mg | 850 mg | 0.87 | 0.69 |

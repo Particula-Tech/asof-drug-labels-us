@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-INVOKAMET (canagliflozin and metformin hydrochloride) tablets contain two oral antihyperglycemic drugs used in the management of type 2 diabetes: canagliflozin and metformin hydrochloride.
+INVOKAMET (canagliflozin and metformin hydrochloride) and INVOKAMET XR (canagliflozin and metformin hydrochloride extended-release) tablets contain canagliflozin and metformin hydrochloride.
 
 Canagliflozin
 
@@ -12,16 +12,22 @@ Canagliflozin is practically insoluble in aqueous media from pH 1.1 to 12.9.
 
 Metformin Hydrochloride
 
-Metformin hydrochloride is not chemically or pharmacologically related to any other classes of oral antihyperglycemic agents.
-Metformin hydrochloride is chemically known as 1,1-Dimethylbiguanide hydrochloride and its molecular formula and weight are C4H11N5 ∙ HCl and 165.62, respectively.
+Metformin hydrochloride is a biguanide chemically known as 1,1-Dimethylbiguanide hydrochloride and its molecular formula and weight are C4H11N5 ∙ HCl and 165.62, respectively.
 The structural formula for metformin hydrochloride is:
 
-INVOKAMET
+INVOKAMET and INVOKAMET XR
 
-INVOKAMET is supplied as film-coated tablets for oral administration.
-Each 50 mg/500 mg tablet and 50 mg/1,000 mg tablet contains 51 mg of canagliflozin equivalent to 50 mg canagliflozin (anhydrous) and 500 mg or 1,000 mg metformin hydrochloride.
-Each 150 mg/500 mg tablet and 150 mg/1,000 mg tablet contains 153 mg of canagliflozin equivalent to 150 mg canagliflozin (anhydrous) and 500 mg or 1,000 mg metformin hydrochloride.
+INVOKAMET/INVOKAMET XR are supplied as film-coated tablets for oral administration.
+Each 50 mg/500 mg tablet and 50 mg/1,000 mg tablet contains 51 mg of canagliflozin equivalent to 50 mg canagliflozin (anhydrous) and 500 mg or 1,000 mg metformin hydrochloride (equivalent to metformin 389.93 mg and 779.86 mg, respectively).
+Each 150 mg/500 mg tablet and 150 mg/1,000 mg tablet contains 153 mg of canagliflozin equivalent to 150 mg canagliflozin (anhydrous) and 500 mg or 1,000 mg metformin hydrochloride (equivalent to metformin 389.93 mg and 779.86 mg, respectively).
 
-Inactive ingredients of the core tablet are croscarmellose sodium, hypromellose, magnesium stearate, and microcrystalline cellulose.
+INVOKAMET contains the following inactive ingredients: croscarmellose sodium, hypromellose, magnesium stearate, and microcrystalline cellulose.
 The magnesium stearate is vegetable-sourced.
-The tablets are finished with a commercially available film-coating consisting of the following excipients: Macrogol/PEG, polyvinyl alcohol (partially hydrolyzed), talc, titanium dioxide, iron oxide yellow, (50 mg/1,000 mg and 150 mg/500 mg tablets only), iron oxide red, (50 mg/1,000 mg, 150 mg/500 mg and 150 mg/1,000 mg tablets only), and iron oxide black (150 mg/1,000 mg tablets only).
+The tablets are finished with a commercially available film-coating consisting of the following inactive ingredients: macrogol/PEG3350, polyvinyl alcohol (partially hydrolyzed), talc, titanium dioxide, iron oxide yellow (50 mg/1,000 mg and 150 mg/500 mg tablets only), iron oxide red (50 mg/1,000 mg, 150 mg/500 mg and 150 mg/1,000 mg tablets only), and iron oxide black (150 mg/1,000 mg tablets only).
+
+INVOKAMET XR contains the following inactive ingredients: croscarmellose sodium, hydroxypropyl cellulose, hypromellose, lactose anhydrous, magnesium stearate (vegetable-sourced), microcrystalline cellulose, polyethylene oxide, and silicified microcrystalline cellulose (50 mg/500 mg and 50 mg/1,000 mg tablets only).
+The tablets are finished with a commercially available film-coating consisting of the following inactive ingredients: macrogol/PEG3350, polyvinyl alcohol (partially hydrolyzed), talc, titanium dioxide, iron oxide red, iron oxide yellow, and iron oxide black (50 mg/1,000 mg and 150 mg/1,000 mg tablets only).
+
+INVOKAMET XR tablets provide canagliflozin for immediate-release and metformin hydrochloride for extended-release.
+Each bilayer tablet is compressed from two separate granulates, one for each active ingredient of the tablet, and finished with a film-coating.
+The metformin HCl extended-release layer is based on a polymer matrix which controls the drug release by passive diffusion through the swollen matrix in combination with tablet erosion.

@@ -1,26 +1,25 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-INVOKAMET (canagliflozin and metformin hydrochloride) tablets are available in the strengths and packages listed below:
+INVOKAMET tablets are available in bottles of 60 in the strengths listed below:
 
-Canagliflozin 50 mg and metformin hydrochloride 500 mg tablets are immediate-release, capsule-shaped, white film-coated tablets with "CM" on one side and "155" on the other side.
+| INVOKAMET | TABLET STRENGTH |  |  |  |
+| --- | --- | --- | --- | --- |
+| canagliflozin/metformin HCl | 50 mg/500 mg | 50 mg/1000 mg | 150 mg/500 mg | 150 mg/1000 mg |
+| Color | White | Beige | Yellow | Purple |
+| Tablet Identification | CM | CM | CM | CM |
+| 155 | 551 | 215 | 611 |  |
+| Capsule-shaped, film-coated tablets |  |  |  |  |
+| NDC | 50458-540-60 | 50458-541-60 | 50458-542-60 | 50458-543-60 |
 
-| NDC 50458-540-60 | Bottle of 60 |
-| --- | --- |
+INVOKAMET XR tablets are available in bottles of 60 in the strengths listed below:
 
-Canagliflozin 50 mg and metformin hydrochloride 1,000 mg tablets are immediate-release, capsule-shaped, beige film-coated tablets with "CM" on one side and "551" on the other side.
-
-| NDC 50458-541-60 | Bottle of 60 |
-| --- | --- |
-
-Canagliflozin 150 mg and metformin hydrochloride 500 mg tablets are immediate-release, capsule-shaped, yellow film-coated tablets with "CM" on one side and "215" on the other side.
-
-| NDC 50458-542-60 | Bottle of 60 |
-| --- | --- |
-
-Canagliflozin 150 mg and metformin hydrochloride 1,000 mg tablets are immediate-release, capsule-shaped, purple film-coated tablets with "CM" on one side and "611" on the other side.
-
-| NDC 50458-543-60 | Bottle of 60 |
-| --- | --- |
+| INVOKAMET XR | STRENGTH |  |  |  |
+| --- | --- | --- | --- | --- |
+| canagliflozin/metformin HCl extended-release | 50 mg/500 mg | 50 mg/1000 mg | 150 mg/500 mg | 150 mg/1000 mg |
+| Color | Almost White to Light Orange | Pink | Orange | Reddish Brown |
+| Tablet Identification | CM1 | CM3 | CM2 | CM4 |
+| Oblong, biconvex, film-coated tablets, a thin line on the tablet side may be visible. |  |  |  |  |
+| NDC | 50458-940-01 | 50458-941-01 | 50458-942-01 | 50458-943-01 |
 
 Storage and Handling
 

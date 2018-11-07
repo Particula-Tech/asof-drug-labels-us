@@ -1,8 +1,19 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-INVOKAMET (canagliflozin and metformin hydrochloride) film-coated tablets for oral administration are available in the following strengths:
+INVOKAMET (canagliflozin and metformin HCl) tablets are available as follows:
 
-- Canagliflozin 50 mg and metformin hydrochloride 500 mg tablets are immediate-release, capsule-shaped, white film-coated tablets with "CM" on one side and "155" on the other side.
-- Canagliflozin 50 mg and metformin hydrochloride 1,000 mg tablets are immediate-release, capsule-shaped, beige, film-coated tablets with "CM" on one side and "551" on the other side.
-- Canagliflozin 150 mg and metformin hydrochloride 500 mg tablets are immediate-release, capsule-shaped, yellow, film-coated tablets with "CM" on one side and "215" on the other side.
-- Canagliflozin 150 mg and metformin hydrochloride 1,000 mg tablets are immediate-release, capsule-shaped, purple, film-coated tablets with "CM" on one side and "611" on the other side.
+| Canagliflozin Strength | Metformin HCl Strength | Color/Shape | Tablet IdentifiersEmbossing appears on both sides of tablet. |
+| --- | --- | --- | --- |
+| 50 mg | 500 mg | white/capsule-shaped | CM 155 |
+| 50 mg | 1,000 mg | beige/capsule-shaped | CM 551 |
+| 150 mg | 500 mg | yellow/capsule-shaped | CM 215 |
+| 150 mg | 1,000 mg | purple/capsule-shaped | CM 611 |
+
+INVOKAMET XR (canagliflozin and metformin HCl) extended-release tablets are available as follows:
+
+| Canagliflozin Strength | Metformin HCl Strength | Color/Shape | Tablet IdentifiersEmbossing appears on one side only of tablet. |
+| --- | --- | --- | --- |
+| 50 mg | 500 mg | almost white to light orange/oblong, biconvex | CM1 |
+| 50 mg | 1,000 mg | pink/oblong, biconvex | CM3 |
+| 150 mg | 500 mg | orange/oblong, biconvex | CM2 |
+| 150 mg | 1,000 mg | reddish brown/oblong, biconvex | CM4 |
