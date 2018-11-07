@@ -4,4 +4,4 @@ LOTEMAX® (loteprednol etabonate ophthalmic gel) 0.5% is a sterile ophthalmic ge
 
 5 g in a 10 mL bottle (NDC 24208-503-07)
 
-Storage: Store upright at 15º-25º C (59º-77º F).
+Storage: Store upright at 15º to 25º C (59º to 77º F).
