@@ -11,4 +11,4 @@ Adalat CC tablets contain either: 30, 60, or 90 mg of nifedipine for once-a-day 
 
 Inert ingredients in the formulation are: hydroxypropylcellulose, lactose, corn starch, crospovidone, microcrystalline cellulose, silicon dioxide, and magnesium stearate.
 The inert ingredients in the film coating for Adalat CC 30 and 60 are: hypromellose, polyethylene glycol, ferric oxide, and titanium dioxide.
-The inert ingredients in the film coating for Adalat CC 90 are: hypromellose, polyethylene glycol and ferric oxide
+The inert ingredients in the film coating for Adalat CC 90 are: hypromellose, polyethylene glycol and ferric oxide.
