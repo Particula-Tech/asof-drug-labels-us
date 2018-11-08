@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA209355"
+  ],
+  "inn": "halobetasol",
+  "labeler": "Valeant Pharmaceuticals North America LLC",
+  "package_ndcs": [
+    "0187-0002-01",
+    "0187-0002-03",
+    "0187-0002-60"
+  ],
+  "products": [
+    {
+      "form": "LOTION",
+      "generic": "halobetasol propionate",
+      "name": "Bryhali"
+    }
+  ],
+  "setid": "d4bbb66a-3f9d-4091-b1b0-1cbc908432d3",
+  "source": "dailymed"
+}
