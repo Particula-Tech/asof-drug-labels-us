@@ -15,3 +15,5 @@ For Rectal Use Only
 7 Pack
 
 7 x 60 mL UNIT-DOSE BOTTLES
+
+The following image is a placeholder representing the product identifier that is either affixed or imprinted on the drug package label during the packaging operation.
