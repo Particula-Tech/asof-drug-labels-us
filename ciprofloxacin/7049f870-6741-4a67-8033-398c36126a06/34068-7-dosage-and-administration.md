@@ -43,7 +43,7 @@ Dosing and initial route of therapy (that is, IV or oral) for cUTI or pyelonephr
 
 Table 3: Pediatric Dosage Guidelines
 
-| Infection | Dose (mg/ kg) | Frequency | Total Duration |
+| Infection | Dose (mg/kg) | Frequency | Total Duration |
 | --- | --- | --- | --- |
 | Complicated Urinary Tract or Pyelonephritis (patients from 1 to 17 years of age)1 | 6 mg/kg to 10 mg/kg (maximum 400 mg per dose; not to be exceeded even in patients weighing more than 51 kg) | Every 8 hours | 10 to 21 days1 |
 | Inhalational Anthrax (Post-Exposure)2 | 10 mg/kg (maximum 400 mg per dose) | Every 12 hours | 60 days |

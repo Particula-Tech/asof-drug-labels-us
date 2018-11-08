@@ -194,11 +194,6 @@ Skin rash may be a sign of a more serious reaction to ciprofloxacin.
   Hepatotoxicity can happen in people who take ciprofloxacin.
   Call your healthcare provider right away if you have unexplained symptoms such as:Stop taking ciprofloxacin and tell your healthcare provider right away if you have yellowing of your skin or white part of your eyes, or if you have dark urine.
   These can be signs of a serious reaction to ciprofloxacin (a liver problem).
-  Intestine infection (Pseudomembranous colitis).
-  Pseudomembranous colitis can happen with many antibacterial medicines, including ciprofloxacin.
-  Call your healthcare provider right away if you get watery diarrhea, diarrhea that does not go away, or bloody stools.
-  You may have stomach cramps and a fever.
-  Pseudomembranous colitis can happen 2 or more months after you have finished your antibacterial medicine.
   - nausea or vomiting
   - stomach pain
   - fever
@@ -210,6 +205,11 @@ Skin rash may be a sign of a more serious reaction to ciprofloxacin.
   - light colored bowel movements
   - dark colored urine
   - yellowing of your skin or the whites of your eyes
+- Intestine infection (Pseudomembranous colitis).
+  Pseudomembranous colitis can happen with many antibacterial medicines, including ciprofloxacin.
+  Call your healthcare provider right away if you get watery diarrhea, diarrhea that does not go away, or bloody stools.
+  You may have stomach cramps and a fever.
+  Pseudomembranous colitis can happen 2 or more months after you have finished your antibacterial medicine.
 - Serious heart rhythm changes (QT prolongation and torsade de pointes).
   Tell your healthcare provider right away if you have a change in your heart beat (a fast or irregular heartbeat), or if you faint.
   Ciprofloxacin may cause a rare heart problem known as prolongation of the QT interval.
@@ -270,7 +270,7 @@ Brands listed are the trademarks of their respective owners.
 
 SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2018 Sagent Pharmaceuticals, Inc.
 
-Revised: July 2018
+Revised: August 2018
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 

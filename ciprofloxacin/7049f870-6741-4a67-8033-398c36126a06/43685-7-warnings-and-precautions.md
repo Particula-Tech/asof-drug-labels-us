@@ -84,8 +84,7 @@ The pattern of injury can be hepatocellular, cholestatic or mixed.
 Most patients with fatal outcomes were older than 55 years old.
 In the event of any signs and symptoms of hepatitis (such as anorexia, jaundice, dark urine, pruritus, or tender abdomen), discontinue treatment immediately.
 
-There can be a temporary increase in transaminases, alkaline phosphatase, or cholestatic jaundice, especially in patients with previous liver damage, who are treated with ciprofloxacin.
-[see Adverse Reactions (6.2, 6.3)].
+There can be a temporary increase in transaminases, alkaline phosphatase, or cholestatic jaundice, especially in patients with previous liver damage, who are treated with ciprofloxacin [see Adverse Reactions (6.2, 6.3)].
 
 ## 5.9 Serious Adverse Reactions with Concomitant Theophylline
 

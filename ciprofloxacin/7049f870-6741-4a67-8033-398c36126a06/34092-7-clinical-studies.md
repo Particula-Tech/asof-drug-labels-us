@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Empirical Therapy In Adult Febrile Neutropenic Patients
+## 14.1 Empirical Therapy in Adult Febrile Neutropenic Patients
 
 The safety and efficacy of ciprofloxacin, 400 mg intravenously every 8 hours, in combination with piperacillin sodium, 50 mg/kg intravenously every 4 hours, for the empirical therapy of febrile neutropenic patients were studied in one large pivotal multicenter, randomized trial and were compared to those of tobramycin, 2 mg/kg intravenously every 8 hours, in combination with piperacillin sodium, 50 mg/kg intravenously every 4 hours.
 
@@ -54,13 +54,13 @@ The mean trough serum concentration at steady-state for both of these regimens i
 In a study of 10 pediatric patients between 6 and 16 years of age, the mean peak plasma concentration achieved is 8.3 mcg/mL and trough concentrations range from 0.09 mcg/mL to 0.26 mcg/mL, following two 30-minute intravenous infusions of 10 mg/kg administered 12 hours apart.
 After the second intravenous infusion patients switched to 15 mg/kg orally every 12 hours achieve a mean peak concentration of 3.6 mcg/mL after the initial oral dose.
 Long-term safety data, including effects on cartilage, following the administration of ciprofloxacin to pediatric patients are limited.
-Ciprofloxacin serum concentrations achieved in humans serve as a surrogate endpoint reasonably likely to predict clinical benefit and provide the basis for this indication.11
+Ciprofloxacin serum concentrations achieved in humans serve as a surrogate endpoint reasonably likely to predict clinical benefit and provide the basis for this indication.7
 
 A placebo-controlled animal study in rhesus monkeys exposed to an inhaled mean dose of 11 LD50 (~5.5 × 105) spores (range 5 to 30 LD50) of B. anthracis was conducted.
 The minimal inhibitory concentration (MIC) of ciprofloxacin for the anthrax strain used in this study was 0.08 mcg/mL.
 In the animals studied, mean serum concentrations of ciprofloxacin achieved at expected Tmax (1 hour post-dose) following oral dosing to steady-state ranged from 0.98 mcg/mL to 1.69 mcg/mL.
-Mean steady-state trough concentrations at 12 hours post-dose ranged from 0.12 mcg/mL to 0.19 mcg/mL.10 Mortality due to anthrax for animals that received a 30-day regimen of oral ciprofloxacin beginning 24 hours post-exposure was significantly lower (1/9), compared to the placebo group (9/10) [p= 0.001].
-The one ciprofloxacin-treated animal that died of anthrax did so following the 30-day drug administration period.11
+Mean steady-state trough concentrations at 12 hours post-dose ranged from 0.12 mcg/mL to 0.19 mcg/mL.6 Mortality due to anthrax for animals that received a 30-day regimen of oral ciprofloxacin beginning 24 hours post-exposure was significantly lower (1/9), compared to the placebo group (9/10) [p= 0.001].
+The one ciprofloxacin-treated animal that died of anthrax did so following the 30-day drug administration period.7
 
 More than 9300 persons were recommended to complete a minimum of 60 days of antibacterial prophylaxis against possible inhalational exposure to B. anthracis during 2001.
 Ciprofloxacin was recommended to most of those individuals for all or part of the prophylaxis regimen.
@@ -80,4 +80,4 @@ Mortality in the ciprofloxacin group was significantly lower (1/10) compared to 
 The one ciprofloxacin-treated animal that died did not receive the proposed dose of ciprofloxacin due to a failure of the administration catheter.
 Circulating ciprofloxacin concentration was below 0.5 mcg/mL at all timepoints tested in this animal.
 It became culture negative on Day 2 of treatment, but had a resurgence of low grade bacteremia on Day 6 after treatment initiation.
-Terminal blood culture in this animal was negative.12
+Terminal blood culture in this animal was negative.8
