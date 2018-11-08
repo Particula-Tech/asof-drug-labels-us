@@ -18,4 +18,4 @@ Mucosal biopsy scores and endoscopic scores were lower in the subjects who recei
 In another double-blind, randomized, crossover study, 23 subjects received two NAPRELAN 500 mg tablets (1,000 mg) once daily, naproxen 500 mg tablets (1,000 mg) twice daily and aspirin 650 mg four times daily (2,600 mg) for 7 days each.
 There were significantly fewer duodenal erosions seen with NAPRELAN Tablets than with either naproxen or aspirin.
 There were significantly fewer gastric erosions with both NAPRELAN Tablets and naproxen than with aspirin.
-The clinical significance of these findings is unknown
+The clinical significance of these findings is unknown.

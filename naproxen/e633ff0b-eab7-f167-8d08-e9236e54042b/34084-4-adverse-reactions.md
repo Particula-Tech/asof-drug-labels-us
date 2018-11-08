@@ -3,14 +3,14 @@
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
 - Cardiovascular Thrombotic Events [see Warnings and Precautions (5.1)]
-- GI Bleeding, Ulceration and Perforation [Warnings and Precautions (5.2)]
+- GI Bleeding, Ulceration and Perforation [see Warnings and Precautions (5.2)]
 - Hepatotoxicity [see Warnings and Precautions (5.3)]
 - Hypertension [see Warnings and Precautions (5.4)]
 - Heart Failure and Edema [see Warnings and Precautions (5.5)]
 - Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.6)]
 - Anaphylactic Reactions [see Warnings and Precautions (5.7)]
 - Serious Skin Reactions [see Warnings and Precautions (5.9)]
-- Hematologic Toxicity [seeWarnings and Precautions (5.11)]
+- Hematologic Toxicity [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 

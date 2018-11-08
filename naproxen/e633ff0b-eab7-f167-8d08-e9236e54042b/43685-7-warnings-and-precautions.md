@@ -16,7 +16,7 @@ Patients should be informed about the symptoms of serious CV events and the step
 There is no consistent evidence that concurrent use of aspirin mitigates the increased risk of serious CV thrombotic events associated with NSAID use.
 The concurrent use of aspirin and an NSAID, such as naproxen, increases the risk of serious gastrointestinal (GI) events [see Warnings and Precautions (5.2)].
 
-Status Post Coronary Artery Bypass Graft (CABG) Surgery Two large, controlled clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10–14 days following CABG surgery found an increased incidence of myocardial infarction and stroke.
+Status Post Coronary Artery Bypass Graft (CABG) Surgery Two large, controlled clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10 to 14 days following CABG surgery found an increased incidence of myocardial infarction and stroke.
 NSAIDs are contraindicated in the setting of CABG [see Contraindications (4)].
 
 Post-MI Patients Observational studies conducted in the Danish National Registry have demonstrated that patients treated with NSAIDs in the post-MI period were at increased risk of reinfarction, CV-related death, and all-cause mortality beginning in the first week of treatment.
@@ -35,13 +35,13 @@ Upper GI ulcers, gross bleeding, or perforation caused by NSAIDs occurred in app
 However, even short-term NSAID therapy is not without risk.
 
 Risk Factors for GI Bleeding, Ulceration, and Perforation Patients with a prior history of peptic ulcer disease and/or GI bleeding who used NSAIDs had a greater than 10-fold increased risk for developing a GI bleed compared to patients without these risk factors.
-Other factors that increase the risk for GI bleeding in patients treated with NSAIDs include longer duration of NSAID therapy; concomitant use of oral corticosteroids, aspirin, anticoagulants, or selective serotonin reuptake inhibitors (SSRIs); smoking; use of alcohol; older age; and poor general health status.
+Other factors that increase the risk of GI bleeding in patients treated with NSAIDs include longer duration of NSAID therapy; concomitant use of oral corticosteroids, aspirin, anticoagulants, or selective serotonin reuptake inhibitors (SSRIs); smoking; use of alcohol; older age; and poor general health status.
 Most postmarketing reports of fatal GI events occurred in elderly or debilitated patients.
 Additionally, patients with advanced liver disease and/or coagulopathy are at increased risk for GI bleeding.
 
 Strategies to Minimize the GI Risks in NSAID-treated patients:
 
-- Use the lowest effectivedosage for the shortest possible duration.
+- Use the lowest effective dosage for the shortest possible duration.
 - Avoid administration of more than one NSAID at a time.
 - Avoid use in patients at higher risk unless benefits are expected to outweigh the increased risk of bleeding.
   For such patients, as well as those with active GI bleeding, consider alternate therapies other than NSAIDs.
@@ -84,7 +84,7 @@ Renal Toxicity Long-term administration of NSAIDs has resulted in renal papillar
 Renal toxicity has also been seen in patients in whom renal prostaglandins have a compensatory role in the maintenance of renal perfusion.
 In these patients, administration of an NSAID may cause a dose-dependent reduction in prostaglandin formation and, secondarily, in renal blood flow, which may precipitate overt renal decompensation.
 Patients at greatest risk of this reaction are those with impaired renal function, dehydration, hypovolemia, heart failure, liver dysfunction, those taking diuretics and ACE inhibitors or ARBs, and the elderly.
-Discontinuation of NSAID therapy was usually followed by recovery to the pretreatment state.
+Discontinuation of NSAID therapy is usually followed by recovery to the pretreatment state.
 
 No information is available from controlled clinical studies regarding the use of NAPRELAN in patients with advanced renal disease.
 The renal effects of NAPRELAN may hasten the progression of renal dysfunction in patients with preexisting renal disease.
