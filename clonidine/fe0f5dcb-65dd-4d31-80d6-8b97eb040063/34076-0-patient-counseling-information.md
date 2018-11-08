@@ -58,7 +58,9 @@ During or even after use, a PATCH contains active medication which may be harmfu
 After use, fold in half with the sticky sides together.
 Dispose of carefully out of reach of children.
 
-Distributed by: Boehringer International GmbH
+Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
+
+Licensed from: Boehringer Ingelheim International GmbH
 
 Copyright © 2016 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
