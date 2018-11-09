@@ -11,13 +11,13 @@ If metformin-associated lactic acidosis is suspected, general supportive measure
 In SYNJARDY-treated patients with a diagnosis or strong suspicion of lactic acidosis, prompt hemodialysis is recommended to correct the acidosis and remove accumulated metformin (metformin hydrochloride is dialyzable, with a clearance of up to 170 mL/minute under good hemodynamic conditions).
 Hemodialysis has often resulted in reversal of symptoms and recovery.
 
-Educate patients and their families about the symptoms of lactic acidosis and if these symptoms occur instruct them to discontinue SYNJARDY and report these symptoms to their healthcare provider
+Educate patients and their families about the symptoms of lactic acidosis and if these symptoms occur instruct them to discontinue SYNJARDY and report these symptoms to their healthcare provider.
 
 For each of the known and possible risk factors for metformin-associated lactic acidosis, recommendations to reduce the risk of and manage metformin-associated lactic acidosis are provided below:
 
 Renal Impairment: The postmarketing metformin-associated lactic acidosis cases primarily occurred in patients with significant renal impairment.
 The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney.
-Clinical recommendations based upon the patient’s renal function include [see Dosage and Administration (2.2), Clinical Pharmacology (12.3)]
+Clinical recommendations based upon the patient’s renal function include [see Dosage and Administration (2.2), Clinical Pharmacology (12.3)].
 
 - Before initiating SYNJARDY, obtain an estimated glomerular filtration rate (eGFR).
 - SYNJARDY is contraindicated in patients with an eGFR below 45 mL/min/1.73 m2 [see Contraindications (4)].
@@ -105,19 +105,29 @@ Elderly, debilitated, or malnourished patients, and those with adrenal or pituit
 Hypoglycemia may be difficult to recognize in the elderly, and in people who are taking β-adrenergic blocking drugs.
 Monitor for a need to lower the dose of SYNJARDY to minimize the risk of hypoglycemia in these patients.
 
-## 5.7 Genital Mycotic Infections
+## 5.7 Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene)
+
+Reports of necrotizing fasciitis of the perineum (Fournier’s gangrene), a rare but serious and life-threatening necrotizing infection requiring urgent surgical intervention, have been identified in postmarketing surveillance in patients with diabetes mellitus receiving SGLT2 inhibitors, including empagliflozin.
+Cases have been reported in both females and males.
+Serious outcomes have included hospitalization, multiple surgeries, and death.
+
+Patients treated with SYNJARDY presenting with pain or tenderness, erythema, or swelling in the genital or perineal area, along with fever or malaise, should be assessed for necrotizing fasciitis.
+If suspected, start treatment immediately with broad-spectrum antibiotics and, if necessary, surgical debridement.
+Discontinue SYNJARDY, closely monitor blood glucose levels, and provide appropriate alternative therapy for glycemic control.
+
+## 5.8 Genital Mycotic Infections
 
 Empagliflozin increases the risk for genital mycotic infections [see Adverse Reactions (6.1)].
 Patients with a history of chronic or recurrent genital mycotic infections were more likely to develop genital mycotic infections.
 Monitor and treat as appropriate.
 
-## 5.8 Hypersensitivity Reactions
+## 5.9 Hypersensitivity Reactions
 
 There have been postmarketing reports of serious hypersensitivity reactions, (e.g., angioedema) in patients treated with empagliflozin, one of the components of SYNJARDY.
 If a hypersensitivity reaction occurs, discontinue SYNJARDY; treat promptly per standard of care, and monitor until signs and symptoms resolve.
 SYNJARDY is contraindicated in patients with a previous serious hypersensitivity reaction to empagliflozin or any of the excipients in SYNJARDY [see Contraindications (4)].
 
-## 5.9 Vitamin B12 Levels
+## 5.10 Vitamin B12 Levels
 
 In controlled, 29-week clinical trials of metformin, a decrease to subnormal levels of previously normal serum vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of metformin-treated patients.
 Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, is, however, very rarely associated with anemia or neurologic manifestations due to the short duration (<1 year) of the clinical trials.
@@ -127,11 +137,11 @@ Measurement of hematologic parameters on an annual basis is advised in patients 
 Certain individuals (those with inadequate vitamin B12 or calcium intake or absorption) appear to be predisposed to developing subnormal vitamin B12 levels.
 In these patients, routine serum vitamin B12 measurement at 2- to 3-year intervals may be useful.
 
-## 5.10 Increased Low-Density Lipoprotein Cholesterol (LDL-C)
+## 5.11 Increased Low-Density Lipoprotein Cholesterol (LDL-C)
 
 Increases in LDL-C can occur with empagliflozin.
 Monitor and treat as appropriate.
 
-## 5.11 Macrovascular Outcomes
+## 5.12 Macrovascular Outcomes
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with SYNJARDY.

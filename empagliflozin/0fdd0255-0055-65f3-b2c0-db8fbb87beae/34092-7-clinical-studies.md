@@ -19,7 +19,7 @@ Table 7 Results at Week 24 From a Placebo-Controlled Study for Empagliflozin use
 | HbA1c (%)a |  |  |  |
 | Baseline (mean) | 7.9 | 7.9 | 7.9 |
 | Change from baseline (adjusted mean) | -0.7 | -0.8 | -0.1 |
-| Difference from placebo+ metformin (adjusted mean) (95% CI) | -0.6b (-0.7, -0.4) | -0.6b (-0.8, -0.5) | -- |
+| Difference from placebo + metformin (adjusted mean) (95% CI) | -0.6b (-0.7, -0.4) | -0.6b (-0.8, -0.5) | -- |
 | Patients [n (%)] achieving HbA1c <7% | 75 (38%) | 74 (39%) | 23 (13%) |
 | FPG (mg/dL)c |  |  |  |
 | Baseline (mean) | 155 | 149 | 156 |
@@ -102,7 +102,7 @@ Table 10 Results at Week 52 from an Active-Controlled Study Comparing Empagliflo
 | Baseline mean in kg | 82.5 | 83 |
 | % change from baseline (adjusted mean) | -3.9 | 2.0 |
 | Difference from glimepiride (adjusted mean) (95% CI) | -5.9c (-6.3, -5.5) | -- |
-| aModified intent to treat population. Last observation on study (LOCF) was used to impute data missing at Week 52. At Week 52, data was imputed for 15.3% and 21.9% of patients randomized to empagliflozin 25 mg and glimepiride, respectively. bNon-inferior, ANCOVA model p-value <0.0001 (HbA1c: ANCOVA model includes baseline HbA1c, treatment, renal function, and region) cANCOVA p-value <0.0001 (Body weight and FPG: same model used as for HbA1c but additionally including baseline body weight/baseline FPG, respectively.) dFPG (mg/dL); for empagliflozin 25 mg, n=764, for placebo, n=779 |  |  |
+| aModified intent to treat population. Last observation on study (LOCF) was used to impute data missing at Week 52. At Week 52, data was imputed for 15.3% and 21.9% of patients randomized to empagliflozin 25 mg and glimepiride, respectively. bNon-inferior, ANCOVA model p-value <0.0001 (HbA1c: ANCOVA model includes baseline HbA1c, treatment, renal function, and region) cANCOVA p-value <0.0001 (Body weight and FPG: same model used as for HbA1c but additionally including baseline body weight/baseline FPG, respectively.) dFPG (mg/dL); for empagliflozin 25 mg, n=764, for glimepiride, n=779 |  |  |
 
 Figure 3 Adjusted mean HbA1c Change at Each Time Point (Completers) and at Week 52 (mITT Population) - LOCF
 
