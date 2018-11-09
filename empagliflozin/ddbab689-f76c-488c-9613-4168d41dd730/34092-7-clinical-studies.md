@@ -34,7 +34,7 @@ Table 5 Glycemic Parameters at 24 Weeks in a Study Comparing GLYXAMBI to the Ind
 |  | % change from baseline (adjusted mean) | -3.1 | -3.4 | -3.0 | -3.5 | -0.7 |
 |  | Comparison vs empagliflozin 25 mg or 10 mg (adjusted mean) (95% CI)c | 0.0 (-0.9, 0.8) | 0.1 (-0.8, 0.9) | -- | -- | -- |
 |  | Comparison vs linagliptin 5 mg (adjusted mean) (95% CI)c | -2.4 (-3.3, -1.5)d | -2.7 (-3.6, -1.8)d | -- | -- | -- |
-| a Full analysis population (observed case) using MMRM. MMRM model included treatment, renal function, region, visit, visit by treatment interaction, and baseline HbA1c. |  |  |  |  |  |  |
+| aFull analysis population (observed case) using MMRM. MMRM model included treatment, renal function, region, visit, visit by treatment interaction, and baseline HbA1c. |  |  |  |  |  |  |
 | bPatients with HbA1c above 7% at baseline: GLYXAMBI 25 mg/5 mg, n=123; GLYXAMBI 10 mg/5 mg, n=128; empagliflozin 25 mg, n=132; empagliflozin 10 mg, n=125; linagliptin 5 mg, n=119. Non-completers were considered failures (NCF). |  |  |  |  |  |  |
 | cFull analysis population using last observation carried forward. ANCOVA model included treatment, renal function, region, baseline weight, and baseline HbA1c. |  |  |  |  |  |  |
 | dp<0.001 for FPG; p<0.0001 for HbA1c and body weight |  |  |  |  |  |  |

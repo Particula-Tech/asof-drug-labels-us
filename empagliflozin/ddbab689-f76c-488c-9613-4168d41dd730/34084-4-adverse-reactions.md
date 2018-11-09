@@ -9,11 +9,12 @@ The following important adverse reactions are described below and elsewhere in t
 - Acute Kidney Injury and Impairment in Renal Function [see Warnings and Precautions (5.5)]
 - Urosepsis and Pyelonephritis [see Warnings and Precautions (5.6)]
 - Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.7)]
-- Genital Mycotic Infections [see Warnings and Precautions (5.8)]
-- Hypersensitivity Reactions [see Warnings and Precautions (5.9)]
-- Increased Low-Density Lipoprotein Cholesterol (LDL-C) [see Warnings and Precautions (5.10)]
-- Severe and Disabling Arthralgia [see Warnings and Precautions (5.11)]
-- Bullous Pemphigoid [see Warnings and Precautions (5.12)]
+- Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene) [see Warnings and Precautions (5.8)]
+- Genital Mycotic Infections [see Warnings and Precautions (5.9)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.10)]
+- Increased Low-Density Lipoprotein Cholesterol (LDL-C) [see Warnings and Precautions (5.11)]
+- Severe and Disabling Arthralgia [see Warnings and Precautions (5.12)]
+- Bullous Pemphigoid [see Warnings and Precautions (5.13)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -59,7 +60,7 @@ Table 2 Incidence of Overalla and Severeb Hypoglycemic Adverse Reactions
 Laboratory Tests Empagliflozin and Linagliptin Changes in laboratory findings in patients treated with the combination of empagliflozin and linagliptin included increases in cholesterol and hematocrit compared to baseline.
 
 Empagliflozin Increase in Low-Density Lipoprotein Cholesterol (LDL-C): Dose-related increases in low-density lipoprotein cholesterol (LDL-C) were observed in patients treated with empagliflozin.
-LDL-C increased by 2.3%, 4.6%, and 6.5% in patients treated with placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively [see Warnings and Precautions (5.10)].
+LDL-C increased by 2.3%, 4.6%, and 6.5% in patients treated with placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively [see Warnings and Precautions (5.11)].
 The range of mean baseline LDL-C levels was 90.3 to 90.6 mg/dL across treatment groups.
 
 Increase in Hematocrit: Median hematocrit decreased by 1.3% in placebo and increased by 2.8% in empagliflozin 10 mg and 2.8% in empagliflozin 25 mg treated patients.
@@ -75,11 +76,12 @@ Lipase levels above 3 times upper limit of normal were seen in 8.2% compared to 
 Additional adverse reactions have been identified during postapproval use of linagliptin and empagliflozin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- Acute pancreatitis, including fatal pancreatitis [see Indications and Usage (1) and Warnings and Precautions (5.1)]
+- Acute Pancreatitis, including Fatal Pancreatitis [see Indications and Usage (1) and Warnings and Precautions (5.1)]
 - Ketoacidosis [see Warnings and Precautions (5.4)]
-- Urosepsis and pyelonephritis [see Warnings and Precautions (5.6)]
-- Hypersensitivity reactions including anaphylaxis, angioedema, and exfoliative skin conditions [see Warnings and Precautions (5.9)]
-- Severe and disabling arthralgia [see Warnings and Precautions (5.11)]
-- Bullous pemphigoid [see Warnings and Precautions (5.12)]
-- Skin reactions (e.g., rash, urticaria)
-- Mouth ulceration, stomatitis
+- Urosepsis and Pyelonephritis [see Warnings and Precautions (5.6)]
+- Necrotizing Fasciitis of the Perineum (Fournier’s gangrene) [see Warnings and Precautions (5.8)]
+- Hypersensitivity Reactions including Anaphylaxis, Angioedema, and Exfoliative Skin Conditions [see Warnings and Precautions (5.10)]
+- Severe and Disabling Arthralgia [see Warnings and Precautions (5.12)]
+- Bullous Pemphigoid [see Warnings and Precautions (5.13)]
+- Skin Reactions (e.g., rash, urticaria)
+- Mouth Ulceration, Stomatitis

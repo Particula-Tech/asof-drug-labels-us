@@ -8,6 +8,6 @@ Boehringer Ingelheim Pharmaceuticals, Inc. either owns or uses the Glyxambi®, J
 
 The other trademarks referenced are owned by third parties not affiliated with Boehringer Ingelheim Pharmaceuticals, Inc.
 
-Copyright © 2017 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2018 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-IT5885KL112017
+IT5885MJ232018

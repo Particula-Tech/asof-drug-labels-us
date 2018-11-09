@@ -42,7 +42,7 @@ In patients treated with GLYXAMBI consider monitoring for ketoacidosis and tempo
 
 ## 5.5 Acute Kidney Injury and Impairment in Renal Function
 
-Empagliflozin causes intravascular volume contraction [see Warnings and Precautions (5.1)] and can cause renal impairment [see Adverse Reactions (6.1)].
+Empagliflozin causes intravascular volume contraction [see Warnings and Precautions (5.3)] and can cause renal impairment [see Adverse Reactions (6.1)].
 There have been postmarketing reports of acute kidney injury, some requiring hospitalization and dialysis, in patients receiving SGLT2 inhibitors, including empagliflozin; some reports involved patients younger than 65 years of age.
 
 Before initiating GLYXAMBI, consider factors that may predispose patients to acute kidney injury including hypovolemia, chronic renal insufficiency, congestive heart failure and concomitant medications (diuretics, ACE inhibitors, ARBs, NSAIDs).
@@ -68,13 +68,23 @@ Insulin and insulin secretagogues are known to cause hypoglycemia.
 The use of empagliflozin or linagliptin in combination with an insulin secretagogue (e.g., sulfonylurea) or insulin was associated with a higher rate of hypoglycemia compared with placebo in a clinical trial.
 Therefore, a lower dose of the insulin secretagogue or insulin may be required to reduce the risk of hypoglycemia when used in combination with GLYXAMBI.
 
-## 5.8 Genital Mycotic Infections
+## 5.8 Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene)
+
+Reports of necrotizing fasciitis of the perineum (Fournier’s gangrene), a rare but serious and life-threatening necrotizing infection requiring urgent surgical intervention, have been identified in postmarketing surveillance in patients with diabetes mellitus receiving SGLT2 inhibitors, including empagliflozin.
+Cases have been reported in both females and males.
+Serious outcomes have included hospitalization, multiple surgeries, and death.
+
+Patients treated with GLYXAMBI presenting with pain or tenderness, erythema, or swelling in the genital or perineal area, along with fever or malaise, should be assessed for necrotizing fasciitis.
+If suspected, start treatment immediately with broad-spectrum antibiotics and, if necessary, surgical debridement.
+Discontinue GLYXAMBI, closely monitor blood glucose levels, and provide appropriate alternative therapy for glycemic control.
+
+## 5.9 Genital Mycotic Infections
 
 Empagliflozin increases the risk for genital mycotic infections [see Adverse Reactions (6.1)].
 Patients with a history of chronic or recurrent genital mycotic infections were more likely to develop genital mycotic infections.
 Monitor and treat as appropriate.
 
-## 5.9 Hypersensitivity Reactions
+## 5.10 Hypersensitivity Reactions
 
 There have been postmarketing reports of serious hypersensitivity reactions in patients treated with linagliptin (one of the components of GLYXAMBI).
 These reactions include anaphylaxis, angioedema, and exfoliative skin conditions.
@@ -88,12 +98,12 @@ There have been postmarketing reports of serious hypersensitivity reactions, (e.
 If a hypersensitivity reaction occurs, discontinue GLYXAMBI, treat promptly per standard of care, and monitor until signs and symptoms resolve.
 GLYXAMBI is contraindicated in patients with a previous serious hypersensitivity reaction to linagliptin or empagliflozin [see Contraindications (4)].
 
-## 5.10 Increased Low-Density Lipoprotein Cholesterol (LDL-C)
+## 5.11 Increased Low-Density Lipoprotein Cholesterol (LDL-C)
 
 Increases in LDL-C can occur with empagliflozin [see Adverse Reactions (6.1)].
 Monitor and treat as appropriate.
 
-## 5.11 Severe and Disabling Arthralgia
+## 5.12 Severe and Disabling Arthralgia
 
 There have been postmarketing reports of severe and disabling arthralgia in patients taking DPP-4 inhibitors.
 The time to onset of symptoms following initiation of drug therapy varied from one day to years.
@@ -101,13 +111,13 @@ Patients experienced relief of symptoms upon discontinuation of the medication.
 A subset of patients experienced a recurrence of symptoms when restarting the same drug or a different DPP-4 inhibitor.
 Consider as a possible cause for severe joint pain and discontinue drug if appropriate.
 
-## 5.12 Bullous Pemphigoid
+## 5.13 Bullous Pemphigoid
 
 Postmarketing cases of bullous pemphigoid requiring hospitalization have been reported with DPP-4 inhibitor use.
 In reported cases, patients typically recovered with topical or systemic immunosuppressive treatment and discontinuation of the DPP-4 inhibitor.
 Tell patients to report development of blisters or erosions while receiving GLYXAMBI.
 If bullous pemphigoid is suspected, GLYXAMBI should be discontinued and referral to a dermatologist should be considered for diagnosis and appropriate treatment.
 
-## 5.13 Macrovascular Outcomes
+## 5.14 Macrovascular Outcomes
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with GLYXAMBI.

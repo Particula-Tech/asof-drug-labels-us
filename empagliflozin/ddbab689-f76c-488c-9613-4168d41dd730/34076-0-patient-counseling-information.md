@@ -43,22 +43,25 @@ Serious Urinary Tract Infections Inform patients of the potential for urinary tr
 Provide them with information on the symptoms of urinary tract infections.
 Advise them to seek medical advice if such symptoms occur [see Warnings and Precautions (5.6)].
 
+Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene) Inform patients that necrotizing infections of the perineum (Fournier’s gangrene) have occurred with empagliflozin, a component of GLYXAMBI.
+Counsel patients to promptly seek medical attention if they develop pain or tenderness, redness, or swelling of the genitals or the area from the genitals back to the rectum, along with a fever above 100.4°F or malaise [see Warnings and Precautions (5.8)].
+
 Genital Mycotic Infections in Females (e.g., Vulvovaginitis) Inform female patients that vaginal yeast infections may occur and provide them with information on the signs and symptoms of vaginal yeast infections.
-Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.8)].
+Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.9)].
 
 Genital Mycotic Infections in Males (e.g., Balanitis or Balanoposthitis) Inform male patients that yeast infection of penis (e.g., balanitis or balanoposthitis) may occur, especially in uncircumcised males and patients with chronic and recurrent infections.
 Provide them with information on the signs and symptoms of balanitis and balanoposthitis (rash or redness of the glans or foreskin of the penis).
-Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.8)].
+Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.9)].
 
 Hypersensitivity Reactions Inform patients that serious allergic reactions, such as anaphylaxis, angioedema, and exfoliative skin conditions, have been reported during postmarketing use of linagliptin or empagliflozin, components of GLYXAMBI.
-If symptoms of allergic reactions (such as rash, skin flaking or peeling, urticaria, swelling of the skin, or swelling of the face, lips, tongue, and throat that may cause difficulty in breathing or swallowing) occur, patients must stop taking GLYXAMBI and seek medical advice promptly [see Warnings and Precautions (5.9)].
+If symptoms of allergic reactions (such as rash, skin flaking or peeling, urticaria, swelling of the skin, or swelling of the face, lips, tongue, and throat that may cause difficulty in breathing or swallowing) occur, patients must stop taking GLYXAMBI and seek medical advice promptly [see Warnings and Precautions (5.10)].
 
 Severe and Disabling Arthralgia Inform patients that severe and disabling joint pain may occur with this class of drugs.
 The time to onset of symptoms can range from one day to years.
-Instruct patients to seek medical advice if severe joint pain occurs [see Warnings and Precautions (5.11)].
+Instruct patients to seek medical advice if severe joint pain occurs [see Warnings and Precautions (5.12)].
 
 Bullous Pemphigoid Inform patients that bullous pemphigoid may occur with this class of drugs.
-Instruct patients to seek medical advice if blisters or erosions occur [see Warnings and Precautions (5.12)].
+Instruct patients to seek medical advice if blisters or erosions occur [see Warnings and Precautions (5.13)].
 
 Laboratory Tests Inform patients that renal function should be assessed prior to initiation of GLYXAMBI and monitored periodically thereafter.
 
