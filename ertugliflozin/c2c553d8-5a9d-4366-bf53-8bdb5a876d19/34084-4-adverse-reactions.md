@@ -10,11 +10,12 @@ The following important adverse reactions are described elsewhere in the labelin
 - Lower Limb Amputation [see Warnings and Precautions (5.6)]
 - Heart Failure [see Warnings and Precautions (5.7)]
 - Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.8)]
-- Genital Mycotic Infections [see Warnings and Precautions (5.9)]
-- Hypersensitivity Reactions [see Warnings and Precautions (5.10)]
-- Increases in Low-Density Lipoprotein (LDL-C) [see Warnings and Precautions (5.11)]
-- Severe and Disabling Arthralgia [see Warnings and Precautions (5.12)]
-- Bullous Pemphigoid [see Warnings and Precautions (5.13)]
+- Necrotizing Fasciitis of the Perineum (Fournier's gangrene) [see Warnings and Precautions (5.9)]
+- Genital Mycotic Infections [see Warnings and Precautions (5.10)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.11)]
+- Increases in Low-Density Lipoprotein (LDL-C) [see Warnings and Precautions (5.12)]
+- Severe and Disabling Arthralgia [see Warnings and Precautions (5.13)]
+- Bullous Pemphigoid [see Warnings and Precautions (5.14)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -149,7 +150,7 @@ Increases in Low-Density Lipoprotein Cholesterol (LDL-C)
 
 In the pool of three placebo-controlled trials, dose-related increases in LDL-C were observed in patients treated with ertugliflozin.
 Mean percent changes from baseline to Week 26 in LDL-C relative to placebo were 2.6% and 5.4% with ertugliflozin 5 mg and ertugliflozin 15 mg, respectively.
-The range of mean baseline LDL-C was 96.6 to 97.7 mg/dL across treatment groups [see Warnings and Precautions (5.11)].
+The range of mean baseline LDL-C was 96.6 to 97.7 mg/dL across treatment groups [see Warnings and Precautions (5.12)].
 
 Increases in Hemoglobin
 
@@ -179,4 +180,11 @@ Sitagliptin
 Additional adverse reactions have been identified during postapproval use of sitagliptin, a component of STEGLUJAN, as monotherapy and/or in combination with other antihyperglycemic agents.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria, cutaneous vasculitis, and exfoliative skin conditions including Stevens-Johnson syndrome [see Warnings and Precautions (5.10)]; hepatic enzyme elevations; acute pancreatitis, including fatal and non-fatal hemorrhagic and necrotizing pancreatitis [see Indications and Usage (1) and Warnings and Precautions (5.1)]; worsening renal function, including acute renal failure (sometimes requiring dialysis) [see Warnings and Precautions (5.4)]; severe and disabling arthralgia [see Warnings and Precautions (5.12)]; bullous pemphigoid [see Warnings and Precautions (5.13)]; constipation; vomiting; headache; myalgia; pain in extremity; back pain; pruritus; mouth ulceration; stomatitis.
+Hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria, cutaneous vasculitis, and exfoliative skin conditions including Stevens-Johnson syndrome [see Warnings and Precautions (5.11)]; hepatic enzyme elevations; acute pancreatitis, including fatal and non-fatal hemorrhagic and necrotizing pancreatitis [see Indications and Usage (1) and Warnings and Precautions (5.1)]; worsening renal function, including acute renal failure (sometimes requiring dialysis) [see Warnings and Precautions (5.4)]; severe and disabling arthralgia [see Warnings and Precautions (5.13)]; bullous pemphigoid [see Warnings and Precautions (5.14)]; constipation; vomiting; headache; myalgia; pain in extremity; back pain; pruritus; mouth ulceration; stomatitis.
+
+Ertugliflozin
+
+Additional adverse reactions have been identified during postapproval use.
+Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+- Cases of necrotizing fasciitis of the perineum (Fournier's gangrene) have been seen with SGLT2 inhibitors [see Warnings and Precautions (5.9)]

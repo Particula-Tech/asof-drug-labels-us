@@ -87,13 +87,23 @@ When sitagliptin, a component of STEGLUJAN, was used in combination with a sulfo
 [See Adverse Reactions (6.1).]
 Therefore, a lower dose of insulin or insulin secretagogue may be required to minimize the risk of hypoglycemia when used in combination with STEGLUJAN.
 
-## 5.9 Genital Mycotic Infections
+## 5.9 Necrotizing Fasciitis of the Perineum (Fournier's Gangrene)
+
+Reports of necrotizing fasciitis of the perineum (Fournier's gangrene), a rare but serious and life-threatening necrotizing infection requiring urgent surgical intervention, have been identified in postmarketing surveillance in patients with diabetes mellitus receiving SGLT2 inhibitors.
+Cases have been reported in females and males.
+Serious outcomes have included hospitalization, multiple surgeries, and death.
+
+Patients treated with STEGLUJAN presenting with pain or tenderness, erythema, or swelling in the genital or perineal area, along with fever or malaise, should be assessed for necrotizing fasciitis.
+If suspected, start treatment immediately with broad-spectrum antibiotics and, if necessary, surgical debridement.
+Discontinue STEGLUJAN, closely monitor blood glucose levels, and provide appropriate alternative therapy for glycemic control.
+
+## 5.10 Genital Mycotic Infections
 
 Ertugliflozin, a component of STEGLUJAN, increases the risk of genital mycotic infections.
 Patients who have a history of genital mycotic infections or who are uncircumcised are more likely to develop genital mycotic infections [see Adverse Reactions (6.1)].
 Monitor and treat appropriately.
 
-## 5.10 Hypersensitivity Reactions
+## 5.11 Hypersensitivity Reactions
 
 There have been postmarketing reports of serious hypersensitivity reactions in patients treated with sitagliptin, a component of STEGLUJAN.
 These reactions include anaphylaxis, angioedema, and exfoliative skin conditions including Stevens-Johnson syndrome.
@@ -104,12 +114,12 @@ If a hypersensitivity reaction is suspected, discontinue STEGLUJAN, assess for o
 Angioedema has also been reported with other dipeptidyl peptidase-4 (DPP-4) inhibitors.
 Use caution in a patient with a history of angioedema with another DPP-4 inhibitor because it is unknown whether such patients will be predisposed to angioedema with STEGLUJAN.
 
-## 5.11 Increases in Low-Density Lipoprotein Cholesterol (LDL-C)
+## 5.12 Increases in Low-Density Lipoprotein Cholesterol (LDL-C)
 
 Dose-related increases in LDL-C can occur with ertugliflozin, a component of STEGLUJAN [see Adverse Reactions (6.1)].
 Monitor and treat as appropriate.
 
-## 5.12 Severe and Disabling Arthralgia
+## 5.13 Severe and Disabling Arthralgia
 
 There have been postmarketing reports of severe and disabling arthralgia in patients taking DPP-4 inhibitors.
 The time to onset of symptoms following initiation of drug therapy varied from one day to years.
@@ -117,13 +127,13 @@ Patients experienced relief of symptoms upon discontinuation of the medication.
 A subset of patients experienced a recurrence of symptoms when restarting the same drug or a different DPP-4 inhibitor.
 Consider DPP-4 inhibitors as a possible cause for severe joint pain and discontinue drug if appropriate.
 
-## 5.13 Bullous Pemphigoid
+## 5.14 Bullous Pemphigoid
 
 Postmarketing cases of bullous pemphigoid requiring hospitalization have been reported with DPP-4 inhibitor use.
 In reported cases, patients typically recovered with topical or systemic immunosuppressive treatment and discontinuation of the DPP-4 inhibitor.
 Tell patients to report development of blisters or erosions while receiving STEGLUJAN.
 If bullous pemphigoid is suspected, STEGLUJAN should be discontinued and referral to a dermatologist should be considered for diagnosis and appropriate treatment.
 
-## 5.14 Macrovascular Outcomes
+## 5.15 Macrovascular Outcomes
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with STEGLUJAN.
