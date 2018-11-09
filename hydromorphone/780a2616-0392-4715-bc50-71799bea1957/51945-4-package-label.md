@@ -16,6 +16,8 @@ Dispense the accompanying Medication Guide to each patient
 
 100 Tablets
 
+The following image is a placeholder representing the product identifier that is either affixed or imprinted on the drug package label during the packaging operation.
+
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 12 mg
 
 0574-0294-01
@@ -33,6 +35,8 @@ Dispense the accompanying Medication Guide to each patient
 100 Tablets
 
 Rx Only
+
+The following image is a placeholder representing the product identifier that is either affixed or imprinted on the drug package label during the packaging operation.
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 16 mg
 
@@ -52,6 +56,8 @@ Dispense the accompanying Medication Guide to each patient
 
 Rx Only
 
+The following image is a placeholder representing the product identifier that is either affixed or imprinted on the drug package label during the packaging operation.
+
 # Package/Label Display Panel – 32 mg
 
 NDC 0574-0297-01
@@ -69,3 +75,5 @@ Dispense the accompanying Medication Guide to each patient
 100 Tablets
 
 Rx Only
+
+The following image is a placeholder representing the product identifier that is either affixed or imprinted on the drug package label during the packaging operation.
