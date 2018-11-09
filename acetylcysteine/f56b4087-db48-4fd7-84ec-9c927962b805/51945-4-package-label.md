@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 4 mL (10%) Container & Carton
 
-NDC 0517-7504-25
+NDC 0517-7504-01
 
 ACETYLCYSTEINE SOLUTION, USP
 
@@ -32,7 +32,7 @@ Rev.
 
 # PRINCIPAL DISPLAY PANEL - 4 mL (20%) Container & Carton
 
-NDC 0517-7604-25
+NDC 0517-7604-01
 
 ACETYLCYSTEINE SOLUTION, USP
 
@@ -146,7 +146,7 @@ Rev.
 
 # PRINCIPAL DISPLAY PANEL - 30 mL (20%) Container & Carton
 
-NDC 0517-7630-03
+NDC 0517-7630-01
 
 ACETYLCYSTEINE SOLUTION, USP
 
@@ -181,3 +181,13 @@ AMERICAN REGENT, INC. SHIRLEY, NY 11967
 
 Rev.
 11/11
+
+# Serialization Label - 4 mL (10%)
+
+# Serialization Label - 4 mL (20%)
+
+# Serialization Label - 10 mL (10%)
+
+# Serialization Label - 10 mL (20%)
+
+# Serialization Label - 30 mL (20%)
