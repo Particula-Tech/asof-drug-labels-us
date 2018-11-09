@@ -1,8 +1,8 @@
-PRINCIPAL DISPLAY PANEL - 37.5 mg/1000 Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 1000 Tablet Bottle Label
 
-NDC 51224-101-70
+NDC 51224-101-70 CIV
 
-Phentermine Hydrochloride Tablets, USP CIV
+Phentermine Hydrochloride Tablets, USP
 
 37.5 mg
 

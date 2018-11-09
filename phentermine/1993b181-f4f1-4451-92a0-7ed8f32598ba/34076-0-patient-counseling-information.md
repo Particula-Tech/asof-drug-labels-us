@@ -20,7 +20,11 @@ See also, for example, Adverse Reactions (6) and Use in Specific Populations (8)
 The patients must also be informed about
 
 - the potential for developing tolerance and actions if they suspect development of tolerance [see Warnings and Precautions (5.4)] and
-- the risk of dependence and the potential consequences of abuse [see Warnings and Precautions (5.6), Drug Abuse and Dependence (9), and Overdosage (10)].
+- the risk of dependence and the potential consequences of abuse [see Warnings and Precautions (5.6), Drug Abuse and Dependence (9), andOverdosage (10)].
 
 Tell patients to keep phentermine in a safe place to prevent theft, accidental overdose, misuse or abuse.
 Selling or giving away phentermine may harm others and is against the law.
+
+All trademarks are the property of their respective owners.
+
+For inquiries call TAGI Pharma, Inc. at 1-855-225-8244 or e-mail druginfo@tagipharma.com
