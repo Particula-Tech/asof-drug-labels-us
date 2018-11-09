@@ -9,9 +9,10 @@ The following important adverse reactions are described elsewhere in the labelin
 - Urosepsis and Pyelonephritis [see Warnings and Precautions (5.5)]
 - Lower Limb Amputation [see Warnings and Precautions (5.6)]
 - Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.7)]
-- Genital Mycotic Infections [see Warnings and Precautions (5.8)]
-- Vitamin B12 Levels [see Warnings and Precautions (5.9)]
-- Increases in Low-Density Lipoprotein Cholesterol (LDL-C) [see Warnings and Precautions (5.10)]
+- Necrotizing Fasciitis of the Perineum (Fournier's gangrene) [see Warnings and Precautions (5.8)]
+- Genital Mycotic Infections [see Warnings and Precautions (5.9)]
+- Vitamin B12 Levels [see Warnings and Precautions (5.10)]
+- Increases in Low-Density Lipoprotein Cholesterol (LDL-C) [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -134,7 +135,7 @@ Increases in Low-Density Lipoprotein Cholesterol (LDL-C)
 
 In the pool of three placebo-controlled trials, dose-related increases in LDL-C were observed in patients treated with ertugliflozin.
 Mean percent changes from baseline to Week 26 in LDL-C relative to placebo were 2.6% and 5.4% with ertugliflozin 5 mg and ertugliflozin 15 mg, respectively.
-The range of mean baseline LDL-C was 96.6 to 97.7 mg/dL across treatment groups [see Warnings and Precautions (5.10)].
+The range of mean baseline LDL-C was 96.6 to 97.7 mg/dL across treatment groups [see Warnings and Precautions (5.11)].
 
 Increases in Hemoglobin
 
@@ -151,4 +152,11 @@ In a clinical trial of patients with moderate renal impairment, mean changes (me
 Metformin
 
 In controlled clinical trials of metformin of 29 weeks duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of patients.
-Such decreases, possibly due to interference with B12 absorption from the B12-intrinsic factor complex is, however, very rarely associated with anemia and appears to be rapidly reversible with discontinuation of metformin or vitamin B12 supplementation [see Warnings and Precautions (5.9)].
+Such decreases, possibly due to interference with B12 absorption from the B12-intrinsic factor complex is, however, very rarely associated with anemia and appears to be rapidly reversible with discontinuation of metformin or vitamin B12 supplementation [see Warnings and Precautions (5.10)].
+
+## 6.2 Postmarketing Experience
+
+Additional adverse reactions have been identified during postapproval use.
+Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+- Cases of necrotizing fasciitis of the perineum (Fournier's gangrene) have been seen with SGLT2 inhibitors [see Warnings and Precautions (5.8)]

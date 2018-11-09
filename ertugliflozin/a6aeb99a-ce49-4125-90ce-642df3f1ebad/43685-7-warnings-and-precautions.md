@@ -120,13 +120,23 @@ Hypoglycemia does not occur in patients receiving metformin, a component of SEGL
 Elderly, debilitated, or malnourished patients, and those with adrenal or pituitary insufficiency or alcohol intoxication are particularly susceptible to hypoglycemic effects.
 Hypoglycemia may be difficult to recognize in the elderly, and in people who are taking β-adrenergic blocking drugs.
 
-## 5.8 Genital Mycotic Infections
+## 5.8 Necrotizing Fasciitis of the Perineum (Fournier's Gangrene)
+
+Reports of necrotizing fasciitis of the perineum (Fournier's gangrene), a rare but serious and life-threatening necrotizing infection requiring urgent surgical intervention, have been identified in postmarketing surveillance in patients with diabetes mellitus receiving SGLT2 inhibitors.
+Cases have been reported in females and males.
+Serious outcomes have included hospitalization, multiple surgeries, and death.
+
+Patients treated with SEGLUROMET presenting with pain or tenderness, erythema, or swelling in the genital or perineal area, along with fever or malaise, should be assessed for necrotizing fasciitis.
+If suspected, start treatment immediately with broad-spectrum antibiotics and, if necessary, surgical debridement.
+Discontinue SEGLUROMET, closely monitor blood glucose levels, and provide appropriate alternative therapy for glycemic control.
+
+## 5.9 Genital Mycotic Infections
 
 Ertugliflozin, a component of SEGLUROMET, increases the risk of genital mycotic infections.
 Patients who have a history of genital mycotic infections or who are uncircumcised are more likely to develop genital mycotic infections [see Adverse Reactions (6.1)].
 Monitor and treat appropriately.
 
-## 5.9 Vitamin B12 Levels
+## 5.10 Vitamin B12 Levels
 
 In controlled clinical trials of metformin, a component of SEGLUROMET, of 29 weeks duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of patients.
 Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, is, however, very rarely associated with anemia and appears to be rapidly reversible with discontinuation of metformin or vitamin B12 supplementation.
@@ -135,11 +145,11 @@ Measurement of hematologic parameters on an annual basis is advised in patients 
 Certain individuals (those with inadequate vitamin B12 or calcium intake or absorption) appear to be predisposed to developing subnormal vitamin B12 levels.
 In these patients, routine serum vitamin B12 measurements at two- to three-year intervals may be useful.
 
-## 5.10 Increases in Low-Density Lipoprotein Cholesterol (LDL-C)
+## 5.11 Increases in Low-Density Lipoprotein Cholesterol (LDL-C)
 
 Dose-related increases in LDL-C can occur with ertugliflozin, a component of SEGLUROMET [see Adverse Reactions (6.1)].
 Monitor and treat as appropriate.
 
-## 5.11 Macrovascular Outcomes
+## 5.12 Macrovascular Outcomes
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with SEGLUROMET.

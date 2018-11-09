@@ -41,14 +41,14 @@ The difference from placebo (95% CI) for ertugliflozin 5 mg was -1.8 kg (-2.4, -
 
 The mean baseline systolic blood pressure was 129.3 mmHg, 130.5 mmHg, and 130.2 mmHg in the placebo, ertugliflozin 5 mg, and ertugliflozin 15 mg groups, respectively.
 The mean changes from baseline to Week 26 were -1.8 mmHg, -5.1 mmHg, and -5.7 mmHg in the placebo, ertugliflozin 5 mg, and ertugliflozin 15 mg groups, respectively.
-The difference from placebo (95% CI) for ertugliflozin 5 mg was -3.3 mmHg (-5.6, -1.1) and for ertugliflozin 15 g was -3.8 mmHg (-6.1, -1.5).
+The difference from placebo (95% CI) for ertugliflozin 5 mg was -3.3 mmHg (-5.6, -1.1) and for ertugliflozin 15 mg was -3.8 mmHg (-6.1, -1.5).
 
 | Figure 3: HbA1c (%) Change over Time in a 26-Week Placebo-Controlled Study for Ertugliflozin Used in Combination with Metformin in Patients with Type 2 Diabetes MellitusData to the left of the vertical line are observed means (non-model-based) excluding values occurring post glycemic rescue. Data to the right of the vertical line represent the final Week 26 data, including all values regardless of use of glycemic rescue medication and use of study drug, with missing Week 26 values imputed using multiple imputation (26-MI) with a mean equal to the baseline value of the patient (see Table 6). |
 | --- |
 
 ## 14.3 In Combination with Sitagliptin versus Ertugliflozin Alone and Sitagliptin Alone, as Add-on to Metformin
 
-A total of 1,233 patients with type 2 diabetes mellitus with inadequate glycemic control (HbA1c between 7.5% and 11%) on metformin monotherapy (≥1,500 mg/day for ≥8 weeks) participated in a randomized, double-blind, 26-week, active controlled study (NCT NCT02099110) to evaluate the efficacy and safety of ertugliflozin 5 mg or 15 mg in combination with sitagliptin 100 mg compared to the individual components.
+A total of 1,233 patients with type 2 diabetes mellitus with inadequate glycemic control (HbA1c between 7.5% and 11%) on metformin monotherapy (≥1,500 mg/day for ≥8 weeks) participated in a randomized, double-blind, 26-week, active controlled study (NCT02099110) to evaluate the efficacy and safety of ertugliflozin 5 mg or 15 mg in combination with sitagliptin 100 mg compared to the individual components.
 Patients were randomized to one of five treatment arms: ertugliflozin 5 mg, ertugliflozin 15 mg, sitagliptin 100 mg, ertugliflozin 5 mg + sitagliptin 100 mg, or ertugliflozin 15 mg + sitagliptin 100 mg.
 
 At Week 26, ertugliflozin 5 mg or 15 mg + sitagliptin 100 mg provided statistically significantly greater reductions in HbA1c compared to ertugliflozin (5 mg or 15 mg) alone or sitagliptin 100 mg alone.

@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 2.5 mg / 500 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 2.5 mg/500 mg Tablet Bottle Label
 
 NDC 0006-5369-03
 
@@ -16,7 +16,7 @@ Rx only
 
 60 Tablets
 
-# PRINCIPAL DISPLAY PANEL - 2.5 mg / 1,000 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 2.5 mg/1,000 mg Tablet Bottle Label
 
 NDC 0006-5373-03
 
@@ -30,7 +30,7 @@ Each tablet contains 3.24 mg ertugliflozin L-pyroglutamic acid (equivalent to 2.
 
 60 Tablets Rx only
 
-# PRINCIPAL DISPLAY PANEL - 7.5 mg / 500 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 7.5 mg/500 mg Tablet Bottle Label
 
 NDC 0006-5370-03
 
@@ -48,7 +48,7 @@ Rx only
 
 60 Tablets
 
-# PRINCIPAL DISPLAY PANEL - 7.5 mg / 1,000 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 7.5 mg/1,000 mg Tablet Bottle Label
 
 NDC 0006-5374-03
 
