@@ -41,7 +41,7 @@ Vancomycin serum concentrations can be determined by use of microbiologic assay,
 If creatinine clearance can be measured or estimated accurately, the dosage for most patients with renal impairment can be calculated using the following table.
 The dosage of vancomycin hydrochloride for injection per day in mg is about 15 times the glomerular filtration rate in mL/min (see following table).
 
-DOSAGE TABLE FOR VANCOMYCIN IN PATIENTS WITH IMPAIRED RENAL FUNCTION (Adapted from Moellering et al)4
+DOSAGE TABLE FOR VANCOMYCIN IN PATIENTS WITH IMPAIRED RENAL FUNCTION (Adapted from Moellering et al)1
 
 | Creatinine ClearancemL/min | Vancomycin Dosemg/24 h |
 | --- | --- |
