@@ -1,8 +1,8 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Patient Information).
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Instructions Instruct patients to read the Patient Information before starting JARDIANCE therapy and to reread it each time the prescription is renewed.
+Instructions Instruct patients to read the Medication Guide before starting JARDIANCE therapy and to reread it each time the prescription is renewed.
 Instruct patients to inform their doctor or pharmacist if they develop any unusual symptom, or if any known symptom persists or worsens.
 
 Inform patients of the potential risks and benefits of JARDIANCE and of alternative modes of therapy.
@@ -35,15 +35,18 @@ Serious Urinary Tract Infections Inform patients of the potential for urinary tr
 Provide them with information on the symptoms of urinary tract infections.
 Advise them to seek medical advice if such symptoms occur [see Warnings and Precautions (5.4)].
 
+Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene) Inform patients that necrotizing infections of the perineum (Fournier’s gangrene) have occurred with JARDIANCE.
+Counsel patients to promptly seek medical attention if they develop pain or tenderness, redness, or swelling of the genitals or the area from the genitals back to the rectum, along with a fever above 100.4°F or malaise [see Warnings and Precautions (5.6)].
+
 Genital Mycotic Infections in Females (e.g., Vulvovaginitis) Inform female patients that vaginal yeast infections may occur and provide them with information on the signs and symptoms of vaginal yeast infections.
-Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.6)].
+Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.7)].
 
 Genital Mycotic Infections in Males (e.g., Balanitis or Balanoposthitis) Inform male patients that yeast infection of penis (e.g., balanitis or balanoposthitis) may occur, especially in uncircumcised males and patients with chronic and recurrent infections.
 Provide them with information on the signs and symptoms of balanitis and balanoposthitis (rash or redness of the glans or foreskin of the penis).
-Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.6)].
+Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.7)].
 
 Hypersensitivity Reactions Inform patients that serious hypersensitivity reactions, such as urticaria and angioedema, have been reported with JARDIANCE.
-Advise patients to report immediately any skin reaction or angioedema, and to discontinue drug until they have consulted prescribing physician [see Warnings and Precautions (5.7)].
+Advise patients to report immediately any skin reaction or angioedema, and to discontinue drug until they have consulted prescribing physician [see Warnings and Precautions (5.8)].
 
 Laboratory Tests Inform patients that renal function should be assessed prior to initiation of JARDIANCE and monitored periodically thereafter.
 

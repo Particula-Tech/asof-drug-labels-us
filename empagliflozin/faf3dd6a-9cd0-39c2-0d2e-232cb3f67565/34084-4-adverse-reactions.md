@@ -7,9 +7,10 @@ The following important adverse reactions are described below and elsewhere in t
 - Acute Kidney Injury and Impairment in Renal Function [see Warnings and Precautions (5.3)]
 - Urosepsis and Pyelonephritis [see Warnings and Precautions (5.4)]
 - Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.5)]
-- Genital Mycotic Infections [see Warnings and Precautions (5.6)]
-- Hypersensitivity Reactions [see Warnings and Precautions (5.7)]
-- Increased Low-Density Lipoprotein Cholesterol (LDL-C) [see Warnings and Precautions (5.8)]
+- Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene) [see Warnings and Precautions (5.6)]
+- Genital Mycotic Infections [see Warnings and Precautions (5.7)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.8)]
+- Increased Low-Density Lipoprotein Cholesterol (LDL-C) [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -136,7 +137,7 @@ The incidence of urinary tract infections in female patients randomized to place
 The incidence of urinary tract infections in male patients randomized to placebo, JARDIANCE 10 mg, and JARDIANCE 25 mg was 3.2%, 3.6%, and 4.1%, respectively [see Warnings and Precautions (5.4) and Use in Specific Populations (8.5)].
 
 Laboratory Tests Increase in Low-Density Lipoprotein Cholesterol (LDL-C) Dose-related increases in low-density lipoprotein cholesterol (LDL-C) were observed in patients treated with JARDIANCE.
-LDL-C increased by 2.3%, 4.6%, and 6.5% in patients treated with placebo, JARDIANCE 10 mg, and JARDIANCE 25 mg, respectively [see Warnings and Precautions (5.8)].
+LDL-C increased by 2.3%, 4.6%, and 6.5% in patients treated with placebo, JARDIANCE 10 mg, and JARDIANCE 25 mg, respectively [see Warnings and Precautions (5.9)].
 The range of mean baseline LDL-C levels was 90.3 to 90.6 mg/dL across treatment groups.
 
 Increase in Hematocrit In a pool of four placebo-controlled studies, median hematocrit decreased by 1.3% in placebo and increased by 2.8% in JARDIANCE 10 mg and 2.8% in JARDIANCE 25 mg treated patients.
@@ -148,6 +149,7 @@ Additional adverse reactions have been identified during postapproval use of JAR
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 - Ketoacidosis [see Warnings and Precautions (5.2)]
-- Urosepsis and pyelonephritis [see Warnings and Precautions (5.4)]
-- Angioedema [see Warnings and Precautions (5.7)]
-- Skin reactions (e.g., rash, urticaria)
+- Urosepsis and Pyelonephritis [see Warnings and Precautions (5.4)]
+- Necrotizing Fasciitis of the Perineum (Fournier’s gangrene) [see Warnings and Precautions (5.6)]
+- Angioedema [see Warnings and Precautions (5.8)]
+- Skin Reactions (e.g., rash, urticaria)

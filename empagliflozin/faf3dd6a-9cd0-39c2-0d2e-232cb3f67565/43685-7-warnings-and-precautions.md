@@ -52,19 +52,29 @@ Insulin and insulin secretagogues are known to cause hypoglycemia.
 The risk of hypoglycemia is increased when JARDIANCE is used in combination with insulin secretagogues (e.g., sulfonylurea) or insulin [see Adverse Reactions (6.1)].
 Therefore, a lower dose of the insulin secretagogue or insulin may be required to reduce the risk of hypoglycemia when used in combination with JARDIANCE.
 
-## 5.6 Genital Mycotic Infections
+## 5.6 Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene)
+
+Reports of necrotizing fasciitis of the perineum (Fournier’s gangrene), a rare but serious and life-threatening necrotizing infection requiring urgent surgical intervention, have been identified in postmarketing surveillance in patients with diabetes mellitus receiving SGLT2 inhibitors, including JARDIANCE.
+Cases have been reported in both females and males.
+Serious outcomes have included hospitalization, multiple surgeries, and death.
+
+Patients treated with JARDIANCE presenting with pain or tenderness, erythema, or swelling in the genital or perineal area, along with fever or malaise, should be assessed for necrotizing fasciitis.
+If suspected, start treatment immediately with broad-spectrum antibiotics and, if necessary, surgical debridement.
+Discontinue JARDIANCE, closely monitor blood glucose levels, and provide appropriate alternative therapy for glycemic control.
+
+## 5.7 Genital Mycotic Infections
 
 JARDIANCE increases the risk for genital mycotic infections [see Adverse Reactions (6.1)].
 Patients with a history of chronic or recurrent genital mycotic infections were more likely to develop genital mycotic infections.
 Monitor and treat as appropriate.
 
-## 5.7 Hypersensitivity Reactions
+## 5.8 Hypersensitivity Reactions
 
 There have been postmarketing reports of serious hypersensitivity reactions, (e.g., angioedema) in patients treated with JARDIANCE.
 If a hypersensitivity reaction occurs, discontinue JARDIANCE; treat promptly per standard of care, and monitor until signs and symptoms resolve.
 JARDIANCE is contraindicated in patients with a previous serious hypersensitivity reaction to empagliflozin or any of the excipients in JARDIANCE [see Contraindications (4)].
 
-## 5.8 Increased Low-Density Lipoprotein Cholesterol (LDL-C)
+## 5.9 Increased Low-Density Lipoprotein Cholesterol (LDL-C)
 
 Increases in LDL-C can occur with JARDIANCE [see Adverse Reactions (6.1)].
 Monitor and treat as appropriate.
