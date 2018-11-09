@@ -4,28 +4,16 @@ Rx Only
 
 NDC 0574-0107-70
 
-ClotrimazoleLozenge (Clotrimazole Troche)
+Clotrimazole Lozenge
+
+(Clotrimazole Troche)
 
 10 mg
 
-DESCRIPTION: Each lozenge contains
+Unit Dose
 
-10 mg of clotrimazole,
+For institutional use only
 
-[1-(o-chloro-α, α-diphenylbenzyl) imidazole]
+70 Foiled Lozenges
 
-DOSAGE: Each lozenge must be dissolved slowly in the mouth
-
-See accompanying literature for complete information
-
-Dispense in tight containers (USP)
-
-Store at 20° to 25°C (68° to 77°F)
-
-[see USP Controlled Room Temperature]
-
-Avoid Freezing.
-
-70 Lozenges
-
-Perrigo®
+The following image is a placeholder representing the product identifier that is either affixed or imprinted on the drug package label during the packaging operation.
