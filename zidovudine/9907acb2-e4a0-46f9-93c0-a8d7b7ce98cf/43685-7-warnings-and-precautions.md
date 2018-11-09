@@ -21,7 +21,7 @@ Myopathy and myositis with pathological changes, similar to that produced by HIV
 Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues, including zidovudine.
 A majority of these cases have been in women.
 Female sex and obesity may be risk factors for the development of lactic acidosis and severe hepatomegaly with steatosis in patients treated with antiretroviral nucleoside analogues.
-Treatment with zidovudine should be suspended in any patient who develops clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity, which may include hepatomegaly and steatosis even in the absence of marked transaminase elevations).
+Treatment with zidovudine should be suspended in any patient who develops clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity, which may include hepatomegaly and steatosis even in the absence of marked transaminase elevations.
 
 ## 5.5 Use with Interferon- and Ribavirin-Based Regimens in HIV-1/HCV Co-infected Patients
 
