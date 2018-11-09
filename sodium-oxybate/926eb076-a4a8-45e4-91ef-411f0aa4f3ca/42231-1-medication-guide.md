@@ -1,303 +1,146 @@
-# MEDICATION GUIDE
+| MEDICATION GUIDE XYREM® (ZĪE-rem) (sodium oxybate) oral solution, CIII |
+| --- |
+| Read this Medication Guide carefully before you start or your child starts taking XYREM and each time you get or your child gets a refill. There may be new information. This information does not take the place of talking to your doctor about your or your child’s medical condition or treatment. |
+| What is the most important information I should know about XYREM? •XYREM is a central nervous system (CNS) depressant. Taking XYREM with other CNS depressants such as medicines used to make you or your child fall asleep, including opioid analgesics, benzodiazepines, sedating antidepressants, antipsychotics, sedating anti-epileptic medicines, general anesthetics, muscle relaxants, alcohol, or street drugs, may cause serious medical problems, including: otrouble breathing (respiratory depression)olow blood pressure (hypotension)ochanges in alertness (drowsiness)odizziness (syncope)odeath •XYREM is a federal controlled substance (CIII). The active ingredient of XYREM is a form of gamma-hydroxybutyrate (GHB) that is also a federal controlled substance (CI). Abuse of illegal GHB, either alone or with other CNS depressants may cause serious medical problems, including: oseizureotrouble breathing (respiratory depression)ochanges in alertness (drowsiness)ocomaodeath Call your doctor right away if you or your child has any of these serious side effects. Ask your doctor if you are not sure if you are taking a medicine listed above.•Anyone who takes XYREM should not do anything that requires them to be fully awake or is dangerous, including driving a car, using heavy machinery, or flying an airplane, for at least 6 hours after taking XYREM. Those activities should not be done until you know how XYREM affects you or your child.•Keep XYREM in a safe place to prevent abuse and misuse. Selling or giving away XYREM may harm others, and is against the law. Tell your doctor if you have ever abused or been dependent on alcohol, prescription medicines, or street drugs.•Because of the risk of CNS depression, abuse, and misuse XYREM is available only by prescription and filled through the central pharmacy in the XYREM REMS Program. Before you receive or your child receives XYREM, your doctor or pharmacist will make sure that you understand how to take XYREM safely and effectively. If you have any questions about XYREM, ask your doctor or call the XYREM REMS Program at 1-866-997-3688. |
+| What is XYREM?XYREM is a prescription medicine used to treat the following symptoms in people 7 years of age or older with narcolepsy: •sudden onset of weak or paralyzed muscles (cataplexy)•excessive daytime sleepiness (EDS) It is not known if XYREM is safe and effective in children less than 7 years of age. |
+| Do not take XYREM if you or your child: •takes other sleep medicines or sedatives (medicines that cause sleepiness)•drinks alcohol •has a rare problem called succinic semialdehyde dehydrogenase deficiency |
+| Before taking XYREM, tell your doctor about all medical conditions, including if you or your child: •have short periods of not breathing while sleeping (sleep apnea)•snores, has trouble breathing, or has lung problems. You or your child may have a higher chance of having serious breathing problems when taking XYREM.•have or had depression or has tried to harm yourself or themselves. You or your child should be watched carefully for new symptoms of depression. •has or had behavior or other psychiatric problems such as: oanxietyofeeling more suspicious (paranoia)oacting aggressiveoseeing or hearing things that are not real (hallucinations)obeing out of touch with reality (psychosis)oagitation •have liver problems •are on a salt-restricted diet. XYREM contains a lot of sodium (salt) and may not be right for you or your child.•have high blood pressure•have heart failure•have kidney problems •are pregnant or plan to become pregnant. It is not known if XYREM can harm unborn babies.•are breastfeeding or plan to breastfeed. XYREM passes into breast milk. You and your doctor should decide if you or your child will take XYREM or breastfeed. Tell your doctor about all the medicines you take or your child takes, including prescription and over-the-counter medicines, vitamins, and herbal supplements. Especially, tell your doctor if you take or your child takes other medicines to help you sleep (sedatives). Know the medicines you take or your child takes. Keep a list of them to show your doctor and pharmacist when you or your child gets a new medicine. |
+| How should I take or give XYREM? •Read the Instructions for Use at the end of this Medication Guide for detailed instructions on how to take XYREM. •Take or give XYREM exactly as your doctor tells you to take or give it.•XYREM can cause physical dependence and craving for the medicine when it is not taken as directed.•Never change the XYREM dose without talking to your doctor.•XYREM can cause sleep very quickly without feeling drowsy. Some patients fall asleep within 5 minutes and most fall asleep within 15 minutes. Some patients take less time to fall asleep and some take more time. The time it takes to fall asleep might be different from night to night.•Falling asleep quickly, including while standing or while getting up from the bed, has led to falls with injuries that have required some people to be hospitalized.•XYREM is taken at night divided into 2 doses. oAdults: Take the first XYREM dose at bedtime while you are in bed and lie down immediately. Take the second XYREM dose 2½ to 4 hours after the first XYREM dose. You may want to set an alarm clock to make sure you wake up to take the second XYREM dose. You should remain in bed after taking the first and second doses of XYREM.oChild: Give the first XYREM dose at bedtime or after an initial period of sleep, while your child is in bed and have them lie down immediately. Give the second XYREM dose 2½ to 4 hours after the first XYREM dose. You may want to set an alarm clock to make sure you wake up to give the second XYREM dose. Your child should remain in bed after taking the first and second doses of XYREM. •If you miss or your child misses the second XYREM dose, skip that dose and do not take or give XYREM again until the next night. Never take or give 2 XYREM doses at 1 time.•Wait at least 2 hours after eating before taking XYREM. •You or your child should see your doctor every 3 months for a check-up while taking XYREM. Your doctor should check to see if XYREM is helping to lessen your or your child’s symptoms and if you feel or your child feels any side effects while taking XYREM.•If you take or your child takes too much XYREM, call your doctor or go to the nearest hospital emergency room right away. |
+| What are the possible side effects of XYREM?XYREM can cause serious side effects, including: •See “What is the most important information I should know about XYREM?”•breathing problems, including: oslower breathingotrouble breathingoshort periods of not breathing while sleeping (sleep apnea). People who already have breathing or lung problems have a higher chance of having breathing problems when they use XYREM. •mental health problems, including: oconfusion oseeing or hearing things that are not real (hallucinations)ounusual or disturbing thoughts (abnormal thinking)ofeeling anxious or upsetodepressionothoughts of killing yourself or trying to kill yourself Call your doctor right away if you have or your child has symptoms of mental health problems.•sleepwalking. Sleepwalking can cause injuries. Call your doctor if you start or your child starts sleepwalking. Your doctor should check you or your child. The most common side effects of XYREM include: onauseaosleepinessodizzinessovomitingobedwettingotremor (in adults) In pediatric patients, headache, decreased appetite, and weight decrease were also common. Side effects may increase when taking higher doses of XYREM. These are not all the possible side effects of XYREM. For more information, ask your doctor or pharmacist. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |
+| How should I store XYREM? •Store XYREM in the original bottle or in pharmacy containers with child-resistant caps provided by the pharmacy.•Get emergency medical help right away if a child who has not been prescribed XYREM drinks XYREM. Store XYREM between 68°F to 77°F (20°C to 25°C). •XYREM solution prepared after dilution should be taken within 24 hours.•When you have finished using a XYREM bottle: oempty any unused XYREM down the sink drainocross out the label on the XYREM bottle with a markeroplace the empty XYREM bottle in the trash Keep XYREM and all medicines out of the reach of children and pets. |
+| General information about the safe and effective use of XYREM.Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use XYREM for a condition for which it was not prescribed. Do not give XYREM to other people, even if they have the same symptoms. It may harm them. You can ask your pharmacist or doctor for information about XYREM that is written for health professionals. |
+| What are the ingredients in XYREM? Active ingredients: sodium oxybate Inactive ingredients: purified water and malic acid Distributed By: Jazz Pharmaceuticals, Inc. Palo Alto, CA 94304 For more information, go to www.XYREMREMS.com or call the XYREM REMS Program at 1-866-997-3688. |
 
-Xyrem® (ZĪE-rem)
+This Medication Guide has been approved by the U.S. Food and Drug Administration Issued: 10/2018
 
-(sodium oxybate)
+Instructions for Use XYREM® (ZĪE-rem) (sodium oxybate) oral solution, CIII
 
-oral solution CIII
-
-Read this Medication Guide carefully before you start taking Xyrem and each time you get a refill.
+Read this Instructions for Use carefully before you (or your child) start taking XYREM and each time you (or your child) get a refill.
 There may be new information.
-This information does not take the place of talking to your doctor about your medical condition or your treatment.
-
-What is the most important information I should know about Xyrem?
-
-Xyrem can cause serious side effects including slow breathing or changes in your alertness.
-Do not drink alcohol or take medicines intended to make you fall asleep while you are taking Xyrem because they can make these side effects worse.
-Call your doctor right away if you have any of these serious side effects.
-
-- •The active ingredient of Xyrem is a form of gamma-hydroxybutyrate (GHB).
-  GHB is a chemical that has been abused and misused.
-  Abuse and misuse of Xyrem can cause serious medical problems, including:
-  - •seizures
-  - •trouble breathing
-  - •changes in alertness
-  - •coma
-  - •death
-- •Do not drive a car, use heavy machinery, fly an airplane, or do anything that is dangerous or that requires you to be fully awake for at least 6 hours after you take Xyrem.
-  You should not do those activities until you know how Xyrem affects you.
-- •Xyrem is available only by prescription and filled through the central pharmacy in the Xyrem REMS Program.
-  Before you receive Xyrem, your doctor or pharmacist will make sure that you understand how to use Xyrem safely and effectively.
-  If you have any questions about Xyrem, ask your doctor or call the Xyrem REMS Program at 1-866-997-3688.
-
-What is Xyrem?
-
-Xyrem is a prescription medicine used to treat the following symptoms in people who fall asleep frequently during the day, often at unexpected times (narcolepsy):
-
-- •suddenly weak or paralyzed muscles when they feel strong emotions (cataplexy)
-- •excessive daytime sleepiness (EDS) in people who have narcolepsy
-
-It is not known if Xyrem is safe and effective in children.
-
-Xyrem is a controlled substance (CIII) because it contains sodium oxybate that can be a target for people who abuse prescription medicines or street drugs.
-Keep your Xyrem in a safe place to protect it from theft.
-Never give your Xyrem to anyone else because it may cause death or harm them.
-Selling or giving away this medicine is against the law.
-
-Who should not take Xyrem?
-
-Do not take Xyrem if you:
-
-- •take other sleep medicines or sedatives (medicines that cause sleepiness)
-- •drink alcohol
-- •have a rare problem called succinic semialdehyde dehydrogenase deficiency
-
-Before you take Xyrem, tell your doctor if you:
-
-- •have short periods of not breathing while you sleep (sleep apnea)
-- •snore, have trouble breathing, or have lung problems.
-  You may have a higher chance of having serious breathing problems when you take Xyrem.
-- •have or had depression or have tried to harm yourself.
-  You should be watched carefully for new symptoms of depression.
-- •have liver problems
-- •are on a salt-restricted diet.
-  Xyrem contains a lot of sodium (salt) and may not be right for you.
-- •have high blood pressure
-- •have heart failure
-- •have kidney problems
-- •are pregnant or plan to become pregnant.
-  It is not known if Xyrem can harm your unborn baby.
-- •are breastfeeding or plan to breastfeed.
-  Xyrem passes into breast milk.
-  You and your doctor should decide if you will take Xyrem or breastfeed.
-
-Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
-
-Especially, tell your doctor if you take other medicines to help you sleep (sedatives).
-Do not take medicines that make you sleepy with Xyrem.
-
-Know the medicines you take.
-Keep a list of them to show your doctor and pharmacist when you get a new medicine.
-
-How should I take Xyrem?
-
-- •Read the Instructions for Use at the end of this Medication Guide for detailed instructions on how to take Xyrem.
-- •Take Xyrem exactly as your doctor tells you to take it.
-- •Never change your Xyrem dose without talking to your doctor.
-- •Xyrem can cause sleep very quickly.
-  You should fall asleep soon.
-  Some patients fall asleep within 5 minutes and most fall asleep within 15 minutes.
-  Some patients take less time to fall asleep and some take more time.
-  The time it takes you to fall asleep might be different from night to night.
-- •Take your first Xyrem dose at bedtime while you are in bed.
-  Take your second Xyrem dose 2 ½ to 4 hours after you take your first Xyrem dose.
-  You may want to set an alarm clock to make sure you wake up to take your second Xyrem dose.
-  You should remain in bed after taking the first and second doses of Xyrem.
-- •If you miss your second Xyrem dose, skip that dose and do not take Xyrem again until the next night.
-  Never take 2 Xyrem doses at 1 time.
-- •Wait at least 2 hours after eating before you take Xyrem.
-- •You should see your doctor every 3 months for a check-up while taking Xyrem.
-  Your doctor should check to see if Xyrem is helping to lessen your symptoms and if you feel any side effects while you take Xyrem.
-- •If you take too much Xyrem, call your doctor or go to the nearest hospital emergency room right away.
-
-What are the possible side effects of Xyrem?
-
-Xyrem can cause serious side effects, including:
-
-- •See “What is the most important information I should know about Xyrem?”
-- •Breathing problems, including:
-  - •slower breathing
-  - •trouble breathing
-  - •short periods of not breathing while sleeping (sleep apnea).
-    People who already have breathing or lung problems have a higher chance of having breathing problems when they use Xyrem.
-- •Mental health problems, including:
-  - •confusion
-  - •seeing or hearing things that are not real (hallucinations)
-  - •unusual or disturbing thoughts (abnormal thinking)
-  - •feeling anxious or upset
-  - •depression
-  - •thoughts of killing yourself or trying to kill yourself
-
-Call your doctor right away if you have symptoms of mental health problems.
-
-- •Sleepwalking.
-  Sleepwalking can cause injuries.
-  Call your doctor if you start sleepwalking.
-  Your doctor should check you.
-
-The most common side effects of Xyrem include:
-
-- 
-  - •nausea
-  - •dizziness
-  - •vomiting
-  - •bedwetting
-  - •diarrhea
-
-Your side effects may increase when you take higher doses of Xyrem.
-
-Xyrem can cause physical dependence and craving for the medicine when it is not taken as directed.
-
-These are not all the possible side effects of Xyrem.
-For more information, ask your doctor or pharmacist.
-
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
-
-How should I store Xyrem?
-
-- •Always store Xyrem in the original bottle or in pharmacy containers with child-resistant caps provided by the pharmacy.
-- •Keep Xyrem in a safe place out of the reach of children and pets.
-- •Get emergency medical help right away if a child drinks your Xyrem.
-- •Store Xyrem between 68°F to 77°F (20°C to 24°C).
-  When you have finished using a Xyrem bottle:
-  - •empty any unused Xyrem down the sink drain
-  - •cross out the label on the Xyrem bottle with a marker
-  - •place the empty Xyrem bottle in the trash
-
-General information about the safe and effective use of Xyrem
-
-Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
-Do not use Xyrem for a condition for which it was not prescribed.
-Do not give Xyrem to other people, even if they have the same symptoms that you have.
-It may harm them.
-
-This Medication Guide summarizes the most important information about Xyrem.
-If you would like more information, talk with your doctor.
-You can ask your pharmacist or doctor for information about Xyrem that is written for health professionals.
-
-For more information, go to www.XYREMREMS.com or call the Xyrem REMS Program at 1-866-997-3688.
-
-What are the ingredients in Xyrem?
-Active Ingredients: sodium oxybate
-
-Inactive Ingredients: purified water and malic acid
-
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Distributed By: Jazz Pharmaceuticals, Inc. Palo Alto, CA 94304 Revised: 11/2017
-
-## Instructions for Use
-
-Xyrem® (ZĪE-rem)
-
-(sodium oxybate)
-
-oral solution CIII
-
-Read these Instructions for Use carefully before you start taking Xyrem and each time you get a refill.
-There may be new information.
-This information does not take the place of talking to your doctor about your medical condition or your treatment.
+This information does not take the place of talking to your doctor about your (or your child’s) medical condition or treatment.
 
 Note:
 
-- •You will need to split your prescribed Xyrem dose into 2 separate pharmacy containers for mixing.
-- •You will need to mix Xyrem with water before you take your dose.
-- •Take your dose within 24 hours after mixing Xyrem with water.
-  If you do not take your dose within this time, you will need to throw the mixture away.
+- •You will need to split your (or your child’s) prescribed XYREM dose into 2 separate pharmacy containers for mixing.
+- •You will need to mix XYREM with water before you take or give your child the dose.
+- •Safely store the prepared XYREM doses and take within 24 hours.
+  If the prepared dose was not taken within this time, throw the mixture away.
+- •Both XYREM doses should be taken while in bed.
+- •The pharmacy containers may be rinsed out with water and emptied into the sink drain.
 
-Supplies you will need for mixing and taking Xyrem: See Figure A.
+Supplies you will need for mixing and taking (or giving your child) XYREM.
+See Figure A:
 
-- •bottle of your Xyrem medicine
-- •press-in-bottle-adaptor with straw attached
-- •syringe for drawing up your Xyrem dose
-- •a measuring cup containing about ¼ cup of water (not provided with your Xyrem prescription)
-- •2 empty pharmacy containers with child-resistant caps
-- •alarm clock by your bedside (alarm clock may be included in your first shipment of Xyrem)
+- •Bottle of XYREM medicine
+- •Dosing syringe for measuring and dispensing the XYREM dose
+- •Measuring cup that is able to measure about ¼ cup of water (not provided with the XYREM shipment)
+- •2 empty pharmacy containers with child-resistant caps for mixing, storing, and taking the XYREM doses
+- •Alarm clock (which may be included in the first shipment).
 
 Figure A
 
-Step 1.
-Take the Xyrem bottle, press-in-bottle-adaptor, and syringe out of the box.
+Step 1: Setup
 
-Step 2.
-Remove the bottle cap from the Xyrem bottle by pushing down while turning the cap counterclockwise (to the left).
-See Figure B.
+- •Take the XYREM bottle, syringe, and pharmacy containers out of the shipping box.
+- •Take the syringe out of the plastic wrapper.
+  Use only the syringe provided with the XYREM prescription.
+- •Fill a measuring cup (not provided) with about ¼ cup of water available for diluting your dose.
+- •Make sure the pharmacy containers are empty.
+- •Open both pharmacy containers by holding the tab under the cap and turning counterclockwise (to the left).
+  See Figure B.
 
 Figure B
 
-Step 3.
-
-- •The press-in-bottle-adaptor may already be put in place by the pharmacy.
-  If it is not already in place, you will have to do it yourself.
-  After removing the cap from the Xyrem bottle, set the bottle upright on a tabletop.
-- •While holding the Xyrem bottle in its upright position, insert the press-in-bottle-adaptor into the neck of the Xyrem bottle.
-  See Figure C.
+Remove the tamper evident band by pulling at the perforations and then remove the bottle cap from the XYREM bottle by pushing down while turning the cap counterclockwise.
+See Figure C.
 
 Figure C
 
-- •Tilt the straw toward the edge of the bottom of the bottle to be sure you can draw out your dose of the medicine.
-  You only need to do this the first time you open the bottle.
-  See Figure D.
+Step 2.
+Prepare the first XYREM dose (prepare before bedtime)
+
+Place the XYREM bottle on a hard, flat surface and grip the bottle with one hand and firmly press the syringe into the center opening of the bottle with the other hand.
+See Figure D.
 
 Figure D
 
-- •After you draw out your dose of the medicine, leave the adaptor in the bottle for all your future uses.
-  See Figure E.
+Pull back on the plunger until the medicine flows into the syringe and the liquid level is lined up with the marking on the syringe that matches you or your child’s dose.
+See Figure E.
 
 Figure E
 
-Step 4.
+Note: The XYREM medicine will not flow into the syringe unless you keep the bottle upright.
 
-- •Take the syringe out of the plastic wrapper.
-  Use only the syringe provided with your Xyrem prescription.
-- •While holding the Xyrem bottle upright on the tabletop, insert the tip of the syringe into the opening on top of the Xyrem bottle and press down firmly.
-  See Figure F.
+Figure F shows an example of drawing up a XYREM dose of 2.25 g. Figure G shows an example if an air space forms when drawing up the dose.
 
-Figure F
+Note: If an air space forms between the plunger and the liquid when drawing up the medicine, line up the liquid level with the marking on the syringe that matches your or your child’s dose.
+See Figure G above.
 
-Step 5.
-
-- •Hold the bottle and syringe down with one hand, and draw up one-half (1/2) of your total prescribed nightly dose with the other hand by pulling up on the plunger.
-  For example, if your total nightly dose of Xyrem is 4.5 grams a night, you will need to draw up 2 separate doses of 2.25 grams each, one for each pharmacy container.
-  See Figure G.
-
-Note: The Xyrem medicine will not flow into the syringe unless you keep the bottle upright.
-
-Figure G
-
-Step 6.
-
-- •After you draw up each separate Xyrem dose, remove the syringe from the opening of the Xyrem bottle.
-  Put the tip into 1 of the empty containers with child-resistant caps provided by the pharmacy.
-- •Make sure the pharmacy container is empty and does not contain any medicine from your previous night’s dose.
-  - •Empty each separate Xyrem dose into 1 of the empty pharmacy containers by pushing down on the plunger.
-    (See Figure H).
-- •Using a measuring cup, pour about ¼ cup of water into each container.
-  Be careful to add only water to each container and not more Xyrem.
-  All shipped bottles of Xyrem contain the concentrated medicine.
-  Water for mixing the medicine is not provided in the shipment.
+- •After you draw up the first divided XYREM dose, remove the syringe from the opening of the XYREM bottle.
+- •Empty all of the medicine from the syringe into one of the provided empty pharmacy containers by pushing down on the plunger until it stops.
+  See Figure H.
 
 Figure H
 
-Step 7.
-
-- •Place the child-resistant caps provided on the filled pharmacy containers and turn each cap clockwise (to the right) until it clicks and locks into its child-resistant position.
+- •Using a measuring cup, pour about ¼ cup of water into the pharmacy container.
+  Be careful to add only water to the pharmacy container and not more XYREM.
+- •All shipped bottles of XYREM contain the concentrated medicine.
+  Water for mixing the medicine is not provided in the shipment.
+- •Place the child-resistant cap provided on the filled pharmacy container on the pharmacy container and turn the cap clockwise (to the right) until it clicks and locks into its child-resistant position.
   See Figure I.
 
 Figure I
 
-- •Put the cap back on the Xyrem bottle and store it in a safe and secure place.
+Step 3.
+Prepare the second XYREM dose (prepare before bedtime)
+
+- •Repeat Step 2 drawing up the amount of medicine prescribed for your (or your child’s) second dose:
+  - o emptying the syringe into the second pharmacy container
+  - oadding about ¼ cup of water and
+  - oclosing the pharmacy container
+
+Step 4.
+Store the prepared XYREM doses
+
+- •Put the cap back on the XYREM bottle and store the XYREM bottle and both prepared doses in a safe and secure place.
   Store in a locked place if needed.
-  Keep Xyrem out of the reach of children and pets.
+- •Keep the XYREM bottle and both prepared XYREM doses out of the reach of children and pets.
 - •Rinse the syringe out with water and squirt the liquid into the sink drain.
 
-Step 8.
+Step 5.
+Take or give the first XYREM dose
 
-- •At bedtime, and before you take your first Xyrem dose, put your second Xyrem dose in a safe place near your bed.
-- •You may want to set an alarm clock to make sure you wake up to take the second dose.
-- •When it is time to take your first Xyrem dose, remove the cap from the container by pressing down on the child-resistant locking tab and turning the cap counterclockwise (to the left).
-- •Drink all of your first Xyrem dose at bedtime.
-  Put the cap back on the first container before lying down to sleep.
-- •You should fall asleep soon.
+- •At bedtime, and before you take (or give) the first XYREM dose, put the second XYREM dose in a safe place.
+  Caregivers should ensure all XYREM doses are kept in a safe place until given.
+  You may want to set an alarm clock for 2½ to 4 hours later to make sure you wake up to take (or give) the second dose.
+- •When it is time to take (or give) the first XYREM dose, remove the cap from the pharmacy container by pressing down on the child-resistant locking tab and turning the cap counterclockwise.
+- •Drink (or have your child drink) all of the first XYREM dose while sitting in bed.
+  Put the cap back on the first pharmacy container and immediately lie down to sleep (or have your child lie down to sleep).
+- •You (or your child) should fall asleep soon.
   Some patients fall asleep within 5 minutes and most fall asleep within 15 minutes.
   Some patients take less time to fall asleep, and some take more time.
-  The time it takes you to fall asleep might be different from night to night.
+  The time it takes you (or your child) to fall asleep might be different from night to night.
 
-Step 9.
+Step 6.
+Take or give the second XYREM dose
 
-- •When you wake up 2½ to 4 hours later, take the cap off the second pharmacy container.
-- •If you wake up before the alarm and it has been at least 2½ hours since your first Xyrem dose, turn off your alarm and take your second Xyrem dose.
-- •While sitting in bed, drink all of the second Xyrem dose and put the cap back on the second pharmacy container before lying down to continue sleeping.
+- •When you wake up 2½ to 4 hours later for your (or your child’s) second dose of XYREM, take the cap off the second pharmacy container.
+- •If you (or your child) wake up before the alarm and it has been at least 2½ hours since the first XYREM dose, turn off the alarm and take (or give your child) the second XYREM dose.
+- •Drink (or have your child drink) all of the second XYREM dose while sitting in bed.
+  Put the cap back on the second pharmacy container and immediately lie down (or have your child lie down) to continue sleeping.
 
-Distributed By: Jazz Pharmaceuticals, Inc. Palo Alto, CA 94304 These Instructions for Use have been approved by the U.S. Food and Drug Administration.
-Revised: April 2015
+How should I store XYREM?
+
+- •Store XYREM in the original bottle or in pharmacy containers with child-resistant caps provided by the pharmacy.
+- •Store XYREM between 68°F to 77°F (20°C to 25°C).
+- •XYREM solution prepared after dilution should be taken within 24 hours.
+- •When you have finished using a XYREM bottle:
+  - oempty any unused XYREM down the sink drain
+  - ocross out the label on the XYREM bottle with a marker
+  - oplace the empty XYREM bottle in the trash
+- •Keep XYREM and all medicines out of the reach of children and pets.
+
+Distributed By: Jazz Pharmaceuticals, Inc. Palo Alto, CA 94304
+
+These Instructions for Use have been approved by the U.S. Food and Drug Administration.
+Revised: 10/2018

@@ -18,18 +18,18 @@ GHB has some commonalities with ethanol over a limited dose range, and some cros
 Cases of severe dependence and craving for GHB have been reported when the drug is taken around the clock.
 Patterns of abuse indicative of dependence include: 1) the use of increasingly large doses, 2) increased frequency of use, and 3) continued use despite adverse consequences.
 
-Because illicit use and abuse of GHB have been reported, physicians should carefully evaluate patients for a history of drug abuse and follow such patients closely, observing them for signs of misuse or abuse of GHB (e.g. increase in size or frequency of dosing, drug-seeking behavior, feigned cataplexy).
+Because illicit use and abuse of GHB have been reported, physicians should carefully evaluate patients for a history of drug abuse and follow such patients closely, observing them for signs of misuse or abuse of GHB (e.g., increase in size or frequency of dosing, drug-seeking behavior, feigned cataplexy).
 Dispose of Xyrem according to state and federal regulations.
 It is safe to dispose of Xyrem down the sanitary sewer.
 
 ## 9.3 Dependence
 
-There have been case reports of withdrawal, ranging from mild to severe, following discontinuation of illicit use of GHB at frequent repeated doses (18 g to 250 g per day) in excess of the therapeutic dose range.
+There have been case reports of withdrawal, ranging from mild to severe, following discontinuation of illicit use of GHB at frequent repeated doses (18 g to 250 g per day) in excess of the recommended dosage range.
 Signs and symptoms of GHB withdrawal following abrupt discontinuation included insomnia, restlessness, anxiety, psychosis, lethargy, nausea, tremor, sweating, muscle cramps, tachycardia, headache, dizziness, rebound fatigue and sleepiness, confusion, and, particularly in the case of severe withdrawal, visual hallucinations, agitation, and delirium.
 These symptoms generally abated in 3 to 14 days.
 In cases of severe withdrawal, hospitalization may be required.
 The discontinuation effects of Xyrem have not been systematically evaluated in controlled clinical trials.
-In the clinical trial experience with Xyrem in narcolepsy/cataplexy patients at therapeutic doses, two patients reported anxiety and one reported insomnia following abrupt discontinuation at the termination of the clinical trial; in the two patients with anxiety, the frequency of cataplexy had increased markedly at the same time.
+In the clinical trial experience with Xyrem in narcolepsy/cataplexy patients at recommended doses, two patients reported anxiety and one reported insomnia following abrupt discontinuation at the termination of the clinical trial; in the two patients with anxiety, the frequency of cataplexy had increased markedly at the same time.
 
 Tolerance
 

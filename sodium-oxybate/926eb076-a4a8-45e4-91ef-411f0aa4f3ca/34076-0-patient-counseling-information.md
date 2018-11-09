@@ -1,51 +1,57 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide).
+Advise the patient and/or caregiver to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
+
+Central Nervous System Depression
+
+Inform patients and/or caregivers that Xyrem can cause central nervous system depression, including respiratory depression, hypotension, profound sedation, syncope, and death.
+Instruct patients to not engage in activities requiring mental alertness or motor coordination, including operating hazardous machinery, for at least 6 hours after taking Xyrem.
+Instruct patients and/or their caregivers to inform their healthcare providers of all the medications they take [see Warnings and Precautions (5.1)].
+
+Abuse and Misuse
+
+Inform patients and/or caregivers that the active ingredient of Xyrem is gamma-hydroxybutyrate (GHB), which is associated with serious adverse reactions with illicit use and abuse [see Warnings and Precautions (5.2)].
 
 Xyrem REMS Program
 
-Inform patients that Xyrem is available only through a restricted distribution program called the Xyrem REMS Program.
+Xyrem is available only through a restricted program called the Xyrem REMS Program [see Warnings and Precautions (5.3)].
+Inform the patient and/or caregiver of the following notable requirements:
 
-The contents of the Xyrem Medication Guide and educational materials are reviewed with every patient before initiating treatment with Xyrem.
+- •Xyrem is dispensed only by the central pharmacy
+- •Xyrem will be dispensed and shipped only to patients enrolled in the Xyrem REMS Program
 
-Patients must read and understand the materials in the Xyrem REMS Program prior to initiating treatment.
-Inform the patient that they should be seen by the prescriber frequently to review dose titration, symptom response, and adverse reactions; a follow-up of every three months is recommended.
-
-Discuss safe and proper use of Xyrem and dosing information with patients prior to the initiation of treatment.
-Instruct patients to store Xyrem bottles and Xyrem doses in a secure place, out of the reach of children and pets.
+Xyrem is available only from the central pharmacy participating in the program.
+Therefore, provide patients and/or caregivers with the telephone number and website for information on how to obtain the product.
 
 Alcohol or Sedative Hypnotics
 
-Advise patients not to drink alcohol or take other sedative hypnotics if they are taking Xyrem.
+Advise patients and/or caregivers that alcohol and other sedative hypnotics should not be taken with Xyrem.
 
 Sedation
 
-Inform patients that after taking Xyrem they are likely to fall asleep quickly (often within 5 and usually within 15 minutes), but the time it takes to fall asleep can vary from night to night.
+Inform patients and/or caregivers that the patient is likely to fall asleep quickly after taking Xyrem (often within 5 and usually within 15 minutes), but the time it takes to fall asleep can vary from night to night.
 The sudden onset of sleep, including in a standing position or while rising from bed, has led to falls complicated by injuries, in some cases requiring hospitalization.
-Instruct patients to remain in bed following ingestion of the first and second doses.
-Instruct patients not to take their second dose until 2.5 to 4 hours after the first dose.
+Instruct patients and/or caregivers that the patient should remain in bed following ingestion of the first and second doses.
+Instruct patients and/or caregivers that the patient should not take their second dose until 2.5 to 4 hours after the first dose.
 
 Food Effects on Xyrem
 
-Inform patients to take the first dose at least 2 hours after eating.
+Inform patients and/or caregivers that the first dose should be taken at least 2 hours after eating.
 
-Respiratory Depression
+Depression and Suicidality
 
-Inform patients that Xyrem can be associated with respiratory depression.
+Instruct patients and/or caregivers to contact a healthcare provider immediately if the patient develops depressed mood, markedly diminished interest or pleasure in usual activities, significant change in weight and/or appetite, psychomotor agitation or retardation, increased fatigue, feelings of guilt or worthlessness, slowed thinking or impaired concentration, or suicidal ideation [see Warnings and Precautions (5.5)].
 
-Operating Hazardous Machinery
+Other Behavioral or Psychiatric Adverse Reactions
 
-Inform patients that until they are reasonably certain that Xyrem does not affect them adversely (e.g., impair judgment, thinking, or motor skills) they should not operate hazardous machinery, including automobiles or airplanes.
-
-Suicidality
-
-Instruct patients or families to contact a healthcare provider immediately if the patient develops depressed mood, markedly diminished interest or pleasure in usual activities, significant change in weight and/or appetite, psychomotor agitation or retardation, increased fatigue, feelings of guilt or worthlessness, slowed thinking or impaired concentration, or suicidal ideation.
+Inform patients and/or caregivers that Xyrem can cause behavioral or psychiatric adverse reactions, including confusion, anxiety, and psychosis.
+Instruct them to notify their healthcare provider if any of these types of symptoms occur [see Warnings and Precautions (5.6)].
 
 Sleepwalking
 
-Instruct patients and their families that Xyrem has been associated with sleepwalking and to contact their healthcare provider if this occurs.
+Instruct patients and/or caregivers that Xyrem has been associated with sleepwalking and other behaviors during sleep, and to contact their healthcare provider if this occurs [see Warnings and Precautions (5.7)].
 
 Sodium Intake
 
-Instruct patients who are sensitive to salt intake (e.g., those with heart failure, hypertension, or renal impairment) that Xyrem contains a significant amount of sodium and they should limit their sodium intake.
-Distributed By: Jazz Pharmaceuticals, Inc. Palo Alto, CA 94304 Protected by U.S. Patent Nos. 6,472,431; 6,780,889; 7,262,219; 7,851,506; 8,263,650; 8,324,275; 8,461,203; 8,772,306; 8,859,619; 8,952,062
+Instruct patients and/or caregivers that Xyrem contains a significant amount of sodium and patients who are sensitive to sodium intake (e.g., those with heart failure, hypertension, or renal impairment) should limit their sodium intake [see Warnings and Precautions (5.8)].
+Distributed By: Jazz Pharmaceuticals, Inc. Palo Alto, CA 94304 Protected by U.S. Patent Nos. 6,472,431; 6,780,889; 7,262,219; 7,851,506; 8,263,650; 8,324,275; 8,461,203; 8,772,306; 8,859,619; 8,952,062; 9,050,302; 9,486,426; and 9,539,330

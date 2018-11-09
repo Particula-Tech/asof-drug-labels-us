@@ -17,7 +17,7 @@ Labor or Delivery
 Xyrem has not been studied in labor or delivery.
 In obstetric anesthesia using an injectable formulation of sodium oxybate, newborns had stable cardiovascular and respiratory measures but were very sleepy, causing a slight decrease in Apgar scores.
 There was a fall in the rate of uterine contractions 20 minutes after injection.
-Placental transfer is rapid and gamma hydroxybutyrate (GHB) has been detected in newborns at delivery after intravenous administration of GHB to mothers.
+Placental transfer is rapid and gamma-hydroxybutyrate (GHB) has been detected in newborns at delivery after intravenous administration of GHB to mothers.
 Subsequent effects of sodium oxybate on later growth, development, and maturation in humans are unknown.
 
 Data
@@ -40,7 +40,18 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in pediatric patients have not been established.
+The safety and effectiveness of Xyrem in the treatment of cataplexy or excessive daytime sleepiness in pediatric patients (7 years of age and older) with narcolepsy have been established in a double-blind, placebo-controlled, randomized-withdrawal study [see Adverse Reactions (6.1) and Clinical Studies (14.3)].
+
+In the pediatric clinical trial with Xyrem administration in patients with narcolepsy, serious adverse reactions of central sleep apnea and oxygen desaturation documented by polysomnography evaluation; suicidal ideation in one patient; neuropsychiatric reactions including acute psychosis, confusion, and anxiety; and parasomnias, including sleepwalking, have been reported [see Warnings and Precautions (5.4, 5.5, 5.6, 5.7) and Adverse Reactions (6.1)].
+
+Safety and effectiveness of Xyrem in pediatric patients below the age of 7 years have not been established.
+
+Juvenile Animal Toxicity Data
+
+In a study in which sodium oxybate (0, 100, 300, or 900 mg/kg/day) was orally administered to rats during the juvenile period of development (postnatal days 21 through 90), mortality was observed at the two highest doses tested.
+Deaths occurred during the first week of dosing and were associated with clinical signs (including decreased activity and respiratory rate) consistent with the pharmacological effects of the drug.
+Reduced body weight gain in males and females and delayed sexual maturation in males were observed at the highest dose tested.
+The no-effect dose for adverse effects in juvenile rats is associated with plasma exposures (AUC) less than that at the maximum recommended human dose (9 g/night).
 
 ## 8.5 Geriatric Use
 
@@ -53,4 +64,4 @@ In general, dose selection for an elderly patient should be cautious, usually st
 
 ## 8.6 Hepatic Impairment
 
-The starting dose of Xyrem should be reduced by one-half in patients with liver impairment [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
+Because of an increase in exposure to Xyrem, the starting dose should be reduced in patients with liver impairment [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
