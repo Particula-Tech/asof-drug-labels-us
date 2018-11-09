@@ -1,5 +1,7 @@
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 2.5 mg
 
+NDC 64896-682-51
+
 Zomig® Nasal Spray
 
 ZOLMITRIPTAN
@@ -8,19 +10,11 @@ ZOLMITRIPTAN
 
 For Intranasal Use Only
 
-ZOMIG is a trademark of the AstraZeneca group of companies.
+Rx only www.zomig.com
 
-©AstraZeneca 2015
+This pack contains: 6 single-use nasal spray devices Impax
 
-IMPAX
-
-Manufactured by: AstraZeneca UK Limited, Macclesfield, Cheshire UK
-
-Distributed by: Impax Specialty Pharma,
-
-Hayward California, 94544
-
-Product of Switzerland
+1-877-99-IMPAX (46729)
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 5 mg
 
@@ -32,16 +26,8 @@ ZOLMITRIPTAN
 
 For Intranasal Use Only
 
-ZOMIG is a trademark of the AstraZeneca group of companies.
+Rx only www.zomig.com
 
-©AstraZeneca 2015
+This pack contains: 6 single-use nasal spray devices Impax
 
-IMPAX
-
-Manufactured by: AstraZeneca UK Limited, Macclesfield, Cheshire UK
-
-Distributed by: Impax Specialty Pharma
-
-Hayward California, 94544
-
-Product of Switzerland
+1-877-99-IMPAX (46729)
