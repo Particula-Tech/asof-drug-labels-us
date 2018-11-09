@@ -51,16 +51,21 @@ Inform patients of the potential for an increased risk of amputations.
 Counsel patients about the importance of routine preventative foot care.
 Instruct patients to monitor for new pain or tenderness, sores or ulcers, or infections involving the leg or foot and to seek medical advice immediately if such signs or symptoms develop [see Warnings and Precautions (5.5)].
 
+Necrotizing Fasciitis of the Perineum (Fournier's Gangrene)
+
+Inform patients that necrotizing infections of the perineum (Fournier's gangrene) have occurred with SGLT2 inhibitors.
+Counsel patients to promptly seek medical attention if they develop pain or tenderness, redness, or swelling of the genitals or the area from the genitals back to the rectum, along with a fever above 100.4°F or malaise [see Warnings and Precautions (5.7)].
+
 Genital Mycotic Infections in Females (e.g., Vulvovaginitis)
 
 Inform female patients that vaginal yeast infections may occur and provide them with information on the signs and symptoms of vaginal yeast infection.
-Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.7)].
+Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.8)].
 
 Genital Mycotic Infections in Males (e.g., Balanitis or Balanoposthitis)
 
 Inform male patients that yeast infections of the penis (e.g., balanitis or balanoposthitis) may occur, especially in uncircumcised males.
 Provide them with information on the signs and symptoms of balanitis and balanoposthitis (rash or redness of the glans or foreskin of the penis).
-Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.7)].
+Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.8)].
 
 Fetal Toxicity
 

@@ -63,17 +63,27 @@ Insulin and insulin secretagogues (e.g., sulfonylurea) are known to cause hypogl
 STEGLATRO may increase the risk of hypoglycemia when used in combination with insulin and/or an insulin secretagogue [see Adverse Reactions (6.1)].
 Therefore, a lower dose of insulin or insulin secretagogue may be required to minimize the risk of hypoglycemia when used in combination with STEGLATRO.
 
-## 5.7 Genital Mycotic Infections
+## 5.7 Necrotizing Fasciitis of the Perineum (Fournier's Gangrene)
+
+Reports of necrotizing fasciitis of the perineum (Fournier's gangrene), a rare but serious and life-threatening necrotizing infection requiring urgent surgical intervention, have been identified in postmarketing surveillance in patients with diabetes mellitus receiving SGLT2 inhibitors.
+Cases have been reported in females and males.
+Serious outcomes have included hospitalization, multiple surgeries, and death.
+
+Patients treated with STEGLATRO presenting with pain or tenderness, erythema, or swelling in the genital or perineal area, along with fever or malaise, should be assessed for necrotizing fasciitis.
+If suspected, start treatment immediately with broad-spectrum antibiotics and, if necessary, surgical debridement.
+Discontinue STEGLATRO, closely monitor blood glucose levels, and provide appropriate alternative therapy for glycemic control.
+
+## 5.8 Genital Mycotic Infections
 
 STEGLATRO increases the risk of genital mycotic infections.
 Patients who have a history of genital mycotic infections or who are uncircumcised are more likely to develop genital mycotic infections [see Adverse Reactions (6.1)].
 Monitor and treat appropriately.
 
-## 5.8 Increases in Low-Density Lipoprotein Cholesterol (LDL-C)
+## 5.9 Increases in Low-Density Lipoprotein Cholesterol (LDL-C)
 
 Dose-related increases in LDL-C can occur with STEGLATRO [see Adverse Reactions (6.1)].
 Monitor and treat as appropriate.
 
-## 5.9 Macrovascular Outcomes
+## 5.10 Macrovascular Outcomes
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with STEGLATRO.

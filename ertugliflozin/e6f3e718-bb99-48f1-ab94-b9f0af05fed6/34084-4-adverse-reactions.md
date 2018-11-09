@@ -8,8 +8,9 @@ The following important adverse reactions are described elsewhere in the labelin
 - Urosepsis and Pyelonephritis [see Warnings and Precautions (5.4)]
 - Lower Limb Amputation [see Warnings and Precautions (5.5)]
 - Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.6)]
-- Genital Mycotic Infections [see Warnings and Precautions (5.7)]
-- Increases in Low-Density Lipoprotein Cholesterol (LDL-C) [see Warnings and Precautions (5.8)]
+- Necrotizing Fasciitis of the Perineum (Fournier's gangrene) [see Warnings and Precautions (5.7)]
+- Genital Mycotic Infections [see Warnings and Precautions (5.8)]
+- Increases in Low-Density Lipoprotein Cholesterol (LDL-C) [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -124,7 +125,7 @@ Increases in Low-Density Lipoprotein Cholesterol (LDL-C)
 
 In the pool of three placebo-controlled trials, dose-related increases in LDL-C were observed in patients treated with STEGLATRO.
 Mean percent changes from baseline to Week 26 in LDL-C relative to placebo were 2.6% and 5.4% with STEGLATRO 5 mg and STEGLATRO 15 mg, respectively.
-The range of mean baseline LDL-C was 96.6 to 97.7 mg/dL across treatment groups [see Warnings and Precautions (5.8)].
+The range of mean baseline LDL-C was 96.6 to 97.7 mg/dL across treatment groups [see Warnings and Precautions (5.9)].
 
 Increases in Hemoglobin
 
@@ -137,3 +138,10 @@ Increases in Serum Phosphate
 In the pool of three placebo-controlled trials, mean changes (percent changes) from baseline in serum phosphate were 0.04 mg/dL (1.9%) with placebo, 0.21 mg/dL (6.8%) with STEGLATRO 5 mg, and 0.26 mg/dL (8.5%) with STEGLATRO 15 mg.
 The range of mean baseline serum phosphate was 3.53 to 3.54 mg/dL across treatment groups.
 In a clinical trial of patients with moderate renal impairment, mean changes (percent changes) from baseline at Week 26 in serum phosphate were -0.01 mg/dL (0.8%) with placebo, 0.29 mg/dL (9.7%) with STEGLATRO 5 mg, and 0.24 mg/dL (7.8%) with STEGLATRO 15 mg.
+
+## 6.2 Postmarketing Experience
+
+Additional adverse reactions have been identified during postapproval use.
+Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+- Cases of necrotizing fasciitis of the perineum (Fournier's gangrene) have been seen with SGLT2 inhibitors [see Warnings and Precautions (5.7)]
