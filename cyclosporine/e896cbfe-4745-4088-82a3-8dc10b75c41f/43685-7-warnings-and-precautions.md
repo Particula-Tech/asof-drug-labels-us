@@ -252,7 +252,7 @@ Patients with malignant or premalignant changes of the skin should be treated wi
 
 Baseline laboratories should include serum creatinine (on two occasions), BUN, CBC, serum magnesium, potassium, uric acid, and lipids.
 
-The risk of cyclosporine nephropathy is reduced when the starting dose is low (2.5 mg/kg/day), the maximum dose does not exceed 4.0 mg/kg/day, serum creatinine is monitored regularly while cyclosporine is administered, and the dose of Gengraf® is decreased when the rise in creatinine is greater than or equal to 25% above the patient’s pretreatment level.
+The risk of cyclosporine nephropathy is reduced when the starting dose is low (2.5 mg/kg/day), the maximum dose does not exceed 4.0 mg/kg/day, serum creatinine is monitored regularly while cyclosporine is administered, and the dose of Gengraf® is decreased when the rise in creatinine is greater than or equal to 25% above the patient's pretreatment level.
 The increase in creatinine is generally reversible upon timely decrease of the dose of Gengraf® or its discontinuation.
 
 Serum creatinine and BUN should be evaluated every 2 weeks during the initial 3 months of therapy and then monthly if the patient is stable.
@@ -325,7 +325,7 @@ Appropriate Gengraf® dosage adjustment to achieve the desired cyclosporine conc
 
 | Calcium Channel Blockers | Antifungals | Antibiotics | Glucocorticoids | Other Drugs |
 | --- | --- | --- | --- | --- |
-| diltiazem | fluconazole | azithromycin | methylprednisolone | Allopurinol |
+| Diltiazem | fluconazole | azithromycin | methylprednisolone | Allopurinol |
 | nicardipine | itraconazole | clarithromycin |  | Amiodarone |
 | verapamil | ketoconazole | erythromycin |  | Bromocriptine |
 |  | voriconazole | quinupristin/ dalfopristin |  | colchicine |
@@ -350,8 +350,8 @@ Grapefruit and grapefruit juice affect metabolism, increasing blood concentratio
 | --- | --- | --- |
 | nafcillin | carbamazepine | bosentan |
 | rifampin | oxcarbazepine | octreotide |
-|  | phenobarbital | orlistat |
-|  | phenytoin | sulfinpyrazone |
+|  | Phenobarbital | orlistat |
+|  | Phenytoin | sulfinpyrazone |
 |  |  | St. John's Wort |
 |  |  | terbinafine |
 |  |  | ticlopidine |
@@ -369,7 +369,7 @@ Telaprevir
 
 Coadministration of telaprevir (750 mg every 8 hours for 11 days) with cyclosporine (10 mg on day 8) in healthy subjects resulted in increases in the mean dose-normalized AUC and Cmax of cyclosporine approximately 4.5-fold and 1.3-fold, respectively, compared to when cyclosporine (100 mg single dose) was given alone.
 
-St. John’s Wort
+St. John's Wort
 
 There have been reports of a serious drug interaction between cyclosporine and the herbal dietary supplement St. John's Wort.
 This interaction has been reported to produce a marked reduction in the blood concentrations of cyclosporine, resulting in subtherapeutic levels, rejection of transplanted organs, and graft loss.
@@ -521,8 +521,6 @@ Patients with malignant or premalignant changes of the skin should be treated wi
 
 ## Pregnancy
 
-### Pregnancy Category C
-
 Animal studies have shown reproductive toxicity in rats and rabbits.
 Cyclosporine gave no evidence of mutagenic or teratogenic effects in the standard test systems with oral application (rats up to 17 mg/kg and rabbits up to 30 mg/kg per day orally).
 Only at dose levels toxic to dams, were adverse effects seen in reproduction studies in rats.
@@ -568,6 +566,6 @@ The safety and efficacy of cyclosporine (MODIFIED) treatment in children with ju
 In rheumatoid arthritis clinical trials with cyclosporine, 17.5% of patients were age 65 or older.
 These patients were more likely to develop systolic hypertension on therapy, and more likely to show serum creatinine rises ≥50% above the baseline after 3 to 4 months of therapy.
 
-Clinical studies of cyclosporine oral solution (modified) in transplant and psoriasis patients did not include a sufficient number of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical studies of cyclosporine oral solution (MODIFIED) in transplant and psoriasis patients did not include a sufficient number of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experiences have not identified differences in response between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.

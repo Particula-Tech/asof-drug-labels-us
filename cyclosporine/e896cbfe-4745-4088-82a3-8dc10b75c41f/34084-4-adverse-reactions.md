@@ -27,7 +27,7 @@ Based on the historical experience with Sandimmune®, the following reactions oc
 
 |  |  | Randomized Kidney Patients |  | Cyclosporine Patients (Sandimmune®) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Body System | Adverse Reactions | Sandimmune® (N = 227) % | Azathioprine (N = 228) % | Kidney (N = 705) % | Heart (N = 112) % | Liver (N = 75) % |
+| Body System | Adverse Reactions | Sandimmune® (N=227) % | Azathioprine (N=228) % | Kidney (N=705) % | Heart (N=112) % | Liver (N=75) % |
 | Genitourinary |  |  |  |  |  |  |
 |  | Renal Dysfunction | 32 | 6 | 25 | 38 | 37 |
 | Cardiovascular |  |  |  |  |  |  |
@@ -119,82 +119,82 @@ The following adverse events occurred in controlled clinical trials:
 
 Cyclosporine (MODIFIED)/Sandimmune® Rheumatoid Arthritis Percentage of Patients with Adverse Events ≥3% in any Cyclosporine Treated Group
 
-|  |  | Studies651+652+2008 | Study 302 | Study 654 | Study 654 | Study 302 | Studies651+652+2008 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| BodySystem | PreferredTerm | Sandimmune®†(N=269) | Sand-immune®(N=155) | Metho-trexate &Sandimmune®(N=74) | Metho-trexate &Placebo(N=73) | Cyclosporine (MODIFIED)(N=143) | Placebo(N=201) |
-| Autonomic Nervous System Disorders |  |  |  |  |  |  |  |
-|  | Flushing | 2% | 2% | 3% | 0% | 5% | 2% |
-| Body As A Whole–General Disorders |  |  |  |  |  |  |  |
-|  | Accidental Trauma | 0% | 1% | 10% | 4% | 4% | 0% |
-|  | Edema NOS* | 5% | 14% | 12% | 4% | 10% | <1% |
-|  | Fatigue | 6% | 3% | 8% | 12% | 3% | 7% |
-|  | Fever | 2% | 3% | 0% | 0% | 2% | 4% |
-|  | Influenza-like symptoms | <1% | 6% | 1% | 0% | 3% | 2% |
-|  | Pain | 6% | 9% | 10% | 15% | 13% | 4% |
-|  | Rigors | 1% | 1% | 4% | 0% | 3% | 1% |
-| Cardiovascular Disorders |  |  |  |  |  |  |  |
-|  | Arrhythmia | 2% | 5% | 5% | 6% | 2% | 1% |
-|  | Chest Pain | 4% | 5% | 1% | 1% | 6% | 1% |
-|  | Hypertension | 8% | 26% | 16% | 12% | 25% | 2% |
-| Central and Peripheral Nervous System Disorders |  |  |  |  |  |  |  |
-|  | Dizziness | 8% | 6% | 7% | 3% | 8% | 3% |
-|  | Headache | 17% | 23% | 22% | 11% | 25% | 9% |
-|  | Migraine | 2% | 3% | 0% | 0% | 3% | 1% |
-|  | Paresthesia | 8% | 7% | 8% | 4% | 11% | 1% |
-|  | Tremor | 8% | 7% | 7% | 3% | 13% | 4% |
-| Gastrointestinal System Disorders |  |  |  |  |  |  |  |
-|  | Abdominal Pain | 15% | 15% | 15% | 7% | 15% | 10% |
-|  | Anorexia | 3% | 3% | 1% | 0% | 3% | 3% |
-|  | Diarrhea | 12% | 12% | 18% | 15% | 13% | 8% |
-|  | Dyspepsia | 12% | 12% | 10% | 8% | 8% | 4% |
-|  | Flatulence | 5% | 5% | 5% | 4% | 4% | 1% |
-|  | Gastrointestinal Disorder NOS* | 0% | 2% | 1% | 4% | 4% | 0% |
-|  | Gingivitis | 4% | 3% | 0% | 0% | 0% | 1% |
-|  | Gum Hyperplasia | 2% | 4% | 1% | 3% | 4% | 1% |
-|  | Nausea | 23% | 14% | 24% | 15% | 18% | 14% |
-|  | Rectal Hemorrhage | 0% | 3% | 0% | 0% | 1% | 1% |
-|  | Stomatitis | 7% | 5% | 16% | 12% | 6% | 8% |
-|  | Vomiting | 9% | 8% | 14% | 7% | 6% | 5% |
-| Hearing and Vestibular Disorders |  |  |  |  |  |  |  |
-|  | Ear Disorder NOS* | 0% | 5% | 0% | 0% | 1% | 0% |
-| Metabolic and Nutritional Disorders |  |  |  |  |  |  |  |
-|  | Hypomagnesemia | 0% | 4% | 0% | 0% | 6% | 0% |
-| Musculoskeletal System Disorders |  |  |  |  |  |  |  |
-|  | Arthropathy | 0% | 5% | 0% | 1% | 4% | 0% |
-|  | Leg Cramps / Involuntary Muscle Contractions | 2% | 11% | 11% | 3% | 12% | 1% |
-| Psychiatric Disorders |  |  |  |  |  |  |  |
-|  | Depression | 3% | 6% | 3% | 1% | 1% | 2% |
-|  | Insomnia | 4% | 1% | 1% | 0% | 3% | 2% |
-| Renal |  |  |  |  |  |  |  |
-|  | Creatinine elevations ≥30% | 43% | 39% | 55% | 19% | 48% | 13% |
-|  | Creatinine elevations ≥50% | 24% | 18% | 26% | 8% | 18% | 3% |
-| Reproductive Disorders, Female |  |  |  |  |  |  |  |
-|  | Leukorrhea | 1% | 0% | 4% | 0% | 1% | 0% |
-|  | Menstrual Disorder | 3% | 2% | 1% | 0% | 1% | 1% |
-| Respiratory System Disorders |  |  |  |  |  |  |  |
-|  | Bronchitis | 1% | 3% | 1% | 0% | 1% | 3% |
-|  | Coughing | 5% | 3% | 5% | 7% | 4% | 4% |
-|  | Dyspnea | 5% | 1% | 3% | 3% | 1% | 2% |
-|  | Infection NOS* | 9% | 5% | 0% | 7% | 3% | 10% |
-|  | Pharyngitis | 3% | 5% | 5% | 6% | 4% | 4% |
-|  | Pneumonia | 1% | 0% | 4% | 0% | 1% | 1% |
-|  | Rhinitis | 0% | 3% | 11% | 10% | 1% | 0% |
-|  | Sinusitis | 4% | 4% | 8% | 4% | 3% | 3% |
-|  | Upper Respiratory Tract | 0% | 14% | 23% | 15% | 13% | 0% |
-| Skin and Appendages Disorders |  |  |  |  |  |  |  |
-|  | Alopecia | 3% | 0% | 1% | 1% | 4% | 4% |
-|  | Bullous Eruption | 1% | 0% | 4% | 1% | 1% | 1% |
-|  | Hypertrichosis | 19% | 17% | 12% | 0% | 15% | 3% |
-|  | Rash | 7% | 12% | 10% | 7% | 8% | 10% |
-|  | Skin Ulceration | 1% | 1% | 3% | 4% | 0% | 2% |
-| Urinary System Disorders |  |  |  |  |  |  |  |
-|  | Dysuria | 0% | 0% | 11% | 3% | 1% | 2% |
-|  | Micturition Frequency | 2% | 4% | 3% | 1% | 2% | 2% |
-|  | NPN, Increased | 0% | 19% | 12% | 0% | 18% | 0% |
-|  | Urinary Tract Infection | 0% | 3% | 5% | 4% | 3% | 0% |
-| Vascular (Extracardiac) Disorders |  |  |  |  |  |  |  |
-|  | Purpura | 3% | 4% | 1% | 1% | 2% | 0% |
-| † Includes patients in 2.5 mg/kg/day dose group only. *NOS=Not Otherwise Specified. |  |  |  |  |  |  |  |
+|  |  |  | Studies651+652+2008 | Study 302 | Study 654 | Study 654 | Study 302 | Studies651+652+2008 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Body System | Preferred Term |  | Sandimmune®†(N=269) | Sandimmune®(N=155) | Metho-trexate &Sandimmune®(N=74) | Metho-trexate &Placebo(N=73) | Cyclosporine(MODIFIED)(N=143) | Placebo(N=201) |
+| Autonomic Nervous System Disorders |  |  |  |  |  |  |  |  |
+|  | Flushing |  | 2% | 2% | 3% | 0% | 5% | 2% |
+| Body As A Whole–General Disorders |  |  |  |  |  |  |  |  |
+|  | Accidental Trauma |  | 0% | 1% | 10% | 4% | 4% | 0% |
+|  | Edema NOS* |  | 5% | 14% | 12% | 4% | 10% | <1% |
+|  | Fatigue |  | 6% | 3% | 8% | 12% | 3% | 7% |
+|  | Fever |  | 2% | 3% | 0% | 0% | 2% | 4% |
+|  | Influenza-like symptoms |  | <1% | 6% | 1% | 0% | 3% | 2% |
+|  | Pain |  | 6% | 9% | 10% | 15% | 13% | 4% |
+|  | Rigors |  | 1% | 1% | 4% | 0% | 3% | 1% |
+| Cardiovascular Disorders |  |  |  |  |  |  |  |  |
+|  | Arrhythmia |  | 2% | 5% | 5% | 6% | 2% | 1% |
+|  | Chest Pain |  | 4% | 5% | 1% | 1% | 6% | 1% |
+|  | Hypertension |  | 8% | 26% | 16% | 12% | 25% | 2% |
+| Central and Peripheral Nervous System Disorders |  |  |  |  |  |  |  |  |
+|  | Dizziness |  | 8% | 6% | 7% | 3% | 8% | 3% |
+|  | Headache |  | 17% | 23% | 22% | 11% | 25% | 9% |
+|  | Migraine |  | 2% | 3% | 0% | 0% | 3% | 1% |
+|  | Paresthesia |  | 8% | 7% | 8% | 4% | 11% | 1% |
+|  | Tremor |  | 8% | 7% | 7% | 3% | 13% | 4% |
+| Gastrointestinal System Disorders |  |  |  |  |  |  |  |  |
+|  | Abdominal Pain |  | 15% | 15% | 15% | 7% | 15% | 10% |
+|  | Anorexia |  | 3% | 3% | 1% | 0% | 3% | 3% |
+|  | Diarrhea |  | 12% | 12% | 18% | 15% | 13% | 8% |
+|  | Dyspepsia |  | 12% | 12% | 10% | 8% | 8% | 4% |
+|  | Flatulence |  | 5% | 5% | 5% | 4% | 4% | 1% |
+|  | Gastrointestinal Disorder NOS* |  | 0% | 2% | 1% | 4% | 4% | 0% |
+|  | Gingivitis |  | 4% | 3% | 0% | 0% | 0% | 1% |
+|  | Gum Hyperplasia |  | 2% | 4% | 1% | 3% | 4% | 1% |
+|  | Nausea |  | 23% | 14% | 24% | 15% | 18% | 14% |
+|  | Rectal Hemorrhage |  | 0% | 3% | 0% | 0% | 1% | 1% |
+|  | Stomatitis |  | 7% | 5% | 16% | 12% | 6% | 8% |
+|  | Vomiting |  | 9% | 8% | 14% | 7% | 6% | 5% |
+| Hearing and Vestibular Disorders |  |  |  |  |  |  |  |  |
+|  | Ear Disorder NOS* |  | 0% | 5% | 0% | 0% | 1% | 0% |
+| Metabolic and Nutritional Disorders |  |  |  |  |  |  |  |  |
+|  | Hypomagnesemia |  | 0% | 4% | 0% | 0% | 6% | 0% |
+| Musculoskeletal System Disorders |  |  |  |  |  |  |  |  |
+|  | Arthropathy |  | 0% | 5% | 0% | 1% | 4% | 0% |
+|  | Leg Cramps / Involuntary Muscle Contractions |  | 2% | 11% | 11% | 3% | 12% | 1% |
+| Psychiatric Disorders |  |  |  |  |  |  |  |  |
+|  | Depression |  | 3% | 6% | 3% | 1% | 1% | 2% |
+|  | Insomnia |  | 4% | 1% | 1% | 0% | 3% | 2% |
+| Renal |  |  |  |  |  |  |  |  |
+|  | Creatinine elevations ≥30% |  | 43% | 39% | 55% | 19% | 48% | 13% |
+|  | Creatinine elevations ≥50% |  | 24% | 18% | 26% | 8% | 18% | 3% |
+| Reproductive Disorders, Female |  |  |  |  |  |  |  |  |
+|  | Leukorrhea |  | 1% | 0% | 4% | 0% | 1% | 0% |
+|  | Menstrual Disorder |  | 3% | 2% | 1% | 0% | 1% | 1% |
+| Respiratory System Disorders |  |  |  |  |  |  |  |  |
+|  | Bronchitis |  | 1% | 3% | 1% | 0% | 1% | 3% |
+|  | Coughing |  | 5% | 3% | 5% | 7% | 4% | 4% |
+|  | Dyspnea |  | 5% | 1% | 3% | 3% | 1% | 2% |
+|  | Infection NOS* |  | 9% | 5% | 0% | 7% | 3% | 10% |
+|  | Pharyngitis |  | 3% | 5% | 5% | 6% | 4% | 4% |
+|  | Pneumonia |  | 1% | 0% | 4% | 0% | 1% | 1% |
+|  | Rhinitis |  | 0% | 3% | 11% | 10% | 1% | 0% |
+|  | Sinusitis |  | 4% | 4% | 8% | 4% | 3% | 3% |
+|  | Upper Respiratory Tract |  | 0% | 14% | 23% | 15% | 13% | 0% |
+| Skin and Appendages Disorders |  |  |  |  |  |  |  |  |
+|  | Alopecia |  | 3% | 0% | 1% | 1% | 4% | 4% |
+|  | Bullous Eruption |  | 1% | 0% | 4% | 1% | 1% | 1% |
+|  | Hypertrichosis |  | 19% | 17% | 12% | 0% | 15% | 3% |
+|  | Rash |  | 7% | 12% | 10% | 7% | 8% | 10% |
+|  | Skin Ulceration |  | 1% | 1% | 3% | 4% | 0% | 2% |
+| Urinary System Disorders |  |  |  |  |  |  |  |  |
+|  | Dysuria |  | 0% | 0% | 11% | 3% | 1% | 2% |
+|  | Micturition Frequency |  | 2% | 4% | 3% | 1% | 2% | 2% |
+|  | NPN, Increased |  | 0% | 19% | 12% | 0% | 18% | 0% |
+|  | Urinary Tract Infection |  | 0% | 3% | 5% | 4% | 3% | 0% |
+| Vascular (Extracardiac) Disorders |  |  |  |  |  |  |  |  |
+|  | Purpura |  | 3% | 4% | 1% | 1% | 2% | 0% |
+| † Includes patients in 2.5 mg/kg/day dose group only. *NOS=Not Otherwise Specified. |  |  |  |  |  |  |  |  |
 
 In addition, the following adverse events have been reported in 1% to <3% of the rheumatoid arthritis patients in the cyclosporine treatment group in controlled clinical trials.
 

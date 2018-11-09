@@ -45,13 +45,13 @@ A representative dosage schedule based on the patient's weight started with 2.0 
 Steroid doses may be further tapered on an individualized basis depending on status of patient and function of graft.
 Adjustments in dosage of prednisone must be made according to the clinical situation.
 
-## Conversion from Sandimmune® (Cyclosporine) to Gengraf® Capsules (Cyclosporine Capsules, USP [MODIFIED]) in Transplant Patients
+## Conversion from Sandimmune® Soft Gelatin Capsules (Cyclosporine Capsules, USP) to Gengraf® Capsules (Cyclosporine Capsules, USP [MODIFIED]) in Transplant Patients
 
 In transplanted patients who are considered for conversion to Gengraf® from Sandimmune® (cyclosporine), Gengraf® should be started with the same daily dose as was previously used with Sandimmune® (cyclosporine) (1:1 dose conversion).
 The Gengraf® dose should subsequently be adjusted to attain the pre-conversion cyclosporine blood trough concentration.
 Using the same trough concentration target range for Gengraf® as for Sandimmune® (cyclosporine) results in greater cyclosporine exposure when Gengraf® is administered.
 (See Pharmacokinetics, Absorption) Patients with suspected poor absorption of Sandimmune® (cyclosporine) require different dosing strategies.
-(See Transplant Patients with Poor Absorption of Sandimmune® (cyclosporine), below) In some patients, the increase in blood trough concentration is more pronounced and may be of clinical significance.
+(See Transplant Patients with Poor Absorption of Sandimmune® (Cyclosporine), below) In some patients, the increase in blood trough concentration is more pronounced and may be of clinical significance.
 
 Until the blood trough concentration attains the pre-conversion value, it is strongly recommended that the cyclosporine blood trough concentration be monitored every 4 to 7 days after conversion to Gengraf®.
 In addition, clinical safety parameters such as serum creatinine and blood pressure should be monitored every two weeks during the first two months after conversion.
@@ -94,7 +94,6 @@ If significant clinical improvement has not occurred in patients by that time, t
 Based on patient response, dose increases of approximately 0.5 mg/kg/day should be made to a maximum of 4.0 mg/kg/day.
 
 Dose decreases by 25% to 50% should be made at any time to control adverse events, e.g., hypertension, elevations in serum creatinine (≥25% above the patient's pretreatment level), or clinically significant laboratory abnormalities.
-
 If dose reduction is not effective in controlling abnormalities, or if the adverse event or abnormality is severe, Gengraf® should be discontinued.
 (See Special Monitoring of Psoriasis Patients)
 
