@@ -9,17 +9,22 @@ Healthcare providers are encouraged to register patients by calling the Antiretr
 
 Risk Summary
 
-Available data from the APR show no difference in the overall risk of birth defects for zidovudine compared with the background rate for birth defects of 2.7% in the Metropolitan Atlanta Congenital Defects Program (MACDP) reference population [see Data].
+Available data from the APR show no difference in the overall risk of birth defects for zidovudine compared with the background rate for birth defects of 2.7% in the Metropolitan Atlanta Congenital Defects Program (MACDP) reference population (see Data).
 The APR uses the MACDP as the U.S. reference population for birth defects in the general population.
-The MACDP evaluates women and infants from a limited geographic area and does not include outcomes for births that occurred at less than 20 weeks' gestation.
+The MACDP evaluates women and infants from a limited geographic area and does not include outcomes for births that occurred at less than 20 weeks’ gestation.
 The rate of miscarriage is not reported in the APR.
 The estimated background rate of miscarriage in clinically recognized pregnancies in the U.S. general population is 15% to 20%.
 The background risk for major birth defects and miscarriage for the indicated population is unknown.
 
+Hyperlactatemia, which may be due to mitochondrial dysfunction, has been reported in infants with in utero exposure to zidovudine-containing products.
+These events were transient and asymptomatic in most cases.
+There have been few reports of developmental delay, seizures, and other neurological disease.
+However, a causal relationship between these events and exposure to zidovudine-containing products in utero or peri-partum has not been established (see Data).
+
 In an animal reproduction study, administration of oral zidovudine to female rats prior to mating and throughout gestation resulted in embryotoxicity at doses that produced systemic exposure (AUC) approximately 33 times higher than exposure at the recommended clinical dose.
 However, no embryotoxicity was observed after oral administration of zidovudine to pregnant rats during organogenesis at doses that produced systemic exposure (AUC) approximately 117 times higher than exposures at the recommended clinical dose.
 Administration of oral zidovudine to pregnant rabbits during organogenesis resulted in embryotoxicity at doses that produced systemic exposure (AUC) approximately 108 times higher than exposure at the recommended clinical dose.
-However, no embryotoxicity was observed at doses that produced systemic exposure (AUC) approximately 23 times higher than exposures at the recommended clinical dose [see Data].
+However, no embryotoxicity was observed at doses that produced systemic exposure (AUC) approximately 23 times higher than exposures at the recommended clinical dose (see Data).
 
 Data
 
@@ -33,6 +38,10 @@ Of the 363 neonates that were evaluated, congenital abnormalities occurred with 
 The observed abnormalities included problems in embryogenesis (prior to 14 weeks) or were recognized on ultrasound before or immediately after initiation of study drug.
 
 Zidovudine has been shown to cross the placenta and concentrations in neonatal plasma at birth were essentially equal to those in maternal plasma at delivery [see Clinical Pharmacology (12.3)].
+There have been reports of mild, transient elevations in serum lactate levels, which may be due to mitochondrial dysfunction, in neonates and infants exposed in utero or peri-partum to zidovudine-containing products.
+There have been few reports of developmental delay, seizures, and other neurological disease.
+However, a causal relationship between these events and exposure to zidovudine-containing products in utero or peri-partum has not been established.
+The clinical relevance of transient elevations in serum lactate is unknown.
 
 Animal Data: A study in pregnant rats (at 50, 150, or 450 mg per kg per day starting 26 days prior to mating through gestation to postnatal Day 21) showed increased fetal resorptions at doses that produced systemic exposures (AUC) approximately 33 times higher than exposure at the recommended daily human dose (300 mg twice daily).
 However, in an oral embryo-fetal development study in rats (at 125, 250, or 500 mg per kg per day on gestation Days 6 through 15), no fetal resorptions were observed at doses that produced systemic exposure (AUC) approximately 117 times higher than exposures at the recommended daily human dose.
@@ -45,10 +54,10 @@ However, there were no signs of fetal malformations at doses up to 600 mg per kg
 
 Risk Summary
 
-The Centers for Disease Control and Prevention recommend that HIV-1-infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV-1 infection.
+The Centers for Disease Control and Prevention recommends that HIV-1-infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV-1 infection.
 Zidovudine is present in human milk.
 There is no information on the effects of zidovudine on the breastfed infant or the effects of the drug on milk production.
-Because of the potential for (1) HIV-1 transmission (in HIV-negative infants), (2) developing viral resistance (in HIV-positive infants), and (3) serious adverse reactions in a breastfed infant instruct mothers not to breastfeed if they are receiving zidovudine.
+Because of the potential for (1) HIV-1 transmission (in HIV-negative infants), (2) developing viral resistance (in HIV-positive infants), and (3) adverse reactions in a breastfed infant instruct mothers not to breastfeed if they are receiving zidovudine.
 
 ## 8.4 Pediatric Use
 

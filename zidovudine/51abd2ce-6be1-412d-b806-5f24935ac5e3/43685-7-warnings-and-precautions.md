@@ -46,4 +46,4 @@ Autoimmune disorders (such as Graves’ disease, polymyositis, and Guillain-Barr
 Treatment with zidovudine has been associated with loss of subcutaneous fat.
 The incidence and severity of lipoatrophy are related to cumulative exposure.
 This fat loss, which is most evident in the face, limbs, and buttocks, may be only partially reversible and improvement may take months to years after switching to a non-zidovudine-containing regimen.
-Patients should be regularly assessed for signs of lipoatrophy during therapy with zidovudine and other zidovudine- containing products, and if feasible, therapy should be switched to an alternative regimen if there is suspicion of lipoatrophy.
+Patients should be regularly assessed for signs of lipoatrophy during therapy with zidovudine and other zidovudine-containing products, and if feasible, therapy should be switched to an alternative regimen if there is suspicion of lipoatrophy.

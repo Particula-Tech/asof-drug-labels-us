@@ -23,4 +23,4 @@ Lactation Instruct women with HIV-1 infection not to breastfeed because HIV-1 ca
 Missed Dose Instruct patients that if they miss a dose of zidovudine, to take it as soon as they remember.
 Advise patients not to double their next dose or take more than the prescribed dose [see Dosage and Administration (2)].
 EPIVIR is a trademark owned by or licensed to the ViiV Healthcare group of companies.
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 038, India Revised: 01/2018
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 038, India Revised: 10/2018

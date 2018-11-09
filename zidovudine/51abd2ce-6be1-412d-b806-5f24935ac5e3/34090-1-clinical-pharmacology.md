@@ -81,13 +81,13 @@ Zidovudine Pharmacokinetic Parameters in Pediatric Subjectsa
 | Elimination half-life (h) | 3.1 ± 1.2 (n = 21) | 1.9 ± 0.7 (n = 18) | 1.5 ± 0.7 (n = 21) |
 | aData presented as mean ± standard deviation except where noted. bMedian [range]. |  |  |  |
 
-Pregnancy: Zidovudine pharmacokinetics have been studied in a Phase I trial of 8 women during the last trimester of pregnancy.
+Pregnant Women: Zidovudine pharmacokinetics have been studied in a Phase I trial of 8 women during the last trimester of pregnancy.
 Zidovudine pharmacokinetics were similar to those of nonpregnant adults.
 Consistent with passive transmission of the drug across the placenta, zidovudine concentrations in neonatal plasma at birth were essentially equal to those in maternal plasma at delivery [see Use in Specific Populations (8.1)].
 Although data are limited, methadone maintenance therapy in 5 pregnant women did not appear to alter zidovudine pharmacokinetics.
 Geriatric Patients: Zidovudine pharmacokinetics have not been studied in subjects over 65 years of age.
 Male and Female Patients: A pharmacokinetic trial in healthy male (n = 12) and female (n = 12) subjects showed no differences in zidovudine AUC when a single dose of zidovudine was administered as a 300 mg zidovudine tablet.
-Drug Interactions [See Drug Interactions (7).]
+Drug Interaction Studies [See Drug Interactions (7).]
 
 Table 10.
 Effect of Coadministered Drugs on Zidovudine AUCa
@@ -106,7 +106,7 @@ Effect of Coadministered Drugs on Zidovudine AUCa
 | Rifampin 600 mg daily x 14 days | 200 mg every 8 h x 14 days | 8 | ↓47% | 90% CI: 41% to 53% | Not Assessed |
 | Ritonavir 300 mg every 6 h x 4 days | 200 mg every 8 h x 4 days | 9 | ↓25% | 95% CI: 15% to 34% | ↔ |
 | Valproic acid 250 mg or 500 mg every 8 h x 4 days | 100 mg every 8 h x 4 days | 6 | ↑80% | Range: 64% to 130%b | Not Assessed |
-| ↑= Increase; ↓= Decrease; ↔= No significant change; AUC = Area under the concentration versus time curve; CI = Confidence interval. aThis table is not all inclusive. b Estimated range of percent difference. |  |  |  |  |  |
+| ↑ = Increase; ↓ = Decrease; ↔ = No significant change; AUC = Area under the concentration versus time curve; CI = Confidence interval. aThis table is not all inclusive. b Estimated range of percent difference. |  |  |  |  |  |
 
 Phenytoin: Phenytoin plasma levels have been reported to be low in some patients receiving zidovudine, while in one case a high level was documented.
 However, in a pharmacokinetic interaction trial in which 12 HIV-1-positive volunteers received a single 300 mg phenytoin dose alone and during steady-state zidovudine conditions (200 mg every 4 hours), no change in phenytoin kinetics was observed.
