@@ -4,8 +4,6 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 
 Distributed by: Almatica Pharma, Inc. Pine Brook, NJ 07058 USA
 
-To report SUSPECTED ADVERSE REACTIONS, contact Almatica Pharma at 1-877-447-7979 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+Rev: 06/2018
 
-Rev: 11/2017
-
-PI286-05
+PI286-06
