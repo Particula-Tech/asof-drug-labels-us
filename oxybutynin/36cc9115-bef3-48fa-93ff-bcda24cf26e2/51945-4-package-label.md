@@ -17,13 +17,3 @@ DITROPAN XL® (oxybutynin chloride) Extended-release tablets
 10 mg
 
 Rx only
-
-# PRINCIPAL DISPLAY PANEL - 15 mg Tablet Bottle Label
-
-NDC 50458-815-01 100 tablets
-
-DITROPAN XL® (oxybutynin chloride) Extended-release tablets
-
-15 mg
-
-Rx only
