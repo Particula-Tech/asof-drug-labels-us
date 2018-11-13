@@ -200,7 +200,7 @@ In Adults:
 - •Abdominal pain
 - •Constipation
 - •Sore throat
-- •difficulty moving
+- •Difficulty moving
 
 In Children and Adolescents:
 
@@ -219,8 +219,8 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store quetiapine?
 
-- •Store quetiapine at room temperature, between 68°F to 77°F (20°C to 25°C)
-- •Keep quetiapine and all medicines out of the reach of children
+- •Store quetiapine at room temperature, between 68°F to 77°F (20°C to 25°C).
+- •Keep quetiapine and all medicines out of the reach of children.
 
 General information about the safe and effective use of quetiapine.
 

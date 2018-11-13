@@ -25,7 +25,7 @@ There were differences in absolute risk of suicidality across the different indi
 The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
 These risk differences (drug-placebo difference in the number of cases of suicidality per 1,000 patients treated) are provided in Table 2.
 
-Table 2: Drug-Placebo Difference in Number of Cases of Suicidality per 1,000 Patients Treated
+Table: Drug-Placebo Difference in Number of Cases of Suicidality per 1,000 Patients Treated
 
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1,000 Patients Treated |
 | --- | --- |
@@ -105,7 +105,7 @@ In some cases, hyperglycemia has resolved when the atypical antipsychotic was di
 
 Adults
 
-Table 3: Fasting Glucose — Proportion of Patients Shifting to ≥ 126 mg/dL in Short-Term (≤ 12 weeks) Placebo-Controlled Studies
+Table: Fasting Glucose — Proportion of Patients Shifting to ≥ 126 mg/dL in Short-Term (≤ 12 weeks) Placebo-Controlled Studies
 
 | Laboratory Analyte | Category Change (At Least Once) from Baseline | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
@@ -128,7 +128,7 @@ Dyslipidemia
 
 Adults: Table 4 shows the percentage of adult patients with changes in total cholesterol, triglycerides, LDL-cholesterol and HDL-cholesterol from baseline by indication in clinical trials with quetiapine.
 
-Table 4: Percentage of Adult Patients with Shifts in Total Cholesterol, Triglycerides, LDL-Cholesterol and HDL-Cholesterol from Baseline to Clinically Significant Levels by Indication
+Table: Percentage of Adult Patients with Shifts in Total Cholesterol, Triglycerides, LDL-Cholesterol and HDL-Cholesterol from Baseline to Clinically Significant Levels by Indication
 
 | Laboratory Analyte | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
@@ -151,7 +151,7 @@ Table 4: Percentage of Adult Patients with Shifts in Total Cholesterol, Triglyce
 
 Children and Adolescents: Table 5 shows the percentage of children and adolescents with changes in total cholesterol, triglycerides, LDL-cholesterol and HDL-cholesterol from baseline in clinical trials with quetiapine.
 
-Table 5: Percentage of Children and Adolescents with Shifts in Total Cholesterol, Triglycerides, LDL-Cholesterol and HDL-Cholesterol from Baseline to Clinically Significant Levels
+Table: Percentage of Children and Adolescents with Shifts in Total Cholesterol, Triglycerides, LDL-Cholesterol and HDL-Cholesterol from Baseline to Clinically Significant Levels
 
 | Laboratory Analyte | Indication | Treatment Arm | n | Patients n (%) |
 | --- | --- | --- | --- | --- |
@@ -179,7 +179,7 @@ Patients receiving quetiapine should receive regular monitoring of weight.
 
 Adults:In clinical trials with quetiapine the following increases in weight have been reported.
 
-Table 6: Proportion of Patients with Weight Gain ≥ 7% of Body Weight (Adults)
+Table: Proportion of Patients with Weight Gain ≥ 7% of Body Weight (Adults)
 
 | Vital Sign | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
@@ -194,7 +194,7 @@ Table 6: Proportion of Patients with Weight Gain ≥ 7% of Body Weight (Adults)
 
 Children and Adolescents: In two clinical trials with quetiapine, one in bipolar mania and one in schizophrenia, reported increases in weight are included in Table 7.
 
-Table 7: Proportion of Patients with Weight Gain ≥ 7% of Body Weight (Children and Adolescents)
+Table: Proportion of Patients with Weight Gain ≥ 7% of Body Weight (Children and Adolescents)
 
 | Vital Sign | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
@@ -312,7 +312,7 @@ In eight patients, where TBG was measured, levels of TBG were unchanged.
 
 Table 8 shows the incidence of these shifts in short-term placebo-controlled clinical trials.
 
-Table 8: Incidence of Shifts in Thyroid Hormone Levels and TSH in Short-Term Placebo-Controlled Clinical TrialsBased on shifts from normal baseline to potentially clinically important value at any time post-baseline.
+Table: Incidence of Shifts in Thyroid Hormone Levels and TSH in Short-Term Placebo-Controlled Clinical TrialsBased on shifts from normal baseline to potentially clinically important value at any time post-baseline.
 Shifts in Total T4, free T4, total T3, and free T3 are defined as <0.8 x LLN (pmol/L) and shift in TSH is >5 mIU/L at any time.
 
 | Total T4 |  | Free T4 |  | Total T3 |  | Free T3 |  | TSH |  |

@@ -57,7 +57,7 @@ The cited figures, however, do provide the prescribing physician with some basis
 
 Table 9 enumerates the incidence, rounded to the nearest percent, of adverse reactions that occurred during acute therapy of schizophrenia (up to 6 weeks) and bipolar mania (up to 12 weeks) in 2% or more of patients treated with quetiapine (doses ranging from 75 to 800 mg/day) where the incidence in patients treated with quetiapine was greater than the incidence in placebo-treated patients.
 
-Table 9: Adverse Reaction Incidence in 3- to 12-Week Placebo-Controlled Clinical Trials for the Treatment of Schizophrenia and Bipolar Mania (Monotherapy)
+Table: Adverse Reaction Incidence in 3- to 12-Week Placebo-Controlled Clinical Trials for the Treatment of Schizophrenia and Bipolar Mania (Monotherapy)
 
 | Preferred Term | Quetiapine (n=719) | Placebo (n=404) |
 | --- | --- | --- |
@@ -90,7 +90,7 @@ In the acute adjunct therapy of bipolar mania (up to 3 weeks) studies, the most 
 
 Table 10 enumerates the incidence, rounded to the nearest percent, of adverse reactions that occurred during therapy (up to 3 weeks) of acute mania in 2% or more of patients treated with quetiapine (doses ranging from 100 to 800 mg/day) used as adjunct therapy to lithium and divalproex where the incidence in patients treated with quetiapine was greater than the incidence in placebo-treated patients.
 
-Table 10: Adverse Reaction Incidence in 3-Week Placebo-Controlled Clinical Trials for the Treatment of Bipolar Mania (Adjunct Therapy)
+Table: Adverse Reaction Incidence in 3-Week Placebo-Controlled Clinical Trials for the Treatment of Bipolar Mania (Adjunct Therapy)
 
 | Preferred Term | Quetiapine (n=196) | Placebo (n=203) |
 | --- | --- | --- |
@@ -136,7 +136,7 @@ In bipolar depression studies (up to 8 weeks), the most commonly observed treatm
 
 Table 11 enumerates the incidence, rounded to the nearest percent, of adverse reactions that occurred during therapy (up to 8 weeks) of bipolar depression in 2% or more of patients treated with quetiapine (doses of 300 and 600 mg/day) where the incidence in patients treated with quetiapine was greater than the incidence in placebo-treated patients.
 
-Table 11: Adverse Reaction Incidence in 8-Week Placebo-Controlled Clinical Trials for the Treatment of Bipolar Depression
+Table: Adverse Reaction Incidence in 8-Week Placebo-Controlled Clinical Trials for the Treatment of Bipolar Depression
 
 | Preferred Term | Quetiapine (n=698) | Placebo (n=347) |
 | --- | --- | --- |
@@ -198,7 +198,7 @@ Three methods were used to measure EPS: (1) Simpson-Angus total score (mean chan
 
 In Table 12, dystonic event included nuchal rigidity, hypertonia, dystonia, muscle rigidity, oculogyration; parkinsonism included cogwheel rigidity, tremor, drooling, hypokinesia; akathisia included akathisia, psychomotor agitation; dyskinetic event included tardive dyskinesia, dyskinesia, choreoathetosis; and other extrapyramidal event included restlessness, extrapyramidal disorder, movement disorder.
 
-Table 12: Adverse Reactions Associated with EPS in a Short-Term, Placebo-Controlled Multiple Fixed-Dose Phase III Schizophrenia Trial (6 Weeks Duration)
+Table: Adverse Reactions Associated with EPS in a Short-Term, Placebo-Controlled Multiple Fixed-Dose Phase III Schizophrenia Trial (6 Weeks Duration)
 
 | Preferred Term | Quetiapine 75 mg/day (N=53) |  | Quetiapine 150 mg/day (N=48) |  | Quetiapine 300 mg/day (N=52) |  | Quetiapine 600 mg/day (N=51) |  | Quetiapine 750 mg/day (N=54) |  | Placebo (N=51) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -245,7 +245,7 @@ Table 13 enumerates the incidence, rounded to the nearest percent, of treatment-
 
 Adverse events that were potentially dose-related with higher frequency in the 800 mg group compared to the 400 mg group included dizziness (8% vs. 15%), dry mouth (4% vs. 10%), and tachycardia (6% vs. 11%).
 
-Table 13: Adverse Reaction Incidence in a 6-Week Placebo-Controlled Clinical Trial for the Treatment of Schizophrenia in Adolescent Patients
+Table: Adverse Reaction Incidence in a 6-Week Placebo-Controlled Clinical Trial for the Treatment of Schizophrenia in Adolescent Patients
 
 | Preferred Term | Quetiapine 400 mg (n=73) | Quetiapine 800 mg (n=74) | Placebo (n=75) |
 | --- | --- | --- | --- |
@@ -275,7 +275,7 @@ Table 14 enumerates the incidence, rounded to the nearest percent, of treatment-
 
 Adverse events that were potentially dose-related with higher frequency in the 600 mg group compared to the 400 mg group included somnolence (50% vs. 57%), nausea (6% vs. 10%) and tachycardia (6% vs. 9%).
 
-Table 14: Adverse Reactions in a 3-Week Placebo-Controlled Clinical Trial for the Treatment of Bipolar Mania in Children and Adolescent Patients
+Table: Adverse Reactions in a 3-Week Placebo-Controlled Clinical Trial for the Treatment of Bipolar Mania in Children and Adolescent Patients
 
 | Preferred Term | Quetiapine 400 mg (n=95) | Quetiapine 600 mg (n=98) | Placebo (n=90) |
 | --- | --- | --- | --- |
@@ -314,7 +314,7 @@ Table 15 presents a listing of patients with adverse reactions potentially assoc
 
 In Tables 15 to 16 dystonic event included nuchal rigidity, hypertonia, and muscle rigidity; parkinsonism included cogwheel rigidity and tremor; akathisia included akathisia only; dyskinetic event included tardive dyskinesia, dyskinesia, and choreoathetosis; and other extrapyramidal event included restlessness and extrapyramidal disorder.
 
-Table 15: Adverse Reactions Associated with Extrapyramidal Symptoms in the Placebo-Controlled Trial in Adolescent Patients with Schizophrenia (6-week duration)
+Table: Adverse Reactions Associated with Extrapyramidal Symptoms in the Placebo-Controlled Trial in Adolescent Patients with Schizophrenia (6-week duration)
 
 | Preferred Term | Quetiapine 400 mg/day (N=73) |  | Quetiapine 800 mg/day (N=74) |  | All Quetiapine (N=147) |  | Placebo (N=75) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -327,7 +327,7 @@ Table 15: Adverse Reactions Associated with Extrapyramidal Symptoms in the Place
 
 Table 16 presents a listing of patients with adverse reactions associated with extrapyramidal symptoms in a short-term placebo-controlled monotherapy trial in children and adolescent patients with bipolar mania (3-week duration).
 
-Table 16: Adverse Reactions Associated with Extrapyramidal Symptoms in a Placebo-Controlled Trial in Children and Adolescent Patients with Bipolar I Mania (3-week duration)
+Table: Adverse Reactions Associated with Extrapyramidal Symptoms in a Placebo-Controlled Trial in Children and Adolescent Patients with Bipolar I Mania (3-week duration)
 
 | Preferred TermThere were no adverse experiences with the preferred term of dystonic or dyskinetic events. | Quetiapine 400 mg/day (N=95) |  | Quetiapine 600 mg/day (N=98) |  | All Quetiapine (N=193) |  | Placebo (N=90) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |

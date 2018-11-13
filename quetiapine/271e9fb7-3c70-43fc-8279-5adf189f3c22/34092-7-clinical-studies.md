@@ -32,7 +32,7 @@ The primary efficacy variable was the mean change from baseline in total Positiv
 Quetiapine at 400 mg/day and 800 mg/day was superior to placebo in the reduction of PANSS total score.
 The primary efficacy results of this study in the treatment of schizophrenia in adolescents is presented in Table 19.
 
-Table 19: Schizophrenia Short-Term Trials
+Table: Schizophrenia Short-Term Trials
 
 | Study Number | Treatment Group | Primary Efficacy Endpoint: BPRS Total |  |  |
 | --- | --- | --- | --- | --- |
@@ -91,7 +91,7 @@ The primary efficacy variable was the mean change from baseline in total YMRS sc
 
 Quetiapine 400 mg/day and 600 mg/day were superior to placebo in the reduction of YMRS total score (Table 20).
 
-Table 20: Mania Trials
+Table: Mania Trials
 
 | Study Number | Treatment Group | Primary Efficacy Measure: YMRS Total |  |  |
 | --- | --- | --- | --- | --- |
@@ -124,7 +124,7 @@ For the 300 mg dose group, statistically significant improvements over placebo w
 
 The primary efficacy results of these studies in the acute treatment of depressive episodes associated with bipolar disorder in adults is presented in Table 21.
 
-Table 21: Depressive Episodes Associated with Bipolar Disorder
+Table: Depressive Episodes Associated with Bipolar Disorder
 
 | Study Number | Treatment Group | Primary Efficacy Measure: MADRS Total |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
