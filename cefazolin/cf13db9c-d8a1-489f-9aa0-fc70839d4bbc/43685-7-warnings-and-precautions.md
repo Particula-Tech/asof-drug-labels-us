@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Hypersensitivity Reactions to Cefazolin, Cephalosporins, Penicillins, or Other Beta-lactams
+## 5.1 Hypersensitivity Reactions to Cefazolin, Cephalosporins, Penicillins or Other Beta-lactams
 
 Serious and occasionally fatal hypersensitivity (anaphylactic) reactions have been reported in patients receiving beta-lactam antibacterial drugs.
 Before therapy with Cefazolin for Injection, USP is instituted, careful inquiry should be made to determine whether the patient has had previous immediate hypersensitivity reactions to cefazolin, cephalosporins, penicillins, or carbapenems.
@@ -9,7 +9,7 @@ If an allergic reaction to Cefazolin for Injection, USP occurs, discontinue the 
 
 ## 5.2 Use in Patients with Renal Impairment
 
-This formulation of Cefazolin for Injection USP – Pharmacy Bulk Package bags SmartPak® should not be used in renally impaired patients who require less than the 1 gram dose of cefazolin.
+Cefazolin for Injection USP – Pharmacy Bulk Package bags SmartPak® should not be used in renally impaired patients who require less than a 250 mg dose of cefazolin.
 
 As with other beta-lactam antibacterial drugs, seizures may occur if inappropriately high doses are administered to patients with impaired renal function (creatinine clearance less than 55 mL/minute) [see Dosage and Administration (2.3)].
 
@@ -26,7 +26,7 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 If CDAD is suspected or confirmed, ongoing antibacterial drug use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibacterial drug treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
-## 5.5 Risk of Developing Drug-resistant Bacteria
+## 5.4 Risk of Development of Drug-resistant Bacteria
 
 Prescribing Cefazolin for Injection, USP in the absence of proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
@@ -34,7 +34,7 @@ As with other antimicrobials, prolonged use of Cefazolin for Injection, USP may 
 Repeated evaluation of the patient's condition is essential.
 Should superinfection occur during therapy, appropriate measures should be taken.
 
-## 5.6 Drug/Laboratory Test Interactions
+## 5.5 Drug/Laboratory Test Interactions
 
 Urinary Glucose
 

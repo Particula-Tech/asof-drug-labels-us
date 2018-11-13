@@ -1,8 +1,6 @@
 # 11 DESCRIPTION
 
-Cefazolin for Injection, USP, Pharmacy Bulk Package bag SmartPak® should be used only in patients who require a 1 gram dose and not any fraction thereof.
-
-Cefazolin for Injection USP, Pharmacy Bulk Package bag SmartPak® should not be used in patients who require less than the 1 gram dose of cefazolin.
+Cefazolin for Injection USP, Pharmacy Bulk Package bag SmartPak® should not be used in patients who require less than a 250 mg dose of cefazolin.
 
 Cefazolin for Injection, USP, is a sterile, lyophilized, semisynthetic cephalosporin for intravenous administration.
 It is the sodium salt of 3-{[(5-methyl-1,3,4-thiadiazol-2-yl)thio]-methyl}-8-oxo-7- [2-(1H -tetrazol-1-yl)acetamido]-5-thia-1-azabicyclo [4.2.0]oct-2-ene-2-carboxylic acid.
@@ -11,8 +9,6 @@ Cefazolin for Injection, USP, is supplied in 100 grams and 300 grams SmartPak® 
 Each SmartPak® Pharmacy Bulk Package bag contains cefazolin sodium equivalent to 100 grams or 300 grams of cefazolin.
 
 BEFORE ADMINISTRATION, THIS PHARMACY BULK PACKAGE REQUIRES RECONSTITUTION USING STERILE WATER FOR INJECTION, USP TO A CONCENTRATION OF 100 mg per mL AND FURTHER DILUTION IN 50 mL OF A COMPATIBLE SOLUTION AND INFUSED INTRAVENOUSLY.
-
-THIS PRODUCT IS NOT INTENDED TO BE USED IN PEDIATRIC AND RENALLY IMPAIRED PATIENTS WHO REQUIRE LESS THAN A 1 GRAM DOSE.
 
 A Pharmacy Bulk Package is a container of a sterile preparation for intravenous use that contains many single doses.
 The contents are intended for use in a pharmacy admixture service and are restricted to the preparation of admixtures for intravenous infusion.

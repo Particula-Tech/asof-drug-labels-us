@@ -12,9 +12,9 @@ The pharmacokinetic/pharmacodynamic relationship for cefazolin has not been eval
 
 Studies have shown that following intravenous administration of cefazolin to normal volunteers, mean serum concentrations peaked at approximately 185 mcg/mL and were approximately 4 mcg/mL at 8 hours for a 1 gram dose.
 
-The serum half-life for cefazolin is approximately 1.8 hours following intravenous administration.
+The serum half-life for cefazolin is approximately 1.8 hours following IV administration.
 
-In a study, using normal volunteers, of constant intravenous infusion with dosages of 3.5 mg/kg for 1 hour (approximately 250 mg) and 1.5 mg/kg the next 2 hours (approximately 100 mg), cefazolin produced a steady serum concentration at the third hour of approximately 28 mcg/mL.
+In a study, using normal volunteers, of constant intravenous infusion with dosages of 3.5 mg/kg for 1 hour (approximately 250 mg) and 1.5 mg/kg the next 2 hours (approximately 100 mg), cefazolin produced a steady serum level at the third hour of approximately 28 mcg/mL.
 
 Plasma pharmacokinetic parameters of cefazolin in normal volunteers (N=12) following a single 15-minute intravenous infusion of 2 grams of Cefazolin for Injection, USP are summarized in Table 3.
 
@@ -26,9 +26,9 @@ Table 3: Mean (Standard Deviation) Plasma Pharmacokinetic Parameters of Cefazoli
 | *Tmax reported as median(range) |  |  |  |  |  |  |  |
 | N = number of subjects observed; Cmax = maximum plasma concentration; Tmax = time to maximum plasma concentration; AUC0-inf = area under the plasma concentration-time curve extrapolated to infinity; t½ = apparent plasma terminal elimination half-life; CL = total clearance; Vz = volume of distribution |  |  |  |  |  |  |  |
 
-Studies in patients hospitalized with infections indicate that cefazolin produces mean peak serum concentrations approximately equivalent to those seen in normal volunteers.
+Studies in patients hospitalized with infections indicate that cefazolin produces mean peak serum levels approximately equivalent to those seen in normal volunteers.
 
-Bile concentrations in patients without obstructive biliary disease can reach or exceed serum concentrations by up to five times; however, in patients with obstructive biliary disease, bile concentrations of cefazolin are considerably lower than serum concentrations (< 1 mcg/mL).
+Bile levels in patients without obstructive biliary disease can reach or exceed serum levels by up to five times; however, in patients with obstructive biliary disease, bile levels of cefazolin are considerably lower than serum levels (< 1.0 mcg/mL).
 
 In synovial fluid, the cefazolin concentration becomes comparable to that reached in serum at about 4 hours after drug administration.
 
@@ -44,19 +44,20 @@ Mechanism of Action
 
 Cefazolin is a bactericidal agent that acts by inhibition of bacterial cell wall synthesis.
 
-Mechanism of Resistance
+Resistance
 
 Predominant mechanisms of bacterial resistance to cephalosporins include the presence of extended-spectrum beta-lactamases and enzymatic hydrolysis.
 
-Lists of Microorganisms
+Antimicrobial Activity
 
 Cefazolin has been shown to be active against most isolates of the following microorganisms both in vitro and in clinical infections as described in the INDICATIONS AND USAGE (1) section.
 
 - Gram-Positive Bacteria
   - Staphylococcus aureus
   - Staphylococcus epidermidis
-  - Streptococcus pyogenes and Streptococcus agalactiae
+  - Streptococcus agalactiae
   - Streptococcus pneumoniae
+  - Streptococcus pyogenes
 
 Methicillin-resistant staphylococci are uniformly resistant to cefazolin,
 
@@ -66,55 +67,6 @@ Methicillin-resistant staphylococci are uniformly resistant to cefazolin,
 
 Most isolates of indole positive Proteus (Proteus vulgaris), Enterobacter spp., Morganella morganii, Providencia rettgeri, Serratia spp. and Pseudomonas spp. are resistant to cefazolin.
 
-Susceptibility Test Methods
+Susceptibility Testing
 
-When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drug products used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
-These reports should aid the physician in selecting an antibacterial drug product for treatment.
-
-Dilution Techniques
-
-Quantitative methods are used to determine minimum inhibitory concentrations (MICs).
-These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standard test1,2 (broth and/or agar).
-The MIC values obtained should be interpreted according to criteria as provided in Table 4.
-
-Diffusion Techniques
-
-Quantitative methods that require measurement of zone diameters provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
-The zone size should be interpreted using a standard test method 2,3.
-This procedure uses paper disks impregnated with 30 mcg cefazolin to test the susceptibility of microorganisms to cefazolin.
-The disk diffusion interpretive criteria are provided in Table 4.
-
-Table 4: Susceptibility Test Interpretive Criteria for Cefazolin*
-
-| Pathogen | Minimum Inhibitory Concentration (mcg/mL) |  |  | Disk Diffusion Zone Diameter (mm)† |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Susceptible | Intermediate | Resistant | Susceptible | Intermediate | Resistant |  |
-| Escherichia coli Proteus mirabilis | ≤1 | 2 | ≥4 | - | - | - |
-| Staphylococcus aureus | ≤8 | 16 | ≥32 | ≥18 | 15-17 | ≤14 |
-| *Interpretive criteria are based on 1 gram every 8 hours |  |  |  |  |  |  |
-| †The cefazolin disk should not be used for determining susceptibility to other cephalosporins |  |  |  |  |  |  |
-
-NOTE: S. pyogenes and S. agalactiae that have a penicillin MIC of ≤0.12 mcg/mL or disk diffusion zone diameters of ≥24 mm with a 10 mcg penicillin disk may be interpreted as susceptible to cefazolin.
-Non-meningitis isolates of S. pneumoniae that have a penicillin MIC of ≤0.06 mcg/mL may be interpreted as susceptible to cefazolin.
-
-A report of Susceptible indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations at the infection site necessary to inhibit growth of the pathogen.
-A report of Intermediate indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
-This category implies possible clinical applicability in body sites where the drug product is physiologically concentrated or in situations where a high dosage of the drug product can be used.
-This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of Resistant indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations usually achievable at the infection site; other therapy should be selected.
-
-Quality Control
-
-Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay and the techniques of the individual performing the test1,2,3.
-Standard cefazolin powder should provide the following MIC values noted in Table 5.
-For the diffusion technique using the 30 mcg disk, the criteria in Table 5 should be achieved.
-
-Table 5: Acceptable Quality Control Ranges for Cefazolin
-
-| QC Isolate | Minimum Inhibitory Concentration (mcg/mL) | Disk Diffusion Zone Diameters (mm) |
-| --- | --- | --- |
-| E. coli ATCC® 25922 | 1 to 4 | 21 to 27 |
-| S. aureus ATCC® 29213 | 0.25 to 1 | - |
-| S. aureus ATCC® 25923 | - | 29 to 35 |
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC

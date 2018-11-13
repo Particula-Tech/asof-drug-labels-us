@@ -13,13 +13,14 @@ When cefazolin is prescribed to treat a bacterial infection, patients should be 
 Skipping doses or not completing the full course of therapy may: (1) decrease the effectiveness of the immediate treatment, and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by cefazolin or other antibacterial drugs in the future.
 
 Rx only SmartPak is a registered trademark of Samson Medical Technologies, L.L.C.
-ATCC is a registered trademark of American Type Culture Collection.
 Clinitest is a registered trademark of Siemens Medical Solutions Diagnostics.
 Clinistix is a registered trademark of Bayer Healthcare LLC.
 
-C1100g
+C1100h
 
-Manufactured for SAMSON MEDICAL TECHNOLOGIES, L.L.C.
+Manufactured for
+
+​SAMSON MEDICAL TECHNOLOGIES, L.L.C.
 
 Cherry Hill, NJ 08003
 

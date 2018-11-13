@@ -1,24 +1,18 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Cefazolin for Injection USP, Pharmacy Bulk Package bag SmartPak® should be used only in patients who require a 1 gram dose and not any fraction thereof.
-
-Cefazolin for Injection USP, Pharmacy Bulk Package bag SmartPak® should not be used in patients who require less than the 1 gram dose of Cefazolin.
+Cefazolin for Injection USP, Pharmacy Bulk Package bag SmartPak® should not be used in patients who require less than a 250 mg dose of Cefazolin.
 
 THIS PHARMACY BULK PACKAGE REQUIRES RECONSTITUTION WITH STERILE WATER FOR INJECTION, USP TO A CONCENTRATION OF 100 mg per mL AND FURTHER DILUTION IN 50 mL OF A COMPATIBLE SOLUTION.
 
 | THIS IS A PHARMACY BULK PACKAGE - NOT FOR DIRECT INJECTION |
 | --- |
 
-USE THIS FORMULATION OF CEFAZOLIN ONLY IN PATIENTS WHO REQUIRE A 1 GRAM DOSE.
-
 ## 2.1 Adult Population
 
-Cefazolin for Injection, USP, Pharmacy Bulk Package bag SmartPak® should be used only in patients who require a 1 gram dose and not any fraction thereof.
-Cefazolin for Injection USP, Pharmacy Bulk Package bag SmartPak® should not be used in patients who require less than the 1 gram dose of Cefazolin.
+Cefazolin for Injection USP, Pharmacy Bulk Package bag SmartPak® should not be used in patients who require less than a 250 mg dose of Cefazolin.
 
 Cefazolin for Injection should be reconstituted with Sterile Water for Injection, USP to a concentration of 100 mg per mL and further diluted in 50 mL of a compatible solution.
 The recommended adult dosages are outlined in Table 1.
-Cefazolin for Injection, USP, Pharmacy Bulk Package SmartPak® should be used only in patients who require a 1 gram dose and not any fraction thereof.
 Cefazolin for Injection should be administered intravenously (IV) over approximately 30 minutes.
 
 Table 1: Recommended Dosing Schedule in Adult Patients with CrCl Greater Than or Equal to 55 mL/min.
@@ -31,13 +25,10 @@ Table 1: Recommended Dosing Schedule in Adult Patients with CrCl Greater Than or
 | Pneumococcal pneumonia | 500 mg | Every 12 hours |
 | Severe, life- threatening infections (e.g., endocarditis, septicemia)* | 1 gram to 1.5 grams | Every 6 hours |
 | *In rare instances, doses up to 12 grams of cefazolin per day have been used. |  |  |
-| **This formulation of Cefazolin for Injection USP, Pharmacy Bulk Package bag SmartPak® should not be used in patients who require less than the 1 gram dose of cefazolin. |  |  |
 
 ## 2.2 Perioperative Prophylactic Use
 
-Cefazolin for Injection, USP, Pharmacy Bulk Package bag SmartPak® should be used only in patients who require a 1 gram dose and not any fraction thereof.
-
-Cefazolin for Injection USP, Pharmacy Bulk Package bag SmartPak® should not be used in patients who require less than the 1 gram dose of cefazolin.
+Cefazolin for Injection USP, Pharmacy Bulk Package bag SmartPak® should not be used in patients who require less than a 250 mg dose of cefazolin.
 
 To prevent postoperative infection in contaminated or potentially contaminated surgery, recommended doses are:
 
@@ -51,9 +42,7 @@ In surgery where the occurrence of infection may be particularly devastating (e.
 
 ## 2.3 Patients with Renal Impairment
 
-Cefazolin for Injection, USP, Pharmacy Bulk Package bag SmartPak® should be used only in patients who require a 1 gram dose and not any fraction thereof.
-
-Cefazolin for Injection USP, Pharmacy Bulk Package bag SmartPak® should not be used in patients with renal impairment who require less than the 1 gram dose of cefazolin.
+Cefazolin for Injection USP, Pharmacy Bulk Package bag SmartPak® should not be used in patients with renal impairment who require less than a 250 mg dose of cefazolin.
 Cefazolin may be used in patients with renal impairment with the dosage adjustments outlined in Table 2.
 All reduced dosage recommendations apply after an initial loading dose appropriate to the severity of the infection.
 
@@ -68,9 +57,7 @@ Table 2: Dosage Adjustment for Patients with Renal Impairment
 
 ## 2.4 Preparation for Use of Cefazolin for Injection, USP bag SmartPak® Pharmacy Bulk Package
 
-Cefazolin for Injection, USP, Pharmacy Bulk Package bag SmartPak® should be used only in patients who require a 1 gram dose and not any fraction thereof.
-
-Cefazolin for Injection USP, Pharmacy Bulk Package bag SmartPak® should not be used in patients who require less than the 1 gram dose of cefazolin.
+Cefazolin for Injection USP, Pharmacy Bulk Package bag SmartPak® should not be used in patients who require less than a 250 mg dose of cefazolin.
 
 Directions for Proper Use of a Pharmacy Bulk Package
 
@@ -123,9 +110,11 @@ Dilution
 
 - Hang the bag from two eyelets.
 - Following reconstitution, transfer 10 mL of the reconstituted solution into transfusion bags, each containing 50 mL of one of the compatible solutions below.
-  - Compatible solutions for dilution are the following:
-    - Sodium Chloride Injection, USP
-    - 5% Dextrose Injection, USP
+
+Compatible solutions for dilution are the following:
+
+Sodium Chloride Injection, USP 5% Detrose Injection, USP
+
 - Dilution should be completed within the 4 hour preparation process.
 - When diluted according to the instructions above, cefazolin is stable for 24 hours at room temperature or for 10 days if stored under refrigeration (5°C or 41°F).
 

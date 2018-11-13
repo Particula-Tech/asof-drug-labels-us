@@ -19,7 +19,7 @@ Caution should be exercised when cefazolin is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
-Cefazolin for Injection USP, Pharmacy Bulk Package bag, SmartPak® should not be used in pediatric patients who require less than the 1 gram adult dose of cefazolin.
+Cefazolin for Injection USP, Pharmacy Bulk Package bag, SmartPak® should not be used in pediatric patients who require less than a 250 mg adult of cefazolin.
 
 ## 8.5 Geriatric Use
 
@@ -32,5 +32,5 @@ Because elderly patients are more likely to have decreased renal function, care 
 
 ## 8.6 Patients with Renal Impairment
 
-Cefazolin for Injection USP, Pharmacy Bulk Package bag, SmartPak® should not be used in patients with renal impairment who require less than the 1 gram adult dose of Cefazolin.
+Cefazolin for Injection USP, Pharmacy Bulk Package bag, SmartPak® should not be used in patients with renal impairment who require less than a 250 mg dose of Cefazolin.
 When cefazolin is administered to patients with low urinary output because of impaired renal function (creatinine clearance less than 55 mL/minute), lower daily dosage is required [see Dosage and Administration (2.3) and Warnings and Precautions (5.2)].

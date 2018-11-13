@@ -2,10 +2,11 @@
 
 Cefazolin for Injection, USP, is available in the following SmartPak® Pharmacy Bulk Packages bags:
 
-- 100 grams* One Pharmacy Bulk Package bag Product No. 1100 NDC 66288-1100-1
-- 300 grams** One Pharmacy Bulk Package bag Product No. 1300 NDC 66288-1300-1
+100 grams* One Pharmacy Bulk Package bag Product No. 1100 NDC 66288-1100-1
 
-*Each 100 gram Pharmacy Bulk Package bag contains sterile cefazolin sodium equivalent to100 grams of cefazolin.
+300 grams** One Pharmacy Bulk Package bag Product No. 1300 NDC 66288-1300-1
+
+*Each 100 gram Pharmacy Bulk Package bag contains sterile cefazolin sodium equivalent to 100 grams of cefazolin.
 
 **Each 300 gram Pharmacy Bulk Package bag contains sterile cefazolin sodium equivalent to 300 grams of cefazolin.
 
