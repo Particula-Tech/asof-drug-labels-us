@@ -3,23 +3,14 @@
 If overdose occurs the patient must be monitored for evidence of toxicity.
 Treatment of overdose with COMPLERA consists of general supportive measures, including monitoring of vital signs and ECG (QT interval) as well as observation of the clinical status of the patient.
 
-Emtricitabine: Limited clinical experience is available at doses higher than the therapeutic dose of EMTRIVA.
-In one clinical pharmacology study, single doses of emtricitabine 1200 mg were administered to 11 subjects.
-No severe adverse reactions were reported.
-The effects of higher doses are not known.
+Emtricitabine: Hemodialysis treatment removes approximately 30% of the FTC dose over a 3-hour dialysis period starting within 1.5 hours of FTC dosing (blood flow rate of 400 mL per minute and a dialysate flow rate of 600 mL per minute).
+It is not known whether FTC can be removed by peritoneal dialysis.
 
-Hemodialysis treatment removes approximately 30% of the emtricitabine dose over a 3-hour dialysis period starting within 1.5 hours of emtricitabine dosing (blood flow rate of 400 mL per minute and a dialysate flow rate of 600 mL per minute).
-It is not known whether emtricitabine can be removed by peritoneal dialysis.
-
-Rilpivirine: There is no specific antidote for overdose with rilpivirine.
-Human experience of overdose with rilpivirine is limited.
-Since rilpivirine is highly bound to plasma protein, dialysis is unlikely to result in significant removal of rilpivirine.
+Rilpivirine: There is no specific antidote for overdose with RPV.
+Human experience of overdose with RPV is limited.
+Since RPV is highly bound to plasma protein, dialysis is unlikely to result in significant removal of RPV.
 
 Administration of activated charcoal may be used to aid in removal of unabsorbed active substance.
 
-Tenofovir DF: Limited clinical experience at doses higher than the therapeutic dose of VIREAD 300 mg is available.
-In one study, 600 mg tenofovir DF was administered to 8 subjects orally for 28 days, and no severe adverse reactions were reported.
-The effects of higher doses are not known.
-
-Tenofovir is efficiently removed by hemodialysis with an extraction coefficient of approximately 54%.
-Following a single 300 mg dose of VIREAD, a 4-hour hemodialysis session removed approximately 10% of the administered tenofovir dose.
+Tenofovir DF: Tenofovir is efficiently removed by hemodialysis with an extraction coefficient of approximately 54%.
+Following a single 300 mg dose of TDF, a 4-hour hemodialysis session removed approximately 10% of the administered tenofovir dose.

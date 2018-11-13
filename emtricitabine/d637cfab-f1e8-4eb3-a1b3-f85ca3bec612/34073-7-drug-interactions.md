@@ -1,60 +1,64 @@
 # 7 DRUG INTERACTIONS
 
-COMPLERA is a complete regimen for the treatment of HIV-1 infection; therefore, COMPLERA should not be administered with other antiretroviral medications.
-Information regarding potential drug-drug interactions with other antiretroviral medications is not provided.
-Please refer to the Edurant, VIREAD, and EMTRIVA prescribing information as needed.
+## 7.1 Not Recommended with Other Antiretroviral Medications
+
+Because COMPLERA is a complete regimen, coadministration with other antiretroviral medications for the treatment of HIV-1 infection is not recommended.
+Comprehensive information regarding potential drug-drug interactions with other antiretroviral medications is not provided.
 
 This section describes clinically relevant drug interactions with COMPLERA.
-Drug interaction studies were conducted with the components of COMPLERA (emtricitabine, rilpivirine, and tenofovir DF as single agents) or with COMPLERA as a combination product [See Dosage and Administration (2), Contraindications (4), and Clinical Pharmacology (12.3)].
+Drug interaction studies were conducted with the components of COMPLERA (FTC, RPV, and TDF as single agents) or with COMPLERA as a combination product [see Dosage and Administration (2), Contraindications (4), and Clinical Pharmacology (12.3)].
 
-## 7.1 Drugs Inducing or Inhibiting CYP3A Enzymes
+## 7.2 Drugs Inducing or Inhibiting CYP3A Enzymes
 
-Rilpivirine is primarily metabolized by cytochrome P450 (CYP) 3A, and drugs that induce or inhibit CYP3A may thus affect the clearance of rilpivirine [See Clinical Pharmacology (12.3), Contraindications (4)].
-Coadministration of rilpivirine and drugs that induce CYP3A may result in decreased plasma concentrations of rilpivirine and loss of virologic response and possible resistance to rilpivirine or to the class of NNRTIs.
-Coadministration of rilpivirine and drugs that inhibit CYP3A may result in increased plasma concentrations of rilpivirine.
+Rilpivirine is primarily metabolized by cytochrome P450 (CYP) 3A, and drugs that induce or inhibit CYP3A may thus affect the clearance of RPV [see Contraindications (4), Warnings and Precautions (5.7), and Clinical Pharmacology (12.3)].
+Coadministration of RPV and drugs that induce CYP3A may result in decreased plasma concentrations of RPV and loss of virologic response and possible resistance to RPV or to the class of NNRTIs.
+Coadministration of RPV and drugs that inhibit CYP3A may result in increased plasma concentrations of RPV.
 
-Rilpivirine at a dose of 25 mg once daily is not likely to have a clinically relevant effect on the exposure of drugs metabolized by CYP enzymes.
+## 7.3 Drugs Increasing Gastric pH
 
-## 7.2 Drugs Increasing Gastric pH
+Coadministration of RPV with drugs that increase gastric pH may decrease plasma concentrations of RPV and loss of virologic response and possible resistance to RPV or to the class of NNRTIs.
+Use of RPV with proton pump inhibitors is contraindicated and use of RPV with H2-receptor antagonists requires staggered administration [see Contraindications (4) and Clinical Pharmacology (12.3)].
 
-Coadministration of rilpivirine with drugs that increase gastric pH may decrease plasma concentrations of rilpivirine and loss of virologic response and possible resistance to rilpivirine or to the class of NNRTIs (See Table 4).
+## 7.4 Drugs Affecting Renal Function
 
-## 7.3 Drugs Affecting Renal Function
+Because FTC and tenofovir are primarily eliminated by the kidneys through a combination of glomerular filtration and active tubular secretion, coadministration of COMPLERA with drugs that reduce renal function or compete for active tubular secretion may increase serum concentrations of FTC, tenofovir, and/or other renally eliminated drugs.
+Some examples of drugs that are eliminated by active tubular secretion include, but are not limited to, acyclovir, adefovir dipivoxil, cidofovir, ganciclovir, valacyclovir, valganciclovir, aminoglycosides (e.g., gentamicin), and high-dose or multiple NSAIDs [see Warnings and Precautions (5.5)].
 
-Because emtricitabine and tenofovir are primarily eliminated by the kidneys through a combination of glomerular filtration and active tubular secretion, coadministration of COMPLERA with drugs that reduce renal function or compete for active tubular secretion may increase serum concentrations of emtricitabine, tenofovir, and/or other renally eliminated drugs.
-Some examples of drugs that are eliminated by active tubular secretion include, but are not limited to, acyclovir, adefovir dipivoxil, cidofovir, ganciclovir, valacyclovir, valganciclovir, aminoglycosides (e.g., gentamicin), and high-dose or multiple NSAIDs [See Warnings and Precautions (5.3)].
+## 7.5 QT Prolonging Drugs
 
-## 7.4 QT Prolonging Drugs
+There is limited information available on the potential for a pharmacodynamic interaction between RPV and drugs that prolong the QTc interval of the electrocardiogram.
+In a study of healthy subjects, 75 mg once daily and 300 mg once daily doses of RPV (3 times and 12 times the dose in COMPLERA) have been shown to prolong the QTc interval of the electrocardiogram [see Warnings and Precautions (5.7) and Clinical Pharmacology (12.2)].
+Consider alternatives to COMPLERA when coadministered with a drug with a known risk of Torsade de Pointes.
 
-There is limited information available on the potential for a pharmacodynamic interaction between rilpivirine and drugs that prolong the QTc interval of the electrocardiogram.
-In a study of healthy subjects, supratherapeutic doses of rilpivirine (75 mg once daily and 300 mg once daily) have been shown to prolong the QTc interval of the electrocardiogram [See Clinical Pharmacology (12.2)].
-COMPLERA should be used with caution when coadministered with a drug with a known risk of Torsade de Pointes.
-
-## 7.5 Established and Other Potentially Significant Drug Interactions
+## 7.6 Significant Drug Interactions
 
 Important drug interaction information for COMPLERA is summarized in Table 4.
-The drug interactions described are based on studies conducted with emtricitabine, rilpivirine, or tenofovir DF as individual medications or with COMPLERA as a combination product, or are potential drug interactions [for pharmacokinetic data see Clinical Pharmacology (12.3), Tables 7–8].
-Table 4 includes potentially significant interactions, but is not all inclusive.
+The drug interactions described are based on studies conducted with FTC, RPV, or TDF as individual medications or with COMPLERA as a combination product, or are potential drug interactions [see Clinical Pharmacology (12.3), Tables 9–14].
+For list of contraindicated drugs, [see Contraindications (4)].
 
-Table 4 Established and Other Potentially SignificantThis table is not all inclusive.
-Drug Interactions: Alteration in Dose or Regimen May Be Recommended Based on Drug Interaction Studies or Predicted Interaction
+Table 4 SignificantThis table is not all inclusive.
+Drug Interactions
 
-| Concomitant Drug Class: Drug Name | Effect on ConcentrationIncrease=↑; Decrease=↓; No Effect=↔ | Clinical Comment |
+| Concomitant Drug Class: Drug Name | Effect on ConcentrationIncrease = ↑; Decrease = ↓; No Effect = ↔ | Clinical Comment |
 | --- | --- | --- |
-| Antacids: antacids (e.g., aluminium, magnesium hydroxide, or calcium carbonate) | ↔ rilpivirine (antacids taken at least 2 hours before or at least 4 hours after rilpivirine) ↓ rilpivirine (concomitant intake) | The combination of COMPLERA and antacids should be used with caution as coadministration may cause significant decreases in rilpivirine plasma concentrations (increase in gastric pH). Antacids should only be administered either at least 2 hours before or at least 4 hours after COMPLERA. |
-| Antimycobacterials: rifabutin | ↓ rilpivirineThe interaction was evaluated in a clinical study. All other drug-drug interactions shown are predicted. | Concomitant use of COMPLERA with rifabutin may cause significant decreases in rilpivirine plasma concentrations (induction of CYP3A enzymes). If COMPLERA is coadministered with rifabutin, an additional 25 mg tablet of rilpivirine (Edurant) once per day is recommended to be taken concomitantly with COMPLERA and with a meal for the duration of rifabutin coadministration. |
-| Azole Antifungal Agents: fluconazole itraconazole ketoconazole posaconazole voriconazole | ↑ rilpivirine,This interaction study has been performed with a dose higher than the recommended dose for rilpivirine. The dosing recommendation is applicable to the recommended dose of rilpivirine 25 mg once daily. ↓ ketoconazole, | Concomitant use of COMPLERA with azole antifungal agents may cause an increase in the plasma concentrations of rilpivirine (inhibition of CYP3A enzymes). No dose adjustment is required when COMPLERA is coadministered with azole antifungal agents. Clinically monitor for breakthrough fungal infections when azole antifungals are coadministered with COMPLERA. |
-| Hepatitis C Antiviral Agents: ledipasvir/sofosbuvir sofosbuvir/velpatasvir | ↑ tenofovir | Patients receiving COMPLERA concomitantly with HARVONI® (ledipasvir/sofosbuvir) or EPCLUSA® (sofosbuvir/velpatasvir) should be monitored for adverse reactions associated with tenofovir DF. |
-| H2-Receptor Antagonists: cimetidine famotidine nizatidine ranitidine | ↔ rilpivirine, (famotidine taken 12 hours before rilpivirine or 4 hours after rilpivirine) ↓ rilpivirine, (famotidine taken 2 hours before rilpivirine) | The combination of COMPLERA and H2-receptor antagonists should be used with caution as coadministration may cause significant decreases in rilpivirine plasma concentrations (increase in gastric pH). H2-receptor antagonists should only be administered at least 12 hours before or at least 4 hours after COMPLERA. |
-| Macrolide or Ketolide Antibiotics: clarithromycin erythromycin telithromycin | ↑ rilpivirine ↔ clarithromycin ↔ erythromycin ↔ telithromycin | Concomitant use of COMPLERA with clarithromycin, erythromycin, or telithromycin may cause an increase in the plasma concentrations of rilpivirine (inhibition of CYP3A enzymes). Where possible, alternatives such as azithromycin should be considered. |
-| Narcotic Analgesics: methadone | ↓ R(–) methadone ↓ S(+) methadone ↔ rilpivirine ↔ methadone (when used with tenofovir) | No dose adjustments are required when initiating coadministration of methadone with COMPLERA. However, clinical monitoring is recommended as methadone maintenance therapy may need to be adjusted in some patients. |
+| Antacids: antacids (e.g., aluminum, magnesium hydroxide, or calcium carbonate) | ↔ RPV (antacids taken at least 2 hours before or at least 4 hours after RPV) ↓ RPV (concomitant intake) | Administer antacids at least 2 hours before or at least 4 hours after COMPLERA. |
+| Anticonvulsants: carbamazepine oxcarbazepine phenobarbital phenytoin | ↓ RPV | Coadministration is contraindicated due to potential for loss of virologic response and development of resistance. |
+| Antimycobacterials: rifampin rifapentine | ↓ RPV | Coadministration is contraindicated due to potential for loss of virologic response and development of resistance. |
+| rifabutin | ↓ RPVThe interaction was evaluated in a clinical study. All other drug-drug interactions shown are predicted. | If COMPLERA is coadministered with rifabutin, an additional 25 mg tablet of RPV (Edurant) once per day is recommended to be taken concomitantly with COMPLERA and with a meal for the duration of rifabutin coadministration. |
+| Azole Antifungal Agents: fluconazole itraconazole ketoconazole posaconazole voriconazole | ↑ RPV,This interaction study has been performed with a dose higher than the recommended dose for RPV assessing the maximal effect on the coadministered drug. The dosing recommendation is applicable to the recommended dose of RPV 25 mg once daily. ↓ ketoconazole, | No dose adjustment is required when COMPLERA is coadministered with azole antifungal agents. Clinically monitor for breakthrough fungal infections when azole antifungals are coadministered with COMPLERA. |
+| Glucocorticoid (systemic): dexamethasone (more than a single-dose treatment) | ↓ RPV | Coadministration is contraindicated due to potential for loss of virologic response and development of resistance. |
+| Hepatitis C Antiviral Agents: ledipasvir/sofosbuvir sofosbuvir/velpatasvir sofosbuvir/velpatasvir/voxilaprevir | ↑ tenofovir | Patients receiving COMPLERA concomitantly with HARVONI® (ledipasvir/sofosbuvir), EPCLUSA® (sofosbuvir/velpatasvir), or VOSEVI® (sofosbuvir/velpatasvir/voxilaprevir) should be monitored for adverse reactions associated with TDF. |
+| H2-Receptor Antagonists: cimetidine famotidine nizatidine ranitidine | ↔ RPV, (famotidine taken 12 hours before RPV or 4 hours after RPV) ↓ RPV, (famotidine taken 2 hours before RPV) | Administer H2-receptor antagonists at least 12 hours before or at least 4 hours after COMPLERA. |
+| Herbal Products: St John's wort (Hypericum perforatum) | ↓ RPV | Coadministration is contraindicated due to potential for loss of virologic response and development of resistance. |
+| Macrolide or Ketolide Antibiotics: clarithromycin erythromycin telithromycin | ↑ RPV ↔ clarithromycin ↔ erythromycin ↔ telithromycin | Where possible, alternatives such as azithromycin should be considered. |
+| Narcotic Analgesics: methadone | ↓ R(–) methadone ↓ S(+) methadone ↔ RPV ↔ methadone (when used with tenofovir) | No dose adjustments are required when initiating coadministration of methadone with COMPLERA. However, clinical monitoring is recommended as methadone maintenance therapy may need to be adjusted in some patients. |
+| Proton Pump Inhibitors: e.g., dexlansoprazole esomeprazole lansoprazole omeprazole pantoprazole rabeprazole | ↓ RPV | Coadministration is contraindicated due to potential for loss of virologic response and development of resistance. |
 
-## 7.6 Drugs with No Observed or Predicted Interactions with COMPLERA
+## 7.7 Drugs with No Observed Interactions with COMPLERA
 
-No clinically significant drug interactions have been observed between emtricitabine and the following medications: famciclovir, ledipasvir/sofosbuvir, sofosbuvir/velpatasvir, or tenofovir DF.
+No clinically significant drug interactions have been observed between FTC and the following medications: famciclovir, ledipasvir/sofosbuvir, sofosbuvir/velpatasvir, sofosbuvir/velpatasvir/voxilaprevir, or TDF.
 
-No clinically significant drug interactions have been observed between tenofovir DF and the following medications: entecavir, methadone, oral contraceptives, ribavirin, sofosbuvir, or tacrolimus in studies conducted in healthy subjects.
+No clinically significant drug interactions have been observed between TDF and the following medications: entecavir, methadone, oral contraceptives, ribavirin, sofosbuvir, or tacrolimus in studies conducted in healthy subjects.
 
-No clinically significant drug interactions have been observed between rilpivirine and the following medications: acetaminophen, atorvastatin, chlorzoxazone, ethinyl estradiol, ledipasvir/sofosbuvir, norethindrone, sildenafil, simeprevir, sofosbuvir, sofosbuvir/velpatasvir, telaprevir, or tenofovir DF.
-Rilpivirine did not have a clinically significant effect on the pharmacokinetics of digoxin or metformin.
-No clinically relevant drug-drug interaction is expected when rilpivirine is coadministered with ribavirin.
+No clinically significant drug interactions have been observed between RPV and the following medications: acetaminophen, atorvastatin, chlorzoxazone, ethinyl estradiol, ledipasvir/sofosbuvir, norethindrone, sildenafil, simeprevir, sofosbuvir, sofosbuvir/velpatasvir, sofosbuvir/velpatasvir/voxilaprevir, or TDF.
+RPV did not have a clinically significant effect on the pharmacokinetics of digoxin or metformin.

@@ -1,9 +1,9 @@
 # 4 CONTRAINDICATIONS
 
-COMPLERA should not be coadministered with the following drugs, as significant decreases in rilpivirine plasma concentrations may occur due to CYP3A enzyme induction or gastric pH increase, which may result in loss of virologic response and possible resistance to COMPLERA or to the class of NNRTIs [See Drug Interactions (7) and Clinical Pharmacology (12.3)]:
+COMPLERA is contraindicated when coadministered with the following drugs; coadministration may result in loss of virologic response and possible resistance to COMPLERA or to the class of NNRTIs [see Warnings and Precautions (5.7), Drug Interactions (7), and Clinical Pharmacology (12.3)]:
 
-- the anticonvulsants carbamazepine, oxcarbazepine, phenobarbital, phenytoin
-- the antimycobacterials rifampin, rifapentine
-- proton pump inhibitors, such as dexlansoprazole, esomeprazole, lansoprazole, omeprazole, pantoprazole, rabeprazole
-- the glucocorticoid systemic dexamethasone (more than a single dose)
-- St. John's wort (Hypericum perforatum)
+- Anticonvulsants: carbamazepine, oxcarbazepine, phenobarbital, phenytoin
+- Antimycobacterials: rifampin, rifapentine
+- Glucocorticoid (systemic): dexamethasone (more than a single-dose)
+- Herbal Products: St John's wort (Hypericum perforatum)
+- Proton Pump Inhibitors: e.g., dexlansoprazole, esomeprazole, lansoprazole, omeprazole, pantoprazole, rabeprazole
