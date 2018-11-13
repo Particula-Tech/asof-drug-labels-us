@@ -39,7 +39,7 @@ Discontinuation Rate Due to Hyperplasia Over 36 Months of Treatment
 | --- | --- | --- | --- | --- | --- | --- |
 | Most Advanced Biopsy Result Through 36 Months of Treatment | Treatment Group |  |  |  |  |  |
 |  | Conjugated Estrogens + PROMETRIUM Capsules (cyclical) |  | Conjugated Estrogens (alone) |  | Placebo |  |
-| n=120 |  | N=119 |  | N=119 |  |  |
+| n=120 |  | n=119 |  | n=119 |  |  |
 | Adenocarcinoma | 0 | 0 | 0 | 0 | 1 | 1 |
 | Atypical hyperplasia | 1 | 1 | 10 | 8 | 0 | 0 |
 | Complex hyperplasia | 0 | 0 | 21 | 18 | 1 | 1 |

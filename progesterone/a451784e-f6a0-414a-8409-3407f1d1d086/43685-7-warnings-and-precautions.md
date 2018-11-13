@@ -132,10 +132,10 @@ Physicians are advised to discuss the contents of the Patient Information leafle
 
 The following laboratory results may be altered by the use of estrogen plus progestin therapy:
 
-- Increased sulfobromophthalein retention and other hepatic function tests.
-- Coagulation tests: increase in prothrombin factors VII, VIII, IX and X.
-- Pregnanediol determination.
-- Thyroid function: increase in PBI, and butanol extractable protein bound iodine and decrease in T3 uptake values.
+- •Increased sulfobromophthalein retention and other hepatic function tests.
+- •Coagulation tests: increase in prothrombin factors VII, VIII, IX and X.
+- •Pregnanediol determination.
+- •Thyroid function: increase in PBI, and butanol extractable protein bound iodine and decrease in T3 uptake values.
 
 ## D. Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -153,9 +153,7 @@ Exogenously administered progesterone has been shown to inhibit ovulation in a n
 PROMETRIUM Capsules should not be used during pregnancy.
 (See CONTRAINDICATIONS).
 
-### Pregnancy Category B
-
-Reproductive studies have been performed in mice at doses up to 9 times the human oral dose, in rats at doses up to 44 times the human oral dose, in rabbits at a dose of 10 mcg/day delivered locally within the uterus by an implanted device, in guinea pigs at doses of approximately one-half the human oral dose and in rhesus monkeys at doses approximately the human dose, all based on body surface area, and have revealed little or no evidence of impaired fertility or harm to the fetus due to progesterone.
+Pregnancy Category B: Reproductive studies have been performed in mice at doses up to 9 times the human oral dose, in rats at doses up to 44 times the human oral dose, in rabbits at a dose of 10 mcg/day delivered locally within the uterus by an implanted device, in guinea pigs at doses of approximately one-half the human oral dose and in rhesus monkeys at doses approximately the human dose, all based on body surface area, and have revealed little or no evidence of impaired fertility or harm to the fetus due to progesterone.
 
 ## F. Nursing Women
 

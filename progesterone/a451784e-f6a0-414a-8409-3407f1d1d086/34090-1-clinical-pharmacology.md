@@ -17,7 +17,7 @@ Pharmacokinetic Parameters of PROMETRIUM Capsules
 | 100 mg | 200 mg | 300 mg |  |
 | --- | --- | --- | --- |
 | Parameter | PROMETRIUM Capsules Daily Dose |  |  |
-| Cmax (ng/mL) | 17.3 ± 21.9Mean ± S.D. | 38.1 ± 37.8 | 60.06 ± 72.5 |
+| Cmax (ng/mL) | 17.3 ± 21.9Mean ± S.D. | 38.1 ± 37.8 | 60.6 ± 72.5 |
 | Tmax (hr) | 1.5 ± 0.8 | 2.3 ± 1.4 | 1.7 ± 0.6 |
 | AUC (0-10) (ng × hr/mL) | 43.3 ± 30.8 | 101.2 ± 66.0 | 175.7 ± 170.3 |
 
@@ -45,13 +45,9 @@ Progesterone metabolites which are excreted in the bile may undergo enterohepati
 
 The pharmacokinetics of PROMETRIUM Capsules have not been assessed in low body weight or obese patients.
 
-#### Hepatic Insufficiency
+Hepatic Insufficiency: The effect of hepatic impairment on the pharmacokinetics of PROMETRIUM Capsules has not been studied.
 
-The effect of hepatic impairment on the pharmacokinetics of PROMETRIUM Capsules has not been studied.
-
-#### Renal Insufficiency
-
-The effect of renal impairment on the pharmacokinetics of PROMETRIUM Capsules has not been studied.
+Renal Insufficiency: The effect of renal impairment on the pharmacokinetics of PROMETRIUM Capsules has not been studied.
 
 ### F. Food–Drug Interaction
 
@@ -68,9 +64,10 @@ The half-life of the conjugated estrogens was similar with coadministration of P
 Table 2 summarizes the pharmacokinetic parameters.
 
 TABLE 2.
-MEAN (±S.D) Pharmacokinetic Parameters for Estradiol, Estrone, and Equilin Following Coadministration of Conjugated Estrogens 0.625 mg and PROMETRIUM Capsules, 200 mg for 12 Days to Postmenopausal Women
+Mean (± S.D.)
+Pharmacokinetic Parameters for Estradiol, Estrone, and Equilin Following Coadministration of Conjugated Estrogens 0.625 mg and PROMETRIUM Capsules 200 mg for 12 Days to Postmenopausal Women
 
-| Drug | Cmax (ng/mL) | Tmax (hr) | AUC(0.24h) (ng × h/mL) | Cmax (ng/mL) | Tmax (hr) | AUC(0.24h) (ng × h/mL) |
+| Drug | Cmax (ng/mL) | Tmax (hr) | AUC(0-24h) (ng × h/mL) | Cmax (ng/mL) | Tmax (hr) | AUC(0-24h) (ng × h/mL) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Conjugated Estrogens |  |  | Conjugated Estrogens plus PROMETRIUM Capsules |  |  |
 | Estradiol | 0.037 ± 0.048 | 12.7 ± 9.1 | 0.676 ± 0.737 | 0.030 ± 0.032 | 17.32 ± 1.21 | 0.561 ± 0.572 |

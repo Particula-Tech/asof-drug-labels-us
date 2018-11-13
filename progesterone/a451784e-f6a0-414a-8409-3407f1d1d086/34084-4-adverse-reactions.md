@@ -44,10 +44,10 @@ Table 7 lists adverse reactions greater than or equal to 5 percent of women who 
 TABLE 7.
 Adverse Reactions (≥ 5%) Reported in Patients Using 400 mg/day in a Placebo-Controlled Trial in Estrogen- Primed Postmenopausal Women
 
-|  | Percentage (%) of Patients |  |
-| --- | --- | --- |
 | Adverse Experience | PROMETRIUM Capsules 400 mg | Placebo |
+| --- | --- | --- |
 |  | n=25 | n=24 |
+|  | Percentage (%) of Patients |  |
 | Fatigue | 8 | 4 |
 | Headache | 16 | 8 |
 | Dizziness | 24 | 4 |
@@ -65,7 +65,7 @@ Adverse Reactions (≥ 5%) Reported in Patients Using 400 mg/day in a Placebo-Co
 In a multicenter, parallel-group, open label postmarketing dosing study consisting of three consecutive 28-day treatment cycles, 220 premenopausal women with secondary amenorrhea were randomized to receive daily conjugated estrogens therapy (0.625 mg conjugated estrogens) and PROMETRIUM Capsules, 300 mg per day (n=113) or PROMETRIUM Capsules, 400 mg per /day (n=107) for 10 days of each treatment cycle.
 Overall, the most frequently reported treatment-emergent adverse reactions, reported in greater than or equal to 5 percent of subjects, were nausea, fatigue, vaginal mycosis, nasopharyngitis, upper respiratory tract infection, headache, dizziness, breast tenderness, abdominal distension, acne, dysmenorrhea, mood swing, and urinary tract infection.
 
-## Postmarketing Experience
+## Postmarketing Experience:
 
 The following additional adverse reactions have been reported with PROMETRIUM Capsules.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate the frequency or establish a causal relationship to drug exposure.
