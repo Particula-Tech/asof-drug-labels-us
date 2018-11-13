@@ -2,7 +2,7 @@
 
 The following adverse reaction is described in greater detail in another section of the labeling:
 
-- New Onset or Worsening Renal Impairment When Used with Tenofovir Disoproxil Fumarate [see Warnings and Precautions (5.2)]
+- New Onset or Worsening Renal Impairment When Used with Tenofovir Disoproxil Fumarate [see Warnings and Precautions (5.2)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -10,8 +10,8 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 The safety of TYBOST is based on Week 144 data from a Phase 3 trial, Study 114, in which 692 HIV-1 infected, antiretroviral treatment-naïve subjects received:
 
-- TYBOST coadministered with atazanavir and tenofovir DF/emtricitabine (administered as TRUVADA) (N=344) or;
-- ritonavir coadministered with atazanavir and tenofovir DF/emtricitabine (administered as TRUVADA) (N=348).
+- TYBOST coadministered with atazanavir and TDF/emtricitabine (administered as TRUVADA) (N=344) or
+- ritonavir coadministered with atazanavir and TDF/emtricitabine (administered as TRUVADA) (N=348).
 
 The most common adverse reactions (Grades 2–4) and reported in >5% of subjects in the TYBOST group were jaundice (6%) and rash (5%).
 The proportion of subjects who discontinued study treatment due to adverse events, regardless of severity, was 11% in both the TYBOST and ritonavir groups.

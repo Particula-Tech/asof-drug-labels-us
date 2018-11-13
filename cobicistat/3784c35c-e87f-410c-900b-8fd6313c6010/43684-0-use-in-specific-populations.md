@@ -4,20 +4,45 @@
 
 Pregnancy Exposure Registry
 
-There is a pregnancy exposure registry that monitors fetal outcomes in women exposed to TYBOST during pregnancy.
-Healthcare providers are encouraged to register patients by calling the Antiretroviral Pregnancy Registry 1-800-258-4263.
+There is a pregnancy exposure registry that monitors fetal outcomes in individuals exposed to TYBOST during pregnancy.
+Healthcare providers are encouraged to register patients by calling the Antiretroviral Pregnancy Registry (APR) 1-800-258-4263.
 
 Risk Summary
 
-There are no data with TYBOST in pregnant women to inform a drug-associated risk.
-In animal reproduction studies in rats and rabbits, no evidence of fetal harm was observed with oral administration of cobicistat during organogenesis at doses that produced exposures up to 1.4 and 3.3 times, respectively, the maximal recommended human dose (MRHD) of 150 mg [see Data].
-Consider the benefits and risks of TYBOST when prescribing TYBOST to a pregnant woman.
+TYBOST coadministered with darunavir or atazanavir is not recommended during pregnancy [see Dosage and Administration (2.4)].
+In a clinical trial of individuals taking cobicistat coadministered with darunavir, exposures of cobicistat and darunavir were substantially lower during the second and third trimesters of pregnancy [see Data and Clinical Pharmacology (12.3)].
 
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
+TYBOST use during pregnancy has been evaluated in a limited number of individuals as reported by the APR, and available data show no difference in the rate of overall birth defects for cobicistat compared with the background rate for major defects of 2.7% in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) (see Data).
+The rate of miscarriage is not reported in the APR.
+The estimated background rate of miscarriage in clinically recognized pregnancies in the U.S. general population is 15–20%.
 
+In animal reproduction studies in rats and rabbits, no evidence of fetal harm was observed with oral administration of cobicistat during organogenesis at doses that produced exposures up to 1.4 and 3.3 times, respectively, the maximal recommended human dose (MRHD) of 150 mg (see Data).
 Because TYBOST is coadministered with atazanavir or darunavir and other antiretroviral drugs, also refer to the prescribing information of each drug for information about pregnancy.
 
 Data
+
+Human Data
+
+Cobicistat coadministered with darunavir as a fixed dose combination, in combination with a background regimen, was evaluated in a clinical trial of 7 pregnant individuals taking darunavir/cobicistat prior to enrollment and who were willing to remain on darunavir/cobicistat throughout the study.
+The study period included the second and third trimesters, and through 12 weeks postpartum.
+Six pregnant individuals completed the trial.
+
+Exposure to darunavir and cobicistat as part of an antiretroviral regimen was substantially lower during the second and third trimesters of pregnancy compared with postpartum [see Clinical Pharmacology (12.3)].
+
+One out of 6 individuals who completed the study experienced virologic failure with HIV-1 RNA >1,000 copies/mL from the third trimester visit through the postpartum period.
+Five individuals had sustained virologic response (HIV-1 RNA <50 copies/mL) throughout the study period.
+There are no clinical data on the virologic response when darunavir/cobicistat is initiated during pregnancy.
+
+There were no new clinically relevant safety findings compared with the known safety profile of darunavir/cobicistat in HIV-1-infected adults.
+
+The APR has received prospective reports of live births following exposure to cobicistat-containing regimens during pregnancy, including 204 exposures in the first trimester and 58 exposures in the second/third trimester.
+Birth defects occurred in 5 of 204 (2.5%, 95% CI: 0.8% to 5.6%) live births with first trimester exposure of cobicistat-containing regimens.
+Insufficient numbers of pregnancies with earliest exposure to cobicistat in the second/third trimesters have been reported to the APR to estimate the rate of birth defects in this population.
+Among pregnant mothers in the U.S. reference population, the background rate of birth defects is 2.7%.
+There was no association between cobicistat and overall birth defects observed in the APR.
+Prospective reports from the APR of overall major birth defects in pregnancies exposed to cobicistat are compared with a U.S. background major birth defect rate.
+Methodological limitations of the APR include the use of MACDP as the external comparator group.
+Limitations of using an external comparator include differences in methodology and populations, as well as confounding due to the underlying disease.
 
 Animal Data
 
@@ -40,6 +65,12 @@ Risk Summary
 
 There is no information regarding the presence of cobicistat in human milk, the effects on the breastfed infant, or the effects on milk production.
 The Centers for Disease Control and Prevention recommend that HIV-infected mothers not breastfeed their infants to avoid risking postnatal transmission of HIV.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Contraception
+
+TYBOST interacts with certain oral contraceptives [see Drug Interactions (7.3)].
 
 ## 8.4 Pediatric Use
 

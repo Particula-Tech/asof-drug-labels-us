@@ -13,12 +13,12 @@ Although TYBOST may cause modest increases in serum creatinine and modest declin
 
 ## 5.2 New Onset or Worsening Renal Impairment When Used with Tenofovir Disoproxil Fumarate
 
-Renal impairment, including cases of acute renal failure and Fanconi syndrome, has been reported when TYBOST was used in an antiretroviral regimen that contained tenofovir DF.
+Renal impairment, including cases of acute renal failure and Fanconi syndrome, has been reported when TYBOST was used in an antiretroviral regimen that contained TDF.
 
-- Coadministration of TYBOST and tenofovir DF is not recommended in patients who have an estimated creatinine clearance below 70 mL/min because dose adjustment of tenofovir DF is required below 50 mL/min and such dose adjustments have not been established for coadministration with TYBOST [see Dosage and Administration (2.2, 2.3)].
-- Document urine glucose and urine protein at baseline [see Dosage and Administration (2.2)] and perform routine monitoring of estimated creatinine clearance, urine glucose, and urine protein during treatment when TYBOST is used with tenofovir DF.
-  Measure serum phosphorus in patients with or at risk for renal impairment when used with tenofovir DF.
-- Coadministration of TYBOST and tenofovir DF in combination with concomitant or recent use of a nephrotoxic agent is not recommended.
+- Coadministration of TYBOST and TDF is not recommended in patients who have an estimated creatinine clearance below 70 mL/min because dose adjustment of TDF is required below 50 mL/min and such dose adjustments have not been established for coadministration with TYBOST [see Dosage and Administration (2.2, 2.3)].
+- Document urine glucose and urine protein at baseline [see Dosage and Administration (2.2)] and perform routine monitoring of estimated creatinine clearance, urine glucose, and urine protein during treatment when TYBOST is used with TDF.
+  Measure serum phosphorus in patients with or at risk for renal impairment when used with TDF.
+- Coadministration of TYBOST and TDF in combination with concomitant or recent use of a nephrotoxic agent is not recommended.
 
 In a clinical trial of TYBOST over 144 weeks (N=692), 10 (2.9%) subjects treated with TYBOST coadministered with atazanavir and TRUVADA® and 11 (3.2%) subjects treated with ritonavir coadministered with atazanavir and TRUVADA discontinued study drug due to a renal adverse event.
 Seven of the 10 subjects (2.0% overall) in the TYBOST group had laboratory findings consistent with proximal renal tubulopathy leading to study drug discontinuation compared to 7 of 11 subjects (2.0% overall) in the ritonavir group.

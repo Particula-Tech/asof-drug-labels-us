@@ -9,15 +9,17 @@ Advise patients to report to their healthcare provider the use of any other pres
 
 New Onset or Worsening Renal Impairment
 
-Inform patients that renal impairment, including cases of acute renal failure and Fanconi syndrome, has been reported when TYBOST is used in combination with a tenofovir DF containing regimen [see Warnings and Precautions (5.2)].
+Inform patients that renal impairment, including cases of acute renal failure and Fanconi syndrome, has been reported when TYBOST is used in combination with a TDF containing regimen [see Warnings and Precautions (5.2)].
 
-Pregnancy Registry
+Pregnancy
 
-Inform patients that there is a pregnancy exposure registry that monitors fetal outcomes in women exposed to TYBOST during pregnancy [see Use in Specific Populations (8.1)].
+Advise patients that TYBOST is not recommended during pregnancy and to alert their healthcare provider if they get pregnant while taking TYBOST [see Use in Specific Populations (8.1)].
+
+Inform patients that there is a pregnancy exposure registry that monitors fetal outcomes in pregnant individuals exposed to TYBOST during pregnancy [see Use in Specific Populations (8.1)].
 
 Lactation
 
-Instruct women with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in breast milk [see Use in Specific Populations (8.2)].
+Instruct mothers with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in breast milk [see Use in Specific Populations (8.2)].
 
 Dosing Instructions
 

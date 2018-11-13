@@ -75,18 +75,35 @@ With single dose administration of [14C] cobicistat after multiple dosing of cob
 
 Specific Populations
 
-Patients with Hepatic Impairment
+Race and Gender
 
-No clinically relevant differences in cobicistat pharmacokinetics were observed between subjects with moderate hepatic impairment (Child-Pugh Class B) and healthy subjects.
-The effect of severe hepatic impairment (Child-Pugh Class C) on the pharmacokinetics of cobicistat has not been studied [see Use in Specific Populations (8.7)].
+No clinically relevant differences in the pharmacokinetics of cobicistat were observed based on race or gender.
 
 Patients with Renal Impairment
 
 No clinically relevant differences in cobicistat pharmacokinetics were observed between subjects with severe renal impairment (estimated creatinine clearance below 30 mL/min) and healthy subjects [see Use in Specific Populations (8.6)].
 
-Race and Gender
+Patients with Hepatic Impairment
 
-No clinically relevant differences in the pharmacokinetics of cobicistat were observed based on race or gender.
+No clinically relevant differences in cobicistat pharmacokinetics were observed between subjects with moderate hepatic impairment (Child-Pugh Class B) and healthy subjects.
+The effect of severe hepatic impairment (Child-Pugh Class C) on the pharmacokinetics of cobicistat has not been studied [see Use in Specific Populations (8.7)].
+
+Pregnancy and Postpartum
+
+The exposure to total and unbound darunavir boosted with cobicistat after intake of darunavir/cobicistat as part of an antiretroviral regimen was substantially lower during the second and third trimesters of pregnancy compared with 6–12 weeks postpartum (see Table 8 and Figure 1).
+
+Table 8: Pharmacokinetic Results of Total Darunavir after Administration of Darunavir/Cobicistat Once Daily as Part of an Antiretroviral Regimen, During the 2nd Trimester of Pregnancy, the 3rd Trimester of Pregnancy, and Postpartum
+
+| Pharmacokinetics of total darunavir (mean ± SD) | 2nd Trimester of pregnancy N=7 | 3rd Trimester of pregnancy N=6 | Postpartum (6–12 weeks) N=6 |
+| --- | --- | --- | --- |
+| Cmax, ng/mL | 4,340 ± 1,616 | 4,910 ± 970 | 7,918 ± 2,199 |
+| AUC24h, ng.h/mL | 47,293 ± 19,058 | 47,991 ± 9,879 | 99,613 ± 34,862 |
+| Cmin, ng/mL | 168 ± 149 | 184 ± 99 | 1,538 ± 1,344 |
+
+Figure 1: Pharmacokinetic Results (Within-Subject Comparison) of Total and Unbound Darunavir and Total Cobicistat After Administration of Darunavir/Cobicistat at 800/150 mg Once Daily as Part of an Antiretroviral Regimen, During the 2nd and 3rd Trimester of Pregnancy Compared to Postpartum
+
+Legend: 90% CI: 90% confidence interval; GMR: geometric mean ratio (i.e. second or third trimester / postpartum).
+Solid vertical line: ratio of 1.0; dotted vertical lines: reference lines of 0.8 and 1.25.
 
 Assessment of Drug Interactions
 
@@ -94,12 +111,12 @@ Drug interaction trials were conducted with TYBOST (as a single entity) and desi
 Drug interaction trials of TYBOST coadministered with atazanavir or darunavir included atorvastatin, drospirenone/ethinyl estradiol, and rosuvastatin.
 Drug interaction trials of TYBOST coadministered with elvitegravir included rosuvastatin and rifabutin.
 
-The effects of cobicistat on the exposure of coadministered drugs are shown in Table 8.
+The effects of cobicistat on the exposure of coadministered drugs are shown in Table 9.
 
 Note: The information listed below is not a comprehensive list of all the available drug interaction data for concomitant medications with cobicistat containing regimens.
 Please refer to the U.S. prescribing information for antiretroviral medications administered in combination with cobicistat for additional drug interaction information.
 
-Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drugs in the Presence of CobicistatAll interaction studies conducted in healthy subjects.
+Table 9 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drugs in the Presence of CobicistatAll interaction studies conducted in healthy subjects.
 
 | Cmax | AUC |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -108,7 +125,7 @@ Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministe
 | 4.19Study conducted in the presence of 800 mg darunavir. (3.67, 4.78) | 3.90 (3.52, 4.32) |  |  |  |  |
 | Desipramine | 50 single dose | 150 once daily | 8 | 1.24 (1.08, 1.44) | 1.65 (1.36, 2.02) |
 | Digoxin | 0.5 single dose | 150 once daily | 22 | 1.41 (1.29, 1.55) | 1.08 (1.00, 1.17) |
-| Drospirenone/ethinyl estradiol | 3 drospirenone single dose | 150 once daily | 14 | 1.12 (1.05, 1.19) | 2.30 (2.00, 2.64) |
+| Drospirenone/ ethinyl estradiol | 3 drospirenone single dose | 150 once daily | 14 | 1.12 (1.05, 1.19) | 2.30 (2.00, 2.64) |
 | 0.02 ethinyl estradiol single dose | 0.82 (0.76, 0.89) | 0.78 (0.73, 0.85) |  |  |  |
 | 3 drospirenone single dose | 150 once daily | 15 | 1.15 (1.05, 1.26) | 1.58 (1.47, 1.71) |  |
 | 0.02 ethinyl estradiol single dose | 0.86 (0.77, 0.95) | 0.70 (0.63, 0.77) |  |  |  |
@@ -125,8 +142,8 @@ The antiviral activity in cell culture of selected HIV-1 antiretroviral drugs wa
 
 Resistance
 
-In an analysis of treatment-failure subjects who received TYBOST coadministered with atazanavir and TRUVADA in Study 114 through Week 144, evaluable genotypic data from paired baseline and treatment-failure isolates from subjects who had HIV-1 RNA greater than or equal to 400 copies/mL were available for all 21 virologic failures in the TYBOST group [6%, 21/344].
+In an analysis of treatment-failure subjects who received TYBOST coadministered with atazanavir and TRUVADA in Study 114 through Week 144, evaluable genotypic data from paired baseline and treatment-failure isolates from subjects who had HIV-1 RNA greater than or equal to 400 copies/mL were available for all 21 virologic failures in the TYBOST group (6%, 21/344).
 Among the 21 subjects, 3 developed the emtricitabine-associated resistance substitution M184V.
 No subject developed the tenofovir-associated resistance substitution K65R or K70E, or any primary resistance substitution associated with protease inhibitors.
-In the ritonavir group, evaluable genotypic data were available for all 19 virologic failures [5%, 19/348].
+In the ritonavir group, evaluable genotypic data were available for all 19 virologic failures (5%, 19/348).
 Among the 19 patients, 1 developed the emtricitabine-associated resistance substitution M184V with no tenofovir or protease inhibitor associated resistance substitutions.

@@ -13,8 +13,8 @@ The concomitant use of TYBOST with atazanavir or darunavir and the following dru
 - Ergot Derivatives: dihydroergotamine, ergotamine, methylergonovine
 - GI Motility Agent: cisapride
 - Herbal Products: St. John's wort (Hypericum perforatum)
-- HMG-CoA Reductase Inhibitors: lovastatin, simvastatin
 - Hormonal Contraceptives: drospirenone/ ethinyl estradiol
+- Lipid-modifying Agents: lomitapide, lovastatin, simvastatin
 - Non-nucleoside Reverse Transcriptase Inhibitor: nevirapine
 - Phosphodiesterase-5 (PDE-5) Inhibitor: sildenafil when administered as Revatio® for the treatment of pulmonary arterial hypertension
 - Protease Inhibitor: indinavir
