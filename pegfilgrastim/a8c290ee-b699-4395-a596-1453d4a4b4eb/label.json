@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA761039"
+  ],
+  "inn": "pegfilgrastim",
+  "labeler": "Coherus BioSciences Inc",
+  "package_ndcs": [
+    "70114-101-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "pegfilgrastim-cbqv",
+      "name": "UDENYCA"
+    }
+  ],
+  "setid": "a8c290ee-b699-4395-a596-1453d4a4b4eb",
+  "source": "dailymed"
+}
