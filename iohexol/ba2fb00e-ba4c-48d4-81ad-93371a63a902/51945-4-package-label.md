@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 300 mg Bottle Box Label
+# PRINCIPAL DISPLAY PANEL - 300 mL Bottle Box Label
 
 I538
 
@@ -8,24 +8,24 @@ NDC 0407-1413-48
 
 Omnipaque™ (iohexol) Injection
 
+300 mg Iodine/mL 500 mL
+
 NOVAPLUS®
 
 IMAGING BULK PACKAGE
 
-300 mg Iodine/mL
-
-500 mL
-
 For Intravenous Use Only
 
-For use only with an ulrich Transfer Set iodinated contrast media transfer set or other iodinated contrast media transfer set cleared for use with this contrast agent in this Imaging Bulk Package
+For use only with an automated contrast injection system, contrast management system or contrast media transfer set cleared for use with OMNIPAQUE Imaging Bulk Package.
 
-Sterile Aqueous Solution Not for Intrathecal Use
+Sterile Aqueous Solution
 
 See drug and device labeling for information on devices cleared for use with this Imaging Bulk Package.
+
 Each 1 mL contains 647.1 mg of iohexol (300 mg organically bound iodine), 1.21 mg tromethamine, and 0.1 mg edetate calcium disodium.
 The pH is adjusted between 6.8 and 7.7 with hydrochloric acid or sodium hydroxide.
 No preservative added.
+Not for Intrathecal Use.
 
 +PLUSPAK™ (polymer bottle)
 
@@ -47,9 +47,9 @@ Exp.: Lot:
 
 Qty.: 1
 
-1189905 USA NP
+1193031 USA NP
 
-# PRINCIPAL DISPLAY PANEL - 350 mg Bottle Box Label
+# PRINCIPAL DISPLAY PANEL - 350 mL Bottle Box Label
 
 I548
 
@@ -59,24 +59,24 @@ NDC 0407-1414-48
 
 Omnipaque™ (iohexol) Injection
 
+350 mg Iodine/mL 500 mL
+
 NOVAPLUS®
 
 IMAGING BULK PACKAGE
 
-350 mg Iodine/mL
-
-500 mL
-
 For Intravenous Use Only
 
-For use only with an ulrich Transfer Set iodinated contrast media transfer set or other iodinated contrast media transfer set cleared for use with this contrast agent in this Imaging Bulk Package
+For use only with an automated contrast injection system, contrast management system or contrast media transfer set cleared for use with OMNIPAQUE Imaging Bulk Package.
 
-Sterile Aqueous Solution Not for Intrathecal Use
+Sterile Aqueous Solution
 
 See drug and device labeling for information on devices cleared for use with this Imaging Bulk Package.
+
 Each 1 mL contains 755 mg of iohexol (350 mg organically bound iodine), 1.21 mg tromethamine, and 0.1 mg edetate calcium disodium.
 The pH is adjusted between 6.8 and 7.7 with hydrochloric acid or sodium hydroxide.
 No preservative added.
+Not for Intrathecal Use.
 
 +PLUSPAK™ (polymer bottle)
 
@@ -98,4 +98,4 @@ Exp.: Lot:
 
 Qty.: 1
 
-1189907 USA NP
+1193033 USA NP
