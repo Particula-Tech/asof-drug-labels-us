@@ -3,22 +3,22 @@
 Alora (Estradiol Transdermal System, USP) 0.025 mg/day.
 Each 9 cm2 system contains 0.77 mg of estradiol, USP for nominal delivery of 0.025 mg of estradiol per day when dosed in a twice weekly regimen.
 
-NDC 52544-884-08 Patient Calendar Box of 8 Systems
+NDC 0023-5885-12 Patient Calendar Box of 8 Systems
 
 Alora (Estradiol Transdermal System, USP) 0.05 mg/day.
 Each 18 cm2 system contains 1.5 mg of estradiol, USP for nominal delivery of 0.05 mg of estradiol per day when dosed in a twice weekly regimen.
 
-NDC 52544-471-08 Patient Calendar Box of 8 Systems
+NDC 0023-5886-15 Patient Calendar Box of 8 Systems
 
 Alora (Estradiol Transdermal System, USP) 0.075 mg/day.
 Each 27 cm2 system contains 2.3 mg of estradiol, USP for nominal delivery of 0.075 mg of estradiol per day when dosed in a twice weekly regimen.
 
-NDC 52544-472-08 Patient Calendar Box of 8 Systems
+NDC 0023-5887-17 Patient Calendar Box of 8 Systems
 
 Alora (Estradiol Transdermal System, USP) 0.1 mg/day.
 Each 36 cm2 system contains 3.1 mg of estradiol, USP for nominal delivery of 0.1 mg of estradiol per day when dosed in a twice weekly regimen.
 
-NDC 52544-473-08 Patient Calendar Box of 8 Systems
+NDC 0023-5888-11 Patient Calendar Box of 8 Systems
 
 Store at 20-25°C (68-77°F).
 [See USP controlled room temperature.]
@@ -30,20 +30,18 @@ Discard used Alora in household trash in a manner that prevents accidental appli
 
 Keep out of reach of children.
 
-For all medical inquiries contact:
+For all medical inquiries contact: Allergan Medical Communications 1-800-678-1605
 
-ACTAVIS
+Distributed by: Allergan USA, Inc.
 
-Medical Communications
+Madison, NJ 07940
 
-Parsippany, NJ 07054
+Rev.
+11/2018
 
-1-800-272-5525
+© 2018 Allergan.
+All rights reserved.
 
-Distributed By:
+ALORA® is a registered trademark of Allergan Sales, LLC.
 
-Actavis Pharma, Inc.
-
-Parsippany, NJ 07054 USA
-
-Content Updated: 11/2017
+V1.0USPI5885
