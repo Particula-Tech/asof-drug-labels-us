@@ -15,3 +15,5 @@ Prochlorperazine Suppositories, USP
 UNIT DOSE
 
 FOR RECTAL USE ONLY
+
+The following image is a placeholder representing the product identifier that is either affixed or imprinted on the drug package label during the packaging operation.
