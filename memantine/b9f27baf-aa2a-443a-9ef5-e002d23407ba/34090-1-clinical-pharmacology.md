@@ -2,9 +2,9 @@
 
 ## 12.1 Mechanism of Action
 
-Persistent activation of central nervous system N-methyl-D-aspartate (NMDA) receptors by the excitatory amino acid glutamate has been hypothesized to contribute to the symptomatology of Alzheimer's disease.
+Persistent activation of central nervous system N-methyl-D-aspartate (NMDA) receptors by the excitatory amino acid glutamate has been hypothesized to contribute to the symptomatology of Alzheimer’s disease.
 Memantine is postulated to exert its therapeutic effect through its action as a low to moderate affinity uncompetitive (open-channel) NMDA receptor antagonist which binds preferentially to the NMDA receptor-operated cation channels.
-There is no evidence that memantine prevents or slows neurodegeneration in patients with Alzheimer's disease.
+There is no evidence that memantine prevents or slows neurodegeneration in patients with Alzheimer’s disease.
 
 ## 12.2 Pharmacodynamics
 
@@ -50,7 +50,7 @@ The pharmacokinetics of NAMENDA in young and elderly subjects are similar.
 
 Renal Impairment
 
-Memantine pharmacokinetics were evaluated following single oral administration of 20 mg memantine HCl in 8 subjects with mild renal impairment (creatinine clearance, CLcr, >50 – 80 mL/min), 8 subjects with moderate renal impairment (CLcr 30 – 49 mL/min), 7 subjects with severe renal impairment (CLcr 5 – 29 mL/min) and 8 healthy subjects (CLcr > 80 mL/min) matched as closely as possible by age, weight and gender to the subjects with renal impairment.
+Memantine pharmacokinetics were evaluated following single oral administration of 20 mg memantine hydrochloride in 8 subjects with mild renal impairment (creatinine clearance, CLcr, > 50 – 80 mL/min), 8 subjects with moderate renal impairment (CLcr 30 – 49 mL/min), 7 subjects with severe renal impairment (CLcr 5 – 29 mL/min) and 8 healthy subjects (CLcr > 80 mL/min) matched as closely as possible by age, weight and gender to the subjects with renal impairment.
 Mean AUC0-∞ increased by 4%, 60%, and 115% in subjects with mild, moderate, and severe renal impairment, respectively, compared to healthy subjects.
 The terminal elimination half-life increased by 18%, 41%, and 95% in subjects with mild, moderate, and severe renal impairment, respectively, compared to healthy subjects.
 
@@ -69,9 +69,9 @@ Drug-Drug Interactions
 
 Use with Cholinesterase Inhibitors
 
-Coadministration of memantine with the AChE inhibitor donepezil HCl did not affect the pharmacokinetics of either compound.
+Coadministration of memantine with the AChE inhibitor donepezil hydrochloride did not affect the pharmacokinetics of either compound.
 Furthermore, memantine did not affect AChE inhibition by donepezil.
-In a 24-week controlled clinical study in patients with moderate to severe Alzheimer's disease, the adverse event profile observed with a combination of NAMENDA and donepezil was similar to that of donepezil alone.
+In a 24-week controlled clinical study in patients with moderate to severe Alzheimer’s disease, the adverse event profile observed with a combination of NAMENDA and donepezil was similar to that of donepezil alone.
 
 Effect of NAMENDA on the Metabolism of Other Drugs
 
@@ -80,7 +80,7 @@ In addition, in vitro studies indicate that at concentrations exceeding those as
 No pharmacokinetic interactions with drugs metabolized by these enzymes are expected.
 
 Pharmacokinetic studies evaluated the potential of memantine for interaction with warfarin, and buproprion.
-Memantine did not affect the pharmacokinetics of the CYP2B6 substrate buproprion or its metabolite hydroxybuproprion.
+Memantine did not affect the pharmacokinetics of the CYP2B6 substrate buproprion or its metabolite hydroxy-buproprion.
 Furthermore, memantine did not affect the pharmacokinetics or pharmacodynamics of warfarin as assessed by the prothrombin INR.
 
 Effect of Other Drugs on NAMENDA
@@ -91,7 +91,7 @@ Drugs Eliminated via Renal Mechanisms
 
 Because memantine is eliminated in part by tubular secretion, coadministration of drugs that use the same renal cationic system, including hydrochlorothiazide (HCTZ), triamterene (TA), metformin, cimetidine, ranitidine, quinidine, and nicotine, could potentially result in altered plasma levels of both agents.
 However, coadministration of NAMENDA and HCTZ/TA did not affect the bioavailability of either memantine or TA, and the bioavailability of HCTZ decreased by 20%.
-In addition, coadministration of memantine with the antihyperglycemic drug Glucovance® (glyburide and metformin HCl) did not affect the pharmacokinetics of memantine, metformin and glyburide.
+In addition, coadministration of memantine with the antihyperglycemic drug Glucovance® (glyburide and metformin hydrochloride) did not affect the pharmacokinetics of memantine, metformin and glyburide.
 Furthermore, memantine did not modify the serum glucose lowering effect of Glucovance®, indicating the absence of a pharmacodynamic interaction.
 
 Drugs Highly Bound to Plasma Proteins

@@ -1,10 +1,10 @@
 Patient Information
 
-NAMENDA (Nuh-MEN-dah)
+NAMENDA® (Nuh-MEN-dah)
 
 (memantine hydrochloride)
 
-Tablets and Oral Solution
+Tablets
 
 Read this Patient Information that comes with NAMENDA before you start taking it and each time you get a refill.
 There may be new information.
@@ -12,7 +12,7 @@ This information does not take the place of talking to your doctor about your me
 
 What is NAMENDA?
 
-NAMENDA is a prescription medicine used for the treatment of moderate to severe dementia in people with Alzheimer's disease.
+NAMENDA is a prescription medicine used for the treatment of moderate to severe dementia in people with Alzheimer’s disease.
 NAMENDA belongs to a class of medicines called NMDA (N-methyl-D-aspartate) inhibitors.
 
 It is not known if NAMENDA is safe and effective in children.
@@ -34,8 +34,8 @@ Before you take NAMENDA, tell your doctor if you:
 - are pregnant or plan to become pregnant.
   It is not known if NAMENDA will harm your unborn baby.
 - are breastfeeding or plan to breastfeed.
-  It is not known if NAMENDA passes into your breast milk.
-  You and your doctor should decide if you will take NAMENDA or breastfeed.
+  It is not known if memantine passes into your breast milk.
+  Talk to your doctor about the best way to feed your baby if you take NAMENDA.
 
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 
@@ -54,7 +54,6 @@ Keep a list of them to show your doctor and pharmacist when you get a new medici
 
 How should I take NAMENDA?
 
-- See the step-by-step instructions for taking NAMENDA Oral Solution at the end of this Patient Information.
 - Your doctor will tell you how much NAMENDA to take and when to take it.
 - Your doctor may change your dose if needed.
 - NAMENDA can be taken with food or without food.
@@ -87,19 +86,11 @@ How should I store NAMENDA?
 
 What are the ingredients in NAMENDA?
 
-NAMENDA tablets:
-
-Active ingredients: memantine hydrochloride
+NAMENDA tablets:Active ingredient: memantine hydrochloride
 
 Inactive ingredients: microcrystalline cellulose/colloidal silicon dioxide, talc, croscarmellose sodium, and magnesium stearate
 
 Inactive ingredients of tablet film coating: hypromellose, titanium dioxide, polyethylene glycol 400, FD&C yellow #6 and FD&C blue #2 (5 mg tablets), and hypromellose, titanium dioxide, macrogol/polyethylene glycol 400 and iron oxide black (10 mg tablets)
-
-NAMENDA oral solution:
-
-Active ingredients: memantine hydrochloride
-
-Inactive ingredients: sorbitol solution (70%), methyl paraben, propylparaben, propylene glycol, glycerin, natural peppermint flavor #104, citric acid, sodium citrate, and purified water
 
 Keep NAMENDA and all medicines out of the reach of children.
 
@@ -115,3 +106,22 @@ If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about NAMENDA that was written for healthcare professionals.
 
 For more information about NAMENDA, go to www.namenda.com, or call Allergan at 1-800-678-1605.
+
+This Patient Information has been approved by the U.S. Food and Drug Administration.
+
+Distributed by:
+
+Allergan USA, Inc.
+
+Madison, NJ 07940
+
+Licensed from Merz Pharmaceuticals GmbH
+
+NAMENDA® is a registered trademark of Merz Pharma GmbH & Co KGaA
+
+Allergan® and its design are trademarks of Allergan, Inc.
+
+© 2018 Allergan.
+All rights reserved.
+
+Content updated: November 2018

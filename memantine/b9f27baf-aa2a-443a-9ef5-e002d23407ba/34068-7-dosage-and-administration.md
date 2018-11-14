@@ -8,17 +8,14 @@ The dosage shown to be effective in controlled clinical trials is 20 mg/day.
 NAMENDA can be taken with or without food.
 If a patient misses a single dose of NAMENDA, that patient should not double up on the next dose.
 The next dose should be taken as scheduled.
+
 If a patient fails to take NAMENDA for several days, dosing may need to be resumed at lower doses and retitrated as described above.
 
-Do not mix NAMENDA oral solution with any other liquid.
-The oral solution is administered with a dosing device that comes with the drug and consists of a syringe, syringe adaptor cap, tubing and other supplies a patient needs to administer the drug.
-The supplied syringe should be used to withdraw the correct volume of oral solution and the oral solution should be slowly squirted into the corner of the patient's mouth.
-
-Special Populations
+Specific Populations
 
 Renal Impairment
 
-A target dose of 5 mg twice daily is recommended in patients with severe renal impairment (creatinine clearance of 5 – 29 mL/min based on the Cockroft-Gault equation).
+A target dose of 5 mg twice daily is recommended in patients with severe renal impairment (creatinine clearance of 5 – 29 mL/min based on the Cockcroft-Gault equation).
 
 Hepatic Impairment
 

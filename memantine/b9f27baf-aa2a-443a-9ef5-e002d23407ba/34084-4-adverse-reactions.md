@@ -2,7 +2,7 @@
 
 ## 6.1 Clinical Trials Experience
 
-NAMENDA was evaluated in eight double-blind placebo-controlled trials involving a total of 1862 dementia (Alzheimer's disease, vascular dementia) patients (940 patients treated with NAMENDA and 922 patients treated with placebo) for a treatment period up to 28 weeks.
+NAMENDA was evaluated in eight double-blind placebo-controlled trials involving a total of 1862 dementia (Alzheimer’s disease, vascular dementia) patients (940 patients treated with NAMENDA and 922 patients treated with placebo) for a treatment period up to 28 weeks.
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
@@ -41,7 +41,7 @@ Table 1: Adverse Reactions Reported in Controlled Clinical Trials in at Least 2%
 | Coughing | 3 | 4 |
 | Dyspnea | 1 | 2 |
 
-The overall profile of adverse reactions and the incidence rates for individual adverse reactions in the subpopulation of patients with moderate to severe Alzheimer's disease were not different from the profile and incidence rates described above for the overall dementia population.
+The overall profile of adverse reactions and the incidence rates for individual adverse reactions in the subpopulation of patients with moderate to severe Alzheimer’s disease were not different from the profile and incidence rates described above for the overall dementia population.
 
 Seizures
 
@@ -51,6 +51,7 @@ In clinical trials of NAMENDA, seizures occurred in 0.2% of patients treated wit
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of memantine.
+
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 These reactions include:
 
