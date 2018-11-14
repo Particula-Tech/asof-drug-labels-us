@@ -1,1 +1,25 @@
-PRINCIPAL DISPLAY PANEL NDC 0310-4600-12 Bevespi Aerosphere 9 mcg/4.8 mcg per inhalation 120 inhalations for oral inhalation only
+# PRINCIPAL DISPLAY PANEL
+
+NDC 0310-4600-12 BEVESPI
+
+AEROSPHERE™
+
+(glycopyrrolate and fomoterol
+
+fumarate) Inhalation Aerosol 9 mcg/4.8 mcg per inhalation
+
+For Oral inhalation only
+
+RX only
+
+Dispense with enclosed
+
+Medication Guide
+
+Shake inhaler well before using
+
+Inhalation Aerosol
+
+120 inhalations
+
+AstraZeneca
