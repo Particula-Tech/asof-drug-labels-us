@@ -192,6 +192,8 @@ Copyright © 2018 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
 MICARDIS® is a registered trademark of and used under license from Boehringer Ingelheim International GmbH.
 
+The other brands listed are trademarks of their owners.
+
 Revised: February 2018
 
-IT5825DB072018
+IT5825DB092018
