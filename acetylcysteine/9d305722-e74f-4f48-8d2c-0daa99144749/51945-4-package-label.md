@@ -11,3 +11,5 @@ Acetylcysteine Injection
 MUST BE FURTHER DILUTED PRIOR TO INTRAVENOUS USE
 
 4 X 30 mL Sterile Vials
+
+The following image is a placeholder representing the product identifier that is either affixed or imprinted on the drug package label during the packaging operation.
