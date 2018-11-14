@@ -32,12 +32,12 @@ Emtricitabine was not genotoxic in the reverse mutation bacterial test (Ames tes
 Emtricitabine did not affect fertility in male rats at approximately 140-fold or in male and female mice at approximately 60-fold higher exposures (AUC) than in humans given the recommended 200 mg daily dose.
 Fertility was normal in the offspring of mice exposed daily from before birth (in utero) through sexual maturity at daily exposures (AUC) of approximately 60-fold higher than human exposures at the recommended 200 mg daily dose.
 
-Tenofovir DF: Long-term oral carcinogenicity studies of tenofovir DF in mice and rats were carried out at exposures up to approximately 10 times (mice) and 4 times (rats) those observed in humans at the therapeutic dose for HIV-1 infection.
+Tenofovir DF: Long-term oral carcinogenicity studies of TDF in mice and rats were carried out at exposures up to approximately 10 times (mice) and 4 times (rats) those observed in humans at the therapeutic dose for HIV-1 infection.
 At the high dose in female mice, liver adenomas were increased at exposures 10 times of that in humans.
 In rats, the study was negative for carcinogenic findings at exposures up to 4 times that observed in humans at the therapeutic dose.
 
 Tenofovir DF was mutagenic in the in vitro mouse lymphoma assay and negative in an in vitro bacterial mutagenicity test (Ames test).
-In an in vivo mouse micronucleus assay, tenofovir DF was negative when administered to male mice.
+In an in vivo mouse micronucleus assay, TDF was negative when administered to male mice.
 
-There were no effects on fertility, mating performance or early embryonic development when tenofovir DF was administered to male rats at a dose equivalent to 10 times the human dose based on body-surface-area comparisons for 28 days prior to mating and to female rats for 15 days prior to mating through day seven of gestation.
+There were no effects on fertility, mating performance or early embryonic development when TDF was administered to male rats at a dose equivalent to 10 times the human dose based on body-surface-area comparisons for 28 days prior to mating and to female rats for 15 days prior to mating through day seven of gestation.
 There was, however, an alteration of the estrous cycle in female rats.

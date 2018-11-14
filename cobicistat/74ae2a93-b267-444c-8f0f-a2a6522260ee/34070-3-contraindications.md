@@ -10,6 +10,6 @@ These drugs and other contraindicated drugs (which may lead to reduced efficacy 
 - Ergot Derivatives: dihydroergotamine, ergotamine, methylergonovine
 - GI Motility Agent: cisapride
 - Herbal Products: St. John's wort (Hypericum perforatum)
-- HMG-CoA Reductase Inhibitors: lovastatin, simvastatin
+- Lipid-modifying Agents: lomitapide, lovastatin, simvastatin
 - Phosphodiesterase-5 (PDE-5) Inhibitor: sildenafil when administered as Revatio® for the treatment of pulmonary arterial hypertension
 - Sedative/hypnotics: triazolam, orally administered midazolam

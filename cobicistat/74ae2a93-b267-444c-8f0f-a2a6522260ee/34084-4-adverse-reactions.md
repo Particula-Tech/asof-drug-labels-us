@@ -58,7 +58,7 @@ The proportion of subjects who discontinued treatment with STRIBILD, the RTV-boo
 
 Clinical Trials of the Components of STRIBILD in Adult Subjects
 
-Emtricitabine and Tenofovir DF: In addition to the adverse reactions observed with STRIBILD, the following adverse reactions occurred in at least 5% of treatment-experienced or treatment-naïve subjects receiving emtricitabine or tenofovir DF with other antiretroviral agents in other clinical trials: depression, abdominal pain, dyspepsia, vomiting, fever, pain, nasopharyngitis, pneumonia, sinusitis, upper respiratory tract infection, arthralgia, back pain, myalgia, paresthesia, peripheral neuropathy (including peripheral neuritis and neuropathy), anxiety, increased cough, and rhinitis.
+Emtricitabine and TDF: In addition to the adverse reactions observed with STRIBILD, the following adverse reactions occurred in at least 5% of treatment-experienced or treatment-naïve subjects receiving emtricitabine or TDF with other antiretroviral agents in other clinical trials: depression, abdominal pain, dyspepsia, vomiting, fever, pain, nasopharyngitis, pneumonia, sinusitis, upper respiratory tract infection, arthralgia, back pain, myalgia, paresthesia, peripheral neuropathy (including peripheral neuritis and neuropathy), anxiety, increased cough, and rhinitis.
 
 Skin discoloration has been reported with higher frequency among emtricitabine-treated subjects; it was manifested by hyperpigmentation on the palms and/or soles and was generally mild and asymptomatic.
 The mechanism and clinical significance are unknown.
@@ -78,9 +78,9 @@ Table 2 Laboratory Abnormalities (Grades 3–4) Reported in ≥2% of Adult Subje
 | Urine RBC (Hematuria) (>75 RBC/HPF) | 4% | 2% | 4% |
 
 In Study 103, BMD was assessed by DEXA in a nonrandom subset of 120 subjects (STRIBILD group, N=54; ATV+RTV+TRUVADA group, N=66).
-Mean percentage decreases in BMD from baseline to Week 144 in the STRIBILD group were comparable to that in the ATV+RTV+TRUVADA group at the lumbar spine (–1.43% versus –3.68%, respectively) and at the hip (–2.83% versus –3.77%, respectively).
+Mean percentage decreases in BMD from baseline to Week 144 in the STRIBILD group were comparable to that in the ATV+RTV+TRUVADA group at the lumbar spine (−1.43% versus −3.68%, respectively) and at the hip (−2.83% versus −3.77%, respectively).
 In studies 102 and 103, bone fractures occurred in 27 subjects (3.9%) in the STRIBILD group, 8 subjects (2.3%) in the ATRIPLA group, and 19 subjects (5.4%) in the ATV+RTV+TRUVADA group.
-These findings were consistent with data from an earlier 144-week trial of treatment-naïve subjects receiving tenofovir DF + lamivudine + efavirenz.
+These findings were consistent with data from an earlier 144-week trial of treatment-naïve subjects receiving TDF + lamivudine + efavirenz.
 
 Proteinuria (all grades) occurred in 52% of subjects receiving STRIBILD, 41% of subjects receiving ATRIPLA, and 42% of subjects receiving ATV+RTV+TRUVADA.
 
@@ -93,10 +93,10 @@ Table 3 Change from Baseline in Serum Creatinine and eGFR and Incidence of Eleva
 |  | STRIBILD N=701 | ATRIPLA N=352 | ATV+RTV+TRUVADA N=355 |
 | --- | --- | --- | --- |
 | Serum Creatinine (mg/dL)Mean change ± standard deviation | 0.14 (±0.14) | 0.01 (±0.12) | 0.09 (±0.15) |
-| eGFR by Cockcroft-Gault (mL/minute) | –14.0 (±16.6) | –1.9 (±17.9) | –9.8 (±19.4) |
+| eGFR by Cockcroft-Gault (mL/minute) | −14.0 (±16.6) | −1.9 (±17.9) | −9.8 (±19.4) |
 | Subjects with Elevations in Serum Creatinine (All Grades) (%) | 12 | 2 | 6 |
 
-Emtricitabine or Tenofovir DF: In addition to the laboratory abnormalities observed with STRIBILD, the following laboratory abnormalities have been previously reported in subjects treated with emtricitabine or tenofovir DF with other antiretroviral agents in other clinical trials: Grade 3 or 4 laboratory abnormalities of ALT (M: greater than 215 U per L; F: greater than 170 U per L), alkaline phosphatase (greater than 550 U per L), bilirubin (greater than 2.5 × ULN), serum glucose (less than 40 or greater than 250 mg per dL), glycosuria (greater than or equal to 3+), neutrophils (less than 750 per mm3), fasting cholesterol (greater than 240 mg per dL), and fasting triglycerides (greater than 750 mg per dL).
+Emtricitabine or TDF: In addition to the laboratory abnormalities observed with STRIBILD, the following laboratory abnormalities have been previously reported in subjects treated with emtricitabine or TDF with other antiretroviral agents in other clinical trials: Grade 3 or 4 laboratory abnormalities of ALT (M: greater than 215 U per L; F: greater than 170 U per L), alkaline phosphatase (greater than 550 U per L), bilirubin (greater than 2.5 × ULN), serum glucose (less than 40 or greater than 250 mg per dL), glycosuria (greater than or equal to 3+), neutrophils (less than 750 per mm3), fasting cholesterol (greater than 240 mg per dL), and fasting triglycerides (greater than 750 mg per dL).
 
 Serum Lipids: In the clinical trials of STRIBILD, a similar percentage of subjects receiving STRIBILD, ATRIPLA, and ATV+RTV+TRUVADA were on lipid-lowering agents at baseline (12%, 12%, and 13%, respectively).
 While receiving study drug through Week 144, an additional 11% of STRIBILD subjects were started on lipid-lowering agents, compared to 13% of ATRIPLA and 12% of ATV+RTV+TRUVADA subjects.
@@ -116,19 +116,19 @@ Table 4 Lipid Values, Mean Change from Baseline at Week 144 in Adult Subjects Re
 
 Clinical Trials in Pediatric Subjects
 
-The safety of STRIBILD in 50 HIV-1 infected, treatment-naïve pediatric subjects aged 12 to less than 18 years and weighing at least 35 kg (77 lbs) was evaluated through 48 weeks in an open-label clinical trial (Study 112) [see Clinical Studies (14.4)].
+The safety of STRIBILD in 50 HIV-1 infected, treatment-naïve pediatric subjects aged 12 to less than 18 years and weighing at least 35 kg was evaluated through 48 weeks in an open-label clinical trial (Study 112) [see Clinical Studies (14.4)].
 In this study, the safety profile of STRIBILD was similar to that in adults.
 Twenty-two subjects (44%) had treatment-emergent proteinuria (Grades 1–2).
 One subject met laboratory criteria for proximal renal tubulopathy, evidenced by sustained proteinuria and normoglycemic glycosuria beginning at Week 32.
 The subject continued to receive STRIBILD and was ultimately lost to follow-up.
 
 Among the 50 pediatric subjects receiving STRIBILD for 48 weeks, mean BMD increased from baseline to Week 48, +0.68% at the lumbar spine and +0.77% for total body less head.
-Mean changes from baseline BMD Z-scores (height-age adjusted) to Week 48 were –0.09 for lumbar spine and –0.12 for total body less head.
+Mean changes from baseline BMD Z-scores (height-age adjusted) to Week 48 were −0.09 for lumbar spine and −0.12 for total body less head.
 At Week 48, 7 STRIBILD subjects had significant (greater than or equal to 4%) lumbar spine BMD loss and 2 had significant total body less head BMD loss.
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of tenofovir DF.
+The following adverse reactions have been identified during post-approval use of TDF.
 Because postmarketing reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 No additional postmarketing adverse reactions specific for emtricitabine have been identified.
 

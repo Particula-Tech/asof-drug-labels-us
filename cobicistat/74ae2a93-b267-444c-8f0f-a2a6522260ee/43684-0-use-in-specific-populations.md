@@ -9,32 +9,48 @@ Healthcare providers are encouraged to register patients by calling the Antiretr
 
 Risk Summary
 
-Prospective pregnancy data from the Antiviral Pregnancy Registry (APR) are not sufficient to adequately assess the risk of birth defects or miscarriage.
-However, elvitegravir, cobicistat, emtricitabine, and tenofovir DF use during pregnancy has been evaluated in a limited number of women as reported to the APR.
-Available data from the APR through January 2016 show no birth defects reported for elvitegravir or cobicistat, and no difference in the overall risk of major birth defects for emtricitabine or tenofovir DF compared with the background rate for major birth defects of 2.7% in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) [see Data].
+STRIBILD is not recommended during pregnancy [see Dosage and Administration (2.5)].
+A literature report evaluating the pharmacokinetics (PK) of antiretrovirals during pregnancy demonstrated substantially lower exposures of elvitegravir and cobicistat in the second and third trimesters (see Data).
 
-In animal studies, no adverse developmental effects were observed when the components of STRIBILD were administered separately during the period of organogenesis at exposures up to 23 and 0.2 times (rats and rabbits, respectively, elvitegravir), 1.8 and 4.3 times (rats and rabbits, respectively, cobicistat), and 60 and 120 times (mice and rabbits, respectively, emtricitabine) the exposure at the recommended daily dose of these components in STRIBILD, and at 14 and 19 times (rats and rabbits, respectively, tenofovir DF) the human dose based on body surface area comparisons [see Data].
-Likewise, no adverse developmental effects were seen when elvitegravir or cobicistat was administered to rats through lactation at exposures up to 18 times or 1.2 times, respectively, the exposure at the recommended daily therapeutic dose, and when emtricitabine was administered to mice through lactation at exposures up to approximately 60 times the exposure at the recommended daily therapeutic dose.
-No adverse effects were observed in the offspring of rats when tenofovir DF was administered through lactation at tenofovir exposures of approximately 2.7 times the exposure at the recommended daily dosage of STRIBILD.
-
-The background risk of major birth defects and miscarriage for the indicated population is unknown.
-All pregnancies have a background risk of birth defects, loss, or other adverse outcomes.
+Prospective pregnancy data from the APR are not sufficient to adequately assess the risk of birth defects or miscarriage.
+However, elvitegravir, cobicistat, emtricitabine, and TDF use during pregnancy have been evaluated in a limited number of individuals as reported to the APR.
+Available data from the APR show no increase in the overall risk of major birth defects for cobicistat, emtricitabine or TDF compared with the background rate for major birth defects of 2.7% in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP).
+The number of exposures to elvitegravir is insufficient to make a risk assessment compared to a reference population (see Data).
 The rate of miscarriage is not reported in the APR.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
+In the U.S. general population, the estimated background risk of miscarriage in clinically recognized pregnancies is 15–20%.
+
+In animal studies, no adverse developmental effects were observed when the components of STRIBILD were administered separately during the period of organogenesis at exposures up to 23 and 0.2 times (rats and rabbits, respectively, elvitegravir), 1.8 and 4.3 times (rats and rabbits, respectively, cobicistat), and 60 and 120 times (mice and rabbits, respectively, emtricitabine) the exposure at the recommended daily dose of these components in STRIBILD, and at 14 and 19 times (rats and rabbits, respectively, TDF) the human dose based on body surface area comparisons [see Data].
+Likewise, no adverse developmental effects were seen when elvitegravir or cobicistat was administered to rats through lactation at exposures up to 18 times or 1.2 times, respectively, the exposure at the recommended daily therapeutic dose, and when emtricitabine was administered to mice through lactation at exposures up to approximately 60 times the exposure at the recommended daily therapeutic dose.
+No adverse effects were observed in the offspring of rats when TDF was administered through lactation at tenofovir exposures of approximately 2.7 times the exposure at the recommended daily dosage of STRIBILD.
 
 Data
 
 Human Data
 
-Elvitegravir: Based on prospective reports from the APR through January 2016 of 73 exposures to elvitegravir-containing regimens during pregnancy resulting in live births (including 51 exposed in the first trimester), there have been no birth defects reported.
+A prospective study, reported in the literature, enrolled 30 pregnant women living with HIV who were receiving elvitegravir and cobicistat-based regimens in the second or third trimesters of pregnancy and through 6 to 12 weeks postpartum to evaluate the pharmacokinetics (PK) of antiretrovirals during pregnancy.
+Twenty-eight women completed the study through the postpartum period.
+Paired pregnancy/postpartum PK data were available from 14 and 24 women for the second and third trimesters, respectively.
+Exposures of elvitegravir and cobicistat were substantially lower during the second and third trimesters compared to postpartum.
+The proportion of pregnant women who were virologically suppressed was 77% in the second trimester, 92% in the third trimester, and 76% postpartum.
+No correlation was observed between viral suppression and elvitegravir exposure.
+HIV status was also assessed for infants: 25 were uninfected, 2 had indeterminate status, and no information was available for 3 infants.
 
-Cobicistat: Based on prospective reports from the APR through January 2016 of 77 exposures to cobicistat-containing regimens during pregnancy resulting in live births (including 54 exposed in the first trimester), there have been no birth defects reported.
+Prospective reports from the APR of overall major birth defects in pregnancies exposed to the components of STRIBILD are compared with a U.S. background major birth defect rate.
+Methodological limitations of the APR include the use of MACDP as the external comparator group.
+Limitations of using an external comparator include differences in methodology and populations, as well as confounding due to the underlying disease.
 
-Emtricitabine: Based on prospective reports to the APR through January 2016 of 3155 exposures to emtricitabine-containing regimens during pregnancy resulting in live births (including 2145 exposed in the first trimester and 1010 exposed in the second/third trimester), there was no difference between emtricitabine and overall birth defects compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
-The prevalence of birth defects in live births was 2.2% (95% CI: 1.6% to 3.0%) with first trimester exposure to emtricitabine-containing regimens and 2.1% (95% CI: 1.3% to 3.2%) with the second/third trimester exposure to emtricitabine-containing regimens.
+Elvitegravir: The APR has received prospective reports of 5 birth defects among 180 first trimester exposures to elvitegravir-containing regimens during pregnancy resulting in live births.
+No birth defects were reported among 52 exposures during the second/third trimester.
+The number of exposures is insufficient to make a risk assessment compared to a reference population.
 
-Tenofovir DF: Based on prospective reports from the APR through January 2016 of 4100 exposures to tenofovir DF-containing regimens during pregnancy resulting in live births (including 2779 exposed in the first trimester and 1321 exposed in the second/third trimester), there was no difference between tenofovir DF and overall birth defects compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
-The prevalence of birth defects in live births was 2.2% (95% CI: 1.7% to 2.8%) with first trimester exposure, and 2.0% (95% CI: 1.3% to 3.0%) with the second/third trimester exposure to tenofovir DF-containing regimens.
+Cobicistat: Based on prospective reports to the APR of 204 first trimester exposures to cobicistat-containing regimens during pregnancy, there was no increase in overall major birth defects with cobicistat compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
+The prevalence of birth defects in live births was 2.5% (95% CI: 0.8% to 5.6%) with first trimester exposure to cobicistat-containing regimens; the 58 second/third trimester cobicistat exposures reported to the APR are insufficient to make a risk assessment.
+
+Emtricitabine: Based on prospective reports to the APR of exposures to emtricitabine-containing regimens during pregnancy resulting in live births (including over 2,700 exposed in the first trimester and over 1,200 exposed in the second/third trimester), there was no increase in overall major birth defects with emtricitabine compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
+The prevalence of birth defects in live births was 2.4% (95% CI: 1.9% to 3.1%) with first trimester exposure to emtricitabine-containing regimens and 2.3% (95% CI: 1.5% to 3.3%) with second/third trimester exposure to emtricitabine-containing regimens.
+
+Tenofovir DF: Based on prospective reports to the APR of exposures to TDF-containing regimens during pregnancy resulting in live births (including over 3,500 exposed in the first trimester and over 1,500 exposed in the second/third trimester), there was no increase in overall major birth defects with TDF compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
+The prevalence of birth defects in live births was 2.3% (95% CI: 1.8% to 2.9%) with first trimester exposure, and 2.2% (95% CI: 1.6% to 3.1%) with the second/third trimester exposure to TDF-containing regimens.
 
 Animal Data
 
@@ -61,8 +77,8 @@ No significant toxicological effects were observed in embryo-fetal toxicity stud
 In a pre/postnatal development study in mice, emtricitabine was administered orally at doses up to 1000 mg/kg/day; no significant adverse effects directly related to drug were observed in the offspring exposed daily from before birth (in utero) through sexual maturity at daily exposures (AUC) of approximately 60 times higher than human exposures at the recommended daily dose.
 
 Tenofovir DF: Tenofovir DF was administered orally to pregnant rats (at 0, 50, 150, or 450 mg/kg/day) and rabbits (at 0, 30, 100, or 300 mg/kg/day) through organogenesis (on gestation days 7 through 17, and 6 through 18, respectively).
-No significant toxicological effects were observed in embryo-fetal toxicity studies performed with tenofovir DF in rats at doses up to 14 times the human dose based on body surface area comparisons and in rabbits at doses up to 19 times the human dose based on body surface area comparisons.
-In a pre/postnatal development study in rats, tenofovir DF was administered orally through lactation at doses up to 600 mg/kg/day; no adverse effects were observed in the offspring at tenofovir exposures of approximately 2.7 times higher than human exposures at the recommended daily dose of STRIBILD.
+No significant toxicological effects were observed in embryo-fetal toxicity studies performed with TDF in rats at doses up to 14 times the human dose based on body surface area comparisons and in rabbits at doses up to 19 times the human dose based on body surface area comparisons.
+In a pre/postnatal development study in rats, TDF was administered orally through lactation at doses up to 600 mg/kg/day; no adverse effects were observed in the offspring at tenofovir exposures of approximately 2.7 times higher than human exposures at the recommended daily dose of STRIBILD.
 
 ## 8.2 Lactation
 
@@ -71,10 +87,10 @@ Risk Summary
 The Centers for Disease Control and Prevention recommend that HIV-infected mothers not breastfeed their infants to avoid risking postnatal transmission of HIV.
 
 Based on limited published data, emtricitabine and tenofovir have been shown to be present in human breast milk.
-It is not known whether elvitegravir or cobicistat are present in human breast milk, while elvitegravir and cobicistat have been shown to be present in rat milk [see Data].
+It is not known whether elvitegravir or cobicistat are present in human breast milk, while elvitegravir and cobicistat have been shown to be present in rat milk (see Data).
 
 It is not known if the components of STRIBILD affect milk production or have effects on the breastfed child.
-Because of the potential for: (1) HIV transmission (in HIV-negative infants); (2) developing viral resistance (in HIV-positive infants); and (3) adverse reactions in a breastfed infant similar to those seen in adults, instruct mothers not to breastfeed if they are receiving STRIBILD [see Data].
+Because of the potential for: (1) HIV transmission (in HIV-negative infants); (2) developing viral resistance (in HIV-positive infants); and (3) adverse reactions in a breastfed infant similar to those seen in adults, instruct mothers not to breastfeed if they are receiving STRIBILD (see Data).
 
 Animal Data
 
@@ -84,10 +100,10 @@ Cobicistat: During the prenatal and postnatal developmental toxicology study at 
 
 ## 8.4 Pediatric Use
 
-The pharmacokinetics, safety, and virologic and immunologic responses were evaluated in 50 treatment-naïve, HIV-1 infected subjects aged 12 to less than 18 years weighing at least 35 kg (77 lbs) receiving STRIBILD through 48 weeks in an open-label trial (Study 112).
+The pharmacokinetics, safety, and virologic and immunologic responses were evaluated in 50 treatment-naïve, HIV-1 infected subjects aged 12 to less than 18 years weighing at least 35 kg receiving STRIBILD through 48 weeks in an open-label trial (Study 112).
 The safety and efficacy of STRIBILD in these subjects was similar to that in antiretroviral treatment-naïve adults [see Dosage and Administration (2.2), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.4)].
 
-Safety and effectiveness of STRIBILD in pediatric patients less than 12 years of age or weighing less than 35 kg (77 lbs) have not been established.
+Safety and effectiveness of STRIBILD in pediatric patients less than 12 years of age or weighing less than 35 kg have not been established.
 
 ## 8.5 Geriatric Use
 
@@ -97,14 +113,14 @@ In general, caution should be exercised in the administration of STRIBILD in eld
 ## 8.6 Renal Impairment
 
 Initiation of STRIBILD in patients with estimated creatinine clearance below 70 mL per min is not recommended.
-Because STRIBILD is a fixed-dose combination tablet, STRIBILD should be discontinued if estimated creatinine clearance declines below 50 mL per minute during treatment with STRIBILD as dose interval adjustment required for emtricitabine and tenofovir DF cannot be achieved [see Warnings and Precautions (5.2), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14)].
+Because STRIBILD is a fixed-dose combination tablet, STRIBILD should be discontinued if estimated creatinine clearance declines below 50 mL per minute during treatment with STRIBILD as dose interval adjustment required for emtricitabine and TDF cannot be achieved [see Warnings and Precautions (5.2), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14)].
 
 No data are available to make dose recommendations for pediatric patients with renal impairment.
 
 Clinical Trials in Adult Subjects with Mild to Moderate Renal Impairment
 
 In Study 118, 33 HIV-1 infected treatment-naïve subjects with mild to moderate renal impairment (eGFR by Cockcroft-Gault method between 50 and 89 mL/minute) were studied in an open-label clinical trial evaluating the safety of 48 weeks of treatment with STRIBILD.
-After 48 weeks of treatment, the mean change in serum creatinine was 0.17 ± 0.14 mg/dL and the mean change in eGFR by Cockcroft-Gault method was –6.9 ± 9.0 mL/minute for subjects treated with STRIBILD.
+After 48 weeks of treatment, the mean change in serum creatinine was 0.17 ± 0.14 mg/dL and the mean change in eGFR by Cockcroft-Gault method was −6.9 ± 9.0 mL/minute for subjects treated with STRIBILD.
 
 Twelve of the 33 subjects studied had baseline eGFR between 50 and 70 mL/minute.
 Three subjects, all with baseline eGFR between 50–60 mL/minute, discontinued STRIBILD due to a renal adverse event.

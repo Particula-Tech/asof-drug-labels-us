@@ -2,15 +2,15 @@
 
 ## 2.1 Testing Prior to Initiation and During Treatment with STRIBILD
 
-Prior to initiation of STRIBILD, patients should be tested for hepatitis B virus infection [see Warnings and Precautions (5.1)].
+Prior to initiation of STRIBILD, test patients for hepatitis B virus infection [see Warnings and Precautions (5.1)].
 
 Prior to initiation and during use of STRIBILD, on a clinically appropriate schedule, assess serum creatinine, estimated creatinine clearance, urine glucose, and urine protein in all patients.
 In patients with chronic kidney disease, also assess serum phosphorus [see Warnings and Precautions (5.2)].
 
 ## 2.2 Recommended Dosage
 
-STRIBILD is a four-drug fixed dose combination product containing 150 mg of elvitegravir, 150 mg of cobicistat, 200 mg of emtricitabine, and 300 mg of tenofovir DF.
-The recommended dosage of STRIBILD is one tablet taken orally once daily with food in adults and pediatric patients 12 years of age and older with a body weight at least 35 kg (at least 77 lbs) and creatinine clearance greater than or equal to 70 mL per minute [see Clinical Pharmacology (12.3)].
+STRIBILD is a four-drug fixed dose combination product containing 150 mg of elvitegravir, 150 mg of cobicistat, 200 mg of emtricitabine, and 300 mg of TDF.
+The recommended dosage of STRIBILD is one tablet taken orally once daily with food in adults and pediatric patients 12 years of age and older with a body weight at least 35 kg and creatinine clearance greater than or equal to 70 mL per minute [see Clinical Pharmacology (12.3)].
 
 ## 2.3 Dosage Adjustment in Patients with Renal Impairment
 
@@ -19,6 +19,13 @@ Because STRIBILD is a fixed-dose combination tablet, STRIBILD should be disconti
 
 No data are available to make dose recommendations for pediatric patients with renal impairment.
 
-## 2.4 Dosage in Patients with Hepatic Impairment
+## 2.4 Not Recommended in Patients with Severe Hepatic Impairment
 
 STRIBILD is not recommended for use in patients with severe hepatic impairment [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
+
+## 2.5 Not Recommended During Pregnancy
+
+STRIBILD is not recommended for use during pregnancy because of substantially lower exposures of cobicistat and elvitegravir during the second and third trimesters [see Use in Specific Populations (8.1)].
+
+STRIBILD should not be initiated in pregnant individuals.
+An alternative regimen is recommended for individuals who become pregnant during therapy with STRIBILD [see Use in Specific Populations (8.1)].

@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 
 Severe Acute Exacerbation of Hepatitis B in Patients Coinfected with HIV-1 and HBV
 
-Inform patients that severe acute exacerbations of hepatitis B have been reported in patients who are coinfected with HBV and HIV-1 and have discontinued emtricitabine or tenofovir DF [see Warnings and Precautions (5.1)].
+Inform patients that severe acute exacerbations of hepatitis B have been reported in patients who are coinfected with HBV and HIV-1 and have discontinued emtricitabine or TDF [see Warnings and Precautions (5.1)].
 
 New Onset or Worsening Renal Impairment
 
@@ -35,10 +35,11 @@ Missed Dosage
 
 Inform patients that it is important to take STRIBILD on a regular dosing schedule with food and to avoid missing doses as it can result in development of resistance [see Dosage and Administration (2.2)].
 
-Pregnancy Registry
+Pregnancy
 
-Inform patients that there is an antiretroviral pregnancy registry to monitor fetal outcomes of pregnant women exposed to STRIBILD [see Use in Specific Populations (8.1)].
+Advise patients that STRIBILD is not recommended during pregnancy and to alert their healthcare provider if they become pregnant while taking STRIBILD [see Dosage and Administration (2.5) and Use in Specific Populations (8.1)].
+Inform patients that there is an antiretroviral pregnancy registry to monitor fetal outcomes of pregnant individuals exposed to STRIBILD [see Use in Specific Populations (8.1)].
 
 Lactation
 
-Instruct women with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in breast milk [see Use in Specific Populations (8.2)].
+Instruct mothers with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in breast milk [see Use in Specific Populations (8.2)].

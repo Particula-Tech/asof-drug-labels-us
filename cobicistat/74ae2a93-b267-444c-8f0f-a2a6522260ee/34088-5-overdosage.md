@@ -25,7 +25,7 @@ Hemodialysis treatment removes approximately 30% of the emtricitabine dose over 
 It is not known whether emtricitabine can be removed by peritoneal dialysis.
 
 Tenofovir DF: Limited clinical experience at doses higher than the therapeutic dose of VIREAD® 300 mg is available.
-In one study, 600 mg tenofovir DF (2 times the dosage in STRIBILD) was administered to 8 subjects orally for 28 days and no severe adverse reactions were reported.
+In one study, 600 mg TDF (2 times the dosage in STRIBILD) was administered to 8 subjects orally for 28 days and no severe adverse reactions were reported.
 The effects of higher doses are not known.
 Tenofovir is efficiently removed by hemodialysis with an extraction coefficient of approximately 54%.
 Following a single 300 mg dose of VIREAD, a 4-hour hemodialysis session removed approximately 10% of the administered tenofovir dose.

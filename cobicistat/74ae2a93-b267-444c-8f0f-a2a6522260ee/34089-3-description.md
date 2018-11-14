@@ -1,15 +1,15 @@
 # 11 DESCRIPTION
 
-STRIBILD is a fixed-dose combination tablet containing elvitegravir, cobicistat, emtricitabine, and tenofovir DF for oral administration.
+STRIBILD is a fixed-dose combination tablet containing elvitegravir, cobicistat, emtricitabine, and TDF for oral administration.
 
 - Elvitegravir is an HIV-1 integrase strand transfer inhibitor.
 - Cobicistat is a mechanism-based inhibitor of cytochrome P450 (CYP) enzymes of the CYP3A family.
 - Emtricitabine is a synthetic nucleoside analog of cytidine.
   EMTRIVA is the brand name for emtricitabine.
 - Tenofovir DF is converted in vivo to tenofovir, an acyclic nucleoside phosphonate (nucleotide) analog of adenosine 5'-monophosphate.
-  VIREAD is the brand name for tenofovir DF.
+  VIREAD is the brand name for TDF.
 
-Each tablet contains 150 mg of elvitegravir, 150 mg of cobicistat, 200 mg of emtricitabine, and 300 mg of tenofovir DF (equivalent to 245 mg of tenofovir disoproxil).
+Each tablet contains 150 mg of elvitegravir, 150 mg of cobicistat, 200 mg of emtricitabine, and 300 mg of TDF (equivalent to 245 mg of tenofovir disoproxil).
 The tablets include the following inactive ingredients: lactose monohydrate, microcrystalline cellulose, silicon dioxide, croscarmellose sodium, hydroxypropyl cellulose, sodium lauryl sulfate, and magnesium stearate.
 The tablets are film coated with a coating material containing indigo carmine (FD&C Blue #2) aluminum lake, polyethylene glycol, polyvinyl alcohol, talc, titanium dioxide, and yellow iron oxide.
 
@@ -37,9 +37,9 @@ It has the following structural formula:
 Emtricitabine is a white to off-white crystalline powder with a solubility of approximately 112 mg per mL in water at 25 °C.
 
 Tenofovir DF: Tenofovir DF is a fumaric acid salt of the bis-isopropoxycarbonyloxymethyl ester derivative of tenofovir.
-The chemical name of tenofovir DF is 9-[(R)-2-[[bis[[(isopropoxycarbonyl)oxy]-methoxy]phosphinyl]methoxy]propyl]adenine fumarate (1:1).
+The chemical name of TDF is 9-[(R)-2-[[bis[[(isopropoxycarbonyl)oxy]-methoxy]phosphinyl]methoxy]propyl]adenine fumarate (1:1).
 It has a molecular formula of C19H30N5O10P ∙ C4H4O4 and a molecular weight of 635.51.
 It has the following structural formula:
 
 Tenofovir DF is a white to off-white crystalline powder with a solubility of 13.4 mg per mL in water at 25 °C.
-All dosages are expressed in terms of tenofovir DF except where otherwise noted.
+All dosages are expressed in terms of TDF except where otherwise noted.
