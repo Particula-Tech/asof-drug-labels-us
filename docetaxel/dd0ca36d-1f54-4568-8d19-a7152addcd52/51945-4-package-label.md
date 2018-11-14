@@ -1,14 +1,12 @@
 # PRINCIPAL DISPLAY PANEL - 4 mL Vial Carton
 
-Winthrop
+Winthrop A SANOFI COMPANY
 
 NDC 0955-1021-04
 
 Docetaxel Injection Concentrate
 
-80 mg/4 mL
-
-(20 mg/mL)
+80 mg/4 mL (20 mg/mL)
 
 READY TO ADD TO INFUSION SOLUTION For Intravenous Infusion Only
 
@@ -18,11 +16,9 @@ Rx ONLY
 
 SANOFI
 
-Pull to remove leaflet
-
 # PRINCIPAL DISPLAY PANEL - 1 mL Vial Carton
 
-Winthrop
+Winthrop A SANOFI COMPANY
 
 NDC 0955-1020-01
 
@@ -38,11 +34,9 @@ Rx ONLY
 
 SANOFI
 
-Pull to remove leaflet
-
 # PRINCIPAL DISPLAY PANEL - 8 mL Vial Carton
 
-Winthrop
+Winthrop A SANOFI COMPANY
 
 NDC 0955-1022-08
 
@@ -57,5 +51,3 @@ Contains 8 mL
 Rx ONLY
 
 SANOFI
-
-Pull to remove leaflet

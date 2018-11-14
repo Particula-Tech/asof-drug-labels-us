@@ -1,26 +1,29 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 ## 16.1 How Supplied
 
-One-vial Docetaxel (Injection Concentrate)
+One-vial Docetaxel (Injection)
 
-Docetaxel Injection Concentrate is supplied in a single use vial as a sterile, pyrogen-free, non-aqueous solution.
+Docetaxel Injection is supplied in a single use vial as a sterile, pyrogen-free, non-aqueous solution.
 
-Docetaxel 20 mg/mL (NDC 0955-1020-01)
+| Docetaxel 20 mg/mL | (NDC 0955-1020-01) |
+| --- | --- |
 
-Docetaxel Injection Concentrate 20 mg/1 mL: 20 mg docetaxel in 1 mL in 50/50 (v/v) ratio polysorbate 80/dehydrated alcohol.
-
-The vial is in a blister pack in one carton.
-
-Docetaxel 80 mg/4 mL (NDC 0955-1021-04)
-
-Docetaxel Injection Concentrate 80 mg/4 mL: 80 mg docetaxel in 4 mL 50/50 (v/v) ratio polysorbate 80/dehydrated alcohol.
+Docetaxel Injection 20 mg/1 mL: 20 mg docetaxel in 1 mL in 50/50 (v/v) ratio polysorbate 80/dehydrated alcohol.
 
 The vial is in a blister pack in one carton.
 
-Docetaxel 160 mg/8 mL (NDC 0955-1022-08)
+| Docetaxel 80 mg/4 mL | (NDC 0955-1021-04) |
+| --- | --- |
 
-Docetaxel Injection Concentrate 160 mg/8 mL: 160 mg docetaxel in 8 mL 50/50 (v/v) ratio polysorbate 80/dehydrated alcohol.
+Docetaxel Injection 80 mg/4 mL: 80 mg docetaxel in 4 mL 50/50 (v/v) ratio polysorbate 80/dehydrated alcohol.
+
+The vial is in a blister pack in one carton.
+
+| Docetaxel 160 mg/8 mL | (NDC 0955-1022-08) |
+| --- | --- |
+
+Docetaxel Injection 160 mg/8 mL: 160 mg docetaxel in 8 mL 50/50 (v/v) ratio polysorbate 80/dehydrated alcohol.
 
 The vial is in a blister pack in one carton.
 
