@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA210833"
+  ],
+  "inn": "clobazam",
+  "labeler": "Aquestive Therapeutics",
+  "package_ndcs": [
+    "10094-205-01",
+    "10094-205-60",
+    "10094-210-01",
+    "10094-210-60",
+    "10094-220-01",
+    "10094-220-60"
+  ],
+  "products": [
+    {
+      "form": "FILM",
+      "generic": "clobazam",
+      "name": "SYMPAZAN"
+    }
+  ],
+  "setid": "5e3d8fcb-aa7d-4822-88fc-4f06264c3242",
+  "source": "dailymed"
+}
