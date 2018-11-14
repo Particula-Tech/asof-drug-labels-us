@@ -41,7 +41,7 @@ Table 1: Most Frequently Observed Adverse Reactions (Greater Than or Equal To 5%
 | Febrile neutropenia | 36 (16) | 4 (4) |
 | Leukopenia | 106 (48) | 27 (29) |
 | Neutropenia | 71 (32) | 10 (11) |
-| Thrombocytopenia | 144 (70) | 42 (46) |
+| Thrombocytopenia | 144 (66) | 42 (46) |
 | Gastrointestinal disorders |  |  |
 | Abdominal tenderness | 26 (12) | 1 (1) |
 | Constipation | 74 (34) | 6 (7) |
@@ -84,7 +84,7 @@ Table 1: Most Frequently Observed Adverse Reactions (Greater Than or Equal To 5%
 | Anxiety | 29 (13) | 3 (3) |
 | Insomnia | 24 (11) | 4 (4) |
 | Respiratory, thoracic and mediastinal disorders |  |  |
-| Dyspnea | 64 (30) | 11 (12) |
+| Dyspnea | 64 (29) | 11 (12) |
 | Skin and subcutaneous tissue disorders |  |  |
 | Dry skin | 11 (5) | 1 (1) |
 | Ecchymosis | 67 (31) | 14 (15) |

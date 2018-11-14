@@ -67,11 +67,12 @@ The resulting suspension will contain azacitidine 25 mg/mL.
 Do not filter the suspension after reconstitution.
 Doing so could remove the active substance.
 
-Preparation for Immediate Subcutaneous Administration: Doses greater than 4 mL should be divided equally into 2 syringes.
+Preparation for Immediate Subcutaneous Administration: For doses requiring more than 1 vial, divide the dose equally between the syringes (e.g., dose 150mg = 6 mL, 2 syringes with 3 mL in each syringe) and inject into two separate sites.
+Due to retention in the vial and needle, it may not be feasible to withdraw all of the suspension from the vial.
 The product may be held at room temperature for up to 1 hour, but must be administered within 1 hour after reconstitution.
 
-Preparation for Delayed Subcutaneous Administration: The reconstituted product may be kept in the vial or drawn into a syringe.
-Doses greater than 4 mL should be divided equally into 2 syringes.
+Preparation for Delayed Subcutaneous Administration: The reconstituted product may be kept in the vial or drawn into a syringe.For doses requiring more than 1 vial, divide the dose equally between the syringes (e.g., dose 150mg = 6 mL, 2 syringes with 3 mL in each syringe) and inject into two separate sites.
+Due to retention in the vial and needle, it may not be feasible to withdraw all of the suspension from the vial.
 The product must be refrigerated immediately.
 When Azacitidine for Injection is reconstituted using water for injection that has not been refrigerated, the reconstituted product may be held under refrigerated conditions (2°C to 8°C, 36°F to 46°F) for up to 12 hours.
 When Azacitidine for Injection is reconstituted using refrigerated (2°C to 8°C, 36°F to 46°F) water for injection, the reconstituted product may be stored under refrigerated conditions (2°C to 8°C, 36°F to 46°F) for up to 30 hours.

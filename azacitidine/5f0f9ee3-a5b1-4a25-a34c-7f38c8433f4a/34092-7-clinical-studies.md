@@ -59,10 +59,9 @@ Response Criteria
 |  |  | RA | RARS | RAEB | RAEB-T | CMMoL |
 | --- | --- | --- | --- | --- | --- | --- |
 | Complete Response (CR), duration ≥4 weeks | Marrow | <5% blasts |  |  |  |  |
-| Blood | Normal CBC if abnormal at baseline Absence of blasts in the peripheral circulation |  |  |  |  |  |
+| Peripheral Blood | Normal CBC if abnormal at baseline Absence of blasts in the peripheral circulation |  |  |  |  |  |
 | Partial Response (PR), duration ≥4 weeks | Marrow | No marrow requirements |  | ≥50% decrease in blasts Improvement of marrow dyspoiesis |  |  |
-| Peripheral Blood | ≥50% restoration in the deficit from normal levels of baseline white cells, hemoglobin and platelets if abnormal at baseline No blasts in the peripheral circulation |  |  |  |  |  |
-|  |  | For CMMoL, if WBC is elevated at baseline, a ≥75% reduction in the excess count over the upper limit of normal |  |  |  |  |
+| Peripheral Blood | ≥50% restoration in the deficit from normal levels of baseline white cells, hemoglobin and platelets if abnormal at baseline No blasts in the peripheral circulationFor CMMoL, if WBC is elevated at baseline, a ≥75% reduction in the excess count over the upper limit of normal |  |  |  |  |  |
 
 The overall response rate (CR + PR) of 15.7% in Azacitidine for Injection-treated patients without AML (16.2% for all Azacitidine for Injection randomized patients including AML) was statistically significantly higher than the response rate of 0% in the observation group (p<0.0001) (Table 5).
 The majority of patients who achieved either CR or PR had either 2 or 3 cell line abnormalities at baseline (79%; 11/14) and had elevated bone marrow blasts or were transfusion dependent at baseline.
@@ -126,6 +125,5 @@ Effect of Azacitidine on RBC Transfusions in MDS Patients
 
 | Efficacy Parameter | Azacitidine plus BSC (n= 179) | Conventional Care Regimens (n= 179) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Number and percent of patients who were transfusion dependent at baseline who became transfusion independent on treatment1 Number and percent of patients who were transfusion-independent at baseline who | 50/111 (45.0%) (95% CI: 35.6%, 54.8%) 10/68 (14.7%) (95% CI: 7.3%, 25.4%) | 13/114 (11.4%) (95% CI: 6.2%, 18.7%) 28/65 (43.1%) (95% CI: 30.9%, 56.0%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| became transfusion-dependent on treatment |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Number and percent of patients who were transfusion dependent at baseline who became transfusion independent on treatment1 Number and percent of patients who were transfusion-independent at baseline who became transfusion-dependent on treatment | 50/111 (45.0%) (95% CI: 35.6%, 54.8%) 10/68 (14.7%) (95% CI: 7.3%, 25.4%) | 13/114 (11.4%) (95% CI: 6.2%, 18.7%) 28/65 (43.1%) (95% CI: 30.9%, 56.0%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 1 A patient was considered RBC transfusion independent during the treatment period if the patient had no RBC transfusions during any 56 consecutive days or more during the treatment period. Otherwise, the patient was considered transfusion dependent. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |

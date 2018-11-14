@@ -30,4 +30,5 @@ Bucharest 1, Romania 011171
 
 For BluePoint Laboratories
 
-Revised – January 2018
+Rev.
+A 9/2018

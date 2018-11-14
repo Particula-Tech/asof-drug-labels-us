@@ -10,7 +10,7 @@ Azacitidine was teratogenic and caused embryo-fetal lethality in animals at dose
 Advise pregnant women of the potential risk to the fetus.
 The estimated background risk of major birth defects and miscarriage in the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Data
 
@@ -70,17 +70,3 @@ The majority of adverse reactions occurred at similar frequencies in patients le
 
 Elderly patients are more likely to have decreased renal function.
 Monitor renal function in these patients [see Dosage and Administration (2.5) and Warnings and Precautions (5.3)].
-
-## 8.6 Renal Impairment
-
-Severe renal impairment (creatinine clearance [CLcr] less than 30 mL/min) has no major effect on the exposure of azacitidine after multiple subcutaneous administrations.
-Therefore, azacitidine can be administered to patients with renal impairment without Cycle 1 dose adjustment [see Clinical Pharmacology (12.3)].
-
-## 8.7 Gender
-
-There were no clinically relevant differences in safety and efficacy based on gender.
-
-## 8.8 Race
-
-Greater than 90% of all patients in all trials were Caucasian.
-Therefore, no comparisons between Caucasians and non-Caucasians were possible.
