@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021844"
+  ],
+  "inn": "desonide",
+  "labeler": "LEO Pharma Inc.",
+  "package_ndcs": [
+    "50222-504-60",
+    "50222-504-91"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "desonide",
+      "name": "DESONATE"
+    }
+  ],
+  "setid": "22743d9f-5590-4884-8fb9-ab8ec07c7397",
+  "source": "dailymed"
+}
