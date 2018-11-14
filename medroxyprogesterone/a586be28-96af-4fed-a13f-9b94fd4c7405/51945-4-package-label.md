@@ -69,3 +69,17 @@ Provera® medroxyprogesterone acetate tablets, USP
 10 mg
 
 100 Tablets Rx only
+
+# PRINCIPAL DISPLAY PANEL - 5 mg Tablet Bottle Label - 0287
+
+Pfizer
+
+NDC 0009-0287-01
+
+Provera® medroxyprogesterone acetate tablets, USP
+
+5 mg
+
+100 Tablets Rx only
+
+Distributed by: Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017

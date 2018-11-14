@@ -1,3 +1,3 @@
 Rx only
 
-LAB-0144-7.0 July 2017
+LAB-0144-8.0 January 2018

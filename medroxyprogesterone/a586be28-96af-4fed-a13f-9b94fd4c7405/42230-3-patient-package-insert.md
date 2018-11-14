@@ -163,12 +163,19 @@ What are the ingredients in PROVERA?
 
 Each PROVERA tablet for oral administration contains 2.5 mg, 5 mg or 10 mg of medroxyprogesterone acetate.
 
-Inactive ingredients: calcium stearate, corn starch, lactose, mineral oil, sorbic acid, sucrose, talc.
-The 2.5 mg tablet contains FD&C Yellow No. 6.
+Inactive ingredients:
+
+| 2.5 mg tablets |  |  |
+| --- | --- | --- |
+| calcium stearate, corn starch, lactose, mineral oil, sorbic acid, sucrose, talc, FD&C Yellow No. 6. | OR | calcium stearate, corn starch, lactose, mineral oil, sucrose, talc, FD&C Yellow No. 6. |
+| 5 mg tablets |  |  |
+| calcium stearate, corn starch, lactose, mineral oil, sorbic acid, sucrose, talc. | OR | calcium stearate, corn starch, lactose, mineral oil, sucrose, talc, FD&C Blue No.2 – Aluminum Lake. |
+| 10 mg tablets |  |  |
+| calcium stearate, corn starch, lactose, mineral oil, sorbic acid, sucrose, talc. | OR | calcium stearate, corn starch, lactose, mineral oil, sucrose, talc. |
 
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com
 
 Rx only
 
-LAB-0365-7.0 May 2015
+LAB-0365-8.0 January 2018
