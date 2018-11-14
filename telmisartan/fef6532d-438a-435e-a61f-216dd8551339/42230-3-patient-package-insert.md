@@ -168,22 +168,18 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 The brands listed are trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
 
-Manufactured for:
+Distributed by:
 
 Aurobindo Pharma USA, Inc.
 
-2400 Route 130 North
+279 Princeton-Hightstown Road
 
-Dayton, NJ 08810
+East Windsor, NJ 08520
 
 Manufactured by:
 
 Aurobindo Pharma Limited
 
-Unit-VII (SEZ)
+Hyderabad-500 038, India
 
-Mahaboob Nagar (Dt)-509302
-
-India
-
-Revised: 03/2018
+Revised: 09/2018
