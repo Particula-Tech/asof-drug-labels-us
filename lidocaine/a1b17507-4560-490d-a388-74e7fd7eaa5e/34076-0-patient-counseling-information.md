@@ -23,6 +23,11 @@ Eye Exposure
 Advise patients to wash hands immediately after handling ZTLIDO and to avoid contact with eyes.
 Instruct patients to, if eye contact should occur, immediately wash out the eye with water or saline and protect the eye until sensation returns [see Dosage and Administration (2.1), Warnings and Precautions (5.5)].
 
+Methemoglobinemia
+
+Inform patients that use of local anesthetics may cause methemoglobinemia, a serious condition that must be treated promptly.
+Advise patients or caregivers to stop use and seek immediate medical attention if they or someone in their care experience the following signs or symptoms: pale, gray, or blue colored skin (cyanosis); headache; rapid heart rate; shortness of breath; lightheadedness; or fatigue [see Warnings and Precautions (5.3)].
+
 Manufactured for: Scilex Pharmaceuticals Inc. San Diego, CA 92121 USA
 
 ZTLIDO™ is a trademark owned by Scilex Pharmaceuticals Inc.

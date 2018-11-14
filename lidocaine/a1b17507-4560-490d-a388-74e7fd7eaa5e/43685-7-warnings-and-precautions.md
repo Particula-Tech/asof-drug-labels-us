@@ -28,20 +28,32 @@ Advise patients not to apply ZTLIDO to non-intact skin [see Patient Counseling I
 External Heat Sources: External heat sources may increase drug exposure, leading to overexposure to lidocaine.
 Advise patients not to apply external heat sources to ZTLIDO during administration [seeClinical Pharmacology (12.3), Patient Counseling Information (17)].
 
-## 5.3 Application Site Reactions
+## 5.3 Methemoglobinemia
+
+Cases of methemoglobinemia have been reported in association with local anesthetic use.
+Although all patients are at risk for methemoglobinemia, patients with glucose-6-phosphate dehydrogenase deficiency, congenital or idiopathic methemoglobinemia, cardiac or pulmonary compromise, infants under 6 months of age, and concurrent exposure to oxidizing agents or their metabolites are more susceptible to developing clinical manifestations of the condition.
+If local anesthetics must be used in these patients, close monitoring for symptoms and signs of methemoglobinemia is recommended.
+
+Signs of methemoglobinemia may occur immediately or may be delayed some hours after exposure, and are characterized by a cyanotic skin discoloration and/or abnormal coloration of the blood.
+Methemoglobin levels may continue to rise; therefore, immediate treatment is required to avert more serious central nervous system and cardiovascular adverse effects, including seizures, coma, arrhythmias, and death.
+Discontinue ZTLIDO and any other oxidizing agents.
+Depending on the severity of the signs and symptoms, patients may respond to supportive care, i.e., oxygen therapy, hydration.
+A more severe clinical presentation may require treatment with methylene blue, exchange transfusion, or hyperbaric oxygen.
+
+## 5.4 Application Site Reactions
 
 During or immediately after treatment with ZTLIDO, the skin at the site of application may develop blisters, bruising, burning sensation, depigmentation, dermatitis, discoloration, edema, erythema, exfoliation, irritation, papules, petechia, pruritus, vesicles, or may be the locus of abnormal sensation.
 These reactions are generally mild and transient, resolving spontaneously within a few minutes to hours.
 Inform patients of these potential reactions and that severe skin irritation may occur with ZTLIDO if applied for a longer period than instructed.
 
-## 5.4 Hypersensitivity Reactions
+## 5.5 Hypersensitivity Reactions
 
 Patients allergic to para-aminobenzoic acid (PABA) derivatives (procaine, tetracaine, benzocaine, etc.) have not shown cross-sensitivity to lidocaine.
 However, be aware of the potential for cross-sensitivity in patients allergic to PABA derivatives, especially if the etiologic agent is uncertain.
 Manage hypersensitivity reactions by conventional means.
 The detection of sensitivity by skin testing is of doubtful value.
 
-## 5.5 Eye Exposure
+## 5.6 Eye Exposure
 
 The contact of ZTLIDO with eyes, although not studied, should be avoided based on findings of severe eye irritation with the application of similar products in animals.
 If eye contact occurs, immediately wash out the eye with water or saline and protect the eye (such as, eye glasses/eye wear) until sensation returns.
