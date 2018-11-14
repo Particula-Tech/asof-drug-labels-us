@@ -23,3 +23,4 @@ Consider withholding or discontinuing therapy in patients who develop a clinical
 
 Monitor serum potassium periodically and treat appropriately.
 Dosage reduction or discontinuation of losartan potassium tablets may be required [see Adverse Reactions (6.1)].
+Concomitant use of other drugs that may increase serum potassium may lead to hyperkalemia [see Drug Interactions (7.1)].

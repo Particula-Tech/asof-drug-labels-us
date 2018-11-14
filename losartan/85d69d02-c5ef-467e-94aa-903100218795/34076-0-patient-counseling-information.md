@@ -12,12 +12,12 @@ Manufactured for: Macleods Pharma USA, Inc. Plainsboro, NJ 08536
 
 Manufactured by: Macleods Pharmaceuticals Ltd. Baddi, Himachal Pradesh, INDIA
 
-Revised: December 2015
+Revised: November 2018
 
 The trademarks depicted herein are owned by their respective companies.
-PM01807903
+PM01807904
 
-Patient Information Losartan Potassium Tablets USP (low-SAHR-tan poe-TASS-ee-uhm) 25 mg, 50 mg, 100 mg Rx only
+Patient Information Losartan Potassium Tablets (low-SAHR-tan poe-TASS-ee-uhm) 25 mg, 50 mg, 100 mg Rx only
 
 Read the Patient Information that comes with losartan potassium tablets before you start taking it and each time you get a refill.
 There may be new information.
@@ -55,7 +55,7 @@ You should choose either to take losartan potassium tablets or breastfeed, but n
 
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 Losartan potassium tablets and certain other medicines may interact with each other.
-Especially tell your doctor if you are taking: • potassium supplements • salt substitutes containing potassium • water pills (diuretics) • lithium (a medicine used to treat a certain kind of depression) • medicines used to treat pain and arthritis, called non-steroidal anti-inflammatory drugs (NSAIDs), • including COX-2 inhibitors • other medicines to reduce blood pressure
+Especially tell your doctor if you are taking: • potassium supplements • salt substitutes containing potassium • other medicines that may increase serum potassium • water pills (diuretics) • lithium (a medicine used to treat a certain kind of depression) • medicines used to treat pain and arthritis, called non-steroidal anti-inflammatory drugs (NSAIDs), • including COX-2 inhibitors • other medicines to reduce blood pressure
 
 How should I take losartan potassium tablets? • Take losartan potassium tablets exactly as prescribed by your doctor.
 Your doctor may change your dose if needed. • Losartan potassium tablets can be taken with or without food. • If you miss a dose, take it as soon as you remember.
@@ -96,15 +96,15 @@ Active ingredients: losartan potassium
 
 Inactive ingredients:
 
-silicified microcrystalline cellulose, lactose monohydrate, corn starch, povidone, methyl chloride, collodial silicon dioxide, magnesium stearate, hydroxypropyl cellulose, hypromellose, and titanium dioxide.
+silicified microcrystalline cellulose, lactose monohydrate, corn starch, povidone, collodial silicon dioxide, magnesium stearate, hydroxypropyl cellulose, hypromellose, and titanium dioxide.
 
 Manufactured for: Macleods Pharma USA, Inc. Plainsboro, NJ 08536
 
 Manufactured by: Macleods Pharmaceuticals Ltd. Baddi, Himachal Pradesh, INDIA
 
-Revised: December 2015
+Revised: November 2018
 
-PM01808002
+PM01808003
 
 ## .
 
