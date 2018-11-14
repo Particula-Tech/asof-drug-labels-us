@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 10 mL-1 Count Vial Carton
+# PRINCIPAL DISPLAY PANEL - 10 mL Vial Carton
 
 NDC 0088-2220-33 Rx ONLY
 
@@ -6,19 +6,19 @@ Lantus® insulin glargine injection
 
 100 units/mL (U-100)
 
-One 10 mL Vial
+For subcutaneous injection only
 
 Do not mix with other insulins
 
 Use only if solution is clear and colorless with no particles visible
 
-For subcutaneous injection only
-
 Use with U-100 syringe only
+
+One 10 mL Vial
 
 SANOFI
 
-# PRINCIPAL DISPLAY PANEL - 3 mL-5 Count Prefilled Pen Carton
+# PRINCIPAL DISPLAY PANEL - 3 mL Pen Carton
 
 NDC 0088-2219-05 Rx ONLY
 
