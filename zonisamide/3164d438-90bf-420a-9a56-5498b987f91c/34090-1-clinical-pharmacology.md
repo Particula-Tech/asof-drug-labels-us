@@ -160,8 +160,4 @@ A positive value on the Y-axis indicates an improvement from baseline (i.e., a d
 Thus, in a display of this type, the curve for an effective treatment is shifted to the left of the curve for placebo.
 The proportion of patients achieving any particular level of reduction in seizure rate was consistently higher for the zonisamide groups compared to the placebo groups.
 For example, Figure 1 indicates that approximately 27% of patients treated with zonisamide experienced a 75% or greater reduction, compared to approximately 12% in the placebo groups.
-Figure 1 Proportion of Patients Achieving Differing Levels of Seizure Reduction in Zonisamide and Placebo Groups in Studies 2 and 3
-
-No differences in efficacy based on age, sex or race, as measured by a change in seizure
-
-frequency from baseline, were detected.
+Figure 1 Proportion of Patients Achieving Differing Levels of Seizure Reduction in Zonisamide and Placebo Groups in Studies 2 and 3 No differences in efficacy based on age, sex or race, as measured by a change in seizure frequency from baseline, were detected.
