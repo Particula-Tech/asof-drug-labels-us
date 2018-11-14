@@ -40,7 +40,7 @@ Table 2: Treatment-Emergent Adverse Events in Patients with Type 2 Diabetes Mell
 
 | Events, n (%) | Lispro (n=714) | Regular human insulin (n=709) |
 | --- | --- | --- |
-| Headache | 63 (11.6) | 66 (9.3) |
+| Headache | 83 (11.6) | 66 (9.3) |
 | Pain | 77 (10.8) | 71 (10.0) |
 | Infection | 72 (10.1) | 54 (7.6) |
 | Pharyngitis | 47 (6.6) | 58 (8.2) |

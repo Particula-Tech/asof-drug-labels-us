@@ -6,12 +6,11 @@
 - Inspect HUMALOG visually before use.
   It should appear clear and colorless.
   Do not use HUMALOG if particulate matter or coloration is seen.
+- Use HUMALOG KwikPens with caution in patients with visual impairment that may rely on audible clicks to dial their dose.
 - Do NOT mix HUMALOG U-100 with other insulins when administering using a continuous subcutaneous infusion pump.
 - Do NOT transfer HUMALOG U-200 from the KwikPen to a syringe for administration [see Warnings and Precautions (5.4)].
 - Do NOT perform dose conversion when using any HUMALOG U-100 or U-200 KwikPens.
   The dose window shows the number of insulin units to be delivered and no conversion is needed.
-  - HUMALOG U-100 and U-200 KwikPens are designed to dial doses in increments of 1 unit.
-  - HUMALOG Junior KwikPen is designed to dial doses in 0.5 (1/2) unit increments.
 - Do NOT mix HUMALOG U-200 with any other insulins.
 - Do NOT administer HUMALOG U-200 using a continuous subcutaneous infusion pump (i.e., insulin pump).
 - Do NOT administer HUMALOG U-200 intravenously.
@@ -23,6 +22,8 @@ Subcutaneous Injection: HUMALOG U-100 or U-200
 - Administer the dose of HUMALOG U-100 or HUMALOG U-200 within fifteen minutes before a meal or immediately after a meal by injection into the subcutaneous tissue of the abdominal wall, thigh, upper arm, or buttocks.
   To reduce the risk of lipodystrophy, rotate the injection site within the same region from one injection to the next [see Adverse Reactions (6)].
 - HUMALOG administered by subcutaneous injection should generally be used in regimens with an intermediate- or long-acting insulin.
+- The HUMALOG U-100 KwikPen and HUMALOG U-200 KwikPen each dial in 1 unit increments.
+- The HUMALOG U-100 Junior KwikPen dials in 0.5 unit increments.
 
 Continuous Subcutaneous Infusion (Insulin Pump): HUMALOG U-100 ONLY
 

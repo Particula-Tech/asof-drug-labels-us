@@ -4,7 +4,7 @@ The safety and efficacy of HUMALOG U-100 were studied in children, adolescent, a
 
 ## 14.1 Type 1 Diabetes – Adults and Adolescents
 
-A 12-month, randomized, parallel, open-label, active-controlled study was conducted in patients with type 1 diabetes to assess the safety and efficacy of HUMALOG (n=81) compared with Humulin® R [REGULAR insulin human injection, USP (rDNA origin)] (n=86).
+A 12-month, randomized, parallel, open-label, active-controlled study was conducted in patients with type 1 diabetes to assess the safety and efficacy of HUMALOG (n=81) compared with Humulin® R [insulin human injection (100 units per mL)] (n=86).
 HUMALOG was administered by subcutaneous injection immediately prior to meals and Humulin R was administered 30 to 45 minutes before meals.
 Humulin® U [ULTRALENTE® human insulin (rDNA origin) extended zinc suspension] was administered once or twice daily as the basal insulin.
 There was a 2- to 4-week run-in period with Humulin R and Humulin U before randomization.

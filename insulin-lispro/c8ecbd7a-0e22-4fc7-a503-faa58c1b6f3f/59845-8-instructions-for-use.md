@@ -146,7 +146,7 @@ If your dose is more than 60 units, you will need to give yourself more than 1 i
 The Plunger only moves a little with each injection, and you may not notice that it moves.
 The Plunger will only reach the end of the cartridge when you have used all 300 units in the Pen.
 
-This Pen is not recommended for use by the blind or visually impaired without the help of someone trained to use the Pen.
+People who are blind or have vision problems should not use the Pen without help from a person trained to use the Pen.
 
 How to recognize your HUMALOG KwikPen
 
@@ -282,7 +282,7 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 HUMALOG® and HUMALOG KwikPen® are trademarks of Eli Lilly and Company.
 
-Revised: August 13, 2018
+Revised: November 2018
 
 Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
 
@@ -292,7 +292,7 @@ All rights reserved.
 | HUMALOG KwikPen meets the current dose accuracy and functional requirements of ISO 11608-1:2014. |
 | --- |
 
-LOGKP-0004-IFU-20180813
+LOGKP-0005-IFU-20181101
 
 Instructions for Use
 
@@ -318,7 +318,7 @@ HUMALOG Junior KwikPen (“Pen”) is a disposable prefilled pen containing 300 
 - The Plunger only moves a little with each injection, and you may not notice that it moves.
   The Plunger will only reach the end of the cartridge when you have used all 300 units in the Pen.
 
-This Pen is not recommended for use by the blind or visually impaired without the help of someone trained to use the Pen.
+People who are blind or have vision problems should not use the Pen without help from a person trained to use the Pen.
 
 How to recognize your HUMALOG Junior KwikPen:
 
@@ -453,15 +453,15 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 HUMALOG® and HUMALOG® Junior KwikPen® are trademarks of Eli Lilly and Company.
 
-Approved: June 6, 2017
+Revised: November 2018
 
-Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA Copyright © 2017, Eli Lilly and Company.
+Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA Copyright © 2017, 2018, Eli Lilly and Company.
 All rights reserved.
 
 | HUMALOG Junior KwikPen meets the current dose accuracy and functional requirements of ISO 11608-1:2014. |
 | --- |
 
-LOGJRKP-0001-IFU-20170606
+LOGJRKP-0002-IFU-20181101
 
 Instructions for Use
 
@@ -492,7 +492,7 @@ Do not transfer insulin from your Pen to a syringe.
 Syringes will not measure 200 units/mL insulin correctly.
 A severe overdose can result, causing very low blood sugar which may put your life in danger.
 
-This Pen is not recommended for use by the blind or visually impaired without the help of someone trained to use the Pen.
+People who are blind or have vision problems should not use the Pen without help from a person trained to use the Pen.
 
 How to recognize your HUMALOG 200 units/mL KwikPen
 
@@ -638,14 +638,14 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 HUMALOG® and HUMALOG KwikPen® are trademarks of Eli Lilly and Company.
 
-Revised: January 6, 2017
+Revised: November 2018
 
 Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
 
-Copyright © 2015, 2017, Eli Lilly and Company.
+Copyright © 2015, 2018, Eli Lilly and Company.
 All rights reserved.
 
 | HUMALOG KwikPen meets the current dose accuracy and functional requirements of ISO 11608-1:2014. |
 | --- |
 
-LOGKP200-0002-IFU-20170106
+LOGKP200-0003-IFU-20181101

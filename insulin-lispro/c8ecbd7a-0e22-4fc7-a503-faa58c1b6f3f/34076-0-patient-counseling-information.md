@@ -81,13 +81,13 @@ Humalog®, Humalog KwikPen®, Humalog® Junior KwikPen®, HumaPen®, HumaPen® L
 
 Other product and company names may be the trademarks of their respective owners.
 
-Literature revised August 14, 2017
+Literature revised November 2018
 
 Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 
 www.humalog.com
 
-Copyright © 1996, 2017, Eli Lilly and Company.
+Copyright © 1996, 2018, Eli Lilly and Company.
 All rights reserved.
 
-LOG-0006-USPI-20170814
+LOG-0007-USPI-20181101
