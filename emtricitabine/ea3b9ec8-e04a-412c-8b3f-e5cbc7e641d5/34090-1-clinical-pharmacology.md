@@ -9,7 +9,7 @@ ODEFSEY is a fixed dose combination of antiretroviral drugs emtricitabine, rilpi
 Cardiac Electrophysiology
 
 When higher than recommended RPV doses of 75 mg (3 times the recommended dosage in ODEFSEY) once daily and 300 mg (12 times the recommended dosage in ODEFSEY) once daily were studied in healthy adults, the maximum mean time-matched (95% upper confidence bound) differences in QTcF interval from placebo after baseline correction were 10.7 (15.3) and 23.3 (28.4) milliseconds, respectively.
-Steady-state administration of RPV 75 mg once daily and 300 mg once daily resulted in a mean steady-state Cmax approximately 2.6 times and 6.7 times, respectively, higher than the mean Cmax observed with the recommended 25 mg once daily dose of RPV [see Warnings and Precautions (5.4)].
+Steady-state administration of RPV 75 mg once daily and 300 mg once daily resulted in a mean steady-state Cmax approximately 2.6 times and 6.7 times, respectively, higher than the mean Cmax observed with the recommended 25 mg once daily dose of RPV [see Warnings and Precautions (5.6)].
 
 The effect of RPV at the recommended dose of 25 mg once daily on the QTcF interval was evaluated in a randomized, placebo-, and active- (moxifloxacin 400 mg once daily) controlled crossover study in 60 healthy adults, with 13 measurements over 24 hours at steady state.
 The maximum mean time-matched (95% upper confidence bound) differences in QTcF interval from placebo after baseline correction was 2 (5) milliseconds (i.e., below the threshold of clinical concern).
@@ -57,6 +57,25 @@ Table 5 Multiple Dose Pharmacokinetic Parameters of Emtricitabine, Rilpivirine, 
 
 Specific Populations
 
+Geriatric Patients
+
+The pharmacokinetics of FTC and TAF have not been fully evaluated in the elderly (65 years of age and older).
+Population pharmacokinetics analysis of HIV-infected subjects in Phase 2 and Phase 3 trials of FTC+TAF with EVG+COBI showed that age did not have a clinically relevant effect on exposures of TAF up to 75 years of age.
+
+The pharmacokinetics of RPV have not been fully evaluated in the elderly (65 years of age and older) [see Use in Specific Populations (8.5)].
+
+Pediatric Patients
+
+Exposures of TAF in 24 pediatric subjects with HIV-1 infection aged 12 to less than 18 years who received FTC+TAF with EVG+COBI were decreased (23% for TAF AUC) compared to exposures achieved in treatment-naïve adults following administration of FTC+TAF with EVG+COBI.
+These exposure differences are not thought to be clinically significant based on exposure-response relationships.
+FTC exposures were similar in adolescents compared to treatment-naïve adults.
+The PK of RPV in antiretroviral HIV-1-infected pediatric subjects 12 to less than 18 years of age who received RPV 25 mg once daily were comparable to those in HIV-1 infected adults.
+As in adults, there was no impact of body weight on RPV PK in pediatric subjects [see Use In Specific Populations (8.4)].
+
+Race and Gender
+
+No clinically significant changes in the pharmacokinetics of the components of ODEFSEY have been observed based on race or gender.
+
 Patients with Renal Impairment
 
 Rilpivirine: Population pharmacokinetic analysis indicated that RPV exposure was similar in HIV-1 infected subjects with eGFR 60 to 89 mL per minute by Cockcroft-Gault method relative to HIV-1 infected subjects with normal renal function.
@@ -86,28 +105,22 @@ Hepatitis B and/or Hepatitis C Virus Coinfection
 The pharmacokinetics of FTC and TAF have not been fully evaluated in subjects coinfected with hepatitis B and/or C virus.
 Population pharmacokinetic analysis indicated that hepatitis B and/or C virus coinfection had no clinically relevant effect on the exposure of RPV.
 
-Pediatric Patients
+Pregnancy and Postpartum
 
-Exposures of TAF in 24 pediatric subjects with HIV-1 infection aged 12 to less than 18 years who received FTC+TAF with EVG+COBI were decreased (23% for TAF AUC) compared to exposures achieved in treatment-naïve adults following administration of FTC+TAF with EVG+COBI.
-These exposure differences are not thought to be clinically significant based on exposure-response relationships.
-FTC exposures were similar in adolescents compared to treatment-naïve adults.
-The PK of RPV in antiretroviral HIV-1-infected pediatric subjects 12 to less than 18 years of age who received RPV 25 mg once daily were comparable to those in HIV-1 infected adults.
-As in adults, there was no impact of body weight on RPV PK in pediatric subjects [see Use In Specific Populations (8.4)].
+Rilpivirine: The exposure (C0h and AUC24h) to total RPV after intake of RPV 25 mg once daily as part of an antiretroviral regimen was 30 to 40% lower during pregnancy (similar for the second and third trimester), compared with postpartum (see Table 7).
+However, the exposure during pregnancy was not significantly different from exposures obtained in Phase 3 trials of RPV-containing regimens.
+Based on the exposure-response relationship for RPV, this decrease is not considered clinically relevant in patients who are virologically suppressed.
+The protein binding of RPV was similar (>99%) during the second trimester, third trimester, and postpartum.
 
-Geriatric Patients
+Table 7 Pharmacokinetic Results of Total Rilpivirine After Administration of Rilpivirine 25 mg Once Daily as Part of an Antiretroviral Regimen, During the 2nd Trimester of Pregnancy, the 3rd Trimester of Pregnancy and Postpartum
 
-The pharmacokinetics of FTC and TAF have not been fully evaluated in the elderly (65 years of age and older).
-Population pharmacokinetics analysis of HIV-infected subjects in Phase 2 and Phase 3 trials of FTC+TAF with EVG+COBI showed that age did not have a clinically relevant effect on exposures of TAF up to 75 years of age.
-
-The pharmacokinetics of RPV have not been fully evaluated in the elderly (65 years of age and older) [see Use in Specific Populations (8.5)].
-
-Race
-
-Based on population pharmacokinetic analyses, no dosage adjustment is recommended based on race.
-
-Gender
-
-Based on population pharmacokinetic analyses, no dosage adjustment is recommended based on gender.
+| Pharmacokinetics of total rilpivirine (mean ±SD, tmax: median [range]) | Postpartum (6–12 Weeks) (n=11) | 2nd Trimester of pregnancy (n=15) | 3rd Trimester of pregnancy (n=13) |
+| --- | --- | --- | --- |
+| C0h, ng/mL | 111 ± 69.2 | 65.0 ± 23.9 | 63.5 ± 26.2 |
+| Cmin, ng/mL | 84.0 ± 58.8 | 54.3 ± 25.8 | 52.9 ± 24.4 |
+| Cmax, ng/mL | 167 ± 101 | 121 ±45.9 | 123 ± 47.5 |
+| tmax, h | 4.00 (2.03–25.08) | 4.00 (1.00–9.00) | 4.00 (2.00–24.93) |
+| AUC24h, ng.h/mL | 2714 ± 1535 | 1792 ± 711 | 1762 ± 662 |
 
 Drug Interaction Studies
 
@@ -119,13 +132,13 @@ TAF is not an inhibitor of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, or U
 TAF is a weak inhibitor of CYP3A in vitro.
 TAF is not an inhibitor or inducer of CYP3A in vivo.
 
-The drug interaction studies described in Tables 7–10 were conducted with ODEFSEY (FTC/RPV/TAF) or the components of ODEFSEY (FTC, RPV, or TAF) administered individually.
+The drug interaction studies described in Tables 8–11 were conducted with ODEFSEY (FTC/RPV/TAF) or the components of ODEFSEY (FTC, RPV, or TAF) administered individually.
 
-The effects of coadministered drugs on the exposures of RPV and TAF are shown in Tables 7 and 8, respectively.
-The effects of RPV and TAF on the exposure of coadministered drugs are shown in Tables 9 and 10, respectively.
+The effects of coadministered drugs on the exposures of RPV and TAF are shown in Tables 8 and 9, respectively.
+The effects of RPV and TAF on the exposure of coadministered drugs are shown in Tables 10 and 11, respectively.
 For information regarding clinical recommendations, see Drug Interactions (7).
 
-Table 7 Changes in Pharmacokinetic Parameters for RPV in the Presence of Coadministered Drugs in Healthy Subjects
+Table 8 Changes in Pharmacokinetic Parameters for RPV in the Presence of Coadministered Drugs in Healthy Subjects
 
 | Coadministered Drug (mg) | RPV (mg) | Cmax | AUC | Cmin |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -133,31 +146,33 @@ Table 7 Changes in Pharmacokinetic Parameters for RPV in the Presence of Coadmin
 | Acetaminophen | 500 single dose | 150 once daily25 mg, 75 mg, and 150 mg of RPV is 1, 3, and 6 times the recommended dose of RPV in ODEFSEY, respectively. | 16 | 1.09 (1.01, 1.18) | 1.16 (1.10, 1.22) | 1.26 (1.16, 1.38) |
 | Atorvastatin | 40 once daily | 150 once daily | 16 | 0.91 (0.79, 1.06) | 0.90 (0.81, 0.99) | 0.90 (0.84, 0.96) |
 | Chlorzoxazone | 500 single dose taken 2 hours after RPV | 150 once daily | 16 | 1.17 (1.08, 1.27) | 1.25 (1.16, 1.35) | 1.18 (1.09, 1.28) |
-| Ethinylestradiol/Norethindrone | 0.035 once daily /1 mg once daily | 25 once daily | 15 | ↔Comparison based on historic controls. | ↔ | ↔ |
+| Ethinylestradiol/ Norethindrone | 0.035 once daily /1 mg once daily | 25 once dailyStudy conducted with RPV. | 15 | ↔Comparison based on historic controls. | ↔ | ↔ |
 | Famotidine | 40 single dose taken 12 hours before RPV | 150 single dose | 24 | 0.99 (0.84, 1.16) | 0.91 (0.78, 1.07) | NA |
 | Famotidine | 40 single dose taken 2 hours before RPV | 150 single dose | 23 | 0.15 (0.12, 0.19) | 0.24 (0.20, 0.28) | NA |
 | Famotidine | 40 single dose taken 4 hours after RPV | 150 single dose | 24 | 1.21 (1.06, 1.39) | 1.13 (1.01, 1.27) | NA |
 | Ketoconazole | 400 once daily | 150 once daily | 15 | 1.30 (1.13, 1.48) | 1.49 (1.31, 1.70) | 1.76 (1.57, 1.97) |
 | Methadone | 60–100 once daily, individualized dose | 25 once daily | 12 | ↔ | ↔ | ↔ |
-| Ledipasvir/SofosbuvirStudy conducted with ODEFSEY (FTC/RPV/TAF). | 90/400 once daily | 25 once daily | 42 | 0.97 (0.92, 1.02) | 0.95 (0.91, 0.98) | 0.93 (0.89, 0.97) |
+| Ledipasvir/ Sofosbuvir | 90/400 once daily | 25 once dailyStudy conducted with ODEFSEY (FTC/RPV/TAF). | 42 | 0.97 (0.92, 1.02) | 0.95 (0.91, 0.98) | 0.93 (0.89, 0.97) |
 | Omeprazole | 20 once daily | 25 single dose | 15 | 0.30 (0.24, 0.38) | 0.35 (0.28, 0.44) | NA |
 | Rifabutin | 300 once daily | 25 once daily | 18 | 0.69 (0.62, 0.76) | 0.58 (0.52, 0.65) | 0.52 (0.46, 0.59) |
 | Rifampin | 600 once daily | 150 once daily | 16 | 0.31 (0.27, 0.36) | 0.20 (0.18, 0.23) | 0.11 (0.10, 0.13) |
 | Simeprevir | 25 once daily | 150 once daily | 23 | 1.04 (0.95, 1.30) | 1.12 (1.05, 1.19) | 1.25 (1.16, 1.35) |
 | Sildenafil | 50 single dose | 75 once daily | 16 | 0.92 (0.85, 0.99) | 0.98 (0.92, 1.05) | 1.04 (0.98, 1.09) |
 | Sofosbuvir/ velpatasvir | 400/100 once daily | 10 once dailyStudy conducted with FTC/RPV/TDF. | 24 | 0.93 (0.88,0.98) | 0.95 (0.90, 1.00) | 0.96 (0.90,1.03) |
+| Sofosbuvir/ velpatasvir/ voxilaprevir | 400/100/100 + 100 voxilaprevirStudy conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected patients. once daily | 25 once daily | 30 | 0.79 (0.74, 0.84) | 0.80 (0.76, 0.85) | 0.82 (0.77, 0.87) |
 | CI=Confidence Interval; N=maximum number of subjects with data; NA=Not Available; ↔=no change |  |  |  |  |  |  |
 
-Table 8 Changes in Pharmacokinetic Parameters for TAF in the Presence of the Coadministered DrugAll interaction studies conducted in healthy volunteers. in Healthy Subjects
+Table 9 Changes in Pharmacokinetic Parameters for TAF in the Presence of the Coadministered DrugAll interaction studies conducted in healthy volunteers. in Healthy Subjects
 
 | Cmax | AUC | Cmin |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dose of Coadministered Drug (mg) | TAF (mg) | N | Mean Ratio of Tenofovir Alafenamide Pharmacokinetic Parameters (90% CI); No Effect = 1.00 |  |  |
-| CobicistatIncreases TAF exposure via inhibition of intestinal P-glycoprotein. | 150 once daily | 8 once daily | 12 | 2.83 (2.20, 3.65) | 2.65 (2.29, 3.07) | NC |
-| Ledipasvir/SofosbuvirStudy conducted with ODEFSEY (FTC/RPV/TAF). | 90/400 once daily | 25 once daily | 42 | 1.03 (0.94, 1.14) | 1.32 (1.25, 1.40) | NC |
-| CI=Confidence Interval; N=maximum number of subjects with data; NC=Not Calculated |  |  |  |  |  |  |
+| CobicistatIncreases TAF exposure via inhibition of intestinal P-glycoprotein. | 150 once daily | 8 once daily | 12 | 2.83 (2.20, 3.65) | 2.65 (2.29, 3.07) | NA |
+| Ledipasvir/ Sofosbuvir | 90/400 once daily | 25 once dailyStudy conducted with ODEFSEY (FTC/RPV/TAF). | 42 | 1.03 (0.94, 1.14) | 1.32 (1.25, 1.40) | NA |
+| Sofosbuvir/ velpatasvir/ voxilaprevir | 400/100/100 + 100 voxilaprevirStudy conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected patients. once daily | 25 once daily | 30 | 1.32 (1.17, 1.48) | 1.52 (1.43,1.61) | NA |
+| CI=Confidence Interval; N=maximum number of subjects with data; NA=Not Available |  |  |  |  |  |  |
 
-Table 9 Changes in Pharmacokinetic Parameters for Coadministered Drugs in the Presence of RPV in Healthy Subjects
+Table 10 Changes in Pharmacokinetic Parameters for Coadministered Drugs in the Presence of RPV in Healthy Subjects
 
 | Coadministered Drug (mg) | RPV (mg) | Cmax | AUC | Cmin |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -167,7 +182,7 @@ Table 9 Changes in Pharmacokinetic Parameters for Coadministered Drugs in the Pr
 | 2-hydroxy-atorvastatin | 1.58 (1.33, 1.87) | 1.39 (1.29, 1.50) | 1.32 (1.10, 1.58) |  |  |  |
 | 4-hydroxy-atorvastatin | 1.28 (1.15, 1.43) | 1.23 (1.13, 1.33) | NA |  |  |  |
 | Chlorzoxazone | 500 single dose taken 2 hours after RPV | 150 once daily | 16 | 0.98 (0.85, 1.13) | 1.03 (0.95, 1.13) | NA |
-| Digoxin | 0.5 single dose | 25 once daily | 22 | 1.06 (0.97, 1.17) | 0.98 (0.93, 1.04)AUC(0–last) | NA |
+| Digoxin | 0.5 single dose | 25 once dailyStudy conducted with RPV. | 22 | 1.06 (0.97, 1.17) | 0.98 (0.93, 1.04)AUC(0–last). | NA |
 | Ethinylestradiol | 0.035 once daily | 25 once daily | 17 | 1.17 (1.06, 1.30) | 1.14 (1.10, 1.19) | 1.09 (1.03, 1.16) |
 | Norethindrone | 1 mg once daily | 0.94 (0.83, 1.06) | 0.89 (0.84, 0.94) | 0.99 (0.90, 1.08) |  |  |
 | Ketoconazole | 400 once daily | 150 once daily | 14 | 0.85 (0.80, 0.90) | 0.76 (0.70, 0.82) | 0.34 (0.25, 0.46) |
@@ -182,25 +197,32 @@ Table 9 Changes in Pharmacokinetic Parameters for Coadministered Drugs in the Pr
 | Simeprevir | 150 once daily | 25 once daily | 21 | 1.10 (0.97, 1.26) | 1.06 (0.94, 1.19) | 0.96 (0.83, 1.11) |
 | Sildenafil | 50 single dose | 75 once daily | 16 | 0.93 (0.80, 1.08) | 0.97 (0.87, 1.08) | NA |
 | N-desmethyl-sildenafil | 0.90 (0.80, 1.02) | 0.92 (0.85, 0.99) | NA |  |  |  |
-| Sofosbuvir | 400 once daily | 25 once dailyStudy conducted with FTC/RPV/TDF. | 24 | 1.09 (0.95, 1.25) | 1.16 (1.10, 1.24) | NA |
-| GS-331007 | 0.96 (0.90, 1.01) | 1.04 (1.00, 1.07) | 1.12 (1.07, 1.17) |  |  |  |
+| Sofosbuvir GS-331007 | 400 once daily | 25 once dailyStudy conducted with FTC/RPV/TDF. | 24 | 1.09 (0.95, 1.25) 0.96 (0.90, 1.01) | 1.16 (1.10, 1.24) 1.04 (1.00, 1.07) | NA 1.12 (1.07, 1.17) |
 | Velpatasvir | 100 once daily | 25 once daily | 24 | 0.96 (0.85, 1.10) | 0.99 (0.88, 1.11) | 1.02 (0.91, 1.15) |
+| Sofosbuvir | 400 once daily | 25 once daily | 30 | 0.95 (0.86, 1.05) | 1.01 (0.97, 1.06) | NA |
+| GS-331007 | 1.02 (0.98, 1.06) | 1.04 (1.01, 1.06) | NA |  |  |  |
+| Velpatasvir | 100 once daily | 25 once daily | 30 | 1.05 (0.96, 1.16) | 1.01 (0.94, 1.07) | 1.01 (0.95, 1.09) |
+| Voxilaprevir | 100 + 100 once daily | 25 once daily | 30 | 0.96 (0.84, 1.11) | 0.94 (0.84, 1.05) | 1.02 (0.92, 1.12) |
 | CI=Confidence Interval; N=maximum number of subjects with data; NA=Not Available |  |  |  |  |  |  |
 
-Table 10 Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of TAF in Healthy Subjects
+Table 11 Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of TAF in Healthy Subjects
 
-| Cmax | AUC | Cmin |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Coadministered Drug | Dose of Coadministered Drug (mg) | TAF (mg) | N | Mean Ratio of Coadministered Drug Pharmacokinetic Parameters (90% CI); No Effect = 1.00 |  |  |
-| MidazolamA sensitive CYP3A4 substrate. | 2.5 single dose, orally | 25 once daily | 18 | 1.02 (0.92, 1.13) | 1.13 (1.04, 1.23) | NC |
-| 1 single dose, IV | 0.99 (0.89, 1.11) | 1.08 (1.04, 1.13) | NC |  |  |  |
-| LedipasvirStudy conducted with ODEFSEY (FTC/RPV/TAF). | 90/400 once daily | 25 once daily | 41 | 1.01 (0.97, 1.05) | 1.02 (0.97, 1.06) | 1.02 (0.98,1.07) |
-| Sofosbuvir | 0.96 (0.89, 1.04) | 1.05 (1.01, 1.09) | NC |  |  |  |
-| GS-331007,The predominant circulating nucleoside metabolite of sofosbuvir. | 1.08 (1.05, 1.11) | 1.08 (1.06, 1.10) | 1.10 (1.07, 1.12) |  |  |  |
-| Norelgestromin | norgestimate 0.180/0.215/0.250 once daily/ethinyl estradiol 0.025 once daily | 25 once dailyStudy conducted with FTC/TAF. | 29 | 1.17 (1.07,1.26) | 1.12 (1.07, 1.17) | 1.16 (1.08,1.24) |
-| Norgestrel | 1.10 (1.02, 1.18) | 1.09 (1.01, 1.18) | 1.11 (1.03,1.20) |  |  |  |
-| Ethinyl estradiol | 1.22 (1.15, 1.29) | 1.11 (1.07, 1.16) | 1.02 (0.93,1.12) |  |  |  |
-| CI=Confidence Interval; N=maximum number of subjects with data; NC=Not Calculated |  |  |  |  |  |  |
+| Cmax | AUC | Cmin |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Coadministered Drug | Dose of Coadministered Drug (mg) | TAF (mg) | N | Mean Ratio of Coadministered Drug Pharmacokinetic Parameters (90% CI); No Effect = 1.00 |  |  |  |
+| MidazolamA sensitive CYP3A4 substrate. | 2.5 single dose, orally | 25 once dailyStudy conducted with TAF. | 18 | 1.02 (0.92, 1.13) | 1.13 (1.04, 1.23) | NA |  |
+| 1 single dose, IV | 0.99 (0.89, 1.11) | 1.08 (1.04, 1.13) | NA |  |  |  |  |
+| LedipasvirStudy conducted with ODEFSEY (FTC/RPV/TAF). | 90/400 once daily | 25 once daily | 41 | 1.01 (0.97, 1.05) | 1.02 (0.97, 1.06) | 1.02 (0.98,1.07) |  |
+| Sofosbuvir | 0.96 (0.89, 1.04) | 1.05 (1.01, 1.09) | NA |  |  |  |  |
+| GS-331007,The predominant circulating nucleoside metabolite of sofosbuvir. | 1.08 (1.05, 1.11) | 1.08 (1.06, 1.10) | 1.10 (1.07, 1.12) |  |  |  |  |
+| Norelgestromin | norgestimate 0.180/0.215/0.250 once daily/ethinyl estradiol 0.025 once daily | 25 once dailyStudy conducted with FTC/TAF. | 29 | 1.17 (1.07,1.26) | 1.12 (1.07, 1.17) | 1.16 (1.08,1.24) |  |
+| Norgestrel | 1.10 (1.02, 1.18) | 1.09 (1.01, 1.18) | 1.11 (1.03,1.20) |  |  |  |  |
+| Ethinyl estradiol | 1.22 (1.15, 1.29) | 1.11 (1.07, 1.16) | 1.02 (0.93,1.12) |  |  |  |  |
+| Sofosbuvir | 400 once daily | 25 once daily | 30 | 0.95 (0.86, 1.05) | 1.01 (0.97, 1.06) | NA |  |
+| GS-331007 | 1.02 (0.98, 1.06) | 1.04 (1.01, 1.06) | NA |  |  |  |  |
+| Velpatasvir | 100 once daily | 1.05 (0.96, 1.16) | 1.01 (0.94, 1.07) | 1.01 (0.95,1.09) |  |  |  |
+| Voxilaprevir | 100 + 100 once daily | 0.96 (0.84, 1.11) | 0.94 (0.84, 1.05) | 1.02 (0.92,1.12) |  |  |  |
+| CI=Confidence Interval; N=maximum number of subjects with data; NA=Not Available |  |  |  |  |  |  |  |
 
 ## 12.4 Microbiology
 
