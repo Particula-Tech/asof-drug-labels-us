@@ -49,7 +49,7 @@ Telmisartan is metabolized by conjugation to form a pharmacologically inactive a
 After a single dose, the glucuronide represents approximately 11% of the measured radioactivity in plasma.
 The cytochrome P450 isoenzymes are not involved in the metabolism of telmisartan.
 
-Total plasma clearance of telmisartan is >800 mL/min.
+Total plasma clearance of telmisartan is> 800 mL/min.
 Terminal half-life and total clearance appear to be independent of dose.
 
 Specific Populations Renal Insufficiency No dosage adjustment is necessary in patients with decreased renal function.
