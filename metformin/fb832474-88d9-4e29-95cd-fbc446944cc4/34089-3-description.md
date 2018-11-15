@@ -1,14 +1,14 @@
 # 11 DESCRIPTION
 
-GLUMETZA (metformin hydrochloride extended-release tablet) is an oral antihyperglycemic medication used in the management of type 2 diabetes.
-Metformin hydrochloride (N,N-dimethylimidodicarbonimidic diamide hydrochloride) is not chemically or pharmacologically related to any other classes of oral antihyperglycemic agents.
-The structural formula of metformin hydrochloride (metformin HCl) is as shown:
+GLUMETZA contains the biguanide antihyperglycemic agent metformin in the form of monohydrochloride salt.
+The chemical name of metformin hydrochloride is N,N-dimethylimidodicarbonimidic diamide hydrochloride.
+The structural formula is as shown:
 
-Metformin HCl is a white to off-white crystalline compound with a molecular formula of C4H11N5•HCl and a molecular weight of 165.63.
-Metformin HCl is freely soluble in water and is practically insoluble in acetone, ether, and chloroform.
+Metformin hydrochloride is a white to off-white crystalline compound with a molecular formula of C4H11N5•HCl and a molecular weight of 165.63.
+Metformin hydrochloride is freely soluble in water and is practically insoluble in acetone, ether, and chloroform.
 The pKa of metformin is 12.4.
 The pH of a 1% aqueous solution of metformin hydrochloride is 6.68.
-GLUMETZA (metformin hydrochloride extended-release tablets) are modified-release dosage forms that contain 500 mg or 1000 mg of metformin HCl.
+
+GLUMETZA tablets contain 500 mg or 1,000 mg of metformin hydrochloride, which is equivalent to 389.93 mg or 779.86 mg metformin, respectively.
 Each 500 mg tablet contains coloring, hypromellose, magnesium stearate, microcrystalline cellulose and polyethylene oxide.
-Each 1000 mg tablet contains colloidal silicon dioxide, polyvinyl alcohol, crospovidone, glyceryl behenate, polyacrylate dispersion, hypromellose, talc, polyethylene glycol, eudragit, titanium dioxide, simethicone emulsion, polysorbate and coloring.
-GLUMETZA 500 mg and 1000 mg tablets are formulated to gradually release metformin to the upper gastrointestinal (GI) tract.
+Each 1,000 mg tablet contains colloidal silicon dioxide, polyvinyl alcohol, crospovidone, glyceryl behenate, polyacrylate dispersion, hypromellose, talc, polyethylene glycol, eudragit, titanium dioxide, simethicone emulsion, polysorbate and coloring.

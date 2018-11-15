@@ -2,28 +2,38 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
-- Information for Patients
+Lactic Acidosis:
 
-- •Patients should be informed of the potential risks and benefits of GLUMETZA and of alternative modes of therapy.
-  They should also be informed about the importance of adherence to dietary instructions, of a regular exercise program, and of regular testing of blood glucose, and hemoglobin A1c.
-  During periods of stress such as fever, trauma, infection, or surgery, medication requirements may change and patients should be advised to seek medical advice promptly.
-- •The risks of lactic acidosis, its symptoms, and conditions that predispose to its development, as noted in the GLUMETZA sections, should be explained to patients.
-  Patients should be advised to discontinue GLUMETZA immediately and to promptly notify their health practitioner if unexplained hyperventilation, myalgia, malaise, unusual somnolence, or other nonspecific symptoms occur.
-  Once a patient is stabilized on any dose level of GLUMETZA, gastrointestinal symptoms, which are common during initiation of metformin therapy, are unlikely to recur.
-  Later occurrence of gastrointestinal symptoms could be due to lactic acidosis or other serious disease.
-- •Patients should be advised to notify their health practitioner or call the Poison Control Center immediately in case of GLUMETZA overdose.
-- •Patients should be informed about the importance of regular testing of renal function and hematological parameters when receiving treatment with GLUMETZA.
-- •Instruct patients to inform their doctor that they are taking GLUMETZA prior to any surgical or radiological procedure, as temporary discontinuation of GLUMETZA may be required until renal function has been confirmed to be normal [see Warnings and Precautions (5.1)].
-- •Patients should be counseled against excessive alcohol intake, either acute or chronic, while receiving GLUMETZA.
-- •GLUMETZA (metformin hydrochloride extended-release tablets) alone does not usually cause hypoglycemia, although it may occur when GLUMETZA is used in conjunction with insulin secretagogues, such as sulfonylureas and insulin.
-- •Patients should be informed that GLUMETZA must be swallowed whole and not crushed or chewed, and that the inactive ingredients may occasionally be eliminated in the feces as a soft mass that may resemble the original tablet.
+Explain the risks of lactic acidosis, its symptoms, and conditions that predispose to its development.
+Advise patients to discontinue GLUMETZA immediately and to promptly notify their healthcare provider if unexplained hyperventilation, myalgias, malaise, unusual somnolence or other nonspecific symptoms occur.
+Counsel patients against excessive alcohol intake and inform patients about importance of regular testing of renal function while receiving GLUMETZA.
+Instruct patients to inform their doctor that they are taking GLUMETZA prior to any surgical or radiological procedure, as temporary discontinuation may be required [see Warnings and Precautions (5.1)].
 
-Manufactured for: Salix Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+Hypoglycemia Inform patients that hypoglycemia may occur when GLUMETZA is coadministered with oral sulfonylureas and insulin.
+Explain to patients receiving concomitant therapy the risks of hypoglycemia, its symptoms and treatment, and conditions that predispose to its development [see Warnings and Precautions (5.3)].
+
+Vitamin B12 Deficiency:
+
+Inform patients about importance of regular hematological parameters while receiving GLUMETZA [see Warnings and Precautions (5.2)].
+
+Females of Reproductive Age:
+
+Inform females that treatment with GLUMETZA may result in ovulation in some premenopausal anovulatory women which may lead to unintended pregnancy [see Use in Specific Populations (8.3)].
+
+Administration Information:
+
+Inform patients that GLUMETZA must be swallowed whole and not crushed, cut, or chewed, and that the inactive ingredients may occasionally be eliminated in the feces as a soft mass that may resemble the original tablet.
+
+Manufactured for:
+
+Salix Pharmaceuticals, a division of
+
+Valeant Pharmaceuticals North America LLC
+
+Bridgewater, NJ 08807 USA
 
 U.S. Patent Numbers: 6,488,962; 6,723,340; 7,780,987 and 8,323,692
 
 Glumetza is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
-© Valeant Pharmaceuticals North America LLC
-
-9618902 20002311
+© Valeant Pharmaceuticals North America LLC Update p/n
