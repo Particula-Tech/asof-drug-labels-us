@@ -38,7 +38,7 @@ Vancomycin serum concentrations can be determined by use of microbiologic assay,
 If creatinine clearance can be measured or estimated accurately, the dosage for most patients with renal impairment can be calculated using the following table.
 The dosage of vancomycin hydrochloride for injection per day in mg is about 15 times the glomerular filtration rate in mL/min (see following table).
 
-DOSAGE TABLE FOR VANCOMYCIN IN PATIENTS WITH IMPAIRED RENAL FUNCTION (Adapted from Moellering et al)4
+DOSAGE TABLE FOR VANCOMYCIN IN PATIENTS WITH IMPAIRED RENAL FUNCTION (Adapted from Moellering et al)1
 
 | Creatinine Clearance mL/min | Vancomycin Dose mg/24 h |
 | --- | --- |
@@ -111,15 +111,11 @@ The desired dose, diluted in this manner, should be administered by intermittent
 Solutions that are diluted with 5% Dextrose Injection or 0.9% Sodium Chloride Injection may be stored in a refrigerator for 14 days without significant loss of potency.
 Solutions that are diluted with the following infusion fluids may be stored in a refrigerator for 96 hours:
 
-5% Dextrose Injection and 0.9% Sodium Chloride Injection USP
-
-Lactated Ringer's Injection USP
-
-Lactated Ringer's and 5% Dextrose Injection USP
-
-Normosol™-M and 5% Dextrose
-
-Isolyte™ E
+- 5% Dextrose Injection and 0.9% Sodium Chloride Injection USP
+- Lactated Ringer's Injection USP
+- Lactated Ringer's and 5% Dextrose Injection USP
+- Normosol™-M and 5% Dextrose
+- Isolyte™ E
 
 Vancomycin solution has a low pH and may cause chemical or physical instability when it is mixed with other compounds.
 
