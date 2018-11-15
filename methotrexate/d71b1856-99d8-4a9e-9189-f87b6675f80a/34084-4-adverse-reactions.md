@@ -28,11 +28,11 @@ There have also been reports of infections, pneumonia, sepsis, nocardiosis, hist
 
 Musculoskeletal System: stress fracture.
 
-Ophthalmic: conjuctivitis, serious visual changes of unknown etiology.
+Ophthalmic: conjunctivitis, serious visual changes of unknown etiology.
 
-Pulmonary System: respiratory fibrosis, respiratory failure, interstitial pneumonitis deaths have been reported, and chronic interstitial obstructive pulmonary disease has occasionally occurred.
+Pulmonary System: respiratory fibrosis, respiratory failure, interstitial pneumonitis; deaths have been reported, and chronic interstitial obstructive pulmonary disease has occasionally occurred.
 
-Skin: erythematous rashes, pruritus, urticaria, photosensitivity, pigmentary changes, alopecia, ecchymosis, telangiectasia, acne, furunculosis, erythema multiforme, toxic epidermal necrolysis, Stevens-Johnson Syndrome, skin necrosis, skin ulceration, and exfoliative dermatitis.
+Skin: erythematous rashes, pruritus, urticaria, photosensitivity, pigmentary changes, alopecia, ecchymosis, telangiectasia, acne, furunculosis, erythema multiforme, toxic epidermal necrolysis, Stevens-Johnson syndrome, skin necrosis, skin ulceration, and exfoliative dermatitis.
 
 Urogenital System: severe nephropathy or renal failure, azotemia, cystitis, hematuria; defective oogenesis or spermatogenesis, transient oligospermia, menstrual dysfunction, vaginal discharge, and gynecomastia; infertility, abortion, fetal defects.
 
@@ -41,21 +41,23 @@ Anaphylactoid reactions have been reported.
 
 ## Adverse Reactions in Double-Blind Rheumatoid Arthritis Studies
 
-The approximate incidences of methotrexate attributed (i.e., placebo rate subtracted) adverse reactions in 12 to 18 week double-blind studies of patients (n=128) with rheumatoid arthritis treated with low-dose oral (7.5 to 15 mg/week) pulse methotrexate, are listed below.
-Virtually all of these patients were on concomitant nonsteroidal anti-inflammatory drugs and some were also taking low dosages of corticosteroids.
-Hepatic histology was not examined in these short-term studies (See PRECAUTIONS).
+The approximate incidences of methotrexate attributed (ie, placebo rate subtracted) adverse reactions in 12 to 18 week double-blind studies of patients (n=128) with rheumatoid arthritis treated with low-dose oral (7.5 to 15 mg/week) pulse methotrexate, are listed below.
+Virtually all of these patients were on concomitant non-steroidal anti-inflammatory drugs and some were also taking low dosages of corticosteroids.
+Hepatic histology was not examined in these short-term studies.
+(See PRECAUTIONS.)
 
 Incidence Greater than 10%: Elevated liver function tests 15%, nausea/vomiting 10%.
 
-Incidence 3% to 10%: Stomatitis, thrombocytopenia (platelet count less than 100,000/mm3).
+Incidence 3% to 10%: Stomatitis, thrombocytopenia, (platelet count less than 100,000/mm3).
 
 Incidence 1% to 3%: Rash/pruritus/dermatitis, diarrhea, alopecia, leukopenia (WBC less than 3000/mm3), pancytopenia, dizziness.
 
-Two other controlled trials of patients (n=680) with rheumatoid arthritis on 7.5 mg to 15 mg/wk oral doses showed an incidence of interstitial pneumonitis of 1% (See PRECAUTIONS).
+Two other controlled trials of patients (n=680) with Rheumatoid Arthritis on 7.5 mg - 15 mg/wk oral doses showed an incidence of interstitial pneumonitis of 1%.
+(See PRECAUTIONS.)
 
 Other less common reactions included decreased hematocrit, headache, upper respiratory infection, anorexia, arthralgias, chest pain, coughing, dysuria, eye discomfort, epistaxis, fever, infection, sweating, tinnitus, and vaginal discharge.
 
-## Adverse Reaction in Psoriasis
+## Adverse Reactions in Psoriasis
 
 There are no recent placebo-controlled trials in patients with psoriasis.
 There are two literature reports (Roenigk, 1969 and Nyfors, 1978) describing large series (n=204, 248) of psoriasis patients treated with methotrexate.
@@ -65,5 +67,5 @@ Rarely, painful plaque erosions may appear.
 
 ## Adverse Reactions in JRA Studies
 
-The approximate incidences of adverse reactions reported in pediatric patients with JRA treated with oral, weekly doses of methotrexate (5 to 20 mg/m2/wk or 0.1 to 0.65 mg/kg/wk) were as follows (virtually all patients were receiving concomitant nonsteroidal anti-inflammatory drugs, and some also were taking low doses of corticosteroids): elevated liver function tests, 14%; gastrointestinal reactions (e.g., nausea, vomiting, diarrhea), 11%; stomatitis, 2%; leukopenia, 2%; headache, 1.2%; alopecia, 0.5%; dizziness, 0.2%; and rash, 0.2%.
+The approximate incidences of adverse reactions reported in pediatric patients with JRA treated with oral, weekly doses of methotrexate (5 to 20 mg/m2/wk or 0.1 to 0.65 mg/kg/wk) were as follows (virtually all patients were receiving concomitant non-steroidal anti-inflammatory drugs, and some also were taking low doses of cortico-steroids): elevated liver function tests, 14%; gastrointestinal reactions (eg, nausea, vomiting, diarrhea), 11%; stomatitis, 2%; leukopenia, 2%; headache, 1.2%; alopecia, 0.5%; dizziness, 0.2%; and rash, 0.2%.
 Although there is experience with dosing up to 30 mg/m2/wk in JRA, the published data for doses above 20 mg/m2/wk are too limited to provide reliable estimates of adverse reaction rates.

@@ -1,14 +1,16 @@
 # Patient INFORMATION
 
-Methotrexate Tablets USP (meth-oh-trek-seyt)
+Methotrexate (meth” oh trex’ ate) Tablets USP
 
-Read the Patient Information that comes with methotrexate before you start using it and each time you get a refill.
+Rx Only
+
+Read the Patient Instructions that come with methotrexate before you start using it and each time you get a refill.
 There may be new information.
-This leaflet does not take the place of talking with your doctor about your condition or treatment.
+This leaflet does not take the place of talking with your doctor about your condition.
 
 What is the most important information I should know about methotrexate?
 
-- •Methotrexate can cause serious side effects that may be life-threatening (see “What are the possible or reasonably likely side effects of methotrexate?
+- •Methotrexate can cause serious side effects that may be life-threatening (see “What are the possible or reasonably likely side effects of methotrexate?”)
   Most side effects can be found by medical tests before they become serious.
   Your doctor may do regular tests to check how methotrexate is affecting your body.
   It is important that you stay under a doctor's care while taking methotrexate.
@@ -32,9 +34,9 @@ Do not take methotrexate if:
 - •you are pregnant or planning to become pregnant.
   Methotrexate can cause birth defects or death to your unborn child.
   See “What is the most important information I should know about methotrexate?”
-- •you are breast-feeding.
+- •you are breastfeeding.
   Methotrexate can harm your baby.
-  You will need to decide either to breast-feed or to take methotrexate, but not both.
+  You will need to decide either to breastfeed or to take methotrexate, but not both.
 - •you have any conditions that weaken your immune system (immunodeficiency conditions).
 - •your bone marrow does not make enough blood cells, or if you have low white blood cell counts, low platelet counts, or serious anemia.
 - •you drink alcohol or have liver problems from alcohol abuse.
@@ -82,7 +84,7 @@ Do not:
 
 - •get pregnant or try to become pregnant.
   See “What is the most important information I should know about methotrexate?”
-- •breast-feed.
+- •breastfeed.
   See “Who should not take methotrexate?”
 - •drink alcohol.
   Alcohol drinks, including beer and wine, may increase some of the side effects with methotrexate, including the chance of liver damage.
@@ -100,7 +102,7 @@ Methotrexate can cause serious and life-threatening problems including (see “W
 - •cancer of the lymph system (lymphoma)
 - •severe skin reactions and rashes
 - •opportunistic infections such as Pneumocystis carini pneumonia
-- •soft tissue and bone damage if you are getting radiation therapy at the same time you are taking methotrexate.
+- •soft tissue and bone damage if you are getting radiation therapy at the same time you are taking methotrexate
 
 The most common side effects of methotrexate include:
 
@@ -123,12 +125,12 @@ Ask your doctor or pharmacist for more information.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-How should I store methotrexate?
+How should I store Methotrexate Tablets USP?
 
-- •Store methotrexate at room temperature between 20˚ to 25˚C (68˚ to 77˚F).
+- •Store Methotrexate Tablets USP at room temperature between 20˚ to 25˚C (68˚ to 77˚F).
   [See USP Controlled Room Temperature.]
-- •Keep methotrexate away from light.
-- •Keep methotrexate and all medicines out of the reach of children.
+- •Keep Methotrexate Tablets USP away from light.
+- •Keep Methotrexate Tablets USP and all medicines out of the reach of children.
 
 General information about methotrexate tablets
 
@@ -143,7 +145,7 @@ You can ask your doctor or pharmacist for information about methotrexate that is
 
 For additional information, you may contact West-Ward Pharmaceuticals Corp. at 1-800-962-8364.
 
-What are the ingredients in methotrexate tablets?
+What are the ingredients in Methotrexate Tablets USP?
 
 Active Ingredient: Methotrexate contains an amount of methotrexate sodium equivalent to 2.5 mg of methotrexate USP.
 
@@ -157,6 +159,6 @@ Pharmaceuticals Corp.
 
 Eatontown, NJ 07724
 
-10004494/08
+10004494/09
 
-Revised May 2016
+Revised August 2018

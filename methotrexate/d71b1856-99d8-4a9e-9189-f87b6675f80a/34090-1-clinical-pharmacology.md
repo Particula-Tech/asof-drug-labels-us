@@ -20,10 +20,10 @@ Limited data from long-term studies indicate that an initial clinical improvemen
 In psoriasis, the rate of production of epithelial cells in the skin is greatly increased over normal skin.
 This differential in proliferation rates is the basis for the use of methotrexate to control the psoriatic process.
 
-In a 6-month double-blind, placebo-controlled trial of 127 pediatric patients with juvenile rheumatoid arthritis (JRA) (mean age, 10.1 years; age range, 2.5 to 18 years; mean duration of disease, 5.1 years) on background non-steroidal anti-inflammatory drugs (NSAIDS) and/or prednisone, methotrexate given weekly at an oral dose of 10 mg/m2 provided significant clinical improvement compared to placebo as measured by either the physician’s global assessment, or by a patient composite (25% reduction in the articular-severity score plus improvement in parent and physician global assessments of disease activity).
+In a 6-month, double-blind, placebo-controlled trial of 127 pediatric patients with juvenile rheumatoid arthritis (JRA) (mean age, 10.1 years; age range 2.5 to 18 years, mean duration of disease, 5.1 years) on background non-steroidal anti-inflammatory drugs (NSAIDs) and/or prednisone, methotrexate given weekly at an oral dose of 10 mg/m2 provided significant clinical improvement compared to placebo as measured by either the physician’s global assessment, or by a patient composite (25% reduction in the articular-severity score plus improvement in parent and physician global assessments of disease activity.)
 Over two-thirds of the patients in this trial had polyarticular-course JRA, and the numerically greatest response was seen in this subgroup treated with 10 mg/m2/wk methotrexate.
 The overwhelming majority of the remaining patients had systemic-course JRA.
-All patients were unresponsive to NSAIDS; approximately one-third were using low dose corticosteroids.
+All patients were unresponsive to NSAIDs; approximately one-third were using low dose corticosteroids.
 Weekly methotrexate at a dose of 5 mg/m2 was not significantly more effective than placebo in this trial.
 
 ## Pharmacokinetics
@@ -43,7 +43,7 @@ Food has been shown to delay absorption and reduce peak concentration.
 Methotrexate is generally completely absorbed from parenteral routes of injection.
 After intramuscular injection, peak serum concentrations occur in 30 to 60 minutes.
 As in leukemic pediatric patients, a wide interindividual variability in the plasma concentrations of methotrexate has been reported in pediatric patients with JRA.
-Following oral administration of methotrexate in doses of 6.4 to 11.2 mg/m2/week in pediatric patients with JRA, mean serum concentrations were 0.59 micromolar (range, 0.03 to 1.40) at 1 hour, 0.44 micromolar (range 0.01 to 1.00) at 2 hours, and 0.29 micromolar (range 0.06 to 0.58) at 3 hours.
+Following oral administration of methotrexate in doses of 6.4 to 11.2 mg/m2/week in pediatric patients with JRA, mean serum concentrations were 0.59 micromolar (range, 0.03 to 1.40) at 1 hour, 0.44 micromolar (range, 0.01 to 1.00) at 2 hours, and 0.29 micromolar (range 0.06 to 0.58) at 3 hours.
 In pediatric patients receiving methotrexate for acute lymphocytic leukemia (6.3 to 30 mg/m2), or for JRA (3.75 to 26.2 mg/m2), the terminal half-life has been reported to range from 0.7 to 5.8 hours or 0.9 to 2.3 hours, respectively.
 
 ### Distribution
@@ -52,7 +52,7 @@ After intravenous administration, the initial volume of distribution is approxim
 Methotrexate competes with reduced folates for active transport across cell membranes by means of a single carrier-mediated active transport process.
 At serum concentrations greater than 100 micromolar, passive diffusion becomes a major pathway by which effective intracellular concentrations can be achieved.
 Methotrexate in serum is approximately 50% protein bound.
-Laboratory studies demonstrate that it may be displaced from plasma albumin by various compounds including sulfonamides, salicylates, tetracyclines, chloramphenicol and phenytoin.
+Laboratory studies demonstrate that it may be displaced from plasma albumin by various compounds including sulfonamides, salicylates, tetracyclines, chloramphenicol, and phenytoin.
 
 Methotrexate does not penetrate the blood-cerebrospinal fluid barrier in therapeutic amounts when given orally or parenterally.
 High CSF concentrations of the drug may be attained by intrathecal administration.
@@ -73,7 +73,7 @@ Methotrexate is partially metabolized by intestinal flora after oral administrat
 
 ### Half-Life
 
-The terminal half-life reported for methotrexate is approximately three to ten hours for patients receiving treatment for psoriasis, or rheumatoid arthritis or low dose antineoplastic therapy (less that 30 mg/m2).
+The terminal half-life reported for methotrexate is approximately three to ten hours for patients receiving treatment for psoriasis, or rheumatoid arthritis or low dose antineoplastic therapy (less than 30 mg/m2).
 For patients receiving high doses of methotrexate, the terminal half-life is eight to 15 hours.
 
 ### Excretion
