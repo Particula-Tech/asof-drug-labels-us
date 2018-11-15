@@ -58,9 +58,7 @@ Pledget for topical use only
 
 # PRINCIPAL DISPLAY PANEL - 60 mL Bottle Label
 
-Pfizer
-
-NDC 0009-3329-01
+Pfizer NDC 0009-3329-01
 
 Cleocin T® clindamycin phosphate topical lotion
 
@@ -68,15 +66,11 @@ Cleocin T® clindamycin phosphate topical lotion
 
 For topical use only
 
-60 mL
-
-Rx only
+60 mL Rx only
 
 # PRINCIPAL DISPLAY PANEL - 60 mL Bottle Carton
 
-Pfizer
-
-NDC 0009-3329-01
+Pfizer NDC 0009-3329-01
 
 Cleocin T® clindamycin phosphate topical lotion
 
@@ -84,9 +78,7 @@ Cleocin T® clindamycin phosphate topical lotion
 
 For topical use only
 
-60 mL
-
-Rx only
+60 mL Rx only
 
 # PRINCIPAL DISPLAY PANEL - 60 gram Tube Label
 
@@ -116,15 +108,15 @@ Pfizer Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
 
 NDC 0009-3331-01
 
-60 gram Rx only
+Pfizer
 
-Cleocin T® clindamycin phosphate topical gel
+Cleocin T® 1%*
+
+clindamycin phosphate topical gel
 
 For topical use only
 
-1%*
-
-Pfizer Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
+60 gram Rx only
 
 # PRINCIPAL DISPLAY PANEL - 30 gram Tube Label
 
