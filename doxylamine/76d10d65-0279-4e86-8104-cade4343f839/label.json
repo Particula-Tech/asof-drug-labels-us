@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021876"
+  ],
+  "inn": "doxylamine",
+  "labeler": "Analog Pharma",
+  "package_ndcs": [
+    "70505-100-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET, DELAYED RELEASE",
+      "generic": "doxylamine succinate and pyridoxine hydrochloride",
+      "name": "Doxylamine succinate and pyridoxine hydrochloride"
+    }
+  ],
+  "setid": "76d10d65-0279-4e86-8104-cade4343f839",
+  "source": "dailymed"
+}
