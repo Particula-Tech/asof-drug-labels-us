@@ -7,7 +7,7 @@ The possibility of hypotensive effects with PRINIVIL can be minimized by either 
 If this is not possible, reduce the starting dose of PRINIVIL [see Dosage and Administration (2.2) and Warnings and Precautions (5.4)].
 
 PRINIVIL attenuates potassium loss caused by thiazide-type diuretics.
-Potassium-sparing diuretics (spironolactone, amiloride, triamterene, and others) can increase the risk of hyperkalemia.
+Potassium-sparing diuretics (spironolactone, amiloride, triamterene, and others) or other drugs that may increase serum potassium can increase the risk of hyperkalemia.
 Therefore, if concomitant use of such agents is indicated, monitor the patient's serum potassium frequently.
 
 ## 7.2 Antidiabetics

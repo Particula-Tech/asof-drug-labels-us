@@ -70,7 +70,7 @@ If hypotension occurs and is considered to be due to this mechanism, it can be c
 
 Monitor serum potassium periodically in patients receiving PRINIVIL.
 Drugs that inhibit the renin-angiotensin system can cause hyperkalemia.
-Risk factors for the development of hyperkalemia include renal insufficiency, diabetes mellitus, and the concomitant use of potassium-sparing diuretics, potassium supplements and/or potassium-containing salt substitutes [see Drug Interactions (7.1)].
+Risk factors for the development of hyperkalemia include renal insufficiency, diabetes mellitus, and the concomitant use of potassium-sparing diuretics, potassium supplements, potassium-containing salt substitutes, or other drugs that may increase serum potassium [see Drug Interactions (7.1)].
 
 ## 5.6 Hepatic Failure
 
