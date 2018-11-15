@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "NDA209863"
+  ],
+  "inn": "testosterone",
+  "labeler": "Antares Pharma, Inc.",
+  "package_ndcs": [
+    "54436-200-01",
+    "54436-200-02",
+    "54436-200-03",
+    "54436-200-04",
+    "54436-250-01",
+    "54436-250-02",
+    "54436-250-03",
+    "54436-250-04",
+    "54436-275-01",
+    "54436-275-02",
+    "54436-275-03",
+    "54436-275-04"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "testosterone enanthate",
+      "name": "XYOSTED"
+    }
+  ],
+  "setid": "8a3d204c-be26-49e0-8599-0ac12a272e81",
+  "source": "dailymed"
+}
