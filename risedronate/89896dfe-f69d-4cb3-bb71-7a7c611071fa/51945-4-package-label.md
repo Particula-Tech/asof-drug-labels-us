@@ -24,5 +24,5 @@ NDC 65862-519-04 Rx only Once-a-Week Risedronate Sodium Tablets, USP 35 mg AUROB
 
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 35 mg Blister Carton - 4 Week Supply (4 Tablets)
 
-NDC 65862-519-04 Rx only Once-a-week Risedronate Sodium Tablets, USP 35 mg PHARMACIST: Dispense the enclosed Medication Guide to each patient.
+NDC 65862-519-04 Rx only Once-a-week Risedronate Sodium Tablets, USP 35 mg PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 AUROBINDO 4 Week Supply (4 Tablets)

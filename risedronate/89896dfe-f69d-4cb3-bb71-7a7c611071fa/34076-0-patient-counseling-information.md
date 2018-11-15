@@ -32,6 +32,6 @@ Remind patients to give all of their healthcare providers an accurate medication
 Instruct patients to tell all of their healthcare providers that they are taking risedronate.
 Patients should be instructed that any time they have a medical problem they think may be from risedronate, they should talk to their doctor.
 Didronel® is a registered trademark of Procter & Gamble Pharmaceuticals, Inc. Atelvia® is a registered trademark of Warner Chilcott Company, LLC.
-Distributed by:
+Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Distributed by:
 
-Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 12/2017
+Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 07/2018
