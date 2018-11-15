@@ -4,10 +4,12 @@
 
 Optimal patient response can usually be established with 1800 mg/day in the following dosages:
 
-|  | ACUTE MANIA |  |  |
+| ACUTE MANIA |  |  |  |
 | --- | --- | --- | --- |
 |  | Morning | Afternoon | Nighttime |
-| Lithium Carbonate ER TabletsCan also be administered on 600 mg TID recommended dosing interval. | 3 tabs(900 mg) |  | 3 tabs(900 mg) |
+| Lithium Carbonate Extended-Release Tablets | 3 tabs(900 mg) |  | 3 tabs (900) |
+
+1. 1.Can also be administered on 600 mg TID recommended dosing interval.
 
 Such doses will normally produce an effective serum lithium concentration ranging between 1 and 1.5 mEq/L.
 Dosage must be individualized according to serum concentrations and clinical response.
@@ -19,10 +21,12 @@ Serum concentrations should be determined twice per week during the acute phase,
 Desirable serum lithium concentrations are 0.6 to 1.2 mEq/L which can usually be achieved with 900 to 1200 mg/day.
 Dosage will vary from one individual to another, but generally the following dosages will maintain this concentration:
 
-|  | LONG-TERM CONTROL |  |  |
+| LONG-TERM CONTROL |  |  |  |
 | --- | --- | --- | --- |
 |  | Morning | Afternoon | Nighttime |
-| Lithium Carbonate Extended-Release TabletsCan be administered on TID recommended dosing interval up to 1200 mg/day. | 2 tabs(600 mg) |  | 2 tabs(600 mg) |
+| Lithium Carbonate Extended-Release Tablets1 | 2 tabs(600 mg) |  | 2 tabs(600 mg) |
+
+1. 1.Can be administered on TID recommended dosing interval up to 1200 mg/day.
 
 Serum lithium concentrations in uncomplicated cases receiving maintenance therapy during remission should be monitored at least every two months.
 Patients abnormally sensitive to lithium may exhibit toxic signs at serum concentrations of 1 to 1.5 mEq/L.
@@ -34,4 +38,4 @@ In general, dose selection for an elderly patient should be cautious, usually st
 - •Blood samples for serum lithium determinations should be drawn immediately prior to the next dose when lithium concentrations are relatively stable (i.e., 8 to 12 hours after previous dose).
   Total reliance must not be placed on serum concentrations alone.
   Accurate patient evaluation requires both clinical and laboratory analysis.
-- •Lithium carbonate extended-release tablets USP must be swallowed whole and never chewed or crushed.
+- •Lithium carbonate extended-release tablets must be swallowed whole and never chewed or crushed.
