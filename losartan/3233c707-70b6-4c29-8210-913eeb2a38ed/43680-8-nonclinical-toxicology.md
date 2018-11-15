@@ -12,5 +12,5 @@ In addition, the active metabolite showed no evidence of genotoxicity in the mic
 Fertility and reproductive performance were not affected in studies with male rats given oral doses of losartan potassium up to approximately 150 mg/kg/day.
 The administration of toxic dosage levels in females (300/200 mg/kg/day) was associated with a significant (p<0.05) decrease in the number of corpora lutea/female, implants/female, and live fetuses/female at C-section.
 At 100 mg/kg/day only a decrease in the number of corpora lutea/female was observed.
-The relationship of these findings to drug- treatment is uncertain since there was no effect at these dosage levels on implants/pregnant female, percent post-implantation loss, or live animals/litter at parturition.
+The relationship of these findings to drug-treatment is uncertain since there was no effect at these dosage levels on implants/pregnant female, percent post-implantation loss, or live animals/litter at parturition.
 In nonpregnant rats dosed at 135 mg/kg/day for 7 days, systemic exposure (AUCs) for losartan and its active metabolite were approximately 66 and 26 times the exposure achieved in man at the maximum recommended human daily dosage (100 mg).

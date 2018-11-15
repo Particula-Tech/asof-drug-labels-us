@@ -62,6 +62,7 @@ Especially tell your doctor if you are taking:
 
 - potassium supplements
 - salt substitutes containing potassium
+- other medicines that may increase serum potassium
 - water pills (diuretics)
 - lithium (a medicine used to treat a certain kind of depression)
 - medicines used to treat pain and arthritis, called non-steroidal anti-inflammatory drugs (NSAIDs), including COX-2 inhibitors
@@ -138,7 +139,7 @@ Active ingredients: losartan potassium, USP
 
 Inactive ingredients: colloidal silica anhydrous, hydroxypropyl cellulose (low substituted), hypromellose, lactose monohydrate, magnesium stearate, maize starch (corn starch), microcrystalline cellulose, polyethylene glycol, sodium starch glycolate, talc and titanium dioxide.
 
-Please address medical inquiries to, (MedicalAffairs@zydususa.com) Tel.: 1-877-993-8779.
+Please address medical inquiries to, MedicalAffairs@zydususa.com or Tel.: 1-877-993-8779.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.

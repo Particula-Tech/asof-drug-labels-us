@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy CategoryD
+Pregnancy Category D
 
 Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
 Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
@@ -48,7 +48,7 @@ No overall differences in effectiveness or safety were observed between these pa
 
 In the LIFE study, Black patients with hypertension and left ventricular hypertrophy treated with atenolol were at lower risk of experiencing the primary composite endpoint compared with Black patients treated with losartan potassium (both cotreated with hydrochlorothiazide in the majority of patients).
 The primary endpoint was the first occurrence of stroke, myocardial infarction or cardiovascular death, analyzed using an intention-to-treat (ITT) approach.
-In the subgroup of Black patients (n=533, 6% of the LIFE study patients), there were 29 primary endpoints among 263 patients on atenolol (11%, 26 per 1000 patient- years) and 46 primary endpoints among 270 patients (17%, 42 per 1000 patient-years) on losartan potassium.
+In the subgroup of Black patients (n=533, 6% of the LIFE study patients), there were 29 primary endpoints among 263 patients on atenolol (11%, 26 per 1000 patient-years) and 46 primary endpoints among 270 patients (17%, 42 per 1000 patient-years) on losartan potassium.
 This finding could not be explained on the basis of differences in the populations other than race or on any imbalances between treatment groups.
 In addition, blood pressure reductions in both treatment groups were consistent between Black and non-Black patients.
 Given the difficulty in interpreting subset differences in large trials, it cannot be known whether the observed difference is the result of chance.

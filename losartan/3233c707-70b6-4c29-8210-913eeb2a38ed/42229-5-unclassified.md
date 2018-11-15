@@ -6,11 +6,11 @@ India
 
 Distributed by:
 
-Zydus Pharmaceuticals USA Inc.
+Zydus Pharmaceuticals (USA) Inc.
 
 Pennington, NJ 08534
 
-Rev.: 12/15
+Rev.: 10/18
 
 Manufactured by:
 
@@ -20,8 +20,8 @@ India
 
 Distributed by:
 
-Zydus Pharmaceuticals USA Inc.
+Zydus Pharmaceuticals (USA) Inc.
 
 Pennington, NJ 08534
 
-Rev.: 12/15
+Rev.: 10/18
