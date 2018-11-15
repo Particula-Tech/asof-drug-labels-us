@@ -292,9 +292,11 @@ In addition, it did not produce increases in chromosomal aberrations in an in vi
 
 ### Lisinopril
 
-There was no evidence of a tumorigenic effect when lisinopril was administered for 105 weeks to male and female rats at doses up to 90 mg/kg/day (about 56 or 9 timesCalculations assume a human weight of 50 kg and human body surface area of 1.62m2. the maximum daily human dose, based on body weight and body surface area, respectively).
-There was no evidence of carcinogenicity when lisinopril was administered for 92 weeks to (male and female) mice at doses up to 135 mg/kg/day (about 84 times the maximum recommended daily human dose).
+There was no evidence of a tumorigenic effect when lisinopril was administered for 105 weeks to male and female rats at doses up to 90 mg/kg/day (about 56 or 9 times* the maximum daily human dose, based on body weight and body surface area, respectively).
+There was no evidence of carcinogenicity when lisinopril was administered for 92 weeks to (male and female) mice at doses up to 135 mg/kg/day (about 84 times* the maximum recommended daily human dose).
 This dose was 6.8 times the maximum human dose based on body surface area in mice.
+
+*Calculations assume a human weight of 50 kg and human body surface area of 1.62m2.
 
 Lisinopril was not mutagenic in the Ames microbial mutagen test with or without metabolic activation.
 It was also negative in a forward mutation assay using Chinese hamster lung cells.
