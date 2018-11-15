@@ -68,7 +68,7 @@ Package Label – 2 mg
 
 Rx Only NDC 0078-0626-51
 
-Afinitor® DISPERZTM (everolimus tablets for oral suspension)
+Afinitor DISPERZ® (everolimus tablets for oral suspension)
 
 TABLETS MUST BE DISPERSED IN WATER.
 
@@ -84,7 +84,7 @@ Package Label – 3 mg
 
 Rx Only NDC 0078-0627-51
 
-Afinitor® DISPERZTM (everolimus tablets for oral suspension)
+Afinitor DISPERZ® (everolimus tablets for oral suspension)
 
 TABLETS MUST BE DISPERSED IN WATER.
 
@@ -100,7 +100,7 @@ Package Label – 5 mg
 
 Rx Only NDC 0078-0628-51
 
-Afinitor® DISPERZTM (everolimus tablets for oral suspension)
+Afinitor DISPERZ® (everolimus tablets for oral suspension)
 
 TABLETS MUST BE DISPERSED IN WATER.
 
