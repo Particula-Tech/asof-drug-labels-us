@@ -1,5 +1,17 @@
 # WARNINGS
 
+## Risk of Methemoglobinemia
+
+Cases of methemoglobinemia have been reported in association with local anesthetic use.
+Although all patients are at risk for methemoglobinemia, patients with glucose-6-phosphate dehydrogenase deficiency, congenital or idiopathic methemoglobinemia, cardiac or pulmonary compromise, infants under 6 months of age, and concurrent exposure to oxidizing agents or their metabolites are more susceptible to developing clinical manifestations of the condition.
+If local anesthetics must be used in these patients, close monitoring for symptoms and signs of methemoglobinemia is recommended.
+
+Signs of methemoglobinemia may occur immediately or may be delayed some hours after exposure, and are characterized by a cyanotic skin discoloration and/or abnormal coloration of the blood.
+Methemoglobin levels may continue to rise; therefore, immediate treatment is required to avert more serious central nervous system and cardiovascular adverse effects, including seizures, coma, arrhythmias, and death.
+Discontinue LIDODERM and any other oxidizing agents.
+Depending on the severity of the signs and symptoms, patients may respond to supportive care, i.e., oxygen therapy, hydration.
+A more severe clinical presentation may require treatment with methylene blue, exchange transfusion, or hyperbaric oxygen.
+
 ## Accidental Exposure in Children
 
 Even a used LIDODERM patch contains a large amount of lidocaine (at least 665 mg).
@@ -10,10 +22,10 @@ It is important for patients to store and dispose of LIDODERM out of the reach o
 ## Excessive Dosing
 
 Excessive dosing by applying LIDODERM to larger areas or for longer than the recommended wearing time could result in increased absorption of lidocaine and high blood concentrations, leading to serious adverse effects (see ADVERSE REACTIONS, Systemic Reactions).
-Lidocaine toxicity could be expected at lidocaine blood concentrations above 5 µg/mL.
+Lidocaine toxicity could be expected at lidocaine blood concentrations above 5 mcg/mL.
 The blood concentration of lidocaine is determined by the rate of systemic absorption and elimination.
 Longer duration of application, application of more than the recommended number of patches, smaller patients, or impaired elimination may all contribute to increasing the blood concentration of lidocaine.
-With recommended dosing of LIDODERM, the average peak blood concentration is about 0.13 µg/mL, but concentrations higher than 0.25 µg/mL have been observed in some individuals.
+With recommended dosing of LIDODERM, the average peak blood concentration is about 0.13 mcg/mL, but concentrations higher than 0.25 mcg/mL have been observed in some individuals.
 
 # PRECAUTIONS
 
@@ -32,11 +44,34 @@ External Heat Sources Placement of external heat sources, such as heating pads o
 Eye Exposure The contact of LIDODERM with eyes, although not studied, should be avoided based on the findings of severe eye irritation with the use of similar products in animals.
 If eye contact occurs, immediately wash out the eye with water or saline and protect the eye until sensation returns.
 
+## Information for Patients
+
+Methemoglobinemia
+
+Inform patients that use of local anesthetics may cause methemoglobinemia, a serious condition that must be treated promptly.
+Advise patients or caregivers to stop use and seek immediate medical attention if they or someone in their care experience the following signs or symptoms: pale, gray, or blue colored skin (cyanosis); headache; rapid heart rate; shortness of breath; lightheadedness; or fatigue.
+
 ## Drug Interactions
 
 Antiarrhythmic Drugs LIDODERM should be used with caution in patients receiving Class I antiarrhythmic drugs (such as tocainide and mexiletine) since the toxic effects are additive and potentially synergistic.
 
 Local Anesthetics When LIDODERM is used concomitantly with other products containing local anesthetic agents, the amount absorbed from all formulations must be considered.
+
+Drugs That May Cause Methemoglobinemia When Used with LIDODERM
+
+Patients who are administered local anesthetics are at increased risk of developing methemoglobinemia when concurrently exposed to the following drugs, which could include other local anesthetics:
+
+Examples of Drugs Associated with Methemoglobinemia:
+
+| Class | Examples |
+| --- | --- |
+| Nitrates/Nitrites | nitric oxide, nitroglycerin, nitroprusside, nitrous oxide |
+| Local anesthetics | articaine, benzocaine, bupivacaine, lidocaine, mepivacaine, prilocaine, procaine, ropivacaine, tetracaine |
+| Antineoplastic agents | cyclophosphamide, flutamide, hydroxyurea, ifosfamide, rasburicase |
+| Antibiotics | dapsone, nitrofurantoin, para-aminosalicylic acid, sulfonamides |
+| Antimalarials | chloroquine, primaquine |
+| Anticonvulsants | Phenobarbital, phenytoin, sodium valproate |
+| Other drugs | acetaminophen, metoclopramide, quinine, sulfasalazine |
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 

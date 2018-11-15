@@ -13,14 +13,14 @@ In a pharmacokinetic study, three LIDODERM patches were applied over an area of 
 Blood samples were withdrawn for determination of lidocaine concentration during the application and for 12 hours after removal of patches.
 The results are summarized in Table 1.
 
-| LIDODERM Patch | Application Site | Area (cm2) | Dose Absorbed (mg) | Cmax (µg/mL) | Tmax (hr) |
+| LIDODERM Patch | Application Site | Area (cm2) | Dose Absorbed (mg) | Cmax mcg/mL) | Tmax (hr) |
 | --- | --- | --- | --- | --- | --- |
 | Table 1 Absorption of lidocaine from LIDODERM Normal volunteers (n = 15, 12-hour wearing time) |  |  |  |  |  |
 | 3 patches (2100 mg) | Back | 420 | 64 ± 32 | 0.13 ± 0.06 | 11 hr |
 
 When LIDODERM is used according to the recommended dosing instructions, only 3 ± 2% of the dose applied is expected to be absorbed.
 At least 95% (665 mg) of lidocaine will remain in a used patch.
-Mean peak blood concentration of lidocaine is about 0.13 µg/mL (about 1/10 of the therapeutic concentration required to treat cardiac arrhythmias).
+Mean peak blood concentration of lidocaine is about 0.13 mcg/mL (about 1/10 of the therapeutic concentration required to treat cardiac arrhythmias).
 Repeated application of three patches simultaneously for 12 hours (recommended maximum daily dose), once per day for three days, indicated that the lidocaine concentration does not increase with daily use.
 The mean plasma pharmacokinetic profile for the 15 healthy volunteers is shown in Figure 1.
 
@@ -28,7 +28,7 @@ Figure 1 Mean lidocaine blood concentrations after three consecutive daily appli
 
 Distribution When lidocaine is administered intravenously to healthy volunteers, the volume of distribution is 0.7 to 2.7 L/kg (mean 1.5 ± 0.6 SD, n = 15).
 At concentrations produced by application of LIDODERM, lidocaine is approximately 70% bound to plasma proteins, primarily alpha-1-acid glycoprotein.
-At much higher plasma concentrations (1 to 4 µg/mL of free base), the plasma protein binding of lidocaine is concentration dependent.
+At much higher plasma concentrations (1 to 4 mcg/mL of free base), the plasma protein binding of lidocaine is concentration dependent.
 Lidocaine crosses the placental and blood brain barriers, presumably by passive diffusion.
 
 Metabolism It is not known if lidocaine is metabolized in the skin.
