@@ -76,8 +76,7 @@ Before you take clopidogrel tablets, tell your doctor if you:
   It is not known if clopidogrel will harm your unborn baby
 - are breastfeeding or plan to breastfeed.
   It is not known if clopidogrel passes into your breast milk.
-  You and your doctor should decide if you will take clopidogrel tablets or breastfeed.
-  You should not do both without talking to your doctor
+  A decision should be made with your healthcare provider to avoid or discontinue breastfeeding when continuing clopidogrel is needed.
 - have had an allergy or reaction to any medicine used to treat your disease.
 
 Tell all of your doctors and your dentist that you are taking clopidogrel tablets.
@@ -199,7 +198,7 @@ CLOPIDOGREL TABLETS, USP 75 mg and 300 mg
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | 33326 |
 
-Revised: June 2018
+Revised: October 2018
 
 Rev.
-24
+25

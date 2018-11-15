@@ -42,7 +42,7 @@ Absorption
 After single and repeated oral doses of 75 mg per day, clopidogrel is rapidly absorbed.
 Absorption is at least 50%, based on urinary excretion of clopidogrel metabolites.
 
-Effect of Food
+Effect of food
 
 Clopidogrel can be administered with or without food.
 In a study in healthy male subjects when clopidogrel 75 mg per day was given with a standard breakfast, mean inhibition of ADP-induced platelet aggregation was reduced by less than 9%.
@@ -82,8 +82,8 @@ Pharmacodynamic and pharmacokinetic parameters measured in these studies showed 
 
 Opioids
 
-Co-administration of 5 mg intravenous morphine with 600 mg loading dose of clopidogrel in healthy adults decreased the AUC and Cmax of clopidogrel’s thiol metabolites by 34%.
-Mean platelet aggregation was higher up to 2 to 4 hours with morphine co-administration.
+Coadministration of 5 mg intravenous morphine with 600 mg loading dose of clopidogrel in healthy adults decreased the AUC and Cmax of clopidogrel’s thiol metabolites by 34%.
+Mean platelet aggregation was higher up to 2 to 4 hours with morphine coadministration.
 
 Effect of clopidogrel on other drugs In vitro studies have shown that the glucuronide metabolite of clopidogrel is a strong inhibitor of CYP2C8.
 Concomitant administration of repaglinide with clopidogrel increased the systemic exposure to repaglinide (AUC0-∞) by 5.1-fold following the loading dose (300 mg) and by 3.9-fold on day 3 of the maintenance dose (75 mg) of clopidogrel [see Drug Interactions (7.6)].
@@ -105,4 +105,4 @@ Decreased active metabolite exposure and diminished inhibition of platelet aggre
 | Cmax (ng/mL) | 300 mg (24 h) 600 mg (24 h) 75 mg (Day 5) 150 mg (Day 5) | 11 (4) 17 (6) 4 (1) 7 (2) | 23 (11) 39 (23) 12 (5) 18 (7) | 32 (21) 44 (27) 13 (7) 19 (5) | 24 (10) 36 (13) 12 (6) 16 (9) |
 | IPA (%)‡ | 300 mg (24 h) 600 mg (24 h) 75 mg (Day 5) 150 mg (Day 5) | 24 (26) 32 (25) 37 (23) 61 (14) | 37 (21) 56 (22) 60 (18) 74 (14) | 39 (28) 49 (23) 58 (19) 73 (9) | 40 (21) 51 (28) 56 (13) 68 (18) |
 | VASP-PRI (%)§ | 300 mg (24 h) 600 mg (24 h) 75 mg (Day 5) 150 mg (Day 5) | 91 (12) 85 (14) 83 (13) 61 (18) | 78 (12) 56 (26) 50 (16) 29 (11) | 68 (16) 48 (20) 39 (14) 24 (10) | 73 (12) 51 (20) 40 (9) 20 (10) |
-| *Intermediate metabolizers have one but not two nonfunctional alleles. †Ultrarapid metabolizers have at least one gain-of-function allele. ‡Inhibition of platelet aggregation with 5mcM ADP; larger value indicates greater platelet inhibition §Vasodilator-stimulated phosphoprotein – platelet reactivity index; smaller value indicates greater platelet inhibition Values are mean (SD). |  |  |  |  |  |
+| *Intermediate metabolizers have one but not two nonfunctional alleles. †Ultrarapid metabolizers have at least one gain-of-function allele. ‡Inhibition of platelet aggregation with 5mcM ADP; larger value indicates greater platelet inhibition. §Vasodilator-stimulated phosphoprotein – platelet reactivity index; smaller value indicates greater platelet inhibition. Values are mean (SD). |  |  |  |  |  |

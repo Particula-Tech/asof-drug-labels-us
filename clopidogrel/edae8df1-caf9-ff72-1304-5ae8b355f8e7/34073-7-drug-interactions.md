@@ -14,8 +14,8 @@ Dexlansoprazole, lansoprazole and pantoprazole had less effect on the antiplatel
 
 ## 7.2 Opioids
 
-As with other oral P2Y12 inhibitors, co-administration of opioid agonists delay and reduce the absorption of clopidogrel, presumably because of slowed gastric emptying, resulting in reduced exposure to its metabolites [see Clinical Pharmacology (12.3)].
-Consider the use of a parenteral antiplatelet agent in acute coronary syndrome patients requiring co-administration of morphine or other opioid agonists.
+As with other oral P2Y12 inhibitors, coadministration of opioid agonists delay and reduce the absorption of clopidogrel, presumably because of slowed gastric emptying, resulting in reduced exposure to its metabolites [see Clinical Pharmacology (12.3)].
+Consider the use of a parenteral antiplatelet agent in acute coronary syndrome patients requiring coadministration of morphine or other opioid agonists.
 
 ## 7.3 Nonsteroidal Anti-inflammatory Drugs (NSAIDs)
 

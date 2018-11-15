@@ -59,7 +59,7 @@ Table 2: Incidence of Bleeding Events in COMMIT (% patients)
 | Other noncerebral bleeding (non-major) | 3.6 | 3.1 | 0.005 |
 | Any noncerebral bleeding | 3.9 | 3.4 | 0.004 |
 
-* Major bleeds were cerebral bleeds or non-cerebral bleeds thought to have caused death or that required transfusion.
+* Major bleeds were cerebral bleeds or noncerebral bleeds thought to have caused death or that required transfusion.
 
 CAPRIE (Clopidogrel bisulfate vs Aspirin)
 
@@ -77,7 +77,7 @@ No other difference in the rate of adverse events (other than bleeding) was repo
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of clopidogrel bisulfate.
+The following adverse reactions have been identified during postapproval use of clopidogrel bisulfate.
 Because these reactions are reported voluntarily from a population of an unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Hemorrhages, including those with fatal outcome, have been reported in patients treated with clopidogrel.
@@ -85,7 +85,7 @@ Hemorrhages, including those with fatal outcome, have been reported in patients 
 - Blood and lymphatic system disorders: Agranulocytosis, aplastic anemia/pancytopenia, thrombotic thrombocytopenic purpura (TTP), acquired hemophilia A
 - Gastrointestinal disorders: Colitis (including ulcerative or lymphocytic colitis), pancreatitis, stomatitis, gastric/duodenal ulcer, diarrhea
 - General disorders and administration site condition: Fever
-- Hepatobiliary disorders: Acute liver failure, hepatitis (non-infectious), abnormal liver function test
+- Hepatobiliary disorders: Acute liver failure, hepatitis (noninfectious), abnormal liver function test
 - Immune system disorders: Hypersensitivity reactions, anaphylactoid reactions, serum sickness
 - Musculoskeletal, connective tissue and bone disorders: Myalgia, arthralgia, arthritis
 - Nervous system disorders: Taste disorders, headache, ageusia

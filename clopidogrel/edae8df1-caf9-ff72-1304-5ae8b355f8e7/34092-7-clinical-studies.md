@@ -7,7 +7,7 @@ CURE
 The CURE study included 12,562 patients with ACS without ST-elevation (UA or NSTEMI) and presenting within 24 hours of onset of the most recent episode of chest pain or symptoms consistent with ischemia.
 Patients were required to have either ECG changes compatible with new ischemia (without ST-elevation) or elevated cardiac enzymes or troponin I or T to at least twice the upper limit of normal.
 
-Patients were randomized to receive clopidogrel (300-mg loading dose followed by 75 mg once daily) or placebo, and were treated for up to one year.
+Patients were randomized to receive clopidogrel (300 mg loading dose followed by 75 mg once daily) or placebo, and were treated for up to one year.
 Patients also received aspirin (75 to 325 mg once daily) and other standard therapies such as heparin.
 The use of GPIIb/IIIa inhibitors was not permitted for three days prior to randomization.
 
@@ -29,12 +29,12 @@ Table 4: Outcome Events in the CURE Primary Analysis
 Most of the benefit of clopidogrel occurred in the first two months, but the difference from placebo was maintained throughout the course of the trial (up to 12 months) (see Figure 2).
 
 The effect of clopidogrel did not differ significantly in various subgroups, as shown in Figure 3.
-The benefits associated with clopidogrel were independent of the use of other acute and long-term cardiovascular therapies, including heparin/LMWH, intravenous glycoprotein IIb/IIIa (GPIIb/IIIa) inhibitors, lipid-lowering drugs, beta-blockers, and ACE-inhibitors.
+The benefits associated with clopidogrel were independent of the use of other acute and long-term cardiovascular therapies, including heparin/LMWH, intravenous glycoprotein IIb/IIIa (GPIIb/IIIa) inhibitors, lipid-lowering drugs, beta-blockers, and ACE inhibitors.
 The efficacy of clopidogrel was observed independently of the dose of aspirin (75 to 325 mg once daily).
-The use of oral anticoagulants, non-study antiplatelet drugs, and chronic NSAIDs was not allowed in CURE.
+The use of oral anticoagulants, non study antiplatelet drugs, and chronic NSAIDs was not allowed in CURE.
 
 The use of clopidogrel in CURE was associated with a decrease in the use of thrombolytic therapy (71 patients [1.1%] in the clopidogrel group, 126 patients [2.0%] in the placebo group; relative risk reduction of 43%), and GPIIb/IIIa inhibitors (369 patients [5.9%] in the clopidogrel group, 454 patients [7.2%] in the placebo group, relative risk reduction of 18%).
-The use of clopidogrel in CURE did not affect the number of patients treated with CABG or PCI (with or without stenting), (2,253 patients [36.0%] in the clopidogrel group, 2,324 patients [36.9%] in the placebo group; relative risk reduction of 4.0%).
+The use of clopidogrel in CURE did not affect the number of patients treated with CABG or PCI (with or without stenting) (2,253 patients [36.0%] in the clopidogrel group, 2,324 patients [36.9%] in the placebo group; relative risk reduction of 4.0%).
 
 COMMIT
 
@@ -60,7 +60,7 @@ Table 5: Outcome Events in COMMIT
 
 †Non-fatal MI and non-fatal stroke exclude patients who died (of any cause).
 
-The effect of clopidogrel did not differ significantly in various pre-specified subgroups as shown in Figure 6.
+The effect of clopidogrel did not differ significantly in various prespecified subgroups as shown in Figure 6.
 The effect was also similar in non-prespecified subgroups including those based on infarct location, Killip class or prior MI history.
 Such subgroup analyses should be interpreted cautiously.
 
