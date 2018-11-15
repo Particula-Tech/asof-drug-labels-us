@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 50/12.5 mg Tablet Label
+# PRINCIPAL DISPLAY PANEL - 50 mg/12.5 mg Tablet Bottle Label
 
 NDC 0006-0717-31
 
@@ -15,7 +15,7 @@ Rx only
 
 30 Tablets
 
-# PRINCIPAL DISPLAY PANEL - 100/12.5 mg Tablet Label
+# PRINCIPAL DISPLAY PANEL - 100 mg/12.5 mg Tablet Bottle Label
 
 NDC 0006-0745-31
 
@@ -32,7 +32,7 @@ Rx only
 
 30 Tablets
 
-# PRINCIPAL DISPLAY PANEL - 100/25 mg Tablet Label
+# PRINCIPAL DISPLAY PANEL - 100 mg/25 mg Tablet Bottle Label
 
 NDC 0006-0747-31
 

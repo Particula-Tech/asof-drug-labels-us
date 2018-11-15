@@ -66,4 +66,4 @@ Initiation of HYZAAR is not recommended for patients with hepatic impairment bec
 ## 8.8 Renal Impairment
 
 Changes in renal function have been reported in susceptible individuals [see Dosage and Administration (2.1), Warnings and Precautions (5.4), and Clinical Pharmacology (12.3)].
-Safety and effectiveness of HYZAAR in patients with severe renal impairment (creatine clearance <30 mL/min) have not been established.
+Safety and effectiveness of HYZAAR in patients with severe renal impairment (creatinine clearance <30 mL/min) have not been established.

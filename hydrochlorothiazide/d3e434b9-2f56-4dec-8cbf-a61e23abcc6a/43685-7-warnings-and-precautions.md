@@ -36,6 +36,8 @@ Hypomagnesemia can result in hypokalemia which may be difficult to treat despite
 HYZAAR also contains losartan which can cause hyperkalemia.
 Monitor serum electrolytes periodically [see Drug Interactions (7.1)].
 
+Concomitant use of other drugs that may increase serum potassium may lead to hyperkalemia [see Drug Interactions (7.1)].
+
 Hydrochlorothiazide may alter glucose tolerance and raise serum levels of cholesterol and triglycerides.
 
 Hyperuricemia may occur or frank gout may be precipitated in patients receiving thiazide therapy.
