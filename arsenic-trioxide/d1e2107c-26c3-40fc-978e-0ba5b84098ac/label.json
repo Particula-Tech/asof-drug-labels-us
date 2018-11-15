@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA210802"
+  ],
+  "inn": "arsenic-trioxide",
+  "labeler": "Amring Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "69918-720-01",
+    "69918-720-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "arsenic trioxide",
+      "name": "ARSENIC TRIOXIDE"
+    }
+  ],
+  "setid": "d1e2107c-26c3-40fc-978e-0ba5b84098ac",
+  "source": "dailymed"
+}
