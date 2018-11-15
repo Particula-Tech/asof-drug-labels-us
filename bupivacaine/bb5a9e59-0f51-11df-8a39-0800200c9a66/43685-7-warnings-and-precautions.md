@@ -32,7 +32,7 @@ The incidence of convulsions associated with the use of local anesthetics varies
 Cardiovascular System Reactions
 
 Toxic blood concentrations depress cardiac conductivity and excitability, which may lead to atrioventricular block, ventricular arrhythmias, and cardiac arrest, sometimes resulting in fatalities.
-In addition, myocardial contractility is depressed and peripheral vasodilation occurs, leading to decreased cardiac output and arterial blood pressure [See Warnings and Precautions (5.1) and Overdosage (10)].
+In addition, myocardial contractility is depressed and peripheral vasodilation occurs, leading to decreased cardiac output and arterial blood pressure [See Overdosage (10)].
 
 Allergic Reactions
 
@@ -48,6 +48,18 @@ The majority of reported cases of chondrolysis have involved the shoulder joint;
 There is insufficient information to determine whether shorter infusion periods are not associated with these findings.
 The time of onset of symptoms, such as joint pain, stiffness, and loss of motion can be variable, but may begin as early as the second month after surgery.
 Currently, there is no effective treatment for chondrolysis; patients who have experienced chondrolysis have required additional diagnostic and therapeutic procedures and some required arthroplasty or shoulder replacement.
+
+Methemoglobinemia
+
+Cases of methemoglobinemia have been reported in association with local anesthetic use.
+Although all patients are at risk for methemoglobinemia, patients with glucose-6-phosphate dehydrogenase deficiency, congenital or idiopathic methemoglobinemia, cardiac or pulmonary compromise, infants under 6 months of age, and concurrent exposure to oxidizing agents or their metabolites are more susceptible to developing clinical manifestations of the condition.
+If local anesthetics must be used in these patients, close monitoring for symptoms and signs of methemoglobinemia is recommended.
+
+Signs of methemoglobinemia may occur immediately or may be delayed some hours after exposure, and are characterized by a cyanotic skin discoloration and/or abnormal coloration of the blood.
+Methemoglobin levels may continue to rise; therefore, immediate treatment is required to avert more serious central nervous system and cardiovascular adverse effects, including seizures, coma, arrhythmias, and death.
+Discontinue EXPAREL and any oxidizing agents.
+Depending on the severity of the signs and symptoms, patients may respond to supportive care, i.e., oxygen therapy, hydration.
+A more severe clinical presentation may require treatment with methylene blue, exchange transfusion, or hyperbaric oxygen.
 
 ## 5.2 Warnings and Precautions Specific for EXPAREL
 

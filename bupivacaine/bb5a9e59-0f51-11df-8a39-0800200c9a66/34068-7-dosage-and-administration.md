@@ -56,7 +56,7 @@ Therefore, admixing EXPAREL with other drugs prior to administration is not reco
 Studies conducted with EXPAREL demonstrated that the most common implantable materials (polypropylene, PTFE, silicone, stainless steel, and titanium) are not affected by the presence of EXPAREL any more than they are by saline.
 None of the materials studied had an adverse effect on EXPAREL.
 
-When administered in recommended doses and concentrations, bupivacaine HCl does not ordinarily produce irritation or tissue damage and does not cause methemoglobinemia.
+When administered in recommended doses and concentrations, bupivacaine HCl does not ordinarily produce irritation or tissue damage.
 
 ## 2.5 Non-Interchangeability with Other Formulations of Bupivacaine
 

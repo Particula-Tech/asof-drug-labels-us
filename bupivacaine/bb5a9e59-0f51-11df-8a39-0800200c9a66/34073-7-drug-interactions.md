@@ -3,6 +3,20 @@
 The toxic effects of local anesthetics are additive and their co-administration should be used with caution including monitoring for neurologic and cardiovascular effects related to local anesthetic systemic toxicity [See Dosage and Administration (2.2), Warnings and Precautions (5.1), and Overdosage (10)].
 Avoid additional use of local anesthetics within 96 hours following administration of EXPAREL.
 
+Patients who are administered local anesthetics may be at increased risk of developing methemoglobinemia when concurrently exposed to the following drugs, which could include other local anesthetics:
+
+Examples of Drugs Associated with Methemoglobinemia:
+
+| Class | Examples |
+| --- | --- |
+| Nitrates/Nitrites | nitric oxide, nitroglycerin, nitroprusside, nitrous oxide |
+| Local anesthetics | articaine, benzocaine, bupivacaine, lidocaine, mepivacaine, prilocaine, procaine, ropivacaine, tetracaine |
+| Antineoplastic agents | cyclophosphamide, flutamide, hydroxyurea, ifosfamide, rasburicase |
+| Antibiotics | dapsone, nitrofurantoin, para-aminosalicylic acid, sulfonamides |
+| Antimalarials | chloroquine, primaquine |
+| Anticonvulsants | Phenobarbital, phenytoin, sodium valproate |
+| Other drugs | acetaminophen, metoclopramide, quinine, sulfasalazine |
+
 Bupivacaine
 
 Bupivacaine HCl administered together with EXPAREL may impact the pharmacokinetic and/or physicochemical properties of EXPAREL, and this effect is concentration dependent.

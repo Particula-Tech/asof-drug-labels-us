@@ -6,6 +6,7 @@ The following serious adverse reactions have been associated with bupivacaine hy
 - Cardiovascular System Reactions [see Warnings and Precautions (5.1)]
 - Allergic Reactions [see Warnings and Precautions (5.1)]
 - Chondrolysis [see Warnings and Precautions (5.1)]
+- Methemoglobinemia [see Warnings and Precautions (5.1)]
 - Accidental intravascular injection [see Warnings and Precautions (5.2)]
 
 ## 6.1 Clinical Trials
