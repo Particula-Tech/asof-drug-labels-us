@@ -13,11 +13,11 @@ What is the most important information I should know about risedronate sodium ta
 
 Risedronate sodium tablets can cause serious side effects including:
 
-1. 1.Esophagus problems
-2. 2.Low calcium levels in your blood (hypocalcemia)
-3. 3.Severe jaw bone problems (osteonecrosis)
-4. 4.Bone, joint, or muscle pain
-5. 5.Unusual thigh bone fractures
+1. Esophagus problems
+2. Low calcium levels in your blood (hypocalcemia)
+3. Severe jaw bone problems (osteonecrosis)
+4. Bone, joint, or muscle pain
+5. Unusual thigh bone fractures
 
 1.
 Esophagus problems.
@@ -25,9 +25,9 @@ Esophagus problems.
 Some people who take risedronate sodium tablets may develop problems in the esophagus (the tube that connects the mouth and the stomach).
 These problems include irritation, inflammation, or ulcers of the esophagus which may sometimes bleed.
 
-- •It is important that you take risedronate sodium tablets exactly as prescribed to help lower your chance of getting esophagus problems.
+- It is important that you take risedronate sodium tablets exactly as prescribed to help lower your chance of getting esophagus problems.
   (See the section "How should I take risedronate sodium tablets?".)
-- •Stop taking risedronate sodium tablets and call your doctor right away if you get chest pain, new or worsening heartburn, or have trouble or pain when you swallow.
+- Stop taking risedronate sodium tablets and call your doctor right away if you get chest pain, new or worsening heartburn, or have trouble or pain when you swallow.
 
 2.
 Low calcium levels in your blood (hypocalcemia).
@@ -38,8 +38,8 @@ Your low blood calcium must be treated before you take risedronate sodium tablet
 Most people with low blood calcium levels do not have symptoms, but some people may have symptoms.
 Call your doctor right away if you have symptoms of low blood calcium such as:
 
-- •Spasms, twitches, or cramps in your muscles
-- •Numbness or tingling in your fingers, toes, or around your mouth
+- Spasms, twitches, or cramps in your muscles
+- Numbness or tingling in your fingers, toes, or around your mouth
 
 Your doctor may prescribe calcium and vitamin D to help prevent low calcium levels in your blood, while you take risedronate sodium tablets.
 Take calcium and vitamin D as your doctor tells you to.
@@ -69,11 +69,11 @@ What are risedronate sodium tablets?
 
 Risedronate sodium tablets are a prescription medicine used to:
 
-- •Treat or prevent osteoporosis in women after menopause.
+- Treat or prevent osteoporosis in women after menopause.
   Risedronate sodium tablets help increase bone mass and help reduce the chance of having a spinal or non-spinal fracture (break).
-- •Increase bone mass in men with osteoporosis.
-- •Treat or prevent osteoporosis in either men or women who are taking corticosteroid medicines.
-- •Treat certain men and women who have Paget's disease of the bone.
+- Increase bone mass in men with osteoporosis.
+- Treat or prevent osteoporosis in either men or women who are taking corticosteroid medicines.
+- Treat certain men and women who have Paget's disease of the bone.
 
 It is not known how long risedronate sodium tablets work for the treatment and prevention of osteoporosis.
 You should see your doctor regularly to determine if risedronate sodium tablets are still right for you.
@@ -84,32 +84,32 @@ Who should not take risedronate sodium tablets?
 
 Do not take risedronate sodium tablets if you:
 
-- •Have certain problems with your esophagus, the tube that connects your mouth with your stomach
-- •Cannot stand or sit upright for at least 30 minutes
-- •Have low levels of calcium in your blood
-- •Are allergic to risedronate sodium tablets or any of their ingredients.
+- Have certain problems with your esophagus, the tube that connects your mouth with your stomach
+- Cannot stand or sit upright for at least 30 minutes
+- Have low levels of calcium in your blood
+- Are allergic to risedronate sodium tablets or any of their ingredients.
   A list of ingredients is at the end of this leaflet.
 
 What should I tell my doctor before taking risedronate sodium tablets?
 
 Before you start risedronate sodium tablets, be sure to talk to your doctor if you:
 
-- •Have problems with swallowing
-- •Have stomach or digestive problems
-- •Have low blood calcium
-- •Plan to have dental surgery or teeth removed
-- •Have kidney problems
-- •Have been told you have trouble absorbing minerals in your stomach or intestines (malabsorption syndrome)
-- •Are pregnant, or plan to become pregnant.
+- Have problems with swallowing
+- Have stomach or digestive problems
+- Have low blood calcium
+- Plan to have dental surgery or teeth removed
+- Have kidney problems
+- Have been told you have trouble absorbing minerals in your stomach or intestines (malabsorption syndrome)
+- Are pregnant, or plan to become pregnant.
   It is not known if risedronate sodium tablets can harm your unborn baby.
-- •Are breastfeeding or plan to breastfeed.
+- Are breastfeeding or plan to breastfeed.
   It is not known if risedronate sodium passes into your milk and may harm your baby.
 
 Especially tell your doctor if you take:
 
-- •antacids
-- •aspirin
-- •Non-steroidal Anti-Inflammatory (NSAID) medicines
+- antacids
+- aspirin
+- Non-steroidal Anti-Inflammatory (NSAID) medicines
 
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
 Certain medicines may affect how risedronate sodium tablets work.
@@ -119,21 +119,21 @@ Keep a list of them and show it to your doctor and pharmacist each time you get 
 
 How should I take risedronate sodium tablets?
 
-- •Take risedronate sodium tablets exactly as your doctor tells you.
+- Take risedronate sodium tablets exactly as your doctor tells you.
   Your doctor may change your dose of risedronate sodium tablets if needed.
-- •Risedronate sodium tablets work only if taken on an empty stomach.
-- •Take 1 risedronate sodium tablet, after you get up for the day and before taking your first food, drink, or other medicine.
-- •Take risedronate sodium tablets while you are sitting or standing.
-- •Do not chew or suck on a tablet of risedronate sodium.
-- •Swallow risedronate sodium tablet with a full glass (6 to 8 ounces) of plain water only.
-- •Do not take risedronate sodium tablets with mineral water, coffee, tea, soda, or juice.
+- Risedronate sodium tablets work only if taken on an empty stomach.
+- Take 1 risedronate sodium tablet, after you get up for the day and before taking your first food, drink, or other medicine.
+- Take risedronate sodium tablets while you are sitting or standing.
+- Do not chew or suck on a tablet of risedronate sodium.
+- Swallow risedronate sodium tablet with a full glass (6 to 8 ounces) of plain water only.
+- Do not take risedronate sodium tablets with mineral water, coffee, tea, soda, or juice.
 
 After swallowing risedronate sodium tablet, wait at least 30 minutes:
 
-- •Before you lie down.
+- Before you lie down.
   You may sit, stand or walk, and do normal activities like reading.
-- •Before you take your first food or drink except for plain water.
-- •Before you take other medicines, including antacids, calcium, and other supplements and vitamins.
+- Before you take your first food or drink except for plain water.
+- Before you take other medicines, including antacids, calcium, and other supplements and vitamins.
 
 Do not lie down for at least 30 minutes after you take risedronate sodium tablets and after you eat your first food of the day.
 
@@ -151,13 +151,13 @@ What are the possible side effects of risedronate sodium tablets?
 
 Risedronate sodium tablets may cause serious side effects:
 
-- •See "What is the most important information I should know about risedronate sodium tablets?"
+- See "What is the most important information I should know about risedronate sodium tablets?"
 
 The most common side effects of risedronate sodium tablets are:
 
-- •pain, including back and joint pain
-- •stomach area (abdominal) pain
-- •heartburn
+- pain, including back and joint pain
+- stomach area (abdominal) pain
+- heartburn
 
 You may get allergic reactions, such as hives, swelling of your face, lips, tongue, or throat.
 
@@ -171,7 +171,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store risedronate sodium tablets?
 
-- •Store risedronate sodium tablets at room temperature, 20° to 25°C (68° to 77°F).
+- Store risedronate sodium tablets at room temperature, 20° to 25°C (68° to 77°F).
 
 Safely throw away medicine that is out of date or no longer needed.
 
