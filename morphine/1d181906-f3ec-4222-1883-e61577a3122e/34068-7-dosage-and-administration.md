@@ -20,7 +20,7 @@ Acceptable techniques for verifying proper placement include: a) aspiration to c
 
 Safety and Handling Instructions
 
-Preservative-free morphine sulfate injection is supplied in sealed ampuls or vials.
+Preservative-free morphine sulfate injection is supplied in sealed vials.
 Accidental dermal exposure should be treated by the removal of any contaminated clothing and rinsing the affected area with water.
 
 Inspect parenteral drug products for particulate matter and discoloration prior to administration, whenever solution and container permit.
