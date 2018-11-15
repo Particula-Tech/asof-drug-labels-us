@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 25 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 25 mg Tablet Bottle Label
 
 NDC 0006-0951-54
 
@@ -15,7 +15,7 @@ Rx only
 
 90 Tablets
 
-# PRINCIPAL DISPLAY PANEL - 50 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 50 mg Tablet Bottle Label
 
 NDC 0006-0952-31
 
@@ -32,7 +32,7 @@ Rx only
 
 30 Tablets
 
-# PRINCIPAL DISPLAY PANEL - 100 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 100 mg Tablet Bottle Label
 
 NDC 0006-0960-31
 
