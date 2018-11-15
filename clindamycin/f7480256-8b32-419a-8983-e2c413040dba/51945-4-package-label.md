@@ -66,10 +66,6 @@ For topical use only
 
 Rx only
 
-PAA041327
-
-LOT/EXP
-
 # PRINCIPAL DISPLAY PANEL - 60 mL Bottle Carton - Lotion
 
 NDC 59762-3744-1 60 mL
