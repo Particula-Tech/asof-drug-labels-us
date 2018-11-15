@@ -20,4 +20,4 @@ OR ORAL USE
 
 10 mL
 
-Rx Only Alcon®
+Rx Only Alcon® a Novartis company
