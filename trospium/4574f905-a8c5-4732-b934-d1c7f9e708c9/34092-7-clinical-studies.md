@@ -34,11 +34,11 @@ Table 4: Mean (SE) Change from Baseline in Urinary Frequency, Urge Incontinence 
 
 Figure 2: Mean Change from Baseline in Urinary Frequency/24 hours by Visit: Study 1
 
-- WEEK OF TREATMENT
+1. WEEK OF TREATMENT
 
 Figure 3: Mean Change from Baseline in Incontinence Episodes/Week by Visit: Study 1
 
-- WEEK OF TREATMENT
+1. WEEK OF TREATMENT
 
 Study 2 included 543 patients in both Trospium Chloride Extended-Release Capsules 60 mg and placebo groups and was identical in design to Study 1.
 As illustrated in Table 5 and Figures 4 and 5, Trospium Chloride Extended-Release Capsules demonstrated statistically significantly (p<0.01) greater reductions in urinary frequency and incontinence episodes, and increases in void volume when compared to placebo at Weeks 4 and 12.
@@ -66,8 +66,8 @@ Table 5: Mean (SE) Change from Baseline in Urinary Frequency, Urge Incontinence 
 
 Figure 4: Mean Change from Baseline in Urinary Frequency/24 hours by Visit: Study 2
 
-- WEEK OF TREATMENT
+1. WEEK OF TREATMENT
 
 Figure 5: Mean Change from Baseline in Incontinence Episodes/Week by Visit: Study 2
 
-- WEEK OF TREATMENT
+1. WEEK OF TREATMENT

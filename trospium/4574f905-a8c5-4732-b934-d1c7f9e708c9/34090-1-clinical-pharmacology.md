@@ -41,7 +41,7 @@ A summary of mean (± standard deviation) pharmacokinetic parameters for a singl
 
 Table 3: Mean (±SD) Pharmacokinetic Parameter Estimates for a Single 60 mg Oral Dose of Trospium Chloride Extended-Release Capsules in Healthy Volunteers
 
-| Treatment | AUC(0-24) (ng•h/mL) | Cmax (ng/mL) | TmaxTmax expressed as median (range). (h) | t ½t½ was determined following multiple (10) doses. (h) |
+| Treatment | AUC(0-24) (ng•h/mL) | Cmax (ng/mL) | TmaxTmax expressed as median (range). (h) | t ½ t½ was determined following multiple (10) doses. (h) |
 | --- | --- | --- | --- | --- |
 | Trospium Chloride Extended-Release Capsules 60 mg | 18.0 ± 13.4 | 2.0 ± 1.5 | 5.0 (3.0 to 7.5) | 36 ± 22 |
 
