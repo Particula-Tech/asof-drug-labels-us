@@ -9,11 +9,13 @@ Dispense in a tight container.
 
 To report SUSPECTED ADVERSE REACTIONS, contact Meda Pharmaceuticals Inc. at 1-800-526-3840 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
-Manufactured by: Patheon Pharmaceuticals Inc. Cincinnati, OH 45237
+Manufactured for: Meda Pharmaceuticals Inc. Somerset, New Jersey 08873-4120
 
-For: Meda Pharmaceuticals Meda Pharmaceuticals Inc. Somerset, New Jersey 08873-4120
+©2018 Mylan Specialty LP
 
-©2009 Meda Pharmaceuticals Inc.
+DEPEN is a registered trademark of Meda Pharmaceuticals Inc., a Mylan company.
 
-70018452 Rev.
-4/09
+500493-03 Rev.
+7/18
+
+IN-4401-01
