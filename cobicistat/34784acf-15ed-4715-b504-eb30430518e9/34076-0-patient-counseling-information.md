@@ -29,9 +29,10 @@ Missed Dosage
 
 Inform patients that it is important to take GENVOYA on a regular dosing schedule with food and to avoid missing doses as it can result in development of resistance [see Dosage and Administration (2.2)].
 
-Pregnancy Registry
+Pregnancy
 
-Inform patients that there is an antiretroviral pregnancy registry to monitor fetal outcomes of pregnant women exposed to GENVOYA [see Use in Specific Populations (8.1)].
+Advise patients that GENVOYA is not recommended during pregnancy and to alert their healthcare provider if they become pregnant while taking GENVOYA [see Dosage and Administration (2.5) and Use in Specific Populations (8.1)].
+Inform patients that there is an antiretroviral pregnancy registry to monitor fetal outcomes of pregnant individuals exposed to GENVOYA [see Use in Specific Populations (8.1)].
 
 Lactation
 

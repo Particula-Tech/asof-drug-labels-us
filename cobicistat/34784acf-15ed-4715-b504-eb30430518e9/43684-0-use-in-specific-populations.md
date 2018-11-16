@@ -4,33 +4,62 @@
 
 Pregnancy Exposure Registry
 
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to GENVOYA during pregnancy.
+There is a pregnancy exposure registry that monitors pregnancy outcomes in individuals exposed to GENVOYA during pregnancy.
 Healthcare providers are encouraged to register patients by calling the Antiretroviral Pregnancy Registry (APR) at 1-800-258-4263.
 
 Risk Summary
 
+GENVOYA is not recommended during pregnancy [see Dosage and Administration (2.5)].
+A literature report evaluating the pharmacokinetics of antiretrovirals during pregnancy demonstrated substantially lower exposures of elvitegravir and cobicistat in the second and third trimesters (see Data).
+
 Prospective pregnancy data from the APR are not sufficient to adequately assess the risk of birth defects of miscarriage.
-TAF use in women during pregnancy has not been evaluated; however, elvitegravir, cobicistat, and emtricitabine use during pregnancy has been evaluated in a limited number of women as reported to the APR.
-Available data from the APR through January 2016 show no birth defects reported for elvitegravir or cobicistat, and no difference in the overall risk of major birth defects for emtricitabine compared with the background rate for major birth defects of 2.7% in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) [see Data].
-In animal studies, no adverse developmental effects were observed when the components of GENVOYA were administered separately during the period of organogenesis at exposures up to 23 and 0.2 times (rat and rabbits, respectively: elvitegravir), 1.6 and 3.8 times (rats and rabbits, respectively: cobicistat), 60 and 108 times (mice and rabbits, respectively; emtricitabine) and equal to and 53 times (rats and rabbits, respectively; TAF) the exposure at the recommended daily dosage of these components in GENVOYA [see Data].
+However, elvitegravir, cobicistat, emtricitabine, and TAF use during pregnancy have been evaluated in a limited number of women as reported to the APR.
+Available data from the APR show no increase in the overall risk of major birth defects for emtricitabine or cobicistat compared with the background rate for major birth defects of 2.7% in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP).
+The number of exposures to TAF and elvitegravir are insufficient to make a risk assessment compared to a reference population (see Data).
+The rate of miscarriage is not reported in the APR.
+In the U.S. general population, the estimated background risk of miscarriage in clinically recognized pregnancies is 15–20%.
+
+In animal studies, no adverse developmental effects were observed when the components of GENVOYA were administered separately during the period of organogenesis at exposures up to 23 and 0.2 times (rat and rabbits, respectively: elvitegravir), 1.6 and 3.8 times (rats and rabbits, respectively: cobicistat), 60 and 108 times (mice and rabbits, respectively; emtricitabine) and equal to and 53 times (rats and rabbits, respectively; TAF) the exposure at the recommended daily dosage of these components in GENVOYA (see Data).
 Likewise, no adverse developmental effects were seen when elvitegravir or cobicistat was administered to rats through lactation at exposures up to 18 times or 1.2 times, respectively, the human exposure at the recommended therapeutic dose, and when emtricitabine was administered to mice through lactation at exposures up to approximately 60 times the exposure at the recommended daily dose.
 No adverse effects were observed in the offspring when TDF was administered through lactation at tenofovir exposures of approximately 14 times the exposure at the recommended daily dosage of GENVOYA.
-
-The background risk of major birth defects and miscarriage for the indicated population is unknown.
-All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-The rate of miscarriage is not reported in the APR.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
 
 Data
 
 Human Data
 
-Elvitegravir: Based on prospective reports from the APR through January 2016 of 73 exposures to elvitegravir-containing regimens during pregnancy resulting in live births (including 51 exposed in the first trimester), there have been no birth defects reported.
+A prospective study, reported in the literature, enrolled 30 pregnant women living with HIV who were receiving elvitegravir and cobicistat-based regimens in the second or third trimesters of pregnancy and through 6 to 12 weeks postpartum to evaluate the pharmacokinetics (PK) of antiretrovirals during pregnancy..
+Twenty-eight women completed the study through the postpartum period.
+Paired pregnancy/postpartum PK data were available from 14 and 24 women for the second and third trimesters, respectively.
+Exposures of elvitegravir and cobicistat were substantially lower during the second and third trimesters compared to postpartum.
+The proportion of pregnant women who were virologically suppressed was 77% in the second trimester, 92% in the third trimester, and 76% postpartum.
+No correlation was observed between viral suppression and elvitegravir exposure.
+HIV status was also assessed for infants: 25 were uninfected, 2 had indeterminate status, and no information was available for 3 infants.
 
-Cobicistat: Based on prospective reports from the APR through January 2016 of 77 exposures to cobicistat-containing regimens during pregnancy resulting in live births (including 54 exposed in the first trimester), there have been no birth defects reported.
+Prospective reports from the APR of overall major birth defects in pregnancies exposed to the components of GENVOYA are compared with a U.S. background major birth defect rate.
+Methodological limitations of the APR include the use of MACDP as the external comparator group.
+Limitations of using an external comparator include differences in methodology and populations, as well as confounding due to the underlying disease.
 
-Emtricitabine: Based on prospective reports to the APR through January 2016 of 3,155 exposures to emtricitabine-containing regimens during pregnancy resulting in live births (including 2,145 exposed in the first trimester and 1,010 exposed in the second/third trimester), there was no difference between FTC and overall birth defects compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
-The prevalence of birth defects in live births was 2.2% (95% CI: 1.6% to 3.0%) with first trimester exposure to FTC-containing regimens and 2.1% (95% CI: 1.3% to 3.2%) with the second/third trimester exposure to emtricitabine-containing regimens.
+Elvitegravir:
+
+The APR has received prospective reports of 5 birth defects among 180 first trimester exposures to elvitegravir-containing regimens during pregnancy resulting in live births.
+No birth defects were reported among 52 exposures during the second/third trimester.
+The number of exposures is insufficient to make a risk assessment compared to a reference population.
+
+Cobicistat:
+
+Based on prospective reports to the APR of 204 first trimester exposures to cobicistat-containing regimens during pregnancy, there was no increase in overall major birth defects with cobicistat compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
+The prevalence of birth defects in live births was 2.5% (95% CI: 0.8% to 5.6%) with first trimester exposure to cobicistat-containing regimens; The 58 second/third trimester cobicistat exposures reported to the APR are insufficient to make a risk assessment.
+
+Emtricitabine (FTC):
+
+Based on prospective reports to the APR of exposures to emtricitabine-containing regimens during pregnancy resulting in live births (including over 2,700 exposed in the first trimester and over 1,200 exposed in the second/third trimester), there was no increase in overall major birth defects with FTC compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
+The prevalence of birth defects in live births was 2.4% (95% CI: 1.9% to 3.1%) with first trimester exposure to FTC-containing regimens and 2.3% (95% CI: 1.5% to 3.3%) with second/third trimester exposure to emtricitabine-containing regimens.
+
+Tenofovir Alafenamide (TAF):
+
+The APR has received prospective reports of 3 birth defects among 56 first trimester exposures to TAF-containing regimens during pregnancy resulting in live births.
+No birth defects were reported among 29 exposures during the second/third trimester.
+The number of exposures is insufficient to make a risk assessment compared to a reference population.
 
 Animal Data
 

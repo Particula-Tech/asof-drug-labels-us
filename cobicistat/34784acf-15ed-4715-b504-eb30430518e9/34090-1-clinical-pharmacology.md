@@ -66,13 +66,46 @@ Table 7 Multiple Dose Pharmacokinetic Parameters of Elvitegravir, Cobicistat, Em
 
 Special Populations
 
+Geriatric Patients
+
+Pharmacokinetics of elvitegravir, cobicistat, emtricitabine and tenofovir have not been fully evaluated in the elderly (65 years of age and older).
+Age does not have a clinically relevant effect on exposures of TAF up to 75 years of age [see Use in Specific Populations (8.5)].
+
+Pediatric Patients
+
+Mean exposures of elvitegravir, cobicistat, and TAF achieved in 24 pediatric subjects aged 12 to less than 18 years who received GENVOYA in Study 106 were decreased compared to exposures achieved in treatment-naïve adults following administration of GENVOYA, but were overall deemed acceptable based on exposure-response relationships; emtricitabine exposure in adolescents was similar to that in treatment-naïve adults (Table 8).
+
+Table 8 Multiple Dose Pharmacokinetic Parameters of Elvitegravir, Cobicistat, Emtricitabine, Tenofovir Alafenamide (TAF) and its Metabolite Tenofovir Following Oral Administration of GENVOYA in HIV-Infected Pediatric Subjects Aged 12 to less than 18 YearsFrom Intensive PK analysis in a trial in treatment-naïve pediatric subjects with HIV-1 infection, cohort 1 of Study 106 (N=24).
+
+| Parameter Mean (CV%) | Elvitegravir | Cobicistat | Emtricitabine | TAF | Tenofovir |
+| --- | --- | --- | --- | --- | --- |
+| Cmax (microgram per mL) | 2.2 (19.2) | 1.2 (35.0) | 2.3 (22.5) | 0.17 (64.4) | 0.02 (23.7) |
+| AUCtau (microgram∙hour per mL) | 23.8 (25.5) | 8.2N=23 (36.1) | 14.4 (23.9) | 0.20 (50.0) | 0.29 (18.8) |
+| Ctrough (microgram per mL) | 0.30 (81.0) | 0.03N=15 (180.0) | 0.10 (38.9) | NA | 0.01 (21.4) |
+| CV = Coefficient of Variation; NA = Not Applicable |  |  |  |  |  |
+
+Exposures of the components of GENVOYA achieved in 23 pediatric subjects between the ages of 6 to less than 12 years who received GENVOYA in Study 106 were higher (20 to 80% for AUC) than exposures achieved in adults following the administration of GENVOYA; however, the increase was not considered clinically significant (Table 9) [see Use in Specific Populations (8.4)].
+
+Table 9 Multiple Dose Pharmacokinetic Parameters of Elvitegravir, Cobicistat, Emtricitabine, Tenofovir Alafenamide (TAF) and its Metabolite Tenofovir Following Oral Administration of GENVOYA in HIV-Infected Pediatric Subjects Aged 6 to less than 12 YearsFrom Intensive PK analysis in a trial in virologically-suppressed pediatric subjects with HIV-1 infection, cohort 2 of Study 106 (N=23).
+
+| Parameter Mean (CV%) | Elvitegravir | Cobicistat | Emtricitabine | TAF | Tenofovir |
+| --- | --- | --- | --- | --- | --- |
+| Cmax (microgram per mL) | 3.1 (38.7) | 2.1 (46.7) | 3.4 (27.0) | 0.31 (61.2) | 0.03 (20.8) |
+| AUCtau (microgram∙hour per mL) | 33.8N=22 (57.8) | 15.9N=20 (51.7) | 20.6 (18.9) | 0.33 (44.8) | 0.44 (20.9) |
+| Ctrough (microgram per mL) | 0.37 (118.5) | 0.1 (168.7) | 0.11 (24.1) | NA | 0.02 (24.9) |
+| CV = Coefficient of Variation; NA = Not Applicable |  |  |  |  |  |
+
+Race, Gender
+
+No clinically significant differences in pharmacokinetics of GENVOYA have been identified based on race or gender.
+
 Patients with Renal Impairment
 
-The pharmacokinetics of GENVOYA in HIV-1 infected subjects with renal impairment (eGFR of 30 to 69 mL per minute by Cockcroft-Gault method) were evaluated in a subset of virologically suppressed subjects in an open-label trial, Study 112.
-The pharmacokinetics ofelvitegravir, cobicistat, and tenofovir alafenamide were similar between healthy subjects and subjects with mild or moderate renal impairment.
-Increases in emtricitabine and tenofovir exposures in subjects with mild and moderate renal impairment were not considered clinically relevant (Table 8).
+The pharmacokinetics of GENVOYA in HIV-1 infected subjects with mild or moderate renal impairment (eGFR of 30 to 69 mL per minute by Cockcroft-Gault method) were evaluated in a subset of virologically suppressed subjects in an open-label trial, Study 112.
+The pharmacokinetics of elvitegravir, cobicistat, and tenofovir alafenamide were similar between healthy subjects and subjects with mild or moderate renal impairment.
+Increases in emtricitabine and tenofovir exposures in subjects with mild and moderate renal impairment were not considered clinically relevant (Table 10).
 
-Table 8 Pharmacokinetics of GENVOYA in HIV-Infected Adults with Renal Impairment as Compared to Subjects with Normal Renal Function
+Table 10 Pharmacokinetics of GENVOYA in HIV-Infected Adults with Renal Impairment as Compared to Subjects with Normal Renal Function
 
 | Creatinine Clearance | ≥90 mL per minute (N=18)From a Phase 2 study in HIV-infected adults with normal renal function. | 60–89 mL per minute (N=11)These subjects from Study 112 had an eGFR ranging from 60 to 69 mL per minute. | 30–59 mL per minute (N=18)Study 112. |
 | --- | --- | --- | --- |
@@ -82,8 +115,7 @@ Table 8 Pharmacokinetics of GENVOYA in HIV-Infected Adults with Renal Impairment
 
 Patients with Hepatic Impairment
 
-Elvitegravir and Cobicistat: A study of the pharmacokinetics of elvitegravir (administered with the CYP3A inhibitor cobicistat) was performed in healthy subjects and subjects with moderate hepatic impairment.
-No clinically relevant differences in elvitegravir or cobicistat pharmacokinetics were observed between subjects with moderate hepatic impairment (Child-Pugh Class B) and healthy subjects [see Use in Specific Populations (8.7)].
+Elvitegravir and Cobicistat: A study of the pharmacokinetics of elvitegravir (administered with the CYP3A inhibitor cobicistat) was performed in healthy subjects and subjects with moderate hepatic impairment (Child-Pugh Class B). No clinically relevant differences in elvitegravir or cobicistat pharmacokinetics were observed between subjects with moderate hepatic impairment and healthy subjects [see Use in Specific Populations (8.7)].
 
 Emtricitabine: The pharmacokinetics of emtricitabine has not been studied in subjects with hepatic impairment; however, emtricitabine is not significantly metabolized by liver enzymes, so the impact of liver impairment should be limited.
 
@@ -97,50 +129,16 @@ Cobicistat: There were insufficient pharmacokinetic data in the clinical trials 
 
 Emtricitabine and Tenofovir Alafenamide (TAF): Pharmacokinetics of emtricitabine and TAF have not been fully evaluated in subjects coinfected with hepatitis B and/or C virus.
 
-Pediatric Patients
-
-Mean exposures of elvitegravir, cobicistat, and TAF achieved in 24 pediatric subjects aged 12 to less than 18 years who received GENVOYA in Study 106 were decreased compared to exposures achieved in treatment-naïve adults following administration of GENVOYA, but were overall deemed acceptable based on exposure-response relationships; emtricitabine exposure in adolescents was similar to that in treatment-naïve adults (Table 9).
-
-Table 9 Multiple Dose Pharmacokinetic Parameters of Elvitegravir, Cobicistat, Emtricitabine, Tenofovir Alafenamide (TAF) and its Metabolite Tenofovir Following Oral Administration of GENVOYA in HIV-Infected Pediatric Subjects Aged 12 to less than 18 YearsFrom Intensive PK analysis in a trial in treatment-naïve pediatric subjects with HIV-1 infection, cohort 1 of Study 106 (N=24).
-
-| Parameter Mean (CV%) | Elvitegravir | Cobicistat | Emtricitabine | TAF | Tenofovir |
-| --- | --- | --- | --- | --- | --- |
-| Cmax (microgram per mL) | 2.2 (19.2) | 1.2 (35.0) | 2.3 (22.5) | 0.17 (64.4) | 0.02 (23.7) |
-| AUCtau (microgram∙hour per mL) | 23.8 (25.5) | 8.2N=23 (36.1) | 14.4 (23.9) | 0.20 (50.0) | 0.29 (18.8) |
-| Ctrough (microgram per mL) | 0.30 (81.0) | 0.03N=15 (180.0) | 0.10 (38.9) | NA | 0.01 (21.4) |
-| CV = Coefficient of Variation; NA = Not Applicable |  |  |  |  |  |
-
-Exposures of the components of GENVOYA achieved in 23 pediatric subjects between the ages of 6 to less than 12 years who received GENVOYA in Study 106 were higher (20 to 80% for AUC) than exposures achieved in adults following the administration of GENVOYA; however, the increase was not considered clinically significant (Table 10) [see Use in Specific Populations (8.4)].
-
-Table 10 Multiple Dose Pharmacokinetic Parameters of Elvitegravir, Cobicistat, Emtricitabine, Tenofovir Alafenamide (TAF) and its Metabolite Tenofovir Following Oral Administration of GENVOYA in HIV-Infected Pediatric Subjects Aged 6 to less than 12 YearsFrom Intensive PK analysis in a trial in virologically-suppressed pediatric subjects with HIV-1 infection, cohort 2 of Study 106 (N=23).
-
-| Parameter Mean (CV%) | Elvitegravir | Cobicistat | Emtricitabine | TAF | Tenofovir |
-| --- | --- | --- | --- | --- | --- |
-| Cmax (microgram per mL) | 3.1 (38.7) | 2.1 (46.7) | 3.4 (27.0) | 0.31 (61.2) | 0.03 (20.8) |
-| AUCtau (microgram∙hour per mL) | 33.8N=22 (57.8) | 15.9N=20 (51.7) | 20.6 (18.9) | 0.33 (44.8) | 0.44 (20.9) |
-| Ctrough (microgram per mL) | 0.37 (118.5) | 0.1 (168.7) | 0.11 (24.1) | NA | 0.02 (24.9) |
-| CV = Coefficient of Variation; NA = Not Applicable |  |  |  |  |  |
-
-Geriatric Patients
-
-Pharmacokinetics of elvitegravir, cobicistat, emtricitabine and tenofovir have not been fully evaluated in the elderly (65 years of age and older).
-Age does not have a clinically relevant effect on exposures of TAF up to 75 years of age [see Use in Specific Populations (8.5)].
-
-Race, Gender
-
-No clinically significant differences in pharmacokinetics of GENVOYA have been identified based on race or gender.
-
 Drug Interaction Studies
 
 [see also Contraindications (4) and Drug Interactions (7)]
 
-The drug-drug interaction studies described in Tables 11–13 were conducted with GENVOYA, elvitegravir (coadministered with cobicistat or ritonavir), cobicistat administered alone, or TAF (administered alone or coadministered with emtricitabine).
+The drug-drug interaction studies described in Tables 11–14 were conducted with GENVOYA, elvitegravir (coadministered with cobicistat or ritonavir), cobicistat administered alone, or TAF (administered alone or coadministered with emtricitabine).
 
 As GENVOYA should not be administered with other antiretroviral medications, information regarding drug-drug interactions with other antiretrovirals agents is not provided.
 
-The effects of coadministered drugs on the exposure of elvitegravir are shown in Table 11.
-The effects of coadministered drugs on the exposure of TAF are shown in Table 12.
-The effects of GENVOYA or its components on the exposure of coadministered drugs are shown in Table 13.
+The effects of coadministered drugs on the exposure of elvitegravir, emtricitabine, and TAF are shown in Table 11, Table 12, and Table 13 respectively.
+The effects of GENVOYA or its components on the exposure of coadministered drugs are shown in Table 14.
 For information regarding clinical recommendations, see Drug Interactions (7).
 
 Table 11 Drug Interactions: Changes in Pharmacokinetic Parameters for Elvitegravir in the Presence of the Coadministered DrugAll interaction studies conducted in healthy volunteers.
@@ -148,7 +146,7 @@ Table 11 Drug Interactions: Changes in Pharmacokinetic Parameters for Elvitegrav
 | Cmax | AUC | Cmin |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dose of Coadministered Drug (mg) | Elvitegravir Dose (mg) | CYP3A Inhibitor Cobicistat or Ritonavir Dose (mg) | N | Mean Ratio of Elvitegravir Pharmacokinetic Parameters (90% CI); No effect = 1.00 |  |  |
-| Antacids | 20 mL single dose given 4 hours before elvitegravir | 50 single dose | Ritonavir 100 single dose | 8 | 0.95 (0.84,1.07) | 0.96 (0.88,1.04) | 1.04 (0.93,1.17) |
+| Maximum strength antacidMaximum strength antacid contained 80 mg aluminum hydroxide, 80 mg magnesium hydroxide, and 8 mg simethicone, per mL. | 20 mL single dose given 4 hours before elvitegravir | 50 single dose | Ritonavir 100 single dose | 8 | 0.95 (0.84,1.07) | 0.96 (0.88,1.04) | 1.04 (0.93,1.17) |
 | 20 mL single dose given 4 hours after elvitegravir | 10 | 0.98 (0.88,1.10) | 0.98 (0.91,1.06) | 1.00 (0.90,1.11) |  |  |  |
 | 20 mL single dose given 2 hours before elvitegravir | 11 | 0.82 (0.74,0.91) | 0.85 (0.79,0.91) | 0.90 (0.82,0.99) |  |  |  |
 | 20 mL single dose given 2 hours after elvitegravir | 10 | 0.79 (0.71,0.88) | 0.80 (0.75,0.86) | 0.80 (0.73,0.89) |  |  |  |
@@ -167,11 +165,18 @@ Table 11 Drug Interactions: Changes in Pharmacokinetic Parameters for Elvitegrav
 | Sofosbuvir/ Velpatasvir | 400/100 once daily | 150 once daily | Cobicistat 150 once daily | 24 | 0.87 (0.80,0.94) | 0.94 (0.88,1.00) | 1.08 (0.97,1.20) |
 | Sofosbuvir/ Velpatasvir/ Voxilaprevir | 400/100/100 + 100 VoxilaprevirStudy conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected patients. once daily | 150 once daily | Cobicistat 150 once daily | 29 | 0.79 (0.75,0.85) | 0.94 (0.88,1.00) | 1.32 (1.17,1.49) |
 
-Table 12 Drug Interactions: Changes in Pharmacokinetic Parameters for Tenofovir Alafenamide (TAF) in the Presence of the Coadministered DrugAll interaction studies conducted in healthy volunteers.
+Table 12 Drug Interactions: Changes in Pharmacokinetic Parameters for Emtricitabine in the Presence of the Coadministered DrugAll interaction studies conducted in healthy volunteers.
 
 | Cmax | AUC | Cmin |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Coadministered Drug | Dose of Coadministered Drug (mg) | TAF (mg) | N | Mean Ratio of TAF Pharmacokinetic Parameters (90% CI); No effect = 1.00 |  |  |
+| Coadministered Drug | Dose of Coadministered Drug (mg) | Emtricitabine Dose (mg) | N | Mean Ratio of Emtricitabine Pharmacokinetic Parameters (90% CI); No effect = 1.00 |  |  |
+| Famciclovir | 500 single dose | 200 single dose | 12 | 0.90 (0.80,1.01) | 0.93 (0.87,0.99) | NC |
+
+Table 13 Drug Interactions: Changes in Pharmacokinetic Parameters for Tenofovir Alafenamide (TAF) in the Presence of the Coadministered DrugAll interaction studies conducted in healthy volunteers.
+
+| Cmax | AUC | Cmin |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Coadministered Drug | Dose of Coadministered Drug (mg) | TAF Dose (mg) | N | Mean Ratio of TAF Pharmacokinetic Parameters (90% CI); No effect = 1.00 |  |  |
 | Cobicistat | 150 once daily | 8 once daily | 12 | 2.83 (2.20,3.65) | 2.65 (2.29,3.07) | NC |
 | Ledipasvir/ Sofosbuvir | 90/400 once daily | 10 once dailyStudy conducted with GENVOYA. | 30 | 0.90 (0.73,1.11) | 0.86 (0.78,0.95) | NC |
 | Sertraline | 50 single dose | 10 once daily | 19 | 1.00 (0.86,1.16) | 0.96 (0.89,1.03) | NC |
@@ -179,41 +184,43 @@ Table 12 Drug Interactions: Changes in Pharmacokinetic Parameters for Tenofovir 
 | Sofosbuvir/ Velpatasvir/ Voxilaprevir | 400/100/100 + 100 VoxilaprevirStudy conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected patients. once daily | 10 once daily | 29 | 0.79 (0.68,0.92) | 0.93 (0.85,1.01) | NC |
 | NC = Not Calculated |  |  |  |  |  |  |
 
-Table 13 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of GENVOYA or the Individual ComponentsAll interaction studies conducted in healthy volunteers.
+Table 14 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of GENVOYA or the Individual ComponentsAll interaction studies conducted in healthy volunteers.
 
-| Cmax | AUC | Cmin |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Coadministered Drug | Dose of Coadministered Drug (mg) | Elvitegravir Dose (mg) | CYP3A Inhibitor Cobicistat Dose (mg) | Tenofovir Alafenamide (mg) | N | Mean Ratio of Coadministered Drug Pharmacokinetic Parameters (90% CI); No effect = 1.00 |  |  |
-| Atorvastatin | 10 single dose | 150 once dailyStudy conducted with GENVOYA. | 150 once daily | 10 once daily | 16 | 2.32 (1.91,2.82) | 2.60 (2.31,2.93) | NC |
-| Buprenorphine | 16 – 24 once daily | 150 once daily | 150 once daily | N/A | 17 | 1.12 (0.98,1.27) | 1.35 (1.18,1.55) | 1.66 (1.43,1.93) |
-| Norbuprenorphine | 1.24 (1.03,1.49) | 1.42 (1.22,1.67) | 1.57 (1.31,1.88) |  |  |  |  |  |
-| Carbamazepine | 200 twice daily | 150 once daily | 150 once daily | N/A | 12 | 1.40 (1.32,1.49) | 1.43 (1.36,1.52) | 1.51 (1.41,1.62) |
-| Carbamazepine-10,11-epoxide | 0.73 (0.70,0.78) | 0.65 (0.63,0.66) | 0.59 (0.57,0.61) |  |  |  |  |  |
-| Desipramine | 50 single dose | N/A | 150 once daily | N/A | 8 | 1.24 (1.08,1.44) | 1.65 (1.36,2.02) | NC |
-| Digoxin | 0.5 single dose | N/A | 150 once daily | N/A | 22 | 1.41 (1.29,1.55) | 1.08 (1.00,1.17) | NC |
-| Ledipasvir | 90 once daily | 150 once daily | 150 once daily | 10 once daily | 30 | 1.65 (1.53,1.78) | 1.79 (1.64,1.96) | 1.93 (1.74,2.15) |
-| Sofosbuvir | 400 once daily | 1.28 (1.13,1.47) | 1.47 (1.35,1.59) | N/A |  |  |  |  |
-| GS-331007The predominant circulating inactive metabolite of sofosbuvir. | 1.29 (1.24,1.35) | 1.48 (1.44,1.53) | 1.66 (1.60,1.73) |  |  |  |  |  |
-| Naloxone | 4–6 once daily | 150 once daily | 150 once daily | N/A | 17 | 0.72 (0.61,0.85) | 0.72 (0.59,0.87) | N/A |
-| Norgestimate/ ethinyl estradiolStudy conducted with STRIBILD. | 0.180/0.215/ 0.250 norgestimate once daily | 150 once daily | 150 once daily | N/A | 13 | 2.08 (2.00,2.17) | 2.26 (2.15,2.37) | 2.67 (2.43,2.92) |
-| 0.025 ethinyl estradiol once daily | 0.94 (0.86,1.04) | 0.75 (0.69,0.81) | 0.56 (0.52,0.61) |  |  |  |  |  |
-| Norgestromin | 0.180/0.215/ 0.250 norgestimate once daily / 0.025 ethinyl estradiol once daily | N/A | N/A | 25 once dailyStudy conducted with DESCOVY. | 15 | 1.17 (1.07,1.26) | 1.12 (1.07,1.17) | 1.16 (1.08,1.24) |
-| Norgestrel | 1.10 (1.02,1.18) | 1.09 (1.01,1.18) | 1.11 (1.03,1.20) |  |  |  |  |  |
-| Ethinyl estradiol | 1.22 (1.15,1.29) | 1.11 (1.07,1.16) | 1.02 (0.92,1.12) |  |  |  |  |  |
-| R-Methadone | 80–120 daily | 150 once daily | 150 once daily | N/A | 11 | 1.01 (0.91,1.13) | 1.07 (0.96,1.19) | 1.10 (0.95,1.28) |
-| S-Methadone | 0.96 (0.87,1.06) | 1.00 (0.89,1.12) | 1.02 (0.89,1.17) |  |  |  |  |  |
-| Sertraline | 50 single dose | 150 once daily | 150 once daily | 10 once daily | 19 | 1.14 (0.94,1.38) | 0.93 (0.77,1.13) | N/A |
-| Rifabutin | 150 once every other day | 150 once daily | 150 once daily | N/A | 12 | 1.09 (0.98,1.20)Comparison based on rifabutin 300 mg once daily. | 0.92 (0.83,1.03) | 0.94 (0.85,1.04) |
-| 25-O-desacetyl-rifabutin | 12 | 4.84 (4.09,5.74) | 6.25 (5.08,7.69) | 4.94 (4.04,6.04) |  |  |  |  |
-| Rosuvastatin | 10 single dose | 150 once daily | 150 once daily | N/A | 10 | 1.89 (1.48,2.42) | 1.38 (1.14,1.67) | NC |
-| Sofosbuvir | 400 once daily | 150 once daily | 150 once daily | 10 once daily | 24 | 1.23 (1.07,1.42) | 1.37 (1.24,1.52) | N/A |
-| GS-331007 | 1.29 (1.25,1.33) | 1.48 (1.43,1.53) | 1.58 (1.52,1.65) |  |  |  |  |  |
-| Velpatasvir | 100 once daily | 1.30 (1.17,1.45) | 1.50 (1.35,1.66) | 1.60 (1.44,1.78) |  |  |  |  |
-| Sofosbuvir | 400 once daily | 150 once daily | 150 once daily | 10 once daily | 29 | 1.27 (1.09,1.48) | 1.22 (1.12,1.32) | NC |
-| GS-331007 | 1.28 (1.25,1.32) | 1.43 (1.39,1.47) | NC |  |  |  |  |  |
-| Velpatasvir | 100 once daily | 0.96 (0.89,1.04) | 1.16 (1.06,1.27) | 1.46 (1.30,1.64) |  |  |  |  |
-| Voxilaprevir | 100 + 100Study conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected patients. once daily | 1.92 (1.63,2.26) | 2.71 (2.30,3.19) | 4.50 (3.68,5.50) |  |  |  |  |
-| N/A = Not Applicable; NC = Not Calculated |  |  |  |  |  |  |  |  |
+| Cmax | AUC | Cmin |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Coadministered Drug | Dose of Coadministered Drug (mg) | Elvitegravir Dose (mg) | CYP3A Inhibitor Cobicistat Dose (mg) | FTC Dose (mg) | TAF Dose (mg) | N | Mean Ratio of Coadministered Drug Pharmacokinetic Parameters (90% CI); No effect = 1.00 |  |  |
+| Atorvastatin | 10 single dose | 150 once dailyStudy conducted with GENVOYA. | 150 once daily | 200 once daily | 10 once daily | 16 | 2.32 (1.91,2.82) | 2.60 (2.31,2.93) | NC |
+| Buprenorphine | 16 – 24 once daily | 150 once daily | 150 once daily | N/A | N/A | 17 | 1.12 (0.98,1.27) | 1.35 (1.18,1.55) | 1.66 (1.43,1.93) |
+| Norbuprenorphine |  |  | 1.24 (1.03,1.49) | 1.42 (1.22,1.67) | 1.57 (1.31,1.88) |  |  |  |  |
+| Carbamazepine | 200 twice daily | 150 once daily | 150 once daily | N/A | N/A | 12 | 1.40 (1.32,1.49) | 1.43 (1.36,1.52) | 1.51 (1.41,1.62) |
+| Carbamazepine-10,11-epoxide |  |  | 0.73 (0.70,0.78) | 0.65 (0.63,0.66) | 0.59 (0.57,0.61) |  |  |  |  |
+| Desipramine | 50 single dose | N/A | 150 once daily | N/A | N/A | 8 | 1.24 (1.08,1.44) | 1.65 (1.36,2.02) | NC |
+| Digoxin | 0.5 single dose | N/A | 150 once daily | N/A | N/A | 22 | 1.41 (1.29,1.55) | 1.08 (1.00,1.17) | NC |
+| Famciclovir | 500 single dose | N/A | N/A | 200 single dose | N/A | 12 | 0.93 (0.78,1.11) | 0.91 (0.84,0.99) | N/A |
+| Ledipasvir | 90 once daily | 150 once daily | 150 once daily | 200 once daily | 10 once daily | 30 | 1.65 (1.53,1.78) | 1.79 (1.64,1.96) | 1.93 (1.74,2.15) |
+| Sofosbuvir | 400 once daily | 1.28 (1.13,1.47) | 1.47 (1.35,1.59) | N/A |  |  |  |  |  |
+| GS-331007The predominant circulating inactive metabolite of sofosbuvir. | 1.29 (1.24,1.35) | 1.48 (1.44,1.53) | 1.66 (1.60,1.73) |  |  |  |  |  |  |
+| Naloxone | 4–6 once daily | 150 once daily | 150 once daily | N/A | N/A | 17 | 0.72 (0.61,0.85) | 0.72 (0.59,0.87) | N/A |
+| Norgestimate/ ethinyl estradiolStudy conducted with STRIBILD. | 0.180/0.215/ 0.250 norgestimate once daily | 150 once daily | 150 once daily | 200 once daily | N/A | 13 | 2.08 (2.00,2.17) | 2.26 (2.15,2.37) | 2.67 (2.43,2.92) |
+| 0.025 ethinyl estradiol once daily |  | 0.94 (0.86,1.04) | 0.75 (0.69,0.81) | 0.56 (0.52,0.61) |  |  |  |  |  |
+| Norgestromin | 0.180/0.215/ 0.250 norgestimate once daily / 0.025 ethinyl estradiol once daily | N/A | N/A | 200 once dailyStudy conducted with DESCOVY. | 25 once daily | 15 | 1.17 (1.07,1.26) | 1.12 (1.07,1.17) | 1.16 (1.08,1.24) |
+| Norgestrel | 1.10 (1.02,1.18) | 1.09 (1.01,1.18) | 1.11 (1.03,1.20) |  |  |  |  |  |  |
+| Ethinyl estradiol | 1.22 (1.15,1.29) | 1.11 (1.07,1.16) | 1.02 (0.92,1.12) |  |  |  |  |  |  |
+| R-Methadone | 80–120 daily | 150 once daily | 150 once daily | N/A | N/A | 11 | 1.01 (0.91,1.13) | 1.07 (0.96,1.19) | 1.10 (0.95,1.28) |
+| S-Methadone | 0.96 (0.87,1.06) | 1.00 (0.89,1.12) | 1.02 (0.89,1.17) |  |  |  |  |  |  |
+| Sertraline | 50 single dose | 150 once daily | 150 once daily | 200 once daily | 10 once daily | 19 | 1.14 (0.94,1.38) | 0.93 (0.77,1.13) | N/A |
+| Rifabutin | 150 once every other day | 150 once daily | 150 once daily | N/A | N/A | 12 | 1.09 (0.98,1.20)Comparison based on rifabutin 300 mg once daily. | 0.92 (0.83,1.03) | 0.94 (0.85,1.04) |
+| 25-O-desacetyl-rifabutin | 12 | 4.84 (4.09,5.74) | 6.25 (5.08,7.69) | 4.94 (4.04,6.04) |  |  |  |  |  |
+| Rosuvastatin | 10 single dose | 150 once daily | 150 once daily | N/A | N/A | 10 | 1.89 (1.48,2.42) | 1.38 (1.14,1.67) | NC |
+| Sofosbuvir | 400 once daily | 150 once daily | 150 once daily | 200 once daily | 10 once daily | 24 | 1.23 (1.07,1.42) | 1.37 (1.24,1.52) | N/A |
+| GS-331007 | 1.29 (1.25,1.33) | 1.48 (1.43,1.53) | 1.58 (1.52,1.65) |  |  |  |  |  |  |
+| Velpatasvir | 100 once daily | 1.30 (1.17,1.45) | 1.50 (1.35,1.66) | 1.60 (1.44,1.78) |  |  |  |  |  |
+| Sofosbuvir | 400 once daily | 150 once daily | 150 once daily | 200 once daily | 10 once daily | 29 | 1.27 (1.09,1.48) | 1.22 (1.12,1.32) | NC |
+| GS-331007 | 1.28 (1.25,1.32) | 1.43 (1.39,1.47) | NC |  |  |  |  |  |  |
+| Velpatasvir | 100 once daily | 0.96 (0.89,1.04) | 1.16 (1.06,1.27) | 1.46 (1.30,1.64) |  |  |  |  |  |
+| Voxilaprevir | 100 + 100Study conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected patients. once daily | 1.92 (1.63,2.26) | 2.71 (2.30,3.19) | 4.50 (3.68,5.50) |  |  |  |  |  |
+| FTC = emtricitabine; TAF = tenofovir alafenamide |  |  |  |  |  |  |  |  |  |
+| N/A = Not Applicable; NC = Not Calculated |  |  |  |  |  |  |  |  |  |
 
 ## 12.4 Microbiology
 

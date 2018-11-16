@@ -19,3 +19,10 @@ GENVOYA is not recommended in patients with estimated creatinine clearance below
 ## 2.4 Not Recommended in Patients with Severe Hepatic Impairment
 
 GENVOYA is not recommended in patients with severe hepatic impairment (Child-Pugh Class C) [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
+
+## 2.5 Not Recommended During Pregnancy
+
+GENVOYA is not recommended for use during pregnancy because of substantially lower exposures of cobicistat and elvitegravir during the second and third trimesters [see Use in Specific Populations (8.1)].
+
+GENVOYA should not be initiated in pregnant individuals.
+An alternative regimen is recommended for individuals who become pregnant during therapy with GENVOYA [see Use in Specific Populations (8.1)].
