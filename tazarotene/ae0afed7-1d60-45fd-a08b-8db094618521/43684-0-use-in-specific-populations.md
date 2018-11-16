@@ -2,8 +2,6 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category X.
-
 FABIOR Foam is contraindicated in pregnancy [see Contraindications (4)].
 
 There are no adequate and well-controlled studies with FABIOR Foam in pregnant women.
