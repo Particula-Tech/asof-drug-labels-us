@@ -28,15 +28,15 @@ Reproduction studies performed during organogenesis (gestational days 6-15) in p
 
 ### Risk Summary
 
-Clindamycin is present in breast milk in the range of 0.7 to 3.8 mcg/mL at dosages of 150 mg orally to 600 mg intravenously.
+Clindamycin has been reported to appear in breast milk in the range of 0.7 to 3.8 mcg/mL at dosages of 150 mg orally to 600 mg intravenously.
 Clindamycin has the potential to cause adverse effects on the breastfed infant’s gastrointestinal flora.
-There is no information on the effects of clindamycin on milk production.
+
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for clindamycin and any potential adverse effects on the breast-fed child from clindamycin or from the underlying maternal condition.
 
 ### Clinical Considerations
 
-Clindamycin may cause intestinal flora alteration.
-Advise a woman to monitor the breastfed infant for diarrhea, candidiasis (thrush, diaper rash) and bloody stools.
+If oral or intravenous clindamycin is required by a nursing mother, it is not a reason to discontinue breastfeeding, but an alternate drug may be preferred.
+Monitor the infant for possible adverse effects on the gastrointestinal flora, such as diarrhea, candidiasis (thrush, diaper rash) or rarely, blood in the stool indicating possible antibiotic-associated colitis.
 
 ## 8.4 Pediatric Use
 

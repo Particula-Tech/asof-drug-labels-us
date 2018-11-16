@@ -8,7 +8,7 @@ Clindamycin in 0.9% Sodium Chloride Injection is indicated for the treatment of 
 
 Clindamycin in 0.9% Sodium Chloride Injection is indicated for the treatment of serious infections due to susceptible strains of streptococci, pneumococci, and staphylococci.
 Its use should be reserved for penicillin-allergic patients or other patients for whom, in the judgment of the physician, a penicillin is inappropriate.
-Because of the risk of antibacterial-associated pseudomembranous colitis, [see Boxed WarningBoxed_Warning], before selecting clindamycin the physician should consider the nature of the infection and the suitability of less toxic alternatives (e.g., erythromycin).
+Because of the risk of antibacterial-associated pseudomembranous colitis, [see Boxed Warning], before selecting clindamycin the physician should consider the nature of the infection and the suitability of less toxic alternatives (e.g., erythromycin).
 
 Bacteriologic studies should be performed to determine the causative organisms and their susceptibility to clindamycin.
 
