@@ -90,7 +90,7 @@ In the pediatric clinical trial, 5 of 104 patients reported adverse reactions th
 
 Adverse Reactions in the Pediatric Clinical Trial
 
-The most common adverse reactions (>5%) were enuresis (18%), nausea (17%), headache (16%), vomiting (16%), weight decreased (12%), decreased appetite (8%), and dizziness (6%).
+The most common adverse reactions (≥5%) were enuresis (18%), nausea (17%), headache (16%), vomiting (16%), weight decreased (12%), decreased appetite (8%), and dizziness (6%).
 
 Additional information regarding safety in pediatric patients appears in the following sections:
 
