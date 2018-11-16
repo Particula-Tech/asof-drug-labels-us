@@ -12,6 +12,7 @@ Adverse experiences occurring in greater than two percent of patients treated wi
 | --- | --- | --- |
 |  | Percent of Patients in Controlled Studies |  |
 | Dizziness | 8.6 (0.7) | 4.3 |
+| Dizziness | 8.6 (0.7) | 4.3 |
 | Headache | 5.5 (0.4) | 9.1 |
 | Fatigue | 3.9 (0.8) | 2.6 |
 | Cough | 3.5 (0.4) | 0.9 |

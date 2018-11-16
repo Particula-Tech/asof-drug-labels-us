@@ -2,10 +2,12 @@
 
 NDC 0187-0146-01
 
+Rx only
+
 Vaseretic® (Enalapril Maleate – Hydrochlorothiazide)
 
 10/25 mg
 
 100 Tablets
 
-RxONLY
+VALEANT

@@ -257,7 +257,7 @@ When administered concurrently the following drugs may interact with thiazide di
 
 Alcohol, Barbiturates, or Narcotics Potentiation of orthostatic hypotension may occur.
 
-Anti-diabetic drugs(oral agents and insulin) Dosage adjustment of the anti-diabetic drug may be required.
+Anti-diabetic drugs (oral agents and insulin) Dosage adjustment of the anti-diabetic drug may be required.
 
 Other anti-hypertensive drugs Additive effect or potentiation.
 
