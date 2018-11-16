@@ -9,14 +9,14 @@ Below is a display of the adverse reactions of nitisinone in these studies.
 
 Nitisinone was studied in one open-label, uncontrolled study of 207 patients with HT-1, ages 0 to 22 years at enrollment (median age 9 months), who were diagnosed with HT-1 by the presence of succinylacetone in the urine or plasma.
 The starting dose of nitisinone was 0.3 to 0.5 mg/kg twice daily, and the dose was increased in some patients to 1 mg/kg twice daily based on weight, biochemical, and enzyme markers.
+The recommended starting dosage of NITYR is 0.5 mg/kg twice daily [see Dosage and Administration (2.1)].
 Median duration of treatment was 22 months (range 0.1 to 80 months).
-The recommended dosage of NITYR is 0.5 mg/kg to 1 mg/kg twice daily [see Dosage and Administration (2.1)].
 
-The most serious adverse reactions reported during nitisinone treatment were thrombocytopenia, leukopenia, porphyria, and ocular/visual complaints associated with elevated tyrosine levels [seeWarnings and Precautions (5.1, 5.2)].
+The most serious adverse reactions reported during nitisinone treatment were thrombocytopenia, leukopenia, porphyria, and ocular/visual complaints associated with elevated tyrosine levels [see Warnings and Precautions (5.1, 5.2)].
 Fourteen patients experienced ocular/visual events.
 The duration of the symptoms varied from 5 days to 2 years.
 Six patients had thrombocytopenia, three of which had platelet counts 30,000/microL or lower.
-In 4 patients with thrombocytopenia, platelet counts gradually returned to normal (duration up to 47 days) without change in the nitisinone dosage.
+In 4 patients with thrombocytopenia, platelet counts gradually returned to normal (duration up to 47 days) without change in the nitisinone dose.
 No patients developed infections or bleeding as a result of the episodes of leukopenia and thrombocytopenia.
 
 Patients with HT-1 are at increased risk of developing porphyric crises, hepatic neoplasms, and liver failure requiring liver transplantation.

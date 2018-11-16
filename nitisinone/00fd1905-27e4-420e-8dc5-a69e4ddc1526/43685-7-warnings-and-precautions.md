@@ -10,7 +10,7 @@ Maintain plasma tyrosine levels below 500 micromol/L.
 Inadequate restriction of tyrosine and phenylalanine intake can lead to elevations in plasma tyrosine levels and levels greater than 500 micromol/L may lead to the following:
 
 - Ocular signs and symptoms including corneal ulcers, corneal opacities, keratitis, conjunctivitis, eye pain, and photophobia have been reported in patients treated with nitisinone [see Adverse Reactions (6.1)].
-  Therefore, ophthalmologic examination including slit-lamp examination should be performed prior to initiating treatment with NITYR.
+  Therefore, a baseline ophthalmologic examination including slit-lamp examination should be considered prior to initiating NITYR treatment.
   Patients who develop photophobia, eye pain, or signs of inflammation such as redness, swelling, or burning of the eyes during treatment with NITYR should undergo slit-lamp re-examination and immediate measurement of the plasma tyrosine concentration.
 - Variable degrees of intellectual disability and developmental delay.
   In patients treated with NITYR who exhibit an abrupt change in neurologic status, perform a clinical laboratory assessment including plasma tyrosine levels.
@@ -21,6 +21,5 @@ In patients with HT-1 treated with dietary restrictions and NITYR who develop el
 ## 5.2 Leukopenia and Severe Thrombocytopenia
 
 In clinical trials, patients treated with another oral formulation of nitisinone and dietary restriction developed transient leukopenia (3%), thrombocytopenia (3%), or both (1.5%) [see Adverse Reactions (6.1)].
-One patient who developed both leukopenia and thrombocytopenia improved after the dose of nitisinone was decreased from 1 mg/kg to 0.5 mg/kg twice daily.
 No patients developed infections or bleeding as a result of the episodes of leukopenia and thrombocytopenia.
 Monitor platelet and white blood cell counts during therapy with NITYR.
