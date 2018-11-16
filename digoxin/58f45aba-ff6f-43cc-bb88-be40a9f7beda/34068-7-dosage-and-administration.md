@@ -18,8 +18,6 @@ Digoxin injection can be administered undiluted or diluted with a 4-fold or grea
 The use of less than a 4-fold volume of diluent could lead to precipitation of the digoxin.
 Immediate use of the diluted product is recommended.
 
-If tuberculin syringes are used to measure very small doses do not flush with the parenteral solution after its contents are expelled into an indwelling vascular catheter to avoid overadministration of digoxin.
-
 Consider interruption or reduction in digoxin injection dose prior to electrical cardioversion [see Warnings and Precautions (5.4)].
 
 ## 2.2 Loading Dosing Regimen in Adults and Pediatric Patients
@@ -63,11 +61,11 @@ Total Maintenance Dose = Loading Dose (i.e., Peak Body Stores) x % Daily Loss/10
 Reduce the dose of digoxin injection in patients whose lean weight is an abnormally small fraction of their total body mass because of obesity or edema.
 
 Table 3.
-Recommended Maintenance Dose (in micrograms given once daily) of Digoxin Injection in Pediatric Patients Over 10 Years Old and Adults by Lean Body Weight and by Renal Function
+Recommended Maintenance Dose (in micrograms given once daily) of Digoxin Injection in Pediatric Patients over 10 Years Old and Adults by Lean Body Weight and by Renal Function
 
 | kg | 40 | 50 | 60 | 70 | 80 | 90 | 100 |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Corrected Creatinine ClearanceFor adults, creatinine clearance was corrected to 70-kg body weight or 1.73 m2 body surface area. If only serum creatinine concentrations (Scr) are available, a corrected Ccr may be estimated in men as (140 – Age)/Scr. For women, this result should be multiplied by 0.85. For pediatricpatients, the modified Schwartz equation may be used. The formula is based on height in cm and Scr in mg/dL where k is a constant. Ccr is corrected to 1.73 m2 body surface area. During the first year of life, the value of k is 0.33 for pre-term babies and 0.45 for term infants. The k is 0.55 for pediatric patients and adolescent girls and 0.7 for adolescent boys. GFR (mL/min/1.73 m2) = (k x Height)/Scr | Lean Body WeightThe doses listed assume average body composition. |  |  |  |  |  |  |  | Number of Days Before Steady State AchievedIf no loading dose administered |
+| Corrected Creatinine ClearanceFor adults, creatinine clearance was corrected to 70-kg body weight or 1.73 m2 body surface area. If only serum creatinine concentrations (Scr) are available, a corrected Ccr may be estimated in men as (140 – Age)/Scr. For women, this result should be multiplied by 0.85. For pediatric patients, the modified Schwartz equation may be used. The formula is based on height in cm and Scr in mg/dL where k is a constant. Ccr is corrected to 1.73 m2 body surface area. During the first year of life, the value of k is 0.33 for pre-term babies and 0.45 for term infants. The k is 0.55 for pediatric patients and adolescent girls and 0.7 for adolescent boys. GFR (mL/min/1.73 m2) = (k x Height)/Scr | Lean Body WeightThe doses listed assume average body composition. |  |  |  |  |  |  |  | Number of Days Before Steady State AchievedIf no loading dose administered |
 | 10 mL/min |  | 64 | 80 | 96 | 112 | 128 | 144 | 160 | 19 |
 | 20 mL/min |  | 72 | 90 | 108 | 126 | 144 | 162 | 180 | 16 |
 | 30 mL/min |  | 80 | 100 | 120 | 140 | 160 | 180 | 200 | 14 |

@@ -10,12 +10,10 @@ Digoxin Injection, USP
 
 Rx Only
 
+For Intravenous or Intramuscular Injection Dilution not required
+
 Sterile
-
-For Intravenous or Intramuscular Injection
-
-Dilution not required
 
 10 x 2 mL Ampules
 
-SANDOZ
+SANDOZ – A Novartis Division
