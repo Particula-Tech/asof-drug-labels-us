@@ -31,9 +31,9 @@ Priapism
 Advise patients of the possibility of painful or prolonged penile erections (priapism).
 Instruct them to seek immediate medical attention in the event of priapism [see Warnings and Precautions (5.5)].
 
-Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud’s phenomenon]
+Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud's phenomenon]
 
-Instruct patients beginning treatment with APTENSIO XR about the risk of peripheral vasculopathy, including Raynaud’s Phenomenon, and associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change from pale, to blue, to red.
+Instruct patients beginning treatment with APTENSIO XR about the risk of peripheral vasculopathy, including Raynaud's Phenomenon, and associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change from pale, to blue, to red.
 Instruct patients to report to their physician any new numbness, pain, skin color change, or sensitivity to temperature in fingers or toes.
 
 Instruct patients to call their physician immediately with any signs of unexplained wounds appearing on fingers or toes while taking APTENSIO XR.

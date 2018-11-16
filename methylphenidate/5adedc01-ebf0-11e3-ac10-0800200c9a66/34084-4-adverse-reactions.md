@@ -9,7 +9,7 @@ The following are discussed in more detail in other sections of the labeling:
 - Blood Pressure and Heart Rate Increases [see Warnings and Precautions (5.3)]
 - Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
 - Priapism [see Warnings and Precautions (5.5)]
-- Peripheral Vasculopathy, including Raynaud’s Phenomenon [see Warnings and Precautions (5.6)]
+- Peripheral Vasculopathy, including Raynaud's Phenomenon [see Warnings and Precautions (5.6)]
 - Long-Term Suppression of Growth [see Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Trial Experience

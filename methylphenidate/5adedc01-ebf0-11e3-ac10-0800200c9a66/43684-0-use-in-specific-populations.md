@@ -37,7 +37,7 @@ Risk Summary
 Limited published literature, based on breast milk sampling from five mothers, reports that methylphenidate is present in human milk, which resulted in infant doses of 0.16% to 0.7% of the maternal weight-adjusted dosage and a milk/plasma ratio ranging between 1.1 and 2.7.
 There are no reports of adverse effects on the breastfed infant and no effects on milk production.
 However, long-term neurodevelopmental effects on infants from stimulant exposure are unknown.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for APTENSIO XR and any potential adverse effects on the breastfed infant from APTENSIO XR or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for APTENSIO XR and any potential adverse effects on the breastfed infant from APTENSIO XR or from the underlying maternal condition.
 
 Clinical Considerations
 

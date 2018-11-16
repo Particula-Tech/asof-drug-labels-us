@@ -1,13 +1,125 @@
-PRINCIPAL DISPLAY PANEL - NDC: 42858-401-45 - 90 Count 10 mg Bottle
+# PRINCIPAL DISPLAY PANEL - 10 mg Capsule Bottle Label
 
-PRINCIPAL DISPLAY PANEL - NDC: 42858-402-45 - 90 Count 15 mg Bottle
+NDC 42858-401-45
 
-PRINCIPAL DISPLAY PANEL - NDC: 42858-403-45 - 90 Count 20 mg Bottle
+Aptensio XR™ (methylphenidate HCl extended-release) capsules
 
-PRINCIPAL DISPLAY PANEL - NDC: 42858-404-45 - 90 Count 30 mg Bottle
+CII
 
-PRINCIPAL DISPLAY PANEL - NDC: 42858-405-45 - 90 Count 40 mg Bottle
+10 mg
 
-PRINCIPAL DISPLAY PANEL - NDC: 42858-406-45 - 90 Count 50 mg Bottle
+Dispense the accompanying Medication Guide to each patient.
 
-PRINCIPAL DISPLAY PANEL - NDC: 42858-407-45 - 90 Count 60 mg Bottle
+Rhodes
+
+Once Daily
+
+Rx only 90 Capsules
+
+# PRINCIPAL DISPLAY PANEL - 15 mg Capsule Bottle Label
+
+NDC 42858-402-45
+
+Aptensio XR™ (methylphenidate HCl extended-release) capsules
+
+CII
+
+15 mg
+
+Dispense the accompanying Medication Guide to each patient.
+
+Rhodes
+
+Once Daily
+
+Rx only 90 Capsules
+
+# PRINCIPAL DISPLAY PANEL - 20 mg Capsule Bottle Label
+
+NDC 42858-403-45
+
+Aptensio XR™ (methylphenidate HCl extended-release) capsules
+
+CII
+
+20 mg
+
+Dispense the accompanying Medication Guide to each patient.
+
+Rhodes
+
+Once Daily
+
+Rx only 90 Capsules
+
+# PRINCIPAL DISPLAY PANEL - 30 mg Capsule Bottle Label
+
+NDC 42858-404-45
+
+Aptensio XR™ (methylphenidate HCl extended-release) capsules
+
+CII
+
+30 mg
+
+Dispense the accompanying Medication Guide to each patient.
+
+Rhodes
+
+Once Daily
+
+Rx only 90 Capsules
+
+# PRINCIPAL DISPLAY PANEL - 40 mg Capsule Bottle Label
+
+NDC 42858-405-45
+
+Aptensio XR™ (methylphenidate HCl extended-release) capsules
+
+CII
+
+40 mg
+
+Dispense the accompanying Medication Guide to each patient.
+
+Rhodes
+
+Once Daily
+
+Rx only 90 Capsules
+
+# PRINCIPAL DISPLAY PANEL - 50 mg Capsule Bottle Label
+
+NDC 42858-406-45
+
+Aptensio XR™ (methylphenidate HCl extended-release) capsules
+
+CII
+
+50 mg
+
+Dispense the accompanying Medication Guide to each patient.
+
+Rhodes
+
+Once Daily
+
+Rx only 90 Capsules
+
+# PRINCIPAL DISPLAY PANEL - 60 mg Capsule Bottle Label
+
+NDC 42858-407-45
+
+Aptensio XR™ (methylphenidate HCl extended-release) capsules
+
+CII
+
+60 mg
+
+Dispense the accompanying Medication Guide to each patient.
+
+Rhodes
+
+Once Daily
+
+Rx only 90 Capsules

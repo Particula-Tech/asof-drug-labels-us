@@ -25,7 +25,7 @@ Tell your doctor if you or your child has any heart problems, heart defects, hig
 
 Your doctor should check you or your child carefully for heart problems before starting APTENSIO XR.
 
-Your doctor should check you or your child’s blood pressure and heart rate regularly during treatment with APTENSIO XR.
+Your doctor should check you or your child's blood pressure and heart rate regularly during treatment with APTENSIO XR.
 
 Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking APTENSIO XR.
 
@@ -62,7 +62,7 @@ APTENSIO XR should not be taken if you or your child:
 - are taking or have taken within the past 14 days an anti-depression medicine called a monoamine oxidase inhibitor or MAOI.
 
 APTENSIO XR may not be right for you or your child.
-Before starting APTENSIO XR tell your or your child’s doctors about all health conditions (or a family history of) including:
+Before starting APTENSIO XR tell your or your child's doctors about all health conditions (or a family history of) including:
 
 - heart problems, heart defects, high blood pressure
 - mental problems including psychosis, mania, bipolar illness, or depression
@@ -101,7 +101,7 @@ How should APTENSIO XR be taken?
   If you or your child cannot swallow the capsule, open it and sprinkle the medicine over a spoonful of applesauce.
   Swallow all of the applesauce and medicine mixture without chewing right away.
 - APTENSIO XR is an extended-release capsule.
-  It releases medicine into you or your child’s body throughout the day.
+  It releases medicine into you or your child's body throughout the day.
 - From time to time, your doctor may stop APTENSIO XR treatment for a while to check ADHD symptoms.
 - Your doctor may do regular checks of the blood, heart, and blood pressure while taking APTENSIO XR.
 - Children should have their height and weight checked often while taking APTENSIO XR.
@@ -112,11 +112,11 @@ What are possible side effects of APTENSIO XR?
 
 APTENSIO XR can cause serious side effects including:
 
-- See “What is the most important information I should know about APTENSIO XR?” for information on reported heart and mental problems.
+- See "What is the most important information I should know about APTENSIO XR?" for information on reported heart and mental problems.
 - painful and prolonged erections (priapism) have occurred with methylphenidate.
   If you or your child develop priapism, seek medical help right away.
   Because of the potential for lasting damage, priapism should be evaluated by a doctor immediately.
-- circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud’s phenomenon]: º fingers or toes may feel numb, cool, painful º fingers or toes may change color from pale, to blue, to red
+- circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud's phenomenon]: º fingers or toes may feel numb, cool, painful º fingers or toes may change color from pale, to blue, to red
 
 Tell your doctor if you have or your child has numbness, pain, skin color change, or sensitivity to temperature in the fingers or toes.
 
