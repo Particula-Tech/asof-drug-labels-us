@@ -2,12 +2,9 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Exposure Registry and Pharmacovigilance Program
+Pregnancy Pharmacovigilance Program
 
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to Herceptin during pregnancy.
-Encourage women who receive Herceptin during pregnancy or within 7 months prior to conception to enroll in the MotHER Pregnancy Registry by contacting 1-800-690-6720 or visiting http://www.motherpregnancyregistry.com/.
-
-In addition, there is a pregnancy pharmacovigilance program for Herceptin.
+There is a pregnancy pharmacovigilance program for Herceptin.
 If Herceptin is administered during pregnancy, or if a patient becomes pregnant while receiving Herceptin or within 7 months following the last dose of Herceptin, health care providers and patients should immediately report Herceptin exposure to Genentech at 1-888-835-2555.
 
 Risk Summary
