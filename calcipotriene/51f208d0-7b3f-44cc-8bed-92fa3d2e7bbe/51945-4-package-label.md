@@ -12,6 +12,6 @@ Rx only For topical use only
 
 STORE UPRIGHT
 
-maynepharma
+mayne pharma
 
 Recyclable Aluminum Container

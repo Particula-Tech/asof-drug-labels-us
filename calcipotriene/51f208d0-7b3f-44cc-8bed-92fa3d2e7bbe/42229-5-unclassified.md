@@ -1,3 +1,3 @@
-Distributed by: Mayne Pharma Greenville, NC 27834 140828
+Distributed by: Mayne Pharma Greenville, NC 27834 141027
 
 PHARMACIST —DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT

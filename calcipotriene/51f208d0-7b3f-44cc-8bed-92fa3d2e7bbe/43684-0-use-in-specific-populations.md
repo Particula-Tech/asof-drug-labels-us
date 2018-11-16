@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects, Pregnancy Category C:
+Teratogenic Effects:
 
 There are no adequate and well-controlled trials in pregnant women.
 Therefore, SORILUX Foam should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
