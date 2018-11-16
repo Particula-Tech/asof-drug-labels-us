@@ -22,7 +22,7 @@ Fenofibrate Tablets
 
 Rx only abbvie
 
-NDC 0074–3173–90
+NDC 0074-3173-90
 
 TriCor®
 
@@ -34,7 +34,7 @@ Fenofibrate Tablets
 
 Rx only abbvie
 
-NDC 0074–3189–90
+NDC 0074-3189-90
 
 TriCor®
 
