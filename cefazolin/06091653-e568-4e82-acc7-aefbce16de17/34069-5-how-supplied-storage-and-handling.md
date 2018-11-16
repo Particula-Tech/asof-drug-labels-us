@@ -21,3 +21,12 @@ As with other cephalosporins, Cefazolin for Injection, USP tends to darken depen
 Before reconstitution, protect from light and store at 20º to 25ºC (68º to 77ºF) [see USP Controlled Room Temperature].
 
 This container closure is not made with natural rubber latex.
+
+CLINITEST is a registered trademark of Miles, Inc. CLINISTIX is a registered trademark of Bayer Corporation.
+
+Manufactured by: HIKMA FARMACÊUTICA (PORTUGAL) S.A.
+Estrada do Rio da Mó, nº8, 8A and 8B – Fervença 2705-906 Terrugem SNT PORTUGAL
+
+Distributed by: WEST-WARD A HIKMA COMPANY EATONTOWN, NJ 07724 USA
+
+Revised: September 2018 PIN089-WES/6
