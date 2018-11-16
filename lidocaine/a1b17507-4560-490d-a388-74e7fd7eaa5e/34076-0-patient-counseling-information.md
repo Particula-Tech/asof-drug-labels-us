@@ -21,7 +21,7 @@ Advise patients:
 Eye Exposure
 
 Advise patients to wash hands immediately after handling ZTLIDO and to avoid contact with eyes.
-Instruct patients to, if eye contact should occur, immediately wash out the eye with water or saline and protect the eye until sensation returns [see Dosage and Administration (2.1), Warnings and Precautions (5.5)].
+Instruct patients to, if eye contact should occur, immediately wash out the eye with water or saline and protect the eye until sensation returns [see Dosage and Administration (2.1), Warnings and Precautions (5.6)].
 
 Methemoglobinemia
 

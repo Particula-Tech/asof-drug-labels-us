@@ -9,7 +9,7 @@ When ZTLIDO is used concomitantly with other products containing local anestheti
 
 ZTLIDO may not stick if it gets wet.
 Advise patients to avoid contact with water, such as bathing, swimming, or showering.
-Instruct patients to wash hands immediately after handling ZTLIDO and to avoid contact with eyes [see Warnings and Precautions (5.5), Patient Counseling Information (17)].
+Instruct patients to wash hands immediately after handling ZTLIDO and to avoid contact with eyes [see Warnings and Precautions (5.6), Patient Counseling Information (17)].
 
 Instruct patients to store ZTLIDO inside the sealed envelope and to apply immediately after removal from the envelope.
 Advise them to store ZTLIDO out of the reach of children, pets, and others.

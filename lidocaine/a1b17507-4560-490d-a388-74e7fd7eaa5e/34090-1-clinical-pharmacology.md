@@ -26,7 +26,7 @@ Table 1
 | Mean ± SD Absorption of lidocaine from ZTLIDO Normal volunteers (n = 54, 12-hour application time) |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | Topical System | Application Site | Area (cm2) | Cmax (ng/mL) | Tmax (hr)* |
-| 3 Topical systems of ZTLIDO (108 mg) | Back | 420 | 75.1 ± 28.0 | 13.20 ± 2.71 |
+| 3 Topical systems of ZTLIDO (108 mg) | Back | 420 | 75.1 ± 28.0 | 13.9 (4.0,18.0) |
 
 *median (min, max)
 
