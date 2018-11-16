@@ -72,3 +72,10 @@ KEYTRUDA is indicated for the treatment of patients with recurrent or metastatic
 
 This indication is approved under accelerated approval based on tumor response rate and durability of response.
 Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
+
+## 1.10 Hepatocellular Carcinoma
+
+KEYTRUDA is indicated for the treatment of patients with hepatocellular carcinoma (HCC) who have been previously treated with sorafenib [see Clinical Studies (14.10)].
+
+This indication is approved under accelerated approval based on tumor response rate and durability of response.
+Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.

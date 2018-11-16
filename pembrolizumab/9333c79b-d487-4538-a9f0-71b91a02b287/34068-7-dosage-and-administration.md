@@ -57,36 +57,42 @@ The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusi
 
 The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression [see Clinical Studies (14.9)].
 
-## 2.11 Dose Modifications
+## 2.11 Recommended Dosage for HCC
 
-Withhold KEYTRUDA for any of the following:
+The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression [see Clinical Studies (14.10)].
 
-- Grade 2 pneumonitis [see Warnings and Precautions (5.1)]
-- Grade 2 or 3 colitis [see Warnings and Precautions (5.2)]
-- Grade 3 or 4 endocrinopathies [see Warnings and Precautions (5.4)]
-- Grade 4 hematological toxicity in cHL or PMBCL patients
-- Grade 2 nephritis [see Warnings and Precautions (5.5)]
-- Grade 3 severe skin reactions or suspected Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN) [see Warnings and Precautions (5.6)]
-- Aspartate aminotransferase (AST) or alanine aminotransferase (ALT) greater than 3 and up to 5 times upper limit of normal (ULN) or total bilirubin greater than 1.5 and up to 3 times ULN
-- Any other Grade 2 or 3 treatment-related adverse reaction, based on the severity and type of reaction [see Warnings and Precautions (5.7)]
+## 2.12 Dose Modifications
 
-Resume KEYTRUDA in patients whose adverse reactions recover to Grade 0-1.
+No dose reductions of KEYTRUDA are recommended.
+Withhold or discontinue KEYTRUDA to manage adverse reactions as described in Table 1.
 
-Permanently discontinue KEYTRUDA for any of the following:
+Table 1: Recommended Dose Modifications for Adverse Reactions [see Warnings and Precautions (5.1-5.9)]
 
-- Any life-threatening adverse reaction (excluding endocrinopathies controlled with hormone replacement therapy, or hematological toxicity in patients with cHL or PMBCL)
-- Grade 3 or 4 pneumonitis or recurrent pneumonitis of Grade 2 severity [see Warnings and Precautions (5.1)]
-- Grade 3 or 4 nephritis [see Warnings and Precautions (5.5)]
-- Grade 4 severe skin reactions or confirmed SJS or TEN [see Warnings and Precautions (5.6)]
-- AST or ALT greater than 5 times ULN or total bilirubin greater than 3 times ULN
-  - For patients with liver metastasis who begin treatment with Grade 2 AST or ALT, if AST or ALT increases by greater than or equal to 50% relative to baseline and lasts for at least 1 week
-- Grade 3 or 4 myocarditis, encephalitis, or Guillain-Barré syndrome [see Warnings and Precautions (5.7)]
-- Grade 3 or 4 infusion-related reactions [see Warnings and Precautions (5.8)]
-- Inability to reduce corticosteroid dose to 10 mg or less of prednisone or equivalent per day within 12 weeks
-- Persistent Grade 2 or 3 adverse reactions (excluding endocrinopathies controlled with hormone replacement therapy) that do not recover to Grade 0-1 within 12 weeks after last dose of KEYTRUDA
-- Any severe or Grade 3 treatment-related adverse reaction that recurs [see Warnings and Precautions (5.7)]
+| Adverse Reaction | SeverityToxicity was graded per National Cancer Institute Common Terminology Criteria for Adverse Events. Version 4.0 (NCI CTCAE v4) | Dose Modification for KEYTRUDA |
+| --- | --- | --- |
+| Immune-mediated pneumonitis | Grade 2 | WithholdResume in patients with complete or partial resolution (Grades 0 to 1) after corticosteroid taper. |
+| Grades 3 or 4 or recurrent Grade 2 | Permanently discontinue |  |
+| Immune-mediated colitis | Grades 2 or 3 | Withhold |
+| Grade 4 | Permanently discontinue |  |
+| Immune-mediated hepatitis in patients with HCC | Aspartate aminotransferase (AST) or alanine aminotransferase (ALT) greater than or equal to 5 times upper limit of normal (ULN) if baseline less than 2 times ULN; AST or ALT greater than 3 times baseline if baseline greater than or equal to 2 times ULN Total bilirubin greater than 2.0 mg/dL if baseline less than 1.5 mg/dL; or Total bilirubin greater than 3.0 mg/dL, regardless of baseline levels | WithholdResume in HCC patients when AST or ALT and total bilirubin recover to Grades 0-1 or to baseline. |
+| ALT or AST greater than 10 times ULN; or Child-Pugh score greater than or equal to 9 points; Gastrointestinal bleeding suggestive of portal hypertension; or New onset of clinically detectable ascites; or encephalopathy | Permanently discontinue |  |
+| Immune-mediated hepatitis in patients without HCC | AST or ALT greater than 3 but no more than 5 times the ULN or total bilirubin greater than 1.5 but no more than 3 times the ULN | Withhold |
+| In patients without liver metastases, AST or ALT greater than 5 times ULN or total bilirubin greater than 3 times ULN In patients with liver metastasis and Grade 2 AST or ALT at baseline, with an increase in AST or ALT of 50% or more relative to baseline that persists for at least 1 week | Permanently discontinue |  |
+| Immune-mediated endocrinopathies | Grades 3 or 4 | Withhold until clinically stable |
+| Immune-mediated nephritis | Grade 2 | Withhold |
+| Grades 3 or 4 | Permanently discontinue |  |
+| Immune-mediated skin adverse reactions | Grade 3 or suspected Stevens-Johnson Syndrome (SJS) or toxic epidermal necrolysis (TEN) | Withhold |
+| Grade 4 or confirmed SJS or TEN | Permanently discontinue |  |
+| Hematologic toxicity in patients with cHL or PMBCL | Grade 4 | Withhold until resolution to Grades 0 or 1 |
+| Other immune-mediated adverse reactions | Grades 2 or 3 based on the severity and type of reaction | Withhold |
+| Grade 3 based on the severity and type of reaction or Grade 4 | Permanently discontinue |  |
+| Recurrent immune-mediated adverse reactions | Recurrent Grade 2 pneumonitis Recurrent Grades 3 or 4 | Permanently discontinue |
+| Inability to taper corticosteroid | Requirement for 10 mg per day or greater prednisone or equivalent for more than 12 weeks after last dose of KEYTRUDA | Permanently discontinue |
+| Persistent Grade 2 or 3 adverse reaction (excluding endocrinopathy) | Grades 2 or 3 adverse reactions lasting 12 weeks or longer after last dose of KEYTRUDA | Permanently discontinue |
+| Infusion-related reactions | Grades 1 or 2 | Interrupt or slow the rate of infusion |
+| Grades 3 or 4 | Permanently discontinue |  |
 
-## 2.12 Preparation and Administration
+## 2.13 Preparation and Administration
 
 Reconstitution of KEYTRUDA for Injection (Lyophilized Powder)
 
