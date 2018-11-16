@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA209315"
+  ],
+  "inn": "arsenic-trioxide",
+  "labeler": "Ingenus Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "50742-438-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "arsenic trioxide",
+      "name": "ARSENIC TRIOXIDE"
+    }
+  ],
+  "setid": "c99b01b4-67ff-4793-8375-fe3a21c6c9be",
+  "source": "dailymed"
+}
