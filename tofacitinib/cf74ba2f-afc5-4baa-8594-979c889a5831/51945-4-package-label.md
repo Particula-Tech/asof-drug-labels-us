@@ -2,9 +2,9 @@
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-NDC 0069-1001-01
-
 Pfizer
+
+NDC 0069-1001-01
 
 Xeljanz® (tofacitinib) tablets
 
