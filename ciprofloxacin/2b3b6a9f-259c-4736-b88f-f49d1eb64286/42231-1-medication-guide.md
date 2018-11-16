@@ -64,6 +64,7 @@ Stop taking ciprofloxacin tablets immediately and talk to your healthcare provid
 - tremors
 - feel anxious or nervous
 - confusion
+- depression
 - trouble sleeping
 - nightmares
 - feel lightheaded or dizzy
@@ -156,7 +157,7 @@ Tell your healthcare provider about all the medicines you take, including prescr
   - duloxetine
   - products that contain caffeine
   - probenecid (Probalan®, Col-probenecid®)
-- certain medicines may keep ciprofloxacin tablets from working correctly.
+- Certain medicines may keep ciprofloxacin tablets from working correctly.
   Take ciprofloxacin tablets either 2 hours before or 6 hours after taking these medicines, vitamins, or supplements:
   - an antacid, multivitamin, or other medicine or supplements that has magnesium, calcium, aluminum, iron, or zinc
   - sucralfate (Carafate®)
@@ -239,12 +240,12 @@ Skin rash may be a sign of a more serious reaction to ciprofloxacin tablets.
 
 Stop taking ciprofloxacin tablets and tell your healthcare provider right away if you have yellowing of your skin or white part of your eyes, or if you have dark urine.
 These can be signs of a serious reaction to ciprofloxacin tablets (a liver problem).
-Intestine infection (Pseudomembranous colitis).
-Pseudomembranous colitis can happen with many antibacterial medicines, including ciprofloxacin tablets.
-Call your healthcare provider right away if you get watery diarrhea, diarrhea that does not go away, or bloody stools.
-You may have stomach cramps and a fever.
-Pseudomembranous colitis can happen 2 or more months after you have finished your antibacterial medicine.
 
+- Intestine infection (Pseudomembranous colitis).
+  Pseudomembranous colitis can happen with many antibacterial medicines, including ciprofloxacin tablets.
+  Call your healthcare provider right away if you get watery diarrhea, diarrhea that does not go away, or bloody stools.
+  You may have stomach cramps and a fever.
+  Pseudomembranous colitis can happen 2 or more months after you have finished your antibacterial medicine.
 - Serious heart rhythm changes (QT prolongation and torsade de pointes).
   Tell your healthcare provider right away if you have a change in your heart beat (a fast or irregular heartbeat), or if you faint.
   Ciprofloxacin tablets may cause a rare heart problem known as prolongation of the QT interval.
@@ -259,6 +260,13 @@ Pseudomembranous colitis can happen 2 or more months after you have finished you
   Tell your child’s healthcare provider if your child has any joint problems during or after treatment with ciprofloxacin tablets.
 - Sensitivity to sunlight (photosensitivity).
   See “What should I avoid while taking ciprofloxacin tablets?”
+
+Changes in blood sugar
+
+- People who take ciprofloxacin and other fluoroquinolone medicines with oral anti-diabetes medicines or with insulin can get low blood sugar (hypoglycemia) and high blood sugar (hyperglycemia).
+  Follow your healthcare provider's instructions for how often to check your blood sugar.
+  If you have diabetes and you get low blood sugar while taking ciprofloxacin, stop taking ciprofloxacin and call your healthcare provider right away.
+  Your antibiotic medicine may need to be changed.
 
 The most common side effects of ciprofloxacin tablets include:
 
@@ -275,7 +283,7 @@ Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 How should I store ciprofloxacin tablets?
 
-- Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
+- Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F)
 
 Keep ciprofloxacin tablets and all medicines out of the reach of children.
 General Information about the safe and effective use of ciprofloxacin tablets.
@@ -293,4 +301,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 The brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
 Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 038, India Revised: 06/2018
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 038, India Revised: 11/2018

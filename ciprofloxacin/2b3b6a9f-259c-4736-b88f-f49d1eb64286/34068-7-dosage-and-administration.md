@@ -86,17 +86,9 @@ No information is available on dosing adjustments necessary for pediatric patien
 
 ## 2.4 Important Administration Instructions
 
-With Multivalent Cations
+With Multivalent Cations Administer ciprofloxacin tablets at least 2 hours before or 6 hours after magnesium/aluminum antacids; polymeric phosphate binders (for example, sevelamer, lanthanum carbonate) or sucralfate; Videx® (didanosine) chewable/buffered tablets or pediatric powder for oral solution; other highly buffered drugs; or other products containing calcium, iron or zinc.
 
-Administer ciprofloxacin tablets at least 2 hours before or 6 hours after magnesium/aluminum antacids; polymeric phosphate binders (for example, sevelamer, lanthanum carbonate) or sucralfate; Videx® (didanosine) chewable/buffered tablets or pediatric powder for oral solution; other highly buffered drugs; or other products containing calcium, iron or zinc.
-
-With Dairy Products
-
-Concomitant administration of ciprofloxacin tablets with dairy products (like milk or yogurt) or calcium-fortified juices alone should be avoided since decreased absorption is possible; however, ciprofloxacin tablets may be taken with a meal that contains these products.
-
-Hydration of Patients Receiving Ciprofloxacin Tablets
-
-Assure adequate hydration of patients receiving ciprofloxacin tablets to prevent the formation of highly concentrated urine.
+With Dairy Products Concomitant administration of ciprofloxacin tablets with dairy products (like milk or yogurt) or calcium-fortified juices alone should be avoided since decreased absorption is possible; however, ciprofloxacin tablets may be taken with a meal that contains these products.
+Hydration of Patients Receiving Ciprofloxacin Tablets Assure adequate hydration of patients receiving ciprofloxacin tablets to prevent the formation of highly concentrated urine.
 Crystalluria has been reported with quinolones.
-
 Instruct the patient of the appropriate ciprofloxacin tablets administration [see Patient Counseling Information (17)].
