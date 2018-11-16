@@ -8,4 +8,4 @@ OROS® is a registered trademark of ALZA Corporation.
 
 Manufactured for: Patriot Pharmaceuticals, LLC Horsham, PA 19044
 
-© Patriot Pharmaceuticals, LLC 2015
+© 2015 Patriot Pharmaceuticals, LLC

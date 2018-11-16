@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 Oxybutynin Chloride is an antispasmodic, muscarinic antagonist.
-Each Oxybutynin Chloride Extended Release Tablet contains 5 mg, 10 mg, or 15 mg of oxybutynin chloride USP, formulated as a once-a-day controlled-release tablet for oral administration.
+Each Oxybutynin Chloride Extended Release Tablet contains 5 mg or 10 mg of oxybutynin chloride USP, formulated as a once-a-day controlled-release tablet for oral administration.
 Oxybutynin chloride is administered as a racemate of R- and S-enantiomers.
 
 Chemically, oxybutynin chloride is d,l (racemic) 4-diethylamino-2-butynyl phenylcyclohexylglycolate hydrochloride.

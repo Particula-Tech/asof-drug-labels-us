@@ -17,13 +17,3 @@ Oxybutynin Chloride Extended Release Tablets
 10 mg
 
 Rx only
-
-# PRINCIPAL DISPLAY PANEL - 15 mg Tablet Bottle Label
-
-NDC 10147-0781-0 100 tablets
-
-Oxybutynin Chloride Extended Release Tablets
-
-15 mg
-
-Rx only
