@@ -72,7 +72,7 @@ Race: The influence of race on the pharmacokinetics of fenofibrate has not been 
 Renal Impairment: The pharmacokinetics of fenofibric acid was examined in patients with mild, moderate and severe renal impairment.
 Patients with mild (estimated glomerular filtration rate eGFR 60-89 ml/min/1.73m2) to moderate (eGFR 30-59 mL/min/1.73m2) renal impairment had similar exposure but an increase in the half-life for fenofibric acid was observed as compared to that of healthy subjects.
 Patients with severe renal impairment (eGFR <30 mL/min/1.73m2) showed a 2.7-fold increase in exposure for fenofibric acid and increased accumulation of fenofibric acid during chronic dosing compared to that of healthy subjects.
-In patients with mild to moderate renal impairment, treatment with LIPOFEN should be initiated at a dose of 50 mg per day, and increased only after evaluation of the effects on renal function and lipid levels at this dose.
+In patients with mild to moderate renal impairment, treatment with LIPOFEN should be initiated at a dose of 50 mg per day and increased only after evaluation of the effects on renal function and lipid levels at this dose.
 Based on these findings, the use of LIPOFEN should be avoided in patients who have severe renal impairment.
 
 Hepatic Impairment: No pharmacokinetic studies have been conducted in patients having hepatic impairment.
@@ -86,7 +86,7 @@ Table 3 describes the effects of fenofibrate on coadministered drugs.
 Table 2.
 Effects of Co-Administered Drugs on Fenofibric Acid Systemic Exposure from Fenofibrate Administration
 
-| Co-Administered Drug | Dosage Regimen of Co-Administered Drug | Dosage Regimen of Fenofibrate | Changes in Fenofibric Acid Exposure |  |
+| Co- Administered Drug | Dosage Regimen of Co-Administered Drug | Dosage Regimen of Fenofibrate | Changes in Fenofibric Acid Exposure |  |
 | --- | --- | --- | --- | --- |
 |  |  |  | AUC | Cmax |
 | Lipid-lowering agents |  |  |  |  |
@@ -95,24 +95,25 @@ Effects of Co-Administered Drugs on Fenofibric Acid Systemic Exposure from Fenof
 | Fluvastatin | 40 mg as a single dose | Fenofibrate 160 mg1 as a single dose | ↓2% | ↓10% |
 | Anti-diabetic agents |  |  |  |  |
 | Glimepiride | 1 mg as a single dose | Fenofibrate 145 mg1 once daily for 10 days | ↑1% | ↓1% |
-| Metformin | 850 mg three times Fenofibrate 54 mg1 daily for 10 days three times daily for 10 days |  | ↓9% | ↓6% |
-| Rosiglitazone | 8 mg once daily for Fenofibrate 145 mg1 5 days once daily for 14 days |  | ↑10% | ↑3% |
-| TriCor (fenofibrate) oral tablet TriCor (fenofibrate) oral micronized capsule |  |  |  |  |
+| Metformin | 850 mg three times daily for 10 days | Fenofibrate 54 mg1 three times daily for10 days | ↓9% | ↓6% |
+| Rosiglitazone | 8 mg once daily for5 days | Fenofibrate 145 mg1 once daily for 14 days | ↑10% | ↑3% |
+| 1TriCor (fenofibrate) oral tablet |  |  |  |  |
+| 2TriCor (fenofibrate) oral micronized capsule |  |  |  |  |
 
 Table 3.
 Effects of Fenofibrate on Systemic Exposure of Co-Administered Drugs
 
-| Dosage Regimen of Fenofibrate | Dosage Regimen of Co-Administered Drug | Change in Co-Administered Drug Exposure |  |  |
+| Dosage Regimen of Fenofibrate | Dosage Regimen of Co-Administered Drug |  | Change in Co-Administered Drug Exposure |  |
 | --- | --- | --- | --- | --- |
 |  |  | Analyte | AUC | Cmax |
 | Lipid-lowering agents |  |  |  |  |
 | Fenofibrate 160 mg1 once daily for 10 days | Atorvastatin, 20 mg once daily for 10 days | Atorvastatin | ↓17% | 0% |
 | Fenofibrate 3 x 67 mg2 as a single dose | Pravastatin, 40 mg as a single dose | Pravastatin | ↑13% | ↑13% |
-|  |  | 3α-Hydroxyl-isopravastatin | ↑26% | ↑29% |
-| Fenofibrate 160 mg1 as a single dose | Fluvastatin, 40 mg as a Ssingle dose | (+)-3R, 5 Fluvastatin | ↑15% | ↑16% |
+|  |  | 3α-Hydroxyl-iso-pravastatin | ↑26% | ↑29% |
+| Fenofibrate 160 mg1 as a single dose | Fluvastatin, 40 mg as a single dose | (+)-3R, 5S-Fluvastatin | ↑15% | ↑16% |
 | Anti-diabetic agents |  |  |  |  |
 | Fenofibrate 145 mg1 once daily for 10 days | Glimepiride, 1 mg as a single dose | Glimepiride | ↑35% | ↑18% |
 | Fenofibrate 54 mg1 three times daily for 10 days | Metformin, 850 mg three times daily for 10 days | Metformin | ↑3% | ↑6% |
 | Fenofibrate 145 mg1 once daily for 14 days | Rosiglitazone, 8 mg once daily for 5 days | Rosiglitazone | ↑6% | ↓1% |
-| 1 TriCor (fenofibrate) oral tablet |  |  |  |  |
-| 2TriCor (fenofibrat) oral micronized capsule |  |  |  |  |
+| TriCor (fenofibrate) oral tablet |  |  |  |  |
+| TriCor (fenofibrate) oral micronized capsule |  |  |  |  |

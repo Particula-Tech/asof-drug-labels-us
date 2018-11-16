@@ -11,7 +11,7 @@ In a gender subgroup analysis, the hazard ratio for MACE in men receiving combin
 The clinical significance of this subgroup finding is unclear.
 
 The Fenofibrate Intervention and Event Lowering in Diabetes (FIELD) study was a 5-year randomized, placebo-controlled study of 9795 patients with type 2 diabetes mellitus treated with fenofibrate.
-Fenofibrate demonstrated a non-significant 11% relative reduction in the primary outcome of coronary heart disease events (hazard ratio [HR] 0.89, 95% CI 0.75-1.05, p=0.16) and a significant 11% reduction in the secondary outcome of total cardiovascular disease events (HR 0.89 [0.80-0.99], p=0.04).
+Fenofibrate demonstrated a nonsignificant 11% relative reduction in the primary outcome of coronary heart disease events (hazard ratio [HR] 0.89, 95% CI 0.75-1.05, p=0.16) and a significant 11% reduction in the secondary outcome of total cardiovascular disease events (HR 0.89 [0.80-0.99], p=0.04).
 There was a non-significant 11% (HR 1.11 [0.95, 1.29], p=0.18) and 19% (HR 1.19 [0.90, 1.57], p=0.22) increase in total and coronary heart disease mortality, respectively, with fenofibrate as compared to placebo.1
 
 Because of chemical, pharmacological, and clinical similarities between fenofibrate, clofibrate, and gemfibrozil, the adverse findings in 4 large randomized, placebo-controlled clinical studies with these other fibrate drugs may also apply to LIPOFEN.
@@ -22,7 +22,7 @@ There was however, a difference in the rate of cholelithiasis and cholecystitis 
 In a study conducted by the World Health Organization (WHO), 5000 subjects without known coronary artery disease were treated with placebo or clofibrate for 5 years and followed for an additional one year.
 There was a statistically significant, higher age-adjusted all-cause mortality in the clofibrate group compared with the placebo group (5.70% vs. 3.96%, p=<0.01).
 Excess mortality was due to a 33% increase in non-cardiovascular causes, including malignancy, post-cholecystectomy complications, and pancreatitis.
-This appeared to confirm the higher risk of gallbladder disease seen in clofibrate-treated patients studied in the Coronary Drug Project.
+This appeared to confirm the higher risk of gallbladder disease seen in clofibratetreated patients studied in the Coronary Drug Project.
 
 The Helsinki Heart Study was a large (n=4081) study of middle aged men without a history of coronary artery disease.
 Subjects received either placebo or gemfibrozil for 5 years, with a 3.5 year open extension afterward.
@@ -103,15 +103,13 @@ If a patient develops signs or symptoms of an acute hypersensitivity reaction, a
 
 Delayed Hypersensitivity
 
-Severe cutaneous adverse drug reactions (SCAR), including Stevens-Johnson
-
-Syndrome, Toxic Epidermal Necrolysis, and Drug Reaction with Eosinophilia And Systemic Symptoms (DRESS), have been reported post-marketing, occurring days to weeks after initiation of fenofibrate.
+Severe cutaneous adverse drug reactions (SCAR), including Stevens-Johnson Syndrome, Toxic Epidermal Necrolysis, and Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) have been reported post-marketing, occurring days to weeks after initiation of fenofibrate.
 The cases of DRESS were associated with cutaneous reactions (such as rash or exfoliative dermatitis) and a combination of eosinophilia, fever, systemic organ involvement (renal, hepatic, or respiratory).
 Discontinue fenofibrate and treat patients appropriately if SCAR is suspected.
 
 ## 5.10 Venothromboembolic Disease
 
-In the FIELD trial, pulmonary embolus (PE) and deep vein thrombosis (DVT) were observed at higher rates in the fenofibrate than the placebotreated group.
+In the FIELD trial, pulmonary embolus (PE) and deep vein thrombosis (DVT) were observed at higher rates in the fenofibrate than the placebo-treated group.
 Of 9,795 patients enrolled in FIELD, 4,900 in the placebo group and 4,895 in the fenofibrate group.
 For DVT, there were 48 events (1%) in the placebo group and 67 (1%) in the fenofibrate group (p = 0.074); and for PE, there were 32 (0.7%) events in the placebo group and 53 (1%) in the fenofibrate group (p = 0.022).
 
@@ -119,7 +117,7 @@ In the Coronary Drug Project, a higher proportion of the clofibrate group experi
 
 ## 5.11 Paradoxical Decreases in HDL Cholesterol Levels
 
-There have been postmarketing and clinical trial reports of severe decreases in HDL cholesterol levels (as low as 2 mg/dL) occurring in diabetic and non-diabetic patients initiated on fibrate therapy.
+There have been postmarketing and clinical trial reports of severe decreases in HDL cholesterol levels (as low as 2 mg/dL) occurring in diabetic and nondiabetic patients initiated on fibrate therapy.
 The decrease in HDL-C is mirrored by a decrease in apolipoprotein A1.
 This decrease has been reported to occur within 2 weeks to years after initiation of fibrate therapy.
 The HDL-C levels remain depressed until fibrate therapy has been withdrawn; the response to withdrawal of fibrate therapy is rapid and sustained.
