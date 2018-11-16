@@ -2,10 +2,10 @@
 
 The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- •CNS-depressant effects and next-day impairment [see Warnings and Precautions (5.1)]
-- •Serious anaphylactic and anaphylactoid reactions [see Warnings and Precautions (5.3)]
-- •Abnormal thinking and behavior changes, and complex behaviors [see Warnings and Precautions (5.4)]
-- •Withdrawal effects [see Warnings and Precautions (5.8)]
+- •CNS-depressant effects and next-day impairment [seeWarnings and Precautions (5.1)]
+- •Serious anaphylactic and anaphylactoid reactions [seeWarnings and Precautions (5.3)]
+- •Abnormal thinking and behavior changes, and complex behaviors [seeWarnings and Precautions (5.4)]
+- •Withdrawal effects [seeWarnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -36,7 +36,7 @@ Incidences of Treatment-Emergent Adverse Reactions in a 3-Week Placebo-Controlle
 
 | (N = 102) | (N = 110) |  |
 | --- | --- | --- |
-| Body System/Adverse ReactionReactions reported by at least 1% of patients treated with zolpidem tartrate extended-release and at greater frequency than in the placebo group. | Zolpidem Tartrate Extended-Release 12.5 mg | Placebo |
+| Body System Adverse ReactionReactions reported by at least 1% of patients treated with zolpidem tartrate extended-release and at greater frequency than in the placebo group. | Zolpidem Tartrate Extended-Release 12.5 mg | Placebo |
 | Infections and infestations |  |  |
 | Influenza | 3 | 0 |
 | Gastroenteritis | 1 | 0 |
@@ -44,7 +44,7 @@ Incidences of Treatment-Emergent Adverse Reactions in a 3-Week Placebo-Controlle
 | Metabolism and nutrition disorders |  |  |
 | Appetite disorder | 1 | 0 |
 | Psychiatric disorders |  |  |
-| HallucinationsHallucinations included hallucinations NOS as well as visual and hypnogogic hallucinations. | 4 | 0 |
+| HallucinationsHallucinations included hallucinations NOS as well as visual and hypnagogic hallucinations. | 4 | 0 |
 | Disorientation | 3 | 2 |
 | Anxiety | 2 | 0 |
 | Depression | 2 | 0 |
@@ -158,9 +158,9 @@ Incidences of Treatment-Emergent Adverse Reactions in a 3-Week Placebo-Controlle
 
 Dose Relationship for Adverse Reactions: There is evidence from dose comparison trials suggesting a dose relationship for many of the adverse reactions associated with zolpidem use, particularly for certain CNS and gastrointestinal adverse events.
 
-Other Adverse Reactions Observed During the Premarketing Evaluation of Zolpidem Tartrate Extended-Release: Other treatment-emergent adverse reactions associated with participation in zolpidem tartrate extended-release studies (those reported at frequencies of <1%) were not different in nature or frequency to those seen in studies with immediate-release zolpidem tartrate, which are listed below.
+Other Adverse Reactions Observed during the Premarketing Evaluation of Zolpidem Tartrate Extended-Release: Other treatment-emergent adverse reactions associated with participation in zolpidem tartrate extended-release studies (those reported at frequencies of <1%) were not different in nature or frequency to those seen in studies with immediate-release zolpidem tartrate, which are listed below.
 
-Adverse Events Observed During the Premarketing Evaluation of Immediate-Release Zolpidem Tartrate:
+Adverse Events Observed during the Premarketing Evaluation of Immediate-Release Zolpidem Tartrate:
 
 Immediate-release zolpidem tartrate was administered to 3,660 subjects in clinical trials throughout the U.S., Canada, and Europe.
 Treatment-emergent adverse events associated with clinical trial participation were recorded by clinical investigators using terminology of their own choosing.
@@ -225,7 +225,7 @@ Rare: acute renal failure, dysuria, micturition frequency, nocturia, polyuria, p
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of zolpidem tartrate extended-release.
+The following adverse reactions have been identified during postapproval use of zolpidem tartrate extended-release.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Liver and Biliary System: acute hepatocellular, cholestatic or mixed liver injury with or without jaundice (i.e., bilirubin >2x ULN, alkaline phosphatase ≥2x ULN, transaminase ≥5x ULN).
+Liver and biliary system: acute hepatocellular, cholestatic or mixed liver injury with or without jaundice (i.e., bilirubin >2x ULN, alkaline phosphatase ≥2x ULN, transaminase ≥5x ULN).

@@ -18,5 +18,5 @@ The tablets are to be swallowed whole and should not be crushed, chewed, or divi
 
 Storage
 
-Store at 20º to 25ºC (68º to 77ºF) [see USP Controlled Room Temperature].
+Store at 20ºC to 25ºC (68ºF to 77ºF) [see USP Controlled Room Temperature].
 Dispense in a tight, light-resistant, child-resistant container.

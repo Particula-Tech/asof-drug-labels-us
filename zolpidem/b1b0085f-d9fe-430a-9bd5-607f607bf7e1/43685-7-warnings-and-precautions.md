@@ -11,13 +11,13 @@ Downward dose adjustment of zolpidem tartrate extended-release and concomitant C
 
 The use of zolpidem tartrate extended-release with other sedative-hypnotics (including other zolpidem products) at bedtime or the middle of the night is not recommended.
 
-The risk of next-day psychomotor impairment is increased if zolpidem tartrate extended-release is taken with less than a full night of sleep remaining (7 to 8 hours); if higher than the recommended dose is taken; if co-administered with other CNS depressants or alcohol; or co-administered with other drugs that increase the blood levels of zolpidem.
+The risk of next-day psychomotor impairment is increased if zolpidem tartrate extended-release is taken with less than a full night of sleep remaining (7 to 8 hours); if higher than the recommended dose is taken; if coadministered with other CNS depressants or alcohol; or coadministered with other drugs that increase the blood levels of zolpidem.
 Patients should be warned against driving and other activities requiring complete mental alertness if zolpidem tartrate extended-release is taken in these circumstances [see Dosage and Administration (2) and Clinical Studies (14.2)].
 
 Vehicle drivers and machine operators should be warned that, as with other hypnotics, there may be a possible risk of adverse reactions including drowsiness, prolonged reaction time, dizziness, sleepiness, blurred/double vision, reduced alertness and impaired driving the morning after therapy.
 In order to minimize this risk a full night of sleep (7 to 8 hours) is recommended.
 
-## 5.2 Need to Evaluate for Co-morbid Diagnoses
+## 5.2 Need to Evaluate for Comorbid Diagnoses
 
 Because sleep disturbances may be the presenting manifestation of a physical and/or psychiatric disorder, symptomatic treatment of insomnia should be initiated only after a careful evaluation of the patient.
 The failure of insomnia to remit after 7 to 10 days of treatment may indicate the presence of a primary psychiatric and/or medical illness that should be evaluated.
@@ -42,7 +42,7 @@ In controlled trials, <1% of adults with insomnia reported hallucinations.
 In a clinical trial, 7% of pediatric patients treated with zolpidem tartrate 0.25 mg/kg taken at bedtime reported hallucinations versus 0% treated with placebo [see Use in Specific Populations (8.4)].
 
 Complex behaviors such as "sleep-driving" (i.e., driving while not fully awake after ingestion of a sedative-hypnotic, with amnesia for the event) have been reported in sedative-hypnotic-naive as well as in sedative-hypnotic-experienced persons.
-Although behaviors such as "sleep-driving" have occurred with zolpidem tartrate extended-release alone at therapeutic doses, the co-administration of alcohol and other CNS depressants increases the risk of such behaviors, as does the use of zolpidem tartrate extended-release at doses exceeding the maximum recommended dose.
+Although behaviors such as "sleep-driving" have occurred with zolpidem tartrate extended-release alone at therapeutic doses, the coadministration of alcohol and other CNS depressants increases the risk of such behaviors, as does the use of zolpidem tartrate extended-release at doses exceeding the maximum recommended dose.
 Due to the risk to the patient and the community, discontinuation of zolpidem tartrate extended-release should be strongly considered for patients who report a "sleep-driving" episode.
 
 Other complex behaviors (e.g., preparing and eating food, making phone calls, or having sex) have been reported in patients who are not fully awake after taking a sedative-hypnotic.
@@ -62,19 +62,19 @@ Intentional overdosage is more common in this group of patients; therefore, the 
 
 Although studies with 10 mg zolpidem tartrate did not reveal respiratory depressant effects at hypnotic doses in healthy subjects or in patients with mild-to-moderate chronic obstructive pulmonary disease (COPD), a reduction in the Total Arousal Index, together with a reduction in lowest oxygen saturation and increase in the times of oxygen desaturation below 80% and 90%, was observed in patients with mild-to-moderate sleep apnea when treated with zolpidem compared to placebo.
 Since sedative-hypnotics have the capacity to depress respiratory drive, precautions should be taken if zolpidem tartrate extended-release is prescribed to patients with compromised respiratory function.
-Post-marketing reports of respiratory insufficiency in patients receiving 10 mg of zolpidem tartrate, most of whom had pre-existing respiratory impairment, have been reported.
+Postmarketing reports of respiratory insufficiency in patients receiving 10 mg of zolpidem tartrate, most of whom had pre-existing respiratory impairment, have been reported.
 The risk of respiratory depression should be considered prior to prescribing zolpidem tartrate extended-release in patients with respiratory impairment including sleep apnea and myasthenia gravis.
 
 ## 5.7 Precipitation of Hepatic Encephalopathy
 
-GABA agonists such as zolpidem tartrate have been associated with precipitation of hepatic encephalopathy in patients with hepatic insufficiency.
+Drugs affecting GABA receptors such as zolpidem tartrate have been associated with precipitation of hepatic encephalopathy in patients with hepatic insufficiency.
 In addition, patients with hepatic insufficiency do not clear zolpidem tartrate as rapidly as patients with normal hepatic function.
 Avoid zolpidem tartrate extended-release use in patients with severe hepatic impairment as it may contribute to encephalopathy [see Dosage and Administration (2.2), Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
 
 ## 5.8 Withdrawal Effects
 
 There have been reports of withdrawal signs and symptoms following the rapid dose decrease or abrupt discontinuation of zolpidem.
-Monitor patients for tolerance, abuse, and dependence [see Drug Abuse and Dependence (9.2) and (9.3)].
+Monitor patients for tolerance, abuse, and dependence [seeDrug Abuse and Dependence (9.2), (9.3)].
 
 ## 5.9 Severe Injuries
 

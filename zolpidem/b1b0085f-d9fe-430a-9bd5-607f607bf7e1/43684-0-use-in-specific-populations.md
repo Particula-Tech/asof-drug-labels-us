@@ -2,29 +2,56 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
+Risk Summary
 
-There are no adequate and well-controlled studies of zolpidem tartrate extended-release in pregnant women.
-Studies in children to assess the effects of prenatal exposure to zolpidem have not been conducted; however, cases of severe neonatal respiratory depression have been reported when zolpidem was used at the end of pregnancy, especially when taken with other CNS depressants.
-Children born to mothers taking sedative-hypnotic drugs may be at risk for withdrawal symptoms during the postnatal period.
-Neonatal flaccidity has also been reported in infants born to mothers who received sedative-hypnotic drugs during pregnancy.
-Zolpidem tartrate extended-release should be used during pregnancy only if the potential benefit outweighs the potential risk to the fetus.
+Neonates born to mothers using zolpidem late in the third trimester of pregnancy have been reported to experience symptoms of respiratory depression and sedation [see Clinical Considerations and Data].
+Published data on the use of zolpidem during pregnancy have not reported a clear association with zolpidem and major birth defects [see Data].
+Oral administration of zolpidem to pregnant rats and rabbits did not indicate a risk for adverse effects on fetal development at clinically relevant doses [see Data].
 
-Administration of zolpidem to pregnant rats and rabbits resulted in adverse effects on offspring development at doses greater than the zolpidem tartrate extended-release maximum recommended human dose (MRHD) of 12.5 mg/day (approximately 10 mg/day zolpidem base); however, teratogenicity was not observed.
+The estimated background risk of major birth defects and miscarriage for the indicated populations are unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2%-4% and 15%-20%, respectively.
 
-When zolpidem was administered at oral doses of 4, 20, and 100 mg base/kg/day to pregnant rats during the period of organogenesis, dose-related decreases in fetal skull ossification occurred at all but the lowest dose, which is approximately 4 times the MRHD on a mg/m2 basis.
-In rabbits treated during organogenesis with zolpidem at oral doses of 1, 4, and 16 mg base/kg/day, increased embryo-fetal death and incomplete fetal skeletal ossification occurred at the highest dose.
-The no-effect dose for embryo-fetal toxicity in rabbits is approximately 8 times the MRHD on a mg/m2 basis.
-Administration of zolpidem to rats at oral doses of 4, 20, and 100 mg base/kg/day during the latter part of pregnancy and throughout lactation produced decreased offspring growth and survival at all but the lowest dose, which is approximately 4 times the MRHD on a mg/m2 basis.
+Clinical Considerations
 
-## 8.2 Labor and Delivery
+Fetal/neonatal adverse reactions
 
-Zolpidem tartrate extended-release has no established use in labor and delivery [see Pregnancy (8.1)].
+Zolpidem crosses the placenta and may produce respiratory depression and sedation in neonates.
+Monitor neonates exposed to zolpidem tartrate extended-release during pregnancy and labor for signs of excess sedation, hypotonia, and respiratory depression and manage accordingly.
 
-## 8.3 Nursing Mothers
+Data
 
-Zolpidem is excreted in human milk.
-Caution should be exercised when zolpidem tartrate extended-release is administered to a nursing woman.
+Human data
+
+Published data from observational studies, birth registries, and case reports on the use of zolpidem during pregnancy do not report a clear association with zolpidem and major birth defects.
+
+There are limited postmarketing reports of severe to moderate cases of respiratory depression that occurred after birth in neonates whose mothers had taken zolpidem during pregnancy.
+These cases required artificial ventilation or intratracheal intubation.
+The majority of neonates recovered within hours to a few weeks after birth once treated.
+
+Zolpidem has been shown to cross the placenta.
+
+Animal data
+
+Oral administration of zolpidem to pregnant rats during the period of organogenesis at 4, 20, and 100 mg base/kg/day, which are approximately 4, 20, and 100 times the maximum recommended human dose (MRHD) of 12.5 mg/day (10 mg zolpidem base) based on mg/m2 body surface area, caused delayed fetal development (incomplete fetal skeletal ossification) at maternally toxic (ataxia) doses 20 and 100 times the MRHD based on mg/m2 body surface area.
+
+Oral administration of zolpidem to pregnant rabbits during the period of organogenesis at 1, 4, and 16 mg base/kg/day, which are approximately 2, 8, and 30 times the MRHD of 12.5 mg/day (10 mg zolpidem base) based on mg/m2 body surface area caused embryo-fetal death and delayed fetal development (incomplete fetal skeletal ossification) at a maternally toxic (decreased body weight gain) dose 30 times the MRHD based on mg/m2 body surface area.
+
+Oral administration of zolpidem to pregnant rats from day 15 of gestation through lactation at 4, 20, and 100 mg base/kg/day, which are approximately 4, 20, and 100 times the MRHD of 12.5 mg/day (10 mg zolpidem base) based on a mg/m2 body surface area, delayed offspring growth and decreased survival at doses 20 and 100 times, respectively, the MRHD based on mg/m2 body surface area.
+
+## 8.2 Lactation
+
+Risk Summary
+
+Limited data from published literature report the presence of zolpidem in human milk.
+There are reports of excess sedation in infants exposed to zolpidem through breastmilk [see Clinical Considerations].
+There is no information on the effects of zolpidem on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for zolpidem tartrate and any potential adverse effects on the breastfed infant from zolpidem tartrate or from the underlying maternal condition.
+
+Clinical Considerations
+
+Infants exposed to zolpidem tartrate through breastmilk should be monitored for excess sedation, hypotonia, and respiratory depression.
+A lactating woman may consider interrupting breastfeeding and pumping and discarding breast milk during treatment and for 23 hours (approximately 5 elimination half-lives) after zolpidem tartrate administration in order to minimize drug exposure to a breast fed infant.
 
 ## 8.4 Pediatric Use
 
@@ -32,7 +59,7 @@ Zolpidem tartrate extended-release is not recommended for use in children.
 Safety and effectiveness of zolpidem in pediatric patients below the age of 18 years have not been established.
 
 In an 8-week study in pediatric patients (aged 6 to 17 years) with insomnia associated with attention-deficit/hyperactivity disorder (ADHD) an oral solution of zolpidem tartrate dosed at 0.25 mg/kg at bedtime did not decrease sleep latency compared to placebo..
-Psychiatric and nervous system disorders comprised the most frequent (> 5%) treatment emergent adverse reactions observed with zolpidem versus placebo and included dizziness (23.5% vs. 1.5%), headache (12.5% vs. 9.2%), and hallucinations were reported in 7% of the pediatric patients who received zolpidem; none of the pediatric patients who received placebo reported hallucinations [see Warnings and Precautions (5.4)].
+Psychiatric and nervous system disorders comprised the most frequent (> 5%) treatment emergent adverse reactions observed with zolpidem versus placebo and included dizziness (23.5% vs. 1.5%), headache (12.5% vs. 9.2%), and hallucinations were reported in 7% of the pediatric patients who received zolpidem; none of the pediatric patients who received placebo reported hallucinations [seeWarnings and Precautions (5.4)].
 Ten patients on zolpidem (7.4%) discontinued treatment due to an adverse reaction.
 
 FDA has not required pediatric studies of zolpidem tartrate extended-release in the pediatric population based on these efficacy and safety findings.

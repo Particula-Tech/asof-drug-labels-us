@@ -2,14 +2,14 @@
 
 ## 7.1 CNS-Active Drugs
 
-Co-administration of zolpidem with other CNS depressants increases the risk of CNS depression.
-Concomitant use of zolpidem with these drugs may increase drowsiness and psychomotor impairment, including impaired driving ability [see Warnings and Precautions (5.1)].
+Coadministration of zolpidem with other CNS depressants increases the risk of CNS depression.
+Concomitant use of zolpidem with these drugs may increase drowsiness and psychomotor impairment, including impaired driving ability [seeWarnings and Precautions (5.1)].
 Zolpidem tartrate was evaluated in healthy volunteers in single-dose interaction studies for several CNS drugs.
 
 Imipramine, Chlorpromazine
 
 Imipramine in combination with zolpidem produced no pharmacokinetic interaction other than a 20% decrease in peak levels of imipramine, but there was an additive effect of decreased alertness.
-Similarly, chlorpromazine in combination with zolpidem produced no pharmacokinetic interaction, but there was an additive effect of decreased alertness and psychomotor performance [see Clinical Pharmacology (12.3)].
+Similarly, chlorpromazine in combination with zolpidem produced no pharmacokinetic interaction, but there was an additive effect of decreased alertness and psychomotor performance [seeClinical Pharmacology (12.3)].
 
 Haloperidol
 
@@ -18,16 +18,16 @@ The lack of a drug interaction following single-dose administration does not pre
 
 Alcohol
 
-An additive adverse effect on psychomotor performance between alcohol and oral zolpidem was demonstrated [see Warnings and Precautions (5.1)].
+An additive adverse effect on psychomotor performance between alcohol and oral zolpidem was demonstrated [seeWarnings and Precautions (5.1)].
 
 Sertraline
 
-Concomitant administration of zolpidem and sertraline increases exposure to zolpidem [see Clinical Pharmacology (12.3)].
+Concomitant administration of zolpidem and sertraline increases exposure to zolpidem [seeClinical Pharmacology (12.3)].
 
 Fluoxetine
 
 After multiple doses of zolpidem tartrate and fluoxetine an increase in the zolpidem half-life (17%) was observed.
-There was no evidence of an additive effect in psychomotor performance [see Clinical Pharmacology (12.3)].
+There was no evidence of an additive effect in psychomotor performance [seeClinical Pharmacology (12.3)].
 
 ## 7.2 Drugs that Affect Drug Metabolism via Cytochrome P450
 
@@ -39,7 +39,7 @@ CYP3A4 Inducers
 Rifampin
 
 Rifampin, a CYP3A4 inducer, significantly reduced the exposure to and the pharmacodynamic effects of zolpidem.
-Use of rifampin in combination with zolpidem may decrease the efficacy of zolpidem and it not recommended [see Clinical Pharmacology (12.3)].
+Use of Rifampin in combination with zolpidem may decrease the efficacy of zolpidem and is not recommended [seeClinical Pharmacology (12.3)].
 
 St. John’s wort
 
@@ -50,4 +50,4 @@ CYP3A4 Inhibitors
 Ketoconazole
 
 Ketoconazole, a potent CYP3A4 inhibitor, increased the exposure to and pharmacodynamic effects of zolpidem.
-Consideration should be given to using a lower dose of zolpidem when a potent CYP3A4 inhibitor and zolpidem are given together [see Clinical Pharmacology (12.3)].
+Consideration should be given to using a lower dose of zolpidem when a potent CYP3A4 inhibitor and zolpidem are given together [seeClinical Pharmacology (12.3)].

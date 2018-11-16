@@ -20,11 +20,11 @@ In a 24-week double-blind, placebo controlled, randomized study in adult outpati
 
 ## 14.2 Studies Pertinent to Safety Concerns for Sedative/Hypnotic Drugs
 
-Next-Day Residual Effects: In five clinical studies [three controlled studies in adults (18 to 64 years of age) administered zolpidem tartrate extended-release 12.5 mg and two controlled studies in the elderly (≥ 65 years of age) administered zolpidem tartrate extended-release 6.25 mg or 12.5 mg], the effect of zolpidem tartrate extended-release on vigilance, memory, or motor function were assessed using neurocognitive tests.
+Next-Day Residual Effects: In five clinical studies (three controlled studies in adults [18 to 64 years of age] administered zolpidem tartrate extended-release 12.5 mg and two controlled studies in the elderly [≥ 65 years of age administered zolpidem tartrate extended-release 6.25 mg or 12.5 mg), the effect of zolpidem tartrate extended-release on vigilance, memory, or motor function were assessed using neurocognitive tests.
 In these studies, no significant decrease in performance was observed eight hours after a nighttime dose.
 In addition, no evidence of next-day residual effects was detected with zolpidem tartrate extended-release 12.5 mg and 6.25 mg using self-ratings of sedation.
 
-During the 3-week studies, next-day somnolence was reported by 15% of the adult patients who received 12.5 mg zolpidem tartrate extended-release versus 2% of the placebo group; next-day somnolence was reported by 6% of the elderly patients who received 6.25 mg zolpidem tartrate extended-release versus 5% of the placebo group [see Adverse Reactions (6)].
+During the 3-week studies, next-day somnolence was reported by 15% of the adult patients who received 12.5 mg zolpidem tartrate extended-release versus 2% of the placebo group; next-day somnolence was reported by 6% of the elderly patients who received 6.25 mg zolpidem tartrate extended-release versus 5% of the placebo group [seeAdverse Reactions (6)].
 In a 6-month study, the overall incidence of next-day somnolence was 5.7% in the zolpidem tartrate extended-release group as compared to 2% in the placebo group.
 
 Rebound Effects: Rebound insomnia, defined as a dose-dependent worsening in sleep parameters (latency, sleep efficiency, and number of awakenings) compared with baseline following discontinuation of treatment, is observed with short- and intermediate-acting hypnotics.

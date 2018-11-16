@@ -46,7 +46,7 @@ Symptoms of insomnia include:
 - • trouble falling asleep
 - • waking up often during the night
 
-It is not known if zolpidem tartrate extended-release tablets are safe and effective in children under the age of 18 years.
+Zolpidem tartrate extended-release tablets are not recommended for use in children under the age of 18 years.
 
 | Zolpidem tartrate extended-release tablets are a federally controlled substance (C-IV) because it can be abused or lead to dependence. Keep zolpidem tartrate extended-release tablets in a safe place to prevent misuse and abuse. Selling or giving away zolpidem tartrate extended-release tablets may harm others, and is against the law. Tell your healthcare provider if you have ever abused or have been dependent on alcohol, prescription medicines or street drugs. |
 | --- |
@@ -69,13 +69,13 @@ Before starting zolpidem tartrate extended-release tablets, tell your healthcare
 - •have kidney or liver disease
 - •have a lung disease or breathing problems
 - •are pregnant, planning to become pregnant.
-  It is not known if zolpidem tartrate extended-release tablets will harm your unborn baby.
+  Talk to your healthcare provider about the risk to your unborn baby if you take zolpidem tartrate extended-release tablets.
+- •Using zolpidem tartrate extended-release tablets in the last trimester of pregnancy may cause breathing difficulties or excess sleepiness in your newborn.
+  Monitor for signs of sleepiness (more than usual), trouble breathing, or limpness in the newborn if zolpidem tartrate extended-release tablets are taken late in pregnancy.
 - •are breastfeeding or plan to breastfeed.
-  Zolpidem tartrate extended-release can pass into your breast milk.
-  It is not known if zolpidem tartrate extended-release tablets will harm your baby.
+  Zolpidem passes into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby while you take zolpidem tartrate extended-release tablets.
-
-Tell your healthcare provider about all of the medicines you take, including prescription and nonprescription medicines, vitamins and herbal supplements.
+- Tell your healthcare provider about all of the medicines you take, including prescription and nonprescription medicines, vitamins and herbal supplements.
 
 Medicines can interact with each other, sometimes causing serious side effects.
 Do not take zolpidem tartrate extended-release tablets with other medicines that can make you sleepy unless your healthcare provider tells you to.
@@ -85,7 +85,7 @@ Keep a list of your medicines with you to show your healthcare provider and phar
 
 How should I take zolpidem tartrate extended-release tablets?
 
-- •See "what is the most important information i should know about zolpidem tartrate extended-release tablets?"
+- •See "what is the most important information I should know about zolpidem tartrate extended-release tablets?"
 - •Take zolpidem tartrate extended-release tablets exactly as prescribed.
   Only take one zolpidem tartrate extended-release tablet a night if needed.
 - •Do not take zolpidem tartrate extended-release tablets if you drank alcohol that evening or before bed.
@@ -112,7 +112,7 @@ Zolpidem tartrate extended-release tablets may cause serious side effects includ
 - •severe allergic reactions.
   Symptoms include swelling of the tongue or throat, trouble breathing, and nausea and vomiting.
   Get emergency medical help if you get these symptoms after taking zolpidem tartrate extended-release tablets.
-- •Falls, which may lead to severe injuries
+- •falls, which may lead to severe injuries
 
 Call your healthcare provider right away if you have any of the above side effects or any other side effects that worry you while using zolpidem tartrate extended-release tablets.
 
@@ -139,12 +139,12 @@ After you stop taking a sleep medicine, you may have symptoms for 1 to 2 days su
 These are not all the side effects of zolpidem tartrate extended-release tablets.
 Ask your healthcare provider or pharmacist for more information.
 
-Call your healthcare provider for medical advice about side effects.
+Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1–800–FDA–1088.
 
 How should I store zolpidem tartrate extended-release tablets?
 
-Store at 20º to 25ºC (68º to 77ºF) [see USP Controlled Room Temperature].
+Store at 68ºF to 77ºF (20ºC to 25ºC) [see USP Controlled Room Temperature].
 
 Keep zolpidem tartrate extended-release tablets and all medicines out of reach of children.
 
@@ -153,7 +153,7 @@ General Information about the safe and effective use of zolpidem tartrate extend
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 
 Do not use zolpidem tartrate extended-release tablets for a condition for which it was not prescribed.
-Do not share zolpidem tartrate extended-release tablets with other people, even if you think they have the same symptoms that you have.
+Do not share zolpidem tartrate extended-release tablets with other people, even if they have the same symptoms that you have.
 It may harm them and it is against the law.
 
 This Medication Guide summarizes the most important information about zolpidem tartrate extended-release tablets.
@@ -177,4 +177,4 @@ Finished Drug Product Manufactured by Lek Pharmaceuticals d.d.,
 SI-1526 Ljubljana, Slovenia for Sandoz Inc., Princeton, NJ 08540
 
 Rev.
-March 2017
+October 2018
