@@ -38,7 +38,7 @@ Do not add supplementary medication.
 
 Baxter Healthcare Corporation Deerfield, IL 60015 USA Printed in USA
 
-Baxter and Viaflex are registered trademarks of Baxter International Inc. ATCC is a registered trademark of the American Type Culture Collection
+Baxter and Viaflex are registered trademarks of Baxter International Inc.
 
-07-19-78-020 Rev.
-December 2017
+07-19-00-529 Rev.
+November 2018
