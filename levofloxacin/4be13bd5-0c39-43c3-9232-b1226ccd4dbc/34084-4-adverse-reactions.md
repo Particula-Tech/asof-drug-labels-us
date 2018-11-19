@@ -50,7 +50,7 @@ Table 4: Common (≥1%) Adverse Reactions Reported in Clinical Trials with Levof
 | Respiratory, Thoracic and Mediastinal Disorders | dyspnea [see WARNINGS AND PRECAUTIONS (5.7)] | 1 |
 | Gastrointestinal Disorders | nausea diarrhea constipation abdominal pain vomiting dyspepsia | 7 5 3 2 2 2 |
 | Skin and Subcutaneous Tissue Disorders | rash [see WARNINGS AND PRECAUTIONS (5.7)] pruritus | 2 1 |
-| Reproductive System and Breast Disorders | vaginitis | 1† |
+| Reproductive System and Breast Disorders | Vaginitis | 1† |
 | General Disorders and Administration Site Conditions | edema injection site reaction chest pain | 1 1 1 |
 | * N=7274 |  |  |
 | † N=3758 (women) |  |  |
@@ -89,7 +89,7 @@ Table 6: Postmarketing Reports Of Adverse Drug Reactions
 | --- | --- |
 | Blood and Lymphatic System Disorders | pancytopenia aplastic anemia leukopenia hemolytic anemia [see WARNINGS AND PRECAUTIONS (5.6)] eosinophilia |
 | Immune System Disorders | hypersensitivity reactions, sometimes fatal including: anaphylactic/anaphylactoid reactions anaphylactic shock angioneurotic edema serum sickness [see WARNINGS AND PRECAUTIONS (5.6, 5.7)] |
-| Psychiatric Disorders | psychosis paranoia isolated reports of suicide ideation, suicide attempt and completed suicide [see WARNINGS AND PRECAUTIONS (5.4)] |
+| Psychiatric Disorders | psychosis paranoia isolated reports of suicide ideation, suicidal attempt and completed suicide [see WARNINGS AND PRECAUTIONS (5.4)] |
 | Nervous System Disorders | exacerbation of myasthenia gravis [see WARNINGS AND PRECAUTIONS (5.5)] anosmia ageusia parosmia dysgeusia peripheral neuropathy (may be irreversible) [see WARNINGS AND PRECAUTIONS (5.3)] isolated reports of encephalopathy abnormal electroencephalogram (EEG) dysphonia pseudotumor cerebri [see WARNINGS AND PRECAUTIONS (5.4)] |
 | Eye Disorders | uveitis vision disturbance, including diplopia visual acuity reduced vision blurred scotoma |
 | Ear and Labyrinth Disorders | hypoacusis tinnitus |

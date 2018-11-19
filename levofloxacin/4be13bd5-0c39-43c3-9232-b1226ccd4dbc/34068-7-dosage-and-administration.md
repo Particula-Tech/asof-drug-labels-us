@@ -46,11 +46,11 @@ Table 2: Levofloxacin Tablets Dosage in Pediatric Patients Weighing 30 kg or gre
 | Type of Infection | Dose | Frequency | DurationSequential therapy (intravenous levofloxacin injection to oral levofloxacin tablets) may be instituted at the discretion of the healthcare provider. |
 | --- | --- | --- | --- |
 | Inhalational Anthrax (post-exposure)‡,§ |  |  |  |
-| Pediatric patients weighing 50 kg or greater | 500 mg | every 24 hour | 60 days The safety of levofloxacin in pediatric patients for durations of therapy beyond 14 days has not been studied. [see WARNINGS AND PRECAUTIONS (5.10), USE IN SPECIFIC POPULATIONS (8.4), and CLINICAL STUDIES (14.9)]. Begin levofloxacin tablets as soon as possible after suspected or confirmed exposure to Yersinia pestis. |
-| Pediatric patients weighing 30 kg to less than 50 kg | 250 mg | every 12 hour | 60 days |
+| Pediatric patients weighing 50 kg or greater | 500 mg | every 24 hours | 60 days The safety of levofloxacin in pediatric patients for durations of therapy beyond 14 days has not been studied. [see WARNINGS AND PRECAUTIONS (5.10), USE IN SPECIFIC POPULATIONS (8.4), and CLINICAL STUDIES (14.9)]. Begin levofloxacin tablets as soon as possible after suspected or confirmed exposure to Yersinia pestis. |
+| Pediatric patients weighing 30 kg to less than 50 kg | 250 mg | every 12 hours | 60 days |
 | Plague¶ |  |  |  |
-| Pediatric patients weighing 50 kg or greater | 500 mg | every 24 hour | 10 to 14 days |
-| Pediatric patients weighing 30 kg to less than 50 kg | 250 mg | every 12 hour | 10 to 14 days |
+| Pediatric patients weighing 50 kg or greater | 500 mg | every 24 hours | 10 to 14 days |
+| Pediatric patients weighing 30 kg to less than 50 kg | 250 mg | every 12 hours | 10 to 14 days |
 
 ## 2.3 Dosage Adjustment in Adults with Renal Impairment
 

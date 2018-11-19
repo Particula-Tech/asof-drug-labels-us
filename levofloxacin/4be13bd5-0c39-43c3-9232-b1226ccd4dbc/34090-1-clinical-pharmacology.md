@@ -96,7 +96,7 @@ Pediatric Patients:
 The pharmacokinetics of levofloxacin following a single 7 mg/kg intravenous dose were investigated in pediatric patients ranging in age from 6 months to 16 years.
 Pediatric patients cleared levofloxacin faster than adult patients, resulting in lower plasma exposures than adults for a given mg/kg dose.
 Subsequent pharmacokinetic analyses predicted that a dosage regimen of 8 mg/kg every 12 hours (not to exceed 250 mg per dose) for pediatric patients 6 months to 17 years of age would achieve comparable steady state plasma exposures (AUC0-24 and Cmax) to those observed in adult patients administered 500 mg of levofloxacin once every 24 hours.
-Levofloxacin tablets can only be administered to pediatric patients with inhalational anthrax (post-exposure) or plague who are 30 kg or greater due to the limitations of the available strengths [see DOSAGE AND ADMINISTRATION (2.2)]
+Levofloxacin tablets can only be administered to pediatric patients with inhalational anthrax (post-exposure) or plague who are 30 kg or greater due to the limitations of the available strengths [see DOSAGE AND ADMINISTRATION (2.2)].
 
 Male and Female Subjects:
 

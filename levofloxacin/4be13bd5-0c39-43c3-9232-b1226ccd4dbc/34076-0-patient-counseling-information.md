@@ -46,7 +46,7 @@ Skipping doses or not completing the full course of therapy may (1) decrease the
 Administration with Food, Fluids, and Concomitant Medications
 
 Patients should be informed that levofloxacin tablets may be taken with or without food.
-The tablet should be taken at the same time each day.
+The tablets should be taken at the same time each day.
 
 Patients should drink fluids liberally while taking levofloxacin tablets to avoid formation of a highly concentrated urine and crystal formation in the urine.
 
@@ -80,4 +80,4 @@ Goa 403 722
 
 INDIA.
 
-Revised: August 2, 2018 ID#: 256233
+Revised: November 18, 2018 ID#: 258052

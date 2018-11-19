@@ -39,8 +39,7 @@ Prolonged levofloxacin therapy should only be used when the benefit outweighs th
 
 ## 1.8 Plague
 
-Levofloxacin tablets are indicated for treatment of plague, including pneumonic and septicemic plague, due to Yersinia pestis (Y. pestis) and prophylaxis for plague in adults and pediatric patients, 6 months of age and older.
-[see DOSAGE AND ADMINISTRATION (2.2)].
+Levofloxacin tablets are indicated for treatment of plague, including pneumonic and septicemic plague, due to Yersinia pestis (Y. pestis) and prophylaxis for plague in adults and pediatric patients, 6 months of age and older [see DOSAGE AND ADMINISTRATION (2.2)].
 
 Efficacy studies of levofloxacin could not be conducted in humans with plague for ethical and feasibility reasons.
 Therefore, approval of this indication was based on an efficacy study conducted in animals [see CLINICAL STUDIES (14.10)].

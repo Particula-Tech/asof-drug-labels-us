@@ -6,10 +6,6 @@ Levofloxacin (LEE-voe-FLOX-a-sin) Tablets USP
 
 Rx Only
 
-Read this Medication Guide before you start taking levofloxacin tablets and each time you get a refill.
-There may be new information.
-This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or your treatment.
-
 What is the most important information I should know about levofloxacin tablets?
 
 Levofloxacin, a fluoroquinolone antibiotic, can cause serious side effects.
@@ -25,7 +21,7 @@ Tendon rupture or swelling of the tendon (tendinitis).
   Some tendon problems include:
   - pain
   - swelling
-  - tears, and swelling of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites.
+  - tears and swelling of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites.
 - The risk of getting tendon problems while you take levofloxacin is higher if you:
   - are over 60 years of age
   - are taking steroids (corticosteroids)
@@ -102,7 +98,7 @@ These bacterial infections include:
 - urinary tract infections, complicated and uncomplicated
 - acute kidney infection (pyelonephritis)
 - acute sinus infection
-- acute worsening of chronic bronchitis
+- acute worsening or chronic bronchitis
 
 Studies of levofloxacin for use in the treatment of plague and anthrax were done in animals only, because plague and anthrax could not be studied in people.
 
@@ -121,11 +117,11 @@ See the end of this leaflet for a complete list of ingredients in levofloxacin t
 
 Before you take levofloxacin tablets, tell your healthcare provider about all of your medical conditions, including if you:
 
-- have tendon problems; levofloxacin tablets should not be used in patients who have a history of tendon problems.
-- have a problem that causes muscle weakness (myasthenia gravis); levofloxacin tablets should not be used in patients who have a known history of myasthenia gravis.
+- have tendon problems; levofloxacin tablets should not be used in people who have a history of tendon problems.
+- have a problem that causes muscle weakness (myasthenia gravis); levofloxacin tablets should not be used in people who have a known history of myasthenia gravis.
 - have central nervous system problems such as seizures (epilepsy).
 - have nerve problems; levofloxacin tablets should not be used in patients who have a history of a nerve problem called peripheral neuropathy.
-- have or anyone in your family has an irregular heartbeat, especially a condition called "QT prolongation".
+- have or anyone in your family has an irregular heartbeat, especially a condition called "QT prolongation."
 - have low blood potassium (hypokalemia).
 - have bone problems.
 - have joint problems including rheumatoid arthritis (RA).
@@ -209,7 +205,7 @@ What should I avoid while taking levofloxacin tablets?
 
 What are the possible side effects of levofloxacin tablets?
 
-Levofloxacin tablets can cause serious side effects, including:
+Levofloxacin tablets may cause serious side effects, including:
 
 - See "What is the most important information I should know about levofloxacin tablets?"
 
@@ -356,4 +352,4 @@ INDIA.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: August 2, 2018 ID#: 256234
+Revised: November 18, 2018 ID#: 258053
