@@ -2,24 +2,15 @@
 
 ## 5.1 Methemoglobinemia
 
-Prilocaine in Oraqix can cause elevated methemoglobin levels particularly in conjunction with methemoglobin-inducing agents.
-Methemoglobinemia has also been reported in a few cases in association with lidocaine treatment.
-Patients with glucose-6-phosphate dehydrogenase deficiency or congenital or idiopathic methemoglobinemia are more susceptible to drug-induced methemoglobinemia.
-Oraqix should not be used in those patients with congenital or idiopathic methemoglobinemia and in infants under the age of twelve months who are receiving treatment with methemoglobin-inducing agents.
-Signs and symptoms of methemoglobinemia maybe delayed some hours after exposure.
-Initial signs and symptoms of methemoglobinemia are characterized by a slate grey cyanosis seen in, e.g., buccal mucous membranes, lips and nail beds.
-In severe cases symptoms may include central cyanosis, headache, lethargy, dizziness, fatigue, syncope, dyspnea, CNS depression, seizures, dysrhythmia and shock.
-Methemoglobinemia should be considered if central cyanosis unresponsive to oxygen therapy occurs, especially if metHb-inducing agents have been used.
-Calculated oxygen saturation and pulse oximetry are inaccurate in the setting of methemoglobinemia.
-The diagnosis can be confirmed by an elevated methemoglobin level measured with co-oximetry.
-Normally, metHb levels are <1%, and cyanosis may not be evident until a level of at least 10% is present.
-The development of methemoglobinemia is generally dose related.
-The individual maximum level of metHb in blood ranged from 0.8% to 1.7% following administration of the maximum dose of 8.5g Oraqix.
+Cases of methemoglobinemia have been reported in association with local anesthetic use.
+Although all patients are at risk for methemoglobinemia, patients with glucose-6-phosphate dehydrogenase deficiency, congenital or idiopathic methemoglobinemia, cardiac or pulmonary compromise, infants under 6 months of age, and concurrent exposure to oxidizing agents or their metabolites are more susceptible to developing clinical manifestations of the condition.
+If local anesthetics must be used in these patients, close monitoring for symptoms and signs of methemoglobinemia is recommended.
 
-Management of Methemoglobinemia: Clinically significant symptoms of methemoglobinemia should be treated with a standard clinical regimen such as a slow intravenous injection of methylene blue at a dosage of 1 to 2 mg/kg given over a five minute period.
-
-Patients taking drugs associated with drug-induced methemoglobinemia such as sulfonamides, acetaminophen, acetanilide, anilinedyes, benzocaine, chloroquine, dapsone, naphthalene, nitrates and nitrites, nitrofurantoin, nitroglycerin, nitroprusside, pamaquine, para-aminosalicylic acid, phenacetin, phenobarbital, phenytoin, primaquine, and quinine are also at greater risk for developing methemoglobinemia.
-Treatment with Oraqix should be avoided in patients with any of the above conditions or with a previous history of problems in connection with prilocaine treatment.
+Signs of methemoglobinemia may occur immediately or may be delayed some hours after exposure and are characterized by a cyanotic skin discoloration and/or abnormal coloration of the blood.
+Methemoglobin levels may continue to rise; therefore, immediate treatment is required to avert more serious central nervous system and cardiovascular adverse effects, including seizures, coma, arrhythmias, and death.
+Discontinue ORAQIX and any other oxidizing agents.
+Depending on the severity of the signs and symptoms, patients may respond to supportive care, i.e., oxygen therapy, hydration.
+A more severe clinical presentation may require treatment with methylene blue, exchange transfusion, or hyperbaric oxygen.
 
 ## 5.2 DO NOT INJECT
 
