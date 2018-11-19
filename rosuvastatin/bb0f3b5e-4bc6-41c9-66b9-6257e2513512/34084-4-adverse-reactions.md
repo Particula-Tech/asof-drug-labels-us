@@ -45,7 +45,7 @@ The following laboratory abnormalities have also been reported: dipstick-positiv
 In the METEOR study, involving 981 participants treated with rosuvastatin 40 mg (n=700) or placebo (n=281) with a mean treatment duration of 1.7 years, 5.6% of subjects treated with CRESTOR versus 2.8% of placebo-treated subjects discontinued due to adverse reactions.
 The most common adverse reactions that led to treatment discontinuation were: myalgia, hepatic enzyme increased, headache, and nausea [see Clinical Studies (14.8)].
 
-Adverse reactions reported in ≥ 2% of patients and at a rate greater than placebo are shown in Table 2.
+Adverse reactions reported in ≥2% of patients and at a rate greater than placebo are shown in Table 2.
 
 Table 2.
 Adverse ReactionsAdverse reactions by MedDRA preferred term.
@@ -67,13 +67,13 @@ Myalgia was the most common adverse reaction that led to treatment discontinuati
 
 In JUPITER, there was a significantly higher frequency of diabetes mellitus reported in patients taking rosuvastatin (2.8%) versus patients taking placebo (2.3%).
 Mean HbA1c was significantly increased by 0.1% in rosuvastatin-treated patients compared to placebo-treated patients.
-The number of patients with a HbA1c > 6.5% at the end of the trial was significantly higher in rosuvastatin-treated versus placebo-treated patients [see Warnings and Precautions (5.5) and Clinical Studies (14.9)].
+The number of patients with a HbA1c >6.5% at the end of the trial was significantly higher in rosuvastatin-treated versus placebo-treated patients [see Warnings and Precautions (5.5) and Clinical Studies (14.9)].
 
-Adverse reactions reported in ≥ 2% of patients and at a rate greater than placebo are shown in Table 3.
+Adverse reactions reported in ≥2% of patients and at a rate greater than placebo are shown in Table 3.
 
 Table 3.
 Adverse ReactionsTreatment-emergent adverse reactions by MedDRA preferred term.
-Reported in ≥ 2% of Patients Treated with CRESTOR and > Placebo in the JUPITER Trial (% of Patients)
+Reported in ≥2% of Patients Treated with CRESTOR and > Placebo in the JUPITER Trial (% of Patients)
 
 | Adverse Reactions | CRESTOR 20 mgN=8901 | PlaceboN=8901 |
 | --- | --- | --- |
@@ -95,6 +95,6 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 There have been rare reports of immune-mediated necrotizing myopathy associated with statin use [see Warnings and Precautions (5.1)].
 
-There have been rare postmarketing reports of cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, confusion) associated with statin use.
+There have been rare postmarketing reports of cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, and confusion) associated with statin use.
 These cognitive issues have been reported for all statins.
 The reports are generally nonserious, and reversible upon statin discontinuation, with variable times to symptom onset (1 day to years) and symptom resolution (median of 3 weeks).

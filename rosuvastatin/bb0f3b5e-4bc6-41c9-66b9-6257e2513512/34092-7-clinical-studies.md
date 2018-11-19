@@ -32,7 +32,7 @@ Percent Change in LDL-C From Baseline to Week 6 (LS MeanCorresponding standard e
 |  | Treatment Daily Dose |  |  |  |
 | --- | --- | --- | --- | --- |
 | Treatment | 10 mg | 20 mg | 40 mg | 80 mg |
-| CRESTOR | -46CRESTOR 10 mg reduced LDL-C significantly more than atorvastatin 10 mg; pravastatin 10 mg, 20 mg, and 40 mg; simvastatin 10 mg, 20 mg, and 40 mg. (p< 0.002) | -52CRESTOR 20 mg reduced LDL-C significantly more than atorvastatin 20 mg and 40 mg; pravastatin 20 mg and 40 mg; simvastatin 20 mg, 40 mg, and 80 mg. (p< 0.002) | -55CRESTOR 40 mg reduced LDL-C significantly more than atorvastatin 40 mg; pravastatin 40 mg; simvastatin 40 mg, and 80 mg. (p< 0.002) | --- |
+| CRESTOR | -46CRESTOR 10 mg reduced LDL-C significantly more than atorvastatin 10 mg; pravastatin 10 mg, 20 mg, and 40 mg; simvastatin 10 mg, 20 mg, and 40 mg. (p<0.002) | -52CRESTOR 20 mg reduced LDL-C significantly more than atorvastatin 20 mg and 40 mg; pravastatin 20 mg and 40 mg; simvastatin 20 mg, 40 mg, and 80 mg. (p<0.002) | -55CRESTOR 40 mg reduced LDL-C significantly more than atorvastatin 40 mg; pravastatin 40 mg; simvastatin 40 mg, and 80 mg. (p<0.002) | --- |
 | Atorvastatin | -37 | -43 | -48 | -51 |
 | Simvastatin | -28 | -35 | -39 | -46 |
 | Pravastatin | -20 | -24 | -30 | --- |
@@ -115,19 +115,19 @@ Lipid-modifying Effects of Rosuvastatin in Pediatric Patients 7 to 15 years of A
 
 |  | Placebo(N=13) | CRESTOR 20 mg(N=13) | Percent difference (95% CI) |  |
 | --- | --- | --- | --- | --- |
-| LDL-C (mg/dL) | 481 | 396 | -22.3% (-33.5, -9.1)1 |  |
-| Total-C (mg/dL) | 539 | 448 | -20.1% (-29.7, -9.1)2 |  |
-| Non-HDL-C (mg/dL) | 505 | 412 | -22.9% (-33.7, ‑10.3)2 |  |
-| ApoB (mg/dL) | 268 | 235 | -17.1% (-29.2, -2.9)3 |  |
-| % Difference estimates are based on transformations of the estimated mean difference in log LDL measurements between CRESTOR and placebo using a mixed model adjusted for study period1 p=0.005, 2 p=0.003, 3 p=0.024 |  |  |  |  |
+| LDL-C (mg/dL) | 481 | 396 | -22.3% (-33.5, -9.1)p=0.005 |  |
+| Total-C (mg/dL) | 539 | 448 | -20.1% (-29.7, -9.1)p=0.003 |  |
+| Non-HDL-C (mg/dL) | 505 | 412 | -22.9% (-33.7, ‑10.3) |  |
+| ApoB (mg/dL) | 268 | 235 | -17.1% (-29.2, -2.9)p=0.024 |  |
+| % Difference estimates are based on transformations of the estimated mean difference in log LDL measurements between CRESTOR and placebo using a mixed model adjusted for study period |  |  |  |  |
 
 ## 14.7 Pediatric Patients with Heterozygous Familial Hypercholesterolemia
 
-In a double-blind, randomized, multicenter, placebo-controlled, 12 week study, 176 (97 male and 79 female) children and adolescents with heterozygous familial hypercholesterolemia were randomized to rosuvastatin 5, 10 or 20 mg or placebo daily.
+In a double-blind, randomized, multicenter, placebo-controlled, 12-week study, 176 (97 male and 79 female) children and adolescents with heterozygous familial hypercholesterolemia were randomized to rosuvastatin 5, 10 or 20 mg or placebo daily.
 Patients ranged in age from 10 to 17 years (median age of 14 years) with approximately 30% of the patients 10 to 13 years and approximately 17%, 18%, 40%, and 25% at Tanner stages II, III, IV, and V, respectively.
 Females were at least 1 year postmenarche.
 Mean LDL-C at baseline was 233 mg/dL (range of 129 to 399).
-The 12-week double blind phase was followed by a 40-week open label dose-titration phase, where all patients (n=173) received 5 mg, 10 mg or 20 mg rosuvastatin daily.
+The 12-week double-blind phase was followed by a 40-week open label dose-titration phase, where all patients (n=173) received 5 mg, 10 mg or 20 mg rosuvastatin daily.
 
 Rosuvastatin significantly reduced LDL-C (primary end point), total cholesterol and ApoB levels at each dose compared to placebo.
 Results are shown in Table 12 below.
@@ -142,11 +142,12 @@ Lipid-Modifying Effects of Rosuvastatin in Pediatric Patients 10 to 17 years of 
 | 10 | 44 | -45% | +11% | -34% | -15% | -38% |
 | 20 | 44 | -50% | +9% | -39% | 16% | -41% |
 
-At the end of the 12-week, double blind treatment period, the percentage of patients achieving the LDL-C goal of less than 110 mg/dL (2.8 mmol/L) was 0% for placebo, 12% for rosuvastatin 5 mg, 41% for rosuvastatin 10 mg and 41% for rosuvastatin 20 mg.
+At the end of the 12-week, double-blind treatment period, the percentage of patients achieving the LDL-C goal of less than 110 mg/dL (2.8 mmol/L) was 0% for placebo, 12% for rosuvastatin 5 mg, 41% for rosuvastatin 10 mg and 41% for rosuvastatin 20 mg.
 For the 40-week, open-label phase, 71% of the patients were titrated to the maximum dose of 20 mg and 41% of the patients achieved the LDL-C goal of 110 mg/dL.
 
 Rosuvastatin was also studied in a two year open-label, uncontrolled, titration to goal trial that included 175 children and adolescents with heterozygous familial hypercholesterolemia who were 8 to 17 years old (79 boys and 96 girls).
-All patients had a documented genetic defect in the LDL receptor or in Apo B. Approximately 89% were Caucasian, 7% were Asian, 1% were Black, and fewer than 1% were Hispanic.
+All patients had a documented genetic defect in the LDL receptor or in ApoB.
+Approximately 89% were Caucasian, 7% were Asian, 1% were Black, and fewer than 1% were Hispanic.
 Mean LDL-C at baseline was 236 mg/dL.
 Fifty-eight (33%) patients were prepubertal at baseline.
 The starting rosuvastatin dosage for all children and adolescents was 5 mg once daily.
@@ -161,9 +162,9 @@ The long-term efficacy of rosuvastatin therapy initiated in childhood to reduce 
 In the Measuring Effects on Intima Media Thickness: an Evaluation Of Rosuvastatin 40 mg (METEOR) study, the effect of therapy with CRESTOR on carotid atherosclerosis was assessed by B-mode ultrasonography in patients with elevated LDL‑C, at low risk (Framingham risk <10% over ten years) for symptomatic coronary artery disease and with subclinical atherosclerosis as evidenced by carotid intimal-medial thickness (cIMT).
 In this double-blind, placebo-controlled clinical study 984 patients were randomized (of whom 876 were analyzed) in a 5:2 ratio to CRESTOR 40 mg or placebo once daily.
 Ultrasonograms of the carotid walls were used to determine the annualized rate of change per patient from baseline to two years in mean maximum cIMT of 12 measured segments.
-The estimated difference in the rate of change in the maximum cIMT analyzed over all 12 carotid artery sites between patients treated with CRESTOR and placebo-treated patients was -0.0145 mm/year (95% CI –0.0196, –0.0093; p< 0.0001).
+The estimated difference in the rate of change in the maximum cIMT analyzed over all 12 carotid artery sites between patients treated with CRESTOR and placebo-treated patients was -0.0145 mm/year (95% CI –0.0196, –0.0093; p<0.0001).
 
-The annualized rate of change from baseline for the placebo group was +0.0131 mm/year (p< 0.0001).
+The annualized rate of change from baseline for the placebo group was +0.0131 mm/year (p<0.0001).
 The annualized rate of change from baseline for the group treated with CRESTOR was -0.0014 mm/year (p=0.32).
 
 At an individual patient level in the group treated with CRESTOR, 52.1% of patients demonstrated an absence of disease progression (defined as a negative annualized rate of change), compared to 37.7% of patients in the placebo group.
@@ -178,7 +179,7 @@ The JUPITER study was stopped early by the Data Safety Monitoring Board due to m
 
 The primary end point was a composite end point consisting of the time-to-first occurrence of any of the following major CV events: CV death, nonfatal myocardial infarction, nonfatal stroke, hospitalization for unstable angina or an arterial revascularization procedure.
 
-Rosuvastatin significantly reduced the risk of major CV events (252 events in the placebo group vs. 142 events in the rosuvastatin group) with a statistically significant (p< 0.001) relative risk reduction of 44% and absolute risk reduction of 1.2% (see Figure 2).
+Rosuvastatin significantly reduced the risk of major CV events (252 events in the placebo group vs. 142 events in the rosuvastatin group) with a statistically significant (p<0.001) relative risk reduction of 44% and absolute risk reduction of 1.2% (see Figure 2).
 The risk reduction for the primary end point was consistent across the following predefined subgroups: age, sex, race, smoking status, family history of premature CHD, body mass index, LDL‑C, HDL‑C, and hsCRP levels.
 
 Figure 2.
@@ -195,4 +196,4 @@ In a post-hoc subgroup analysis of JUPITER subjects (n=1405; rosuvastatin=725, p
 Figure 3.
 Major CV Events by Treatment Group in JUPITER
 
-At one year, rosuvastatin increased HDL‑C and reduced LDL‑C, hsCRP, total cholesterol and serum triglyceride levels (p< 0.001 for all versus placebo).
+At one year, rosuvastatin increased HDL‑C and reduced LDL‑C, hsCRP, total cholesterol and serum triglyceride levels (p<0.001 for all versus placebo).

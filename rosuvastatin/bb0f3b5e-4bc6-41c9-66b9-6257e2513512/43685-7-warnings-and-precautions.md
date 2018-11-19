@@ -5,7 +5,7 @@
 Cases of myopathy and rhabdomyolysis with acute renal failure secondary to myoglobinuria have been reported with HMG-CoA reductase inhibitors, including CRESTOR.
 These risks can occur at any dose level, but are increased at the highest dose (40 mg).
 
-CRESTOR should be prescribed with caution in patients with predisposing factors for myopathy (e.g., age ≥ 65 years, inadequately treated hypothyroidism, renal impairment).
+CRESTOR should be prescribed with caution in patients with predisposing factors for myopathy (e.g., age ≥65 years, inadequately treated hypothyroidism, renal impairment).
 
 The risk of myopathy during treatment with CRESTOR may be increased with concurrent administration of some other lipid-lowering therapies (fibrates or niacin), gemfibrozil, cyclosporine, atazanavir/ritonavir, lopinavir/ritonavir, or simeprevir [see Dosage and Administration (2) and Drug Interactions (7)].
 Cases of myopathy, including rhabdomyolysis, have been reported with HMG-CoA reductase inhibitors, including rosuvastatin, coadministered with colchicine, and caution should be exercised when prescribing CRESTOR with colchicine [see Drug Interactions (7.7)].

@@ -30,7 +30,7 @@ CRESTOR is indicated as adjunctive therapy to diet to slow the progression of at
 
 ## 1.7 Primary Prevention of Cardiovascular Disease
 
-In individuals without clinically evident coronary heart disease but with an increased risk of cardiovascular disease based on age ≥ 50 years old in men and ≥ 60 years old in women, hsCRP ≥ 2 mg/L, and the presence of at least one additional cardiovascular disease risk factor such as hypertension, low HDL‑C, smoking, or a family history of premature coronary heart disease, CRESTOR is indicated to:
+In individuals without clinically evident coronary heart disease but with an increased risk of cardiovascular disease based on age ≥50 years old in men and ≥60 years old in women, hsCRP ≥2 mg/L, and the presence of at least one additional cardiovascular disease risk factor such as hypertension, low HDL‑C, smoking, or a family history of premature coronary heart disease, CRESTOR is indicated to:
 
 - •reduce the risk of stroke
 - •reduce the risk of myocardial infarction

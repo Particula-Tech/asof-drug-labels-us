@@ -1,8 +1,6 @@
 # Package/Label Display Panel – 5 mg
 
-NDC 0310-0755-90
-
-90 tablets
+NDC 0310-0755-90 90 tablets
 
 CRESTOR®
 
@@ -16,11 +14,9 @@ Mfd. for: AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-By: Corden Pharma GmbH
+By: IPR Pharmaceuticals LP
 
-Otto-Hahn-Strasse
-
-68723 Plankstadt, Germany
+Canóvanas, PR 00729
 
 Product of UK
 
@@ -28,9 +24,7 @@ AstraZeneca
 
 # Package/Label Display Panel – 10 mg
 
-NDC 0310-0751-90
-
-90 tablets
+NDC 0310-0751-90 90 tablets
 
 CRESTOR®
 
@@ -44,21 +38,17 @@ Mfd. for: AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-By: Corden Pharma GmbH
+By: IPR Pharmaceuticals LP
 
-Otto-Hahn-Strasse
+Canóvanas, PR 00729
 
-68723 Plankstadt, Germany
-
-Product of Belgium
+Product of UK
 
 AstraZeneca
 
 # Package/Label Display Panel – 20 mg
 
-NDC 0310-0752-90
-
-90 tablets
+NDC 0310-0752-90 90 tablets
 
 CRESTOR®
 
@@ -72,11 +62,9 @@ Mfd. for: AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-By: Corden Pharma GmbH
+By: IPR Pharmaceuticals LP
 
-Otto-Hahn-Strasse
-
-68723 Plankstadt, Germany
+Canóvanas, PR 00729
 
 Product of UK
 
@@ -84,9 +72,7 @@ AstraZeneca
 
 # Package/Label Display Panel – 40 mg
 
-NDC 0310-0754-30
-
-30 tablets
+NDC 0310-0754-30 30 tablets
 
 CRESTOR®
 
@@ -100,12 +86,10 @@ Mfd. for: AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-By: Corden Pharma GmbH
+By: IPR Pharmaceuticals LP
 
-Otto-Hahn-Strasse
+Canóvanas, PR 00729
 
-68723 Plankstadt, Germany
-
-Product of Belgium
+Product of UK
 
 AstraZeneca

@@ -27,7 +27,7 @@ All patients treated with CRESTOR should be advised to promptly report any sympt
 
 CRESTOR is a trademark of the AstraZeneca group of companies.
 
-© AstraZeneca 2015, 2016
+© AstraZeneca 2018
 
 Licensed from SHIONOGI & CO., LTD., Osaka, Japan
 
@@ -36,8 +36,3 @@ Distributed by:
 AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
-
-ASTRAZENECA
-
-Rev.
-August 2017
