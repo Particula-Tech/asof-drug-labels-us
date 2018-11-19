@@ -6,7 +6,7 @@ DUPIXENT® (dupilumab) Injection
 
 300 mg/2 mL (150 mg/mL)
 
-For Subcutaneous Injection Only.
+For Subcutaneous Use Only.
 
 2 Single-dose Pre-filled Syringes with Needle Shield
 
