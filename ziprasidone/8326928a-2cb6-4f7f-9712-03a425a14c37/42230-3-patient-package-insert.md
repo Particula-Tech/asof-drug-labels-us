@@ -180,4 +180,4 @@ For current full prescribing information, please visit www.pfizer.com
 
 LAB-0272-8.0
 
-August 2015
+Revised: August 2015

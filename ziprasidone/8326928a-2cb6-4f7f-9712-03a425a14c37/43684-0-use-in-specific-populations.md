@@ -5,7 +5,7 @@
 Pregnancy Category C
 
 In animal studies ziprasidone demonstrated developmental toxicity, including possible teratogenic effects at doses similar to human therapeutic doses.
-When ziprasidone was administered to pregnant rabbits during the period of organogenesis, an increased incidence of fetal structural abnormalities (ventricular septal defects and other cardiovascular malformations and kidney alterations) was observed at a dose of 30 mg/kg/day (3 times the MRHD of 200 mg/day on a mg/m2 basis).
+When ziprasidone was administered to pregnant rabbits during the period of organogenesis, an increased incidence of fetal structural abnormalities (ventricular septal defects and other cardiovascular malformations and kidney alterations) was observed at a dose of 30 mg/kg/day (3 times the maximum recommended human dose [MRHD] of 200 mg/day on a mg/m2 basis).
 There was no evidence to suggest that these developmental effects were secondary to maternal toxicity.
 The developmental no-effect dose was 10 mg/kg/day (equivalent to the MRHD on a mg/m2 basis).
 In rats, embryofetal toxicity (decreased fetal weights, delayed skeletal ossification) was observed following administration of 10 to 160 mg/kg/day (0.5 to 8 times the MRHD on a mg/m2 basis) during organogenesis or throughout gestation, but there was no evidence of teratogenicity.
@@ -25,7 +25,7 @@ Neonates exposed to antipsychotic drugs, during the third trimester of pregnancy
 There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress and feeding disorder in these neonates.
 These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases neonates have required intensive care unit support and prolonged hospitalization.
 
-Geodon should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+GEODON should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## 8.2 Labor and Delivery
 

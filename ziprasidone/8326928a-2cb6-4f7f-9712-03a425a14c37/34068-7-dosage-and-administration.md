@@ -16,7 +16,7 @@ The safety of doses above 100 mg twice daily has not been systematically evaluat
 
 Maintenance Treatment
 
-While there is no body of evidence available to answer the question of how long a patient treated with ziprasidone should remain on it, a maintenance study in patients who had been symptomatically stable and then randomized to continue ziprasidone or switch to placebo demonstrated a delay in time to relapse for patients receiving Geodon [see Clinical Studies (14.1)].
+While there is no body of evidence available to answer the question of how long a patient treated with ziprasidone should remain on it, a maintenance study in patients who had been symptomatically stable and then randomized to continue ziprasidone or switch to placebo demonstrated a delay in time to relapse for patients receiving GEODON [see Clinical Studies (14.1)].
 No additional benefit was demonstrated for doses above 20 mg twice daily.
 Patients should be periodically reassessed to determine the need for maintenance treatment.
 
@@ -60,12 +60,3 @@ Any unused portion should be discarded.
 Since no preservative or bacteriostatic agent is present in this product, aseptic technique must be used in preparation of the final solution.
 This medicinal product must not be mixed with other medicinal products or solvents other than Sterile Water for Injection.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
-
-## 2.4 Dosing in Special Populations
-
-Oral: Dosage adjustments are generally not required on the basis of age, gender, race, or renal or hepatic impairment.
-Geodon is not approved for use in children or adolescents.
-
-Intramuscular: Ziprasidone intramuscular has not been systematically evaluated in elderly patients or in patients with hepatic or renal impairment.
-As the cyclodextrin excipient is cleared by renal filtration, ziprasidone intramuscular should be administered with caution to patients with impaired renal function.
-Dosing adjustments are not required on the basis of gender or race [see Use in Specific Populations (8)].
