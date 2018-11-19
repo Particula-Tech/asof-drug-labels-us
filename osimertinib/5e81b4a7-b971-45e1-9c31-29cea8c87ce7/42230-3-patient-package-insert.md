@@ -12,4 +12,4 @@
 | What are the ingredients in TAGRISSO?Active ingredient: osimertinibInactive ingredients: mannitol, microcrystalline cellulose, low-substituted hydroxypropyl cellulose, and sodium stearyl fumarate. Tablet coating contains: polyvinyl alcohol, titanium dioxide, macrogol 3350, talc, ferric oxide yellow, ferric oxide red and ferric oxide black.For more information, go to www.Tagrisso.com or call 1-800-236-9933.Distributed by: AstraZeneca Pharmaceuticals LP, Wilmington, DE 19850©AstraZeneca 2018 |  |
 
 1. This Patient Information has been approved by the U.S. Food and Drug Administration.
-   Revised: 4/2018
+   Revised: 8/2018

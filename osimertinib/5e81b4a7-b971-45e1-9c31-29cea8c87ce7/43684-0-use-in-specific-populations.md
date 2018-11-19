@@ -50,7 +50,7 @@ Infertility
 
 Based on animal studies, TAGRISSO may impair fertility in females and males of reproductive potential.
 The effects on female fertility showed a trend toward reversibility.
-It is not known whether the effects on male fertility are reversible [see Nonclinical Toxicology (13.1)]
+It is not known whether the effects on male fertility are reversible [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 

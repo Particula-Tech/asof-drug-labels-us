@@ -35,11 +35,11 @@ Efficacy Results in FLAURA according to Investigator Assessment
 | Median PFS in months (95% CI) | 18.9 (15.2, 21.4) | 10.2 (9.6, 11.1) |
 | Hazard Ratio (95% CI)Stratified by ethnicity (Asian vs. non-Asian) and mutation status (Ex19del vs. L858R)Pike estimator | 0.46 (0.37, 0.57) |  |
 | p-valueStratified log-rank test | P < 0.0001 |  |
-| Overall Response Rate (ORR) |  |  |
+| Overall Response Rate (ORR)Confirmed responses |  |  |
 | ORR % (95% CI) | 77 (71, 82) | 69 (63, 74) |
 | Complete response, % | 2% | 1% |
 | Partial response, % | 75% | 68% |
-| Duration of Response (DoR)Confirmed responses |  |  |
+| Duration of Response (DoR) |  |  |
 | Median in months (95% CI) | 17.6 (13.8, 22.0) | 9.6 (8.3, 11.1) |
 
 Figure 1.
