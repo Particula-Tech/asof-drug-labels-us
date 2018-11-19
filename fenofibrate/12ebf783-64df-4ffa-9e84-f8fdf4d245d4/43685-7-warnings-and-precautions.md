@@ -78,7 +78,7 @@ Antara therapy should be discontinued if gallstones are found.
 
 ## 5.6 Coumarin Anticoagulants
 
-Caution should be exercised when anticoagulants are given in conjunction with Antara because of the potentiation of coumarin-type anti-coagulants in prolonging the prothrombin time/International Normalized Ratio (INR/INR).
+Caution should be exercised when anticoagulants are given in conjunction with Antara because of the potentiation of coumarin-type anti-coagulants in prolonging the prothrombin time/International Normalized Ratio (PT/INR).
 To prevent bleeding complications, frequent monitoring of PT/INR and dose adjustment of the anticoagulant are recommended until PT/INR has stabilized [see Drug Interactions (7.1)].
 
 ## 5.7 Pancreatitis
