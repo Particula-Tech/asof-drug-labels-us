@@ -45,7 +45,7 @@ Table 8: Mean ± SD Levofloxacin PK Parameters
 
 7young healthy male and female subjects 18 to 36 years of age
 
-8 healthy elderly male and female subjects 66 to 80 years of age.
+8 healthy elderly male and female subjects 66 to 80 years of age
 
 * Absolute bioavailability; F=0.99 ± 0.08 from a 500 mg tablet and F=0.99 ± 0.06 from a 750 mg tablet;
 

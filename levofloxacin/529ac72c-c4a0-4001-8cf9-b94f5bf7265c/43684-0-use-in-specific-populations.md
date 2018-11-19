@@ -2,8 +2,6 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects
-
 Pregnancy Category C. Levofloxacin was not teratogenic in rats at doses as high as 810 mg/kg/day which corresponds to 9.4 times the highest recommended oral human dose based upon relative body surface area.
 The oral dose of 810 mg/kg/day to rats caused decreased fetal body weight and increased fetal mortality.
 No teratogenicity was observed when rabbits were dosed orally as high as 50 mg/kg/day which corresponds to 1.1 times the highest recommended oral human dose based upon relative body surface area.

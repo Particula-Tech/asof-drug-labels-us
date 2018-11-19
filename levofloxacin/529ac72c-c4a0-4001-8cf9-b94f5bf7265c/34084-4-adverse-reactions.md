@@ -40,7 +40,7 @@ The most common adverse drug reactions leading to discontinuation with the 750 m
 Adverse reactions occurring in ≥1% of levofloxacin-treated patients and less common adverse reactions, occurring in 0.1 to <1% of levofloxacin-treated patients, are shown in Table 4 and Table 5, respectively.
 The most common adverse drug reactions (≥3%) are nausea, headache, diarrhea, insomnia, constipation, and dizziness.
 
-Table 4: Common (≥1%) Adverse Reactions Reported in Clinical Trials with Levofloxacin®#
+Table 4: Common (≥1%) Adverse Reactions Reported in Clinical Trials with Levofloxacin#
 
 | System/Organ Class | Adverse Reaction | % (N = 7537) |
 | --- | --- | --- |
@@ -50,7 +50,7 @@ Table 4: Common (≥1%) Adverse Reactions Reported in Clinical Trials with Levof
 | Respiratory, Thoracic and Mediastinal Disorders | dyspnea [see Warnings and Precautions (5.7)] | 1 |
 | Gastrointestinal Disorders | nausea diarrhea constipation abdominal pain vomiting dyspepsia | 7 5 3 2 2 2 |
 | Skin and Subcutaneous Tissue Disorders | rash [see Warnings and Precautions (5.7)] pruritus | 2 1 |
-| Reproductive System and Breast Disorders | vaginitis | 1† |
+| Reproductive System and Breast Disorders | Vaginitis | 1† |
 | General Disorders and Administration Site Conditions | edema injection site reaction chest pain | 1 1 1 |
 
 * N = 7274

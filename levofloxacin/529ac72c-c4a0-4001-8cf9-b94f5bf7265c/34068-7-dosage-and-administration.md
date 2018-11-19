@@ -1,13 +1,13 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Dosage in Adult Patients with Normal Renal Function
+## 2.1 Dosage of Levofloxacin Tablets in Adult Patients with Creatinine Clearance ≥ 50 mL/minute
 
 The usual dose of levofloxacin tablets is 250 mg, 500 mg, or 750 mg administered orally every 24 hours, as indicated by infection and described in Table 1.
 
 These recommendations apply to patients with creatinine clearance ≥ 50 mL/minute.
 For patients with creatinine clearance less than 50 mL/min, adjustments to the dosing regimen are required [see Dosage and Administration (2.3)].
 
-Table 1: Dosage of LevofloxacinTablets in Adult Patients with Creatinine Clearance greater than or equal to 50 mL/minute)
+Table 1: Dosage of Levofloxacin Tablets in Adult Patients with Creatinine Clearance greater than or equal to 50 mL/minute)
 
 | Type of Infection* | Dosed Every 24 hours | Duration (days)† |
 | --- | --- | --- |
@@ -49,9 +49,10 @@ Prolonged levofloxacin tablets therapy should only be used when the benefit outw
 à Drug administration should begin as soon as possible after suspected or confirmed exposure to Yersinia pestis.
 Higher doses of levofloxacin tablets typically used for treatment of pneumonia can be used for treatment of plague, if clinically indicated.
 
-## 2.2 Dosage in Pediatric Patients
+## 2.2 Dosage of Levofloxacin Tablets in Pediatric Patients with Inhalational Anthrax or Plague
 
-The dosage of levofloxacin tablets for inhalational anthrax (post-exposure) and plague in pediatric patients who weigh 30 kg or greater is described below in Table 2. levofloxacin tablets cannot be administered to patients who weigh less than 30 kg because of the limitations of the available strength.
+The dosage of levofloxacin tablets for inhalational anthrax (post-exposure) and plague in pediatric patients who weigh 30 kg or greater is described below in Table 2.
+Levofloxacin tablets cannot be administered to patients who weigh less than 30 kg because of the limitations of the available strength.
 Alternative formulations of levofloxacin may be considered for pediatric patients who weigh less than 30 kg.
 
 Table 2: Levofloxacin Tablets Dosage in Pediatric Patients Weighing 30 kg or greater with Inhalational Anthrax (Post-Exposure) and Plague*
@@ -77,7 +78,7 @@ Begin levofloxacin tablets as soon as possible after suspected or confirmed expo
 
 ## 2.3 Dosage Adjustment in Adults with Renal Impairment
 
-Administer levofloxacin tablets with caution patients with renal impairment.
+Administer levofloxacin tablets with caution in patients with renal impairment.
 Careful clinical observation and appropriate laboratory studies should be performed prior to and during therapy since elimination of levofloxacin may be reduced in these patients.
 In patients with renal impairment (creatinine clearance less than 50 mL/min), adjustment of the dosage regimen is necessary to avoid the accumulation of levofloxacin due to decreased clearance [see Use in Specific Populations (8.6)].
 No adjustment is necessary for patients with a creatinine clearance greater than or equal to 50 mL/minute.

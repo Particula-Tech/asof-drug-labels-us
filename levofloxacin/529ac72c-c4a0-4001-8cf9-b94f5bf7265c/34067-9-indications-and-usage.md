@@ -8,7 +8,7 @@ Where Pseudomonas aeruginosa is a documented or presumptive pathogen, combinatio
 
 ## 1.2 Community-Acquired Pneumonia: 7 to 14 day Treatment Regimen
 
-Levofloxacin tablets are indicated in adult patients for the treatment of community-acquired pneumonia due to methicillin-susceptible Staphylococcus aureus, Streptococcus pneumoniae (including multi-drug-resistant Streptococcus pneumoniae [MDRSP], Haemophilus influenzae, Haemophilus parainfluenzae, Klebsiella pneumoniae, Moraxella catarrhalis, Chlamydophila pneumoniae, Legionella pneumophila, or Mycoplasma pneumoniae [see Dosage and Administration (2.1) and Clinical Studies (14.2)].
+Levofloxacin tablets are indicated in adult patients for the treatment of community-acquired pneumonia due to methicillin-susceptible Staphylococcus aureus, Streptococcus pneumoniae (including multi-drug-resistant Streptococcus pneumoniae [MDRSP]), Haemophilus influenzae, Haemophilus parainfluenzae, Klebsiella pneumoniae, Moraxella catarrhalis, Chlamydophila pneumoniae, Legionella pneumophila, or Mycoplasma pneumoniae [see Dosage and Administration (2.1) and Clinical Studies (14.2)].
 
 MDRSP isolates are isolates resistant to two or more of the following antibacterials: penicillin (MIC ≥2 mcg/mL), 2nd generation cephalosporins, e.g., cefuroxime, macrolides, tetracyclines and trimethoprim/sulfamethoxazole.
 

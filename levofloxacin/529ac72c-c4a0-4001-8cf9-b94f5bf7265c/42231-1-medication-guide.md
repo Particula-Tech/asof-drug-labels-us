@@ -115,8 +115,8 @@ See the end of this leaflet for a complete list of ingredients in levofloxacin t
 
 Before you take levofloxacin tablets, tell your healthcare provider about all of your medical conditions, including if you:
 
-- have tendon problems; levofloxacin tablets should not be used in people who have a history of tendon problems
-- have a problem that causes muscle weakness (myasthenia gravis); levofloxacin tablets should not be used in people who have a known history of myasthenia gravis
+- have tendon problems; levofloxacin tablets should not be used in people who have a history of tendon problems.
+- have a problem that causes muscle weakness (myasthenia gravis); levofloxacin tablets should not be used in people who have a known history of myasthenia gravis.
 - have central nervous system problems such as seizures (epilepsy).
 - have nerve problems; levofloxacin tablets should not be used in patients how have a history of a nerve problem called peripheral neuropathy.
 - have or anyone in your family has an irregular heartbeat, especially a condition called “QT prolongation".
@@ -201,7 +201,7 @@ What should I avoid while taking levofloxacin tablets?
 
 What are the possible side effects of levofloxacin tablets?
 
-Levofloxacin tablets can cause serious side effects, including:
+Levofloxacin tablets may cause serious side effects, including:
 
 - See “What is the most important information I should know about levofloxacin tablets?”
 
@@ -252,10 +252,9 @@ Pseudomembranous colitis can happen 2 or more months after you have finished you
 Tell your healthcare provider right away if you have a change in your heart beat (a fast or irregular heartbeat), or if you faint.
 Levofloxacin tablets may cause a rare heart problem known as prolongation of the QT interval.
 This condition can cause an abnormal heartbeat and can be very dangerous.
-The chances of this happening are higher in people:
+The chances of this happening are higher in people:who are elderly
 
 - 
-  - who are elderly
   - with a family history of prolonged QT interval
   - with low blood potassium (hypokalemia)
   - who take certain medicines to control heart rhythm (antiarrhythmics)
@@ -313,4 +312,4 @@ Active ingredient: levofloxacin Inactive ingredients: croscarmellose sodium, hyp
 In addition 250 mg contains iron oxide red and 500 mg contains iron oxide red and iron oxide yellow.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 Trademarks are the property of their respective owners.
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500038, India Revised: 09/2018
+Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 11/2018
