@@ -6,3 +6,5 @@
 4.Combination therapy of gemfibrozil with simvastatin (seeWARNINGSand PRECAUTIONS).
 5.Combination therapy of gemfibrozil with repaglinide (see PRECAUTIONS).
 6.Combination therapy of gemfibrozil with dasabuvir (seePRECAUTIONS).
+7.
+Combination therapy of gemfibrozil with selexipag (seePRECAUTIONS).

@@ -26,9 +26,10 @@ The difference in coronary events was substantially greater between gemfibrozil 
 At the completion of the Helsinki Heart Study, subjects could choose to start, stop, or continue to receive gemfibrozil; without knowledge of their own lipid values or double-blind treatment, 60% of patients originally randomized to placebo began therapy with gemfibrozil and 60% of patients originally randomized to gemfibrozil continued medication.
 After approximately 6.5 years following randomization, all patients were informed of their original treatment group and lipid values during the five years of the double-blind treatment.
 After further elective changes in gemfibrozil treatment status, 61% of patients in the group originally randomized to gemfibrozil were taking drug; in the group originally randomized to placebo, 65% were taking gemfibrozil.
-The event rate per 1000 occurring during the open-label follow-up period is detailed in Table II Table II Cardiac Events and All-Cause Mortality (events per 1000 patients) Occurring During the 3.5 Year Open-Label Follow-up to the Helsinki Heart Study1
+The event rate per 1000 occurring during the open-label follow-up period is detailed in Table II.
+Table II Cardiac Events and All-Cause Mortality (events per 1000 patients) Occurring During the 3.5 Year Open-Label Follow-up to the Helsinki Heart Study1
 
-| Group | P Drop | PN | PL | L Drop | LN | LL |
+| Group | PDrop | PN | PL | LDrop | LN | LL |
 | --- | --- | --- | --- | --- | --- | --- |
 | N=215 | N=494 | N=1283 | N=221 | N=574 | N=1207 |  |
 | Cardiac Events | 38.8 | 22.9 | 22.5 | 37.2 | 28.3 | 25.4 |
@@ -43,8 +44,8 @@ Table III Cardiac Events, Cardiac Deaths, Non-Cardiac Deaths, and All-Cause Mort
 | Event | Gemfibrozil at Study Start | Placebo at Study Start | Gemfibrozil: Placebo Hazard Ratio2 | CI Hazard Ratio3 |
 | --- | --- | --- | --- | --- |
 | Cardiac Events4 | 110 | 131 | 0.80 | 0.62-1.03 |
-| Cardiac Death | 36 | 38 | 0.98 | 0.63-1.54 |
-| Non-Cardiac Death | 65 | 45 | 1.40 | 0.95-2.05 |
+| Cardiac Deaths | 36 | 38 | 0.98 | 0.63-1.54 |
+| Non-Cardiac Deaths | 65 | 45 | 1.40 | 0.95-2.05 |
 | All-Cause Mortality | 101 | 83 | 1.20 | 0.90-1.61 |
 
 1Intention-to-Treat Analysis of originally randomized patients neglecting the open-label treatment switches and exposure to study conditions.

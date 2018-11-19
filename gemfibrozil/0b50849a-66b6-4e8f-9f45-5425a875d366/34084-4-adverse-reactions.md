@@ -5,13 +5,13 @@ In that study, the following adverse reactions were statistically more frequent 
 
 |  | Gemfibrozil (N=2046) | PLACEBO (N=2035) |
 | --- | --- | --- |
-|  | Frequency in percent of subject |  |
-| Gastrointestinal reaction | 34.2 | 23.8 |
+|  | Frequency in percent of subjects |  |
+| Gastrointestinal reactions | 34.2 | 23.8 |
 | Dyspepsia | 19.6 | 11.9 |
 | Abdominal pain | 9.8 | 5.6 |
-| Acute appendicitis (Histological confirmed in most cases where data were available) | 1.2 | 0.6 |
+| Acute appendicitis (histologically confirmed in most cases where data were available) | 1.2 | 0.6 |
 | Atrial fibrillation | 0.7 | 0.1 |
-| Adverse event reported by more than 1% of subject, but without a significant difference between groups: |  |  |
+| Adverse events reported by more than 1% of subjects, but without a significant difference between groups: |  |  |
 | Diarrhea | 7.2 | 6.5 |
 | Fatigue | 3.8 | 3.5 |
 | Nausea/Vomiting | 2.5 | 2.1 |

@@ -84,6 +84,8 @@ In addition, gemfibrozil alone or gemfibrozil + itraconazole prolonged the hypog
 Co-administration of gemfibrozil and repaglinide increases the risk of severe hypoglycemia and is contraindicated (see CONTRAINDICATIONS).
 Dasabuvir: Co-administration of gemfibrozil with dasabuvir increased dasabuvir AUC and Cmax (ratios: 11.3 and 2.01, respectively) due to CYP2C8 inhibition.
 Increased dasabuvir exposure may increase the risk of QT prolongation, therefore, co-administration of gemfibrozil with dasabuvir is contraindicated (see CONTRAINDICATIONS).
+Selexipag: Co-administration of gemfibrozil with selexipag doubled exposure to selexipag and increased exposure to the active metabolite by approximately 11-fold.
+Concomitant administration of gemfibrozil with selexipag is contraindicated (see CONTRAINDICATIONS).
 Enzalutamide: In healthy volunteers given a single 160 mg dose of enzalutamide after gemfibrozil 600 mg twice daily, the AUC of enzalutamide plus active metabolite (N-desmethyl enzalutamide) was increased by 2.2 fold and corresponding Cmax was decreased by 16%.
 Increased enzalutamide exposure may increase the risk of seizures.
 If co-administration is considered necessary, the dose of enzalutamide should be reduced (see WARNINGS).
@@ -91,7 +93,7 @@ If co-administration is considered necessary, the dose of enzalutamide should be
 Therefore, dosing reductions of drugs that are substrates of OATP1B1 may be required when gemfibrozil is used concomitantly (see WARNINGS).
 Combination therapy of gemfibrozil with simvastatin or with repaglinide, which are OATP1B1 substrates, is contraindicated (see CONTRAINDICATIONS).
 (E)In vitro studies of CYP enzymes, UGTA enzymes and OATP1B1 transporter: In vitro studies have shown that gemfibrozil is an inhibitor of CYP1A2, CYP2C8, CYP2C9, CYP2C19, OATP1B1, and UDP-glucuronosyltransferase (UGT) 1A1 and 1A3 (see WARNINGS).
-(F) Bile Acid-Binding Resin: Gemfibrozil AUC was reduced by 30% when gemfibrozil was given (600 mg) simultaneously with resin-granule drugs such as colestipol (5 g). Administration of the drugs two hours or more apart is recommended because gemfibrozil exposure was not significantly affected when it was administered two hours apart from colestipol.
+(F) Bile Acid-Binding Resins: Gemfibrozil AUC was reduced by 30% when gemfibrozil was given (600 mg) simultaneously with resin-granule drugs such as colestipol (5 g). Administration of the drugs two hours or more apart is recommended because gemfibrozil exposure was not significantly affected when it was administered two hours apart from colestipol.
 (G) Colchicine: Myopathy, including rhabdomyolysis, has been reported with chronic administration of colchicine at therapeutic doses.
 Concomitant use of gemfibrozil may potentiate the development of myopathy.
 Patients with renal dysfunction and elderly patients are at increased risk.
@@ -115,7 +117,7 @@ Peroxisome proliferation has been shown to occur in humans with either of two ot
 Administration of approximately 2 times the human dose (based on surface area) to male rats for 10 weeks resulted in a dose-related decrease of fertility.
 Subsequent studies demonstrated that this effect was reversed after a drug-free period of about eight weeks, and it was not transmitted to the offspring.
 
-## 5. Pregnancy Category C
+## 5. Pregnancy
 
 Gemfibrozil has been shown to produce adverse effects in rats and rabbits at doses between 0.5 and 3 times the human dose (based on surface area).
 There are no adequate and well-controlled studies in pregnant women.
