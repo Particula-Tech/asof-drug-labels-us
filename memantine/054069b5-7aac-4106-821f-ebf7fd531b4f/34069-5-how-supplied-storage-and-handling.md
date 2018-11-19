@@ -4,7 +4,11 @@ Memantine HCl tablets, USP, 5 mg, are supplied as orange colored, oblong, biconv
 
 They are available as follows:
 
-Bottles of 30: NDC 53746-173-30 Bottles of 1000: NDC 53746-173-10
+Bottles of 30: NDC 53746-173-30
+
+Bottles of 60: NDC 53746-173-60
+
+Bottles of 1000: NDC 53746-173-10
 
 Memantine HCl tablets, USP, 10 mg, are supplied as gray colored, oblong, biconvex, film-coated tablets debossed “IP 174” on one side and plain on the other side.
 

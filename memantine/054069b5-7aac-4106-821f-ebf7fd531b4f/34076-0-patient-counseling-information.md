@@ -11,7 +11,7 @@ If a patient misses a single dose of memantine HCl, that patient should not doub
 The next dose should be taken as scheduled.
 If a patient fails to take memantine HCl for several days, dosing should not be resumed without consulting that patient’s healthcare professional.
 
-Distributed by: Amneal Pharmaceuticals Bridgewater, NJ 08807
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-02-2016-04
+01-2017-05

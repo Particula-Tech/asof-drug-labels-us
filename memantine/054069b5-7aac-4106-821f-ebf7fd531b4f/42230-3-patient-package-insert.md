@@ -109,7 +109,7 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 *Trademarks are the property of their respective owners.
 
-Distributed by: Amneal Pharmaceuticals Bridgewater, NJ 08807
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-08-2015-03
+01-2017-04
