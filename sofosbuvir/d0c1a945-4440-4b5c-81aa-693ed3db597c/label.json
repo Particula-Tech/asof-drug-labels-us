@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA208341"
+  ],
+  "inn": "sofosbuvir",
+  "labeler": "Asegua Therapeutics LLC",
+  "package_ndcs": [
+    "72626-2701-1"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "velpatasvir and sofosbuvir",
+      "name": "Sofosbuvir and Velpatasvir"
+    }
+  ],
+  "setid": "d0c1a945-4440-4b5c-81aa-693ed3db597c",
+  "source": "dailymed"
+}
