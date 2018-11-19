@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA205834"
+  ],
+  "inn": "sofosbuvir",
+  "labeler": "Asegua Therapeutics LLC",
+  "package_ndcs": [
+    "72626-2601-1"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "ledipasvir and sofosbuvir",
+      "name": "Ledipasvir and Sofosbuvir"
+    }
+  ],
+  "setid": "46f4a73b-0cd6-4902-9092-3ac79e882c1a",
+  "source": "dailymed"
+}
