@@ -3,7 +3,7 @@
 Patients should be advised:
 
 - of the potential benefits and risks of Antara.
-- not to use Antara if there is a known hypersensitivity to fenofibrate or fenofibric acid.
+- not to use Antara if there is a known hypersensitivity to fenofibrate capsules or fenofibric acid.
 - that if they are taking coumarin anticoagulants, Antara may increase their anticoagulant effect, and increased monitoring may be necessary.
 - of medications that should not be taken in combination with Antara.
 - to continue to follow an appropriate lipid-modifying diet while taking Antara.
@@ -11,7 +11,7 @@ Patients should be advised:
 - to inform their physician of all medications, supplements, and herbal preparations they are taking and any change to their medical condition.
   Patients should also be advised to inform their physicians prescribing a new medication that they are taking Antara.
 - to inform their physician of any muscle pain, tenderness, or weakness; onset of abdominal pain; or any other new symptoms.
-- to return to their physician’s office for routine monitoring.
+- to return to their physician's office for routine monitoring.
 
 Distributed by:
 

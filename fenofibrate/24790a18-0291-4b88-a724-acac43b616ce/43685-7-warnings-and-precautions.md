@@ -51,7 +51,7 @@ Cases of myopathy, including rhabdomyolysis, have been reported with fenofibrate
 
 ## 5.3 Liver Function
 
-Fenofibrate at doses equivalent to 87 mg to 130 mg Antara per day has been associated with increases in serum transaminases [AST (SGOT) or ALT (SGPT)].
+Fenofibrate at doses equivalent to 130 mg Antara per day has been associated with increases in serum transaminases [AST (SGOT) or ALT (SGPT)].
 
 In a pooled analysis of 10 placebo-controlled trials, increases to >3 times the upper limit of normal occurred in 5.3% of patients taking fenofibrate versus 1.1% of patients treated with placebo.
 When transaminase determinations were followed either after discontinuation of treatment or during continued treatment, a return to normal limits was usually observed.
@@ -78,7 +78,7 @@ Antara therapy should be discontinued if gallstones are found.
 
 ## 5.6 Coumarin Anticoagulants
 
-Caution should be exercised when anticoagulants are given in conjunction with Antara because of the potentiation of coumarin-type anti-coagulants in prolonging the prothrombin time/International Normalized Ratio (INR/INR).
+Caution should be exercised when anticoagulants are given in conjunction with Antara because of the potentiation of coumarin-type anti-coagulants in prolonging the prothrombin time/International Normalized Ratio (PT/INR).
 To prevent bleeding complications, frequent monitoring of PT/INR and dose adjustment of the anticoagulant are recommended until PT/INR has stabilized [see Drug Interactions (7.1)].
 
 ## 5.7 Pancreatitis
@@ -95,8 +95,17 @@ Periodic monitoring of red and white blood cell counts are recommended during th
 
 ## 5.9 Hypersensitivity Reactions
 
-Acute hypersensitivity reactions such as Stevens-Johnson syndrome and toxic necrolysis requiring patient hospitalization and treatment with steroids have been reported in individuals treated with fenofibrates.
-Urticaria was seen in 1.1 vs. 0%, and rash in 1.4 vs. 0.8% of fenofibrate and placebo patients, respectively, in controlled trials.
+Acute Hypersensitivity
+
+Anaphylaxis and angioedema have been reported postmarketing with fenofibrate.
+In some cases, reactions were life-threatening and required emergency treatment.
+If a patient develops signs or symptoms of an acute hypersensitivity reaction, advise them to seek immediate medical attention and discontinue fenofibrate.
+
+Delayed Hypersensitivity
+
+Severe cutaneous adverse drug reactions (SCAR), including Stevens-Johnson syndrome, Toxic Epidermal Necrolysis, and Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), have been reported postmarketing, occurring days to weeks after initiation of fenofibrate.
+The cases of DRESS were associated with cutaneous reactions (such as rash or exfoliative dermatitis) and a combination of eosinophilia, fever, systemic organ involvement (renal, hepatic, or respiratory).
+Discontinue fenofibrate and treat patients appropriately if SCAR is suspected.
 
 ## 5.10 Venothromboembolic Disease
 

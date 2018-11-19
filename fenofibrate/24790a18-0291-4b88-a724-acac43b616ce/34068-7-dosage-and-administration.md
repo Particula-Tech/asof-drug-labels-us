@@ -1,9 +1,9 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 General Consideration
+## 2.1 General Considerations
 
 Patients should be placed on an appropriate lipid-lowering diet before receiving Antara, and should continue this diet during treatment with Antara.
-Antara tablets can be given without regard to meals.
+Antara capsules can be given without regard to meals.
 
 Patients should be advised to swallow Antara capsules whole.
 Do not open, crush, dissolve or chew capsules.

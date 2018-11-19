@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Antara (fenofibrate) Capsules, is a lipid regulating agent available as capsules for oral administration.
+Antara (fenofibrate) capsules, is a lipid regulating agent available as capsules for oral administration.
 Each capsule contains 43 mg or 130 mg of micronized fenofibrate.
 The chemical name for fenofibrate is 2-[4-(4-chlorobenzoyl) phenoxy]-2-methyl-propanoic acid, l-methylethyl ester with the following structural formula:
 

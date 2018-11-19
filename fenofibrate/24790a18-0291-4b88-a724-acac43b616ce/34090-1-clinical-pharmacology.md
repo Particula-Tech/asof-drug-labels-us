@@ -33,7 +33,7 @@ Fenofibrate is converted by ester hydrolysis in the body to fenofibric acid whic
 However, fenofibrate is well absorbed from the gastrointestinal tract.
 Following oral administration in healthy volunteers, approximately 60% of a single dose of radio-labeled fenofibrate appeared in urine, primarily as fenofibric acid and its glucuronate conjugate, and 25% was excreted in the feces.
 Peak plasma levels of fenofibric acid from Antara occur within 4 to 8 hours after administration.
-There was less than dose-proportional increase in the systemic exposure of fenofibric acid from 43 mg and 130 mg of Antara under fasting conditions.
+There was less than dose-proportional increase in the systemic exposure of fenofibric acid from 43 mg and 130 mg of fenofibrate under fasting conditions.
 
 Doses of three-capsules of 43 mg Antara given concurrently were dose equivalent to single-capsule doses of 130 mg.
 
@@ -50,7 +50,7 @@ Serum protein binding was approximately 99% in normal and hyperlipidemic subject
 Fenofibric acid is primarily conjugated with glucuronic acid and then excreted in urine.
 A small amount of fenofibric acid is reduced at the carbonyl moiety to a benzhydrol metabolite which is, in turn, conjugated with glucuronic acid and excreted in urine.
 
-In vivo metabolism data indicate that neither fenofibrate nor fenofibric acid undergo oxidative metabolism (eg, cytochrome P450) to a significant extent.
+In vivo metabolism data indicate that neither fenofibrate nor fenofibric acid undergo oxidative metabolism (e.g, cytochrome P450) to a significant extent.
 
 • Elimination: After absorption, fenofibrate is mainly excreted in the urine in the form of metabolites, primarily fenofibric acid and fenofibric acid glucuronide.
 After administration of radiolabeled fenofibrate, approximately 60% of the dose appeared in the urine and 25% was excreted in the feces.
