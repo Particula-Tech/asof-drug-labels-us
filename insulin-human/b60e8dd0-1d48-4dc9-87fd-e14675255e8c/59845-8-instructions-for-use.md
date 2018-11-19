@@ -168,7 +168,7 @@ You can give from 5 to 300 units in a single injection.
 The plunger only moves a little with each injection, and you may not notice that it moves.
 The plunger will only reach the end of the cartridge when you have used all 1500 units in the Pen.
 
-This Pen is not recommended for use by the blind or visually impaired without the help of someone trained to use the Pen.
+People who are blind or have vision problems should not use the Pen without help from a person trained to use the Pen.
 
 How to recognize your HUMULIN R U-500 KwikPen
 
@@ -321,14 +321,14 @@ Marketed by: Lilly USA, LLC
 
 Indianapolis, IN 46285, USA
 
-Copyright © 2015, Eli Lilly and Company.
+Copyright © 2015, 2018 Eli Lilly and Company.
 All rights reserved.
 
 | HUMULIN R U-500 KwikPen meets the current dose accuracy and functional requirements of ISO 11608-1:2014. |
 | --- |
 
-Document revision date: December 29, 2015
+Document revision date: November 2018
 
 Lilly (red script)
 
-LINR500KP-0001-IFU-20151229
+LINR500KP-0002-IFU-20181106

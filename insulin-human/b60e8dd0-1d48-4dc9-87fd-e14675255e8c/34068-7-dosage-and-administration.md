@@ -15,6 +15,7 @@
   Only use HUMULIN R U-500 if the solution appears clear and colorless.
 - Instruct patients to inject HUMULIN R U-500 subcutaneously into the thigh, upper arm, abdomen, or buttocks.
 - Rotate injection sites within the same region from one injection to the next to reduce the risk of lipodystrophy [see Adverse Reactions (6)].
+- Use HUMULIN R U-500 KwikPen with caution in patients with visual impairment that may rely on audible clicks to dial their dose.
 - DO NOT administer HUMULIN R U-500 intravenously or intramuscularly.
 - DO NOT dilute or mix HUMULIN R U-500 with any other insulin products or solutions.
 
@@ -26,6 +27,7 @@
 
 ## 2.3 Delivery of HUMULIN R U-500 using the HUMULIN R U-500 Disposable Prefilled KwikPen Device
 
+- The HUMULIN R U-500 KwikPen dials in 5 unit increments.
 - DO NOT perform dose conversion when using the HUMULIN R U-500 KwikPen.
   The dose window of the HUMULIN R U-500 KwikPen shows the number of units of HUMULIN R U-500 to be injected and NO dose conversion is required.
 - DO NOT transfer HUMULIN R U-500 from the HUMULIN R U-500 KwikPen into any syringe for administration as overdose and severe hypoglycemia can occur [see Warnings and Precautions (5.4)].

@@ -6,8 +6,9 @@ HUMULIN R U-500 (500 units per mL) is available as:
 
 | 2 x 3 mL HUMULIN R U-500 KwikPen (prefilled) | NDC 0002-8824-27 |
 | --- | --- |
-| 5 x 3 mL HUMULIN R U-500 KwikPen (prefilled) | NDC 0002-8824-59 |
 | 20 mL multiple dose vials | NDC 0002-8501-01 |
+
+The HUMULIN R U-500 KwikPen dials in 5 unit increments.
 
 ## 16.2 Storage and Handling
 
