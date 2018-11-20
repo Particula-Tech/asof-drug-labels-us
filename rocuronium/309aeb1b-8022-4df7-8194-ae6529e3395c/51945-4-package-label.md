@@ -3,23 +3,37 @@
 5 mL Multiple dose vial
 
 Rocuronium Bromide Inj.
-
 10 mg/mL
+
+WARNING: Paralyzing Agent
 
 For IV use only Rx only
 
 Peel off & apply to syringe
 
-# PRINCIPAL DISPLAY PANEL - 50 mg/5 mL Vial Box
+NDC 0409-9558-05
+
+WARNING: Paralyzing Agent.
+Causes Respiratory Arrest.
+Facilities must be immediately available for artificial respiration
+
+Hospira
+
+Hospira, Inc. Lake Forest, IL 60045 USA
+
+# PRINCIPAL DISPLAY PANEL - 5 mL Vial Box
 
 10 x 5 mL multiple dose vials NDC 0409-9558-05
 
 Rocuronium Bromide Injection
 
-50 mg/5 mL (10 mg/mL) For IV use only Rx only
+50 mg/5 mL (10 mg/mL) WARNING: Paralyzing Agent Rx only
 
-Warning: Rocuronium Bromide Injection may cause respiratory depression.
-Facilities for artificial respiration must be immediately available.
+For IV use only
+
+WARNING: Paralyzing Agent.
+Causes Respiratory Arrest.
+Facilities must be immediately available for artificial respiration
 
 Dosage: Read enclosed prescribing information.
 
@@ -32,7 +46,7 @@ Use opened vials of Rocuronium Bromide Injection within 30 days.
 
 Sterile, nonpyrogenic.
 Each mL contains: 10 mg rocuronium bromide, 2 mg sodium acetate.
-Adjusted to isotonicity with 3.1 mg/mL NaCl and to a pH of 4 with acetic acid and/or NaOH.
+Adjusted to isotonicity with 3.1 mg/mL NaCI and to a pH of 4 with acetic acid and/or NaOH.
 
 Hospira
 
@@ -41,25 +55,40 @@ Hospira
 10 mL Multiple dose vial
 
 Rocuronium Bromide Inj.
-
 10 mg/mL
+
+WARNING: Paralyzing Agent
 
 For IV use only Rx only
 
 Peel off & apply to syringe
 
-# PRINCIPAL DISPLAY PANEL - 100 mg/10 mL Vial Box
+NDC 0409-9558-10
+
+WARNING: Paralyzing Agent.
+Causes Respiratory Arrest.
+Facilities must be immediately available for artificial respiration
+
+Hospira
+
+Hospira, Inc. Lake Forest, IL 60045 USA
+
+# PRINCIPAL DISPLAY PANEL - 10 mL Vial Box
 
 10 x 10 mL multiple dose vials NDC 0409-9558-10
 
 Rocuronium Bromide Injection
 
-100 mg/10 mL (10 mg/mL)
+100 mg/10 mL (10 mg/mL) Rx only
 
-Rx only
+WARNING: Paralyzing Agent
 
-For IV use only Warning: Rocuronium Bromide Injection may cause respiratory depression.
-Facilities for artificial respiration must be immediately available.
+For IV use only
+
+WARNING: Paralyzing Agent.
+Causes Respiratory Arrest.
+Facilities must be immediately available for artificial respiration
+
 Dosage: Read enclosed prescribing information.
 
 Hospira, Inc., Lake Forest, IL 60045 USA
@@ -71,6 +100,6 @@ Use opened vials of Rocuronium Bromide Injection within 30 days.
 
 Sterile, nonpyrogenic.
 Each mL contains: 10 mg rocuronium bromide, 2 mg sodium acetate.
-Adjusted to isotonicity with 3.1 mg/mL NaCl and to a pH of 4 with acetic acid and/or NaOH.
+Adjusted to isotonicity with 3.1 mg/mL NaCI and to a pH of 4 with acetic acid and/or NaOH.
 
 Hospira
