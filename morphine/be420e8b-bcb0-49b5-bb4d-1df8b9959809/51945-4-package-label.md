@@ -1,20 +1,41 @@
-# PRINCIPAL DISPLAY PANEL - 2 mg/mL Syringe Label - RL-5018
+# PRINCIPAL DISPLAY PANEL - 2 mg/mL Cartridge Label
 
-1 mL Single-use Prefilled Syringe with Luer Lock
+1 mL Single-use Carpuject™ Sterile Cartridge Unit with Luer Lock
 
-CII
+NDC 0409-1890-03 Rx only
 
-Rx only NDC 0409-1890-10
-
-RL - 5018
-
-Morphine Sulfate Injection, USP
+Morphine Sulfate Injection, USP CII
 
 2 mg/mL
 
+INTRAVENOUS USE ONLY Protect from light and freezing.
+Hospira, Inc., Lake Forest, IL 60045 USA
+
 Hospira
 
-INTRAVENOUS USE ONLY Protect from light and freezing.
+RL-5549
+
+# PRINCIPAL DISPLAY PANEL - 2 mg/mL Cartridge Carton
+
+1 mL Single-use NDC 0409-1890-01 Rx only
+
+10 Carpuject™ Sterile Cartridge Units with Luer Lock
+
+Needle not included
+
+SLIM-PAK™
+
+Tamper Detection Package
+
+Morphine Sulfate Injection, USP CII
+
+2 mg/mL
+
+INTRAVENOUS USE ONLY
+
+Carpuject Cartridges are to be used ONLY with Carpuject Holders.
+
+Hospira
 
 # PRINCIPAL DISPLAY PANEL - 2 mg/mL Syringe Label - RL-5017
 
@@ -55,23 +76,40 @@ Retain in carton until time of use.
 
 Hospira
 
-# PRINCIPAL DISPLAY PANEL - 4 mg/mL Syringe Label - RL-5020
+# PRINCIPAL DISPLAY PANEL - 4 mg/mL Cartridge Label
 
-1 mL Single-use Prefilled Syringe with Luer Lock
+1 mL Single-use Carpuject™ Sterile Cartridge Unit with Luer Lock
 
-CII
+NDC 0409-1891-03 Rx only
 
-Rx only NDC 0409-1891-10
+Morphine Sulfate Injection, USP 4 mg/mL CII
 
-RL - 5020
-
-Morphine Sulfate Injection, USP
-
-4 mg/mL
+INTRAVENOUS USE ONLY Protect from light and freezing.
+Hospira, Inc., Lake Forest, IL 60045 USA
 
 Hospira
 
-INTRAVENOUS USE ONLY Protect from light and freezing.
+RL-5550
+
+# PRINCIPAL DISPLAY PANEL - 4 mg/mL Cartridge Carton
+
+1 mL Single-use NDC 0409-1891-01 Rx only
+
+10 Carpuject™ Sterile Cartridge Units with Luer Lock Needle not included
+
+SLIM-PAK™
+
+Tamper Detection Package
+
+Morphine Sulfate Injection, USP CII
+
+4 mg/mL
+
+INTRAVENOUS USE ONLY
+
+Carpuject Cartridges are to be used ONLY with Carpuject Holders.
+
+Hospira
 
 # PRINCIPAL DISPLAY PANEL - 4 mg/mL Syringe Label - RL-5021
 
@@ -112,23 +150,40 @@ Retain in carton until time of use.
 
 Hospira
 
-# PRINCIPAL DISPLAY PANEL - 8 mg/mL Syringe Label - RL-5027
+# PRINCIPAL DISPLAY PANEL - 8 mg/mL Cartridge Label
 
-1 mL Single-use Prefilled Syringe with Luer Lock NDC 0409-1892-10
+1 mL Single-use Carpuject™ Sterile Cartridge Unit with Luer Lock
 
-Morphine Sulfate Injection, USP
+NDC 0409-1892-03 Rx only
 
-CII
+Morphine Sulfate Injection, USP 8 mg/mL CII
 
-Rx only
-
-RL - 5027
-
-8 mg/mL
+INTRAVENOUS USE ONLY Protect from light and freezing.
+Hospira, Inc., Lake Forest, IL 60045 USA
 
 Hospira
 
-INTRAVENOUS USE ONLY Protect from light and freezing.
+RL-5552
+
+# PRINCIPAL DISPLAY PANEL - 8 mg/mL Cartridge Carton
+
+1 mL Single-use NDC 0409-1892-01 Rx only
+
+10 Carpuject™ Sterile Cartridge Units with Luer Lock Needle not included
+
+SLIM-PAK™
+
+Tamper Detection Package
+
+Morphine Sulfate Injection, USP CII
+
+8 mg/mL
+
+INTRAVENOUS USE ONLY
+
+Carpuject Cartridges are to be used ONLY with Carpuject Holders.
+
+Hospira
 
 # PRINCIPAL DISPLAY PANEL - 8 mg/mL Syringe Label - RL-5028
 
@@ -169,23 +224,42 @@ Retain in carton until time of use.
 
 Hospira
 
-# PRINCIPAL DISPLAY PANEL - 10 mg/mL Syringe Label - RL-5059
+# PRINCIPAL DISPLAY PANEL - 10 mg/mL Cartridge Label
 
-1 mL Single-use Prefilled Syringe with Luer Lock NDC 0409-1893-10
+1 mL Single-use Carpuject™ Sterile Cartridge Unit with Luer Lock
 
-Morphine Sulfate Injection, USP
+NDC 0409-1893-03 Rx only
 
-CII
+Morphine Sulfate Injection, USP 10 mg/mL CII
 
-Rx only
-
-RL - 5059
-
-10 mg/mL
+INTRAVENOUS USE ONLY Protect from light and freezing.
+Hospira, Inc., Lake Forest, IL 60045 USA
 
 Hospira
 
-INTRAVENOUS USE ONLY Protect from light and freezing.
+RL-5553
+
+# PRINCIPAL DISPLAY PANEL - 10 mg/mL Cartridge Carton
+
+1 mL Single-use NDC 0409-1893-01 Rx only
+
+10 Carpuject™ Sterile Cartridge Units with Luer Lock
+
+Needle not included
+
+SLIM-PAK™
+
+Tamper Detection Package
+
+Morphine Sulfate Injection, USP CII
+
+10 mg/mL
+
+INTRAVENOUS USE ONLY
+
+Carpuject Cartridges are to be used ONLY with Carpuject Holders.
+
+Hospira
 
 # PRINCIPAL DISPLAY PANEL - 10 mg/mL Syringe Label - RL-5060
 
@@ -215,7 +289,7 @@ iSecure™ SYRINGE
 
 10 x 1 mL Single-use Prefilled Syringe with Luer Lock (needle not included)
 
-NDC 0409-1891-11 Rx only
+NDC 0409-1893-11 Rx only
 
 Morphine Sulfate Injection, USP 10 mg/mL
 
