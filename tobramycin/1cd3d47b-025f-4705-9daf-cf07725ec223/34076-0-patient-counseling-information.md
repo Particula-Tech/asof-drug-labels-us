@@ -66,4 +66,4 @@ Manufactured for Chiesi USA, Inc. by Catalent Pharma Solutions, LLC Woodstock, I
 
 © Chiesi USA, Inc. 2018 Printed in USA
 
-CTB-004-0416-04B-SPL-1
+CTB-004-0416-04B-SPL-2
