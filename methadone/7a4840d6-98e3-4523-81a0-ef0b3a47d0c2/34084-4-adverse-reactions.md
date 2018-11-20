@@ -6,7 +6,7 @@ The following serious adverse reactions are described, or described in greater d
 - •Life Threatening Respiratory Depression [see Warnings and Precautions (5.3)]
 - •QT Prolongation [see Warnings and Precautions (5.4)]
 - •Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.5)]
-- •Interactions with Benzodiazepines and other CNS Depressants[see Warnings and Precautions (5.7)]
+- •Interactions with Benzodiazepines and other CNS Depressants [see Warnings and Precautions (5.7)]
 - •Serotonin Syndrome [see Warnings and Precautions (5.9)]
 - •Adrenal Insufficiency [see Warnings and Precautions (5.10)]
 - •Severe Hypotension [see Warnings and Precautions (5.11)]

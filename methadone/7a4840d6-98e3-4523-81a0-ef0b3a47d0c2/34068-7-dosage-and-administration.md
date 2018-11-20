@@ -41,13 +41,9 @@ Initiate the dosing regimen for each patient individually, taking into account t
 
 Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy and following dosage increases with DOLOPHINE Tablets and adjust the dosage accordingly [see Warnings and Precautions (5.3)].
 
-Use of DOLOPHINE Tablets as the First Opioid Analgesic
+Use of DOLOPHINE Tablets as the First Opioid Analgesic: Initiate treatment with DOLOPHINE Tablets with 2.5 mg orally every 8 to 12 hours.
 
-Initiate treatment with DOLOPHINE Tablets with 2.5 mg orally every 8 to 12 hours.
-
-Conversion from Other Oral Opioids to DOLOPHINE Tablets
-
-Discontinue all other around-the-clock opioid drugs when DOLOPHINE Tablets therapy is initiated.
+Conversion from Other Oral Opioids to DOLOPHINE Tablets: Discontinue all other around-the-clock opioid drugs when DOLOPHINE Tablets therapy is initiated.
 Deaths have occurred in opioid-tolerant patients during conversion to methadone.
 
 The potency of methadone relative to other opioid analgesics is nonlinear and increases with increasing dose.
@@ -107,9 +103,7 @@ Round down, if necessary, to the appropriate DOLOPHINE Tablets strengths availab
 Close observation and frequent titration are warranted until pain management is stable on the new opioid.
 Monitor patients for signs and symptoms of opioid withdrawal or for signs of over-sedation/toxicity after converting patients to DOLOPHINE Tablets.
 
-Conversion from Parenteral Methadone to DOLOPHINE Tablets
-
-Use a conversion ratio of 1:2 mg for parenteral to oral methadone (e.g., 5 mg parenteral methadone to 10 mg oral methadone).
+Conversion from Parenteral Methadone to DOLOPHINE Tablets: Use a conversion ratio of 1:2 mg for parenteral to oral methadone (e.g., 5 mg parenteral methadone to 10 mg oral methadone).
 
 ## 2.4 Titration and Maintenance of Therapy for Pain
 
