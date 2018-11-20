@@ -66,6 +66,6 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 Manufactured by: NORVIR Oral Powder is manufactured for: AbbVie Inc., North Chicago, IL 60064 USA.
 
-Issued: June 2017
+Issued: September 2017
 
 430135

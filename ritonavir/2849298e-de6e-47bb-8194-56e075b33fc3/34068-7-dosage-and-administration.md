@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 General Dosing and Administration Recommendations
+## 2.1 General Administration Recommendations
 
 - NORVIR must be used in combination with other antiretroviral agents.
 - NORVIR is administered orally.
@@ -21,7 +21,7 @@ Because NORVIR oral solution contains ethanol and propylene glycol, it is not re
 Feeding tubes that are compatible with ethanol and propylene glycol, such as silicone and polyvinyl chloride (PVC) feeding tubes, can be used for administration of NORVIR oral solution.
 Follow instructions for use of the feeding tube to administer the medicine.
 
-## 2.3 Recommended Adult Dosage
+## 2.3 Dosage Recommendations in Adults
 
 Recommended Dosage for Treatment of HIV-1:
 
@@ -37,7 +37,7 @@ NORVIR oral solution contains the excipients ethanol (approx.
 43% v/v) and propylene glycol (approx.
 27% w/v) [see Use in Specific Populations (8.1)].
 
-## 2.4 Recommended Pediatric Dosage
+## 2.4 Dosage Recommendations in Pediatric Patients
 
 NORVIR must be used in combination with other antiretroviral agents [see Dosage and Administration (2)].
 The recommended dosage of NORVIR in pediatric patients older than 1 month is 350 to 400 mg per m2 twice daily by mouth to be taken with meals and should not exceed 600 mg twice daily.
