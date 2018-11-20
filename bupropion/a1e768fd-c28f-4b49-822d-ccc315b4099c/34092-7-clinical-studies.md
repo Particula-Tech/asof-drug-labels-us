@@ -29,9 +29,9 @@ Patients were randomized to treatment with bupropion hydrochloride extended-rele
 The initial bupropion dose was 150 mg once daily for 1 week, followed by up-titration to 300 mg once daily.
 Patients who were deemed by the investigator to be unlikely or unable to tolerate 300 mg once daily were allowed to remain on, or had their dose reduced to, 150 mg once daily.
 The mean bupropion doses in the 3 trials ranged from 257 mg to 280 mg per day.
-Approximately 59% of patients continued in the study for 3 to 6 months; 26% continued for <3 months, 15% continued for greater than 6 months.
+Approximately 59% of patients continued in the study for 3 to 6 months; 26% continued for ˂3 months, 15% continued for greater than 6 months.
 
-To enter the trials, patients must have had a low level of depressive symptoms, as demonstrated by a score of <7 on the Hamilton Depression Rating Scale-17 (HAMD17) and a HAMD24 score of <14.
+To enter the trials, patients must have had a low level of depressive symptoms, as demonstrated by a score of ˂7 on the Hamilton Depression Rating Scale-17 (HAMD17) and a HAMD24 score of ˂14.
 The primary efficacy measure was the Structured Interview Guide for the Hamilton Depression Rating Scale, Seasonal Affective Disorders (SIGH-SAD), which is identical to the HAMD24.
 The SIGH-SAD consists of the HAMD17 plus 7 items specifically assessing core symptoms of seasonal affective disorder: social withdrawal, weight gain, increased appetite, increased eating, carbohydrate craving, hypersomnia, and fatigability.
 The primary efficacy endpoint was the onset of a seasonal major depressive episode.

@@ -26,7 +26,7 @@ For the prevention of seasonal MDD episodes associated with SAD, initiate buprop
 Continue treatment through the winter season.
 Taper and discontinue bupropion hydrochloride extended-release tablets (XL) in early spring.
 For patients treated with 300 mg per day, decrease the dose to 150 mg once daily before discontinuing bupropion hydrochloride extended-release tablets (XL).
-Individualize the timing of initiation, and duration of treatment should be individualized, based on the patient’s historical pattern of seasonal MDD episodes.
+Individualize the timing of initiation and duration of treatment should be individualized, based on the patient’s historical pattern of seasonal MDD episodes.
 
 ## 2.4 Switching Patients from Bupropion Hydrochloride Tablets or from Bupropion Hydrochloride Extended-release Tablets (SR)
 
@@ -43,14 +43,14 @@ In patients with mild hepatic impairment (Child-Pugh score: 5 to 6), consider re
 
 ## 2.7 Dose Adjustment in Patients with Renal Impairment
 
-Consider reducing the dose and/or frequency of bupropion in patients with renal impairment (glomerular filtration rate less than 90 mL/min) [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+Consider reducing the dose and/or frequency of bupropion in patients with renal impairment (Glomerular Filtration Rate less than 90 mL/min) [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
-## 2.8 Switching a Patient to or from a Monoamine Oxidase Inhibitor (MAOI) Antidepressant
+## 2.8 Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Antidepressant
 
 At least 14 days should elapse between discontinuation of an MAOI intended to treat depression and initiation of therapy with bupropion hydrochloride extended-release tablets (XL).
 Conversely, at least 14 days should be allowed after stopping bupropion hydrochloride extended-release tablets (XL) before starting an MAOI antidepressant [see Contraindications (4) and Drug Interactions (7.6)].
 
-## 2.9 Use of Bupropion Hydrochloride Extended-Release Tablets (XL) with Reversible MAOIs such as Linezolid or Methylene Blue
+## 2.9 Use of Bupropion Hydrochloride Extended-Release Tablets (XL) with Reversible MAOIs Such as Linezolid or Methylene Blue
 
 Do not start bupropion hydrochloride extended-release tablets (XL) in a patient who is being treated with a reversible MAOI such as linezolid or intravenous methylene blue.
 Drug interactions can increase risk of hypertensive reactions.

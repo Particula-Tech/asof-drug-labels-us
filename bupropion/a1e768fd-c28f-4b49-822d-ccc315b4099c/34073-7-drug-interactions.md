@@ -22,15 +22,15 @@ If bupropion is used concomitantly with a CYP inducer, it may be necessary to in
 
 Drugs Metabolized by CYP2D6
 
-Bupropion and its metabolites (erythrohydrobupropion, threohydrobupropion, hydroxybupropion) are CYP2D6 inhibitors.
+Bupropion and its metabolites (erythohydrobupropion, threohydrobupropion, hydroxybupropion) are CYP2D6 inhibitors.
 Therefore, coadministration of bupropion hydrochloride extended-release tablets (XL) with drugs that are metabolized by CYP2D6 can increase the exposures of drugs that are substrates of CYP2D6.
-Such drugs include certain antidepressants (e.g., venlafaxine, nortriptyline, imipramine, desipramine, paroxetine, fluoxetine, and sertraline), antipsychotics (e.g., haloperidol, risperidone, and thioridazine), beta-blockers (e.g., metoprolol), and Type 1C antiarrhythmics (e.g., propafenone, and flecainide).
+Such drugs include certain antidepressants (e.g., venlafaxine, nortriptyline, imipramine, desipramine, paroxetine, fluoxetine, and sertraline), antipsychotics (e.g. haloperidol, risperidone, and thioridazine), beta-blockers (e.g., metoprolol), and Type 1C antiarrhythmics (e.g. propafenone, and flecainide).
 When used concomitantly with bupropion hydrochloride extended-release tablets (XL), it may be necessary to decrease the dose of these CYP2D6 substrates, particularly for drugs with a narrow therapeutic index.
 
 Drugs that require metabolic activation by CYP2D6 to be effective (e.g., tamoxifen), theoretically could have reduced efficacy when administered concomitantly with inhibitors of CYP2D6 such as bupropion.
 Patients treated concomitantly with bupropion hydrochloride extended-release tablets (XL) and such drugs may require increased doses of the drug [see Clinical Pharmacology (12.3)].
 
-## 7.3 Drugs That Lower Seizure Threshold
+## 7.3 Drugs that Lower Seizure Threshold
 
 Use extreme caution when coadministering bupropion hydrochloride extended-release tablets (XL) with other drugs that lower the seizure threshold (e.g., other bupropion products, antipsychotics, antidepressants, theophylline, or systemic corticosteroids).
 Use low initial doses of bupropion hydrochloride extended-release tablets (XL) and increase the dose gradually [see Warnings and Precautions (5.3)].
