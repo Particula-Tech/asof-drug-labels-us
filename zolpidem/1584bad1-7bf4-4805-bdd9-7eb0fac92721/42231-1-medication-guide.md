@@ -34,14 +34,14 @@ Call your healthcare provider right away if you find out that you have done any 
 Do not take zolpidem tartrate tablets if you:
 
 - drank alcohol that evening or before bed
-- took another medicine to help you sleep.
+- took another medicine to help you sleep
 
 What are zolpidem tartrate tablets?
 
 Zolpidem tartrate tablets are sedative-hypnotic (sleep) medicine.
 Zolpidem tartrate tablets are used in adults for the short-term treatment of a sleep problem called insomnia (trouble falling asleep).
 
-It is not known if zolpidem tartrate tablets are safe and effective in children under the age of 18 years.
+Zolpidem tartrate tablets are not recommended for use in children under the age of 18 years.
 
 | Zolpidem tartrate is a federally controlled substance (C-IV) because it can be abused or lead to dependence. Keep zolpidem tartrate tablets in a safe place to prevent misuse and abuse. Selling or giving away zolpidem tartrate tablets may harm others, and is against the law. Tell your healthcare provider if you have ever abused or have been dependent on alcohol, prescription medicines or street drugs. |
 | --- |
@@ -66,8 +66,12 @@ Before starting zolpidem tartrate tablets, tell your healthcare provider about a
 - have kidney or liver disease
 - have a lung disease or breathing problems
 - are pregnant, planning to become pregnant.
-  It is not known if zolpidem tartrate tablets will harm your unborn baby.
+  Talk to your healthcare provider about the risk to your unborn baby if you take zolpidem tartrate tablets.
+- Using zolpidem tartrate tablets in the last trimester of pregnancy may cause breathing difficulties or excess sleepiness in your newborn.
+  Monitor for signs of sleepiness (more than usual), troublebreathing, or limpness in the newborn if zolpidem tartrate tablets is taken late in pregnancy.
 - are breastfeeding or plan to breastfeed.
+- Zolpidem tartrate tablets passes into your breast milk.
+  Talk to your healthcare provider about the best way to feed your baby while you take zolpidem tartrate tablets.
 
 Zolpidem tartrate tablets can pass into your breast milk.
 It is not known if zolpidem tartrate tablets will harm your baby.
@@ -104,11 +108,9 @@ Zolpidem tartrate tablets may cause serious side effects, including:
   Symptoms include more outgoing or aggressive behavior than normal, confusion, agitation, hallucinations, worsening of depression, and suicidal thoughts or actions.
 - memory loss
 - anxiety
-
-severe allergic reactions.
-Symptoms include swelling of the tongue or throat, and trouble breathing.
-Get emergency medical help if you get these symptoms after taking zolpidem tartrate tablets.
-
+- severe allergic reactions.
+  Symptoms include swelling of the tongue or throat, and trouble breathing.
+  Get emergency medical help if you get these symptoms after taking zolpidem tartrate tablets.
 - falls, which may lead to severe injuries
 
 Call your healthcare provider right away if you have any of the above side effects or any other side effects that worry you while using zolpidem tartrate tablets.
@@ -145,7 +147,7 @@ After you stop taking a sleep medicine, you may have symptoms for 1 to 2 days su
 These are not all the side effects of zolpidem tartrate tablets.
 Ask your healthcare provider or pharmacist for more information.
 
-Call your healthcare provider for medical advice about side effects.
+Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1–800–FDA–1088.
 
 How should I store zolpidem tartrate tablets?
@@ -165,7 +167,7 @@ This Medication Guide summarizes the most important information about zolpidem t
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about zolpidem tartrate tablets that are written for healthcare professionals.
 
-For more information, call 1-269-544-2299.
+For more information, call 1-800-912-9561.
 
 What are the ingredients in zolpidem tartrate tablets?
 
@@ -182,15 +184,7 @@ Manufactured by:
 TORRENT PHARMACEUTICALS LTD., Indrad-382 721, Dist.
 Mehsana, INDIA.
 
-For:
-
-TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
-
-8063101 Revised February 2017
-
-OR
-
-Manufactured by:
+Or
 
 TORRENT PHARMACEUTICALS LTD., Bharuch-392130, INDIA.
 
@@ -198,4 +192,4 @@ For:
 
 TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
 
-8063498 Revised April 2017
+8071031 Revised November 2018

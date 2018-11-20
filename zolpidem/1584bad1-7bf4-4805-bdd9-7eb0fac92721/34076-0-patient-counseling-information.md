@@ -1,13 +1,13 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide).
+Advise the patients to read the FDA-approved patient labeling (Medication Guide).
 
 Inform patients and their families about the benefits and risks of treatment with zolpidem.
 Inform patients of the availability of a Medication Guide and instruct them to read the Medication Guide prior to initiating treatment with zolpidem and with each prescription refill.
 Review the zolpidem tartrate tablets Medication Guide with every patient prior to initiation of treatment.
 Instruct patients or caregivers that zolpidem tartrate tablets should be taken only as prescribed.
 
-CNS Depressant Effects and Next-Day Impairment
+CNS-Depressant Effects and Next-Day Impairment
 
 Tell patients that zolpidem has the potential to cause next-day impairment, and that this risk is increased if dosing instructions are not carefully followed.
 Tell patients to wait for at least 8 hours after dosing before driving or engaging in other activities requiring full mental alertness.
@@ -42,20 +42,24 @@ Patients should be counseled to take zolpidem right before they get into bed and
 Zolpidem tartrate tablets should not be taken with or immediately after a meal.
 Advise patients NOT to take zolpidem if they drank alcohol that evening.
 
+Pregnancy
+
+Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with zolpidem tartrate tablets.
+Advise patients that use of zolpidem tartrate tablets late in the third trimester may cause respiratory depression and sedation in neonates.
+Advise mothers who used zolpidem tartrate tablets during the late third trimester of pregnancy to monitor neonates for signs of sleepiness (more than usual), breathing difficulties, or limpness [see Use in Specific Populations (8.1)].
+
+Lactation
+
+Advise breastfeeding mothers using zolpidem tartrate tablets to monitor infants for increased sleepiness, breathing difficulties, or limpness.
+Instruct breastfeeding mothers to seek immediate medical care if they notice these signs.
+A lactating woman may consider pumping and discarding breastmilk during treatment and for 23 hours after zolpidem tartrate tablets administration to minimize drug exposure to a breastfed infant [see Use in Specific Populations (8.2)].
+
 Manufactured by:
 
 TORRENT PHARMACEUTICALS LTD., Indrad-382 721, Dist.
 Mehsana, INDIA.
 
-For:
-
-TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
-
-8063748 Revised April 2017
-
-OR
-
-Manufactured by:
+Or
 
 TORRENT PHARMACEUTICALS LTD., Bharuch-392130, INDIA.
 
@@ -63,4 +67,4 @@ For:
 
 TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
 
-8063497 Revised April 2017
+8071030 Revised November 2018
