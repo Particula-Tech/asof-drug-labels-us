@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 General Dosing and Administration Recommendations
+## 2.1 General Administration Recommendations
 
 - NORVIR must be used in combination with other antiretroviral agents.
 - NORVIR is administered orally in combination with other antiretroviral agents.
@@ -10,7 +10,7 @@ General Dosing Guidelines
 
 Patients should be aware that frequently observed adverse events, such as mild to moderate gastrointestinal disturbances and paraesthesias, may diminish as therapy is continued.
 
-## 2.2 Recommended Adult Dosage
+## 2.2 Dosage Recommendations in Adults
 
 Recommended Dosage for treatment of HIV-1
 
@@ -19,7 +19,7 @@ Use of a dose titration schedule may help to reduce treatment-emergent adverse e
 NORVIR should be started at no less than 300 mg twice daily and increased at 2 to 3 day intervals by 100 mg twice daily.
 The maximum dose of 600 mg twice daily should not be exceeded upon completion of the titration.
 
-## 2.3 Recommended Pediatric Dosage
+## 2.3 Dosage Recommendations in Pediatric Patients
 
 NORVIR must be used in combination with other antiretroviral agents [see Dosage and Administration (2)].
 The recommended dosage of NORVIR in pediatric patients older than 1 month is 350 to 400 mg per m2 twice daily by mouth and should not exceed 600 mg twice daily.

@@ -2,10 +2,10 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient information).
 
-General Information
+General Administration Information [see Dosage and Administration (2)]:
 
 - Advise patients and caregivers to pay special attention to accurate administration of their dose to minimize the risk of accidental overdose or underdose of NORVIR.
-- Advise caregivers to inform their healthcare provider if their children’s weight changes in order to make sure that the child’s NORVIR dose is adjusted as needed.
+- Advise caregivers to inform their healthcare provider if their child’s weight changes in order to make sure that the child’s NORVIR dose is adjusted as needed.
 - Advise patients to take NORVIR with meals.
 - For adult patients taking NORVIR capsules, the maximum dose of 600 mg twice daily by mouth with meals should not be exceeded.
 - Advise patients to remain under the care of a physician while using NORVIR and to take NORVIR and other concomitant antiretroviral therapy every day as prescribed.
@@ -75,4 +75,4 @@ NORVIR 100 mg soft gelatin capsules are manufactured for:
 
 AbbVie Inc. North Chicago, IL 60064 USA
 
-©2017 AbbVie Inc. All rights reserved.
+©2018 AbbVie Inc. All rights reserved.

@@ -4,6 +4,17 @@
 
 Ritonavir is an antiretroviral drug [see Microbiology (12.4)].
 
+## 12.2 Pharmacodynamics
+
+Cardiac Electrophysiology
+
+QTcF interval was evaluated in a randomized, placebo and active (moxifloxacin 400 mg once-daily) controlled crossover study in 45 healthy adults, with 10 measurements over 12 hours on Day 3.
+The maximum mean (95% upper confidence bound) time-matched difference in QTcF from placebo after baseline correction was 5.5 (7.6) milliseconds (msec) for 400 mg twice-daily ritonavir.
+Ritonavir 400 mg twice daily resulted in Day 3 ritonavir exposure that was approximately 1.5 fold higher than observed with ritonavir 600 mg twice-daily dose at steady state.
+
+PR interval prolongation was also noted in subjects receiving ritonavir in the same study on Day 3.
+The maximum mean (95% confidence interval) difference from placebo in the PR interval after baseline correction was 22 (25) msec for 400 mg twice-daily ritonavir [see Warnings and Precautions (5.5)].
+
 ## 12.3 Pharmacokinetics
 
 The pharmacokinetics of ritonavir have been studied in healthy volunteers and HIV-1 infected patients (CD4 greater than or equal to 50 cells per µL).
@@ -42,15 +53,6 @@ Upon multiple dosing, ritonavir accumulation is less than predicted from a singl
 | RBC/Plasma Ratio |  | 0.14 |
 | Percent Bound* |  | 98 to 99% |
 | † SS = steady state; patients taking ritonavir 600 mg q12h. ‡ Single ritonavir 600 mg dose. * Primarily bound to human serum albumin and alpha-1 acid glycoprotein over the ritonavir concentration range of 0.01 to 30 µg/mL. |  |  |
-
-Cardiac Electrophysiology
-
-QTcF interval was evaluated in a randomized, placebo and active (moxifloxacin 400 mg once-daily) controlled crossover study in 45 healthy adults, with 10 measurements over 12 hours on Day 3.
-The maximum mean (95% upper confidence bound) time-matched difference in QTcF from placebo after baseline correction was 5.5 (7.6) milliseconds (msec) for 400 mg twice-daily ritonavir.
-Ritonavir 400 mg twice daily resulted in Day 3 ritonavir exposure that was approximately 1.5 fold higher than observed with ritonavir 600 mg twice-daily dose at steady state.
-
-PR interval prolongation was also noted in subjects receiving ritonavir in the same study on Day 3.
-The maximum mean (95% confidence interval) difference from placebo in the PR interval after baseline correction was 22 (25) msec for 400 mg twice-daily ritonavir [see Warnings and Precautions (5.5)].
 
 Special Populations
 
@@ -107,6 +109,7 @@ For information about clinical recommendations see Table 4 in Drug Interactions 
 | Rifampin | 600 or 300 daily, 10 d | 500 q12h, 20 d | 7, 9* | ↓ 35% (7, 55%) | ↓ 25% (-5, 46%) | ↓ 49% (-14, 91%) |
 | Voriconazole | 400 q12h, 1 d; then 200 q12h, 8 d | 400 q12h, 9 d |  | ↔ | ↔ | ND |
 | Zidovudine | 200 q8h, 4 d | 300 q6h, 4 d | 10 | ↔ | ↔ | ↔ |
+| ND=not determined |  |  |  |  |  |  |
 
 | Table 7. Drug Interactions - Pharmacokinetic Parameters for Co-administered Drug in the Presence of NORVIR |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -118,12 +121,12 @@ For information about clinical recommendations see Table 4 in Drug Interactions 
 | Didanosine | 200 q12h, 4 d | 600 q12h, 4 d | 12 | ↓ 13% (0, 23%) | ↓ 16% (5, 26%) | ↔ |
 | Ethinyl estradiol | 50 µg single dose | 500 q12h, 16 d | 23 | ↓ 40% (31, 49%) | ↓ 32% (24, 39%) | ND |
 | Fluticasone propionate aqueous nasal spray | 200 mcg qd, 7 d | 100 mg q12h, 7 d | 18 | ↑ approximately 350-fold5 | ↑ approximately 25-fold5 |  |
-| Indinavir1 Day 14 Day 15 | 400 q12h, 15 d | 400 q12h, 15 d | 10 | ↑ 6% (-14, 29%) ↓ 7% (-22, 28%) | ↓ 51% (40, 61%) ↓ 62% (52, 70%) | ↑ 4-fold (2.8, 6.8X) ↑ 4-fold (2.5, 6.5X) |
+| Indinavir1 Day 14 Day 15 | 400 q12h, 15 d | 400 q12h, 15 d | 10 | ↑ 6% (-14, 29%) ↓ 7% (-22, 28%) | ↓ 51% (40, 61%) ↓ 62% (52, 70%) | ↑ 4-fold (2.8, 6.8X) ↑ 4-fold (2.5,6.5X) |
 | Ketoconazole | 200 daily, 7 d | 500 q12h, 10 d | 12 | ↑ 3.4-fold (2.8, 4.3X) | ↑ 55% (40, 72%) | ND |
 | Meperidine Normeperidine metabolite | 50 oral single dose | 500 q12h, 10 d | 8 6 | ↓ 62% (59, 65%) ↑ 47% (-24, 345%) | ↓ 59% (42, 72%) ↑ 87% (42, 147%) | ND ND |
 | Methadone2 | 5, single dose | 500 q12h, 15 d | 11 | ↓ 36% (16, 52%) | ↓ 38% (28, 46%) | ND |
 | Raltegravir | 400, single dose | 100 q12h, 16 d | 10 | ↓ 16% (-30, 1%) | ↓ 24% (-45, 4%) | ↓ 1% (-30, 40%) |
-| Rivaroxaban | 10, single dose (days 0 and 7) | 600 q12h (days 2 to 7) | 12 | ↑ 150% (130- 170%)7 | ↑ 60% (40- 70%)7 | ND |
+| Rivaroxaban | 10, single dose (days 0 and 7) | 600 q12h (days 2 to 7) | 12 | ↑ 150% (130-170%)7 | ↑ 60% (40-70%)7 | ND |
 | Rifabutin 25-O-desacetyl rifabutin metabolite | 150 daily, 16 d | 500 q12h, 10 d | 5, 11* | ↑ 4-fold (2.8, 6.1X) ↑ 38-fold (28, 56X) | ↑ 2.5-fold (1.9, 3.4X) ↑ 16-fold (13, 20X) | ↑ 6-fold (3.5, 18.3X) ↑ 181-fold (ND) |
 | Sildenafil | 100, single dose | 500 twice daily, 8 d | 28 | ↑ 11-fold | ↑ 4-fold | ND |
 | Simeprevir | 200 mg qd, 7 d | 100 mg bid, 15 d | 12 | ↑ 618% (463%-815%)8 | ↑370% (284%-476%)8 | ↑1335% (929%-1901%)8 |
@@ -137,7 +140,7 @@ For information about clinical recommendations see Table 4 in Drug Interactions 
 |  | 400 q12h, 1 d; then 200 q12h, 8 d | 100 q12h, 9 d |  | ↓ 39% | ↓ 24% |  |
 | Warfarin S-Warfarin R-Warfarin | 5, single dose | 400 q12h, 12d | 12 | ↑ 9% (-17, 44%)4 ↓ 33% (-38, -27%)4 | ↓ 9% (-16, -2%)4 ↔ | ND ND |
 | Zidovudine | 200 q8h, 4 d | 300 q6h, 4 d | 9 | ↓ 25% (15, 34%) | ↓ 27% (4, 45%) | ND |
-| 1 Ritonavir and indinavir were co-administered for 15 days; Day 14 doses were administered after a 15%-fat breakfast (757 Kcal) and 9%-fat evening snack (236 Kcal), and Day 15 doses were administered after a 15%-fat breakfast (757 Kcal) and 32%-fat dinner (815 Kcal). Indinavir Cmin was also increased 4-fold. Effects were assessed relative to an indinavir 800 mg q8h regimen under fasting conditions. 2 Effects were assessed on a dose-normalized comparison to a methadone 20 mg single dose. 3 Sulfamethoxazole and trimethoprim taken as single combination tablet. 4 90% CI presented for R- and S-warfarin AUC and Cmax ratios. 5 This significant increase in plasma fluticasone propionate exposure resulted in a significant decrease (86%) in plasma cortisol AUC. 6 For the reference arm: N=14 for Cmax and AUC(0-inf), and for the test arm: N=13 for Cmax and N=4 for AUC(0-inf). 7 90% CI presented for rivaroxaban 8 90% CI presented for simeprevir (change in exposure presented as percentage increase) ↑ Indicates increase. ↓ Indicates decrease. ↔ Indicates no change. * Parallel group design; entries are subjects receiving combination and control regimens, respectively. |  |  |  |  |  |  |
+| ND=not determined 1 Ritonavir and indinavir were co-administered for 15 days; Day 14 doses were administered after a 15%-fat breakfast (757 Kcal) and 9%-fat evening snack (236 Kcal), and Day 15 doses were administered after a 15%-fat breakfast (757 Kcal) and 32%-fat dinner (815 Kcal). Indinavir Cmin was also increased 4-fold. Effects were assessed relative to an indinavir 800 mg q8h regimen under fasting conditions. 2 Effects were assessed on a dose-normalized comparison to a methadone 20 mg single dose. 3 Sulfamethoxazole and trimethoprim taken as single combination tablet. 4 90% CI presented for R- and S-warfarin AUC and Cmax ratios. 5 This significant increase in plasma fluticasone propionate exposure resulted in a significant decrease (86%) in plasma cortisol AUC. 6 For the reference arm: N=14 for Cmax and AUC(0-inf), and for the test arm: N=13 for Cmax and N=4 for AUC(0-inf). 7 90% CI presented for rivaroxaban 8 90% CI presented for simeprevir (change in exposure presented as percentage increase) ↑ Indicates increase, ↓ indicates decrease, ↔ indicates no change. * Parallel group design; entries are subjects receiving combination and control regimens, respectively. |  |  |  |  |  |  |
 
 ## 12.4 Microbiology
 
