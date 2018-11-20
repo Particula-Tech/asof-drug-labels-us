@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "NDA022523"
+  ],
+  "inn": "pancrelipase",
+  "labeler": "VIVUS, Inc.",
+  "package_ndcs": [
+    "62541-401-10",
+    "62541-402-10",
+    "62541-403-10",
+    "62541-404-10",
+    "62541-405-10"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE",
+      "generic": "pancrelipase lipase, pancrelipase amylase, and pancrelipase protease",
+      "name": "PANCREAZE"
+    }
+  ],
+  "setid": "e8f5d2fe-728d-42af-99a6-83dddc6539c5",
+  "source": "dailymed"
+}
