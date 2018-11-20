@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020126"
+  ],
+  "inn": "doxepin",
+  "labeler": "Mylan Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0378-8123-30",
+    "0378-8123-45"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "doxepin hydrochloride",
+      "name": "Zonalon"
+    }
+  ],
+  "setid": "5f302247-525e-4acc-852b-00eb1d79af4b",
+  "source": "dailymed"
+}
