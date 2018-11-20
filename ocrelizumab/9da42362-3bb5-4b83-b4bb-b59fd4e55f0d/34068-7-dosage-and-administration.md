@@ -10,7 +10,7 @@ For patients who are negative for surface antigen [HBsAg] and positive for HB co
 
 Vaccinations
 
-Because vaccination with live-attenuated or live vaccines is not recommended during treatment and after discontinuation until B-cell repletion, administer all necessary immunizations according to immunization guidelines at least 6 weeks prior to initiation of OCREVUS [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.2)].
+Because vaccination with live-attenuated or live vaccines is not recommended during treatment and after discontinuation until B-cell repletion, administer all immunizations according to immunization guidelines at least 4 weeks prior to initiation of OCREVUS for live or live-attenuated vaccines and, whenever possible, at least 2 weeks prior to initiation of OCREVUS for non-live vaccines [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.2)].
 
 ## 2.2 Preparation Before Every Infusion
 

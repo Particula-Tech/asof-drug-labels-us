@@ -21,7 +21,7 @@ Advise patients that OCREVUS may cause reactivation of hepatitis B infection and
 
 Vaccination
 
-Advise patients to complete any required vaccinations at least 6 weeks prior to initiation of OCREVUS.
+Advise patients to complete any required live or live-attenuated vaccinations at least 4 weeks and, whenever possible, non-live vaccinations at least 2 weeks prior to initiation of OCREVUS.
 Administration of live-attenuated or live vaccines is not recommended during OCREVUS treatment and until B-cell recovery [see Warnings and Precautions (5.2)].
 
 Malignancies

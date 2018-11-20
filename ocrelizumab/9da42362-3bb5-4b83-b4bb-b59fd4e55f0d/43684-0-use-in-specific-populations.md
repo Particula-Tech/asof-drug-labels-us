@@ -4,10 +4,12 @@
 
 Risk Summary
 
-There are no adequate data on the developmental risk associated with use of OCREVUS in pregnant women.
-There are no data on B-cell levels in human neonates following maternal exposure to OCREVUS.
-However, transient peripheral B-cell depletion and lymphocytopenia have been reported in infants born to mothers exposed to other anti-CD20 antibodies during pregnancy.
 OCREVUS is a humanized monoclonal antibody of an immunoglobulin G1 subtype and immunoglobulins are known to cross the placental barrier.
+There are no adequate data on the developmental risk associated with use of OCREVUS in pregnant women.
+However, transient peripheral B-cell depletion and lymphocytopenia have been reported in infants born to mothers exposed to other anti-CD20 antibodies during pregnancy.
+B-cell levels in infants following maternal exposure to OCREVUS have not been studied in clinical trials.
+The potential duration of B-cell depletion in such infants, and the impact of B-cell depletion on vaccine safety and effectiveness, is unknown [see Warnings and Precautions (5.2)].
+
 Following administration of ocrelizumab to pregnant monkeys at doses similar to or greater than those used clinically, increased perinatal mortality, depletion of B-cell populations, renal, bone marrow, and testicular toxicity were observed in the offspring in the absence of maternal toxicity [see Data].
 
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.

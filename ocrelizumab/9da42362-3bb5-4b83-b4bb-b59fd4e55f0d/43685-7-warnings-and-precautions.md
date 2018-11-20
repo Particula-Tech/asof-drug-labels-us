@@ -65,11 +65,18 @@ OCREVUS has not been studied in combination with other MS therapies.
 
 Vaccinations
 
-Administer all immunizations according to immunization guidelines at least 6 weeks prior to initiation of OCREVUS.
+Administer all immunizations according to immunization guidelines at least 4 weeks prior to initiation of OCREVUS for live or live-attenuated vaccines and, whenever possible, at least 2 weeks prior to initiation of OCREVUS for non-live vaccines.
+
+OCREVUS may interfere with the effectiveness of non-live vaccines [see Drug Interactions (7.2)].
 
 The safety of immunization with live or live-attenuated vaccines following OCREVUS therapy has not been studied, and vaccination with live-attenuated or live vaccines is not recommended during treatment and until B-cell repletion [see Clinical Pharmacology (12.2)].
 
-No data are available on the effects of live or non-live vaccination in patients receiving OCREVUS.
+Vaccination of Infants Born to Mothers Treated with OCREVUS During Pregnancy
+
+In infants of mothers exposed to OCREVUS during pregnancy, do not administer live or live-attenuated vaccines before confirming the recovery of B-cell counts as measured by CD19+ B-cells.
+Depletion of B-cells in these infants may increase the risks from live or live-attenuated vaccines.
+
+You may administer non-live vaccines, as indicated, prior to recovery from B-cell depletion, but should consider assessing vaccine immune responses, including consultation with a qualified specialist, to assess whether a protective immune response was mounted [see Use in Specific Populations (8.1)].
 
 ## 5.3 Malignancies
 
