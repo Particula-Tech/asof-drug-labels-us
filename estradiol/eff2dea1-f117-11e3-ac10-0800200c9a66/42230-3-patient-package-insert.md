@@ -230,13 +230,12 @@ Apply ELESTRIN.
 
 Figure 1
 
-1. To apply the dose, hold the pump with the tip facing the application area of the arm.
-   For each pump depression needed, press the pump firmly and fully with a continuous motion without hesitation.
-2. 
-3. Figure 2
-4. Gently spread the gel using only 2 fingers.
-   Spread and gently rub in the gel over the entire area of your upper arm and shoulder area, as illustrated.
-5. 
+- To apply the dose, hold the pump with the tip facing the application area of the arm.
+  For each pump depression needed, press the pump firmly and fully with a continuous motion without hesitation.
+
+- Figure 2
+- Gently spread the gel using only 2 fingers.
+  Spread and gently rub in the gel over the entire area of your upper arm and shoulder area, as illustrated.
 
 5.
 Wash your hands with soap and water.
