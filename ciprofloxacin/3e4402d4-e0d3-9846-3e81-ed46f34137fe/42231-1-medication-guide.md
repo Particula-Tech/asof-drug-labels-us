@@ -1,6 +1,6 @@
 # Medication Guide
 
-Ciprofloxacin (sipʺ roe flox' a sin) Tablets, USP for oral use
+Ciprofloxacin (sipʺ roe flox' a sin)Tablets for oral use
 
 Read this Medication Guide before you start taking ciprofloxacin tablets and each time you get a refill.
 There may be new information.
@@ -50,15 +50,15 @@ Tell your healthcare provider if you have a history of seizures before you start
 CNS side effects may happen as soon as after taking the first dose of ciprofloxacin tablets.
 Stop taking ciprofloxacin tablets immediately and talk to your healthcare provider right away if you get any of these side effects, or other changes in mood or behavior:
 
-| ○ seizures | ○ trouble sleeping |
+| seizures | trouble sleeping |
 | --- | --- |
-| ○ hear voices, see things, or sense things | ○ nightmares |
-| that are not there (hallucinations) | ○ feel lightheaded or dizzy |
-| ○ feel restless | ○ feel more suspicious (paranoia) |
-| ○ tremors | ○ suicidal thoughts or acts |
-| ○ feel anxious or nervous | ○ headaches that will not go away, with or |
-| ○ confusion | without blurred vision |
-| ○ depression |  |
+| hear voices, see things, or sense things | nightmares |
+| that are not there (hallucinations) | feel lightheaded or dizzy |
+| feel restless | feel more suspicious (paranoia) |
+| tremors | suicidal thoughts or acts |
+| feel anxious or nervous | headaches that will not go away, with or |
+| confusion | without blurred vision |
+| depression |  |
 
 4.
 Worsening of myasthenia gravis (a problem that causes muscle weakness).
@@ -180,7 +180,7 @@ What are the possible side effects of ciprofloxacin tablets?
 
 Ciprofloxacin tablets may cause serious side effects, including:
 
-- See, “What is the most important information I should know about ciprofloxacin tablets?”
+- See “What is the most important information I should know about ciprofloxacin tablets?”
 - Serious allergic reactions.
   Serious allergic reactions, including death, can happen in people taking fluoroquinolones, including ciprofloxacin tablets, even after only 1 dose.
   Stop taking ciprofloxacin tablets and get emergency medical help right away if you get any of the following symptoms of a severe allergic reaction: ○ hives ○ trouble breathing or swallowing ○ swelling of the lips, tongue, face ○ throat tightness, hoarseness ○ rapid heartbeat ○ faint ○ skin rash
@@ -214,6 +214,13 @@ These can be signs of a serious reaction to ciprofloxacin tablets (a liver probl
 - Sensitivity to sunlight (photosensitivity).
   See “What should I avoid while taking ciprofloxacin tablets?”
 
+Changes in blood sugar
+
+- People who take ciprofloxacin tablets and other fluoroquinolone medicines with oral anti-diabetes medicines or with insulin can get low blood sugar (hypoglycemia) and high blood sugar (hyperglycemia).
+  Follow your healthcare provider's instructions for how often to check your blood sugar.
+  If you have diabetes and you get low blood sugar while taking ciprofloxacin, stop taking ciprofloxacin and call your healthcare provider right away.
+  Your antibiotic medicine may need to be changed.
+
 The most common side effects of ciprofloxacin tablets include:
 
 - nausea
@@ -232,7 +239,7 @@ You may report side effects to FDA at 1­800-FDA-1088.
 
 How should I store ciprofloxacin tablets?
 
-- Store at room temperature between 20° to 25°C (68° to 77°F).
+- Store at room temperature between 68° to 77°F (20° to 25°C).
 
 Keep ciprofloxacin tablets and all medicines out of the reach of children.
 
@@ -262,4 +269,5 @@ Manufactured by: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
 
 Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised: November 2017
+Rev.
+A 11/2018
