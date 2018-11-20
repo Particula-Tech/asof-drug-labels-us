@@ -10,7 +10,7 @@ The results were equivocal in an in vitro gene mutation assay using Chinese hams
 
 No impairment of fertility or reproductive performance was seen in rats administered up to 18 mg/kg/day (6 times the MRHD on a mg/m2 basis) orally from 14 days prior to mating through gestation and lactation in females, or for 60 days prior to mating in males.
 
-## 13.2 Animal Toxicology and /or Pharmacology
+## 13.2Animal Toxicology and /or Pharmacology
 
 Memantine induced neuronal lesions (vacuolation and necrosis) in the multipolar and pyramidal cells in cortical layers III and IV of the posterior cingulate and retrosplenial neocortices in rats, similar to those which are known to occur in rodents administered other NMDA receptor antagonists.
 Lesions were seen after a single dose of memantine.

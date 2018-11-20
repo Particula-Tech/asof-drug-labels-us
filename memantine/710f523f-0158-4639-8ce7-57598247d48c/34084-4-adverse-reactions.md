@@ -1,8 +1,8 @@
-# 6 ADVERSE REACTIONS
+# 6ADVERSE REACTIONS
 
-## 6.1 Clinical Trials Experience
+## 6.1Clinical Trials Experience
 
-NAMENDA XR was evaluated in a double-blind placebo-controlled trial in which a total of 676 patients with moderate to severe dementia of the Alzheimer's type (341 patients on NAMENDA XR 28 mg/day and 335 patients on placebo) were treated for up to 24 weeks.
+NAMENDA XR was evaluated in a double-blind placebo-controlled trial in which a total of 676 patients with moderate to severe dementia of the Alzheimer’s type (341 patients on NAMENDA XR 28 mg/day and 335 patients on placebo) were treated for up to 24 weeks.
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -51,7 +51,7 @@ Seizure
 Memantine has not been systematically evaluated in patients with a seizure disorder.
 In clinical trials of memantine, seizures occurred in 0.3% of patients treated with memantine and 0.6% of patients treated with placebo.
 
-## 6.2 Postmarketing Experience
+## 6.2Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of memantine.
 

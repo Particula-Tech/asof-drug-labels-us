@@ -1,22 +1,22 @@
-# 14 CLINICAL STUDIES
+# 14CLINICAL STUDIES
 
-The effectiveness of NAMENDA XR as a treatment for patients with moderate to severe Alzheimer's disease was based on the results of a double-blind, placebo-controlled trial.
+The effectiveness of NAMENDA XR as a treatment for patients with moderate to severe Alzheimer’s disease was based on the results of a double-blind, placebo-controlled trial.
 
 24-week Study of NAMENDA XR Capsules
 
-This was a randomized double-blind clinical investigation in outpatients with moderate to severe Alzheimer's disease (diagnosed by DSM-IV criteria and NINCDS-ADRDA criteria for AD with a Mini Mental State Examination (MMSE) score ≥ 3 and ≤ 14 at Screening and Baseline) receiving acetylcholinesterase inhibitor (AChEI) therapy at a stable dose for 3 months prior to screening.
+This was a randomized double-blind clinical investigation in outpatients with moderate to severe Alzheimer’s disease (diagnosed by DSM-IV criteria and NINCDS-ADRDA criteria for AD with a Mini Mental State Examination (MMSE) score ≥ 3 and ≤ 14 at Screening and Baseline) receiving acetylcholinesterase inhibitor (AChEI) therapy at a stable dose for 3 months prior to screening.
 The mean age of patients participating in this trial was 76.5 years with a range of 49-97 years.
 Approximately 72% of patients were female and 94% were Caucasian.
 
 Study Outcome Measures
 
-The effectiveness of NAMENDA XR was evaluated in this study using the co-primary efficacy parameters of Severe Impairment Battery (SIB) and the Clinician's Interview-Based Impression of Change (CIBIC-Plus).
+The effectiveness of NAMENDA XR was evaluated in this study using the co-primary efficacy parameters of Severe Impairment Battery (SIB) and the Clinician’s Interview-Based Impression of Change (CIBIC-Plus).
 
 The ability of NAMENDA XR to improve cognitive performance was assessed with the Severe Impairment Battery (SIB), a multi-item instrument that has been validated for the evaluation of cognitive function in patients with moderate to severe dementia.
 The SIB examines selected aspects of cognitive performance, including elements of attention, orientation, language, memory, visuospatial ability, construction, praxis, and social interaction.
 The SIB scoring range is from 0 to 100, with lower scores indicating greater cognitive impairment.
 
-The ability of NAMENDA XR to produce an overall clinical effect was assessed using a Clinician's Interview Based Impression of Change that required the use of caregiver information, the CIBIC-Plus.
+The ability of NAMENDA XR to produce an overall clinical effect was assessed using a Clinician’s Interview Based Impression of Change that required the use of caregiver information, the CIBIC-Plus.
 The CIBIC-Plus is not a single instrument and is not a standardized instrument like the ADCS-ADL or SIB.
 Clinical trials for investigational drugs have used a variety of CIBIC formats, each different in terms of depth and structure.
 As such, results from a CIBIC-Plus reflect clinical experience from the trial or trials in which it was used and cannot be compared directly with the results of CIBIC-Plus evaluations from other clinical trials.

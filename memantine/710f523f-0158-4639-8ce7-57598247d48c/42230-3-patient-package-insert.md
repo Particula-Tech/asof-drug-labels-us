@@ -1,6 +1,8 @@
 Patient Information
 
-NAMENDA XR [Nuh-MEN-dah Eks-Are] (memantine hydrochloride) Extended-Release Capsules
+NAMENDA XR [Nuh-MEN-dah Eks-Are]
+
+(memantine hydrochloride) Extended-Release Capsules
 
 Read this Patient Information that comes with NAMENDA XR before you start taking it and each time you get a refill.
 There may be new information.
@@ -8,7 +10,7 @@ This information does not take the place of talking to your doctor about your me
 
 What is NAMENDA XR?
 
-NAMENDA XR is a prescription medicine used for the treatment of moderate to severe dementia in people with Alzheimer's disease.
+NAMENDA XR is a prescription medicine used for the treatment of moderate to severe dementia in people with Alzheimer’s disease.
 NAMENDA XR belongs to a class of medicines called NMDA (N-methyl-D-aspartate) inhibitors.
 
 It is not known if NAMENDA XR is safe and effective in children.
@@ -55,9 +57,7 @@ How should I take NAMENDA XR?
 - NAMENDA XR may be taken with food or without food.
 - NAMENDA XR capsules may be opened and sprinkled on applesauce before swallowing, but the contents of the entire capsule should be taken and the dose should not be divided.
   Except when opened and sprinkled on applesauce, NAMENDA XR capsules must be swallowed whole and never crushed, divided or chewed.
-
-Do not use any capsules of NAMENDA XR that are damaged or show signs of tampering.
-
+- Do not use any capsules of NAMENDA XR that are damaged or show signs of tampering.
 - If you are currently taking another formulation of memantine, talk to your healthcare professional about how to switch to NAMENDA XR.
 - If you forget to take one dose of NAMENDA XR, do not double up on the next dose.
   You should take only the next dose as scheduled.
@@ -70,8 +70,8 @@ NAMENDA XR may cause side effects, including:
 
 The most common side effects of NAMENDA XR include:
 
-- headache
-- diarrhea
+- Headache
+- Diarrhea
 - dizziness
 
 These are not all the possible side effects of NAMENDA XR.
@@ -107,9 +107,15 @@ For more information about NAMENDA XR, go to www.namendaxr.com, or call Allergan
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Distributed by: Allergan USA, Inc. Irvine, CA 92612
+Distributed by:
 
-Manufactured by: Forest Laboratories Ireland Ltd
+Allergan USA, Inc.
+
+Irvine, CA 92612
+
+Manufactured by:
+
+Forest Laboratories Ireland Ltd
 
 Licensed from Merz Pharmaceuticals GmbH
 

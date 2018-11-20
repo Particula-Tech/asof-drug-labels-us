@@ -1,4 +1,4 @@
-# 7 DRUG INTERACTIONS
+# 7DRUG INTERACTIONS
 
 ## 7.1 Drugs That Make the Urine Alkaline
 
@@ -7,6 +7,6 @@ Therefore, alterations of urine pH towards the alkaline condition may lead to an
 Urine pH is altered by diet, drugs (e.g. carbonic anhydrase inhibitors, sodium bicarbonate) and clinical state of the patient (e.g. renal tubular acidosis or severe infections of the urinary tract).
 Hence, memantine should be used with caution under these conditions.
 
-## 7.2 Use with other N-methyl-D-aspartate (NMDA) Antagonists
+## 7.2Use with other N-methyl-D-aspartate (NMDA) Antagonists
 
 The combined use of NAMENDA XR with other NMDA antagonists (amantadine, ketamine, and dextromethorphan) has not been systematically evaluated and such use should be approached with caution.

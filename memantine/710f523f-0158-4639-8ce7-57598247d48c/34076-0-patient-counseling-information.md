@@ -10,7 +10,7 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 - Warn patients not to use any capsules of NAMENDA XR that are damaged or show signs of tampering.
 - If a patient misses a single dose of NAMENDA XR, that patient should not double up on the next dose.
   The next dose should be taken as scheduled.
-  If a patient fails to take NAMENDA XR for several days, dosing should not be resumed without consulting that patient's healthcare professional.
+  If a patient fails to take NAMENDA XR for several days, dosing should not be resumed without consulting that patient’s healthcare professional.
 - Advise patients and caregivers that NAMENDA XR may cause headache, diarrhea, and dizziness.
 
 Distributed by: Allergan USA, Inc. Irvine, CA 92612

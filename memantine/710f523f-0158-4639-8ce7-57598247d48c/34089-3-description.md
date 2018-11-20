@@ -1,4 +1,4 @@
-# 11 DESCRIPTION
+# 11DESCRIPTION
 
 NAMENDA XR is an orally active NMDA receptor antagonist.
 The chemical name for memantine hydrochloride is 1-amino-3,5-dimethyladamantane hydrochloride with the following structural formula:

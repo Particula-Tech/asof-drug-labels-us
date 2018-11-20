@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommended Dosing
+## 2.1Recommended Dosing
 
 The dosage of NAMENDA XR shown to be effective in a controlled clinical trial is 28 mg once daily.
 

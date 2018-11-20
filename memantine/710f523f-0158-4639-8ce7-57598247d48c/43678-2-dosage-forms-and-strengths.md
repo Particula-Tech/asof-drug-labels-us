@@ -1,4 +1,4 @@
-# 3 DOSAGE FORMS AND STRENGTHS
+# 3DOSAGE FORMS AND STRENGTHS
 
 Each capsule contains 7 mg, 14 mg, 21 mg, or 28 mg of memantine HCl.
 

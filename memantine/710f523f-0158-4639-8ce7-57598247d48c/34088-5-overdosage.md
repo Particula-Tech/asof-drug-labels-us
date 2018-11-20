@@ -1,4 +1,4 @@
-# 10 OVERDOSAGE
+# 10OVERDOSAGE
 
 Signs and symptoms most often accompanying overdosage with other formulations of memantine in clinical trials and from worldwide marketing experience, alone or in combination with other drugs and/or alcohol, include agitation, asthenia, bradycardia, confusion, coma, dizziness, ECG changes, increased blood pressure, lethargy, loss of consciousness, psychosis, restlessness, slowed movement, somnolence, stupor, unsteady gait, visual hallucinations, vertigo, vomiting, and weakness.
 The largest known ingestion of memantine worldwide was 2 grams in an individual who took memantine in conjunction with unspecified antidiabetic medications.

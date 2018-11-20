@@ -1,19 +1,19 @@
-# 12 CLINICAL PHARMACOLOGY
+# 12CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism of Action
+## 12.1Mechanism of Action
 
-Persistent activation of central nervous system N-methyl-D-aspartate (NMDA) receptors by the excitatory amino acid glutamate has been hypothesized to contribute to the symptomatology of Alzheimer's disease.
+Persistent activation of central nervous system N-methyl-D-aspartate (NMDA) receptors by the excitatory amino acid glutamate has been hypothesized to contribute to the symptomatology of Alzheimer’s disease.
 Memantine is postulated to exert its therapeutic effect through its action as a low to moderate affinity uncompetitive (open-channel) NMDA receptor antagonist which binds preferentially to the NMDA receptor-operated cation channels.
-There is no evidence that memantine prevents or slows neurodegeneration in patients with Alzheimer's disease.
+There is no evidence that memantine prevents or slows neurodegeneration in patients with Alzheimer’s disease.
 
-## 12.2 Pharmacodynamics
+## 12.2Pharmacodynamics
 
 Memantine showed low to negligible affinity for GABA, benzodiazepine, dopamine, adrenergic, histamine and glycine receptors and for voltage-dependent Ca2+, Na+, or K+ channels.
 Memantine also showed antagonistic effects at the 5HT3 receptor with a potency similar to that for the NMDA receptor and blocked nicotinic acetylcholine receptors with one-sixth to one-tenth the potency.
 
 In vitro studies have shown that memantine does not affect the reversible inhibition of acetylcholinesterase by donepezil, galantamine, or tacrine.
 
-## 12.3 Pharmacokinetics
+## 12.3Pharmacokinetics
 
 Memantine is well absorbed after oral administration and has linear pharmacokinetics over the therapeutic dose range.
 It is excreted predominantly unchanged in urine and has a terminal elimination half-life of about 60-80 hours.
@@ -71,7 +71,7 @@ Use with Cholinesterase Inhibitors
 
 Coadministration of memantine with the AChE inhibitor donepezil HCl did not affect the pharmacokinetics of either compound.
 Furthermore, memantine did not affect AChE inhibition by donepezil.
-In a 24-week controlled clinical study in patients with moderate to severe Alzheimer's disease, the adverse reaction profile observed with a combination of memantine immediate-release and donepezil was similar to that of donepezil alone.
+In a 24-week controlled clinical study in patients with moderate to severe Alzheimer’s disease, the adverse reaction profile observed with a combination of memantine immediate-release and donepezil was similar to that of donepezil alone.
 
 Effect of Memantine on the Metabolism of Other Drugs
 

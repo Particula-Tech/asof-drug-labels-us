@@ -1,6 +1,6 @@
-# 8. USE IN SPECIFIC POPULATIONS
+# 8.USE IN SPECIFIC POPULATIONS
 
-## 8.1 Pregnancy
+## 8.1Pregnancy
 
 Pregnancy Category B
 
@@ -13,16 +13,16 @@ Slight maternal toxicity, decreased pup weights and an increased incidence of no
 Slight maternal toxicity and decreased pup weights were also seen at this dose in a study in which rats were treated from day 15 of gestation through the post-partum period.
 The no-effect dose for these effects was 6 mg/kg, which is 2 times the MRHD on a mg/m2 basis.
 
-## 8.3 Nursing Mothers
+## 8.3Nursing Mothers
 
 It is not known whether memantine is excreted in human milk.
 Because many drugs are excreted in human milk, caution should be exercised when Namenda XR is administered to a nursing mother.
 
-## 8.4 Pediatric Use
+## 8.4Pediatric Use
 
 Safety and effectiveness in pediatric patients have not been established.
 
-Memantine failed to demonstrate efficacy in two 12-week controlled clinical studies of 578 pediatric patients aged 6-12 years with autism spectrum disorders (ASD), including autism Asperger's disorder and Pervasive Development Disorder - Not Otherwise Specified (PDD-NOS).
+Memantine failed to demonstrate efficacy in two 12-week controlled clinical studies of 578 pediatric patients aged 6-12 years with autism spectrum disorders (ASD), including autism Asperger’s disorder and Pervasive Development Disorder - Not Otherwise Specified (PDD-NOS).
 Memantine has not been studied in pediatric patients under 6 years of age or over 12 years of age.
 Memantine treatment was initiated at 3 mg/day and the dose was escalated to the target dose (weight-based) by week 6.
 Oral doses of memantine 3, 6, 9, or 15 mg extended-release capsules were administered once daily to patients with weights < 20 kg, 20-39 kg, 40-59 kg and ≥ 60 kg, respectively.
@@ -80,7 +80,7 @@ Therefore, the 1 mg/kg/day dose was considered the NOAEL for the neurobehavioral
 
 ## 8.5 Geriatric Use
 
-The majority of people with Alzheimer's disease are 65 years and older.
+The majority of people with Alzheimer’s disease are 65 years and older.
 In the clinical study of memantine HCl extended-release, the mean age of patients was approximately 77; over 91% of patients were 65 years and older, 67% were 75 years and older, and 14% were at or above 85 years of age.
 The efficacy and safety data presented in the clinical trials section were obtained from these patients.
 There were no clinically meaningful differences in most adverse reactions reported by patient groups ≥ 65 years old and < 65 year old.
