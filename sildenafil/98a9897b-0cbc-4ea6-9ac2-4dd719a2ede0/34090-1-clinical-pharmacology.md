@@ -59,14 +59,14 @@ The mean profiles of the change from baseline in standing systolic blood pressur
 
 Blood pressure was measured immediately pre-dose and at 15, 30, 45 minutes, and 1, 1.5, 2, 2.5, 3, 4, 6 and 8 hours after sildenafil citrate or matching placebo.
 Outliers were defined as subjects with a standing systolic blood pressure of <85 mmHg or a decrease from baseline in standing systolic blood pressure of >30 mmHg at one or more timepoints.
-There were no subjects treated with sildenafil citrate 25 mg who had a standing SBP < 85mmHg.
-There were three subjects with a decrease from baseline in standing systolic BP >30mmHg following sildenafil citrate 25 mg, one subject with a decrease from baseline in standing systolic BP > 30 mmHg following placebo and two subjects with a decrease from baseline in standing systolic BP > 30 mmHg following both sildenafil citrate and placebo.
+There were no subjects treated with sildenafil citrate 25 mg who had a standing SBP <85 mmHg.
+There were three subjects with a decrease from baseline in standing systolic BP >30 mmHg following sildenafil citrate 25 mg, one subject with a decrease from baseline in standing systolic BP >30 mmHg following placebo and two subjects with a decrease from baseline in standing systolic BP >30 mmHg following both sildenafil citrate and placebo.
 No severe adverse events potentially related to blood pressure effects were reported in this group.
 
 Of the four subjects who received sildenafil citrate 100 mg in the first part of this study, a severe adverse event related to blood pressure effect was reported in one patient (postural hypotension that began 35 minutes after dosing with sildenafil citrate with symptoms lasting for 8 hours), and mild adverse events potentially related to blood pressure effects were reported in two others (dizziness, headache and fatigue at 1 hour after dosing; and dizziness, lightheadedness and nausea at 4 hours after dosing).
 There were no reports of syncope among these patients.
 For these four subjects, the placebo-subtracted mean maximum decreases from baseline in supine and standing systolic blood pressures were 14.8 mmHg and 21.5 mmHg, respectively.
-Two of these subjects had a standing SBP < 85mmHg.
+Two of these subjects had a standing SBP < 85 mmHg.
 Both of these subjects were protocol violators, one due to a low baseline standing SBP, and the other due to baseline orthostatic hypotension.
 
 Study 2: Sildenafil Citrate with Doxazosin
@@ -91,7 +91,7 @@ The mean profiles of the change from baseline in standing systolic blood pressur
 Blood pressure was measured after administration of sildenafil citrate at the same times as those specified for the first doxazosin study.
 There were two subjects who had a standing SBP of < 85 mmHg.
 In these two subjects, hypotension was reported as a moderately severe adverse event, beginning at approximately 1 hour after administration of sildenafil citrate 50 mg and resolving after approximately 7.5 hours.
-There was one subject with a decrease from baseline in standing systolic BP >30mmHg following sildenafil citrate 50 mg and one subject with a decrease from baseline in standing systolic BP > 30 mmHg following both sildenafil citrate 50 mg and placebo.
+There was one subject with a decrease from baseline in standing systolic BP >30 mmHg following sildenafil citrate 50 mg and one subject with a decrease from baseline in standing systolic BP > 30 mmHg following both sildenafil citrate 50 mg and placebo.
 There were no severe adverse events potentially related to blood pressure and no episodes of syncope reported in this study.
 
 Study 3: Sildenafil Citrate with Doxazosin
@@ -197,15 +197,15 @@ Similar values for pharmacokinetic parameters were seen in normal volunteers and
 Pharmacokinetics in Special Populations
 
 Geriatrics: Healthy elderly volunteers (65 years or over) had a reduced clearance of sildenafil, resulting in approximately 84% and 107% higher plasma AUC values of sildenafil and its active N-desmethyl metabolite, respectively, compared to those seen in healthy younger volunteers (18–45 years).
-Due to age-differences in plasma protein binding, the corresponding increase in the AUC of free (unbound) sildenafil and its active N-desmethyl metabolite were 45% and 57%, respectively [see Dosage and Administration (2.5), and Use in Specific Populations (8.5)]
+Due to age-differences in plasma protein binding, the corresponding increase in the AUC of free (unbound) sildenafil and its active N-desmethyl metabolite were 45% and 57%, respectively [see Dosage and Administration (2.5) and Use in Specific Populations (8.5)]
 
 Renal Impairment: In volunteers with mild (CLcr=50–80 mL/min) and moderate (CLcr=30–49 mL/min) renal impairment, the pharmacokinetics of a single oral dose of sildenafil citrate (50 mg) were not altered.
-In volunteers with severe (CLcr <30 mL/min) renal impairment, sildenafil clearance was reduced, resulting in approximately doubling of AUC and Cmax compared to age-matched volunteers with no renal impairment [see Dosage and Administration (2.5), and Use in Specific Populations (8.6)].
+In volunteers with severe (CLcr <30 mL/min) renal impairment, sildenafil clearance was reduced, resulting in approximately doubling of AUC and Cmax compared to age-matched volunteers with no renal impairment [see Dosage and Administration (2.5) and Use in Specific Populations (8.6)].
 
 In addition, N-desmethyl metabolite AUC and Cmax values significantly increased by 200% and 79%, respectively in subjects with severe renal impairment compared to subjects with normal renal function.
 
 Hepatic Impairment: In volunteers with hepatic impairment (Child-Pugh Class A and B), sildenafil clearance was reduced, resulting in increases in AUC (85%) and Cmax (47%) compared to age-matched volunteers with no hepatic impairment.
-The pharmacokinetics of sildenafil in patients with severely impaired hepatic function (Child-Pugh Class C) has not been studied [see Dosage and Administration (2.5), and Use in Specific Populations (8.7)].
+The pharmacokinetics of sildenafil in patients with severely impaired hepatic function (Child-Pugh Class C) has not been studied [see Dosage and Administration (2.5) and Use in Specific Populations (8.7)].
 
 Therefore, age >65, hepatic impairment and severe renal impairment are associated with increased plasma levels of sildenafil.
 A starting oral dose of 25 mg should be considered in those patients [see Dosage and Administration (2.5)].
