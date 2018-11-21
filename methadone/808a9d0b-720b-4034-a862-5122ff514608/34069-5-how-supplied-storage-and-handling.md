@@ -19,6 +19,6 @@ SpecGx LLC Webster Groves, MO 63119 USA
 
 Made in USA
 
-Rev 02/2018
+Rev 05/2018
 
 Mallinckrodt™ Pharmaceuticals

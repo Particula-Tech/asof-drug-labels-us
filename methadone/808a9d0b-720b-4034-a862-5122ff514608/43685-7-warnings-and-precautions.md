@@ -257,8 +257,6 @@ Advise patients of the potential for severe constipation, including management i
 
 Drug Interactions
 
-Drug Interactions
-
 | Benzodiazepines and Other Central Nervous System (CNS) Depressants |  |
 | --- | --- |
 | Clinical Impact: | Due to additive pharmacologic effect, the concomitant use of benzodiazepines or other CNS depressants, including alcohol, increases the risk of respiratory depression, profound sedation, coma, and death. |

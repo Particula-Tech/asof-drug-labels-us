@@ -28,7 +28,7 @@ Mallinckrodt™
 
 GTIN: 00304060527102
 
-L00M07 Rev 07/2017
+L00M07 Rev 10/2018
 
 SpecGx LLC, Webster Groves, MO 63119 USA
 
@@ -64,7 +64,7 @@ Mallinckrodt™
 
 GTIN: 00304068725104
 
-L00M22 Rev 07/2017
+L00M22 Rev 10/2018
 
 SpecGx LLC, Webster Groves, MO 63119 USA
 
