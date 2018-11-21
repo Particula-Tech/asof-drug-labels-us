@@ -1,10 +1,10 @@
 # INDICATIONS AND USAGE
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of tetracycline hydrochloride capsules USP and other antibacterial drugs, tetracycline hydrochloride capsules USP should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of tetracycline hydrochloride capsules and other antibacterial drugs, tetracycline hydrochloride capsules should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
 
-Tetracycline hydrochloride, USP is indicated in the treatment of infections caused by susceptible strains of the designated organisms in the conditions listed below:
+Tetracycline is indicated in the treatment of infections caused by susceptible strains of the designated organisms in the conditions listed below:
 
 - Upper respiratory tract infections caused by Streptococcus pyogenes, Streptococcus pneumoniae and Haemophilus influenzae.
   Note: Tetracycline should not be used for streptococcal disease unless the organism has been demonstrated to be susceptible.
@@ -12,11 +12,11 @@ Tetracycline hydrochloride, USP is indicated in the treatment of infections caus
 - Skin and soft tissue infections caused by Streptococcus pyogenes, Staphylococcus aureus.
   (Tetracyclines are not the drugs of choice in the treatment of any type of staphylococcal infections.)
 - Infections caused by rickettsia including Rocky Mountain spotted fever, typhus group infections, Q fever, rickettsialpox.
-- Psittacosis or ornithosis caused by Chlamydia Psittaci.
-- Infections caused by Chlamydia trachomatis such as uncomplicated urethral, endocervical, or rectal infections, inclusion conjunctivitis, trachoma and lymphogranuloma venereum.
-- Granuloma inquinale caused by Calymmatobacterium granulomatis.
+- Psittacosis caused by Chlamydophila psittaci.
+- Infections caused by Chlamydia trachomatis such as uncomplicated urethral, endocervical or rectal infections, inclusion conjunctivitis, trachoma, and lymphogranuloma venereum.
+- Granuloma inquinale caused by Klebsiella granulomatis.
 - Relapsing fever caused by Borrelia sp.
-- Bartonellosis caused by Bartonella bacilli formis.
+- Bartonellosis caused by Bartonella bacill iformis.
 - Chancroid caused by Haemophilus ducreyi.
 - Tularemia caused by Francisella tularensis.
 - Plaque caused by Yersinia pestis.
@@ -31,7 +31,7 @@ Tetracycline hydrochloride, USP is indicated in the treatment of infections caus
 When penicillin is contraindicated, tetracyclines are alternative drugs in the treatment of the following infections:
 
 - Syphilis and yaws caused by Treponema pallidum and pertenue, respectively,
-- Vincent’s infection caused by Fuso bacterium fusiforme,
+- Vincent’s infection caused by Fusobacterium fusiforme,
 - Infections caused by Neisseria gonorrhoeae,
 - Anthrax caused by Bacillus anthracis,
 - Infections due to Listeria monocytogenes,
