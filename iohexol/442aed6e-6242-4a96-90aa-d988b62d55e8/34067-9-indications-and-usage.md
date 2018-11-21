@@ -229,8 +229,9 @@ This usually was mild and lasted a short time after injection.
 The volume required will depend on the size, flow rate, and disease state of the injected vessel and on the size and condition of the patient, as well as the imaging technique used.
 The dosage recommended for use in peripheral angiography is as follows:
 
-| Aortofemoral runoffs: | 20 mL to 70 mL of OMNIPAQUE 350 (350 mg Iodine/mL) 30 mL to 90 mL of OMNIPAQUE 300 (300 mg Iodine/mL) |
+| Aortofemoral runoffs: | 20 mL to 70 mL of OMNIPAQUE 350 (350 mg Iodine/mL) |
 | --- | --- |
+|  | 30 mL to 90 mL of OMNIPAQUE 300 (300 mg Iodine/mL) |
 | Selective arteriograms: (femoral/iliac) | 10 mL to 30 mL of OMNIPAQUE 350 (350 mg Iodine/mL) 10 mL to 60 mL of OMNIPAQUE 300 (300 mg Iodine/mL) |
 | Venography (per leg): | 40 mL to 100 mL of OMNIPAQUE 300 (300 mg Iodine/mL) |
 
@@ -280,7 +281,6 @@ OMNIPAQUE 300 and OMNIPAQUE 350 have osmolalities from approximately 2.4 to 3 ti
 OMNIPAQUE 350 is indicated in adults for arthrography and oral pass-thru examination of the gastrointestinal tract.
 
 OMNIPAQUE 300 is indicated in adults for arthrography and hysterosalpingography.
-
 OMNIPAQUE diluted to concentrations from 6 mg Iodine/mL to 9 mg Iodine/mL administered orally in conjunction with OMNIPAQUE 300 at a concentration of 300 mg Iodine/mL administered intravenously is indicated in adults for contrast enhanced computed tomography of the abdomen.
 
 ## Pediatric Patients
@@ -458,10 +458,10 @@ Lower volumes of contrast medium are usually injected for knee and shoulder arth
 
 The following concentrations and volumes are recommended for normal adult knee, shoulder, and temporomandibular joints but should serve as guidelines since joints may require more or less contrast medium for optimal visualization.
 
-|  | KNEE OMNIPAQUE 300 5 mL to 15 mL OMNIPAQUE 350 5 mL to 10 mL |  | Lower volumes recommended for double-contrast examinations; higher volumes recommended for single-contrast examinations. |
-| --- | --- | --- | --- |
-| SHOULDER OMNIPAQUE 300 10 mL |  |  |  |
-| TEMPOROMANDIBULAR OMNIPAQUE 300 0.5 mL to 1 mL |  |  |  |
+| KNEE OMNIPAQUE 300 5 mL to 15 mL OMNIPAQUE 350 5 mL to 10 mL |  | Lower volumes recommended for double-contrast examinations; higher volumes recommended for single-contrast examinations. |
+| --- | --- | --- |
+| SHOULDER OMNIPAQUE 300 10 mL |  |  |
+| TEMPOROMANDIBULAR OMNIPAQUE 300 0.5 mL to 1 mL |  |  |
 
 Passive or active manipulation is used to disperse the medium throughout the joint space.
 
@@ -493,12 +493,3 @@ Gastrointestinal system: Nausea (3%).
 ### Dosage and Administration
 
 The recommended dosage of OMNIPAQUE 300 is 15 mL to 20 mL but will vary depending on individual anatomy and/or disease state.
-
-## DIRECTIONS FOR USE
-
-1. The transfer of OMNIPAQUE (Iohexol Injection) from the Pharmacy Bulk Package is restricted to a suitable work area, such as a laminar flow hood.
-2. The container closure may be penetrated only one time, utilizing a suitable transfer device and aseptic technique.
-3. The withdrawal of container contents should be accomplished without delay.
-   However, should this not be possible, a maximum time of 8 hours from initial closure entry is permitted to complete fluid transfer operations.
-   The container should not be removed from the aseptic area during the entire 8 hour period.
-4. The temperature of the container should not exceed 37°C, after the closure has been entered.

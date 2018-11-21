@@ -50,6 +50,7 @@ In one case, persistent cortical loss of vision has been reported in association
 Ventricular block has been reported; amnesia of varying degrees may be present for the reaction event.
 
 Persistent though transitory weakness in the leg or ocular muscles has been reported.
+
 Peripheral neuropathies have been reported.
 They include sensory and/or motor or nerve root disturbances, myelitis, persistent leg muscle pain or weakness, 6th nerve palsy, or cauda equina syndrome.
 Muscle cramps, fasciculation or myoclonia, spinal convulsion, or spasticity responded promptly to a small intravenous dose of diazepam.
@@ -115,6 +116,8 @@ Cardiovascular reactions: cardiac arrhythmias, reflex tachycardia, chest pain, c
 Renal reactions: transient proteinuria, oliguria or anuria.
 Endocrine reactions: Thyroid function tests indicative of hypothyroidism or transient thyroid suppression have been uncommonly reported following iodinated contrast media administration to adult and pediatric patients, including infants.
 Some patients were treated for hypothyroidism.
+Skin and Subcutaneous Tissue Disorders: Reactions range from mild (e.g. rash, erythema, pruritus, urticaria, skin discoloration) to severe: [e.g.
+Stevens-Johnson syndrome and toxic epidermal necrolysis (SJS/TEN), acute generalized exanthematous pustulosis (AGEP) and drug reaction with eosinophilia and systemic symptoms (DRESS)].
 Allergic reactions: asthmatic attacks, nasal and conjunctival symptoms, dermal reactions such as urticaria with or without pruritus, as well as pleomorphic rashes, sneezing and lacrimation, anaphylactic reactions and anaphylactic shock.
 Fatalities have occurred, due to this or unknown causes.
 Signs and symptoms related to the respiratory system: pulmonary or laryngeal edema, bronchospasm, dyspnea; or to the nervous system: restlessness, tremors, convulsions.
@@ -158,13 +161,27 @@ In controlled clinical trials involving 285 adult patients for various body cavi
 
 Cardiovascular System Incidence > 1%: None Incidence ≤ 1%: Hypertension
 
-Nervous System Incidence > 1%: Pain (26%) Incidence ≤ 1%: Headache, somnolence, fever, muscle weakness, burning, unwell feeling, tremors, lightheadedness, syncope
+Nervous System
 
-Respiratory System None
+Incidence > 1%: Pain (26%)
 
-Gastrointestinal System Incidence > 1%: None Incidence ≤ 1%: Flatulence, diarrhea, nausea, vomiting, abdominal pressure
+Incidence ≤ 1%: Headache, somnolence, fever, muscle weakness, burning, unwell feeling, tremors, lightheadedness, syncope
 
-Skin and Appendages Incidence > 1%: Swelling (22%), heat (7%) Incidence ≤ 1%: Hematoma at injection site
+Respiratory System
+
+None
+
+Gastrointestinal System
+
+Incidence > 1%: None
+
+Incidence ≤ 1%: Flatulence, diarrhea, nausea, vomiting, abdominal pressure
+
+Skin and Appendages
+
+Incidence > 1%: Swelling (22%), heat (7%)
+
+Incidence ≤ 1%: Hematoma at injection site
 
 The most frequent reactions, pain and swelling, were almost exclusively reported after arthrography and were generally related to the procedure rather than the contrast medium.
 

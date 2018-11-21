@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Iohexol,N,N' - Bis(2,3-dihydroxypropyl)-5-[N-(2,3-dihydroxypropyl)-acetamido]-2,4,6-triiodoisophthalamide, is a nonionic, water-soluble radiographic contrast medium with a molecular weight of 821.14 (iodine content 46.36%).
+Iohexol,N,N´ - Bis(2,3-dihydroxypropyl)-5-[N-(2,3-dihydroxypropyl)-acetamido]-2,4,6-triiodoisophthalamide, is a nonionic, water-soluble radiographic contrast medium with a molecular weight of 821.14 (iodine content 46.36%).
 In aqueous solution each triiodinated molecule remains undissociated.
 The chemical structure is:
 

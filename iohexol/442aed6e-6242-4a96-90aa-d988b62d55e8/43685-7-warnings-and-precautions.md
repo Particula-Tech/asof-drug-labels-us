@@ -153,6 +153,14 @@ Administration of radiopaque materials to patients known or suspected of having 
 If, in the opinion of the physician, the possible benefits of such procedures outweigh the considered risks, the procedures may be performed; however, the amount of radiopaque medium injected should be kept to an absolute minimum.
 The patient's blood pressure should be assessed throughout the procedure and measures for the treatment of hypertensive crisis should be readily available.
 Reports of thyroid storm following the use of iodinated contrast media in patients with hyperthyroidism or with an autonomously functioning thyroid nodule suggest that this additional risk be evaluated in such patients before use of any contrast medium.
+
+## Severe Cutaneous Adverse Reactions
+
+Severe cutaneous adverse reactions (SCAR) may develop from 1 hour to several weeks after intravascular Omnipaque administration.
+These reactions include Stevens-Johnson syndrome and toxic epidermal necrolysis (SJS/TEN), acute generalized exanthematous pustulosis (AGEP) and drug reaction with eosinophilia and systemic symptoms (DRESS).
+Reaction severity may increase and time to onset may decrease with repeat administration of contrast agent; prophylactic medications may not prevent or mitigate severe cutaneous adverse reactions.
+Avoid administering Omnipaque to patients with a history of a severe cutaneous adverse reaction to Omnipaque.
+
 Urography should be performed with caution in patients with severely impaired renal function and patients with combined renal and hepatic disease.
 
 # PRECAUTIONS—General
@@ -168,6 +176,7 @@ Patients should be well hydrated prior to and following administration of any co
 
 Acute renal failure has been reported in diabetic patients with diabetic nephropathy and in susceptible non-diabetic patients (often elderly with preexisting renal disease) following excretory urography.
 Therefore, careful consideration of the potential risks should be given before performing this radiographic procedure in these patients.
+
 Immediately following surgery, excretory urography should be used with caution in renal transplant recipients.
 
 The possibility of a reaction, including serious, life-threatening, fatal, anaphylactoid or cardiovascular reactions should always be considered (see ADVERSE REACTIONS: Intravascular—General).
@@ -188,6 +197,7 @@ Even though the osmolality of OMNIPAQUE is low compared to diatrizoate or iothal
 These patients should be observed for several hours following the procedure to detect delayed hemodynamic disturbances.
 
 General anesthesia may be indicated in the performance of some procedures in selected adult patients; however, a higher incidence of adverse reactions has been reported in these patients, and may be attributable to the inability of the patient to identify untoward symptoms, or to the hypotensive effect of anesthesia which can reduce cardiac output and increase the duration of exposure to the contrast agent.
+
 Angiography should be avoided whenever possible in patients with homocystinuria, because of the risk of inducing thrombosis and embolism.
 
 In angiographic procedures, the possibility of dislodging plaques or damaging or perforating the vessel wall should be borne in mind during the catheter manipulations and contrast medium injection.
@@ -208,6 +218,7 @@ Patients receiving injectable radiopaque diagnostic agents should be instructed 
 2. Inform your physician if you are diabetic or if you have multiple myeloma, pheochromocytoma, homozygous sickle cell disease, or known thyroid disorder (see WARNINGS).
 3. Inform your physician if you are allergic to any drugs, food, or if you had any reactions to previous injections of dyes used for x-ray procedures (see PRECAUTIONS—General).
 4. Inform your physician about any other medications you are currently taking, including non-prescription drugs, before you are administered this drug.
+5. Advise patients to inform their physician if they develop a rash after receiving Omnipaque.
 
 ## Drug/Laboratory Test Interaction
 

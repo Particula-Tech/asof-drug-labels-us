@@ -34,6 +34,7 @@ In these patients, as well as in infants with immature kidneys, the route of exc
 
 Iohexol displays a low affinity for serum or plasma proteins and is poorly bound to serum albumin.
 No significant metabolism, deiodination or biotransformation occurs.
+
 OMNIPAQUE probably crosses the placental barrier in humans by simple diffusion.
 It is not known to what extent iohexol is excreted in human milk.
 
