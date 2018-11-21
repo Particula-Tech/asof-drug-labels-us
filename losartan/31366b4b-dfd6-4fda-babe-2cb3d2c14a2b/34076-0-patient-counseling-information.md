@@ -83,6 +83,7 @@ Especially tell your doctor if you are taking:
 
 - potassium supplements
 - salt substitutes containing potassium
+- other medicines that may increase serum potassium
 - water pills (diuretics)
 - lithium (a medicine used to treat a certain kind of depression)
 - medicines used to treat pain and arthritis, called non-steroidal anti-inflammatory drugs (NSAIDs), including COX-2 inhibitors
@@ -154,25 +155,14 @@ If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about losartan potassium tablets that is written for health professionals.
 
 What are the ingredients in losartan potassium tablets?
-
 Active ingredient: losartan potassium
 
 Inactive ingredients: microcrystalline cellulose, lactose monohydrate, pregelatinized starch (maize), low substituted hydroxypropyl cellulose, magnesium stearate, hydroxypropyl cellulose, hypromellose 6 cP, titanium dioxide, FD&C blue #2/indigo carmine aluminum lake, D&C yellow #10 aluminum lake, and purified water.
 
 Ora-Plus™ and Ora-Sweet SF™ are the trademarks of Paddock Laboratories, Inc.
 
-Distributed by:
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520
 
-Aurobindo Pharma USA, Inc.
+Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India
 
-279 Princeton-Hightstown Road
-
-East Windsor, NJ 08520
-
-Manufactured by:
-
-Aurobindo Pharma Limited
-
-Hyderabad-500 038, India
-
-Revised: 05/2018
+Revised: 11/2018

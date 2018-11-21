@@ -2,8 +2,6 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects
-
 Pregnancy Category D
 
 Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.

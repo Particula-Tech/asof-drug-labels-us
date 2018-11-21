@@ -56,10 +56,8 @@ The primary endpoint was the first occurrence of cardiovascular death, nonfatal 
 Patients with nonfatal events remained in the trial, so that there was also an examination of the first event of each type even if it was not the first event (e.g., a stroke following an initial myocardial infarction would be counted in the analysis of stroke).
 Treatment with losartan potassium resulted in a 13% reduction (p=0.021) in risk of the primary endpoint compared to the atenolol group (see Figure 1 and Table 3); this difference was primarily the result of an effect on fatal and nonfatal stroke.
 Treatment with losartan potassium reduced the risk of stroke by 25% relative to atenolol (p=0.001) (see Figure 2 and Table 3).
-
 Figure 1: Kaplan-Meier estimates of the primary endpoint of time to cardiovascular death, nonfatal stroke, or nonfatal myocardial infarction in the groups treated with losartan potassium and atenolol.
 The Risk Reduction is adjusted for baseline Framingham risk score and level of electrocardiographic left ventricular hypertrophy.
-
 Figure 2: Kaplan-Meier estimates of the time to fatal/nonfatal stroke in the groups treated with losartan potassium and atenolol.
 The Risk Reduction is adjusted for baseline Framingham risk score and level of electrocardiographic left ventricular hypertrophy.
 

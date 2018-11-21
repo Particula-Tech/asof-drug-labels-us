@@ -8,19 +8,11 @@ Bottles of 90 NDC 65862-201-90 Bottles of 500 NDC 65862-201-05 Bottles of 1,000 
 
 Losartan Potassium Tablets USP, 50 mg are green colored, oval shaped, biconvex film-coated tablets debossed with ‘E’ on one side and ‘4’ and ‘6’ separated by scoreline on other side.
 
-Bottles of 30 NDC 65862-202-30
-
-Bottles of 90 NDC 65862-202-90
-
-Bottles of 1,000 NDC 65862-202-99
+Bottles of 30 NDC 65862-202-30 Bottles of 90 NDC 65862-202-90 Bottles of 1,000 NDC 65862-202-99
 
 Losartan Potassium Tablets USP, 100 mg are green colored, oval shaped, biconvex film-coated tablets debossed with ‘E’ on one side and ‘47’ on other side.
 
-Bottles of 30 NDC 65862-203-30
-
-Bottles of 90 NDC 65862-203-90
-
-Bottles of 1,000 NDC 65862-203-99
+Bottles of 30 NDC 65862-203-30 Bottles of 90 NDC 65862-203-90 Bottles of 1,000 NDC 65862-203-99
 
 Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 Keep container tightly closed.
