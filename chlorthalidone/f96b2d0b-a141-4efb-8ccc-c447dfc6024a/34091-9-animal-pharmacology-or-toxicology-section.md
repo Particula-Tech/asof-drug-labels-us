@@ -6,7 +6,5 @@ After passage to the liver, some of the drug enters the general circulation, whi
 In the general circulation, it is distributed widely to the tissue, but is taken up in highest concentrations by the kidneys, where amounts have been found 72 hours after ingestion, long after it has disappeared from other tissues.
 The drug is excreted unchanged in the urine.
 
-Manufactured for: Rising Pharmaceuticals, Inc. Allendale, NJ 07401
-
-5530 Made in USA Rev.
-01/18
+Distributed by: Rising Pharmaceuticals, Inc. Saddle Brook, NJ 07663 Rx Only 553001 Rev.
+08/18
