@@ -11,14 +11,14 @@ Risk Summary
 
 Available data from the APR show no substantial difference in the risk of overall major birth defects for lamivudine compared with the background rate for major birth defects of 2.7% reported in the U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP).
 The APR uses the MACDP as a U.S. reference population for birth defects in the general population.
-The MACDP evaluates women and infants from a limited geographic area and does not include outcomes for births that occur at less than 20 weeks gestation.
+The MACDP evaluates women and infants from a limited geographic area and does not include outcomes for births that occur at less than 20 weeks’ gestation.
 Of over 11,000 women exposed to lamivudine in the APR, less than 1% were treated for HBV.
 The majority of women exposed to lamivudine in the APR were HIV-1-infected and were treated with higher doses of lamivudine compared with HBV mono-infected women.
-In addition to lamivudine, HIV-1-infected women were also treated with other concomitant medications for HIV-1 infection [see Data].
+In addition to lamivudine, HIV-1-infected women were also treated with other concomitant medications for HIV-1 infection (see Data).
 The estimated rate of miscarriage for women exposed to lamivudine in the indicated population is unknown.
 The estimated background rate of miscarriage in clinically recognized pregnancies in the U.S. general population is 15% to 20%.
 
-Oral administration of lamivudine to pregnant rabbits during organogenesis resulted in embryolethality at systemic exposure (AUC) similar to the recommended clinical dose; however, no adverse developmental effects were observed with oral administration of lamivudine to pregnant rats during organogenesis at plasma concentrations (Cmax) 60 times the recommended clinical dose [see Data].
+Oral administration of lamivudine to pregnant rabbits during organogenesis resulted in embryolethality at systemic exposure (AUC) similar to the recommended clinical dose; however, no adverse developmental effects were observed with oral administration of lamivudine to pregnant rats during organogenesis at plasma concentrations (Cmax) 60 times the recommended clinical dose (see Data).
 
 Data
 
@@ -27,7 +27,7 @@ The prevalence of birth defects in live births was 3.1% (95% CI: 2.6% to 3.6%) f
 
 The pharmacokinetics of lamivudine in patients with HBV or HIV-1 infection and in healthy volunteers are similar at similar doses.
 Lamivudine pharmacokinetics were studied in pregnant women with HIV-1 infection during 2 clinical trials conducted in South Africa.
-The trials assessed pharmacokinetics in 16 women at 36 weeks gestation using 150 mg lamivudine twice daily (3 times the recommended daily dosage for HBV) with zidovudine, 10 women at 38 weeks gestation using 150 mg lamivudine twice daily (3 times the recommended daily dosage for HBV) with zidovudine, and 10 women at 38 weeks gestation using lamivudine 300 mg twice daily (6 times the recommended daily dosage for HBV) without other antiretrovirals.
+The trials assessed pharmacokinetics in 16 women at 36 weeks’ gestation using 150 mg lamivudine twice daily (3 times the recommended daily dosage for HBV) with zidovudine, 10 women at 38 weeks’ gestation using 150 mg lamivudine twice daily (3 times the recommended daily dosage for HBV) with zidovudine, and 10 women at 38 weeks’ gestation using lamivudine 300 mg twice daily (6 times the recommended daily dosage for HBV) without other antiretrovirals.
 Lamivudine concentrations were generally similar in maternal, neonatal, and umbilical cord serum samples.
 In a subset of subjects, amniotic fluid specimens were collected following natural rupture of membranes and confirmed that lamivudine crosses the placenta in humans.
 Based on limited data at delivery, median (range) amniotic fluid concentrations of lamivudine were 3.9- (1.2- to 12.8-) fold greater compared with paired maternal serum concentrations (n = 8).
@@ -45,7 +45,7 @@ Risk Summary
 
 Lamivudine is present in human milk.
 There is no information available regarding lamivudine concentrations in milk from lactating women receiving lamivudine for treatment of HBV infection.
-However, in lactating women with HIV-1 infection being treated with lamivudine at 3 or 6 times the recommended daily dose for HBV, lamivudine concentrations in milk were similar to those observed in serum [see Data].
+However, in lactating women with HIV-1 infection being treated with lamivudine at 3 or 6 times the recommended daily dose for HBV, lamivudine concentrations in milk were similar to those observed in serum (see Data).
 The lamivudine dose received by a breastfed infant of a mother being treated for HIV-1 infection was estimated to be approximately 6% of the recommended daily lamivudine dose for HBV in children over 2 years of age.
 
 There is no information available regarding the effects of the drug on the breastfed infant or on milk production.

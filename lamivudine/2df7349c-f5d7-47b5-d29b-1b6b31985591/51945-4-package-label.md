@@ -59,5 +59,6 @@ Made in Canada
 
 Epivir-HBV is a registered trademark
 
-1. A124352 Rev.
-   4/14
+1. 10000000146472 Rev.
+   5/17
+2. 

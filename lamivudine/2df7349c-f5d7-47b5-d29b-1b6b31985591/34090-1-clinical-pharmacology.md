@@ -18,7 +18,7 @@ Therefore, the oral solution and the tablet may be used interchangeably.
 
 After oral administration of lamivudine once daily to HBV-infected adults, the AUC and Cmax increased in proportion to dose over the range from 5 mg to 600 mg once daily.
 
-Absolute bioavailability in 12 adult subjects was 86% ± 16% (mean ± SD) for the 150-mg tablet and 87% ± 13% for the 10-mg per mL oral solution.
+Absolute bioavailability in 12 adult subjects was 86% ± 16% (mean ± SD) for the 150-mg tablet and 87% ± 13% for the 10-mg-per mL oral solution.
 
 Effects of Food on Oral Absorption: EPIVIR-HBV tablets and oral solution may be administered with or without food.
 The 100-mg tablet was administered orally to 24 healthy subjects on 2 occasions, once in the fasted state and once with food (standard meal: 967 kcal; 67 grams fat, 33 grams protein, 58 grams carbohydrate).
@@ -110,7 +110,7 @@ Racial Groups: There are no significant or clinically relevant racial difference
 
 Drug Interaction Studies
 
-Effect of Lamivudine on the Pharmacokinetics of Other Agents: Based on in vitro study results, lamivudine at therapeutic drug exposures is not expected to affect the pharmacokinetics of drugs that are substrates of the following transporters: organic anion transporter polypeptide 1B1/3 (OATP1B1/3), breast cancer resistance protein (BCRP), P-glycoprotein (P-gp), multidrug and toxin extrusion protein 1 (MATE1), MATE2-K, organic cation transporter 1 (OCT1), OCT2 or OCT3.
+Effect of Lamivudine on the Pharmacokinetics of Other Agents: Based on in vitro study results, lamivudine at therapeutic drug exposures is not expected to affect the pharmacokinetics of drugs that are substrates of the following transporters: organic anion transporter polypeptide 1B1/3 (OATP1B1/3), breast cancer resistance protein (BCRP), P-glycoprotein (P-gp), multidrug and toxin extrusion protein 1 (MATE1), MATE2-K, organic cation transporter 1 (OCT1), OCT2, or OCT3.
 
 Effect of Other Agents on the Pharmacokinetics of Lamivudine: Lamivudine is a substrate of MATE1, MATE2-K, and OCT2 in vitro.
 Trimethoprim (an inhibitor of these drug transporters) has been shown to increase lamivudine plasma concentrations.
@@ -130,7 +130,7 @@ Coadministration of lamivudine with sorbitol resulted in dose-dependent decrease
 
 Trimethoprim/Sulfamethoxazole: Lamivudine and trimethoprim/sulfamethoxazole (TMP/SMX) were coadministered to 14 HIV-1-positive subjects in a single-center, open-label, randomized, crossover trial.
 Each subject received treatment with a single 300-mg dose of lamivudine and TMP 160 mg/SMX 800 mg once a day for 5 days with concomitant administration of lamivudine 300 mg with the fifth dose in a crossover design.
-Coadministration of TMP/SMX with lamivudine resulted in an increase of 43% ± 23% (mean ± SD) in lamivudine AUC∞, a decrease of 29% ± 13% in lamivudine oral clearance, and a decrease of 30% ± 36% in lamivudine renal clearance.
+Coadministration of TMP/SMX with lamivudine resulted in an increase of 43% ± 23% (mean ± SD) in lamivudine AUC(∞), a decrease of 29% ± 13% in lamivudine oral clearance, and a decrease of 30% ± 36% in lamivudine renal clearance.
 The pharmacokinetic properties of TMP and SMX were not altered by coadministration with lamivudine.
 
 Zidovudine: No clinically significant alterations in lamivudine or zidovudine pharmacokinetics were observed in 12 asymptomatic HIV-1‑infected adult subjects given a single dose of zidovudine (200 mg) in combination with multiple doses of lamivudine (300 mg every 12 hours).
@@ -145,29 +145,30 @@ The principal mode of action of 3TC-TP is inhibition of the RNA- and DNA-depende
 
 Antiviral Activity
 
-Activity of lamivudine against HBV in cell culture was assessed in HBV DNA-transfected 2.2.15 cells, HB611 cells, and infected human primary hepatocytes.
+Activity of lamivudine against HBV in cell culture was assessed in HBV DNA‑transfected 2.2.15 cells, HB611 cells, and infected human primary hepatocytes.
 EC50 values (the concentration of drug needed to reduce the level of extracellular HBV DNA by 50%) varied from 0.01 microM (2.3 ng per mL) to 5.6 microM (1.3 mcg per mL) depending upon the duration of exposure of cells to lamivudine, the cell model system, and the protocol used.
-See the EPIVIR prescribing information for information regarding activity of lamivudine against HIV.
-The anti-HBV activity of lamivudine in combination with tenofovir in cell culture was not antagonistic.
+See the prescribing information for EPIVIR regarding activity of lamivudine against HIV.
+The anti-HBV activity of lamivudine in combination with adefovir or tenofovir in cell culture was not antagonistic.
 
 Resistance
 
-Lamivudine-resistant isolates were identified in subjects with virologic breakthrough, defined when using solution hybridization assay as the detection of HBV DNA in serum on 2 or more occasions after failing to detect HBV DNA on 2 or more occasions and defined when using PCR assay as a greater than 1 log10 (10-fold) increase in serum HBV DNA from nadir during treatment in a subject who had an initial virologic response.
+Lamivudine‑resistant isolates have been identified in subjects with virologic breakthrough.
 
-Lamivudine-resistant HBV isolates develop rtM204V/I substitutions in the YMDD motif of the catalytic domain of the viral reverse transcriptase. rtM204V/I substitutions are frequently accompanied by other substitutions (rtV173L, rtL180M) which enhance the level of lamivudine resistance or act as compensatory substitutions improving replication efficiency.
-Other substitutions detected in lamivudine-resistant HBV isolates include rtL80I and rtA181T.
+Lamivudine‑resistant HBV isolates develop rtM204V/I substitutions in the YMDD motif of the catalytic domain of the viral reverse transcriptase. rtM204V/I substitutions are frequently accompanied by other substitutions (rtV173L, rtL180M) which enhance the level of lamivudine resistance or act as compensatory substitutions improving replication efficiency.
+Other substitutions reported in lamivudine‑resistant HBV isolates include rtH55R, rtL80I/V, rtV173M, rtA181T/V, rtT184S, rtF219Y, rtL229F/M/V/W, and rtQ267H.
 
-In 4 controlled clinical trials in adults with HBeAg-positive chronic hepatitis B virus infection (CHB), YMDD-mutant HBV was detected in 81 of 335 subjects receiving EPIVIR-HBV 100 mg once daily for 52 weeks.
+In 4 controlled clinical trials evaluating EPIVIR-HBV in adults with HBeAg‑positive chronic hepatitis B virus infection (CHB), YMDD‑mutant HBV was detected in 81 of 335 subjects receiving EPIVIR-HBV 100 mg once daily for 52 weeks.
 The prevalence of YMDD substitutions was less than 10% in each of these trials for subjects studied at 24 weeks and increased to an average of 24% (range in 4 trials: 16% to 32%) at 52 weeks.
-In limited data from a long-term follow-up trial in subjects who continued 100 mg per day EPIVIR-HBV after one of these trials, YMDD substitutions further increased from 18% (10 of 57) at 1 year to 41% (20 of 49), 53% (27 of 51), and 69% (31 of 45) after 2, 3, and 4 years of treatment, respectively.
-Over the 5-year treatment period, the proportion of subjects who developed YMDD-mutant HBV at any time was 69% (40 of 58).
+A similar prevalence of YMDD substitutions has been reported in large controlled Phase 3 clinical trials utilizing EPIVIR-HBV as a comparator arm in adults with HBeAg-positive CHB for 48 weeks (range in 4 trials: 11% to 27%) and in adults with HBeAg-negative CHB for 48 weeks (range in 3 clinical trials: 6% to 18%).
 
-In a controlled trial, treatment-naive subjects with HBeAg-positive CHB were treated with EPIVIR-HBV or EPIVIR-HBV plus adefovir dipivoxil combination therapy.
-Following 104 weeks of therapy, YMDD-mutant HBV was detected in 7 of 40 (18%) subjects receiving combination therapy compared with 15 of 35 (43%) subjects receiving therapy with only EPIVIR-HBV.
-In another controlled trial, combination therapy was evaluated in adult subjects with HBeAg-positive CHB who had YMDD-mutant HBV and diminished clinical and virologic response to EPIVIR-HBV.
-Following 52 weeks of EPIVIR-HBV plus adefovir dipivoxil combination therapy (n = 46) or therapy with only EPIVIR-HBV (n = 49), YMDD‑mutant HBV was detected less frequently in subjects receiving combination therapy, 62% versus 96%.
+Long-term follow up in subjects who continued 100 mg per day of EPIVIR-HBV demonstrated that the prevalence of YMDD substitutions further increased from 23% (211 of 998) in Year 1, to 46% (368 of 796), 55% (378 of 688), 71% (421 of 592), and 65% (103 of 159) in Years 2, 3, 4, and 5, respectively.
 
-A published trial suggested that the rates of lamivudine resistance in subjects treated for HBeAg-negative CHB appear to be more variable (0% to 27% at 1 year and 10% to 56% at 2 years).
+In a controlled trial, treatment‑naive subjects with HBeAg‑positive CHB were treated with EPIVIR-HBV or EPIVIR-HBV plus adefovir dipivoxil combination therapy.
+Following 104 weeks of therapy, YMDD‑mutant HBV was detected in 7 of 40 (18%) subjects receiving combination therapy compared with 15 of 35 (43%) subjects receiving therapy with only EPIVIR-HBV.
+In 2 controlled clinical trials, treatment-naïve subjects who received 48 weeks of therapy with EPIVIR-HBV in combination with pegylated interferon developed YMDD substitutions less frequently than subjects treated with EPIVIR-HBV alone (1 of 173 [1%] versus 32 of 179 [18%] in HBeAg-negative subjects; 9 of 256 [4%] versus 69 of 254 [27%] in HBeAg-positive subjects).
+
+Several clinical studies have evaluated alternative regimens in subjects who failed EPIVIR-HBV due to development of lamivudine resistance.
+These studies demonstrated a higher rate of viral suppression and decreased development of viral resistance compared with continuation of monotherapy with EPIVIR-HBV.
 
 Pediatric Subjects: In a controlled trial in pediatric subjects, YMDD-mutant HBV was detected in 31 of 166 (19%) subjects receiving EPIVIR-HBV for 52 weeks.
 For a subgroup that remained on therapy with EPIVIR-HBV in a follow-up trial, YMDD substitutions increased from 24% (29 of 121) at 12 months to 59% (68 of 115) at 24 months and 64% (66 of 103) at 36 months of treatment with EPIVIR-HBV.
@@ -176,4 +177,4 @@ Cross-Resistance
 
 HBV containing lamivudine resistance-associated substitutions (rtL180M, rtM204I, rtM204V, rtL180M and rtM204V, rtV173L and rtL180M and rtM204V) retain susceptibility to adefovir dipivoxil but have reduced susceptibility to entecavir (greater than 30-fold) and telbivudine (greater than 100-fold).
 The lamivudine resistance-associated substitution rtA181T results in diminished response to adefovir and telbivudine.
-Similarly, HBV with entecavir resistance-associated substitutions (rtI169T/rtM250V and rtT184G/rtS202I) have greater than 1,000-fold reductions in susceptibility to lamivudine.
+Similarly, HBV with entecavir resistance-associated substitutions (rtI169T and rtM250V, rtT184G and rtS202I) have greater than 1,000-fold reductions in susceptibility to lamivudine.

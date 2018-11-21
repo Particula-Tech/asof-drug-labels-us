@@ -2,10 +2,10 @@
 
 The following adverse reactions are discussed in other sections of the labeling:
 
-- •Lactic acidosis and severe hepatomegaly with steatosis [see Warnings and Precautions (5.1)].
-- •Exacerbations of hepatitis B after discontinuation of treatment [see Warnings and Precautions (5.2)].
-- •Risk of emergence of resistant HIV-1 infection [see Warnings and Precautions (5.3)].
-- •Risk of emergence of resistant HBV infection [see Warnings and Precautions (5.4)].
+- •Exacerbations of hepatitis B after discontinuation of treatment [see Warnings and Precautions (5.1)].
+- •Risk of emergence of resistant HIV-1 infection [see Warnings and Precautions (5.2)].
+- •Risk of emergence of resistant HBV infection [see Warnings and Precautions (5.3)].
+- •Lactic acidosis and severe hepatomegaly with steatosis [see Warnings and Precautions (5.4)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -16,7 +16,7 @@ Clinical Trials Experience in Adult Subjects with Chronic HBV Infection
 Clinical adverse reactions (regardless of investigator’s causality assessment) reported in greater than or equal to 10% of subjects who received EPIVIR-HBV and reported at a rate greater than in subjects who received placebo are listed in Table 2.
 
 Table 2.
-Clinical Adverse Reactionsa Reported in Greater than or Equal to 10% of Subjects who Received EPIVIR-HBV for 52 to 68 Weeks and at an Incidence Greater than Placebo (Trials 1-3)
+Clinical Adverse Reactionsa Reported in Greater than or Equal to 10% of Subjects Who Received EPIVIR-HBV for 52 to 68 Weeks and at an Incidence Greater than Placebo (Trials 1-3)
 
 | Adverse Event | EPIVIR-HBV (n = 332) | Placebo (n = 200) |
 | --- | --- | --- |
@@ -46,16 +46,14 @@ A comparison of ALT elevations between Weeks 52 and 68 in subjects who discontin
 Table 4.
 Posttreatment ALT Elevations with No-Active-Treatment Follow-up (Trials 1 and 3)
 
-| Abnormal Value | Subjects with ALT Elevation/ Subjects with Observationsa |  |
-| --- | --- | --- |
-| EPIVIR-HBVb | Placebob |  |
-| ALT ≥2 x baseline value | 27% | 19% |
-| ALT ≥3 x baseline valuec | 21% | 8% |
-| ALT ≥2 x baseline value and absolute ALT >500 IU/L | 15% | 7% |
-| ALT ≥2 x baseline value; and bilirubin >2 x ULN and ≥2 x baseline value | 0.7% | 0.9% |
-
-a Each subject may be represented in one or more category. b During treatment phase. c Comparable to a Grade 3 toxicity in accordance with modified WHO criteria.
-ULN = Upper limit of normal.
+| Abnormal Value | Subjects with ALT Elevation/ Subjects with Observationsa |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| EPIVIR-HBVb | Placebob |  |  |  |  |  |  |  |
+| ALT ≥2 x baseline value | 27% | 19% |  |  |  |  |  |  |
+| ALT ≥3 x baseline valuec | 21% | 8% |  |  |  |  |  |  |
+| ALT ≥2 x baseline value and absolute ALT >500 IU/L | 15% | 7% |  |  |  |  |  |  |
+| ALT ≥2 x baseline value; and bilirubin >2 x ULN and ≥2 x baseline value | 0.7% | 0.9% |  |  |  |  |  |  |
+| a Each subject may be represented in one or more category. b During treatment phase. c Comparable to a Grade 3 toxicity in accordance with modified WHO criteria. ULN = Upper limit of normal. |  |  |  |  |  |  |  |  |
 
 Clinical Trials Experience in Pediatric Subjects with Chronic HBV Infection
 
@@ -86,7 +84,7 @@ Weakness.
 
 Hepatic and Pancreatic
 
-Lactic acidosis and steatosis [see Warnings and Precautions (5.1)], posttreatment exacerbations of hepatitis [see Warnings and Precautions (5.2)], pancreatitis.
+Lactic acidosis and steatosis [see Warnings and Precautions (5.4)], posttreatment exacerbations of hepatitis [see Warnings and Precautions (5.1)], pancreatitis.
 
 Hypersensitivity
 

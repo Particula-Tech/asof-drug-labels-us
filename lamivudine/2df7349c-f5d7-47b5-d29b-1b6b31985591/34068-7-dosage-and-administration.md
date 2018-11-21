@@ -2,7 +2,7 @@
 
 ## 2.1 HIV Counseling and Testing
 
-HIV counseling and testing should be offered to all patients before beginning treatment with EPIVIR-HBV and periodically during treatment because of the risk of emergence of resistant-HIV-1 and limitation of treatment options if EPIVIR-HBV is prescribed to treat chronic hepatitis B infection in a patient who has unrecognized HIV-1 infection or acquires HIV-1 infection during treatment [see Warnings and Precautions (5.3)].
+HIV counseling and testing should be offered to all patients before beginning treatment with EPIVIR-HBV and periodically during treatment because of the risk of emergence of resistant-HIV-1 and limitation of treatment options if EPIVIR-HBV is prescribed to treat chronic hepatitis B infection in a patient who has unrecognized HIV-1 infection or acquires HIV-1 infection during treatment [see Warnings and Precautions (5.2)].
 
 ## 2.2 Recommended Dosage for Adult Patients
 
