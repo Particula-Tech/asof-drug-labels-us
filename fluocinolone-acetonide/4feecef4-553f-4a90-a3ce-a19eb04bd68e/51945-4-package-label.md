@@ -2,11 +2,13 @@
 
 NDC 43538-920-60
 
-For Topical Use Only Not For Ophthalmic Use
+For Topical Use Only
+
+Not For Ophthalmic Use
 
 60 mL
 
-Rx Only
+RX Only
 
 SYNALAR® (fluocinolone acetonide) Topical Solution, 0.01%
 
