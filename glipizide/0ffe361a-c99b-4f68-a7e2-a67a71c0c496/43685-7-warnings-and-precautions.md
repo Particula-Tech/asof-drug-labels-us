@@ -2,7 +2,7 @@
 
 ## 5.1 Hypoglycemia
 
-All sulfonylurea drugs, including glipizide, are capable of producing severe hypoglycaemia [see Adverse Reactions (6)].
+All sulfonylurea drugs, including glipizide, are capable of producing severe hypoglycemia [see Adverse Reactions (6)].
 Concomitant use of glipizide extended-release tablets with other anti-diabetic medication can increase the risk of hypoglycemia.
 A lower dose of glipizide extended-release tablets may be required to minimize the risk of hypoglycemia when combining it with other anti-diabetic medications.
 

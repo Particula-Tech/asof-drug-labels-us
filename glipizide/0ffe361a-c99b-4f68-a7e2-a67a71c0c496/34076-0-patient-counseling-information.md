@@ -10,13 +10,15 @@ Inform patients that glipizide extended-release tablets should be swallowed whol
 Inform patients that they should not chew, divide or crush tablets and they may occasionally notice in their stool something that looks like a tablet.
 In the glipizide extended-release tablets, the medication is contained within a non-dissolvable shell that has been specially designed to slowly release the drug so the body can absorb it.
 
-Advise patients with diabetes to inform their healthcare provider if they are pregnant, contemplating pregnancy, breastfeeding, or contemplating breastfeeding.
+Pregnancy Advise females of reproductive potential to inform their prescriber of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
+
+Lactation Advise breastfeeding women taking glipizide extended-release tablets to monitor breastfed infants for signs of hypoglycemia (e.g., jitters, cyanosis, hypothermia, excessive sleepiness, poor feeding, seizures) [see Use in Specific Populations (8.2)].
 
 Trademarks are the property of their respective owners.
 
-Manufactured for: Rising Pharmaceuticals, Inc. Allendale, NJ 07401
+Manufactured by: Unique Pharmaceutical Laboratories (A Div. of J. B. Chemicals & Pharmaceuticals Ltd.), Mumbai 400 030, India.
 
-Manufactured by: Unique Pharmaceutical Laboratories (A Div. of J. B. Chemicals & Pharmaceuticals Ltd.), Mumbai 400 030, India
+Distributed by: Rising Pharmaceuticals, Inc. Saddle Brook, NJ 07663
 
-118218 Jan.
-2017
+Oct.
+2018

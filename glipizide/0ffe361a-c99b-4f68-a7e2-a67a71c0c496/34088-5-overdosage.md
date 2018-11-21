@@ -1,4 +1,4 @@
-# 10 OVERDOSGE
+# 10 OVERDOSAGE
 
 Overdosage of sulfonylureas including glipizide can produce severe hypoglycemia.
 Mild hypoglycemic symptoms without loss of consciousness or neurologic findings should be treated with oral glucose.

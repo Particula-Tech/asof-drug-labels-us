@@ -7,7 +7,7 @@ The recommended starting dose of glipizide extended-release tablets is 5 mg once
 Start patients at increased risk for hypoglycemia (e.g. the elderly or patients with hepatic insufficiency) at 2.5 mg [see Use in Specific Population (8.5, 8.6)].
 Dosage adjustment can be made based on the patient’s glycemic control.
 The maximum recommended dose is 20 mg once daily.
-Patients receiving immediate release glipizide may be switched to Glipizide extended-release tablets once daily at the nearest equivalent total daily dose.
+Patients receiving immediate release glipizide may be switched to glipizide extended-release tablets once daily at the nearest equivalent total daily dose.
 
 ## 2.2 Use with Other Glucose Lowering Agents
 

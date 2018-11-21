@@ -1,4 +1,4 @@
-# 12 CLINICAL PHARMACOLOGY SECTION
+# 12 CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -7,9 +7,9 @@ Sulfonylureas bind to the sulfonylurea receptor in the pancreatic beta-cell plas
 
 ## 12.2 Pharmacodynamics
 
-The insulinotropic response to a meal is enhanced with Glipizide extended-release tablets administration in diabetic patients.
+The insulinotropic response to a meal is enhanced with glipizide extended-release tablets administration in diabetic patients.
 The postprandial insulin and C-peptide responses continue to be enhanced after at least 6 months of treatment.
-In two randomized, double-blind, dose-response studies comprising a total of 347 patients, there was no significant increase in fasting insulin in all Glipizide extended-release tablets -treated patients combined compared to placebo, although minor elevations were observed at some doses.
+In two randomized, double-blind, dose-response studies comprising a total of 347 patients, there was no significant increase in fasting insulin in all glipizide extended-release tablets-treated patients combined compared to placebo, although minor elevations were observed at some doses.
 
 In studies of glipizide extended-release tablets in subjects with type 2 diabetes mellitus, once daily administration produced reductions in hemoglobin A1c, fasting plasma glucose and postprandial glucose.
 The relationship between dose and reduction in hemoglobin A1c was not established, however subjects treated with 20 mg had a greater reduction in fasting plasma glucose compared to subjects treated with 5 mg.
@@ -45,18 +45,17 @@ The mean total body clearance of glipizide was approximately 3 liters per hour a
 The mean terminal elimination half-life of glipizide ranged from 2 to 5 hours after single or multiple doses in patients with type 2 diabetes mellitus.
 
 Specific Populations Pediatric: Studies characterizing the pharmacokinetics of glipizide in pediatric patients have not been performed.
-Geriatric: There were no differences in the pharmacokinetics of glipizide after single dose administration to older diabetic subjects compared to younger healthy subjects.
-[see Use in Specific Populations (8.5)] Renal Impairment: The pharmacokinetics of glipizide has not been evaluated in patients with varying degree of renal impairment.
+Geriatric: There were no differences in the pharmacokinetics of glipizide after single dose administration to older diabetic subjects compared to younger healthy subjects [see Use in Specific Populations (8.5)].
+Renal Impairment: The pharmacokinetics of glipizide has not been evaluated in patients with varying degree of renal impairment.
 Limited data indicates that glipizide biotransformation products may remain in circulation for a longer time in subjects with renal impairment than that seen in subjects with normal renal function.
 Hepatic Impairment: The pharmacokinetics of glipizide has not been evaluated in patients with hepatic impairment.
 
 Drug-drug Interactions Miconazole A potential interaction between oral miconazole and oral glipizide leading to severe hypoglycemia has been reported.
-Whether this interaction also occurs with the intravenous, topical, or vaginal preparations of miconazole is not known.
-[see Drug Interactions (7.1)] Fluconazole Concomitant treatment with fluconazole increases plasma concentrations of glipizide.
-The effect of concomitant administration of Diflucan® (fluconazole) and Glipizide Tablets has been demonstrated in placebo controlled crossover study in healthy volunteers.
-All subjects received Glipizide Tablets alone and following treatment with 100 mg of Diflucan® as a single daily oral dose for 7 days.
-The mean percentage increase in the glipizide AUC after fluconazole administration was 56.9% (range: 35 to 81%).
-[see Drug Interactions (7.2)] Colesevelam Colesevelam can reduce the maximum plasma concentration and total exposure of glipizide when the two are coadministered.
+Whether this interaction also occurs with the intravenous, topical, or vaginal preparations of miconazole is not known [see Drug Interactions (7.2)].
+Fluconazole Concomitant treatment with fluconazole increases plasma concentrations of glipizide.
+The effect of concomitant administration of Diflucan® (fluconazole) and glipizide tablets has been demonstrated in a placebo controlled crossover study in healthy volunteers.
+All subjects received glipizide tablets alone and following treatment with 100 mg of Diflucan® as a single daily oral dose for 7 days.
+The mean percentage increase in the glipizide AUC after fluconazole administration was 56.9% (range: 35 to 81%) [see Drug Interactions (7.3)].
+Colesevelam Colesevelam can reduce the maximum plasma concentration and total exposure of glipizide when the two are coadministered.
 In studies assessing the effect of colesevelam on the pharmacokinetics of glipizide ER in healthy volunteers, reductions in glipizide AUC0-∞ and Cmax of 12% and 13%, respectively were observed when colesevelam was coadministered with glipizide ER.
-When glipizide ER was administered 4 hours prior to colesevelam, there was no significant change in glipizide AUC0-∞ or Cmax, -4% and 0%, respectively.
-[see Drug Interactions (7.3)]
+When glipizide ER was administered 4 hours prior to colesevelam, there was no significant change in glipizide AUC0-∞ or Cmax, -4% and 0%, respectively [see Drug Interactions (7.4)].

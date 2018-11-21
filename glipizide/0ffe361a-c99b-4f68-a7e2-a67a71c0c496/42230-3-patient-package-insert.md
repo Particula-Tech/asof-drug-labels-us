@@ -25,15 +25,14 @@ Before you take Glipizide Extended-Release Tablets, tell your healthcare provide
 - Have chronic (continuing) diarrhea
 - Have glucose-6-phosphate dehydrogenase (G6PD) deficiency.
   This condition usually runs in families.
-  People with G6PD deficiency who take glipizide extended-release tablets may develop hemolytic anemia (fast breakdown of red blood cells).
+  People with G6PD deficiency who take glipizide extended-release tablet may develop hemolytic anemia (fast breakdown of red blood cells).
 - Are pregnant or might be pregnant.
   It is not known if glipizide extended-release tablets will harm your unborn baby.
-  If you are pregnant, talk to you healthcare provider about the best way to control your blood sugar while you are pregnant.
-  You should not take glipizide extended-release tablets during the last month of pregnancy.
+  If you are pregnant, talk to your healthcare provider about the best way to control your blood sugar while you are pregnant.
+  You should not take glipizide extended-release tablets during the last two weeks of pregnancy.
 - Are breastfeeding or plan to breastfeed.
-  It is not known if glipizide extended-release tablets passes into your breast milk.
-  You and your healthcare provider should decide if you will take glipizide extended-release tablet or breastfeed.
-  You should not do both.
+  It is not known if glipizide passes into your breast milk.
+  You and your healthcare provider should decide the best way to feed your baby during treatment with glipizide extended-release tablets.
 
 Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
@@ -95,7 +94,7 @@ If you have signs or symptoms of low blood sugar, eat or drink something with su
 If you do not feel better or your blood sugar level does not go up, call your healthcare provider or go to the nearest emergency room.
 
 The most common side effects of glipizide extended-release tablet include: dizziness, diarrhea, nervousness, tremor, and gas.
-These are not all the possible side effects of Glipizide Extended-Release Tablets.
+These are not all the possible side effects of glipizide extended-release tablets.
 For more information, ask your healthcare provider or pharmacist.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
@@ -107,11 +106,11 @@ How to store Glipizide Extended-Release Tablets?
 
 Keep glipizide extended-release tablets and all medicines out of reach of children.
 
-General information about the safe and effective use of Glipizide Extended -Release Tablets.
+General information about the safe and effective use of Glipizide Extended-Release Tablets.
 
 Medicines are sometimes prescribed for purposes other than those listed in a patient information leaflet.
-Do not use glipizide extended-release tablets for a condition for which it was not prescribed.
-Do not give glipizide extended-release tablets to other people, even if they have the same symptoms you have.
+Do not use glipizide extended-release tablet for a condition for which it was not prescribed.
+Do not give glipizide extended-release tablet to other people, even if they have the same symptoms you have.
 It may harm them.
 
 This Patient Information summarizes the most important information about glipizide extended-release tablets.
@@ -122,9 +121,9 @@ For more information about glipizide extended-release tablets please call 1-(866
 What are the ingredients in Glipizide Extended-Release Tablets?
 Active ingredient: glipizide Inactive ingredients: polyethylene oxide, hypromellose, magnesium stearate, sodium chloride, red ferric oxide, cellulose acetate, polyethylene glycol, Opadry® blue (OY-LS-20921) (hypromellose, lactose monohydrate, titanium dioxide, triacetin and FD&C blue#2) (2.5 mg tablets) Opadry® white (YS-2-7063) (hypromellose, titanium dioxide and polyethylene glycol) (5 mg and 10 mg tablet) Opacode® Black Ink (S-1-277001) (shellac, ferrosoferric oxide, propylene glycol)
 
-Manufactured for: Rising Pharmaceuticals, Inc. Allendale, NJ 07401
+Manufactured by: Unique Pharmaceutical Laboratories (A Div. of J. B. Chemicals & Pharmaceuticals Ltd.), Mumbai 400 030, India.
 
-Manufactured by: Unique Pharmaceutical Laboratories (A Div. of J. B. Chemicals & Pharmaceuticals Ltd.), Mumbai 400 030, India
+Distributed by: Rising Pharmaceuticals, Inc. Saddle Brook, NJ 07663
 
-118218 Jan.
-2017
+Oct.
+2018
