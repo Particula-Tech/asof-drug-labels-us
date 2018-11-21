@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA208453"
+  ],
+  "inn": "abiraterone",
+  "labeler": "Apotex Corp.",
+  "package_ndcs": [
+    "60505-4327-1",
+    "60505-4327-3"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "abiraterone acetate",
+      "name": "Abiraterone Acetate"
+    }
+  ],
+  "setid": "2ac063f0-4177-c90f-27c3-e70e29689255",
+  "source": "dailymed"
+}
