@@ -1,5 +1,3 @@
-Varibar® Honey - Barium Sulfate Suspension CAT.
-NO.: D122 NDC: 32909-122-07
+Varibar® Honey - (Barium Sulfate) Oral Suspension Bottle NDC: 32909-122-07
 
-Varibar® Honey - Box CAT.
-NO.: D122 NDC: 32909-122-07
+Varibar® Honey - (Barium Sulfate) Oral Suspension Box NDC: 32909-122-07

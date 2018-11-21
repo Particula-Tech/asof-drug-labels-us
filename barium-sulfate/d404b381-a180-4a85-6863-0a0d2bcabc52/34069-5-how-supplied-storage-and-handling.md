@@ -1,14 +1,13 @@
-# STORAGE
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Store VARIBAR® HONEY at USP Controlled Room Temperature, 20 to 25°C (68 to 77°F).
-Protect from freezing.
+## 16.1 How Supplied
 
-# HOW SUPPLIED
+VARIBAR HONEY is supplied as a suspension in a multiple-dose polyethylene bottle containing 250 mL of barium sulfate (40 % w/v).
 
-VARIBAR® HONEY is supplied in the following quantity: 250 mL bottle, Cat.
-No. D122, NDC 32909-122-07
+Provided as: 12 x 250 mL bottles (NDC 32909-122-07)
 
-Manufactured by E-Z-EM Canada Inc. for E-Z-EM, Inc. a subsidiary of Bracco Diagnostics Inc. Monroe Township, NJ 08831 Tel: 1-516-333-8230 1-800 544-4624
+## 16.2 Storage and Handling
 
-rev.
-03/15 TX1746
+Store at USP controlled room temperature 20 to 25°C (68 to 77° F). Protect from freezing.
+
+Once opened, VARIBAR HONEY may be used for up to 21 days when stored at USP controlled room temperature, 20 to 25°C (68 to 77° F).
