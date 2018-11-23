@@ -14,7 +14,9 @@ Hospira, Inc., Lake Forest, IL 60045 USA Hospira
 
 # PRINCIPAL DISPLAY PANEL - 1 mg/mL Ampule Box
 
-1 mL 10 Single-use ampuls NDC 0409-2552-01 Rx only
+1 mL 10 Single-use ampuls
+
+NDC 0409-2552-01 Rx only
 
 HYDROmorphone HCl Injection, USP 1 mg/mL CII
 
@@ -48,7 +50,9 @@ Hospira, Inc., Lake Forest, IL 60045 USA Hospira
 
 # PRINCIPAL DISPLAY PANEL - 2 mg/mL Ampule Box
 
-NDC 0409-3356-01 Rx only 1 mL 10 Single-use ampuls
+1 mL 10 Single-use ampuls
+
+NDC 0409-3356-01 Rx only
 
 HYDROmorphone HCl Injection, USP 2 mg/mL CII
 
@@ -80,9 +84,9 @@ Hospira, Inc., Lake Forest, IL 60045 USA Hospira
 
 # PRINCIPAL DISPLAY PANEL - 4 mg/mL Ampule Box
 
-NDC 0409-2540-01 Rx only
-
 1 mL 10 Single-use ampuls
+
+NDC 0409-2540-01 Rx only
 
 HYDROmorphone HCl Injection, USP 4 mg/mL CII
 
@@ -102,13 +106,15 @@ Hospira
 
 1mL Single-use vial Rx only NDC 0409-3365-11
 
-HYDROmorphone HCl Injection, USP 2 mg/mL CII
+HYDROmorphone HCl Injection, USP
+
+2 mg/mL CII
 
 PROTECT FROM LIGHT
 
 Hospira, Inc., Lake Forest, IL 60045 USA Hospira
 
-RL - 4974
+RL-6900
 
 # PRINCIPAL DISPLAY PANEL - 2 mg/mL Vial Tray
 
@@ -124,9 +130,11 @@ Hospira, Inc., Lake Forest, IL 60045 USA Hospira
 
 1 mL Single-use Carpuject™ Sterile Cartridge Unit with Luer Lock
 
-NDC 0409-1283-03 Rx only RL-4951
+NDC 0409-1283-03 Rx only
 
 HYDROmorphone HCl Injection, USP 1 mg/mL CII
+
+RL-5555
 
 PROTECT FROM LIGHT
 
@@ -134,7 +142,9 @@ Hospira, Inc., Lake Forest, IL 60045 USA Hospira
 
 # PRINCIPAL DISPLAY PANEL - 1 mg/mL Cartridge Box
 
-NDC 0409-1283-31 Rx only 1 mL Single-use
+1 mL Single-use
+
+NDC 0409-1283-31 Rx only
 
 10 Carpuject™ Sterile Cartridge Units with Luer Lock
 
@@ -160,7 +170,7 @@ PROTECT FROM LIGHT
 
 RL-4939
 
-# PRINCIPAL DISPLAY PANEL - 1 mg/mL Syringe Pack
+# PRINCIPAL DISPLAY PANEL - 1 mg/mL Syringe Label - 6699
 
 NDC 0409-1283-09 Rx only
 
@@ -174,15 +184,13 @@ PROTECT FROM LIGHT
 
 Hospira, Inc. Lake Forest, IL 60045 USA Hospira
 
-RL-4940
+RL-6699
 
-# PRINCIPAL DISPLAY PANEL - 1 mg/mL Syringe Pack Box
+# PRINCIPAL DISPLAY PANEL - 1 mg/mL Syringe Box
+
+10 x 1 mL Single-use Prefilled Syringe with Luer Lock
 
 NDC 0409-1283-10 Rx only
-
-10 x 1 mL
-
-Single-use Prefilled Syringe with Luer Lock
 
 iSecure™ SYRINGE
 
@@ -200,7 +208,7 @@ HYDROmorphone HCl Injection, USP 0.5 mg/0.5 mL PROTECT FROM LIGHT CII
 
 RL-4937
 
-# PRINCIPAL DISPLAY PANEL - 0.5 mL Syringe Pack
+# PRINCIPAL DISPLAY PANEL - 0.5 mL Syringe Label - 6698
 
 NDC 0409-1283-04 Rx only
 
@@ -212,17 +220,17 @@ HYDROmorphone HCl Injection, USP 0.5 mg/0.5 mL CII
 
 PROTECT FROM LIGHT
 
-Hospira Inc. Lake Forest, IL 60045 USA Hospira
+Hospira Inc. Lake Forest, IL 60045 USA
 
-RL-4938
+Hospira
 
-# PRINCIPAL DISPLAY PANEL - 0.5 mg Syringe Pack Box
+RL-6698
+
+# PRINCIPAL DISPLAY PANEL - 0.5 mL Syringe Box
+
+10 x 0.5 mL Single-use Prefilled Syringe with Luer Lock
 
 NDC 0409-1283-05 Rx only
-
-10 x 0.5 mL
-
-Single-use Prefilled Syringe with Luer Lock
 
 iSecure™ SYRINGE
 
@@ -242,13 +250,15 @@ PROTECT FROM LIGHT Hospira, Inc., Lake Forest, IL 60045 USA
 
 Hospira
 
-RL-4953
+RL-5554
 
 # PRINCIPAL DISPLAY PANEL - 2 mg/mL Cartridge Box
 
+1 mL Single-use
+
 NDC 0409-1312-30 Rx only
 
-1 mL Single-use 10 Carpuject™ Sterile Cartridge Units with Luer Lock
+10 Carpuject™ Sterile Cartridge Units with Luer Lock
 
 Needle not included
 
@@ -272,7 +282,7 @@ PROTECT FROM LIGHT
 
 RL-4941
 
-# PRINCIPAL DISPLAY PANEL - 2 mg/mL Syringe Pack
+# PRINCIPAL DISPLAY PANEL - 2 mg/mL Syringe Label - 6715
 
 NDC 0409-1312-09 Rx only
 
@@ -286,15 +296,13 @@ PROTECT FROM LIGHT
 
 Hospira, Inc. Lake Forest, IL 60045 USA Hospira
 
-RL-4942
+RL-6715
 
-# PRINCIPAL DISPLAY PANEL - 2 mg/mL Syringe Pack Box
+# PRINCIPAL DISPLAY PANEL - 2 mg/mL Syringe Box
+
+10 x 1 mL Single-use Prefilled Syringe with Luer Lock
 
 NDC 0409-1312-10 Rx only
-
-10 x 1 mL
-
-Single-use Prefilled Syringe with Luer Lock
 
 iSecure™ SYRINGE
 
@@ -314,15 +322,17 @@ HYDROmorphone HCl Injection, USP 4 mg/mL CII
 
 PROTECT FROM LIGHT
 
-Hospira, Inc., Lake Forest, IL 60045 USA Hospira
+Hospira Hospira, Inc., Lake Forest, IL 60045 USA
 
-RL-4952
+RL-5556
 
 # PRINCIPAL DISPLAY PANEL - 4 mg/mL Cartridge Box
 
+1 mL Single-use
+
 NDC 0409-1304-31 Rx only
 
-1 mL Single-use 10 Carpuject™ Sterile Cartridge Units with Luer Lock
+10 Carpuject™ Sterile Cartridge Units with Luer Lock
 
 Needle not included
 
