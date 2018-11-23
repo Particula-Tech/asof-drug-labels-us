@@ -5,9 +5,9 @@ This drug should only be administered by experienced clinicians or trained indiv
 Doses of rocuronium bromide injection should be individualized and a peripheral nerve stimulator should be used to monitor drug effect, need for additional doses, adequacy of spontaneous recovery or antagonism, and to decrease the complications of overdosage if additional doses are administered.
 The dosage information which follows is derived from studies based upon units of drug per unit of body weight.
 It is intended to serve as an initial guide to clinicians familiar with other neuromuscular blocking agents to acquire experience with rocuronium bromide injection.
-In patients in whom potentiation of, or resistance to, neuromuscular block is anticipated, a dose adjustment should be considered [see Dosage and Administration (2.5), Warnings and Precautions (5.9, 5.12), Drug Interactions (7.2, 7.3, 7.4, 7.5, 7.6, 7.8, 7.10), and Use in Specific Populations (8.6)].
+In patients in whom potentiation of, or resistance to, neuromuscular block is anticipated, a dose adjustment should be considered [see Dosage and Administration (2.5), Warnings and Precautions (5.10,5.13), Drug Interactions (7.2, 7.3, 7.4, 7.5, 7.6, 7.8, 7.10), and Use in Specific Populations (8.6)].
 
-## 2.1 Dose for Tracheal Intubation
+## 2.1 Important Dosing and Administration Information
 
 The recommended initial dose of rocuronium bromide injection, regardless of anesthetic technique, is 0.6 mg/kg.
 Neuromuscular block sufficient for intubation (80% block or greater) is attained in a median (range) time of 1 (0.4 to 6) minute(s) and most patients have intubation completed within 2 minutes.
@@ -20,6 +20,8 @@ Maximum blockade is achieved in most patients in less than 4 minutes.
 This dose may be expected to provide 22 (12 to 31) minutes of clinical relaxation under opioid/nitrous oxide/oxygen anesthesia.
 Patients receiving this low dose of 0.45 mg/kg who achieve less than 90% block (about 16% of these patients) may have a more rapid time to 25% recovery, 12 to 15 minutes.
 A large bolus dose of 0.9 or 1.2 mg/kg can be administered under opioid/nitrous oxide/oxygen anesthesia without adverse effects to the cardiovascular system [see Clinical Pharmacology (12.2)].
+Risk of Medication Errors: Accidental administration of neuromuscular blocking agents may be fatal.
+Store rocuronium bromide injection with the cap and ferrule intact and in a manner that minimizes the possibility of selecting the wrong product [see Warnings and Precautions (5.3)].
 
 ## 2.2 Rapid Sequence Intubation
 
@@ -131,7 +133,7 @@ Rocuronium bromide injection is not recommended for rapid sequence intubation in
 
 Geriatric Patients: Geriatric patients (65 years or older) exhibited a slightly prolonged median (range) clinical duration of 46 (22 to 73), 62 (49 to 75), and 94 (64 to 138) minutes under opioid/nitrous oxide/oxygen anesthesia following doses of 0.6, 0.9, and 1.2 mg/kg, respectively.
 No differences in duration of neuromuscular blockade following maintenance doses of rocuronium bromide injection were observed between these subjects and younger subjects, but greater sensitivity of some older individuals cannot be ruled out [see Clinical Pharmacology (12.2) and Clinical Studies (14.2)].
-[See also Warnings and Precautions (5.4).]
+[See also Warnings and Precautions (5.5).]
 
 Patients with Renal or Hepatic Impairment:
 
@@ -147,7 +149,7 @@ Patients with Reduced Plasma Cholinesterase Activity: Rocuronium metabolism does
 
 Patients with Prolonged Circulation Time:
 
-Because higher doses of rocuronium bromide injection produce a longer duration of action, the initial dosage should usually not be increased in these patients to reduce onset time; instead, in these situations, when feasible, more time should be allowed for the drug to achieve onset of effect [see Warnings and Precautions (5.7)].
+Because higher doses of rocuronium bromide injection produce a longer duration of action, the initial dosage should usually not be increased in these patients to reduce onset time; instead, in these situations, when feasible, more time should be allowed for the drug to achieve onset of effect [see Warnings and Precautions (5.8)].
 
 Patients with Drugs or Conditions Causing Potentiation of Neuromuscular Block:
 
@@ -162,6 +164,6 @@ Diluent Compatibility: Rocuronium bromide injection is compatible in solution wi
 Drug Admixture Incompatibility: Rocuronium bromide injection is physically incompatible when mixed with the following drugs: amphotericin hydrocortisone sodium succinate amoxicillin insulin azathioprine Intralipid cefazolin ketorolac cloxacillin lorazepam dexamethasone methohexital diazepam methylprednisolone erythromycin thiopental famotidine trimethoprim furosemide vancomycin If rocuronium bromide injection is administered via the same infusion line that is also used for other drugs, it is important that this infusion line is adequately flushed between administration of rocuronium bromide injection and drugs for which incompatibility with rocuronium bromide injection has been demonstrated or for which compatibility with rocuronium bromide injection has not been established.
 Infusion solutions should be used within 24 hours of mixing.
 Unused portions of infusion solutions should be discarded.
-Rocuronium bromide injection should not be mixed with alkaline solutions [see Warnings and Precautions (5.10)].
+Rocuronium bromide injection should not be mixed with alkaline solutions [see Warnings and Precautions (5.11)].
 Visual Inspection: Parenteral drug products should be inspected visually for particulate matter and clarity prior to administration whenever solution and container permit.
 Do not use solution if particulate matter is present.
