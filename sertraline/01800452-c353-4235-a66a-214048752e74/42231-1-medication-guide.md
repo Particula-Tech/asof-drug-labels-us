@@ -244,12 +244,12 @@ Distributed by:
 
 Aurobindo Pharma USA, Inc.
 
-2400 Route 130 North
+279 Princeton-Hightstown Road
 
-Dayton, NJ 08810
+East Windsor, NJ 08520
 
 Manufactured by: Aurobindo Pharma Limited
 
 Hyderabad-500 038, India
 
-Revised: 01/2018
+Revised: 11/2018
