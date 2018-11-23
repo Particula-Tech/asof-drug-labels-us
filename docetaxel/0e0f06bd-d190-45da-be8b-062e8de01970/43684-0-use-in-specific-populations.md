@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see ‘Warnings and Precautions’ section]
+Pregnancy Category D [see Warnings and Precautions (5.11)]
 
 Based on its mechanism of action and findings in animals, Docetaxel Injection can cause fetal harm when administered to a pregnant woman.
 If Docetaxel Injection is used during pregnancy, or if the patient becomes pregnant while receiving this drug, the patient should be apprised of the potential hazard to the fetus.
@@ -19,7 +19,7 @@ Because many drugs are excreted in human milk, and because of the potential for 
 
 ## 8.4 Pediatric Use
 
-The alcohol content of Docetaxel Injection should be taken into account when given to pediatric patients [see Warningsand Precautions(5.11)].
+The alcohol content of Docetaxel Injection should be taken into account when given to pediatric patients [see Warningsand Precautions(5.12)].
 
 The efficacy of docetaxel in pediatric patients as monotherapy or in combination has not been established.
 The overall safety profile of docetaxel in pediatric patients receiving monotherapy or TCF was consistent with the known safety profile in adults.
@@ -48,7 +48,7 @@ Pharmacokinetic parameters for docetaxel were determined in 2 pediatric solid tu
 Following docetaxel administration at 55 mg/m2 to 235 mg/m2 in a 1-hour intravenous infusion every 3 weeks in 25 patients aged 1 to 20 years (median 11 years), docetaxel clearance was 17.3±10.9 L/h/m2.
 
 Docetaxel was administered in combination with cisplatin and 5-fluorouracil (TCF), at dose levels of 75 mg/m2 in a 1-hour intravenous infusion day 1 in 28 patients aged 10 to 21 years (median 16 years, 17 patients were older than 16).
-Docetaxel clearance was 17.9±8.75 L/h/m2, corresponding to an AUC of 4.20 2.57 µg.h/mL.
+Docetaxel clearance was 17.9±8.75 L/h/m2, corresponding to an AUC of 4.20±2.57 µg.h/mL.
 
 In summary, the body surface area adjusted clearance of docetaxel monotherapy and TCF combination in children were comparable to those in adults [see Clinical Pharmacology (12.3)].
 
@@ -78,7 +78,7 @@ The number of elderly patients who received this regimen was not sufficient to d
 
 Gastric Cancer
 
-Among the 221 patients treated with docetaxel in combination with cisplatin and fluorouracil in the gastric cancer study, 54 were 65 years of age or older and 2 patients were older than 75 years.
+Among the 221 patients treated with docetaxel injection in combination with cisplatin and fluorouracil in the gastric cancer study, 54 were 65 years of age or older and 2 patients were older than 75 years.
 In this study, the number of patients who were 65 years of age or older was insufficient to determine whether they respond differently from younger patients.
 However, the incidence of serious adverse reactions was higher in the elderly patients compared to younger patients.
 The incidence of the following adverse reactions (all grades, regardless of relationship): lethargy, stomatitis, diarrhea, dizziness, edema, febrile neutropenia/neutropenic infection occurred at rates ≥10% higher in patients who were 65 years of age or older compared to younger patients.
@@ -86,7 +86,7 @@ Elderly patients treated with TCF should be closely monitored.
 
 Head and Neck Cancer
 
-Among the 174 and 251 patients who received the induction treatment with docetaxel in combination with cisplatin and fluorouracil (TPF) for SCCHN in the TAX323 and TAX324 studies, 18 (10%) and 32 (13%) of the patients were 65 years of age or older, respectively.
+Among the 174 and 251 patients who received the induction treatment with docetaxel injection in combination with cisplatin and fluorouracil (TPF) for SCCHN in the TAX323 and TAX324 studies, 18 (10%) and 32 (13%) of the patients were 65 years of age or older, respectively.
 
 These clinical studies of docetaxel in combination with cisplatin and fluorouracil in patients with SCCHN did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger patients.
 Other reported clinical experience with this treatment regimen has not identified differences in responses between elderly and younger patients.

@@ -44,6 +44,10 @@ Severe hypersensitivity reactions characterized by generalized rash/erythema, hy
 Severe hypersensitivity reactions require immediate discontinuation of the Docetaxel Injection infusion and aggressive therapy.
 Patients with a history of severe hypersensitivity reactions should not be rechallenged with Docetaxel Injection.
 
+Cross-hypersensitivity between paclitaxel and docetaxel has been reported.
+This may include more severe reactions such as anaphylactic reactions.
+These patients should be closely monitored during initiation of docetaxel therapy.
+
 Hypersensitivity reactions may occur within a few minutes following initiation of a Docetaxel Injection infusion.
 If minor reactions such as flushing or localized skin reactions occur, interruption of therapy is not required.
 All patients should be premedicated with an oral corticosteroid prior to the initiation of the infusion of Docetaxel Injection [see Dosage and Administration (2.6)].
@@ -60,6 +64,7 @@ Among 92 breast cancer patients premedicated with 3-day corticosteroids, moderat
 The median cumulative dose to onset of moderate or severe fluid retention was 819 mg/m2.
 Nine of 92 patients (9.8%) of patients discontinued treatment due to fluid retention: 4 patients discontinued with severe fluid retention; the remaining 5 had mild or moderate fluid retention.
 The median cumulative dose to treatment discontinuation due to fluid retention was 1021 mg/m2.
+
 Fluid retention was completely, but sometimes slowly, reversible with a median of 16 weeks from the last infusion of docetaxel to resolution (range: 0 to 42+ weeks).
 Patients developing peripheral edema may be treated with standard measures, e.g., salt restriction, oral diuretic(s).
 
@@ -69,7 +74,7 @@ Treatment-related acute myeloid leukemia (AML) or myelodysplasia has occurred in
 In the adjuvant breast cancer trial (TAX316) AML occurred in 3 of 744 patients who received docetaxel, doxorubicin and cyclophosphamide (TAC) and in 1 of 736 patients who received fluorouracil, doxorubicin and cyclophosphamide [see Clinical Studies (14.2)].
 In TAC-treated patients, the risk of delayed myelodysplasia or myeloid leukemia requires hematological follow-up.
 
-## 5.7 Cutaneous Reactions
+## 5.7 Cutaneous Reaction
 
 Localized erythema of the extremities with edema followed by desquamation has been observed.
 In case of severe skin toxicity, an adjustment in dosage is recommended [see Dosage and Administration (2.7)].
@@ -96,16 +101,7 @@ Alternative non-taxane cancer treatment should be considered.
 Severe asthenia has been reported in 14.9% (144/965) of metastatic breast cancer patients but has led to treatment discontinuation in only 1.8%.
 Symptoms of fatigue and weakness may last a few days up to several weeks and may be associated with deterioration of performance status in patients with progressive disease.
 
-## 5.11 Alcohol Content
-
-Cases of intoxication have been reported with some formulations of docetaxel due to the alcohol content.
-The alcohol content in a dose of Docetaxel Injection may affect the central nervous system and should be taken into account for patients in whom alcohol intake should be avoided or minimized.
-Consideration should be given to the alcohol content in Docetaxel Injection on the ability to drive or use machines immediately after the infusion.
-Each administration of Docetaxel Injection at 100 mg/m2 delivers 2.6 g/m2 of ethanol.
-For a patient with a BSA of 2.0 m2, this would deliver 5.2 grams of ethanol [see Description (11)].
-Other docetaxel products may have a different amount of alcohol.
-
-## 5.12 Use in Pregnancy
+## 5.11 Use in Pregnancy
 
 Docetaxel Injection can cause fetal harm when administered to a pregnant woman.
 Docetaxel caused embryofetal toxicities including intrauterine mortality when administered to pregnant rats and rabbits during the period of organogenesis.
@@ -114,3 +110,12 @@ Embryofetal effects in animals occurred at doses as low as 1/50 and 1/300 the re
 There are no adequate and well-controlled studies in pregnant women using Docetaxel Injection.
 If Docetaxel Injection is used during pregnancy, or if the patient becomes pregnant while receiving this drug, the patient should be apprised of the potential hazard to the fetus.
 Women of childbearing potential should be advised to avoid becoming pregnant during therapy with Docetaxel Injection [see Use in Specific Populations (8.1)].
+
+## 5.12 Alcohol Content
+
+Cases of intoxication have been reported with some formulations of docetaxel due to the alcohol content.
+The alcohol content in a dose of Docetaxel Injection may affect the central nervous system and should be taken into account for patients in whom alcohol intake should be avoided or minimized.
+Consideration should be given to the alcohol content in Docetaxel Injection on the ability to drive or use machines immediately after the infusion.
+Each administration of Docetaxel Injection at 100 mg/m2 delivers 1.8 g/m2 of ethanol.
+For a patient with a BSA of 2.0 m2, this would deliver 3.6 grams of ethanol [see Description (11)].
+Other docetaxel products may have a different amount of alcohol.

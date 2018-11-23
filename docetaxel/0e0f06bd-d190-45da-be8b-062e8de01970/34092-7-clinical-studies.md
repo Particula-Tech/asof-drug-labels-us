@@ -201,8 +201,8 @@ Figure 5 - TAX327 Survival K-M Curves
 
 ## 14.5 Gastric Adenocarcinoma
 
-A multicenter, open-label, randomized trial was conducted to evaluate the safety and efficacy of docetaxel for the treatment of patients with advanced gastric adenocarcinoma, including adenocarcinoma of the gastroesophageal junction, who had not received prior chemotherapy for advanced disease.
-A total of 445 patients with KPS >70 were treated with either docetaxel (T) (75 mg/m2 on day 1) in combination with cisplatin (C) (75 mg/m2 on day 1) and fluorouracil (F) (750 mg/m2 per day for 5 days) or cisplatin (100 mg/m2 on day 1) and fluorouracil (1000 mg/m2 per day for 5 days).
+A multicenter, open-label, randomized trial was conducted to evaluate the safety and efficacy of docetaxel injection for the treatment of patients with advanced gastric adenocarcinoma, including adenocarcinoma of the gastroesophageal junction, who had not received prior chemotherapy for advanced disease.
+A total of 445 patients with KPS >70 were treated with either docetaxel injection (T) (75 mg/m2 on day 1) in combination with cisplatin (C) (75 mg/m2 on day 1) and fluorouracil (F) (750 mg/m2 per day for 5 days) or cisplatin (100 mg/m2 on day 1) and fluorouracil (1000 mg/m2 per day for 5 days).
 The length of a treatment cycle was 3 weeks for the TCF arm and 4 weeks for the CF arm.
 The demographic characteristics were balanced between the two treatment arms.
 The median age was 55 years, 71% were male, 71% were Caucasian, 24% were 65 years of age or older, 19% had a prior curative surgery and 12% had palliative surgery.
@@ -213,11 +213,11 @@ Approximately 75% of patients had died at the time of this analysis.
 Overall survival was significantly longer (p=0.0201) in the TCF arm with a HR of 1.29 (95% CI: 1.04 to 1.61).
 Efficacy results are summarized in Table 19 and Figures 6 and 7.
 
-Table 19: Efficacy of Docetaxel in the Treatment of Patients with Gastric Adenocarcinoma
+Table 19: Efficacy of Docetaxel Injection in the Treatment of Patients with Gastric Adenocarcinoma
 
 | Endpoint | TCFn=221 | CFn=224 |
 | --- | --- | --- |
-| Median TTP (months) (95% CI)Hazard ratioFor the hazard ratio (TCF/CF), values less than 1.00 favor the docetaxel arm.(95% CI)Unstratified log-rank testp-value | 5.6 (4.86-5.91) | 3.7 (3.45-4.47) |
+| Median TTP (months) (95% CI)Hazard ratioFor the hazard ratio (TCF/CF), values less than 1.00 favor the docetaxel injection arm.(95% CI)Unstratified log-rank test.p-value | 5.6 (4.86-5.91) | 3.7 (3.45-4.47) |
 | 0.68 (0.55-0.84) 0.0004 |  |  |
 | Median survival (months) (95% CI)Hazard ratio(95% CI)p-value | 9.2 (8.38-10.58) | 8.6 (7.16-9.46) |
 | 0.77 (0.62-0.96)0.0201 |  |  |
@@ -232,11 +232,11 @@ Figure 7 - Gastric Cancer Study (TAX325) Survival K-M Curve
 
 ## 14.6 Head and Neck Cancer
 
-Induction chemotherapy followed by radiotherapy (TAX323)
+Induction chemotherapy followed by Radiotherapy (TAX323)
 
-The safety and efficacy of docetaxel in the induction treatment of patients with squamous cell carcinoma of the head and neck (SCCHN) was evaluated in a multicenter, open-label, randomized trial (TAX323).
+The safety and efficacy of docetaxel injection in the induction treatment of patients with squamous cell carcinoma of the head and neck (SCCHN) was evaluated in a multicenter, open-label, randomized trial (TAX323).
 In this study, 358 patients with inoperable locally advanced SCCHN, and WHO performance status 0 or 1, were randomized to one of two treatment arms.
-Patients on the docetaxel arm received docetaxel (T) 75 mg/m2 followed by cisplatin (P) 75 mg/m2 on Day 1, followed by fluorouracil (F) 750 mg/m2 per day as a continuous infusion on Days 1 to 5.
+Patients on the docetaxel injection arm received docetaxel injection (T) 75 mg/m2 followed by cisplatin (P) 75 mg/m2 on Day 1, followed by fluorouracil (F) 750 mg/m2 per day as a continuous infusion on Days 1 to 5.
 The cycles were repeated every three weeks for 4 cycles.
 Patients whose disease did not progress received radiotherapy (RT) according to institutional guidelines (TPF/RT).
 Patients on the comparator arm received cisplatin (P) 100 mg/m2 on Day 1, followed by fluorouracil (F) 1000 mg/m2 /day as a continuous infusion on Days 1 to 5.
@@ -250,9 +250,9 @@ The primary endpoint in this study, progression-free survival (PFS), was signifi
 Median overall survival with a median follow-up of 51.2 months was also significantly longer in favor of the TPF arm compared to the PF arm (median OS: 18.6 vs. 14.2 months respectively).
 Efficacy results are presented in Table 20 and Figures 8 and 9.
 
-1. Table 20: Efficacy of Docetaxel in the Induction Treatment of Patients with Inoperable Locally Advanced SCCHN (Intent-to-Treat Analysis)
+1. Table 20: Efficacy of Docetaxel Injection in the Induction Treatment of Patients with Inoperable Locally Advanced SCCHN (Intent-to-Treat Analysis)
 
-| ENDPOINT | Docetaxel + Cisplatin+ Fluorouraciln=177 | Cisplatin+ Fluorouracil n=181 |
+| ENDPOINT | Docetaxel Injection + Cisplatin+ Fluorouraciln=177 | Cisplatin+ Fluorouracil n=181 |
 | --- | --- | --- |
 | Median progression free survival (months) | 11.4 | 8.3 |
 | (95% CI) | (10.1-14.0) | (7.4-9.1) |
@@ -270,7 +270,7 @@ Figure 8 - TAX323 Progression-Free Survival K-M Curve
 
 Figure 9 - TAX323 Overall Survival K-M Curve
 
-Induction chemotherapy followed by chemoradiotherapy (TAX324)
+Induction Chemotherapy Followed by Chemoradiotherapy (TAX324)
 
 The safety and efficacy of docetaxel in the induction treatment of patients with locally advanced (unresectable, low surgical cure, or organ preservation) SCCHN was evaluated in a randomized, multicenter open-label trial (TAX324).
 In this study, 501 patients, with locally advanced SCCHN, and a WHO performance status of 0 or 1, were randomized to one of two treatment arms.
@@ -282,14 +282,14 @@ The cycles were repeated every 3 weeks for 3 cycles.
 All patients in both treatment arms who did not have progressive disease were to receive 7 weeks of chemoradiotherapy (CRT) following induction chemotherapy 3 to 8 weeks after the start of the last cycle.
 During radiotherapy, carboplatin (AUC 1.5) was given weekly as a one-hour intravenous infusion for a maximum of 7 doses.
 Radiation was delivered with megavoltage equipment using once daily fractionation (2 Gy per day, 5 days per week for 7 weeks for a total dose of 70-72 Gy).
-Surgery on the primary site of disease and/or neck could be considered at any time following completion of CRT.
+Surgery on the primary site of disease and/or neck could be considered at anytime following completion of CRT.
 
 The primary efficacy endpoint, overall survival (OS), was significantly longer (log-rank test, p=0.0058) with the docetaxel-containing regimen compared to PF [median OS: 70.6 versus 30.1 months respectively, hazard ratio (HR)=0.70, 95% confidence interval (CI)= 0.54 to 0.90].
 Overall survival results are presented in Table 21 and Figure 10.
 
-1. Table 21: Efficacy of Docetaxel in the Induction Treatment of Patients with Locally Advanced SCCHN (Intent-to-Treat Analysis)
+1. Table 21: Efficacy of Docetaxel Injection in the Induction Treatment of Patients with Locally Advanced SCCHN (Intent-to-Treat Analysis)
 
-| ENDPOINT | Docetaxel + Cisplatin+ Fluorouraciln=255 | Cisplatin+ Fluorouracil n=246 |
+| ENDPOINT | Docetaxel Injection + Cisplatin+ Fluorouraciln=255 | Cisplatin+ Fluorouracil n=246 |
 | --- | --- | --- |
 | Median overall survival (months) (95% CI) | 70.6 (49.0-NE) | 30.1 (20.9-51.5) |
 | Hazard ratio: (95% CI) Un-adjusted log-rank testp-value | 0.70(0.54-0.90) 0.0058 |  |
