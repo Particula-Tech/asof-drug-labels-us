@@ -233,4 +233,10 @@ Concentrate for solution for infusion inactive ingredients: water for injection,
 
 Paraplatin® and Platinol® are registered trademarks of Bristol-Myers Squibb Company.
 
-Revised: 11/2015 Oxaliplatin Injection, USP (concentrate solution for infusion) Manufactured by: Zydus Hospira Oncology Pvt Ltd District Ahmedabad 382-213 Gujarat India EN-4132 Manufactured for: Hospira, Inc. Lake Forest, IL 60045
+Oxaliplatin Injection, USP (concentrate solution for infusion)
+
+Distributed by Hospira, Inc., Lake Forest, IL 60045
+
+LAB-1359-1.0
+
+Revised: 9/2018
