@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA208446"
+  ],
+  "inn": "abiraterone",
+  "labeler": "Mylan Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0378-6920-37",
+    "0378-6920-78"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "abiraterone acetate",
+      "name": "Abiraterone Acetate"
+    }
+  ],
+  "setid": "fe02db79-fa04-441f-b514-70bd74af6624",
+  "source": "dailymed"
+}
