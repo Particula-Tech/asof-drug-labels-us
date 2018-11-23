@@ -210,12 +210,11 @@ Temozolomide capsules 250 mg: The white cap contains gelatin, titanium dioxide a
 ®The brands listed are trademarks of their respective owners.
 
 Manufactured For: Accord Healthcare, Inc., 1009 Slater Road, Suite 210-B, Durham, NC 27703, USA.
-Manufactured By: Intas Pharmaceuticals Limited, Plot No.: 457, 458, Village – Matoda, Bavla Road, Ta.- Sanand, Dist.- Ahmedabad – 382 210.
-India.
+Manufactured By: Intas Pharmaceuticals Limited, Ahmedabad – 380 054, India.
 
-10 6947 2 661726
+10 1475 1 687163
 
-Issued January 2017
+Issued July 2018
 
 Temozolomide Capsules
 
@@ -379,11 +378,22 @@ For examples of other dosing regimens, please refer to the full Prescribing Info
 | 180-mg capsules (5 count) | 16729-130-53 |
 | 180-mg capsules (14 count) | 16729-130-54 |
 | 250-mg capsules (5 count) | 16729-051-53 |
+| Sachet Packs (Carton Contains Individual Sachet with One Capsule each): |  |
+| 5-mg capsules (5 count) | 16729-048-31 |
+| 5-mg capsules (14 count) | 16729-048-04 |
+| 20-mg capsules (5 count) | 16729-049-31 |
+| 20-mg capsules (14 count) | 16729-049-04 |
+| 100-mg capsules (5 count) | 16729-050-31 |
+| 100-mg capsules (14 count) | 16729-050-04 |
+| 140-mg capsules (5 count) | 16729-129-31 |
+| 140-mg capsules (14 count) | 16729-129-04 |
+| 180-mg capsules (5 count) | 16729-130-31 |
+| 180-mg capsules (14 count) | 16729-130-04 |
+| 250-mg capsules (5 count) | 16729-051-31 |
 
 Manufactured For: Accord Healthcare, Inc., 1009 Slater Road, Suite 210-B, Durham, NC 27703, USA.
-Manufactured By: Intas Pharmaceuticals Limited, Plot No.: 457, 458, Village – Matoda, Bavla Road, Ta.- Sanand, Dist.- Ahmedabad – 382 210.
-India.
+Manufactured By: Intas Pharmaceuticals Limited, Ahmedabad – 380 054, India.
 
-10 6947 2 661726
+10 1475 1 687163
 
-Issued January 2017
+Issued July 2018

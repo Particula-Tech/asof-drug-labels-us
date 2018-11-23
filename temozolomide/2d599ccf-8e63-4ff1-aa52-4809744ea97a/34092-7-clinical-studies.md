@@ -13,7 +13,7 @@ Pneumocystis pneumonia (PCP) prophylaxis was required during the TMZ + RT, regar
 At the time of disease progression, temozolomide was administered as salvage therapy in 161 patients of the 282 (57%) in the RT alone arm, and 62 patients of the 277 (22%) in the temozolomide+RT arm.
 
 The addition of concomitant and maintenance temozolomide to radiotherapy in the treatment of patients with newly diagnosed GBM showed a statistically significant improvement in overall survival compared to radiotherapy alone (Figure 1).
-The hazard ratio (HR) for overall survival was 0.63 (95% CI for HR=0.52 -0.75) with a log-rank P<0.0001 in favor of the temozolomide arm.
+The hazard ratio (HR) for overall survival was 0.63 (95% CI for HR=0.52 to 0.75) with a log-rank P<0.0001 in favor of the temozolomide arm.
 The median survival was increased by 2.5 months in the temozolomide arm.
 
 FIGURE 1: Kaplan-Meier Curves for Overall Survival (ITT Population)

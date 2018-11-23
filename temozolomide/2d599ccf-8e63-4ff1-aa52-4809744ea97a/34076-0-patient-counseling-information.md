@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-[see FDA-Approved Patient Labeling (Patient Information)].
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
 ## 17.1 Information for the Patient
 
@@ -14,9 +14,8 @@ Physicians should discuss the following with their patients:
 
 Manufactured For: Accord Healthcare, Inc., 1009 Slater Road, Suite 210-B, Durham, NC 27703, USA.
 
-Manufactured By: Intas Pharmaceuticals Limited, Plot No.: 457, 458, Village – Matoda, Bavla Road, Ta.- Sanand, Dist.- Ahmedabad – 382 210.
-India.
+Manufactured By: Intas Pharmaceuticals Limited, Ahmedabad – 380 054, India.
 
-10 6947 2 661726
+10 1475 1 687163
 
-Issued January 2017
+Issued July 2018
