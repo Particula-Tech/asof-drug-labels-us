@@ -6,15 +6,15 @@ Lantus® insulin glargine injection
 
 100 units/mL (U-100)
 
-One 10 mL Vial
+For subcutaneous injection only
 
 Do not mix with other insulins
 
 Use only if solution is clear and colorless with no particles visible
 
-For subcutaneous injection only
-
 Use with U-100 syringe only
+
+One 10 mL Vial
 
 NOVAPLUS®
 
