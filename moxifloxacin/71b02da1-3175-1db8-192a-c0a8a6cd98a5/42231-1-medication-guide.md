@@ -316,8 +316,8 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 0317
+Revised: 1118
 
-Dispense the medication guide available at:
+Dispense the Medication Guide available at:
 
 www.drreddys.com/medguide/moxifloxacintabs.pdf

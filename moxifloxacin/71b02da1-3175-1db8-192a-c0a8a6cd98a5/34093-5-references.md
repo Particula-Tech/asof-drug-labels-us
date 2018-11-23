@@ -14,7 +14,7 @@ CLSI document M02-A12 [2015], Clinical and Laboratory Standards Institute, 950 W
 
 4.
 Clinical and Laboratory Standards Institute (CLSI).
-Methods for Antimicrobial Dilution and Disk Susceptibility Testing for Infrequently Isolated or Fastidious Bacteria: Approved Guidelines—Third Edition CLSI document M45A3 [2016], Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA.
+Methods for Antimicrobial Dilution and Disk Susceptibility Testing for Infrequently Isolated or Fastidious Bacteria: Approved Guidelines—Third Edition CLSI document M45-A3 [2016], Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA.
 
 5.
 Clinical and Laboratory Standards Institute (CLSI).
