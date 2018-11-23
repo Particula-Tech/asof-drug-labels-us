@@ -6,7 +6,7 @@ Oxycodone HCl tablets contains oxycodone, a Schedule II controlled substance.
 
 ## 9.2 Abuse
 
-Oxycodone HCl tablets contains oxycodone, a substance with a high potential for abuse similar to other opioids including fentanyl, hydrocodone hydromorphone, methadone, morphine, oxymorphone, and tapentadol.
+Oxycodone HCl tablets contains oxycodone, a substance with a high potential for abuse similar to other opioids including fentanyl, hydrocodone, hydromorphone, methadone, morphine, oxymorphone, and tapentadol.
 Oxycodone HCl can be abused and is subject to misuse, addiction, and criminal diversion [see Warnings and Precautions (5.1)].
 
 All patients treated with opioids require careful monitoring for signs of abuse and addiction, because use of opioid analgesic products carries the risk of addiction even under appropriate medical use.

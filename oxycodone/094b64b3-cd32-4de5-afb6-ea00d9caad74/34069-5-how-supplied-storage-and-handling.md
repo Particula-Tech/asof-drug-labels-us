@@ -56,7 +56,7 @@ Bottles of 250: NDC 65162-051-25
 
 Bottles of 500: NDC 65162-051-50
 
-DEA Order Form Required
+DEA Order Form Required.
 
 Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure.
 

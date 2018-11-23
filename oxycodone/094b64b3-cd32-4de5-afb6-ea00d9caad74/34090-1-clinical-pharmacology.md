@@ -81,7 +81,8 @@ Absorption
 
 About 60% to 87% of an oral dose of oxycodone reaches the systemic circulation in comparison to a parenteral dose.
 This high oral bioavailability (compared to other oral opioids) is due to lower presystemic and/or first-pass metabolism of oxycodone.
-The relative oral bioavailability of oxycodone HCl 15 mg and 30 mg tablets, compared to the 5 mg oxycodone HCl tablets, is 96% and 101% respectively. oxycodone HCl 15 mg tablets and 30 mg tablets are bioequivalent to the 5 mg oxycodone HCl tablet (see Table 2 for pharmacokinetic parameters).
+The relative oral bioavailability of oxycodone HCl 15 mg and 30 mg tablets, compared to the 5 mg oxycodone HCl tablets, is 96% and 101% respectively.
+Oxycodone HCl 15 mg tablets and 30 mg tablets are bioequivalent to the 5 mg oxycodone HCl tablet (see Table 2 for pharmacokinetic parameters).
 Dose proportionality of oxycodone has been established using the oxycodone HCl 5 mg tablets at doses of 5 mg, 15 mg (three 5 mg tablets) and 30 mg (six 5 mg tablets) based on extent of absorption (AUC) (see Figure 1).
 It takes approximately 18 to 24 hours to reach steady-state plasma concentrations of oxycodone with oxycodone HCl tablets.
 

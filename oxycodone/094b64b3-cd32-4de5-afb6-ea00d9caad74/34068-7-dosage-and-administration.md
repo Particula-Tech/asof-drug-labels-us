@@ -6,7 +6,7 @@ Use the lowest effective dosage for the shortest duration consistent with indivi
 
 Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
 
-Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy and following dosage increases with oxycodone HCl tablets and adjust the dosage accordingly [see Warnings and Precautions (5.2)].
+Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy and following dosage increases with oxycodone HCl tablets and adjust the dosage accordingly [see Warnings and Precautions (5.3)].
 
 ## 2.2 Initial Dosage
 
@@ -31,14 +31,14 @@ If a patient has been receiving opioid-containing medications prior to taking ox
 In converting patients from other opioids to oxycodone HCl tablets close observation and adjustment of dosage based upon the patient’s response to oxycodone HCl tablets are imperative.
 Administration of supplemental analgesia for breakthrough or incident pain and titration of the total daily dose of oxycodone HCl tablets may be necessary, especially in patients who have disease states that are changing rapidly.
 
-Conversion From Fixed-Ratio Opioid/Acetaminophen, Opioid/Aspirin, or Opioid/Nonsteroidal Combination Drugs
+Conversion from Fixed-Ratio Opioid/Acetaminophen, Opioid/Aspirin, or Opioid/Nonsteroidal Combination Drugs
 
 When converting patients from fixed ratio opioid/non-opioid drug regimens a decision should be made whether or not to continue the non-opioid analgesic.
 If a decision is made to discontinue the use of non-opioid analgesic, it may be necessary to titrate the dose of oxycodone HCl tablets in response to the level of analgesia and adverse effects afforded by the dosing regimen.
 If the non-opioid regimen is continued as a separate single entity agent, the starting dose oxycodone HCl tablets should be based upon the most recent dose of opioid as a baseline for further titration of oxycodone.
 Incremental increases should be gauged according to side effects to an acceptable level of analgesia.
 
-Conversion from Oxycodone HCl Immediate-Release Tablets to Extended-Release Oxycodone:
+Conversion from Oxycodone HCl Immediate-Release Tablets to Extended-Release Oxycodone
 
 The relative bioavailability of oxycodone HCl immediate-release tablets compared to extended-release oxycodone is unknown, so conversion to extended-release tablets must be accompanied by close observation for signs of excessive sedation and respiratory depression.
 
