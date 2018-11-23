@@ -1,6 +1,7 @@
 {
   "application_numbers": [
-    "ANDA065379"
+    "ANDA065379",
+    "ANDA065451"
   ],
   "inn": "mycophenolate-mofetil",
   "labeler": "Sandoz Inc",
@@ -8,11 +9,19 @@
     "0781-2067-01",
     "0781-2067-05",
     "0781-2067-72",
-    "0781-2067-89"
+    "0781-2067-89",
+    "0781-5175-01",
+    "0781-5175-05",
+    "0781-5175-10"
   ],
   "products": [
     {
       "form": "CAPSULE",
+      "generic": "mycophenolate mofetil",
+      "name": "Mycophenolate Mofetil"
+    },
+    {
+      "form": "TABLET, FILM COATED",
       "generic": "mycophenolate mofetil",
       "name": "Mycophenolate Mofetil"
     }
