@@ -2,7 +2,7 @@
 
 Nitroglycerin is 1,2,3,-propanetriol trinitrate, an organic nitrate whose structural formula is as follows:
 
-CH2-ONO2 | CH-ONO2 | CH2-ONO2
+CH 2-ONO 2 | CH-ONO 2 | CH 2-ONO 2
 
 and whose molecular weight is 227.09.
 RECTIV (nitroglycerin) Ointment 0.4% contains 0.4% nitroglycerin w/w (4 mg nitroglycerin/1 g ointment), propylene glycol, lanolin, sorbitan sesquioleate, paraffin wax, and white petrolatum.

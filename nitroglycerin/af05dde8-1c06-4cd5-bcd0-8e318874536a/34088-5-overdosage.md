@@ -22,7 +22,7 @@ Treatment of RECTIV overdose in these patients may be subtle and difficult, and 
 Methemoglobinemia
 
 Methemoglobinemia has been rarely reported with organic nitrates.
-The diagnosis should be suspected in patients who exhibit signs of impaired oxygen delivery despite adequate arterial PO2.
+The diagnosis should be suspected in patients who exhibit signs of impaired oxygen delivery despite adequate arterial PO 2.
 Classically, methemoglobinemic blood is described as chocolate brown, without color change on exposure to air.
 
 If methemoglobinemia is present, intravenous administration of methylene blue, 1 to 2 mg/kg of body weight, may be required.
