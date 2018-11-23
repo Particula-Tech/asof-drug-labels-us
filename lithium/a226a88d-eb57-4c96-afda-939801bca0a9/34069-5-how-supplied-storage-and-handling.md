@@ -6,7 +6,7 @@ Lithium Carbonate Extended-Release Tablets USP 450 mg tablets are speckled, off-
 
 Storage Conditions
 
-Store at 25°C (77°F), excursions permitted to 15°- 30°C (59°- 86°).
+Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
 Distr. by: West-Ward
@@ -15,6 +15,6 @@ Pharmaceuticals Corp.
 
 Eatontown, NJ 07724
 
-10002294/06
+10002294/07
 
-Revised July 2018
+Revised November 2018

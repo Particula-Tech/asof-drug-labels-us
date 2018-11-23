@@ -20,7 +20,7 @@ The following reactions have been reported and appear to be related to serum lit
 
 Neuromuscular/Central Nervous System: Tremor, muscle hyperirritability (fasciculations, twitching, clonic movements of whole limbs), hypertonicity, ataxia, choreo-athetotic movements, hyperactive deep tendon reflex, extrapyramidal symptoms including acute dystonia, cogwheel rigidity, blackout spells, epileptiform seizures, slurred speech, dizziness, vertigo, downbeat nystagmus, incontinence of urine or feces, somnolence, psychomotor retardation, restlessness, confusion, stupor, coma, tongue movements, tics, tinnitus, hallucinations, poor memory, slowed intellectual functioning, startled response, worsening of organic brain syndromes, myasthenia gravis (rarely).
 
-Cardiovascular: Cardiac arrhythmia, hypotension, peripheral circulatory collapse, bradycardia, sinus node dysfunction with severe bradycardia (which may result in syncope), Unmasking of Brugada Syndrome (See WARNINGSand PRECAUTIONS, Information for Patients).
+Cardiovascular: Cardiac arrhythmia, hypotension, peripheral circulatory collapse, bradycardia, sinus node dysfunction with severe bradycardia (which may result in syncope), Unmasking of Brugada Syndrome [See WARNINGSand PRECAUTIONS: Information for Patients].
 
 Gastrointestinal: Anorexia, nausea, vomiting, diarrhea, gastritis, salivary gland swelling, abdominal pain, excessive salivation, flatulence, indigestion.
 
@@ -31,8 +31,7 @@ Dermatologic: Drying and thinning of hair, alopecia, anesthesia of skin, acne, c
 Autonomic Nervous System: Blurred vision, dry mouth, impotence/sexual dysfunction.
 
 Thyroid Abnormalities: Euthyroid goiter and/or hypothyroidism (including myxedema) accompanied by lower T3 and T4.
-I131 uptake may be elevated.
-(See PRECAUTIONS.)
+I131 uptake may be elevated [See PRECAUTIONS].
 Paradoxically, rare cases of hyperthyroidism have been reported.
 
 EEG Changes: Diffuse slowing, widening of the frequency spectrum, potentiation and disorganization of background rhythm.

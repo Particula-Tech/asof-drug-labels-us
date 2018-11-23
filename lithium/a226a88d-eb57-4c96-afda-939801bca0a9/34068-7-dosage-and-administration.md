@@ -37,5 +37,4 @@ Patients unusually sensitive to lithium may exhibit toxic signs at serum levels 
   Total reliance must not be placed on serum levels alone.
   Accurate patient evaluation requires both clinical and laboratory analysis.
 - •Elderly patients often respond to reduced dosage, and may exhibit signs of toxicity at serum levels ordinarily tolerated by younger patients.
-
-Lithium Carbonate Extended-Release Tablets must be swallowed whole and never chewed or crushed.
+- •Lithium Carbonate Extended-Release Tablets must be swallowed whole and never chewed or crushed.
