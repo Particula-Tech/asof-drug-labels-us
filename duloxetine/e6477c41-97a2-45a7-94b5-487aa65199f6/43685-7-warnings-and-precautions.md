@@ -69,7 +69,7 @@ The risk of blood pressure decreases may be greater in patients taking concomita
 Consideration should be given to dose reduction or discontinuation of duloxetine in patients who experience symptomatic orthostatic hypotension, falls and/or syncope during duloxetine therapy.
 Risk of falling also appeared to be proportional to a patient’s underlying risk for falls and appeared to increase steadily with age.
 As elderly patients tend to have a higher underlying risk o falls due to a higher prevalence of risk factors such as use of multiple medications, medical comorbidities and gait disturbances, the impact of increasing age by itself is unclear.
-Falls with serious consequences including bone fractures and hospitalizations have been reported [seeAdverse Reactions (6.10)and Patient Counseling Information (17)].
+Falls with serious consequences including bone fractures and hospitalizations have been reported [see Adverse Reactions (6.10)and Patient Counseling Information (17)].
 
 ## 5.4 Serotonin Syndrome
 
