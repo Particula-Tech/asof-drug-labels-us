@@ -3,7 +3,7 @@
 Valproate sodium is the sodium salt of valproic acid designated as sodium 2-propylpentanoate.
 Valproate sodium has the following structure:
 
-C8H15NaO2 M.W.
+C 8H 15NaO 2 M.W.
 166.2
 
 Valproate sodium occurs as an essentially white and odorless, crystalline, deliquescent powder.

@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D for epilepsy [see Warnings and Precautions (5.2, 5.3)].
+Pregnancy Category D for epilepsy [see Warnings and Precautions (5.2,5.3)].
 
 Pregnancy Registry
 
@@ -110,7 +110,7 @@ The safety and tolerability of divalproex sodium in pediatric patients were show
 Juvenile Animal Toxicology
 
 In studies of valproate in immature animals, toxic effects not observed in adult animals included retinal dysplasia in rats treated during the neonatal period (from postnatal day 4) and nephrotoxicity in rats treated during the neonatal and juvenile (from postnatal day 14) periods.
-The no-effect dose for these findings was less than the maximum recommended human dose on a mg/m2 basis.
+The no-effect dose for these findings was less than the maximum recommended human dose on a mg/m 2 basis.
 
 ## 8.5 Geriatric Use
 

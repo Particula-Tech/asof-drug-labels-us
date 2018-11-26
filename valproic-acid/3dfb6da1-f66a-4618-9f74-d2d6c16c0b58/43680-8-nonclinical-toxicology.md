@@ -4,7 +4,7 @@
 
 Carcinogenesis
 
-Valproate was administered orally to rats and mice at doses of 80 and 170 mg/kg/day (less than the maximum recommended human dose on a mg/m2 basis) for two years.
+Valproate was administered orally to rats and mice at doses of 80 and 170 mg/kg/day (less than the maximum recommended human dose on a mg/m 2 basis) for two years.
 The primary findings were an increase in the incidence of subcutaneous fibrosarcomas in high-dose male rats receiving valproate and a dose-related trend for benign pulmonary adenomas in male mice receiving valproate.
 The significance of these findings for humans is unknown.
 
@@ -17,6 +17,6 @@ The biological significance of an increase in SCE frequency is not known.
 
 Fertility
 
-Chronic toxicity studies of valproate in juvenile and adult rats and dogs demonstrated reduced spermatogenesis and testicular atrophy at oral doses of 400 mg/kg/day or greater in rats (approximately equivalent to or greater than the maximum recommended human dose (MRHD) on a mg/m2 basis) and 150 mg/kg/day or greater in dogs (approximately 1.4 times the MRHD or greater on a mg/m2 basis).
-Fertility studies in rats have shown no effect on fertility at oral doses of valproate up to 350 mg/kg/day (approximately equal to the MRHD dose on a mg/m2 basis) for 60 days.
+Chronic toxicity studies of valproate in juvenile and adult rats and dogs demonstrated reduced spermatogenesis and testicular atrophy at oral doses of 400 mg/kg/day or greater in rats (approximately equivalent to or greater than the maximum recommended human dose (MRHD) on a mg/m 2 basis) and 150 mg/kg/day or greater in dogs (approximately 1.4 times the MRHD or greater on a mg/m 2 basis).
+Fertility studies in rats have shown no effect on fertility at oral doses of valproate up to 350 mg/kg/day (approximately equal to the MRHD dose on a mg/m 2 basis) for 60 days.
 The effect of valproate on testicular development and on sperm production and fertility in humans is unknown.

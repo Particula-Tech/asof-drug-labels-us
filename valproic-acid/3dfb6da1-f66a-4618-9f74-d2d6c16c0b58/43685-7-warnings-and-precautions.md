@@ -41,6 +41,10 @@ In some cases, hepatic dysfunction has progressed in spite of discontinuation of
 ## 5.2 Birth Defects
 
 Valproate can cause fetal harm when administered to a pregnant woman.
+Pregnancy registry data show that maternal valproate use can cause neural tube defects and other structural abnormalities (e.g., craniofacial defects, cardiovascular).
+The rate of congenital malformations among babies born to mothers using valproate is about four times higher than the rate among babies born to epileptic mothers using other anti-seizure monotherapies.
+Evidence suggests that folic acid supplementation prior to conception and during the first trimester of pregnancy decreases the risk for congenital neural tube defects in the general population.
+Valproate can cause fetal harm when administered to a pregnant woman.
 Pregnancy registry data show that maternal valproate use can cause neural tube defects and other structural abnormalities (e.g., craniofacial defects, cardiovascular malformations, hypospadias, limb malformations).
 The rate of congenital malformations among babies born to mothers using valproate is about four times higher than the rate among babies born to epileptic mothers using other anti-seizure monotherapies.
 Evidence suggests that folic acid supplementation prior to conception and during the first trimester of pregnancy decreases the risk for congenital neural tube defects in the general population.
@@ -49,7 +53,7 @@ Evidence suggests that folic acid supplementation prior to conception and during
 
 Valproate can cause decreased IQ scores following in utero exposure.
 Published epidemiological studies have indicated that children exposed to valproate in utero have lower cognitive test scores than children exposed in utero to either another anti-epileptic drug or to no anti-epileptic drugs.
-The largest of these studies1 is a prospective cohort study conducted in the United States and United Kingdom that found that children with prenatal exposure to valproate (n=62) had lower IQ scores at age 6 (97 [95% C.I.
+The largest of these studies 1 is a prospective cohort study conducted in the United States and United Kingdom that found that children with prenatal exposure to valproate (n=62) had lower IQ scores at age 6 (97 [95% C.I.
 94 to 101]) than children with prenatal exposure to the other anti-epileptic drug monotherapy treatments evaluated: lamotrigine (108 [95% C.I.
 105 to 110]), carbamazepine (105 [95% C.I.
 102 to 108]), and phenytoin (108 [95% C.I.
@@ -98,14 +102,22 @@ Patients who develop symptoms of unexplained hyperammonemic encephalopathy while
 
 ## 5.7 Bleeding and Other Hematopoietic Disorders
 
+.
+In a clinical trial of valproate as monotherapy in patients with epilepsy, 34/126 patients (27%) receiving approximately 50 mg/kg/day on average, had at least one value of platelets ≤ 75 x 10 /L.
+Approximately half of these patients had treatment discontinued, with return of platelet counts to normal.
+In the remaining patients, platelet counts normalized with continued treatment.
+In this study, the probability of thrombocytopenia appeared to increase significantly at total valproate concentrations of ≥ 110 mcg/mL (females) or ≥ 135 mcg/mL (males).
+The therapeutic benefit which may accompany the higher doses should therefore be weighed against the possibility of a greater incidence of adverse effects..
 Valproate is associated with dose-related thrombocytopenia.
-In a clinical trial of valproate as monotherapy in patients with epilepsy, 34/126 patients (27%) receiving approximately 50 mg/kg/day on average, had at least one value of platelets ≤ 75 x 109/L.
+In a clinical trial of valproate as monotherapy in patients with epilepsy, 34/126 patients (27%) receiving approximately 50 mg/kg/day on average, had at least one value of platelets ≤ 75 x 10 9/L.
 Approximately half of these patients had treatment discontinued, with return of platelet counts to normal.
 In the remaining patients, platelet counts normalized with continued treatment.
 In this study, the probability of thrombocytopenia appeared to increase significantly at total valproate concentrations of ≥ 110 mcg/mL (females) or ≥ 135 mcg/mL (males).
 The therapeutic benefit which may accompany the higher doses should therefore be weighed against the possibility of a greater incidence of adverse effects.
 Valproate use has also been associated with decreases in other cell lines and myelodysplasia.
 
+Because of reports of inhibition of the secondary phase of platelet aggregation, and abnormal coagulation parameters (e.g., low fibrinogen, counts and coagulation tests are recommended before initiating therapy and at periodic intervals.
+It is recommended that patients receiving valproate be monitored for blood counts and coagulation parameters prior to planned surgery Evidence of hemorrhage, bruising, or a disorder of hemostasis/coagulation is an indication for reduction of the dosage or withdrawal of therapy.
 Because of reports of cytopenias, inhibition of the secondary phase of platelet aggregation, and abnormal coagulation parameters (e.g., low fibrinogen, coagulation factor deficiencies, acquired von Willebrand’s disease), measurements of complete blood counts and coagulation tests are recommended before initiating therapy and at periodic intervals.
 It is recommended that patients receiving valproate be monitored for blood counts and coagulation parameters prior to planned surgery and during pregnancy [see Use in Specific Populations (8.1)].
 Evidence of hemorrhage, bruising, or a disorder of hemostasis/coagulation is an indication for reduction of the dosage or withdrawal of therapy.

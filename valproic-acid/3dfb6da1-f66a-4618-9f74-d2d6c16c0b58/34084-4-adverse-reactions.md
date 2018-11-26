@@ -6,7 +6,7 @@ The following serious adverse reactions are described below and elsewhere in the
 - Birth defects [see Warnings and Precautions (5.2)]
 - Decreased IQ following in utero exposure [see Warnings and Precautions (5.3)]
 - Pancreatitis [see Warnings and Precautions (5.5)]
-- Hyperammonemic encephalopathy [see Warnings and Precautions (5.6, 5.8, 5.9)]
+- Hyperammonemic encephalopathy [see Warnings and Precautions (5.6,5.8, 5.9)]
 - Bleeding and other hematopoietic disorders [see Warnings and Precautions (5.7)]
 - Hypothermia [see Warnings and Precautions (5.10)]
 - Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan hypersensitivity reactions [see Warnings and Precautions (5.11)]
@@ -116,7 +116,7 @@ Table 3 lists treatment-emergent adverse reactions which were reported by ≥ 5%
 Since patients were being titrated off another antiepilepsy drug during the first portion of the trial, it is not possible, in many cases, to determine whether the following adverse reactions can be ascribed to divalproex sodium alone, or the combination of valproate and other antiepilepsy drugs.
 
 Table 3.
-Adverse Reactions Reported by ≥ 5% of Patients in the High Dose Group in the Controlled Trial of Valproate Monotherapy for Complex Partial Seizures1
+Adverse Reactions Reported by ≥ 5% of Patients in the High Dose Group in the Controlled Trial of Valproate Monotherapy for Complex Partial Seizures 1
 
 | Body System/Reaction | High Dose (%) (n=131) | Low Dose (%) (n=134) |
 | --- | --- | --- |
