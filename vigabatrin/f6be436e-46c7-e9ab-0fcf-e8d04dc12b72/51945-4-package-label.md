@@ -1,0 +1,5 @@
+# PACKAGE LABEL PRINCIPAL DISPLAY PANEL SECTION
+
+Packet Label:
+
+Carton Label:

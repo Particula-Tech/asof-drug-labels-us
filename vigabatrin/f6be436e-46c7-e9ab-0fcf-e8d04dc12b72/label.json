@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA211481"
+  ],
+  "inn": "vigabatrin",
+  "labeler": "Dr. Reddys Laboratories Inc.,",
+  "package_ndcs": [
+    "43598-697-11",
+    "43598-697-50"
+  ],
+  "products": [
+    {
+      "form": "POWDER, FOR SOLUTION",
+      "generic": "vigabatrin",
+      "name": "Vigabatrin"
+    }
+  ],
+  "setid": "f6be436e-46c7-e9ab-0fcf-e8d04dc12b72",
+  "source": "dailymed"
+}
