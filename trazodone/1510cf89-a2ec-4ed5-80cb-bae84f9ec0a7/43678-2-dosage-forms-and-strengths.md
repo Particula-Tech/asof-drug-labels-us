@@ -1,7 +1,5 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Trazodone hydrochloride tablets are available in the following strengths:
-
 50 mg Tablets, white to off white, round, biconvex, uncoated tablets debossed with "13" bisect "30" on one side and plain on other side.
 
 100 mg Tablets, white to off white, round, biconvex, uncoated tablets debossed with "13" bisect "31" on one side and plain on other side.

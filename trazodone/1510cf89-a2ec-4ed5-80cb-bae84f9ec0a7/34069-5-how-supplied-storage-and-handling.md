@@ -8,7 +8,7 @@ Bottles of 100 NDC 13668-330-01
 
 Bottles of 500 NDC 13668-330-05
 
-Bottles of 1000 NDC 13668-330-10
+Bottles of 1,000 NDC 13668-330-10
 
 100 Unit dose Tablets NDC 13668-330-74
 
@@ -20,7 +20,7 @@ Bottles of 100 NDC 13668-331-01
 
 Bottles of 500 NDC 13668-331-05
 
-Bottles of 1000 NDC 13668-331-10
+Bottles of 1,000 NDC 13668-331-10
 
 100 Unit dose Tablets NDC 13668-331-74
 
@@ -33,13 +33,13 @@ Bottles of 100 NDC 13668-332-01
 
 Bottles of 500 NDC 13668-332-05
 
-Bottles of 1000 NDC 13668-332-10
+Bottles of 1,000 NDC 13668-332-10
 
 100 Unit dose Tablets NDC 13668-332-74
 
 Directions for using the correct score when breaking the tablet, please refer to the following:
 
--For 50 mg, break the score on either the left or right side of the tablet (one-third of a tablet).
+- For 50 mg, break the score on either the left or right side of the tablet (one-third of a tablet).
 
 -For 75 mg, break the score down the middle of the tablet (one-half of a tablet).
 
@@ -54,7 +54,7 @@ Bottles of 100 NDC 13668-333-01
 
 Directions for using the correct score when breaking the tablet, please refer to the following:
 
--For 100 mg, break the score on either the left or right side of the tablet (one-third of a tablet).
+- For 100 mg, break the score on either the left or right side of the tablet (one-third of a tablet).
 
 -For 150 mg, break the score down the middle of the tablet (one-half of a tablet).
 
@@ -62,5 +62,7 @@ Directions for using the correct score when breaking the tablet, please refer to
 
 -For 300 mg, use the entire tablet.
 
-Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
-Dispense with a child-resistant closure in a tight, light-resistant container.
+Store at 20° to 25°C (68° to 77°F).
+Excursions permitted between 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
+
+Dispense with a child-resistant closure in a tight, light-resistant container as defined in the USP.
