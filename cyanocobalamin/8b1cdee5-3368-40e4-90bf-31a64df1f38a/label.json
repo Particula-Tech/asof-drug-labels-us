@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA080557"
+  ],
+  "inn": "cyanocobalamin",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "63323-044-41",
+    "63323-044-44"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "cyanocobalamin",
+      "name": "Cyanocobalamin"
+    }
+  ],
+  "setid": "8b1cdee5-3368-40e4-90bf-31a64df1f38a",
+  "source": "dailymed"
+}
