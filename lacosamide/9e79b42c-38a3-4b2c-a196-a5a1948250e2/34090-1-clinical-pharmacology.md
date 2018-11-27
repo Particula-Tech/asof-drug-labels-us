@@ -17,7 +17,8 @@ Electrocardiographic effects of VIMPAT were determined in a double-blind, random
 Chronic oral doses of 400 and 800 mg/day were compared with placebo and a positive control (400 mg moxifloxacin).
 VIMPAT did not prolong QTc interval and did not have a dose-related or clinically important effect on QRS duration.
 VIMPAT produced a small, dose-related increase in mean PR interval.
-At steady-state, the time of the maximum observed mean PR interval corresponded with t max. The placebo-subtracted maximum increase in PR interval (at t max) was 7.3 ms for the 400 mg/day group and 11.9 ms for the 800 mg/day group.
+At steady-state, the time of the maximum observed mean PR interval corresponded with tmax.
+The placebo-subtracted maximum increase in PR interval (at tmax) was 7.3 ms for the 400 mg/day group and 11.9 ms for the 800 mg/day group.
 For patients who participated in the controlled trials, the placebo-subtracted mean maximum increase in PR interval for a 400 mg/day VIMPAT dose was 3.1 ms in patients with partial-onset seizures and 9.4 ms for patients with diabetic neuropathy.
 
 ## 12.3 Pharmacokinetics
@@ -28,7 +29,7 @@ VIMPAT is completely absorbed after oral administration with negligible first-pa
 The maximum lacosamide plasma concentrations occur approximately 1 to 4 hour post-dose after oral dosing, and elimination half-life is approximately 13 hours.
 Steady state plasma concentrations are achieved after 3 days of twice daily repeated administration.
 Pharmacokinetics of VIMPAT are dose proportional (100-800 mg) and time invariant, with low inter- and intra-subject variability.
-Compared to lacosamide the major metabolite, O-desmethyl metabolite, has a longer T max (0.5 to 12 hours) and elimination half-life (15-23 hours).
+Compared to lacosamide the major metabolite, O-desmethyl metabolite, has a longer Tmax (0.5 to 12 hours) and elimination half-life (15-23 hours).
 
 Absorption and Bioavailability
 
@@ -36,9 +37,10 @@ VIMPAT is completely absorbed after oral administration.
 The oral bioavailability of VIMPAT tablets is approximately 100%.
 Food does not affect the rate and extent of absorption.
 
-After intravenous administration, C max is reached at the end of infusion.
+After intravenous administration, Cmax is reached at the end of infusion.
 The 30- and 60-minute intravenous infusions are bioequivalent to the oral tablet.
-For the 15-minute intravenous infusion, bioequivalence was met for AUC (0-tz) but not for C max. The point estimate of C max was 20% higher than C max for oral tablet and the 90% CI for C max exceeded the upper boundary of the bioequivalence range.
+For the 15-minute intravenous infusion, bioequivalence was met for AUC(0-tz) but not for Cmax.
+The point estimate of Cmax was 20% higher than Cmax for oral tablet and the 90% CI for Cmax exceeded the upper boundary of the bioequivalence range.
 
 In a trial comparing the oral tablet with an oral solution containing 10 mg/mL lacosamide, bioequivalence between both formulations was shown.
 
@@ -69,7 +71,7 @@ Renal Impairment
 
 Lacosamide and its major metabolite are eliminated from the systemic circulation primarily by renal excretion.
 
-The AUC of VIMPAT was increased approximately 25% in mildly (CL CR 50-80 mL/min) and moderately (CL CR 30-50 mL/min) and 60% in severely (CL CR≤30 mL/min) renally impaired patients compared to subjects with normal renal function (CL CR>80 mL/min), whereas C max was unaffected.
+The AUC of VIMPAT was increased approximately 25% in mildly (CLCR 50-80 mL/min) and moderately (CLCR 30-50 mL/min) and 60% in severely (CLCR≤30 mL/min) renally impaired patients compared to subjects with normal renal function (CLCR>80 mL/min), whereas Cmax was unaffected.
 VIMPAT is effectively removed from plasma by hemodialysis.
 Following a 4-hour hemodialysis treatment, AUC of VIMPAT is reduced by approximately 50% [see Dosage and Administration (2.3)].
 
@@ -83,14 +85,15 @@ Pediatric Patients (4 to less than 17 Years of Age)
 
 The pediatric pharmacokinetic profile of VIMPAT was determined in a population pharmacokinetic analysis using sparse plasma concentration data obtained in two open-label studies in 79 pediatric patients with partial-onset seizures that included patients 4 years to less than 17 years of age.
 Both apparent clearance and apparent volume of distribution increase as body weight increases.
-For patients weighing 11 kg, 28.9 kg (the mean population body weight), and 70 kg, the typical plasma half-life (t 1/2) is 7.4 hours, 10.6 hours, and 14.8 hours, respectively.
+For patients weighing 11 kg, 28.9 kg (the mean population body weight), and 70 kg, the typical plasma half-life (t1/2) is 7.4 hours, 10.6 hours, and 14.8 hours, respectively.
 Steady state plasma concentrations are achieved after 3 days of twice daily repeated administration.
+A weightbased dosing regimen is necessary to achieve lacosamide exposures in pediatric patients 4 to less than 17 years of age similar to those observed in adults treated at effective doses of VIMPAT [see Dosage and Administration (2.1)].
 
 The pharmacokinetics of VIMPAT in pediatric patients are similar when used as monotherapy or as adjunctive therapy for the treatment of partial-onset seizures.
 
 Geriatric Patients
 
-In the elderly (>65 years), dose and body-weight normalized AUC and C max is about 20% increased compared to young subjects (18-64 years).
+In the elderly (>65 years), dose and body-weight normalized AUC and Cmax is about 20% increased compared to young subjects (18-64 years).
 This may be related to body weight and decreased renal function in elderly subjects.
 
 Gender
@@ -142,5 +145,5 @@ In Vivo Assessment of Drug Interactions
     However, plasma levels of the O-desmethyl metabolite were reduced about 60% in the presence of omeprazole.
   - Midazolam Midazolam is a 3A4 substrate.
     There was no effect of VIMPAT (200 mg single dose or repeat doses of 400 mg/day given as 200 mg BID) on the pharmacokinetics of midazolam (single dose, 7.5 mg), indicating no inhibitory or inducing effects on CYP3A4.
-  - Oral Contraceptives There was no influence of VIMPAT (400 mg/day) on the pharmacodynamics and pharmacokinetics of an oral contraceptive containing 0.03 mg ethinylestradiol and 0.15 mg levonorgestrel in healthy subjects, except that a 20% increase in ethinylestradiol C max was observed.
+  - Oral Contraceptives There was no influence of VIMPAT (400 mg/day) on the pharmacodynamics and pharmacokinetics of an oral contraceptive containing 0.03 mg ethinylestradiol and 0.15 mg levonorgestrel in healthy subjects, except that a 20% increase in ethinylestradiol Cmax was observed.
   - Warfarin Co-administration of VIMPAT (400 mg/day) with warfarin (25 mg single dose) did not result in a clinically relevant change in the pharmacokinetic and pharmacodynamic effects of warfarin in a study in healthy male subjects.

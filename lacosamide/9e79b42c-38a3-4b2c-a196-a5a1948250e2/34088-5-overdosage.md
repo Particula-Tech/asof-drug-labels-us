@@ -1,7 +1,7 @@
 # 10 OVERDOSAGE
 
 Events reported after an intake of more than 800 mg (twice the maximum recommended daily dosage) of VIMPAT include dizziness, nausea, and seizures (generalized tonic-clonic seizures, status epilepticus).
-Cardiac conduction disorders, confusion, decreased level of consciousness, cardiogenic shock, and coma have also been observed.
+Cardiac conduction disorders, confusion, decreased level of consciousness, cardiogenic shock, cardiac arrest, and coma have also been observed.
 Fatalities have occurred following lacosamide overdoses of several grams.
 
 There is no specific antidote for overdose with VIMPAT.

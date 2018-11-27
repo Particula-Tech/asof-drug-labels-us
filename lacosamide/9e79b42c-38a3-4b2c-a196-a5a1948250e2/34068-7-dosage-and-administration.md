@@ -9,12 +9,12 @@ In pediatric patients 4 years to less than 17 years of age, the recommended dosi
 Dosage should be increased based on clinical response and tolerability, no more frequently than once per week.
 Titration increments should not exceed those shown in Table 1.
 
-Table 1: Recommended Dosage for Adults and Pediatric Patients 4 Years and Older when not specified, the dosage is the same for monotherapy and adjunctive therapy
+Table 1: Recommended Dosage for Adults and Pediatric Patients 4 Years and Olderwhen not specified, the dosage is the same for monotherapy and adjunctive therapy
 
 | Age and Body Weight | Initial Dosage | Titration Regimen | Maintenance Dosage |
 | --- | --- | --- | --- |
 | Adults (17 years and older) | Monotherapy: 100 mg twice daily (200 mg per day) Adjunctive Therapy: 50 mg twice daily (100 mg per day) | Increase by 50 mg twice daily (100 mg per day) every week | Monotherapy: 150 mg to 200 mg twice daily (300 mg to 400 mg per day) Adjunctive Therapy: 100 mg to 200 mg twice daily (200 mg to 400 mg per day) |
-|  | Alternate Initial Dosage: 200 mg single loading dose, followed 12 hours later by 100 mg twice daily |  |  |
+| Alternate Initial Dosage: 200 mg single loading dose, followed 12 hours later by 100 mg twice daily |  |  |  |
 | Pediatric patients weighing 50 kg or more | 50 mg twice daily (100 mg per day) | Increase by 50 mg twice daily (100 mg per day) every week | Monotherapy: 150 mg to 200 mg twice daily (300 mg to 400 mg per day) Adjunctive Therapy: 100 mg to 200 mg twice daily (200 mg to 400 mg per day) |
 | Pediatric patients weighing 30 kg to less than 50 kg | 1 mg/kg twice daily (2 mg/kg/day) | Increase by 1 mg/kg twice daily (2 mg/kg/day) every week | 2 mg/kg to 4 mg/kg twice daily (4 mg/kg/day to 8 mg/kg/day) |
 | Pediatric patients weighing 11 kg to less than 30 kg | 1 mg/kg twice daily (2 mg/kg/day) | Increase by 1 mg/kg twice daily (2 mg/kg/day) every week | 3 mg/kg to 6 mg/kg twice daily (6 mg/kg/day to 12 mg/kg/day) |
@@ -47,7 +47,7 @@ A gradual withdrawal of the concomitant AED over at least 6 weeks is recommended
 
 For patients with mild to moderate renal impairment, no dosage adjustment is necessary.
 
-For patients with severe renal impairment [creatinine clearance (CL CR) less than 30 mL/min as estimated by the Cockcroft-Gault equation for adults; CL CR less than 30 mL/min/1.73m 2 as estimated by the Schwartz equation for pediatric patients] or end-stage renal disease, a reduction of 25% of the maximum dosage is recommended.
+For patients with severe renal impairment [creatinine clearance (CLCR) less than 30 mL/min as estimated by the Cockcroft-Gault equation for adults; CLCR less than 30 mL/min/1.73m2 as estimated by the Schwartz equation for pediatric patients] or end-stage renal disease, a reduction of 25% of the maximum dosage is recommended.
 
 In all patients with renal impairment, the dose titration should be performed with caution.
 
@@ -105,8 +105,8 @@ Administration
 
 The recommended infusion rate is 30 to 60 minutes; however, infusions as rapid as 15 minutes can be administered if required [see Adverse Reactions (6.1), Clinical Pharmacology (12.3)].
 
-Intravenous infusion of VIMPAT may cause bradycardia or AV blocks [see Warnings and Precautions (5.3)].
-Obtaining an ECG before beginning VIMPAT and after VIMPAT is titrated to steady-state maintenance dose is recommended in patients with known cardiac conduction problems, on concomitant medications that prolong PR interval, or with severe cardiac disease.
+Intravenous infusion of VIMPAT may cause bradycardia, AV blocks, and ventricular tachyarrhythmia [see Warnings and Precautions (5.3)].
+Obtaining an ECG before beginning VIMPAT and after VIMPAT is titrated to steady-state maintenance dose is recommended in patients with underlying proarrhythmic conditions or on concomitant medications that affect cardiac conduction [see Drug Interactions (7.2)].
 
 Storage and Stability
 

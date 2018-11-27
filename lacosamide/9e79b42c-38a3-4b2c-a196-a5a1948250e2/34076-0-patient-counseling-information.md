@@ -14,7 +14,10 @@ Patients taking VIMPAT should be advised not to drive, operate complex machinery
 
 Cardiac Rhythm and Conduction Abnormalities
 
-Patients should be counseled that VIMPAT is associated with electrocardiographic changes that may predispose to irregular beat and syncope, particularly in patients with underlying cardiovascular disease, with heart conduction problems or who are taking other medications that affect the heart.
+Patients should be counseled that VIMPAT is associated with electrocardiographic changes that may predispose to irregular heart beat and syncope.
+Cardiac arrest has been reported.
+This risk is increased in patients with underlying cardiovascular disease, with heart conduction problems, or who are taking other medications that affect the heart.
+Patients should be made aware of and report cardiac signs or symptoms to their healthcare provider right away.
 Patients who develop syncope should lay down with raised legs and contact their health care provider [see Warnings and Precautions (5.3)].
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multi-Organ Hypersensitivity

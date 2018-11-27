@@ -68,12 +68,12 @@ The no-effect dose for developmental neurotoxicity in rats was associated with a
 There were insufficient numbers of elderly patients enrolled in partial-onset seizure trials (n=18) to adequately determine whether they respond differently from younger patients.
 
 No VIMPAT dose adjustment based on age is necessary.
-In elderly patients, dose titration should be performed with caution, usually starting at the lower end of the dosing range, reflecting the greater frequency of decreased hepatic function, decreased renal function, increased cardiac conduction abnormalities or polypharmacy [see Dosage and Administration (2.1, 2.3, 2.4), Clinical Pharmacology (12.3)].
+In elderly patients, dose titration should be performed with caution, usually starting at the lower end of the dosing range, reflecting the greater frequency of decreased hepatic function, decreased renal function, increased cardiac conduction abnormalities, and polypharmacy [see Dosage and Administration (2.1, 2.3, 2.4), Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
-Based on data in adults, no dose adjustment is necessary in adult and pediatric patients with mild to moderate renal impairment (CL CR ≥30 mL/min).
-In adult and pediatric patients with severe renal impairment (CL CR <30 mL/min) and in those with end-stage renal disease, a reduction of 25% of the maximum dosage is recommended [see Dosage and Administration (2.3), Clinical Pharmacology (12.3)].
+Based on data in adults, no dose adjustment is necessary in adult and pediatric patients with mild to moderate renal impairment (CLCR ≥30 mL/min).
+In adult and pediatric patients with severe renal impairment (CLCR <30 mL/min) and in those with end-stage renal disease, a reduction of 25% of the maximum dosage is recommended [see Dosage and Administration (2.3), Clinical Pharmacology (12.3)].
 
 In all patients with renal impairment, dose titration should be performed with caution.
 

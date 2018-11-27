@@ -5,8 +5,8 @@
 Patients with renal or hepatic impairment who are taking strong inhibitors of CYP3A4 and CYP2C9 may have a significant increase in exposure to VIMPAT.
 Dose reduction may be necessary in these patients.
 
-## 7.2 Concomitant Medications that Prolong PR Interval
+## 7.2 Concomitant Medications that Affect Cardiac Conduction
 
-VIMPAT should be used with caution in patients on concomitant medications that prolong PR interval, because of a risk of AV block or bradycardia, e.g., beta-blockers and calcium channel blockers.
+VIMPAT should be used with caution in patients on concomitant medications that affect cardiac conduction (sodium channel blockers, beta-blockers, calcium channel blockers, potassium channel blockers) including those that prolong PR interval (including sodium channel blocking AEDs), because of a risk of AV block, bradycardia, or ventricular tachyarrhythmia.
 In such patients, obtaining an ECG before beginning VIMPAT, and after VIMPAT is titrated to steady-state, is recommended.
 In addition, these patients should be closely monitored if they are administered VIMPAT through the intravenous route [see Warnings and Precautions (5.3)].
