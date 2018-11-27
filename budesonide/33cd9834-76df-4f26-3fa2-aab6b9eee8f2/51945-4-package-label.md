@@ -1,37 +1,26 @@
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 0.25 mg/2 mL
 
-NDC 0186-1988-04
+NDC 0186-1988-66
 
 Pulmicort Respules®
 
 (budesonide inhalation suspension)
 
+0.25 mg/2 mL
+
 FOR INHALATION ONLY.
 
-Rx only
+5 single-dose Respules™ ampules per carton
 
-Each single-dose Respules™ ampule delivers 2 mL of a
+RX only
 
-Sterile suspension containing 0.25 mg of micronized
+AstraZeneca Pharmaceuticals LP, Wilmington, DE 19850
 
-Budesonide plus disodium edentate, sodium chloride,
-
-Polysorbate 80, citric acid, sodium citrate and Water for
-
-Injection.
-
-Once a RESPULES ampule is opened, use the contents
-
-Immediately.
-
-For use only in a jet nebulizer.
-Do NOT use in an
-
-ultrasonic nebulizer.
+Product of Netherlands
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 0.5 mg/2 mL
 
-NDC 0186-1986-04
+NDC 0186-1989-04
 
 Pulmicort Respules®
 
@@ -41,52 +30,28 @@ FOR INHALATION ONLY.
 
 Rx only
 
-Each single-dose Respules™ ampule delivers 2 mL of a
+0.5 mg/2 mL
 
-Sterile suspension containing 0.5 mg of micronized
+Store Upright
 
-Budesonide plus disodium edentate, sodium chloride,
-
-Polysorbate 80, citric acid, sodium citrate and Water for
-
-Injection.
-
-Once a RESPULES ampule is opened, use the contents
-
-Immediately.
-
-For use only in a jet nebulizer.
-Do NOT use in an
-
-ultrasonic nebulizer.
+AstraZeneca
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL 1 mg/2 mL
 
-NDC 0186-1988-04
+NDC 0186-1990-66
 
 Pulmicort Respules®
 
 (budesonide inhalation suspension)
 
+1 mg/2 mL
+
 FOR INHALATION ONLY.
 
-Rx only
+5 single-dose Respules™ ampules per carton
 
-Each single-dose Respules™ ampule delivers 2 mL of a
+RX only
 
-Sterile suspension containing 1 mg of micronized
+AstraZeneca Pharmaceuticals LP, Wilmington, DE 19850
 
-Budesonide plus disodium edentate, sodium chloride,
-
-Polysorbate 80, citric acid, sodium citrate and Water for
-
-Injection.
-
-Once a RESPULES ampule is opened, use the contents
-
-Immediately.
-
-For use only in a jet nebulizer.
-Do NOT use in an
-
-ultrasonic nebulizer.
+Product of Netherlands
