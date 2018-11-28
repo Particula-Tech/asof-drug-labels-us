@@ -1,17 +1,19 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL SECTION
 
-Omeprazole Delayed-Release Capsules, USP 10 mg - Container Label
+Unvarnished Area Consists of: 2D Barcode, Lot Number, Expiry Date and Serial Number
 
-Omeprazole Delayed-Release Capsules, USP 10 mg -Carton Label
+10 mg - Container Label
 
-Omeprazole Delayed-Release Capsules, USP 20 mg - Container Label
+10 mg -Carton Label
 
-Omeprazole Delayed-Release Capsules, USP 20 mg - Carton Label
+20 mg - Container Label
 
-Omeprazole Delayed-Release Capsules, USP 20 mg - Dispenser pack container
+20 mg - Carton Label
 
-Omeprazole Delayed-Release Capsules, USP 20 mg - Dispenser pack carton
+20 mg - Dispenser pack container
 
-Omeprazole Delayed-Release Capsules, USP 40 mg - Container Label
+20 mg - Dispenser pack carton
 
-Omeprazole Delayed-Release Capsules, USP 40 mg - Carton Label
+40 mg - Container Label
+
+40 mg - Carton Label
