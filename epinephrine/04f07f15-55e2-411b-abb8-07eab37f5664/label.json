@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA090589"
+  ],
+  "inn": "epinephrine",
+  "labeler": "Teva Pharmaceuticals USA, Inc.",
+  "package_ndcs": [
+    "0093-5985-19",
+    "0093-5985-27",
+    "0093-5986-19",
+    "0093-5986-27"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "epinephrine",
+      "name": "Epinephrine"
+    }
+  ],
+  "setid": "04f07f15-55e2-411b-abb8-07eab37f5664",
+  "source": "dailymed"
+}
