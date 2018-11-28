@@ -50,9 +50,33 @@ After a single intravenous dose of 10 mcg/kg [14C]-palonosetron, approximately 8
 In healthy subjects, the total body clearance of palonosetron was 0.160 ± 0.035 L/h/kg and renal clearance was 0.067± 0.018 L/h/kg.
 Mean terminal elimination half-life is approximately 40 hours
 
-Special Populations
+Specific Populations
 
 Pediatric Patients
 
-Pediatric use information for patents aged 1 month to less than 17 years is approved for Helsinn Healthcare SA’s palonosetron hydrochloride injection.
-However, due to Helsinn Healthcare SA’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Single-dose I.V. palonosetron hydrochloride pharmacokinetic data was obtained from a subset of pediatric cancer patients that received 10 mcg/kg or 20 mcg/kg.
+When the dose was increased from 10 mcg/kg to 20 mcg/kg a dose-proportional increase in mean AUC was observed.
+Following single dose intravenous infusion of palonosetron hydrochloride 20 mcg/kg, peak plasma concentrations (CT) reported at the end of the 15 minute infusion were highly variable in all age groups and tended to be lower in patients < 6 years than in older patients.
+Median half-life was 29.5 hours in overall age groups and ranged from about 20 to 30 hours across age groups after administration of 20 mcg/kg.
+
+The total body clearance (L/h/kg) in patients 12 to 17 years old was similar to that in healthy adults.
+There are no apparent differences in volume of distribution when expressed as L/kg.
+
+Table 3: Pharmacokinetics Parameters in Pediatric Cancer Patients following intravenous infusion of Palonosetron Hydrochloride at 20 mcg/kg over 15 min
+
+| PK Parameter a | Pediatric Age Group |  |  |  |
+| --- | --- | --- | --- | --- |
+| <2 y | 2 to <6 y | 6 to <12 y | 12 to <17 y |  |
+|  | N=12 | N=42 | N=38 | N=44 |
+| CT b, ng/L | 9025 (197) | 9414 (252) | 16275 (203) | 11831 (176) |
+|  |  | N=5 | N=7 | N=10 |
+| AUC0-∞, h·mcg/L |  | 103.5 (40.4) | 98.7 (47.7) | 124.5 (19.1) |
+|  | N=6 | N=14 | N=13 | N=19 |
+| Clearancec, L/h/kg | 0.31 (34.7) | 0.23 (51.3) | 0.19 (46.8) | 0.16 (27.8) |
+| Vssc, L/kg | 6.08 (36.5) | 5.29 (57.8) | 6.26 (40.0) | 6.20 (29.0) |
+
+a Geometric Mean (CV) except for t1/2 which is median values.
+
+b CT is the plasma palonosetron concentration at the end of the 15 minute infusion.
+
+c Clearance and Vss calculated from 10 and 20 mcg/kg and are weight adjusted

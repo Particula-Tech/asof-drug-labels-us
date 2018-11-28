@@ -10,8 +10,7 @@ Palonosetron hydrochloride injection is indicated for:
 
 ## 1.2 Chemotherapy-Induced Nausea and Vomiting in Pediatric Patients Aged 1 month to Less than 17 Years
 
-Pediatric use information is approved for Helsinn Healthcare SA’s palonosetron hydrochloride injection.
-However, due to Helsinn Healthcare SA’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Palonosetron hydrochloride injection is indicated for prevention of acute nausea and vomiting associated with initial and repeat courses of emetogenic cancer chemotherapy, including highly emetogenic cancer chemotherapy.
 
 ## 1.3 Postoperative Nausea and Vomiting in Adults
 

@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Chemotherapy Induced Nausea and Vomiting in Adultss
+## 14.1 Chemotherapy Induced-Nausea and Vomiting in Adults
 
 Efficacy of single-dose palonosetron injection in preventing acute and delayed nausea and vomiting induced by both moderately and highly emetogenic chemotherapy was studied in three Phase 3 trials and one Phase 2 trial.
 In these double-blind studies, complete response rates (no emetic episodes and no rescue medication) and other efficacy parameters were assessed through at least 120 hours after administration of chemotherapy.
@@ -92,8 +92,28 @@ These studies show that palonosetron hydrochloride injection was effective in th
 
 ## 14.2 Chemotherapy-Induced Nausea and Vomiting in Pediatrics
 
-Pediatric use information for patents aged 1 month to less than 17 years is approved for Helsinn Healthcare SA’s palonosetron hydrochloride injection.
-However, due to Helsinn Healthcare SA’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+One double-blind, active-controlled clinical trial was conducted in pediatric cancer patients.
+The total population (N = 327) had a mean age of 8.3 years (range 2 months to 16.9 years) and were 53% male; and 96% white.
+Patients were randomized and received a 20 mcg/kg (maximum 1.5 mg) intravenous infusion of palonosetron hydrochloride 30 minutes prior to the start of emetogenic chemotherapy (followed by placebo infusions 4 and 8 hours after the dose of palonosetron) or 0.15 mg/kg of intravenous ondansetron 30 minutes prior to the start of emetogenic chemotherapy (followed by ondansetron 0.15 mg/kg infusions 4 and 8 hours after the first dose of ondansetron, with a maximum total dose of 32 mg).
+Emetogenic chemotherapies administered included doxorubicin, cyclophosphamide (<1500 mg/m2), ifosfamide, cisplatin, dactinomycin, carboplatin, and daunorubicin.
+Adjuvant corticosteroids, including dexamethasone, were administered with chemotherapy in 55% of patients.
+
+Complete Response in the acute phase of the first cycle of chemotherapy was defined as no vomiting, no retching, and no rescue medication in the first 24 hours after starting chemotherapy.
+Efficacy was based on demonstrating non-inferiority of intravenous palonosetron compared to intravenous ondansetron.
+Non-inferiority criteria were met if the lower bound of the 97.5% confidence interval for the difference in Complete Response rates of intravenous palonosetron minus intravenous ondansetron was larger than -15%.
+The non-inferiority margin was 15%.
+
+Efficacy Results As shown in Table 7, intravenous palonosetron hydrochloride injection 20 mcg/kg (maximum 1.5 mg) demonstrated non-inferiority to the active comparator during the 0 to 24 hour time interval.
+
+Table 7: Prevention of Acute Nausea and Vomiting (0-24 hours): Complete Response Rates
+
+| I.V. Palonosetron Hydrochloride 20 mcg/kg (N=165) | I.V. Ondansetron 0.15 mg/kg x 3 (N=162) | Difference [97.5% Confidence Interval]*: I.V. Palonosetron Hydrochloride minus I.V. Ondansetron Comparator |
+| --- | --- | --- |
+| 59.4% | 58.6% | 0.36% [-11.7%, 12.4%] |
+
+*To adjust for multiplicity of treatment groups, a lower-bound of a 97.5% confidence interval was used to compare to -15%, the negative value of the non-inferiority margin.
+
+In patients that received palonosetron hydrochloride at a lower dose than the recommended dose of 20 mcg/kg, non-inferiority criteria were not met.
 
 ## 14.3 Postoperative Nausea and Vomiting
 

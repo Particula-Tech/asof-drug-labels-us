@@ -27,7 +27,7 @@ Palonosetron hydrochloride injection is a prescription medicine called an “ant
 
 ● right away or later with certain anti-cancer medicines (chemotherapy)
 
-● up to 24 hours while recovering from anesthesia after surgery
+● up to 24 hours while recovering from anesthesia after surgery Palonosetron HCl Injection is used in children 1 month old to less than 17 years of age to help prevent the nausea and vomiting that happens right away with certain anti-cancer medicines (chemotherapy).
 
 ● It is not known if palonosetron hydrochloride injection is safe and effective in children less than 1 month old to help prevent nausea and vomiting after chemotherapy.
 
@@ -76,11 +76,8 @@ What are the ingredients in Palonosetron Hydrochloride Injection?
 
 Active ingredient: palonosetron hydrochloride
 
-Inactive ingredients: mannitol, disodium edetate and sodium acetate trihydrate in water.
+Inactive ingredients: mannitol, disodium edetate, and sodium acetate trihydrate in water.
 Hydrochloric acid or sodium hydroxide may have been added to adjust pH.
-
-Pediatric use information is approved for Helsinn Healthcare SA’s palonosetron hydrochloride injection.
-However, due to Helsinn Healthcare SA’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
@@ -99,4 +96,4 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Issued: 0517
+Issued: 0218

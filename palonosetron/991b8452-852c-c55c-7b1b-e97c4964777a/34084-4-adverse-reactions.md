@@ -55,6 +55,9 @@ Vascular: < 1%: vein discoloration, vein distention.
 
 Pediatrics
 
+In a pediatric clinical trial for the prevention of chemotherapy-induced nausea and vomiting 163 cancer patients received a single 20 mcg/kg (maximum 1.5 mg) intravenous infusion of palonosetron 30 minutes before beginning the first cycle of emetogenic chemotherapy.
+Patients had a mean age of 8.4 years (range 2 months to 16.9 years) and were 46% male; and 93% white.
+
 The following adverse reactions were reported for palonosetron:
 
 Nervous System: <1%: headache, dizziness, dyskinesia.
@@ -63,8 +66,7 @@ General: <1%: infusion site pain.
 
 Dermatological: <1%: allergic dermatitis, skin disorder.
 
-Pediatric use information for patents aged 1 month to less than 17 years is approved for Helsinn Healthcare SA’s palonosetron hydrochloride injection.
-However, due to Helsinn Healthcare SA’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+In the trial, adverse reactions were evaluated in pediatric patients receiving palonosetron for up to 4 chemotherapy cycles.
 
 ## 6.2 Postoperative Nausea and Vomiting
 
@@ -78,7 +80,7 @@ Table 2: Adverse Reactions from Postoperative Nausea and Vomiting Studies ≥ 2%
 
 | Event | Palonosetron hydrochloride injection 0.075 mg (N=336) | Placebo (N=369) |
 | --- | --- | --- |
-| ElectrocardiogramQT prolongation | 16 (5%) | 11 (3%) |
+| Electrocardiogram QT prolongation | 16 (5%) | 11 (3%) |
 | Bradycardia | 13 (4%) | 16 (4%) |
 | Headache | 11 (3%) | 14 (4%) |
 | Constipation | 8 (2%) | 11(3%) |
