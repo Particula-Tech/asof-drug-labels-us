@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA209780"
+  ],
+  "inn": "arsenic-trioxide",
+  "labeler": "Nexus Pharmaceuticals Inc",
+  "package_ndcs": [
+    "14789-600-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "arsenic trioxide",
+      "name": "Arsenic Trioxide"
+    }
+  ],
+  "setid": "2b2a7ed9-5ed3-42fc-b19b-d50700396233",
+  "source": "dailymed"
+}
