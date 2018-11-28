@@ -2,7 +2,6 @@
 
 Instruct patients to take Triglide once daily at the prescribed dose, swallowing each tablet whole.
 Additionally, instruct patients not to take chipped or broken tablets.
-
 Instruct patients to keep Triglide in the original bottle to protect from moisture.
 The bottle contains a desiccant in the cap to protect tablets from moisture.
 Tablets should not be stored or placed in any other container, such as pill boxes or pill organizers.

@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 160 mg Tablet Bottle Carton
+# PRINCIPAL DISPLAY PANEL - 160 mg Tablet Carton Label
 
 NDC: 70199-013-30
 
@@ -6,9 +6,7 @@ NDC: 70199-013-30
 
 Each tablet contains 160 mg fenofibrate
 
-Triglide® (fenofibrate) tablets 160 mg
-
-Store tablets only in the moisture protective container.
+Triglide® (fenofibrate) tablets 160 mg Store tablets only in the moisture protective container.
 
 30 Tablets
 
