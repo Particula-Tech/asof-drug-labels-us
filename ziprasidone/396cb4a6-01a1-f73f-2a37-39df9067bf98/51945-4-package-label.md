@@ -1,17 +1,19 @@
 # Package Label. Principal Display Panel
 
-Ziprasidone Hydrochloride Capsules, 20 mg - Container Label
+Unvarnished Area Consists of: 2D Barcode, Lot Number, Expiry Date and Serial Number.
 
-Ziprasidone Hydrochloride Capsules, 40 mg - Container Label
+20 mg - Container Label
 
-Ziprasidone Hydrochloride Capsules, 60 mg - Container Label
+40 mg - Container Label
 
-Ziprasidone Hydrochloride Capsules, 80 mg - Container Label
+60 mg - Container Label
 
-Ziprasidone Hydrochloride Capsules, 20 mg - Blister Carton Label
+80 mg - Container Label
 
-Ziprasidone Hydrochloride Capsules, 40 mg - Blister Carton Label
+20 mg - Blister Carton Label
 
-Ziprasidone Hydrochloride Capsules, 60 mg - Blister Carton Label
+40 mg - Blister Carton Label
 
-Ziprasidone Hydrochloride Capsules, 80 mg - Blister Carton Label
+60 mg - Blister Carton Label
+
+80 mg - Blister Carton Label
