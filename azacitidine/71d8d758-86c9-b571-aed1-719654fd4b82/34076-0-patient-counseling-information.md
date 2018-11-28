@@ -24,26 +24,8 @@ Rx only
 
 Manufactured by:
 
-Cipla Ltd,
-
-Verna -Salcette
-
-Goa – 403722, INDIA
-
-Manufactured for:
-
-Dr. Reddy’s Laboratories Limited
-
-Bachupally – 500 090 INDIA
-
-Revised: 1016
-
-OR
-
-Manufactured by:
-
 Dr. Reddy’s Laboratories Limited
 
 Visakhapatnam - 530 046 INDIA
 
-Revised: 1016
+Revised: 0818

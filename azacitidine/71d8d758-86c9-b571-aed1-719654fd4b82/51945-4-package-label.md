@@ -3,5 +3,3 @@
 Vial Label
 
 Vial Carton
-
-Vial Label

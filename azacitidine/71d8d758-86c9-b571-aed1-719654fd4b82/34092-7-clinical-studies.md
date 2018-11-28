@@ -57,8 +57,8 @@ Response Criteria
 |  |  | RA | RARS | RAEB |  | RAEB-T | CMMoL |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | CompleteResponse(CR), duration ≥4 weeks | Marrow | <5% blasts |  |  |  |  |  |
-| Peripheral Blood | Normal CBC if abnormal at baselineAbsence of blasts in the peripheral circulation |  |  |  |  |  |  |
-| Partial Response (PR), duration ≥4 weeks | Marrow | No marrow requirements |  | ≥50% decrease in blastsImprovement of marrow dyspoiesis |  |  |  |
+| Peripheral Blood | Normal CBC if abnormal at baseline Absence of blasts in the peripheral circulation |  |  |  |  |  |  |
+| Partial Response (PR), duration ≥4 weeks | Marrow | No marrow requirements |  | ≥50% decrease in blasts Improvement of marrow dyspoiesis |  |  |  |
 | Peripheral Blood | ≥50% restoration in the deficit from normal levels of baseline white cells, hemoglobin and platelets if abnormal at baseline No blasts in the peripheral circulation For CMMoL, if WBC is elevated at baseline, a ≥75% reduction in the excess count over the upper limit of normal |  |  |  |  |  |  |
 
 The overall response rate (CR + PR) of 15.7% in azacitidine for injection-treated patients without AML (16.2% for all azacitidine for injection randomized patients including AML) was statistically significantly higher than the response rate of 0% in the observation group (p<0.0001) (Table 5).
