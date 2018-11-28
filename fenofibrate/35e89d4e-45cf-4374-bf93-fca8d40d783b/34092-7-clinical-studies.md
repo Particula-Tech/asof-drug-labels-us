@@ -56,4 +56,4 @@ Effects of Fenofibrate in Patients With Severe Hypertriglyceridemia
 | HDL Cholesterol | 44 | 27 | 28 | 5.0 | 48 | 30 | 36 | 22.9* |
 | LDL Cholesterol | 42 | 100 | 90 | -4.2 | 45 | 103 | 131 | 45.0* |
 | VLDL Cholesterol | 42 | 137 | 142 | 11.0 | 45 | 126 | 54 | -49.4* |
-| *=p<0.05 vs. placebo |  |  |  |  |  |  |  |  |
+| *p=<0.05 vs. placebo |  |  |  |  |  |  |  |  |

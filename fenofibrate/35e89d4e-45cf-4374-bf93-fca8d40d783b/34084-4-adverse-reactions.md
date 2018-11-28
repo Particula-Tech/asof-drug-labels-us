@@ -34,7 +34,7 @@ Urticaria was seen in 1.1 vs. 0% and rash in 1.4 vs. 0.8% of fenofibrate and pla
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post approval use of fenofibrate..
+The following adverse reactions have been identified during postapproval use of fenofibrate..
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
 myalgia, rhabdomyolysis, pancreatitis, acute renal failure, muscle spasms, hepatitis, cirrhosis, anemia, arthralgia, decreases in hematocrit, white blood cell decreases, asthenia, and severely depressed HDL cholesterol levels.
