@@ -2,7 +2,7 @@
 
 Methotrexate Tablets USP, 2.5 mg (contain an amount of methotrexate sodium equivalent to 2.5 mg of methotrexate USP)
 
-2.5 mg tablets is supplied as a yellow, round slightly biconvex tablet, scored on one side and product identification “54 323” debossed on the other side.
+2.5 mg tablets are supplied as a yellow, round slightly biconvex tablet, scored on one side and product identification “54 323” debossed on the other side.
 
 NDC 0054-8550-25: 10x10 Unit-Dose
 

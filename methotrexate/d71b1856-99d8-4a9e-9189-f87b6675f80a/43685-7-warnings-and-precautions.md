@@ -147,7 +147,7 @@ Special caution is indicated in the presence of preexisting liver damage or impa
 
 In psoriasis, liver function tests, including serum albumin, should be performed periodically prior to dosing but are often normal in the face of developing fibrosis or cirrhosis.
 These lesions may be detectable only by biopsy.
-The usual recommendation is to obtain a liver biopsy at 1) pretherapy or shortly after initiation of therapy (2 - 4 months), 2) a total cumulative dose of 1.5 grams, and 3) after each additional 1.0 to 1.5 grams.
+The usual recommendation is to obtain a liver biopsy at 1) pretherapy or shortly after initiation of therapy (2 to 4 months), 2) a total cumulative dose of 1.5 grams, and 3) after each additional 1.0 to 1.5 grams.
 Moderate fibrosis or any cirrhosis normally leads to discontinuation of the drug; mild fibrosis normally suggests a repeat biopsy in 6 months.
 Milder histologic findings such as fatty change and low grade portal inflammation are relatively common pretherapy.
 Although these mild changes are usually not a reason to avoid or discontinue methotrexate therapy, the drug should be used with caution.
@@ -160,7 +160,7 @@ Of the 64 cases of fibrosis, 60 were deemed mild.
 The reticulin stain is more sensitive for early fibrosis and its use may increase these figures.
 It is unknown whether even longer use will increase these risks.
 
-Liver function tests should be performed at baseline and at 4-8 week intervals in patients receiving methotrexate for rheumatoid arthritis.
+Liver function tests should be performed at baseline and at 4 to 8 week intervals in patients receiving methotrexate for rheumatoid arthritis.
 Pretreatment liver biopsy should be performed for patients with a history of excessive alcohol consumption, persistently abnormal baseline liver function test values or chronic hepatitis B or C infection.
 During therapy, liver biopsy should be performed if there are persistent liver function test abnormalities or there is a decrease in serum albumin below the normal range (in the setting of well controlled rheumatoid arthritis).
 

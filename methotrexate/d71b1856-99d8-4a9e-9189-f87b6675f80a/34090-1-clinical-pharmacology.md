@@ -43,7 +43,7 @@ Food has been shown to delay absorption and reduce peak concentration.
 Methotrexate is generally completely absorbed from parenteral routes of injection.
 After intramuscular injection, peak serum concentrations occur in 30 to 60 minutes.
 As in leukemic pediatric patients, a wide interindividual variability in the plasma concentrations of methotrexate has been reported in pediatric patients with JRA.
-Following oral administration of methotrexate in doses of 6.4 to 11.2 mg/m2/week in pediatric patients with JRA, mean serum concentrations were 0.59 micromolar (range, 0.03 to 1.40) at 1 hour, 0.44 micromolar (range, 0.01 to 1.00) at 2 hours, and 0.29 micromolar (range 0.06 to 0.58) at 3 hours.
+Following oral administration of methotrexate in doses of 6.4 to 11.2 mg/m2/week in pediatric patients with JRA, mean serum concentrations were 0.59 micromolar (range, 0.03 to 1.40) at 1 hour, 0.44 micromolar (range, 0.01 to 1.00) at 2 hours, and 0.29 micromolar (range, 0.06 to 0.58) at 3 hours.
 In pediatric patients receiving methotrexate for acute lymphocytic leukemia (6.3 to 30 mg/m2), or for JRA (3.75 to 26.2 mg/m2), the terminal half-life has been reported to range from 0.7 to 5.8 hours or 0.9 to 2.3 hours, respectively.
 
 ### Distribution
