@@ -76,8 +76,7 @@ Before you take clopidogrel tablets, tell your doctor if you:
   It is not known if clopidogrel tablets will harm your unborn baby
 - are breastfeeding or plan to breastfeed.
   It is not known if clopidogrel passes into your breast milk.
-  You and your doctor should decide if you will take clopidogrel tablets or breastfeed.
-  You should not do both without talking to your doctor
+  A decision should be made with your healthcare provider to avoid or discontinue breastfeeding when continuing clopidogrel tablets is needed.
 - have had an allergy or reaction to any medicine used to treat your disease.
 
 Tell all of your doctors and your dentist that you are taking clopidogrel tablets.
@@ -185,15 +184,7 @@ Film coating: hypromellose 2910-5cP, polyethylene glycol 400 and titanium dioxid
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-To reorder additional medication guides, please contact Dr. Reddy’s Customer Service at 1-866-733-3952.
-
-Coumadin® is a registered trademark of Bristol-Myers Squibb Pharma Company.
-
-Prilosec® and Nexium® are registered trademarks of AstraZeneca.
-
-Prandin® is a registered trademark of Novo Nordisk Inc.
-
-Jantoven® is a registered trademark of USL Pharma.
+All other trademarks are property of their respective owners.
 
 RX only
 
@@ -211,6 +202,6 @@ Dr. Reddy’s Laboratories Limited
 
 Srikakulam - 532 409 INDIA
 
-Revised: 0618
+Revised: 1018
 
 Dispense with Medication Guide available at: www.drreddys.com/medguide/clopidogreltabs.pdf

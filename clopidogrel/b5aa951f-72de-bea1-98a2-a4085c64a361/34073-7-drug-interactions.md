@@ -3,19 +3,19 @@
 ## 7.1 CYP2C19 Inhibitors
 
 Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
-Concomitant use of certain drugs that inhibit the activity of this enzyme results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition.inhibition [see Warnings and Precautions (5.1)].
+Concomitant use of drugs that inhibit the activity of this enzyme results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition.inhibition [see Warnings and Precautions(5.1)].
 
 Omeprazole or Esomeprazole
 
 Avoid concomitant use of clopidogrel with omeprazole or esomeprazole.
 In clinical studies, omeprazole was shown to reduce significantly the antiplatelet activity of clopidogrel when given concomitantly or 12 hours apart.
 A similar reduction in antiplatelet activity was observed with esomeprazole when given concomitantly with clopidogrel.
-Dexlansoprazole, lansoprazole and pantoprazole had less effect on the antiplatelet activity of clopidogrel than did omeprazole or esomeprazole [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+Dexlansoprazole, lansoprazole, and pantoprazole had less effect on the antiplatelet activity of clopidogrel than did omeprazole or esomeprazole [see Warnings and Precautions(5.1) and Clinical Pharmacology(12.3)].
 
 ## 7.2 Opioids
 
-As with other oral P2Y12 inhibitors, co-administration of opioid agonists delay and reduce the absorption of clopidogrel, presumably because of slowed gastric emptying, resulting in reduced exposure to its metabolites [see Clinical Pharmacology (12.3)].
-Consider the use of a parenteral antiplatelet agent in acute coronary syndrome patients requiring co-administration of morphine or other opioid agonists.
+As with other oral P2Y12 inhibitors, coadministration of opioid agonists delay and reduce the absorption of clopidogrel, presumably because of slowed gastric emptying, resulting in reduced exposure to its metabolites [see Clinical Pharmacology (12.3)].
+Consider the use of a parenteral antiplatelet agent in acute coronary syndrome patients requiring coadministration of morphine or other opioid agonists.
 
 ## 7.3 Nonsteroidal Anti-inflammatory Drugs (NSAIDs)
 
