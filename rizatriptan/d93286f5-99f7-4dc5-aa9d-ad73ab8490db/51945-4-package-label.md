@@ -22,9 +22,7 @@ Formulated in China.
 
 # PRINCIPAL DISPLAY PANEL - 10 mg Tablet Pouch Carton
 
-Maxalt® (rizatriptan benzoate)
-
-10 mg TABLETS
+Maxalt® (rizatriptan benzoate) 10 mg TABLETS
 
 NDC 0006-0267-18
 
@@ -36,9 +34,7 @@ USUAL DOSAGE: See accompanying circular.
 
 Rx only
 
-Manuf. by: Zhejiang Huahai Pharmaceutical Co., Ltd. Xunqiao, Linhai, Zhejiang 317024, China
-
-Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA Rizatriptan benzoate (active ingred.)
+Manuf. by: Zhejiang Huahai Pharmaceutical Co., Ltd. Xunqiao, Linhai, Zhejiang 317024, China Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA Rizatriptan benzoate (active ingred.)
 Made in Ireland.
 Formulated in China.
 
@@ -68,11 +64,9 @@ Rizatriptan benzoate (active ingred.)
 Made in Ireland.
 Formulated in UK.
 
-# PRINCIPAL DISPLAY PANEL - 10 mg Tablet Case Carton - Orally Disintegrating Tablets
+# PRINCIPAL DISPLAY PANEL - 10 mg Tablet Case Carton
 
-Maxalt-MLT® (rizatriptan benzoate) ORALLY DISINTEGRATING TABLETS
-
-10 mg
+Maxalt-MLT® (rizatriptan benzoate) ORALLY DISINTEGRATING TABLETS 10 mg
 
 NDC 0006-3801-18
 
@@ -83,7 +77,6 @@ Phenylketonurics: contains phenylalanine (a component of aspartame) 2.10 mg per 
 6 Carrying Cases, Each Containing 3 Orally Disintegrating Tablets
 
 USUAL DOSAGE: See accompanying circular.
-
 Rx only
 
 Manuf. by: Catalent UK Swindon, Zydis Ltd. Swindon, Wiltshire, SN5 8RU, UK
