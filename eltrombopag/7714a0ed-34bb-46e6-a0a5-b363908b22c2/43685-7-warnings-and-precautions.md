@@ -10,6 +10,11 @@ Discontinue PROMACTA if antiviral therapy is discontinued.
 ## 5.2 Hepatotoxicity
 
 PROMACTA may increase the risk of severe and potentially life-threatening hepatotoxicity [see Adverse Reactions (6.1)].
+One patient (< 1%) with chronic ITP treated with PROMACTA in clinical trials experienced drug-induced liver injury.
+Eleven patients (1%) with chronic hepatitis C treated with PROMACTA in clinical trials experienced drug-induced liver injury.
+
+Treatment of ITP, Chronic Hepatitis C-associated Thrombocytopenia, and Refractory Severe Aplastic Anemia
+
 Measure serum ALT, AST, and bilirubin prior to initiation of PROMACTA, every 2 weeks during the dose adjustment phase, and monthly following establishment of a stable dose.
 PROMACTA inhibits UDP-glucuronosyltransferase (UGT)1A1 and organic anion-transporting polypeptide (OATP)1B1, which may lead to indirect hyperbilirubinemia.
 If bilirubin is elevated, perform fractionation.
@@ -26,9 +31,10 @@ If the potential benefit for reinitiating treatment with PROMACTA is considered 
 Hepatotoxicity may reoccur if PROMACTA is reinitiated.
 If liver test abnormalities persist, worsen, or recur, then permanently discontinue PROMACTA.
 
-Isolated cases of severe liver injury were identified in clinical trials.
-The elevation of liver laboratory values occurred approximately three months after initiation of PROMACTA.
-In all cases, the event resolved following PROMACTA discontinuation.
+First-Line Treatment of Severe Aplastic Anemia
+
+Measure ALT, AST, and bilirubin prior to initiation of PROMACTA, every other day while hospitalized for h-ATG therapy, and then every 2 weeks during treatment.
+During treatment, manage increases in ALT or AST levels as recommended in Table 6.
 
 ## 5.3 Increased Risk of Death and Progression of Myelodysplastic Syndromes (MDS) to Acute Myeloid Leukemia (AML)
 

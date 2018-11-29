@@ -82,6 +82,64 @@ Excessive platelet count responses, as outlined in Table 2, or important liver t
 
 ## 2.3 Severe Aplastic Anemia
 
+First-line Severe Aplastic Anemia
+
+Initiate PROMACTA concurrently with standard immunosuppressive therapy [see Clinical Studies (14.3)].
+
+Initial Dose Regimen:
+
+The recommended initial dose regimen is listed in Table 3.
+Do not exceed the initial dose of PROMACTA.
+
+Table 3.
+Recommended Initial PROMACTA Dose Regimen in the First-Line Treatment of Severe Aplastic Anemia
+
+| Age | Dose Regimen |
+| --- | --- |
+| Patients 12 Years and Older | 150 mg once daily for 6 months |
+| Pediatric Patients 6 to 11 Years | 75 mg once daily for 6 months |
+| Pediatric Patients 2 to 5 Years | 2.5 mg/kg once daily for 6 months |
+
+For patients with severe aplastic anemia of Asian ancestry (such as Chinese, Japanese, Taiwanese, Korean, or Thai) or those with mild, moderate, or severe hepatic impairment (Child-Pugh Class A, B, C), decrease the initial PROMACTA dose by 50% as listed in Table 4 [see Use in Specific Populations (8.6, 8.7), Clinical Pharmacology (12.3)].
+
+If baseline ALT or AST levels are > 6 x ULN, do not initiate PROMACTA until transaminase levels are < 5 x ULN.
+Determine the initial dose for these patients based on Table 3 or Table 4.
+
+Table 4.
+Recommended Initial PROMACTA Dose Regimen for Patients of Asian Ancestry or Those with Mild, Moderate, or Severe Hepatic Impairment (Child-Pugh Class A, B, C) in the First-Line Treatment of Severe Aplastic Anemia
+
+| Age | Dose Regimen |
+| --- | --- |
+| Patients 12 Years and Older | 75 mg once daily for 6 months |
+| Pediatric Patients 6 to 11 Years | 37.5 mg once daily for 6 months |
+| Pediatric Patients 2 to 5 Years | 1.25 mg/kg once daily for 6 months |
+
+Monitoring and Dose Adjustment for PROMACTA: Perform clinical hematology and liver tests regularly throughout therapy with PROMACTA [see Warnings and Precautions (5.2)].
+
+Modify the dosage regimen of PROMACTA based on platelet counts as outlined in Table 5.
+
+Table 5.
+Dose Adjustments of PROMACTA for Elevated Platelet Counts in the First-line Treatment of Severe Aplastic Anemia
+
+| Platelet Count Result | Dose Adjustment or Response |
+| --- | --- |
+| > 200 x 109/L to ≤ 400 x 109/L | Decrease the daily dose by 25 mg every 2 weeks to lowest dose that maintains platelet count ≥ 50 x 109/L. In pediatric patients under 12 years of age, decrease the dose by 12.5 mg. |
+| > 400 x 109/L | Discontinue PROMACTA for one week. Once the platelet count is < 200 x 109/L, reinitiate PROMACTA at a daily dose reduced by 25 mg (or 12.5 mg in pediatric patients under 12 years of age). |
+
+Table 6 summarizes the recommendations for dose interruption, reduction, or discontinuation of PROMACTA in the management of elevated liver transaminase levels and thromboembolic events.
+
+Table 6.
+Recommended Dose Modifications for PROMACTA for ALT or AST Elevations and Thromboembolic Events
+
+| Event | Recommendation |
+| --- | --- |
+| ALT or AST Elevations | Increase in ALT or AST > 6 x ULN Discontinue PROMACTA. Once ALT or AST is < 5 x ULN, reinitiate PROMACTA at the same dose. Increase in ALT or AST > 6 x ULN after reinitiating PROMACTA Discontinue PROMACTA and monitor ALT or AST at least every 3 to 4 days. Once ALT or AST is < 5 x ULN, reinitiate PROMACTA at a daily dose reduced by 25 mg compared to the previous dose. If ALT or AST returns to > 6 x ULN on the reduced dose Reduce the daily dose of PROMACTA by 25 mg until ALT or AST is < 5 x ULN. In pediatric patients under 12 years of age, reduce the daily dose by at least 15% to the nearest dose that can be administered. |
+| Thromboembolic events (e.g., deep vein thrombosis, pulmonary embolus, stroke, myocardial infarction) | Discontinue PROMACTA but remain on horse antithymocyte globulin (h-ATG) and cyclosporine. |
+
+The total duration of PROMACTA treatment is 6 months.
+
+Refractory Severe Aplastic Anemia
+
 Use the lowest dose of PROMACTA to achieve and maintain a hematologic response.
 Dose adjustments are based upon the platelet count.
 Hematologic response requires dose titration, generally up to 150 mg, and may take up to 16 weeks after starting PROMACTA [see Clinical Studies (14.3)].
@@ -92,10 +150,10 @@ For patients with severe aplastic anemia of Asian ancestry or those with mild, m
 
 Monitoring and Dose Adjustment: Adjust the dose of PROMACTA in 50-mg increments every 2 weeks as necessary to achieve the target platelet count greater than or equal to 50 x 109/L as necessary.
 Do not exceed a dose of 150 mg daily.
-Monitor clinical hematology and liver tests regularly throughout therapy with PROMACTA and modify the dosage regimen of PROMACTA based on platelet counts as outlined in Table 3.
+Monitor clinical hematology and liver tests regularly throughout therapy with PROMACTA and modify the dosage regimen of PROMACTA based on platelet counts as outlined in Table 7.
 
-Table 3.
-Dose Adjustments of PROMACTA in Patients with Severe Aplastic Anemia
+Table 7.
+Dose Adjustments of PROMACTA in Patients with Refractory Severe Aplastic Anemia
 
 | Platelet Count Result | Dose Adjustment or Response |
 | --- | --- |
@@ -110,7 +168,7 @@ If platelet counts drop to less than 30 x 109/L, hemoglobin to less than 9 g/dL,
 
 Discontinuation: If no hematologic response has occurred after 16 weeks of therapy with PROMACTA, discontinue therapy.
 If new cytogenetic abnormalities are observed, consider discontinuation of PROMACTA [see Adverse Reactions (6.1)].
-Excessive platelet count responses (as outlined in Table 3) or important liver test abnormalities also necessitate discontinuation of PROMACTA [see Warnings and Precautions (5.2)].
+Excessive platelet count responses (as outlined in Table 7) or important liver test abnormalities also necessitate discontinuation of PROMACTA [see Warnings and Precautions (5.2)].
 
 ## 2.4 Administration
 

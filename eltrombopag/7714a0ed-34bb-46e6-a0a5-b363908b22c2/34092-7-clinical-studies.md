@@ -14,9 +14,9 @@ The median baseline platelet counts (approximately 18 x 109/L) were similar amon
 Study 773B randomized 114 patients (2:1) to PROMACTA 50 mg or placebo.
 Study 773A randomized 117 patients (1:1:1:1) among placebo or 1 of 3 dose regimens of PROMACTA, 30 mg, 50 mg, or 75 mg each administered daily.
 
-The efficacy of PROMACTA in this trial was evaluated by response rate, defined as a shift from a baseline platelet count of less than 30 x 109/L to greater than or equal to 50 x 109/L at any time during the treatment period (Table 11).
+The efficacy of PROMACTA in this trial was evaluated by response rate, defined as a shift from a baseline platelet count of less than 30 x 109/L to greater than or equal to 50 x 109/L at any time during the treatment period (Table 16).
 
-Table 11.
+Table 16.
 Studies 773B and 773A: Platelet Count Response (≥ 50 x 109/L) Rates in Adults with Chronic Immune Thrombocytopenia
 
 | Study | PROMACTA50 mg Daily | Placebo |
@@ -47,9 +47,9 @@ In 134 patients who completed 26 weeks of treatment, a sustained platelet respon
 The proportion of responders in the group of patients treated with PROMACTA was between 37% and 56% compared with 7% and 19% in the placebo treatment group for all on-therapy visits.
 Patients treated with PROMACTA were significantly more likely to achieve a platelet count between 50 x 109/L and 400 x 109/L during the entire 6-month treatment period compared with those patients treated with placebo.
 
-Outcomes of treatment are presented in Table 12 for all patients enrolled in the trial.
+Outcomes of treatment are presented in Table 17 for all patients enrolled in the trial.
 
-Table 12.
+Table 17.
 RAISE: Outcomes of Treatment in Adults with Chronic Immune Thrombocytopenia
 
 | Outcome | PROMACTAN = 135 | PlaceboN = 62 |
@@ -81,9 +81,9 @@ Approximately 62% of patients had a baseline platelet count less than or equal t
 The percentage of patients with at least 2 prior ITP therapies (predominantly corticosteroids and immunoglobulins) was 73% in the group treated with PROMACTA and 90% in the group treated with placebo.
 Four patients in the group treated with PROMACTA had undergone splenectomy.
 
-The efficacy of PROMACTA in this trial was evaluated by the proportion of subjects on PROMACTA achieving platelet counts ≥ 50 x 109/L (in the absence of rescue therapy) for at least 6 out of 8 weeks between Weeks 5 to 12 of the randomized, double-blind period (Table 13).
+The efficacy of PROMACTA in this trial was evaluated by the proportion of subjects on PROMACTA achieving platelet counts ≥ 50 x 109/L (in the absence of rescue therapy) for at least 6 out of 8 weeks between Weeks 5 to 12 of the randomized, double-blind period (Table 18).
 
-Table 13.
+Table 18.
 PETIT2: Platelet Count Response (≥ 50 x 109/L without Rescue) for 6 out of 8 Weeks (between Weeks 5 to 12) Overall and by Age Cohort in Pediatric Patients 1 Year and Older with Chronic Immune Thrombocytopenia
 
 | Age Cohort | PROMACTA | Placebo |
@@ -114,10 +114,10 @@ Approximately 51% of patients had a baseline platelet count less than or equal t
 The percentage of patients with at least 2 prior ITP therapies (predominantly corticosteroids and immunoglobulins) was 84% in the group treated with PROMACTA and 86% in the group treated with placebo.
 Five patients in the group treated with PROMACTA had undergone splenectomy.
 
-The efficacy of PROMACTA in this trial was evaluated by the proportion of patients achieving platelet counts greater than or equal to 50 x 109/L (in absence of rescue therapy) at least once between Weeks 1 and 6 of the randomized, double-blind period (Table 14).
+The efficacy of PROMACTA in this trial was evaluated by the proportion of patients achieving platelet counts greater than or equal to 50 x 109/L (in absence of rescue therapy) at least once between Weeks 1 and 6 of the randomized, double-blind period (Table 19).
 Platelet response to PROMACTA was consistent across the age cohorts.
 
-Table 14.
+Table 19.
 PETIT: Platelet Count Response (≥ 50 x 109/L without Rescue) Rates in Pediatric Patients 1 Year and Older with Chronic Immune Thrombocytopenia
 
 |  | PROMACTA | Placebo |
@@ -157,11 +157,11 @@ The efficacy of PROMACTA for both trials was evaluated by sustained virologic re
 The median time to achieve the target platelet count greater than or equal to 90 x 109/L was approximately 2 weeks.
 Ninety-five percent of patients were able to initiate antiviral therapy.
 
-In both trials, a significantly greater proportion of patients treated with PROMACTA achieved SVR (see Table 15).
+In both trials, a significantly greater proportion of patients treated with PROMACTA achieved SVR (see Table 20).
 The improvement in the proportion of patients who achieved SVR was consistent across subgroups based on baseline platelet count (less than 50 x 109/L versus greater than or equal to 50 x 109/L).
 In patients with high baseline viral loads (greater than or equal to 800,000), the SVR rate was 18% (82/452) for PROMACTA versus 8% (20/239) for placebo.
 
-Table 15.
+Table 20.
 ENABLE1 and ENABLE2: Sustained Virologic Response (SVR) in Adults with Chronic Hepatitis C
 
 |  | ENABLE1a |  | ENABLE2b |  |
@@ -179,6 +179,63 @@ A greater proportion of patients on PROMACTA did not require any antiviral dose 
 
 ## 14.3 Severe Aplastic Anemia
 
+First-Line Treatment of Severe Aplastic Anemia
+
+PROMACTA in combination with horse antithymocyte globulin (h-ATG) and cyclosporine was investigated in a single-arm, single-center, open-label sequential cohort trial (Study ETB115AUS01T, referred to as Study US01T [NCT01623167]) in patients with severe aplastic anemia who had not received prior immunosuppressive therapy (IST) with any ATG, alemtuzumab, or high dose cyclophosphamide.
+A total of 153 patients received PROMACTA in Study US01T in three sequential cohorts and an extension of the third cohort.
+The multiple cohorts received the same PROMACTA starting dose but differed by treatment start day and duration.
+The starting dose of PROMACTA for patients 12 years and older was 150 mg once daily (a reduced dose of 75 mg was administered for East and Southeast Asians), 75 mg once daily for pediatric patients aged 6 to 11 years (a reduced dose of 37.5 mg was administered for East and Southeast Asians), and 2.5 mg/kg once daily for pediatric patients aged 2 to 5 years (a reduced dose of 1.25 mg/kg was administered for East and Southeast Asians).
+
+- Cohort 1 (n=30): PROMACTA on Day 14 to Month 6 (D14-M6) plus h-ATG and cyclosporine
+- Cohort 2 (n=31): PROMACTA on Day 14 to Month 3 (D14-M3) plus h-ATG and cyclosporine
+- Cohort 3 + Extension cohort [PROMACTA D1-M6 cohort] (n = 92): PROMACTA on Day 1 to Month 6 (D1-M6) plus h-ATG and cyclosporine (with all patients eligible to receive low dose of cyclosporine (maintenance dose) if they achieved a hematologic response at 6 months)
+
+PROMACTA dose reductions were conducted for elevated platelet counts and hepatic impairment.
+Table 21 includes the dosages of h-ATG and cyclosporine administered in combination with PROMACTA in Study US01T.
+
+Data from the Cohort 3 + Extension cohort support the efficacy of PROMACTA for the first-line treatment of patients with severe aplastic anemia (Table 22).
+The results presented in this section represent the findings from the Cohort 3 and Extension cohort (n = 92).
+
+Table 21.
+Dosages of Immunosuppressive Therapy Administered with PROMACTA in Study US01T
+
+| Agent | Dose Administered in the Pivotal Trial |
+| --- | --- |
+| Horse antithymocyte globulin (h-ATG) | 40 mg/kg/day, based on actual body weight, administered intravenously on Days 1 to 4 of the 6-month treatment period |
+| Cyclosporinea (therapeutic dose for 6 months, from Day 1 to Month 6, adjusted to obtain a target therapeutic trough level between 200 mcg/L and 400 mcg/L) | Patients 12 years and older (total daily dose of 6 mg/kg/day)3 mg/kg, based on actual body weight, orally every 12 hours for 6 months, starting on Day 1 Patients > 20 years of age with a body mass index > 35 or patients 12 to 20 years of age with a body mass index > 95th percentile:3 mg/kg, based on adjusted body weightb, orally every 12 hours for 6 months, starting on Day 1 Patients 2 to 11 years of age (total daily dose of 12 mg/kg/day)6 mg/kg, based on actual body weight, orally every 12 hours for 6 months, starting on Day 1 Patients 2 to 11 years of age with a body mass index > 95th percentile:6 mg/kg, based on adjusted body weightb, orally every 12 hours for 6 months, starting on Day 1 |
+| Cyclosporine (maintenance dose, from Month 6 to Month 24) | For patients who achieve a hematologic response at 6 months2 mg/kg/day administered orally at a fixed dose for an additional 18 months |
+| a Dose of cyclosporine was adjusted to achieve the above recommended target trough levels; refer to the appropriate cyclosporine prescribing information b Calculated as the midpoint between the ideal body weight and actual body weight |  |
+
+In the PROMACTA D1-M6 cohort, the median age was 28 years (range 5 to 82 years) with 16% and 28% of patients ≥ 65 years of age and < 17 years of age, respectively.
+Forty-six percent of patients were male and the majority of patients were White (62%).
+Patients weighing 12 kg or less or patients with ALT or AST > 5x upper limit of normal were excluded from the trial.
+
+The efficacy of PROMACTA in combination with h-ATG and cyclosporine was established on the basis of complete hematological response at 6 months.
+A complete response was defined as hematological parameters meeting all 3 of the following values on 2 consecutive serial blood count measurements at least one week apart: absolute neutrophil count (ANC) > 1,000/mcL, platelet count > 100 x 109/L and hemoglobin > 10 g/dL.
+A partial response was defined as blood counts no longer meeting the standard criteria for severe pancytopenia in severe aplastic anemia equivalent to 2 of the following values on 2 consecutive serial blood count measurements at least one week apart: ANC > 500/mcL, platelet count > 20 x 109/L, or reticulocyte count >60,000/mcL.
+Overall response rate is defined as the number of partial responses plus complete responses.
+
+Table 22.
+Study US01T: Hematologic Response in First-Line Treatment of Patients with Severe Aplastic Anemia
+
+|  | PROMACTA D1-M6 + h-ATG + cyclosporine N = 92 |
+| --- | --- |
+| Month 6, naOverall response, n (%) [95% CI]Complete response, n (%) [95% CI] | 87 69 (79) [69, 87] 38 (44) [33, 55] |
+| Median duration of overall response, nb | 70 |
+| Months (95% CI) | 24.3 (21.4, NE) |
+| Median duration of complete response, nb | 46 |
+| Months (95% CI) | 24.3 (23.0, NE) |
+| a The number of patients who reached the 6-month assessment or withdrew earlier is the denominator for percentage calculation b Number of responders at any time NE = not estimable |  |
+
+The overall and complete hematological response rates at Year 1 (N = 78) are 56.4% and 38.5% and at Year 2 (N = 62) are 38.7% and 30.6%, respectively.
+
+Pediatric Patients
+
+Thirty-four patients 2 to 16 years of age were enrolled in Study US01T.
+In the D1-M6 cohort, 7 and 17 out of 25 pediatric patients achieved a complete and overall response, respectively, at 6 months.
+
+Refractory Severe Aplastic Anemia
+
 PROMACTA was studied in a single-arm, single-center, open-label trial (Study ETB115AUS28T, referred to as Study US28T [NCT00922883]) in 43 patients with severe aplastic anemia who had an insufficient response to at least one prior immunosuppressive therapy and who had a platelet count less than or equal to 30 x 109/L.
 PROMACTA was administered at an initial dose of 50 mg once daily for 2 weeks and increased over 2-week periods up to a maximum dose of 150 mg once daily.
 The efficacy of PROMACTA in the study was evaluated by the hematologic response assessed after 12 weeks of treatment.
@@ -192,10 +249,10 @@ Eighty-six percent of patients were RBC transfusion dependent and 91% were plate
 The majority of patients (84%) received at least 2 prior immunosuppressive therapies.
 Three patients had cytogenetic abnormalities at baseline.
 
-Table 16 presents the efficacy results.
+Table 23 presents the efficacy results.
 
-Table 16.
-Study US28T: Hematologic Response in Patients with Severe Aplastic Anemia
+Table 23.
+Study US28T: Hematologic Response in Patients with Refractory Severe Aplastic Anemia
 
 | Outcome | PROMACTAN = 43 |
 | --- | --- |

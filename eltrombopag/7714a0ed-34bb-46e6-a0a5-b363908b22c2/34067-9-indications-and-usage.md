@@ -12,7 +12,8 @@ PROMACTA should be used only in patients with chronic hepatitis C whose degree o
 
 ## 1.3 Treatment of Severe Aplastic Anemia
 
-PROMACTA is indicated for the treatment of patients with severe aplastic anemia who have had an insufficient response to immunosuppressive therapy.
+- PROMACTA is indicated in combination with standard immunosuppressive therapy for the first-line treatment of adult and pediatric patients 2 years and older with severe aplastic anemia.
+- PROMACTA is indicated for the treatment of patients with severe aplastic anemia who have had an insufficient response to immunosuppressive therapy.
 
 ## 1.4 Limitations of Use
 

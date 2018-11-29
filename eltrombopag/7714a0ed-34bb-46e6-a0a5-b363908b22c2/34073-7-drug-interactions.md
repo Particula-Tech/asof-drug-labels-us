@@ -17,7 +17,7 @@ In clinical trials with PROMACTA, a dose reduction of rosuvastatin by 50% was re
 HIV Protease Inhibitors: No dose adjustment is recommended when PROMACTA is coadministered with lopinavir/ritonavir (LPV/RTV).
 Drug interactions with other HIV protease inhibitors have not been evaluated.
 
-Hepatitis C Virus (HCV) Protease Inhibitors: No dose adjustments are recommended when PROMACTA is coadministered with boceprevir or telaprivir.
+Hepatitis C Virus (HCV) Protease Inhibitors: No dose adjustments are recommended when PROMACTA is coadministered with boceprevir or telaprevir.
 Drug interactions with other HCV protease inhibitors have not been evaluated.
 
 ## 7.4 Peginterferon alfa-2a/b Therapy

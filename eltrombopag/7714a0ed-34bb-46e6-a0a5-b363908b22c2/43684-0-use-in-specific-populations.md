@@ -48,23 +48,39 @@ Sexually-active females of reproductive potential should use effective contracep
 
 ## 8.4 Pediatric Use
 
-The safety and efficacy of PROMACTA in pediatric patients 1 year and older with chronic ITP were evaluated in two double-blind, placebo-controlled trials [see Adverse Reactions (6.2), Clinical Studies (14.2)].
+The safety and efficacy of PROMACTA have been established in pediatric patients 1 year and older with chronic ITP and in pediatric patients 2 years and older with definitive immunosuppressive therapy (IST)-naïve severe aplastic anemia (in combination with horse antithymocyte globulin [h-ATG] and cyclosporine).
+Safety and efficacy in pediatric patients below the age of 1 year with ITP have not been established.
+Safety and efficacy in pediatric patients with thrombocytopenia associated with chronic hepatitis C and refractory severe aplastic anemia have not been established.
+
+The safety and efficacy of PROMACTA in pediatric patients 1 year and older with chronic ITP were evaluated in two double-blind, placebo-controlled trials [see Adverse Reactions (6.1), Clinical Studies (14.1)].
 The pharmacokinetics of eltrombopag have been evaluated in 168 pediatric patients 1 year and older with ITP dosed once daily [see Clinical Pharmacology (12.3)].
 See Dosage and Administration (2.1) for dosing recommendations for pediatric patients 1 year and older.
-The safety and efficacy of PROMACTA in pediatric patients younger than 1 year with ITP have not yet been established.
 
-The safety and efficacy of PROMACTA in pediatric patients with thrombocytopenia associated with chronic hepatitis C and severe aplastic anemia have not been established.
+The safety and efficacy of PROMACTA in combination with h-ATG and cyclosporine for the first-line treatment of severe aplastic anemia in pediatric patients 2 years and older were evaluated in a single-arm, open-label trial [see Adverse Reactions (6.1), Clinical Studies (14.3)].
+A total of 26 pediatric patients (ages 2 to < 17 years) were evaluated; 12 children (aged 2 to < 12 years) and 14 adolescents (aged 12 to < 17).
+See Dosage and Administration (2.3) for dosing recommendations for pediatric patients 2 years and older.
+The safety and efficacy of PROMACTA in combination with h-ATG and cyclosporine in pediatric patients younger than 2 years for the first-line treatment of severe aplastic anemia have not yet been established.
+In patients 2 to 16 years of age, 69% of patients experienced serious adverse events compared to 42% in patients 17 years and older.
+Among the 12 patients who were 2 to 11 years of age in the PROMACTA D1-M6 cohort and reached the 6-month assessment or withdrew earlier, the complete response rate at Month 6 was 8% versus 46% in patients age 12 to 16 years and 50% in patients 17 years of age and older.
 
 ## 8.5 Geriatric Use
 
 Of the 106 patients in two randomized clinical trials of PROMACTA 50 mg in chronic ITP, 22% were 65 years of age and over, while 9% were 75 years of age and over.
 Of the 1439 patients in two randomized clinical trials of PROMACTA in patients with chronic hepatitis C and thrombocytopenia, 7% were 65 years of age and over, while < 1% were 75 years of age and over.
-Of 43 patients in a single-arm, open-label trial of PROMACTA in patients with severe aplastic anemia, 33% were 65 years of age and over, while 5% were 75 years of age and older.
-No overall differences in safety or effectiveness were observed between these patients and younger patients in the placebo-controlled trials, but greater sensitivity of some older individuals cannot be ruled out.
+Of the 196 patients who received PROMACTA for the treatment of severe aplastic anemia, 18% were 65 years of age and over, while 3% were 75 years of age and over.
+No overall differences in safety or effectiveness were observed between these patients and younger patients.
 
 ## 8.6 Hepatic Impairment
 
-Reduce the initial dose of PROMACTA in patients with chronic ITP (adult and pediatric patients 6 years and older only) or severe aplastic anemia who also have hepatic impairment (Child-Pugh Class A, B, C) [see Dosage and Administration (2.1, 2.3), Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].
+Patients with Chronic ITP and Severe Aplastic Anemia
+
+Reduce the initial dose of PROMACTA in patients with chronic ITP (adult and pediatric patients 6 years and older only) or refractory severe aplastic anemia who also have hepatic impairment (Child-Pugh Class A, B, C) [see Dosage and Administration (2.1, 2.3), Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].
+
+In a clinical trial in patients with severe aplastic anemia who had not received prior definitive immunosuppressive therapy, patients with baseline ALT or AST > 5 x ULN were ineligible to participate.
+If a patient with hepatic impairment (Child-Pugh Class A, B, C) initiates therapy with PROMACTA for the first-line treatment of severe aplastic anemia, reduce the initial dose [see Dosage and Administration (2.3), Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].
+
+Patients with Chronic Hepatitis C
+
 No dosage adjustment is recommended in patients with chronic hepatitis C and hepatic impairment [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Ethnicity

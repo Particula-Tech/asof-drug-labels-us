@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-## 3.1 Tablets
+Tablets
 
 - 12.5-mg tablets — round, biconvex, white, film-coated tablets debossed with GS MZ1 and 12.5 on one side.
   Each tablet, for oral administration, contains eltrombopag olamine, equivalent to 12.5 mg of eltrombopag free acid.
@@ -11,7 +11,7 @@
 - 75-mg tablets — round, biconvex, pink, film-coated tablets debossed with GS FFS and 75 on one side.
   Each tablet, for oral administration, contains eltrombopag olamine, equivalent to 75 mg of eltrombopag free acid.
 
-## 3.2 For Oral Suspension
+For Oral Suspension
 
 - 12.5-mg packet — contains a reddish-brown to yellow powder for reconstitution.
 - 25-mg packet — contains a reddish-brown to yellow powder for reconstitution.

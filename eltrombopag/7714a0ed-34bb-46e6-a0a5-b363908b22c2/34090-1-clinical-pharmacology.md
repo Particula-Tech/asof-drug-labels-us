@@ -18,7 +18,7 @@ At doses up to 150 mg (the maximum recommended dose) daily for 5 days, PROMACTA 
 Eltrombopag demonstrated a dose-proportional increase in exposure between doses of 50 to 150 mg/day in healthy adult subjects.
 Eltrombopag AUC was approximately 1.7 fold higher in patients with chronic ITP and approximately 2.8-fold higher in patients with HCV compared to healthy subjects.
 Steady-state was achieved after approximately 1 week of once daily treatment, with geometric mean accumulation ratio of 1.56 (90% confidence interval 1.20, 1.63) at 75 mg/day.
-Eltrombopag for oral suspension delivered 22% higher plasma AUC0-INF than the tablet formulation.
+Eltrombopag AUC was approximately 3.2 fold higher in patients with definitive immunosuppressive therapy-naïve severe aplastic anemia compared to healthy subjects suggesting higher relative exposure compared to healthy subjects or patients with ITP and similar exposure compared to patients with chronic hepatitis C. Eltrombopag for oral suspension delivered 22% higher plasma AUC0-INF than the tablet formulation.
 
 Absorption
 
@@ -30,9 +30,9 @@ Effect of Food
 A standard high-fat breakfast (876 calories, 52 g fat, 71 g carbohydrate, 34 g protein, and 427 mg calcium) significantly decreased plasma eltrombopag AUC0-INF by approximately 59% and Cmax by 65% and delayed Tmax by 1 hour.
 The calcium content of this meal may have also contributed to this decrease in exposure.
 
-The effect of administration of a single 25-mg dose of eltrombopag for oral suspension with a high-calcium, moderate-fat, moderate calorie meal on AUC0-INF and Cmax in healthy adult subjects is presented in Table 9.
+The effect of administration of a single 25-mg dose of eltrombopag for oral suspension with a high-calcium, moderate-fat, moderate calorie meal on AUC0-INF and Cmax in healthy adult subjects is presented in Table 14.
 
-Table 9.
+Table 14.
 Effect on Plasma Eltrombopag Pharmacokinetic Parameters After Administration of a Single 25-mg Dose of Eltrombopag for Oral Suspension with a High Calcium Meala in Healthy Adult Subjects
 
 | Timing of eltrombopag for oral suspension dose | Mean (90% CI) reduction in plasma eltrombopag AUC0-INF | Mean (90% CI) reduction in plasma eltrombopag Cmax |
@@ -89,7 +89,7 @@ This clinical trial did not evaluate protein-binding effects.
 
 Renal Impairment
 
-Following a single dose of PROMACTA (50 mg), the average total plasma eltrombopag AUC0-INF was 32% to 36% lower in subjects with mild (estimated creatinine clearance (CLCr) by Cockcroft - Gault equation: 50 to 80 mL/min), to moderate (CLcr of 30 to 49 mL/min) renal impairment and 60% lower in subjects with severe (CLCr less than 30 mL/min) renal impairment compared with healthy subjects.
+Following a single dose of PROMACTA (50 mg), the average total plasma eltrombopag AUC0-INF was 32% to 36% lower in subjects with mild (estimated creatinine clearance (CLCr) by Cockcroft - Gault equation: 50 to 80 mL/min), to moderate (CLCr of 30 to 49 mL/min) renal impairment and 60% lower in subjects with severe (CLCr less than 30 mL/min) renal impairment compared with healthy subjects.
 The effect of renal impairment on unbound (active) eltrombopag exposure has not been assessed.
 
 Pediatric Patients
@@ -99,9 +99,9 @@ Plasma eltrombopag apparent clearance following oral administration (CL/F) incre
 Asian pediatric patients with ITP had approximately 43% higher plasma eltrombopag AUC(0-τ) values as compared with non-Asian patients.
 
 Plasma eltrombopag AUC(0-τ) and Cmax in pediatric patients aged 12 to 17 years was similar to that observed in adults.
-The pharmacokinetic parameters of eltrombopag in pediatric patients with ITP are shown in Table 10.
+The pharmacokinetic parameters of eltrombopag in pediatric patients with ITP are shown in Table 15.
 
-Table 10.
+Table 15.
 Geometric Mean (95% CI) Steady-state Plasma Eltrombopag Pharmacokinetic Parametersa in Patients with ITP (Normalized to a Once-daily 50-mg Dose)
 
 |  | Cmaxb | AUC(0-τ)b |
