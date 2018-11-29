@@ -20,7 +20,7 @@ CDAD must be considered in all patients who present with diarrhea following anti
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
-Adjunctive Treatment with Leucovorin for Pneumocystis jiroveci Pneumonia Treatment failure and excess mortality were observed when trimethoprim-sulfamethoxazole was used concomitantly with leucovorin for the treatment of HIV positive patients with Pneumocystis jiroveci pneumonia in a randomized placebo controlled trial.6 Co-administration of trimethoprim-sulfamethoxazole and leucovorin during treatment of Pneumocystis jiroveci pneumonia should be avoided.
+Adjunctive Treatment with Leucovorin for Pneumocystis jiroveci Pneumonia Treatment failure and excess mortality were observed when trimethoprim-sulfamethoxazole was used concomitantly with leucovorin for the treatment of HIV positive patients with Pneumocystis jiroveci pneumonia in a randomized placebo controlled trial.4 Co-administration of trimethoprim-sulfamethoxazole and leucovorin during treatment of Pneumocystis jiroveci pneumonia should be avoided.
 
 # PRECAUTIONS
 
@@ -42,7 +42,7 @@ Porphyria and Hypothyroidism As with all drugs containing sulfonamides, caution 
 AIDS patients may not tolerate or respond to sulfamethoxazole and trimethoprim in the same manner as non-AIDS patients.
 The incidence of side effects, particularly rash, fever, leukopenia and elevated aminotransferase (transaminase) values, with sulfamethoxazole and trimethoprim therapy in AIDS patients who are being treated for P. jiroveci pneumonia has been reported to be greatly increased compared with the incidence normally associated with the use of sulfamethoxazole and trimethoprim in non-AIDS patients.
 Adverse effects are generally less severe in patients receiving sulfamethoxazole and trimethoprim for prophylaxis.
-A history of mild intolerance to sulfamethoxazole and trimethoprim in AIDS patients does not appear to predict intolerance of subsequent secondary prophylaxis.7 However, if a patient develops skin rash or any sign of adverse reaction, therapy with sulfamethoxazole and trimethoprim should be reevaluated (see WARNINGS).
+A history of mild intolerance to sulfamethoxazole and trimethoprim in AIDS patients does not appear to predict intolerance of subsequent secondary prophylaxis.5 However, if a patient develops skin rash or any sign of adverse reaction, therapy with sulfamethoxazole and trimethoprim should be reevaluated (see WARNINGS).
 Co-administration of sulfamethoxazole and trimethoprim and leucovorin should be avoided with P. jiroveci pneumonia (see WARNINGS).
 Electrolyte Abnormalities High dosage of trimethoprim, as used in patients with P. jiroveci pneumonia, induces a progressive but reversible increase of serum potassium concentrations in a substantial number of patients.
 Even treatment with recommended doses may cause hyperkalemia when trimethoprim is administered to patients with underlying disorders of potassium metabolism, with renal insufficiency, or if drugs known to induce hyperkalemia are given concomitantly.
@@ -90,7 +90,7 @@ Sulfamethoxazole and trimethoprim potentiates the effect of oral hypoglycemics t
 Additional monitoring of blood glucose may be warranted.
 In the literature, a single case of toxic delirium has been reported after concomitant intake of sulfamethoxazole and trimethoprim and amantadine (an OCT2 substrate).
 Cases of interactions with other OCT2 substrates, memantine and metformin, have also been reported.
-In the literature, three cases of hyperkalemia in elderly patients have been reported after concomitant intake of sulfamethoxazole and trimethoprim and an angiotensin converting enzyme inhibitor.8,9
+In the literature, three cases of hyperkalemia in elderly patients have been reported after concomitant intake of sulfamethoxazole and trimethoprim and an angiotensin converting enzyme inhibitor.6,7
 
 ## Drug/Laboratory Test Interactions
 
@@ -122,7 +122,7 @@ No adverse effects on fertility or general reproductive performance were observe
 
 ## Pregnancy
 
-While there are no large, well-controlled studies on the use of sulfamethoxazole and trimethoprim in pregnant women, Brumfitt and Pursell,10 in a retrospective study, reported the outcome of 186 pregnancies during which the mother received either placebo or sulfamethoxazole and trimethoprim.
+While there are no large, well-controlled studies on the use of sulfamethoxazole and trimethoprim in pregnant women, Brumfitt and Pursell,8 in a retrospective study, reported the outcome of 186 pregnancies during which the mother received either placebo or sulfamethoxazole and trimethoprim.
 The incidence of congenital abnormalities was 4.5% (3 of 66) in those who received placebo and 3.3% (4 of 120) in those receiving sulfamethoxazole and trimethoprim.
 There were no abnormalities in the 10 children whose mothers received the drug during the first trimester.
 In a separate survey, Brumfitt and Pursell also found no congenital abnormalities in 35 children whose mothers had received oral sulfamethoxazole and trimethoprim at the time of conception or shortly thereafter.
