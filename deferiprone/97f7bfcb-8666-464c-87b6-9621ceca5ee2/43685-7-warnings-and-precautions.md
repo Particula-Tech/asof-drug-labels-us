@@ -40,7 +40,7 @@ Women of reproductive potential should be advised to avoid pregnancy when taking
 
 ## 5.3 Liver Enzyme Elevations
 
-IIn clinical studies, 7.5% of 642 subjects treated with FERRIPROX developed increased ALT values.
+In clinical studies, 7.5% of 642 subjects treated with FERRIPROX developed increased ALT values.
 Four (0.62%) FERRIPROX-treated subjects discontinued the drug due to increased serum ALT levels and 1 (0.16%) due to an increase in both ALT and AST.
 
 Monitor serum ALT values monthly during therapy with FERRIPROX, and consider interruption of therapy if there is a persistent increase in the serum transaminase levels.
