@@ -106,7 +106,7 @@ The Enclosed Packaged Diluent (Bacteriostatic Water for Injection) Contains Benz
 
 Pfizer Injectables Rx only
 
-# PRINCIPAL DISPLAY PANEL - 40 mg Vial Label - Preservative-Free
+# PRINCIPAL DISPLAY PANEL - 40 mg Vial Label
 
 NDC 0009-0039-30
 
@@ -152,7 +152,7 @@ Discard unused portion.
 
 Preservative-Free 1 mL Act-O-Vial® System
 
-NOVAPLUS®
+novaplus™+
 
 # PRINCIPAL DISPLAY PANEL - 1 mL Vial Carton
 
@@ -160,7 +160,7 @@ NDC 0009-0039-32 Contains 25 of NDC 0009-0039-33
 
 SOLU-MEDROL® Methylprednisolone Sodium Succinate for Injection, USP
 
-40 mg* per vial
+40mg* per vial
 
 Preservative-Free
 
@@ -174,9 +174,9 @@ Discard unused portion.
 
 Rx ONLY
 
-NOVAPLUS®
+novaplus™+
 
-# PRINCIPAL DISPLAY PANEL - 125 mg Vial Label - Preservative-Free
+# PRINCIPAL DISPLAY PANEL - 125 mg Vial Label
 
 NDC 0009-0047-25
 
@@ -222,7 +222,7 @@ Discard unused portion.
 
 Preservative-Free 2 mL Act-O-Vial® System
 
-NOVAPLUS®
+novaplus™+
 
 # PRINCIPAL DISPLAY PANEL - 2 mL Vial Carton
 
@@ -244,7 +244,7 @@ Discard unused portion.
 
 Rx ONLY
 
-NOVAPLUS®
+novaplus™+
 
 # PRINCIPAL DISPLAY PANEL - 500 mg Vial Label - Preservative-Free
 
