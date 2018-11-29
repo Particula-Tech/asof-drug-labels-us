@@ -52,7 +52,7 @@ The following have been reported in general use with finasteride tablets and/or 
 - trouble getting or keeping an erection that continued after stopping the medication
 - problems with ejaculation that continued after stopping the medication
 - male infertility and/or poor quality of semen.
-  Improvement in the quality of semen has been reported after stopping the medication
+  Improvement in the quality of semen has been reported after stopping the medication.
 - depression
 - decrease in sex drive that continued after stopping the medication
 - in rare cases, male breast cancer has been reported.
@@ -101,15 +101,15 @@ This can lead to symptoms such as:
 - a need to urinate often, especially at night
 - a feeling that you must urinate right away.
 
-In some men, BPH can lead to serious problems, including urinary tract infections, as well as the need for surgery.
+In some men, BPH can lead to serious problems, including urinary tract infections, a sudden inability to pass urine (acute urinary retention), as well as the need for surgery.
 What finasteride tablets do: Finasteride tablets lower levels of a hormone called DHT (dihydrotestosterone), which is a cause of prostate growth.
 Lowering DHT leads to shrinkage of the enlarged prostate gland in most men.
 This can lead to gradual improvement in urine flow and symptoms over the next several months.
-Finasteride tablets will help reduce the need for surgery related to an enlarged prostate.
+Finasteride tablets will help reduce the risk of developing a sudden inability to pass urine and the need for surgery related to an enlarged prostate.
 However, since each case of BPH is different, you should know that:
 
 - Even though the prostate shrinks, you may NOT notice an improvement in urine flow or symptoms.
 - You may need to take finasteride tablets for six (6) months or more to see whether it improves your symptoms.
-- Therapy with finasteride tablets may reduce the need for surgery for an enlarged prostate.
+- Therapy with finasteride tablets may reduce your risk for a sudden inability to pass urine and the need for surgery for an enlarged prostate.
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 038, India Revised: 06/2018
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 038, India Revised: 11/2018
