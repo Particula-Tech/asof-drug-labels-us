@@ -1,7 +1,5 @@
 # Package/Label Display Panel
 
-## Vandazole® (metronidazole gel USP, 0.75% [vaginal]), 70 gram tube with 5 applicators, Carton Text
-
 NDC 0245-0860-70
 
 VANDAZOLE®
