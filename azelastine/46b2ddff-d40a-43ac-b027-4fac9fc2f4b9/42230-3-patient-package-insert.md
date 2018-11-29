@@ -186,4 +186,4 @@ Manufactured for: MEDA Pharmaceuticals Somerset, NJ 08873-4120 ©2018 Mylan Spec
 
 Astelin is a registered trademark of Meda Pharmaceuticals Inc., a Mylan company
 
-U.S. Patent D447,419 IN-023S6-08 Revised: 9/2018
+U.S. Patent D447,419 IN-023S6-11 Revised: 9/2018
