@@ -1,7 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Desvenlafaxine extended-release tablets are available as 50 and 100 mg tablets.
-
-50 mg, light pink colored, round, biconvex tablets, debossed with ‘L349’ on one side and plain on other side.
-
-100 mg, dark brown to red colored, round, biconvex tablets, debossed with ‘L350’ on one side and plain on other side.
+Desvenlafaxine extended-release tablets are available as 25 mg, 50 mg and 100 mg tablets.
+25 mg, tan colored, round, biconvex tablets, debossed with 'L634' on one side and plain on other side.
+50 mg, light pink colored, round, biconvex tablets, debossed with 'L349' on one side and plain on other side.
+100 mg, dark brown to red colored, round, biconvex tablets, debossed with 'L350' on one side and plain on other side.

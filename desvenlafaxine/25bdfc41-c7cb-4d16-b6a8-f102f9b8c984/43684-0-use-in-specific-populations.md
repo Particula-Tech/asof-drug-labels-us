@@ -78,7 +78,7 @@ Risk Summary
 Available limited data from published literature show low levels of desvenlafaxine in human milk, and have not shown adverse reactions in breastfed infants (see Data).
 There are no data on the effects of desvenlafaxine on milk production.
 
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for desvenlafaxine and any potential adverse effects on the breastfed child from desvenlafaxine or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for desvenlafaxine and any potential adverse effects on the breastfed child from desvenlafaxine or from the underlying maternal condition.
 
 Data
 
@@ -93,8 +93,8 @@ The safety and effectiveness of desvenlafaxine have not been established in pedi
 
 Antidepressants, such as desvenlafaxine, increase the risk of suicidal thoughts and behaviors in pediatric patients [see the Boxed Warning and Warnings and Precautions (5.1)].
 
-Additional information describing clinical studies in which efficacy was not demonstrated in pediatric patients is approved for Wyeth Pharmaceuticals Inc. a subsidiary of Pfizer Inc.’s PRISTIQ® (desvenlafaxine) Extended-Release Tablets.
-However, due to Wyeth Pharmaceuticals Inc., a subsidiary of Pfizer Inc.’s marketing exclusivity rights, this product is not labeled with that pediatric information.
+Additional information describing clinical studies in which efficacy was not demonstrated in pediatric patients is approved for Wyeth Pharmaceuticals Inc. a subsidiary of Pfizer Inc.'s PRISTIQ® (desvenlafaxine) Extended-Release Tablets.
+However, due to Wyeth Pharmaceuticals Inc., a subsidiary of Pfizer Inc.'s marketing exclusivity rights, this product is not labeled with that pediatric information.
 
 Juvenile Animal Studies
 
@@ -119,7 +119,7 @@ SSRIs and SNRIs, including desvenlafaxine, have been associated with cases of cl
 
 ## 8.6 Renal Impairment
 
-Adjust the maximum recommended dosage in patients with moderate or severe renal impairment (CLcr 15 to 50 mL/min, C-G), or end-stage renal disease (CLcr < 15 mL/min, C-G) [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
+Adjust the maximum recommended dosage in patients with moderate or severe renal impairment (CLCr 15 to 50 mL/min, C-G), or end-stage renal disease (CLCr < 15 mL/min, C-G) [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 

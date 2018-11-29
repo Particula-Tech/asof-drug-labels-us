@@ -1,6 +1,8 @@
-# Medication Guide
+# MEDICATION GUIDE
 
-Desvenlafaxine Extended-Release Tablets (des VEN la FAX een) What is the most important information I should know about desvenlafaxine?
+Desvenlafaxine Extended-Release Tablets (des VEN la FAX een)
+
+What is the most important information I should know about desvenlafaxine?
 
 Desvenlafaxine can cause serious side effects, including:
 
@@ -22,8 +24,8 @@ Call your healthcare provider right away if you have any of the following sympto
 
 | o thoughts about suicide or dying | o trouble sleeping (insomnia) |
 | --- | --- |
-| o attempts to commit suicide | onew or worse irritability |
-| onew or worse depression | o acting aggressive, being angry, or violent |
+| o attempts to commit suicide | o new or worse irritability |
+| o new or worse depression | o acting aggressive, being angry, or violent |
 | o new or worse anxiety | o acting on dangerous impulses |
 | o feeling very agitated or restless | o an extreme increase in activity and talking (mania) |
 | o panic attacks | o other unusual changes in behavior or mood |
@@ -59,12 +61,14 @@ Before taking desvenlafaxine tell your healthcare provider about all your medica
 - are pregnant or plan to become pregnant.
   Talk to your healthcare provider about the risk to your unborn baby if you take desvenlafaxine during pregnancy.
 
-o Tell your healthcare provider if you become pregnant or think you are pregnant during treatment with desvenlafaxine. o If you become pregnant during treatment with desvenlafaxine, talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants.
+o Tell your healthcare provider if you become pregnant or think you are pregnant during treatment with desvenlafaxine.
+
+o If you become pregnant during treatment with desvenlafaxine, talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants.
 You can register by calling 1-844-405-6185.
 
-• are breastfeeding or plan to breastfeed.
-Desvenlafaxine can pass into your breast milk.
-Talk to your healthcare provider about the best way to feed your baby during treatment with desvenlafaxine.
+- are breastfeeding or plan to breastfeed.
+  Desvenlafaxine can pass into your breast milk.
+  Talk to your healthcare provider about the best way to feed your baby during treatment with desvenlafaxine.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
@@ -82,7 +86,7 @@ Especially tell your healthcare provider if you take:
 - tryptophan
 - buspirone
 - amphetamines
-- St. John’s Wort
+- St. John's Wort
 - other medicines containing desvenlafaxine or venlafaxine
 - medicines that can affect blood clotting such as aspirin, nonsteroidal anti-inflammatory drugs (NSAIDs), warfarin
 
@@ -93,7 +97,7 @@ Your healthcare provider can tell you if it is safe to take desvenlafaxine with 
 
 Do not start or stop any other medicines during treatment with desvenlafaxine without talking to your healthcare provider first.
 Stopping desvenlafaxine suddenly may cause you to have serious side effects.
-See, “What are the possible side effects of desvenlafaxine?”
+See, "What are the possible side effects of desvenlafaxine?"
 
 Know the medicines you take.
 Keep a list of them to show to your healthcare providers when you get a new medicine.
@@ -118,25 +122,39 @@ What are the possible side effects of desvenlafaxine?
 
 Desvenlafaxine can cause serious side effects, including:
 
-- See, "What is the most important information I should know about desvenlafaxine?”
+- See, "What is the most important information I should know about desvenlafaxine?"
 - Serotonin syndrome.
   Apotentially life-threatening problem called serotonin syndrome can happen when you take desvenlafaxine with certain other medicines.
-  See, “Who should not take desvenlafaxine?”
-  Call your healthcare provider or go to the nearest hospital emergency room right away if you have any of the following signs and symptoms of serotonin syndrome: o agitation o seeing or hearing things that are not real (hallucinations) o confusion o coma o fast heart beat o changes in blood pressure o dizziness o sweating o flushing o high body temperature (hyperthermia) o tremors, stiff muscles, or muscle twitching o loss of coordination o seizures o nausea, vomiting, diarrhea • New or worsened high blood pressure (hypertension).
+  See, "Who should not take desvenlafaxine?"
+  Call your healthcare provider or go to the nearest hospital emergency room right away if you have any of the following signs and symptoms of serotonin syndrome: o agitation o seeing or hearing things that are not real (hallucinations) o confusion o coma o fast heart beat o changes in blood pressure o dizziness o sweating o flushing o high body temperature (hyperthermia) o tremors, stiff muscles, or muscle twitching o loss of coordination o seizures o nausea, vomiting, diarrhea
+- New or worsened high blood pressure (hypertension).
   Your healthcare provider should check your blood pressure before and during treatment with desvenlafaxine.
-  If you have high blood pressure, it should be controlled before you start treatment with desvenlafaxine. • Increased chance of bleeding or bruising.
+  If you have high blood pressure, it should be controlled before you start treatment with desvenlafaxine.
+- Increased chance of bleeding or bruising.
   Taking desvenlafaxine with aspirin, NSAIDs, or blood thinners may add to this risk.
-  Tell your healthcare provider right away about any unusual bleeding or bruising. • Eye problems (angle closure glaucoma).
+  Tell your healthcare provider right away about any unusual bleeding or bruising.
+- Eye problems (angle closure glaucoma).
   Many antidepressant medicines, including desvenlafaxine, may cause a certain type of eye problem called angle-closure glaucoma.
-  Call your healthcare provider if you have changes in your vision or eye pain. • Discontinuation syndrome.
+  Call your healthcare provider if you have changes in your vision or eye pain.
+- Discontinuation syndrome.
   Suddenly stopping desvenlafaxine when you take higher doses may cause you to have serious side effects.
   Your healthcare provider may want to decrease your dose slowly.
-  Symptoms may include: o dizziness o nausea o headache o irritability and agitation o problems sleeping o diarrhea o anxiety o tiredness o abnormal dreams o sweating o confusion o changes in your mood o seizures o electric shock sensation (paresthesia) o hypomania o ringing in your ears (tinnitus)
+  Symptoms may include:
+
+| o dizziness | o nausea | o headache |
+| --- | --- | --- |
+| o irritability and agitation | o problems sleeping | o diarrhea |
+| o anxiety | o tiredness | o abnormal dreams |
+| o sweating | o confusion | o changes in your mood |
+| o seizures | o electric shock sensation (paresthesia) | o hypomania |
+| o ringing in your ears (tinnitus) |  |  |
+
 - Seizures (convulsions).
 - Low sodium levels in your blood (hyponatremia).
   Low sodium levels can happen during treatment with desvenlafaxine.
   Low sodium levels in your blood may be serious and may cause death.
   Signs and Symptoms of low sodium levels in your blood may include:
+
 - headache
 - difficulty concentrating
 - memory changes
@@ -157,11 +175,11 @@ In severe or more sudden cases, signs and symptoms include:
 
 The most common side effects of desvenlafaxine include:
 
-| • nausea | •dizziness |
+| • nausea | • dizziness |
 | --- | --- |
-| •problems sleeping | •sweating |
-| •constipation | •feeling sleepy |
-| • decreased appetite | •anxiety |
+| • problems sleeping | • sweating |
+| • constipation | • feeling sleepy |
+| • decreased appetite | • anxiety |
 | • sexual function problems |  |
 
 These are not all the possible side effects of desvenlafaxine.
@@ -184,11 +202,13 @@ You can ask your pharmacist or healthcare provider for information about desvenl
 
 For more information call Breckenridge Pharmaceutical, Inc. at 1-800-367-3395 or go to www.bpirx.com.
 
-What are the ingredients in desvenlafaxine extended-release tablets?
+What are the ingredients in desvenlafaxine?
 
 Active ingredient: desvenlafaxine
 
-Inactive ingredients: For the 50 mg tablet, hypromellose, magnesium stearate, microcrystalline cellulose, povidone, talc and film coating, which consists of hypromellose, iron oxide red, polyethylene glycol, talc, and titanium dioxide.
+Inactive ingredients: For the 25 mg tablet, hypromellose, magnesium stearate, microcrystalline cellulose, povidone, talc and film coating, which consists of hypromellose, iron oxide yellow, iron oxide red, iron oxide black, polyethylene glycol, talc, and titanium dioxide.
+
+For the 50 mg tablet, hypromellose, magnesium stearate, microcrystalline cellulose, povidone, talc and film coating, which consists of hypromellose, iron oxide red, polyethylene glycol, talc, and titanium dioxide.
 
 For the 100 mg tablet, hypromellose, magnesium stearate, microcrystalline cellulose, povidone, talc and film coating, which consists of hypromellose, iron oxide black, iron oxide red, polyethylene glycol, talc, and titanium dioxide.
 
@@ -208,4 +228,4 @@ Village Panelav, P. O. Tajpura, Near Baska,
 
 Taluka-Halol, Panchmahal, Gujarat, India.
 
-Revised: 08/2018
+Revised: 07/2018
