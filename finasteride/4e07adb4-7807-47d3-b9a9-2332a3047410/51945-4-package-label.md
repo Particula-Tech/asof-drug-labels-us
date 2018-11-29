@@ -1,10 +1,8 @@
-PRINCIPAL DISPLAY PANEL - 1 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 1 mg Tablet Bottle Label
 
 NDC 0006-0071-31
 
-Propecia® (finasteride) Tablets
-
-1 mg
+Propecia® (finasteride) Tablets 1 mg
 
 Each tablet contains 1 mg finasteride.
 Warning: PROPECIA® (finasteride) should not be used by women or children.
