@@ -34,11 +34,7 @@ Mean (CV%)a Pharmacokinetic Parameters of Etodolac in Normal Healthy Adults and 
 | Apparent Volume of Distribution, mL/kg (Vd/F) | 393(29%) | 394(29%) | 300(8%) | 414(38%) | NA | NA | NA | NA |
 | Terminal Half-Life, h | 6.4(22%) | 6.4(22%) | 7.9(35%) | 6.5(24%) | 5.1(22%) | 7.5(34%) | NA | 5.7(24%) |
 
-a % Coefficient of variation
-
-b Age Range (years)
-
-NA = not available
+a % Coefficient of variation b Age Range (years) NA = not available
 
 Distribution
 
