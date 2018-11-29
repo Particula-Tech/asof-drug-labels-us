@@ -1,15 +1,3 @@
-# PRINCIPAL DISPLAY PANEL - 2 mg Tablet Bottle Label
-
-NDC 0009-0049-02
-
-100 Tablets Rx only
-
-Medrol® methylprednisolone tablets, USP
-
-2 mg
-
-Pfizer Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
-
 # PRINCIPAL DISPLAY PANEL - 4 mg Tablet Bottle Label
 
 Pfizer
@@ -138,7 +126,7 @@ Medrol® methylprednisolone tablets, USP
 
 Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
 
-# PRINCIPAL DISPLAY PANEL - 2 mg Tablet Bottle Label - 0020
+# PRINCIPAL DISPLAY PANEL - 2 mg Tablet Bottle Label
 
 Pfizer
 
