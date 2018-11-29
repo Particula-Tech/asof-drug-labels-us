@@ -14,11 +14,11 @@ INHALATION AEROSOL
 
 For Oral Inhalation only
 
-Dispense with enclosed Medication Guide.
-
 Rx only
 
-Mfd. for: AstraZeneca LP, Wilmington, DE 19850
+Manufactured for:
+
+AstraZeneca LP, Wilmington, DE 19850
 
 By: AstraZeneca Dunkerque Production
 
@@ -42,11 +42,11 @@ INHALATION AEROSOL
 
 For Oral Inhalation only
 
-Dispense with enclosed Medication Guide.
-
 Rx only
 
-Mfd. for: AstraZeneca LP, Wilmington, DE 19850
+Manufactured for:
+
+AstraZeneca LP, Wilmington, DE 19850
 
 By: AstraZeneca Dunkerque Production
 
