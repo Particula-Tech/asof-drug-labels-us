@@ -27,12 +27,12 @@ Call your healthcare provider right away if you find out that you have done any 
 Do not take zolpidem tartrate if you:
 
 - drank alcohol that evening or before bed
-- took another medicine to help you sleep.
+- took another medicine to help you sleep
 
 What is zolpidem tartrate?
 Zolpidem tartrate is a sedative-hypnotic (sleep) medicine.
 Zolpidem tartrate is used in adults for the short-term treatment of a sleep problem called insomnia (trouble falling asleep).
-It is not known if zolpidem tartrate is safe and effective in children under the age of 18 years.
+Zolpidem tartrate is not recommended for use in children under the age of 18 years.
 
 Who should not take zolpidem tartrate?
 
@@ -42,9 +42,11 @@ Who should not take zolpidem tartrate?
 
 Symptoms of a serious allergic reaction to zolpidem can include:
 
-- swelling of your face, lips, and throat that may cause difficulty breathing or swallowing
+- 
+  - swelling of your face, lips, and throat that may cause difficulty breathing or swallowing
 
 What should I tell my healthcare provider before taking zolpidem tartrate?
+
 Zolpidem tartrate may not be right for you.
 Before starting zolpidem tartrate, tell your healthcare provider about all of your health conditions, including if you:
 
@@ -53,17 +55,21 @@ Before starting zolpidem tartrate, tell your healthcare provider about all of yo
 - have kidney or liver disease
 - have a lung disease or breathing problems
 - are pregnant, planning to become pregnant.
-  It is not known if zolpidem tartrate will harm your unborn baby.
+  Talk to your healthcare provider about the risk to your unborn baby if you take zolpidem tartrate.
+- Using zolpidem tartrate in the last trimester of pregnancy may cause breathing difficulties or excess sleepiness in your newborn.
+  Monitor for signs of sleepiness (more than usual), trouble breathing, or limpness in the newborn if zolpidem tartrate is taken late in pregnancy.
 - are breastfeeding or plan to breastfeed.
-  Zolpidem tartrate can pass into your breast milk.
-  It is not known if zolpidem tartrate will harm your baby.
+  Zolpidem tartrate passes into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby while you take zolpidem tartrate.
 
 Tell your healthcare provider about all of the medicines you take, including prescription and nonprescription medicines, vitamins and herbal supplements.
+
 Medicines can interact with each other, sometimes causing serious side effects.
 Do not take zolpidem tartrate with other medicines that can make you sleepy unless your healthcare provider tells you to.
+
 Know the medicines you take.
 Keep a list of your medicines with you to show your healthcare provider and pharmacist each time you get a new medicine.
+
 How should I take zolpidem tartrate?
 
 - See “What is the most important information I should know about zolpidem tartrate?”
@@ -77,6 +83,7 @@ How should I take zolpidem tartrate?
 - If you take too much zolpidem tartrate or overdose, get emergency treatment.
 
 What are the possible side effects of zolpidem tartrate?
+
 Zolpidem tartrate may cause serious side effects, including:
 
 - getting out of bed while not being fully awake and do an activity that you do not know you are doing.
@@ -91,6 +98,7 @@ Zolpidem tartrate may cause serious side effects, including:
 - falls, which may lead to severe injuries
 
 Call your healthcare provider right away if you have any of the above side effects or any other side effects that worry you while using zolpidem tartrate.
+
 The most common side effects of zolpidem tartrate are:
 
 - drowsiness
@@ -113,26 +121,41 @@ After you stop taking a sleep medicine, you may have symptoms for 1 to 2 days su
 
 These are not all the side effects of zolpidem tartrate.
 Ask your healthcare provider or pharmacist for more information.
-Call your healthcare provider for medical advice about side effects.
+
+Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
+
 How should I store zolpidem tartrate?
 
 - Store zolpidem tartrate at room temperature 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
 
 Keep zolpidem tartrate and all medicines out of reach of children.
-General Information about the safe and effective use of zolpidem tartrate Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
+
+General Information about the safe and effective use of zolpidem tartrate
+
+Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use zolpidem tartrate for a condition for which it was not prescribed.
 Do not share zolpidem tartrate with other people, even if they have the same symptoms that you have.
 It may harm them and it is against the law.
+
 This Medication Guide summarizes the most important information about zolpidem tartrate.
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about zolpidem tartrate that is written for healthcare professionals.
+
 For more information, call Northstar Rx LLC at 1-800-206-7821.
+
 What are the ingredients in zolpidem tartrate tablets?
-Active Ingredient: Zolpidem tartrate Inactive Ingredients: lactose monohydrate, microcrystalline cellulose, sodium starch glycolate, magnesium stearate, hypromellose, polyethylene glycol, and titanium dioxide.
+
+Active Ingredient: Zolpidem tartrate
+
+Inactive Ingredients: lactose monohydrate, microcrystalline cellulose, sodium starch glycolate, magnesium stearate, hypromellose, polyethylene glycol, and titanium dioxide.
+
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
 All brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
+
 Medication Guides available at www.northstarrxllc.com/products or call 1-800-206-7821.
+
 Manufactured for: Northstar Rx LLC Memphis, TN 38141.
 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahabubnagar (Dt)-509302 India.
-M.L.No.: 22/MN/AP/2009/F/R Revised: 10/2017
+M.L.No.: 22/MN/AP/2009/F/R Revised: 11/2018
