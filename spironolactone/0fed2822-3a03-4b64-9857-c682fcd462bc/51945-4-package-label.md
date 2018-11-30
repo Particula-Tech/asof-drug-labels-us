@@ -1,38 +1,37 @@
 # PRINCIPAL DISPLAY PANEL - 25 mg Tablet Bottle Label
 
-NDC 0025-1001-31
+Pfizer
 
-100 Tablets Rx only
+NDC 0025-1001-31
 
 Aldactone® spironolactone tablets, USP
 
 25 mg
 
-Pfizer Distributed by G.D.
-Searle LLC Division of Pfizer Inc, NY, NY 10017
+100 Tablets
+
+Rx only
 
 # PRINCIPAL DISPLAY PANEL - 50 mg Tablet Bottle Label
 
-NDC 0025-1041-31
+Pfizer
 
-100 Tablets Rx only
+NDC 0025-1041-31
 
 Aldactone® spironolactone tablets, USP
 
 50 mg
 
-Pfizer Distributed by G.D.
-Searle LLC Division of Pfizer Inc, NY, NY 10017
+100 Tablets Rx only
 
 # PRINCIPAL DISPLAY PANEL - 100 mg Tablet Bottle Label
 
-NDC 0025-1031-31
+Pfizer
 
-100 Tablets Rx only
+NDC 0025-1031-31
 
 Aldactone® spironolactone tablets, USP
 
 100 mg
 
-Pfizer Distributed by G.D.
-Searle LLC Division of Pfizer Inc, NY, NY 10017
+100 Tablets Rx only
