@@ -6,6 +6,7 @@ Levothyroxine (T4) sodium has an empirical formula of C15H10I4N NaO4• H2O, mol
 
 SYNTHROID tablets for oral administration are supplied in the following strengths: 25 mcg, 50 mcg, 75 mcg, 88 mcg, 100 mcg, 112 mcg, 125 mcg, 137 mcg, 150 mcg, 175 mcg, 200 mcg, and 300 mcg.
 Each SYNTHROID tablet contains the inactive ingredients acacia, confectioner's sugar (contains corn starch), lactose monohydrate, magnesium stearate, povidone, and talc.
+SYNTHROID tablets contain no ingredients made from a gluten-containing grain (wheat, barley, or rye).
 Each tablet strength meets USP Dissolution Test 3.
 Table 6 provides a listing of the color additives by tablet strength:
 
