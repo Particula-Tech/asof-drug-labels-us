@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1Important Use Information
+## 2.1 Important Use Information
 
 DO NOT SUBSTITUTE ONIVYDE for other drugs containing irinotecan HCl.
 
@@ -8,9 +8,9 @@ DO NOT SUBSTITUTE ONIVYDE for other drugs containing irinotecan HCl.
 
 Administer ONIVYDE prior to leucovorin and fluorouracil [see Clinical Studies (14)].
 
-- The recommended dose of ONIVYDE is 70 mg/m 2 administered by intravenous infusion over 90 minutes every 2 weeks.
-- The recommended starting dose of ONIVYDE in patients known to be homozygous for the UGT1A1*28 allele is 50 mg/m 2 administered by intravenous infusion over 90 minutes.
-  Increase the dose of ONIVYDE to 70 mg/m 2 as tolerated in subsequent cycles.
+- The recommended dose of ONIVYDE is 70 mg/m2 administered by intravenous infusion over 90 minutes every 2 weeks.
+- The recommended starting dose of ONIVYDE in patients known to be homozygous for the UGT1A1*28 allele is 50 mg/m2 administered by intravenous infusion over 90 minutes.
+  Increase the dose of ONIVYDE to 70 mg/m2 as tolerated in subsequent cycles.
 - There is no recommended dose of ONIVYDE for patients with serum bilirubin above the upper limit of normal [see Adverse Reactions (6.1) and Clinical Studies (14)].
 
 Premedication
@@ -24,8 +24,8 @@ Table 1: Recommended Dose Modifications for ONIVYDE
 | Toxicity NCI CTCAE v4.0† | Occurrence | ONIVYDE adjustment in patients receiving 70 mg/m2 | Patients homozygous for UGT1A1*28 without previous increase to 70 mg/m2 |
 | --- | --- | --- | --- |
 | Grade 3 or 4 adverse reactions | Withhold ONIVYDE. Initiate loperamide for late onset diarrhea of any severity. Administer intravenous or subcutaneous atropine 0.25 to 1 mg (unless clinically contraindicated) for early onset diarrhea of any severity. Upon recovery to ≤ Grade 1, resume ONIVYDE at: |  |  |
-|  | First | 50 mg/m 2 | 43 mg/m 2 |
-|  | Second | 43 mg/m 2 | 35 mg/m 2 |
+|  | First | 50 mg/m2 | 43 mg/m2 |
+|  | Second | 43 mg/m2 | 35 mg/m2 |
 |  | Third | Discontinue ONIVYDE | Discontinue ONIVYDE |
 | Interstitial Lung Disease | First | Discontinue ONIVYDE | Discontinue ONIVYDE |
 | Anaphylactic Reaction | First | Discontinue ONIVYDE | Discontinue ONIVYDE |
@@ -33,11 +33,10 @@ Table 1: Recommended Dose Modifications for ONIVYDE
 
 For recommended dose modifications of fluorouracil (5-FU) or leucovorin (LV), refer to the Full Prescribing Information; refer to Clinical Studies (14).
 
-## 2.4Preparation and Administration
+## 2.4 Preparation and Administration
 
 ONIVYDE is a cytotoxic drug.
-Follow applicable special handling and disposal procedures.
-1
+Follow applicable special handling and disposal procedures.1
 
 Preparation
 

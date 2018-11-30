@@ -1,8 +1,8 @@
 # 11 DESCRIPTION
 
 ONIVYDE is formulated with irinotecan hydrochloride trihydrate, a topoisomerase inhibitor, into a liposomal dispersion for intravenous use.
-The chemical name of irinotecan hydrochloride trihydrate is (S)-4,11-diethyl-3,4,12,14-tetrahydro-4-hydroxy-3,14-dioxo1H-pyrano[3’,4’:6,7]-indolizino[1,2-b]quinolin-9-yl-[1,4’bipiperidine]-1’-carboxylate, monohydrochloride, trihydrate.
-The empirical formula is C 33H 38N 4O 6∙HCl∙3H 2O and the molecular weight is 677.19 g/mole.
+The chemical name of irinotecan hydrochloride trihydrate is (S)-4,11-diethyl-3,4,12,14-tetrahydro-4-hydroxy-3,14-dioxo1H-pyrano[3',4':6,7]-indolizino[1,2-b]quinolin-9-yl-[1,4'bipiperidine]-1'-carboxylate, monohydrochloride, trihydrate.
+The empirical formula is C33H38N4O6∙HCl∙3H2O and the molecular weight is 677.19 g/mole.
 The molecular structure is:
 
 ONIVYDE is a sterile, white to slightly yellow opaque isotonic liposomal dispersion.

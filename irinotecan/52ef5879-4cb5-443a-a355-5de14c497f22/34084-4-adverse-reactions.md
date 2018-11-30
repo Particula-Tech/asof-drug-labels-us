@@ -3,7 +3,7 @@
 The following adverse drug reactions are discussed in greater detail in other sections of the label:
 
 - Severe Neutropenia [see Warnings and Precautions (5.1) and Boxed Warning]
-- Severe Diarrhea [see Warnings and Precautions (5.2)and Boxed Warning]
+- Severe Diarrhea [see Warnings and Precautions (5.2) and Boxed Warning]
 - Interstitial Lung Disease [see Warnings and Precautions (5.3)]
 - Severe Hypersensitivity Reactions [see Warnings and Precautions (5.4)]
 
@@ -12,7 +12,7 @@ The following adverse drug reactions are discussed in greater detail in other se
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of ONIVYDE cannot be directly compared to rates in clinical trials of other drugs and may not reflect the rates observed in practice.
 
 The safety data described below are derived from patients with metastatic adenocarcinoma of the pancreas previously treated with gemcitabine-based therapy who received any part of protocol-specified therapy in Study 1, an international, randomized, active-controlled, open-label trial.
-Protocol-specified therapy consisted of ONIVYDE 70 mg/m 2 with leucovorin 400 mg/m 2 and fluorouracil 2400 mg/m 2 over 46 hours every 2 weeks (ONIVYDE/5-FU/LV; N=117), ONIVYDE 100 mg/m 2 every 3 weeks (N=147), or leucovorin 200 mg/m 2 and fluorouracil 2000 mg/m 2 over 24 hours weekly for 4 weeks followed by 2 week rest (5-FU/LV; N=134) [see Clinical Studies (14)].
+Protocol-specified therapy consisted of ONIVYDE 70 mg/m2 with leucovorin 400 mg/m2 and fluorouracil 2400 mg/m2 over 46 hours every 2 weeks (ONIVYDE/5-FU/LV; N=117), ONIVYDE 100 mg/m2 every 3 weeks (N=147), or leucovorin 200 mg/m2 and fluorouracil 2000 mg/m2 over 24 hours weekly for 4 weeks followed by 2 week rest (5-FU/LV; N=134) [see Clinical Studies (14)].
 Serum bilirubin within the institutional normal range, albumin ≥ 3 g/dL, and Karnofsky Performance Status (KPS) ≥ 70 were required for study entry.
 The median duration of exposure was 9 weeks in the ONIVYDE/5-FU/LV arm, 9 weeks in the ONIVYDE monotherapy arm, and 6 weeks in the 5-FU/LV arm.
 
@@ -26,21 +26,21 @@ ONIVYDE was withheld or delayed for adverse reactions in 62% of patients receivi
 
 Table 2 provides the frequency and severity of adverse reactions in Study 1 that occurred with higher incidence (≥5% difference for Grades 1-4 or ≥2% difference for Grades 3-4) in patients who received ONIVYDE/5-FU/LV compared to patients who received 5-FU/LV.
 
-Table 2: Adverse Reactions with Higher Incidence (≥5% Difference for Grades 1-4 * or ≥2% Difference for Grades 3 and 4) in the ONIVYDE/5-FU/LV Arm
+Table 2: Adverse Reactions with Higher Incidence (≥5% Difference for Grades 1-4* or ≥2% Difference for Grades 3 and 4) in the ONIVYDE/5-FU/LV Arm
 
 | Adverse Reaction | ONIVYDE/5-FU/LV N=117 |  | 5-FU/LV N=134 |  |
 | --- | --- | --- | --- | --- |
 |  | Grades 1-4 (%) | Grades 3-4 (%) | Grades 1-4 (%) | Grades 3-4 (%) |
 | Gastrointestinal disorders |  |  |  |  |
 | Diarrhea | 59 | 13 | 26 | 4 |
-| Early diarrhea † | 30 | 3 | 15 | 0 |
-| Late diarrhea ‡ | 43 | 9 | 17 | 4 |
+| Early diarrhea† | 30 | 3 | 15 | 0 |
+| Late diarrhea‡ | 43 | 9 | 17 | 4 |
 | Vomiting | 52 | 11 | 26 | 3 |
 | Nausea | 51 | 8 | 34 | 4 |
-| Stomatitis § | 32 | 4 | 12 | 1 |
+| Stomatitis§ | 32 | 4 | 12 | 1 |
 | Infections and infestations | 38 | 17 | 15 | 10 |
 | Sepsis | 4 | 3 | 2 | 1 |
-| Neutropenic fever/neutropenic sepsis ♠ | 3 | 3 | 1 | 0 |
+| Neutropenic fever/neutropenic sepsis♠ | 3 | 3 | 1 | 0 |
 | Gastroenteritis | 3 | 3 | 0 | 0 |
 | Intravenous catheter-related infection | 3 | 3 | 0 | 0 |
 | General disorders and administration site conditions |  |  |  |  |
@@ -62,7 +62,7 @@ Infusion Reactions: Infusion reactions, consisting of rash, urticaria, periorbit
 
 Laboratory abnormalities that occurred with higher incidence in the ONIVYDE/5-FU/LV arm compared to the 5-FU/LV arm (≥5% difference) are summarized in the following table.
 
-Table 3: Laboratory Abnormalities with Higher Incidence (≥5% Difference) in the ONIVYDE/5-FU/LV Arm *#
+Table 3: Laboratory Abnormalities with Higher Incidence (≥5% Difference) in the ONIVYDE/5-FU/LV Arm*#
 
 | Laboratory abnormality | ONIVYDE/5-FU/LV N=117 |  |  |  | 5-FU/LV N=134 |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |

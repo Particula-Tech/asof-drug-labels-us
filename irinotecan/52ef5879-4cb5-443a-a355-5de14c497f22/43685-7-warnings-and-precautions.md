@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1Severe Neutropenia
+## 5.1 Severe Neutropenia
 
 ONIVYDE can cause severe or life-threatening neutropenia and fatal neutropenic sepsis.
 In Study 1, the incidence of fatal neutropenic sepsis was 0.8% among patients receiving ONIVYDE, occurring in one of 117 patients in the ONIVYDE plus fluorouracil/leucovorin (ONIVYDE/5-FU/LV) arm and one of 147 patients receiving ONIVYDE as a single agent.
@@ -11,11 +11,11 @@ In patients receiving ONIVYDE/5-FU/LV, the incidence of Grade 3 or 4 neutropenia
 Neutropenic fever/neutropenic sepsis was reported in 6% of Asian patients compared to 1% of White patients [see Clinical Pharmacology (12.3)].
 
 Monitor complete blood cell counts on Days 1 and 8 of every cycle and more frequently if clinically indicated.
-Withhold ONIVYDE if the absolute neutrophil count (ANC) is below 1500/mm 3 or if neutropenic fever occurs.
-Resume ONIVYDE when the ANC is 1500/mm 3 or above.
+Withhold ONIVYDE if the absolute neutrophil count (ANC) is below 1500/mm3 or if neutropenic fever occurs.
+Resume ONIVYDE when the ANC is 1500/mm3 or above.
 Reduce ONIVYDE dose for Grade 3-4 neutropenia or neutropenic fever following recovery in subsequent cycles [see Dosage and Administration (2.2)].
 
-## 5.2Severe Diarrhea
+## 5.2 Severe Diarrhea
 
 ONIVYDE can cause severe and life-threatening diarrhea.
 Do not administer ONIVYDE to patients with bowel obstruction.
@@ -32,7 +32,7 @@ Initiate loperamide for late onset diarrhea of any severity.
 Administer intravenous or subcutaneous atropine 0.25 to 1 mg (unless clinically contraindicated) for early onset diarrhea of any severity.
 Following recovery to Grade 1 diarrhea, resume ONIVYDE at a reduced dose [see Dosage and Administration (2.2)].
 
-## 5.3Interstitial Lung Disease
+## 5.3 Interstitial Lung Disease
 
 Irinotecan HCl can cause severe and fatal interstitial lung disease (ILD).
 Withhold ONIVYDE in patients with new or progressive dyspnea, cough, and fever, pending diagnostic evaluation.
@@ -46,6 +46,6 @@ Permanently discontinue ONIVYDE in patients who experience a severe hypersensiti
 ## 5.5 Embryo-Fetal Toxicity
 
 Based on animal data with irinotecan HCl and the mechanism of action of ONIVYDE, ONIVYDE can cause fetal harm when administered to a pregnant woman.
-Embryotoxicity and teratogenicity were observed following treatment with irinotecan HCl, at doses resulting in irinotecan exposures lower than those achieved with ONIVYDE 70 mg/m 2 in humans, administered to pregnant rats and rabbits during organogenesis.
+Embryotoxicity and teratogenicity were observed following treatment with irinotecan HCl, at doses resulting in irinotecan exposures lower than those achieved with ONIVYDE 70 mg/m2 in humans, administered to pregnant rats and rabbits during organogenesis.
 Advise pregnant women of the potential risk to a fetus.
 Advise females of reproductive potential to use effective contraception during treatment with ONIVYDE and for one month following the final dose [see Use in Specific Populations (8.1, 8.3), Clinical Pharmacology (12.1)].

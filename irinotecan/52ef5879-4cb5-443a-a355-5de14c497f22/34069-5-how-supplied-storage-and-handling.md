@@ -13,5 +13,4 @@ Do NOT freeze.
 Protect from light.
 
 ONIVYDE is a cytotoxic drug.
-Follow applicable special handling and disposal procedures.
-1
+Follow applicable special handling and disposal procedures.1

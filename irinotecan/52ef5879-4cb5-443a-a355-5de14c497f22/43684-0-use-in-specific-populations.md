@@ -6,7 +6,7 @@ Risk Summary
 
 Based on animal data with irinotecan HCl and the mechanism of action of ONIVYDE, ONIVYDE can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)].
 There are no available data in pregnant women.
-Embryotoxicity and teratogenicity were observed following treatment with irinotecan HCl, at doses resulting in irinotecan exposures lower than those achieved with ONIVYDE 70 mg/m 2 in humans, administered to pregnant rats and rabbits during organogenesis [see Data].
+Embryotoxicity and teratogenicity were observed following treatment with irinotecan HCl, at doses resulting in irinotecan exposures lower than those achieved with ONIVYDE 70 mg/m2 in humans, administered to pregnant rats and rabbits during organogenesis [see Data].
 Advise pregnant women of the potential risk to a fetus.
 
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
@@ -18,7 +18,7 @@ Animal Data
 No animal studies have been conducted to evaluate the effect of irinotecan liposome on reproduction and fetal development; however, studies have been conducted with irinotecan HCl.
 Irinotecan crosses the placenta of rats following intravenous administration.
 Intravenous administration of irinotecan at a dose of 6 mg/kg/day to rats and rabbits during the period of organogenesis resulted in increased post-implantation loss and decreased numbers of live fetuses.
-In separate studies in rats, this dose resulted in an irinotecan exposure of approximately 0.002 times the exposure of irinotecan based on area under the curve (AUC) in patients administered ONIVYDE at the 70 mg/m 2 dose.
+In separate studies in rats, this dose resulted in an irinotecan exposure of approximately 0.002 times the exposure of irinotecan based on area under the curve (AUC) in patients administered ONIVYDE at the 70 mg/m2 dose.
 Administration of irinotecan HCl resulted in structural abnormalities and growth delays in rats at doses greater than 1.2 mg/kg/day (approximately 0.0002 times the clinical exposure to irinotecan in ONIVYDE based on AUC).
 Teratogenic effects included a variety of external, visceral, and skeletal abnormalities.
 Irinotecan HCl administered to rat dams for the period following organogenesis through weaning at doses of 6 mg/kg/day caused decreased learning ability and decreased female body weights in the offspring.
@@ -36,7 +36,7 @@ Data
 
 Radioactivity appeared in rat milk within 5 minutes of intravenous administration of radiolabeled irinotecan HCl and was concentrated up to 65-fold at 4 hours after administration relative to plasma concentrations.
 
-## 8.3Females and Males of Reproductive Potential
+## 8.3 Females and Males of Reproductive Potential
 
 Contraception
 

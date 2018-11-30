@@ -1,6 +1,6 @@
 # 12 CLINICAL PHARMACOLOGY
 
-## 12.1Mechanism of Action
+## 12.1 Mechanism of Action
 
 Irinotecan liposome injection is a topoisomerase 1 inhibitor encapsulated in a lipid bilayer vesicle or liposome.
 Topoisomerase 1 relieves torsional strain in DNA by inducing single-strand breaks.
@@ -9,9 +9,9 @@ In mice bearing human tumor xenografts, irinotecan liposome administered at irin
 
 ## 12.3 Pharmacokinetics
 
-The plasma pharmacokinetics of total irinotecan and total SN-38 were evaluated in patients with cancer who received ONIVYDE, as a single agent or as part of combination chemotherapy, at doses between 50 and 155 mg/m 2 and 353 patients with cancer using population pharmacokinetic analysis.
+The plasma pharmacokinetics of total irinotecan and total SN-38 were evaluated in patients with cancer who received ONIVYDE, as a single agent or as part of combination chemotherapy, at doses between 50 and 155 mg/m2 and 353 patients with cancer using population pharmacokinetic analysis.
 
-The pharmacokinetic parameters of total irinotecan and total SN-38 following the administration of ONIVYDE 70 mg/m 2 as a single agent or part of combination chemotherapy are presented in Table 4.
+The pharmacokinetic parameters of total irinotecan and total SN-38 following the administration of ONIVYDE 70 mg/m2 as a single agent or part of combination chemotherapy are presented in Table 4.
 
 Table 4: Summary of Mean (±Standard Deviation) Total Irinotecan and Total SN-38
 
@@ -19,10 +19,10 @@ Table 4: Summary of Mean (±Standard Deviation) Total Irinotecan and Total SN-38
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Dose (mg/m2) | Cmax [µg/mL] (n=25) | AUC0-∞ [h∙µg/mL] (n=23) | t1/2 [h] (n=23) | CL [L/h] (n=23) | Vd [L] (n=23) | Cmax [ng/mL] (n=25) | AUC0-∞ [h∙ng/mL] (n=13) | t1/2 [h] (n=13) |
 | 70 | 37.2 (8.8) | 1364 (1048) | 25.8 (15.7) | 0.20 (0.17) | 4.1 (1.5) | 5.4 (3.4) | 620 (329) | 67.8 (44.5) |
-| C max: Maximum plasma concentration AUC 0-∞: Area under the plasma concentration curve extrapolated to time infinity t ½: Terminal elimination half-life CL: Clearance V d: Volume of distribution |  |  |  |  |  |  |  |  |
+| Cmax: Maximum plasma concentration AUC0-∞: Area under the plasma concentration curve extrapolated to time infinity t½: Terminal elimination half-life CL: Clearance Vd: Volume of distribution |  |  |  |  |  |  |  |  |
 
-Over the dose range of 50 to 155 mg/m 2, the C max and AUC of total irinotecan increases with dose.
-Additionally, the C max of total SN-38 increases proportionally with dose; however, the AUC of total SN-38 increases less than proportionally with dose.
+Over the dose range of 50 to 155 mg/m2, the Cmax and AUC of total irinotecan increases with dose.
+Additionally, the Cmax of total SN-38 increases proportionally with dose; however, the AUC of total SN-38 increases less than proportionally with dose.
 
 Distribution
 
@@ -44,7 +44,7 @@ Excretion
 
 The disposition of ONIVYDE has not been elucidated in humans.
 Following administration of irinotecan HCl, the urinary excretion of irinotecan is 11 to 20%; SN-38, <1%; and SN-38 glucuronide, 3%.
-The cumulative biliary and urinary excretion of irinotecan and its metabolites (SN-38 and SN-38 glucuronide), over a period of 48 hours following administration of irinotecan HCl in two patients, ranged from approximately 25% (100 mg/m 2) to 50% (300 mg/m 2).
+The cumulative biliary and urinary excretion of irinotecan and its metabolites (SN-38 and SN-38 glucuronide), over a period of 48 hours following administration of irinotecan HCl in two patients, ranged from approximately 25% (100 mg/m2) to 50% (300 mg/m2).
 
 Specific Populations
 
@@ -75,5 +75,5 @@ In vitro studies indicate that irinotecan, SN-38 and another metabolite, aminope
 ## 12.5 Pharmacogenomics
 
 Individuals who are homozygous for the UGT1A1*28 allele are at increased risk for neutropenia from irinotecan HCl.
-In Study 1, patients homozygous for the UGT1A1*28 allele (N=7) initiated ONIVYDE at a reduced dose of 50 mg/m 2 in combination with 5-FU/LV.
-The frequency of Grade 3 or 4 neutropenia in these patients [2 of 7 (28.6%)] was similar to the frequency in patients not homozygous for the UGT1A1*28 allele who received a starting dose of ONIVYDE of 70 mg/m 2 [30 of 110 (27.3%)].
+In Study 1, patients homozygous for the UGT1A1*28 allele (N=7) initiated ONIVYDE at a reduced dose of 50 mg/m2 in combination with 5-FU/LV.
+The frequency of Grade 3 or 4 neutropenia in these patients [2 of 7 (28.6%)] was similar to the frequency in patients not homozygous for the UGT1A1*28 allele who received a starting dose of ONIVYDE of 70 mg/m2 [30 of 110 (27.3%)].

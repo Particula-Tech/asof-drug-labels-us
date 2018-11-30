@@ -4,11 +4,11 @@ The efficacy of ONIVYDE was evaluated in Study 1, a three-arm, randomized, open-
 Key eligibility criteria included Karnofsky Performance Status (KPS) ≥70, serum bilirubin within institution limits of normal, and albumin ≥3.0 g/dL.
 Patients were randomized to receive ONIVYDE plus fluorouracil/leucovorin (ONIVYDE/5-FU/LV), ONIVYDE, or fluorouracil/leucovorin (5-FU/LV).
 Randomization was stratified by ethnicity (White vs. East Asian vs. other), KPS (70-80 vs. 90-100), and baseline albumin level (≥ 4 g/dL vs. 3.0-3.9 g/dL).
-Patients randomized to ONIVYDE/5-FU/LV received ONIVYDE 70 mg/m 2 as an intravenous infusion over 90 minutes, followed by leucovorin 400 mg/m 2 intravenously over 30 minutes, followed by fluorouracil 2400 mg/m 2 intravenously over 46 hours, every 2 weeks.
-The ONIVYDE dose of 70 mg/m 2 is based on irinotecan free base (equivalent to 80 mg/m 2 of irinotecan as the hydrochloride trihydrate).
-Patients randomized to ONIVYDE as a single agent received ONIVYDE 100 mg/m 2 as an intravenous infusion over 90 minutes every 3 weeks.
-Patients randomized to 5-FU/LV received leucovorin 200 mg/m 2 intravenously over 30 minutes, followed by fluorouracil 2000 mg/m 2 intravenously over 24 hours, administered on Days 1, 8, 15 and 22 of a 6-week cycle.
-Patients homozygous for the UGT1A1*28 allele initiated ONIVYDE at a reduced dose (50 mg/m 2 ONIVYDE, if given with 5-FU/LV or 70 mg/m 2 ONIVYDE as a single agent).
+Patients randomized to ONIVYDE/5-FU/LV received ONIVYDE 70 mg/m2 as an intravenous infusion over 90 minutes, followed by leucovorin 400 mg/m2 intravenously over 30 minutes, followed by fluorouracil 2400 mg/m2 intravenously over 46 hours, every 2 weeks.
+The ONIVYDE dose of 70 mg/m2 is based on irinotecan free base (equivalent to 80 mg/m2 of irinotecan as the hydrochloride trihydrate).
+Patients randomized to ONIVYDE as a single agent received ONIVYDE 100 mg/m2 as an intravenous infusion over 90 minutes every 3 weeks.
+Patients randomized to 5-FU/LV received leucovorin 200 mg/m2 intravenously over 30 minutes, followed by fluorouracil 2000 mg/m2 intravenously over 24 hours, administered on Days 1, 8, 15 and 22 of a 6-week cycle.
+Patients homozygous for the UGT1A1*28 allele initiated ONIVYDE at a reduced dose (50 mg/m2 ONIVYDE, if given with 5-FU/LV or 70 mg/m2 ONIVYDE as a single agent).
 When ONIVYDE was withheld or discontinued for adverse reactions, 5-FU was also withheld or discontinued.
 When the dose of ONIVYDE was reduced for adverse reactions, the dose of 5-FU was reduced by 25%.
 Treatment continued until disease progression or unacceptable toxicity.
@@ -30,7 +30,7 @@ Study 1 demonstrated a statistically significant improvement in overall survival
 
 There was no improvement in overall survival for the ONIVYDE arm over the 5-FU/LV arm (hazard ratio=1.00, p-value=0.97 (two-sided log-rank test)).
 
-Table 5: Efficacy Results from Study 1 †
+Table 5: Efficacy Results from Study 1†
 
 |  | ONIVYDE/5-FU/LV (N=117) | 5-FU/LV (N=119) |
 | --- | --- | --- |
