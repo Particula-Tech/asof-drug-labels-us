@@ -46,7 +46,7 @@ Such monitoring should include daily observation by families and caregivers.
 
 Prescriptions for PRISTIQ should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 
-Screening patients for bipolar disorder
+Screening Patients for Bipolar Disorder
 
 A major depressive episode may be the initial presentation of bipolar disorder.
 It is generally believed (though not established in controlled studies) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for bipolar disorder.

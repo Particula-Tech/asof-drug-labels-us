@@ -7,7 +7,7 @@ Pregnancy Exposure Registry
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antidepressants during pregnancy.
 Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Antidepressants at 1-844-405-6185.
 
-Risk summary
+Risk Summary
 
 There are no published studies on PRISTIQ in pregnant women; however published epidemiologic studies of pregnant women exposed to venlafaxine, the parent compound, have not reported a clear association with adverse developmental outcomes (see Data).
 There are risks associated with untreated depression in pregnancy and with exposure to SNRIs and SSRIs, including PRISTIQ, during pregnancy (see Clinical Considerations).
@@ -21,15 +21,15 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Clinical Considerations
 
-Disease-associated maternal and/or embryo/fetal risk
+Disease-Associated Maternal and/or Embryo/Fetal Risk
 
 A prospective longitudinal study of 201 women with a history of major depression who were euthymic at the beginning of pregnancy, showed that women who discontinued antidepressant medication during pregnancy were more likely to experience a relapse of major depression than women who continued antidepressant medication.
 
-Maternal adverse reactions
+Maternal Adverse Reactions
 
 Exposure to SNRIs in mid to late pregnancy may increase the risk for preeclampsia, and exposure to SNRIs near delivery may increase the risk for postpartum hemorrhage.
 
-Fetal/Neonatal adverse reactions
+Fetal/Neonatal Adverse Reactions
 
 Exposure to SNRIs or SSRIs in late pregnancy may lead to an increased risk for neonatal complications requiring prolonged hospitalization, respiratory support, and tube feeding.
 Monitor neonates who were exposed to PRISTIQ in the third trimester of pregnancy for drug discontinuation syndrome (see Data).
