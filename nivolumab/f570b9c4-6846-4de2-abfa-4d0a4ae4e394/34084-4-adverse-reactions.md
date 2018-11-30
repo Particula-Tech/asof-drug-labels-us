@@ -11,7 +11,7 @@ The following adverse reactions are discussed in greater detail in other section
 - •Immune-Mediated Encephalitis [see Warnings and Precautions (5.7)]
 - •Other Immune-Mediated Adverse Reactions [see Warnings and Precautions (5.8)]
 - •Infusion Reactions [see Warnings and Precautions (5.9)]
-- •Complications of Allogeneic HSCT after OPDIVO [see Warnings and Precautions (5.10)]
+- •Complications of Allogeneic HSCT [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -590,7 +590,10 @@ Twenty-eight patients (11%) had new-onset peripheral neuropathy, and 3 of 40 pat
 These adverse reactions were Grade 1 or 2, except for 1 Grade 3 event (<1%).
 The median time to onset was 50 (range: 1 to 309) days.
 
-Complications of allogeneic HSCT after OPDIVO: [see Warnings and Precautions (5.10)].
+Complications of allogeneic HSCT after OPDIVO: Of 17 patients with cHL from the CHECKMATE-205 and CHECKMATE-039 trials who underwent allogeneic HSCT after treatment with OPDIVO, 6 patients (35%) died from transplant-related complications.
+Five deaths occurred in the setting of severe (Grade 3 to 4) or refractory GVHD.
+Hyperacute GVHD occurred in 2 patients (12%) and Grade 3 or higher GVHD was reported in 5 patients (29%).
+Hepatic VOD occurred in 1 patient, who received reduced-intensity conditioned allogeneic HSCT and died of GVHD and multi-organ failure.
 
 Table 17 summarizes laboratory abnormalities that developed or worsened in at least 10% of patients with cHL.
 The most common (reported in at least 20%) treatment-emergent laboratory events included cytopenias, liver function abnormalities, and elevated lipase.
@@ -827,6 +830,8 @@ The following adverse reactions have been identified during post approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Eye disorders: Vogt-Koyanagi-Harada (VKH) syndrome
+
+Complications of OPDIVO Treatment After Allogeneic HSCT: Treatment refractory, severe acute and chronic GVHD
 
 ## 6.3 Immunogenicity
 

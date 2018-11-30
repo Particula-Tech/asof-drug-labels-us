@@ -18,7 +18,7 @@ Infusion Reactions
 
 - •Advise patients of the potential risk of infusion reaction [see Warnings and Precautions (5.9)].
 
-Complications of allogeneic HSCT after OPDIVO
+Complications of allogeneic HSCT
 
 - •Advise patients of potential risk of post-transplant complications [see Warnings and Precautions (5.10)].
 

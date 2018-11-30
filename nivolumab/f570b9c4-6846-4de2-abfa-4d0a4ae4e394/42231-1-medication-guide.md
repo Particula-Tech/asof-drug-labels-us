@@ -24,7 +24,7 @@ OPDIVO® (op-DEE-voh) (nivolumab) Injection
 | How will I receive OPDIVO? •Your healthcare provider will give you OPDIVO into your vein through an intravenous (IV) line over 30 minutes. •OPDIVO is usually given every 2 weeks or 4 weeks depending on the dose you are receiving.•When used in combination with ipilimumab, OPDIVO is usually given every 3 weeks, for a total of 4 doses. Ipilimumab will be given on the same day. After that, OPDIVO will be given alone every 2 weeks or 4 weeks depending on the dose you are receiving.•Your healthcare provider will decide how many treatments you need.•Your healthcare provider will do blood tests to check you for side effects.•If you miss any appointments, call your healthcare provider as soon as possible to reschedule your appointment. |  |  |  |
 | What are the possible side effects of OPDIVO?OPDIVO can cause serious side effects, including: •See “What is the most important information I should know about OPDIVO?”•Severe infusion reactions. Tell your doctor or nurse right away if you get these symptoms during an infusion of OPDIVO: |  |  |  |
 |  | ochills or shakingoitching or rashoflushingodifficulty breathing | odizzinessofeverofeeling like passing out |  |
-| •Complications of stem cell transplant that uses donor stem cells (allogeneic) after treatment with OPDIVO. These complications can be severe and can lead to death. Your healthcare provider will monitor you for signs of complications if you have an allogeneic stem cell transplant. The most common side effects of OPDIVO when used alone include: |  |  |  |
+| •Complications of stem cell transplant that uses donor stem cells (allogeneic). These complications can be severe and can lead to death. Your healthcare provider will monitor you for signs of complications if you have an allogeneic stem cell transplant. The most common side effects of OPDIVO when used alone include: |  |  |  |
 | •feeling tired•rash•pain in muscles, bones, and joints•itchy skin•diarrhea•nausea•weakness•cough |  | •shortness of breath•constipation•decreased appetite•back pain•upper respiratory tract infection•fever•headache•abdominal pain |  |
 | The most common side effects of OPDIVO when used in combination with ipilimumab include: |  |  |  |
 | •feeling tired•rash•diarrhea•nausea•fever•pain in muscles, bones, and joints |  | •itching•abdominal pain•vomiting•cough•decreased appetite•shortness of breath |  |
@@ -34,4 +34,4 @@ OPDIVO® (op-DEE-voh) (nivolumab) Injection
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: August 2018
+Revised: November 2018

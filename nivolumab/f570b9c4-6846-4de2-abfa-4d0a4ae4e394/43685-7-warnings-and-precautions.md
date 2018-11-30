@@ -384,7 +384,7 @@ Interrupt or slow the rate of infusion in patients with mild or moderate infusio
 
 In patients receiving OPDIVO as a 60-minute intravenous infusion, infusion-related reactions occurred in 6.4% (127/1994) of patients.
 
-In a study assessing the pharmacokinetics and safety of a more rapid infusion, in which patients received OPDIVO as a 60-minute intravenous infusion or a 30-minute intravenous infusion, infusion-related reactions occurred in 2.2% (8/368) and 2.7% (10/369) patients, respectively.
+In a study assessing the pharmacokinetics and safety of a more rapid infusion, in which patients received OPDIVO as a 60-minute intravenous infusion or a 30-minute intravenous infusion, infusion-related reactions occurred in 2.2% (8/368) and 2.7% (10/369) of patients, respectively.
 Additionally, 0.5% (2/368) and 1.4% (5/369) of patients, respectively, experienced adverse reactions within 48 hours of infusion that led to dose delay, permanent discontinuation or withholding of OPDIVO.
 
 ### OPDIVO with Ipilimumab
@@ -397,25 +397,14 @@ OPDIVO 3 mg/kg with Ipilimumab 1 mg/kg
 
 Infusion-related reactions occurred in 5.1% (28/547) of patients with RCC and 4.2% (5/119) of patients with CRC receiving OPDIVO 3 mg/kg with ipilimumab 1 mg/kg every 3 weeks, respectively.
 
-## 5.10 Complications of Allogeneic HSCT after OPDIVO
+## 5.10 Complications of Allogeneic Hematopoietic Stem Cell Transplantation
 
-Complications, including fatal events, occurred in patients who received allogeneic HSCT after OPDIVO.
-Outcomes were evaluated in 17 patients from the CHECKMATE-205 and CHECKMATE-039 trials who underwent allogeneic HSCT after discontinuing OPDIVO (15 with reduced-intensity conditioning, two with myeloablative conditioning).
-The median age at HSCT was 33 (range: 18 to 56), and a median of 9 doses of OPDIVO had been administered (range: 4 to 16).
-Six of 17 patients (35%) died from complications of allogeneic HSCT after OPDIVO.
-Five deaths occurred in the setting of severe or refractory GVHD.
-Grade 3 or higher acute GVHD was reported in 5/17 patients (29%).
-Hyperacute GVHD, defined as GVHD occurring within 14 days after stem cell infusion, was reported in 2 patients (20%).
-A steroid-requiring febrile syndrome, without an identified infectious cause, was reported in six patients (35%) within the first 6 weeks post-transplantation, with five patients responding to steroids.
-Two cases of encephalitis were reported: one case of Grade 3 lymphocytic encephalitis without an identified infectious cause, which occurred and resolved on steroids, and one case of Grade 3 suspected viral encephalitis which was resolved with antiviral treatment.
-Hepatic veno-occlusive disease (VOD) occurred in one patient, who received reduced-intensity conditioned allogeneic HSCT and died of GVHD and multi-organ failure.
-
-Other cases of hepatic VOD after reduced-intensity conditioned allogeneic HSCT have also been reported in patients with lymphoma who received a PD-1 receptor blocking antibody before transplantation.
-Cases of fatal hyperacute GVHD have also been reported.
-
+Fatal and other serious complications can occur in patients who receive allogeneic hematopoietic stem cell transplantation (HSCT) before or after being treated with a PD-1 receptor blocking antibody.
+Transplant-related complications include hyperacute graft-versus-host-disease (GVHD), acute GVHD, chronic GVHD, hepatic veno-occlusive disease (VOD) after reduced intensity conditioning, and steroid-requiring febrile syndrome (without an identified infectious cause) [see Adverse Reactions (6.1)].
 These complications may occur despite intervening therapy between PD-1 blockade and allogeneic HSCT.
 
-Follow patients closely for early evidence of transplant-related complications such as hyperacute GVHD, severe (Grade 3 to 4) acute GVHD, steroid-requiring febrile syndrome, hepatic VOD, and other immune-mediated adverse reactions, and intervene promptly.
+Follow patients closely for evidence of transplant-related complications and intervene promptly.
+Consider the benefit versus risks of treatment with a PD-1 receptor blocking antibody prior to or after an allogeneic HSCT.
 
 ## 5.11 Embryo-Fetal Toxicity
 
