@@ -1,31 +1,23 @@
-# Anastrozole tablets 1mg - 30 tablets
-
-Anastrozole Tablets 1 mg - Bottle of 30 tablets
-
-RX Only
+# PRINCIPAL DISPLAY PANEL - 30 Tablet Bottle Label
 
 NDC 51991-620-33
 
-Each tablet contains 1 mg of anastrozole USP
+ANASTROZOLE TABLETS
 
-USUAL DOSAGE: See accompanying Prescribing Information.
+1 mg
 
-WARNING: As with all medications, keep out of the reach of children.
+Breckenridge Pharmaceutical, Inc.
 
-Store at controlled room temperature, 20º-25ºC (68º-77ºF) [See USP]
+Rx Only 30 Tablets
 
-# Anastrozole tablets 1mg - 1000 tablets
-
-Anastrozole Tablets 1 mg - Bottle of 1000 tablets
-
-RX Only
+# PRINCIPAL DISPLAY PANEL - 1000 Tablet Bottle Label
 
 NDC 51991-620-10
 
-Each tablet contains 1 mg of anastrozole USP
+ANASTROZOLE TABLETS
 
-USUAL DOSAGE: See accompanying Prescribing Information.
+1 mg
 
-WARNING: As with all medications, keep out of the reach of children.
+Breckenridge Pharmaceutical, Inc.
 
-Store at controlled room temperature, 20º-25ºC (68º-77ºF) [See USP]
+Rx Only 1000 Tablets
