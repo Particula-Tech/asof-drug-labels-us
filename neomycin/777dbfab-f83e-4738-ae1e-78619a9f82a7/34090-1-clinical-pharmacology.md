@@ -21,6 +21,6 @@ It is effective primarily against gram-negative bacilli but does have some activ
 Neomycin is active in vitro against Escherichia coli and the Klebsiella-Enterobacter group.
 Neomycin is not active against anaerobic bowel flora.
 
-If susceptibility testing is needed, using a 30 mcg disc, organisms producing zones of 16 mm or greater are considered susceptible.
-Resistant organisms produce zones of 13 mm or less.
-Zones greater than 13 mm and less than 16 mm indicate intermediate susceptibility.
+Susceptibility Testing
+
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.

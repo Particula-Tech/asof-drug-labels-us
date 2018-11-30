@@ -4,11 +4,11 @@
 
 NDC 0093-1177-01
 
-NEOMYCIN
+Neomycin
 
-SULFATE
+Sulfate
 
-Tablets, USP
+Tablets USP
 
 500 mg
 
