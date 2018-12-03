@@ -15,8 +15,9 @@ If symptoms occur, the drug should be discontinued and a physician contacted.
 Dicyclomine hydrochloride may produce drowsiness or blurred vision.
 The patient should be warned not to engage in activities requiring mental alertness, such as operating a motor vehicle or other machinery or to perform hazardous work while taking dicyclomine hydrochloride [see Warnings and Precautions (5.3)].
 
-Manufactured for: Watson Laboratories, Inc. Corona, CA 92880 USA
-
 Manufactured by: Patheon Pharmaceuticals Inc. Cincinnati, OH 45215 USA
 
-Revised: September 2013
+Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
+
+Rev.
+A 11/2018
