@@ -33,7 +33,7 @@ Inadvertent intravascular administration, including inadvertent direct intra-art
 Such severe effects have been reported following injections into the buttock, thigh, and deltoid areas.
 Other serious complications of suspected intravascular administration which have been reported include immediate pallor, mottling, or cyanosis of the extremity both distal and proximal to the injection site, followed by bleb formation; severe edema requiring anterior and/or posterior compartment fasciotomy in the lower extremity.
 The above-described severe effects and complications have most often occurred in infants and small children.
-Prompt consultation with an appropriate specialist is indicated if any evidence of compromise of the blood supply occurs at, proximal to, or distal to the site of injection.1-9 (See PRECAUTIONS, and DOSAGE AND ADMINISTRATION sections.)
+Prompt consultation with an appropriate specialist is indicated if any evidence of compromise of the blood supply occurs at, proximal to, or distal to the site of injection.1–9 (See PRECAUTIONS, and DOSAGE AND ADMINISTRATION sections.)
 
 Do not inject intravenously or admix with other intravenous solutions.
 There have been reports of inadvertent intravenous administration of penicillin G benzathine which has been associated with cardiorespiratory arrest and death.
@@ -77,9 +77,7 @@ Tetracycline, a bacteriostatic antibiotic, may antagonize the bactericidal effec
 
 Concurrent administration of penicillin and probenecid increases and prolongs serum penicillin levels by decreasing the apparent volume of distribution and slowing the rate of excretion by competitively inhibiting renal tubular secretion of penicillin.
 
-## Pregnancy
-
-Reproduction studies performed in the mouse, rat, and rabbit have revealed no evidence of impaired fertility or harm to the fetus due to penicillin G. Human experience with the penicillins during pregnancy has not shown any positive evidence of adverse effects on the fetus.
+Pregnancy Reproduction studies performed in the mouse, rat, and rabbit have revealed no evidence of impaired fertility or harm to the fetus due to penicillin G. Human experience with the penicillins during pregnancy has not shown any positive evidence of adverse effects on the fetus.
 There are, however, no adequate and well-controlled studies in pregnant women showing conclusively that harmful effects of these drugs on the fetus can be excluded.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 

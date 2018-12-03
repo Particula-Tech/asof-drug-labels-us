@@ -28,5 +28,3 @@
    Assoc.
    J., 112:395, 1975.
 9. SCHANZER, H. et al: Accidental intra-arterial injection of penicillin G. JAMA, 242:1289, 1979.
-
-LAB-0588-8.0 5/2018

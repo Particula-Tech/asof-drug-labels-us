@@ -36,11 +36,7 @@ Gram-positive bacteria
 
 Beta-hemolytic streptococci (groups A, B, C, G, H, L and M)
 
-Other microorganisms
-
-Treponema pallidum
-
-Treponema carateum
+Other microorganisms Treponema pallidum Treponema carateum
 
 ### Susceptibility Testing
 
