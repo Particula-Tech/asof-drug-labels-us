@@ -17,21 +17,21 @@ Mometasone furoate also caused dystocia and related complications when administe
 In mice, mometasone furoate caused cleft palate at subcutaneous doses of 60 mcg/kg and above.
 Fetal survival was reduced at 180 mcg/kg.
 No toxicity was observed at 20 mcg/kg.
-(Doses of 20, 60, and 180 mcg/kg in the mouse are approximately 0.01, 0.02, and 0.05 times the estimated maximum clinical topical dose from mometasone furoate cream on a mcg/m2 basis.)
+(Doses of 20 mcg/kg, 60 mcg/kg, and 180 mcg/kg in the mouse are approximately 0.01 times, 0.02 times, and 0.05 times the estimated maximum clinical topical dose from mometasone furoate cream on a mcg/m2 basis.)
 
 In rats, mometasone furoate produced umbilical hernias at topical doses of 600 mcg/kg and above.
 A dose of 300 mcg/kg produced delays in ossification, but no malformations.
-(Doses of 300 and 600 mcg/kg in the rat are approximately 0.2 and 0.4 times the estimated maximum clinical topical dose from mometasone furoate cream on a mcg/m2 basis.)
+(Doses of 300 mcg/kg and 600 mcg/kg in the rat are approximately 0.2 times and 0.4 times the estimated maximum clinical topical dose from mometasone furoate cream on a mcg/m2 basis.)
 
 In rabbits, mometasone furoate caused multiple malformations (e.g., flexed front paws, gallbladder agenesis, umbilical hernia, hydrocephaly) at topical doses of 150 mcg/kg and above (approximately 0.2 times the estimated maximum clinical topical dose from mometasone furoate cream on a mcg/m2 basis).
 In an oral study, mometasone furoate increased resorptions and caused cleft palate and/or head malformations (hydrocephaly and domed head) at 700 mcg/kg.
 At 2800 mcg/kg most litters were aborted or resorbed.
 No toxicity was observed at 140 mcg/kg.
-(Doses at 140, 700, and 2800 mcg/kg in the rabbit are approximately 0.2, 0.9, and 3.6 times the estimated maximum clinical topical dose from mometasone furoate cream on a mcg/m2 basis.)
+(Doses at 140 mcg/kg, 700 mcg/kg, and 2800 mcg/kg in the rabbit are approximately 0.2 times, 0.9 times, and 3.6 times the estimated maximum clinical topical dose from mometasone furoate cream on a mcg/m2 basis.)
 
 When rats received subcutaneous doses of mometasone furoate throughout pregnancy or during the later stages of pregnancy, 15 mcg/kg caused prolonged and difficult labor and reduced the number of live births, birth weight, and early pup survival.
 Similar effects were not observed at 7.5 mcg/kg.
-(Doses of 7.5 and 15 mcg/kg in the rat are approximately 0.005 and 0.01 times the estimated maximum clinical topical dose from mometasone furoate cream on a mcg/m2 basis.)
+(Doses of 7.5 mcg/kg and 15 mcg/kg in the rat are approximately 0.005 times and 0.01 times the estimated maximum clinical topical dose from mometasone furoate cream on a mcg/m2 basis.)
 
 ## 8.3 Nursing Mothers
 
@@ -46,6 +46,7 @@ Since safety and efficacy of mometasone furoate cream have not been established 
 
 In a pediatric trial, 24 atopic dermatitis subjects, of whom 19 subjects were age 2 to 12 years, were treated with mometasone furoate cream once daily.
 The majority of subjects cleared within 3 weeks.
+
 Mometasone furoate cream caused HPA axis suppression in approximately 16% of pediatric subjects ages 6 to 23 months, who showed normal adrenal function by Cortrosyn test before starting treatment, and were treated for approximately 3 weeks over a mean body surface area of 41% (range 15% to 94%).
 The criteria for suppression were: basal cortisol level of ≤5 mcg/dL, 30-minute post-stimulation level of ≤18 mcg/dL, or an increase of <7 mcg/dL.
 Follow-up testing 2 to 4 weeks after trial completion, available for 5 of the subjects, demonstrated suppressed HPA axis function in 1 subject, using these same criteria.

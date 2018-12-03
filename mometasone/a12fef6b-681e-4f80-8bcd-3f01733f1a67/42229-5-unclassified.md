@@ -1,3 +1,5 @@
 MADE IN CANADA MANUFACTURED BY TARO PHARMACEUTICALS INC. BRAMPTON, ONTARIO, CANADA L6T 1C1
 
-Distributed By Perrigo® Allegan, MI 49010 • www.perrigo.com Rev 06-16 A 0F400 RC J3 PK-5108-4 51
+Distributed By Perrigo®
+
+Allegan, MI 49010 • www.perrigo.com Rev 09-18B 0F400 RC J4 PK-5108-5 0918-5 12

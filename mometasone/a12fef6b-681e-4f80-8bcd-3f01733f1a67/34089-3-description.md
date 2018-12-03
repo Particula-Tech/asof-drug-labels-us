@@ -7,4 +7,4 @@ Chemically, mometasone furoate is 9α, 21-dichloro-11β,17-dihydroxy-16α-methyl
 
 Mometasone furoate is a white to off-white powder practically insoluble in water, slightly soluble in octanol, and moderately soluble in ethyl alcohol.
 
-Each gram of Mometasone Furoate Cream USP, 0.1% contains 1 mg mometasone furoate in a white to off-white uniform cream base of aluminum starch octenylsuccinate, ceteareth-20, phosphoric acid, propylene glycol, propylene glycol stearate, purified water, stearyl alcohol, titanium dioxide, white petrolatum and white wax.
+Each gram of Mometasone Furoate Cream USP, 0.1% contains 1 mg mometasone furoate in a white to off-white cream base of aluminum starch octenylsuccinate, ceteareth-20, phosphoric acid, propylene glycol, propylene glycol stearate, purified water, stearyl alcohol, titanium dioxide, white petrolatum and white wax.
