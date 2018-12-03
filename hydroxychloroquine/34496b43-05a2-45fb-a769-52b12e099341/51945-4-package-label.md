@@ -16,4 +16,4 @@ PHARMACIST: Children are especially sensitive to this medication.
 Tablets should be kept out of their reach.
 
 Mfd. for: Concordia Pharmaceuticals Inc. St. Michael, Barbados BB11005 Made in Hungary Rev.
-3_02/17 056210/LB/2 50123802
+4_01/18 LB-103181-01

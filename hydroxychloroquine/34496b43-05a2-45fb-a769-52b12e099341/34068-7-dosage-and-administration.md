@@ -17,7 +17,7 @@ PLAQUENIL film-coated tablets cannot be divided, therefore they should not be us
 
 For radical cure of P. vivax and P. malariae infections, concomitant therapy with an 8-aminoquinoline compound is necessary.
 
-## Lupus Erythematosus​​
+## Lupus Erythematosus
 
 The recommended adult dosage is 200 to 400 mg (155 to 310 mg base) daily, administered as a single daily dose or in two divided doses.
 Doses above 400 mg a day are not recommended.

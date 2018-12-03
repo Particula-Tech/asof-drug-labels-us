@@ -6,7 +6,7 @@ Urine hydroxychloroquine levels were still detectable after 3 months with approx
 Results following a single dose of a 200 mg tablet versus i.v. infusion (155 mg), demonstrated a half-life of about 40 days and a large volume of distribution.
 Peak blood concentrations of metabolites were observed at the same time as peak levels of hydroxycholoquine.
 The mean fraction of the dose absorbed was 0.74.
-After administration of single 155 mg and 310 mg intravenous doses, peak blood concentrations ranged from 1161 ng/mL to 2436 ng/mL (mean 1918 ng/mL) following the 155 mg infusion and 6 months following the 310 mg infusion.
+After administration of single 155 mg and 310 mg intravenous doses, peak blood concentrations ranged from 1161 ng/mL to 2436 ng/mL (mean 1918 ng/mL) following the 155 mg infusion and 6 months following the 3as10 mg infusion.
 Pharmacokinetic parameters were not significantly different over the therapeutic dose range of 155 mg and 310 mg indicating linear kinetics.
 
 Following chronic oral administration of hydroxychloroquine, significant levels of three metabolites, desethylhydroxychloroquine (DHCQ), desethylchloroquine (DCQ), and bidesethylhydroxychloroquine (BDCQ) have been found in plasma and blood, with DHCQ being the major metabolite.
@@ -32,8 +32,8 @@ Drug Resistance: P. falciparum strains exhibiting reduced susceptibility to chlo
 
 Resistance of Plasmodium parasites to chloroquine is widespread (see INDICATIONS AND USAGE – Malaria).
 
-Patients in whom chloroquine or hydroxychloroquine have failed to prevent or cure clinical malaria or parasitemia, or patients who acquired malaria in a geographic area where chloroquine resistance is known to occur should be treated with another form of antimalarial therapy (see INDICATIONS AND USAGE – Malaria and WARNINGS).
+Patients in whom chloroquine or hydroxychloroquine have failed to prevent or cure clinical malaria or parasitemia, or patients who acquired malaria in a geographic area where chloroquine resistance is known to occur should be treated with another form of antimalarial therapy (see INDICATIONS AND USAGE – Malariaand WARNINGS).
 
 ## Rheumatoid Arthritis and Systemic Lupus Erythematosus
 
-Mechanism of action: The mechanisms underlying the anti-inflammatory and immunomodulatory effects of PLAQUENIL are unknown.
+Mechanism of action: The mechanisms underlying the anti-inflammatory and immunomodulatory effects of PLAQUENIL are unknown
