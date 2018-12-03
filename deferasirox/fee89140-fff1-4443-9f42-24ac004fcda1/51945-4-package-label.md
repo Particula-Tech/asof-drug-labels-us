@@ -4,7 +4,7 @@ Package Label – 90 mg
 
 Rx Only NDC 0078-0654-15
 
-JadenuTM (deferasirox)
+Jadenu® (deferasirox)
 
 Film-coated Tablets
 
@@ -18,7 +18,7 @@ Package Label – 180 mg
 
 Rx Only NDC 0078-0655-15
 
-JadenuTM (deferasirox)
+Jadenu® (deferasirox)
 
 Film-coated Tablets
 
@@ -32,7 +32,7 @@ Package Label – 360 mg
 
 Rx Only NDC 0078-0656-15
 
-JadenuTM (deferasirox)
+Jadenu® (deferasirox)
 
 Film-coated Tablets
 
