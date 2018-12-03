@@ -9,7 +9,7 @@ The mechanism of action of the naproxen anion, like that of other NSAIDs, is not
 ## Pharmacokinetics
 
 Naproxen and naproxen sodium are rapidly and completely absorbed from the gastrointestinal tract with an in vivo bioavailability of 95%.
-The different dosage forms of NAPROSYN are bioequivalent in terms of extent of absorption (AUC) and peak concentration (Cmax); however, the products do differ in their pattern of absorption.
+The different dosage forms of NAPROSYN are bioequivalent in terms of extent of absorption (AUC) and peak concentration (C max); however, the products do differ in their pattern of absorption.
 These differences between naproxen products are related to both the chemical form of naproxen used and its formulation.
 Even with the observed differences in pattern of absorption, the elimination half-life of naproxen is unchanged across products ranging from 12 to 17 hours.
 Steady-state levels of naproxen are reached in 4 to 5 days, and the degree of naproxen accumulation is consistent with this half-life.
@@ -31,31 +31,31 @@ The enteric polymer coating selected for EC-NAPROSYN dissolves above pH 6.
 When EC-NAPROSYN was given to fasted subjects, peak plasma levels were attained about 4 to 6 hours following the first dose (range: 2 to 12 hours).
 An in vivo study in man using radiolabeled EC-NAPROSYN tablets demonstrated that EC-NAPROSYN dissolves primarily in the small intestine rather than in the stomach, so the absorption of the drug is delayed until the stomach is emptied.
 
-When EC-NAPROSYN and NAPROSYN were given to fasted subjects (n=24) in a crossover study following 1 week of dosing, differences in time to peak plasma levels (Tmax) were observed, but there were no differences in total absorption as measured by Cmax and AUC:
+When EC-NAPROSYN and NAPROSYN were given to fasted subjects (n=24) in a crossover study following 1 week of dosing, differences in time to peak plasma levels (T max) were observed, but there were no differences in total absorption as measured by C max and AUC:
 
 |  | EC-NAPROSYN* 500 mg bid | NAPROSYN* 500 mg bid |
 | --- | --- | --- |
-| Cmax (µg/mL) | 94.9 (18%) | 97.4 (13%) |
-| Tmax (hours) | 4 (39%) | 1.9 (61%) |
-| AUC0–12 hr (µg·hr/mL) | 845 (20%) | 767 (15%) |
+| C max (µg/mL) | 94.9 (18%) | 97.4 (13%) |
+| T max (hours) | 4 (39%) | 1.9 (61%) |
+| AUC 0–12 hr (µg·hr/mL) | 845 (20%) | 767 (15%) |
 
 *Mean value (coefficient of variation)
 
 Antacid Effects
 
-When EC-NAPROSYN was given as a single dose with antacid (54 mEq buffering capacity), the peak plasma levels of naproxen were unchanged, but the time to peak was reduced (mean Tmax fasted 5.6 hours, mean Tmax with antacid 5 hours), although not significantly.
+When EC-NAPROSYN was given as a single dose with antacid (54 mEq buffering capacity), the peak plasma levels of naproxen were unchanged, but the time to peak was reduced (mean T max fasted 5.6 hours, mean T max with antacid 5 hours), although not significantly.
 
 Food Effects
 
 When EC-NAPROSYN was given as a single dose with food, peak plasma levels in most subjects were achieved in about 12 hours (range: 4 to 24 hours).
 Residence time in the small intestine until disintegration was independent of food intake.
-The presence of food prolonged the time the tablets remained in the stomach, time to first detectable serum naproxen levels, and time to maximal naproxen levels (Tmax), but did not affect peak naproxen levels (Cmax).
+The presence of food prolonged the time the tablets remained in the stomach, time to first detectable serum naproxen levels, and time to maximal naproxen levels (T max), but did not affect peak naproxen levels (C max).
 
 Distribution
 
 Naproxen has a volume of distribution of 0.16 L/kg.
 At therapeutic levels naproxen is greater than 99% albumin-bound.
-At doses of naproxen greater than 500 mg/day there is less than proportional increase in plasma levels due to an increase in clearance caused by saturation of plasma protein binding at higher doses (average trough Css 36.5, 49.2 and 56.4 mg/L with 500, 1000 and 1500 mg daily doses of naproxen, respectively).
+At doses of naproxen greater than 500 mg/day there is less than proportional increase in plasma levels due to an increase in clearance caused by saturation of plasma protein binding at higher doses (average trough C ss 36.5, 49.2 and 56.4 mg/L with 500, 1000 and 1500 mg daily doses of naproxen, respectively).
 The naproxen anion has been found in the milk of lactating women at a concentration equivalent to approximately 1% of maximum naproxen concentration in plasma (see PRECAUTIONS: Nursing Mothers).
 
 Metabolism

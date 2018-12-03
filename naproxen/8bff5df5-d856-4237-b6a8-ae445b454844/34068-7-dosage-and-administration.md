@@ -54,7 +54,7 @@ The recommended total daily dose of naproxen is approximately 10 mg/kg given in 
 A measuring cup marked in 1/2 teaspoon and 2.5 milliliter increments is provided with the NAPROSYN Suspension.
 The following table may be used as a guide for dosing of NAPROSYN Suspension:
 
-Patient’s Weight Dose Administered as
+Patient’s Weight DoseAdministered as
 
 13 kg (29 lb) 62.5 mg bid 2.5 mL (1/2 tsp) twice daily
 
