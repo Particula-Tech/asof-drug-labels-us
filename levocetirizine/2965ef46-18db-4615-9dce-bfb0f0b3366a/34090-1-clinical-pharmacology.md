@@ -43,7 +43,7 @@ Metabolism
 
 The extent of metabolism of levocetirizine in humans is less than 14% of the dose and therefore differences resulting from genetic polymorphism or concomitant intake of hepatic drug metabolizing enzyme inhibitors are expected to be negligible.
 Metabolic pathways include aromatic oxidation, N- and O-dealkylation, and taurine conjugation.
-Dealkylation pathways are primarily mediated by CYP 3A4 while aromatic oxidation involves multiple and/or unidentified CYP isoforms.
+Dealkylation pathways are primarily mediated by CYP3A4 while aromatic oxidation involves multiple and/or unidentified CYP isoforms.
 
 Elimination
 
@@ -57,6 +57,7 @@ In patients with renal impairment the clearance of levocetirizine is reduced [se
 Drug Interaction Studies
 
 In vitro data on metabolite interaction indicate that levocetirizine is unlikely to produce, or be subject to metabolic interactions.
+
 Levocetirizine at concentrations well above Cmax level achieved within the therapeutic dose ranges is not an inhibitor of CYP isoenzymes 1A2, 2C9, 2C19, 2A1, 2D6, 2E1, and 3A4, and is not an inducer of UGT1A or CYP isoenzymes 1A2, 2C9 and 3A4.
 
 No formal in vivo drug interaction studies have been performed with levocetirizine.
@@ -83,7 +84,6 @@ Gender
 
 Pharmacokinetic results for 77 patients (40 men, 37 women) were evaluated for potential effect of gender.
 The half-life was slightly shorter in women (7.08 ± 1.72 hr) than in men (8.62 ± 1.84 hr); however, the body weight-adjusted oral clearance in women (0.67 ± 0.16 mL/min/kg) appears to be comparable to that in men (0.59 ± 0.12 mL/min/kg).
-
 The same daily doses and dosing intervals are applicable for men and women with normal renal function.
 
 Race
@@ -95,8 +95,8 @@ No race-related differences in the kinetics of racemic cetirizine have been obse
 Renal Impairment
 
 Levocetirizine exposure (AUC) exhibited 1.8-, 3.2-, 4.3-, and 5.7-fold increase in mild, moderate, severe, renal impaired, and end-stage renal disease patients, respectively, compared to healthy subjects.
-
 The corresponding increases of half-life estimates were 1.4-, 2.0-, 2.9-, and 4-fold, respectively.
+
 The total body clearance of levocetirizine after oral dosing was correlated to the creatinine clearance and was progressively reduced based on severity of renal impairment.
 Therefore, it is recommended to adjust the dose and dosing intervals of levocetirizine based on creatinine clearance in patients with mild, moderate, or severe renal impairment.
 In end-stage renal disease patients (CLCR < 10 mL/min) levocetirizine is contraindicated.

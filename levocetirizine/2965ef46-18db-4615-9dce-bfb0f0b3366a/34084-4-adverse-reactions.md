@@ -4,11 +4,11 @@ Use of levocetirizine dihydrochloride has been associated with somnolence, fatig
 
 ## 6.1 Clinical Trials Experience
 
-The safety data described below reflect exposure to levocetirizine dihydrochloride in 2708 patients with seasonal or perennial allergic rhinitis or chronic idiopathic urticaria in 14 controlled clinical trials of 1 week to 6 months duration.
+The safety data described below reflect exposure to levocetirizine dihydrochloride in 2708 patients with allergic rhinitis or chronic idiopathic urticaria in 14 controlled clinical trials of 1 week to 6 months duration.
 
 The short-term (exposure up to 6 weeks) safety data for adults and adolescents are based upon eight clinical trials in which 1896 patients (825 males and 1071 females aged 12 years and older) were treated with levocetirizine dihydrochloride 2.5, 5, or 10 mg once daily in the evening.
 
-The short-term safety data from pediatric patients are based upon two clinical trials in which 243 children with seasonal or perennial allergic rhinitis (162 males and 81 females 6 to 12 years of age) were treated with levocetirizine dihydrochloride 5 mg once daily for 4 to 6 weeks, one clinical trial in which 114 children (65 males and 49 females 1 to 5 years of age) with allergic rhinitis or chronic idiopathic urticaria were treated with levocetirizine dihydrochloride 1.25 mg twice daily for 2 weeks, and one clinical trial in which 45 children (28 males and 17 females 6 to 11 months of age) with symptoms of allergic rhinitis or chronic urticaria were treated with levocetirizine dihydrochloride 1.25 mg once daily for 2 weeks.
+The short-term safety data from pediatric patients are based upon two clinical trials in which 243 children with allergic rhinitis (162 males and 81 females 6 to 12 years of age) were treated with levocetirizine dihydrochloride 5 mg once daily for 4 to 6 weeks, one clinical trial in which 114 children (65 males and 49 females 1 to 5 years of age) with allergic rhinitis or chronic idiopathic urticaria were treated with levocetirizine dihydrochloride 1.25 mg twice daily for 2 weeks, and one clinical trial in which 45 children (28 males and 17 females 6 to 11 months of age) with symptoms of allergic rhinitis or chronic urticaria were treated with levocetirizine dihydrochloride 1.25 mg once daily for 2 weeks.
 
 The long-term (exposure of 4 or 6 months) safety data in adults and adolescents are based upon two clinical trials in which 428 patients (190 males and 238 females) with allergic rhinitis were exposed to treatment with levocetirizine dihydrochloride 5 mg once daily.
 Long term safety data are also available from an 18-month trial in 255 levocetirizine dihydrochloride-treated subjects 12-24 months of age.
@@ -95,10 +95,30 @@ The elevations were transient and did not lead to discontinuation in any patient
 
 ## 6.2 Post-Marketing Experience
 
-In addition to the adverse reactions reported during clinical trials and listed above, adverse reactions have also been identified during post-approval use of levocetirizine dihydrochloride.
+In addition to the adverse reactions reported during clinical trials and listed above, the following adverse reactions have also been identified during post-approval use of levocetirizine dihydrochloride.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Adverse reactions of hypersensitivity and anaphylaxis, increased appetite, angioedema, fixed drug eruption, pruritus, rash and urticaria, convulsion, paresthesia, dizziness, tremor, dysgeusia, vertigo, movement disorders (including dystonia and oculogyric crisis), aggression and agitation, hallucinations, depression, insomnia, suicidal ideation, visual disturbances, blurred vision, palpitations, tachycardia, dyspnea, nausea, vomiting, hepatitis, dysuria, urinary retention, myalgia, arthralgia and edema have been reported.
+- •Cardiac disorders: palpitations, tachycardia
+- •Ear and labyrinth disorders: vertigo
+- •Eye disorders: blurred vision, visual disturbances
+- •Gastrointestinal disorders: nausea, vomiting
+- •General disorders and administration site conditions: edema
+- •Hepatobiliary disorders: hepatitis
+- •Immune system disorders: anaphylaxis and hypersensitivity
+- •Metabolism and nutrition disorders: increased appetite
+- •Musculoskeletal, connective tissues, and bone disorders: arthralgia, myalgia
+- •Nervous system disorders: dizziness, dysgeusia, febrile seizure, movement disorders (including dystonia and oculogyric crisis), paraesthesia, seizure (reported in subjects with and without a known seizure disorder), tremor
+- •Psychiatric disorders: aggression and agitation, depression, hallucinations, insomnia, nightmare, suicidal ideation
+- •Renal and urinary disorders: dysuria, urinary retention
+- •Respiratory, thoracic, and mediastinal disorders: dyspnea
+- •Skin and subcutaneous tissue disorders: angioedema, fixed drug eruption, pruritus, rash and urticaria
 
 Besides these reactions reported under treatment with levocetirizine dihydrochloride, other potentially severe adverse events have been reported from the post-marketing experience with cetirizine.
-Since levocetirizine is the principal pharmacologically active component of cetirizine, one should take into account the fact that the following adverse events could also potentially occur under treatment with levocetirizine dihydrochloride: orofacial dyskinesia, severe hypotension, cholestasis, glomerulonephritis, still birth, tic, myoclonus, extrapyramidal symptoms, and acute generalized exanthematous pustulosis (AGEP).
+Since levocetirizine is the principal pharmacologically active component of cetirizine, one should take into account the fact that the following adverse events could also potentially occur under treatment with levocetirizine dihydrochloride.
+
+- •Cardiac disorders: severe hypotension
+- •Gastrointestinal disorders: cholestasis
+- •Nervous system disorders: extrapyramidal symptoms, myoclonus, orofacial dyskinesia, tic
+- •Pregnancy, puerperium and perinatal conditions: stillbirth
+- •Renal and urinary disorders: glomerulonephritis
+- •Skin and subcutaneous tissue disorders: acute generalized exanthematous pustulosis (AGEP); rebound pruritus - pruritus within a few days after discontinuation of cetirizine, usually after long-term use (e.g. months to years) of cetirizine.
