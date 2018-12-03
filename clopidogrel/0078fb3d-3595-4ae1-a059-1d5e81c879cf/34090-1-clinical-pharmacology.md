@@ -25,8 +25,7 @@ Gender In a small study comparing men and women, less inhibition of ADP-induced 
 Clopidogrel is a prodrug and is metabolized to a pharmacologically active metabolite and inactive metabolites.
 Absorption After single and repeated oral doses of 75 mg per day, clopidogrel is rapidly absorbed.
 Absorption is at least 50%, based on urinary excretion of clopidogrel metabolites.
-
-Effect of Food Clopidogrel bisulfate can be administered with or without food.
+Effect of food Clopidogrel bisulfate can be administered with or without food.
 In a study in healthy male subjects when clopidogrel bisulfate 75 mg per day was given with a standard breakfast, mean inhibition of ADP-induced platelet aggregation was reduced by less than 9%.
 The active metabolite AUC0-24 was unchanged in the presence of food, while there was a 57% decrease in active metabolite Cmax.
 Similar results were observed when a clopidogrel bisulfate 300 mg loading dose was administered with a high-fat breakfast.
@@ -46,8 +45,8 @@ Concomitant use of certain inhibitors of this enzyme results in reduced plasma c
 Proton pump inhibitors (PPI) The effect of proton pump inhibitors (PPI) on the systemic exposure to the clopidogrel active metabolite following multiple doses of clopidogrel bisulfate 75 mg evaluated in dedicated drug interaction studies is presented in Figure 1.
 
 Pharmacodynamic and pharmacokinetic parameters measured in these studies showed that the interaction was highest with omeprazole and least with dexlansoprazole.
-Opioids Co-administration of 5 mg intravenous morphine with 600 mg loading dose of clopidogrel in healthy adults decreased the AUC and Cmax of clopidogrel’s thiol metabolites by 34%.
-Mean platelet aggregation was higher up to 2 to 4 hours with morphine co-administration.
+Opioids Coadministration of 5 mg intravenous morphine with 600 mg loading dose of clopidogrel in healthy adults decreased the AUC and Cmax of clopidogrel’s thiol metabolites by 34%.
+Mean platelet aggregation was higher up to 2 to 4 hours with morphine coadministration.
 Effect of clopidogrel bisulfate on other drugs In vitro studies have shown that the glucuronide metabolite of clopidogrel is a strong inhibitor of CYP2C8.
 Concomitant administration of repaglinide with clopidogrel bisulfate increased the systemic exposure to repaglinide (AUC0-∞) by 5.1-fold following the loading dose (300 mg) and by 3.9-fold on day 3 of the maintenance dose (75 mg) of clopidogrel bisulfate [see Drug Interactions (7.6)].
 

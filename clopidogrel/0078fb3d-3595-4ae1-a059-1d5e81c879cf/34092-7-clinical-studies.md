@@ -34,7 +34,7 @@ The use of oral anticoagulants, nonstudy antiplatelet drugs, and chronic NSAIDs 
 Figure 3: Hazard Ratio for Patient Baseline Characteristics and On-Study Concomitant Medications/Interventions for the CURE Study
 
 The use of clopidogrel bisulfate in CURE was associated with a decrease in the use of thrombolytic therapy (71 patients [1.1%] in the clopidogrel bisulfate group, 126 patients [2%] in the placebo group; relative risk reduction of 43%), and GPIIb/IIIa inhibitors (369 patients [5.9%] in the clopidogrel bisulfate group, 454 patients [7.2%] in the placebo group, relative risk reduction of 18%).
-The use of clopidogrel bisulfate in CURE did not affect the number of patients treated with CABG or PCI (with or without stenting), (2253 patients [36%] in the clopidogrel bisulfate group, 2324 patients [36.9%] in the placebo group; relative risk reduction of 4%).
+The use of clopidogrel bisulfate in CURE did not affect the number of patients treated with CABG or PCI (with or without stenting) (2253 patients [36%] in the clopidogrel bisulfate group, 2324 patients [36.9%] in the placebo group; relative risk reduction of 4%).
 COMMIT In patients with STEMI, the safety and efficacy of clopidogrel bisulfate were evaluated in the randomized, placebo-controlled, double-blind study, COMMIT.
 COMMIT included 45,852 patients presenting within 24 hours of the onset of the symptoms of myocardial infarction with supporting ECG abnormalities (i.e., ST-elevation, ST-depression or left bundle-branch block).
 Patients were randomized to receive clopidogrel bisulfate (75 mg once daily) or placebo, in combination with aspirin (162 mg per day), for 28 days or until hospital discharge, whichever came first.
@@ -49,7 +49,7 @@ Table 5: Outcome Events in COMMIT
 | --- | --- | --- | --- | --- |
 | Composite endpoint: Death, MI, or Stroke* | 2121 (9.2%) | 2310 (10.1%) | 0.91 (0.86, 0.97) | 0.002 |
 | Death Nonfatal MI† Nonfatal Stroke† | 1726 (7.5%) 270 (1.2%) 127 (0.6%) | 1845 (8.1%) 330 (1.4%) 142 (0.6%) | 0.93 (0.87, 0.99) 0.81 (0.69, 0.95) 0.89 (0.7, 1.13) | 0.029 0.011 0.33 |
-| * 9 patients (2 clopidogrel and 7 placebo) suffered both a nonfatal stroke and a nonfatal MI. †Nonfatal MI and nonfatal stroke exclude patients who died (of any cause). |  |  |  |  |
+| * 9 patients (2 clopidogrel and 7 placebo) suffered both a nonfatal stroke and a nonfatal MI. † Nonfatal MI and nonfatal stroke exclude patients who died (of any cause). |  |  |  |  |
 
 Figure 4: Cumulative Event Rates for Death in the COMMIT Study*
 
@@ -65,7 +65,7 @@ Such subgroup analyses should be interpreted cautiously.
 
 Figure 6: Effects of Adding Clopidogrel Bisulfate to Aspirin on the Combined Primary Endpoint across Baseline and Concomitant Medication Subgroups for the COMMIT Study
 
-* CI is 95% for Overall row only
+* CI is 95% for Overall row only.
 
 ## 14.2 Recent Myocardial Infarction, Recent Stroke, or Established Peripheral Arterial Disease
 
@@ -97,7 +97,7 @@ The statistical significance favoring clopidogrel bisulfate over aspirin was mar
 However, because aspirin is itself effective in reducing cardiovascular events in patients with recent myocardial infarction or stroke, the effect of clopidogrel bisulfate is substantial.
 The CAPRIE trial enrolled a population that had recent MI, recent stroke, or PAD.
 The efficacy of clopidogrel bisulfate relative to aspirin was heterogeneous across these subgroups (p=0.043) (see Figure 8).
-Nonetheless this difference may be a chance occurrence because the CAPRIE trial was not designed to evaluate the relative benefit of clopidogrel bisulfate over aspirin in the individual patient subgroups.
+Nonetheless, this difference may be a chance occurrence because the CAPRIE trial was not designed to evaluate the relative benefit of clopidogrel bisulfate over aspirin in the individual patient subgroups.
 The benefit was most apparent in patients who were enrolled because of peripheral arterial disease and less apparent in stroke patients.
 In patients who were enrolled in the trial on the sole basis of a recent myocardial infarction, clopidogrel bisulfate was not numerically superior to aspirin.
 

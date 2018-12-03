@@ -1,13 +1,8 @@
 # Medication Guide
 
-Clopidogrel Tablets, USP
-
-(Kloe pid’ oh grel)
-
-Read this Medication Guide before you start taking clopidogrel tablets and each time you get a refill.
+Clopidogrel Tablets, USP (Kloe pid’ oh grel) Read this Medication Guide before you start taking clopidogrel tablets and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking with your doctor about your medical condition or your treatment.
-
 What is the most important information I should know about clopidogrel tablets?
 
 1.
@@ -71,8 +66,7 @@ Before you take clopidogrel tablets, tell your doctor if you:
   It is not known if clopidogrel tablets will harm your unborn baby
 - are breastfeeding or plan to breastfeed.
   It is not known if clopidogrel bisulfate passes into your breast milk.
-  You and your doctor should decide if you will take clopidogrel tablets or breastfeed.
-  You should not do both without talking to your doctor
+  A decision should be made with your healthcare provider to avoid or discontinue breastfeeding when continuing clopidogrel tablets is needed.
 - have had an allergy or reaction to any medicine used to treat your disease.
 
 Tell all of your doctors and your dentist that you are taking clopidogrel tablets.
@@ -177,7 +171,5 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
 
-Coumadin® is a registered trademark of Bristol-Myers Squibb Pharma Company.
-Prilosec® and Nexium® are registered trademarks of AstraZeneca.
-Prandin® is a registered trademark of Novo Nordisk Inc. Jantoven® is a registered trademark of USL Pharma.
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road, East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 06/2018
+All trademarks are property of their respective owners.
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 11/2018
