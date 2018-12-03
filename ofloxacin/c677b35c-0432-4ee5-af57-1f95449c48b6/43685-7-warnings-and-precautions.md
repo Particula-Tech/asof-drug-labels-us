@@ -20,10 +20,9 @@ Cases of sensory or sensorimotor axonal polyneuropathy affecting small and/or la
 Symptoms may occur soon after initiation of norfloxacin and may be irreversible in some patients (see WARNINGS).
 Discontinue ofloxacin immediately if the patient experiences symptoms of peripheral neuropathy including pain, burning, tingling, numbness, and/or weakness, or other alterations in sensations including light touch, pain, temperature, position sense and vibratory sensation, and/or motor strength in order to minimize the development of an irreversible condition.
 Avoid fluoroquinolones, including ofloxacin, in patients who have previously experienced peripheral neuropathy (see Adverse Reactions).
-Central Nervous System Effects Fluoroquinolones, including ofloxacin, have been associated with an increased risk of central nervous system (CNS) effects, including convulsions, increased intracranial pressure (including pseudotumor cerebri), and toxic psychoses.
-Quinolones may also cause central nervous system (CNS) stimulation which may lead to tremors, restlessness, lightheadedness, confusion, and hallucinations.
+Central Nervous System Effects Psychiatric Adverse Reactions:Fluoroquinolones, including ofloxacin, have been associated with an increased risk of psychiatric adverse reactions toxic psychoses or hallucinations; agitation; delirium, confusion, disorientation, or disturbances in attention; nervousness or restlessness, memory impairment.
 If these reactions occur in patients receiving ofloxacin, the drug should be discontinued and appropriate measures instituted.
-The effects of ofloxacin on brain function or on the electrical activity of the brain have not been tested.
+Central Nervous System Adverse Reactions: Fluoroquinolones have been associated with an increased risk of seizures (convulsions), increased intracranial pressure (pseudotumor cerebri), lightheadedness, or tremors.The effects of ofloxacin on brain function or on the electrical activity of the brain have not been tested.
 Therefore, until more information becomes available, ofloxacin, like all other quinolones, should be used with caution in patients with known or suspected CNS disorders, such as severe cerebral arteriosclerosis, epilepsy, and other factors which predispose to seizures (see ADVERSE REACTIONS).
 Exacerbation of Myasthenia Gravis Fluoroquinolones, including ofloxacin, have neuromuscular blocking activity and may exacerbate muscle weakness in persons with myasthenia gravis.
 Postmarketing serious adverse events, including deaths and requirement for ventilatory support, have been associated with fluoroquinolone use in persons with myasthenia gravis.
@@ -52,6 +51,10 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated (see ADVERSE REACTIONS).
 Ofloxacin has not been shown to be effective in the treatment of syphilis.
+Fluoroquinolones have been associated with disturbances of blood glucose, including symptomatic hyperglycemia and hypoglycemia, usually in diabetic patients receiving concomitant treatment with an oral hypoglycemic agent (e.g., glyburide) or with insulin.
+In these patients, careful monitoring of blood glucose is recommended.
+Severe cases of hypoglycemia resulting in coma or death have been reported.
+If a hypoglycemic reaction occurs in a patient being treated with ofloxacin, discontinue ofloxacin and initiate appropriate therapy immediately.
 Antimicrobial agents used in high doses for short periods of time to treat gonorrhea may mask or delay the symptoms of incubating syphilis.
 All patients with gonorrhea should have a serologic test for syphilis at the time of diagnosis.
 Patients treated with ofloxacin for gonorrhea should have a follow-up serologic test for syphilis after three months and, if positive, treatment with an appropriate antimicrobial should be instituted.
@@ -69,7 +72,7 @@ Moderate to severe photosensitivity/phototoxicity reactions, the latter of which
 Therefore, excessive exposure to these sources of light should be avoided.
 Drug therapy should be discontinued if photosensitivity/phototoxicity occurs (see ADVERSE REACTIONS, Postmarketing Adverse Events).
 As with other quinolones, ofloxacin should be used with caution in any patient with a known or suspected CNS disorder that may predispose to seizures or lower the seizure threshold (e.g., severe cerebral arteriosclerosis, epilepsy) or in the presence of other risk factors that may predispose to seizures or lower the seizure threshold (e.g., certain drug therapy, renal dysfunction) (see WARNINGS and Drug Interactions).
-A possible interaction between oral hypoglycemic drugs (e.g., glyburide/glibenclamide) or with insulin and fluoroquinolone antimicrobial agents have been reported resulting in a potentiation of the hypoglycemic action of these drugs.
+A possible interaction between oral hypoglycemic drugs (e.g., glyburide/glibenclamide) or with insulin and fluoroquinolone antimicrobial agents have been reported resulting in a potentiation of the hypoglycemic action of these drugs, sometimes resulting in coma or death.
 The mechanism for this interaction is not known.
 If a hypoglycemic reaction occurs in a patient being treated with ofloxacin, discontinue ofloxacin immediately and consult a physician (see Drug Interactions and ADVERSE REACTIONS).
 As with any potent drug, periodic assessment of organ system functions, including renal, hepatic, and hematopoietic, is advisable during prolonged therapy (see WARNINGS and ADVERSE REACTIONS).

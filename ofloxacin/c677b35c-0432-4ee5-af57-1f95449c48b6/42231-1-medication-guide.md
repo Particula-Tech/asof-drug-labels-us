@@ -242,6 +242,10 @@ The chances of this happening are higher in people:
   Follow your healthcare provider’s instructions for how often to check your blood sugar.
   If you have diabetes and you get low blood sugar while taking ofloxacin tablets, stop taking ofloxacin tablets right away and call your healthcare provider right away.
   Your antibiotic medicine may need to be changed.
+- Changes in blood sugar People who take fluoroquinolone medicines with oral anti-diabetes medicines or with insulin can get low blood sugar (hypoglycemia) and high blood sugar (hyperglycemia).
+  Follow your healthcare provider's instructions for how often to check your blood sugar.
+  If you have diabetes and you get low blood sugar while taking ofloxacin, stop taking ofloxacin and call your healthcare provider right away.
+  Your antibiotic medicine may need to be changed.
 
 The most common side effects of ofloxacin tabletsinclude:
 
@@ -295,4 +299,4 @@ Manufactured by:
 
 Cadila Pharmaceuticals Limited 1389, Dholka, District - Ahmedabad,
 
-Gujarat State, INDIA Revised: May 2016
+Gujarat State, INDIA Revised: November 2018
