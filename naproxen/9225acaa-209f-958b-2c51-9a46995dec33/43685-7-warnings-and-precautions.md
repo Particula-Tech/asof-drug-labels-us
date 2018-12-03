@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Cardiovascular ThromboticEvents
+## 5.1 Cardiovascular Thrombotic Events
 
 Clinical trials of several COX-2 selective and nonselective NSAIDs of up to three years duration have shown an increased risk of serious cardiovascular (CV) thrombotic events, including myocardial infarction (MI) and stroke, which can be fatal.
 Based on available data, it is unclear that the risk for CV thrombotic events is similar for all NSAIDs.
@@ -114,7 +114,7 @@ NSAIDs, including naproxen can cause serious skin adverse reactions such as exfo
 These serious events may occur without warning.
 Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of Naproxen Sodium Controlled-Release Tablets at the first appearance of skin rash or any other sign of hypersensitivity.
 
-Naproxen Sodium Controlled-Release Tablets is contraindicated in patients with previous serious skin reactions to NSAIDs [see Contraindications (4)].
+Naproxen sodium is contraindicated in patients with previous serious skin reactions to NSAIDs [see Contraindications (4)].
 
 ## 5.10 Premature Closure of Fetal Ductus Arteriosus
 

@@ -21,7 +21,7 @@ The following adverse reactions are divided into three parts based on frequency 
 In those reactions listed as “Probable Causal Relationship” there is at least one case for each adverse reaction where there is evidence to suggest that there is a causal relationship between drug usage and the reported event.
 The adverse reactions reported were based on the results from two double-blind controlled clinical trials of three months duration with an additional nine month open-label extension.
 A total of 542 patients received Naproxen Sodium Controlled-Release Tablets either in the double-blind period or in the nine month open-label extension.
-Of these 542 patients, 232 received Naproxen Sodium Controlled-Release Tablets, 167 were initially treated with Naprosyn and 143 were initially treated with placebo.
+Of these 542 patients, 232 received Naproxen Sodium Controlled-Release Tablets, 167 were initially treated with Naprosyn® and 143 were initially treated with placebo.
 Adverse reactions reported by patients who received Naproxen Sodium Controlled-Release Tablets are shown by body system.
 Those adverse reactions observed with naproxen but not reported in controlled trials with Naproxen Sodium Controlled-Release Tablets are italicized.
 

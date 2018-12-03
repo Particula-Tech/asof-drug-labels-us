@@ -37,7 +37,7 @@ Table 1: Clinically Significant Drug Interactions with Naproxen
 | Intervention: | During concomitant use of naproxen sodium and pemetrexed, in patients with renal impairment whose creatinine clearance ranges from 45 to 79 mL/min, monitor for myelosuppression, renal and GI toxicity.NSAIDs with short elimination half-lives (e.g., diclofenac, indomethacin) should be avoided for a period of two days before, the day of, and two days following administration of pemetrexed.In the absence of data regarding potential interaction between pemetrexed and NSAIDs with longer half-lives (e.g., meloxicam, nabumetone), patients taking these NSAIDs should interrupt dosing for at least five days before, the day of, and two days following pemetrexed administration. |
 | Antacids and Sucralfate |  |
 | Clinical Impact: | Concomitant administration of some antacids (magnesium oxide or aluminum hydroxide) and sucralfate can delay the absorption of naproxen. |
-| Intervention: | Concomitant administration of antacids such as magnesium oxide or aluminum hydroxid, and sucralfate with naproxen sodium is not recommended. |
+| Intervention: | Concomitant administration of antacids such as magnesium oxide or aluminum hydroxide, and sucralfate with naproxen sodium is not recommended. |
 | Cholestyramine |  |
 | Clinical Impact: | Concomitant administration of cholestyramine can delay the absorption of naproxen. |
 | Intervention: | Concomitant administration of cholestyramine with naproxen sodium is not recommended. |
