@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA203499"
+  ],
+  "inn": "glipizide",
+  "labeler": "Northstar Rx LLC.",
+  "package_ndcs": [
+    "16714-894-01",
+    "16714-895-01",
+    "16714-895-02",
+    "16714-896-01",
+    "16714-896-02"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "glipizide",
+      "name": "Glipizide"
+    }
+  ],
+  "setid": "915636a4-092e-4e2e-9bc0-0d387d996977",
+  "source": "dailymed"
+}
