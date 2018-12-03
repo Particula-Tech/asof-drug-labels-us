@@ -1,6 +1,6 @@
 # 10 OVERDOSAGE
 
-Excessive doses of DYSPORT® may be expected to produce neuromuscular weakness with a variety of symptoms.
+Excessive doses of DYSPORT may be expected to produce neuromuscular weakness with a variety of symptoms.
 Respiratory support may be required where excessive doses cause paralysis of respiratory muscles.
 In the event of overdose, the patient should be medically monitored for symptoms of excessive muscle weakness or muscle paralysis [see Warnings and Precautions (5.2)].
 Symptomatic treatment may be necessary.
