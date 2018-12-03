@@ -1,3 +1,8 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Zemplar should not be given to patients with evidence of vitamin D toxicity, hypercalcemia, or hypersensitivity to any ingredient in this product (see WARNINGS).
+ZEMPLAR is contraindicated in patients with:
+
+- Hypercalcemia [see Warnings and Precautions (5.1)]
+- Vitamin D toxicity [see Warnings and Precautions (5.1)]
+- Known hypersensitivity to paricalcitol or any of the inactive ingredients in ZEMPLAR.
+  Hypersensitivity adverse reactions have been reported [e.g., angioedema (including laryngeal edema) and urticaria] [see Adverse Reactions (6.2)].

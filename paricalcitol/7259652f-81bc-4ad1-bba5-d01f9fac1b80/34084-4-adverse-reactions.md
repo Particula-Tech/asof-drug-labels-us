@@ -1,114 +1,83 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-Zemplar has been evaluated for safety in clinical studies in 609 CKD Stage 5 patients.
-In four, placebo-controlled, double-blind, multicenter studies, discontinuation of therapy due to any adverse event occurred in 6.5% of 62 patients treated with Zemplar (dosage titrated as tolerated, see CLINICAL PHARMACOLOGY - Clinical Studies) and 2.0% of 51 patients treated with placebo for 1 to 3 months.
-Adverse events occurring in the Zemplar group at a frequency of 2% or greater and with an incidence greater than that in the placebo group, regardless of causality, are presented in the following table:
+The following serious adverse reactions are described below and elsewhere in the labeling:
 
-Adverse Event Incidence Rates for All Treated Patients In All Placebo-Controlled Studies
+- Hypercalcemia [see Warnings and Precautions (5.1)]
+- Adynamic Bone Disease [see Warnings and Precautions (5.3)]
 
-| Adverse Event | Zemplar (n = 62) % | Placebo (n = 51) % |
+## 6.1 Clinical Trials Experience
+
+Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
+
+Four placebo-controlled, double-blind, multicenter studies were conducted in 113 patients (51% male, 10% Caucasian, 81% African-American and 9% Hispanic, ranging in age from 18 to 90 years).
+Sixty-two patients were exposed to ZEMPLAR and the average dose at the end of treatment was 0.12 mcg/kg/dose with a mean number of 55 days of dosing across the studies.
+Discontinuation of therapy due to any adverse reaction occurred in 6.5% of patients treated with ZEMPLAR and 2.0% of patients treated with placebo.
+Adverse reactions occurring with greater frequency in the ZEMPLAR group and at a frequency of 2% or greater are presented in Table 3.
+
+Table 3.
+Adverse Reactions Occurring at a Rate of 2% or Greater in Patients with CKD on Dialysis in Four Placebo-Controlled Studies
+
+| Adverse Reaction | Placebo (n = 51) % | ZEMPLAR (n = 62) % |
 | --- | --- | --- |
-| Overall | 71 | 78 |
-| Cardiac Disorders |  |  |
-| Palpitations | 3.2 | 0.0 |
-| Gastrointestinal Disorders |  |  |
-| Dry Mouth | 3.2 | 2.0 |
-| Gastrointestinal Hemorrhage | 4.8 | 2.0 |
-| Nausea | 12.9 | 7.8 |
-| Vomiting | 8.1 | 5.9 |
-| General Disorders and Administration Site Conditions |  |  |
-| Chills | 4.8 | 2.0 |
-| Edema | 6.5 | 0.0 |
-| Malaise | 3.2 | 0.0 |
-| Pyrexia | 4.8 | 2.0 |
-| Infections and Infestations |  |  |
-| Influenza | 4.8 | 3.9 |
-| Pneumonia | 4.8 | 0.0 |
-| Sepsis | 4.8 | 2.0 |
-| Musculoskeletal and Connective Tissue Disorders |  |  |
-| Arthralgia | 4.8 | 3.9 |
+| Nausea | 8 | 13 |
+| Vomiting | 6 | 8 |
+| Edema | 0 | 7 |
+| Gastrointestinal Hemorrhage | 2 | 5 |
+| Chills | 2 | 5 |
+| Pyrexia | 2 | 5 |
+| Pneumonia | 0 | 5 |
+| Sepsis | 2 | 5 |
+| Influenza | 4 | 5 |
+| Arthralgia | 4 | 5 |
+| Palpitations | 0 | 3 |
+| Dry Mouth | 2 | 3 |
+| Malaise | 0 | 3 |
 
-A patient who reported the same medical term more than once was counted only once for that medical term.
+Other Adverse Reactions
 
-Safety parameters (changes in mean Ca, P, Ca × P) in an open-label safety study up to 13 months in duration support the long-term safety of Zemplar in this patient population (see CLINICAL STUDIES).
+The following adverse reactions occurred in less than 2% of the ZEMPLAR treated patients in the above mentioned studies and in additional double-blind, active-controlled and open-label studies:
 
-## Other Adverse Reactions Observed During Clinical Evaluation of Zemplar Injection
+Blood and Lymphatic System Disorders: Anemia, lymphadenopathy
 
-The following adverse reactions, with a causal relationship to Zemplar, occurred in <2% of the Zemplar treated patients in the above double-blind, placebo-controlled clinical trial data set.
-In addition, the following also includes adverse reactions reported in Zemplar-treated patients who participated in other studies (non placebo-controlled), including double-blind, active-controlled and open-label studies:
+Cardiac Disorders: Arrhythmia, atrial flutter, irregular heart rate, cardiac arrest, chest discomfort, chest pain, edema peripheral
 
-Blood and Lymphatic System Disorders:
+Ear and Labyrinth Disorders: Ear discomfort
 
-Anemia, lymphadenopathy
+Endocrine Disorders: Hypoparathyroidism
 
-Cardiac Disorders:
+Eye Disorders: Conjunctivitis, glaucoma, ocular hyperemia
 
-Arrhythmia, atrial flutter, cardiac arrest
+Gastrointestinal Disorders: Abdominal discomfort, constipation, diarrhea, dysphagia, gastritis, intestinal ischemia, rectal hemorrhage
 
-Ear and Labyrinth Disorders:
+General Disorders: Asthenia, condition aggravated, fatigue, feeling abnormal, pain, swelling
 
-Ear discomfort
+Infections: Nasopharyngitis, upper respiratory tract infection, vaginal infection
 
-Endocrine Disorders:
+Injection site reactions: Injection site extravasation, injection site pain
 
-Hyperparathyroidism, hypoparathyroidism
+Laboratory abnormalities: Hypercalcemia, hyperkalemia, hyperphosphatemia, hypocalcemia, increased aspartate aminotransferase, prolonged bleeding time
 
-Eye Disorders:
+Metabolism and Nutrition Disorders: Decreased appetite, thirst, decreased weight
 
-Conjunctivitis, glaucoma, ocular hyperemia
+Musculoskeletal and Connective Tissue Disorders: Joint stiffness, muscle twitching, myalgia
 
-Gastrointestinal Disorders:
+Neoplasms Benign, Malignant and Unspecified: Breast cancer
 
-Abdominal discomfort, constipation, diarrhea, dysphagia, gastritis, intestinal ischemia, rectal hemorrhage
+Nervous System Disorders: Cerebrovascular accident, dizziness, dysgeusia, headache, hypoesthesia, myoclonus, paresthesia, syncope, unresponsive to stimuli, gait disturbance
 
-General Disorders and Administration Site Conditions:
+Psychiatric Disorders: Agitation, confusional state, delirium, insomnia, nervousness, restlessness
 
-Asthenia, chest discomfort, chest pain, condition aggravated, edema peripheral, fatigue, feeling abnormal, gait disturbance, injection site extravasation, injection site pain, pain, swelling, thirst
+Reproductive System and Breast Disorders: Breast pain, erectile dysfunction
 
-Infections and Infestations:
+Respiratory, Thoracic and Mediastinal Disorders: Cough, dyspnea, orthopnea, pulmonary edema, wheezing
 
-Nasopharyngitis, upper respiratory tract infection, vaginal infection
+Skin and Subcutaneous Tissue Disorders: Alopecia, blister, hirsutism, night sweats, rash pruritic, pruritus, skin burning sensation
 
-Investigations:
+Vascular Disorders: Hypertension, hypotension
 
-Aspartate aminotransferase increased, bleeding time prolonged, heart rate irregular, laboratory test abnormal, weight decreased
+## 6.2 Postmarketing Experience
 
-Metabolism and Nutrition Disorders:
-
-Decreased appetite, hypercalcemia, hyperkalemia, hyperphosphatemia, hypocalcemia
-
-Musculoskeletal and Connective Tissue Disorders:
-
-Joint stiffness, muscle twitching, myalgia
-
-Neoplasms Benign, Malignant and Unspecified:
-
-Breast cancer
-
-Nervous System Disorders:
-
-Cerebrovascular accident, dizziness, dysgeusia, headache, hypoesthesia, myoclonus, paresthesia, syncope, unresponsive to stimuli
-
-Psychiatric Disorders:
-
-Agitation, confusional state, delirium, insomnia, nervousness, restlessness
-
-Reproductive System and Breast Disorders:
-
-Breast pain, erectile dysfunction
-
-Respiratory, Thoracic and Mediastinal Disorders:
-
-Cough, dyspnea, orthopnea, pulmonary edema, wheezing
-
-Skin and Subcutaneous Tissue Disorders:
-
-Alopecia, blister, hirsutism, night sweats, rash pruritic, pruritus, skin burning sensation
-
-Vascular Disorders:
-
-Hypertension, hypotension
-
-## Additional Adverse Events Reported During Post-marketing Experience
+The following adverse reactions have been identified during post-approval use of ZEMPLAR.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Allergic reactions, such as rash, urticaria, and angioedema (including laryngeal edema) have been reported.

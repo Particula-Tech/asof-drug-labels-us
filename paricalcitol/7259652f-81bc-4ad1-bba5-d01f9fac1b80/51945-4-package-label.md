@@ -12,6 +12,18 @@ Mfd for: AbbVie Inc, N. Chgo, IL 60064 USA
 
 Rx only
 
+NDC 0074-4637-01
+
+Single-Dose Vials - Discard unused portion
+
+Zemplar® 2mcg/mL Rx only
+
+(paricalcitol) Injection
+
+For Intravenous Use
+
+25 x 1 mL Vials abbvie
+
 NDC 0074–1658–01
 
 1 mL Single-Dose Vial
@@ -26,6 +38,18 @@ Mfd for: AbbVie Inc., N. Chgo, IL 60064 USA
 
 Rx only
 
+NDC 0074-1658-01
+
+Single-Dose Vials - Discard unused portion
+
+Zemplar® 5mcg/mL Rx only
+
+(paricalcitol) Injection
+
+for Intravenous use
+
+25 x 1 mL Vials abbvie
+
 NDC 0074–1658–05
 
 2 mL Multi-Dose Vial
@@ -37,3 +61,15 @@ For Intravenous Use
 Mfd for: AbbVie Inc., N. Chgo, IL 60064 USA
 
 Rx only
+
+NDC 0074-1658-05
+
+Multi-dose Vials Rx only
+
+Zemplar® 10mcg/2mL
+
+(paricalcitol) Injection (5mcg/mL)
+
+For Intravenous Use
+
+25 x 2 mL Vials abbvie
