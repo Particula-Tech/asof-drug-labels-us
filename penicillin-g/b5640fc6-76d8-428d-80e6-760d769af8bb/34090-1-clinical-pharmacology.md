@@ -30,7 +30,7 @@ Resistance to penicillin G has not been reported in Streptococcus pyogenes.
 
 Penicillin has been shown to be active against most isolates of the following bacteria, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
 
-Gram-positive bacteria
+#### Gram-positive bacteria
 
 Beta-hemolytic streptococci (groups A, B, C, G, H, L and M)
 

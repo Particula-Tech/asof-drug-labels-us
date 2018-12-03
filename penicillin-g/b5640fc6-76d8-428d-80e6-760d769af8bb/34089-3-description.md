@@ -6,8 +6,14 @@ Penicillin G benzathine is prepared by the reaction of dibenzylethylene diamine 
 It occurs as a white, crystalline powder and is very slightly soluble in water and sparingly soluble in alcohol.
 Its chemical structure is as follows:
 
+|  | Molecular Formula (C16H18N2O4S)2 ∙ C16H20N2 ∙ 4H2O | Molecular Wt. 981.19 |  |
+| --- | --- | --- | --- |
+
 Penicillin G procaine, (2S,5R,6R)-3,3-Dimethyl-7-oxo-6-(2-phenylacetamido)-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid compound with 2-(diethylamino)ethyl p-aminobenzoate (1:1) monohydrate, is an equimolar salt of procaine and penicillin G. It occurs as white crystals or a white, microcrystalline powder and is slightly soluble in water.
 Its chemical structure is as follows:
+
+|  | Molecular Formula C16H18N2O4S ∙ C13H20N2O2 ∙ H2O | Molecular Wt. 588.72 |  |
+| --- | --- | --- | --- |
 
 Each disposable syringe (2 mL size) contains the equivalent of 1,200,000 units of penicillin G comprising: the equivalent of 600,000 units of penicillin G as the benzathine salt and the equivalent of 600,000 units of penicillin G as the procaine salt in a stabilized aqueous suspension with sodium citrate buffer; and as w/v, approximately 0.5% lecithin, 0.55% carboxymethylcellulose, 0.55% povidone, 0.1% methylparaben, and 0.01% propylparaben.
 

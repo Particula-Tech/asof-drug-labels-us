@@ -1,5 +1,8 @@
 # WARNINGS
 
+| WARNING: NOT FOR INTRAVENOUS USE. DO NOT INJECT INTRAVENOUSLY OR ADMIX WITH OTHER INTRAVENOUS SOLUTIONS. THERE HAVE BEEN REPORTS OF INADVERTENT INTRAVENOUS ADMINISTRATION OF PENICILLIN G BENZATHINE WHICH HAS BEEN ASSOCIATED WITH CARDIORESPIRATORY ARREST AND DEATH. Prior to administration of this drug, carefully read the WARNINGS, ADVERSE REACTIONS, and DOSAGE AND ADMINISTRATION sections of the labeling. |
+| --- |
+
 The combination of penicillin G benzathine and penicillin G procaine should only be prescribed for the indications listed in this insert.
 
 ## Anaphylaxis
@@ -11,6 +14,18 @@ BEFORE INITIATING THERAPY WITH BICILLIN C-R CAREFUL INQUIRY SHOULD BE MADE CONCE
 IF AN ALLERGIC REACTION OCCURS, BICILLIN C-R SHOULD BE DISCONTINUED AND APPROPRIATE THERAPY INSTITUTED.
 SERIOUS ANAPHYLACTIC REACTIONS REQUIRE IMMEDIATE EMERGENCY TREATMENT WITH EPINEPHRINE.
 OXYGEN, INTRAVENOUS STEROIDS AND AIRWAY MANAGEMENT, INCLUDING INTUBATION, SHOULD ALSO BE ADMINISTERED AS INDICATED.
+
+## Methemoglobinemia
+
+Cases of methemoglobinemia have been reported in association with local anesthetic use.
+Although all patients are at risk for methemoglobinemia, patients with glucose-6-phosphate dehydrogenase deficiency, congenital or idiopathic methemoglobinemia, cardiac or pulmonary compromise, infants under 6 months of age, and concurrent exposure to oxidizing agents or their metabolites are more susceptible to developing clinical manifestations of the condition.
+If local anesthetics must be used in these patients, close monitoring for symptoms and signs of methemoglobinemia is recommended.
+
+Signs of methemoglobinemia may occur immediately or may be delayed some hours after exposure, and are characterized by a cyanotic skin discoloration and/or abnormal coloration of the blood.
+Methemoglobin levels may continue to rise; therefore, immediate treatment is required to avert more serious central nervous system (CNS) and cardiovascular adverse effects, including seizures, coma, arrhythmias, and death.
+Discontinue Bicillin C-R and any other oxidizing agents.
+Depending on the severity of the signs and symptoms, patients may respond to supportive care, i.e., oxygen therapy, hydration.
+A more severe clinical presentation may require treatment with methylene blue, exchange transfusion, or hyperbaric oxygen.
 
 Clostridium difficile associated with diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Bicillin C-R, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
@@ -33,7 +48,7 @@ Inadvertent intravascular administration, including inadvertent direct intra-art
 Such severe effects have been reported following injections into the buttock, thigh, and deltoid areas.
 Other serious complications of suspected intravascular administration which have been reported include immediate pallor, mottling, or cyanosis of the extremity both distal and proximal to the injection site, followed by bleb formation; severe edema requiring anterior and/or posterior compartment fasciotomy in the lower extremity.
 The above-described severe effects and complications have most often occurred in infants and small children.
-Prompt consultation with an appropriate specialist is indicated if any evidence of compromise of the blood supply occurs at, proximal to, or distal to the site of injection.1-9 (See PRECAUTIONS, and DOSAGE AND ADMINISTRATION sections.)
+Prompt consultation with an appropriate specialist is indicated if any evidence of compromise of the blood supply occurs at, proximal to, or distal to the site of injection.1–9 (See PRECAUTIONS, and DOSAGE AND ADMINISTRATION sections.)
 
 Do not inject intravenously or admix with other intravenous solutions.
 There have been reports of inadvertent intravenous administration of penicillin G benzathine which has been associated with cardiorespiratory arrest and death.
@@ -68,6 +83,9 @@ In prolonged therapy with penicillin, and particularly with high-dosage schedule
 
 ## Information for Patients
 
+Inform patients that use of local anesthetics may cause methemoglobinemia, a serious condition that must be treated promptly.
+Advise patients or caregivers to seek immediate medical attention if they or someone in their care experience the following signs or symptoms: pale, gray, or blue colored skin (cyanosis); headache; rapid heart rate; shortness of breath; lightheadedness; or fatigue.
+
 Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
 Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two months after having taken the last dose of the antibiotic.
 If this occurs, patients should contact their physician as soon as possible.
@@ -87,6 +105,20 @@ Cultures should be taken following completion of treatment to determine whether 
 Tetracycline, a bacteriostatic antibiotic, may antagonize the bactericidal effect of penicillin, and concurrent use of these drugs should be avoided.
 
 Concurrent administration of penicillin and probenecid increases and prolongs serum penicillin levels by decreasing the apparent volume of distribution and slowing the rate of excretion by competitively inhibiting renal tubular secretion of penicillin.
+
+Patients who are administered local anesthetics are at increased risk of developing methemoglobinemia when concurrently exposed to the following drugs, which could include other local anesthetics:
+
+Examples of Drugs Associated with Methemoglobinemia:
+
+| Class | Examples |
+| --- | --- |
+| Nitrates/Nitrites | nitroglycerin, nitroprusside, nitric oxide, nitrous oxide |
+| Local anesthetics | articaine, benzocaine, bupivacaine, lidocaine, mepivacaine, prilocaine, procaine, ropivacaine, tetracaine |
+| Antineoplastic agents | cyclophosphamide, flutamide, hydroxyurea, isofamide, rasburicase |
+| Antibiotics | dapsone, nitrofurantoin, para-aminosalicylic acid, sulfonamides |
+| Antimalarials | chloroquine, primaquine |
+| Anticonvulsants | phenobarbital, phenytoin, sodium valproate |
+| Other drugs | acetaminophen, metoclopramide, quinine, sulfasalazine |
 
 ## Pregnancy
 

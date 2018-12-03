@@ -1,6 +1,8 @@
 # DOSAGE AND ADMINISTRATION
 
-Streptococcal Infections Group A—Infections of the upper-respiratory tract, skin and soft-tissue infections, scarlet fever, and erysipelas.
+## Streptococcal Infections Group A
+
+Infections of the upper-respiratory tract, skin and soft-tissue infections, scarlet fever, and erysipelas.
 
 The following doses are recommended:
 

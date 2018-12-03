@@ -47,7 +47,3 @@ Skin: Diaphoresis.
 Special Senses: Blurred vision; blindness.
 
 Urogenital: Neurogenic bladder; hematuria; proteinuria; renal failure; impotence; priapism.
-
-## OVERDOSAGE
-
-Penicillin in overdosage has the potential to cause neuromuscular hyperirritability or convulsive seizures.
