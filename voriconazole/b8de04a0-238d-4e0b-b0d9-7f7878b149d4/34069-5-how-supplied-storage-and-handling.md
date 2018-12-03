@@ -4,10 +4,6 @@
 
 Tablets
 
-Voriconazole 50 mg tablets; white, film-coated, round, debossed with the letter "G" on one side and "VOR50" on the reverse.
-
-Bottles of 30 (NDC 59762-0925-1)
-
 Voriconazole 50 mg tablets; white, film-coated, round, debossed with "Pfizer" on one side and "VOR50" on the reverse.
 
 Bottles of 30 (NDC 59762-0934-1)

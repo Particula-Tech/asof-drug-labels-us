@@ -182,6 +182,4 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 This product's label may have been updated.
 For current full prescribing information, please visit www.greenstonellc.com.
 
-Trademarks are the property of their respective owners.
-
-LAB-0435-8.0 Revised: 5/2018
+LAB-0435-9.0 Revised: 11/2018
