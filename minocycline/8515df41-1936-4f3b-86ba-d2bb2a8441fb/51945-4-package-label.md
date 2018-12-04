@@ -17,3 +17,18 @@ To order: Call 1-866-ARESTIN (273-7846) or visit our Web site at www.ArestinProf
 oraPHARMA
 
 2 resealable foil pouches 12 cartridges per pouch 1 mg of minocycline per cartridge
+
+# Principal Display Panel – 1 mg pouch containing 1 cartridge
+
+Microsphere Delivery System Arestin® minocycline HCl 1 mg MICROSPHERES
+
+For use only with the patient listed on the prescription label.
+Rx Pack: Not for dental professional resale For Subgingival Application Rx only Pouch contains 1 cartridge Cartridge contains 1 mg minocycline
+
+For more information, call 1-866-ARESTIN (273-7846) or visit www.ArestinProfessional.com
+
+Manufactured for: OraPharma, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+
+©Valeant Pharmaceuticals North America LLC
+
+Usual Dosage: Please see accompanying full Prescribing Information.
