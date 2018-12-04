@@ -48,7 +48,7 @@ Rancho Cucamonga, CA 91730, U.S.A.
 
 Made in U.S.A
 
-8856016D 11-12
+8856016E 11-14
 
 Stock No. 5601
 
@@ -81,7 +81,7 @@ Rancho Cucamonga, CA 91730, U.S.A.
 
 Made in U.S.A.
 
-© 2008
+© 2012
 
 # PRINCIPLE DISPLAY PANEL: 40 mg/0.4 mL Peel Lid
 
@@ -111,7 +111,7 @@ Rancho Cucamonga, CA 91730, U.S.A.
 
 Made in U.S.A
 
-8856026D 11-12
+8856026E 11-14
 
 Stock No. 5602
 
@@ -176,7 +176,7 @@ Each 0.025 mL graduation equals 2.5 mg Enoxaparin Sodium Injection
 
 RX ONLY
 
-8856036D 11-12
+8856036E 11-14
 
 Stock No. 5603
 
@@ -241,7 +241,7 @@ Each 0.025 mL graduation equals 2.5 mg Enoxaparin Sodium Injection
 
 RX ONLY
 
-8856046D 11-12
+8856046E 11-14
 
 Stock No. 5604
 
@@ -256,7 +256,21 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 # PRINCIPAL DISPLAY PANEL: 10 x 100 mg Syringe Carton
 
-ENOXAPARIN SODIUM INJECTION 100 mg / mL NDC 0548-5605-00 1 mL Syringe Rx ONLY FOR SUBCUTANEOUS INJECTION 10 x 100 mg Single Dose Syringes with Automatic Safety Device AMPHASTAR PHARMACEUTICALS, INC. Rancho Cucamonga, CA 91730, U.S.A. Made in U.S.A. © 2008
+ENOXAPARIN SODIUM INJECTION
+
+100 mg / mL
+
+NDC 0548-5605-00 1 mL Syringe
+
+Rx ONLY
+
+FOR SUBCUTANEOUS INJECTION
+
+10 x 100 mg Single Dose Syringes with Automatic Safety Device
+
+AMPHASTAR PHARMACEUTICALS, INC.
+
+Rancho Cucamonga, CA 91730, U.S.A. Made in U.S.A. © 2012
 
 # PRINCIPLE DISPLAY PANEL: 100 mg/mL Peel Lid
 
@@ -321,7 +335,7 @@ Rancho Cucamonga, CA 91730, U.S.A.
 
 Made in U.S.A.
 
-© 2008
+© 2012
 
 # PRINCIPLE DISPLAY PANEL: 120 mg/0.8 mL Peel Lid
 
@@ -353,7 +367,7 @@ Each 0.02 mL graduation equals 3 mg Enoxaparin Sodium Injection
 
 RX ONLY
 
-8856066D 11-12
+8856066E 11-14
 
 Stock No. 5606
 
@@ -388,7 +402,7 @@ Rancho Cucamonga, CA 91730, U.S.A.
 
 Made in U.S.A.
 
-© 2008
+© 2012
 
 # PRINCIPLE DISPLAY PANEL: 150 mg/mL Peel Lid
 
@@ -420,7 +434,7 @@ Each 0.02 mL graduation equals 3 mg Enoxaparin Sodium Injection
 
 RX ONLY
 
-8856076E 11-12
+8856076F 11-14
 
 Stock No. 5607
 
