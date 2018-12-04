@@ -1,3 +1,5 @@
+# SPL PATIENT PACKAGE INSERT
+
 Patient Information
 
 Memantine Hydrochloride (me-MAN-teen HYE-droe-KLOR-ide)
@@ -32,8 +34,8 @@ Before you take memantine hydrochloride tablets, tell your doctor if you:
 - are pregnant or plan to become pregnant.
   It is not known if memantine hydrochloride will harm your unborn baby.
 - are breastfeeding or plan to breastfeed.
-  It is not known if memantine hydrochloride passes into your breast milk.
-  You and your doctor should decide if you will take memantine hydrochloride or breastfeed.
+  It is not known if memantine passes into your breast milk.
+  Talk to your doctor about the best way to feed your baby if you take memantine hydrochloride.
 
 Tell your doctor about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
 
@@ -80,11 +82,11 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store Memantine Hydrochloride Tablets?
 
-- Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
+- Store memantine hydrochloride tablets at room temperature between 59°F to 77°F (15°C to 30°C).
 
 What are the ingredients in Memantine Hydrochloride Tablets?
 
-Active ingredients: memantine hydrochloride
+Active ingredient: memantine hydrochloride
 
 Inactive ingredients: croscarmellose sodium, magnesium stearate, silicified microcrystalline cellulose and talc.
 In addition the following inactive ingredients are also present as components of the film coat: hypromellose, titanium dioxide, polyethylene glycol, FD&C Yellow No. 6 Aluminium Lake and FD&C Blue No. 2 Aluminium Lake (5 mg tablets), and hypromellose, titanium dioxide, polyethylene glycol and iron oxide black (10 mg tablets).
@@ -122,4 +124,4 @@ Goa 403 722
 
 INDIA
 
-May 2015 ID#: 239937
+Revised: January 2019 ID#: 258150

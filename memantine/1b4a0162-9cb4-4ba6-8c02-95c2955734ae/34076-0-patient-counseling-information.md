@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Patient Information and Instructions for Use).
+See FDA-approved patient labeling (Patient Information).
 
 To assure safe and effective use of memantine hydrochloride, the following information and instructions provided in the patient information section should be discussed with patients and caregivers.
 
@@ -27,4 +27,4 @@ Goa 403 722
 
 INDIA
 
-May 2015 ID#: 239936
+Revised: January 2019 ID#: 258151

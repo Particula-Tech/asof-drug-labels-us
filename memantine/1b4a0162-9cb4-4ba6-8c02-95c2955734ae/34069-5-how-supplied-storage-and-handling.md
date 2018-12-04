@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-5 mg Tablet:
+5 mg Tablets:
 
 Tan coloured, capsule shaped, biconvex, film-coated tablets, debossed with 'LU on one side and 'W01' on the other side.
 
@@ -8,7 +8,7 @@ Bottle of 60 NDC #68180-229-07
 
 10 x 10 Unit Dose NDC #68180-229-13
 
-10 mg Tablet:
+10 mg Tablets:
 
 Grey coloured, capsule shaped, biconvex, film-coated tablets, debossed with 'LU' on one side and 'W02' on the other side.
 
