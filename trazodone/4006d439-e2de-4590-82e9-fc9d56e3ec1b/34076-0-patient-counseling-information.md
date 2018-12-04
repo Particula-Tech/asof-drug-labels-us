@@ -1,51 +1,55 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved Medication Guide
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-## 17.1 Information for Patients
+Suicidal Thoughts and Behaviors
 
-Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with trazodone hydrochloride and should counsel them in its appropriate use.
+Advise patients and caregivers to look for the emergence of suicidality, especially early during treatment and when the dosage is adjusted up or down and instruct them to report such symptoms to the healthcare provider [see Box Warning and Warnings and Precautions (5.1)].
 
-Patients should be warned that:
+Dosage and Administration
 
-- There is a potential for increased risk of suicidal thoughts especially in children, teenagers and young adults.
-- The following symptoms should be reported to the physician: anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia, hypomania and mania.
-- They should inform their physician if they have a history of bipolar disorder, cardiac disease or myocardial infarction.
-- Serotonin syndrome could occur and symptoms may include changes in mental status (e.g., agitation, hallucinations, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, and hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, and diarrhea).
-- Trazodone hydrochloride has been associated with the occurrence of priapism.
-- There is a potential for hypotension, including orthostatic hypotension and syncope.
-- There is a potential risk of bleeding (including life-threatening hemorrhages) and bleeding related events (including ecchymosis, hematoma, epistaxis, and petechiae) with the concomitant use of trazodone hydrochloride and NSAIDs, aspirin, or other drugs that affect coagulation or bleeding.
-- Withdrawal symptoms including anxiety, agitation and sleep disturbances, have been reported with trazodone.
-  Clinical experience suggests that the dose should be gradually reduced.
-- Patients should be advised that taking trazodone hydrochloride tablets can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle-closure glaucoma.
-  Pre-existing glaucoma is almost always open-angle glaucoma because angle closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
-  Open-angle glaucoma is not a risk factor for angle-closure glaucoma.
-  Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
-  [see Warnings and Precautions (5.12)]
+Advise patients that trazodone hydrochloride tablets should be taken shortly after a meal or light snack.
+Advise patients regarding the importance of following dosage titration instructions [see Dosage and Administration (2)].
 
-Patients should be counseled that:
+Serotonin Syndrome
 
-- Trazodone may cause somnolence or sedation and may impair the mental and/or physical ability required for the performance of potentially hazardous tasks.
-  Patients should be cautioned about operating hazardous machinery, including automobiles until they are reasonably certain that the drug treatment does not affect them.
-- Trazodone may enhance the response to alcohol, barbiturates, and other CNS depressants.
-- Women who intend to become pregnant or who are breastfeeding should discuss with a physician whether they should continue to use trazodone, since use in pregnant and nursing women is not recommended.
+Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of trazodone hydrochloride tablets with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, St. John’s Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid).
+Patients should contact their health care provider or report to the emergency room if they experience signs or symptoms of serotonin syndrome [see Warnings and Precautions (5.2) and Drug Interactions (7)].
 
-Important Administration Instructions:
+Activation of Mania/Hypomania
 
-- Trazodone hydrochloride tablets should be swallowed whole or broken in half along the score line.
-- Trazodone hydrochloride tablets should be taken shortly after a meal or light snack.
+Advise patients and their caregivers to observe for signs of activation of mania/hypomania and instruct them to report such symptoms to the healthcare provider [see Warnings and Precautions (5.7)].
+
+Increased Risk of Bleeding
+
+Inform patients about the concomitant use of trazodone hydrochloride tablets with aspirin, NSAIDs, other antiplatelet drugs, warfarin, or other anticoagulants because the combined use of drugs that interfere with serotonin reuptake and these medications has been associated with an increased risk of bleeding.
+Advise them to inform their health care providers if they are taking or planning to take any prescription or over-the-counter medications that increase the risk of bleeding [see Warnings and Precautions (5.5)].
+
+Discontinuation Syndrome
+
+Advise patients not to abruptly discontinue trazodone hydrochloride tablets and to discuss any tapering regimen with their healthcare provider.
+Adverse reactions can occur when trazodone hydrochloride tablets is discontinued [see Warnings and Precautions (5.8)].
+
+Concomitant Medications
+
+Advise patients to inform their health care providers if they are taking, or plan to take any prescription or over-the-counter medications since there is a potential for interactions [see Drug Interactions (7.1)].
+
+Pregnancy
+
+Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during therapy with trazodone hydrochloride tablets.
+Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to trazodone hydrochloride tablets during pregnancy [see Use in Special Populations (8.1)].
 
 Manufactured In Croatia By:
 
-PLIVA HRVATSKA d.o.o.
+Pliva Hrvatska d.o.o.
 
 Zagreb, Croatia
 
 Manufactured For:
 
-TEVA PHARMACEUTICALS USA, INC.
+Teva Pharmaceuticals USA, Inc.
 
 North Wales, PA 19454
 
 Rev.
-F 3/2016
+G 11/2018

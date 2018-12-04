@@ -21,8 +21,8 @@ Directions for using the correct score when breaking the tablet please refer to 
 
 - For 150 mg, use the entire tablet.
 
-Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F) [See USP Controlled Room Temperature].
 
-Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure (as required).
+Dispense in a tight, light-resistant container as defined in the USP.
 
 KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
