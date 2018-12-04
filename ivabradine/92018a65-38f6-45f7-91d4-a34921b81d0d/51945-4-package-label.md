@@ -20,6 +20,12 @@ Rx Only
 
 180 Film-coated tablets
 
+Usual Dose: See package insert for dosage
+
+© 2015 Amgen Inc. All rights reserved.
+
+Patent: http://pat.amgen.com/corlanor/
+
 Manufactured for Amgen Inc.
 
 One Amgen Center Drive
@@ -49,6 +55,12 @@ Keep out of the sight and reach of children.
 Rx Only
 
 180 Film-coated tablets
+
+Usual Dose: See package insert for dosage
+
+© 2015 Amgen Inc. All rights reserved.
+
+Patent: http://pat.amgen.com/corlanor/
 
 Manufactured for Amgen Inc.
 
