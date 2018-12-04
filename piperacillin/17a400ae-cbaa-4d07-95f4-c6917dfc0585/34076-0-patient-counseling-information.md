@@ -12,6 +12,8 @@ If this occurs, patients should contact their physician as soon as possible.
 This product’s label may have been updated.
 For current package insert and further product information, please visit www.wgcriticalcare.com or call our medical information and safety department toll-free at 1-866-562-4708.
 
+CLINITEST®is a registered trademark of Siemens Healthcare Diagnostics Inc.
+
 Manufactured for:
 
 WG Critical Care, LLC
@@ -20,6 +22,4 @@ Paramus, NJ 07652
 
 Made in Italy
 
-Issued: January 2014
-
-866943/01
+866943/02

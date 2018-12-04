@@ -83,7 +83,7 @@ Renal—interstitial nephritis
 
 Skin and Appendages—erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis
 
-## 6.3 Additional Experience with piperacillin
+## 6.3 Additional Experience with Piperacillin
 
 The following adverse reaction has also been reported for piperacillin for injection:
 
