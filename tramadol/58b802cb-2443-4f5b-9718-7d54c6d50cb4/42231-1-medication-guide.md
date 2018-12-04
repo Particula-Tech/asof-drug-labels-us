@@ -1,6 +1,6 @@
 # Medication Guide
 
-| Medication GuideTramadol (TRAM-a-dol) Hydrochloride Tablets USP, CIV |
+| Tramadol (TRAM-a-dol) Hydrochloride Tablets USP, CIV |
 | --- |
 | Tramadol HCl tablets are:• A strong prescription pain medicine that contains an opioid (narcotic) that is used for the management pain in adults, when other pain treatments such as non-opioid pain medicines do not treat your pain well enough or you cannot tolerate them.• An opioid pain medicine that can put you at risk for overdose and death. Even if you take your dose correctly as prescribed you are at risk for opioid addiction, abuse, and misuse that can lead to death. |
 | Important information about tramadol HCl tablets:• Get emergency help right away if you take too many tramadol HCl tablets (overdose). When you first start taking tramadol HCl tablets, when your dose is changed, or if you take too much (overdose), serious or life-threatening breathing problems that can lead to death may occur.• Taking tramadol HCl tablets with other opioid medicines, benzodiazepines, alcohol, or other central nervous system depressants (including street drugs) can cause severe drowsiness, decreased awareness, breathing problems, coma, and death.• Never give anyone else your tramadol HCl tablets. They could die from taking it. Store tramadol HCl tablets away from children and in a safe place to prevent stealing or abuse. Selling or giving away tramadol HCl tablets is against the law. |

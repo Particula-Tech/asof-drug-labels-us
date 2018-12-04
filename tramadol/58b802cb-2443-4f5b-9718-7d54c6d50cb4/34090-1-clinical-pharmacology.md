@@ -37,7 +37,7 @@ Effects on the Cardiovascular System
 Tramadol produces peripheral vasodilation, which may result in orthostatic hypotension or syncope.
 Manifestations of peripheral vasodilation may include pruritus, flushing, red eyes, sweating and/or orthostatic hypotension.
 
-The effect of oral tramadol on the QTcF interval was evaluated in a double-blind, randomized, four-way crossover, placebo-and positive-(moxifloxacin) controlled study in 68 adult male and female healthy subjects.
+The effect of oral tramadol on the QTcF interval was evaluated in a double-blind, randomized, four-way crossover, placebo- and positive- (moxifloxacin) controlled study in 68 adult male and female healthy subjects.
 At a 600 mg/day dose (1.5-fold the maximum immediate-release daily dose), the study demonstrated no significant effect on the QTcF interval.
 
 Effects on the Endocrine System
@@ -157,7 +157,7 @@ The plasma clearance was 6.4 mL/min/kg in males and 5.7 mL/min/kg in females fol
 Following a single oral dose, and after adjusting for body weight, females had a 12% higher peak tramadol concentration and a 35% higher area under the concentration-time curve compared to males.
 The clinical significance of this difference is unknown.
 
-Poor / Extensive Metabolizers, CYP2D6
+Poor/Extensive Metabolizers, CYP2D6
 
 The formation of the active metabolite, M1, is mediated by CYP2D6, a polymorphic enzyme.
 Approximately 7% of the population has reduced activity of the CYP2D6 isoenzyme of cytochrome P450 metabolizing enzyme system.

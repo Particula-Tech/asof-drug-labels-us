@@ -1,9 +1,20 @@
-# WARNING: ADDICTION, ABUSE, AND MISUSE; LIFE-THREATENING RESPIRATORY DEPRESSION; ACCIDENTAL INGESTION; ULTRA-RAPID METABOLISM OF TRAMADOL AND OTHER RISK FACTORS FOR LIFE-THREATENING RESPIRATORY DEPRESSION IN CHILDREN; NEONATAL OPIOID WITHDRAWAL SYNDROME; INTERACTIONS WITH DRUGS AFFECTING CYTOCHROME P450 ISOENZYMES; and RISKS FROM CONCOMITANT USE WITH BENZODIAZEPINES OR OTHER CNS DEPRESSANTS
+# WARNING: ADDICTION, ABUSE, AND MISUSE; RISK EVALUATION AND MITIGATION STRATEGY (REMS); LIFE-THREATENING RESPIRATORY DEPRESSION; ACCIDENTAL INGESTION; ULTRA-RAPID METABOLISM OF TRAMADOL AND OTHER RISK FACTORS FOR LIFE-THREATENING RESPIRATORY DEPRESSION IN CHILDREN; NEONATAL OPIOID WITHDRAWAL SYNDROME; INTERACTIONS WITH DRUGS AFFECTING CYTOCHROME P450 ISOENZYMES; and RISKS FROM CONCOMITANT USE WITH BENZODIAZEPINES OR OTHER CNS DEPRESSANTS
 
 ADDICTION, ABUSE AND MISUSE
 
 Tramadol HCl exposes patients and other users to the risks of opioid addiction, abuse and misuse, which can lead to overdose and death.
 Assess each patient’s risk prior to prescribing tramadol HCl, and monitor all patients regularly for the development of these behaviors and conditions (see WARNINGS).
+
+OPIOID ANALGESIC RISK EVALUATION AND MITIGATION STRATEGY (REMS)
+
+To ensure that the benefits of opioid analgesics outweigh the risks of addiction, abuse, and misuse, the Food and Drug Administration (FDA) has required a REMS for these products (see WARNINGS).
+Under the requirements of the REMS, drug companies with approved opioid analgesic products must make REMS compliant education programs available to healthcare providers.
+Healthcare providers are strongly encouraged to
+
+- complete a REMS-compliant education program.
+- counsel patients and/or their caregivers, with every prescription, on safe use, serious risks, storage, and disposal of these products.
+- emphasize to patients and their caregivers the importance of reading the Medication Guide every time it is provided by their pharmacist.
+- consider other tools to improve patient, household, and community safety.
 
 LIFE-THREATENING RESPIRATORY DEPRESSION
 

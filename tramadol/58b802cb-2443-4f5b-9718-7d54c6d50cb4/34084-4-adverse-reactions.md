@@ -104,7 +104,7 @@ Laboratory Abnormalities: Creatinine increase, Elevated liver enzymes, Hemoglobi
 
 Sensory: Cataracts, Deafness, Tinnitus.
 
-## Postmarketing Experience
+## Post-marketing Experience
 
 Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs.
 

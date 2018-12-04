@@ -18,6 +18,21 @@ Consider these risks when prescribing or dispensing tramadol HCl.
 Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity and advising the patient on the proper disposal of unused drug (see PRECAUTIONS; Information for Patients).
 Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
 
+## Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
+
+To ensure that the benefits of opioid analgesics outweigh the risks of addiction, abuse, and misuse, the Food and Drug Administration (FDA) has required a Risk Evaluation and Mitigation Strategy (REMS) for these products.
+Under the requirements of the REMS, drug companies with approved opioid analgesic products must make REMS compliant education programs available to healthcare providers.
+Healthcare providers are strongly encouraged to do all of the following:
+
+- Complete a REMS-compliant education program offered by an accredited provider of continuing education (CE) or another education program that includes all the elements of the FDA Education Blueprint for Health Care Providers Involved in the Management or Support of Patients with Pain.
+- Discuss the safe use, serious risks, and proper storage and disposal of opioid analgesics with patients and/or their caregivers every time these medicines are prescribed.
+  The Patient Counseling Guide (PCG) can be obtained at this link: www.fda.gov/OpioidAnalgesicREMSPCG.
+- Emphasize to patients and their caregivers the importance of reading the Medication Guide that they will receive from their pharmacist every time an opioid analgesic is dispensed to them.
+- Consider using other tools to improve patient, household, and community safety, such as patient-prescriber agreements that reinforce patient-prescriber responsibilities.
+
+To obtain further information on the opioid analgesic REMS and for a list of accredited REMS CME/CE, call 1-800-503-0784, or log on to www.opioidanalgesicrems.com.
+The FDA Blueprint can be found at www.fda.gov/OpioidAnalgesicREMSBlueprint.
+
 ## Life-Threatening Respiratory Depression
 
 Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
@@ -37,7 +52,7 @@ Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-threatening R
 
 Life-threatening respiratory depression and death have occurred in children who received tramadol.
 Tramadol and codeine are subject to variability in metabolism based upon CYP2D6 genotype (described below), which can lead to increased exposure to an active metabolite.
-Based upon postmarketing reports with tramadol or with codeine, children younger than 12 years of age may be more susceptible to the respiratory depressant effects of tramadol.
+Based upon post-marketing reports with tramadol or with codeine, children younger than 12 years of age may be more susceptible to the respiratory depressant effects of tramadol.
 Furthermore, children with obstructive sleep apnea who are treated with opioids for post-tonsillectomy and/or adenoidectomy pain may be particularly sensitive to their respiratory depressant effect.
 Because of the risk of life-threatening respiratory depression and death:
 
@@ -45,14 +60,18 @@ Because of the risk of life-threatening respiratory depression and death:
 - Tramadol HCl is contraindicated for post-operative management in pediatric patients younger than 18 years of age following tonsillectomy and/or adenoidectomy (see CONTRAINDICATIONS).
 - Avoid the use of tramadol HCl in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of tramadol unless the benefits outweigh the risks.
   Risk factors include conditions associated with hypoventilation such as postoperative status, obstructive sleep apnea, obesity, severe pulmonary disease, neuromuscular disease, and concomitant use of other medications that cause respiratory depression.
-- As with adults, when prescribing opioids for adolescents, healthcare providers should choose the lowest effective dose for the shortest period of time and inform patients and caregivers about these risks and the signs of opioid overdose (see PRECAUTIONS/Pediatric Use, OVERDOSAGE).
+- As with adults, when prescribing opioids for adolescents, healthcare providers should choose the lowest effective dose for the shortest period of time and inform patients and caregivers about these risks and the signs of opioid overdose (see PRECAUTIONS; Pediatric Use, OVERDOSAGE).
 
-Nursing Mothers Tramadol is subject to the same polymorphic metabolism as codeine, with ultra-rapid metabolizers of CYP2D6 substrates being potentially exposed to life-threatening levels of the active metabolite O-desmethyltramadol (M1).
+Nursing Mothers
+
+Tramadol is subject to the same polymorphic metabolism as codeine, with ultra-rapid metabolizers of CYP2D6 substrates being potentially exposed to life-threatening levels of the active metabolite O-desmethyltramadol (M1).
 At least one death was reported in a nursing infant who was exposed to high levels of morphine in breast milk because the mother was an ultra-rapid metabolizer of codeine.
 A baby nursing from an ultra-rapid metabolizer mother taking tramadol HCl could potentially be exposed to high levels of M1, and experience life-threatening respiratory depression.
-For this reason, breastfeeding is not recommended during treatment with tramadol HCl (see PRECAUTIONS/Nursing Mothers).
+For this reason, breastfeeding is not recommended during treatment with tramadol HCl (see PRECAUTIONS; Nursing Mothers).
 
-CYP2D6 Genetic Variability: Ultra-rapid metabolizer Some individuals may be ultra-rapid metabolizers because of a specific CYP2D6 genotype (e.g., gene duplications denoted as *1/*1xN or *1/*2xN).
+CYP2D6 Genetic Variability: Ultra-rapid metabolizer
+
+Some individuals may be ultra-rapid metabolizers because of a specific CYP2D6 genotype (e.g., gene duplications denoted as *1/*1xN or *1/*2xN).
 The prevalence of this CYP2D6 phenotype varies widely and has been estimated at 1% to 10% for Whites (European, North American), 3% to 4% for Blacks (African Americans), 1% to 2% for East Asians (Chinese, Japanese, Korean), and may be greater than 10% in certain racial/ethnic groups (i.e., Oceanian, Northern African, Middle Eastern, Ashkenazi Jews, Puerto Rican).
 These individuals convert tramadol into its active metabolite, O-desmethyltramadol (M1), more rapidly and completely than other people.
 This rapid conversion results in higher than expected serum M1 levels.
@@ -126,7 +145,7 @@ Concomitant use of tramadol HCl increases the seizure risk in patients taking:
 - Selective serotonin re-uptake inhibitors (SSRI antidepressants or anorectics),
 - Tricyclic antidepressants (TCAs), and other tricyclic compounds (e.g., cyclobenzaprine, promethazine, etc.), or
 - Other opioids,
-- MAO inhibitors (see also WARNINGS, Serotonin Syndrome Risk),
+- MAO inhibitors (see also WARNINGS; Serotonin Syndrome Risk),
 - Neuroleptics, or
 - Other drugs that reduce the seizure threshold.
 
@@ -164,7 +183,7 @@ Alternatively, consider the use of non-opioid analgesics in these patients.
 ## Severe Hypotension
 
 Tramadol HCl may cause severe hypotension including orthostatic hypotension and syncope in ambulatory patients.
-There is increased risk in patients whose ability to maintain blood pressure has already been compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g. phenothiazines or general anesthetics) (see PRECAUTIONS; Drug Interactions).
+There is increased risk in patients whose ability to maintain blood pressure has already been compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g., phenothiazines or general anesthetics) (see PRECAUTIONS; Drug Interactions).
 Monitor these patients for signs of hypotension after initiating or titrating the dosage of tramadol HCl.
 In patients with circulatory shock, tramadol HCl may cause vasodilation that can further reduce cardiac output and blood pressure.
 Avoid the use of tramadol HCl in patients with circulatory shock.
@@ -197,7 +216,7 @@ Advise patients to seek immediate medical attention if they experience any sympt
 
 ## Withdrawal
 
-Avoid the use of mixed agonist/antagonist (e.g, pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including tramadol HCl.
+Avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including tramadol HCl.
 In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms.
 
 When discontinuing tramadol HCl in a physically-dependent patient, gradually taper the dosage (see DOSAGE AND ADMINISTRATION).
@@ -256,7 +275,7 @@ Instruct patients to inform their healthcare provider if they are taking, or pla
 MAOI Interaction
 
 Inform patients not to take tramadol HCl while using any drugs that inhibit monoamine oxidase.
-Patients should not start MAOIs while taking tramadol HCl (see PRECAUTIONS: Drug Interactions).
+Patients should not start MAOIs while taking tramadol HCl (see PRECAUTIONS; Drug Interactions).
 
 Seizures
 
@@ -298,7 +317,7 @@ Inform female patients of reproductive potential that tramadol HCl may cause fet
 
 Lactation
 
-Advise women that breastfeeding is not recommended during treatment with tramadol HCl (see PRECAUTIONS; Nursing Mother).
+Advise women that breastfeeding is not recommended during treatment with tramadol HCl (see PRECAUTIONS; Nursing Mothers).
 
 Infertility
 
@@ -322,7 +341,7 @@ Advise patients to throw the unused tramadol HCl in the household trash followin
 
 Maximum single-dose and 24-hour dose
 
-Advise patients not to exceed the single-dose and 24-hour dose limit and the time interval between doses, since exceeding these recommendations can result in respiratory depression, seizures and death (see DOSAGE AND ADMINISTRATION; WARNINGS).
+Advise patients not to exceed the single-dose and 24-hour dose limit and the time interval between doses, since exceeding these recommendations can result in respiratory depression, seizures and death (see DOSAGE AND ADMINISTRATION, WARNINGS).
 
 ## Drug Interactions
 

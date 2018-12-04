@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Tramadol HCl tablets, USP, 50 mg, are supplied as unscored, white, round film-coated tablets debossed “AN” over “627”.
+Tramadol HCl tablets, USP, 50 mg, are supplied as unscored, white, round film-coated tablets debossed “AN” over “627” on one side and plain on the other side.
 
 They are supplied as follows:
 
@@ -28,4 +28,4 @@ Amneal Pharmaceuticals LLC
 Glasgow, KY 42141
 
 Rev.
-11-2017-05
+10-2018-07
