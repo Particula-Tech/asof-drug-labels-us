@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA203629"
+  ],
+  "inn": "neostigmine",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "76045-383-13",
+    "76045-383-30"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "neostigmine methylsulfate",
+      "name": "Neostigmine Methylsulfate"
+    }
+  ],
+  "setid": "b0b509c3-8dc8-48cc-b7a8-16b93ad706c6",
+  "source": "dailymed"
+}
