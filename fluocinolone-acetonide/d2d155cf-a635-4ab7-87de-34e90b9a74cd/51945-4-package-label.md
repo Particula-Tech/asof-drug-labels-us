@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 120 g Tube Carton
 
-RX Only
+Rx Only
 
 NDC 43538-910-12
 
