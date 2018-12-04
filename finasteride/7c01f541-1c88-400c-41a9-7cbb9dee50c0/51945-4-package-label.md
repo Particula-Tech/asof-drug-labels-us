@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 5 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 5 mg Tablet Bottle Label
 
 NDC 0006-0072-31
 
