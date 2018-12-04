@@ -1,0 +1,29 @@
+{
+  "application_numbers": [
+    "NDA021292"
+  ],
+  "inn": "levothyroxine",
+  "labeler": "Provell Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "72305-025-30",
+    "72305-050-30",
+    "72305-075-30",
+    "72305-088-30",
+    "72305-100-30",
+    "72305-112-30",
+    "72305-125-30",
+    "72305-137-30",
+    "72305-150-30",
+    "72305-175-30",
+    "72305-200-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "levothyroxine sodium",
+      "name": "EUTHYROX"
+    }
+  ],
+  "setid": "bc3c6830-ba68-4ba3-9896-a12d0ad0b275",
+  "source": "dailymed"
+}
