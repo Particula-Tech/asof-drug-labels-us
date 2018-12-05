@@ -43,4 +43,4 @@ Concomitant Use of Drugs with Cholinergic Action
 
 Inform patients or caregivers that while wearing rivastigmine transdermal system, patients should not be taking rivastigmine tartrate capsules or rivastigmine tartrate oral solution or other drugs with cholinergic effects.
 
-T2015-34 February 2015
+T2016-99 November 2016

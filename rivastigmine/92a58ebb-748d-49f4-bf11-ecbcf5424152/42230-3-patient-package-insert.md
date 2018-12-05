@@ -114,7 +114,7 @@ What should I avoid while using rivastigmine transdermal system?
   In case of accidental contact with your eyes or if your eyes become red after handling the patch, rinse immediately with plenty of water and seek medical advice if symptoms do not resolve.
 - •Rivastigmine transdermal system can cause drowsiness, dizziness, weakness, or fainting.
   Do not drive, operate heavy machinery, or do other dangerous activities until you know how rivastigmine transdermal system affects you.
-- •Avoid exposure to heat sources such as excessive sunlight, saunas, or sun-rooms for long periods of time.
+- •Avoid exposure to heat sources such as excessive sunlight, saunas, or sunrooms for long periods of time.
 
 What are the possible side effects of rivastigmine transdermal system?
 
@@ -186,9 +186,9 @@ What are the ingredients of rivastigmine transdermal system?
 
 Active ingredient: rivastigmine Excipients include: acrylic copolymer, poly (butylmethacrylate, methylmethacrylate), silicone adhesive applied to a flexible polymer backing film, silicone oil, and vitamin E
 
-T2015-34/T2015-35
+T2016-99/T2016-100
 
-February 2015/February 2015
+November 2016/November 2016
 
 ## Instructions for Use
 
@@ -292,6 +292,6 @@ This Patient Information and Instructions for Use have been approved by the U.S.
 
 Distributed by: Sandoz Inc. Princeton, NJ 08540
 
-T2015-34/T2015-35/T2015-36 February 2015/February 2015/February 2015
+T2016-99/T2016-100/T2015-36 November 2016/November 2016/February 2015
 
 0003862 USG

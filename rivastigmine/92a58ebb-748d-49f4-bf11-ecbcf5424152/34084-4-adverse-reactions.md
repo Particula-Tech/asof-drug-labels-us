@@ -30,12 +30,12 @@ The most common adverse reactions in the rivastigmine transdermal system-treated
 The proportions of patients who discontinued treatment due to nausea were 0.7%, 1.7%, and 1.3% in the rivastigmine transdermal system 9.5 mg/24 hours, rivastigmine tartrate capsules 6 mg twice daily, and placebo groups, respectively.
 The proportions of patients who discontinued treatment due to vomiting were 0%, 2.0%, and 0.3% in the rivastigmine transdermal system 9.5 mg/24 hours, rivastigmine tartrate capsules 6 mg twice daily, and placebo groups, respectively.
 
-Adverse Reactions Observed at an Incidence of ≥2%
+Adverse Reactions Observed at an Incidence of Greater Than or Equal to 2%
 
-Table 1 lists adverse reactions seen at an incidence of ≥2% in either rivastigmine transdermal system-treated group in Study 1 and for which the rate of occurrence was greater for patients treated with that dose of rivastigmine transdermal system than for those treated with placebo.
+Table 1 lists adverse reactions seen at an incidence of greater tha or equal to 2% in either rivastigmine transdermal system-treated group in Study 1 and for which the rate of occurrence was greater for patients treated with that dose of rivastigmine transdermal system than for those treated with placebo.
 The unapproved 17.4 mg/24 hours rivastigmine transdermal system arm is included to demonstrate the increased rates of gastrointestinal adverse reactions over those seen with the 9.5 mg/24 hours rivastigmine transdermal system.
 
-Table 1: Proportion of Adverse Reactions Observed with a Frequency of ≥2% and Occurring at a Rate Greater Than Placebo in Study 1
+Table 1: Proportion of Adverse Reactions Observed with a Frequency of Greater Than or Equal to 2% and Occurring at a Rate Greater Than Placebo in Study 1
 
 |  | Rivastigmine Transdermal System 9.5 mg/24 hours | Rivastigmine Transdermal System 17.4 mg/24 hours | Rivastigmine Tartrate Capsule 6 mg twice daily | Placebo |
 | --- | --- | --- | --- | --- |
@@ -69,7 +69,7 @@ It is not clear how much of the weight loss was associated with anorexia, nausea
 
 Most Common Adverse Reactions
 
-In Study 2 [see Clinical Studies (14)] of the commonly observed adverse reactions (≥3% in any treatment group) the most frequent event in the rivastigmine transdermal system 13.3 mg/24 hours group was nausea, followed by vomiting, fall, weight decreased, application site erythema, decreased appetite, diarrhea and urinary tract infection (Table 3).
+In Study 2 [see Clinical Studies (14)] of the commonly observed adverse reactions (greater than or equal to3% in any treatment group) the most frequent event in the rivastigmine transdermal system 13.3 mg/24 hours group was nausea, followed by vomiting, fall, weight decreased, application site erythema, decreased appetite, diarrhea and urinary tract infection (Table 3).
 The percentage of patients with these events was higher in the rivastigmine transdermal system 13.3 mg/24 hours group than in the rivastigmine transdermal system 9.5 mg/24 hours group.
 Patients with nausea, vomiting, diarrhea and decreased appetite experienced these reactions more often during the first 4 weeks of the double-blind treatment phase.
 These reactions decreased over time in each treatment group.
@@ -79,7 +79,7 @@ Discontinuation Rates
 
 Table 2 displays the most common adverse reactions leading to discontinuation during the 48-week, double-blind treatment phase in Study 2.
 
-Table 2: Proportion of Most Common Adverse Reactions (>1% at Any Dose) Leading to Discontinuation During 48-week Double-Blind Treatment Phase in Study 2
+Table 2: Proportion of Most Common Adverse Reactions (Greater Than 1% at Any Dose) Leading to Discontinuation During 48-week Double-Blind Treatment Phase in Study 2
 
 |  | Rivastigmine Transdermal System 13.3 mg/24 hours | Rivastigmine Transdermal System 9.5 mg/24 hours | Total |
 | --- | --- | --- | --- |
@@ -89,7 +89,7 @@ Table 2: Proportion of Most Common Adverse Reactions (>1% at Any Dose) Leading t
 | Application site pruritus | 1.1 | 1.1 | 1.1 |
 | Aggression | 0.4 | 1.1 | 0.7 |
 
-Most Common Adverse Reactions ≥3%
+Most Common Adverse Reactions Greater Than or Equal to 3%
 
 Other adverse reactions of interest which occurred less frequently, but which were observed in a markedly higher percentage of patients in the rivastigmine transdermal system 13.3 mg/24 hours group than in the rivastigmine transdermal system 9.5 mg/24 hours group in Study 2, included dizziness and upper abdominal pain.
 The percentage of patients with these reactions decreased over time in each treatment group (Table 3).
@@ -141,9 +141,9 @@ Discontinuation Rates
 In Study 3 [see Clinical Studies (14)], the proportions of patients in the rivastigmine transdermal system 13.3 mg/24 hours (n=355) and rivastigmine transdermal system 4.6 mg/24 hours (n=359), who discontinued treatment due to adverse reactions were 21% and 14%, respectively.
 
 The most frequent adverse reaction leading to discontinuation in the 13.3 mg/24 hours treatment group versus the 4.6 mg/24 hours treatment group was agitation (2.8% versus 2.2%), followed by vomiting (2.5% and 1.1%), nausea (1.7% and 1.1%), decreased appetite (1.7% and 0%), aggression (1.1% and 0.3%), fall (1.1% and 0.3%) and syncope (1.1% and 0.3%).
-Otherwise, all AEs leading to discontinuation were reported in <1% of patients.
+Otherwise, all AEs leading to discontinuation were reported in less than 1% of patients.
 
-Most Commonly Observed Adverse Reactions ≥5%
+Most Commonly Observed Adverse Reactions Greater Than or Equal to 5%
 
 Other adverse reactions of interest which were observed in a higher percentage of patients in the rivastigmine transdermal system 13.3 mg/24 hours group than in the rivastigmine transdermal system 4.6 mg/24 hours group, included application site erythema, fall, insomnia, vomiting, diarrhea, weight decreased, and nausea (Table 4).
 Overall, the majority of patients in this study experienced adverse reactions that were mild (30.7%) or moderate (32.1%) in severity.
@@ -174,11 +174,11 @@ Table 4: Proportion of Adverse Reactions in the 24-week Double-Blind (DB) Treatm
 
 Application Site Reactions
 
-Application site skin reactions leading to discontinuation were observed in ≤2.3% of rivastigmine transdermal system patients.
+Application site skin reactions leading to discontinuation were observed in less than or equal to2.3% of rivastigmine transdermal system patients.
 This number was 4.9% and 8.4% in the Chinese population and Japanese population, respectively.
 
 Cases of skin irritation were captured separately on an investigator-rated skin irritation scale.
-Skin irritation, when observed, was mostly slight or mild in severity and was rated as severe in ≤2.2% of rivastigmine transdermal system patients in a double-blind controlled study and in ≤3.7% of rivastigmine transdermal system patients in a double-blind controlled study in Japanese patients.
+Skin irritation, when observed, was mostly slight or mild in severity and was rated as severe in less than or equal to 2.2% of rivastigmine transdermal system patients in a double-blind controlled study and in less than or equal to 3.7% of rivastigmine transdermal system patients in a double-blind controlled study in Japanese patients.
 
 Parkinson’s Disease Dementia
 
@@ -191,7 +191,7 @@ Treatment with rivastigmine transdermal system was initiated at 4.6 mg/24 hours 
 Rivastigmine tartrate capsule (target maintenance dose of 12 mg/day) served as the active comparator and was administered to 294 patients.
 Adverse reactions are presented in Table 5.
 
-Table 5: Proportion of Adverse Reactions Reported at a Rate ≥2% During the Initial 24-Week Period in Study 4
+Table 5: Proportion of Adverse Reactions Reported at a Rate Greater Than or Equal to 2% During the Initial 24-Week Period in Study 4
 
 | Adverse drug reactions | Rivastigmine Transdermal System |
 | --- | --- |
@@ -228,7 +228,17 @@ In patients with dementia associated with Parkinson’s disease the following ad
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post approval use of rivastigmine.
+The following adverse reactions have been identified during post approval use of rivastigmine tartrate capsules, rivastigmine tartrate oral solution, or rivastigmine transdermal system.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- Hypertension, application site hypersensitivity, urticaria, blister, allergic dermatitis, seizure, Parkinson’s disease (worsening), tachycardia, abnormal liver function tests, disseminated allergic dermatitis, and tremor.
+Cardiac Disorders: Tachycardia.
+
+Hepatobiliary Disorders: Abnormal liver function tests, hepatitis.
+
+Nervous System Disorders: Parkinson’s disease (worsening), seizure, tremor.
+
+Psychiatric Disorders:nightmares.
+
+Skin and Subcutaneous Tissue Disorders: Allergic dermatitis, application site hypersensitivity, blister, disseminated allergic dermatitis, Stevens-Johnson syndrome, urticarial.
+
+Vascular Disorders: Hypertension.

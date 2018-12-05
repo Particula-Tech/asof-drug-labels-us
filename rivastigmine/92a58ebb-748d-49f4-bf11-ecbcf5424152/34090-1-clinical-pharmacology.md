@@ -59,7 +59,7 @@ Elimination
 
 Renal excretion of the metabolites is the major route of elimination.
 Unchanged rivastigmine is found in trace amounts in the urine.
-Following administration of 14C-rivastigmine, renal elimination was rapid and essentially complete (>90%) within 24 hours.
+Following administration of 14C-rivastigmine, renal elimination was rapid and essentially complete (greater than 90%) within 24 hours.
 Less than 1% of the administered dose is excreted in the feces.
 The apparent elimination half-life in plasma is approximately 3 hours after patch removal.
 Renal clearance was approximately 2.1 to 2.8 L/hr.
@@ -89,8 +89,7 @@ Hepatic Impairment
 
 No pharmacokinetic study was conducted with rivastigmine transdermal system in subjects with hepatic impairment.
 Following a single 3-mg dose, mean oral clearance of rivastigmine was 60% lower in hepatically impaired patients (n=10, biopsy proven) than in healthy subjects (n=10).
-After multiple 6-mg twice a day oral dosing, the mean clearance of rivastigmine was 65% lower in mild (n=7, Child-Pugh score 5 to 6) and moderate (n=3, Child-Pugh score 7 to 9) hepatically impaired patients (biopsy proven, liver cirrhosis) than in healthy subjects (n=10).
-[see Dosage and Administration (2.2), Specific Population (8.6)].
+After multiple 6-mg twice a day oral dosing, the mean clearance of rivastigmine was 65% lower in mild (n=7, Child-Pugh score 5 to 6) and moderate (n=3, Child-Pugh score 7 to 9) hepatically impaired patients (biopsy proven, liver cirrhosis) than in healthy subjects (n=10) [see Dosage and Administration (2.2), Use in Specific Populations (8.6)].
 
 Smoking
 

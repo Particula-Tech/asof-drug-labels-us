@@ -7,7 +7,7 @@ Mild to Moderate Alzheimer’s Disease
 
 International 24-Week Study of Rivastigmine Transdermal System in Dementia of the Alzheimer’s Type (Study 1)
 
-This study was a randomized double-blind, double dummy clinical investigation in patients with Alzheimer’s disease [diagnosed by NINCDS-ADRDA and DSM-IV criteria, Mini-Mental Status Examination (MMSE) score ≥10 and ≤20] (Study 1).
+This study was a randomized double-blind, double dummy clinical investigation in patients with Alzheimer’s disease [diagnosed by NINCDS-ADRDA and DSM-IV criteria, Mini-Mental Status Examination (MMSE) score greater than or equal to 10 and less than or equal to 20] (Study 1).
 The mean age of patients participating in this trial was 74 years with a range of 50 to 90 years.
 Approximately 67% of patients were women, and 33% were men.
 The racial distribution was Caucasian 75%, Black 1%, Asian 9%, and other races 15%.
@@ -20,7 +20,7 @@ The ADAS-Cog scoring range is from 0 to 70, with higher scores indicating greate
 Elderly normal adults may score as low as 0 or 1, but it is not unusual for non-demented adults to score slightly higher.
 
 The ability of the rivastigmine transdermal system to produce an overall clinical effect was assessed using the Alzheimer’s Disease Cooperative Study-Clinical Global Impression of Change (ADCS-CGIC).
-The ADCS-CGIC is a more standardized form of the Clinician's Interview-Based Impression Of Change-Plus (CIBIC-Plus) and is also scored as a 7-point categorical rating; scores range from 1, indicating “markedly improved,” to 4, indicating “no change,” to 7, indicating “marked worsening.”
+The ADCS-CGIC is a more standardized form of the Clinician's Interview-Based Impression of Change-Plus (CIBIC-Plus) and is also scored as a 7-point categorical rating; scores range from 1, indicating “markedly improved,” to 4, indicating “no change,” to 7, indicating “marked worsening.”
 
 In Study 1, 1195 patients were randomized to 1 of the following 4 treatments: rivastigmine transdermal system 9.5 mg/24 hours, rivastigmine transdermal system 17.4 mg/24 hours, rivastigmine tartrate capsules in a dose of 6 mg twice daily, or placebo.
 This 24-week study was divided into a 16-week titration phase followed by an 8-week maintenance phase.
@@ -31,28 +31,24 @@ At 24 weeks, the mean differences in the ADAS-Cog change scores for the rivastig
 The difference between each of these groups and placebo was statistically significant.
 Although a slight improvement was observed with the 17.4 mg/24 hours patch compared to the 9.5 mg/24 hours patch on this outcome measure, no meaningful difference between the two was seen on the global evaluation (see Figure 4).
 
-Figure 3: Time Course of the Change from Baseline in ADAS-Cog Score for Patients Observed at Each Time Point in Study 1
-
 Figure 4 presents the distribution of patients’ scores on the ADCS-CGIC for all 4 treatment groups.
 At 24 weeks, the mean difference in the ADCS-CGIC scores for the comparison of patients in each of the rivastigmine-treated groups with the patients on placebo was 0.2 units.
 The difference between each of these groups and placebo was statistically significant.
 
-Figure 4: Distribution of ADCS-CGIC Scores for Patients Completing Study 1
-
 International 48-Week Study of Rivastigmine Transdermal System in Dementia of the Alzheimer’s Type (Study 2)
 
-This study was a randomized double-blind clinical investigation in patients with Alzheimer’s disease [diagnosed by NINCDS-ADRDA and DSM-IV criteria, Mini-Mental State Examination (MMSE) score ≥10 and ≤24] (Study 2).
+This study was a randomized double-blind clinical investigation in patients with Alzheimer’s disease [diagnosed by NINCDS-ADRDA and DSM-IV criteria, Mini-Mental State Examination (MMSE) score greater than or equal to 10 and less than or equal to 24] (Study 2).
 The mean age of patients participating in this trial was 76 years with a range of 50 to 85 years.
 Approximately 65% of patients were women and 35% were men.
 The racial distribution was approximately Caucasian 97%, Black 2%, Asian 0.5%, and other races 1%.
 Approximately 27% of the patients were taking memantine throughout the entire duration of the study.
 
 Alzheimer’s disease patients who received 24 to 48 weeks open-label treatment with rivastigmine transdermal system 9.5 mg/24 hours and who demonstrated functional and cognitive decline were randomized into treatment with either rivastigmine transdermal system 9.5 mg/24 hours or rivastigmine transdermal system 13.3 mg/24 hours in a 48-week, double-blind treatment phase.
-Functional decline was assessed by the investigator and cognitive decline was defined as a decrease in the MMSE score of ≥2 points from the previous visit or a decrease of ≥3 points from baseline.
+Functional decline was assessed by the investigator and cognitive decline was defined as a decrease in the MMSE score of greater than or equal to 2 points from the previous visit or a decrease of greater than or equal to 3 points from baseline.
 
 Study 2 was designed to compare the efficacy of rivastigmine transdermal system 13.3 mg/ 24 hours versus that of rivastigmine transdermal system 9.5 mg/24 hours during the 48-week, double-blind treatment phase.
 
-The ability of the rivastigmine transdermal system 13.3 mg/24 hours to improve cognitive performance over that provided by the rivastigmine transdermal system 9.5 mg/24 hours was assessed by the cognitive subscale of the Alzheimer’s Disease Assessment Scale (ADAS-Cog) [see Clinical Studies, International 24-Week Study (14)].
+The ability of the rivastigmine transdermal system 13.3 mg/24 hours to improve cognitive performance over that provided by the rivastigmine transdermal system 9.5 mg/24 hours was assessed by the cognitive subscale of the Alzheimer’s Disease Assessment Scale (ADAS-Cog) [see Clinical Studies (14)].
 
 The ability of the rivastigmine transdermal system 13.3 mg/24 hours to improve overall function versus that provided by rivastigmine transdermal system 9.5 mg/24 hours was assessed by the instrumental subscale of the Alzheimer’s Disease Cooperative Study Activities of Daily Living (ADCS-IADL).
 The ADCS-IADL subscale is composed of items 7 to 23 of the caregiver-based ADCS-ADL scale.
@@ -75,8 +71,8 @@ Severe Alzheimer’s Disease
 
 24-Week United States Study with Rivastigmine Transdermal System in Severe Alzheimer’s Disease (Study 3)
 
-This was a 24-week randomized double-blind, clinical investigation in patients with severe Alzheimer’s disease [diagnosed by NINCDS-ADRDA and DSM-IV criteria, Mini-Mental State Examination (MMSE) score ≥3 and ≤12].
-The mean age of patients participating in this trial was 78 years with a range of 51 to 96 years with 62% aged >75 years.
+This was a 24-week randomized double-blind, clinical investigation in patients with severe Alzheimer’s disease [diagnosed by NINCDS-ADRDA and DSM-IV criteria, Mini-Mental State Examination (MMSE) score greater than or equal to 3 and less than or equal to 12].
+The mean age of patients participating in this trial was 78 years with a range of 51 to 96 years with 62% aged greater than 75 years.
 Approximately 65% of patients were women and 35% were men.
 The racial distribution was approximately Caucasian 87%, Black 7%, Asian 1%, and other races 5%.
 Patients on a stable dose of memantine were permitted to enter the study.
@@ -97,11 +93,11 @@ This 24-week study was divided into an 8-week titration phase followed by a 16-w
 In the active treatment arms of this study, temporary dose adjustments below the target dose were permitted during the titration and maintenance phase in the event of poor tolerability.
 
 Figure 7 illustrates the time course for the mean change from baseline SIB scores for each treatment group over the course of the 24-week treatment phase of the study.
-Decline in the mean SIB score from the baseline for the Modified Full Analysis Set (MFAS)-Last Observation Carried Forward (LOCF) analysis was less at each timepoint in the 13.3 mg/24 hour rivastigmine transdermal system treatment group than in the 4.6 mg/24 hours rivastigmine transdermal system treatment group.
+Decline in the mean SIB score from the baseline for the Modified Full Analysis Set (MFAS)-Last Observation Carried Forward (LOCF) analysis was less at each timepoint in the 13.3 mg/24 hours rivastigmine transdermal system treatment group than in the 4.6 mg/24 hours rivastigmine transdermal system treatment group.
 The 13.3 mg/24 hours dose was statistically significantly superior to the 4.6 mg/24 hours dose at weeks 16 and 24 (primary endpoint).
 
 Figure 8 illustrates the time course for the mean change from baseline in ADCS-ADL-SIV scores for each treatment group over the course of the 24-week treatment phase of the study.
-Decline in the mean ADCS-ADL-SIV score from baseline for the MFAS-LOCF analysis was less at each timepoint in the 13.3 mg/24 hour rivastigmine transdermal system treatment group than in the 4.6 mg/24 hours rivastigmine transdermal system treatment group.
+Decline in the mean ADCS-ADL-SIV score from baseline for the MFAS-LOCF analysis was less at each timepoint in the 13.3 mg/24 hours rivastigmine transdermal system treatment group than in the 4.6 mg/24 hours rivastigmine transdermal system treatment group.
 The 13.3 mg/24 hours dose was statistically significantly superior to the 4.6 mg/24 hours dose at weeks 16 and 24 (primary endpoint).
 
 Figure 7: Time Course of the Change from Baseline in SIB Score for Patients Observed at Each Time Point (Modified Full Analysis Set-LOCF)
