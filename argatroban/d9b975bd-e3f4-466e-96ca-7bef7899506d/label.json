@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA209552"
+  ],
+  "inn": "argatroban",
+  "labeler": "AuroMedics Pharma LLC",
+  "package_ndcs": [
+    "55150-241-01",
+    "55150-241-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "argatroban",
+      "name": "Argatroban"
+    }
+  ],
+  "setid": "d9b975bd-e3f4-466e-96ca-7bef7899506d",
+  "source": "dailymed"
+}
