@@ -4,6 +4,8 @@ DUPLEX is a registered trademark of B. Braun Medical Inc. ATCC is a registered t
 
 Manufactured for: B. Braun Medical Inc. Bethlehem, PA 18018-3524 USA 1-800-227-2862
 
-Manufactured by: Facta Farmaceutici SpA Made in Italy with ingredients from Italy and Austria
+Manufactured by: ACS Dobfar S.p.A.
+Prepared in Italy.
+API from Italy and Austria.
 
-Y36-002-945 LD-244-2
+Y36-002-991 LD-244-3

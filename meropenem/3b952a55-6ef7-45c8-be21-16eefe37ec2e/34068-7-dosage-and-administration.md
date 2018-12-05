@@ -15,7 +15,7 @@ Dosage should be reduced in patients with creatinine clearance of 50 mL/min or l
 
 Dosage should be reduced in renal failure if less than a full dose (1 gram or 500 mg) is required and an alternative formulation should be used to avoid risk of overdose.
 
-When only serum creatinine is available, the following formula (Cockcroft and Gault equation)6 may be used to estimate creatinine clearance.
+When only serum creatinine is available, the following formula (Cockcroft and Gault equation)2 may be used to estimate creatinine clearance.
 
 Males: Creatinine Clearance (mL/min) =
 
@@ -72,6 +72,7 @@ Important Administration Instructions
 This reconstituted solution is for intravenous use only.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration.
+
 Use only if solution is clear and container and seals are intact.
 
 DUPLEX® Container Storage

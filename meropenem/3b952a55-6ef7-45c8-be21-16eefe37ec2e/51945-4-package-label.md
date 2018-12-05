@@ -49,17 +49,18 @@ REF 3183-11
 
 Rx only
 
-E113USMERO500
+E113USMERO501
 
 Manufactured for: B. Braun Medical Inc.
 
-Made in Italy with ingredients from Italy and Austria
+Prepared in Italy.
+API from Italy and Austria.
 
-Y37-002-488 LD-440-2
-
-LOT
+Y37-002-557 LD-440-3
 
 EXP
+
+LOT
 
 # PRINCIPAL DISPLAY PANEL - 1 g
 
@@ -112,17 +113,18 @@ REF 3185-11
 
 Rx only
 
-E113USMERO100
+E113USMERO101
 
 Manufactured for: B. Braun Medical Inc.
 
-Made in Italy with ingredients from Italy and Austria
+Prepared in Italy.
+API from Italy and Austria.
 
-Y37-002-489 LD-439-2
-
-LOT
+Y37-002-558 LD-439-3
 
 EXP
+
+LOT
 
 PEEL HERE
 
