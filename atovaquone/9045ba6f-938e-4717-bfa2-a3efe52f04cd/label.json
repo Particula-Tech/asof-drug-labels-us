@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA209685"
+  ],
+  "inn": "atovaquone",
+  "labeler": "Glenmark Pharmaceuticals Inc., USA",
+  "package_ndcs": [
+    "68462-421-21",
+    "68462-421-69"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "atovaquone",
+      "name": "atovaquone"
+    }
+  ],
+  "setid": "9045ba6f-938e-4717-bfa2-a3efe52f04cd",
+  "source": "dailymed"
+}
