@@ -118,7 +118,7 @@ Solu-Medrol® (methylprednisolone sodium succinate for injection, USP)
 
 Preservative-Free Rx only
 
-# PRINCIPAL DISPLAY PANEL - 40 mg Vial Carton - Preservative-Free
+# PRINCIPAL DISPLAY PANEL - 40 mg Vial Carton
 
 NDC 0009-0039-28 Contains 25 of NDC 0009-0039-30
 
@@ -188,7 +188,7 @@ Solu-Medrol® (methylprednisolone sodium succinate for injection, USP)
 
 Preservative-Free Rx only
 
-# PRINCIPAL DISPLAY PANEL - 125 mg Vial Carton - Preservative-Free
+# PRINCIPAL DISPLAY PANEL - 125 mg Vial Carton
 
 NDC 0009-0047-22 Contains 25 of NDC 0009-0047-25
 
