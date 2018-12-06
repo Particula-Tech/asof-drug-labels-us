@@ -111,11 +111,11 @@ At 60 months, there were 26 deaths in dasatinib-treated patients (10.1%) and 26 
 
 Table 7: Adverse Reactions Reported in ≥10% of Adult Patients with Chronic Phase CML Resistant or Intolerant to Prior Imatinib Therapy (minimum of 84 months follow-up)
 
-| Percent (%) of Patients |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | 100 mg Once Daily |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Chronic (n=165) |  |  |  |  |  |  |  |  |  |  |  |
 | Adverse Reaction | All Grades | Grade 3/4 |  |  |  |  |  |  |  |  |  |  |
+| Percent (%) of Patients |  |  |  |  |  |  |  |  |  |  |  |  |
 | Fluid retention | 48 | 7 |  |  |  |  |  |  |  |  |  |  |
 | Superficial localized edema | 22 | 0 |  |  |  |  |  |  |  |  |  |  |
 | Pleural effusion | 28 | 5 |  |  |  |  |  |  |  |  |  |  |
@@ -161,11 +161,11 @@ Table 8: Selected Adverse Reactions Reported in Adult Dose Optimization Trial (I
 
 Table 9: Adverse Reactions Reported in ≥10% of Adult Patients with Advanced Phase CML Resistant or Intolerant to Prior Imatinib Therapy
 
-| Percent (%) of Patients |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | 140 mg Once Daily |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Accelerated (n=157) |  | Myeloid Blast (n=74) |  | Lymphoid Blast (n=33) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Adverse Reaction | All Grades | Grade 3/4 | All Grades | Grade 3/4 | All Grades | Grade 3/4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Percent (%) of Patients |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Fluid retention | 35 | 8 | 34 | 7 | 21 | 6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Superficial localized edema | 18 | 1 | 14 | 0 | 3 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Pleural effusion | 21 | 7 | 20 | 7 | 21 | 6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -243,11 +243,11 @@ Laboratory abnormalities reported in patients with CML resistant or intolerant t
 
 Table 12: CTC Grade 3/4 Laboratory Abnormalities in Clinical Studies of CML in Adults: Resistance or Intolerance to Prior Imatinib Therapy
 
-|  | Percent (%) of Patients |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Chronic Phase CML 100 mg Once Daily | Advanced Phase CML 140 mg Once Daily |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  | Accelerated Phase | Myeloid Blast Phase | Lymphoid Blast Phase |  |  |  |
 |  | (n=165) | (n=157) | (n=74) | (n=33) |  |  |  |
+|  | Percent (%) of Patients |  |  |  |  |  |  |
 | Hematology Parameters* |  |  |  |  |  |  |  |
 | Neutropenia | 36 | 58 | 77 | 79 |  |  |  |
 | Thrombocytopenia | 24 | 63 | 78 | 85 |  |  |  |
@@ -338,3 +338,5 @@ Respiratory, thoracic, and mediastinal disorders: interstitial lung disease
 Skin and subcutaneous tissue disorders: Stevens-Johnson syndrome
 
 Renal and urinary disorders: nephrotic syndrome
+
+Blood and lymphatic system disorders: thrombotic microangiopathy
