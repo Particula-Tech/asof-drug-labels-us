@@ -29,6 +29,8 @@ Because studies are conducted at different times, with different samples of pati
 
 The estimated probability of achieving an initial headache response within 2 hours following treatment in pooled Studies 1, 2, 3, and 4 is depicted in Figure 1.
 
+Figure 1: Estimated Probability of Achieving an Initial Headache Response by 2 Hours in Pooled Studies 1, 2, 3, and 4††
+
 ††Figure 1 shows the Kaplan-Meier plot of the probability over time of obtaining headache response (no or mild pain) following treatment with rizatriptan benzoate or placebo.
 The averages displayed are based on pooled data from 4 placebo-controlled, outpatient trials providing evidence of efficacy (Studies 1, 2, 3, and 4).
 Patients taking additional treatment or not achieving headache response prior to 2 hours were censored at 2 hours.
@@ -37,6 +39,8 @@ For patients with migraine-associated photophobia, phonophobia, and nausea at ba
 
 Two to 24 hours following the initial dose of study treatment, patients were allowed to use additional treatment for pain response in the form of a second dose of study treatment or other medication.
 The estimated probability of patients taking a second dose or other medication for migraine over the 24 hours following the initial dose of study treatment is summarized in Figure 2.
+
+Figure 2: Estimated Probability of Patients Taking a Second Dose of Rizatriptan Benzoate Tablets or Other Medication for Migraines Over the 24 Hours Following the Initial Dose of Study Treatment in Pooled Studies 1, 2, 3, and 4†††
 
 ††† This Kaplan-Meier plot is based on data obtained in 4 placebo-controlled outpatient clinical trials (Studies 1, 2, 3, and 4).
 Patients not using additional treatments were censored at 24 hours.
