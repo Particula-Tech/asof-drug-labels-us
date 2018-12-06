@@ -12,7 +12,7 @@ For IM or SC Use
 
 1 mL Multiple Dose Vial
 
-Protect from Light.
+PROTECT FROM LIGHT.
 
 Rx only
 
@@ -20,9 +20,9 @@ PACKAGE LABEL - PRINCIPAL DISPLAY - Cyanocobalamin 1 mL Multiple Dose Vial Tray 
 
 NDC 63323-044-44
 
-PRX4401 1,000 mcg/mL
+PRX4401
 
-CYANOCOBALAMIN INJECTION, USP
+CYANOCOBALAMIN INJECTION, USP 1, 000 mcg/mL
 
 For IM or SC Use
 
