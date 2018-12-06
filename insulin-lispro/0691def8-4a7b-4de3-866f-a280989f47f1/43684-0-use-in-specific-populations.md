@@ -10,7 +10,7 @@ There are risks to the mother and fetus associated with poorly controlled diabet
 
 Pregnant rats and rabbits were exposed to another insulin lispro product in animal reproduction studies during organogenesis.
 Fetal growth retardation was observed in offspring of rats exposed to insulin lispro at a dose approximately 3 times the human subcutaneous dose of 1.0 unit/kg/day.
-No adverse effects on embryo/fetal development were observed in offspring of rabbits exposed to insulin lispro at doses up to approximately 0.24 times the human subcutaneous dose of 1.0 unit/kg/day [see Data].
+No adverse effects on embryo-fetal development were observed in offspring of rabbits exposed to insulin lispro at doses up to approximately 0.24 times the human subcutaneous dose of 1.0 unit/kg/day [see Data].
 
 The estimated background risk of major birth defects is 6%-10% in women with pregestational diabetes with a HbA1c >7% and has been reported to be as high as 20%-25% in women with a HbA1c >10%.
 The estimated background risk of miscarriage for the indicated population is unknown.
@@ -18,7 +18,7 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Clinical Considerations
 
-Disease-associated maternal and/or embryo/fetal risk
+Disease-associated maternal and/or embryo-fetal risk
 
 Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, preeclampsia, spontaneous abortions, preterm delivery, stillbirth, and delivery complications.
 Poorly controlled diabetes increases the fetal risk for major birth defects, stillbirth, and macrosomia related morbidity.
@@ -32,11 +32,11 @@ However, these studies cannot definitely establish or exclude the absence of any
 
 Animal data
 
-In a combined fertility and embryofetal development study with another insulin lispro product, female rats were given subcutaneous insulin lispro injections of 5 and 20 units/kg/day (0.8 and 3 times the human subcutaneous dose of 1 unit/kg/day, based on units/body surface area, respectively) from 2 weeks prior to cohabitation through Gestation Day 19.
+In a combined fertility and embryo-fetal development study with another insulin lispro product, female rats were given subcutaneous insulin lispro injections of 5 and 20 units/kg/day (0.8 and 3 times the human subcutaneous dose of 1 unit/kg/day, based on units/body surface area, respectively) from 2 weeks prior to cohabitation through Gestation Day 19.
 There were no adverse effects on female fertility, implantation, or fetal viability and morphology.
 However, fetal growth retardation was observed at the 20 units/kg/day dose as indicated by decreased fetal weight and an increased incidence of fetal runts/litter.
 
-In an embryofetal development study in pregnant rabbits with another insulin lispro product, insulin lispro doses of 0.1, 0.25, and 0.75 unit/kg/day (0.03, 0.08, and 0.24 times the human subcutaneous dose of 1 unit/kg/day, based on units/body surface area, respectively) were injected subcutaneously on Gestation Days 7 through 19.
+In an embryo-fetal development study in pregnant rabbits with another insulin lispro product, insulin lispro doses of 0.1, 0.25, and 0.75 unit/kg/day (0.03, 0.08, and 0.24 times the human subcutaneous dose of 1 unit/kg/day, based on units/body surface area, respectively) were injected subcutaneously on Gestation Days 7 through 19.
 There were no adverse effects on fetal viability, weight, and morphology at any dose.
 
 ## 8.2 Lactation

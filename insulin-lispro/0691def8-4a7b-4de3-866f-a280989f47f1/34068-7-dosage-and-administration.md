@@ -6,6 +6,7 @@
 - Inspect ADMELOG visually before use.
   It should appear clear and colorless.
   Do not use ADMELOG if particulate matter or coloration is seen.
+- Use ADMELOG SoloStar prefilled pen with caution in patients with visual impairment who may rely on audible clicks to dial their dose.
 - Do NOT mix ADMELOG with other insulins when administering using a continuous subcutaneous infusion pump.
 
 ## 2.2 Route of Administration
@@ -16,6 +17,7 @@ Subcutaneous Injection
 - ADMELOG administered by subcutaneous injection should generally be used in regimens with intermediate or long-acting insulin.
 - ADMELOG should be administered by subcutaneous injection in the abdominal wall, thigh, upper arm, or buttocks.
   Rotate injection site within the same region (abdomen, thigh, upper arm, or buttocks) from one injection to the next to reduce the risk of lipodystrophy [see Adverse Reactions (6.1)].
+- The ADMELOG SoloStar prefilled pen dials in 1-unit increments.
 
 Continuous Subcutaneous Infusion (Insulin Pump)
 

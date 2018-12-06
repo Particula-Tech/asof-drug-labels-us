@@ -4,7 +4,7 @@
 
 ADMELOG: Insulin Lispro Injection 100 units per mL (U-100) is available as:
 
-| Dosage Unit | Package Size | NDC# |
+| Dosage Unit | Package Size | NDC # |
 | --- | --- | --- |
 | 10 mL multiple-dose vials | Carton of 1 | 0024-5924-10 |
 | 3 mL multiple-dose vials | Carton of 1 | 0024-5926-05 |
@@ -13,6 +13,8 @@ ADMELOG: Insulin Lispro Injection 100 units per mL (U-100) is available as:
 Each prefilled SoloStar pen is for use by a single patient.
 ADMELOG SoloStar pen must never be shared between patients, even if the needle is changed.
 Patients using ADMELOG vials must never share needles or syringes with another person.
+
+The ADMELOG SoloStar prefilled pen dials in 1-unit increments.
 
 ## 16.2 Storage and Handling
 

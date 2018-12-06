@@ -149,7 +149,7 @@ Read this first
 Do not share your ADMELOG SoloStar pen with other people, even if the needle has been changed.
 You may give other people a serious infection, or get a serious infection from them.
 
-ADMELOG SoloStar should not be used by people who are blind or have severe vision problems without the help of a person who has good eyesight and who is trained to use the ADMELOG SoloStar the right way.
+People who are blind or have vision problems should not use ADMELOG SoloStar prefilled pen without help from a person trained to use ADMELOG SoloStar prefilled pen.
 
 ADMELOG SoloStar is a disposable prefilled pen used to inject ADMELOG.
 Each ADMELOG SoloStar has 300 units of insulin which can be used for multiple injections.
@@ -393,10 +393,10 @@ Throwing your pen away
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
+sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
-Approved: December 2017
+Revised: November 2018
 
-©2017 sanofi-aventis U.S. LLC
+©2018 sanofi-aventis U.S. LLC
 
 ADMELOG and SoloStar are registered trademarks of sanofi-aventis U.S. LLC.
