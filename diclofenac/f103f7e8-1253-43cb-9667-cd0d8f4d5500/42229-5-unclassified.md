@@ -2,7 +2,7 @@ Distributor: Pfizer Inc New York, NY 10017
 
 Manufacturer:
 
-Teikoku Seiyaku Co., Ltd., Sanbonmatsu, Kagawa 769-2695 Japan
+Altergon Italia Srl, Zona Industriale ASI, Morra de Sanctis, Avellino 83040, Italy (ITA)
 
 Manufactured for: IBSA Institut Biochimique SA, CH-6903 Lugano, Switzerland
 
