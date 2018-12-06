@@ -36,14 +36,14 @@ Rx only
 
 # PRINCIPAL DISPLAY PANEL - 50 gram Jar Label
 
-SILVADENE® CREAM 1% (silver sulfadiazine)
-
 NDC 61570-131-50
 
-50 grams
+SILVADENE® CREAM 1% (silver sulfadiazine) 50 grams
 
 FOR TOPICAL USE ONLY Avoid contact with the eye.
 
-Pfizer Injectables
+GTIN: 00361570131502
 
 Rx only
+
+Pfizer Injectables
