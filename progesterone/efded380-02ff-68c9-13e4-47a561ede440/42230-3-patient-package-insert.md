@@ -160,4 +160,4 @@ Distributed by: Dr. Reddy’s Laboratories, Inc.
 
 Princeton, NJ 08540
 
-Issued: April, 2016
+Issued: July, 2018
