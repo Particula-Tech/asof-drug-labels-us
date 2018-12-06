@@ -18,13 +18,11 @@ Dispense the accompanying Medication Guide to each patient.
 
 45.68 mg alendronate sodium USP (35 mg free acid equivalent)
 
-Usual adult dosage:
-
-One 35 mg tablet once weekly.
+Usual adult dosage: One 35 mg tablet once weekly.
 
 See accompanying circular for complete dosage information.
 
-4 Tablets
+1 blister of 4 Tablets
 
 Cipla
 
@@ -52,6 +50,6 @@ One 70 mg tablet once weekly.
 
 See accompanying circular for complete dosage information.
 
-4 Tablets
+1 blister of 4 Tablets
 
 Cipla
