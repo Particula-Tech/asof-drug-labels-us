@@ -41,9 +41,7 @@ NDC 59762-0131-6
 
 GREENSTONE® BRAND
 
-silver sulfadiazine cream 1%
-
-50 grams
+silver sulfadiazine cream 1% 50 grams
 
 Rx only
 
