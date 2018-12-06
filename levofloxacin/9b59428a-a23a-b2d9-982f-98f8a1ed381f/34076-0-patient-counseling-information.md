@@ -2,7 +2,9 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Serious Adverse Reactions Advise patients to stop taking levofloxacin if they experience an adverse reaction and to call their healthcare provider for advice on completing the full course of treatment with another antibacterial drug.
+Serious Adverse Reactions
+
+Advise patients to stop taking levofloxacin if they experience an adverse reaction and to call their healthcare provider for advice on completing the full course of treatment with another antibacterial drug.
 
 Inform patients of the following serious adverse reactions that have been associated with levofloxacin or other fluoroquinolone use:
 
@@ -60,7 +62,9 @@ Patients should drink fluids liberally while taking levofloxacin to avoid format
 
 Antacids containing magnesium, or aluminum, as well as sucralfate, metal cations such as iron, and multivitamin preparations with zinc or didanosine should be taken at least two hours before or two hours after oral levofloxacin administration.
 
-Drug Interactions with Insulin, Oral Hypoglycemic Agents, and Warfarin Patients should be informed that if they are diabetic and are being treated with insulin or an oral hypoglycemic agent and a hypoglycemic reaction occurs, they should discontinue levofloxacin and consult a physician.
+Drug Interactions with Insulin, Oral Hypoglycemic Agents, and Warfarin
+
+Patients should be informed that if they are diabetic and are being treated with insulin or an oral hypoglycemic agent and a hypoglycemic reaction occurs, they should discontinue levofloxacin and consult a physician.
 
 Patients should be informed that concurrent administration of warfarin and levofloxacin has been associated with increases of the International Normalized Ratio (INR) or prothrombin time and clinical episodes of bleeding.
 Patients should notify their physician if they are taking warfarin, be monitored for evidence of bleeding, and also have their anticoagulation tests closely monitored while taking warfarin concomitantly.

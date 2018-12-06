@@ -62,8 +62,8 @@ Table 4: Common (≥1%) Adverse Reactions Reported in Clinical Trials with Levof
 | Nervous System Disorders | headachedizziness [see Warnings and Precautions (5.4)] | 63 |
 | Respiratory, Thoracic andMediastinal Disorders | dyspnea [see Warnings and Precautions (5.7)]. | 1 |
 | Gastrointestinal Disorders | nauseadiarrhea constipation abdominal pain vomiting dyspepsia | 753222 |
-| Skin and SubcutaneousTissue Disorders | rash [see Warnings and Precautions (5.7)]ruritus | 21 |
-| Reproductive System andBreast Disorders | vaginitis | 1† |
+| Skin and SubcutaneousTissue Disorders | rash [see Warnings and Precautions (5.7)] pruritus | 2 1 |
+| Reproductive System andBreast Disorders | Vaginitis | 1† |
 | General Disorders andAdministration SiteConditions | edemainjection site reaction chest pain | 111 |
 | * N = 7274 † N=3758 (women)# pool of studies included IV and oral administration |  |  |
 
@@ -73,14 +73,14 @@ Table 5: Less Common (0.1 to 1%) Adverse Reactions Reported in Clinical Trials w
 | --- | --- |
 | Infections and Infestations | genital moniliasis |
 | Blood and Lymphatic SystemDisorders | anemiathrombocytopenia granulocytopenia[see Warnings and Precautions (5.6)] |
-| Immune System Disorders | allergic reaction [See Warnings and Precautions (5.6, 5.7)] |
+| Immune System Disorders | allergic reaction [see Warnings and Precautions (5.6, 5.7)] |
 | Metabolism and NutritionDisorders | hyperglycemiahypoglycemia[see Warnings and Precautions (5.12)]hyperkalemia |
 | Psychiatric Disorders | anxietyagitation confusion depression hallucination nightmare*[see Warnings and Precautions (5.4)]sleep disorder*anorexiaabnormal dreaming* |
 | Nervous System Disorders | tremorconvulsions[see Warnings and Precautions (5.4)]paresthesia [see Warnings and Precautions (5.3)]vertigo hypertonia hyperkinesiasabnormal gait somnolence*syncope |
 | Respiratory, Thoracic andMediastinal Disorders | epistaxis |
 | Cardiac Disorders | cardiac arrestpalpitationventricular tachycardia ventricular arrhythmia |
 | Vascular Disorders | phlebitis |
-| Gastrointestinal Disorders | gastritisstomatitis pancreatitis esophagitisgastroenteritisglossitispseudomembraneous/ C. difficile colitis [see Warnings and Precautions (5.9)] |
+| Gastrointestinal Disorders | gastritisstomatitis pancreatitis esophagitisgastroenteritisglossitispseudomembranous/ C. difficile colitis [see Warnings and Precautions (5.9)] |
 | Hepatobiliary Disorders | abnormal hepatic functionincreased hepatic enzymes increased alkaline phosphatase |
 | Skin and Subcutaneous TissueDisorders | urticaria [see Warnings and Precautions (5.7)] |
 | Musculoskeletal and ConnectiveTissue Disorders | arthralgiatendinitis[see Warnings and Precautions (5.2)]myalgia skeletal pain |

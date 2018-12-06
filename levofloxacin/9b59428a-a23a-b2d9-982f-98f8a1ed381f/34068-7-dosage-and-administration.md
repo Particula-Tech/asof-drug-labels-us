@@ -4,7 +4,7 @@
 
 The usual dose of levofloxacin tablets is 250 mg, 500 mg, or 750 mg administered orally every 24 hours, as indicated by infection and described in Table 1.
 
-These recommendations apply to patients with creatinine clearance ≥ 50 mL/min.
+These recommendations apply to patients with creatinine clearance ≥ 50 mL/minute.
 For patients with creatinine clearance less than 50 mL/min, adjustments to the dosing regimen are required [see Dosage and Administration (2.3)].
 
 Table 1: Dosageof Levofloxacin Tablets in Adult Patients with Creatinine Clearance greater than or equal to 50 mL/minute)

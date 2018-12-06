@@ -24,7 +24,7 @@ Table 8: Mean ±SD Levofloxacin PK Parameters
 | Female6 | 7.0 ± 1.6 | 1.7 ± 0.5 | 67.7 ± 24.2 | 136 ± 44 | 62 ± 16 | 6.1 ± 0.8 | 106 ± 40 |
 | Young7 | 5.5 ± 1 | 1.5 ± 0.6 | 47.5 ± 9.8 | 182 ± 35 | 83 ± 18 | 6.0 ± 0.9 | 140 ± 33 |
 | Elderly8 | 7.0 ± 1.6 | 1.4 ± 0.5 | 74.7 ± 23.3 | 121 ± 33 | 67 ± 19 | 7.6 ± 2 | 91 ± 29 |
-| 500 mg oral single dose tablet, patients with renal insufficiency: |  |  |  |  |  |  |  |
+| 500 mg oral single dose tablet, patients with renal impairment: |  |  |  |  |  |  |  |
 | CLCR 50 to 80 mL/min | 7.5 ± 1.8 | 1.5 ± 0.5 | 95.6 ± 11.8 | 88 ± 10 | ND | 9.1 ± 0.9 | 57 ± 8 |
 | CLCR 20 to 49 mL/min | 7.1 ± 3.1 | 2.1 ± 1.3 | 182.1 ± 62.6 | 51 ± 19 | ND | 27 ± 10 | 26 ± 13 |
 | CLCR <20 mL/min | 8.2 ± 2.6 | 1.1 ± 1 | 263.5 ± 72.5 | 33 ± 8 | ND | 35 ± 5 | 13 ± 3 |
@@ -107,7 +107,7 @@ There are no significant differences in levofloxacin pharmacokinetics between yo
 Following a 500 mg oral dose of levofloxacin to healthy elderly subjects (66 to 80 years of age), the mean terminal plasma elimination half-life of levofloxacin was about 7.6 hours, as compared to approximately 6 hours in younger adults.
 The difference was attributable to the variation in renal function status of the subjects and was not believed to be clinically significant.
 Drug absorption appears to be unaffected by age.
-Levofloxacin dose adjustment based on age alone is not necessary [See Use in Specific Populations (8.5)].
+Levofloxacin dose adjustment based on age alone is not necessary [see Use in Specific Populations (8.5)].
 
 Pediatric Patients
 

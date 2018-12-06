@@ -1,6 +1,6 @@
 MEDICATION GUIDE
 
-Levofloxacin Tablets, 250 mg, 500 mg and 750 mg Tablets
+Levofloxacin Tablets USP, 250 mg, 500 mg and 750 mg Tablets
 
 (lee'' voe flox' a sin)
 
@@ -24,7 +24,7 @@ Tendon rupture or swelling of the tendon (tendinitis).
 - The risk of getting tendon problems while you take levofloxacin if you:
   - are over 60 years of age
   - are taking steroids (corticosteroids)
-  - have had a kidney, heart, or lung transplant.
+  - have had a kidney, heart or lung transplant.
 
 - Tendon problems can happen in people who do not have the above risk factors when they take levofloxacin tablets.
 - Other reasons that can increase your risk of tendon problems can include:
@@ -115,7 +115,7 @@ These bacterial infections include:
 - urinary tract infections, complicated and uncomplicated
 - acute kidney infection (pyelonephritis)
 - acute sinus infection
-- acute worsening of chronic bronchitis
+- acute worsening or chronic bronchitis
 
 Studies of levofloxacin tablets for use in the treatment of plague and anthrax were done in animals only, because plague and anthrax could not be studied in people.
 
@@ -314,7 +314,7 @@ Store levofloxacin tablets at 20° to 25°C (68° to 77°F).
 
 Keep levofloxacin tablets in a tightly closed container.
 
-General Information about the safe and effective use of levofloxacin tablets
+General information about the safe and effective use of levofloxacin tablets
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use levofloxacin tablets for a condition for which it is not prescribed.
@@ -331,7 +331,7 @@ What are the ingredients in levofloxacin tablets?
 
 Levofloxacin Film-Coated Tablets:
 
-Active ingredient: Levofloxacin
+Active ingredient: levofloxacin
 
 Inactive ingredients:
 
@@ -351,6 +351,6 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 0718
+Revised: 1018
 
 Dispense the Medication Guide available at: www.drreddys.com/medguide/levofloxacintabs.pdf
