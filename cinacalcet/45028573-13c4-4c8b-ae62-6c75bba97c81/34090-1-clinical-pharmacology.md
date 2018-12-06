@@ -65,7 +65,7 @@ In vitro induction studies indicate that cinacalcet is not an inducer of CYP450 
 Tables 5 and 6 list the findings from in vivo drug-drug interaction studies.
 
 Table 5.
-Effect of co administered drugs on cinacalcet
+Effect of co-administered drugs on cinacalcet
 
 | Co-administered drug and dosing regimen | Cinacalcet |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
