@@ -42,7 +42,7 @@ Absorption
 After single and repeated oral doses of 75 mg per day, clopidogrel is rapidly absorbed.
 Absorption is at least 50%, based on urinary excretion of clopidogrel metabolites.
 
-Effect of Food
+Effect of food
 
 Clopidogrel can be administered with or without food.
 In a study in healthy male subjects when clopidogrel 75 mg per day was given with a standard breakfast, mean inhibition of ADP-induced platelet aggregation was reduced by less than 9%.
@@ -86,19 +86,19 @@ Pharmacodynamic and pharmacokinetic parameters measuredin these studies showed t
 
 Opioids
 
-Co-administration of 5 mg intravenous morphine with 600 mg loading dose of clopidogrel in healthy adults decreased the AUC and Cmax of clopidogrel’s thiol metabolites by 34%.
-Mean platelet aggregation was higher up to 2 to 4 hours with morphine co-administration.
+Coadministration of 5 mg intravenous morphine with 600 mg loading dose of clopidogrel in healthy adults decreased the AUC and Cmax of clopidogrel’s thiol metabolites by 34%.
+Mean platelet aggregation was higher up to 2 to 4 hours with morphine coadministration.
 
 Effect of clopidogrel on other drugs
 
-In vitro studies have shown that the glucuronide metabolite of clopidogrel is a strong inhibitor of CYP2C8.
+Invitro studies have shown that the glucuronide metabolite of clopidogrel is a strong inhibitor of CYP2C8.
 Concomitant administration of repaglinide with clopidogrel increased the systemic exposure to repaglinide (AUC0-∞) by 5.1-fold following the loading dose (300 mg) and by 3.9-fold on day 3 of the maintenance dose (75 mg) of clopidogrel [see Drug Interactions (7.6)].
 
 ## 12.5 Pharmacogenomics
 
 CYP2C19 is involved in the formation of both the active metabolite and the 2-oxo-clopidogrel intermediate metabolite.
 Clopidogrel active metabolite pharmacokinetics and antiplatelet effects, as measured by ex vivo platelet aggregation assays, differ according to CYP2C19 genotype.
-Patients who are homozygous for nonfunctional alleles of the CYP2C19 gene are termed “CYP2C19 poor metabolizers”.
+Patients who are homozygous for nonfunctional alleles of the CYP2C19 gene are termed “CYP2C19 poor metabolizers.”
 Approximately 2% of White and 4% of Black patients are poor metabolizers; the prevalence of poor metabolism is higher in Asian patients (e.g., 14% of Chinese).
 Tests are available to identify patients who are CYP2C19 poor metabolizers.
 
@@ -122,12 +122,12 @@ Table 3: Active Metabolite Pharmacokinetics and Antiplatelet Responses by CYP2C1
 |  | 75 mg (Day 5) | 83 (13) | 50 (16) | 39 (14) | 40 (9) |
 |  | 150 mg (Day 5) | 61 (18) | 29 (11) | 24 (10) | 20 (10) |
 
-* Intermediate metabolizers have one but not two nonfunctional alleles
+* Intermediate metabolizers have one but not two nonfunctional alleles.
 
-† Ultrarapid metabolizers have at least one gain-of-function allele
+† Ultrarapid metabolizers have at least one gain-of-function allele.
 
-‡ Inhibition of platelet aggregation with 5mcM ADP; larger value indicates greater platelet inhibition
+‡ Inhibition of platelet aggregation with 5mcM ADP; larger value indicates greater platelet inhibition.
 
-§Vasodilator-stimulated phosphoprotein – platelet reactivity index; smaller value indicates greater platelet inhibition
+§Vasodilator-stimulated phosphoprotein – platelet reactivity index; smaller value indicates greater platelet inhibition.
 
-Values are mean (SD)
+Values are mean (SD).
