@@ -1,13 +1,13 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 General Dosing and Administration Recommendations
+## 2.1 General Administration Recommendations
 
 - Ritonavir must be used in combination with other antiretroviral agents.
 - Ritonavir Tablets are administered orally.
   Ritonavir tablets should be swallowed whole, and not chewed, broken or crushed.
   Take Ritonavir Tablets with meals.
 
-## 2.2 Recommended Adult Dosage
+## 2.2 Dosage Recommendations in Adults
 
 Recommended Dosage for Treatment of HIV-1:
 
@@ -16,7 +16,7 @@ Use of a dose titration schedule may help to reduce treatment-emergent adverse e
 Ritonavir Tablets should be started at no less than 300 mg twice daily and increased at 2 to 3 day intervals by 100 mg twice daily.
 The maximum dose of 600 mg twice daily should not be exceeded upon completion of the titration [see Dosage and Administration (2.4)].
 
-## 2.3 Recommended Pediatric Dosage
+## 2.3 Dosage Recommendations in Pediatric Patients
 
 Ritonavir Tablets must be used in combination with other antiretroviral agents [see Dosage and Administration (2)].
 The recommended dosage of Ritonavir Tablets in pediatric patients older than 1 month is 350 to 400 mg per m2 twice daily by mouth to be taken with meals and should not exceed 600 mg twice daily.

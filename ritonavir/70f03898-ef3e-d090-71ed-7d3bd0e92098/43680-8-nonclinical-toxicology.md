@@ -15,7 +15,7 @@ Based on the exposures achieved in the animal studies, the significance of the o
 
 Mutagenesis
 
-However, ritonavir was found to be negative for mutagenic or clastogenic activity in a battery of in in vitro and in vivo assays including the Ames bacterial reverse mutation assay using S. typhimurium and E. coli, the mouse lymphoma assay, the mouse micronucleus test and chromosomal aberration assays in human lymphocytes.
+However, ritonavir was found to be negative for mutagenic or clastogenic activity in a battery of in vitro and in vivo assays including the Ames bacterial reverse mutation assay using S. typhimurium and E. coli, the mouse lymphoma assay, the mouse micronucleus test and chromosomal aberration assays in human lymphocytes.
 
 Impairment of Fertility
 
