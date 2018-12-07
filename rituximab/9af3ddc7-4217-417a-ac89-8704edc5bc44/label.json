@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "BLA761088"
+  ],
+  "inn": "rituximab",
+  "labeler": "Cephalon, Inc.",
+  "package_ndcs": [
+    "63459-103-10",
+    "63459-104-50"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "rituximab-abbs",
+      "name": "Truxima"
+    }
+  ],
+  "setid": "9af3ddc7-4217-417a-ac89-8704edc5bc44",
+  "source": "dailymed"
+}
