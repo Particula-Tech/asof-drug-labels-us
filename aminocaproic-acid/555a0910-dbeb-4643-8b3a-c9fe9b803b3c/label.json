@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA209060"
+  ],
+  "inn": "aminocaproic-acid",
+  "labeler": "Vitruvias Therapeutics",
+  "package_ndcs": [
+    "69680-115-00",
+    "69680-115-30",
+    "69680-116-00",
+    "69680-116-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "aminocaproic acid",
+      "name": "Aminocaproic Acid"
+    }
+  ],
+  "setid": "555a0910-dbeb-4643-8b3a-c9fe9b803b3c",
+  "source": "dailymed"
+}
