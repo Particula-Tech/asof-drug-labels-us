@@ -1,24 +1,30 @@
-# PRINCIPAL DISPLAY PANEL - 80 mg Capsule Carton
+# PRINCIPAL DISPLAY PANEL - 80 mg Capsule Dose Pack
 
-NDC 0006-0461-06
+NDC 0006-0461-02
+
+BiPack 2 capsules
+
+EMEND® (aprepitant) capsules
 
 80 mg
 
-EMEND® (APREPITANT) CAPSULES
-
 For Adults and Pediatric Patients 12 years of Age and Older
 
-Each capsule contains 80 mg aprepitant.
+You have already been given a capsule of EMEND (aprepitant) to prevent nausea and vomiting before your chemotherapy on Day 1.
 
-Store at 20-25°C (68-77°F) [see USP Controlled Room Temperature].
+The two capsules in this package are to be taken on Days 2 and 3.
+
+Each capsule contains 80 mg of aprepitant.
+
 USUAL DOSAGE: See accompanying circular.
 
 Rx only
 
-This is a bulk package and not intended for dispensing.
-Package not child resistant.
+Keep this and all drugs out of the reach of children.
 
-6 capsules
+Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA Manuf. by: Alkermes Pharma Ireland Limited, Athlone, Ireland Aprepitant (active ingred.)
+Made in Switzerland.
+Formulated in Ireland.
 
 # PRINCIPAL DISPLAY PANEL - 125 mg Capsule Carton
 
@@ -42,7 +48,7 @@ Package not child resistant.
 
 6 capsules
 
-# PRINCIPAL DISPLAY PANEL - 125 mg and 80 mg Capsule Kit Carton
+# PRINCIPAL DISPLAY PANEL - 3 Capsule Kit Carton
 
 NDC 0006-3862-03
 
@@ -64,7 +70,9 @@ Rx only
 
 Keep this and all drugs out of the reach of children.
 
-Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA Manuf. by: Alkermes Pharma Ireland Limited, Athlone, Ireland Formulated in Ireland
+Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA Manuf. by: Alkermes Pharma Ireland Limited, Athlone, Ireland Aprepitant (active ingred.)
+Made in Switzerland.
+Formulated in Ireland.
 
 # PRINCIPAL DISPLAY PANEL - 40 mg Capsule Carton
 
@@ -92,8 +100,6 @@ EMEND® (aprepitant) for oral suspension
 
 125 mg
 
-For Oral Administration Only
-
 Single-Dose Kit
 
 Discard Unused Portion
@@ -101,5 +107,7 @@ Discard Unused Portion
 This product must be reconstituted and dose must be measured by a healthcare provider.
 
 See package insert and accompanying directions.
+
+For Oral Administration Only
 
 Rx only
