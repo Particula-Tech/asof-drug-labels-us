@@ -1,4 +1,8 @@
-# PATIENT PACKAGE INSERT: BUPHENYL® (sodium phenylbutyrate) Tablets BUPHENYL® (sodium phenylbutyrate) Powder
+# PATIENT PACKAGE INSERT
+
+BUPHENYL® (sodium phenylbutyrate) Tablets
+
+BUPHENYL® (sodium phenylbutyrate) Powder
 
 What is the most important information I should know about BUPHENYL?
 
@@ -45,7 +49,7 @@ Who should not take BUPHENYL?
 
 BUPHENYL is prescribed only for patients with urea cycle disorders.
 It is not to be used for any other reason.
-Keep the medication in a safe place where children cannot reach it.
+Keep the medication in a safe place where children ­cannot reach it.
 
 What other medical conditions may also be present that could increase the risk of taking BUPHENYL?
 

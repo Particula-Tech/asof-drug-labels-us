@@ -10,11 +10,11 @@ BUPHENYL® (sodium phenylbutyrate)
 
 250 Tablets
 
-Pharmacist: Dispense in this unit-of-use Child Resistant container with enclosed patient leaflet.
+Pharmacist: Dispense in this unit-or-use Child Resistant container with enclosed patient leaflet.
 
 Rx Only
 
-# PRINCIPAL DISPLAY PANEL - 250 G Bottle Carton
+# PRINCIPAL DISPLAY PANEL - 250 Gram Bottle Carton
 
 HORIZON PHARMA
 
