@@ -1,11 +1,11 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Ceftriaxone for Injection and Dextrose Injection in the DUPLEX® Drug Delivery System is a flexible dual chamber container supplied in two concentrations.
+Ceftriaxone for Injection and Dextrose Injection in the DUPLEX® Container is a flexible dual chamber container supplied in two concentrations.
 After reconstitution, the concentrations are equivalent to 1 g and 2 g ceftriaxone.
 The diluent chamber contains approximately 50 mL of Dextrose Injection.
 Dextrose Injection has been adjusted to 3.74% and 2.22% for the 1 g and 2 g doses, respectively, such that the reconstituted solution is iso-osmotic.
 
-Ceftriaxone for Injection and Dextrose Injection is supplied sterile and nonpyrogenic in the DUPLEX® Drug Delivery System containers packaged 24 units per case.
+Ceftriaxone for Injection and Dextrose Injection is supplied sterile and nonpyrogenic in the DUPLEX® Container packaged 24 units per case.
 
 | NDC | REF | Dose | Volume |
 | --- | --- | --- | --- |

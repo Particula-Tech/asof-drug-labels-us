@@ -6,7 +6,7 @@ CefTRIaxONE for Injection and Dextrose Injection
 
 REF 3153-11 NDC 0264-3153-11
 
-DUPLEX® DRUG DELIVERY SYSTEM
+DUPLEX® CONTAINER
 
 50 mL
 
@@ -37,15 +37,16 @@ Do not freeze.
 
 Not made with natural rubber latex, PVC or DEHP.
 
-B. Braun Medical Inc.
-
-Bethlehem, PA 18018-3524
+B. Braun Medical Inc. Bethlehem, PA 18018-3524
 
 Rx only
 
-Produced in USA with ingredients from USA and Italy.
+Prepared in USA.
+API from USA and Italy.
 
-Y37-002-502 LD-206-3
+Y37-002-553 LD-206-4
+
+EXP LOT
 
 PEEL HERE
 
@@ -66,7 +67,7 @@ CefTRIaxONE for Injection and Dextrose Injection
 
 REF 3155-11 NDC 0264-3155-11
 
-DUPLEX® DRUG DELIVERY SYSTEM
+DUPLEX® CONTAINER
 
 50 mL
 
@@ -97,15 +98,14 @@ Do not freeze.
 
 Not made with natural rubber latex, PVC or DEHP.
 
-B. Braun Medical Inc.
-
-Bethlehem, PA 18018-3524
+B. Braun Medical Inc. Bethlehem, PA 18018-3524
 
 Rx only
 
-Produced in USA with ingredients from USA and Italy.
+Prepared in USA.
+API from USA and Italy.
 
-Y37-002-503 LD-207-3
+Y37-002-554 LD-207-4
 
 PEEL HERE
 
