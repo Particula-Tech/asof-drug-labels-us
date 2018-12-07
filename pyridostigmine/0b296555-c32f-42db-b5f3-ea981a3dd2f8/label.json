@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA020414"
+  ],
+  "inn": "pyridostigmine",
+  "labeler": "Surgeon General-Department of the Army (TSG-DA)",
+  "package_ndcs": [
+    "72458-128-01",
+    "72458-128-02",
+    "72458-128-03",
+    "72458-128-04"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "pyridostigmine bromide",
+      "name": "Pyridostigmine Bromide"
+    }
+  ],
+  "setid": "0b296555-c32f-42db-b5f3-ea981a3dd2f8",
+  "source": "dailymed"
+}
