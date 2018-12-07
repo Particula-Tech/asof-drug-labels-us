@@ -7,7 +7,6 @@ Clindamycin Phosphate and Benzoyl Peroxide Gel 1.2%/5%
 45 g
 
 FOR EXTERNAL USE ONLY.
-
 Rx only
 
 Keep this and all medications out of the reach of children.

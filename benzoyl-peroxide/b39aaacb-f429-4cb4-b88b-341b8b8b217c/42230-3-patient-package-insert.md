@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/5%
+Clindamycin Phosphate (klin'' da mye' sin fos' fate) and Benzoyl Peroxide (BEN-zoe-il per-OX-ide) Gel, 1.2%/5%
 
 | Important: For use on the skin only (topical use). Do not get clindamycin phosphate and benzoyl peroxide gel in your mouth, eyes, vagina, or on your lips. |
 | --- |
@@ -109,6 +109,6 @@ Inactive ingredients: carbomer homopolymer (type C), dimethicone, disodium laury
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: Taro Pharmaceuticals Inc., Brampton, Ontario, Canada L6T 1C1 Distributed by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532
+Manufactured by: Taro Pharmaceuticals Inc. Brampton, Ontario, Canada L6T 1C1 Distributed by: Taro Pharmaceuticals U.S.A., Inc. Hawthorne, NY 10532
 
-Issued: February 2017 LPK-7401-1 34
+Revised: April, 2018 LPK-7401-2 31

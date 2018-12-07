@@ -18,6 +18,5 @@ Stool cultures for Clostridium difficile and stool assay for C. difficile toxin 
 ## 5.2 Ultraviolet Light and Environmental Exposure
 
 Benzoyl peroxide, a component of clindamycin phosphate and benzoyl peroxide gel, may cause increased sensitivity to sunlight.
-Minimize sun exposure (including use of tanning beds or sun lamps) following drug application.
-[See Nonclinical Toxicology (13.1).]
+Minimize sun exposure (including use of tanning beds or sun lamps) following drug application [See Nonclinical Toxicology (13.1)].
 Patients who may be required to have considerable sun exposure due to occupation and those with inherent sensitivity to the sun should exercise particular caution.
