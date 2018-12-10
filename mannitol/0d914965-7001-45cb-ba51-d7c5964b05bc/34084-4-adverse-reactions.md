@@ -1,19 +1,14 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-Extensive use of mannitol over the last several decades has produced recorded adverse events, in a variety of clinical settings, that are isolated or idiosyncratic in nature.
-None of these adverse reactions have occurred with any great frequency nor with any security in attributing them to mannitol.
+The following adverse reactions from voluntary reports or clinical studies have been reported with OSMITROL.
+Because many of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-The inability to clearly exclude the drug related nature of such events in these isolated reports prompts the necessity to list the reactions that have been observed in patients during or following mannitol infusion.
-In this fashion, patients have exhibited nausea, vomiting, rhinitis, local pain, skin necrosis and thrombophlebitis at the site of injection, chills, dizziness, urticaria, hypotension, hypertension, tachycardia, fever and angina-like chest pains.
-
-Of far greater clinical significance is a variety of events that are related to inappropriate recognition and monitoring of fluid shifts.
-These are not intrinsic adverse reactions to the drug but the consequence of manipulating osmolarity by any agency in a therapeutically inappropriate manner.
-Failure to recognize severe impairment of renal function with the high likelihood of nondiuretic response can lead to aggravated dehydration of tissues and increased vascular fluid load.
-Induced diuresis in the presence of preexisting hemoconcentration and preexisting deficiency of water and electrolytes can lead to serious imbalances.
-Expansion of the extracellular space can aggravate cardiac decompensation or induce it in the presence of latent heart failure.
-Pulmonary congestion or edema can be seriously aggravated with the expansion of the extracellular and therefore intravascular fluid load.
-Hemodilution and dilution of the extracellular fluid space by osmotic shift of water can induce or aggravate preexisting hyponatremia.
-
-If unrecognized, such fluid and/or electrolyte shift can produce the reported adverse reactions of pulmonary congestion, acidosis, electrolyte loss, dryness of mouth, thirst, edema, headache, blurred vision, convulsions and congestive cardiac failure.
-
-These are not truly adverse reactions to the drug and can be appropriately prevented by evaluation of degree of renal failure with a test dose response to mannitol when indicated; evaluation of hypervolemia and hypovolemia; sodium and potassium levels; hemodilution or hemoconcentration; and evaluation of renal, cardiac and pulmonary function at the onset of therapy.
+- •Hypersensitivity reactions: cardiac arrest, anaphylaxis, hypotension, dyspnea, hypertension, pyrexia, chills, sweating, cough, musculoskeletal stiffness, myalgia, urticarial/rash, pruritus, generalized pain, discomfort, nausea, vomiting, and headache.
+  [see Warnings and Precautions (5.1)]
+- •Renal Failure: acute kidney injury, osmotic nephrosis, azotemia, anuria, hematuria, oliguria, polyuria[see Warnings and Precautions (5.2)]
+- •CNS Toxicity: coma, seizures, confusion, lethargy; rebound increase in intracranial pressure; dizziness[see Warnings and Precautions (5.3)]
+- •Fluid and Electrolyte Imbalances: hypovolemia, hypervolemia, peripheral edema, dehydration, hyponatremia, hypernatremia, hyperkalemia, hypokalemia; metabolic acidosis[see Warnings and Precautions (5.4)]
+- •Infusion Site Reactions: phlebitis, inflammation, pain, rash, erythema, pruritus; compartment syndrome and swelling associated with extravasation [see Warnings and Precautions (5.6)]
+- •Cardiac and Respiratory Disorders: congestive cardiac failure, pulmonary edema, palpitations
+- •Gastrointestinal Disorders: thirst, dry mouth
+- •General Disorders: asthenia, malaise

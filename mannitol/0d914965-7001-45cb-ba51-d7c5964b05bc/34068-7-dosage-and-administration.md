@@ -1,34 +1,62 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-OSMITROL Injection (Mannitol Injection, USP) should be administered only by intravenous infusion.
-The total dosage, concentration, and rate of administration should be governed by the nature and severity of the condition being treated, fluid requirement, and urinary output.
-The usual adult dosage ranges from 20 to 100 g in a 24 hour period, but in most instances an adequate response will be achieved at a dosage of approximately 50 to 100 g in a 24 hour period.
-The rate of administration is usually adjusted to maintain a urine flow of at least 30 to 50 mL/hour.
-This outline of administration and dosage is only a general guide to therapy.
+## 2.1 Important Preparation and Administration Instructions
 
-Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
-Use of a final filter is recommended during administration of all parenteral solutions, where possible.
+- •OSMITROL is for intravenous infusion preferably into a large central vein [see Warnings and Precautions (5.5), Description (11)].
+- •Prior to administration of OSMITROL, evaluate renal, cardiac and pulmonary status of the patient and correct fluid and electrolyte imbalances [see Dosage and Administration (2.2)].
+- •Do not administer OSMITROL simultaneously with blood products through the same administration set because of the possibility of pseudoagglutination or hemolysis.
 
-Test Dose: A test dose of mannitol should be given prior to instituting OSMITROL Injection (Mannitol Injection, USP) therapy for patients with marked oliguria, or those believed to have inadequate renal function.
-Such a test dose may be approximately 0.2 g/kg body weight (about 75 mL of a 20% solution or 100 mL of a 15% solution) infused in a period of three to five minutes to produce a urine flow of at least 30 to 50 mL/hour.
-If urine flow does not increase, a second test dose may be given; if there is an inadequate response, the patient should be reevaluated.
+Preparation
 
-Prevention of Acute Renal Failure (Oliguria): When used during cardiovascular and other types of surgery, 50 to 100 g of mannitol as a 5, 10, or 15% solution may be given.
-The concentration will depend upon the fluid requirements of the patient.
+1. 1.Tear overwrap down side at slit and remove solution container.
+2. 2.Visually inspect the container.
+   If the outlet port protector is damaged, detached, or not present, discard container as solution path sterility may be impaired.
+   Some opacity of the plastic due to moisture absorption during the sterilization process may be observed.
+   This is normal and does not affect the solution quality or safety.
+   The opacity will diminish gradually.
+3. 3.Check for minute leaks by squeezing inner bag firmly.
+   If leaks are found, discard solution as sterility may be impaired.
+4. 4.Admixing OSMITROL with other medications is not recommended.
+5. 5.Do not administer unless solution is clear and seal is intact.
+   Confirm the integrity of the bag.
+   Use only if the bag is not damaged.
+6. 6.Inspect OSMITROL visually for particulate matter and discoloration prior to administration.
+   If particulates or discoloration are present, discard the bag.
+7. 7.OSMITROL solutions may crystallize when exposed to low temperature.
+   At higher concentrations, the solutions have a greater tendency to crystallize.
+   Inspect OSMITROL for crystals prior to administration.
+   If crystals are visible, re-dissolve by warming the solution up to 70°C, with agitation.
+   Solutions should not be heated in water or in a microwave oven due to potential for product contamination or damage.
+   Allow the solution to cool to room or body temperature before re-inspection for crystals and use.
 
-Treatment of Oliguria: The usual dose for treatment of oliguria is 100 g administered as a 15 or 20% solution.
+Administration
 
-Reduction of Intraocular Pressure: A dose of 1.5 to 2.0 g/kg as a 20% solution (7.5 to 10 mL/kg) or as a 15% solution (10 to 13 mL/kg) may be given over a period as short as 30 minutes in order to obtain a prompt and maximal effect.
-When used preoperatively the dose should be given one to one and one-half hours before surgery to achieve maximal reduction of intraocular pressure before operation.
+1. 1.Suspend container from eyelet support.
+2. 2.Remove protector from outlet port at bottom of container.
+3. 3.Attach administration set.
+   Refer to complete directions accompanying set.
+4. 4.Use administration sets with a final in-line filter because of the potential for OSMITROL crystals to form.
+5. 5.Set the vent to the closed position on a vented intravenous administration set to prevent air embolism.
+6. 6.Use a dedicated line without any connections to avoid air embolism.
+7. 7.Do not pressurize the OSMITROL bag to increase the flow rate, as air embolism can result if the residual air in the container is not fully evacuated prior to administration.
+8. 8.For single use only; discard unused portion.
 
-Reduction of Intracranial Pressure: Usually a maximum reduction in intracranial pressure in adults can be achieved with a dose of 0.25 g/kg given not more frequently than every six to eight hours.
-An osmotic gradient between the blood and cerebrospinal fluid of approximately 10 mOsmol will yield a satisfactory reduction in intracranial pressure.
+## 2.2 Recommended Dosage
 
-Adjunctive Therapy for Intoxications: As an agent to promote diuresis in intoxications, 5%, 10%, 15% or 20% mannitol is indicated.
-The concentration will depend upon the fluid requirement and urinary output of the patient.
+Prior to administration of OSMITROL, evaluate renal, cardiac and pulmonary status of the patient and correct fluid and electrolyte imbalances.
 
-Measurement of glomerular filtration rate by creatinine clearance may be useful for determination of dosage.
+The total dosage, concentration, and rate of administration depend on the age, weight, and condition of the patient being treated, including fluid requirement, electrolyte balance, serum osmolality, urinary output, and concomitant therapy.
 
-All injections in VIAFLEX containers are intended for intravenous administration using sterile equipment.
+The following outline of administration and dosage is only a general guide to therapy.
 
-The use of supplemental additive medication is not recommended.
+Reduction of Intraocular Pressure
+
+The recommended dosage is 1.5 to 2 grams/kg of a 20% w/v solution (7.5 to 10 mL/kg) or as a 15% w/v solution (10 to 13 mL/kg) as a single dose administered intravenously over at least 30 minutes.
+When used preoperatively, administer OSMITROL sixty to ninety minutes before surgery to achieve maximal reduction of intraocular pressure before operation.
+
+Reduction of Intracranial Pressure
+
+Usually a maximum reduction in intracranial pressure can be achieved with a dose of 0.25 gram/kg given intravenously as an intravenous infusion over 30 minutes which may be repeated every six to eight hours.
+
+During and following OSMITROL infusion, monitor fluid and electrolytes, serum osmolarity, and renal, cardiac and pulmonary function.
+Discontinue OSMITROL if renal, cardiac, or pulmonary status worsens or CNS toxicity develops [see Warnings and Precautions (5.2, 5.3, 5.4, 5.5)].
