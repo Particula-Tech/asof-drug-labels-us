@@ -6,4 +6,7 @@ Clinistix is a registered trademark of Bayer Healthcare LLC.
 
 B. Braun Medical Inc. Bethlehem, PA 18018-3524 USA 1-800-227-2862
 
-Y36-002-906 LD-105-7
+Prepared in USA.
+API from USA and Italy.
+
+Y36-002-958 LD-105-8

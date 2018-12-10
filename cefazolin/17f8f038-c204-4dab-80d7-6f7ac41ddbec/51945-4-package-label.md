@@ -42,15 +42,16 @@ Do not freeze.
 
 Not made with natural rubber latex, PVC or DEHP.
 
-B. Braun Medical Inc.
-
-Bethlehem, PA 18018-3524
+B. Braun Medical Inc. Bethlehem, PA 18018-3524
 
 Rx only
 
-Produced in USA with API from Italy.
+Prepared in USA.
+API from USA and Italy.
 
-LD-201-6 Y37-002-511
+LD-201-7 Y37-002-541
+
+EXP LOT
 
 PEEL HERE
 
@@ -104,15 +105,16 @@ Do not freeze.
 
 Not made with natural rubber latex, PVC or DEHP.
 
-B. Braun Medical Inc.
-
-Bethlehem, PA 18018-3524
+B. Braun Medical Inc. Bethlehem, PA 18018-3524
 
 Rx only
 
-Produced in USA with API from Italy.
+Prepared in USA.
+API from USA and Italy.
 
-LD-200-3 Y37-002-507
+LD-200-4 Y37-002-542
+
+EXP LOT
 
 PEEL HERE
 

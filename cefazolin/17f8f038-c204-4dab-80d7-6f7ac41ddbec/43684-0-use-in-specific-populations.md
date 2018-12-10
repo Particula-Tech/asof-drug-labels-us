@@ -2,8 +2,6 @@
 
 ## 8.1 Pregnancy
 
-### Pregnancy Category B
-
 Reproduction studies have been performed in rats, mice and rabbits at doses of 2000, 4000 and 240 mg/kg/day or 1-3 times the maximum recommended human dose on a body surface area basis.
 There was no evidence of impaired fertility or harm to the fetus due to cefazolin.
 
