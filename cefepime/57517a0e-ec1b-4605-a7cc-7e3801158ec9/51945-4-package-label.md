@@ -41,15 +41,14 @@ Do not freeze.
 Not made with natural rubber latex, PVC or DEHP.
 Rx only
 
-B. Braun Medical Inc.
+B. Braun Medical Inc. Bethlehem, PA 18018-3524
 
-Y37-002-509 LD-210-5
+Y37-002-555 LD-210-6
 
-LOT EXP
+EXP LOT
 
-Produced in USA with API from Brazil.
-
-# ​
+Prepared in USA.
+API from USA and Brazil.
 
 PRINCIPAL DISPLAY PANEL - 2g / 50mL Container Label
 
@@ -94,10 +93,25 @@ Do not freeze.
 Not made with natural rubber latex, PVC or DEHP.
 Rx only
 
-B. Braun Medical Inc.
+B. Braun Medical Inc. Bethlehem, PA 18018-3524
 
-Y37-002-510 LD-211-5
+Y37-002-556 LD-211-6
 
-LOT EXP
+EXP LOT
 
-Produced in USA with API from Brazil.
+Prepared in USA.
+API from USA and Brazil.
+
+Display Panel - Drug Chamber Barrier
+
+PEEL HERE
+
+Drug Chamber
+
+Discard unit if foil strip is damaged.
+Peel foil strip only when ready for use.
+Visually inspect drug prior to reconstitution.
+
+See package insert for complete directions for reconstitution and administration.
+
+LD-336-1 X27-001-485
