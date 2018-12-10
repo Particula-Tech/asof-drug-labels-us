@@ -10,7 +10,7 @@ IL-6 is also produced by synovial and endothelial cells leading to local product
 ## 12.2 Pharmacodynamics
 
 In clinical studies in RA patients with the 4 mg per kg and 8 mg per kg intravenous doses or the 162 mg weekly and every other weekly subcutaneous doses of ACTEMRA, decreases in levels of C-reactive protein (CRP) to within normal ranges were seen as early as week 2.
-Changes in pharmacodynamic parameters were observed (i.e., decreases in rheumatoid factor, erythrocyte sedimentation rate (ESR), serum amyloid A and increases in hemoglobin) with doses, however the greatest improvements were observed with 8 mg per kg ACTEMRA.
+Changes in pharmacodynamic parameters were observed (i.e., decreases in rheumatoid factor, erythrocyte sedimentation rate (ESR), serum amyloid A, fibrinogen and increases in hemoglobin) with doses, however the greatest improvements were observed with 8 mg per kg ACTEMRA.
 Pharmacodynamic changes were also observed to occur after ACTEMRA administration in GCA, PJIA, and SJIA patients (decreases in CRP, ESR, and increases in hemoglobin).
 The relationship between these pharmacodynamic findings and clinical efficacy is not known.
 
@@ -131,9 +131,7 @@ In rheumatoid arthritis patients the central volume of distribution was 3.5 L an
 
 In GCA patients, the central volume of distribution was 4.09 L, the peripheral volume of distribution was 3.37 L resulting in a volume of distribution at steady state of 7.46 L.
 
-In pediatric patients with PJIA, the central volume of distribution was 1.98 L, the peripheral volume of
-
-distribution was 2.1 L, resulting in a volume of distribution at steady state of 4.08 L.
+In pediatric patients with PJIA, the central volume of distribution was 1.98 L, the peripheral volume of distribution was 2.1 L, resulting in a volume of distribution at steady state of 4.08 L.
 
 In pediatric patients with SJIA, the central volume of distribution was 1.87 L, the peripheral volume of distribution was 2.14 L resulting in a volume of distribution at steady state of 4.01 L.
 

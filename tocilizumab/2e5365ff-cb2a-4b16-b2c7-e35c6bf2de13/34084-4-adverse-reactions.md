@@ -147,11 +147,11 @@ Adverse reactions occurring in 2% or more of patients on 4 or 8 mg per kg ACTEMR
 
 Table 2 Adverse Reactions Occurring in at Least 2% or More of Patients on 4 or 8 mg per kg ACTEMRA plus DMARD and at Least 1% Greater Than That Observed in Patients on Placebo plus DMARD
 
-| Upper Respiratory Tract Infection | 7 | 5 | 6 | 8 | 6 |
+| Preferred Term | N = 288 (%) | N = 284 (%) | N = 774 (%) | N = 1582 (%) | N = 1170 (%) |
 | --- | --- | --- | --- | --- | --- |
 | 24 Week Phase 3 Controlled Study Population |  |  |  |  |  |
 |  | ACTEMRA 8 mg per kg MONOTHERAPY | Methotrexate | ACTEMRA 4 mg per kg + DMARDs | ACTEMRA 8 mg per kg + DMARDs | Placebo + DMARDs |
-| Preferred Term | N = 288 (%) | N = 284 (%) | N = 774 (%) | N = 1582 (%) | N = 1170 (%) |
+| Upper Respiratory Tract Infection | 7 | 5 | 6 | 8 | 6 |
 | Nasopharyngitis | 7 | 6 | 4 | 6 | 4 |
 | Headache | 7 | 2 | 6 | 5 | 3 |
 | Hypertension | 6 | 2 | 4 | 4 | 3 |
@@ -413,3 +413,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Fatal anaphylaxis [see Warnings and Precautions (5.5)]
 - Stevens-Johnson Syndrome
 - Pancreatitis
+- Hypofibrinogenemia

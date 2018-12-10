@@ -94,3 +94,35 @@ Each Prefilled Syringe Contains: 162 mg/0.9 mL
 Genentech
 
 10203139
+
+# PRINCIPAL DISPLAY PANEL - 0.9 mL Syringe Box - 143
+
+NDC 50242-143-01
+
+Actemra® ACTPen™
+
+(tocilizumab) Injection
+
+162 mg / 0.9 mL
+
+For Subcutaneous Injection Only
+
+Sterile
+
+ATTENTION PHARMACIST: Each patient is required to receive the enclosed Medication Guide.
+
+Refrigerate Immediately
+
+Rx only
+
+CAUTION
+
+Injection is complete only when the purple indicator stops moving.
+This may take up to 10 seconds.
+Refer to instructions for use.
+
+1 Single-dose Autoinjector Discard Unused or Expired Portion
+
+Genentech
+
+10182365
