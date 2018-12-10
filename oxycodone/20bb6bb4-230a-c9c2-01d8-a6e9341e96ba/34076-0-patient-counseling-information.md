@@ -9,17 +9,17 @@ Instruct patients not to share oxycodone hydrochloride tablets with others and t
 
 Life-Threatening Respiratory Depression
 
-Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting oxycodone hydrochloride tablets or when the dosage is increased, and that it can occur even at recommended dosages [see Warnings and Precautions (5.2)].
+Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting oxycodone hydrochloride tablets or when the dosage is increased, and that it can occur even at recommended dosages [see Warnings and Precautions (5.3)].
 Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.
 
 Accidental Ingestion
 
-Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.2)].
+Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.3)].
 Instruct patients to take steps to store oxycodone hydrochloride tablets securely and to dispose of unused oxycodone hydrochloride tablets by flushing the tablets down the toilet or disposing of in accordance with local state guidelines and/or regulations.
 
 Interactions with Benzodiazepines and Other CNS Depressants
 
-Inform patients and caregivers that potentially fatal additive effects may occur if oxycodone hydrochloride tablets are used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.5), Drug Interactions (7)].
+Inform patients and caregivers that potentially fatal additive effects may occur if oxycodone hydrochloride tablets are used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.6), Drug Interactions (7)].
 
 Serotonin Syndrome
 
@@ -36,17 +36,17 @@ Adrenal Insufficiency
 
 Inform patients that opioids could cause adrenal insufficiency, a potentially life-threatening condition.
 Adrenal insufficiency may present with non-specific symptoms and signs such as nausea, vomiting, anorexia, fatigue, weakness, dizziness and low blood pressure.
-Advise patients to seek medical attention if they experience a constellation of these symptoms [see Warnings and Precautions (5.7)].
+Advise patients to seek medical attention if they experience a constellation of these symptoms [see Warnings and Precautions (5.8)].
 
 Important Administration Instructions
 
 Instruct patients how to properly take oxycodone hydrochloride tablets.
-Patients should be advised not to adjust the dose of oxycodone hydrochloride tablets without consulting the prescribing healthcare provider [see Dosage and Administration (2), Warnings and Precautions (5.12)].
+Patients should be advised not to adjust the dose of oxycodone hydrochloride tablets without consulting the prescribing healthcare provider [see Dosage and Administration (2), Warnings and Precautions (5.13)].
 
 Hypotension
 
 Inform patients that oxycodone hydrochloride tablets may cause orthostatic hypotension and syncope.
-Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from sitting or lying position) [see Warnings and Precautions (5.8)].
+Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from sitting or lying position) [see Warnings and Precautions (5.9)].
 
 Anaphylaxis
 
@@ -76,7 +76,7 @@ It is not known whether these effects on fertility are reversible [see Use in Sp
 Driving or Operating Machinery
 
 Inform patients that oxycodone hydrochloride tablets may impair the ability to perform potentially hazardous activities such as driving a car or operating dangerous machinery.
-Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.13)].
+Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.14)].
 
 Constipation
 
@@ -92,4 +92,4 @@ Distributed by: Alvogen, Inc. Pine Brook, NJ 07058 USA
 
 To request medical information or to report suspected adverse reactions, contact Alvogen, Inc. at 1-866-770-3024.
 
-Revised: 02/2018 PI263-03
+Revised: 10/2018 PI263-04
