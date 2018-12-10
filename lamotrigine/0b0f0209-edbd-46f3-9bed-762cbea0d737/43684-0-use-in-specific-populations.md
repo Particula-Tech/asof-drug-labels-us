@@ -24,9 +24,7 @@ Maternal toxicity was observed at the 2 highest doses tested.
 
 Lamotrigine decreases fetal folate concentrations in rat, an effect known to be associated with adverse pregnancy outcomes in animals and humans.
 
-Pregnancy Registry
-
-To provide information regarding the effects of in utero exposure to Lamotrigine tablets, physicians are advised to recommend that pregnant patients taking Lamotrigine tablets enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
+Pregnancy Registry To provide information regarding the effects of in utero exposure to Lamotrigine tablets, physicians are advised to recommend that pregnant patients taking Lamotrigine tablets enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
 This can be done by calling the toll-free number 1-888-233-2334 and must be done by patients themselves.
 Information on the registry can also be found at the website http://www.aedpregnancyregistry.org.
 
@@ -36,7 +34,7 @@ The effect of lamotrigine tablets on labor and delivery in humans is unknown.
 
 ## 8.3 Nursing Mothers
 
-Lamotrigine is present in milk from lactating women taking Lamotrigine Tablets.
+Lamotrigine is present in milk from lactating women taking Lamotrigine tablets.
 Data from multiple small studies indicate that lamotrigine plasma levels in human milk-fed infants have been reported to be as high as 50% of the maternal serum levels.
 Neonates and young infants are at risk for high serum levels because maternal serum and milk levels can rise to high levels postpartum if lamotrigine dosage has been increased during pregnancy but not later reduced to the pre-pregnancy dosage.
 Lamotrigine exposure is further increased due to the immaturity of the infant glucuronidation capacity needed for drug clearance.
@@ -44,19 +42,19 @@ Events including apnea, drowsiness, and poor sucking have been reported in infan
 Human milk-fed infants should be closely monitored for adverse events resulting from lamotrigine.
 Measurement of infant serum levels should be performed to rule out toxicity if concerns arise.
 Human milk-feeding should be discontinued in infants with lamotrigine toxicity.
-Caution should be exercised when Lamotrigine Tablets are administered to a nursing woman.
+Caution should be exercised when Lamotrigine tablets are administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
 Epilepsy Lamotrigine is indicated as adjunctive therapy in patients aged 2 years and older for partial-onset seizures, the generalized seizures of Lennox-Gastaut syndrome, and PGTC seizures.
 
-Safety and efficacy of Lamotrigine used as adjunctive treatment for partial-onset seizures were not demonstrated in a small, randomized, double-blind, placebo-controlled withdrawal trial in very young pediatric patients (aged 1 to 24 months).
+Safety and efficacy of lamotrigine used as adjunctive treatment for partial-onset seizures were not demonstrated in a small, randomized, double-blind, placebo-controlled withdrawal trial in very young pediatric patients (aged 1 to 24 months).
 Lamotrigine was associated with an increased risk for infectious adverse reactions (lamotrigine 37%, placebo 5%), and respiratory adverse reactions (Lamotrigine 26%, placebo 5%).
 Infectious adverse reactions included bronchiolitis, bronchitis, ear infection, eye infection, otitis externa, pharyngitis, urinary tract infection, and viral infection.
 Respiratory adverse reactions included nasal congestion, cough, and apnea.
 
-Additional information describing a clinical study in which efficacy was not demonstrated in pediatric patients ages 10 to 17 years is approved for GlaxoSmithKline LLC’s LAMICTAL® (lamotrigine) products.
-However, due to GlaxoSmithKline LLC’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Bipolar Disorder Safety and efficacy of lamotrigine for the maintenance treatment of bipolar disorder were not established in a double-blind, randomized withdrawal, placebo-controlled trial that evaluated 301 pediatric patients aged 10 to 17 years with a current manic/hypomanic, depressed, or mixed mood episode as defined by DSM-IV-TR.
+In the randomized phase of the trial, adverse reactions that occurred in at least 5% of patients taking lamotrigine (n = 87) and were twice as common compared with patients taking placebo (n = 86) were influenza (lamotrigine 8%, placebo 2%), oropharyngeal pain (lamotrigine 8%, placebo 2%), vomiting (lamotrigine 6%, placebo 2%), contact dermatitis (lamotrigine 5%, placebo 2%), upper abdominal pain (lamotrigine 5%, placebo 1%), and suicidal ideation (lamotrigine 5%, placebo 0%).
 
 Juvenile Animal Data In a juvenile animal study in which lamotrigine (oral doses of 5, 15, or 30 mg/kg) was administered to young rats (postnatal days 7 to 62), decreased viability and growth were seen at the highest dose tested and long-term behavioral abnormalities (decreased locomotor activity, increased reactivity, and learning deficits in animals tested as adults) were observed at the 2 highest doses.
 The no-effect dose for adverse effects on neurobehavioral development is less than the human dose of 400 mg/day on a mg/m2 basis.

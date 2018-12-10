@@ -38,7 +38,7 @@ When the first 12 weeks of the treatment periods were analyzed, the median chang
 
 The third trial (n = 41) was a double-blind, placebo-controlled, crossover trial consisting of two 12-week treatment periods separated by a 4-week washout period.
 Patients could not be on more than 2 other anticonvulsants.
-Thirteen patients were on concomitant valproate; these patients received 150 mg/day of Lamotrigine.
+Thirteen patients were on concomitant valproate; these patients received 150 mg/day of lamotrigine.
 The 28 other patients had a target dose of 300 mg/day of lamotrigine.
 The median change in seizure frequency was a 26% reduction on lamotrigine compared with placebo (P<0.01).
 
