@@ -3,7 +3,7 @@
 Ibuprofen Lysine is a clear sterile preservative-free solution of the L-lysine salt of (±)-ibuprofen which is the active ingredient.
 (±)-Ibuprofen is a nonsteroidal anti-inflammatory agent (NSAID).
 L-lysine is used to create a water-soluble drug product salt suitable for intravenous administration.
-Each mL of Ibuprofen Lysine contains 17.1 mg of ibuprofen lysine (equivalent to 10 mg of (±)-ibuprofen) in Water for Injection, USP.
+Each mL of Ibuprofen Lysine contains 17.1 mg of Ibuprofen Lysine (equivalent to 10 mg of (±)-ibuprofen) in Water for Injection, USP.
 The pH is adjusted to 7.0 with sodium hydroxide or hydrochloric acid.
 
 The structural formula is:

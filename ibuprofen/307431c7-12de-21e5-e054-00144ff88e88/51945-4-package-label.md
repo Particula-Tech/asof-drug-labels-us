@@ -6,7 +6,9 @@ Rx Only
 
 PRASCO Ibuprofen Lysine Injection
 
-10 mg/mL Sterile Solution for IV Use Only
+20 mg/2mL
+
+(10 mg/mL) Sterile Solution for IV Use Only
 
 Each mL contains: Ibuprofen 10 mg (as ibuprofen lysine) in Water for Injection, USP.
 Dilute to an appropriate volume with dextrose or saline.
