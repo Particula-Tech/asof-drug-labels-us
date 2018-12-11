@@ -6,11 +6,11 @@ Sterile
 
 Gemcitabine for Injection, USP
 
-2 g Rx only
+2 g
 
-(lyophilized) For Intravenous Use Only
+Rx only
 
-Caution: Cytotoxic Agent
+(lyophilized) For Intravenous Use Only Caution: Cytotoxic Agent
 
 # PRINCIPAL DISPLAY PANEL - 2 g Vial Carton
 
