@@ -7,9 +7,10 @@ The following adverse reactions are discussed in greater detail in other section
 - Impulse Control / Compulsive Behaviors [see Warnings and Precautions (5.3)]
 - Hallucinations and Psychotic-like Behavior [see Warnings and Precautions (5.4)]
 - Dyskinesia [see Warnings and Precautions (5.5)]
-- Rhabdomyolysis [see Warnings and Precautions (5.7)]
-- Retinal Pathology [see Warnings and Precautions (5.8)]
-- Events Reported with Dopaminergic Therapy [see Warnings and Precautions (5.9)]
+- Postural Deformity [see Warnings and Precautions (5.6)]
+- Rhabdomyolysis [see Warnings and Precautions (5.8)]
+- Retinal Pathology [see Warnings and Precautions (5.9)]
+- Events Reported with Dopaminergic Therapy [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -130,7 +131,18 @@ Other adverse reactions in clinical studies involving pramipexole dihydrochlorid
 The following adverse reactions have been identifiedduring post-approval use of pramipexole dihydrochlorideimmediate-release tablets or pramipexole dihydrochlorideextended-release tablets, primarily in Parkinson’s diseasepatients.
 Because these reactions are reported voluntarilyfrom a population of uncertain size, it is not alwayspossible to reliably estimate their frequency or establish acausal relationship to drug exposure.
 Decisions to includethese reactions in labeling are typically based on one ormore of the following factors: (1) seriousness of thereaction, (2) frequency of reporting, or (3) strength ofcausal connection to pramipexole tablets.
-Similar types ofreactions were grouped into a smaller number ofstandardized categories using the MedDRA terminology:cardiac failure, inappropriate antidiuretic hormonesecretion (SIADH), skin reactions (including erythema,rash, pruritus, urticaria), syncope, vomiting, and weightincrease.skin reactions (including erythema,rash, pruritus, urticaria), syncope, vomiting, and weightincrease.
+
+Cardiac Disorders: cardiac failure
+
+Gastrointestinal Disorders: vomiting
+
+Metabolism and Nutrition Disorders: syndrome of inappropriate antidiuretic hormone secretion (SIADH), weight increase
+
+Musculoskeletal and Connective Tissue Disorders: postural deformity [see Warnings and Precautions (5.6)]
+
+Nervous System Disorders: syncope
+
+Skin and Subcutaneous Tissue Disorders: skin reactions (including erythema, rash, pruritus, urticaria)
 
 There are postmarketing reports of patients noticing tablet residue in their stool that resembles a swollen pramipexole dihydrochloride extended-release whole tablet or swollen pieces of the tablet.
 Some patients have reported worsening of their Parkinson’s disease symptoms when tablet residue was observed.

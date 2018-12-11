@@ -110,10 +110,9 @@ If you have hallucinations or other psychotic-like changes, talk with your docto
 
 - uncontrolled sudden movements (dyskinesia).
   If you have new dyskinesia, or your existing dyskinesia gets worse, tell your doctor.
-- skin cancer (melanoma).
-  Some people with Parkinson’s disease may have a higher chance of having melanoma than people who do not have Parkinson’s disease.
-  It is not known if the chance of having melanoma is higher because of the medicines to treat Parkinson’s disease, like pramipexole dihydrochloride extended-release tablets, or from the Parkinson’s disease.
-  People who take pramipexole dihydrochloride extended-release tablets should have regular skin examinations to check for melanoma.
+- posture changes.
+  Talk with your doctor if you have posture changes you cannot control.
+  These may include your neck bending forward, bending forward at the waist, or tilting sideways when you sit, stand, or walk.
 
 The most common side effects in people taking pramipexole dihydrochloride extended-release tablets for early Parkinson’s disease are:
 
@@ -166,4 +165,6 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 0218
+Revised: 0618
+
+Dispense with Patient Information Sheet available at: www.drreddys.com/pi/pramipexoletabs.pdf

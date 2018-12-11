@@ -20,7 +20,7 @@ Because of pregnancy disruption and early embryonic loss in this study, the tera
 The highest no-effect dose for embryolethality in rats was associated with maternal plasma drug exposures (AUC) approximately equal to those in humans receiving the maximum recommended human dose (MRHD) of 4.5 mg/day.
 There were no adverse effects on embryo-fetal development following oral administration of pramipexole (0.1, 1, or 10 mg/kg/day) to pregnant rabbits during organogenesis (plasma AUC up to approximately 70 times that in humans at the MRHD).
 Postnatal growth was inhibited in the offspring of rats treated with pramipexole (0.1, 0.5, or 1.5 mg/kg/day) during the latter part of pregnancy and throughout lactation.
-The no-effect dose for adverse effects on offspring growth (0.1 mg/kg/day) was associated with maternal plasma drug esposure lower than that in humans at the MRHD.
+The no-effect dose for adverse effects on offspring growth (0.1 mg/kg/day) was associated with maternal plasma drug esposures lower than that in humans at the MRHD.
 
 ## 8.2 Lactation
 
@@ -34,7 +34,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 Data
 
-In a study of radiolabeled pramipexole, pramipexole or metabolites, or both, were present in rat milk at concentrations three to six times higher than those in maternal plasma.
+In a study of radio-labeled pramipexole, pramipexole or metabolites, or both, were present in rat milk at concentrations three to six times higher than those in maternal plasma.
 
 ## 8.4 Pediatric Use
 
@@ -50,4 +50,4 @@ Among patients receiving pramipexole dihydrochloride extended-release tablets, h
 ## 8.6 Renal Impairment
 
 The elimination of pramipexole is dependent upon renal function.
-Pramipexole clearance is extremely low in dialysis patients, as a negligible amount of pramipexole is removed by dialysis [see Dosage and Administration (2.2), Warnings and Precautions (5.6), and Clinical Pharmacology (12.3)].
+Pramipexole clearance is extremely low in dialysis patients, as a negligible amount of pramipexole is removed by dialysis [see Dosage and Administration (2.2), Warnings and Precautions (5.7), and Clinical Pharmacology (12.3)].

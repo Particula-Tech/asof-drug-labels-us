@@ -1,5 +1,7 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL SECTION
 
+Unvarnished Area Consists of: 2D Barcode, Lot Number, Expiry Date and Serial Number
+
 Container Label 0.375 mg - 30's count:
 
 Container Label 0.75 mg - 30's count:

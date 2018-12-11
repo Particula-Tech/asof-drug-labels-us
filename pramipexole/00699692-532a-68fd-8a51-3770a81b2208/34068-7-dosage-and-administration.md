@@ -20,7 +20,7 @@ Patients should be assessed for therapeutic response and tolerability at a minim
 Due to the flexible dose design used in clinical trials, specific dose-response information could not be determined [see Clinical Studies (14)].
 
 Pramipexole dihydrochloride extended-release tablets may be tapered off at a rate of 0.75 mg per day until the daily dose has been reduced to 0.75 mg.
-Thereafter, the dose may be reduced by 0.375 mg per day [see Warnings and Precautions (5.9)].
+Thereafter, the dose may be reduced by 0.375 mg per day [see Warnings and Precautions (5.10)].
 
 Dosing in Patients with Renal Impairment:
 
@@ -32,5 +32,5 @@ Pramipexole dihydrochloride extended-release tablets have not been studied in pa
 
 ## 2.3 Switching from Immediate-Release Pramipexole Tablets to Extended-Release Pramipexole Tablets
 
-Patients may be switched overnight from immediate-release pramipexole tablets to extended-release pramipexole tablets at the same daily dose.
+Patients with Parkinson’s disease may be switched overnight from immediate-release pramipexole tablets to extended-release pramipexole tablets at the same daily dose.
 When switching between immediate-release pramipexole tablets and extended-release pramipexole tablets, patients should be monitored to determine if dosage adjustment is necessary.
