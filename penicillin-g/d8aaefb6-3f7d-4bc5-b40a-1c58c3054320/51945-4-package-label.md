@@ -30,9 +30,9 @@ NDC 0049-0530-28 Rx only
 
 Buffered Pfizerpen® (penicillin G potassium, USP)
 
-20,000,000 Units* per vial (Twenty million units* per vial)
+20,000,000 Units* per vial
 
-Intramuscular or Intravenous Use
+(Twenty million units* per vial) For Intravenous Infusion Only
 
 Pfizer Injectables
 
@@ -46,6 +46,6 @@ Pfizerpen® (penicillin G potassium, USP)
 
 20,000,000 Units* per vial (Twenty million units* per vial)
 
-Intramuscular or Intravenous Use
+For Intravenous Infusion Only
 
 Pfizer Injectables
