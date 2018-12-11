@@ -2,13 +2,15 @@
 
 There have been reports of hepatic dysfunction, with or without jaundice occurring in patients receiving oral erythromycin products.
 
-Clostridium difficile associated diarrhea (CDAD) has been reported with the use of nearly all antibacterial agents, including erythromycin, and may range in severity from mild diarrhea to fatal colitis.
-Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
+Rhabdomyolysis with or without renal impairment has been reported in seriously ill patients receiving erythromycin concomitantly with statins.
 
-C. difficile produces toxins A and B which contribute to the development of CDAD.
+Clostridium difficile-associated diarrhea (CDAD) has been reported with the use of nearly all antibacterial agents, including erythromycin, and may range in severity from mild diarrhea to fatal colitis.
+Treatment with antibacterial agents alters the normal flora of the colon, leading to overgrowth of C. difficile.
+
+C. difficile produces toxins A and B, which contribute to the development of CDAD.
 Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
 CDAD must be considered in all patients who present with diarrhea following antibiotic use.
-Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
+Careful medical history is necessary since CDAD has been reported to occur over 2 months after the administration of antibacterial agents.
 
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
@@ -16,6 +18,9 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 Life-threatening episodes of ventricular tachycardia associated with prolonged QT intervals (torsades de pointes) have been reported in some patients after intravenous administration of erythromycin lactobionate.
 
 Susceptibility to the development of torsades de pointes arrhythmias, a rare but serious cardiac condition, is related to electrolyte imbalance, hepatic dysfunction, myocardial ischemia, left ventricular dysfunction, idiopathic Q-T prolongation, and concurrent antiarrhythmic therapy.3 Elderly patients exhibit a greater frequency of decreased hepatic function, cardiac function, and of concomitant disease and other drug therapy, and therefore should be monitored carefully during ErythrocinTM therapy.
+
+There have been reports of infantile hypertrophic pyloric stenosis (IHPS) occurring in infants following erythromycin therapy.
+Since erythromycin may be used in the treatment of conditions in infants which are associated with significant mortality or morbidity (such as pertussis or chlamydia), the benefit of erythromycin therapy needs to be weighed against the potential risk of developing IHPS.
 
 # PRECAUTIONS
 
@@ -48,7 +53,11 @@ Erythromycin administration in patients receiving carbamazepine has been reporte
 
 Concomitant administration of erythromycin and digoxin has been reported to result in elevated serum digoxin levels.
 
-There have been reports of increased anticoagulant effects when erythromycin and oral anticoagulants were used concomitantly.
+There have been reports of increased anticoagulant effects, which may be more pronounced in elderly when erythromycin and oral anticoagulants (e.g., warfarin) are used concomitantly.
+
+Erythromycin has been reported to decrease the clearance of triazolam, midazolam and related benzodiazepines, and thus may increase the pharmacological effect of these benzodiazepines.
+
+Post-marketing reports indicate that co-administration of erythromycin with ergotamine or dihydroergotamine has been associated with acute ergot toxicity characterized by vasospasm and ischemia of the central nervous system, extremities and other tissues.
 
 Erythromycin has been reported to significantly alter the metabolism of the nonsedating antihistamines, terfenadine and astemizole, when taken concomitantly.
 Rare cases of serious cardiovascular adverse events, including electrocardiographic QT/QTc interval prolongation, cardiac arrest, torsades de pointes, and other ventricular arrhythmias, have been observed (See CONTRAINDICATIONS).
@@ -57,6 +66,12 @@ In addition, deaths have been reported rarely with concomitant administration of
 The use of erythromycin in patients concurrently taking drugs metabolized by the cytochrome P450 system may be associated with elevations in serum levels of these other drugs.
 There have been reports of interactions of erythromycin with carbamazepine, cyclosporine, hexobarbital, phenytoin, alfentanil, disopyramide, bromocriptine, valproate, terfenadine, and astemizole.
 Serum concentrations of drugs metabolized by the cytochrome P450 system should be monitored closely in patients concurrently receiving erythromycin.
+
+Hypotension, bradyarrhythmias and lactic acidosis have been observed in patients receiving concurrent verapamil, a calcium-channel blocker.
+
+Cimetidine may inhibit the metabolism of erythromycin, which may lead to an increased plasma concentration.
+
+Erythromycin has been reported to decrease the clearance of zopiclone and thus may increase the pharmacodynamic effects of this drug.
 
 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
