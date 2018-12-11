@@ -2,7 +2,7 @@
 
 The safety and efficacy of carisoprodol for the relief of acute, idiopathic mechanical low back pain was evaluated in two, 7-day, double-blind, randomized, multicenter, placebo-controlled, U.S. trials (Studies 1 and 2).
 Patients had to be 18 to 65 years old and had to have acute back pain (≤ 3 days of duration) to be included in the trials.
-Patients with chronic back pain; at increased risk for vertebral fracture (e.g., history of osteoporosis); with a history of spinal pathology (e.g., herniated nucleus pulposis, spondylolisthesis or spinal stenosis); with inflammatory back pain, or with evidence of a neurologic deficit were excluded from participation.
+Patients with chronic back pain; at increased risk for vertebral fracture (e.g., history of osteoporosis); with a history of spinal pathology (e.g., herniated nucleus pulposus, spondylolisthesis or spinal stenosis); with inflammatory back pain, or with evidence of a neurologic deficit were excluded from participation.
 Concomitant use of analgesics (e.g., acetaminophen, NSAIDs, tramadol, opioid agonists), other muscle relaxants, botulinum toxin, sedatives (e.g., barbiturates, benzodiazepines, promethazine hydrochloride), and anti-epileptic drugs was prohibited.
 
 In Study 1, patients were randomized to one of three treatment groups (i.e., carisoprodol 250 mg, carisoprodol 350 mg, or placebo) and in Study 2 patients were randomized to two treatment groups (i.e., carisoprodol 250 mg or placebo).

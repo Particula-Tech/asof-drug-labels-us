@@ -4,8 +4,8 @@
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect rates observed in practice.
 
-The data described below are based on 1,387 patients pooled from two double-blind, randomized, multicenter, placebo-controlled, one-week trials in adult patients with acute, mechanical, lower back pain [see Clinical Studies (14)].
-In these studies, patients were treated with 250 mg of carisoprodol, 350 mg of carisoprodol, or placebo three times a day and at bedtime for 7 days.
+The data described below are based on 1387 patients pooled from two double-blind, randomized, multicenter, placebo-controlled, one-week trials in adult patients with acute, mechanical, lower back pain [see Clinical Studies (14)].
+In these studies, patients were treated with 250 mg of carisoprodol, 350 mg of carisoprodol, or placebo three times a day and at bedtime for seven days.
 The mean age was about 41 years old with 54% females and 46% males and 74% Caucasian, 16% Black, 9% Asian, and 2% other.
 
 There were no deaths and there were no serious adverse reactions in these two trials.
@@ -33,4 +33,4 @@ Central Nervous System: Drowsiness, dizziness, vertigo, ataxia, tremor, agitatio
 
 Gastrointestinal: Nausea, vomiting, and epigastric discomfort.
 
-Hematologic: Leukopenia, pancytopenia.
+Hematologic: Leukopenia, pancytopenia
