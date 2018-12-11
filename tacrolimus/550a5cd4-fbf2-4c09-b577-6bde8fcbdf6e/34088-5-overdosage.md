@@ -6,7 +6,7 @@ Overdosage adverse reactions included:
 - •nervous system disorders (tremor, headache, confusional state, balance disorders, encephalopathy, lethargy and somnolence)
 - •gastrointestinal disturbances (nausea, vomiting, and diarrhea)
 - •abnormal renal function (increased blood urea nitrogen and elevated serum creatinine)
-- •urticarial
+- •urticaria
 - •hypertension
 - •peripheral edema, and
 - •infections [one fatal postmarketing case of bilateral pneumopathy and CMV infection was attributed to tacrolimus (extended-release) overdose].

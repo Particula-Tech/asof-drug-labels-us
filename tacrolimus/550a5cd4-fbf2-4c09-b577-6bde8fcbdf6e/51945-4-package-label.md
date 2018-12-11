@@ -1,4 +1,4 @@
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 0.5 mg bottle label
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 0.5 mg carton label
 
 NDC 0469-0647-73
 
@@ -8,12 +8,11 @@ Astagraf XL® (tacrolimus extended-release capsules)
 
 ONCE-DAILY
 
-Swallow capsule whole.
-Do not cut, crush, or chew capsule.
-
 30 Capsules
 
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 1 mg bottle label
+Rx Only
+
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 1 mg carton label
 
 NDC 0469-0677-73
 
@@ -23,12 +22,11 @@ Astagraf XL® (tacrolimus extended-release capsules)
 
 ONCE-DAILY
 
-Swallow capsule whole.
-Do not cut, crush, or chew capsule.
-
 30 Capsules
 
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 5 mg bottle label
+Rx Only
+
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 5 mg carton label
 
 NDC 0469-0687-73
 
@@ -38,7 +36,6 @@ Astagraf XL® (tacrolimus extended-release capsules)
 
 ONCE-DAILY
 
-Swallow capsule whole.
-Do not cut, crush, or chew capsule.
-
 30 Capsules
+
+Rx Only
