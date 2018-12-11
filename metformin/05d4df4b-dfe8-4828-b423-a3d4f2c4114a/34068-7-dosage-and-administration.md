@@ -1,80 +1,27 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-There is no fixed dosage regimen for the management of hyperglycemia in patients with type 2 diabetes with RIOMET or any other pharmacologic agent.
-Dosage of RIOMET must be individualized on the basis of both effectiveness and tolerance, while not exceeding the maximum recommended daily doses.
-The maximum recommended daily dose of RIOMET is 2550 mg (25.5 mL) in adults and 2000 mg (20 mL) in pediatric patients (10 to 16 years of age).
+## 2.1 Adult Dosage
 
-RIOMET should be given in divided doses with meals.
-RIOMET should be started at a low dose, with gradual dose escalation, both to reduce gastrointestinal side effects and to permit identification of the minimum dose required for adequate glycemic control of the patient.
-During treatment initiation and dose titration (see Recommended Dosing Schedule), fasting plasma glucose should be used to determine the therapeutic response to RIOMET and identify the minimum effective dose for the patient.
-Thereafter, glycosylated hemoglobin should be measured at intervals of approximately three months.
-The therapeutic goal should be to decrease both fasting plasma glucose and glycosylated hemoglobin levels to normal or near normal by using the lowest effective dose of RIOMET, either when used as monotherapy or in combination with sulfonylurea or insulin.
+- •Measure the RIOMET dose in the RIOMET specific dosing cup.
+- •The recommended starting dose of RIOMET is 500 mg (5 mL) orally twice a day or 850 mg (8.5 mL) once a day, given with meals.
+- •Increase the dose in increments of 500 mg (5 mL) weekly or 850 mg (8.5 mL) every 2 weeks on the basis of glycemic control and tolerability, up to a maximum dose of 2,550 mg (25.5 mL) per day, given in divided doses.
+- •Doses above 2,000 mg (20 mL) may be better tolerated given in divided doses 3 times a day with meals.
 
-Monitoring of blood glucose and glycosylated hemoglobin will also permit detection of primary failure, i.e., inadequate lowering of blood glucose at the maximum recommended dose of medication, and secondary failure, i.e., loss of an adequate blood glucose lowering response after an initial period of effectiveness.
+## 2.2 Pediatric Dosage
 
-Short-term administration of RIOMET may be sufficient during periods of transient loss of control in patients usually well-controlled on diet alone.
+- •Measure the RIOMET dose in the RIOMET specific dosing cup.
+- •The recommended starting dose of RIOMET for pediatric patients 10 years of age and older is 500 mg (5 mL) orally twice a day, given with meals.
+- •Increase dosage in increments of 500 mg (5 mL) weekly on the basis of glycemic control and tolerability, up to a maximum of 2,000 mg (20 mL) per day, given in divided doses twice daily.
 
-## Recommended Dosing Schedule
+## 2.3 Recommendations for Use in Renal Impairment
 
-Adults - The usual starting dose of RIOMET (metformin hydrochloride oral solution) is 500 mg (5 mL) twice a day or 850 mg (8.5 mL) once a day, given with meals.
-In general, clinically significant responses are not seen at doses below 1500 mg per day.
-Dosage increases should be made in increments of 500 mg (5 mL) weekly or 850 mg (8.5 mL) every 2 weeks, up to a total of 2000 mg (20 mL) per day, given in divided doses.
-The dosage of RIOMET must be individualized on the basis of both effectiveness and tolerability.
-Patients can also be titrated from 500 mg (5 mL) twice a day to 850 mg (8.5 mL) twice a day after 2 weeks.
-For those patients requiring additional glycemic control, RIOMET may be given to a maximum daily dose of 2550 mg (25.5 mL) per day.
-Doses above 2000 mg (20 mL) may be better tolerated given three times a day with meals.
+- •Assess renal function prior to initiation of RIOMET and periodically thereafter.
+- •RIOMET is contraindicated in patients with an estimated glomerular filtration rate (eGFR) below 30 mL/minute/1.73 m2.
+- •Initiation of RIOMET in patients with an eGFR between 30 to 45 mL/minute/1.73 m2 is not recommended.
+- •In patients taking RIOMET whose eGFR later falls below 45 mL/min/1.73 m2, assess the benefit risk of continuing therapy.
+- •Discontinue RIOMET if the patient’s eGFR later falls below 30 mL/minute/1.73 m2 [see Warnings and Precautions (5.1)].
 
-Pediatrics - The usual starting dose of RIOMET is 500 mg (5 mL) twice a day, given with meals.
-Dosage increases should be made in increments of 500 mg (5 mL) weekly up to a maximum of 2000 mg (20 mL) per day, given in divided doses.
-The dosage of RIOMET must be individualized on the basis of both effectiveness and tolerability.
+## 2.4 Discontinuation for Iodinated Contrast Imaging Procedures
 
-## Recommendations for Use in Renal Impairment
-
-Assess renal function prior to initiation of RIOMET and periodically thereafter.
-
-RIOMET is contraindicated in patients with an estimated glomerular filtration rate (eGFR) below 30 mL/minute/1.73 m2.
-
-Initiation of RIOMET in patients with an eGFR between 30 – 45 mL/minute/1.73 m2 is not recommended.
-
-In patients taking RIOMET whose eGFR later falls below 45 mL/min/1.73 m2, assess the benefit risk of continuing therapy.
-
-Discontinue RIOMET if the patient’s eGFR later falls below 30 mL/minute/1.73 m2 (See WARNINGS and PRECAUTIONS).
-
-## Discontinuation for Iodinated Contrast Imaging Procedures
-
-Discontinue RIOMET at the time of, or prior to, an iodinated contrast imaging procedure in patients with an eGFR between 30 and 60 mL/min/1.73 m2; in patients with a history of liver disease, alcoholism or heart failure; or in patients who will be administered intra-arterial iodinated contrast.
-Re-evaluate eGFR 48 hours after the imaging procedure; restart RIOMET if renal function is stable.
-
-## Concomitant Metformin and Oral Sulfonylurea Therapy in Adult Patients
-
-If patients have not responded to four weeks of the maximum dose of RIOMET monotherapy, consideration should be given to gradual addition of an oral sulfonylurea while continuing RIOMET at the maximum dose, even if prior primary or secondary failure to a sulfonylurea has occurred.
-Clinical and pharmacokinetic drug-drug interaction data are currently available only for metformin plus glyburide (glibenclamide).
-
-With concomitant Metformin and sulfonylurea therapy, the desired control of blood glucose may be obtained by adjusting the dose of each drug.
-In a clinical trial of patients with type 2 diabetes and prior failure on glyburide, patients started on metformin 500 mg and glyburide 20 mg were titrated to 1000 mg/20 mg, 1500 mg/20 mg, 2000 mg/20 mg or 2500 mg/20 mg of metformin and glyburide, respectively, to reach the goal of glycemic control as measured by FPG, HbA1c and plasma glucose response (see CLINICAL PHARMACOLOGY: Clinical Studies).
-However, attempts should be made to identify the minimum effective dose of each drug to achieve this goal.
-With concomitant RIOMET and sulfonylurea therapy, the risk of hypoglycemia associated with sulfonylurea therapy continues and may be increased.
-Appropriate precautions should be taken.
-(See Package Insert of the respective sulfonylurea).
-
-If patients have not satisfactorily responded to one to three months of concomitant therapy with the maximum dose of RIOMET and the maximum dose of an oral sulfonylurea, consider therapeutic alternatives including switching to insulin with or without RIOMET.
-
-## Concomitant Metformin and Insulin Therapy in Adult Patients
-
-The current Insulin dose should be continued upon initiation of RIOMET therapy.
-RIOMET therapy should be initiated at 500 mg (5 mL) once daily in patients on insulin therapy.
-For patients not responding adequately, the dose of RIOMET should be increased by 500 mg (5 mL) after approximately 1 week and by 500 mg (5 mL) every week thereafter until adequate glycemic control is achieved.
-The maximum recommended daily dose for RIOMET is 2500 mg (25 mL).
-It is recommended that the insulin dose be decreased by 10% to 25% when fasting plasma glucose concentrations decrease to less than 120 mg/dL in patients receiving concomitant insulin and RIOMET.
-Further adjustment should be individualized based on glucose-lowering response.
-
-## Specific Patient Populations
-
-RIOMET is not recommended for use in pregnancy.
-RIOMET is not recommended in patients below the age of 10 years.
-
-The initial and maintenance dosing of RIOMET should be conservative in patients with advanced age, due to the potential for decreased renal function in this population.
-Any dosage adjustment should be based on a careful assessment of renal function.
-
-Monitoring of renal function is necessary to aid in prevention of lactic acidosis, particularly in the elderly.
-(See WARNINGS.)
+- •Discontinue RIOMET at the time of, or prior to, an iodinated contrast imaging procedure in patients with an eGFR between 30 and 60 mL/min/1.73 m2; in patients with a history of liver disease, alcoholism, or heart failure; or in patients who will be administered intra-arterial iodinated contrast.
+  Re-evaluate eGFR 48 hours after the imaging procedure; restart RIOMET if renal function is stable.

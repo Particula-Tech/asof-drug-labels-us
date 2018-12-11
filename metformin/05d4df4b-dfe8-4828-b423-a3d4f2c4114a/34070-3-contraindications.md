@@ -1,13 +1,6 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-RIOMET is contraindicated in patients with:
-
-1.
-Severe renal impairment (eGFR below 30 mL/min/1.73 m2) (see WARNINGS and PRECAUTIONS).
-
-2.
-Known hypersensitivity to metformin hydrochloride.
-
-3.
-Acute or chronic metabolic acidosis, including diabetic ketoacidosis, with or without coma.
-Diabetic ketoacidosis should be treated with insulin.
+1. 1.RIOMET is contraindicated in patients with:
+2. 2.Severe renal impairment (eGFR below 30 mL/min/1.73 m2) [see Warnings and Precautions (5.1)].
+3. 3.Hypersensitivity to metformin.
+4. 4.Acute or chronic metabolic acidosis, including diabetic ketoacidosis, with or without coma.

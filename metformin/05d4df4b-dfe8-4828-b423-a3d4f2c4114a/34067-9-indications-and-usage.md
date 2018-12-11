@@ -1,3 +1,3 @@
-# INDICATION AND USAGE
+# 1 INDICATIONS AND USAGE
 
-RIOMET (metformin hydrochloride oral solution) is indicated as an adjunct to diet and exercise to improve glycemic control in adults and children with type 2 diabetes mellitus.
+RIOMET is indicated as an adjunct to diet and exercise to improve glycemic control in adults and pediatric patients 10 years of age and older with type 2 diabetes mellitus.
