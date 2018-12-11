@@ -26,9 +26,9 @@ Manufactured by: Manufactured for:
 
 Wintac Limited Somerset Therapeutics, LLC
 
-Bangalore 562123 Mendham, NJ 07945
+Bangalore 562123 Somerset, NJ 08873
 
 India.
-ST-CYC/P/02
+ST-CYC/P/03
 
-Code No.: KR/DRUGS/KTK/28/289/97 Revised: 07/2017
+Code No.: KR/DRUGS/KTK/28/289/97 Revised: 06/2018
