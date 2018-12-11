@@ -49,14 +49,14 @@ Treatment should be individualized as it is for the female.
 In the treatment of most serious anaerobic infections, intravenous metronidazole is usually administered initially.
 
 The usual adult oral dosage is 7.5 mg/kg every six hours (approx.
-500 mg for a 70 kg adult).
-A maximum of 4 g should not be exceeded during a 24 hour period.
+500 mg for a 70-kg adult).
+A maximum of 4 g should not be exceeded during a 24-hour period.
 
 The usual duration of therapy is 7 to 10 days; however, infections of the bone and joint, lower respiratory tract, and endocardium may require longer treatment.
 
 Dosage Adjustments
 
-Patients With Severe Hepatic Impairment
+Patients with Severe Hepatic Impairment
 
 For patients with severe hepatic impairment (Child-Pugh C), the dose of metronidazole tablets should be reduced by 50% (see CLINICAL PHARMACOLOGY and PRECAUTIONS).
 

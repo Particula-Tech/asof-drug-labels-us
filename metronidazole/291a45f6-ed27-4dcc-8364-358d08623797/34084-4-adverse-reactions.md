@@ -17,7 +17,7 @@ Hematopoietic: Reversible neutropenia (leukopenia); rarely, reversible thrombocy
 
 Cardiovascular: Flattening of the T-wave may be seen in electrocardiographic tracings.
 
-Hypersensitivity: Urticaria, erythematous rash, Stevens-Johnson syndrome, toxic epidermal necrolysis, flushing, nasal congestion, dryness of the mouth (or vagina or vulva), and fever.
+Hypersensitivity: Urticaria, erythematous rash, Stevens-Johnson Syndrome, toxic epidermal necrolysis, flushing, nasal congestion, dryness of the mouth (or vagina or vulva), and fever.
 
 Renal: Dysuria, cystitis, polyuria, incontinence, and a sense of pelvic pressure.
 Instances of darkened urine have been reported by approximately one patient in 100,000.

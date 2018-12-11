@@ -18,6 +18,15 @@ Symptoms can occur within hours of dose administration and generally resolve aft
 
 The appearance of abnormal neurologic signs and symptoms demands the prompt evaluation of the benefit/risk ratio of the continuation of therapy (see ADVERSE REACTIONS).
 
+Risk of Hepatotoxicity and Death in Patients with Cockayne Syndrome
+
+Cases of severe hepatotoxicity/acute hepatic failure, including cases with a fatal outcome with very rapid onset after treatment initiation in patients with Cockayne syndrome have been reported with products containing metronidazole for systemic use.
+In this population, metronidazole should therefore be used after careful benefit-risk assessment and only if no alternative treatment is available.
+Obtain liver function tests prior to the start of therapy, within the first 2 to 3 days after initiation of therapy, frequently during therapy and after end of treatment.
+Discontinue metronidazole if elevation of liver function tests occurs, and monitor liver function tests until the baseline values are reached.
+
+Advise patients with Cockayne syndrome to stop taking metronidazole immediately if they experience any symptoms of potential liver injury, such as abdominal pain, nausea, change in stool color or jaundice, and to contact their healthcare provider.
+
 # PRECAUTIONS
 
 ## General
@@ -37,7 +46,7 @@ Fungal Superinfections
 
 Known or previously unrecognized candidiasis may present more prominent symptoms during therapy with metronidazole and requires treatment with a candidacidal agent.
 
-Use in Patients With Blood Dyscrasias
+Use in Patients with Blood Dyscrasias
 
 Metronidazole is a nitroimidazole and should be used with caution in patients with evidence of or history of blood dyscrasia.
 A mild leukopenia has been observed during its administration; however, no persistent hematologic abnormalities attributable to metronidazole have been observed in clinical studies.
@@ -49,7 +58,7 @@ Prescribing metronidazole in the absence of a proven or strongly suspected bacte
 
 ## Information for Patients
 
-Interaction With Alcohol
+Interaction with Alcohol
 
 Discontinue consumption of alcoholic beverages or products containing propylene glycol while taking metronidazole and for at least three days afterward because abdominal cramps, nausea, vomiting, headaches, and flushing may occur (see CONTRAINDICATIONS and PRECAUTIONS, Drug Interactions).
 
@@ -71,7 +80,7 @@ Alcoholic Beverages
 
 Abdominal cramps, nausea, vomiting, headaches, and flushing may occur if alcoholic beverages or products containing propylene glycol are consumed during or following metronidazole therapy (see CONTRAINDICATIONS).
 
-Warfarin and Other Oral Anticoagulants
+Warfarin and other Oral Anticoagulants
 
 Metronidazole has been reported to potentiate the anticoagulant effect of warfarin and other oral coumarin anticoagulants, resulting in a prolongation of prothrombin time.
 When metronidazole is prescribed for patients on this type of anticoagulant therapy, prothrombin time and INR should be carefully monitored.
@@ -87,11 +96,11 @@ Metronidazole has been reported to increase plasma concentrations of busulfan, w
 Metronidazole should not be administered concomitantly with busulfan unless the benefit outweighs the risk.
 If no therapeutic alternatives to metronidazole are available, and concomitant administration with busulfan is medically needed, frequent monitoring of busulfan plasma concentration should be performed and the busulfan dose should be adjusted accordingly.
 
-Drugs That Inhibit CYP450 Enzymes
+Drugs that Inhibit CYP450 Enzymes
 
 The simultaneous administration of drugs that decrease microsomal liver enzyme activity, such as cimetidine, may prolong the half-life and decrease plasma clearance of metronidazole.
 
-Drugs That Induce CYP450 Enzymes
+Drugs that Induce CYP450 Enzymes
 
 The simultaneous administration of drugs that induce microsomal liver enzymes, such as phenytoin or phenobarbital, may accelerate the elimination of metronidazole, resulting in reduced plasma levels; impaired clearance of phenytoin has also been reported.
 
@@ -123,8 +132,6 @@ Fertility was restored in most rats after an eight week, drug-free recovery peri
 
 ### Teratogenic Effects
 
-#### Pregnancy Category B
-
 There are no adequate and well controlled studies of metronidazole in pregnant women.
 There are published data from case-control studies, cohort studies, and 2 meta-analyses that include more than 5000 pregnant women who used metronidazole during pregnancy.
 Many studies included first trimester exposures.
@@ -145,7 +152,7 @@ Alternatively, a nursing mother may choose to pump and discard human milk for th
 
 ## Geriatric Use
 
-In elderly geriatric patients, monitoring for metronidazole associated adverse events is recommended (see CLINICAL PHARMACOLOGY and PRECAUTIONS).
+In elderly geriatric patients, monitoring for metronidazole associated adverse events is recommended (see CLINICAL PHARMACOLOGY, PRECAUTIONS).
 Decreased liver function in geriatric patients can result in increased concentrations of metronidazole that may necessitate adjustment of metronidazole dosage (see DOSAGE AND ADMINISTRATION).
 
 ## Pediatric Use

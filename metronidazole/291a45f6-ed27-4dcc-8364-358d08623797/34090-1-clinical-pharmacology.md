@@ -29,7 +29,7 @@ Renal Impairment
 
 Decreased renal function does not alter the single-dose pharmacokinetics of metronidazole.
 
-Subjects with end-stage renal disease (ESRD; CLCR = 8.1 ± 9.1 mL/min) and who received a single intravenous infusion of metronidazole 500 mg had no significant change in metronidazole pharmacokinetics but had 2 fold higher Cmax of hydroxy-metronidazole and 5 fold higher Cmax of metronidazole acetate, compared to healthy subjects with normal renal function (CLCR = 126 ± 16 mL/min).
+Subjects with end-stage renal disease (ESRD; CLCR = 8.1 ± 9.1 mL/min) and who received a single intravenous infusion of metronidazole 500 mg had no significant change in metronidazole pharmacokinetics but had 2-fold higher Cmax of hydroxy-metronidazole and 5-fold higher Cmax of metronidazole acetate, compared to healthy subjects with normal renal function (CLCR = 126 ± 16 mL/min).
 Thus, on account of the potential accumulation of metronidazole metabolites in ESRD patients, monitoring for metronidazole associated adverse events is recommended (see PRECAUTIONS).
 
 Effect of Dialysis

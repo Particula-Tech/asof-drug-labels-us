@@ -24,4 +24,4 @@ Opava-Komarov, Czech Republic
 Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-D 8/2018
+E 11/2018
