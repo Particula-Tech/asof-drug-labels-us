@@ -18,4 +18,4 @@ Observed reactions range from urticaria to anaphylaxis [see Adverse Reactions (6
 
 ## 4.3 Pediatric patients with impaired renal function
 
-• Pediatric patients 6 months to 11 years of age with impaired renal function [See Use in Specific Populations (8.4)].
+Children 6 months to 11 years of age with impaired renal function

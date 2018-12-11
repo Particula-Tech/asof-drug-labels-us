@@ -13,11 +13,6 @@ Some patients may be adequately controlled by 2.5 mg (1/2 tablet) once daily in 
 The recommended dose of levocetirizine dihydrochloride tablets is 2.5 mg (1/2 tablet) once daily in the evening.
 The 2.5 mg dose should not be exceeded because the systemic exposure with 5 mg is approximately twice that of adults [see Clinical Pharmacology(12.3)].
 
-## 2.3 Children 6 months to 5 Years of Age
-
-Pediatric use information in pediatric patients (age 6 months to 5 years) is approved for UCB Inc.’s levocetirizine dihydrochloride drug product labeling.
-However, due to UCB Inc.’s marketing exclusivity rights; this drug product is not labeled for such use in those pediatric patients.
-
 ## 2.4 Dose Adjustment for Renal and Hepatic Impairment
 
 In adults and children 12 years of age and older with:
