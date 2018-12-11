@@ -27,4 +27,4 @@ Mylan Laboratories Limited
 
 Bangalore, India
 
-June 2016
+JUNE 2016
