@@ -8,8 +8,6 @@ Rx only
 
 100 tablets
 
-ZYDUS
-
 NDC 65841-041-01 in bottle of 100 tablets
 
 Promethazine Hydrochloride Tablets USP, 25 mg
@@ -18,8 +16,6 @@ Rx only
 
 100 tablets
 
-ZYDUS
-
 NDC 65841-042-01 in bottle of 100 tablets
 
 Promethazine Hydrochloride Tablets USP, 50 mg
@@ -27,5 +23,3 @@ Promethazine Hydrochloride Tablets USP, 50 mg
 Rx only
 
 100 tablets
-
-ZYDUS
