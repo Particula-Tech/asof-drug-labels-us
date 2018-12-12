@@ -22,7 +22,10 @@ Patient exposure
 
 Desvenlafaxine was evaluated for safety in 8,394 patients diagnosed with major depressive disorder who participated in multiple-dose pre-marketing studies, representing 2,784 patient-years of exposure.
 Of the total 8,394 patients exposed to at least one dose of desvenlafaxine; 2,116 were exposed to desvenlafaxine for 6 months, representing 1,658 patient-years of exposure, and 421 were exposed for one year, representing 416 patient-years of exposure.
-Adverse reactions reported as reasons for discontinuation of treatment In the pre-marketing pooled 8-week placebo-controlled studies in patients with MDD, 1,834 patients were exposed to desvenlafaxine (50 to 400 mg).
+
+Adverse reactions reported as reasons for discontinuation of treatment
+
+In the pre-marketing pooled 8-week placebo-controlled studies in patients with MDD, 1,834 patients were exposed to desvenlafaxine (50 to 400 mg).
 Of the 1,834 patients, 12% discontinued treatment due to an adverse reaction, compared with 3% of the 1,116 placebo-treated patients.
 At the recommended dose of 50 mg, the discontinuation rate due to an adverse reaction for desvenlafaxine (4.1%) was similar to the rate for placebo (3.8%).
 For the 100 mg dose of desvenlafaxine the discontinuation rate due to an adverse reaction was 8.7%.
@@ -34,7 +37,7 @@ Common adverse reactions in placebo-controlled MDD studies
 
 The most commonly observed adverse reactions in desvenlafaxine treated MDD patients in pre-marketing pooled 8-week, placebo-controlled, fixed-dose studies (incidence ≥ 5% and at least twice the rate of placebo in the 50 or 100 mg dose groups) were: nausea, dizziness, insomnia, hyperhidrosis, constipation, somnolence, decreased appetite, anxiety, and specific male sexual function disorders.
 
-Table 2 shows the incidence of common adverse reactions that occurred in ≥2% of desvenlafaxine treated MDD patients and twice the rate of placebo at any dose in the pre-marketing pooled 8-week, placebo-controlled, fixed dose clinical studies.
+Table 2 shows the incidence of common adverse reactions that occurred in ≥2% of desvenlafaxine treated MDD patients and twice the rate of placebo at any dose in the pre-marketing pooled 8-week, placebo-controlled, fixed dose clinical studies
 
 Table 2: Common Adverse Reactions (≥ 2% in any Fixed-Dose Group and Twice the Rate of Placebo) in Pre-marketing Pooled MDD 8-Week Placebo-Controlled Studies
 
@@ -84,7 +87,7 @@ Sexual function adverse reactions
 
 Table 3 shows the incidence of sexual function adverse reactions that occurred in ≥ 2% of desvenlafaxine treated MDD patients in any fixed-dose group (pre-marketing pooled 8-week, placebo-controlled, fixed -dose, clinical studies).
 
-Table 3: Sexual Function Adverse Reactions (≥ 2% in Men or Women in any desvenlafaxine Group) During the On-Therapy Period
+Table 3: Sexual Function Adverse Reactions (≥ 2% in Men or Women in any Desvenlafaxine Group) During the On-Therapy Period
 
 |  |  | Desvenlafaxine |  |  |  |
 | --- | --- | --- | --- | --- | --- |
