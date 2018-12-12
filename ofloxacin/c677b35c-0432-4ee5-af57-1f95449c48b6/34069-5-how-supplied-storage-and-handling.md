@@ -18,7 +18,7 @@ Bottles of 100 (NDC 71209-002-05)
 
 Bottles of 500 (NDC 71209-002-10)
 
-Ofloxacin tablets USP, 400 mg are available as Yellow to dark yellow, oval, biconvex, film-coated tablets, debossed with ‘CP108’ on one side and ‘400’ on other side.
+Ofloxacin tablets USP, 400 mg are available as yellow to dark yellow, oval, biconvex, film-coated tablets, debossed with ‘CP108’ on one side and ‘400’ on other side.
 They are available in bottles of 50, 100 and 500 tablets.
 Bottles of 50 (NDC 71209-003-02)
 

@@ -299,4 +299,4 @@ Manufactured by:
 
 Cadila Pharmaceuticals Limited 1389, Dholka, District - Ahmedabad,
 
-Gujarat State, INDIA Revised: November 2018
+Gujarat State, INDIA Revised: December 2018
