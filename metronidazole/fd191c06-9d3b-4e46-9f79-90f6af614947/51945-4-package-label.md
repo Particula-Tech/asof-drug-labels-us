@@ -37,9 +37,10 @@ Rx only
 
 PAB is a registered trademark of B. Braun Medical Inc.
 
-REF D5353-5224 HK 41283 B. Braun Medical Inc. Bethlehem, PA 18018-3524 USA 1-800-227-2862 API from Italy
+REF D5353-5224 HK 41283 B. Braun Medical Inc. Bethlehem, PA 18018-3524 USA 1-800-227-2862 Prepared in USA.
+API from Italy.
 
-Y94-003-318 LD-491-3
+Y94-003-379 LD-491-4
 
 LOT
 
@@ -86,9 +87,10 @@ PAB is a registered trademark of B. Braun Medical Inc.
 
 REF D5353-5224 HK 41283
 
-B. Braun Medical Inc. Bethlehem, PA 18018-3524 USA 1-800-227-2862 API from Italy
+B. Braun Medical Inc. Bethlehem, PA 18018-3524 USA 1-800-227-2862 Prepared in USA.
+API from Italy.
 
-X12-002-479 LD-492-3
+X12-002-495 LD-492-4
 
 LOT
 

@@ -6,7 +6,7 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 
 Rx only
 
-Revised: April 2018
+Revised: November 2018
 
 PAB is a registered trademark of B. Braun Medical Inc.
 
@@ -44,6 +44,7 @@ WARNING: DO NOT USE PLASTIC CONTAINER IN SERIES CONNECTION.
 
 PAB® containers can be safely transported in a standard 6-inch carrier through a pneumatic tube system that is well maintained and running properly.
 
-B. Braun Medical Inc. Bethlehem, PA 18018-3524 USA 1-800-227-2862
+B. Braun Medical Inc. Bethlehem, PA 18018-3524 USA 1-800-227-2862 Prepared in USA.
+API from Italy.
 
-Y36-002-938 LD-438-6
+Y36-002-988 LD-438-7

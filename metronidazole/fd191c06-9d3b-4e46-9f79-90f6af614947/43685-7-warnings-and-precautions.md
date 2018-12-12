@@ -71,7 +71,7 @@ Also, metronidazole has shown mutagenic activity in a number of in vitro assay s
 
 ## PREGNANCY
 
-### Teratogenic Effects-Pregnancy Category B
+### Teratogenic Effects
 
 Metronidazole crosses the placental barrier and enters the fetal circulation rapidly.
 Reproduction studies have been performed in rats at doses up to five times the human dose and have revealed no evidence of impaired fertility or harm to the fetus due to metronidazole.
