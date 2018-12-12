@@ -2,7 +2,7 @@
 
 ERY-TAB® (erythromycin delayed-release tablets) is an antibacterial product containing erythromycin base in a specially enteric-coated tablet.
 The coating protects the antibiotic from the inactivating effects of gastric acidity and permits efficient absorption of the antibiotic in the small intestine.
-ERY-TAB® tablets for oral administration are available in three dosage strengths, each white oval tablet containing 250 mg, 333 mg, or 500 mg of erythromycin as the free base.
+ERY-TAB® tablets for oral administration are available in three dosage strengths, each white oval tablet containing either 250 mg, 333 mg, or 500 mg of erythromycin as the free base.
 ERY-TAB® tablets comply with USP Dissolution Test 1.
 
 Erythromycin is produced by a strain of Saccharopolyspora erythraea (formerly Streptomyces erythraeus) and belongs to the macrolide group of antibiotics.

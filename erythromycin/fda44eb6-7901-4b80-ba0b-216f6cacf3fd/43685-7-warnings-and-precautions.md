@@ -55,7 +55,7 @@ Exacerbation of symptoms of myasthenia gravis and new onset of symptoms of myast
 
 There have been reports of infantile hypertrophic pyloric stenosis (IHPS) occurring in infants following erythromycin therapy.
 In one cohort of 157 newborns who were given erythromycin for pertussis prophylaxis, seven neonates (5%) developed symptoms of non-bilious vomiting or irritability with feeding and were subsequently diagnosed as having IHPS requiring surgical pyloromyotomy.
-A possible dose-response effect was described with an absolute risk of IHPS of 5.1% for infants who took erythromycin for 8-14 days and 10% for infants who took erythromycin for 15-21 days.5 Since erythromycin may be used in the treatment of conditions in infants which are associated with significant mortality or morbidity (such as pertussis or neonatal Chlamydia trachomatis infections), the benefit of erythromycin therapy needs to be weighed against the potential risk of developing IHPS.
+A possible dose-response effect was described with an absolute risk of IHPS of 5.1% for infants who took erythromycin for 8-14 days and 10% for infants who took erythromycin for 15-21 days.2 Since erythromycin may be used in the treatment of conditions in infants which are associated with significant mortality or morbidity (such as pertussis or neonatal Chlamydia trachomatis infections), the benefit of erythromycin therapy needs to be weighed against the potential risk of developing IHPS.
 Parents should be informed to contact their physician if vomiting or irritability with feeding occurs.
 
 Prolonged or repeated use of erythromycin may result in an overgrowth of nonsusceptible bacteria or fungi.
@@ -159,8 +159,6 @@ There was no apparent effect on male or female fertility in rats treated with er
 ## Pregnancy
 
 ### Teratogenic Effects
-
-#### Pregnancy Category B
 
 There is no evidence of teratogenicity or any other adverse effect on reproduction in female rats fed erythromycin base by oral gavage at 350 mg/kg/day (approximately twice the maximum recommended human dose on a body surface area) prior to and during mating, during gestation, and through weaning.
 No evidence of teratogenicity or embryotoxicity was observed when erythromycin base was given by oral gavage to pregnant rats and mice at 700 mg/kg/day and to pregnant rabbits at 125 mg/kg/day (approximately 1-3 times the maximum recommended human dose).
