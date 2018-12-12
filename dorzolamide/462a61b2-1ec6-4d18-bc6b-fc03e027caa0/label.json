@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA202053"
+  ],
+  "inn": "dorzolamide",
+  "labeler": "Indoco Remedies Limited",
+  "package_ndcs": [
+    "14445-404-10"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "dorzolamide",
+      "name": "Dorzolamide Hydrochloride"
+    }
+  ],
+  "setid": "462a61b2-1ec6-4d18-bc6b-fc03e027caa0",
+  "source": "dailymed"
+}
