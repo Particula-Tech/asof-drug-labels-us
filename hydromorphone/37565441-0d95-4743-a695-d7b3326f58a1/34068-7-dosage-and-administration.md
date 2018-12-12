@@ -1,57 +1,68 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-Hydromorphone Hydrochloride Oral Solution, USP
+## 2.1 Important Dosage and Administration Instructions
 
-The usual adult oral dosage for Hydromorphone Hydrochloride Oral Solution is one-half (2.5 mL) to two teaspoonfuls (10 mL) (2.5 mg to 10 mg) every 3 to 6 hours as directed by the clinical situation.
-Oral dosages higher than the usual dosages may be required in some patients.
+Ensure accuracy when prescribing, dispensing, and administering hydromorphone hydrochloride oral solution to avoid dosing errors due to confusion between mg and mL, which could result in accidental overdose and death.
+Ensure the proper dose is communicated and dispensed.
+When writing prescriptions, include both the total dose in mg and the total dose in volume.
+
+Instruct patients to obtain a calibrated measuring cup/syringe for administering hydromorphone hydrochloride oral solution to ensure that the dose is measured and administered accurately.
+
+Do not use household teaspoons or tablespoons to measure hydromorphone hydrochloride oral solution, as using a tablespoon instead of a teaspoon could lead to overdosage [see Warnings and Precautions (5.1)].
+
+- Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
+- Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.2)].
+- Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy and following dosage increases with hydromorphone hydrochloride oral solution or hydromorphone hydrochloride tablets and adjust the dosage accordingly [see Warnings and Precautions (5.4)].
+
+## 2.2 Initial Dosage
+
+Initiating Treatment with Hydromorphone Hydrochloride Oral Solution or Hydromorphone Hydrochloride Tablets
+
+Hydromorphone Hydrochloride Oral Solution
+
+Initiate treatment with hydromorphone hydrochloride oral solution in a dosing range of one-half (2.5 mL) to two teaspoonsful (10 mL), 2.5 mg to 10 mg, every 3 to 6 hours as needed for pain.
 
 Hydromorphone Hydrochloride Tablets
 
-The usual starting dose for Hydromorphone Hydrochloride Tablets is 2 mg to 4 mg, orally, every 4 to 6 hours.
-Appropriate use of Hydromorphone Hydrochloride Tablets must be decided by careful evaluation of each clinical situation.
+Initiate treatment with hydromorphone hydrochloride tablets in a dosing range of 2 mg to 4 mg, orally, every 4 to 6 hours.
 
-A gradual increase in dose may be required if analgesia is inadequate, as tolerance develops, or if pain severity increases.
-The first sign of tolerance is usually a reduced duration of effect.
+Conversion from Other Opioids to Hydromorphone Hydrochloride Oral Solution or Hydromorphone Hydrochloride Tablets
 
-Patients with hepatic and renal impairment should be started on a lower starting dose (see CLINICAL PHARMACOLOGY - Pharmacokinetics and Metabolism).
+There is inter-patient variability in the potency of opioid drugs and opioid formulations.
+Therefore, a conservative approach is advised when determining the total daily dosage of hydromorphone hydrochloride oral solution or hydromorphone hydrochloride tablets.
+It is safer to underestimate a patient's 24-hour hydromorphone hydrochloride dosage than to overestimate the 24-hour dosage and manage an adverse reaction due to overdose.
 
-## INDIVIDUALIZATION OF DOSAGE
+In general, it is safest to start hydromorphone hydrochloride therapy by administering half of the usual starting dose every 3 to 6 hours for hydromorphone hydrochloride oral solution; and every 4 to 6 hours for hydromorphone hydrochloride tablets.
+The dose of hydromorphone hydrochloride can be gradually adjusted until adequate pain relief and acceptable side effects have been achieved [see Dosage and Administration (2.4)].
 
-The dosage of opioid analgesics like hydromorphone hydrochloride should be individualized for any given patient, since adverse events can occur at doses that may not provide complete freedom from pain.
+Conversion from Hydromorphone Hydrochloride Oral Solution or Hydromorphone Hydrochloride Tablets to Extended-Release Hydromorphone Hydrochloride
 
-Safe and effective administration of opioid analgesics to patients with acute or chronic pain depends upon a comprehensive assessment of the patient.
-The nature of the pain (severity, frequency, etiology, and pathophysiology) as well as the concurrent medical status of the patient will affect selection of the starting dosage.
+The relative bioavailability of hydromorphone hydrochloride oral solution and hydromorphone hydrochloride tablets compared to extended-release hydromorphone hydrochloride is unknown, so conversion to extended-release tablets must be accompanied by close observation for signs of excessive sedation and respiratory depression.
 
-In non-opioid-tolerant patients, therapy with hydromorphone is typically initiated at an oral dose of 2 to 4 mg every four hours, but elderly patients may require lower doses (see PRECAUTIONS - Geriatric Use).
+## 2.3 Dosage Modifications in Patients with Hepatic Impairment
 
-In patients receiving opioids, both the dose and duration of analgesia will vary substantially depending on the patient's opioid tolerance.
-The dose should be selected and adjusted so that at least 3 to 4 hours of pain relief may be achieved.
-In patients taking opioid analgesics, the starting dose of Hydromorphone Hydrochloride Oral Solution or Hydromorphone Hydrochloride Tablets should be based on prior opioid usage.
-This should be done by converting the total daily usage of the previous opioid to an equivalent total daily dosage of oral Hydromorphone Hydrochloride Oral Solution or Hydromorphone Hydrochloride Tablets using an equianalgesic table (see below).
-For opioids not in the table, first estimate the equivalent total daily usage of oral morphine, then use the table to find the equivalent total daily dosage of Hydromorphone Hydrochloride Oral Solution or Hydromorphone Hydrochloride Tablets.
+Initiate treatment with one-fourth to one-half the usual hydromorphone hydrochloride starting dose depending on the degree of impairment [see Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
 
-Once the total daily dosage of Hydromorphone Hydrochloride Oral Solution or Hydromorphone Hydrochloride Tablets has been estimated, it should be divided into the desired number of doses.
-Since there is individual variation in response to different opioid drugs, only 1/2 to 2/3 of the estimated dose of Hydromorphone Hydrochloride Oral Solution or Hydromorphone Hydrochloride Tablets calculated from equivalence tables should be given for the first few doses, and then increased as needed according to the patient's response.
+## 2.4 Dosage Modifications in Patients with Renal Impairment
 
-Since the pharmacokinetics of hydromorphone are affected in hepatic and renal impairment with a consequent increase in exposure, patients with hepatic and renal impairment should be started on a lower starting dose (see CLINICAL PHARMACOLOGY - Pharmacokinetics and Metabolism).
+Initiate treatment with one-fourth to one-half the usual hydromorphone hydrochloride starting dose depending on the degree of impairment [see Use in Specific Populations (8.7), and Clinical Pharmacology (12.3)].
 
-In chronic pain, doses should be administered around-the-clock.
-A supplemental dose of 5 to 15% of the total daily usage may be administered every two hours on an "as-needed" basis.
+## 2.5 Titration and Maintenance of Therapy
 
-Periodic reassessment after the initial dosing is always required.
-If pain management is not satisfactory and in the absence of significant opioid-induced adverse events, the hydromorphone dose may be increased gradually.
-If excessive opioid side effects are observed early in the dosing interval, the hydromorphone dose should be reduced.
-If this results in breakthrough pain at the end of the dosing interval, the dosing interval may need to be shortened.
-Dose titration should be guided more by the need for analgesia than the absolute dose of opioid employed.
+Individually titrate hydromorphone hydrochloride oral solution or hydromorphone hydrochloride tablets to a dose that provides adequate analgesia and minimizes adverse reactions.
+Continually reevaluate patients receiving hydromorphone hydrochloride oral solution or hydromorphone hydrochloride tablets to assess the maintenance of pain control and the relative incidence of adverse reactions, as well as monitoring for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.2].
+Frequent communication is important among the prescriber, other members of the healthcare team, the patient, and the caregiver/family during periods of changing analgesic requirements, including initial titration.
 
-OPIOID ANALGESIC EQUIVALENTS WITH APPROXIMATELY EQUIANALGESIC POTENCY*
+If the level of pain increases after dosage stabilization, attempt to identify the source of increased pain before increasing the hydromorphone hydrochloride oral solution or hydromorphone hydrochloride tablets dosage.
+If unacceptable opioid-related adverse reactions are observed, consider reducing the dosage.
+Adjust the dosage to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
 
-| Nonproprietary(Trade) Name | IM or SCDose | ORALDose |
-| --- | --- | --- |
-| Morphine sulfate | 10 mg | 40 to 60 mg |
-| Hydromorphone HCl (DILAUDID) | 1.3 to 2 mg | 6.5 to 7.5 mg |
-| Oxymorphone HCl (Numorphan) | 1 to 1.1 mg | 6.6 mg |
-| Levorphanol tartrate (Levo-Dromoran) | 2 to 2.3 mg | 4 mg |
-| Meperidine, pethidine HCl (Demerol) | 75 to 100 mg | 300 to 400 mg |
-| Methadone HCl (Dolophine) | 10 mg | 10 to 20 mg |
-| * Dosages, and ranges of dosages represented, are a compilation of estimated equipotent dosages from published references comparing opioid analgesics in cancer and severe pain. |  |  |
+For chronic pain, doses should be administered around-the-clock.
+A supplemental dose of 5 to 15% of the total daily usage may be administered every two hours on an as-needed basis.
+
+## 2.6 Discontinuation of Hydromorphone Hydrochloride Oral Solution or Hydromorphone Hydrochloride Tablets
+
+When a patient who has been taking hydromorphone hydrochloride oral solution or hydromorphone hydrochloride tablets regularly and may be physically dependent no longer requires therapy with hydromorphone hydrochloride, taper the dose gradually, by 25% to 50% every 2 to 4 days, while monitoring carefully for signs and symptoms of withdrawal.
+If the patient develops these signs and symptoms, raise the dose to the previous level and taper more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both.
+Do not abruptly discontinue hydromorphone hydrochloride oral solution or hydromorphone hydrochloride tablets in a physically dependent patient.
+[see Warnings and Precautions (5.13), Drug Abuse and Dependence (9.3)].

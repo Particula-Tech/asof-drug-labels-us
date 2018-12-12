@@ -1,17 +1,49 @@
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL - 2 mg Tablet Bottle Label
 
-Hydromorphone Hydrochloride Tablets, USP – 2 mg
+NDC 42858-301-01
 
-Bottle of 100 tablets NDC 42858-301-01
+HYDROmorphone Hydrochloride Tablets, USP CII
 
-Hydromorphone Hydrochloride Tablets, USP – 8 mg
+2 mg Rx only
 
-Bottle of 100 tablets NDC 42858-303-01
+Dispense the accompanying Medication Guide to each patient.
 
-Hydromorphone Hydrochloride Tablets, USP – 4 mg
+Rhodes 100 Tablets
 
-Unit Dose Package of 100 tablets (4x25) NDC 42858-302-25
+# PRINCIPAL DISPLAY PANEL - 4 mg Tablet Bottle Label
 
-Hydromorphone Hydrochloride Oral Solution, USP – 5 mg/5 mL (1mg/mL)
+NDC 42858-302-01
 
-1 Pint (473 mL) NDC 42858-304-16
+HYDROmorphone Hydrochloride Tablets, USP CII
+
+4 mg Rx only
+
+Dispense the accompanying Medication Guide to each patient.
+
+Rhodes 100 Tablets
+
+# PRINCIPAL DISPLAY PANEL - 8 mg Tablet Bottle Label
+
+NDC 42858-303-01
+
+HYDROmorphone Hydrochloride Tablets, USP CII
+
+8 mg Rx only
+
+Dispense the accompanying Medication Guide to each patient.
+
+Rhodes 100 Tablets
+
+# PRINCIPAL DISPLAY PANEL - 5 mg/5 mL Bottle Label
+
+NDC 42858-304-16
+
+HYDROmorphone Hydrochloride Oral Solution, USP
+
+5 mg/5 mL (1 mg/mL) CII
+
+One Pint (473 mL) Rx Only
+
+Rhodes
+
+302902-0B LOT / EXP No Varnish Area
