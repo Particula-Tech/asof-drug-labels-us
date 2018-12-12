@@ -4,7 +4,7 @@ NDC 47426-201-01
 
 Rx Only
 
-CINVANTI™
+CINVANTI®
 
 (aprepitant) injectable emulsion
 
@@ -26,7 +26,7 @@ NDC 47426-201-01
 
 Rx Only
 
-CINVANTI™
+CINVANT®
 
 (aprepitant) injectable emulsion
 
