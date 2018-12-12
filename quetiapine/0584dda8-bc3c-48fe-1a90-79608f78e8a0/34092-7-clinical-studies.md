@@ -162,4 +162,6 @@ In both studies, SEROQUEL was superior to placebo in increasing the time to recu
 The treatment effect was present for increasing time to recurrence of both manic and depressed episodes.
 The effect of SEROQUEL was independent of any specific subgroup (assigned mood stabilizer, sex, age, race, most recent bipolar episode, or rapid cycling course).
 
-Figure 2 Kaplan-Meier Curves of Time to Recurrence of A Mood Event (Study 8)
+Figure 1: Kaplan-Meier Curves of Time to Recurrence of a Mood Event (Study 7)
+
+Figure 2: Kaplan-Meier Curves of Time to Recurrence of a Mood Event (Study 8)
