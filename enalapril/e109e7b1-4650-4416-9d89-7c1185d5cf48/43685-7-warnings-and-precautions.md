@@ -6,7 +6,7 @@ Presumably because angiotensin-converting enzyme inhibitors affect the metabolis
 
 ### Head and Neck Angioedema
 
-Angioedema of the face, extremities, lips, tongue, glottis and/or larynx has been reported in patients treated with angiotensin converting enzyme inhibitors, including enalapril maleate.
+Angioedema of the face, extremities, lips, tongue, glottis and/or larynx has been reported in patients treated with angiotensin-converting enzyme inhibitors, including enalapril maleate.
 This may occur at any time during treatment.
 In such cases enalapril maleate should be promptly discontinued and appropriate therapy and monitoring should be provided until complete and sustained resolution of signs and symptoms has occurred.
 In instances where swelling has been confined to the face and lips the condition has generally resolved without treatment, although antihistamines have been useful in relieving symptoms.
@@ -18,11 +18,11 @@ Patients receiving coadministration of ACE inhibitor and mTOR (mammalian target 
 ### Intestinal Angioedema
 
 Intestinal angioedema has been reported in patients treated with ACE inhibitors.
-These patients presented with abdominal pain (with or without nausea or vomiting); in some cases there was no prior history of facial angioedema and C-1 esterase levels were normal.
+These patients presented with abdominal pain (with or without nausea or vomiting); in some cases there was no prior history of facial angioedema and C1 esterase levels were normal.
 The angioedema was diagnosed by procedures including abdominal CT scan or ultrasound, or at surgery, and symptoms resolved after stopping the ACE inhibitor.
 Intestinal angioedema should be included in the differential diagnosis of patients on ACE inhibitors presenting with abdominal pain.
 
-Patients with a history of angioedema unrelated to ACE inhibitor therapy may be at increased risk of angioedema while receiving an ACE inhibitor (see also INDICATIONS AND USAGE and CONTRAINDICATIONS).
+Patients with a history of angioedema unrelated to ACE inhibitor therapy may be at increased risk of angioedema while receiving an ACE inhibitor (see INDICATIONS AND USAGE and CONTRAINDICATIONS).
 
 ### Anaphylactoid Reactions During Desensitization
 
@@ -49,7 +49,7 @@ If symptomatic hypotension develops, a dose reduction or discontinuation of enal
 
 ## Neutropenia/Agranulocytosis
 
-Another angiotensin converting enzyme inhibitor, captopril, has been shown to cause agranulocytosis and bone marrow depression, rarely in uncomplicated patients but more frequently in patients with renal impairment, especially if they also have a collagen vascular disease.
+Another angiotensin-converting enzyme inhibitor, captopril, has been shown to cause agranulocytosis and bone marrow depression, rarely in uncomplicated patients but more frequently in patients with renal impairment, especially if they also have a collagen vascular disease.
 Available data from clinical trials of enalapril are insufficient to show that enalapril does not cause agranulocytosis at similar rates.
 Marketing experience has revealed cases of neutropenia or agranulocytosis in which a causal relationship to enalapril cannot be excluded.
 Periodic monitoring of white blood cell counts in patients with collagen vascular disease and renal disease should be considered.
@@ -75,7 +75,7 @@ Perform serial ultrasound examinations to assess the intra-amniotic environment.
 If oligohydramnios is observed, discontinue enalapril maleate, unless it is considered lifesaving for the mother.
 Fetal testing may be appropriate, based on the week of pregnancy.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
-Closely observe infants with histories of in utero exposure to enalapril maleate for hypotension, oliguria and hyperkalemia (see PRECAUTIONS, Pediatric Use).
+Closely observe infants with histories of in utero exposure to enalapril maleate for hypotension, oliguria, and hyperkalemia (see PRECAUTIONS, Pediatric Use).
 
 No teratogenic effects of enalapril were seen in studies of pregnant rats and rabbits.
 On a body surface area basis, the doses used were 57 times and 12 times, respectively, the maximum recommended human daily dose (MRHDD).
@@ -91,9 +91,9 @@ As with all vasodilators, enalapril should be given with caution to patients wit
 ### Impaired Renal Function
 
 As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function may be anticipated in susceptible individuals.
-In patients with severe heart failure whose renal function may depend on the activity of the renin-angiotensin-aldosterone system, treatment with angiotensin converting enzyme inhibitors, including enalapril maleate, may be associated with oliguria and/or progressive azotemia and rarely with acute renal failure and/or death (see PRECAUTIONS, Drug Interactions).
+In patients with severe heart failure whose renal function may depend on the activity of the renin-angiotensin-aldosterone system, treatment with angiotensin-converting enzyme inhibitors, including enalapril maleate, may be associated with oliguria and/or progressive azotemia and rarely with acute renal failure and/or death (see PRECAUTIONS, Drug Interactions).
 
-In clinical studies in hypertensive patients with unilateral or bilateral renal artery stenosis, increases in blood urea nitrogen and serum creatinine were observed in 20% of patients.
+In clinical studies in hypertensive patients with unilateral or bilateral renal artery stenosis, increases in blood urea nitrogen and serum creatinine were observed in 20 percent of patients.
 These increases were almost always reversible upon discontinuation of enalapril and/or diuretic therapy.
 In such patients renal function should be monitored during the first few weeks of therapy.
 
@@ -105,10 +105,10 @@ Evaluation of patients with hypertension or heart failure should always include 
 
 ### Hyperkalemia
 
-Elevated serum potassium (greater than 5.7 mEq/L) was observed in approximately 1% of hypertensive patients in clinical trials.
+Elevated serum potassium (greater than 5.7 mEq/L) was observed in approximately 1 percent of hypertensive patients in clinical trials.
 In most cases these were isolated values which resolved despite continued therapy.
-Hyperkalemia was a cause of discontinuation of therapy in 0.28% of hypertensive patients.
-In clinical trials in heart failure, hyperkalemia was observed in 3.8% of patients but was not a cause for discontinuation.
+Hyperkalemia was a cause of discontinuation of therapy in 0.28 percent of hypertensive patients.
+In clinical trials in heart failure, hyperkalemia was observed in 3.8 percent of patients but was not a cause for discontinuation.
 
 Risk factors for the development of hyperkalemia include renal insufficiency, diabetes mellitus, and the concomitant use of potassium-sparing diuretics, potassium supplements and/or potassium-containing salt substitutes, which should be used cautiously, if at all, with enalapril maleate (see Drug Interactions).
 
@@ -126,7 +126,7 @@ If hypotension occurs and is considered to be due to this mechanism, it can be c
 
 ### Angioedema
 
-Angioedema, including laryngeal edema, may occur at any time during treatment with angiotensin converting enzyme inhibitors, including enalapril.
+Angioedema, including laryngeal edema, may occur at any time during treatment with angiotensin-converting enzyme inhibitors, including enalapril.
 Patients should be so advised and told to report immediately any signs or symptoms suggesting angioedema (swelling of face, extremities, eyes, lips, tongue, difficulty in swallowing or breathing) and to take no more drug until they have consulted with the prescribing physician.
 
 ### Hypotension
@@ -174,13 +174,13 @@ Avoid use of aliskiren with enalapril maleate in patients with renal impairment 
 
 Patients on diuretics and especially those in whom diuretic therapy was recently instituted, may occasionally experience an excessive reduction of blood pressure after initiation of therapy with enalapril.
 The possibility of hypotensive effects with enalapril can be minimized by either discontinuing the diuretic or increasing the salt intake prior to initiation of treatment with enalapril.
-If it is necessary to continue the diuretic, provide close medical supervision after the initial dose for at least 2 hours and until blood pressure has stabilized for at least an additional hour (see WARNINGS and DOSAGE AND ADMINISTRATION).
+If it is necessary to continue the diuretic, provide close medical supervision after the initial dose for at least two hours and until blood pressure has stabilized for at least an additional hour (see WARNINGS, Hypotension and DOSAGE AND ADMINISTRATION).
 
 ### Agents Causing Renin Release
 
 The antihypertensive effect of enalapril maleate is augmented by antihypertensive agents that cause renin release (e.g., diuretics).
 
-### Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
+### Nonsteroidal Anti-Inflammatory Agents Including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
 
 In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, coadministration of NSAIDs, including selective COX-2 inhibitors, with ACE inhibitors, including enalapril, may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
@@ -211,9 +211,9 @@ It is recommended that serum lithium levels be monitored frequently if enalapril
 
 Nitritoid reactions (symptoms include facial flushing, nausea, vomiting and hypotension) have been reported rarely in patients on therapy with injectable gold (sodium aurothiomalate) and concomitant ACE inhibitor therapy including enalapril maleate.
 
-### mTor (mammalian target of rapamycin) inhibitors
+### mTOR (Mammalian Target of Rapamycin) Inhibitors
 
-Patients receiving coadministration of ACE inhibitor and mTOR inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema (see WARNINGS).
+Patients receiving coadministration of ACE inhibitor and mTOR inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema (see WARNINGS, Head and Neck Angioedema).
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 

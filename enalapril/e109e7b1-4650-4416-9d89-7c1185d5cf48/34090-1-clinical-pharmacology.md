@@ -21,13 +21,13 @@ Although enalapril maleate was antihypertensive in all races studied, black hype
 ## Pharmacokinetics and Metabolism
 
 Following oral administration of enalapril maleate, peak serum concentrations of enalapril occur within about one hour.
-Based on urinary recovery, the extent of absorption of enalapril is approximately 60%.
+Based on urinary recovery, the extent of absorption of enalapril is approximately 60 percent.
 Enalapril absorption is not influenced by the presence of food in the gastrointestinal tract.
-Following absorption, enalapril is hydrolyzed to enalaprilat, which is a more potent angiotensin converting enzyme inhibitor than enalapril; enalaprilat is poorly absorbed when administered orally.
-Peak serum concentrations of enalaprilat occur 3 to 4 hours after an oral dose of enalapril maleate.
+Following absorption, enalapril is hydrolyzed to enalaprilat, which is a more potent angiotensin-converting enzyme inhibitor than enalapril; enalaprilat is poorly absorbed when administered orally.
+Peak serum concentrations of enalaprilat occur three to four hours after an oral dose of enalapril maleate.
 Excretion of enalapril maleate is primarily renal.
-Approximately 94% of the dose is recovered in the urine and feces as enalaprilat or enalapril.
-The principal components in urine are enalaprilat, accounting for about 40% of the dose, and intact enalapril.
+Approximately 94 percent of the dose is recovered in the urine and feces as enalaprilat or enalapril.
+The principal components in urine are enalaprilat, accounting for about 40 percent of the dose, and intact enalapril.
 There is no evidence of metabolites of enalapril, other than enalaprilat.
 
 The serum concentration profile of enalaprilat exhibits a prolonged terminal phase, apparently representing a small fraction of the administered dose that has been bound to ACE.
@@ -48,12 +48,12 @@ Radioactivity was found to cross the placenta following administration of labele
 ### Hypertension
 
 Administration of enalapril maleate to patients with hypertension of severity ranging from mild to severe results in a reduction of both supine and standing blood pressure usually with no orthostatic component.
-Symptomatic postural hypotension is therefore infrequent, although it might be anticipated in volume-depleted patients (see WARNINGS).
+Symptomatic postural hypotension is therefore infrequent, although it might be anticipated in volume-depleted patients (see WARNINGS,Hypotension).
 
 In most patients studied, after oral administration of a single dose of enalapril, onset of antihypertensive activity was seen at one hour with peak reduction of blood pressure achieved by four to six hours.
 
 At recommended doses, antihypertensive effects have been maintained for at least 24 hours.
-In some patients the effects may diminish toward the end of the dosing interval (see DOSAGE AND ADMINISTRATION).
+In some patients the effects may diminish toward the end of the dosing interval (see DOSAGE AND ADMINISTRATION, Hypertension).
 
 In some patients achievement of optimal blood pressure reduction may require several weeks of therapy.
 
@@ -79,23 +79,23 @@ Effects on exercise tolerance, heart size, and severity and symptoms of heart fa
 
 ### Heart Failure, Mortality Trials
 
-In a multicenter, placebo-controlled clinical trial, 2,569 patients with all degrees of symptomatic heart failure and ejection fraction ≤35% were randomized to placebo or enalapril and followed for up to 55 months (SOLVD-Treatment).
-Use of enalapril was associated with an 11% reduction in all-cause mortality and a 30% reduction in hospitalization for heart failure.
+In a multicenter, placebo-controlled clinical trial, 2,569 patients with all degrees of symptomatic heart failure and ejection fraction ≤35 percent were randomized to placebo or enalapril and followed for up to 55 months (SOLVD-Treatment).
+Use of enalapril was associated with an 11 percent reduction in all-cause mortality and a 30 percent reduction in hospitalization for heart failure.
 Diseases that excluded patients from enrollment in the study included severe stable angina (>2 attacks/day), hemodynamically significant valvular or outflow tract obstruction, renal failure (creatinine >2.5 mg/dL), cerebrovascular disease (e.g., significant carotid artery disease), advanced pulmonary disease, malignancies, active myocarditis and constrictive pericarditis.
 The mortality benefit associated with enalapril does not appear to depend upon digitalis being present.
 
 A second multicenter trial used the SOLVD protocol for study of asymptomatic or minimally symptomatic patients.
-SOLVD-Prevention patients, who had left ventricular ejection fraction ≤35% and no history of symptomatic heart failure, were randomized to placebo (n=2,117) or enalapril (n=2,111) and followed for up to 5 years.
+SOLVD-Prevention patients, who had left ventricular ejection fraction ≤35 percent and no history of symptomatic heart failure, were randomized to placebo (n=2,117) or enalapril (n=2,111) and followed for up to 5 years.
 The majority of patients in the SOLVD-Prevention trial had a history of ischemic heart disease.
-A history of myocardial infarction was present in 80% of patients, current angina pectoris in 34%, and a history of hypertension in 37%.
+A history of myocardial infarction was present in 80 percent of patients, current angina pectoris in 34 percent, and a history of hypertension in 37 percent.
 No statistically significant mortality effect was demonstrated in this population.
-Enalapril-treated subjects had 32% fewer first hospitalizations for heart failure, and 32% fewer total heart failure hospitalizations.
-Compared to placebo, 32% fewer patients receiving enalapril developed symptoms of overt heart failure.
+Enalapril-treated subjects had 32 percent fewer first hospitalizations for heart failure, and 32 percent fewer total heart failure hospitalizations.
+Compared to placebo, 32 percent fewer patients receiving enalapril developed symptoms of overt heart failure.
 Hospitalizations for cardiovascular reasons were also reduced.
 There was an insignificant reduction in hospitalizations for any cause in the enalapril treatment group (for enalapril vs. placebo, respectively, 1166 vs. 1201 first hospitalizations, 2649 vs. 2840 total hospitalizations), although the study was not powered to look for such an effect.
 
 The SOLVD-Prevention trial was not designed to determine whether treatment of asymptomatic patients with low ejection fraction would be superior, with respect to preventing hospitalization, to closer follow-up and use of enalapril at the earliest sign of heart failure.
-However, under the conditions of follow-up in the SOLVD-Prevention trial (every 4 months at the study clinic; personal physician as needed), 68% of patients on placebo who were hospitalized for heart failure had no prior symptoms recorded which would have signaled initiation of treatment.
+However, under the conditions of follow-up in the SOLVD-Prevention trial (every 4 months at the study clinic; personal physician as needed), 68 percent of patients on placebo who were hospitalized for heart failure had no prior symptoms recorded which would have signaled initiation of treatment.
 
 The SOLVD-Prevention trial was also not designed to show whether enalapril modified the progression of underlying heart disease.
 
@@ -113,8 +113,8 @@ In both CONSENSUS and SOLVD-Treatment trials, patients were also usually receivi
 ## Clinical Pharmacology in Pediatric Patients
 
 A multiple dose pharmacokinetic study was conducted in 40 hypertensive male and female pediatric patients aged 2 months to ≤16 years following daily oral administration of 0.07 to 0.14 mg/kg enalapril maleate.
-At steady state, the mean effective half-life for accumulation of enalaprilat was 14 hours, and the mean urinary recovery of total enalapril and enalaprilat in 24 hours was 68% of the administered dose.
-Conversion of enalapril to enalaprilat was in the range of 63 to 76%.
+At steady state, the mean effective half-life for accumulation of enalaprilat was 14 hours, and the mean urinary recovery of total enalapril and enalaprilat in 24 hours was 68 percent of the administered dose.
+Conversion of enalapril to enalaprilat was in the range of 63 to 76 percent.
 The overall results of this study indicate that the pharmacokinetics of enalapril in hypertensive children aged 2 months to ≤16 years are consistent across the studied age groups and consistent with pharmacokinetic historic data in healthy adults.
 
 In a clinical study involving 110 hypertensive pediatric patients 6 to 16 years of age, patients who weighed <50 kg received either 0.625, 2.5 or 20 mg of enalapril daily and patients who weighed ≥50 kg received either 1.25, 5, or 40 mg of enalapril daily.

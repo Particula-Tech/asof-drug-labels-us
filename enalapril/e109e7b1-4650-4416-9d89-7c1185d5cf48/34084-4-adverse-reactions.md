@@ -3,14 +3,14 @@
 Enalapril maleate has been evaluated for safety in more than 10,000 patients, including over 1,000 patients treated for one year or more.
 Enalapril maleate has been found to be generally well tolerated in controlled clinical trials involving 2987 patients.
 For the most part, adverse experiences were mild and transient in nature.
-In clinical trials, discontinuation of therapy due to clinical adverse experiences was required in 3.3% of patients with hypertension and in 5.7% of patients with heart failure.
+In clinical trials, discontinuation of therapy due to clinical adverse experiences was required in 3.3 percent of patients with hypertension and in 5.7 percent of patients with heart failure.
 The frequency of adverse experiences was not related to total daily dosage within the usual dosage ranges.
 In patients with hypertension the overall percentage of patients treated with enalapril maleate reporting adverse experiences was comparable to placebo.
 
 ## Hypertension
 
 Adverse experiences occurring in greater than one percent of patients with hypertension treated with enalapril maleate in controlled clinical trials are shown below.
-In patients treated with enalapril maleate, the maximum duration of therapy was 3 years; in placebo-treated patients the maximum duration of therapy was 12 weeks.
+In patients treated with enalapril maleate, the maximum duration of therapy was three years; in placebo-treated patients the maximum duration of therapy was 12 weeks.
 
 |  | Enalapril Maleate (n=2314) Incidence (discontinuation) | Placebo (n=230) Incidence |
 | --- | --- | --- |
@@ -33,8 +33,8 @@ In patients treated with enalapril maleate, the maximum duration of therapy was 
 
 Adverse experiences occurring in greater than one percent of patients with heart failure treated with enalapril maleate are shown below.
 The incidences represent the experiences from both controlled and uncontrolled clinical trials (maximum duration of therapy was approximately one year).
-In the placebo treated patients, the incidences reported are from the controlled trials (maximum duration of therapy is 12 weeks).
-The percentage of patients with severe heart failure (NYHA Class IV) was 29% and 43% for patients treated with enalapril maleate and placebo, respectively.
+In the placebo-treated patients, the incidences reported are from the controlled trials (maximum duration of therapy is 12 weeks).
+The percentage of patients with severe heart failure (NYHA Class IV) was 29 percent and 43 percent for patients treated with enalapril maleate and placebo, respectively.
 
 |  | Enalapril Maleate (n=673) Incidence (discontinuation) | Placebo (n=339) Incidence |
 | --- | --- | --- |
@@ -68,7 +68,7 @@ The percentage of patients with severe heart failure (NYHA Class IV) was 29% and
 | Urogenital |  |  |
 | Urinary Tract Infection | 1.3 (0) | 2.4 |
 
-Other serious clinical adverse experiences occurring since the drug was marketed or adverse experiences occurring in 0.5 to 1% of patients with hypertension or heart failure in clinical trials are listed below and, within each category, are in order of decreasing severity.
+Other serious clinical adverse experiences occurring since the drug was marketed or adverse experiences occurring in 0.5 to 1 percent of patients with hypertension or heart failure in clinical trials are listed below and, within each category, are in order of decreasing severity.
 
 Body As A Whole
 
@@ -118,14 +118,14 @@ Angioedema
 
 Angioedema has been reported in patients receiving enalapril maleate, with an incidence higher in black than in non-black patients.
 Angioedema associated with laryngeal edema may be fatal.
-If angioedema of the face, extremities, lips, tongue, glottis and/or larynx occurs, treatment with enalapril maleate should be discontinued and appropriate therapy instituted immediately (see WARNINGS).
+If angioedema of the face, extremities, lips, tongue, glottis and/or larynx occurs, treatment with enalapril maleate should be discontinued and appropriate therapy instituted immediately (see WARNINGS, Head and Neck Angioedema).
 
 Hypotension
 
-In the hypertensive patients, hypotension occurred in 0.9% and syncope occurred in 0.5% of patients following the initial dose or during extended therapy.
-Hypotension or syncope was a cause for discontinuation of therapy in 0.1% of hypertensive patients.
-In heart failure patients, hypotension occurred in 6.7% and syncope occurred in 2.2% of patients.
-Hypotension or syncope was a cause for discontinuation of therapy in 1.9% of patients with heart failure (see WARNINGS).
+In the hypertensive patients, hypotension occurred in 0.9 percent and syncope occurred in 0.5 percent of patients following the initial dose or during extended therapy.
+Hypotension or syncope was a cause for discontinuation of therapy in 0.1 percent of hypertensive patients.
+In heart failure patients, hypotension occurred in 6.7 percent and syncope occurred in 2.2 percent of patients.
+Hypotension or syncope was a cause for discontinuation of therapy in 1.9 percent of patients with heart failure (see WARNINGS, Hypotension).
 
 Cough
 
@@ -139,19 +139,19 @@ The adverse experience profile for pediatric patients appears to be similar to t
 
 ### Serum Electrolytes
 
-Hyperkalemia (see PRECAUTIONS), hyponatremia.
+Hyperkalemia (see PRECAUTIONS, Hyperkalemia), hyponatremia.
 
 ### Creatinine, Blood Urea Nitrogen
 
-In controlled clinical trials minor increases in blood urea nitrogen and serum creatinine, reversible upon discontinuation of therapy, were observed in about 0.2% of patients with essential hypertension treated with enalapril maleate alone.
-Increases are more likely to occur in patients receiving concomitant diuretics or in patients with renal artery stenosis (see PRECAUTIONS).
-In patients with heart failure who were also receiving diuretics with or without digitalis, increases in blood urea nitrogen or serum creatinine, usually reversible upon discontinuation of enalapril maleate and/or other concomitant diuretic therapy, were observed in about 11% of patients.
-Increases in blood urea nitrogen or creatinine were a cause for discontinuation in 1.2% of patients.
+In controlled clinical trials minor increases in blood urea nitrogen and serum creatinine, reversible upon discontinuation of therapy, were observed in about 0.2 percent of patients with essential hypertension treated with enalapril maleate alone.
+Increases are more likely to occur in patients receiving concomitant diuretics or in patients with renal artery stenosis (see PRECAUTIONS, Impaired Renal Function).
+In patients with heart failure who were also receiving diuretics with or without digitalis, increases in blood urea nitrogen or serum creatinine, usually reversible upon discontinuation of enalapril maleate and/or other concomitant diuretic therapy, were observed in about 11 percent of patients.
+Increases in blood urea nitrogen or creatinine were a cause for discontinuation in 1.2 percent of patients.
 
 ### Hematology
 
 Small decreases in hemoglobin and hematocrit (mean decreases of approximately 0.3 g percent and 1 vol percent, respectively) occur frequently in either hypertension or congestive heart failure patients treated with enalapril maleate but are rarely of clinical importance unless another cause of anemia coexists.
-In clinical trials, less than 0.1% of patients discontinued therapy due to anemia.
+In clinical trials, less than 0.1 percent of patients discontinued therapy due to anemia.
 Hemolytic anemia, including cases of hemolysis in patients with G6PD deficiency, has been reported; a causal relationship to enalapril cannot be excluded.
 
 ### Liver Function Tests

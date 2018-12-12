@@ -38,10 +38,6 @@ Protect from moisture.
 
 Dispense in a tight container as per USP, if product package is subdivided.
 
-1 Registered trademark of Alza Corporation.
-
-2 Trademark of Paddock Laboratories, Inc.
-
 Manufactured for:
 
 Northstar Rx LLC, Memphis, TN 38141.
@@ -55,4 +51,4 @@ S1-1526 Ljubljana, Slovenia.
 Product of India.
 
 Rev.
-October 2017
+October 2018 46235428
