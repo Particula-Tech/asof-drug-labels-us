@@ -57,7 +57,7 @@ Because of the potential for genotoxicity, advise males (including those who hav
 
 The safety and effectiveness of ARRANON has been established in pediatric patients.
 The safety and effectiveness of ARRANON in pediatric patients has been studied in a clinical trial which included 84 patients aged 21 years and younger, who had relapsed or refractory T-cell acute lymphoblastic leukemia (T-ALL) or T-cell lymphoblastic lymphoma (T-LBL).
-The most frequent adverse events of any grade occurring on treatment in this study were hematologic laboratory abnormalities, most considered to be possibly related to nelarabine.
+The most frequent adverse events of any grade occurring on treatment in this study were hematologic laboratory abnormalities, most considered to be possibly related to ARRANON.
 Hematologic toxicity observed in the pediatric population was higher than that seen in the adult population.
 However, the incidence observed on this study was similar to that observed with other cytotoxic agents used for treatment of relapsed /refractory T-ALL/ T-LBL in this population [see Dosage and Administration (2.1), Adverse Reactions (6.1), Clinical Studies (14.2)].
 

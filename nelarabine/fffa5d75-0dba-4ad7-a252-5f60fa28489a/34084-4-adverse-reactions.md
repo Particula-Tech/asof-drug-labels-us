@@ -20,7 +20,7 @@ The most common adverse reactions in adults, regardless of causality, were fatig
 The most common adverse reactions in adults, by Body System, regardless of causality, including severe or life-threatening adverse reactions (NCI CTCAE Grade 3 or Grade 4) and fatal adverse reactions (Grade 5) are shown in Table 1.
 
 Table 1.
-Most Commonly Reported (≥5% Overall) Adverse Reactions Regardless of Causality in Adult Patients Treated with 1,500 mg/m2 of ARRANON Administered Intravenously over 2 Hours on Days 1, 3, and 5 Repeated Every 21 Days
+Most Commonly Reported (≥ 5% Overall) Adverse Reactions Regardless of Causality in Adult Patients Treated with 1,500 mg/m2 of ARRANON Administered Intravenously over 2 Hours on Days 1, 3, and 5 Repeated Every 21 Days
 
 |  | Percentage of Patients (N = 103) |  |  |
 | --- | --- | --- | --- |
@@ -84,9 +84,7 @@ Most Commonly Reported (≥5% Overall) Adverse Reactions Regardless of Causality
 | Vascular Disorders |  |  |  |
 | Petechiae | 2 | 0 | 12 |
 | Hypotension | 1 | 1 | 8 |
-
-a Five patients had a fatal adverse reaction.
-Fatal adverse reactions included hypotension (n = 1), respiratory arrest (n = 1), pleural effusion/pneumothorax (n = 1), pneumonia (n = 1), and cerebral hemorrhage/coma/leukoencephalopathy (n = 1).
+| a Five patients had a fatal adverse reaction. Fatal adverse reactions included hypotension (n = 1), respiratory arrest (n = 1), pleural effusion/pneumothorax (n = 1), pneumonia (n = 1), and cerebral hemorrhage/coma/leukoencephalopathy (n = 1). |  |  |  |
 
 Other Adverse Reactions: Blurred vision was also reported in 4% of adult patients.
 
@@ -165,9 +163,7 @@ Most Commonly Reported (≥ 5% Overall) Adverse Reactions Regardless of Causalit
 | Asthenia | 1 | 0 | 6 |
 | Infections & Infestations |  |  |  |
 | Infection | 2 | 1 | 5 |
-
-a Three patients had a fatal adverse reaction.
-Fatal adverse reactions included neutropenia and pyrexia (n = 1), status epilepticus/seizure (n = 1), and fungal pneumonia (n = 1).
+| a Three patients had a fatal adverse reaction. Fatal adverse reactions included neutropenia and pyrexia (n = 1), status epilepticus/seizure (n = 1), and fungal pneumonia (n = 1). |  |  |  |
 
 Neurologic Adverse Reactions: Nervous system adverse reactions, regardless of drug relationship, were reported for 42% of pediatric patients across the Phase I and Phase II trials.
 The most common neurologic adverse reactions (≥ 2%) in pediatric patients, regardless of causality, including all grades (NCI CTCAE) are shown in Table 4.
@@ -195,8 +191,7 @@ Neurologic Adverse Reactions (≥ 2%) Regardless of Causality in Pediatric Patie
 | Paresthesia | 0 | 2 | 1 | 0 | 4 |
 | Tremor | 1 | 2 | 0 | 0 | 4 |
 | Ataxia | 1 | 0 | 1 | 0 | 2 |
-
-a One (1) patient had a fatal neurologic adverse reaction, status epilepticus.
+| a One (1) patient had a fatal neurologic adverse reaction, status epilepticus. |  |  |  |  |  |
 
 The other Grade 3 neurologic adverse reaction in pediatric patients, regardless of causality, was hypertonia reported in 1 patient (1%).
 The additional Grade 4 neurologic adverse reactions, regardless of causality, were 3rd nerve paralysis, and 6th nerve paralysis, each reported in 1 patient (1%).

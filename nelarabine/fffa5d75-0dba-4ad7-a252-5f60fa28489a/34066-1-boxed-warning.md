@@ -5,4 +5,5 @@ These adverse reactions have included altered mental states including severe som
 There have also been reports of adverse reactions associated with demyelination, and ascending peripheral neuropathies similar in appearance to Guillain-Barré syndrome [see Warnings and Precautions (5.1)].
 
 Full recovery from these adverse reactions has not always occurred with cessation of therapy with ARRANON.
-Close monitoring for neurologic adverse reactions is strongly recommended, and ARRANON should be discontinued for neurologic adverse reactions of NCI Common Toxicity Criteria for Adverse Events (CTCAE) Grade 2 or greater [see Warnings and Precautions (5.1)].
+Monitor frequently for signs and symptoms of neurologic toxicity during treatment with ARRANON.
+Discontinue ARRANON for neurologic adverse reactions of NCI Common Toxicity Criteria for Adverse Events (CTCAE) Grade 2 or greater [see Warnings and Precautions (5.1)].

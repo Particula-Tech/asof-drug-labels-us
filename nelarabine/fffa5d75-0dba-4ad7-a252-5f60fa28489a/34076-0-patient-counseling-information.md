@@ -28,7 +28,7 @@ Vaccinations
 Effects on Ability to Drive and Use Machines
 
 - Patients receiving ARRANON may experience somnolence during and for several days after treatment.
-  Instruct patients to not drive or or engage in hazardous occupations or activities until somnolence has resolved [see Warnings and Precautions (5.6), Adverse Reactions (6.1)].
+  Instruct patients to not drive or engage in hazardous occupations or activities until somnolence has resolved [see Warnings and Precautions (5.6), Adverse Reactions (6.1)].
 
 Neurologic Adverse Reactions
 
@@ -49,4 +49,4 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 © Novartis
 
-T2018-100
+T2018-130

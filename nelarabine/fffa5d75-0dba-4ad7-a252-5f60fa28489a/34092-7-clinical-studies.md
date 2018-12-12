@@ -23,14 +23,7 @@ Efficacy Results in Adult Patients with ≥ 2 Prior Inductions Treated with 1,50
 | CR* % (n) [95% CI] | 4% (1) [0%, 18%] |
 | Duration of CR plus CR* (range in weeks)a | 4 to 195+ |
 | Median overall survival (weeks) [95% CI] | 20.6 weeks [10.4, 36.4] |
-
-CR = Complete response.
-
-CR* = Complete response without hematologic recovery.
-
-CI = Confidence Interval
-
-a Does not include 1 patient who was transplanted (duration of response was 156+ weeks).
+| CR = Complete response. CR* = Complete response without hematologic recovery. CI = Confidence Interval a Does not include 1 patient who was transplanted (duration of response was 156+ weeks). |  |
 
 The mean number of days on therapy was 56 days (range of 10 to 136 days).
 Time to CR plus CR* ranged from 2.9 to 11.7 weeks.
@@ -68,14 +61,7 @@ Efficacy Results in Patients Aged 21 Years and Younger at Diagnosis with ≥ 2 P
 | CR* % (n) [95% CI] | 10% (4) [3%, 24%] |
 | Duration of CR plus CR* (range in weeks)a | 3.3 to 9.3 |
 | Median overall survival (weeks) [95% CI] | 13.1 [8.7, 17.4] |
+| CR = Complete response. CR* = Complete response without hematologic recovery. CI = Confidence Interval a Does not include 5 patients who were transplanted or had subsequent systemic chemotherapy (duration of response in these 5 patients was 4.7 to 42.1 weeks). |  |
 
-CR = Complete response.
-
-CR* = Complete response without hematologic recovery.
-
-CI = Confidence Interval
-
-a Does not include 5 patients who were transplanted or had subsequent systemic chemotherapy (duration of response in these 5 patients was 4.7 to 42.1 weeks).
-
-The mean number of days on therapy was 46 days (range: 7 to 129 days).
+The mean number of days on therapy was 46 days (range: 7-129 days).
 Median time to CR plus CR* was 3.4 weeks (95% CI: 3.0, 3.7).

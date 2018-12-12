@@ -2,17 +2,20 @@
 
 ## 5.1 Neurologic Adverse Reactions
 
-Neurotoxicity is the dose-limiting toxicity of ARRANON.
-Patients undergoing therapy with ARRANON should be closely observed for signs and symptoms of neurologic toxicity [see Boxed Warning, Dosage and Administration (2.2), Adverse Reactions (6.1)].
-Common signs and symptoms of nelarabine-related neurotoxicity include somnolence, confusion, convulsions, ataxia, paresthesias, and hypoesthesia.
+Nervous system adverse reactions of any grade were reported for 223 (76%) adult patients across the Phase I and Phase II trials, and Grade 3 or higher (severe, life-threatening, or fatal) adverse reactions were reported for 55 (19%) patients following initiation of ARRANON therapy [see Adverse Reactions (6.1)].
+Based on patients with complete data, the median time to onset of first event is 5 days from start of first infusion (range: 1-166), and the median duration is 6 days (range: 1-393 days).
+
+Nervous system adverse reactions of any grade were reported for 69 (42%) pediatric patients across the Phase I and Phase II trials, and Grade 3 or higher (severe, life-threatening, or fatal) adverse reactions were reported for 25 (15%) patients following initiation of ARRANON therapy [see Adverse Reactions (6.1)].
+Based on patients with complete data, the median time to onset of first event is 8 days from start of first infusion (range: 1-269), and the median duration is 2 days (range: 1-82 days).
+
+Common signs and symptoms of ARRANON-related neurotoxicity include somnolence, headache, paresthesia and dysesthesia, dizziness, neuropathy (sensory and motor), cerebellar disturbances and tremor.
 Severe neurologic toxicity can manifest as coma, status epilepticus, craniospinal demyelination, or ascending neuropathy similar in presentation to Guillain-Barré syndrome.
 
-Nervous system adverse reactions, regardless of drug relationship, were reported for 76% of adult patients across the Phase I and Phase II trials; nervous system adverse reactions, regardless of drug relationship, were reported for 42% of pediatric patients across the Phase I and Phase II trials [see Adverse Reactions (6.1)].
-
 Full recovery from these adverse reactions has not always occurred with cessation of therapy with ARRANON.
-Close monitoring for neurologic adverse reactions is strongly recommended, and ARRANON should be discontinued for neurologic adverse reactions of NCI Common Toxicity Criteria for Adverse Events (CTCAE) Grade 2 or greater.
-
 Patients treated previously or concurrently with intrathecal chemotherapy or previously with craniospinal irradiation may be at increased risk for neurologic adverse events.
+
+Monitor patients frequently for signs and symptoms of neurologic toxicity during and for at least 24 hours after completion of treatment with ARRANON.
+Discontinue ARRANON for neurologic adverse reactions of NCI CTCAE Grade 2 or greater and provide supportive care [see Dosage and Administration (2.2), Adverse Reactions (6.1)].
 
 ## 5.2 Hematologic Adverse Reactions
 
