@@ -4,7 +4,13 @@ Sun Pharmaceutical Industries, Inc.
 
 Cranbury, NJ 08512
 
-ISS.
-11/2014
+Manufactured by:
 
-PJPI0112F
+Sun Pharmaceutical Industries Ltd.
+
+Halol-Baroda Highway,
+
+Halol-389 350, Gujarat, India.
+
+ISS.
+10/2018 PJPI0112H

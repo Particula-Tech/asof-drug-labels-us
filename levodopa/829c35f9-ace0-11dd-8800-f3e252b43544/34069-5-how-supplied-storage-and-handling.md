@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Carbidopa and levodopa tablets, USP 25 mg/100 mg are yellow to light yellow colored oval shaped, biconvex, uncoated tablets debossed with "518" on one side and plain on the other side.
+Carbidopa and levodopa tablets, USP 25 mg/100 mg are mottled (orange colored speckles) yellow to light yellow colored oval shaped, biconvex, uncoated tablets debossed with "518" on one side and plain on the other side.
 They are supplied as follows:
 
 Bottle of 30's NDC 62756-518-83

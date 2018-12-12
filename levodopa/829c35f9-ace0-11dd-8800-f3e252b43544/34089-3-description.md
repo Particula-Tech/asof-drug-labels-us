@@ -20,3 +20,4 @@ Carbidopa and levodopa tablets, USP, 25 mg/250 mg, containing 25 mg of carbidopa
 Inactive ingredients are microcrystalline cellulose, corn starch, pregelatinized maize starch, sodium starch glycolate, magnesium stearate.
 Carbidopa and levodopa tablets, USP 10 mg/100 mg and 25 mg/250 mg also contain FD&C Blue 2.
 Carbidopa and levodopa tablets, USP 25 mg/100 mg also contain D&C Yellow 10 and FD&C Yellow 6.
+FDA approved dissolution method differs from that of the USP.
