@@ -39,8 +39,8 @@ Manufactured for:
 
 Somerset Therapeutics, LLC
 
-Mendham, NJ 07945
+Somerset, NJ 08873
 
-ST-MET11/P/01
+ST-MET11/P/02
 
-Issued: August, 2017
+Revised: June 2018
