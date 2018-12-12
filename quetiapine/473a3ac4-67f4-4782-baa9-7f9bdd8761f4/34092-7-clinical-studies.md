@@ -23,10 +23,10 @@ Table 27: Schizophrenia Short-Term Trials
 | Study Number | Treatment Group | Primary Efficacy Endpoint: PANSS Total |  |  |
 | --- | --- | --- | --- | --- |
 | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |  |  |
-| Study 1 | SEROQUEL XR (400 mg/day)Doses that are statistically significantly superior to placebo. | 95.8 (13.9) | -24.8 (2.5) | -6.1 (-11.5, -0.6) |
+| Study 1 | SEROQUEL XR (400 mg/day)Doses that are statistically significantly superior to placebo | 95.8 (13.9) | -24.8 (2.5) | -6.1 (-11.5, -0.6) |
 | SEROQUEL XR (600 mg/day) | 96.8 (14.1) | -30.9 (2.5) | -12.1 (-17.6, -6.7) |  |
 | SEROQUEL XR (800 mg/day) | 97.3 (14.7) | -31.3 (2.5) | -12.5 (-17.9, -7.1) |  |
-| SEROQUEL (400 mg/day),Included in the trial for assay sensitivity. | 96.5 (16.0) | -26.6 (2.4) | -7.8 (-13.1, -2.4) |  |
+| SEROQUEL (400 mg/day),Included in the trial for assay sensitivity | 96.5 (16.0) | -26.6 (2.4) | -7.8 (-13.1, -2.4) |  |
 | Placebo | 96.2 (13.3) | -18.8 (2.5) | -- |  |
 | Study 2(adolescents) | SEROQUEL (400 mg/day) | 96.2 (17.7) | -27.3 (2.6) | -8.2 (-16.1, -0.3) |
 | SEROQUEL (800 mg/day) | 96.9 (15.3) | -28.4 (1.8) | -9.3 (-16.2, -2.4) |  |
@@ -84,7 +84,7 @@ The majority of patients in this trial taking SEROQUEL were dosed in a range bet
 
 Children and Adolescents (ages 10-17)
 
-The efficacy of SEROQUEL XR in the acute treatment of manic episodes associated with bipolar I disorder in children and adolescents (10 to 17 years of age) was extrapolated from a 3-week, double-blind, placebo-controlled, multicenter trial.
+The efficacy of SEROQUEL XR in the acute treatment of manic episodes associated with bipolar I disorder in children and adolescents (10 - 17 years of age) was extrapolated from a 3-week, double-blind, placebo-controlled, multicenter trial.
 Patients who met DSM-IV diagnostic criteria for a manic episode were randomized into one of three treatment groups: SEROQUEL 400 mg/day (n = 95), SEROQUEL 600 mg/day (n = 98), or placebo (n = 91).
 Study medication was initiated at 50 mg/day and on day 2 increased to 100 mg/day (divided doses given two or three times daily).
 Subsequently, the dose was titrated to a target dose of 400 mg/day or 600 mg/day using increments of 100 mg/day, given in divided doses two or three times daily.
@@ -163,7 +163,9 @@ In both studies, SEROQUEL was superior to placebo in increasing the time to recu
 The treatment effect was present for increasing time to recurrence of both manic and depressed episodes.
 The effect of SEROQUEL was independent of any specific subgroup (assigned mood stabilizer, sex, age, race, most recent bipolar episode, or rapid cycling course).
 
-Figure 2: Kaplan-Meier Curves of Time to Recurrence of A Mood Event (Study 9)
+Figure 2: Kaplan-Meier Curves of Time to Recurrence of a Mood Event (Study 9)
+
+Figure 3: Kaplan-Meier Curves of Time to Recurrence of a Mood Event (Study 10)
 
 ## 14.3 Major Depressive Disorder, Adjunctive Therapy to Antidepressants
 

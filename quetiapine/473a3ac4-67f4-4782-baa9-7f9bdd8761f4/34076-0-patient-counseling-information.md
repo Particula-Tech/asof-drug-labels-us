@@ -54,7 +54,8 @@ Children and adolescent patients should have their blood pressure measured at th
 
 Leukopenia/Neutropenia
 
-Patients with a pre-existing low WBC or a history of drug induced leukopenia/neutropenia should be advised that they should have their CBC monitored while taking SEROQUEL XR [see Warnings and Precautions (5.10)].
+Patients with a pre-existing low WBC or a history of drug induced leukopenia/neutropenia should be advised that they should have their CBC monitored while taking SEROQUEL XR.
+Patients should be advised to talk to their doctor as soon as possible if they have a fever, flu-like symptoms, sore throat, or any other infection as this could be a result of a very low WBC, which may require SEROQUEL XR to be stopped and/or treatment to be given [see Warnings and Precautions (5.10)].
 
 Interference with Cognitive and Motor Performance
 
@@ -78,4 +79,4 @@ Need for Comprehensive Treatment Program
 SEROQUEL XR is indicated as an integral part of a total treatment program for adolescents with schizophrenia and pediatric bipolar disorder that may include other measures (psychological, educational, and social).
 Effectiveness and safety of SEROQUEL XR have not been established in pediatric patients less than 13 years of age for schizophrenia or less than 10 years of age for bipolar mania.
 Appropriate educational placement is essential and psychosocial intervention is often helpful.
-The decision to prescribe atypical antipsychotic medication will depend upon the physician’s assessment of the chronicity and severity of the patient’s symptoms [see Indications and Usage (1.4)_RefID_567fa960-84b4-47a8-84f3-04a3ac7c2].
+The decision to prescribe atypical antipsychotic medication will depend upon the physician’s assessment of the chronicity and severity of the patient’s symptoms [see Indications and Usage (1.4)].

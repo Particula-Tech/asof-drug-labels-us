@@ -108,11 +108,12 @@ Before you take SEROQUEL XR, tell your healthcare provider if you have or have h
 10. • liver problems
 11. • any other medical condition
 12. • pregnancy or plans to become pregnant.
-    It is not known if SEROQUEL XR will harm your unborn baby
+    It is not known if SEROQUEL XR will harm your unborn baby.
 13. • breast-feeding or plans to breast-feed.
     SEROQUEL XR can pass into your breast milk.
     You and your healthcare provider should decide if you will take SEROQUEL XR or breast-feed.
     You should not do both.
+14. • if you have or have had a condition where you cannot completely empty your bladder (urinary retention), have an enlarged prostate, or constipation, or increased pressure inside your eyes.
 
 Tell the healthcare provider about all the medicines that you take or recently have taken including prescription medicines, over-the-counter medicines, herbal supplements and vitamins.
 
@@ -200,7 +201,9 @@ Call your healthcare provider if you have any of these symptoms of high blood su
 11. • increases in blood pressure in children and teenagers.
     Your healthcare provider should check blood pressure in children and adolescents before starting SEROQUEL XR and during therapy.
     SEROQUEL XR is not approved for patients under 10 years of age.
-12. • low white blood cell count
+12. • low white blood cell count.
+    Tell your healthcare provider as soon as possible if you have a fever, flu-like symptoms, or any other infection, as this could be a result of a very low white blood cell count.
+    Your healthcare provider may check your white blood cell level to determine if further treatment or other action is needed
 13. • cataracts
 14. • seizures
 15. • abnormal thyroid tests: Your healthcare provider may do blood tests to check your thyroid hormone level.
@@ -221,6 +224,20 @@ The most common side effects of SEROQUEL XR include:
 6. • fatigue
 7. • stuffy nose
 8. • difficulty moving
+9. • disturbance in speech or language
+
+Children and Adolescents:
+
+1. • drowsiness
+2. • dizziness
+3. • fatigue
+4. • stuffy nose
+5. • increased appetite
+6. • upset stomach
+7. • vomiting
+8. • dry mouth
+9. • tachycardia
+10. • weight increased
 
 These are not all the possible side effects of SEROQUEL XR.
 For more information, ask your healthcare provider or pharmacist.
@@ -267,4 +284,4 @@ AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-Revised: October 2013
+Revised: 11/2018
