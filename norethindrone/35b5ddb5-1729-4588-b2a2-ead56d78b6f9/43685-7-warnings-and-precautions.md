@@ -132,8 +132,8 @@ Use of this product before menarche is not indicated.
 ## Information for the Patient
 
 - 
-  - 1.See PATIENT LABELING for detailed information.
-  - 2.Counseling issues.
+  - •See PATIENT LABELING for detailed information.
+  - •Counseling issues.
 
 The following points should be discussed with prospective users before prescribing progestin-only oral contraceptives
 
