@@ -36,7 +36,7 @@ Rx only
 
 60 Tablets
 
-# PRINCIPAL DISPLAY PANEL - 300 mg Vial Carton
+# PRINCIPAL DISPLAY PANEL - 16.7 mL Vial Carton
 
 NDC 0085-4331-01
 
