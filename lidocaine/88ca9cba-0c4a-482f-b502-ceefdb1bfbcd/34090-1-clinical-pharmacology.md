@@ -7,7 +7,7 @@ Lidocaine stabilizes the neuronal membrane by inhibiting the ionic fluxes requir
 ## Onset of anesthesia:
 
 Lidocaine Ointment 5% effects local, topical anesthesia.
-The onset of action is 3-5 minutes.
+The onset of action is 3 - 5 minutes.
 It is ineffective when applied to intact skin.
 
 ## Hemodynamics:
@@ -41,4 +41,4 @@ Renal dysfunction does not affect lidocaine kinetics but may increase the accumu
 
 Factors such as acidosis and the use of CNS stimulants and depressants affect the CNS levels of lidocaine required to produce overt systemic effects.
 Objective adverse manifestations become increasingly apparent with increasing venous plasma levels above 6.0 μg free base per mL.
-In the rhesus monkey arterial blood levels of 18-21 μg/mL have been shown to be threshold for convulsive activity.
+In the rhesus monkey arterial blood levels of 18 - 21 μg/mL have been shown to be threshold for convulsive activity.
