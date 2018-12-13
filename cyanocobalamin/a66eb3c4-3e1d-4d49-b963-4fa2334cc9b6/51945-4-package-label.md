@@ -33,3 +33,5 @@ Contains no more than 200 mcg/L of aluminum.
 WARNING: PROTECT FROM LIGHT.
 Store at 20º to 25ºC (68º to 77ºF), excursions permitted to 15º to 30ºC (59º to 86ºF) [See USP Controlled Room Temperature].
 USUAL DOSAGE: See package insert.
+
+# SERIALIZATION IMAGE
