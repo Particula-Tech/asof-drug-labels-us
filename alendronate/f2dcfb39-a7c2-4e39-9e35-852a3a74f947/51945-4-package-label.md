@@ -1,6 +1,6 @@
-PRINCIPAL DISPLAY PANEL - 4 Tablet Blister Pack Wallet
+# PRINCIPAL DISPLAY PANEL - 4 Tablet Blister Pack
 
-ONCE WEEKLY FOSAMAX ® 70 mg (Alendronate Sodium Tablets)
+ONCE WEEKLY FOSAMAX® 70 mg (Alendronate SodiumTablets)
 
 Dispense the enclosed Medication Guide to each patient.
 
@@ -12,7 +12,7 @@ Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC. Whitehous
 
 Manuf. by: Aesica Pharmaceuticals GmbH Galileistraβe 6, 08056 Zwickau, Germany
 
-Alendronate Sodium (active ingred.)
+Alendronate Sodium(active ingred.)
 Made in Ireland.
 
 Formulated in Germany.
