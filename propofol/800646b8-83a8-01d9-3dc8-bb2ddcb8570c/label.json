@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "ANDA205067"
+  ],
+  "inn": "propofol",
+  "labeler": "Dr. Reddy's Laboratories, Inc.",
+  "package_ndcs": [
+    "43598-265-20",
+    "43598-265-25",
+    "43598-265-58",
+    "43598-548-21",
+    "43598-548-50",
+    "43598-549-10",
+    "43598-549-52"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, EMULSION",
+      "generic": "propofol injectable emulsion",
+      "name": "Propofol Injectable Emulsion"
+    }
+  ],
+  "setid": "800646b8-83a8-01d9-3dc8-bb2ddcb8570c",
+  "source": "dailymed"
+}
