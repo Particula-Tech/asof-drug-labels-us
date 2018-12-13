@@ -7,7 +7,7 @@ USUAL DOSAGE: See package insert.
 Store at 20º to 25ºC (68º to 77ºF) [See USP Controlled Room Temperature].
 Retain in carton until time of use.
 
-# PRINCIPLA DISPLAY PANEL - Carton labels
+# PRINCIPAL DISPLAY PANEL - Carton labels
 
 NDC 0143-9875-10 10 x 3 mL Single Use Vials AMIODARONE HYDROCHLORIDE INJECTION 150 mg/3 mL (50 mg/mL) FOR IV USE ONLY Rx ONLY
 
@@ -30,3 +30,5 @@ Store at 20º to 25ºC (68º to 77ºF).
 MUST BE DILUTED BEFORE USE.
 Protect from light and excessive heat.
 Use carton to protect contents from light until time of use.
+
+# SERIALIZATION IMAGE
