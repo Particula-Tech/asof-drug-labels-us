@@ -9,6 +9,8 @@ Bottles of 90 NDC 55111-789-90
 
 Bottles of 270 NDC 55111-789-27
 
+Unit dose package of 100 (25 x 4) NDC 55111-789-11
+
 Storage: Store at 20°-25°C (68°-77°F); [See USP Controlled Room Temperature]
 
 Protect from moisture.

@@ -8,18 +8,12 @@ Advise patients to report new onset or worsening of existing constipation prompt
 
 RX only
 
-Manufactured by:Dr.
-Reddy’s Laboratories Limited
+Distributor:
 
-Srikakulam – 532 409
+Dr. Reddy’s Laboratories Inc.,
 
-INDIA
+Princeton NJ 08540, USA
 
-Distributor:Dr.
-Reddy’s Laboratories Inc.,
+Made in India
 
-Princeton NJ 08540,
-
-USA
-
-Issued: 0817
+Revised: 0718

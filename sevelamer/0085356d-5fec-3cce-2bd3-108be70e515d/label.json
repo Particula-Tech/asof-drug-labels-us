@@ -5,8 +5,10 @@
   "inn": "sevelamer",
   "labeler": "DR. REDDY'S LABORATORIES LIMITED",
   "package_ndcs": [
+    "55111-789-11",
     "55111-789-27",
     "55111-789-30",
+    "55111-789-48",
     "55111-789-90"
   ],
   "products": [
