@@ -202,11 +202,9 @@ Before you begin taking any new medicines be sure your healthcare professional k
 ## IF YOU ARE LATE OR MISS TAKING YOUR POPs
 
 - •If you are more than 3 hours late or you miss one or more POPs:
-
-- 1.TAKE a missed pill as soon as you remember that you missed it,
-- 2.THEN go back to taking POPs at your regular time,
-- 3.BUT be sure to use a backup method (such as a condom and/or a spermicide) every time you have sex for the next 48 hours.
-
+- •TAKE a missed pill as soon as you remember that you missed it,
+- •THEN go back to taking POPs at your regular time,
+- •BUT be sure to use a backup method (such as a condom and/or a spermicide) every time you have sex for the next 48 hours.
 - •If you are not sure what to do about the pills you have missed, keep taking POPs and use a backup method until you can talk to your healthcare professional.
 
 ## IF YOU ARE BREASTFEEDING

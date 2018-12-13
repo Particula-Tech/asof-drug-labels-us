@@ -120,8 +120,8 @@ The onset or exacerbation of migraine or development of severe headache with foc
 
 ## INFORMATION FOR THE PATIENT
 
-- 1.See “Detailed Patient Labeling” for detailed information.
-- 2.Counseling issues
+- •See “Detailed Patient Labeling” for detailed information.
+- •Counseling issues
 
 The following points should be discussed with prospective users before prescribing progestin-only oral contraceptives:
 
