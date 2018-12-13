@@ -29,3 +29,5 @@ Reconstituted solution is stable for 24 hours at room temperature or for 10 days
 Reconstituted solutions may range in color from pale yellow to yellow without a change in potency.
 Store at 20º to 25ºC (68º to 77ºF) [See USP Controlled Room Temperature].
 PROTECT FROM LIGHT.
+
+# SERIALIZATION IMAGE
