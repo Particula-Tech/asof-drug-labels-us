@@ -27,3 +27,5 @@ NDC 0143-9576-25 Rx only Lidocaine HCl Injection, USP 2% 40 mg/2mL (20 mg/mL) Fo
 NDC 0143-9575-01 Rx only Lidocaine HCl Injection, USP 2% 1,000 mg/50 mL (20 mg/mL) For Infiltration and Nerve Block Not For Epidural or Caudal Use 50 mL Multiple Dose Vial
 
 NDC 0143-9575-10 Rx only Lidocaine HCl Injection, USP 2% 1,000 mg/50 mL (20 mg/mL) For Infiltration and Nerve Block Not For Epidural or Caudal Use Methylparaben as Preservative 10 x 50 mL Multiple Dose Vials
+
+# SERIALIZATION IMAGE
