@@ -24,6 +24,32 @@ SUNOVION
 
 ______________________________________________________________________________
 
+PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 30 VIAL CARTON
+
+NDC 63402-911-30
+
+30 x 2 mL Sterile Unit-Dose Vials
+
+KEEP REFRIGERATED OR STORE AT ROOM TEMPERATURE FOR UP TO 6 WEEKS.
+
+Brovana®
+
+(arformoterol tartrate)
+
+Inhalation Solution
+
+15 mcg*/2 mL
+
+*Potency expressed as asformoterol
+
+ATTENTION DISPENSER: Each patient is required to receive the enclosed Medication Guide, also provided at www.brovana.com or 1-888-394-7377.
+
+For Oral Inhalation Only.
+
+Rx Only
+
+SUNOVION
+
 PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 4 VIAL POUCH
 
 NDC 63402-911-04
