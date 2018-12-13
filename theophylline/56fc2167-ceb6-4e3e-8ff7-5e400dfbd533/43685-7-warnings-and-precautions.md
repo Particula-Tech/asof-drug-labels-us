@@ -53,10 +53,10 @@ The dose of theophylline selected for initiation of therapy should be low and, i
 Serum theophylline concentration measurements are readily available and should be used to determine whether the dosage is appropriate.
 Specifically, the serum theophylline concentration should be measured as follows:
 
-- 1.When initiating therapy to guide final dosage adjustment after titration.
-- 2.Before making a dose increase to determine whether the serum concentration is sub-therapeutic in a patient who continues to be symptomatic.
-- 3.Whenever signs or symptoms of theophylline toxicity are present.
-- 4.Whenever there is a new illness, worsening of a chronic illness or a change in the patient’s treatment regimen that may alter theophylline clearance (e.g., fever >102°F sustained for ≥24 hours, hepatitis, or drugs listed in Table II are added or discontinued).
+- •When initiating therapy to guide final dosage adjustment after titration.
+- •Before making a dose increase to determine whether the serum concentration is sub-therapeutic in a patient who continues to be symptomatic.
+- •Whenever signs or symptoms of theophylline toxicity are present.
+- •Whenever there is a new illness, worsening of a chronic illness or a change in the patient’s treatment regimen that may alter theophylline clearance (e.g., fever >102°F sustained for ≥24 hours, hepatitis, or drugs listed in Table II are added or discontinued).
 
 To guide a dose increase, the blood sample should be obtained at the time of the expected peak serum theophylline concentration; 12 hours after an evening dose or 9 hours after a morning dose at steady-state.
 For most patients, steady-state will be reached after 3 days of dosing when no doses have been missed, no extra doses have been added, and none of the doses have been taken at unequal intervals.
@@ -247,6 +247,6 @@ Theophylline clearance may be further reduced by concomitant diseases prevalent 
 These conditions include impaired renal function, chronic obstructive pulmonary disease, congestive heart failure, hepatic disease and an increased prevalence of use of certain medications (see PRECAUTIONS: Drug Interactions) with the potential for pharmacokinetic and pharmacodynamic interaction.
 Protein binding may be decreased in the elderly resulting in an increased proportion of the total serum theophylline concentration in the pharmacologically active unbound form.
 Elderly patients also appear to be more sensitive to the toxic effects of theophylline after chronic overdosage than younger patients.
-Careful attention to dose reduction and frequent monitoring of serum theophylline concentrations are required in elderly patients (see PRECAUTIONS, Monitoring Serum Theophylline Concentrations, and DOSAGE AND ADMINISTRATION).
+Careful attention to dose reduction and frequent monitoring of serum theophylline concentrations are required in elderly patients (see PRECAUTIONS, Monitoring SerumTheophylline Concentrations, and DOSAGE AND ADMINISTRATION).
 The maximum daily dose of theophylline in patients greater than 60 years of age ordinarily should not exceed 400 mg/day unless the patient continues to be symptomatic and the peak steady-state serum theophylline concentration is <10 mcg/mL (see DOSAGE AND ADMINISTRATION).
 Theophylline doses greater than 400 mg/d should be prescribed with caution in elderly patients.

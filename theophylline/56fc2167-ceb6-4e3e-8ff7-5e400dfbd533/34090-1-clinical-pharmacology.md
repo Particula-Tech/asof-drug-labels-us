@@ -27,7 +27,7 @@ The pharmacokinetics of theophylline vary widely among similar patients and cann
 In addition, certain concurrent illnesses and alterations in normal physiology (see Table I) and co-administration of other drugs (see Table II) can significantly alter the pharmacokinetic characteristics of theophylline.
 Within-subject variability in metabolism has also been reported in some studies, especially in acutely ill patients.
 It is, therefore, recommended that serum theophylline concentrations be measured frequently in acutely ill patients (e.g., at 24-hr intervals) and periodically in patients receiving long-term therapy, e.g., at 6-12 month intervals.
-More frequent measurements should be made in the presence of any condition that may significantly alter theophylline clearance (see PRECAUTIONS, Laboratory Tests).
+More frequent measurements should be made in the presence of any condition that may significantly alter theophylline clearance (see PRECAUTIONS,Laboratory Tests).
 
 TABLE I. Mean and range of total body clearance and half-life of theophylline related to age and altered physiological statesFor various North American patient populations from literature reports.
 Different rates of elimination and consequent dosage requirements have been observed among other peoples..
@@ -227,7 +227,7 @@ Careful attention to dose reduction and frequent monitoring of serum theophyllin
 The clearance of theophylline is very low in neonates (see WARNINGS).
 Theophylline clearance reaches maximal values by one year of age, remains relatively constant until about 9 years of age and then slowly decreases by approximately 50% to adult values at about age 16.
 Renal excretion of unchanged theophylline in neonates amounts to about 50% of the dose, compared to about 10% in children older than three months and in adults.
-Careful attention to dosage selection and monitoring of serum theophylline concentrations are required in pediatric patients (see WARNINGS and DOSAGE AND ADMINISTRATION).
+Careful attention to dosage selection and monitoring of serum theophylline concentrations are required in pediatric patients (see WARNINGS and DOSAGE ANDADMINISTRATION).
 
 ### Gender:
 
