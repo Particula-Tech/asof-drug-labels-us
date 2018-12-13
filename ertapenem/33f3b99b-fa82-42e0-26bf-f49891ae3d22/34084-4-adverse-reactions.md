@@ -22,7 +22,7 @@ INVANZ was discontinued due to adverse experiences in 4.7% of patients.
 Table 3 shows the incidence of adverse experiences reported in ≥2.0% of patients in these trials.
 The most common drug-related adverse experiences in patients treated with INVANZ, including those who were switched to therapy with an oral antimicrobial, were diarrhea (5.5%), infused vein complication (3.7%), nausea (3.1%), headache (2.2%), and vaginitis in females (2.1%).
 
-Table 3: Incidence (%) of Adverse Experiences Reported During Study Therapy Plus 14-Day Follow-Up in ≥2.0% of Adult Patients Treated With INVANZ in Clinical Trials
+Table 3 Incidence (%) of Adverse Experiences Reported During Study Therapy Plus 14-Day Follow-Up in ≥2.0% of Adult Patients Treated With INVANZ in Clinical Trials
 
 | Adverse Events | (N=802) | (N=774) | (N=1152) | (N=942) |
 | --- | --- | --- | --- | --- |
@@ -81,7 +81,7 @@ Prophylaxis of Surgical Site Infection following Elective Colorectal Surgery
 In a clinical trial in adults for the prophylaxis of surgical site infection following elective colorectal surgery in which 476 patients received a 1 g dose of INVANZ 1 hour prior to surgery and were then followed for safety 14 days post surgery, the overall adverse experience profile was generally comparable to that observed for INVANZ in previous clinical trials.
 Table 4 shows the incidence of adverse experiences other than those previously described above for INVANZ that were reported regardless of causality in ≥2.0% of patients in this trial.
 
-Table 4: Incidence (%) of Adverse Experiences Reported During Study Therapy Plus 14-Day Follow-Up in ≥2.0% of Adult Patients Treated With INVANZ for Prophylaxis of Surgical Site Infections Following Elective Colorectal Surgery
+Table 4 Incidence (%) of Adverse Experiences Reported During Study Therapy Plus 14-Day Follow-Up in ≥2.0% of Adult Patients Treated With INVANZ for Prophylaxis of Surgical Site Infections Following Elective Colorectal Surgery
 
 | Adverse Events | INVANZ 1 g (N = 476) | Cefotetan 2 g (N = 476) |
 | --- | --- | --- |
@@ -119,7 +119,7 @@ The overall adverse experience profile in pediatric patients is comparable to th
 Table 5 shows the incidence of adverse experiences reported in ≥2.0% of pediatric patients in clinical trials.
 The most common drug-related adverse experiences in pediatric patients treated with INVANZ, including those who were switched to therapy with an oral antimicrobial, were diarrhea (6.5%), infusion site pain (5.5%), infusion site erythema (2.6%), vomiting (2.1%).
 
-Table 5: Incidence (%) of Adverse Experiences Reported During Study Therapy Plus 14-Day Follow-Up in ≥2.0% of Pediatric Patients Treated With INVANZ in Clinical Trials
+Table 5 Incidence (%) of Adverse Experiences Reported During Study Therapy Plus 14-Day Follow-Up in ≥2.0% of Pediatric Patients Treated With INVANZ in Clinical Trials
 
 | Adverse Events | (N=384) | (N=100) | (N=24) |
 | --- | --- | --- | --- |
@@ -189,7 +189,7 @@ Laboratory adverse experiences that were reported during therapy in ≥2.0% of a
 Drug-related laboratory adverse experiences that were reported during therapy in ≥2.0% of adult patients treated with INVANZ, including those who were switched to therapy with an oral antimicrobial, in clinical trials were ALT increased (6.0%), AST increased (5.2%), serum alkaline phosphatase increased (3.4%), and platelet count increased (2.8%).
 INVANZ was discontinued due to laboratory adverse experiences in 0.3% of patients.
 
-Table 6: IncidenceNumber of patients with laboratory adverse experiences/Number of patients with the laboratory test (%) of Laboratory Adverse Experiences Reported During Study Therapy Plus 14-Day Follow-Up in ≥2.0% of Adult Patients Treated With INVANZ in Clinical Trials
+Table 6 IncidenceNumber of patients with laboratory adverse experiences/Number of patients with the laboratory test (%) of Laboratory Adverse Experiences Reported During Study Therapy Plus 14-Day Follow-Up in ≥2.0% of Adult Patients Treated With INVANZ in Clinical Trials
 
 | Adverse laboratory experiences | (nNumber of patients with one or more laboratory tests=766) | (n=755) | (n=1122) | (n=920) |
 | --- | --- | --- | --- | --- |
@@ -217,7 +217,7 @@ Pediatric Patients Receiving INVANZ as a Treatment Regimen
 Laboratory adverse experiences that were reported during therapy in ≥2.0% of pediatric patients treated with INVANZ in clinical trials are presented in Table 7.
 Drug-related laboratory adverse experiences that were reported during therapy in ≥2.0% of pediatric patients treated with INVANZ, including those who were switched to therapy with an oral antimicrobial, in clinical trials were neutrophil count decreased (3.0%), ALT increased (2.2%), and AST increased (2.1%).
 
-Table 7: IncidenceNumber of patients with laboratory adverse experiences/Number of patients with the laboratory test; where at least 300 patients had the test (%) of Specific Laboratory Adverse Experiences Reported During Study Therapy Plus 14-Day Follow-Up in ≥2.0% of Pediatric Patients Treated With INVANZ in Clinical Trials
+Table 7 IncidenceNumber of patients with laboratory adverse experiences/Number of patients with the laboratory test; where at least 300 patients had the test (%) of Specific Laboratory Adverse Experiences Reported During Study Therapy Plus 14-Day Follow-Up in ≥2.0% of Pediatric Patients Treated With INVANZ in Clinical Trials
 
 | Adverse laboratory experiences | (nNumber of patients with one or more laboratory tests=379) | (n=97) | (n=24) |
 | --- | --- | --- | --- |

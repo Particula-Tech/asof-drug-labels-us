@@ -23,7 +23,7 @@ The dose of INVANZ in patients 3 months to 12 years of age is 15 mg/kg twice dai
 
 Table 1 presents treatment guidelines for INVANZ.
 
-Table 1: Treatment Guidelines for Adults and Pediatric Patients With Normal Renal Functiondefined as creatinine clearance >90 mL/min/1.73 m2 and Body Weight
+Table 1 Treatment Guidelines for Adults and Pediatric Patients With Normal Renal Functiondefined as creatinine clearance >90 mL/min/1.73 m2 and Body Weight
 
 | Infectiondue to the designated pathogens [see Indications and Usage (1)] | Daily Dose (IV or IM) Adults and Pediatric Patients 13 years of age and older | Daily Dose (IV or IM) Pediatric Patients 3 months to 12 years of age | Recommended Duration of Total Antimicrobial Treatment |
 | --- | --- | --- | --- |
@@ -37,7 +37,7 @@ Table 1: Treatment Guidelines for Adults and Pediatric Patients With Normal Rena
 
 Table 2 presents prophylaxis guidelines for INVANZ.
 
-Table 2: Prophylaxis Guidelines for Adults
+Table 2 Prophylaxis Guidelines for Adults
 
 | Indication | Daily Dose (IV) Adults | Recommended Duration of Total Antimicrobial Treatment |
 | --- | --- | --- |

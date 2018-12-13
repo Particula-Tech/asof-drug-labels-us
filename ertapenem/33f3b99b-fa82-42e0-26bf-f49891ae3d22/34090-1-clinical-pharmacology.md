@@ -8,7 +8,7 @@ Ertapenem sodium is a carbapenem antibiotic [see Clinical Pharmacology (12.4)].
 
 Average plasma concentrations (mcg/mL) of ertapenem following a single 30-minute infusion of a 1 g intravenous (IV) dose and administration of a single 1 g intramuscular (IM) dose in healthy young adults are presented in Table 8.
 
-Table 8: Plasma Concentrations of Ertapenem in Adults After Single Dose Administration
+Table 8 Plasma Concentrations of Ertapenem in Adults After Single Dose Administration
 
 | Dose/Route | 0.5 hr | 1 hr | 2 hr | 4 hr | 6 hr | 8 hr | 12 hr | 18 hr | 24 hr |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -22,7 +22,7 @@ There is no accumulation of ertapenem following multiple IV or IM 1 g daily dose
 
 Average plasma concentrations (mcg/mL) of ertapenem in pediatric patients are presented in Table 9.
 
-Table 9: Plasma Concentrations of Ertapenem in Pediatric Patients After Single IVInfused at a constant rate over 30 minutes Dose Administration
+Table 9 Plasma Concentrations of Ertapenem in Pediatric Patients After Single IVInfused at a constant rate over 30 minutes Dose Administration
 
 |  |  | 0.5 hr | 1 hr | 2 hr | 4 hr | 6 hr | 8 hr | 12 hr | 24 hr |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -52,7 +52,7 @@ The apparent volume of distribution at steady state (Vss) of ertapenem in adults
 The concentrations of ertapenem achieved in suction-induced skin blister fluid at each sampling point on the third day of 1 g once daily IV doses are presented in Table 10.
 The ratio of AUC0-24 in skin blister fluid/AUC0-24 in plasma is 0.61.
 
-Table 10: Concentrations (mcg/mL) of Ertapenem in Adult Skin Blister Fluid at each Sampling Point on the Third Day of 1-g Once Daily IV Doses
+Table 10 Concentrations (mcg/mL) of Ertapenem in Adult Skin Blister Fluid at each Sampling Point on the Third Day of 1-g Once Daily IV Doses
 
 | 0.5 hr | 1 hr | 2 hr | 4 hr | 8 hr | 12 hr | 24 hr |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -198,7 +198,7 @@ Anaerobic Techniques:
 For anaerobic bacteria, the susceptibility to ertapenem as MICs can be determined by standardized test methods {3}.
 The MIC values obtained should be interpreted according to criteria provided in Table 11 and {4}.
 
-Table 11: Susceptibility Interpretive Criteria for Ertapenem
+Table 11 Susceptibility Interpretive Criteria for Ertapenem
 
 |  | S | I | R | S | I | R |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -225,7 +225,7 @@ QC strains are very stable strains which will give a standard and repeatable sus
 The specific strains used for microbiological quality control are not clinically significant.
 Standard ertapenem powder should provide the following range of values noted in Table 12 and {4,5}.
 
-Table 12: Acceptable Quality Control Ranges for Ertapenem
+Table 12 Acceptable Quality Control Ranges for Ertapenem
 
 | Microorganism | Minimum Inhibitory Concentrations MIC Range (µg/mL) | Disk Diffusion Zone Diameter (mm) |
 | --- | --- | --- |
@@ -234,6 +234,6 @@ Table 12: Acceptable Quality Control Ranges for Ertapenem
 | Staphylococcus aureus ATCC 29213 | 0.06-0.25 | - |
 | Staphylococcus aureus ATCC 25923 | - | 24-31 |
 | Streptococcus pneumoniae ATCC 49619 | 0.03-0.25 | 28-35 |
-| Bacteroides fragilis ATCC 25285 | 0.06-0.5 Quality control ranges for broth microdilution testing0.06-0.25Quality control ranges for agar dilution testing | - |
-| Bacteroides thetaiotaomicron ATCC 29741 | 0.5-2.0 0.25-1.0 | - |
-| Eubacterium lentum ATCC 43055 | 0.5-4.0 0.5-2.0 | - |
+| Bacteroides fragilis ATCC 25285 | 0.06-0.5Quality control ranges for broth microdilution testing0.06-0.25Quality control ranges for agar dilution testing | - |
+| Bacteroides thetaiotaomicron ATCC 29741 | 0.5-2.00.25-1.0 | - |
+| Eubacterium lentum ATCC 43055 | 0.5-4.00.5-2.0 | - |
