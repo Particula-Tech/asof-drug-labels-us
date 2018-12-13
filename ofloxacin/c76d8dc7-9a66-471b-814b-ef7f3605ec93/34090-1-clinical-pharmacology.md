@@ -22,7 +22,7 @@ Ofloxacin is thought to exert a bactericidal effect on susceptible bacterial cel
 Cross-resistance has been observed between ofloxacin and other fluoroquinolones.
 There is generally no cross-resistance between ofloxacin and other classes of antibacterial agents such as beta-lactams or aminoglycosides.
 
-Ofloxacin has been shown to be active against most strains of the following organisms both in vitro and clinically, in conjunctival and/or corneal ulcer infections as described in the INDICATIONS AND USAGE section.
+Ofloxacin has been shown to be active against most strains of the following organisms both in vitro and clinically, in conjunctival and/or corneal ulcer infections (see Indication and Usage)
 
 | AEROBES, GRAM-POSITIVE: | AEROBES, GRAM-NEGATIVE: |
 | --- | --- |
@@ -62,5 +62,5 @@ Clinical outcomes for the trial demonstrated a clinical improvement rate of 86% 
 Microbiological outcomes for the same clinical trial demonstrated an eradication rate for causative pathogens of 65% (41/63) for the ofloxacin treated group versus 25% (17/67) for the vehicle treated group after 2 days of therapy.
 Please note that microbiologic eradication does not always correlate with clinical outcome in anti-infective trials.
 
-Corneal Ulcers: In a randomized, double-masked, multi-center clinical trial of 140 subjects with positive cultures, ofloxacin ophthalmic solution treated subjects had an overall clinical success rate (complete reepithelialization and no progression of the infiltrate for two consecutive visits) of 82% (61/74) compared to 80% (53/66) for the fortified antibiotic group, consisting of 1.5% tobramycin and 10% cefazolin solutions.
+Corneal Ulcers: In a randomized, double-masked, multi-center clinical trial of 140 subjects with positive cultures, ofloxacin ophthalmic solution treated subjects had an overall clinical success rate (complete re-epithelialization and no progression of the infiltrate for two consecutive visits) of 82% (61/74) compared to 80% (53/66) for the fortified antibiotic group, consisting of 1.5% tobramycin and 10% cefazolin solutions.
 The median time to clinical success was 11 days for the ofloxacin treated group and 10 days for the fortified treatment group.

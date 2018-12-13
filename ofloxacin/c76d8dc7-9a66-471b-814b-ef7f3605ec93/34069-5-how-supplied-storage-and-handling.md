@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Ofloxacin Ophthalmic Solution 0.3% is supplied sterile in a translucent LDPE bottle with insert cap assembly comprising of tan colored HDPE screw cap over a LDPE nozzle with tamper evident LDPE dust cover sealing the bottle cap.
+Ofloxacin Ophthalmic Solution 0.3% is supplied sterile in a labeled translucent LDPE bottle with insert cap assembly comprising of tan colored HDPE screw cap over a LDPE nozzle with tamper-evident LDPE dust cover sealing the bottle cap.
 
 5 mL in 5 mL bottle NDC 64980-515-05
 
@@ -10,15 +10,25 @@ Note: Store at 20° to 25°C (68° to 77°F)[see USP Controlled Room Temperature
 
 Rx Only
 
-W10WLL01AESRP
+Manufactured By:
+
+FDC Limited,
+
+B-8, MIDC Industrial Area,
+
+Waluj, Aurangabad - 431 136,
+
+Maharashtra, India
 
 Manufactured for:
 
-Rising Pharmaceuticals, Inc Allendale, NJ 07401
+Rising Pharmaceuticals, Inc.
 
-MADE IN INDIA
+Allendale, NJ 07401
 
-Revision 12/14
+Toll free number: 1-800-521-5340
+
+Revised: 12/2018
 
 INSTRUCTIONS FOR USE
 
