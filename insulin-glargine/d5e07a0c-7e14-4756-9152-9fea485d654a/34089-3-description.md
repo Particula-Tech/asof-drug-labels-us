@@ -1,4 +1,4 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
 LANTUS (insulin glargine injection) is a sterile solution of insulin glargine for subcutaneous use.
 Insulin glargine is a recombinant human insulin analog that is a long-acting, parenteral blood-glucose-lowering agent [see Clinical Pharmacology (12)].

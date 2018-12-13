@@ -1,13 +1,13 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 ## 16.1 How Supplied
 
-LANTUS (insulin glargine injection) is supplied as a solution containing 100 units per mL (U-100) of insulin glargine and is available in:
+LANTUS (insulin glargine injection) is supplied as a clear solution containing 100 units per mL (U-100) of insulin glargine and is available in:
 
-| Dosage Unit/Strength | Package size | NDC # 0088 |
-| --- | --- | --- |
-| 10 mL vials 100 Units/mL | Pack of 1 | 2220-33 |
-| 3 mL SoloStar prefilled pen 100 Units/mL | package of 5 | 2219-05 |
+- Carton of one 10 mL multiple-dose vial NDC 0088-2220-33
+- Carton of five 3 mL single-patient-use SoloStar pens NDC 0088-2219-05
+
+The LANTUS SoloStar prefilled pen dials in 1-unit increments.
 
 Needles are not included in the packs.
 
@@ -19,9 +19,9 @@ LANTUS should not be stored in the freezer and should not be allowed to freeze.
 Discard LANTUS if it has been frozen.
 Protect LANTUS from direct heat and light.
 
-Storage conditions are summarized in the following table:
+Storage conditions are summarized in the following table.
 
-|  | (36°F – 46°F [2°C – 8°C]) | (below 86°F [30°C]) | (See Temperature Below) |
+|  | (36°F–46°F [2°C–8°C]) | (below 86°F [30°C]) | (See Temperature Below) |
 | --- | --- | --- | --- |
 |  | Not in-use (unopened) | Not in-use (unopened) | In-use (opened) |
 |  | Refrigerated | Room Temperature |  |

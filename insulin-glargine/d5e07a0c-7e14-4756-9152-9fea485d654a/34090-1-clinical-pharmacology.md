@@ -1,4 +1,4 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -12,7 +12,7 @@ In clinical studies, the glucose-lowering effect on a molar basis (i.e., when gi
 Figure 1 shows results from a study in patients with type 1 diabetes conducted for a maximum of 24 hours after the injection.
 The median time between injection and the end of pharmacological effect was 14.5 hours (range: 9.5 to 19.3 hours) for NPH insulin, and 24 hours (range: 10.8 to >24.0 hours) (24 hours was the end of the observation period) for insulin glargine.
 
-| Figure 1. Activity Profile in Patients with Type 1 Diabetes |
+| Figure 1: Activity Profile in Patients with Type 1 Diabetes |
 | --- |
 | * Determined as amount of glucose infused to maintain constant plasma glucose levels. |
 
@@ -32,9 +32,11 @@ Unchanged drug and these degradation products are also present in the circulatio
 
 Special Populations
 
-Age, Race, and Gender.
+Age, race, and gender
+
 Effect of age, race, and gender on the pharmacokinetics of LANTUS has not been evaluated.
 However, in controlled clinical trials in adults (n=3890) and a controlled clinical trial in pediatric patients (n=349), subgroup analyses based on age, race, and gender did not show differences in safety and efficacy between LANTUS and NPH insulin [see Clinical Studies (14)].
 
-Obesity.
+Obesity
+
 Effect of Body Mass Index (BMI) on the pharmacokinetics of LANTUS has not been evaluated.

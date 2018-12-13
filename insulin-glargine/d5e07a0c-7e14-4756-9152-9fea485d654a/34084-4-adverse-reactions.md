@@ -1,4 +1,4 @@
-# 6. ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 The following adverse reactions are discussed elsewhere:
 
@@ -6,7 +6,7 @@ The following adverse reactions are discussed elsewhere:
 - Hypersensitivity and allergic reactions [see Warnings and Precautions (5.5)]
 - Hypokalemia [see Warnings and Precautions (5.6)].
 
-## 6.1 Clinical Trial Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in the clinical trial of another drug and may not reflect the rates observed in practice.
 
@@ -22,24 +22,24 @@ The mean BMI was 29.2 kg/m2.
 
 The frequencies of adverse events during LANTUS clinical trials in patients with type 1 diabetes mellitus and type 2 diabetes mellitus are listed in the tables below.
 
-Table 1: Adverse events in pooled clinical trials up to 28 weeks duration in adults with type 1 diabetes (adverse events with frequency ≥5%)
+Table 1: Adverse Events in Pooled Clinical Trials up to 28 Weeks Duration in Adults with Type 1 Diabetes (adverse events with frequency ≥5%)
 
 |  | LANTUS, % (n=1257) | NPH, % (n=1070) |
 | --- | --- | --- |
 | Upper respiratory tract infection | 22.4 | 23.1 |
-| Infection Body System not Specified | 9.4 | 10.3 |
+| InfectionBody system not specified | 9.4 | 10.3 |
 | Accidental injury | 5.7 | 6.4 |
 | Headache | 5.5 | 4.7 |
 
-Table 2: Adverse events in pooled clinical trials up to 1 year duration in adults with type 2 diabetes (adverse events with frequency ≥ 5%)
+Table 2: Adverse Events in Pooled Clinical Trials up to 1 Year Duration in Adults with Type 2 Diabetes (adverse events with frequency ≥5%)
 
 |  | LANTUS, % (n=849) | NPH, % (n=714) |
 | --- | --- | --- |
 | Upper respiratory tract infection | 11.4 | 13.3 |
-| InfectionBody System not Specified | 10.4 | 11.6 |
+| InfectionBody system not specified | 10.4 | 11.6 |
 | Retinal vascular disorder | 5.8 | 7.4 |
 
-Table 3: Adverse events in a 5-year trial of adults with type 2 diabetes (adverse events with frequency ≥ 10%)
+Table 3: Adverse Events in a 5-Year Trial of Adults with Type 2 Diabetes (adverse events with frequency ≥10%)
 
 |  | LANTUS, % (n=514) | NPH, % (n=503) |
 | --- | --- | --- |
@@ -59,11 +59,11 @@ Table 3: Adverse events in a 5-year trial of adults with type 2 diabetes (advers
 | Depression | 10.5 | 9.7 |
 | Headache | 10.3 | 9.3 |
 
-Table 4: Adverse events in a 28-week clinical trial of children and adolescents with type 1 diabetes (adverse events with frequency ≥ 5%)
+Table 4: Adverse Events in a 28-Week Clinical Trial of Children and Adolescents with Type 1 Diabetes (adverse events with frequency ≥5%)
 
 |  | LANTUS, % (n=174) | NPH, % (n=175) |
 | --- | --- | --- |
-| InfectionBody System not Specified | 13.8 | 17.7 |
+| InfectionBody system not specified | 13.8 | 17.7 |
 | Upper respiratory tract infection | 13.8 | 16.0 |
 | Pharyngitis | 7.5 | 8.6 |
 | Rhinitis | 5.2 | 5.1 |
@@ -108,24 +108,24 @@ Lipodystrophy
 
 Administration of insulin subcutaneously, including LANTUS, has resulted in lipoatrophy (depression in the skin) or lipohypertrophy (enlargement or thickening of tissue) in some patients [see Dosage and Administration (2.2)].
 
-Insulin initiation and intensification of glucose control
+Insulin Initiation and Intensification of Glucose Control
 
 Intensification or rapid improvement in glucose control has been associated with a transitory, reversible ophthalmologic refraction disorder, worsening of diabetic retinopathy, and acute painful peripheral neuropathy.
 However, long-term glycemic control decreases the risk of diabetic retinopathy and neuropathy.
 
-Weight gain
+Weight Gain
 
 Weight gain has occurred with some insulin therapies including LANTUS and has been attributed to the anabolic effects of insulin and the decrease in glucosuria.
 
 Allergic Reactions
 
-Local Allergy
+Local allergy
 
 As with any insulin therapy, patients taking LANTUS may experience injection site reactions, including redness, pain, itching, urticaria, edema, and inflammation.
 In clinical studies in adult patients, there was a higher incidence of treatment-emergent injection site pain in LANTUS-treated patients (2.7%) compared to NPH insulin-treated patients (0.7%).
 The reports of pain at the injection site did not result in discontinuation of therapy.
 
-Systemic Allergy
+Systemic allergy
 
 Severe, life-threatening, generalized allergy, including anaphylaxis, generalized skin reactions, angioedema, bronchospasm, hypotension, and shock may occur with any insulin, including LANTUS and may be life threatening.
 
@@ -138,7 +138,7 @@ In phase 3 clinical trials of LANTUS, increases in titers of antibodies to insul
 
 ## 6.3 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of LANTUS.
+The following adverse reactions have been identified during postapproval use of LANTUS.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Medication errors have been reported in which other insulins, particularly rapid-acting insulins, have been accidentally administered instead of LANTUS [see Patient Counseling Information (17)].
