@@ -2,7 +2,7 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 0078-0659-20
 
-Entresto™
+Entresto®
 
 (sacubitril/valsartan) tablets
 
@@ -18,7 +18,7 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 0078-0777-20
 
-Entresto™
+Entresto®
 
 (sacubitril/valsartan) tablets
 
@@ -34,7 +34,7 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 0078-0696-20
 
-Entresto™
+Entresto®
 
 (sacubitril/valsartan) tablets
 
