@@ -5,3 +5,5 @@ Clonidine HCl Injection NDC 0143-9724-01 1000 mcg/10 mL
 # PRINCIPAL DISPLAY PANEL
 
 Clonidine HCl Injection NDC 0143-9723-01 5000 mcg/10 mL
+
+# SERIALIZATION IMAGE
