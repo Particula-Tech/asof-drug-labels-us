@@ -8,7 +8,7 @@ Promethazine Hydrochloride Injection, USP is available as follows:
 
 ## Storage
 
-Store at 20°-25°C (68°-77°F) [See USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 Protect from light.
 Keep covered in carton until time of use.
 Do not use if solution has developed color or contains a precipitate.
