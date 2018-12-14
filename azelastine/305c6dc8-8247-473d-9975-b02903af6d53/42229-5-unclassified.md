@@ -18,8 +18,7 @@ Before using azelastine hydrochloride nasal solution, tell your healthcare provi
 
 - allergic to any of the ingredients in azelastine hydrochloride nasal solution.
   See the end of this leaflet for a complete list of ingredients in azelastine hydrochloride nasal solution.
-- pregnant, or plan to become pregnant.
-  It is not known if azelastine hydrochloride nasal solution will harm your unborn baby.
+- pregnant, or plan to become pregnant
 - breastfeeding, or plan to breastfeed.
   It is not known if azelastine hydrochloride passes into your breast milk.
   You and your healthcare provider should decide if you will use azelastine hydrochloride nasal solution if you plan to breastfeed.
@@ -57,7 +56,7 @@ The most common side effects of azelastine hydrochloride nasal solution include:
 - runny nose
 - scratchy or sore throat
 - nosebleeds
-- inflamation or swelling of the sinuses
+- inflammation or swelling of the sinuses
 - sneezing
 - nausea
 - dry mouth
@@ -198,7 +197,7 @@ Halol-Baroda Highway,
 
 Halol-389 350, Gujarat, India.
 
-PJPI0385C
+PJPI0385E
 
 ISS.
-10/2016
+12/2018
