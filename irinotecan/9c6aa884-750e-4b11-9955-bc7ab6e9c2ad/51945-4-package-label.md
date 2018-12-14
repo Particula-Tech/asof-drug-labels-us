@@ -6,3 +6,5 @@ PROTECT FROM FREEZING.
 Store at 20º to 25ºC (68º to 77ºF); excursions permitted to 15º to 30ºC (59º to 86ºF) [See USP].
 
 NDC 0143-9583-01 Rx ONLY IRINOTECAN HYDROCHLORIDE INJECTION, USP 100 mg/5 mL (20 mg/mL)* as the trihydrate For Intravenous Use Only MUST BE DILUTED CYTOTOXIC AGENT 1 x 5 mL Single Dose Vial
+
+# SERIALIZATION IMAGE
