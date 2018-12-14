@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA208437"
+  ],
+  "inn": "glycopyrronium",
+  "labeler": "Holopack Verpackungstechnik GmbH",
+  "package_ndcs": [
+    "60940-024-01"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "glycopyrrolate",
+      "name": "Lonhala"
+    }
+  ],
+  "setid": "de544612-9129-4b79-9aa9-0b06f059cb78",
+  "source": "dailymed"
+}
