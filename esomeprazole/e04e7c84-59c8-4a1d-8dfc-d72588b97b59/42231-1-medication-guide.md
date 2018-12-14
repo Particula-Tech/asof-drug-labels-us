@@ -43,6 +43,7 @@ Esomeprazole magnesium delayed-release capsules are used in adults:
   GERD happens when acid in your stomach backs up into the tube (esophagus) that connects your mouth to your stomach.
   This may cause a burning feeling in your chest or throat, sour taste, or burping.
 - •for up to 6 months to reduce the risk of stomach ulcers in some people taking pain medicines called non-steroidal anti-inflammatory drugs (NSAIDs).
+- •to treat patients with a stomach infection (Helicobacter pylori), along with the antibiotics amoxicillin and clarithromycin.
 - •for the long-term treatment of conditions where your stomach makes too much acid, including Zollinger-Ellison Syndrome.
   Zollinger-Ellison Syndrome is a rare condition in which the stomach produces a more than normal amount of acid.
 
@@ -73,24 +74,8 @@ Esomeprazole magnesium delayed-release capsules may affect how other medicines w
 
 Especially tell your doctor if you take:
 
-- •warfarin (Coumadin, Jantoven)
-- •ketoconazole (Nizoral)
-- •voriconazole (Vfend)
-- •atazanavir (Reyataz)
-- •nelfinavir (Viracept)
-- •saquinavir (Fortovase)
-- •products that contain iron
-- •digoxin (Lanoxin)
-- •St.
-  John’s Wort (Hypericum perforatum)
-- •Rifampin (Rimactane, Rifater, Rifamate)
-- •cilostazol (Pletal)
-- •diazepam (Valium)
-- •tacrolimus (Prograf)
-- •erlotinib (Tarceva)
-- •methotrexate
-- •clopidogrel (Plavix)
-- •mycophenolate mofetil (Cellcept)
+| •warfarin (Coumadin®, Jantoven®)•ketoconazole (Nizoral®)•voriconazole (Vfend®)•atazanavir (Reyataz®)•nelfinavir (Viracept®)•saquinavir (Fortovase®)•products that contain iron•digoxin (Lanoxin®)•St. John’s Wort (Hypericum perforatum) | •rifampin (Rimactane®, Rifater®, Rifamate®)•cilostazol (Pletal®)•diazepam (Valium®)•tacrolimus (Prograf®)•erlotinib (Tarceva®)•methotrexate•clopidogrel (Plavix®)•mycophenolate mofetil (Cellcept®) |
+| --- | --- |
 
 How should I take esomeprazole magnesium delayed-release capsules?
 
@@ -124,38 +109,27 @@ Esomeprazole magnesium delayed-release capsules can cause serious side effects, 
   If low magnesium levels happen, it is usually after a year of treatment.
 - You may or may not have symptoms of low magnesium.
   Tell your doctor right away if you have any of these symptoms:
-  1. 1.seizures
-  2. 2.dizziness
-  3. 3.abnormal or fast heart beat
-  4. 4.jitteriness
-  5. 5.jerking movements or shaking (tremors)
-  6. 6.muscle weakness
-  7. 7.spasms of the hands and feet
-  8. 8.cramps or muscle aches
-  9. 9.spasm of the voice box
+
+| oseizuresodizzinessoabnormal or fast heart beatojitterinessojerking movements or shaking (tremors) | omuscle weaknessospasms of the hands and feetocramps or muscle achesospasm of the voice box |
+| --- | --- |
 
 Your doctor may check the level of magnesium in your body before you start taking esomeprazole magnesium delayed-release capsules or during treatment if you will be taking esomeprazole magnesium delayed-release capsules for a long period of time.
 
+- •Stomach growths (fundic gland polyps).
+  People who take PPI medicines for a long time have an increased risk of developing a certain type of stomach growths called fundic gland polyps, especially after taking PPI medicines for more than 1 year.
+
 The most common side effects with esomeprazole magnesium delayed-release capsules may include:
 
-- •headache
-- •diarrhea
-- •nausea
-- •gas
-- •abdominal pain
-- •constipation
-- •dry mouth
-- •drowsiness
+| •headache•diarrhea•nausea•gas | •abdominal pain•constipation•dry mouth•drowsiness |
+| --- | --- |
 
 Other side effects:
 
 Serious allergic reactions.
 Tell your doctor if you get any of the following symptoms with esomeprazole magnesium delayed-release capsules:
 
-- •rash
-- •face swelling
-- •throat tightness
-- •difficulty breathing
+| •rash•face swelling | •throat tightness•difficulty breathing |
+| --- | --- |
 
 Your doctor may stop esomeprazole magnesium delayed-release capsules if these symptoms happen.
 
@@ -183,13 +157,13 @@ This Medication Guide summarizes the most important information about esomeprazo
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about esomeprazole magnesium delayed-release capsules that is written for health professionals.
 
-For more information, call Mylan Pharmaceuticals Inc. at 1-877-446-3679 (1-877-4-INFO-RX).
+For more information, call Mylan at 1-877-446-3679 (1-877-4-INFO-RX).
 
 What are the ingredients in esomeprazole magnesium delayed-release capsules?
 
 Active Ingredient: esomeprazole magnesium
 
-Inactive Ingredients in Esomeprazole Magnesium Delayed-Release Capsules (including the capsule shells): crospovidone, gelatin, hydroxypropyl cellulose, mannitol, methacrylic acid copolymer type C, sucrose, sugar spheres, talc, titanium dioxide and triethyl citrate.
+Inactive Ingredients in Esomeprazole Magnesium Delayed-Release Capsules (including the capsule shells): crospovidone, gelatin, hydroxypropyl cellulose, mannitol, methacrylic acid - ethyl acrylate copolymer dispersion, sucrose, sugar spheres (corn starch and sucrose), talc, titanium dioxide and triethyl citrate.
 The imprinting ink contains black iron oxide, potassium hydroxide, propylene glycol, shellac and strong ammonia solution.
 
 Instructions for Use
@@ -218,8 +192,8 @@ The brands listed are trademarks of their respective owners.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Manufactured by: Mylan Laboratories Limited Hyderabad — 500 034, India Code No.: MH/DRUGS/25/NKD/89
+Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
 
-75060178
+75066598
 
-Revised: 1/2017 MX:ESOME:R5mmh
+Revised: 11/2018 MX:ESOME:R6m/MX:MG:ESOME:R3m

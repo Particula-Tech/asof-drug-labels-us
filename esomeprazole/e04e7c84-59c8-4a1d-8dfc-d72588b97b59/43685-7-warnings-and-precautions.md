@@ -20,6 +20,7 @@ This diagnosis should be considered for diarrhea that does not improve [see Adve
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
 
 Clostridium difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents.
+For more information specific to antibacterial agents (clarithromycin and amoxicillin) indicated for use in combination with esomeprazole magnesium delayed-release capsules, refer to Warnings and Precautions section of the corresponding prescribing information.
 
 ## 5.4 Bone Fracture
 
@@ -86,3 +87,9 @@ If serial tests are performed (e.g., for monitoring), the same commercial labora
 
 Literature suggests that concomitant use of PPIs with methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite, possibly leading to methotrexate toxicities.
 In high-dose methotrexate administration a temporary withdrawal of the PPI may be considered in some patients [see Drug Interactions (7.7)].
+
+## 5.12 Fundic Gland Polyps
+
+PPI use is associated with an increased risk of fundic gland polyps that increases with long-term use, especially beyond one year.
+Most PPI users who developed fundic gland polyps were asymptomatic and fundic gland polyps were identified incidentally on endoscopy.
+Use the shortest duration of PPI therapy appropriate to the condition being treated.

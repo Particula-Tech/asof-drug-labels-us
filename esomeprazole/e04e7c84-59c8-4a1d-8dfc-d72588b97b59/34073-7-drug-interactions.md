@@ -20,7 +20,7 @@ Concomitant administration with omeprazole and drugs such as atazanavir and nelf
 
 ### Increased Concentrations of Saquinavir
 
-For other antiretroviral drugs, such as saquinavir, elevated serum levels have been reported, with an increase in AUC by 82%, in Cmax by 75%, and in Cmin by 106%, following multiple dosing of saquinavir/ritonavir (1000 mg/100 mg) twice daily for 15 days with omeprazole 40 mg daily co-administered days 11 to 15.
+For other antiretroviral drugs, such as saquinavir, elevated serum levels have been reported, with an increase in AUC by 82%, in Cmax by 75%, and in Cmin by 106%, following multiple dosing of saquinavir/ritonavir (1000/100 mg) twice daily for 15 days with omeprazole 40 mg daily co-administered days 11 to 15.
 Therefore, clinical and laboratory monitoring for saquinavir toxicity is recommended during concurrent use with esomeprazole magnesium delayed-release capsules.
 Dose reduction of saquinavir should be considered from the safety perspective for individual patients.
 
@@ -62,7 +62,7 @@ When using esomeprazole magnesium delayed-release capsules, consider use of alte
 
 Omeprazole acts as an inhibitor of CYP2C19.
 Omeprazole, given in doses of 40 mg daily for one week to 20 healthy subjects in cross-over study, increased Cmax and AUC of cilostazol by 18% and 26%, respectively.
-Cmax and AUC of one of its active metabolites, 3,4-dihydrocilostazol, which has 4 to 7 times the activity of cilostazol, were increased by 29% and 69%, respectively.
+Cmax and AUC of one of its active metabolites, 3,4-dihydrocilostazol, which has 4-7 times the activity of cilostazol, were increased by 29% and 69%, respectively.
 Co-administration of cilostazol with esomeprazole is expected to increase concentrations of cilostazol and its above mentioned active metabolite.
 Therefore, a dose reduction of cilostazol from 100 mg twice daily to 50 mg twice daily should be considered.
 
@@ -72,7 +72,7 @@ However, in patients with Zollinger-Ellison’s Syndrome, who may require higher
 
 Drugs known to induce CYP2C19 or CYP3A4 or both (such as rifampin) may lead to decreased esomeprazole serum levels.
 Omeprazole, of which esomeprazole is an enantiomer, has been reported to interact with St. John’s Wort, an inducer of CYP3A4.
-In a cross-over study in 12 healthy male subjects, St. John’s Wort (300 mg three times daily for 14 days) significantly decreased the systemic exposure of omeprazole in CYP2C19 poor metabolisers (Cmax and AUC decreased by 37.5% and 37.9%, respectively) and extensive metabolisers (Cmax and AUC decreased by 49.6 % and 43.9%, respectively).
+In a cross-over study in 12 healthy male subjects, St. John’s Wort (300 mg three times daily for 14 days) significantly decreased the systemic exposure of omeprazole in CYP2C19 poor metabolizers (Cmax and AUC decreased by 37.5% and 37.9%, respectively) and extensive metabolizers (Cmax and AUC decreased by 49.6 % and 43.9%, respectively).
 Avoid concomitant use of St. John’s Wort or rifampin with esomeprazole magnesium delayed-release capsules.
 
 ## 7.4 Interactions with Investigations of Neuroendocrine Tumors
@@ -82,6 +82,13 @@ Drug-induced decrease in gastric acidity results in enterochromaffin-like cell h
 ## 7.5 Tacrolimus
 
 Concomitant administration of esomeprazole and tacrolimus may increase the serum levels of tacrolimus.
+
+## 7.6 Combination Therapy with Clarithromycin
+
+Co-administration of esomeprazole, clarithromycin, and amoxicillin has resulted in increases in the plasma levels of esomeprazole and 14-hydroxyclarithromycin [see Clinical Pharmacology (12.4)].
+
+Concomitant administration of clarithromycin with other drugs can lead to serious adverse reactions due to drug interactions [see Warnings and Precautions in prescribing information for clarithromycin].
+Because of these drug interactions, clarithromycin is contraindicated for co-administration with certain drugs [see Contraindications in prescribing information for clarithromycin].
 
 ## 7.7 Methotrexate
 

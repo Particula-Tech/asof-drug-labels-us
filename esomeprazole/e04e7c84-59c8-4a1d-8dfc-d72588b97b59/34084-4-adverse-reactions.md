@@ -8,6 +8,7 @@ The following serious adverse reactions are described below and elsewhere in lab
 - •Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)]
 - •Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.7)]
 - •Hypomagnesemia [see Warnings and Precautions (5.8)]
+- •Fundic Gland Polyps [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -16,7 +17,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 ### Adults
 
 The safety of esomeprazole magnesium delayed-release capsules was evaluated in over 15,000 patients (aged 18 to 84 years) in clinical trials worldwide including over 8,500 patients in the United States and over 6,500 patients in Europe and Canada.
-Over 2,900 patients were treated in long-term studies for up to 6 to 12 months.
+Over 2,900 patients were treated in long-term studies for up to 6-12 months.
 In general, esomeprazole magnesium delayed-release capsules were well tolerated in both short and long-term clinical trials.
 
 The safety in the treatment of healing of erosive esophagitis was assessed in four randomized comparative clinical trials, which included 1,240 patients on esomeprazole magnesium delayed-release capsules 20 mg, 2,434 patients on esomeprazole magnesium delayed-release capsules 40 mg, and 3,008 patients on omeprazole 20 mg daily.
@@ -76,6 +77,20 @@ In 149 pediatric patients aged 12 to 17 years the most frequently reported (at l
 
 No new safety concerns were identified in pediatric patients.
 
+### Combination Treatment with Amoxicillin and Clarithromycin
+
+In clinical trials using combination therapy with esomeprazole magnesium delayed-release capsules plus amoxicillin and clarithromycin, no additional adverse reactions specific to these drug combinations were observed.
+Adverse reactions that occurred were limited to those observed when using esomeprazole magnesium delayed-release capsules, amoxicillin, or clarithromycin alone.
+
+The most frequently reported drug-related adverse reactions for patients who received triple therapy for 10 days were diarrhea (9.2%), taste perversion (6.6%), and abdominal pain (3.7%).
+No treatment-emergent adverse reactions were observed at higher rates with triple therapy than were observed with esomeprazole magnesium delayed-release capsules alone.
+
+For more information on adverse reactions with amoxicillin or clarithromycin, refer to their package inserts, Adverse Reactions sections.
+
+In clinical trials using combination therapy with esomeprazole magnesium delayed-release capsules plus amoxicillin and clarithromycin, no additional increased laboratory abnormalities particular to these drug combinations were observed.
+
+For more information on laboratory changes with amoxicillin or clarithromycin, refer to their package inserts, Adverse Reactions section.
+
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of esomeprazole magnesium delayed-release capsules.
@@ -86,13 +101,13 @@ Blood and Lymphatic: agranulocytosis, pancytopenia;
 
 Eye: blurred vision;
 
-Gastrointestinal: pancreatitis; stomatitis; microscopic colitis;
+Gastrointestinal: pancreatitis, stomatitis, microscopic colitis, fundic gland polyps;
 
 Hepatobiliary: hepatic failure, hepatitis with or without jaundice;
 
-Immune System: anaphylactic reaction/shock; systemic lupus erythematosus;
+Immune System: anaphylactic reaction/shock, systemic lupus erythematosus;
 
-Infections and Infestations: GI candidiasis; Clostridium difficile-associated diarrhea;
+Infections and Infestations: GI candidiasis, Clostridium difficile-associated diarrhea;
 
 Metabolism and Nutritional Disorders: hypomagnesemia,with or without hypocalcemia and/or hypokalemia;
 

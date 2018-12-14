@@ -45,20 +45,20 @@ Several studies have reported no apparent adverse short-term effects on the infa
 ##### Omeprazole
 
 Reproductive studies conducted with omeprazole in rats at oral doses up to 138 mg/kg/day (about 34 times an oral human dose of 40 mg on a body surface area basis) and in rabbits at doses up to 69.1 mg/kg/day (about 34 times an oral human dose of 40 mg on a body surface area basis) during organogenesis did not disclose any evidence for a teratogenic potential of omeprazole.
-In rabbits, omeprazole in a dose range of 6.9 mg/kg/day to 69.1 mg/kg/day (about 3.4 to 34 times an oral human dose of 40 mg on a body surface area basis) administered during organogenesis produced dose-related increases in embryo-lethality, fetal resorptions, and pregnancy disruptions.
-In rats, dose-related embryo/fetal toxicity and postnatal developmental toxicity were observed in offspring resulting from parents treated with omeprazole at 13.8 mg/kg/day to 138.0 mg/kg/day (about 3.4 to 34 times an oral human dose of 40 mg on a body surface area basis), administered prior to mating through the lactation period.
+In rabbits, omeprazole in a dose range of 6.9 to 69.1 mg/kg/day (about 3.4 to 34 times an oral human dose of 40 mg on a body surface area basis) administered during organogenesis produced dose-related increases in embryo-lethality, fetal resorptions, and pregnancy disruptions.
+In rats, dose-related embryo/fetal toxicity and postnatal developmental toxicity were observed in offspring resulting from parents treated with omeprazole at 13.8 to 138.0 mg/kg/day (about 3.4 to 34 times an oral human dose of 40 mg on a body surface area basis), administered prior to mating through the lactation period.
 
 ##### Esomeprazole
 
 No effects on embryo-fetal development were observed in reproduction studies with esomeprazole magnesium in rats at oral doses up to 280 mg/kg/day (about 68 times an oral human dose of 40 mg on a body surface area basis) or in rabbits at oral doses up to 86 mg/kg/day (about 41 times an oral human dose of 40 mg on a body surface area basis) administered during organogenesis.
 
-A pre- and postnatal developmental toxicity study in rats with additional endpoints to evaluate bone development was performed with esomeprazole magnesium at oral doses of 14 mg/kg/day to 280 mg/kg/day (about 3.4 to 68 times an oral human dose of 40 mg on a body surface area basis).
+A pre- and postnatal developmental toxicity study in rats with additional endpoints to evaluate bone development was performed with esomeprazole magnesium at oral doses of 14 to 280 mg/kg/day (about 3.4 to 68 times an oral human dose of 40 mg on a body surface area basis).
 Neonatal/early postnatal (birth to weaning) survival was decreased at doses equal to or greater than 138 mg/kg/day (about 34 times an oral human dose of 40 mg on a body surface area basis).
 Body weight and body weight gain were reduced and neurobehavioral or general developmental delays in the immediate post-weaning timeframe were evident at doses equal to or greater than 69 mg/kg/day (about 17 times an oral human dose of 40 mg on a body surface area basis).
 In addition, decreased femur length, width and thickness of cortical bone, decreased thickness of the tibial growth plate and minimal to mild bone marrow hypocellularity were noted at doses equal to or greater than 14 mg/kg/day (about 3.4 times an oral human dose of 40 mg on a body surface area basis).
 Physeal dysplasia in the femur was observed in offspring of rats treated with oral doses of esomeprazole magnesium at doses equal to or greater than 138 mg/kg/day (about 34 times an oral human dose of 40 mg on a body surface area basis).
 
-Effects on maternal bone were observed in pregnant and lactating rats in a pre- and postnatal toxicity study when esomeprazole magnesium was administered at oral doses of 14 mg/kg/day to 280 mg/kg/day (about 3.4 to 68 times an oral human dose of 40 mg on a body surface area basis).
+Effects on maternal bone were observed in pregnant and lactating rats in a pre- and postnatal toxicity study when esomeprazole magnesium was administered at oral doses of 14 to 280 mg/kg/day (about 3.4 to 68 times an oral human dose of 40 mg on a body surface area basis).
 When rats were dosed from gestational day 7 through weaning on postnatal day 21, a statistically significant decrease in maternal femur weight of up to 14% (as compared to placebo treatment) was observed at doses equal to or greater than 138 mg/kg/day (about 34 times an oral human dose of 40 mg on a body surface area basis).
 
 A pre- and postnatal development study in rats with esomeprazole strontium (using equimolar doses compared to esomeprazole magnesium study) produced similar results in dams and pups as described above.
@@ -72,7 +72,7 @@ Risk Summary
 
 Esomeprazole is the S-isomer of omeprazole and limited data suggest that omeprazole may be present in human milk.
 There are no clinical data on the effects of esomeprazole on the breastfed infant or on milk production.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for esomeprazole magnesium delayed-release capsules and any potential adverse effects on the breastfed infant from esomeprazole or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for esomeprazole magnesium delayed-release capsules and any potential adverse effects on the breastfed infant from esomeprazole magnesium delayed-release capsules or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 

@@ -3,7 +3,7 @@
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 The carcinogenic potential of esomeprazole magnesium delayed-release capsules was assessed using studies of omeprazole, of which esomeprazole is an enantiomer.
-In two 24-month oral carcinogenicity studies in rats, omeprazole at daily doses of 1.7 mg/kg/day, 3.4 mg/kg/day, 13.8 mg/kg/day, 44 mg/kg/day, and 140.8 mg/kg/day (about 0.4 to 34 times the human dose of 40 mg/day expressed on a body surface area basis) produced gastric ECL cell carcinoids in a dose-related manner in both male and female rats; the incidence of this effect was markedly higher in female rats, which had higher blood levels of omeprazole.
+In two 24-month oral carcinogenicity studies in rats, omeprazole at daily doses of 1.7, 3.4, 13.8, 44, and 140.8 mg/kg/day (about 0.4 to 34 times the human dose of 40 mg/day expressed on a body surface area basis) produced gastric ECL cell carcinoids in a dose-related manner in both male and female rats; the incidence of this effect was markedly higher in female rats, which had higher blood levels of omeprazole.
 Gastric carcinoids seldom occur in the untreated rat.
 In addition, ECL cell hyperplasia was present in all treated groups of both sexes.
 In one of these studies, female rats were treated with 13.8 mg omeprazole/kg/day (about 3.4 times the human dose of 40 mg/day on a body surface area basis) for 1 year, then followed for an additional year without the drug.
@@ -30,7 +30,7 @@ Reproduction studies have been performed in rats at oral doses up to 280 mg/kg/d
 
 ### Juvenile Animal Study
 
-A 28-day toxicity study with a 14-day recovery phase was conducted in juvenile rats with esomeprazole magnesium at doses of 70 mg/kg/day to 280 mg/kg/day (about 17 to 68 times a daily oral human dose of 40 mg on a body surface area basis).
+A 28-day toxicity study with a 14-day recovery phase was conducted in juvenile rats with esomeprazole magnesium at doses of 70 to 280 mg/kg/day (about 17 to 68 times a daily oral human dose of 40 mg on a body surface area basis).
 An increase in the number of deaths at the high dose of 280 mg/kg/day was observed when juvenile rats were administered esomeprazole magnesium from postnatal day 7 through postnatal day 35.
 In addition, doses equal to or greater than 140 mg/kg/day (about 34 times a daily oral human dose of 40 mg on a body surface area basis), produced treatment-related decreases in body weight (approximately 14%) and body weight gain, decreases in femur weight and femur length, and affected overall growth.
 Comparable findings described above have also been observed in this study with another esomeprazole salt, esomeprazole strontium, at equimolar doses of esomeprazole.

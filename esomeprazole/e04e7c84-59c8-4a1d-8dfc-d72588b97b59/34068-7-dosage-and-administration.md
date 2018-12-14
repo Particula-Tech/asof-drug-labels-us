@@ -25,7 +25,14 @@ Table 1: Recommended Dosage Schedule for Esomeprazole Magnesium Delayed-Release 
 | Weight < 20 kg | 10 mg | Once Daily for 8 Weeks |
 | Weight ≥ 20 kg | 10 mg or 20 mg | Once Daily for 8 Weeks |
 | Risk Reduction of NSAID-Associated Gastric Ulcer | 20 mg or 40 mg | Once Daily for up to 6 Months |
+| H. pylori Eradication to Reduce the Risk of Duodenal Ulcer Recurrence |  |  |
+| Triple Therapy: |  |  |
+| Esomeprazole Magnesium Delayed-Release Capsules | 40 mg | Once Daily for 10 Days |
+| Amoxicillin | 1000 mg | Twice Daily for 10 Days |
+| Clarithromycin | 500 mg | Twice Daily for 10 Days |
 | Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome | 40 mgThe dosage of esomeprazole magnesium delayed-release capsules in patients with pathological hypersecretory conditions varies with the individual patient. Dosage regimens should be adjusted to individual patient needs. | Twice DailyDoses up to 240 mg daily have been administered [see Drug Interactions (7)]. |
+
+Please refer to amoxicillin and clarithromycin prescribing information for Contraindications, Warnings, and dosing in elderly and renally-impaired patients.
 
 Specific Populations
 

@@ -5,7 +5,7 @@
 Esomeprazole is a proton pump inhibitor that suppresses gastric acid secretion by specific inhibition of the H+/K+-ATPase in the gastric parietal cell.
 The S- and R-isomers of omeprazole are protonated and converted in the acidic compartment of the parietal cell forming the active inhibitor, the achiral sulphenamide.
 By acting specifically on the proton pump, esomeprazole blocks the final step in acid production, thus reducing gastric acidity.
-This effect is dose-related up to a daily dose of 20 mg to 40 mg and leads to inhibition of gastric acid secretion.
+This effect is dose-related up to a daily dose of 20 to 40 mg and leads to inhibition of gastric acid secretion.
 
 ## 12.2 Pharmacodynamics
 
@@ -19,8 +19,7 @@ Table 3: Effect on Intragastric pH on Day 5 (N = 36)
 
 | Parameter | Esomeprazole Magnesium Delayed-Release Capsules 40 mg | Esomeprazole Magnesium Delayed-Release Capsules 20 mg |
 | --- | --- | --- |
-| % Time Gastric | 70%p < 0.01 esomeprazole magnesium delayed-release capsules 40 mg vs. esomeprazole magnesium delayed-release capsules 20 mg. | 53% |
-| pH > 4Gastric pH was measured over a 24-hour period. (Hours) | (16.8 h) | (12.7 h) |
+| % Time Gastric pH > 4Gastric pH was measured over a 24-hour period. (Hours) | 70%p < 0.01 esomeprazole magnesium delayed-release capsules 40 mg vs. esomeprazole magnesium delayed-release capsules 20 mg.(16.8 h) | 53%(12.7 h) |
 | Coefficient of variation | 26% | 37% |
 | Median 24 Hour pH | 4.9 | 4.1 |
 | Coefficient of variation | 16% | 27% |
@@ -45,14 +44,14 @@ Carcinoid tumors have also been observed in rats subjected to fundectomy or long
 Human gastric biopsy specimens have been obtained from more than 3,000 patients (both children and adults) treated with omeprazole in long-term clinical trials.
 The incidence of ECL cell hyperplasia in these studies increased with time; however, no case of ECL cell carcinoids, dysplasia, or neoplasia has been found in these patients.
 
-In over 1,000 patients treated with esomeprazole magnesium delayed-release capsules (10 mg/day, 20 mg/day or 40 mg/day) up to 6 to 12 months, the prevalence of ECL cell hyperplasia increased with time and dose.
+In over 1,000 patients treated with esomeprazole magnesium delayed-release capsules (10, 20 or 40 mg/day) up to 6 to 12 months, the prevalence of ECL cell hyperplasia increased with time and dose.
 No patient developed ECL cell carcinoids, dysplasia, or neoplasia in the gastric mucosa.
 
 ### Endocrine Effects
 
-Esomeprazole magnesium delayed-release capsules had no effect on thyroid function when given in oral doses of 20 mg or 40 mg for 4 weeks.
+Esomeprazole magnesium delayed-release capsules had no effect on thyroid function when given in oral doses of 20 or 40 mg for 4 weeks.
 Other effects of esomeprazole magnesium delayed-release capsules on the endocrine system were assessed using omeprazole studies.
-Omeprazole given in oral doses of 30 mg or 40 mg for 2 to 4 weeks had no effect on carbohydrate metabolism, circulating levels of parathyroid hormone, cortisol, estradiol, testosterone, prolactin, cholecystokinin, or secretin.
+Omeprazole given in oral doses of 30 or 40 mg for 2 to 4 weeks had no effect on carbohydrate metabolism, circulating levels of parathyroid hormone, cortisol, estradiol, testosterone, prolactin, cholecystokinin, or secretin.
 
 ## 12.3 Pharmacokinetics
 
@@ -60,7 +59,7 @@ Omeprazole given in oral doses of 30 mg or 40 mg for 2 to 4 weeks had no effect 
 
 Esomeprazole magnesium delayed-release capsules contain an enteric-coated pellet formulation of esomeprazole magnesium.
 After oral administration, peak plasma levels (Cmax) occur at approximately 1.5 hours (Tmax).
-The Cmax increases proportionally when the dose is increased, and there is a 3-fold increase in the area under the plasma concentration-time curve (AUC) from 20 mg to 40 mg.
+The Cmax increases proportionally when the dose is increased, and there is a 3-fold increase in the area under the plasma concentration-time curve (AUC) from 20 to 40 mg.
 At repeated once daily dosing with 40 mg, the systemic bioavailability is approximately 90% compared to 64% after a single dose of 40 mg.
 The mean exposure (AUC) to esomeprazole increases from 4.32 μmol*hr/L on Day 1 to 11.2 μmol*hr/L on Day 5 after 40 mg once daily dosing.
 
@@ -70,7 +69,7 @@ Esomeprazole magnesium delayed-release capsules should be taken at least one hou
 The pharmacokinetic profile of esomeprazole magnesium delayed-release capsules was determined in 36 patients with symptomatic gastroesophageal reflux disease following repeated once daily administration of 20 mg and 40 mg capsules of esomeprazole over a period of 5 days.
 The results are shown in the Table 4:
 
-Table 4: Pharmacokinetic Parameters of Esomeprazole on Day 5 Following Oral Dosing for 5 Days
+Table 4: Pharmacokinetic Parameters of Esomeprazole Magnesium Delayed-Release Capsules on Day 5 Following Oral Dosing for 5 Days
 
 | ParameterValues represent the geometric mean, except the Tmax, which is the arithmetic mean; CV = Coefficient of variation. (CV) | Esomeprazole Magnesium Delayed-Release Capsules 40 mg | Esomeprazole Magnesium Delayed-Release Capsules 20 mg |
 | --- | --- | --- |
@@ -93,7 +92,7 @@ Esomeprazole is extensively metabolized in the liver by the cytochrome P450 (CYP
 The metabolites of esomeprazole lack antisecretory activity.
 The major part of esomeprazole’s metabolism is dependent upon the CYP2C19 isoenzyme, which forms the hydroxy and desmethyl metabolites.
 The remaining amount is dependent on CYP3A4 which forms the sulphone metabolite.
-CYP2C19 isoenzyme exhibits polymorphism in the metabolism of esomeprazole, since some 3% of Caucasians and 15% to 20% of Asians lack CYP2C19 and are termed Poor Metabolizers.
+CYP2C19 isoenzyme exhibits polymorphism in the metabolism of esomeprazole, since some 3% of Caucasians and 15 to 20% of Asians lack CYP2C19 and are termed Poor Metabolizers.
 At steady state, the ratio of AUC in Poor Metabolizers to AUC in the rest of the population (Extensive Metabolizers) is approximately 2.
 
 Following administration of equimolar doses, the S- and R-isomers are metabolized differently by the liver, resulting in higher plasma levels of the S- than of the R-isomer.
@@ -103,6 +102,16 @@ Following administration of equimolar doses, the S- and R-isomers are metabolize
 The plasma elimination half-life of esomeprazole is approximately 1 to 1.5 hours.
 Less than 1% of parent drug is excreted in the urine.
 Approximately 80% of an oral dose of esomeprazole is excreted as inactive metabolites in the urine, and the remainder is found as inactive metabolites in the feces.
+
+### Combination Therapy with Antimicrobials
+
+Esomeprazole magnesium 40 mg once daily was given in combination with clarithromycin 500 mg twice daily and amoxicillin 1000 mg twice daily for 7 days to 17 healthy male and female subjects.
+The mean steady state AUC and Cmax of esomeprazole increased by 70% and 18%, respectively during triple combination therapy compared to treatment with esomeprazole alone.
+The observed increase in esomeprazole exposure during co-administration with clarithromycin and amoxicillin is not expected to produce significant safety concerns.
+
+The pharmacokinetic parameters for clarithromycin and amoxicillin were similar during triple combination therapy and administration of each drug alone.
+However, the mean AUC and Cmax for 14-hydroxyclarithromycin increased by 19% and 22%, respectively, during triple combination therapy compared to treatment with clarithromycin alone.
+This increase in exposure to 14-hydroxyclarithromycin is not considered to be clinically significant.
 
 ### Concomitant Use with Clopidogrel
 
@@ -185,6 +194,46 @@ Co-administration of oral contraceptives, diazepam, phenytoin, or quinidine did 
 Studies evaluating concomitant administration of esomeprazole and either naproxen (non-selective NSAID) or rofecoxib (COX-2 selective NSAID) did not identify any clinically relevant changes in the pharmacokinetic profiles of esomeprazole or these NSAIDs.
 
 ## 12.4 Microbiology
+
+Esomeprazole magnesium delayed-release capsules, amoxicillin, and clarithromycin triple therapy has been shown to be active against most strains of Helicobacter pylori (H. pylori)in vitro and in clinical infections [see Indications and Usage (1) and Clinical Studies (14)].
+
+### Helicobacter pylori
+
+Susceptibility testing of H. pylori isolates was performed for amoxicillin and clarithromycin using agar dilution methodology, and minimum inhibitory concentrations (MICs) were determined.
+
+### Pretreatment Resistance
+
+Clarithromycin pretreatment resistance rate (MIC ≥ 1 mcg/mL) to H. pylori was 15% (66/445) at baseline in all treatment groups combined.
+A total of > 99% (394/395) of patients had H. pylori isolates that were considered to be susceptible (MIC ≤ 0.25 mcg/mL) to amoxicillin at baseline.
+One patient had a baseline H. pylori isolate with an amoxicillin MIC = 0.5 mcg/mL.
+
+### Clarithromycin Susceptibility Test Results and Clinical/Bacteriologic Outcomes
+
+The baseline H. pylori clarithromycin susceptibility results and the H. pylori eradication results at the Day 38 visit are shown in the Table 8:
+
+Table 8: Clarithromycin Susceptibility Test Results and Clinical/Bacteriological OutcomesIncludes only patients with pretreatment and post-treatment clarithromycin susceptibility test results. for Triple Therapy - (Esomeprazole Magnesium 40 mg Once Daily/Amoxicillin 1000 mg Twice Daily/Clarithromycin 500 mg Twice Daily for 10 Days)
+
+| ClarithromycinPretreatment Results |  | H. pylori negative(Eradicated) | H. pylori positive(Not Eradicated)Post-treatment susceptibility results |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  | SSusceptible (S) MIC ≤ 0.25 mcg/mL, Intermediate (I) MIC = 0.5 mcg/mL, Resistant (R) MIC ≥ 1.0 mcg/mL. | I | R | No MIC |
+| Susceptible | 182 | 162 | 4 | 0 | 2 | 14 |
+| Intermediate | 1 | 1 | 0 | 0 | 0 | 0 |
+| Resistant | 29 | 13 | 1 | 0 | 13 | 2 |
+
+Patients not eradicated of H. pylori following esomeprazole magnesium delayed-release capsules/amoxicillin/clarithromycin triple therapy will likely have clarithromycin resistant H. pylori isolates.
+Therefore, clarithromycin susceptibility testing should be done, when possible.
+Patients with clarithromycin resistant H. pylori should not be re-treated with a clarithromycin-containing regimen.
+
+### Amoxicillin Susceptibility Test Results and Clinical/Bacteriological Outcomes
+
+In the esomeprazole magnesium delayed-release capsules/amoxicillin/clarithromycin clinical trials, 83% (176/212) of the patients in the esomeprazole magnesium delayed-release capsules/amoxicillin/clarithromycin treatment group who had pretreatment amoxicillin susceptible MICs (≤ 0.25 mcg/mL) were eradicated of H. pylori, and 17% (36/212) were not eradicated of H. pylori.
+Of the 36 patients who were not eradicated of H. pylori on triple therapy, 16 had no post-treatment susceptibility test results and 20 had post-treatment H. pylori isolates with amoxicillin susceptible MICs.
+Fifteen of the patients who were not eradicated of H. pylori on triple therapy also had post-treatment H. pylori isolates with clarithromycin resistant MICs.
+There were no patients with H. pylori isolates who developed treatment emergent resistance to amoxicillin.
+
+### Susceptibility Test for Helicobacter pylori
+
+For susceptibility testing information about Helicobacter pylori, see Microbiology section in prescribing information for clarithromycin and amoxicillin.
 
 ### Effects on Gastrointestinal Microbial Ecology
 
