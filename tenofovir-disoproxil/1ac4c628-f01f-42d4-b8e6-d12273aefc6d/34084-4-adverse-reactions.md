@@ -6,11 +6,13 @@ The following adverse reactions are discussed in other sections of the labeling:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 Clinical Trials in Adult Patients with HIV-1 Infection More than 12,000 subjects have been treated with tenofovir disoproxil fumarate tablets alone or in combination with other antiretroviral medicinal products for periods of 28 days to 215 weeks in clinical trials and expanded access programs.
-A total of 1544 subjects have received tenofovir disoproxil fumarate tablets 300 mg once daily in clinical trials; over 11,000 subjects have received tenofovir disoproxil fumarate tablets in expanded access programs.
+A total of 1,544 subjects have received tenofovir disoproxil fumarate tablets 300 mg once daily in clinical trials; over 11,000 subjects have received tenofovir disoproxil fumarate tablets in expanded access programs.
 The most common adverse reactions (incidence greater than or equal to 10%, Grades 2 to 4) identified from any of the 3 large controlled clinical trials include rash, diarrhea, headache, pain, depression, asthenia, and nausea.
 Treatment-Naïve Patients Study 903 - Treatment-Emergent Adverse-Reactions: The most common adverse reactions seen in a double-blind comparative controlled trial in which 600 treatment-naïve subjects received tenofovir disoproxil fumarate tablets (N=299) or stavudine (N=301) in combination with lamivudine and efavirenz for 144 weeks (Study 903) were mild to moderate gastrointestinal events and dizziness.
-Mild adverse reactions (Grade 1) were common with a similar incidence in both arms, and included dizziness, diarrhea, and nausea.
+
+Mild adverse reactions (Grade 1) were common with a similar incidence in both arms and included dizziness, diarrhea, and nausea.
 Selected treatment-emergent moderate to severe adverse reactions are summarized in Table 4.
+
 Table 4 Selected Treatment-Emergent Adverse Reactionsa (Grades 2 to 4) Reported in ≥5% in Any Treatment Group in Study 903 (0 to 144 Weeks)
 
 |  | Tenofovir disoproxil fumarate Tablets +3TC+EFV | d4T+3TC+EFV |
@@ -27,7 +29,7 @@ Table 4 Selected Treatment-Emergent Adverse Reactionsa (Grades 2 to 4) Reported 
 a. Frequencies of adverse reactions are based on all treatment-emergent adverse events, regardless of relationship to study drug. b. Lipodystrophy represents a variety of investigator-described adverse events not a protocol-defined syndrome. c. Peripheral neuropathy includes peripheral neuritis and neuropathy. d. Rash event includes rash, pruritus, maculopapular rash, urticaria, vesiculobullous rash, and pustular rash.
 Laboratory Abnormalities: With the exception of fasting cholesterol and fasting triglyceride elevations that were more common in the stavudine group (40% and 9%) compared with tenofovir disoproxil fumarate tablets (19% and 1%), respectively, laboratory abnormalities observed in this trial occurred with similar frequency in the tenofovir disoproxil fumarate tablets and stavudine treatment arms.
 A summary of Grades 3 to 4 laboratory abnormalities is provided in Table 5.
-Table 5 Grades 3 to 4 Laboratory Abnormalities Reported in ≥1% of Tenofovir disoproxil fumarate-Treated Subjects in Study 903 (0 to 144 Weeks)
+Table 5 Grades 3 to 4 Laboratory Abnormalities Reported in ≥1% of Tenofovir Disoproxil Fumarate-Treated Subjects in Study 903 (0 to 144 Weeks)
 
 |  | Tenofovir disoproxil fumarate Tablets+3TC+EFV | d4T+3TC+EFV |
 | --- | --- | --- |
@@ -44,24 +46,23 @@ Table 5 Grades 3 to 4 Laboratory Abnormalities Reported in ≥1% of Tenofovir di
 
 Study 934 – Treatment-Emergent Adverse Reactions: In Study 934, 511 antiretroviral-naïve subjects received either tenofovir disoproxil fumarate tablets + EMTRIVA® administered in combination with efavirenz (N=257) or zidovudine/lamivudine administered in combination with efavirenz (N=254).
 Adverse reactions observed in this trial were generally consistent with those seen in previous studies in treatment-experienced or treatment-naïve subjects (Table 6).
-Changes in Bone Mineral Density: In HIV-1 infected adult subjects in Study 903, there was a significantly greater mean percentage decrease from baseline in BMD at the lumbar spine in subjects receiving tenofovir disoproxil fumarate tablets + lamivudine + efavirenz (-2.2% ± 3.9) compared with subjects receiving stavudine + lamivudine + efavirenz (-1% ± 4.6) through 144 weeks.
+Changes in Bone Mineral Density In HIV-1 infected adult subjects in Study 903, there was a significantly greater mean percentage decrease from baseline in BMD at the lumbar spine in subjects receiving tenofovir disoproxil fumarate tablets + lamivudine + efavirenz (-2.2% ± 3.9) compared with subjects receiving stavudine + lamivudine + efavirenz (-1% ± 4.6) through 144 weeks.
 Changes in BMD at the hip were similar between the two treatment groups (-2.8% ± 3.5 in the tenofovir disoproxil fumarate tablets group vs. -2.4% ± 4.5 in the stavudine group).
 In both groups, the majority of the reduction in BMD occurred in the first 24 to 48 weeks of the trial and this reduction was sustained through Week 144.
 Twenty-eight percent of tenofovir disoproxil fumarate tablets-treated subjects vs. 21% of the stavudine-treated subjects lost at least 5% of BMD at the spine or 7% of BMD at the hip.
 Clinically relevant fractures (excluding fingers and toes) were reported in 4 subjects in the tenofovir disoproxil fumarate tablets group and 6 subjects in the stavudine group.
 In addition, there were significant increases in biochemical markers of bone metabolism (serum bone-specific alkaline phosphatase, serum osteocalcin, serum C telopeptide, and urinary N telopeptide) and higher serum parathyroid hormone levels and 1,25 Vitamin D levels in the tenofovir disoproxil fumarate tablets group relative to the stavudine group; however, except for bone-specific alkaline phosphatase, these changes resulted in values that remained within the normal range [See Warnings and Precautions (5.6)].
-
 Table 6 Selected Treatment-Emergent Adverse Reactionsa (Grades 2 to 4) Reported in ≥5% in Any Treatment Group in Study 934 (0 to 144 Weeks)
 
-|  | Tenofovir Disoproxil fumarate Tabletsb+FTC+EFV | AZT/3TC+EFV |
+|  | Tenofovir disoproxil fumarate Tabletsb+FTC+EFV | AZT/3TC+EFV |
 | --- | --- | --- |
-| N=257 |  |  |
-| Gastrointestinal DisorderDiarrhea Nausea Vomiting | 9% 9% 2% | 5% 7% 5% |
-| General Disorders and AdministrationSite Condition Fatigue | 9% | 8% |
-| Infections and InfestationsSinusitis Upper respiratory tract infections Nasopharyngitis | 8% 8% 5% | 4% 5% 5% |
-| Nervous System DisordersHeadache Dizziness | 6% 8% | 5% 7% |
-| Psychiatric DisordersDepression Insomnia | 9% 5% | 7% 7% |
-| Skin and Subcutaneous Tissue DisordersRash eventc | 7% | 9% |
+| N=257 | N=254 |  |
+| Gastrointestinal Disorder Diarrhea Nausea Vomiting | 9% 9% 2% | 5% 7% 5% |
+| General Disorders and Administration Site Condition Fatigue | 9% | 8% |
+| Infections and Infestations Sinusitis Upper respiratory tract infections Nasopharyngitis | 8% 8% 5% | 4% 5% 3% |
+| Nervous System Disorders Headache Dizziness | 6% 8% | 5% 7% |
+| Psychiatric Disorders Depression Insomnia | 9% 5% | 7% 7% |
+| Skin and Subcutaneous Tissue Disorders Rash eventc | 7% | 9% |
 
 a. Frequencies of adverse reactions are based on all treatment-emergent adverse events, regardless of relationship to study drug. b. From Weeks 96 to 144 of the trial, subjects received TRUVADA with efavirenz in place of tenofovir disoproxil fumarate tablets + EMTRIVA with efavirenz. c. Rash event includes rash, exfoliative rash, rash generalized, rash macular, rash maculopapular, rash pruritic, and rash vesicular.
 Laboratory Abnormalities: Laboratory abnormalities observed in this trial were generally consistent with those seen in previous trials (Table 7).
@@ -104,7 +105,7 @@ Table 8 Selected Treatment-Emergent Adverse Reactionsa (Grades 2 to 4) Reported 
 a. Frequencies of adverse reactions are based on all treatment-emergent adverse events, regardless of relationship to study drug. b. Peripheral neuropathy includes peripheral neuritis and neuropathy. c. Rash event includes rash, pruritus, maculopapular rash, urticaria, vesiculobullous rash, and pustular rash.
 Laboratory Abnormalities: Laboratory abnormalities observed in this trial occurred with similar frequency in the tenofovir disoproxil fumarate tablets and placebo-treated groups.
 A summary of Grades 3 to 4 laboratory abnormalities is provided in Table 9.
-Table 9 Grades 3 to 4 Laboratory Abnormalities Reported in ≥1% of Tenofovir disoproxil fumarate Tablets-Treated Subjects in Study 907 (0 to 48 Weeks)
+Table 9 Grades 3 to 4 Laboratory Abnormalities Reported in ≥1% of Tenofovir Disoproxil Fumarate Tablets-Treated Subjects in Study 907 (0 to 48 Weeks)
 
 |  | Tenofovir disoproxil fumarate Tablets (N=3 68) (Week 0-2 4) | Placebo (N=1 82) (Week 0-2 4) | Tenofovir disoproxil fumarate Tablets (N=3 68) (Week 0-4 8) | Placebo Cro sso ver to Tenofovir disoproxil fumarate (N=170) (Week 24-48) |
 | --- | --- | --- | --- | --- |
@@ -125,14 +126,13 @@ Of these, 4 subjects discontinued from the trial due to adverse reactions consis
 Three of these 4 subjects presented with hypophosphatemia and also had decreases in total body or spine BMD Z score [See Warnings and Precautions (5.6)].
 Changes in Bone Mineral Density: Clinical trials in HIV-1 infected children and adolescents evaluated BMD changes.
 In Study 321 (12 to less than 18 years), the mean rate of BMD gain at Week 48 was less in the tenofovir disoproxil fumarate tablets compared to the placebo treatment group.
-Six tenofovir disoproxil fumarate tablets treated subjects and one placebo treated subject had significant (greater than 4%) lumbar spine BMD loss at Week 48.
+Six tenofovir disoproxil fumarate tablets-treated subjects and one placebo-treated subject had significant (greater than 4%) lumbar spine BMD loss at Week 48.
 Changes from baseline BMD Z-scores were -0.341 for lumbar spine and -0.458 for total body in the 28 subjects who were treated with tenofovir disoproxil fumarate tablets for 96 weeks.
 In Study 352 (2 to less than 12 years), the mean rate of BMD gain in lumbar spine at Week 48 was similar between the tenofovir disoproxil fumarate tablets and the d4T or AZT treatment groups.
 Total body BMD gain was less in the tenofovir disoproxil fumarate tablets compared to the d4T or AZT treatment groups.
 One tenofovir disoproxil fumarate-treated subject and none of the d4T or AZT-treated subjects experienced significant (greater than 4%) lumbar spine BMD loss at Week 48.
 Changes from baseline in BMD Z scores were -0.012 for lumbar spine and -0.338 for total body in the 64 subjects who were treated with tenofovir disoproxil fumarate tablets for 96 weeks.
 In both trials, skeletal growth (height) appeared to be unaffected [See Warnings and Precautions (5.6)].
-
 Clinical Trials in Adult Subjects with Chronic Hepatitis B and Compensated Liver Disease Treatment-Emergent Adverse Reactions: In controlled clinical trials in 641 subjects with chronic hepatitis B (0102 and 0103), more subjects treated with tenofovir disoproxil fumarate tablets during the 48-week double-blind period experienced nausea: 9% with tenofovir disoproxil fumarate tablets versus 2% with HEPSERA.
 Other treatment-emergent adverse reactions reported in more than 5% of subjects treated with tenofovir disoproxil fumarate tablets included: abdominal pain, diarrhea, headache, dizziness, fatigue, nasopharyngitis, back pain, and skin rash.
 During the open-label phase of treatment with tenofovir disoproxil fumarate tablets (weeks 48 to 384) in Studies 0102 and 0103, 2% of subjects (13/585) experienced a confirmed increase in serum creatinine of 0.5 mg/dL from baseline.
@@ -155,7 +155,7 @@ ALT flares generally occurred within the first 4 to 8 weeks of treatment and wer
 No subject had evidence of decompensation.
 ALT flares typically resolved within 4 to 8 weeks without changes in study medication.
 The adverse reactions observed in subjects with chronic hepatitis B and lamivudine resistance who received treatment with tenofovir disoproxil fumarate tablets were consistent with those observed in other hepatitis B clinical trials in adults.
-Clinical Trials in Adult Subjects with Chronic Hepatitis B and Decompensated Liver Disease In a small randomized, double-blind, active-controlled trial (0108), subjects with CHB and decompensated liver disease received treatment with tenofovir disoproxil fumarate tablets or other antiviral drugs for up to 48 weeks [See Clinical Studies (14.2)].Among the 45 subjects receiving tenofovir disoproxil fumarate tablets, the most frequently reported treatment-emergent adverse reactions of any severity were abdominal pain (22%), nausea (20%), insomnia (18%), pruritus (16%), vomiting (13%), dizziness (13%), and pyrexia (11%).
+Clinical Trials in Adult Subjects with Chronic Hepatitis B and Decompensated Liver Disease In a small randomized, double-blind, active-controlled trial (0108), subjects with CHB and decompensated liver disease received treatment with tenofovir disoproxil fumarate tablets or other antiviral drugs for up to 48 weeks [See Clinical Studies(14.2)].Among the 45 subjects receiving tenofovir disoproxil fumarate tablets, the most frequently reported treatment-emergent adverse reactions of any severity were abdominal pain (22%), nausea (20%), insomnia (18%), pruritus (16%), vomiting (13%), dizziness (13%), and pyrexia (11%).
 Two of 45 (4%) subjects died through Week 48 of the trial due to progression of liver disease.
 Three of 45 (7%) subjects discontinued treatment due to an adverse event.
 Four of 45 (9%) subjects experienced a confirmed increase in serum creatinine of 0.5 mg/dL (1 subject also had a confirmed serum phosphorus less than 2 mg/dL through Week 48).

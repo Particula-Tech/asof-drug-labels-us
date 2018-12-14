@@ -7,20 +7,20 @@ Subjects had a mean age of 36 years (range 18 to 64); 74% were male, 64% were Ca
 The mean baseline CD4+ cell count was 279 cells/mm3 (range 3 to 956) and median baseline plasma HIV-1 RNA was 77,600 copies/mL (range 417 to 5,130,000).
 Subjects were stratified by baseline HIV-1 RNA and CD4+ cell count.
 Forty-three percent of subjects had baseline viral loads >100,000 copies/mL and 39% had CD4+ cell counts <200 cells/mm3.
-Treatment outcomes through 48 and 144 weeks are presented in Table 17.
-Table 17 Outcomes of Randomized Treatment at Week 48 and 144 (Study 903)
+Treatment outcomes through 48 and 144 weeks are presented in Table 18.
+Table 18 Outcomes of Randomized Treatment at Week 48 and 144 (Study 903)
 
-| Out comes | At Week 48 |  | At Week 144 |  |
+| Outcomes | At Week 48 |  | At Week 144 |  |
 | --- | --- | --- | --- | --- |
-| Tenofovir disoproxil fumarate Tablets+ 3TC+EFV (N=2 99) | d4T+ 3 TC+EFV (N=3 01) | Tenofovir disoproxil fumarate Tablets+ 3TC+EFV (N=2 99) | d4T+3 TC +EFV (N=3 01) |  |
-| R esp ond e ra | 79% | 82% | 68% | 62% |
-| Virolog ic failure b | 6% | 4% | 10% | 8% |
-| Re bou nd | 5% | 3% | 8% | 7% |
-| Never su ppr essed | 0% | 1% | 0% | 0% |
+| Tenofovir disoproxil fumarate Tablets+ 3TC+EFV (N=299) | d4T+ 3TC+EFV (N=301) | Tenofovir disoproxil fumarate Tablets+ 3TC+EFV (N=299) | d4T+3TC +EFV (N=301) |  |
+| Respondera | 79% | 82% | 68% | 62% |
+| Virologic failureb | 6% | 4% | 10% | 8% |
+| Rebound | 5% | 3% | 8% | 7% |
+| Never suppressed | 0% | 1% | 0% | 0% |
 | Added an antiretroviral agent | 1% | 1% | 2% | 1% |
 | Death | <1% | 1% | <1% | 2% |
-| Disc ontinued due to adverse event | 6% | 6% | 8% | 13% |
-| Disc ontinued for other re a so n sc | 8% | 7% | 14% | 15% |
+| Discontinued due to adverse event | 6% | 6% | 8% | 13% |
+| Discontinued for other reasonsc | 8% | 7% | 14% | 15% |
 
 a. Subjects achieved and maintained confirmed HIV-1 RNA <400 copies/mL through Week 48 and 144. b. Includes confirmed viral rebound and failure to achieve confirmed <400 copies/mL through Week 48 and 144. c. Includes lost to follow-up, subject’s withdrawal, noncompliance, protocol violation and other reasons.
 Achievement of plasma HIV-1 RNA concentrations of less than 400 copies/mL at Week 144 was similar between the two treatment groups for the population stratified at baseline on the basis of HIV-1 RNA concentration (> or ≤100,000 copies/mL) and CD4+ cell count (< or ≥200 cells/mm3).
@@ -28,16 +28,15 @@ Through 144 weeks of therapy, 62% and 58% of subjects in the tenofovir disoproxi
 The mean increase from baseline in CD4+ cell count was 263 cells/mm3 for the tenofovir disoproxil fumarate tablets arm and 283 cells/mm3 for the stavudine arm.
 Through 144 weeks, 11 subjects in the tenofovir disoproxil fumarate tablets group and 9 subjects in the stavudine group experienced a new CDC Class C event.
 Study 934 Data through 144 weeks are reported for Study 934, a randomized, open-label, active-controlled multicenter trial comparing emtricitabine + tenofovir disoproxil fumarate tablets administered in combination with efavirenz versus zidovudine/lamivudine fixed-dose combination administered in combination with efavirenz in 511 antiretroviral-naïve subjects.
-From Weeks 96 to 144 of the trial, subjects received a fixed-dose combination of emtricitabine and tenofovir disoproxil fumarate with efavirenz in place of emtricitabine + tenofovir disoproxil fumarate tablets with efavirenz.
+From Weeks 96 to 144 of the trial, subjects received a fixed-dose combination of emtricitabine and tenofovir DF with efavirenz in place of emtricitabine + tenofovir disoproxil fumarate tablets with efavirenz.
 Subjects had a mean age of 38 years (range 18 to 80); 86% were male, 59% were Caucasian, and 23% were Black.
 The mean baseline CD4+ cell count was 245 cells/mm3 (range 2 to 1191) and median baseline plasma HIV-1 RNA was 5.01 log10 copies/mL (range 3.56 to 6.54).
 Subjects were stratified by baseline CD4+ cell count (< or ≥200 cells/mm3); 41% had CD4+ cell counts <200 cells/mm3 and 51% of subjects had baseline viral loads >100,000 copies/mL.
-Treatment outcomes through 48 and 144 weeks for those subjects who did not have efavirenz resistance at baseline are presented in Table 18.
-Table 18 Outcomes of Randomized Treatment at Week 48 and 144 (Study 934)
+Treatment outcomes through 48 and 144 weeks for those subjects who did not have efavirenz resistance at baseline are presented in Table 19.Table 19 Outcomes of Randomized Treatment at Week 48 and 144 (Study 934)
 
 | Outcomes | At Week 48 |  | At Week 144 |  |
 | --- | --- | --- | --- | --- |
-| FTC + Tenofovir disoproxil fumarate Tablets+ EFV(N=244) | AZT/3TC +EFV(N=243) | FTC+Tenofovir disoproxil fumarate Tablets+EFV(N=227)a | AZT/3TC +EFV (N=229)a |  |
+| FTC + Tenofovir disoproxil fumarate Tablets+ EFV (N=244) | AZT/3TC +EFV (N=243) | FTC+Tenofovir disoproxil fumarate Tablets+EFV (N=227)a | AZT/3TC +EFV (N=229)a |  |
 | Responderb | 84% | 73% | 71% | 58% |
 | Virologic failurec | 2% | 4% | 3% | 6% |
 | Rebound | 1% | 3% | 2% | 5% |
@@ -47,22 +46,22 @@ Table 18 Outcomes of Randomized Treatment at Week 48 and 144 (Study 934)
 | Discontinued due to adverse event | 4% | 9% | 5% | 12% |
 | Discontinued for other reasonsd | 10% | 14% | 20% | 22% |
 
-a. Subjects who were responders at Week 48 or Week 96 (HIV-1 RNA <400 copies/mL) but did not consent to continue the trial after Week 48 or Week 96 were excluded from analysis. b. Subjects achieved and maintained confirmed HIV-1 RNA <400 copies/mL through Weeks 48 and 144. c. Includes confirmed viral rebound and failure to achieve confirmed <400 copies/mL through Week 48 and 144. d. Includes lost to follow-up, subject withdrawal, noncompliance, protocol violation and other reasons.
+a. Subjects who were responders at Week 48 or Week 96 (HIV-1 RNA <400 copies/mL) but did not consent to continue the trial after Week 48 or Week 96 were excluded from analysis. b. Subjects achieved and maintained confirmed HIV-1 RNA <400 copies/mL through Weeks 48 and 144. c. Includes confirmed viral rebound and failure to achieve confirmed <400 copies/mL through Weeks 48 and 144. d. Includes lost to follow-up, subject withdrawal, noncompliance, protocol violation and other reasons.
 Through Week 48, 84% and 73% of subjects in the emtricitabine + tenofovir disoproxil fumarate tablets group and the zidovudine/lamivudine group, respectively, achieved and maintained HIV-1 RNA <400 copies/mL (71% and 58% through Week 144).
 The difference in the proportion of subjects who achieved and maintained HIV-1 RNA <400 copies/mL through 48 weeks largely results from the higher number of discontinuations due to adverse events and other reasons in the zidovudine/lamivudine group in this open-label trial.
-In addition, 80% and 70% of subjects in the emtricitabine + tenofovir disoproxil fumarate tablets group and the zidovudine/lamivudine group, respectively, achieved and maintained HIV-1 RNA<50 copies/mL through Week 48 (64% and 56% through Week 144).
+In addition, 80% and 70% of subjects in the emtricitabine + tenofovir disoproxil fumarate tablets group and the zidovudine/lamivudine group, respectively, achieved and maintained HIV-1 RNA <50 copies/mL through Week 48 (64% and 56% through Week 144).
 The mean increase from baseline in CD4+ cell count was 190 cells/mm3 in the EMTRIVA + tenofovir disoproxil fumarate tablets group and 158 cells/mm3 in the zidovudine/lamivudine group at Week 48 (312 and 271 cells/mm3 at Week 144).
 Through 48 weeks, 7 subjects in the emtricitabine + tenofovir disoproxil fumarate tablets group and 5 subjects in the zidovudine/lamivudine group experienced a new CDC Class C event (10 and 6 subjects through 144 weeks).
 Treatment-Experienced Adult Patients Study 907 Study 907 was a 24-week, double-blind, placebo-controlled multicenter trial of tenofovir disoproxil fumarate tablets added to a stable background regimen of antiretroviral agents in 550 treatment-experienced subjects.
 After 24 weeks of blinded trial treatment, all subjects continuing on trial were offered open-label tenofovir disoproxil fumarate tablets for an additional 24 weeks.
 Subjects had a mean baseline CD4+ cell count of 427 cells/mm3 (range 23 to 1385), median baseline plasma HIV-1 RNA of 2340 (range 50 to 75,000) copies/mL, and mean duration of prior HIV-1 treatment was 5.4 years.
 Mean age of the subjects was 42 years; 85% were male, 69% Caucasian, 17% Black, and 12% Hispanic.
-The percent of subjects with HIV-1 RNA <400 copies/mL and outcomes of subjects through 48 weeks are summarized in Table 19.
-Table 19 Outcomes of Randomized Treatment (Study 907)
+The percent of subjects with HIV-1 RNA <400 copies/mL and outcomes of subjects through 48 weeks are summarized in Table 20.
+Table 20 Outcomes of Randomized Treatment (Study 907)
 
 | Outcomes | 0–24 weeks |  | 0–48 weeks | 24–48 weeks |
 | --- | --- | --- | --- | --- |
-| Tenofovir disoproxil fumarate Tablets(N=368) | Placebo (N=182) | Tenofovir disoproxil fumarate Tablets(N=368) | Placebo Crossover to Tenofovir disoproxil fumarate Tablets (N=170) |  |
+| Tenofovir disoproxil fumarate Tablets (N=368) | Placebo (N=182) | Tenofovir disoproxil fumarate Tablets (N=368) | Placebo Crossover to Tenofovir disoproxil fumarate Tablets (N=170) |  |
 | HIV-1 RNA <400 copies/mLa | 40% | 11% | 28% | 30% |
 | Virologic failureb | 53% | 84% | 61% | 64% |
 | Discontinued due to adverse event | 3% | 3% | 5% | 5% |
@@ -83,8 +82,8 @@ HBeAg-Positive Chronic Hepatitis B Study 0103 was a Phase 3, randomized, double-
 The mean age of subjects was 34 years; 69% were male, 36% were Asian, 52% were Caucasian, 16% had previously received alpha-interferon therapy, and <5% were nucleoside experienced.
 At baseline, subjects had a mean Knodell necroinflammatory score of 8.4; mean plasma HBV DNA was 8.7 log10 copies /mL; and mean serum ALT was 147 U/L.
 The primary data analysis was conducted after all subjects reached 48 weeks of treatment and results are summarized below.
-The primary efficacy endpoint in both trials was complete response to treatment defined as HBV DNA <400 copies/mL (69 IU/mL) and Knodell necroinflammatory score improvement of at least 2 points, without worsening in Knodell fibrosis at Week 48 (Table 20).
-Table 20 Histological, Virological, Biochemical, and Serological Response at Week 48
+The primary efficacy endpoint in both trials was complete response to treatment defined as HBV DNA <400 copies/mL (69 IU/mL) and Knodell necroinflammatory score improvement of at least 2 points, without worsening in Knodell fibrosis at Week 48 (Table 21).
+Table 21 Histological, Virological, Biochemical, and Serological Response at Week 48
 
 |  | 0102 (HBeAg-) |  | 0103 (HBeAg+) |  |
 | --- | --- | --- | --- | --- |
@@ -96,9 +95,9 @@ Table 20 Histological, Virological, Biochemical, and Serological Response at Wee
 | Serology HBeAg Loss/ Seroconversion | NAc | NAc | 20%/19% | 16%/16% |
 | HBsAg Loss/ Seroconversion | 0/0 | 0/0 | 3%/1% | 0/0 |
 
-a. Knodell necroinflammatory score improvement of at least 2 points without worsening in Knodell fibrosis. b. The population used for analysis of ALT normalization included only subjects with ALT above ULN at baseline. c. NA = Not Applicable Treatment Beyond 48 Weeks In Studies 0102 (HBeAg-negative) and 0103 (HBeAg-positive), subjects who completed double-blind treatment (389 and 196 subjects who were originally randomized to tenofovir disoproxil fumarate tablets and HESPERA, respectively) were eligible to roll over to open-label tenofovir disoproxil fumarate tablets with no interruption in treatment.
+a. Knodell necroinflammatory score improvement of at least 2 points without worsening in Knodell fibrosis. b. The population used for analysis of ALT normalization included only subjects with ALT above ULN at baseline. c. NA = Not Applicable Treatment Beyond 48 Weeks In Studies 0102 (HBeAg-negative) and 0103 (HBeAg-positive), subjects who completed double-blind treatment (389 and 196 subjects who were originally randomized to tenofovir disoproxil fumarate tablets and HEPSERA, respectively) were eligible to roll over to open-label tenofovir disoproxil fumarate tablets with no interruption in treatment.
 In Study 0102, 266 of 347 subjects who entered the open-label period (77%) continued in the study through Week 384.
-Among subjects randomized to tenofovir disoproxil fumarate tablets followed by open-label treatment with tenofovir disoproxil fumarate tablets, 73% had HBV DNA <400 copies/ml (69 IU/ml), and 63% had ALT normalization at Week 384.
+Among subjects randomized to tenofovir disoproxil fumarate tablets followed by open-label treatment with tenofovir disoproxil fumarate tablets, 73% had HBV DNA <400 copies/mL (69 IU/mL), and 63% had ALT normalization at Week 384.
 Among subjects randomized to HEPSERA followed by open-label treatment with tenofovir disoproxil fumarate tablets, 80% had HBV DNA <400 copies/mL (69 IU/mL) and 70% had ALT normalization through Week 384.
 At Week 384, both HBsAg loss and seroconversion were approximately 1% in both treatment groups.
 In Study 0103, 146 of 238 subjects who entered the open-label period (61%) continued in the study through Week 384.
@@ -121,7 +120,7 @@ After 96 weeks of treatment, 126 of 141 subjects (89%) randomized to tenofovir d
 Among the HBeAg-positive subjects randomized to tenofovir disoproxil fumarate tablets, 10 of 65 subjects (15%) experienced HBeAg loss and 7 of 65 subjects (11%) experienced anti-HBe seroconversion through Week 96.
 The proportion of subjects with HBV DNA concentrations below 400 copies/mL (69 IU/mL) at Week 96 was similar between the tenofovir disoproxil fumarate tablets monotherapy and the comparator arms.
 Across the combined chronic hepatitis B treatment trials, the number of subjects with adefovir-resistance associated substitutions at baseline was too small to establish efficacy in this subgroup.
-Patients with Chronic Hepatitis B and Decompensated Liver Disease Tenofovir disoproxil fumarate tablets were studied in a small randomized, double blind, active-controlled trial evaluating the safety of tenofovir disoproxil fumarate tablets compared to other antiviral drugs in subjects with chronic hepatitis B and decompensated liver disease through 48 weeks (Study 0108).
+Patients with Chronic Hepatitis B and Decompensated Liver Disease Tenofovir disoproxil fumarate tablets were studied in a small randomized, double-blind, active-controlled trial evaluating the safety of tenofovir disoproxil fumarate tablets compared to other antiviral drugs in subjects with chronic hepatitis B and decompensated liver disease through 48 weeks (Study 0108).
 Forty-five adult subjects (37 males and 8 females) were randomized to the tenofovir disoproxil fumarate tablets treatment arm.
 At baseline, 69% subjects were HBeAg-negative and 31% were HBeAg-positive.
 Subjects had a mean Child-Pugh score of 7, a mean MELD score of 12, mean HBV DNA of 5.8 log10 copies/mL, and mean serum ALT of 61 U/L at baseline.

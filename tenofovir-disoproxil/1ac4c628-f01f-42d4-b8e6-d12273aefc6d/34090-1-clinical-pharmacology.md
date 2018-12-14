@@ -6,7 +6,7 @@ Tenofovir disoproxil fumarate is an antiviral drug [See Microbiology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetics of tenofovir disoproxil fumarate have been evaluated in healthy volunteers and HIV-1 infected individuals.
+The pharmacokinetics of tenofovir DF have been evaluated in healthy volunteers and HIV-1 infected individuals.
 Tenofovir pharmacokinetics are similar between these populations.
 Absorption Tenofovir disoproxil fumarate tablets are a water soluble diester prodrug of the active ingredient tenofovir.
 The oral bioavailability of tenofovir from tenofovir disoproxil fumarate tablets in fasted subjects is approximately 25%.
@@ -20,15 +20,15 @@ Following single dose, oral administration of tenofovir disoproxil fumarate tabl
 After multiple oral doses of tenofovir disoproxil fumarate tablets 300 mg once daily (under fed conditions), 32 ± 10% of the administered dose is recovered in urine over 24 hours.
 Tenofovir is eliminated by a combination of glomerular filtration and active tubular secretion.
 There may be competition for elimination with other compounds that are also renally eliminated.
-Effects of Food on Oral Absorption Administration of tenofovir disoproxil fumarate 300 mg tablets following a high-fat meal (~700 to 1000 kcal containing 40 to 50% fat) increases the oral bioavailability, with an increase in tenofovir AUC0 to ∞ of approximately 40% and an increase in Cmax of approximately 14%.
+Effects of Food on Oral Absorption Administration of tenofovir disoproxil fumarate 300 mg tablets following a high-fat meal (~700 to 1,000 kcal containing 40 to 50% fat) increases the oral bioavailability, with an increase in tenofovir AUC0 to ∞ of approximately 40% and an increase in Cmax of approximately 14%.
 However, administration of tenofovir disoproxil fumarate tablets with a light meal did not have a significant effect on the pharmacokinetics of tenofovir when compared to fasted administration of the drug.
 Food delays the time to tenofovir Cmax by approximately 1 hour.
 Cmax and AUC of tenofovir are 0.33 ± 0.12 mcg/mL and 3.32 ± 1.37 mcg·hr/mL following multiple doses of tenofovir disoproxil fumarate tablets 300 mg once daily in the fed state, when meal content was not controlled.
 Special Populations Race: There were insufficient numbers from racial and ethnic groups other than Caucasian to adequately determine potential pharmacokinetic differences among these populations.
 Gender: Tenofovir pharmacokinetics are similar in male and female subjects.
-Pediatric Patients 2 Years of Age and Older: Steady-state pharmacokinetics of tenofovir were evaluated in 31 HIV-1 infected pediatric subjects 2 to less than 18 years (Table 11).
+Pediatric Patients 2 Years of Age and Older: Steady-state pharmacokinetics of tenofovir were evaluated in 31 HIV-1 infected pediatric subjects 2 to less than 18 years (Table 12).
 Tenofovir exposure achieved in these pediatric subjects receiving oral once daily doses of tenofovir disoproxil fumarate tablets 300 mg up to a maximum dose of 300 mg was similar to exposures achieved in adults receiving once-daily doses of tenofovir disoproxil fumarate tablets 300 mg.
-Table 11 Mean (± SD) Tenofovir Pharmacokinetic Parameters by Age Groups for HIV-1- infected Pediatric Patients
+Table 12 Mean (± SD) Tenofovir Pharmacokinetic Parameters by Age Groups for HIV-1- infected Pediatric Patients
 
 | Dose and Formulation | 300 mg tablet |
 | --- | --- |
@@ -38,9 +38,9 @@ Table 11 Mean (± SD) Tenofovir Pharmacokinetic Parameters by Age Groups for HIV
 
 Tenofovir exposures in 52 HBV-infected pediatric subjects (12 to less than 18 years of age) receiving oral once-daily doses of tenofovir disoproxil fumarate 300 mg tablet were comparable to exposures achieved in HIV-1 infected adults and adolescents receiving once-daily doses of 300 mg.
 Geriatric Patients: Pharmacokinetic trials have not been performed in the elderly (65 years and older).
-Patients with Impaired Renal Function: The pharmacokinetics of tenofovir are altered in subjects with renal impairment [See Warnings and Precautions (5.2)].In subjects with creatinine clearance below 50 mL/min or with end-stage renal disease (ESRD) requiring dialysis, Cmax, and AUC0 to ∞ of tenofovir were increased (Table 12).
+Patients with Impaired Renal Function: The pharmacokinetics of tenofovir are altered in subjects with renal impairment [See Warnings and Precautions (5.2)].In subjects with creatinine clearance below 50 mL/min or with end-stage renal disease (ESRD) requiring dialysis, Cmax, and AUC 0 to ∞ of tenofovir were increased (Table 13).
 It is recommended that the dosing interval for tenofovir disoproxil fumarate tablets be modified in patients with estimated creatinine clearance below 50 mL/min or in patients with ESRD who require dialysis [See Dosage and Administration (2.3)].
-Table 12 Pharmacokinetic Parameters (Mean ± SD) of Tenofovira in Subjects with Varying Degrees of Renal Function
+Table 13 Pharmacokinetic Parameters (Mean ± SD) of Tenofovira in Subjects with Varying Degrees of Renal Function
 
 | Baseline Creatinine Clearance (mL/min) | >80 (N=3) | 50-80 (N=10) | 30-49 (N=8) | 12-29 (N=11) |
 | --- | --- | --- | --- | --- |
@@ -58,13 +58,11 @@ Assessment of Drug Interactions At concentrations substantially higher (~300-fol
 However, a small (6%) but statistically significant reduction in metabolism of CYP1A substrate was observed.
 Based on the results of in vitro experiments and the known elimination pathway of tenofovir, the potential for CYP-mediated interactions involving tenofovir with other medicinal products is low.
 Tenofovir disoproxil fumarate tablets have been evaluated in healthy volunteers in combination with other antiretroviral and potential concomitant drugs.
-Tables 13 and 14 summarize pharmacokinetic effects of coadministered drug on tenofovir pharmacokinetics and effects of tenofovir disoproxil fumarate tablets on the pharmacokinetics of coadministered drug.
-Coadministration of tenofovir disoproxil fumarate tablets with didanosine results in changes in the pharmacokinetics of didanosine that may be of clinical significance.
-Concomitant dosing of tenofovir disoproxil fumarate tablets with didanosine significantly increases the Cmax and AUC of didanosine.
-When didanosine 250 mg enteric-coated capsules were administered with tenofovir disoproxil fumarate tablets, systemic exposures of didanosine were similar to those seen with the 400 mg enteric-coated capsules alone under fasted conditions (Table 14).
-The mechanism of this interaction is unknown.
+Tables 14 and 15 summarize pharmacokinetic effects of coadministered drug on tenofovir pharmacokinetics and effects of tenofovir disoproxil fumarate tablets on the pharmacokinetics of coadministered drug.
+TDF is a substrate of P-glycoprotein (P-gp) and breast cancer resistance protein (BCRP) transporters.
+When TDF is coadministered with an inhibitor of these transporters, an increase in absorption may be observed.
 No clinically significant drug interactions have been observed between tenofovir disoproxil fumarate tablets and efavirenz, methadone, nelfinavir, oral contraceptives, ribavirin, or sofosbuvir.
-Table 13 Drug Interactions: Changes in Pharmacokinetic Parameters for Tenofovira in the Presence of the Coadministered Drug
+Table 14 Drug Interactions: Changes in Pharmacokinetic Parameters for Tenofovira in the Presence of the Coadministered Drug
 
 | Coadministered Drug | Dose of Coadministered Drug (mg) | N | % Change of Tenofovir Pharmacokinetic Parametersb (90% CI) |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -76,55 +74,48 @@ Table 13 Drug Interactions: Changes in Pharmacokinetic Parameters for Tenofovira
 | Ledipasvir/ Sofosbuvire,f | 90/400 once daily x 10 days | 24 | ↑ 47 (↑ 37 to ↑ 58) | ↑ 35 (↑ 29 to ↑ 42) | ↑ 47 (↑ 38 to ↑ 57) |
 | Ledipasvir/ Sofosbuvire,g | 23 | ↑ 64 (↑ 54 to ↑ 74) | ↑ 50 (↑ 42 to ↑ 59) | ↑ 59 (↑ 49 to ↑ 70) |  |
 | Ledipasvir/ Sofosbuvirh | 90/400 once daily x 14 days | 15 | ↑ 79 (↑ 56 to ↑ 104) | ↑ 98 (↑ 77 to ↑ 123) | ↑ 163 (↑ 132 to ↑197) |
-| Ledipasvir/ Sofosbuviri | 90/400 once daily x 10 days | 14 | ↑ 32 (↑ 25 to ↑ 39) | ↑ 40 (↑ 31 to ↑ 50) | ↑ 91 (↑ 74 to ↑ 110) |
-| Ledipasvir/ Sofosbuvirj | 90/400 once daily x 10 days | 29 | ↑ 61 (↑ 51 to ↑ 72) | ↑ 65 (↑ 59 to ↑ 71) | ↑ 115 (↑105 to ↑126) |
 | Lopinavir/ Ritonavir | 400/100 twice daily × 14 days | 24 | Û | ↑ 32 (↑ 25 to ↑ 38) | ↑ 51 (↑ 37 to ↑ 66) |
-| Saquinavir/ Ritonavir | 1000/100 twice daily × 14 days | 35 | Û | Û | ↑ 23 (↑ 16 to ↑ 30) |
-| Sofosbuvirk | 400 single dose | 16 | ↑ 25 (↑ 8 to ↑ 45) | Û | Û |
-| Sofosbuvir/ Velpatasvirl | 400/100 once daily | 24 | ↑ 55 (↑ 43 to ↑ 68) | ↑ 30 (↑ 24 to ↑ 36) | ↑ 39 (↑ 31 to ↑ 48) |
-| Sofosbuvir/ Velpatasvirm | 400/100 once daily | 29 | ↑ 55 (↑ 45 to ↑ 66) | ↑ 39 (↑ 33 to ↑ 44) | ↑ 52 (↑ 45 to ↑ 59) |
-| Sofosbuvir/ Velpatasvirn | 400/100 once daily | 15 | ↑ 77 (↑ 53 to ↑ 104) | ↑ 81 (↑ 68 to ↑ 94) | ↑ 121 (↑ 100 to ↑ 143) |
-| Sofosbuvir/ Velpatasviro | 400/100 once daily | 24 | ↑ 36 (↑ 25 to ↑ 47) | ↑ 35 (↑ 29 to ↑ 42) | ↑ 45 (↑ 39 to ↑ 51) |
-| Sofosbuvir/ Velpatasvirp | 400/100 once daily | 24 | ↑ 44 (↑ 33 to ↑ 55) | ↑ 40 (↑ 34 to ↑ 46) | ↑ 84 (↑ 76 to ↑ 92) |
-| Sofosbuvir/ Velpatasvirq | 400/100 once daily | 30 | ↑ 46 (↑ 39 to ↑ 54) | ↑ 40 (↑ 34 to ↑ 45) | ↑ 70 (↑ 61 to ↑ 79) |
-| Tacrolimus | 0.05 mg/kg twice daily × 7 days | 21 | ↑ 13 (↑ 1 to ↑ 27) | Û | Û |
-| Tipranavir/ Ritonavirr | 500/100 twice daily | 22 | ↓ 23 (↓ 32 to ↓ 13) | ↓ 2 (↓ 9 to ↑ 5) | ↑ 7 (↓ 2 to ↑ 17) |
+| Saquinavir/ Ritonavir | 1,000/100 twice daily × 14 days | 35 | Û | Û | ↑ 23 (↑ 16 to ↑ 30) |
+| Sofosbuviri | 400 single dose | 16 | ↑ 25 (↑ 8 to ↑ 45) | Û | Û |
+| Sofosbuvir/ Velpatasvirj | 400/100 once daily | 24 | ↑ 44 (↑ 33 to ↑ 55) | ↑ 40 (↑ 34 to ↑ 46) | ↑ 84 (↑ 76 to ↑ 92) |
+| Sofosbuvir/ Velpatasvirk | 400/100 once daily | 30 | ↑ 46 (↑ 39 to ↑ 54) | ↑ 40 (↑ 34 to ↑ 45) | ↑ 70 (↑ 61 to ↑ 79) |
+| Sofosbuvir/ Velpatasvir/ Voxilaprevirl | 400/100/100 + Voxilaprevirm 100 once daily | 29 | ↑ 48 (↑ 36 to ↑ 61) | ↑ 39 (↑ 32 to↑ 46) | ↑ 47 (↑ 38 to ↑ 56) |
+| Tacrolimus | 0.05 mg/kg twice Daily × 7 days | 21 | ↑ 13 (↑ 1 to ↑ 27) | Û | Û |
+| Tipranavir/ Ritonavirn | 500/100 twice daily | 22 | ↓ 23 (↓ 32 to ↓ 13) | ↓ 2 (↓ 9 to ↑ 5) | ↑ 7 (↓ 2 to ↑ 17) |
 | 750/200 twice daily (23 doses) | 20 | ↓ 38 (↓ 46 to ↓ 29) | ↑ 2 (↓ 6 to ↑ 10) | ↑ 14 (↑ 1 to ↑ 27) |  |
 
-a. Subjects received tenofovir disoproxil fumarate tablets 300 mg once daily. b. Increase = ; Decrease = ; No Effect =  c. Reyataz Prescribing Information. d. Prezista Prescribing Information. e Data generated from simultaneous dosing with HARVONI (ledipasvir/sofosbuvir).
-Staggered administration (12 hours apart) provide similar results. f. Comparison based on exposures when administered as atazanavir/ritonavir + emtricitabine/tenofovir DF. g. Comparison based on exposures when administered as darunavir/ritonavir + emtricitabine/tenofovir DF. h. Study conducted with ATRIPLA (efavirenz/emtricitabine/tenofovir DF) coadministered with HARVONI. i. Study conducted with COMPLERA (emtricitabine/rilpivirine/tenofovir DF) coadministered with HARVONI. j. Study conducted with TRUVADA (emtricitabine/tenofovir DF) + dolutegravir coadministered with HARVONI. k. Study conducted with ATRIPLA coadministered with SOVALDI® (sofosbuvir). l. Comparison based on exposures when administered as atazanavir/ritonavir + emtricitabine/tenofovir DF. m. Comparison based on exposures when administered as darunavir/ritonavir + emtricitabine/tenofovir DF. n. Study conducted with ATRIPLA coadministered with EPCLUSA (sofosbuvir/velpatasvir). o. Study conducted with STRIBILD (elvitegravir/cobicistat/emtricitabine/tenofovir DF) coadministered with EPCLUSA. p. Study conducted with COMPLERA coadministered with EPCLUSA. q. Administered as raltegravir + emtricitabine/tenofovir DF. r. Aptivus Prescribing Information.
+a. Subjects received tenofovir disoproxil fumarate tablets 300 mg once daily. b. Increase = ↑; Decrease = ↓; No Effect = Û c. Reyataz Prescribing Information. d. Prezista Prescribing Information. e Data generated from simultaneous dosing with HARVONI (ledipasvir/sofosbuvir).
+Staggered administration (12 hours apart) provided similar results. f. Comparison based on exposures when administered as atazanavir/ritonavir + emtricitabine/tenofovir DF. g. Comparison based on exposures when administered as darunavir/ritonavir + emtricitabine/tenofovir DF. h. Study conducted with ATRIPLA (efavirenz/emtricitabine/tenofovir DF) coadministered with HARVONI; coadministration with HARVONI also results in comparable increases in tenofovir exposure when TDF is administered as COMPLERA, or TRUVADA + dolutegravir. i. Study conducted with ATRIPLA coadministered with SOVALDI® (sofosbuvir). j. Study conducted with COMPLERA coadministered with EPCLUSA; coadministration with EPCLUSA also results in comparable increases in tenofovir exposures when TDF is administered as ATRIPLA, STRIBILD, TRUVADA + atazanavir/ritonavir, or TRUVADA + darunavir/ritonavir. k. Administered as raltegravir + emtricitabine/tenofovir DF. l. Comparison based on exposures when administered as darunavir/ritonavir + emtricitabine/tenofovir DF. m. Study conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected patients. n. Aptivus Prescribing Information.
 
 No effect on the pharmacokinetic parameters of the following coadministered drugs was observed with tenofovir disoproxil fumarate: abacavir, didanosine (buffered tablets), emtricitabine, entecavir, and lamivudine.
 
-Table 14 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Tenofovir disoproxil fumarate Tablets
+Table 15 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Tenofovir disoproxil fumarate Tablets
 
 | Coadministered Drug | Dose of Coadministered Drug (mg) | N | % Change of Coadministered Drug Pharmacokinetic Parametersa (90% CI) |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Cmax | AUC | Cmin |  |  |  |
-| Abacavir | 300 once | 8 | ­12 (¯ 1 to ­26) | Û | NA |
-| Atazanavirb | 400 once daily ´14 days | 34 | ¯21 (¯27 to ¯14) | ¯25 (¯30 to ¯19) | ¯40 (¯48 to ¯32) |
-| Atazanavirb | Atazanavir/ Ritonavir 300/100 once daily ´ 42 days | 10 | ¯28 (¯50 to ­ 5) | ¯25c (¯42 to ¯3) | ¯23c (¯46 to ­10) |
-| Darunavird | Darunavir/Ritonavir 300/100 mg once daily | 12 | ­ 16 (¯ 6 to ­ 42) | ­ 21 (¯ 5 to ­ 54) | ­ 24 (¯ 10 to ­ 69) |
-| Didanosinee | 250 once, simultaneously with tenofovir disoproxil fumarate tablets and a light mealf | 33 | ¯ 20g (¯ 32 to ¯7) | Ûg | NA |
+| Abacavir | 300 once | 8 | ­ 12 (¯ 1 to ­26) | Û | NA |
+| Atazanavirb | 400 once daily x 14 days | 34 | ¯21 (¯27 to ¯ 14) | ¯25 (¯30 to ¯19) | ¯ 40 (¯ 48 to ¯ 32) |
+| Atazanavirb | Atazanavir/Ritonavir 300/100 once daily x 42 days | 10 | ¯28 (¯ 50 to­ 5) | ¯25c (¯42 to ¯ 3) | ¯23c (¯46 to ­10) |
+| Darunavird | Darunavir/Ritonavir 300/100 once daily | 12 | ­ 16 (¯ to ­ 42) | ­ 21 (¯ to ­ 54) | ­ 24 (¯ to ­ 69) |
+| Didanosinee | 250 once, simultaneously with tenofovir disoproxil fumarate tablets and a light mealf | 33 | ¯ 20g (¯ 32 to ¯ 7) | Ûg | NA |
 | Emtricitabine | 200 once daily x 7 days | 17 | Û | Û | ­ 20 (­ 12 to ­ 29) |
-| Entecavir | 1 mg once daily x 10 days | 28 | Û | ­ 13 (­ 11 to ­ 15) | Û |
-| Indinavir | 800 three times daily x 7 days | 12 | ¯11 (¯ 30 to ­12) | Û | Û |
-| Lamivudine | 150 twice daily x 7 days | 15 | ¯ 24 (¯ 34 to ¯ 12) | Û | Û |
+| Entecavir | 1 mg once daily x 10 days | 28 | Û | ­ 13 (­ to ­ 15) | Û |
+| Indinavir | 800 three times daily x 7 days | 12 | ¯ 11 (¯ 30 to ­12) | Û | Û |
+| Lamivudine | 150 twice daily x 7 days | 15 | 24 (¯ 34 to ¯ 12) | Û | Û |
 | Lopinavir Ritonavir | Lopinavir/Ritonavir 400/100 twice daily x 14 days | 24 | Û Û | Û Û | Û Û |
-| Coadministered Drug | Dose of Coadministered Drug (mg) | N | % Change of Coadministered Drug Pharmacokinetic Parametersa (90% CI) |  |  |
-| Cmax | AUC | Cmin |  |  |  |
-| Saquinavir Ritonavir | Saquinavir/Ritonavir 1000/100 twice daily x 14 days | 32 | ­ 22 (­ 6 to ­ 41) Û | ­ 29h (­ 12 to ­ 48) Û | ­ 47h (­ 23 to ­ 76) ­ 23 (­ 3 to ­ 46) Û |
+| Saquinavir Ritonavir | Saquinavir/Ritonavir 1,000/100 twice daily x 14 days | 32 | ­ 22 (­ 6 to ­ 41) Û | ­ 29h (­ 12 to ­ 48) Û | ­ 47h (­ 23 to ­ 76) ­ 23 (­ 3 to ­ 46) |
 | Tacrolimus | 0.05 mg/kg twice daily x 7 days | 21 | Û | Û | Û |
-| Tipranaviri | Tipranavir/Ritonavir 500/100 twice daily | 22 | ¯ 17 (¯ 26 to ¯ 6) | ¯ 18 (¯ 25 to ¯ 9) | ¯ 21 (¯ 30 to ¯ 10) |
+| Tipranaviri | Tipranavir/Ritonavir 500/100 twice daily | 22 | ¯ 17 (¯ 26 to¯ 6) | ¯ 18 (¯ 25 to ¯ 9) | ¯ 21 (¯ 30 to ¯ 10) |
 | Tipranavir/Ritonavir 750/200 twice daily (23 doses) | 20 | ¯ 11 (¯ 16 to ¯ 4) | ¯ 9 (¯ 15 to ¯ 3) | ¯ 12 (¯ 22 to0) |  |
 
-a. Increase = ↑; Decrease = ↓; No Effect = ; NA = Not Applicable b. Reyataz Prescribing Information. c. In HIV-infected subjects, addition of tenofovir DF to atazanavir 300 mg plus ritonavir 100 mg, resulted in AUC and Cmin values of atazanavir that were 2.3- and 4-fold higher than the respective values observed for atazanavir 400 mg when given alone. d. Prezista Prescribing Information. e. Videx EC Prescribing Information.
+a. Increase = ↑; Decrease = ↓; No Effect = Û; NA = Not Applicable b. Reyataz Prescribing Information. c. In HIV-infected subjects, addition of tenofovir DF to atazanavir 300 mg plus ritonavir 100 mg, resulted in AUC and Cmin values of atazanavir that were 2.3- and 4-fold higher than the respective values observed for atazanavir 400 mg when given alone. d. Prezista Prescribing Information. e. Videx EC Prescribing Information.
 Subjects received didanosine enteric-coated capsules. f. 373 kcal, 8.2 g fat g. Compared with didanosine (enteric-coated) 400 mg administered alone under fasting conditions. h. Increases in AUC and Cmin are not expected to be clinically relevant; hence no dose adjustments are required when tenofovir DF and ritonavir-boosted saquinavir are coadministered. i. Aptivus Prescribing Information.
 
 ## 12.4 Microbiology
 
-Mechanism of Action Tenofovir disoproxil fumarate is an acyclic nucleoside phosphonate diester analog of adenosine monophosphate.
-Tenofovir disoproxil fumarate requires initial diester hydrolysis for conversion to tenofovir and subsequent phosphorylations by cellular enzymes to form tenofovir diphosphate, an obligate chain terminator.
+Mechanism of Action Tenofovir DF is an acyclic nucleoside phosphonate diester analog of adenosine monophosphate.
+Tenofovir DF requires initial diester hydrolysis for conversion to tenofovir and subsequent phosphorylations by cellular enzymes to form tenofovir diphosphate, an obligate chain terminator.
 Tenofovir diphosphate inhibits the activity of HIV-1 reverse transcriptase and HBV reverse transcriptase by competing with the natural substrate deoxyadenosine 5'-triphosphate and, after incorporation into DNA, by DNA chain termination.
 Tenofovir diphosphate is a weak inhibitor of mammalian DNA polymerases α, β, and mitochondrial DNA polymerase γ.
 Activity against HIV Antiviral Activity The antiviral activity of tenofovir against laboratory and clinical isolates of HIV-1 was assessed in lymphoblastoid cell lines, primary monocyte/macrophage cells and peripheral blood lymphocytes.
@@ -134,7 +125,7 @@ Tenofovir displayed antiviral activity in cell culture against HIV-1 clades A, B
 Resistance HIV-1 isolates with reduced susceptibility to tenofovir have been selected in cell culture.
 These viruses expressed a K65R substitution in reverse transcriptase and showed a 2- to 4- fold reduction in susceptibility to tenofovir.
 In addition, a K70E substitution in HIV-1 reverse transcriptase has been selected by tenofovir and results in low-level reduced susceptibility to tenofovir.
-In Study 903 of treatment-naïve subjects (tenofovir disoproxil fumarate tablets + lamivudine + efavirenz versus stavudine + lamivudine + efavirenz) [See Clinical Studies (14.1)], genotypic analyses of isolates from subjects with virologic failure through Week 144 showed development of efavirenz and lamivudine resistance-associated substitutions to occur most frequently and with no difference between the treatment arms.
+In Study 903 of treatment-naïve subjects (tenofovir disoproxil fumarate tablets + lamivudine + efavirenz versus stavudine + lamivudine + efavirenz) [See Clinical Studies (14.1)],genotypic analyses of isolates from subjects with virologic failure through Week 144 showed development of efavirenz and lamivudine resistance-associated substitutions to occur most frequently and with no difference between the treatment arms.
 The K65R substitution occurred in 8/47 (17%) of analyzed patient isolates in the tenofovir disoproxil fumarate tablets arm and in 2/49 (4%) of analyzed patient isolates in the stavudine arm.
 Of the 8 subjects whose virus developed K65R in the tenofovir disoproxil fumarate tablets arm through 144 weeks, 7 occurred in the first 48 weeks of treatment and one at Week 96.
 One patient in the tenofovir disoproxil fumarate arm developed the K70E substitution in the virus.
@@ -147,7 +138,7 @@ The K65R and K70E substitutions selected by tenofovir are also selected in some 
 HIV-1 isolates with this substitution also show reduced susceptibility to emtricitabine and lamivudine.
 Therefore, cross resistance among these drugs may occur in patients whose virus harbors the K65R or K70E substitution.
 HIV-1 isolates from subjects (N=20) whose HIV-1 expressed a mean of three zidovudine-associated reverse transcriptase substitutions (M41L, D67N, K70R, L210W, T215Y/F, or K219Q/E/N), showed a 3.1-fold decrease in the susceptibility to tenofovir.
-In Studies 902 and 907 conducted in treatment-experienced subjects (tenofovir disoproxil fumarate tablets + Standard Background Therapy (SBT) compared to placebo + SBT) [See Clinical Studies (14.1)], 14/304 (5%) of the tenofovir disoproxil fumarate-treated subjects with virologic failure through Week 96 had greater than 1.4-fold (median 2.7-fold) reduced susceptibility to tenofovir.
+In Studies 902 and 907 conducted in treatment-experienced subjects (tenofovir disoproxil fumarate tablets + Standard Background Therapy (SBT) compared to placebo + SBT) [See Clinical Studies (14.1)],14/304 (5%) of the tenofovir disoproxil fumarate-treated subjects with virologic failure through Week 96 had greater than 1.4-fold (median 2.7-fold) reduced susceptibility to tenofovir.
 Genotypic analysis of the baseline and failure isolates showed the development of the K65R substitution in the HIV-1 reverse transcriptase gene.
 The virologic response to tenofovir disoproxil fumarate tablets therapy has been evaluated with respect to baseline viral genotype (N=222) in treatment-experienced subjects participating in Studies 902 and 907.
 In these clinical trials, 94% of the participants evaluated had baseline HIV-1 isolates expressing at least one NRTI substitution.
@@ -162,8 +153,8 @@ Limited data are available for subjects whose virus expressed a Y115F substituti
 In the protocol defined analyses, virologic response to tenofovir disoproxil fumarate tablets was not reduced in subjects with HIV-1 that expressed the abacavir/emtricitabine/lamivudine resistance-associated M184V substitution.
 HIV-1 RNA responses among these subjects were durable through Week 48.
 Studies 902 and 907 Phenotypic Analyses Phenotypic analysis of baseline HIV-1 from treatment-experienced subjects (N=100) demonstrated a correlation between baseline susceptibility to tenofovir disoproxil fumarate tablets and response to tenofovir disoproxil fumarate tablets therapy.
-Table 15 summarizes the HIV-1 RNA response by baseline tenofovir disoproxil fumarate tablets susceptibility.
-Table 15 HIV-1 RNA Response at Week 24 by Baseline Tenofovir disoproxil fumarate Tablets Susceptibility (Intent-To-Treat)a
+Table 16 summarizes the HIV-1 RNA response by baseline tenofovir disoproxil fumarate tablets susceptibility.
+Table 16 HIV-1 RNA Response at Week 24 by Baseline Tenofovir disoproxil fumarate Tablets Susceptibility (Intent-To-Treat)a
 
 | Baseline Tenofovir disoproxil fumarate Tablets Susceptibilityb | Change in HIV-1 RNAc (N) |
 | --- | --- |
@@ -175,12 +166,12 @@ The EC50 values for tenofovir ranged from 0.14 to 1.5 μM, with CC50 (50% cytoto
 In cell culture combination antiviral activity studies of tenofovir with the nucleoside HBV reverse transcriptase inhibitors entecavir, lamivudine, and telbivudine, and with the nucleoside HIV-1 reverse transcriptase inhibitor emtricitabine, no antagonistic activity was observed.
 Resistance Cumulative tenofovir disoproxil fumarate tablets genotypic resistance has been evaluated annually for up to 384 weeks in Studies 0102, 0103, 0106, 0108 and 0121 with the paired HBV reverse transcriptase amino acid sequences of the pretreatment and on-treatment isolates from subjects who received at least 24 weeks of tenofovir disoproxil fumarate tablets monotherapy and remained viremic with HBV DNA greater than or equal to 400 copies/mL (69 IU/mL) at the end of each study year (or at discontinuation of tenofovir disoproxil fumarate tablets monotherapy) using an as-treated analysis.
 In the nucleotide-naïve population from Studies 0102 and 0103, HBeAg-positive subjects had a higher baseline viral load than HBeAg-negative subjects and a significantly higher proportion of the subjects remained viremic at their last time point on tenofovir disoproxil fumarate tablets monotherapy (15% versus 5%, respectively).
-HBV isolates from these subjects who remained viremic showed treatment-emergent substitutions (Table 16); however, no specific substitutions occurred at a sufficient frequency to be associated with resistance to tenofovir disoproxil fumarate tablets (genotypic and phenotypic analyses).
-Table 16 Amino Acid Substitutions in Viremic Subjects across HBV Trials of Tenofovir disoproxil fumarate Tablets
+HBV isolates from these subjects who remained viremic showed treatment-emergent substitutions (Table 17); however, no specific substitutions occurred at a sufficient frequency to be associated with resistance to tenofovir disoproxil fumarate tablets (genotypic and phenotypic analyses).
+Table 17 Amino Acid Substitutions in Viremic Subjects across HBV Trials of Tenofovir disoproxil fumarate Tablets
 
 |  | Compensated Liver Disease |  |  | Decompensated Liver Disease (N=39)d |
 | --- | --- | --- | --- | --- |
-| Nucleotide-Naïve (N=417)a | HEPSERA-Experienced (N=247)b | Lamivudine-Resistant(N=136)C |  |  |
+| Nucleotide-Naïve(N=417)a | HEPSERA-Experienced (N=247)b | Lamivudine-Resistant (N=136)C |  |  |
 | Viremic at Last Time Point on Tenofovir disoproxil fumarate Tablets | 38/417 (9%) | 37/247 (15%) | 9/136 (7%) | 7/39 (18%) |
 | Treatment-Emergent Amino Acid Substitutionse | 18f/32 (56%) | 11g/31 (35%) | 6h/8 (75%) | 3/5 (60%) |
 

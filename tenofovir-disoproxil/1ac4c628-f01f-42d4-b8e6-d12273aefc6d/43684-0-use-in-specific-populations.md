@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects Pregnancy Category B There are no adequate and well-controlled studies in pregnant women.
+Pregnancy Category B There are no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, tenofovir disoproxil fumarate tablets should be used during pregnancy only if clearly needed.
 Antiretroviral Pregnancy Registry: To monitor fetal outcomes of pregnant women exposed to tenofovir disoproxil fumarate tablets, an Antiretroviral Pregnancy Registry has been established.
 Healthcare providers are encouraged to register patients by calling 1-800-258-4263.
@@ -30,11 +30,11 @@ At baseline, 90% of subjects harbored NRTI resistance-associated substitutions i
 Overall, the trial failed to show a difference in virologic response between the tenofovir disoproxil fumarate tablets and placebo treatment groups.
 Subgroup analyses suggest the lack of difference in virologic response may be attributable to imbalances between treatment arms in baseline viral susceptibility to tenofovir disoproxil fumarate tablets and OBR.
 Although changes in HIV-1 RNA in these highly treatment-experienced subjects were less than anticipated, the comparability of the pharmacokinetic and safety data to that observed in adults supports the use of tenofovir disoproxil fumarate tablets in pediatric patients 12 years of age and older who weigh greater than or equal to 35 kg and whose HIV-1 isolate is expected to be sensitive to tenofovir disoproxil fumarate tablets.
-[See Warnings and Precautions (5.6), Adverse Reactions (6.1), and Clinical Pharmacology (12.3)].
+[See Warnings and Precautions (5.6), Adverse Reactions(6.1),and Clinical Pharmacology (12.3)].
 Safety and effectiveness of tenofovir disoproxil fumarate tablets in pediatric patients younger than 2 years of age with HIV-1 infection have not been established.
 Pediatric Patients 12 Years of Age and Older with Chronic Hepatitis B In Study 115, 106 HBeAg negative (9%) and positive (91%) subjects aged 12 to less than 18 years with chronic HBV infection were randomized to receive blinded treatment with tenofovir disoproxil fumarate tablets 300 mg (N=52) or placebo (N=54) for 72 weeks.
 At study entry, the mean HBV DNA was 8.1 log10 copies/mL and mean ALT was 101 U/L.
-Of 52 subjects treated with tenofovir disoproxil fumarate tablets, 20 subjects were nucleos(t)ide-naïve and 32 subjects were nucleos(t)ide- experienced.
+Of 52 subjects treated with tenofovir disoproxil fumarate tablets, 20 subjects were nucleos(t)ide-naïve and 32 subjects were nucleos(t)ide-experienced.
 Thirty-one of the 32 nucleos(t)ide-experienced subjects had prior lamivudine experience.
 At Week 72, 88% (46/52) of subjects in the tenofovir disoproxil fumarate tablets group and 0% (0/54) of subjects in the placebo group had HBV DNA <400 copies/mL (69 IU/mL).
 Among subjects with abnormal ALT at baseline, 74% (26/35) of subjects receiving tenofovir disoproxil fumarate tablets had normalized ALT at Week 72 compared to 31% (13/42) in the placebo group.
@@ -48,4 +48,4 @@ In general, dose selection for the elderly patient should be cautious, keeping i
 
 ## 8.6 Patients with Impaired Renal Function
 
-It is recommended that the dosing interval for tenofovir disoproxil fumarate tablets be modified in patients with estimated creatinine clearance below 50 mL/min or in patients with ESRD who require dialysis [See Dosage and Administration (2.3), Clinical Pharmacology (12.3)].
+It is recommended that the dosing interval for tenofovir disoproxil fumarate tablets be modified in patients with estimated creatinine clearance below 50 mL/min or in patients with ESRD who require dialysis [See Dosage and Administration (2.3),Clinical Pharmacology (12.3)].

@@ -13,14 +13,14 @@ Tenofovir disoproxil fumarate is available as tablets in 300 mg strength for ped
 The dose is one tablet once daily taken orally, without regard to food.
 Table 2 contain dosing recommendations for tenofovir disoproxil fumarate tablets based on body weight.
 Weight should be monitored periodically and the tenofovir disoproxil fumarate tablets dose adjusted accordingly.
-Table 2 Dosing Recommendations for Pediatric Patients ≥2 Years of Age and Weighing ≥17 kg Using Tenofovir disoproxil fumarate Tablets
+Table 2 Dosing Recommendations for Pediatric Patients 2 Years of Age and Older and Weighing At Least 17 kg Using Tenofovir Disoproxil Fumarate Tablets
 
 | Body Weight Kilogram (kg) | Tablets Once Daily |
 | --- | --- |
-| 17 to <22 | 150 mg |
-| 22 to <28 | 200 mg |
-| 28 to <35 | 250 mg |
-| ≥35 | 300 mg |
+| 17 to less than 22 | 150 mg |
+| 22 to less than 28 | 200 mg |
+| 28 to less than 35 | 250 mg |
+| 35 or greater | 300 mg |
 
 Chronic Hepatitis B Safety and efficacy of tenofovir disoproxil fumarate tablets in patients younger than 12 years of age have not been established.
 
@@ -29,17 +29,17 @@ Chronic Hepatitis B Safety and efficacy of tenofovir disoproxil fumarate tablets
 Significantly increased drug exposures occurred when tenofovir disoproxil fumarate tablets were administered to subjects with moderate to severe renal impairment [See Clinical Pharmacology (12.3)].
 Therefore, the dosing interval of tenofovir disoproxil fumarate tablets 300 mg should be adjusted in patients with baseline creatinine clearance below 50 mL/min using the recommendations in Table 3.
 These dosing interval recommendations are based on modeling of single-dose pharmacokinetic data in non-HIV and non-HBV infected subjects with varying degrees of renal impairment, including end-stage renal disease requiring hemodialysis.
-The safety and effectiveness of these dosing interval adjustment recommendations have not been clinically evaluated in patients with moderate or severe renal impairment; therefore clinical response to treatment and renal function should be closely monitored in these patients [See Warnings and Precautions (5.2)].
+The safety and effectiveness of these dosing interval adjustment recommendations have not been clinically evaluated in patients with moderate or severe renal impairment; therefore, clinical response to treatment and renal function should be closely monitored in these patients [See Warnings and Precautions (5.2)].
+
 No dose adjustment of tenofovir disoproxil fumarate tablets 300 mg is necessary for patients with mild renal impairment (creatinine clearance 50 to 80 mL/min).
 Routine monitoring of estimated creatinine clearance, serum phosphorus, urine glucose, and urine protein should be performed in patients with mild renal impairment [See Warnings and Precautions (5.2)].
+
 Table 3 Dosage Adjustment for Patients with Altered Creatinine Clearance
 
-|  |  | Creatinine Clearance (mL/min)a |  |  | Hemodialysis Patients |
-| --- | --- | --- | --- | --- | --- |
-|  | ≥50 |  | 30-49 | 10-29 |  |
-| Recommended 300 mg Dosing Interval | Every 24 hours |  | Every 48 hours | Every 72 to 96 hours | Every 7 days or after a total of approximately 12 hours of dialysis |
+|  | Cre atinine Clearan ce (mL/min)a |  |  | Hemodial ysis Patients |
+| --- | --- | --- | --- | --- |
+|  | 50 or greater | 30- 49 | 10- 29 |  |
+| Recomm en ded 300 mg Dosing Inte r v al | Every 24 hours | Every 48 hours | Every 72 to 96 hours | Every 7 days or after a tot al of approximate ly 12 hours of dialysis |
 
-a. Calculated using ideal (lean) body weight. b. Generally once weekly assuming three hemodialysis sessions a week of approximately 4 hours’ duration.
+a. Calculated using ideal (lean) body weight. b. Generally once weekly assuming three hemodialysis sessions a week of approximately 4 hours duration.
 Tenofovir disoproxil fumarate tablets should be administered following completion of dialysis.
-The pharmacokinetics of tenofovir have not been evaluated in non-hemodialysis patients with creatinine clearance below 10 mL/min; therefore, no dosing recommendation is available for these patients.
-No data are available to make dose recommendations in pediatric patients with renal impairment.
