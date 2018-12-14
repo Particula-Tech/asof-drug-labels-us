@@ -1,16 +1,16 @@
-# 5. WARNINGS AND PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
 ## 5.1 Never Share a LANTUS SoloStar Prefilled Pen, Syringe, or Needle between Patients
 
 LANTUS SoloStar prefilled pens must never be shared between patients, even if the needle is changed.
-Patients using LANTUS vials must never reuse or share needles or syringes with another person.
+Patients using LANTUS vials must never re-use or share needles or syringes with another person.
 Sharing poses a risk for transmission of blood-borne pathogens.
 
 ## 5.2 Hyperglycemia or Hypoglycemia with Changes in Insulin Regimen
 
 Changes in insulin strength, manufacturer, type, or method of administration may affect glycemic control and predispose to hypoglycemia [see Warnings and Precautions (5.3)] or hyperglycemia.
 These changes should be made cautiously and only under close medical supervision, and the frequency of blood glucose monitoring should be increased.
-For patients with type 2 diabetes, dosage adjustments of concomitant oral and anti-diabetic products may be needed.
+For patients with type 2 diabetes, dosage adjustments of concomitant oral and antidiabetic products may be needed.
 
 ## 5.3 Hypoglycemia
 
@@ -25,8 +25,8 @@ Risk Factors for Hypoglycemia
 
 The risk of hypoglycemia after an injection is related to the duration of action of the insulin and, in general, is highest when the glucose lowering effect of the insulin is maximal.
 As with all insulin preparations, the glucose lowering effect time course of LANTUS may vary in different individuals or at different times in the same individual and depends on many conditions, including the area of injection as well as the injection site blood supply and temperature [see Clinical Pharmacology (12.2)].
-Other factors which may increase the risk of hypoglycemia include changes in meal pattern (e.g., macronutrient content or timing of meals), changes in level of physical activity, or changes to co-administered medication [see Drug Interactions (7)].
-Patients with renal or hepatic impairment may be at higher risk of hypoglycemia [See Use in Specific Populations (8.6, 8.7)].
+Other factors which may increase the risk of hypoglycemia include changes in meal pattern (e.g., macronutrient content or timing of meals), changes in level of physical activity, or changes to coadministered medication [see Drug Interactions (7)].
+Patients with renal or hepatic impairment may be at higher risk of hypoglycemia [see Use in Specific Populations (8.6, 8.7)].
 
 Risk Mitigation Strategies for Hypoglycemia
 
@@ -51,7 +51,7 @@ LANTUS is contraindicated in patients who have had hypersensitivity reactions to
 
 All insulin products, including LANTUS, cause a shift in potassium from the extracellular to intracellular space, possibly leading to hypokalemia.
 Untreated hypokalemia may cause respiratory paralysis, ventricular arrhythmia, and death.
-Monitor potassium levels in patients at risk for hypokalemia if indicated (e.g., patients using potassium-lowering medications, patients taking medications sensitive to serum potassium concentrations).
+Monitor potassium levels in patients at risk for hypokalemia, if indicated (e.g., patients using potassium-lowering medications, patients taking medications sensitive to serum potassium concentrations).
 
 ## 5.7 Fluid Retention and Heart Failure with Concomitant Use of PPAR-gamma Agonists
 

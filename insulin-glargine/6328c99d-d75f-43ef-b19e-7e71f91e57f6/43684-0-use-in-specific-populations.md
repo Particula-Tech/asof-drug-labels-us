@@ -1,4 +1,4 @@
-# 8. USE IN SPECIFIC POPULATIONS
+# 8 USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
@@ -30,14 +30,14 @@ Use of LANTUS is compatible with breastfeeding, but women with diabetes who are 
 The safety and effectiveness of LANTUS have been established in pediatric patients (age 6 to 15 years) with type 1 diabetes [see Clinical Studies (14.2)].
 The safety and effectiveness of LANTUS in pediatric patients younger than 6 years of age with type 1 diabetes and pediatric patients with type 2 diabetes have not been established.
 
-The dosage recommendation when changing to LANTUS in pediatric patients (age 6 to 15 years) with type 1 diabetes is the same as that described for adults [see Dosage and Administration (2.2, 2.4) and Clinical Studies (14)].
+The dosage recommendation when changing to LANTUS in pediatric patients (age 6 to 15 years) with type 1 diabetes is the same as that described for adults [see Dosage and Administration (2.2, 2.4), Clinical Studies (14)].
 As in adults, the dosage of LANTUS must be individualized in pediatric patients (age 6 to 15 years) with type 1 diabetes based on metabolic needs and frequent monitoring of blood glucose.
 
 In the pediatric clinical trial, pediatric patients (age 6 to 15 years) with type 1 diabetes had a higher incidence of severe symptomatic hypoglycemia compared to the adults in trials with type 1 diabetes [see Adverse Reactions (6.1)].
 
 ## 8.5 Geriatric Use
 
-Of the total number of subjects in controlled clinical studies of patients with type 1 and type 2 diabetes, who were treated with LANTUS, 15% were ≥65 years of age and 2% were ≥75 years of age.
+Of the total number of subjects in controlled clinical studies of patients with type 1 and type 2 diabetes who were treated with LANTUS, 15% were ≥65 years of age and 2% were ≥75 years of age.
 The only difference in safety or effectiveness in the subpopulation of patients ≥65 years of age compared to the entire study population was a higher incidence of cardiovascular events typically seen in an older population in the LANTUS and NPH treatment groups.
 
 Nevertheless, caution should be exercised when LANTUS is administered to geriatric patients.
