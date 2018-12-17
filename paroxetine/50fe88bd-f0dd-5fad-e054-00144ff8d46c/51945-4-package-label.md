@@ -77,3 +77,11 @@ Equivalent to 40 mg paroxetine base
 Rx only
 
 Sebela Pharmaceuticals Inc.
+
+# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 10 MG Carton
+
+# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 20 MG Carton
+
+# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 30 MG Carton
+
+# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 40 MG Carton
