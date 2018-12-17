@@ -33,7 +33,7 @@ In the above pediatric studies, Zestril was given either as tablets or in a susp
 In two placebo controlled, 12-week clinical studies compared the addition of Zestril up to 20 mg daily to digitalis and diuretics alone.
 The combination of Zestril, digitalis and diuretics reduced the following signs and symptoms of heart failure: edema, rales, paroxysmal nocturnal dyspnea and jugular venous distention.
 In one of the studies, the combination of Zestril, digitalis and diuretics reduced orthopnea, presence of third heart sound and the number of patients classified as NYHA Class III and IV; and improved exercise tolerance.
-A large (over 3000 patients) survival study, the ATLAS Trial, comparing 2.5 mg and 35 mg of lisinopril in patients with systolic heart failure, showed that the higher dose of lisinopril had outcomes at least as favorable as the lower dose.
+A large (over 3,000 patients) survival study, the ATLAS Trial, comparing 2.5 mg and 35 mg of lisinopril in patients with systolic heart failure, showed that the higher dose of lisinopril had outcomes at least as favorable as the lower dose.
 
 During baseline-controlled clinical trials, in patients with systolic heart failure receiving digitalis and diuretics, single doses of Zestril resulted in decreases in pulmonary capillary wedge pressure, systemic vascular resistance and blood pressure accompanied by an increase in cardiac output and no change in heart rate.
 

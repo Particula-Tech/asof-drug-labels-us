@@ -17,7 +17,7 @@ In controlled studies in patients with heart failure, therapy was discontinued i
 
 The following adverse reactions (events 2% greater on Zestril than on placebo) were observed with Zestril: hypotension (by 3.8%), chest pain (by 2.1%).
 
-In the two-dose ATLAS trial [see Clinical Studies (14.2)] in heart failure patients, withdrawals due to adverse reactions were not different between the low and high groups, either in total number of discontinuation (17-18%) or in rare specific reactions (< 1%).
+In the two-dose ATLAS trial [see Clinical Studies (14.2)] in heart failure patients, withdrawals due to adverse reactions were not different between the low and high groups, either in total number of discontinuation (17% to 18%) or in rare specific reactions (< 1%).
 The following adverse reactions, mostly related to ACE inhibition, were reported more commonly in the high dose group:
 
 Table 1 Dose-related Adverse Drug Reactions: ATLAS trial

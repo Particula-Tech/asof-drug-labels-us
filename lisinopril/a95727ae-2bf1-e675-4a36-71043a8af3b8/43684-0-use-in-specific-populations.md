@@ -36,7 +36,7 @@ Exchange transfusions or dialysis may be required as a means of reversing hypote
 
 Risk Summary
 
-No data are available regarding the presence of lisinopril in human milk or the effects of lisinopril on the breast fed infant or on milk production.
+No data are available regarding the presence of lisinopril in human milk or the effects of lisinopril on the breastfed infant or on milk production.
 Lisinopril is present in rat milk.
 Because of the potential for severe adverse reactions in the breastfed infant, advise women not to breastfeed during treatment with Zestril.
 
