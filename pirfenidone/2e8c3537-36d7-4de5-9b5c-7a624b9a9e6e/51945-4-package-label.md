@@ -12,7 +12,7 @@ Rx only 270 Capsules
 
 Genentech
 
-10164280
+10177533
 
 # PRINCIPAL DISPLAY PANEL - 267 mg Capsule Blister Pack Carton
 
