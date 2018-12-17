@@ -17,3 +17,5 @@ NDC 0143-9890-10 Rx only Ondansetron Injection, USP 40 mg/20 mL (2 mg/mL) STERIL
 USUAL DOSAGE: See package insert.
 Store between 20º to 25ºC (68º to 77ºF) [See USP Controlled Room Temperature].
 Protect from light.
+
+# SERIALIZATION IMAGE
