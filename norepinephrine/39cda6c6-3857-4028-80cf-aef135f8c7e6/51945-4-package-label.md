@@ -12,3 +12,5 @@ Avoid extravasation.
 Read package insert carefully.
 FOR INTRAVENOUS INFUSION ONLY.
 Warning: Contains Sulfites 10 x 4 mL Single Dose Vials
+
+# SERIALIZATION IMAGE
