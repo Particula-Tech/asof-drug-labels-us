@@ -22,3 +22,5 @@ Warming and shaking the vial should redissolve any crystals that may have formed
 NDC 0143-9659-01 One 1 mL Single Dose Vial Testosterone Cypionate Injection, USP CIII 200 mg/mL Sterile Contains Benzyl Alcohol as a Preservative For Intramuscular Use Only Rx ONLY
 
 OR
+
+# SERIALIZATION IMAGE
