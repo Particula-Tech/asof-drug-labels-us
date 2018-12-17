@@ -4,6 +4,24 @@ Actavis
 
 Rx Only
 
+NDC 45963-734-54
+
+Docetaxel Injection
+
+20 mg/mL
+
+For Intravenous Infusion Only READY TO ADD TO INFUSION SOLUTION
+
+CAUTION: Cytotoxic Agent
+
+Contains 1 mL Single-Use Vial
+
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+Actavis
+
+Rx Only
+
 NDC 45963-765-52
 
 Docetaxel Injection
