@@ -11,3 +11,5 @@ Acetic Acid may have been added for pH adjustment.
 USUAL DOSAGE: See package insert.
 Store at 20º to 25ºC (68º to 77ºF) [See USP Controlled Room Temperature].
 Do not permit to freeze.
+
+# SERIALIZATION IMAGE
