@@ -1,4 +1,4 @@
-Instructions for Use SERNIVO™ (ser-ne-vo) (betamethasone dipropionate) Spray, 0.05%
+Instructions for Use SERNIVO® (ser-ne-vo) (betamethasone dipropionate) Spray, 0.05%
 
 Important: SERNIVO Spray is for use on the skin only.
 Do not get SERNIVO Spray near or in your eyes, mouth, or vagina.
@@ -46,8 +46,6 @@ This “Instructions for Use” has been approved by the U.S. Food and Drug Admi
 
 Manufactured by: DPT Laboratories, Ltd., San Antonio, TX 78215 Distributed by: Promius Pharma, LLC., Princeton, NJ 08540
 
-SERNIVO is a trademark of Promius Pharma, LLC.
+SERNIVO is a registered trademark of Promius Pharma, LLC.
 
 Issued: 02/2016
-
-007528 140693

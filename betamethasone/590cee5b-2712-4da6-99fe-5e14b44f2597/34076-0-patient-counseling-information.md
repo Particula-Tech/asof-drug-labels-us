@@ -13,8 +13,6 @@ Inform patients of the following:
 
 Manufactured by: DPT Laboratories, Ltd., San Antonio, TX 78215 Distributed by: Promius Pharma, LLC., Princeton, NJ 08540
 
-Sernivo is a trademark of Promius Pharma, LLC.
+Sernivo is a registered trademark of Promius Pharma, LLC.
 
-Issued: 02/2016
-
-007465 140728
+Revised: 11/2018

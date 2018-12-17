@@ -22,7 +22,15 @@ Minimize the unwanted risks from endocrine effects by mitigating the risk factor
 Pediatric patients may be more susceptible to systemic toxicity due to their larger skin surface to body mass ratios.
 Use of SERNIVO Spray is not recommended in pediatric patients [see Use in Specific Populations (8.4)].
 
-## 5.2 Allergic Contact Dermatitis
+## 5.2 Visual Disturbance
+
+Use of topical corticosteroids, including SERNIVO Spray, may increase the risk of posterior subcapsular cataracts and glaucoma.
+Cataracts and glaucoma have been reported postmarketing with the use of topical corticosteroid products, including betamethasone dipropionate [see Adverse Reactions (6.2)].
+
+Avoid contact of SERNIVO Spray with eyes.
+Advise patients to report any visual symptoms and consider referral to an ophthalmologist for evaluation.
+
+## 5.3 Allergic Contact Dermatitis
 
 Allergic contact dermatitis with corticosteroids is usually diagnosed by observing failure to heal rather than noting a clinical exacerbation.
 Corroborate such an observation with appropriate diagnostic patch testing.
