@@ -38,10 +38,10 @@ Before you take memantine hydrochloride tablets, tell your doctor if you:
 It is not known if memantine hydrochloride will harm your unborn baby.
 
 • are breastfeeding or plan to breastfeed.
-It is not known if memantine hydrochloride passes into your breast milk.
-You and your doctor should decide if you will take memantine hydrochloride tablets or breastfeed.
+It is not known if memantine passes into your breast milk.
+Talk to your doctor about the best way to feed your baby if you take memantine hydrochloride tablets.
 
-Tell your doctor about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
+Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 
 Taking memantine hydrochloride with certain other medicines may affect each other.
 Taking memantine hydrochloride with other medicines can cause serious side effects.
@@ -100,7 +100,7 @@ How should I store memantine hydrochloride tablets?
 
 What are the ingredients in memantine hydrochloride tablets?
 
-Active ingredients: memantine hydrochloride USP
+Active ingredients: memantine hydrochloride
 
 Inactive ingredients: colloidal silicon dioxide, corn starch, lactose monohydrate, magnesium stearate, povidone and talc.
 In addition the following inactive ingredients are also present as components of the film coat: hypromellose, polyethylene glycol, titanium dioxide, FD & C Yellow #6 and FD & C blue #2 (5 mg tablets), black iron oxide (10 mg tablets).
@@ -122,8 +122,6 @@ For more information call 1-888-375-3784.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-To reorder additional Patient Information sheets contact Dr. Reddy’s Customer Service at
-
 RX Only
 
 Manufactured by:
@@ -132,7 +130,7 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 0517
+Revised: 1118
 
 Dispense with Patient Information Sheet available at:
 

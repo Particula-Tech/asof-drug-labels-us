@@ -49,12 +49,12 @@ The pharmacokinetics of memantine hydrochloride in young and elderly subjects ar
 
 Renal Impairment
 
-Memantine pharmacokinetics were evaluated following single oral administration of 20 mg memantine HCl in 8 subjects with mild renal impairment (creatinine clearance, CLcr, >50 to 80 mL/min), 8 subjects with moderate renal impairment (CLcr 30 to 49 mL/min), 7 subjects with severe renal impairment (CLcr 5 to 29 mL/min) and 8 healthy subjects (CLcr > 80 mL/min) matched as closely as possible by age, weight and gender to the subjects with renal impairment.
+Memantine pharmacokinetics were evaluated following single oral administration of 20 mg memantine hydrochloride in 8 subjects with mild renal impairment (creatinine clearance, CLcr, >50 to 80 mL/min), 8 subjects with moderate renal impairment (CLcr 30 to 49 mL/min), 7 subjects with severe renal impairment (CLcr 5 to 29 mL/min) and 8 healthy subjects (CLcr > 80 mL/min) matched as closely as possible by age, weight and gender to the subjects with renal impairment.
 Mean AUC0-∞ increased by 4%, 60%, and 115% in subjects with mild, moderate, and severe renal impairment, respectively, compared to healthy subjects.
 The terminal elimination half-life increased by 18%, 41%, and 95% in subjects with mild, moderate, and severe renal impairment, respectively, compared to healthy subjects.
 
 No dosage adjustment is recommended for patients with mild and moderate renal impairment.
-Dosage should be reduced in patients with severe renal impairment [see Dosage and Administration (2)].
+Dosage should be reduced in patients with severe renal impairment [see Dosage and Administration(2)].
 
 Hepatic Impairment
 
@@ -68,7 +68,7 @@ Drug-Drug Interactions
 
 Use with Cholinesterase Inhibitors
 
-Coadministration of memantine with the AChE inhibitor donepezil HCl did not affect the pharmacokinetics of either compound.
+Coadministration of memantine with the AChE inhibitor donepezil hydrochloride did not affect the pharmacokinetics of either compound.
 Furthermore, memantine did not affect AChE inhibition by donepezil.
 In a 24-week controlled clinical study in patients with moderate to severe Alzheimer’s disease, the adverse event profile observed with a combination of memantine hydrochloride and donepezil was similar to that of donepezil alone.
 
@@ -77,8 +77,9 @@ Effect of Memantine Hydrochloride on the Metabolism of Other Drugs
 In vitro studies conducted with marker substrates of CYP450 enzymes (CYP1A2, -2A6, -2C9, -2D6, -2E1, -3A4) showed minimal inhibition of these enzymes by memantine.
 In addition, in vitro studies indicate that at concentrations exceeding those associated with efficacy, memantine does not induce the cytochrome P450 isozymes CYP1A2, -2C9, -2E1 and -3A4/5.
 No pharmacokinetic interactions with drugs metabolized by these enzymes are expected.
+
 Pharmacokinetic studies evaluated the potential of memantine for interaction with warfarin, and buproprion.
-Memantine did not affect the pharmacokinetics of the CYP2B6 substrate buproprion or its metabolite hydroxybuproprion.
+Memantine did not affect the pharmacokinetics of the CYP2B6 substrate buproprion or its metabolite hydroxy-buproprion.
 Furthermore, memantine did not affect the pharmacokinetics or pharmacodynamics of warfarin as assessed by the prothrombin INR.
 
 Effect of Other Drugs on Memantine Hydrochloride
@@ -89,7 +90,7 @@ Drugs Eliminated via Renal Mechanisms
 
 Because memantine is eliminated in part by tubular secretion, coadministration of drugs that use the same renal cationic system, including hydrochlorothiazide (HCTZ), triamterene (TA), metformin, cimetidine, ranitidine, quinidine, and nicotine, could potentially result in altered plasma levels of both agents.
 However, coadministration of memantine hydrochloride and HCTZ/TA did not affect the bioavailability of either memantine or TA, and the bioavailability of HCTZ decreased by 20%.
-In addition, coadministration of memantine with the antihyperglycemic drug Glucovance® (glyburide and metformin HCl) did not affect the pharmacokinetics of memantine, metformin and glyburide.
+In addition, coadministration of memantine with the antihyperglycemic drug Glucovance® (glyburide and metformin hydrochloride) did not affect the pharmacokinetics of memantine, metformin and glyburide.
 Furthermore, memantine did not modify the serum glucose lowering effect of Glucovance®, indicating the absence of a pharmacodynamic interaction.
 
 Drugs Highly Bound to Plasma Proteins

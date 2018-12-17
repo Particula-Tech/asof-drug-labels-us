@@ -10,12 +10,4 @@ If a patient misses a single dose of memantine hydrochloride tablets, that patie
 The next dose should be taken as scheduled.
 If a patient fails to take memantine hydrochloride tablets for several days, dosing should not be resumed without consulting that patient’s healthcare professional.
 
-RX Only
-
-Manufactured by:
-
-Dr. Reddy’s Laboratories Limited
-
-Bachupally – 500 090 INDIA
-
-Issued: 0615
+All other trademarks are the property of their respective owners.

@@ -8,13 +8,14 @@ The dosage shown to be effective in controlled clinical trials is 20 mg/day.
 Memantine hydrochloride tablets can be taken with or without food.
 If a patient misses a single dose of memantine hydrochloride, that patient should not double up on the next dose.
 The next dose should be taken as scheduled.
+
 If a patient fails to take memantine hydrochloride for several days, dosing may need to be resumed at lower doses and retitrated as described above.
 
-Special Populations
+Specific Populations
 
 Renal Impairment
 
-A target dose of 5 mg twice daily is recommended in patients with severe renal impairment (creatinine clearance of 5 to 29 mL/min based on the Cockroft-Gault equation).
+A target dose of 5 mg twice daily is recommended in patients with severe renal impairment (creatinine clearance of 5 to 29 mL/min based on the Cockcroft-Gault equation).
 
 Hepatic Impairment
 
