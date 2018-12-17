@@ -4,7 +4,7 @@ Because of the dose ratio of dipyridamole to aspirin, overdosage of aspirin and 
 In case of real or suspected overdose, seek medical attention or contact a Poison Control Center immediately.
 Careful medical management is essential.
 
-Based upon the known hemodynamic effects of dipyridamole, symptoms such as warm feeling, flushes, sweating, restlessness, feeling of weakness and dizziness may occur.
+Based upon the known hemodynamic effects of dipyridamole, symptoms such as warm feeling, flushes, sweating, restlessness, feeling of weakness, and dizziness may occur.
 A drop in blood pressure and tachycardia might also be observed.
 
 Salicylate toxicity may result from acute ingestion (overdose) or chronic intoxication.
@@ -13,7 +13,7 @@ The early signs of salicylic overdose (salicylism), including tinnitus (ringing 
 In severe cases, hyperthermia and hypovolemia are the major immediate threats to life.
 Plasma concentrations of aspirin above 300 mg/mL are clearly toxic.
 Severe toxic effects are associated with levels above 400 mg/mL.
-A single lethal dose of aspirin in adults is not known with certainty but death may be expected at 30 g.
+A single lethal dose of aspirin in adults is not known with certainty but death may be expected at 30 grams.
 
 Treatment of overdose consists primarily of supporting vital functions, increasing drug elimination, and correcting acid-base disturbances.
 Consider gastric emptying and/or lavage as soon as possible after ingestion, even if the patient has vomited spontaneously.
@@ -25,7 +25,7 @@ Administer replacement fluid intravenously and augment with correction of acidos
 Treatment may require the use of a vasopressor.
 Infusion of glucose may be required to control hypoglycemia.
 
-Administration of xanthine derivatives (e.g., aminophylline) may reverse the hemodynamic effects of dipyridamole overdose.
+Administration of xanthine derivatives (e.g., aminophylline) may reverse the vasodilatory effects of dipyridamole overdose.
 Plasma electrolytes and pH should be monitored serially to promote alkaline diuresis of salicylate if renal function is normal.
-In patients with renal insufficiency or in cases of life-threatening intoxication, dialysis is usually required to treat salicylic overdose; however since dipyridamole is highly protein bound, dialysis is not likely to remove dipyridamole.
+In patients with renal insufficiency or in cases of life-threatening intoxication, dialysis is usually required to treat salicylic overdose; however, since dipyridamole is highly protein bound, dialysis is not likely to remove dipyridamole.
 Exchange transfusion may be indicated in infants and young children.

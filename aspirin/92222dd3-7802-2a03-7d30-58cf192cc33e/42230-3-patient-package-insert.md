@@ -23,7 +23,7 @@ Do not take aspirin and extended-release dipyridamole capsules if you:
 • are allergic to any of the ingredients in aspirin and extended-release dipyridamole capsules.
 See the end of this leaflet for a list of ingredients in aspirin and extended-release dipyridamole capsules.
 
-• are allergic to non-steroidal anti-inflammatory drugs (NSAIDS)
+• are allergic to non-steroidal anti-inflammatory drugs (NSAIDs)
 
 • have asthma in combination with runny nose and nasal polyps
 
@@ -49,12 +49,11 @@ Before taking aspirin and extended-release dipyridamole capsules, tell your heal
 • have any other medical conditions
 
 • are pregnant or plan to become pregnant.
-Aspirin and extended-release dipyridamole capsules can harm your unborn baby, especially if you take it in the last (third) trimester of pregnancy.
 You should not take aspirin and extended-release dipyridamole capsules during pregnancy without first talking to your healthcare provider.
 Tell your healthcare provider right away if you become pregnant while taking aspirin and extended-release dipyridamole capsules.
 
 • are breast-feeding or plan to breast-feed.
-Aspirin and dipyridamole can pass into your milk and may harm your baby.
+Aspirin and dipyridamole can pass into your milk.
 Talk to your healthcare provider about the best way to feed your baby if you take aspirin and extended-release dipyridamole capsules.
 
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
@@ -203,8 +202,6 @@ How should I store aspirin and extended-release dipyridamole capsules?
 
 • Keep aspirin and dipyridamole extended-release capsules dry.
 
-• Safely throw away medicine that is out of date or no longer needed.
-
 Keep aspirin and extended-release dipyridamole capsules and all medicines out of the reach of children.
 
 General information about aspirin and extended-release dipyridamole capsules
@@ -242,4 +239,4 @@ Princeton, NJ 08540
 
 Made in India
 
-Issued: 0717
+Issued: 1118

@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-ESPS2 (European Stroke Prevention Study 2) was a double-blind, placebo-controlled, 24-month study in which 6602 patients over the age of 18 years had an ischemic stroke (76%) or transient ischemic attack (TIA, 24%) within three months prior to entry.
+ESPS2 (European Stroke Prevention Study-2) was a double-blind, placebo-controlled, 24-month study in which 6602 patients over the age of 18 years had an ischemic stroke (76%) or transient ischemic attack (TIA, 24%) within three months prior to entry.
 Patients were enrolled in 13 European countries between February 1989 and May 1995 and were randomized to one of four treatment groups: Aspirin/extended-release dipyridamole 25 mg/200 mg; extended-release dipyridamole (ER-DP) 200 mg alone; aspirin (ASA) 25 mg alone; or placebo.
 The mean age in this population was 66.7 years with 58% of them being males.
 Patients received one capsule twice daily (morning and evening).
@@ -30,17 +30,18 @@ a 0.010 < p-value ≤0.050;
 b p-value ≤0.010.
 
 Note: ER-DP = extended-release dipyridamole 200 mg; ASA = aspirin 25 mg.
-The dosage regimen for all treatment groups is BID
+The dosage regimen for all treatment groups is BID.
 
-ESPS2: Cumulative Stroke Rate (Fatal or Nonfatal)
+Figure 1 ESPS2: Cumulative Stroke Rate (Fatal or Nonfatal)
 
-Over 24 months of Follow-UP
+Over 24 months of Follow-Up
 
 Combined Stroke or Death Endpoint
 
-In ESPS2, aspirin and extended-release dipyridamole capsules reduced the risk of stroke or death by 12.1% compared to aspirin alone and by 10.3% compared to extended-release dipyridamole alone.
+In ESPS2, aspirin and extended-release dipyridamole capsules reduced the risk of stroke or death by 24.2% compared to placebo.
+
+Aspirin and extended-release dipyridamole capsules reduced the risk of stroke or death by 12.1% compared to aspirin alone and by 10.3% compared to extended-release dipyridamole alone.
 These results were not statistically significant.
-Aspirin and extended-release dipyridamole capsules reduced the risk of stroke or death by 24.2% compared to placebo.
 
 Death Endpoint
 

@@ -11,12 +11,12 @@ Counsel patients who consume three or more alcoholic drinks daily about the blee
 
 • Pregnancy
 
-Inform patients that aspirin is known to be harmful to fetuses and ask the patient to notify them if they are or become pregnant.
+Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with aspirin and extended-release dipyridamole capsules [see Use in Specific Populations (8.1)].
 
 • Headaches
 
 Some patients may experience headaches upon treatment initiation; these are usually transient.
-In case of intolerable headaches, tell patient to contact their physician.
+In case of intolerable headaches, tell patients to contact their physician.
 
 • Dosage and Administration
 
@@ -38,4 +38,4 @@ Princeton, NJ 08540
 
 Made in India
 
-Issued: 0717
+Issued: 1118
