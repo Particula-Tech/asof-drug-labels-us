@@ -16,18 +16,18 @@ Rx only
 
 100 tablets
 
-NDC 65841-783-10 in bottle of 1000 tablets
+NDC 65841-783-01 in bottle of 100 tablets
 
 Buspirone Hydrochloride Tablets USP, 15 mg
 
 Rx only
 
-1000 tablets
+100 tablets
 
-NDC 65841-784-10 in bottle of 1000 tablets
+NDC 65841-784-14 in bottle of 60 tablets
 
 Buspirone Hydrochloride Tablets USP, 30 mg
 
 Rx only
 
-1000 tablets
+60 tablets
