@@ -1,6 +1,6 @@
-# PRINCIPAL DISPLAY PANEL - 10 Blister Pack Carton
+# PRINCIPAL DISPLAY PANEL - 10 mg Tablet Bottle Label
 
-NDC 66582-414-28
+NDC 66582-414-31
 
 Zetia® (ezetimibe) tablets
 
@@ -8,10 +8,6 @@ Zetia® (ezetimibe) tablets
 
 Each tablet contains 10 mg ezetimibe.
 
-This is a bulk package and not intended for dispensing.
-
-Package not child resistant.
-
 Rx only
 
-100 Tablets: 10 tablets x 10 blister cards
+30 Tablets
