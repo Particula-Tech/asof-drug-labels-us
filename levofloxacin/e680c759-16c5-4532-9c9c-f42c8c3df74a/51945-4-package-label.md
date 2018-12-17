@@ -63,3 +63,5 @@ Use only if solution is clear and container is undamaged.
 DISCARD UNUSED PORTION.
 Must not be used in series connections.
 Rx Only NDC 0143-9720-01
+
+# SERIALIZATION IMAGE
