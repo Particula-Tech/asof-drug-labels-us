@@ -39,3 +39,5 @@ Store at 20º to 25ºC (68º to 77ºF) [See USP Controlled Room Temperature].
 Protect from light.
 Do not freeze.
 Retain in carton until time of use.
+
+# SERIALIZATION IMAGE
