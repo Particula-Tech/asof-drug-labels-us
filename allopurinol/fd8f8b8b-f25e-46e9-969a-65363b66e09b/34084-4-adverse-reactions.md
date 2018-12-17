@@ -15,6 +15,15 @@ The explanation for this decrease is not obvious.
 The incidence of skin rash may be increased in the presence of renal insufficiency.
 The frequency of skin rash among patients receiving ampicillin or amoxicillin concurrently with allopurinol has been reported to be increased (see PRECAUTIONS).
 
+Drug rash with eosinophilia and systemic symptoms (DRESS) syndrome or drug hypersensitivity syndrome (DHS) has been reported in association with allopurinol use.
+The syndrome includes many of the severe reactions described above, and is potentially life-threatening and fatal.
+The syndrome is often characterized by fever, severe and profuse skin rash, elevated leukocyte counts and in particular, elevated eosinophil counts, lymphadenopathy, and multi-organ pathologies.
+Systemic symptoms often included, but were not limited to, the hepatic and renal systems.
+Symptoms involving the cardiac, gastrointestinal, lymphatic, pulmonary, and ophthalmic systems were also reported as occurring as part of the syndrome.
+It has been reported that symptoms may develop in approximately 1 week from initiating allopurinol therapy, but longer latency periods have also been reported.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Sun Pharmaceutical Industries, Inc. at 1-800-406-7984 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+
 Most Common ReactionsEarly clinical studies and incidence rates from early clinical experience with allopurinol suggested that these adverse reactions were found to occur at a rate of greater than 1%.
 The most frequent event observed was acute attacks of gout following the initiation of therapy.
 Analyses of current usage suggest that the incidence of these adverse reactions is now less than 1%.

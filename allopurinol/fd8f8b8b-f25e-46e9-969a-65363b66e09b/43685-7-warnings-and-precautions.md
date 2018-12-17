@@ -1,7 +1,7 @@
 # WARNINGS
 
 ALLOPURINOL SHOULD BE DISCONTINUED AT THE FIRST APPEARANCE OF SKIN RASH OR OTHER SIGNS WHICH MAY INDICATE AN ALLERGIC REACTION.
-In some instances a skin rash may be followed by more severe hypersensitivity reactions such as exfoliative, urticarial and purpuric lesions, as well as Stevens-Johnson syndrome (erythema multiforme exudativum), and/or generalized vasculitis, irreversible hepatotoxicity, and, on rare occasions, death.
+In some instances a skin rash may be followed by more severe hypersensitivity reactions such as exfoliative, urticarial and purpuric lesions, as well as Stevens-Johnson syndrome (erythema multiforme exudativum), Drug Rash with Eosinophilia and Systemic Symptoms (DRESS) and/or generalized vasculitis, irreversible hepatotoxicity, and, on rare occasions, death (see ADVERSE REACTIONS).
 
 In patients receiving mercaptopurine or azathioprine, the concomitant administration of 300 to 600 mg of allopurinol per day will require a reduction in dose to approximately one-third to one-fourth of the usual dose of mercaptopurine or azathioprine.
 Subsequent adjustment of doses of mercaptopurine or azathioprine should be made on the basis of therapeutic response and the appearance of toxic effects (see CLINICAL PHARMACOLOGY).
@@ -109,8 +109,6 @@ Allopurinol is not known to alter the accuracy of laboratory tests.
 
 ### Teratogenic Effects
 
-#### Pregnancy Category C
-
 Reproductive studies have been performed in rats and rabbits at doses up to twenty times the usual human dose (5 mg/kg per day), and it was concluded that there was no impaired fertility or harm to the fetus due to allopurinol.
 There is a published report of a study in pregnant mice given 50 or 100 mg/kg allopurinol intraperitoneally on gestation days 10 or 13.
 There were increased numbers of dead fetuses in dams given 100 mg/kg allopurinol but not in those given 50 mg/kg.
@@ -120,7 +118,10 @@ There are, however, no adequate or well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
 Experience with allopurinol during human pregnancy has been limited partly because women of reproductive age rarely require treatment with allopurinol.
-There are two unpublished reports and one published paper of women giving birth to normal offspring after receiving allopurinol during pregnancy.
+However, in 2011, a literature publication case report describes the outcome of a full term pregnancy in a 35 year-old woman who had recurrent kidney stones since age 18 who took allopurinol throughout the pregnancy.
+The child had multiple complex birth defects and died at 8 days of life.
+A second report in 2013 (Hoeltzenbein M et al (2013); PLoS ONE 8(6): e66637), provided data on 31 prospectively ascertained pregnancies involving mothers exposed to allopurinol for varying durations during the first trimester.
+The overall rate of major fetal malformations and spontaneous abortions was reported to be within the normal expected range; however, one child had severe malformations similar to those described in the cited earlier case report.
 
 ## Nursing Mothers
 
