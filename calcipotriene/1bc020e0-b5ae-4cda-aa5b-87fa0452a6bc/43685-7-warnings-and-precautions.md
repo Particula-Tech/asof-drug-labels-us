@@ -20,13 +20,13 @@ If elevation in serum calcium outside the normal range should occur, discontinue
 
 Patients using calcipotriene should receive the following information and instructions:
 
-- 1.This medication is to be used only as directed by the physician.
+- •This medication is to be used only as directed by the physician.
   It is for external use only.
   Avoid contact with the face or eyes.
   As with any topical medication, patients should wash their hands after application.
-- 2.This medication should not be used for any disorder other than that for which it was prescribed.
-- 3.Patients should report to their physician any signs of local adverse reactions.
-- 4.Patients that apply calcipotriene to exposed portions of the body should avoid excessive exposure to either natural or artificial sunlight (including tanning booths, sun lamps, etc.)
+- •This medication should not be used for any disorder other than that for which it was prescribed.
+- •Patients should report to their physician any signs of local adverse reactions.
+- •Patients that apply calcipotriene to exposed portions of the body should avoid excessive exposure to either natural or artificial sunlight (including tanning booths, sun lamps, etc.)
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
