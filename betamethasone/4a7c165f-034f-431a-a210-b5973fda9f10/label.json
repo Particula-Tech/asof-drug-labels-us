@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020934"
+  ],
+  "inn": "betamethasone",
+  "labeler": "Mylan Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0378-8187-01",
+    "0378-8187-50"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, FOAM",
+      "generic": "betamethasone valerate",
+      "name": "Luxiq"
+    }
+  ],
+  "setid": "4a7c165f-034f-431a-a210-b5973fda9f10",
+  "source": "dailymed"
+}
