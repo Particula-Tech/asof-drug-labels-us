@@ -10,4 +10,4 @@ Reduction of the IOP starts approximately 3 to 4 hours after administration and 
 
 XALATAN may be used concomitantly with other topical ophthalmic drug products to lower IOP.
 If more than one topical ophthalmic drug is being used, the drugs should be administered at least five (5) minutes apart.
-Contact lenses should be removed prior to the administration of XALATAN, and may be reinserted 15 minutes after administration
+Contact lenses should be removed prior to the administration of XALATAN, and may be reinserted 15 minutes after administration.
