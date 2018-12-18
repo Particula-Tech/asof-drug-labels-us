@@ -4,7 +4,7 @@ Amiodarone Hydrochloride Injection, for intravenous use, contains amiodarone HCl
 Amiodarone HCl is (2-butyl-3-benzofuranyl)[4-[2-(diethylamino)ethoxy]-3,5-diiodophenyl] methanone hydrochloride.
 Amiodarone HCl has the following structural formula:
 
-C25H29I2NO3•HCl M.W.
+C 25H 29I 2NO 3•HCl M.W.
 681.78
 
 Amiodarone HCl is a white to slightly yellow crystalline powder, and is very slightly soluble in water.

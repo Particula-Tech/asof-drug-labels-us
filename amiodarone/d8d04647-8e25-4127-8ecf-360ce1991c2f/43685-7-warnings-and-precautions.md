@@ -8,7 +8,7 @@ Clinically significant hypotension during infusions was seen most often in the f
 Hypotension necessitating alterations in amiodarone HCl injection therapy was reported in 3% of patients, with permanent discontinuation required in less than 2% of patients.
 
 Hypotension should be treated initially by slowing the infusion; additional standard therapy may be needed, including the following: vasopressor drugs, positive inotropic agents, and volume expansion.
-The initial rate of infusion should be monitored closely and should not exceed that prescribed in DOSAGE AND ADMINISTRATION.
+The initial rate of infusion should be monitored closely and should not exceed that prescribed inDOSAGE AND ADMINISTRATION.
 
 In some cases, hypotension may be refractory resulting in fatal outcome (see ADVERSE REACTIONS, Post-marketing Reports).
 
@@ -29,7 +29,7 @@ In 81% of patients with both baseline and on-therapy data available, the liver e
 Baseline abnormalities in hepatic enzymes are not a contraindication to treatment.
 
 Acute, centrolobular confluent hepatocellular necrosis leading to hepatic coma, acute renal failure, and death has been associated with the administration of amiodarone HCl injection at a much higher loading dose concentration and much faster rate of infusion than recommended in DOSAGE AND ADMINISTRATION.
-Therefore, the initial concentration and rate of infusion should be monitored closely and should not exceed that prescribed in DOSAGE AND ADMINISTRATION (see DOSAGE AND ADMINISTRATION).
+Therefore, the initial concentration and rate of infusion should be monitored closely and should not exceed that prescribed inDOSAGE AND ADMINISTRATION (see DOSAGE AND ADMINISTRATION).
 
 In patients with life-threatening arrhythmias, the potential risk of hepatic injury should be weighed against the potential benefit of amiodarone HCl injection therapy, but patients receiving amiodarone HCl injection should be monitored carefully for evidence of progressive hepatic injury.
 Consideration should be given to reducing the rate of administration or withdrawing amiodarone HCl injection in such cases.
@@ -67,7 +67,7 @@ Intravenous amiodarone may play a role in causing or exacerbating pulmonary diso
 
 Postoperatively, occurrences of ARDS have been reported in patients receiving oral amiodarone therapy who have undergone either cardiac or noncardiac surgery.
 Although patients usually respond well to vigorous respiratory therapy, in rare instances the outcome has been fatal.
-Until further studies have been performed, it is recommended that FiO2 and the determinants of oxygen delivery to the tissues (e.g., SaO2, PaO2) be closely monitored in patients on amiodarone.
+Until further studies have been performed, it is recommended that FiO 2 and the determinants of oxygen delivery to the tissues (e.g., SaO 2, PaO 2) be closely monitored in patients on amiodarone.
 
 Pulmonary Fibrosis
 
@@ -109,7 +109,7 @@ Amiodarone HCl injection should be administered only by physicians who are exper
 
 ## Thyroid Abnormalities
 
-Amiodarone inhibits peripheral conversion of thyroxine (T4) to triiodothyronine (T3) and may cause increased thyroxine levels, decreased T3 levels, and increased levels of inactive reverse T3 (rT3) in clinically euthyroid patients.
+Amiodarone inhibits peripheral conversion of thyroxine (T 4) to triiodothyronine (T 3) and may cause increased thyroxine levels, decreased T 3 levels, and increased levels of inactive reverse T 3 (rT 3) in clinically euthyroid patients.
 It is also a potential source of large amounts of inorganic iodine.
 Because of its release of inorganic iodine, or perhaps for other reasons, amiodarone can cause either hypothyroidism or hyperthyroidism.
 Thyroid function should be monitored prior to treatment and periodically thereafter, particularly in elderly patients, and in any patient with a history of thyroid nodules, goiter, or other thyroid dysfunction.
@@ -126,7 +126,7 @@ Amiodarone-induced hyperthyroidism usually poses a greater hazard to the patient
 There have been reports of death associated with amiodarone-induced thyrotoxicosis.
 IF ANY NEW SIGNS OF ARRHYTHMIA APPEAR, THE POSSIBILITY OF HYPERTHYROIDISM SHOULD BE CONSIDERED.
 
-Hyperthyroidism is best identified by relevant clinical symptoms and signs, accompanied usually by abnormally elevated levels of serum T3 RIA, and further elevations of serum T4, and a subnormal serum TSH level (using a sufficiently sensitive TSH assay).
+Hyperthyroidism is best identified by relevant clinical symptoms and signs, accompanied usually by abnormally elevated levels of serum T 3 RIA, and further elevations of serum T 4, and a subnormal serum TSH level (using a sufficiently sensitive TSH assay).
 The finding of a flat TSH response to TRH is confirmatory of hyperthyroidism and may be sought in equivocal cases.
 Since arrhythmia breakthroughs may accompany amiodarone-induced hyperthyroidism, aggressive medical treatment is indicated, including, if possible, dose reduction or withdrawal of amiodarone.
 
@@ -173,12 +173,12 @@ DEA concentrations were not affected.
 There was no evidence of toxicity.
 Monitoring for amiodarone toxicity and serial measurement of amiodarone serum concentration during concomitant protease inhibitor therapy should be considered.
 
-Histamine H1 antagonists:
+Histamine H 1 antagonists:
 
 Loratadine, a non-sedating antihistaminic, is metabolized primarily by CYP3A4.
 QT interval prolongation and torsade de pointes have been reported with the co-administration of loratadine and amiodarone.
 
-Histamine H2 antagonists:
+Histamine H 2 antagonists:
 
 Cimetidine inhibits CYP3A4 and can increase serum amiodarone levels.
 
@@ -189,7 +189,7 @@ QT interval prolongation and torsade de pointes have been reported with the co-a
 
 Other substances:
 
-Grapefruit juice given to healthy volunteers increased amiodarone AUC by 50% and Cmax by 84%, resulting in increased plasma levels of amiodarone.
+Grapefruit juice given to healthy volunteers increased amiodarone AUC by 50% and C max by 84%, resulting in increased plasma levels of amiodarone.
 Grapefruit juice should not be taken during treatment with oral amiodarone.
 This information should be considered when changing from intravenous amiodarone to oral amiodarone (see DOSAGE AND ADMINISTRATION, Intravenous to Oral Transition).
 
@@ -227,7 +227,7 @@ The continued need for the other antiarrhythmic agent should be reviewed after t
 If the treatment is continued, these patients should be particularly carefully monitored for adverse effects, especially conduction disturbances and exacerbation of tachyarrhythmias, as amiodarone is continued.
 In amiodarone-treated patients who require additional antiarrhythmic therapy, the initial dose of such agents should be approximately half of the usual recommended dose.
 
-Antihypertensives: Amiodarone should be used with caution in patients receiving ß-receptor blocking agents (e.g., propranolol, a CYP3A4 inhibitor) or calcium channel antagonists (e.g., verapamil, a CYP3A4 substrate, and diltiazem, a CYP3A4 inhibitor) because of the possible potentiation of bradycardia, sinus arrest, and AV block; if necessary, amiodarone can continue to be used after insertion of a pacemaker in patients with severe bradycardia or sinus arrest.
+Antihypertensives: Amiodarone should be used with caution in patients receiving ß- receptor blocking agents (e.g., propranolol, a CYP3A4 inhibitor) or calcium channel antagonists (e.g., verapamil, a CYP3A4 substrate, and diltiazem, a CYP3A4 inhibitor) because of the possible potentiation of bradycardia, sinus arrest, and AV block; if necessary, amiodarone can continue to be used after insertion of a pacemaker in patients with severe bradycardia or sinus arrest.
 
 Anticoagulants: Potentiation of warfarin-type (CYP2C9 and CYP3A4 substrate) anticoagulant response is almost always seen in patients receiving amiodarone and can result in serious or fatal bleeding.
 Since the concomitant administration of warfarin with amiodarone increases the prothrombin time by 100% after 3 to 4 days, the dose of the anticoagulant should be reduced by one-third to one-half, and prothrombin times should be monitored closely.

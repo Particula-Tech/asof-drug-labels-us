@@ -63,12 +63,12 @@ PHARMACOKINETIC PROFILE AFTER
 
 AMIODARONE HCl INJECTION ADMINISTRATION
 
-| Drug | Clearance(mL/h/kg) | Vc(L/kg) | Vss(L/kg) | t½(days) |
+| Drug | Clearance(mL/h/kg) | V c(L/kg) | V ss(L/kg) | t½(days) |
 | --- | --- | --- | --- | --- |
 | Amiodarone | 90-158 | 0.2 | 40-84 | 20-47 |
 | Desethylamiodarone | 197-290 | — | 68-168 | ≥ AMI t½ |
 
-Notes: Vc and Vss denote the central and steady-state volumes of distribution from IV studies.
+Notes: V c and V ss denote the central and steady-state volumes of distribution from IV studies.
 
 “—” denotes not available.
 
@@ -80,7 +80,7 @@ From in vitro studies, the protein binding of amiodarone is >96%.
 In clinical studies of 2 to 7 days, clearance of amiodarone after intravenous administration in patients with VT and VF ranged between 220 and 440 mL/h/kg.
 Age, sex, renal disease, and hepatic disease (cirrhosis) do not have marked effects on the disposition of amiodarone or DEA.
 Renal impairment does not influence the pharmacokinetics of amiodarone.
-After a single dose of amiodarone HCl injection in cirrhotic patients, significantly lower Cmax and average concentration values are seen for DEA, but mean amiodarone levels are unchanged.
+After a single dose of amiodarone HCl injection in cirrhotic patients, significantly lower C max and average concentration values are seen for DEA, but mean amiodarone levels are unchanged.
 Normal subjects over 65 years of age show lower clearances (about 100 mL/h/kg) than younger subjects (about 150 mL/h/kg) and an increase in t½ from about 20 to 47 days.
 In patients with severe left ventricular dysfunction, the pharmacokinetics of amiodarone are not significantly altered but the terminal disposition t½ of DEA is prolonged.
 Although no dosage adjustment for patients with renal, hepatic, or cardiac abnormalities has been defined during chronic treatment with oral amiodarone, close clinical monitoring is prudent for elderly patients and those with severe left ventricular dysfunction.

@@ -6,13 +6,13 @@ The recommended starting dose of amiodarone HCl injection is about 1000 mg over 
 
 AMIODARONE HCL INJECTION DOSE RECOMMENDATIONS– FIRST 24 HOURS –
 
-| Loading infusions | First Rapid: | 150 mg over the FIRST 10 minutes (15 mg/min). Add 3 mL of Amiodarone HCl Injection (150 mg) to 100 mL D5W (concentration = 1.5 mg/mL). Infuse 100 mL over 10 minutes. |
+| Loading infusions | First Rapid: | 150 mg over the FIRST 10 minutes (15 mg/min). Add 3 mL of Amiodarone HCl Injection (150 mg) to 100 mL D 5W (concentration = 1.5 mg/mL). Infuse 100 mL over 10 minutes. |
 | --- | --- | --- |
-| Followed by Slow: |  | 360 mg over the NEXT 6 hours (1 mg/min). Add 18 mL of Amiodarone HCl Injection (900 mg) to 500 mL D5W (concentration = 1.8 mg/mL). |
+| Followed by Slow: |  | 360 mg over the NEXT 6 hours (1 mg/min). Add 18 mL of Amiodarone HCl Injection (900 mg) to 500 mL D 5W (concentration = 1.8 mg/mL). |
 | Maintenance infusion |  | 540 mg over the REMAINING 18 hours (0.5 mg/min). Decrease the rate of the slow loading infusion to 0.5 mg/min. |
 
 After the first 24 hours, the maintenance infusion rate of 0.5 mg/min (720 mg/24 hours) should be continued utilizing a concentration of 1 to 6 mg/mL (Amiodarone HCl Injection concentrations greater than 2 mg/mL should be administered via a central venous catheter).
-In the event of breakthrough episodes of VF or hemodynamically unstable VT, 150 mg supplemental infusions of amiodarone HCl injection mixed in 100 mL of D5W may be administered.
+In the event of breakthrough episodes of VF or hemodynamically unstable VT, 150 mg supplemental infusions of amiodarone HCl injection mixed in 100 mL of D 5W may be administered.
 Such infusions should be administered over 10 minutes to minimize the potential for hypotension.
 The rate of the maintenance infusion may be increased to achieve effective arrhythmia suppression.
 
@@ -30,10 +30,10 @@ Amiodarone HCl injection should, whenever possible, be administered through a ce
 An in-line filter should be used during administration.
 Amiodarone HCl injection loading infusions at much higher concentrations and rates of infusion much faster than recommended have resulted in hepatocellular necrosis and acute renal failure, leading to death (see PRECAUTIONS, Liver Enzyme Elevations).
 
-Amiodarone HCl injection concentrations greater than 3 mg/mL in D5W have been associated with a high incidence of peripheral vein phlebitis; however, concentrations of 2.5 mg/mL or less appear to be less irritating.
+Amiodarone HCl injection concentrations greater than 3 mg/mL in D 5W have been associated with a high incidence of peripheral vein phlebitis; however, concentrations of 2.5 mg/mL or less appear to be less irritating.
 Therefore, for infusions longer than 1 hour, amiodarone HCl injection concentrations should not exceed 2 mg/mL unless a central venous catheter is used (see ADVERSE REACTIONS, Postmarketing Reports).
 
-Amiodarone HCl injection infusions exceeding 2 hours must be administered in glass or polyolefin bottles containing D5W.
+Amiodarone HCl injection infusions exceeding 2 hours must be administered in glass or polyolefin bottles containing D 5W.
 Use of evacuated glass containers for admixing amiodarone HCl injection is not recommended as incompatibility with a buffer in the container may cause precipitation.
 
 It is well known that amiodarone adsorbs to polyvinyl chloride (PVC) tubing and the clinical trial dose administration schedule was designed to account for this adsorption.
@@ -52,23 +52,23 @@ AMIODARONE HCL INJECTION SOLUTION STABILITY
 
 | Solution | Concentration (mg/mL) | Container | Comments |
 | --- | --- | --- | --- |
-| 5% Dextrose in Water (D5W) | 1 to 6 | PVC | Physically compatible, with amiodarone loss <10% at 2 hours at room temperature. |
-| 5% Dextrose in Water (D5W) | 1 to 6 | Polyolefin, Glass | Physically compatible, with no amiodarone loss at 24 hours at room temperature. |
+| 5% Dextrose in Water (D 5W) | 1 to 6 | PVC | Physically compatible, with amiodarone loss <10% at 2 hours at room temperature. |
+| 5% Dextrose in Water (D 5W) | 1 to 6 | Polyolefin, Glass | Physically compatible, with no amiodarone loss at 24 hours at room temperature. |
 
 ## Admixture Incompatibility
 
-Amiodarone HCl injection in D5W is incompatible with the drugs shown below.
+Amiodarone HCl injection in D 5W is incompatible with the drugs shown below.
 
 Y-SITE INJECTION INCOMPATIBILITY
 
 | Drug | Vehicle | Amiodarone Concentration | Comments |
 | --- | --- | --- | --- |
-| Aminophylline | D5W | 4 mg/mL | Precipitate |
-| Cefamandole Nafate | D5W | 4 mg/mL | Precipitate |
-| Cefazolin Sodium | D5W | 4 mg/mL | Precipitate |
-| Mezlocillin Sodium | D5W | 4 mg/mL | Precipitate |
-| Heparin Sodium | D5W | ---- | Precipitate |
-| Sodium Bicarbonate | D5W | 3 mg/mL | Precipitate |
+| Aminophylline | D 5W | 4 mg/mL | Precipitate |
+| Cefamandole Nafate | D 5W | 4 mg/mL | Precipitate |
+| Cefazolin Sodium | D 5W | 4 mg/mL | Precipitate |
+| Mezlocillin Sodium | D 5W | 4 mg/mL | Precipitate |
+| Heparin Sodium | D 5W | ---- | Precipitate |
+| Sodium Bicarbonate | D 5W | 3 mg/mL | Precipitate |
 
 ## Intravenous to Oral Transition
 
@@ -85,11 +85,11 @@ These recommendations are made on the basis of a comparable total body amount of
 
 RECOMMENDATIONS FOR ORAL DOSAGE AFTER IV INFUSION
 
-| Duration of Amiodarone HCl Injection Infusion# | Initial Daily Dose of Oral Amiodarone |
+| Duration of Amiodarone HCl Injection Infusion # | Initial Daily Dose of Oral Amiodarone |
 | --- | --- |
 | <1 week | 800 to 1600 mg |
 | 1 to 3 weeks | 600 to 800 mg |
-| > 3 weeks* | 400 mg |
+| > 3 weeks * | 400 mg |
 
 #Assuming a 720 mg/day infusion (0.5 mg/min).
 
