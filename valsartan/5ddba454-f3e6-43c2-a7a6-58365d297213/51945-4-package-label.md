@@ -12,6 +12,8 @@ valsartan
 
 30 Scored Tablets
 
+NOVARTIS
+
 PRINCIPAL DISPLAY PANEL
 
 Package Label – 80 mg
@@ -25,6 +27,8 @@ valsartan
 80 mg
 
 90 Tablets
+
+NOVARTIS
 
 PRINCIPAL DISPLAY PANEL
 
@@ -40,6 +44,8 @@ valsartan
 
 90 Tablets
 
+NOVARTIS
+
 PRINCIPAL DISPLAY PANEL
 
 Package Label – 320 mg
@@ -53,3 +59,5 @@ valsartan
 320 mg
 
 90 Tablets
+
+NOVARTIS
