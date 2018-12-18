@@ -23,9 +23,10 @@ The relative bioavailabilities of R- and S-oxybutynin from oxybutynin chloride a
 The mean pharmacokinetic parameters for R- and S-oxybutynin are summarized in Table 2.
 The plasma concentration-time profiles for R- and S-oxybutynin are similar in shape; Figure 1 shows the profile for R-oxybutynin.
 
-| Table 2: Mean (SD) R- and S-Oxybutynin Pharmacokinetic Parameters Following a Single Dose of Oxybutynin Chloride 10 mg (n=43) |  |  |  |  |
-| --- | --- | --- | --- | --- |
+Table 2: Mean (SD) R- and S-Oxybutynin Pharmacokinetic Parameters Following a Single Dose of Oxybutynin Chloride 10 mg (n=43)
+
 | Parameters (units) | R-Oxybutynin |  | S-Oxybutynin |  |
+| --- | --- | --- | --- | --- |
 | Cmax (ng/mL) | 1.0 | (0.6) | 1.8 | (1.0) |
 | Tmax (h) | 12.7 | (5.4) | 11.8 | (5.3) |
 | t1/2 (h) | 13.2 | (6.2) | 12.4 | (6.1) |
@@ -42,9 +43,10 @@ Sparse sampling technique was used to obtain serum samples.
 When all available data are normalized to an equivalent of 5 mg per day of oxybutynin chloride, the mean pharmacokinetic parameters derived for R- and S-oxybutynin and R- and S-desethyloxybutynin are summarized in Table 3.
 The plasma-time concentration profiles for R- and S-oxybutynin are similar in shape; Figure 2 shows the profile for R-oxybutynin when all available data are normalized to an equivalent of 5 mg per day.
 
-| Table 3: Mean ± SD R- and S-Oxybutynin and R- and S-Desethyloxybutynin Pharmacokinetic Parameters in Children Aged 5-15 Following Administration of 5 to 20 mg Oxybutynin Chloride Once Daily (n=19), All Available Data Normalized to an Equivalent of Oxybutynin Chloride 5 mg Once Daily |  |  |  |  |
-| --- | --- | --- | --- | --- |
+Table 3: Mean ± SD R- and S-Oxybutynin and R- and S-Desethyloxybutynin Pharmacokinetic Parameters in Children Aged 5-15 Following Administration of 5 to 20 mg Oxybutynin Chloride Once Daily (n=19), All Available Data Normalized to an Equivalent of Oxybutynin Chloride 5 mg Once Daily
+
 |  | R-Oxybutynin | S-Oxybutynin | R-Desethyloxybutynin | S-Desethyloxybutynin |
+| --- | --- | --- | --- | --- |
 | Cmax (ng/mL) | 0.7 ± 0.4 | 1.3 ± 0.8 | 7.8 ± 3.7 | 4.2 ± 2.3 |
 | Tmax (h) | 5.0 | 5.0 | 5.0 | 5.0 |
 | AUC (ng•h/mL) | 12.8 ± 7.0 | 23.7 ± 14.4 | 125.1 ± 66.7 | 73.6 ± 47.7 |
@@ -77,7 +79,7 @@ Also, less than 0.1% of the administered dose is excreted as the metabolite dese
 
 Dose Proportionality
 
-Pharmacokinetic parameters of oxybutynin and desethyloxybutynin (Cmax and AUC) following administration of 5 to 20 mg of oxybutynin chloride are dose proportional.
+Pharmacokinetic parameters of oxybutynin and desethyloxybutynin (Cmax and AUC) following administration of 5 mg to 20 mg of oxybutynin chloride are dose proportional.
 
 Use in Specific Populations
 
