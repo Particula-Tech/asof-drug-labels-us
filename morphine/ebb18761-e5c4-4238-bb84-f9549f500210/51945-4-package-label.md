@@ -9,3 +9,5 @@ NDC 0641-6020-10 Rx only PRESERVATIVE-FREE Duramorph (morphine sulfate injection
 NDC 0641-6019-01 PRESERVATIVE-FREE Duramorph (morphine sulfate injection, USP) CII 10 mg/10 mL (1 mg/mL) 10 mL Ampul Rx only FOR INTRAVENOUS, EPIDURAL OR INTRATHECAL ADMINISTRATION-Read Package Insert Carefully
 
 NDC 0641-6019-10 Rx only PRESERVATIVE-FREE Duramorph (morphine sulfate injection, USP) CII 10 mg/10 mL (1 mg/mL) FOR INTRAVENOUS, EPIDURAL OR INTRATHECAL ADMINISTRATION 10 x 10 mL Ampuls
+
+# SERIALIZATION IMAGE
