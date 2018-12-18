@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA208901"
+  ],
+  "inn": "itraconazole",
+  "labeler": "Mayne Pharma Inc.",
+  "package_ndcs": [
+    "51862-462-60"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, GELATIN COATED",
+      "generic": "itraconazole",
+      "name": "Tolsura"
+    }
+  ],
+  "setid": "306352d1-9d5a-49ad-b72d-893b99546861",
+  "source": "dailymed"
+}
