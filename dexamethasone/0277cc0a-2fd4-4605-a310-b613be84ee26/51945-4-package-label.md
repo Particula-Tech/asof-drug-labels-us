@@ -15,3 +15,5 @@ NDC 0641-6145-25 Rx only Dexamethasone Sodium Phosphate Injection, USP 4 mg/mL (
 NDC 0641-6146-01 Rx only Dexamethasone Sodium Phosphate Injection, USP 20 mg/5 mL (4 mg/mL) (dexamethasone phosphate equivalent) For IV, IM, Intralesional, Intra-articular or Soft Tissue Use 5 mL Vial
 
 NDC 0641-6146-25 Rx only Dexamethasone Sodium Phosphate Injection, USP 20 mg/5 mL (4 mg/mL) (dexamethasone phosphate equivalent) For Intravenous, Intramuscular, Intralesional, Intra-articular or Soft Tissue Use 25 x 5 mL Vials
+
+# SERIALIZATION IMAGE
