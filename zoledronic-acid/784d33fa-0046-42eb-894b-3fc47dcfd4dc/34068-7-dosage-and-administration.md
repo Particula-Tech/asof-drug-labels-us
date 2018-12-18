@@ -22,7 +22,7 @@ Retreatment with zoledronic acid 4 mg may be considered if serum calcium does no
 It is recommended that a minimum of 7 days elapse before retreatment, to allow for full response to the initial dose.
 Renal function must be carefully monitored in all patients receiving zoledronic acid and serum creatinine must be assessed prior to retreatment with zoledronic acid [see Warnings and Precautions (5.2)].
 
-## 2.2 Multiple Myeloma and Metastatic Bone Lesions of Solid Tumors
+## 2.2 Multiple Myeloma and Bone Metastases of Solid Tumors
 
 The recommended dose of zoledronic acid in patients with multiple myeloma and metastatic bone lesions from solid tumors for patients with creatinine clearance (CrCl) greater than 60 mL/min is 4 mg infused over no less than 15 minutes every 3 to 4 weeks.
 The optimal duration of therapy is not known.
@@ -54,7 +54,7 @@ Patients should also be administered an oral calcium supplement of 500 mg and a 
 
 Zoledronic acid must not be mixed with calcium or other divalent cation-containing infusion solutions, such as Lactated Ringer’s solution, and should be administered as a single intravenous solution in a line separate from all other drugs.
 
-4 mg/5 mL Single-Dose Vial Vials of zoledronic acid concentrate for infusion contain overfill allowing for the withdrawal of 5 mL of concentrate (equivalent to 4 mg zoledronic acid).
+4 mg per 5 mL Single-Dose Vial Vials of zoledronic acid concentrate for infusion contain overfill allowing for the withdrawal of 5 mL of concentrate (equivalent to 4 mg zoledronic acid).
 This concentrate should immediately be diluted in 100 mL of sterile 0.9% Sodium Chloride, USP, or 5% Dextrose Injection, USP, following proper aseptic technique, and administered to the patient by infusion.
 Do not store undiluted concentrate in a syringe, to avoid inadvertent injection.
 

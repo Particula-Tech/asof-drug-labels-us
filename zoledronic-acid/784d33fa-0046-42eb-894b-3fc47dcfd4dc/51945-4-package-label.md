@@ -6,3 +6,5 @@ Do not mix with calcium-containing infusion solutions.
 USUAL DOSAGE: See package insert.
 Discard unused portion.
 Store at 25º (77ºF); excursions permitted to 15º to 30ºC (59º to 86ºF) [See USP Controlled Room Temperature].
+
+# SERIALIZATION IMAGE

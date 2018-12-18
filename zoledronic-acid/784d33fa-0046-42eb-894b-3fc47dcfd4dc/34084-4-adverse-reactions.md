@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Clinical Studies Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -168,7 +168,7 @@ The risk of deterioration in renal function appeared to be related to time on st
 In the trials and in post marketing experience, renal deterioration, progression to renal failure and dialysis have occurred in patients with normal and abnormal baseline renal function, including patients treated with 4 mg infused over a 15-minute period.
 There have been instances of this occurring after the initial zoledronic acid dose.
 
-## 6.2 Post marketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been reported during post-approval use of zoledronic acid.
 Because these reports are from a population of uncertain size and are subject to confounding factors, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -194,4 +194,4 @@ Hypersensitivity Reactions There have been rare reports of allergic reaction wit
 Very rare cases of anaphylactic reaction/shock have also been reported.
 Cases of Stevens-Johnson syndrome and toxic epidermal necrolysis have also been reported.
 
-Additional adverse reactions reported in post marketing use include: CNS: taste disturbance, hyperesthesia, tremor; Special Senses: blurred vision; uveitis; Gastrointestinal: dry mouth; Skin: Increased sweating; Musculoskeletal: muscle cramps; Cardiovascular: hypertension, bradycardia, hypotension (associated with syncope or circulatory collapse primarily in patients with underlying risk factors); Respiratory: bronchospasms, interstitial lung disease (ILD) with positive re-challenge; Renal: hematuria, proteinuria; General Disorders and Administration Site: weight increase, influenza-like illness (pyrexia, asthenia, fatigue or malaise) persisting for greater than 30 days; Laboratory Abnormalities: hyperkalemia, hypernatremia, hypocalcemia (cardiac arrhythmias and neurologic adverse events including seizures, tetany, and numbness have been reported due to severe hypocalcemia).
+Additional adverse reactions reported in post marketing use include: CNS: taste disturbance, hyperesthesia, tremor; Special Senses: blurred vision; uveitis; Gastrointestinal: dry mouth; Skin: Increased sweating; Musculoskeletal: muscle cramps; Cardiovascular: hypertension, bradycardia, hypotension (associated with syncope or circulatory collapse primarily in patients with underlying risk factors); Respiratory: bronchospasms, interstitial lung disease (ILD) with positive re-challenge; Renal: hematuria, proteinuria, acquired Fanconi Syndrome; General Disorders and Administration Site: weight increase, influenza-like illness (pyrexia, asthenia, fatigue or malaise) persisting for greater than 30 days; Laboratory Abnormalities: hyperkalemia, hypernatremia, hypocalcemia (cardiac arrhythmias and neurologic adverse events including seizures, tetany, and numbness have been reported due to severe hypocalcemia).
