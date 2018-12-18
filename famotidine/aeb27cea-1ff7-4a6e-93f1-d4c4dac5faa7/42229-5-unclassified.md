@@ -4,7 +4,7 @@ Rx only
 
 ## GI Effects
 
-Famotidine is a competitive inhibitor of histamine H2–receptors.
+Famotidine is a competitive inhibitor of histamine H 2–receptors.
 The primary clinically important pharmacologic activity of famotidine is inhibition of gastric secretion.
 Both the acid concentration and volume of gastric secretion are suppressed by famotidine, while changes in pepsin secretion are proportional to volume output.
 
@@ -31,7 +31,7 @@ Gastric emptying and exocrine pancreatic function were not affected by famotidin
 
 Systemic effects of famotidine in the CNS, cardiovascular, respiratory or endocrine systems were not noted in clinical pharmacology studies.
 Also, no antiandrogenic effects were noted (see ADVERSE REACTIONS).
-Serum hormone levels, including prolactin, cortisol, thyroxine (T4), and testosterone, were not altered after treatment with famotidine.
+Serum hormone levels, including prolactin, cortisol, thyroxine (T 4), and testosterone, were not altered after treatment with famotidine.
 
 ## Pharmacokinetics
 
@@ -112,7 +112,7 @@ Confirmed Healed Gastric Ulcers
 | Week 6 | † 66% | 44% | † 65% | 46% |
 | Week 8 | ***78% | 64% | † 80% | 54% |
 
-***,† Statistically significantly better than placebo (p≤0.05, p≤0.01 respectively)
+***, † Statistically significantly better than placebo (p≤0.05, p≤0.01 respectively)
 
 Time to complete relief of daytime and nighttime pain was statistically significantly shorter for patients receiving famotidine than for patients receiving placebo; however, in neither study was there a statistically significant difference in the proportion of patients whose pain was relieved by the end of the study (week 8).
 
@@ -128,7 +128,7 @@ Table 3
 |  | Famotidine20 mg b.i.d. | Famotidine40 mg h.s. | Placebo |
 | --- | --- | --- | --- |
 |  | (N=154) | (N=149) | (N=73) |
-| Week 6 | 82†† | 69 | 62 |
+| Week 6 | 82 †† | 69 | 62 |
 
 †† p≤0.01 vs Placebo
 
@@ -145,8 +145,8 @@ Table 4
 |  | Famotidine40 mg b.i.d. | Famotidine20 mg b.i.d. | Placebo |
 | --- | --- | --- | --- |
 |  | (N=127) | (N=125) | (N=66) |
-| Week 6 | 48†††, ‡‡ | 32 | 18 |
-| Week 12 | 69†††, ‡ | 54††† | 29 |
+| Week 6 | 48 †††, ‡‡ | 32 | 18 |
+| Week 12 | 69 †††, ‡ | 54 ††† | 29 |
 
 ††† p≤0.01 vs Placebo
 
@@ -168,7 +168,7 @@ Table 5
 | --- | --- | --- | --- |
 |  | (N=175) | (N=93) | (N=172) |
 | Week 6 | 48 | 52 | 42 |
-| Week 12 | 71‡‡‡ | 68 | 60 |
+| Week 12 | 71 ‡‡‡ | 68 | 60 |
 
 ‡‡‡ p≤0.05 vs Ranitidine 150 mg b.i.d.
 
@@ -187,7 +187,7 @@ Areas under the curve (AUCs) are normalized to a dose of 0.5 mg/kg IV for pediat
 
 Table 6
 
-Pharmacokinetic Parametersa of
+Pharmacokinetic Parameters a of
 
 Intravenous Famotidine
 
@@ -195,8 +195,8 @@ Intravenous Famotidine
 | --- | --- | --- |
 | 1-11 yrs (N=20) | 1089 ± 834 | 0.54 ± 0.34 |
 | 11-15 yrs (N=6) | 1140 ± 320 | 0.48 ± 0.14 |
-| Adult (N=16) | 1726b | 0.39 ± 0.14 |
-| Volume of Distribution (Vd) (L/kg) |  | Elimination Half-life (T1/2) (hours) |
+| Adult (N=16) | 1726 b | 0.39 ± 0.14 |
+| Volume of Distribution (V d) (L/kg) |  | Elimination Half-life (T 1/2) (hours) |
 | 2.07 ± 1.49 |  | 3.38 ± 2.60 |
 | 1.5 ± 0.4 |  | 2.3 ± 0.4 |
 | 1.3 ± 0.2 |  | 2.83 ± 0.99 |
@@ -212,16 +212,16 @@ Oral doses of 0.5 mg/kg achieved an AUC of 580 ± 60 ng-hr/mL in pediatric patie
 
 ## Pharmacodynamics
 
-Pharmacodynamics of famotidine were evaluated in 5 pediatric patients 2 to 13 years of age using the sigmoid Emax model.
+Pharmacodynamics of famotidine were evaluated in 5 pediatric patients 2 to 13 years of age using the sigmoid E max model.
 These data suggest that the relationship between serum concentration of famotidine and gastric acid suppression is similar to that observed in one study of adults (Table 7).
 
 Table 7
 
 Pharmacodynamics of famotidine
 
-using the sigmoid Emaxmodel
+using the sigmoid E maxmodel
 
-|  | EC50(ng/mL)* |
+|  | EC 50(ng/mL)* |
 | --- | --- |
 | Pediatric Patients | 26 ± 13 |
 | Data from one study |  |
@@ -236,13 +236,13 @@ While each study had a different design, acid suppression data over time are sum
 
 Table 8
 
-| Dosage | Route | Effecta | Number of Patients |
+| Dosage | Route | Effect a | Number of Patients |
 | --- | --- | --- | --- |
-| 0.3 mg/kg, single dose | IV | gastric pH >3.5 for 8.7 ± 4.7b hours | 6 |
+| 0.3 mg/kg, single dose | IV | gastric pH >3.5 for 8.7 ± 4.7 b hours | 6 |
 | 0.4-0.8 mg/kg | IV | gastric pH >4 for 6-9 hours | 18 |
 | 0.5 mg/kg, single dose | IV | a > 2 pH unit increase above baseline in gastric pH for > 8 hours | 9 |
-| 0.5 mg/kg b.i.d. | IV | gastric pH >5 for 13.5 ± 1.8b hours | 4 |
-| 0.5 mg/kg b.i.d. | oral | gastric pH >5 for 5.0 ± 1.1b hours | 4 |
+| 0.5 mg/kg b.i.d. | IV | gastric pH >5 for 13.5 ± 1.8 b hours | 4 |
+| 0.5 mg/kg b.i.d. | oral | gastric pH >5 for 5.0 ± 1.1 b hours | 4 |
 
 aValues reported in published literature.
 
