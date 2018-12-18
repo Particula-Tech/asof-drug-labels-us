@@ -1,17 +1,4 @@
-# CONTRAINDICATIONS—Intrathecal
+# 4 CONTRAINDICATIONS
 
-OMNIPAQUE should not be administered to patients with a known hypersensitivity to iohexol.
-
-Myelography should not be performed in the presence of significant local or systemic infection where bacteremia is likely.
-
-Intrathecal administration of corticosteroids with OMNIPAQUE is contraindicated.
-
-Because of the possibility of overdosage, immediate repeat myelography in the event of technical failure is contraindicated (see DOSAGE AND ADMINISTRATION).
-
-# CONTRAINDICATIONS
-
-OMNIPAQUE should not be administered to patients with a known hypersensitivity to iohexol.
-
-# CONTRAINDICATIONS
-
-OMNIPAQUE should not be administered to patients with a known hypersensitivity to iohexol.
+- OMNIPAQUE 140 and OMNIPAQUE 350 are contraindicated for intrathecal use [see Warnings and Precautions (5.1)]:
+- OMNIPAQUE oral solution 9 and 12 are contraindicated for parenteral administration [see Warnings and Precautions (5.2)]:
