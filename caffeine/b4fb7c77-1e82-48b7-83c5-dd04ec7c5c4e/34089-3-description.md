@@ -5,6 +5,6 @@ Each mL contains 20 mg caffeine citrate (equivalent to 10 mg of caffeine base) p
 
 Caffeine, a central nervous system stimulant, is an odorless white crystalline powder or granule, with a bitter taste.
 It is sparingly soluble in water and ethanol at room temperature.
-The chemical name of caffeine is 3,7-dihydro-1,3,7-trimethyl-1H-purine-2,6-dione.
+The chemical name of caffeine is 3,7-dihydro-1,3,7-trimethyl-1 H-purine-2,6-dione.
 In the presence of citric acid it forms caffeine citrate salt in solution.
 The structural formula and molecular weight of caffeine citrate follows.

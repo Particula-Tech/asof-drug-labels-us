@@ -8,14 +8,14 @@ It is a bronchial smooth muscle relaxant, a CNS stimulant, a cardiac muscle stim
 Although the mechanism of action of caffeine in apnea of prematurity is not known, several mechanisms have been hypothesized.
 These include: (1) stimulation of the respiratory center, (2) increased minute ventilation, (3) decreased threshold to hypercapnia, (4) increased response to hypercapnia, (5) increased skeletal muscle tone, (6) decreased diaphragmatic fatigue, (7) increased metabolic rate, and (8) increased oxygen consumption.
 
-Most of these effects have been attributed to antagonism of adenosine receptors, both A1 and A2subtypes, by caffeine, which has been demonstrated in receptor binding assays and observed at concentrations approximating those achieved therapeutically.
+Most of these effects have been attributed to antagonism of adenosine receptors, both A 1 and A 2subtypes, by caffeine, which has been demonstrated in receptor binding assays and observed at concentrations approximating those achieved therapeutically.
 
 ## Pharmacokinetics
 
 Absorption
 
-After oral administration of 10 mg caffeine base/kg to preterm neonates, the peak plasma level (Cmax) for caffeine ranged from 6 to 10 mg/L and the mean time to reach peak concentration (Tmax) ranged from 30 minutes to 2 hours.
-The Tmax was not affected by formula feeding.
+After oral administration of 10 mg caffeine base/kg to preterm neonates, the peak plasma level (C max) for caffeine ranged from 6 to 10 mg/L and the mean time to reach peak concentration (T max) ranged from 30 minutes to 2 hours.
+The T max was not affected by formula feeding.
 The absolute bioavailability, however, was not fully examined in preterm neonates.
 
 Distribution
@@ -36,9 +36,9 @@ Interconversion between caffeine and theophylline has been reported in preterm n
 Elimination
 
 In young infants, the elimination of caffeine is much slower than that in adults due to immature hepatic and/or renal function.
-Mean half-life (T1/2) and fraction excreted unchanged in urine (Ae) of caffeine in infants have been shown to be inversely related to gestational/postconceptual age.
-In neonates, the T1/2 is approximately 3 to 4 days and the Ae is approximately 86% (within 6 days).
-By 9 months of age, the metabolism of caffeine approximates that seen in adults (T1/2 = 5 hours and Ae = 1%).
+Mean half-life (T 1/2) and fraction excreted unchanged in urine (A e) of caffeine in infants have been shown to be inversely related to gestational/postconceptual age.
+In neonates, the T 1/2 is approximately 3 to 4 days and the A e is approximately 86% (within 6 days).
+By 9 months of age, the metabolism of caffeine approximates that seen in adults (T 1/2 = 5 hours and A e = 1%).
 
 Special Populations
 
@@ -59,7 +59,7 @@ The following table summarizes the clinically relevant endpoints evaluated in th
 
 |  | Caffeine Citrate | Placebo | p-value |
 | --- | --- | --- | --- |
-| Number of patients evaluated1 | 45 | 37 |  |
+| Number of patients evaluated 1 | 45 | 37 |  |
 | % of patients with zero apnea events on day 2 | 26.7 | 8.1 | 0.03 |
 | Apnea rate on day 2 (per 24 h) | 4.9 | 7.2 | 0.134 |
 | % of patients with 50% reduction in apnea events from baseline on day 2 | 76 | 57 | 0.07 |
