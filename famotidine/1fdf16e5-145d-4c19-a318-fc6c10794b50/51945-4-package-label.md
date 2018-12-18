@@ -15,3 +15,5 @@ Famotidine Injection, USP 40 mg/4 mL (10 mg/mL) 25 x 4 mL Two Dose Vials NDC 064
 Famotidine Injection, USP 200 mg/20 mL (10 mg/mL) 20 mL Multiple Dose Vial NDC 0641-6021-01
 
 Famotidine Injection, USP 200 mg/20 mL (10 mg/mL) 10 x 20 mL Multiple Dose Vials NDC 0641-6021-10
+
+# SERIALIZATION IMAGE
