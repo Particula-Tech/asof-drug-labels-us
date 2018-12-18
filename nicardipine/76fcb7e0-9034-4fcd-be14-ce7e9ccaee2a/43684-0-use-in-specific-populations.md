@@ -16,7 +16,7 @@ Neonatal adverse events include acidosis (pH<7.25).
 
 In embryofetal toxicity studies, nicardipine was administered intravenously to pregnant rats and rabbits during organogenesis at doses up to 0.14 times the MRHD based on body surface area (mg/m2) (5 mg/kg/day) (rats) and 0.03 times the MRHD based on body surface area (mg/m2) (0.5 mg/kg/day) (rabbits).
 No embryotoxicity or teratogenicity was seen at these doses.
-Embryotoxicity, but no teratogenicity was seen at 0.27 times the MRHD based on body surface area (mg/m2) (10 mg/kg/day) in rats and at 0.05 times the MRHD based on body surface are (mg/m2) (1 mg/kg/day) in rabbits.
+Embryotoxicity, but no teratogenicity was seen at 0.27 times the MRHD based on body surface area (mg/m2) (10 mg/kg/day) in rats and at 0.05 times the MRHD based on body surface area (mg/m2) (1 mg/kg/day) in rabbits.
 
 In other animal studies, pregnant Japanese White rabbits received oral nicardipine during organogenesis, at doses 8 and 24 times the MRHD based on body surface area (mg/m2) (50 and 150 mg/kg/day).
 Embryotoxicity occurred at the high dose along with signs of maternal toxicity (marked maternal weight gain suppression).

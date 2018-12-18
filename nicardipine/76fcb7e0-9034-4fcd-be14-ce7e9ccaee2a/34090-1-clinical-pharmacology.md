@@ -27,7 +27,8 @@ In congestive heart failure patients with impaired left ventricular function, ni
 Decreases in left ventricular end-diastolic pressure were also observed.
 However, in some patients with severe left ventricular dysfunction, it may have a negative inotropic effect and could lead to worsened failure.
 
-“Coronary steal” has not been observed during treatment with nicardipine hydrochloride injection (Coronary steal is the detrimental redistribution of coronary blood flow in patients with coronary artery disease from underperfused areas toward better perfused areas.)
+“Coronary steal” has not been observed during treatment with nicardipine hydrochloride injection.
+(Coronary steal is the detrimental redistribution of coronary blood flow in patients with coronary artery disease from underperfused areas toward better perfused areas.)
 Nicardipine hydrochloride injection has been shown to improve systolic shortening in both normal and hypokinetic segments of myocardial muscle.
 Radionuclide angiography has confirmed that wall motion remained improved during increased oxygen demand.
 (Occasional patients have developed increased angina upon receiving oral nicardipine.
