@@ -9,9 +9,9 @@ Patients who are opioid-experienced are those receiving, for one week or longer,
 
 - Use the lowest effective dosage for the shortest duration consistent with individual patient's treatment goals [see Warnings and Precautions (5)].
 - Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
-- Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy and following dosage increases with buprenorphine transdermal system [see Warnings and Precautions (5.2)].
+- Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy and following dosage increases with buprenorphine transdermal system [see Warnings and Precautions (5.3)].
 - Instruct patients not to use buprenorphine transdermal system if the pouch seal is broken or the patch is cut, damaged, or changed in any way and not to cut buprenorphine transdermal system.
-- Instruct patients to avoid exposing buprenorphine transdermal system to external heat sources, hot water, or prolonged direct sunlight [see Warnings and Precautions (5.13)].
+- Instruct patients to avoid exposing buprenorphine transdermal system to external heat sources, hot water, or prolonged direct sunlight [see Warnings and Precautions (5.14)].
 
 Buprenorphine transdermal system is for transdermal use (on intact skin) only.
 Each buprenorphine transdermal system patch is intended to be worn for 7 days.
@@ -45,7 +45,7 @@ Consider the use of an alternate analgesic.
 
 Table 1: Initial Buprenorphine Transdermal System Dose
 
-| Previous Opioid Analgesic Daily Dose (Oral Morphine Equivalent) | <30 mg |  | 30-80 mg |
+| Previous Opioid Analgesic Daily Dose (Oral Morphine Equivalent) | <30 mg |  | 30 to 80 mg |
 | --- | --- | --- | --- |
 |  | ⇩ | ⇩ |  |
 | Recommended Buprenorphine Transdermal System Starting Dose | 5 mcg/hour | 10 mcg/hour |  |
@@ -67,7 +67,7 @@ The minimum buprenorphine transdermal system titration interval is 72 hours, bas
 
 The maximum buprenorphine transdermal system dose is 20 mcg/hour.
 Do not exceed a dose of one 20 mcg/hour buprenorphine transdermal system due to the risk of QTc interval prolongation.
-In a clinical trial, buprenorphine transdermal system 40 mcg/hour (given as two buprenorphine transdermal system 20 mcg/hour systems) resulted in prolongation of the QTc interval [see Warnings and Precautions (5.7) and Clinical Pharmacology (12.2)].
+In a clinical trial, buprenorphine transdermal system 40 mcg/hour (given as two buprenorphine transdermal system 20 mcg/hour systems) resulted in prolongation of the QTc interval [see Warnings and Precautions (5.8) and Clinical Pharmacology (12.2)].
 
 Patients who experience breakthrough pain may require dosage adjustment increase of buprenorphine transdermal system, or may need rescue medication with an appropriate dose of an immediate-release analgesic.
 If the level of pain increases after dose stabilization, attempt to identify the source of increased pain before increasing the buprenorphine transdermal system dose.
@@ -89,7 +89,7 @@ Do not abruptly discontinue buprenorphine transdermal system.
 ## 2.5 Patients with Hepatic Impairment
 
 Buprenorphine transdermal system has not been evaluated in patients with severe hepatic impairment.
-As buprenorphine transdermal system is only intended for 7-day application, consider use of an alternate analgesic that may permit more flexibility with the dosing in patients with severe hepatic impairment [see Warnings and Precautions (5.10), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
+As buprenorphine transdermal system is only intended for 7-day application, consider use of an alternate analgesic that may permit more flexibility with the dosing in patients with severe hepatic impairment [see Warnings and Precautions (5.11), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
 
 ## 2.6 Administration of Buprenorphine Transdermal System
 
@@ -110,7 +110,7 @@ As buprenorphine transdermal system is only intended for 7-day application, cons
 - If problems with adhesion of buprenorphine transdermal system occur, the edges may be taped with first aid tape.
   If problems with lack of adhesion continue, the patch may be covered with waterproof or semipermeable adhesive dressings suitable for 7 days of wear.
 - If buprenorphine transdermal system falls off during the 7-day dosing interval, dispose of the transdermal system properly and place a new buprenorphine transdermal system patch on at a different skin site.
-- When changing the system, instruct patients to remove buprenorphine transdermal system and dispose of it properly [see Dosage and Administration (2.6)].
+- When changing the system, instruct patients to remove buprenorphine transdermal system and dispose of it properly [see Dosage and Administration (2.7)].
 - If the buprenorphine-containing adhesive matrix accidentally contacts the skin, instruct patients or caregivers to wash the area with water and not to use soap, alcohol, or other solvents to remove the adhesive because they may enhance the absorption of the drug.
 
 ## 2.7 Disposal Instructions

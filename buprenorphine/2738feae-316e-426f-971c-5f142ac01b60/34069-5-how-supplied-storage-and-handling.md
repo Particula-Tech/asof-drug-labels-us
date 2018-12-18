@@ -28,4 +28,4 @@ Each system is printed in blue with the "Buprenorphine Transdermal System" and 2
 
 NDC 42858-839-40
 
-Store at 25°C (77°F); excursions permitted between 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted between 15°C to 30°C (59°F to 86°F).

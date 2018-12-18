@@ -10,7 +10,7 @@ The contributions of these actions to its analgesic profile are unclear.
 Effects on the Central Nervous System
 
 Buprenorphine produces respiratory depression by direct action on brainstem respiratory centers.
-The respiratory depression involves a reduction in the responsiveness of the brainstem respiratory centers to increases in carbon dioxide tension and to electrical stimulation.
+The respiratory depression involves a reduction in the responsiveness of the brainstem respiratory centers to both increases in carbon dioxide tension and to electrical stimulation.
 
 Buprenorphine causes miosis, even in total darkness.
 Pinpoint pupils are a sign of opioid overdose but are not pathognomonic (e.g., pontine lesions of hemorrhagic or ischemic origins may produce similar findings).
@@ -18,10 +18,10 @@ Marked mydriasis rather than miosis may be seen with worsening hypoxia in overdo
 
 Effects on the Gastrointestinal Tract and Other Smooth Muscle
 
-Buprenorphine causes a reduction in motility associated with an increase in tone smooth muscle tone in the antrum of the stomach and duodenum.
+Buprenorphine causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
 Propulsive peristaltic waves in the colon are decreased, while tone is increased to the point of spasm, resulting in constipation.
-Other opioid induced effects may include a reduction in biliary and pancreatic secretions, spasm of the sphincter of Oddi, and transient elevations in serum amylase.
+Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of the sphincter of Oddi, and transient elevations in serum amylase.
 
 Effects on the Cardiovascular System
 
@@ -30,9 +30,9 @@ Manifestations of histamine release and/or peripheral vasodilation may include p
 
 Effects on Cardiac Electrophysiology
 
-The effect of buprenorphine transdermal system 10 mcg/hour and 2 × buprenorphine transdermal system 20 mcg/hour on QTc interval, was evaluated in a double-blind (buprenorphine transdermal system vs. placebo), randomized, placebo and active-controlled (moxifloxacin 400 mg, open label), parallel-group, dose-escalating, single-dose study in 132 healthy male and female subjects aged 18 to 55 years.
+The effect of buprenorphine transdermal system 10 mcg/hour and 2 × buprenorphine transdermal system 20 mcg/hour on QTc interval was evaluated in a double-blind (buprenorphine transdermal system vs. placebo), randomized, placebo and active-controlled (moxifloxacin 400 mg, open label), parallel-group, dose-escalating, single-dose study in 132 healthy male and female subjects aged 18 to 55 years.
 The dose escalation sequence for buprenorphine transdermal system during the titration period was: buprenorphine transdermal system 5 mcg/hour for 3 days, then buprenorphine transdermal system 10 mcg/hour for 3 days, then buprenorphine transdermal system 20 mcg/hour for 3 days, then 2 × buprenorphine transdermal system 20 mcg/hour for 4 days.
-The QTc evaluation was performed during the third day of buprenorphine transdermal system 10 mcg/hour and the fourth day of 2 × buprenorphine transdermal system 20 mcg/hour when the plasma levels of buprenorphine were at steady state for the corresponding doses [see Warnings and Precautions (5.7)].
+The QTc evaluation was performed during the third day of buprenorphine transdermal system 10 mcg/hour and the fourth day of 2 × buprenorphine transdermal system 20 mcg/hour when the plasma levels of buprenorphine were at steady state for the corresponding doses [see Warnings and Precautions (5.8)].
 
 There was no clinically meaningful effect on mean QTc with a buprenorphine transdermal system dose of 10 mcg/hour.
 A buprenorphine transdermal system dose of 40 mcg/hour (given as two 20 mcg/hour buprenorphine transdermal systems) prolonged mean QTc by a maximum of 9.2 (90% CI: 5.2 to 13.3) msec across the 13 assessment time points.
@@ -43,7 +43,7 @@ Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, a
 They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.
 
 Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
-The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date [see Adverse Reactions (6.2)]
+The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date [see Adverse Reactions (6.2)].
 
 Effects on the Immune System
 
@@ -99,11 +99,11 @@ Effects of Heat
 
 In a study of healthy subjects, application of a heating pad directly on the buprenorphine transdermal system 10 mcg/hour caused a 26% to 55% increase in blood concentrations of buprenorphine.
 Concentrations returned to normal within 5 hours after the heat was removed.
-For this reason, instruct patients not to apply heating pads directly to the buprenorphine transdermal system during system wear [see Warnings and Precautions (5.13)].
+For this reason, instruct patients not to apply heating pads directly to the buprenorphine transdermal system during system wear [see Warnings and Precautions (5.14)].
 
 Fever may increase the permeability of the skin, leading to increased buprenorphine concentrations during buprenorphine transdermal system treatment.
 As a result, febrile patients are at increased risk for the possibility of buprenorphine transdermal system-related reactions during treatment with buprenorphine transdermal system.
-Monitor patients with febrile illness for adverse effects and consider dose adjustment [see Warnings and Precautions (5.14)].
+Monitor patients with febrile illness for adverse effects and consider dose adjustment [see Warnings and Precautions (5.15)].
 In a crossover study of healthy subjects receiving endotoxin or placebo challenge during buprenorphine transdermal system 10 mcg/hour wear, the AUC and Cmax were similar despite a physiologic response of mild fever to endotoxin.
 
 Distribution
@@ -179,7 +179,7 @@ The pharmacokinetics of buprenorphine following an IV infusion of 0.3 mg of bupr
 Buprenorphine and norbuprenorphine exposure did not increase in the mild and moderate hepatic impairment patients.
 
 Buprenorphine transdermal system has not been evaluated in patients with severe (Child-Pugh C) hepatic impairment.
-[see, Warnings and Precautions (5.10), and Use in Specific Populations (8.6)].
+[see Warnings and Precautions (5.11), and Use in Specific Populations (8.6)].
 
 Renal Impairment
 

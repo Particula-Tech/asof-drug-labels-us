@@ -10,7 +10,7 @@ Table 5: Significant Drug Interactions with Buprenorphine Transdermal System
 | Intervention: | Closely monitor patients with concurrent use of buprenorphine transdermal system and benzodiazepines. Warn patients that it is extremely dangerous to self-administer benzodiazepines while taking buprenorphine transdermal system, and warn patients to use benzodiazepines concurrently with buprenorphine transdermal system only as directed by their physician. |
 | Benzodiazepines and Other Central Nervous System (CNS) Depressants |  |
 | Clinical Impact: | Due to additive pharmacologic effects, the concomitant use of benzodiazepines or other CNS depressants, including alcohol, can increase the risk of hypotension, respiratory depression, profound sedation, coma, and death. |
-| Intervention: | Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate. Limit dosages and durations to the minimum required. Follow patients closely for signs of respiratory depression and sedation [see Warnings and Precautions (5.4)]. |
+| Intervention: | Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate. Limit dosages and durations to the minimum required. Follow patients closely for signs of respiratory depression and sedation [see Warnings and Precautions (5.5)]. |
 | Examples: | Benzodiazepines and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol. |
 | Inhibitors of CYP3A4 |  |
 | Clinical Impact: | The concomitant use of buprenorphine and CYP3A4 inhibitors can increase the plasma concentration of buprenorphine, resulting in increased or prolonged opioid effects, particularly when an inhibitor is added after a stable dose of buprenorphine transdermal system is achieved.After stopping a CYP3A4 inhibitor, as the effects of the inhibitor decline, the buprenorphine plasma concentration will decrease [see Clinical Pharmacology (12.3)], potentially resulting in decreased opioid efficacy or a withdrawal syndrome in patients who had developed physical dependence to buprenorphine. |
@@ -21,11 +21,11 @@ Table 5: Significant Drug Interactions with Buprenorphine Transdermal System
 | Intervention: | If concomitant use is necessary, consider increasing the buprenorphine transdermal system dosage until stable drug effects are achieved. Monitor for signs of opioid withdrawal.If a CYP3A4 inducer is discontinued, consider buprenorphine transdermal system dosage reduction and monitor for signs of respiratory depression. |
 | Examples: | Rifampin, carbamazepine, phenytoin |
 | Serotonergic Drugs |  |
-| Clinical Impact: | The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome |
+| Clinical Impact: | The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome. |
 | Intervention: | If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment. Discontinue buprenorphine transdermal system if serotonin syndrome is suspected. |
 | Examples: | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |
 | Monoamine Oxidase Inhibitors (MAOIs) |  |
-| Clinical Impact: | MAOI interactions with opioids may manifest as serotonin syndrome or opioid toxicity (e.g., respiratory depression, coma) [see Warnings and Precautions (5.2)] |
+| Clinical Impact: | MAOI interactions with opioids may manifest as serotonin syndrome or opioid toxicity (e.g., respiratory depression, coma) [see Warnings and Precautions (5.3)] |
 | Intervention: | The use of buprenorphine transdermal system is not recommended for patients taking MAOIs or within 14 days of stopping such treatment. |
 | Examples: | phenelzine, tranylcypromine, linezolid |
 | Mixed Agonist/Antagonist Opioid Analgesics |  |

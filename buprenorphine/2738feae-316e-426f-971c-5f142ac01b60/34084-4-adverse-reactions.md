@@ -3,17 +3,17 @@
 The following serious adverse reactions are described elsewhere in the labeling:
 
 - Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
-- Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
-- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.3)]
-- Interactions with Benzodiazepines or Other CNS Depressants [see Warnings and Precautions (5.4)]
-- Adrenal Insufficiency [see Warnings and Precautions (5.6)]
-- QTc Prolongation [see Warnings and Precautions (5.7)]
-- Severe Hypotension [see Warnings and Precautions (5.8)]
-- Hepatotoxicity [see Warnings and Precautions (5.10)]
-- Application Site Skin Reactions [see Warnings and Precautions (5.11)]
-- Anaphylactic/Allergic Reactions [see Warnings and Precautions (5.12)]
-- Gastrointestinal Effects [see Warnings and Precautions (5.15)]
-- Seizures [see Warnings and Precautions (5.16)]
+- Life-Threatening Respiratory Depression [see Warnings and Precautions (5.3)]
+- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
+- Interactions with Benzodiazepines or Other CNS Depressants [see Warnings and Precautions (5.5)]
+- Adrenal Insufficiency [see Warnings and Precautions (5.7)]
+- QTc Prolongation [see Warnings and Precautions (5.8)]
+- Severe Hypotension [see Warnings and Precautions (5.9)]
+- Hepatotoxicity [see Warnings and Precautions (5.11)]
+- Application Site Skin Reactions [see Warnings and Precautions (5.12)]
+- Anaphylactic/Allergic Reactions [see Warnings and Precautions (5.13)]
+- Gastrointestinal Effects [see Warnings and Precautions (5.16)]
+- Seizures [see Warnings and Precautions (5.17)]
 
 ## 6.1 Clinical Trial Experience
 

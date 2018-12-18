@@ -138,14 +138,8 @@ This "Instructions for Use" has been approved by the U.S. Food and Drug Administ
 
 Marketed by: Rhodes Pharmaceuticals L.P., Coventry, RI 02816
 
-Manufactured by: LTS Lohmann Therapy Systems Corp., West Caldwell, NJ 07006
-
-LTS Lohmann Therapie-Systeme AG, Andernach, 56626 Germany
-
-Revised: 03/2018
+Revised: 06/2014
 
 Bioclusive is a trademark of Systagenix Wound Management (US), Inc.
 
 Tegaderm is a trademark of 3M.
-
-304250-0C
