@@ -83,8 +83,8 @@ In patients with known hypersensitivity to benzyl alcohol, reconstitute with 20 
 
 Use appropriate aseptic technique when performing the following reconstitution steps:
 
-- Using a sterile syringe, slowly inject the 20 mL of diluent into the vial containing the lyophilized cake of Herceptin.
-  The stream of diluent should be directed into the lyophilized cake.
+- Using a sterile syringe, slowly inject the 20 mL of diluent into the vial containing the lyophilized powder of Herceptin, which has a cake-like appearance.
+  The stream of diluent should be directed into the cake.
   The reconstituted vial yields a solution for multiple-dose use, containing 21 mg/mL trastuzumab.
 - Swirl the vial gently to aid reconstitution.
   DO NOT SHAKE.
@@ -114,7 +114,8 @@ Reconstitute each 150 mg vial of Herceptin with 7.4 mL of Sterile Water for Inje
 
 Use appropriate aseptic technique when performing the following reconstitution steps:
 
-- Using a sterile syringe, slowly inject 7.4 mL of SWFI (not supplied) into the vial containing the lyophilized 150 mg Herceptin, directing the diluent stream into the lyophilized cake.
+- Using a sterile syringe, slowly inject 7.4 mL of SWFI (not supplied) into the vial containing the lyophilized powder of Herceptin, which has a cake-like appearance.
+  The stream of diluent should be directed into the cake.
   The reconstituted vial yields a solution for single-dose use, containing 21 mg/mL trastuzumab.
 - Swirl the vial gently to aid reconstitution.
   DO NOT SHAKE.

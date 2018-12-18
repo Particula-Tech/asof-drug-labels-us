@@ -107,7 +107,7 @@ Exploratory analyses of DFS as a function of HER2 overexpression or gene amplifi
 The results are shown in Table 10.
 The number of events in Study 2 was small with the exception of the IHC 3+/FISH+ subgroup, which constituted 81% of those with data.
 Definitive conclusions cannot be drawn regarding efficacy within other subgroups due to the small number of events.
-The number of events in Study 3 was adequate to demonstrate significant effects on DFS in the IHC 3+/FISH unknown and the FISH +/IHC unknown subgroups.
+The number of events in Study 3 was adequate to demonstrate significant effects on DFS in the IHC 3+/FISH unknown and the FISH+/IHC unknown subgroups.
 
 Table 10: Treatment Outcomes in Studies 2 and 3 as a Function of HER2 Overexpression or Amplification
 
@@ -123,7 +123,7 @@ Table 10: Treatment Outcomes in Studies 2 and 3 as a Function of HER2 Overexpres
 
 ## 14.2 Metastatic Breast Cancer
 
-The safety and efficacy of Herceptin in treatment of women with metastatic breast cancer were studied in a randomized, controlled clinical trial in combination with chemotherapy (Study 5, n = 469 patients) and an open-label single agent clinical trial (Study 6, n = 222 patients).
+The safety and efficacy of Herceptin in treatment of women with metastatic breast cancer were studied in a randomized, controlled clinical trial in combination with chemotherapy (Study 5, n = 469 patients) and an open-label, single agent clinical trial (Study 6, n = 222 patients).
 Both trials studied patients with metastatic breast cancer whose tumors overexpress the HER2 protein.
 Patients were eligible if they had 2 or 3 levels of overexpression (based on a 0 to 3 scale) by immunohistochemical assessment of tumor tissue performed by a central testing lab.
 

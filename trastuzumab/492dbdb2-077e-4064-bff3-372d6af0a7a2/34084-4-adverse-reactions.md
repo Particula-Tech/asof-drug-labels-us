@@ -280,7 +280,7 @@ In Study 7 (metastatic gastric cancer) on the Herceptin containing arm as compar
 
 Infection
 
-The overall incidences of infection (46% vs. 30% [Study 5]), of selected NCI-CTC Grade 2–5 infection/febrile neutropenia (24.3% vs. 13.4% [Study 1]) and of selected Grade 3–5 infection/febrile neutropenia (2.9% vs. 1.4%) [Study 2]) were higher in patients receiving Herceptin and chemotherapy compared with those receiving chemotherapy alone.
+The overall incidences of infection (46% vs. 30% [Study 5]), of selected NCI-CTC Grade 2–5 infection/febrile neutropenia (24.3% vs. 13.4% [Study 1]) and of selected Grade 3–5 infection/febrile neutropenia (2.9% vs. 1.4% [Study 2]) were higher in patients receiving Herceptin and chemotherapy compared with those receiving chemotherapy alone.
 The most common site of infections in the adjuvant setting involved the upper respiratory tract, skin, and urinary tract.
 
 In Study 4, the overall incidence of infection was higher with the addition of Herceptin to AC-T but not to TCH [44% (AC-TH), 37% (TCH), 38% (AC-T)].
