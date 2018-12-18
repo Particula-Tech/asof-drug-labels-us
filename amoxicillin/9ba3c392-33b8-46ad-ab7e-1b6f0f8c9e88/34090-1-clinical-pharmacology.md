@@ -9,7 +9,7 @@ Amoxicillin is an antibacterial drug.
 
 MOXATAG is an extended-release formulation of amoxicillin intended to provide once-daily dosing.
 Following the administration of MOXATAG with a low-fat meal in healthy subjects, mean amoxicillin AUC0-∞, Cmax, and Tmax values were 29.8 μg•h/mL, 6.6 μg/mL and 3.1 hours, respectively.
-The mean plasma concentration-time curve is shown below in Figure 1.
+The mean plasma concentration-time curve is shown below in.
 
 Figure 1.
 Mean Amoxicillin Plasma Concentrations Following a Single Oral Dose of MOXATAG With a Low-Fat Meal in Healthy Subjects (N=20)
