@@ -1,6 +1,6 @@
 # PRINCIPLE DISPLAY PANEL
 
-NDC 61314-144-05
+1. NDC 61314-144-05
 
 Brimonidine Tartrate Ophthalmic Solution
 
