@@ -9,4 +9,4 @@ Hence, memantine should be used with caution under these conditions.
 
 ## 7.2 Use with Other N-methyl-D-aspartate (NMDA) Antagonists
 
-The combined use of memantine HCl with other NMDA antagonists (amantadine, ketamine, and dextromethorphan) has not been systematically evaluated and such use should be approached with caution.
+The combined use of memantine hydrochloride with other NMDA antagonists (amantadine, ketamine, and dextromethorphan) has not been systematically evaluated and such use should be approached with caution.
