@@ -47,3 +47,5 @@ NDC 0641-2450-55 Rx only Heparin Sodium Injection, USP 30,000 USP Units/30 mL (1
 NOT for Lock Flush From Porcine Intestines Each mL contains heparin sodium 1,000 USP units, sodium chloride 8.6 mg and benzyl alcohol 0.01 mL in Water for Injection. pH 5.0-7.5; NaOH and/or HCI added, if needed, for pH adjustment.
 Usual Dosage: See package insert.
 Store at 20º-25ºC (58º-77ºF).
+
+# SERIALIZATION IMAGE
