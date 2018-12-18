@@ -2,7 +2,7 @@
 
 ## 2.1 How to Use NuvaRing
 
-To achieve maximum contraceptive effectiveness, NuvaRing must be used as directed [see Dosing and Administration (2.2)].
+To achieve maximum contraceptive effectiveness, NuvaRing must be used as directed [see Dosage and Administration (2.2)].
 One NuvaRing is inserted in the vagina.
 The ring is to remain in place continuously for three weeks.
 It is removed for a one-week break, during which a withdrawal bleed usually occurs.
@@ -78,7 +78,7 @@ If NuvaRing is out of the vagina for more than three continuous hours:
 
 During Weeks 1 and 2: Contraceptive efficacy may be reduced.
 The woman should reinsert the ring as soon as she remembers.
-A barrier method such as condoms with spermicides must be used until the ring has been used continuously for seven days.
+A barrier method such as male condoms with spermicides must be used until the ring has been used continuously for seven days.
 
 During Week 3: The woman should discard that ring.
 One of the following two options should be chosen:
@@ -90,7 +90,7 @@ One of the following two options should be chosen:
 2. Insert a new ring no later than seven days from the time the previous ring was removed or expelled, during which time she may have a withdrawal bleed.
    This option should only be chosen if the ring was used continuously for at least seven days prior to inadvertent removal/expulsion.
 
-In either case, a barrier method such as condoms with spermicides must be used until the new ring has been used continuously for seven days.
+In either case, a barrier method such as male condoms with spermicides must be used until the new ring has been used continuously for seven days.
 
 If NuvaRing was out of the vagina for an unknown amount of time, the possibility of pregnancy should be considered.
 A pregnancy test should be performed prior to inserting a new ring.
@@ -112,6 +112,8 @@ Ring Breakage:
 There have been reported cases of NuvaRing disconnecting at the weld joint.
 This is not expected to affect the contraceptive effectiveness of NuvaRing.
 In the event of a disconnected ring, vaginal discomfort or expulsion (slipping out) is more likely to occur.
+Vaginal injury associated with ring breakage has been reported [see Adverse Reactions (6.2)].
+
 If a woman discovers that her NuvaRing has disconnected, she should discard the ring and replace it with a new ring.
 
 ## 2.4 In the Event of a Missed Menstrual Period

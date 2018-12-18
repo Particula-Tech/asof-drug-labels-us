@@ -31,7 +31,7 @@ Serious Adverse Reactions: deep vein thrombosis [see Warnings and Precautions (5
 The following adverse reactions have been identified during post-approval use of NuvaRing.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Immune system disorders: hypersensitivity, including anaphylaxis and angioedema
+Immune system disorders: hypersensitivity reactions, including anaphylaxis and angioedema
 
 Nervous system disorders: stroke/cerebrovascular accident
 
@@ -40,3 +40,5 @@ Vascular disorders: arterial events (including arterial thromboembolism and myoc
 Skin and subcutaneous tissue disorders: urticaria, chloasma
 
 Reproductive system and breast disorders: penile disorders, including local reactions on penis (in male partners of women using NuvaRing), galactorrhea
+
+Injury, poisoning and procedural complications: vaginal injury (including associated pain, discomfort, and bleeding) associated with ring breakage

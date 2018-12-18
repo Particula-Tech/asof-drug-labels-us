@@ -86,6 +86,7 @@ Before you use NuvaRing tell your healthcare provider if you:
   Hormonal birth control methods that contain estrogen, like NuvaRing, may decrease the amount of milk you make.
   A small amount of hormones from NuvaRing may pass into your breast milk.
   Consider another non-hormonal method of birth control until you are ready to stop breastfeeding.
+- have (or have ever had) an allergic reaction while using NuvaRing, including hives, swelling of the face, lips, tongue, and/or throat causing difficulty in breathing or swallowing (anaphylaxis and/or angioedema).
 
 Tell your healthcare provider about all medicines and herbal products you take, including prescription and over-the-counter medicines, vitamins and herbal supplements.
 
@@ -183,6 +184,7 @@ Other serious risks include:
 - Toxic Shock Syndrome (TSS).
   Some of the symptoms are much the same as the flu, but they can become serious very quickly.
   Call your healthcare provider or get emergency treatment right away if you have the following symptoms: sudden high fevervomitingdiarrheaa sunburn-like rash muscle achesdizzinessfainting or feeling faint when standing up
+- allergic reaction, including hives, swelling of the face, lips, tongue, and/or throat causing difficulty in breathing or swallowing (anaphylaxis and/or angioedema)
 - liver problems, including liver tumors
 - high blood pressure
 - gallbladder problems
@@ -211,7 +213,7 @@ If these symptoms occur, do not stop using NuvaRing.
 The problem will usually go away.
 If it doesn't go away, check with your healthcare provider.
 
-Other side effects seen with NuvaRing include allergic reactions, which may include swelling of the face, lips, tongue, and/or throat that may cause difficulty in breathing or swallowing (anaphylaxis and angioedema), hives; breast discharge; and penis discomfort of the partner (such as irritation, rash, itching).
+Other side effects seen with NuvaRing include breast discharge; vaginal injury (including pain, discomfort, and bleeding) associated with broken rings; and penis discomfort of the partner (such as irritation, rash, itching).
 
 Less common side effects seen with combination hormonal birth control include:
 
