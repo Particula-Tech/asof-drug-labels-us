@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA204442"
+  ],
+  "inn": "buprenorphine",
+  "labeler": "Titan Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "52440-100-14"
+  ],
+  "products": [
+    {
+      "form": "IMPLANT",
+      "generic": "buprenorphine hydrochloride",
+      "name": "Probuphine"
+    }
+  ],
+  "setid": "f635d975-6bb4-4233-953b-d5724e993839",
+  "source": "dailymed"
+}

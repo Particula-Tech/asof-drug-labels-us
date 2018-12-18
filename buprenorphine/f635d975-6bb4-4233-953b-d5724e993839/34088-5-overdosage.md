@@ -1,0 +1,18 @@
+# 10. OVERDOSAGE
+
+Clinical Presentation
+
+The manifestations of acute buprenorphine overdose include pinpoint pupils, sedation, hypotension, respiratory depression, and death.
+
+Treatment of Overdose
+
+In case of overdose, priorities are the re-establishment of a patent and protected airway and institution of assisted ventilation, if needed.
+Employ other supportive measures (including oxygen, vasopressors) in the management of circulatory shock and pulmonary edema as indicated.
+Cardiac arrest or arrhythmias will require advanced life support techniques.
+
+The opioid antagonist naloxone is a specific antidote to respiratory depression resulting from opioid overdose.
+Naloxone may be of value for the management of buprenorphine overdose.
+Higher than normal doses and repeated administration may be necessary.
+
+Clinicians should consider the potential role and contribution of buprenorphine, other CNS depressant drugs, and other opioids in a patient's clinical presentation, in determining whether the implants should be removed.
+In an emergency situation, the removal procedure can be performed by a surgeon who is not certified in the REMS.
