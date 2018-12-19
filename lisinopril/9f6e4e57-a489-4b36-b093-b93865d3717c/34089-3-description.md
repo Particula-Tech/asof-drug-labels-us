@@ -10,4 +10,5 @@ It is soluble in water, sparingly soluble in methanol, and practically insoluble
 QBRELIS (lisinopril), 1 mg/mL, is a ready-to-use aqueous formulation.
 Each 1 mL of the oral solution contains 1.09 mg of lisinopril dihydrate, which is equivalent to 1 mg of lisinopril as the active ingredient and the following inactive ingredients: purified water, xylitol, sodium citrate, citric acid, sodium benzoate, and either hydrochloric acid or sodium hydroxide which may be added for pH adjustment.
 The solution is clear to slightly opalescent.
+The pH of the solution ranges from 4.3 to 5.1.
 QBRELIS is supplied as 150 mL of the solution packaged in a 150-mL round, white, opaque, high-density polyethylene (HDPE) bottle with a white, polypropylene, child-resistant closure with a heat induction layered inner seal.

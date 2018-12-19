@@ -5,7 +5,7 @@
 Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
 Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
 Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
-When pregnancy is detected, discontinue QBRELIS as soon as possible [see Use in specific Populations (8.1)].
+When pregnancy is detected, discontinue QBRELIS as soon as possible [see Use in Specific Populations (8.1)].
 
 ## 5.2 Angioedema and Anaphylactoid Reactions
 
@@ -47,7 +47,7 @@ Anaphylactoid reactions have also been reported in patients undergoing low-densi
 Monitor renal function periodically in patients treated with QBRELIS.
 Changes in renal function including acute renal failure can be caused by drugs that inhibit the renin-angiotensin system.
 Patients whose renal function may depend in part on the activity of the renin-angiotensin system (e.g., patients with renal artery stenosis, chronic kidney disease, severe congestive heart failure, post-myocardial infarction or volume depletion) may be at particular risk of developing acute renal failure on QBRELIS.
-Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on QBRELIS [see Adverse Reactions (6.1), Drug Interactions (7.4)].
+Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on QBRELIS [see Adverse Reactions (6.1) and Drug Interactions (7.4)].
 
 ## 5.4 Hypotension
 

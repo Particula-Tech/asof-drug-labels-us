@@ -18,11 +18,3 @@ Hyperkalemia: Tell patients to consult their physician prior to using salt subst
 Hypoglycemia: Tell diabetic patients treated with oral antidiabetic agents or insulin starting an ACE inhibitor to monitor for hypoglycemia closely, especially during the first month of combined use [see Drug Interactions (7.2)].
 
 Leukopenia/Neutropenia: Tell patients to report promptly any indication of infection (e.g., sore throat, fever), which may be a sign of leukopenia/neutropenia.
-
-Manufactured for: Silvergate Pharmaceuticals, Inc. 6251 Greenwood Plaza Blvd., Suite 101 Greenwood Village, CO 80111
-
-U.S. Patents 9463183; 9616096
-
-LI-1706
-
-07/2017
