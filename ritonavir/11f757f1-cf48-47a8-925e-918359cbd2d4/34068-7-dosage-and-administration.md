@@ -1,18 +1,16 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 General Dosing and Administration Recommendations
+## 2.1 General Administration Recommendations
 
 - Ritonavir tablets must be used in combination with other antiretroviral agents.
 - Ritonavir tablets are administered orally.
   Ritonavir tablets should be swallowed whole, and not chewed, broken or crushed.
   Take ritonavir tablets with meals.
 
-General Dosing Guidelines
-
-Patients who take the 600 mg twice daily soft gel capsule ritonavir dose may experience more gastrointestinal side effects such as nausea, vomiting, abdominal pain or diarrhea when switching from the soft gel capsule to the tablet formulation because of greater maximum plasma concentration (Cmax) achieved with the tablet formulation relative to the soft gel capsule [see Clinical Pharmacology (12.3)].
+General Dosing Guidelines Patients who take the 600 mg twice daily soft gel capsule ritonavir dose may experience more gastrointestinal side effects such as nausea, vomiting, abdominal pain or diarrhea when switching from the soft gel capsule to the tablet formulation because of greater maximum plasma concentration (Cmax) achieved with the tablet formulation relative to the soft gel capsule [see Clinical Pharmacology (12.3)].
 Patients should also be aware that these adverse events (gastrointestinal or paresthesias) may diminish as therapy is continued.
 
-## 2.3 Recommended Adult Dosage
+## 2.3 Dosage Recommendations in Adults
 
 Recommended Dosage for Treatment of HIV-1:
 
@@ -26,7 +24,7 @@ Pregnant Women
 Ritonavir oral solution is not recommended during pregnancy due to its ethanol content.
 Ritonavir oral solution contains the excipients ethanol and propylene glycol [see Use in Specific Populations (8.1)].
 
-## 2.4 Recommended Pediatric Dosage
+## 2.4 Dosage Recommendations in Pediatric Patients
 
 Ritonavir tablets must be used in combination with other antiretroviral agents [see Dosage and Administration (2)].
 The recommended dosage of ritonavir tablets in pediatric patients older than 1 month is 350 to 400 mg per m2 twice daily by mouth to be taken with meals and should not exceed 600 mg twice daily.
@@ -60,6 +58,6 @@ Ritonavir oral solution is the preferred formulation for patients requiring dose
 
 ## 2.6 Dose Modification due to Drug Interaction
 
-Dose reduction of ritonavir tablets is necessary when used with other protease inhibitors: atazanavir, darunavir, fosamprenavir, saquinavir, and tipranavir.
+Dose reduction of ritonavir tablet is necessary when used with other protease inhibitors: atazanavir, darunavir, fosamprenavir, saquinavir, and tipranavir.
 
 Prescribers should consult the full prescribing information and clinical study information of these protease inhibitors if they are co-administered with a reduced dose of ritonavir [see Warnings and Precautions (5.1), and Drug Interactions (7)].

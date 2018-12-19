@@ -1,11 +1,9 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Patient Information)
-
-General Information Dosing and Preparation Information
+Advise the patient to read the FDA-approved patient labeling (Patient Information) General Administration Information [see Dosage and Administration (2)]:
 
 - Advise patients and caregivers to pay special attention to accurate preparation and administration of their dose to minimize the risk of accidental overdose or underdose of ritonavir.
-- Advise caregivers to inform their healthcare provider if their children’s weight changes in order to make sure that the child’s ritonavir dose is adjusted as needed.
+- Advise caregivers to inform their healthcare provider if their child’s weight changes in order to make sure that the child’s ritonavir dose is adjusted as needed.
 - Advise patients to take ritonavir with meals.
 - For adult patients taking ritonavir tablets, the maximum dose of 600 mg twice daily by mouth with meals should not be exceeded.
 - Advise patients to remain under the care of a physician while using ritonavir and to take ritonavir and other concomitant antiretroviral therapy every day as prescribed.
@@ -70,8 +68,5 @@ Advise pregnant women that use of ritonavir oral solution during pregnancy is no
 Pregnancy Exposure Registry
 
 Inform patients that there is an antiretroviral pregnancy registry that monitors fetal outcomes of pregnant women exposed to ritonavir [see Use in Specific Populations (8.1)].
-
-Lactation
-
-Instruct women with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in breast milk [see Use in Specific Populations (8.2)].
+Lactation Instruct women with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in breast milk [see Use in Specific Populations (8.2)].
 Dispense with Patient Information available at: www.aurobindousa.com/product-medication-guides

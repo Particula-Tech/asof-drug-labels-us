@@ -20,30 +20,29 @@ Do not take ritonavir tablets if you or your child:
 
 - are allergic to ritonavir or any of the ingredients in ritonavir tablets.
   See the end of this leaflet for a complete list of ingredients in ritonavir tablets.
-- take any of the following medicines:
-  - alfuzosin (UROXATRAL®)
-  - amiodarone (CORDARONE®, NEXTERONE®, PACERONE®)
-  - cisapride (PROPULSID®, PROPULSID QUICKSOLV®)
-  - colchicine (COLCRYS®, COL-PROBENECID®, Probenecid and Colchine)
-  - dronedarone (MULTAQ®)
-  - ergot-containing medicines, including:
-    - dihydroergotamine (D.H.E.
-      45®, MIGRANAL®)
-    - ergotamine tartrate (CAFERGOT®, MIGEROT®, ERGOSTAT®, MEDIHALER ERGOTAMINE®, WIGRAINE®, WIGRETTES®)
-    - methylergonovine maleate (ERGOTRATE®, METHERGINE®)
-  - flecainide (TAMBOCOR®)
-  - lovastatin (ADVICOR®, ALTOPREV®, MEVACOR®)
-  - lurasidone (LATUDA®)
-  - midazolam, when taken by mouth
-  - pimozide (ORAP®)
-  - propafenone (RYTHMOL®)
-  - quinidine (NUEDEXTA®, QUINAGLUTE®, CARDIOQUIN®, QUINIDEX®, and others)
-  - ranolazine (RANEXA®)
+- If you take any of the following medicines:
+  - alfuzosin
+  - ranolazine
+  - dronedarone
+  - colchicine, if you have kidney or liver problems.
+  - lurasidone
+  - pimozide
+  - amiodarone
+  - ergot-containing medicines including:
+    - dihydroergotamine mesylate
+    - ergotamine tartrate
+    - methylergonovine maleate
+  - cisapride
+  - flecainide
+  - lovastatin
+  - simvastatin
   - sildenafil (REVATIO®) only when used for treating the lung problem, pulmonary arterial hypertension (PAH)
-  - simvastatin (SIMCOR®, VYTORIN®, ZOCOR®)
+  - triazolam
+  - midazolam when taken by mouth
+  - propafenone
+  - quinidine
   - St. John’s Wort (Hypericum perforatum) or a product that contains St. John’s wort
-  - triazolam (HALCION®)
-  - voriconazole (VFEND®) if your ritonavir tablets dose is 400 mg every 12 hours or greater
+  - voriconazole if your ritonavir tablets dose is 400 mg every 12 hours or greater
 
 Serious problems can happen if you or your child takes any of these medicines with ritonavir tablets.
 
@@ -65,7 +64,7 @@ Before taking ritonavir tablets, tell your healthcare provider about all of your
 - are breastfeeding or plan to breastfeed.
   Do not breastfeed if you take ritonavir tablets.
   - You should not breastfeed if you have HIV-1 because of the risk of passing HIV-1 to your baby.
-  - Ritonavir may pass into your breast milk.
+  - Ritonavir may pass into your breastmilk.
   - Talk to your healthcare provider about the best way to feed your baby.
 
 Tell your healthcare provider about all the medicines you take including prescription and over-the-counter medicines, vitamins, and herbal supplements.
@@ -106,28 +105,41 @@ Ritonavir tablets can cause serious side effects including:
   Your healthcare provider should do regular blood tests during your combination treatment with ritonavir tablets.
   If you have chronic hepatitis B or C infection, your healthcare provider should check your blood tests more often because you have an increased chance of developing liver problems.
   Tell your healthcare provider right away if you get any of the following signs and symptoms of liver problems:
-
-• loss of appetite • yellowing of your skin or whites of your eyes • pain or tenderness on your right side below your ribs • itchy skin
+  - loss of appetite
+  - yellowing of your skin or whites of your eyes
+  - pain or tenderness on your right side below your ribs
+  - itchy skin
 
 - Inflammation of your pancreas (pancreatitis).
   Ritonavir tablets can cause serious pancreas problems, which may lead to death.
   Tell your healthcare provider right away if you have signs or symptoms of pancreatitis such as:
-
-• nausea • vomiting • stomach (abdomen) pain
+  - nausea
+  - vomiting
+  - stomach (abdomen) pain
 
 - Allergic reactions.
   Sometimes these allergic reactions can become severe and require treatment in a hospital.
   Call your healthcare provider right away if you develop a rash.
   Stop taking ritonavir tablets and get medical help right away if you have any of the following symptoms of a severe allergic reaction:
-
-• trouble breathing • sweating • wheezing • swelling of your face, lips or tongue • dizziness or fainting • muscle or joint pain • throat tightness or hoarseness • blisters or skin lesions • fast heartbeat or pounding in your chest (tachycardia) • mouth sores or ulcers
+  - trouble breathing
+  - sweating
+  - wheezing
+  - swelling of your face, lips or tongue
+  - dizziness or fainting
+  - muscle or joint pain
+  - throat tightness or hoarseness
+  - blisters or skin lesions
+  - fast heartbeat or pounding in your chest (tachycardia)
+  - mouth sores or ulcers
 
 Changes in the electrical activity of your heart called PR prolongation.
 PR prolongation can cause irregular heartbeats.
 Tell your healthcare provider right away if you have symptoms such as:
 
-• dizziness • feel faint or pass out • lightheadedness • abnormal heart beat
-
+- dizziness
+- feel faint or pass out
+- lightheadedness
+- abnormal heart beat
 - Increase in cholesterol and triglyceride levels.
   Treatment with ritonavir tablets may increase your blood levels of cholesterol and triglycerides.
   Your healthcare provider should do blood tests before you start your treatment with ritonavir tablets and regularly to check for an increase in your cholesterol and triglycerides levels.
@@ -146,11 +158,13 @@ Tell your healthcare provider right away if you have symptoms such as:
 
 The most common side effects of ritonavir tablets include:
 
-• diarrhea • tingling feeling or numbness in hands or feet or around the lips
-
-• nausea • vomiting • rash
-
-• upper and lower stomach (abdominal) pain • feeling weak or tired
+- diarrhea
+- tingling feeling or numbness in hands or feet or around the lips
+- nausea
+- vomiting
+- rash
+- upper and lower stomach (abdominal) pain
+- feeling weak or tired
 
 Ritonavir oral solution contains a large amount of alcohol.
 If a toddler or young child accidentally drinks more than the recommended dose of ritonavir oral solution, it could make him/her sick from too much alcohol.
@@ -193,8 +207,4 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Dispense with Patient Information available at: www.aurobindousa.com/product-medication-guides
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520
-
-Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India
-
-Issued: June 2018
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 12/2018
