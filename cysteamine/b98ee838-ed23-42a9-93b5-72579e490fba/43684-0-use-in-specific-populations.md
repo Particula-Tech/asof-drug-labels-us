@@ -5,7 +5,7 @@
 There are no adequate and well-controlled studies of ophthalmic cysteamine in pregnant women.
 CYSTARAN should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-Teratogenic Effects: Pregnancy Category C. Teratology studies have been performed in rats at oral doses in a range of 37.5 mg/kg/day to 150 mg/kg/day (about 0.2 to 0.7 times the recommended human maintenance dose on a body surface basis) and have revealed cysteamine bitartrate to be teratogenic.
+Teratogenic Effects: Teratology studies have been performed in rats at oral doses in a range of 37.5 mg/kg/day to 150 mg/kg/day (about 0.2 to 0.7 times the recommended human maintenance dose on a body surface basis) and have revealed cysteamine bitartrate to be teratogenic.
 Observed teratogenic findings were cleft palate, kyphosis, heart ventricular septal defects, microcephaly, and exencephaly.
 
 Nonteratogenic Effects: Cysteamine was fetotoxic, resulting in intrauterine death and growth retardation in rats at oral doses of 0.2 to 0.7 times the recommended human maintenance dose on a body surface basis.

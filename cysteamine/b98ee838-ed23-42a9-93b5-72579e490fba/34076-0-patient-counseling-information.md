@@ -28,4 +28,4 @@ Patients should be advised that CYSTARAN is for topical ophthalmic use only.
 
 Manufactured by Hi-Tech Pharmacal Co., Inc., Amityville, NY 11701 for Leadiant Biosciences, Inc., Gaithersburg, MD 20878.
 
-cyspi-6-ht 07/2017
+cyspi-7-ht 05/2018
