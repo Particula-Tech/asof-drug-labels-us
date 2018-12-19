@@ -1,4 +1,4 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
 Amiodarone hydrochloride is a member of a class of antiarrhythmic drugs with predominantly Class III (Vaughan Williams' classification) effects.
 Amiodarone is a benzofuran derivative: 2-butyl-3-benzofuranyl 4-[2-(diethylamino)-ethoxy]-3,5-diiodophenyl ketone hydrochloride.

@@ -1,74 +1,98 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-Adverse reactions have been very common in virtually all series of patients treated with amiodarone for ventricular arrhythmias with relatively large doses of drug (400 mg/day and above), occurring in about three-fourths of all patients and causing discontinuation in 7 to 18%.
-The most serious reactions are pulmonary toxicity, exacerbation of arrhythmia, and rare serious liver injury (see WARNINGS), but other adverse effects constitute important problems.
-They are often reversible with dose reduction or cessation of amiodarone treatment.
-Most of the adverse effects appear to become more frequent with continued treatment beyond six months, although rates appear to remain relatively constant beyond one year.
-The time and dose relationships of adverse effects are under continued study.
+The following serious adverse reactions are described in more detail in other sections of the prescribing information:
 
-Neurologic problems are extremely common, occurring in 20 to 40% of patients and including malaise and fatigue, tremor and involuntary movements, poor coordination and gait, and peripheral neuropathy; they are rarely a reason to stop therapy and may respond to dose reductions or discontinuation (see PRECAUTIONS).
-There have been spontaneous reports of demyelinating polyneuropathy.
+- Pulmonary Toxicity [see Warnings and Precautions (5.2)]
+- Hepatic Injury [see Warnings and Precautions (5.3)]
+- Worsened Arrhythmia [see Warnings and Precautions (5.4)]
+- Visual Impairment and Loss of Vision [see Warnings and Precautions (5.5)]
+- Thyroid Abnormalities [see Warnings and Precautions (5.6)]
+- Bradycardia [see Warnings and Precautions (5.7)]
+- Peripheral Neuropathy [see Warnings and Precautions (5.10)]
+- Photosensitivity and Skin Discoloration [see Warnings and Precautions (5.11)]
 
-Gastrointestinal complaints, most commonly nausea, vomiting, constipation, and anorexia, occur in about 25% of patients but rarely require discontinuation of drug.
-These commonly occur during high-dose administration (i.e., loading dose) and usually respond to dose reduction or divided doses.
+## 6.1 Clinical Trials Experience
 
-Ophthalmic abnormalities including optic neuropathy and/or optic neuritis, in some cases progressing to permanent blindness, papilledema, corneal degeneration, photosensitivity, eye discomfort, scotoma, lens opacities, and macular degeneration have been reported (see WARNINGS).
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Asymptomatic corneal microdeposits are present in virtually all adult patients who have been on drug for more than 6 months.
-Some patients develop eye symptoms of halos, photophobia, and dry eyes.
-Vision is rarely affected and drug discontinuation is rarely needed.
+At the usual maintenance dose (400 mg/day) and above, amiodarone hydrochloride tablets causes adverse reactions in about three-fourths of all patients, resulting in discontinuation in 7 to 18%.
 
-Dermatological adverse reactions occur in about 15% of patients, with photosensitivity being most common (about 10%).
-Sunscreen and protection from sun exposure may be helpful, and drug discontinuation is not usually necessary.
-Prolonged exposure to amiodarone occasionally results in a blue-gray pigmentation.
-This is slowly and occasionally incompletely reversible on discontinuation of drug but is of cosmetic importance only.
+In surveys of almost 5,000 patients treated in open U.S. studies and in published reports of treatment with amiodarone hydrochloride tablets, the adverse reactions most frequently requiring discontinuation of amiodarone hydrochloride tablets included pulmonary infiltrates or fibrosis, paroxysmal ventricular tachycardia, congestive heart failure, and elevation of liver enzymes.
+Other symptoms causing discontinuations less often included visual disturbances, photosensitivity, blue skin discoloration, hyperthyroidism, and hypothyroidism.
 
-Cardiovascular adverse reactions, other than exacerbation of the arrhythmias, include the uncommon occurrence of congestive heart failure (3%) and bradycardia.
-Bradycardia usually responds to dosage reduction but may require a pacemaker for control.
-CHF rarely requires drug discontinuation.
-Cardiac conduction abnormalities occur infrequently and are reversible on discontinuation of drug.
+The following side-effect rates are based on a retrospective study of 241 patients treated for 2 to 1,515 days (mean 441.3 days):
 
-The following side-effect rates are based on a retrospective study of 241 patients treated for 2 to 1,515 days (mean 441.3 days).
+Thyroid
 
-## The following side effects were each reported in 10 to 33% of patients:
+Common: Hypothyroidism, hyperthyroidism.
 
-Gastrointestinal: Nausea and vomiting.
+Cardiovascular
 
-## The following side effects were each reported in 4 to 9% of patients:
+Common: Congestive heart failure, cardiac arrhythmias, SA node dysfunction.
 
-Dermatologic: Solar dermatitis/photosensitivity.
+Gastrointestinal
 
-Neurologic: Malaise and fatigue, tremor/abnormal involuntary movements, lack of coordination, abnormal gait/ataxia, dizziness, paresthesias.
+Very common: Nausea, vomiting.
 
-Gastrointestinal: Constipation, anorexia.
+Common: Constipation, anorexia, abdominal pain.
 
-Ophthalmologic: Visual disturbances.
+Dermatologic
 
-Hepatic: Abnormal liver-function tests.
+Common: Solar dermatitis/photosensitivity.
 
-Respiratory: Pulmonary inflammation or fibrosis.
+Neurologic
 
-## The following side effects were each reported in 1 to 3% of patients:
+Common: Malaise and fatigue, tremor/abnormal involuntary movements, lack of coordination, abnormal gait/ataxia, dizziness, paresthesias, decreased libido, insomnia, headache, sleep disturbances.
 
-Thyroid: Hypothyroidism, hyperthyroidism.
+Ophthalmic
 
-Neurologic: Decreased libido, insomnia, headache, sleep disturbances.
+Common: Visual disturbances.
 
-Cardiovascular: Congestive heart failure, cardiac arrhythmias, SA node dysfunction.
+Hepatic
 
-Gastrointestinal: Abdominal pain.
+Common: Abnormal liver-function tests, nonspecific hepatic disorders.
 
-Hepatic: Nonspecific hepatic disorders.
+Respiratory
 
-Other: Flushing, abnormal taste and smell, edema, abnormal salivation, coagulation abnormalities.
+Common: Pulmonary inflammation or fibrosis.
 
-## The following side effects were each reported in less than 1% of patients:
+Other
 
-Blue skin discoloration, rash, spontaneous ecchymosis, alopecia, hypotension, and cardiac conduction abnormalities.
+Common: Flushing, abnormal taste and smell, edema, abnormal salivation, coagulation abnormalities.
 
-In surveys of almost 5,000 patients treated in open U.S. studies and in published reports of treatment with amiodarone, the adverse reactions most frequently requiring discontinuation of amiodarone included pulmonary infiltrates or fibrosis, paroxysmal ventricular tachycardia, congestive heart failure, and elevation of liver enzymes.
-Other symptoms causing discontinuations less often included visual disturbances, solar dermatitis, blue skin discoloration, hyperthyroidism, and hypothyroidism.
+Uncommon: Blue skin discoloration, rash, spontaneous ecchymosis, alopecia, hypotension, and cardiac conduction abnormalities.
 
-## Postmarketing Reports:
+## 6.2 Postmarketing Experience
 
-In postmarketing surveillance, serious symptomatic bradycardia has been reported in patients taking amiodarone who initiate treatment with ledipasvir/sofosbuvir or with sofosbuvir with simeprevir, hypotension (sometimes fatal), sinus arrest, anaphylactic/anaphylactoid reaction (including shock), angioedema, urticaria, eosinophilic pneumonia, hepatitis, cholestatic hepatitis, cirrhosis, pancreatitis, acute pancreatitis, renal impairment, renal insufficiency, acute renal failure, acute respiratory distress syndrome in the post-operative setting, bronchospasm, possibly fatal respiratory disorders (including distress, failure, arrest, and ARDS), bronchiolitis obliterans organizing pneumonia (possibly fatal), fever, dyspnea, cough, hemoptysis, wheezing, hypoxia, pulmonary infiltrates and/or mass, pulmonary alveolar hemorrhage, pleural effusion, pleuritis, pseudotumor cerebri, parkinsonian symptoms such as akinesia and bradykinesia (sometimes reversible with discontinuation of therapy), syndrome of inappropriate antidiuretic hormone secretion (SIADH), thyroid nodules/thyroid cancer, toxic epidermal necrolysis (sometimes fatal), erythema multiforme, Stevens-Johnson syndrome, exfoliative dermatitis, bullous dermatitis, drug rash with eosinophilia and systemic symptoms (DRESS), eczema, skin cancer, vasculitis, pruritus, hemolytic anemia, aplastic anemia, pancytopenia, neutropenia, thrombocytopenia, agranulocytosis, granuloma, myopathy, muscle weakness, rhabdomyolysis, demyelinating polyneuropathy, hallucination, confusional state, disorientation, delirium, epididymitis, impotence, dry mouth and lupus-like syndrome, also have been reported with amiodarone therapy.
+The following adverse reactions have been identified during post-approval use of amiodarone hydrochloride tablets.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Hematologic: hemolytic anemia, aplastic anemia, pancytopenia, neutropenia, thrombocytopenia, agranulocytosis, granuloma.
+
+Immune: anaphylactic/anaphylactoid reaction (including shock), angioedema.
+
+Neurologic: pseudotumor cerebri, parkinsonian symptoms such as akinesia and bradykinesia (sometimes reversible with discontinuation of therapy), demyelinating polyneuropathy.
+
+Psychiatric: hallucination, confusional state, disorientation, delirium.
+
+Cardiac: hypotension (sometimes fatal), sinus arrest.
+
+Respiratory: eosinophilic pneumonia, acute respiratory distress syndrome in the post-operative setting, bronchospasm, bronchiolitis obliterans organizing pneumonia, pulmonary alveolar hemorrhage, pleural effusion, pleuritis.
+
+Gastrointestinal: pancreatitis, acute pancreatitis.
+
+Hepatic: hepatitis, cholestatic hepatitis, cirrhosis.
+
+Skin and Subcutaneous Tissue Disorders: urticaria, toxic epidermal necrolysis (sometimes fatal), erythema multiforme, Stevens-Johnson syndrome, exfoliative dermatitis, bullous dermatitis, drug rash with eosinophilia and systemic symptoms (DRESS), eczema, pruritus, skin cancer, lupus-like syndrome.
+
+Musculoskeletal: myopathy, muscle weakness, rhabdomyolysis.
+
+Renal: renal impairment, renal insufficiency, acute renal failure.
+
+Reproductive: epididymitis, impotence.
+
+Body as a whole: fever, dry mouth.
+
+Endocrine and metabolic: thyroid nodules/ thyroid cancer, syndrome of inappropriate antidiuretic hormone secretion (SIADH).
+
+Vascular: vasculitis.
