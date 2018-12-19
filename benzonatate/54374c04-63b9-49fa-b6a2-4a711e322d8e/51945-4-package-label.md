@@ -1,12 +1,16 @@
-# Principal Display Panel
+———PRINCIPAL DISPLAY PANEL 100mg———
 
 ASCEND Laboratories, LLC
 
-NDC 67877-573-01 Benzonatate Capsules, USP 100 mg Rx only 100 Capsules
+NDC 67877-573-01 Benzonatate Capsules, USP 100 mg PROTECT FROM LIGHT Rx only 100 Capsules
+
+———PRINCIPAL DISPLAY PANEL 150mg———
 
 ASCEND Laboratories, LLC
 
 NDC 67877-574-01 Benzonatate Capsules, USP 150 mg PROTECT FROM LIGHT Rx only 100 Capsules
+
+———PRINCIPAL DISPLAY PANEL 200mg———
 
 ASCEND Laboratories, LLC
 

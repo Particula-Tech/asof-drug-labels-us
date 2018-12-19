@@ -1,7 +1,7 @@
 Information for Patients Swallow benzonatate capsules whole.
 Do not break, chew, dissolve, cut, or crush Benzonatate Capsules.
 Release of benzonatate from the capsule in the mouth can produce a temporary local anesthesia of the oral mucosa and choking could occur.
-If numbness or tingling of the tongue, mouth, throat, or face occurs, refrain from oral ingestion of foods or liquids until the numbness has resolved.
+If numbness or tingling of the tongue, mouth, throat, or face occurs, refrain from oral ingestion of food or liquids until the numbness has resolved.
 If the symptoms worsen or persist, seek medical attention.
 
 Keep benzonatate out of reach of children.
