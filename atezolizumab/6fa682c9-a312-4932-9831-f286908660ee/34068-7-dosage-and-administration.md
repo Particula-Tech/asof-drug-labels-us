@@ -2,16 +2,26 @@
 
 ## 2.1 Selection of Cisplatin-Ineligible Patients with Locally Advanced or Metastatic Urothelial Carcinoma
 
-Select cisplatin-ineligible patients with previously untreated locally advanced or metastatic urothelial carcinoma for treatment with TECENTRIQ as a single agent based on the PD-L1 expression on tumor-infiltrating immune cells [see Clinical Studies (14.1)].
+Select cisplatin-ineligible patients with previously untreated locally advanced or metastatic urothelial carcinoma for treatment with TECENTRIQ based on the PD-L1 expression on tumor-infiltrating immune cells [see Clinical Studies (14.1)].
 
 Information on FDA-approved tests for the determination of PD-L1 expression in locally advanced or metastatic urothelial carcinoma is available at: http://www.fda.gov/CompanionDiagnostics
 
-## 2.2 Recommended Dosage
+## 2.2 Recommended Dosage for TECENTRIQ for Locally Advanced or Metastatic Urothelial Carcinoma or Previously Treated NSCLC
 
-The recommended dosage of TECENTRIQ is 1200 mg as an intravenous infusion over 60 minutes every 3 weeks until disease progression or unacceptable toxicity.
+The recommended dosage of TECENTRIQ is 1200 mg intravenously over 60 minutes every 3 weeks until disease progression or unacceptable toxicity.
 If the first infusion is tolerated, all subsequent infusions may be delivered over 30 minutes.
 
-## 2.3 Dosage Modifications for Adverse Reactions
+## 2.3 Recommended Dosage for TECENTRIQ for First-line Treatment of Metastatic Non-squamous NSCLC
+
+The recommended dosage of TECENTRIQ is 1200 mg intravenously over 60 minutes followed by bevacizumab, paclitaxel, and carboplatin, on Day 1 of each 21-day cycle for a maximum of 4 to 6 cycles of chemotherapy.
+
+If the first infusion of TECENTRIQ is tolerated, all subsequent infusions may be delivered over 30 minutes.
+
+After completion of chemotherapy, administer TECENTRIQ 1200 mg intravenously, followed by bevacizumab on Day 1 of each 21-day cycle until disease progression or unacceptable toxicity.
+
+Refer to the Prescribing Information for bevacizumab, paclitaxel, and carboplatin for recommended dosing information.
+
+## 2.4 Dosage Modifications for Adverse Reactions
 
 No dose reductions of TECENTRIQ are recommended.
 Recommendations for dosage modifications are provided in Table 1.
@@ -36,7 +46,7 @@ Table 1: Recommended Dosage Modifications for Adverse Reactions
 | Inability to taper corticosteroid | Inability to reduce to less than or equal to prednisone 10 mg per day (or equivalent) within 12 weeks after last TECENTRIQ dose | Permanently discontinue |
 | Recurrent Grade 3 or 4 adverse reaction | Recurrent Grade 3 or 4 (severe or life-threatening) adverse reaction | Permanently discontinue |
 
-## 2.4 Preparation and Administration
+## 2.5 Preparation and Administration
 
 Preparation
 

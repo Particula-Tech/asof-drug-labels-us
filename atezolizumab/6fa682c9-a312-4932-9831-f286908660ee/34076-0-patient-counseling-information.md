@@ -2,7 +2,7 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Immune-mediated adverse reactions
+Immune-Mediated Adverse Reactions
 
 Inform patients of the risk of immune-mediated adverse reactions that may require corticosteroid treatment and interruption or discontinuation of TECENTRIQ, including:
 

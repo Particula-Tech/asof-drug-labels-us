@@ -10,10 +10,10 @@ For Intravenous Infusion After Dilution Single-Dose Vial Discard Unused Portion 
 
 Attention Pharmacist: Dispense the accompanying Medication Guide to each patient.
 
-Rx only
-
 1 vial
+
+Rx only
 
 Genentech
 
-10181373
+10199144
