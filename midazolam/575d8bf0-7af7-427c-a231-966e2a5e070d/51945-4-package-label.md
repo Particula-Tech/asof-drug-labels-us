@@ -33,3 +33,5 @@ Midazolam Injection, USP CIV 10 mg/2 mL (5 mg/mL) 10 x 2 mL Vials NDC 0641-6063-
 Midazolam Injection, USP CIV 50 mg/10 mL (5 mg/mL) 10 mL Vial NDC 0641-6060-01
 
 Midazolam Injection, USP CIV 50 mg/10 mL (5 mg/mL) 10 x 10 mL Vials NDC 0641-6060-10
+
+# SERIALIZATION IMAGE
