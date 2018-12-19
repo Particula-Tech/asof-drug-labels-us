@@ -413,4 +413,3 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Fatal anaphylaxis [see Warnings and Precautions (5.5)]
 - Stevens-Johnson Syndrome
 - Pancreatitis
-- Hypofibrinogenemia
