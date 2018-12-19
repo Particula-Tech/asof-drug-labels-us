@@ -4,6 +4,7 @@
 
 The mechanism of action of ziprasidone, as with other drugs having efficacy in schizophrenia, is unknown.
 However, it has been proposed that this drug’s efficacy in schizophrenia is mediated through a combination of dopamine type 2 (D2) and serotonin type 2 (5HT2) antagonisms.
+As with other drugs having efficacy in bipolar disorder, the mechanism of action of ziprasidone in bipolar disorder is unknown.
 
 ## 12.2 Pharmacodynamics
 

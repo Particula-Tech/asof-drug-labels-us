@@ -6,16 +6,21 @@ Read this information carefully before you take ziprasidone hydrochloride capsul
 Ask your doctor or pharmacist if you do not understand any of this information or if you want to know more about ziprasidone hydrochloride capsules.
 What are ziprasidone hydrochloride capsules?
 
-Ziprasidone hydrochloride capsules are a type of prescription medicine called a psychotropic, also known as an atypical antipsychotic.
-Ziprasidone hydrochloride capsules can be used to treat symptoms of schizophrenia.
+Ziprasidone hydrochloride capsules is a type of prescription medicine called a psychotropic, also known as an atypical antipsychotic.
+Ziprasidone hydrochloride capsules can be used to treat symptoms of schizophrenia and acute manic or mixed episodes associated with bipolar disorder.
+Ziprasidone hydrochloride capsules can also be used as maintenance treatment of bipolar disorder when added to lithium or valproate.
 Who Should Take Ziprasidone Hydrochloride Capsules?
 
 Only your doctor can know if ziprasidone hydrochloride capsules are right for you.
-Ziprasidone hydrochloride capsules may be prescribed for you if you have schizophrenia.
+Ziprasidone hydrochloride capsules may be prescribed for you if you have schizophrenia or bipolar disorder.
 
 Symptoms of schizophrenia may include:
 
 • hearing voices, seeing things, or sensing things that are not there (hallucinations) • beliefs that are not true (delusions) • unusual suspiciousness (paranoia) • becoming withdrawn from family and friends
+
+Symptoms of manic or mixed episodes of bipolar disorder may include:
+
+• extremely high or irritable mood • increased energy, activity, and restlessness • racing thoughts or talking very fast • easily distracted • little need for sleep
 
 If you show a response to ziprasidone hydrochloride capsules, your symptoms may improve.
 If you continue to take ziprasidone hydrochloride capsules there is less chance of your symptoms returning.
@@ -27,10 +32,10 @@ What is the most important safety information I should know about ziprasidone hy
 Ziprasidone hydrochloride capsules are not approved for the treatment of patients with dementia-related psychosis.
 Elderly patients with a diagnosis of psychosis related to dementia treated with antipsychotics are at an increased risk of death when compared to patients who are treated with placebo (a sugar pill).
 
-Ziprasidone hydrochloride capsule is an effective drug to treat the symptoms of schizophrenia.
+Ziprasidone hydrochloride capsule is an effective drug to treat the symptoms of schizophrenia and the manic or mixed episodes of bipolar disorder.
 However, one potential side effect is that it may change the way the electrical current in your heart works more than some other drugs.
 The change is small and it is not known whether this will be harmful, but some other drugs that cause this kind of change have in rare cases caused dangerous heart rhythm abnormalities.
-Because of this, ziprasidone hydrochloride capsules should be used only after your doctor has considered this risk for ziprasidone hydrochloride capsules against the risks and benefits of other medications available for treating schizophrenia.
+Because of this, ziprasidone hydrochloride capsules should be used only after your doctor has considered this risk for ziprasidone hydrochloride capsules against the risks and benefits of other medications available for treating schizophrenia or bipolar manic and mixed episodes.
 
 Your risk of dangerous changes in heart rhythm can be increased if you are taking certain other medicines and if you already have certain abnormal heart conditions.
 Therefore, it is important to tell your doctor about any other medicines that you take, including non-prescription medicines, supplements, and herbal medicines.
@@ -117,6 +122,6 @@ If you have any questions or want more information about ziprasidone hydrochlori
 
 Manufactured for: Macleods Pharma USA, Inc. Plainsboro, NJ08536
 
-Manufactured by: Macleods Pharmaceuticals Limited Daman (U.T.), INDIA Revision March 2017
+Manufactured by: Macleods Pharmaceuticals Limited Daman (U.T.), INDIA Revision December 2018
 
-PM02474702
+PM02474703
