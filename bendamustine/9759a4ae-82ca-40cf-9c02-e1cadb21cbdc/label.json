@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA205580"
+  ],
+  "inn": "bendamustine",
+  "labeler": "Eagle Pharmaceuticals, Inc",
+  "package_ndcs": [
+    "42367-521-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "bendamustine hydrochloride",
+      "name": "BELRAPZO"
+    }
+  ],
+  "setid": "9759a4ae-82ca-40cf-9c02-e1cadb21cbdc",
+  "source": "dailymed"
+}
