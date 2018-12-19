@@ -10,7 +10,8 @@ Table 15 Trials Conducted with GENVOYA in Subjects with HIV-1 Infection
 | --- | --- | --- | --- |
 | Study 104Randomized, double blind, active controlled trial. Study 111 | Treatment-naïve adults | GENVOYA (866) STRIBILD (867) | 144 |
 | Study 109Randomized, open label, active controlled trial. | Virologically-suppressedHIV-1 RNA less than 50 copies per mL. adults | GENVOYA (959) ATRIPLA® or TRUVADA®+atazanavir+cobicistat or ritonavir or STRIBILD (477) | 96 |
-| Study 112Open label trial. | Virologically-suppressed adults with renal impairmenteGFR of 30 to 69 mL per minute by Cockcroft-Gault method. | GENVOYA (242) | 144 |
+| Study 112Open label trial. | Virologically-suppressed adults with renal impairmentEstimated creatinine clearance between 30 and 69 mL per minute by Cockcroft-Gault method. | GENVOYA (242) | 144 |
+| Study 1825 | Virologically-suppressed adults with ESRDEnd stage renal disease (estimated creatinine clearance of less than 15 mL per minute by Cockcroft-Gault method). receiving chronic hemodialysis | GENVOYA (55) | 48 |
 | Study 106 (cohort 1) | Treatment-naïve adolescents between the ages of 12 to less than 18 years (at least 35 kg) | GENVOYA (50) | 48 |
 | Study 106 (cohort 2) | Virologically-suppressed children between the ages of 6 to less than 12 years (at least 25 kg) | GENVOYA (23) | 24 |
 
@@ -68,7 +69,9 @@ In Study 109, the mean increase from baseline in CD4+ cell count at Week 96 was 
 
 ## 14.4 Clinical Trial Results in HIV-1 Infected Subjects with Renal Impairment
 
-In Study 112, the efficacy and safety of GENVOYA once daily were evaluated in an open-label clinical trial of 248 HIV-1 infected subjects with renal impairment (eGFR of 30 to 69 mL per minute by Cockcroft-Gault method).
+Study 112: Virologically-suppressed adults with renal impairment
+
+In Study 112, the efficacy and safety of GENVOYA once daily were evaluated in an open-label clinical trial of 248 HIV-1 infected subjects with renal impairment (estimated creatinine clearance between 30 and 69 mL per minute by Cockcroft-Gault method).
 Of the 248 enrolled, 6 were treatment-naïve and 242 were virologically suppressed (HIV-1 RNA less than 50 copies per mL) for at least 6 months before switching to GENVOYA [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 The mean age was 58 years (range 24–82), with 63 subjects (26%) who were 65 years of age or older.
@@ -78,6 +81,17 @@ The mean baseline CD4+ cell count was 664 cells per mm3 (range 126–1813).
 At Week 144, 81% (197/242 virologically suppressed subjects) maintained HIV-1 RNA less than 50 copies per mL after switching to GENVOYA.
 All six treatment-naïve subjects were virologically suppressed at Week 144.
 Five subjects among the entire study population had virologic failure at Week 144.
+
+Study 1825: Virologically-suppressed adults with end stage renal disease (ESRD) receiving chronic hemodialysis
+
+In Study 1825, the efficacy and safety of GENVOYA once daily were evaluated in an open-label clinical trial of 55 virologically-suppressed (HIV-1 RNA less than 50 copies per mL for at least 6 months before switching to GENVOYA) HIV-1 infected subjects with ESRD (estimated creatinine clearance of less than 15 mL per minute by Cockcroft-Gault method) receiving chronic hemodialysis for at least 6 months [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+
+Subjects had a mean age of 48 years (range 23–64), 76% were male, 82% were Black, 18% were White, and 15% identified as Hispanic/Latino.
+The mean baseline CD4+ cell count was 545 cell per mm3 (range 205–1473).
+At Week 48, 82% (45/55) maintained HIV-1 RNA less than 50 copies per mL after switching to GENVOYA.
+Two subjects had HIV-1 RNA ≥ 50 copies per mL by Week 48.
+Seven subjects discontinued the study drug due to AE or other reasons while suppressed.
+One subject did not have an HIV-1 RNA measurement at Week 48.
 
 ## 14.5 Clinical Trial Results in HIV-1 Infected Pediatric Subjects Between the Ages of 6 to Less than 18
 

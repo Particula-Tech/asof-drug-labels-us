@@ -22,10 +22,10 @@ Tenofovir Alafenamide (TAF): In a thorough QT/QTc study in 48 healthy subjects, 
 
 Effects on Serum Creatinine
 
-The effect of cobicistat on serum creatinine was investigated in a Phase 1 study in subjects with an eGFR of at least 80 mL per minute (N=18) and with an eGFR of 50 to 79 mL per minute (N=12).
-A statistically significant change of eGFRCG from baseline was observed after 7 days of treatment with cobicistat 150 mg among subjects with an eGFR of at least 80 mL per minute (−9.9 ± 13.1 mL/min) and subjects with an eGFR of 50 to 79 mL per minute (−11.9 ± 7.0 mL per minute).
-These decreases in eGFRCG were reversible after cobicistat was discontinued.
-The actual glomerular filtration rate, as determined by the clearance of probe drug iohexol, was not altered from baseline following treatment of cobicistat among subjects with an eGFR of at least 50 mL per minute, indicating cobicistat inhibits tubular secretion of creatinine, reflected as a reduction in eGFRCG, without affecting the actual glomerular filtration rate.
+The effect of cobicistat on serum creatinine was investigated in a Phase 1 study in subjects with an estimated creatinine clearance of at least 80 mL per minute (N=18) and with an estimated creatinine clearance of 50 to 79 mL per minute (N=12).
+A statistically significant change of estimated creatinine clearance from baseline was observed after 7 days of treatment with cobicistat 150 mg among subjects with an estimated creatinine clearance of at least 80 mL per minute (−9.9 ± 13.1 mL/min) and subjects with an estimated creatinine clearance between 50 and 79 mL per minute (−11.9 ± 7.0 mL per minute).
+These decreases in estimated creatinine clearance were reversible after cobicistat was discontinued.
+The actual glomerular filtration rate, as determined by the clearance of probe drug iohexol, was not altered from baseline following treatment of cobicistat among subjects with an estimated creatinine clearance of at least 50 mL per minute, indicating cobicistat inhibits tubular secretion of creatinine, reflected as a reduction in estimated creatinine clearance without affecting the actual glomerular filtration rate.
 
 ## 12.3 Pharmacokinetics
 
@@ -101,17 +101,16 @@ No clinically significant differences in pharmacokinetics of GENVOYA have been i
 
 Patients with Renal Impairment
 
-The pharmacokinetics of GENVOYA in HIV-1 infected subjects with mild or moderate renal impairment (eGFR of 30 to 69 mL per minute by Cockcroft-Gault method) were evaluated in a subset of virologically suppressed subjects in an open-label trial, Study 112.
-The pharmacokinetics of elvitegravir, cobicistat, and tenofovir alafenamide were similar between healthy subjects and subjects with mild or moderate renal impairment.
-Increases in emtricitabine and tenofovir exposures in subjects with mild and moderate renal impairment were not considered clinically relevant (Table 10).
+The pharmacokinetics of GENVOYA in HIV-1 infected subjects with mild or moderate renal impairment (estimated creatinine clearance between 30 and 69 mL per minute by Cockcroft-Gault method), and in HIV-1 infected subjects with ESRD (estimated creatinine clearance of less than 15 mL per minute by Cockcroft-Gault method) receiving chronic hemodialysis were evaluated in subsets of virologically suppressed subjects in respective open-label trials, Study 112 and Study 1825.
+The pharmacokinetics of elvitegravir, cobicistat, and tenofovir alafenamide were similar among healthy subjects, subjects with mild or moderate renal impairment, and subjects with ESRD receiving chronic hemodialysis; increases in emtricitabine and tenofovir exposures in subjects with renal impairment were not considered clinically relevant (Table 10).
 
 Table 10 Pharmacokinetics of GENVOYA in HIV-Infected Adults with Renal Impairment as Compared to Subjects with Normal Renal Function
 
-| Creatinine Clearance | ≥90 mL per minute (N=18)From a Phase 2 study in HIV-infected adults with normal renal function. | 60–89 mL per minute (N=11)These subjects from Study 112 had an eGFR ranging from 60 to 69 mL per minute. | 30–59 mL per minute (N=18)Study 112. |
-| --- | --- | --- | --- |
-|  | AUCtau (microgram∙hour per mL) Mean (CV%) |  |  |
-| Emtricitabine | 11.4 (11.9) | 17.6 (18.2) | 23.0 (23.6) |
-| Tenofovir | 0.32 (14.9) | 0.46 (31.5) | 0.61 (28.4) |
+| Estimated Creatinine ClearanceBy Cockcroft-Gault method. | ≥90 mL per minute (N=18)From a Phase 2 study in HIV-infected adults with normal renal function. | 60–89 mL per minute (N=11)These subjects from Study 112 had an estimated creatinine clearance between 60 and 69 mL per minute. | 30–59 mL per minute (N=18)Study 112. | <15 mL per minute (N=12)Study 1825; PK assessed prior to hemodialysis following 3 consecutive daily doses of GENVOYA. |
+| --- | --- | --- | --- | --- |
+|  | AUCtau (microgram∙hour per mL) Mean (CV%) |  |  |  |
+| Emtricitabine | 11.4 (11.9) | 17.6 (18.2) | 23.0 (23.6) | 62.9 (48.0)N=11. |
+| Tenofovir | 0.32 (14.9) | 0.46 (31.5) | 0.61 (28.4) | 8.72 (39.4)N=10. |
 
 Patients with Hepatic Impairment
 

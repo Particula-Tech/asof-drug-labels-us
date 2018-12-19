@@ -2,7 +2,7 @@
 
 ## 5.1 Severe Acute Exacerbation of Hepatitis B in Patients Coinfected with HIV-1 and HBV
 
-Patients with HIV-1 should be tested for the presence of hepatitis B virus (HBV) before initiating antiretroviral therapy [see Dosage and Administration (2.1)].
+Patients with HIV-1 should be tested for the presence of hepatitis B virus (HBV) before or when initiating antiretroviral therapy [see Dosage and Administration (2.1)].
 
 Severe acute exacerbations of hepatitis B (e.g., liver decompensation and liver failure) have been reported in patients who are coinfected with HIV-1 and HBV and have discontinued products containing emtricitabine and/or tenofovir disoproxil fumarate (TDF), and may occur with discontinuation of GENVOYA.
 Patients coinfected with HIV-1 and HBV who discontinue GENVOYA should be closely monitored with both clinical and laboratory follow-up for at least several months after stopping treatment.
@@ -29,9 +29,9 @@ Autoimmune disorders (such as Graves' disease, polymyositis, and Guillain-Barré
 
 Renal impairment, including cases of acute renal failure and Fanconi syndrome (renal tubular injury with severe hypophosphatemia), has been reported with the use of tenofovir prodrugs in both animal toxicology studies and human trials.
 In clinical trials of GENVOYA, there have been no cases of Fanconi syndrome or Proximal Renal Tubulopathy (PRT).
-In clinical trials of GENVOYA in treatment-naïve subjects and in virologically suppressed subjects switched to GENVOYA with eGFRs greater than 50 mL per minute, renal serious adverse events or discontinuations due to renal adverse reactions were encountered in less than 1% of participants treated with GENVOYA.
-In a study of virologically suppressed subjects with baseline eGFRs between 30 and 69 mL per minute treated with GENVOYA for a median duration of 144 weeks, GENVOYA was permanently discontinued due to worsening renal function in three of 80 (4%) subjects with a baseline eGFR between 30 and 50 mL per minute and two of 162 (1%) with a baseline eGFR greater than or equal to 50 mL per minute [see Adverse Reactions (6.1)].
-GENVOYA is not recommended in patients with estimated creatinine clearance below 30 mL per minute.
+In clinical trials of GENVOYA in treatment-naïve subjects and in virologically suppressed subjects switched to GENVOYA with estimated creatinine clearance greater than 50 mL per minute, renal serious adverse events or discontinuations due to renal adverse reactions were encountered in less than 1% of participants treated with GENVOYA.
+In a study of virologically suppressed subjects with baseline estimated creatinine clearance between 30 and 69 mL per minute treated with GENVOYA for a median duration of 144 weeks, GENVOYA was permanently discontinued due to worsening renal function in three of 80 (4%) subjects with a baseline estimated creatinine clearance between 30 and 50 mL per minute and two of 162 (1%) with a baseline estimated creatinine clearance greater than or equal to 50 mL per minute [see Adverse Reactions (6.1)].
+GENVOYA is not recommended in patients with estimated creatinine clearance of 15 to below 30 mL per minute, or in patients with estimated creatinine clearance below 15 mL per minute who are not receiving chronic hemodialysis.
 
 Patients taking tenofovir prodrugs who have impaired renal function and those taking nephrotoxic agents including non-steroidal anti-inflammatory drugs are at increased risk of developing renal-related adverse reactions.
 

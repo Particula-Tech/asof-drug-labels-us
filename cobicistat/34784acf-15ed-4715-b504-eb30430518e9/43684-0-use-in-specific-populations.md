@@ -12,12 +12,12 @@ Risk Summary
 GENVOYA is not recommended during pregnancy [see Dosage and Administration (2.5)].
 A literature report evaluating the pharmacokinetics of antiretrovirals during pregnancy demonstrated substantially lower exposures of elvitegravir and cobicistat in the second and third trimesters (see Data).
 
-Prospective pregnancy data from the APR are not sufficient to adequately assess the risk of birth defects of miscarriage.
-However, elvitegravir, cobicistat, emtricitabine, and TAF use during pregnancy have been evaluated in a limited number of women as reported to the APR.
+Prospective pregnancy data from the APR are not sufficient to adequately assess the risk of birth defects or miscarriage.
+However, elvitegravir, cobicistat, emtricitabine, and TAF use during pregnancy have been evaluated in a limited number of individuals as reported to the APR.
 Available data from the APR show no increase in the overall risk of major birth defects for emtricitabine or cobicistat compared with the background rate for major birth defects of 2.7% in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP).
 The number of exposures to TAF and elvitegravir are insufficient to make a risk assessment compared to a reference population (see Data).
 The rate of miscarriage is not reported in the APR.
-In the U.S. general population, the estimated background risk of miscarriage in clinically recognized pregnancies is 15–20%.
+In the U.S. general population, the estimated background risk of miscarriage in clinically recognized pregnancies is 15-20%.
 
 In animal studies, no adverse developmental effects were observed when the components of GENVOYA were administered separately during the period of organogenesis at exposures up to 23 and 0.2 times (rat and rabbits, respectively: elvitegravir), 1.6 and 3.8 times (rats and rabbits, respectively: cobicistat), 60 and 108 times (mice and rabbits, respectively; emtricitabine) and equal to and 53 times (rats and rabbits, respectively; TAF) the exposure at the recommended daily dosage of these components in GENVOYA (see Data).
 Likewise, no adverse developmental effects were seen when elvitegravir or cobicistat was administered to rats through lactation at exposures up to 18 times or 1.2 times, respectively, the human exposure at the recommended therapeutic dose, and when emtricitabine was administered to mice through lactation at exposures up to approximately 60 times the exposure at the recommended daily dose.
@@ -27,7 +27,7 @@ Data
 
 Human Data
 
-A prospective study, reported in the literature, enrolled 30 pregnant women living with HIV who were receiving elvitegravir and cobicistat-based regimens in the second or third trimesters of pregnancy and through 6 to 12 weeks postpartum to evaluate the pharmacokinetics (PK) of antiretrovirals during pregnancy..
+A prospective study, reported in the literature, enrolled 30 pregnant women living with HIV who were receiving elvitegravir and cobicistat-based regimens in the second or third trimesters of pregnancy and through 6 to 12 weeks postpartum to evaluate the pharmacokinetics (PK) of antiretrovirals during pregnancy.
 Twenty-eight women completed the study through the postpartum period.
 Paired pregnancy/postpartum PK data were available from 14 and 24 women for the second and third trimesters, respectively.
 Exposures of elvitegravir and cobicistat were substantially lower during the second and third trimesters compared to postpartum.
@@ -48,7 +48,8 @@ The number of exposures is insufficient to make a risk assessment compared to a 
 Cobicistat:
 
 Based on prospective reports to the APR of 204 first trimester exposures to cobicistat-containing regimens during pregnancy, there was no increase in overall major birth defects with cobicistat compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
-The prevalence of birth defects in live births was 2.5% (95% CI: 0.8% to 5.6%) with first trimester exposure to cobicistat-containing regimens; The 58 second/third trimester cobicistat exposures reported to the APR are insufficient to make a risk assessment.
+The prevalence of birth defects in live births was 2.5% (95% CI: 0.8% to 5.6%) with first trimester exposure to cobicistat-containing regimens.
+The 58 second/third trimester cobicistat exposures reported to the APR are insufficient to make a risk assessment.
 
 Emtricitabine (FTC):
 
@@ -145,11 +146,14 @@ No differences in safety or efficacy have been observed between elderly subjects
 
 ## 8.6 Renal Impairment
 
-The pharmacokinetics, safety, and virologic and immunologic responses of GENVOYA in HIV-1 infected adult subjects with renal impairment (eGFR of 30 to 69 mL per minute by Cockcroft-Gault method) were evaluated in 248 subjects in an open-label trial, Study 112 [see Adverse Reactions (6.1) and Clinical Studies (14.4)].
+The pharmacokinetics, safety, and virologic and immunologic responses of GENVOYA in HIV-1 infected adult subjects with renal impairment (estimated creatinine clearance between 30 and 69 mL per minute by Cockcroft-Gault method) were evaluated in 248 subjects in an open-label trial, Study 112.
 
-GENVOYA is not recommended in patients with severe renal impairment (estimated creatinine clearance below 30 mL per minute).
-No dosage adjustment of GENVOYA is recommended in patients with estimated creatinine clearance greater than or equal to 30 mL per minute.
-The safety of GENVOYA has not been established in patients with estimated creatinine clearance that declines below 30 mL per minute [see Dosage and Administration (2.3), Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)].
+The pharmacokinetics, safety, virologic and immunologic responses of GENVOYA in HIV-1 infected adult subjects with ESRD (estimated creatinine clearance of less than 15 mL per minute by Cockcroft-Gault method) receiving chronic hemodialysis were evaluated in 55 subjects in an open-label trial, Study 1825 [see Adverse Reactions (6.1) and Clinical Studies (14.4)].
+
+No dosage adjustment of GENVOYA is recommended in patients with estimated creatinine clearance greater than or equal to 30 mL per minute, or in adult patients with ESRD (estimated creatinine clearance below 15 mL per minute) who are receiving chronic hemodialysis.
+On days of hemodialysis, administer GENVOYA after completion of hemodialysis treatment [see Dosage and Administration (2.2)].
+
+GENVOYA is not recommended in patients with severe renal impairment (estimated creatinine clearance of 15 to below 30 mL per minute), or in patients with ESRD who are not receiving chronic hemodialysis, as the safety of GENVOYA has not been established in these populations [see Dosage and Administration (2.3), Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 

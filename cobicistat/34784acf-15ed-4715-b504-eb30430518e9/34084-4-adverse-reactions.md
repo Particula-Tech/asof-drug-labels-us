@@ -40,13 +40,20 @@ Additional adverse reactions observed with GENVOYA in Study 109 included suicida
 
 Clinical Trials in Adult Subjects with Renal Impairment
 
-In an open-label trial (Study 112), 248 HIV-1 infected subjects with eGFR of 30 to 69 mL per minute (by Cockcroft-Gault method) were treated with GENVOYA for a median duration of 144 weeks.
+In an open-label trial (Study 112), 248 HIV-1 infected subjects with estimated creatinine clearance between 30 and 69 mL per minute (by Cockcroft-Gault method) were treated with GENVOYA for a median duration of 144 weeks.
 Of these subjects, 65% had previously been on a stable TDF-containing regimen.
 A total of 5 subjects permanently discontinued GENVOYA due to the development of renal adverse events through Week 96.
-Three of these five were among the 80 subjects with baseline eGFRs of < 50mL/min and two subjects were among the 162 subjects with baseline eGFRs of ≥ 50mL/min.
+Three of these five were among the 80 subjects with baseline estimated creatinine clearance of less than 50 mL/min and two subjects were among the 162 subjects with baseline estimated creatinine clearance of greater than or equal to 50 mL/min.
 There were no further renal discontinuations between Weeks 96 and 144.
 Overall, renally impaired subjects receiving GENVOYA in this study had a mean serum creatinine of 1.5 mg/dL at baseline and 1.4 mg/dL at Week 144.
-Otherwise, the safety profile of GENVOYA in subjects in this study was similar to that of subjects with normal renal function [see Clinical Studies (14.4)].
+Otherwise, the safety profile of GENVOYA in subjects in this study was similar to that of subjects with normal renal function.
+
+Virologically-Suppressed Adults with End Stage Renal Disease (ESRD) Receiving Chronic Hemodialysis
+
+The safety of GENVOYA in subjects with end stage renal disease (ESRD) (estimated creatinine clearance of less than 15 mL/min) on chronic hemodialysis was assessed in 55 subjects (Study 1825) [see Clinical Studies (14.4)].
+The most commonly reported adverse reaction (adverse event assessed as causally related by investigator and all grades) was nausea (7%).
+Serious adverse events were reported in 53% of subjects and the most common serious adverse events were pneumonia (13%), fluid overload (7%), hyperkalemia (7%) and osteomyelitis (7%).
+Overall 5% of subjects permanently discontinued treatment due to an adverse event.
 
 Renal Laboratory Tests and Renal Safety
 
@@ -55,11 +62,11 @@ Treatment-Naïve Adults:
 Cobicistat (a component of GENVOYA) has been shown to increase serum creatinine due to inhibition of tubular secretion of creatinine without affecting glomerular filtration [see Clinical Pharmacology (12.2)].
 Increases in serum creatinine occurred by Week 2 of treatment and remained stable through 144 weeks.
 
-In two 144-week randomized, controlled trials in a total of 1,733 treatment-naïve adults with a median baseline eGFR of 115 mL per minute, mean serum creatinine increased by less than 0.1 mg per dL in the GENVOYA group and by 0.1 mg per dL in the STRIBILD group from baseline to Week 144.
+In two 144-week randomized, controlled trials in a total of 1,733 treatment-naïve adults with a median baseline estimated creatinine clearance of 115 mL per minute, mean serum creatinine increased by less than 0.1 mg per dL in the GENVOYA group and by 0.1 mg per dL in the STRIBILD group from baseline to Week 144.
 
 Virologically Suppressed Adults:
 
-In a study of 1,436 virologically-suppressed TDF-treated adults with a mean baseline eGFR of 112 mL per minute who were randomized to continue their treatment regimen or switch to GENVOYA, at Week 96 mean serum creatinine was similar to baseline for both those continuing baseline treatment and those switching to GENVOYA.
+In a study of 1,436 virologically-suppressed TDF-treated adults with a mean baseline estimated creatinine clearance of 112 mL per minute who were randomized to continue their treatment regimen or switch to GENVOYA, at Week 96 mean serum creatinine was similar to baseline for both those continuing baseline treatment and those switching to GENVOYA.
 
 Bone Mineral Density Effects
 
@@ -151,3 +158,12 @@ Table 4 Mean Change in CD4+ Count and Percentage from Baseline to Week 24 in Vir
 |  | Baseline | Mean Change from Baseline |  |  |  |
 | CD4+ Cell Count (cells/mm3) | 966 (201.7)Mean (SD) | -162 | -125 | -162 | -150 |
 | CD4% | 40 (5.3) | +0.5% | -0.1% | -0.8% | -1.5% |
+
+## 6.2 Postmarketing Experience
+
+The following events have been identified during post approval use of products containing TAF, including GENVOYA.
+Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Skin and Subcutaneous Tissue Disorders
+
+Angioedema, urticaria, and rash
