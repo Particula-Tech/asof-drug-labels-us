@@ -17,17 +17,17 @@ What should I tell my doctor before using EXTINA® Foam?
 
 For female patients, tell your doctor if you:
 
-- are pregnant or become pregnant.
+- •are pregnant or become pregnant.
   It is not known if EXTINA® Foam can harm a fetus (unborn baby).
-- breastfeeding.
+- •breastfeeding.
   It is not known if EXTINA® Foam passes into breast milk.
 
 How should I use EXTINA® Foam?
 
-- Apply EXTINA® Foam exactly as prescribed.
+- •Apply EXTINA® Foam exactly as prescribed.
   EXTINA® Foam is usually applied to the affected skin areas two times a day (once in the morning and once at night) for 4 weeks.
   Talk to your doctor if your skin does not improve after 4 weeks of treatment with EXTINA® Foam.
-- Keep the EXTINA® Foam can away from and do not spray it near fire, open flame, or direct heat.
+- •Keep the EXTINA® Foam can away from and do not spray it near fire, open flame, or direct heat.
   EXTINA® Foam is flammable.
   Never throw the EXTINA® Foam can into a fire, even if the can is empty.
 
@@ -47,16 +47,16 @@ Ask your doctor or pharmacist for more information.
 
 How should I store EXTINA® Foam?
 
-- EXTINA® Foam is flammable.
-- Do not spray EXTINA® Foam near fire or direct heat.
+- •EXTINA® Foam is flammable.
+- •Do not spray EXTINA® Foam near fire or direct heat.
   Never throw the can into a fire, even if the can is empty.
-- Store the can of EXTINA® Foam at room temperature, 68° to 77°F (20°-25°C).
+- •Store the can of EXTINA® Foam at room temperature, 68° to 77°F (20°-25°C).
   Do not place the EXTINA® Foam can in the refrigerator or freezer.
-- Keep the EXTINA® Foam can away from all sources of fire and heat.
+- •Keep the EXTINA® Foam can away from all sources of fire and heat.
   Do not leave the EXTINA® Foam can in direct sunlight.
-- Do not smoke while holding the EXTINA® Foam can or while spraying or applying the foam.
-- Do not pierce or burn the EXTINA® Foam can.
-- Keep EXTINA® Foam and all medicines out of the reach of children.
+- •Do not smoke while holding the EXTINA® Foam can or while spraying or applying the foam.
+- •Do not pierce or burn the EXTINA® Foam can.
+- •Keep EXTINA® Foam and all medicines out of the reach of children.
 
 General information about EXTINA® Foam
 
