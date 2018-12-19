@@ -4,10 +4,10 @@ In clinical trials, the most common adverse reactions (2%) are transient hypoten
 
 The following adverse reactions are described, or described in greater detail, in other sections:
 
-- •Anaphylaxis [see WARNINGS AND PRECAUTIONS (5.2)]
-- •Residual paralysis [see WARNINGS AND PRECAUTIONS (5.4)]
-- •Myopathy [see WARNINGS AND PRECAUTIONS (5.5)]
-- •Increased pulmonary vascular resistance [see WARNINGS AND PRECAUTIONS (5.11)]
+- •Anaphylaxis [see Warnings and Precautions (5.2)]
+- •Residual paralysis [see Warnings and Precautions (5.5)]
+- •Myopathy [see Warnings and Precautions (5.6)]
+- •Increased pulmonary vascular resistance [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -40,6 +40,6 @@ In pediatric patient studies worldwide (n=704), tachycardia occurred at an incid
 
 ## 6.2 Post-Marketing Experience
 
-In clinical practice, there have been reports, of severe allergic reactions (anaphylactic and anaphylactoid reactions and shock) with rocuronium bromide, including some that have been life-threatening and fatal [see WARNINGS AND PRECAUTIONS (5.2)].
+In clinical practice, there have been reports, of severe allergic reactions (anaphylactic and anaphylactoid reactions and shock) with rocuronium bromide, including some that have been life-threatening and fatal [see Warnings and Precautions (5.2)].
 
 Because these reactions were reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency.
