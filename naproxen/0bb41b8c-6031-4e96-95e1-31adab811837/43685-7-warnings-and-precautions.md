@@ -13,7 +13,7 @@ Symptoms may include:
 
 If an allergic reaction occurs, stop use and seek medical help right away.
 
-Stomach bleeding warning: This product contains an (NSAID), which may cause severe stomach bleeding.
+Stomach bleeding warning: This product contains an NSAID, which may cause severe stomach bleeding.
 The chance is higher if you:
 
 - are age 60 or older
@@ -23,46 +23,6 @@ The chance is higher if you:
 - have 3 or more alcoholic drinks every day while using this product
 - take more or for a longer time than directed
 
-Do not use
-
-- if you have ever had an allergic reaction to any other pain reliever/fever reducer
-- right before or after heart surgery
-
-Ask a doctor before use if you have
-
-- the stomach bleeding problems apply to you
-- you have a history of stomach problems, such as heartburn
-- you have high blood pressure, heart disease, liver cirrhosis, or kidney disease
-- you are taking a diuretic
-- you have problems or serious side effects from taking pain relievers or fever reducers
-- you have asthma
-
-Ask a doctor or pharmacist before use if you are
-
-- under a doctor’s care for any serious condition
-- taking any other drug
-
-When using this product
-
-- take with food or milk if stomach upset occurs
-- the risk of heart attack or stroke may increase if you use more than directed or for longer than directed
-
-Stop use and ask a doctor if
-
-- you experience any of the following signs of stomach bleeding
-- feel faint
-- vomit blood
-- have bloody or black stools
-- have stomach pain that does not get better
-- pain gets worse or lasts more than 10 days
-- fever gets worse or lasts more than 3 days
-- you have difficulty swallowing
-- it feels like the pill is stuck in your throat
-- redness or swelling is present in the painful area
-- any new symptoms appear
-
-If pregnant or breast-feeding, ask a health professional before use.
-It is especially important not to use naproxen sodium during the last 3 months of pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery.
-
-Keep out of reach of children.
-In case of overdose, get medical help or contact a Poison Control Center right away.
+Heart attack and stroke warning: NSAID, except aspirin, increase the risk of heart attack, heart failure, and stroke.
+These can be fatal.
+The risk is higher if you use more than directed or for longer than directed.

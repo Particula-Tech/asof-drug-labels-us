@@ -3,11 +3,13 @@
     "ANDA079096"
   ],
   "inn": "naproxen",
-  "labeler": "Amneal Pharmaceuticals",
+  "labeler": "Amneal Pharmaceuticals of New York LLC",
   "package_ndcs": [
     "53746-191-05",
+    "53746-191-08",
     "53746-191-24",
     "53746-192-05",
+    "53746-192-08",
     "53746-192-24"
   ],
   "products": [

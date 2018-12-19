@@ -1,8 +1,8 @@
 # ACTIVE INGREDIENT
 
-(in each Tablet)
+(in each tablet)
 
-Naproxen sodium 220 mg
+Naproxen sodium USP, 220 mg
 
 (naproxen 200 mg) (NSAID)*
 

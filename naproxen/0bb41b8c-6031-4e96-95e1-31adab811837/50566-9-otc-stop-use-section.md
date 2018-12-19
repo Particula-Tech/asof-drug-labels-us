@@ -1,0 +1,22 @@
+# STOP USE
+
+Stop use and ask a doctor if
+
+- you experience any of the following signs of stomach bleeding:
+- feel faint
+- vomit blood
+- have bloody or black stools
+- have stomach pain that does not get better
+
+- you have symptoms of heart problems or stroke:
+- chest pain
+- trouble breathing
+- weakness in one part or side of body
+- slurred speech
+- leg swelling
+- pain gets worse or lasts more than 10 days
+- fever gets worse or lasts more than 3 days
+- you have difficulty swallowing
+- it feels like the pill is stuck in your throat
+- redness or swelling is present in the painful area
+- any new symptoms appear
