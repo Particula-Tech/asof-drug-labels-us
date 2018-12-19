@@ -46,8 +46,8 @@ The following dose equivalency scheme should generally provide equivalent exposu
 | 6 mg/kg | 200 mg |
 | 12* mg/kg | 400 mg |
 
-1. * Some older children may have clearances similar to that of adults.
-   Absolute doses exceeding 600 mg/day are not recommended.
+- * Some older children may have clearances similar to that of adults.
+  Absolute doses exceeding 600 mg/day are not recommended.
 
 Experience with fluconazole in neonates is limited to pharmacokinetic studies in premature newborns.
 (See CLINICAL PHARMACOLOGY.)
@@ -91,13 +91,14 @@ When serum creatinine is the only measure of renal function available, the follo
 
 Males: Weight (kg) × (140 – age)______
 
-1. 72 × serum creatinine (mg/100 mL)
-2. Females: 0.85 × above value
+- 72 × serum creatinine (mg/100 mL)
+
+1. Females: 0.85 × above value
 
 Although the pharmacokinetics of fluconazole has not been studied in children with renal insufficiency, dosage reduction in children with renal insufficiency should parallel that recommended for adults.
 The following formula may be used to estimate creatinine clearance in children:
 
-1. K × linear len gth or hei ght (cm)
+1. K × linear len g th or hei g ht (cm)
 2. serum creatinine (mg/100 mL)
 
 (Where K=0.55 for children older than 1 year and 0.45 for infants.)

@@ -58,46 +58,46 @@ The enzyme inhibiting effect of fluconazole persists 4 to 5 days after discontin
 Clinically or potentially significant drug interactions between fluconazole and the following agents/classes have been observed.
 These are described in greater detail below:
 
-1. Oral hypoglycemics
-2. Coumarin-type anticoagulants
-3. Phenytoin
-4. Cyclosporine
-5. Rifampin
-6. Theophylline
-7. Terfenadine
-8. Cisapride
-9. Astemizole
-10. Rifabutin
-11. Voriconazole
-12. Tacrolimus
-13. Short-acting benzodiazepines
-14. Tofacitinib
-15. Triazolam
-16. Oral Contraceptives
-17. Pimozide
-18. Quinidine
-19. Hydrochlorothiazide
-20. Alfentanil
-21. Amiodarone
-22. Amitriptyline, nortriptyline
-23. Amphotericin B
-24. Azithromycin
-25. Carbamazepine
-26. Calcium Channel Blockers
-27. Celecoxib
-28. Cyclophosphamide
-29. Fentanyl
-30. Halofantrine
-31. HMG-CoA reductase inhibitors
-32. Losartan
-33. Methadone
-34. Non-steroidal anti-inflammatory drugs
-35. Prednisone
-36. Saquinavir
-37. Sirolimus
-38. Vinca Alkaloids
-39. Vitamin A
-40. Zidovudine
+- Oral hypoglycemics
+- Coumarin-type anticoagulants
+- Phenytoin
+- Cyclosporine
+- Rifampin
+- Theophylline
+- Terfenadine
+- Cisapride
+- Astemizole
+- Rifabutin
+- Voriconazole
+- Tacrolimus
+- Short-acting benzodiazepines
+- Tofacitinib
+- Triazolam
+- Oral Contraceptives
+- Pimozide
+- Quinidine
+- Hydrochlorothiazide
+- Alfentanil
+- Amiodarone
+- Amitriptyline, nortriptyline
+- Amphotericin B
+- Azithromycin
+- Carbamazepine
+- Calcium Channel Blockers
+- Celecoxib
+- Cyclophosphamide
+- Fentanyl
+- Halofantrine
+- HMG-CoA reductase inhibitors
+- Losartan
+- Methadone
+- Non-steroidal anti-inflammatory drugs
+- Prednisone
+- Saquinavir
+- Sirolimus
+- Vinca Alkaloids
+- Vitamin A
+- Zidovudine
 
 Oral hypoglycemics: Clinically significant hypoglycemia may be precipitated by the use of fluconazole with oral hypoglycemic agents; one fatality has been reported from hypoglycemia in association with combined fluconazole and glyburide use.
 Fluconazole reduces the metabolism of tolbutamide, glyburide, and glipizide and increases the plasma concentration of these agents.
