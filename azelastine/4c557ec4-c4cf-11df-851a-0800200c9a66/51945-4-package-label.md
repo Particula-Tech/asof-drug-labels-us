@@ -6,13 +6,17 @@ Dymista® (azelastine hydrochloride and fluticasone propionate)
 
 Nasal Spray
 
-137 mcg / 50 mcg per spray 120 Metered Sprays
+137 mcg / 50 mcg per spray
+
+120 Metered Sprays
 
 FOR INTRANASAL USE ONLY
 
 Rx Only
 
 23 g net fill weight
+
+Shake the bottle gently before each use.
 
 Each spray delivers 0.137 mL (137 mcg azelastine hydrochloride and 50 mcg fluticasone propionate).
 
@@ -45,7 +49,7 @@ Discard after 120 actuations.
 
 For assistance call 1-888-939-6478 www.DYMISTA.com
 
-DYMISTA is a registered trademark of Meda Pharmaceuticals Inc.
+DYMISTA is a registered trademark of Meda Pharmaceuticals Inc., a Mylan company
 
 Shake the bottle gently before each use.
 
@@ -58,11 +62,11 @@ FOR INTRANASAL USE ONLY
 Manufactured by: Cipla Ltd., Goa, India, M.L.
 No. 546
 
-For: Meda Pharmaceuticals Inc. Somerset, New Jersey 08873-4120
+For: Meda Pharmaceuticals Inc. Somerset, NJ 08873-4120
 
-©2017 Meda Pharmaceuticals Inc.
+©2018 Mylan Specialty L.P.
 
-UC-023A6-05 Rev.
-4/2017
+UC-023A6-06 Rev.
+4/2018
 
-U.S. Patents 8,163,723; 8,168,620
+U.S. Patents 8,163,723; 8,168,620; 9,259,428; 9,901,585
