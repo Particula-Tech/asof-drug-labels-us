@@ -1,77 +1,102 @@
-PATIENT INSTRUCTION GUIDE
+# Patient Information
 
 Desmopressin Nasal Spray, USP 0.01%
 
-Rx Only
+(des·mo·pres·sin)
 
-A better way to deliver Desmopressin Nasal Spray, USP
+for Intranasal Use Only
 
-Delivering Desmopressin Nasal Spray, USP more efficiently Your doctor has prescribed desmopressin nasal spray, USP as antidiuretic hormone replacement therapy.
-Follow the dosage schedule that is specified.
-The convenient nasal spray pump provides an efficient, reliable way to administer your medication.
-It is important, however, to adhere completely to the following instructions so that you will always receive a consistent dose of your medication.
+What is desmopressin nasal spray?
 
-NOTE: In the event that the pharmacist has not assembled the spray pump, unscrew the white cap from the solution bottle and screw the spray pump tightly onto the bottle.
-Make sure the protective cap is on the spray pump.
+Desmopressin nasal spray is a prescription medicine called a vasopressin analog used as an antidiuretic replacement to manage central diabetes insipidus.
 
-CAUTION: The nasal spray pump accurately delivers 50 doses of 10 micrograms each.
-Any solution remaining after 50 doses should be discarded since the amount delivered thereafter per actuation may be substantially less than 10 micrograms of drug.
-Do not transfer any remaining solution to another bottle.
-Please read the following instructions carefully before using the spray pump.
+- Desmopressin nasal spray is not effective in the treatment of nephrogenic diabetes insipidus.
+- Desmopressin nasal spray should not be used in people with nasal problems that may keep them from using a nasal spray.
 
-Ensure that in children administration is under adult supervision in order to control the dose intake.
+Who should not use desmopressin nasal spray ?
 
-If you accidentally deliver/administer too much of a dose, immediately telephone your doctor or a certified Regional Poison Center for advice.
-Possible signs of overdose may include confusion, drowsiness, continuing headache, problems with passing urine and rapid weight gain due to fluid retention.
+Do not use desmopressin nasal spray if you:
 
-Using your Desmopressin nasal spray, USP Pump
+- are allergic to desmopressin or any of the ingredients in desmopressin nasal spray.
+  Some people have had severe allergic reactions while taking desmopressin nasal spray.
+  See the end of this Patient Information for a complete list of ingredients in desmopressin nasal spray.
+- have kidney problems
+- have or have had low levels of sodium in your blood (hyponatremia)
 
-1.
-Remove protective cap.
+What should I tell my healthcare provider before using desmopressin nasal spray?
+Before using desmopressin nasal spray, tell your healthcare provider about all your medical conditions including if you:
 
-2.
-The spray pump must be primed prior to the first use.
-To prime pump, press down 4 times.
+- have or have had nasal sores, nasal surgery, nasal injury, or have problems such as a stuffy nose or trouble breathing through your nose.
+- have or have had any heart, blood circulation, or blood pressure problems
+- have a condition that causes fluid or water imbalance problems such as cystic fibrosis, or heart failure.
+- have or have had a condition that causes you to be very thirsty
+- are pregnant or plan to become pregnant.
+  It is not known if desmopressin will harm your unborn baby.
+- are breastfeeding or plan to breastfeed.
+  It is not known if desmopressin passes into your breast milk.
+  You and your healthcare provider should decide if you will use desmopressin nasal spray.
 
-3.
-Once primed, the spray pump delivers 10 micrograms of medication each time it is pressed.
-To ensure dosing accuracy, tilt bottle so that dip tube inside the bottle draws from the deepest portion of the medication.
-To administer a 10-microgram dose, place the spray nozzle in nostril and press the spray pump once.
-If a higher dose has been prescribed, spray half the dose in each nostril.
-The spray pump cannot be used for doses less than 10 micrograms or doses other than multiples of 10 micrograms.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
-4.
-Replace the protective cap on bottle after use.
-The pump will stay primed for up to one week.
-If the product has not been used for a period of one week, re-prime the pump by pressing once.
+How should I use desmopressin nasal spray?
 
-5.
-We have included a convenient check-off chart to assist you in keeping track of medication doses used.
-This will help assure that you receive 50 "full doses" of medication.
-Please note that the bottle has been filled with extra solution to accommodate the initial priming activity.
+- Read the Instructions for Use that comes with your desmopressin nasal spray.
+- Use desmopressin nasal spray exactly as your healthcare provider tells you to use it.
+- Your healthcare provider may change your dose of desmopressin nasal spray if needed.
 
-1.
-Retain with medication or affix in convenient location.
+What are the possible side effects of desmopressin nasal spray?
 
-2.
-Starting with dose #1, check off after each administration.
+Desmopressin nasal spray may cause serious side effects including:
 
-3.
-Discard medication after 50 doses.
+- low levels of sodium in the blood (hyponatremia).
+  People using desmopressin nasal spray are at risk for low sodium levels in the blood, water intoxication, and fluid overload.
+  Follow your healthcare provider’s instructions on limiting the amount of fluid you can drink when using desmopressin nasal spray.
+- Do not drink more than you need to satisfy your thirst.
+  You can have serious side effects such as seizures, coma, and death from drinking too much fluid.
+- Children and the elderly are at higher risk for these problems and should follow their healthcare provider’s limits on drinking fluids.
+- Call your healthcare provider right away if you have any of the following symptoms while using desmopressin nasal spray.
+  They may mean that your blood sodium level is too low.
+- headache
+- nausea, vomiting
+- weight gain
+- restlessness
+- tiredness
+- sleepiness
+- disorientation
+- loss of appetite
+- feeling irritable
+- feeling weak
+- muscle cramps
+- hallucinations
+- confusion
+- nasal scarring or swelling.
+  Some people using desmopressin nasal spray for long periods of time may have nasal problems such as scarring or swelling.
+  This may affect how well desmopressin nasal spray works for you.
+  The most common side effects of desmopressin nasal spray include: headache, stuffy nose, runny nose, nosebleed, sore throat, cough, upper respiratory infections, nausea, flushing, and stomach cramps.
+  Call your doctor for medical advice about side effects.
+  You may report side effects to FDA at 1-800-FDA-1088.
 
-Store at 25°C (77°F) [see USP Controlled Room Temperature]; excursions permitted from 15° to 30°C (59° to 86°F).
-STORE BOTTLE IN UPRIGHT POSITION.
+General information about the safe and effective use of desmopressin nasal spray.
+Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
+Do not use desmopressin nasal spray for a condition for which it was not prescribed.
+Do not give desmopressin nasal spray to other people, even if they have the same symptoms that you have.
+It may harm them.
+You can ask your healthcare provider or pharmacist for information about desmopressin nasal spray that is written for health professionals.
+For more information call Apotex Corp. at 1-800-706-5575.
 
-Keep out of the reach of children.
+What are the ingredients in desmopressin nasal spray?
 
-APOTEX INC. Desmopressin Nasal Spray, USP 0.01%
+Active ingredient: desmopressin acetate
 
-Manufactured by Manufactured for
+Inactive ingredients: benzalkonium chloride solution (50% w/v), citric acid monohydrate, sodium chloride, sodium phosphate dibasic heptahydrate, and purified water
 
-Apotex Inc. Apotex Corp.
+This Patient Information has been approved by the Food and Drug Administration
 
-Toronto, Ontario Weston, Florida
+APOTEX INC.
 
-Canada M9L 1T9 33326
+Desmopressin Nasal Spray, USP 0.01%
 
-December 2015
+| Manufactured by Apotex Inc. Toronto, Ontario Canada M9L 1T9 | Manufactured for Apotex Corp. Weston, Florida 33326 |
+| --- | --- |
+
+December 2018
