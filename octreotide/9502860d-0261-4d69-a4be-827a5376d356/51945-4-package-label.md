@@ -27,3 +27,7 @@ NDC 0641-6177-01 Rx only 5 mL Multiple Dose Vial Octreotide Acetate Injection 1,
 NDC 0641-6178-01 Rx only Octreotide Acetate Injection 5,000 mcg/5 mL (1,000 mcg/mL) FOR SUBCUTANEOUS INJECTION 5 mL Multiple Dose Vial
 
 NDC 0641-6178-01 Rx only 5 mL Multiple Dose Vial Octreotide Acetate Injection 5,000 mcg/5 mL (1.000 mcg/mL) FOR SUBCUTANEOUS INJECTION
+
+# SERIALIZATION IMAGE
+
+# SERIALIZATION IMAGE
