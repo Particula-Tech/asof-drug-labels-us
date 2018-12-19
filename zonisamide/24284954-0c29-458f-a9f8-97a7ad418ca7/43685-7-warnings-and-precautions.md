@@ -87,7 +87,7 @@ Behaviors of concern should be reported immediately to healthcare providers (see
 
 Metabolic Acidosis
 
-Zonisamide causes hyperchloremic, non-anion gap, metabolic acidosis (i.e., decreased serum bicarbonate below the normal reference range in the absence of chronic respiratory alkalosis) (see PRECAUTIONS, Laboratory Tests subsection).
+Zonisamide causes hyperchloremic, non-anion gap, metabolic acidosis (i.e., decreased serum bicarbonate below the normal reference range in the absence of chronic respiratory alkalosis) (see PRECAUTIONS, Laboratory Testssubsection).
 This metabolic acidosis is caused by renal bicarbonate loss due to the inhibitory effect of zonisamide on carbonic anhydrase.
 
 Generally, zonisamide-induced metabolic acidosis occurs early in treatment, but it can develop at any time during treatment.
@@ -131,7 +131,7 @@ Dose reduction or discontinuation of zonisamide should be done gradually.
 Teratogenicity: Women of child bearing potential who are given zonisamide should be advised to use effective contraception.
 Zonisamide was teratogenic in mice, rats, and dogs and embryolethal in monkeys when administered during the period of organogenesis.
 A variety of fetal abnormalities, including cardiovascular defects, and embryo-fetal deaths occurred at maternal plasma levels similar to or lower than therapeutic levels in humans.
-These findings suggest that the use of zonisamide during pregnancy in humans may present a significant risk to the fetus (see PRECAUTIONS, Pregnancy subsection).
+These findings suggest that the use of zonisamide during pregnancy in humans may present a significant risk to the fetus (see PRECAUTIONS, Pregnancysubsection).
 Zonisamide should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 Cognitive/ Neuropsychiatric Adverse Events: Use of zonisamide was frequently associated with central nervous system-related adverse events.
@@ -157,14 +157,14 @@ Patients should be cautioned about this possibility and special care should be t
 ## General
 
 Somnolence is commonly reported, especially at higher doses of zonisamide (see WARNINGS: Cognitive/ Neuropsychiatric Adverse Events subsection).
-Zonisamide is metabolized by the liver and eliminated by the kidneys; caution should therefore be exercised when administering zonisamide to patients with hepatic and renal dysfunction (see CLINICAL PHARMACOLOGY, Special Populations subsection).
+Zonisamide is metabolized by the liver and eliminated by the kidneys; caution should therefore be exercised when administering zonisamide to patients with hepatic and renal dysfunction (see CLINICAL PHARMACOLOGY, Special Populationssubsection).
 
 Kidney Stones: Among 991 patients treated during the development of zonisamide, 40 patients (4.0%) with epilepsy receiving zonisamide developed clinically possible or confirmed kidney stones (e.g. clinical symptomatology, sonography, etc.), a rate of 34 per 1000 patient-years of exposure (40 patients with 1168 years of exposure).
 Of these, 12 were symptomatic, and 28 were described as possible kidney stones based on sonographic detection.
 In nine patients, the diagnosis was confirmed by a passage of a stone or by a definitive sonographic finding.
 The rate of occurrence of kidney stones was 28.7 per 1000 patient-years of exposure in the first six months, 62.6 per 1000 patient-years of exposure between 6 and 12 months, and 24.3 per 1000 patient-years of exposure after 12 months of use.
 There are no normative sonographic data available for either the general population or patients with epilepsy.
-Although the clinical significance of the sonographic findings may not be certain, the development of nephrolithiasis may be related to metabolic acidosis (see WARNINGS, Metabolic Acidosis subsection).
+Although the clinical significance of the sonographic findings may not be certain, the development of nephrolithiasis may be related to metabolic acidosis (see WARNINGS, Metabolic Acidosissubsection).
 The analyzed stones were composed of calcium or urate salts.
 In general, increasing fluid intake and urine output can help reduce the risk of stone formation, particularly in those with predisposing risk factors.
 It is unknown, however, whether these measures will reduce the risk of stone formation in patients treated with zonisamide.
@@ -228,7 +228,7 @@ Patients should notify their physician if they intend to breast-feed or are brea
 
 Patients should be encouraged to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-To enroll, patients can call the toll free number 1-888-233-2334 (see PRECAUTIONS, Pregnancy subsection).
+To enroll, patients can call the toll free number 1-888-233-2334 (see PRECAUTIONS, Pregnancysubsection).
 
 ## Laboratory Tests
 
@@ -253,7 +253,7 @@ Drug Interactions with CNS Depressants: Concomitant administration of zonisamide
 Because of the potential of zonisamide to cause CNS depression, as well as other cognitive and/or neuropsychiatric adverse events, zonisamide should be used with caution if used in combination with alcohol or other CNS depressants.
 
 Other Carbonic Anhydrase Inhibitors: Concomitant use of zonisamide, a carbonic anhydrase inhibitor, with any other carbonic anhydrase inhibitor (e.g., topiramate, acetazolamide or dichlorphenamide), may increase the severity of metabolic acidosis and may also increase the risk of kidney stone formation.
-Therefore, if zonisamide is given concomitantly with another carbonic anhydrase inhibitor, the patient should be monitored for the appearance or worsening of metabolic acidosis (see CLINICAL PHARMACOLOGY, Interactions of Zonisamide with Other Carbonic Anhydrase Inhibitors subsection).
+Therefore, if zonisamide is given concomitantly with another carbonic anhydrase inhibitor, the patient should be monitored for the appearance or worsening of metabolic acidosis (see CLINICAL PHARMACOLOGY, Interactions of Zonisamide with Other Carbonic Anhydrase Inhibitorssubsection).
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -269,7 +269,7 @@ The low dose in this study is approximately 0.5 times the maximum recommended hu
 
 ## Pregnancy
 
-Pregnancy Category C (see WARNINGS, Teratogenicity subsection)
+Pregnancy Category C (see WARNINGS, Teratogenicitysubsection)
 
 Zonisamide may cause serious adverse fetal effects, based on clinical and nonclinical data.
 Zonisamide was teratogenic in multiple animal species.
@@ -324,15 +324,15 @@ Because of the potential for serious adverse reactions in nursing infants from z
 ## Pediatric Use
 
 The safety and effectiveness of zonisamide in children under age 16 have not been established.
-Cases of oligohidrosis and hyperpyrexia have been reported (see WARNINGS, Oligohidrosis and Hyperthermia in Pediatric Patients subsection).
-Zonisamide commonly causes metabolic acidosis in pediatric patients (see WARNINGS, Metabolic Acidosis subsection).
+Cases of oligohidrosis and hyperpyrexia have been reported (see WARNINGS, Oligohidrosis and Hyperthermia in Pediatric Patientssubsection).
+Zonisamide commonly causes metabolic acidosis in pediatric patients (see WARNINGS, Metabolic Acidosissubsection).
 Chronic untreated metabolic acidosis in pediatric patients may cause nephrolithiasis and/or nephrocalcinosis, osteoporosis and/or osteomalacia (potentially resulting in rickets), and may reduce growth rates.
 A reduction in growth rate may eventually decrease the maximal height achieved.
 The effect of zonisamide on growth and bone-related sequelae has not been systematically investigated.
 
 ## Geriatric Use
 
-Single dose pharmacokinetic parameters are similar in elderly and young healthy volunteers (see CLINICAL PHARMACOLOGY, Special Populations subsection).
+Single dose pharmacokinetic parameters are similar in elderly and young healthy volunteers (see CLINICAL PHARMACOLOGY, Special Populationssubsection).
 Clinical studies of zonisamide did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.

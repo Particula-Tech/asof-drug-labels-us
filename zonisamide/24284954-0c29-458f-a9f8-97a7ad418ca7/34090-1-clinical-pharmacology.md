@@ -16,7 +16,7 @@ In vivo microdialysis studies demonstrated that zonisamide facilitates both dopa
 
 Zonisamide is a carbonic anhydrase inhibitor.
 The contribution of this pharmacological action to the therapeutic effects of zonisamide is unknown.
-However, as a carbonic anhydrase inhibitor, zonisamide may cause metabolic acidosis (see WARNINGS, Metabolic Acidosis subsection).
+However, as a carbonic anhydrase inhibitor, zonisamide may cause metabolic acidosis (see WARNINGS, Metabolic Acidosissubsection).
 
 Pharmacokinetics: Following a 200 to 400 mg oral zonisamide dose, peak plasma concentrations (range: 2 to5 mcg/mL) in normal volunteers occur within 2 to 6 hours.
 In the presence of food, the time to maximum concentration is delayed, occurring at 4 to 6 hours, but food has no effect on the bioavailability of zonisamide.
@@ -62,7 +62,7 @@ Interactions of Zonisamide with Other Antiepilepsy Drugs (AEDs)
 Concurrent medication with drugs that either induce or inhibit CYP3A4 may alter serum concentrations of zonisamide.
 Concomitant administration of phenytoin and carbamazepine increases zonisamide plasma clearance from 0.30 to 0.35 mL/min/kg to 0.35 to 0.5 mL/min/kg.
 The half-life of zonisamide is decreased to 27 hours by phenytoin, to 38 hours by phenobarbital and carbamazepine, and to 46 hours by valproate.
-Plasma protein binding of phenytoin and carbamazepine was not affected by zonisamide administration (see PRECAUTIONS, Drug Interactions subsection).
+Plasma protein binding of phenytoin and carbamazepine was not affected by zonisamide administration (see PRECAUTIONS, Drug Interactionssubsection).
 
 Interactions of Zonisamide with Other Carbonic Anhydrase Inhibitors
 

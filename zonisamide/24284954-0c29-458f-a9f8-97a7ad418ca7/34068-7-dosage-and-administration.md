@@ -15,7 +15,7 @@ Although there is some evidence of greater response at doses above 100 to 200 mg
 The initial dose of zonisamide should be 100 mg daily.
 After two weeks, the dose may be increased to 200 mg/day for at least two weeks.
 It can be increased to 300 mg/day and 400 mg/day, with the dose stable for at least two weeks to achieve steady state at each level.
-Evidence from controlled trials suggests that zonisamide doses of 100 to 600 mg/day are effective, but there is no suggestion of increasing response above 400 mg/day (see CLINICAL PHARMACOLOGY, Clinical Studies subsection).
+Evidence from controlled trials suggests that zonisamide doses of 100 to 600 mg/day are effective, but there is no suggestion of increasing response above 400 mg/day (see CLINICAL PHARMACOLOGY, Clinical Studiessubsection).
 There is little experience with doses greater than 600 mg/day.
 
 Patients with Renal or Hepatic Disease
