@@ -9,3 +9,5 @@ Each scored tablet contains 50 mg
 Rx Only
 
 Sebela Pharmaceuticals Inc.
+
+# Imuran 50mg - 100 count Carton
