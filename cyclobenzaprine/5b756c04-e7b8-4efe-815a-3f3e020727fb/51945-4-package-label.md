@@ -74,6 +74,24 @@ Rx Only
 
 KVK-TECH, INC.
 
+Packaging Size: 90s
+
+NDC 10702-007-09
+
+CYCLOBENZAPRINE
+
+HYDROCHLORIDE
+
+TABLETS, USP
+
+10 mg
+
+Rx Only
+
+90 TABLETS
+
+KVK-TECH, INC.
+
 Packaging Size: 100s
 
 NDC 10702-007-01

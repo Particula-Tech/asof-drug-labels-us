@@ -14,6 +14,8 @@ The 10 mg tablets are supplied as yellow colored film coated round shaped biconv
 
 Bottles of 30, NDC 10702-007-03
 
+Bottles of 90, NDC 10702-007-09
+
 Bottles of 100, NDC 10702-007-01
 
 Bottles of 500, NDC 10702-007-50
@@ -33,6 +35,6 @@ KVK-TECH, INC.
 
 Newtown, PA 18940-1850
 
-Item ID # 006013/06 12/14
+Item ID # 006013/07 06/2018
 
 Manufacturer’s Code: 10702
