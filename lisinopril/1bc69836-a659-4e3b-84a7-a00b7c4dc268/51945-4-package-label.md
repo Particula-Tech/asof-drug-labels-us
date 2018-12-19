@@ -2,36 +2,26 @@
 
 NDC 76282-417-30
 
-Lisinopril Tablets, USP 2.5 mg Rx Only 30 Tablets
-
-# Package/Label Display Panel
+ONCE DAILY Lisinopril Tablets, USP 2.5 mg EXELAN PHARMACEUTICALS, INC. Rx Only 30 Tablets
 
 NDC 76282-418-30
 
-Lisinopril Tablets, USP 5 mg Rx Only 30 Tablets
-
-# Package/Label Display Panel
+ONCE DAILY Lisinopril Tablets, USP 5 mg EXELAN PHARMACEUTICALS, INC. Rx Only 30 Tablets
 
 NDC 76282-419-30
 
-Lisinopril Tablets, USP 10 mg Rx Only 30 Tablets
-
-# Package/Label Display Panel
+ONCE DAILY Lisinopril Tablets, USP 10 mg EXELAN PHARMACEUTICALS, INC. Rx Only 30 Tablets
 
 NDC 76282-420-30
 
-Lisinopril Tablets, USP 20 mg Rx Only 30 Tablets
+ONCE DAILY Lisinopril Tablets, USP 20 mg EXELAN PHARMACEUTICALS, INC. Rx Only 30 Tablets
 
 -
 
-# Package/Label Display Panel
-
 NDC 76282-421-30
 
-Lisinopril Tablets, USP 30 mg Rx Only 30 Tablets
-
-# Package/Label Display Panel
+ONCE DAILY Lisinopril Tablets, USP 30 mg EXELAN PHARMACEUTICALS, INC. Rx Only 30 Tablets
 
 NDC 76282-422-30
 
-Lisinopril Tablets, USP 40 mg Rx Only 30 Tablets
+ONCE DAILY Lisinopril Tablets, USP 40 mg EXELAN PHARMACEUTICALS, INC. Rx Only 30 Tablets
