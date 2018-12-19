@@ -21,3 +21,5 @@ NDC 0641-6045-25 Lorazepam Injection, USP CIV 4 mg/mL Rx only 25 x 1 mL Vials FO
 NDC 0641-6047-01 Rx only Lorazepam Injection, USP CIV 40 mg/10 mL (4 mg/mL) FOR IM USE FOR IV ROUTE, SEE DIRECTIONS 10 mL Multiple Dose Vial
 
 NDC 0641-6047-10 Rx only Lorazepam Injection, USP CIV 40 mg/10 mL (4 mg/mL) FOR IM USE; FOR IV USE DILUTION REQUIRED, SEE ENCLOSED DIRECTIONS 10 x 10 mL Multiple Dose Vials
+
+# SERIALIZATION IMAGE
