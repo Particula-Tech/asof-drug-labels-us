@@ -44,19 +44,6 @@ Patients presenting with clinical symptoms suggestive of hypoglycemia during tre
 
 # PRECAUTIONS
 
-General: Use with caution in patients with gastrointestinal, neurological, or blood disorders, and in those with a sensitivity to quinine.
-
-Hepatic/Renal Disease: Antimalarial compounds should be used with caution in patients with hepatic disease or alcoholism or in conjunction with known hepatotoxic drugs.
-A reduction in dosage may be necessary in patients with hepatic or renal disease, as well as in those taking medicines known to affect these organs.
-
-Hematologic Effects/Laboratory Tests: Antimalarial compounds should be used with caution in patients with hepatic disease or alcoholism or in conjunction with known hepatotoxic drugs.
-Periodic blood cell counts should be performed if patients are given prolonged therapy.
-If any severe blood disorder such as aplastic anemia, agranulocytosis, leukopenia, or thrombocytopenia, appears which is not attributable to the disease under treatment, consider discontinuation of hydroxychloroquine sulfate tablets.
-
-Hydroxychloroquine Sulfate Tablets should be administered with caution in patients having glucose-6-phosphate dehydrogenase (G-6-PD) deficiency.
-
-Dermatologic Effects: Dermatologic reactions to hydroxychloroquine sulfate tablets may occur and, therefore, proper care should be exercised when it is administered to any patient receiving a drug with a significant tendency to produce dermatitis.
-
 ## Drug Interactions
 
 Digoxin: Concomitant hydroxychloroquine sulfate tablets and digoxin therapy may result in increased serum digoxin levels: serum digoxin levels should be closely monitored in patients receiving combined therapy.
