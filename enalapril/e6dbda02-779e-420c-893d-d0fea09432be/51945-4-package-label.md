@@ -24,15 +24,14 @@ Usual Dose: See prescribing information.
 
 Store refrigerated 2° - 8°C (36° - 46°F)
 
-After dispensing, may be stored at room temperature 20° - 25°C (68° - 77°F) for up to 60 days.
-
+Patients may store Epaned at room temperature (20°-25°C/68°-77°F).
+If stored at room temperature, discard after 60 days.
 Avoid freezing and excessive heat.
-
 Keep container tightly closed.
 
 KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN
 
-P/N 140538
+P/N 140994
 
 Manufactured for: Silvergate Pharmaceuticals, Inc. Greenwood Village, CO 80111
 

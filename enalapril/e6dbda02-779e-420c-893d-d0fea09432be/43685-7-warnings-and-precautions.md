@@ -67,7 +67,7 @@ Patients receiving ACE inhibitors who develop jaundice or marked elevations of h
 Monitor renal function in patients treated with EPANED.
 Changes in renal function including acute renal failure can be caused by drugs that inhibit the renin-angiotensin system.
 Patients whose renal function may depend in part on the activity of the renin-angiotensin system (e.g., patients with renal artery stenosis, chronic kidney disease, severe congestive heart failure, post-myocardial infarction or volume depletion) may be at particular risk of developing acute renal failure on EPANED.
-Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on EPANED [see Adverse Reactions (6.2), Drug Interactions (7.2, 7.3)].
+Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on EPANED [see Adverse Reactions (6.2) and Drug Interactions (7.2, 7.3)].
 
 ## 5.6 Hyperkalemia
 

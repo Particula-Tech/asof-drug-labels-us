@@ -22,11 +22,3 @@ Other causes of volume depletion such as vomiting or diarrhea may also lead to a
 - •Hyperkalemia
 
 Tell patients to consult their physician prior to using salt substitutes containing potassium.
-
-EPANED is a registered trademark of Silvergate Pharmaceuticals, Inc. Vasotec is a registered trademark of Valeant International Bermuda.
-
-Manufactured For: Silvergate Pharmaceuticals, Inc. 6251 Greenwood Plaza Blvd., Suite 101 Greenwood Village, CO 80111
-
-U. S. Patents 9669008, 9808442
-
-EOS-1711
