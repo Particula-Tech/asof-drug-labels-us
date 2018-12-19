@@ -24,3 +24,5 @@ FOR DEEP IM OR IV USE ONLY NOT FOR SUBCUTANEOUS USE
 
 PROTECT FROM LIGHT: Keep covered in carton until time of use.
 Discard contents if markedly discolored.
+
+# SERIALIZATION IMAGE
