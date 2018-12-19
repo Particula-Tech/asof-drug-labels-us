@@ -10,6 +10,6 @@ Manufactured by: Appco Pharma LLC Somerset, NJ 08873
 
 Distributed by: TruePharma, LLC Tampa, FL 33609
 
-Revised: 12/2016
+Revised: 03/2018
 
-MF#200138
+MF#200223
