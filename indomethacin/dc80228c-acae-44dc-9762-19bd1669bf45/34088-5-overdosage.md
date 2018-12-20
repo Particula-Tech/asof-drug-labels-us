@@ -12,4 +12,4 @@ Depending on the condition of the patient, close medical observation and nursing
 The patient should be followed for several days because gastrointestinal ulceration and hemorrhage have been reported as adverse reactions of indomethacin.
 Use of antacids may be helpful.
 
-The oral LD50 of indomethacin in mice and rats (based on 14 day mortality response) was 50 and 12 mg/kg, respectively.
+The oral LD 50 of indomethacin in mice and rats (based on 14 day mortality response) was 50 and 12 mg/kg, respectively.

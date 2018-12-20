@@ -17,7 +17,7 @@ Indomethacin affords relief of symptoms; it does not alter the progressive cours
 Indomethacin suppresses inflammation in rheumatoid arthritis as demonstrated by relief of pain, and reduction of fever, swelling and tenderness.
 Improvement in patients treated with indomethacin for rheumatoid arthritis has been demonstrated by a reduction in joint swelling, average number of joints involved, and morning stiffness; by increased mobility as demonstrated by a decrease in walking time; and by improved functional capability as demonstrated by an increase in grip strength.
 
-Indomethacin has been reported to diminish basal and CO2 stimulated cerebral blood flow in healthy volunteers following acute oral and intravenous administration.
+Indomethacin has been reported to diminish basal and CO 2 stimulated cerebral blood flow in healthy volunteers following acute oral and intravenous administration.
 In one study, after one week of treatment with orally administered indomethacin, this effect on basal cerebral blood flow had disappeared.
 The clinical significance of this effect has not been established.
 
