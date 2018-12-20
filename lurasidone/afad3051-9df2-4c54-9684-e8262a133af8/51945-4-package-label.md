@@ -1,4 +1,40 @@
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 60 mg, 30-ct LABEL
+PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 20 mg, 30 Tablet Label
+
+NDC 63402-302-30
+
+30 Tablets
+
+Latuda®
+
+(lurasidone HCl) tablets
+
+20 mg
+
+ATTENTION DISPENSER: Each time Latuda is dispensed give the patient the accompanying Medication Guide, also provided at www.latuda.com or 1-888-394-7377.
+
+Rx Only
+
+Sunovion
+
+PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 40 mg, 30 Tablet Label
+
+NDC 63402-304-30
+
+30 Tablets
+
+Latuda®
+
+(lurasidone HCl) tablets
+
+40 mg
+
+ATTENTION DISPENSER: Each time Latuda is dispensed give the patient the accompanying Medication Guide, also provided at www.latuda.com or 1-888-394-7377.
+
+Rx Only
+
+Sunovion
+
+PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 60 mg, 30 Tablet Label
 
 NDC 63402-306-30
 
@@ -9,8 +45,6 @@ Latuda®
 (lurasidone HCl) tablets
 
 60 mg
-
-LOT EXP.
 
 ATTENTION DISPENSER: Each time Latuda is dispensed give the patient the accompanying Medication Guide, also provided at www.latuda.com or 1-888-394-7377.
 
@@ -125,6 +159,42 @@ Latuda®
 (lurasidone HCl) tablets
 
 60 mg per tablet
+
+ATTENTION DISPENSER: Each time Latuda is dispensed give the patient the accompanying Medication Guide, also provided at www.latuda.com or 1-888-394-7377.
+
+Rx Only
+
+Sunovion
+
+PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 80 mg, 30 Tablet Label
+
+NDC 63402-308-30
+
+30 Tablets
+
+Latuda®
+
+(lurasidone HCl) tablets
+
+80 mg
+
+ATTENTION DISPENSER: Each time Latuda is dispensed give the patient the accompanying Medication Guide, also provided at www.latuda.com or 1-888-394-7377.
+
+Rx Only
+
+Sunovion
+
+PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 120 mg, 30 Tablet Label
+
+NDC 63402-312-30
+
+30 Tablets
+
+Latuda®
+
+(lurasidone HCl) tablets
+
+120 mg
 
 ATTENTION DISPENSER: Each time Latuda is dispensed give the patient the accompanying Medication Guide, also provided at www.latuda.com or 1-888-394-7377.
 
