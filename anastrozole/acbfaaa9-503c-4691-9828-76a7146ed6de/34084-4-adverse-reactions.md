@@ -105,7 +105,7 @@ Table 2 - Number of Patients with Pre-specified Adverse Reactions in ATAC TrialP
 | Vaginal Bleeding | 167 (5) | 317 (10) | 0.50 | 0.41 − 0.61 |
 | Ischemic Cardiovascular Disease | 127 (4) | 104 (3) | 1.23 | 0.95 − 1.60 |
 | Vaginal Discharge | 109 (4) | 408 (13) | 0.24 | 0.19 − 0.30 |
-| Venous Thromboembolic events | 87 (3) | 140 (5) | 0.61 | 0.47 − 0.80 |
+| Venous Thromboembolic Events | 87 (3) | 140 (5) | 0.61 | 0.47 − 0.80 |
 | Deep Venous Thromboembolic Events | 48 (2) | 74 (2) | 0.64 | 0.45 − 0.93 |
 | Ischemic Cerebrovascular Event | 62 (2) | 88 (3) | 0.70 | 0.50 − 0.97 |
 | Endometrial CancerPercentages calculated based upon the numbers of patients with an intact uterus at baseline. | 4 (0.2) | 13 (0.6) | 0.31 | 0.10 − 0.94 |
@@ -334,5 +334,5 @@ The following have been reported in post-approval use of ARIMIDEX:
 
 - •Hepatobiliary events including increases in alkaline phosphatase, alanine aminotransferase, aspartate aminotransferase, gamma-GT, and bilirubin; hepatitis
 - •Rash including cases of mucocutaneous disorders such as erythema multiforme and Stevens-Johnson syndrome
-- •Cases of allergic reactions including angioedema, urticaria and anaphylaxis [see Contraindications (4.2)]
+- •Cases of allergic reactions including angioedema, urticaria and anaphylaxis [see Contraindications (4)]
 - •Myalgia, trigger finger and hypercalcemia (with or without an increase in parathyroid hormone)

@@ -2,43 +2,47 @@
 
 See FDA approved patient labeling (Patient Information).
 
-## 17.1 Pregnancy
+Hypersensitivity Reactions
 
-Patients should be advised that ARIMIDEX may cause fetal harm.
-They should also be advised that ARIMIDEX is not for use in premenopausal women; therefore, if they become pregnant, they should stop taking ARIMIDEX and immediately contact their doctor.
+Inform patients of the possibility of serious allergic reactions with swelling of the face, lips, tongue and/or throat (angioedema) which may cause difficulty in swallowing and/or breathing and to seek medical attention immediately [see Contraindications (4)].
 
-## 17.2 Allergic (Hypersensitivity) Reactions
-
-Patients should be informed of the possibility of serious allergic reactions with swelling of the face, lips, tongue and/or throat (angioedema) which may cause difficulty in swallowing and/or breathing and to seek medical attention immediately.
-
-## 17.3 Ischemic Cardiovascular Events
+Ischemic Cardiovascular Events
 
 Patients with pre-existing ischemic heart disease should be informed that an increased incidence of cardiovascular events has been observed with ARIMIDEX use compared to tamoxifen use.
-If patients have new or worsening chest pain or shortness of breath they should seek medical attention immediately.
+Advise patients if new or worsening chest pain or shortness of breath occurs to seek medical attention immediately [see Warnings and Precautions (5.1)].
 
-## 17.4 Bone Effects
+Bone Effects
 
-Patients should be informed that ARIMIDEX lowers the level of estrogen.
+Inform patients that ARIMIDEX lowers the level of estrogen.
 This may lead to a loss of the mineral content of bones, which might decrease bone strength.
-A possible consequence of decreased mineral content of bones is an increase in the risk of fractures.
+A possible consequence of decreased mineral content of bones is an increase in the risk of fractures [see Warnings and Precautions (5.2)].
 
-## 17.5 Cholesterol
+Cholesterol
 
-Patients should be informed that an increased level of cholesterol might be seen while receiving ARIMIDEX.
+Inform patients that an increased level of cholesterol might be seen while receiving ARIMIDEX [see Warnings and Precautions (5.3)].
 
-## 17.6 Tickling, Tingling or Numbness
+Carpal Tunnel
 
-Patients should be informed that if they experience tickling, tingling, or numbness they should notify their helath care provider.
+Patients should be informed that if they experience tickling, tingling, or numbness they should notify their health care provider [see Adverse Reactions (6.1)].
 
-## 17.7 Tamoxifen
+Tamoxifen
 
-Patients should be advised not to take ARIMIDEX with Tamoxifen.
+Patients should be advised not to take ARIMIDEX with Tamoxifen [see Clinical Studies (14.1)].
 
-## 17.8 Missed Doses
+Missed Doses
 
 Inform patients that if they miss a dose, take it as soon as they remember.
 If it is almost time for their next dose, skip the missed dose and take the next regularly scheduled dose.
 Patients should not take two doses at the same time.
+
+Embryo-Fetal Toxicity
+
+Advise females of reproductive potential of the potential risk to a fetus and to use effective contraception during ARIMIDEX therapy and for at least 3 weeks after the last dose.
+Advise females to contact their healthcare provider if they become pregnant, or if pregnancy is suspected, during treatment with ARMIDEX [see Warning and Precautions (5.4) and Use in Specific Populations (8.1, 8.3)].
+
+Lactation
+
+Advise women not to breastfeed during ARIMIDEX treatment and for at least 2 weeks after the last dose [see Use in Specific Population (8.2)].
 
 Distributed by: ANI Pharmaceuticals, Inc. Baudette, MN 56623
 
