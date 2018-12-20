@@ -95,9 +95,7 @@ Lioresal® is a registered trademark of Saol
 
 Filter Straw® is a registered trademark of B.Braun Medical Inc.
 
-Saol Refill Kit
-
-856X
+Saol Refill Kit 856X
 
 for use with Medtronic SynchroMed ® Implantable Programmable Infusion Pumps
 
@@ -110,7 +108,7 @@ Refer to the appropriate product for symbols that apply.
 |  | Open here |
 | --- | --- |
 
-Medtronic ®, IsoMed ®, SynchroMed ® and Medtronic logo are trademarks of Medtronic.
+Medtronic ®, IsoMed ®, SynchroMed ®, and Medtronic logo are trademarks of Medtronic.
 
 MiniMed ® is a registered trademark of Medtronic MiniMed, Inc.
 
@@ -480,9 +478,7 @@ Emptying the SynchroMed pump
     See the pump programmer for the expected volume.
     The amount withdrawn should approximately equal the expected volume.
     If a less than expected volume is observed, potential causes of the volume discrepancy could include: inaccurate volume measurements, incomplete pump aspiration, incorrect volume entry into clinician programmer at refills, unrecognized partial pocket fill, aspiration of pump medication by patient or caregiver, or overinfusion.
-    Note: Immediately following the refill procedure:
-    - record the amount withdrawn and the expected volume in the patient’s record
-    - record any volume discrepancy and compare volume discrepancies from visit to visit.
+    Note: Immediately following the refill procedure: - record the amount withdrawn and the expected volume in the patient’s record - record any volume discrepancy and compare volume discrepancies from visit to visit.
 15. Discard the fluid and syringe as appropriate for the fluid content in accordance with institutional policies and applicable regulations.
 
 Refilling the SynchroMed pump

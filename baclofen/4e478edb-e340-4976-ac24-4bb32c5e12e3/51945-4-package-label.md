@@ -15,7 +15,7 @@ EXP
 
 # PRINCIPAL DISPLAY PANEL - 10 mg/20 mL Outer Box Label
 
-SAOL NDC 70257- 560 -01
+SAOL NDC 70257-560 -01
 
 LIORESAL ® INTRATHECAL (baclofen injection) Refill Kit For use with SynchroMed ® Infusion Systems
 
@@ -38,7 +38,7 @@ Refill Kit*:
 - Extension set with a clamp
 - Two 22-gauge noncoring needles
 - Template
-- 0.22-micron filter
+- 0.2-micron filter
 - Accessories
 
 Drug Preparation Kit*:
@@ -59,15 +59,17 @@ Do not freeze.
 Do not heat sterilize.
 The device has no components made of natural rubber latex.
 
-Lot No.: X000000000
+GTIN (01)00000000000000
 
-Use By: 0000-00-00
+Lot (10)0000000000
 
-NOTE: Individual kits within this package may have a later use-by date than the one listed above.
+EXP (17)YYYY-MM-DD
 
-FPO BAR CODE
+SN (21)0000000000
 
 Rx only
+
+NOTE: Individual kits within this package may have a later use-by date than the one listed above.
 
 Lioresal Intrathecal number of billing units: 1
 
@@ -92,7 +94,7 @@ EXP
 
 # PRINCIPAL DISPLAY PANEL - 10 mg/5 mL Outer Box Label
 
-SAOL NDC 70257- 561 -02
+SAOL NDC 70257-561 -02
 
 LIORESAL ® INTRATHECAL (baclofen injection) Refill Kit For use with SynchroMed ® Infusion Systems
 
@@ -115,7 +117,7 @@ Refill Kit*:
 - Extension set with a clamp
 - Two 22-gauge noncoring needles
 - Template
-- 0.22-micron filter
+- 0.2-micron filter
 - Accessories
 
 Drug Preparation Kit*:
@@ -136,15 +138,17 @@ Do not freeze.
 Do not heat sterilize.
 The device has no components made of natural rubber latex.
 
-Lot No.: X000000000
+GTIN (01)00000000000000
 
-Use By: 0000-00-00
+Lot (10)0000000000
 
-NOTE: Individual kits within this package may have a later use-by date than the one listed above.
+EXP (17)YYYY-MM-DD
 
-FPO BAR CODE
+SN (21)0000000000
 
 Rx only
+
+NOTE: Individual kits within this package may have a later use-by date than the one listed above.
 
 Lioresal Intrathecal number of billing units: 2
 
@@ -169,7 +173,7 @@ EXP
 
 # PRINCIPAL DISPLAY PANEL - 40 mg/20 mL Outer Box Label
 
-SAOL NDC 70257- 563 -01
+SAOL NDC 70257-563 -01
 
 LIORESAL ® INTRATHECAL (baclofen injection) Refill Kit For use with SynchroMed ® Infusion Systems
 
@@ -192,7 +196,7 @@ Refill Kit*:
 - Extension set with a clamp
 - Two 22-gauge noncoring needles
 - Template
-- 0.22-micron filter
+- 0.2-micron filter
 - Accessories
 
 Drug Preparation Kit*:
@@ -213,13 +217,17 @@ Do not freeze.
 Do not heat sterilize.
 The device has no components made of natural rubber latex.
 
-Lot No.: X000000000
+GTIN (01)00000000000000
 
-Use By: 0000-00-00
+Lot (10)0000000000
 
-NOTE: Individual kits within this package may have a later use-by date than the one listed above.
+EXP (17)YYYY-MM-DD
+
+SN (21)0000000000
 
 Rx only
+
+NOTE: Individual kits within this package may have a later use-by date than the one listed above.
 
 Lioresal Intrathecal number of billing units: 4
 
@@ -229,11 +237,11 @@ Saol Therapeutics Inc. Roswell, GA 30076
 
 # PRINCIPAL DISPLAY PANEL - 10 mg/20 mL Outer Box Label
 
-SAOL NDC 70257- 560 -02
+SAOL NDC 70257-560 -02
 
 LIORESAL ® INTRATHECAL (baclofen injection) Refill Kit For use with SynchroMed ® Infusion Systems
 
-8564
+8565
 
 10 mg/20 mL (500 mcg/mL)
 
@@ -273,13 +281,17 @@ Do not freeze.
 Do not heat sterilize.
 The device has no components made of natural rubber latex.
 
-Lot No.: X000000000
+GTIN (01)00000000000000
 
-Use By: 0000-00-00
+Lot (10)0000000000
 
-NOTE: Individual kits within this package may have a later use-by date than the one listed above.
+EXP (17)YYYY-MM-DD
+
+SN (21)0000000000
 
 Rx only
+
+NOTE: Individual kits within this package may have a later use-by date than the one listed above.
 
 Lioresal Intrathecal number of billing units: 2
 
@@ -289,11 +301,11 @@ Saol Therapeutics Inc. Roswell, GA 30076
 
 # PRINCIPAL DISPLAY PANEL - 40 mg/20 mL Outer Box Label
 
-SAOL NDC 70257- 563 -02
+SAOL NDC 70257-563 -02
 
 LIORESAL ® INTRATHECAL (baclofen injection) Refill Kit For use with SynchroMed ® Infusion Systems
 
-8564
+8566
 
 40 mg/20 mL (2000 mcg/mL)
 
@@ -333,13 +345,17 @@ Do not freeze.
 Do not heat sterilize.
 The device has no components made of natural rubber latex.
 
-Lot No.: X000000000
+GTIN (01)00000000000000
 
-Use By: 0000-00-00
+Lot (10)0000000000
 
-NOTE: Individual kits within this package may have a later use-by date than the one listed above.
+EXP (17)YYYY-MM-DD
+
+SN (21)0000000000
 
 Rx only
+
+NOTE: Individual kits within this package may have a later use-by date than the one listed above.
 
 Lioresal Intrathecal number of billing units: 8
 
@@ -386,3 +402,9 @@ Sterile solution for intrathecal injection only.
 NDC 70257-562-55
 
 LOT EXP MM/YYYY
+
+## PRINCIPAL DISPLAY PANEL - NDC: 70257-561-05 - Drug box
+
+## PRINCIPAL DISPLAY PANEL - NDC: 70257-560-20 - Drug box
+
+## PRINCIPAL DISPLAY PANEL - NDC: 70257-563-20 - Drug box
