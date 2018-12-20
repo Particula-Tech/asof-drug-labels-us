@@ -43,7 +43,7 @@ Lamotrigine pharmacokinetic parameters for adult and pediatric subjects and heal
 Table 14.
 Mean Pharmacokinetic ParametersThe majority of parameter means determined in each study had coefficients of variation between 20% and 40% for half-life and CL/F and between 30% and 70% for Tmax.
 The overall mean values were calculated from individual study means that were weighted based on the number of volunteers/subjects in each study.
-The numbers in parentheses below each parameter mean represent the range of individual volunteer/subject values across studies. in Healthy Volunteers and Adult Subjects with Epilepsy
+The numbers in parentheses next to each parameter mean represent the range of individual volunteer/subject values across studies. in Healthy Volunteers and Adult Subjects with Epilepsy
 
 | Adult Study Population | Number of Subjects | Tmax: Time of Maximum Plasma Concentration (h) | t½: Elimination Half-life (h) | CL/F: Apparent Plasma Clearance (mL/min/kg) |
 | --- | --- | --- | --- | --- |
@@ -90,7 +90,7 @@ Evidence gathered from other sources suggests that self-induction by lamotrigine
 Elimination: The elimination half-life and apparent clearance of lamotrigine following oral administration of lamotrigine to adult subjects with epilepsy and healthy volunteers is summarized in Table 14.
 Half-life and apparent oral clearance vary depending on concomitant AEDs.
 
-Drug Interactions: The apparent clearance of lamotrigine is affected by the coadministration of certain medications [see Warnings and Precautions (5.7, 5.11), Drug Interactions (7)].
+Drug Interactions: The apparent clearance of lamotrigine is affected by the coadministration of certain medications [see Warnings and Precautions (5.8, 5.12), Drug Interactions (7)].
 
 The net effects of drug interactions with lamotrigine are summarized in Tables 13 and 15, followed by details of the drug interaction studies below.
 
@@ -107,12 +107,14 @@ Summary of Drug Interactions with Lamotrigine
 | Carbamazepine epoxideNot administered, but an active metabolite of carbamazepine. | ? |  |
 | Felbamate | Not assessed | ↔ |
 | Gabapentin | Not assessed | ↔ |
+| Lacosamide | Not assessed | ↔ |
 | Levetiracetam | ↔ | ↔ |
 | Lithium | ↔ | Not assessed |
 | Lopinavir/ritonavir | ↔ | ↓ |
 | Olanzapine | ↔ | ↔ |
 | Oxcarbazepine | ↔ | ↔ |
 | 10-Monohydroxy oxcarbazepine metaboliteNot administered, but an active metabolite of oxcarbazepine. | ↔ |  |
+| Perampanel | Not assessed | ↔ |
 | Phenobarbital/primidone | ↔ | ↓ |
 | Phenytoin | ↔ | ↓ |
 | Pregabalin | ↔ | ↔ |
@@ -171,6 +173,8 @@ Felbamate: In a trial in 21 healthy volunteers, coadministration of felbamate (1
 Folate Inhibitors: Lamotrigine is a weak inhibitor of dihydrofolate reductase.
 Prescribers should be aware of this action when prescribing other medications that inhibit folate metabolism.
 
+Lacosamide: Plasma concentrations of lamotrigine were not affected by concomitant lacosamide (200 mg/day, 400 mg/day, or 600 mg/day) in placebo-controlled clinical trials in patients with partial-onset seizures.
+
 Gabapentin: Based on a retrospective analysis of plasma levels in 34 subjects who received lamotrigine both with and without gabapentin, gabapentin does not appear to change the apparent clearance of lamotrigine.
 
 Levetiracetam: Potential drug interactions between levetiracetam and lamotrigine were assessed by evaluating serum concentrations of both agents during placebo-controlled clinical trials.
@@ -190,6 +194,9 @@ Oxcarbazepine: The AUC and Cmax of oxcarbazepine and its active 10-monohydroxy o
 
 In the same trial, the AUC and Cmax of lamotrigine were similar following the addition of oxcarbazepine (600 mg twice daily) to lamotrigine in healthy male volunteers compared with those receiving lamotrigine alone.
 Limited clinical data suggest a higher incidence of headache, dizziness, nausea, and somnolence with coadministration of lamotrigine and oxcarbazepine compared with lamotrigine alone or oxcarbazepine alone.
+
+Perampanel: In a pooled analysis of data from 3 placebo-controlled clinical trials investigating adjunctive perampanel in patients with partial-onset and primary generalized tonic-clonic seizures, the highest perampanel dose evaluated (12 mg/day) increased lamotrigine clearance by <10%.
+An effect of this magnitude is not considered to be clinically relevant.
 
 Phenobarbital, Primidone: The addition of phenobarbital or primidone decreases lamotrigine steady-state concentrations by approximately 40%.
 
@@ -224,23 +231,25 @@ Results of in vitro experiments suggest that clearance of lamotrigine is unlikel
 
 Results of in vitro experiments suggest that lamotrigine does not reduce the clearance of drugs eliminated predominantly by CYP2D6.
 
-Specific Populations: Renal Impairment: Twelve volunteers with chronic renal failure (mean creatinine clearance: 13 mL/min; range: 6 to 23) and another 6 individuals undergoing hemodialysis were each given a single 100-mg dose of lamotrigine.
+Specific Populations
+
+Patients with Renal Impairment: Twelve volunteers with chronic renal failure (mean creatinine clearance: 13 mL/min; range: 6 to 23) and another 6 individuals undergoing hemodialysis were each given a single 100-mg dose of lamotrigine.
 The mean plasma half-lives determined in the study were 42.9 hours (chronic renal failure), 13.0 hours (during hemodialysis), and 57.4 hours (between hemodialysis) compared with 26.2 hours in healthy volunteers.
 On average, approximately 20% (range: 5.6 to 35.1) of the amount of lamotrigine present in the body was eliminated by hemodialysis during a 4-hour session [see Dosage and Administration (2.1)].
 
-Hepatic Disease: The pharmacokinetics of lamotrigine following a single 100-mg dose of lamotrigine were evaluated in 24 subjects with mild, moderate, and severe hepatic impairment (Child-Pugh classification system) and compared with 12 subjects without hepatic impairment.
+Patients with Hepatic Impairment: The pharmacokinetics of lamotrigine following a single 100-mg dose of lamotrigine were evaluated in 24 subjects with mild, moderate, and severe hepatic impairment (Child-Pugh classification system) and compared with 12 subjects without hepatic impairment.
 The subjects with severe hepatic impairment were without ascites (n = 2) or with ascites (n = 5).
 The mean apparent clearances of lamotrigine in subjects with mild (n = 12), moderate (n = 5), severe without ascites (n = 2), and severe with ascites (n = 5) liver impairment were 0.30 ± 0.09, 0.24 ± 0.1, 0.21 ± 0.04, and 0.15 ± 0.09 mL/min/kg, respectively, as compared with 0.37 ± 0.1 mL/min/kg in the healthy controls.
 Mean half-lives of lamotrigine in subjects with mild, moderate, severe without ascites, and severe with ascites hepatic impairment were 46 ± 20, 72 ± 44, 67 ± 11, and 100 ± 48 hours, respectively, as compared with 33 ± 7 hours in healthy controls [see Dosage and Administration (2.1)].
 
-Age: Pediatric Subjects: The pharmacokinetics of lamotrigine following a single 2-mg/kg dose were evaluated in 2 studies in pediatric subjects (n = 29 for subjects aged 10 months to 5.9 years and n = 26 for subjects aged 5 to 11 years).
+Pediatric Patients: The pharmacokinetics of lamotrigine following a single 2-mg/kg dose were evaluated in 2 studies in pediatric subjects (n = 29 for subjects aged 10 months to 5.9 years and n = 26 for subjects aged 5 to 11 years).
 Forty-three subjects received concomitant therapy with other AEDs and 12 subjects received lamotrigine as monotherapy.
 Lamotrigine pharmacokinetic parameters for pediatric patients are summarized in Table 16.
 
 Population pharmacokinetic analyses involving subjects aged 2 to 18 years demonstrated that lamotrigine clearance was influenced predominantly by total body weight and concurrent AED therapy.
 The oral clearance of lamotrigine was higher, on a body weight basis, in pediatric patients than in adults.
-Weight-normalized lamotrigine clearance was higher in those subjects weighing less than 30 kg compared with those weighing greater than 30 kg.
-Accordingly, patients weighing less than 30 kg may need an increase of as much as 50% in maintenance doses, based on clinical response, as compared with subjects weighing more than 30 kg being administered the same AEDs [see Dosage and Administration (2.2)].
+Weight-normalized lamotrigine clearance was higher in those subjects weighing <30 kg compared with those weighing >30 kg.
+Accordingly, patients weighing <30 kg may need an increase of as much as 50% in maintenance doses, based on clinical response, as compared with subjects weighing >30 kg being administered the same AEDs [see Dosage and Administration (2.2)].
 These analyses also revealed that, after accounting for body weight, lamotrigine clearance was not significantly influenced by age.
 Thus, the same weight-adjusted doses should be administered to children irrespective of differences in age.
 Concomitant AEDs which influence lamotrigine clearance in adults were found to have similar effects in children.
@@ -250,23 +259,23 @@ Mean Pharmacokinetic Parameters in Pediatric Subjects with Epilepsy
 
 | Pediatric Study Population | Number of Subjects | Tmax (h) | t½ (h) | CL/F (mL/min/kg) |
 | --- | --- | --- | --- | --- |
-| Ages 10 months-5.3 years |  |  |  |  |
+| Ages 10 months to 5.3 years |  |  |  |  |
 | Subjects taking carbamazepine, phenytoin, phenobarbital, or primidoneCarbamazepine, phenytoin, phenobarbital, and primidone have been shown to increase the apparent clearance of lamotrigine. Estrogen-containing oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir have also been shown to increase the apparent clearance of lamotrigine [see Drug Interactions (7)]. | 10 | 3.0 (1.0-5.9) | 7.7 (5.7-11.4) | 3.62 (2.44-5.28) |
 | Subjects taking antiepileptic drugs with no known effect on the apparent clearance of lamotrigine | 7 | 5.2 (2.9-6.1) | 19.0 (12.9-27.1) | 1.2 (0.75-2.42) |
 | Subjects taking valproate only | 8 | 2.9 (1.0-6.0) | 44.9 (29.5-52.5) | 0.47 (0.23-0.77) |
-| Ages 5-11 years |  |  |  |  |
+| Ages 5 to 11 years |  |  |  |  |
 | Subjects taking carbamazepine, phenytoin, phenobarbital, or primidone | 7 | 1.6 (1.0-3.0) | 7.0 (3.8-9.8) | 2.54 (1.35-5.58) |
 | Subjects taking carbamazepine, phenytoin, phenobarbital, or primidone plus valproate | 8 | 3.3 (1.0-6.4) | 19.1 (7.0-31.2) | 0.89 (0.39-1.93) |
 | Subjects taking valproate onlyTwo subjects were included in the calculation for mean Tmax. | 3 | 4.5 (3.0-6.0) | 65.8 (50.7-73.7) | 0.24 (0.21-0.26) |
-| Ages 13-18 years |  |  |  |  |
+| Ages 13 to 18 years |  |  |  |  |
 | Subjects taking carbamazepine, phenytoin, phenobarbital, or primidone | 11 | ___Parameter not estimated. | ___ | 1.3 |
 | Subjects taking carbamazepine, phenytoin, phenobarbital, or primidone plus valproate | 8 | ___ | ___ | 0.5 |
 | Subjects taking valproate only | 4 | ___ | ___ | 0.3 |
 
-Elderly: The pharmacokinetics of lamotrigine following a single 150-mg dose of lamotrigine were evaluated in 12 elderly volunteers between the ages of 65 and 76 years (mean creatinine clearance = 61 mL/min, range: 33 to 108 mL/min).
+Geriatric Patients: The pharmacokinetics of lamotrigine following a single 150-mg dose of lamotrigine were evaluated in 12 elderly volunteers between the ages of 65 and 76 years (mean creatinine clearance = 61 mL/min, range: 33 to 108 mL/min).
 The mean half-life of lamotrigine in these subjects was 31.2 hours (range: 24.5 to 43.4 hours), and the mean clearance was 0.40 mL/min/kg (range: 0.26 to 0.48 mL/min/kg).
 
-Gender: The clearance of lamotrigine is not affected by gender.
+Male and Female Patients: The clearance of lamotrigine is not affected by gender.
 However, during dose escalation of lamotrigine in 1 clinical trial in patients with epilepsy on a stable dose of valproate (n = 77), mean trough lamotrigine concentrations unadjusted for weight were 24% to 45% higher (0.3 to 1.7 mcg/mL) in females than in males.
 
-Race: The apparent oral clearance of lamotrigine was 25% lower in non-Caucasians than Caucasians.
+Racial or Ethnic Groups: The apparent oral clearance of lamotrigine was 25% lower in non-Caucasians than Caucasians.

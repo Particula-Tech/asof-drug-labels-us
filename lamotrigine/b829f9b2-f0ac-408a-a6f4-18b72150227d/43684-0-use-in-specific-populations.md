@@ -11,13 +11,14 @@ Pregnancy Category C
 There are no adequate and well-controlled studies in pregnant women.
 In animal studies, lamotrigine was developmentally toxic at doses lower than those administered clinically.
 Lamotrigine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-When lamotrigine was administered to pregnant mice, rats, or rabbits during the period of organogenesis (oral doses of up to 125, 25, and 30 mg/kg, respectively), reduced fetal body weight and increased incidences of fetal skeletal variations were seen in mice and rats at doses that were also maternally toxic.
-The no-effect doses for embryofetal developmental toxicity in mice, rats, and rabbits (75, 6.25, and 30 mg/kg, respectively) are similar to (mice and rabbits) or less than (rats) the human dose of 400 mg/day on a body surface area (mg/m2) basis.
-In a study in which pregnant rats were administered lamotrigine (oral doses of 5 or 25 mg/kg) during the period of organogenesis and offspring were evaluated postnatally, behavioral abnormalities were observed in exposed offspring at both doses.
+When lamotrigine was administered to pregnant mice, rats, or rabbits during the period of organogenesis (oral doses of up to 125 mg/kg, 25 mg/kg, and 30 mg/kg, respectively), reduced fetal body weight and increased incidences of fetal skeletal variations were seen in mice and rats at doses that were also maternally toxic.
+The no-effect doses for embryofetal developmental toxicity in mice, rats, and rabbits (75 mg/kg, 6.25 mg/kg, and 30 mg/kg, respectively) are similar to (mice and rabbits) or less than (rats) the human dose of 400 mg/day on a body surface area (mg/m2) basis.
+
+In a study in which pregnant rats were administered lamotrigine (oral doses of 5 mg/kg or 25 mg/kg) during the period of organogenesis and offspring were evaluated postnatally, behavioral abnormalities were observed in exposed offspring at both doses.
 The lowest effect dose for developmental neurotoxicity in rats is less than the human dose of 400 mg/day on a mg/m2 basis.
 Maternal toxicity was observed at the higher dose tested.
 
-When pregnant rats were administered lamotrigine (oral doses of 5, 10, or 20 mg/kg) during the latter part of gestation, increased offspring mortality (including stillbirths) was seen at all doses.
+When pregnant rats were administered lamotrigine (oral doses of 5 mg/kg, 10 mg/kg, or 20 mg/kg) during the latter part of gestation, increased offspring mortality (including stillbirths) was seen at all doses.
 The lowest effect dose for peri/postnatal developmental toxicity in rats is less than the human dose of 400 mg/day on a mg/m2 basis.
 Maternal toxicity was observed at the 2 highest doses tested.
 
@@ -54,12 +55,14 @@ Lamotrigine was associated with an increased risk for infectious adverse reactio
 Infectious adverse reactions included bronchiolitis, bronchitis, ear infection, eye infection, otitis externa, pharyngitis, urinary tract infection, and viral infection.
 Respiratory adverse reactions included nasal congestion, cough, and apnea.
 
-Additional information describing a clinical study in which efficacy was not demonstrated in pediatric patients ages 10 to 17 years is approved for GlaxoSmithKline LLC's LAMICTAL® (lamotrigine) products.
-However, due to GlaxoSmithKline LLC's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Bipolar Disorder
+
+Safety and efficacy of lamotrigine for the maintenance treatment of bipolar disorder were not established in a double-blind, randomized withdrawal, placebo-controlled trial that evaluated 301 pediatric patients aged 10 to 17 years with a current manic/hypomanic, depressed, or mixed mood episode as defined by DSM-IV-TR.
+In the randomized phase of the trial, adverse reactions that occurred in at least 5% of patients taking lamotrigine (n = 87) and were twice as common compared with patients taking placebo (n = 86) were influenza (lamotrigine 8%, placebo 2%), oropharyngeal pain (lamotrigine 8%, placebo 2%), vomiting (lamotrigine 6%, placebo 2%), contact dermatitis (lamotrigine 5%, placebo 2%), upper abdominal pain (lamotrigine 5%, placebo 1%), and suicidal ideation (lamotrigine 5%, placebo 0%).
 
 Juvenile Animal Data
 
-In a juvenile animal study in which lamotrigine (oral doses of 5, 15, or 30 mg/kg) was administered to young rats (postnatal days 7 to 62), decreased viability and growth were seen at the highest dose tested and long-term behavioral abnormalities (decreased locomotor activity, increased reactivity, and learning deficits in animals tested as adults) were observed at the 2 highest doses.
+In a juvenile animal study in which lamotrigine (oral doses of 5 mg/kg, 15 mg/kg, or 30 mg/kg) was administered to young rats (postnatal days 7 to 62), decreased viability and growth were seen at the highest dose tested and long-term behavioral abnormalities (decreased locomotor activity, increased reactivity, and learning deficits in animals tested as adults) were observed at the 2 highest doses.
 The no-effect dose for adverse effects on neurobehavioral development is less than the human dose of 400 mg/day on a mg/m2 basis.
 
 ## 8.5 Geriatric Use
