@@ -2,7 +2,7 @@
 
 Pack Size: 100 Tablets:
 
-NDC 10702-018-01
+NDC 10702- 018-01
 
 Oxycodone Hydrochloride Tablets, USP CII
 
@@ -18,7 +18,7 @@ KVK-Tech, Inc.
 
 Pack Size: 500 Tablets:
 
-NDC 10702-018-50
+NDC 10702- 018-50
 
 Oxycodone Hydrochloride Tablets, USP CII
 
@@ -36,7 +36,7 @@ KVK-Tech, Inc.
 
 Pack Size: 100 Tablets:
 
-NDC 10702-056-01
+NDC 10702- 056-01
 
 Oxycodone Hydrochloride Tablets, USP CII
 
@@ -52,7 +52,7 @@ KVK-Tech, Inc.
 
 Pack Size: 500 Tablets:
 
-NDC 10702-056-50
+NDC 10702- 056-50
 
 Oxycodone Hydrochloride Tablets, USP CII
 
@@ -70,7 +70,7 @@ KVK-Tech, Inc.
 
 Pack Size: 100 Tablets:
 
-NDC 10702-008-01
+NDC 10702- 008-01
 
 Oxycodone Hydrochloride Tablets, USP CII
 
@@ -86,7 +86,7 @@ KVK-Tech, Inc.
 
 Pack Size: 500 Tablets:
 
-NDC 10702-008-50
+NDC 10702- 008-50
 
 Oxycodone Hydrochloride Tablets, USP CII
 
@@ -104,7 +104,7 @@ KVK-Tech, Inc.
 
 Pack Size: 100 Tablets:
 
-NDC 10702-057-01
+NDC 10702- 057-01
 
 Oxycodone Hydrochloride Tablets, USP CII
 
@@ -120,7 +120,7 @@ KVK-Tech, Inc.
 
 Pack Size: 500 Tablets:
 
-NDC 10702-057-50
+NDC 10702- 057-50
 
 Oxycodone Hydrochloride Tablets, USP CII
 
@@ -138,7 +138,7 @@ KVK-Tech, Inc.
 
 Pack Size: 100 Tablets:
 
-NDC 10702-009-01
+NDC 10702- 009-01
 
 Oxycodone Hydrochloride Tablets, USP CII
 
@@ -154,7 +154,7 @@ KVK-Tech, Inc.
 
 Pack Size: 500 Tablets:
 
-NDC 10702-009-50
+NDC 10702- 009-50
 
 Oxycodone Hydrochloride Tablets, USP CII
 

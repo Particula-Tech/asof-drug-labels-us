@@ -1,6 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-Oxycodone Hydrochloride Tablets are contraindicated in patients with:
+Oxycodone hydrochloride tablets are contraindicated in patients with:
 
 - Significant respiratory depression [see Warnings and Precautions (5.2)]
 - Acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment or hypercarbia [see Warnings and Precautions (5.6)]

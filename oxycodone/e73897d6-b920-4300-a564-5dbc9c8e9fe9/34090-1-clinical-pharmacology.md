@@ -58,12 +58,12 @@ In opioid-tolerant patients, the situation may be altered by the development of 
 
 ## 12.3 Pharmacokinetics
 
-The activity of Oxycodone Hydrochloride Tablets is primarily due to the parent drug oxycodone.
-Oxycodone Hydrochloride Tablets are designed to provide immediate release of oxycodone.
+The activity of oxycodone hydrochloride tablets is primarily due to the parent drug oxycodone.
+Oxycodone hydrochloride tablets are designed to provide immediate release of oxycodone.
 
 | Table 2: Pharmacokinetic Parameters (Mean±SD) |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Dose\Parameters | AUC(ngxhr/mL) | Cmax(ng/mL) | Tmax(hr) | Cmin(ng/mL) | Cavg(ng/mL) | Half-Life(hr) |
+| Dose\Parameters | AUC(ngxhr/mL) | C max(ng/mL) | T max(hr) | C min(ng/mL) | C avg(ng/mL) | Half-Life(hr) |
 | Single DosePharmacokinetics |  |  |  |  |  |  |
 | Oxycodone Hydrochloride5 mg tabs x 3 | 133.2±33 | 22.3±8.2 | 1.8±1.8 | n/a | n/a | 3.73±0.9 |
 | Oxycodone Hydrochloride15 mg tab | 128.2±35.1 | 22.6±7.6 | 1.4±0.7 | n/a | n/a | 3.55±1.0 |
@@ -80,21 +80,21 @@ Absorption
 
 About 60% to 87% of an oral dose of oxycodone reaches the systemic circulation in comparison to a parenteral dose.
 This high oral bioavailability (compared to other oral opioids) is due to lower presystemic and/or first-pass metabolism of oxycodone.
-The relative oral bioavailability of Oxycodone Hydrochloride Tablets 15 mg and 30 mg tablets, compared to the 5 mg Oxycodone Hydrochloride Tablets, is 96% and 101% respectively.
-Oxycodone Hydrochloride 15 mg tablets and 30 mg tablets are bioequivalent to the 5 mg Oxycodone Hydrochloride Tablets (see Table 2 for pharmacokinetic parameters).
-Dose proportionality of oxycodone has been established using the Oxycodone Hydrochloride 5 mg tablets at doses of 5 mg, 15 mg (three 5 mg tablets) and 30 mg (six 5 mg tablets) based on extent of absorption (AUC) (see Figure 1).
-It takes approximately 18 to 24 hours to reach steady-state plasma concentrations of oxycodone with Oxycodone Hydrochloride Tablets.
+The relative oral bioavailability of oxycodone hydrochloride tablets 15 mg and 30 mg tablets, compared to the 5 mg oxycodone hydrochloride tablets, is 96% and 101% respectively.
+Oxycodone hydrochloride 15 mg tablets and 30 mg tablets are bioequivalent to the 5 mg oxycodone hydrochloride tablets (see Table 2 for pharmacokinetic parameters).
+Dose proportionality of oxycodone has been established using the oxycodone hydrochloride 5 mg tablets at doses of 5 mg, 15 mg (three 5 mg tablets) and 30 mg (six 5 mg tablets) based on extent of absorption (AUC) (see Figure 1).
+It takes approximately 18 to 24 hours to reach steady-state plasma concentrations of oxycodone with oxycodone hydrochloride tablets.
 
 Food Effects
 
 A single-dose food effect study was conducted in normal volunteers using the 5 mg/5 mL solution.
 The concurrent intake of a high fat meal was shown to enhance the extent (27% increase in AUC), but not the rate of oxycodone absorption from the oral solution (see Table 2).
-In addition, food caused a delay in Tmax (1.25 to 2.54 hour).
+In addition, food caused a delay in T max (1.25 to 2.54 hour).
 Similar effects of food are expected with the 15 mg and 30 mg tablets.
 
 Distribution
 
-Following intravenous administration, the volume of distribution (Vss) for oxycodone was 2.6 L/kg.
+Following intravenous administration, the volume of distribution (V ss) for oxycodone was 2.6 L/kg.
 Plasma protein binding of oxycodone at 37°C and a pH of 7.4 was about 45%.
 Oxycodone has been found in breast milk [see Special Populations (8.2)].
 
@@ -124,7 +124,7 @@ Population pharmacokinetic studies conducted with Oxycodone Hydrochloride Tablet
 
 Hepatic Impairment
 
-In a clinical trial supporting the development of Oxycodone Hydrochloride Tablets, too few patients with decreased hepatic function were evaluated to study these potential differences.
+In a clinical trial supporting the development of oxycodone hydrochloride tablets, too few patients with decreased hepatic function were evaluated to study these potential differences.
 However, because oxycodone is extensively metabolized in the liver, its clearance may decrease in hepatic impaired patients [see Use in Specific Populations (8.6)].
 
 Renal Impairment

@@ -86,8 +86,14 @@ Disposal of Unused Oxycodone Hydrochloride Tablets
 
 Advise patients to dispose of unused Oxycodone Hydrochloride Tablets by flushing the tablets down the toilet or disposing of in accordance with local state guidelines and/or regulations.
 
-Manufactured by: KVK-Tech, Inc. 110 Terry Drive Newtown, PA 18940
+Manufactured by:
 
-Item ID# 6102/04 05/17 Manufacturer’s Code: 10702
+KVK-Tech, Inc.
 
-Pharmacist: Dispense the accompanying Medication Guide (Item ID # 6314) to each patient.
+110 Terry Drive
+
+Newtown, PA 18940
+
+Item ID# 6102/05 05/18
+
+Manufacturer’s Code: 10702

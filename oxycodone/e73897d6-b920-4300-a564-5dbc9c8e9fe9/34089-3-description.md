@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Oxycodone Hydrochloride Tablets, USP contains oxycodone, an opioid agonist.
+Oxycodone hydrochloride tablets, USP contains oxycodone, an opioid agonist.
 
 Each tablet for oral administration contains 5 mg, 10 mg, 15 mg, 20 mg, or 30 mg, of oxycodone hydrochloride USP.
 
@@ -9,7 +9,7 @@ Oxycodone hydrochloride dissolves in water (1 g in 6 to 7 mL) and is considered 
 
 Chemically, oxycodone hydrochloride is 4, 5α-epoxy-14-hydroxy-3-methoxy-17-methylmorphinan-6-one hydrochloride and has the following structural formula:
 
-Oxycodone Hydrochloride Tablets, USP contains inactive ingredients: corn starch; lactose monohydrate; microcrystalline cellulose; silicon dioxide; sodium starch glycolate; and stearic acid.
+Oxycodone hydrochloride tablets, USP contains inactive ingredients: corn starch; lactose monohydrate; microcrystalline cellulose; silicon dioxide; sodium starch glycolate; and stearic acid.
 The 10 mg tablet also contains D&C Red No. 27 aluminum lake.
 The 15 mg tablet also contains D&C Yellow No. 10 aluminum lake and FD&C Blue No. 2 aluminum lake.
 The 20 mg tablet also contains FD&C Blue No. 2 aluminum lake; FD&C Red No. 40 aluminum lake; and FD&C Yellow No. 6 aluminum lake.

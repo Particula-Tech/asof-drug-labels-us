@@ -16,19 +16,19 @@ The following serious adverse reactions are described, or described in greater d
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Oxycodone Hydrochloride Tablets have been evaluated in open label clinical trials in patients with cancer and nonmalignant pain.
-Oxycodone Hydrochloride Tablets are associated with adverse experiences similar to those seen with other opioids.
+Oxycodone hydrochloride tablets have been evaluated in open label clinical trials in patients with cancer and nonmalignant pain.
+Oxycodone hydrochloride tablets are associated with adverse experiences similar to those seen with other opioids.
 
-Serious adverse reactions associated with Oxycodone Hydrochloride Tablets use included: respiratory depression, respiratory arrest, circulatory depression, cardiac arrest, hypotension, and/or shock.
+Serious adverse reactions associated with oxycodone hydrochloride tablets use included: respiratory depression, respiratory arrest, circulatory depression, cardiac arrest, hypotension, and/or shock.
 
-The common adverse reactions seen on initiation of therapy with Oxycodone Hydrochloride Tablets are dose-related and are typical opioid-related adverse reactions.
+The common adverse reactions seen on initiation of therapy with oxycodone hydrochloride tablets are dose-related and are typical opioid-related adverse reactions.
 The most frequent of these included nausea, constipation, vomiting, headache, pruritus, insomnia, dizziness, asthenia, and somnolence.
 The frequency of these reactions depended on several factors, including clinical setting, the patient’s level of opioid tolerance, and host factors specific to the individual.
 
-In all patients for whom dosing information was available (n=191) from the open-label and double-blind studies involving Oxycodone Hydrochloride Tablets, the following adverse events were recorded in Oxycodone Hydrochloride Tablets treated patients with an incidence ≥ 3%.
+In all patients for whom dosing information was available (n=191) from the open-label and double-blind studies involving oxycodone hydrochloride tablets, the following adverse events were recorded in oxycodone hydrochloride tablets treated patients with an incidence ≥ 3%.
 In descending order of frequency, they were: nausea, constipation, vomiting, headache, pruritus, insomnia, dizziness, asthenia, and somnolence.
 
-Other less frequently observed adverse reactions from opioid analgesics, including Oxycodone Hydrochloride Tablets included:
+Other less frequently observed adverse reactions from opioid analgesics, including oxycodone hydrochloride tablets included:
 
 Blood and lymphatic system disorders: anemia, leukopenia
 

@@ -2,12 +2,12 @@
 
 ## 9.1 Controlled Substance
 
-Oxycodone Hydrochloride Tablets contains oxycodone, a Schedule II controlled substance.
+Oxycodone hydrochloride tablets contains oxycodone, a Schedule II controlled substance.
 
 ## 9.2 Abuse
 
-Oxycodone Hydrochloride Tablets contains oxycodone, a substance with a high potential for abuse similar to other opioids including fentanyl, hydrocodone, hydromorphone, methadone, morphine, oxymorphone, and tapentadol.
-Oxycodone Hydrochloride Tablets can be abused and is subject to misuse, addiction, and criminal diversion [see Warnings and Precautions (5.1)].
+Oxycodone hydrochloride tablets contains oxycodone, a substance with a high potential for abuse similar to other opioids including fentanyl, hydrocodone, hydromorphone, methadone, morphine, oxymorphone, and tapentadol.
+Oxycodone hydrochloride tablets can be abused and is subject to misuse, addiction, and criminal diversion [see Warnings and Precautions (5.1)].
 
 All patients treated with opioids require careful monitoring for signs of abuse and addiction, because use of opioid analgesic products carries the risk of addiction even under appropriate medical use.
 
@@ -24,16 +24,16 @@ Abuse and addiction are separate and distinct from physical dependence and toler
 Healthcare providers should be aware that addiction may not be accompanied by concurrent tolerance and symptoms of physical dependence in all addicts.
 In addition, abuse of opioids can occur in the absence of true addiction.
 
-Oxycodone Hydrochloride Tablets, like other opioids, can be diverted for non-medical use into illicit channels of distribution.
+Oxycodone hydrochloride tablets, like other opioids, can be diverted for non-medical use into illicit channels of distribution.
 Careful record-keeping of prescribing information, including quantity, frequency, and renewal requests, as required by state and federal law, is strongly advised.
 
 Proper assessment of the patient, proper prescribing practices, periodic re-evaluation of therapy, and proper dispensing and storage are appropriate measures that help to limit abuse of opioid drugs.
 
 Risks Specific to Abuse of Oxycodone Hydrochloride Tablets
 
-Oxycodone Hydrochloride Tablets is for oral use only.
-Abuse of Oxycodone Hydrochloride Tablets poses a risk of overdose and death.
-The risk is increased with concurrent abuse of Oxycodone Hydrochloride Tablets with alcohol and other central nervous system depressants.
+Oxycodone hydrochloride tablets is for oral use only.
+Abuse of oxycodone hydrochloride tablets poses a risk of overdose and death.
+The risk is increased with concurrent abuse of oxycodone hydrochloride tablets with alcohol and other central nervous system depressants.
 
 Parenteral drug abuse is commonly associated with transmission of infectious diseases such as hepatitis and HIV.
 
@@ -47,8 +47,8 @@ Physical dependence results in withdrawal symptoms after abrupt discontinuation 
 Withdrawal also may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone, nalmefene), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
 Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued opioid usage.
 
-Oxycodone Hydrochloride Tablets should not be abruptly discontinued in a physically-dependent patient [see Dosage and Administration (2.4)].
-If Oxycodone Hydrochloride Tablets are abruptly discontinued in a physically-dependent patient, a withdrawal syndrome may occur.
+Oxycodone hydrochloride tablets should not be abruptly discontinued in a physically-dependent patient [see Dosage and Administration (2.4)].
+If oxycodone hydrochloride tablets are abruptly discontinued in a physically-dependent patient, a withdrawal syndrome may occur.
 Some or all of the following can characterize this syndrome: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
 Other signs and symptoms also may develop, including irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
 
