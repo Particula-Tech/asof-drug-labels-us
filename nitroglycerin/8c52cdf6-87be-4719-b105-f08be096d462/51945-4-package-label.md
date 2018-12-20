@@ -48,3 +48,5 @@ Directions for Use: See Package Insert.
 AMERICAN REGENT, INC.
 
 SHIRLEY, NY 11967
+
+# Serialization Label
