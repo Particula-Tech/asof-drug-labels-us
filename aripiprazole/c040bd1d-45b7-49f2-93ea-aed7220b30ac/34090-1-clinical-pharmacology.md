@@ -3,18 +3,18 @@
 ## 12.1 Mechanism of Action
 
 The mechanism of action of aripiprazole in schizophrenia or bipolar mania, is unknown.
-However, the efficacy of aripiprazole could be mediated through a combination of partial agonist activity at D2 and 5-HT1A receptors and antagonist activity at 5-HT2A receptors.
-Actions at receptors other than D2, 5-HT1A, and 5-HT2A may explain some of the other clinical effects of aripiprazole (e.g., the orthostatic hypotension observed with aripiprazole may be explained by its antagonist activity at adrenergic alpha1 receptors).
+However, the efficacy of aripiprazole could be mediated through a combination of partial agonist activity at D2 and 5-HT 1A receptors and antagonist activity at 5-HT 2A receptors.
+Actions at receptors other than D2, 5-HT 1A, and 5-HT 2A may explain some of the other clinical effects of aripiprazole (e.g., the orthostatic hypotension observed with aripiprazole may be explained by its antagonist activity at adrenergic alpha1 receptors).
 
 ## 12.2 Pharmacodynamics
 
-Aripiprazole exhibits high affinity for dopamine D2 and D3, serotonin 5-HT1A and 5-HT2A receptors (Ki values of 0.34 nM, 0.8 nM, 1.7 nM, and 3.4 nM, respectively), moderate affinity for dopamine D4, serotonin 5-HT2C and 5-HT7, alpha1-adrenergic and histamine H1 receptors (Ki values of 44 nM, 15 nM, 39 nM, 57 nM, and 61 nM, respectively), and moderate affinity for the serotonin reuptake site (Ki=98 nM).
-Aripiprazole has no appreciable affinity for cholinergic muscarinic receptors (IC50>1000 nM).
-[Aripiprazole functions as a partial agonist at the dopamine D2 and the serotonin 5-HT1A receptors, and as an antagonist at serotonin 5-HT2A receptor.]
+Aripiprazole exhibits high affinity for dopamine D 2 and D 3, serotonin 5-HT 1A and 5-HT 2A receptors (K i values of 0.34 nM, 0.8 nM, 1.7 nM, and 3.4 nM, respectively), moderate affinity for dopamine D 4, serotonin 5-HT 2C and 5-HT 7, alpha1-adrenergic and histamine H 1 receptors (K i values of 44 nM, 15 nM, 39 nM, 57 nM, and 61 nM, respectively), and moderate affinity for the serotonin reuptake site (K i=98 nM).
+Aripiprazole has no appreciable affinity for cholinergic muscarinic receptors (IC 50>1000 nM).
+[Aripiprazole functions as a partial agonist at the dopamine D 2 and the serotonin 5-HT 1A receptors, and as an antagonist at serotonin 5-HT 2A receptor.]
 
 ## 12.3 Pharmacokinetics
 
-ABILIFY activity is presumably primarily due to the parent drug, aripiprazole, and to a lesser extent, to its major metabolite, dehydro-aripiprazole, which has been shown to have affinities for D2 receptors similar to the parent drug and represents 40% of the parent drug exposure in plasma.
+ABILIFY activity is presumably primarily due to the parent drug, aripiprazole, and to a lesser extent, to its major metabolite, dehydro-aripiprazole, which has been shown to have affinities for D 2 receptors similar to the parent drug and represents 40% of the parent drug exposure in plasma.
 The mean elimination half-lives are about 75 hours and 94 hours for aripiprazole and dehydro-aripiprazole, respectively.
 Steady-state concentrations are attained within 14 days of dosing for both active moieties.
 Aripiprazole accumulation is predictable from single-dose pharmacokinetics.

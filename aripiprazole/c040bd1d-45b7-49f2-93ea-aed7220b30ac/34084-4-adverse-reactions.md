@@ -4,21 +4,21 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 The following adverse reactions are discussed in more detail in other sections of the labeling:
 
-- •Increased Mortality in Elderly Patients with Dementia-Related Psychosis [see BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1)]
-- •Cerebrovascular Adverse Events, Including Stroke [see WARNINGS AND PRECAUTIONS (5.2)]
-- •Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults [see BOXED WARNING and WARNINGS AND PRECAUTIONS (5.3)]
-- •Neuroleptic Malignant Syndrome (NMS) [see WARNINGS AND PRECAUTIONS (5.4)]
-- •Tardive Dyskinesia [see WARNINGS AND PRECAUTIONS (5.5)]
-- •Metabolic Changes [see WARNINGS AND PRECAUTIONS (5.6)]
-- •Pathological Gambling and Other Compulsive Behaviors [see WARNINGS AND PRECAUTIONS (5.7)]
-- •Orthostatic Hypotension [see WARNINGS AND PRECAUTIONS (5.8)]
-- •Falls [see WARNINGS AND PRECAUTIONS (5.9)]
-- •Leukopenia, Neutropenia, and Agranulocytosis [see WARNINGS AND PRECAUTIONS (5.10)]
-- •Seizures/Convulsions [see WARNINGS AND PRECAUTIONS (5.11)]
-- •Potential for Cognitive and Motor Impairment [see WARNINGS AND PRECAUTIONS (5.12)]
-- •Body Temperature Regulation [see WARNINGS AND PRECAUTIONS (5.13)]
-- •Suicide [see WARNINGS AND PRECAUTIONS (5.14)]
-- •Dysphagia [see WARNINGS AND PRECAUTIONS (5.15)]
+- Increased Mortality in Elderly Patients with Dementia-Related Psychosis [see BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1)]
+- Cerebrovascular Adverse Events, Including Stroke [see WARNINGS AND PRECAUTIONS (5.2)]
+- Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults [see BOXED WARNING and WARNINGS AND PRECAUTIONS (5.3)]
+- Neuroleptic Malignant Syndrome (NMS) [see WARNINGS AND PRECAUTIONS (5.4)]
+- Tardive Dyskinesia [see WARNINGS AND PRECAUTIONS (5.5)]
+- Metabolic Changes [see WARNINGS AND PRECAUTIONS (5.6)]
+- Pathological Gambling and Other Compulsive Behaviors [see WARNINGS AND PRECAUTIONS (5.7)]
+- Orthostatic Hypotension [see WARNINGS AND PRECAUTIONS (5.8)]
+- Falls [see WARNINGS AND PRECAUTIONS (5.9)]
+- Leukopenia, Neutropenia, and Agranulocytosis [see WARNINGS AND PRECAUTIONS (5.10)]
+- Seizures/Convulsions [see WARNINGS AND PRECAUTIONS (5.11)]
+- Potential for Cognitive and Motor Impairment [see WARNINGS AND PRECAUTIONS (5.12)]
+- Body Temperature Regulation [see WARNINGS AND PRECAUTIONS (5.13)]
+- Suicide [see WARNINGS AND PRECAUTIONS (5.14)]
+- Dysphagia [see WARNINGS AND PRECAUTIONS (5.15)]
 
 The most common adverse reactions in adult patients in clinical trials (≥10%) were nausea, vomiting, constipation, headache, dizziness, akathisia, anxiety, insomnia, and restlessness.
 
@@ -70,7 +70,7 @@ Table 17 enumerates the pooled incidence, rounded to the nearest percent, of adv
 
 Table 17: Adverse Reactions in Short-Term, Placebo-Controlled Trials in Adult Patients Treated with Oral ABILIFY
 
-|  | Percentage of Patients Reporting Reactiona |  |
+|  | Percentage of Patients Reporting Reaction a |  |
 | --- | --- | --- |
 | System Organ Class | ABILIFY | Placebo |
 | Preferred Term | (n=1843) | (n=1166) |
@@ -132,7 +132,7 @@ Table 18 enumerates the incidence, rounded to the nearest percent, of adverse re
 
 Table 18: Adverse Reactions in a Short-Term, Placebo-Controlled Trial of Adjunctive Therapy in Patients with Bipolar Disorder
 
-|  | Percentage of Patients Reporting Reactiona |  |
+|  | Percentage of Patients Reporting Reaction a |  |
 | --- | --- | --- |
 | System Organ Class | ABILIFY +Li or Val* | Placebo +Li or Val* |
 | Preferred Term | (n=253) | (n=130) |
@@ -258,7 +258,7 @@ Table 22 enumerates the pooled incidence, rounded to the nearest percent, of adv
 
 Table 22: Adverse Reactions in Short-Term, Placebo-Controlled Trials of Pediatric Patients (6 to 18 years) Treated with Oral ABILIFY
 
-|  | Percentage of Patients Reporting Reactiona |  |
+|  | Percentage of Patients Reporting Reaction a |  |
 | --- | --- | --- |
 | System Organ Class | ABILIFY | Placebo |
 | Preferred Term | (n=732) | (n=370) |
@@ -322,7 +322,7 @@ Table 23 enumerates the pooled incidence, rounded to the nearest percent, of adv
 
 Table 23: Adverse Reactions in Short-Term, Placebo-Controlled Adjunctive Trials in Patients with Major Depressive Disorder
 
-|  | Percentage of Patients Reporting Reactiona |  |
+|  | Percentage of Patients Reporting Reaction a |  |
 | --- | --- | --- |
 | System Organ Class | ABILIFY + ADT* | Placebo + ADT* |
 | Preferred Term | (n=371) | (n=366) |
@@ -369,7 +369,7 @@ Table 24 enumerates the pooled incidence, rounded to the nearest percent, of adv
 
 Table 24: Adverse Reactions in Short-Term, Placebo-Controlled Trials in Patients Treated with ABILIFY Injection
 
-|  | Percentage of Patients Reporting Reactiona |  |
+|  | Percentage of Patients Reporting Reaction a |  |
 | --- | --- | --- |
 | System Organ Class | ABILIFY | Placebo |
 | Preferred Term | (n=501) | (n=220) |

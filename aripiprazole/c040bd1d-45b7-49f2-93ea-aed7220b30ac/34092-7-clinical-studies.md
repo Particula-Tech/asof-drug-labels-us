@@ -2,16 +2,16 @@
 
 Efficacy of the oral formulations of ABILIFY (aripiprazole) was established in the following adequate and well-controlled trials:
 
-- •Four short-term trials and one maintenance trial in adult patients and one short-term trial in adolescents (ages 13-17) with schizophrenia [see CLINICAL STUDIES (14.1)]
-- •Four short-term monotherapy trials and one 6-week adjunctive trial in adult patients and one short-term monotherapy trial in pediatric patients (ages 10-17) with manic or mixed episodes [see CLINICAL STUDIES (14.2)]
-- •One maintenance monotherapy trial and in one maintenance adjunctive trial in adult patients with bipolar I disorder [see CLINICAL STUDIES (14.2)]
-- •Two short-term trials in adult patients with MDD who had an inadequate response to antidepressant therapy during the current episode [see CLINICAL STUDIES (14.3)]
-- •Two short-term trials in pediatric patients (ages 6-17 years) for the treatment of irritability associated with autistic disorder [see CLINICAL STUDIES (14.4)]
-- •Two short-term trials in pediatric patients (ages 6-18 years) with Tourette’s disorder [see CLINICAL STUDIES (14.5)]
+- Four short-term trials and one maintenance trial in adult patients and one short-term trial in adolescents (ages 13-17) with schizophrenia [see CLINICAL STUDIES (14.1)]
+- Four short-term monotherapy trials and one 6-week adjunctive trial in adult patients and one short-term monotherapy trial in pediatric patients (ages 10-17) with manic or mixed episodes [see CLINICAL STUDIES (14.2)]
+- One maintenance monotherapy trial and in one maintenance adjunctive trial in adult patients with bipolar I disorder [see CLINICAL STUDIES (14.2)]
+- Two short-term trials in adult patients with MDD who had an inadequate response to antidepressant therapy during the current episode [see CLINICAL STUDIES (14.3)]
+- Two short-term trials in pediatric patients (ages 6-17 years) for the treatment of irritability associated with autistic disorder [see CLINICAL STUDIES (14.4)]
+- Two short-term trials in pediatric patients (ages 6-18 years) with Tourette’s disorder [see CLINICAL STUDIES (14.5)]
 
 Efficacy of the injectable formulation of ABILIFY (aripiprazole) was established in the following adequate and well-controlled trials:
 
-- •Three 24-hour trials in agitated adult patients with schizophrenia or manic/mixed episodes of bipolar I disorder [see CLINICAL STUDIES (14.6)]
+- Three 24-hour trials in agitated adult patients with schizophrenia or manic/mixed episodes of bipolar I disorder [see CLINICAL STUDIES (14.6)]
 
 ## 14.1 Schizophrenia
 
@@ -55,7 +55,7 @@ Table 26: Schizophrenia Studies
 
 | Study Number | Treatment Group | Primary Efficacy Measure: PANSS |  |  |
 | --- | --- | --- | --- | --- |
-|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Differencea (95% CI) |
+|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference a (95% CI) |
 | Study 1 | ABILIFY (15 mg/day)* | 98.5 (17.2) | -15.5 (2.40) | -12.6 (-18.9, -6.2) |
 |  | ABILIFY (30 mg/day)* | 99.0 (19.2) | -11.4 (2.39) | -8.5 (-14.8, -2.1) |
 |  | Placebo | 100.2 (16.5) | -2.9 (2.36) | -- |
@@ -116,7 +116,7 @@ Table 27: Bipolar Studies
 
 | Study Number | Treatment Group | Primary Efficacy Measure: Y-MRS |  |  |
 | --- | --- | --- | --- | --- |
-|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Differencea (95% CI) |
+|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference a (95% CI) |
 | Study 1 | ABILIFY (30 / 15 mg/day)* | 29.0 (5.9) | -12.52 (1.05) | -5.33 (-7.90, -2.76) |
 |  | Placebo | 28.5 (4.6) | -7.19 (1.07) | -- |
 | Study 2 | ABILIFY (30 / 15 mg/day)* | 27.8 (5.7) | -8.15 (1.23) | -4.80 (-7.80, -1.80) |
@@ -190,7 +190,7 @@ Table 28: Adjunctive Treatment of Major Depressive Disorder Studies
 
 | Study Number | Treatment Group | Primary Efficacy Measure: MADRS |  |  |
 | --- | --- | --- | --- | --- |
-|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Differencea (95% CI) |
+|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference a (95% CI) |
 | Study 1 | ABILIFY (5-20 mg/day)* + Antidepressant | 25.2 (6.2) | -8.49 (0.66) | -2.84 (-4.53, -1.15) |
 |  | Placebo + Antidepressant | 27.0 (5.5) | -5.65 (0.64) | -- |
 | Study 2 | ABILIFY (5-20 mg/day)* + Antidepressant | 26.0 (6.0) | -8.78 (0.63) | -3.01 (-4.66, -1.37) |
@@ -223,7 +223,7 @@ Table 29: Irritability Associated with Autistic Disorder Studies (Pediatric)
 
 | Study Number | Treatment Group | Primary Efficacy Measure: ABC-I |  |  |
 | --- | --- | --- | --- | --- |
-|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Differencea (95% CI) |
+|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference a (95% CI) |
 | Study 1 | ABILIFY (2-15 mg/day)* | 29.6 (6.37) | -12.9 (1.44) | -7.9 (-11.7, -4.1) |
 |  | Placebo | 30.2 (6.52) | -5.0 (1.43) | -- |
 | Study 2 | ABILIFY (5 mg/day)* | 28.6 (7.56) | -12.4 (1.36) | -4.0 (-7.7, -0.4) |
@@ -266,7 +266,7 @@ Table 30: Tourette’s Disorder Studies (Pediatric)
 
 | Study Number | Treatment Group | Primary Efficacy Measure: YGTSS TTS |  |  |
 | --- | --- | --- | --- | --- |
-|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Differencea (95% CI) |
+|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference a (95% CI) |
 | Study 1 | ABILIFY (low dose)* | 29.2 (5.63) | -13.4 (1.59) | -6.3 (-10.2, -2.3) |
 |  | ABILIFY (high dose)* | 31.2 (6.40) | -16.9 (1.61) | -9.9 (-13.8, -5.9) |
 |  | Placebo | 30.7 (5.95) | -7.1 (1.55) | -- |
@@ -300,7 +300,7 @@ Table 31: Agitation Associated with Schizophrenia or Bipolar Mania Studies
 
 | Study Number | Treatment Group | Primary Efficacy Measure: PANSS Excited Component |  |  |
 | --- | --- | --- | --- | --- |
-|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Differencea (95% CI) |
+|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference a (95% CI) |
 | Agitation Associated with Schizophrenia |  |  |  |  |
 | Study 1 | ABILIFY (1 mg) | 19.16 (3.26) | -4.47 (0.72) | -1.19 (-2.96, 0.59) |
 |  | ABILIFY (5.25 mg)* | 19.41 (3.31) | -5.65 (0.68) | -2.37 (-4.10, -0.63) |

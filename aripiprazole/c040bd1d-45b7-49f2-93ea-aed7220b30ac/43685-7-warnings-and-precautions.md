@@ -289,11 +289,11 @@ Table 14: Percentage of Patients From Placebo-Controlled Trials in Adult Patient
 
 | Weight gain ≥7% of body weight | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
-| Schizophreniaa | ABILIFY | 852 | 69 (8.1) |  |
+| Schizophrenia a | ABILIFY | 852 | 69 (8.1) |  |
 | Placebo | 379 | 12 (3.2) |  |  |
-| Bipolar Maniab | ABILIFY | 719 | 16 (2.2) |  |
+| Bipolar Mania b | ABILIFY | 719 | 16 (2.2) |  |
 | Placebo | 598 | 16 (2.7) |  |  |
-| Major Depressive Disorder (Adjunctive Therapy)c | ABILIFY | 347 | 18 (5.2) |  |
+| Major Depressive Disorder (Adjunctive Therapy) c | ABILIFY | 347 | 18 (5.2) |  |
 | Placebo | 330 | 2 (0.6) |  |  |
 | a 4-6 weeks duration. b 3 weeks duration. c 6 weeks duration. |  |  |  |  |
 
@@ -312,9 +312,9 @@ Table 15: Percentage of Patients From Placebo-Controlled Monotherapy Trials in P
 
 | Weight gain ≥7% of body weight | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
-| Pooled Schizophrenia and Bipolar Maniaa | ABILIFY | 381 | 20 (5.2) |  |
+| Pooled Schizophrenia and Bipolar Mania a | ABILIFY | 381 | 20 (5.2) |  |
 | Placebo | 187 | 3 (1.6) |  |  |
-| Irritability Associated with Autistic Disorderb | ABILIFY | 209 | 55 (26.3) |  |
+| Irritability Associated with Autistic Disorder b | ABILIFY | 209 | 55 (26.3) |  |
 | Placebo | 98 | 7 (7.1) |  |  |
 | Tourette’s Disorder c | ABILIFY | 105 | 21 (20.0) |  |
 | Placebo | 66 | 5 (7.6) |  |  |
@@ -343,7 +343,7 @@ Consider dose reduction or stopping the medication if a patient develops such ur
 
 ## 5.8 Orthostatic Hypotension
 
-ABILIFY may cause orthostatic hypotension, perhaps due to its α1-adrenergic receptor antagonism.
+ABILIFY may cause orthostatic hypotension, perhaps due to its α 1-adrenergic receptor antagonism.
 The incidence of orthostatic hypotension-associated events from short-term, placebo-controlled trials of adult patients on oral ABILIFY (n=2467) included (ABILIFY incidence, placebo incidence) orthostatic hypotension (1%, 0.3%), postural dizziness (0.5%, 0.3%), and syncope (0.5%, 0.4%); of pediatric patients 6 to 18 years of age (n=732) on oral ABILIFY included orthostatic hypotension (0.5%, 0%), postural dizziness (0.4%, 0%), and syncope (0.2%, 0%); and of patients on ABILIFY Injection (n=501) included orthostatic hypotension (0.6%, 0%), postural dizziness (0.2%, 0.5%), and syncope (0.4%, 0%) [see ADVERSE REACTIONS (6.1)].
 
 The incidence of a significant orthostatic change in blood pressure (defined as a decrease in systolic blood pressure ≥20 mmHg accompanied by an increase in heart rate ≥25 bpm when comparing standing to supine values) for ABILIFY was not meaningfully different from placebo (ABILIFY incidence, placebo incidence): in adult oral ABILIFY-treated patients (4%, 2%), in pediatric oral ABILIFY-treated patients aged 6 to 18 years (0.4%, 1%), or in ABILIFY injection-treated patients (3%, 2%).
