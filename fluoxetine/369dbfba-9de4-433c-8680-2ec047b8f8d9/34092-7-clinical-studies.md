@@ -2,14 +2,14 @@
 
 Efficacy for fluoxetine was established for the:
 
-- •Acute and maintenance treatment of Major Depressive Disorder in adults, and children and adolescents (8 to 18 years) in 7 short-term and 2 long-term, placebo-controlled trials [see Clinical Studies 14.1].
-- •Acute treatment of obsessions and compulsions in adults, and children and adolescents (7 to 17 years) with Obsessive Compulsive Disorder (OCD) in 3 short-term placebo-controlled trials [see Clinical Studies (14.2)].
-- •Acute and maintenance treatment of binge-eating and vomiting behaviors in adult patients with moderate to severe Bulimia Nervosa in 3 short-term and 1 long-term, placebo-controlled trials [see Clinical Studies (14.3)].
-- •Acute treatment of Panic Disorder, with or without agoraphobia, in adult patients in 2 short-term, placebo- controlled trials [see Clinical Studies (14.4)].
+- Acute and maintenance treatment of Major Depressive Disorder in adults, and children and adolescents (8 to 18 years) in 7 short-term and 2 long-term, placebo-controlled trials [see Clinical Studies 14.1].
+- Acute treatment of obsessions and compulsions in adults, and children and adolescents (7 to 17 years) with Obsessive Compulsive Disorder (OCD) in 3 short-term placebo-controlled trials [see Clinical Studies (14.2)].
+- Acute and maintenance treatment of binge-eating and vomiting behaviors in adult patients with moderate to severe Bulimia Nervosa in 3 short-term and 1 long-term, placebo-controlled trials [see Clinical Studies (14.3)].
+- Acute treatment of Panic Disorder, with or without agoraphobia, in adult patients in 2 short-term, placebo- controlled trials [see Clinical Studies (14.4)].
 
 Efficacy for fluoxetine and olanzapine in combination was established for the:
 
-- •Acute treatment of depressive episodes in Bipolar I Disorder in adults, and children and adolescents (10 to 17 years) in 3 short-term, placebo-controlled trials.
+- Acute treatment of depressive episodes in Bipolar I Disorder in adults, and children and adolescents (10 to 17 years) in 3 short-term, placebo-controlled trials.
 
 When using fluoxetine and olanzapine in combination, also refer to the Clinical Studies section of the package insert for Symbyax.
 
