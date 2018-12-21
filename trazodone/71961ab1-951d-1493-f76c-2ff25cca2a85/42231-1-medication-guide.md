@@ -79,11 +79,13 @@ Before you take trazodone hydrochloride tablets tell your healthcare provider ab
 - have liver or kidney problems
 - have other serious medical conditions
 - are pregnant or plan to become pregnant.
-  Trazodone hydrochloride tablets may harm your unborn baby.
-  Talk to your healthcare provider if you are pregnant or plan to become pregnant.
+  It is not known if trazodone hydrochloride tablets harm your unborn baby.
+  Talk to your healthcare provider about the risk to your unborn baby if you take trazodone hydrochloride tablets.
+- If you become pregnant during treatment with trazodone hydrochloride tablets, talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants.
+  You can register by calling 1-844-405-6185.
 - are breastfeeding or plan to breastfeed.
-  It is not known if trazodone hydrochloride passes into your breast milk.
-  You and your healthcare provider should decide if you will take trazodone hydrochloride or breastfeed.
+  Trazodone hydrochloride passes into your breast milk.
+  Talk to your healthcare provider about the best way to feed your baby if you take trazodone hydrochloride tablets.
 - have taken a Monoamine Oxidase Inhibitor (MAOI) or if you have stopped taking an MAOI in the last 2 weeks.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
@@ -200,4 +202,7 @@ APOTEX INC. TRAZODONE HYDROCHLORIDE TABLETS, USP 50 mg, 100 mg, 150 mg and 300 m
 | Toronto, Ontario | Weston Florida |
 | Canada M9L 1T9 | 33326 |
 
-Revised: July 2017
+Revised: November 2018
+
+Rev.
+6
