@@ -81,6 +81,8 @@ Rifampicin: The concomitant administration of deferasirox tablets for oral suspe
 
 Cholestyramine: The concomitant administration of cholestyramine after a single dose of deferasirox tablets for oral suspension decreased deferasirox AUCinf by 45% [see Drug Interactions (7.6)].
 
+Busulfan: Concomitant administration of deferasirox and busulfan resulted in an increase of busulfan exposure (AUC).
+
 In vitro Studies:
 
 Deferasirox inhibited human CYP2A6, CYP2D6, and CYP2C19 in vitro.

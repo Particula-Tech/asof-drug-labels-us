@@ -50,7 +50,7 @@ Prior to starting therapy, obtain:
   - Obtain serum creatinine in duplicate (due to variations in measurements)
   - Calculate the estimated glomerular filtration rate (eGFR).
     Use a prediction equation appropriate for adult patients (e.g., CKD-EPI, MDRD method) and in pediatric patients (e.g., Schwartz equations).
-  - Obtain urinalyses and serum electrolytes to evaluate renal tubular function [see Dosage and Administration (2.4), Warnings and Precautions (5.1)]
+  - Obtain urinalyses and serum electrolytes to evaluate renal tubular function [see Dosage and Administration (2.4), Warnings and Precautions (5.1)].
 - Serum transaminases and bilirubin [see Dosage and Administration (2.4), Warnings and Precautions (5.2)]
 - Baseline auditory and ophthalmic examinations [see Warnings and Precautions (5.10)]
 
@@ -82,12 +82,12 @@ Swallow JADENU tablets once daily with water or other liquids, preferably at the
 Take JADENU tablets on an empty stomach or with a light meal (contains less than 7% fat content and approximately 250 calories).
 Examples of light meals include 1 whole wheat English muffin, 1 packet jelly (0.5 ounces), and skim milk (8 fluid ounces) or a turkey sandwich (2 oz. turkey on whole wheat bread w/ lettuce, tomato, and 1 packet mustard).
 Do not take JADENU tablets with aluminum-containing antacid products [see Drug Interactions (7.1)].
-For patients who have difficulty swallowing whole tablets, JADENU tablets may be crushed and mixed with soft foods (e.g., yogurt or apple sauce) immediately prior to use and administered orally.
+For patients who have difficulty swallowing whole tablets, JADENU tablets may be crushed and mixed with soft foods (e.g., yogurt or applesauce) immediately prior to use and administered orally.
 Commercial crushers with serrated surfaces should be avoided for crushing a single 90 mg tablet.
 The dose should be immediately and completely consumed and not stored for future use.
 
 Take JADENU Sprinkle granules on an empty stomach or with a light meal [see Clinical Pharmacology (12.3)].
-Administer JADENU Sprinkle granules by sprinkling the full dose on soft food (e.g., yogurt or apple sauce) immediately prior to use and administered orally.
+Administer JADENU Sprinkle granules by sprinkling the full dose on soft food (e.g., yogurt or applesauce) immediately prior to use and administered orally.
 JADENU Sprinkle granules should be taken once a day, preferably at the same time each day.
 Do not take JADENU Sprinkle granules with aluminum-containing antacid products [see Drug Interactions (7.1)].
 
@@ -127,7 +127,7 @@ Individualize dose titration based on improvement in renal injury [see Use in Sp
 
 ## 2.5 Dose Modifications for Decreases in Renal Function while on JADENU
 
-JADENU is contraindicated in patients with eGFR less than 40 mL/minute/1.73 m2 [see Contraindications (4)]
+JADENU is contraindicated in patients with eGFR less than 40 mL/minute/1.73 m2 [see Contraindications (4)].
 
 For decreases in renal function while receiving JADENU [see Warnings and Precautions (5.1)], modify the dose as follows:
 

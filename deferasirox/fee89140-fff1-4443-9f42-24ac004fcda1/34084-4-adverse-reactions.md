@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse reactions are also discussed in other sections of the labeling:
+The following clinically significant adverse reactions are also discussed in other sections of the labeling:
 
 - Acute Kidney Injury, Including Acute Renal Failure Requiring Dialysis, and Renal Tubular Toxicity Including Fanconi Syndrome [see Warnings and Precautions (5.1)]
 - Hepatic Toxicity and Failure [see Warnings and Precautions (5.2)]
@@ -43,14 +43,14 @@ Adverse Reactions *Occurring in > 5% of Deferasirox-treated Patients in Study 1,
 
 |  | Study 1 (Beta-thalassemia) |  | Study 3 (Sickle Cell Disease) |  | MDS Pool |
 | --- | --- | --- | --- | --- | --- |
-| Adverse Reaction | Deferasirox N = 296 n (%) | Deferoxamine N = 290 n (%) | Deferasirox N = 132 n (%) | Deferoxamine N = 63 n (%) | Deferasirox N = 627 n (%) |
+| Adverse Reactions | Deferasirox N = 296 n (%) | Deferoxamine N = 290 n (%) | Deferasirox N = 132 n (%) | Deferoxamine N = 63 n (%) | Deferasirox N = 627 n (%) |
 | Abdominal Pain** | 63 (21) | 41 (14) | 37 (28) | 9 (14) | 145 (23) |
 | Diarrhea | 35 (12) | 21 (7) | 26 (20) | 3 (5) | 297 (47) |
 | Creatinine Increased*** | 33 (11) | 0 (0) | 9 (7) | 0 | 89 (14) |
 | Nausea | 31 (11) | 14 (5) | 30 (23) | 7 (11) | 161 (26) |
 | Vomiting | 30 (10) | 28 (10) | 28 (21) | 10 (16) | 83 (13) |
 | Rash | 25 (8) | 9 (3) | 14 (11) | 3 (5) | 83 (13) |
-| *Adverse reaction frequencies are based on adverse events reported regardless of relationship to study drug. **Includes ‘abdominal pain’, ‘abdominal pain lower’, and ‘abdominal pain upper’ which were reported as adverse events. ***Includes ‘blood creatinine increased’ and ‘blood creatinine abnormal’ which were reported as adverse events. See also Table 2. |  |  |  |  |  |
+| *Adverse reaction frequencies are based on adverse events reported regardless of relationship to study drug. **Includes ‘abdominal pain’, ‘abdominal pain lower’, and ‘abdominal pain upper’ which were reported as adverse events. ***Includes ‘blood creatinine increased’ and ‘blood creatinine abnormal’, which were reported as adverse events. See also Table 2. |  |  |  |  |  |
 
 In Study 1, a total of 113 (38%) patients treated with deferasirox had increases in serum creatinine greater than 33% above baseline on 2 separate occasions (Table 2) and 25 (8%) patients required dose reductions.
 Increases in serum creatinine appeared to be dose related [see Warnings and Precautions (5.1)].
@@ -91,7 +91,7 @@ Table 3 displays adverse reactions occurring in greater than 5% in any group.
 The most frequent adverse reactions with a suspected relationship to study drug were nausea, rash, and diarrhea.
 
 Table 3.
-Adverse Reactions Occurring in > 5% in NTDT Patients
+Adverse Reactions Occurring in Greater Than 5% in NTDT Patients
 
 |  | Study 4 |  | Study 5 |
 | --- | --- | --- | --- |

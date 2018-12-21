@@ -9,7 +9,7 @@ Individualize dose titration based on improvement in renal injury [see Use in Sp
 For patients with renal impairment (eGFR 40-60 mL/min/1.73 m2) reduce the starting dose by 50% [see Dosage and Administration (2.4, 2.5), Use in Specific Populations (8.6)].
 
 JADENU can cause acute kidney injury including renal failure requiring dialysis that has resulted in fatal outcomes.
-Based on postmarketing experience most fatalities have occurred in patients with multiple comorbidities and who were in advanced stages of their hematological disorders.
+Based on postmarketing experience, most fatalities have occurred in patients with multiple comorbidities and who were in advanced stages of their hematological disorders.
 In the clinical trials, adults and pediatric deferasirox-treated patients with no preexisting renal disease experienced dose-dependent mild, non-progressive increases in serum creatinine and proteinuria.
 Preexisting renal disease and concomitant use of other nephrotoxic drugs may increase the risk of acute kidney injury in adult and pediatric patients.
 Acute illnesses associated with volume depletion and overchelation may increase the risk of acute kidney injury in pediatric patients.
@@ -83,7 +83,7 @@ Use the minimum effective dose to achieve and maintain a low iron burden [see Do
 ## 5.6 Overchelation
 
 For patients with transfusional iron overload, measure serum ferritin monthly to assess for possible overchelation of iron.
-An analysis of pediatric patients treated with Exjade in pooled clinical trials (n = 158), found a higher rate of renal adverse events among patients receiving doses greater than 25 mg/kg/day equivalent to 17.5 mg/kg/day JADENU, while their serum ferritin values were less than 1,000 mcg/L.
+An analysis of pediatric patients treated with Exjade in pooled clinical trials (n = 158), found a higher rate of renal adverse events among patients receiving doses greater than 25 mg/kg/day equivalent to 17.5 mg/kg/day JADENU while their serum ferritin values were less than 1000 mcg/L.
 Consider dose reduction or closer monitoring of renal and hepatic function, and serum ferritin levels during these periods.
 Use the minimum effective dose to maintain a low-iron burden [see Adverse Reactions (6.1), Use in Specific Populations (8.4)].
 
@@ -120,7 +120,7 @@ Reintroduction at a lower dose with escalation may be considered after resolutio
 ## 5.10 Auditory and Ocular Abnormalities
 
 Auditory disturbances (high frequency hearing loss, decreased hearing), and ocular disturbances (lens opacities, cataracts, elevations in intraocular pressure, and retinal disorders) were reported at a frequency of less than 1% with deferasirox therapy in the clinical studies.
-The frequency of auditory adverse events irrespective of causality was increased among pediatric patients, who received Exjade doses greater than 25 mg/kg/day equivalent to 17.5 mg/kg/day JADENU when serum ferritin was less than 1,000 mcg/L [see Warnings and Precautions (5.6)].
+The frequency of auditory adverse events irrespective of causality was increased among pediatric patients, who received Exjade doses greater than 25 mg/kg/day equivalent to 17.5 mg/kg/day JADENU when serum ferritin was less than 1000 mcg/L [see Warnings and Precautions (5.6)].
 
 Perform auditory and ophthalmic testing (including slit lamp examinations and dilated fundoscopy) before starting JADENU treatment and thereafter at regular intervals (every 12 months).
 If disturbances are noted, monitor more frequently.

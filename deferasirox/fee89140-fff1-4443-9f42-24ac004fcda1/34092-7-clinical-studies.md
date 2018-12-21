@@ -7,7 +7,7 @@ The following information is based on clinical trials conducted with Exjade tabl
 
 Transfusional Iron Overload
 
-The primary efficacy study, Study 1, was a multicenter, open-label, randomized, active-comparator control study to compare deferasirox tablets for oral suspension and deferoxamine in patients with beta-thalassemia and transfusional hemosiderosis.
+The primary efficacy study, Study 1 (NCT00061750), was a multicenter, open-label, randomized, active-comparator control study to compare deferasirox tablets for oral suspension and deferoxamine in patients with beta-thalassemia and transfusional hemosiderosis.
 Patients greater than or equal to 2 years of age were randomized in a 1:1 ratio to receive either oral deferasirox tablets for oral suspension at starting doses of 5, 10, 20, or 30 mg per kg once daily or subcutaneous Desferal (deferoxamine) at starting doses of 20 to 60 mg per kg for at least 5 days per week based on LIC at baseline (2 to 3, greater than 3 to 7, greater than 7 to 14, and greater than 14 mg Fe/g dry weight).
 Patients randomized to deferoxamine who had LIC values less than 7 mg Fe/g dry weight were permitted to continue on their prior deferoxamine dose, even though the dose may have been higher than specified in the protocol.
 
@@ -26,14 +26,14 @@ Reduction of LIC and serum ferritin was observed with deferasirox tablet for ora
 Deferasirox tablets for oral suspension doses below 20 mg per kg per day failed to provide consistent lowering of LIC and serum ferritin levels (Figure 1).
 Therefore, a starting dose of 20 mg per kg per day is recommended [see Dosage and Administration (2.1)].
 
-Study 2 was an open-label, noncomparative trial of efficacy and safety of deferasirox tablets for oral suspension given for 1 year to patients with chronic anemias and transfusional hemosiderosis.
+Study 2 (NCT00061763) was an open-label, noncomparative trial of efficacy and safety of deferasirox tablets for oral suspension given for 1 year to patients with chronic anemias and transfusional hemosiderosis.
 Similar to Study 1, patients received 5, 10, 20, or 30 mg per kg per day of deferasirox tablets for oral suspension based on baseline LIC.
 
 A total of 184 patients were treated in this study: 85 patients with beta-thalassemia and 99 patients with other congenital or acquired anemias (myelodysplastic syndromes, n = 47; Diamond-Blackfan syndrome, n = 30; other, n = 22).
-19% of patients were less than 16 years of age and 16% were greater than or equal to 65 years of age.
+Nineteen percent of patients were less than 16 years of age and 16% were greater than or equal to 65 years of age.
 There was a reduction in the absolute LIC from baseline to end of study (-4.2 mg Fe/g dry weight).
 
-Study 3 was a multicenter, open-label, randomized trial of the safety and efficacy of deferasirox tablets for oral suspension relative to deferoxamine given for 1 year in patients with sickle cell disease and transfusional hemosiderosis.
+Study 3 (NCT00067080) was a multicenter, open-label, randomized trial of the safety and efficacy of deferasirox tablets for oral suspension relative to deferoxamine given for 1 year in patients with sickle cell disease and transfusional hemosiderosis.
 Patients were randomized to deferasirox tablets for oral suspension at doses of 5, 10, 20, or 30 mg per kg per day or subcutaneous deferoxamine at doses of 20-60 mg per kg per day for 5 days per week according to baseline LIC.
 
 A total of 195 patients were treated in this study: 132 with deferasirox tablets for oral suspension and 63 with deferoxamine.
@@ -58,7 +58,7 @@ In elderly patients, including those with MDS, individualize the decision to rem
 
 Non-Transfusion-Dependent Thalassemia
 
-Study 4 was a randomized, double-blind, placebo-controlled trial of treatment with deferasirox tablets for oral suspension for patients 10 years of age or older with NTDT syndromes and iron overload.
+Study 4 (NCT00873041) was a randomized, double-blind, placebo-controlled trial of treatment with deferasirox tablets for oral suspension for patients 10 years of age or older with NTDT syndromes and iron overload.
 Eligible patients had an LIC of at least 5 mg Fe/g dw measured by R2 MRI and a serum ferritin exceeding 300 mcg/L at screening (2 consecutive values at least 14 days apart from each other).
 A total of 166 patients were randomized, 55 to the deferasirox tablets for oral suspension 5 mg/kg/day dose group, 55 to the deferasirox tablets for oral suspension 10 mg/kg/day dose group, and 56 to placebo (28 to each matching placebo group).
 Doses could be increased after 6 months if the LIC exceeded 7 mg Fe/g dw and the LIC reduction from baseline was less than 15%.
@@ -75,7 +75,7 @@ In a descriptive analysis, the target LIC (less than 5 mg Fe/g dw) was reached b
 Table 5.
 Absolute Change in LIC at Week 52 in NTDT Patients
 
-|  |  | Deferasirox tablets for oral suspension Starting Dose1 |  |  |  |
+|  | Deferasirox tablets for oral suspension Starting Dose1 |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | Placebo | 5 mg/kg/day | 10 mg/kg/day | 20 mg/kg/day |  |
 | Study 42 |  |  |  |  |  |
@@ -90,7 +90,7 @@ Absolute Change in LIC at Week 52 in NTDT Patients
 | (95% Confidence Interval) | - | (-3.7, +0.7) | (-3.4, -2.2) | (-11.0, -7.3) |  |
 | 1Randomized dose in Study 4 or assigned starting dose in Study 5 2Least square mean change for Study 4 |  |  |  |  |  |
 
-Study 5 was an open-label trial of deferasirox tablets for oral suspension for the treatment of patients previously enrolled on Study 4, including cross-over to active treatment for those previously treated with placebo.
+Study 5 (NCT00873041) was an open-label trial of deferasirox tablets for oral suspension for the treatment of patients previously enrolled on Study 4, including cross-over to active treatment for those previously treated with placebo.
 The starting dose of deferasirox tablets for oral suspension in Study 5 was assigned based on the patient’s LIC at completion of Study 4, being 20 mg/kg/day for an LIC exceeding 15 mg Fe/g dw, 10 mg/kg/day for LIC 3 to 15 mg Fe/g dw, and observation if the LIC was less than 3 mg Fe/g dw.
 Patients could continue on 5 mg/kg/day if they had previously exhibited at least a 30% reduction in LIC.
 Doses could be increased to a maximum of 20 mg/kg/day after 6 months if the LIC was more than 7 mg Fe/g dw and the LIC reduction from baseline was less than 15%.

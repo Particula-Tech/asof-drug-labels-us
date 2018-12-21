@@ -6,11 +6,11 @@ Advise patients to take JADENU tablets with water or other liquids.
 Advise patients to swallow JADENU tablets once daily with water or other liquids, preferably at the same time each day.
 Advise patients to take JADENU tablets on an empty stomach or with a light meal (contains less than 7% fat content and approximately 250 calories).
 Examples of light meals include 1 whole wheat English muffin, 1 packet jelly (0.5 ounces), and skim milk (8 fluid ounces) or a turkey sandwich (2 oz. turkey on whole wheat bread w/lettuce, tomato, and 1 packet mustard).
-For patients who have difficulty swallowing whole tablets, JADENU tablets may be crushed and mixed with soft foods (e.g., yogurt or apple sauce) immediately prior to use and administered orally.
+For patients who have difficulty swallowing whole tablets, JADENU tablets may be crushed and mixed with soft foods (e.g., yogurt or applesauce) immediately prior to use and administered orally.
 Advise against the use of commercial crushers with serrated surfaces for crushing a single 90 mg tablet.
 Advise patients to immediately and completely consume the dose and not store it for future use [see Dosage and Administration (2.3)].
 
-Advise patients to take JADENU Sprinkle granules by sprinkling the full dose on soft food (e.g., yogurt or apple sauce) immediately prior to use and administered orally.
+Advise patients to take JADENU Sprinkle granules by sprinkling the full dose on soft food (e.g., yogurt or applesauce) immediately prior to use and administered orally.
 Advise patients to take JADENU Sprinkle granules once a day, preferably at the same time each day.
 JADENU Sprinkle granules may be taken on an empty stomach or with a light meal.
 
@@ -20,13 +20,18 @@ Advise patients that blood tests will be performed frequently to check for damag
 
 Gastrointestinal Ulceration and Hemorrhage
 
-Caution patients about the potential for the development of GI ulcers or bleeding when taking JADENU in combination with drugs that have ulcerogenic or hemorrhagic potential, such as NSAIDs, corticosteroids, oral bisphosphonates, or anticoagulants [see Warnings and Precautions (5.3)].
+Caution patients about the potential for the development of GI ulcers or bleeding when taking JADENU in combination with drugs that have ulcerogenic or hemorrhagic potential, such as NSAIDs, corticosteroids, oral bisphosphonates, or anticoagulants.
+Advise patients to contact their healthcare provider for signs and symptoms of gastrointestinal ulceration and hemorrhage [see Warnings and Precautions (5.3)].
 
-Skin and Allergic Reactions
+Allergic Reactions
 
-Skin rashes may occur during JADENU treatment and if severe, interrupt treatment.
-Serious allergic reactions (which include swelling of the throat) have been reported in patients taking JADENU, usually within the first month of treatment.
-If reactions are severe, advise patients to stop taking JADENU and contact their doctor immediately [see Warnings and Precautions (5.7, 5.8, 5.9)].
+Serious allergic reactions (which include swelling of the throat) have been reported in patients taking -JADENU, usually within the first month of treatment.
+If reactions are severe, advise patients to stop taking JADENU immediately and seek immediate medical attention [see Warnings and Precautions (5.7, 5.8)].
+
+Skin Rash
+
+Skin rashes may occur during JADENU treatment.
+If the skin rash is severe, advise patients to stop taking JADENU and seek medical attention [see Warnings and Precautions (5.9)].
 
 Pediatric Patients with Acute Illness
 
@@ -34,7 +39,8 @@ Instruct pediatric patients and their caregivers to contact their healthcare pro
 
 Auditory and Ocular Testing
 
-Because auditory and ocular disturbances have been reported with deferasirox, conduct auditory testing and ophthalmic testing before starting JADENU treatment and thereafter at regular intervals [see Warnings and Precautions (5.10)].
+Because auditory and ocular disturbances have been reported with deferasirox, conduct auditory testing and ophthalmic testing before starting JADENU treatment and thereafter at regular intervals.
+Advise patients to contact their healthcare provider if they develop visual or auditory changes during treatment [see Warnings and Precautions (5.10)].
 
 Drug Interactions
 
@@ -62,4 +68,4 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 © Novartis
 
-T2018-109
+T2018-132

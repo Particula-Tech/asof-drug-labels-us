@@ -28,9 +28,9 @@ Maternal toxicity, loss of litters, and decreased offspring viability occurred a
 
 Risk Summary
 
-No data are available regarding the presence of JADENU or its metabolites in human milk, the effects of the drug on the breastfed infant, or the effects of the drug on milk production.
+No data are available regarding the presence of JADENU or its metabolites in human milk, the effects of the drug on the breastfed child, or the effects of the drug on milk production.
 Deferasirox and its metabolites were excreted in rat milk.
-Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from deferasirox and its metabolites, a decision should be made whether to discontinue breastfeeding or to discontinue the drug, taking into account the importance of the drug to the mother.
+Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in a breastfeeding child from deferasirox and its metabolites, a decision should be made whether to discontinue breastfeeding or to discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## 8.4 Pediatric Use
 
@@ -42,6 +42,9 @@ Safety and effectiveness have not been established in pediatric patients less th
 
 Pediatric approval for treatment of transfusional iron overload was based on clinical studies of 292 pediatric patients 2 years to less than 16 years of age with various congenital and acquired anemias.
 Seventy percent of these patients had beta-thalassemia [see Indications and Usage (1), Dosage and Administration (2.1), Clinical Studies (14)].
+In those clinical studies, 173 children (ages 2 to < 12 years) and 119 adolescents (ages 12 to < 17 years) were exposed to deferasirox.
+
+A trial conducted in treatment naïve pediatric patients, ages 2 years to < 18 years with transfusional iron overload did not include a sufficient number of patients to provide additional meaningful information about the safety or compliance of the deferasirox oral tablets for suspension dosage form (Exjade) compared to the deferasirox granules dosage form (Jadenu Sprinkle).
 
 Iron Overload in Non-Transfusion-Dependent Thalassemia Syndromes
 
@@ -59,9 +62,9 @@ Higher rates of renal adverse events have been identified among pediatric patien
 
 Monitor renal function by estimating GFR using an eGFR prediction equation appropriate for pediatric patients and evaluate renal tubular function.
 Monitor renal function more frequently in pediatric patients in the presence of renal toxicity risk factors, including episodes of dehydration, fever and acute illness that may result in volume depletion or decreased renal perfusion.
-Use the minimum effective dose
+Use the minimum effective dose [see Warnings and Precautions (5.1)].
 
-Interrupt JADENU in pediatric patients with transfusional iron overload, and consider dose interruption in pediatric patients with non-transfusion-dependent iron overload, for acute illnesses which can cause volume depletion, such as vomiting, diarrhea, or prolonged decreased oral intake, and monitor more frequently.
+Interrupt JADENU in pediatric patients with transfusional iron overload, and consider dose interruption in pediatric patients with non-transfusion-dependent iron overload, for acute illnesses, which can cause volume depletion, such as vomiting, diarrhea, or prolonged decreased oral intake, and monitor more frequently.
 Resume therapy as appropriate, based on assessments of renal function, when oral intake and volume status are normal.
 Evaluate the risk benefit profile of continued JADENU use in the setting of decreased renal function.
 Avoid use of other nephrotoxic drugs [see Dosage and Administration (2.5), Warnings and Precautions (5.1)].
