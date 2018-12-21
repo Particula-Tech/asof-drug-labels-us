@@ -13,7 +13,7 @@ Overdosage of pharmacologically similar compounds has resulted in fatal poisonin
 Management of acute phentermine hydrochloride intoxication is largely symptomatic and includes lavage and sedation with a barbiturate.
 Experience with hemodialysis or peritoneal dialysis is inadequate to permit recommendations in this regard.
 Acidification of the urine increases phentermine excretion.
-Intravenous phentolamine (Regitine®, CIBA) has been suggested on pharmacologic grounds for possible acute, severe hypertension, if this complicates overdosage.
+Intravenous phentolamine (Regitine ®, CIBA) has been suggested on pharmacologic grounds for possible acute, severe hypertension, if this complicates overdosage.
 
 ## 10.2 Chronic Intoxication
 

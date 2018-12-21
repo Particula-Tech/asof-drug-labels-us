@@ -13,12 +13,12 @@ Tachyphylaxis and tolerance have been demonstrated with all drugs of this class 
 
 ### 12.3 Pharmacokinetics
 
-Following the administration of Phentermine, Phentermine reaches peak concentrations (Cmax) after 3 to 4.4 hours.
+Following the administration of Phentermine, Phentermine reaches peak concentrations (C max) after 3 to 4.4 hours.
 
 Drug Interactions
 
 In a single-dose study comparing the exposures after oral administration of a combination capsule of 15 mg Phentermine and 92 mg topiramate to the exposures after oral administration of a 15 mg Phentermine capsule or a 92 mg topiramate capsule, there is no significant topiramate exposure change in the presence of Phentermine.
-However in the presence of topiramate, Phentermine Cmax and AUC increase 13% and 42%, respectively.
+However in the presence of topiramate, Phentermine C max and AUC increase 13% and 42%, respectively.
 
 Specific Populations
 
