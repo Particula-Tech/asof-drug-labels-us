@@ -116,12 +116,12 @@ These Instructions for Use have been approved by the U.S. Food and Drug Administ
 
 Humalog® is a registered trademark of Eli Lilly and Company.
 
-Instructions for Use revised: August 13, 2018
+Instructions for Use revised: December 2018
 
 Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA Copyright © 1996, 2018, Eli Lilly and Company.
 All rights reserved.
 
-LOGVL-0004-IFU-20180813
+LOGVL-0005-IFU-20181211
 
 Instructions for Use
 
@@ -282,7 +282,7 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 HUMALOG® and HUMALOG KwikPen® are trademarks of Eli Lilly and Company.
 
-Revised: November 2018
+Revised: December 2018
 
 Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
 
@@ -292,7 +292,7 @@ All rights reserved.
 | HUMALOG KwikPen meets the current dose accuracy and functional requirements of ISO 11608-1:2014. |
 | --- |
 
-LOGKP-0005-IFU-20181101
+LOGKP-0006-IFU-20181211
 
 Instructions for Use
 

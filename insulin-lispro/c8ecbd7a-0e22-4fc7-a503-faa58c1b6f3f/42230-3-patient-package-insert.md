@@ -110,12 +110,12 @@ For more information, go to www.humalog.com or call 1-800-545-5979.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
-Patient Information revised: August 13, 2018
+Patient Information revised: December 2018
 
 Copyright © 1996, 2018, Eli Lilly and Company.
 All rights reserved.
 
-LOG-0003-PPI-20180813
+LOG-0004-PPI-20181211
 
 | Patient Information HUMALOG KwikPen® insulin lispro injection U-200 (200 units per mL) |
 | --- |

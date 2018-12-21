@@ -4,8 +4,6 @@ NDC 0002-7510-01
 
 10 mL
 
-VL-7510
-
 100 units per mL
 
 Humalog®
