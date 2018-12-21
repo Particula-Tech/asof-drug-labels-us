@@ -2,7 +2,7 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the label:
 
-- Hypersensitivity reactions.
+- •Hypersensitivity reactions.
   [See Warnings and Precautions (5.1).]
 
 ## 6.1 Clinical Trials Experience

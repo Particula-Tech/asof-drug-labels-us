@@ -2,10 +2,8 @@ PRINCIPAL DISPLAY PANEL - 5 mg Tablet Bottle Label
 
 Rx only NDC: 69543-107-30
 
-Desloratadine
-
-TABLETS 5 mg
+Desloratadine TABLETS 5 mg
 
 30 Tablets
 
-VIRTUS PHARMACEUTICALS
+VIRTUS® PHARMACEUTICALS
