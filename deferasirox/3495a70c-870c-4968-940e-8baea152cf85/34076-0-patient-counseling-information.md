@@ -14,19 +14,23 @@ Advise patients that blood tests will be performed frequently to check for damag
 
 Gastrointestinal Ulceration and Hemorrhage
 
-Caution patients about the potential for the development of GI ulcers or bleeding when taking Exjade in combination with drugs that have ulcerogenic or hemorrhagic potential, such as NSAIDs, corticosteroids, oral bisphosphonates, or anticoagulants [see Warnings and Precautions (5.3)]..
+Caution patients about the potential for the development of GI ulcers or bleeding when taking Exjade in combination with drugs that have ulcerogenic or hemorrhagic potential, such as NSAIDs, corticosteroids, oral bisphosphonates, or anticoagulants.
+Advise patients to contact their health care provider for signs and symptoms of gastrointestinal ulceration and hemorrhage [see Warnings and Precautions (5.3)].
 
-Skin and Allergic Reactions Skin rashes may occur during Exjade treatment and if severe, interrupt treatment.
-Serious allergic reactions (which include swelling of the throat) have been reported in patients taking Exjade, usually within the first month of treatment.
-If reactions are severe, advise patients to stop taking Exjade and contact their doctor immediately [see Warnings and Precautions (5.7, 5.8, 5.9)].
+Allergic Reactions Serious allergic reactions (which include swelling of the throat) have been reported in patients taking Exjade, usually within the first month of treatment.
+If reactions are severe, advise patients to stop taking Exjade immediately and seek immediate medical attention [see Warnings and Precautions (5.7, 5.8)].
+
+Skin Rash Skin rashes may occur during Exjade treatment.
+If the skin rash is severe, advise patients to stop taking Exjade and seek medical attention [see Warnings and Precautions (5.9)].
 
 Pediatric Patients with Acute Illness Instruct pediatric patients and their caregivers to contact their healthcare provider during episodes of acute illness, especially if the patient has not been drinking fluids or the patient has volume depletion due to fever, vomiting, or diarrhea [see Warnings and Precautions (5.1)].
 
-Auditory and Ocular Testing Because auditory and ocular disturbances have been reported with Exjade, conduct auditory testing and ophthalmic testing before starting Exjade treatment and thereafter at regular intervals [see Warnings and Precautions (5.10)].
+Auditory and Ocular Testing Because auditory and ocular disturbances have been reported with Exjade, conduct auditory testing and ophthalmic testing before starting Exjade treatment and thereafter at regular intervals.
+Advise patients to contact their healthcare provider if they develop visual or auditory changes during treatment [see Warnings and Precautions (5.10)].
 
 Drug Interactions
 
-Caution patients not to take aluminum containing antacids and Exjade simultaneously [see Drug Interactions (7.1)].
+Caution patients not to take aluminum-containing antacids and Exjade simultaneously [see Drug Interactions (7.1)].
 
 Caution patients about potential loss of effectiveness of drugs metabolized by CYP3A4 (e.g., cyclosporine, simvastatin, hormonal contraceptive agents) when Exjade is administered with these drugs [see Drug Interactions (7.2)].
 
@@ -46,4 +50,4 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 © Novartis
 
-T2018-77
+T2018-131

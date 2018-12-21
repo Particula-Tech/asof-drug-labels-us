@@ -13,7 +13,7 @@ Pharmacodynamic effects tested in an iron balance metabolic study showed that de
 Iron excretion was predominantly fecal.
 
 An analysis of pooled pediatric clinical trial data found a statistically significant relationship between exposure and the probability of renal toxicity (increase in serum creatinine and urinary protein), resulting in a decrease in renal function.
-Decreases in renal function resulted in an increase in deferasirox exposure which may increase the probability of renal toxicity.
+Decreases in renal function resulted in an increase in deferasirox exposure, which may increase the probability of renal toxicity.
 
 Cardiac Electrophysiology
 
@@ -64,6 +64,8 @@ Rifampicin: In a healthy volunteer study, the concomitant administration of Exja
 
 Cholestyramine: The concomitant use of Exjade with bile acid sequestrants may result in a decrease in Exjade efficacy.
 In healthy volunteers, the administration of cholestyramine after a single dose of deferasirox resulted in a 45% decrease in deferasirox exposure (AUC) [see Drug Interactions (7.6)].
+
+Busulfan: Concomitant administration of deferasirox and busulfan resulted in an increase of busulfan exposure (AUC).
 
 In vitro Studies:
 

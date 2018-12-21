@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse reactions are also discussed in other sections of the labeling:
+The following clinically significant adverse reactions are also discussed in other sections of the labeling:
 
 - Acute Kidney Injury, Including Acute Renal Failure Requiring Dialysis, and Renal Tubular Toxicity Including Fanconi Syndrome [see Warnings and Precautions (5.1)]
 - Hepatic Toxicity and Failure [see Warnings and Precautions (5.2)]
@@ -39,7 +39,7 @@ Adverse Reactions *Occurring in Greater Than 5% of Exjade-treated Patients in St
 
 |  | Study 1 (Beta-thalassemia) |  | Study 3 (Sickle Cell Disease) |  | MDS Pool |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Adverse Reaction | Exjade N = 296 n (%) | Deferoxamine N = 290 n (%) | Exjade N = 132 n (%) | Deferoxamine N = 63 n (%) | Exjade N = 627 n (%) |  |
+| Adverse Reactions | Exjade N = 296 n (%) | Deferoxamine N = 290 n (%) | Exjade N = 132 n (%) | Deferoxamine N = 63 n (%) | Exjade N = 627 n (%) |  |
 | Abdominal Pain** | 63 (21) | 41 (14) | 37 (28) | 9 (14) | 145 (23) |  |
 | Diarrhea | 35 (12) | 21 (7) | 26 (20) | 3 (5) | 297 (47) |  |
 | Creatinine Increased*** | 33 (11) | 0 (0) | 9 (7) | 0 | 89 (14) |  |

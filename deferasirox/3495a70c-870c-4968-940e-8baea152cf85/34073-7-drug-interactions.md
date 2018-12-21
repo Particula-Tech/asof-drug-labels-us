@@ -35,3 +35,8 @@ Consider increasing the initial dose of Exjade if you must coadminister these ag
 
 Avoid the concomitant use of bile acid sequestrants (e.g., cholestyramine, colesevelam, colestipol) with Exjade due to a possible decrease in deferasirox concentration.
 If you must coadminister these agents together, consider increasing the initial dose of Exjade [see Dosage and Administration (2.5), Clinical Pharmacology (12.3)].
+
+## 7.7 Busulfan
+
+Increased exposure of busulfan was observed with concomitant use with deferasirox.
+Monitor plasma concentrations of busulfan when coadministered with deferasirox to allow dose adjustment of busulfan as needed [see Clinical Pharmacology (12.3)].
