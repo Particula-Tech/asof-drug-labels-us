@@ -1,4 +1,4 @@
-# PATIENT INFORMATION
+PATIENT INFORMATION
 
 Valganciclovir Tablets USP
 
@@ -53,10 +53,10 @@ It is important to stay under a healthcare provider’s care and have your eyes 
 
 In children valganciclovir tablets or oral solution are used:
 
-• to prevent cytomegalovirus (CMV) disease in children 4 months to 16 years of age who have received a heart transplant and have a high risk for getting CMV disease.
+· to prevent CMV disease in children 4 months to 16 years of age who have received a kidney transplant and have a high risk for getting CMV disease.
 
-Pediatric use information for pediatric kidney transplant patients ages 4 months to 16 years and for pediatric heart transplant patients ages 1 to less than 4 months is approved for Roche Palo Alto LLC’s VALCYTE (valganciclovir hydrochloride) tablets and oral solution.
-However, due to Roche Palo Alto LLC’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+· to prevent CMV disease in children 1 month to 16 years of age who have received a heart transplant and have a high risk for getting CMV disease.
+It is not known if valganciclovir tablets are safe and effective in children for prevention of CMV disease in liver transplant, in kidney transplant in infants less than 4 months of age, in heart transplant in infants less than 1 month of age, in children with AIDS who have CMV retinitis, and in infants with congenital CMV infection.
 
 Do not take valganciclovir tablets if you have had a serious allergic reaction to valganciclovir, ganciclovir or any of the ingredients of valganciclovir tablets.
 See the end of this leaflet for a list of the ingredients in valganciclovir tablets.
@@ -106,9 +106,9 @@ If you come in contact with the contents of the tablet, wash your skin well with
 
 • If you take too much valganciclovir tablets, call your healthcare provider or go to the nearest hospital emergency room right away.
 
-What should I avoid while taking valganciclovir tablets?
+What should I avoid during treatment with valganciclovir tablets?
 
-Valganciclovir can cause seizures, sleepiness, dizziness, and confusion.
+Valganciclovir can cause seizures, dizziness, and confusion.
 You should not drive a car or operate machinery until you know how valganciclovir affects you.
 
 What are the possible side effects of valganciclovir tablets?
@@ -187,6 +187,8 @@ The film-coat applied to the tablets contains hypromellose, iron oxide red, poly
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
+For more information about valganciclovir tablets call 1-888-375-3784.
+
 To reorder additional Patient Information Sheets, contact Dr. Reddy’s customer service at 1-866-733-3952.
 
 Rx Only
@@ -203,4 +205,4 @@ Dr. Reddy’s Laboratories Inc.,
 
 Princeton, NJ 08540 USA
 
-Issued: 0917
+Revised: 1018

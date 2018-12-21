@@ -41,6 +41,8 @@ Inform adult patients that they should use valganciclovir tablets, not valgancic
 
 Inform patients to take valganciclovir tablets with food to maximize bioavailability.
 
+For more information, call 1-888-375-3784.
+
 Rx Only
 
 Manufactured by:
@@ -55,4 +57,4 @@ Dr. Reddy’s Laboratories Inc.,
 
 Princeton, NJ 08540 USA
 
-Issued: 0917
+Revised:1018
