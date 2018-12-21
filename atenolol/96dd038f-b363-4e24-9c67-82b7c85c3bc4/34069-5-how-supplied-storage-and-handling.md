@@ -16,6 +16,7 @@ Store at controlled room temperature 20°-25°C (68°-77°F).
 
 Dispense in a well-closed, light-resistant containers.
 
-Manufactured for Rising Pharmaceuticals, Inc. Saddle Brook, NJ 07663 Manufactured by Unique Pharmaceutical Laboratories (A Div. of J. B. Chemicals & Pharmaceuticals Ltd.) Mumbai - 400 030, India
+Manufactured by: Unique Pharmaceutical Laboratories (A Div. of J. B. Chemicals & Pharmaceuticals Ltd.) Mumbai 400 030, India Distributed by: Rising Pharmaceuticals, Inc. Saddle Brook, NJ 07663
 
-October 2017
+Jul.
+1018
