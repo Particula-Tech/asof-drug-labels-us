@@ -1,16 +1,20 @@
-# INFORMATION FOR PATIENTS
+# 17 PATIENT COUNSELING INFORMATION
 
-Patients with pernicious anemia should be instructed that they will require weekly intranasal administration of Nascobal Nasal Spray for the remainder of their lives.
-Failure to do so will result in return of the anemia and in development of incapacitating and irreversible damage to the nerves of the spinal cord.
-Also, patients should be warned about the danger of taking folic acid in place of vitamin B12, because the former may prevent anemia but allow progression of subacute combined degeneration of the spinal cord.
+Advise the patient to read the FDA-approved patient labeling (Instructions for Use).
 
-(Hot foods may cause nasal secretions and a resulting loss of medication; therefore, patients should be told to administer Nascobal Nasal Spray at least one hour before or one hour after ingestion of hot foods or liquids.)
+Importance of Adherence to Therapy and Follow-up
 
-A vegetarian diet which contains no animal products (including milk products or eggs) does not supply any vitamin B12.
-Therefore, patients following such a diet should be advised to take Nascobal Nasal Spray weekly.
-The need for vitamin B12 is increased by pregnancy and lactation.
-Deficiency has been recognized in infants of vegetarian mothers who were breast fed, even though the mothers had no symptoms of deficiency at the time.
+Advise patients of the importance of adhering to therapy to prevent the development, recurrence, or progression of anemia and the development or progression of neurological manifestations.
 
-Because the nasal dosage forms of Vitamin B12 have a lower absorption than intramuscular dosage, nasal dosage forms are administered weekly, rather than the monthly intramuscular dosage.
-As shown in the Figure above, at the end of a month, weekly nasal administration results in significantly higher serum Vitamin B12 levels than after intramuscular administration.
-The patient should also understand the importance of returning for follow-up blood tests every 3 to 6 months to confirm adequacy of the therapy.
+Patients experiencing symptomatic nasal congestion, allergic rhinitis or an upper respiratory infection should be advised to defer treatment with NASCOBAL until symptoms have subsided.
+
+Counsel patients on the importance of returning for follow-up blood tests every 3 to 6 months to confirm adequacy of therapy [see Dosage and Administration (2.3)].
+
+Specific Instructions for Administration
+
+Advise patients to administer NASCOBAL at least one hour before or one hour after ingestion of hot foods or liquids since hot foods may cause nasal secretions and a resulting loss of medication.
+
+Use of Nasal Spray Device
+
+Provide patients with instructions on nasal administration of NASCOBAL.
+In addition to alerting patients to the instructions contained in the Instructions For Use and instructions supplied on each carton, demonstrate procedures for use to each patient.

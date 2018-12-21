@@ -1,1 +1,1 @@
-# Package/Label Display Panel
+# PACKAGE LABEL

@@ -1,32 +1,11 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-Nascobal Nasal Spray is indicated for the maintenance of normal hematologic status in pernicious anemia patients who are in remission following intramuscular vitamin B12 therapy and who have no nervous system involvement.
+NASCOBAL is indicated for:
 
-Nascobal Nasal Spray is also indicated as a supplement for other vitamin B12 deficiencies, including:
-
-I. Dietary deficiency of vitamin B12 occurring in strict vegetarians (Isolated vitamin B12 deficiency is very rare).
-
-II.
-Malabsorption of vitamin B12 resulting from structural or functional damage to the stomach, where intrinsic factor is secreted, or to the ileum, where intrinsic factor facilitates vitamin B12 absorption.
-These conditions include HIV infection, AIDS, Crohn's disease, tropical sprue, and nontropical sprue (idiopathic steatorrhea, gluten-induced enteropathy).
-Folate deficiency in these patients is usually more severe than vitamin B12 deficiency.
-
-III.
-Inadequate secretion of intrinsic factor, resulting from lesions that destroy the gastric mucosa (ingestion of corrosives, extensive neoplasia), and a number of conditions associated with a variable degree of gastric atrophy (such as multiple sclerosis, HIV infection, AIDS, certain endocrine disorders, iron deficiency, and subtotal gastrectomy).
-Total gastrectomy always produces vitamin B12 deficiency.
-Structural lesions leading to vitamin B12 deficiency include regional ileitis, ileal resections, malignancies, etc.
-
-IV.
-Competition for vitamin B12 by intestinal parasites or bacteria.
-The fish tapeworm (Diphyllobothrium latum) absorbs huge quantities of vitamin B12 and infested patients often have associated gastric atrophy.
-The blind loop syndrome may produce deficiency of vitamin B12 or folate.
-
-V. Inadequate utilization of vitamin B12.
-This may occur if antimetabolites for the vitamin are employed in the treatment of neoplasia.
-
-It may be possible to treat the underlying disease by surgical correction of anatomic lesions leading to small bowel bacterial overgrowth, expulsion of fish tapeworm, discontinuation of drugs leading to vitamin malabsorption (see "Drug/Laboratory Test Interactions"), use of a gluten-free diet in non-tropical sprue, or administration of antibiotics in tropical sprue.
-Such measures remove the need for long-term administration of vitamin B12.
-
-Requirements of vitamin B12 in excess of normal (due to pregnancy, thyrotoxicosis, hemolytic anemia, hemorrhage, malignancy, hepatic and renal disease) can usually be met with intranasal or oral supplementation.
-
-Nascobal Nasal Spray is not suitable for vitamin B12 absorption test (Schilling Test).
+- Vitamin B12 maintenance therapy in adult patients with pernicious anemia who are in remission following intramuscular vitamin B12 therapy and who have no nervous system involvement
+- Treatment of adult patients with dietary, drug-induced, or malabsorption-related vitamin B12 deficiency not due to pernicious anemia
+- Prevention of vitamin B12 deficiency in adult patients with vitamin B12 requirements in excess of normal Limitations of Use
+- NASCOBAL should not be used for the vitamin B12 absorption test (Schilling test).
+- In patients with correctible or temporary causes of vitamin B12 deficiency, the benefit of continued long-term use of NASCOBAL following adequate correction of vitamin B12 deficiency and underlying disease has not been established.
+- The effectiveness of NASCOBAL in patients with active symptoms of nasal congestion, allergic rhinitis or upper respiratory infection has not been determined.
+  Treatment with NASCOBAL should be deferred until symptoms have subsided.

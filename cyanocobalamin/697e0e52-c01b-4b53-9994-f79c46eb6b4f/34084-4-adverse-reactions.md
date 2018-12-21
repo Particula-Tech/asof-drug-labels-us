@@ -1,56 +1,27 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-The incidence of adverse experiences described in the Table below are based on data from a short-term clinical trial in vitamin B12 deficient patients in hematologic remission receiving Nascobal (Cyanocobalamin, USP) Gel for Intranasal Administration (N=24) and intramuscular vitamin B12 (N=25).
-In the pharmacokinetic study comparing Nascobal Nasal Spray and Nascobal Nasal Gel, the incidence of adverse events was similar.
+The following serious adverse reactions are described elsewhere in the labeling:
 
-Table Adverse Experiences by Body System, Number of Patients and Number of Occurrences by Treatment Following Intramuscular and Intranasal Administration of Cyanocobalamin.
+- Severe Optic Atrophy in Patients with Leber’s Disease [see Warnings and Precautions (5.1)].
+- Anaphylactic Reactions [see Warnings and Precautions (5.2)].
+- Hypokalemia and Thrombocytosis Due to Intense Treatment of Megaloblastic Anemia [see Warnings and Precautions (5.4)].
 
-|  |  | Number of Patients (Occurrences) |  |
-| --- | --- | --- | --- |
-| Body System | Adverse Experience | Vitamin B12Nasal Gel,500mcgN=24 | Intramuscular Vitamin B12,100 mcgN=25 |
-| Body as a Whole | Asthenia | 1 (1) | 4 (4) |
-| Back Pain | 0 (0) | 1 (1) |  |
-| Generalized Pain | 0 (0) | 2 (3) |  |
-| Headache | 1 (2)* | 5 (11) |  |
-| Infectiona | 3 (4) | 3 (3) |  |
-| Cardiovascular System | Peripheral Vascular Disorder | 0 (0) | 1 (1) |
-| Digestive System | Dyspepsia | 0 (0) | 1 (2) |
-| Glossitis | 1 (1) | 0 (0) |  |
-| Nausea | 1 (1)* | 1 (1) |  |
-| Nausea & Vomiting | 0 (0) | 1 (1) |  |
-| Vomiting | 0 (0) | 1 (1) |  |
-| Musculoskeletal System | Arthritis | 0 (0) | 2 (2) |
-| Myalgia | 0 (0) | 1 (1) |  |
-| Nervous System | Abnormal Gait | 0 (0) | 1 (1) |
-| Anxiety | 0 (0) | 1 (1)* |  |
-| Dizziness | 0 (0) | 3 (3) |  |
-| Hypoesthesia | 0 (0) | 1 (1) |  |
-| Incoordination | 0 (0) | 1 (2)* |  |
-| Nervousness | 0 (0) | 1 (3)* |  |
-| Paresthesia | 1 (1) | 1 (1) |  |
-| Respiratory System | Dyspnea | 0 (0) | 1 (1) |
-| Rhinitis | 1 (1)* | 2 (2) |  |
-| a Sore throat, Common cold |  |  |  |
-| * There may be a possible relationship between these adverse experiences and the study drugs. These adverse experiences could have also been produced by the patient’s clinical state or other concomitant therapy. |  |  |  |
+## 6.1 Clinical Trials Experience
 
-The intensity of the reported adverse experiences following the administration of Nascobal (Cyanocobalamin, USP) Gel for Intranasal Administration and intramuscular vitamin B12 were generally mild.
-One patient reported severe headache following intramuscular dosing.
-Similarly, a few adverse experiences of moderate intensity were reported following intramuscular dosing (two headaches and rhinitis; one dyspepsia, arthritis, and dizziness), and dosing with Nascobal (Cyanocobalamin, USP) Gel for Intranasal Administration (one headache, infection, and paresthesia).
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+The adverse reactions described in Table 1 below are based on data from an eight week cross over trial in which vitamin B12 deficient patients in hematologic remission received one vitamin B12 intramuscular injection (N=25) and then received once weekly intranasal administration of another nasal cyanocobalamin formulation (N=24) for 4 weeks.
 
-The majority of the reported adverse experiences following dosing with Nascobal (Cyanocobalamin, USP) Gel for Intranasal Administration and intramuscular vitamin B12 were judged to be intercurrent events.
-For the other reported adverse experiences, the relationship to study drug was judged as "possible" or "remote".
-Of the adverse experiences judged to be of "possible" relationship to the study drug, anxiety, incoordination, and nervousness were reported following intramuscular vitamin B12 and headache, nausea, and rhinitis were reported following dosing with Nascobal (Cyanocobalamin, USP) Gel for Intranasal Administration.
+Table 1.
+Adverse Reactions Following Intranasal or Intramuscular Administration of Cyanocobalamin In Vitamin B12 Deficient Patients in Hematologic Remission
 
-The following adverse reactions have been reported with parenteral vitamin B12:
-
-Generalized: Anaphylactic shock and death (See Warnings and Precautions).
-
-Cardiovascular: Pulmonary edema and congestive heart failure early in treatment; peripheral vascular thrombosis.
-
-Hematological: Polycythemia vera.
-
-Gastrointestinal: Mild transient diarrhea.
-
-Dermatological: Itching; transitory exanthema.
-
-Miscellaneous: Feeling of swelling of the entire body.
+| Adverse Reaction | Number of Patients (%) |  |
+| --- | --- | --- |
+| Another Cyanocobalamin Nasal Formulation, 500 mcg (n=24) | Intramuscular Cyanocobalamin*, 100 mcg (n=25) |  |
+| Infection a | 3 (13) | 3 (12) |
+| Headache | 1 (4) | 5 (20) |
+| Asthenia | 1 (4) | 4 (16) |
+| Nausea | 1 (4) | 1 (4) |
+| Glossitis | 1 (4) | 0 (0) |
+| Paresthesia | 1 (4) | 1 (4) |
+| Rhinitis | 1 (4) | 2 (8) |
+| a Sore throat, common cold * The data are not an adequate basis for comparison of rates between the study drug and the active control |  |  |

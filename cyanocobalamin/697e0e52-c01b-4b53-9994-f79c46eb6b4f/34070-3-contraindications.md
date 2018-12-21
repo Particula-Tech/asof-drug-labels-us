@@ -1,3 +1,4 @@
-# CONTRAINDICATION
+# 4 CONTRAINDICATIONS
 
-Sensitivity to cobalt and/or vitamin B12 or any component of the medication is a contraindication.
+NASCOBAL is contraindicated in patients with hypersensitivity to cobalt and/or vitamin B12 or any of its excipients [see Warnings and Precautions (5.2)].
+Anaphylactic shock and death have been reported after parenteral vitamin B12 administration in sensitive patients.
