@@ -11,7 +11,7 @@ In addition, myocardial contractility is depressed and peripheral vasodilation o
 Recent clinical reports and animal research suggest that these cardiovascular changes are more likely to occur after unintended direct intravascular injection of bupivacaine.
 Therefore, when epidural anesthesia with bupivacaine is considered, incremental dosing is necessary.
 
-Following systemic absorption, local anesthetics can produce central nervous system stimulation, depression, or both.
+Following systemic absorption, local anesthetics can produce CNS stimulation, depression, or both.
 Apparent central stimulation is manifested as restlessness, tremors and shivering, progressing to convulsions, followed by depression and coma progressing ultimately to respiratory arrest.
 However, the local anesthetics have a primary depressant effect on the medulla and on higher centers.
 The depressed stage may occur without a prior excited stage.
@@ -58,4 +58,4 @@ The kidney is the main excretory organ for most local anesthetics and their meta
 Urinary excretion is affected by urinary perfusion and factors affecting urinary pH.
 Only 6% of bupivacaine is excreted unchanged in the urine.
 
-When administered in recommended doses and concentrations, MARCAINE does not ordinarily produce irritation or tissue damage and does not cause methemoglobinemia.
+When administered in recommended doses and concentrations, MARCAINE does not ordinarily produce irritation or tissue damage.
