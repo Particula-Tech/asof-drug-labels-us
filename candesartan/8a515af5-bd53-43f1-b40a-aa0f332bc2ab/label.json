@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA210302"
+  ],
+  "inn": "candesartan",
+  "labeler": "Alembic Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "62332-341-30",
+    "62332-341-90",
+    "62332-341-91",
+    "62332-342-30",
+    "62332-342-90",
+    "62332-342-91",
+    "62332-343-30",
+    "62332-343-90",
+    "62332-343-91"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "candesartan cilexetil",
+      "name": "CANDESARTAN CILEXETIL"
+    }
+  ],
+  "setid": "8a515af5-bd53-43f1-b40a-aa0f332bc2ab",
+  "source": "dailymed"
+}
