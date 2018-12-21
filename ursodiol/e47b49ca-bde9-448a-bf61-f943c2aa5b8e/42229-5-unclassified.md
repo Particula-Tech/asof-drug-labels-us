@@ -64,9 +64,7 @@ Mortality Rates for Cholecystectomy in the U.S.
 
 Deaths/1000 Operations***
 
-Figure 1
-
-| Low Risk Patients* | Age (yrs) | Cholecystectomy | Cholecystectomy Common Duct Exploration |
+| Low Risk Patients* | Age (Yrs) | Cholecystectomy | Cholecystectomy Common Duct Exploration |
 | --- | --- | --- | --- |
 | Women | 0-49 | .54 | 2.13 |
 |  | 50-69 | 2.80 | 10.10 |
@@ -77,7 +75,6 @@ Figure 1
 |  | 50-69 | 17.24 | 58.82 |
 | Men | 0-49 | 24.39 | 90.91 |
 |  | 50-69 | 33.33 | 111.11 |
-| Mortality Rates for Cholecystectomy in the US |  |  |  |
 
 * In good health or with moderate systemic disease.
 
