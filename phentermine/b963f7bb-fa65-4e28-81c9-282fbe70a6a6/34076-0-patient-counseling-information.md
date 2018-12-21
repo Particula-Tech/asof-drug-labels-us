@@ -24,10 +24,10 @@ The patients must also be informed about
 Tell patients to keep Phentermine in a safe place to prevent theft, accidental overdose, misuse or abuse.
 Selling or giving away Phentermine may harm others and is against the law.
 
-Regitine® is a registered trademark of CIBA PHARMACEUTICAL PRODUCTS, INC.
+Regitine ® is a registered trademark of CIBA PHARMACEUTICAL PRODUCTS, INC.
 
 Manufactured by: KVK-TECH INC. 110 Terry Drive Newtown, PA 18940
 
-Item ID # 006070/03 04/17
+Item ID # 006070/04 12/2018
 
 Manufacturer’s Code: 10702
