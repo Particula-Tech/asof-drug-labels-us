@@ -1,7 +1,5 @@
 # Package/Label Display Panel
 
-## Hydroxyurea Capsules USP 500 mg 100s Label Text
-
 NDC 0555-0882-02
 
 Hydroxyurea Capsules USP 500 mg
