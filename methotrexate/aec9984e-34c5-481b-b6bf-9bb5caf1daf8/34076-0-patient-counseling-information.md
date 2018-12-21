@@ -63,13 +63,3 @@ Proper Storage and Disposal
 Advise patients to store XATMEP either refrigerated (2°C to 8°C/36°F to 46°F) or at room temperature (20°C to 25°C/68°F to 77°F) with excursions permitted to 15°C to 30°C/59°F to 86°F.
 If stored at room temperature, discard after 60 days.
 Inform patients and caregivers of the need for proper storage and disposal of dispensing bottles and dosing devices [see References (15)].
-
-Xatmep is a registered trademark of Silvergate Pharmaceuticals, Inc.
-
-Manufactured for:
-
-Silvergate Pharmaceuticals, Inc. 6251 Greenwood Plaza Blvd., Ste 101 Greenwood Village, CO 80111
-
-U.S. Patent: 9,259,427
-
-MTX-1804

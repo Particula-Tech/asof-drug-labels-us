@@ -61,4 +61,4 @@ Reproductive Disorders: Defective oogenesis or spermatogenesis, menstrual dysfun
 
 Respiratory Disorders: Pulmonary fibrosis, respiratory failure, chronic interstitial obstructive pulmonary disease, pleuritic pain and thickening alveolitis
 
-Skin Disorders: Erythematous rashes, pruritus, urticaria, photosensitivity, pigmentary changes, alopecia, ecchymosis, telangiectasia, acne, furunculosis, erythema multiforme, toxic epidermal necrolysis, Stevens‑Johnson syndrome, skin necrosis, skin ulceration, accelerated nodulosis, and exfoliative dermatitis.
+Skin Disorders: Erythematous rashes, pruritus, urticaria, photosensitivity, pigmentary changes, alopecia, ecchymosis, telangiectasia, acne, furunculosis, erythema multiforme, toxic epidermal necrolysis, Stevens-Johnson syndrome, skin necrosis, skin ulceration, accelerated nodulosis, and exfoliative dermatitis.

@@ -1,7 +1,6 @@
 # WARNING: SEVERE TOXIC REACTIONS, INCLUDING EMBRYO-FETAL TOXICITY
 
 Methotrexate can cause the following severe or fatal adverse reactions.
-
 Monitor closely and modify dose or discontinue methotrexate as appropriate.
 
 - •Bone marrow suppression [see Warnings and Precautions (5.1)]
