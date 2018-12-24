@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Drugs having Clinically Important Interactions with Desvenlafaxine
+## 7.1 Drugs Having Clinically Important Interactions with Desvenlafaxine
 
 Table 8: Clinically Important Drug Interactions with Desvenlafaxine
 

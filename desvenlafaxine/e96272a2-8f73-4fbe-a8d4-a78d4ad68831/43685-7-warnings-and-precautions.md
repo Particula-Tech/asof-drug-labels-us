@@ -95,7 +95,7 @@ For patients taking warfarin, carefully monitor coagulation indices when initiat
 ## 5.5 Angle Closure Glaucoma
 
 The pupillary dilation that occurs following use of many antidepressant drugs including desvenlafaxine extended-release tablets may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
-Avoid use of antidepressants, including desvenlafaxine in patients with untreated anatomically narrow angles.
+Avoid use of antidepressants, including desvenlafaxine extended-release tablets in patients with untreated anatomically narrow angles.
 
 ## 5.6 Activation of Mania/Hypomania
 
@@ -106,7 +106,7 @@ As with all antidepressants, desvenlafaxine should be used cautiously in patient
 ## 5.7 Discontinuation Syndrome
 
 Adverse reactions after discontinuation of serotonergic antidepressants, particularly after abrupt discontinuation, include: nausea, sweating, dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g., paresthesia, such as electric shock sensations), tremor, anxiety, confusion, headache, lethargy, emotional lability, insomnia, hypomania, tinnitus, and seizures.
-A gradual reduction in dosage rather than abrupt cessation is recommended whenever possible [see DOSAGE AND ADMINISTRATION (2.4) and, ADVERSE REACTIONS (6.1)].
+A gradual reduction in dosage rather than abrupt cessation is recommended whenever possible [see DOSAGE AND ADMINISTRATION (2.5) and, ADVERSE REACTION (6.1)].
 
 ## 5.8 Seizure
 
