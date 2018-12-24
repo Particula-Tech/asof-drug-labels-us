@@ -10,6 +10,8 @@ The use of Edluar with other sedative-hypnotics (including other zolpidem produc
 The risk of next-day psychomotor impairment, including impaired driving, is increased if Edluar is taken with less than a full night of sleep remaining (7 to 8 hours); if a higher than the recommended dose is taken; if co-administered with other CNS depressants; or if co-administered with other drugs that increase the blood level of zolpidem.
 Patients should be cautioned against driving and other activities requiring complete mental alertness if Edluar is taken in these circumstances.
 
+Because Edluar can cause drowsiness and a decreased level of consciousness, patients, particularly the elderly, are at higher risk of falls.
+
 ## 5.2 Need to Evaluate for Co-morbid Diagnoses
 
 Because sleep disturbances may be the presenting manifestation of a physical and/or psychiatric disorder, symptomatic treatment of insomnia should be initiated only after a careful evaluation of the patient.

@@ -179,11 +179,11 @@ Manufactured by: Recipharm Stockholm AB, Sweden for Meda Pharmaceuticals Inc.
 
 Distributed by: Meda Pharmaceuticals Inc. Somerset, NJ 08873-4120
 
-©2018 Meda Pharmaceuticals Inc. U.S. Patents 6,761,910; 8,512,747
+©2018 Mylan Specialty LP U.S. Patents 6,761,910; 8,512,747; 9,265,720; 9,597,281
 
-MEDA and EDLUAR are registered trademarks of Meda AB or a related entity.
+EDLUAR is a registered trademark of Meda Pharmaceuticals Inc., a Mylan company.
 
 The brands listed are trademarks of their respective owners.
 
-IG-6010-XX Rev.
-10/2018 797139
+IG-6010-XX1 Rev.
+XX/2018 797139
