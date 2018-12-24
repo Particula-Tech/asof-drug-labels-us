@@ -1,35 +1,45 @@
-# PRINCIPAL DISPLAY PANEL - 300 mgI/mL Bottle Label
+# PRINCIPAL DISPLAY PANEL - 300 mg Bottle Label
 
-NOVAPLUS® NDC 0407-1413-89
+NDC 0407-1413-89
 
 Omnipaque™ (iohexol) Injection
 
-PHARMACY BULK PACKAGE - Not for Direct Infusion
+NOVAPLUS®
 
-300 mgI/mL 500 mL
+300 mg Iodine/mL
+
+500 mL
+
+For Injection or Oral Use.
 
 Multi-Dose Bottle.
-Sterile Aqueous Solution For Injection or Oral Use.
 
-in + PLUSPAK™ (polymer bottle)
+Sterile Aqueous Solution
 
 DO NOT USE IF TAMPER-EVIDENT RING IS BROKEN OR MISSING
 
-# PRINCIPAL DISPLAY PANEL - 350 mgI/mL Bottle Label
+PHARMACY BULK PACKAGE Not for Direct Infusion
 
-NOVAPLUS® NDC 0407-1413-88
+# PRINCIPAL DISPLAY PANEL - 350 mg Bottle Label
+
+NDC 0407-1414-88
 
 Omnipaque™ (iohexol) Injection
-
-PHARMACY BULK PACKAGE - Not for Direct Infusion
 
 NOT FOR INTRATHECAL USE
 
-350 mgI/mL 500 mL
+NOVAPLUS®
+
+350 mg Iodine/mL
+
+500 mL
+
+For Injection or Oral Use.
 
 Multi-Dose Bottle.
-Sterile Aqueous Solution For Injection or Oral Use.
 
-in + PLUSPAK™ (polymer bottle)
+Sterile Aqueous Solution
 
 DO NOT USE IF TAMPER-EVIDENT RING IS BROKEN OR MISSING
+
+PHARMACY BULK PACKAGE Not for Direct Infusion

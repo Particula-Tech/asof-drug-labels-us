@@ -4,7 +4,7 @@ Clinical consequences of overdosage with OMNIPAQUE have not been reported.
 However, based on experience with other nonionic myelographic media, physicians should be alert to a potential increase in frequency and severity of CNS-mediated reactions.
 Even use of a recommended dose can produce effects tantamount to overdosage, if incorrect management of the patient during or immediately following the procedure permits inadvertent early intracranial entry of a large portion of the medium.
 
-The intracisternal LD50 value of OMNIPAQUE (in grams of iodine per kilogram body weight) is greater than 2.0 in mice.
+The intracisternal LD50 value of OMNIPAQUE (in grams of iodine per kilogram body weight) is greater than 2 in mice.
 
 # OVERDOSAGE
 
@@ -19,7 +19,7 @@ The intravenous LD50 values of OMNIPAQUE (in grams of iodine per kilogram body w
 
 See also SECTION II, OVERDOSAGE.
 
-The recommended dose of OMNIPAQUE 350 at a concentration of 350 mgI/mL for adult oral pass-thru examination of the gastrointestinal tract is 50 mL to 100 mL.
+The recommended dose of OMNIPAQUE 350 at a concentration of 350 mg Iodine/mL for adult oral pass-thru examination of the gastrointestinal tract is 50 mL to 100 mL.
 In a Phase I study, 150 mL of OMNIPAQUE 350 was administered orally to 11 healthy male subjects.
 The incidence of diarrhea was 91% (10 of 11) and abdominal cramping was 27% (3 of 11).
 Despite all of these events being mild and transient the occurrences were more than double that seen at the recommended doses.

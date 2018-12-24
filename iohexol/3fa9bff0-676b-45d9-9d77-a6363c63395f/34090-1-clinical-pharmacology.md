@@ -22,11 +22,12 @@ It will opacify those vessels in the path of flow of the contrast medium permitt
 
 Approximately 90% or more of the injected dose is excreted within the first 24 hours, with the peak urine concentrations occurring in the first hour after administration.
 Plasma and urine iohexol levels indicate that the iohexol body clearance is due primarily to renal clearance.
-An increase in the dose from 500 mgI/kg to 1500 mgI/kg does not significantly alter the clearance of the drug.
-The following pharmacokinetic values were observed following the intravenous administration of iohexol (between 500 mgI/kg to 1500 mgI/kg) to 16 adult human subjects: renal clearance—120 (86-162) mL/min; total body clearance—131 (98-165) mL/min; and volume of distribution—165 (108-219) mL/kg.
+An increase in the dose from 500 mg Iodine/kg to 1500 mg Iodine/kg does not significantly alter the clearance of the drug.
+The following pharmacokinetic values were observed following the intravenous administration of iohexol (between 500 mg Iodine/kg to 1500 mg Iodine/kg) to 16 adult human subjects: renal clearance—120 (86-162) mL/min; total body clearance—131 (98-165) mL/min; and volume of distribution—165 (108-219) mL/kg.
 
 Renal accumulation is sufficiently rapid that the period of maximal opacification of the renal passages may begin as early as 1 minute after intravenous injection.
 Urograms become apparent in about 1 to 3 minutes with optimal contrast occurring between 5 to 15 minutes.
+
 In nephropathic conditions, particularly when excretory capacity has been altered, the rate of excretion may vary unpredictably, and opacification may be delayed after injection.
 Severe renal impairment may result in a lack of diagnostic opacification of the collecting system and, depending on the degree of renal impairment, prolonged plasma iohexol levels may be anticipated.
 In these patients, as well as in infants with immature kidneys, the route of excretion through the gallbladder and into the small intestine may increase.
@@ -43,7 +44,7 @@ OMNIPAQUE enhances computed tomographic imaging through augmentation of radiogra
 The degree of density enhancement is directly related to the iodine content in an administered dose; peak iodine blood levels occur immediately following rapid intravenous injection.
 Blood levels fall rapidly within 5 to 10 minutes and the vascular compartment half-life is approximately 20 minutes.
 This can be accounted for by the dilution in the vascular and extravascular fluid compartments which causes an initial sharp fall in plasma concentration.
-Equilibration with the extracellular compartments is reached in about 10 minutes; thereafter, the fall becomes exponential.
+Equilibration with the extracellular compartments is reached in about ten minutes; thereafter, the fall becomes exponential.
 
 The pharmacokinetics of iohexol in both normal and abnormal tissue have been shown to be variable.
 Contrast enhancement appears to be greatest immediately after bolus administration (15 seconds to 120 seconds).
