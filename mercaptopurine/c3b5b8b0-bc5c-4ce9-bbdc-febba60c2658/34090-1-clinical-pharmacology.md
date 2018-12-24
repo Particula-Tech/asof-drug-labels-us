@@ -2,7 +2,7 @@
 
 ## Mechanism of action
 
-Mercaptopurine (6-MP) competes with hypoxanthine and guanine for the enzyme hyphoxanthine-guanine phosphoribosyltransferase (HGPRTase) and is itself converted to thioinosinic acid (TIMP).
+Mercaptopurine (6-MP) competes with hypoxanthine and guanine for the enzyme hypoxanthine-guanine phosphoribosyltransferase (HGPRTase) and is itself converted to thioinosinic acid (TIMP).
 This intracellular nucleotide inhibits several reactions involving inosinic acid (IMP), including the conversion of IMP to xanthylic acid (XMP) and the conversion of IMP to adenylic acid (AMP) via adenylosuccinate (SAMP).
 In addition, 6-methylthioinosinate (MTIMP) is formed by the methylation of TIMP.
 Both TIMP and MTIMP have been reported to inhibit glutamine-5-phosphoribosylpyrophosphate amidotransferase, the first enzyme unique to the de novo pathway for purine ribonucleotide synthesis.
@@ -28,23 +28,15 @@ Plasma protein binding averages 19% over the concentration range 10 to 50 mcg/mL
 
 A reduction in mercaptopurine dosage is required if patients are receiving both mercaptopurine and allopurinol (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
 
-### Metabolism and Genetic Polymorphism
+Metabolism and Genetic Polymorphism
 
-Variability in mercaptopurine metabolism is one of the major causes of interindividual differences in systemic exposure to the drug and its active metabolites.
-Mercaptopurine activation occurs via hypoxanthine-guanine phosphoribosyl transferase (HGPRT) and several enzymes to form 6-thioguanine nucleotides (6-TGNs).
-The cytotoxicity of mercaptopurine is due, in part, to the incorporation of 6-TGN into DNA.
-Mercaptopurine is inactivated via two major pathways.
-One is thiol methylation, which is catalyzed by the polymorphic enzyme thiopurine S-methyltransferase (TPMT), to form the inactive metabolite methyl-6-MP.
-TPMT activity is highly variable in patients because of a genetic polymorphism in the TPMT gene.
-For Caucasians and African Americans, approximately 0.3% (1:300) of patients have two non-functional alleles (homozygous-deficient) of the TPMT gene and have little or no detectable enzyme activity.
-Approximately 10% of patients have one TPMT non-functional allele (heterozygous) leading to low or intermediate TPMT activity and 90% of individuals have normal TPMT activity with two functional alleles.
-Homozygous-deficient patients (two non-functional alleles), if given usual doses of mercaptopurine, accumulate excessive cellular concentrations of active thioguanine nucleotides predisposing them to mercaptopurine toxicity (see WARNINGS and PRECAUTIONS).
-Heterozygous patients with low or intermediate TPMT activity accumulate higher concentrations of active thioguanine nucleotides than people with normal TPMT activity and are more likely to experience mercaptopurine toxicity (see WARNINGS and PRECAUTIONS).
-TMPT genotyping or phenotyping (red blood cell TPMT activity) can identify patients who are homozygous deficient or have low or intermediate TPMT activity (see WARNINGS, PRECAUTIONS: Laboratory Tests, and DOSAGE AND ADMINISTRATION sections).
+Several published studies indicate that patients with reduced TPMT or NUDT15 activity receiving usual doses of mercaptopurine, accumulate excessive cellular concentrations of active 6-TGNs, and are at higher risk for severe myelosuppression.
+In a study of 1028 children with ALL, the approximate tolerated mercaptopurine dosage range for patients with TPMT and/or NUDT15 deficiency on mercaptopurine maintenance therapy (as a percentage of the planned dosage) was as follows: heterozygous for either TPMT or NUDT15, 50-90%; heterozygous for both TPMT and NUDT15, 30-50%; homozygous for either TPMT or NUDT15, 5-10%.
 
-Another inactivation pathway is oxidation, which is catalyzed by xanthine oxidase (XO) and forms 6-thiouric acid.
-Xanathine oxidase is inhibited by ZYLOPRIM® (allopurinol).
-Concomitant use of allopurinol with mercaptopurine decreases the catabolism of mercaptopurine and its active metabolites leading to mercaptopurine toxicity.
-A reduction in mercaptopurine dosage is therefore required if patients are receiving both mercaptopurine and allopurinol (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
+Approximately 0.3% (1:300) of patients of European or African ancestry have two loss-of-function alleles of the TPMT gene and have little or no TPMT activity (homozygous deficient or poor metabolizers), and approximately 10% of patients have one loss-of-function TPMT allele leading to intermediate TPMT activity(heterozygous deficient or intermediate metabolizers).
+The TPMT*2, TPMT*3A, and TPMT*3C alleles account for about 95% of individuals with reduced levels of TPMT activity.
+NUDT15 deficiency is detected in <1% of patients of European or African ancestry.
+Among patients of East Asian ancestry (i.e., Chinese, Japanese, Vietnamese), 2% have two loss-of-function alleles of the NUDT15 gene, and approximately 21% have one loss-of-function allele.
+The p.R139C variant of NUDT15 (present on the *2 and *3 alleles) is the most commonly observed, but other less common loss-of-function NUDT15 alleles have been observed.
 
-After oral administration of 35S-6-mercaptopurine, urine contains intact mercaptopurine, thiouric acid (formed by direct oxidation by xanthine oxidase, probably via 6-mercapto-8-hydroxypurine), and a number of 6-methylated thiopurines.
+Consider all clinical information when interpreting results from phenotypic testing used to determine the level of thiopurine nucleotides or TPMT activity in erythrocytes, since some co-administered drugs can influence measurement of TPMT activity in blood, and blood from recent transfusions will misrepresent a patient’s actual TPMT activity.

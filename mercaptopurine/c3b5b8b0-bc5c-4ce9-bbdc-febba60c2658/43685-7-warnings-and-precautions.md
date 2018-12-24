@@ -14,15 +14,12 @@ The qualitative changes in the erythroid elements toward the megaloblastic serie
 Life-threatening infections and bleeding have been observed as a consequence of mercaptopurine-induced granulocytopenia and thrombocytopenia.
 Since mercaptopurine may have a delayed effect, it is important to withdraw the medication temporarily at the first sign of an unexpected abnormally large fall in any of the formed elements of the blood, if not attributable to another drug or disease process.
 
-Individuals who are homozygous for an inherited defect in the TPMT (thiopurine-S-methyltransferase) gene are unusually sensitive to the myelosuppressive effects of mercaptopurine and prone to developing rapid bone marrow suppression following the initiation of treatment.
-Laboratory tests are available, both genotypic and phenotypic, to determine the TPMT status.
-Substantial dose reductions are generally required for homozygous-TPMT deficiency patients (two non-functional alleles) to avoid the development of life threatening bone marrow suppression.
-Although heterozygous patients with intermediate TPMT activity may have increased mercaptopurine toxicity, this is variable, and the majority of patients tolerate normal doses of mercaptopurine.
-If a patient has clinical or laboratory evidence of severe toxicity, particularly myelosuppression, TPMT testing should be considered.
-In patients who exhibit excessive myelosuppression due to 6-mercaptopurine, it may be possible to adjust the mercaptopurine dose and administer the usual dosage of other myelosuppressive chemotherapy as required for treatment (see DOSAGE AND ADMINISTRATION).
+Evaluate patients with repeated severe myelosuppression for thiopurine S-methyltransferase (TPMT) or nucleotide diphosphatase (NUDT15) deficiency.
+TPMT genotyping or phenotyping (red blood cell TPMT activity) and NUDT15 genotyping can identify patients who have reduced activity of these enzymes.
+Patients with homozygous TPMT or NUDT15 deficiency require substantial dosage reductions.
 
 Bone marrow toxicity may be more profound in patients treated with concomitant allopurinol (see PRECAUTIONS: Drug Interactions and DOSAGE AND ADMINISTRATION).
-This problem could be exacerbated by coadministration with drugs that inhibit TPMT, such as olsalazine, mesalamine, or sulfasalazine.
+This problem could be exacerbated by co-administration with drugs that inhibit TPMT, such as olsalazine, mesalamine, or sulfasalazine.
 
 ## Hepatotoxicity
 
@@ -46,7 +43,7 @@ Hepatic encephalopathy has occurred.
 Monitoring of serum transaminase levels, alkaline phosphatase, and bilirubin levels may allow early detection of hepatotoxicity.
 It is advisable to monitor these liver function tests at weekly intervals when first beginning therapy and at monthly intervals thereafter.
 Liver function tests may be advisable more frequently in patients who are receiving mercaptopurine with other hepatotoxic drugs or with known pre-existing liver disease.
-The onset of clinical jaundice, hepatomegaly, or anorexia with tenderness in the right hypochondriuim are immediate indications for withholding mercaptopurine until the exact etiology can be identified.
+The onset of clinical jaundice, hepatomegaly, or anorexia with tenderness in the right hypochondrium are immediate indications for withholding mercaptopurine until the exact etiology can be identified.
 Likewise, any evidence of deterioration in liver function studies, toxic hepatitis, or biliary stasis should prompt discontinuation of the drug and a search for an etiology of the hepatotoxicity.
 
 The concomitant administration of mercaptopurine with other hepatotoxic agents requires especially careful clinical and biochemical monitoring of hepatic function.
@@ -61,7 +58,7 @@ This immunosuppressive effect should be carefully considered with regard to inte
 
 ## Pregnancy
 
-### Pregnancy Category D
+Pregnancy Category D
 
 Mercaptopurine can cause fetal harm when administered to a pregnant woman.
 Women receiving mercaptopurine in the first trimester of pregnancy have an increased incidence of abortion; the risk of malformation in offspring surviving first trimester exposure is not accurately known.
@@ -89,20 +86,11 @@ Women of childbearing potential should be advised to avoid becoming pregnant.
 ## Laboratory Tests
 
 (Also see WARNINGS: Bone Marrow Toxicity.)
-It is recommended that evaluation of the hemoglobin or hematocrit, total white blood cell count and differential count and quantitative platelet count be obtained weekly while the patient is on therapy with mercaptopurine.
+It is recommended that evaluation of the hemoglobin or hematocrit, total white blood cell count and differential count, and quantitative platelet count be obtained weekly while the patient is on therapy with mercaptopurine.
 Bone marrow examination may also be useful for the evaluation of marrow status.
 The decision to increase, decrease, continue, or discontinue a given dosage of mercaptopurine must be based upon the degree of severity and rapidity with which changes are occurring.
 In many instances, particularly during the induction phase of acute leukemia, complete blood counts will need to be done more frequently than once weekly in order to evaluate the effect of the therapy.
-If a patient has clinical or laboratory evidence of severe bone marrow toxicity, particularly myelosuppression, TPMT testing should be considered.
-
-### TPMT Testing
-
-Genotypic and phenotypic testing of TPMT status are available.
-Genotypic testing can determine the allelic pattern of a patient.
-Currently, 3 alleles—TPMT*2, TPMT*3A and TPMT*3C—account for about 95% of individuals with reduced levels of TPMT activity.
-Individuals homozygous for these alleles are TPMT deficient and those heterozygous for these alleles have variable TPMT (low or intermediate) activity.
-Phenotypic testing determines the level of thiopurine nucleotides or TPMT activity in erythrocytes and can also be informative.
-Caution must be used with phenotyping since some co-administered drugs can influence measurement of TPMT activity in the blood, and recent blood transfusions will misrepresent a patient’s actual TPMT activity.
+Consider testing for TPMT and NUDT15 deficiency in patients who experience severe bone marrow toxicities or repeated episodes of myelosuppression.
 
 ## Drug Interactions
 
@@ -127,9 +115,9 @@ The effect of mercaptopurine on human fertility is unknown for either males or f
 
 ## Pregnancy
 
-### Teratogenic Effects
+Teratogenic Effects
 
-#### Pregnancy Category D
+Pregnancy Category D
 
 See WARNINGS section.
 

@@ -2,7 +2,7 @@
 
 Mercaptopurine was synthesized and developed by Hitchings, Elion, and associates at the Wellcome Research Laboratories.
 
-Mercaptopurine USP, known chemically as 1,7-dihydro-6H-purine-6-thione monohydrate, is an analogue of the purine bases adenine and hypoxanthine.
+Mercaptopurine USP, known chemically as 6H-Purine-6-thione, 1,7-dihydro-monohydrate, is an analogue of the purine bases adenine and hypoxanthine.
 Its structural formula is:
 
 Mercaptopurine Tablets USP are available in tablet form for oral administration.
