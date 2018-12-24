@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA206948"
+  ],
+  "inn": "benzonatate",
+  "labeler": "Epic Pharma LLC",
+  "package_ndcs": [
+    "42806-714-01",
+    "42806-714-05",
+    "42806-715-01",
+    "42806-715-05"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "benzonatate",
+      "name": "Benzonatate"
+    }
+  ],
+  "setid": "9b35e9d5-7d72-4f51-a245-ad2467ab40e9",
+  "source": "dailymed"
+}
