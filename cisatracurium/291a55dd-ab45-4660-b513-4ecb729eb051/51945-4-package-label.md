@@ -1,6 +1,6 @@
-# Principal Display Panel
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-NDC 0781-3150-75 Rx only
+NDC 0781-3150-75
 
 Cisatracurium Besylate Injection
 
@@ -10,7 +10,11 @@ Cisatracurium Besylate Injection
 
 For Intravenous Injection
 
+Rx only
+
 5 mL Single Dose Vial
+
+Sterile, Nonpyrogenic
 
 WARNING: Paralyzing Agent.
 
@@ -32,7 +36,17 @@ Cisatracurium Besylate Injection
 
 For Intravenous Injection
 
+Rx only
+
 20 mL Single Dose Vial
+
+Sterile, Nonpyrogenic
+
+WARNING: Paralyzing Agent.
+
+Causes Respiratory Arrest.
+
+Facilities must be immediately available for artificial respiration.
 
 | For ICU use only |
 | --- |

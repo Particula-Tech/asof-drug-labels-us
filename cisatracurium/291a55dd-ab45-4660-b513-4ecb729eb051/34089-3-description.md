@@ -1,7 +1,7 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-Cisatracurium besylate is a nondepolarizing skeletal muscle relaxant for intravenous administration.
-Compared to other neuromuscular blocking agents, it is intermediate in its onset and duration of action.
+Cisatracurium besylate is a nondepolarizing skeletal neuromuscular blocker for intravenous administration.
+Compared to other neuromuscular blockers, it is intermediate in its onset and duration of action.
 Cisatracurium besylate is one of 10 isomers of atracurium besylate and constitutes approximately 15% of that mixture.
 Cisatracurium besylate is [1R-[1α,2α(1'R*,2'R*)]]-2,2'-[1,5-pentanediylbis[oxy(3-oxo-3,1-propanediyl)]]bis[1-[(3,4-dimethoxyphenyl)methyl]-1,2,3,4-tetrahydro-6,7-dimethoxy-2-methylisoquinolinium] dibenzenesulfonate.
 The molecular formula of the cisatracurium parent bis-cation is C53H72N2O12 and the molecular weight is 929.2.
@@ -15,8 +15,3 @@ The pH is adjusted to 3.25 to 3.65 with benzenesulfonic acid.
 The 5 mL vial contains cisatracurium besylate, equivalent to 2 mg/mL cisatracurium.
 The 20 mL vial, intended for ICU use only, contains cisatracurium besylate, equivalent to 10 mg/mL cisatracurium.
 The 5 mL and 20 mL vials are single-use vials and do not contain benzyl alcohol.
-
-Cisatracurium besylate slowly loses potency with time at a rate of approximately 5% per year under refrigeration (5°C).
-Cisatracurium besylate should be refrigerated at 2° to 8°C (36° to 46°F) in the carton to preserve potency.
-The rate of loss in potency increases to approximately 5% per month at 25°C (77°F).
-Upon removal from refrigeration to room temperature storage conditions (25°C/77°F), use cisatracurium besylate within 21 days, even if rerefrigerated.

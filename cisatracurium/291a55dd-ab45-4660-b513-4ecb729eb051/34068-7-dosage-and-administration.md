@@ -1,138 +1,166 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-CISATRACURIUM BESYLATE INJECTION SHOULD ONLY BE ADMINISTERED INTRAVENOUSLY.
+## 2.1 Important Dosage and Administration Instructions
 
-The dosage information provided below is intended as a guide only.
-Doses of cisatracurium besylate injection should be individualized (see CLINICAL PHARMACOLOGY- Individualization of Dosages).
-The use of a peripheral nerve stimulator will permit the most advantageous use of cisatracurium besylate injection, minimize the possibility of overdosage or underdosage, and assist in the evaluation of recovery.
+Important administration instructions include:
 
-## Adults
+- •Cisatracurium besylate injection is for intravenous use only.
+- •Administer cisatracurium besylate injection in carefully adjusted dosage by or under the supervision of experienced clinicians who are familiar with the drug’s actions and the possible complications.
+- •Use cisatracurium besylate injection only if the following are immediately available: personnel and facilities for resuscitation and life support (tracheal intubation, artificial ventilation, oxygen therapy); and an antagonist of cisatracurium besylate injection [see Overdosage (10)].
+- •The dosage information which follows is intended to serve as an initial guide for individual patients; base subsequent cisatracurium besylate dosage on the patients’ responses to the initial doses.
+- •Use a peripheral nerve stimulator to:
+  - oDetermine the adequacy of neuromuscular blockade (e.g., need for additional cisatracurium besylate injection doses, reduction of the infusion rate).
+  - oMinimize risk of overdosage or underdosage.
+  - oAssess the extent of recovery from neuromuscular blockade (e.g., spontaneous recovery or recovery after administration of a reversal agent, e.g., neostigmine).
+  - oAppropriately titrate doses to potentially limit exposure to toxic metabolites.
+  - oFacilitate more rapid reversal of the cisatracurium besylate injection-induced paralysis.
 
-### Initial Doses
+Risk of Medication Errors
 
-One of two intubating doses of cisatracurium besylate injection may be chosen, based on the desired time to tracheal intubation and the anticipated length of surgery.
-In addition to the dose of neuromuscular blocking agent, the presence of co-induction agents (e.g., fentanyl and midazolam) and the depth of anesthesia are factors that can influence intubation conditions.
-Doses of 0.15 (3 × ED95) and 0.20 (4 × ED95) mg/kg cisatracurium besylate, as components of a propofol/nitrous oxide/oxygen induction-intubation technique, may produce generally GOOD or EXCELLENT conditions for intubation in 2 and 1.5 minutes, respectively.
-Similar intubation conditions may be expected when these doses of cisatracurium besylate injection are administered as components of a thiopental/nitrous oxide/oxygen induction-intubation technique.
-In two intubation studies using thiopental or propofol and midazolam and fentanyl as co-induction agents, EXCELLENT intubation conditions were most frequently achieved with the 0.2 mg/kg compared to 0.15 mg/kg dose of cisatracurium besylate injection.
-The clinically effective durations of action for 0.15 and 0.20 mg/kg cisatracurium besylate injection during propofol anesthesia are 55 minutes (range: 44 to 74 minutes) and 61 minutes (range: 41 to 81 minutes), respectively.
-Lower doses may result in a longer time for the development of satisfactory intubation conditions.
-Doses up to 8 × ED95 cisatracurium besylate injection have been safely administered to healthy adult patients and patients with serious cardiovascular disease.
-These larger doses are associated with longer clinically effective durations of action (see CLINICAL PHARMACOLOGY).
+Accidental administration of neuromuscular blocking agents may be fatal.
+Store cisatracurium besylate injection with the cap and ferrule intact and in a manner that minimizes the possibility of selecting the wrong product [see Warnings and Precautions (5.5)].
 
-Because slower times to onset of complete neuromuscular block were observed in elderly patients and patients with renal dysfunction, extending the interval between administration of cisatracurium besylate injection and the intubation attempt for these patients may be required to achieve adequate intubation conditions.
+## 2.2 Recommended Cisatracurium Besylate Injection Dose for Performing Tracheal Intubation
 
-A dose of 0.03 mg/kg cisatracurium besylate injection is recommended for maintenance of neuromuscular block during prolonged surgical procedures.
-Maintenance doses of 0.03 mg/kg each sustain neuromuscular block for approximately 20 minutes.
-Maintenance dosing is generally required 40 to 50 minutes following an initial dose of 0.15 mg/kg cisatracurium besylate injection and 50 to 60 minutes following an initial dose of 0.20 mg/kg cisatracurium besylate injection, but the need for maintenance doses should be determined by clinical criteria.
-For shorter or longer durations of action, smaller or larger maintenance doses may be administered.
+Tracheal Intubation in Adults
 
-Isoflurane or enflurane administered with nitrous oxide/oxygen to achieve 1.25 MAC (Minimum Alveolar Concentration) may prolong the clinically effective duration of action of initial and maintenance doses.
-The magnitude of these effects may depend on the duration of administration of the volatile agents.
-Fifteen to 30 minutes of exposure to 1.25 MAC isoflurane or enflurane had minimal effects on the duration of action of initial doses of cisatracurium besylate injection and therefore, no adjustment to the initial dose should be necessary when cisatracurium besylate injection is administered shortly after initiation of volatile agents.
-In long surgical procedures during enflurane or isoflurane anesthesia, less frequent maintenance dosing or lower maintenance doses of cisatracurium besylate injection may be necessary.
-No adjustments to the initial dose of cisatracurium besylate injection are required when used in patients receiving propofol anesthesia.
+Prior to selecting the initial cisatracurium besylate injection bolus dose, consider the desired time to tracheal intubation and the anticipated length of surgery, factors affecting time to onset of complete neuromuscular block such as age and renal function, and factors that may influence intubation conditions such as the presence of co-induction agents (e.g., fentanyl and midazolam) and the depth of anesthesia.
 
-## Children
+In conjunction with a propofol/nitrous oxide/oxygen induction-intubation technique or a thiopental/nitrous oxide/oxygen induction-intubation technique, the recommended starting weight-based dose of cisatracurium besylate injection is between 0.15 mg/kg and 0.2 mg/kg administered by bolus intravenous injection.
+Doses up to 0.4 mg/kg have been safely administered by bolus intravenous injection to healthy patients and patients with serious cardiovascular disease [see Clinical Pharmacology (12.2)].
 
-### Initial Doses
+Patients with Neuromuscular Disease
 
-The recommended dose of cisatracurium besylate injection for children 2 to 12 years of age is 0.10 to 0.15 mg/kg administered over 5 to 10 seconds during either halothane or opioid anesthesia.
-When administered during stable opioid/nitrous oxide/oxygen anesthesia, 0.10 mg/kg cisatracurium besylate injection produces maximum neuromuscular block in an average of 2.8 minutes (range: 1.8 to 6.7 minutes) and clinically effective block for 28 minutes (range: 21 to 38 minutes).
-When administered during stable opioid/nitrous oxide/oxygen anesthesia, 0.15 mg/kg cisatracurium besylate produces maximum neuromuscular block in about 3 minutes (range: 1.5 to 8 minutes) and clinically effective block (time to 25% recovery) for 36 minutes (range: 29 to 46 minutes).
+The maximum recommended initial bolus dose of cisatracurium besylate injection is 0.02 mg/kg in patients with neuromuscular diseases (e.g., myasthenia gravis and myasthenic syndrome and carcinomatosis) [see Warnings and Precautions (5.1)].
 
-## Infants
+Geriatric Patients and Patients with End-Stage Renal Disease
 
-### Initial Doses
+Because the time to maximum neuromuscular blockade is approximately 1 minute slower in geriatric patients compared to younger patients (and in patients with end-stage renal disease than in patients with normal renal function), consider extending the interval between administering cisatracurium besylate injection and attempting intubation by at least 1 minute to achieve adequate intubation conditions in geriatric patients and patients with end-stage renal disease.
+A peripheral nerve stimulator should be used to determine the adequacy of muscle relaxation for the purposes of intubation and the timing and amounts of subsequent doses [see Use in Specific Populations (8.5, 8.6) and Clinical Pharmacology (12.3)].
 
-The recommended dose of cisatracurium besylate injection for intubation of infants 1 month to 23 months is 0.15 mg/kg administered over 5 to 10 seconds during either halothane or opioid anesthesia.
-When administered during stable opioid/nitrous oxide/oxygen anesthesia, 0.15 mg/kg cisatracurium besylate produces maximum neuromuscular block in about 2 minutes (range: 1.3 to 3.4 minutes) and clinically effective block (time to 25% recovery) for about 43 minutes (range: 34 to 58 minutes).
+Tracheal Intubation in Pediatric Patients
 
-## Use by Continuous Infusion
+Infants 1 to 23 Months of Age
 
-### Infusion in the Operating Room (OR)
+The recommended dose of cisatracurium besylate injection for intubation of pediatric patients ages 1 month to 23 months is 0.15 mg/kg administered over 5 to 10 seconds.
+When administered during stable opioid/nitrous oxide/oxygen anesthesia, 0.15 mg/kg of cisatracurium besylate injection produced maximum neuromuscular blockade in about 2 minutes (range: 1.3 to 4.3 minutes) with a clinically effective block (time to 25% recovery) for about 43 minutes (range: 34 to 58 minutes) [see Clinical Studies (14.2)].
 
-After administration of an initial bolus dose of cisatracurium besylate injection, a diluted solution of cisatracurium besylate can be administered by continuous infusion to adults and children aged 2 or more years for maintenance of neuromuscular block during extended surgical procedures.
-Infusion of cisatracurium besylate injection should be individualized for each patient.
-The rate of administration should be adjusted according to the patient's response as determined by peripheral nerve stimulation.
-Accurate dosing is best achieved using a precision infusion device.
+Pediatric Patients 2 to 12 Years of Age
 
-Infusion of cisatracurium besylate injection should be initiated only after early evidence of spontaneous recovery from the initial bolus dose.
-An initial infusion rate of 3 mcg/kg/min may be required to rapidly counteract the spontaneous recovery of neuromuscular function.
-Thereafter, a rate of 1 to 2 mcg/kg/min should be adequate to maintain continuous neuromuscular block in the range of 89% to 99% in most pediatric and adult patients under opioid/nitrous oxide/oxygen anesthesia.
+The recommended weight-based bolus dose of cisatracurium besylate injection for pediatric patients 2 to 12 years of age is 0.1 to 0.15 mg/kg administered over 5 to 10 seconds.
+When administered during stable opioid/nitrous oxide/oxygen anesthesia, 0.1 mg/kg cisatracurium besylate injection produced maximum neuromuscular blockade in an average of 2.8 minutes (range: 1.8 to 6.7 minutes) with a clinically effective block (time to 25% recovery) for 28 minutes (range: 21 to 38 minutes).
+When administered during stable opioid/nitrous oxide/oxygen anesthesia, 0.15 mg/kg cisatracurium besylate injection produced maximum neuromuscular blockade in an average of about 3 minutes (range: 1.5 to 8 minutes) with a clinically effective block for 36 minutes (range: 29 to 46 minutes) [see Clinical Studies (14.2)].
 
-Reduction of the infusion rate by up to 30% to 40% should be considered when cisatracurium besylate injection is administered during stable isoflurane or enflurane anesthesia (administered with nitrous oxide/oxygen at the 1.25 MAC level).
-Greater reductions in the infusion rate of cisatracurium besylate injection may be required with longer durations of administration of isoflurane or enflurane.
+## 2.3 Recommended Maintenance Bolus Cisatracurium Besylate Doses in Adult Surgical Procedures
 
-The rate of infusion of atracurium required to maintain adequate surgical relaxation in patients undergoing coronary artery bypass surgery with induced hypothermia (25° to 28°C) is approximately half the rate required during normothermia.
-Based on the structural similarity between cisatracurium besylate injection and atracurium, a similar effect on the infusion rate of cisatracurium besylate injection may be expected.
+Determine if maintenance bolus doses are needed based on clinical criteria including the response to peripheral nerve stimulation.
+The recommended maintenance bolus dose of cisatracurium besylate injection is 0.03 mg/kg; however, smaller or larger maintenance doses may be administered based on the required duration of action.
+Administer the first maintenance bolus dose starting:
 
-Spontaneous recovery from neuromuscular block following discontinuation of infusion of cisatracurium besylate injection may be expected to proceed at a rate comparable to that following administration of a single bolus dose.
+- •40 to 50 minutes after an initial dose of cisatracurium besylate injection 0.15 mg/kg;
+- •50 to 60 minutes after an initial dose of cisatracurium besylate injection 0.2 mg/kg.
 
-### Infusion in the Intensive Care Unit (ICU)
+For long surgical procedures using inhalational anesthetics administered with nitrous oxide/oxygen at the 1.25 MAC level for at least 30 minutes, consider administering less frequent maintenance bolus doses or lower maintenance bolus doses of cisatracurium besylate injection [see Clinical Pharmacology (12.2)].
+No adjustment to the initial cisatracurium besylate injection maintenance bolus dose should be necessary when cisatracurium besylate injection is administered shortly after initiation of volatile agents or when used in patients receiving propofol anesthesia.
 
-The principles for infusion of cisatracurium besylate injection in the OR are also applicable to use in the ICU.
-An infusion rate of approximately 3 mcg/kg/min (range: 0.5 to 10.2 mcg/kg/min) should provide adequate neuromuscular block in adult patients in the ICU.
-There may be wide interpatient variability in dosage requirements and these may increase or decrease with time (see PRECAUTIONS - Long-Term Use in the Intensive Care Unit (ICU)).
-Following recovery from neuromuscular block, readministration of a bolus dose may be necessary to quickly re-establish neuromuscular block prior to reinstitution of the infusion.
+## 2.4 Dosage in Burn Patients
 
-### Infusion Rate Tables
+Burn patients have been shown to develop resistance to nondepolarizing neuromuscular blocking agents; therefore, consider increasing the cisatracurium besylate injection dosages for intubation and maintenance [see Use in Specific Populations (8.8)].
 
-The amount of infusion solution required per minute will depend upon the concentration of cisatracurium besylate in the infusion solution, the desired dose of cisatracurium besylate, and the patient's weight.
-The contribution of the infusion solution to the fluid requirements of the patient also must be considered.
-Tables 10 and 11 provide guidelines for delivery, in mL/hr (equivalent to microdrops/minute when 60 microdrops = 1 mL), of cisatracurium besylate solutions in concentrations of 0.1 mg/mL (10 mg/100 mL) or 0.4 mg/mL (40 mg/100 mL).
+## 2.5 Dosage for Continuous Infusion
 
-Table 10.
-Infusion Rates of Cisatracurium Besylate for Maintenance of Neuromuscular Block During Opioid/Nitrous Oxide/Oxygen Anesthesia for a Concentration of 0.1 mg/mL
+Continuous Infusion for Surgical Procedures in Adults and Pediatric Patients
 
-|  | Drug Delivery Rate (mcg/kg/min) |  |  |  |  |
+During extended surgical procedures, cisatracurium besylate injection may be administered by continuous infusion to adults and pediatric patients aged 2 or more years if patients have spontaneous recovery after the initial cisatracurium besylate injection bolus dose.
+Following recovery from neuromuscular blockade, it may be necessary to re-administer a bolus dose to quickly re-establish neuromuscular blockade prior to starting the continuous infusion.
+
+If patients have had recovery of neuromuscular function, the recommended initial cisatracurium besylate injection infusion rate is 3 mcg/kg/minute [see Dosage and Administration (2.6)].
+Subsequently reduce the rate to 1 to 2 mcg/kg/minute to maintain continuous neuromuscular blockade.
+Use peripheral nerve stimulation to assess the level of neuromuscular blockade and to appropriately titrate the cisatracurium besylate injection infusion rate.
+If no response is elicited to peripheral nerve stimulation, discontinue the infusion until a response returns.
+
+Consider reducing the infusion rate by up to 30% to 40% when cisatracurium besylate injection is administered during stable isoflurane anesthesia for at least 30 minutes (administered with nitrous oxide/oxygen at the 1.25 MAC level) [see Clinical Pharmacology (12.2)].
+Greater reductions in the cisatracurium besylate injection infusion rate may be required with longer durations of administration of isoflurane or with the administration of other inhalational anesthetics.
+
+Patients Undergoing Coronary Artery Bypass Graft (CABG) Surgery
+
+Consider reducing the infusion rate in patients undergoing CABG with induced hypothermia to half the rate required during normothermia [see Clinical Pharmacology (12.2)].
+Spontaneous recovery from neuromuscular block following discontinuation of infusion of cisatracurium besylate injection infusion is expected to proceed at a rate comparable to that following administration of a single bolus dose.
+
+Continuous Infusion for Mechanical Ventilation in the Intensive Care Unit in Adults
+
+During extended need for mechanical ventilation and skeletal muscle relaxation in the intensive care unit (ICU), cisatracurium besylate may be administered by continuous infusion to adults if a patient has spontaneous recovery of neuromuscular function after the initial cisatracurium besylate injection bolus dose.
+Following recovery from neuromuscular blockade, it may be necessary to re-administer a bolus dose to quickly re-establish neuromuscular blockade prior to starting the continuous infusion.
+
+The recommended cisatracurium besylate injection infusion rate in adult patients in the ICU is 3 mcg/kg/minute (range: 0.5 to 10.2 mcg/kg/minute) [see Dosage and Administration (2.6)].
+Use peripheral nerve stimulation to assess the level of neuromuscular blockade and to appropriately titrate the cisatracurium besylate injection infusion rate.
+
+## 2.6 Rate Tables for Continuous Infusion
+
+The intravenous infusion rate depends upon the cisatracurium besylate injection concentration, the desired dose, the patient's weight, and the contribution of the infusion solution to the fluid requirements of the patient.
+Tables 1 and 2 provide guidelines for the cisatracurium besylate injection infusion rate, in mL/hour (equivalent to microdrops/minute when 60 microdrops = 1 mL), in concentrations of 0.1 mg/mL or 0.4 mg/mL, respectively.
+
+1. Table 1.
+   Cisatracurium Besylate Infusion Rates for Maintenance of Neuromuscular Blockade During Opioid/Nitrous Oxide/Oxygen Anesthesia with a Concentration of 0.1 mg/mL
+
+| Drug Delivery Rate (mcg/kg/minute) |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | 1 | 1.5 | 2 | 3 | 5 |
-| Patient Weight (kg) | Infusion Delivery Rate (mL/hr) |  |  |  |  |
-| 10 | 6 | 9 | 12 | 18 | 30 |
-| 45 | 27 | 41 | 54 | 81 | 135 |
-| 70 | 42 | 63 | 84 | 126 | 210 |
-| 100 | 60 | 90 | 120 | 180 | 300 |
+| Patient Weight | Infusion Delivery Rate (mL/hour) |  |  |  |  |
+| 10 kg | 6 | 9 | 12 | 18 | 30 |
+| 45 kg | 27 | 41 | 54 | 81 | 135 |
+| 70 kg | 42 | 63 | 84 | 126 | 210 |
+| 100 kg | 60 | 90 | 120 | 180 | 300 |
 
-Table 11.
-Infusion Rates of Cisatracurium Besylate for Maintenance of Neuromuscular Block During Opioid/Nitrous Oxide/Oxygen Anesthesia for a Concentration of 0.4 mg/mL
+1. Table 2.
+   Cisatracurium Besylate Infusion Rates for Maintenance of Neuromuscular Blockade During Opioid/Nitrous Oxide/Oxygen Anesthesia with a Concentration of 0.4 mg/mL
 
-|  | Drug Delivery Rate (mcg/kg/min) |  |  |  |  |
+| Drug Delivery Rate (mcg/kg/minute) |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | 1 | 1.5 | 2 | 3 | 5 |
-| Patient Weight (kg) | Infusion Delivery Rate (mL/hr) |  |  |  |  |
-| 10 | 1.5 | 2.3 | 3 | 4.5 | 7.5 |
-| 45 | 6.8 | 10.1 | 13.5 | 20.3 | 33.8 |
-| 70 | 10.5 | 15.8 | 21 | 31.5 | 52.5 |
-| 100 | 15 | 22.5 | 30 | 45 | 75 |
+| Patient Weight | Infusion Delivery Rate (mL/hour) |  |  |  |  |
+| 10 kg | 1.5 | 2.3 | 3 | 4.5 | 7.5 |
+| 45 kg | 6.8 | 10.1 | 13.5 | 20.3 | 33.8 |
+| 70 kg | 10.5 | 15.8 | 21 | 31.5 | 52.5 |
+| 100 kg | 15 | 22.5 | 30 | 45 | 75 |
 
-## Cisatracurium Besylate Injection Compatibility and Admixtures
+## 2.7 Preparation of Cisatracurium Besylate Injection
 
-### Y-site Administration
+Visually inspect cisatracurium besylate injection for particulate matter and discoloration prior to administration.
+If a cisatracurium besylate injection solution is cloudy or contains visible particulates, do not use cisatracurium besylate injection.
+Cisatracurium besylate injection is a colorless to slightly yellow or greenish-yellow solution.
+
+Cisatracurium besylate injection may be diluted to 0.1 mg/mL in the following solutions:
+
+- •5% Dextrose Injection, USP
+- •0.9% Sodium Chloride Injection, USP, or
+- •5% Dextrose and 0.9% Sodium Chloride Injection, USP
+
+Store these diluted cisatracurium besylate injection solutions either in a refrigerator or at room temperature for 24 hours without significant loss of potency.
+
+Cisatracurium besylate injection also may be diluted to 0.1 mg/mL or 0.2 mg/mL in the following solution:
+
+- •Lactated Ringer’s and 5% Dextrose Injection
+
+Store this diluted cisatracurium besylate injection solution under refrigeration for no more than 24 hours.
+
+Do not dilute cisatracurium besylate injection in Lactated Ringer’s Injection, USP due to chemical instability.
+
+## 2.8 Drug Compatibility
+
+Cisatracurium besylate injection is compatible and may be administered with the following solutions through Y-site administration:
+
+- •5% Dextrose Injection, USP
+- •0.9% Sodium Chloride Injection, USP
+- •5% Dextrose and 0.9% Sodium Chloride Injection, USP
+- •Sufentanil Citrate Injection, diluted as directed
+- •Alfentanil Hydrochloride Injection, diluted as directed
+- •Fentanyl Citrate Injection, diluted as directed
+- •Midazolam Hydrochloride Injection, diluted as directed
+- •Droperidol Injection, diluted as directed
 
 Cisatracurium besylate injection is acidic (pH = 3.25 to 3.65) and may not be compatible with alkaline solution having a pH greater than 8.5 (e.g., barbiturate solutions).
+Therefore, do not administer cisatracurium besylate injection and alkaline solutions simultaneously in the same intravenous line.
 
-Studies have shown that cisatracurium besylate injection is compatible with:
-
-- •5% Dextrose injection, USP
-- •0.9% Sodium chloride injection, USP
-- •5% Dextrose and 0.9% sodium chloride injection, USP
-- •SUFENTA® (sufentanil citrate) injection, diluted as directed
-- •ALFENTA® (alfentanil hydrochloride) injection, diluted as directed
-- •SUBLIMAZE® (fentanyl citrate) injection, diluted as directed
-- •VERSED® (midazolam hydrochloride) injection, diluted as directed
-- •Droperidol injection, diluted as directed
-
-Cisatracurium besylate injection is not compatible with DIPRIVAN® (propofol) or TORADOL® (ketorolac) for Y-site administration.
-Studies of other parenteral products have not been conducted.
-
-### Dilution Stability
-
-Cisatracurium besylate injection diluted in 5% Dextrose Injection, USP; 0.9% Sodium Chloride Injection, USP; or 5% Dextrose and 0.9% Sodium Chloride Injection, USP to 0.1 mg/mL may be stored either under refrigeration or at room temperature for 24 hours without significant loss of potency.
-Dilutions to 0.1 mg/mL or 0.2 mg/mL in 5% Dextrose and Lactated Ringer's Injection may be stored under refrigeration for 24 hours.
-
-Cisatracurium besylate injection should not be diluted in Lactated Ringer's Injection, USP due to chemical instability.
-
-NOTE: Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
-Solutions which are not clear, or contain visible particulates, should not be used.
-Cisatracurium besylate injection is a colorless to slightly yellow or greenish-yellow solution.
+Cisatracurium besylate injection is not compatible with propofol injection or ketorolac injection for Y-site administration.
+Compatibility studies with other parenteral products have not been conducted.
