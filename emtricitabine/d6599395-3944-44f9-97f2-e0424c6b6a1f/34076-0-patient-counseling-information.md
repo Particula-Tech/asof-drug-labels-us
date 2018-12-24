@@ -2,28 +2,27 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
-Inform patients that:
+Severe Acute Exacerbation of Hepatitis B in Patients Coinfected with HIV-1 and HBV
 
-- EMTRIVA is not a cure for HIV-1 infection and patients may continue to experience illnesses associated with HIV-1 infection, including opportunistic infections.
-  Patients should remain under the care of a physician when using EMTRIVA.
+Inform patients that severe acute exacerbations of hepatitis B have been reported in patients who are coinfected with HIV-1 and hepatitis B virus (HBV) who have discontinued EMTRIVA.
+Advise patients not to discontinue EMTRIVA without first informing their healthcare provider.
+All patients should be tested for HBV infection before or when starting EMTRIVA and those who are infected with HBV need close medical follow-up for several months after stopping EMTRIVA to monitor for exacerbations of hepatitis [see Warnings and Precautions (5.1)].
 
-Advise patients to avoid doing things that can spread HIV to others.
+Immune Reconstitution Syndrome
 
-- Do not share needles or other injection equipment.
-- Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
-- Do not have any kind of sex without protection.
-  Always practice safer sex by using a latex or polyurethane condom to lower the chance of sexual contact with semen, vaginal secretions, or blood.
-- Do not breastfeed.
-  EMTRIVA is secreted in breast milk.
-  Mothers with HIV-1 should not breastfeed because HIV-1 can be passed to the baby in the breast milk.
+Inform patients that in some patients with advanced HIV infection (AIDS), signs and symptoms of inflammation from previous infections may occur soon after anti-HIV treatment is started.
+It is believed that these symptoms are due to an improvement in the body's immune response, enabling the body to fight infections that may have been present with no obvious symptoms.
+Advise patients to inform their healthcare provider immediately of any symptoms of infection [see Warnings and Precautions (5.2)].
 
-Inform patients that:
+Lactic Acidosis and Severe Hepatomegaly
 
-- The long-term effects of EMTRIVA are unknown.
-- EMTRIVA capsules and oral solution are for oral ingestion only.
-- It is important to take EMTRIVA with combination therapy on a regular dosing schedule to avoid missing doses.
-- Severe acute exacerbations of Hepatitis B have been reported in patients who are coinfected with HBV and HIV-1 and have discontinued EMTRIVA [See Warnings and Precautions (5.1)].
-- Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported.
-  Treatment with EMTRIVA should be suspended in any patient who develops clinical symptoms suggestive of lactic acidosis or pronounced hepatotoxicity [See Warnings and Precautions (5.2)].
-- EMTRIVA should not be coadministered with ATRIPLA, COMPLERA, DESCOVY, GENVOYA, ODEFSEY, STRIBILD, or TRUVADA; or with other drugs containing lamivudine, including Combivir (lamivudine/zidovudine), Epivir or Epivir-HBV (lamivudine), Epzicom (abacavir sulfate/lamivudine), Triumeq (abacavir sulfate/dolutegravir/lamivudine), or Trizivir (abacavir sulfate/lamivudine/zidovudine) [See Warnings and Precautions (5.3)].
-- Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including EMTRIVA [See Warnings and Precautions (5.5)].
+Inform patients that lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported.
+Treatment with EMTRIVA should be suspended in any patient who develops clinical symptoms suggestive of lactic acidosis or pronounced hepatotoxicity [see Warnings and Precautions (5.3)].
+
+Pregnancy Registry
+
+Inform patients that there is an antiretroviral pregnancy registry to monitor fetal outcomes of pregnant women exposed to EMTRIVA [see Use in Specific Populations (8.1)].
+
+Lactation
+
+Instruct mothers not to breastfeed if they are taking EMTRIVA because of the risk of passing the HIV-1 virus to the baby [see Use in Specific Populations (8.2)].

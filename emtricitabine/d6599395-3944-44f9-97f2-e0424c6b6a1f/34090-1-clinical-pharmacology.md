@@ -2,46 +2,45 @@
 
 ## 12.1 Mechanism of Action
 
-Emtricitabine is an antiviral drug [See Clinical Pharmacology (12.4)].
+Emtricitabine is an antiretroviral drug [see Microbiology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
 Adults
 
-The pharmacokinetics of emtricitabine were evaluated in healthy subjects and HIV-1-infected subjects.
+The pharmacokinetic properties of FTC were evaluated in healthy subjects and HIV-1-infected subjects.
 Emtricitabine pharmacokinetics are similar between these populations.
 
-Figure 1 shows the mean steady-state plasma emtricitabine concentration-time profile in 20 HIV-1-infected subjects receiving EMTRIVA capsules.
+Figure 1 shows the mean steady-state plasma FTC concentration-time profile in 20 HIV-1-infected subjects receiving EMTRIVA capsules.
 
-Figure 1 Mean (± 95% CI) Steady-State Plasma Emtricitabine Concentrations in HIV-1 Infected Adults (N=20)
+Figure 1 Mean (± 95% CI) Steady-State Plasma FTC Concentrations in HIV-1 Infected Adults (N=20)
 
 Absorption
 
 Emtricitabine is rapidly and extensively absorbed following oral administration, with peak plasma concentrations occurring at 1–2 hours postdose.
-Following multiple dose oral administration of EMTRIVA capsules to 20 HIV-1 infected subjects, the (mean ± SD) steady-state plasma emtricitabine peak concentration (Cmax) was 1.8 ± 0.7 µg/mL and the area-under the plasma concentration-time curve over a 24-hour dosing interval (AUC) was 10.0 ± 3.1 µg∙hr/mL.
+Following multiple dose oral administration of EMTRIVA capsules to 20 HIV-1 infected subjects, the (mean ± SD) steady-state plasma FTC peak concentration (Cmax) was 1.8 ± 0.7 µg/mL and the area-under the plasma concentration-time curve over a 24-hour dosing interval (AUC) was 10.0 ± 3.1 µg∙hr/mL.
 The mean steady-state plasma trough concentration at 24 hours postdose was 0.09 µg/mL.
 The mean absolute bioavailability of EMTRIVA capsules was 93%, while the mean absolute bioavailability of EMTRIVA oral solution was 75%.
 The relative bioavailability of EMTRIVA oral solution was approximately 80% of EMTRIVA capsules.
 
-The multiple dose pharmacokinetics of emtricitabine are dose proportional over a dose range of 25–200 mg.
+The multiple dose pharmacokinetics of FTC are dose proportional over a dose range of 25–200 mg.
 
 Distribution
 
-In vitro binding of emtricitabine to human plasma proteins was less than 4% and independent of concentration over the range of 0.02–200 µg/mL.
+In vitro binding of FTC to human plasma proteins was less than 4% and independent of concentration over the range of 0.02–200 µg/mL.
 At peak plasma concentration, the mean plasma to blood drug concentration ratio was ~1.0 and the mean semen to plasma drug concentration ratio was ~4.0.
 
 Metabolism
 
-In vitro studies indicate that emtricitabine is not an inhibitor of human CYP450 enzymes.
-Following administration of 14C-emtricitabine, complete recovery of the dose was achieved in urine (~86%) and feces (~14%).
+Following administration of radiolabelled FTC, complete recovery of the dose was achieved in urine (~86%) and feces (~14%).
 Thirteen percent (13%) of the dose was recovered in urine as three putative metabolites.
-The biotransformation of emtricitabine includes oxidation of the thiol moiety to form the 3'-sulfoxide diastereomers (~9% of dose) and conjugation with glucuronic acid to form 2'-O-glucuronide (~4% of dose).
+The biotransformation of FTC includes oxidation of the thiol moiety to form the 3'-sulfoxide diastereomers (~9% of dose) and conjugation with glucuronic acid to form 2'-O-glucuronide (~4% of dose).
 No other metabolites were identifiable.
 
 Elimination
 
-The plasma emtricitabine half-life is approximately 10 hours.
-The renal clearance of emtricitabine is greater than the estimated creatinine clearance, suggesting elimination by both glomerular filtration and active tubular secretion.
+The plasma FTC half-life is approximately 10 hours.
+The renal clearance of FTC is greater than the estimated creatinine clearance, suggesting elimination by both glomerular filtration and active tubular secretion.
 There may be competition for elimination with other compounds that are also renally eliminated.
 
 Effects of Food on Oral Absorption
@@ -52,20 +51,20 @@ Emtricitabine systemic exposure (AUC) and Cmax were unaffected when 200 mg EMTRI
 
 Specific Populations
 
-Race, Gender
+Geriatric Patients
 
-The pharmacokinetics of emtricitabine were similar in adult male and female subjects, and no pharmacokinetic differences due to race have been identified.
+The pharmacokinetics of FTC have not been fully evaluated in the elderly (65 years of age and older).
 
 Pediatric Patients
 
-The pharmacokinetics of emtricitabine at steady state were determined in 77 HIV-1 infected pediatric subjects, and the pharmacokinetic profile was characterized in four age groups (Table 6).
-The emtricitabine exposure achieved in pediatric subjects receiving a daily dose of 6 mg/kg up to a maximum of 240 mg oral solution or a 200 mg capsule is similar to exposures achieved in adult subjects receiving a once-daily dose of 200 mg.
+The pharmacokinetics of FTC at steady state were determined in 77 HIV-1 infected pediatric subjects, and the pharmacokinetic profile was characterized in four age groups (Table 6).
+The FTC exposure achieved in pediatric subjects receiving a daily dose of 6 mg/kg up to a maximum of 240 mg oral solution or a 200-mg capsule is similar to exposures achieved in adult subjects receiving a once-daily dose of 200 mg.
 
-The pharmacokinetics of emtricitabine were studied in 20 neonates born to HIV-1 positive mothers.
+The pharmacokinetics of FTC were studied in 20 neonates born to HIV-1 positive mothers.
 Each mother received prenatal and intrapartum combination antiretroviral therapy.
-Neonates received up to 6 weeks of zidovudine prophylactically after birth.
-The neonates were administered two short courses of emtricitabine oral solution (each 3 mg/kg once daily × 4 days) during the first 3 months of life.
-The AUC observed in neonates who received a daily dose of 3 mg/kg of emtricitabine was similar to the AUC observed in pediatric subjects aged 3 months to 17 years who received a daily dose of emtricitabine as a 6 mg/kg oral solution up to 240 mg or as a 200 mg capsule (Table 6).
+Neonates received up to 6 weeks of AZT prophylactically after birth.
+The neonates were administered two short courses of FTC oral solution (each 3 mg/kg once daily × 4 days) during the first 3 months of life.
+The AUC observed in neonates who received a daily dose of 3 mg/kg of FTC was similar to the AUC observed in pediatric subjects aged 3 months to 17 years who received a daily dose of FTC as a 6 mg/kg oral solution up to 240 mg or as a 200-mg capsule (Table 6).
 
 Table 6 Mean ± SD Pharmacokinetic Parameters by Age Groups for Pediatric Subjects and Neonates Receiving EMTRIVA Capsules or Oral Solution
 
@@ -80,18 +79,21 @@ Table 6 Mean ± SD Pharmacokinetic Parameters by Age Groups for Pediatric Subjec
 | AUC (µg∙hr/mL) | 11.0 ± 4.2 | 8.7 ± 3.2 | 9.0 ± 3.0 | 12.6 ± 3.5 | 12.6 ± 5.4 |
 | T1/2 (hr) | 12.1 ± 3.1 | 8.9 ± 3.2 | 11.3 ± 6.4 | 8.2 ± 3.2 | 8.9 ± 3.3 |
 
-Geriatric Patients
+Gender
 
-The pharmacokinetics of emtricitabine have not been fully evaluated in the elderly.
+FTC pharmacokinetics are similar in adult male and female subjects.
 
-Patients with Impaired Renal Function
+Race
 
-The pharmacokinetics of emtricitabine are altered in subjects with renal impairment [See Warnings and Precautions (5.3)].
-In adult subjects with creatinine clearance less than 50 mL/min or with end-stage renal disease (ESRD) requiring dialysis, Cmax and AUC of emtricitabine were increased due to a reduction in renal clearance (Table 7).
-It is recommended that the dosing interval for EMTRIVA be modified in adult patients with creatinine clearance less than 50 mL/min or in adult patients with ESRD who require dialysis [See Dosage and Administration (2.5)].
-The effects of renal impairment on emtricitabine pharmacokinetics in pediatric patients are not known.
+No pharmacokinetic differences due to race have been identified.
 
-Table 7 Mean ± SD Pharmacokinetic Parameters in Adult Subjects with Varying Degrees of Renal Function
+Patients with Renal Impairment
+
+The pharmacokinetics of FTC are altered in subjects with renal impairment [see Warnings and Precautions (5.4)].
+In adult subjects with creatinine clearance below 50 mL/min or with end-stage renal disease (ESRD) requiring dialysis, Cmax and AUC of FTC were increased (Table 7).
+The effects of renal impairment on FTC pharmacokinetics in pediatric patients are not known.
+
+Table 7 Pharmacokinetic Parameters (Mean ± SD) of FTC in Adult Subjects with Varying Degrees of Renal Function
 
 | Creatinine Clearance (mL/min) | >80 (N=6) | 50–80 (N=6) | 30–49 (N=6) | <30 (N=5) | ESRDESRD subjects requiring dialysis <30 (N=5) |
 | --- | --- | --- | --- | --- | --- |
@@ -101,81 +103,75 @@ Table 7 Mean ± SD Pharmacokinetic Parameters in Adult Subjects with Varying Deg
 | CL/F (mL/min) | 302 ± 94 | 168 ± 10 | 138 ± 28 | 99 ± 6 | 64 ± 12 |
 | CLr (mL/min) | 213 ± 89 | 121 ± 39 | 69 ± 32 | 30 ± 11 | NANA = Not Applicable |
 
-Hemodialysis: Hemodialysis treatment removes approximately 30% of the emtricitabine dose over a 3-hour dialysis period starting within 1.5 hours of emtricitabine dosing (blood flow rate of 400 mL/min and a dialysate flow rate of 600 mL/min).
-It is not known whether emtricitabine can be removed by peritoneal dialysis.
-
 Patients with Hepatic Impairment
 
-The pharmacokinetics of emtricitabine have not been studied in subjects with hepatic impairment; however, emtricitabine is not metabolized by liver enzymes, so the impact of liver impairment should be limited.
+The pharmacokinetics of FTC have not been studied in subjects with hepatic impairment; however, FTC is not significantly metabolized by liver enzymes, so the impact of liver impairment should be limited.
 
 Assessment of Drug Interactions
 
-At concentrations up to 14-fold higher than those observed in vivo, emtricitabine did not inhibit in vitro drug metabolism mediated by any of the following human CYP isoforms: CYP1A2, CYP2A6, CYP2B6, CYP2C9, CYP2C19, CYP2D6, and CYP3A4.
+At concentrations up to 14-fold higher than those observed in vivo, FTC did not inhibit in vitro drug metabolism mediated by any of the following human CYP isoforms: CYP1A2, CYP2A6, CYP2B6, CYP2C9, CYP2C19, CYP2D6, and CYP3A4.
+FTC did not inhibit the enzyme responsible for glucuronidation (uridine-5'-disphosphoglucuronyl transferase).
+Based on the results of these in vitro experiments and the known elimination pathways of FTC, the potential for CYP-mediated interactions involving FTC with other medicinal products is low.
 
-Emtricitabine did not inhibit the enzyme responsible for glucuronidation (uridine-5'-disphosphoglucuronyl transferase).
-Based on the results of these in vitro experiments and the known elimination pathways of emtricitabine, the potential for CYP-mediated interactions involving emtricitabine with other medicinal products is low.
+EMTRIVA has been evaluated in healthy volunteers in combination with TDF, AZT, indinavir, famciclovir, and d4T.
+Tables 8 and 9 summarize the pharmacokinetic effects of coadministered drug on FTC pharmacokinetics and effects of FTC on the pharmacokinetics of coadministered drug.
 
-EMTRIVA has been evaluated in healthy volunteers in combination with tenofovir DF, zidovudine, indinavir, famciclovir, and stavudine.
-Tables 8 and 9 summarize the pharmacokinetic effects of coadministered drug on emtricitabine pharmacokinetics and effects of emtricitabine on the pharmacokinetics of coadministered drug.
-
-Table 8 Drug Interactions: Change in Pharmacokinetic Parameters for Emtricitabine in the Presence of the Coadministered DrugAll interaction trials conducted in healthy volunteers.
+Table 8 Drug Interactions: Change in Pharmacokinetic Parameters for FTC in the Presence of the Coadministered DrugAll interaction trials conducted in healthy volunteers.
 
 | Cmax | AUC | Cmin |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Coadministered Drug | Dose of Coadministered Drug (mg) | Emtricitabine Dose (mg) | N | % Change of Emtricitabine Pharmacokinetic Parameters↑ = Increase; ⇔ = No Effect; NA = Not Applicable (90% CI) |  |  |
-| Tenofovir DF | 300 once daily × 7 days | 200 once daily × 7 days | 17 | ⇔ | ⇔ | ↑ 20 (↑ 12 to ↑ 29) |
+| Coadministered Drug | Dose of Coadministered Drug (mg) | FTC Dose (mg) | N | % Change of FTC Pharmacokinetic Parameters↑ = Increase; ⇔ = No Effect; NA = Not Applicable (90% CI) |  |  |
+| Famciclovir | 500 × 1 | 200 × 1 | 12 | ⇔ | ⇔ | NA |
+| Indinavir | 800 × 1 | 200 × 1 | 12 | ⇔ | ⇔ | NA |
+| Stavudine | 40 × 1 | 200 × 1 | 6 | ⇔ | ⇔ | NA |
+| Tenofovir DF | 300 once daily × 7 days | 200 once daily × 7 days | 17 | ⇔ | ⇔ | ­↑ 20 (­↑ 12 to ↑ 29) |
 | Zidovudine | 300 twice daily × 7 days | 200 once daily × 7 days | 27 | ⇔ | ⇔ | ⇔ |
-| Indinavir | 800 × 1 | 200 × 1 | 12 | ⇔ | ⇔ | NA |
-| Famciclovir | 500 × 1 | 200 × 1 | 12 | ⇔ | ⇔ | NA |
-| Stavudine | 40 × 1 | 200 × 1 | 6 | ⇔ | ⇔ | NA |
 
-Table 9 Drug Interactions: Change in Pharmacokinetic Parameters for Coadministered Drug in the Presence of EmtricitabineAll interaction trials conducted in healthy volunteers.
+Table 9 Drug Interactions: Change in Pharmacokinetic Parameters for Coadministered Drug in the Presence of FTCAll interaction trials conducted in healthy volunteers.
 
 | Cmax | AUC | Cmin |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Coadministered Drug | Dose of Coadministered Drug (mg) | Emtricitabine Dose (mg) | N | % Change of Coadministered Drug Pharmacokinetic Parameters↑ = Increase; ⇔ = No Effect; NA = Not Applicable (90% CI) |  |  |
-| Tenofovir DF | 300 once daily × 7 days | 200 once daily × 7 days | 17 | ⇔ | ⇔ | ⇔ |
-| Zidovudine | 300 twice daily × 7 days | 200 once daily × 7 days | 27 | ↑ 17 (↑ 0 to ↑ 38) | ↑ 13 (↑ 5 to↑ 20) | ⇔ |
-| Indinavir | 800 × 1 | 200 × 1 | 12 | ⇔ | ⇔ | NA |
+| Coadministered Drug | Dose of Coadministered Drug (mg) | FTC Dose (mg) | N | % Change of Coadministered Drug Pharmacokinetic Parameters↑ = Increase; ⇔ = No Effect; NA = Not Applicable (90% CI) |  |  |
 | Famciclovir | 500 × 1 | 200 × 1 | 12 | ⇔ | ⇔ | NA |
+| Indinavir | 800 × 1 | 200 × 1 | 12 | ⇔ | ⇔ | NA |
 | Stavudine | 40 × 1 | 200 × 1 | 6 | ⇔ | ⇔ | NA |
+| Tenofovir DF | 300 once daily × 7 days | 200 once daily × 7 days | 17 | ⇔ | ⇔ | ⇔ |
+| Zidovudine | 300 twice daily × 7 days | 200 once daily × 7 days | 27 | ­↑ 17 (↑­ 0 to ↑­ 38) | ­↑ 13 (­↑ 5 to­↑ 20) | ⇔ |
 
 ## 12.4 Microbiology
 
 Mechanism of Action
 
-Emtricitabine, a synthetic nucleoside analog of cytidine, is phosphorylated by cellular enzymes to form emtricitabine 5'-triphosphate.
-Emtricitabine 5'-triphosphate inhibits the activity of the HIV-1 reverse transcriptase by competing with the natural substrate deoxycytidine 5'-triphosphate and by being incorporated into nascent viral DNA which results in chain termination.
-Emtricitabine 5'-triphosphate is a weak inhibitor of mammalian DNA polymerase α, β, ε, and mitochondrial DNA polymerase γ.
+FTC, a synthetic nucleoside analog of cytidine, is phosphorylated by cellular enzymes to form emtricitabine 5'-triphosphate (FTC-TP), which inhibits the activity of the HIV-1 reverse transcriptase (RT) by competing with the natural substrate deoxycytidine 5'-triphosphate and by being incorporated into nascent viral DNA resulting in chain termination.
+FTC-TP is a weak inhibitor of mammalian DNA polymerases α, β, ε, and mitochondrial DNA polymerase γ.
 
 Antiviral Activity
 
-The antiviral activity in cell culture of emtricitabine against laboratory and clinical isolates of HIV-1 was assessed in lymphoblastoid cell lines, the MAGI-CCR5 cell line, and peripheral blood mononuclear cells.
-The 50% effective concentration (EC50) value for emtricitabine was in the range of 0.0013–0.64 µM (0.0003–0.158 µg/mL).
-In drug combination trials of emtricitabine with nucleoside reverse transcriptase inhibitors (NRTIs) (abacavir, lamivudine, stavudine, tenofovir, zalcitabine, zidovudine), non-nucleoside reverse transcriptase inhibitors (NNRTIs) (delavirdine, efavirenz, nevirapine), and protease inhibitors (amprenavir, nelfinavir, ritonavir, saquinavir), additive to synergistic effects were observed.
-Emtricitabine displayed antiviral activity in cell culture against HIV-1 clades A, B, C, D, E, F, and G (EC50 values ranged from 0.007–0.075 µM) and showed strain-specific activity against HIV-2 (EC50 values ranged from 0.007–1.5 µM).
-
-The in vivo activity of emtricitabine was evaluated in two clinical trials in which 101 subjects were administered 25–400 mg a day of EMTRIVA as monotherapy for 10–14 days.
-A dose-related antiviral effect was observed, with a median decrease from baseline in plasma HIV-1 RNA of 1.3 log10 at a dose of 25 mg once daily and 1.7 log10 to 1.9 log10 at a dose of 200 mg once daily or twice daily.
+The antiviral activity of FTC against laboratory and clinical isolates of HIV-1 was assessed in lymphoblastoid cell lines, the MAGI-CCR5 cell line, and peripheral blood mononuclear cells.
+The 50% effective concentration (EC50) values for FTC were in the range of 0.0013–0.64 µM (0.0003–0.158 µg/mL).
+The median EC50, range, and number of isolates for the laboratory isolates were 0.07, 0.009−0.62, 10; 0.011, 0.002−0.03, 12; 0.055, 0.0015−0.09, 4 respectively for lymphoblastoid, PBMC, and reporter cells.
+The median EC50, range, and number of isolates for the clinical isolates were 0.05, 0.0105−0.64, 15; 0.015, 0.004−0.028, 6 respectively for lymphoblastoid cells and PBMCs.
+No antagonism was observed in drug combination studies of emtricitabine with nucleoside reverse transcriptase inhibitors (NRTIs) (abacavir, lamivudine, stavudine, tenofovir, zidovudine), non-nucleoside reverse transcriptase inhibitors (NNRTIs) (delavirdine, efavirenz, nevirapine), and protease inhibitors (amprenavir, nelfinavir, ritonavir, saquinavir).
+FTC displayed antiviral activity in cell culture against HIV-1 clades A, B, C, D, E, F, and G (EC50 values ranged from 0.007–0.075 µM) and showed strain-specific activity against HIV-2 (EC50 values ranged from 0.007–1.5 µM in PBMCs and MAGI cells).
 
 Resistance
 
-Emtricitabine-resistant isolates of HIV-1 have been selected in cell culture and in vivo.
-Genotypic analysis of these isolates showed that the reduced susceptibility to emtricitabine was associated with a substitution in the HIV-1 reverse transcriptase gene at codon 184 which resulted in an amino acid substitution of methionine by valine or isoleucine (M184V/I).
+FTC-resistant isolates of HIV-1 have been selected in cell culture and in vivo.
+Genotypic analysis of these isolates showed that the reduced susceptibility to FTC was associated with a valine or isoleucine (M184V/I) substitution in the HIV-1 RT.
 
-Emtricitabine-resistant isolates of HIV-1 have been recovered from some subjects treated with emtricitabine alone or in combination with other antiretroviral agents.
-In a clinical trial of treatment-naïve subjects treated with EMTRIVA, didanosine, and efavirenz [See Clinical Studies (14.1)], viral isolates from 37.5% of subjects with virologic failure showed reduced susceptibility to emtricitabine.
-Genotypic analysis of these isolates showed that the resistance was due to M184V/I substitutions in the HIV-1 reverse transcriptase gene.
+FTC-resistant isolates of HIV-1 have been recovered from some subjects treated with FTC alone or in combination with other antiretroviral agents.
+In a clinical trial of treatment-naïve subjects treated with EMTRIVA, didanosine, and efavirenz (EFV) [see Clinical Studies (14.2)], viral isolates from 37.5% of subjects with virologic failure showed reduced susceptibility to FTC.
+Genotypic analysis of these isolates showed that the resistance was due to M184V/I substitutions in the HIV-1 RT.
 
-In a clinical trial of treatment-naïve subjects treated with either EMTRIVA, VIREAD, and efavirenz or zidovudine/lamivudine and efavirenz [See Clinical Studies (14.1)], resistance analysis was performed on HIV-1 isolates from all confirmed virologic failure subjects with greater than 400 copies/mL of HIV-1 RNA at Week 144 or early discontinuation.
-Development of efavirenz resistance-associated substitutions occurred most frequently and was similar between the treatment arms.
-The M184V amino acid substitution, associated with resistance to EMTRIVA and lamivudine, was observed in 2/19 analyzed subject isolates in the EMTRIVA + VIREAD group and in 10/29 analyzed subject isolates in the lamivudine/zidovudine group.
-Through 144 weeks of Study 934, no subjects have developed a detectable K65R substitution in their HIV-1 as analyzed through standard genotypic analysis.
+In a clinical trial of treatment-naïve subjects treated with either EMTRIVA, TDF, and EFV or AZT/3TC and EFV [see Clinical Studies (14.2)], resistance analysis was performed on HIV-1 isolates from all confirmed virologic failure subjects with greater than 400 copies/mL of HIV-1 RNA at Week 144 or early discontinuation.
+Development of EFV resistance-associated substitutions occurred most frequently and was similar between the treatment arms.
+The M184V amino acid substitution, associated with resistance to EMTRIVA and 3TC, was observed in 2/19 analyzed subject isolates in the EMTRIVA + TDF group and in 10/29 analyzed subject isolates in the AZT/3TC group.
+Through 144 weeks of Trial 934, no subjects have developed a detectable K65R substitution in their HIV-1 as analyzed through standard genotypic analysis.
 
 Cross Resistance
 
-Cross-resistance among certain nucleoside analog reverse transcriptase inhibitors has been recognized.
-Emtricitabine-resistant isolates (M184V/I) were cross-resistant to lamivudine and zalcitabine but retained sensitivity in cell culture to didanosine, stavudine, tenofovir, zidovudine, and NNRTIs (delavirdine, efavirenz, and nevirapine).
-HIV-1 isolates containing the K65R substitution, selected in vivo by abacavir, didanosine, tenofovir, and zalcitabine, demonstrated reduced susceptibility to inhibition by emtricitabine.
-Viruses harboring substitutions conferring reduced susceptibility to stavudine and zidovudine (M41L, D67N, K70R, L210W, T215Y/F, K219Q/E) or didanosine (L74V) remained sensitive to emtricitabine.
-HIV-1 containing the K103N substitution associated with resistance to NNRTIs was susceptible to emtricitabine.
+Cross-resistance among certain NRTIs has been recognized.
+FTC-resistant isolates (M184V/I) were cross-resistant to 3TC but retained susceptibility in cell culture to AZT, didanosine, d4T, and tenofovir, and to NNRTIs (delavirdine, EFV, and nevirapine).
+HIV-1 isolates containing the K65R substitution, selected in vivo by abacavir, didanosine, and tenofovir, demonstrated reduced susceptibility to inhibition by FTC.
+Viruses harboring substitutions conferring reduced susceptibility to AZT and d4T (M41L, D67N, K70R, L210W, T215Y/F, K219Q/E) or didanosine (L74V) remained sensitive to FTC.
+HIV-1 containing the K103N substitution associated with resistance to NNRTIs was susceptible to FTC.

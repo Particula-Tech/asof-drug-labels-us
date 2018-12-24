@@ -1,12 +1,6 @@
 # 10 OVERDOSAGE
 
-There is no known antidote for EMTRIVA.
-Limited clinical experience is available at doses higher than the therapeutic dose of EMTRIVA.
-In one clinical pharmacology trial, single doses of emtricitabine 1200 mg were administered to 11 subjects.
-No severe adverse reactions were reported.
+If overdose occurs, the patient should be monitored for evidence of toxicity, and standard supportive treatment applied as necessary.
 
-The effects of higher doses are not known.
-If overdose occurs, the patient should be monitored for signs of toxicity and standard supportive treatment applied as necessary.
-
-Hemodialysis treatment removes approximately 30% of the emtricitabine dose over a 3-hour dialysis period starting within 1.5 hours of emtricitabine dosing (blood flow rate of 400 mL/min and a dialysate flow rate of 600 mL/min).
-It is not known whether emtricitabine can be removed by peritoneal dialysis.
+Hemodialysis treatment removes approximately 30% of the FTC dose over a 3-hour dialysis period starting within 1.5 hours of FTC dosing (blood flow rate of 400 mL/min and a dialysate flow rate of 600 mL/min).
+It is not known whether FTC can be removed by peritoneal dialysis.

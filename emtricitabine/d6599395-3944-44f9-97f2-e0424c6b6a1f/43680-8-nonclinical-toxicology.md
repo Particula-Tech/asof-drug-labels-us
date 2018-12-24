@@ -2,7 +2,7 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-In long-term oral carcinogenicity studies of emtricitabine, no drug-related increases in tumor incidence were found in mice at doses up to 750 mg/kg/day (26 times the human systemic exposure at the therapeutic dose of 200 mg/day) or in rats at doses up to 600 mg/kg/day (31 times the human systemic exposure at the therapeutic dose).
+In long-term oral carcinogenicity studies of FTC, no drug-related increases in tumor incidence were found in mice at doses up to 750 mg/kg/day (26 times the human systemic exposure at the therapeutic dose of 200 mg/day) or in rats at doses up to 600 mg/kg/day (31 times the human systemic exposure at the therapeutic dose).
 
 Emtricitabine was not genotoxic in the reverse mutation bacterial test (Ames test) or mouse lymphoma or mouse micronucleus assays.
 

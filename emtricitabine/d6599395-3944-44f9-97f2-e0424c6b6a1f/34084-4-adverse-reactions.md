@@ -2,68 +2,69 @@
 
 The following adverse reactions are discussed in other sections of the labeling:
 
-- Severe Acute Exacerbations of Hepatitis B [See Boxed Warning, Warnings and Precautions (5.1)].
-- Lactic acidosis/severe hepatomegaly with steatosis [See Warnings and Precautions (5.2)].
-- Immune Reconstitution Syndrome [See Warnings and Precautions (5.5)].
+- Severe Acute Exacerbation of Hepatitis B in Patients Coinfected with HIV-1 and HBV [see Warnings and Precautions (5.1)].
+- Immune Reconstitution Syndrome [see Warnings and Precautions (5.2)].
+- Lactic Acidosis/Severe Hepatomegaly with Steatosis [see Warnings and Precautions (5.3)].
 
-## 6.1 Adverse Reactions from Clinical Trials Experience
-
-Clinical Trials in Adult Subjects
-
-More than 2,000 adult subjects with HIV-1 infection have been treated with EMTRIVA alone or in combination with other antiretroviral agents for periods of 10 days to 200 weeks in clinical trials.
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The most common adverse reactions (incidence greater than or equal to 10%, any severity) identified from any of the three large, controlled clinical trials include headache, diarrhea nausea, fatigue, dizziness, depression, insomnia, abnormal dreams, rash, abdominal pain, asthenia, increased cough, and rhinitis.
+Adverse Reactions from Clinical Trials Experience in Adults
 
-Studies 301A and 303 – Treatment Emergent Adverse Reactions: The most common adverse reactions that occurred in subjects receiving EMTRIVA with other antiretroviral agents in clinical trials 301A and 303 were headache, diarrhea, nausea, and rash, which were generally of mild to moderate severity.
+More than 2,000 adult subjects with HIV-1 infection have been treated with EMTRIVA alone or in combination with other antiretroviral agents for periods of 10 days to 200 weeks in clinical trials.
+
+The most common adverse reactions (incidence greater than or equal to 10%, any severity) identified from any of the three large, controlled clinical trials include headache, diarrhea, nausea, fatigue, dizziness, depression, insomnia, abnormal dreams, rash, abdominal pain, asthenia, increased cough, and rhinitis.
+
+In Trials 301A and 303, the most common adverse reactions that occurred in subjects receiving EMTRIVA with other antiretroviral agents were headache, diarrhea, nausea, and rash, which were generally mild to moderate.
 Approximately 1% of subjects discontinued participation in the clinical trials due to these events.
-All adverse reactions were reported with similar frequency in EMTRIVA and control treatment groups with the exception of skin discoloration, which was reported with higher frequency in the EMTRIVA-treated group.
+All adverse reactions were reported with similar frequency in EMTRIVA and control treatment groups except for skin discoloration, which was reported with higher frequency in the EMTRIVA-treated group.
 
-Skin discoloration, manifested by hyperpigmentation on the palms and/or soles, was generally mild and asymptomatic.
+Skin discoloration, manifested by hyperpigmentation on the palms or soles, was generally mild and asymptomatic.
 The mechanism and clinical significance are unknown.
 
-A summary of EMTRIVA treatment-emergent clinical adverse reactions in Studies 301A and 303 is provided in Table 2.
+A summary of EMTRIVA treatment-emergent clinical adverse reactions in Trials 301A and 303 is provided in Table 2.
 
-Table 2 Selected Treatment-Emergent Adverse Reactions (All Grades, Regardless of Causality) Reported in ≥3% of EMTRIVA-Treated Subjects in Either Study 301A or 303 (0–48 Weeks)
+Table 2 Selected Treatment-Emergent Adverse Reactions (All Grades, Regardless of Causality) Reported in ≥3% of EMTRIVA-Treated Subjects in Either Trial 301A or 303 (0–48 Weeks)
 
-|  | EMTRIVA + ZDV/d4T + NNRTI/PI (N=294) | Lamivudine + ZDV/d4T + NNRTI/PI (N=146) | EMTRIVA + didanosine + efavirenz (N=286) | Stavudine + didanosine + efavirenz (N=285) |
+| EMTRIVA + AZT/d4T + NNRTI/PI (N=294) | 3TC + AZT/d4T + NNRTI/PI (N=146) | EMTRIVA + didanosine + EFV (N=286) | d4T + didanosine + EFV (N=285) |  |
 | --- | --- | --- | --- | --- |
 |  | 303 |  | 301A |  |
 | Body as a Whole |  |  |  |  |
-| Abdominal pain | 8% | 11% | 14% | 17% |
 | Asthenia | 16% | 10% | 12% | 17% |
 | Headache | 13% | 6% | 22% | 25% |
+| Abdominal pain | 8% | 11% | 14% | 17% |
 | Digestive System |  |  |  |  |
 | Diarrhea | 23% | 18% | 23% | 32% |
-| Dyspepsia | 4% | 5% | 8% | 12% |
 | Nausea | 18% | 12% | 13% | 23% |
 | Vomiting | 9% | 7% | 9% | 12% |
+| Dyspepsia | 4% | 5% | 8% | 12% |
 | Musculoskeletal |  |  |  |  |
-| Arthralgia | 3% | 4% | 5% | 6% |
 | Myalgia | 4% | 4% | 6% | 3% |
+| Arthralgia | 3% | 4% | 5% | 6% |
 | Nervous System |  |  |  |  |
-| Abnormal dreams | 2% | <1% | 11% | 19% |
-| Depressive disorders | 6% | 10% | 9% | 13% |
-| Dizziness | 4% | 5% | 25% | 26% |
 | Insomnia | 7% | 3% | 16% | 21% |
-| Neuropathy/peripheral neuritis | 4% | 3% | 4% | 13% |
+| Depressive disorders | 6% | 10% | 9% | 13% |
 | Paresthesia | 5% | 7% | 6% | 12% |
+| Dizziness | 4% | 5% | 25% | 26% |
+| Neuropathy/peripheral neuritis | 4% | 3% | 4% | 13% |
+| Abnormal dreams | 2% | <1% | 11% | 19% |
 | Respiratory |  |  |  |  |
-| Increased cough | 14% | 11% | 14% | 8% |
 | Rhinitis | 18% | 12% | 12% | 10% |
+| Increased cough | 14% | 11% | 14% | 8% |
 | Skin |  |  |  |  |
 | Rash eventRash event includes rash, pruritus, maculopapular rash, urticaria, vesiculobullous rash, pustular rash, and allergic reaction. | 17% | 14% | 30% | 33% |
+| AZT=zidovudine; d4T=stavudine; NNRTI/PI=non-nucleoside reverse transcriptase inhibitor/protease inhibitor; 3TC=lamivudine; EFV=efavirenz. |  |  |  |  |
 
-Studies 301A and 303 – Laboratory Abnormalities: Laboratory abnormalities in these trials occurred with similar frequency in the EMTRIVA and comparator groups.
-A summary of Grades 3–4 laboratory abnormalities is provided in Table 3.
+Laboratory Abnormalities: Laboratory abnormalities in these trials occurred with similar frequency in the EMTRIVA and comparator groups.
+A summary of Grades 3−4 laboratory abnormalities is provided in Table 3.
 
-Table 3 Treatment-Emergent Grades 3–4 Laboratory Abnormalities Reported in ≥1% of EMTRIVA-Treated Subjects in Either Study 301A or 303
+Table 3 Treatment-Emergent Grades 3–4 Laboratory Abnormalities Reported in ≥1% of EMTRIVA-Treated Subjects in Either Trial 301A or 303
 
-|  | EMTRIVA + ZDV/d4T + NNRTI/PI (N=294) | Lamivudine + ZDV/d4T + NNRTI/PI (N=146) | EMTRIVA + Didanosine + Efavirenz (N=286) | Stavudine + Didanosine + Efavirenz (N=285) |
+| EMTRIVA + AZT/d4T + NNRTI/PI (N=294) | 3TC + AZT/d4T + NNRTI/PI (N=146) | EMTRIVA + Didanosine + EFV (N=286) | d4T + Didanosine + EFV (N=285) |  |
 | --- | --- | --- | --- | --- |
 |  | 303 |  | 301A |  |
-| Percentage with grade 3 or grade 4 laboratory abnormality | 31% | 28% | 34% | 38% |
+| Any ≥ Grade 3 Laboratory Abnormality | 31% | 28% | 34% | 38% |
 | ALT (>5.0 × ULNULN = Upper limit of normal) | 2% | 1% | 5% | 6% |
 | AST (>5.0 × ULN) | 3% | <1% | 6% | 9% |
 | Bilirubin (>2.5 × ULN) | 1% | 2% | <1% | <1% |
@@ -75,54 +76,43 @@ Table 3 Treatment-Emergent Grades 3–4 Laboratory Abnormalities Reported in ≥
 | Serum lipase (>2.0 × ULN) | <1% | <1% | 1% | 2% |
 | Triglycerides (>750 mg/dL) | 10% | 8% | 9% | 6% |
 
-Study 934 – Treatment Emergent Adverse Reactions: In Study 934, 511 antiretroviral-naïve subjects received either VIREAD® + EMTRIVA administered in combination with efavirenz (N=257) or zidovudine/lamivudine administered in combination with efavirenz (N=254).
-Adverse reactions observed in this trial were generally consistent with those seen in previous trials in treatment-experienced or treatment-naïve subjects (Table 4).
+In Trial 934, 511 antiretroviral-naïve subjects received efavirenz (EFV) administered in combination with either EMTRIVA + tenofovir disoproxil fumarate (TDF) (N=257) or AZT/3TC (N=254) for 144 weeks.
+The most common adverse reactions (incidence greater than or equal to 10%, all grades) included diarrhea, nausea, fatigue, headache, dizziness, depression, insomnia, abnormal dreams, and rash.
+Table 4 provides the treatment-emergent adverse reactions (Grades 2−4) occurring in greater than or equal to 5% of subjects treated in any treatment group.
 
-Table 4 Selected Treatment-Emergent Adverse ReactionsFrequencies of adverse reactions are based on all treatment-emergent adverse events, regardless of relationship to study drug.
-(Grades 2–4) Reported in ≥5% in Any Treatment Group in Study 934 (0–144 Weeks)
+Table 4 Selected Adverse ReactionsFrequencies of adverse reactions are based on all treatment-emergent adverse events, regardless of relationship to study drug.
+(Grades 2–4) Reported in ≥5% in Any Treatment Group in Trial 934 (0–144 Weeks)
 
 |  | N=257 | N=254 |
 | --- | --- | --- |
-|  | TDFFrom Weeks 96 to 144 of the trial, subjects received TRUVADA with efavirenz in place of VIREAD + EMTRIVA with efavirenz. + EMTRIVA + EFV | AZT/3TC + EFV |
-| Gastrointestinal Disorder |  |  |
-| Diarrhea | 9% | 5% |
-| Nausea | 9% | 7% |
-| Vomiting | 2% | 5% |
-| General Disorders and Administration Site Condition |  |  |
+|  | EMTRIVA + TDF + EFVFrom Weeks 96 to 144 of the trial, subjects received TRUVADA® with EFV in place of EMTRIVA + TDF with EFV. | AZT/3TC + EFV |
 | Fatigue | 9% | 8% |
-| Infections and Infestations |  |  |
-| Sinusitis | 8% | 4% |
-| Upper respiratory tract infections | 8% | 5% |
-| Nasopharyngitis | 5% | 3% |
-| Nervous System Disorders |  |  |
-| Headache | 6% | 5% |
-| Dizziness | 8% | 7% |
-| Psychiatric Disorders |  |  |
 | Depression | 9% | 7% |
-| Insomnia | 5% | 7% |
-| Skin and Subcutaneous Tissue Disorders |  |  |
+| Nausea | 9% | 7% |
+| Diarrhea | 9% | 5% |
+| Dizziness | 8% | 7% |
+| Upper respiratory tract infections | 8% | 5% |
+| Sinusitis | 8% | 4% |
 | Rash eventRash event includes rash, exfoliative rash, rash generalized, rash macular, rash maculo-papular, rash pruritic, and rash vesicular. | 7% | 9% |
+| Headache | 6% | 5% |
+| Insomnia | 5% | 7% |
+| Nasopharyngitis | 5% | 3% |
+| Vomiting | 2% | 5% |
 
-Study 934 – Laboratory Abnormalities: Significant laboratory abnormalities observed in this trial are shown in Table 5.
+Laboratory Abnormalities: Laboratory abnormalities observed in Trial 934 were generally consistent with those seen in previous trials (Table 5).
 
-Table 5 Significant Laboratory Abnormalities Reported in ≥1% of Subjects in Any Treatment Group in Study 934 (0–144 Weeks)
+Table 5 Significant Laboratory Abnormalities Reported in ≥1% of Subjects in Any Treatment Group in Trial 934 (0–144 Weeks)
 
 |  | N=257 | N=254 |
 | --- | --- | --- |
-|  | TDFFrom Weeks 96 to 144 of the trial, subjects received TRUVADA with efavirenz in place of VIREAD + EMTRIVA with efavirenz. + EMTRIVA + EFV | AZT/3TC + EFV |
+|  | EMTRIVA + TDF + EFVFrom Weeks 96 to 144 of the trial, subjects received TRUVADA with EFV in place of EMTRIVA + TDF with EFV. | AZT/3TC + EFV |
 | Any ≥ Grade 3 Laboratory Abnormality | 30% | 26% |
 | Fasting Cholesterol (>240 mg/dL) | 22% | 24% |
-| Creatine Kinase |  |  |
-| (M: >990 U/L) | 9% | 7% |
-| (F: >845 U/L) |  |  |
+| Creatine Kinase (M: >990 U/L) (F: >845 U/L) | 9% | 7% |
 | Serum Amylase (>175 U/L) | 8% | 4% |
 | Alkaline Phosphatase (>550 U/L) | 1% | 0% |
-| AST |  |  |
-| (M: >180 U/L) | 3% | 3% |
-| (F: >170 U/L) |  |  |
-| ALT |  |  |
-| (M: >215 U/L) | 2% | 3% |
-| (F: >170 U/L) |  |  |
+| AST (M: >180 U/L) (F: >170 U/L) | 3% | 3% |
+| ALT (M: >215 U/L) (F: >170 U/L) | 2% | 3% |
 | Hemoglobin (<8.0 mg/dL) | 0% | 4% |
 | Hyperglycemia (>250 mg/dL) | 2% | 1% |
 | Hematuria (>75 RBC/HPF) | 3% | 2% |
@@ -130,12 +120,12 @@ Table 5 Significant Laboratory Abnormalities Reported in ≥1% of Subjects in An
 | Neutrophils (<750/mm3) | 3% | 5% |
 | Fasting Triglycerides (>750 mg/dL) | 4% | 2% |
 
-Clinical Trials in Pediatric Subjects
+Adverse Reactions from Clinical Trials Experience in Pediatric Subjects
 
-Assessment of adverse reactions is based on data from Study 203, an open label, uncontrolled trial of 116 HIV-1 infected pediatric subjects who received emtricitabine through 48 weeks.
-The adverse reaction profile in pediatric subjects was generally comparable to that observed in clinical trials of EMTRIVA in adult subjects [See Adverse Reactions (6.1)].
+Assessment of adverse reactions in pediatric subjects is based on data from Trial 203, an open label, uncontrolled trial of 116 HIV-1 infected subjects who received FTC through 48 weeks.
+The adverse reaction profile in pediatric subjects was generally comparable to that observed in clinical trials of EMTRIVA in adult subjects [see Adverse Reactions (6.1)].
 Hyperpigmentation was more frequent in children.
 Additional adverse reactions identified from this trial include anemia.
 
 Selected treatment-emergent adverse events, regardless of causality, reported in subjects during 48 weeks of treatment were the following: infection (44%), hyperpigmentation (32%), increased cough (28%), vomiting (23%), otitis media (23%), rash (21%), rhinitis (20%), diarrhea (20%), fever (18%), pneumonia (15%), gastroenteritis (11%), abdominal pain (10%), and anemia (7%).
-Treatment-emergent grades 3–4 laboratory abnormalities were experienced by 9% of pediatric subjects, including elevated amylase (>2.0 × ULN) (n=4), decreased neutrophils (<750/mm3) (n=3), elevated ALT (>5 × ULN) (n=2), elevated CPK (>4 × ULN) (n=2) and one subject each with elevated bilirubin (>3.0 × ULN), elevated GGT (>10 × ULN), elevated lipase (>2.5 × ULN), decreased hemoglobin (<7 g/dL), and decreased glucose (<40 mg/dL).
+Treatment-emergent Grades 3−4 laboratory abnormalities were experienced by 9% of pediatric subjects, including elevated amylase (>2.0 × ULN) (n=4), decreased neutrophils (<750/mm3) (n=3), elevated ALT (>5 × ULN) (n=2), elevated CPK (>4 × ULN) (n=2) and one subject each with elevated bilirubin (>3.0 × ULN), elevated GGT (>10 × ULN), elevated lipase (>2.5 × ULN), decreased hemoglobin (<7 g/dL), and decreased glucose (<40 mg/dL).

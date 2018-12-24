@@ -1,33 +1,37 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommended Dose
+## 2.1 Testing Prior to Initiation of Treatment with EMTRIVA
 
-EMTRIVA may be taken without regard to food.
+Prior to or when initiating EMTRIVA, test patients for hepatitis B virus infection [see Warnings and Precautions (5.1)].
 
-## 2.2 Adult Patients (18 years of age and older)
+## 2.2 Recommended Dosage
+
+EMTRIVA is taken by mouth once daily and may be taken without regard to food [see Clinical Pharmacology (12.3)].
+
+## 2.3 Recommended Dosage in Adult Patients (18 years of age and older)
 
 EMTRIVA capsules: One 200 mg capsule administered once daily orally.
 
 EMTRIVA oral solution: 240 mg (24 mL) administered once daily orally.
 
-## 2.3 Pediatric Patients (0–3 months of age)
+## 2.4 Recommended Dosage in Pediatric Patients (0–3 months of age)
 
 EMTRIVA oral solution: 3 mg per kg administered once daily orally.
 
-## 2.4 Pediatric Patients (3 months through 17 years)
+## 2.5 Recommended Dosage in Pediatric Patients (3 months through 17 years of age)
 
 EMTRIVA oral solution: 6 mg per kg up to a maximum of 240 mg (24 mL) administered once daily orally.
 
-EMTRIVA capsules: For children weighing more than 33 kg who can swallow an intact capsule, one 200 mg capsule administered once daily orally.
+EMTRIVA capsules: For pediatric patients weighing more than 33 kg who can swallow an intact capsule, one 200 mg capsule administered once daily orally.
 
-## 2.5 Dose Adjustment in Adult Patients with Renal Impairment
+## 2.6 Dosage Adjustment in Patients with Renal Impairment
 
-Significantly increased drug exposures were seen when EMTRIVA was administered to subjects with renal impairment [See Clinical Pharmacology (12.3)].
-Therefore, the dosing interval or dose of EMTRIVA should be adjusted in patients with baseline creatinine clearance less than 50 mL/min using the following guidelines (Table 1).
-The safety and effectiveness of these dose adjustment guidelines have not been clinically evaluated.
-Therefore, clinical response to treatment and renal function should be closely monitored in these patients.
+Table 1 provides dosage interval adjustment for patients with renal impairment.
+No dosage adjustment is necessary for patients with mild renal impairment (creatinine clearance 50–80 mL/min).
+The safety and effectiveness of dose adjustment recommendations in patients with moderate to severe renal impairment (creatinine clearance below 50 mL/min) have not been clinically evaluated.
+Therefore, clinical response to treatment and renal function should be closely monitored in these patients [see Warnings and Precautions (5.4), Use in Specific Populations (8.6)].
 
-Table 1 Dose Adjustment in Adult Patients with Renal Impairment
+Table 1 Dose Interval Adjustment for Adult Patients with Altered Creatinine Clearance
 
 | Formulation | ≥50 mL/min | 30–49 mL/min | 15–29 mL/min | <15 mL/min or on hemodialysisHemodialysis Patients: If dosing on day of dialysis, give dose after dialysis. |
 | --- | --- | --- | --- | --- |
@@ -35,4 +39,4 @@ Table 1 Dose Adjustment in Adult Patients with Renal Impairment
 | Capsule (200 mg) | 200 mg every 24 hours | 200 mg every 48 hours | 200 mg every 72 hours | 200 mg every 96 hours |
 | Oral Solution (10 mg/mL) | 240 mg every 24 hours (24 mL) | 120 mg every 24 hours (12 mL) | 80 mg every 24 hours (8 mL) | 60 mg every 24 hours (6 mL) |
 
-Although there are insufficient data to recommend a specific dose adjustment of EMTRIVA in pediatric patients with renal impairment, a reduction in the dose and/or an increase in the dosing interval similar to adjustments for adults should be considered.
+There are insufficient data available to make dosage recommendations in pediatric patients with renal impairment.
