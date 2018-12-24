@@ -86,7 +86,7 @@ No significant treatment related differences were seen.
 
 1 to 11 Years of Age
 
-In a multicenter, parallel-group study, 109 pediatric patients with a history of endoscopicallyproven GERD (1 to 11 years of age; 53 female; 89 Caucasian, 19 Black, 1 Other) were treated with esomeprazole magnesium once daily for up to 8 weeks to evaluate safety and tolerability.
+In a multicenter, parallel-group study, 109 pediatric patients with a history of endoscopically proven GERD (1 to 11 years of age; 53 female; 89 Caucasian, 19 Black, 1 Other) were treated with esomeprazole magnesium once daily for up to 8 weeks to evaluate safety and tolerability.
 Dosing by patient weight was as follows:
 
 weight < 20 kg: once daily treatment with esomeprazole 5 mg or 10 mg

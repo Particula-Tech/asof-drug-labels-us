@@ -65,7 +65,7 @@ When maternal administration was confined to gestation only, there were no effec
 
 Risk Summary Esomeprazole is the S-isomer of omeprazole and limited data suggest that omeprazole may be present in human milk.
 There are no clinical data on the effects of esomeprazole on the breastfed infant or on milk production.
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for Esomeprazole and any potential adverse effects on the breastfed infant from Esomeprazole or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for esomeprazole and any potential adverse effects on the breastfed infant from esomeprazole or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 

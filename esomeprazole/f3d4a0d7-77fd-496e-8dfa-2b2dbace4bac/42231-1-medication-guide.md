@@ -149,8 +149,10 @@ Tell your doctor right away if you have any of these symptoms:
 
 Your doctor may check the level of magnesium in your body before you start taking esomeprazole magnesium delayed-release, capsules USP or during treatment if you will be taking esomeprazole magnesium delayed-release, capsules USP for a long period of time.
 
-The most common side effects with esomeprazole magnesium delayed-release capsules may include:
+Stomach growths (fundic gland polyps).
+People who take PPI medicines for a long time have an increased risk of developing a certain type of stomach growths called fundic gland polyps, especially after taking PPI medicines for more than 1 year
 
+- The most common side effects with esomeprazole magnesium delayed-release capsules may include:
 - headache
 - diarrhea
 - nausea
@@ -236,6 +238,6 @@ Ascend Laboratories, LLC
 
 Parsippany, NJ 07054
 
-Revised: January, 2018
+Revised: June, 2018
 
-PT 2445-01
+PT 2444-02

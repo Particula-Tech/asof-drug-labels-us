@@ -65,7 +65,7 @@ Omeprazole, of which esomeprazole is an enantiomer, has been reported to interac
 In a cross-over study in 12 healthy male subjects, St. John’s Wort (300 mg three times daily for 14 days) significantly decreased the systemic exposure of omeprazole in CYP2C19 poor metabolisers (Cmax and AUC decreased by 37.5% and 37.9%, respectively) and extensive metabolisers (Cmax and AUC decreased by 49.6 % and 43.9%, respectively).
 Avoid concomitant use of St. John’s Wort or rifampin with esomeprazole magnesium.
 
-## 7.4 Interactions with Investigations of Neuroendocrine Tumors
+## 7.4 Interactions With Investigations of Neuroendocrine Tumors
 
 Drug-induced decrease in gastric acidity results in enterochromaffin-like cell hyperplasia and increased Chromogranin A levels which may interfere with investigations for neuroendocrine tumors [see Warnings and Precautions (5.10) and Clinical Pharmacology (12.2)].
 

@@ -226,7 +226,7 @@ Amoxicillin Susceptibility Test Results and Clinical/Bacteriological Outcomes:
 
 In the esomeprazole magnesium /amoxicillin/clarithromycin clinical trials, 83% (176/212) of the patients in the esomeprazole magnesium /amoxicillin/clarithromycin treatment group who had pretreatment amoxicillin susceptible MICs (≤ 0.25 mcg/mL) were eradicated of H. pylori, and 17% (36/212) were not eradicated of H. pylori.
 Of the 36 patients who were not eradicated of H. pylori on triple therapy, 16 had no post-treatment susceptibility test results and 20 had post-treatment H. pylori isolates with amoxicillin susceptible MICs.
-Fifteen of the patients who were not eradicated of H. pylori ontriple therapy also had post-treatment H. pylori isolates with clarithromycin resistant MICs.
+Fifteen of the patients who were not eradicated of H. pylori on triple therapy also had post-treatment H. pylori isolates with clarithromycin resistant MICs.
 There were no patients with H. pylori isolates who developed treatment emergent resistance to amoxicillin.
 
 Susceptibility Test for Helicobacter pylori: For susceptibility testing information about Helicobacter pylori, see Microbiology section in prescribing information for clarithromycin and amoxicillin.
