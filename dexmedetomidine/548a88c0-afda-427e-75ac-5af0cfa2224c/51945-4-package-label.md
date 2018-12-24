@@ -54,7 +54,7 @@ Discard unused portion.
 
 Precedex™
 
-Dexmedetomidine HCl In 0.9% Sodium Chloride Injection
+Dexmedetomidine HCl in 0.9% Sodium Chloride Injection
 
 400 mcg/100 mL (4 mcg/mL)
 
