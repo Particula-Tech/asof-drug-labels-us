@@ -9,3 +9,5 @@ ARICEPT 23 mg tablets should be swallowed whole without the tablets being split,
 ARICEPT ODT should not be swallowed whole, but be allowed to dissolve on the tongue and followed with water.
 
 Advise patients and caregivers that ARICEPT may cause nausea, diarrhea, insomnia, vomiting, muscle cramps, fatigue, and decreased appetite.
+
+Advise patients to notify their healthcare provider if they are pregnant or plan to become pregnant.

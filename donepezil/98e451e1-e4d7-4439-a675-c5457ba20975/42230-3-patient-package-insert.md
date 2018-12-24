@@ -12,9 +12,9 @@ ARICEPT® ODT (Air-eh-sept oh-dee-tee)
 
 - ODT Tablets: 5 mg and 10 mg
 
-Read the Patient Information that comes with ARICEPT before the patient starts taking it and each time you get a refill.
+Read this Patient Information that comes with ARICEPT before you start taking it and each time you get a refill.
 There may be new information.
-This leaflet does not take the place of talking with the doctor about Alzheimer’s disease or treatment for it.
+This leaflet does not take the place of talking with your doctor about Alzheimer’s disease or treatment for it.
 If you have questions, ask the doctor or pharmacist.
 
 What is ARICEPT?
@@ -39,13 +39,13 @@ ARICEPT has not been approved as a treatment for any medical condition in childr
 
 Who should not take ARICEPT?
 
-The patient should not take ARICEPT if allergic to any of the ingredients in ARICEPT or to medicines that contain piperidines.
-Ask the patient’s doctor if you are not sure.
+Do not take ARICEPT if you are allergic to any of the ingredients in ARICEPT or to medicines that contain piperidines.
+Ask your doctor if you are not sure.
 See the end of this leaflet for a list of ingredients in ARICEPT.
 
-What should I tell the doctor before the patient takes ARICEPT?
+What should I tell my doctor before taking ARICEPT?
 
-Tell the doctor about all the patient’s present or past health problems.
+Tell the doctor about all of your present or past health problems and conditions.
 Include:
 
 - Any heart problems including problems with irregular, slow, or fast heartbeats
@@ -59,42 +59,43 @@ Include:
   It is not known if ARICEPT can harm an unborn baby.
 - Present breast-feeding.
   It is not known if ARICEPT passes into breast milk.
-  ARICEPT is not for women who are breast-feeding.
+  Talk to your doctor about the best way to feed your baby if you take ARICEPT.
 
-Tell the doctor about all the medicines the patient takes, including prescription and non-prescription medicines, vitamins, and herbal products.
+Tell the doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal products.
 ARICEPT and other medicines may affect each other.
 
-Be particularly sure to tell the doctor if the patient takes aspirin or medicines called nonsteroidal anti-inflammatory drugs (NSAIDs).
+Be particularly sure to tell the doctor if you take aspirin or medicines called nonsteroidal anti-inflammatory drugs (NSAIDs).
 There are many NSAID medicines, both prescription and non-prescription.
-Ask the doctor or pharmacist if you are not sure if any of the patient’s medicines are NSAIDs.
-Taking NSAIDs and ARICEPT together may make the patient more likely to get stomach ulcers.
+Ask the doctor or pharmacist if you are not sure if any of your medicines are NSAIDs.
+Taking NSAIDs and ARICEPT together may make you more likely to get stomach ulcers.
 
 ARICEPT taken with certain medicines used for anesthesia may cause side effects.
-Tell the responsible doctor or dentist that the patient takes ARICEPT before the patient has:
+Tell the responsible doctor or dentist that you take ARICEPT before you have:
 
 - surgery
 - medical procedures
 - dental surgery or procedures.
 
-Know the medicines that the patient takes.
-Keep a list of all the patient’s medicines.
-Show it to the doctor or pharmacist before the patient starts a new medicine.
+Know the medicines that you take.
+Keep a list of all your medicines.
+Show it to your doctor or pharmacist before you start a new medicine.
 
-How should the patient take ARICEPT?
+How should you take ARICEPT?
 
-- Give ARICEPT exactly as prescribed by the doctor.
+- Take ARICEPT exactly as prescribed by the doctor.
   Do not stop ARICEPT or change the dose yourself.
-  Talk with the doctor first.
-- Give ARICEPT one time each day.
+  Talk with your doctor first.
+- Take ARICEPT one time each day.
   ARICEPT can be taken with or without food.
-- ARICEPT 23 mg tablets should be swallowed whole without the tablets being split, crushed, or chewed.
+- ARICEPT 23 mg tablets should be swallowed whole.
+  Do not split, crush, or chew the tablets.
 - ARICEPT ODT melts on the tongue.
-  The patient should drink some water after the tablet melts.
-- If you miss giving the patient a dose of ARICEPT, just wait.
-  Give only the next dose at the usual time.
-  Do not give 2 doses at the same time.
-- If ARICEPT is missed for 7 days or more, talk with the doctor before starting again.
-- If the patient takes too much ARICEPT at one time, call the doctor or poison control center, or go to the emergency room right away.
+  You should drink some water after the tablet melts.
+- If you miss a dose of ARICEPT, just wait.
+  Take only the next dose at the usual time.
+  Do not take 2 doses at the same time.
+- If ARICEPT is missed for 7 days or more, talk with your before starting again.
+- If you take too much ARICEPT at one time, call your doctor or poison control center, or go to the emergency room right away.
 
 What are the possible side effects of ARICEPT?
 
@@ -102,15 +103,15 @@ ARICEPT may cause the following serious side effects:
 
 - slow heartbeat and fainting.
   This happens more often in people with heart problems.
-  Call the doctor right away if the patient faints while taking ARICEPT.
+  Call your doctor right away if you feel faint or lightheaded while taking ARICEPT.
 - more stomach acid.
   This raises the chance of ulcers and bleeding, especially when taking ARICEPT 23 mg.
-  The risk is higher for patients who had ulcers, or take aspirin or other NSAIDs.
+  The risk is higher for people who have had ulcers, or take aspirin or other NSAIDs.
 - worsening of lung problems in people with asthma or other lung disease.
 - seizures.
 - difficulty passing urine.
 
-Call the doctor right away if the patient has:
+Call your doctor right away if you have:
 
 - fainting.
 - heartburn or stomach pain that is new or won’t go away.
@@ -130,9 +131,9 @@ The most common side effects of ARICEPT are:
 - feeling tired
 - not wanting to eat
 
-These side effects may get better after the patient takes ARICEPT for a while.
+These side effects may get better after you take ARICEPT for a while.
 This is not a complete list of side effects with ARICEPT.
-For more information, ask the doctor or pharmacist.
+For more information, ask your doctor or pharmacist.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
@@ -145,10 +146,11 @@ Keep ARICEPT and all medicines out of the reach of children.
 
 General information about ARICEPT Medicines are sometimes prescribed for conditions that are not mentioned in this Patient Information Leaflet.
 Do not use ARICEPT for a condition for which it was not prescribed.
-Do not give ARICEPT to people other than the patient, even if they have the same symptoms as the patient, as it may harm them.
+Do not give ARICEPT to other people, even if they have the same symptoms or condition.
+It may harm them.
 
 This leaflet summarizes the most important information about ARICEPT.
-If you would like more information talk with the patient’s doctor.
+If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about ARICEPT that is written for health professionals.
 For more information, go to www.ARICEPT.com, or call 1-800-760-6029.
 
@@ -171,4 +173,4 @@ Distributed by Eisai Inc., Woodcliff Lake, NJ 07677
 
 Rx Only
 
-© 2016 Eisai Inc.
+© 2018 Eisai Inc.
