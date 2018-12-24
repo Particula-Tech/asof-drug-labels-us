@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA209460"
+  ],
+  "inn": "itraconazole",
+  "labeler": "Torrent Pharmaceuticals Limited",
+  "package_ndcs": [
+    "13668-463-05",
+    "13668-463-30",
+    "13668-463-37",
+    "13668-463-90",
+    "13668-463-98"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "itraconazole",
+      "name": "Itraconazole"
+    }
+  ],
+  "setid": "b1274d78-1096-4ae3-8299-a2e94eaa0ea5",
+  "source": "dailymed"
+}
