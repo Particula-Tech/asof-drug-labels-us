@@ -40,13 +40,14 @@ Refer to the ondansetron prescribing information for the current recommended dos
 The antiemetic activity of aprepitant was evaluated during the acute phase (0 to 24 hours post-cisplatin treatment), the delayed phase (25 to 120 hours post-cisplatin treatment) and overall (0 to 120 hours post-cisplatin treatment) in Cycle 1.
 Efficacy was based on evaluation of the following endpoints in which emetic episodes included vomiting, retching, or dry heaves:
 
-1. Primary endpoint:
-2. •complete response (defined as no emetic episodes and no use of rescue therapy as recorded in patient diaries)
-3. Other prespecified endpoints:
-4. •complete protection (defined as no emetic episodes, no use of rescue therapy, and a maximum nausea visual analogue scale [VAS] score less than 25 mm on a 0 to 100 mm scale)
-5. •no emesis (defined as no emetic episodes regardless of use of rescue therapy)
-6. •no nausea (maximum VAS less than 5 mm on a 0 to 100 mm scale)
-7. •no significant nausea (maximum VAS less than 25 mm on a 0 to 100 mm scale)
+- Primary endpoint:
+
+1. 1.complete response (defined as no emetic episodes and no use of rescue therapy as recorded in patient diaries)
+2. Other prespecified endpoints:
+3. 2.complete protection (defined as no emetic episodes, no use of rescue therapy, and a maximum nausea visual analogue scale [VAS] score less than 25 mm on a 0 to 100 mm scale)
+4. 3.no emesis (defined as no emetic episodes regardless of use of rescue therapy)
+5. 4.no nausea (maximum VAS less than 5 mm on a 0 to 100 mm scale)
+6. 5.no significant nausea (maximum VAS less than 25 mm on a 0 to 100 mm scale)
 
 A summary of the key study results from each individual study analysis is shown in Table 14.
 In both studies, a statistically significantly higher proportion of patients receiving the aprepitant regimen in Cycle 1 had a complete response in the overall phase (primary endpoint), compared with patients receiving standard therapy.
@@ -138,14 +139,15 @@ The 12 mg dose of dexamethasone on Day 1 reflects a dosage adjustment to account
 
 The antiemetic activity of aprepitant was evaluated based on the following endpoints in which emetic episodes included vomiting, retching, or dry heaves:
 
-1. Primary endpoint:
-2. •complete response (defined as no emetic episodes and no use of rescue therapy as recorded in patient diaries) in the overall phase (0 to 120 hours post-chemotherapy)
-3. Other prespecified endpoints:
-4. •no emesis (defined as no emetic episodes regardless of use of rescue therapy)
-5. •no nausea (maximum VAS less than 5 mm on a 0 to 100 mm scale)
-6. •no significant nausea (maximum VAS less than 25 mm on a 0 to 100 mm scale)
-7. •complete protection (defined as no emetic episodes, no use of rescue therapy, and a maximum nausea visual analogue scale [VAS] score less than 25 mm on a 0 to 100 mm scale)
-8. •complete response during the acute and delayed phases.
+- Primary endpoint:
+
+1. 1.complete response (defined as no emetic episodes and no use of rescue therapy as recorded in patient diaries) in the overall phase (0 to 120 hours post-chemotherapy)
+2. Other prespecified endpoints:
+3. 2.no emesis (defined as no emetic episodes regardless of use of rescue therapy)
+4. 3.no nausea (maximum VAS less than 5 mm on a 0 to 100 mm scale)
+5. 4.no significant nausea (maximum VAS less than 25 mm on a 0 to 100 mm scale)
+6. 5.complete protection (defined as no emetic episodes, no use of rescue therapy, and a maximum nausea visual analogue scale [VAS] score less than 25 mm on a 0 to 100 mm scale)
+7. 6.complete response during the acute and delayed phases.
 
 A summary of the key results from Study 3 is shown in Table 16.
 In Study 3, a statistically significantly (p=0.015) higher proportion of patients receiving the aprepitant regimen (51%) in Cycle 1 had a complete response (primary endpoint) during the overall phase compared with patients receiving standard therapy (42%).
@@ -228,12 +230,13 @@ The age of patients treated with 40-mg aprepitant ranged from 19 to 84 years, wi
 
 The antiemetic activity of aprepitant was evaluated during the 0 to 48 hour period following the end of surgery.
 
-1. Efficacy measures in Study 7 included:
-2. •no emesis (defined as no emetic episodes regardless of use of rescue therapy) in the 0 to 24 hours following the end of surgery (primary)
-3. •complete response (defined as no emetic episodes and no use of rescue therapy) in the 0 to 24 hours following the end of surgery (primary)
-4. •no emesis (defined as no emetic episodes regardless of use of rescue therapy) in the 0 to 48 hours following the end of surgery (secondary)
-5. •time to first use of rescue medication in the 0 to 24 hours following the end of surgery (exploratory)
-6. •time to first emesis in the 0 to 48 hours following the end of surgery (exploratory).
+- Efficacy measures in Study 7 included:
+
+1. 1.no emesis (defined as no emetic episodes regardless of use of rescue therapy) in the 0 to 24 hours following the end of surgery (primary)
+2. 2.complete response (defined as no emetic episodes and no use of rescue therapy) in the 0 to 24 hours following the end of surgery (primary)
+3. 3.no emesis (defined as no emetic episodes regardless of use of rescue therapy) in the 0 to 48 hours following the end of surgery (secondary)
+4. 4.time to first use of rescue medication in the 0 to 24 hours following the end of surgery (exploratory)
+5. 5.time to first emesis in the 0 to 48 hours following the end of surgery (exploratory).
 
 A closed testing procedure was applied to control the type I error for the primary endpoints.
 
@@ -275,11 +278,12 @@ However, compared to the ondansetron group, use of aprepitant delayed the time t
 
 Figure 3: Percent of Patients Who Remain Emesis Free During the 48 Hours Following End of Surgery – Study 7
 
-1. Efficacy measures in Study 8 included:
-2. •complete response (defined as no emetic episodes and no use of rescue therapy) in the 0 to 24 hours following the end of surgery (primary)
-3. •no emesis (defined as no emetic episodes regardless of use of rescue therapy) in the 0 to 24 hours following the end of surgery (secondary)
-4. •no use of rescue therapy in the 0 to 24 hours following the end of surgery (secondary)
-5. •no emesis (defined as no emetic episodes regardless of use of rescue therapy) in the 0 to 48 hours following the end of surgery (secondary).
+- Efficacy measures in Study 8 included:
+
+1. 1.complete response (defined as no emetic episodes and no use of rescue therapy) in the 0 to 24 hours following the end of surgery (primary)
+2. 2.no emesis (defined as no emetic episodes regardless of use of rescue therapy) in the 0 to 24 hours following the end of surgery (secondary)
+3. 3.no use of rescue therapy in the 0 to 24 hours following the end of surgery (secondary)
+4. 4.no emesis (defined as no emetic episodes regardless of use of rescue therapy) in the 0 to 48 hours following the end of surgery (secondary).
 
 Study 8 failed to satisfy its primary hypothesis that aprepitant is superior to ondansetron in the prevention of PONV as measured by the proportion of patients with complete response in the 24 hours following end of surgery.
 

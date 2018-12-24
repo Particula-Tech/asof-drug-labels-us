@@ -20,6 +20,7 @@ They are supplied as follows:
 
 1. NDC 68462-583-11 Carton of 10 capsules (containing 1 x 10 unit-dose blisters)
 2. NDC 68462-583-85 Carton of 5 capsules (containing 5 x 1 unit-dose blisters)
+3. NDC 68462-583-40 Carton of 1 capsule (containing 1 unit-dose blisters)
 
 Storage and Handling
 
