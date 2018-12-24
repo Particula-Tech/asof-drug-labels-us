@@ -1,9 +1,5 @@
-NOT FOR USE IN NEONATES CONTAINS BENZYL ALCOHOL
+Single-Dose Vial
 
 Not For Intravenous Use
 
-NOVAPLUS is a registered trademark of Novation, LLC.
-
-Rx only
-
-LAB-0406-3.0 July 2009
+LAB-0160-9.3 November 2014

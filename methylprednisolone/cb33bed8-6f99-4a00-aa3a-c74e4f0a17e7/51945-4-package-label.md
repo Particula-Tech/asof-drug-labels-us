@@ -1,73 +1,55 @@
-# PRINCIPAL DISPLAY PANEL - 40 mg/mL Vial Label
+# PRINCIPAL DISPLAY PANEL - 40 mg Vial Label
 
-NDC 0009-0280-25
+NDC 0009-3073-01
 
-DEPO-MEDROL® methylprednisolone acetate injectable suspension, USP
+1 mL Single-Dose Vial Depo-Medrol®
 
-40 mg/mL
-
-For IM, intrasynovial and soft tissue injection only.
-
-10 mL Multidose Vial
-
-Rx ONLY
-
-NOVAPLUS®
-
-# PRINCIPAL DISPLAY PANEL - 40 mg/mL Vial Carton
-
-NDC 0009-0280-24
-
-DEPO-MEDROL®
-
-methylprednisolone acetate injectable suspension, USP
+(methylprednisolone acetate injectable suspension, USP)
 
 40 mg/mL
 
-For intramuscular, intrasynovial and soft tissue injection only
+Rx only
 
-NOT for IV use
+# PRINCIPAL DISPLAY PANEL - 40 mg Vial Carton
 
-5 mL Multidose Vial
+NDC 0009-3073-03 Contains 25 of NDC 0009-3073-01
 
-Rx ONLY
+25—1 mL Single-Dose Vials Depo-Medrol®
 
-Contains Benzyl Alcohol as a Preservative
+(methylprednisolone acetate injectable suspension, USP)
 
-NOVAPLUS®
+40 mg/mL
 
-# PRINCIPAL DISPLAY PANEL - 80 mg/mL Vial Label
+For intramuscular, intrasynovial and soft tissue injection only NOT for IV use
 
-NDC 0009-0306-24
+Pfizer Injectables
 
-DEPO-MEDROL® methylprednisolone acetate injectable suspension, USP
+Rx only
 
-80 mg/mL
+# PRINCIPAL DISPLAY PANEL - 80 mg Vial Label
 
-5 mL Multidose Vial
+NDC 0009-3475-01
 
-Rx ONLY
+1 mL Single-Dose Vial Depo-Medrol®
 
-NOVAPLUS®
-
-# PRINCIPAL DISPLAY PANEL - 80 mg/mL Vial Carton
-
-NDC 0009-0306-24
-
-DEPO-MEDROL®
-
-methylprednisolone acetate injectable suspension, USP
+(methylprednisolone acetate injectable suspension, USP)
 
 80 mg/mL
 
-For intramuscular, intrasynovial and soft tissue injection only
+Rx only
 
-NOT for IV use
+# PRINCIPAL DISPLAY PANEL - 80 mg Vial Carton
 
-5 mL Multidose Vial
+NDC 0009-3475-03 Contains 25 of NDC 0009-3475-01
 
-Rx ONLY
+25—1 mL Single-Dose Vials Depo-Medrol®
 
-Contains Benzyl Alcohol as a Preservative
+(methylprednisolone acetate injectable suspension, USP)
 
-NOVAPLUS®
+80 mg/mL
+
+For intramuscular, intrasynovial and soft tissue injection only NOT for IV use
+
+Pfizer Injectables
+
+Rx only
