@@ -38,6 +38,46 @@ Swallow capsule whole.
 
 Rx only
 
+# Principal Display Panel - 120 mg Capsules: No Charge Box Label
+
+NDC 64406-005-08
+
+14 capsules
+
+Tecfidera®
+
+(dimethyl fumarate)
+
+delayed-release capsules
+
+120 mg
+
+Dispense in original Package.
+
+Swallow capsule whole.
+
+Rx only
+
+# Principal Display Panel - 120 mg Capsules: Sample Box Label
+
+NDC 64406-005-10
+
+14 capsules
+
+Tecfidera®
+
+(dimethyl fumarate)
+
+delayed-release capsules
+
+120 mg
+
+Dispense in original Package.
+
+Swallow capsule whole.
+
+Rx only
+
 Principal Display Panel - Starter Pack: Box Label
 
 NDC 64406-007-03
