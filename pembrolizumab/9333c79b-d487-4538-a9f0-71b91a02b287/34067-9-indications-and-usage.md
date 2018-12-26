@@ -79,3 +79,10 @@ KEYTRUDA is indicated for the treatment of patients with hepatocellular carcinom
 
 This indication is approved under accelerated approval based on tumor response rate and durability of response.
 Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
+
+## 1.11 Merkel Cell Carcinoma
+
+KEYTRUDA is indicated for the treatment of adult and pediatric patients with recurrent locally advanced or metastatic Merkel cell carcinoma (MCC) [see Clinical Studies (14.11)].
+
+This indication is approved under accelerated approval based on tumor response rate and durability of response.
+Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.

@@ -4,7 +4,7 @@
 
 Ipilimumab-Naive Melanoma
 
-The safety and efficacy of KEYTRUDA were evaluated in Study KEYNOTE-006 (NCT01866319), a randomized (1:1:1), open-label, multicenter, active-controlled trial.
+The efficacy of KEYTRUDA was investigated in Study KEYNOTE-006 (NCT01866319), a randomized (1:1:1), open-label, multicenter, active-controlled trial.
 Patients were randomized to receive KEYTRUDA at a dose of 10 mg/kg every 2 weeks or 10 mg/kg every 3 weeks as an intravenous infusion until disease progression or unacceptable toxicity or to ipilimumab 3 mg/kg every 3 weeks as an intravenous infusion for 4 doses unless discontinued earlier for disease progression or unacceptable toxicity.
 Patients with disease progression could receive additional doses of treatment unless disease progression was symptomatic, was rapidly progressive, required urgent intervention, occurred with a decline in performance status, or was confirmed at 4 to 6 weeks with repeat imaging.
 Randomization was stratified by line of therapy (0 vs. 1), ECOG PS (0 vs. 1), and PD-L1 expression (≥1% of tumor cells [positive] vs. <1% of tumor cells [negative]) according to an investigational use only (IUO) assay.
@@ -44,7 +44,7 @@ Among the 94 patients randomized to KEYTRUDA 10 mg/kg every 2 weeks with an obje
 
 Ipilimumab-Refractory Melanoma
 
-The safety and efficacy of KEYTRUDA were evaluated in Study KEYNOTE-002 (NCT01704287), a multicenter, randomized (1:1:1), active-controlled trial.
+The efficacy of KEYTRUDA was investigated in Study KEYNOTE-002 (NCT01704287), a multicenter, randomized (1:1:1), active-controlled trial.
 Patients were randomized to receive one of two doses of KEYTRUDA in a blinded fashion or investigator's choice chemotherapy.
 The treatment arms consisted of KEYTRUDA 2 mg/kg or 10 mg/kg intravenously every 3 weeks or investigator's choice of any of the following chemotherapy regimens: dacarbazine 1000 mg/m2 intravenously every 3 weeks (26%), temozolomide 200 mg/m2 orally once daily for 5 days every 28 days (25%), carboplatin AUC 6 intravenously plus paclitaxel 225 mg/m2 intravenously every 3 weeks for four cycles then carboplatin AUC of 5 plus paclitaxel 175 mg/m2 every 3 weeks (25%), paclitaxel 175 mg/m2 intravenously every 3 weeks (16%), or carboplatin AUC 5 or 6 intravenously every 3 weeks (8%).
 Randomization was stratified by ECOG performance status (0 vs. 1), LDH levels (normal vs. elevated [≥110% ULN]) and BRAF V600 mutation status (wild-type [WT] or V600E).
@@ -195,7 +195,7 @@ Table 22: Efficacy Results in KEYNOTE-407
 
 First-line treatment of metastatic NSCLC as a single agent
 
-Study KEYNOTE-024 (NCT02142738) was a randomized, multicenter, open-label, active-controlled trial in patients with metastatic NSCLC, whose tumors had high PD-L1 expression [tumor proportion score (TPS) of 50% or greater] by an immunohistochemistry assay using the PD-L1 IHC 22C3 pharmDx Kit, and had not received prior systemic treatment for metastatic NSCLC.
+The efficacy of KEYTRUDA was investigated in Study KEYNOTE-024 (NCT02142738), a randomized, multicenter, open-label, active-controlled trial in patients with metastatic NSCLC, whose tumors had high PD-L1 expression [tumor proportion score (TPS) of 50% or greater] by an immunohistochemistry assay using the PD-L1 IHC 22C3 pharmDx Kit, and had not received prior systemic treatment for metastatic NSCLC.
 Patients with EGFR or ALK genomic tumor aberrations; autoimmune disease that required systemic therapy within 2 years of treatment; a medical condition that required immunosuppression; or who had received more than 30 Gy of radiation in the thoracic region within the prior 26 weeks of initiation of study were ineligible.
 Randomization was stratified by ECOG performance status (0 vs. 1), histology (squamous vs. nonsquamous), and geographic region (East Asia vs. non-East Asia).
 Patients were randomized (1:1) to receive KEYTRUDA 200 mg intravenously every 3 weeks or investigator's choice of any of the following platinum-containing chemotherapy regimens:
@@ -483,7 +483,7 @@ Table 29: Efficacy Results in KEYNOTE-045
 
 ## 14.7 Microsatellite Instability-High Cancer
 
-The efficacy of KEYTRUDA was evaluated in patients with MSI-H or mismatch repair deficient (dMMR), solid tumors enrolled in one of five uncontrolled, open-label, multi-cohort, multi-center, single-arm trials.
+The efficacy of KEYTRUDA was investigated in patients with MSI-H or mismatch repair deficient (dMMR), solid tumors enrolled in one of five uncontrolled, open-label, multi-cohort, multi-center, single-arm trials.
 Patients with active autoimmune disease or a medical condition that required immunosuppression were ineligible across the five trials.
 Patients received either KEYTRUDA 200 mg every 3 weeks or KEYTRUDA 10 mg/kg every 2 weeks.
 Treatment continued until unacceptable toxicity or disease progression that was either symptomatic, rapidly progressive, required urgent intervention, or occurred with a decline in performance status.
@@ -577,7 +577,7 @@ The duration of response ranged from 5.3+ to 14.1+ months.
 
 ## 14.9 Cervical Cancer
 
-KEYTRUDA was investigated in 98 patients with recurrent or metastatic cervical cancer enrolled in a single cohort (Cohort E) in Study KEYNOTE-158 (NCT02628067), a multicenter, non-randomized, open-label, multi-cohort trial.
+The efficacy of KEYTRUDA was investigated in 98 patients with recurrent or metastatic cervical cancer enrolled in a single cohort (Cohort E) in Study KEYNOTE-158 (NCT02628067), a multicenter, non-randomized, open-label, multi-cohort trial.
 The trial excluded patients with autoimmune disease or a medical condition that required immunosuppression.
 
 Patients were treated with KEYTRUDA intravenously at a dose of 200 mg every 3 weeks until unacceptable toxicity or documented disease progression.
@@ -623,7 +623,7 @@ Twenty-one percent of the patients were HBV seropositive and 25% HCV seropositiv
 There were 9 patients (9%) who were seropositive for both HBV and HCV.
 For these 9 patients, all of the HBV cases and three of the HCV cases were inactive.
 Sixty-four percent (64%) of patients had extrahepatic disease, 17% had vascular invasion, and 9% had both.
-Thirty-eight percent (38%) of patients had alfa-fetoprotein (AFP) levels ≥400 μg/L.
+Thirty-eight percent (38%) of patients had alpha-fetoprotein (AFP) levels ≥400 μg/L.
 All patients received prior sorafenib; of whom 20% were unable to tolerate sorafenib.
 No patient received more than one prior systemic therapy (sorafenib).
 
@@ -640,3 +640,32 @@ Table 34: Efficacy Results in KEYNOTE-224
 | BICR-Assessed Response Duration |  |
 | % with duration ≥6 months | 89% |
 | % with duration ≥12 months | 56% |
+
+## 14.11 Merkel Cell Carcinoma
+
+The efficacy of KEYTRUDA was investigated in Study KEYNOTE-017 (NCT02267603), a multicenter, non-randomized, open-label trial that enrolled 50 patients with recurrent locally advanced or metastatic MCC who had not received prior systemic therapy for their advanced disease.
+Patients with active autoimmune disease or a medical condition that required immunosuppression were ineligible.
+
+Patients received KEYTRUDA 2 mg/kg every 3 weeks until unacceptable toxicity or disease progression that was symptomatic, rapidly progressive, required urgent intervention, occurred with a decline in performance status, or was confirmed at least 4 weeks later with repeat imaging.
+Patients without disease progression were treated for up to 24 months.
+Assessment of tumor status was performed at 13 weeks followed by every 9 weeks for the first year and every 12 weeks thereafter.
+The major efficacy outcome measures were ORR and duration of response as assessed by BICR per RECIST v1.1.
+
+Among the 50 patients, the median age was 71 years (range: 46 to 91 years), with 80% age 65 or older; 68% male; 90% White; and ECOG performance score was 0 (48%) and 1 (52%).
+Fourteen percent had stage IIIB disease and 86% had stage IV.
+Eighty-four percent of patients had prior surgery and 70% had prior radiation therapy.
+
+Efficacy results are summarized in Table 35.
+
+Table 35: Efficacy Results in KEYNOTE-017
+
+| Endpoint | KEYTRUDA 2 mg/kg every 3 weeks n=50 |
+| --- | --- |
+| Objective Response Rate |  |
+| ORR (95% CI) | 56% (41, 70) |
+| Complete response (CR) rate (95% CI) | 24% (13, 38) |
+| Partial response (PR) rate (95% CI) | 32% (20, 47) |
+| Duration of Response |  |
+| Range in monthsThe median duration of response was not reached | 5.9-34.5+ |
+| Patients with duration ≥6 months, n (%) | 27 (96%) |
+| Patients with duration ≥12 months, n (%) | 15 (54%) |

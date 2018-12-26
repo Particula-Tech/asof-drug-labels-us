@@ -47,7 +47,7 @@ The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusi
 
 The recommended dose of KEYTRUDA in adults is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression [see Clinical Studies (14.7)].
 
-The recommended dose of KEYTRUDA in children is 2 mg/kg (up to a maximum of 200 mg), administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression or unacceptable toxicity, or up to 24 months in patients without disease progression.
+The recommended dose of KEYTRUDA in pediatric patients is 2 mg/kg (up to a maximum of 200 mg), administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression or unacceptable toxicity, or up to 24 months in patients without disease progression.
 
 ## 2.9 Recommended Dosage for Gastric Cancer
 
@@ -61,7 +61,13 @@ The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusi
 
 The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression [see Clinical Studies (14.10)].
 
-## 2.12 Dose Modifications
+## 2.12 Recommended Dosage for MCC
+
+The recommended dose of KEYTRUDA in adults is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression [see Clinical Studies (14.11)].
+
+The recommended dose of KEYTRUDA in pediatric patients is 2 mg/kg (up to a maximum of 200 mg), administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression or unacceptable toxicity, or up to 24 months in patients without disease progression.
+
+## 2.13 Dose Modifications
 
 No dose reductions of KEYTRUDA are recommended.
 Withhold or discontinue KEYTRUDA to manage adverse reactions as described in Table 1.
@@ -92,7 +98,7 @@ Table 1: Recommended Dose Modifications for Adverse Reactions [see Warnings and 
 | Infusion-related reactions | Grades 1 or 2 | Interrupt or slow the rate of infusion |
 | Grades 3 or 4 | Permanently discontinue |  |
 
-## 2.13 Preparation and Administration
+## 2.14 Preparation and Administration
 
 Reconstitution of KEYTRUDA for Injection (Lyophilized Powder)
 
