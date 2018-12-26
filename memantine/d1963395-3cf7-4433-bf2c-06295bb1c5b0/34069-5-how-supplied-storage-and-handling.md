@@ -1,10 +1,10 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-5 mg Tablet: Orange, capsule-shaped, film-coated tablets, debossed with "321" on one side and plain on the other side.
+5 mg Tablets: Orange, capsule-shaped, film-coated tablets, debossed with "321" on one side and plain on the other side.
 Bottles of 60’s with Child Resistant Cap ………… NDC 47335-321-86 Bottles of 100’s with Child Resistant Cap ………..
 NDC 47335-321-88 Bottles of 100’s with Non Child Resistant Cap …..
 NDC 47335-321-08 Bottles of 1000’s with Non Child Resistant Cap....
-NDC 47335-321-18 10 mg Tablet: Gray, capsule-shaped, film-coated tablets, debossed with "322" on one side and plain on the other side.
+NDC 47335-321-18 10 mg Tablets: Gray, capsule-shaped, film-coated tablets, debossed with "322" on one side and plain on the other side.
 Bottles of 30’s with Child Resistant Cap ………… NDC 47335-322-83 Bottles of 60’s with Child Resistant Cap ………… NDC 47335-322-86 Bottles of 100’s with Child Resistant Cap ………..
 NDC 47335-322-88 Bottles of 100’s with Non Child Resistant Cap …..
 NDC 47335-322-08 Bottles of 500’s with Non Child Resistant Cap …..

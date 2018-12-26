@@ -33,7 +33,7 @@ Before you take memantine hydrochloride tablets, tell your doctor if you:
   It is not known if memantine hydrochloride tablets will harm your unborn baby.
 - are breastfeeding or plan to breastfeed.
   It is not known if memantine passes into your breast milk.
-  You and your doctor should decide if you will take memantine hydrochloride tablets or breastfeed.
+  Talk to your doctor about the best way to feed your baby if you take memantine hydrochloride tablets.
 
 Tell your doctor about all the medicines you take, including prescription and non­-prescription medicines, vitamins, and herbal supplements.
 
@@ -68,8 +68,8 @@ Memantine hydrochloride tablets may cause side effects, including:
 The most common side effects of memantine hydrochloride tablets include:
 
 - dizziness
-- confusion
 - headache
+- confusion
 - constipation
 
 These are not all the possible side effects of memantine hydrochloride tablets.
@@ -122,6 +122,6 @@ Survey No. 259/15,
 
 Dadra-396 191, (U.T. of D & NH), India
 
-PGPI0197
+PGPI0197B
 
-ISS.04/2015
+ISS.12/2018
