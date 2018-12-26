@@ -52,11 +52,7 @@ Instruct patients that epinephrine injection, 0.3 mg and epinephrine injection, 
 
 Complete patient information, including dosage, directions for proper administration and precautions can be found inside each epinephrine injection, 0.3 mg (Auto-Injector) and epinephrine injection, 0.15 mg (Auto-Injector) carton.
 
-Manufactured For:
+Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
-Teva Pharmaceuticals USA, Inc.
-
-North Wales, PA 19454
-
-Iss.
-6/2018
+Rev.
+A 9/2018
