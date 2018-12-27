@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "BLA761091"
+  ],
+  "inn": "trastuzumab",
+  "labeler": "Cephalon, Inc.",
+  "package_ndcs": [
+    "63459-221-20",
+    "63459-305-47",
+    "63459-307-41"
+  ],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "trastuzumab",
+      "name": "HERZUMA"
+    }
+  ],
+  "setid": "ae71c003-883a-4cd8-ad50-e8cc9a54e971",
+  "source": "dailymed"
+}
