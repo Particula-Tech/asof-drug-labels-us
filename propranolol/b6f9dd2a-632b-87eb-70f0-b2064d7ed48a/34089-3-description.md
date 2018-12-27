@@ -9,7 +9,7 @@ Its structural formula is shown in Figure 1:
 Figure 1.
 Propranolol HCl Structure
 
-Molecular formula: C16H21NO2-HCl
+Molecular formula: C 16H 21NO 2-HCl
 
 Propranolol hydrochloride is a stable, white, crystalline solid with a molecular weight of 295.8.
 It is readily soluble in water and ethanol.

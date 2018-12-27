@@ -1,6 +1,6 @@
 MEDICATION GUIDE
 
-HEMANGEOL® (he-man je-ohl)
+HEMANGEOL ® (he-man je-ohl)
 
 (propranolol hydrochloride oral solution)
 
@@ -65,7 +65,7 @@ Follow the detailed Instructions for Use that come with HEMANGEOL for informatio
 
 What are the possible side effects of HEMANGEOL?
 
-See “What is the most important information I should know about HEMANGEOL?”
+See “ What is the most important information I should know about HEMANGEOL?”
 
 HEMANGEOL can cause serious side effects, including:
 
@@ -85,7 +85,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store HEMANGEOL?
 
-- Store HEMANGEOL at room temperature between 68o F to 77o F (20o C to 25o C). Do not freeze.
+- Store HEMANGEOL at room temperature between 68 o F to 77 o F (20 o C to 25 o C). Do not freeze.
   Do not shake before use.
 - Safely throw away any opened bottle of HEMANGEOL after 2 months, even if there is medicine left in the bottle.
 

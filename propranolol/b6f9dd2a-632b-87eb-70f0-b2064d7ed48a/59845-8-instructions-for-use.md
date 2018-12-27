@@ -1,6 +1,6 @@
 Instructions for Use
 
-HEMANGEOL® (he-man je-ohl)
+HEMANGEOL ® (he-man je-ohl)
 
 (propranolol hydrochloride oral solution)
 
@@ -108,7 +108,7 @@ Step 12: Place the bottle and the oral dosing syringe in the box.
 How should I store HEMANGEOL?
 
 - When not in use, keep the bottle of HEMANGEOL and the oral dosing syringe in the box it comes in.
-- Store HEMANGEOL at room temperature, between 68o F to 77o F (20o C to 25o C). Do not freeze.
+- Store HEMANGEOL at room temperature, between 68 o F to 77 o F (20 o C to 25 o C). Do not freeze.
 - Safely throw away any opened bottle of HEMANGEOL after 2 months, even if there is medicine left in the bottle.
 
 Keep HEMANGEOL and all medicines out of the reach of children.
