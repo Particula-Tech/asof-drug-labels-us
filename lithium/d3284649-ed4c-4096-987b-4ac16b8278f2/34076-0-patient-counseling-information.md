@@ -6,7 +6,7 @@ Dosage and Administration
 Advise patients that lithium is a mood stabilizer, and should only be taken as directed.
 Emphasize the importance of compliance with the prescribed treatment and to not adjust the dose of lithium without first consulting their healthcare provider.
 Inform patients that they will need to have regular blood draws to determine if their dose of lithium is appropriate.
-Instruct patients not to double the dose if a dose is missed, due to the complexity of individualized dosing and potential for lithium toxicity [see Dosage and Administration (2), Warnings and Precautions (5.1.)].
+Instruct patients not to double the dose if a dose is missed, due to the complexity of individualized dosing and potential for lithium toxicity [see Dosage and Administration (2), Warnings and Precautions (5.1)].
 Lithium Toxicity
 
 Inform patients on adverse reactions related to lithium toxicity that require medical attention.
