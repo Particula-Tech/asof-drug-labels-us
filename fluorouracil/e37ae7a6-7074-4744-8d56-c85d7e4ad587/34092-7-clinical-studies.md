@@ -31,5 +31,5 @@ Table 3 Recurrence of Actinic Keratosis Lesions within 12 Months After Completin
 |  | Cleared Tolak Subjects N=204 |
 | --- | --- |
 | Subjects remained clear 12 months after treatment | 56 (27%) |
-| Subjects with recurrence within 12 monthsSubjects who applied other treatments for actinic keratosis were counted as having recurrence. | 110 (54%) |
+| Subjects with recurrence within 12 months Subjects who applied other treatments for actinic keratosis were counted as having recurrence. | 110 (54%) |
 | Subjects with no follow-up | 38 (19%) |

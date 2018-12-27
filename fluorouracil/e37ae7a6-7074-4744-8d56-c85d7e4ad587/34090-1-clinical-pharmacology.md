@@ -18,4 +18,4 @@ Eight patients had undetectable levels of plasma 5-fluorouracil (the lower limit
 Among patients with detectable plasma 5-fluorouracil levels, the highest level of plasma 5-fluorouracil was generally observed at 1 hour post-dose.
 The mean observed maximum concentration (± standard deviation) of plasma 5-fluorouracil was 3.66 (±1.58) ng/mL with the range between 1.11 – 7.35 ng/mL.
 
-The catabolism of 5-fluorouracil results in inactive degradation products (such as CO2, urea, α-fluoro-β-alanine).
+The catabolism of 5-fluorouracil results in inactive degradation products (such as CO 2, urea, α-fluoro-β-alanine).
