@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA091691"
+  ],
+  "inn": "brimonidine",
+  "labeler": "Indoco Remedies Limited",
+  "package_ndcs": [
+    "14445-400-05",
+    "14445-400-10",
+    "14445-400-15"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "brimonidine tartrate",
+      "name": "Brimonidine Tartrate"
+    }
+  ],
+  "setid": "383421a5-5d33-4f15-88f4-8b66fcbfac71",
+  "source": "dailymed"
+}
