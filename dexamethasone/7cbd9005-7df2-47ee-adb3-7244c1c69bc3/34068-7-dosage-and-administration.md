@@ -37,11 +37,11 @@ The following dosages of dexamethasone sodium phosphate injection have been sugg
 
 | Author | Dosage |
 | --- | --- |
-| Cavanagh1 | 3 mg/kg of body weight per 24 hours by constant intravenous infusion after an initial intravenous injection of 20 mg |
-| Dietzman2 | 2 to 6 mg/kg of body weight as a single intravenous injection |
-| Frank3 | 40 mg initially followed by repeat intravenous injection every 4 to 6 hours while shock persists |
-| Oaks4 | 40 mg initially followed by repeat intravenous injection every 2 to 6 hours while shock persists |
-| Schumer5 | 1 mg/kg of body weight as a single intravenous injection |
+| Cavanagh 1 | 3 mg/kg of body weight per 24 hours by constant intravenous infusion after an initial intravenous injection of 20 mg |
+| Dietzman 2 | 2 to 6 mg/kg of body weight as a single intravenous injection |
+| Frank 3 | 40 mg initially followed by repeat intravenous injection every 4 to 6 hours while shock persists |
+| Oaks 4 | 40 mg initially followed by repeat intravenous injection every 2 to 6 hours while shock persists |
+| Schumer 5 | 1 mg/kg of body weight as a single intravenous injection |
 
 Administration of high dose corticosteroid therapy should be continued only until the patient’s condition has stabilized and usually not longer than 48 to 72 hours.
 
