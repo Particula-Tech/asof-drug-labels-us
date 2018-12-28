@@ -32,7 +32,7 @@ Your healthcare provider may do blood tests to check your sodium levels during y
 Oxcarbazepine tablets may also cause allergic reactions or serious problems which may affect organs and other parts of your body like the liver or blood cells.
 You may or may not have a rash with these types of reactions.
 
-1. Call your healthcare provider right away if you have any of the following:
+- Call your healthcare provider right away if you have any of the following:
 
 | •swelling of your face, eyes, lips, or tongue•trouble swallowing or breathing•a skin rash •hives•fever, swollen glands, or sore throat that do not go away or come and go | •painful sores in the mouth or around your eyes•yellowing of your skin or eyes•unusual bruising or bleeding•severe fatigue or weakness•severe muscle pain•frequent infections or infections that do not go away |
 | --- | --- |
@@ -208,6 +208,6 @@ Questions?
 
 www.glenmarkpharma.com/usa
 
-January 2018
+December 2018
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration

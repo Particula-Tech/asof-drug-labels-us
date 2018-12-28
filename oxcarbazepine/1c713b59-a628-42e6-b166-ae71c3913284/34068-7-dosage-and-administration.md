@@ -27,9 +27,9 @@ Controlled trials in these patients examined the effectiveness of a 1200 mg/day 
 In pediatric patients aged 4 to 16 years, initiate oxcarbazepine tablets at a daily dose of 8 to 10 mg/kg generally not to exceed 600 mg/day, given twice-a-day.
 The target maintenance dose of oxcarbazepine tablets should be achieved over 2 weeks, and is dependent upon patient weight, according to the following chart:
 
-1. 20 to 29 kg – 900 mg/day
-2. 29.1 to 39 kg – 1200 mg/day
-3. >39 kg – 1800 mg/day
+- 20 to 29 kg – 900 mg/day
+- 29.1 to 39 kg – 1200 mg/day
+- >39 kg – 1800 mg/day
 
 In the clinical trial, in which the intention was to reach these target doses, the median daily dose was 31 mg/kg with a range of 6 to 51 mg/kg.
 
