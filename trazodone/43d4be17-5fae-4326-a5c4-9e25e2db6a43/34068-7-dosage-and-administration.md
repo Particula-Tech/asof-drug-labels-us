@@ -25,9 +25,7 @@ Prior to initiating treatment with trazodone hydrochloride tablets or another an
 ## 2.4 Switchning to or from Monoamine Oxidase Inhibitor Antidepressant
 
 At least 14 days must elapse between discontinuation of a monoamine oxidase inhibitor (MAOI) antidepressant and initiation of trazodone hydrochloride tablets.
-In addition, at
-
-least 14 days must elapse after stopping trazodone hydrochloride tablets before starting an MAOI antidepressant [see Contraindications (4), Warnings and Precautions (5.2)].
+In addition, at least 14 days must elapse after stopping trazodone hydrochloride tablets before starting an MAOI antidepressant [see Contraindications (4), Warnings and Precautions (5.2)].
 
 ## 2.5 Dosage Recommendations for Concomitant Use with Strong CYP3A4 Inhibitors or Inducers
 
