@@ -12,7 +12,7 @@ Rx only
 
 PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
-Marketed by Wilshire Pharmaceuticals, Inc., Atlanta, GA 30328
+Marketed by Wilshire Pharmaceuticals, Inc. Atlanta, GA 30328
 
 WILSHIRE PHARMACEUTICALS, INC
 
@@ -30,6 +30,6 @@ Rx only
 
 PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
-Marketed by Wilshire Pharmaceuticals, Inc., Atlanta, GA 30328
+Marketed by Wilshire Pharmaceuticals, Inc. Atlanta, GA 30328
 
 WILSHIRE PHARMACEUTICALS, INC
