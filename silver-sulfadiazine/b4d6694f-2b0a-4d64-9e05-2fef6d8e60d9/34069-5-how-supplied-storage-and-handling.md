@@ -16,6 +16,4 @@ Store at room temperature.
 
 Manufactured for: Ascend Laboratories, LLC Parsippany, NJ 07054 Manufactured by: Crown Laboratories, Inc. Johnson City, TN 37604
 
-Product information: 1-877-272-7901
-
-Revised: SEPT 2016 P1840.03
+Product Information: 1-877-272-7901 Revised: DEC 2018 P1840.05

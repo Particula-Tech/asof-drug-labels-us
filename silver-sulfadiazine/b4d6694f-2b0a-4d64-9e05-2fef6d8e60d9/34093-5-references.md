@@ -5,8 +5,8 @@
    1982;22: 586–587.
 2. Jarret F, Ellerbe S, Demling R. Acute leukopenia during topical burn therapy with silver sulfadiazine.
    Amer J Surg.
-   1978;135:818–819.
+   1978;135: 818–819.
 3. Kiker RG, Carvajal HF, Micak RP, Larson DL.
    A controlled study of the effects of silver sulfadiazine on white blood cell counts in burned children.
    J Trauma.
-   1977; 17:835–836.
+   1977;17: 835–836.

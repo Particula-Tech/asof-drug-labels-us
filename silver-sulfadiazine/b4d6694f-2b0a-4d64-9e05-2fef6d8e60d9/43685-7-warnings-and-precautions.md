@@ -20,3 +20,6 @@ In the treatment of burn wounds involving extensive areas of the body, the serum
 Therefore, in these patients it would be advisable to monitor serum sulfa concentrations.
 Renal function should be carefully monitored and the urine should be checked for sulfa crystals.
 Absorption of the propylene glycol vehicle has been reported to affect serum osmolality, which may affect the interpretation of laboratory tests.
+
+Carcinogenesis, Mutagenesis, Impairment of Fertility.
+Long-term dermal toxicity studies of 24 months duration in rats and 18 months in mice with concentrations of silver sulfadiazine three to ten times the concentration in silver sulfadiazine cream, USP 1% revealed no evidence of carcinogenicity.
