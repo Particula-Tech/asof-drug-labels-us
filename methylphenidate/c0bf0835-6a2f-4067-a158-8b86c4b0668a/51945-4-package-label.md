@@ -45,21 +45,3 @@ Methylphenidate HCL USP
 100 Tablets
 
 Dispense with Medication Guide attached or provided separately.
-
-# PRINCIPAL DISPLAY PANEL
-
-PACKAGE LABEL – 20 MG SUSTAINED-RELEASE
-
-Rx Only NDC 0078-0442-05
-
-Ritalin-SR®
-
-Methylphenidate HCL USP
-
-sustained-release tablets
-
-20 mg
-
-100 Tablets
-
-Dispense with Medication Guide attached or provided separately.

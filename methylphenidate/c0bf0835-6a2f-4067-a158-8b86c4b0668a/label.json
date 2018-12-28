@@ -1,24 +1,17 @@
 {
   "application_numbers": [
-    "NDA010187",
-    "NDA018029"
+    "NDA010187"
   ],
   "inn": "methylphenidate",
   "labeler": "Novartis Pharmaceuticals Corporation",
   "package_ndcs": [
     "0078-0439-05",
     "0078-0440-05",
-    "0078-0441-05",
-    "0078-0442-05"
+    "0078-0441-05"
   ],
   "products": [
     {
       "form": "TABLET",
-      "generic": "methylphenidate hydrochloride",
-      "name": "Ritalin"
-    },
-    {
-      "form": "TABLET, EXTENDED RELEASE",
       "generic": "methylphenidate hydrochloride",
       "name": "Ritalin"
     }
