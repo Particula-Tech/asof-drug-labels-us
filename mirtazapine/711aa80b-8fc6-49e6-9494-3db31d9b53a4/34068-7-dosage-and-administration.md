@@ -3,9 +3,9 @@
 ## Initial Treatment
 
 The recommended starting dose for mirtazapine tablets is 15 mg/day, administered in a single dose, preferably in the evening prior to sleep.
-In the controlled clinical trials establishing the efficacy of mirtazapine in the treatment of major depressive disorder, the effective dose range was generally 15 to 45 mg/day.
-While the relationship between dose and satisfactory response in the treatment of major depressive disorder for mirtazapine has not been adequately explored, patients not responding to the initial 15 mg dose may benefit from dose increases up to a maximum of 45 mg/day.
-Mirtazapine has an elimination half-life of approximately 20 to 40 hours; therefore, dose changes should not be made at intervals of less than 1 to 2 weeks in order to allow sufficient time for evaluation of the therapeutic response to a given dose.
+In the controlled clinical trials establishing the efficacy of mirtazapine tablets in the treatment of major depressive disorder, the effective dose range was generally 15 to 45 mg/day.
+While the relationship between dose and satisfactory response in the treatment of major depressive disorder for mirtazapine tablets has not been adequately explored, patients not responding to the initial 15-mg dose may benefit from dose increases up to a maximum of 45 mg/day.
+Mirtazapine tablets have an elimination half-life of approximately 20 to 40 hours; therefore, dose changes should not be made at intervals of less than 1 to 2 weeks in order to allow sufficient time for evaluation of the therapeutic response to a given dose.
 
 ## Elderly and Patients with Renal or Hepatic Impairment
 
@@ -16,10 +16,10 @@ Consequently, the prescriber should be aware that plasma mirtazapine levels may 
 
 It is generally agreed that acute episodes of depression require several months or longer of sustained pharmacological therapy beyond response to the acute episode.
 Systematic evaluation of mirtazapine tablets has demonstrated that its efficacy in major depressive disorder is maintained for periods of up to 40 weeks following 8 to 12 weeks of initial treatment at a dose of 15 to 45 mg/day (see CLINICAL PHARMACOLOGY).
-Based on these limited data, it is unknown whether or not the dose of mirtazapine needed for maintenance treatment is identical to the dose needed to achieve an initial response.
+Based on these limited data, it is unknown whether or not the dose of mirtazapine tablets needed for maintenance treatment is identical to the dose needed to achieve an initial response.
 Patients should be periodically reassessed to determine the need for maintenance treatment and the appropriate dose for such treatment.
 
-## Switching a Patient to or from a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
+## Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
 
 At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with mirtazapine tablets.
 Conversely, at least 14 days should be allowed after stopping mirtazapine tablets before starting an MAOI intended to treat psychiatric disorders (see CONTRAINDICATIONS).
@@ -37,7 +37,7 @@ Therapy with mirtazapine tablets may be resumed 24 hours after the last dose of 
 The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with mirtazapine tablets is unclear.
 The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use (see WARNINGS).
 
-## Discontinuation of Mirtazapine Treatment
+## Discontinuation of Mirtazapine Tablets Treatment
 
 Symptoms associated with the discontinuation or dose reduction of mirtazapine tablets have been reported.
 Patients should be monitored for these and other symptoms when discontinuing treatment or during dosage reduction.

@@ -5,25 +5,25 @@
 Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
 There has been a long-standing concern, however, that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
-Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with major depressive disorder (MDD) and other psychiatric disorders.
+Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18‒24) with major depressive disorder (MDD) and other psychiatric disorders.
 Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction in risk with antidepressants compared to placebo in adults aged 65 and older.
 
-The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4,400 patients.
+The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4400 patients.
 The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
 There were differences in absolute risk of suicidality across different indications, with the highest incidence in MDD.
 The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
-These risk differences (drug-placebo difference in the number of cases of suicidality per 1,000 patients treated) are provided in Table 1.
+These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1.
 
 Table 1:
 
-| Age Range | Drug-Placebo Difference in Number of Cases of Suicidality Per 1,000 Patients Treated |
+| Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
 | --- | --- |
 | Increases Compared to Placebo |  |
 | < 18 | 14 additional cases |
-| 18 to 24 | 5 additional cases |
+| 18‒24 | 5 additional cases |
 | Decreases Compared to Placebo |  |
-| 25 to 64 | 1 fewer case |
+| 25‒ to 64 | 1 fewer case |
 | ≥ 65 | 6 fewer cases |
 
 No suicides occurred in any of the pediatric trials.
@@ -32,16 +32,16 @@ There were suicides in the adult trials, but the number was not sufficient to re
 It is unknown whether the suicidality risk extends to longer-term use, i.e., beyond several months.
 However, there is substantial evidence from placebo-controlled maintenance trials in adults with depression that the use of antidepressants can delay the recurrence of depression.
 
-All patients being treated with antidepressants for any indication should be monitored appropriately and observed closely for clinical worsening, suicidality and unusual changes in behavior, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases.
+All patients being treated with antidepressants for any indication should be monitored appropriately and observed closely for clinical worsening, suicidality, and unusual changes in behavior, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases.
 
 The following symptoms, anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, and mania, have been reported in adult and pediatric patients being treated with antidepressants for major depressive disorder as well as for other indications, both psychiatric and nonpsychiatric.
 Although a causal link between the emergence of such symptoms and either the worsening of depression and/or the emergence of suicidal impulses has not been established, there is concern that such symptoms may represent precursors to emerging suicidality.
 
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 
-Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to healthcare providers.
+Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
 Such monitoring should include daily observation by families and caregivers.
-Prescriptions for mirtazapine should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
+Prescriptions for mirtazapine tablets should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 
 ## Screening Patients for Bipolar Disorder
 
@@ -49,37 +49,46 @@ A major depressive episode may be the initial presentation of bipolar disorder.
 It is generally believed (though not established in controlled trials) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for bipolar disorder.
 Whether any of the symptoms described above represent such a conversion is unknown.
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
-It should be noted that mirtazapine is not approved for use in treating bipolar depression.
+It should be noted that mirtazapine tablets are not approved for use in treating bipolar depression.
 
 ## Agranulocytosis
 
-In premarketing clinical trials, two (one with Sjögren's Syndrome) out of 2,796 patients treated with mirtazapine tablets developed agranulocytosis [absolute neutrophil count (ANC) < 500/mm3 with associated signs and symptoms, e.g., fever, infection, etc.] and a third patient developed severe neutropenia (ANC < 500/mm3 without any associated symptoms).
-For these three patients, onset of severe neutropenia was detected on days 61, 9, and 14 of treatment, respectively.
-All three patients recovered after mirtazapine was stopped.
-These three cases yield a crude incidence of severe neutropenia (with or without associated infection) of approximately 1.1 per thousand patients exposed, with a very wide 95% confidence interval, i.e., 2.2 cases per 10,000 to 3.1 cases per 1,000.
-If a patient develops a sore throat, fever, stomatitis, or other signs of infection, along with a low WBC count, treatment with mirtazapine should be discontinued and the patient should be closely monitored.
+In premarketing clinical trials, 2 (1 with Sjögren’s Syndrome) out of 2796 patients treated with mirtazapine tablets developed agranulocytosis [absolute neutrophil count (ANC) < 500/mm3 with associated signs and symptoms, e.g., fever, infection, etc.] and a third patient developed severe neutropenia (ANC < 500/mm3 without any associated symptoms).
+For these 3 patients, onset of severe neutropenia was detected on days 61, 9, and 14 of treatment, respectively.
+All 3 patients recovered after mirtazapine tablets were stopped.
+These 3 cases yield a crude incidence of severe neutropenia (with or without associated infection) of approximately 1.1 per thousand patients exposed, with a very wide 95% confidence interval, i.e., 2.2 cases per 10,000 to 3.1 cases per 1000.
+If a patient develops a sore throat, fever, stomatitis, or other signs of infection, along with a low WBC count, treatment with mirtazapine tablets should be discontinued and the patient should be closely monitored.
 
 ## Serotonin Syndrome
 
-The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including mirtazapine, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John's wort), and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
+The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including mirtazapine tablets, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John's wort), and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
 
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 Patients should be monitored for the emergence of serotonin syndrome.
 
-The concomitant use of mirtazapine with MAOIs intended to treat psychiatric disorders is contraindicated.
-Mirtazapine should also not be started in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue.
+The concomitant use of mirtazapine tablets with MAOIs intended to treat psychiatric disorders is contraindicated.
+Mirtazapine tablets should also not be started in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue.
 All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
 No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
-There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking mirtazapine.
-Mirtazapine should be discontinued before initiating treatment with the MAOI (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
+There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking mirtazapine tablets.
+Mirtazapine tablets should be discontinued before initiating treatment with the MAOI (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
 
-If concomitant use of mirtazapine with other serotonergic drugs, including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John's wort, is clinically warranted, be aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
+If concomitant use of mirtazapine tablets with other serotonergic drugs, including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John's wort, is clinically warranted, be aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
 
-Treatment with mirtazapine and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
+Treatment with mirtazapine tablets and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
 ## Angle-Closure Glaucoma
 
 The pupillary dilation that occurs following use of many antidepressant drugs including mirtazapine tablets may trigger an angle-closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+
+## QT Prolongation and Torsades de Pointes
+
+The effect of mirtazapine tablets on QTc interval was assessed in a clinical randomized trial with placebo and positive (moxifloxacin) controls involving 54 healthy volunteers using exposure response analysis.
+This trial showed a positive relationship between mirtazapine concentrations and prolongation of the QTc interval.
+However, the degree of QT prolongation observed with both 45 mg (therapeutic) and 75 mg (supratherapeutic) doses of mirtazapine was not at a level generally considered to be clinically meaningful.
+During the postmarketing use of mirtazapine, cases of QT prolongation, Torsades de Pointes, ventricular tachycardia, and sudden death, have been reported (see ADVERSE REACTIONS).
+The majority of reports occurred in association with overdose or in patients with other risk factors for QT prolongation, including concomitant use of QTc-prolonging medicines (see PRECAUTIONS: Drug Interactions and OVERDOSE sections).
+Caution should be exercised when mirtazapine tablets are prescribed in patients with known cardiovascular disease or family history of QT prolongation, and in concomitant use with other medicinal products thought to prolong the QTc interval.
 
 # PRECAUTIONS
 
@@ -91,8 +100,8 @@ There have been reports of adverse reactions upon the discontinuation of mirtaza
 The majority of the reported cases are mild and self-limiting.
 Even though these have been reported as adverse reactions, it should be realized that these symptoms may be related to underlying disease.
 
-Patients currently taking mirtazapine should NOT discontinue treatment abruptly, due to risk of discontinuation symptoms.
-At the time that a medical decision is made to discontinue treatment with mirtazapine, a gradual reduction in the dose, rather than an abrupt cessation, is recommended.
+Patients currently taking mirtazapine tablets should NOT discontinue treatment abruptly, due to risk of discontinuation symptoms.
+At the time that a medical decision is made to discontinue treatment with mirtazapine tablets, a gradual reduction in the dose, rather than an abrupt cessation, is recommended.
 
 ### Akathisia/Psychomotor Restlessness
 
@@ -108,67 +117,67 @@ Caution should be exercised in patients at risk, such as elderly patients or pat
 ### Somnolence
 
 In U.S. controlled studies, somnolence was reported in 54% of patients treated with mirtazapine tablets, compared to 18% for placebo and 60% for amitriptyline.
-In these studies, somnolence resulted in discontinuation for 10.4% of mirtazapine-treated patients, compared to 2.2% for placebo.
-It is unclear whether or not tolerance develops to the somnolent effects of mirtazapine.
-Because of the potentially significant effects of mirtazapine on impairment of performance, patients should be cautioned about engaging in activities requiring alertness until they have been able to assess the drug’s effect on their own psychomotor performance (see PRECAUTIONS: Information for Patients).
+In these studies, somnolence resulted in discontinuation for 10.4% of mirtazapine tablets-treated patients, compared to 2.2% for placebo.
+It is unclear whether or not tolerance develops to the somnolent effects of mirtazapine tablets.
+Because of the potentially significant effects of mirtazapine tablets on impairment of performance, patients should be cautioned about engaging in activities requiring alertness until they have been able to assess the drug’s effect on their own psychomotor performance (see PRECAUTIONS: Information for Patients).
 
 ### Dizziness
 
-In U.S. controlled studies, dizziness was reported in 7% of patients treated with mirtazapine, compared to 3% for placebo and 14% for amitriptyline.
-It is unclear whether or not tolerance develops to the dizziness observed in association with the use of mirtazapine.
+In U.S. controlled studies, dizziness was reported in 7% of patients treated with mirtazapine tablets, compared to 3% for placebo and 14% for amitriptyline.
+It is unclear whether or not tolerance develops to the dizziness observed in association with the use of mirtazapine tablets.
 
 ### Increased Appetite/Weight Gain
 
-In U.S. controlled studies, appetite increase was reported in 17% of patients treated with mirtazapine, compared to 2% for placebo and 6% for amitriptyline.
+In U.S. controlled studies, appetite increase was reported in 17% of patients treated with mirtazapine tablets, compared to 2% for placebo and 6% for amitriptyline.
 In these same trials, weight gain of ≥ 7% of body weight was reported in 7.5% of patients treated with mirtazapine, compared to 0% for placebo and 5.9% for amitriptyline.
-In a pool of premarketing U.S. studies, including many patients for long-term, open-label treatment, 8% of patients receiving mirtazapine discontinued for weight gain.
-In an 8-week-long pediatric clinical trial of doses between 15 to 45 mg/day, 49% of mirtazapine-treated patients had a weight gain of at least 7%, compared to 5.7% of placebo-treated patients (see PRECAUTIONS: Pediatric Use).
+In a pool of premarketing U.S. studies, including many patients for long-term, open-label treatment, 8% of patients receiving mirtazapine tablets discontinued for weight gain.
+In an 8-week-long pediatric clinical trial of doses between 15 to 45 mg/day, 49% of mirtazapine tablets-treated patients had a weight gain of at least 7%, compared to 5.7% of placebo-treated patients (see PRECAUTIONS: Pediatric Use).
 
 ### Cholesterol/Triglycerides
 
-In U.S. controlled studies, nonfasting cholesterol increases to ≥ 20% above the upper limits of normal were observed in 15% of patients treated with mirtazapine, compared to 7% for placebo and 8% for amitriptyline.
-In these same studies, nonfasting triglyceride increases to ≥ 500 mg/dL were observed in 6% of patients treated with mirtazapine, compared to 3% for placebo and 3% for amitriptyline.
+In U.S. controlled studies, nonfasting cholesterol increases to ≥ 20% above the upper limits of normal were observed in 15% of patients treated with mirtazapine tablets, compared to 7% for placebo and 8% for amitriptyline.
+In these same studies, nonfasting triglyceride increases to ≥ 500 mg/dL were observed in 6% of patients treated with mirtazapine tablets, compared to 3% for placebo and 3% for amitriptyline.
 
 ### Transaminase Elevations
 
-Clinically significant ALT (SGPT) elevations (≥ 3 times the upper limit of the normal range) were observed in 2% (8/424) of patients exposed to mirtazapine in a pool of short-term U.S. controlled trials, compared to 0.3% (1/328) of placebo patients and 2% (3/181) of amitriptyline patients.
+Clinically significant ALT (SGPT) elevations (≥ 3 times the upper limit of the normal range) were observed in 2.0% (8/424) of patients exposed to mirtazapine tablets in a pool of short-term U.S. controlled trials, compared to 0.3% (1/328) of placebo patients and 2.0% (3/181) of amitriptyline patients.
 Most of these patients with ALT increases did not develop signs or symptoms associated with compromised liver function.
-While some patients were discontinued for the ALT increases, in other cases, the enzyme levels returned to normal despite continued mirtazapine treatment.
-Mirtazapine should be used with caution in patients with impaired hepatic function (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
+While some patients were discontinued for the ALT increases, in other cases, the enzyme levels returned to normal despite continued mirtazapine tablets treatment.
+Mirtazapine tablets should be used with caution in patients with impaired hepatic function (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
 
 ### Activation of Mania/Hypomania
 
-Mania/hypomania occurred in approximately 0.2% (3/1,299 patients) of mirtazapine-treated patients in U.S. studies.
+Mania/hypomania occurred in approximately 0.2% (3/1299 patients) of mirtazapine tablets-treated patients in U.S. studies.
 Although the incidence of mania/hypomania was very low during treatment with mirtazapine, it should be used carefully in patients with a history of mania/hypomania.
 
 ### Seizure
 
-In premarketing clinical trials, only one seizure was reported among the 2,796 U.S. and non-U.S. patients treated with mirtazapine.
+In premarketing clinical trials, only 1 seizure was reported among the 2796 U.S. and non-U.S. patients treated with mirtazapine tablets.
 However, no controlled studies have been carried out in patients with a history of seizures.
 Therefore, care should be exercised when mirtazapine is used in these patients.
 
 ### Use in Patients with Concomitant Illness
 
-Clinical experience with mirtazapine in patients with concomitant systemic illness is limited.
+Clinical experience with mirtazapine tablets in patients with concomitant systemic illness is limited.
 Accordingly, care is advisable in prescribing mirtazapine for patients with diseases or conditions that affect metabolism or hemodynamic responses.
 
-Mirtazapine has not been systematically evaluated or used to any appreciable extent in patients with a recent history of myocardial infarction or other significant heart disease.
-Mirtazapine was associated with significant orthostatic hypotension in early clinical pharmacology trials with normal volunteers.
+Mirtazapine tablets have not been systematically evaluated or used to any appreciable extent in patients with a recent history of myocardial infarction or other significant heart disease.
+Mirtazapine tablets were associated with significant orthostatic hypotension in early clinical pharmacology trials with normal volunteers.
 Orthostatic hypotension was infrequently observed in clinical trials with depressed patients.
-Mirtazapine should be used with caution in patients with known cardiovascular or cerebrovascular disease that could be exacerbated by hypotension (history of myocardial infarction, angina, or ischemic stroke) and conditions that would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medication).
+Mirtazapine tablets should be used with caution in patients with known cardiovascular or cerebrovascular disease that could be exacerbated by hypotension (history of myocardial infarction, angina, or ischemic stroke) and conditions that would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medication).
 
-Mirtazapine clearance is decreased in patients with moderate [glomerular filtration rate (GFR) = 11 to 39 mL/min/1.73 m2] and severe [GFR < 10 mL/min/1.73 m2] renal impairment, and also in patients with hepatic impairment.
-Caution is indicated in administering mirtazapine to such patients (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
+Mirtazapine clearance is decreased in patients with moderate [glomerular filtration rate (GFR) = 11‒39 mL/min/1.73 m2] and severe [GFR < 10 mL/min/1.73 m2] renal impairment, and also in patients with hepatic impairment.
+Caution is indicated in administering mirtazapine tablets to such patients (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
 
 ## Information for Patients
 
-Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with mirtazapine and should counsel them in its appropriate use.
-A patient Medication Guide about "Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions" is available for mirtazapine.
+Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with mirtazapine tablets and should counsel them in its appropriate use.
+A patient Medication Guide about "Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions" is available for mirtazapine tablets.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.
 
-Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking mirtazapine.
+Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking mirtazapine tablets.
 
 ### Clinical Worsening and Suicide Risk
 
@@ -179,34 +188,34 @@ Symptoms such as these may be associated with an increased risk for suicidal thi
 
 ### Agranulocytosis
 
-Patients who are to receive mirtazapine should be warned about the risk of developing agranulocytosis.
-Patients should be advised to contact their physician if they experience any indication of infection such as fever, chills, sore throat, mucous membrane ulceration or other possible signs of infection.
+Patients who are to receive mirtazapine tablets should be warned about the risk of developing agranulocytosis.
+Patients should be advised to contact their physician if they experience any indication of infection such as fever, chills, sore throat, mucous membrane ulceration, or other possible signs of infection.
 Particular attention should be paid to any flu-like complaints or other symptoms that might suggest infection.
 
 ### Interference with Cognitive and Motor Performance
 
-Mirtazapine may impair judgement, thinking, and particularly, motor skills, because of its prominent sedative effect.
+Mirtazapine tablets may impair judgement, thinking, and particularly, motor skills, because of its prominent sedative effect.
 The drowsiness associated with mirtazapine use may impair a patient's ability to drive, use machines, or perform tasks that require alertness.
-Thus, patients should be cautioned about engaging in hazardous activities until they are reasonably certain that mirtazapine therapy does not adversely affect their ability to engage in such activities.
+Thus, patients should be cautioned about engaging in hazardous activities until they are reasonably certain that mirtazapine tablets therapy does not adversely affect their ability to engage in such activities.
 
 ### Completing Course of Therapy
 
-While patients may notice improvement with mirtazapine therapy in 1 to 4 weeks, they should be advised to continue therapy as directed.
+While patients may notice improvement with mirtazapine tablets therapy in 1 to 4 weeks, they should be advised to continue therapy as directed.
 
 ### Concomitant Medication
 
-Patients should be advised to inform their physician if they are taking, or intend to take, any prescription or over-the-counter drugs, since there is a potential for mirtazapine to interact with other drugs.
+Patients should be advised to inform their physician if they are taking, or intend to take, any prescription or over-the-counter drugs, since there is a potential for mirtazapine tablets to interact with other drugs.
 
-Patients should be made aware of a potential increased risk for serotonin syndrome if concomitant use of mirtazapine with other serotonergic drugs, including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John's wort, is clinically warranted, particularly during treatment initiation and dose increases.
+Patients should be made aware of a potential increased risk for serotonin syndrome if concomitant use of mirtazapine tablets with other serotonergic drugs, including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John's wort, is clinically warranted, particularly during treatment initiation and dose increases.
 
 ### Alcohol
 
-The impairment of cognitive and motor skills produced by mirtazapine has been shown to be additive with those produced by alcohol.
+The impairment of cognitive and motor skills produced by mirtazapine tablets has been shown to be additive with those produced by alcohol.
 Accordingly, patients should be advised to avoid alcohol while taking mirtazapine.
 
 ### Pregnancy
 
-Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during mirtazapine therapy.
+Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during mirtazapine tablets therapy.
 
 ### Nursing
 
@@ -279,7 +288,7 @@ As at a higher dose of mirtazapine, a more pronounced effect can not be excluded
 
 #### Lithium
 
-No relevant clinical effects or significant changes in pharmacokinetics have been observed in healthy male subjects on concurrent treatment with subtherapeutic levels of lithium (600 mg/day for 10 days) at steady-state and a single 30 mg dose of mirtazapine.
+No relevant clinical effects or significant changes in pharmacokinetics have been observed in healthy male subjects on concurrent treatment with subtherapeutic levels of lithium (600 mg/day for 10 days) at steady state and a single 30-mg dose of mirtazapine.
 The effects of higher doses of lithium on the pharmacokinetics of mirtazapine are unknown.
 
 #### Risperidone
@@ -289,14 +298,18 @@ In an in vivo, nonrandomized, interaction study, subjects (n = 6) in need of tre
 ### Alcohol
 
 Concomitant administration of alcohol (equivalent to 60 g) had a minimal effect on plasma levels of mirtazapine (15 mg) in 6 healthy male subjects.
-However, the impairment of cognitive and motor skills produced by mirtazapine were shown to be additive with those produced by alcohol.
-Accordingly, patients should be advised to avoid alcohol while taking mirtazapine.
+However, the impairment of cognitive and motor skills produced by mirtazapine tablets were shown to be additive with those produced by alcohol.
+Accordingly, patients should be advised to avoid alcohol while taking mirtazapine tablets.
 
 ### Diazepam
 
 Concomitant administration of diazepam (15 mg) had a minimal effect on plasma levels of mirtazapine (15 mg) in 12 healthy subjects.
-However, the impairment of motor skills produced by mirtazapine has been shown to be additive with those caused by diazepam.
-Accordingly, patients should be advised to avoid diazepam and other similar drugs while taking mirtazapine.
+However, the impairment of motor skills produced by mirtazapine tablets have been shown to be additive with those caused by diazepam.
+Accordingly, patients should be advised to avoid diazepam and other similar drugs while taking mirtazapine tablets.
+
+### QTc-Prolonging Drugs
+
+The risk of QT prolongation and/or ventricular arrhythmias (e.g., Torsades de Pointes) may be increased with concomitant use of medicines which prolong the QTc interval (e.g., some antipsychotics and antibiotics) and in case of mirtazapine overdose (see ADVERSE REACTIONS and OVERDOSE sections).
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -308,7 +321,7 @@ There was an increased incidence of hepatocellular adenoma and carcinoma in male
 In rats, there was an increase in hepatocellular adenoma in females at the mid and high doses and in hepatocellular tumors and thyroid follicular adenoma/cystadenoma and carcinoma in males at the high dose.
 The data suggest that the above effects could possibly be mediated by non-genotoxic mechanisms, the relevance of which to humans is not known.
 
-The doses used in the mouse study may not have been high enough to fully characterize the carcinogenic potential of mirtazapine.
+The doses used in the mouse study may not have been high enough to fully characterize the carcinogenic potential of mirtazapine tablets.
 
 ### Mutagenesis
 
@@ -317,14 +330,14 @@ Mirtazapine was not mutagenic or clastogenic and did not induce general DNA dama
 ### Impairment of Fertility
 
 In a fertility study in rats, mirtazapine was given at doses up to 100 mg/kg [20 times the maximum recommended human dose (MRHD) on an mg/m2 basis].
-Mating and conception were not affected by the drug, but estrous cycling was disrupted at doses that were 3 or more times the MRHD, and preimplantation losses occurred at 20 times the MRHD.
+Mating and conception were not affected by the drug, but estrous cycling was disrupted at doses that were 3 or more times the MRHD, and pre-implantation losses occurred at 20 times the MRHD.
 
 ## Pregnancy
 
-### Teratogenic Effects. Pregnancy Category C
+### Teratogenic Effects.
 
 Reproduction studies in pregnant rats and rabbits at doses up to 100 mg/kg and 40 mg/kg, respectively [20 and 17 times the maximum recommended human dose (MRHD) on an mg/m2 basis, respectively], have revealed no evidence of teratogenic effects.
-However, in rats, there was an increase in post-implantation losses in dams treated with mirtazapine.
+However, in rats, there was an increase in postimplantation losses in dams treated with mirtazapine.
 There was an increase in pup deaths during the first 3 days of lactation and a decrease in pup birth weights.
 The cause of these deaths is not known.
 The effects occurred at doses that were 20 times the MRHD, but not at 3 times the MRHD, on a mg/m2 basis.
@@ -338,18 +351,18 @@ Because some mirtazapine may be excreted into breast milk, caution should be exe
 ## Pediatric Use
 
 Safety and effectiveness in the pediatric population have not been established (see BOXED WARNING and WARNINGS: Clinical Worsening and Suicide Risk).
-Two placebo-controlled trials in 258 pediatric patients with MDD have been conducted with mirtazapine, and the data were not sufficient to support a claim for use in pediatric patients.
-Anyone considering the use of mirtazapine in a child or adolescent must balance the potential risks with the clinical need.
+Two placebo-controlled trials in 258 pediatric patients with MDD have been conducted with mirtazapine tablets, and the data were not sufficient to support a claim for use in pediatric patients.
+Anyone considering the use of mirtazapine tablets in a child or adolescent must balance the potential risks with the clinical need.
 
-In an 8-week-long pediatric clinical trial of doses between 15 to 45 mg/day, 49% of mirtazapine-treated patients had a weight gain of at least 7%, compared to 5.7% of placebo-treated patients.
-The mean increase in weight was 4 kg (2 kg SD) for mirtazapine-treated patients vs. 1 kg (2 kg SD) for placebo-treated patients (see PRECAUTIONS: Increased Appetite/Weight Gain).
+In an 8-week-long pediatric clinical trial of doses between 15 to 45 mg/day, 49% of mirtazapine tablets-treated patients had a weight gain of at least 7%, compared to 5.7% of placebo-treated patients.
+The mean increase in weight was 4 kg (2 kg SD) for mirtazapine tablets-treated patients versus 1 kg (2 kg SD) for placebo-treated patients (see PRECAUTIONS: Increased Appetite/Weight Gain).
 
 ## Geriatric Use
 
-Approximately 190 elderly individuals (≥ 65 years of age) participated in clinical studies with mirtazapine.
+Approximately 190 elderly individuals (≥ 65 years of age) participated in clinical studies with mirtazapine tablets.
 This drug is known to be substantially excreted by the kidney (75%), and the risk of decreased clearance of this drug is greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection.
 Sedating drugs may cause confusion and over-sedation in the elderly.
 No unusual adverse age-related phenomena were identified in this group.
 Pharmacokinetic studies revealed a decreased clearance in the elderly.
-Caution is indicated in administering mirtazapine to elderly patients (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
+Caution is indicated in administering mirtazapine tablets to elderly patients (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
