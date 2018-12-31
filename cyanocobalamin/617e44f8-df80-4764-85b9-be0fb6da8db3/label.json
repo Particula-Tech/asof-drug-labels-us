@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA209429"
+  ],
+  "inn": "cyanocobalamin",
+  "labeler": "Somerset Therapeutics, LLC",
+  "package_ndcs": [
+    "70069-171-01",
+    "70069-171-05",
+    "70069-171-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "cyanocobalamin",
+      "name": "CYANOCOBALAMIN"
+    }
+  ],
+  "setid": "617e44f8-df80-4764-85b9-be0fb6da8db3",
+  "source": "dailymed"
+}
