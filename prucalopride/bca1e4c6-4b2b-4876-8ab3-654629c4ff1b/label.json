@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA210166"
+  ],
+  "inn": "prucalopride",
+  "labeler": "Shire US Manufacturing Inc.",
+  "package_ndcs": [
+    "54092-546-01",
+    "54092-547-01",
+    "54092-547-02",
+    "54092-547-03"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "prucalopride",
+      "name": "MOTEGRITY"
+    }
+  ],
+  "setid": "bca1e4c6-4b2b-4876-8ab3-654629c4ff1b",
+  "source": "dailymed"
+}
