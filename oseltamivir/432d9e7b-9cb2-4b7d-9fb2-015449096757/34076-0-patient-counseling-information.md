@@ -42,10 +42,10 @@ Zydus Pharmaceuticals USA Inc.
 
 Pennington, NJ 08534
 
-P10291-4
+P10291-5
 
 Rev.
-06/2017
+04/2018
 
 PATIENT INFORMATION
 
@@ -180,7 +180,7 @@ Pennington, NJ 08534
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised 05/2017
+Revised 06/2016
 
 Instructions For Use
 
@@ -209,7 +209,4 @@ Rinse oral dosing dispenser under running tap water and allow to air dry after e
 
 This Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-P10291-4
-
-Rev.
-06/2017
+Revised 06/2016
