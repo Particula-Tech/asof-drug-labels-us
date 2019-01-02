@@ -29,7 +29,7 @@ Table 5:Emetic Episodes: Treatment Response After Ondansetron HCl Tablets 8 mg T
 |  | Ondansetron |  |  |
 | --- | --- | --- | --- |
 |  | Tablet |  |  |
-|  | 8 mg twice daily a | Placebo | p Value |
+|  | 8 mg twice dailya | Placebo | p Value |
 | Number of patients | 33 | 34 |  |
 | Treatment response |  |  |  |
 | 0 emetic episodes | 20 (61%) | 2 (6%) | <0.001 |
@@ -48,7 +48,7 @@ The results of this study are summarized in Table 6.
 
 Table 6:Emetic Episodes: Treatment Response After Ondansetron HCl Tablets 8 mg Twice A Day and Three Times A Day
 
-|  | Ondansetron 8 mg twice daily a | Ondansetron 8 mg three times dailyb |
+|  | Ondansetron 8 mg twice dailya | Ondansetron 8 mg three times dailyb |
 | --- | --- | --- |
 | Number of patients | 165 | 171 |
 | Treatment response |  |  |

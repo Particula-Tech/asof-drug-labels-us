@@ -24,7 +24,7 @@ Absorption
 Ondansetron is well absorbed from the gastrointestinal tract and undergoes some first-pass metabolism.
 After a single dose of ZUPLENZ (ondansetron) oral soluble film 8 mg under fasting conditions (n=46), the peak plasma concentrations were achieved in 1.3 hours and the mean elimination half-life was 4.6 hours in healthy subjects.
 The mean (±S.D.)
-Cmax and AUC were 37.28 (±14.9) ng/mL and 225 (±88.1) ng·h/mL, respectively.
+Cmax and AUC were 37.28 (±14.9) ng/mL and 225 (±88.1) ng∙h/mL, respectively.
 In the same study, mean ondansetron Cmax and AUC following administration of 8 mg ZUPLENZ oral soluble film were comparable to those after 8 mg ondansetron ODT (orally disintegrating tablet).
 The systemic exposure after administration of ZUPLENZ oral soluble film 8 mg with or without water was found to be comparable.
 
@@ -76,7 +76,7 @@ It is not known whether these gender-related differences are clinically importan
 
 Table 4: Mean Pharmacokinetic Parameters by Gender in Healthy Volunteers After A Single 8 mg ZUPLENZ Oral Soluble Film Dose
 
-| Gender | Mean Weight (kg) | n | Cmax (ng/mL) | Tmax (h) | T1/2 (h) | AUC (h·ng/mL) |
+| Gender | Mean Weight (kg) | n | Cmax(ng/mL) | Tmax(h) | T1/2 (h) | AUC (h∙ng/mL) |
 | --- | --- | --- | --- | --- | --- | --- |
 | M | 62 | 39 | 35.2 | 1.67 | 4.54 | 207 |
 | F | 56.7 | 7 | 49.1 | 1.7 | 5.39 | 323 |

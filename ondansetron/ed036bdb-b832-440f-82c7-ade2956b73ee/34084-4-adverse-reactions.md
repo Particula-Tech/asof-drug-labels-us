@@ -54,7 +54,7 @@ Table 3: Adverse Events Reported in ≥5% of Adult Patients After Single Dose Th
 
 |  | Ondansetron 16 mg | Placebo |
 | --- | --- | --- |
-| Adverse Event a,b | N=550 | N=531 |
+| Adverse Eventa,b | N=550 | N=531 |
 | Headache | 49 (9%) | 27 (5%) |
 | Hypoxia | 49 (9%) | 35 (7%) |
 | Pyrexia | 45 (8%) | 34 (6%) |

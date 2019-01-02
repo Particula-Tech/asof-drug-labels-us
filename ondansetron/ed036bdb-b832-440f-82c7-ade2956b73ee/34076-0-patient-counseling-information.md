@@ -2,7 +2,7 @@
 
 See FDA-Approved Patient Labeling
 
-Advise patients to carefully read the “Patient Information” and “Instructions for Use” accompanying each package of ZUPLENZ (ondansetron) oral soluble film.
+Advise patients to carefully read the "Patient Information" and "Instructions for Use" accompanying each package of ZUPLENZ (ondansetron) oral soluble film.
 
 Inform patients that ZUPLENZ may cause serious cardiac arrhythmias such as QT prolongation.
 Instruct patients to tell their healthcare provider right away if they perceive a change in their heart rate, if they feel lightheaded, or if they have a syncopal episode.

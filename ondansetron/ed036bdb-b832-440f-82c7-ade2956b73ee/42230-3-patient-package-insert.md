@@ -1,4 +1,4 @@
-Patient Information ZUPLENZ® (ZOO-plenz) (ondansetron)
+Patient Information ZUPLENZ®(ZOO-plenz) (ondansetron)
 
 Oral Soluble Film
 
@@ -23,7 +23,7 @@ Do not take ZUPLENZ if you:
 What should I tell my doctor before taking ZUPLENZ?
 Before you take ZUPLENZ, tell you doctor if you:
 
-- have any heart problems, including a condition called “congenital long QT syndrome”
+- have any heart problems, including a condition called "congenital long QT syndrome"
 - take a medicine that causes heart problems (QT prolongation)
 - have low blood levels of potassium or magnesium
 - have liver problems

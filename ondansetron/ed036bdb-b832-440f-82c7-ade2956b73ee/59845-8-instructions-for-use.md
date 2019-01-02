@@ -1,4 +1,4 @@
-Instructions for Use ZUPLENZ® (ZOO-plenz) (ondansetron) Oral Soluble Film
+Instructions for Use ZUPLENZ®(ZOO-plenz) (ondansetron) Oral Soluble Film
 
 Step 1.
 Keep the ZUPLENZ film in the foil pouch until ready to use.
@@ -51,7 +51,7 @@ How should I store ZUPLENZ?
 
 Keep ZUPLENZ and all medicines out of the reach of children.
 
-This “Instructions for Use” has been approved by the U.S. Food and Drug Administration.
+This "Instructions for Use" has been approved by the U.S. Food and Drug Administration.
 
 Manufactured by: Monosol Rx, LLC Warren, NJ 07059
 
