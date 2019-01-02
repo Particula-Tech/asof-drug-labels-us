@@ -18,7 +18,7 @@ There have been isolated postmarketing reports of patients experiencing dissemin
 Treatment should be discontinued if disseminated allergic dermatitis occurs [see Contraindications (4)].
 Patients and caregivers should be instructed accordingly [see Patient Counseling Information (17)].
 
-In patients who develop application site reactions suggestive of allergic contact dermatitis to EXELON PATCH and who still require rivastigmine, treatment should be switched to oral rivastigmine only after negative allergy testing and under close medical supervision.
+In patients who develop application site reactions, suggestive of allergic contact dermatitis to EXELON PATCH, and who still require rivastigmine, treatment should be switched to oral rivastigmine only after negative allergy testing and under close medical supervision.
 It is possible that some patients sensitized to rivastigmine by exposure to rivastigmine patch may not be able to take rivastigmine in any form.
 
 ## 5.3 Other Adverse Reactions from Increased Cholinergic Activity
@@ -26,7 +26,7 @@ It is possible that some patients sensitized to rivastigmine by exposure to riva
 Neurologic Effects
 
 Extrapyramidal Symptoms: Cholinomimetics, including rivastigmine may exacerbate or induce extrapyramidal symptoms.
-Worsening of parkinsonian symptoms, particularly tremor, has been observed in patients with dementia associated with Parkinson’s disease who were treated with EXELON Capsules.
+Worsening of parkinsonian symptoms, particularly tremor has been observed in patients with dementia associated with Parkinson’s disease who were treated with EXELON Capsules.
 
 Seizures: Drugs that increase cholinergic activity are believed to have some potential for causing seizures.
 However, seizure activity also may be a manifestation of Alzheimer's disease.

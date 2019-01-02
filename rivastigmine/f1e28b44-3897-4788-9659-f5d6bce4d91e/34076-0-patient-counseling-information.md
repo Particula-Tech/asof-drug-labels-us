@@ -26,4 +26,10 @@ Concomitant Use of Drugs with Cholinergic Action
 Caregivers and patients should be advised that cholinomimetics, including rivastigmine, may exacerbate or induce extrapyramidal symptoms.
 Worsening in patients with Parkinson’s disease, including an increased incidence or intensity of tremor, has been observed [see Warnings and Precautions (5.3)].
 
-T2016-94 November 2016
+Pregnancy
+
+Advise patients to notify their healthcare provider if they are pregnant or plan to become pregnant.
+
+Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
+
+T2018-138

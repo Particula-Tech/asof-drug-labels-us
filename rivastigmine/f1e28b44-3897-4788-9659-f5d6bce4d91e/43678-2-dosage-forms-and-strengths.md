@@ -4,13 +4,10 @@
 
 Capsules, containing rivastigmine tartrate equivalent to 1.5 mg, 3 mg, 4.5 mg, or 6 mg of rivastigmine base, are available as follows:
 
-1.5 mg capsule – yellow, “Exelon 1,5 mg” is printed in red on the body of the capsule.
-
-3 mg capsule – orange, “Exelon 3 mg” is printed in red on the body of the capsule.
-
-4.5 mg capsule – red, “Exelon 4,5 mg” is printed in white on the body of the capsule.
-
-6 mg capsule – orange and red, “Exelon 6 mg” is printed in red on the body of the capsule.
+- 1.5 mg capsule – yellow, “EXELON 1.5 mg” is printed in red on the body of the capsule
+- 3 mg capsule – orange, “EXELON 3 mg” is printed in red on the body of the capsule
+- 4.5 mg capsule – red, “EXELON 4.5 mg” is printed in white on the body of the capsule
+- 6 mg capsule – orange and red, “EXELON 6 mg” is printed in red on the body of the capsule
 
 ## 3.2 EXELON Oral Solution
 

@@ -4,8 +4,8 @@
 
 Carcinogenesis
 
-In oral carcinogenicity studies conducted at doses up to 1.1 mg-base/kg/day in rats and 1.6 mg-base/kg/day in mice, rivastigmine was not carcinogenic.
-These doses are less than the maximum recommended human dose (MRHD) of 12 mg per day on a mg/m2 basis.
+In oral carcinogenicity studies conducted at doses up to 1.1 mg/kg/day in rats and 1.6 mg/kg/day in mice, rivastigmine was not carcinogenic.
+These doses are less than the maximum recommended human dose (MRHD) of 12 mg per day on an mg/m2 basis.
 
 Mutagenesis
 
@@ -14,4 +14,4 @@ Rivastigmine was negative in an in vitro bacterial reverse mutation (Ames) assay
 
 Impairment of Fertility
 
-Rivastigmine had no effect on fertility or reproductive performance in rats at oral doses up to 1.1 mg-base/kg/day, a dose less than the MRHD on a mg/m2 basis.
+Rivastigmine had no effect on fertility or reproductive performance in rats at oral doses up to 1.1 mg/kg/day, a dose less than the MRHD on an mg/m2 basis.

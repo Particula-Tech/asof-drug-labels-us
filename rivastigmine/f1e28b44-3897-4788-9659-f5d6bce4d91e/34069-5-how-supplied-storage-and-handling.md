@@ -36,7 +36,7 @@ Bottles of 500 NDC 0078-0326-08
 
 Unit Dose (blister pack) Box of 100 (strips of 10) NDC 0078-0326-06
 
-Store at 25°C (77°F); excursions permitted to 15°C-30°C (59°F-86°F) [see USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F-86°F) [see USP Controlled Room Temperature].
 Store in a tight container.
 
 EXELON Oral Solution
@@ -46,7 +46,7 @@ The oral solution is packaged with a dispenser set which consists of an assemble
 
 Bottles of 120 mL NDC 0078-0339-31
 
-Store at 25°C (77°F); excursions permitted to 15°C-30°C (59°F-86°F) [see USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F-86°F) [see USP Controlled Room Temperature].
 Store in an upright position and protect from freezing.
 
 When EXELON Oral Solution is combined with cold fruit juice or soda, the mixture is stable at room temperature for up to 4 hours.
