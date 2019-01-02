@@ -46,8 +46,6 @@ Use of NSAIDS and Low-Dose Aspirin
 
 Inform patients not to use low-dose aspirin concomitantly with DYLOJECT until they talk to their healthcare provider [see Drug Interactions (7)].
 
-EN-4307
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-Manufactured for:
-
-Hospira, Inc., Lake Forest, IL 60045 USA
+LAB-0896-1.0

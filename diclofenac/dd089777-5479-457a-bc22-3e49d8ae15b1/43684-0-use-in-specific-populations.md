@@ -2,8 +2,6 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C prior to 30 weeks gestation; Category D starting at 30 weeks gestation.
-
 Risk Summary
 
 Use of NSAIDs, including DYLOJECT, during the third trimester of pregnancy increases the risk of premature closure of the fetal ductus arteriosus.
