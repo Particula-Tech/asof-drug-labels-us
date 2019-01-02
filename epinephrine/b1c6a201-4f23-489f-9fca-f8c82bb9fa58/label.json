@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA207534"
+  ],
+  "inn": "epinephrine",
+  "labeler": "Sandoz Inc.",
+  "package_ndcs": [
+    "0781-3442-20"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "epinephrine",
+      "name": "SYMJEPI"
+    }
+  ],
+  "setid": "b1c6a201-4f23-489f-9fca-f8c82bb9fa58",
+  "source": "dailymed"
+}
