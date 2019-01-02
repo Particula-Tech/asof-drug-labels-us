@@ -6,9 +6,7 @@ ZYLOPRIM® (allopurinol)
 
 NDC 70199-015-90
 
-Rx Only
-
-ZYLOPRIM® (allopurinol)
+Rx Only ZYLOPRIM® (allopurinol)
 
 300 mg 90 Tablets Bottle
 

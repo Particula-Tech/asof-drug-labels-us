@@ -14,6 +14,12 @@ However, with current usage, skin reactions have been observed less frequently t
 The explanation for this decrease is not obvious.
 The incidence of skin rash may be increased in the presence of renal insufficiency.
 The frequency of skin rash among patients receiving ampicillin or amoxicillin concurrently with ZYLOPRIM has been reported to be increased (see PRECAUTIONS).
+Drug rash with eosinophilia and systemic symptoms (DRESS) syndrome or drug hypersensitivity syndrome (DHS) has been reported in association with allopurinol use.
+The syndrome includes many of the severe reactions described above, and is potentially life-threatening and fatal.
+The syndrome is often characterized by fever, severe and profuse skin rash, elevated leukocyte counts and in particular, elevated eosinophil counts, lymphadenopathy, and multi-organ pathologies.
+Systemic symptoms often included, but were not limited to, the hepatic and renal systems.
+Symptoms involving the cardiac, gastrointestinal, lymphatic, pulmonary, and ophthalmic systems were also reported as occurring as part of the syndrome.
+It has been reported that symptoms may develop in approximately 1 week from initiating allopurinol therapy, but longer latency periods have also been reported.
 
 To report SUSPECTED ADVERSE REACTIONS, contact Casper Pharma LLC at 1-844-5-CASPER (1-844-522-7737) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
