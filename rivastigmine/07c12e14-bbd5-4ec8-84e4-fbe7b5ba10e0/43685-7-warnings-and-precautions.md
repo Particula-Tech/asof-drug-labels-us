@@ -12,7 +12,7 @@ Instruct patients and their caregivers on important administration instructions 
 EXELON PATCH can cause gastrointestinal adverse reactions, including significant nausea, vomiting, diarrhea, anorexia/decreased appetite, and weight loss.
 Dehydration may result from prolonged vomiting or diarrhea and can be associated with serious outcomes.
 The incidence and severity of these reactions are dose-related [see Adverse Reactions (6.1)].
-For this reason, initiate treatment with EXELON PATCH at a dose of 4.6 mg/24 hours and titrate to a dose of 9.5 mg/24 hours and then to a dose of 13.3 mg/24 hours, if appropriate [see Dosage and Administration (2.1)].
+For this reason, initiate treatment with EXELON PATCH at a dose of 4.6 mg/24 hours, and titrate to a dose of 9.5 mg/24 hours and then to a dose of 13.3 mg/24 hours, if appropriate [see Dosage and Administration (2.1)].
 
 If treatment is interrupted for more than 3 days because of intolerance, reinitiate EXELON PATCH with the 4.6 mg/24 hours dose to reduce the possibility of severe vomiting and its potentially serious sequelae.
 A postmarketing report described a case of severe vomiting with esophageal rupture following inappropriate reinitiation of treatment of an oral formulation of rivastigmine without retitration after 8 weeks of treatment interruption.
@@ -22,13 +22,14 @@ It is critical to inform caregivers that if therapy has been interrupted for mor
 
 ## 5.3 Skin Reactions
 
-Skin application site reactions may occur with EXELON PATCH These reactions are not in themselves an indication of sensitization.
+Skin application-site reactions may occur with EXELON PATCH.
+These reactions are not in themselves an indication of sensitization.
 However, use of rivastigmine patch may lead to allergic contact dermatitis.
 
-Allergic contact dermatitis should be suspected if application site reactions spread beyond the patch size, if there is evidence of a more intense local reaction (e.g. increasing erythema, edema, papules, vesicles) and if symptoms do not significantly improve within 48 hours after patch removal.
+Allergic contact dermatitis should be suspected if application-site reactions spread beyond the patch size, if there is evidence of a more intense local reaction (e.g., increasing erythema, edema, papules, vesicles), and if symptoms do not significantly improve within 48 hours after patch removal.
 In these cases, treatment should be discontinued [see Contraindications (4)].
 
-In patients who develop application site reactions to EXELON PATCH suggestive of allergic contact dermatitis and who still require rivastigmine, treatment should be switched to oral rivastigmine only after negative allergy testing and under close medical supervision.
+In patients who develop application-site reactions to EXELON PATCH, suggestive of allergic contact dermatitis and who still require rivastigmine, treatment should be switched to oral rivastigmine only after negative allergy testing and under close medical supervision.
 It is possible that some patients sensitized to rivastigmine by exposure to rivastigmine patch may not be able to take rivastigmine in any form.
 
 There have been isolated postmarketing reports of patients experiencing disseminated allergic dermatitis when administered rivastigmine irrespective of the route of administration (oral or transdermal).

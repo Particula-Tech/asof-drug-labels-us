@@ -3,18 +3,18 @@
 The effectiveness of the EXELON PATCH in dementia of the Alzheimer’s type and dementia associated with Parkinson’s disease was based on the results of 3 controlled trials of EXELON PATCH in patients with Alzheimer’s disease (Studies 1, 2, and 3) (see below); 3 controlled trials of oral rivastigmine in patients with dementia of the Alzheimer’s type; and 1 controlled trial of oral rivastigmine in patients with dementia associated with Parkinson’s disease.
 See the prescribing information for oral rivastigmine for details of the four studies of oral rivastigmine.
 
-Mild to Moderate Alzheimer’s Disease
+Mild-to-Moderate Alzheimer’s Disease
 
 International 24-Week Study of EXELON PATCH in Dementia of the Alzheimer’s Type (Study 1)
 
-This study was a randomized double-blind, double dummy clinical investigation in patients with Alzheimer’s disease [diagnosed by NINCDS-ADRDA and DSM-IV criteria, Mini-Mental Status Examination (MMSE) score ≥10 and ≤20] (Study 1).
+This study was a randomized double-blind, double dummy clinical investigation in patients with Alzheimer’s disease [diagnosed by NINCDS-ADRDA and DSM-IV criteria, Mini-Mental Status Examination (MMSE) score greater than or equal to 10 and less than or equal to 20] (Study 1).
 The mean age of patients participating in this trial was 74 years with a range of 50 to 90 years.
 Approximately 67% of patients were women, and 33% were men.
 The racial distribution was Caucasian 75%, Black 1%, Asian 9%, and other races 15%.
 
 The effectiveness of the EXELON PATCH was evaluated in Study 1 using a dual outcome assessment strategy, evaluating for changes in both cognitive performance and overall clinical effect.
 
-The ability of the EXELON PATCH to improve cognitive performance was assessed with the cognitive subscale of the Alzheimer’s Disease Assessment Scale (ADAS-Cog), a multi-item instrument that has been extensively validated in longitudinal cohorts of Alzheimer’s disease patients.
+The ability of the EXELON PATCH to improve cognitive performance was assessed with the cognitive subscale of the Alzheimer’s Disease Assessment Scale (ADAS-Cog), a multi-item instrument that has been extensively validated in longitudinal cohorts of Alzheimer’s-disease patients.
 The ADAS-Cog examines selected aspects of cognitive performance including elements of memory, orientation, attention, reasoning, language, and praxis.
 The ADAS-Cog scoring range is from 0 to 70, with higher scores indicating greater cognitive impairment.
 Elderly normal adults may score as low as 0 or 1, but it is not unusual for non-demented adults to score slightly higher.
@@ -37,18 +37,18 @@ The difference between each of these groups and placebo was statistically signif
 
 International 48-Week Study of EXELON PATCH in Dementia of the Alzheimer’s Type (Study 2)
 
-This study was a randomized double-blind clinical investigation in patients with Alzheimer’s disease [diagnosed by NINCDS-ADRDA and DSM-IV criteria, Mini-Mental State Examination (MMSE) score ≥10 and ≤24] (Study 2).
+This study was a randomized double-blind clinical investigation in patients with Alzheimer’s disease [diagnosed by NINCDS-ADRDA and DSM-IV criteria, Mini-Mental State Examination (MMSE) score greater than or equal to 10 and less than or equal to 24] (Study 2).
 The mean age of patients participating in this trial was 76 years with a range of 50 to 85 years.
 Approximately 65% of patients were women and 35% were men.
 The racial distribution was approximately Caucasian 97%, Black 2%, Asian 0.5%, and other races 1%.
 Approximately 27% of the patients were taking memantine throughout the entire duration of the study.
 
 Alzheimer’s disease patients who received 24 to 48 weeks open-label treatment with EXELON PATCH 9.5 mg/24 hours and who demonstrated functional and cognitive decline were randomized into treatment with either EXELON PATCH 9.5 mg/24 hours or EXELON PATCH 13.3 mg/24 hours in a 48-week, double-blind treatment phase.
-Functional decline was assessed by the investigator and cognitive decline was defined as a decrease in the MMSE score of ≥2 points from the previous visit or a decrease of ≥3 points from baseline.
+Functional decline was assessed by the investigator and cognitive decline was defined as a decrease in the MMSE score of greater than or equal to 2 points from the previous visit or a decrease of greater than or equal to 3 points from baseline.
 
 Study 2 was designed to compare the efficacy of EXELON PATCH 13.3 mg/ 24 hours versus that of EXELON PATCH 9.5 mg/24 hours during the 48-week, double-blind treatment phase.
 
-The ability of the EXELON PATCH 13.3 mg/24 hours to improve cognitive performance over that provided by the EXELON PATCH 9.5 mg/24 hours was assessed by the cognitive subscale of the Alzheimer’s Disease Assessment Scale (ADAS-Cog) [see Clinical Studies, (14)].
+The ability of the EXELON PATCH 13.3 mg/24 hours to improve cognitive performance over that provided by the EXELON PATCH 9.5 mg/24 hours was assessed by the cognitive subscale of the Alzheimer’s Disease Assessment Scale (ADAS-Cog) [see Clinical Studies (14)].
 
 The ability of the EXELON PATCH 13.3 mg/24 hours to improve overall function versus that provided by EXELON PATCH 9.5 mg/24 hours was assessed by the instrumental subscale of the Alzheimer’s Disease Cooperative Study Activities of Daily Living (ADCS-IADL).
 The ADCS-IADL subscale is composed of items 7 to 23 of the caregiver-based ADCS-ADL scale.
@@ -63,14 +63,14 @@ Decline in the mean ADCS-IADL score from the double-blind baseline for the Inten
 The 13.3 mg/24 hours dose was statistically significantly superior to the 9.5mg/24 hours dose at weeks 16, 24, 32, and 48 (primary endpoint).
 
 Figure 6 illustrates the time course for the mean change from double-blind baseline in ADAS-Cog scores for both treatment groups over the 48-week treatment phase.
-The between-treatment group difference for EXELON PATCH 13.3 mg/24 hours versus EXELON PATCH 9.5 mg/24 hours was nominally statistically significant at week 24 (p=0.027), but not at week 48 (p=0.227), which was the primary endpoint.
+The between-treatment group difference for EXELON PATCH 13.3 mg/24 hours versus EXELON PATCH 9.5 mg/24 hours was nominally statistically significant at week 24 (p = 0.027), but not at week 48 (p = 0.227), which was the primary endpoint.
 
 Severe Alzheimer’s Disease
 
-24-Week United States Study with EXELON PATCH in Severe Alzheimer’s Disease (Study 3)
+24-Week United States Study With EXELON PATCH in Severe Alzheimer’s Disease (Study 3)
 
-This was a 24-week randomized double-blind, clinical investigation in patients with severe Alzheimer’s disease [diagnosed by NINCDS-ADRDA and DSM-IV criteria, Mini-Mental State Examination (MMSE) score ≥3 and ≤12].
-The mean age of patients participating in this trial was 78 years with a range of 51 to 96 years with 62% aged >75 years.
+This was a 24-week randomized double-blind, clinical investigation in patients with severe Alzheimer’s disease [diagnosed by NINCDS-ADRDA and DSM-IV criteria, Mini-Mental State Examination (MMSE) score greater than or equal to 3 and less than or equal to 12].
+The mean age of patients participating in this trial was 78 years with a range of 51 to 96 years with 62% aged greater than 75 years.
 Approximately 65% of patients were women and 35% were men.
 The racial distribution was approximately Caucasian 87%, Black 7%, Asian 1%, and other races 5%.
 Patients on a stable dose of memantine were permitted to enter the study.

@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 EXELON PATCH (rivastigmine transdermal system) contains rivastigmine, a reversible cholinesterase inhibitor known chemically as (S)-3-[1-(dimethylamino) ethyl]phenyl ethylmethylcarbamate.
-It has an empirical formula of C14H22N2O2 as the base and a molecular weight of 250.34 (as the base).
+It has an empirical formula of C14H22N2O2 as the base and a molecular weight of 250.34 g/mol (as the base).
 Rivastigmine is a viscous, clear, and colorless to yellow to very slightly brown liquid that is sparingly soluble in water and very soluble in ethanol, acetonitrile, n-octanol and ethyl acetate.
 
 The distribution coefficient at 37°C in n-octanol/phosphate buffer solution pH 7 is 4.27.

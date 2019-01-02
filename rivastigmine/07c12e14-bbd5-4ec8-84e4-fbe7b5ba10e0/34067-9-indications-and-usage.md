@@ -7,4 +7,4 @@ Efficacy has been demonstrated in patients with mild, moderate, and severe Alzhe
 
 ## 1.2 Parkinson’s Disease Dementia
 
-EXELON PATCH is indicated for the treatment of mild to moderate dementia associated with Parkinson’s disease (PDD).
+EXELON PATCH is indicated for the treatment of mild-to-moderate dementia associated with Parkinson’s disease (PDD).
