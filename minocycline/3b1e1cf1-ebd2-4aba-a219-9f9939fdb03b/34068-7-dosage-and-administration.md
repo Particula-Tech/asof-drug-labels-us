@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-The recommended dosage of minocycline hydrochloride extended-release tablet USP is approximately 1 mg/kg once daily for 12 weeks.
+The recommended dosage of minocycline hydrochloride extended-release tablet USP are approximately 1 mg/kg once daily for 12 weeks.
 Higher doses have not shown to be of additional benefit in the treatment of inflammatory lesions of acne, and may be associated with more acute vestibular side effects.
 
 The following table shows tablet strength and body weight to achieve approximately 1 mg/kg.

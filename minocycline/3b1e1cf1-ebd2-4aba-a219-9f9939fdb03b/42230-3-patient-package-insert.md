@@ -24,7 +24,7 @@ It is not known if Minocycline hydrochloride extended-release tablets are:
 
 Who should not take minocycline hydrochloride extended-release tablets?
 
-Do not take minocycline hydrochloride extended-release tablets if you are allergic to minocycline or any other tetracycline–class drugs.
+Do not take minocycline hydrochloride extended-release tablets if you are allergic to tetracycline-class drugs.
 Ask your doctor or pharmacist for a list of these medicines if you are not sure.
 
 What should I tell my doctor before taking minocycline hydrochloride extended-release tablets?
@@ -56,6 +56,7 @@ Especially tell your doctor if you take:
 
 - birth control pills.
   Minocycline hydrochloride extended-release tablets may make your birth control pills less effective.
+  You could become pregnant.
   You should use a second form of birth control while taking minocycline hydrochloride extended-release tablets.
 - a blood thinner medicine.
 - a penicillin antibiotic medicine.
@@ -105,7 +106,7 @@ Minocycline hydrochloride extended-release tablets may cause serious side effect
   Tooth development happens in the last half of pregnancy, and from birth to 8 years of age.
   See "What should I tell my doctor before taking minocycline hydrochloride extended-release tablets?"
 - Intestine infection (pseudomembranous colitis).
-  Pseudomembranous colitis associated diarrhea can happen with most antibiotics, including minocycline hydrochloride extended-release tablets.
+  Pseudomembranous colitis can happen with most antibiotics, including minocycline hydrochloride extended-release tablets.
   Call your doctor right away if you get watery diarrhea, diarrhea that does not go away, or bloody stools.
 - Serious liver problems.
   Stop taking minocycline hydrochloride extended-release tablets and call your doctor right away if you get any of the following symptoms of liver problems:
@@ -119,7 +120,7 @@ Minocycline hydrochloride extended-release tablets may cause serious side effect
 - Central nervous system effects.
   See "What should I avoid while taking minocycline hydrochloride extended-release tablets ?"
   Central nervous system effects such as light headedness, dizziness, and a spinning feeling (vertigo) may go away during your treatment with minocycline hydrochloride extended-release tablets or if treatment is stopped.
-- Benign intracranial hypertension, also called pseudotumor cerebri.
+- Benignintracranial hypertension, also called pseudotumor cerebri.
   This is a condition where there is high pressure in the fluid around the brain.
   This swelling may lead to vision changes and permanent vision loss.
   Stop taking minocycline hydrochloride extended-release tablets and tell your doctor right away if you have blurred vision, vision loss, or unusual headaches.
@@ -141,7 +142,7 @@ Minocycline hydrochloride extended-release tablets may cause serious side effect
 - swelling in your legs, ankles, and feet
 - darkening of your nails, skin, eyes, scars, teeth, and gums
 
-The most common side effects with minocycline hydrochloride extended-release tablets include:
+The most common side effects of minocycline hydrochloride extended-release tablets include:
 
 - headache
 - tiredness
@@ -184,7 +185,7 @@ What are the Ingredients in minocycline hydrochloride extended-release tablets?
 Active Ingredient: Minocycline Hydrochloride USP
 
 Inactive Ingredients: colloidal silicon dioxide, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol and titanium dioxide.
-The 45 mg tablets also contain iron oxide red, the 90 mg tablets also contain iron oxide yellow and talc, and 135 mg tablets also contain iron oxide red and iron oxide yellow.
+The 45 mg tablets also contain iron oxide red, 55 mg tablets also contain D&C yellow # 10, FD&C blue # 1, FD&C red #40 and polysorbate 80,the 90 mg tablets also contain iron oxide yellow and talc, and 135 mg tablets also contain iron oxide red and iron oxide yellow.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
@@ -200,8 +201,6 @@ Manufactured by:
 
 Lupin Limited
 
-Pithampur (M.P.) - 454 775
+MADE IN INDIA
 
-INDIA
-
-November 2015 ID#: 243532
+Revised: December 2018 ID#: 257324

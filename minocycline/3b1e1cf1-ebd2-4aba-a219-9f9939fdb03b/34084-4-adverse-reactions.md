@@ -35,7 +35,7 @@ Autoimmune conditions: polyarthralgia, pericarditis, exacerbation of systemic lu
 
 Central nervous system: pseudotumor cerebri, bulging fontanels in infants, decreased hearing.
 
-Endocrine: brown-black hygroscopic thyroid discoloration, abnormal thyroid function.
+Endocrine: brown-black microscopic thyroid discoloration, abnormal thyroid function.
 
 Oncology: thyroid cancer.
 

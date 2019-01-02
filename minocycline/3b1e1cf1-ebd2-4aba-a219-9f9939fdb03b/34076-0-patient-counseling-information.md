@@ -39,8 +39,6 @@ Manufactured by:
 
 Lupin Limited
 
-Pithampur (M.P.) - 454 775
+MADE IN INDIA
 
-INDIA
-
-June 1, 2016 ID#: 247030
+Revised: December 2018 ID#: 257323
