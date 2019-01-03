@@ -2,12 +2,9 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Exposure Registry and Pharmacovigilance Program
+Pregnancy Pharmacovigilance Program
 
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to PERJETA during pregnancy.
-Encourage women who receive PERJETA in combination with trastuzumab during pregnancy or within 7 months prior to conception, to enroll in the MotHER Pregnancy Registry by contacting 1-800-690-6720 or visiting http://www.motherpregnancyregistry.com/.
-
-In addition, there is a pregnancy pharmacovigilance program for PERJETA.
+There is a pregnancy pharmacovigilance program for PERJETA.
 If PERJETA is administered during pregnancy, or if a patient becomes pregnant while receiving PERJETA or within 7 months following the last dose of PERJETA in combination with trastuzumab, health care providers and patients should immediately report PERJETA exposure to Genentech at 1-888-835-2555.
 
 Risk Summary

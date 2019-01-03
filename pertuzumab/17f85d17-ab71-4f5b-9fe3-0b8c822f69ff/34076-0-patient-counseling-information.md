@@ -8,6 +8,6 @@ Embryo-Fetal Toxicity
 
 - Advise pregnant women and females of reproductive potential that exposure to PERJETA in combination with trastuzumab during pregnancy or within 7 months prior to conception can result in fetal harm.
   Advise female patients to contact their healthcare provider with a known or suspected pregnancy [see Use in Specific Populations (8.1)].
-- Advise women who are exposed to PERJETA in combination with trastuzumab during pregnancy or within 7 months prior to conception that there is a pregnancy exposure registry and a pregnancy pharmacovigilance program that monitors pregnancy outcomes.
-  Encourage these patients to enroll in the MotHER Pregnancy Registry and report their pregnancy to Genentech [see Use in Specific Populations (8.1)].
+- Advise women who are exposed to PERJETA in combination with trastuzumab during pregnancy or within 7 months prior to conception that there is a pregnancy pharmacovigilance program that monitors pregnancy outcomes.
+  Encourage these patients to report their pregnancy to Genentech [see Use in Specific Populations (8.1)].
 - Advise females of reproductive potential to use effective contraception during treatment and for 7 months following the last dose of PERJETA in combination with trastuzumab [see Use in Specific Populations (8.3)].
