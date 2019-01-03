@@ -9,7 +9,7 @@ These studies included 1633 subjects 16 years of age or older with chronic hepat
 Subjects had persistently elevated ALT levels at least 1.3 times ULN and chronic inflammation on liver biopsy compatible with a diagnosis of chronic viral hepatitis.
 The safety and efficacy of BARACLUDE were also evaluated in a study of 191 HBV-infected subjects with decompensated liver disease and in a study of 68 subjects co-infected with HBV and HIV.
 
-### Nucleoside-inhibitor-naïve Subjects with Compensated Liver Disease
+#### Nucleoside-inhibitor-naïve Subjects with Compensated Liver Disease
 
 HBeAg-positive: Study AI463022 was a multinational, randomized, double-blind study of BARACLUDE 0.5 mg once daily versus lamivudine 100 mg once daily for a minimum of 52 weeks in 709 (of 715 randomized) nucleoside-inhibitor-naïve subjects with chronic hepatitis B virus infection, compensated liver disease, and detectable HBeAg.
 The mean age of subjects was 35 years, 75% were male, 57% were Asian, 40% were Caucasian, and 13% had previously received interferon-α.
@@ -54,7 +54,7 @@ Table 9: Selected Virologic, Biochemical, and Serologic Endpoints at Week 48, Nu
 
 Histologic Improvement was independent of baseline levels of HBV DNA or ALT.
 
-### Lamivudine-refractory Subjects with Compensated Liver Disease
+#### Lamivudine-refractory Subjects with Compensated Liver Disease
 
 Study AI463026 was a multinational, randomized, double-blind study of BARACLUDE in 286 (of 293 randomized) subjects with lamivudine-refractory chronic hepatitis B virus infection and compensated liver disease.
 Subjects receiving lamivudine at study entry either switched to BARACLUDE 1 mg once daily (with neither a washout nor an overlap period) or continued on lamivudine 100 mg for a minimum of 52 weeks.
@@ -94,7 +94,7 @@ Table 11: Selected Virologic, Biochemical, and Serologic Endpoints at Week 48, L
 
 Histologic Improvement was independent of baseline levels of HBV DNA or ALT.
 
-### Subjects with Decompensated Liver Disease
+#### Subjects with Decompensated Liver Disease
 
 Study AI463048 was a randomized, open-label study of BARACLUDE 1 mg once daily versus adefovir dipivoxil 10 mg once daily in 191 (of 195 randomized) adult subjects with HBeAg-positive or -negative chronic HBV infection and evidence of hepatic decompensation, defined as a Child-Turcotte-Pugh (CTP) score of 7 or higher.
 Subjects were either HBV-treatment-naïve or previously treated, predominantly with lamivudine or interferon-α.
@@ -117,7 +117,7 @@ Table 12: Selected Endpoints at Week 48, Subjects with Decompensated Liver Disea
 | Normalization of ALT (≤1 × ULN)d | 49/78 (63%) | 33/71 (46%) |
 | a Endpoints were analyzed using intention-to-treat (ITT) method, treated subjects as randomized. b Roche COBAS Amplicor PCR assay (LLOQ = 300 copies/mL). c Defined as decrease or no change from baseline in CTP score. d Denominator is subjects with abnormal values at baseline. ULN=upper limit of normal. |  |  |
 
-### Subjects Co-infected with HIV and HBV
+#### Subjects Co-infected with HIV and HBV
 
 Study AI463038 was a randomized, double-blind, placebo-controlled study of BARACLUDE versus placebo in 68 subjects co-infected with HIV and HBV who experienced recurrence of HBV viremia while receiving a lamivudine-containing highly active antiretroviral (HAART) regimen.
 Subjects continued their lamivudine-containing HAART regimen (lamivudine dose 300 mg/day) and were assigned to add either BARACLUDE 1 mg once daily (51 subjects) or placebo (17 subjects) for 24 weeks followed by an open-label phase for an additional 24 weeks where all subjects received BARACLUDE.
