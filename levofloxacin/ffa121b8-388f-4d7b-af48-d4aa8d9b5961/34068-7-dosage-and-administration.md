@@ -42,6 +42,8 @@ The dosage of levofloxacin tablets for inhalational anthrax (post-exposure) and 
 Levofloxacin tablets cannot be administered to patients who weigh less than 30 kg because of the limitations of the available strength.
 Alternative formulations of levofloxacin may be considered for pediatric patients who weigh less than 30 kg.
 
+Table 2 Levofloxacin Tablets Dosage in Pediatric Patients Weighing 30 kg or greater with Inhalational Anthrax (Post-Exposure) and Plague*
+
 | Type of Infection* | Dose | Frequency | Duration† |
 | --- | --- | --- | --- |
 | Inhalational Anthrax (post-exposure)‡,§ |  |  |  |
@@ -53,7 +55,7 @@ Alternative formulations of levofloxacin may be considered for pediatric patient
 | * Due to Bacillus anthracis [see Indications and Usage (1.13)] and Yersinia pestis [see Indications and Usage (1.14)]. |  |  |  |
 | †Sequential therapy (intravenous levofloxacin injection to oral levofloxacin tablets) may be instituted at the discretion of the healthcare provider. |  |  |  |
 | ‡Being levofloxacin tablets as soon as possible after suspected or confirmed exposure to aerosolized B. anthracis. |  |  |  |
-| §The safety of levofloxacin tabletsin pediatric patients for durations of therapy beyond 14 days has not been studied. [see Warnings and Precautions (5.10), Use in Specific Populations (8.4), and Clinical Studies (14.9)]. |  |  |  |
+| §The safety of levofloxacin tabletsin pediatric patients for durations of therapy beyond 14 days has not been studied. [see Warnings and Precautions (5.11), Use in Specific Populations (8.4), and Clinical Studies (14.9)]. |  |  |  |
 
 ## 2.3 Dosage Adjustment in Adults with Renal Impairment
 
@@ -73,7 +75,7 @@ Table 3 Dosage Adjustment in Adult Patients with Renal Impairment Creatinine Cle
 | 500 mg every 24 hours | 500 mg initial dose, then 250 mg every 24 hours | 500 mg initial dose, then 250 mg every 48 hours | 500 mg initial dose, then 250 mg every 48 hours |
 | 250 mg every 24 hours | No dosage adjustment required | 250 mg every 48 hours. If treating uncomplicated UTI, then no dosage adjustment is required | No information on dosing adjustment is available |
 
-## 2.4 Drug Interaction With Chelation Agents: Antacids, Sucralfate, Metal Cations, Multivitamins
+## 2.4 Drug Interaction with Chelation Agents: Antacids, Sucralfate, Metal Cations, Multivitamins
 
 Levofloxacin tablets should be administered at least two hours before or two hours after antacids containing magnesium, aluminum, as well as sucralfate, metal cations such as iron, and multivitamin preparations with zinc or didanosine chewable/buffered tablets [see Drug Interactions (7.1) and Patient Counseling Information (17)].
 

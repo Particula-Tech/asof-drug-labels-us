@@ -242,6 +242,12 @@ Call your healthcare provider right away if you have unexplained symptoms such a
 Stop taking levofloxacin and tell your healthcare provider right away if you have yellowing of your skin or white part of your eyes, or if you have dark urine.
 These can be signs of a serious reaction to levofloxacin (a liver problem).
 
+- Aortic aneurysm and dissection
+
+People who take fluoroquinolone medicines, including levofloxacin, have an increased risk of swelling of the large artery that carries blood from the heart to the body (aortic aneurysm) and tearing (dissection) of this artery.
+Tell your healthcare provider if you have ever been told that you have an aortic aneurysm.
+Get emergency medical help right away if you have sudden chest, stomach, or back pain.
+
 - Intestine infection (Pseudomembranous colitis)
 
 Pseudomembranous colitis can happen with many antibiotics, including levofloxacin.

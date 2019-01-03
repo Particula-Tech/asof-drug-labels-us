@@ -11,13 +11,10 @@ The following serious and otherwise important adverse drug reactions are discuss
 - Exacerbation of Myasthenia Gravis [see Warnings and Precautions (5.5)]
 - Other Serious and Sometimes Fatal Reactions [see Warnings and Precautions (5.6)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.7)]
-- Hepatotoxicity [see Warnings and Precautions (5.8)]
-- Clostridium difficile -Associated Diarrhea [see Warnings and Precautions (5.9)]
-- Prolongation of the QT Interval [see Warnings and Precautions (5.10)]
-- Musculoskeletal Disorders in Pediatric Patients [see Warnings and Precautions (5.11)]
-- Blood Glucose Disturbances [see Warnings and Precautions (5.12)]
-- Photosensitivity/Phototoxicity [see Warnings and Precautions (5.13)]
-- Development of Drug Resistant Bacteria [see Warnings and Precautions (5.14)]
+- Hepatotoxicity [see Warnings and Precautions (5.8)] Clostridium difficile -Associated Diarrhea [see Warnings and Precautions (5.10)] Prolongation of the QT Interval [see Warnings and Precautions (5.11)] Musculoskeletal Disorders in Pediatric Patients [see Warnings and Precautions (5.12)]
+- Blood Glucose Disturbances [see Warnings and Precautions (5.13)]
+- Photosensitivity/Phototoxicity [see Warnings and Precautions (5.14)]
+- Development of Drug Resistant Bacteria [see Warnings and Precautions (5.15)]
 
 Crystalluria and cylindruria have been reported with quinolones, including levofloxacin.
 Therefore, adequate hydration of patients receiving levofloxacin should be maintained to prevent the formation of a highly concentrated urine [see Dosage and Administration (2.5)].
@@ -68,7 +65,7 @@ Table 5 Less Common (0.1 to 1%) Adverse Reactions Reported in Clinical Trials wi
 | Immune System Disorders | allergic reaction [See Warnings and Precautions (5.6, 5.7)] |
 | Metabolism and Nutrition Disorders | hyperglycemia |
 | hypoglycemia |  |
-| [see Warnings and Precautions (5.12)] |  |
+| [see Warnings and Precautions (5.13)] |  |
 | hyperkalemia |  |
 | Psychiatric Disorders | anxiety |
 | agitation |  |
@@ -124,7 +121,7 @@ The relationship of the drugs to these events is not presently established.
 Table 6 lists adverse reactions that have been identified during post-approval use of levofloxacin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Table 6 Postmarketing Reports Of Adverse Drug Reactions
+Table 6 Postmarketing Reports of Adverse Drug Reactions
 
 | System/Organ Class | Adverse Reaction |
 | --- | --- |
@@ -143,7 +140,7 @@ Table 6 Postmarketing Reports Of Adverse Drug Reactions
 | Eye Disorders | uveitis vision disturbance, including diplopia visual acuity reduced vision blurred scotoma |
 | Ear and Labyrinth Disorders | hypoacusis |
 | tinnitus |  |
-| Cardiac Disorders | isolated reports of torsade de pointes electrocardiogram QT prolonged [see Warnings and Precautions (5.10)] tachycardia |
+| Cardiac Disorders | isolated reports of torsade de pointes electrocardiogram QT prolonged [see Warnings and Precautions (5.11)] tachycardia |
 | Vascular Disorders | vasodilatation |
 | Respiratory, Thoracic and Mediastinal Disorders | isolated reports of allergic pneumonitis [see Warnings and Precautions (5.6)] |
 | Hepatobiliary Disorders | hepatic failure (including fatal cases) |
@@ -156,7 +153,7 @@ Table 6 Postmarketing Reports Of Adverse Drug Reactions
 | Acute Generalized Exanthematous Pustulosis (AGEP) fixed drug eruptions |  |
 | erythema multiforme |  |
 | [see Warnings and Precautions (5.6)] |  |
-| photosensitivity/phototoxicity reaction [see Warnings and Precautions (5.13)] |  |
+| photosensitivity/phototoxicity reaction [see Warnings and Precautions (5.14)] |  |
 | leukocytoclastic vasculitis |  |
 | Musculoskeletal and Connective Tissue Disorders | tendon rupture [see Warnings and Precautions (5.2)] muscle injury, including rupture rhabdomyolysis |
 | Renal and Urinary Disorders | interstitial nephritis [see Warnings and Precautions (5.6)] |
