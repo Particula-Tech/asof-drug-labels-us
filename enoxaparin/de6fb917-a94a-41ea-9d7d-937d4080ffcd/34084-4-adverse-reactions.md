@@ -1,19 +1,19 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Clinical Trials Experience
-
 The following serious adverse reactions are also discussed in other sections of the labeling:
 
 - Spinal/epidural hematomas [see Boxed Warning and Warnings and Precautions (5.1)]
 - Increased Risk of Hemorrhage [see Warnings and Precautions (5.1)]
 - Thrombocytopenia [see Warnings and Precautions (5.5)]
 
+## 6.1 Clinical Trials Experience
+
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-During clinical development for the approved indications, 15,918 patients were exposed to enoxaparin sodium.
+During clinical development for the approved indications, 15,918 patients were exposed to Lovenox.
 These included 1,228 for prophylaxis of deep vein thrombosis following abdominal surgery in patients at risk for thromboembolic complications, 1,368 for prophylaxis of deep vein thrombosis following hip or knee replacement surgery, 711 for prophylaxis of deep vein thrombosis in medical patients with severely restricted mobility during acute illness, 1,578 for prophylaxis of ischemic complications in unstable angina and non–Q-wave myocardial infarction, 10,176 for treatment of acute ST-elevation myocardial infarction, and 857 for treatment of deep vein thrombosis with or without pulmonary embolism.
-Enoxaparin sodium doses in the clinical trials for prophylaxis of deep vein thrombosis following abdominal or hip or knee replacement surgery or in medical patients with severely restricted mobility during acute illness ranged from 40 mg subcutaneously once daily to 30 mg subcutaneously twice daily.
-In the clinical studies for prophylaxis of ischemic complications of unstable angina and non–Q-wave myocardial infarction doses were 1 mg/kg every 12 hours and in the clinical studies for treatment of acute ST-segment elevation myocardial infarction enoxaparin sodium doses were a 30 mg intravenous bolus followed by 1 mg/kg every 12 hours subcutaneously.
+Lovenox doses in the clinical trials for prophylaxis of deep vein thrombosis following abdominal or hip or knee replacement surgery or in medical patients with severely restricted mobility during acute illness ranged from 40 mg subcutaneously once daily to 30 mg subcutaneously twice daily.
+In the clinical studies for prophylaxis of ischemic complications of unstable angina and non–Q-wave myocardial infarction doses were 1 mg/kg every 12 hours and in the clinical studies for treatment of acute ST-segment elevation myocardial infarction Lovenox doses were a 30 mg intravenous bolus followed by 1 mg/kg every 12 hours subcutaneously.
 
 Hemorrhage
 
@@ -72,22 +72,19 @@ Table 7: Major Bleeding Episodes in Acute ST-Segment Elevation Myocardial Infarc
 | Indication | LovenoxThe rates represent major bleeding (including ICH) up to 30 days Initial 30 mg intravenous bolus followed by 1 mg/kg q12h subcutaneously | Heparin aPTT Adjusted Intravenous Therapy |
 | --- | --- | --- |
 |  | Dosing Regimen |  |
-| Acute ST-Segment Elevation | n=10176 | n=10151 |
-| Myocardial Infarction | n (%) | n (%) |
+| Acute ST-Segment Elevation Myocardial Infarction | n=10176 n (%) | n=10151 n (%) |
 | Major bleeding (including ICH)Bleedings were considered major if the hemorrhage caused a significant clinical event associated with a hemoglobin decrease by ≥5 g/dL. ICH were always considered major. | 211 (2.1) | 138 (1.4) |
 | Intracranial hemorrhages (ICH) | 84 (0.8) | 66 (0.7) |
 
 Elevations of Serum Aminotransferases
 
 Asymptomatic increases in aspartate (AST [SGOT]) and alanine (ALT [SGPT]) aminotransferase levels greater than three times the upper limit of normal of the laboratory reference range have been reported in up to 6.1% and 5.9% of patients, respectively, during treatment with Lovenox.
-Similar significant increases in aminotransferase levels have also been observed in patients and healthy volunteers treated with heparin and other low molecular weight heparins.
-Such elevations are fully reversible and are rarely associated with increases in bilirubin.
 
 Since aminotransferase determinations are important in the differential diagnosis of myocardial infarction, liver disease, and pulmonary emboli, elevations that might be caused by drugs like Lovenox should be interpreted with caution.
 
 Local Reactions
 
-Mild local irritation, pain, hematoma, ecchymosis, and erythema may follow subcutaneous injection of Lovenox.
+Local irritation, pain, hematoma, ecchymosis, and erythema may follow subcutaneous injection of Lovenox.
 
 Adverse Reactions in Patients Receiving Lovenox for Prophylaxis or Treatment of DVT, PE
 
@@ -143,16 +140,17 @@ Adverse Events in Lovenox-Treated Patients with Unstable Angina or Non–Q-Wave 
 
 Non-hemorrhagic clinical events reported to be related to Lovenox therapy occurred at an incidence of ≤1%.
 
-Non-major hemorrhagic events, primarily injection site ecchymoses and hematomas, were more frequently reported in patients treated with subcutaneous Lovenox than in patients treated with intravenous heparin.
+Non-major hemorrhagic events, primarily injection site ecchymosis and hematomas, were more frequently reported in patients treated with subcutaneous Lovenox than in patients treated with intravenous heparin.
 
 Serious adverse events with Lovenox or heparin in a clinical trial in patients with unstable angina or non–Q-wave myocardial infarction that occurred at a rate of at least 0.5% in the Lovenox group are provided below (see Table 12).
 
 Table 12: Serious Adverse Events Occurring at ≥0.5% Incidence in Lovenox-Treated Patients with Unstable Angina or Non–Q-Wave Myocardial Infarction
 
-| Adverse Event | n=1578 n (%) | n=1529 n (%) |
+| Adverse Event | n (%) | n (%) |
 | --- | --- | --- |
 |  | Dosing Regimen |  |
 |  | Lovenox 1 mg/kg q12h subcutaneously | Heparin aPTT Adjusted Intravenous Therapy |
+|  | n=1578 | n=1529 |
 | Atrial fibrillation | 11 (0.70) | 3 (0.20) |
 | Heart failure | 15 (0.95) | 11 (0.72) |
 | Lung edema | 11 (0.70) | 11 (0.72) |
