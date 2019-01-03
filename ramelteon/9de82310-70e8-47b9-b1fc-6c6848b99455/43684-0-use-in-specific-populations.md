@@ -2,34 +2,46 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
+Risk Summary
 
-In animal studies, ramelteon produced evidence of developmental toxicity, including teratogenic effects, in rats at doses much greater than the recommended human dose (RHD) of 8 mg/day.
-There are no adequate and well-controlled studies in pregnant women.
-ROZEREM should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Available data from postmarketing reports with ROZEREM use in pregnant women have not identified a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
+In animal studies, ramelteon produced evidence of developmental toxicity, including teratogenic effects, in rats at doses greater than 36 times the recommended human dose (RHD) of 8 mg/day based on body surface area (mg/m2) (see Data).
+
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 - 4% and 15 - 20%, respectively.
+
+Data
+
+Animal Data
 
 Oral administration of ramelteon (10, 40, 150 or 600 mg/kg/day) to pregnant rats during the period of organogenesis was associated with increased incidences of fetal structural abnormalities (malformations and variations) at doses greater than 40 mg/kg/day.
-The no-effect dose is approximately 50 times the RHD on a body surface area (mg/m2) basis.
-Treatment of pregnant rabbits during the period of organogenesis produced no evidence of embryo-fetal toxicity at oral doses of up to 300 mg/kg/day (or up to 720 times the RHD on a mg/m2 basis.
+The no-effect dose is approximately 50 times the RHD based on mg/m2.
+Treatment of pregnant rabbits during the period of organogenesis produced no evidence of embryo-fetal toxicity at oral doses of up to 300 mg/kg/day (or up to 720 times the RHD based on mg/m2).
 
 When rats were orally administered ramelteon (30, 100, or 300 mg/kg/day) throughout gestation and lactation, growth retardation, developmental delay, and behavioral changes were observed in the offspring at doses greater than 30 mg/kg/day.
-The no-effect dose is 36 times the RHD on a mg/m2 basis.
+The no-effect dose is 36 times the RHD based on mg/m2.
 Increased incidences of malformation and death among offspring were seen at the highest dose.
 
-## 8.2 Labor and delivery
+## 8.2 Lactation
 
-The potential effects of ROZEREM on the duration of labor and/or delivery, for either the mother or the fetus, have not been studied.
-ROZEREM has no established use in labor and delivery.
+Risk Summary
 
-## 8.3 Nursing Mothers
+There are no data regarding the presence of ramelteon or its metabolites in human milk, the effects on the breastfed infant, or the effects on milk production.
+Ramelteon and/or its metabolites are present in rat milk.
+When a drug is present in animal milk, it is likely that the drug will be present in human milk.
+Because of the mechanism of action of ramelteon, there is a potential risk for somnolence in a breastfed infant (see Clinical Considerations).
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for ROZEREM and any potential adverse effects on the breastfed infant from ROZEREM or from the underlying maternal condition.
 
-It is not known whether ramelteon is secreted into human milk; however ramelteon is secreted into the milk of lactating rats.
-Because many drugs are excreted into human milk, caution should be exercised when administered to a nursing woman.
+Clinical Considerations
+
+Infants exposed to ROZEREM through breastmilk should be monitored for somnolence and feeding problems.
+A lactating woman may consider interrupting breastfeeding and pumping and discarding breast milk during treatment and for 25 hours (approximately 5 elimination half-lives) after ROZEREM administration in order to minimize drug exposure to a breastfed infant.
 
 ## 8.4 Pediatric Use
 
 Safety and effectiveness of ROZEREM in pediatric patients have not been established.
-Further study is needed prior to determining that this product may be used safely in pre-pubescent and pubescent patients.
+Further study is needed prior to determining that this product may be used safely in prepubescent and pubescent patients.
 
 ## 8.5 Geriatric Use
 
@@ -60,7 +72,7 @@ ROZEREM has not been studied in subjects with severe obstructive sleep apnea; us
 
 ## 8.8 Hepatic Impairment
 
-Exposure to ROZEREM was increased by 4-fold in subjects with mild hepatic impairment and by more than 10-fold in subjects with moderate hepatic impairment.
+Exposure to ROZEREM was increased by four-fold in subjects with mild hepatic impairment and by more than ten-fold in subjects with moderate hepatic impairment.
 ROZEREM should be used with caution in patients with moderate hepatic impairment [see Clinical Pharmacology (12.4)].
 ROZEREM is not recommended in patients with severe hepatic impairment.
 

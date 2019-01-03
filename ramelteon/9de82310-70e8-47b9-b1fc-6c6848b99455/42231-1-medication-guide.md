@@ -59,7 +59,10 @@ Before starting ROZEREM, tell your doctor about all of your health conditions, i
 - have a history of depression, mental illness, or suicidal thoughts
 - have liver disease
 - have a lung disease or breathing problems
-- are pregnant, planning to become pregnant, or breastfeeding
+- are pregnant, or planning to become pregnant
+- are breastfeeding or plan to breastfeed.
+  ROZEREM may cause somnolence in a breastfed infant.
+  You may consider interrupting breastfeeding and pumping and discarding breastmilk during treatment and for 25 hours after administration of ROZEREM.
 
 Tell your doctor about all of the medicines you take including prescription and nonprescription medicines, vitamins and herbal supplements.
 Medicines can interact with each other, sometimes causing serious side effects.
@@ -82,7 +85,7 @@ How should I take ROZEREM?
   After taking ROZEREM only do activities to get ready for bed.
 - Do not take ROZEREM with or right after a meal.
 - Do not take ROZEREM unless you are able to get a full night's sleep before you must be active again.
-- Call your doctor if your insomnia worsens or is not better within 7-10 days.
+- Call your doctor if your insomnia worsens or is not better within 7 to 10 days.
   This may mean that there is another condition causing your sleep problems.
 - If you take too much ROZEREM or overdose, call your doctor or poison control center right away, or get emergency treatment.
 
@@ -94,7 +97,7 @@ Possible serious side effects of ROZEREM include:
   Symptoms include swelling of the tongue or throat, trouble breathing, and nausea and vomiting.
   Get emergency medical help if you get these symptoms after taking ROZEREM.
 - getting out of bed while not being fully awake and do an activity that you do not know you are doing.
-  (See "What is the most important information I should know about ROZEREM?)
+  (See "What is the most important information I should know about ROZEREM?")
 - abnormal thoughts and behavior.
   Symptoms include worsening of depression, suicidal thoughts or actions, nightmares, and hallucinations.
 - hormone effects.
@@ -136,15 +139,13 @@ General Information about ROZEREM
 This Medication Guide summarizes the most important information about ROZEREM.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about ROZEREM that is written for healthcare professionals.
-For more information about ROZEREM, please call Takeda Pharmaceuticals America, Inc. at 1-877-TAKEDA-7 (1-877-825-3327) or visit www.rozerem.com.
+For more information about ROZEREM, please call Takeda Pharmaceuticals at 1-877-TAKEDA-7 (1-877-825-3327) or visit www.rozerem.com.
 
 What are the ingredients in ROZEREM?
 
 Active Ingredient: ramelteon
 
 Inactive Ingredients: lactose monohydrate, starch, hydroxypropyl cellulose, magnesium stearate, hypromellose, copovidone, titanium dioxide, yellow ferric oxide, polyethylene glycol 8000, and ink containing shellac and synthetic iron oxide black.
-
-Rx Only
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -154,6 +155,6 @@ ROZEREM is a trademark of Takeda Pharmaceutical Company Limited registered with 
 
 All other trademark names are the property of their respective owners.
 
-©2005-2010 Takeda Pharmaceuticals America, Inc.
+©2005-2018 Takeda Pharmaceuticals America, Inc.
 
-ROZ014 R7 11/2010
+ROZ014 R9 December 2018

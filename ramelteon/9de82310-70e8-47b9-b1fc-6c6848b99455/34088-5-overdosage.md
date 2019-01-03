@@ -7,5 +7,7 @@ As in all cases of drug overdose, respiration, pulse, blood pressure, and other 
 Hemodialysis does not effectively reduce exposure to ROZEREM.
 Therefore, the use of dialysis in the treatment of overdosage is not appropriate.
 
-Poison Control Center: As with the management of all overdosage, the possibility of multiple drug ingestion should be considered.
+Poison Control Center
+
+As with the management of all overdosage, the possibility of multiple drug ingestion should be considered.
 Contact a poison control center for current information on the management of overdosage.

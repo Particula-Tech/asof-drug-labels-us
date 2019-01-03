@@ -8,7 +8,7 @@ Some patients have required medical therapy in the emergency department.
 If angioedema involves the tongue, glottis or larynx, airway obstruction may occur and be fatal.
 Patients who develop angioedema after treatment with ROZEREM should not be rechallenged with the drug.
 
-## 5.2 Need to Evaluate for Co-morbid Diagnoses
+## 5.2 Need to Evaluate for Comorbid Diagnoses
 
 Since sleep disturbances may be the presenting manifestation of a physical and/or psychiatric disorder, symptomatic treatment of insomnia should be initiated only after a careful evaluation of the patient.
 The failure of insomnia to remit after 7 to 10 days of treatment may indicate the presence of a primary psychiatric and/or medical illness that should be evaluated.
@@ -38,8 +38,6 @@ After taking ROZEREM, patients should confine their activities to those necessar
 Patients should be advised not to consume alcohol in combination with ROZEREM as alcohol and ROZEREM may have additive effects when used in conjunction.
 
 ## 5.5 Reproductive Effects
-
-Use in Adolescents and Children
 
 ROZEREM has been associated with an effect on reproductive hormones in adults, e.g., decreased testosterone levels and increased prolactin levels.
 It is not known what effect chronic or even chronic intermittent use of ROZEREM may have on the reproductive axis in developing humans [see Clinical Trials (14.3)].

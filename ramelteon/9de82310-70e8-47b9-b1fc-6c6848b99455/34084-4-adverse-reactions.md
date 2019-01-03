@@ -10,7 +10,7 @@ The following serious adverse reactions are discussed in greater detail in other
 
 Adverse Reactions Resulting in Discontinuation of Treatment
 
-The data described in this section reflect exposure to ROZEREM in 5373 subjects, including 722 exposed for 6 months or longer, and 448 subjects for one year.
+The data described in this section reflect exposure to ROZEREM in 5373 subjects, including 722 exposed for six months or longer, and 448 subjects for one year.
 
 Six percent of the 5373 individual subjects exposed to ROZEREM in clinical studies discontinued treatment owing to an adverse event, compared with 2% of the 2279 subjects receiving placebo.
 The most frequent adverse events leading to discontinuation in subjects receiving ROZEREM were somnolence, dizziness, nausea, fatigue, headache, and insomnia; all of which occurred in 1% of the patients or less.
