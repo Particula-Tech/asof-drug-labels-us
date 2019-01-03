@@ -4,7 +4,7 @@ In four clinical trials, adult patients were treated with PLIAGLIS or placebo pr
 Drug was applied for 20 or 30 minutes for dermatologic procedures such as dermal filler injection, pulsed dye laser therapy, and facial laser resurfacing.
 Drug was applied for 60 minutes for laser-assisted tattoo removal.
 
-Treatment with PLIAGLIS resulted in statistically significantly less pain compared to placebo treatment, as measured by a 100 mm visual analog scale (VAS).
+Treatment with PLIAGLIS resulted in statistically significantly less pain compared to placebo treatment, as measured by a 100-mm visual analog scale (VAS).
 Patient efficacy ratings are shown in Table 3.
 
 Table 3.

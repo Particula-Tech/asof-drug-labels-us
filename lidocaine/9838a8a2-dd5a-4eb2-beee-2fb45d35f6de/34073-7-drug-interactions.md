@@ -10,6 +10,16 @@ When PLIAGLIS is used concomitantly with other products containing local anesthe
 
 ## 7.3 Drugs That May Cause Methemoglobinemia When Used with PLIAGLIS
 
-Tetracaine may cause methemoglobinemia, particularly in conjunction with methemoglobin-inducing agents such as sulfonamides, acetaminophen, acetanilide, aniline dyes, benzocaine, chloroquine, dapsone, naphthalene, nitrates and nitrites, nitrofurantoin, nitroglycerin, nitroprusside, pamaquine, p- aminosalicylic acid, phenacetin, phenobarbital, phenytoin, primaquine, and quinine.
-Monitor patients carefully for signs of methemoglobinemia if PLIAGLIS is used in the setting of these drugs.
-[See Warnings and Precautions 5.4]
+Patients who are administered local anesthetics are at increased risk of developing methemoglobinemia when concurrently exposed to the following drugs, which could include other local anesthetics:
+
+Examples of Drugs Associated with Methemoglobinemia:
+
+| Class | Examples |
+| --- | --- |
+| Nitrates/Nitrites | nitric oxide, nitroglycerin, nitroprusside, nitrous oxide |
+| Local anesthetics | articaine, benzocaine, bupivacaine, lidocaine, mepivacaine, prilocaine, procaine, ropivacaine, tetracaine |
+| Antineoplastic agents | cyclophosphamide, flutamide, hydroxyurea, ifosfamide, rasburicase |
+| Antibiotics | dapsone, nitrofurantoin, para-aminosalicylic acid, sulfonamides |
+| Antimalarials | chloroquine, primaquine |
+| Anticonvulsants | phenobarbital, phenytoin, sodium valproate |
+| Other drugs | acetaminophen, metoclopramide, quinine, sulfasalazine |

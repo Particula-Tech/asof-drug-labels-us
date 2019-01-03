@@ -2,7 +2,7 @@
 
 PLIAGLIS (lidocaine and tetracaine) Cream (70 mg of lidocaine and 70 mg of tetracaine in 1 gram), 7% / 7%, appears smooth and white to off-white and is available as the following:
 
-NDC 51672-5305-2 30 gram tube
+NDC 51672-5305-2 30 gram tube (with Child Resistant Cap) with applicator
 
 Refrigerate at 2 to 8°C (36 to 46°F).
 Do not freeze.

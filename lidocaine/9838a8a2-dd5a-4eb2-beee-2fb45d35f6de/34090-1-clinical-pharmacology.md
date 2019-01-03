@@ -17,9 +17,8 @@ However, 55% of PLIAGLIS treated subjects still reported diminished sensation at
 
 Absorption: The amount of lidocaine and tetracaine systemically absorbed from PLIAGLIS is directly related to both the duration of application and the surface area over which it is applied, Table 2.
 
-Application of 59 g of PLIAGLIS over 400 cm2 for up to 120 minutes to adults produces peak plasma concentrations of lidocaine of 220 ng/mL.
+Application of 59 g of PLIAGLIS over 400 cm2 (62 inch2) for up to 120 minutes to adults produces peak plasma concentrations of lidocaine of 220 ng/mL.
 Tetracaine plasma levels were not measurable (<0.9 ng/mL).
-
 Systemic exposure to lidocaine, as measured by Cmax and AUC0-24, was proportional to the application area, and increased with application time up to 60 minutes.
 
 Table 2.
@@ -33,13 +32,13 @@ Absorption of lidocaine and tetracaine following application of PLIAGLIS
 |  |  |  |  |  | Tetracaine, 2.3 | <0.9 | na |
 | 31 | 400 | ≤ 65 | 6 | 60 | Lidocaine, 2.2 | 48 | 3.8 |
 |  |  |  |  |  | Tetracaine, 2.2 | <0.9 | na |
-| na=not applicable |  |  |  |  |  |  |  |
+| na=not applicable 400 cm2 = approximately 62 inch2 |  |  |  |  |  |  |  |
 
 Distribution: When lidocaine is administered intravenously to healthy volunteers, the steady-state volume of distribution is approximately 0.8 to 1.3 L/kg.
 At lidocaine concentrations observed following the recommended product application, approximately 75% of lidocaine is bound to plasma proteins, primarily alpha-1-acid glycoprotein.
 At much higher plasma concentrations (1 to 4 mg/mL of free base) the plasma protein binding of lidocaine is concentration dependent.
 Lidocaine crosses the placental and blood brain barriers, presumably by passive diffusion.
-CNS toxicity may typically be observed around 5000 ng/mL of lidocaine; however, a small number of patients reportedly may show signs of toxicity at approximately 1000 ng/mL [see OVERDOSAGE (10)].
+CNS toxicity may typically be observed around 5000 ng/mL of lidocaine; however, a small number of patients reportedly may show signs of toxicity at approximately 1000 ng/mL [see Overdosage (10)].
 Volume of distribution and protein binding have not been determined for tetracaine due to rapid hydrolysis in plasma.
 
 Metabolism: It is not known if lidocaine or tetracaine is metabolized in the skin.
@@ -61,7 +60,7 @@ The half-life and clearance for tetracaine has not been established for humans, 
 
 Special Populations
 
-Elderly: After application of 31g of PLIAGLIS over 400 cm2 for 60 minutes, mean peak plasma levels of lidocaine were 48 ng/mL for elderly patients (>65 years of age, mean 68.0 ± 3.2 years, n = 6).
+Elderly: After application of 31g of PLIAGLIS over 400 cm2 (62 inch2) for 60 minutes, mean peak plasma levels of lidocaine were 48 ng/mL for elderly patients (>65 years of age, mean 68.0 ± 3.2 years, n = 6).
 These levels are similar to or lower than those for younger patients receiving similar amounts of PLIAGLIS.
 
 Cardiac, Renal and Hepatic Impairment: No specific pharmacokinetic studies were conducted.

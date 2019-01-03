@@ -2,11 +2,11 @@
 
 The following adverse reactions are described elsewhere in the labeling:
 
-- Overexposure [see WARNINGS and PRECAUTIONS (5.1)]
-- Risks of Secondary Exposure in Children and Pets [see WARNINGS and PRECAUTIONS (5.2)]
-- Methemoglobinemia [see WARNINGS and PRECAUTIONS (5.3)]
-- Anaphylactic Reactions [see WARNINGS and PRECAUTIONS (5.4)]
-- Eye Irritation [see WARNINGS and PRECAUTIONS (5.5)]
+- Methemoglobinemia [see Warnings and Precautions (5.1)]
+- Overexposure [see Warnings and Precautions (5.2)]
+- Risks of Secondary Exposure in Children and Pets [see Warnings and Precautions (5.3)]
+- Anaphylactic Reactions [see Warnings and Precautions (5.4)]
+- Eye Irritation [see Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -42,6 +42,7 @@ Cardiovascular manifestations may include bradycardia, hypotension and cardiovas
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of PLIAGLIS.
+
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Eye disorders: Eyelid swelling
