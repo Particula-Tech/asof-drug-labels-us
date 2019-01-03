@@ -24,9 +24,9 @@ For CYP2D6 poor metabolizers, the mean elimination half-life for aripiprazole is
 
 Pharmacokinetic studies showed that ABILIFY DISCMELT Orally Disintegrating Tablets are bioequivalent to ABILIFY Tablets.
 
-### ORAL ADMINISTRATION
+ORAL ADMINISTRATION
 
-### Absorption
+Absorption
 
 Tablet: Aripiprazole is well absorbed after administration of the tablet, with peak plasma concentrations occurring within 3 hours to 5 hours; the absolute oral bioavailability of the tablet formulation is 87%.
 ABILIFY can be administered with or without food.
@@ -34,16 +34,16 @@ Administration of a 15 mg ABILIFY Tablet with a standard high-fat meal did not s
 
 Oral Solution: Aripiprazole is well absorbed when administered orally as the solution.
 At equivalent doses, the plasma concentrations of aripiprazole from the solution were higher than that from the tablet formulation.
-In a relative bioavailability study comparing the pharmacokinetics of 30 mg aripiprazole as the oral solution to 30 mg aripiprazole tablets in healthy subjects, the solution to tablet ratios of geometric mean Cmax and AUC values were 122% and 114%, respectively [see DOSAGE AND ADMINISTRATION (2.6)].
+In a relative bioavailability study comparing the pharmacokinetics of 30 mg aripiprazole as the oral solution to 30 mg aripiprazole tablets in healthy subjects, the solution to tablet ratios of geometric mean Cmax and AUC values were 122% and 114%, respectively [see Dosage and Administration (2.6)].
 The single-dose pharmacokinetics of aripiprazole were linear and dose-proportional between the doses of 5 mg to 30 mg.
 
-### Distribution
+Distribution
 
 The steady-state volume of distribution of aripiprazole following intravenous administration is high (404 L or 4.9 L/kg), indicating extensive extravascular distribution.
 At therapeutic concentrations, aripiprazole and its major metabolite are greater than 99% bound to serum proteins, primarily to albumin.
 In healthy human volunteers administered 0.5 to 30 mg/day aripiprazole for 14 days, there was dose-dependent D2 receptor occupancy indicating brain penetration of aripiprazole in humans.
 
-### Metabolism and Elimination
+Metabolism and Elimination
 
 Aripiprazole is metabolized primarily by three biotransformation pathways: dehydrogenation, hydroxylation, and N-dealkylation.
 Based on in vitro studies, CYP3A4 and CYP2D6 enzymes are responsible for dehydrogenation and hydroxylation of aripiprazole, and N-dealkylation is catalyzed by CYP3A4.
@@ -53,13 +53,15 @@ At steady-state, dehydro-aripiprazole, the active metabolite, represents about 4
 Following a single oral dose of [14C]-labeled aripiprazole, approximately 25% and 55% of the administered radioactivity was recovered in the urine and feces, respectively.
 Less than 1% of unchanged aripiprazole was excreted in the urine and approximately 18% of the oral dose was recovered unchanged in the feces.
 
-### Drug Interaction Studies
+Drug Interaction Studies
 
 Effects of other drugs on the exposures of aripiprazole and dehydro-aripiprazole are summarized in Figure 1 and Figure 2, respectively.
 Based on simulation, a 4.5-fold increase in mean Cmax and AUC values at steady-state is expected when extensive metabolizers of CYP2D6 are administered with both strong CYP2D6 and CYP3A4 inhibitors.
 A 3-fold increase in mean Cmax and AUC values at steady-state is expected in poor metabolizers of CYP2D6 administered with strong CYP3A4 inhibitors.
 
 Figure 1: The effects of other drugs on aripiprazole pharmacokinetics
+
+Figure 2: The effects of other drugs on dehydro-aripiprazole pharmacokinetics
 
 The effects of ABILIFY on the exposures of other drugs are summarized in Figure 3.
 A population PK analysis in patients with major depressive disorder showed no substantial change in plasma concentrations of fluoxetine (20 or 40 mg/day), paroxetine CR (37.5 or 50 mg/day), or sertraline (100 or 150 mg/day) dosed to steady-state.
@@ -68,14 +70,16 @@ The steady-state plasma concentrations of sertraline and desmethylsertraline wer
 
 Figure 3: The effects of ABILIFY on pharmacokinetics of other drugs
 
-### Studies in Specific Populations
+Studies in Specific Populations
 
 Exposures of aripiprazole and dehydro-aripiprazole in specific populations are summarized in Figure 4 and Figure 5, respectively.
 In addition, in pediatric patients (10 to 17 years of age) administered with ABILIFY (20 mg to 30 mg), the body weight corrected aripiprazole clearance was similar to the adults.
 
 Figure 4: Effects of intrinsic factors on aripiprazole pharmacokinetics
 
-### INTRAMUSCULAR ADMINISTRATION
+Figure 5: Effects of intrinsic factors on dehydro-aripiprazole pharmacokinetics
+
+INTRAMUSCULAR ADMINISTRATION
 
 In two pharmacokinetic studies of aripiprazole injection administered intramuscularly to healthy subjects, the median times to the peak plasma concentrations were at 1 hour and 3 hours.
 A 5 mg intramuscular injection of aripiprazole had an absolute bioavailability of 100%.

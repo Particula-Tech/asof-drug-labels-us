@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See Medication Guide
+Advise patient to read the FDA-approved patient labeling (Medication Guide).
 
 Discuss the following issues with patients prescribed ABILIFY:
 
@@ -8,11 +8,11 @@ Clinical Worsening of Depression and Suicide Risk
 
 Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
 Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
-Such symptoms should be reported to the patient’s prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
-Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication[see WARNINGS AND PRECAUTIONS (5.3)].
+Such symptoms should be reported to the patient's prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
+Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication [see Warnings and Precautions (5.3)].
 
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with ABILIFY and should counsel them in its appropriate use.
-A patient Medication Guide including information about “Antidepressant Medicines, Depression and other Serious Mental Illness, and Suicidal Thoughts or Actions” is available for ABILIFY.
+A patient Medication Guide including information about "Antidepressant Medicines, Depression and other Serious Mental Illness, and Suicidal Thoughts or Actions" is available for ABILIFY.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 It should be noted that ABILIFY is not approved as a single agent for treatment of depression and has not been evaluated in pediatric major depressive disorder.
@@ -20,7 +20,7 @@ It should be noted that ABILIFY is not approved as a single agent for treatment 
 Pathological Gambling and Other Compulsive Behaviors
 
 Advise patients and their caregivers of the possibility that they may experience compulsive urges to shop, intense urges to gamble, compulsive sexual urges, binge eating and/or other compulsive urges and the inability to control these urges while taking aripiprazole.
-In some cases, but not all, the urges were reported to have stopped when the dose was reduced or stopped [see WARNINGS AND PRECAUTIONS (5.7)].
+In some cases, but not all, the urges were reported to have stopped when the dose was reduced or stopped [see Warnings and Precautions (5.7)].
 
 Use of Orally Disintegrating Tablet
 
@@ -35,23 +35,28 @@ Do not attempt to split the tablet.
 
 Interference with Cognitive and Motor Performance
 
-Because ABILIFY may have the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that ABILIFY therapy does not affect them adversely [see WARNINGS AND PRECAUTIONS (5.12)].
+Because ABILIFY may have the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that ABILIFY therapy does not affect them adversely [see Warnings and Precautions (5.12)].
 
 Nursing
 
-Advise patients that breastfeeding is not recommended with ABILIFY treatment because of the potential for serious adverse reactions in a nursing infant [see USE IN SPECIFIC POPULATIONS (8.3)].
+Advise patients that breastfeeding is not recommended with ABILIFY treatment because of the potential for serious adverse reactions in a nursing infant [see Use in Specific Populations (8.3)].
 
 Concomitant Medication
 
-Patients should be advised to inform their physicians if they are taking, or plan to take, any prescription or over-the-counter drugs, since there is a potential for interactions [see DRUG INTERACTIONS (7)].
+Patients should be advised to inform their physicians if they are taking, or plan to take, any prescription or over-the-counter drugs, since there is a potential for interactions [see Drug Interactions (7)].
 
 Heat Exposure and Dehydration
 
-Patients should be advised regarding appropriate care in avoiding overheating and dehydration [see WARNINGS AND PRECAUTIONS (5.13)].
+Patients should be advised regarding appropriate care in avoiding overheating and dehydration [see Warnings and Precautions (5.13)].
 
 Sugar Content
 
 Patients should be advised that each mL of ABILIFY Oral Solution contains 400 mg of sucrose and 200 mg of fructose.
+
+Pregnancy
+
+Advise patients that ABILIFY may cause extrapyramidal and/or withdrawal symptoms in a neonate and to notify their healthcare provider with a known or suspected pregnancy.
+Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ABILIFY during pregnancy [see Use in Specific Populations (8.1)].
 
 Phenylketonurics
 
@@ -61,11 +66,3 @@ Each ABILIFY DISCMELT Orally Disintegrating Tablet contains the following amount
 Tablets manufactured by Otsuka Pharmaceutical Co., Ltd., Tokyo, 101-8535 Japan
 
 Orally Disintegrating Tablets, Oral Solution, and Injection manufactured by Bristol-Myers Squibb Company, Princeton, NJ 08543 USA
-
-Distributed and marketed by Otsuka America Pharmaceutical, Inc., Rockville, MD 20850 USA
-
-ABILIFY is a trademark of Otsuka Pharmaceutical Company.
-
-Rev 02/2017
-
-© 2017, Otsuka Pharmaceutical Co., Ltd., Tokyo, 101-8535 Japan

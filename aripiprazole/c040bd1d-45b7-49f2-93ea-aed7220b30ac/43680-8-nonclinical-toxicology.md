@@ -17,14 +17,14 @@ However, increases in serum prolactin levels were observed in female mice in a 1
 Serum prolactin was not increased in female rats in 4-week and 13-week dietary studies at the dose associated with mammary gland tumors.
 The relevance for human risk of the findings of prolactin-mediated endocrine tumors in rodents is unknown.
 
-### Mutagenesis
+Mutagenesis
 
 The mutagenic potential of aripiprazole was tested in the in vitro bacterial reverse-mutation assay, the in vitro bacterial DNA repair assay, the in vitro forward gene mutation assay in mouse lymphoma cells, the in vitro chromosomal aberration assay in Chinese hamster lung (CHL) cells, the in vivo micronucleus assay in mice, and the unscheduled DNA synthesis assay in rats.
 Aripiprazole and a metabolite (2,3-DCPP) were clastogenic in the in vitro chromosomal aberration assay in CHL cells with and without metabolic activation.
 The metabolite, 2,3-DCPP, produced increases in numerical aberrations in the in vitro assay in CHL cells in the absence of metabolic activation.
 A positive response was obtained in the in vivo micronucleus assay in mice; however, the response was due to a mechanism not considered relevant to humans.
 
-### Impairment of Fertility
+Impairment of Fertility
 
 Female rats were treated with oral doses of 2, 6, and 20 mg/kg/day (0.6, 2, and 6 times the maximum recommended human dose [MRHD] on a mg/m 2 basis) of aripiprazole from 2 weeks prior to mating through day 7 of gestation.
 Estrus cycle irregularities and increased corpora lutea were seen at all doses, but no impairment of fertility was seen.
