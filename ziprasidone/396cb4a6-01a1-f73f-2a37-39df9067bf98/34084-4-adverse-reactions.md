@@ -6,7 +6,8 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Clinical trials for oral ziprasidone included approximately 5700 patients and/or normal subjects exposed to one or more doses of ziprasidone.
 Of these 5700, over 4800 were patients who participated in multiple-dose effectiveness trials, and their experience corresponded to approximately 1831 patient-years.
-These patients include: (1) 4331 patients who participated in multiple-dose trials, predominantly in schizophrenia, representing approximately 1698 patient-years of exposure as of February 5, 2000.
+These patients include: (1) 4331 patients who participated in multiple-dose trials, predominantly in schizophrenia, representing approximately 1698 patient-years of exposure as of February 5, 2000; and (2) 472 patients who participated in bipolar mania trials representing approximately 133 patient-years of exposure.
+An additional 127 patients with bipolar disorder participated in a long-term maintenance treatment study representing approximately 74.7 patient-years of exposure to ziprasidone.
 The conditions and duration of treatment with ziprasidone included open-label and double-blind studies, inpatient and outpatient studies and short-term and longer-term exposure.
 
 Adverse reactions during exposure were obtained by collecting voluntarily reported adverse experiences, as well as results of physical examinations, vital signs, weights, laboratory analyses, ECGs, and results of ophthalmologic examinations.
@@ -14,20 +15,41 @@ Adverse reactions during exposure were obtained by collecting voluntarily report
 The stated frequencies of adverse reactions represent the proportion of individuals who experienced, at least once, a treatment-emergent adverse reaction of the type listed.
 A reaction was considered treatment emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation.
 
-Adverse Findings Observed in Short-Term, Placebo-Controlled Trials with Oral Ziprasidone The following findings are based on the short-term placebo-controlled premarketing trials for schizophrenia (a pool of two 6-week, and two 4-week fixed-dose trials) in which ziprasidone was administered in doses ranging from 10 to 200 mg/day.
+Adverse Findings Observed in Short-Term, Placebo-Controlled Trials with Oral Ziprasidone
 
-Commonly Observed Adverse Reactions in Short Term-Placebo-Controlled Trials The following adverse reactions were the most commonly observed adverse reactions associated with the use of ziprasidone (incidence of 5% or greater) and not observed at an equivalent incidence among placebo-treated patients (ziprasidone incidence at least twice that for placebo):
+The following findings are based on the short-term placebo-controlled premarketing trials for schizophrenia (a pool of two 6-week, and two 4-week fixed-dose trials) and bipolar mania (a pool of two 3-week flexible-dose trials) in which ziprasidone was administered in doses ranging from 10 to 200 mg/day.
 
-Schizophrenia trials (see Table 6)
+Commonly Observed Adverse Reactions in Short Term-Placebo-Controlled Trials
+
+The following adverse reactions were the most commonly observed adverse reactions associated with the use of ziprasidone (incidence of 5% or greater) and not observed at an equivalent incidence among placebo-treated patients (ziprasidone incidence at least twice that for placebo):
+
+Schizophrenia trials (see Table 11)
 
 • Somnolence
 
 • Respiratory Tract Infection
 
+Bipolar trials (see Table 12)
+
+• Somnolence
+
+• Extrapyramidal Symptoms which includes the following adverse reaction terms: extrapyramidal syndrome, hypertonia, dystonia, dyskinesia, hypokinesia, tremor, paralysis and twitching.
+None of these adverse reactions occurred individually at an incidence greater than 10% in bipolar mania trials.
+
+• Dizziness which includes the adverse reaction terms dizziness and lightheadedness.
+
+• Akathisia
+
+• Abnormal Vision
+
+• Asthenia
+
+• Vomiting
+
 SCHIZOPHRENIA
 
 Adverse Reactions Associated with Discontinuation of Treatment in Short-Term, Placebo-Controlled Trials of Oral Ziprasidone Approximately 4.1% (29/702) of ziprasidone-treated patients in short-term, placebo-controlled studies discontinued treatment due to an adverse reaction, compared with about 2.2% (6/273) on placebo.
-The most common reaction associated with dropout was rash, including 7 dropouts for rash among ziprasidone patients (1%) compared to no placebo patients [See Warnings and Precautions (5.7)].
+The most common reaction associated with dropout was rash, including 7 dropouts for rash among ziprasidone patients (1%) compared to no placebo patients [see Warnings and Precautions (5.8)].
 
 Adverse Reactions Occurring at an Incidence of 2% or More among Ziprasidone-Treated Patients in Short-Term, Oral, Placebo-Controlled Trials
 
@@ -44,8 +66,8 @@ Table 11: Treatment-Emergent Adverse Reaction Incidence In Short-Term Oral Place
 | Chest Pain | 3 | 2 |
 | Cardiovascular |  |  |
 | Tachycardia | 2 | 1 |
-| Digestive | 10 | 7 |
-| Nausea |  |  |
+| Digestive |  |  |
+| Nausea | 10 | 7 |
 | Constipation | 9 | 8 |
 | Dyspepsia | 8 | 7 |
 | Diarrhea | 5 | 4 |
@@ -81,9 +103,9 @@ Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to t
 While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic drugs.
 An elevated risk of acute dystonia is observed in males and younger age groups.
 
-Vital Sign Changes -Ziprasidone is associated with orthostatic hypotension [see Warnings and Precautions (5.8)]
+Vital Sign Changes -Ziprasidone is associated with orthostatic hypotension [see Warnings and Precautions (5.9)]
 
-ECG Changes -Ziprasidone is associated with an increase in the QTc interval [see Warnings and Precautions (5.2)].
+ECG Changes -Ziprasidone is associated with an increase in the QTc interval [see Warnings and Precautions (5.3)].
 In the schizophrenia trials, ziprasidone was associated with a mean increase in heart rate of 1.4 beats per minute compared to a 0.2 beats per minute decrease among placebo patients.
 
 Other Adverse Reactions Observed During the Premarketing Evaluation of Oral Ziprasidone
@@ -178,9 +200,62 @@ Infrequent impotence, abnormal ejaculation, amenorrhea, hematuria, menorrhagia, 
 
 Rare gynecomastia, vaginal hemorrhage, nocturia, oliguria, female sexual dysfunction, uterine hemorrhage
 
+BIPOLAR DISORDER
+
+Acute Treatment of Manic or Mixed Episodes
+
+Adverse Reactions Associated with Discontinuation of Treatment in Short Term, Placebo-Controlled Trials Approximately 6.5% (18/279) of ziprasidone-treated patients in short-term, placebo-controlled studies discontinued treatment due to an adverse reaction, compared with about 3.7% (5/136) on placebo.
+The most common reactions associated with dropout in the ziprasidone-treated patients were akathisia, anxiety, depression, dizziness, dystonia, rash and vomiting, with 2 dropouts for each of these reactions among ziprasidone patients (1%) compared to one placebo patient each for dystonia and rash (1%) and no placebo patients for the remaining adverse reactions.
+
+Adverse Reactions Occurring at an Incidence of 2% or More Among Ziprasidone-Treated Patients in Short-Term, Oral, Placebo-Controlled Trials
+
+Table 12 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse reactions that occurred during acute therapy (up to 3 weeks) in patients with bipolar mania, including only those reactions that occurred in 2% or more of patients treated with ziprasidone and for which the incidence in patients treated with ziprasidone was greater than the incidence in placebo-treated patients.
+
+Table 12: Treatment-Emergent Adverse Reactions Incidence In Short-Term Oral Placebo-Controlled Trials – Manic and Mixed Episodes Associated with Bipolar Disorder
+
+|  | Percentage of Patients Reporting Reaction |  |
+| --- | --- | --- |
+| Body System/Adverse Reaction | Ziprasidone(N=279) | Placebo(N=136) |
+| Body as a Whole |  |  |
+| Headache | 18 | 17 |
+| Asthenia | 6 | 2 |
+| Accidental Injury | 4 | 1 |
+| Cardiovascular |  |  |
+| Hypertension | 3 | 2 |
+| Digestive |  |  |
+| Nausea | 10 | 7 |
+| Diarrhea | 5 | 4 |
+| Dry Mouth | 5 | 4 |
+| Vomiting | 5 | 2 |
+| Increased Salivation | 4 | 0 |
+| Tongue Edema | 3 | 1 |
+| Dysphagia | 2 | 0 |
+| Musculoskeletal |  |  |
+| Myalgia | 2 | 0 |
+| Nervous |  |  |
+| Somnolence | 31 | 12 |
+| Extrapyramidal Symptoms* | 31 | 12 |
+| Dizziness** | 16 | 7 |
+| Akathisia | 10 | 5 |
+| Anxiety | 5 | 4 |
+| Hypesthesia | 2 | 1 |
+| Speech Disorder | 2 | 0 |
+| Respiratory |  |  |
+| Pharyngitis | 3 | 1 |
+| Dyspnea | 2 | 1 |
+| Skin and Appendages |  |  |
+| Fungal Dermatitis | 2 | 1 |
+| Special Senses |  |  |
+| Abnormal Vision | 6 | 3 |
+
+* Extrapyramidal Symptoms includes the following adverse reaction terms: extrapyramidal syndrome, hypertonia, dystonia, dyskinesia, hypokinesia, tremor, paralysis and twitching.
+None of these adverse reactions occurred individually at an incidence greater than 10% in bipolar mania trials. ** Dizziness includes the adverse reaction terms dizziness and lightheadedness.
+
+Explorations for interactions on the basis of gender did not reveal any clinically meaningful differences in the adverse reaction occurrence on the basis of this demographic factor.
+
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post approval use of ziprasidone.
+The following adverse reactions have been identified during post-approval use of ziprasidone.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Adverse reaction reports not listed above that have been received since market introduction include rare occurrences of the following: Cardiac Disorders: Tachycardia, torsade de pointes (in the presence of multiple confounding factors), [See Warnings and Precautions (5.2)]; Digestive System Disorders: Swollen Tongue; Reproductive System and Breast Disorders: Galactorrhea, priapism; Nervous System Disorders: Facial Droop, neuroleptic malignant syndrome, serotonin syndrome (alone or in combination with serotonergic medicinal products), tardive dyskinesia; Psychiatric Disorders: Insomnia, mania/hypomania; Skin and subcutaneous Tissue Disorders: Allergic reaction (such as allergic dermatitis, angioedema, orofacial edema, urticaria), rash; Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS); Urogenital System Disorders: Enuresis, urinary incontinence; Vascular Disorders: Postural hypotension, syncope.
+Adverse reaction reports not listed above that have been received since market introduction include rare occurrences of the following: Cardiac Disorders: Tachycardia, torsade de pointes (in the presence of multiple confounding factors), [see Warnings and Precautions (5.3)]; Digestive System Disorders: Swollen Tongue; Reproductive System and Breast Disorders: Galactorrhea, priapism; Nervous System Disorders: Facial Droop, neuroleptic malignant syndrome, serotonin syndrome (alone or in combination with serotonergic medicinal products), tardive dyskinesia; Psychiatric Disorders: Insomnia, mania/hypomania; Skin and subcutaneous Tissue Disorders: Allergic reaction (such as allergic dermatitis, angioedema, orofacial edema, urticaria), rash; Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS); Urogenital System Disorders: Enuresis, urinary incontinence; Vascular Disorders: Postural hypotension, syncope.

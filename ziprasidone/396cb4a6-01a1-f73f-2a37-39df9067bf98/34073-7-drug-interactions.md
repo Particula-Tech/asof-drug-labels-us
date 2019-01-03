@@ -28,7 +28,7 @@ Ziprasidone may antagonize the effects of levodopa and dopamine agonists.
 
 ## 7.4 Pharmacokinetic Interactions
 
-- Carbamazepine
+Carbamazepine
 
 Carbamazepine is an inducer of CYP3A4; administration of 200 mg twice daily for 21 days resulted in a decrease of approximately 35% in the AUC of ziprasidone.
 This effect may be greater when higher doses of carbamazepine are administered.
@@ -38,17 +38,18 @@ Ketoconazole
 Ketoconazole, a potent inhibitor of CYP3A4, at a dose of 400 mg QD for 5 days, increased the AUC and Cmax of ziprasidone by about 35 to 40%.
 Other inhibitors of CYP3A4 would be expected to have similar effects.
 
-- Cimetidine
+Cimetidine
 
 Cimetidine at a dose of 800 mg QD for 2 days did not affect ziprasidone pharmacokinetics.
 
-- Antacid
+Antacid
 
 The co-administration of 30 mL of Maalox® with ziprasidone did not affect the pharmacokinetics of ziprasidone.
 
 ## 7.5 Lithium
 
 Ziprasidone at a dose of 40 mg twice daily administered concomitantly with lithium at a dose of 450 mg twice daily for 7 days did not affect the steady-state level or renal clearance of lithium.
+Ziprasidone dosed adjunctively to lithium in a maintenance trial of bipolar patients did not affect mean therapeutic lithium levels.
 
 ## 7.6 Oral Contraceptives
 
@@ -63,6 +64,7 @@ There was no statistically significant change in the urinary dextromethorphan/de
 ## 7.8 Valproate
 
 A pharmacokinetic interaction of ziprasidone with valproate is unlikely due to the lack of common metabolic pathways for the two drugs.
+Ziprasidone dosed adjunctively to valproate in a maintenance trial of bipolar patients did not affect mean therapeutic valproate levels.
 
 ## 7.9 Other Concomitant Drug Therapy
 
