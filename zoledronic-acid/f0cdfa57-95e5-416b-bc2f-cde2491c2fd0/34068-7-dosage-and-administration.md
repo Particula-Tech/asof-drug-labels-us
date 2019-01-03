@@ -29,9 +29,9 @@ The optimal duration of therapy is not known.
 
 Upon treatment initiation, the recommended Zometa doses for patients with reduced renal function (mild and moderate renal impairment) are listed in Table 1.
 These doses are calculated to achieve the same area under the curve (AUC) as that achieved in patients with creatinine clearance of 75 mL/min.
-CrCl is calculated using the Cockcroft-Gault formula [see Warnings and Precautions (5.2)].
+Creatinine clearance is calculated using the Cockcroft-Gault formula [see Warnings and Precautions (5.2)].
 
-Table 1: Reduced Doses for Patients with Baseline CrCl Less than or Equal to 60 mL/min
+Table 1: Reduced Doses for Patients With Baseline CrCl Less Than or Equal to 60 mL/min
 
 | Baseline Creatinine Clearance (mL/min) | Zometa Recommended Dose (mg)* |
 | --- | --- |
@@ -39,7 +39,7 @@ Table 1: Reduced Doses for Patients with Baseline CrCl Less than or Equal to 60 
 | 50-60 | 3.5 |
 | 40-49 | 3.3 |
 | 30-39 | 3 |
-| *Doses calculated assuming target AUC of 0.66(mg•hr/L) (CrCl=75 mL/min) |  |
+| *Doses calculated assuming target AUC of 0.66 (mg•hr/L) (CrCl = 75 mL/min). |  |
 
 During treatment, serum creatinine should be measured before each Zometa dose and treatment should be withheld for renal deterioration.
 In the clinical studies, renal deterioration was defined as follows: For patients with normal baseline creatinine, increase of 0.5 mg/dL For patients with abnormal baseline creatinine, increase of 1.0 mg/dL
@@ -53,7 +53,7 @@ Patients should also be administered an oral calcium supplement of 500 mg and a 
 
 Zometa must not be mixed with calcium or other divalent cation-containing infusion solutions, such as Lactated Ringer’s solution, and should be administered as a single intravenous solution in a line separate from all other drugs.
 
-4 mg per 100 mL Single-Use Ready-to-Use Bottle
+4 mg/100 mL Single-Dose Ready-to-use Bottle
 
 Bottles of Zometa ready-to-use solution for infusion contain overfill allowing for the administration of 100 mL of solution (equivalent to 4 mg zoledronic acid).
 This solution is ready-to-use and may be administered directly to the patient without further preparation.
@@ -64,37 +64,37 @@ Administer the newly-prepared dose-adjusted solution to the patient by infusion.
 Follow proper aseptic technique.
 Properly discard previously withdrawn volume of ready-to-use solution - do not store or reuse.
 
-Table 2: Preparation of Reduced Doses–Zometa Ready-to-Use Bottle
+Table 2: Preparation of Reduced Doses–Zometa Ready-to-use Bottle
 
-| Remove and discard the following Zometa ready-to-use solution (mL) | Replace with the following volume of sterile 0.9% Sodium Chloride, USP or 5% Dextrose Injection, USP (mL) | Dose (mg) |
+| Remove and Discard the Following Zometa Ready-to-use Solution (mL) | Replace With the Following Volume of Sterile 0.9% Sodium Chloride, USP or 5% Dextrose Injection, USP (mL) | Dose (mg) |
 | --- | --- | --- |
 | 12.0 | 12.0 | 3.5 |
 | 18.0 | 18.0 | 3.3 |
 | 25.0 | 25.0 | 3.0 |
 
-If not used immediately after dilution with infusion media, for microbiological integrity, the solution should be refrigerated at 2°C–8°C (36°F–46°F).
+If not used immediately after dilution with infusion media, for microbiological integrity, the solution should be refrigerated at 2°C to 8°C (36°F–46°F).
 The refrigerated solution should then be equilibrated to room temperature prior to administration.
 The total time between dilution, storage in the refrigerator, and end of administration must not exceed 24 hours.
 
-4 mg per 5 mL Single-Use Vial
+4 mg/5 mL Single-Dose Vial for Dilution Prior to Intravenous Infusion
 
-Vials of Zometa concentrate for infusion contain overfill allowing for the withdrawal of 5 mL of concentrate (equivalent to 4 mg zoledronic acid).
-This concentrate should immediately be diluted in 100 mL of sterile 0.9% Sodium Chloride, USP, or 5% Dextrose Injection, USP, following proper aseptic technique, and administered to the patient by infusion.
-Do not store undiluted concentrate in a syringe, to avoid inadvertent injection.
+Zometa 4 mg/5 mL vial for dilution prior to intravenous infusion contains an overfill to allow withdrawal of 5 mL (equivalent to 4 mg zoledronic acid).
+Zometa (4 mg/5 mL) should immediately be diluted in 100 mL of sterile 0.9% Sodium Chloride, USP, or 5% Dextrose Injection, USP, following proper aseptic technique, and administered to the patient by intravenous infusion.
+Do not store undiluted Zometa (4 mg/5 mL) in a syringe, to avoid inadvertent injection.
 
-To prepare reduced doses for patients with baseline CrCl less than or equal to 60 mL/min, withdraw the specified volume of the Zometa concentrate from the vial for the dose required (see Table 3).
+To prepare reduced doses for patients with baseline CrCl less than or equal to 60 mL/min, withdraw the specified volume of the Zometa (4 mg/5 mL) from the vial for the dose required (see Table 3).
 
-Table 3: Preparation of Reduced Doses–Zometa Concentrate
+Table 3: Preparation of Reduced Doses–Zometa 4 mg/5 mL Single-Dose Vial for Dilution
 
-| Remove and Use Zometa Volume (mL) | Dose (mg) |
+| Remove and use Zometa Volume (mL) | Dose (mg) |
 | --- | --- |
 | 4.4 | 3.5 |
 | 4.1 | 3.3 |
 | 3.8 | 3.0 |
 
-The withdrawn concentrate must be diluted in 100 mL of sterile 0.9% Sodium Chloride, USP, or 5% Dextrose Injection, USP.
+The withdrawn Zometa (4mg/5 mL) solution must be diluted in 100 mL of sterile 0.9% Sodium Chloride, USP, or 5% Dextrose Injection, USP.
 
-If not used immediately after dilution with infusion media, for microbiological integrity, the solution should be refrigerated at 2°C-8°C (36°F-46°F).
+If not used immediately after dilution with infusion media, for microbiological integrity, the solution should be refrigerated at 2°C to 8°C (36°F-46°F).
 The refrigerated solution should then be equilibrated to room temperature prior to administration.
 The total time between dilution, storage in the refrigerator, and end of administration must not exceed 24 hours.
 

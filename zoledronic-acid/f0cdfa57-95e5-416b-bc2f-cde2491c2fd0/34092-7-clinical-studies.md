@@ -5,20 +5,20 @@
 Two identical multicenter, randomized, double-blind, double-dummy studies of Zometa 4 mg given as a 5-minute intravenous infusion or pamidronate 90 mg given as a 2-hour intravenous infusion were conducted in 185 patients with hypercalcemia of malignancy (HCM).
 NOTE: Administration of Zometa 4 mg given as a 5-minute intravenous infusion has been shown to result in an increased risk of renal toxicity, as measured by increases in serum creatinine, which can progress to renal failure.
 The incidence of renal toxicity and renal failure has been shown to be reduced when Zometa 4 mg is given as a 15-minute intravenous infusion.
-Zometa should be administered by intravenous infusion over no less than 15 minutes [see Warnings and Precautions (5.1, 5.2) and Dosage and Administration (2.4)].
+Zometa should be administered by intravenous infusion over no less than 15 minutes [see Warnings and Precautions (5.1, 5.2), Dosage and Administration (2.4)].
 The treatment groups in the clinical studies were generally well balanced with regards to age, sex, race, and tumor types.
 The mean age of the study population was 59 years; 81% were Caucasian, 15% were Black, and 4% were of other races.
-60% of the patients were male.
+Sixty percent (60%) of the patients were male.
 The most common tumor types were lung, breast, head and neck, and renal.
 
 In these studies, HCM was defined as a corrected serum calcium (CSC) concentration of greater than or equal to 12.0 mg/dL (3.00 mmol/L).
 The primary efficacy variable was the proportion of patients having a complete response, defined as the lowering of the CSC to less than or equal to 10.8 mg/dL (2.70 mmol/L) within 10 days after drug infusion.
 
-To assess the effects of Zometa versus those of pamidronate, the two multicenter HCM studies were combined in a preplanned analysis.
-The results of the primary analysis revealed that the proportion of patients that had normalization of corrected serum calcium by Day 10 were 88% and 70% for Zometa 4 mg and pamidronate 90 mg, respectively (P=0.002) (see Figure 1).
+To assess the effects of Zometa versus those of pamidronate, the two multi-center HCM studies were combined in a preplanned analysis.
+The results of the primary analysis revealed that the proportion of patients that had normalization of corrected serum calcium by Day 10 were 88% and 70% for Zometa 4 mg and pamidronate 90 mg, respectively (P = 0.002) (see Figure 1).
 In these studies, no additional benefit was seen for Zometa 8 mg over Zometa 4 mg; however, the risk of renal toxicity of Zometa 8 mg was significantly greater than that seen with Zometa 4 mg.
 
-Figure 1
+Figure 1: Proportion of Complete Responders by Day 10 in Pooled HCM Studies
 
 Secondary efficacy variables from the pooled HCM studies included the proportion of patients who had normalization of corrected serum calcium (CSC) by Day 4; the proportion of patients who had normalization of CSC by Day 7; time to relapse of HCM; and duration of complete response.
 Time to relapse of HCM was defined as the duration (in days) of normalization of serum calcium from study drug infusion until the last CSC value less than 11.6 mg/dL (less than 2.90 mmol/L).
@@ -69,26 +69,26 @@ Change in antineoplastic therapy due to increased pain was a SRE in the prostate
 Planned analyses included the proportion of patients with a SRE during the study and time to the first SRE.
 Results for the two Zometa placebo-controlled studies are given in Table 13.
 
-Table 13: Zometa Compared to Placebo in Patients with Bone Metastases from Prostate Cancer or Other Solid Tumors
+Table 13: Zometa Compared to Placebo in Patients With Bone Metastases from Prostate Cancer or Other Solid Tumors
 
 |  | I. Analysis of Proportion of Patients with a SRE1 |  |  |  | II. Analysis of Time to the First SRE |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Study | Study Arm & Patient Number | Proportion | Difference2 & 95% CI | P-value | Median (Days) | Hazard Ratio3 & 95% CI | P-value |
-| Prostate Cancer | Zometa 4 mg (n=214) | 33% | -11% (-20%, -1%) | 0.02 | Not Reached | 0.67 (0.49, 0.91) | 0.011 |
-|  | Placebo (n=208) | 44% |  |  | 321 |  |  |
-| Solid Tumors | Zometa 4 mg (n=257) | 38% | -7% (-15%, 2%) | 0.13 | 230 | 0.73 (0.55, 0.96) | 0.023 |
-|  | Placebo (n=250) | 44% |  |  | 163 |  |  |
-| 1SRE=Skeletal-Related Event 2Difference for the proportion of patients with a SRE of Zometa 4 mg versus placebo. 3Hazard ratio for the first occurrence of a SRE of Zometa 4 mg versus placebo. |  |  |  |  |  |  |  |
+| Prostate Cancer | Zometa 4 mg (n = 214) | 33% | -11% (-20%, -1%) | 0.02 | Not Reached | 0.67 (0.49, 0.91) | 0.011 |
+|  | Placebo (n = 208) | 44% |  |  | 321 |  |  |
+| Solid Tumors | Zometa 4 mg (n = 257) | 38% | -7% (-15%, 2%) | 0.13 | 230 | 0.73 (0.55, 0.96) | 0.023 |
+|  | Placebo (n = 250) | 44% |  |  | 163 |  |  |
+| 1SRE = Skeletal-Related Event. 2Difference for the proportion of patients with a SRE of Zometa 4 mg versus placebo. 3Hazard ratio for the first occurrence of a SRE of Zometa 4 mg versus placebo. |  |  |  |  |  |  |  |
 
 In the breast cancer and myeloma trial, efficacy was determined by a noninferiority analysis comparing Zometa to pamidronate 90 mg for the proportion of patients with a SRE.
 This analysis required an estimation of pamidronate efficacy.
-Historical data from 1,128 patients in three pamidronate placebo-controlled trials demonstrated that pamidronate decreased the proportion of patients with a SRE by 13.1% (95% CI=7.3%, 18.9%).
+Historical data from 1,128 patients in three pamidronate placebo-controlled trials demonstrated that pamidronate decreased the proportion of patients with a SRE by 13.1% (95% CI = 7.3%, 18.9%).
 Results of the comparison of treatment with Zometa compared to pamidronate are given in Table 14.
 
-Table 14: Zometa Compared to Pamidronate in Patients with Multiple Myeloma or Bone Metastases from Breast Cancer
+Table 14: Zometa Compared to Pamidronate in Patients With Multiple Myeloma or Bone Metastases from Breast Cancer
 
 |  | I. Analysis of Proportion of Patients with a SRE1 |  |  |  | II. Analysis of Time to the First SRE |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Study | Study Arm & Patient Number | Proportion | Difference2 & 95% CI | P-value | Median (Days) | Hazard Ratio3 & 95% CI | P-value |
-| Multiple Myeloma & Breast Cancer | Zometa 4 mg (n=561) Pamidronate (n=555) | 44% 46% | -2% (-7.9%, 3.7%) | 0.46 | 373 363 | 0.92 (0.77, 1.09) | 0.32 |
-| 1SRE=Skeletal-Related Event 2Difference for the proportion of patients with a SRE of Zometa 4 mg versus pamidronate 90 mg. 3Hazard ratio for the first occurrence of a SRE of Zometa 4 mg versus pamidronate 90 mg. |  |  |  |  |  |  |  |
+| Multiple Myeloma & Breast Cancer | Zometa 4 mg (n = 561) Pamidronate (n = 555) | 44% 46% | -2% (-7.9%, 3.7%) | 0.46 | 373 363 | 0.92 (0.77, 1.09) | 0.32 |
+| 1SRE = Skeletal-Related Event. 2Difference for the proportion of patients with a SRE of Zometa 4 mg versus pamidronate 90 mg. 3Hazard ratio for the first occurrence of a SRE of Zometa 4 mg versus pamidronate 90 mg. |  |  |  |  |  |  |  |

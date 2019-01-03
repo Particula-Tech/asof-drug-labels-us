@@ -6,7 +6,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Hypercalcemia of Malignancy
 
-The safety of Zometa was studied in 185 patients with hypercalcemia of malignancy (HCM) who received either Zometa 4 mg given as a 5-minute intravenous infusion (n=86) or pamidronate 90 mg given as a 2-hour intravenous infusion (n=103).
+The safety of Zometa was studied in 185 patients with hypercalcemia of malignancy (HCM) who received either Zometa 4 mg given as a 5-minute intravenous infusion (n = 86) or pamidronate 90 mg given as a 2-hour intravenous infusion (n = 103).
 The population was aged 33-84 years, 60% male and 81% Caucasian, with breast, lung, head and neck, and renal cancer as the most common forms of malignancy.
 NOTE: pamidronate 90 mg was given as a 2-hour intravenous infusion.
 The relative safety of pamidronate 90 mg given as a 2-hour intravenous infusion compared to the same dose given as a 24-hour intravenous infusion has not been adequately studied in controlled clinical trials.
@@ -22,7 +22,7 @@ The most frequently observed adverse events were fever, nausea, constipation, an
 Table 4 provides adverse events that were reported by 10% or more of the 189 patients treated with Zometa 4 mg or pamidronate 90 mg from the two HCM trials.
 Adverse events are listed regardless of presumed causality to study drug.
 
-Table 4: Percentage of Patients with Adverse Events greater than or equal to 10% Reported in Hypercalcemia of Malignancy Clinical Trials by Body System
+Table 4: Percentage of Patients With Adverse Events Greater Than or Equal to 10% Reported in Hypercalcemia of Malignancy Clinical Trials by Body System
 
 |  | Zometa |  | Pamidronate |  |
 | --- | --- | --- | --- | --- |
@@ -64,7 +64,7 @@ Table 4: Percentage of Patients with Adverse Events greater than or equal to 10%
 | Urogenital |  |  |  |  |
 | Urinary Tract Infection | 12 | (14) | 15 | (15) |
 
-The following adverse events from the two controlled multicenter HCM trials (n=189) were reported by a greater percentage of patients treated with Zometa 4 mg than with pamidronate 90 mg and occurred with a frequency of greater than or equal to 5% but less than 10%.
+The following adverse events from the two controlled multicenter HCM trials (n = 189) were reported by a greater percentage of patients treated with Zometa 4 mg than with pamidronate 90 mg and occurred with a frequency of greater than or equal to 5% but less than 10%.
 Adverse events are listed regardless of presumed causality to study drug: asthenia, chest pain, leg edema, mucositis, dysphagia, granulocytopenia, thrombocytopenia, pancytopenia, nonspecific infection, hypocalcemia, dehydration, arthralgias, headache and somnolence.
 
 Rare cases of rash, pruritus, and chest pain have been reported following treatment with Zometa.
@@ -81,7 +81,7 @@ Electrolyte abnormalities, most commonly hypocalcemia, hypophosphatemia, and hyp
 
 Grade 3 and Grade 4 laboratory abnormalities for serum creatinine, serum calcium, serum phosphorus, and serum magnesium observed in two clinical trials of Zometa in patients with HCM are shown in Table 5 and 6.
 
-Table 5: Grade 3 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, Serum Phosphorus, and Serum Magnesium in Two Clinical Trials in Patients with HCM
+Table 5: Grade 3 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, Serum Phosphorus, and Serum Magnesium in Two Clinical Trials in Patients With HCM
 
 |  | Grade 3 |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -91,20 +91,21 @@ Table 5: Grade 3 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, S
 | Serum Creatinine1 | 2/86 | (2%) | 3/100 | (3%) |
 | Hypocalcemia2 | 1/86 | (1%) | 2/100 | (2%) |
 | Hypophosphatemia3 | 36/70 | (51%) | 27/81 | (33%) |
-| Hypomagnesemia4 | 0/71 | — | 0/84 | — |
+| Hypomagnesemia4 | 0/71 | 0 | 0/84 | 0 |
+| 1Grade 3 (greater than 3x Upper Limit of Normal); Grade 4 (greater than 6x Upper Limit of Normal). 2Grade 3 (less than 7 mg/dL); Grade 4 (less than 6 mg/dL). 3Grade 3 (less than 2 mg/dL); Grade 4 (less than 1 mg/dL). 4Grade 3 (less than 0.8 mEq/L); Grade 4 (less than 0.5 mEq/L). |  |  |  |  |
 
-Table 6: Grade 4 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, Serum Phosphorus, and Serum Magnesium in Two Clinical Trials in Patients with HCM
+Table 6: Grade 4 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, Serum Phosphorus, and Serum Magnesium in Two Clinical Trials in Patients With HCM
 
 |  | Grade 4 |  |  |  |
 | --- | --- | --- | --- | --- |
 | Laboratory Parameter | Zometa |  | Pamidronate |  |
 |  | 4 mg |  | 90 mg |  |
 |  | n/N | (%) | n/N | (%) |
-| Serum Creatinine1 | 0/86 | — | 1/100 | (1%) |
-| Hypocalcemia2 | 0/86 | — | 0/100 | — |
+| Serum Creatinine1 | 0/86 | 0 | 1/100 | (1%) |
+| Hypocalcemia2 | 0/86 | 0 | 0/100 | 0 |
 | Hypophosphatemia3 | 1/70 | (1%) | 4/81 | (5%) |
-| Hypomagnesemia4 | 0/71 | — | 1/84 | (1%) |
-| 1Grade 3 (greater than 3x Upper Limit of Normal); Grade 4 (greater than 6x Upper Limit of Normal) 2Grade 3 (less than 7 mg/dL); Grade 4 (less than 6 mg/dL) 3Grade 3 (less than 2 mg/dL); Grade 4 (less than 1 mg/dL) 4Grade 3 (less than 0.8 mEq/L); Grade 4 (less than 0.5 mEq/L) |  |  |  |  |
+| Hypomagnesemia4 | 0/71 | 0 | 1/84 | (1%) |
+| 1Grade 3 (greater than 3x Upper Limit of Normal); Grade 4 (greater than 6x Upper Limit of Normal). 2Grade 3 (less than 7 mg/dL); Grade 4 (less than 6 mg/dL). 3Grade 3 (less than 2 mg/dL); Grade 4 (less than 1 mg/dL). 4Grade 3 (less than 0.8 mEq/L); Grade 4 (less than 0.5 mEq/L). |  |  |  |  |
 
 Injection-Site Reactions
 
@@ -127,7 +128,7 @@ The median duration of exposure for safety analysis for Zometa 4 mg (core plus e
 Table 7 describes adverse events that were reported by 10% or more of patients.
 Adverse events are listed regardless of presumed causality to study drug.
 
-Table 7: Percentage of Patients with Adverse Events greater than or equal to 10% Reported in Three Bone Metastases Clinical Trials by Body System
+Table 7: Percentage of Patients With Adverse Events Greater Than or Equal to 10% Reported in Three Bone Metastases Clinical Trials by Body System
 
 |  | Zometa |  | Pamidronate |  | Placebo |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -190,7 +191,7 @@ Table 7: Percentage of Patients with Adverse Events greater than or equal to 10%
 
 Grade 3 and Grade 4 laboratory abnormalities for serum creatinine, serum calcium, serum phosphorus, and serum magnesium observed in three clinical trials of Zometa in patients with bone metastases are shown in Tables 8 and 9.
 
-Table 8: Grade 3 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, Serum Phosphorus, and Serum Magnesium in Three Clinical Trials in Patients with Bone Metastases
+Table 8: Grade 3 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, Serum Phosphorus, and Serum Magnesium in Three Clinical Trials in Patients With Bone Metastases
 
 |  | Grade 3 |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -198,25 +199,25 @@ Table 8: Grade 3 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, S
 |  | 4 mg |  | 90 mg |  |  |  |
 |  | n/N | (%) | n/N | (%) | n/N | (%) |
 | Serum Creatinine1* | 7/529 | (1%) | 4/268 | (2%) | 4/241 | (2%) |
-| Hypocalcemia2 | 6/973 | (<1%) | 4/536 | (<1%) | 0/415 | — |
+| Hypocalcemia2 | 6/973 | (< 1%) | 4/536 | (< 1%) | 0/415 | 0 |
 | Hypophosphatemia3 | 115/973 | (12%) | 38/537 | (7%) | 14/415 | (3%) |
-| Hypermagnesemia4 | 19/971 | (2%) | 2/535 | (<1%) | 8/415 | (2%) |
-| Hypomagnesemia5 | 1/971 | (<1%) | 0/535 | — | 1/415 | (<1%) |
-| 1Grade 3 (greater than 3x Upper Limit of Normal); Grade 4 (greater than 6x Upper Limit of Normal) *Serum creatinine data for all patients randomized after the 15-minute infusion amendment 2Grade 3 (less than 7 mg/dL); Grade 4 (less than 6 mg/dL) 3Grade 3 (less than 2 mg/dL); Grade 4 (less than 1 mg/dL) 4Grade 3 (greater than 3 mEq/L); Grade 4 (greater than 8 mEq/L) 5Grade 3 (less than 0.9 mEq/L); Grade 4 (less than 0.7 mEq/L) |  |  |  |  |  |  |
+| Hypermagnesemia4 | 19/971 | (2%) | 2/535 | (< 1%) | 8/415 | (2%) |
+| Hypomagnesemia5 | 1/971 | (< 1%) | 0/535 | — | 1/415 | (< 1%) |
+| *Serum creatinine data for all patients randomized after the 15-minute infusion amendment. 1Grade 3 (greater than 3x Upper Limit of Normal); Grade 4 (greater than 6x Upper Limit of Normal). 2Grade 3 (less than 7 mg/dL); Grade 4 (less than 6 mg/dL). 3Grade 3 (less than 2 mg/dL); Grade 4 (less than 1 mg/dL). 4Grade 3 (greater than 3 mEq/L); Grade 4 (greater than 8 mEq/L). 5Grade 3 (less than 0.9 mEq/L); Grade 4 (less than 0.7 mEq/L). |  |  |  |  |  |  |
 
-Table 9: Grade 4 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, Serum Phosphorus, and Serum Magnesium in Three Clinical Trials in Patients with Bone Metastases
+Table 9: Grade 4 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, Serum Phosphorus, and Serum Magnesium in Three Clinical Trials in Patients With Bone Metastases
 
 |  | Grade 4 |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Laboratory Parameter | Zometa |  | Pamidronate |  | Placebo |  |
 |  | 4 mg |  | 90 mg |  |  |  |
 |  | n/N | (%) | n/N | (%) | n/N | (%) |
-| Serum Creatinine1* | 2/529 | (<1%) | 1/268 | (<1%) | 0/241 | — |
-| Hypocalcemia2 | 7/973 | (<1%) | 3/536 | (<1%) | 2/415 | (<1%) |
-| Hypophosphatemia3 | 5/973 | (<1%) | 0/537 | — | 1/415 | (<1%) |
-| Hypermagnesemia4 | 0/971 | — | 0/535 | — | 2/415 | (<1%) |
-| Hypomagnesemia5 | 2/971 | (<1%) | 1/535 | (<1%) | 0/415 | — |
-| 1Grade 3 (greater than 3x Upper Limit of Normal); Grade 4 (greater than 6x Upper Limit of Normal) *Serum creatinine data for all patients randomized after the 15-minute infusion amendment 2Grade 3 (less than 7 mg/dL); Grade 4 (less than 6 mg/dL) 3Grade 3 (less than 2 mg/dL); Grade 4 (less than 1 mg/dL) 4Grade 3 (greater than 3 mEq/L); Grade 4 (greater than 8 mEq/L) 5Grade 3 (less than 0.9 mEq/L); Grade 4 (less than 0.7 mEq/L) |  |  |  |  |  |  |
+| Serum Creatinine1* | 2/529 | (< 1%) | 1/268 | (< 1%) | 0/241 | 0 |
+| Hypocalcemia2 | 7/973 | (< 1%) | 3/536 | (< 1%) | 2/415 | (< 1%) |
+| Hypophosphatemia3 | 5/973 | (< 1%) | 0/537 | 0 | 1/415 | (< 1%) |
+| Hypermagnesemia4 | 0/971 | 0 | 0/535 | 0 | 2/415 | (< 1%) |
+| Hypomagnesemia5 | 2/971 | (< 1%) | 1/535 | (< 1%) | 0/415 | 0 |
+| *Serum creatinine data for all patients randomized after the 15-minute infusion amendment. 1Grade 3 (greater than 3x Upper Limit of Normal); Grade 4 (greater than 6x Upper Limit of Normal). 2Grade 3 (less than 7 mg/dL); Grade 4 (less than 6 mg/dL). 3Grade 3 (less than 2 mg/dL); Grade 4 (less than 1 mg/dL). 4Grade 3 (greater than 3 mEq/L); Grade 4 (greater than 8 mEq/L). 5Grade 3 (less than 0.9 mEq/L); Grade 4 (less than 0.7 mEq/L). |  |  |  |  |  |  |
 
 Among the less frequently occurring adverse events (less than 15% of patients), rigors, hypokalemia, influenza-like illness, and hypocalcemia showed a trend for more events with bisphosphonate administration (Zometa 4 mg and pamidronate groups) compared to the placebo group.
 
@@ -228,7 +229,7 @@ Renal Toxicity
 In the bone metastases trials, renal deterioration was defined as an increase of 0.5 mg/dL for patients with normal baseline creatinine (less than 1.4 mg/dL) or an increase of 1.0 mg/dL for patients with an abnormal baseline creatinine (greater than or equal to1.4 mg/dL).
 The following are data on the incidence of renal deterioration in patients receiving Zometa 4 mg over 15 minutes in these trials (see Table 10).
 
-Table 10: Percentage of Patients with Treatment-Emergent Renal Function Deterioration by Baseline Serum Creatinine*
+Table 10: Percentage of Patients With Treatment-Emergent Renal Function Deterioration by Baseline Serum Creatinine*
 
 | Patient Population/Baseline Creatinine |  |  |  |  |
 | --- | --- | --- | --- | --- |

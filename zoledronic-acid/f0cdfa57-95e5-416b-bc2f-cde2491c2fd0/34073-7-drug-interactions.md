@@ -20,5 +20,5 @@ Caution is indicated when Zometa is used with other potentially nephrotoxic drug
 ## 7.4 Thalidomide
 
 No dose adjustment for Zometa 4 mg is needed when coadministered with thalidomide.
-In a pharmacokinetic study of 24 patients with multiple myeloma, Zometa 4 mg given as a 15-minute infusion was administered either alone or with thalidomide (100 mg once daily on days 1-14 and 200 mg once daily on days 15-28).
+In a pharmacokinetic study of 24 patients with multiple myeloma, Zometa 4 mg given as a 15-minute infusion was administered either alone or with thalidomide (100 mg once daily on days 1-14 and 200 mg once daily on Days 15-28).
 Coadministration of thalidomide with Zometa did not significantly change the pharmacokinetics of zoledronic acid or creatinine clearance.

@@ -1,5 +1,5 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-4 mg per 100 mL single-use ready-to-use bottle
+Injection: 4 mg/100 mL (0.04 mg/mL) single-dose ready-to-use bottle.
 
-4 mg per 5 mL single-use vial of concentrate
+Injection: 4 mg/5 mL (0.8 mg/mL) single-dose vial for dilution prior to intravenous infusion.
