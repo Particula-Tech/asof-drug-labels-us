@@ -1,7 +1,9 @@
-I057700 R06/16
+I05770918 R09/18
 
 Rx ONLY
 
+# MANUFACTURED BY
+
 pai Pharmaceutical Associates, Inc. Greenville, SC 29605
 
-R06/16
+R09/18
