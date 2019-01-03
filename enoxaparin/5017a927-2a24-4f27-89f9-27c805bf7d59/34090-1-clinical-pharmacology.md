@@ -22,7 +22,7 @@ Mean peak anti-Factor Xa activity was 0.16 IU/mL (1.58 mcg/mL) and 0.38 IU/mL (3
 Mean (n=46) peak anti-Factor Xa activity was 1.1 IU/mL at steady state in patients with unstable angina receiving 1 mg/kg subcutaneously every 12 hours for 14 days.
 Mean absolute bioavailability of enoxaparin, after 1.5 mg/kg given subcutaneously, based on anti-Factor Xa activity is approximately 100% in healthy subjects.
 
-A 30 mg intravenous bolus immediately followed by a 1 mg/kg subcutaneously every 12 hours provided initial peak anti-Factor Xa levels of 1.16 IU/mL (n=16) and average exposure corresponding to 84% of steady-state levels.
+A 30 mg intravenous bolus immediately followed by 1 mg/kg subcutaneously every 12 hours provided initial peak anti-Factor Xa levels of 1.16 IU/mL (n=16) and average exposure corresponding to 84% of steady-state levels.
 Steady state is achieved on the second day of treatment.
 
 Enoxaparin pharmacokinetics appears to be linear over the recommended dosage ranges [see Dosage and Administration (2)].
@@ -34,18 +34,18 @@ Based on enoxaparin sodium pharmacokinetics, this difference in steady state is 
 Although not studied clinically, the 150 mg/mL concentration of enoxaparin sodium is projected to result in anticoagulant activities similar to those of 100 mg/mL and 200 mg/mL concentrations at the same enoxaparin dose.
 When a daily 1.5 mg/kg subcutaneous injection of enoxaparin sodium was given to 25 healthy male and female subjects using a 100 mg/mL or a 200 mg/mL concentration the following pharmacokinetic profiles were obtained (see Table 13).
 
-Table 13: Pharmacokinetic ParametersMeans ±SD at Day 5 and 90% Confidence Interval (CI) of the ratio After 5 Days of 1.5 mg/kg subcutaneously Once-Daily Doses of Enoxaparin Sodium Using 100 mg/mL or 200 mg/mL Concentrations
+Table 13: Pharmacokinetic ParametersMeans ±SD at Day 5 and 90% Confidence Interval (CI) of the ratio After 5 Days of 1.5 mg/kg Subcutaneous Once-Daily Doses of Enoxaparin Sodium Using 100 mg/mL or 200 mg/mL Concentrations
 
 |  | Concentration | Anti-Xa | Anti-IIa | Heptest | aPTT |
 | --- | --- | --- | --- | --- | --- |
 | Amax (IU/mL or Δ sec) | 100 mg/mL | 1.37 (±0.23) | 0.23 (±0.05) | 105 (±17) | 19 (±5) |
-|  | 200 mg/mL | 1.45 (±0.22) | 0.26 (±0.05) | 111 (±17) | 22 (±7) |
-|  | 90% CI | 102%–110% |  | 102%–111% |  |
+| 200 mg/mL | 1.45 (±0.22) | 0.26 (±0.05) | 111 (±17) | 22 (±7) |  |
+| 90% CI | 102%–110% |  | 102%–111% |  |  |
 | tmaxMedian (range) (h) | 100 mg/mL | 3 (2–6) | 4 (2–5) | 2.5 (2–4.5) | 3 (2–4.5) |
-|  | 200 mg/mL | 3.5 (2–6) | 4.5 (2.5–6) | 3.3 (2–5) | 3 (2–5) |
+| 200 mg/mL | 3.5 (2–6) | 4.5 (2.5–6) | 3.3 (2–5) | 3 (2–5) |  |
 | AUC (ss) (h*IU/mL or h* Δ sec) | 100 mg/mL | 14.26 (±2.93) | 1.54 (±0.61) | 1321 (±219) |  |
-|  | 200 mg/mL | 15.43 (±2.96) | 1.77 (±0.67) | 1401 (±227) |  |
-|  | 90% CI | 105%–112% |  | 103%–109% |  |
+| 200 mg/mL | 15.43 (±2.96) | 1.77 (±0.67) | 1401 (±227) |  |  |
+| 90% CI | 105%–112% |  | 103%–109% |  |  |
 
 Distribution
 
@@ -55,7 +55,7 @@ Elimination
 
 Following intravenous dosing, the total body clearance of enoxaparin is 26 mL/min.
 After intravenous dosing of enoxaparin labeled with the gamma-emitter, 99mTc, 40% of radioactivity and 8 to 20% of anti-Factor Xa activity were recovered in urine in 24 hours.
-Elimination half-life based on anti-Factor Xa activity was 4.5 hours after a single SC dose to about 7 hours after repeated dosing.
+Elimination half-life based on anti-Factor Xa activity was 4.5 hours after a single subcutaneous dose to about 7 hours after repeated dosing.
 Significant anti-Factor Xa activity persists in plasma for about 12 hours following a 40 mg subcutaneous once a day dose.
 
 Following subcutaneous dosing, the apparent clearance (CL/F) of enoxaparin is approximately 15 mL/min.
@@ -75,28 +75,28 @@ The source of the gender difference in these parameters has not been conclusivel
 Geriatric
 
 Apparent clearance and Amax derived from anti-Factor Xa values following single and multiple subcutaneous dosing in geriatric subjects were close to those observed in young subjects.
-Following once a day subcutaneous dosing of 40 mg enoxaparin, the Day 10 mean area under anti-Factor Xa activity versus time curve (AUC) was approximately 15% greater than the mean Day 1 AUC value [see Dosage and Administration (2.3) and Use in Specific Populations (8.5)].
+Following once a day subcutaneous dosing of 40 mg enoxaparin, the Day 10 mean area under anti-Factor Xa activity versus time curve (AUC) was approximately 15% greater than the mean Day 1 AUC value [see Dosage and Administration (2.4) and Use in Specific Populations (8.5)].
 
-Renal Impairment
+Renal impairment
 
 A linear relationship between anti-Factor Xa plasma clearance and creatinine clearance at steady state has been observed, which indicates decreased clearance of enoxaparin sodium in patients with reduced renal function.
-Anti-Factor Xa exposure represented by AUC, at steady state, is marginally increased in mild (creatinine clearance 50–80 mL/min) and moderate (creatinine clearance 30–50 mL/min) renal impairment after repeated subcutaneous 40 mg once-daily doses.
-In patients with severe renal impairment (creatinine clearance <30 mL/min), the AUC at steady state is significantly increased on average by 65% after repeated subcutaneous 40 mg once-daily doses [see Dosage and Administration (2.2) and Use in Specific Populations (8.7)].
+Anti-Factor Xa exposure represented by AUC, at steady state, is marginally increased in patients with creatinine clearance 50 to 80 mL/min and patients with creatinine clearance 30 to <50 mL/min renal impairment after repeated subcutaneous 40 mg once-daily doses.
+In patients with severe renal impairment (creatinine clearance <30 mL/min), the AUC at steady state is significantly increased on average by 65% after repeated subcutaneous 40 mg once-daily doses [see Dosage and Administration (2.3) and Use in Specific Populations (8.7)].
 
 Hemodialysis
 
 In a single study, elimination rate appeared similar but AUC was two-fold higher than control population, after a single 0.25 or 0.5 mg/kg intravenous dose.
 
-Hepatic Impairment
+Hepatic impairment
 
-Studies with enoxaparin in patients with hepatic impairment have not been conducted and the impact of hepatic impairment on the exposure to enoxaparin is unknown [see Use in Specific Populations (8.8)].
+Studies with Lovenox in patients with hepatic impairment have not been conducted and the impact of hepatic impairment on the exposure to enoxaparin is unknown.
 
 Weight
 
 After repeated subcutaneous 1.5 mg/kg once-daily dosing, mean AUC of anti-Factor Xa activity is marginally higher at steady state in obese healthy volunteers (BMI 30–48 kg/m2) compared to non-obese control subjects, while Amax is not increased.
 
-When non–weight-adjusted dosing was administered, it was found after a single-subcutaneous 40 mg dose, that anti-Factor Xa exposure is 52% higher in low-weight women (<45 kg) and 27% higher in low-weight men (<57 kg) when compared to normal weight control subjects [see Use in Specific Populations (8.9)].
+When non–weight-adjusted dosing was administered, it was found after a single-subcutaneous 40 mg dose, that anti-Factor Xa exposure is 52% higher in low-weight women (<45 kg) and 27% higher in low-weight men (<57 kg) when compared to normal weight control subjects [see Use in Specific Populations (8.8)].
 
 Pharmacokinetic Interaction
 
-No pharmacokinetic interaction was observed between enoxaparin and thrombolytics when administered concomitantly.
+No pharmacokinetic interaction was observed between Lovenox and thrombolytics when administered concomitantly.
