@@ -6,7 +6,7 @@ Carcinogenesis
 
 Carcinogenicity studies were conducted in male and female rats and mice.
 In the 80-week mouse oral study and in the 104-week rat oral study, no relationship of tumor incidence to tacrolimus dosage was found.
-The highest dose used in the mouse was 3.0 mg/kg/day (0.84 times the AUC at the maximum clinical dose of 0.14 mg/kg/day) and in the rat was 5.0 mg/kg/day (0.24 times the AUC at the maximum clinical dose of 0.14 mg/kg/day) [see Boxed Warning, Warnings and Precautions (5.1)].
+The highest dose used in the mouse was 3mg/kg/day (0.84 times the AUC at the recommended clinical dose of 0.14 mg/kg/day) and in the rat was 5mg/kg/day (0.24 times the AUC at the recommended clinical dose of 0.14 mg/kg/day) [see Boxed Warning and Warnings and Precautions (5.1)].
 
 A 104-week dermal carcinogenicity study was performed in mice with tacrolimus ointment (0.03%-3%), equivalent to tacrolimus doses of 1.1-118 mg/kg/day or 3.3-354 mg/m2/day.
 In the study, the incidence of skin tumors was minimal and the topical application of tacrolimus was not associated with skin tumor formation under ambient room lighting.
@@ -23,6 +23,7 @@ No evidence of genotoxicity was seen in bacterial (Salmonella and E. coli) or ma
 
 Impairment of Fertility
 
-Tacrolimus given orally at 1.0 mg/kg (1.2 times the maximum clinical dose based on body surface area) to male and female rats, prior to and during mating, as well as to dams during gestation and lactation, was associated with embryolethality and adverse effects on female reproduction.
-Effects on female reproductive function (parturition) and embryolethal effects were indicated by a higher rate of pre-implantation loss and increased numbers of undelivered and nonviable pups.
-When given at 3.2 mg/kg (3.7 times the maximum clinical dose based on body surface area), tacrolimus was associated with maternal and paternal toxicity as well as reproductive toxicity including marked adverse effects on estrus cycles, parturition, pup viability, and pup malformations.
+Tacrolimus subcutaneously administered to male rats at paternally toxic doses of 2 mg/kg/day (2.3 times the recommended clinical dose based on body surface area) or 3 mg/kg/day (3.4 times the recommended clinical dose based on body surface area) resulted in a dose-related decrease in sperm count.
+Tacrolimus administered orally at 1mg/kg (1.2 times the recommended clinical dose based on body surface area) to male and female rats, prior to and during mating, as well as to dams during gestation and lactation, was associated with embryolethality and adverse effects on female reproduction.
+Effects on female reproductive function (parturition) and embryolethal effects were indicated by a higher rate of pre- and post-implantation loss and increased numbers of undelivered and nonviable pups.
+When administered at 3.2 mg/kg (3.7 times the recommended clinical dose based on body surface area), tacrolimus was associated with maternal and paternal toxicity as well as reproductive toxicity including marked adverse effects on estrus cycles, parturition, pup viability, and pup malformations.

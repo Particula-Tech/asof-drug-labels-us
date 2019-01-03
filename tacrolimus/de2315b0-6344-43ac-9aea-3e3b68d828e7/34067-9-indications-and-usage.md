@@ -1,7 +1,9 @@
 # 1 INDICATIONS AND USAGE
 
-ENVARSUS XR is indicated for the prophylaxis of organ rejection in kidney transplant patients converted from tacrolimus immediate-release formulations, in combination with other immunosuppressants.
+## 1.1 Prophylaxis of Organ Rejection in De Novo Kidney Transplant Patients
 
-Limitation of Use
+ENVARSUS XR is indicated for the prophylaxis of organ rejection in kidney transplant patients in combination with other immunosuppressants [see Clinical Studies (14.1)].
 
-ENVARSUS XR extended-release tablets are not interchangeable or substitutable with other tacrolimus extended-release or immediate-release products [see Warnings and Precautions (5.3)].
+## 1.2 Prophylaxis of Organ Rejection in Stable Kidney Transplant Patients Converting from Immediate-Release Formulations
+
+ENVARSUS XR is indicated for the prophylaxis of organ rejection in kidney transplant patients converted from tacrolimus immediate-release formulations, in combination with other immunosuppressants [see Clinical Studies (14.2)].
