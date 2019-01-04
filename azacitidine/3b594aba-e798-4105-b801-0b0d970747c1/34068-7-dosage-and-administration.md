@@ -2,7 +2,7 @@
 
 ## 2.1 First Treatment Cycle
 
-The recommended starting dose for the first treatment cycle, for all patients regardless of baseline hematology laboratory values, is 75 mg/m2 subcutaneously or intravenously, daily for 7 days.
+The recommended starting dose for the first treatment cycle, for all patients regardless of baseline hematology laboratory values, is 75 mg/m 2 subcutaneously or intravenously, daily for 7 days.
 Premedicate patients for nausea and vomiting.
 
 Obtain complete blood counts, liver chemistries and serum creatinine prior to the first dose.
@@ -10,7 +10,7 @@ Obtain complete blood counts, liver chemistries and serum creatinine prior to th
 ## 2.2 Subsequent Treatment Cycles
 
 Repeat cycles every 4 weeks.
-The dose may be increased to 100 mg/m2 if no beneficial effect is seen after 2 treatment cycles and if no toxicity other than nausea and vomiting has occurred.
+The dose may be increased to 100 mg/m 2 if no beneficial effect is seen after 2 treatment cycles and if no toxicity other than nausea and vomiting has occurred.
 It is recommended that patients be treated for a minimum of 4 to 6 cycles.
 However, complete or partial response may require additional treatment cycles.
 Treatment may be continued as long as the patient continues to benefit.
@@ -19,13 +19,13 @@ Monitor patients for hematologic response and renal toxicities [see Warnings and
 
 ## 2.3 Dosage Adjustment Based on Hematology Laboratory Values
 
-- For patients with baseline (start of treatment) WBC ≥3.0 x109/L, ANC ≥1.5 x109/L, and platelets ≥75.0 x109/L, adjust the dose as follows, based on nadir counts for any given cycle:
+- For patients with baseline (start of treatment) WBC ≥3.0 x10 9/L, ANC ≥1.5 x10 9/L, and platelets ≥75.0 x10 9/L, adjust the dose as follows, based on nadir counts for any given cycle:
 
 | Nadir Counts |  | % Dose in the Next Course |
 | --- | --- | --- |
-| ANC (x109/L) <0.5 0.5 –1.5 >1.5 | Platelets (x109/L) <25.0 25.0-50.0 >50.0 | 50% 67% 100% |
+| ANC (x10 9/L) <0.5 0.5 –1.5 >1.5 | Platelets (x10 9/L) <25.0 25.0-50.0 >50.0 | 50% 67% 100% |
 
-- For patients whose baseline counts are WBC <3.0 x109/L, ANC<1.5 x109/L, or platelets <75.0 x109/L, base dose adjustments on nadir counts and bone marrow biopsy cellularity at the time of the nadir as noted below, unless there is clear improvement in differentiation (percentage of mature granulocytes is higher and ANC is higher than at onset of that course) at the time of the next cycle, in which case continue the current dose.
+- For patients whose baseline counts are WBC <3.0 x10 9/L, ANC<1.5 x10 9/L, or platelets <75.0 x10 9/L, base dose adjustments on nadir counts and bone marrow biopsy cellularity at the time of the nadir as noted below, unless there is clear improvement in differentiation (percentage of mature granulocytes is higher and ANC is higher than at onset of that course) at the time of the next cycle, in which case continue the current dose.
 
 | WBC or Platelet Nadir % decrease in counts from baseline | Bone Marrow Biopsy Cellularity at Time of Nadir (%) |  |  |
 | --- | --- | --- | --- |
@@ -51,7 +51,8 @@ Because elderly patients are more likely to have decreased renal function, selec
 ## 2.6 Preparation of Azacitidine for injection
 
 Azacitidine for injection is a cytotoxic drug.
-Follow applicable special handling and disposal procedures.1
+Follow applicable special handling and disposal procedures.
+1
 
 The Azacitidine for injection vial is single-dose and does not contain any preservatives.
 Discard unused portions of each vial properly [see How Supplied/Storage and Handling (16)].

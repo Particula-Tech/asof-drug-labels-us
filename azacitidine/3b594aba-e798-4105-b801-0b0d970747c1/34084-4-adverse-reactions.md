@@ -3,7 +3,7 @@
 The following adverse reactions are described in other labeling sections:
 
 - Anemia, Neutropenia and Thrombocytopenia [see Warnings and Precautions (5.1)]
-- Hepatotoxicity in Patients with Severe Pre-existing Hepatic Impairment [see Warnings and Precautions (5.2)]
+- Hepatotoxicity in Patients with Severe Pre-existing Hepatic Impairment [see Warningsand Precautions (5.2)]
 - Renal Toxicity [see Warnings and Precautions (5.3)]
 - Tumor Lysis Syndrome [see Warnings and Precautions (5.4)]
 - Embryo-Fetal Risk [see Warnings and Precautions (5.5)]
@@ -32,17 +32,17 @@ In Studies 1, 2 and 3, a total of 268 patients were exposed to Azacitidine, incl
 Azacitidine was studied primarily in supportive-care controlled and uncontrolled trials (n=150 and n=118, respectively).
 The population in the subcutaneous studies (n=220) was 23 to 92 years old (mean 66.4 years), 68% male, and 94% white, and had MDS or AML.
 The population in the IV study (n=48) was 35 to 81 years old (mean 63.1 years), 65% male, and 100% white.
-Most patients received average daily doses between 50 and 100 mg/m2.
+Most patients received average daily doses between 50 and 100 mg/m 2.
 
 In Study 4, a total of 175 patients with higher-risk MDS (primarily RAEB and RAEB-T subtypes) were exposed to Azacitidine.
 Of these patients, 119 were exposed for 6 or more cycles, and 63 for at least 12 cycles.
 The mean age of this population was 68.1 years (ranging from 42 to 83 years), 74% were male, and 99% were white.
-Most patients received daily Azacitidine doses of 75 mg/m2.
+Most patients received daily Azacitidine doses of 75 mg/m 2.
 
 Table 1 presents adverse reactions occurring in at least 5% of patients treated with Azacitidine (SC) in Studies 1 and 2.
 It is important to note that duration of exposure was longer for the Azacitidine-treated group than for the observation group: patients received Azacitidine for a mean of 11.4 months while mean time in the observation arm was 6.1 months.
 
-| System Organ Class Preferred Terma | All Azacitidineb (N=220) | Observationc (N=92) |
+| System Organ Class Preferred Term a | All Azacitidine b (N=220) | Observation c (N=92) |
 | --- | --- | --- |
 | Table 1: Most Frequently Observed Adverse Reactions (≥ 5.0% in All SC Azacitidine Treated Patients Studies 1 and 2) |  |  |
 |  | Number (%) of Patients |  |
@@ -114,7 +114,7 @@ Similar to Studies 1 and 2 described above, duration of exposure to treatment wi
 
 Table 2: Most Frequently Observed Adverse Reactions (≥ 5.0% in the Azacitidine Treated Patients and the Percentage with NCI CTC Grade 3/4 Reactions; Study 4)
 
-| System Organ Class Preferred Terma | Azacitidine (N=175) | Best Supportive Care Only (N=102) | Azacitidine (N=175) | Best Supportive Care Only (N=102) |
+| System Organ Class Preferred Term a | Azacitidine (N=175) | Best Supportive Care Only (N=102) | Azacitidine (N=175) | Best Supportive Care Only (N=102) |
 | --- | --- | --- | --- | --- |
 |  | Number (%) of Patients |  |  |  |
 |  | Any Grade |  | Grade 3/4 |  |

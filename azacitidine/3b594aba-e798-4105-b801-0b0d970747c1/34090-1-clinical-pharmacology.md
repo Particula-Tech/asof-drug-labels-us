@@ -11,11 +11,11 @@ Non-proliferating cells are relatively insensitive to azacitidine.
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetics of azacitidine were studied in 6 MDS patients following a single 75 mg/m2 subcutaneous (SC) dose and a single 75 mg/m2 intravenous (IV) dose.
+The pharmacokinetics of azacitidine were studied in 6 MDS patients following a single 75 mg/m 2 subcutaneous (SC) dose and a single 75 mg/m 2 intravenous (IV) dose.
 Azacitidine is rapidly absorbed after SC administration; the peak plasma azacitidine concentration of 750 ± 403 ng/ml occurred in 0.5 hour.
 The bioavailability of SC azacitidine relative to IV azacitidine is approximately 89%, based on area under the curve.
 Mean volume of distribution following IV dosing is 76 ± 26 L. Mean apparent SC clearance is 167 ± 49 L/hour and mean half-life after SC administration is 41 ± 8 minutes.
-The AUC and Cmax of SC administration of azacitidine in 21 patients with cancer were approximately dose proportional within the 25 to 100 mg/m2 dose range.
+The AUC and C max of SC administration of azacitidine in 21 patients with cancer were approximately dose proportional within the 25 to 100 mg/m 2 dose range.
 Multiple dosing at the recommended dose-regimen does not result in drug accumulation.
 
 Published studies indicate that urinary excretion is the primary route of elimination of azacitidine and its metabolites.
@@ -26,10 +26,10 @@ The mean elimination half-lives of total radioactivity (azacitidine and its meta
 
 Specific Populations
 
-In patients with cancer the pharmacokinetics of azacitidine in 6 patients with normal renal function (CLcr > 80 mL/min) and 6 patients with severe renal impairment (CLcr < 30 mL/min) were compared following daily SC dosing (Days 1 through 5) at 75 mg/m2/day.
+In patients with cancer the pharmacokinetics of azacitidine in 6 patients with normal renal function (CLcr > 80 mL/min) and 6 patients with severe renal impairment (CLcr < 30 mL/min) were compared following daily SC dosing (Days 1 through 5) at 75 mg/m 2/day.
 Severe renal impairment increased azacitidine exposure by approximately 70% after single and 41% after multiple subcutaneous administrations.
 This increase in exposure was not correlated with an increase in adverse events.
-The exposure was similar to exposure in patients with normal renal function receiving 100 mg/m2.
+The exposure was similar to exposure in patients with normal renal function receiving 100 mg/m 2.
 Therefore, a Cycle 1 dose modification is not recommended.
 
 The effects of hepatic impairment, gender, age, or race on the pharmacokinetics of azacitidine have not been studied.
