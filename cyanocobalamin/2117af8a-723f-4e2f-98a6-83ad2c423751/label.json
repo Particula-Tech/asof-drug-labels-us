@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA209255"
+  ],
+  "inn": "cyanocobalamin",
+  "labeler": "Vitruvias Therapeutics",
+  "package_ndcs": [
+    "69680-112-25",
+    "69680-113-99"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "cyanocobalamin",
+      "name": "Cyanocobalamin"
+    }
+  ],
+  "setid": "2117af8a-723f-4e2f-98a6-83ad2c423751",
+  "source": "dailymed"
+}
