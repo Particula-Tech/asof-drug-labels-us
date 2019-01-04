@@ -44,7 +44,7 @@ Cases of patients treated with rasagiline and other dopaminergic medications hav
 Although many of these patients reported somnolence while on rasagiline with other dopaminergic medications, some perceived that they had no warning signs, such as excessive drowsiness, and believed that they were alert immediately prior to the event.
 Some of these events have been reported more than 1-year after initiation of treatment.
 
-In Study 3, somnolence was a common occurrence in patients receiving rasagiline and was more frequent in patients with Parkinson’s disease receiving rasagiline than in respective patients receiving placebo (6% rasagiline compared to 4% Placebo) [see Adverse Reactions (6.1].
+In Study 3, somnolence was a common occurrence in patients receiving rasagiline and was more frequent in patients with Parkinson’s disease receiving rasagiline than in respective patients receiving placebo (6% rasagiline compared to 4% Placebo) [see Adverse Reactions (6.1)].
 
 Before initiating treatment with rasagiline, patients should be advised of the potential to develop drowsiness and specifically asked about factors that may increase the risk with rasagiline such as concomitant sedating medications, the presence of sleep disorders, and concomitant medications that increase rasagiline plasma levels (e.g., ciprofloxacin) [see Drug Interactions (7.6)].
 If a patient develops significant daytime sleepiness or episodes of falling asleep during activities that require active participation (e.g., driving a motor vehicle, conversations, eating), rasagiline should ordinarily be discontinued.
@@ -69,7 +69,7 @@ In Study 3, the incidence of orthostatic hypotension consisting of a systolic bl
 At the 1 mg dose, the frequency of orthostatic hypotension (at any time during the study) was approximately 44% for rasagiline vs 33% for placebo for mild to moderate systolic blood pressure decrements (> 20 mm Hg), 40% for rasagiline vs 33% for placebo for mild to moderate diastolic blood pressure decrements (> 10 mm Hg), 7% for rasagiline vs 3% for placebo for severe systolic blood pressure decrements (> 40 mm Hg), and 9% for rasagiline vs 6% for placebo for severe diastolic blood pressure decrements (≥ 20 mm Hg).
 There was also an increased risk for some of these abnormalities at the lower 0.5 mg daily dose and for an individual patient having mild to moderate or severe orthostatic hypotension for both systolic and diastolic blood pressure.
 
-In Study 2 where rasagiline was given as an adjunct therapy in patients not taking concomitant levodopa, there were 5 reports of orthostatic hypotension in patients taking rasagiline 1 mg (3.1%) and 1 report in patients taking placebo (0.6%) [see Adverse Reactions(6.1].
+In Study 2 where rasagiline was given as an adjunct therapy in patients not taking concomitant levodopa, there were 5 reports of orthostatic hypotension in patients taking rasagiline 1 mg (3.1%) and 1 report in patients taking placebo (0.6%) [see Adverse Reactions(6.1)].
 
 Clinical trial data further suggest that orthostatic hypotension occurs most frequently in the first two months of rasagiline treatment and tends to decrease over time.
 
@@ -86,7 +86,7 @@ Postural hypotension led to drug discontinuation and premature withdrawal from c
 
 When used as an adjunct to levodopa, rasagiline may cause dyskinesia or potentiate dopaminergic side effects and exacerbate preexisting dyskinesia.
 In Study 3, the incidence of dyskinesia was 18% for patients treated with 0.5 mg or 1 mg rasagiline as an adjunct to levodopa and 10% for patients treated with placebo as an adjunct to levodopa.
-Decreasing the dose of levodopa may mitigate this side effect [see Adverse Reactions (6.1].
+Decreasing the dose of levodopa may mitigate this side effect [see Adverse Reactions (6.1)].
 
 ## 5.8 Hallucinations / Psychotic-Like Behavior
 
@@ -120,11 +120,3 @@ Consider dose reduction or stopping the medication if a patient develops such ur
 ## 5.10 Withdrawal-Emergent Hyperpyrexia and Confusion
 
 A symptom complex resembling neuroleptic malignant syndrome (characterized by elevated temperature, muscular rigidity, altered consciousness, and autonomic instability), with no other obvious etiology, has been reported in association with rapid dose reduction, withdrawal of, or changes in drugs that increase central dopaminergic tone.
-
-## 5.11 Melanoma
-
-Epidemiological studies have shown that patients with Parkinson’s disease have a higher risk (2- to approximately 6-fold higher) of developing melanoma than the general population.
-Whether the increased risk observed was due to Parkinson’s disease or other factors, such as drugs used to treat Parkinson’s disease, is unclear.
-
-For the reasons stated above, patients and providers are advised to monitor for melanomas frequently and on a regular basis.
-Ideally, periodic skin examinations should be performed by appropriately qualified individuals (e.g., dermatologists).

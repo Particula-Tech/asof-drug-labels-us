@@ -54,7 +54,7 @@ Advise patients that they may experience intense urges to gamble, increased sexu
 Although it is not proven that the medications caused these events, these urges were reported to have stopped in some cases when the dose was reduced or the medication was stopped.
 Prescribers should ask patients about the development of new or increased gambling urges, sexual urges, or other urges while being treated with rasagiline.
 Patients should inform their physician if they experience new or increased gambling urges, increased sexual urges, or other intense urges while taking rasagiline.
-Physicians should consider dose reduction or stopping the medication if a patient develops such urges while taking rasagiline [see Warnings and Precautions 5.9].
+Physicians should consider dose reduction or stopping the medication if a patient develops such urges while taking rasagiline [see Warnings and Precautions (5.9)].
 
 Withdrawal-Emergent Hyperpyrexia and Confusion
 
@@ -66,12 +66,16 @@ Instruct patients to take rasagiline as prescribed.
 If a dose is missed, the patient should not double-up the dose of rasagiline.
 The next dose should be taken at the usual time on the following day.
 
+Pregnancy
+
+Advise patients to notify their healthcare provider if they are pregnant or plan to become pregnant [see Use in Specific Populations (8.1)].
+
 Manufactured in Israel By: TEVA PHARMACEUTICAL IND.
 LTD. Jerusalem, 9777402, Israel
 
 Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
-RAS-002
+RAS-003
 
 Rev.
-6/2018
+1/2019

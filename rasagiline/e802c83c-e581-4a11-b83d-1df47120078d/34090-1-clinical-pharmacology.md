@@ -59,7 +59,7 @@ Glucuronide conjugation of rasagiline and its metabolites, with subsequent urina
 After oral administration of 14C-labeled rasagiline, elimination occurred primarily via urine and secondarily via feces (62% of total dose in urine and 7% of total dose in feces over 7 days), with a total calculated recovery of 84% of the dose over a period of 38 days.
 Less than 1% of rasagiline was excreted as unchanged drug in urine.
 
-Special Populations
+Specific Populations
 
 Hepatic Impairment
 

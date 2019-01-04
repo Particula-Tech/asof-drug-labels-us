@@ -4,7 +4,7 @@
 
 Carcinogenesis
 
-Two-year carcinogenicity studies were conducted in mice at oral doses of 1, 15, and 45 mg/kg/day and in rats at oral doses of 0.3, 1, and 3 mg/kg/day (males) or 0.5, 2, 5, and 17 mg/kg/day (females).
+Two-year carcinogenicity studies were conducted in mice at oral doses of 0, 1, 15, and 45 mg/kg/day and in rats at oral doses of 0.3, 1, and 3 mg/kg/day (males) or 0, 0.5, 2, 5, and 17 mg/kg/day (females).
 In rats, there was no increase in tumors at any dose tested.
 Plasma exposures (AUC) at the highest dose tested were approximately 33 and 260 times, in male and female rats, respectively, that in humans at the maximum recommended human dose (MRHD) of 1 mg/day.
 
