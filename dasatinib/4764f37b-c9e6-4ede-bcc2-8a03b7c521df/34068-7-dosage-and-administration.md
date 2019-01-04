@@ -7,7 +7,7 @@ The recommended starting dosage of SPRYCEL for accelerated phase CML, myeloid or
 Tablets should not be crushed, cut, or chewed; they should be swallowed whole.
 SPRYCEL can be taken with or without a meal, either in the morning or in the evening.
 
-## 2.2 Dosage of SPRYCEL in Pediatric Patients
+## 2.2 Dosage of SPRYCEL in Pediatric Patients with CML or Ph+ ALL
 
 The recommended starting dosage for pediatrics is based on body weight as shown in Table 1.
 The recommended dose should be administered orally once daily with or without food.
@@ -15,17 +15,19 @@ Recalculate the dose every 3 months based on changes in body weight, or more oft
 
 Do not crush, cut or chew tablets.
 Swallow tablets whole.
-The exposure in patients receiving a crushed tablet is lower than in those swallowing an intact tablet.
+There are additional administration considerations for pediatric patients who have difficulty swallowing tablets whole [see Use in Specific Populations (8.4) and Clinical Pharmacology (12.3)].
 
-Table 1: Dosage of SPRYCEL for Pediatric Patients
+Table 1: Dosage of SPRYCEL for Pediatric Patientsa
 
-| Body Weight (kg)a | Daily Dose (mg) |
+| Body Weight (kg)b | Daily Dose (mg) |
 | --- | --- |
 | 10 to less than 20 | 40 mg |
 | 20 to less than 30 | 60 mg |
 | 30 to less than 45 | 70 mg |
 | at least 45 | 100 mg |
-| a Tablet dosing is not recommended for patients weighing less than 10 kg. |  |
+| a For pediatric patients with Ph+ ALL, begin SPRYCEL therapy on or before day 15 of induction chemotherapy, when diagnosis is confirmed and continue for 2 years. b Tablet dosing is not recommended for patients weighing less than 10 kg. |  |
+
+Refer to Section 2.4 for recommendations on dose escalation in adults with CML and Ph+ ALL, and pediatric patients with CML.
 
 ## 2.3 Dose Modification
 
@@ -41,18 +43,20 @@ If SPRYCEL must be administered with a strong CYP3A4 inhibitor, consider a dose 
 2. • 20 mg daily for patients taking SPRYCEL 100 mg daily.
 3. • 20 mg daily for patients taking SPRYCEL 70 mg daily.
 
-For patients taking SPRYCEL 60 mg or 40 mg daily, stop SPRYCEL until the inhibitor is discontinued.
+For patients taking SPRYCEL 60 mg or 40 mg daily, consider interrupting SPRYCEL until the inhibitor is discontinued.
 Allow a washout period of approximately 1 week after the inhibitor is stopped before reinitiating SPRYCEL.
 
-These reduced doses of SPRYCEL are predicted to adjust the area under the curve (AUC) to the range observed without CYP3A4 inhibitors; however, clinical data is not available with these dose adjustments in patients receiving strong CYP3A4 inhibitors.
-If SPRYCEL is not tolerated after dose reduction, either discontinue the strong CYP3A4 inhibitor or stop SPRYCEL until the inhibitor is discontinued.
+These reduced doses of SPRYCEL are predicted to adjust the area under the curve (AUC) to the range observed without CYP3A4 inhibitors; however, clinical data are not available with these dose adjustments in patients receiving strong CYP3A4 inhibitors.
+If SPRYCEL is not tolerated after dose reduction, either discontinue the strong CYP3A4 inhibitor or interrupt SPRYCEL until the inhibitor is discontinued.
 Allow a washout period of approximately 1 week after the inhibitor is stopped before the SPRYCEL dose is increased [see Drug Interactions (7.1)].
 
-## 2.4 Dose Escalation
+## 2.4 Dose Escalation in Adults with CML and Ph+ ALL, and Pediatric Patients with CML
 
-In clinical studies of adult CML and Ph+ ALL patients, dose escalation to 140 mg once daily (chronic phase CML) or 180 mg once daily (advanced phase CML and Ph+ ALL) was allowed in patients who did not achieve a hematologic or cytogenetic response at the recommended starting dosage.
+For adult patients with CML and Ph+ ALL, consider dose escalation to 140 mg once daily (chronic phase CML) or 180 mg once daily (advanced phase CML and Ph+ ALL) in patients who do not achieve a hematologic or cytogenetic response at the recommended starting dosage.
+For pediatric patients with CML, consider dose escalation to 120 mg once daily (see Table 2 below).
+Dose escalation is not recommended for pediatric patients with Ph+ ALL, where SPRYCEL is administered in combination with chemotherapy.
 
-Escalate the SPRYCEL dose as shown in Table 2 in pediatric patients who do not achieve a hematologic or cytogenetic response at the recommended starting dosage.
+Escalate the SPRYCEL dose as shown in Table 2 in pediatric patients with chronic phase CML who do not achieve a hematologic or cytogenetic response at the recommended starting dosage.
 
 Table 2: Dose Escalation for Pediatric CML
 
@@ -79,7 +83,7 @@ Table 3: Dose Adjustments for Neutropenia and Thrombocytopenia in Adults
 | Accelerated Phase CML, Blast Phase CML and Ph+ ALL (starting dose 140 mg once daily) | ANC* <0.5 × 109/L or Platelets <10 × 109/L | 1.Check if cytopenia is related to leukemia (marrow aspirate or biopsy).2.If cytopenia is unrelated to leukemia, stop SPRYCEL until ANC ≥1.0 × 109/L and platelets ≥20 × 109/L and resume at the original starting dose.3.If recurrence of cytopenia, repeat Step 1 and resume SPRYCEL at a reduced dose of 100 mg once daily (second episode) or 80 mg once daily (third episode).4.If cytopenia is related to leukemia, consider dose escalation to 180 mg once daily. |
 | * ANC: absolute neutrophil count |  |  |
 
-Table 4: Dose Adjustments for Neutropenia and Thrombocytopenia in Pediatric Patients
+Table 4: Dose Adjustments for Neutropenia and Thrombocytopenia in Pediatric Patients with Ph+ CML
 
 |  |  | Dose (maximum dose per day) |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -90,18 +94,42 @@ Table 4: Dose Adjustments for Neutropenia and Thrombocytopenia in Pediatric Pati
 |  | 100 mg | 80 mg | 70 mg |  |  |  |  |
 | *ANC: absolute neutrophil count ** lower tablet dose not available |  |  |  |  |  |  |  |
 
-For all pediatric patients, if Grade ≥3 neutropenia or thrombocytopenia recurs during complete hematologic response (CHR), interrupt SPRYCEL and resume at a reduced dose.
+For pediatric patients with chronic phase CML, if Grade ≥3 neutropenia or thrombocytopenia recurs during complete hematologic response (CHR), interrupt SPRYCEL and resume at a reduced dose.
 Implement temporary dose reductions for intermediate degrees of cytopenia and disease response as needed.
+
+For pediatric patients with Ph+ ALL, if neutropenia and/or thrombocytopenia result in a delay of the next block of treatment by more than 14 days, interrupt SPRYCEL and resume at the same dose level once the next block of treatment is started.
+If neutropenia and/or thrombocytopenia persist and the next block of treatment is delayed another 7 days, perform a bone marrow assessment to assess cellularity and percentage of blasts.
+If marrow cellularity is <10%, interrupt treatment with SPRYCEL until ANC >500/μL (0.5 x 109/L), at which time treatment may be resumed at full dose.
+If marrow cellularity is >10%, resumption of treatment with SPRYCEL may be considered.
 
 ### Non-Hematologic Adverse Reactions
 
-If a severe non-hematologic adverse reaction develops with SPRYCEL use, treatment must be withheld until the event has resolved or improved.
+For adults with Ph+ CML and ALL, and pediatric patients with Ph+ CML, if a severe non-hematologic adverse reaction develops with SPRYCEL use, treatment must be withheld until the event has resolved or improved.
 Thereafter, treatment can be resumed as appropriate at a reduced dose depending on the severity and recurrence of the event [see Warnings and Precautions (5.1)].
+
+For pediatric patients with Ph+ ALL, interrupt treatment for cases of grade ≥ 3 non-hematologic adverse reactions with the exception of liver function test abnormalities, and resume at a reduced dose when resolved to grade ≤1.
+For elevated direct bilirubin over 5 times the institutional upper limit of normal (ULN), interrupt treatment until improvement to baseline or grade ≤1.
+For elevated AST/ALT over 15 times the institutional ULN, interrupt treatment until improvement to baseline or grade <1.
+For recurrent liver function test abnormalities as above, reduce the dose if this adverse reaction recurs after reinitiation of SPRYCEL.
+Dose reduction recommendations are described in Table 5.
+
+Table 5: Dose Adjustments for Non-Hematologic Toxicities in Pediatric Patients
+
+|  |  | Dose (maximum dose per day) |  |  |
+| --- | --- | --- | --- | --- |
+| 1. If a non-hematologic toxicity grade 2 occurs, consider interrupting SPRYCEL if no recovery despite symptomatic therapy; once recovered to grade ≤1, resume at the original starting dose. Resume SPRYCEL at a reduced dose for recurrent events.2. If a non-hematologic toxicity grade 3 occurs, stop SPRYCEL until recovery to grade ≤1 and then resume at a reduced dose.3. If direct bilirubin is >5 ULN or AST/ALT >15 ULN, interrupt SPRYCEL until recovery to grade ≤1 and then resume SPRYCEL at the original starting dose. Resume SPRYCEL at a reduced dose for recurrent events. |  | Original Starting Dose | One-Level Dose Reduction | Two-Level Dose Reduction |
+| Tablets | 40 mg | 20 mg | ** |  |
+|  | 60 mg | 40 mg | 20 mg |  |
+|  | 70 mg | 60 mg | 50 mg |  |
+|  | 100 mg | 80 mg | 70 mg |  |
+| ** lower tablet dose not available |  |  |  |  |
 
 ## 2.6 Duration of Treatment
 
-In clinical studies, treatment with SPRYCEL in adults and pediatric patients was continued until disease progression or until no longer tolerated by the patient.
+In clinical studies, treatment with SPRYCEL in adults and in pediatric patients with chronic phase CML was continued until disease progression or until no longer tolerated by the patient.
 The effect of stopping treatment on long-term disease outcome after the achievement of a cytogenetic response (including complete cytogenetic response [CCyR]) or major molecular response (MMR and MR4.5) has not been established.
+
+In clinical studies, treatment with SPRYCEL in pediatric patients with Ph+ ALL was administered for a maximum duration of 2 years [see Dosage and Administration (2.2) and Clinical Studies (14.4)].
 
 SPRYCEL is an antineoplastic product.
 Follow applicable special handling and disposal procedures.1

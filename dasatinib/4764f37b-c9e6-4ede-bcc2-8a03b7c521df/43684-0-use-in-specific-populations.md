@@ -60,15 +60,31 @@ Based on animal data, dasatinib may result in damage to female and male reproduc
 
 ## 8.4 Pediatric Use
 
-The safety and efficacy of SPRYCEL in 97 pediatric patients with chronic phase CML were evaluated in two pediatric studies (a Phase I, open-label, non-randomized dose-ranging trial and a Phase II, open-label, non-randomized trial).
-Fifty-one patients (exclusively from the Phase II trial) were newly diagnosed with chronic phase CML and 46 patients (17 from the Phase I trial and 29 from the Phase II trial) were resistant or intolerant to previous treatment with imatinib.
-The majority of patients were treated with SPRYCEL tablets 60 mg/m2 once daily (maximum dose of 100 mg once daily for patients with high BSA).
-Patients were treated until disease progression or unacceptable toxicity.
-The safety profile of dasatinib in pediatric subjects was comparable to that reported in studies in adult subjects with chronic phase CML.
+Ph+ CML in Chronic Phase
+
+The safety and effectiveness of SPRYCEL monotherapy have been demonstrated in pediatric patients with newly diagnosed chronic phase CML [see Clinical Studies (14.3)].
+There are no data in children under 1 year of age.
+Adverse reactions associated with bone growth and development were reported in 5 (5.2%) of patients [see Warnings and Precautions (5.10)].
+
+Ph+ ALL
+
+The safety and effectiveness of SPRYCEL in combination with chemotherapy have been demonstrated in pediatric patients one year and over with newly diagnosed Ph+ ALL.
+Use of SPRYCEL in pediatric patients is supported by evidence from one pediatric study.
+There are no data in children under 1 year of age.
+One case of grade 1 osteopenia was reported.
+
+The safety profile of SPRYCEL in pediatric subjects was comparable to that reported in studies in adult subjects [see Adverse Reactions (6.1) and Clinical Studies (14.3, 14.4)].
+
 Monitor bone growth and development in pediatric patients [see Warnings and Precautions (5.10)].
+
+Pediatric Patients with Difficulty Swallowing Tablets
+
+Five patients with Ph+ ALL 2 to 10 years of age received at least one dose of SPRYCEL tablet dispersed in juice on Study CA180372.
+The exposure for dispersed tablets was 36% lower as compared to intact tablets in pediatric patients [see Clinical Pharmacology (12.3)].
+Due to the limited available clinical data, it is unclear whether dispersing SPRYCEL tablets significantly alters the safety and/or efficacy of SPRYCEL.
 
 ## 8.5 Geriatric Use
 
-No differences in confirmed Complete Cytogenetic Response (cCCyR) and MMR were observed between older and younger patients.
 Of the 2712 patients in clinical studies of SPRYCEL, 617 (23%) were 65 years of age and older, and 123 (5%) were 75 years of age and older.
+No differences in confirmed Complete Cytogenetic Response (cCCyR) and MMR were observed between older and younger patients.
 While the safety profile of SPRYCEL in the geriatric population was similar to that in the younger population, patients aged 65 years and older are more likely to experience the commonly reported adverse reactions of fatigue, pleural effusion, diarrhea, dyspnea, cough, lower gastrointestinal hemorrhage, and appetite disturbance, and more likely to experience the less frequently reported adverse reactions of abdominal distention, dizziness, pericardial effusion, congestive heart failure, hypertension, pulmonary edema, and weight decrease, and should be monitored closely.

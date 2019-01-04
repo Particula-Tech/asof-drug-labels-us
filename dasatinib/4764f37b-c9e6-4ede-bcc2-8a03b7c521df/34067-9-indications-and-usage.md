@@ -6,6 +6,7 @@ SPRYCEL (dasatinib) is indicated for the treatment of adult patients with
 - •chronic, accelerated, or myeloid or lymphoid blast phase Ph+ CML with resistance or intolerance to prior therapy including imatinib.
 - •Philadelphia chromosome-positive acute lymphoblastic leukemia (Ph+ ALL) with resistance or intolerance to prior therapy.
 
-SPRYCEL (dasatinib) is indicated for the treatment of pediatric patients with
+SPRYCEL (dasatinib) is indicated for the treatment of pediatric patients 1 year of age and older with
 
 - •Ph+ CML in chronic phase.
+- •newly diagnosed Ph+ ALL in combination with chemotherapy.

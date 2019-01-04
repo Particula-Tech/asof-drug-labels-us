@@ -24,6 +24,7 @@ The pharmacokinetics of dasatinib exhibits dose proportional increases in AUC an
 
 At 100 mg QD, the maximum concentration at steady state (Cmax) is 82.2 ng/mL (CV% 69%), area under the plasma drug concentration time curve (AUC) is 397 ng/mL*hr (CV% 55%).
 The clearance of dasatinib is found to be time-invariant.
+When administered to adult healthy subjects as dispersed tablets in juice, the adjusted geometric mean ratio was 0.97 (90% CI: 0.85, 1.10) for Cmax and 0.84 (90% CI: 0.78, 0.91) for AUC as compared to intact tablets.
 
 ### Absorption
 
@@ -78,6 +79,8 @@ In pediatric patients with a dosing regimen of 60 mg/m2, the model simulated geo
 Dasatinib clearance and volume of distribution change with body weight in pediatric patients.
 Dasatinib has not been studied in patients < 1 year old.
 
+The bioavailability of dispersed tablets in pediatric patients was estimated to be 36% lower than that of intact tablets.
+
 Patients with Hepatic Impairment
 
 Compared to subjects with normal liver function, patients with moderate hepatic impairment (Child Pugh B) had decreases in mean Cmax by 47% and mean AUC by 8%.
@@ -107,4 +110,4 @@ The administration of a single 100 mg dose of SPRYCEL 22 hours following a 40 mg
 
 Transporters
 
-Dasatinib is a not an inhibitor of P-gp in vitro.
+Dasatinib is not an inhibitor of P-gp in vitro.

@@ -7,6 +7,9 @@ Treatment with SPRYCEL is associated with severe (NCI CTCAE Grade 3 or 4) thromb
 In patients with chronic phase CML, perform complete blood counts (CBCs) every 2 weeks for 12 weeks, then every 3 months thereafter, or as clinically indicated.
 In patients with advanced phase CML or Ph+ ALL, perform CBCs weekly for the first 2 months and then monthly thereafter, or as clinically indicated.
 
+In pediatric patients with Ph+ ALL treated with SPRYCEL in combination with chemotherapy, perform CBCs prior to the start of each block of chemotherapy and as clinically indicated.
+During the consolidation blocks of chemotherapy, perform CBCs every 2 days until recovery.
+
 Myelosuppression is generally reversible and usually managed by withholding SPRYCEL temporarily and/or dose reduction [see Dosage and Administration (2.5) and Adverse Reactions (6.1)].
 
 ## 5.2 Bleeding-Related Events
@@ -76,3 +79,5 @@ Advise females of reproductive potential to avoid pregnancy, which may include t
 In pediatric trials of SPRYCEL in chronic phase CML after at least 2 years of treatment, adverse reactions associated with bone growth and development were reported in 5 (5.2%) patients, one of which was severe in intensity (Growth Retardation Grade 3).
 These 5 cases included cases of epiphyses delayed fusion, osteopenia, growth retardation, and gynecomastia [see Adverse Reactions (6.2) and Use in Specific Populations (8.4)].
 Of these 5 cases, 1 case of osteopenia and 1 case of gynecomastia resolved during treatment.
+
+Monitor bone growth and development in pediatric patients.

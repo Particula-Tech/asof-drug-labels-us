@@ -16,9 +16,9 @@ With a minimum of 12 months follow-up, 85% of patients randomized to SPRYCEL and
 
 With a minimum of 24 months follow-up, 77% of patients randomized to SPRYCEL and 75% of patients randomized to imatinib were still on study and with a minimum of 60 months follow-up, 61% and 62% of patients, respectively, were still on treatment at the time of study closure.
 
-Efficacy results are summarized in Table 13.
+Efficacy results are summarized in Table 16.
 
-Table 13: Efficacy Results in a Randomized Newly Diagnosed Chronic Phase CML Trial
+Table 16: Efficacy Results in a Randomized Newly Diagnosed Chronic Phase CML Trial
 
 |  | SPRYCEL (n=259) | Imatinib (n=260) |
 | --- | --- | --- |
@@ -75,9 +75,9 @@ Median duration of treatment was 22 months.
 
 Efficacy was achieved across all SPRYCEL treatment groups with the once-daily schedule demonstrating comparable efficacy (non-inferiority) to the twice-daily schedule on the primary efficacy endpoint (difference in MCyR 1.9%; 95% CI [−6.8%–10.6%]); however, the 100-mg once-daily regimen demonstrated improved safety and tolerability.
 
-Efficacy results are presented in Tables 14 and 15 for adult patients with chronic phase CML who received the recommended starting dose of 100 mg once daily.
+Efficacy results are presented in Tables 17 and 18 for adult patients with chronic phase CML who received the recommended starting dose of 100 mg once daily.
 
-Table 14: Efficacy of SPRYCEL in Adult Patients with Imatinib-Resistant or -Intolerant Chronic Phase CML (minimum of 24 months follow-up)
+Table 17: Efficacy of SPRYCEL in Adult Patients with Imatinib-Resistant or -Intolerant Chronic Phase CML (minimum of 24 months follow-up)
 
 | All Patients | 100 mg Once Daily (n=167) |
 | --- | --- |
@@ -88,7 +88,7 @@ Table 14: Efficacy of SPRYCEL in Adult Patients with Imatinib-Resistant or -Into
 | CCyR | 50% (42–58) |
 | a CHR (response confirmed after 4 weeks): WBC ≤ institutional ULN, platelets <450,000/mm3, no blasts or promyelocytes in peripheral blood, <5% myelocytes plus metamyelocytes in peripheral blood, basophils in peripheral blood <20%, and no extramedullary involvement. b MCyR combines both complete (0% Ph+ metaphases) and partial (>0%–35%) responses. |  |
 
-Table 15: Long-Term MMR of SPRYCEL in the Dose Optimization Trial: Adult Patients with Imatinib-Resistant or -Intolerant Chronic Phase CMLa
+Table 18: Long-Term MMR of SPRYCEL in the Dose Optimization Trial: Adult Patients with Imatinib-Resistant or -Intolerant Chronic Phase CMLa
 
 |  | 2 Years | 5 Years | 7 Years |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -111,9 +111,9 @@ A total of 611 patients were randomized to either the SPRYCEL 140 mg once-daily 
 Median duration of treatment was approximately 6 months for both treatment groups.
 The once-daily schedule demonstrated comparable efficacy (non-inferiority) to the twice-daily schedule on the primary efficacy endpoint; however, the 140-mg once-daily regimen demonstrated improved safety and tolerability.
 
-Response rates for patients in the 140 mg once-daily group are presented in Table 16.
+Response rates for patients in the 140 mg once-daily group are presented in Table 19.
 
-Table 16: Efficacy of SPRYCEL in Imatinib-Resistant or -Intolerant Advanced Phase CML and Ph+ ALL (2-Year Results)
+Table 19: Efficacy of SPRYCEL in Imatinib-Resistant or -Intolerant Advanced Phase CML and Ph+ ALL (2-Year Results)
 
 |  | Accelerated (n=158) | Myeloid Blast (n=75) | Lymphoid Blast (n=33) | Ph+ ALL (n=40) |
 | --- | --- | --- | --- | --- |
@@ -140,7 +140,7 @@ The medians of progression-free survival for patients with Ph+ ALL treated with 
 ## 14.3 CML in Pediatric Patients
 
 The efficacy of SPRYCEL in pediatric patients was evaluated in two pediatric studies of 97 patients with chronic phase CML.
-Among 97 patients with chronic phase CML treated in two pediatric studies, an open-label, non-randomized dose-ranging trial (NCT00306202) and an open-label, non-randomized, single-arm trial (NCT00777036), 51 patients (exclusively from the single-arm trial) had newly diagnosed with chronic phase CML and 46 patients (17 from the dose-ranging trial and 29 from the single-arm trial) were resistant or intolerant to previous treatment with imatinib.
+Among 97 patients with chronic phase CML treated in two pediatric studies, an open-label, non-randomized dose-ranging trial (NCT00306202) and an open-label, non-randomized, single-arm trial (NCT00777036), 51 patients (exclusively from the single-arm trial) had newly diagnosed chronic phase CML and 46 patients (17 from the dose-ranging trial and 29 from the single-arm trial) were resistant or intolerant to previous treatment with imatinib.
 Ninety-one of the 97 pediatric patients were treated with SPRYCEL tablets 60 mg/m2 once daily (maximum dose of 100 mg once daily for patients with high BSA).
 Patients were treated until disease progression or unacceptable toxicity.
 
@@ -148,12 +148,12 @@ Baseline demographic characteristics of the 46 imatinib resistant or intolerant 
 Baseline characteristics of the 51 newly diagnosed patients were: median age 12.8 years (range 1.9 to 17.8 years), 60.8% White, 31.4% Asian, 5.9% Black, 2% Other, and 49% female.
 
 Median duration of follow-up was 5.2 years (range 0.5 to 9.3 years) for the imatinib resistant or intolerant patients and 4.5 years (range 1.3 to 6.4 years) for the newly diagnosed patients, respectively.
-Efficacy results for the two pediatric studies are summarized in Table 17.
+Efficacy results for the two pediatric studies are summarized in Table 20.
 
-Table 17 shows increasing trend for response for CCyR, MCyR, and MMR across time (3 months to 24 months).
+Table 20 shows increasing trend for response for CCyR, MCyR, and MMR across time (3 months to 24 months).
 The increasing trend in response for all three endpoints is seen in both the newly diagnosed and imatinib resistant or intolerant patients.
 
-Table 17: Efficacy of SPRYCEL in Pediatric Patients with CP-CML Cumulative Response Over Time by Minimum Follow-Up Period
+Table 20: Efficacy of SPRYCEL in Pediatric Patients with CP-CML Cumulative Response Over Time by Minimum Follow-Up Period
 
 |  | 3 months | 6 months | 12 months | 24 months |
 | --- | --- | --- | --- | --- |
@@ -178,8 +178,22 @@ The median time to response for MCyR was 2.9 months (95% CI: 2.8 months, 3.5 mon
 The median time to response for CCyR was 3.3 months (95% CI: 2.8 months, 4.7 months) in the pooled imatinib-resistant/intolerant CP-CML patients.
 The median time to response for MMR was 8.3 months (95% CI: 5.0 months, 11.8 months) in the pooled imatinib- resistant/intolerant CP-CML patients.
 
-The median time to response for MCyR was 3.0 months (95% CI: 2.8 months, 4.3 months) in the newly diagnosed treatment naïve CP-CML patients.
+The median time to response for MCyR was 3.0 months (95% CI: 2.8 months, 4.3 months) in the newly diagnosed treatment-naïve CP-CML patients.
 The median time to response for CCyR was 5.5 months (95% CI: 3.0 months, 5.7 months) in the newly diagnosed treatment-naïve CP-CML patients.
 The median time to response for MMR was 8.9 months (95% CI: 6.2 months, 11.7 months) in the newly diagnosed treatment-naïve CP-CML patients.
 
 In the Phase II pediatric study, 1 newly diagnosed patient and 2 imatinib-resistant or -intolerant patients progressed to blast phase CML.
+
+## 14.4 Ph+ ALL in Pediatric Patients
+
+The efficacy of SPRYCEL in combination with chemotherapy was evaluated in a single cohort (cohort 1) of Study CA180372 (NCT01460160), a multicenter, multiple-cohort study of pediatric patients with newly diagnosed B-cell precursor Ph+ ALL.
+The 78 patients in cohort 1 received SPRYCEL at a daily dose of 60 mg/m2 for up to 24 months, in combination with chemotherapy.
+The backbone chemotherapy regimen was the AIEOP-BFM ALL 2000 multi-agent chemotherapy protocol.
+
+Patients had a median age of 10.4 years (range 2.6 to 17.9 years) and included 20 patients (25%) 2 to 6 years of age, 37 patients (46%) 7 to 12 years of age, and 24 patients (30%) 13 to 17 years of age.
+Eighty-two percent of patients were white, and 55% were male.
+Thirty-two patients (41%) had a white blood cell count (WBC) of ≥50,000 mcl at diagnosis, and 17 patients (22%) had extramedullary disease.
+
+Efficacy was established on the basis of 3-year event-free survival (EFS), defined as the time from the start of SPRYCEL to lack of complete response at the end of the third high risk block, relapse, secondary malignancy, or death from any cause.
+The 3-year EFS binary rate for patients on Study CA180372 was 64.1% (95% CI: 52.4, 74.7).
+At the end of induction, 75 patients (96%) had a bone marrow with <5% lymphoblasts, and 76 patients (97%) achieved this by the end of consolidation.
