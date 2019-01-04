@@ -4,7 +4,7 @@ The following adverse reactions are discussed in more detail in other sections o
 
 - •Myocardial Ischemia, Myocardial Infarction, and Prinzmetal’s Angina [see Warnings and Precautions (5.1)]
 - •Arrhythmias [see Warnings and Precautions (5.2)]
-- •Chest, Throat, Neck and/or Jaw Pain/Tightness/Pressure [seeWarnings and Precautions (5.3)]
+- •Chest, Throat, Neck and/or Jaw Pain/Tightness/Pressure [see Warnings and Precautions (5.3)]
 - •Cerebrovascular Events [see Warnings and Precautions (5.4)]
 - •Other Vasospasm Reactions [see Warnings and Precautions (5.5)]
 - •Medication Overuse Headache [see Warnings and Precautions (5.6)]
@@ -21,10 +21,10 @@ Among 460 patients treating 1180 single attacks with ZOMIG nasal spray in a blin
 None of the withdrawals were due to a serious event.
 One patient was withdrawn due to abnormal ECG changes from baseline that were incidentally found 23 days after the last dose of ZOMIG nasal spray.
 
-The most common adverse reactions (≥5% and > placebo) in any dosage strength in clinical trials for ZOMIG nasal spray were: unusual taste, paresthesia, hyperesthesia, and dizziness.
+The most common adverse reactions (≥ 5% and > placebo) in any dosage strength in clinical trials for ZOMIG nasal spray were: unusual taste, paresthesia, hyperesthesia, and dizziness.
 The incidence of adverse reactions was generally dose‑related.
 
-Table 1 lists the adverse reactions from the controlled clinical trial (Study 1) that occurred in ≥2% of patients in either the 2.5 or 5 mg ZOMIG nasal spray dose groups and with an incidence greater than placebo.
+Table 1 lists the adverse reactions from the controlled clinical trial (Study 1) that occurred in ≥ 2% of patients in either the 2.5 or 5 mg ZOMIG nasal spray dose groups and with an incidence greater than placebo.
 
 Table 1: Adverse reactions in a Placebo-Controlled Study in Adult Patients with Migraine (Study 1)
 
@@ -50,7 +50,7 @@ Table 1: Adverse reactions in a Placebo-Controlled Study in Adult Patients with 
 | Unusual Taste | 3% | 17% | 21% |
 | Asthenia | 1% | 3% | 3% |
 
-In Study 1, adverse reactions occurring in ≥1% and < 2% of patients in all attacks in either ZOMIG nasal spray dose group and with incidence greater than that of placebo were: abdominal pain, chills, throat pressure, facial edema, chest pressure, palpitation, dysphagia, arthralgia, myalgia, and depersonalization.
+In Study 1, adverse reactions occurring in ≥ 1% and < 2% of patients in all attacks in either ZOMIG nasal spray dose group and with incidence greater than that of placebo were: abdominal pain, chills, throat pressure, facial edema, chest pressure, palpitation, dysphagia, arthralgia, myalgia, and depersonalization.
 
 The incidence of adverse reactions in controlled clinical trials was not affected by gender, weight, or age of the patients (18-39 vs. 40-65 years of age), or presence of aura.
 There were insufficient data to assess the impact of race on the incidence of adverse reactions.
@@ -59,7 +59,7 @@ Local Adverse Reactions:
 
 Among 460 patients using ZOMIG 2.5 mg or 5 mg in the controlled clinical trial, approximately 3% noted local irritation or soreness at the site of administration.
 Adverse reactions of any kind, perceived in the nasopharynx (which may include systemic effects of triptans) were severe in about 1% of patients and approximately 57% resolved in 1 hour.
-Nasopharyngeal examinations, in a subset of patients participating in two long term trials of up to one year duration, failed to demonstrate any clinically significant changes with repeated use of ZOMIG nasal spray.
+Nasopharyngeal examinations, in a subset of patients participating in two long term trials of up to one-year duration, failed to demonstrate any clinically significant changes with repeated use of ZOMIG nasal spray.
 
 All nasopharyngeal adverse reactions with an incidence of ≥ 2% of patients in any ZOMIG nasal spray dose groups are included in Table 1.
 

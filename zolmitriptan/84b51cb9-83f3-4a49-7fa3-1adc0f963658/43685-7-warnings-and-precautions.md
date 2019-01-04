@@ -18,7 +18,7 @@ Life‑threatening disturbances of cardiac rhythm including ventricular tachycar
 Discontinue ZOMIG if these disturbances occur.
 Patients with Wolff-Parkinson‑White Syndrome or arrhythmias associated with other cardiac accessory conduction pathway disorders should not receive ZOMIG [see Contraindications (4)].
 
-## 5.3 Chest, Throat, Neck, and/or Jaw Pain/Tightness/Pressure
+## 5.3 Chest, Throat, Neck and/or Jaw Pain/Tightness/Pressure
 
 As with other 5‑HT1 agonists, sensations of tightness, pain, pressure, and heaviness in the precordium, throat, neck, and jaw commonly occur after treatment with ZOMIG and is usually non-cardiac in origin.
 However, if a cardiac origin is suspected, patients should be evaluated.

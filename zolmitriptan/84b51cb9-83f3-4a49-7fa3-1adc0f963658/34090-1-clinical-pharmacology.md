@@ -10,6 +10,8 @@ The therapeutic activity of ZOMIG for the treatment of migraine headache is thou
 
 ## 12.3 Pharmacokinetics
 
+Absorption, Distribution, Metabolism, and Excretion
+
 Absorption
 
 Zolmitriptan nasal spray is rapidly absorbed via the nasopharynx as detected in a Photon Emission Tomography (PET) study using 11C zolmitriptan.
@@ -21,6 +23,7 @@ Zolmitriptan and its active N-desmethyl metabolite display linear kinetics after
 
 The pharmacokinetics of the N-desmethyl metabolite are similar to that of zolmitriptan for all nasal spray dosages.
 The N-desmethyl metabolite is detected in plasma by 15 minutes and peak plasma concentration is generally achieved by 3 hours after administration.
+
 Food has no significant effect on the bioavailability of zolmitriptan.
 
 Distribution
@@ -35,7 +38,7 @@ Because the 5HT1B/1D potency of the metabolite is 2 to 6 times that of the paren
 
 Excretion
 
-The mean elimination half life for zolmitriptan and N‑desmethyl metabolite following single or multiple nasal spray administration are approximately 3 hours, similar to the half-life values seen after oral tablet administration.
+The mean elimination half-life for zolmitriptan and N‑desmethyl metabolite following single or multiple nasal spray administration are approximately 3 hours, similar to the half-life values seen after oral tablet administration.
 
 In a study with orally administered zolmitriptan, total radioactivity recovered in urine and feces was 65% and 30% of the administered dose, respectively.
 In urine, unchanged zolmitriptan and N‑desmethyl metabolite accounted for 8% and 4% of the dose, respectively, whereas the inactive indole acetic acid and N‑oxide metabolites accounted for 31% and 7% of the dose, respectively.

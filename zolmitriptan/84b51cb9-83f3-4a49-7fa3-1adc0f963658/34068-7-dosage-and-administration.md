@@ -15,8 +15,8 @@ The safety of ZOMIG in the treatment of an average of more than four headaches i
 ## 2.2 Dosing in Patients with Hepatic Impairment
 
 ZOMIG nasal spray is not recommended in patients with moderate to severe hepatic impairment because of increased zolmitriptan blood levels in these patients and elevation of blood pressure in some of these patients.
-The recommended dosage of ZOMIG nasal spray in patients with mild hepatic impairment is the same as for patients with normal hepatic function [see Dosage and Administration (2.1),Warnings and Precautions (5.8),Use in Specific Populations (8.6)andClinical Pharmacology (12.3)].
+The recommended dosage of ZOMIG nasal spray in patients with mild hepatic impairment is the same as for patients with normal hepatic function [see Dosage and Administration (2.1), Warnings and Precautions (5.8), Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 ## 2.3 Dosing in Patients taking Cimetidine
 
-If ZOMIG is co‑administered with cimetidine, limit the maximum single dose of ZOMIG to 2.5 mg, not to exceed 5 mg in any 24‑hour period [see Drug Interactions (7.4)andClinical Pharmacology (12.3)].
+If ZOMIG is co‑administered with cimetidine, limit the maximum single dose of ZOMIG to 2.5 mg, not to exceed 5 mg in any 24‑hour period [see Drug Interactions (7.4) and Clinical Pharmacology (12.3)].
