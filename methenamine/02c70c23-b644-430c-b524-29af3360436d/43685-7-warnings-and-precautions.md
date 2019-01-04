@@ -26,7 +26,7 @@ Enzymatic hydrolysis, in place of acid hydrolysis, will circumvent this problem.
 This product contains FD&C Yellow No. 5 (tartrazine), which may cause allergic-type reactions (including bronchial asthma) in certain susceptible individuals.
 Although the overall incidence of FD&C Yellow No. 5 (tartrazine) sensitivity in the general population is low, it is frequently seen in patients who also have aspirin hypersensitivity.
 
-Geriatric Use
+## Geriatric Use
 
 Clinical studies of HIPREX did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
@@ -34,7 +34,7 @@ In general, dose selection for an elderly patient should be cautious, usually st
 
 HIPREX is contraindicated in patients with renal insufficiency and severe hepatic insufficiency (see CONTRAINDICATIONS).
 
-Information for Patients
+## Information for Patients
 
 Patients should be counseled that antibacterial drugs including HIPREX should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
