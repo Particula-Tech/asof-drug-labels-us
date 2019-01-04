@@ -1,33 +1,39 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-Adverse reactions associated with levothyroxine therapy are primarily those of hyperthyroidism due to therapeutic overdosage.
+Common adverse reactions with LEVOXYL therapy are primarily those of hyperthyroidism due to therapeutic overdosage [see Warnings and Precautions (5.4), Overdosage (10)].
 They include the following:
 
-General: fatigue, increased appetite, weight loss, heat intolerance, fever, excessive sweating;
+General: fatigue, increased appetite, weight loss, heat intolerance, fever, excessive sweating
 
-Central nervous system: headache, hyperactivity, nervousness, anxiety, irritability, emotional lability, insomnia;
+Central nervous system: headache, hyperactivity, nervousness, anxiety, irritability, emotional lability, insomnia
 
-Musculoskeletal: tremors, muscle weakness;
+Musculoskeletal: tremors, muscle weakness and cramps
 
-Cardiac: palpitations, tachycardia, arrhythmias, increased pulse and blood pressure, heart failure, angina, myocardial infarction, cardiac arrest;
+Cardiovascular: palpitations, tachycardia, arrhythmias, increased pulse and blood pressure, heart failure, angina, myocardial infarction, cardiac arrest
 
-Pulmonary: dyspnea;
+Respiratory: dyspnea
 
-GI: diarrhea, vomiting, abdominal cramps;
+Gastrointestinal: diarrhea, vomiting, abdominal cramps, elevations in liver function tests
 
-Dermatologic: hair loss, flushing;
+Dermatologic: hair loss, flushing
 
-Reproductive: menstrual irregularities, impaired fertility.
+Endocrine: decreased bone mineral density
 
-Pseudotumor cerebri and slipped capital femoral epiphysis have been reported in children receiving levothyroxine therapy.
-Overtreatment may result in craniosynostosis in infants and premature closure of the epiphyses in children with resultant compromised adult height.
+Reproductive: menstrual irregularities, impaired fertility
 
-Seizures have been reported rarely with the institution of levothyroxine therapy.
+Seizures have been reported rarely with levothyroxine therapy.
 
-Inadequate levothyroxine dosage will produce or fail to ameliorate the signs and symptoms of hypothyroidism.
+Adverse Reactions in Pediatric Patients
+
+Pseudotumor cerebri and slipped capital femoral epiphysis have been reported in pediatric patients receiving levothyroxine therapy.
+Overtreatment may result in craniosynostosis in infants and premature closure of the epiphysis in pediatric patients with resultant compromised adult height.
+
+Hypersensitivity Reactions
 
 Hypersensitivity reactions to inactive ingredients have occurred in patients treated with thyroid hormone products.
-These include urticaria, pruritus, skin rash, flushing, angioedema, various GI symptoms (abdominal pain, nausea, vomiting and diarrhea), fever, arthralgia, serum sickness and wheezing.
+These include urticaria, pruritus, skin rash, flushing, angioedema, various gastrointestinal symptoms (abdominal pain, nausea, vomiting, and diarrhea), fever, arthralgia, serum sickness and wheezing.
 Hypersensitivity to levothyroxine itself is not known to occur.
 
-In addition to the above events, the following have been reported, predominately when Levoxyl tablets were not taken with water: choking, gagging, tablet stuck in throat and dysphagia (see Information for Patients).
+Choking and Gagging on LEVOXYL Tablets
+
+There have been reports of choking, gagging, tablet stuck in throat, and dysphagia with LEVOXYL tablets, predominately when LEVOXYL tablets were not taken with water [see Dosage and Administration (2.1)].

@@ -1,3 +1,4 @@
-LAB-0709-1.0
+This product's label may have been updated.
+For the current prescribing information, please visit www.pfizer.com.
 
-September 2014
+LAB-0709-2.0

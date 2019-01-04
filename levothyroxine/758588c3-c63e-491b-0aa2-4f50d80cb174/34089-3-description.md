@@ -1,12 +1,15 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-–LEVOXYL® (levothyroxine sodium tablets, USP) contain synthetic crystalline L-3,3',5,5'-tetraiodothyronine sodium salt [levothyroxine (T4) sodium].
-Synthetic T4 is identical to that produced in the human thyroid gland.
-Levothyroxine (T4) sodium has an empirical formula of C15H10I4N NaO4 • H2O, molecular weight of 798.86 g/mol (anhydrous), and structural formula as shown:
+LEVOXYL contains the active ingredient, levothyroxine, asynthetic crystalline levothyroxine (T4) in sodium salt form.
+It is chemically designated as L-3,3',5,5'-tetraiodothyronine monosodium hydrate.
+Synthetic T4 is identical in chemical structure to the T4 produced in the human thyroid gland.
+Levothyroxine sodium has an empirical formula of C15H10I4N NaO4 ∙ H2O, molecular weight of 798.85 g/mol (anhydrous), and structural formula as shown:
 
-## Inactive Ingredients
+LEVOXYL tablets for oral administration are supplied in the following strengths: 25 mcg, 50 mcg, 75 mcg, 88 mcg, 100 mcg, 112 mcg, 125 mcg, 137 mcg, 150 mcg, 175 mcg, and 200 mcg.
 
-Microcrystalline cellulose, croscarmellose sodium, magnesium stearate, calcium sulfate dihydrate and sodium bicarbonate.
+Inactive Ingredients
+
+Calcium sulfate dihydrate, croscarmellose sodium, magnesium stearate, microcrystalline cellulose, and sodium bicarbonate.
 The following are the coloring additives per tablet strength:
 
 | Strength (mcg) | Color additive(s) |
