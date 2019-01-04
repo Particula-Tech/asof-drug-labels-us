@@ -57,3 +57,4 @@ If patients miss a dose, they should be instructed to take it as soon as possibl
 ## 17.11 Interference with Psychomotor Performance
 
 Patients should be instructed to use caution when driving a car or operating hazardous machinery until they are reasonably certain that their performance is not affected by atomoxetine.
+Dispense with Medication Guide available at: http://www.risingpharma.com/med-guides.html

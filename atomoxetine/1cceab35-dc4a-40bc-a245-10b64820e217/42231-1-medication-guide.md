@@ -229,5 +229,6 @@ Parnate® is a registered trademark of GlaxoSmithKline.
 Emsam® is a registered trademark of Somerset Pharmaceuticals Inc.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Dispense with Medication Guide available at: http://www.risingpharma.com/med-guides.html
 
-Distributed by: Rising Pharmaceuticals, Inc. Allendale, NJ 07401 Made in India Code No.: TS/DRUGS/19/1993 Issued: 05/2017
+Distributed by: Rising Pharmaceuticals, Inc. Saddle Brook, NJ 07663 Made in India Code No.: TS/DRUGS/19/1993 Revised: 12/2018
