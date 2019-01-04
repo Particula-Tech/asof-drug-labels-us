@@ -1,0 +1,10 @@
+# 10 OVERDOSAGE
+
+Based on the limited available information, the acute symptoms of carbidopa/levodopa overdosage can be expected to arise from dopaminergic overstimulation.
+Using more than one dose (84 mg) to treat the same OFF period may result in CNS disturbances, with an increasing risk for cardiovascular disturbance (e.g., hypotension, tachycardia) and increased risk for new or worsening psychiatric problems at higher doses.
+
+Reports of rhabdomyolysis and transient renal insufficiency suggest that levodopa overdosage may give rise to systemic complications.
+
+Monitor patients and provide supportive care.
+Patients should receive electrocardiographic monitoring for the development of arrhythmias; if needed, appropriate antiarrhythmic therapy should be given.
+The possibility that the patient may have taken other drugs, increasing the risk of drug interactions (especially catechol-structured drugs) should be taken into consideration.

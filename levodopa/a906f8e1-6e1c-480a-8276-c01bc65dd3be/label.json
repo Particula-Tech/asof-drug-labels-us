@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "NDA209184"
+  ],
+  "inn": "levodopa",
+  "labeler": "Acorda Therapeutics, Inc.",
+  "package_ndcs": [
+    "10144-342-01",
+    "10144-342-16",
+    "10144-342-32",
+    "10144-342-60",
+    "10144-342-92"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "levodopa",
+      "name": "Inbrija"
+    }
+  ],
+  "setid": "a906f8e1-6e1c-480a-8276-c01bc65dd3be",
+  "source": "dailymed"
+}
