@@ -29,8 +29,7 @@ Adrenal suppression as indicated by a 30-minutes post-stimulation cortisol level
 In Trial D, HPA axis suppression was evaluated in subjects 12 to 17 years (N=32) with plaque psoriasis of the body involving 5-30% of the body surface area.
 Treatment consisted of once daily application of Taclonex® Ointment to the affected areas for up to 4 weeks.
 Mean weekly dose was 29.6 g with a range of 8.1-55.8 g/week.
-Adrenal suppression as indicated by a 30-minute post-stimulation cortisol level ≤18 mcg/dL was observed in none of 32 evaluable subjects after 4 weeks of treatment.
-[See Use in Specific Populations (8.4)]
+Adrenal suppression as indicated by a 30-minute post-stimulation cortisol level ≤18 mcg/dL was observed in none of 32 evaluable subjects after 4 weeks of treatment [see Use in Specific Populations (8.4)].
 
 Effects on Calcium Metabolism
 

@@ -20,7 +20,7 @@ Percentage of Subjects with Absent or Very Mild Disease According to the Investi
 | --- | --- | --- | --- | --- |
 | Absent or very mild disease | 48.0% | 16.5% | 26.3% | 7.6% |
 
-*Subjects with mild disease at baseline were required to have "Absent" disease to be considered a success.
+* Subjects with mild disease at baseline were required to have "Absent" disease to be considered a success.
 In addition to the pivotal trial (N = 490), four randomized, double-blind, vehicle- or active-controlled, parallel-group trials were conducted and provided supportive evidence of efficacy.
 These trials included a total of 1058 subjects treated with Taclonex® Ointment once daily for up to 4 weeks.
 
@@ -29,5 +29,4 @@ Clinical Trial Conducted in Subjects 12 to 17 years with Plaque Psoriasis
 A prospective, uncontrolled trial (N=33) was conducted in pediatric subjects ages 12 to 17 years with plaque psoriasis involving 5-30% of the body surface area.
 Approximately 91% of subjects had moderate disease at baseline.
 Subjects were treated once daily for up to 4 weeks with Taclonex® Ointment.
-All subjects were evaluated for safety including calcium metabolism (N=33) and 32 subjects were evaluated for HPA axis suppression.
-[see Clinical Pharmacology (12.2)]
+All subjects were evaluated for safety including calcium metabolism (N=33) and 32 subjects were evaluated for HPA axis suppression [see Clinical Pharmacology (12.2)].

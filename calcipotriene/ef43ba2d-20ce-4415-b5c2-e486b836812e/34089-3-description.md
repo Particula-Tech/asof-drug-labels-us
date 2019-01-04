@@ -11,7 +11,7 @@ Calcipotriene hydrate is a white to almost white crystalline compound.
 
 Betamethasone dipropionate is a synthetic corticosteroid.
 
-Betamethasone dipropionate has the chemical name 9-fluoro-11(beta),17,21-trihydroxy-16(beta)-methylpregna-1,4-diene-3,20-dione17,21-dipropionate, with the empirical formula C28H37FO7, a molecular weight of 504.6, and the following structural formula:
+Betamethasone dipropionate has the chemical name 9-fluoro-11(beta), 17,21-trihydroxy-16(beta)-methylpregna-1,4-diene-3,20-dione17,21-dipropionate, with the empirical formula C28H37FO7, a molecular weight of 504.6, and the following structural formula:
 
 Betamethasone dipropionate is a white to almost white odorless powder.
 

@@ -7,6 +7,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 Clinical Trials Conducted in Subjects 18 years and older with Plaque Psoriasis
 
 The data described below reflect exposure to Taclonex® Ointment in 2448 subjects with plaque psoriasis, including 1992 exposed for 4 weeks, and 289 exposed for 8 weeks.
+
 Taclonex® Ointment was studied primarily in placebo- and active-controlled trials (N = 1176, and N = 1272, respectively).
 The population was 15-97 years old, 61% males and 39% females, mostly white (97%) and had a baseline disease severity ranging from mild to very severe.
 Most subjects received once daily application, and the median weekly dose was 24.5 g.

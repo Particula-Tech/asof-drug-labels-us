@@ -12,6 +12,9 @@ Inform patients of the following:
 - Do not occlude the treatment area with a bandage or other covering unless directed by the physician.
 - Note that local reactions and skin atrophy are more likely to occur with occlusive use, prolonged use or use of higher potency corticosteroids.
 - Wash hands after application.
+- Advise patients to report any visual symptoms to their healthcare providers.
+- Advise a woman to use Taclonex® Ointment on the smallest area of skin and for the shortest duration possible while pregnant or breastfeeding.
+  Advise breastfeeding women not to apply Taclonex® Ointment directly to the nipple and areola to avoid direct infant exposure.
 - Instruct patients not to use other products containing calcipotriene or a corticosteroid should not be used with Taclonex® Ointment without first talking to the physician.
 - Instruct patients who use Taclonex® Ointment to avoid excessive exposure to either natural or artificial sunlight (including tanning booths, sun lamps, etc.).
 

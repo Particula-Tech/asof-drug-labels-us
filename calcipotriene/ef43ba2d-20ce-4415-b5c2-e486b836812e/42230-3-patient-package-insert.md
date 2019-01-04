@@ -40,8 +40,10 @@ Tell your doctor about all of your health conditions, including if you:
 - are pregnant or planning to become pregnant.
   It is not known if Taclonex® Ointment can harm your unborn baby.
   You and your doctor will have to decide if Taclonex® Ointment is right for you while pregnant.
-- are breastfeeding.
+- are breastfeeding or plan to breastfeed.
   It is not known if Taclonex® Ointment passes into your milk and if it can harm your baby.
+  If you use Taclonex® Ointment while breastfeeding, use Taclonex® Ointment on the smallest area of skin and for the shortest time needed.
+  If you use Taclonex® Ointment, do not apply Taclonex® Ointment to your nipple or areola to avoid getting Taclonex® Ointment into your baby’s mouth.
 
 Tell your doctor about all the medicines you take, including prescription, and nonprescription medicines, vitamins and herbal supplements.
 
@@ -66,6 +68,7 @@ How should I use Taclonex® Ointment?
 - If you forget to use Taclonex® Ointment, use it as soon as you remember.
   Then go on as before.
 - Wash your hands well after applying Taclonex® Ointment.
+- If you are breastfeeding, do not use Taclonex® Ointment on the breast while nursing.
 
 Using Taclonex® Ointment: Do not bandage or tightly cover the treated skin area.
 
@@ -110,6 +113,10 @@ Call your doctor about any side effect that bothers you or that does not go away
 These are not all of the side effects with Taclonex® Ointment.
 Ask your doctor or pharmacist for more information.
 
+Vision problems.
+Taclonex® Ointment may increase your chance of developing cataract(s) and glaucoma.
+Tell your healthcare provider if you develop blurred vision or other vision problems during treatment with Taclonex® Ointment.
+
 How should I store Taclonex® Ointment?
 
 - Store Taclonex® Ointment at room temperature, 68°F - 77°F (20°C - 25°C); Make sure the cap on the tube is tightly closed.
@@ -144,4 +151,4 @@ Seven Giralda Farms
 
 Madison, NJ 07940 USA
 
-Revised: 06/2017
+Revised: 12/2018
