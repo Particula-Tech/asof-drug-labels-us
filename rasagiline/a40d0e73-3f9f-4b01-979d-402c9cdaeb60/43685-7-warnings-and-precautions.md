@@ -119,11 +119,3 @@ Consider dose reduction or stopping the medication if a patient develops such ur
 ## 5.10 Withdrawal-Emergent Hyperpyrexia and Confusion
 
 A symptom complex resembling neuroleptic malignant syndrome (characterized by elevated temperature, muscular rigidity, altered consciousness, and autonomic instability), with no other obvious etiology, has been reported in association with rapid dose reduction, withdrawal of, or changes in drugs that increase central dopaminergic tone.
-
-## 5.11 Melanoma
-
-Epidemiological studies have shown that patients with Parkinson’s disease have a higher risk (2- to approximately 6-fold higher) of developing melanoma than the general population.
-Whether the increased risk observed was due to Parkinson’s disease or other factors, such as drugs used to treat Parkinson’s disease, is unclear.
-
-For the reasons stated above, patients and providers are advised to monitor for melanomas frequently and on a regular basis.
-Ideally, periodic skin examinations should be performed by appropriately qualified individuals (e.g., dermatologists).

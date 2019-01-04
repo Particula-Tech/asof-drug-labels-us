@@ -66,6 +66,10 @@ Instruct patients to take AZILECT as prescribed.
 If a dose is missed, the patient should not double-up the dose of AZILECT.
 The next dose should be taken at the usual time on the following day.
 
-AZI-001
+Pregnancy
+
+Advise patients to notify their healthcare provider if they are pregnant or plan to become pregnant [see Use in Specific Populations (8.1)].
+
+AZI-002
 
 Marketed by: Teva Neuroscience, Inc., Overland Park, KS 66211 Distributed by: Teva Pharmaceuticals USA, Inc., North Wales, PA 19454
