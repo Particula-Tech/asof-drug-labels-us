@@ -4,7 +4,7 @@
 
 - Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
 - Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.2)].
-- Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy and following dosage increases with hydromorphone hydrochloride tablets and adjust the dosage accordingly [see Warnings and Precautions (5.3)].
+- Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy and following dosage increases with hydromorphone hydrochloride tablets and adjust the dosage accordingly [see Warnings and Precautions (5.4)].
 
 ## 2.2 Initial Dosage
 
@@ -30,7 +30,7 @@ Initiate treatment with one-fourth to one-half the usual hydromorphone hydrochlo
 ## 2.5 Titration and Maintenance of Therapy
 
 Individually titrate hydromorphone hydrochloride tablets to a dose that provides adequate analgesia and minimizes adverse reactions.
-Continually reevaluate patients receiving hydromorphone hydrochloride tablets to assess the maintenance of pain control and the relative incidence of adverse reactions, as well as monitoring for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.2].
+Continually reevaluate patients receiving hydromorphone hydrochloride tablets to assess the maintenance of pain control and the relative incidence of adverse reactions, as well as monitoring for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.2)].
 Frequent communication is important among the prescriber, other members of the healthcare team, the patient, and the caregiver/family during periods of changing analgesic requirements, including initial titration.
 
 If the level of pain increases after dosage stabilization, attempt to identify the source of increased pain before increasing the hydromorphone hydrochloride tablets dosage.
@@ -44,4 +44,4 @@ A supplemental dose of 5 to 15% of the total daily usage may be administered eve
 
 When a patient who has been taking hydromorphone hydrochloride tablets regularly and may be physically dependent no longer requires therapy with hydromorphone hydrochloride tablets, taper the dose gradually, by 25% to 50% every 2 to 4 days, while monitoring carefully for signs and symptoms of withdrawal.
 If the patient develops these signs and symptoms, raise the dose to the previous level and taper more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both.
-Do not abruptly discontinue hydromorphone hydrochloride tablets in a physically dependent patient [see Warnings and Precautions (5.12), Drug Abuse and Dependence (9.3)].
+Do not abruptly discontinue hydromorphone hydrochloride tablets in a physically dependent patient [see Warnings and Precautions (5.13), Drug Abuse and Dependence (9.3)].
