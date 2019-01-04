@@ -18,7 +18,7 @@ Zolmitriptan is well absorbed after oral administration for both ZOMIG tablets a
 Zolmitriptan displays linear kinetics over the dose range of 2.5 to 50 mg.
 
 The AUC and Cmax of zolmitriptan are similar following administration of ZOMIG tablets and ZOMIG-ZMT Orally Disintegrating Tablets, but the Tmax is somewhat later with ZOMIG‑ZMT, with a median Tmax of 3 hours for ZOMIG‑ZMT Orally Disintegrating Tablet compared with 1.5 hours for the ZOMIG tablet.
-The AUC, Cmax,and Tmax for the active N‑desmethyl metabolite are similar for the two formulations.
+The AUC, Cmax, and Tmax for the active N‑desmethyl metabolite are similar for the two formulations.
 
 During a moderate to severe migraine attack, mean AUC0-4 and Cmax for zolmitriptan, dosed as a ZOMIG tablet, were decreased by 40% and 25%, respectively, and mean Tmax was delayed by one‑half hour compared to the same patients during a migraine free period.
 
@@ -46,7 +46,7 @@ The indole acetic acid and N-oxide metabolites are inactive.
 Mean total plasma clearance is 31.5 mL/min/kg, of which one-sixth is renal clearance.
 The renal clearance is greater than the glomerular filtration rate suggesting renal tubular secretion.
 
-Special Populations
+Specific Populations
 
 Hepatic Impairment
 
@@ -72,7 +72,7 @@ Retrospective analysis of pharmacokinetic data between Japanese and Caucasians r
 
 Hypertensive Patients
 
-No differences in the pharmacokinetics of zolmitriptan or its effects on blood pressure were seen in mild to moderate hypertensivevolunteers compared with normotensive controls.
+No differences in the pharmacokinetics of zolmitriptan or its effects on blood pressure were seen in mild to moderate hypertensive volunteers compared with normotensive controls.
 
 Drug Interaction Studies
 

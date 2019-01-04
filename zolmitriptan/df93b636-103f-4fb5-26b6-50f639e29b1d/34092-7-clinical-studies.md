@@ -21,13 +21,13 @@ In Studies 1 and 3, there was a statistically significant greater percentage of 
 There were no statistically significant differences between the 2.5 and 5 mg dose groups (or of doses up to 20 mg) for the primary end point of headache response at 2 hours in any study.
 The results of these controlled clinical studies are summarized in Table 2.
 
-Table 2 Percentage of Patients with Headache Response (Reduction in Headache Severity from Moderate or Severe Pain to Mild or No Headache) 2 Hours Following Treatment in Studies 1 through 5
+Table 2: Percentage of Patients with Headache Response (Reduction in Headache Severity from Moderate or Severe Pain to Mild or No Headache) 2 Hours Following Treatment in Studies 1 through 5
 
-|  | Placebo | ZOMIG Tablets1mg | ZOMIGTablets2.5 mg | ZOMIGTablets5 mg |
+|  | Placebo | ZOMIG Tablets1 mg | ZOMIGTablets2.5 mg | ZOMIGTablets5 mg |
 | --- | --- | --- | --- | --- |
 | Study 1Study 1 was the only study in which patients treated the headache in a clinic setting. | 16%(nn=number of patients randomized=19) | 27%(n=22) | NANA=not applicable | 60%P<0.05 in comparison with placebo.P<0.05 in comparison with 1 mg.(n=20) |
 | Study 2 | 19%(n=88) | NA | NA | 66%(n=179) |
-| Study 3 | 34%(n=121) | 50%(n=140) | 65% (n=260) | 67%(n=245) |
+| Study 3 | 34%(n=121) | 50%(n=140) | 65%(n=260) | 67%(n=245) |
 | Study 4Study 4 was the only study where patients were excluded who had previously used sumatriptan. | 44%(n=55) | NA | NA | 59%(n=491) |
 | Study 5 | 36%(n=92) | NA | 62%(n=178) | NA |
 
@@ -64,7 +64,7 @@ Figure 3 Estimated Probability of Achieving Initial Headache Response (Reduction
 
 *In this Kaplan-Meier plot patients taking additional treatment or not achieving headache response prior to 2 hours were censored at 2 hours.
 
-For patients with migraine-associated photophobia, phonophobia, and nausea at baseline, there was a decreased incidence of these symptoms following administration of ZOMIG-ZMT as compared to placebo.
+For patients with migraine-associated photophobia, phonophobia and nausea at baseline, there was a decreased incidence of these symptoms following administration of ZOMIG-ZMT as compared to placebo.
 
 Two to 24 hours following the initial dose of study treatment, patients were allowed to use additional treatment in the form of a second dose of study treatment or other medication.
 The estimated probability of patients taking a second dose or other medication for migraine over the 24 hours following the initial dose of study treatment in Study 6 is summarized in Figure 4.

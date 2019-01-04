@@ -2,28 +2,46 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C: There are no adequate and well-controlled studies in pregnant women; therefore, ZOMIG should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-In reproductive toxicity studies in rats and rabbits, oral administration of zolmitriptan to pregnant animals resulted in embryolethality and fetal abnormalities (malformations and variations) at clinically relevant exposures.
+Risk Summary
+
+There are no adequate data on the developmental risk associated with the use of ZOMIG in pregnant women.
+In reproductive toxicity studies in rats and rabbits, oral administration of zolmitriptan to pregnant animals resulted in embryolethality and fetal abnormalities (malformations and variations) at clinically relevant exposures (see Data).
+
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+The estimated rates of major birth defects (2.2%-2.9%) and miscarriage (17%) among deliveries to women with migraine are similar to rates reported in women without migraine.
+
+Clinical Considerations
+
+Disease-Associated Maternal and/or Embryo/Fetal Risk
+
+Published data have suggested that women with migraine may be at increased risk of preeclampsia during pregnancy.
+
+Data
+
+Animal Data
 
 When zolmitriptan was administered to pregnant rats during the period of organogenesis at oral doses of 100, 400, and 1200 mg/kg/day (plasma exposures (AUCs) ≈280, 1100, and 5000 times the human AUC at the maximum recommended human dose (MRHD) of 10 mg/day), there was a dose-related increase in embryolethality.
 A no-effect dose for embryolethality was not established.
 When zolmitriptan was administered to pregnant rabbits during the period of organogenesis at oral doses of 3, 10, and 30 mg/kg/day (plasma AUCs ≈1, 11, and 42 times the human AUC at the MRHD), there were increases in embryolethality and in fetal malformations and variations.
-The no-effect dose for adverse effects on embryo-fetal development was associated with a plasma AUC similar to that in humans at the MRHD.
+The no-effect dose for adverse effects on embryofetal development was associated with a plasma AUC similar to that in humans at the MRHD.
 When female rats were given zolmitriptan during gestation, parturition, and lactation at oral doses of 25, 100, and 400 mg/kg/day (plasma AUCs ≈70, 280, and 1100 times that in human at the MRHD), an increased incidence of hydronephrosis was found in the offspring.
 The no-effect dose was associated with a plasma AUC ≈280 times that in humans at the MRHD.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-It is not known whether zolmitriptan is excreted in human milk.
-Because many drugs are excreted in human milk, and because of the potential for serious adverse reactions in nursing infants from ZOMIG, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
-In rats, oral dosing with zolmitriptan resulted in levels in milk up to 4 times higher than in plasma.
+Risk Summary
+
+There are no data on the presence of zolmitriptan or its metabolites in human milk, the effects on the breastfed infant, or the effects of zolmitriptan and its metabolites on milk production.
+In rats, oral dosing with zolmitriptan resulted in levels in milk up to 4 times that in maternal plasma.
+
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for ZOMIG and any potential adverse effects on the breastfed infant from ZOMIG or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
 The safety and effectiveness in pediatric patients have not been established.
 Therefore, ZOMIG is not recommended for use in patients under 18 years of age.
 
-One randomized, placebo-controlled clinical trial of ZOMIG tablets (2.5, 5m and 10 mg) evaluated 696 pediatric patients (aged 12-17 years) with migraines.
+One randomized, placebo-controlled clinical trial of ZOMIG tablets (2.5, 5 and 10 mg) evaluated 696 pediatric patients (aged 12-17 years) with migraines.
 This study did not demonstrate the efficacy of ZOMIG compared to placebo in the treatment of migraine in adolescents.
 Adverse reactions in the adolescent patients treated with ZOMIG were similar in nature and frequency to those reported in clinical trials in adults treated with ZOMIG.
 ZOMIG has not been studied in pediatric patients less than 12 years old.

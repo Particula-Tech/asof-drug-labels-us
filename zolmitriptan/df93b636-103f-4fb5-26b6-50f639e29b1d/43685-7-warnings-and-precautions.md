@@ -18,7 +18,7 @@ Life‑threatening disturbances of cardiac rhythm including ventricular tachycar
 Discontinue ZOMIG if these disturbances occur.
 ZOMIG is contraindicated in patients with Wolff-Parkinson-White Syndrome or arrhythmias associated with other cardiac accessory conduction pathway disorders [see Contraindications (4)].
 
-## 5.3 Chest, Throat, Neck, and Jaw Pain/Tightness/Pressure
+## 5.3 Chest, Throat, Neck and Jaw Pain/Tightness/Pressure
 
 As with other 5-HT1 agonists, sensations of tightness, pain, and pressure in the chest, throat, neck, and jaw commonly occur after treatment with ZOMIG and is usually non-cardiac in origin.
 However, perform a cardiac evaluation if these patients are at high cardiac risk.
@@ -42,7 +42,7 @@ Since visual disorders may be part of a migraine attack, a causal relationship b
 
 ## 5.6 Medication Overuse Headache
 
-Overuse of acute migraine drugs (e.g. ergotamine, triptans, opioids, or a combination of drugs for 10 or more days per month) may lead to exacerbation of headache (medication overuse headache).
+Overuse of acute migraine drugs (e.g., ergotamine, triptans, opioids, or a combination of drugs for 10 or more days per month) may lead to exacerbation of headache (medication overuse headache).
 Medication overuse headache may present as migraine-like daily headaches or as a marked increase in frequency of migraine attacks.
 Detoxification of patients, including withdrawal of the overused drugs, and treatment of withdrawal symptoms (which often includes a transient worsening of headache) may be necessary.
 

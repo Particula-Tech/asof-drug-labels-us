@@ -2,75 +2,37 @@
 
 NDC 64896-671-51
 
-Six 2.5 mg Tablets
+SIX Tablets
 
 Zomig® Tablets
 
 ZOLMITRIPTAN
 
-USUAL DOSAGE: See accompanying Prescribing Information.
+2.5 mg
 
-WARNING: As with all medication, keep out of the reach of children.
+Rx only
 
-Store at controlled room temperature 20-25ºC (68-77ºF)[see USP].
+1-877-99-IMPAX (46729) ·www.zomig.com
 
-Protect from light and moisture.
-
-See side panel for lot number and expiration date.
-
-IMPAX PHARMACEUTICALS
-
-Manufactured by: IPR Pharmaceuticals, Inc.
-
-Canóvanas, PR 00729
-
-Distributed by: Impax Specialty Pharma
-
-A Division of Impax Laboratories, Inc.
-
-Hayward, CA 94544
-
-Product of Switzerland
-
-ZOMIG is a trademark of the AstraZeneca group of companies.
+Impax
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 5 mg
 
 NDC 64896-672-50
 
-Three 5 mg Tablets
+THREE Tablets
 
 Zomig® Tablets
 
-ZOLMITRIPTAN
+ZOLMITRIPT
 
-USUAL DOSAGE: See accompanying Prescribing Information.
+5 mg
 
-WARNING: As with all medication, keep out of the reach of children.
+Rx only
 
-Store at controlled room temperature 20-25ºC (68-77ºF)[see USP].
+1-877-99-IMPAX (46729) ·www.zomig.com
 
-Protect from light and moisture.
-
-See side panel for lot number and expiration date.
-
-IMPAX PHARMACEUTICALS
-
-Manufactured by: IPR Pharmaceuticals, Inc.
-
-Canóvanas, PR 00729
-
-Distributed by: Impax Specialty Pharma
-
-A Division of Impax Laboratories, Inc.
-
-Hayward, CA 94544
-
-Product of Switzerland
-
-ZOMIG is a trademark of the AstraZeneca group of companies.
-
-©AstraZeneca 2012
+Impax
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL –2.5 mg
 
@@ -78,41 +40,19 @@ NDC 64896-691-51
 
 SIX orally disintegrating tablets
 
-Zomig-ZMT® 2.5 mg ZMT
+Zomig-ZMT®
 
-ZOLMITRIPTAN Orally Disintegrating Tablets
+ZOLMITRIPTAN 2.5 mg ZMT
 
-Phenylketonurics: Contains Phenylalanine
+Orally Disintegrating Tablets
 
-2.81 mg per Tablet.
+www.zomig.com
 
-USUAL DOSAGE: See accompanying Prescribing Information.
+Rx only
 
-WARNING: As with all medication, keep out of the reach of children.
+1-877-99-IMPAX (46729)
 
-Store at controlled room temperature 20-25ºC (68-77ºF) [see USP].
-
-Protect from light and moisture.
-
-See side panel for lot number and expiration date.
-
-IMPAX PHARMACEUTICALS
-
-Manufactured by: Anesta LLC
-
-Salt Lake City, UT 84416.
-
-Distributed by: Impax Specialty Pharma
-
-A Division of Impax Laboratories, Inc.
-
-Hayward, CA 94544
-
-Product of Switzerland
-
-ZOMIG is a trademark of the AstraZeneca group of companies.
-
-©AstraZeneca 2012
+Impax
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 5 mg
 
@@ -120,38 +60,16 @@ NDC 64896-692-50
 
 THREE orally disintegrating tablets
 
-Zomig-ZMT® 5 mg ZMT
+Zomig-ZMT®
 
-ZOLMITRIPTAN Orally Disintegrating Tablets
+ZOLMITRIPTAN 5 mg ZMT
 
-Phenylketonurics: Contains Phenylalanine
+Orally Disintegrating Tablets
 
-5.62 mg per Tablet.
+www.zomig.com
 
-USUAL DOSAGE: See accompanying Prescribing Information.
+Rx only
 
-WARNING: As with all medication, keep out of the reach of children.
+1-877-99-IMPAX (46729)
 
-Store at controlled room temperature 20-25ºC (68-77ºF) [see USP].
-
-Protect from light and moisture.
-
-See side panel for lot number and expiration date.
-
-IMPAX PHARMACEUTICALS
-
-Manufactured by: Anesta LLC
-
-Salt Lake City, UT 84416
-
-Distributed by: Impax Specialty Pharma
-
-A Division of Impax Laboratories, Inc.
-
-Hayward, CA 94544
-
-Product of Switzerland
-
-ZOMIG is a trademark of the AstraZeneca group of companies.
-
-©AstraZeneca 2012
+Impax
