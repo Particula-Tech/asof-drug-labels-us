@@ -2,7 +2,7 @@
 
 ## 14.1 Overview of Clinical Studies
 
-The safety and effectiveness of subcutaneous NOVOLOG was compared to regular human insulin in 596 type 1 diabetes adult, 187 pediatric type 1 diabetes, and 91 adult type 2 diabetes patients using NPH as basal insulin (see Tables 3,4,5).
+The safety and effectiveness of subcutaneous NOVOLOG was compared to regular human insulin in 596 type 1 diabetes adult, 187 pediatric type 1 diabetes, and 91 adult type 2 diabetes patients using NPH as basal insulin (see Tables 3, 4, 5).
 The reduction in glycated hemoglobin (HbA1c) was similar to regular human insulin.
 
 The safety and effectiveness of NOVOLOG administered by continuous subcutaneous insulin infusion (CSII) by external pump was compared to buffered regular human insulin (administered by CSII), to lispro (administered by CSII) and compared to NOVOLOG injections and NPH injection.
@@ -57,7 +57,7 @@ Pediatric Subcutaneous Administration of NOVOLOG in Type 1 Diabetes (24 weeks; n
 
 ## 14.3 Clinical Studies in Adults with Type 2 Diabetes and Subcutaneous Daily Injections
 
-Type 2 Diabetes—Adults (see Table 5)
+Type 2 Diabetes - Adults (see Table 5)
 
 Onesix-month, open-label, active-controlled study was conducted to compare the safety and efficacy of NOVOLOG to regular human insulin in patients with type 2 diabetes (Table 5).
 

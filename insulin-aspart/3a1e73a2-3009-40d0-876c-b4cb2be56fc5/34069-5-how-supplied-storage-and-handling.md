@@ -4,25 +4,25 @@
 
 NOVOLOG 100 units of insulin aspart per mL (U-100) is available as a clear and colorless solution for injection in:
 
-| 10 mL vials | NDC 0169-7501-11 |
-| --- | --- |
-| 3 mL PenFill cartridges* | NDC 0169-3303-12 |
-| 3 mL NOVOLOG FlexPen | NDC 0169-6339-10 |
-| 3 mL NOVOLOG FlexTouch | NDC 0169-6338-10 |
+1. 10 mL multiple-dose vial NDC 0169-7501-11
+2. 3 mL single-patient-use PenFill cartridges* NDC 0169-3303-12
+3. 3 mL single-patient-use NOVOLOG FlexPen NDC 0169-6339-10
+4. 3 mL single-patient-use NOVOLOG FlexTouch NDC 0169-6338-10
 
 *NOVOLOG PenFill cartridges are designed for use with Novo Nordisk insulin delivery devices with NovoFine disposable needles.
 FlexPen and FlexTouch can be used with NovoFine or NovoTwist disposable needles.
-NOVOLOG FlexPen, NOVOLOG FlexTouch, PenFill cartridge, and PenFill cartridge insulin delivery devices manufactured by Novo Nordisk must never be shared between patients, even if the needle is changed.
+
+The NOVOLOG FlexPen and FlexTouch dial in 1-unit increments.
 
 ## 16.2 Recommended Storage
 
 Unused NOVOLOG should be stored in a refrigerator between 2° and 8°C (36° to 46°F).
-Do not freeze NOVOLOG and do not use NOVOLOG if it hasbeen frozen.
+Do not freeze NOVOLOGanddo not use NOVOLOG if it has been frozen.
 Do not expose NOVOLOG to excessive heat or light.
 
 NOVOLOG should not be drawn into a syringe and stored for later use.
 
-Always remove and discard the needle after each injection from the NOVOLOG FlexPenor NOVOLOG FlexTouchand store without a needle attached.
+Always remove and discard the needle after each injection from the NOVOLOG FlexPen or NOVOLOG FlexTouchand store without a needle attached.
 This prevents contamination and/or infection, or leakage of insulin, and will ensure accurate dosing.
 
 The storage conditions are summarized in the following table:
@@ -49,4 +49,4 @@ NOVOLOG diluted with Insulin Diluting Medium for NOVOLOG to a concentration equi
 Storage of NOVOLOG in Intravenous Infusion Fluids
 
 Infusion bags prepared as indicated under Dosage and Administration (2.2) are stable at room temperature for 24 hours.
-Some insulin will be initially adsorbed to the material of the infusion
+Some insulin will be initially adsorbed to the material of the infusion.

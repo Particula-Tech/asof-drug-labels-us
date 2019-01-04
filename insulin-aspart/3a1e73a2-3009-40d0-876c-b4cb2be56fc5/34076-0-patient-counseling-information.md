@@ -1,10 +1,10 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use)
+Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
-Never Share a NOVOLOG FlexPen or a NOVOLOG Flex Touch, PenFill Cartridge or PenFill Cartridge Device Between Patients
+Never Share a NOVOLOG FlexPen or a NOVOLOG FlexTouch, PenFill Cartridge or PenFill Cartridge Device Between Patients
 
-Advise patients that they must never share NOVOLOG FlexPen, NOVOLOG Flex Touch, PenFill cartrige or PenFill cartridge devices with another person even if the needle is changed, because doing so carries a risk for trasmission of blood-borne pathogens.
+Advise patients that they must never share NOVOLOG FlexPen, NOVOLOG FlexTouch, PenFill cartrige or PenFill cartridge devices with another person even if the needle is changed, because doing so carries a risk for transmission of blood-borne pathogens.
 Advise patients using NOVOLOG vials not to share needles or syringes with another person.
 Sharing poses a risk for transmission of blood-borne pathogens [see Warnings and Precautions (5.1)].
 
@@ -16,7 +16,7 @@ Instruct patients on handling of special situations such as intercurrent conditi
 Instruct patients on the management of hypoglycemia [see Warnings and Precautions (5.3)].
 
 Inform patients that their ability to concentrate and react may be impaired as a result of hypoglycemia.
-Advise patients who have frequent hypoglycemia or reduced or absent warning signs of hypoglycemia to use caution when driving or operating machinery
+Advise patients who have frequent hypoglycemia or reduced or absent warning signs of hypoglycemia to use caution when driving or operating machinery.
 
 Hypoglycemia with Medication Errors
 
@@ -26,10 +26,6 @@ Hypersensitivity Reactions
 
 Advise patients that hypersensitivity reactions have occurred with NOVOLOG.
 Inform patients of the symptoms of hypersensitivity reactions [see Warnings and Precautions (5.4)].
-
-Women of Reproductive Potential
-
-Advise patients to inform their health care professional if they are pregnant or are contemplating pregnancy.
 
 Administration
 
@@ -43,7 +39,7 @@ In this case they would not have received any insulin – even though the dose c
 Instruct the patient to change the needle as described in Section 5 of the Instructions for Use and repeat all steps in the IFU starting with Section 1: Prepare your pen with a new needle.
 Make sure the patient selects the full dose needed.
 
-Patients Using Continous Subcutaneous Insulin Pumps
+Patients Using Continuous Subcutaneous Insulin Pumps
 
 - •Train patients in both intensive insulin therapy with multiple injections and in the function of their pump and pump accessories.
 - •Instruct patients to replace insulin in the reservoir at least every 6 days; infusion sets and infusion set insertion sites should be changed at least every 3 days.
@@ -57,26 +53,19 @@ Patients Using Continous Subcutaneous Insulin Pumps
 - •Instruct patients of the risk of hypoglycemia from pump malfunction.
   If these problems cannot be promptly corrected, instruct patients to resume therapy with subcutaneous insulin injection and contact their physician [see Warnings and Precautions (5) and How Supplied/Storage and Handling (16.2)].
 
-The following insulin pumps† have been used in NOVOLOG clinical or in vitro studies conducted by Novo Nordisk, the manufacturer of NOVOLOG:
-
-- •Medtronic Paradigm® 512 and 712
-- •MiniMed 508
-
-Before using another insulin pump with NOVOLOG, read the pump label to make sure the pump has been evaluated with NOVOLOG.
+Before using an insulin pump with NOVOLOG, read the pump label to make sure the pump has been evaluated with NOVOLOG.
 
 Rx only
 
-Date of Issue: March 16, 2017
+Date of Issue: 12/2018
 
-Version: 25
+Version: 26
 
 Novo Nordisk®, NOVOLOG®, PenFill®, Novolin®, FlexPen®, FlexTouch®, NovoFine®, and NovoTwist® are registered trademarks of Novo Nordisk A/S.
 
 Patent Information: http://novonordisk-us.com/patients/products/product-patents.html
 
-†The brands listed are the registered trademarks of their respective owners and are not trademarks of Novo Nordisk A/S.
-
-© 2002-2017 Novo Nordisk
+© 2002-2018 Novo Nordisk
 
 Manufactured by:
 

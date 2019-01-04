@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 The primary activity of insulin, including NOVOLOGis the regulation of glucose metabolism.
-Insulin, and its analogs lower blood glucose by stimulating peripheral glucose uptake, especially by skeletal muscle and fat, and by inhibiting hepatic glucose production.
+Insulin and its analogs lower blood glucose by stimulating peripheral glucose uptake, especially by skeletal muscle and fat, and by inhibiting hepatic glucose production.
 Insulin inhibits lipolysis and proteolysis, and enhances protein synthesis.
 
 ## 12.2 Pharmacodynamics
@@ -47,7 +47,7 @@ After subcutaneous administration in normal malevolunteers (n=24), NOVOLOG was e
 
 Specific Populations
 
-Pediatrics - Thepharmacokinetic and pharmacodynamic properties of NOVOLOG and regular humaninsulin were evaluated in asingle dose study in 18 children (6-12 years, n=9) and adolescents (13-17 years [Tanner grade > 2], n=9) with type 1 diabetes.
+Pediatrics - Thepharmacokinetic and pharmacodynamic properties of NOVOLOG and regular humaninsulin were evaluated in asingle dose study in 18 children (6-12 years, n=9) and adolescents (13-17 years [Tanner grade ≥ 2], n=9) with type 1 diabetes.
 The relative differences in pharmacokinetics and pharmacodynamics in children and adolescents with type 1 diabetes between NOVOLOG and regular human insulin were similar to those in healthy adult subjects and adults with type 1 diabetes.
 
 Geriatrics: The pharmacokinetic and pharmacodynamic properties of NOVOLOG and regular human insulin were investigated in a single dose study in 18 subjects with type 2 diabetes who were ≥ 65 years of age.
@@ -59,8 +59,8 @@ Obesity: A single subcutaneous dose of 0.1 units/kg NOVOLOG was administered in 
 The pharmacokinetic parameters, AUC and Cmax, of NOVOLOG were generally unaffected by BMI in the different groups – BMI 19-23 kg/m2 (N=4); BMI 23-27 kg/m2 (N=7); BMI 27-32 kg/m2 (N=6) and BMI >32 kg/m2 (N=6).
 Clearance of NOVOLOG was reduced by 28% in patients with BMI >32 kg/m2 compared to patients with BMI <23 kg/m2.
 
-Renal Impairment: – A single subcutaneous dose of 0.08 units/kg NOVOLOG was administered in a study to subjects with either normal renal function (N=6) creatinine clearance (CLcr) (> 80 ml/min) or mild (N=7; CLcr = 50-80 ml/min), moderate (N=3; CLcr = 30-50 ml/min) or severe (but not requiring hemodialysis) (N=2; CLcr = <30 ml/min) renal impairment.
+Renal Impairment: A single subcutaneous dose of 0.08 units/kg NOVOLOG was administered in a study to subjects with either normal renal function (N=6) creatinine clearance (CLcr) (> 80 ml/min) or mild (N=7; CLcr = 50-80 ml/min), moderate (N=3; CLcr = 30-50 ml/min) or severe (but not requiring hemodialysis) (N=2; CLcr = <30 ml/min) renal impairment.
 In this study, there was no apparent effect of creatinine clearance values on AUC and Cmax of NOVOLOG.
 
-Hepatic Impairment: – A single subcutaneous dose of 0.06 units/kg NOVOLOG was administered in an open-label, single-dose study of 24 subjects (N=6/group) with different degree of hepatic impairment (mild, moderate and severe) having Child-Pugh Scores ranging from 0 (healthy volunteers) to 12 (severe hepatic impairment).
+Hepatic Impairment: A single subcutaneous dose of 0.06 units/kg NOVOLOG was administered in an open-label, single-dose study of 24 subjects (N=6/group) with different degree of hepatic impairment (mild, moderate and severe) having Child-Pugh Scores ranging from 0 (healthy volunteers) to 12 (severe hepatic impairment).
 In this study, there was no correlation between the degree of hepatic impairment and any NOVOLOG pharmacokinetic parameter.

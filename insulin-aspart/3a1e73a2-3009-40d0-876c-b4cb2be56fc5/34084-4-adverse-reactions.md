@@ -1,9 +1,9 @@
 # 6 ADVERSE REACTIONS
 
 1. The following adverse reactions are also discussed elsewhere:
-2. •Hypoglycemia [see Warning and Precautions (5.3)]
-3. •Hypersensitivity and allergic reactions [see Warning and Precautions (5.5)]
-4. •Hypokalemia [see Warning and Precautions (5.6)]
+2. •Hypoglycemia [see Warnings and Precautions (5.3)]
+3. •Hypersensitivity and allergic reactions [see Warnings and Precautions (5.5)]
+4. •Hypokalemia [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trial Experience
 
@@ -21,7 +21,7 @@
    The mean duration of diabetes was 12.7 years and the mean HbA1c at baseline was 8.1%.
 
 Common adverse reactions were defined as events occurring in ≥5%, excluding hypoglycemia, of the population studied.
-Common adverse events occurring at the same rate or greater for NOVOLOG-treated subjects than on comparator-treated subjects during clinical trials in patients with type 1 diabetes mellitus and type 2 diabetes mellitus (other than hypoglycemia) are listed in Table 1 and Table 2, respectively.
+Common adverse events occurring at the same rate or greater for NOVOLOG-treated subjects than in comparator-treated subjects during clinical trials in patients with type 1 diabetes mellitus and type 2 diabetes mellitus (other than hypoglycemia) are listed in Table 1 and Table 2, respectively.
 
 Table 1: Adverse reactions occurring in ≥ 5% of Type 1 Diabetes Mellitus Adult Patients treated with NOVOLOG and at the same rate or greater on NOVOLOG than on comparator
 
@@ -66,7 +66,7 @@ Allergic Reactions
 
 Some patients taking insulin therapy, including NOVOLOG have experienced erythema, local edema, and pruritus at the site of injection.
 These conditions were usually self-limiting.
-Severe cases of generalized allergy (anaphylaxis) have been reported [see Warning and Precautions (5.5)].
+Severe cases of generalized allergy (anaphylaxis) have been reported [see Warnings and Precautions (5.5)].
 
 Insulin initiation and glucose control intensification
 

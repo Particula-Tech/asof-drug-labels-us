@@ -6,6 +6,8 @@
 - •Inspect NOVOLOG visually before use.
   It should appear clear and colorless.
   Do not use NOVOLOG if particulate matter or coloration is seen.
+- •Use NOVOLOG FlexPen and NOVOLOG FlexTouch with caution in patients with visual impairment who may rely on audible clicks to dial their dose.
+- •Use PenFill cartridges with caution in patients with visual impairment.
 - •Do NOT mix NOVOLOG with other insulins when administering using a continuous subcutaneous infusion pump.
 
 ## 2.2 Route of Administration
@@ -14,6 +16,7 @@ Subcutaneous Injection
 
 - •Inject NOVOLOG subcutaneously within 5-10 minutes before a meal into the abdominal area, thigh, buttocks or upper arm.
 - •Rotate injection sites within the same region from one injection to the next to reduce the risk of lipodystrophy [see Adverse Reactions (6.1)].
+- •The NOVOLOG FlexPen and FlexTouch dial in 1-unit increments.
 - •NOVOLOG administered by subcutaneous injection should generally be used in regimens with an intermediate- or long-acting insulin.
 - •NOVOLOG may be diluted with Insulin Diluting Medium for NOVOLOG for subcutaneous injection.
   Diluting one part NOVOLOG to nine parts diluent will yield a concentration one-tenth that of NOVOLOG (equivalent to U-10).
@@ -21,18 +24,16 @@ Subcutaneous Injection
 
 Continuous Subcutaneous Infusion (Insulin Pump)
 
+- •Use NOVOLOG in pump systems specifically indicated for insulin infusion.
 - •Train patients using continuous subcutaneous insulin fusion pump therapy to administer insulin by injection and have alternate insulin therapy available in case of pump failure.
 - •Administer NOVOLOG by continuous subcutaneous infusion into the subcutaneous tissue of the abdominal wall.
   Rotate infusion sites within the same region to reduce the risk of lipodystrophy [see Adverse Reactions (6.1)].
 - •Follow healthcare provider recommendations when setting basal and meal time infusion rate.
+- •Change the NOVOLOG in the reservoir at least every 6 days.
+  Follow the NOVOLOG-specific information for in-use time because NOVOLOG-specific information may differ from general pump manual instructions.
+- •Change the infusion set and the infusion set insertion site at least every 3 days.
 - •Do NOT dilute or mix NOVOLOG when administering by continuous subcutaneous infusion.
-- •Change the NOVOLOG in the reservoir at least every 6 days
-- •Change the infusion sets and the infusion set insertion site at least every 3 days.
 - •Do NOT expose NOVOLOG in the pump reservoir to temperatures greater than 98.6°F (37°C).
-- •Follow the NOVOLOG-specific information (e.g., in-use time, frequency of changing infusion sets) because NOVOLOG-specific information may differ from general pump manual instructions.
-- •The following insulin pumps† have been used in NOVOLOG clinical or in vitro studies conducted by Novo Nordisk, the manufacturer of NOVOLOG:
-  - oMedtronic Paradigm® 512 and 712
-  - oMiniMed 508
 
 Intravenous Administration
 
