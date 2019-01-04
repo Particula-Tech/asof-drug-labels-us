@@ -27,10 +27,6 @@ Hypersensitivity Reactions
 Advise patients that hypersensitivity reactions have occurred with NOVOLOG MIX 70/30.
 Inform patients of the symptoms of hypersensitivity reactions [see Warnings and Precautions (5.5)].
 
-Women of Reproductive Potential
-
-Advise patients to inform their health care professional if they are pregnant or are contemplating pregnancy.
-
 Administration
 
 - •Advise patients to inspect NOVOLOG MIX 70/30 visually before use.
@@ -40,18 +36,18 @@ Administration
   Resuspension is easier when the insulin has reached room temperature.
 - •Instruct patients when using the vial, to roll the vial gently in their hands in a horizontal position 10 times until the suspension appears uniformly white and cloudy.
   The patient should use immediately after resuspension.
-- •Instruct patients when using the FlexPen, to roll the FlexPen gently between their hands in a horizontal position 10 times.
-  Then, to turn the FlexPen upside down so that the glass ball moves from one end of the reservoir to the other 10 times until the suspension appears uniformly white and cloudy.
+- •Instruct patients when using NOVOLOG MIX 70/30 FlexPen, to roll NOVOLOG MIX 70/30 FlexPen gently between their hands in a horizontal position 10 times.
+  Then, to turn NOVOLOG MIX 70/30 FlexPen upside down so that the glass ball moves from one end of the reservoir to the other 10 times until the suspension appears uniformly white and cloudy.
   The patient should use immediately after resuspension.
 - •Instruct patients to administer NOVOLOG MIX 70/30 by subcutaneous injection in the abdominal region, buttocks, thigh, or upper arm and to rotate injection sites within the same region to reduce the risk of lipodystrophy.
 
-Version: 14
+Version: 15
 
 Novo Nordisk®, NOVOLOG®, FlexPen®, and Novolin® are registered trademarks of Novo Nordisk® A/S.
 
 Patent Information: http://novonordisk-us.com/patients/products/product-patents.html
 
-© 2002 – 2017 Novo Nordisk
+© 2002 – 2018 Novo Nordisk
 
 Manufactured by:
 

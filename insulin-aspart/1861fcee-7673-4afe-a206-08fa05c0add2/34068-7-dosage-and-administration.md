@@ -14,9 +14,11 @@
   Resuspension is easier when the insulin has reached room temperature.
 - •When using the vial, roll the vial gently in hands in a horizontal position 10 times until the suspension appears uniformly white and cloudy.
   Inject immediately.
-- •When using the FlexPen, roll the FlexPen gently between hands in a horizontal position 10 times.
-  Then, turn the FlexPen upside down so that the glass ball moves from one end of the reservoir to the other 10 times until the suspension appears uniformly white and cloudy.
+- •When using NOVOLOG MIX 70/30 FlexPen, roll NOVOLOG MIX 70/30 FlexPen gently between hands in a horizontal position 10 times.
+  Then, turn NOVOLOG MIX 70/30 FlexPen upside down so that the glass ball moves from one end of the reservoir to the other 10 times until the suspension appears uniformly white and cloudy.
   Inject immediately.
+- •The NOVOLOG MIX 70/30 FlexPen dials in 1-unit increments.
+- •Use NOVOLOG MIX 70/30 FlexPen with caution in patients with visual impairment who may rely on audible clicks to dial their dose.
 - •Do not administer NOVOLOG MIX 70/30 intravenously or use in insulin infusion pumps.
 - •Do not mix NOVOLOG MIX 70/30 with any other insulins.
 
@@ -29,4 +31,4 @@
 
 ## 2.3 Dosage Adjustment Due to Drug Interactions
 
-- •Dosage adjustment may be needed when NOVOLOG MIX 70/30 is coadministered with certain drugs [see Drug Interactions (7)].
+- •Dosage adjustment may be needed when NOVOLOG MIX 70/30 is co-administered with certain drugs [see Drug Interactions (7)].

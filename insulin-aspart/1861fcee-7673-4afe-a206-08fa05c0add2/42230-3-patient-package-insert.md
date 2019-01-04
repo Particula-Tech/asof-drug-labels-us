@@ -118,59 +118,59 @@ NovoLog® Mix 70/30 (NŌ-vō-Log-MIX-SEV-en-tee-THIR-tee)
 
 10 mL vial (100 Units/mL, U-100)
 
-Read this Instructions for Use before you start taking NovoLog® Mix 70/30 and each time you get a refill.
+Read this Instructions for Use before you start taking NovoLog Mix 70/30 and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
-Supplies you will need to give your NovoLog® Mix 70/30 injection:
+Supplies you will need to give your NovoLog Mix 70/30 injection:
 
-- •10 mL NovoLog® Mix 70/30 vial
+- •10 mL NovoLog Mix 70/30 vial
 - •insulin syringe and needle
-- •alcohol swab
+- •alcohol swabs
 
-Preparing your NovoLog® Mix 70/30 dose:
+Preparing your NovoLog Mix 70/30 dose:
 
 - •Wash your hands with soap and water.
-- •Before you start to prepare your injection, check the NovoLog® Mix 70/30 label to make sure that you are taking the right type of insulin.
+- •Before you start to prepare your injection, check the NovoLog Mix 70/30 label to make sure that you are taking the right type of insulin.
   This is especially important if you use more than 1 type of insulin.
-- •NovoLog® Mix 70/30 should look white and cloudy after mixing.
+- •NovoLog Mix 70/30 should look white and cloudy after mixing.
   Do not use NovoLog Mix 70/30 if it looks clear or contains any lumps or particles.
-- •NovoLog® Mix 70/30 is easier to mix when it is at room temperature.
-- •After mixing NovoLog® Mix 70/30, inject your dose right away.
+- •NovoLog Mix 70/30 is easier to mix when it is at room temperature.
+- •After mixing NovoLog Mix 70/30, inject your dose right away.
   If you wait to inject your dose, the insulin will need to be mixed again.
-- •Do not use NovoLog® Mix 70/30 past the expiration date printed on the label.
+- •Do not use NovoLog Mix 70/30 past the expiration date printed on the label.
 
 Step 1: If you are using a new vial, pull off the tamper-resistant cap (See Figure A).
 
 Step 2: Wipe the rubber stopper with an alcohol swab (See Figure B).
 
 Step 3: Roll the NovoLog Mix 70/30 vial between your hands 10 times.
-Keep the vial in a horizontal (flat) position (See Figure C). Roll the vial between your hands until the NovoLog® Mix 70/30 looks white and cloudy.
+Keep the vial in a horizontal (flat) position (See Figure C). Roll the vial between your hands until the NovoLog Mix 70/30 looks white and cloudy.
 Do not shake the vial.
 
 Step 4: Hold the syringe with the needle pointing up.
 Pull down on the plunger until the black tip reaches the line for the number of units for your prescribed dose (See Figure D).
 
-Step 5: Push the needle through the rubber stopper of the NovoLog® Mix 70/30 vial (See Figure E).
+Step 5: Push the needle through the rubber stopper of the NovoLog Mix 70/30 vial (See Figure E).
 
 Step 6: Push the plunger all the way in.
-This puts air into the NovoLog® Mix 70/30 vial (See Figure F).
+This puts air into the NovoLog Mix 70/30 vial (See Figure F).
 
-Step 7: Turn the NovoLog® Mix 70/30 vial and syringe upside down and slowly pull the plunger down until the black tip is a few units past the line for your dose (See Figure G).
+Step 7: Turn the NovoLog Mix 70/30 vial and syringe upside down and slowly pull the plunger down until the black tip is a few units past the line for your dose (See Figure G).
 
 - •If there are air bubbles, tap the syringe gently a few times to let any air bubbles rise to the top (See Figure H).
 
-Step 8: Slowly push the plunger up until the black tip reaches the line for your NovoLog® Mix 70/30 dose (See Figure I).
+Step 8: Slowly push the plunger up until the black tip reaches the line for your NovoLog Mix 70/30 dose (See Figure I).
 
-Step 9: Check the syringe to make sure you have the right dose of NovoLog® Mix 70/30.
+Step 9: Check the syringe to make sure you have the right dose of NovoLog Mix 70/30.
 
 Step 10: Pull the syringe out of the vial’s rubber stopper (See Figure J).
 
 Giving your injection:
 
-- •Inject your NovoLog® Mix 70/30 exactly as your healthcare provider has shown you.
+- •Inject your NovoLog Mix 70/30 exactly as your healthcare provider has shown you.
   Your healthcare provider should tell you if you need to pinch the skin before injecting.
-- •NovoLog® Mix 70/30 is injected under the skin (subcutaneously) of your stomach area, buttocks, upper legs, or upper arms.
+- •NovoLogMix 70/30 is injected under the skin (subcutaneously) of your stomach area, buttocks, upper legs, or upper arms.
 - •Change (rotate) your injection sites within the area you choose for each dose.
   Do not use the same injection site for each injection.
 
@@ -178,10 +178,10 @@ Step 11: Choose your injection site and wipe the skin with an alcohol swab.
 Let the injection site dry before you inject your dose (See Figure K).
 
 Step 12: Insert the needle into your skin.
-Push down on the plunger to inject your dose (See Figure L). Needle should remain in the skin for at least 6 seconds to make sure you have injected all the insulin.
+Push down on the plunger to inject your dose (See Figure L). The needle should remain in the skin for at least 6 seconds to make sure you have injected all the insulin.
 
 Step 13: Pull the needle out of your skin.
-After that, you may see a drop of NovoLog® Mix 70/30 at the needle tip.
+After that, you may see a drop of NovoLogMix 70/30 at the needle tip.
 This is normal and does not affect the dose you just received (See Figure M).
 
 - •If you see blood after you take the needle out of your skin, press the injection site lightly with a piece of gauze or an alcohol swab.
@@ -191,26 +191,37 @@ After your injection:
 
 - •Do not recap the needle.
   Recapping the needle can lead to a needle stick injury.
-- •Throw away empty insulin vials, used syringes and needles in a sharps container or some type of hard plastic or metal container with a screw on cap such as a detergent bottle or coffee can.
-  Check with your healthcare provider about the right way to throw away the container.
-  There may be local or state laws about how to throw away used syringes and needles.
-  Do not throw away used syringes and needles in household trash or recycling bins.
+- •Put the empty insulin vials, used needles and syringes in a FDA-cleared sharps disposal container right away after use.
+  Do not throw away (dispose of) loose needles and syringes in your household trash.
+- •If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
+  - •made of a heavy-duty plastic,
+  - •can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+  - •upright and stable during use,
+  - •leak-resistant, and
+  - •properly labeled to warn of hazardous waste inside the container.
+- •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
+  There may be state or local laws about how you should throw away used needles and syringes.
+  For more information about the safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
+  Do not recycle your used sharps disposal container.
 
-How should I store NovoLog® Mix 70/30?
+How should I store NovoLog Mix 70/30?
 
-- •Do not freeze NovoLog® Mix 70/30.
-  Do not use NovoLog® Mix 70/30 if it has been frozen.
-- •Keep NovoLog® Mix 70/30 away from heat or light.
-- •Store opened and unopened NovoLog® Mix 70/30 vials in the refrigerator at 36OF to 46OF (2OC to 8OC).
-  Opened NovoLog® Mix 70/30 vials can also be stored out of the refrigerator below 86OF (30OC).
-- •Unopened vials may be used until the expiration date printed on the label, if they are kept in the refrigerator.
-- •Opened NovoLog® Mix 70/30 vials should be thrown away after 28 days, even if they still have insulin left in them.
+- •Do not freeze NovoLog Mix 70/30.
+  Do not use NovoLog Mix 70/30 if it has been frozen.
+- •Keep NovoLog Mix 70/30 away from heat or light.
+- All unopened vials:
+- •Store unopened NovoLog Mix 70/30 vials in the refrigerator at 36OF to 46OF (2OC to 8OC).
+- •Unopened vials may be used until the expiration date printed on the label, if they have been stored in the refrigerator.
+- •Unopened vials should be thrown away after 28 days, if they are stored at room temperature.
+- After vials have been opened:
+- •Opened NovoLog Mix 70/30 vials can be stored in the refrigerator at 36OF to 46OF (2OC to 8OC) or at room temperature below 86°F (30°C) for up to 28 days.
+- •Throw away all opened Novolog Mix 70/30 vials after 28 days, even if they still have insulin left in them.
 
-General information about the safe and effective use of NovoLog® Mix 70/30
+General information about the safe and effective use of NovoLog Mix 70/30
 
 - •Always use a new syringe and needle for each injection.
 - •Do not share syringes or needles.
-- •Keep NovoLog® Mix 70/30 vials, syringes, and needles out of the reach of children.
+- •Keep NovoLog Mix 70/30 vials, syringes, and needles out of the reach of children.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
@@ -220,15 +231,15 @@ Novo Nordisk A/S
 
 DK-2880 Bagsvaerd, Denmark
 
-Revised: May 2017
+Revised: 12/2018
 
 NovoLog® is a registered trademark of Novo Nordisk A/S.
 
 PATENT Information: http://novonordisk-us.com/patients/products/product-patents.html
 
-© 2002-2017 Novo Nordisk
+© 2002-2018 Novo Nordisk
 
-For information about NovoLog® Mix 70/30 contact:
+For information about NovoLog Mix 70/30 contact:
 
 Novo Nordisk Inc.
 
@@ -244,7 +255,11 @@ INSTRUCTIONS FOR USE
 
 NovoLog® Mix 70/30 FlexPen®
 
-Read the following instructions carefully before you start using your NovoLog® Mix 70/30 FlexPen® and each time you get a refill.
+(NŌ-vō-Log-MIX-SEV-en-tee-THIR-tee)
+
+(insulin aspart protamine and insulin aspart injectable suspension)
+
+Read the following instructions carefully before you start using your NovoLog Mix 70/30 FlexPen and each time you get a refill.
 There may be new information.
 You should read the instructions even if you have used NovoLog Mix 70/30 FlexPen before.
 
@@ -253,9 +268,9 @@ You may give other people a serious infection, or get a serious infection from t
 
 NovoLog Mix 70/30 FlexPen is a disposable dial-a-dose insulin pen.
 You can select doses from 1 to 60 units in increments of 1 unit.
-NovoLog Mix 70/30 FlexPen is designed to be used with NovoFine®, NovoFine® Plus or NovoTwist® needles.
+NovoLog Mix 70/30 FlexPen is designed to be used with NovoFine, NovoFine Plus or NovoTwist needles.
 
-NovoLog Mix 70/30 FlexPen should not be used by people who are blind or have severe visual problems without the help of a person who has good eyesight and who is trained to use the NovoLog Mix 70/30 FlexPen the right way.
+Peoplewho are blind or have vision problems should not use NovoLog Mix 70/30 FlexPen without help from a person trained to use NovoLog Mix 70/30 FlexPen.
 
 Getting ready
 
@@ -263,7 +278,7 @@ Make sure you have the following items:
 
 - •NovoLog Mix 70/30 FlexPen
 - •New NovoFine, NovoFine Plus or NovoTwist needle
-- •Alcohol swab
+- •Alcohol swabs
 
 Preparing your NovoLog Mix 70/30 FlexPen
 
@@ -284,6 +299,7 @@ B. Roll the pen between your palms 10 times - it is important that the pen is ke
 C. Then gently move the pen up and down ten times between position 1 and 2 as shown, so the glass ball moves from one end of the cartridge to the other (see diagram C).
 
 Repeat rolling and moving the pen until the liquid appears white and cloudy.
+Do not use the pen if the liquid appears discolored or contains particles.
 
 For every following injection move the pen up and down between positions 1 and 2 at least ten times until the liquid appears white and cloudy.
 
@@ -292,7 +308,7 @@ If there is a delay, the insulin will need to be mixed again.
 
 Wipe the rubber stopper with an alcohol swab.
 
-Δ Before you inject, there must be at least 12 units of insulin left in the cartridge to make sure the remaining insulin is evenly mixed.
+Before you inject, there must be at least 12 units of insulin left in the cartridge to make sure the remaining insulin is evenly mixed.
 If there are less than 12 units left, use a new NovoLog Mix 70/30 FlexPen.
 
 Attaching the needle
@@ -306,15 +322,15 @@ Never place a disposable needle on your NovoLog Mix 70/30 FlexPen until you are 
 
 E. Pull off the big outer needle cap (see diagram E).
 
-F. Pull off the inner needle cap and dispose of it (see diagram F).
+F. Pull off the inner needle cap and throw it away (dispose of it) (see diagram F).
 
-- Δ Always use a new needle for each injection to help ensure sterility and prevent blocked needles.
+- Always use a new needle for each injection to make sure the needle is free of germs (sterile) and to prevent blocked needles.
   Do not reuse or share your needles or syringes with other people.
   You may give other people a serious infection, or get a serious infection from them.
 
-Δ Be careful not to bend or damage the needle before use.
+Be careful not to bend or damage the needle before use.
 
-Δ To reduce the risk of a needle stick, never put the inner needle cap back on the needle.
+To reduce the risk of a needle stick, never put the inner needle cap back on the needle.
 
 Giving the airshot before each injection
 
@@ -347,9 +363,9 @@ The dose can be corrected either up or down by turning the dose selector in eith
 You cannot select a dose larger than the number of units left in the cartridge.
 
 You will hear a click for every single unit dialed.
-Do not set the dose by counting the number of clicks you hear.
+Do not set the dose by counting the number of clicks you hear because you may get an incorrect dose.
 
-Δ Do not use the cartridge scale printed on the cartridge to measure your dose of insulin.
+Do not use the cartridge scale printed on the cartridge to measure your dose of insulin.
 
 Giving the injection
 
@@ -379,26 +395,23 @@ Do not recap the needle.
 Recapping can lead to a needle stick injury.
 Remove the needle from the NovoLog Mix 70/30 FlexPen after each injection and dispose of it.
 This helps to prevent infection, leakage of insulin, and will help to make sure you inject the right dose of insulin.
-If you do not have a sharps container, carefully slip the needle into the outer needle cap.
-Safely remove the needle and throw it away as soon as you can.
 
-- •Put your used NovoLog Mix 70/30 FlexPen and needles in a FDA-cleared sharps disposal container right away after use.
-  Do not throw away (dispose of) loose needles and Pens in your household trash.
-- •If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
-- •made of a heavy-duty plastic
-- •can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out
-- •upright and stable during use
-- •leak-resistant
-- •properly labeled to warn of hazardous waste inside the container
-  - •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
-    There may be state or local laws about how you should throw away used needles and syringes.
-    For more information about the safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.
-
-Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
-Do not recycle your used sharps disposal container.
-
-The NovoLog Mix 70/30 FlexPen prevents the cartridge from being completely emptied.
-It is designed to deliver 300 units.
+- •Put your used needles in a FDA-cleared sharps disposal container right away after use.
+  Do not throw away (dispose of) loose needles in your household trash.
+- •If you do not have a FDA-cleared sharps disposal container, carefully slip the needle into the outer needle cap and throw it away in a household container that is:
+  - •made of a heavy-duty plastic
+  - •can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+  - •upright and stable during use,
+  - •leak-resistant, and
+  - •properly labeled to warn of hazardous waste inside the container
+- •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
+  There may be state or local laws about how you should throw away used needles and syringes.
+  For more information about the safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.
+- Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
+  Do not recycle your used sharps disposal container.
+- •When there is not enough medicine left in your NovoLog Mix 70/30 FlexPen for your prescribed dose, the NovoLog Mix 70/30 FlexPen may be thrown away in your household trash after you have removed the needle.
+  The NovoLog Mix 70/30 FlexPen prevents the cartridge from being completely emptied.
+  It is designed to deliver 300 units.
 
 M. Put the pen cap on the NovoLog Mix 70/30 FlexPen and store the NovoLog Mix 70/30 FlexPen without the needle attached (see diagram M). Storing without the needle attached helps prevent leaking, blocking of the needle, and air from entering the Pen.
 
@@ -407,14 +420,17 @@ How should I store NovoLog Mix 70/30 FlexPen?
 - 
   - 
     - 
-      - •Store unused NovoLog Mix 70/30 FlexPen in the refrigerator at 36°F to 46°F (2°C to 8°C).
-      - •Store the FlexPen you are currently using out of the refrigerator below 86°F (30°C) for up to 14 days.
       - •Do not freeze NovoLog Mix 70/30.
         Do not use NovoLog Mix 70/30 if it has been frozen.
 - •Keep NovoLog Mix 70/30 away from heat or light.
-- •Unused NovoLog Mix 70/30 FlexPen may be used until the expiration date printed on the label, if kept in the refrigerator.
-- •The NovoLog Mix 70/30 FlexPen you are using should be thrown away after 14 days, even if it still has insulin left in it.
 - •Store the NovoLog Mix 70/30 FlexPen without the needle attached.
+- •Unused NovoLog Mix 70/30 FlexPen:
+- •Store unused NovoLog Mix 70/30 FlexPen in the refrigerator at 36°F to 46°F (2°C to 8°C).
+- •Unused NovoLog Mix 70/30 FlexPen may be used until the expiration date printed on the label, if kept in the refrigerator.
+- •Unused NovoLog Mix 70/30 FlexPen should be thrown away after 14 days, if it is stored at room temperature.
+- •In-Use NovoLog Mix 70/30 FlexPen:
+- •Store the FlexPen you are currently using at room temperature below 86°F (30°C) for up to 14 days.
+- •The NovoLog Mix 70/30 FlexPen you are using should be thrown away after 14 days, even if it still has insulin left in it.
 
 Maintenance
 
@@ -425,27 +441,27 @@ You can clean the outside of your NovoLog Mix 70/30 FlexPen by wiping it with a 
 Do not soak or wash your NovoLog Mix 70/30 FlexPen as it may damage it.
 Do not refill your NovoLog Mix 70/30 FlexPen.
 
-Δ Remove the needle from the NovoLog Mix 70/30 FlexPen after each injection.
+Remove the needle from the NovoLog Mix 70/30 FlexPen after each injection.
 This helps to ensure sterility, prevent leakage of insulin, and will help to make sure you inject the right dose of insulin for future injections.
 
-Δ Be careful when handling used needles to avoid needle sticks and transfer of infectious diseases.
+Be careful when handling used needles to avoid needle sticks and transfer of infectious diseases.
 
-Δ Keep your NovoLog Mix 70/30 FlexPen and needles out of the reach of children.
+Keep your NovoLog Mix 70/30 FlexPen and needles out of the reach of children.
 
-Δ Use NovoLog Mix 70/30 FlexPen as directed to treat your diabetes.
+Use NovoLog Mix 70/30 FlexPen as directed to treat your diabetes.
 
-Δ Do not share your NovoLog Mix 70/30 FlexPen or needles with other people.
+Do not share your NovoLog Mix 70/30 FlexPen or needles with other people.
 You may give other people a serious infection, or get a serious infection from them.
 
-Δ Always use a new needle for each injection.
+Always use a new needle for each injection.
 
-Δ Novo Nordisk is not responsible for harm due to using this insulin pen with products not recommended by Novo Nordisk.
+Novo Nordisk is not responsible for harm due to using this insulin pen with products not recommended by Novo Nordisk.
 
-Δ As a precautionary measure, always carry a spare insulin delivery device in case your NovoLog Mix 70/30 FlexPen is lost or damaged.
+As a precautionary measure, always carry a spare insulin delivery device in case your NovoLog Mix 70/30 FlexPen is lost or damaged.
 
-Δ Remember to keep the disposable NovoLog Mix 70/30 FlexPen with you.
+Remember to keep the disposable NovoLog Mix 70/30 FlexPen with you.
 Do not leave it in a car or other location where it can get too hot or too cold.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: 04/2015
+Revised: 12/2018

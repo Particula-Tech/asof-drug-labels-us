@@ -78,9 +78,9 @@ Table 5: Combination Therapy with Oral Agents and Insulin in Patients with Type 
   Approximately one-third of the patients in each group were also treated with pioglitazone (30 mg/day).
   Insulin secretagogues were discontinued in order to reduce the risk of hypoglycemia.
   Most patients were Caucasian (53%), and the mean initial weight was 90 kg.
-- The mean age of the trial population was 52.6 years and mean duration of diabetes was 9.5years.
+- The mean age of the trial population was 52.6 years and mean duration of diabetes was 9.5 years.
   Fifty three percent were male.
-  Fifty-five percent were Caucasian, 15% Black, 27% were Hispanic, 2% were Asian and 2 % were Other.
+  Fifty-five percent were Caucasian, 15% Black, 27% were Hispanic, 2% were Asian and 2% were Other.
   The mean BMI was approximately 31.5 kg/m2.
 
 Table 6: Combination Therapy with Oral Agents and Two Types of Insulin in Patients with Type 2 Diabetes Mellitus [Mean (SD)]

@@ -41,7 +41,7 @@ Table 1: Adverse Reactions Occurring in ≥ 5% of Type 1 Diabetes Mellitus Adult
 | Skeletal pain | 3 | 5 | 2 | 4 |
 | Upper respiratory tract infection | 3 | 5 | 1 | 2 |
 
-Table 2: Adverse reactions Occurring in ≥ 5% of Type 2 Diabetes Mellitus Adult Patients treated with NOVOLOG MIX 70/30and at the same rate or greater on NOVOLOG MIX 70/30 than on comparator
+Table 2: Adverse reactions Occurring in ≥ 5% of Type 2 Diabetes Mellitus Adult Patients treated with NOVOLOG MIX 70/30 and at the same rate or greater on NOVOLOG MIX 70/30 than on comparator
 
 |  | NOVOLOG MIX 70/30(N=85) |  | Novolin 70/30(N=102) |  |
 | --- | --- | --- | --- | --- |
@@ -63,7 +63,7 @@ For these reasons, comparing rates of hypoglycemia in clinical trials for NOVOLO
 
 Severe hypoglycemia requiring the assistance of another person and/or parenteral glucose infusion or glucagon administration has been observed in clinical trials with insulin, including trials with NOVOLOG MIX 70/30.
 
-The incidence of severe hypoglycemia in adult patients receiving subcutaneous NOVOLOG MIX 70/30 was 16% and 4 % for type 1 and type 2 diabetes patients respectively at 12 weeks [see Clinical Studies (14)].
+The incidence of severe hypoglycemia in adult patients receiving subcutaneous NOVOLOG MIX 70/30 was 16% and 4% for type 1 and type 2 diabetes patients respectively at 12 weeks [see Clinical Studies (14)].
 
 Allergic Reactions
 

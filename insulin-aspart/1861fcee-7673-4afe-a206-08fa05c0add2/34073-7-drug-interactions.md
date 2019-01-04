@@ -9,7 +9,7 @@ Table 3: Clinically Significant Drug Interactions with NOVOLOG MIX 70/30
 | Drugs that May Decrease the Blood Glucose Lowering Effect of NOVOLOG MIX 70/30 |  |
 | Drugs: | Atypical antipsychotics (e.g., olanzapine and clozapine), corticosteroids, danazol, diuretics, estrogens, glucagon, isoniazid, niacin, oral contraceptives, phenothiazines, progestogens (e.g., in oral contraceptives), protease inhibitors, somatropin, sympathomimetic agents (e.g., albuterol, epinephrine, terbutaline), and thyroid hormones. |
 | Intervention: | Dose adjustment and increased frequency of glucose monitoring may be required when NOVOLOG MIX 70/30 is co-administered with these drugs. |
-| Drugs that May Increase or Decrease the Blood Glucose Lowering Effect ofNOVOLOG MIX 70/30 |  |
+| Drugs that May Increase or Decrease the Blood Glucose Lowering Effect of NOVOLOG MIX 70/30 |  |
 | Drugs: | Alcohol, beta-blockers, clonidine, and lithium salts. Pentamidine may cause hypoglycemia, which may sometimes be followed by hyperglycemia. |
 | Intervention: | Dose adjustment and increased frequency of glucose monitoring may be required when NOVOLOG MIX 70/30 is co-administered with these drugs. |
 | Drugs that May Blunt Signs and Symptoms of Hypoglycemia |  |
