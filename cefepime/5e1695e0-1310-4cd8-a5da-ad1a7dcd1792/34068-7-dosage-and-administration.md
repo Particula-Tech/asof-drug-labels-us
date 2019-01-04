@@ -15,7 +15,7 @@ Table 1: Recommended Dosage Schedule for Cefepime for Injection in Adult Patient
 | Mild to Moderate Uncomplicated or Complicated Urinary Tract Infections, including pyelonephritis | 0.5 to 1 g IV/IM** | Every 12 hours | 7 to 10 |
 | Severe Uncomplicated or Complicated Urinary Tract Infections, including pyelonephritis | 2 g IV | Every 12 hours | 10 |
 | Moderate to Severe Uncomplicated Skin and Skin Structure Infections | 2 g IV | Every 12 hours | 10 |
-| Complicated Intra-abdominal Infections§ (used in combination with metronidazole) | 2 g IV | Every 8 to 12 hours | 7 to 10 |
+| Complicated Intra-abdominal Infections § (used in combination with metronidazole) | 2 g IV | Every 8 to 12 hours | 7 to 10 |
 
 *or until resolution of neutropenia.
 In patients whose fever resolves but who remain neutropenic for more than 7 days, the need for continued antimicrobial therapy should be
@@ -44,7 +44,7 @@ Adjust the dose of cefepime for injection in patients with creatinine clearance 
 In these patients, the recommended initial dose of cefepime for injection should be the same as in patients with CrCL greater than 60 mL/min except in patients undergoing hemodialysis.
 The recommended doses of cefepime for injection in patients with renal impairment are presented in Table 2.
 
-When only serum creatinine is available, the following formula (Cockcroft and Gault equation)4 may be used to estimate creatinine clearance.
+When only serum creatinine is available, the following formula (Cockcroft and Gault equation) 1 may be used to estimate creatinine clearance.
 The serum creatinine should represent a steady state of renal function:
 
 Males: Creatinine Clearance (mL/min) = Weight (kg) x (140 – age)
