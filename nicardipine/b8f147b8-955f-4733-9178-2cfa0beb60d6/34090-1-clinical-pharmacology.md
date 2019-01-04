@@ -10,17 +10,17 @@ In animal models, Nicardipine hydrochloride capsules produce relaxation of coron
 ## Pharmacokinetics and Metabolism
 
 Nicardipine hydrochloride capsules are completely absorbed following oral doses administered as capsules.
-Plasma levels are detectable as early as 20 minutes following an oral dose and maximal plasma levels are observed within 30 minutes to 2 hours (mean Tmax = 1 hour).
+Plasma levels are detectable as early as 20 minutes following an oral dose and maximal plasma levels are observed within 30 minutes to 2 hours (mean T max = 1 hour).
 While nicardipine hydrochloride capsules are completely absorbed, it is subject to saturable first pass metabolism and the systemic bioavailability is about 35% following a 30-mg oral dose at steady-state.
 
-When nicardipine hydrochloride capsules were administered 1 or 3 hours after a high-fat meal, the mean Cmax and mean AUC were lower (20% to 30%) than when nicardipine hydrochloride capsules were given to fasting subjects.
+When nicardipine hydrochloride capsules were administered 1 or 3 hours after a high-fat meal, the mean C max and mean AUC were lower (20% to 30%) than when nicardipine hydrochloride capsules were given to fasting subjects.
 These decreases in plasma levels observed following a meal may be significant, but the clinical trials establishing the efficacy and safety of nicardipine hydrochloride capsules were done in patients without regard to the timing of meals.
 Thus, the results of these trials reflect the effects of meal-induced variability.
 
 The pharmacokinetics of nicardipine hydrochloride capsules are nonlinear due to saturable hepatic first pass metabolism.
 Following oral administration, increasing doses result in a disproportionate increase in plasma levels.
-Steady-state Cmax values following 20-, 30-, and 40-mg doses every 8 hours averaged 36, 88, and 133 ng/mL, respectively.
-Hence, increasing the dose from 20 to 30 mg every 8 hours more than doubled Cmax and increasing the dose from 20 to 40 mg every 8 hours increased Cmax more than threefold.
+Steady-state C max values following 20-, 30-, and 40-mg doses every 8 hours averaged 36, 88, and 133 ng/mL, respectively.
+Hence, increasing the dose from 20 to 30 mg every 8 hours more than doubled C max and increasing the dose from 20 to 40 mg every 8 hours increased C max more than threefold.
 A similar disproportionate increase in AUC with dose was observed.
 Considerable inter-subject variability in plasma levels was also observed.
 
@@ -39,16 +39,16 @@ Inhibition of these enzymes may result in increased plasma levels of certain dru
 The altered pharmacokinetics may necessitate dosage adjustment of the affected drug or discontinuation of treatment.
 
 Nicardipine hydrochloride plasma levels were higher in patients with mild renal impairment (baseline serum creatinine concentration ranged from 1.2 to 5.5 mg/dL) than in normal subjects.
-After 30-mg nicardipine hydrochloride tid at steady-state, Cmax and AUC were approximately twofold higher in these patients.
+After 30-mg nicardipine hydrochloride tid at steady-state, C max and AUC were approximately twofold higher in these patients.
 
 Because nicardipine hydrochloride capsules are extensively metabolized by the liver, the plasma levels of the drug are influenced by changes in hepatic function.
 Nicardipine hydrochloride plasma levels were higher in patients with severe liver disease (hepatic cirrhosis confirmed by liver biopsy or presence of endoscopically-confirmed esophageal varices) than in normal subjects.
-After 20-mg nicardipine hydrochloride capsules bid at steady-state, Cmax and AUC were 1.8 and fourfold higher, and the terminal half-life was prolonged to 19 hours in these patients.
+After 20-mg nicardipine hydrochloride capsules bid at steady-state, C max and AUC were 1.8 and fourfold higher, and the terminal half-life was prolonged to 19 hours in these patients.
 
 ## Geriatric Pharmacokinetics
 
 The steady-state pharmacokinetics of nicardipine hydrochloride capsules in elderly hypertensive patients (≥65 years) are similar to those obtained in young normal adults.
-After 1 week of nicardipine hydrochloride capsules dosing at 20 mg three times a day, the Cmax, Tmax, AUC, terminal plasma half-life and the extent of protein binding of nicardipine hydrochloride capsules observed in healthy elderly hypertensive patients did not differ significantly from those observed in young normal volunteers
+After 1 week of nicardipine hydrochloride capsules dosing at 20 mg three times a day, the C max, T max, AUC, terminal plasma half-life and the extent of protein binding of nicardipine hydrochloride capsules observed in healthy elderly hypertensive patients did not differ significantly from those observed in young normal volunteers
 
 ## Hemodynamics
 
@@ -79,7 +79,7 @@ In general, no detrimental effects on the cardiac conduction system were seen wi
 
 Nicardipine hydrochloride increased the heart rate when given intravenously during acute electrophysiologic studies and prolonged the corrected QT interval to a minor degree.
 The sinus node recovery times and SA conduction times were not affected by the drug.
-The PA, AH, and HV intervals1 and the functional and effective refractory periods of the atrium were not prolonged by nicardipine hydrochloride capsules and the relative and effective refractory periods of the His-Purkinje system were slightly shortened after intravenous nicardipine hydrochloride.
+The PA, AH, and HV intervals 1 and the functional and effective refractory periods of the atrium were not prolonged by nicardipine hydrochloride capsules and the relative and effective refractory periods of the His-Purkinje system were slightly shortened after intravenous nicardipine hydrochloride.
 
 1PA = conduction time from high to low right atrium, AH = conduction time from low right atrium to His bundle deflection or AV nodal conduction time, HV = conduction time through the His bundle and the bundle branch-Purkinje system.
 

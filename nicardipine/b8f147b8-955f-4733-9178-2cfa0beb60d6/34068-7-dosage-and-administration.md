@@ -8,9 +8,9 @@ At least 3 days should be allowed before increasing the nicardipine hydrochlorid
 
 Concomitant Use With Other Antianginal Agents
 
-- •Sublingual NTG may be taken as required to abort acute anginal attacks during nicardipine hydrochloride capsules therapy.
-- •Prophylactic Nitrate Therapy: nicardipine hydrochloride capsules may be safely coadministered with short- and long-acting nitrates.
-- •Beta-blockers: Nicardipine hydrochloride capsules may be safely coadministered with beta-blockers (see Drug Interactions).
+- Sublingual NTG may be taken as required to abort acute anginal attacks during nicardipine hydrochloride capsules therapy.
+- Prophylactic Nitrate Therapy: nicardipine hydrochloride capsules may be safely coadministered with short- and long-acting nitrates.
+- Beta-blockers: Nicardipine hydrochloride capsules may be safely coadministered with beta-blockers (see Drug Interactions).
 
 ## Hypertension
 

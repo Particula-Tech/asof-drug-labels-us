@@ -29,7 +29,7 @@ Because of prominent effects at the time of peak blood levels, initial titration
 Use in Patients With Impaired Hepatic Function: Since the liver is the major site of biotransformation and since nicardipine hydrochloride capsules are subject to first pass metabolism, the drug should be used with caution in patients having impaired liver function or reduced hepatic blood flow.
 Patients with severe liver disease developed elevated blood levels (fourfold increase in AUC) and prolonged half-life (19 hours) of nicardipine (see DOSAGE AND ADMINISTRATION).
 
-Use in Patients With Impaired Renal Function: When nicardipine hydrochloride capsules 20 mg or 30 mg tid was given to hypertensive patients with mild renal impairment, mean plasma concentrations, AUC and Cmax were approximately twofold higher in renally impaired patients than in healthy controls.
+Use in Patients With Impaired Renal Function: When nicardipine hydrochloride capsules 20 mg or 30 mg tid was given to hypertensive patients with mild renal impairment, mean plasma concentrations, AUC and C max were approximately twofold higher in renally impaired patients than in healthy controls.
 Doses in these patients must be adjusted (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
 
 ## Drug Interactions
