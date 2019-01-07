@@ -98,4 +98,4 @@ The following additional adverse reactions have been reported with estrogens and
 - Central nervous system.
   Headache; migraine; dizziness; mental depression; chorea; nervousness; mood disturbances; irritability; exacerbation of epilepsy; dementia.
 - Miscellaneous.
-  Increase or decrease in weight; reduced carbohydrate tolerance; aggravation of porphyria; edema; arthalgias; leg cramps; changes in libido; anaphylactoid/anaphylactic reactions including urticaria and angioedema; hypocalcemia; exacerbation of asthma; increased triglycerides.
+  Increase or decrease in weight; reduced carbohydrate tolerance; aggravation of porphyria; edema; arthralgias; leg cramps; changes in libido; anaphylactoid/anaphylactic reactions including urticaria and angioedema; hypocalcemia; exacerbation of asthma; increased triglycerides.

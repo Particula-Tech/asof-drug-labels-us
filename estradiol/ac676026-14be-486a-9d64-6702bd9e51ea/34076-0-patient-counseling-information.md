@@ -1,4 +1,4 @@
-PATIENT INFORMATION
+# PATIENT INFORMATION
 
 Read this PATIENT INFORMATION before you start using Alora (ah-LORE-ah) and read what you get each time you refill Alora.
 There may be new information.
@@ -134,7 +134,7 @@ Step 1.
 Choose your schedule for twice-a-week application.
 
 Put on a new patch twice a week.
-Use one of the schedules on the back panel of the patch box.
+Use one of the schedules on the back of the patch box.
 
 For example, if you apply your first patch on Sunday, take that patch off on Wednesday and put on a new one.
 Stay on this schedule as long as you use Alora.
@@ -248,12 +248,14 @@ Keep out of reach of children.
 
 For all medical inquiries contact: Allergan Medical Communications 1-800-678-1605
 
-Distributed by: Allergan USA, Inc. Irvine, CA 92612
+Distributed by: Allergan USA, Inc. Madison, NJ 07940
 
 Rev.
-02/2018
+11/2018
 
 © 2018 Allergan.
 All rights reserved.
 
-ALORA® is a registered trademark of Allergan Sales, LLC.
+ALORA® is a registered trademark of Allergan Sales, LLC
+
+V1.0MG5885

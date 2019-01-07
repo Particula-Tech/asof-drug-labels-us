@@ -34,12 +34,14 @@ For all medical inquiries contact: Allergan Medical Communications 1-800-678-160
 
 Distributed by: Allergan USA, Inc.
 
-Irvine, CA 92612
+Madison, NJ 07940
 
 Rev.
-02/2018
+11/2018
 
 © 2018 Allergan.
 All rights reserved.
 
 ALORA® is a registered trademark of Allergan Sales, LLC.
+
+V1.0USPI5885
