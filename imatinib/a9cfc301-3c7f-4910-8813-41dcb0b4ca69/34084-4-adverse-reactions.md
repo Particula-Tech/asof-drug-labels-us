@@ -447,4 +447,6 @@ Musculoskeletal and Connective Tissue Disorders: avascular necrosis/hip osteonec
 
 Reproduction Disorders: hemorrhagic corpus luteum/hemorrhagic ovarian cyst
 
+Blood and Lymphatic System Disorders: thrombotic microangiopathy
+
 1Including some fatalities

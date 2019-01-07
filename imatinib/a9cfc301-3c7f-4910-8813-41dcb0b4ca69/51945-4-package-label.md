@@ -1,7 +1,5 @@
 # Package/Label Display Panel
 
-## Imatinib Mesylate Tablets 100 mg, 90s Label Text
-
 NDC 0093-7629-98
 
 Imatinib
@@ -18,9 +16,11 @@ Rx only
 
 TEVA
 
-# Package/Label Display Panel
+90 TABLETS
 
-## Imatinib Mesylate Tablets 400 mg, 30s Label Text
+TEVA
+
+# Package/Label Display Panel
 
 NDC 0093-7630-56
 

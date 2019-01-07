@@ -41,8 +41,17 @@ Driving and Using Machines
 Advise patients that they may experience side effects such as dizziness, blurred vision or somnolence during treatment with imatinib mesylate tablets.
 Therefore, caution patients about driving a car or operating machinery [see Warnings and Precautions (5.13)].
 
-Manufactured In Israel By: Teva Pharmaceutical Ind.
-Ltd. Jerusalem, 9777402, Israel Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
+Manufactured In Croatia By:
+
+Pliva Hrvatska d.o.o.
+
+Zagreb, Croatia
+
+Manufactured For:
+
+Teva Pharmaceuticals USA, Inc.
+
+North Wales, PA 19454
 
 Rev.
-K 10/2017
+L 10/2018
