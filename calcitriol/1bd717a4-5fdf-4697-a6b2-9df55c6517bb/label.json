@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA209798"
+  ],
+  "inn": "calcitriol",
+  "labeler": "Rising Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "64980-447-15"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "calcitriol",
+      "name": "Calcitriol"
+    }
+  ],
+  "setid": "1bd717a4-5fdf-4697-a6b2-9df55c6517bb",
+  "source": "dailymed"
+}
