@@ -1,0 +1,33 @@
+{
+  "application_numbers": [
+    "ANDA208002"
+  ],
+  "inn": "lurasidone",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "65162-082-03",
+    "65162-082-09",
+    "65162-082-50",
+    "65162-879-03",
+    "65162-879-09",
+    "65162-879-50",
+    "65162-880-03",
+    "65162-880-09",
+    "65162-880-50",
+    "65162-881-03",
+    "65162-881-09",
+    "65162-881-50",
+    "65162-882-03",
+    "65162-882-09",
+    "65162-882-50"
+  ],
+  "products": [
+    {
+      "form": "TABLET, COATED",
+      "generic": "lurasidone hydrochloride",
+      "name": "Lurasidone Hydrochloride"
+    }
+  ],
+  "setid": "6ef0b2f9-9356-4f61-a2fa-e7c2c77a5d3a",
+  "source": "dailymed"
+}
