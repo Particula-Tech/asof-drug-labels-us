@@ -14,7 +14,7 @@ Patients receiving the 0.75 mg/kg twice-daily dose or the 1 mg/kg twice-daily do
 Likewise, although a specific recommendation for timing of a subsequent enoxaparin sodium dose after catheter removal cannot be made, consider delaying this next dose for at least four hours, based on a benefit-risk assessment considering both the risk for thrombosis and the risk for bleeding in the context of the procedure and patient risk factors.
 For patients with creatinine clearance <30 mL/minute, additional considerations are necessary because elimination of enoxaparin is more prolonged; consider doubling the timing of removal of a catheter, at least 24 hours for the lower prescribed dose of enoxaparin sodium (30 mg once daily) and at least 48 hours for the higher dose (1 mg/kg/day) [see Clinical Pharmacology (12.3)].
 
-Should the physician decide to administer anticoagulation in the context of epidural or spinal anesthesia/analgesia or lumbar puncture, frequent monitoring must be exercised to detect any signs and symptoms of neurological impairment such as midline back pain, sensory and motor deficits (numbness or weakness in lower limbs), bowel and/or bladder dysfunction.
+Should the physician decide to administer anticoagulation in the context of epidural or spinal anesthesia/analgesia or lumbar puncture, frequent monitoring must be exercised to detect any signs and symptoms of neurological impairment such as midline back pain, sensory and motor deficits (numbness or weakness in lower limbs), and bowel and/or bladder dysfunction.
 Instruct patients to report immediately if they experience any of the above signs or symptoms.
 If signs or symptoms of spinal hematoma are suspected, initiate urgent diagnosis and treatment including consideration for spinal cord decompression even though such treatment may not prevent or reverse neurological sequelae.
 
@@ -26,7 +26,7 @@ Some of these cases have been fatal.
 Bleeding can occur at any site during therapy with enoxaparin sodium.
 An unexplained fall in hematocrit or blood pressure should lead to a search for a bleeding site.
 
-## 5.2 Percutaneous Coronary Revascularization Procedures
+## 5.2 Increased Risk of Bleeding following Percutaneous Coronary Revascularization Procedures
 
 To minimize the risk of bleeding following the vascular instrumentation during the treatment of unstable angina, non–Q-wave myocardial infarction and acute ST-segment elevation myocardial infarction, adhere precisely to the intervals recommended between enoxaparin sodium doses.
 It is important to achieve hemostasis at the puncture site after PCI.
@@ -35,16 +35,20 @@ If a manual compression method is used, sheath should be removed 6 hours after t
 If the treatment with enoxaparin sodium is to be continued, the next scheduled dose should be given no sooner than 6 to 8 hours after sheath removal.
 The site of the procedure should be observed for signs of bleeding or hematoma formation [see Dosage and Administration (2.1)].
 
-## 5.3 Use of Enoxaparin Sodium with Concomitant Medical Conditions
+## 5.3 Increased Risk of Bleeding in Patients with Concomitant Medical Conditions
 
 Enoxaparin sodium should be used with care in patients with a bleeding diathesis, uncontrolled arterial hypertension or a history of recent gastrointestinal ulceration, diabetic retinopathy, renal dysfunction and hemorrhage.
 
-## 5.4 History of Heparin-Induced Thrombocytopenia
+## 5.4 Risk of Heparin-Induced Thrombocytopenia with or without Thrombosis
+
+Enoxaparin sodium may cause Heparin-Induced Thrombocytopenia (HIT) or Heparin-Induced Thrombocytopenia with Thrombosis (HITTS).
+HITTS may lead to organ infarction, limb ischemia, or death.
+Monitor thrombocytopenia of any degree closely.
 
 Use of enoxaparin sodium in patients with a history of immune-mediated HIT within the past 100 days or in the presence of circulating antibodies is contraindicated [see Contraindications (4)].
 Circulating antibodies may persist for several years.
 
-In patients with a history of HIT, enoxaparin sodium should only be used if more than 100 days have elapsed since the prior HIT episode and no circulating antibodies are present.
+Only use enoxaparin sodium in patients with a history of HIT if more than 100 days have elapsed since the prior HIT episode and no circulating antibodies are present.
 Because HIT may still occur in these circumstances, the decision to use enoxaparin sodium in such a case must be made only after a careful benefit-risk assessment and after non-heparin alternative treatments are considered.
 
 ## 5.5 Thrombocytopenia
@@ -57,19 +61,16 @@ Platelet counts less than 50,000/mm3 occurred at a rate of 0.1% in patients give
 
 Thrombocytopenia of any degree should be monitored closely.
 If the platelet count falls below 100,000/mm3, enoxaparin sodium should be discontinued.
-Cases of heparin-induced thrombocytopenia with thrombosis have also been observed in clinical practice.
-Some of these cases were complicated by organ infarction, limb ischemia, or death [see Warnings and Precautions (5.4)].
 
-## 5.6 Interchangeability with Other Heparins
+## 5.6 Interchangeability with other Heparins
 
 Enoxaparin sodium cannot be used interchangeably (unit for unit) with heparin or other low molecular weight heparins as they differ in manufacturing process, molecular weight distribution, anti-Xa and anti-IIa activities, units, and dosage.
 Each of these medicines has its own instructions for use.
 
-## 5.7 Pregnant Women with Mechanical Prosthetic Heart Valves
+## 5.7 Increased Risk of Thrombosis in Pregnant Women with Mechanical Prosthetic Heart Valves
 
-The use of enoxaparin sodium for thromboprophylaxis in pregnant women with mechanical prosthetic heart valves has not been adequately studied.
+Use of enoxaparin sodium for thromboprophylaxis in pregnant women with mechanical prosthetic heart valves may result in valve thrombosis.
 In a clinical study of pregnant women with mechanical prosthetic heart valves given enoxaparin (1 mg/kg twice daily) to reduce the risk of thromboembolism, 2 of 8 women developed clots resulting in blockage of the valve and leading to maternal and fetal death.
-Although a causal relationship has not been established these deaths may have been due to therapeutic failure or inadequate anticoagulation.
 No patients in the heparin/warfarin group (0 of 4 women) died.
 There also have been isolated postmarketing reports of valve thrombosis in pregnant women with mechanical prosthetic heart valves while receiving enoxaparin for thromboprophylaxis.
 Women with mechanical prosthetic heart valves may be at higher risk for thromboembolism during pregnancy and, when pregnant, have a higher rate of fetal loss from stillbirth, spontaneous abortion, and premature delivery.
@@ -84,10 +85,3 @@ The "gasping syndrome" is characterized by central nervous system depression, me
 The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known (enoxaparin sodium multiple-dose vials contain 15 mg of benzyl alcohol per mL) [see Use in Specific Populations (8.4)].
 
 Because benzyl alcohol may cross the placenta, if anticoagulation with enoxaparin sodium is needed during pregnancy, use the preservative-free formulations where possible [see Use in Specific Populations (8.1)].
-
-## 5.9 Laboratory Tests
-
-Periodic complete blood counts, including platelet count, and stool occult blood tests are recommended during the course of treatment with enoxaparin sodium.
-When administered at recommended prophylaxis doses, routine coagulation tests such as Prothrombin Time (PT) and Activated Partial Thromboplastin Time (aPTT) are relatively insensitive measures of enoxaparin sodium activity and, therefore, unsuitable for monitoring.
-Anti-Factor Xa may be used to monitor the anticoagulant effect of enoxaparin sodium in patients with significant renal impairment.
-If during enoxaparin sodium therapy abnormal coagulation parameters or bleeding should occur, anti-Factor Xa levels may be used to monitor the anticoagulant effects of enoxaparin sodium [see Clinical Pharmacology (12.3)].

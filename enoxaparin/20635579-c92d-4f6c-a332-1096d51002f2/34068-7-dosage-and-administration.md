@@ -1,63 +1,59 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-All patients should be evaluated for a bleeding disorder before administration of enoxaparin sodium, unless the medication is needed urgently.
-Since coagulation parameters are unsuitable for monitoring enoxaparin sodium activity, routine monitoring of coagulation parameters is not required [see Warnings and Precautions (5.9)].
+## 2.1 Pretreatment Evaluation
 
-For subcutaneous use, enoxaparin sodium should not be mixed with other injections or infusions.
-For intravenous use (i.e., for treatment of acute STEMI), enoxaparin sodium can be mixed with normal saline solution (0.9%) or 5% dextrose in water.
+Evaluate all patients for a bleeding disorder before starting enoxaparin sodium treatment, unless treatment is urgently needed.
 
-Enoxaparin sodium is not intended for intramuscular administration.
-
-## 2.1 Adult Dosage
+## 2.2 Adult Dosage
 
 Abdominal Surgery
 
-In patients undergoing abdominal surgery who are at risk for thromboembolic complications, the recommended dose of enoxaparin sodium is 40 mg once a day administered by subcutaneous injection with the initial dose given 2 hours prior to surgery.
-The usual duration of administration is 7 to 10 days; up to 12 days administration has been administered in clinical trials.
+The recommended dose of enoxaparin sodium is 40 mg by subcutaneous injection once a day (with the initial dose given 2 hours prior to surgery) in patients undergoing abdominal surgery who are at risk for thromboembolic complications.
+The usual duration of administration is 7 to 10 days [see Clinical Studies (14.1)].
 
 Hip or Knee Replacement Surgery
 
-In patients undergoing hip or knee replacement surgery, the recommended dose of enoxaparin sodium is 30 mg every 12 hours administered by subcutaneous injection.
-Provided that hemostasis has been established, the initial dose should be given 12 to 24 hours after surgery.
-For hip replacement surgery, a dose of 40 mg once a day subcutaneously, given initially 12 (±3) hours prior to surgery, may be considered.
-Following the initial phase of thromboprophylaxis in hip replacement surgery patients, it is recommended that continued prophylaxis with enoxaparin sodium 40 mg once a day be administered by subcutaneous injection for 3 weeks.
-The usual duration of administration is 7 to 10 days; up to 14 days administration has been administered in clinical trials.
+The recommended dose of enoxaparin sodium is 30 mg every 12 hours administered by subcutaneous injection in patients undergoing hip or knee replacement surgery.
+Administer the initial dose 12 to 24 hours after surgery, provided that hemostasis has been established.
+The usual duration of administration is 7 to 10 days [see Clinical Studies (14.2)].
+
+A dose of enoxaparin sodium of 40 mg once a day subcutaneously may be considered for hip replacement surgery for up to 3 weeks.
+Administer the initial dose 12 (±3) hours prior to surgery.
 
 Medical Patients During Acute Illness
 
-In medical patients at risk for thromboembolic complications due to severely restricted mobility during acute illness, the recommended dose of enoxaparin sodium is 40 mg once a day administered by subcutaneous injection.
-The usual duration of administration is 6 to 11 days; up to 14 days of enoxaparin sodium has been administered in the controlled clinical trial.
+The recommended dose of enoxaparin sodium is 40 mg once a day administered by subcutaneous injection for medical patients at risk for thromboembolic complications due to severely restricted mobility during acute illness.
+The usual duration of administration is 6 to 11 days [see Clinical Studies (14.3)].
 
 Treatment of Deep Vein Thrombosis with or without Pulmonary Embolism
 
-In outpatient treatment, patients with acute deep vein thrombosis without pulmonary embolism who can be treated at home, the recommended dose of enoxaparin sodium is 1 mg/kg every 12 hours administered subcutaneously.
-In inpatient (hospital) treatment, patients with acute deep vein thrombosis with pulmonary embolism or patients with acute deep vein thrombosis without pulmonary embolism (who are not candidates for outpatient treatment), the recommended dose of enoxaparin sodium is 1 mg/kg every 12 hours administered subcutaneously or 1.5 mg/kg once a day administered subcutaneously at the same time every day.
-In both outpatient and inpatient (hospital) treatments, warfarin sodium therapy should be initiated when appropriate (usually within 72 hours of enoxaparin sodium).
-Enoxaparin sodium should be continued for a minimum of 5 days and until a therapeutic oral anticoagulant effect has been achieved (International Normalization Ratio 2 to 3).
-The average duration of administration is 7 days; up to 17 days of enoxaparin sodium administration has been administered in controlled clinical trials.
+The recommended dose of enoxaparin sodium is 1 mg/kg every 12 hours administered subcutaneously in patients with acute deep vein thrombosis without pulmonary embolism, who can be treated at home in an outpatient setting.
+
+The recommended dose of enoxaparin sodium is 1 mg/kg every 12 hours administered subcutaneously or 1.5 mg/kg once a day administered subcutaneously at the same time every day for inpatient (hospital) treatment of patients with acute deep vein thrombosis with pulmonary embolism or patients with acute deep vein thrombosis without pulmonary embolism (who are not candidates for outpatient treatment).
+
+In both outpatient and inpatient (hospital) treatments, initiate warfarin sodium therapy when appropriate (usually within 72 hours of enoxaparin sodium).
+Continue enoxaparin sodium for a minimum of 5 days and until a therapeutic oral anticoagulant effect has been achieved (International Normalization Ratio 2 to 3).
+The average duration of administration is 7 days [see Clinical Studies (14.4)].
 
 Unstable Angina and Non–Q-Wave Myocardial Infarction
 
-In patients with unstable angina or non–Q-wave myocardial infarction, the recommended dose of enoxaparin sodium is 1 mg/kg administered subcutaneously every 12 hours in conjunction with oral aspirin therapy (100 to 325 mg once daily).
-Treatment with enoxaparin sodium should be prescribed for a minimum of 2 days and continued until clinical stabilization.
-The usual duration of treatment is 2 to 8 days; up to 12.5 days of enoxaparin sodium has been administered in clinical trials [see Warnings and Precautions (5.2) and Clinical Studies (14.5)].
+The recommended dose of enoxaparin sodium is 1 mg/kg administered subcutaneously every 12 hours in conjunction with oral aspirin therapy (100 to 325 mg once daily) in patients with unstable angina or non–Q-wave myocardial infarction.
+Treat with enoxaparin sodium for a minimum of 2 days and continue until clinical stabilization.
+The usual duration of treatment is 2 to 8 days [see Warnings and Precautions (5.2) and Clinical Studies (14.5)].
 
 Treatment of Acute ST-Segment Elevation Myocardial Infarction
 
-In patients with acute ST-segment elevation myocardial infarction, the recommended dose of enoxaparin sodium is a single intravenous bolus of 30 mg plus a 1 mg/kg subcutaneous dose followed by 1 mg/kg administered subcutaneously every 12 hours (maximum 100 mg for the first two doses only, followed by 1 mg/kg dosing for the remaining doses).
-Dosage adjustments are recommended in patients ≥75 years of age [see Dosage and Administration (2.3)].
-All patients should receive aspirin as soon as they are identified as having STEMI and maintained with 75 to 325 mg once daily unless contraindicated.
+The recommended dose of enoxaparin sodium is a single intravenous bolus of 30 mg plus a 1 mg/kg subcutaneous dose followed by 1 mg/kg administered subcutaneously every 12 hours (maximum 100 mg for the first two doses only, followed by 1 mg/kg dosing for the remaining doses) in patients with acute ST-segment elevation myocardial infarction.
+Reduce the dosage in patients ≥75 years of age [see Dosage and Administration (2.4)].
+Unless contraindicated, administer aspirin to all patients as soon as they are identified as having STEMI and continue dosing with 75 to 325 mg once daily.
 
-When administered in conjunction with a thrombolytic (fibrin specific or non–fibrin specific), enoxaparin sodium should be given between 15 minutes before and 30 minutes after the start of fibrinolytic therapy.
-In the pivotal clinical study, the enoxaparin sodium treatment duration was 8 days or until hospital discharge, whichever came first.
-An optimal duration of treatment is not known, but it is likely to be longer than 8 days.
+When administered in conjunction with a thrombolytic (fibrin specific or non–fibrin specific), administer enoxaparin sodium between 15 minutes before and 30 minutes after the start of fibrinolytic therapy.
+The usual duration of enoxaparin sodium therapy is 8 days or until hospital discharge.
 
 For patients managed with percutaneous coronary intervention (PCI), if the last enoxaparin sodium subcutaneous administration was given less than 8 hours before balloon inflation, no additional dosing is needed.
-If the last enoxaparin sodium subcutaneous administration was given more than 8 hours before balloon inflation, an intravenous bolus of 0.3 mg/kg of enoxaparin sodium should be administered [see Warnings and Precautions (5.2)].
+If the last enoxaparin sodium subcutaneous administration was given more than 8 hours before balloon inflation, administer an intravenous bolus of 0.3 mg/kg of enoxaparin sodium [see Warnings and Precautions (5.2)].
 
-## 2.2 Renal Impairment
-
-Although no dose adjustment is recommended in patients with moderate (creatinine clearance 30–50 mL/min) and mild (creatinine clearance 50–80 mL/min) renal impairment, all such patients should be observed carefully for signs and symptoms of bleeding.
+## 2.3 Dose Reduction for Patients with Severe Renal Impairment
 
 The recommended prophylaxis and treatment dosage regimens for patients with severe renal impairment (creatinine clearance <30 mL/min) are described in Table 1 [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
 
@@ -70,43 +66,46 @@ Table 1: Dosage Regimens for Patients with Severe Renal Impairment (creatinine c
 | Prophylaxis in medical patients during acute illness | 30 mg administered subcutaneously once daily |
 | Inpatient treatment of acute deep vein thrombosis with or without pulmonary embolism, when administered in conjunction with warfarin sodium | 1 mg/kg administered subcutaneously once daily |
 | Outpatient treatment of acute deep vein thrombosis without pulmonary embolism, when administered in conjunction with warfarin sodium | 1 mg/kg administered subcutaneously once daily |
-| Prophylaxis of ischemic complications of unstable angina and non-Q-wave myocardial infarction, when concurrently administered with aspirin | 1 mg/kg administered subcutaneously once daily |
-| Treatment of acute ST-segment elevation myocardial infarction in patients <75 years of age, when administered in conjunction with aspirin | 30 mg single intravenous bolus plus a 1 mg/kg subcutaneous dose followed by 1 mg/kg administered subcutaneously once daily. |
+| Prophylaxis of ischemic complications of unstable angina and non–Q-wave myocardial infarction, when concurrently administered with aspirin | 1 mg/kg administered subcutaneously once daily |
+| Treatment of acute ST-segment elevation myocardial infarction in patients <75 years of age, when administered in conjunction with aspirin | 30 mg single intravenous bolus plus a 1 mg/kg subcutaneous dose followed by 1 mg/kg administered subcutaneously once daily |
 | Treatment of acute ST-segment elevation myocardial infarction in geriatric patients ≥75 years of age, when administered in conjunction with aspirin | 1 mg/kg administered subcutaneously once daily (no initial bolus) |
 
-## 2.3 Geriatric Patients with Acute ST-Segment Elevation Myocardial Infarction
+Although no dose adjustment is recommended in patients with creatinine clearance 30 to 50 mL/min and creatinine clearance 50 to 80 mL/min, observe these patients frequently for signs and symptoms of bleeding.
+
+## 2.4 Recommended Dosage for Geriatric Patients with Acute ST-Segment Elevation Myocardial Infarction
 
 For treatment of acute ST-segment elevation myocardial infarction in geriatric patients ≥75 years of age, do not use an initial intravenous bolus.
 Initiate dosing with 0.75 mg/kg subcutaneously every 12 hours (maximum 75 mg for the first two doses only, followed by 0.75 mg/kg dosing for the remaining doses) [see Use in Specific Populations (8.5) and Clinical Pharmacology (12.3)].
 
 No dose adjustment is necessary for other indications in geriatric patients unless kidney function is impaired [see Dosage and Administration (2.2)].
 
-## 2.4 Administration
+## 2.5 Administration
+
+Do not administer enoxaparin sodium by intramuscular injection.
+
+Administer enoxaparin sodium by intravenous or subcutaneous injection only.
 
 Enoxaparin sodium injection is a clear, colorless to pale yellow sterile solution, and as with other parenteral drug products, should be inspected visually for particulate matter and discoloration prior to administration.
 
-The use of a tuberculin syringe or equivalent is recommended when using enoxaparin sodium multiple-dose vials to assure withdrawal of the appropriate volume of drug.
+Use a tuberculin syringe or equivalent when using enoxaparin sodium multiple-dose vials to assure withdrawal of the appropriate volume of drug.
 
-Enoxaparin sodium must not be administered by intramuscular injection.
-Enoxaparin sodium is intended for use under the guidance of a physician.
-
-For subcutaneous administration, patients may self-inject only if their physicians determine that it is appropriate and with medical follow-up, as necessary.
-Proper training in subcutaneous injection technique (with or without the assistance of an injection device) should be provided.
+Patients may self-inject by the subcutaneous route of administration only after their physicians determine that it is appropriate and with medical follow-up, as necessary.
+Provide proper training in subcutaneous injection technique before allowing self-injection (with or without the assistance of an injection device).
 
 Subcutaneous Injection Technique
 
-Patients should be lying down and enoxaparin sodium administered by deep subcutaneous injection.
-To avoid the loss of drug when using the 30 and 40 mg prefilled syringes, do not expel the air bubble from the syringe before the injection.
-Administration should be alternated between the left and right anterolateral and left and right posterolateral abdominal wall.
-The whole length of the needle should be introduced into a skin fold held between the thumb and forefinger; the skin fold should be held throughout the injection.
-To minimize bruising, do not rub the injection site after completion of the injection.
+- Position patients in a supine position for enoxaparin sodium administration by deep subcutaneous injection.
+- Do not expel the air bubble from the prefilled syringes before the injection, to avoid the loss of drug.
+- Alternate injection sites between the left and right anterolateral and left and right posterolateral abdominal wall.
+- Introduce the whole length of the needle into a skin fold held between the thumb and forefinger; hold the skin fold throughout the injection.
+  To minimize bruising, do not rub the injection site after completion of the injection.
 
 Enoxaparin sodium prefilled syringes and graduated prefilled syringes are for single, one-time use only and are available with a system that shields the needle after injection.
 
 Remove the prefilled syringe from the blister packaging by peeling at the arrow as directed on the blister.
 Do not remove by pulling on the plunger as this may damage the syringe.
 
-1. Remove the needle shield by pulling it straight off the syringe (see Figure A). If adjusting the dose is required, the dose adjustment must be done prior to injecting the prescribed dose to the patient.
+1. Remove the needle shield by pulling it straight off the syringe (see Figure A). If less than the full syringe volume is needed to administer the prescribed dose, eject syringe contents until the prescribed dose is left in the syringe.
    Figure A
 2. Inject using standard technique, pushing the plunger to the bottom of the syringe (see Figure B). Figure B
 3. Remove the syringe from the injection site keeping your finger on the plunger rod (see Figure C). Figure C
@@ -126,8 +125,20 @@ For optimal safety, activate the system while orienting it downwards away from y
 
 Intravenous (Bolus) Injection Technique
 
-For intravenous injection, the multiple-dose vial should be used.
-Enoxaparin sodium should be administered through an intravenous line.
-Enoxaparin sodium should not be mixed or coadministered with other medications.
-To avoid the possible mixture of enoxaparin sodium with other drugs, the intravenous access chosen should be flushed with a sufficient amount of saline or dextrose solution prior to and following the intravenous bolus administration of enoxaparin sodium to clear the port of drug.
-Enoxaparin sodium may be safely administered with normal saline solution (0.9%) or 5% dextrose in water.
+Use the multiple-dose vial for intravenous injections.
+Administer enoxaparin sodium through an intravenous line.
+Do not mix or coadminister enoxaparin sodium with other medications.
+Flush the intravenous access device with a sufficient volume of saline or dextrose solution prior to and following the intravenous bolus administration of enoxaparin sodium to prevent mixing of drugs.
+Enoxaparin sodium is compatible with normal saline solution (0.9%) or 5% dextrose in water.
+
+## 2.6 Monitoring for Safety
+
+During therapy monitor complete blood counts including platelets and stool occult blood.
+
+Assess for signs and symptoms of bleeding.
+
+In patients with renal impairment anti-Factor Xa levels may be used to monitor the anticoagulant effects of enoxaparin sodium.
+
+If during enoxaparin sodium therapy abnormal coagulation parameters or bleeding should occur, anti-Factor Xa levels may be used to monitor the anticoagulant effects of enoxaparin sodium [see Clinical Pharmacology (12.3)].
+
+Prothrombin Time (PT) and Activated Partial Thromboplastin Time (aPTT) are not adequate for monitoring the anticoagulant effects of enoxaparin sodium.

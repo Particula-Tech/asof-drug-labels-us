@@ -2,16 +2,15 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B
+Risk Summary
 
-All pregnancies have a background risk of birth defect, loss, or other adverse outcome regardless of drug exposure.
-The fetal risk summary below describes the potential of enoxaparin sodium to increase the risk of developmental abnormalities above the background risk.
+Placental transfer of enoxaparin was observed in the animal studies.
+Human data from a retrospective cohort study, which included 693 live births, suggest that enoxaparin does not increase the risk of major developmental abnormalities (see Data).
+Based on animal data, enoxaparin is not predicted to increase the risk of major developmental abnormalities (see Data).
 
-Fetal Risk Summary
-
-Enoxaparin sodium does not cross the placenta, and is not expected to result in fetal exposure to the drug.
-Human data from a retrospective cohort study, which included 693 live births, suggest that enoxaparin sodium does not increase the risk of major developmental abnormalities.
-Based on animal data, enoxaparin is not predicted to increase the risk of major developmental abnormalities [see Data].
+Adverse outcomes in pregnancy occur regardless of the health of the mother or the use of medications.
+The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Clinical Considerations
 
@@ -53,10 +52,14 @@ Teratology studies have been conducted in pregnant rats and rabbits at subcutane
 There was no evidence of teratogenic effects or fetotoxicity due to enoxaparin.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-It is not known whether enoxaparin sodium is excreted in human milk.
-Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from enoxaparin sodium, a decision should be made whether to discontinue nursing or discontinue enoxaparin sodium, taking into account the importance of enoxaparin sodium to the mother and the known benefits of nursing.
+Risk Summary
+
+It is unknown whether enoxaparin sodium is excreted in human milk.
+In lactating rats, the passage of enoxaparin or its metabolites in the milk is very limited.
+There is no information available on the effect of enoxaparin or its metabolites on the breastfed child, or on the milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for enoxaparin sodium and any potential adverse effects on the breastfed child from enoxaparin sodium or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
@@ -67,16 +70,16 @@ Enoxaparin sodium is not approved for use in neonates or infants.
 Serious adverse reactions including fatal reactions and the "gasping syndrome" occurred in premature neonates and low birth weight infants in the neonatal intensive care unit who received drugs containing benzyl alcohol as a preservative.
 In these cases, benzyl alcohol dosages of 99 to 234 mg/kg/day produced high levels of benzyl alcohol and its metabolites in the blood and urine (blood levels of benzyl alcohol were 0.61 to 1.378 mmol/L).
 Additional adverse reactions included gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse.
-Preterm, low birth weight infants may be more likely to develop these reactions because they may be less able to metabolize benzyl alcohol.
+Preterm, low-birth weight infants may be more likely to develop these reactions because they may be less able to metabolize benzyl alcohol.
 The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known.
 
 Enoxaparin sodium multiple-dose vials contain 15 mg/mL of benzyl alcohol (at the dose of 1.5 mg/kg twice a day, benzyl alcohol exposure in patients is 0.45 mg/kg daily) [see Warnings and Precautions (5.8)].
 
 ## 8.5 Geriatric Use
 
-Prevention of Deep Vein Thrombosis in Hip, Knee and Abdominal Surgery; Treatment of Deep Vein Thrombosis, Prevention of Ischemic Complications of Unstable Angina and Non–Q-wave Myocardial Infarction
+Prevention of Deep Vein Thrombosis in Hip, Knee and Abdominal Surgery; Treatment of Deep Vein Thrombosis, Prevention of Ischemic Complications of Unstable Angina and Non–Q-Wave Myocardial Infarction
 
-Over 2800 patients, 65 years and older, have received enoxaparin sodium in pivotal clinical trials.
+Over 2800 patients, 65 years and older, have received enoxaparin sodium in clinical trials.
 The efficacy of enoxaparin sodium in the geriatric (≥65 years) was similar to that seen in younger patients (<65 years).
 The incidence of bleeding complications was similar between geriatric and younger patients when 30 mg every 12 hours or 40 mg once a day doses of enoxaparin sodium were employed.
 The incidence of bleeding complications was higher in geriatric patients as compared to younger patients when enoxaparin sodium was administered at doses of 1.5 mg/kg once a day or 1 mg/kg every 12 hours.
@@ -85,12 +88,12 @@ Serious adverse events increased with age for patients receiving enoxaparin sodi
 Other clinical experience (including postmarketing surveillance and literature reports) has not revealed additional differences in the safety of enoxaparin sodium between geriatric and younger patients.
 Careful attention to dosing intervals and concomitant medications (especially antiplatelet medications) is advised.
 Enoxaparin sodium should be used with care in geriatric patients who may show delayed elimination of enoxaparin.
-Monitoring of geriatric patients with low body weight (<45 kg) and those predisposed to decreased renal function should be considered [see Warnings and Precautions (5.9) and Clinical Pharmacology (12.3)].
+Monitoring of geriatric patients with low body weight (<45 kg) and those predisposed to decreased renal function should be considered [see Warnings and Precautions (2.6) and Clinical Pharmacology (12.3)].
 
 Treatment of Acute ST-Segment Elevation Myocardial Infarction
 
 In the clinical study for treatment of acute ST-segment elevation myocardial infarction, there was no evidence of difference in efficacy between patients ≥75 years of age (n=1241) and patients less than 75 years of age (n=9015).
-Patients ≥75 years of age did not receive a 30 mg intravenous bolus prior to the normal dosage regimen and had their subcutaneous dose adjusted to 0.75 mg/kg every 12 hours [see Dosage and Administration (2.3)].
+Patients ≥75 years of age did not receive a 30 mg intravenous bolus prior to the normal dosage regimen and had their subcutaneous dose adjusted to 0.75 mg/kg every 12 hours [see Dosage and Administration (2.4)].
 The incidence of bleeding complications was higher in patients ≥65 years of age as compared to younger patients (<65 years).
 
 ## 8.6 Patients with Mechanical Prosthetic Heart Valves
@@ -106,21 +109,16 @@ Pregnant women with mechanical prosthetic heart valves may be at higher risk for
 In patients with renal impairment, there is an increase in exposure of enoxaparin sodium.
 All such patients should be observed carefully for signs and symptoms of bleeding.
 Because exposure of enoxaparin sodium is significantly increased in patients with severe renal impairment (creatinine clearance <30 mL/min), a dosage adjustment is recommended for therapeutic and prophylactic dosage ranges.
-No dosage adjustment is recommended in patients with moderate (creatinine clearance 30–50 mL/min) and mild (creatinine clearance 50–80 mL/min) renal impairment [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
+No dosage adjustment is recommended in patients with creatinine clearance 30 to <50 mL/min and creatinine clearance 50 to 80 mL/min [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
 In patients with renal failure, treatment with enoxaparin has been associated with the development of hyperkalemia [see Adverse Reactions (6.2)].
 
-## 8.8 Hepatic Impairment
-
-The impact of hepatic impairment on enoxaparin's exposure and antithrombotic effect has not been investigated.
-Caution should be exercised when administering enoxaparin to patients with hepatic impairment.
-
-## 8.9 Low-Weight Patients
+## 8.8 Low-Weight Patients
 
 An increase in exposure of enoxaparin sodium with prophylactic dosages (non-weight adjusted) has been observed in low-weight women (<45 kg) and low-weight men (<57 kg).
-All such patients should be observed carefully for signs and symptoms of bleeding [see Clinical Pharmacology (12.3)].
+Observe low-weight patients frequently for signs and symptoms of bleeding [see Clinical Pharmacology (12.3)].
 
-## 8.10 Obese Patients
+## 8.9 Obese Patients
 
 Obese patients are at higher risk for thromboembolism.
 The safety and efficacy of prophylactic doses of enoxaparin sodium in obese patients (BMI >30 kg/m2) has not been fully determined and there is no consensus for dose adjustment.
-These patients should be observed carefully for signs and symptoms of thromboembolism.
+Observe these patients carefully for signs and symptoms of thromboembolism.
