@@ -45,8 +45,8 @@ Manufactured By:
 
 Intas Pharmaceuticals Limited,
 
-Ahmedabad -380 009, India.
+Ahmedabad -380 054, India.
 
-10 9351 1 659550
+10 2959 0 682675
 
-Issued February 2015
+Issued July 2018
