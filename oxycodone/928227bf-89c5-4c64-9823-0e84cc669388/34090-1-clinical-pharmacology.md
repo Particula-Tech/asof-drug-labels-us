@@ -19,7 +19,7 @@ Oxycodone causes miosis, even in total darkness.
 Pinpoint pupils are a sign of opioid overdose but are not pathognomonic (e.g., pontine lesions of hemorrhagic or ischemic origins may produce similar findings).
 Marked mydriasis rather than miosis may be seen due to hypoxia in overdose situations.
 
-Effects on Gastrointestinal Tract And Other Smooth Muscle Oxycodone causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum.
+Effects on Gastrointestinal Tract and Other Smooth Muscle Oxycodone causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
 Propulsive peristaltic waves in the colon are decreased, while tone may be increased to the point of spasm, resulting in constipation.
 Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
@@ -61,7 +61,7 @@ Oxycodone hydrochloride tablets are designed to provide immediate release of oxy
 | Oxycodone Hydrochloride Oral Solution USP10 mg/10 mL oral sol’n (fed) | 133±25.2 | 17.7±3.0 | 2.54±1.2 | n/a | n/a | 3.3±0.5 |
 | Multiple-Dose Studies | AUC(72-84) |  |  |  |  |  |
 | Oxycodone Hydrochloride Tablets5 mg tabs q6h x 14 doses | 113.3±24.0 | 15.7±3.2 | 1.3±0.3 | 7.4±1.8 | 9.4±2.0 | n/a |
-| Oxycodone Hydrochloride Oral Solution USP3.33 mg (3.33 mL) oral sol’n.q4h x 21 doses | 99.0±24.8 | 12.9±3.1 | 1.0±0.3 | 7.2±2.3 | 9.7±2.6 | n/a |
+| Oxycodone Hydrochloride Oral Solution USP3.33 mg (3.33 mL) oral sol’n. q4h x 21 doses | 99.0±24.8 | 12.9±3.1 | 1.0±0.3 | 7.2±2.3 | 9.7±2.6 | n/a |
 
 Absorption About 60% to 87% of an oral dose of oxycodone reaches the systemic circulation in comparison to a parenteral dose.
 This high oral bioavailability (compared to other oral opioids) is due to lower presystemic and/or first-pass metabolism of oxycodone.
