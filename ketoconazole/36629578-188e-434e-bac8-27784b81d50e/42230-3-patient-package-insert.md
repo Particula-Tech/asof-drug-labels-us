@@ -10,10 +10,9 @@
 | What are the possible side effects of EXTINA Foam?EXTINA Foam may cause serious side effects, including: •Skin irritation at the application area(s), including skin reactions caused by exposure to light. Tell your healthcare provider if you develop skin irritation during treatment with EXTINA Foam. The most common side effects of EXTINA Foam include, burning, dryness, redness, irritation, numbness, itching, rash and warmth at the application site. These are not all of the possible side effects of EXTINA Foam. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |
 | How should I store EXTINA Foam? •Store EXTINA Foam at room temperature between 68°F to 77°F (20°C to 25°C). •Do not store the EXTINA Foam can in the refrigerator or freezer. •Keep EXTINA Foam away from heat. Never throw the EXTINA Foam can into a fire, even if the can is empty.•Do not store EXTINA Foam at temperatures above 120°F (49°C).•Do not break through (puncture) the EXTINA Foam can. Keep EXTINA Foam and all medicines out of the reach of children. |
 | General information about the safe and effective use of EXTINA Foam. Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use EXTINA Foam for a condition for which it was not prescribed. Do not give EXTINA Foam to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for information about EXTINA Foam that is written for health professionals. |
-| What are the ingredients in EXTINA Foam?Active ingredient: ketoconazole Inactive Ingredients: cetyl alcohol, citric acid, ethanol (denatured with tert-butyl alcohol and brucine sulfate) 58%, polysorbate 60, potassium citrate, propylene glycol, purified water, and stearyl alcohol pressurized with a hydrocarbon (propane/butane) propellant Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A. Manufactured by: DPT Laboratories, Ltd. San Antonio, TX 78215 U.S.A. For more information, call Mylan at 1-877-446-3679 (1-877-4-INFO-RX) or visit www.extina.com. |
+| What are the ingredients in EXTINA Foam?Active ingredient: ketoconazole Inactive ingredients: cetyl alcohol, citric acid, ethanol (denatured with tert-butyl alcohol and brucine sulfate) 58%, polysorbate 60, potassium citrate, propylene glycol, purified water, and stearyl alcohol pressurized with a hydrocarbon (propane/butane) propellantManufactured for: Mylan Pharmaceuticals Inc., Morgantown, WV 26505 U.S.A. For more information, call Mylan at 1-877-446-3679 (1-877-4-INFO-RX) or visit www.extina.com. |
 
 This Patient Information leaflet has been approved by the U.S. Food and Drug Administration.
-Revised: 6/2018
 
 Instructions for Use EXTINA (ex-TEEN-ah) (ketoconazole) Foam, 2%
 
@@ -40,14 +39,15 @@ How should I store EXTINA Foam?
 Keep EXTINA Foam and all medicines out of the reach of children.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Revised: 6/2018
+
+EXTINA is a registered trademark of Stiefel Laboratories, Inc., a GSK Company, exclusively licensed to the Mylan Companies.
+
+©2018 Delcor Asset Corporation, a Mylan Company
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured by: DPT Laboratories, Ltd. San Antonio, TX 78215 U.S.A.
 
-©2018 Delcor Asset Corporation, a Mylan Company
+140985-0818
 
-140985-0718
-
-Revised: 6/2018 DPT:KTCZFO:RX1
+Revised 8/2018 DPT:KTCZFO:R2
