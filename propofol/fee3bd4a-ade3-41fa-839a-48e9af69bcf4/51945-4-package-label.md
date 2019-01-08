@@ -6,7 +6,7 @@ PL260929
 
 DIPRIVAN® (Propofol) INJECTABLE EMULSION, USP
 
-200 mg per 20 mL (10 mg per mL)
+200 mg per 20 mL(10 mg per mL)
 
 For Intravenous Administration
 

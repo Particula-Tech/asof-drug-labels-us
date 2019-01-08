@@ -80,11 +80,11 @@ Cardiac Anesthesia Techniques
 
 | Primary Agent | Rate | Secondary Agent/Rate (Following Induction with Primary Agent) |
 | --- | --- | --- |
-| DIPRIVAN |  | OPIOIDa/0.05 mcg/kg/min to 0.075 mcg/kg/min (no bolus) |
+| DIPRIVAN |  | OPIOID a/0.05 mcg/kg/min to 0.075 mcg/kg/min (no bolus) |
 | Preinduction Anxiolysis | 25 mcg/kg/min |  |
 | Induction | 0.5 mg/kg to 1.5 mg/kg over 60 sec |  |
 | Maintenance (Titrated to Clinical Response) | 100 mcg/kg/min to 150 mcg/kg/min |  |
-| OPIOIDb |  | DIPRIVAN /50 mcg/kg/min to 100 mcg/kg/min (no bolus) |
+| OPIOID b |  | DIPRIVAN /50 mcg/kg/min to 100 mcg/kg/min (no bolus) |
 | Induction | 25 mcg/kg to 50 mcg/kg |  |
 | Maintenance | 0.2 mcg/kg/min to 0.3 mcg/kg/min |  |
 
