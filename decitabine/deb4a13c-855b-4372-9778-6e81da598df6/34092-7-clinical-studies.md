@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Controlled Trial
+## 14.1 Controlled Trial in Myelodysplastic Syndrome
 
 A randomized open-label, multicenter, controlled trial evaluated 170 adult patients with myelodysplastic syndromes (MDS) meeting French-American-British (FAB) classification criteria and International Prognostic Scoring System (IPSS) High-Risk, Intermediate-2 and Intermediate-1 prognostic scores.
 Eighty-nine patients were randomized to DACOGEN therapy plus supportive care (only 83 received DACOGEN), and 81 to Supportive Care (SC) alone.
@@ -75,7 +75,7 @@ Table 6 Analysis of Response (ITT)
 
 | Parameter | DACOGEN N=89 | Supportive Care N=81 |
 | --- | --- | --- |
-| Overall Response Rate (CR+PR)In the statistical analysis plan, a p-value of ≤0.024 was required to achieve statistical significance. | 15 (17%)p-value <0.001 from two-sided Fisher's Exact Test comparing DACOGEN vs. Supportive Care. | 0 (0%) |
+| Overall Response Rate (CR+PR) In the statistical analysis plan, a p-value of ≤0.024 was required to achieve statistical significance. | 15 (17%) p-value <0.001 from two-sided Fisher's Exact Test comparing DACOGEN vs. Supportive Care. | 0 (0%) |
 | Complete Response (CR) | 8 (9%) | 0 (0%) |
 | Partial Response (PR) | 7 (8%) | 0 (0%) |
 | Duration of Response |  |  |
@@ -86,7 +86,7 @@ All patients with a CR or PR were RBC and platelet transfusion independent in th
 
 Responses occurred in patients with an adjudicated baseline diagnosis of AML.
 
-## 14.2 Single-arm Studies
+## 14.2 Single-arm Studies in Myelodysplastic Syndrome
 
 Three open-label, single-arm, multicenter studies were conducted to evaluate the safety and efficacy of DACOGEN in MDS patients with any of the FAB subtypes.
 In one study conducted in North America, 99 patients with IPSS Intermediate-1, Intermediate-2, or high risk prognostic scores received DACOGEN by intravenous infusion at a dose of 20 mg/m 2 IV over 1-hour daily, on days 1-5 of week 1 every 4 weeks (1 cycle).
@@ -141,5 +141,5 @@ Blood.
 | Complete Response (CR) | 15 (15%) |
 | Partial Response (PR) | 1 (1%) |
 | Duration of Response |  |
-| Median time to (CR+PR) response - Days (range) | 162 (50-267) |
-| Median Duration of (CR+PR) response - Days (range) | 443 (72-722 indicates censored observation) |
+| Median time to (CR+PR) response - Days (range) | 162 (50-267) 443 (72-722 indicates censored observation) |
+| Median Duration of (CR+PR) response - Days (range) |  |

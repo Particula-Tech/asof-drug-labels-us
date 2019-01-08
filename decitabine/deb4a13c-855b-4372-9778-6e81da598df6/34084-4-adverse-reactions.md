@@ -4,24 +4,21 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
+The safety of DACOGEN was studied in 3 single-arm studies (N =66, N =98, N =99) and 1 controlled supportive care study (N =83 DACOGEN, N =81 supportive care).
+The data described below reflect exposure to DACOGEN in 83 patients in the MDS trial.
+In the trial, patients received 15 mg/m 2 intravenously every 8 hours for 3 days every 6 weeks.
+The median number of DACOGEN cycles was 3 (range 0 to 9).
 Most Commonly Occurring Adverse Reactions: neutropenia, thrombocytopenia, anemia, fatigue, pyrexia, nausea, cough, petechiae, constipation, diarrhea, and hyperglycemia.
 
-Adverse Reactions Most Frequently (≥1%) Resulting in Clinical Intervention in the Phase 3 Trials in the DACOGEN Arm:
+Adverse Reactions Most Frequently (≥1%) Resulting in Clinical Intervention and or Dose Modification in the Phase 3 Trials in the DACOGEN Arm:
 
 - Discontinuation: thrombocytopenia, neutropenia, pneumonia, Mycobacterium avium complex infection, cardio-respiratory arrest, increased blood bilirubin, intracranial hemorrhage, abnormal liver function tests.
 - Dose Delayed: neutropenia, pulmonary edema, atrial fibrillation, central line infection, febrile neutropenia.
 - Dose Reduced: neutropenia, thrombocytopenia, anemia, lethargy, edema, tachycardia, depression, pharyngitis.
 
-Discussion of Adverse Reactions Information
+Table 1 presents all adverse reactions occurring in at least 5% of patients in the DACOGEN group and at a rate greater than supportive care.
 
-DACOGEN was studied in 3 single-arm studies (N =66, N =98, N =99) and 1 controlled supportive care study (N =83 DACOGEN, N =81 supportive care).
-The data described below reflect exposure to DACOGEN in 83 patients in the MDS trial.
-In the trial, patients received 15 mg/m 2 intravenously every 8 hours for 3 days every 6 weeks.
-The median number of DACOGEN cycles was 3 (range 0 to 9).
-
-Table 1 presents all adverse events regardless of causality occurring in at least 5% of patients in the DACOGEN group and at a rate greater than supportive care.
-
-Table 1 Adverse Events Reported in ≥5% of Patients in the DACOGEN Group and at a Rate Greater than Supportive Care in Phase 3 MDS Trial
+Table 1 Adverse Reactions Reported in ≥5% of Patients in the DACOGEN Group and at a Rate Greater than Supportive Care in Phase 3 MDS Trial
 
 |  | DACOGEN N =83 (%) | Supportive Care N =81 (%) |
 | --- | --- | --- |
@@ -152,17 +149,10 @@ Table 1 Adverse Events Reported in ≥5% of Patients in the DACOGEN Group and at
 | Hypotension NOS | 5 (6) | 4 (5) |
 | Hematoma NOS | 4 (5) | 3 (4) |
 
-Discussion of Clinically Important Adverse Reactions
+In a single-arm MDS study (N=99) DACOGEN was dosed at 20 mg/m 2 intravenous, infused over one hour daily for 5 consecutive days of a 4-week cycle.
+Table 2 presents all adverse reactions occurring in at least 5% of patients.
 
-In the controlled trial using DACOGEN dosed at 15 mg/m 2, administered by continuous intravenous infusion over 3 hours repeated every 8 hours for 3 days, the highest incidence of Grade 3 or Grade 4 adverse events in the DACOGEN arm were neutropenia (87%), thrombocytopenia (85%), febrile neutropenia (23%) and leukopenia (22%).
-Bone marrow suppression was the most frequent cause of dose reduction, delay and discontinuation.
-Six patients had fatal events associated with their underlying disease and myelosuppression (anemia, neutropenia, and thrombocytopenia) that were considered at least possibly related to drug treatment [See Warnings and Precautions (5.1)].
-Of the 83 DACOGEN-treated patients, 8 permanently discontinued therapy for adverse events; compared to 1 of 81 patients in the supportive care arm.
-
-In a single-arm MDS study (N=99) DACOGEN was dosed at 20 mg/m 2 intravenous, infused over one hour daily for 5 consecutive days of a 4- week cycle.
-Table 2 presents all adverse events regardless of causality occurring in at least 5% of patients.
-
-Table 2 Adverse Events Reported in ≥5% of Patients in a Single-arm Study In this single arm study, investigators reported adverse events based on clinical signs and symptoms rather than predefined laboratory abnormalities.
+Table 2 Adverse Reactions Reported in ≥5% of Patients in a Single-arm Study In this single arm study, investigators reported adverse events based on clinical signs and symptoms rather than predefined laboratory abnormalities.
 Thus, not all laboratory abnormalities were recorded as adverse events.
 
 |  | DACOGEN N =99 (%) |
@@ -262,20 +252,12 @@ Thus, not all laboratory abnormalities were recorded as adverse events.
 | Hypertension | 6 (6%) |
 | Hypotension | 11 (11%) |
 
-Discussion of Clinically Important Adverse Reactions
-
-In the single-arm study (N=99) when DACOGEN was dosed at 20 mg/m 2 intravenous, infused over one hour daily for 5 consecutive days, the highest incidence of Grade 3 or Grade 4 adverse events were neutropenia (37%), thrombocytopenia (24%) and anemia (22%).
-Seventy-eight percent of patients had dose delays, the median duration of this delay was 7 days and the largest percentage of delays was due to hematologic toxicities.
-Hematologic toxicities and infections were the most frequent causes of dose delays and discontinuation.
-Eight patients had fatal events due to infection and/or bleeding (seven of which occurred in the clinical setting of myelosuppression) that were considered at least possibly related to drug treatment.
-Nineteen of 99 patients permanently discontinued therapy for adverse events.
-
 No overall difference in safety was detected between patients >65 years of age and younger patients in these myelodysplasia trials.
 No significant gender differences in safety or efficacy were detected.
 Patients with renal or hepatic dysfunction were not studied.
 Insufficient numbers of non-white patients were available to draw conclusions in these clinical trials.
 
-Serious Adverse Events that occurred in patients receiving DACOGEN regardless of causality, not previously reported in Tables 1 and 2 include:
+Serious adverse reactions that occurred in patients receiving DACOGEN regardless of causality, not previously reported in Tables 1 and 2 include:
 
 - Blood and Lymphatic System Disorders: myelosuppression, splenomegaly.
 - Cardiac Disorders: myocardial infarction, cardio-respiratory arrest, cardiomyopathy, atrial fibrillation, supraventricular tachycardia.

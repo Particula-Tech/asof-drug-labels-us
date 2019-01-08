@@ -1,35 +1,47 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-There are two regimens for DACOGEN administration.
-With either regimen it is recommended that patients be treated for a minimum of 4 cycles; however, a complete or partial response may take longer than 4 cycles.
+## 2.1 Recommended Starting Dosage
 
-Complete blood counts and platelet counts should be performed as needed to monitor response and toxicity, but at a minimum, prior to each cycle.
-Liver chemistries and serum creatinine should be obtained prior to initiation of treatment.
+Pre-Medications and Baseline Testing
 
-## 2.1 Treatment Regimen – Option 1
+- Consider pre-medicating for nausea with antiemetics.
+- Conduct baseline laboratory testing: CBC with platelets, serum hepatic panel, and serum creatinine.
 
-DACOGEN is administered at a dose of 15 mg/m 2 by continuous intravenous infusion over 3 hours repeated every 8 hours for 3 days.
-This cycle should be repeated every 6 weeks.
-Patients may be premedicated with standard anti-emetic therapy.
+DACOGEN Regimen Options
 
-If hematologic recovery (ANC ≥1,000×10 9/microliter and platelets ≥50,000/10 9 microliter) from a previous DACOGEN treatment cycle requires more than 6 weeks, then the next cycle of DACOGEN therapy should be delayed and dosing temporarily reduced by following this algorithm:
+Three Day Regimen
 
-- Recovery requiring more than 6, but less than 8 weeks − DACOGEN dosing to be delayed for up to 2 weeks and the dose temporarily reduced to 11 mg/m 2 every 8 hours (33 mg/m 2/day, 99 mg/m 2/cycle) upon restarting therapy.
-- Recovery requiring more than 8, but less than 10 weeks − Patient should be assessed for disease progression (by bone marrow aspirates); in the absence of progression, the DACOGEN dose should be delayed up to 2 more weeks and the dose reduced to 11 mg/m 2 every 8 hours (33 mg/m 2/day, 99 mg/m 2/cycle) upon restarting therapy, then maintained or increased in subsequent cycles as clinically indicated.
+Administer DACOGEN at a dose of 15 mg/m 2 by continuous intravenous infusion over 3 hours repeated every 8 hours for 3 days.
+Repeat cycles every 6 weeks upon hematologic recovery (ANC at least 1,000/µL and platelets at least 50,000/µL) for a minimum of 4 cycles..
+A complete or partial response may take longer than 4 cycles.
+Delay and reduce dose for hematologic toxicity (see Dose Modifications for Toxicity).
 
-## 2.2 Treatment Regimen – Option 2
+Five Day Regimen
 
-DACOGEN is administered at a dose of 20 mg/m 2 by continuous intravenous infusion over 1 hour repeated daily for 5 days.
-This cycle should be repeated every 4 weeks.
-Patients may be premedicated with standard anti-emetic therapy.
+Administer DACOGEN at a dose of 20 mg/m 2 by continuous intravenous infusion over 1 hour daily for 5 days.
+Delay and reduce dose for hematologic toxicity (see Dose Modifications for Toxicity).
+Repeat cycles every 4 weeks upon hematologic recovery (ANC at least 1,000/µL and platelets at least 50,000/µL) for a minimum of 4 cycles.
+A complete or partial response may take longer than 4 cycles.
 
-If myelosuppression is present, subsequent treatment cycles of DACOGEN should be delayed until there is hematologic recovery ((ANC ≥1,000×10 9/microliter and platelets ≥50,000/10 9 microliter)).
+## 2.2 Dose Modifications for Toxicity
 
-## 2.3 Patients with Non-Hematologic Toxicity
+Hematologic Toxicity
 
-Following the first cycle of DACOGEN treatment, if any of the following non-hematologic toxicities are present, DACOGEN treatment should not be restarted until the toxicity is resolved: 1) serum creatinine ≥2 mg/dL; 2) SGPT, total bilirubin ≥2 times ULN; 3) and active or uncontrolled infection.
+If hematologic recovery from a previous DACOGEN treatment cycle requires more than 6 weeks, delay the next cycle of DACOGEN therapy and reduce DACOGEN dose temporarily by following this algorithm:
 
-## 2.4 Instructions for Intravenous Administration
+- Recovery requiring more than 6, but less than 8 weeks – delay DACOGEN dosing for up to 2 weeks and reduce the dose temporarily to 11 mg/m 2 every 8 hours (33 mg/m 2/day, 99 mg/m 2/cycle) upon restarting therapy.
+- Recovery requiring more than 8, but less than 10 weeks - Perform bone marrow aspirate to assess for disease progression.
+  In the absence of progression, delay the DACOGEN dose up to 2 more weeks and reduce the dose to 11 mg/m 2 every 8 hours (33 mg/m 2/day, 99 mg/m 2/cycle) upon restarting therapy, then maintain or increase dose in subsequent cycles as clinically indicated.
+
+Non-Hematologic Toxicity
+
+Delay subsequent DACOGEN treatment for any the following non-hematologic toxicities and do not restart until toxicities resolve:
+
+- Serum creatinine greater than or equal to 2 mg/dL
+- SGPT, total bilirubin greater than or equal to 2 times ULN
+- Active or uncontrolled infection
+
+## 2.3 Instructions for Intravenous Administration
 
 DACOGEN is a cytotoxic drug and caution should be exercised when handling and preparing DACOGEN 1.
 
@@ -40,11 +52,11 @@ Temperature of the diluent (0.9% Sodium Chloride Injection or 5% Dextrose Inject
 
 For Administration Within 15 Minutes of Preparation
 
-If DACOGEN is intended to be administered within 15 minutes from the time of preparation, dilute the reconstituted solution with room temperature (20°C - 25°C) 0.9% Sodium Chloride Injection or 5% Dextrose Injection to a final concentration of 0.1 mg/mL - 1 mg/mL.
+If DACOGEN is intended to be administered within 15 minutes from the time of preparation, dilute the reconstituted solution with room temperature (20°C - 25°C) 0.9% Sodium Chloride Injection or 5% Dextrose Injection to a final concentration of 0.1 mg/mL- 1 mg/mL.
 
 For Delayed Administration
 
-If DACOGEN is intended to be administered after 15 minutes of preparation, dilute the reconstituted solution with cold (2°C - 8°C) 0.9% Sodium Chloride Injection or 5% Dextrose Injection to a final concentration of 0.1 mg/mL - 1 mg/mL.
+If DACOGEN is intended to be administered after 15 minutes of preparation, dilute the reconstituted solution with cold (2°C - 8°C) 0.9% Sodium Chloride Injection or 5% Dextrose Injection to a final concentration of 0.1 mg/mL- 1 mg/mL.
 Store at 2°C - 8°C for up to 4 hours.
 Diluted stored solution must be used within 4 hours from the time of preparation.
 
