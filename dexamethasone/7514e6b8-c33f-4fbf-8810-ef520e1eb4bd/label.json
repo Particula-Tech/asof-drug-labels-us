@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA208742"
+  ],
+  "inn": "dexamethasone",
+  "labeler": "Ocular Therapeutix, Inc.",
+  "package_ndcs": [
+    "70382-204-01",
+    "70382-204-10",
+    "70382-204-88",
+    "70382-204-99"
+  ],
+  "products": [
+    {
+      "form": "INSERT",
+      "generic": "dexamethasone",
+      "name": "DEXTENZA"
+    }
+  ],
+  "setid": "7514e6b8-c33f-4fbf-8810-ef520e1eb4bd",
+  "source": "dailymed"
+}
