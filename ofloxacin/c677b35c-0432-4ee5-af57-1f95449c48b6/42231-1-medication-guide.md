@@ -212,6 +212,11 @@ Stop taking ofloxacin tabletsand get emergency medical help right away if you ge
   - yellowing of the skin or eyes.
     Stop taking ofloxacin tabletsand tell your healthcare provider right away if you get yellowing of your skin or white part of your eyes, or if you have dark urine.
     These can be signs of a serious reaction to ofloxacin tablets(a liver problem).
+  - Aortic aneurysm and dissection People who take fluoroquinolone medicines, including ofloxacin tablets, have an increased risk of swelling of the large artery that carries blood from the heart to the body (aortic aneurysm) and tearing (dissection) of this artery.
+    Tell your healthcare provider if you have ever been told that you have an aortic aneurysm.
+    Get emergency medical help right away if you have sudden chest, stomach, or back pain.
+
+- 
   - Skin rash
 
 Skin rash may happen in people taking ofloxacin tablets, even after only one dose.
@@ -291,6 +296,7 @@ What are the ingredients in ofloxacin tablets?
 - Active ingredient: ofloxacin, USP
 - Inactive ingredients: lactose monohydrate, pregelatinized maize starch, hydroxy propyl methyl cellulose, talc, magnesium stearate, polyethylene glycol, sodium starch glycolate and titanium dioxide.
   Additionally, the 200 mg and 400 mg tablets contain iron oxide yellow.
+  The imprinting ink for 200 mg, 300 mg and 400 mg strength contains FD&C blue #1, isopropyl alcohol, N-butyl alcohol, propylene glycol, shellac and titanium dioxide.
 
 This Medication Guide has been approved by the U.S.Food and Drug Administration.
 All brand names listed are the registered trademarks of their respective owners and are not trademarks of Cadila Pharmaceuticals Limited, India.
@@ -299,4 +305,4 @@ Manufactured by:
 
 Cadila Pharmaceuticals Limited 1389, Dholka, District - Ahmedabad,
 
-Gujarat State, INDIA Revised: December 2018
+Gujarat State, INDIA Revised: January 2019

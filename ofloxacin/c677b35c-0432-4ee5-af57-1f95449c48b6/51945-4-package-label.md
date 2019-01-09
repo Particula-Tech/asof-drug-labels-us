@@ -1,6 +1,6 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-Ofloxacin Tablets, USP 200 mg 500s Label Text NDC 71209-001-10 OFLOXACIN TABLETS, USP 200 mg
+Ofloxacin Tablets, USP 200 mg 500s Label Text NDC 71209-097-10 OFLOXACIN TABLETS, USP 200 mg
 
 PHARMACIST: PLEASE DISPENSE WITH
 
@@ -10,7 +10,7 @@ Rx only
 
 500 TABLETS Cadila Pharmaceuticals Ltd. Ofloxacin Tablets, USP 300 mg 500s Label Text
 
-NDC 71209-002-10
+NDC 71209-098-10
 
 OFLOXACIN
 
@@ -26,11 +26,9 @@ Rx only
 
 500 TABLETS
 
-Cadila Pharmaceuticals Ltd.
+Cadila Pharmaceuticals Ltd. Ofloxacin Tablets, USP 400 mg 500s Label Text
 
-Ofloxacin Tablets, USP 400 mg 500s Label Text
-
-NDC 71209-003-10
+NDC 71209-099-10
 
 OFLOXACIN
 

@@ -50,6 +50,12 @@ CDAD must be considered in all patients who present with diarrhea following anti
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated (see ADVERSE REACTIONS).
+Risk of Aortic Aneurysm and Dissection Fluoroquinolones, including ofloxacin, have been associated with aortic aneurysm and dissection.
+Findings from epidemiologic studies show a consistently increased risk of hospitalization for aortic aneurysm or dissection within two months following use of a fluoroquinolone antibacterial drug.
+The annual estimated background risk of aortic aneurysm is as high as approximately 300 aortic aneurysm events per 100,000 persons at the highest risk (e.g., age greater than 85 years).
+The evidence shows the potential for a 2-fold increased risk over the background risk following fluoroquinolone exposure and was based on a small number of cases, mostly in older patients.
+The cause for the risk of aortic aneurysm or dissection has not been identified, but the available data suggest that use of fluoroquinolones may contribute in the short term to aneurysm progression.
+In patients with a known aortic aneurysm or patients who are at greater risk for aortic aneurysms, reserve ofloxacin, for use only when there are no alternative antibacterial treatments available.
 Ofloxacin has not been shown to be effective in the treatment of syphilis.
 Fluoroquinolones have been associated with disturbances of blood glucose, including symptomatic hyperglycemia and hypoglycemia, usually in diabetic patients receiving concomitant treatment with an oral hypoglycemic agent (e.g., glyburide) or with insulin.
 In these patients, careful monitoring of blood glucose is recommended.
@@ -103,7 +109,8 @@ Other Information Patients should be advised: • to drink fluids liberally. •
 They do not treat viral infections (e.g., the common cold).
 When ofloxacin tablets are prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by ofloxacin tablets or other antibacterial drugs in the future. • that if they are diabetic and are being treated with insulin or an oral hypoglycemic drug, to discontinue ofloxacin immediately if a hypoglycemic reaction occurs and consult a physician (see PRECAUTIONS, General and Drug Interactions); • that convulsions have been reported in patients taking quinolones, including ofloxacin, and to notify their physician before taking this drug if there is a history of this condition; • to inform their physician of any personal or family history of QTc prolongation or proarrhythmic conditions such as hypokalemia, bradycardia, or recent myocardial ischemia; if they are taking any class IA (quinidine, procainamide), or class III (amiodarone, sotalol) antiarrhythmic agents.
-Patients should notify their physicians if they have any symptoms of prolongation of the QTc interval including prolonged heart palpitations or a loss of consciousness.
+Patients should notify their physicians if they have any symptoms of prolongation of the QTc interval including prolonged heart palpitations or a loss of consciousness. • Inform patients who have or are at risk for an aortic aneurysm that fluoroquinolones, including ofloxacin, have been associated with a 2-fold increased risk of hospitalization for aortic aneurysm and dissection.
+Inform patients to seek emergency medical care if they experience sudden chest, stomach, or back pain.
 
 ## Drug Interactions
 
@@ -111,51 +118,33 @@ Antacids, Sucralfate, Metal Cations, Multivitamins Quinolones form chelates with
 Administration of quinolones with antacids containing calcium, magnesium, or aluminum, with sucralfate, with divalent or trivalent cations such as iron, or with multivitamins containing zinc or with didanosine, chewable/buffered tablets or the pediatric powder for oral solution may substantially interfere with the absorption of quinolones resulting in systemic levels considerably lower than desired.
 These agents should not be taken within the two-hour period before or within the two-hour period after ofloxacin administration (see DOSAGE AND ADMINISTRATION).
 
-Caffeine
+Caffeine Interactions between ofloxacin and caffeine have not been detected.
 
-Interactions between ofloxacin and caffeine have not been detected.
-
-Cimetidine
-
-Cimetidine has demonstrated interference with the elimination of some quinolones.
+Cimetidine Cimetidine has demonstrated interference with the elimination of some quinolones.
 This interference has resulted in significant increases in half-life and AUC of some quinolones.
 The potential for interaction between ofloxacin and cimetidine has not been studied.
 
-Cyclosporine
-
-Elevated serum levels of cyclosporine have been reported with concomitant use of cyclosporine with some other quinolones.
+Cyclosporine Elevated serum levels of cyclosporine have been reported with concomitant use of cyclosporine with some other quinolones.
 The potential for interaction between ofloxacin and cyclosporine has not been studied.
 
-Drugs Metabolized by Cytochrome P450 Enzymes
-
-Most quinolone antimicrobial drugs inhibit cytochrome P450 enzyme activity.
+Drugs Metabolized by Cytochrome P450 Enzymes Most quinolone antimicrobial drugs inhibit cytochrome P450 enzyme activity.
 This may result in a prolonged half-life for some drugs that are also metabolized by this system (e.g., cyclosporine, theophylline/methylxanthines, warfarin) when coadministered with quinolones.
 The extent of this inhibition varies among different quinolones (see other Drug Interactions).
 
-Non Steroidal Anti-Inflammatory Drugs
+Non Steroidal Anti-Inflammatory Drugs The concomitant administration of a non-steroidal anti-inflammatory drug with a quinolone, including ofloxacin, may increase the risk of CNS stimulation and convulsive seizures (see WARNINGS and PRECAUTIONS, General).
 
-The concomitant administration of a non-steroidal anti-inflammatory drug with a quinolone, including ofloxacin, may increase the risk of CNS stimulation and convulsive seizures (see WARNINGS and PRECAUTIONS, General).
-
-Probenecid
-
-The concomitant use of probenecid with certain other quinolones has been reported to affect renal tubular secretion.
+Probenecid The concomitant use of probenecid with certain other quinolones has been reported to affect renal tubular secretion.
 The effect of probenecid on the elimination of ofloxacin has not been studied.
 
-Theophylline
-
-Steady-state theophylline levels may increase when ofloxacin and theophylline are administered concurrently.
+Theophylline Steady-state theophylline levels may increase when ofloxacin and theophylline are administered concurrently.
 As with other quinolones, concomitant administration of ofloxacin may prolong the half-life of theophylline, elevate serum theophylline levels, and increase the risk of theophylline-related adverse reactions.
 Theophylline levels should be closely monitored and theophylline dosage adjustments made, if appropriate, when ofloxacin is coadministered.
 Adverse reactions (including seizures) may occur with or without an elevation in the serum theophylline level (see WARNINGS and PRECAUTIONS, General).
 
-Warfarin
-
-Some quinolones have been reported to enhance the effects of the oral anticoagulant warfarin or its derivatives.
+Warfarin Some quinolones have been reported to enhance the effects of the oral anticoagulant warfarin or its derivatives.
 Therefore, if a quinolone antimicrobial is administered concomitantly with warfarin or its derivatives, the prothrombin time or other suitable coagulation test should be closely monitored.
 
-Antidiabetic Agents (e.g., Insulin, Glyburide/Glibenclamide)
-
-Since disturbances of blood glucose, including hyperglycemia and hypoglycemia, have been reported in patients treated concurrently with quinolones and an antidiabetic agent, careful monitoring of blood glucose is recommended when these agents are used concomitantly (see PRECAUTIONS, General and Information for Patients).
+Antidiabetic Agents (e.g., Insulin, Glyburide/Glibenclamide) Since disturbances of blood glucose, including hyperglycemia and hypoglycemia, have been reported in patients treated concurrently with quinolones and an antidiabetic agent, careful monitoring of blood glucose is recommended when these agents are used concomitantly (see PRECAUTIONS, General and Information for Patients).
 
 ## Interaction With Laboratory or Diagnostic Testing
 
@@ -209,3 +198,5 @@ The clinical significance of such a comparison is not clear(see CLINICAL PHARMAC
 Elderly patients may be more sensitive to drug-associated effects on the QT interval.
 Therefore, precaution should be taken when using ofloxacin with concomitant drugs that can result in prolongation of the QT interval (e.g.
 Class IA or Class III antiarrhythmics) or in patients with risk factors for torsade de pointes (e.g. known QT prolongation, uncorrected hypokalemia)(See PRECAUTIONS, General, Torsade de pointes).
+Elderly patients are at greater risk for aortic aneurysm and dissection.
+A two-fold increased risk of aortic aneurysm and dissection has been reported following use of a fluoroquinolone, including ofloxacin [see Warnings].
