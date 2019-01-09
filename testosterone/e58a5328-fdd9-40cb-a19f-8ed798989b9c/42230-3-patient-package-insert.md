@@ -72,7 +72,7 @@ How should I use ANDRODERM?
 - ANDRODERM does not need to be removed during sex or while you take a shower or bath.
 - Strenuous exercise or excessive perspiration may loosen your ANDRODERM patch or cause it to fall off.
 - If your ANDRODERM patch becomes loose, smooth it down again by rubbing your finger firmly around the edges.
-  Do not tape ANDRODERM patches to your skin. • If your ANDRODERM patch falls off before noon, put on a new ANDRODERM patch and wear it until you put on a new ANDRODERM patch at your regular time. • If your ANDRODERM patch falls off after noon, do not put on a new one.
+  Do not tape ANDRODERM patches to your skin. ○ If your ANDRODERM patch falls off before noon, put on a new ANDRODERM patch and wear it until you put on a new ANDRODERM patch at your regular time. ○ If your ANDRODERM patch falls off after noon, do not put on a new one.
   Wait and apply your ANDRODERM patch at your regular time.
 - You should change your ANDRODERM patch every 24 hours.
   You should remove the old patch before applying the new one.
@@ -103,7 +103,7 @@ What are the possible side effects of ANDRODERM?
 ANDRODERM can cause serious side effects including:
 
 - If you already have an enlargement of your prostate gland your signs and symptoms may get worse while using ANDRODERM.
-  This can include: • increased urination at night • trouble starting your urine stream • having to pass urine many times during the day • having an urge that you have to go to the bathroom right away • having a urine accident • being unable to pass urine or weak urine flow
+  This can include: ○ increased urination at night ○ trouble starting your urine stream ○ having to pass urine many times during the day ○ having an urge that you have to go to the bathroom right away ○ having a urine accident ○ being unable to pass urine or weak urine flow
 - Possible increased risk of prostate cancer.
   Your healthcare provider should check you for prostate cancer or any other prostate problems before you start and while you use ANDRODERM.
 - Blood clots in the legs or lungs.

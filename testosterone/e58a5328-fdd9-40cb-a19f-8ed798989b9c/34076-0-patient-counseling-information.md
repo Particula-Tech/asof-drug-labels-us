@@ -5,10 +5,9 @@ See "FDA-approved patient labeling (Patient Information)."
 Patients should be informed of the following information:
 
 - Use in Men with Known or Suspected Prostate or Breast Cancer
+- Potential Adverse Reactions with Androgens
 
 Men with known or suspected prostate or breast cancer should not use ANDRODERM [see Contraindications (4) and Warnings and Precautions (5.1)].
-
-- Potential Adverse Reactions with Androgens
 
 Patients should be informed that treatment with androgens may lead to adverse reactions that include:
 
@@ -47,7 +46,5 @@ All rights reserved.
 ANDRODERM® is a registered trademark of Allergan Sales, LLC.
 
 Allergan® and its design are trademarks of Allergan, Inc.
-
-All trademarks are the property of their respective owners.
 
 v1.0USPI5990
