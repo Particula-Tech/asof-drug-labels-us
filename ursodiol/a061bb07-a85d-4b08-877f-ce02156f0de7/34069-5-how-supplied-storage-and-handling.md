@@ -1,7 +1,8 @@
 # HOW SUPPLIED
 
 Ursodiol Capsules USP, 300 mg are opaque white capsules imprinted WATSON on one half and 3159 on the other half of the capsule in black.
-Bottles of 100 are supplied with child-resistant closures.
+
+Bottles of 100 (NDC 0591-3159-01) are supplied with child-resistant closures.
 
 Store at 20-25°C (68-77°F).
 [See USP controlled room temperature.]
@@ -15,6 +16,6 @@ For all medical inquiries contact: ACTAVIS Medical Communications Parsippany, NJ
 
 Distributed By: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Content Updated: November 2014
+Revised: June 2018
 
-174784-2
+174784-3
