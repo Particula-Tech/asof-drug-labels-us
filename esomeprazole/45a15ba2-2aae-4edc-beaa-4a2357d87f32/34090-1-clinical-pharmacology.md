@@ -106,7 +106,7 @@ In patients with mild and moderate liver impairment, omeprazole clearance and st
 In patients with severe liver impairment, the omeprazole clearance was 50% of that in healthy volunteers and the steady state plasma concentration was double that in healthy volunteers.
 For adult patients with bleeding gastric or duodenal ulcers and liver impairment, no dosage adjustment of the initial esomeprazole 80 mg infusion is necessary.
 For adult patients with mild to moderate liver impairment (Child-Pugh Classes A and B), a maximum continuous infusion of esomeprazole 6 mg/h should not be exceeded.
-For adult patients with severe liver impairment (Child-Pugh Class C), a maximum continuous infusion of 4 mg/h should not be exceeded [see Dosage and Administration (2.2),Use in Specific Populations (8.6)].
+For adult patients with severe liver impairment (Child-Pugh Class C), a maximum continuous infusion of 4 mg/h should not be exceeded [see Dosage and Administration (2.2), Use in Specific Populations (8.6)].
 Renal Impairment The pharmacokinetics of esomeprazole in patients with renal impairment are not expected to be altered relative to healthy volunteers as less than 1% of esomeprazole is excreted unchanged in urine.
 
 ## 12.4 Microbiology
