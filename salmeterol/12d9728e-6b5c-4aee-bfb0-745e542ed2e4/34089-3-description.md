@@ -13,6 +13,6 @@ After the inhaler is activated, the powder is dispersed into the airstream creat
 
 Under standardized in vitro test conditions, SEREVENT DISKUS delivers 47 mcg of salmeterol base per blister when tested at a flow rate of 60 L/min for 2 seconds.
 
-In adult subjects with obstructive lung disease and severely compromised lung function (mean FEV1 20% to 30% of predicted), mean peak inspiratory flow (PIF) through a DISKUS® inhaler was 82.4 L/min (range: 46.1 to 115.3 L/min).
+In adult subjects with obstructive lung disease and severely compromised lung function (mean FEV1 20% to 30% of predicted), mean peak inspiratory flow (PIF) through the DISKUS inhaler was 82.4 L/min (range: 46.1 to 115.3 L/min).
 
 The actual amount of drug delivered to the lung will depend on patient factors, such as inspiratory flow profile.

@@ -4,10 +4,9 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide a
 
 Asthma-Related Death
 
-Inform patients that salmeterol increases the risk of asthma-related death and may increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
-Inform patients that SEREVENT DISKUS should not be the only therapy for the treatment of asthma and must only be used as additional therapy when long-term asthma control medications (e.g., inhaled corticosteroids) do not adequately control asthma symptoms.
-Also inform them that currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma-related death from LABA.
-Inform patients that when SEREVENT DISKUS is added to their treatment regimen they must continue to use their long-term asthma control medication.
+Inform patients that salmeterol when used alone increases the risk of asthma-related death and may increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
+Inform patients that SEREVENT DISKUS should not be the only therapy for the treatment of asthma and must only be used as additional therapy when ICS do not adequately control asthma symptoms.
+Inform patients that when SEREVENT DISKUS is added to their treatment regimen they must continue to use their ICS.
 
 Not for Acute Symptoms
 
@@ -25,7 +24,7 @@ Tell patients they should not stop therapy with SEREVENT DISKUS without physicia
 
 Not a Substitute for Corticosteroids
 
-Advise all patients with asthma that they must also continue regular maintenance treatment with an inhaled corticosteroid if they are taking SEREVENT DISKUS.
+Advise all patients with asthma that they must also continue regular maintenance treatment with an ICS if they are taking SEREVENT DISKUS.
 
 SEREVENT DISKUS should not be used as a substitute for oral or inhaled corticosteroids.
 The dosage of these medications should not be changed and they should not be stopped without consulting the physician, even if the patient feels better after initiating treatment with SEREVENT DISKUS.
@@ -49,13 +48,12 @@ Treatment of Exercise-Induced Bronchospasm
 Patients using SEREVENT DISKUS for the treatment of EIB should not use additional doses for 12 hours.
 Patients who are receiving SEREVENT DISKUS twice daily should not use additional SEREVENT for prevention of EIB.
 
-SEREVENT and DISKUS are registered trademarks of the GSK group of companies.
+Trademarks are owned by or licensed to the GSK group of companies.
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2016 the GSK group of companies.
-All rights reserved.
+©2018 GSK group of companies or its licensor.
 
-SRD:12PI
+SRD:13PI

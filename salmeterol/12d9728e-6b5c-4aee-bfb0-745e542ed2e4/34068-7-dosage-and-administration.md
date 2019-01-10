@@ -8,19 +8,18 @@ Patients using SEREVENT DISKUS should not use additional LABA for any reason.
 
 ## 2.1 Asthma
 
-LABA, such as salmeterol, the active ingredient in SEREVENT DISKUS, increase the risk of asthma-related death [see Warnings and Precautions (5.1)].
+LABA, such as salmeterol, the active ingredient in SEREVENT DISKUS, as monotherapy (without ICS) increase the risk of asthma-related death [see Warnings and Precautions (5.1)].
 
-Because of this risk, use of SEREVENT DISKUS for the treatment of asthma without concomitant use of a long-term asthma control medication, such as an inhaled corticosteroid is contraindicated.
-Use SEREVENT DISKUS only as additional therapy for patients with asthma who are currently taking but are inadequately controlled on a long-term asthma control medication, such as an inhaled corticosteroid.
-Once asthma control is achieved and maintained, assess the patient at regular intervals and step down therapy (e.g., discontinue SEREVENT DISKUS) if possible without loss of asthma control and maintain the patient on a long-term asthma control medication, such as an inhaled corticosteroid.
-Do not use SEREVENT DISKUS for patients whose asthma is adequately controlled on low- or medium-dose inhaled corticosteroids.
+Because of this risk, use of SEREVENT DISKUS for the treatment of asthma without concomitant use of an ICSis contraindicated.
+Use SEREVENT DISKUS only as additional therapy for patients with asthma who are currently taking but are inadequately controlled on an ICS.
+Do not use SEREVENT DISKUS for patients whose asthma is adequately controlled on low- or medium-dose ICS.
 
 Pediatric and Adolescent Patients
 
-Available data from controlled clinical trials suggest that LABA increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
-For patients with asthma younger than 18 years who require addition of a LABA to an inhaled corticosteroid, a fixed-dose combination product containing both an inhaled corticosteroid and a LABA should ordinarily be used to ensure adherence with both drugs.
-In cases where use of a separate long-term asthma control medication (e.g., inhaled corticosteroid) and a LABA is clinically indicated, appropriate steps must be taken to ensure adherence with both treatment components.
-If adherence cannot be assured, a fixed-dose combination product containing both an inhaled corticosteroid and a LABA is recommended.
+Available data from controlled clinical trials suggest that LABA as monotherapy increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
+For patients with asthma younger than 18 years who require addition of a LABA to an ICS, a fixed-dose combination product containing both an ICS and a LABA should ordinarily be used to ensure adherence with both drugs.
+In cases where use of a separate ICS and a LABA is clinically indicated, appropriate steps must be taken to ensure adherence with both treatment components.
+If adherence cannot be assured, a fixed-dose combination product containing both an ICS and a LABA is recommended.
 
 For bronchodilatation and prevention of symptoms of asthma, including the symptoms of nocturnal asthma, the usual dosage for adults and children aged 4 years and older is 1 inhalation (50 mcg) twice daily, approximately 12 hours apart.
 If a previously effective dosage regimen fails to provide the usual response, medical advice should be sought immediately as this is often a sign of destabilization of asthma.
@@ -30,7 +29,7 @@ If symptoms arise in the period between doses, an inhaled, short-acting beta2-ag
 ## 2.2 Exercise-Induced Bronchospasm
 
 Use of SEREVENT DISKUS as a single agent for the prevention of EIB may be clinically indicated in patients who do not have persistent asthma.
-In patients with persistent asthma, use of SEREVENT DISKUS for the prevention of EIB may be clinically indicated, but the treatment of asthma should include a long-term asthma control medication, such as an inhaled corticosteroid.
+In patients with persistent asthma, use of SEREVENT DISKUS for the prevention of EIB may be clinically indicated, but the treatment of asthma should include an ICS.
 One inhalation of SEREVENT DISKUS at least 30 minutes before exercise has been shown to protect patients against EIB.
 When used intermittently as needed for prevention of EIB, this protection may last up to 9 hours in adults and adolescents and up to 12 hours in patients aged 4 to 11 years.
 Additional doses of SEREVENT should not be used for 12 hours after the administration of this drug.

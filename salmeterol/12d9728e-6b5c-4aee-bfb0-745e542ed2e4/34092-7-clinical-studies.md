@@ -2,12 +2,12 @@
 
 ## 14.1 Asthma
 
-The initial trials supporting the approval of SEREVENT DISKUS for the treatment of asthma did not require the regular use of inhaled corticosteroids.
-However, for the treatment of asthma, SEREVENT DISKUS is currently indicated only as concomitant therapy with an inhaled corticosteroid [see Indications and Usage (1.1)].
+The initial trials supporting the approval of SEREVENT DISKUS for the treatment of asthma did not require the regular use of ICS.
+However, for the treatment of asthma, SEREVENT DISKUS is currently indicated only as concomitant therapy with an ICS [see Indications and Usage (1.1)].
 
 Adult and Adolescent Subjects Aged 12 Years and Older
 
-In 2 randomized double-blind trials, SEREVENT DISKUS was compared with albuterol inhalation aerosol and placebo in adolescent and adult subjects with mild-to-moderate asthma (protocol defined as 50% to 80% predicted FEV1, actual mean of 67.7% at baseline), including subjects who did and who did not receive concurrent inhaled corticosteroids.
+In 2 randomized double-blind trials, SEREVENT DISKUS was compared with albuterol inhalation aerosol and placebo in adolescent and adult subjects with mild-to-moderate asthma (protocol defined as 50% to 80% predicted FEV1, actual mean of 67.7% at baseline), including subjects who did and who did not receive concurrent ICS.
 The efficacy of SEREVENT DISKUS was demonstrated over the 12-week period with no change in effectiveness over this time period (Figure 1).
 There were no gender- or age-related differences in safety or efficacy.
 No development of tachyphylaxis to the bronchodilator effect was noted in these trials.
@@ -50,10 +50,10 @@ While no statistically significant differences were observed between the active 
 Similar findings were noted in 2 randomized, single-dose, crossover comparisons of SEREVENT DISKUS and SEREVENT Inhalation Aerosol for the prevention of EIB.
 Therefore, while SEREVENT DISKUS was comparable to SEREVENT Inhalation Aerosol in clinical trials in mild-to-moderate subjects with asthma, it should not be assumed that they will produce clinically equivalent outcomes in all subjects.
 
-Subjects on Concomitant Inhaled Corticosteroids: In 4 clinical trials in adult and adolescent subjects with asthma (N = 1,922), the effect of adding SEREVENT Inhalation Aerosol to inhaled corticosteroid therapy was evaluated over a 24-week treatment period.
-The trials compared the addition of salmeterol therapy to an increase (at least doubling) of the inhaled corticosteroid dose.
+Subjects on Concomitant Inhaled Corticosteroids: In 4 clinical trials in adult and adolescent subjects with asthma (N = 1,922), the effect of adding SEREVENT Inhalation Aerosol to ICS therapy was evaluated over a 24-week treatment period.
+The trials compared the addition of salmeterol therapy to an increase (at least doubling) of the ICS dose.
 
-Two randomized, double-blind, controlled, parallel-group clinical trials (N = 997) enrolled subjects (aged 18 to 82 years) with persistent asthma who were previously maintained but not adequately controlled on inhaled corticosteroid therapy.
+Two randomized, double-blind, controlled, parallel-group clinical trials (N = 997) enrolled subjects (aged 18 to 82 years) with persistent asthma who were previously maintained but not adequately controlled on ICS therapy.
 During the 2-week run-in period, all subjects were switched to beclomethasone dipropionate (BDP) 168 mcg twice daily.
 Subjects still not adequately controlled were randomized to either the addition of SEREVENT Inhalation Aerosol 42 mcg twice daily or an increase of BDP to 336 mcg twice daily.
 As compared with the doubled dose of BDP, the addition of SEREVENT Inhalation Aerosol resulted in statistically significantly greater improvements in pulmonary function and asthma symptoms, and statistically significantly greater reduction in supplemental albuterol use.
@@ -74,9 +74,9 @@ Maximum improvement in FEV1 generally occurred within 180 minutes, and clinicall
 
 Pediatric Subjects
 
-In a randomized, double-blind, controlled trial (N = 449), 50 mcg of SEREVENT DISKUS was administered twice daily to pediatric subjects with asthma who did and who did not receive concurrent inhaled corticosteroids.
+In a randomized, double-blind, controlled trial (N = 449), 50 mcg of SEREVENT DISKUS was administered twice daily to pediatric subjects with asthma who did and who did not receive concurrent ICS.
 The efficacy of salmeterol inhalation powder was demonstrated over the 12-week treatment period with respect to periodic serial PEF (36% to 39% postdose increase from baseline) and FEV1 (32% to 33% postdose increase from baseline).
-Salmeterol was effective in demographic subgroup analyses (gender and age) and was effective when coadministered with other inhaled asthma medications such as short-acting bronchodilators and inhaled corticosteroids.
+Salmeterol was effective in demographic subgroup analyses (gender and age) and was effective when coadministered with other inhaled asthma medications such as short-acting bronchodilators and ICS.
 A second randomized, double-blind, placebo-controlled trial (N = 207) with 50 mcg of salmeterol inhalation powder via an alternate device supported the findings of the trial with the DISKUS.
 
 Salmeterol Multicenter Asthma Research Trial
@@ -87,17 +87,17 @@ A planned interim analysis was conducted when approximately half of the intended
 The results of the interim analysis showed that subjects receiving salmeterol were at increased risk for fatal asthma events (Table 5 and Figure 2).
 In the total population, a higher rate of asthma-related death occurred in subjects treated with salmeterol than those treated with placebo (0.10% versus 0.02%, relative risk: 4.37 [95% CI: 1.25, 15.34]).
 
-Post-hoc subpopulation analyses were performed.
+Post hoc subpopulation analyses were performed.
 In Caucasians, asthma-related death occurred at a higher rate in subjects treated with salmeterol than in subjects treated with placebo (0.07% versus 0.01%, relative risk: 5.82 [95% CI: 0.70, 48.37]).
 In African Americans also, asthma-related death occurred at a higher rate in subjects treated with salmeterol than those treated with placebo (0.31% versus 0.04%, relative risk: 7.26 [95% CI: 0.89, 58.94]).
 Although the relative risks of asthma-related death were similar in Caucasians and African Americans, the estimate of excess deaths in subjects treated with salmeterol was greater in African Americans because there was a higher overall rate of asthma-related death in African American subjects (Table 5).
 
-Post-hoc analyses in pediatric subjects aged 12 to 18 years were also performed.
+Post hoc analyses in pediatric subjects aged 12 to 18 years were also performed.
 Pediatric subjects accounted for approximately 12% of subjects in each treatment arm.
 Respiratory-related death or life-threatening experience occurred at a similar rate in the salmeterol group (0.12% [2/1,653]) and the placebo group (0.12% [2/1,622]; relative risk: 1.0 [95% CI: 0.1, 7.2]).
 All-cause hospitalization, however, was increased in the salmeterol group (2% [35/1,653]) versus the placebo group (less than 1% [16/1,622]; relative risk: 2.1 [95% CI: 1.1, 3.7]).
 
-The data from the SMART trial are not adequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control therapy mitigates the risk of asthma-related death.
+The data from the SMART trial were not adequate to determine whether concurrent use of ICS or other long-term asthma control therapy mitigated the risk of asthma-related death.
 
 Table 5: Asthma-Related Deaths in the 28-Week Salmeterol Multicenter Asthma Research Trial (SMART)
 

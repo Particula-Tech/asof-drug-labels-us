@@ -78,9 +78,9 @@ In 2 healthy adult subjects who received 1 mg of radiolabeled salmeterol (as sal
 The terminal elimination half-life was about 5.5 hours (1 volunteer only).
 
 The xinafoate moiety has no apparent pharmacologic activity.
-The xinafoate moiety is highly protein bound (greater than 99%) and has a long elimination half-life of 11 days.
+The xinafoate moiety is highly protein bound (>99%) and has a long elimination half-life of 11 days.
 
-Drug Interactions
+Drug Interaction Studies
 
 Inhibitors of Cytochrome P450 3A4: Ketoconazole: In a placebo-controlled crossover drug interaction trial in 20 healthy male and female subjects, coadministration of salmeterol (50 mcg twice daily) and the strong CYP3A4 inhibitor ketoconazole (400 mg once daily) for 7 days resulted in a significant increase in plasma salmeterol exposure as determined by a 16-fold increase in AUC (ratio with and without ketoconazole 15.76 [90% CI: 10.66, 23.31]) mainly due to increased bioavailability of the swallowed portion of the dose.
 Peak plasma salmeterol concentrations were increased by 1.4-fold (90% CI: 1.23, 1.68).
@@ -88,4 +88,4 @@ Three (3) out of 20 subjects (15%) were withdrawn from salmeterol and ketoconazo
 Coadministration of salmeterol and ketoconazole did not result in a clinically significant effect on mean heart rate, mean blood potassium, or mean blood glucose.
 Although there was no statistical effect on the mean QTc, coadministration of salmeterol and ketoconazole was associated with more frequent increases in QTc duration compared with salmeterol and placebo administration.
 
-Erythromycin: In a repeat-dose trial in 13 healthy subjects, concomitant administration of erythromycin (a moderate CYP3A4 inhibitor) and salmeterol inhalation aerosol resulted in a 40% increase in salmeterol Cmax at steady state (ratio with and without erythromycin 1.4 [90% CI: 0.96, 2.03], P = 0.12), a 3.6-beat/min increase in heart rate ([95% CI: 0.19, 7.03], P <0.04), a 5.8-msec increase in QTc interval ([95% CI: -6.14, 17.77], P = 0.34), and no change in plasma potassium.
+Erythromycin: In a repeat-dose trial in 13 healthy subjects, concomitant administration of erythromycin (a moderate CYP3A4 inhibitor) and salmeterol inhalation aerosol resulted in a 40% increase in salmeterol Cmax at steady state (ratio with and without erythromycin 1.4 [90% CI: 0.96, 2.03], P = 0.12), a 3.6-beat/min increase in heart rate ([95% CI: 0.19, 7.03], P<0.04), a 5.8-msec increase in QTc interval ([95% CI: -6.14, 17.77], P = 0.34), and no change in plasma potassium.

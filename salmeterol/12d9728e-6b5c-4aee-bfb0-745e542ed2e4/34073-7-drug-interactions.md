@@ -15,7 +15,7 @@ SEREVENT DISKUS should be administered with extreme caution to patients being tr
 
 ## 7.3 Beta-adrenergic Receptor Blocking Agents
 
-Beta-blockers not only block the pulmonary effect of beta-agonists, such as SEREVENT DISKUS, but may also produce severe bronchospasm in patients with asthma or COPD.
+Beta-blockers not only block the pulmonary effect of beta-agonists, such as salmeterol, but may also produce severe bronchospasm in patients with asthma or COPD.
 Therefore, patients with asthma or COPD should not normally be treated with beta-blockers.
 However, under certain circumstances, there may be no acceptable alternatives to the use of beta-adrenergic blocking agents for these patients; cardioselective beta-blockers could be considered, although they should be administered with caution.
 

@@ -1,8 +1,8 @@
 # 6 ADVERSE REACTIONS
 
-LABA, including salmeterol, the active ingredient in SEREVENT DISKUS, increase the risk of asthma-related death.
+LABA, including salmeterol, the active ingredient in SEREVENT DISKUS, as monotherapy (without ICS)increase the risk of asthma-related death.
 Data from a large 28-week placebo-controlled U.S. trial that compared the safety of salmeterol or placebo added to usual asthma therapy showed an increase in asthma-related deaths in subjects receiving salmeterol.
-Available data from controlled clinical trials suggest that LABA increase the risk of asthma-related hospitalization in pediatric and adolescent patients [see Warnings and Precautions (5.1), Clinical Studies (14.1)].
+Available data from controlled clinical trials suggest that LABA as monotherapyincrease the risk of asthma-related hospitalization in pediatric and adolescent patients [see Warnings and Precautions (5.1), Clinical Studies (14.1)].
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -14,7 +14,7 @@ Two multicenter, 12-week, placebo-controlled clinical trials evaluated twice-dai
 Table 1 reports the incidence of adverse reactions in these 2 trials.
 
 Table 1.
-Adverse Reactions with SEREVENT DISKUS with ≥3% Incidence and More Common than Placebo in Adult and Adolescent Subjects with Asthma
+Adverse Reactions with SEREVENT DISKUS with ≥3% Incidence and More Common than Placebo in Adult and Adolescent Subjects with Asthmaa
 
 | Adverse Event | Percent of Subjects |  |  |
 | --- | --- | --- | --- |
@@ -29,9 +29,9 @@ Adverse Reactions with SEREVENT DISKUS with ≥3% Incidence and More Common than
 | Tracheitis/bronchitis | 7 | 3 | 4 |
 | Influenza | 5 | 5 | 2 |
 
-Table 1 includes all events (whether considered drug-related or nondrug-related by the investigator) that occurred at a rate of greater than or equal to 3% in the group treated with SEREVENT DISKUS and were more common than in the placebo group.
+1. a Table 1 includes all events (whether considered drug-related or nondrug-related by the investigator) that occurred at a rate of ≥3% in the group receiving SEREVENT DISKUS and were more common than in the placebo group.
 
-Pharyngitis, sinusitis, upper respiratory tract infection, and cough occurred at greater than or equal to 3% but were more common in the placebo group.
+Pharyngitis, sinusitis, upper respiratory tract infection, and cough occurred at ≥3% but were more common in the placebo group.
 However, throat irritation has been described at rates exceeding that of placebo in other controlled clinical trials.
 
 Additional Adverse Reactions: Other adverse reactions not previously listed, whether considered drug-related or not by the investigators, that were reported more frequently by subjects with asthma treated with SEREVENT DISKUS compared with subjects treated with placebo include the following: contact dermatitis, eczema, localized aches and pains, nausea, oral mucosal abnormality, pain in joint, paresthesia, pyrexia of unknown origin, sinus headache, and sleep disturbance.
@@ -39,7 +39,7 @@ Additional Adverse Reactions: Other adverse reactions not previously listed, whe
 Pediatric Subjects Aged 4 to 11 Years
 
 Two multicenter, 12-week, controlled trials have evaluated twice-daily doses of SEREVENT DISKUS in subjects aged 4 to 11 years with asthma.
-Table 2 includes all events (whether considered drug-related or nondrug-related by the investigator) that occurred at a rate of greater than or equal to 3% in the group receiving SEREVENT DISKUS and were more common than in the placebo group.
+Table 2 includes all events (whether considered drug-related or nondrug-related by the investigator) that occurred at a rate of ≥3% in the group receiving SEREVENT DISKUS and were more common than in the placebo group.
 
 Table 2.
 Adverse Reaction Incidence in Two 12-Week Pediatric Clinical Trials in Subjects with Asthma
@@ -58,13 +58,13 @@ Adverse Reaction Incidence in Two 12-Week Pediatric Clinical Trials in Subjects 
 | Skin rashes | 4 | 2 | 3 |
 | Urticaria | 3 | 2 | 0 |
 
-The following events were reported at an incidence of greater than 1% in the salmeterol group and with a higher incidence than in the albuterol and placebo groups: gastrointestinal signs and symptoms, lower respiratory signs and symptoms, photodermatitis, and arthralgia and articular rheumatism.
+The following events were reported at an incidence of >1% in the salmeterol group and with a higher incidence than in the albuterol and placebo groups: gastrointestinal signs and symptoms, lower respiratory signs and symptoms, photodermatitis, and arthralgia and articular rheumatism.
 
-In clinical trials evaluating concurrent therapy of salmeterol with inhaled corticosteroids, adverse events were consistent with those previously reported for salmeterol, or with events that would be expected with the use of inhaled corticosteroids.
+In clinical trials evaluating concurrent therapy of salmeterol with ICS, adverse events were consistent with those previously reported for salmeterol, or with events that would be expected with the use of ICS.
 
 Laboratory Test Abnormalities
 
-Elevation of hepatic enzymes was reported in greater than or equal to 1% of subjects in clinical trials.
+Elevation of hepatic enzymes was reported in ≥1% of subjects in clinical trials.
 The elevations were transient and did not lead to discontinuation from the trials.
 In addition, there were no clinically relevant changes noted in glucose or potassium.
 
@@ -100,11 +100,11 @@ Adverse Reactions with SEREVENT DISKUS with ≥3% Incidence in U.S. Controlled C
 | Dizziness | 4 | 2 |
 | Average duration of exposure (days) | 138.5 | 128.9 |
 
-aTable 3 includes all events (whether considered drug-related or nondrug-related by the investigator) that occurred at a rate of greater than or equal to 3% in the group receiving SEREVENT DISKUS and were more common in the group receiving SEREVENT DISKUS than in the placebo group.
+aTable 3 includes all events (whether considered drug-related or nondrug-related by the investigator) that occurred at a rate of ≥3% in the group receiving SEREVENT DISKUS and were more common than in the placebo group.
 
 Additional Adverse Reactions
 
-Other adverse reactions occurring in the group receiving SEREVENT DISKUS that occurred at a frequency of greater than or equal to 1% and were more common than in the placebo group were as follows: anxiety; arthralgia and articular rheumatism; bone and skeletal pain; candidiasis mouth/throat; dental discomfort and pain; dyspeptic symptoms; edema and swelling; gastrointestinal infections; hyperglycemia; hyposalivation; keratitis and conjunctivitis; lower respiratory signs and symptoms; migraines; muscle pain; muscle stiffness, tightness, and rigidity; musculoskeletal inflammation; pain; and skin rashes.
+Other adverse reactions occurring in the group receiving SEREVENT DISKUS that occurred at a frequency of ≥1% and were more common than in the placebo group were as follows: anxiety; arthralgia and articular rheumatism; bone and skeletal pain; candidiasis mouth/throat; dental discomfort and pain; dyspeptic symptoms; edema and swelling; gastrointestinal infections; hyperglycemia; hyposalivation; keratitis and conjunctivitis; lower respiratory signs and symptoms; migraines; muscle pain; muscle stiffness, tightness, and rigidity; musculoskeletal inflammation; pain; and skin rashes.
 
 Adverse reactions to salmeterol are similar in nature to those seen with other selective beta2-adrenoceptor agonists, e.g., tachycardia; palpitations; immediate hypersensitivity reactions, including urticaria, angioedema, rash, bronchospasm; headache; tremor; nervousness; and paradoxical bronchospasm.
 

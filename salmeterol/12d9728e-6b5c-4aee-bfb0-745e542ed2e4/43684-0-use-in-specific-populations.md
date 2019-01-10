@@ -31,8 +31,8 @@ Since there are no data from controlled trials on the use of SEREVENT DISKUS by 
 
 ## 8.4 Pediatric Use
 
-Available data from controlled clinical trials suggest that LABA increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
-For pediatric and adolescent patients with asthma who require addition of a LABA to an inhaled corticosteroid, a fixed-dose combination product containing both an inhaled corticosteroid and a LABA should ordinarily be used to ensure adherence with both drugs [see Indications and Usage (1.1), Warnings and Precautions (5.1)].
+Available data from controlled clinical trials suggest that LABA used as monotherapy increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
+For pediatric and adolescent patients with asthma who require addition of a LABA to an ICS, a fixed-dose combination product containing both an ICS and a LABA should ordinarily be used to ensure adherence with both drugs [see Indications and Usage (1.1), Warnings and Precautions (5.1)].
 
 The safety and efficacy of SEREVENT DISKUS in adolescents (aged 12 years and older) have been established based on adequate and well-controlled trials conducted in adults and adolescents [see Clinical Studies (14.1)].
 A large 28-week placebo-controlled U.S. trial comparing salmeterol (SEREVENT Inhalation Aerosol) and placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in subjects receiving salmeterol [see Clinical Studies (14.1)].
@@ -44,7 +44,7 @@ All-cause hospitalization, however, was increased in the salmeterol group (2% [3
 The safety and efficacy of SEREVENT DISKUS have been evaluated in over 2,500 subjects aged 4 to 11 years with asthma, 346 of whom were administered SEREVENT DISKUS for 1 year.
 Based on available data, no adjustment of dosage of SEREVENT DISKUS in pediatric patients is warranted for either asthma or EIB.
 
-In 2 randomized, double-blind, controlled clinical trials of 12 weeks’ duration, SEREVENT DISKUS 50 mcg was administered to 211 pediatric subjects with asthma who did and who did not receive concurrent inhaled corticosteroids.
+In 2 randomized, double-blind, controlled clinical trials of 12 weeks’ duration, SEREVENT DISKUS 50 mcg was administered to 211 pediatric subjects with asthma who did and who did not receive concurrent ICS.
 The efficacy of SEREVENT DISKUS was demonstrated over the 12-week treatment period with respect to peak expiratory flow (PEF) and forced expiratory volume in 1 second (FEV1).
 SEREVENT DISKUS was effective in demographic subgroups (gender and age) of the population.
 
@@ -54,8 +54,8 @@ In 2 randomized trials in children aged 4 to 11 years with asthma and EIB, a sin
 
 Of the total number of adult and adolescent subjects with asthma who received SEREVENT DISKUS in chronic dosing clinical trials, 209 were aged 65 years and older.
 Of the total number of subjects with COPD who received SEREVENT DISKUS in chronic dosing clinical trials, 167 were aged 65 years and older and 45 were aged 75 years and older.
-No apparent differences in the safety of Serevent DISKUS were observed when geriatric subjects were compared with younger subjects in clinical trials.
-As with other beta2-agonists, however, special caution should be observed when using Serevent DISKUS in geriatric patients who have concomitant cardiovascular disease that could be adversely affected by beta-agonists.
+No apparent differences in the safety of SEREVENT DISKUS were observed when geriatric subjects were compared with younger subjects in clinical trials.
+As with other beta2-agonists, however, special caution should be observed when using SEREVENT DISKUS in geriatric patients who have concomitant cardiovascular disease that could be adversely affected by beta-agonists.
 Data from the trials in subjects with COPD suggested a greater effect on FEV1 of SEREVENT DISKUS in subjects younger than 65 years, as compared with subjects aged 65 years and older.
 However, based on available data, no adjustment of dosage of SEREVENT DISKUS in geriatric patients is warranted.
 

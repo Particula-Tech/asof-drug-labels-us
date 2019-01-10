@@ -2,29 +2,28 @@
 
 ## 5.1 Asthma-Related Death
 
-LABA, such as salmeterol, the active ingredient in SEREVENT DISKUS, increase the risk of asthma-related death.
-Currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma-related death from LABA.
+LABA, such as salmeterol, the active ingredient in SEREVENT DISKUS, as monotherapy (without ICS)increase the risk of asthma-related death.
+When LABA are used in fixed‑dose combination with ICS, data from large clinical trials do not show a significant increase in the risk of serious asthma-related events (hospitalizations, intubations, death) compared with ICS alone.
 
-Because of this risk, use of SEREVENT DISKUS for the treatment of asthma without concomitant use of a long-term asthma control medication, such as an inhaled corticosteroid, is contraindicated.
-Use SEREVENT DISKUS only as additional therapy for patients with asthma who are currently taking but are inadequately controlled on a long-term asthma control medication, such as an inhaled corticosteroid.
-Once asthma control is achieved and maintained, assess the patient at regular intervals and step down therapy (e.g., discontinue SEREVENT DISKUS) if possible without loss of asthma control and maintain the patient on a long-term asthma control medication, such as an inhaled corticosteroid.
-Do not use SEREVENT DISKUS for patients whose asthma is adequately controlled on low- or medium-dose inhaled corticosteroids.
+Use of SEREVENT DISKUS for the treatment of asthma without concomitant use of an ICS is contraindicated.
+Use SEREVENT DISKUS only as additional therapy for patients with asthma who are currently taking but are inadequately controlled on an ICS.
+Do not use SEREVENT DISKUS for patients whose asthma is adequately controlled on low- or medium-dose ICS.
 
 Pediatric and Adolescent Patients
 
-Available data from controlled clinical trials suggest that LABA increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
-For pediatric and adolescent patients with asthma who require addition of a LABA to an inhaled corticosteroid, a fixed-dose combination product containing both an inhaled corticosteroid and a LABA should ordinarily be used to ensure adherence with both drugs.
-In cases where use of a separate long-term asthma control medication (e.g., inhaled corticosteroid) and a LABA is clinically indicated, appropriate steps must be taken to ensure adherence with both treatment components.
-If adherence cannot be assured, a fixed-dose combination product containing both an inhaled corticosteroid and a LABA is recommended.
+Available data from controlled clinical trials suggest that LABA as monotherapyincrease the risk of asthma-related hospitalization in pediatric and adolescent patients.
+For pediatric and adolescent patients with asthma who require addition of a LABA to an ICS, a fixed-dose combination product containing both an ICS and a LABA should ordinarily be used to ensure adherence with both drugs.
+In cases where use of a separate ICS and a LABA is clinically indicated, appropriate steps must be taken to ensure adherence with both treatment components.
+If adherence cannot be assured, a fixed-dose combination product containing both an ICS and a LABA is recommended.
 
-The Salmeterol Multicenter Asthma Research Trial (SMART) was a large 28-week placebo-controlled U.S. trial comparing the safety of salmeterol (SEREVENT® Inhalation Aerosol) with placebo, each added to usual asthma therapy, that showed an increase in asthma-related deaths in subjects receiving salmeterol [see Clinical Studies (14.1)].
+The Salmeterol Multicenter Asthma Research Trial (SMART) was a large 28-week placebo-controlled U.S. trial comparing the safety of salmeterol (SEREVENT Inhalation Aerosol) with placebo, each added to usual asthma therapy, that showed an increase in asthma-related deaths in subjects receiving salmeterol [see Clinical Studies (14.1)].
 Given the similar basic mechanisms of action of beta2-agonists, the findings seen in the SMART trial are considered a class effect.
 
 A 16-week clinical trial performed in the United Kingdom, the Salmeterol Nationwide Surveillance (SNS) trial, showed results similar to the SMART trial.
 In the SNS trial, the rate of asthma-related death was numerically, though not statistically significantly, greater in subjects with asthma treated with salmeterol (42 mcg twice daily) than those treated with albuterol (180 mcg 4 times daily) added to usual asthma therapy.
 
 The SNS and SMART trials enrolled subjects with asthma.
-No trials have been conducted that were primarily designed to determine whether the rate of death in patients with COPD is increased by LABA.
+Available data do not suggest an increased risk of death with use of LABA in patients with COPD.
 
 ## 5.2 Deterioration of Disease and Acute Episodes
 
@@ -38,7 +37,7 @@ However, these events have occurred in a few patients with less severe asthma as
 It was not possible from these reports to determine whether salmeterol contributed to these events.
 
 Increasing use of inhaled, short-acting beta2-agonists is a marker of deteriorating asthma.
-In this situation, the patient requires immediate reevaluation with reassessment of the treatment regimen, giving special consideration to the possible need for adding additional inhaled corticosteroid or initiating systemic corticosteroids.
+In this situation, the patient requires immediate reevaluation with reassessment of the treatment regimen, giving special consideration to the possible need for adding additional ICS or initiating systemic corticosteroids.
 Patients should not use more than 1 inhalation twice daily of SEREVENT DISKUS.
 
 SEREVENT DISKUS should not be used for the relief of acute symptoms, i.e., as rescue therapy for the treatment of acute episodes of bronchospasm.
@@ -50,7 +49,7 @@ When beginning treatment with SEREVENT DISKUS, patients who have been taking ora
 ## 5.3 SEREVENT DISKUS is Not a Substitute for Corticosteroids
 
 There are no data demonstrating that SEREVENT DISKUS has a clinical anti-inflammatory effect such as that associated with corticosteroids.
-When initiating and throughout treatment with SEREVENT DISKUS in patients receiving oral or inhaled corticosteroids for treatment of asthma, patients must continue taking a suitable dosage of corticosteroids to maintain clinical stability even if they feel better as a result of initiating SEREVENT DISKUS.
+When initiating and throughout treatment with SEREVENT DISKUS in patients receiving oral or ICS for treatment of asthma, patients must continue taking a suitable dosage of corticosteroids to maintain clinical stability even if they feel better as a result of initiating SEREVENT DISKUS.
 Any change in corticosteroid dosage should be made ONLY after clinical evaluation.
 
 ## 5.4 Excessive Use of SEREVENT DISKUS and Use with Other Long-acting Beta2-agonists
