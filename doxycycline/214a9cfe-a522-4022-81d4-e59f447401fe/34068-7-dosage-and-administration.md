@@ -28,13 +28,13 @@ The absorption of doxycycline is not markedly influenced by simultaneous ingesti
 
 Studies to date have indicated that administration of doxycycline at the usual recommended doses does not lead to excessive accumulation of doxycycline in patients with renal impairment.
 
-Uncomplicated gonococcal infections in adults (except anorectal infections in men): 100 mg, by mouth twice a day for 7 days.
+Uncomplicated gonococcal infections in adults (except anorectal infections in men): 100 mg, by mouth, twice a day for 7 days.
 As an alternate single visit dose, administer 300 mg stat followed in one hour by a second 300 mg dose.
 The dose may be administered with food, including milk or carbonated beverage, as required.
 
-Uncomplicated urethral, endocervical, or rectal infection in adults caused by Chlamydia trachomatis: 100 mg by mouth, twice a day for 7 days.
+Uncomplicated urethral, endocervical, or rectal infection in adults caused by Chlamydia trachomatis: 100 mg, by mouth, twice a day for 7 days.
 
-Nongonococcal urethritis (NGU) caused by C. trachomatis or U. urealyticum: 100 mg, by mouth, twice a day for 7 days.
+Nongonococcal urethritis (NGU) caused by C. trachomatis or U. urealyticum: 100 mg, by mouth twice a day for 7 days.
 
 Syphilis – early: Patients who are allergic to penicillin should be treated with doxycycline 100 mg, by mouth, twice a day for 2 weeks.
 
@@ -51,6 +51,6 @@ Prophylaxis should be continued daily during travel in the malarious area and fo
 
 Inhalational anthrax (post-exposure):
 
-- •ADULTS: 100 mg of doxycycline, by mouth, twice a day for 60 days.
-- •CHILDREN: weighing less than 45 kg; 2.2 mg/kg of body weight by mouth, twice a day for 60 days.
-  Children weighing 45 kg or more should receive the adult dose.
+1. ADULTS: 100 mg of doxycycline, by mouth, twice a day for 60 days.
+2. CHILDREN: weighing less than 45 kg; 2.2 mg/kg of body weight by mouth, twice a day for 60 days.
+   Children weighing 45 kg or more should receive the adult dose.
