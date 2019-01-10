@@ -43,7 +43,7 @@ This indication is based on a surrogate endpoint.
 Levofloxacin plasma concentrations achieved in humans are reasonably likely to predict clinical benefit [see Clinical Studies (14.9)].
 
 ß The safety of levofloxacin tablets in adults for durations of therapy beyond 28 days or in pediatric patients for durations beyond 14 days has not been studied.
-An increased incidence of musculoskeletal adverse events compared to controls has been observed in pediatric patients [see Warnings and Precautions (5.10), Use in Specific Populations (8.4), and Clinical Studies (14.9)].
+An increased incidence of musculoskeletal adverse events compared to controls has been observed in pediatric patients [see Warnings and Precautions (5.11), Use in Specific Populations (8.4), and Clinical Studies (14.9)].
 Prolonged levofloxacin tablets therapy should only be used when the benefit outweighs the risk.
 
 à Drug administration should begin as soon as possible after suspected or confirmed exposure to Yersinia pestis.
@@ -73,7 +73,7 @@ Table 2: Levofloxacin Tablets Dosage in Pediatric Patients Weighing 30 kg or gre
 ‡ Begin levofloxacin tablets as soon as possible after suspected or confirmed exposure to aerosolized B. anthracis.
 
 § The safety of levofloxacin tablets in pediatric patients for durations of therapy beyond 14 days has not been studied.
-[see Warnings and Precautions (5.10), Use in Specific Populations (8.4), and Clinical Studies (14.9)].
+[see Warnings and Precautions (5.11), Use in Specific Populations (8.4), and Clinical Studies (14.9)].
 Begin levofloxacin tablets as soon as possible after suspected or confirmed exposure to Yersinia pestis.
 
 ## 2.3 Dosage Adjustment in Adults with Renal Impairment

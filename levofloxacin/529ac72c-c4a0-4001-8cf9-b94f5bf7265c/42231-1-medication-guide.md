@@ -240,6 +240,12 @@ Skin rash may be a sign of a more serious reaction to levofloxacin tablets.
 Stop taking levofloxacin tablets and tell your healthcare provider right away if you have yellowing of your skin or white part of your eyes, or if you have dark urine.
 These can be signs of a serious reaction to levofloxacin tablets (a liver problem).
 
+- Aortic aneurysm and dissection
+
+People who take fluoroquinolone medicines, including levofloxacin tablets, have an increased risk of swelling of the large artery that carries blood from the heart to the body (aortic aneurysm) and tearing (dissection) of this artery.
+Tell your healthcare provider if you have ever been told that you have an aortic aneurysm.
+Get emergency medical help right away if you have sudden chest, stomach, or back pain.
+
 - Intestine infection (Pseudomembranous colitis)
 
 Pseudomembranous colitis can happen with many antibiotics, including levofloxacin tablets.
@@ -252,12 +258,12 @@ Pseudomembranous colitis can happen 2 or more months after you have finished you
 Tell your healthcare provider right away if you have a change in your heart beat (a fast or irregular heartbeat), or if you faint.
 Levofloxacin tablets may cause a rare heart problem known as prolongation of the QT interval.
 This condition can cause an abnormal heartbeat and can be very dangerous.
-The chances of this happening are higher in people:who are elderly
+The chances of this happening are higher in people:
 
-- 
-  - with a family history of prolonged QT interval
-  - with low blood potassium (hypokalemia)
-  - who take certain medicines to control heart rhythm (antiarrhythmics)
+- who are elderly
+- with a family history of prolonged QT interval
+- with low blood potassium (hypokalemia)
+- who take certain medicines to control heart rhythm (antiarrhythmics)
 
 - Joint Problems
 
@@ -309,7 +315,6 @@ You can ask your healthcare provider or pharmacist for information about levoflo
 For more information, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
 What are the ingredients in levofloxacin tablets?
 Active ingredient: levofloxacin Inactive ingredients: croscarmellose sodium, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol 400, polysorbate 80, and titanium dioxide.
-In addition 250 mg contains iron oxide red and 500 mg contains iron oxide red and iron oxide yellow.
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
+In addition 250 mg contains iron oxide red and 500 mg contains iron oxide red and iron oxide yellow This Medication Guide has been approved by the U.S. Food and Drug Administration.
 Trademarks are the property of their respective owners.
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 11/2018
+Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 01/2019
