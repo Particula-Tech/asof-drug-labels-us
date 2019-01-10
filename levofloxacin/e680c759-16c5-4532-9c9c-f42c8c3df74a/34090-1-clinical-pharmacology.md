@@ -118,7 +118,7 @@ Fluoroquinolones, including levofloxacin, differ in chemical structure and mode 
 Fluoroquinolones may, therefore, be active against bacteria resistant to these antimicrobials.
 
 Resistance to levofloxacin due to spontaneous mutation in vitro is a rare occurrence (range: 10-9 to 10-10).
-Although cross‑resistance has been observed between levofloxacin and some other fluoroquinolones, some microorganisms resistant to other fluoroquinolones may be susceptible to levofloxacin.
+Cross‑resistance has been observed between levofloxacin and some other fluoroquinolones; some microorganisms resistant to other fluoroquinolones may be susceptible to levofloxacin.
 
 Activity in vitro and in vivo Levofloxacin has in vitro activity against Gram-negative and Gram-positive bacteria.
 Levofloxacin has been shown to be active against most isolates of the following bacteria both in vitro and in clinical infections as described in INDICATIONS AND USAGE (1):

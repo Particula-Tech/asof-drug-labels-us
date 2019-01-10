@@ -36,7 +36,7 @@ Table 1: Dosage in Adult Patients with Normal Renal Function (creatinine clearan
 This indication is based on a surrogate endpoint.
 Levofloxacin plasma concentrations achieved in humans are reasonably likely to predict clinical benefit [see CLINICAL STUDIES (14.9)].
 8 The safety of levofloxacin in adults for durations of therapy beyond 28 days or in pediatric patients for durations beyond 14 days has not been studied.
-An increased incidence of musculoskeletal adverse events compared to controls has been observed in pediatric patients [see WARNINGS AND PRECAUTIONS (5.10); USE IN SPECIFIC POPULATIONS (8.4); and CLINICAL STUDIES (14.9)] Prolonged levofloxacin therapy should only be used when the benefit outweighs the risk.
+An increased incidence of musculoskeletal adverse events compared to controls has been observed in pediatric patients [see WARNINGS AND PRECAUTIONS (5.11); USE IN SPECIFIC POPULATIONS (8.4); and CLINICAL STUDIES (14.9)] Prolonged levofloxacin therapy should only be used when the benefit outweighs the risk.
 9 Drug administration should begin as soon as possible after suspected or confirmed exposure to Yersinia pestis.
 Higher doses of levofloxacin typically used for treatment of pneumonia can be used for treatment of plague, if clinically indicated.
 
@@ -59,7 +59,7 @@ Table 2: Dosage in Pediatric Patients ≥ 6 months of age
 3 Drug administration should begin as soon as possible after suspected or confirmed exposure to aerosolized B. anthracis.
 This indication is based on a surrogate endpoint.
 Levofloxacin plasma concentrations achieved in humans are reasonably likely to predict clinical benefit [see CLINICAL STUDIES (14.9)] 4 The safety of levofloxacin in pediatric patients for durations of therapy beyond 14 days has not been studied.
-An increased incidence of musculoskeletal adverse events compared to controls has been observed in pediatric patients [see WARNINGS AND PRECAUTIONS (5.10); USE IN SPECIFIC POPULATIONS (8.4); CLINICAL STUDIES (14.9).]
+An increased incidence of musculoskeletal adverse events compared to controls has been observed in pediatric patients [see WARNINGS AND PRECAUTIONS (5.11); USE IN SPECIFIC POPULATIONS (8.4); CLINICAL STUDIES (14.9).]
 Prolonged levofloxacin therapy should only be used when the benefit outweighs the risk.
 5 Drug administration should begin as soon as possible after suspected or confirmed exposure to Yersinia pestis.
 
