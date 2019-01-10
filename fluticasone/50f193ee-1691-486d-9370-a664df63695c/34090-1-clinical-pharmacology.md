@@ -6,10 +6,11 @@ Fluticasone furoate is a synthetic trifluorinated corticosteroid with anti‑inf
 Fluticasone furoate has been shown in vitro to exhibit a binding affinity for the human glucocorticoid receptor that is approximately 29.9 times that of dexamethasone and 1.7 times that of fluticasone propionate.
 The clinical relevance of these findings is unknown.
 
-The precise mechanism of corticosteroid action on asthma is not known.
+The precise mechanism through which fluticasone furoate affects asthma symptoms is not known.
 Inflammation is an important component in the pathogenesis of asthma.
 Corticosteroids have been shown to have a wide range of actions on multiple cell types (e.g., mast cells, eosinophils, neutrophils, macrophages, lymphocytes) and mediators (e.g., histamine, eicosanoids, leukotrienes, cytokines) involved in inflammation.
-These anti-inflammatory actions of corticosteroids contribute to their efficacy in asthma.
+Specific effects of fluticasone furoate demonstrated in in vitro and in vivo models included activation of the glucocorticoid response element, inhibition of pro-inflammatory transcription factors such as NFkB, and inhibition of antigen-induced lung eosinophilia in sensitized rats.
+These anti-inflammatory actions of corticosteroids may contribute to their efficacy.
 
 Though effective for the treatment of asthma, corticosteroids may not affect symptoms immediately.
 Individual patients will experience a variable time to onset and degree of symptom relief.
@@ -84,9 +85,9 @@ The rate and extent of fluticasone furoate systemic exposure at steady state in 
 
 Racial or Ethnic Groups: Systemic exposure (AUC(0-24)) to inhaled fluticasone furoate 200 mcg was 27% to 49% higher in healthy subjects of Japanese, Korean, and Chinese heritage compared with Caucasian subjects.
 Similar differences were observed for subjects with asthma (Figure 1).
-There is no evidence that this higher exposure to fluticasone furoate results in clinically relevant effects on urinary cortisol excretion or on efficacy in these racial groups.
+However, there is no evidence that this higher exposure to fluticasone furoate results in clinically relevant effects on urinary cortisol excretion or on efficacy in these racial groups.
 
-Patients with Hepatic Impairment: Following repeat dosing of fluticasone furoate/vilanterol 200 mcg/25 mcg (100 mcg/12.5 mcg in the severe impairment group) for 7 days, fluticasone furoate systemic exposure (AUC) increased 34%, 83%, and 75% in adult subjects with mild, moderate, and severe hepatic impairment, respectively, compared with adult healthy subjects (Figure 1).
+Patients with Hepatic Impairment: Following repeat dosing of fluticasone furoate/vilanterol 200 mcg/25 mcg (100 mcg/12.5 mcg in the severe impairment group) for 7 days, there was an increase of 34%, 83%, and 75% in fluticasone furoate systemic exposure (AUC) in subjects with mild, moderate, and severe hepatic impairment, respectively, compared with healthy subjects (Figure 1).
 
 In subjects with moderate hepatic impairment receiving fluticasone furoate/vilanterol 200 mcg/25 mcg, mean serum cortisol (0 to 24 hours) was reduced by 34% (90% CI: 11%, 51%) compared with healthy subjects.
 In subjects with severe hepatic impairment receiving fluticasone furoate/vilanterol 100 mcg/12.5 mcg, mean serum cortisol (0 to 24 hours) was increased by 14% (90% CI: -16%, 55%) compared with healthy subjects.

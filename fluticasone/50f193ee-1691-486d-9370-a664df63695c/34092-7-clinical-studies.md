@@ -8,7 +8,7 @@ One additional trial evaluated the safety and efficacy of ARNUITY ELLIPTA in 593
 ## 14.1 Dose-Ranging Trials
 
 Eight doses of fluticasone furoate ranging from 25 to 800 mcg once daily were evaluated in 3 randomized, double-blind, placebo-controlled, 8-week trials in adult and adolescent subjects with asthma.
-Across the 3 trials, subjects were uncontrolled at baseline on treatments of short-acting beta2-agonist and/or non-corticosteroid controller medications (Trial 687), low-dose inhaled corticosteroid (Trial 685), or medium doses of inhaled corticosteroid (Trial 684).
+Across the 3 trials, subjects were uncontrolled at baseline on treatments of short-acting beta2-agonist and/or non-corticosteroid controller medications (Trial 687), low-dose ICS (Trial 685), or medium doses of ICS (Trial 684).
 The trials in Figure 3 were dose-ranging trials of ARNUITY ELLIPTA not designed to provide comparative effectiveness data and should not be interpreted as evidence of superiority/inferiority to fluticasone propionate.
 A dose-related increase in trough FEV1 at Week 8 was seen for doses from 25 to 200 mcg with no consistent additional benefit for doses above 200 mcg as seen in Figure 3.
 To evaluate dosing frequency, a separate trial compared fluticasone furoate 200 mcg once daily, fluticasone furoate 100 mcg twice daily, fluticasone propionate 100 mcg twice daily, and fluticasone propionate 200 mcg once daily.
@@ -24,7 +24,7 @@ FF = Fluticasone furoate, FP = Fluticasone propionate, OD = Once daily, BD = Twi
 Adult and Adolescent Subjects Aged 12 Years and Older
 
 The clinical development program for ARNUITY ELLIPTA included 4 confirmatory trials in adult and adolescent subjects with asthma aged 12 years and older.
-The trials were designed to evaluate the safety and efficacy of ARNUITY ELLIPTA given once daily in the evening on lung function in subjects who were not controlled on their current treatments of inhaled corticosteroids, or combination therapy consisting of an inhaled corticosteroid plus a LABA.
+The trials were designed to evaluate the safety and efficacy of ARNUITY ELLIPTA given once daily in the evening on lung function in subjects who were not controlled on their current treatments of ICS, or combination therapy consisting of an ICS plus a LABA.
 Study treatments were delivered as inhalation powders.
 The primary endpoint in all trials was change from baseline in evening trough FEV1 measured approximately 24 hours after the final dose of study medication.
 Trough FEV1 (assessed at approximately 24 hours after the previous dose) was also assessed at clinic visits throughout the trials.
@@ -34,7 +34,7 @@ Clinical Trials with ARNUITY ELLIPTA 100 mcg: Trial 1 was a 24-week trial that e
 Inhaled fluticasone propionate 250 mcg twice daily was included as an active control.
 Of the 343 subjects, 59% were female and 79% were Caucasian.
 The mean age was 41 years.
-The trial included a 4-week run-in period during which the subjects were symptomatic while taking their usual low- to mid-dose inhaled corticosteroid therapy (i.e., fluticasone propionate 100 to 500 mcg daily or equivalent).
+The trial included a 4-week run-in period during which the subjects were symptomatic while taking their usual low- to mid-dose ICS therapy (i.e., fluticasone propionate 100 to 500 mcg daily or equivalent).
 Mean baseline percent predicted FEV1 was approximately 73% overall and was similar across the 3 treatment groups.
 Thirty-five percent of subjects on placebo and 19% of subjects on ARNUITY ELLIPTA 100 mcg failed to complete the 24-week trial.
 
@@ -58,7 +58,7 @@ Trial 2 was a 12-week trial that evaluated the efficacy of ARNUITY ELLIPTA 100 m
 The combination of fluticasone furoate 100 mcg and vilanterol 25 mcg was also included as a treatment arm.
 Of the 609 subjects, 58% were female and 84% were Caucasian.
 The mean age was 40 years.
-The trial included a 4-week run-in period during which the subjects were symptomatic while taking their usual low- to mid-dose inhaled corticosteroid (fluticasone propionate 200 to 500 mcg/day or equivalent).
+The trial included a 4-week run-in period during which the subjects were symptomatic while taking their usual low- to mid-dose ICS (fluticasone propionate 200 to 500 mcg/day or equivalent).
 If LABA were used prior to screening, their use was discontinued during the run-in.
 Mean baseline percent predicted FEV1 was approximately 70% in both treatment groups.
 Twenty-six percent of subjects on placebo and 10% of subjects on ARNUITY ELLIPTA 100 mcg failed to complete the 12-week trial.
@@ -81,7 +81,7 @@ Subjects in both Trials 1 and 2 receiving ARNUITY ELLIPTA 100 mcg once daily had
 Clinical Trial with ARNUITY ELLIPTA 200 mcg: Trial 3 was a 24-week trial that evaluated the relative efficacy of ARNUITY ELLIPTA 100 mcg and ARNUITY ELLIPTA 200 mcg on lung function in subjects with asthma.
 Of the 219 subjects, 68% were female and 87% were Caucasian.
 The mean age was 46 years.
-The trial included a 4-week run-in period during which the subjects were symptomatic while taking their usual mid- to high-dose inhaled corticosteroid therapy (i.e., fluticasone propionate greater than 250 to 1,000 mcg/day or equivalent).
+The trial included a 4-week run-in period during which the subjects were symptomatic while taking their usual mid- to high-dose ICS therapy (i.e., fluticasone propionate greater than 250 to 1,000 mcg/day or equivalent).
 If LABA were used prior to screening, their use was discontinued during the run-in.
 Mean baseline percent predicted FEV1 was approximately 68% overall and similar in the 2 treatment groups.
 Sixteen percent of subjects on ARNUITY ELLIPTA 100 mcg and 13% of subjects on ARNUITY ELLIPTA 200 mcg failed to complete the 24-week trial.
@@ -97,7 +97,7 @@ Trial 4 was a 24-week trial that evaluated the efficacy of ARNUITY ELLIPTA 200 m
 The combination of fluticasone furoate 200 mcg and vilanterol 25 mcg was also included as a treatment arm (data not shown).
 Of the 586 subjects, 59% were female and 84% were Caucasian.
 The mean age was 46 years.
-The trial included a 4-week run-in period during which the subjects were symptomatic while taking their usual mid- to high-dose inhaled corticosteroid (fluticasone propionate 500 to 1,000 mcg/day or equivalent).
+The trial included a 4-week run-in period during which the subjects were symptomatic while taking their usual mid- to high-dose ICS (fluticasone propionate 500 to 1,000 mcg/day or equivalent).
 If LABA were used prior to screening, their use was discontinued during the run-in.
 Mean baseline percent predicted FEV1 was approximately 67% in both treatment groups.
 

@@ -1,9 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-## 4.1 Status Asthmaticus
+The use of ARNUITY ELLIPTA is contraindicated in the following conditions:
 
-ARNUITY ELLIPTA is contraindicated in the primary treatment of status asthmaticus or other acute episodes of asthma where intensive measures are required [see Warnings and Precautions (5.2)].
-
-## 4.2 Hypersensitivity
-
-ARNUITY ELLIPTA is contraindicated in patients with known severe hypersensitivity to milk proteins or who have demonstrated hypersensitivity to fluticasone furoate or any of the excipients [see Warnings and Precautions (5.8), Description (11)].
+- •Primary treatment of status asthmaticus or other acute episodes of asthma where intensive measures are required [see Warnings and Precautions (5.2)].
+- •Severe hypersensitivity to milk proteins or demonstrated hypersensitivity to fluticasone furoate or any of the excipients [see Warnings and Precautions (5.8), Description (11)].

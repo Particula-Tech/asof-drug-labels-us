@@ -4,22 +4,21 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 
 Not for Acute Symptoms
 
-Inform patients that ARNUITY ELLIPTA is not meant to relieve acute asthma symptoms and extra doses should not be used for that purpose.
-ARNUITY ELLIPTA is not a bronchodilator and should not be used to treat status asthmaticus or to relieve acute asthma symptoms.
+Inform patients that ARNUITY ELLIPTA is not meant to relieve acute symptoms of asthma and extra doses should not be used for that purpose.
 Advise patients to treat acute symptoms with an inhaled, short-acting beta2-agonist such as albuterol.
 Provide patients with such medication and instruct them in how it should be used.
 
 Instruct patients to seek medical attention immediately if they experience any of the following:
 
-- •Symptoms get worse
-- •Significant decrease in lung function as outlined by the physician
+- •Decreasing effectiveness of inhaled, short-acting beta2-agonists
 - •Need for more inhalations than usual of inhaled, short-acting beta2-agonists
+- •Significant decrease in lung function as outlined by the physician
 
 Advise patients not to increase the dose or frequency of ARNUITY ELLIPTA.
 The daily dosage of ARNUITY ELLIPTA should not exceed 1 inhalation.
 If they miss a dose, instruct patients to take their next dose at the same time they normally do.
 
-Tell patients they should not stop or reduce therapy with ARNUITY ELLIPTA without physician/provider guidance since symptoms may recur after discontinuation.
+Tell patients they should not stop therapy with ARNUITY ELLIPTA without physician/provider guidance since symptoms may recur after discontinuation.
 
 Local Effects
 
@@ -35,7 +34,7 @@ Inform patients of potential worsening of existing tuberculosis, fungal, bacteri
 Hypercorticism and Adrenal Suppression
 
 Advise patients that ARNUITY ELLIPTA may cause systemic corticosteroid effects of hypercorticism and adrenal suppression.
-Additionally, instruct that deaths due to adrenal insufficiency have occurred during and after transfer from systemic corticosteroids.
+Additionally, inform patients that deaths due to adrenal insufficiency have occurred during and after transfer from systemic corticosteroids.
 Patients should taper slowly from systemic corticosteroids if transferring to ARNUITY ELLIPTA.
 
 Reduction in Bone Mineral Density
@@ -47,9 +46,9 @@ Reduced Growth Velocity
 Inform patients that orally inhaled corticosteroids, including ARNUITY ELLIPTA, may cause a reduction in growth velocity when administered to pediatric patients.
 Physicians should closely follow the growth of children and adolescents taking corticosteroids by any route.
 
-Ocular Effects
+Glaucoma and Cataracts
 
-Advise patients that long-term use of inhaled corticosteroids may increase the risk of some eye problems (cataracts or glaucoma); consider regular eye examinations.
+Advise patients that long-term use of ICS may increase the risk of some eye problems (cataracts or glaucoma); consider regular eye examinations.
 
 Hypersensitivity Reactions, Including Anaphylaxis
 
@@ -69,6 +68,6 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2018 GSK group of companies or its licensor.
+©2019 GSK group of companies or its licensor.
 
-ARN:6PI
+ARN:7PI

@@ -5,18 +5,20 @@
 Risk Summary
 
 There are insufficient data on the use of ARNUITY ELLIPTA in pregnant women.
-There are clinical considerations with use of ARNUITY ELLIPTA in pregnant women [see Clinical Considerations].
+There are clinical considerations with use of ARNUITY ELLIPTA in pregnant women to inform a drug-associated risk.
+(See Clinical Considerations.)
 In animal reproduction studies, fluticasone furoate administered by inhalation to rats and rabbits during the period of organogenesis produced no fetal structural abnormalities.
 The highest fluticasone furoate doses in the rat and rabbit studies were 4 times and 1 times the maximum recommended human daily inhalation dose (MRHDID), respectively.
+(See Data.)
 
 The estimated risk of major birth defects and miscarriage for the indicated populations is unknown.
 In the U.S. general population, the estimated risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Clinical Considerations
 
-Disease-Associated Maternal and/or Embryofetal Risk: In women with poorly or moderately controlled asthma, there is an increased risk of several perinatal adverse outcomes such as pre‑eclampsia in the mother and prematurity, low birth weight, and small for gestational age in the neonate.
+Disease-Associated Maternal and/or Embryofetal Risk: In women with poorly or moderately controlled asthma, there is an increased risk of several perinatal outcomes such as pre-eclampsia in the mother and prematurity, low birth weight, and small for gestational age in the neonate.
 
-Pregnant women with asthma should be closely monitored and medication adjusted as necessary to maintain optimal asthma control.
+Pregnant women should be closely monitored and medication adjusted as necessary to maintain optimal control of asthma.
 
 Data
 
@@ -30,7 +32,7 @@ No evidence of effects on offspring development was observed.
 Risk Summary
 
 There is no information available on the presence of fluticasone furoate in human milk, the effects on the breastfed child, or the effects on milk production.
-Low concentrations of other inhaled corticosteroids have been detected in human milk.
+Low concentrations of other ICS have been detected in human milk.
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for ARNUITY ELLIPTA and any potential adverse effects on the breastfed child from fluticasone furoate or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
@@ -44,12 +46,12 @@ The safety and efficacy of ARNUITY ELLIPTA have not been established in pediatri
 Effects on Growth
 
 Orally inhaled corticosteroids may cause a reduction in growth velocity when administered to children and adolescents.
-A reduction of growth velocity in children and adolescents may occur as a result of poorly controlled asthma or from use of corticosteroids, including inhaled corticosteroids.
-The effects of long-term treatment of children and adolescents with inhaled corticosteroids, including fluticasone furoate, on final adult height are not known.
+A reduction of growth velocity in children and adolescents may occur as a result of poorly controlled asthma or from use of corticosteroids, including ICS.
+The effects of long-term treatment of children and adolescents with ICS, including fluticasone furoate, on final adult height are not known.
 
-Controlled clinical trials have shown that inhaled corticosteroids may cause a reduction in growth in children.
-In these trials, the mean reduction in growth velocity was approximately 1 cm/year (range: 0.3 to 1.8 cm/year) and appeared to depend upon dose and duration of exposure.
-This effect was observed in the absence of laboratory evidence of HPA axis suppression, suggesting that growth velocity is a more sensitive indicator of systemic corticosteroid exposure in children than some commonly used tests of HPA axis function.
+Controlled clinical trials have shown that ICS may cause a reduction in growth in children.
+In these trials, the mean reduction in growth velocity was approximately 1 cm/year (range: 0.3 to 1.8 cm/year) and appears to be related to dose and duration of exposure.
+This effect has been observed in the absence of laboratory evidence of HPA axis suppression, suggesting that growth velocity is a more sensitive indicator of systemic corticosteroid exposure in children than some commonly used tests of HPA axis function.
 The long-term effects of this reduction in growth velocity associated with orally inhaled corticosteroids, including the impact on final adult height, are unknown.
 The potential for “catch-up” growth following discontinuation of treatment with orally inhaled corticosteroids has not been adequately studied.
 The growth of children and adolescents receiving orally inhaled corticosteroids, including ARNUITY ELLIPTA, should be monitored routinely (e.g., via stadiometry).
