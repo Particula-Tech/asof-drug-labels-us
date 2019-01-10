@@ -27,6 +27,8 @@ Advise patients to seek medical attention if they experience a constellation of 
 Important Administration Instructions Instruct patients how to properly take ROXYBOND.
 Patients should be advised not to adjust the dose of ROXYBOND without consulting the prescribing healthcare provider [see Dosage and Administration (2), Warnings and Precautions (5.13)].
 
+Inform patients taking ROXYBOND that the medicine is absorbed by the body and the part of the tablet that contains inactive ingredients is eliminated from the body; patients may notice something that looks like a tablet in their stool.
+
 Hypotension Inform patients that ROXYBOND may cause orthostatic hypotension and syncope.
 Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from sitting or lying position) [see Warnings and Precautions (5.9)].
 
@@ -59,4 +61,4 @@ Manufactured for: Daiichi Sankyo, Inc. Basking Ridge, NJ 07920
 
 ©2017, Daiichi Sankyo, Inc.
 
-USPI-ROX-0918-r101
+USPI-ROX-1218-r102
