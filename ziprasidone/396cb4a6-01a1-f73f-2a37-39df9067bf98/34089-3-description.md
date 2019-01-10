@@ -13,3 +13,6 @@ Ziprasidone hydrochloride USP is a light pink to pink colored powder.
 Ziprasidone hydrochloride capsules are supplied for oral administration in 20 mg, 40 mg, 60 mg, and 80 mg capsules.
 Ziprasidone hydrochloride capsules contain ziprasidone hydrochloride, anhydrous lactose, magnesium stearate, polysorbate 80, povidone (PVK-30), pregelatinized starch and silicon dioxide.
 The components of the capsule shells are FD&C Blue #1, FD&C Red #3, gelatin, red iron oxide and titanium dioxide.
+
+The capsule shells are imprinted with black ink.
+The components of black ink (Black SW-9008/SW-9009) are black iron oxide, butyl alcohol, dehydrated alcohol, isopropyl alcohol, potassium hydroxide, propylene glycol, shellac and strong ammonia solution.
