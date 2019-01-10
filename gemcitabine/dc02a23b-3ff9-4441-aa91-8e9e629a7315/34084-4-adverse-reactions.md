@@ -253,6 +253,6 @@ Skin - Cellulitis, pseudocellulitis, severe skin reactions, including desquamati
 
 Hepatic - Hepatic failure, hepatic veno-occlusive disease.
 
-Pulmonary - Interstitial pneumonitis, pulmonary fibrosis, pulmonary edema, and adult respiratory distress syndrome (ARDS)
+Pulmonary - Interstitial pneumonitis, pulmonary fibrosis, pulmonary eosinophilia, pulmonary edema, and adult respiratory distress syndrome (ARDS)
 
 Nervous System — Posterior reversible encephalopathy syndrome (PRES) [see Warnings and Precautions (5.9)]
