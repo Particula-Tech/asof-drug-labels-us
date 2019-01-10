@@ -1,8 +1,8 @@
-# Principal Display Panel
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
 NDC 0781-3152-70
 
-CisatracuriumBesylate Injection
+Cisatracurium Besylate Injection
 
 20 mg/10 mL*
 
@@ -16,6 +16,16 @@ For Intravenous Injection
 
 10 mL Multiple Dose Vial
 
+Sterile, Nonpyrogenic
+
 Rx only
+
+WARNING: Paralyzing Agent.
+
+Causes Respiratory Arrest.
+
+Facilities must be immediately
+
+Available for artificial respiration.
 
 Sandoz
