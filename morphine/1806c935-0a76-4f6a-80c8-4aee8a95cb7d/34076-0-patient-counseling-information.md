@@ -44,6 +44,7 @@ Instruct patients how to properly take MORPHABOND ER, including the following:
 
 - Swallowing MORPHABOND ER tablets whole [see Dosage and Administration (2.1)]
 - Not crushing, chewing, or dissolving the tablets [see Dosage and Administration (2.1)]
+- When taking MORPHABOND ER, the medicine is absorbed by the body and the part of the tablet that contains inactive ingredients is eliminated from the body; patients may notice something that looks like a tablet in their stool.
 - Using MORPHABOND ER exactly as prescribed to reduce the risk of life-threatening adverse reactions (e.g., respiratory depression) [see Warnings and Precautions (5.3)]
 - Not discontinuing MORPHABOND ER without first discussing the need for a tapering regimen with the prescriber [see Dosage and Administration (2.5)]
 
@@ -97,4 +98,4 @@ Basking Ridge, NJ 07920
 
 ©2017, Daiichi Sankyo, Inc.
 
-USPI-MOR-0918-r103
+USPI-MOR-1218-r104

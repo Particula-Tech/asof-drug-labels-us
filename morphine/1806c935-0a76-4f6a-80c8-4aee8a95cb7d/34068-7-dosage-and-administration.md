@@ -4,7 +4,7 @@
 
 MORPHABOND ER should be prescribed only by healthcare professionals who are knowledgeable in the use of potent opioids for the management of chronic pain.
 
-MORPHABOND ER 100mg tablets, a single dose greater than 60 mg, or a total daily dose greater than 120 mg, are only for use in patients in whom tolerance to an opioid of comparable potency has been established.
+MORPHABOND ER 100 mg tablets, a single dose greater than 60 mg, or a total daily dose greater than 120 mg, are only for use in patients in whom tolerance to an opioid of comparable potency has been established.
 Patients who are opioid tolerant are those receiving, for one week or longer, at least 60 mg oral morphine per day, 25 mcg transdermal fentanyl per hour, 30 mg oral oxycodone per day, 8 mg oral hydromorphone per day, 25 mg oral oxymorphone per day, 60 mg oral hydrocodone per day, or an equianalgesic dose of another opioid.
 
 - Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
