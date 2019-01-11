@@ -3,14 +3,14 @@
 The following serious adverse reactions are discussed elsewhere in the labeling:
 
 - •Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
-- •Life Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
-- •Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.3)]
-- •Interactions with Benzodiazepine or Other CNS Depressants [see Warnings and Precautions (5.4)]
-- •Adrenal Insufficiency [see Warnings and Precautions (5.6)]
-- •Severe Hypotension [see Warnings and Precautions (5.7)]
-- •Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.9)]
-- •Seizures [see Warnings and Precautions (5.10)]
-- •Withdrawal [see Warnings and Precautions (5.11)]
+- •Life Threatening Respiratory Depression [see Warnings and Precautions (5.3)]
+- •Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
+- •Interactions with Benzodiazepine or Other CNS Depressants [see Warnings and Precautions (5.5)]
+- •Adrenal Insufficiency [see Warnings and Precautions (5.7)]
+- •Severe Hypotension [see Warnings and Precautions (5.8)]
+- •Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.10)]
+- •Seizures [see Warnings and Precautions (5.11)]
+- •Withdrawal [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trial Experience
 
@@ -137,8 +137,8 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs [see Drug Interactions (7)].
 
-Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use [see Warnings and Precautions (5.6)].
+Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use [see Warnings and Precautions (5.7)].
 
-Anaphylaxis: Anaphylactic reaction has been reported with ingredients contained in hydromorphone hydrochloride extended-release tablets [see Contraindications (4) and Warnings and Precautions (5.12)].
+Anaphylaxis: Anaphylactic reaction has been reported with ingredients contained in hydromorphone hydrochloride extended-release tablets [see Contraindications (4) and Warnings and Precautions (5.13)].
 
 Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].

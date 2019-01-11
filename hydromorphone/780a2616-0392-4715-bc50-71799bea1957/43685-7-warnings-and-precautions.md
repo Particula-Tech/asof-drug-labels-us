@@ -21,7 +21,22 @@ Consider these risks when prescribing or dispensing hydromorphone hydrochloride 
 Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity and advising the patient on the proper disposal of unused drug [see Patient Counseling Information (17)].
 Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
 
-## 5.2 Life-threatening Respiratory Depression
+## 5.2 Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
+
+To ensure that the benefits of opioid analgesics outweigh the risks of addiction, abuse, and misuse, the Food and Drug Administration (FDA) has required a Risk Evaluation and Mitigation Strategy (REMS) for these products.
+Under the requirements of the REMS, drug companies with approved opioid analgesic products must make REMS-compliant education programs available to healthcare providers.
+Healthcare providers are strongly encouraged to do all of the following:
+
+- •Complete a REMS-compliant education program offered by an accredited provider of continuing education (CE) or another education program that includes all the elements of the FDA Education Blueprint for Health Care Providers Involved in the Management or Support of Patients with Pain.
+- •Discuss the safe use, serious risks, and proper storage and disposal of opioid analgesics with patients and/or their caregivers every time these medicines are prescribed.
+  The Patient Counseling Guide (PCG) can be obtained at this link: www.fda.gov/OpioidAnalgesicREMSPCG.
+- •Emphasize to patients and their caregivers the importance of reading the Medication Guide that they will receive from their pharmacist every time an opioid analgesic is dispensed to them.
+- •Consider using other tools to improve patient, household, and community safety, such as patient prescriber agreements that reinforce patient-prescriber responsibilities.
+
+To obtain further information on the opioid analgesic REMS and for a list of accredited REMS CME/CE, call 1-800-503-0784, or log on to www.opioidanalgesicrems.com.
+The FDA Blueprint can be found at www.fda.gov/OpioidAnalgesicREMSBlueprint.
+
+## 5.3 Life-threatening Respiratory Depression
 
 Serious, life-threatening, or fatal respiratory depression has been reported with the use of modified-release opioids, even when used as recommended.
 Respiratory depression from opioid use, if not immediately recognized and treated, may lead to respiratory arrest and death.
@@ -29,21 +44,21 @@ Management of respiratory depression may include close observation, supportive m
 Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of hydromorphone hydrochloride extended-release tablets, the risk is greatest during the initiation of therapy or following a dosage increase.
-Closely monitor patients for respiratory depression, especially within the first 24-72 hours of initiating therapy with hydromorphone hydrochloride extended-release tablets and following dosage increases.
+Closely monitor patients for respiratory depression, especially within the first 24 to 72 hours of initiating therapy with hydromorphone hydrochloride extended-release tablets and following dosage increases.
 
 To reduce the risk of respiratory depression, proper dosing and titration of hydromorphone hydrochloride extended-release tablets are essential [see Dosage and Administration (2)].
 Overestimating the hydromorphone hydrochloride extended-release tablets dose when converting patients from another opioid product can result in fatal overdose with the first dose.
 
 Accidental ingestion of even one dose of hydromorphone hydrochloride extended-release tablets, especially by children, can result in respiratory depression and death due to an overdose of hydromorphone.
 
-## 5.3 Neonatal Opioid Withdrawal Syndrome
+## 5.4 Neonatal Opioid Withdrawal Syndrome
 
 Prolonged use of hydromorphone hydrochloride extended-release tablets during pregnancy can result in withdrawal in the neonate.
 Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults, may be life-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts.
 Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly.
 Advise pregnant women using opioids for a prolonged period of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see Use in Specific Populations (8.1), Patient Counseling Information (17)].
 
-## 5.4 Risks from Concomitant use with Benzodiazepines or Other CNS Depressants
+## 5.5 Risks from Concomitant use with Benzodiazepines or Other CNS Depressants
 
 Profound sedation, respiratory depression, coma, and death may result from the concomitant use of hydromorphone hydrochloride extended-release tablets with benzodiazepines or other CNS depressants (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
 Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
@@ -60,18 +75,18 @@ Advise both patients and caregivers about the risks of respiratory depression an
 Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
 Screen patients for risk of substance use disorders, including opioid abuse and misuse, and warn them of the risk for overdose and death associated with the use of additional CNS depressants including alcohol and illicit drugs [see Drug Interactions (7), Patient Counseling Information (17)].
 
-## 5.5 Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or in Elderly, Cachectic, or Debilitated Patients
+## 5.6 Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or in Elderly, Cachectic, or Debilitated Patients
 
 The use of hydromorphone hydrochloride extended-release tablets in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
 
-Patients with Chronic Pulmonary Disease: Hydromorphone hydrochloride extended-release tablets treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of hydromorphone hydrochloride extended-release tablets [see Warnings and Precautions (5.2)].
+Patients with Chronic Pulmonary Disease: Hydromorphone hydrochloride extended-release tablets treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of hydromorphone hydrochloride extended-release tablets [see Warnings and Precautions (5.3)].
 
-Elderly, Cachectic, or Debilitated Patients: Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.2)].
+Elderly, Cachectic, or Debilitated Patients: Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.3)].
 
-Monitor such patients closely, particularly when initiating and titrating hydromorphone hydrochloride extended-release tablets and when hydromorphone hydrochloride extended-release tablets are given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.2, 5.4)].
+Monitor such patients closely, particularly when initiating and titrating hydromorphone hydrochloride extended-release tablets and when hydromorphone hydrochloride extended-release tablets are given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.3, 5.5)].
 Alternatively, consider the use of non-opioid analgesics in these patients.
 
-## 5.6 Adrenal Insufficiency
+## 5.7 Adrenal Insufficiency
 
 Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
 Presentation of adrenal insufficiency may include non-specific symptoms and signs including nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
@@ -81,7 +96,7 @@ Wean the patient off of the opioid to allow adrenal function to recover and cont
 Other opioids may be tried as some cases reported use of a different opioid without recurrence of adrenal insufficiency.
 The information available does not identify any particular opioids as being more likely to be associated with adrenal insufficiency.
 
-## 5.7 Severe Hypotension
+## 5.8 Severe Hypotension
 
 Hydromorphone hydrochloride extended-release tablets may cause severe hypotension including orthostatic hypotension and syncope in ambulatory patients.
 There is an increased risk in patients whose ability to maintain blood pressure has already been compromised by a reduced blood volume, or concurrent administration of certain CNS depressant drugs (e.g. phenothiazines or general anesthetics) [see Drug Interactions (7)].
@@ -89,7 +104,7 @@ Monitor these patients for signs of hypotension after initiating or titrating th
 In patients with circulatory shock, hydromorphone hydrochloride extended-release tablets may cause vasodilation that can further reduce cardiac output and blood pressure.
 Avoid the use of hydromorphone hydrochloride extended-release tablets in patients with circulatory shock.
 
-## 5.8 Risks of Use in Patients with Increased Intracranial Pressure, Brain Tumors, Head Injury, or Impaired Consciousness
+## 5.9 Risks of Use in Patients with Increased Intracranial Pressure, Brain Tumors, Head Injury, or Impaired Consciousness
 
 In patients who may be susceptible to the intracranial effects of CO2 retention (e.g., those with evidence of increased intracranial pressure or brain tumors), hydromorphone hydrochloride extended-release tablets may reduce respiratory drive, and the resultant CO2 retention can further increase intracranial pressure.
 Monitor such patients for signs of sedation and respiratory depression, particularly when initiating therapy with hydromorphone hydrochloride extended-release tablets.
@@ -97,7 +112,7 @@ Monitor such patients for signs of sedation and respiratory depression, particul
 Opioids may also obscure the clinical course in a patient with a head injury.
 Avoid the use of hydromorphone hydrochloride extended-release tablets in patients with impaired consciousness or coma.
 
-## 5.9 Risks of Use in Patients with Gastrointestinal Conditions
+## 5.10 Risks of Use in Patients with Gastrointestinal Conditions
 
 Hydromorphone hydrochloride extended-release tablets are contraindicated in patients with known or suspected gastrointestinal obstruction, including paralytic ileus.
 Avoid the use of hydromorphone hydrochloride extended-release tablets in patients with other GI obstruction.
@@ -112,12 +127,12 @@ The hydromorphone in hydromorphone hydrochloride extended-release tablets may ca
 Opioids may cause increases in serum amylase.
 Monitor patients with biliary tract disease, including acute pancreatitis, for worsening symptoms.
 
-## 5.10 Increased Risk of Seizures in Patients with Seizure Disorders
+## 5.11 Increased Risk of Seizures in Patients with Seizure Disorders
 
 The hydromorphone in hydromorphone hydrochloride extended-release tablets may increase the frequency of seizures in patients with seizure disorders, and may increase the risk of seizures occurring in other clinical settings associated with seizures.
 Monitor patients with a history of seizure disorders for worsened seizure control during hydromorphone hydrochloride extended-release tablets therapy.
 
-## 5.11 Withdrawal
+## 5.12 Withdrawal
 
 Avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including hydromorphone hydrochloride extended-release tablets.
 In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms [see Drug Interactions (7)].
@@ -125,13 +140,13 @@ In these patients, mixed agonist/antagonist and partial agonist analgesics may r
 When discontinuing hydromorphone hydrochloride extended-release tablets, gradually taper the dose [see Dosage and Administration (2.4)].
 Do not abruptly discontinue hydromorphone hydrochloride extended-release tablets [see Drug Abuse and Dependence (9.3)].
 
-## 5.12 Sulfites
+## 5.13 Sulfites
 
 Hydromorphone hydrochloride extended-release tablets contain sodium metabisulfite, a sulfite that may cause allergic-type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people.
 The overall prevalence of sulfite sensitivity in the general population is unknown and probably low.
 Sulfite sensitivity is seen more frequently in asthmatic than in nonasthmatic people [see Adverse Reactions (6.2)].
 
-## 5.13 Risks of Driving and Operating Machinery
+## 5.14 Risks of Driving and Operating Machinery
 
 Hydromorphone hydrochloride extended-release tablets may impair the mental and/or physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery.
 Warn patients not to drive or operate dangerous machinery unless they are tolerant to the effects of hydromorphone hydrochloride extended-release tablets and know how they will react to the medication [see Patient Counseling Information (17)].
