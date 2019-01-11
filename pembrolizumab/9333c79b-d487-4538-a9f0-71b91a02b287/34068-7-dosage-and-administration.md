@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Patient Selection for Treatment of NSCLC, Urothelial Carcinoma, Gastric Cancer, or Cervical Cancer
+## 2.1 Patient Selection for NSCLC, Urothelial Carcinoma, Gastric Cancer, or Cervical Cancer
 
 Select patients for treatment with KEYTRUDA as a single agent based on the presence of positive PD-L1 expression in:
 
@@ -10,60 +10,60 @@ Select patients for treatment with KEYTRUDA as a single agent based on the prese
   If PD-L1 expression is not detected in an archival gastric cancer specimen, evaluate the feasibility of obtaining a tumor biopsy for PD-L1 testing.
 - recurrent or metastatic cervical cancer [see Clinical Studies (14.9)].
 
-Information on FDA-approved tests for the detection of PD-L1 expression in NSCLC, urothelial carcinoma, gastric cancer, or cervical cancer is available at: http://www.fda.gov/CompanionDiagnostics.
+Information on FDA-approved tests for the detection of PD-L1 expression for these indications is available at: http://www.fda.gov/CompanionDiagnostics.
 
 ## 2.2 Recommended Dosage for Melanoma
 
-The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression or unacceptable toxicity [see Clinical Studies (14.1)].
+The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression or unacceptable toxicity.
 
 ## 2.3 Recommended Dosage for NSCLC
 
-The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression [see Clinical Studies (14.2)].
+The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression.
 
-When administering KEYTRUDA in combination with chemotherapy, KEYTRUDA should be administered prior to chemotherapy when given on the same day [see Clinical Studies (14.2)].
-See also the Prescribing Information for the chemotherapy agents administered in combination with KEYTRUDA, as appropriate.
+When administering KEYTRUDA in combination with chemotherapy, administer KEYTRUDA prior to chemotherapy when given on the same day.
+Refer to the Prescribing Information for the chemotherapy agents administered in combination with KEYTRUDA for recommended dosing information, as appropriate.
 
 ## 2.4 Recommended Dosage for HNSCC
 
-The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression [see Clinical Studies (14.3)].
+The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression.
 
 ## 2.5 Recommended Dosage for cHL
 
-The recommended dose of KEYTRUDA in adults is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression or unacceptable toxicity, or up to 24 months in patients without disease progression [see Clinical Studies (14.4)].
+The recommended dose of KEYTRUDA in adults is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression or unacceptable toxicity, or up to 24 months in patients without disease progression.
 
 The recommended dose of KEYTRUDA in pediatric patients is 2 mg/kg (up to a maximum of 200 mg), administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression or unacceptable toxicity, or up to 24 months in patients without disease progression.
 
 ## 2.6 Recommended Dosage for PMBCL
 
-The recommended dose of KEYTRUDA in adults is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression [see Clinical Studies (14.5)].
+The recommended dose of KEYTRUDA in adults is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression.
 
 The recommended dose of KEYTRUDA in pediatric patients is 2 mg/kg (up to a maximum of 200 mg), administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression or unacceptable toxicity, or up to 24 months in patients without disease progression.
 
 ## 2.7 Recommended Dosage for Urothelial Carcinoma
 
-The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression or unacceptable toxicity, or up to 24 months in patients without disease progression [see Clinical Studies (14.6)].
+The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression or unacceptable toxicity, or up to 24 months in patients without disease progression.
 
 ## 2.8 Recommended Dosage for MSI-H Cancer
 
-The recommended dose of KEYTRUDA in adults is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression [see Clinical Studies (14.7)].
+The recommended dose of KEYTRUDA in adults is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression.
 
 The recommended dose of KEYTRUDA in pediatric patients is 2 mg/kg (up to a maximum of 200 mg), administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression or unacceptable toxicity, or up to 24 months in patients without disease progression.
 
 ## 2.9 Recommended Dosage for Gastric Cancer
 
-The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression [see Clinical Studies (14.8)].
+The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression.
 
 ## 2.10 Recommended Dosage for Cervical Cancer
 
-The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression [see Clinical Studies (14.9)].
+The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression.
 
 ## 2.11 Recommended Dosage for HCC
 
-The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression [see Clinical Studies (14.10)].
+The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression.
 
 ## 2.12 Recommended Dosage for MCC
 
-The recommended dose of KEYTRUDA in adults is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression [see Clinical Studies (14.11)].
+The recommended dose of KEYTRUDA in adults is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression.
 
 The recommended dose of KEYTRUDA in pediatric patients is 2 mg/kg (up to a maximum of 200 mg), administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression or unacceptable toxicity, or up to 24 months in patients without disease progression.
 
@@ -109,7 +109,7 @@ Reconstitution of KEYTRUDA for Injection (Lyophilized Powder)
 
 Preparation for Intravenous Infusion
 
-- Visually inspect the solution for particulate matter and discoloration prior to administration.
+- Visually inspect the solution for particulate matter and discoloration.
   The solution is clear to slightly opalescent, colorless to slightly yellow.
   Discard the vial if visible particles are observed.
 - Dilute KEYTRUDA injection (solution) or reconstituted lyophilized powder prior to intravenous administration.
@@ -125,20 +125,22 @@ The product does not contain a preservative.
 Store the reconstituted and diluted solution from the KEYTRUDA 50 mg vial either:
 
 - At room temperature for no more than 6 hours from the time of reconstitution.
-  This includes room temperature storage of reconstituted vials, storage of the infusion solution in the IV bag, and the duration of infusion.
+  This includes room temperature storage of reconstituted vials, storage of the diluted solution, and the duration of infusion.
 - Under refrigeration at 2°C to 8°C (36°F to 46°F) for no more than 24 hours from the time of reconstitution.
   If refrigerated, allow the diluted solution to come to room temperature prior to administration.
 
 Store the diluted solution from the KEYTRUDA 100 mg/4 mL vial either:
 
 - At room temperature for no more than 6 hours from the time of dilution.
-  This includes room temperature storage of the infusion solution in the IV bag, and the duration of infusion.
+  This includes room temperature storage of the diluted solution, and the duration of infusion.
 - Under refrigeration at 2°C to 8°C (36°F to 46°F) for no more than 24 hours from the time of dilution.
   If refrigerated, allow the diluted solution to come to room temperature prior to administration.
+
+Discard after 6 hours at room temperature or after 24 hours under refrigeration.
 
 Do not freeze.
 
 Administration
 
-- Administer infusion solution intravenously over 30 minutes through an intravenous line containing a sterile, non-pyrogenic, low-protein binding 0.2 micron to 5 micron in-line or add-on filter.
+- Administer diluted solution intravenously over 30 minutes through an intravenous line containing a sterile, non-pyrogenic, low-protein binding 0.2 micron to 5 micron in-line or add-on filter.
 - Do not co-administer other drugs through the same infusion line.

@@ -106,8 +106,7 @@ Immune-mediated rashes, including SJS, TEN (some cases with fatal outcome), exfo
 Monitor patients for suspected severe skin reactions and exclude other causes.
 Based on the severity of the adverse reaction, withhold or permanently discontinue KEYTRUDA and administer corticosteroids.
 For signs or symptoms of SJS or TEN, withhold KEYTRUDA and refer the patient for specialized care for assessment and treatment.
-If SJS or TEN is confirmed, permanently discontinue KEYTRUDA.
-[See Dosage and Administration (2.13).]
+If SJS or TEN is confirmed, permanently discontinue KEYTRUDA [see Dosage and Administration (2.13)].
 
 ## 5.7 Other Immune-Mediated Adverse Reactions
 
@@ -122,7 +121,7 @@ Resume KEYTRUDA when the immune-mediated adverse reaction remains at Grade 1 or 
 Permanently discontinue KEYTRUDA for any Grade 3 immune-mediated adverse reaction that recurs and for any life-threatening immune-mediated adverse reaction [see Dosage and Administration (2.13) and Adverse Reactions (6.1)].
 
 The following clinically significant, immune-mediated adverse reactions occurred in less than 1% (unless otherwise indicated) of 2799 patients treated with KEYTRUDA: arthritis (1.5%), uveitis, myositis, Guillain-Barré syndrome, myasthenia gravis, vasculitis, pancreatitis, hemolytic anemia, sarcoidosis, and encephalitis.
-In addition, myelitis and myocarditis were reported in other clinical trials, including cHL, and post-marketing use.
+In addition, myelitis and myocarditis were reported in other trials, including cHL, and post-marketing use.
 
 Solid organ transplant rejection has been reported in the post-marketing setting in patients treated with KEYTRUDA.
 Treatment with KEYTRUDA may increase the risk of rejection in solid organ transplant recipients.
@@ -152,12 +151,12 @@ Consider the benefit of treatment with KEYTRUDA versus the risk of possible GVHD
 
 ## 5.10 Increased Mortality in Patients with Multiple Myeloma when KEYTRUDA is Added to a Thalidomide Analogue and Dexamethasone
 
-In two randomized clinical trials in patients with multiple myeloma, the addition of KEYTRUDA to a thalidomide analogue plus dexamethasone, a use for which no PD-1 or PD-L1 blocking antibody is indicated, resulted in increased mortality.
-Treatment of patients with multiple myeloma with a PD-1 or PD-L1 blocking antibody in combination with a thalidomide analogue plus dexamethasone is not recommended outside of controlled clinical trials.
+In two randomized trials in patients with multiple myeloma, the addition of KEYTRUDA to a thalidomide analogue plus dexamethasone, a use for which no PD-1 or PD-L1 blocking antibody is indicated, resulted in increased mortality.
+Treatment of patients with multiple myeloma with a PD-1 or PD-L1 blocking antibody in combination with a thalidomide analogue plus dexamethasone is not recommended outside of controlled trials.
 
 ## 5.11 Embryo-Fetal Toxicity
 
 Based on its mechanism of action, KEYTRUDA can cause fetal harm when administered to a pregnant woman.
 Animal models link the PD-1/PD-L1 signaling pathway with maintenance of pregnancy through induction of maternal immune tolerance to fetal tissue.
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, apprise the patient of the potential hazard to a fetus.
-Advise females of reproductive potential to use highly effective contraception during treatment with KEYTRUDA and for 4 months after the last dose of KEYTRUDA [see Use in Specific Populations (8.1, 8.3)].
+Advise women of the potential risk to a fetus.
+Advise females of reproductive potential to use effective contraception during treatment with KEYTRUDA and for 4 months after the last dose [see Use in Specific Populations (8.1, 8.3)].

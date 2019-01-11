@@ -5,10 +5,10 @@
 Risk Summary
 
 Based on its mechanism of action, KEYTRUDA can cause fetal harm when administered to a pregnant woman.
+There are no available human data informing the risk of embryo-fetal toxicity.
 In animal models, the PD-1/PD-L1 signaling pathway is important in the maintenance of pregnancy through induction of maternal immune tolerance to fetal tissue [see Data].
 Human IgG4 (immunoglobulins) are known to cross the placenta; therefore, pembrolizumab has the potential to be transmitted from the mother to the developing fetus.
-There are no available human data informing the risk of embryo-fetal toxicity.
-Apprise pregnant women of the potential risk to a fetus.
+Advise pregnant women of the potential risk to a fetus.
 
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
@@ -16,8 +16,8 @@ Data
 
 Animal Data
 
-Animal reproduction studies have not been conducted with KEYTRUDA to evaluate its effect on reproduction and fetal development, but an assessment of the effects on reproduction was provided.
-A central function of the PD-1/PD-L1 pathway is to preserve pregnancy by maintaining maternal immune tolerance to the fetus.
+Animal reproduction studies have not been conducted with KEYTRUDA to evaluate its effect on reproduction and fetal development.
+A literature-based asessment of the effects of the PD-1 pathway on reproduction demonstrated that a central function of the PD-1/PD-L1 pathway is to preserve pregnancy by maintaining maternal immune tolerance to the fetus.
 Blockade of PD-L1 signaling has been shown in murine models of pregnancy to disrupt tolerance to the fetus and to result in an increase in fetal loss; therefore, potential risks of administering KEYTRUDA during pregnancy include increased rates of abortion or stillbirth.
 As reported in the literature, there were no malformations related to the blockade of PD-1 signaling in the offspring of these animals; however, immune-mediated disorders occurred in PD-1 knockout mice.
 Based on its mechanism of action, fetal exposure to pembrolizumab may increase the risk of developing immune-mediated disorders or of altering the normal immune response.
@@ -26,27 +26,34 @@ Based on its mechanism of action, fetal exposure to pembrolizumab may increase t
 
 Risk Summary
 
-It is not known whether KEYTRUDA is excreted in human milk.
-No studies have been conducted to assess the impact of KEYTRUDA on milk production or its presence in breast milk.
-Because many drugs are excreted in human milk, instruct women to discontinue nursing during treatment with KEYTRUDA and for 4 months after the final dose.
+There are no data on the presence of pembrolizumab in either animal or human milk or its effects on the breastfed child or on milk production.
+Because of the potential for serious adverse reactions in breastfed children, advise women not to breastfeed during treatment with KEYTRUDA and for 4 months after the final dose.
 
 ## 8.3 Females and Males of Reproductive Potential
 
+Pregnancy Testing
+
+Verify pregnancy status in females of reproductive potential prior to initiating KEYTRUDA [see Use in Specific Populations (8.1)].
+
 Contraception
 
-Based on its mechanism of action, KEYTRUDA can cause fetal harm when administered to a pregnant woman [see Warnings and Precautions (5.11) and Use in Specific Populations (8.1)].
+KEYTRUDA can cause fetal harm when administered to a pregnant woman [see Warnings and Precautions (5.11), Use in Specific Populations (8.1)].
 Advise females of reproductive potential to use effective contraception during treatment with KEYTRUDA and for at least 4 months following the final dose.
 
 ## 8.4 Pediatric Use
 
+The safety and effectiveness of KEYTRUDA have been established in pediatric patients with cHL, PMBCL, and MSI-H cancer.
+Use of KEYTRUDA in pediatric patients with cHL, PMBCL, and MSI-H cancers is supported by evidence from adequate and well-controlled studies of KEYTRUDA in adults with additional pharmacokinetic and safety data in pediatric patients [see Adverse Reactions (6.1), Clinical Studies (14,4, 14.5, 14.7), Clinical Pharmacology (12.3)].
+
 There is limited experience with KEYTRUDA in pediatric patients.
-In a study, 40 pediatric patients (16 children ages 2 years to less than 12 years and 24 adolescents ages 12 years to 18 years) with advanced melanoma, lymphoma, or PD-L1 positive advanced, relapsed, or refractory solid tumors were administered KEYTRUDA 2 mg/kg every 3 weeks.
+In a trial (NCT02332668), 40 pediatric patients (16 children ages 2 years to less than 12 years and 24 adolescents ages 12 years to 18 years) with various cancers, including unapproved usages were administered KEYTRUDA 2 mg/kg every 3 weeks.
 Patients received KEYTRUDA for a median of 3 doses (range: 1-17 doses), with 34 patients (85%) receiving KEYTRUDA for 2 doses or more.
+
+The safety profile in these pediatric patients was similar to that seen in adults; adverse reactions that occurred at a higher rate (≥15% difference) in pediatric patients when compared to adults <65 years of age were fatigue (45%), vomiting (38%), abdominal pain (28%), increased transaminases (28%) and hyponatremia (18%).
+
 The concentrations of pembrolizumab in pediatric patients were comparable to those observed in adult patients at the same dose regimen of 2 mg/kg every 3 weeks.
 
-The safety profile in these pediatric patients was similar to that seen in adults treated with pembrolizumab; toxicities that occurred at a higher rate (≥15% difference) in pediatric patients when compared to adults under 65 years of age were fatigue (45%), vomiting (38%), abdominal pain (28%), hypertransaminasemia (28%) and hyponatremia (18%).
-
-Efficacy for pediatric patients with cHL, PMBCL, MSI-H cancers, or MCC is extrapolated from the results in the respective adult populations [see Clinical Studies (14.4, 14.5, 14.7, 14.11)].
+The safety and effectiveness of KEYTRUDA in pediatric patients have not been established in the other approved indications [see Indications and Usage (1)].
 
 ## 8.5 Geriatric Use
 
