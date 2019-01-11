@@ -4,7 +4,7 @@
 
 Fluticasone furoate and vilanterol are substrates of CYP3A4.
 Concomitant administration of the strong CYP3A4 inhibitor ketoconazole increases the systemic exposure to fluticasone furoate and vilanterol.
-Caution should be exercised when considering the coadministration of TRELEGY ELLIPTA with long-term ketoconazole and other known strong CYP3A4 inhibitors (e.g., ritonavir, clarithromycin, conivaptan, indinavir, itraconazole, lopinavir, nefazodone, nelfinavir, saquinavir, telithromycin, troleandomycin, voriconazole) [see Warnings and Precautions (5.9), Clinical Pharmacology (12.3)].
+Caution should be exercised when considering the coadministration of TRELEGY ELLIPTA with ketoconazole and other known strong CYP3A4 inhibitors (e.g., ritonavir, clarithromycin, conivaptan, indinavir, itraconazole, lopinavir, nefazodone, nelfinavir, saquinavir, telithromycin, troleandomycin, voriconazole) [see Warnings and Precautions (5.9), Clinical Pharmacology (12.3)].
 
 ## 7.2 Monoamine Oxidase Inhibitors and Tricyclic Antidepressants
 

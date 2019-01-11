@@ -56,9 +56,9 @@ Reduction in Bone Mineral Density
 
 Advise patients who are at an increased risk for decreased BMD that the use of corticosteroids may pose an additional risk.
 
-Ocular Effects
+Glaucoma and Cataracts
 
-Inform patients that long-term use of ICS may increase the risk of some eye problems (cataracts or glaucoma); consider regular eye examinations.
+Advise patients that long-term use of ICS may increase the risk of some eye problems (cataracts or glaucoma); consider regular eye examinations.
 
 Instruct patients to be alert for signs and symptoms of acute narrow-angle glaucoma (e.g., eye pain or discomfort, blurred vision, visual halos or colored images in association with red eyes from conjunctival congestion and corneal edema).
 Instruct patients to consult a physician immediately if any of these signs or symptoms develop.
@@ -80,6 +80,6 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2018 GSK group of companies or its licensor.
+©2019 GSK group of companies or its licensor.
 
-TRL:3PI
+TRL:4PI

@@ -124,7 +124,7 @@ Fluticasone Furoate: The plasma elimination half-life following repeat-dose inha
 Following intravenous dosing with radiolabeled fluticasone furoate, mass balance showed 90% of the radiolabel in the feces and 2% in the urine.
 Following oral dosing, radiolabel recovered in feces was 101% of the total dose and that in urine was approximately 1% of the total dose.
 
-Umeclidinium: The effective half-life after once-daily dosing is 11 hours.
+Umeclidinium: The effective half-life after once-daily oral dosing is 11 hours.
 Following intravenous dosing with radiolabeled umeclidinium, mass balance showed 58% of the radiolabel in the feces and 22% in the urine.
 The excretion of the drug-related material in the feces following intravenous dosing indicated elimination in the bile.
 Following oral dosing to healthy male subjects, radiolabel recovered in feces was 92% of the total dose and that in urine was <1% of the total dose, suggesting negligible oral absorption.

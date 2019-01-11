@@ -105,7 +105,7 @@ If such effects occur, appropriate therapy should be considered.
 
 ## 5.9 Drug Interactions with Strong Cytochrome P450 3A4 Inhibitors
 
-Caution should be exercised when considering the coadministration of TRELEGY ELLIPTA with long-term ketoconazole and other known strong CYP3A4 inhibitors (e.g., ritonavir, clarithromycin, conivaptan, indinavir, itraconazole, lopinavir, nefazodone, nelfinavir, saquinavir, telithromycin, troleandomycin, voriconazole) because increased systemic corticosteroid and increased cardiovascular adverse effects may occur [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
+Caution should be exercised when considering the coadministration of TRELEGY ELLIPTA with ketoconazole and other known strong CYP3A4 inhibitors (e.g., ritonavir, clarithromycin, conivaptan, indinavir, itraconazole, lopinavir, nefazodone, nelfinavir, saquinavir, telithromycin, troleandomycin, voriconazole) because increased systemic corticosteroid and increased cardiovascular adverse effects may occur [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
 
 ## 5.10 Paradoxical Bronchospasm
 
@@ -147,7 +147,7 @@ Glaucoma, increased intraocular pressure, and cataracts have been reported in pa
 TRELEGY ELLIPTA should be used with caution in patients with narrow-angle glaucoma.
 Prescribers and patients should also be alert for signs and symptoms of acute narrow-angle glaucoma (e.g., eye pain or discomfort, blurred vision, visual halos or colored images in association with red eyes from conjunctival congestion and corneal edema).
 Instruct patients to consult a healthcare provider immediately if any of these signs or symptoms develop.
-Close monitoring is warranted in patients with a change in vision or with a history of increased intraocular pressure, narrow- or open-angle glaucoma, and/or cataracts.
+Consider referral to an ophthalmologist in patients who develop ocular symptoms or use TRELEGY ELLIPTA long term.
 
 ## 5.15 Worsening of Urinary Retention
 
