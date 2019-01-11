@@ -14,12 +14,12 @@ Administer in a facility equipped to manage possible complications (e.g. anaphyl
 
 - For treatment after failure of prior platinum-based chemotherapy, Docetaxel Injection was evaluated as monotherapy, and the recommended dose is 75 mg/m2 administered intravenously over 1 hour every 3 weeks.
   A dose of 100 mg/m2 in patients previously treated with chemotherapy was associated with increased hematologic toxicity, infection, and treatment-related mortality in randomized, controlled trials [see Boxed Warning, Dosage and Administration (2.7), Warnings and Precautions (5), Clinical Studies (14)].
-- For chemotherapy-naïve patients, Docetaxel Injection was evaluated in combination with cisplatin.
+- For chemotherapy-naive patients, Docetaxel Injection was evaluated in combination with cisplatin.
   The recommended dose of Docetaxel Injection is 75 mg/m2 administered intravenously over 1 hour immediately followed by cisplatin 75 mg/m2 over 30 to 60 minutes every 3 weeks [see Dosage and Administration (2.7)].
 
 ## 2.3 Prostate Cancer
 
-- For hormone-refractory metastatic prostate cancer, the recommended dose of Docetaxel Injection is 75 mg/m2 every 3 weeks as a 1 hour intravenous infusion.
+- For metastatic castration-resistant prostate cancer, the recommended dose of Docetaxel Injection is 75 mg/m2 every 3 weeks as a 1 hour intravenous infusion.
   Prednisone 5 mg orally twice daily is administered continuously [see Dosage and Administration (2.7)].
 
 ## 2.4 Gastric Adenocarcinoma
@@ -44,9 +44,9 @@ All patients treated on the Docetaxel Injection containing arms of the TAX323 an
 
 ## 2.6 Premedication Regimen
 
-All patients should be premedicated with oral corticosteroids (see below for prostate cancer) such as dexamethasone 16 mg per day (e.g., 8 mg twice daily) for 3 days starting 1 day prior to Docetaxel Injection administration in order to reduce the incidence and severity of fluid retention as well as the severity of hypersensitivity reactions [see Boxed Warning, Warnings and Precautions (5.4)].
+All patients should be premedicated with oral corticosteroids (see below for prostate cancer) such as dexamethasone 16 mg per day (e.g., 8 mg twice daily) for 3 days starting 1 day prior to Docetaxel Injection administration in order to reduce the incidence and severity of fluid retention as well as the severity of hypersensitivity reactions [see Boxed Warning, Warnings and Precautions (5.5)].
 
-For hormone-refractory metastatic prostate cancer, given the concurrent use of prednisone, the recommended premedication regimen is oral dexamethasone 8 mg, at 12 hours, 3 hours and 1 hour before the Docetaxel Injection infusion [see Warnings and Precautions (5.4)].
+For metastatic castration-resistant prostate cancer, given the concurrent use of prednisone, the recommended premedication regimen is oral dexamethasone 8 mg, at 12 hours, 3 hours and 1 hour before the Docetaxel Injection infusion [see Warnings and Precautions (5.5)].
 
 ## 2.7 Dosage Adjustments During Treatment
 
@@ -73,7 +73,7 @@ Monotherapy with Docetaxel Injection for NSCLC treatment after failure of prior 
 Patients who are dosed initially at 75 mg/m2 and who experience either febrile neutropenia, neutrophils <500 cells/mm3 for more than one week, severe or cumulative cutaneous reactions, or other grade 3/4 non-hematological toxicities during Docetaxel Injection treatment should have treatment withheld until resolution of the toxicity and then resumed at 55 mg/m2.
 Patients who develop ≥grade 3 peripheral neuropathy should have Docetaxel Injection treatment discontinued entirely.
 
-Combination therapy with Docetaxel Injection for chemotherapy-naïve NSCLC
+Combination therapy with Docetaxel Injection for chemotherapy-naive NSCLC
 
 For patients who are dosed initially at Docetaxel Injection 75 mg/m2 in combination with cisplatin, and whose nadir of platelet count during the previous course of therapy is <25,000 cells/mm3, in patients who experience febrile neutropenia, and in patients with serious non-hematologic toxicities, the Docetaxel Injection dosage in subsequent cycles should be reduced to 65 mg/m2.
 In patients who require a further dose reduction, a dose of 50 mg/m2 is recommended.
@@ -109,13 +109,11 @@ Recommended dose modifications for toxicities in patients treated with Docetaxel
 | Stomatitis/mucositis grade 3 | First episode: reduce fluorouracil dose by 20%. Second episode: stop fluorouracil only, at all subsequent cycles. Third episode: reduce Docetaxel Injection dose by 20%. |
 | Stomatitis/mucositis grade 4 | First episode: stop fluorouracil only, at all subsequent cycles. Second episode: reduce Docetaxel Injection dose by 20%. |
 
-Liver dysfunction:
-
-In case of AST/ALT >2.5 to ≤5 x ULN and AP ≤2.5 x ULN, or AST/ALT >1.5 to ≤5 x ULN and AP >2.5 to ≤5 x ULN, Docetaxel Injection should be reduced by 20%.
+Liver dysfunction: In case of AST/ALT >2.5 to ≤5 x ULN and AP ≤2.5 x ULN, or AST/ALT >1.5 to ≤5 x ULN and AP >2.5 to ≤5 x ULN, Docetaxel Injection should be reduced by 20%.
 
 In case of AST/ALT >5 x ULN and/or AP >5 x ULN Docetaxel Injection should be stopped.
 
-The dose modifications for cisplatin and fluorouracil in the gastric cancer study are provided below:
+The dose modifications for cisplatin and fluorouracil in the gastric cancer study are provided below.
 
 Cisplatin dose modifications and delays
 
@@ -136,12 +134,11 @@ Table 2 – Dose Reductions for Evaluation of Creatinine Clearance
 | Creatinine clearance result before next cycle | Cisplatin dose next cycle |
 | --- | --- |
 | CrCl ≥60 mL/min | Full dose of cisplatin was given. CrCl was to be repeated before each treatment cycle. |
-|  | Dose of cisplatin was reduced by 50% at subsequent cycle. If CrCl was |
-| CrCl between 40 and 59 mL/min | >60 mL/min at end of cycle, full cisplatin dose was reinstituted at the next cycle. |
+| CrCl between 40 and 59 mL/min | Dose of cisplatin was reduced by 50% at subsequent cycle. If CrCl was >60 mL/min at end of cycle, full cisplatin dose was reinstituted at the next cycle. |
 |  | If no recovery was observed, then cisplatin was omitted from the next treatment cycle. |
-|  | Dose of cisplatin was omitted in that treatment cycle only. |
+| CrCl <40 mL/min | Dose of cisplatin was omitted in that treatment cycle only. |
 |  | If CrCl was still <40 mL/min at the end of cycle, cisplatin was discontinued. |
-| CrCl <40 mL/min | If CrCl was >40 and <60 mL/min at end of cycle, a 50% cisplatin dose was given at the next cycle. |
+|  | If CrCl was >40 and <60 mL/min at end of cycle, a 50% cisplatin dose was given at the next cycle. |
 |  | If CrCl was >60 mL/min at end of cycle, full cisplatin dose was given at next cycle. |
 | CrCl = Creatinine clearance |  |
 
@@ -166,12 +163,13 @@ Based on extrapolation from a pharmacokinetic study with ketoconazole in 7 patie
 
 Docetaxel Injection is a cytotoxic anticancer drug and, as with other potentially toxic compounds, caution should be exercised when handling and preparing Docetaxel Injection solutions.
 The use of gloves is recommended.
-Please refer to [see How Supplied/ Storage and Handling (16.3)].
+Please refer to [see How Supplied/Storage and Handling (16.3)].
 
-If Docetaxel Injection, or diluted infusion solution should come into contact with the skin or mucosa, wash immediately and thoroughly with soap and water.
+If Docetaxel Injection initial diluted solution, or final dilution for infusion should come into contact with the skin, immediately and thoroughly wash with soap and water.
+If Docetaxel Injection initial diluted solution, or final dilution for infusion should come into contact with mucosa, immediately and thoroughly wash with water.
 
-Do not use plasticized PVC equipment or devices that come in direct contact with Docetaxel Injection solution during preparation and administration of solutions for infusion.
-In order to minimize patient exposure to the plasticizer DEHP (di-2-ethylhexyl phthalate), which may leach from PVC infusion bags or sets, the diluted docetaxel infusion solution should be stored in bottles made of glass, polypropylene or plastic bags made with polypropylene, polyolefin and administered through polyethylene-lined administration sets.
+Contact of the Docetaxel Injection with plasticized PVC equipment or devices used to prepare solutions for infusion is not recommended.
+In order to minimize patient exposure to the plasticizer DEHP (di-2-ethylhexyl phthalate), which may be leached from PVC infusion bags or sets, the final Docetaxel Injection dilution for infusion should be stored in bottles (glass, polypropylene) or plastic bags (polypropylene, polyolefin) and administered through polyethylene-lined administration sets.
 
 One-vial Docetaxel Injection
 
@@ -194,8 +192,7 @@ Use only a 21 gauge needle to withdraw Docetaxel Injection from the vial because
 3. Thoroughly mix the infusion solution by gentle manual rotation.
 4. As with all parenteral products, Docetaxel Injection should be inspected visually for particulate matter or discoloration prior to administration whenever the solution and container permit.
    If the Docetaxel Injection dilution for intravenous infusion is not clear or appears to have precipitation, it should be discarded.
-
-The Docetaxel Injection dilution for infusion should be administered intravenously as a 1-hour infusion under ambient room temperature (below 25°C) and lighting conditions.
+5. The Docetaxel Injection dilution for infusion should be administered intravenously as a 1-hour infusion under ambient room temperature (below 25°C) and lighting conditions.
 
 ## 2.10 Stability
 

@@ -2,15 +2,15 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see ‘Warnings and Precautions’ section]
+Pregnancy Category D [see Warnings and Precautions (5.13)]
 
 Based on its mechanism of action and findings in animals, Docetaxel Injection can cause fetal harm when administered to a pregnant woman.
 If Docetaxel Injection is used during pregnancy, or if the patient becomes pregnant while receiving this drug, the patient should be apprised of the potential hazard to the fetus.
-Women of childbearing potential should be advised to avoid becoming pregnant during therapy with Docetaxel Injection.
+Women of childbearing potential should be advised to avoid becoming pregnant during therapy with Docetaxel Injection [see Warnings and Precautions (5.13)].
 
 Docetaxel Injection can cause fetal harm when administered to a pregnant woman.
 Studies in both rats and rabbits at doses ≥0.3 and 0.03 mg/kg/day, respectively (about 1/50 and 1/300 the daily maximum recommended human dose on a mg/m2 basis), administered during the period of organogenesis, have shown that Docetaxel Injection is embryotoxic and fetotoxic (characterized by intrauterine mortality, increased resorption, reduced fetal weight, and fetal ossification delay).
-The doses indicated above also caused maternal toxicity.
+The doses indicated above also caused maternal toxicity [see Warnings and Precautions (5.13)].
 
 ## 8.3 Nursing Mothers
 
@@ -58,13 +58,13 @@ In general, dose selection for an elderly patient should be cautious, reflecting
 
 Non-Small Cell Lung Cancer
 
-In a study conducted in chemotherapy-naïve patients with NSCLC (TAX326), 148 patients (36%) in the Docetaxel Injection+cisplatin group were 65 years of age or greater.
+In a study conducted in chemotherapy-naive patients with NSCLC (TAX326), 148 patients (36%) in the Docetaxel Injection+cisplatin group were 65 years of age or greater.
 There were 128 patients (32%) in the vinorelbine+cisplatin group 65 years of age or greater.
 In the Docetaxel Injection+cisplatin group, patients less than 65 years of age had a median survival of 10.3 months (95% CI: 9.1 months, 11.8 months) and patients 65 years or older had a median survival of 12.1 months (95% CI: 9.3 months, 14 months).
 In patients 65 years of age or greater treated with Docetaxel Injection+cisplatin, diarrhea (55%), peripheral edema (39%) and stomatitis (28%) were observed more frequently than in the vinorelbine+cisplatin group (diarrhea 24%, peripheral edema 20%, stomatitis 20%).
 Patients treated with Docetaxel Injection+cisplatin who were 65 years of age or greater were more likely to experience diarrhea (55%), infections (42%), peripheral edema (39%) and stomatitis (28%) compared to patients less than the age of 65 administered the same treatment (43%, 31%, 31% and 21%, respectively).
 
-When Docetaxel Injection was combined with carboplatin for the treatment of chemotherapy-naïve, advanced non-small cell lung carcinoma, patients 65 years of age or greater (28%) experienced higher frequency of infection compared to similar patients treated with Docetaxel Injection+cisplatin, and a higher frequency of diarrhea, infection and peripheral edema than elderly patients treated with vinorelbine+cisplatin.
+When Docetaxel Injection was combined with carboplatin for the treatment of chemotherapy-naive, advanced non-small cell lung carcinoma, patients 65 years of age or greater (28%) experienced higher frequency of infection compared to similar patients treated with Docetaxel Injection+cisplatin, and a higher frequency of diarrhea, infection and peripheral edema than elderly patients treated with vinorelbine+cisplatin.
 
 Prostate Cancer
 
