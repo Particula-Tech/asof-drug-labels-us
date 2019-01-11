@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA207475"
+  ],
+  "inn": "azacitidine",
+  "labeler": "Accord Healthcare Inc.",
+  "package_ndcs": [
+    "16729-306-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "azacitidine",
+      "name": "Azacitidine"
+    }
+  ],
+  "setid": "70140e11-33f1-2240-e053-2991aa0a0480",
+  "source": "dailymed"
+}
