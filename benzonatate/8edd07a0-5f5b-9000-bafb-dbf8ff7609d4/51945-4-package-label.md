@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 100 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 100 mg Perle Bottle Label
 
 NDC 0069-0122-01
 
