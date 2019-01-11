@@ -2,7 +2,7 @@
 
 These solutions are not for spinal anesthesia.
 
-Store at 20 to 25°C (68 to 77°F).
+Store at 20 to 25°C (68 to 77°F); excursions permitted between 15° to 30°C (59° to 86°F).
 [See USP Controlled Room Temperature.]
 
 MARCAINE―Solutions of MARCAINE that do not contain epinephrine may be autoclaved.
@@ -36,8 +36,10 @@ Do not use the solution if its color is pinkish or darker than slightly yellow o
 | NDC 0409-1749-29Carton of 10 | 150 mg/30 mL(5 mg/mL) | NDC 0409-1749-71Single-dose vial |
 | NDC 0409-1755-50Carton of 1 | 250 mg/50 mL(5 mg/mL) | NDC 0409-1755-50Multiple-dose vial |
 
+For single-dose vials: Discard unused portion.
+
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-1178-1.0
+LAB-1178-2.0
 
-Revised: 11/2017
+Revised: 11/2018

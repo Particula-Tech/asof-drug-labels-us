@@ -7,6 +7,16 @@ LOCAL ANESTHETICS SHOULD ONLY BE EMPLOYED BY CLINICIANS WHO ARE WELL VERSED IN D
 (See also ADVERSE REACTIONS, PRECAUTIONS, and OVERDOSAGE.)
 DELAY IN PROPER MANAGEMENT OF DOSE-RELATED TOXICITY, UNDERVENTILATION FROM ANY CAUSE, AND/OR ALTERED SENSITIVITY MAY LEAD TO THE DEVELOPMENT OF ACIDOSIS, CARDIAC ARREST AND, POSSIBLY, DEATH.
 
+Methemoglobinemia: Cases of methemoglobinemia have been reported in association with local anesthetic use.
+Although all patients are at risk for methemoglobinemia, patients with glucose-6-phosphate dehydrogenase deficiency, congenital or idiopathic methemoglobinemia, cardiac or pulmonary compromise, infants under 6 months of age, and concurrent exposure to oxidizing agents or their metabolites are more susceptible to developing clinical manifestations of the condition.
+If local anesthetics must be used in these patients, close monitoring for symptoms and signs of methemoglobinemia is recommended.
+
+Signs of methemoglobinemia may occur immediately or may be delayed some hours after exposure, and are characterized by a cyanotic skin discoloration and/or abnormal coloration of the blood.
+Methemoglobin levels may continue to rise; therefore, immediate treatment is required to avert more serious CNS and cardiovascular adverse effects, including seizures, coma, arrhythmias, and death.
+Discontinue MARCAINE and any other oxidizing agents.
+Depending on the severity of the signs and symptoms, patients may respond to supportive care, i.e., oxygen therapy, hydration.
+A more severe clinical presentation may require treatment with methylene blue, exchange transfusion, or hyperbaric oxygen.
+
 Local anesthetic solutions containing antimicrobial preservatives, i.e., those supplied in multiple-dose vials, should not be used for epidural or caudal anesthesia because safety has not been established with regard to intrathecal injection, either intentionally or unintentionally, of such preservatives.
 
 Intra-articular infusions of local anesthetics following arthroscopic and other surgical procedures is an unapproved use, and there have been post-marketing reports of chondrolysis in patients receiving such infusions.
@@ -66,7 +76,7 @@ Debilitated, elderly patients and acutely ill patients should be given reduced d
 Local anesthetics should also be used with caution in patients with hypotension or heartblock.
 
 Careful and constant monitoring of cardiovascular and respiratory (adequacy of ventilation) vital signs and the patient's state of consciousness should be performed after each local anesthetic injection.
-It should be kept in mind at such times that restlessness, anxiety, incoherent speech, lightheadedness, numbness and tingling of the mouth and lips, metallic taste, tinnitus, dizziness, blurred vision, tremors, twitching, depression, or drowsiness may be early warning signs of central nervous system toxicity.
+It should be kept in mind at such times that restlessness, anxiety, incoherent speech, lightheadedness, numbness and tingling of the mouth and lips, metallic taste, tinnitus, dizziness, blurred vision, tremors, twitching, depression, or drowsiness may be early warning signs of CNS toxicity.
 
 Local anesthetic solutions containing a vasoconstrictor should be used cautiously and in carefully restricted quantities in areas of the body supplied by end arteries or having otherwise compromised blood supply such as digits, nose, external ear, or penis.
 Patients with hypertensive vascular disease may exhibit exaggerated vasoconstrictor response.
@@ -110,6 +120,9 @@ Also, when appropriate, the physician should discuss other information including
 
 Patients receiving dental injections of MARCAINE should be cautioned not to chew solid foods or test the anesthetized area by biting or probing until anesthesia has worn off (up to 7 hours).
 
+Inform patients that use of local anesthetics may cause methemoglobinemia, a serious condition that must be treated promptly.
+Advise patients or caregivers to seek immediate medical attention if they or someone in their care experience the following signs or symptoms: pale, gray, or blue colored skin (cyanosis); headache; rapid heart rate; shortness of breath; lightheadedness; or fatigue.
+
 Clinically Significant Drug Interactions: The administration of local anesthetic solutions containing epinephrine or norepinephrine to patients receiving monoamine oxidase inhibitors or tricyclic antidepressants may produce severe, prolonged hypertension.
 Concurrent use of these agents should generally be avoided.
 In situations when concurrent therapy is necessary, careful patient monitoring is essential.
@@ -117,6 +130,20 @@ In situations when concurrent therapy is necessary, careful patient monitoring i
 Concurrent administration of vasopressor drugs and of ergot-type oxytocic drugs may cause severe, persistent hypertension or cerebrovascular accidents.
 
 Phenothiazines and butyrophenones may reduce or reverse the pressor effect of epinephrine.
+
+Patients who are administered local anesthetics are at increased risk of developing methemoglobinemia when concurrently exposed to following drugs, which could include other local anesthetics:
+
+Examples of Drugs Associated with Methemoglobinemia:
+
+| Class | Examples |
+| --- | --- |
+| Nitrates/Nitrites | nitric oxide, nitroglycerin, nitroprusside, nitrous oxide |
+| Local anesthetics | articaine, benzocaine, bupivacaine, lidocaine, mepivacaine, prilocaine, procaine, ropivacaine, tetracaine |
+| Antineoplastic agents | cyclophosphamide, flutamide, hydroxyurea, isofamide, rasburicase |
+| Antibiotics | dapsone, nitrofurantoin, para-aminosalicylic acid, sulfonamides |
+| Antimalarials | chloroquine, primaquine |
+| Anticonvulsants | phenobarbital, phenytoin, sodium valproate |
+| Other drugs | acetaminophen, metoclopramide, quinine, sulfasalazine |
 
 Carcinogenesis, Mutagenesis, Impairment of Fertility: Long-term studies in animals to evaluate the carcinogenic potential of bupivacaine hydrochloride have not been conducted.
 The mutagenic potential and the effect on fertility of bupivacaine hydrochloride have not been determined.
@@ -140,7 +167,7 @@ MARCAINE is contraindicated for obstetrical paracervical block anesthesia.
 
 Local anesthetics rapidly cross the placenta, and when used for epidural, caudal, or pudendal block anesthesia, can cause varying degrees of maternal, fetal, and neonatal toxicity (See CLINICAL PHARMACOLOGY, Pharmacokinetics).
 The incidence and degree of toxicity depend upon the procedure performed, the type, and amount of drug used, and the technique of drug administration.
-Adverse reactions in the parturient, fetus, and neonate involve alterations of the central nervous system, peripheral vascular tone, and cardiac function.
+Adverse reactions in the parturient, fetus, and neonate involve alterations of the CNS, peripheral vascular tone, and cardiac function.
 
 Maternal hypotension has resulted from regional anesthesia.
 Local anesthetics produce vasodilation by blocking sympathetic nerves.

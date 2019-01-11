@@ -22,10 +22,10 @@ Onset of action may be slower than with the 0.5% or 0.75% solutions.
 Most useful for epidural block in abdominal operations requiring complete muscle relaxation, and for retrobulbar anesthesia.
 Not for obstetrical anesthesia.
 
-The duration of anesthesia with MARCAINE is such that for most indications, a single dose is sufficient.
+The duration of anesthesia with MARCAINE is such that for most indications, a single-dose is sufficient.
 
 Maximum dosage limit must be individualized in each case after evaluating the size and physical status of the patient, as well as the usual rate of systemic absorption from a particular injection site.
-Most experience to date is with single doses of MARCAINE up to 225 mg with epinephrine 1:200,000 and 175 mg without epinephrine; more or less drug may be used depending on individualization of each case.
+Most experience to date is with single-doses of MARCAINE up to 225 mg with epinephrine 1:200,000 and 175 mg without epinephrine; more or less drug may be used depending on individualization of each case.
 
 These doses may be repeated up to once every three hours.
 In clinical studies to date, total daily doses have been up to 400 mg.
