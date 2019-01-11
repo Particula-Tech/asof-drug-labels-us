@@ -14,7 +14,15 @@ Maintenance Treatment While there is no body of evidence available to answer the
 No additional benefit was demonstrated for doses above 20 mg twice daily.
 Patients should be periodically reassessed to determine the need for maintenance treatment.
 
-## 2.4 Dosing in Special Populations
+## 2.2 Bipolar I Disorder (Acute Mixed or Manic Episodes and Maintenance Treatment as an Adjunct to Lithium or Valproate)
 
-Dosage adjustments are generally not required on the basis of age, gender, race, or renal or hepatic impairment.
-Ziprasidone capsules are not approved for use in children or adolescents.
+Acute Treatment of Manic or Mixed Episodes
+
+Dose Selection-Oral ziprasidone should be administered at an initial daily dose of 40 mg twice daily with food.
+The dose may then be increased to 60 mg or 80 mg twice daily on the second day of treatment and subsequently adjusted on the basis of tolerance and efficacy within the range 40 mg to 80 mg twice daily.
+In the flexible-dose clinical trials, the mean daily dose administered was approximately 120 mg [see Clinical Studies (14.2)].
+
+Maintenance Treatment (as an adjunct to lithium or valproate)
+
+Continue treatment at the same dose on which the patient was initially stabilized, within the range of 40 mg to 80 mg twice daily with food.
+Patients should be periodically reassessed to determine the need for maintenance treatment [see Clinical Studies (14.2)].
