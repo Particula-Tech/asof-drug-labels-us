@@ -7,9 +7,9 @@ Based on the information above and the mechanism of action, there is a concern a
 While a causal relationship has not been established, rare cases of skin malignancy and lymphoma have been reported in patients treated with topical calcineurin inhibitors, including PROTOPIC Ointment.
 Therefore:
 
-- PROTOPIC Ointment should not be used in immunocompromised adults and children.
-- If signs and symptoms of atopic dermatitis do not improve within 6 weeks, patients should be re-examined by their healthcare provider and their diagnosis be confirmed (see PRECAUTIONS: General).
-- The safety of PROTOPIC Ointment has not been established beyond one year of non-continuous use.
+- •PROTOPIC Ointment should not be used in immunocompromised adults and children.
+- •If signs and symptoms of atopic dermatitis do not improve within 6 weeks, patients should be re-examined by their healthcare provider and their diagnosis be confirmed (see PRECAUTIONS: General).
+- •The safety of PROTOPIC Ointment has not been established beyond one year of non-continuous use.
 
 (See CLINICAL PHARMACOLOGY, boxed WARNING, INDICATIONS AND USAGE, and DOSAGE AND ADMINISTRATION).
 
@@ -73,14 +73,14 @@ A very small number of people who have used PROTOPIC Ointment have had cancer (f
 However, a link with PROTOPIC Ointment has not been shown.
 Because of this concern, instruct patients:
 
-- Do not use PROTOPIC Ointment continuously for a long time.
-- Use PROTOPIC Ointment only on areas of skin that have eczema.
-- Do not use PROTOPIC Ointment on a child under 2 years old.
+- •Do not use PROTOPIC Ointment continuously for a long time.
+- •Use PROTOPIC Ointment only on areas of skin that have eczema.
+- •Do not use PROTOPIC Ointment on a child under 2 years old.
 
 PROTOPIC Ointment comes in two strengths:
 
-- Only PROTOPIC Ointment 0.03% is for use on children aged 2 to 15 years.
-- Either PROTOPIC Ointment 0.03% or 0.1% can be used by adults and children 16 years and older.
+- •Only PROTOPIC Ointment 0.03% is for use on children aged 2 to 15 years.
+- •Either PROTOPIC Ointment 0.03% or 0.1% can be used by adults and children 16 years and older.
 
 Advise patients to talk to their prescriber for more information.
 
@@ -88,29 +88,29 @@ How should PROTOPIC Ointment be used?
 
 Advise patients to:
 
-- Use PROTOPIC Ointment exactly as prescribed.
-- Use PROTOPIC Ointment only on areas of skin that have eczema.
-- Use PROTOPIC Ointment for short periods, and if needed, treatment may be repeated with breaks in between.
-- Stop PROTOPIC Ointment when the signs and symptoms of eczema, such as itching, rash, and redness go away, or as directed.
-- Follow their doctor’s advice if symptoms of eczema return after treatment with PROTOPIC Ointment.
-- Call their doctor if:
-  - Their symptoms get worse with PROTOPIC Ointment.
-  - They get an infection on their skin.
-  - Their symptoms do not improve after 6 weeks of treatment.
+- •Use PROTOPIC Ointment exactly as prescribed.
+- •Use PROTOPIC Ointment only on areas of skin that have eczema.
+- •Use PROTOPIC Ointment for short periods, and if needed, treatment may be repeated with breaks in between.
+- •Stop PROTOPIC Ointment when the signs and symptoms of eczema, such as itching, rash, and redness go away, or as directed.
+- •Follow their doctor’s advice if symptoms of eczema return after treatment with PROTOPIC Ointment.
+- •Call their doctor if:
+  - •Their symptoms get worse with PROTOPIC Ointment.
+  - •They get an infection on their skin.
+  - •Their symptoms do not improve after 6 weeks of treatment.
     Sometimes other skin diseases can look like eczema.
 
 To apply PROTOPIC Ointment:
 
 Advise patients:
 
-- Wash their hands before applying PROTOPIC.
-- Apply a thin layer of PROTOPIC Ointment twice daily to the areas of skin affected by eczema.
-- Use the smallest amount of PROTOPIC Ointment needed to control the signs and symptoms of eczema.
-- If they are a caregiver applying PROTOPIC Ointment to a patient, or if they are a patient who is not treating their hands, wash their hands with soap and water after applying PROTOPIC.
+- •Wash their hands before applying PROTOPIC.
+- •Apply a thin layer of PROTOPIC Ointment twice daily to the areas of skin affected by eczema.
+- •Use the smallest amount of PROTOPIC Ointment needed to control the signs and symptoms of eczema.
+- •If they are a caregiver applying PROTOPIC Ointment to a patient, or if they are a patient who is not treating their hands, wash their hands with soap and water after applying PROTOPIC.
   This should remove any ointment left on the hands.
-- Do not bathe, shower, or swim right after applying PROTOPIC.
+- •Do not bathe, shower, or swim right after applying PROTOPIC.
   This could wash off the ointment.
-- Moisturizers can be used with PROTOPIC Ointment.
+- •Moisturizers can be used with PROTOPIC Ointment.
   Make sure they check with their doctor first about the products that are right for them.
   Because the skin of patients with eczema can be very dry, it is important to keep up good skin care practices.
   If they use moisturizers, apply them after PROTOPIC Ointment.
@@ -119,13 +119,13 @@ What should patients avoid while using PROTOPIC Ointment?
 
 Advise patients:
 
-- Do not use ultraviolet light therapy, sun lamps, or tanning beds during treatment with PROTOPIC Ointment.
-- Limit sun exposure during treatment with PROTOPIC Ointment even when the medicine is not on their skin.
+- •Do not use ultraviolet light therapy, sun lamps, or tanning beds during treatment with PROTOPIC Ointment.
+- •Limit sun exposure during treatment with PROTOPIC Ointment even when the medicine is not on their skin.
   If patients need to be outdoors after applying PROTOPIC Ointment, wear loose fitting clothing that protects the treated area from the sun.
   Doctors should advise what other types of protection from the sun patients should use.
-- Do not cover the skin being treated with bandages, dressings or wraps.
+- •Do not cover the skin being treated with bandages, dressings or wraps.
   Patients can wear normal clothing.
-- Avoid getting PROTOPIC Ointment in the eyes or mouth.
+- •Avoid getting PROTOPIC Ointment in the eyes or mouth.
   Do not swallow PROTOPIC Ointment.
   Patients should call their doctor if they swallow PROTOPIC Ointment.
 
