@@ -2,7 +2,7 @@
 
 ## Mechanism of Action
 
-Clindamycin is an antibacterial drug (see Microbiology).
+Clindamycin is an antibacterial drug (See MICROBIOLOGY).
 
 ## Pharmacokinetics
 
@@ -17,5 +17,3 @@ These peak concentrations were attained approximately 14 hours post-dosing (rang
 
 There was little or no systemic accumulation of clindamycin after repeated vaginal dosing of clindamycin phosphate vaginal cream 2%.
 The systemic half-life was 1.5 to 2.6 hours.
-
-Although clindamycin phosphate is inactive in vitro, rapid in vivo hydrolysis converts this compound to the antibacterially active clindamycin.
