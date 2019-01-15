@@ -2,8 +2,6 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B
-
 Risk Summary
 
 There are no adequate and well controlled studies of DELZICOL use in pregnant women.

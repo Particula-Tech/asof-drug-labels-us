@@ -123,7 +123,7 @@ Renal: Renal failure, interstitial nephritis, minimal change nephropathy [see Wa
 
 Respiratory/Pulmonary: Eosinophilic pneumonia, interstitial pneumonitis, asthma exacerbation, pleuritis.
 
-Skin: Alopecia, psoriasis, pyoderma gangrenosus, dry skin, erythema nodosum, urticaria.
+Skin: Alopecia, psoriasis, pyoderma gangrenosum, dry skin, erythema nodosum, urticaria.
 
 Special Senses: Eye pain, taste perversion, blurred vision, tinnitus.
 
