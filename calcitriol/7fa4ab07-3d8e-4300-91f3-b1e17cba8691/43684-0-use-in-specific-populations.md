@@ -16,7 +16,7 @@ Based on the recommended human dose and instructions for use, it is not possible
 ## 8.3 Nursing Mothers
 
 It is not known whether calcitriol is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when calcitriol Ointment is administered to a nursing woman.
+Because many drugs are excreted in human milk, caution should be exercised when Calcitriol Ointment is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 

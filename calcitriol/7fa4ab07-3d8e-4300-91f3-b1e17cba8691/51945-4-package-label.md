@@ -1,9 +1,5 @@
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-LOT:
-
-EXP.:
-
 Rx Only
 
 NDC 45802-608-01
@@ -32,8 +28,8 @@ Made in Canada
 Marketed by: Perrigo
 
 Allegan, MI 49010 • www.perrigo.com Rev.
-12/14
+01/17
 
-P51946-1
+P51946-2
 
-:6Z3C1 RC C2
+:6Z3C1 RC C3
