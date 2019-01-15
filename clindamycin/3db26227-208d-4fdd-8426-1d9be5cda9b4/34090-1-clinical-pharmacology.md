@@ -2,7 +2,7 @@
 
 ## Mechanism of Action
 
-Clindamycin is an antibacterial drug (see Microbiology).
+Clindamycin is an antibacterial drug (See MICROBIOLOGY).
 
 ## Pharmacokinetics
 
@@ -17,5 +17,3 @@ The mean apparent elimination half-life after dosing with the suppository was 11
 The results from this study showed that systemic exposure to clindamycin (based on AUC) from the suppository was, on average, three-fold lower than that from a single subtherapeutic 100 mg intravenous dose of clindamycin.
 In addition, the recommended daily and total doses of intravaginal clindamycin suppository are far lower than those typically administered in oral or parenteral clindamycin therapy (100 mg of clindamycin per day for 3 days equivalent to about 30 mg absorbed per day from the ovule relative to 600 to 2700 mg/day for up to 10 days or more, orally or parenterally).
 The overall systemic exposure to clindamycin from Cleocin Vaginal Ovules is substantially lower than the systemic exposure from therapeutic doses of oral clindamycin hydrochloride (two-fold to 20-fold lower) or parenteral clindamycin phosphate (40-fold to 50-fold lower).
-
-Although clindamycin phosphate is inactive in vitro, rapid in vivo hydrolysis converts this compound to the antibacterially active clindamycin.
