@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "ANDA204189"
+  ],
+  "inn": "gemfibrozil",
+  "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+  "package_ndcs": [
+    "68382-553-01",
+    "68382-553-05",
+    "68382-553-06",
+    "68382-553-10",
+    "68382-553-14",
+    "68382-553-16",
+    "68382-553-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "gemfibrozil",
+      "name": "Gemfibrozil"
+    }
+  ],
+  "setid": "556945e8-4100-4538-bcba-af5b2f13a7e8",
+  "source": "dailymed"
+}
