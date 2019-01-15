@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA209077"
+  ],
+  "inn": "gemcitabine",
+  "labeler": "Sagent Pharmaceuticals",
+  "package_ndcs": [
+    "25021-239-05",
+    "25021-239-26",
+    "25021-239-52"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "gemcitabine",
+      "name": "Gemcitabine"
+    }
+  ],
+  "setid": "22af3507-4b4f-4cad-9d61-89ffc4aabbc7",
+  "source": "dailymed"
+}
