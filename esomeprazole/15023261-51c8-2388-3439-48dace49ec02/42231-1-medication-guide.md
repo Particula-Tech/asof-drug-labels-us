@@ -46,6 +46,7 @@ Esomeprazole magnesium delayed-release capsules are used in adults:
   GERD happens when acid in your stomach backs up into the tube (esophagus) that connects your mouth to your stomach.
   This may cause a burning feeling in your chest or throat, sour taste, or burping.
 - for up to 6 months to reduce the risk of stomach ulcers in some people taking pain medicines called non-steroidal anti-inflammatory drugs (NSAIDs).
+- to treat patients with a stomach infection (Helicobacter pylori), along with the antibiotics amoxicillin and clarithromycin.
 - for the long-term treatment of conditions where your stomach makes too much acid, including Zollinger-Ellison Syndrome.
   Zollinger-Ellison Syndrome is a rare condition in which the stomach produces a more than normal amount of acid.
 
@@ -233,8 +234,8 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 0718
+Revised: 1218
 
-Dispense with medication guide available at:
+Dispense with Medication Guide available at:
 
 www.drreddys.com/medguide/esomeprazolecaps.pdf

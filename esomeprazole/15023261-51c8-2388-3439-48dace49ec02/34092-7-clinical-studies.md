@@ -124,6 +124,37 @@ Table 11: Cumulative Percentage of Patients without Gastric Ulcers at 26 weeks:
 1 %= Life Table Estimate.
 Significant difference from placebo (p<0.01).
 
+## 14.5 Helicobacter pylori (H. pylori) Eradication in Patients with Duodenal Ulcer Disease
+
+Triple Therapy (esomeprazole magnesium/amoxicillin/clarithromycin): Two multicenter, randomized, double-blind studies were conducted using a 10 day treatment regimen.
+The first study (191) compared esomeprazole magnesium 40 mg once daily in combination with amoxicillin 1000 mg twice daily and clarithromycin 500 mg twice daily to esomeprazole magnesium 40 mg once daily plus clarithromycin 500 mg twice daily.
+The second study (193) compared esomeprazole magnesium 40 mg once daily in combination with amoxicillin 1000 mg twice daily and clarithromycin 500 mg twice daily to esomeprazole magnesium 40 mg once daily.
+H. pylori eradication rates, defined as at least two negative tests and no positive tests from CLOtest®, histology and/or culture, at 4 weeks post-therapy were significantly higher in the esomeprazole magnesium plus amoxicillin and clarithromycin group than in the esomeprazole magnesium plus clarithromycin or esomeprazole magnesium alone group.
+The results are shown in Table 12:
+
+Table 12: H. pylori Eradication Rates at 4 Weeks after 10 Day Treatment Regimen % of Patients Cured [95% Confidence Interval] (Number of Patients)
+
+| Study | Treatment Group | Per-Protocol1 | Intent-to-Treat 2 |
+| --- | --- | --- | --- |
+| 191 | Esomeprazole magnesium plus amoxicillin and clarithromycin | 84%3 [78, 89] (n=196) | 77% [71, 82] (n=233) |
+|  | Esomeprazole magnesium plus clarithromycin | 55% [48, 62] (n=187) | 52% [45, 59] (n=215) |
+| 193 | Esomeprazole magnesium plus amoxicillin and clarithromycin | 85% [74, 93] (n=67) | 78%4 [67, 87] (n=74) |
+|  | Esomeprazole magnesium | 5% [0, 23] (n=22) | 4% [0, 21] (n=24) |
+
+1.
+Patients were included in the analysis if they had H. pylori infection documented at baseline, had at least one endoscopically verified duodenal ulcer ≥ 0.5 cm in diameter at baseline or had a documented history of duodenal ulcer disease within the past 5 years, and were not protocol violators.
+Patients who dropped out of the study due to an adverse reaction related to the study drug were included in the analysis as not H. pylori eradicated.
+
+2.
+Patients were included in the analysis if they had documented H. pylori infection at baseline, had at least one documented duodenal ulcer at baseline, or had a documented history of duodenal ulcer disease, and took at least one dose of study medication.
+All dropouts were included as not H. pylori eradicated.
+
+3. p < 0.05 compared to esomeprazole magnesium plus clarithromycin.
+
+4. p < 0.05 compared to esomeprazole magnesium alone.
+
+The percentage of patients with a healed baseline duodenal ulcer by 4 weeks after the 10 day treatment regimen in the esomeprazole magnesium plus amoxicillin and clarithromycin group was 75% (n=156) and 57% (n=60) respectively, in the 191 and 193 studies (per-protocol analysis).
+
 ## 14.6 Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome
 
 In a multicenter, open-label dose-escalation study of 21 patients (15 males and 6 females, 18 Caucasian and 3 Black, mean age of 55.5 years) with pathological hypersecretory conditions, such as Zollinger-Ellison Syndrome, esomeprazole magnesium significantly inhibited gastric acid secretion.

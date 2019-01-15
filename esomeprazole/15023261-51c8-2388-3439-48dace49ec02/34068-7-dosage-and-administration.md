@@ -3,6 +3,7 @@
 Esomeprazole magnesium is supplied as delayed-release capsules for oral administration.
 The recommended dosages are outlined in Table 1.
 Esomeprazole magnesium delayed-release capsules should be taken at least one hour before meals.
+
 The duration of proton pump inhibitor administration should be based on available safety and efficacy data specific to the defined indication and dosing frequency, as described in the prescribing information, and individual patient medical needs.
 Proton pump inhibitor treatment should only be initiated and continued if the benefits outweigh the risks of treatment.
 
@@ -29,6 +30,11 @@ Table 1: Recommended Dosage Schedule for Esomeprazole Magnesium Delayed-Release 
 | weight > 5 kg to 7.5 kg | 5 mg | Once Daily for up to 6 Weeks |
 | weight >7.5 kg to 12 kg | 10 mg | Once Daily for up to 6 Weeks |
 | Risk Reduction of NSAID- Associated Gastric Ulcer | 20 mg or 40 mg | Once Daily for up to 6 months |
+| H. pylori Eradication to Reduce the Risk of Duodenal Ulcer Recurrence |  |  |
+| Triple Therapy: |  |  |
+| Esomeprazole magnesium | 40 mg | Once Daily for 10 Days |
+| Amoxicillin | 1000 mg | Twice Daily for 10 Days |
+| Clarithromycin | 500 mg | Twice Daily for 10 Days |
 | Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome | 40 mg6 | Twice Daily7 |
 
 1[See Clinical Studies.

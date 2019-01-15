@@ -230,5 +230,43 @@ Studies evaluating concomitant administration of esomeprazole and either naproxe
 
 ## 12.4 Microbiology
 
+Esomeprazole magnesium, amoxicillin, and clarithromycin triple therapy has been shown to be active against most strains of Helicobacter pylori (H. pylori) in vitro and in clinical infections [see Indications and Usage (1) and Clinical Studies (14)].
+
+Helicobacter pylori: Susceptibility testing of H. pylori isolates was performed for amoxicillin and clarithromycin using agar dilution methodology, and minimum inhibitory concentrations (MICs) were determined.
+
+Pretreatment Resistance: Clarithromycin pretreatment resistance rate (MIC ≥ 1 mcg/mL) to H. pylori was 15% (66/445) at baseline in all treatment groups combined.
+A total of > 99% (394/395) of patients had H. pylori isolates that were considered to be susceptible (MIC ≤ 0.25 mcg/mL) to amoxicillin at baseline.
+One patient had a baseline H. pylori isolate with an amoxicillin MIC = 0.5 mcg/mL.
+
+Clarithromycin Susceptibility Test Results and Clinical/Bacteriologic Outcomes: The baseline H. pylori clarithromycin susceptibility results and the H. pylori eradication results at the Day 38 visit are shown in the Table 8:
+
+Table 8: Clarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes1 for Triple Therapy - (Esomeprazole magnesium 40 mg once daily/amoxicillin 1000 mg twice daily/clarithromycin 500 mg twice daily for 10 days)
+
+| Clarithromycin Pretreatment Results | H.pylori negative (Eradicated) | H. pylori positive (Not Eradicated)Post-treatment susceptibility results |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  | S2 | I2 | R2 | No MIC |
+| Susceptible2 | 182 | 162 | 4 | 0 | 2 | 14 |
+| Intermediate2 | 1 | 1 | 0 | 0 | 0 | 0 |
+| Resistant2 | 29 | 13 | 1 | 0 | 13 | 2 |
+
+1.
+Includes only patients with pretreatment and post-treatment clarithromycin susceptibility test results
+
+2.
+Susceptible (S) MIC ≤ 0.25 mcg/mL, Intermediate (I) MIC = 0.5 mcg/mL, Resistant (R) MIC ≥ 1.0 mcg/mL
+
+Patients not eradicated of H. pylori following esomeprazole magnesium/amoxicillin/clarithromycin triple therapy will likely have clarithromycin resistant H. pylori isolates.
+Therefore, clarithromycin susceptibility testing should be done, when possible.
+Patients with clarithromycin resistant H. pylori should not be re-treated with a clarithromycin-containing regimen.
+
+Amoxicillin Susceptibility Test Results and Clinical/Bacteriological Outcomes:
+
+In the esomeprazole magnesium/amoxicillin/clarithromycin clinical trials, 83% (176/212) of the patients in the esomeprazole magnesium/amoxicillin/clarithromycin treatment group who had pretreatment amoxicillin susceptible MICs (≤ 0.25 mcg/mL) were eradicated of H. pylori, and 17% (36/212) were not eradicated of H. pylori.
+Of the 36 patients who were not eradicated of H. pylori on triple therapy, 16 had no post-treatment susceptibility test results and 20 had post-treatment H. pylori isolates with amoxicillin susceptible MICs.
+Fifteen of the patients who were not eradicated of H. pylori on triple therapy also had post-treatment H. pylori isolates with clarithromycin resistant MICs.
+There were no patients with H. pylori isolates who developed treatment emergent resistance to amoxicillin.
+
+Susceptibility Test for Helicobacter pylori: For susceptibility testing information about Helicobacter pylori, see Microbiology section in prescribing information for clarithromycin and amoxicillin.
+
 Effects on Gastrointestinal Microbial Ecology: Decreased gastric acidity due to any means, including proton pump inhibitors, increases gastric counts of bacteria normally present in the gastrointestinal tract.
 Treatment with proton pump inhibitors may lead to slightly increased risk of gastrointestinal infections such as Salmonella and Campylobacter and possibly Clostridium difficile in hospitalized patients.
