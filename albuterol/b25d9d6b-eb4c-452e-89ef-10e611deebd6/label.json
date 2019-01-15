@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020983"
+  ],
+  "inn": "albuterol",
+  "labeler": "Prasco Laboratories",
+  "package_ndcs": [
+    "66993-019-68"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, METERED",
+      "generic": "albuterol sulfate",
+      "name": "Albuterol Sulate"
+    }
+  ],
+  "setid": "b25d9d6b-eb4c-452e-89ef-10e611deebd6",
+  "source": "dailymed"
+}
