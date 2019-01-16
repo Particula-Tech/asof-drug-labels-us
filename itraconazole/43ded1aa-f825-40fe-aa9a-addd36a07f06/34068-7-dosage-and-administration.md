@@ -22,12 +22,10 @@ Only itraconazole oral solution has been demonstrated effective for oral and/or 
 
 Use in Patients with Renal Impairment:
 
-Limited data are available on the use of oral itraconazole, USP in patients with renal impairment.
-Caution should be exercised when this drug is administered in this patient population.
-(See CLINICAL PHARMACOLOGY: Special Populations and PRECAUTIONS.)
+Limited data are available on the use of oral itraconazole in patients with renal impairment.
+Caution should be exercised when this drug is administered in this patient population (see CLINICAL PHARMACOLOGY: Special Populations and PRECAUTIONS).
 
 Use in Patients with Hepatic Impairment:
 
-Limited data are available on the use of oral itraconazole, USP in patients with hepatic impairment.
-Caution should be exercised when this drug is administered in this patient population.
-(See CLINICAL PHARMACOLOGY: Special Populations, WARNINGS, and PRECAUTIONS.)
+Limited data are available on the use of oral itraconazole in patients with hepatic impairment.
+Caution should be exercised when this drug is administered in this patient population (see CLINICAL PHARMACOLOGY: Special Populations, WARNINGS, and PRECAUTIONS).

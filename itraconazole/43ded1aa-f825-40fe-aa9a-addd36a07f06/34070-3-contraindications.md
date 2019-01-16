@@ -2,14 +2,13 @@
 
 Congestive Heart Failure:
 
-Itraconazole oral solution should not be administered to patients with evidence of ventricular dysfunction such as congestive heart failure (CHF) or a history of CHF except for the treatment of life-threatening or other serious infections.
-(See BOXED WARNING, WARNINGS, PRECAUTIONS: Drug Interactions-Calcium Channel Blockers, ADVERSE REACTIONS: Post-marketing Experience, and CLINICAL PHARMACOLOGY: Special Populations.)
+Itraconazole oral solution should not be administered to patients with evidence of ventricular dysfunction such as congestive heart failure (CHF) or a history of CHF except for the treatment of life-threatening or other serious infections (see BOXED WARNING, WARNINGS, PRECAUTIONS: Drug Interactions-Calcium Channel Blockers, ADVERSE REACTIONS: Post-marketing Experience, and CLINICAL PHARMACOLOGY: Special Populations).
 
 ## Drug Interactions:
 
 Co-administration of a number of CYP3A4 substrates are contraindicated with itraconazole.
-Plasma concentrations increase for the following drugs: methadone, disopyramide, dofetilide, dronedarone, quinidine, ergot alkaloids (such as dihydroergotamine, ergometrine (ergonovine), ergotamine, methylergometrine (methylergonovine)), irinotecan, lurasidone, oral midazolam, pimozide, triazolam, felodipine, nisoldipine, ivabradine, ranolazine, eplerenone, cisapride, lovastatin, simvastatin, ticagrelor and, in subjects with varying degrees of renal or hepatic impairment, colchicine, fesoterodine, telithromycin and solifenacin.
-(See PRECAUTIONS: Drug Interactions Section for specific examples.)
+Plasma concentrations increase for the following drugs: levaceytlmethadol (levomethadyl), methadone, disopyramide, dofetilide, dronedarone, quinidine, isavuconazole, ergot alkaloids (such as dihydroergotamine, ergometrine (ergonovine), ergotamine, methylergometrine (methylergonovine)), irinotecan, lurasidone, oral midazolam, pimozide, triazolam, felodipine, nisoldipine, ivabradine, ranolazine, eplerenone, cisapride, naloxegol, lomitapide, lovastatin, simvastatin, avanafil, ticagrelor.
+In addition, co-administration with colchicine, fesoterodine, and solifenacin is contraindicated in subjects with varying degrees of renal or hepatic impairment, and co-administration with eliglustat is contraindicated in subjects that are poor or intermediate metabolizers of CYP2D6 and in subjects taking strong or moderate CYP2D6 inhibitors (see PRECAUTIONS: Drug Interactions Section for specific examples).
 This increase in drug concentrations caused by co-administration with itraconazole may increase or prolong both the pharmacologic effects and/or adverse reactions to these drugs.
 For example, increased plasma concentrations of some of these drugs can lead to QT prolongation and ventricular tachyarrhythmias including occurrences of torsade de pointes, a potentially fatal arrhythmia.
 Specific examples are listed in PRECAUTIONS: Drug Interactions.

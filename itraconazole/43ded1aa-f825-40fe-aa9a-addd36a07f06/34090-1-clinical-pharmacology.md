@@ -57,8 +57,7 @@ After a single intravenous dose, the mean terminal half-lives of itraconazole in
 Overall exposure to itraconazole, based on AUC, was decreased in patients with moderate and severe renal impairment by approximately 30% and 40%, respectively, as compared with subjects with normal renal function.
 
 Data are not available in renally impaired patients during long-term use of itraconazole.
-Dialysis has no effect on the half-life or clearance of itraconazole or hydroxy-itraconazole.
-(See PRECAUTIONS and DOSAGE AND ADMINISTRATION.)
+Dialysis has no effect on the half-life or clearance of itraconazole or hydroxy-itraconazole (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
 
 ### Hepatic Impairment:
 
@@ -66,15 +65,13 @@ Itraconazole is predominantly metabolized in the liver.
 A pharmacokinetic study was conducted in 6 healthy and 12 cirrhotic subjects who were administered a single 100-mg dose of itraconazole as capsule.
 A statistically significant reduction in mean Cmax (47%) and a twofold increase in the elimination half-life (37 ± 17 hours vs. 16 ± 5 hours) of itraconazole were noted in cirrhotic subjects compared with healthy subjects.
 However, overall exposure to itraconazole, based on AUC, was similar in cirrhotic patients and in healthy subjects.
-Data are not available in cirrhotic patients during long-term use of itraconazole.
-(See CONTRAINDICATIONS, PRECAUTIONS: Drug Interactions and DOSAGE AND ADMINISTRATION.)
+Data are not available in cirrhotic patients during long-term use of itraconazole (see CONTRAINDICATIONS, PRECAUTIONS: Drug Interactions and DOSAGE AND ADMINISTRATION).
 
 ### Decreased Cardiac Contractility:
 
 When itraconazole was administered intravenously to anesthetized dogs, a dose-related negative inotropic effect was documented.
 In a healthy volunteer study of itraconazole intravenous infusion, transient, asymptomatic decreases in left ventricular ejection fraction were observed using gated SPECT imaging; these resolved before the next infusion, 12 hours later.
-If signs or symptoms of congestive heart failure appear during administration of itraconazole oral solution, monitor carefully and consider other treatment alternatives which may include discontinuation of itraconazole oral solution administration.
-(See BOXED WARNING, CONTRAINDICATIONS, WARNINGS, PRECAUTIONS: Drug Interactions and ADVERSE REACTIONS: Post-marketing Experience for more information.)
+If signs or symptoms of congestive heart failure appear during administration of itraconazole oral solution, monitor carefully and consider other treatment alternatives which may include discontinuation of itraconazole oral solution administration (see BOXED WARNING, CONTRAINDICATIONS, WARNINGS, PRECAUTIONS: Drug Interactions and ADVERSE REACTIONS: Post-marketing Experience for more information).
 
 ### Cystic Fibrosis:
 

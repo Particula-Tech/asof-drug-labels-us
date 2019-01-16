@@ -5,16 +5,15 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 Itraconazole has been associated with rare cases of serious hepatotoxicity, including liver failure and death.
 Some of these cases had neither pre-existing liver disease nor a serious underlying medical condition.
 If clinical signs or symptoms develop that are consistent with liver disease, treatment should be discontinued and liver function testing performed.
-The risks and benefits of itraconazole use should be reassessed.
-(See WARNINGS: Hepatic Effects and PRECAUTIONS: Hepatotoxicity and Information for Patients.)
+The risks and benefits of itraconazole use should be reassessed (see WARNINGS: Hepatic Effects and PRECAUTIONS: Hepatotoxicity and Information for Patients).
 
 Adverse Events Reported in Oropharyngeal or Esophageal Candidiasis Trials
 
 U.S. adverse experience data are derived from 350 immunocompromised patients (332 HIV seropositive/AIDS) treated for oropharyngeal or esophageal candidiasis.
-Table 2 below lists adverse events reported by at least 2% of patients treated with itraconazole oral solution in U.S. clinical trials.
+Table 5 below lists adverse events reported by at least 2% of patients treated with itraconazole oral solution in U.S. clinical trials.
 Data on patients receiving comparator agents in these trials are included for comparison.
 
-Table 2: Summary of Adverse Events Reported by ≥2% of Itraconazole Treated Patients in U.S. Clinical Trials (Total)
+Table 5: Summary of Adverse Events Reported by ≥2% of Itraconazole Treated Patients in U.S. Clinical Trials (Total)
 
 | Body System/ Adverse Event | Itraconazole |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -103,12 +102,14 @@ Vascular Disorders: hypertension
 
 In addition, the following adverse drug reaction was reported in children only who participated in itraconazole oral solution clinical trials: mucosal inflammation.
 
+To report SUSPECTED ADVERSE REACTIONS, contact Amneal Pharmaceuticals at 1-877-835-5472 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+
 Post-marketing Experience
 
-Adverse drug reactions that have been first identified during post-marketing experience with itraconazole (all formulations) are listed in the table below.
+Adverse drug reactions that have been first identified during post-marketing experience with itraconazole (all formulations) are listed in Table 6 below.
 Because these reactions are reported voluntarily from a population of uncertain size, reliably estimating their frequency or establishing a causal relationship to drug exposure is not always possible.
 
-Table 3: Postmarketing Reports of Adverse Drug Reactions
+Table 6: Postmarketing Reports of Adverse Drug Reactions
 
 | Blood and Lymphatic System Disorders: | Leukopenia, neutropenia, thrombocytopenia |
 | --- | --- |
@@ -130,5 +131,4 @@ Table 3: Postmarketing Reports of Adverse Drug Reactions
 
 There is limited information on the use of itraconazole during pregnancy.
 Cases of congenital abnormalities including skeletal, genitourinary tract, cardiovascular and ophthalmic malformations as well as chromosomal and multiple malformations have been reported during post-marketing experience.
-A causal relationship with itraconazole has not been established.
-(See CLINICAL PHARMACOLOGY: Special Populations, CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS: Drug Interactions for more information.)
+A causal relationship with itraconazole has not been established (see CLINICAL PHARMACOLOGY: Special Populations, CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS: Drug Interactions for more information).

@@ -8,7 +8,7 @@ Drug Resistance:
 
 Isolates from several fungal species with decreased susceptibility to itraconazole have been isolated in vitro and from patients receiving prolonged therapy.
 
-Candida krusei, Candida glabrata and Candida tropicalis are generally the least susceptible Candida species, with some isolates showing unequivocal resistance to itraconazole in vitro.
+Candida krusei,Candida glabrata and Candida tropicalis are generally the least susceptible Candida species, with some isolates showing unequivocal resistance to itraconazole in vitro.
 
 Itraconazole is not active against Zygomycetes (e.g., Rhizopus spp., Rhizomucor spp., Mucor spp. and Absidia spp.), Fusarium spp., Scedosporium spp. and Scopulariopsis spp.
 
@@ -32,44 +32,4 @@ Candida albicans
 
 Susceptibility Testing Methods
 
-(Applicable to Candida isolates from patients with oropharyngeal or esophageal candidiasis)
-
-Candida albicans
-
-The interpretive criteria and breakpoints for itraconazole against Candida albicans are applicable to tests performed using Clinical Laboratory and Standards Institute (CLSI) microbroth dilution reference method M27A for MIC (partial inhibition endpoint) read at 48 hours.
-
-Broth Microdilution Techniques
-
-Quantitative methods are used to determine antifungal minimum inhibitory concentrations (MICs).
-These MICs provide estimates of the susceptibility of Candida spp. to antifungal agents.
-MICs should be determined using a standardized procedure at 48 hours.
-Standardized procedures are based on a microdilution method (broth)1,2 with standardized inoculum concentrations and standardized concentrations of itraconazole powder.
-The MIC values should be interpreted according to the criteria provided in Table below:
-
-| Susceptibility Interpretive Criteria for Itraconazole1,2 |  |  |  |
-| --- | --- | --- | --- |
-| Pathogen | Broth Microdilution MIC* (mcg/mL) at 48 Hours |  |  |
-| S | I | R |  |
-| Candida albicans | ≤ 0.125 | 0.25 to 0.5 | ≥ 1 |
-
-* A report of Susceptible (S) indicates that the antimicrobial drug is likely to inhibit growth of the microorganism if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
-A report of Intermediate (I) category indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
-This category implies possible clinical applicability in the body sites where the drug is physiologically concentrated or in situations where a high dosage of drug can be used.
-This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-The intermediate category is sometimes called Susceptible-Dose Dependent (SDD) and both categories are equivalent for itraconazole.
-A report of Resistant (R) indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the infection site; other therapy should be selected.
-
-Quality Control
-
-Standardized susceptibility test procedures require the use of quality control organisms to control the technical aspects of the test procedures.
-Standard itraconazole powder should provide the following range of values noted in the table below.
-
-NOTE: Quality control microorganisms are specific strains of organisms with intrinsic biological properties relating to resistance mechanisms and their genetic expression within fungi; the specific strains used for microbiological control are not clinically significant.
-
-| Acceptable Quality Control Ranges for Itraconazole to be used in Validation of Susceptibility Test Results1,2 |  |
-| --- | --- |
-| QC Strain | Broth Microdilution MIC (mcg/mL) at 48 Hours |
-| Candida parapsilosis ATCC† 22019 | 0.06 to 0.25 |
-| Candida krusei ATCC 6258 | 0.12 to 0.5 |
-
-† ATCC is the registered trademark of the American Type Culture Collection.
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
