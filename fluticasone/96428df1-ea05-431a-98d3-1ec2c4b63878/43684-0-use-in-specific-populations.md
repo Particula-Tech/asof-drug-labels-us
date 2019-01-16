@@ -5,7 +5,8 @@
 Risk Summary
 
 There are insufficient data on the use of BREO ELLIPTA, fluticasone furoate, or vilanterol in pregnant women.
-There are clinical considerations with use of BREO ELLIPTA in pregnant women (see Clinical Considerations).
+There are clinical considerations with use of BREO ELLIPTA in pregnant women.
+(See Clinical Considerations.)
 In an animal reproduction study, fluticasone furoate and vilanterol administered by inhalation alone or in combination to pregnant rats during the period of organogenesis produced no fetal structural abnormalities.
 The highest fluticasone furoate and vilanterol doses in this study were approximately 5 and 40 times the maximum recommended human daily inhalation doses (MRHDID) of 200 and 25 mcg in adults, respectively.
 (See Data.)
@@ -16,7 +17,6 @@ In the U.S. general population, the estimated risk of major birth defects and mi
 Clinical Considerations
 
 Disease-Associated Maternal and/or Embryofetal Risk: In women with poorly or moderately controlled asthma, there is an increased risk of several perinatal outcomes such as pre-eclampsia in the mother and prematurity, low birth weight, and small for gestational age in the neonate.
-
 Pregnant women should be closely monitored and medication adjusted as necessary to maintain optimal control of asthma.
 
 Labor and Delivery: There are no human studies evaluating the effects of BREO ELLIPTA during labor and delivery.
@@ -24,7 +24,7 @@ Because of the potential for beta-agonist interference with uterine contractilit
 
 Data
 
-Animal Data: Fluticasone Furoate and Vilanterol: In an embryofetal developmental study, pregnant rats received fluticasone furoate and vilanterol during the period of organogenesis at doses up to approximately 5 and 40 times the MRHDID, respectively, alone or in combination (on a mcg/m2 basis at inhalation doses up to approximately 95 mcg/kg/day).
+Animal Data:Fluticasone Furoate and Vilanterol: In an embryofetal developmental study, pregnant rats received fluticasone furoate and vilanterol during the period of organogenesis at doses up to approximately 5 and 40 times the MRHDID, respectively, alone or in combination (on a mcg/m2 basis at inhalation doses up to approximately 95 mcg/kg/day).
 No evidence of structural abnormalities was observed.
 
 Fluticasone Furoate: In 2 separate embryofetal developmental studies, pregnant rats and rabbits received fluticasone furoate during the period of organogenesis at doses up to approximately 4 and 1 times the MRHDID, respectively (on a mcg/m2 basis at maternal inhalation doses up to 91 and 8 mcg/kg/day).
@@ -44,7 +44,7 @@ No evidence of effects in offspring development was observed.
 Risk Summary
 
 There is no information available on the presence of fluticasone furoate or vilanterol in human milk, the effects on the breastfed child, or the effects on milk production.
-Low concentrations of other inhaled corticosteroids have been detected in human milk.
+Low concentrations of other ICS have been detected in human milk.
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for BREO ELLIPTA and any potential adverse effects on the breastfed child from fluticasone furoate or vilanterol or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use

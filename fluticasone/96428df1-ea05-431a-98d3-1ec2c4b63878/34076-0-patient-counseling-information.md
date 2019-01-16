@@ -50,9 +50,9 @@ Reduction in Bone Mineral Density
 
 Advise patients who are at an increased risk for decreased BMD that the use of corticosteroids may pose an additional risk.
 
-Ocular Effects
+Glaucoma and Cataracts
 
-Inform patients that long-term use of ICS may increase the risk of some eye problems (cataracts or glaucoma); consider regular eye examinations.
+Advise patients that long-term use of ICS may increase the risk of some eye problems (cataracts or glaucoma); consider regular eye examinations.
 
 Risks Associated with Beta-agonist Therapy
 
@@ -66,12 +66,12 @@ There have been reports of anaphylactic reactions in patients with severe milk p
 
 Trademarks are owned by or licensed to the GSK group of companies.
 
-BREO ELLIPTA was developed in collaboration with INNOVIVA.
+BREO ELLIPTA was developed in collaboration with Innoviva.
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2017 GSK group of companies or its licensor.
+©2019 GSK group of companies or its licensor.
 
-BRE:9PI
+BRE:10PI

@@ -149,6 +149,10 @@ Immune System Disorders
 
 Hypersensitivity reactions, including anaphylaxis, angioedema, rash, and urticaria.
 
+Metabolism and Nutrition Disorders
+
+Hyperglycemia.
+
 Musculoskeletal and Connective Tissue Disorders
 
 Muscle spasms.

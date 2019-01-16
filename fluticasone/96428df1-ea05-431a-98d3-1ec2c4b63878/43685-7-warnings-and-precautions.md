@@ -149,7 +149,7 @@ If such effects occur, BREO ELLIPTA should be reduced slowly, consistent with ac
 
 ## 5.9 Drug Interactions with Strong Cytochrome P450 3A4 Inhibitors
 
-Caution should be exercised when considering the coadministration of BREO ELLIPTA with long-term ketoconazole and other known strong CYP3A4 inhibitors (e.g., ritonavir, clarithromycin, conivaptan, indinavir, itraconazole, lopinavir, nefazodone, nelfinavir, saquinavir, telithromycin, troleandomycin, voriconazole) because increased systemic corticosteroid and increased cardiovascular adverse effects may occur [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
+Caution should be exercised when considering the coadministration of BREO ELLIPTA with ketoconazole and other known strong CYP3A4 inhibitors (e.g., ritonavir, clarithromycin, conivaptan, indinavir, itraconazole, lopinavir, nefazodone, nelfinavir, saquinavir, telithromycin, troleandomycin, voriconazole) because increased systemic corticosteroid and increased cardiovascular adverse effects may occur [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
 
 ## 5.10 Paradoxical Bronchospasm
 
@@ -190,19 +190,21 @@ Similar findings were seen in a mortality trial with a median treatment duration
 ## 5.14 Glaucoma and Cataracts
 
 Glaucoma, increased intraocular pressure, and cataracts have been reported in patients with COPD or asthma following the long-term administration of ICS.
-Therefore, close monitoring is warranted in patients with a change in vision or with a history of increased intraocular pressure, glaucoma, and/or cataracts.
+Consider referral to an ophthalmologist in patients who develop ocular symptoms or use BREO ELLIPTA long term.
 
 ## 5.15 Coexisting Conditions
 
 BREO ELLIPTA, like all medicines containing sympathomimetic amines, should be used with caution in patients with convulsive disorders or thyrotoxicosis and in those who are unusually responsive to sympathomimetic amines.
 Doses of the related beta2-adrenoceptor agonist albuterol, when administered intravenously, have been reported to aggravate preexisting diabetes mellitus and ketoacidosis.
 
-## 5.16 Hypokalemia and Hyperglycemia
+## 5.16 Hyperglycemia and Hypokalemia
+
+There have been reports of increases in blood glucose levels with BREO ELLIPTA.
+This should be considered in patients with a history of, or with risk factors for, diabetes mellitus [see Adverse Reactions (6.3)].
 
 Beta-adrenergic agonist medicines may produce significant hypokalemia in some patients, possibly through intracellular shunting, which has the potential to produce adverse cardiovascular effects.
 The decrease in serum potassium is usually transient, not requiring supplementation.
-Beta-agonist medications may produce transient hyperglycemia in some patients.
-In clinical trials evaluating BREO ELLIPTA in subjects with COPD or asthma, there was no evidence of a treatment effect on serum glucose or potassium.
+In clinical trials evaluating BREO ELLIPTA in subjects with COPD or asthma, there was no evidence of a treatment effect on serum potassium.
 
 ## 5.17 Effect on Growth
 

@@ -239,9 +239,8 @@ Change from Baseline in Weighted Mean FEV1 (0-24 h) (mL) and Trough FEV1 (mL) at
 
 | Study (Duration)Background Treatment | n | Weighted Mean FEV1 (0-24 h) (mL) |  |  |
 | --- | --- | --- | --- | --- |
-| Difference from |  |  |  |  |
+| Treatment | Difference from |  |  |  |
 | Placebo(95% CI) | Fluticasone Furoate 100 mcg(95% CI) | Fluticasone Furoate 200 mcg(95% CI) |  |  |
-| Treatment |  |  |  |  |
 | Trial 1 (12 Weeks)Low- to mid-dose ICS or low-dose ICS + LABA |  |  |  |  |
 | BREO ELLIPTA 100/25 | 108 | 302(178, 426) | 116(-5, 236) | –– |
 | Trial 2 (12 Weeks)Mid- to high-dose ICS or mid-dose ICS + LABA |  |  |  |  |
@@ -250,8 +249,7 @@ Change from Baseline in Weighted Mean FEV1 (0-24 h) (mL) and Trough FEV1 (mL) at
 | BREO ELLIPTA 200/25 | 89 | –– | –– | 136(1, 270) |
 | Study (Duration)Background Treatment | n | Trough FEV1 (mL) |  |  |
 | Difference from |  |  |  |  |
-| Placebo(95% CI) | Fluticasone Furoate 100 mcg(95% CI) | Fluticasone Furoate 200 mcg(95% CI) |  |  |
-| Treatment |  |  |  |  |
+| Treatment | Placebo(95% CI) | Fluticasone Furoate 100 mcg(95% CI) | Fluticasone Furoate 200 mcg(95% CI) |  |
 | Trial 1 (12 Weeks)Low- to mid-dose ICS or low-dose ICS + LABA |  |  |  |  |
 | BREO ELLIPTA 100/25 | 200 | 172(87, 258) | 36(-48, 120) | –– |
 | Trial 2 (12 Weeks)Mid- to high-dose ICS or mid-dose ICS + LABA |  |  |  |  |
