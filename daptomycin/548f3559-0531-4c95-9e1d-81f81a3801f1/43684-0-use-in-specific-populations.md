@@ -19,11 +19,11 @@ Animal Data
 In pregnant rats, daptomycin was administered intravenously at doses of 5, 20, or 75 mg/kg/day during the gestation days 6 to 18.
 Maternal body weight gain was decreased at 75 mg/kg/day.
 
-No embryo/fetal effects were noted at the highest dose of 75 mg/kg/day, a dose approximately 2-fold higher than in humans at the recommended maximum dose of 6mg/kg (based on body surface area).
+No embryo/fetal effects were noted at the highest dose of 75 mg/kg/day, a dose approximately 2-fold higher than in humans at the recommended maximum dose of 6 mg/kg (based on body surface area).
 
 In pregnant rabbits, daptomycin was administered intravenously at doses of 5, 20, or 75 mg/kg/day during the gestation days 6 to 15.
 Maternal body weight gain and food consumption were decreased at 75 mg/kg/day.
-No embryo/fetal effects were noted at the highest dose of 75 mg/kg/day, a dose approximately 4-fold higher than in humans at the maximum recommended dose of 6mg/kg (based on body surface area).
+No embryo/fetal effects were noted at the highest dose of 75 mg/kg/day, a dose approximately 4-fold higher than in humans at the maximum recommended dose of 6 mg/kg (based on body surface area).
 
 In a combined fertility and pre/postnatal development study, daptomycin was administered intravenously to female rats at doses of 2, 25, 75 mg/kg/day from 14-days pre-mating through lactation/postpartum day 20).
 No effects on pre/postnatal development were observed up to the highest dose of 75 mg/kg/day, a dose approximately 2-fold higher than the maximum recommended human dose of 6 mg/kg (based on body surface area)1.
@@ -40,6 +40,9 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 The safety and effectiveness of Daptomycin for Injection in pediatric patients have not been established.
 Avoid use of daptomycin in pediatric patients younger than one year of age due to the risk of potential effects on muscular, neuromuscular, and/or nervous systems (either peripheral and/or central) observed in neonatal dogs [see Warnings and Precautions (5.5) and Nonclinical Toxicology (13.2)].
+
+Pediatric use information is approved for Merck & Co., Inc.'s Cubicin (daptomycin for injection).
+However, due to Merck & Co., Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 8.5 Geriatric Use
 

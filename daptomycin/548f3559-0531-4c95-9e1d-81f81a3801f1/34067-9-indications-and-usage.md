@@ -4,9 +4,15 @@
 
 Daptomycin for Injection is indicated for the treatment of adult patients with complicated skin and skin structure infections (cSSSI) caused by susceptible isolates of the following Gram-positive bacteria: Staphylococcus aureus (including methicillin-resistant isolates), Streptococcus pyogenes, Streptococcus agalactiae, Streptococcus dysgalactiae subsp. equisimilis, and Enterococcus faecalis (vancomycin-susceptible isolates only).
 
+Pediatric use information is approved for Merck & Co., Inc.'s Cubicin (daptomycin for injection).
+However, due to Merck & Co., Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+
 ## 1.2 Staphylococcus aureus Bloodstream Infections (Bacteremia) in Adult Patients, Including Those with Right-Sided Infective Endocarditis, Caused by Methicillin-Susceptible and Methicillin-Resistant Isolates
 
 Daptomycin for Injection is indicated for the treatment of adult patients with Staphylococcus aureus bloodstream infections (bacteremia), including adult patients with right-sided infective endocarditis, caused by methicillin-susceptible and methicillin-resistant isolates.
+
+Pediatric use information is approved for Merck & Co., Inc.'s Cubicin (daptomycin for injection).
+However, due to Merck & Co., Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 1.3 Limitations of Use
 

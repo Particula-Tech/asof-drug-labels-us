@@ -48,6 +48,9 @@ Table 15: Clinical Success Rates by Infecting Pathogen in the cSSSI Trials in Ad
 | * Comparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses). |  |  |
 | † As determined by the central laboratory. |  |  |
 
+Pediatric use information is approved for Merck & Co., Inc.'s Cubicin (daptomycin for injection).
+However, due to Merck & Co., Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+
 ## 14.2 S. aureus Bacteremia/Endocarditis
 
 Adults with S. aureus Bacteremia/Endocarditis
@@ -111,7 +114,7 @@ Table 16: Adjudication Committee Success Rates at Test of Cure in the S. aureus 
 | * Comparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 2 g IV q4h), each with initial low-dose gentamicin. |  |  |  |
 | † 95% Confidence Interval |  |  |  |
 | ‡ 97.5% Confidence Interval (adjusted for multiplicity) |  |  |  |
-| § According to the modified Duke criteria8 |  |  |  |
+| § According to the modified Duke criteria5 |  |  |  |
 | ¶ 99% Confidence Interval (adjusted for multiplicity) |  |  |  |
 
 Eighteen (18/120) patients in the daptomycin arm and 19/116 patients in the comparator arm died during the trial.
@@ -124,3 +127,6 @@ The median time to clearance in patients with MSSA was 4 days and in patients wi
 Failure of treatment due to persisting or relapsing S. aureus infections was assessed by the Adjudication Committee in 19/120 (16%) daptomycin-treated patients (12 with MRSA and 7 with MSSA) and 11/115 (10%) comparator-treated patients (9 with MRSA treated with vancomycin and 2 with MSSA treated with an anti-staphylococcal semi-synthetic penicillin).
 Among all failures, isolates from 6 daptomycin-treated patients and 1 vancomycin-treated patient developed increasing MICs (reduced susceptibility) by central laboratory testing during or following therapy.
 Most patients who failed due to persisting or relapsing S. aureus infection had deep-seated infection and did not receive necessary surgical intervention [see Warnings and Precautions (5.7)].
+
+Pediatric use information is approved for Merck & Co., Inc.'s Cubicin (daptomycin for injection).
+However, due to Merck & Co., Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.

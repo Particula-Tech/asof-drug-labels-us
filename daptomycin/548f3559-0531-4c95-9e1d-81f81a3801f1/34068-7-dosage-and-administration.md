@@ -6,15 +6,24 @@ Adults
 
 Administer the appropriate volume of the reconstituted daptomycin (concentration of 50 mg per mL) to adult patients intravenously either by injection over a two (2) minute period or by intravenous infusion over a thirty (30) minute period [see Dosage and Administration (2.2, 2.5)].
 
+Pediatric use information is approved for Merck & Co., Inc.'s Cubicin (daptomycin for injection).
+However, due to Merck & Co., Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+
 ## 2.2 Dosage in Adults for cSSSI
 
 Administer Daptomycin for Injection 4 mg/kg to adult patients intravenously in 0.9% sodium chloride injection once every 24 hours for 7 to 14 days.
+
+Pediatric use information is approved for Merck & Co., Inc.'s Cubicin (daptomycin for injection).
+However, due to Merck & Co., Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 2.3 Dosage in Adult Patients with Staphylococcus aureus Bloodstream Infections (Bacteremia), Including Those with Right-Sided Infective Endocarditis, Caused by Methicillin-Susceptible and Methicillin-Resistant Isolates
 
 Administer Daptomycin for Injection 6 mg/kg to adult patients intravenously in 0.9% sodium chloride injection once every 24 hours for 2 to 6 weeks.
 There are limited safety data for the use of daptomycin for more than 28 days of therapy.
 In the Phase 3 trial, there were a total of 14 adult patients who were treated with daptomycin for more than 28 days.
+
+Pediatric use information is approved for Merck & Co., Inc.'s Cubicin (daptomycin for injection).
+However, due to Merck & Co., Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 2.4 Dosage in Patients with Renal Impairment
 
@@ -81,6 +90,9 @@ Stability studies have shown that the reconstituted solution is stable in the vi
 
 The diluted solution is stable in the infusion bag for 12 hours at room temperature and 48 hours if stored under refrigeration.
 The combined storage time (reconstituted solution in vial and diluted solution in infusion bag) should not exceed 12 hours at room temperature or 48 hours under refrigeration.
+
+Pediatric use information is approved for Merck & Co., Inc.'s Cubicin (daptomycin for injection).
+However, due to Merck & Co., Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 2.6 Compatible Intravenous Solutions
 
