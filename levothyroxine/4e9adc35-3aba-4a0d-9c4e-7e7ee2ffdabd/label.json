@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA208749"
+  ],
+  "inn": "levothyroxine",
+  "labeler": "MAIA Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "70511-111-10",
+    "70511-112-10",
+    "70511-113-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "levothyroxine sodium anhydrous",
+      "name": "Levothyroxine Sodium"
+    }
+  ],
+  "setid": "4e9adc35-3aba-4a0d-9c4e-7e7ee2ffdabd",
+  "source": "dailymed"
+}
