@@ -4,9 +4,9 @@
 
 Ondansetron Injection, USP 4 mg/2 mL (2 mg/mL)
 
-PROTECT FROM LIGHT RL-6969 Dist. by Hospira, Inc., Lake Forest, IL 60045 USA
+PROTECT FROM LIGHT Dist. by Hospira, Inc., Lake Forest, IL 60045 USA
 
-# PRINCIPAL DISPLAY PANEL - 2 mL Vial Tray
+# PRINCIPAL DISPLAY PANEL - 2 mL Vial Carton
 
 25 x 2 mL Single-dose Fliptop Vials NDC 0409-4755-03 Rx only
 
