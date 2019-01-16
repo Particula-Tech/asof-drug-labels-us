@@ -1,4 +1,4 @@
-# 10OVERDOSAGE
+# 10 OVERDOSAGE
 
 Signs and symptoms of acute toxicity from overdosage of intravenous (IV) tobramycin might include dizziness, tinnitus, vertigo, loss of high-tone hearing acuity, respiratory failure, neuromuscular blockade, and renal impairment.
 Administration by inhalation results in low systemic bioavailability of tobramycin.

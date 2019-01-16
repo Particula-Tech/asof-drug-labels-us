@@ -1,4 +1,4 @@
-# 1INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
 TOBI is indicated for the management of cystic fibrosis in adults and pediatric patients 6 years of age and older with Pseudomonas aeruginosa.
 

@@ -2,7 +2,7 @@
 
 Package Label – 300 mg / 5 mL Ampules
 
-Rx Only NDC 0078-0494-71
+1. Rx Only NDC 0078-0494-71
 
 TOBI®
 

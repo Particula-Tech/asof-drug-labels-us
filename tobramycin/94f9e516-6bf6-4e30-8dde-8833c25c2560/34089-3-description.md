@@ -1,4 +1,4 @@
-# 11DESCRIPTION
+# 11 DESCRIPTION
 
 TOBI® is a tobramycin solution for inhalation.
 It is a sterile, clear, slightly yellow, non-pyrogenic, aqueous solution with the pH and salinity adjusted specifically for administration by a compressed air driven reusable nebulizer.

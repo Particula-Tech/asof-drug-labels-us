@@ -1,13 +1,13 @@
-# 6ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 The following serious adverse reactions are described below and elsewhere in the labeling:
 
-- Bronchospasm [see Warnings and Precautions (5.1)]
-- Ototoxicity [see Warnings and Precautions (5.2)]
-- Nephrotoxicity [see Warnings and Precautions (5.3)]
-- Neuromuscular Disorders [see Warnings and Precautions (5.4)]
-- Embryo-fetal Toxicity [see Warnings and Precautions (5.5)]
-- Concomitant Use of Systemic Aminoglycosides [see Warnings and Precautions (5.6)]
+- •Bronchospasm [see Warnings and Precautions (5.1)]
+- •Ototoxicity [see Warnings and Precautions (5.2)]
+- •Nephrotoxicity [see Warnings and Precautions (5.3)]
+- •Neuromuscular Disorders [see Warnings and Precautions (5.4)]
+- •Embryo-fetal Toxicity [see Warnings and Precautions (5.5)]
+- •Concomitant Use of Systemic Aminoglycosides [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -27,11 +27,10 @@ Table 1: Percent of Patients With Selected Adverse Reactions Occurring in > 5% o
 | Sputum Increased | 37.6 | 39.7 |
 | Dyspnea | 33.7 | 38.5 |
 | Hemoptysis | 19.4 | 23.7 |
-| Lung Function Decreased1 | 16.3 | 15.3 |
+| Lung Function DecreasedIncludes reported decreases in pulmonary function tests or decreased lung volume on chest radiograph associated with intercurrent illness or study drug administration. | 16.3 | 15.3 |
 | Voice Alteration | 12.8 | 6.5 |
 | Taste Perversion | 6.6 | 6.9 |
 | Rash | 5.4 | 6.1 |
-| 1Includes reported decreases in pulmonary function tests or decreased lung volume on chest radiograph associated with intercurrent illness or study drug administration. |  |  |
 
 Selected adverse reactions that occurred in less than or equal to 5% of patients treated with TOBI:
 
