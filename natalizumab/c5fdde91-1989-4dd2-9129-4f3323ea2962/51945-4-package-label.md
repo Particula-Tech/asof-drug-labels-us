@@ -35,9 +35,9 @@ TYSABRI®
 
 300 mg/ 15 mL (20 mg/mL)
 
-For Intravenous Infusion Only.
+For Intravenous Infusion Only
 
-Must be diluted prior to use.
+Must be diluted prior to use
 
 ATTENTION PHARMACIST:
 
