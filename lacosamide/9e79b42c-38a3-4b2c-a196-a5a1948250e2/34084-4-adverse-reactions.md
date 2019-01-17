@@ -171,3 +171,5 @@ Blood and lymphatic system disorders: Agranulocytosis
 Psychiatric disorders: Aggression, agitation, hallucination, insomnia, psychotic disorder
 
 Skin and subcutaneous tissue disorders: Angioedema, rash, urticaria, Stevens-Johnson syndrome, toxic epidermal necrolysis.
+
+Neurologic disorders: New or worsening seizures
