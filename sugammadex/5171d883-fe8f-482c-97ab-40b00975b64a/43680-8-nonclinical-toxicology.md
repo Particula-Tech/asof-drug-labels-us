@@ -24,7 +24,7 @@ No adverse bone effects were seen following a single dose of sugammadex at 500 m
 
 In a bone repair study, adult rats were treated with intravenous sugammadex weekly for 6 weeks at 0, 30, 120, and 500 mg/kg (approximately 0.4, 1, and 6 times the MRHD, respectively, by AUC comparison).
 Based on histological data, high dose animals with post-fracture treatment, showed a statistically significant increase in callus formation and decrease in bone formation, suggesting a potential for a slight delay in the bone healing process.
-However there were no statistically significant effects on bone volume or bone mineral density.
+However, there were no statistically significant effects on bone volume or bone mineral density.
 
 In juvenile animal studies, bone and teeth deposition was significantly higher in juvenile rats compared to adults.
 In addition, sugammadex administered to juvenile rats daily for 4 weeks caused slight bone length decrease (approximately 3%), which did not recover after an 8-week treatment-free period, and reversible whitish discoloration of the teeth at a dose approximately 0.6 times the MRHD, while weekly administration for 8 weeks did not produce similar changes in bone and teeth at doses up to 1.2 times the MRHD [see Use in Specific Populations (8.4)].

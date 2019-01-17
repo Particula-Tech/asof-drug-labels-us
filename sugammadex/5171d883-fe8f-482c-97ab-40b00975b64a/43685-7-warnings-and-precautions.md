@@ -12,7 +12,7 @@ The most common hypersensitivity adverse reactions reported were nausea, pruritu
 
 Anaphylaxis has also been reported in the post-marketing setting, including at doses less than 16 mg/kg.
 The most commonly described clinical features in reports of anaphylaxis were dermatologic symptoms (including urticaria, rash, erythema, flushing and skin eruption); and clinically important hypotension often requiring the use of vasopressors for circulatory support.
-In addition prolonged hospitalization and/or the use of additional respiratory support until full recovery (re-intubation, prolonged intubation, manual or mechanical ventilation) have been noted in a number of the anaphylaxis reports.
+In addition, prolonged hospitalization and/or the use of additional respiratory support until full recovery (re-intubation, prolonged intubation, manual or mechanical ventilation) have been noted in a number of the anaphylaxis reports.
 
 ## 5.2 Marked Bradycardia
 
@@ -93,7 +93,7 @@ Since bleeding risk has been studied systematically with only heparin and low mo
 ## 5.11 Renal Impairment
 
 BRIDION is not recommended for use in patients with severe renal impairment, including those requiring dialysis [see Use in Specific Populations (8.6)].
-With regard to the recommended waiting time for re-administration in patients with mild or moderate renal impairment, see Waiting Times for Re-administration of Neuromuscular Blocking Agents for Intubation Following Reversal with BRIDION [see Warnings and Precautions (5.5)].
+With regard to the recommended waiting time for re-administration in patients with mild or moderate renal impairment, see Waiting Times for Re-Administration of Neuromuscular Blocking Agents for Intubation Following Reversal with BRIDION [see Warnings and Precautions (5.5)].
 
 ## 5.12 Light Anesthesia
 
