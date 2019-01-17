@@ -6,7 +6,7 @@ Oxcarbazepine is 10,11-Dihydro-10-oxo-5H-dibenz[b,f]azepine-5-carboxamide, and i
 
 Oxcarbazepine is a white to faintly orange crystalline powder.
 It is slightly soluble in chloroform, dichloromethane, acetone, and methanol and practically insoluble in ethanol, ether and water.
-Its molecular weight is 252.27.
+Its molecular weight is 252.27 g/mol.
 
 TRILEPTAL film-coated tablets contain the following inactive ingredients: colloidal silicon dioxide, crospovidone, hydroxypropyl methylcellulose, iron oxide, magnesium stearate, microcrystalline cellulose, polyethylene glycol, talc, and titanium dioxide.
 

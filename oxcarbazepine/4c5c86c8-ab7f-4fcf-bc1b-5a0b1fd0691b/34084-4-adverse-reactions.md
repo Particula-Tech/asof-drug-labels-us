@@ -19,40 +19,40 @@ Most Common Adverse Reactions in All Clinical Studies
 
 Adjunctive Therapy/Monotherapy in Adults Previously Treated with Other AEDs
 
-The most common (≥10% more than placebo for adjunctive or low dose for monotherapy) adverse reactions with TRILEPTAL: dizziness, somnolence, diplopia, fatigue, nausea, vomiting, ataxia, abnormal vision, headache, nystagmus tremor, and abnormal gait.
+The most common (≥ 10% more than placebo for adjunctive or low dose for monotherapy) adverse reactions with TRILEPTAL: dizziness, somnolence, diplopia, fatigue, nausea, vomiting, ataxia, abnormal vision, headache, nystagmus tremor, and abnormal gait.
 
-Approximately 23% of these 1,537 adult patients discontinued treatment because of an adverse reaction.
-The adverse reactions most commonly associated with discontinuation were: dizziness (6.4%), diplopia (5.9%), ataxia (5.2%), vomiting (5.1%), nausea (4.9%), somnolence (3.8%), headache (2.9%), fatigue (2.1%), abnormal vision (2.1%), tremor (1.8%), abnormal gait (1.7%), rash (1.4%), hyponatremia (1.0%).
+Approximately 23% of these 1537 adult patients discontinued treatment because of an adverse reaction.
+The adverse reactions most commonly associated with discontinuation were: dizziness (6.4%), diplopia (5.9%), ataxia (5.2%), vomiting (5.1%), nausea (4.9%), somnolence (3.8%), headache (2.9%), fatigue (2.1%), abnormal vision (2.1%), tremor (1.8%), abnormal gait (1.7%), rash (1.4%), and hyponatremia (1.0%).
 
-Monotherapy in Adults Not Previously Treated with Other AEDs
+Monotherapy in Adults Not Previously Treated With Other AEDs
 
-The most common (≥5%) adverse reactions with TRILEPTAL in these patients were similar to those in previously treated patients.
+The most common (≥ 5%) adverse reactions with TRILEPTAL in these patients were similar to those in previously treated patients.
 
 Approximately 9% of these 295 adult patients discontinued treatment because of an adverse reaction.
-The adverse reactions most commonly associated with discontinuation were: dizziness (1.7%), nausea (1.7%), rash (1.7%), headache (1.4%).
+The adverse reactions most commonly associated with discontinuation were: dizziness (1.7%), nausea (1.7%), rash (1.7%), and headache (1.4%).
 
-Adjunctive Therapy/Monotherapy in Pediatric Patients 4 Years Old and Above Previously Treated with Other AEDs
+Adjunctive Therapy/Monotherapy in Pediatric Patients 4 Years Old and Above Previously Treated With Other AEDs
 
-The most common (≥5%) adverse reactions with TRILEPTAL in these patients were similar to those seen in adults.
+The most common (≥ 5%) adverse reactions with TRILEPTAL in these patients were similar to those seen in adults.
 
 Approximately 11% of these 456 pediatric patients discontinued treatment because of an adverse reaction.
-The adverse reactions most commonly associated with discontinuation were: somnolence (2.4%), vomiting (2.0%), ataxia (1.8%), diplopia (1.3%), dizziness (1.3%), fatigue (1.1%), nystagmus (1.1%).
+The adverse reactions most commonly associated with discontinuation were: somnolence (2.4%), vomiting (2.0%), ataxia (1.8%), diplopia (1.3%), dizziness (1.3%), fatigue (1.1%), and nystagmus (1.1%).
 
-Monotherapy in Pediatric Patients 4 Years Old and Above Not Previously Treated with Other AEDs
+Monotherapy in Pediatric Patients 4 Years Old and Above Not Previously Treated With Other AEDs
 
-The most common (≥5%) adverse reactions with TRILEPTAL in these patients were similar to those in adults.
+The most common (≥ 5%) adverse reactions with TRILEPTAL in these patients were similar to those in adults.
 
 Approximately 9.2% of 152 pediatric patients discontinued treatment because of an adverse reaction.
-The adverse reactions most commonly associated (≥1%) with discontinuation were rash (5.3%) and maculopapular rash (1.3%).
+The adverse reactions most commonly associated (≥ 1%) with discontinuation were rash (5.3%) and maculopapular rash (1.3%).
 
-Adjunctive Therapy/Monotherapy in Pediatric Patients 1 Month to <4 Years Old Previously Treated or Not Previously Treated with Other AEDs:
+Adjunctive Therapy/Monotherapy in Pediatric Patients 1 Month to < 4 Years Old Previously Treated or Not Previously Treated with Other AEDs:
 
-The most common (≥5%) adverse reactions with TRILEPTAL in these patients were similar to those seen in older children and adults except for infections and infestations which were more frequently seen in these younger children.
+The most common (≥ 5%) adverse reactions with TRILEPTAL in these patients were similar to those seen in older children and adults except for infections and infestations which were more frequently seen in these younger children.
 
 Approximately 11% of these 241 pediatric patients discontinued treatment because of an adverse reaction.
 The adverse reactions most commonly associated with discontinuation were: convulsions (3.7%), status epilepticus (1.2%), and ataxia (1.2%).
 
-Controlled Clinical Studies of Adjunctive Therapy/Monotherapy in Adults Previously Treated with Other AEDs
+Controlled Clinical Studies of Adjunctive Therapy/Monotherapy in Adults Previously Treated With Other AEDs
 
 Table 3 lists adverse reactions that occurred in at least 2% of adult patients with epilepsy, treated with TRILEPTAL or placebo as adjunctive treatment and were numerically more common in the patients treated with any dose of TRILEPTAL.
 
@@ -63,7 +63,7 @@ Table 3: Adverse Reactions in a Controlled Clinical Study of Adjunctive Therapy 
 
 |  | TRILEPTAL Dosage (mg/day) |  |  |  |
 | --- | --- | --- | --- | --- |
-| Body System/ Adverse Reaction | TRILEPTAL 600 N=163 % | TRILEPTAL 1200 N=171 % | TRILEPTAL 2400 N=126 % | Placebo N=166 % |
+| Body System/ Adverse Reaction | TRILEPTAL 600 N = 163 % | TRILEPTAL 1200 N = 171 % | TRILEPTAL 2400 N = 126 % | Placebo N = 166 % |
 | Body as a Whole |  |  |  |  |
 | Fatigue | 15 | 12 | 15 | 7 |
 | Asthenia | 6 | 3 | 6 | 5 |
@@ -115,7 +115,7 @@ Table 3: Adverse Reactions in a Controlled Clinical Study of Adjunctive Therapy 
 
 Table 4: Adverse Reactions in Controlled Clinical Studies of Monotherapy with TRILEPTAL in Adults Previously Treated with Other AEDs
 
-| Body System/ Adverse Reaction | TRILEPTAL 2400 mg/day N=86 % | TRILEPTAL 300 mg/day N=86 % |
+| Body System/ Adverse Reaction | TRILEPTAL 2400 mg/day N = 86 % | TRILEPTAL 300 mg/day N = 86 % |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Fatigue | 21 | 5 |
@@ -184,7 +184,7 @@ Table 5 lists adverse reactions in a controlled clinical study of monotherapy in
 
 Table 5: Adverse Reactions in a Controlled Clinical Study of Monotherapy with TRILEPTAL in Adults Not Previously Treated with Other AEDs
 
-| Body System/ Adverse Reaction | TRILEPTAL N=55 % | Placebo N=49 % |
+| Body System/ Adverse Reaction | TRILEPTAL N = 55 % | Placebo N = 49 % |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Falling Down NOS | 4 | 0 |
@@ -220,7 +220,7 @@ Table 6 lists adverse reactions that occurred in at least 2% of pediatric patien
 
 Table 6: Adverse Reactions in Controlled Clinical Studies of Adjunctive Therapy/Monotherapy with TRILEPTAL in Pediatric Patients Previously Treated with Other AEDs
 
-| Body System/ Adverse Reaction | TRILEPTAL N=171 % | Placebo N=139 % |
+| Body System/ Adverse Reaction | TRILEPTAL N = 171 % | Placebo N = 139 % |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Fatigue | 13 | 9 |
@@ -257,36 +257,36 @@ Table 6: Adverse Reactions in Controlled Clinical Studies of Adjunctive Therapy/
 
 Other Events Observed in Association with the Administration of TRILEPTAL
 
-In the paragraphs that follow, the adverse reactions, other than those in the preceding tables or text, that occurred in a total of 565 children and 1,574 adults exposed to TRILEPTAL and that are reasonably likely to be related to drug use are presented.
+In the paragraphs that follow, the adverse reactions, other than those in the preceding tables or text, that occurred in a total of 565 children and 1574 adults exposed to TRILEPTAL and that are reasonably likely to be related to drug use are presented.
 Events common in the population, events reflecting chronic illness and events likely to reflect concomitant illness are omitted particularly if minor.
 They are listed in order of decreasing frequency.
 Because the reports cite events observed in open label and uncontrolled trials, the role of TRILEPTAL in their causation cannot be reliably determined.
 
-Body as a Whole: fever, malaise, pain chest precordial, rigors, weight decrease.
+Body as a Whole: fever, malaise, pain chest precordial, rigors, weight decrease
 
-Cardiovascular System: bradycardia, cardiac failure, cerebral hemorrhage, hypertension, hypotension postural, palpitation, syncope, tachycardia.
+Cardiovascular System: bradycardia, cardiac failure, cerebral hemorrhage, hypertension, hypotension postural, palpitation, syncope, tachycardia
 
-Digestive System: appetite increased, blood in stool, cholelithiasis, colitis, duodenal ulcer, dysphagia, enteritis, eructation, esophagitis, flatulence, gastric ulcer, gingival bleeding, gum hyperplasia, hematemesis, hemorrhage rectum, hemorrhoids, hiccup, mouth dry, pain biliary, pain right hypochondrium, retching, sialoadenitis, stomatitis, stomatitis ulcerative.
+Digestive System: appetite increased, blood in stool, cholelithiasis, colitis, duodenal ulcer, dysphagia, enteritis, eructation, esophagitis, flatulence, gastric ulcer, gingival bleeding, gum hyperplasia, hematemesis, hemorrhage rectum, hemorrhoids, hiccup, mouth dry, pain biliary, pain right hypochondrium, retching, sialoadenitis, stomatitis, stomatitis ulcerative
 
-Hematologic and Lymphatic System: thrombocytopenia.
+Hematologic and Lymphatic System: thrombocytopenia
 
-Laboratory Abnormality: gamma-GT increased, hyperglycemia, hypocalcemia, hypoglycemia, hypokalemia, liver enzymes elevated, serum transaminase increased.
+Laboratory Abnormality: gamma-GT increased, hyperglycemia, hypocalcemia, hypoglycemia, hypokalemia, liver enzymes elevated, serum transaminase increased
 
-Musculoskeletal System: hypertonia muscle.
+Musculoskeletal System: hypertonia muscle
 
-Nervous System: aggressive reaction, amnesia, anguish, anxiety, apathy, aphasia, aura, convulsions aggravated, delirium, delusion, depressed level of consciousness, dysphonia, dystonia, emotional lability, euphoria, extrapyramidal disorder, feeling drunk, hemiplegia, hyperkinesia, hyperreflexia, hypoesthesia, hypokinesia, hyporeflexia, hypotonia, hysteria, libido decreased, libido increased, manic reaction, migraine, muscle contractions involuntary, nervousness, neuralgia, oculogyric crisis, panic disorder, paralysis, paroniria, personality disorder, psychosis, ptosis, stupor, tetany.
+Nervous System: aggressive reaction, amnesia, anguish, anxiety, apathy, aphasia, aura, convulsions aggravated, delirium, delusion, depressed level of consciousness, dysphonia, dystonia, emotional lability, euphoria, extrapyramidal disorder, feeling drunk, hemiplegia, hyperkinesia, hyperreflexia, hypoesthesia, hypokinesia, hyporeflexia, hypotonia, hysteria, libido decreased, libido increased, manic reaction, migraine, muscle contractions involuntary, nervousness, neuralgia, oculogyric crisis, panic disorder, paralysis, paroniria, personality disorder, psychosis, ptosis, stupor, tetany
 
-Respiratory System: asthma, dyspnea, epistaxis, laryngismus, pleurisy.
+Respiratory System: asthma, dyspnea, epistaxis, laryngismus, pleurisy
 
-Skin and Appendages: acne, alopecia, angioedema, bruising, dermatitis contact, eczema, facial rash, flushing, folliculitis, heat rash, hot flushes, photosensitivity reaction, pruritus genital, psoriasis, purpura, rash erythematous, rash maculopapular, vitiligo, urticaria.
+Skin and Appendages: acne, alopecia, angioedema, bruising, dermatitis contact, eczema, facial rash, flushing, folliculitis, heat rash, hot flushes, photosensitivity reaction, pruritus genital, psoriasis, purpura, rash erythematous, rash maculopapular, vitiligo, urticaria
 
-Special Senses: accommodation abnormal, cataract, conjunctival hemorrhage, edema eye, hemianopia, mydriasis, otitis externa, photophobia, scotoma, taste perversion, tinnitus, xerophthalmia.
+Special Senses: accommodation abnormal, cataract, conjunctival hemorrhage, edema eye, hemianopia, mydriasis, otitis externa, photophobia, scotoma, taste perversion, tinnitus, xerophthalmia
 
-Surgical and Medical Procedures: procedure dental oral, procedure female reproductive, procedure musculoskeletal, procedure skin.
+Surgical and Medical Procedures: procedure dental oral, procedure female reproductive, procedure musculoskeletal, procedure skin
 
-Urogenital and Reproductive System: dysuria, hematuria, intermenstrual bleeding, leukorrhea, menorrhagia, micturition frequency, pain renal, pain urinary tract, polyuria, priapism, renal calculus.
+Urogenital and Reproductive System: dysuria, hematuria, intermenstrual bleeding, leukorrhea, menorrhagia, micturition frequency, pain renal, pain urinary tract, polyuria, priapism, renal calculus
 
-Other: Systemic lupus erythematosus.
+Other: Systemic lupus erythematosus
 
 Laboratory Tests
 
@@ -314,7 +314,7 @@ Metabolism and Nutrition Disorders: hypothyroidism and syndrome of inappropriate
 
 Skin and Subcutaneous Tissue Disorders: erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis [see Warnings and Precautions (5.4)], Acute Generalized Exanthematous Pustulosis (AGEP)
 
-Musculoskeletal, connective tissue and bone disorders: There have been reports of decreased bone mineral density, osteoporosis and fractures in patients on long-term therapy with TRILEPTAL.
+Musculoskeletal, Connective Tissue and Bone Disorders: There have been reports of decreased bone mineral density, osteoporosis and fractures in patients on long-term therapy with TRILEPTAL.
 
 Injury, Poisoning, and Procedural Complications: fall
 
