@@ -14,7 +14,8 @@ Ask your doctor or pharmacist if you do not understand any of this information o
 What are ziprasidone hydrochloride capsules?
 
 Ziprasidone hydrochloride capsules are a type of prescription medicine called a psychotropic, also known as an atypical antipsychotic.
-Ziprasidone hydrochloride capsules can be used to treat symptoms of schizophrenia.
+Ziprasidone hydrochloride capsules can be used to treat symptoms of schizophrenia and acute manic or mixed episodes associated with bipolar disorder.
+Ziprasidone hydrochloride capsules can also be used as maintenance treatment of bipolar disorder when added to lithium or valproate.
 
 Who should take ziprasidone hydrochloride capsules?
 
@@ -28,6 +29,14 @@ Symptoms of schizophrenia may include:
 - unusual suspiciousness (paranoia)
 - becoming withdrawn from family and friends
 
+Symptoms of manic or mixed episodes of bipolar disorder may include:
+
+- extremely high or irritable mood
+- increased energy, activity, and restlessness
+- racing thoughts or talking very fast
+- easily distracted
+- little need for sleep
+
 If you show a response to ziprasidone hydrochloride capsules, your symptoms may improve.
 If you continue to take ziprasidone hydrochloride capsules there is less chance of your symptoms returning.
 Do not stop taking the capsules even when you feel better without first discussing it with your doctor.
@@ -39,10 +48,10 @@ What is the most important safety information I should know about ziprasidone hy
 Ziprasidone hydrochloride capsules are not approved for the treatment of patients with dementia-related psychosis.
 Elderly patients with a diagnosis of psychosis related to dementia treated with antipsychotics are at an increased risk of death when compared to patients who are treated with placebo (a sugar pill).
 
-Ziprasidone hydrochloride capsule is an effective drug to treat the symptoms of schizophrenia.
+Ziprasidone hydrochloride capsule is an effective drug to treat the symptoms of schizophrenia and the manic or mixed episodes of bipolar disorder.
 However, one potential side effect is that it may change the way the electrical current in your heart works more than some other drugs.
 The change is small and it is not known whether this will be harmful, but some other drugs that cause this kind of change have in rare cases caused dangerous heart rhythm abnormalities.
-Because of this, ziprasidone hydrochloride capsules should be used only after your doctor has considered this risk for ziprasidone hydrochloride capsules against the risks and benefits of other medications available for treating schizophrenia.
+Because of this, ziprasidone hydrochloride capsules should be used only after your doctor has considered this risk for ziprasidone hydrochloride capsules against the risks and benefits of other medications available for treating schizophrenia or bipolar manic disorder and mixed episodes.
 
 Your risk of dangerous changes in heart rhythm can be increased if you are taking certain other medicines and if you already have certain abnormal heart conditions.
 Therefore, it is important to tell your doctor about any other medicines that you take, including non-prescription medicines, supplements, and herbal medicines.
@@ -169,10 +178,13 @@ This sheet is only a summary.
 Ziprasidone hydrochloride capsules are a prescription medicine and only your doctor can decide if it is right for you.
 If you have any questions or want more information about ziprasidone hydrochloride capsules, talk with your doctor or pharmacist.
 
+This product’s label may have been updated.
+For current full prescribing information, please visit www.apotex.com
+
 APOTEX INC. ZIPRASIDONE HYDROCHLORIDE CAPSULES 20 mg, 40 mg, 60 mg and 80 mg
 
 Manufactured by Manufactured for Apotex Inc. Apotex Corp. Toronto, Ontario Weston, Florida Canada M9L 1T9 33326
 
-Revised: March 2017
+Revised: January 2019
 
-Revision: 11
+Revision: 12

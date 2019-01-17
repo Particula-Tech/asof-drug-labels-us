@@ -41,6 +41,7 @@ Antacid The co-administration of 30 mL of Maalox® with ziprasidone did not affe
 ## 7.5 Lithium
 
 Ziprasidone at a dose of 40 mg twice daily administered concomitantly with lithium at a dose of 450 mg twice daily for 7 days did not affect the steady-state level or renal clearance of lithium.
+Ziprasidone dosed adjunctively to lithium in a maintenance trial of bipolar patients did not affect mean therapeutic lithium levels.
 
 ## 7.6 Oral Contraceptives
 
@@ -55,6 +56,7 @@ There was no statistically significant change in the urinary dextromethorphan/de
 ## 7.8 Valproate
 
 A pharmacokinetic interaction of ziprasidone with valproate is unlikely due to the lack of common metabolic pathways for the two drugs.
+Ziprasidone dosed adjunctively to valproate in a maintenance trial of bipolar patients did not affect mean therapeutic valproate levels.
 
 ## 7.9 Other Concomitant Drug Therapy
 
