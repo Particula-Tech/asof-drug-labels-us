@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA074623"
+  ],
+  "inn": "lactulose",
+  "labeler": "Lannett Company, Inc.",
+  "package_ndcs": [
+    "0527-5120-68",
+    "0527-5120-70",
+    "0527-5120-78"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "lactulose",
+      "name": "LACTULOSE"
+    }
+  ],
+  "setid": "6619b25c-26b7-4c43-8c4f-9d33a23c61ca",
+  "source": "dailymed"
+}
