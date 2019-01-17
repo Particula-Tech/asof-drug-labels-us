@@ -99,7 +99,7 @@ Acute Hypersensitivity Anaphylaxis and angioedema have been reported post-market
 In some cases, reactions were life-threatening and required emergency treatment.
 If a patient develops signs or symptoms of an acute hypersensitivity reaction, advise them to seek immediate medical attention and discontinue fenofibrate.
 
-Delayed Hypersensitivity Severe cutaneous adverse drug reactions (SCAR), including Stevens-Johnson Syndrome, Toxic Epidermal Necrolysis, and Drug Reaction with Eosinophilia And Systemic Symptoms (DRESS), have been reported post-marketing, occurring days to weeks after initiation of fenofibrate.
+Delayed Hypersensitivity Severe cutaneous adverse drug reactions (SCAR), including Stevens-Johnson Syndrome, Toxic Epidermal Necrolysis, and Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) have been reported post-marketing, occurring days to weeks after initiation of fenofibrate.
 The cases of DRESS were associated with cutaneous reactions (such as rash or exfoliative dermatitis) and a combination of eosinophilia, fever, systemic organ involvement (renal, hepatic, or respiratory).
 Discontinue fenofibrate and treat patients appropriately if SCAR is suspected.
 

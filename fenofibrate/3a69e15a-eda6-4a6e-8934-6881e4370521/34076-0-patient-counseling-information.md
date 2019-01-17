@@ -11,8 +11,9 @@ Patients should be advised:
 - •to continue to follow an appropriate lipid-modifying diet while taking fenofibrate capsules.
 - •to take fenofibrate capsules once daily at the prescribed dose, swallowing each capsule whole.
 - •to inform their physician of any muscle pain, tenderness, or weakness; onset of abdominal pain; or any other new symptoms.
+- •not to breastfeed during treatment with fenofibrate capsules and for 5 days after the final dose.
 - •to return to their physician's office for routine monitoring.
 
 Product of Israel
 
-Manufactured for: ANI Pharmaceuticals, Inc. Baudette, MN 56623 9854 Rev 09/18
+Manufactured for: ANI Pharmaceuticals, Inc. Baudette, MN 56623 9854 Rev 01/19
