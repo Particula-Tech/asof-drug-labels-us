@@ -1,7 +1,15 @@
-# PRINCIPAL DISPLAY PANEL
+# PACKAGE LABEL PRINCIPAL DISPLAY PANEL
 
-NDC 59630-574-60 FORTAMET® metformin HCI extended-release tablets 500 mg/tablet www.fortamet.com 60 TABLETS Rx only
+NDC 59630-574-60
 
-# PRINCIPAL DISPLAY PANEL
+FORTAMET® metformin HCI extended-release tablets 500 mg/tablet
 
-NDC 59630-575-60 FORTAMET® metformin HCI extended-release tablets 1000 mg/tablet 60 TABLETS Rx only
+60 TABLETS Rx only
+
+# PACKAGE LABEL PRINCIPAL DISPLAY PANEL
+
+NDC 59630-575-60
+
+FORTAMET® metformin HCI extended-release tablets 1000 mg/tablet
+
+60 TABLETS Rx only
