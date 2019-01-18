@@ -39,3 +39,5 @@ Because these reactions are reported voluntarily from a population of uncertain 
 The following adverse reactions have been identified during post-approval use of CLOBEX® Spray, 0.05%.
 
 Skin: Burning, pruritus, erythema, pain, irritation, rash, peeling, urticaria, and contact dermatitis.
+
+Ophthalmic adverse reactions of blurred vision, cataracts, glaucoma, increased intraocular pressure, and central serous chorioretinopathy have been reported with the use of topical corticosteroids.

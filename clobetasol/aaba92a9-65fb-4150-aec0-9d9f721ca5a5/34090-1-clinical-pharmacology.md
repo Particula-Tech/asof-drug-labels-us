@@ -2,11 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Like other topical corticosteroids CLOBEX® (clobetasol propionate) Spray, 0.05% has anti-inflammatory, antipruritic, and vasoconstrictive properties.
-The mechanism of the anti-inflammatory activity of the topical steroids in general is unclear.
-However, corticosteroids are thought to act by induction of phospholipase A2 inhibitory proteins, collectively called lipocortins.
-It is postulated that these proteins control the biosynthesis of potent mediators of inflammation such as prostaglandins and leukotrienes by inhibiting the release of their common precursor, arachidonic acid.
-Arachidonic acid is released from membrane phospholipids by phospholipase A2.
+Corticosteroids play a role in cellular signaling, immune function, inflammation, and protein regulation; however, the precise mechanism of action in corticosteroid responsive dermatoses is unknown.
 
 ## 12.2 Pharmacodynamics
 

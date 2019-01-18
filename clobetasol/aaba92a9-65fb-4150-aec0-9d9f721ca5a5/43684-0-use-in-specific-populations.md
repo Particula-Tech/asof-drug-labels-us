@@ -2,36 +2,46 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects: Pregnancy Category C:
+Risk Summary
 
-There are no adequate and well-controlled studies in pregnant women.
-Therefore, CLOBEX® Spray, 0.05% should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+There are no available data on CLOBEX® Spray use in pregnant women to identify a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
 
-Corticosteroids have been shown to be teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
-Some corticosteroids have been shown to be teratogenic after dermal application to laboratory animals.
+Observational studies suggest an increased risk of low birthweight in in infants with the maternal use of potent or very potent topical corticosteroids (see Data).
+Advise pregnant women that CLOBEX® Spray may increase the risk of having a low birth weight infant and to use CLOBEX® Spray on the smallest area of skin and for the shortest duration possible.
+Animal reproduction studies have not been conducted with CLOBEX® Spray.
+In an animal reproduction study, subcutaneous administration of clobetasol propionate to pregnant rats at doses greater than 12.5 μg/kg/day during the period of organogenesis caused an increase in malformations (increased incidence of umbilical hernia) [see Data].
+The available data do not allow calculation of relevant comparisons between the systemic exposure of clobetasol propionate in animal studies to the systemic exposure that would be expected in humans after topical use of CLOBEX® Spray.
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-Clobetasol propionate is absorbed percutaneously, and when administered subcutaneously it was a significant teratogen in both the rabbit and the mouse.
+Data Human Data Available observational studies in pregnant women did not identify a drug-associated risk of major birth defects, preterm delivery, or fetal mortality with the use of topical corticosteroids of any potency.
+However, when the dispensed amount of potent or very potent topical corticosteroids exceeded 300 g during the entire pregnancy, maternal use was associated with an increased risk of low birth weight in infants.
 
-Clobetasol propionate has greater teratogenic potential than steroids that are less potent.
+Animal Data Clobetasol propionate is absorbed percutaneously, and when administered subcutaneously it caused malformations in both the rabbit and the mouse.
+
+Clobetasol propionate has greater potential for adverse developmental effects than steroids that are less potent.
 
 The effect of clobetasol propionate on pregnancy outcome and development of offspring was studied in the rat.
 Clobetasol propionate was administered subcutaneously to female rats twice daily (0, 12.5, 25, and 50 μg/kg/day) from day 7 of presumed gestation through day 25 of lactation or day 24 presumed gestation for those rats that did not deliver a litter.
-The maternal NOEL for clobetasol propionate was less than 12.5 μg/kg/day due to reduced body weight gain and feed consumption during the gestation period.
-The reproductive NOEL in the dams was 25 μg/kg/day (ratio of animal dose to proposed human dose of 0.07 on a mg/m2/day basis) based on prolonged delivery at a higher dose level.
-The no-observed-adverse-effect-level (NOAEL) for viability and growth in the offspring was 12.5 μg/kg/day (ratio of animal dose to proposed human dose of 0.03 on a mg/m2/day basis) based on incidence of stillbirths, reductions in pup body weights on days 1 and 7 of lactation, increased pup mortality, increases in the incidence of umbilical hernia, and increases in the incidence of pups with cysts on the kidney at higher dose levels during the preweaning period.
+The maternal no-observed-adverse-effect-level (NOAEL) for clobetasol propionate was less than 12.5 μg/kg/day due to reduced body weight gain and feed consumption during the gestation period.
+The reproductive NOAEL in the dams was 25 μg/kg/day based on prolonged delivery at 50 μg/kg/day.
+The NOAEL for viability and growth in the offspring was 12.5 μg/kg/day based on incidence of stillbirths, reductions in pup body weights on days 1 and 7 of lactation, increased pup mortality, increases in the incidence of umbilical hernia, and increases in the incidence of pups with cysts on the kidney at higher dose levels during the preweaning period.
 The weights of the epididymides and testes were significantly reduced at higher dosages.
 Despite these changes, there were no effects on the mating and fertility of the offspring.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-Systemically administered corticosteroids appear in human milk and could suppress growth, interfere with endogenous corticosteroid production, or cause other untoward effects.
-It is not known whether topical administration of corticosteroids could result in sufficient systemic absorption to produce detectable quantities in breast milk.
-Because many drugs are excreted in human milk, caution should be exercised when CLOBEX® Spray, 0.05% is administered to a nursing woman.
+Risk Summary There is no information regarding the presence of clobetasol propionate in human milk or its effects on the breastfed infant or on milk production.
+It is not known whether topical administration of clobetasol propionate could result in sufficient systemic absorption to produce detectable quantities in human milk.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for CLOBEX® Spray and any potential adverse effects on the breastfed infant from CLOBEX® Spray or from the underlying maternal condition.
+Clinical Considerations To minimize potential exposure to the breastfed infant via breast milk, use CLOBEX® Spray on the smallest area of skin and for the shortest duration possible while breastfeeding.
+Advise breastfeeding women not to apply CLOBEX® Spray directly to the nipple and areola to avoid direct infant exposure [see Use in Specific Populations (8.4)].
 
-## 8.4 Pediatric Use
+## 8.3 Pediatric Use
 
 Use in patients under 18 years of age is not recommended, because safety has not been established and because numerically high rates of HPA axis suppression were seen with other clobetasol propionate topical formulations.
-Safety and effectiveness in pediatric patients treated with CLOBEX® Spray, 0.05% have not been established see [Warnings and Precautions (5.1)].
+Safety and effectiveness in pediatric patients treated with CLOBEX® Spray, 0.05% have not been established [see Warnings and Precautions (5.1)].
 
 Because of higher ratio of skin surface area to body mass, pediatric patients are at a greater risk than adults of HPA axis suppression and Cushing’s syndrome when they are treated with topical corticosteroids.
 They are therefore also at greater risk of glucocorticosteroid insufficiency during and/or after withdrawal of treatment.
@@ -41,7 +51,7 @@ HPA axis suppression, Cushing’s syndrome, linear growth retardation, delayed w
 Manifestations of adrenal suppression in children include low plasma cortisol levels and absence of response to ACTH stimulation.
 Manifestations of intracranial hypertension include bulging fontanelles, headaches, and bilateral papilledema.
 
-## 8.5 Geriatric Use
+## 8.4 Geriatric Use
 
 Clinical studies of CLOBEX® Spray, 0.05% did not include sufficient numbers of patients aged 65 and over to adequately determine whether they respond differently than younger patients.
 In two randomized, vehicle controlled clinical trials, 21 of the 240 patients (9%) were over the age of 65.

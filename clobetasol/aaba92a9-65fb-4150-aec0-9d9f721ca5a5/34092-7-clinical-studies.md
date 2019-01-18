@@ -9,13 +9,10 @@ Only patients classified as moderate or severe/very severe at baseline were enro
 The median percent body surface area (BSA) at baseline was 6% for the two studies.
 The numbers of patients scored as clear or almost clear at Weeks 2 and 4 are presented in Table 2.
 
-Table 2-Number of Patients Clear or Almost Clear on the Overall Disease Severity Scale at Weeks 2 & 4
+Table 2: Number of Patients Clear or Almost Clear on Overall Disease Severity Sale at Weeks 2 & 4
 
-|  |  | N=60 | N=60 | N=60 | N=60 |
-| --- | --- | --- | --- | --- | --- |
-|  |  | Study 1 |  | Study 2 |  |
-|  |  | CLOBEX® | Vehicle | CLOBEX® | Vehicle |
-| Week 2 | Clear | 1 (2%) | 0 (0%) | 0 (0%) | 0 (0%) |
-|  | Almost Clear | 32 (53%) | 1 (2%) | 28 (47%) | 0 (0%) |
-| Week 4 | Clear | 15 (25%) | 0 (0%) | 18 (30%) | 0 (0%) |
-|  | Almost Clear | 32 (53%) | 2 (3%) | 31 (52%) | 1 (2%) |
+|  | Study 1 |  | Study 2 |  |
+| --- | --- | --- | --- | --- |
+| Clobex® N=60 | Vehicle N=60 | Clobex® N=60 | Vehicle N=60 |  |
+| Week 2 Clear Almost Clear | 1 (2%) 32 (53%) | 0 (0%) 1 (2%) | 0 (0%) 28 (47%) | 0 (0%) 0 (0%) |
+| Week 4 Clear Almost Clear | 15 (25%) 32 (53%) | 0 (0%) 2 (3%) | 18 (30%) 31 (52%) | 0 (0%) 1 (2%) |
