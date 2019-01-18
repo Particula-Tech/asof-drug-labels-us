@@ -22,9 +22,9 @@ Manf. by: Catalent Pharma Solutions Winchester, KY 40391
 
 Dist. by: Impax Generics Hayward, CA 94544
 
-2090-01
+2090-02
 
 Rev.
-February, 2018
+January 2019
 
 For additional copies of the printed patient information/medication guide, please visit www.impaxlabs.com or contact us at 1-800-934-6729.

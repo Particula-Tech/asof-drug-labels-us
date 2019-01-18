@@ -226,7 +226,7 @@ Mutagenicity studies and long-term studies in animals to determine the carcinoge
 
 ### Teratogenic Effects
 
-Pregnancy Category C. Dextroamphetamine sulfate has been shown to have embryotoxic and teratogenic effects when administered to A/Jax mice and C57BL mice in doses approximately 41 times the maximum human dose.
+Dextroamphetamine sulfate has been shown to have embryotoxic and teratogenic effects when administered to A/Jax mice and C57BL mice in doses approximately 41 times the maximum human dose.
 Embryotoxic effects were not seen in New Zealand white rabbits given the drug in doses 7 times the human dose nor in rats given 12.5 times the maximum human dose.
 While there are no adequate and well-controlled studies in pregnant women, there has been 1 report of severe congenital bony deformity, tracheoesophageal fistula, and anal atresia (VATER association) in a baby born to a woman who took dextroamphetamine sulfate with lovastatin during the first trimester of pregnancy.
 Dextroamphetamine sulfate should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
