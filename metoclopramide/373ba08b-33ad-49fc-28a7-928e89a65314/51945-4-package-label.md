@@ -8,13 +8,18 @@ Rx only
 
 For I.V. or I.M. use.
 
-Hospira
+Dist. by Hospira, Inc., Lake Forest, IL 60045 USA
 
-RL - 5011 Hospira, Inc., Lake Forest, IL 60045 USA
+AP/DRUGS/08/2013 M.L.No.
+08/VP/AP/2013/F/G
+
+Hospira
 
 # PRINCIPAL DISPLAY PANEL - 2 mL Vial Tray
 
-25 x 2 mL Single-use vials NDC 0409-3414-01 Rx only
+25 x 2 mL Single-use vials NDC 0409-3414-01 Contains 25 of NDC 0409-3414-18
+
+Rx only
 
 Metoclopramide Injection, USP 10 mg/2 mL (5 mg/mL)
 
