@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA210662"
+  ],
+  "inn": "tetracycline",
+  "labeler": "Breckenridge Pharmaceutical, Inc.",
+  "package_ndcs": [
+    "51991-906-01",
+    "51991-906-05",
+    "51991-906-33",
+    "51991-907-01",
+    "51991-907-05",
+    "51991-907-33"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "tetracycline hydrochloride",
+      "name": "Tetracycline Hydrochloride"
+    }
+  ],
+  "setid": "00acf413-c5d2-4a54-9d0d-56266cbc9edc",
+  "source": "dailymed"
+}
