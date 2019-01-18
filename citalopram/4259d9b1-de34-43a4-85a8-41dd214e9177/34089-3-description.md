@@ -8,8 +8,6 @@ The molecular formula is C20H22BrFN2O and its molecular weight is 405.35.
 Citalopram HBr occurs as a fine, white to off-white powder.
 Citalopram HBr is sparingly soluble in water and soluble in ethanol.
 
-Celexa (citalopram) is available only in tablet dosage form.
-
 Celexa 10 mg are film-coated, oval tablets containing citalopram HBr in strengths equivalent to 10 mg citalopram base.
 Celexa 20 mg and 40 mg are film-coated, oval, scored tablets containing citalopram HBr in strengths equivalent to 20 mg or 40 mg citalopram base.
 The tablets also contain the following inactive ingredients: copolyvidone, corn starch, crosscarmellose sodium, glycerin, lactose monohydrate, magnesium stearate, hypromellose, microcrystalline cellulose, polyethylene glycol, and titanium dioxide.

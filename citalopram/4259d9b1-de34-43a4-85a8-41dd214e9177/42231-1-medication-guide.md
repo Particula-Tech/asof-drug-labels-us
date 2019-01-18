@@ -270,11 +270,11 @@ Inactive ingredients:
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: October 2018
+Revised: January 2019
 
 Distributed by: Allergan USA, Inc. Madison, NJ 07940 Licensed from H. Lundbeck A/S
 
-© 2018Allergan.
+© 2019 Allergan.
 All rights reserved.
 
-Rev. -October 2018 v1.1MG4040
+Rev. -January 2019 v1.1MG4040
