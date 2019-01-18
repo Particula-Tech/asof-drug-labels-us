@@ -8,9 +8,9 @@ Docetaxel has the following structural formula:
 Docetaxel is a white to almost-white powder with an empirical formula of C 43H 53NO 14• 3H 2O, and a molecular weight of 861.9.
 It is highly lipophilic and practically insoluble in water.
 
-One-vial Formulation Docetaxel Injection USP
+One-vial Docetaxel Injection USP (Injection)
 
-Docetaxel Injection USP is a sterile, non-pyrogenic, pale yellow to brownish-yellow solution at 20 m/mL concentration.
+Docetaxel Injection USP is a sterile, non-pyrogenic, pale-yellow to brownish-yellow solution at 20 m/mL concentration.
 
 Each mL contains 20 mg docetaxel (anhydrous) in 0.54 grams polysorbate 80 and 0.395 grams dehydrated alcohol solution.
 Also contains anhydrous citric acid as pH adjuster.

@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-One-vial Formulation Docetaxel Injection USP
+One-vial Docetaxel Injection USP
 
 Docetaxel Injection USP, 20 mg/mL, (one-vial formulation) is supplied in a single-dose vial as a sterile, pyrogen-free, nonaqueous solution.
 Discard unused portion.
