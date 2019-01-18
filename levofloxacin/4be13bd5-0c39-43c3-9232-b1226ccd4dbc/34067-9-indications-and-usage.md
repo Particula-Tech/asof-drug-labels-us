@@ -66,13 +66,13 @@ Because fluoroquinolones, including levofloxacin, have been associated with seri
 
 Levofloxacin tablets are indicated in adult patients for the treatment of acute bacterial exacerbation of chronic bronchitis (ABECB) due to methicillin-susceptible Staphylococcus aureus, Streptococcus pneumoniae, Haemophilus influenzae, Haemophilus parainfluenzae, or Moraxella catarrhalis.
 
-Because fluoroquinolones, including levofloxacin, have been associated with serious adverse reactions [see WARNINGS AND PRECAUTIONS (5.1 to 5.14)] and for some patients ABECB is self-limiting, reserve levofloxacin for treatment of ABECB in patients who have no alternative treatment options.
+Because fluoroquinolones, including levofloxacin, have been associated with serious adverse reactions [see WARNINGS AND PRECAUTIONS (5.1 to 5.15)] and for some patients ABECB is self-limiting, reserve levofloxacin for treatment of ABECB in patients who have no alternative treatment options.
 
 ## 1.14 Acute Bacterial Sinusitis: 5-day and 10 to 14 day Treatment Regimens
 
 Levofloxacin tablets are indicated in adult patients for the treatment of acute bacterial sinusitis (ABS) due to Streptococcus pneumoniae, Haemophilus influenzae, or Moraxella catarrhalis [see CLINICAL STUDIES (14.4)].
 
-Because fluoroquinolones, including levofloxacin, have been associated with serious adverse reactions [see WARNINGS AND PRECAUTIONS (5.1 to 5.14)] and for some patients ABS is self-limiting, reserve levofloxacin for treatment of ABS in patients who have no alternative treatment options.
+Because fluoroquinolones, including levofloxacin, have been associated with serious adverse reactions [see WARNINGS AND PRECAUTIONS (5.1 to 5.15)] and for some patients ABS is self-limiting, reserve levofloxacin for treatment of ABS in patients who have no alternative treatment options.
 
 ## 1.15 Usage
 
