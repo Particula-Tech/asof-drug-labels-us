@@ -10,9 +10,9 @@ The following serious adverse reactions are discussed elsewhere in the labeling:
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 Divigel was studied at doses of 0.25, 0.5 and 1.0 gram per day in a 12-week, double-blind, placebo-controlled study that included a total of 495 postmenopausal women (86.5 percent Caucasian).
-The adverse events that occurred at a rate greater than 5 percent in any of the treatment groups are summarized in Table 1.
+The adverse events that occurred at a rate greater than 5 percent and greater than placebo in any of the treatment groups are summarized in Table 1.
 
-Table 1: Number (%) of Subjects with Common Adverse Reactions * in a 12-Week Placebo-Controlled Study of Divigel
+Table 1: Number (%) of Subjects with Common Adverse Reactions* in a 12-Week Placebo-Controlled Study of Divigel
 
 | SYSTEM ORGAN CLASS Preferred Term | 0.25 g/day N=122 n (%) | 0.5 g/day N=123 n (%) | 1.0 g/day N=125 n (%) | N=125 n (%) |
 | --- | --- | --- | --- | --- |

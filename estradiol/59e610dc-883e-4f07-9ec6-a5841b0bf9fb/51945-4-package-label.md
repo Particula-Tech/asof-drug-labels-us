@@ -45,3 +45,19 @@ Divigel® (estradiol gel) 0.1%
 Rx only
 
 VERTICAL PHARMACEUTICALS, LLC
+
+# PRINCIPAL DISPLAY PANEL
+
+PRINCIPAL DISPLAY PANEL - 0.75 mg Packet Carton
+
+NDC 68025-083-30
+
+Divigel® (estradiol gel) 0.1%
+
+0.75 mg
+
+30 packets 0.75 g gel provides 0.75 mg estradiol/packet
+
+Rx only
+
+VERTICAL PHARMACEUTICALS, LLC

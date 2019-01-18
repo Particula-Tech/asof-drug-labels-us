@@ -2,15 +2,17 @@
 
 ## 8.1 Pregnancy
 
-Divigel should not be used during pregnancy [see Contraindications (4)].
-There appears to be little or no increased risk of birth defects in children born to women who have used estrogens and progestins as an oral contraceptive inadvertently during early pregnancy.
+Risk Summary
 
-## 8.3 Nursing Mothers
+There are no data with the use of Divigel in in pregnant women; however, epidemiologic studies and meta-analyses have not found an increased risk of genital or nongenital birth defects (including cardiac anomalies and limb-reduction defects) following exposure to combined hormonal contraceptives (estrogen and progestins) before conception or during early pregnancy.
 
-Divigel should not be used during lactation.
-Estrogen administration to nursing women has been shown to decrease the quantity and quality of the breast milk.
-Detectable amounts of estrogens have been identified in the breast milk of women receiving estrogen therapy.
-Caution should be exercised when Divigel is administered to a nursing woman.
+## 8.2 Lactation
+
+Risk Summary
+
+Divigel is not indicated for use in females of reproductive potential.
+Estrogens are present in human milk and can reduce milk production in breast-feeding females.
+This reduction can occur at any time but is less likely to occur once breast-feeding is well-established.
 
 ## 8.4 Pediatric Use
 
@@ -31,12 +33,4 @@ The Women's Health Initiative Memory Study
 
 In the WHIMS ancillary studies of postmenopausal women 65 to 79 years of age, there was an increased risk of developing probable dementia in women receiving estrogen-alone or estrogen plus progestin when compared to placebo [see Warnings and Precautions (5.3), and Clinical Studies (14.3)].
 
-Since both ancillary studies were conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women 8[see Warnings and Precautions (5.3), and Clinical Studies (14.3)].
-
-## 8.6 Renal Impairment
-
-The effect of renal impairment on the pharmacokinetics of Divigel has not been studied.
-
-## 8.7 Hepatic Impairment
-
-The effect of hepatic impairment on the pharmacokinetics of Divigel has not been studied.
+Since both ancillary studies were conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women8 [see Warnings and Precautions (5.3), and Clinical Studies (14.3)].

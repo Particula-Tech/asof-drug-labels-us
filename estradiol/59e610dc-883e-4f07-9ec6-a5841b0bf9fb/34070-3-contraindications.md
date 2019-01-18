@@ -10,4 +10,3 @@ Divigel should not be used in women with any of the following conditions:
 - Known anaphylactic reaction or angioedema to Divigel
 - Known liver impairment or disease
 - Known protein C, protein S, or antithrombin deficiency, or other known thrombophilic disorders
-- Known or suspected pregnancy

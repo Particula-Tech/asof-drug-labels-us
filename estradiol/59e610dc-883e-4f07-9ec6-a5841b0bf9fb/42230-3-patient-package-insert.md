@@ -14,7 +14,7 @@ This information does not take the place of talking to your healthcare provider 
 
 What is Divigel?
 
-Divigel is a medicine that contains the estrogen hormone estradiol, which is the same hormone made by a woman's ovaries.
+Divigel is a medicine that contains the estrogen hormone estradiol.
 Divigel is a clear, colorless, smooth gel that is odorless when dry.
 When applied to the skin, estradiol is absorbed through the skin into the bloodstream.
 
@@ -47,13 +47,12 @@ Do not start using Divigel if you:
 - Currently have or have had liver problems
 - Have been diagnosed with a bleeding disorder
 - Are allergic to Divigel or any of its ingredients See the list of ingredients in Divigel at the end of this leaflet.
-- Think you may be pregnant
 
 TELL YOUR HEALTHCARE PROVIDER:
 
 - If you have any unusual vaginal bleeding Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb).
-  Your healthcare provider should check any vaginal bleeding to find out the cause.
-- About all of your medical problems Your healthcare provider may need to check you more carefully if you have certain conditions, such as asthma (wheezing), epilepsy (seizures), diabetes, migraine; endometriosis, lupus, problems with your heart, liver, thyroid, kidneys, or have high calcium levels in your blood.
+  Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
+- About all of your medical problems Your healthcare provider may need to check you more carefully if you have certain conditions, such as asthma (wheezing), epilepsy (seizures), diabetes, migraine; endometriosis, lupus, angioedema (swelling of face and tongue), problems with your heart, liver, thyroid, kidneys, or have high calcium levels in your blood.
 - About all the medicines you take This includes prescription and nonprescription medicines, vitamins, and herbal supplements.
   Some medicines may affect how Divigel works.
   Divigel may also affect how your other medicines work.
@@ -126,7 +125,7 @@ Wait and apply your normal dose the next day.
 
 What should I do if someone else is exposed to Divigel?
 
-Once you have applied Divigel, it has dried, and you have washed your hands, there is little risk of transfer to another person.
+To reduce the chance of transfer to another person let the Divigel dry and wash your hands before your thigh or hands touch someone else.
 If someone else is exposed to Divigel by direct contact with the wet gel, that person should wash the area of contact with soap and water as soon as possible.
 This is especially important for men and children.
 The longer the gel is in contact with the skin before washing, the chance is greater that the other person will absorb some of the estrogen hormone.
@@ -142,7 +141,7 @@ Side effects are grouped by how serious they are and how often they happen when 
 
 Serious, but less common side effects include:
 
-| Heart attackStrokeBlood clotsDementiaBreast cancerCancer of the lining of the uterus (womb) | Cancer of the ovaryHigh blood pressureHigh blood sugarGallbladder diseaseLiver problemsEnlargement of benign tumors of the uterus ("fibroids") |
+| Heart attackStrokeBlood clotsDementiaBreast cancerCancer of the lining of the uterus (womb)Low blood calcium (hypocalcemia)Fluid retentionCancer of the ovaryHigh blood pressure | High blood sugarLow thyroid levels in your bloodGallbladder diseaseLiver problemsEnlargement of benign tumors of the uterus ("fibroids")High triglyceride (fat) levels in your bloodHigh blood calcium (hypercalcemia)Worsening of angioedema (swelling of face and tongue)Changes in certain laboratory test results |
 | --- | --- |
 
 Call your healthcare provider right away if you get any of the following warning signs or any other unusual symptoms that concern you:
@@ -153,16 +152,13 @@ Call your healthcare provider right away if you get any of the following warning
 - Sudden new severe headaches
 - Severe pains in your chest or legs with or without shortness of breath, weakness and fatigue
 
-Less serious, but common, side effects include:
+The most common side effects of Divigel include:
 
-- Headache
-- Breast pain
 - Irregular vaginal bleeding or spotting
-- Stomach or abdominal cramps, bloating
-- Nausea and vomiting
-- Hair loss
-- Fluid retention
+- Breast tenderness
 - Vaginal yeast infection
+- Cold
+- Upper respiratory tract (nose, sinuses, pharynx or larynx) infection
 
 These are not all the possible side effects of Divigel.
 For more information, ask your healthcare provider or pharmacist for advice about side effects.
@@ -171,11 +167,10 @@ You may report side effects to Vertical Pharmaceuticals, LLC at 1-877-95-VERTI (
 What can I do to lower my chances of a serious side effect with Divigel?
 
 - Talk with your healthcare provider regularly about whether you should continue using Divigel
-- If you have a uterus, talk to your healthcare provider about whether the addition of a progestin is right for you.
-  The addition of a progestin is generally recommended for a woman with a uterus to reduce the chance of getting cancer of the uterus.
+- If you have a uterus, talk to your healthcare provider about whether the addition of a progestin is right for you.The addition of a progestin is generally recommended for a woman with a uterus to reduce the chance of getting cancer of the uterus.
   See your healthcare provider right away if you get vaginal bleeding while using Divigel.
-- Have a pelvic exam, breast exam and mammogram (breast X-ray) every year unless your healthcare provider tells you something else If members of your family have had breast cancer or if you have ever had breast lumps or an abnormal mammogram, you may need to have breast exams more often.
-- If you have high blood pressure, high cholesterol (fat in the blood), diabetes, are overweight, or if you use tobacco, you may have higher chances of getting heart disease Ask your healthcare provider for ways to lower your chances of getting heart disease.
+- Have a pelvic exam, breast exam and mammogram (breast X-ray) every year unless your healthcare provider tells you something elseIf members of your family have had breast cancer or if you have ever had breast lumps or an abnormal mammogram, you may need to have breast exams more often.
+- If you have high blood pressure, high cholesterol (fat in the blood), diabetes, are overweight, or if you use tobacco, you may have higher chances of getting heart diseaseAsk your healthcare provider for ways to lower your chances of getting heart disease.
 
 General information about safe and effective use of Divigel
 
@@ -213,4 +208,4 @@ Product of Finland
 
 © 2014 Vertical Pharmaceuticals, LLC
 
-125140-08 Revised 11/2017
+151083-3 Revised 08/2018

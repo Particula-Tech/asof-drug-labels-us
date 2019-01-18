@@ -28,16 +28,16 @@ Absorption
 
 Estradiol diffuses across intact skin and into the systemic circulation by a passive absorption process, with diffusion across the stratum corneum being the rate-limiting factor.
 
-In a 14-day, Phase 1, multiple-dose study, Divigel demonstrated linear and approximately dose-proportional estradiol pharmacokinetics at steady state for both AUC 0-24 and C max following once daily dosing to the skin of either the right or left upper thigh (Table 2).
+In a 14-day, Phase 1, multiple-dose study, Divigel demonstrated linear and approximately dose-proportional estradiol pharmacokinetics at steady state for both AUC0-24 and Cmax following once daily dosing to the skin of either the right or left upper thigh (Table 2).
 
 Table 2: Mean (%CV) Pharmacokinetic Parameters for Estradiol (uncorrected for baseline) on Day 14 Following Multiple Daily Doses of Divigel 0.1%
 
 | Parameter (units) | Divigel 0.25 g | Divigel 0.5 g | Divigel 1.0 g |
 | --- | --- | --- | --- |
-| AUC 0-24 (pg∙h/mL) | 236 (94) | 504 (149) | 732 (81) |
-| C max (pg/mL) | 14.7 (84) | 28.4 (139) | 51.5 (86) |
-| C avg (pg/mL) | 9.8 (92) | 21 (148) | 30.5 (81) |
-| t max* (h) | 16 (0, 72) | 10 (0, 72) | 8 (0, 48) |
+| AUC0-24 (pg∙h/mL) | 236 (94) | 504 (149) | 732 (81) |
+| Cmax (pg/mL) | 14.7 (84) | 28.4 (139) | 51.5 (86) |
+| Cavg (pg/mL) | 9.8 (92) | 21 (148) | 30.5 (81) |
+| tmax* (h) | 16 (0, 72) | 10 (0, 72) | 8 (0, 48) |
 | E2:E1 ratio | 0.42 | 0.65 | 0.65 |
 | *Median (Min, Max). |  |  |  |
 
@@ -64,7 +64,7 @@ Estradiol is converted reversibly to estrone, and both can be converted to estri
 Estrogens also undergo enterohepatic recirculation via sulfate and glucuronide conjugation in the liver, biliary secretion of conjugates into the intestine, and hydrolysis in the intestine followed by reabsorption.
 In postmenopausal women, a significant proportion of the circulating estrogens exist as sulfate conjugates, especially estrone sulfate, which serves as a circulating reservoir for the formation of more active estrogens.
 
-Estradiol from Divigel avoids first pass metabolism and provides estradiol to estrone ratios at steady state in the range of 0.42 to 0.65.
+Although the clinical significance has not been determined, estradiol from Divigel does not undergo first pass metabolism and provides estradiol to estrone ratios at steady state in the range of 0.42 to 0.65.
 
 Excretion
 
@@ -83,5 +83,5 @@ While some elevation of estradiol levels over baseline was seen in the male subj
 
 Effects of Washing
 
-The effect of application site washing on skin surface levels and serum concentrations of estradiol was determined in 16 healthy postmenopausal women after application of 1.0 g of Divigel to a 200 cm 2 area on the thigh.
+The effect of application site washing on skin surface levels and serum concentrations of estradiol was determined in 16 healthy postmenopausal women after application of 1.0 g of Divigel to a 200 cm2 area on the thigh.
 Washing the application site with soap and water 1 hour after application removed all detectable amounts of estradiol from the surface of the skin, and resulted in a 30 to 38 percent decrease in the mean total 24-hour exposure to estradiol.
