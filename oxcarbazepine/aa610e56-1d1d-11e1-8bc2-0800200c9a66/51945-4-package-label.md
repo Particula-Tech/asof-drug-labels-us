@@ -1,17 +1,53 @@
-Package Label - Principal Display Panel - 150 mg Oxtellar XR ® 5-Count Blister Pack
+# PRINCIPAL DISPLAY PANEL - 150 mg Tablet Bottle Label
 
-Package Label - Principal Display Panel - 150 mg Oxtellar XR ® 5-Count Blister Pack - Back Panels
+100 tablets NDC 17772-121-01
 
-Package Label - Principal Display Panel - 150 mg Oxtellar XR ® 100-Count Bottle
+Oxtellar XR ™ (oxcarbazepine) extended-release tablets
 
-Package Label - Principal Display Panel - 300 mg Oxtellar XR ® 5-Count Blister Pack
+Once daily.
+Swallow whole.
+Do not cut, crush, or chew.
 
-Package Label - Principal Display Panel - 300 mg Oxtellar XR ® 5-Count Blister Pack - Back Panels
+ATTENTION PHARMACIST: Dispense the Accompanying Medication Guide to Each Patient
 
-Package Label - Principal Display Panel - 300 mg Oxtellar XR ® 100-Count Bottle
+150 mg
 
-Package Label - Principal Display Panel - 600 mg Oxtellar XR ® 5-Count Blister Pack
+Rx only
 
-Package Label - Principal Display Panel - 600 mg Oxtellar XR ® 5-Count Blister Pack - Back Panels
+Supernus ®
 
-Package Label - Principal Display Panel - 600 mg Oxtellar XR ® 100-Count Bottle
+# PRINCIPAL DISPLAY PANEL - 300 mg Tablet Bottle Label
+
+100 tablets NDC 17772-122-01
+
+Oxtellar XR ™ (oxcarbazepine) extended-release tablets
+
+Once daily.
+Swallow whole.
+Do not cut, crush, or chew.
+
+ATTENTION PHARMACIST: Dispense the Accompanying Medication Guide to Each Patient
+
+300 mg
+
+Supernus ®
+
+Rx only
+
+# PRINCIPAL DISPLAY PANEL - 600 mg Tablet Bottle Label
+
+100 tablets NDC 17772-123-01
+
+Oxtellar XR ™ (oxcarbazepine) extended-release tablets
+
+Once daily.
+Swallow whole.
+Do not cut, crush, or chew.
+
+ATTENTION PHARMACIST: Dispense the Accompanying Medication Guide to Each Patient
+
+600 mg
+
+Supernus ®
+
+Rx only

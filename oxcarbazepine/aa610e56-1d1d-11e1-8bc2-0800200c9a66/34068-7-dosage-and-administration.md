@@ -9,50 +9,61 @@ Swallow Oxtellar XR ® tablets whole.
 Do not cut, crush, or chew the tablets.
 For ease of swallowing in pediatric patients or patients with difficulty swallowing, achieve daily dosages with multiples of appropriate lower strength tablets (e.g., 150 mg tablets).
 
-## 2.2 Dosing for Adults in Adjunctive Therapy
+## 2.2 General Dosing Recommendations
 
-The recommended daily dose of Oxtellar XR ® is 1,200 mg to 2,400 mg per day, given once daily.
-The dose of 2,400 mg per day showed slightly greater efficacy than 1,200 mg per day, but was associated with an increase in adverse reactions.
+Monotherapy or Adjunctive Therapy
 
-Initiate treatment at a dose of 600 mg per day given once daily for one week.
-Subsequent dose increases can be made at weekly intervals in 600 mg per day increments to achieve the recommended daily dose.
+Adult Patients
 
-## 2.3 Dosing for Children (6 to 17 years of age) in Adjunctive Therapy
+Initiate treatment at a dosage of 600 mg/day given orally once daily for one week.
+Subsequent dosage increases can be made at weekly intervals in 600 mg/day increments to achieve the recommended daily dosage.Initiate treatment at a dosage of 600 mg/day given orally once daily for one week.
+Subsequent dosage increases can be made at weekly intervals in 600 mg/day increments to achieve the recommended daily dosage.
 
-In pediatric patients 6 years to 17 years of age, initiate treatment at a daily dose of 8 mg/kg to 10 mg/kg once daily, not to exceed 600 mg per day in the first week.
+The recommended daily dosage of Oxtellar XR is 1200 mg to 2400 mg/day, given once daily.
+The dosage of 2400 mg/day showed slightly greater efficacy than 1200 mg/day, but was associated with an increase in adverse reactions The recommended daily dosage of Oxtellar XR ® is 1200 mg to 2400 mg/day, given once daily.
+The dosage of 2400 mg/day showed slightly greater efficacy than 1200 mg/day, but was associated with an increase in adverse reactions [see Adverse Reactions (6.1) and Clinical Studies (14.1)].
 
-Subsequent dose increases can be made at weekly intervals in 8 mg/kg to 10 mg/kg increments once daily, not to exceed 600 mg, to achieve the target daily dose.
-The target maintenance dose, achieved over two to three weeks, is displayed in Table 1.
+Dosage adjustment is recommended with concomitant use of strong CYP3A4 enzyme inducers or UGT inducers, which include certain antiepileptic drugs (AEDs) [see Drug Interactions (7.1, 7.2)].
 
-Table 1: Target Daily Dose in Pediatric Patients Aged 6 to 17 Years Old
+Pediatric Patients (6 to Less than 17 Years of Age)
 
-| Weight | Target Daily Dose |
+In pediatric patients 6 to less than 17 years of age, initiate treatment at a daily dosage of 8 mg/kg to 10 mg/kg orally once daily, not to exceed 600 mg per day in the first week.In pediatric patients 6 to less than 17 years of age, initiate treatment at a daily dosage of 8 mg/kg to 10 mg/kg orally once daily, not to exceed 600 mg per day in the first week.
+
+Subsequent dosage increases can be made at weekly intervals in 8 mg/kg to 10 mg/kg increments once daily, not to exceed 600 mg, to achieve the target daily dosage.
+The target maintenance dosage, achieved over two to three weeks, is displayed in Table 1.Subsequent dosage increases can be made at weekly intervals in 8 mg/kg to 10 mg/kg increments once daily, not to exceed 600 mg, to achieve the target daily dosage.
+The target maintenance dosage, achieved over two to three weeks, is displayed in Table 1.
+
+Table 1: Target Daily Dosage in Pediatric Patients (6 to Less Than 17 Years of Age)
+
+| Weight | Target Daily Dosage |
 | --- | --- |
-| 20 kg to 29 kg | 900 mg per day |
-| 29.1 kg to 39 kg | 1200 mg per day |
-| Greater than 39 kg | 1800 mg per day |
+| 20 kg to 29 kg | 900 mg/day |
+| 29.1 kg to 39 kg | 1200 mg/day |
+| Greater than 39 kg | 1800 mg/day |
 
-## 2.4 Dosage Modifications in Patients with Renal Impairment
+Dosage adjustment is recommended with concomitant use of strong CYP3A4 enzyme inducers or UGT inducers, which include certain antiepileptic drugs (AEDs) [see Drug Interactions (7.1, 7.2))].
 
-In patients with severe renal impairment (creatinine clearance less than 30 mL/minute), initiate Oxtellar XR ® at one-half the usual starting dose (300 mg per day).
-Subsequent dose increases can be made at weekly intervals in increments of 300 mg to 450 mg per day to achieve the desired clinical response.
-[see Use in Specific Populations (8.6)].
+## 2.3 Dosage Modifications in Adult Patients with Renal Impairment
 
-## 2.5 Dosage Modifications in Geriatric Patients
+In adult patients with severe renal impairment (creatinine clearance less than 30 mL/minute), initiate Oxtellar XR ® at one-half the usual starting dosage (300 mg/day).
+Subsequent dosage increases can be made at weekly intervals in increments of 300 mg to 450 mg/day to achieve the desired clinical response [see Use in Specific Populations (8.6)].
 
-In geriatric patients, consider starting at a lower dose (300 mg or 450 mg per day).
-Subsequent dose increases can be made at weekly intervals in increments of 300 mg to 450 mg per day to achieve the desired clinical effect [see Use in Specific Populations (8.5)].
+## 2.4 Dosage Modifications in Geriatric Patients
 
-## 2.6 Dosage Modification for Use with Concomitant Antiepileptic Drugs
+In geriatric patients, consider starting at a lower dosage (300 mg or 450 mg/day).
+Subsequent dosage increases can be made at weekly intervals in increments of 300 mg to 450 mg/day to achieve the desired clinical effect [see Use in Specific Populations (8.5)].
 
-Enzyme inducing antiepileptic drugs such as carbamazepine, phenobarbital, and phenytoin decrease exposure to 10-monohydroxy derivative (MHD), the active metabolite.
-Dosage increases may be necessary.
-Consider initiating dose at 900 mg once per day [see Drug Interactions (7.1)].
+## 2.5 Dosage Modification with Concomitant Use of Strong CYP3A4 Enzyme Inducers or UGT Enzyme Inducers
 
-## 2.7 Withdrawal of AEDs
+Strong CYP3A4 inducers, including enzyme-inducing antiepileptic drugs such as carbamazepine, phenobarbital, and phenytoin, and UGT inducers (e.g., rifampin) decrease exposure to 10-monohydroxy derivative (MHD), the active metabolite [see Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
+Dosage adjustment of Oxtellar XR may be required after initiation, dosage modification, or discontinuation of such inducers.
+Dosage increases of Oxtellar XR may be necessary with concomitant use.
+Consider initiating at 900 mg once daily for adults and 12 to 15 mg/kg orally once daily (not to exceed 900 mg per day in the first week) in pediatric patients.
 
-As with all antiepileptic drugs, Oxtellar XR ® should be withdrawn gradually to minimize the potential of increased seizure frequency [see Warnings and Precautions (5.6)].
+## 2.6 Withdrawal of AEDs
 
-## 2.8 Conversion from Immediate-Release Oxcarbazepine to Oxtellar XR ®
+As with most antiepileptic drugs, Oxtellar XR ® should be withdrawn gradually because of the risk of increased seizure frequency and status epilepticus [see Warnings and Precautions (5.6)].
 
-In conversion of oxcarbazepine immediate-release to Oxtellar XR ®, higher doses of Oxtellar XR ® may be necessary [see Clinical Pharmacology (12.3)].
+## 2.7 Conversion from Immediate-Release Oxcarbazepine to Oxtellar XR ®
+
+In conversion of oxcarbazepine immediate-release to Oxtellar XR ®, higher dosages of Oxtellar XR ® may be necessary [see Clinical Pharmacology (12.3)].

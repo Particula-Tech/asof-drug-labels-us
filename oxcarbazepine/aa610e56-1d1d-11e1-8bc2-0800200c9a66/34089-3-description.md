@@ -2,7 +2,6 @@
 
 Oxtellar XR ® is an antiepileptic drug (AED).
 Oxtellar XR ® extended-release tablets contain oxcarbazepine for once-a-day oral administration.
-
 Oxcarbazepine is 10,11-Dihydro-10-oxo-5H-dibenz[b,f]-azepine-5-carboxamide, and its structural formula is
 
 Oxcarbazepine is off-white to yellow crystalline powder.
