@@ -120,7 +120,7 @@ Do not take Lexapro if you:
 - are allergic to escitalopram or citalopram or any of the ingredients in Lexapro.
   See the end of this Medication Guide for a complete list of ingredients in Lexapro.
 - take a monoamine oxidase inhibitor (MAOI).
-  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
+  Ask your healthcare provider or a pharmacist if you are not sure if you take an MAOI, including linezolid.
 - Do not take an MAOI within 2 weeks of stopping Lexapro unless directed to do so by your physician.
 - Do not start Lexapro if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
 
@@ -222,7 +222,7 @@ YOU MAY REPORT SIDE EFFECTS TO THE FDA AT 1-800-FDA-1088.
 
 How should I store Lexapro?
 
-- Store Lexapro at 25°C (77°F); excursions permitted to 15 - 30°C (59-86°F).
+- Store Lexapro at 68°F to 77°F (20°C to 25°C); excursions permitted to 59°F to 86°F (15°C to 30°C).
 - Keep Lexapro bottle closed tightly.
 
 Keep Lexapro and all medicines out of the reach of children.
@@ -254,9 +254,9 @@ Distributed by: Allergan USA, Inc. Madison, NJ 07940
 
 Licensed from H. Lundbeck A/S
 
-Revised: 10/2018
+Revised: 01/2019
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-© 2018 Allergan.
+© 2019 Allergan.
 All rights reserved.

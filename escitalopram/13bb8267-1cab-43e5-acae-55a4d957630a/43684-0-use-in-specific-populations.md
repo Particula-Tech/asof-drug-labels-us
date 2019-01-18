@@ -2,8 +2,6 @@
 
 ## 8.1Pregnancy
 
-Pregnancy Category C
-
 In a rat embryo/fetal development study, oral administration of escitalopram (56, 112, or 150 mg/kg/day) to pregnant animals during the period of organogenesis resulted in decreased fetal body weight and associated delays in ossification at the two higher doses (approximately ≥ 56 times the maximum recommended human dose [MRHD] of 20 mg/day on a body surface area [mg/m2] basis).
 Maternal toxicity (clinical signs and decreased body weight gain and food consumption), mild at 56 mg/kg/day, was present at all dose levels.
 The developmental no-effect dose of 56 mg/kg/day is approximately 28 times the MRHD on a mg/m2 basis.
