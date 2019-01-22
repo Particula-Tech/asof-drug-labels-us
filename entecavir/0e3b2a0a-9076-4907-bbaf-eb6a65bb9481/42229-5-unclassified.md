@@ -56,9 +56,9 @@ Call your healthcare provider right away if you get any of the following signs o
 
 You may be more likely to get lactic acidosis or serious liver problems if you are female, very overweight, or have been taking nucleoside analogue medicines, like entecavir tablets, for a long time.
 
-What are Entecavir Tablets ?
+What are Entecavir Tablets?
 
-Entecavir tablets are a prescription medicine used to treat chronic hepatitis B virus (HBV) in adults who have active liver disease.
+Entecavir tablets are a prescription medicine used to treat chronic hepatitis B virus (HBV) in adults and children 2 years of age and older who have active liver disease.
 
 - Entecavir tablets will not cure HBV.
 - Entecavir tablets may lower the amount of HBV in the body.
@@ -67,9 +67,9 @@ Entecavir tablets are a prescription medicine used to treat chronic hepatitis B 
 - It is not known whether entecavir tablets will reduce your chances of getting liver cancer or liver damage (cirrhosis), which may be caused by chronic HBV infection.
 - It is not known if entecavir tablets are safe and effective for use in children less than 2 years of age.
 
-What should I tell my healthcare provider before taking Entecavir Tablets?
+What should I tell my healthcare provider before taking entecavir tablets?
 
-Before you take Entecavir Tablets, tell your healthcare provider if you:
+Before you take entecavir tablets, tell your healthcare provider if you:
 
 - have kidney problems.
   Your entecavir tablets dose or schedule may need to be changed.
@@ -81,12 +81,14 @@ Before you take Entecavir Tablets, tell your healthcare provider if you:
 - are pregnant or plan to become pregnant.
   It is not known if entecavir tablets will harm your unborn baby.
   Talk to your healthcare provider if you are pregnant or plan to become pregnant.
-- Antiretroviral Pregnancy Registry.
-  If you take entecavir while you are pregnant, talk to your healthcare provider about how you can take part in the entecavir Antiretroviral Pregnancy Registry.
-  The purpose of the pregnancy registry is to collect information about the health of you and your baby.
-- are breast-feeding or plan to breast-feed.
-  It is not known if entecavir can pass into your breast milk.
-  You and your healthcare provider should decide if you will take entecavir tablets or breast-feed.
+
+Antiretroviral Pregnancy Registry.
+If you take entecavir while you are pregnant, talk to your healthcare provider about how you can take part in the entecavir Antiretroviral Pregnancy Registry.
+The purpose of the pregnancy registry is to collect information about the health of you and your baby.
+
+- are breastfeeding or plan to breastfeed.
+  It is not known if entecavir can pass into your breastmilk.
+  You and your healthcare provider should decide if you will take entecavir tablets or breastfeed.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 Especially tell your healthcare provider if you have taken a medicine to treat HBV in the past.
@@ -94,7 +96,7 @@ Especially tell your healthcare provider if you have taken a medicine to treat H
 Know the medicines you take.
 Keep a list of your medicines with you to show your healthcare provider and pharmacist when you get a new medicine.
 
-How should I take entecavir tablets Entecavir Tablets?
+How should I take Entecavir Tablets?
 
 - Take entecavir tablets exactly as your healthcare provider tells you to.
 - Your healthcare provider will tell you how much entecavir tablets to take.
@@ -106,7 +108,7 @@ How should I take entecavir tablets Entecavir Tablets?
   Do not take two doses at the same time.
   Call your healthcare provider or pharmacist if you are not sure what to do.
 - When your supply of entecavir tablets starts to run low, call your healthcare provider or pharmacy for a refill.
-  Do not run out of entecavir tablets.
+  Do not run out of entecavirtablets.
 - If you take too much entecavir tablets, call your healthcare provider or go to the nearest emergency room right away.
 
 What are the possible side effects of Entecavir Tablets?
@@ -156,7 +158,7 @@ This Patient Information Leaflet summarizes the most important information about
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about entecavir tablets that is written for health professionals.
 
-Please address medical inquiries to, (MedicalAffairs@zydususa.com) Tel.: 1-877-993-8779.
+Please address medical inquiries to, MedicalAffairs@zydususa.com Tel.: 1-877-993-8779.
 
 What are the ingredients in Entecavir Tablets?
 
@@ -166,15 +168,12 @@ Inactive ingredients in entecavir tablets: crospovidone, lactose monohydrate, ma
 
 Tablet film-coat: hypromellose, polyethylene glycol, talc, and titanium dioxide, and additionally 1 mg tablet contains iron oxide red and iron oxide yellow.
 
-Pediatric use information is approved for Bristol-Myers Squibb Company's Baraclude® (entecavir) tablets.
-However, due to Bristol-Myers Squibb Company's marketing exclusivity rights, this drug product is not labeled with that information.
-
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
 Manufactured by:
 
 Cadila Healthcare Limited
 
-Matoda, Ahmedabad, India.
+Ahmedabad, India.
 
-Rev.: 08/17
+Rev.: 01/19

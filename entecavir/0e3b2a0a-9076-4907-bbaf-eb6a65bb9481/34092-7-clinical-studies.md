@@ -9,14 +9,14 @@ These studies included 1633 subjects 16 years of age or older with chronic hepat
 Subjects had persistently elevated ALT levels at least 1.3 times ULN and chronic inflammation on liver biopsy compatible with a diagnosis of chronic viral hepatitis.
 The safety and efficacy of entecavir were also evaluated in a study of 191 HBV-infected subjects with decompensated liver disease and in a study of 68 subjects co-infected with HBV and HIV.
 
-Nucleoside-inhibitor-naÏve Subjects with Compensated Liver Disease
+Nucleoside-inhibitor-naïve Subjects with Compensated Liver Disease
 
-HBeAg-positive: Study AI463022 was a multinational, randomized, double-blind study of entecavir 0.5 mg once daily versus lamivudine 100 mg once daily for a minimum of 52 weeks in 709 (of 715 randomized) nucleoside-inhibitor-naÏve subjects with chronic hepatitis B virus infection, compensated liver disease, and detectable HBeAg.
+HBeAg-positive: Study AI463022 was a multinational, randomized, double-blind study of entecavir 0.5 mg once daily versus lamivudine 100 mg once daily for a minimum of 52 weeks in 709 (of 715 randomized) nucleoside-inhibitor-naïve subjects with chronic hepatitis B virus infection, compensated liver disease, and detectable HBeAg.
 The mean age of subjects was 35 years, 75% were male, 57% were Asian, 40% were Caucasian, and 13% had previously received interferon-α.
 At baseline, subjects had a mean Knodell Necroinflammatory Score of 7.8, mean serum HBV DNA as measured by Roche COBAS Amplicor® PCR assay was 9.66 log10 copies/mL, and mean serum ALT level was 143 U/L.
 Paired, adequate liver biopsy samples were available for 89% of subjects.
 
-HBeAg-negative (anti-HBe-positive/HBV DNA-positive): Study AI463027 was a multinational, randomized, double-blind study of entecavir 0.5 mg once daily versus lamivudine 100 mg once daily for a minimum of 52 weeks in 638 (of 648 randomized) nucleoside-inhibitor-naÏve subjects with HBeAg-negative (HBeAb-positive) chronic hepatitis B virus infection and compensated liver disease.
+HBeAg-negative (anti-HBe-positive/HBV DNA-positive): Study AI463027 was a multinational, randomized, double-blind study of entecavir 0.5 mg once daily versus lamivudine 100 mg once daily for a minimum of 52 weeks in 638 (of 648 randomized) nucleoside-inhibitor-naïve subjects with HBeAg-negative (HBeAb-positive) chronic hepatitis B virus infection and compensated liver disease.
 The mean age of subjects was 44 years, 76% were male, 39% were Asian, 58% were Caucasian, and 13% had previously received interferon-α.
 At baseline, subjects had a mean Knodell Necroinflammatory Score of 7.8, mean serum HBV DNA as measured by Roche COBAS Amplicor PCR assay was 7.58 log10 copies/mL, and mean serum ALT level was 142 U/L.
 Paired, adequate liver biopsy samples were available for 88% of subjects.
@@ -29,8 +29,7 @@ Table 8 Histologic Improvement and Change in Ishak Fibrosis Score at Week 48, Nu
 
 |  | Study AI463022 (HBeAg-Positive) |  |  | Study AI463027 (HBeAg-Negative) |  |
 | --- | --- | --- | --- | --- | --- |
-|  | Entecavir 0.5 mg | Lamivudine 100 mg |  | Entecavir 0.5 mg | Lamivudine 100 mg |
-|  | n=314a | n=314a |  | n=296a | n=287a |
+|  | Entecavir 0.5 mg n=314a | Lamivudine 100 mg n=314a |  | Entecavir 0.5 mg n=296a | Lamivudine 100 mg n=287a |
 | Histologic Improvement (Knodell Scores) |  |  |  |  |  |
 | Improvementb | 72% | 62% |  | 70% | 61% |
 | No improvement | 21% | 24% |  | 19% | 26% |
@@ -47,9 +46,7 @@ Table 9 Selected Virologic, Biochemical, and Serologic Endpoints at Week 48, Nuc
 
 |  | Study AI463022 | (HBeAg-Positive) | Study AI463027 | (HBeAg-Negative) |
 | --- | --- | --- | --- | --- |
-|  | Entecavir | Lamivudine | Entecavir | Lamivudine |
-|  | 0.5 mg | 100 mg | 0.5 mg | 100 mg |
-|  | n=354 | n=355 | n=325 | n=313 |
+|  | Entecavir 0.5 mg n=354 | Lamivudine 100 mg n=355 | Entecavir 0.5 mg n=325 | Lamivudine 100 mg n=313 |
 | HBV DNAa Proportion undetectable (<300 copies/mL) | 67% | 36% | 90% | 72% |
 | Mean change from baseline (log10 copies/mL) | −6.86 | −5.39 | −5.04 | −4.53 |
 | ALT normalization (≤1 X ULN) | 68% | 60% | 78% | 71% |
@@ -73,9 +70,8 @@ Table 11 shows selected virologic, biochemical, and serologic endpoints.
 
 Table 10 Histologic Improvement and Change in Ishak Fibrosis Score at Week 48, Lamivudine-Refractory Subjects in Study AI463026
 
-|  | Entecavir 1 mg | Lamivudine 100 mg |
+|  | Entecavir 1 mg n=124a | Lamivudine 100 mg n=116a |
 | --- | --- | --- |
-|  | n=124a | n=116a |
 | Histologic Improvement (Knodell Scores) |  |  |
 | Improvementb | 55% | 28% |
 | No improvement | 34% | 57% |
@@ -90,10 +86,8 @@ Table 10 Histologic Improvement and Change in Ishak Fibrosis Score at Week 48, L
 
 Table 11 Selected Virologic, Biochemical, and Serologic Endpoints at Week 48, Lamivudine-Refractory Subjects in Study AI463026
 
-|  | Entecavir | Lamivudine |
+|  | Entecavir 1 mg n=141 | Lamivudine 100 mg n=145 |
 | --- | --- | --- |
-|  | 1 mg | 100 mg |
-|  | n=141 | n=145 |
 | HBV DNAa Proportion undetectable (<300 copies/mL) | 19% | 1% |
 | Mean change from baseline (log10 copies/mL) ALT normalization (≤ 1 X ULN) | −5.11 61% | −0.48 15% |
 | HBeAg seroconversion | 8% | 3% |
@@ -104,12 +98,12 @@ Histologic Improvement was independent of baseline levels of HBV DNA or ALT.
 Subjects with Decompensated Liver Disease
 
 Study AI463048 was a randomized, open-label study of entecavir 1 mg once daily versus adefovir dipivoxil 10 mg once daily in 191 (of 195 randomized) adult subjects with HBeAg-positive or -negative chronic HBV infection and evidence of hepatic decompensation, defined as a Child-Turcotte-Pugh (CTP) score of 7 or higher.
-Subjects were either HBV-treatment-naÏve or previously treated, predominantly with lamivudine or interferon-α.
+Subjects were either HBV-treatment-naïve or previously treated, predominantly with lamivudine or interferon-α.
 
 In Study AI463048, 100 subjects were randomized to treatment with entecavir and 91 subjects to treatment with adefovir dipivoxil.
 Two subjects randomized to treatment with adefovir dipivoxil actually received treatment with entecavir for the duration of the study.
 The mean age of subjects was 52 years, 74% were male, 54% were Asian, 33% were Caucasian, and 5% were Black/African American.
-At baseline, subjects had a mean serum HBV DNA by PCR of 7.83 log10 copies/mL and mean ALT level of 100 U/L; 54% of subjects were HBeAg positive; 35% had genotypic evidence of lamivudine resistance.
+At baseline, subjects had a mean serum HBV DNA by PCR of 7.83 log10 copies/mL and mean ALT level of 100 U/L; 54% of subjects were HBeAg-positive; 35% had genotypic evidence of lamivudine resistance.
 The baseline mean CTP score was 8.6.
 Results for selected study endpoints at Week 48 are shown in Table 12.
 
@@ -155,24 +149,24 @@ For subjects originally assigned to entecavir, at the end of the open-label phas
 Beyond 48 Weeks
 
 The optimal duration of therapy with entecavir is unknown.
-According to protocolmandated criteria in the Phase 3 clinical trials, subjects discontinued entecavir or lamivudine treatment after 52 weeks according to a definition of response based on HBV virologic suppression (<0.7 MEq/mL by bDNA assay) and loss of HBeAg (in HBeAg-positive subjects) or ALT <1.25 X ULN (in HBeAg-negative subjects) at Week 48.
+According to protocol-mandated criteria in the Phase 3 clinical trials, subjects discontinued entecavir or lamivudine treatment after 52 weeks according to a definition of response based on HBV virologic suppression (<0.7 MEq/mL by bDNA assay) and loss of HBeAg (in HBeAg-positive subjects) or ALT <1.25 X ULN (in HBeAg-negative subjects) at Week 48.
 Subjects who achieved virologic suppression but did not have serologic response (HBeAg-positive) or did not achieve ALT <1.25 X ULN (HBeAg-negative) continued blinded dosing through 96 weeks or until the response criteria were met.
 These protocol-specified subject management guidelines are not intended as guidance for clinical practice.
 
-Nucleoside- inhibitor-naÏve subjects
+Nucleoside- inhibitor-naïve subjects
 
-Among nucleoside-inhibitor-naÏve, HBeAg-positive subjects (Study AI463022), 243 (69%) entecavir-treated subjects and 164 (46%) lamivudine-treated subjects continued blinded treatment for up to 96 weeks.
+Among nucleoside-inhibitor-naïve, HBeAg-positive subjects (Study AI463022), 243 (69%) entecavir-treated subjects and 164 (46%) lamivudine-treated subjects continued blinded treatment for up to 96 weeks.
 Of those continuing blinded treatment in Year 2, 180 (74%) entecavir subjects and 60 (37%) lamivudine subjects achieved HBV DNA <300 copies/mL by PCR at the end of dosing (up to 96 weeks).
 193 (79%) entecavir subjects achieved ALT ≤1 X ULN compared to 112 (68%) lamivudine subjects, and HBeAg seroconversion occurred in 26 (11%) entecavir subjects and 20 (12%) lamivudine subjects.
 
-Among nucleoside-inhibitor-naÏve, HBeAg-positive subjects, 74 (21%) entecavir subjects and 67 (19%) lamivudine subjects met the definition of response at Week 48, discontinued study drugs, and were followed off treatment for 24 weeks.
+Among nucleoside-inhibitor-naïve, HBeAg-positive subjects, 74 (21%) entecavir subjects and 67 (19%) lamivudine subjects met the definition of response at Week 48, discontinued study drugs, and were followed off treatment for 24 weeks.
 Among entecavir responders, 26 (35%) subjects had HBV DNA <300 copies/mL, 55 (74%) subjects had ALT ≤1 X ULN, and 56 (76%) subjects sustained HBeAg seroconversion at the end of follow-up.
 Among lamivudine responders, 20 (30%) subjects had HBV DNA <300 copies/mL, 41 (61%) subjects had ALT ≤1 X ULN, and 47 (70%) subjects sustained HBeAg seroconversion at the end of follow-up.
 
-Among nucleoside-inhibitor-naÏve, HBeAg-negative subjects (Study AI463027), 26 (8%) entecavir-treated subjects and 28 (9%) lamivudine-treated subjects continued blinded treatment for up to 96 weeks.
+Among nucleoside-inhibitor-naïve, HBeAg-negative subjects (Study AI463027), 26 (8%) entecavir-treated subjects and 28 (9%) lamivudine-treated subjects continued blinded treatment for up to 96 weeks.
 In this small cohort continuing treatment in Year 2, 22 entecavir and 16 lamivudine subjects had HBV DNA <300 copies/mL by PCR, and 7 and 6 subjects, respectively, had ALT ≤1 X ULN at the end of dosing (up to 96 weeks).
 
-Among nucleoside-inhibitor-naÏve, HBeAg-negative subjects, 275 (85%) entecavir subjects and 245 (78%) lamivudine subjects met the definition of response at Week 48, discontinued study drugs, and were followed off treatment for 24 weeks.
+Among nucleoside-inhibitor-naïve, HBeAg-negative subjects, 275 (85%) entecavir subjects and 245 (78%) lamivudine subjects met the definition of response at Week 48, discontinued study drugs, and were followed off treatment for 24 weeks.
 In this cohort, very few subjects in each treatment arm had HBV DNA <300 copies/mL by PCR at the end of follow-up.
 At the end of follow-up, 126 (46%) entecavir subjects and 84 (34%) lamivudine subjects had ALT ≤1 X ULN.
 
@@ -183,5 +177,16 @@ In this cohort of entecavir subjects, 31 (40%) subjects achieved HBV DNA <300 co
 
 ## 14.2 Outcomes in Pediatric Subjects
 
-Pediatric use information is approved for Bristol-Myers Squibb Company's Baraclude® (entecavir) tablets.
-However, due to Bristol-Myers Squibb Company's marketing exclusivity rights, this drug product is not labeled with that information.
+The pharmacokinetics, safety and antiviral activity of entecavir in pediatric subjects were initially assessed in Study AI463028.
+Twenty-four treatment-naïve and 19 lamivudine-experienced HBeAg-positive pediatric subjects 2 to less than 18 years of age with compensated CHB and elevated ALT were treated with entecavir 0.015 mg/kg (up to 0.5 mg) or 0.03 mg/kg (up to 1 mg) once daily.
+Fifty-eight percent (14/24) of treatment-naïve subjects and 47% (9/19) of lamivudine-experienced subjects achieved HBV DNA <50 IU/mL at Week 48 and ALT normalized in 83% (20/24) of treatment-naïve and 95% (18/19) of lamivudine-experienced subjects.
+
+Safety and antiviral efficacy were confirmed in Study AI463189, an ongoing study of entecavir among 180 nucleoside-inhibitor-treatment-naïve pediatric subjects 2 to less than 18 years of age with HBeAg-positive chronic hepatitis B infection, compensated liver disease, and elevated ALT.
+Subjects were randomized 2:1 to receive blinded treatment with entecavir 0.015 mg/kg up to 0.5 mg/day (N=120) or placebo (N=60).
+The randomization was stratified by age group (2 to 6 years; >6 to 12 years; and >12 to <18 years).
+Baseline demographics and HBV disease characteristics were comparable between the 2 treatment arms and across age cohorts.
+At study entry, the mean HBV DNA was 8.1 log10 IU/mL and mean ALT was 103 U/L.
+The primary efficacy endpoint was a composite of HBeAg seroconversion and serum HBV DNA <50 IU/mL at Week 48 assessed in the first 123 subjects reaching 48 weeks of blinded treatment.
+Twenty-four percent (20/82) of subjects in the entecavir-treated group and 2% (1/41) of subjects in the placebo-treated group met the primary endpoint.
+Forty-six percent (38/82) of entecavir-treated subjects and 2% (1/41) of placebo-treated subjects achieved HBV DNA <50 IU/mL at Week 48.
+ALT normalization occurred in 67% (55/82) of entecavir-treated subjects and 22% (9/41) of placebo-treated subjects; 24% (20/82) of entecavir-treated subjects and 12% (5/41) of placebo-treated subjects had HBeAg seroconversion.

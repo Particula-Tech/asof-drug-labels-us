@@ -5,9 +5,11 @@ The following adverse reactions are discussed in other sections of the labeling:
 - Exacerbations of hepatitis after discontinuation of treatment [see Boxed Warning, Warnings and Precautions (5.1)].
 - Lactic acidosis and severe hepatomegaly with steatosis [see Boxed Warning, Warnings and Precautions (5.3)].
 
-## 6.1 Clinical Trial Experience in Adults
+## 6.1 Clinical Trial Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+Clinical Trial Experience in Adults
 
 Compensated Liver Disease
 
@@ -23,26 +25,26 @@ Clinical adverse reactions of moderate-severe intensity and considered at least 
 
 Table 3 Clinical Adverse Reactionsa of Moderate-Severe Intensity (Grades 2 to 4) Reported in Four Entecavir Clinical Trials Through 2 Years
 
-|  | Nucleoside-Inhibitor-Naïveb |  | Lamivudine-Refractoryc |  |
-| --- | --- | --- | --- | --- |
-| Body System/ Adverse Reaction | Entecavir 0.5 mg n=679 | Lamivudine 100 mg n=668 | Entecavir 1 mg n=183 | Lamivudine 100 mg n=190 |
-| Any Grade 2 to 4 adverse reactiona | 15% | 18% | 22% | 23% |
-| Gastrointestinal |  |  |  |  |
-| Diarrhea | <1% | 0 | 1% | 0 |
-| Dyspepsia | <1% | <1% | 1% | 0 |
-| Nausea | <1% | <1% | <1% | 2% |
-| Vomiting | <1% | <1% | <1% | 0 |
-| General |  |  |  |  |
-| Fatigue | 1% | 1% | 3% | 3% |
-| Nervous System |  |  |  |  |
-| Headache | 2% | 2% | 4% | 1% |
-| Dizziness | <1% | <1% | 0 | 1% |
-| Somnolence | <1% | <1% | 0 | 0 |
-| Psychiatric |  |  |  |  |
-| Insomnia | <1% | <1% | 0 | <1% |
-| a Includes events of possible, probable, certain, or unknown relationship to treatment regimen. |  |  |  |  |
-| b Studies AI463022 and AI463027. |  |  |  |  |
-| c Includes Study AI463026 and the entecavir 1 mg and lamivudine treatment arms of Study AI463014, a Phase 2 multinational, randomized, double-blind study of three doses of entecavir (0.1, 0.5, and 1 mg) once daily versus continued lamivudine 100 mg once daily for up to 52 weeks in subjects who experienced recurrent viremia on lamivudine therapy. |  |  |  |  |
+|  | Nucleoside-Inhibitor-Naïveb |  | Lamivudine-Refractoryc |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Body System/ Adverse Reaction | Entecavir 0.5 mg n=679 | Lamivudine 100 mg n=668 | Entecavir 1 mg n=183 | Lamivudine 100 mg n=190 |  |
+| Any Grade 2 to 4 adverse reactiona | 15% | 18% | 22% | 23% |  |
+| Gastrointestinal |  |  |  |  |  |
+| Diarrhea | <1% | 0 | 1% | 0 |  |
+| Dyspepsia | <1% | <1% | 1% | 0 |  |
+| Nausea | <1% | <1% | <1% | 2% |  |
+| Vomiting | <1% | <1% | <1% | 0 |  |
+| General |  |  |  |  |  |
+| Fatigue | 1% | 1% | 3% | 3% |  |
+| Nervous System |  |  |  |  |  |
+| Headache | 2% | 2% | 4% | 1% |  |
+| Dizziness | <1% | <1% | 0 | 1% |  |
+| Somnolence | <1% | <1% | 0 | 0 |  |
+| Psychiatric |  |  |  |  |  |
+| Insomnia | <1% | <1% | 0 | <1% |  |
+| a Includes events of possible, probable, certain, or unknown relationship to treatment regimen. |  |  |  |  |  |
+| b Studies AI463022 and AI463027. |  |  |  |  |  |
+| c Includes Study AI463026 and the entecavir 1 mg and lamivudine treatment arms of Study AI463014, a Phase 2 multinational, randomized, double-blind study of three doses of entecavir (0.1, 0.5, and 1 mg) once daily versus continued lamivudine 100 mg once daily for up to 52 weeks in subjects who experienced recurrent viremia on lamivudine therapy. |  |  |  |  |  |
 
 Laboratory Abnormalities
 
@@ -81,7 +83,8 @@ Exacerbations of Hepatitis after Discontinuation of Treatment
 An exacerbation of hepatitis or ALT flare was defined as ALT greater than 10 times ULN and greater than 2 times the subject's reference level (minimum of the baseline or last measurement at end of dosing).
 For all subjects who discontinued treatment (regardless of reason), Table 5 presents the proportion of subjects in each study who experienced post-treatment ALT flares.
 In these studies, a subset of subjects was allowed to discontinue treatment at or after 52 weeks if they achieved a protocol-defined response to therapy.
-If entecavir is discontinued without regard to treatment response, the rate of post-treatment flares could be higher.[See Warnings and Precautions (5.1).]
+If entecavir is discontinued without regard to treatment response, the rate of post-treatment flares could be higher.
+[See Warnings and Precautions (5.1).]
 
 Table 5 Exacerbations of Hepatitis During Off-Treatment Follow-up, Subjects in Studies AI463022, AI463027, and AI463026
 
@@ -116,12 +119,14 @@ Liver Transplant Recipients
 
 Among 65 subjects receiving entecavir in an open-label, post-liver transplant trial [see Use in Specific Populations (8.8)], the frequency and nature of adverse events were consistent with those expected in patients who have received a liver transplant and the known safety profile of entecavir.
 
-## 6.2 Clinical Trial Experience in Pediatric Subjects
+Clinical Trial Experience in Pediatric Subjects
 
-Pediatric use information is approved for Bristol-Myers Squibb Company's Baraclude® (entecavir) tablets.
-However, due to Bristol-Myers Squibb Company's marketing exclusivity rights, this drug product is not labeled with that information.
+The safety of entecavir in pediatric subjects 2 to less than 18 years of age is based on two ongoing clinical trials in subjects with chronic HBV infection (one Phase 2 pharmacokinetic trial [AI463028] and one Phase 3 trial [AI463189]).
+These trials provide experience in 168 HBeAg-positive subjects treated with entecavir for a median duration of 72 weeks.
+The adverse reactions observed in pediatric subjects who received treatment with entecavir were consistent with those observed in clinical trials of entecavir in adults.
+Adverse drug reactions reported in greater than 1% of pediatric subjects included abdominal pain, rash events, poor palatability ("product taste abnormal"), nausea, diarrhea, and vomiting.
 
-## 6.3 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been reported during postmarketing use of entecavir.
 Because these reactions were reported voluntarily from a population of unknown size, it is not possible to reliably estimate their frequency or establish a causal relationship to entecavir exposure.

@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Entecavir is an antiviral drug against the hepatitis B virus [see Microbiology (12.4)].
+Entecavir is an antiviral drug against hepatitis B virus [see Microbiology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
@@ -18,11 +18,13 @@ For a 1 mg oral dose, Cmax was 8.2 ng/mL and Ctrough was 0.5 ng/mL.
 
 Effects of food on oral absorption
 
-Oral administration of 0.5 mg of entecavir with a standard high-fat meal (945 kcal, 54.6 g fat) or a light meal (379 kcal, 8.2 g fat) resulted in a delay in absorption (1 to 1.5 hours fed vs 0.75 hours fasted), a decrease in Cmax of 44%–46%, and a decrease in AUC of 18%–20% [see Dosage and Administration (2)].
+Oral administration of 0.5 mg of entecavir with a standard high-fat meal (945 kcal, 54.6 g fat) or a light meal (379 kcal, 8.2 g fat) resulted in a delay in absorption (1 to 1.5 hours fed vs 0.75 hours fasted), a decrease in Cmax of 44% to 46%, and a decrease in AUC of 18% to 20% [see Dosage and Administration (2)].
 
 Distribution
 
-Based on the pharmacokinetic profile of entecavir after oral dosing, the estimated apparent volume of distribution is in excess of total body water, suggesting that entecavir is extensively distributed into tissues.Binding of entecavir to human serum proteins in vitro was approximately 13%.
+Based on the pharmacokinetic profile of entecavir after oral dosing, the estimated apparent volume of distribution is in excess of total body water, suggesting that entecavir is extensively distributed into tissues.
+
+Binding of entecavir to human serum proteins in vitro was approximately 13%.
 
 Metabolism and Elimination
 
@@ -30,7 +32,7 @@ Following administration of 14C-entecavir in humans and rats, no oxidative or ac
 Minor amounts of phase II metabolites (glucuronide and sulfate conjugates) were observed.
 Entecavir is not a substrate, inhibitor, or inducer of the cytochrome P450 (CYP450) enzyme system. see Drug Interactions, below.
 
-After reaching peak concentration, entecavir plasma concentrations decreased in a bi-exponential manner with a terminal elimination half-life of approximately 128–149 hours.
+After reaching peak concentration, entecavir plasma concentrations decreased in a bi-exponential manner with a terminal elimination half-life of approximately 128 to 149 hours.
 The observed drug accumulation index is approximately 2-fold with once-daily dosing, suggesting an effective accumulation half-life of approximately 24 hours.
 
 Entecavir is predominantly eliminated by the kidney with urinary recovery of unchanged drug at steady state ranging from 62% to 73% of the administered dose.
@@ -38,7 +40,7 @@ Renal clearance is independent of dose and ranges from 360 to 471 mL/min suggest
 
 Special Populations
 
-Gender:There are no significant gender differences in entecavir pharmacokinetics.
+Gender: There are no significant gender differences in entecavir pharmacokinetics.
 
 Race: There are no significant racial differences in entecavir pharmacokinetics.
 
@@ -47,8 +49,18 @@ Entecavir AUC was 29.3% greater in elderly subjects compared to young subjects.
 The disparity in exposure between elderly and young subjects was most likely attributable to differences in renal function.
 Dosage adjustment of entecavir should be based on the renal function of the patient, rather than age [see Dosage and Administration (2.4)].
 
-Pediatrics: Pediatric use information is approved for Bristol-Myers Squibb Company's Baraclude® (entecavir) tablets.
-However, due to Bristol-Myers Squibb Company's marketing exclusivity rights, this drug product is not labeled with that information.
+Pediatrics: The steady-state pharmacokinetics of entecavir were evaluated in nucleosideinhibitor-naïve and lamivudine-experienced HBeAg-positive pediatric subjects 2 to less than 18 years of age with compensated liver disease.
+Results are shown in Table 6.
+Entecavir exposure among nucleoside-inhibitor-naïve subjects was similar to the exposure achieved in adults receiving once-daily doses of 0.5 mg.
+Entecavir exposure among lamivudine-experienced subjects was similar to the exposure achieved in adults receiving once-daily doses of 1 mg.
+
+Table 6 Pharmacokinetic Parameters in Pediatric Subjects
+
+|  | Nucleoside-Inhibitor-NaïveSubjects received once-daily doses of 0.015 mg/kg up to a maximum of 0.5 mg. n=24 | Lamivudine-ExperiencedSubjects received once-daily doses of 0.030 mg/kg up to a maximum of 1 mg. n=19 |
+| --- | --- | --- |
+| Cmax (ng/mL) (CV%) | 6.31 (30) | 14.48 (31) |
+| AUC(0–24) (ng•h/mL) (CV%) | 18.33 (27) | 38.58 (26) |
+| Cmin (ng/mL) (CV%) | 0.28 (22) | 0.47 (23) |
 
 Renal impairment
 
@@ -60,12 +72,12 @@ Table 7 Pharmacokinetic Parameters in Subjects with Selected Degrees of Renal Fu
 |  | Renal Function Group |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Baseline Creatinine Clearance (mL/min) |  |  |  |  |  |
-|  | Unimpaired >80 n=6 | Mild >50 –≤ 80 n=6 | Moderate 30 – 50 n=6 | Severe <30 n=6 | Severe Managed with Hemodialysisa n=6 | Severe Managed with CAPD n=4 |
+|  | Unimpaired >80 n=6 | Mild >50 to ≤80 n=6 | Moderate 30 to 50 n=6 | Severe <30 n=6 | Severe Managed with Hemodialysisa n=6 | Severe Managed with CAPD n=4 |
 | Cmax (ng/mL) (CV%) | 8.1 (30.7) | 10.4 (37.2) | 10.5 (22.7) | 15.3 (33.8) | 15.4 (56.4) | 16.6 (29.7) |
 | AUC(0-T) (ng•h/mL) (CV) | 27.9 (25.6) | 51.5 (22.8) | 69.5 (22.7) | 145.7 (31.5) | 233.9 (28.4) | 221.8 (11.6) |
 | CLR (mL/min) (SD) | 383.2 (101.8) | 197.9 (78.1) | 135.6 (31.6) | 40.3 (10.1) | NA | NA |
 | CLT/F (mL/min) (SD) | 588.1 (153.7) | 309.2 (62.6) | 226.3 (60.1) | 100.6 (29.1) | 50.6 (16.5) | 35.7 (19.6) |
-| aDosed immediately following hemodialysis. |  |  |  |  |  |  |
+| a Dosed immediately following hemodialysis. |  |  |  |  |  |  |
 | CLR = renal clearance; CLT/F = apparent oral clearance. |  |  |  |  |  |  |
 
 Following a single 1 mg dose of entecavir administered 2 hours before the hemodialysis session, hemodialysis removed approximately 13% of the entecavir dose over 4 hours.
@@ -98,7 +110,7 @@ The steady-state pharmacokinetics of entecavir and coadministered drug were not 
 
 Mechanism of Action
 
-Entecavir, a guanosine nucleoside analogue with activity against HBV reverse transcriptase (rt), is efficiently phosphorylated to the active triphosphate form, which has an intracellular half-life of 15 hours.
+Entecavir, a deoxyguanosine nucleoside analogue with activity against HBV reverse transcriptase (rt), is efficiently phosphorylated to the active triphosphate form, which has an intracellular half-life of 15 hours.
 By competing with the natural substrate deoxyguanosine triphosphate, entecavir triphosphate functionally inhibits all three activities of the HBV reverse transcriptase: (1) base priming, (2) reverse transcription of the negative strand from the pregenomic messenger RNA, and (3) synthesis of the positive strand of HBV DNA.
 Entecavir triphosphate is a weak inhibitor of cellular DNA polymerases α, β, and δ and mitochondrial DNA polymerase γ with Ki values ranging from 18 to >160 µM.
 
@@ -129,9 +141,9 @@ Clinical Studies
 
 Nucleoside-Inhibiotr-naïve subjects
 
-Genotypic evaluations were performed on evaluable samples (>300 copies/mL serum HBV DNA) from 562 subjects who were treated with entecavir for up to 96 weeks in nucleoside-Inhibitor-naive studies (AI463022, AI463027, and rollover study AI463901).
-By Week 96, evidence of emerging amino acid substitution rtS202G with rtM204V and rtL180M substitutions was detected in the HBV of 2 subjects (2/562=<1%), and 1 of them experienced virologic rebound (≥1 log10 increase above nadir).
-In addition, emerging amino acid substitutions at rtM204I/V and rtL180M, rtL80I, or rtV173L, which conferred decreased phenotypic susceptibility to entecavir in the absence of rtT184, rtS202, or rtM250 changes, were detected in the HBV of 3 subjects (3/562=<1%) who experienced virologic rebound.
+Genotypic evaluations were performed on evaluable samples (>300 copies/mL serum HBV DNA) from 562 subjects who were treated with entecavir for up to 96 weeks in nucleoside-inhibitor-naive studies (AI463022, AI463027, and rollover study AI463901).
+By Week 96, evidence of emerging amino acid substitution rtS202G with rtL180M and rtM204V substitutions was detected in the HBV of 2 subjects (2/562=<1%), and 1 of them experienced virologic rebound (≥1 log10 increase above nadir).
+In addition, emerging amino acid substitutions at rtM204I/V and rtL80I, rtV173L, or rtL180M, which conferred decreased phenotypic susceptibility to entecavir in the absence of rtT184, rtS202, or rtM250 changes, were detected in the HBV of 3 subjects (3/562=<1%) who experienced virologic rebound.
 For subjects who continued treatment beyond 48 weeks, 75% (202/269) had HBV DNA <300 copies/mL at end of dosing (up to 96 weeks).
 
 HBeAg-positive (n=243) and -negative (n=39) treatment-naïve subjects who failed to achieve the study-defined complete response by 96 weeks were offered continued entecavir treatment in a rollover study.
@@ -140,15 +152,15 @@ Subjects received 1 mg entecavir once daily for up to an additional 144 weeks.
 Of these 282 subjects, 141 HBeAg-positive and 8 HBeAg negative subjects entered the long-term follow-up rollover study and were evaluated for entecavir resistance.
 Of the 149 subjects entering the rollover study, 88% (131/149), 92% (137/149), and 92% (137/149) attained serum HBV DNA <300 copies/mL by Weeks 144, 192, and 240 (including end of dosing), respectively.
 No novel entecavir resistance-associated substitutions were identified in a comparison of the genotypes of evaluable isolates with their respective baseline isolates.
-The cumulative probability of developing rtT184, rtS202, or rtM250 entecavir resistance-associated substitutions (in the presence of rtM204V and rtL180M substitutions) at Weeks 48, 96, 144, 192, and 240 was 0.2%, 0.5%, 1.2%, 1.2%, and 1.2%, respectively.
+The cumulative probability of developing rtT184, rtS202, or rtM250 entecavir resistance-associated substitutions (in the presence of rtL180M and rtM204V substitutions) at Weeks 48, 96, 144, 192, and 240 was 0.2%, 0.5%, 1.2%, 1.2%, and 1.2%, respectively.
 
 Lamivudine-refractory subjects
 
-Genotypic evaluations were performed on evaluable samples from 190 subjects treated with entecavir for up to 96 weeks in studies of lamivudine refractory HBV (AI463026, AI463014, AI463015, and rollover study AI463901).
-By Week 96, resistance-associated amino acid substitutions at rtS202, rtT184, or rtM250, with or without rtI169 changes, in the presence of amino acid substitutions rtM204I/V with or without rtL180M, rtL80V, or rtV173L/M emerged in the HBV from 22 subjects (22/190=12%), 16 of whom experienced virologic rebound (≥1 log10 increase above nadir) and 4 of whom were never suppressed <300 copies/mL.
+Genotypic evaluations were performed on evaluable samples from 190 subjects treated with entecavir for up to 96 weeks in studies of lamivudine-refractory HBV (AI463026, AI463014, AI463015, and rollover study AI463901).
+By Week 96, resistance-associated amino acid substitutions at rtT184, rtS202, or rtM250, with or without rtI169 changes, in the presence of amino acid substitutions rtM204I/V with or without rtL80V, rtV173L/M, or rtL180M emerged in the HBV from 22 subjects (22/190=12%), 16 of whom experienced virologic rebound (≥1 log10 increase above nadir) and 4 of whom were never suppressed <300 copies/mL.
 The HBV from 4 of these subjects had entecavir resistance substitutions at baseline and acquired further changes on entecavir treatment.
-In addition to the 22 subjects, 3 subjects experienced virologic rebound with the emergence of rtM204I/V and rtL180M, rtL80V, or rtV173L/M.
-For isolates from subjects who experienced virologic rebound with the emergence of resistance substitutions (n=19), the median fold-change in entecavir EC50 values from reference was 19-fold at baseline and 106-fold at the time of virologic rebound.
+In addition to the 22 subjects, 3 subjects experienced virologic rebound with the emergence of rtM204I/V and rtL80V, rtV173L/M, or rtL180M.
+For isolates from subjects who experienced virologic rebound with the emergence of resistance-associated substitutions (n=19), the median fold-change in entecavir EC50 values from reference was 19-fold at baseline and 106-fold at the time of virologic rebound.
 For subjects who continued treatment beyond 48 weeks, 40% (31/77) had HBV DNA <300 copies/mL at end of dosing (up to 96 weeks).
 
 Lamivudine-refractory subjects (n=157) who failed to achieve the study-defined complete response by Week 96 were offered continued entecavir treatment.
@@ -165,8 +177,8 @@ This substitution was detected only in the presence of lamivudine resistance-ass
 Cross-resistance
 
 Cross-resistance has been observed among HBV nucleoside analogue inhibitors.
-In cell-based assays, entecavir had 8- to 30-fold less inhibition of HBV DNA synthesis for HBV containing lamivudine and telbivudine resistance substitutions rtM204I/V with or without rtL180M than for wild-type HBV.
-Substitutions rtM204I/V with or without rtL180M, rtL80I/V, or rtV173L, which are associated with lamivudine and telbivudine resistance, also confer decreased phenotypic susceptibility to entecavir.
-The efficacy of entecavir against HBV harboring adefovir resistance associated substitutions has not been established in clinical trials.
-HBV isolates from lamivudine refractory subjects failing entecavir therapy were susceptible in cell culture to adefovir but remained resistant to lamivudine.
-Recombinant HBV genomes encoding adefovir resistance-associated substitutions at either rtN236T or rtA181V had 0.3- and 1.1-fold shifts in susceptibility to entecavir in cell culture, respectively.
+In cell-based assays, entecavir had 8- to 30-fold less inhibition of HBV DNA synthesis for HBV containing lamivudine and telbivudine resistance-associated substitutions rtM204I/V with or without rtL180M than for wild-type HBV.
+Substitutions rtM204I/V with or without rtL80I/V, rtV173L, or rtL180M, which are associated with lamivudine and telbivudine resistance, also confer decreased phenotypic susceptibility to entecavir.
+The efficacy of entecavir against HBV harboring adefovir resistance-associated substitutions has not been established in clinical trials.
+HBV isolates from lamivudine-refractory subjects failing entecavir therapy were susceptible in cell culture to adefovir but remained resistant to lamivudine.
+Recombinant HBV genomes encoding adefovir resistance-associated substitutions at either rtA181V or rtN236T had 1.1- or 0.3-fold shifts in susceptibility to entecavir in cell culture, respectively.
