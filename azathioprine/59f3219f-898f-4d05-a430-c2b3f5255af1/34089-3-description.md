@@ -1,10 +1,10 @@
 # DESCRIPTION
 
-Azathioprine, USP, an immunosuppressive antimetabolite, is available in tablet form for oral administration.
+Azathioprine, an immunosuppressive antimetabolite, is available in tablet form for oral administration.
 Each scored tablet contains 50 mg azathioprine, USP and the inactive ingredients anhydrous lactose, magnesium stearate, povidone, pregelatinized starch (corn starch), and stearic acid.
 
-Azathioprine, USP is chemically 1H-Purine, 6-[(1-methyl-4-nitro-1H-imidazol-5-yl)thio]-.
-The structural formula of azathioprine, USP is:
+Azathioprine is chemically 1H-Purine, 6-[(1-methyl-4-nitro-1H-imidazol-5-yl)thio]-.
+The structural formula of azathioprine is:
 
 It is an imidazolyl derivative of 6-mercaptopurine and many of its biological effects are similar to those of the parent compound.
 

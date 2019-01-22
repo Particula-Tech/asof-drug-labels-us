@@ -1,4 +1,4 @@
-# ​INDICATIONS AND USAGE
+# INDICATIONS AND USAGE
 
 Azathioprine tablets are indicated as an adjunct for the prevention of rejection in renal homotransplantation.
 It is also indicated for the management of active rheumatoid arthritis to reduce signs and symptoms.
