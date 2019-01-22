@@ -2,8 +2,6 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects
-
 Pregnancy Category C
 
 Risk Summary

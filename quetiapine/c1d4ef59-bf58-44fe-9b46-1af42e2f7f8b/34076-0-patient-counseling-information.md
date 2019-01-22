@@ -52,7 +52,8 @@ Children and adolescent patients should have their blood pressure measured at th
 
 Leukopenia/Neutropenia
 
-Patients with a pre-existing low WBC or a history of drug induced leukopenia/neutropenia should be advised that they should have their CBC monitored while taking quetiapine fumarate [see Warnings and Precautions (5.10)].
+Patients with a pre-existing low WBC or a history of drug induced leukopenia/neutropenia should be advised that they should have their CBC monitored while taking quetiapine fumarate.
+Patients should be advised to talk to their doctor as soon as possible if they have a fever, flu-like symptoms, sore throat, or any other infection as this could be a result of a very low WBC, which may require quetiapine fumarate to be stopped and/or treatment to be given [see Warnings and Precautions (5.10)].
 
 Interference with Cognitive and Motor Performance
 
@@ -78,17 +79,10 @@ Effectiveness and safety of quetiapine fumarate have not been established in ped
 Appropriate educational placement is essential and psychosocial intervention is often helpful.
 The decision to prescribe atypical antipsychotic medication will depend upon the physician’s assessment of the chronicity and severity of the patient’s symptoms [see Indications and Usage (1.3)].
 
-Manufactured In Czech Republic By:
-
-Teva Czech Industries, s.r.o.
-
+Manufactured In Czech Republic By: Teva Czech Industries, s.r.o.
 Opava-Komarov, Czech Republic
 
-Manufactured For:
-
-Teva Pharmaceuticals USA, Inc.
-
-North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-J 6/2017
+K 12/2018

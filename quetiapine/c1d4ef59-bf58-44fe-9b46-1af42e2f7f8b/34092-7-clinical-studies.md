@@ -157,8 +157,7 @@ On average, patients were stabilized for 15 weeks.
 In the randomization phase, patients continued treatment with lithium or divalproex and were randomized to receive either quetiapine fumarate (administered twice daily totaling 400 mg/day to 800 mg/day) or placebo.
 Approximately 50% of the patients had discontinued from the quetiapine fumarate group by day 280 and 50% of the placebo group had discontinued by day 117 of double-blind treatment.
 The primary endpoint in these studies was time to recurrence of a mood event (manic, mixed or depressed episode).
-A mood event was defined as medication initiation or hospitalization for a mood episode; YMRS score ≥20 or MADRS score ≥20 at 2 consecutive assessments; or study discontinuation due to a mood event.
-(Figure 1 and Figure 2)
+A mood event was defined as medication initiation or hospitalization for a mood episode; YMRS score ≥20 or MADRS score ≥20 at 2 consecutive assessments; or study discontinuation due to a mood event (Figure 1 and Figure 2).
 
 In both studies, quetiapine fumarate was superior to placebo in increasing the time to recurrence of any mood event.
 The treatment effect was present for increasing time to recurrence of both manic and depressed episodes.

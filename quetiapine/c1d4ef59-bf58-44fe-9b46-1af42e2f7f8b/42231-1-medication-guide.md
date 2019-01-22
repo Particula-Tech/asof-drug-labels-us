@@ -1,6 +1,6 @@
 # Medication Guide
 
-Quetiapine (kwe-TYE-a-peen) Tablets USP
+Quetiapine (kwe-TYE-a-peen) Tablets
 
 Read this Medication Guide before you start taking quetiapine tablets and each time you get a refill.
 There may be new information.
@@ -95,6 +95,7 @@ Before you take quetiapine tablets, tell your healthcare provider if you have or
   Quetiapine fumarate can pass into your breast milk.
   You and your healthcare provider should decide if you will take quetiapine tablets or breast-feed.
   You should not do both.
+- if you have or have had a condition where you cannot completely empty your bladder (urinary retention), have an enlarged prostate, or constipation, or increased pressure inside your eyes.
 
 Tell the healthcare provider about all the medicines that you take or recently have taken including prescription medicines, over-the-counter medicines, herbal supplements and vitamins.
 
@@ -175,13 +176,14 @@ Quetiapine tablets can cause serious side effects, including:
 - decreased blood pressure (orthostatic hypotension), including lightheadedness or fainting caused by a sudden change in heart rate and blood pressure when rising too quickly from a sitting or lying position.
 - increases in blood pressure in children and teenagers.
   Your healthcare provider should check blood pressure in children and adolescents before starting quetiapine tablets and during therapy.
-- low white blood cell count
+- low white blood cell count.
+  Tell your healthcare provider as soon as possible if you have a fever, flu-like symptoms, or any other infection, as this could be a result of a very low white blood cell count.
+  Your healthcare provider may check your white blood cell level to determine if further treatment or other action is needed.
 - cataracts
 - seizures
 - abnormal thyroid tests.
   Your healthcare provider may do blood tests to check your thyroid hormone level.
-- increases in prolactin levels.
-  Your healthcare provider may do blood tests to check your prolactin levels.
+- increases in prolactin levels
 - sleepiness, drowsiness, feeling tired, difficulty thinking and doing normal activities
 - increased body temperature
 - difficulty swallowing
@@ -192,18 +194,30 @@ The most common side effects of quetiapine tablets include:
 
 In Adults:
 
-| • dry mouth | • constipation |
-| --- | --- |
-| • dizziness | • sore throat |
-| • weakness | • difficulty moving |
-| • abdominal pain |  |
+- drowsiness
+- sudden drop in blood pressure upon standing
+- weight gain
+- sluggishness
+- abnormal liver tests
+- upset stomach
+- dry mouth
+- dizziness
+- weakness
+- abdominal pain
+- constipation
+- sore throat
 
 In Children and Adolescents:
 
-| • nausea | • increased appetite |
-| --- | --- |
-| • dry mouth | • vomiting |
-| • weight gain | • rapid heart beat |
+- drowsiness
+- dizziness
+- fatigue
+- ·nausea
+- dry mouth
+- weight gain
+- increased appetite
+- ·vomiting
+- rapid heart beat
 
 These are not all the possible side effects of quetiapine tablets.
 For more information, ask your healthcare provider or pharmacist.
@@ -213,7 +227,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store quetiapine tablets?
 
-- Store quetiapine tablets at room temperature, between 20° to 25°C (68° to 77°F).
+- Store quetiapine tablets at room temperature, between 68° to 77°F (20° to 25°C).
 - Keep quetiapine tablets and all medicines out of the reach of children.
 
 General information about the safe and effective use of quetiapine tablets
@@ -238,17 +252,10 @@ Additionally, the 25 mg, 100 mg, and 300 mg tablets contain iron oxide yellow; t
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured In Czech Republic By:
-
-Teva Czech Industries, s.r.o.
-
+Manufactured In Czech Republic By: Teva Czech Industries, s.r.o.
 Opava-Komarov, Czech Republic
 
-Manufactured For:
-
-Teva Pharmaceuticals USA, Inc.
-
-North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-G 3/2017
+H 12/2018
