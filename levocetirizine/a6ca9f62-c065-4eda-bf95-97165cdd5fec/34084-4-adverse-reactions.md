@@ -101,7 +101,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Immune system disorders: anaphylaxis and hypersensitivity
 - Metabolism and nutrition disorders: increased appetite
 - Musculoskeletal, connective tissues, and bone disorders: arthralgia, myalgia
-- Nervous system disorders: dizziness, dysgeusia, febrile seizure, movement disorders (including dystonia and oculogyric crisis), paraesthesia, seizure (reported in subjects with and without a known seizure disorder), tremor
+- Nervous system disorders: dizziness, dysgeusia, febrile seizure, movement disorders (including dystonia and oculogyric crisis), paresthesia, seizure (reported in subjects with and without a known seizure disorder), tremor
 - Psychiatric disorders: aggression and agitation, depression, hallucinations, insomnia, nightmare, suicidal ideation
 - Renal and urinary disorders: dysuria, urinary retention
 - Respiratory, thoracic, and mediastinal disorders: dyspnea
