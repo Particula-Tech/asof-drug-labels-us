@@ -6,7 +6,7 @@ Instruct patients to inform their physician about any underlying liver disease [
 
 Renal Toxicity
 
-Instruct patients to inform their physician about any underlying renal disease [seeWarnings and Precautions (5.3) and Use in Specific Populations (8.6)].
+Instruct patients to inform their physician about any underlying renal disease [see Warnings and Precautions (5.3) and Use in Specific Populations (8.6)].
 
 Embryo-Fetal Risk
 
@@ -22,12 +22,6 @@ Advise patients to avoid breastfeeding while receiving Azacitidine for injection
 
 Manufactured for:
 
-Lake Zurich, IL 60047
+Lake Zurich, IL 60047 Made in India www.fresenius-kabi.us 451537A
 
-Made in India
-
-www.fresenius-kabi.us
-
-451537
-
-Revised: 12/2016
+Revised: 09/2018 4500272

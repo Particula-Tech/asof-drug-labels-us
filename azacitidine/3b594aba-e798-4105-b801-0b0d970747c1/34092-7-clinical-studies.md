@@ -3,14 +3,14 @@
 Myelodysplastic Syndromes (MDS)
 
 Study 1 was a randomized, open-label, controlled trial carried out in 53 U.S. sites compared the safety and efficacy of subcutaneous Azacitidine plus supportive care with supportive care alone (“observation”) in patients with any of the five FAB subtypes of myelodysplastic syndromes (MDS): refractory anemia (RA), RA with ringed sideroblasts (RARS), RA with excess blasts (RAEB), RAEB in transformation (RAEB-T), and chronic myelomonocytic leukemia (CMMoL).
-RA and RARS patients were included if they met one or more of the following criteria: required packed RBC transfusions; had platelet counts ≤ 50.0 x 10 9/L; required platelet transfusions; or were neutropenic (ANC <1.0 x 10 9/L) with infections requiring treatment with antibiotics.
+RA and RARS patients were included if they met one or more of the following criteria: required packed RBC transfusions; had platelet counts ≤ 50.0 x 109/L; required platelet transfusions; or were neutropenic (ANC <1.0 x 109/L) with infections requiring treatment with antibiotics.
 Patients with acute myelogenous leukemia (AML) were not intended to be included.
 Supportive care allowed in this study included blood transfusion products, antibiotics, antiemetics, analgesics and antipyretics.
 The use of hematopoeitic growth factors was prohibited.
 Baseline patient and disease characteristics are summarized in Table 3; the 2 groups were similar.
 
-Azacitidine was administered at a subcutaneous dose of 75 mg/m 2 daily for 7 days every 4 weeks.
-The dose was increased to 100 mg/m 2 if no beneficial effect was seen after 2 treatment cycles.
+Azacitidine was administered at a subcutaneous dose of 75 mg/m2 daily for 7 days every 4 weeks.
+The dose was increased to 100 mg/m2 if no beneficial effect was seen after 2 treatment cycles.
 The dose was decreased and/or delayed based on hematologic response or evidence of renal toxicity.
 Patients in the observation arm were allowed by protocol to cross over to Azacitidine if they had increases in bone marrow blasts, decreases in hemoglobin, increases in red cell transfusion requirements, or decreases in platelets, or if they required a platelet transfusion or developed a clinical infection requiring treatment with antibiotics.
 For purposes of assessing efficacy, the primary endpoint was response rate (as defined in Table 4).
@@ -64,7 +64,7 @@ Response Criteria
 The overall response rate (CR + PR) of 15.7% in Azacitidine -treated patients without AML (16.2% for all Azacitidine randomized patients including AML) was statistically significantly higher than the response rate of 0% in the observation group (p<0.0001) (Table 5).
 The majority of patients who achieved either CR or PR had either 2 or 3 cell line abnormalities at baseline (79%; 11/14) and had elevated bone marrow blasts or were transfusion dependent at baseline.
 Patients responding to Azacitidine had a decrease in bone marrow blasts percentage, or an increase in platelets, hemoglobin or WBC.
-Greater than 90% of the responders initially demonstrated these changes by the 5 th treatment cycle.
+Greater than 90% of the responders initially demonstrated these changes by the 5th treatment cycle.
 All patients who had been transfusion dependent became transfusion independent during PR or CR.
 The mean and median duration of clinical response of PR or better was estimated as 512 and 330 days, respectively; 75% of the responding patients were still in PR or better at completion of treatment.
 Response occurred in all MDS subtypes as well as in patients with adjudicated baseline diagnosis of AML.
@@ -104,11 +104,11 @@ At baseline, 95% of the patients were higher risk by FAB classification: RAEB (5
 By IPSS classification, 87% were higher risk: Int-2 (41%), High (47%).
 At baseline, 32% of patients met WHO criteria for AML.
 
-Azacitidine was administered subcutaneously at a dose of 75 mg/m 2 daily for 7 consecutive days every 28 days (which constituted one cycle of therapy).
+Azacitidine was administered subcutaneously at a dose of 75 mg/m2 daily for 7 consecutive days every 28 days (which constituted one cycle of therapy).
 Patients continued treatment until disease progression, relapse after response, or unacceptable toxicity.
 Azacitidine patients were treated for a median of 9 cycles (range 1 to 39), BSC only patients for a median of 7 cycles (range 1 to 26), low dose cytarabine patients for a median of 4.5 cycles (range 1 to 15), and chemotherapy with cytarabine and anthracycline patients for a median of 1 cycle (range 1 to 3, i.e. induction plus 1 or 2 consolidation cycles).
 
-In the Intent-to-Treat analysis, patients treated with azacitidine demonstrated a statistically significant difference in overall survival as compared to patients treated with CCR (median survival of 24.5 months vs. 15.0 months; stratified log-rank p=0.0001).
+In the Intent-to-Treat analysis, patients treated with azacitidine demonstrated a statistically significant difference in overall survival as compared to patients treated with CCR (median survival of 24.5 months vs. 15.0 months; stratified log- rank p=0.0001).
 The hazard ratio describing this treatment effect was 0.58 (95% CI: 0.43, 0.77).
 
 Kaplan-Meier Curve of Time to Death from Any Cause: (Intent-to-Treat Population)
@@ -116,16 +116,16 @@ Kaplan-Meier Curve of Time to Death from Any Cause: (Intent-to-Treat Population)
 Key: AZA = azacitidine; CCR = conventional care regimens; CI = confidence interval; HR = Hazard Ratio
 
 Azacitidine treatment led to a reduced need for red blood cell transfusions (see Table 6).
-In patients treated with azacitidine who were RBC transfusion dependent at baseline and became transfusion independent, the median duration of RBC transfusion independence was
-
-13.0 months.
+In patients treated with azacitidine who were RBC transfusion dependent at baseline and became transfusion independent, the median duration of RBC transfusion independence was 13.0 months.
 
 Table 6.
 Effect of Azacitidine on RBC Transfusions in MDS Patients
 
 | Efficacy Parameter | Azacitidine plus BSC (n= 179) | Conventional Care Regimens (n= 179) |
 | --- | --- | --- |
-| Number and percent of patients who were transfusion dependent at baseline who became transfusion independent on treatment 1 Number and percent of patients who were transfusion-independent at baseline who became transfusion-dependent on treatment | 50/111 (45.0%) (95% CI: 35.6%, 54.8%) 10/68 (14.7%) (95% CI: 7.3%, 25.4%) | 13/114 (11.4%) (95% CI: 6.2%, 18.7%) 28/65 (43.1%) (95% CI: 30.9%, 56.0%) |
-
-1 A patient was considered RBC transfusion independent during the treatment period if the patient had no RBC transfusions during any 56 consecutive days or more during the treatment period.
-Otherwise, the patient was considered transfusion dependent.
+| Number and percent of patients who were transfusion dependent at baseline who became transfusion independent on treatment1 | 50/111 (45.0%) | 13/114 (11.4%) |
+| (95% CI: 35.6%, 54.8%) | (95% CI: 6.2%, 18.7%) |  |
+| Number and percent of patients who | 10/68 (14.7%) | 28/65 (43.1%) |
+| were transfusion-independent at baseline |  |  |
+| who became transfusion-dependent on treatment | (95% CI: 7.3%, 25.4%) | (95% CI: 30.9%, 56.0%) |
+| 1 A patient was considered RBC transfusion independent during the treatment period if the patient had no RBC transfusions during any 56 consecutive days or more during the treatment period. Otherwise, the patient was considered transfusion dependent. |  |  |
