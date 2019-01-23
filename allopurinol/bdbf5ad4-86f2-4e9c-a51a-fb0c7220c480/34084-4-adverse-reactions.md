@@ -1,21 +1,30 @@
 # ADVERSE REACTIONS
 
-Data upon which the following estimates of incidence of adverse reactions are made are derived from experiences reported in the literature, unpublished clinical trials and voluntary reports since marketing of allopurinol began.
+Data upon which the following estimates of incidence of adverse reactions are made are derived from experiences reported in the literature, unpublished clinical trials and voluntary reports since marketing of allopurinol tablets began.
 Past experience suggested that the most frequent event following the initiation of allopurinol treatment was an increase in acute attacks of gout (average 6% in early studies).
 An analysis of current usage suggests that the incidence of acute gouty attacks has diminished to less than 1%.
-The explanation of this decrease has not been determined but may be due in part to initiating therapy more gradually (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
+The explanation for this decrease has not been determined but may be due in part to initiating therapy more gradually (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
 
-The most frequent adverse reaction to allopurinol is skin rash.
+The most frequent adverse reaction to allopurinol tablets is skin rash.
 Skin reactions can be severe and sometimes fatal.
-Therefore, treatment with allopurinol should be discontinued immediately if a rash develops (see WARNINGS).
+Therefore, treatment with allopurinol tablets should be discontinued immediately if a rash develops (see WARNINGS).
 Some patients with the most severe reaction also had fever, chills, arthralgias, cholestatic jaundice, eosinophilia and mild leukocytosis or leukopenia.
-Among 55 patients with gout treated with allopurinol for 3 to 34 months (average greater than 1 year) and followed prospectively, Rundles observed that 3% of patients developed a type of drug reaction which was predominantly a pruritic maculopapular skin eruption, sometimes scaly or exfoliative.
+Among 55 patients with gout treated with allopurinol tablets for 3 to 34 months (average greater than 1 year) and followed prospectively, Rundles observed that 3% of patients developed a type of drug reaction which was predominantly a pruritic maculopapular skin eruption, sometimes scaly or exfoliative.
 However, with current usage, skin reactions have been observed less frequently than 1%.
 The explanation for this decrease is not obvious.
 The incidence of skin rash may be increased in the presence of renal insufficiency.
-The frequency of skin rash among patients receiving ampicillin or amoxicillin concurrently with allopurinol has been reported to be increased (see PRECAUTIONS).
+The frequency of skin rash among patients receiving ampicillin or amoxicillin concurrently with allopurinol tablets have been reported to be increased (see PRECAUTIONS).
 
-Most Common Reactions Early clinical studies and incidence rates from early clinical experience with allopurinol suggested that these adverse reactions were found to occur at a rate of greater than 1%.
+Drug rash with eosinophilia and systemic symptoms (DRESS) syndrome or drug hypersensitivity syndrome (DHS) has been reported in association with allopurinol use.
+The syndrome includes many of the severe reactions described above, and is potentially life-threatening and fatal.
+The syndrome is often characterized by fever, severe and profuse skin rash, elevated leukocyte counts and in particular, elevated eosinophil counts, lymphadenopathy, and multi-organ pathologies.
+Systemic symptoms often included, but were not limited to, the hepatic and renal systems.
+Symptoms involving the cardiac, gastrointestinal, lymphatic, pulmonary, and ophthalmic systems were also reported as occurring as part of the syndrome.
+It has been reported that symptoms may develop in approximately 1 week from initiating allopurinol therapy, but longer latency periods have also been reported.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Mylan at 1-877-446-3679 (1-877-4-INFO-RX) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+
+Most Common Reactions Early clinical studies and incidence rates from early clinical experience with allopurinol tablets suggested that these adverse reactions were found to occur at a rate of greater than 1%.
 The most frequent event observed was acute attacks of gout following the initiation of therapy.
 Analyses of current usage suggest that the incidence of these adverse reactions is now less than 1%.
 The explanation for this decrease has not been determined, but it may be due to following recommended usage (see ADVERSE REACTIONS introduction, INDICATIONS AND USAGE, PRECAUTIONS, and DOSAGE AND ADMINISTRATION).
@@ -39,7 +48,7 @@ Hemic and Lymphatic: Thrombocytopenia, eosinophilia, leukocytosis, leukopenia.
 
 Musculoskeletal: Myopathy, arthralgias.
 
-Nervous: Peripheral neuropathy, neuritis, parasthesia, somnolence.
+Nervous: Peripheral neuropathy, neuritis, paresthesia, somnolence.
 
 Respiratory: Epistaxis.
 
