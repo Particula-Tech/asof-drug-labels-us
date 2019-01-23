@@ -52,7 +52,8 @@ Children and adolescent patients should have their blood pressure measured at th
 
 Leukopenia/Neutropenia
 
-Patients with a preexisting low WBC or a history of drug induced leukopenia/neutropenia should be advised that they should have their CBC monitored while taking quetiapine tablets [see Warnings and Precautions (5.10)].
+Patients with a preexisting low WBC or a history of drug induced leukopenia/neutropenia should be advised that they should have their CBC monitored while taking quetiapine tablets.
+Patients should be advised to talk to their doctor as soon as possible if they have a fever, flu-like symptoms, sore throat, or any other infection as this could be a result of a very low WBC, which may require quetiapine tablets to be stopped and/or treatment to be given [see Warnings and Precautions (5.10)].
 
 Interference with Cognitive and Motor Performance
 

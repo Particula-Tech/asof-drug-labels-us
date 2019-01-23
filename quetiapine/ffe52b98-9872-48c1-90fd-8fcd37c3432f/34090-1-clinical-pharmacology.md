@@ -91,9 +91,9 @@ The in vivo assessments of effect of other drugs on the pharmacokinetics of quet
 
 Table 17 The Effect of Other Drugs on the Pharmacokinetics of Quetiapine
 
-| Coadministered drug | Dose schedules |  | Effect on quetiapine pharmacokinetics |
+| Coadministered Drug | Dose Schedules |  | Effect on Quetiapine Pharmacokinetics |
 | --- | --- | --- | --- |
-|  | Coadministered drug | Quetiapine |  |
+|  | Coadministered Drug | Quetiapine |  |
 | Phenytoin | 100 mg three times daily | 250 mg three times daily | 5 fold Increase in oral clearance |
 | Divalproex | 500 mg twice daily | 150 mg twice daily | 17% increase mean max plasma concentration at steady state. No effect on absorption or mean oral clearance |
 | Thioridazine | 200 mg twice daily | 300 mg twice daily | 65% increase in oral clearance |
@@ -109,9 +109,9 @@ Quetiapine at doses of 750 mg/day did not affect the single dose pharmacokinetic
 
 Table 18: The Effect of Quetiapine on the Pharmacokinetics of Other Drugs
 
-| Coadministered drug | Dose schedules |  | Effect on other drugs pharmacokinetics |
+| Coadministered Drug | Dose Schedules |  | Effect on Other Drugs Pharmacokinetics |
 | --- | --- | --- | --- |
-|  | Coadministered drug | Quetiapine |  |
+|  | Coadministered Drug | Quetiapine |  |
 | Lorazepam | 2 mg, single dose | 250 mg three times daily | Oral clearance of lorazepam reduced by 20% |
 | Divalproex | 500 mg twice daily | 150 mg twice daily | Cmax and AUC of free valproic acid at steady-state was decreased by 10­ to 12% |
 | Lithium | Up to 2400 mg/day given in twice daily doses | 250 mg three times daily | No effect on steady-state pharmacokinetics of lithium |

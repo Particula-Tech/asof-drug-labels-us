@@ -82,7 +82,7 @@ Hyperglycemia and Diabetes Mellitus
 Hyperglycemia, in some cases extreme and associated with ketoacidosis or hyperosmolar coma or death, has been reported in patients treated with atypical antipsychotics, including quetiapine.
 Assessment of the relationship between atypical antipsychotic use and glucose abnormalities is complicated by the possibility of an increased background risk of diabetes mellitus in patients with schizophrenia and the increasing incidence of diabetes mellitus in the general population.
 Given these confounders, the relationship between atypical antipsychotic use and hyperglycemia-related adverse reactions is not completely understood.
-However, epidemiological studies suggest an increased risk of treatment-emergent hyperglycemia-related adverse reactions in patients treated with the atypical antipsychotics.
+However, epidemiological studies suggest an increased risk of hyperglycemia-related adverse reactions in patients treated with the atypical antipsychotics.
 Precise risk estimates for hyperglycemia-related adverse reactions in patients treated with atypical antipsychotics are not available.
 
 Patients with an established diagnosis of diabetes mellitus who are started on atypical antipsychotics should be monitored regularly for worsening of glucose control.
@@ -102,7 +102,7 @@ Table 3: Fasting Glucose—Proportion of Patients Shifting to ≥ 126 mg/dL in S
 | Borderline to High (≥ 100 mg/dL and <126 mg/dL to ≥ 126 mg/dL) | Quetiapine | 572 | 67 (11.7%) |  |
 | Placebo | 279 | 33 (11.8%) |  |  |
 
-In a 24-week trial (active-controlled, 115 patients treated with quetiapine) designed to evaluate glycemic status with oral glucose tolerance testing of all patients, at week 24 the incidence of a treatment-emergent post-glucose challenge glucose level ≥ 200 mg/dL was 1.7% and the incidence of a fasting treatment-emergent blood glucose level ≥ 126 mg/dL was 2.6%.
+In a 24-week trial (active-controlled, 115 patients treated with quetiapine) designed to evaluate glycemic status with oral glucose tolerance testing of all patients, at week 24 the incidence of a post-glucose challenge glucose level ≥ 200 mg/dL was 1.7% and the incidence of a fasting blood glucose level ≥ 126 mg/dL was 2.6%.
 The mean change in fasting glucose from baseline was 3.2 mg/dL and mean change in 2 hour glucose from baseline was -1.8 mg/dL for quetiapine.
 
 In 2 long-term placebo-controlled randomized withdrawal clinical trials for bipolar I disorder maintenance, mean exposure of 213 days for quetiapine (646 patients) and 152 days for placebo (680 patients), the mean change in glucose from baseline was +5 mg/dL for quetiapine and –0.05 mg/dL for placebo.
@@ -112,7 +112,7 @@ Children and Adolescents:
 
 In a placebo-controlled quetiapine monotherapy study of adolescent patients (13 to 17 years of age) with schizophrenia (6 weeks duration), the mean change in fasting glucose levels for quetiapine (n=138) compared to placebo (n=67) was –0.75 mg/dL versus –1.7 mg/dL.
 In a placebo-controlled quetiapine monotherapy study of children and adolescent patients (10 to 17 years of age) with bipolar mania (3 weeks duration), the mean change in fasting glucose level for quetiapine (n=170) compared to placebo (n=81) was 3.62 mg/dL versus –1.17 mg/dL.
-No patient in either study with a baseline normal fasting glucose level (<100 mg/dL) or a baseline borderline fasting glucose level (≥100 mg/dL and <126 mg/dL) had a treatment-emergent blood glucose level of ≥126 mg/dL.
+No patient in either study with a baseline normal fasting glucose level (<100 mg/dL) or a baseline borderline fasting glucose level (≥100 mg/dL and <126 mg/dL) had a blood glucose level of ≥126 mg/dL.
 
 In a placebo-controlled quetiapine fumarate extended-release tablets monotherapy study (8 weeks duration) of children and adolescent patients (10 to 17 years of age) with bipolar depression, in which efficacy was not established, the mean change in fasting glucose levels for quetiapine fumarate extended-release tablets (n = 60) compared to placebo (n = 62) was 1.8 mg/dL versus 1.6 mg/dL.
 In this study, there were no patients in the quetiapine fumarate extended-release tablets or placebo-treated groups with a baseline normal fasting glucose level (< 100 mg/dL) that had an increase in blood glucose level > 126 mg/dL.
@@ -136,7 +136,7 @@ Table 4: Percentage of Adult Patients with Shifts in Total Cholesterol, Triglyce
 | Placebo | 70 | 11 (16%) |  |  |
 | Bipolar Depression | Quetiapine | 436 | 59 (14%) |  |
 | Placebo | 232 | 20 (9%) |  |  |
-| LDL-Cholesterol ≥ 160 mg/dL | Schizophrenia | Quetiapine | naParameters not measured in the quetiapine registration studies for schizophrenia. Lipid parameters also were not measured in the bipolar mania registration studies. | na |
+| LDL-Cholesterol ≥ 160 mg/dL | Schizophrenia | Quetiapine | naParameters not measured in the quetiapine registration studies for schizophrenia. | na |
 | Placebo | na | na |  |  |
 | Bipolar Depression | Quetiapine | 465 | 29 (6%) |  |
 | Placebo | 256 | 12 (5%) |  |  |
@@ -258,7 +258,10 @@ In a placebo-controlled quetiapine fumarate extended-release tablets clinical tr
 ## 5.10 Leukopenia, Neutropenia and Agranulocytosis
 
 In clinical trial and postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to atypical antipsychotic agents, including quetiapine.
-Agranulocytosis (including fatal cases) has also been reported.
+Agranulocytosis has also been reported.
+
+Agranulocytosis (defined as absolute neutrophil count <500/mm3) has been reported with quetiapine, including fatal cases and cases in patients without pre-existing risk factors.
+Neutropenia should be considered in patients presenting with infection, particularly in the absence of obvious predisposing factor(s), or in patients with unexplained fever, and should be managed as clinically appropriate.
 
 Possible risk factors for leukopenia/neutropenia include preexisting low white cell count (WBC) and history of drug-induced leukopenia/neutropenia.
 Patients with a preexisting low WBC or a history of drug induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and should discontinue quetiapine at the first sign of a decline in WBC in absence of other causative factors.
@@ -303,7 +306,7 @@ In the mania adjunct studies, where quetiapine was added to lithium or divalproe
 Of the quetiapine treated patients with elevated TSH levels, 3 had simultaneous low free T4 levels (free T4 <0.8 LLN).
 About 0.7% (26/3489) of quetiapine patients did experience TSH increases in monotherapy studies.
 Some patients with TSH increases needed replacement thyroid treatment.
-In all quetiapine trials, the incidence of significant shifts in thyroid hormones and TSH were*: decrease in free T4 (free T4 <0.8 LLN), 2% (357/17513); decrease in total T4, 4% (75/1861); decrease in free T3, 0.4% (53/13766); decrease in total T3, 2% (26/1312), and increase in TSH, 4.9% (956/19412).
+In all quetiapine trials, the incidence of significant shifts in thyroid hormones and TSH were*: decrease in free T4 (<0.8 LLN), 2% (357/17513); decrease in total T4 (<0.8 LLN), 4% (75/1861); decrease in free T3 (<0.8 LLN), 0.4% (53/13766); decrease in total T3 (<0.8 LLN), 2% (26/1312), and increase in TSH (>5 mIU/L), 4.9% (956/19412).
 In eight patients, where TBG was measured, levels of TBG were unchanged.
 
 Table 8 shows the incidence of these shifts in short-term placebo-controlled clinical trials.
@@ -367,4 +370,15 @@ Quetiapine and other antipsychotic drugs should be used cautiously in patients a
 Acute withdrawal symptoms, such as insomnia, nausea, and vomiting have been described after abrupt cessation of atypical antipsychotic drugs, including quetiapine.
 In short-term placebo-controlled, monotherapy clinical trials with quetiapine fumarate extended-release tablets that included a discontinuation phase which evaluated discontinuation symptoms, the aggregated incidence of patients experiencing one or more discontinuation symptoms after abrupt cessation was 12.1% (241/1993) for quetiapine fumarate extended-release tablets and 6.7% (71/1065) for placebo.
 The incidence of the individual adverse events (i.e., insomnia, nausea, headache, diarrhea, vomiting, dizziness and irritability) did not exceed 5.3% in any treatment group and usually resolved after 1 week post-discontinuation.
-Gradual withdrawal is advised.
+Gradual withdrawal is advised [see Use in Specific Populations (8.1)].
+
+## 5.20 Anticholinergic (antimuscarinic) Effects
+
+Norquetiapine, an active metabolite of quetiapine, has moderate to strong affinity for several muscarinic receptor subtypes.
+This contributes to anticholinergic adverse reactions when quetiapine is used at therapeutic doses, taken concomitantly with other anticholinergic medications, or taken in overdose.
+Quetiapine should be used with caution in patients receiving medications having anticholinergic (antimuscarinic) effects [see Overdosage (10.1) and Clinical Pharmacology (12.1)].
+
+Constipation was a commonly reported adverse event in patients treated with quetiapine and represents a risk factor for intestinal obstruction.
+Intestinal obstruction has been reported with quetiapine, including fatal reports in patients who were receiving multiple concomitant medications that decrease intestinal motility.
+
+Quetiapine should be used with caution in patients with a current diagnosis or prior history of urinary retention, clinically significant prostatic hypertrophy, constipation, or increased intraocular pressure.
