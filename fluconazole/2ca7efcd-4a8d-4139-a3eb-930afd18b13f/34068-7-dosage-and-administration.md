@@ -23,7 +23,7 @@ A dosage of 400 mg once daily may be used, based on medical judgment of the pati
 The recommended duration of treatment for initial therapy of cryptococcal meningitis is 10 to 12 weeks after the cerebrospinal fluid becomes culture negative.
 The recommended dosage of fluconazole for suppression of relapse of cryptococcal meningitis in patients with AIDS is 200 mg once daily.
 Prophylaxis in patients undergoing bone marrow transplantation: The recommended fluconazole daily dosage for the prevention of candidiasis in patients undergoing bone marrow transplantation is 400 mg, once daily.
-Patients who are anticipated to have severe granulocytopenia (less than 500 neutrophils per cu mm) should start fluconazole prophylaxis several days before the anticipated onset of neutropenia, and continue for 7 days after the neutrophil count rises above 1000 cells per cu mm.
+Patients who are anticipated to have severe granulocytopenia (less than 500 neutrophils cells/mm3) should start fluconazole prophylaxis several days before the anticipated onset of neutropenia, and continue for 7 days after the neutrophil count rises above 1000 cells/mm3.
 
 ## Dosage and Administration in Children
 
@@ -44,7 +44,8 @@ No information regarding fluconazole pharmacokinetics in full-term newborns is a
 Oropharyngeal candidiasis: The recommended dosage of fluconazole for oropharyngeal candidiasis in children is 6 mg/kg on the first day, followed by 3 mg/kg once daily.
 Treatment should be administered for at least 2 weeks to decrease the likelihood of relapse.
 Esophageal candidiasis: For the treatment of esophageal candidiasis, the recommended dosage of fluconazole in children is 6 mg/kg on the first day, followed by 3 mg/kg once daily.
-Doses up to 12 mg/kg/day may be used, based on medical judgment of the patient’s response to therapy.Patients with esophageal candidiasis should be treated for a minimum of three weeks and for at least 2 weeks following the resolution of symptoms.
+Doses up to 12 mg/kg/day may be used, based on medical judgment of the patient’s response to therapy.
+Patients with esophageal candidiasis should be treated for a minimum of three weeks and for at least 2 weeks following the resolution of symptoms.
 Systemic Candida infections: For the treatment of candidemia and disseminated Candida infections, daily doses of 6 to 12 mg/kg/day have been used in an open, noncomparative study of a small number of children.
 Cryptococcal meningitis: For the treatment of acute cryptococcal meningitis, the recommended dosage is 12 mg/kg on the first day, followed by 6 mg/kg once daily.
 A dosage of 12 mg/kg once daily may be used, based on medical judgment of the patient’s response to therapy.
@@ -55,19 +56,19 @@ For suppression of relapse of cryptococcal meningitis in children with AIDS, the
 
 Fluconazole is cleared primarily by renal excretion as unchanged drug.
 There is no need to adjust single dose therapy for vaginal candidiasis because of impaired renal function.
-In patients with impaired renal function who will receive multiple doses of fluconazole, an initial loading dose of 50 to 400 mg should be given.
+In patients with impaired renal function who will receive multiple doses of fluconazole, an initial loading dose of 50 mg to 400 mg should be given.
 After the loading dose, the daily dose (according to indication) should be based on the following table:
 
-| Creatinine Clearance (mL/min) | Percent of Recommended Dose |
+| Creatinine Clearance (mL/min) | Recommended Dose (%) |
 | --- | --- |
-| >50 | 100% |
-| ≤50 (no dialysis) | 50% |
-| Regular dialysis | 100% after each dialysis |
+| >50 | 100 |
+| ≤50 (no dialysis) | 50 |
+| Regular dialysis | 100 after each dialysis |
 
 Patients on regular dialysis should receive 100% of the recommended dose after each dialysis; on non-dialysis days, patients should receive a reduced dose according to their creatinine clearance.
 These are suggested dose adjustments based on pharmacokinetics following administration of multiple doses.
 Further adjustment may be needed depending upon clinical condition.
-When serum creatinine is the only measure of renal function available, the following formula (based on sex, weight, and age of the patient) should be used to estimate the creatinine clearance in adults: Males: Weight (kg) x (140-age) ————————————— 72 x serum creatinine (mg/100 mL) Females: 0.85 × above value Although the pharmacokinetics of fluconazole has not been studied in children with renal insufficiency, dosage reduction in children with renal insufficiency should parallel that recommended for adults.
+When serum creatinine is the only measure of renal function available, the following formula (based on sex, weight, and age of the patient) should be used to estimate the creatinine clearance in adults: Males: Weight (kg) x (140 - age) ————————————— 72 x serum creatinine (mg/100 mL) Females: 0.85 × above value Although the pharmacokinetics of fluconazole has not been studied in children with renal insufficiency, dosage reduction in children with renal insufficiency should parallel that recommended for adults.
 The following formula may be used to estimate creatinine clearance in children: K x linear length or height (cm) ————————————— serum creatinine (mg/100 mL) (Where K=0.55 for children older than 1 year and 0.45 for infants.)
 
 ## Administration

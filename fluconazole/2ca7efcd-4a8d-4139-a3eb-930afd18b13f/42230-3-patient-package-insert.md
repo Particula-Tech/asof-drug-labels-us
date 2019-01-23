@@ -44,6 +44,7 @@ Therefore, tell your doctor about all the medicines you take including:
 - theophylline to control asthma
 - cisapride for heartburn
 - quinidine (used to correct disturbances in heart rhythm)
+- amiodarone (used for treating uneven heartbeats 'arrhythmias')
 - amitriptyline or nortriptyline for depression
 - pimozide for psychiatric illness
 - amphotericin B or voriconazole for fungal infections
@@ -65,7 +66,8 @@ Since there are many brand names for these medicines, check with your doctor or 
 - have any other medical conditions
 - are pregnant, plan to become pregnant, or think you might be pregnant.
   Your doctor will discuss whether fluconazole is right for you.
-- are breastfeeding.
+  Women who can become pregnant should think about using effective birth control while taking fluconazole.
+- are breast-feeding.
   Fluconazole can pass through breast milk to the baby.
 - are allergic to any other medicines including those used to treat yeast and other fungal infections.
 - are allergic to any of the ingredients in fluconazole tablets.
@@ -120,4 +122,4 @@ You can ask your pharmacist or doctor for information about fluconazole that is 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 Propulsid® is a registered trademark of Johnson and Johnson.
-Distributed by: Rising Health, LLC Saddle Brook, NJ 07663 Made in India Code: TS/DRUGS/19/1993 Revised: 12/2017
+Distributed by: Rising Health, LLC Saddle Brook, NJ 07663 Made in India Code: TS/DRUGS/19/1993 Revised: 04/2018
