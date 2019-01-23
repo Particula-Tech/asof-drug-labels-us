@@ -58,7 +58,7 @@ There are no adequate and well controlled studies on the effects of tacrolimus i
 Safety data from the TPRI and postmarketing surveillance suggest infants exposed to tacrolimus in utero have an increased risk for miscarriage, pre-term delivery (< 37 weeks), low birth weight (< 2500 g), birth defects/congenital anomalies and fetal distress.
 
 TPRI reported 450 and 241 total pregnancies in kidney and liver transplant recipients exposed to tacrolimus, respectively.
-The TPRI pregnancy outcomes are summarized in Table 15.
+The TPRI pregnancy outcomes are summarized in Table 16.
 In the table below, the number of recipients exposed to tacrolimus concomitantly with mycophenolic acid (MPA) products during the preconception and first trimester periods is high (27% and 29% for renal and liver transplant recipients, respectively).
 Because MPA products may also cause birth defects, the birth defect rate may be confounded and this should be taken into consideration when reviewing the data, particularly for birth defects.
 Birth defects observed include cardiac malformations, craniofacial malformations, renal/urogenital disorders, skeletal abnormalities, neurological abnormalities and multiple malformations.

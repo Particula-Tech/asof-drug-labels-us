@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 Tacrolimus binds to an intracellular protein, FKBP-12.
-A complex of tacrolimus-FKBP-12, calcium, calmodulin, and calcineurin (an ubiquitous mammalian intracellular enzyme) is then formed, afterwhich the phosphatase activity of calcineurin inhibited.
+A complex of tacrolimus-FKBP-12, calcium, calmodulin, and calcineurin (an ubiquitous mammalian intracellular enzyme) is then formed, after which the phosphatase activity of calcineurin inhibited.
 Such inhibition prevents the dephosphorylation and translocation of various factors such as the nuclear factor of activated T-cells (NF-AT), and nuclear factor kappa-light-chain enhancer of activated B-cells (NF-κB).
 
 Tacrolimus inhibits the expression and/or production of several cytokines that include interleukin (IL)-1 beta, IL-2, IL-3, IL-4, IL-5, IL-6, IL-8, IL-10, gamma interferon, tumor necrosis factor-alpha, and granulocyte macrophage colony stimulating factor.

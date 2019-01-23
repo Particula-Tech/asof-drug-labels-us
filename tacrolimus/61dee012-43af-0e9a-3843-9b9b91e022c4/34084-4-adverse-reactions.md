@@ -371,6 +371,7 @@ Other reactions include:
 - Hemic/Lymphatic: Agranulocytosis, disseminated intravascular coagulation, hemolytic anemia, neutropenia, pancytopenia, thrombocytopenic purpura, thrombotic thrombocytopenic purpura, pure red cell aplasia [see Warnings and Precautions (5.15)]
 - Infections: Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal; -polyoma virus-associated nephropathy, (PVAN) including graft loss · [see Warnings and Precautions (5.2)]
 - Metabolic/Nutritional: Glycosuria, increased amylase including pancreatitis, weight decreased Miscellaneous: Feeling hot and cold, feeling jittery, hot flushes, multi-organ failure, primary graft dysfunction
+- Musculoskeletal and Connective Tissue Disorders: Pain in extremity including Calcineurin-Inhibitor Induced Pain Syndrome (CIPS)
 - Nervous System: Carpal tunnel syndrome, cerebral infarction, hemiparesis, leukoencephalopathy, mental disorder, mutism, posterior reversible encephalopathy syndrome (PRES)· [see Warnings and Precautions (5.6)], progressive multifocal leukoencephalopathy (PML) · [see Warnings and Precautions (5.2)], quadriplegia, speech disorder, syncope
 - Respiratory: Acute respiratory distress syndrome, interstitial lung disease, lung infiltration, respiratory distress, respiratory failure
 - Skin: Stevens-Johnson syndrome, toxic epidermal necrolysis
