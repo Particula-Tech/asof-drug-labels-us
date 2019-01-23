@@ -13,4 +13,4 @@ Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC Bridgewat
 
 © Bausch & Lomb Incorporated
 
-Revised: May 2018 Update p/n (Folded) Update p/n (Flat)
+Revised: October 2018 9035706 (Folded) 9045706 (Flat)

@@ -49,7 +49,7 @@ There are, however no adequate and well controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 Several publications of desmopressin acetate's use in the management of diabetes insipidus during pregnancy are available; these include a few anecdotal reports of congenital anomalies and low birth weight babies.
 However, no causal connection between these events and desmopressin acetate has been established.
-A fifteen year Swedish epidemiologic study of the use of desmopressin acetate in pregnant women with diabetes insipidus found the rate of birth defects to be no greater than that in the general population; however, the statistical power of this study is low.
+A fifteen year, Swedish epidemiologic study of the use of desmopressin acetate in pregnant women with diabetes insipidus found the rate of birth defects to be no greater than that in the general population; however, the statistical power of this study is low.
 As opposed to preparations containing natural hormones, desmopressin acetate in antidiuretic doses has no uterotonic action and the physician will have to weigh the therapeutic advantages against the possible risks in each case.
 
 ## Nursing Mothers:
@@ -64,8 +64,7 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 Central Cranial Diabetes Insipidus:
 
 Desmopressin Acetate Nasal Spray Solution has been used in children with diabetes insipidus.
-Use in infants and children will require careful fluid intake restriction to prevent possible hyponatremia and water intoxication.
-(see WARNINGS.)
+Use in infants and children will require careful fluid intake restriction to prevent possible hyponatremia and water intoxication (see WARNINGS).
 The dose must be individually adjusted to the patient with attention in the very young to the danger of an extreme decrease in plasma osmolality with resulting convulsions.
 Dose should start at 0.05 mL or less.
 
@@ -84,7 +83,7 @@ Desmopressin Acetate Nasal Spray Solution is contraindicated in patients with mo
 (See CLINICAL PHARMACOLOGY, Human Pharmacokinetics and CONTRAINDICATIONS.)
 
 Use of Desmopressin Acetate Nasal Spray Solution in geriatric patients will require careful fluid intake restriction to prevent possible hyponatremia and water intoxication.
-(See WARNINGS).
+(See WARNINGS.)
 
 There are reports of an occasional change in response with time, usually greater than 6 months.
 Some patients may show a decreased responsiveness, others a shortened duration of effect.

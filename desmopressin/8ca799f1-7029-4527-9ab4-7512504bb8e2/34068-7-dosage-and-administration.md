@@ -20,7 +20,7 @@ If doses other than these are required, the rhinal tube delivery system may be u
 The spray pump must be primed prior to the first use.
 To prime pump, press down five (5) times.
 The bottle will now deliver 10 mcg of drug per spray.
-Discard Desmopressin Acetate Nasal Spray Solution after 50 sprays since the amount delivered thereafter per spray may be substantially less than 10 µg of drug.
+Discard Desmopressin Acetate Nasal Spray Solution after 50 sprays since the amount delivered thereafter per spray may be substantially less than 10 mcg of drug.
 
 Geriatric Use: This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
