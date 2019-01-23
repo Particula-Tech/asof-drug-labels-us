@@ -1,4 +1,4 @@
-Active Ingredient Made in Germany
+Product of Germany
 
 Finished Product Manufactured by: Janssen Ortho LLC Gurabo, PR 00778
 

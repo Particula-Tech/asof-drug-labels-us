@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse reactions are also discussed in other sections of the labeling:
+The following clinically significant adverse reactions are also discussed in other sections of the labeling:
 
 - Increased risk of stroke after discontinuation in nonvalvular atrial fibrillation [see Boxed Warning and Warnings and Precautions (5.1)]
 - Bleeding risk [see Warnings and Precautions (5.2, 5.4, 5.5, 5.6, 5.7)]

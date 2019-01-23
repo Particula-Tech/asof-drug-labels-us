@@ -41,7 +41,7 @@ Absorption
 
 The absolute bioavailability of rivaroxaban is dose-dependent.
 For the 2.5 mg and 10 mg dose, it is estimated to be 80% to 100% and is not affected by food.
-XARELTO 10 mg tablets can be taken with or without food.
+XARELTO 2.5 mg and 10 mg tablets can be taken with or without food.
 For the 20 mg dose in the fasted state, the absolute bioavailability is approximately 66%.
 Coadministration of XARELTO with food increases the bioavailability of the 20 mg dose (mean AUC and Cmax increasing by 39% and 76% respectively with food).
 XARELTO 15 mg and 20 mg tablets should be taken with food [see Dosage and Administration (2.1)].
