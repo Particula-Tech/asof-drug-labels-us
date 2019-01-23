@@ -9,7 +9,7 @@ RETACRIT (epoetin alfa-epbx) injection is a sterile, preservative-free, clear, a
 | NDC 0069-1307-10 Carton containing 10 vials | 4,000 Units/mL | NDC 0069-1307-01 1 mL Single-dose vial |
 | NDC 0069-1308-10 Carton containing 10 vials | 10,000 Units/mL | NDC 0069-1308-01 1 mL Single-dose vial |
 | NDC 0069-1309-10 Carton containing 10 vials | 40,000 Units/mL | NDC 0069-1309-01 1 mL Single-dose vial |
-| NDC 0060-1309-04 Carton containing 4 vials | 40,000 Units/mL | NDC 0069-1309-01 1 mL Single-dose vial |
+| NDC 0069-1309-04 Carton containing 4 vials | 40,000 Units/mL | NDC 0069-1309-01 1 mL Single-dose vial |
 
 Store at 36°F to 46°F (2°C to 8°C).
 Do not freeze.

@@ -9,7 +9,7 @@ In animal reproductive and developmental toxicity studies, adverse fetal effects
 Consider the benefits and risks of RETACRIT single-dose vials for the mother and possible risks to the fetus when prescribing RETACRIT to a pregnant woman.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
-All pregnancies have a background risk of birth defect, loss or other adverse outcomes.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risks of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
 
 Data
@@ -59,9 +59,9 @@ RETACRIT is indicated in patients 5 to 18 years old for the treatment of anemia 
 Safety and effectiveness in pediatric patients less than 5 years of age have not been established [see Clinical Studies (14.3)].
 The safety data from these studies are similar to those obtained from the studies of epoetin alfa in adult patients with cancer [see Warnings and Precautions (5.1, 5.2) and Adverse Reactions (6.1)].
 
-Pediatric Patients with HIV Infection Receiving Zidovudine
+Pediatric Patients with HIV-Infection Receiving Zidovudine
 
-Published literature has reported the use of epoetin alfa in 20 zidovudine-treated, anemic, pediatric patients with HIV infection, ages 8 months to 17 years, treated with 50 to 400 Units/kg subcutaneously or intravenously 2 to 3 times per week.
+Published literature has reported the use of epoetin alfa in 20 zidovudine-treated, anemic, pediatric patients with HIV-infection, ages 8 months to 17 years, treated with 50 to 400 Units/kg subcutaneously or intravenously 2 to 3 times per week.
 Increases in hemoglobin levels and in reticulocyte counts and decreases in or elimination of RBC transfusions were observed.
 
 Pharmacokinetics in Neonates
