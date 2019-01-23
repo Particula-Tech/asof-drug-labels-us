@@ -31,4 +31,4 @@ Manufactured by: Hospira, Inc. Lake Forest, IL 60045 A Pfizer Company
 
 Distributed by: Meridian Medical Technologies, Inc. Columbia, MD 21046 A Pfizer Company
 
-LAB-1070-1.0
+LAB-1070-2.0
