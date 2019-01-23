@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021457"
+  ],
+  "inn": "albuterol",
+  "labeler": "Teva Pharmaceuticals USA, Inc.",
+  "package_ndcs": [
+    "0093-3174-31"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, METERED",
+      "generic": "albuterol sulfate",
+      "name": "Albuterol Sulfate"
+    }
+  ],
+  "setid": "7bb5b6dd-9105-4ee7-b205-ed79cf4b371b",
+  "source": "dailymed"
+}
