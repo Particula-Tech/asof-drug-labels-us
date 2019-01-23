@@ -9,11 +9,12 @@ Docetaxel injection in combination with doxorubicin and cyclophosphamide is indi
 ## 1.2 Non-Small Cell Lung Cancer
 
 Docetaxel injection as a single agent is indicated for the treatment of patients with locally advanced or metastatic non-small cell lung cancer after failure of prior platinum-based chemotherapy.
+
 Docetaxel injection in combination with cisplatin is indicated for the treatment of patients with unresectable, locally advanced or metastatic non-small cell lung cancer who have not previously received chemotherapy for this condition.
 
 ## 1.3 Prostate Cancer
 
-Docetaxel injection in combination with prednisone is indicated for the treatment of patients with androgen independent (hormone refractory) metastatic prostate cancer.
+Docetaxel injection in combination with prednisone is indicated for the treatment of patients with metastatic castration-resistant prostate cancer.
 
 ## 1.4 Gastric Adenocarcinoma
 

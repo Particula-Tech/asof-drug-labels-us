@@ -14,13 +14,14 @@ Administer in a facility equipped to manage possible complications (e.g. anaphyl
 ## 2.2 Non-Small Cell Lung Cancer
 
 - For treatment after failure of prior platinum-based chemotherapy, docetaxel injection was evaluated as monotherapy, and the recommended dose is 75 mg/m2 administered intravenously over 1 hour every 3 weeks.
-  A dose of 100 mg/m2 in patients previously treated with chemotherapy was associated with increased hematologic toxicity, infection, and treatment-related mortality in randomized, controlled trials [see Boxed Warning, Dosage and Administration (2.7), Warnings and Precautions (5), Clinical Studies (14)].
-- For chemotherapy-naïve patients, docetaxel injection was evaluated in combination with cisplatin.
+  A dose of 100 mg/m2 in patients previously treated with chemotherapy was associated with increased hematologic toxicity, infection, and treatment-related mortality in randomized controlled trials [see Boxed Warning, Dosage and Administration (2.7), Warnings and Precautions (5), Clinical Studies (14)].
+
+- For chemotherapy-naive patients, docetaxel injection was evaluated in combination with cisplatin.
   The recommended dose of docetaxel injection is 75 mg/m2 administered intravenously over 1 hour immediately followed by cisplatin 75 mg/m2 over 30 to 60 minutes every 3 weeks [see Dosage and Administration (2.7)].
 
 ## 2.3 Prostate Cancer
 
-- For hormone-refractory metastatic prostate cancer, the recommended dose of docetaxel injection is 75 mg/m2 every 3 weeks as a 1 hour intravenous infusion.
+- For metastatic castration-resistant prostate cancer, the recommended dose of docetaxel injection is 75 mg/m2 every 3 weeks as a 1 hour intravenous infusion.
   Prednisone 5 mg orally twice daily is administered continuously [see Dosage and Administration (2.7)].
 
 ## 2.4 Gastric Adenocarcinoma
@@ -35,14 +36,14 @@ Patients must receive premedication with antiemetics, and appropriate hydration 
 Prophylaxis for neutropenic infections should be administered.
 All patients treated on the docetaxel injection containing arms of the TAX323 and TAX324 studies received prophylactic antibiotics.
 
-- Induction chemotherapy followed by radiotherapy (TAX323)
+Induction Chemotherapy Followed by Radiotherapy (TAX323)
 
 For the induction treatment of locally advanced inoperable SCCHN, the recommended dose of docetaxel injection is 75 mg/m2 as a 1 hour intravenous infusion followed by cisplatin 75 mg/m2 intravenously over 1 hour, on day one, followed by fluorouracil as a continuous intravenous infusion at 750 mg/m2 per day for five days.
 
 This regimen is administered every 3 weeks for 4 cycles.
 Following chemotherapy, patients should receive radiotherapy [see Dosage and Administration (2.7)].
 
-- Induction chemotherapy followed by chemoradiotherapy (TAX324)
+Induction Chemotherapy Followed by Chemoradiotherapy (TAX324)
 
 For the induction treatment of patients with locally advanced (unresectable, low surgical cure, or organ preservation) SCCHN, the recommended dose of docetaxel injection is 75 mg/m2 as a 1 hour intravenous infusion on day 1, followed by cisplatin 100 mg/m2 administered as a 30-minute to 3 hour infusion, followed by fluorouracil 1000 mg/m2/day as a continuous infusion from day 1 to day 4.
 This regimen is administered every 3 weeks for 3 cycles.
@@ -50,9 +51,9 @@ Following chemotherapy, patients should receive chemoradiotherapy [see Dosage an
 
 ## 2.6 Premedication Regimen
 
-All patients should be premedicated with oral corticosteroids (see below for prostate cancer) such as dexamethasone 16 mg per day (e.g., 8 mg twice daily) for 3 days starting 1 day prior to docetaxel injection administration in order to reduce the incidence and severity of fluid retention as well as the severity of hypersensitivity reactions [see Boxed Warning, Warnings and Precautions (5.4)].
+All patients should be premedicated with oral corticosteroids (see below for prostate cancer) such as dexamethasone 16 mg per day (e.g., 8 mg twice daily) for 3 days starting 1 day prior to docetaxel injection administration in order to reduce the incidence and severity of fluid retention as well as the severity of hypersensitivity reactions [see Boxed Warning, Warnings and Precautions (5.5)].
 
-For hormone-refractory metastatic prostate cancer, given the concurrent use of prednisone, the recommended premedication regimen is oral dexamethasone 8 mg, at 12 hours, 3 hours and 1 hour before the docetaxel injection infusion [see Warnings and Precautions (5.4)].
+For metastatic castration-resistant prostate cancer, given the concurrent use of prednisone, the recommended premedication regimen is oral dexamethasone 8 mg at 12 hours, 3 hours, and 1 hour before the docetaxel injection infusion [see Warnings and Precautions (5.5)].
 
 ## 2.7 Dosage Adjustments During Treatment
 
@@ -79,7 +80,7 @@ Monotherapy with docetaxel injection for NSCLC treatment after failure of prior 
 Patients who are dosed initially at 75 mg/m2 and who experience either febrile neutropenia, neutrophils <500 cells/mm3 for more than one week, severe or cumulative cutaneous reactions, or other grade 3/4 non-hematological toxicities during docetaxel injection treatment should have treatment withheld until resolution of the toxicity and then resumed at 55 mg/m2.
 Patients who develop ≥grade 3 peripheral neuropathy should have docetaxel injection treatment discontinued entirely.
 
-Combination therapy with docetaxel injection for chemotherapy-naïve NSCLC
+Combination therapy with docetaxel injection for chemotherapy-naive NSCLC
 
 For patients who are dosed initially at docetaxel injection 75 mg/m2 in combination with cisplatin, and whose nadir of platelet count during the previous course of therapy is <25,000 cells/mm3, in patients who experience febrile neutropenia, and in patients with serious non-hematologic toxicities, the docetaxel injection dosage in subsequent cycles should be reduced to 65 mg/m2.
 In patients who require a further dose reduction, a dose of 50 mg/m2 is recommended.
@@ -87,7 +88,7 @@ For cisplatin dosage adjustments, see manufacturers’ prescribing information.
 
 Prostate Cancer
 
-Combination therapy with docetaxel injection for hormone-refractory metastatic prostate cancer
+Combination therapy with docetaxel injection for metastatic castration-resistant prostate cancer
 
 Docetaxel injection should be administered when the neutrophil count is ≥1,500 cells/mm3.
 Patients who experience either febrile neutropenia, neutrophils <500 cells/mm3 for more than one week, severe or cumulative cutaneous reactions or moderate neurosensory signs and/or symptoms during docetaxel injection therapy should have the dosage of docetaxel injection reduced from 75 mg/m2 to 60 mg/m2.
@@ -107,9 +108,7 @@ Discontinue treatment if these toxicities persist [see Warnings and Precautions 
 
 Recommended dose modifications for toxicities in patients treated with docetaxel injection in combination with cisplatin and fluorouracil are shown in Table 1.
 
-Table 1 - Recommended Dose Modifications for Toxicities in Patients Treated with
-
-Docetaxel Injection in Combination with Cisplatin and Fluorouracil
+Table 1: Recommended Dose Modifications for Toxicities in Patients Treated with Docetaxel Injection in Combination with Cisplatin and Fluorouracil
 
 | Toxicity | Dosage adjustment |
 | --- | --- |
@@ -118,13 +117,11 @@ Docetaxel Injection in Combination with Cisplatin and Fluorouracil
 | Stomatitis/mucositisgrade 3 | First episode: reduce fluorouracil dose by 20%.Second episode: stop fluorouracil only, at all subsequent cycles.Third episode: reduce docetaxel injection dose by 20%. |
 | Stomatitis/mucositisgrade 4 | First episode: stop fluorouracil only, at all subsequent cycles.Second episode: reduce docetaxel injection dose by 20%. |
 
-Liver dysfunction:
-
-In case of AST/ALT >2.5 to ≤5 x ULN and AP ≤2.5 x ULN, or AST/ALT >1.5 to ≤5 x ULN and AP >2.5 to ≤5 x ULN, docetaxel injection should be reduced by 20%.
+Liver dysfunction: In case of AST/ALT >2.5 to ≤5 x ULN and AP ≤2.5 x ULN, or AST/ALT >1.5 to ≤5 x ULN and AP >2.5 to ≤5 x ULN, docetaxel injection should be reduced by 20%.
 
 In case of AST/ALT >5 x ULN and/or AP >5 x ULN docetaxel injection should be stopped.
 
-The dose modifications for cisplatin and fluorouracil in the gastric cancer study are provided below:
+The dose modifications for cisplatin and fluorouracil in the gastric cancer study are provided below.
 
 Cisplatin dose modifications and delays
 
@@ -140,15 +137,14 @@ Nephrotoxicity: In the event of a rise in serum creatinine ≥grade 2 (>1.5 x no
 
 For other cisplatin dosage adjustments, also refer to the manufacturers’ prescribing information.
 
-Table 2 - Dose Reductions for Evaluation of Creatinine Clearance
+Table 2: Dose Reductions for Evaluation of Creatinine Clearance
 
 | Creatinine clearance resultbefore next cycle | Cisplatin dose next cycle |
 | --- | --- |
 | CrCl ≥60 mL/min | Full dose of cisplatin was given. CrCl was to be repeated before each treatment cycle. |
 | CrCl between 40 and 59 mL/min | Dose of cisplatin was reduced by 50% at subsequent cycle. If CrCl was >60 mL/min at end of cycle, full cisplatin dose was reinstituted at the next cycle.If no recovery was observed, then cisplatin was omitted from the next treatment cycle. |
 | CrCl <40 mL/min | Dose of cisplatin was omitted in that treatment cycle only.If CrCl was still <40 mL/min at the end of cycle, cisplatin was discontinued.If CrCl was >40 and <60 mL/min at end of cycle, a 50% cisplatin dose was given at the next cycle.If CrCl was >60 mL/min at end of cycle, full cisplatin dose was given at next cycle. |
-
-CrCl = Creatinine clearance
+| CrCl = Creatinine clearance |  |
 
 Fluorouracil dose modifications and treatment delays
 
@@ -161,7 +157,7 @@ For other greater than grade 3 toxicities, except alopecia and anemia, chemother
 
 For other fluorouracil dosage adjustments, also refer to the manufacturers’ prescribing information.
 
-Combination Therapy with Strong CYP3A4 inhibitors:
+Combination Therapy with Strong CYP3A4 Inhibitors
 
 Avoid using concomitant strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, clarithromycin, atazanavir, indinavir, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin and voriconazole).
 There are no clinical data with a dose adjustment in patients receiving strong CYP3A4 inhibitors.
@@ -173,8 +169,8 @@ Docetaxel injection is a cytotoxic anticancer drug and, as with other potentiall
 The use of gloves is recommended.
 Please refer to [see How Supplied/Storage and Handling (16.3)].
 
-If docetaxel injection, initial diluted solution, or final dilution for infusion should come into contact with the skin, immediately and thoroughly wash with soap and water.
-If docetaxel injection, initial diluted solution, or final dilution for infusion should come into contact with mucosa, immediately and thoroughly wash with water.
+If docetaxel injection initial diluted solution, or final dilution for infusion should come into contact with the skin, immediately and thoroughly wash with soap and water.
+If docetaxel injection initial diluted solution, or final dilution for infusion should come into contact with mucosa, immediately and thoroughly wash with water.
 
 Contact of the docetaxel injection with plasticized PVC equipment or devices used to prepare solutions for infusion is not recommended.
 In order to minimize patient exposure to the plasticizer DEHP (di-2-ethylhexyl phthalate), which may be leached from PVC infusion bags or sets, the final docetaxel injection dilution for infusion should be stored in bottles (glass, polypropylene) or plastic bags (polypropylene, polyolefin) and administered through polyethylene-lined administration sets.
@@ -187,38 +183,27 @@ Please follow the preparation instructions provided below.
 
 ## 2.9 Preparation and Administration
 
-DO NOT use the two-vial formulation (Injection Concentrate and diluent) with the one-vial formulation.
+DO NOT use the two-vial formulation (Injection and diluent) with the one-vial formulation.
 
 One-vial Docetaxel Injection
 
 Docetaxel injection (20 mg/mL) requires NO prior dilution with a diluent and is ready to add to the infusion solution.
 Use only a 21 gauge needle to withdraw docetaxel injection from the vial because larger bore needles (e.g., 18 and 19 gauge) may result in stopper coring and rubber particulates.
 
-1.
-Docetaxel injection vials should be stored between 20° to 25°C (68° to 77°F).
-If the vials are stored under refrigeration, allow the appropriate number of vials of docetaxel injection vials to stand at room temperature for approximately 5 minutes before use.
-
-2.
-Using only a 21 gauge needle, aseptically withdraw the required amount of docetaxel injection (20 mg docetaxel/mL) with a calibrated syringe and inject via a single injection (one shot) into a 250 mL infusion bag or bottle of either 0.9% Sodium Chloride solution or 5% Dextrose solution to produce a final concentration of 0.3 mg/mL to 0.74 mg/mL.
-
-If a dose greater than 200 mg of docetaxel injection is required, use a larger volume of the infusion vehicle so that a concentration of 0.74 mg/mL docetaxel injection is not exceeded.
-
-3.
-Thoroughly mix the infusion by gentle manual rotation.
-
-4.
-As with all parenteral products, docetaxel injection should be inspected visually for particulate matter or discoloration prior to administration whenever the solution and container permit.
-If the docetaxel injection dilution for intravenous infusion is not clear or appears to have precipitation, it should be discarded.
-
-5.
-Docetaxel injection infusion solution is supersaturated, therefore may crystallize over time.
-If crystals appear, the solution must no longer be used and shall be discarded.
+1. Docetaxel injection vials should be stored between 20° to 25°C (68° to 77°F).
+   If the vials are stored under refrigeration, allow the appropriate number of vials of docetaxel injection vials to stand at room temperature for approximately 5 minutes before use.
+2. Using only a 21 gauge needle, aseptically withdraw the required amount of docetaxel injection (20 mg docetaxel/mL) with a calibrated syringe and inject via a single injection (one shot) into a 250 mL infusion bag or bottle of either 0.9% Sodium Chloride solution or 5% Dextrose solution to produce a final concentration of 0.3 mg/mL to 0.74 mg/mL.If a dose greater than 200 mg of docetaxel injection is required, use a larger volume of the infusion vehicle so that a concentration of 0.74 mg/mL docetaxel injection is not exceeded.
+3. Thoroughly mix the infusion by gentle manual rotation.
+4. As with all parenteral products, docetaxel injection should be inspected visually for particulate matter or discoloration prior to administration whenever the solution and container permit.
+   If the docetaxel injection dilution for intravenous infusion is not clear or appears to have precipitation, it should be discarded.
+5. Docetaxel injection infusion solution is supersaturated, therefore may crystallize over time.
+   If crystals appear, the solution must no longer be used and shall be discarded.
 
 The docetaxel injection dilution for infusion should be administered intravenously as a 1-hour infusion under ambient room temperature (below 25°C) and lighting conditions.
 
 ## 2.10 Stability
 
-Docetaxel injection final dilution for infusion, if stored between 2°C and 25°C (36°F and 77°F) is stable for 6 hours.
+Docetaxel injection final dilution for infusion, if stored between 2° and 25°C (36° and 77°F) is stable for 6 hours.
 Docetaxel injection final dilution for infusion (in either 0.9% Sodium Chloride solution or 5% Dextrose solution) should be used within 6 hours (including the 1 hour intravenous administration).
 
-In addition, physical and chemical in-use stability of the infusion solution prepared as recommended has been demonstrated in non-PVC bags up to 48 hours when stored between 2°C and 8°C (36 and 46°F).
+In addition, physical and chemical in-use stability of the infusion solution prepared as recommended has been demonstrated in non-PVC bags up to 48 hours when stored between 2° and 8°C (36° and 46°F).

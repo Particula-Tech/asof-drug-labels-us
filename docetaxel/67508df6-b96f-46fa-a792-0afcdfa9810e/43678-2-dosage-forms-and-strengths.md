@@ -4,7 +4,7 @@ One-vial Docetaxel Injection, USP
 
 Docetaxel Injection USP, 20 mg/mL Single-Dose Vial
 
-Docetaxel Injection USP, 20 mg/ mL: 20 mg docetaxel anhydrous, USP and 0.4 mg citric acid anhydrous in 1 mL in 50/50 (v/v) ratio polysorbate 80/dehydrated alcohol.
+Docetaxel Injection USP, 20 mg/mL: 20 mg docetaxel anhydrous, USP and 0.4 mg citric acid anhydrous in 1 mL in 50/50 (v/v) ratio polysorbate 80/dehydrated alcohol.
 
 Docetaxel Injection USP, 80 mg/4 mL (20 mg/mL) Single-Dose Vial
 
