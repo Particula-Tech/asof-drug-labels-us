@@ -11,7 +11,7 @@ o Central nervous system effects [see Warnings and Precautions (5.4)]
 Discontinue levofloxacin immediately and avoid the use of fluoroquinolones, including levofloxacin, in patients who experience any of these serious adverse reactions [see Warnings and Precautions (5.1)] • Fluoroquinolones, including levofloxacin, may exacerbate muscle weakness in patients with myasthenia gravis.
 Avoid levofloxacin in patients with a known history of myasthenia gravis [see Warnings and Precautions (5.5)].
 
-• Because fluoroquinolones, including levofloxacin, have been associated with serious adverse reactions [see Warnings and Precautions (5.1-5.14)], reserve levofloxacin for use in patients who have no alternative treatment options for the following indications:
+• Because fluoroquinolones, including levofloxacin, have been associated with serious adverse reactions [see Warnings and Precautions (5.1-5.15)], reserve levofloxacin for use in patients who have no alternative treatment options for the following indications:
 
 o Uncomplicated urinary tract infection [see Indications and Usage (1.12)]
 

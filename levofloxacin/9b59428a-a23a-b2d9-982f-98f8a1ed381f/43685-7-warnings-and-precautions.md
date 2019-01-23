@@ -86,7 +86,16 @@ Most cases of severe hepatotoxicity were not associated with hypersensitivity [s
 The majority of fatal hepatotoxicity reports occurred in patients 65 years of age or older and most were not associated with hypersensitivity.
 Levofloxacin should be discontinued immediately if the patient develops signs and symptoms of hepatitis [see Adverse Reactions (6) and Patient Counseling Information (17)].
 
-## 5.9 Clostridium difficile-Associated Diarrhea
+## 5.9 Risk of Aortic Aneurysm and Dissection
+
+Fluoroquinolones, including levofloxacin, have been associated with aortic aneurysm and dissection.
+Findings from epidemiologic studies show a consistently increased risk of hospitalization for aortic aneurysm or dissection within two months following use of a fluoroquinolone antibacterial drug.
+The annual estimated background risk of aortic aneurysm is as high as approximately 300 aortic aneurysm events per 100,000 persons at the highest risk (e.g., age greater than 85 years).
+The evidence shows the potential for a 2-fold increased risk over the background risk following fluoroquinolone exposure and was based on a small number of cases, mostly in older patients.
+The cause for the risk of aortic aneurysm or dissection has not been identified, but the available data suggest that use of fluoroquinolones may contribute in the short term to aneurysm progression.
+In patients with a known aortic aneurysm or patients who are at greater risk for aortic aneurysms, reserve levofloxacin for use only when there are no alternative antibacterial treatments available.
+
+## 5.10 Clostridium difficile-Associated Diarrhea
 
 Clostridium difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including levofloxacin, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
@@ -99,14 +108,14 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated [see Adverse Reactions (6.2) and Patient Counseling Information (17)].
 
-## 5.10 Prolongation of the QT Interval
+## 5.11 Prolongation of the QT Interval
 
 Some fluoroquinolones, including levofloxacin, have been associated with prolongation of the QT interval on the electrocardiogram and infrequent cases of arrhythmia.
 Rare cases of torsade de pointes have been spontaneously reported during postmarketing surveillance in patients receiving fluoroquinolones, including levofloxacin.
 Levofloxacin should be avoided in patients with known prolongation of the QT interval, patients with uncorrected hypokalemia, and patients receiving Class IA (quinidine, procainamide), or Class III (amiodarone, sotalol) antiarrhythmic agents.
 Elderly patients may be more susceptible to drug-associated effects on the QT interval [see Adverse Reactions (6.3), Use in Specific Populations (8.5), and Patient Counseling Information (17)].
 
-## 5.11 Musculoskeletal Disorders in Pediatric Patients and Arthropathic Effects in Animals
+## 5.12 Musculoskeletal Disorders in Pediatric Patients and Arthropathic Effects in Animals
 
 Levofloxacin is indicated in pediatric patients (6 months of age and older) only for the prevention of inhalational anthrax (post-exposure) and for plague [see Indications and Usage (1.7, 1.8)].
 An increased incidence of musculoskeletal disorders (arthralgia, arthritis, tendinopathy, and gait abnormality) compared to controls has been observed in pediatric patients receiving levofloxacin [see Use in Specific Populations (8.4)].
@@ -115,19 +124,19 @@ In immature rats and dogs, the oral administration of levofloxacin resulted in i
 Histopathological examination of the weight-bearing joints of immature dogs dosed with levofloxacin revealed persistent lesions of the cartilage.
 Other fluoroquinolones also produce similar erosions in the weight-bearing joints and other signs of arthropathy in immature animals of various species [see Animal Toxicology and/or Pharmacology (13.2)].
 
-## 5.12 Blood Glucose Disturbances
+## 5.13 Blood Glucose Disturbances
 
 Fluoroquinolones, including levofloxacin, have been associated with disturbances of blood glucose, including symptomatic hyperglycemia and hypoglycemia, usually in diabetic patients receiving concomitant treatment with an oral hypoglycemic agent (e.g., glyburide) or with insulin.
 In these patients, careful monitoring of blood glucose is recommended.
 Severe cases of hypoglycemia resulting in coma or death have been reported.
 If a hypoglycemic reaction occurs in a patient being treated with levofloxacin, discontinue levofloxacin and initiate appropriate therapy immediately [see Adverse Reactions (6.2), Drug Interactions (7.3) and Patient Counseling Information (17)].
 
-## 5.13 Photosensitivity/Phototoxicity
+## 5.14 Photosensitivity/Phototoxicity
 
 Moderate to severe photosensitivity/phototoxicity reactions, the latter of which may manifest as exaggerated sunburn reactions (e.g., burning, erythema, exudation, vesicles, blistering, edema) involving areas exposed to light (typically the face, “V” area of the neck, extensor surfaces of the forearms, dorsa of the hands), can be associated with the use of fluoroquinolones after sun or UV light exposure.
 Therefore, excessive exposure to these sources of light should be avoided.
 Drug therapy should be discontinued if photosensitivity/phototoxicity occurs [see Adverse Reactions (6.3) and Patient Counseling Information (17)].
 
-## 5.14 Development of Drug Resistant Bacteria
+## 5.15 Development of Drug Resistant Bacteria
 
 Prescribing levofloxacin in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria [see Patient Counseling Information (17)].

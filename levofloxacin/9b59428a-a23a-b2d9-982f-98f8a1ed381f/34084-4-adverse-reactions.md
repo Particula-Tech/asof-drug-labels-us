@@ -20,17 +20,17 @@ The following serious and otherwise important adverse drug reactions are discuss
 
 • Hepatotoxicity [see Warnings and Precautions (5.8)]
 
-• Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.9)]
+• Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.10]
 
-• Prolongation of the QT Interval [see Warnings and Precautions (5.10)]
+• Prolongation of the QT Interval [see Warnings and Precautions (5.11)]
 
-• Musculoskeletal Disorders in Pediatric Patients [see Warnings and Precautions (5.11)]
+• Musculoskeletal Disorders in Pediatric Patients [see Warnings and Precautions (5.12)]
 
-• Blood Glucose Disturbances [see Warnings and Precautions (5.12)]
+• Blood Glucose Disturbances [see Warnings and Precautions (5.13)]
 
-• Photosensitivity/Phototoxicity [see Warnings and Precautions (5.13)]
+• Photosensitivity/Phototoxicity [see Warnings and Precautions (5.14)]
 
-• Development of Drug Resistant Bacteria [see Warnings and Precautions (5.14)]
+• Development of Drug Resistant Bacteria [see Warnings and Precautions (5.15)]
 
 Crystalluria and cylindruria have been reported with quinolones, including levofloxacin.
 Therefore, adequate hydration of patients receiving levofloxacin should be maintained to prevent the formation of a highly concentrated urine [see Dosage and Administration (2.5)].
@@ -74,13 +74,13 @@ Table 5: Less Common (0.1 to 1%) Adverse Reactions Reported in Clinical Trials w
 | Infections and Infestations | genital moniliasis |
 | Blood and Lymphatic SystemDisorders | anemiathrombocytopenia granulocytopenia[see Warnings and Precautions (5.6)] |
 | Immune System Disorders | allergic reaction [see Warnings and Precautions (5.6, 5.7)] |
-| Metabolism and NutritionDisorders | hyperglycemiahypoglycemia[see Warnings and Precautions (5.12)]hyperkalemia |
+| Metabolism and NutritionDisorders | hyperglycemiahypoglycemia[see Warnings and Precautions (5.13)]hyperkalemia |
 | Psychiatric Disorders | anxietyagitation confusion depression hallucination nightmare*[see Warnings and Precautions (5.4)]sleep disorder*anorexiaabnormal dreaming* |
 | Nervous System Disorders | tremorconvulsions[see Warnings and Precautions (5.4)]paresthesia [see Warnings and Precautions (5.3)]vertigo hypertonia hyperkinesiasabnormal gait somnolence*syncope |
 | Respiratory, Thoracic andMediastinal Disorders | epistaxis |
 | Cardiac Disorders | cardiac arrestpalpitationventricular tachycardia ventricular arrhythmia |
 | Vascular Disorders | phlebitis |
-| Gastrointestinal Disorders | gastritisstomatitis pancreatitis esophagitisgastroenteritisglossitispseudomembranous/ C. difficile colitis [see Warnings and Precautions (5.9)] |
+| Gastrointestinal Disorders | gastritisstomatitis pancreatitis esophagitisgastroenteritisglossitispseudomembranous/ C. difficile colitis [see Warnings and Precautions (5.10)] |
 | Hepatobiliary Disorders | abnormal hepatic functionincreased hepatic enzymes increased alkaline phosphatase |
 | Skin and Subcutaneous TissueDisorders | urticaria [see Warnings and Precautions (5.7)] |
 | Musculoskeletal and ConnectiveTissue Disorders | arthralgiatendinitis[see Warnings and Precautions (5.2)]myalgia skeletal pain |
@@ -106,11 +106,11 @@ Table 6: Postmarketing Reports Of Adverse Drug Reactions
 | Nervous System Disorders | exacerbation of myasthenia gravis [see Warnings and Precautions (5.5)] anosmia ageusia parosmia dysgeusia peripheral neuropathy (may be irreversible) [see Warnings and Precautions (5.3)] isolated reports of encephalopathy abnormal electroencephalogram (EEG) dysphonia pseudotumor cerebri [see Warnings and Precautions (5.4)] |
 | Eye Disorders | uveitis vision disturbance, including diplopia visual acuity reduced vision blurred scotoma |
 | Ear and Labyrinth Disorders | hypoacusis tinnitus |
-| Cardiac Disorders | isolated reports of torsade de pointes electrocardiogram QT prolonged [see Warnings and Precautions (5.10)] tachycardia |
+| Cardiac Disorders | isolated reports of torsade de pointes electrocardiogram QT prolonged [see Warnings and Precautions (5.11)] tachycardia |
 | Vascular Disorders | vasodilatation |
 | Respiratory, Thoracic andMediastinal Disorders | isolated reports of allergic pneumonitis [see Warnings and Precautions (5.6)] |
 | Hepatobiliary Disorders | hepatic failure (including fatal cases) hepatitis jaundice [see Warnings and Precautions (5.6), (5.8)] |
-| Skin and Subcutaneous TissueDisorders | bullous eruptions to include: Stevens-Johnson Syndrome toxic epidermal necrolysis Acute Generalized Exanthematous Pustulosis (AGEP) fixed drug eruptions erythema multiforme [see Warnings and Precautions (5.6)]] photosensitivity/phototoxicity reaction [see Warnings and Precautions (5.13)] leukocytoclastic vasculitis |
+| Skin and Subcutaneous TissueDisorders | bullous eruptions to include: Stevens-Johnson Syndrome toxic epidermal necrolysis Acute Generalized Exanthematous Pustulosis (AGEP) fixed drug eruptions erythema multiforme [see Warnings and Precautions (5.6)]] photosensitivity/phototoxicity reaction [see Warnings and Precautions (5.14)] leukocytoclastic vasculitis |
 | Musculoskeletal and ConnectiveTissue Disorders | tendon rupture [see Warnings and Precautions (5.2)] muscle injury, including rupture rhabdomyolysis |
 | Renal and Urinary Disorders | interstitial nephritis [see Warnings and Precautions (5.6)] |
 | General Disorders andAdministration Site Conditions | multi-organ failure pyrexia |
