@@ -1,88 +1,116 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-The premarketing development program for Focalin included exposures in a total of 696 participants in clinical trials (684 patients, 12 healthy adult subjects).
+The following are discussed in more detail in other sections of the labeling:
+
+- Abuse and Dependence [see Boxed Warning, Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2, 9.3)]
+- Known hypersensitivity to methylphenidate or other ingredients of Focalin [see Contraindications (4)]
+- Hypertensive crisis with Concomitant Use of Monoamine Oxidase Inhibitors [see Contraindications (4), Drug Interactions (7.1)]
+- Serious Cardiovascular Reactions [see Warnings and Precautions (5.2)]
+- Blood Pressure and Heart Rate Increases [see Warnings and Precautions (5.3)]
+- Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
+- Priapism [see Warnings and Precautions (5.5)]
+- Peripheral Vasculopathy, including Raynaud’s phenomenon [see Warnings and Precautions (5.6)]
+- Long-term Suppression of Growth [see Warnings and Precautions (5.7)]
+
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+Clinical Trials Experience with Focalin in Pediatric Patients with ADHD
+
+The safety data in this section is based on data related to Focalin exposure during the premarketing development program in a total of 696 participants in clinical trials (684 patients, 12 healthy adult subjects).
 These participants received Focalin 5, 10, or 20 mg/day.
-The 684 ADHD patients (ages 6 to 17 years) were evaluated in 2 controlled clinical studies, 2 clinical pharmacology studies, and 2 uncontrolled long-term safety studies.
-Safety data on all patients are included in the discussion that follows.
-Adverse reactions were assessed by collecting adverse events, and results of physical examinations, vital sign and body weight measurements, and laboratory analyses.
+The 684 ADHD patients (ages 6 to 17 years) were evaluated in 2 controlled clinical studies, 2 clinical pharmacology studies, and 2 open-label long-term safety studies.
 
-Adverse events during exposure were primarily obtained by general inquiry and recorded by clinical investigators using terminology of their own choosing.
-Consequently, it is not possible to provide a meaningful estimate of the proportion of individuals experiencing adverse events without first grouping similar types of events into a smaller number of standardized event categories.
-In the tables and tabulations that follow, standard COSTART dictionary terminology has been used to classify reported adverse events.
+Most Common Adverse Reactions (incidence of greater than or equal to 5% and at least twice placebo): abdominal pain, fever, anorexia, and nausea
 
-The stated frequencies of adverse events represent the proportion of individuals who experienced, at least once, a treatment-emergent adverse event of the type listed.
-An event was considered treatment emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation.
-
-## Adverse Findings in Clinical Trials with Focalin
-
-### Adverse Events Associated with Discontinuation of Treatment
-
-No Focalin-treated patients discontinued due to adverse events in 2 placebo-controlled trials.
-Overall, 50 of 684 children treated with Focalin (7.3%) experienced an adverse event that resulted in discontinuation.
+Adverse Reactions Leading to Discontinuation: Overall, 50 of 684 (7.3%) pediatric patients treated with Focalin experienced an adverse reaction that resulted in discontinuation.
 The most common reasons for discontinuation were twitching (described as motor or vocal tics), anorexia, insomnia, and tachycardia (approximately 1% each).
 
-### Adverse Events Occurring at an Incidence of 5% or More Among Focalin-Treated Patients
+Table 1 enumerates adverse reactions for two, placebo-controlled, parallel group studies in pediatric patients with ADHD taking Focalin doses of 5, 10, and 20 mg/day.
+The table includes only those reactions that occurred in patients treated with Focalin for which the incidence was at least 5% and twice the incidence among placebo-treated patients.
 
-Table 1 enumerates treatment-emergent adverse events for 2, placebo-controlled, parallel group trials in children with ADHD at Focalin doses of 5, 10, and 20 mg/day.
-The table includes only those events that occurred in 5% or more of patients treated with Focalin where the incidence in patients treated with Focalin was at least twice the incidence in placebo-treated patients.
-The prescriber should be aware that these figures cannot be used to predict the incidence of adverse events in the course of usual medical practice where patient characteristics and other factors differ from those which prevailed in the clinical trials.
-Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators.
-The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and non-drug factors to the adverse event incidence rate in the population studied.
+Table 1: Common Adverse Reactions in Pediatric Patients (6 to 17 years of age) with ADHD
 
-Table 1 Treatment-Emergent Adverse Events1 Occurring During Double-Blind Treatment in Clinical Trials of Focalin
-
-| Body System | Preferred Term | Focalin (n=79) | Placebo (n=82) |
+| System Organ Class | Adverse Reactions | Focalin (N = 79) | Placebo (N = 82) |
 | --- | --- | --- | --- |
-| Body as a Whole |  |  |  |
-|  | Abdominal Pain | 15% | 6% |
+| Body as a Whole | Abdominal Pain | 15% | 6% |
 |  | Fever | 5% | 1% |
-| Digestive System |  |  |  |
-|  | Anorexia | 6% | 1% |
+| Digestive System | Anorexia | 6% | 1% |
 |  | Nausea | 9% | 1% |
 
-1 Events, regardless of causality, for which the incidence for patients treated with Focalin was at least 5% and twice the incidence among placebo-treated patients.
-Incidence has been rounded to the nearest whole number.
+## 6.2 Postmarketing Experience
 
-## Adverse Events from Postmarketing Experience
-
-The following additional adverse reactions have been identified during postapproval use of Focalin XR.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency:
+The following additional adverse reactions have been identified during post approval use of dexmethylphenidate.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Musculoskeletal: rhabdomyolysis
 
+Immune System Disorders: hypersensitivity reactions such as angioedema, anaphylactic reactions
+
+Adverse Reactions Reported with all Ritalin and Focalin Formulations
+
+The following adverse reactions associated with the use of all Ritalin and Focalin formulations were identified in clinical trials, spontaneous reports, and literature.
+Because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably or to establish a causal relationship to drug exposure.
+
+Infections and Infestations: nasopharyngitis
+
+Blood and the Lymphatic System Disorders: leukopenia, thrombocytopenia, anemia
+
 Immune System Disorders: hypersensitivity reactions, including angioedema and anaphylaxis
 
-## Adverse Events with Other Methylphenidate HCl Products
+Metabolism and Nutrition Disorders: decreased appetite, reduced weight gain, and suppression of growth during prolonged use in pediatric patients
 
-Nervousness and insomnia are the most common adverse reactions reported with other methylphenidate products.
-In children, loss of appetite, abdominal pain, weight loss during prolonged therapy, insomnia, and tachycardia may occur more frequently; however, any of the other adverse reactions listed below may also occur.
+Psychiatric Disorders: insomnia, anxiety, restlessness, agitation, psychosis (sometimes with visual and tactile hallucinations), depressed mood
 
-## Other reactions include:
+Nervous System Disorders: headache, dizziness, tremor, dyskinesia including choreoatheetoid movements, drowsiness, convulsions, cerebrovascular disorders (including vasculitis, cerebral hemorrhages and cerebrovascular accidents), serotonin syndrome in combination with serotonergic drugs
 
-Cardiac: angina, arrhythmia, palpitations, pulse increased or decreased, tachycardia
+Eye Disorders: blurred vision, difficulties in visual accommodation
 
-Gastrointestinal: nausea
+Cardiac Disorders: tachycardia, palpitations, increased blood pressure, arrhythmias, angina pectoris
 
-Immune: hypersensitivity reactions including skin rash, urticaria, fever, arthralgia, exfoliative dermatitis, erythema multiforme with histopathological findings of necrotizing vasculitis, and thrombocytopenic purpura
+Respiratory, Thoracic and Mediastinal Disorders: cough
 
-Nervous System: dizziness, drowsiness, dyskinesia, headache, rare reports of Tourette’s syndrome, serotonin syndrome in combination with serotonergic drugs, toxic psychosis
+Gastrointestinal Disorders: dry mouth, nausea, vomiting, abdominal pain, dyspepsia
 
-Vascular: blood pressure increased or decreased, cerebral arteritis and/or occlusion
+Hepatobiliary Disorders: abnormal liver function, ranging from transaminase elevation to severe hepatic injury
 
-Although a definite causal relationship has not been established, the following have been reported in patients taking methylphenidate:
+Skin and Subcutaneous Tissue Disorders: hyperhidrosis, pruritus, urticaria, exfoliative dermatitis, scalp hair loss, erythema multiforme rash, thrombocytopenic purpura
 
-Blood/lymphatic: leukopenia and/or anemia
+Musculoskeletal and Connective Tissue Disorders: arthralgia, muscle cramps, rhabdomyolysis
 
-Hepatobiliary: abnormal liver function, ranging from transaminase elevation to severe hepatic injury
+Investigations: weight loss (adult ADHD patients)
 
-Psychiatric: transient depressed mood, aggressive behavior, libido changes
+Additional Adverse Reactions Reported with Other Methylphenidate-Containing Products
 
-Skin/subcutaneous: scalp hair loss
+The list below shows adverse reactions not listed with Ritalin and Focalin formulations [see Adverse Reactions (6.2)] that have been reported with other methylphenidate products based on clinical trials data and post-marketing spontaneous reports.
 
-Urogenital System: priapism
+Blood and Lymphatic Disorders: pancytopenia
 
-Very rare reports of neuroleptic malignant syndrome (NMS) have been received, and, in most of these, patients were concurrently receiving therapies associated with NMS.
-In a single report, a 10-year-old boy who had been taking methylphenidate for approximately 18 months experienced an NMS-like event within 45 minutes of ingesting his first dose of venlafaxine.
-It is uncertain whether this case represented a drug-drug interaction, a response to either drug alone, or some other cause.
+Immune System Disorders: hypersensitivity reactions such as auricular swelling
 
-In children, loss of appetite, abdominal pain, weight loss during prolonged therapy, insomnia, and tachycardia may occur more frequently; however, any of the other adverse reactions listed above may also occur.
+Psychiatric Disorders: affect lability, mania, disorientation, libido changes
+
+Nervous System Disorders: migraine
+
+Eye Disorders: diplopia, mydriasis
+
+Cardiac Disorders: sudden cardiac death, myocardial infarction, bradycardia, extrasystole, supraventricular tachycardia, ventricular extrasystole
+
+Vascular Disorders: peripheral coldness, Raynaud's phenomenon
+
+Respiratory, Thoracic and Mediastinal Disorders: pharyngolaryngeal pain, dyspnea
+
+Gastrointestinal Disorders: diarrhea, constipation
+
+Skin and Subcutaneous Tissue Disorders: angioneurotic edema, erythema, fixed drug eruption
+
+Musculoskeletal, Connective Tissue and Bone Disorders: myalgia, muscle twitching
+
+Renal and Urinary Disorders: hematuria
+
+Reproductive System and Breast Disorders: gynecomastia
+
+General disorders: fatigue
+
+Urogenital disorders: priapism

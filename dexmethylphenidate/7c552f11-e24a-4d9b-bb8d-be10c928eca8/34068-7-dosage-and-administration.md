@@ -1,31 +1,37 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-Focalin is administered twice daily, at least 4 hours apart.
-Focalin may be administered with or without food.
+## 2.1 Pretreatment Screening
 
-Dosage should be individualized according to the needs and responses of the patient.
+Prior to treating pediatric patients and adults with central nervous system (CNS) stimulants, including Focalin, assess for the presence of cardiac disease (i.e., perform a careful history, family history of sudden death or ventricular arrhythmia, and physical exam) [see Warnings and Precautions 5.2].
 
-## Patients New to Methylphenidate
+Assess the risk of abuse prior to prescribing, and monitor for signs of abuse and dependence while on therapy.
+Maintain careful prescription records, educate patients about abuse, monitor for signs of abuse and overdose, and periodically reevaluate the need for Focalin use [see Boxed Warning, Warnings and Precautions (5.1), Drug Abuse and Dependence (9)].
 
-The recommended starting dose of Focalin for patients who are not currently taking racemic methylphenidate, or for patients who are on stimulants other than methylphenidate, is 5 mg/day (2.5 mg twice daily).
+## 2.2 Pediatric Patients with ADHD
 
-Dosage may be adjusted in 2.5 to 5 mg increments to a maximum of 20 mg/day (10 mg twice daily).
-In general, dosage adjustments may proceed at approximately weekly intervals.
+Patients New to Methylphenidate
 
-## Patients Currently Using Methylphenidate
+The recommended starting dose of Focalin for pediatric patients who are not currently taking racemic methylphenidate, or for patients who are on stimulants other than methylphenidate, is 5 mg daily (2.5 mg twice daily) with or without food.
 
-For patients currently using methylphenidate, the recommended starting dose of Focalin is half the dose of racemic methylphenidate.
-The maximum recommended dose is 20 mg/day (10 mg twice daily).
+Patients Currently on Methylphenidate
 
-## Maintenance/Extended Treatment
+The recommended starting dose of Focalin for pediatric patients currently using methylphenidate is half the total daily dose of racemic methylphenidate.
 
-There is no body of evidence available from controlled trials to indicate how long the patient with ADHD should be treated with Focalin.
-It is generally agreed, however, that pharmacological treatment of ADHD may be needed for extended periods.
-Nevertheless, the physician who elects to use Focalin for extended periods in patients with ADHD should periodically re-evaluate the long-term usefulness of the drug for the individual patient with periods off medication to assess the patient’s functioning without pharmacotherapy.
-Improvement may be sustained when the drug is either temporarily or permanently discontinued.
+Titration Schedule
 
-## Dose Reduction and Discontinuation
+The dose may be titrated weekly in increments of 2.5 to 5 mg to a maximum of 20 mg daily (10 mg twice daily).
+The dose should be individualized according to the needs and response of the patient.
 
-If paradoxical aggravation of symptoms or other adverse events occur, the dosage should be reduced, or, if necessary, the drug should be discontinued.
+Maintenance/Extended Treatment
 
-If improvement is not observed after appropriate dosage adjustment over a 1-month period, the drug should be discontinued.
+Pharmacological treatment of ADHD may be needed for extended periods.
+Periodically reevaluate the long-term use of Focalin and adjust dosage as needed.
+
+## 2.3 Administration Instructions
+
+Focalin is administered orally twice daily, at least 4 hours apart.
+
+## 2.4 Dose Reduction and Discontinuation
+
+If paradoxical aggravation of symptoms or other adverse reactions occur, reduce the dosage, or if necessary, discontinue Focalin.
+If improvement is not observed after appropriate dosage adjustment over a one-month period, the drug should be discontinued.

@@ -1,16 +1,20 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-Focalin® (dexmethylphenidate hydrochloride) is the d-threo-enantiomer of racemic methylphenidate hydrochloride, which is a 50/50 mixture of the d-threo and l-threo-enantiomers.
-Focalin is a central nervous system (CNS) stimulant, available in 3 tablet strengths.
-Each tablet contains dexmethylphenidate hydrochloride 2.5, 5, or 10 mg for oral administration.
-Dexmethylphenidate hydrochloride is methyl α-phenyl-2-piperidineacetate hydrochloride, (R,R’)-(+)-.
-Its empirical formula is C14H19NO2•HCl.
-Its molecular weight is 269.77 and its structural formula is:
+Focalin contains dexmethylphenidate hydrochloride, a CNS stimulant.
+Dexmethylphenidate hydrochloride is the d-threo enantiomer of racemic methylphenidate hydrochloride.
+Focalin is available as 2.5 mg, 5 mg, and 10 mg strength tablets for oral administration.
 
-Note: *=asymmetric carbon centers
+Chemically, dexmethylphenidate hydrochloride is methyl α-phenyl-2-piperidineacetate hydrochloride, (R,R’)-(+)-.
+Its molecular formula is C14H19NO2•HCl.
+Its structural formula is:
 
-Dexmethylphenidate hydrochloride is a white to off white powder.
+Note: * = asymmetric carbon centers
+
+Dexmethylphenidate hydrochloride is a white to off-white powder.
 Its solutions are acid to litmus.
 It is freely soluble in water and in methanol, soluble in alcohol, and slightly soluble in chloroform and in acetone.
+Its molecular weight is 269.77 g/mol.
 
-Focalin also contains the following inert ingredients: pregelatinized starch, lactose monohydrate, sodium starch glycolate, microcrystalline cellulose, magnesium stearate, and FD&C Blue No.1 #5516 aluminum lake (2.5 mg tablets), D&C Yellow Lake #10 (5 mg tablets); the 10 mg tablet contains no dye.
+Inactive ingredients: FD&C Blue No.1 #5516 aluminum lake (2.5 mg tablets), FD&C Yellow Lake #10 (5 mg tablets).
+The 10 mg tablets contain no dye.
+Lactose monohydrate, magnesium stearate, microcrystalline cellulose, pregelatinized starch, sodium starch glycolate.
