@@ -1,31 +1,34 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Tablets 5 mg -round, yellow (imprinted CIBA 7)
+Ritalin Tablets
 
-Bottles of 100 ……………………………......NDC 0078-0439-05
+5 mg tablets (NDC 0078-0439-05) round, yellow, (imprinted CIBA 7) supplied in bottles of 100
 
-Tablets 10 mg -round, pale green, scored (imprinted CIBA 3)
+10 mg tablets (NDC 0078-0440-05) round, pale green, scored, (imprinted CIBA 3) supplied in bottles of 100
 
-Bottles of 100 ……………………………......NDC 0078-0440-05
+20 mg tablets (NDC 0078-0441-05) round, pale yellow, scored, (imprinted CIBA 34) supplied in bottles of 100
 
-Tablets 20 mg -round, pale yellow, scored (imprinted CIBA 34)
+Store at 25°C (77°F), excursions permitted 15°C to 30°C (59°F to 86°F).
+[See USP controlled room temperature]
 
-Bottles of 100 ……………………………......NDC 0078-0441-05
-
-Store at 25°C (77°F); excursions permitted to 15°C-30°C (59°F-86°F) [see USP Controlled Room Temperature].
 Protect from light.
 
 Dispense in tight, light-resistant container (USP).
 
-SR Tablets 20 mg-round, white, coated (imprinted CIBA 16)
+Ritalin-SR Extended-release Tablets
 
-Bottles of 100 ……………………………......NDC 0078-0442-05
+20 mg SR extended-release tablets (NDC 0078-0442-05), round, white, coated, (imprinted CIBA 16) supplied in bottles of 100
 
-Note: SR Tablets are color-additive free.
+Store at 20°C to 25°C (68°F to 77°F), excursions permitted 15°C to 30°C (59°F to 86°F).
+[See USP controlled room temperature]
 
-Store at 25°C (77°F); excursions permitted to 15°C-30°C (59°F-86°F) [see USP Controlled Room Temperature].
 Protect from moisture.
 
 Dispense in tight, light-resistant container (USP).
 
-T2016-90 January 2017
+Disposal
+
+Comply with local laws and regulations on drug disposal of CNS stimulants.
+Dispose of remaining, unused, or expired Ritalin and Ritalin-SR by a medicine takeback program or by an authorized collector registered with the Drug Enforcement Administration.
+If no take-back program or authorized collector is available, mix Ritalin or Ritalin-SR with an undesirable, nontoxic substance to make it less appealing to children and pets.
+Place the mixture in a container such as a sealed plastic bag and discard Ritalin or Ritalin-SR in the household trash.

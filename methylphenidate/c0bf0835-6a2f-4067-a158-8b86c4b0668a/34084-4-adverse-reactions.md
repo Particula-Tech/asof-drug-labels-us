@@ -1,12 +1,80 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-Nervousness and insomnia are the most common adverse reactions but are usually controlled by reducing dosage and omitting the drug in the afternoon or evening.
-Other reactions include hypersensitivity (including skin rash, urticaria, fever, arthralgia, exfoliative dermatitis, erythema multiforme with histopathological findings of necrotizing vasculitis, and thrombocytopenic purpura); anorexia; nausea; dizziness; palpitations; headache; dyskinesia; drowsiness; blood pressure and pulse changes, both up and down; tachycardia; angina; cardiac arrhythmia; abdominal pain; weight loss during prolonged therapy; libido changes.
-There have been rare reports of Tourette’s syndrome.
-Toxic psychosis has been reported.
-Although a definite causal relationship has not been established, the following have been reported in patients taking this drug: serotonin syndrome in combination with serotonergic drugs, rhabdomyolysis, instances of abnormal liver function, ranging from transaminase elevation to severe hepatic injury; isolated cases of cerebral arteritis and/or occlusion; leukopenia and/or anemia; transient depressed mood; aggressive behavior; a few instances of scalp hair loss.
-Very rare reports of neuroleptic malignant syndrome (NMS) have been received, and, in most of these, patients were concurrently receiving therapies associated with NMS.
-In a single report, a 10-year-old boy who had been taking methylphenidate for approximately 18 months experienced an NMS-like event within 45 minutes of ingesting his first dose of venlafaxine.
-It is uncertain whether this case represented a drug-drug interaction, a response to either drug alone, or some other cause.
+The following are discussed in more detail in other sections of the labeling:
 
-In children, loss of appetite, abdominal pain, weight loss during prolonged therapy, insomnia, and tachycardia may occur more frequently; however, any of the other adverse reactions listed above may also occur.
+- Abuse and Dependence [see Boxed Warning, Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2, 9.3)]
+- Known hypersensitivity to methylphenidate or other ingredients of Ritalin and Ritalin-SR [see Contraindications (4)]
+- Hypertensive crisis with Concomitant Use of Monoamine Oxidase Inhibitors [see Contraindications (4), Drug Interactions (7.1)]
+- Serious Cardiovascular Reactions [see Warnings and Precautions (5.2)]
+- Blood Pressure and Heart Rate Increases [see Warnings and Precautions (5.3)]
+- Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
+- Priapism [see Warnings and Precautions (5.5)]
+- Peripheral Vasculopathy, including Raynaud’s Phenomenon [see Warnings and Precautions (5.6)]
+- Long-term Suppression of Growth [see Warnings and Precautions (5.7)]
+
+The following adverse reactions associated with the use of all Ritalin, Ritalin-SR, and other methylphenidate products were identified in clinical trials, spontaneous reports, and literature.
+Because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably or to establish a causal relationship to drug exposure.
+
+Adverse Reactions Reported with Ritalin and Ritalin-SR
+
+Infections and Infestations: nasopharyngitis
+
+Blood and the Lymphatic System Disorders: leukopenia, thrombocytopenia, anemia
+
+Immune System Disorders: hypersensitivity reactions, including angioedema and anaphylaxis
+
+Metabolism and Nutrition Disorders: decreased appetite, reduced weight gain, and suppression of growth during prolonged use in pediatric patients
+
+Psychiatric Disorders: insomnia, anxiety, restlessness, agitation, psychosis (sometimes with visual and tactile hallucinations), depressed mood
+
+Nervous System Disorders: headache, dizziness, tremor, dyskinesia including choreoatheetoid movements, drowsiness, convulsions, cerebrovascular disorders (including vasculitis, cerebral hemorrhages and cerebrovascular accidents), serotonin syndrome in combination with serotonergic drugs
+
+Eye Disorders: blurred vision, difficulties in visual accommodation
+
+Cardiac Disorders: tachycardia, palpitations, increased blood pressure, arrhythmias, angina pectoris
+
+Respiratory, Thoracic and Mediastinal Disorders: cough
+
+Gastrointestinal Disorders: dry mouth, nausea, vomiting, abdominal pain, dyspepsia
+
+Hepatobiliary Disorders: abnormal liver function, ranging from transaminase elevation to severe hepatic injury
+
+Skin and Subcutaneous Tissue Disorders: hyperhidrosis, pruritus, urticaria, exfoliative dermatitis, scalp hair loss, erythema multiforme rash, thrombocytopenic purpura
+
+Musculoskeletal and Connective Tissue Disorders: arthralgia, muscle cramps, rhabdomyolysis
+
+Investigations: weight loss (adult ADHD patients)
+
+Additional Adverse Reactions Reported with Other Methylphenidate-Containing Products
+
+The list below shows adverse reactions not listed for Ritalin and Ritalin-SR that have been reported with other methylphenidate-containing products.
+
+Blood and Lymphatic Disorders: pancytopenia
+
+Immune System Disorders: hypersensitivity reactions such as auricular swelling, bullous conditions, eruptions, exanthemas
+
+Psychiatric Disorders: affect lability, mania, disorientation and libido changes
+
+Nervous System Disorders: migraine
+
+Eye Disorders: diplopia, mydriasis
+
+Cardiac Disorders: sudden cardiac death, myocardial infarction, bradycardia, extrasystole
+
+Vascular Disorders: peripheral coldness, Raynaud's phenomenon
+
+Respiratory, Thoracic and Mediastinal Disorders: pharyngolaryngeal pain, dyspnea
+
+Gastrointestinal Disorders: diarrhea, constipation
+
+Skin and Subcutaneous Tissue Disorders: angioneurotic edema, erythema, fixed drug eruption
+
+Musculoskeletal, Connective Tissue and bone Disorders: myalgia, muscle twitching
+
+Renal and Urinary Disorders: hematuria
+
+Reproductive System and Breast Disorders: gynecomastia
+
+General Disorders: fatigue, hyperpyrexia
+
+Urogenital Disorders: priapism

@@ -1,16 +1,9 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-Signs and symptoms of acute overdosage, resulting principally from overstimulation of the central nervous system and from excessive sympathomimetic effects, may include the following: vomiting, agitation, tremors, hyperreflexia, muscle twitching, convulsions (may be followed by coma), euphoria, confusion, hallucinations, delirium, sweating, flushing, headache, hyperpyrexia, tachycardia, palpitations, cardiac arrhythmias, hypertension, mydriasis, and dryness of mucous membranes.
-Rhabdomyolysis has also been reported in overdose.
+Human Experience
 
-Consult with a Certified Poison Control Center regarding treatment for up-to-date guidance and advice.
+Signs and symptoms of acute overdosage, resulting principally from overstimulation of the central nervous system and from excessive sympathomimetic effects, may include the following: nausea, vomiting, diarrhea, restlessness, anxiety, agitation, tremors, hyperreflexia, muscle twitching, convulsions (which may be followed by coma), euphoria, confusion, hallucinations, delirium, sweating, flushing, headache, hyperpyrexia, tachycardia, palpitations, cardiac arrhythmias, hypertension, hypotension, tachypnea, mydriasis, dryness of mucous membranes, and rhabdomyolysis.
 
-Treatment consists of appropriate supportive measures.
-The patient must be protected against self-injury and against external stimuli that would aggravate overstimulation already present.
-Gastric contents may be evacuated by gastric lavage.
-In the presence of severe intoxication, use a carefully titrated dosage of a short-acting barbiturate before performing gastric lavage.
-Other measures to detoxify the gut include administration of activated charcoal and a cathartic.
+Overdose Management
 
-Intensive care must be provided to maintain adequate circulation and respiratory exchange; external cooling procedures may be required for hyperpyrexia.
-
-Efficacy of peritoneal dialysis or extracorporeal hemodialysis for Ritalin overdosage has not been established.
+Consult with a Certified Poison Control Center (1-800-222-1222) for the latest recommendations.
