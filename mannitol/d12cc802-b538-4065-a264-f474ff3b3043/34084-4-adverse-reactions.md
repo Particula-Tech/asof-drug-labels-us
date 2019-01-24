@@ -6,7 +6,7 @@ Extensive use of mannitol over the last several decades has produced recorded ad
 None of these adverse reactions have occurred with any great frequency nor with any security in attributing them to mannitol.
 
 The inability to clearly exclude the drug related nature of such events in these isolated reports prompts the necessity to list the reactions that have been observed in patients during or following mannitol infusion.
-In this fashion, patients have exhibited nausea, vomiting, rhinitis, local pain, skin necrosis and thrombophlebitis at the site of infection, chills, dizziness, urticaria, hypotension, hypertension, tachycardia, fever and angina-like chest pains.
+In this fashion, patients have exhibited nausea, vomiting, rhinitis, local pain, skin necrosis and thrombophlebitis at the site of injection, chills, dizziness, urticaria, hypotension, hypertension, tachycardia, fever and angina-like chest pains.
 
 Of far greater clinical significance is a variety of events that are related to inappropriate recognition and monitoring of fluid shifts.
 These are not intrinsic adverse reactions to the drug but the consequence of manipulating osmolarity by any agency in a therapeutically inappropriate manner.

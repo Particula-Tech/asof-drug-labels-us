@@ -1,13 +1,16 @@
 # WARNINGS
 
-In patients with severe impairment of renal function, a test dose should be utilized (see DOSAGE AND ADMINISTRATION).
-A second test dose may be tried if there is an inadequate response, but no more than two test doses should be attempted.
+Renal complications, including irreversible renal failure have been reported in patients receiving mannitol.
+Reversible, oliguric acute kidney injury (AKI) has occurred in patients with normal pretreatment renal function who received OSMITROL (mannitol injection).
+Patients with pre-existing renal disease, patients with conditions that put them at risk for renal failure, or those receiving potentially nephrotoxic drugs or other diuretics, are at increased risk of renal failure.
+Avoid concomitant administration of nephrotoxic drugs (e.g., aminoglycosides) or other diuretics with OSMITROL (mannitol injection).
+(See Precautions, Drug Interactions).
+If urine output declines during mannitol infusion, the patient’s clinical status should be closely reviewed and mannitol infusion suspended if necessary.
 
 The obligatory diuretic response following rapid infusion of 20% Mannitol Injection USP may further aggravate preexisting hemoconcentration.
 Excessive loss of water and electrolytes may lead to serious imbalances.
 Serum sodium and potassium should be carefully monitored during mannitol administration.
 
-If urine output continues to decline during mannitol infusion, the patient's clinical status should be closely reviewed and mannitol infusion suspended if necessary.
 Accumulation of mannitol may result in overexpansion of the extracellular fluid which may intensify existing or latent congestive heart failure.
 
 Excessive loss of water and electrolytes may lead to serious imbalances.
@@ -60,6 +63,10 @@ Although blood levels of mannitol can be measured, there is little if any clinic
 The appropriate monitoring of blood levels of sodium and potassium; degree of hemoconcentration or hemodilution, if any; indices of renal, cardiac and pulmonary function are paramount in avoiding excessive fluid and electrolyte shifts.
 The routine features of physical examination and clinical chemistries suffice in achieving an adequate degree of appropriate patient monitoring.
 
+## Drug Interactions
+
+Avoid concomitant administration of nephrotoxic drugs (e.g., aminoglycosides) or other diuretics with 20% Mannitol Injection USP.
+
 ## Carcinogenesis, mutagenesis, impairment of fertility
 
 Long term studies in animals to evaluate the carcinogenic and mutagenic potential or the effect on fertility of 20% Mannitol Injection USP have not been conducted.
@@ -68,7 +75,7 @@ Long term studies in animals to evaluate the carcinogenic and mutagenic potentia
 
 ### Teratogenic Effects
 
-Pregnancy Category C. Animal reproduction studies have not been conducted with 20% Mannitol Injection USP.
+Animal reproduction studies have not been conducted with 20% Mannitol Injection USP.
 It is also not known whether 20% Mannitol Injection USP can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
 20% Mannitol Injection USP should be given to a pregnant woman only if clearly needed.
 
