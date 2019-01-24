@@ -1,16 +1,21 @@
 # 7 DRUG INTERACTIONS
 
-Focalin XR should not be used in patients being treated (currently or within the preceding 2 weeks) with MAO Inhibitors [see Contraindications (4.5)].
+## 7.1 Clinically Important Interactions with Focalin XR
 
-Because of possible effects on blood pressure, Focalin XR should be used cautiously with pressor agents.
+Table 5 presents clinically important drug interactions with Focalin XR.
 
-Methylphenidate may decrease the effectiveness of drugs used to treat hypertension.
+Table 5: Clinically Important Drug Interactions with Focalin XR
 
-Dexmethylphenidate is metabolized primarily to d-ritalinic acid by de-esterification and not through oxidative pathways.
-
-The effects of gastrointestinal pH alterations on the absorption of dexmethylphenidate from Focalin XR have not been studied.
-Since the modified release characteristics of Focalin XR are pH dependent, the coadministration of antacids or acid suppressants could alter the release of dexmethylphenidate.
-
-Human pharmacologic studies have shown that racemic methylphenidate may inhibit the metabolism of coumarin anticoagulants, anticonvulsants (e.g., phenobarbital, phenytoin, primidone), and tricyclic drugs (e.g., imipramine, clomipramine, desipramine).
-Downward dose adjustments of these drugs may be required when given concomitantly with methylphenidate.
-It may be necessary to adjust the dosage and monitor plasma drug concentration (or, in the case of coumarin, coagulation times), when initiating or discontinuing methylphenidate.
+| Monoamine Oxidase Inhibitors (MAOI) |  |
+| --- | --- |
+| Clinical Impact | Concomitant use of MAOIs and CNS stimulants, including Focalin XR, can cause hypertensive crisis. Potential outcomes include death, stroke, myocardial infarction, aortic dissection, ophthalmological complications, eclampsia, pulmonary edema, and renal failure [see Contraindications (4)]. |
+| Intervention | Concomitant use of Focalin XR with monoamine oxidase inhibitors (MAOIs) or within 14 days after discontinuing MAOI treatment is contraindicated. |
+| Examples | selegiline, tranylcypromine, isocarboxazid, phenelzine, linezolid, methylene blue |
+| Antihypertensive Drugs |  |
+| Clinical Impact | Focalin XR may decrease the effectiveness of drugs used to treat hypertension [see Warnings and Precautions (5.3)]. |
+| Intervention | Monitor blood pressure and adjust the dosage of the antihypertensive drug as needed. |
+| Examples | Potassium-sparing and thiazide diuretics, calcium channel blockers, angiotensin-converting-enzyme (ACE) inhibitors, angiotensin II receptor blockers (ARBs), beta blockers, centrally acting alpha-2 receptor agonists |
+| Halogenated Anesthetics |  |
+| Clinical Impact | Concomitant use of halogenated anesthetics and Focalin XR may increase the risk of sudden blood pressure and heart rate increase during surgery. |
+| Intervention | Avoid use of Focalin XR in patients being treated with anesthetics on the day of surgery. |
+| Examples | halothane, isoflurane, enflurane, desflurane, sevoflurane |

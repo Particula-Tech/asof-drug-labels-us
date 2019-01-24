@@ -1,25 +1,9 @@
 # 10 OVERDOSAGE
 
-## 10.1 Signs and Symptoms
+Human Experience
 
-Signs and symptoms of acute methylphenidate overdosage, resulting principally from overstimulation of the CNS and from excessive sympathomimetic effects, may include the following: vomiting, agitation, tremors, hyperreflexia, muscle twitching, convulsions (may be followed by coma), euphoria, confusion, hallucinations, delirium, sweating, flushing, headache, hyperpyrexia, tachycardia, palpitations, cardiac arrhythmias, hypertension, mydriasis, and dryness of mucous membranes.
-Rhabdomyolysis has also been reported in overdose.
+Signs and symptoms of acute methylphenidate overdosage, resulting principally from overstimulation of the CNS and from excessive sympathomimetic effects, may include the following: nausea, vomiting, diarrhea, restlessness, anxiety, agitation, tremors, hyperreflexia, muscle twitching, convulsions (may be followed by coma), euphoria, confusion, hallucinations, delirium, sweating, flushing, headache, hyperpyrexia, tachycardia, palpitations, cardiac arrhythmias, hypertension, hypotension, tachypnea, mydriasis, dryness of mucous membranes, and rhabdomyolysis.
 
-## 10.2 Poison Control Center
+Overdose Management
 
-The physician may wish to consider contacting a poison control center for up-to-date information on the management of overdosage with methylphenidate.
-
-## 10.3 Recommended Treatment
-
-As with the management of all overdosage, the possibility of multiple drug ingestion should be considered.
-
-When treating overdose, practitioners should bear in mind that there is a prolonged release of dexmethylphenidate from Focalin XR.
-
-Treatment consists of appropriate supportive measures.
-The patient must be protected against self-injury and against external stimuli that would aggravate overstimulation already present.
-Gastric contents may be evacuated by gastric lavage as indicated.
-Before performing gastric lavage, control agitation and seizures if present and protect the airway.
-Other measures to detoxify the gut include administration of activated charcoal and a cathartic.
-Intensive care must be provided to maintain adequate circulation and respiratory exchange; external cooling procedures may be required for hyperpyrexia.
-
-Efficacy of peritoneal dialysis for Focalin overdosage has not been established.
+Consult with a Certified Poison Control Center (1-800-222-1222) for the latest recommendations.

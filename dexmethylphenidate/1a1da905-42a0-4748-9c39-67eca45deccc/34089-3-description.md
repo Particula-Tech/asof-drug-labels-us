@@ -1,21 +1,31 @@
 # 11 DESCRIPTION
 
+Focalin XR contains dexmethylphenidate hydrochloride, a CNS stimulant.
+Dexmethylphenidate hydrochloride is the d-threo enantiomer of racemic methylphenidate hydrochloride.
 Focalin XR is an extended-release formulation of dexmethylphenidate with a bi-modal release profile.
-Focalin XR uses the proprietary SODAS® (Spheroidal Oral Drug Absorption System) technology.
-Each bead-filled Focalin XR capsule contains half the dose as immediate-release beads and half as enteric-coated, delayed-release beads, thus providing an immediate release of dexmethylphenidate and a second delayed release of dexmethylphenidate.
-Focalin XR is available as 5, 10, 15, 20, 25, 30, 35, and 40 mg extended-release capsules.
-Focalin XR 5, 10, 15, 20, 25, 30, 35, and 40 mg extended-release capsules provide in a single dose the same amount of dexmethylphenidate as dosages of 2.5, 5, 7.5, 10, 12.5, 15, 17.5, or 20 mg of Focalin given b.i.d. as tablets.
+Each bead-filled Focalin XR capsule contains half the dose as immediate-release beads and half as enteric-coated, delayed-release beads, thus providing an immediate release of dexmethylphenidate and a delayed release of dexmethylphenidate.
+Focalin XR is intended for oral administration and is available as 5 mg, 10 mg, 15 mg, 20 mg, 25 mg, 30 mg, 35 mg, and 40 mg extended-release capsules.
 
-Dexmethylphenidate hydrochloride, the d-threo enantiomer of racemic methylphenidate hydrochloride, is a central nervous system (CNS) stimulant.
+Chemically, dexmethylphenidate hydrochloride is methyl α-phenyl-2-piperidineacetate hydrochloride, (R,R’)-(+)-.
+Its molecular formula is C14H19NO2•HCl.
+Its structural formula is:
 
-Dexmethylphenidate hydrochloride is methyl α-phenyl-2-piperidineacetate hydrochloride, (R,R’)-(+)-.
-Its empirical formula is C14H19NO2•HCl.
-Its molecular weight is 269.77 and its structural formula is:
+Note* = asymmetric carbon center
 
-Note*=asymmetric carbon center
-
-Dexmethylphenidate hydrochloride is a white to off white powder.
+Dexmethylphenidate hydrochloride is a white to off-white powder.
 Its solutions are acid to litmus.
 It is freely soluble in water and in methanol, soluble in alcohol, and slightly soluble in chloroform and in acetone.
+Its molecular weight is 269.77 g/mol.
 
-Inactive ingredients: ammonio methacrylate copolymer, FD&C Blue #2 (5 mg, 15 mg, 25 mg, 35 mg, and 40 mg strengths), FDA/E172 yellow iron oxide (10 mg, 15 mg, 30 mg, 35 mg, and 40 mg strengths), gelatin, ink Tan SW-8010, methacrylic acid copolymer, polyethylene glycol, sugar spheres, talc, titanium dioxide, and triethyl citrate.
+Inactive ingredients: ammonio methacrylate copolymer, gelatin, methacrylic acid copolymer, polyethylene glycol, sugar spheres, talc, titanium dioxide, and triethyl citrate.
+
+Each strength capsule also contains colorant ingredients in the capsule shell as follows:
+
+- 5 mg: E132 FD&C Blue No. 2
+- 10 mg: FDA/E172 iron oxide yellow
+- 15 mg: FD&C Blue No. 2, FDA/E172 iron oxide yellow
+- 20 mg: contains no colorants
+- 25 mg: E132 FD&C Blue No. 2
+- 30 mg: FDA/E172 iron oxide yellow
+- 35 mg: E132 FD&C Blue No. 2, FDA/E172 iron oxide yellow
+- 40 mg: E132 FD&C Blue No. 2, FDA/E172 iron oxide yellow

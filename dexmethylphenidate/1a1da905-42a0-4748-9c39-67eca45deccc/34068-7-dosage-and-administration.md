@@ -1,42 +1,47 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Focalin XR is for oral administration once daily in the morning.
+## 2.1 Pretreatment Screening
 
-Focalin XR may be swallowed as whole capsules or alternatively may be administered by sprinkling the capsule contents on a small amount of applesauce (see specific instructions below).
-Focalin XR capsules and/or their contents should not be crushed, chewed, or divided.
+Prior to treating pediatric patients and adults with CNS stimulants including Focalin XR, assess for the presence of cardiac disease (i.e., perform a careful history including family history of sudden death or ventricular arrhythmia, and physical examination) [see Warnings and Precautions 5.2].
 
-The capsules may be carefully opened and the beads sprinkled over a spoonful of applesauce.
-The mixture of drug and applesauce should be consumed immediately in its entirety.
-The drug and applesauce mixture should not be stored for future use.
+Assess the risk of abuse prior to prescribing, and monitor for signs of abuse and dependence while on therapy.
+Maintain careful prescription records, educate patients about abuse, monitor for signs of abuse and overdose, and periodically reevaluate the need for Focalin XR use [see Boxed Warning, Warnings and Precautions (5.1), Drug Abuse and Dependence (9)].
 
-Dosage should be individualized according to the needs and responses of the patient.
+## 2.2 Treatment of ADHD
 
-## 2.1 Patients New to Methylphenidate
+Patients New to Methylphenidate
 
-The recommended starting dose of Focalin XR for patients who are not currently taking dexmethylphenidate or racemic methylphenidate, or for patients who are on stimulants other than methylphenidate, is 5 mg/day for pediatric patients and 10 mg/day for adult patients.
+The recommended starting dosage of Focalin XR for patients who are not currently taking dexmethylphenidate or racemic methylphenidate, or for patients who are on stimulants other than methylphenidate are:
 
-Dosage may be adjusted in 5 mg increments for pediatric patients and in 10 mg increments for adult patients.
-In general, dosage adjustments may proceed at approximately weekly intervals.
-The patient should be observed for a sufficient duration at a given dose to ensure that a maximal benefit has been achieved before a dose increase is considered.
-In dose-response (fixed-dose) studies (pediatric from 10 to 30 mg/day and adult from 20 to 40 mg/day), all doses were effective vs. placebo.
-There was no clear finding, however, of greater average benefits for the higher doses compared to the lower doses.
-Adverse events and discontinuations, however, were dose-related.
-Doses above 30 mg/day in pediatrics and 40 mg/day in adults have not been studied and are not recommended.
+- Pediatric patients: Start with 5 mg orally once daily in the morning with or without food.
+- Adult patients: Start with 10 mg orally once daily in the morning with or without food.
 
-## 2.2 Patients Currently Using Methylphenidate
+Patients Currently on Methylphenidate
 
-For patients currently using methylphenidate, the recommended starting dose of Focalin XR is half the total daily dose of racemic methylphenidate.
-Patients currently using Focalin (dexmethylphenidate) may be switched to the same daily dose of Focalin XR.
+The recommended starting dose of Focalin XR for patients currently using methylphenidate is half the total daily dose of racemic methylphenidate.
 
-## 2.3 Maintenance/Extended Treatment
+Patients currently using Focalin (dexmethylphenidate) immediate-release tablets may be given the same daily dose of Focalin XR.
 
-There is no body of evidence available from controlled trials to indicate how long the patient with ADHD should be treated with Focalin XR.
-It is generally agreed, however, that pharmacological treatment of ADHD may be needed for extended periods.
-Nevertheless, the physician who elects to use Focalin XR for extended periods in patients with ADHD should periodically reevaluate the long-term usefulness of the drug for the individual patient with periods off medication to assess the patient’s functioning without pharmacotherapy.
-Improvement may be sustained when the drug is either temporarily or permanently discontinued.
+Titration Schedule
+
+The dose may be titrated weekly in increments of 5 mg in pediatric patients and 10 mg in adult patients.
+The dose should be individualized according to the needs and response of the patient.
+Daily doses above 30 mg in pediatrics and 40 mg in adults have not been studied and are not recommended.
+
+Maintenance/Extended Treatment
+
+Pharmacological treatment of ADHD may be needed for extended periods.
+Periodically reevaluate the long-term use of Focalin XR and adjust dosage as needed.
+
+## 2.3 Administration Instructions
+
+Focalin XR is administered orally and may be taken whole or the capsule may be opened and the entire contents sprinkled onto applesauce.
+If the patient is using the sprinkled administration method, the sprinkled applesauce should be consumed immediately; it should not be stored.
+Patients should take the applesauce with sprinkled beads in its entirety without chewing.
+The dose of a single capsule should not be divided.
+The contents of the entire capsule should be taken, and patients should not take anything less than one capsule per day.
 
 ## 2.4 Dose Reduction and Discontinuation
 
-If paradoxical aggravation of symptoms or other adverse events occur, the dosage should be reduced, or, if necessary, the drug should be discontinued.
-
-If improvement is not observed after appropriate dosage adjustment over a 1-month period, the drug should be discontinued.
+If paradoxical aggravation of symptoms or other adverse reactions occur, reduce the dosage, or if necessary, discontinue Focalin XR.
+If improvement is not observed after appropriate dosage adjustment over a one-month period, the drug should be discontinued.
