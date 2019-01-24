@@ -1,53 +1,55 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-## Administration of Dose
+## 2.1 Pretreatment Screening
 
-Ritalin LA (methylphenidate hydrochloride) extended-release capsules are for oral administration once daily in the morning.
-Ritalin LA may be swallowed as whole capsules or alternatively may be administered by sprinkling the capsule contents on a small amount of applesauce (see specific instructions below).
+Prior to initiating treatment with central nervous system (CNS) stimulants, including Ritalin LA, assess for the presence of cardiac disease (i.e., perform a careful history including family history of sudden death or ventricular arrhythmia, and physical examination) [see Warnings and Precautions (5.2)].
+
+Assess the risk of abuse prior to prescribing, and monitor for signs of abuse and dependence while on therapy.
+Maintain careful prescription records, educate patients about abuse, monitor for signs of abuse and overdose, and periodically reevaluate the need for Ritalin LA use [see Boxed Warning, Warnings and Precautions (5.1), Drug Abuse and Dependence (9)].
+
+## 2.2 General Dosing Information
+
+The recommended starting dose for Ritalin LA is 20 mg once daily.
+Increase dosage gradually, in increments of 10 mg weekly.
+Daily dosage above 60 mg is not recommended.
+When a lower initial dose is appropriate, patients may begin treatment with 10 mg.
+
+Administer Ritalin LA orally once daily in the morning.
+Ritalin LA may be swallowed as whole capsules or may be administered by sprinkling the capsule contents on a small amount of applesauce (see specific instructions below).
 Ritalin LA and/or their contents should not be crushed, chewed, or divided.
 
 The capsules may be carefully opened and the beads sprinkled over a spoonful of applesauce.
 The applesauce should not be warm because it could affect the modified release properties of this formulation.
 The mixture of drug and applesauce should be consumed immediately in its entirety.
 The drug and applesauce mixture should not be stored for future use.
-Patients should be advised to avoid alcohol while taking Ritalin LA.
 
-## Dosing Recommendations
+Pharmacological treatment of ADHD may be needed for extended periods.
+Periodically reevaluate the long-term use of Ritalin and Ritalin-SR, and adjust dosage as needed.
 
-Dosage should be individualized according to the needs and responses of the patients.
+## 2.3 Patients Currently Using Ritalin or Ritalin-SR
 
-### Initial Treatment
+The recommended dose of Ritalin LA for patients currently taking Ritalin twice daily or Ritalin extended-release (SR) is provided below.
 
-The recommended starting dose of Ritalin LA is 20 mg once daily.
-Dosage may be adjusted in weekly 10 mg increments to a maximum of 60 mg/day taken once daily in the morning, depending on tolerability and degree of efficacy observed.
-Daily dosage above 60 mg is not recommended.
-When in the judgement of the clinician a lower initial dose is appropriate, patients may begin treatment with Ritalin LA 10 mg.
+Table 1: Recommended Dose Conversion from Ritalin or Ritalin-SR
 
-### Patients Currently Receiving Methylphenidate
-
-The recommended dose of Ritalin LA for patients currently taking methylphenidate b.i.d. or sustained release (SR) is provided below.
-
-| Previous Methylphenidate Dose | Recommended Ritalin LA Dose |
+| Previous Ritalin or Ritalin-SR Dose | Recommended Ritalin LA Dose |
 | --- | --- |
-| 5 mg methylphenidate-b.i.d. | 10 mg q.d. |
-| 10 mg methylphenidate b.i.d. or 20 mg methylphenidate-SR | 20 mg q.d. |
-| 15 mg methylphenidate b.i.d. | 30 mg q.d. |
-| 20 mg methylphenidate b.i.d. or 40 mg of methylphenidate-SR | 40 mg q.d. |
-| 30 mg methylphenidate b.i.d. or 60 mg methylphenidate-SR | 60 mg q.d. |
+| 5 mg Ritalin twice daily | 10 mg once daily |
+| 10 mg Ritalin twice daily or 20 mg Ritalin-SR | 20 mg once daily |
+| 15 mg Ritalin twice daily | 30 mg once daily |
+| 20 mg Ritalin twice daily or 40 mg Ritalin-SR | 40 mg once daily |
+| 30 mg Ritalin twice daily or 60 mg Ritalin-SR | 60 mg once daily |
 
-For other methylphenidate regimens, clinical judgment should be used when selecting the starting dose.
-Ritalin LA dosage may be adjusted at weekly intervals in 10 mg increments.
+## 2.4 Switching from other Methylphenidate Products
 
+If switching from other methylphenidate products, discontinue that treatment, and titrate with Ritalin LA using the titration schedule.
+
+Do not substitute for other methylphenidate products on a milligram-per-milligram basis, because different methylphenidate base compositions and differing pharmacokinetic profiles [see Description (11), Clinical Pharmacology (12.3)].
+
+Clinical judgment should be used when selecting the starting dose.
 Daily dosage above 60 mg is not recommended.
 
-## Maintenance/Extended Treatment
+## 2.5 Dose Reduction and Discontinuation
 
-There is no body of evidence available from controlled trials to indicate how long the patient with ADHD should be treated with Ritalin LA.
-It is generally agreed, however, that pharmacological treatment of ADHD may be needed for extended periods.
-Nevertheless, the physician who elects to use Ritalin LA for extended periods in patients with ADHD should periodically re-evaluate the long-term usefulness of the drug for the individual patient with trials off medication to assess the patient’s functioning without pharmacotherapy.
-Improvement may be sustained when the drug is either temporarily or permanently discontinued.
-
-## Dose Reduction and Discontinuation
-
-If paradoxical aggravation of symptoms or other adverse events occur, the dosage should be reduced, or, if necessary, the drug should be discontinued.
-If improvement is not observed after appropriate dosage adjustment over a 1-month period, the drug should be discontinued.
+If paradoxical worsening of symptoms or other adverse reactions occur, reduce the dosage, or, if necessary, discontinue Ritalin LA.
+If improvement is not observed after appropriate dosage adjustment over a one-month period, the drug should be discontinued.

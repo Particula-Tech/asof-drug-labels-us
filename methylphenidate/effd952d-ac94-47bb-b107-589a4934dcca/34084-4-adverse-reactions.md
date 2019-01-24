@@ -1,76 +1,113 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-The clinical program for Ritalin LA (methylphenidate hydrochloride) extended-release capsules consisted of 6 studies: 2 controlled clinical studies conducted in children with ADHD aged 6-12 years and 4 clinical pharmacology studies conducted in healthy adult volunteers.
+The following are discussed in more detail in other sections of the labeling:
+
+- Abuse and Dependence [see Boxed Warning, Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2, 9.3)]
+- Known hypersensitivity to methylphenidate or other ingredients of Ritalin LA [see Contraindications (4)]
+- Hypertensive crisis when used concomitantly with monoamine oxidase inhibitors [see Contraindications (4), Drug Interactions (7.1)]
+- Serious cardiovascular reactions [see Warnings and Precautions (5.2)]
+- Blood pressure and heart rate increases [see Warnings and Precautions (5.3)]
+- Psychiatric adverse reactions [see Warnings and Precautions (5.4)]
+- Priapism [see Warnings and Precautions (5.5)]
+- Peripheral vasculopathy, including Raynaud’s phenomenon [see Warnings and Precautions (5.6)]
+- Long-term suppression of growth [see Warnings and Precautions (5.7)]
+
+## 6.1 Clinical Trial Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+The clinical program for Ritalin LA consisted of 6 studies: 2 controlled clinical studies conducted in children with ADHD aged 6 to 12 years and 4 clinical pharmacology studies conducted in healthy adult volunteers.
 These studies included a total of 256 subjects; 195 children with ADHD and 61 healthy adult volunteers.
-The subjects received Ritalin LA in doses of 10-40 mg per day.
+The subjects received Ritalin LA in doses of 10 to 40 mg per day.
 Safety of Ritalin LA was assessed by evaluating frequency and nature of adverse events, routine laboratory tests, vital signs, and body weight.
-
-Adverse events during exposure were obtained primarily by general inquiry and recorded by clinical investigators using terminology of their own choosing.
-Consequently, it is not possible to provide a meaningful estimate of the proportion of individuals experiencing adverse events without first grouping similar types of events into a smaller number of standardized event categories.
-In the tables and listings that follow, MedDRA terminology has been used to classify reported adverse events.
-The stated frequencies of adverse events represent the proportion of individuals who experienced, at least once, a treatment-emergent adverse event of the type listed.
-An event was considered treatment emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation.
-
-## Adverse Events in a Double-Blind, Placebo-Controlled, Clinical Trial with Ritalin LA
-
-### Treatment-Emergent Adverse Events
-
-A placebo-controlled, double-blind, parallel-group study was conducted to evaluate the efficacy and safety of Ritalin LA in children with ADHD aged 6-12 years.
+A placebo-controlled, double-blind, parallel-group study was conducted to evaluate the efficacy and safety of Ritalin LA in children with ADHD aged 6 to 12 years.
 All subjects received Ritalin LA for up to 4 weeks, and had their dose optimally adjusted, prior to entering the double-blind phase of the trial.
-In the 2-week, double-blind treatment phase of this study, patients received either placebo or Ritalin LA at their individually-titrated dose (range 10 mg-40 mg).
+In the 2-week double-blind treatment phase of this study, patients received either placebo or Ritalin LA at their individually-titrated dose (range 10-40 mg).
 
-The prescriber should be aware that these figures cannot be used to predict the incidence of adverse events in the course of usual medical practice where patient characteristics and other factors differ from those which prevailed in the clinical trials.
-Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators.
-The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and non-drug factors to the adverse event incidence rate in the population studied.
+Adverse reactions with an incidence greater than 5% during the initial 4-week single-blind Ritalin LA titration period of this study were headache, insomnia, upper abdominal pain, appetite decreased, and anorexia.
 
-Adverse events with an incidence >5% during the initial 4-week, single-blind Ritalin LA titration period of this study were headache, insomnia, upper abdominal pain, appetite decreased, and anorexia.
+Adverse reactions with an incidence greater than 2% among Ritalin LA-treated subjects, during the 2-week double blind phase of the clinical study, are shown in Table 2.
 
-Treatment-emergent adverse events with an incidence >2% among Ritalin LA-treated subjects, during the 2-week, double-blind phase of the clinical study, were as follows:
+Table 2: Adverse Reactions in Greater Than 2% Ritalin LA-Treated Subjects in the 2-Week Double-Blind Phase
 
-| Preferred term | Ritalin LA N=65 N (%) | Placebo N=71 N (%) |
+| Preferred Term | Ritalin LA N = 65 N (%) | Placebo N = 71 N (%) |
 | --- | --- | --- |
 | Anorexia | 2 (3.1) | 0 (0.0) |
 | Insomnia | 2 (3.1) | 0 (0.0) |
 
-### Adverse Events Associated with Discontinuation of Treatment
+Adverse Events Associated With Discontinuation of Treatment
 
-In the 2-week, double-blind treatment phase of a placebo-controlled parallel-group study in children with ADHD, only 1 Ritalin LA-treated subject (1/65, 1.5%) discontinued due to an adverse event (depression).
+In the 2-week double-blind treatment phase of a placebo-controlled parallel-group study in children with ADHD, one Ritalin LA-treated subject (1/65, 1.5%) discontinued due to an adverse event (depressed mood).
 
 In the single-blind titration period of this study, subjects received Ritalin LA for up to 4 weeks.
 During this period a total of 6 subjects (6/161, 3.7%) discontinued due to adverse events.
-The adverse events leading to discontinuation were anger (in 2 patients), hypomania, anxiety, depressed mood, fatigue, migraine and lethargy.
+The adverse events leading to discontinuation were anger (2 patients), hypomania, anxiety, depressed mood, fatigue, migraine and lethargy.
 
-### Adverse Events with Other Methylphenidate HCl Dosage Forms
+## 6.2 Postmarketing Experience
 
-Nervousness and insomnia are the most common adverse reactions reported with other methylphenidate products.
-In children, loss of appetite, abdominal pain, weight loss during prolonged therapy, insomnia, and tachycardia may occur more frequently; however, any of the other adverse reactions listed below may also occur.
+The following adverse reactions have been identified during the post approval use of methylphenidate products.
+Because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably or to establish a causal relationship to drug exposure.
 
-Other reactions include:
+Adverse Reactions Reported with Ritalin, Ritalin-SR, and Ritalin-LA
 
-Cardiac: angina, arrhythmia, palpitations, pulse increased or decreased, tachycardia
+Infections and Infestations: nasopharyngitis
 
-Gastrointestinal: abdominal pain, nausea
+Blood and the Lymphatic System Disorders: leukopenia, thrombocytopenia, anemia
 
-Immune: hypersensitivity reactions including skin rash, urticaria, fever, arthralgia, exfoliative dermatitis, erythema multiforme with histopathological findings of necrotizing vasculitis, and thrombocytopenic purpura.
+Immune System Disorders: hypersensitivity reactions, including angioedema and anaphylaxis
 
-Metabolism/Nutrition: anorexia, weight loss during prolonged therapy
+Metabolism and Nutrition Disorders: decreased appetite, reduced weight gain, and suppression of growth during prolonged use in children
 
-Nervous System: dizziness, drowsiness, dyskinesia, headache, rare reports of Tourette’s syndrome, serotonin syndrome in combination with serotonergic drugs, toxic psychosis
+Psychiatric Disorders: insomnia, anxiety, restlessness, agitation, psychosis (sometimes with visual and tactile hallucinations), depressed mood
 
-Vascular: blood pressure increased or decreased; cerebrovascular vasculitis; cerebral occlusions; cerebral hemorrhages and cerebrovascular accidents
+Nervous System Disorders: headache, dizziness, tremor, dyskinesia including choreoathetoid movements, drowsiness, convulsions, cerebrovascular disorders (including vasculitis, cerebral hemorrhages and cerebrovascular accidents), serotonin syndrome in combination with serotonergic drugs
 
-Although a definite causal relationship has not been established, the following have been reported in patients taking methylphenidate:
+Eye Disorders: blurred vision, difficulties in visual accommodation
 
-Blood/Lymphatic: leukopenia and/or anemia
+Cardiac Disorders: tachycardia, palpitations, increased blood pressure, arrhythmias, angina pectoris
 
-Hepatobiliary: abnormal liver function, ranging from transaminase elevation to severe hepatic injury
+Respiratory, Thoracic and Mediastinal Disorders: cough
 
-Musculoskeletal: rhabdomyolysis
+Gastrointestinal Disorders: dry mouth, nausea, vomiting, abdominal pain, dyspepsia
 
-Psychiatric: transient depressed mood, aggressive behavior, libido changes
+Hepatobiliary Disorders: abnormal liver function, ranging from transaminase elevation to severe hepatic injury
 
-Skin/Subcutaneous: scalp hair loss
+Skin and Subcutaneous Tissue Disorders: hyperhidrosis, pruritus, urticaria, exfoliative dermatitis, scalp hair loss, erythema multiforme rash, thrombocytopenic purpura
 
-Very rare reports of neuroleptic malignant syndrome (NMS) have been received, and, in most of these, patients were concurrently receiving therapies associated with NMS.
-In a single report, a 10-year-old boy who had been taking methylphenidate for approximately 18 months experienced an NMS-like event within 45 minutes of ingesting his first dose of venlafaxine.
-It is uncertain whether this case represented a drug-drug interaction, a response to either drug alone, or some other cause.
+Musculoskeletal and connective tissue disorders: arthralgia, muscle cramps, rhabdomyolysis
+
+Investigations: weight loss (adult ADHD patients)
+
+Adverse Reactions Reported with Other Methylphenidate-Containing Products
+
+The list below shows adverse reactions not listed with Ritalin, Ritalin-SR, or Ritalin LA formulations that have been reported with other methylphenidate-containing products.
+
+Blood and Lymphatic Disorders: pancytopenia
+
+Immune System Disorders: hypersensitivity reactions such as auricular swelling, bullous conditions, eruptions, exanthemas
+
+Psychiatric Disorders: affect lability, mania, disorientation, libido changes,
+
+Nervous System disorders: migraine
+
+Eye Disorders: diplopia, mydriasis
+
+Cardiac Disorders: sudden cardiac death, myocardial infarction, bradycardia, extrasystole
+
+Vascular Disorders: peripheral coldness, Raynaud's phenomenon
+
+Respiratory, Thoracic and Mediastinal Disorders: pharyngolaryngeal pain, dyspnea
+
+Gastrointestinal Disorders: diarrhea, constipation
+
+Skin and Subcutaneous Tissue Disorders: angioneurotic edema, erythema, fixed drug eruption
+
+Musculoskeletal, Connective Tissue and bone Disorders: myalgia, muscle twitching
+
+Renal and Urinary Disorders: hematuria
+
+Reproductive System and Breast Disorders: gynecomastia
+
+General Disorders: fatigue, hyperpyrexia
+
+Urogenital Disorders: priapism

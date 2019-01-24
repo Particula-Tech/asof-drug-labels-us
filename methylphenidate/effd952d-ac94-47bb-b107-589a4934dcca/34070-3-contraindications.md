@@ -1,21 +1,5 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-## Agitation
-
-Ritalin LA (methylphenidate hydrochloride) extended-release capsules are contraindicated in marked anxiety, tension, and agitation, since the drug may aggravate these symptoms.
-
-## Hypersensitivity to Methylphenidate
-
-Ritalin LA is contraindicated in patients known to be hypersensitive to methylphenidate or other components of the product.
-
-## Glaucoma
-
-Ritalin LA is contraindicated in patients with glaucoma.
-
-## Tics
-
-Ritalin LA is contraindicated in patients with motor tics or with a family history or diagnosis of Tourette’s syndrome (see ADVERSE REACTIONS).
-
-## Monoamine Oxidase Inhibitors
-
-Ritalin LA is contraindicated during treatment with monoamine oxidase inhibitors, and also within a minimum of 14 days following discontinuation of treatment with a monoamine oxidase inhibitor (hypertensive crises may result).
+- Hypersensitivity to methylphenidate or other components of Ritalin LA.
+  Hypersensitivity reactions such as angioedema and anaphylactic reactions have been reported in patients treated with methylphenidate [see Adverse Reactions (6.1)].
+- Concomitant treatment with monoamine oxidase inhibitors (MAOIs), or within 14 days following discontinuation of treatment with an MAOI, because of the risk of hypertensive crises [see Drug Interactions (7.1)].
