@@ -16,11 +16,15 @@ Common Adverse Reactions
 
 Advise patients and caregivers that NAMZARIC may cause headache, diarrhea, dizziness, anorexia, vomiting, nausea, and ecchymosis [see Adverse Reactions (6.1)].
 
-Distributed by: Allergan USA, Inc. Irvine, CA 92612
+Distributed by: Allergan USA, Inc. Madison, NJ 07940
 
 Licensed from Merz Pharma GmbH & Co. KGaA and Adamas Pharmaceuticals, Inc.
 
 NAMZARIC® and its design are trademarks of Merz Pharma GmbH & Co. KGaA.
 
-© 2016 Allergan.
+Allergan® and its design are trademarks of Allergan, Inc.
+
+© 2019 Allergan.
 All rights reserved.
+
+v1.1USPI1207
