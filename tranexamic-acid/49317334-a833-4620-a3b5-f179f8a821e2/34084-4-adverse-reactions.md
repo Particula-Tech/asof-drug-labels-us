@@ -13,7 +13,7 @@ A second study compared the effects of LYSTEDA (3900 mg/day) versus placebo over
 A total of 196 women were randomized to this study, with 117 receiving at least one dose of LYSTEDA.
 In both studies, subjects were generally healthy women who had menstrual blood loss of ≥ 80 mL.
 
-In these studies, subjects were 18 to 49 years of age with a mean age of approximately 40 years, had cyclic menses every 21-35 days, and a BMI of approximately 32 kg/m2.
+In these studies, subjects were 18 to 49 years of age with a mean age of approximately 40 years, had cyclic menses every 21-35 days, and a BMI of approximately 32 kg/m 2.
 On average, subjects had a history of HMB for approximately 10 years and 40% had fibroids as determined by transvaginal ultrasound.
 Approximately 70% were Caucasian, 25% were Black, and 5% were Asian, Native American, Pacific Islander, or Other.
 Seven percent (7%) of all subjects were of Hispanic origin.

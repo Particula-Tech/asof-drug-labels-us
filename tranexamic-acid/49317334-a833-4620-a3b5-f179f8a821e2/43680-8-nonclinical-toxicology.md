@@ -7,7 +7,7 @@ Carcinogenesis
 Carcinogenicity studies with tranexamic acid in male mice at doses as high as 6 times the recommended human dose of 3900 mg/day showed an increased incidence of leukemia which may have been related to treatment.
 Female mice were not included in this experiment.
 
-The dose multiple referenced above is based on body surface area (mg/m2).
+The dose multiple referenced above is based on body surface area (mg/m 2).
 Actual daily dose in mice was up to 5000 mg/kg/day in food.
 
 Hyperplasia of the biliary tract and cholangioma and adenocarcinoma of the intrahepatic biliary system have been reported in one strain of rats after dietary administration of doses exceeding the maximum tolerated dose for 22 months.
@@ -25,7 +25,7 @@ Reproductive studies performed in mice, rats and rabbits have not revealed any e
 In a rat embryo-fetal developmental toxicity study, tranexamic acid had no adverse effects on embryo-fetal development when administered during the period of organogenesis (from gestation days 6 through 17) at doses 1, 2 and 4 times the recommended human oral dose of 3900 mg/day.
 In a perinatal-postnatal study in rats, tranexamic acid had no adverse effects on pup viability, growth or development when administered from gestation day 6 through postnatal day 20 at doses 1, 2 and 4 times the recommended human oral dose of 3900 mg/day.
 
-The dose multiples referenced above are based on body surface area (mg/m2).
+The dose multiples referenced above are based on body surface area (mg/m 2).
 Actual daily doses in rats were 300, 750 or 1500 mg/kg/day.
 
 ## 13.2 Animal Toxicology and/or Pharmacology
@@ -40,4 +40,4 @@ In some female dogs, the presence of inflammatory exudate over the bulbar conjun
 Histopathological examinations did not reveal any retinal alteration.
 No adverse effects were observed at 5 times the human dose.
 
-In other studies, focal areas of retinal degeneration were observed in cats, dogs and rats following oral or intravenous tranexamic acid doses at 6-40 times the recommended usual human dose based on mg/m2 (actual animal doses between 250-1600 mg/kg/day).
+In other studies, focal areas of retinal degeneration were observed in cats, dogs and rats following oral or intravenous tranexamic acid doses at 6-40 times the recommended usual human dose based on mg/m 2 (actual animal doses between 250-1600 mg/kg/day).

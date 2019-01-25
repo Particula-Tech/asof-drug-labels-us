@@ -8,7 +8,7 @@ However, tranexamic acid is known to cross the placenta and appears in cord bloo
 There are no adequate and well-controlled studies in pregnant women [see Nonclinical Toxicology (13.1)].
 
 An embryo-fetal developmental toxicity study in rats and a perinatal developmental toxicity study in rats were conducted using tranexamic acid.
-No adverse effects were observed in either study at doses up to 4 times the recommended human oral dose of 3900 mg/day based on mg/m2 (actual animal dose 1500 mg/kg/day).
+No adverse effects were observed in either study at doses up to 4 times the recommended human oral dose of 3900 mg/day based on mg/m 2 (actual animal dose 1500 mg/kg/day).
 
 ## 8.3 Nursing Mothers
 

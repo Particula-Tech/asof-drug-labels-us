@@ -6,7 +6,7 @@ The structural formula is:
 
 Tranexamic acid is a white crystalline powder.
 It is freely soluble in water and in glacial acetic acid and is very slightly soluble in ethanol and practically insoluble in ether.
-The molecular formula is C8H15N02 and the molecular weight is 157.2.
+The molecular formula is C 8H 15N0 2 and the molecular weight is 157.2.
 
 Tranexamic acid tablets are provided as white oval-shaped tablets and are not scored.
 Each tablet is debossed with the marking "FP650."
