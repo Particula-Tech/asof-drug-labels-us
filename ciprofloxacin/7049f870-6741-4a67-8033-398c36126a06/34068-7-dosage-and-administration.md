@@ -100,4 +100,4 @@ Slow infusion of a dilute solution into a larger vein will minimize patient disc
 Hydration of Patients Receiving Ciprofloxacin Injection
 
 Adequate hydration of patients receiving ciprofloxacin injection should be maintained to prevent the formation of highly concentrated urine.
-Crystalluria has been reported with quinolones [see Warnings and Precautions (5.16), Adverse Reactions (6.1), Nonclinical Toxicology (13.2) and Patient Counseling Information (17)].
+Crystalluria has been reported with quinolones [see Warnings and Precautions (5.17), Adverse Reactions (6.1), Nonclinical Toxicology (13.2) and Patient Counseling Information (17)].

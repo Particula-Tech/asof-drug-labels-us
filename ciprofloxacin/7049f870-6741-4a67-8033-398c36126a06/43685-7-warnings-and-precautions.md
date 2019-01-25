@@ -86,7 +86,16 @@ In the event of any signs and symptoms of hepatitis (such as anorexia, jaundice,
 
 There can be a temporary increase in transaminases, alkaline phosphatase, or cholestatic jaundice, especially in patients with previous liver damage, who are treated with ciprofloxacin [see Adverse Reactions (6.2, 6.3)].
 
-## 5.9 Serious Adverse Reactions with Concomitant Theophylline
+## 5.9 Risk of Aortic Aneurysm and Dissection
+
+Fluoroquinolones, including ciprofloxacin, have been associated with aortic aneurysm and dissection.
+Findings from epidemiologic studies show a consistently increased risk of hospitalization for aortic aneurysm or dissection within two months following use of a fluoroquinolone antibacterial drug.
+The annual estimated background risk of aortic aneurysm is as high as approximately 300 aortic aneurysm events per 100,000 persons at the highest risk (e.g., age greater than 85 years).
+The evidence shows the potential for a 2-fold increased risk over the background risk following fluoroquinolone exposure and was based on a small number of cases, mostly in older patients.
+The cause for the risk of aortic aneurysm or dissection has not been identified, but the available data suggest that use of fluoroquinolones may contribute in the short term to aneurysm progression.
+In patients with a known aortic aneurysm or patients who are at greater risk for aortic aneurysms, reserve ciprofloxacin for use only when there are no alternative antibacterial treatments available.
+
+## 5.10 Serious Adverse Reactions with Concomitant Theophylline
 
 Serious and fatal reactions have been reported in patients receiving concurrent administration of Intravenous Ciprofloxacin and theophylline.
 These reactions have included cardiac arrest, seizure, status epilepticus, and respiratory failure.
@@ -95,7 +104,7 @@ Instances of nausea, vomiting, tremor, irritability, or palpitation have also oc
 Although similar serious adverse reactions have been reported in patients receiving theophylline alone, the possibility that these reactions may be potentiated by ciprofloxacin cannot be eliminated.
 If concomitant use cannot be avoided, monitor serum levels of theophylline and adjust dosage as appropriate [see Drug Interactions (7)].
 
-## 5.10 Clostridium difficile-Associated Diarrhea
+## 5.11 Clostridium difficile-Associated Diarrhea
 
 Clostridium difficile (C. difficile)-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including ciprofloxacin, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
@@ -108,14 +117,14 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 If CDAD is suspected or confirmed, ongoing antibacterial use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibacterial treatment of C. difficile, and institute surgical evaluation as clinically indicated [see Adverse Reactions (6.1)].
 
-## 5.11 Prolongation of the QT Interval
+## 5.12 Prolongation of the QT Interval
 
 Some fluoroquinolones, including ciprofloxacin, have been associated with prolongation of the QT interval on the electrocardiogram and cases of arrhythmia.
 Cases of torsade de pointes have been reported during postmarketing surveillance in patients receiving fluoroquinolones, including ciprofloxacin.
 Avoid ciprofloxacin in patients with known prolongation of the QT interval, risk factors for QT prolongation or torsade de pointes (for example, congenital long QT syndrome, uncorrected electrolyte imbalance, such as hypokalemia or hypomagnesemia and cardiac disease, such as heart failure, myocardial infarction, or bradycardia), and patients receiving Class IA antiarrhythmic agents (quinidine, procainamide), or Class III antiarrhythmic agents (amiodarone, sotalol), tricyclic antidepressants, macrolides, and antipsychotics.
 Elderly patients may also be more susceptible to drug-associated effects on the QT interval [see Adverse Reactions (6.2) and Use in Specific Populations (8.5)].
 
-## 5.12 Musculoskeletal Disorders in Pediatric Patients and Arthropathic Effects in Animals
+## 5.13 Musculoskeletal Disorders in Pediatric Patients and Arthropathic Effects in Animals
 
 Ciprofloxacin is indicated in pediatric patients (less than 18 years of age) only for cUTI, prevention of inhalational anthrax (post-exposure), and plague [see Indications and Usage (1.10, 1.6, 1.7)].
 An increased incidence of adverse reactions compared to controls, including reactions related to joints and/or surrounding tissues, has been observed [see Adverse Reactions (6.1)].
@@ -124,35 +133,35 @@ In pre-clinical studies, oral administration of ciprofloxacin caused lameness in
 Histopathological examination of the weight-bearing joints of these dogs revealed permanent lesions of the cartilage.
 Related quinolone-class drugs also produce erosions of cartilage of weight-bearing joints and other signs of arthropathy in immature animals of various species [see Use in Specific Populations (8.4) and Nonclinical Toxicology (13.2)].
 
-## 5.13 Photosensitivity/Phototoxicity
+## 5.14 Photosensitivity/Phototoxicity
 
 Moderate to severe photosensitivity/phototoxicity reactions, the latter of which may manifest as exaggerated sunburn reactions (for example, burning, erythema, exudation, vesicles, blistering, edema) involving areas exposed to light (typically the face, “V” area of the neck, extensor surfaces of the forearms, dorsa of the hands), can be associated with the use of quinolones, including ciprofloxacin, after sun or UV light exposure.
 Therefore, avoid excessive exposure to these sources of light.
 Discontinue ciprofloxacin if phototoxicity occurs [see Adverse Reactions (6.1)].
 
-## 5.14 Development of Drug Resistant Bacteria
+## 5.15 Development of Drug Resistant Bacteria
 
 Prescribing ciprofloxacin in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
-## 5.15 Potential Risks with Concomitant Use of Drugs Metabolized by Cytochrome P450 1A2 Enzymes
+## 5.16 Potential Risks with Concomitant Use of Drugs Metabolized by Cytochrome P450 1A2 Enzymes
 
 Ciprofloxacin is an inhibitor of the hepatic CYP1A2 enzyme pathway.
 Co-administration of ciprofloxacin and other drugs primarily metabolized by CYP1A2 (for example, theophylline, methylxanthines, caffeine, tizanidine, ropinirole, clozapine, olanzapine, and zolpidem) results in increased plasma concentrations of the co-administered drug and could lead to clinically significant pharmacodynamic adverse reactions of the co-administered drug [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
 
-## 5.16 Crystalluria
+## 5.17 Crystalluria
 
 Crystals of ciprofloxacin have been observed rarely in the urine of human subjects but more frequently in the urine of laboratory animals, which is usually alkaline [see Nonclinical Toxicology (13.2)].
 Crystalluria related to ciprofloxacin has been reported only rarely in humans because human urine is usually acidic.
 Avoid alkalinity of the urine in patients receiving ciprofloxacin.
 Hydrate patients well to prevent the formation of highly concentrated urine [see Dosage and Administration (2.4)].
 
-## 5.17 Periodic Assessment of Organ System Functions
+## 5.18 Periodic Assessment of Organ System Functions
 
 As with any potent drug, periodic assessment of organ system functions, including renal, hepatic, and hematopoietic function, is advisable during prolonged therapy.
 
-## 5.18 Blood Glucose Disturbances
+## 5.19 Blood Glucose Disturbances
 
-Fluoroquinolones, including ciprofloxacin, have been associated with disturbances of blood glucose, including symptomatic hyperglycemia and hypoglycemia, usually in diabetic patients receiving concomitant treatment with an oral hypoglycemic agent (e.g., glyburide) or with insulin.
+Fluoroquinolones, including ciprofloxacin, have been associated with disturbances of blood glucose, including symptomatic hyperglycemia and hypoglycemia, usually in diabetic patients receiving concomitant treatment with an oral hypoglycemic agent (for example, glyburide) or with insulin.
 In these patients, careful monitoring of blood glucose is recommended.
 Severe cases of hypoglycemia resulting in coma or death have been reported.
 If a hypoglycemic reaction occurs in a patient being treated with ciprofloxacin, discontinue ciprofloxacin and initiate appropriate therapy immediately [see Adverse Reactions (6.1), Drug Interactions (7)].

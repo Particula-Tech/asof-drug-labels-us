@@ -146,7 +146,7 @@ How should I take ciprofloxacin?
 - Ciprofloxacin can be taken with or without food.
 - Ciprofloxacin should not be taken with dairy products (like milk or yogurt) or calcium-fortified juices alone, but may be taken with a meal that contains these products.
 - Drink plenty of fluids while taking ciprofloxacin.
-- Do not skip any doses of ciprofloxacin, or stop taking it, even if you begin to feel better, until you finish your prescribed treatment unless:Taking all of your ciprofloxacin doses will help make sure that all of the bacteria are killed.
+- Do not skip any doses of ciprofloxacin, or stop taking it, even if you begin to feel better, until you finish your prescribed treatment unless: Taking all of your ciprofloxacin doses will help make sure that all of the bacteria are killed.
   Taking all of your ciprofloxacin doses will help lower the chance that the bacteria will become resistant to ciprofloxacin.
   If you become resistant to ciprofloxacin, ciprofloxacin and other antibacterial medicines may not work for you in the future.
   - you have tendon problems.
@@ -192,7 +192,7 @@ Skin rash may be a sign of a more serious reaction to ciprofloxacin.
 
 - Liver damage (hepatotoxicity).
   Hepatotoxicity can happen in people who take ciprofloxacin.
-  Call your healthcare provider right away if you have unexplained symptoms such as:Stop taking ciprofloxacin and tell your healthcare provider right away if you have yellowing of your skin or white part of your eyes, or if you have dark urine.
+  Call your healthcare provider right away if you have unexplained symptoms such as: Stop taking ciprofloxacin and tell your healthcare provider right away if you have yellowing of your skin or white part of your eyes, or if you have dark urine.
   These can be signs of a serious reaction to ciprofloxacin (a liver problem).
   - nausea or vomiting
   - stomach pain
@@ -205,6 +205,10 @@ Skin rash may be a sign of a more serious reaction to ciprofloxacin.
   - light colored bowel movements
   - dark colored urine
   - yellowing of your skin or the whites of your eyes
+- Aortic aneurysm and dissection.
+  People who take fluoroquinolone medicines, including ciprofloxacin, have an increased risk of swelling of the large artery that carries blood from the heart to the body (aortic aneurysm) and tearing (dissection) of this artery.
+  Tell your healthcare provider if you have ever been told that you have an aortic aneurysm.
+  Get emergency medical help right away if you have sudden chest, stomach, or back pain.
 - Intestine infection (Pseudomembranous colitis).
   Pseudomembranous colitis can happen with many antibacterial medicines, including ciprofloxacin.
   Call your healthcare provider right away if you get watery diarrhea, diarrhea that does not go away, or bloody stools.
@@ -268,9 +272,9 @@ Ciprofloxacin Injection, USP (in 5% Dextrose Injection):
 
 Brands listed are the trademarks of their respective owners.
 
-SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2018 Sagent Pharmaceuticals, Inc.
+SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2019 Sagent Pharmaceuticals, Inc.
 
-Revised: August 2018
+Revised: January 2019
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 

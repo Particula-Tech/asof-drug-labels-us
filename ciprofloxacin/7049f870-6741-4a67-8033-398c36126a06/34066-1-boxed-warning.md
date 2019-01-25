@@ -6,6 +6,6 @@
   - Central nervous system effects [see Warnings and Precautions (5.4)]
 - Fluoroquinolones, including Ciprofloxacin Injection (in 5% Dextrose Injection), may exacerbate muscle weakness in patients with myasthenia gravis.
   Avoid Ciprofloxacin Injection in patients with known history of myasthenia gravis [see Warnings and Precautions (5.5)].
-- Because fluoroquinolones, including Ciprofloxacin Injection (in 5% Dextrose Injection), have been associated with serious adverse reactions [see Warnings and Precautions (5.1 to 5.15)], reserve Ciprofloxacin Injection (in 5% Dextrose Injection) for use in patients who have no alternative treatment options for the following indications:
+- Because fluoroquinolones, including Ciprofloxacin Injection (in 5% Dextrose Injection), have been associated with serious adverse reactions [see Warnings and Precautions (5.1 to 5.16)], reserve Ciprofloxacin Injection (in 5% Dextrose Injection) for use in patients who have no alternative treatment options for the following indications:
   - Acute exacerbation of chronic bronchitis [see Indications and Usage (1.9)]
   - Acute Sinusitis [see Indications and Usage (1.11)]

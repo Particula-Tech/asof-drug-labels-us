@@ -52,7 +52,7 @@ Metabolism
 After intravenous administration, three metabolites of ciprofloxacin have been identified in human urine which together account for approximately 10% of the intravenous dose.
 The metabolites have antimicrobial activity, but are less active than unchanged.
 Ciprofloxacin is an inhibitor of human cytochrome P450 1A2 (CYP1A2) mediated metabolism.
-Co-administration of ciprofloxacin with other drugs primarily metabolized by CYP1A2 results in increased plasma concentrations of these drugs and could lead to clinically significant adverse events of the co-administered drug [see Contraindications (4.2), Warnings and Precautions (5.9, 5.15) and Drug Interactions (7)].
+Co-administration of ciprofloxacin with other drugs primarily metabolized by CYP1A2 results in increased plasma concentrations of these drugs and could lead to clinically significant adverse events of the co-administered drug [see Contraindications (4.2), Warnings and Precautions (5.10, 5.16) and Drug Interactions (7)].
 
 Excretion
 
@@ -108,7 +108,7 @@ Concomitant administration of tizanidine and ciprofloxacin is contraindicated du
 Ropinirole
 
 In a study conducted in 12 patients with Parkinson's disease who were administered 6 mg ropinirole once daily with 500 mg ciprofloxacin twice-daily, the mean Cmax and mean AUC of ropinirole were increased by 60% and 84%, respectively.
-Monitoring for ropinirole-related adverse reactions and appropriate dose adjustment of ropinirole is recommended during and shortly after co-administration with ciprofloxacin [see Warnings and Precautions (5.15)].
+Monitoring for ropinirole-related adverse reactions and appropriate dose adjustment of ropinirole is recommended during and shortly after co-administration with ciprofloxacin [see Warnings and Precautions (5.16)].
 
 Clozapine
 
