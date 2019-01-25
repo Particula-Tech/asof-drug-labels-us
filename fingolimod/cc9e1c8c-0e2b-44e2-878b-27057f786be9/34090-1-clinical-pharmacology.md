@@ -47,7 +47,7 @@ GILENYA reduces the immune response to vaccination, as evaluated in 2 studies.
 In the first study, the immunogenicity of keyhole limpet hemocyanin (KLH) and pneumococcal polysaccharide vaccine (PPV-23) immunization were assessed by IgM and IgG titers in a steady-state, randomized, placebo-controlled study in healthy adult volunteers.
 Compared to placebo, antigen-specific IgM titers were decreased by 91% and 25% in response to KLH and PPV-23, respectively, in subjects on GILENYA 0.5 mg.
 Similarly, IgG titers were decreased by 45% and 50%, in response to KLH and PPV-23, respectively, in subjects on GILENYA 0.5 mg daily compared to placebo.
-The responder rate for GILENYA 0.5 mg as measured by the number of subjects with a > 4-fold increase in KLH IgG was comparable to placebo and 25% lower for PPV-23 IgG, while the number of subjects with a > 4 fold increase in KLH and PPV-23 IgM was 75% and 40% lower, respectively, compared to placebo.
+The responder rate for GILENYA 0.5 mg as measured by the number of subjects with a > 4-fold increase in KLH IgG was comparable to placebo and 25% lower for PPV-23 IgG, while the number of subjects with a > 4-fold increase in KLH and PPV-23 IgM was 75% and 40% lower, respectively, compared to placebo.
 The capacity to mount a skin delayed-type hypersensitivity reaction to Candida and tetanus toxoid was decreased by approximately 30% in subjects on GILENYA 0.5 mg daily, compared to placebo.
 Immunologic responses were further decreased with fingolimod 1.25 mg (a dose higher than recommended in MS) [see Warnings and Precautions (5.2)].
 

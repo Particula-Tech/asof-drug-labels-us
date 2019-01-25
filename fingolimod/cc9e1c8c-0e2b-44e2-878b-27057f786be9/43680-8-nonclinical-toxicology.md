@@ -17,7 +17,7 @@ When fingolimod was administered orally (0, 1, 3, and 10 mg/kg/day) to male and 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
 Lung toxicity was observed in 2 different strains of rats and in dogs and monkeys.
-The primary findings included increase in lung weight, associated with smooth muscle hypertrophy, hyperdistension of the alveoli, and/or increased collagen.
+The primary findings included increase in lung weight, associated with smooth muscle hypertrophy, hyperdistention of the alveoli, and/or increased collagen.
 Insufficient or lack of pulmonary collapse at necropsy, generally correlated with microscopic changes, was observed in all species.
 In rats and monkeys, lung toxicity was observed at all oral doses tested in chronic studies.
 The lowest doses tested in rats (0.05 mg/kg/day in the 2-year carcinogenicity study) and monkeys (0.5 mg/kg/day in the 39-week toxicity study) are similar to and approximately 20 times the RHD on a mg/m2 basis, respectively.

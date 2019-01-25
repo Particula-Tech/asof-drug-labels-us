@@ -15,9 +15,9 @@ In controlled clinical trials in adult patients, adverse reactions of symptomati
 Patients who experienced bradycardia were generally asymptomatic, but some patients experienced hypotension, dizziness, fatigue, palpitations, and/or chest pain that usually resolved within the first 24 hours on treatment.
 
 Patients with some preexisting conditions (e.g., ischemic heart disease, history of myocardial infarction, congestive heart failure, history of cardiac arrest, cerebrovascular disease, uncontrolled hypertension, history of symptomatic bradycardia, history of recurrent syncope, severe untreated sleep apnea, AV block, sinoatrial heart block) may poorly tolerate the GILENYA-induced bradycardia, or experience serious rhythm disturbances after the first dose of GILENYA.
-Prior to treatment with GILENYA, these patients should have a cardiac evaluation by a physician appropriately trained to conduct such evaluation, and, if treated with GILENYA, should be monitored overnight with continuous ECG in a medical facility after the first dose.
+Prior to treatment with GILENYA, these patients should have a cardiac evaluation by a physician appropriately trained to conduct such evaluation, and if treated with GILENYA, should be monitored overnight with continuous ECG in a medical facility after the first dose.
 
-Since initiation of GILENYA treatment, results in decreased heart rate and may prolong the QT interval, patients with a prolonged QTc interval (> 450 msec adult and pediatric males, > 470 msec adult females, or > 460 msec pediatric females) before dosing or during 6 hour observation, or at additional risk for QT prolongation (e.g., hypokalemia, hypomagnesemia, congenital long-QT syndrome), or on concurrent therapy with QT prolonging drugs with a known risk of torsades de pointes (e.g., citalopram, chlorpromazine, haloperidol, methadone, erythromycin) should be monitored overnight with continuous ECG in a medical facility
+Since initiation of GILENYA treatment, results in decreased heart rate and may prolong the QT interval, patients with a prolonged QTc interval (> 450 msec adult and pediatric males, > 470 msec adult females, or > 460 msec pediatric females) before dosing or during 6-hour observation, or at additional risk for QT prolongation (e.g., hypokalemia, hypomagnesemia, congenital long-QT syndrome), or on concurrent therapy with QT prolonging drugs with a known risk of torsades de pointes (e.g., citalopram, chlorpromazine, haloperidol, methadone, erythromycin) should be monitored overnight with continuous ECG in a medical facility
 
 Following the second dose, a further decrease in heart rate may occur when compared to the heart rate prior to the second dose, but this change is of a smaller magnitude than that observed following the first dose.
 With continued dosing, the heart rate returns to baseline within 1 month of chronic treatment.
@@ -58,7 +58,7 @@ In MS placebo-controlled trials in adult patients, the overall rate of infection
 However, bronchitis, herpes zoster, influenza, sinusitis, and pneumonia were more common in GILENYA-treated patients.
 Serious infections occurred at a rate of 2.3% in the GILENYA group versus 1.6% in the placebo group.
 
-In the postmarketing setting, serious infections with opportunistic pathogens including viruses (e.g., John Cunningham virus (JCV), herpes simplex viruses 1 and 2, varicella-zoster virus), fungi (e.g., cryptococci), and bacteria (e.g., atypical mycobacteria) have been reported with GILENYA.
+In the postmarketing setting, serious infections with opportunistic pathogens including viruses (e.g., John Cunningham virus (JCV), herpes simplex viruses 1 and 2, varicella zoster virus), fungi (e.g., cryptococci), and bacteria (e.g., atypical mycobacteria) have been reported with GILENYA.
 Patients with symptoms and signs consistent with any of these infections should undergo prompt diagnostic evaluation and appropriate treatment.
 
 Herpes Viral Infections
@@ -119,7 +119,7 @@ Perform an examination of the fundus including the macula in all patients before
 
 A dose-dependent increase in the risk of macular edema occurred in the GILENYA clinical development program.
 
-In 2-year, double-blind, placebo-controlled studies in adult patients with multiple sclerosis, macular edema with or without visual symptoms occurred in 1.5% of patients (11/799) treated with fingolimod 1.25 mg, 0.5% of patients (4/783) treated with GILENYA 0.5 mg and 0.4% of patients (3/773) treated with placebo.
+In 2-year double-blind, placebo-controlled studies in adult patients with multiple sclerosis, macular edema with or without visual symptoms occurred in 1.5% of patients (11/799) treated with fingolimod 1.25 mg, 0.5% of patients (4/783) treated with GILENYA 0.5 mg, and 0.4% of patients (3/773) treated with placebo.
 Macular edema occurred predominantly during the first 3 to 4 months of therapy.
 These clinical trials excluded patients with diabetes mellitus, a known risk factor for macular edema (see below Macular Edema in Patients with History of Uveitis or Diabetes Mellitus).
 Symptoms of macular edema included blurred vision and decreased visual acuity.
@@ -138,7 +138,7 @@ Patients with a history of uveitis and patients with diabetes mellitus are at in
 The incidence of macular edema is also increased in MS patients with a history of uveitis.
 In the combined clinical trial experience in adult patients with all doses of fingolimod, the rate of macular edema was approximately 20% in MS patients with a history of uveitis versus 0.6% in those without a history of uveitis.
 GILENYA has not been tested in MS patients with diabetes mellitus.
-In addition to the examination of the fundus including the macula prior to treatment and at 3–4 months after starting treatment, MS patients with diabetes mellitus or a history of uveitis should have regular follow-up examinations.
+In addition to the examination of the fundus including the macula prior to treatment and at 3 to 4 months after starting treatment, MS patients with diabetes mellitus or a history of uveitis should have regular follow-up examinations.
 
 ## 5.5 Posterior Reversible Encephalopathy Syndrome
 
@@ -200,7 +200,9 @@ In adult MS controlled clinical trials, patients treated with GILENYA 0.5 mg had
 Hypertension was reported as an adverse reaction in 8% of patients on GILENYA 0.5 mg and in 4% of patients on placebo.
 Blood pressure should be monitored during treatment with GILENYA.
 
-## 5.11 Cutaneous Malignancies
+## 5.11 Malignancies
+
+Cutaneous Malignancies
 
 The risk of basal cell carcinoma (BCC) and melanoma is increased in patients treated with GILENYA.
 In two-year placebo-controlled trials in adult patients, the incidence of BCC was 2% in patients on GILENYA 0.5 mg and 1% in patients on placebo [see Adverse Reactions (6.1)].
@@ -209,6 +211,12 @@ Periodic skin examination is recommended for all patients, particularly those wi
 Providers and patients are advised to monitor for suspicious skin lesions.
 If a suspicious skin lesion is observed, it should be promptly evaluated.
 As usual for patients with increased risk for skin cancer, exposure to sunlight and ultraviolet light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
+
+Lymphoma
+
+Cases of lymphoma, including both T-cell and B-cell types and CNS lymphoma, have occurred in patients receiving GILENYA.
+The reporting rate of non-Hodgkin lymphoma with GILENYA is greater than that expected in the general population adjusted by age, gender, and region.
+Cutaneous T-cell lymphoma (including mycosis fungoides) has also been reported with GILENYA in the postmarketing setting.
 
 ## 5.12 Immune System Effects Following GILENYA Discontinuation
 

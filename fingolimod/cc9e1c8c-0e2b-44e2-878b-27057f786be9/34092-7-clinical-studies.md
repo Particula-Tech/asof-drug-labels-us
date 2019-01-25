@@ -30,7 +30,7 @@ Table 2: Clinical and MRI Results of Study 1
 | MRI Endpoint |  |  |  |
 | Mean (median) number of new or newly enlarging T2 lesions over 24 months | 2.5 (0) | 9.8 (5.0) | < 0.001 |
 | Mean (median) number of T1 Gd-enhancing lesions at Month 24 | 0.2 (0) | 1.1 (0) | < 0.001 |
-| All analyses of clinical endpoints were intent-to–treat. MRI analysis used evaluable dataset. ‡Hazard ratio is an estimate of the relative risk of having the event of disability progression on GILENYA as compared to placebo. |  |  |  |
+| All analyses of clinical endpoints were intent-to-treat. MRI analysis used evaluable dataset. ‡Hazard ratio is an estimate of the relative risk of having the event of disability progression on GILENYA as compared to placebo. |  |  |  |
 
 Study 2 was a 1-year randomized, double-blind, double-dummy, active-controlled study in patients with RRMS who had not received any natalizumab in the previous 6 months.
 Prior therapy with interferon-beta or glatiramer acetate up to the time of randomization was permitted.
@@ -84,7 +84,7 @@ The primary endpoint, the annualized relapse rate (ARR), was significantly lower
 Relative reduction in ARR was 81.9%.
 The annualized rate of the number of new or newly enlarged T2 lesions up to month 24 (key secondary endpoint) was significantly lower in patients treated with GILENYA, as was the number of Gd-enhancing T1 lesions per scan up to month 24.
 
-Table 4 summarize the results of Study 4.
+Table 4 summarizes the results of Study 4.
 
 Table 4: Clinical and MRI results of Study 4
 

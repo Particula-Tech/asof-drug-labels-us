@@ -12,7 +12,7 @@ The following serious adverse reactions are described elsewhere in labeling:
 - Fetal Risk [see Warnings and Precautions (5.8)]
 - Severe Increase in Disability After Stopping GILENYA [see Warnings and Precautions (5.9)]
 - Increased Blood Pressure [see Warnings and Precautions (5.10)]
-- Cutaneous Malignancies [see Warnings and Precautions (5.11)]
+- Malignancies [see Warnings and Precautions (5.11)]
 - Immune System Effects Following GILENYA Discontinuation [see Warnings and Precautions (5.12)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.13)]
 
@@ -23,7 +23,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 Adults
 
 In clinical trials (Studies 1, 2, and 3), a total of 1212 patients with relapsing forms of multiple sclerosis received GILENYA 0.5 mg.
-This included 783 patients who received GILENYA 0.5 mg in the 2-year placebo-controlled trials (Studies 1 and 3) and 429 patients who received GILENYA 0.5 mg in the 1 year active-controlled trial (Study 2).
+This included 783 patients who received GILENYA 0.5 mg in the 2-year placebo-controlled trials (Studies 1 and 3) and 429 patients who received GILENYA 0.5 mg in the 1-year active-controlled trial (Study 2).
 The overall exposure in the controlled trials was equivalent to 1716 person-years.
 Approximately 1000 patients received at least 2 years of treatment with GILENYA 0.5 mg.
 In all clinical studies, including uncontrolled extension studies, the exposure to GILENYA 0.5 mg was approximately 4119 person-years.
@@ -85,15 +85,9 @@ Vascular Events
 
 Vascular events, including ischemic and hemorrhagic strokes, and peripheral arterial occlusive disease were reported in premarketing clinical trials in patients who received GILENYA doses (1.25-5 mg) higher than recommended for use in MS. Similar events have been reported with GILENYA in the postmarketing setting although a causal relationship has not been established.
 
-Lymphoma
-
-Cases of lymphoma, including both T-cell and B-cell types and CNS lymphoma, have occurred in patients receiving GILENYA.
-The reporting rate of non-Hodgkin lymphoma with GILENYA is greater than that expected in the general population adjusted by age, gender, and region.
-The relationship of lymphoma to GILENYA remains uncertain.
-
 Seizure
 
-Cases of seizures have been reported with the use of GILENYA in clinical trials and in the postmarketing setting in adults.
+Cases of seizures, including status epilepticus, have been reported with the use of GILENYA in clinical trials and in the postmarketing setting in adults [see Adverse Reactions (6.2)].
 In adult clinical trials, the rate of seizures was 0.9% in GILENYA-treated patients and 0.3% in placebo-treated patients.
 It is unknown whether these events were related to the effects of multiple sclerosis alone, to GILENYA, or to a combination of both.
 
@@ -102,3 +96,18 @@ Pediatric Patients 10 Years of Age and Older
 In the controlled pediatric trial (Study 4), the safety profile in pediatric patients receiving GILENYA 0.25 mg or 0.5 mg daily was similar to that seen in adult patients.
 
 In the pediatric study, cases of seizures were reported in 5.6% of GILENYA-treated patients and 0.9% of interferon beta-1a-treated patients [see Use in Specific Populations (8.4)].
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during postapproval use of GILENYA.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Infections: infections including cryptococcal infections [see Warnings and Precautions (5.2)], progressive multifocal leukoencephalopathy [see Warnings and Precautions (5.3)]
+
+Musculoskeletal and connective tissue disorders: arthralgia, myalgia
+
+Nervous system disorders: posterior reversible encephalopathy syndrome [see Warnings and Precautions (5.5)], seizures, including status epilepticus [see Adverse Reactions (6.1)]
+
+Neoplasms, benign, malignant, and unspecified (incl cysts and polyps): melanoma, Merkel cell carcinoma, and cutaneous T cell lymphoma (including mycosis fungoides) [see Warnings and Precautions (5.11)]
+
+Skin and subcutaneous tissue disorders: hypersensitivity [see Warnings and Precautions (5.13)]

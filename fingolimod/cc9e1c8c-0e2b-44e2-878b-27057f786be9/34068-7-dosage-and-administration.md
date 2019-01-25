@@ -23,7 +23,7 @@ It is recommended that pediatric patients if possible, complete all immunization
 
 ## 2.2 Important Administration Instructions
 
-Patients who initiate GILENYA and those who reinitiate treatment after discontinuation for longer than 14 days require first-dose monitoring.
+Patients who initiate GILENYA, and those who reinitiate treatment after discontinuation for longer than 14 days, require first-dose monitoring.
 This monitoring is also recommended when the dose is increased in pediatric patients [see Dosage and Administration (2.4, 2.5)].
 
 GILENYA can be taken with or without food.
@@ -62,13 +62,13 @@ Overnight Monitoring
 Continuous overnight ECG monitoring in a medical facility should be instituted:
 
 - in patients that require pharmacologic intervention for symptomatic bradycardia.
-  In these patients, the first dose monitoring strategy should be repeated after the second dose of GILENYA
+  In these patients, the first-dose monitoring strategy should be repeated after the second dose of GILENYA
 - in patients with some preexisting heart and cerebrovascular conditions [see Warnings and Precautions (5.1)]
 - in patients with a prolonged QTc interval before dosing or during 6-hour observation, or at additional risk for QT prolongation, or on concurrent therapy with QT prolonging drugs with a known risk of torsades de pointes [see Warnings and Precautions (5.1), Drug Interactions (7.1)]
 - in patients receiving concurrent therapy with drugs that slow heart rate or AV conduction [see Drug Interactions (7.5)].
 
 ## 2.5 Monitoring After Reinitiation of Therapy Following Discontinuation
 
-When restarting GILENYA after discontinuation for more than 14 days after the first month of treatment, perform first- dose monitoring, because effects on heart rate and AV conduction may recur on reintroduction of GILENYA treatment [see Dosage and Administration (2.4)].
+When restarting GILENYA after discontinuation for more than 14 days after the first month of treatment, perform first-dose monitoring, because effects on heart rate and AV conduction may recur on reintroduction of GILENYA treatment [see Dosage and Administration (2.4)].
 The same precautions (first-dose monitoring) as for initial dosing are applicable.
-Within the first 2 weeks of treatment, first dose procedures are recommended after interruption of 1 day or more; during weeks 3 and 4 of treatment first dose procedures are recommended after treatment interruption of more than 7 days.
+Within the first 2 weeks of treatment, first-dose procedures are recommended after interruption of 1 day or more; during weeks 3 and 4 of treatment first-dose procedures are recommended after treatment interruption of more than 7 days.
