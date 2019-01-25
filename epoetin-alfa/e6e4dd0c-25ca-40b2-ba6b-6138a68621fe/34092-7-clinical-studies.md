@@ -61,7 +61,7 @@ In each trial, the potential benefit of ESA therapy was offset by worse cardiova
 
 ESA Effects on rates of death and other serious cardiac adverse reactions
 
-Three randomized outcome trials (Normal Hematocrit Study [NHS], Correction of Anemia with Epoetin Alfa in Chronic Kidney Disease [CHOIR], and Trial of Darbepoetin Alfa in Type 2 Diabetes and CKD [TREAT] have been conducted in patients with CKD using epoetin alfa/darbepoetin alfa to target higher vs. lower hemoglobin levels.
+Three randomized outcome trials (Normal Hematocrit Study [NHS], Correction of Anemia with Epoetin Alfa in Chronic Kidney Disease [CHOIR], and Trial of Darbepoetin Alfa in Type 2 Diabetes and CKD [TREAT]) have been conducted in patients with CKD using epoetin alfa/darbepoetin alfa to target higher vs. lower hemoglobin levels.
 Though these trials were designed to establish a cardiovascular or renal benefit of targeting higher hemoglobin levels, in all 3 studies, patients randomized to the higher hemoglobin target experienced worse cardiovascular outcomes and showed no reduction in progression to ESRD.
 In each trial, the potential benefit of ESA therapy was offset by worse cardiovascular safety outcomes resulting in an unfavorable benefit-risk profile [see Warnings and Precautions (5.1)].
 
@@ -86,7 +86,7 @@ In the pooled analysis, efficacy was demonstrated by a reduction in the proporti
 
 Study C1
 
-Study C1 was conducted in anemic patients (hemoglobin < 11.5 g/dL for males; < 10.5 g/dL for females) with non-myeloid malignancies receiving myelosuppressive chemotherapy.
+Study C1 was conducted in patients with anemia (hemoglobin < 11.5 g/dL for males; < 10.5 g/dL for females) with non-myeloid malignancies receiving myelosuppressive chemotherapy.
 Randomization was stratified by type of malignancy (lung vs. breast vs. other), concurrent radiation therapy planned (yes or no), and baseline hemoglobin (< 9 g/dL vs. ≥ 9 g/dL); patients were randomized to epoetin alfa 40,000 Units (n = 174) or placebo (n = 170) as a weekly subcutaneous injection commencing on the first day of the chemotherapy cycle.
 
 Ninety-one percent of patients were white, 44% were male, and the median age of patients was 66 years (range: 20 to 88 years).
@@ -114,7 +114,7 @@ Two (2%) of placebo-treated patients and 3 (3%) of epoetin alfa-treated patients
 There were fewer RBC transfusions from week 5 through the end-of-study in epoetin alfa-treated patients [51% (57/111)] compared to placebo-treated patients [69% (77/111)].
 There was no evidence of an improvement in health-related quality of life, including no evidence of an effect on fatigue, energy, or strength in patients receiving epoetin alfa as compared to those receiving placebo.
 
-Pooled Analysis (Three Times per Week Dosing)
+Pooled Analysis (Three Times Per Week Dosing)
 
 The results of 6 studies of similar design and that randomized 131 patients to epoetin alfa or placebo were pooled to assess the safety and effectiveness of epoetin alfa.
 Patients were randomized to receive epoetin alfa at 150 Units/kg (n = 63) or placebo (n = 68), subcutaneously three times per week for 12 weeks in each study.

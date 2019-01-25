@@ -10,9 +10,9 @@ The following serious adverse reactions are discussed in greater detail in other
 - Serious allergic reactions [see Warnings and Precautions (5.7)]
 - Severe Cutaneous Reactions [see Warnings and Precautions (5.8)]
 
-## 6.1 Clinical Trial Experience
+## 6.1 Clinical Trials Experience
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of other drugs and may not reflect the rates observed in practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 Patients with Chronic Kidney Disease
 
@@ -97,7 +97,7 @@ Epoetin alfa was administered once weekly for an average of 13 weeks at a dose o
 The adverse reactions with a reported incidence of ≥ 5% in epoetin alfa-treated patients that occurred at a higher frequency than in placebo-treated patients are shown in the table below:
 
 Table 6.
-Adverse Reactions in Cancer Patients with Cancer
+Adverse Reactions in Patients with Cancer
 
 | Adverse Reaction | Epoetin alfa (n = 168) | Placebo (n = 165) |
 | --- | --- | --- |
