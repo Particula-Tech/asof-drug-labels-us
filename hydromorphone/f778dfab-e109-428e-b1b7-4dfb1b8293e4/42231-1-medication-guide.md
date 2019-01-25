@@ -16,8 +16,6 @@ Dispense with Medication Guide available at www.aurobindousa.com/product-medicat
 
 Distributed by:
 
-Aurobindo Pharma USA, Inc.
+Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ-08520
 
-Dayton, NJ 08810
-
-Revised: 12/2017
+Revised: 11/2018

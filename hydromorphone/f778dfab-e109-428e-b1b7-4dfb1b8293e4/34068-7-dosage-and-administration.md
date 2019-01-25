@@ -2,9 +2,15 @@
 
 ## 2.1 Important Dosage and Administration Instructions
 
+Ensure accuracy when prescribing, dispensing, and administering Hydromorphone Hydrochloride Tablets to avoid dosing errors due to confusion between mg and mL, which could result in accidental overdose and death.
+Ensure the proper dose is communicated and dispensed.
+When writing prescriptions, include both the total dose in mg and the total dose in volume.
+Instruct patients to obtain a calibrated measuring cup/syringe for administering Hydromorphone Hydrochloride Tablets to ensure that the dose is measured and administered accurately.
+Do not use household teaspoons or tablespoons to measure Hydromorphone Hydrochloride Tablets, as using a tablespoon instead of a teaspoon could lead to overdosage [see Warnings and Precautions (5.1)].
+
 - Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
 - Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.2)].
-- Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy and following dosage increases with Hydromorphone Hydrochloride Tablets and adjust the dosage accordingly [see Warnings and Precautions (5.3)].
+- Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy and following dosage increases with Hydromorphone Hydrochloride Tablets and adjust the dosage accordingly [see Warnings and Precautions (5.4)].
 
 ## 2.2 Initial Dosage
 
@@ -51,4 +57,4 @@ A supplemental dose of 5-15% of the total daily usage may be administered every 
 When a patient who has been taking Hydromorphone Hydrochloride Tablets regularly and may be physically dependent no longer requires therapy with Hydromorphone Hydrochloride Tablets, taper the dose gradually, by 25% to 50% every 2 to 4 days, while monitoring carefully for signs and symptoms of withdrawal.
 If the patient develops these signs and symptoms, raise the dose to the previous level and taper more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both.
 Do not abruptly discontinue Hydromorphone Hydrochloride Tablets in a physically dependent patient.
-[See Warnings and Precautions (5.12), Drug Abuse and Dependence (9.3)].
+[see Warnings and Precautions (5.13), Drug Abuse and Dependence (9.3)].
