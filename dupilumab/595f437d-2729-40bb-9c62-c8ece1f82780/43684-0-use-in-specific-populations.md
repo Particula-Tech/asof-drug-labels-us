@@ -2,6 +2,12 @@
 
 ## 8.1 Pregnancy
 
+Pregnancy Exposure Registry
+
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to DUPIXENT during pregnancy.
+
+Please contact 1-877-311-8972 or go to https://mothertobaby.org/ongoing-study/dupixent/ to enroll in or to obtain information about the registry.
+
 Risk Summary
 
 Available data from case reports and case series with DUPIXENT use in pregnant women have not identified a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.

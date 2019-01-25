@@ -2,6 +2,12 @@
 
 Advise the patients and/or caregivers to read the FDA-approved patient labeling (Patient Information and Instructions for Use) before the patient starts using DUPIXENT and each time the prescription is renewed as there may be new information they need to know.
 
+Pregnancy Registry
+
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to DUPIXENT during pregnancy.
+Encourage participation in the registry.
+[see Use in Specific Populations (8.1)].
+
 Administration Instructions
 
 Provide proper training to patients and/or caregivers on proper subcutaneous injection technique, including aseptic technique, and the preparation and administration of DUPIXENT prior to use.
