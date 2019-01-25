@@ -16,7 +16,7 @@ Because of the potential for serious adverse reactions from levofloxacin in nurs
 
 ## 8.4 Pediatric Use
 
-Quinolones, including levofloxacin, cause arthropathy and osteochondrosis in juvenile animals of several species [see Warnings and Precautions (5.11) and Animal Toxicology and/or Pharmacology (13.2)].
+Quinolones, including levofloxacin, cause arthropathy and osteochondrosis in juvenile animals of several species [see Warnings and Precautions (5.12) and Animal Toxicology and/or Pharmacology (13.2)].
 
 Pharmacokinetics following intravenous administration
 
@@ -82,8 +82,11 @@ Severe, and sometimes fatal, cases of hepatotoxicity have been reported post-mar
 The majority of fatal hepatotoxicity reports occurred in patients 65 years of age or older and most were not associated with hypersensitivity.
 Levofloxacin should be discontinued immediately if the patient develops signs and symptoms of hepatitis [see Warnings and Precautions (5.8)].
 
+Elderly patients are at greater risk for aortic aneurysm and dissection.
+A two-fold increased risk of aortic aneurysm and dissection has been reported following use of a fluoroquinolone, including levofloxacin [see Warnings and Precautions (5.9)].
+
 Elderly patients may be more susceptible to drug-associated effects on the QT interval.
-Therefore, precaution should be taken when using levofloxacin with concomitant drugs that can result in prolongation of the QT interval (e.g., Class IA or Class III antiarrhythmics) or in patients with risk factors for torsade de pointes (e.g., known QT prolongation, uncorrected hypokalemia) [see Warnings and Precautions (5.10)].
+Therefore, precaution should be taken when using levofloxacin with concomitant drugs that can result in prolongation of the QT interval (e.g., Class IA or Class III antiarrhythmics) or in patients with risk factors for torsade de pointes (e.g., known QT prolongation, uncorrected hypokalemia) [see Warnings and Precautions (5.11)].
 
 The pharmacokinetic properties of levofloxacin in younger adults and elderly adults do not differ significantly when creatinine clearance is taken into consideration.
 However, since the drug is known to be substantially excreted by the kidney, the risk of toxic reactions to this drug may be greater in patients with impaired renal function.

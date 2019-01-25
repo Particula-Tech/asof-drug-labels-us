@@ -184,6 +184,9 @@ LEVOFLOXACIN can cause serious side effects, including:
   - light colored bowel movements
   - dark colored urine
   - yellowing of your skin or the whites of your eyes
+- Aortic aneurysm and dissection People who take fluoroquinolone medicines, including LEVOFLOXACIN, have an increased risk of swelling of the large artery that carries blood from the heart to the body (aortic aneurysm) and tearing (dissection) of this artery.
+  Tell your healthcare provider if you have ever been told that you have an aortic aneurysm.
+  Get emergency medical help right away if you have sudden chest, stomach, or back pain.
 - Intestine infection (Pseudomembranous colitis) Pseudomembranous colitis can happen with many antibiotics, including LEVOFLOXACIN.
   Call your healthcare provider right away if you get watery diarrhea, diarrhea that does not go away, or bloody stools.
   You may have stomach cramps and a fever.
@@ -242,9 +245,9 @@ LEVOFLOXACIN Injection in 5% dextrose in Single-Use Flexible Containers:
 
 Brands listed are the trademarks of their respective owners.
 
-SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2017 Sagent Pharmaceuticals, Inc.
+SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2019 Sagent Pharmaceuticals, Inc.
 
-Revised: April 2017
+Revised: January 2019
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
