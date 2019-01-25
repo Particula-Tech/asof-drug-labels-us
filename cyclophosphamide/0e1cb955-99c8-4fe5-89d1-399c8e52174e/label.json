@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA211608"
+  ],
+  "inn": "cyclophosphamide",
+  "labeler": "Cipla USA Inc.",
+  "package_ndcs": [
+    "69097-516-07",
+    "69097-517-07"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "cyclophosphamide",
+      "name": "Cyclophosphamide"
+    }
+  ],
+  "setid": "0e1cb955-99c8-4fe5-89d1-399c8e52174e",
+  "source": "dailymed"
+}
