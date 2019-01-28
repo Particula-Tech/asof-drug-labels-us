@@ -1,9 +1,31 @@
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL SECTION
+PACKAGE CARTON – Gemcitabine For Injection 200 mg carton 1ct
 
-200 mg Vial Label
+Sterile Single-Dose Vial
 
-200 mg Vial Carton
+Discard Unused Portion
 
-1 g Vial
+NDC 55111-686-07
 
-1 g Vial carton
+Gemcitabine For Injection, USP
+
+200 mg/vial
+
+Rx only
+
+For Intravenous Use Only
+
+PACKAGE CARTON – Gemcitabine For Injection 1 g carton 1ct
+
+Sterile Single-Dose Vial
+
+Discard Unused Portion
+
+NDC 55111-687-25
+
+Gemcitabine For Injection, USP
+
+1 g/vial
+
+Rx only
+
+For Intravenous Use Only
