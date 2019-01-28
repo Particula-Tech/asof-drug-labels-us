@@ -24,7 +24,7 @@ If given before succinylcholine is metabolized by cholinesterase, anticholineste
 
 Succinylcholine has no direct effect on the myocardium.
 Succinylcholine stimulates both autonomic ganglia and muscarinic receptors which may cause changes in cardiac rhythm, including cardiac arrest.
-Changes in rhythm, including cardiac arrest, may also result from vagal stimulation, which may occur during surgical procedures, or from hyperkalemia, particularly in children (see PRECAUTIONS: Pediatric Use).
+Changes in rhythm, including cardiac arrest, may also result from vagal stimulation, which may occur during surgical procedures, or from hyperkalemia, particularly in pediatric patients (see PRECAUTIONS: Pediatric Use).
 These effects are enhanced by halogenated anesthetics.
 
 Succinylcholine causes an increase in intraocular pressure immediately after its injection and during the fasciculation phase, and slight increases which may persist after onset of complete paralysis (see WARNINGS).

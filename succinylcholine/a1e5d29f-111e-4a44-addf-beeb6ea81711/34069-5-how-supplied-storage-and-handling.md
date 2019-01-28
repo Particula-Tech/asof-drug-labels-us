@@ -1,20 +1,16 @@
 # HOW SUPPLIED
 
-For immediate injection of single doses for short procedures: ANECTINE (succinylcholine chloride) Injection, 20 mg in each mL.
-
-Multiple-dose vials of 10 mL, box of 10 vials (NDC 0781-3411-95).
+ANECTINE (Succinylcholine Chloride Injection, USP) is supplied as a clear, colorless solution in Multiple-dose vials 200 mg/10 mL (20 mg/mL), box of 10 vials (NDC 0781-3411-95).
 
 Store in refrigerator at 2° to 8°C (36° to 46°F).
 The multi-dose vials are stable for up to 14 days at room temperature without significant loss of potency.
 
 Manufactured in Canada by
 
-Sandoz Canada Inc. for
+Avara Boucherville Pharmaceutical Services, Inc. for
 
-Sandoz Inc.
+Sandoz Inc., Princeton, NJ 08540
 
-Princeton, NJ 08540
+Revised September 2018
 
-08-2016
-
-46061743
+46227453

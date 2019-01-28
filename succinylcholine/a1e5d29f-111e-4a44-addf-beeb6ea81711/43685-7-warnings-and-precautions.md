@@ -1,12 +1,12 @@
 # WARNINGS
 
-SUCCINYLCHOLINE SHOULD BE USED ONLY BY THOSE SKILLED IN THE MANAGEMENT OF ARTIFICIAL RESPIRATION AND ONLY WHEN FACILITIES ARE INSTANTLY AVAILABLE FOR TRACHEAL INTUBATION AND FOR PROVIDING ADEQUATE VENTILATION OF THE PATIENT, INCLUDING THE ADMINISTRATION OF OXYGEN UNDER POSITIVE PRESSURE AND THE ELIMINATION OF CARBON DIOXIDE.
-THE CLINICIAN MUST BE PREPARED TO ASSIST OR CONTROL RESPIRATION.
+Succinylcholine should be used only by those skilled in the management of artificial respiration and only when facilities are instantly available for tracheal intubation and for providing adequate ventilation of the patient, including the administration of oxygen under positive pressure and the elimination of carbon dioxide.
+The clinician must be prepared to assist or control respiration.
 
-TO AVOID DISTRESS TO THE PATIENT, SUCCINYLCHOLINE SHOULD NOT BE ADMINISTERED BEFORE UNCONSCIOUSNESS HAS BEEN INDUCED.
-IN EMERGENCY SITUATIONS, HOWEVER, IT MAY BE NECESSARY TO ADMINISTER SUCCINYLCHOLINE BEFORE UNCONSCIOUSNESS IS INDUCED.
+To avoid distress to the patient, succinylcholine should not be administered before unconsciousness has been induced.
+In emergency situations, however, it may be necessary to administer succinylcholine before unconsciousness is induced.
 
-SUCCINYLCHOLINE IS METABOLIZED BY PLASMA CHOLINESTERASE AND SHOULD BE USED WITH CAUTION, IF AT ALL, IN PATIENTS KNOWN TO BE OR SUSPECTED OF BEING HOMOZYGOUS FOR THE ATYPICAL PLASMA CHOLINESTERASE GENE.
+Succinylcholine is metabolized by plasma cholinesterase and should be used with caution, if at all, in patients known to be or suspected of being homozygous for the atypical plasma cholinesterase gene.
 
 ## Anaphylaxis
 
@@ -14,6 +14,12 @@ Severe anaphylactic reactions to neuromuscular blocking agents, including ANECTI
 These reactions have in some cases been life-threatening and fatal.
 Due to the potential severity of these reactions, the necessary precautions, such as the immediate availability of appropriate emergency treatment, should be taken.
 Precautions should also be taken in those individuals who have had previous anaphylactic reactions to other neuromuscular blocking agents since cross-reactivity between neuromuscular blocking agents, both depolarizing and non-depolarizing, has been reported in this class of drugs.
+
+## Risk of Death due to Medication Errors
+
+Administration of ANECTINE results in paralysis, which may lead to respiratory arrest and death; this progression may be more likely to occur in a patient for whom it is not intended.
+Confirm proper selection of intended product and avoid confusion with other injectable solutions that are present in critical care and other clinical settings.
+If another healthcare provider is administering the product, ensure that the intended dose is clearly labeled and communicated.
 
 ## Hyperkalemia
 
@@ -40,14 +46,14 @@ Continuous monitoring of temperature and expired CO2 is recommended as an aid to
 
 ## Other
 
-In both adults and children, the incidence of bradycardia, which may progress to asystole, is higher following a second dose of succinylcholine.
-The incidence and severity of bradycardia is higher in children than in adults.
+In both adults and pediatric patients, the incidence of bradycardia, which may progress to asystole, is higher following a second dose of succinylcholine.
+The incidence and severity of bradycardia is higher in pediatric patients than in adults.
 Pretreatment with anticholinergic agents (e.g., atropine) may reduce the occurrence of bradyarrhythmias.
 
 Succinylcholine causes an increase in intraocular pressure.
 It should not be used in instances in which an increase in intraocular pressure is undesirable (e.g., narrow angle glaucoma, penetrating eye injury) unless the potential benefit of its use outweighs the potential risk.
 
-Succinylcholine is acidic (pH = 3.5) and should not be mixed with alkaline solutions having a pH greater than 8.5 (e.g., barbiturate solutions).
+Succinylcholine is acidic (pH=3.5) and should not be mixed with alkaline solutions having a pH greater than 8.5 (e.g., barbiturate solutions).
 
 # PRECAUTIONS
 
@@ -103,26 +109,30 @@ If other neuromuscular blocking agents are to be used during the same procedure,
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-There have been no long-term studies performed in animals to evaluate carcinogenic potential.
+There have been no long-term studies performed in animals to evaluate carcinogenic potential of succinylcholine.
+Genetic toxicology studies have not been completed to evaluate the genotoxic potential of succinylcholine.
+There are no studies to evaluate the potential impact of succinylcholine on fertility.
 
 ## Pregnancy
 
-### Teratogenic Effects
+Risk Summary
 
-#### Pregnancy Category C
-
-Animal reproduction studies have not been conducted with succinylcholine chloride.
 It is also not known whether succinylcholine can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
+Animal reproduction studies have not been conducted with succinylcholine chloride.
 Succinylcholine should be given to a pregnant woman only if clearly needed.
 
-### Nonteratogenic Effects
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+Clinical Considerations
 
 Plasma cholinesterase levels are decreased by approximately 24% during pregnancy and for several days postpartum.
 Therefore, a higher proportion of patients may be expected to show increased sensitivity (prolonged apnea) to succinylcholine when pregnant than when nonpregnant.
 
 ## Labor and Delivery
 
-Succinylcholine is commonly used to provide muscle relaxation during delivery by cesarean section.
+Succinylcholine is commonly used to provide muscle relaxation during delivery by Cesarean section.
 While small amounts of succinylcholine are known to cross the placental barrier, under normal conditions the quantity of drug that enters fetal circulation after a single dose of 1 mg/kg to the mother should not endanger the fetus.
 However, since the amount of drug that crosses the placental barrier is dependent on the concentration gradient between the maternal and fetal circulations, residual neuromuscular blockade (apnea and flaccidity) may occur in the neonate after repeated high doses to, or in the presence of atypical plasma cholinesterase in, the mother.
 
@@ -133,10 +143,10 @@ Because many drugs are excreted in human milk, caution should be exercised follo
 
 ## Pediatric Use
 
-There are rare reports of ventricular dysrhythmias and cardiac arrest secondary to acute rhabdomyolysis with hyperkalemia in apparently healthy children who receive succinylcholine (see BOX WARNING).
-Many of these children were subsequently found to have a skeletal muscle myopathy such as Duchenne’s muscular dystrophy whose clinical signs were not obvious.
+There are rare reports of ventricular dysrhythmias and cardiac arrest secondary to acute rhabdomyolysis with hyperkalemia in apparently healthy pediatric patients who receive succinylcholine (see BOX WARNING).
+Many of these pediatric patients were subsequently found to have a skeletal muscle myopathy such as Duchenne’s muscular dystrophy whose clinical signs were not obvious.
 The syndrome often presents as sudden cardiac arrest within minutes after the administration of succinylcholine.
-These children are usually, but not exclusively, males, and most frequently 8 years of age or younger.
+These pediatric patients are usually, but not exclusively, males, and most frequently 8 years of age or younger.
 There have also been reports in adolescents.
 There may be no signs or symptoms to alert the practitioner to which patients are at risk.
 A careful history and physical may identify developmental delays suggestive of a myopathy.
@@ -146,8 +156,8 @@ Careful monitoring of the electrocardiogram may alert the practitioner to peaked
 Administration of IV calcium, bicarbonate, and glucose with insulin, with hyperventilation have resulted in successful resuscitation in some of the reported cases.
 Extraordinary and prolonged resuscitative efforts have been effective in some cases.
 In addition, in the presence of signs of malignant hyperthermia, appropriate treatment should be initiated concurrently (see WARNINGS).
-Since it is difficult to identify which patients are at risk, it is recommended that the use of succinylcholine in children should be reserved for emergency intubation or instances where immediate securing of the airway is necessary, e.g., laryngospasm, difficult airway, full stomach, or for intramuscular use when a suitable vein is inaccessible.
+Since it is difficult to identify which patients are at risk, it is recommended that the use of succinylcholine in pediatric patients should be reserved for emergency intubation or instances where immediate securing of the airway is necessary, e.g., laryngospasm, difficult airway, full stomach, or for intramuscular use when a suitable vein is inaccessible.
 
-As in adults, the incidence of bradycardia in children is higher following the second dose of succinylcholine.
-The incidence and severity of bradycardia is higher in children than in adults.
+As in adults, the incidence of bradycardia in pediatric patients is higher following the second dose of succinylcholine.
+The incidence and severity of bradycardia is higher in pediatric patients than in adults.
 Pretreatment with anticholinergic agents, e.g., atropine, may reduce the occurrence of bradyarrhythmias.

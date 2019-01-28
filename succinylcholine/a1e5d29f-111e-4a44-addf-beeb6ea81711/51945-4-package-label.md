@@ -6,17 +6,16 @@ Anectine®
 
 (succinylcholine chloride injection, USP)
 
-200 mg/10 mL (20 mg/mL)
+200 mg/10 mL
 
-WARNING: Paralyzing Agent.
-Causes Respiratory Arrest.
+(20 mg/mL)
 
-Facilities must be immediately available for artificial respiration.
+WARNING: Paralyzing Agent
+
+For Intravenous Use
 
 Rx only
 
 10 x 10 mL Multiple-Dose Vials
 
-SANDOZ
-
-a Novartis company
+SANDOZ - A Novartis Division

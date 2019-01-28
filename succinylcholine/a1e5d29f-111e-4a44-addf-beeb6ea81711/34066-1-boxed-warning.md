@@ -2,9 +2,9 @@
 
 RISK OF CARDIAC ARREST FROM HYPERKALEMIC RHABDOMYOLYSIS
 
-There have been rare reports of acute rhabdomyolysis with hyperkalemia followed by ventricular dysrhythmias, cardiac arrest, and death after the administration of succinylcholine to apparently healthy children who were subsequently found to have undiagnosed skeletal muscle myopathy, most frequently Duchenne's muscular dystrophy.
+There have been rare reports of acute rhabdomyolysis with hyperkalemia followed by ventricular dysrhythmias, cardiac arrest, and death after the administration of succinylcholine to apparently healthy pediatric patients who were subsequently found to have undiagnosed skeletal muscle myopathy, most frequently Duchenne's muscular dystrophy.
 
-This syndrome often presents as peaked T-waves and sudden cardiac arrest within minutes after the administration of the drug in healthy appearing children (usually, but not exclusively, males, and most frequently 8 years of age or younger).
+This syndrome often presents as peaked T-waves and sudden cardiac arrest within minutes after the administration of the drug in healthy appearing pediatric patients (usually, but not exclusively, males, and most frequently 8 years of age or younger).
 There have also been reports in adolescents.
 
 Therefore, when a healthy appearing infant or child develops cardiac arrest soon after administration of succinylcholine not felt to be due to inadequate ventilation, oxygenation, or anesthetic overdose, immediate treatment for hyperkalemia should be instituted.
@@ -13,4 +13,4 @@ Due to the abrupt onset of this syndrome, routine resuscitative measures are lik
 However, extraordinary and prolonged resuscitative efforts have resulted in successful resuscitation in some reported cases.
 In addition, in the presence of signs of malignant hyperthermia, appropriate treatment should be instituted concurrently.
 
-Since there may be no signs or symptoms to alert the practitioner to which patients are at risk, it is recommended that the use of succinylcholine in children should be reserved for emergency intubation or instances where immediate securing of the airway is necessary, e.g. laryngospasm, difficult airway, full stomach, or for intramuscular use when a suitable vein is inaccessible (see PRECAUTIONS: Pediatric Use and DOSAGE AND ADMINISTRATION).
+Since there may be no signs or symptoms to alert the practitioner to which patients are at risk, it is recommended that the use of succinylcholine in pediatric patients should be reserved for emergency intubation or instances where immediate securing of the airway is necessary, e.g. laryngospasm, difficult airway, full stomach, or for intramuscular use when a suitable vein is inaccessible (see PRECAUTIONS: Pediatric Use and DOSAGE AND ADMINISTRATION).

@@ -5,7 +5,7 @@ ANECTINE (succinylcholine chloride) is an ultra short-acting depolarizing-type, 
 Succinylcholine chloride is a white, odorless, slightly bitter powder and very soluble in water.
 The drug is unstable in alkaline solutions but relatively stable in acid solutions, depending upon the concentration of the solution and the storage temperature.
 Solutions of succinylcholine chloride should be stored under refrigeration to preserve potency.
-ANECTINE Injection is a sterile nonpyrogenic solution for IV injection, containing 20 mg succinylcholine chloride in each mL and made isotonic with sodium chloride.
+ANECTINE Injection is a sterile nonpyrogenic solution for intravenous (IV) injection, containing 20 mg succinylcholine chloride in each mL and made isotonic with sodium chloride.
 The pH is adjusted to 3.5 with hydrochloric acid.
 Methylparaben (0.1%) is added as a preservative.
 
