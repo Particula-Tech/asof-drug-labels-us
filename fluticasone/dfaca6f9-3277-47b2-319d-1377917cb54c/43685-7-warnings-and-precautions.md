@@ -187,7 +187,7 @@ To minimize the systemic effects of orally inhaled corticosteroids, including AD
 ## 5.15 Glaucoma and Cataracts
 
 Glaucoma, increased intraocular pressure, and cataracts have been reported in patients with asthma following the long-term administration of ICS, including fluticasone propionate, a component of ADVAIR HFA.
-Therefore, close monitoring is warranted in patients with a change in vision or with a history of increased intraocular pressure, glaucoma, and/or cataracts.
+Consider referral to an ophthalmologist in patients who develop ocular symptoms or use ADVAIR HFA long term [see Adverse Reactions (6)].
 
 ## 5.16 Eosinophilic Conditions and Churg-Strauss Syndrome
 

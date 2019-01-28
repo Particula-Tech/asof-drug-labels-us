@@ -60,9 +60,9 @@ Reduced Growth Velocity
 Inform patients that orally inhaled corticosteroids, including fluticasone propionate, may cause a reduction in growth velocity when administered to pediatric patients.
 Physicians should closely follow the growth of children and adolescents taking corticosteroids by any route.
 
-Ocular Effects
+Glaucoma and Cataracts
 
-Inform patients that long-term use of ICS may increase the risk of some eye problems (cataracts or glaucoma); consider regular eye examinations.
+Advise patients that long-term use of ICS may increase the risk of some eye problems (cataracts or glaucoma); consider regular eye examinations.
 
 Risks Associated with Beta-agonist Therapy
 
@@ -74,6 +74,6 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2017 GSK group of companies or its licensor.
+©2019 GSK group of companies or its licensor.
 
-ADH:12PI
+ADH:13PI

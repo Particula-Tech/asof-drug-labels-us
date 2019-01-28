@@ -2,65 +2,92 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects
+Risk Summary
 
-Pregnancy Category C. There are no adequate and well-controlled trials with ADVAIR HFA in pregnant women.
-Corticosteroids and beta2-agonists have been shown to be teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
-Because animal reproduction studies are not always predictive of human response, ADVAIR HFA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-Women should be advised to contact their physicians if they become pregnant while taking ADVAIR HFA.
+There are insufficient data on the use of ADVAIR HFA or individual monoproducts, fluticasone propionate and salmeterol xinafoate, in pregnant women.
+There are clinical considerations with the use of ADVAIR HFA in pregnant women.
+(See Clinical Considerations.)
+In animals, teratogenicity characteristic of corticosteroids, decreased fetal body weight and/or skeletal variations, in rats, mice, and rabbits were observed with subcutaneously administered maternal toxic doses of fluticasone propionate less than the maximum recommended human daily inhaled dose (MRHDID) on a mcg/m2 basis.
+(See Data.)
+However, fluticasone propionate administered via inhalation to rats decreased fetal body weight but did not induce teratogenicity at a maternal toxic dose less than the MRHDID on a mcg/m2 basis.
+(See Data.)
+Experience with oral corticosteroids suggests that rodents are more prone to teratogenic effects from corticosteroids than humans.
+Oral administration of salmeterol to pregnant rabbits caused teratogenicity characteristic of beta-adrenoceptor stimulation at maternal doses approximately 25 times the MRHDID on an AUC basis.
+These adverse effects generally occurred at large multiples of the MRHDID when salmeterol was administered by the oral route to achieve high systemic exposures.
+No such effects occurred at an oral salmeterol dose approximately 10 times the MRHDID.
+(See Data.)
 
-Fluticasone Propionate and Salmeterol: In the mouse reproduction assay, fluticasone propionate at a dose approximately equivalent to the maximum recommended human daily inhalation dose (MRHDID) (on a mcg/m2 basis at a maternal subcutaneous dose of 150 mcg/kg) combined with salmeterol at a dose approximately 580 times the MRHDID (on a mg/m2 basis at a maternal oral dose of 10 mg/kg) produced cleft palate, fetal death, increased implantation loss, and delayed ossification.
-These observations are characteristic of glucocorticoids.
-No developmental toxicity was observed at combination doses of fluticasone propionate up to approximately 1/5 the MRHDID (on a mcg/m2 basis at a maternal subcutaneous dose of 40 mcg/kg) and doses of salmeterol up to approximately 80 times the MRHDID (on a mg/m2 basis at a maternal oral dose of 1.4 mg/kg).
+The estimated risk of major birth defects and miscarriage for the indicated population is unknown.
+In the U.S. general population, the estimated risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-In rats, combining fluticasone propionate at a dose equivalent to the MRHDID (on a mcg/m2 basis at a maternal subcutaneous dose of 100 mcg/kg) and a dose of salmeterol at approximately 1,200 times the MRHDID (on a mg/m2 basis at a maternal oral dose of 10 mg/kg) produced decreased fetal weight, umbilical hernia, delayed ossification, and changes in the occipital bone.
-No such effects were seen when combining fluticasone propionate at a dose less than the MRHDID (on a mcg/m2 basis at a maternal subcutaneous dose of 30 mcg/kg) and a dose of salmeterol at approximately 120 times the MRHDID (on a mg/m2 basis at a maternal oral dose of 1 mg/kg).
+Clinical Considerations
 
-Fluticasone Propionate: Mice and rats at fluticasone propionate doses less than or equivalent to the MRHDID (on a mcg/m2 basis at maternal subcutaneous doses of 45 and 100 mcg/kg, respectively) showed fetal toxicity characteristic of potent corticosteroid compounds, including embryonic growth retardation, omphalocele, cleft palate, and retarded cranial ossification.
-No teratogenicity was seen in rats at doses approximately equivalent to the MRHDID (on a mcg/m2 basis at maternal inhaled doses up to 68.7 mcg/kg).
+Disease-Associated Maternal and/or Embryofetal Risk: In women with poorly or moderately controlled asthma, there is an increased risk of several perinatal outcomes such as pre‑eclampsia in the mother and prematurity, low birth weight, and small for gestational age in the neonate.
+Pregnant women should be closely monitored and medication adjusted as necessary to maintain optimal control of asthma.
 
-In rabbits, fetal weight reduction and cleft palate were observed at a fluticasone propionate dose less than the MRHDID (on a mcg/m2 basis at a maternal subcutaneous dose of 4 mcg/kg).
-However, no teratogenic effects were reported at fluticasone propionate doses up to approximately 6 times the MRHDID (on a mcg/m2 basis at maternal oral doses up to 300 mcg/kg).
-No fluticasone propionate was detected in the plasma in this study, consistent with the established low bioavailability following oral administration [see Clinical Pharmacology (12.3)].
+Labor and Delivery: There are no human studies evaluating the effects of ADVAIR HFA during labor and delivery.
+Because of the potential for beta-agonist interference with uterine contractility, use of ADVAIR HFA during labor should be restricted to those patients in whom the benefits clearly outweigh the risks.
+
+Data
+
+Human Data:Fluticasone Propionate: Following inhaled administration, fluticasone propionate was detected in the neonatal cord blood after delivery.
+
+Animal Data:Fluticasone Propionate and Salmeterol: In an embryofetal development study with pregnant rats that received the combination of subcutaneous administration of fluticasone propionate and oral administration of salmeterol at doses of 0/1,000; 30/0; 10/100; 30/1,000; and 100/10,000 mcg/kg/day (as fluticasone propionate/salmeterol) during the period of organogenesis, findings were generally consistent with the individual monoproducts and there was no exacerbation of expected fetal effects.
+Omphalocele, increased embryofetal deaths, decreased body weight, and skeletal variations were observed in rat fetuses in the presence of maternal toxicity when combining fluticasone propionate at a dose approximately equivalent to the MRHDID (on a mcg/m2 basis at a maternal subcutaneous dose of 100 mcg/kg/day) and salmeterol at a dose approximately 1,200 times the MRHDID (on a mcg/m2 basis at a maternal oral dose of 10,000 mcg/kg/day).
+The rat no observed adverse effect level (NOAEL) was observed when combining fluticasone propionate at a dose less than the MRHDID (on a mcg/m2 basis at a maternal subcutaneous dose of 30 mcg/kg/day) and salmeterol at a dose approximately 120 times the MRHDID (on a mcg/m2 basis at a maternal oral dose of 1,000 mcg/kg/day).
+
+In an embryofetal development study with pregnant mice that received the combination of subcutaneous administration of fluticasone propionate and oral administration of salmeterol at doses of 0/1,400; 40/0; 10/200; 40/1,400; or 150/10,000 mcg/kg/day (as fluticasone propionate/salmeterol) during the period of organogenesis, findings were generally consistent with the individual monoproducts and there was no exacerbation of expected fetal effects.
+Cleft palate, fetal death, increased implantation loss, and delayed ossification were observed in mouse fetuses when combining fluticasone propionate at a dose approximately equivalent to the MRHDID (on a mcg/m2 basis at a maternal subcutaneous dose of 150 mcg/kg/day) and salmeterol at a dose approximately 580 times the MRHDID (on a mcg/m2 basis at a maternal oral dose of 10,000 mcg/kg/day).
+No developmental toxicity was observed at combination doses of fluticasone propionate up to approximately 0.2 times the MRHDID (on a mcg/m2 basis at a maternal subcutaneous dose of 40 mcg/kg) and doses of salmeterol up to approximately 80 times the MRHDID (on a mcg/m2 basis at a maternal oral dose of 1,400 mcg/kg).
+
+Fluticasone Propionate: In embryofetal development studies with pregnant rats and mice dosed by the subcutaneous route throughout the period of organogenesis, fluticasone propionate was teratogenic in both species.
+Omphalocele, decreased body weight, and skeletal variations were observed in rat fetuses, in the presence of maternal toxicity, at a dose approximately equivalent to the MRHDID (on a mcg/m2 basis with a maternal subcutaneous dose of 100 mcg/kg/day).
+The rat NOAEL was observed at approximately 0.3 times the MRHDID (on a mcg/m2 basis with a maternal subcutaneous dose of 30 mcg/kg/day).
+Cleft palate and fetal skeletal variations were observed in mouse fetuses at a dose approximately 0.2 times the MRHDID (on a mcg/m2 basis with a maternal subcutaneous dose of 45 mcg/kg/day).
+The mouse NOAEL was observed with a dose approximately 0.08 times the MRHDID (on a mcg/m2 basis with a maternal subcutaneous dose of 15 mcg/kg/day).
+
+In an embryofetal development study with pregnant rats dosed by the inhalation route throughout the period of organogenesis, fluticasone propionate produced decreased fetal body weights and skeletal variations, in the presence of maternal toxicity, at a dose approximately 0.3 times the MRHDID (on a mcg/m2 basis with a maternal inhalation dose of 25.7 mcg/kg/day); however, there was no evidence of teratogenicity.
+The NOAEL was observed with a dose approximately 0.05 times the MRHDID (on a mcg/m2 basis with a maternal inhalation dose of 5.5 mcg/kg/day).
+
+In an embryofetal development study in pregnant rabbits that were dosed by the subcutaneous route throughout organogenesis, fluticasone propionate produced reductions of fetal body weights, in the presence of maternal toxicity, at doses less than the MRHDID (on a mcg/m2 basis with a maternal subcutaneous dose of 0.57 mcg/kg/day).
+Teratogenicity was evident based upon a finding of cleft palate for 1 fetus at a dose approximately 0.09 times the MRHDID (on a mcg/m2 basis with a maternal subcutaneous dose of 4 mcg/kg/day).
+The NOAEL was observed in rabbit fetuses with a dose approximately 0.002 times the MRHDID (on a mcg/m2 basis with a maternal subcutaneous dose of 0.08 mcg/kg/day).
 
 Fluticasone propionate crossed the placenta following subcutaneous administration to mice and rats and oral administration to rabbits.
 
-Experience with oral corticosteroids since their introduction in pharmacologic, as opposed to physiologic, doses suggests that rodents are more prone to teratogenic effects from corticosteroids than humans.
-In addition, because there is a natural increase in corticosteroid production during pregnancy, most women will require a lower exogenous corticosteroid dose and many will not need corticosteroid treatment during pregnancy.
+In a pre- and post-natal development study in pregnant rats dosed by the subcutaneous route from late gestation through delivery and lactation (Gestation Day 17 to Postpartum Day 22), fluticasone propionate was not associated with decreases in pup body weight and had no effects on developmental landmarks, learning, memory, reflexes, or fertility at doses up to 0.5 times the MRHDID (on a mcg/m2 basis with maternal subcutaneous doses up to 50 mcg/kg/day).
 
-Salmeterol: No teratogenic effects occurred in rats at salmeterol doses approximately 230 times the MRHDID (on a mg/m2 basis at maternal oral doses up to 2 mg/kg).
-In pregnant Dutch rabbits administered salmeterol doses approximately 25 times the MRHDID (on an AUC basis at maternal oral doses of 1 mg/kg and higher), salmeterol exhibited fetal toxic effects characteristically resulting from beta-adrenoceptor stimulation.
+Salmeterol: In 3 embryofetal development studies, pregnant rabbits received oral administration of salmeterol at doses ranging from 100 to 10,000 mcg/kg/day during the period of organogenesis.
+In pregnant Dutch rabbits administered salmeterol doses approximately 25 times the MRHDID (on an AUC basis at maternal oral doses of 1,000 mcg/kg/day and higher), fetal toxic effects were observed characteristically resulting from beta-adrenoceptor stimulation.
 These included precocious eyelid openings, cleft palate, sternebral fusion, limb and paw flexures, and delayed ossification of the frontal cranial bones.
-No such effects occurred at a salmeterol dose approximately 10 times the MRHDID (on an AUC basis at a maternal oral dose of 0.6 mg/kg).
+No such effects occurred at a salmeterol dose approximately 10 times the MRHDID (on an AUC basis at a maternal oral dose of 600 mcg/kg/day).
+New Zealand White rabbits were less sensitive since only delayed ossification of the frontal cranial bones was seen at a salmeterol dose approximately 2,300 times the MRHDID (on a mcg/m2 basis at a maternal oral dose of 10,000 mcg/kg/day).
 
-New Zealand White rabbits were less sensitive since only delayed ossification of the frontal cranial bones was seen at a salmeterol dose approximately 2,300 times the MRHDID (on a mg/m2 basis at a maternal oral dose of 10 mg/kg).
+In 2 embryofetal development studies, pregnant rats received salmeterol by oral administration at doses ranging from 100 to 10,000 mcg/kg/day during the period of organogenesis.
+Salmeterol produced no maternal toxicity or embryofetal effects at doses up to approximately 1,200 times the MRHDID (on a mcg/m2 basis at maternal oral doses up to 10,000 mcg/kg/day).
+
+In a peri- and post-natal development study in pregnant rats dosed by the oral route from late gestation through delivery and lactation, salmeterol at a dose approximately 1,200 times the MRHDID (on a mcg/m2 basis with a maternal oral dose of 10,000 mcg/kg/day) was fetotoxic and decreased the fertility of survivors.
+
 Salmeterol xinafoate crossed the placenta following oral administration to mice and rats.
 
-Nonteratogenic Effects
+## 8.2 Lactation
 
-Hypoadrenalism may occur in infants born of mothers receiving corticosteroids during pregnancy.
-Such infants should be carefully monitored.
+Risk Summary
 
-## 8.2 Labor and Delivery
+There are no available data on the presence of fluticasone propionate or salmeterol in human milk, the effects on the breastfed child, or the effects on milk production.
+Other corticosteroids have been detected in human milk.
+However, fluticasone propionate and salmeterol concentrations in plasma after inhaled therapeutic doses are low and therefore concentrations in human breast milk are likely to be correspondingly low [see Clinical Pharmacology (12.3)].
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for ADVAIR HFA and any potential adverse effects on the breastfed child from ADVAIR HFA or from the underlying maternal condition.
 
-There are no well-controlled human trials that have investigated effects of ADVAIR HFA on preterm labor or labor at term.
-Because of the potential for beta-agonist interference with uterine contractility, use of ADVAIR HFA during labor should be restricted to those patients in whom the benefits clearly outweigh the risks.
+Data
 
-## 8.3 Nursing Mothers
-
-Plasma levels of salmeterol, a component of ADVAIR HFA, after inhaled therapeutic doses are very low.
-In rats, salmeterol xinafoate is excreted in the milk.
-There are no data from controlled trials on the use of salmeterol by nursing mothers.
-It is not known whether fluticasone propionate, a component of ADVAIR HFA, is excreted in human breast milk.
-However, other corticosteroids have been detected in human milk.
-Subcutaneous administration to lactating rats of tritiated fluticasone propionate resulted in measurable radioactivity in milk.
-
-Since there are no data from controlled trials on the use of ADVAIR HFA by nursing mothers, caution should be exercised when ADVAIR HFA is administered to a nursing woman.
+Animal Data: Subcutaneous administration of tritiated fluticasone propionate at a dose of 10 mcg/kg/day to lactating rats resulted in measurable levels in milk.
+Oral administration of salmeterol at a dose of 10,000 mcg/kg/day to lactating rats resulted in measurable levels in milk.
 
 ## 8.4 Pediatric Use
 
 Thirty-eight (38) subjects aged 12 to 17 years were treated with ADVAIR HFA in U.S. pivotal clinical trials.
-Subjects in this age-group demonstrated efficacy results similar to those observed in subjects aged 18 years and older.
+Subjects in this age group demonstrated efficacy results similar to those observed in subjects aged 18 years and older.
 There were no obvious differences in the type or frequency of adverse events reported in this age group compared with subjects aged 18 years and older.
 
 In a 12-week trial, the safety of ADVAIR HFA 45/21 given as 2 inhalations twice daily was compared with that of fluticasone propionate 44 mcg HFA (FLOVENT HFA) 2 inhalations twice daily in 350 subjects aged 4 to 11 years with persistent asthma currently being treated with ICS.
