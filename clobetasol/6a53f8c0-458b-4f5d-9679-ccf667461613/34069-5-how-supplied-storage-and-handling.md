@@ -4,8 +4,8 @@
 
 OLUX-E (clobetasol propionate) Foam, 0.05% is a white to off-white aerosol foam supplied as follows:
 
-- 50-g aluminum can NDC 40076-101-50
-- 100-g aluminum can NDC 40076-101-00
+- •50-g aluminum can NDC 40076-101-50
+- •100-g aluminum can NDC 40076-101-00
 
 ## 16.2 Storage and Handling
 
