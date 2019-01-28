@@ -3,10 +3,9 @@
 The following serious and otherwise important adverse drug reactions are discussed in greater detail in other sections of labeling:
 
 - Disabling and Potentially Irreversible Serious Adverse Reactions [see Warnings and Precautions (5.1)]
-- Tendinitis and Tendon Rupture [seeWarnings and Precautions (5.2)]
+- Tendinitis and Tendon Rupture [see Warnings and Precautions (5.2)]
 - Peripheral Neuropathy [see Warnings and Precautions (5.3)]
-- Central Nervous System Effects [see Warnings and Precautions (5.4)]
-- Exacerbation of Myasthenia Gravis [see Warnings and Precautions (5.5)]
+- Central Nervous System Effects [see Warnings and Precautions (5.4)] Exacerbation of Myasthenia Gravis [see Warnings and Precautions (5.5)]
 - Other Serious and Sometimes Fatal Adverse Reactions [see Warnings and Precautions (5.6)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.7)]
 - Hepatotoxicity [see Warnings and Precautions (5.8)]
@@ -121,12 +120,12 @@ Table 10: Postmarketing Reports of Adverse Drug Reactions
 
 ## 6.3 Adverse Laboratory Changes
 
-Changes in laboratory parameters while on ciprofloxacin tablets are listed below:
+Changes in laboratory parameters while on ciprofloxacin tablets are listed below.
 
-Hepatic –Elevations of ALT (SGPT), AST (SGOT), alkaline phosphatase, LDH, serum bilirubin.
+Hepatic - Elevations of ALT (SGPT), AST (SGOT), alkaline phosphate, LDH, serum bilirubin.
 
-Hematologic–Eosinophilia, leukopenia, decreased blood platelets, elevated blood platelets, pancytopenia.
+Hematologic - Eosinophilia, leukopenia, decreased blood platelets, elevated blood platelets, pancytopenia.
 
-Renal–Elevations of serum creatinine, BUN, crystalluria, cylindruria, and hematuria have been reported.
+Renal - Elevations of serum creatinine, BUN, crystalluria, cylindruria, and hematuria have been reported.
 
 Other changes occurring were: elevation of serum gammaglutamyl transferase, elevation of serum amylase, reduction in blood glucose, elevated uric acid, decrease in hemoglobin, anemia, bleeding diathesis, increase in blood monocytes, and leukocytosis.

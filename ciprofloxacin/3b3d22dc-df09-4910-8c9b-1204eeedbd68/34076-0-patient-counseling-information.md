@@ -42,6 +42,7 @@ Inform patients of the following serious adverse reactions that have been associ
   Inform patients to minimize or avoid exposure to natural or artificial sunlight (tanning beds or UVA/B treatment) while taking quinolones.
   If patients need to be outdoors while using quinolones, instruct them to wear loose-fitting clothes that protect skin from sun exposure and discuss other sun protection measures with their physician.
   If a sunburn-like reaction or skin eruption occurs, instruct patients to contact their physician.
+- Blood Glucose Distrubances: Inform the patients that if they are diabetic and are being treated with insulin or an oral hypoglycemic agent and a hypoglycemic reaction occurs, they should discontinue ciprofloxacin tablets and consult a physician.
 
 Antibacterial Resistance
 
@@ -59,9 +60,13 @@ Inform patients to drink fluids liberally while taking ciprofloxacin tablets to 
 Inform patients that antacids containing magnesium, or aluminum, as well as sucralfate, metal cations such as iron, and multivitamin preparations with zinc or didanosine should be taken at least two hours before or six hours after ciprofloxacin tablets administration.
 Ciprofloxacin tablets should not be taken with dairy products (like milk or yogurt) or calcium-fortified juices alone since absorption of ciprofloxacin may be significantly reduced; however, ciprofloxacin tablets may be taken with a meal that contains these products.
 
-Drug Interactions Oral Antidiabetic Agents Inform patients that hypoglycemia has been reported when ciprofloxacin and oral antidiabetic agents were co-administered; if low blood sugar occurs with ciprofloxacin tablets instruct them to consult their physician and that their antibacterial medicine may need to be changed.
+Drug Interactions Oral Antidiabetic Agents
 
-Anthrax and Plague Studies Inform patients given ciprofloxacin tablets for these conditions that efficacy studies could not be conducted in humans for feasibility reasons.
+Inform patients that hypoglycemia has been reported when ciprofloxacin and oral antidiabetic agents were co-administered; if low blood sugar occurs with ciprofloxacin tablets instruct them to consult their physician and that their antibacterial medicine may need to be changed.
+
+Anthrax and Plague Studies
+
+Inform patients given ciprofloxacin tablets for these conditions that efficacy studies could not be conducted in humans for feasibility reasons.
 Therefore, approval for these conditions was based on efficacy studies conducted in animals.
 
 Distributed by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724 USA
@@ -69,4 +74,4 @@ Distributed by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724 USA
 Manufactured by: HIKMA Pharmaceuticals P.O.
 Box 182400 Amman 11118 – Jordan
 
-September 2017
+November 2018

@@ -43,8 +43,8 @@ Ciprofloxacin serum concentrations achieved in humans serve as a surrogate endpo
 A placebo-controlled animal study in rhesus monkeys exposed to an inhaled mean dose of 11 LD50 (~5.5 x 105 spores (range 5-30 LD50) of B. anthracis was conducted.
 The minimal inhibitory concentration (MIC) of ciprofloxacin for the anthrax strain used in this study was 0.08 mcg/mL.
 In the animals studied, mean serum concentrations of ciprofloxacin achieved at expected Tmax (1 hour post-dose) following oral dosing to steady-state ranged from 0.98 mcg/mL to 1.69 mcg/mL.
-Mean steady-state trough concentrations at 12 hours post-dose ranged from 0.12 mcg/mL to 0.19 mcg/mL.10 Mortality due to anthrax for animals that received a 30-day regimen of oral ciprofloxacin beginning 24 hours post-exposure was significantly lower (1/9), compared to the placebo group (9/10) [p= 0.001].
-The one ciprofloxacin-treated animal that died of anthrax did so following the 30-day drug administration period.11
+Mean steady-state trough concentrations at 12 hours post-dose ranged from 0.12 mcg/mL to 0.19 mcg/mL.6 Mortality due to anthrax for animals that received a 30-day regimen of oral ciprofloxacin beginning 24 hours post-exposure was significantly lower (1/9), compared to the placebo group (9/10) [p= 0.001].
+The one ciprofloxacin-treated animal that died of anthrax did so following the 30-day drug administration period.7
 
 More than 9300 persons were recommended to complete a minimum of 60 days of antibacterial prophylaxis against possible inhalational exposure to B. anthracis during 2001.
 Ciprofloxacin tablets were recommended to most of those individuals for all or part of the prophylaxis regimen.

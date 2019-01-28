@@ -1,15 +1,13 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Ciprofloxacin tablets, USP are available as white, round, unscored, film-coated tablets containing 250 mg ciprofloxacin.
+Ciprofloxacin Tablets, USP are available as white, round, film-coated tablets containing 250 mg ciprofloxacin.
 The 250 mg tablet is imprinted with "WW927" on one side.
 
-Ciprofloxacin tablets, USP are also available as white, medium capsule shaped, unscored, film-coated tablets containing 500 mg ciprofloxacin.
-The 500 mg tablet is imprinted with "WW928" on one side.
+Ciprofloxacin Tablets, USP are also available as white, medium capsule shape film-coated tablet containing 500 mg ciprofloxacin.
+The 500 mg tablet is engraved with "WW928" from one side and plain from the other side.
 
-Ciprofloxacin tablets, USP are available as white, large capsule shaped, unscored, film-coated tablets containing 750 mg ciprofloxacin.
+Ciprofloxacin Tablets, USP are available as white, large capsule shaped film-coated tablets containing 750 mg ciprofloxacin.
 The 750 mg tablet is imprinted with "WW929" on one side.
-
-Ciprofloxacin tablets, USP 250 mg and 500 mg are available in bottles of 30’s, 100’s and 500’s and unit dose boxes of 100 tablets.
 
 Ciprofloxacin tablets, USP 750 mg are available in bottles of 50’s and 100’s and unit dose boxes of 100 tablets.
 
@@ -22,4 +20,4 @@ Ciprofloxacin tablets, USP 750 mg are available in bottles of 50’s and 100’s
 
 Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
-Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
+Dispense in a tight,light-resistant container as defined in the USP using a child-resistant closure.

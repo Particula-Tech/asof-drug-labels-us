@@ -22,13 +22,13 @@ Long-term carcinogenicity studies in rats and mice resulted in no carcinogenic o
 Results from photo co-carcinogenicity testing indicate that ciprofloxacin tablets does not reduce the time to appearance of UV-induced skin tumors as compared to vehicle control.
 Hairless (Skh-1) mice were exposed to UVA light for 3.5 hours five times every two weeks for up to 78 weeks while concurrently being administered ciprofloxacin tablets.
 The time to development of the first skin tumors was 50 weeks in mice treated concomitantly with UVA and ciprofloxacin tablets (mouse dose approximately equal to maximum recommended human dose based upon body surface area), as opposed to 34 weeks when animals were treated with both UVA and vehicle.
-The times to development of skin tumors ranged from 16 weeks to 32 weeks in mice treated concomitantly with UVA and other quinolones.9
+The times to development of skin tumors ranged from 16 weeks to 32 weeks in mice treated concomitantly with UVA and other quinolones.5
 
 In this model, mice treated with ciprofloxacin tablets alone did not develop skin or systemic tumors.
 There are no data from similar models using pigmented mice and/or fully haired mice.
 The clinical significance of these findings to humans is unknown.
 
-Fertility studies performed in rats at oral doses of ciprofloxacin tablets up to 100 mg/kg (approximately 0.7-times the highest recommended therapeutic dose based upon body surface area) revealed no evidence of impairment.
+Fertility studies in rats at oral doses of ciprofloxacin tablets up to 100 mg/kg (approximately 0.7-times the highest recommended therapeutic dose based upon body surface area) revealed no evidence of impairment.
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 

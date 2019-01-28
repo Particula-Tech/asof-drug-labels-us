@@ -18,13 +18,19 @@ Tendon rupture or swelling of the tendon (tendinitis).
 
 Tendons are tough cords of tissue that connect muscles to bones.
 
-Symptoms of tendon problems may include: ○ Pain, swelling, tears and swelling of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites.
+Symptoms of tendon problems may include:
 
-• The risk of getting tendon problems while you take ciprofloxacin tablets is higher if you: ○ are over 60 years of age ○ are taking steroids (corticosteroids) ○ have had a kidney, heart or lung transplant
+○ Pain, swelling, tears and swelling of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites.
+
+• The risk of getting tendon problems while you take ciprofloxacin tablets is higher if you:
+
+○ are over 60 years of age ○ are taking steroids (corticosteroids) ○ have had a kidney, heart or lung transplant
 
 • Tendon problems can happen in people who do not have the above risk factors when they take ciprofloxacin tablets.
 
-• Other reasons that can increase your risk of tendon problems can include: ○ physical activity or exercise ○ kidney failure ○ tendon problems in the past, such as in people with rheumatoid arthritis (RA)
+• Other reasons that can increase your risk of tendon problems can include:
+
+○ physical activity or exercise ○ kidney failure ○ tendon problems in the past, such as in people with rheumatoid arthritis (RA)
 
 • Stop taking ciprofloxacin tablets immediately and get medical help right away at the first sign of tendon pain, swelling or inflammation.
 
@@ -34,7 +40,9 @@ This can also happen with other tendons.
 • Tendon rupture can happen while you are taking or after you have finished taking ciprofloxacin tablets.
 Tendon ruptures can happen within hours or days of taking ciprofloxacin tablets and have happened up to several months after people have finished taking their fluoroquinolone.
 
-• Stop taking ciprofloxacin tablets immediately and get medical help right away if you get any of the following signs or symptoms of a tendon rupture: ○ hear or feel a snap or pop in a tendon area ○ bruising right after an injury in a tendon area ○ unable to move the affected area or bear weight
+• Stop taking ciprofloxacin tablets immediately and get medical help right away if you get any of the following signs or symptoms of a tendon rupture:
+
+○ hear or feel a snap or pop in a tendon area ○ bruising right after an injury in a tendon area ○ unable to move the affected area or bear weight
 
 2.
 Changes in sensation and possible nerve damage (Peripheral Neuropathy).
@@ -53,15 +61,18 @@ Central Nervous System (CNS) effects.
 Seizures have been reported in people who take fluoroquinolone antibacterial medicines, including ciprofloxacin tablets.
 Tell your healthcare provider if you have a history of seizures before you start taking ciprofloxacin tablets.
 CNS side effects may happen as soon as after taking the first dose of ciprofloxacin tablets.
-Stop taking ciprofloxacin tablets immediately and talk to your healthcare provider right away if you get any of these side effects, or other changes in mood or behavior: ○ seizures ○ hear voices, see things, or sense things that are not there (hallucinations) ○ feel restless ○ tremors ○ feel anxious or nervous ○ confusion ○ depression ○ trouble sleeping ○ nightmares ○ feel lightheaded or dizzy ○ feel more suspicious (paranoia) ○ suicidal thoughts or acts ○ headaches that will not go away, with or without blurred vision
+Stop taking ciprofloxacin tablets immediately and talk to your healthcare provider right away if you get any of these side effects, or other changes in mood or behavior:
+
+○ seizures ○ hear voices, see things, or sense things that are not there (hallucinations) ○ feel restless ○ tremors ○ feel anxious or nervous ○ confusion ○ depression ○ trouble sleeping ○ nightmares ○ feel lightheaded or dizzy ○ feel more suspicious (paranoia) ○ suicidal thoughts or acts ○ headaches that will not go away, with or without blurred vision
 
 4.
 Worsening of myasthenia gravis (a problem that causes muscle weakness).
-Fluoroquinolones like ciprofloxacin tablets may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
+
+Fluroquinolones like ciprofloxacin tablets may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
 Tell your healthcare provider if you have a history of myasthenia gravis before you start taking ciprofloxacin tablets.
 Call your healthcare provider right away if you have any worsening muscle weakness or breathing problems.
 
-What are ciprofloxacin tablets ?
+What are ciprofloxacin tablets?
 
 Ciprofloxacin tablets are a fluoroquinolone antibacterial medicine used in adults age 18 years and older to treat certain infections caused by certain germs called bacteria.
 These bacterial infections include:
@@ -102,9 +113,9 @@ Do not take ciprofloxacin tablets if you:
 
 Ask your healthcare provider if you are not sure.
 
-What should I tell my healthcare provider before taking ciprofloxacin tablets ?
+What should I tell my healthcare provider before taking ciprofloxacin tablets?
 
-Before you take ciprofloxacin tablets tell your healthcare provider if you:
+Before you take Ciprofloxacin tablets tell your healthcare provider if you:
 
 - have tendon problems; ciprofloxacin tablets should not be used in patients who have a history of tendon problems
 - have a disease that causes muscle weakness (myasthenia gravis); ciprofloxacin tablets should not be used in patients who have a known history of myasthenia gravis
@@ -129,22 +140,19 @@ You should not do both.
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
 - Ciprofloxacin tablets and other medicines can affect each other causing side effects.
-- Especially tell your healthcare provider if you take: • a steroid medicine • an anti-psychotic medicine • a tricyclic antidepressant • a water pill (diuretic) • theophylline (such as Theo-24®, Elixophyllin®, Theochron®, Uniphyl®, Theolair®) • a medicine to control your heart rate or rhythm (antiarrhythmics) • an oral anti-diabetes medicine • phenytoin (Fosphenytoin Sodium®, Cerebyx®, Dilantin-125®, Dilantin®, Extended Phenytoin Sodium®, Prompt Phenytoin Sodium®, Phenytek®) • cyclosporine (Gengraf®, Neoral®, Sandimmune®, Sangcya®). • a blood thinner (such as warfarin, Coumadin®, Jantoven®) • methotrexate (Trexall®) • ropinirole (Requip®) • clozapine (Clozaril®, Fazaclo® ODT®) • a Non-Steroidal Anti-Inflammatory Drug (NSAID).
+- Especially tell your healthcare provider if you take: ○ a steroid medicine ○ an anti-psychotic medicine ○ a tricyclic antidepressant ○ a water pill (diuretic) ○ theophylline (such as Theo-24®, Elixophyllin®, Theochron®, Uniphyl®, Theolair®) ○ a medicine to control your heart rate or rhythm (antiarrhythmics) ○ an oral anti-diabetes medicine ○ phenytoin (Fosphenytoin Sodium®, Cerebyx®, Dilantin-125®, Dilantin®, Extended Phenytoin Sodium®, Prompt Phenytoin Sodium®, Phenytek®) ○ cyclosporine (Gengraf®, Neoral®, Sandimmune®, Sangcya®). ○ a blood thinner (such as warfarin, Coumadin®, Jantoven®) ○ methotrexate (Trexall®) ○ ropinirole (Requip®) ○ a Non-Steroidal Anti-Inflammatory Drug (NSAID).
   Many common medicines for pain relief are NSAIDs.
-  Taking an NSAID while you take ciprofloxacin tablets or other fluoroquinolones may increase your risk of central nervous system effects and seizures.
-
-- sildenafil (Viagra®, Revatio®)
-- duloxetine
-- products that contain caffeine
-- probenecid (Probalan®, Col-probenecid ®)
-
+  Taking an NSAID while you take ciprofloxacin tablets or other fluoroquinolones may increase your risk of central nervous system effects and seizures. ○ sildenafil (Viagra®, Revatio®) ○ duloxetin ○ products that contain caffeine ○ probenecid (Probalan®, Col-probenecid®)
 - Certain medicines may keep Ciprofloxacin tablets, from working correctly.
-  Take ciprofloxacin tablets either 2 hours before or 6 hours after taking these medicines, vitamins, or supplements: ○ an antacid, multivitamin, or other medicine or supplements that has magnesium,calcium, aluminum, iron, or zinc ○ sucralfate (Carafate®) ○ didanosine (Videx®, Videx EC®)
+  Take ciprofloxacin tablets either 2 hours before or 6 hours after taking these medicines, vitamins, or supplements:
+- an antacid, multivitamin, or other medicine or supplements that has magnesium,calcium, aluminum, iron, or zinc
+- sucralfate (Carafate®)
+- didanosine (Videx®, Videx EC®)
 
 Ask your healthcare provider for a list of these medicines if you are not sure.
 
 Know the medicines you take.
-Keep a list of them to show your healthcare provider and pharmacist when you get a new medicine.
+Keep a list of them to show your healthcare provider and pharmacist when you get new medicine.
 
 How should I take ciprofloxacin tablets?
 
@@ -212,8 +220,16 @@ Pseudomembranous colitis can happen 2 or more months after you have finished you
 - Joint Problems.
   Increased chance of problems with joints and tissues around joints in children under 18 years old can happen.
   Tell your child’s healthcare provider if your child has any joint problems during or after treatment with ciprofloxacin tablets.
+
 - Sensitivity to sunlight (photosensitivity).
   See “What should I avoid while taking ciprofloxacin tablets?”
+
+Changes in blood sugar
+
+People who take ciprofloxacin tablets and other fluoroquinolone medicines with oral anti-diabetes medicines or with insulin can get low blood sugar (hypoglycemia) and high blood sugar (hyperglycemia).
+Follow your healthcare provider's instructions for how often to check your blood sugar.
+If you have diabetes and you get low blood sugar while taking ciprofloxacin tablets, stop taking ciprofloxacin tablets and call your healthcare provider right away.
+Your antibiotic medicine may need to be changed.
 
 The most common side effects of ciprofloxacin tablets include:
 
@@ -251,7 +267,8 @@ You can ask your healthcare provider or pharmacist for information about ciprofl
 What are the ingredients in ciprofloxacin tablets?
 
 - Active ingredient: ciprofloxacin hydrochloride
-- Inactive ingredients: colloidal silicon dioxide, corn starch, hydrogenated vegetable oil, hypromellose, magnesium stearate, microcrystalline cellulose, polyacrylate dispersion (methylacrylate and ethylacrylate copolymer), polyethylene glycol, purified water, simethicone emulsion, sodium starch glycolate, talc, and titanium dioxide.
+- Inactive ingredients: colloidal silicon dioxide, corn starch, hydrogenated vegetable oil, hypromellose, magnesium stearate, microcrystalline cellulose, purified water, sodium starch glycolate.
+  The film-coating suspension (Opadry white 321A180025) contains the following inactive ingredients: glycerol monocaprylocaprate, macrogol (PEG) polyvinyl alcohol graft copolymer, polyvinyl alcohol, talc and titanium dioxide.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -260,4 +277,4 @@ Distributed by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724 USA
 Manufactured by: HIKMA Pharmaceuticals P.O.
 Box 182400 Amman 11118 – Jordan
 
-Revised September 2016
+Revised November 2018

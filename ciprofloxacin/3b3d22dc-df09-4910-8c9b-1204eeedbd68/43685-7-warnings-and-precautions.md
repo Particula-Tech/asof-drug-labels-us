@@ -34,19 +34,23 @@ Avoid fluoroquinolones, including ciprofloxacin tablets in patients who have pre
 
 ## 5.4 Central Nervous System Effects
 
-Fluoroquinolones, including ciprofloxacin tablets have been associated with an increased risk of central nervous system (CNS) effects, including: convulsions, increased intracranial pressure (including pseudotumor cerebri), and toxic psychosis.
-Ciprofloxacin tablets may also cause central nervous system (CNS) events including: nervousness, agitation, insomnia, anxiety, nightmares, paranoia, dizziness, confusion, tremors, hallucinations, depression, and psychotic reactions have progressed to suicidal ideations/thoughts and self-injurious behavior such as attempted or completed suicide.
+Psychiatric Adverse Reactions
+
+Fluoroquinolones, including ciprofloxacin tablets have been associated with an increased risk of psychiatric adverse reactions, including: toxic psychosis, psychotic reactions progressing to suicidal ideations/thoughts, hallucinations, or paranoia; depression, or self-injurious behavior such as attempted or completed suicide; anxiety, agitation, or nervousness; confusion, delirium, disorientation, or disturbances in attention; insomnia or nightmares; memory impairment.
 These reactions may occur following the first dose.
 Advise patients receiving ciprofloxacin tablets to inform their healthcare provider immediately if these reactions occur, discontinue the drug, and institute appropriate care.
+
+Central Nervous System Adverse Reactions
+
+Fluoroquinolones, including ciprofloxacin tablets have been associated with an increased risk of seizures (convulsions), increased intracranial pressure (pscudotumor cerebri), dizziness, and tremors.
 Ciprofloxacin tablets, like other fluoroquinolones, is known to trigger seizures or lower the seizure threshold.
-As with all fluoroquinolones, use ciprofloxacin tablets with caution in epileptic patients and patients with known or suspected CNS disorders that may predispose to seizures or lower the seizure threshold (for example, severe cerebral arteriosclerosis, previous history of convulsion, reduced cerebral blood flow, altered brain structure, or stroke), or in the presence of other risk factors that may predispose to seizures or lower the seizure threshold (for example, certain drug therapy, renal dysfunction).
-Use ciprofloxacin tablets when the benefits of treatment exceed the risks, since these patients are endangered because of possible undesirable CNS side effects.
 Cases of status epilepticus have been reported.
-If seizures occur, discontinue ciprofloxacin tablets [see Adverse Reactions (6.1) and Drug Interactions (7)].
+As with all fluoroquinolones, use ciprofloxacin tablets with caution in epileptic patients and patients with known or suspected CNS disorders that may predispose to seizures or lower the seizure threshold (for example, severe cerebral arteriosclerosis, previous history of convulsion, reduced cerebral blood flow, altered brain structure, or stroke), or in the presence of other risk factors that may predispose to seizures or lower the seizure threshold (for example, certain drug therapy, renal dysfunction).
+If seizures occur, discontinue ciprofloxacin tablets and institute appropriate care [see Adverse Reactions (6.1) and Drug Interactions (7)].
 
 ## 5.5 Exacerbation of Myasthenia Gravis
 
-Fluoroquinolones, including ciprofloxacin tablets have neuromuscular blocking activity and may exacerbate muscle weakness in patients with myasthenia gravis.
+Fluoroquinolones, including ciprofloxacin tablets, have neuromuscular blocking activity and may exacerbate muscle weakness in patients with myasthenia gravis.
 Postmarketing serious adverse reactions, including deaths and requirement for ventilatory support, have been associated with fluoroquinolone use in patients with myasthenia gravis.
 Avoid ciprofloxacin tablets in patients with known history of myasthenia gravis [see Adverse Reactions (6.2)].
 
@@ -149,3 +153,11 @@ Crystals of ciprofloxacin have been observed rarely in the urine of human subjec
 Crystalluria related to ciprofloxacin tablets has been reported only rarely in humans because human urine is usually acidic.
 Avoid alkalinity of the urine in patients receiving ciprofloxacin tablets.
 Hydrate patients well to prevent the formation of highly concentrated urine [see Dosage and Administration (2.4)].
+
+## 5.18 Blood Glucose Disturbances
+
+Fluroquinolones, including ciprofloxacin tablets have been associated with disturbances of blood glucose, including hyperglycemia and hypoglycemia, usually in diabetic patients receiving concomitant treatment with an oral hypoglycemic agent (for example, glyburide) or with insulin.
+In these patients, careful monitoring of blood glucose is recommended.
+
+Severe cases of hypoglycemia resulting in coma or death have been reported.
+If a hypoglycemic reaction occurs in a patient being treated with ciprofloxacin tablets, discontinue ciprofloxacin tablets and initiate appropriate therapy immediately [see Adverse Reactions (6.1), Drug Interactions (7)]
