@@ -1,7 +1,7 @@
 # 1 INDICATIONS AND USAGE
 
-Linezolid for oral suspension is indicated for the treatment of infections caused by susceptible strains of the designated microorganisms in the specific conditions listed below.
-Linezolid for oral suspension is not indicated for the treatment of Gram-negative infections.
+Linezolid for Oral Suspension is indicated for the treatment of infections caused by susceptible strains of the designated microorganisms in the specific conditions listed below.
+Linezolid for Oral Suspension is not indicated for the treatment of Gram-negative infections.
 It is critical that specific Gram-negative therapy be initiated immediately if a concomitant Gram-negative pathogen is documented or suspected [see Warnings and Precautions (5.4)].
 
 ## 1.1 Pneumonia

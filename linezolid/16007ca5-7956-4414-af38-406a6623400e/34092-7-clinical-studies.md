@@ -16,9 +16,9 @@ The cure rates by pathogen for microbiologically evaluable patients are presente
 
 Table 14: Cure Rates at the Test-of-Cure Visit for Microbiologically Evaluable Adult Patients with Nosocomial Pneumonia
 
-| Pathogen | Cured |  |
+|  | Cured |  |
 | --- | --- | --- |
-|  | Linezolidn/N (%) | Vancomycinn/N (%) |
+| Pathogen | Linezolid n/N (%) | Vancomycin n/N (%) |
 | Staphylococcus aureus | 23/38 (61) | 14/23 (61) |
 | Methicillin-resistant S. aureus | 13/22 (59) | 7/10 (70) |
 | Streptococcus pneumoniae | 9/9 (100) | 9/10 (90) |
@@ -40,7 +40,7 @@ Table 15: Cure Rates at the Test-of-Cure Visit for Microbiologically Evaluable A
 
 | Pathogen | Cured |  |
 | --- | --- | --- |
-| linezolidn/N (%) | oxacillin/dicloxacillinn/N (%) |  |
+| Linezolidn/N (%) | Oxacillin/Dicloxacillinn/N (%) |  |
 | Staphylococcus aureus | 73/83 (88) | 72/84 (86) |
 | Methicillin-resistant S. aureus | 2/3 (67) | 0/0 (-) |
 | Streptococcus agalactiae | 6/6 (100) | 3/6 (50) |
@@ -89,22 +89,25 @@ The cure rate was higher in the high-dose arm than in the low-dose arm, although
 
 Table 17: Cure Rates at the Test-of-Cure Visit for ITT Adult Patients with Documented Vancomycin-Resistant Enterococcal Infections at Baseline
 
-| Source of Infection | Cured |  |
+|  | Cured |  |
 | --- | --- | --- |
-|  | Linezolid 600 mg every 12 hours n/N (%) | Linezolid200 mg every 12 hours n/N (%) |
+| Source of Infection | Linezolid 600 mg every 12 hours n/N (%) | Linezolid200 mg every 12 hours n/N (%) |
 | Any site | 39/58 (67) | 24/46 (52) |
 | Any site with associated bacteremia | 10/17 (59) | 4/14 (29) |
 | Bacteremia of unknown origin | 5/10 (50) | 2/7 (29) |
 | Skin and skin structure | 9/13 (69) | 5/5 (100) |
 | Urinary tract | 12/19 (63) | 12/20 (60) |
 | Pneumonia | 2/3 (67) | 0/1 (0) |
-| OtherIncludes sources of infection such as hepatic abscess, biliary sepsis, necrotic gall bladder, pericolonic abscess, pancreatitis, and catheter-related infection. | 11/13 (85) | 5/13 (39) |
+| Other | 11/13 (85) | 5/13 (39) |
+
+1. 1.
+   Includes sources of infection such as hepatic abscess, biliary sepsis, necrotic gall bladder, pericolonic abscess, pancreatitis, and catheter-related infection.
 
 ## 14.2 Pediatric Patients
 
 Infections due to Gram-positive Bacteria: A safety and efficacy study provided experience on the use of linezolid in pediatric patients for the treatment of nosocomial pneumonia, complicated skin and skin structure infections, and other infections due to Gram-positive bacterial pathogens, including methicillin-resistant and -susceptible Staphylococcus aureus and vancomycin-resistant Enterococcus faecium.
 Pediatric patients ranging in age from birth through 11 years with infections caused by the documented or suspected Gram-positive bacteria were enrolled in a randomized, open-label, comparator-controlled trial.
-One group of patients received linezolid I.V. injection 10 mg/kg every 8 hours followed by linezolid for oral suspension 10 mg/kg every 8 hours.
+One group of patients received linezolid I.V. injection 10 mg/kg every 8 hours followed by Linezolid for Oral Suspension 10 mg/kg every 8 hours.
 A second group received vancomycin 10 to 15 mg/kg intravenously every 6 to 24 hours, depending on age and renal clearance.
 Patients who had confirmed VRE infections were placed in a third arm of the study and received linezolid 10 mg/kg every 8 hours intravenously and/or orally.
 All patients were treated for a total of 10 to 28 days and could receive concomitant Gram-negative antibiotics if clinically indicated.
@@ -115,10 +118,10 @@ Table 19 provides clinical cure rates by pathogen for microbiologically evaluabl
 
 Table 18: Cure Rates at the Test-of-Cure Visit for Intent-to-Treat, Modified Intent-to-Treat, and Clinically Evaluable Pediatric Patients for the Overall Population and by Select Baseline Diagnosis
 
-| Population | ITT |  | MITTMITT = ITT patients with an isolated Gram-positive pathogen at baseline |  | Clinically Evaluable |  |
+| Population | ITT |  | MITT |  | Clinically Evaluable |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Linezolid n/N (%) | Vancomycin n/N (%) | Linezolid n/N (%) | Vancomycin n/N (%) | Linezolid n/N (%) | Vancomycin n/N (%) |  |
-| Any diagnosis | 150/186 (81) | 69/83 (83) | 86/108 (80) | 44/49 (90) | 106/117(91) | 49/54 (91) |
+| Any diagnosis | 150/186 (81) | 69/83 (83) | 86/108 (80) | 44/49 (90) | 106/117 (91) | 49/54 (91) |
 | Complicated skin and skin structure infections | 61/72 (85) | 31/34 (91) | 37/43 (86) | 22/23 (96) | 46/49 (94) | 26/27 (96) |
 | Nosocomial pneumonia | 13/18 (72) | 11/12 (92) | 5/6 (83) | 4/4 (100) | 7/7 (100) | 5/5 (100) |
 
@@ -127,7 +130,7 @@ Table 19: Cure Rates at the Test-of-Cure Visit for Microbiologically Evaluable P
 | Pathogen | Microbiologically Evaluable |  |
 | --- | --- | --- |
 | Linezolidn/N (%) | Vancomycinn/N (%) |  |
-| Vancomycin-resistant Enterococcus faecium | 6/8 (75)Includes data from 7 patients enrolled in the open-label extension of this study. | 0/0 (-) |
+| Vancomycin-resistant Enterococcus faecium | 6/8 (75) | 0/0 (-) |
 | Staphylococcus aureus | 36/38 (95) | 23/24 (96) |
 | Methicillin-resistant S. aureus | 16/17 (94) | 9/9 (100) |
 | Streptococcus pyogenes | 2/2 (100) | 1/2 (50) |

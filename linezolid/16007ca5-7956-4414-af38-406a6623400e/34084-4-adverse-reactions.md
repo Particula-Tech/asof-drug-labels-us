@@ -13,9 +13,9 @@ Table 2 shows the incidence of all-causality, treatment-emergent adverse reactio
 
 Table 2: Incidence (%) of Treatment-Emergent Adverse Reactions Occurring in >1% of Adult Patients Treated with Linezolid in Comparator-Controlled Clinical Trials
 
-| ADVERSE REACTIONS | Uncomplicated Skin and Skin Structure Infections |  | All Other Indications |  |
+|  | Uncomplicated Skin and Skin Structure Infections |  | All Other Indications |  |
 | --- | --- | --- | --- | --- |
-|  | Linezolid 400 mg by mouth every 12 hours (n=548) | Clarithromycin 250 mg by mouth every 12 hours (n=537) | Linezolid 600 mg every 12 hours (n=1498) | All Other ComparatorsComparators included cefpodoxime proxetil 200 mg by mouth every 12 hours; ceftriaxone 1 g intravenously every 12 hours; dicloxacillin 500 mg by mouth every 6 hours; oxacillin 2 g intravenously every 6 hours; vancomycin 1 g intravenously every 12 hours. (n=1464) |
+| ADVERSE REACTIONS | Linezolid 400 mg by mouth every 12 hours (n=548) | Clarithromycin 250 mg by mouth every 12 hours (n=537) | Linezolid 600 mg every 12 hours (n=1498) | All Other Comparators (n=1464) |
 | Headache | 8.8 | 8.4 | 5.7 | 4.4 |
 | Diarrhea | 8.2 | 6.1 | 8.3 | 6.4 |
 | Nausea | 5.1 | 4.5 | 6.6 | 4.6 |
@@ -31,6 +31,8 @@ Table 2: Incidence (%) of Treatment-Emergent Adverse Reactions Occurring in >1% 
 | Tongue discoloration | 1.3 | 0 | 0.3 | 0 |
 | Localized abdominal pain | 1.3 | 0.6 | 1.2 | 0.8 |
 | Generalized abdominal pain | 0.9 | 0.4 | 1.2 | 1 |
+
+1. 1 Comparators included cefpodoxime proxetil 200 mg by mouth every 12 hours; ceftriaxone 1 g intravenously every 12 hours; dicloxacillin 500 mg by mouth every 6 hours; oxacillin 2 g intravenously every 6 hours; vancomycin 1 g intravenously every 12 hours.
 
 Of the patients treated for uSSSIs, 3.5% of linezolid-treated and 2.4% of comparator-treated patients discontinued treatment due to drug-related adverse events.
 For all other indications, discontinuations due to drug-related adverse events occurred in 2.1% of linezolid-treated and 1.7% of comparator-treated patients.
@@ -48,20 +50,20 @@ Table 3 shows the incidence of all-causality, treatment-emergent adverse reactio
 
 Table 3: Incidence (%) of Treatment-Emergent Adverse Reactions Occurring in >1% of Pediatric Patients (and >1 Patient) in Either Treatment Group in Comparator-Controlled Clinical Trials
 
-| ADVERSE REACTIONS | Uncomplicated Skin and Skin Structure Infections1. Patients 5 through 11 years of age received linezolid 10 mg/kg by mouth every 12 hours or cefadroxil 15 mg/kg by mouth every 12 hours. Patients 12 years or older received linezolid 600 mg by mouth every 12 hours or cefadroxil 500 mg by mouth every 12 hours. |  | All Other Indications2. Patients from birth through 11 years of age received linezolid 10 mg/kg intravenously or by mouth every 8 hours or vancomycin 10 to 15 mg/kg intravenously every 6 to 24 hours, depending on age and renal clearance. |  |
+| ADVERSE REACTIONS | Uncomplicated Skin and Skin Structure Infections |  | All Other Indications |  |
 | --- | --- | --- | --- | --- |
 | Linezolid (n=248) | Cefadroxil (n=251) | Linezolid (n=215) | Vancomycin (n=101) |  |
-| Diarrhea | 7.8 | 8 | 10.8 | 12.1 |
+| Diarrhea | 7.8 | 8.0 | 10.8 | 12.1 |
 | Vomiting | 2.9 | 6.4 | 9.4 | 9.1 |
 | Headache | 6.5 | 4 | 0.9 | 0 |
 | Anemia | 0 | 0 | 5.6 | 7.1 |
-| Thrombocytopenia | 0 | 0 | 4.7 | 2 |
+| Thrombocytopenia | 0 | 0 | 4.7 | 2.0 |
 | Nausea | 3.7 | 3.2 | 1.9 | 0 |
-| Generalized abdominal pain | 2.4 | 2.8 | 0.9 | 2 |
-| Localized abdominal pain | 2.4 | 2.8 | 0.5 | 1 |
-| Loose stools | 1.6 | 0.8 | 2.3 | 3 |
-| Eosinophilia | 0.4 | 0.8 | 1.9 | 1 |
-| Pruritus at non-application site | 0.8 | 0.4 | 1.4 | 2 |
+| Generalized abdominal pain | 2.4 | 2.8 | 0.9 | 2.0 |
+| Localized abdominal pain | 2.4 | 2.8 | 0.5 | 1.0 |
+| Loose stools | 1.6 | 0.8 | 2.3 | 3.0 |
+| Eosinophilia | 0.4 | 0.8 | 1.9 | 1.0 |
+| Pruritus at non-application site | 0.8 | 0.4 | 1.4 | 2.0 |
 | Vertigo | 1.2 | 0.4 | 0 | 0 |
 
 1. 1.
@@ -86,14 +88,13 @@ Changes seen in other laboratory parameters, without regard to drug relationship
 These changes were generally not clinically significant, did not lead to discontinuation of therapy, and were reversible.
 The incidence of adult and pediatric patients with at least one substantially abnormal hematologic or serum chemistry value is presented in Tables 4, 5, 6, and 7.
 
-Table 4: Percent of Adult Patients who Experienced at Least One Substantially Abnormal1. <75% (<50% for neutrophils) of Lower Limit of Normal (LLN) for values normal at baseline; <75% (<50% for neutrophils) of LLN and of baseline for values abnormal at baseline.
-Hematology Laboratory Value in Comparator-Controlled Clinical Trials with Linezolid
+Table 4: Percent of Adult Patients who Experienced at Least One Substantially Abnormal Hematology Laboratory Value in Comparator-Controlled Clinical Trials with Linezolid
 
 | Laboratory Assay | Uncomplicated Skin and Skin Structure Infections |  | All Other Indications |  |
 | --- | --- | --- | --- | --- |
-| Linezolid 400 mg every 12 hours | Clarithromycin 250 mg every 12 hours | Linezolid 600 mg every 12 hours | All Other Comparators2. Comparators included cefpodoxime proxetil 200 mg by mouth every 12 hours; ceftriaxone 1 g intravenously every 12 hours; dicloxacillin 500 mg by mouth every 6 hours; oxacillin 2 g intravenously every 6 hours; vancomycin 1 g intravenously every 12 hours. |  |
+| Linezolid 400 mg every 12 hours | Clarithromycin 250 mg every 12 hours | Linezolid 600 mg every 12 hours | All Other Comparators |  |
 | Hemoglobin (g/dL) | 0.9 | 0 | 7.1 | 6.6 |
-| Platelet count (x 103/mm3) | 0.7 | 0.8 | 3 | 1.8 |
+| Platelet count (x 103/mm3) | 0.7 | 0.8 | 3.0 | 1.8 |
 | WBC (x 103/mm3) | 0.2 | 0.6 | 2.2 | 1.3 |
 | Neutrophils (x 103/mm3) | 0 | 0.2 | 1.1 | 1.2 |
 
@@ -101,30 +102,28 @@ Hematology Laboratory Value in Comparator-Controlled Clinical Trials with Linezo
 2. 2.
    Comparators included cefpodoxime proxetil 200 mg by mouth every 12 hours; ceftriaxone 1 g intravenously every 12 hours; dicloxacillin 500 mg by mouth every 6 hours; oxacillin 2 g intravenously every 6 hours; vancomycin 1 g intravenously every 12 hours.
 
-Table 5: Percent of Adult Patients who Experienced at Least One Substantially Abnormal1. >2 x Upper Limit of Normal (ULN) for values normal at baseline; >2 x ULN and >2 x baseline for values abnormal at baseline.
-Serum Chemistry Laboratory Value in Comparator-Controlled Clinical Trials with Linezolid
+Table 5: Percent of Adult Patients who Experienced at Least One Substantially Abnormal Serum Chemistry Laboratory Value in Comparator-Controlled Clinical Trials with Linezolid
 
 | Laboratory Assay | Uncomplicated Skin and Skin Structure Infections |  | All Other Indications |  |
 | --- | --- | --- | --- | --- |
-| Linezolid 400 mg every 12 hours | Clarithromycin 250 mg every 12 hours | Linezolid 600 mg every 12 hours | All Other Comparators2. Comparators included cefpodoxime proxetil 200 mg by mouth every 12 hours; ceftriaxone 1 g intravenously every 12 hours; dicloxacillin 500 mg by mouth every 6 hours; oxacillin 2 g intravenously every 6 hours; vancomycin 1 g intravenously every 12 hours. |  |
-| AST (U/L) | 1.7 | 1.3 | 5 | 6.8 |
+| Linezolid 400 mg every 12 hours | Clarithromycin 250 mg every 12 hours | Linezolid 600 mg every 12 hours | All Other Comparators2 |  |
+| AST (U/L) | 1.7 | 1.3 | 5.0 | 6.8 |
 | ALT (U/L) | 1.7 | 1.7 | 9.6 | 9.3 |
 | LDH (U/L) | 0.2 | 0.2 | 1.8 | 1.5 |
 | Alkaline phosphatase (U/L) | 0.2 | 0.2 | 3.5 | 3.1 |
 | Lipase (U/L) | 2.8 | 2.6 | 4.3 | 4.2 |
-| Amylase (U/L) | 0.2 | 0.2 | 2.4 | 2 |
+| Amylase (U/L) | 0.2 | 0.2 | 2.4 | 2.0 |
 | Total bilirubin (mg/dL) | 0.2 | 0 | 0.9 | 1.1 |
 | BUN (mg/dL) | 0.2 | 0 | 2.1 | 1.5 |
 | Creatinine (mg/dL) | 0.2 | 0 | 0.2 | 0.6 |
 
 1. 1. >2 x Upper Limit of Normal (ULN) for values normal at baseline; >2 x ULN and >2 x baseline for values abnormal at baseline.
 2. 2.
-   Comparators included cefpodoxime proxetil 200 mg by mouth every 12 hours; ceftriaxone 1 g intravenously every 12 hours; dicloxacillin 500 mg by mouth every 6 hours; oxacillin 2 g intravenously every 6 hours; vancomycin 1 g intravenously every 12 hours.
+   Comparators included cefpodoxime proxetil 200 mg by mouth every 12 hours; ceftriaxone 1 g intravenously every 12 hours; dicloxacillin
 
-Table 6: Percent of Pediatric Patients who Experienced at Least One Substantially Abnormal1. <75% (<50% for neutrophils) of Lower Limit of Normal (LLN) for values normal at baseline; <75% (<50% for neutrophils) of LLN and <75% (<50% for neutrophils, <90% for hemoglobin if baseline <LLN) of baseline for values abnormal at baseline.
-Hematology Laboratory Value in Comparator-Controlled Clinical Trials with Linezolid
+Table 6: Percent of Pediatric Patients who Experienced at Least One Substantially Abnormal1 Hematology Laboratory Value in Comparator-Controlled Clinical Trials with Linezolid
 
-| Laboratory Assay | Uncomplicated Skin and Skin Structure Infections2. Patients 5 through 11 years of age received linezolid 10 mg/kg by mouth every 12 hours or cefadroxil 15 mg/kg by mouth every 12 hours. Patients 12 years or older received linezolid 600 mg by mouth every 12 hours or cefadroxil 500 mg by mouth every 12 hours. |  | All Other Indications3. Patients from birth through 11 years of age received linezolid 10 mg/kg intravenously or by mouth every 8 hours or vancomycin 10 to 15 mg/kg intravenously every 6 to 24 hours, depending on age and renal clearance. |  |
+| Laboratory Assay | Uncomplicated Skin and Skin Structure Infections2 |  | All Other Indications |  |
 | --- | --- | --- | --- | --- |
 | Linezolid | Cefadroxil | Linezolid | Vancomycin |  |
 | Hemoglobin (g/dL) | 0 | 0 | 15.7 | 12.4 |
@@ -139,10 +138,9 @@ Hematology Laboratory Value in Comparator-Controlled Clinical Trials with Linezo
 3. 3.
    Patients from birth through 11 years of age received linezolid 10 mg/kg intravenously or by mouth every 8 hours or vancomycin 10 to 15 mg/kg intravenously every 6 to 24 hours, depending on age and renal clearance.
 
-Table 7: Percent of Pediatric Patients who Experienced at Least One Substantially Abnormal1. >2 x Upper Limit of Normal (ULN) for values normal at baseline; >2 x ULN and >2 (>1.5 for total bilirubin) x baseline for values abnormal at baseline.
-Serum Chemistry Laboratory Value in Comparator-Controlled Clinical Trials with Linezolid
+Table 7: Percent of Pediatric Patients who Experienced at Least One Substantially Abnormal Serum Chemistry Laboratory Value in Comparator-Controlled Clinical Trials with Linezolid
 
-| Laboratory Assay | Uncomplicated Skin and Skin Structure Infections2. Patients 5 through 11 years of age received linezolid 10 mg/kg by mouth every 12 hours or cefadroxil 15 mg/kg by mouth every 12 hours. Patients 12 years or older received linezolid 600 mg by mouth every 12 hours or cefadroxil 500 mg by mouth every 12 hours. |  | All Other Indications3. Patients from birth through 11 years of age received linezolid 10 mg/kg intravenously or by mouth every 8 hours or vancomycin 10 to 15 mg/kg intravenously every 6 to 24 hours, depending on age and renal clearance. |  |
+| Laboratory Assay | Uncomplicated Skin and Skin Structure Infections |  | All Other Indications |  |
 | --- | --- | --- | --- | --- |
 |  | Linezolid | Cefadroxil | Linezolid | Vancomycin |
 | ALT (U/L) | 0 | 0 | 10.1 | 12.5 |

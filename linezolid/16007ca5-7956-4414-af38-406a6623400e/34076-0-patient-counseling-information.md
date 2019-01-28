@@ -14,7 +14,7 @@ Patients should be advised that:
   The tyramine content of any protein-rich food may be increased if stored for long periods or improperly refrigerated.
 - •They should inform their physician if taking medications containing pseudoephedrine HCl or phenylpropanolamine HCl, such as cold remedies and decongestants.
 - •They should inform their physician if taking serotonin re-uptake inhibitors or other antidepressants.
-- •Phenylketonurics: Each 5 mL of the 100 mg/5 mL linezolid for oral suspension contains 20 mg phenylalanine.
+- •Phenylketonurics: Each 5 mL of the 100 mg/5 mL Linezolid for Oral Suspension contains 20 mg phenylalanine.
   Contact your physician or pharmacist.
 - •They should inform their physician if they experience changes in vision.
 - •They should inform their physician if they have a history of seizures.
@@ -32,4 +32,4 @@ Eatontown, NJ 07724
 
 10006274/04
 
-Revised July 2018
+Revised December 2018
