@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Entecavir is an antiviral drug against the hepatitis B virus [see Microbiology (12.4)].
+Entecavir is an antiviral drug against hepatitis B virus [see Microbiology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
@@ -75,7 +75,7 @@ The steady-state pharmacokinetics of entecavir and coadministered drug were not 
 
 ## 12.4 Microbiology
 
-Mechanism of Action Entecavir, a guanosine nucleoside analogue with activity against HBV reverse transcriptase (rt), is efficiently phosphorylated to the active triphosphate form, which has an intracellular half-life of 15 hours.
+Mechanism of Action Entecavir, a deoxyguanosine nucleoside analogue with activity against HBV reverse transcriptase (rt), is efficiently phosphorylated to the active triphosphate form, which has an intracellular half-life of 15 hours.
 By competing with the natural substrate deoxyguanosine triphosphate, entecavir triphosphate functionally inhibits all three activities of the HBV reverse transcriptase: (1) base priming, (2) reverse transcription of the negative strand from the pregenomic messenger RNA, and (3) synthesis of the positive strand of HBV DNA.
 Entecavir triphosphate is a weak inhibitor of cellular DNA polymerases α, β, and δ and mitochondrial DNA polymerase γ with Ki values ranging from 18 to >160 μM.
 Antiviral Activity Entecavir inhibited HBV DNA synthesis (50% reduction, EC50) at a concentration of 0.004 μM in human HepG2 cells transfected with wild-type HBV.
@@ -90,8 +90,8 @@ Resistance In Cell Culture In cell-based assays, 8- to 30-fold reductions in ent
 Further reductions (>70-fold) in entecavir phenotypic susceptibility required the presence of amino acid substitutions rtM204I/V with or without rtL180M along with additional substitutions at residues rtT184, rtS202, or rtM250, or a combination of these substitutions with or without an rtI169 substitution in the HBV reverse transcriptase.
 Lamivudine-resistant strains harboring rtL180M plus rtM204V in combination with the amino acid substitution rtA181C conferred 16- to 122-fold reductions in entecavir phenotypic susceptibility.
 Clinical Studies Nucleoside-inhibitor-naïve subjects: Genotypic evaluations were performed on evaluable samples (>300 copies/mL serum HBV DNA) from 562 subjects who were treated with entecavir for up to 96 weeks in nucleoside-inhibitor-naïve studies (AI463022, AI463027, and rollover study AI463901).
-By Week 96, evidence of emerging amino acid substitution rtS202G with rtM204V and rtL180M substitutions was detected in the HBV of 2 subjects (2/562=<1%), and 1 of them experienced virologic rebound (≥1 log10 increase above nadir).
-In addition, emerging amino acid substitutions at rtM204I/V and rtL180M, rtL80I, or rtV173L, which conferred decreased phenotypic susceptibility to entecavir in the absence of rtT184, rtS202, or rtM250 changes, were detected in the HBV of 3 subjects (3/562=<1%) who experienced virologic rebound.
+By Week 96, evidence of emerging amino acid substitution rtS202G with rtL180M and rtM204V substitutions was detected in the HBV of 2 subjects (2/562=<1%), and 1 of them experienced virologic rebound (≥1 log10 increase above nadir).
+In addition, emerging amino acid substitutions at rtM204I/V and rtL80I, rtV173L, or rtL180M, which conferred decreased phenotypic susceptibility to entecavir in the absence of rtT184, rtS202, or rtM250 changes, were detected in the HBV of 3 subjects (3/562=<1%) who experienced virologic rebound.
 For subjects who continued treatment beyond 48 weeks, 75% (202/269) had HBV DNA <300 copies/mL at end of dosing (up to 96 weeks).
 HBeAg-positive (n=243) and -negative (n=39) treatment-naïve subjects who failed to achieve the study-defined complete response by 96 weeks were offered continued entecavir treatment in a rollover study.
 Complete response for HBeAg-positive was <0.7 MEq/mL (approximately 7 x 105 copies/mL) serum HBV DNA and HBeAg loss and, for HBeAg-negative was <0.7 MEq/mL HBV DNA and ALT normalization.
@@ -99,12 +99,12 @@ Subjects received 1 mg entecavir once daily for up to an additional 144 weeks.
 Of these 282 subjects, 141 HBeAg-positive and 8 HBeAg-negative subjects entered the long-term follow-up rollover study and were evaluated for entecavir resistance.
 Of the 149 subjects entering the rollover study, 88% (131/149), 92% (137/149), and 92% (137/149) attained serum HBV DNA <300 copies/mL by Weeks 144, 192, and 240 (including end of dosing), respectively.
 No novel entecavir resistance-associated substitutions were identified in a comparison of the genotypes of evaluable isolates with their respective baseline isolates.
-The cumulative probability of developing rtT184, rtS202, or rtM250 entecavir resistance-associated substitutions (in the presence of rtM204V and rtL180M substitutions) at Weeks 48, 96, 144, 192, and 240 was 0.2%, 0.5%, 1.2%, 1.2%, and 1.2%, respectively.
+The cumulative probability of developing rtT184, rtS202, or rtM250 entecavir resistance-associated substitutions (in the presence of rtL180M and rtM204V substitutions) at Weeks 48, 96, 144, 192, and 240 was 0.2%, 0.5%, 1.2%, 1.2%, and 1.2%, respectively.
 Lamivudine-refractory subjects: Genotypic evaluations were performed on evaluable samples from 190 subjects treated with entecavir for up to 96 weeks in studies of lamivudine-refractory HBV (AI463026, AI463014, AI463015, and rollover study AI463901).
-By Week 96, resistance-associated amino acid substitutions at rtS202, rtT184, or rtM250, with or without rtI169 changes, in the presence of amino acid substitutions rtM204I/V with or without rtL180M, rtL80V, or rtV173L/M emerged in the HBV from 22 subjects (22/190=12%), 16 of whom experienced virologic rebound (≥1 log10 increase above nadir) and 4 of whom were never suppressed <300 copies/mL.
+By Week 96, resistance-associated amino acid substitutions at rtT184, rtS202, or rtM250, with or without rtI169 changes, in the presence of amino acid substitutions rtM204I/V with or without rtL80V, rtV173L/M, or rtL180M emerged in the HBV from 22 subjects (22/190=12%), 16 of whom experienced virologic rebound (≥1 log10 increase above nadir) and 4 of whom were never suppressed <300 copies/mL.
 The HBV from 4 of these subjects had entecavir resistance substitutions at baseline and acquired further changes on entecavir treatment.
-In addition to the 22 subjects, 3 subjects experienced virologic rebound with the emergence of rtM204I/V and rtL180M, rtL80V, or rtV173L/M.
-For isolates from subjects who experienced virologic rebound with the emergence of resistance substitutions (n=19), the median fold-change in entecavir EC50 values from reference was 19-fold at baseline and 106-fold at the time of virologic rebound.
+In addition to the 22 subjects, 3 subjects experienced virologic rebound with the emergence of rtM204I/V and rtL80V, rtV173L/M, or rtL180M.
+For isolates from subjects who experienced virologic rebound with the emergence of resistance-associated substitutions (n=19), the median fold-change in entecavir EC50 values from reference was 19-fold at baseline and 106-fold at the time of virologic rebound.
 For subjects who continued treatment beyond 48 weeks, 40% (31/77) had HBV DNA <300 copies/mL at end of dosing (up to 96 weeks).
 
 Lamivudine-refractory subjects (n=157) who failed to achieve the study-defined complete response by Week 96 were offered continued entecavir treatment.
@@ -119,8 +119,8 @@ In a post-approval integrated analysis of entecavir resistance data from 17 Phas
 This substitution was detected only in the presence of lamivudine resistance-associated substitutions rtL180M plus rtM204V.
 
 Cross-resistance Cross-resistance has been observed among HBV nucleoside analogue inhibitors.
-In cell-based assays, entecavir had 8- to 30-fold less inhibition of HBV DNA synthesis for HBV containing lamivudine and telbivudine resistance substitutions rtM204I/V with or without rtL180M than for wild-type HBV.
-Substitutions rtM204I/V with or without rtL180M, rtL80I/V, or rtV173L, which are associated with lamivudine and telbivudine resistance, also confer decreased phenotypic susceptibility to entecavir.
+In cell-based assays, entecavir had 8- to 30-fold less inhibition of HBV DNA synthesis for HBV containing lamivudine and telbivudine resistance-associated substitutions rtM204I/V with or without rtL180M than for wild-type HBV.
+Substitutions rtM204I/V with or without rtL80I/V, rtV173L, or rtL180M, which are associated with lamivudine and telbivudine resistance, also confer decreased phenotypic susceptibility to entecavir.
 The efficacy of entecavir against HBV harboring adefovir resistance-associated substitutions has not been established in clinical trials.
 HBV isolates from lamivudine-refractory subjects failing entecavir therapy were susceptible in cell culture to adefovir but remained resistant to lamivudine.
-Recombinant HBV genomes encoding adefovir resistance-associated substitutions at either rtN236T or rtA181V had 0.3- and 1.1-fold shifts in susceptibility to entecavir in cell culture, respectively.
+Recombinant HBV genomes encoding adefovir resistance-associated substitutions at either rtA181V or rtN236T had 1.1- or 0.3-fold shifts in susceptibility to entecavir in cell culture, respectively.

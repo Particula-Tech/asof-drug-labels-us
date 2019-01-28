@@ -9,3 +9,5 @@ Entecavir USP is a white to off-white powder.
 It is slightly soluble in water (2.4 mg/mL), and the pH of the saturated solution in water is 7.9 at 25°C ± 0.5°C.
 Entecavir film-coated tablets are available for oral administration in strengths of 0.5 mg and 1 mg of entecavir USP.
 Entecavir 0.5 mg and 1 mg film-coated tablets contain the following inactive ingredients: crospovidone, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, and titanium dioxide.
+
+Meets USP Dissolution Test 2.

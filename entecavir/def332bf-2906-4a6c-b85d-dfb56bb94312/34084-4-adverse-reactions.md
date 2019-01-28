@@ -5,9 +5,11 @@ The following adverse reactions are discussed in other sections of the labeling:
 - Exacerbations of hepatitis after discontinuation of treatment [see Boxed Warning, Warnings and Precautions (5.1)].
 - Lactic acidosis and severe hepatomegaly with steatosis [see Boxed Warning, Warnings and Precautions (5.3)].
 
-## 6.1 Clinical Trial Experience in Adults
+## 6.1 Clinical Trial Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+Clinical Trial Experience in Adults
 
 Compensated Liver Disease
 
@@ -69,7 +71,7 @@ Among entecavir-treated subjects in these studies, on-treatment ALT elevations g
 A majority of these exacerbations were associated with a ≥2 log10/mL reduction in viral load that preceded or coincided with the ALT elevation.
 Periodic monitoring of hepatic function is recommended during treatment.
 
-Exacerbations of Hepatitis after Discontinuation of Treatment
+Exacerbations of Hepatitis After Discontinuation of Treatment
 
 An exacerbation of hepatitis or ALT flare was defined as ALT greater than 10 times ULN and greater than 2 times the subject’s reference level (minimum of the baseline or last measurement at end of dosing).
 For all subjects who discontinued treatment (regardless of reason), Table 5 presents the proportion of subjects in each study who experienced post-treatment ALT flares.
@@ -106,16 +108,14 @@ HIV/HBV Co-infected
 
 The safety profile of entecavir 1 mg (n=51) in HIV/HBV co-infected subjects enrolled in Study AI463038 was similar to that of placebo (n=17) through 24 weeks of blinded treatment and similar to that seen in non-HIV infected subjects [see Warnings and Precautions (5.2)].
 Liver Transplant Recipients Among 65 subjects receiving entecavir in an open-label, post-liver transplant trial [see Use in Specific Populations (8.8)], the frequency and nature of adverse events were consistent with those expected in patients who have received a liver transplant and the known safety profile of entecavir.
+Clinical Trial Experience in Pediatric Subjects
 
-## 6.2 Clinical Trial Experience in Pediatric Subjects
-
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 The safety of entecavir in pediatric subjects 2 to less than 18 years of age is based on two ongoing clinical trials in subjects with chronic HBV infection (one Phase 2 pharmacokinetic trial [AI463028] and one Phase 3 trial [AI463189]).
 These trials provide experience in 168 HBeAg-positive subjects treated with entecavir for a median duration of 72 weeks.
 The adverse reactions observed in pediatric subjects who received treatment with entecavir were consistent with those observed in clinical trials of entecavir in adults.
 Adverse drug reactions reported in greater than 1% of pediatric subjects included abdominal pain, rash events, poor palatability (“product taste abnormal”), nausea, diarrhea, and vomiting.
 
-## 6.3 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been reported during postmarketing use of entecavir.
 Because these reactions were reported voluntarily from a population of unknown size, it is not possible to reliably estimate their frequency or establish a causal relationship to entecavir exposure.
