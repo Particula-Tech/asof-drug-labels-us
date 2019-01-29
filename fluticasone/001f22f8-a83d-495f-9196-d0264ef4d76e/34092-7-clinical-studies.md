@@ -4,7 +4,7 @@
 
 Four randomized, double-blind, parallel-group, placebo-controlled, U.S. clinical trials were conducted in 1,036 adult and adolescent subjects (aged 12 years and older) with asthma to assess the efficacy and safety of FLOVENT DISKUS in the treatment of asthma.
 Fixed dosages of 100, 250, and 500 mcg twice daily were compared with placebo to provide information about appropriate dosing to cover a range of asthma severity.
-Subjects in these trials included those inadequately controlled with bronchodilators alone and those already maintained on daily inhaled corticosteroids.
+Subjects in these trials included those inadequately controlled with bronchodilators alone and those already maintained on daily ICS.
 All doses were delivered by inhalation of the contents of 1 or 2 blisters from FLOVENT DISKUS twice daily.
 
 Figures 1 through 4 display results of pulmonary function tests (mean percent change from baseline in FEV1 prior to AM dose) for 3 recommended dosages of FLOVENT DISKUS (100, 250, and 500 mcg twice daily) and placebo from the four 12-week trials in adolescents and adults.
@@ -33,12 +33,12 @@ Accompanying the reduction in oral corticosteroid use, subjects treated with flu
 
 ## 14.2 Pediatric Subjects Aged 4 to 11 Years
 
-A 12-week, placebo-controlled clinical trial was conducted in 437 pediatric subjects (177 received FLOVENT DISKUS), approximately half of whom were receiving inhaled corticosteroids at baseline.
+A 12-week, placebo-controlled clinical trial was conducted in 437 pediatric subjects (177 received FLOVENT DISKUS), approximately half of whom were receiving ICS at baseline.
 In this trial, doses of fluticasone propionate inhalation powder 50 and 100 mcg twice daily significantly improved FEV1 (15% and 18% change from baseline at Endpoint, respectively) compared with placebo (7% change).
 AM PEF was also significantly improved with doses of fluticasone propionate 50 and 100 mcg twice daily (26% and 27% change from baseline at Endpoint, respectively) compared with placebo (14% change).
 In this trial, subjects on active treatment were significantly less likely to discontinue treatment due to asthma deterioration (as defined by predetermined criteria for lack of efficacy including lung function and subject-recorded variables such as AM PEF, albuterol use, and nighttime awakenings due to asthma).
 
-Two other 12-week placebo-controlled clinical trials were conducted in 504 pediatric subjects with asthma, approximately half of whom were receiving inhaled corticosteroids at baseline.
+Two other 12-week placebo-controlled clinical trials were conducted in 504 pediatric subjects with asthma, approximately half of whom were receiving ICS at baseline.
 In these trials, FLOVENT DISKUS was efficacious at doses of 50 and 100 mcg twice daily when compared with placebo on major endpoints including lung function and symptom scores.
 Pulmonary function improved significantly compared with placebo by the first week of treatment, and subjects treated with FLOVENT DISKUS were also less likely to discontinue trial participation due to asthma deterioration.
 One hundred ninety-two (192) subjects received FLOVENT DISKUS for up to 1 year during an open-label extension.

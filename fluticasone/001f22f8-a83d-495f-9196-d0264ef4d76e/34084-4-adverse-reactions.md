@@ -13,7 +13,7 @@ Systemic and local corticosteroid use may result in the following:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The incidence of common adverse reactions in Table 1 is based upon 7 placebo-controlled U.S. clinical trials in which 1,176 pediatric, adolescent, and adult subjects (466 females and 710 males) previously treated with as-needed bronchodilators and/or inhaled corticosteroids were treated twice daily for up to 12 weeks with FLOVENT DISKUS (doses of 50 to 500 mcg) or placebo.
+The incidence of common adverse reactions in Table 1 is based upon 7 placebo-controlled U.S. clinical trials in which 1,176 pediatric, adolescent, and adult subjects (466 females and 710 males) previously treated with as-needed bronchodilators and/or ICS were treated twice daily for up to 12 weeks with FLOVENT DISKUS (doses of 50 to 500 mcg) or placebo.
 
 Table 1.
 Adverse Reactions with FLOVENT DISKUS with >3% Incidence and More Common than Placebo in Subjects with Asthma
