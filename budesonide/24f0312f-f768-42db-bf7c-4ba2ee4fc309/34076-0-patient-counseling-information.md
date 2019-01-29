@@ -4,7 +4,7 @@ Advise Patients to read the FDA-Approved patient labeling (Patient Information).
 
 Hypercorticism and Adrenal Axis Suppression
 
-Advise patients that ENTOCORT EC Capsules may cause hypercorticism and adrenal axis suppression and to follow a taper schedule, as instructed by their healthcare provider if transferring to ENTOCORT EC from systemic corticosteroids [see Warnings and Precautions (5.1), (5.2)].
+Advise patients that ENTOCORT EC may cause hypercorticism and adrenal axis suppression and to follow a taper schedule, as instructed by their healthcare provider if transferring to ENTOCORT EC from systemic corticosteroids [see Warnings and Precautions (5.1), (5.2)].
 Advise patients that replacement of systemic corticosteroids with ENTOCORT EC may unmask allergies (e.g., rhinitis and eczema), which were previously controlled by the systemic drug.
 
 Increased Risk of Infection
@@ -20,7 +20,17 @@ Administration
 
 Advise patients to:
 
-- •Take ENTOCORT EC capsules once daily in the morning.
-- •Swallow ENTOCORT EC capsules whole.
+- •Take ENTOCORT EC once daily in the morning.
+- •Swallow ENTOCORT EC extended-release capsules whole.
   Do not chew or crush.
+- •For patients unable to swallow an intact capsule, ENTOCORT EC extended-release capsules can be opened and administered as follows:
+- 1.Place one tablespoonful of applesauce into a clean container (e.g., empty bowl).
+  The applesauce used should not be hot and should be soft enough to be swallowed without chewing.
+- 2.Open the capsule(s).
+- 3.Carefully empty all the granules inside the capsule(s) on the applesauce.
+- 4.Mix the granules with the applesauce.
+- 5.Consume the entire contents within 30 minutes of mixing.
+  Do not chew or crush the granules.
+  Do not save the applesauce and granules for future use.
+- 6.Follow the applesauce and granules immediately with a glass (8 ounces) of cool water to ensure complete swallowing of the granules.
 - •Avoid consumption of grapefruit juice for the duration of their ENTOCORT EC therapy [see Drug Interactions (7.1)].

@@ -62,7 +62,6 @@ Table 2: Summary and Incidence of Signs/Symptoms of Hypercorticism in 8-Week Tre
 Maintenance of Clinical Remission of Mild to Moderate Crohn’s Disease
 
 The safety of ENTOCORT EC was evaluated in 233 adult patients in four long-term clinical trials (52 weeks) of maintenance of clinical remission in patients with mild to moderate Crohn’s disease.
-
 A total of 145 patients were treated with ENTOCORT EC 6 mg once daily.
 
 The adverse reaction profile of ENTOCORT EC 6 mg once daily in maintenance of Crohn’s disease was similar to that of short-term treatment with ENTOCORT EC 9 mg once daily in active Crohn’s disease.
