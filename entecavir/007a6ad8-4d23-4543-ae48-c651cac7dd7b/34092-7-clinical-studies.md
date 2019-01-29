@@ -5,7 +5,7 @@
 At 48 Weeks
 
 The safety and efficacy of entecavir in adults were evaluated in three Phase 3 active-controlled trials.
-These studies included 1633 subjects 16 years of age or older with chronic hepatitis B virus infection (serum HBsAg-positive for at least 6 months) accompanied by evidence of viral replication (detectable serum HBV DNA, as measured by the bDNA hybridization or PCR assay).
+These studies included 1,633 subjects 16 years of age or older with chronic hepatitis B virus infection (serum HBsAg-positive for at least 6 months) accompanied by evidence of viral replication (detectable serum HBV DNA, as measured by the bDNA hybridization or PCR assay).
 Subjects had persistently elevated ALT levels at least 1.3 times ULN and chronic inflammation on liver biopsy compatible with a diagnosis of chronic viral hepatitis.
 The safety and efficacy of entecavir were also evaluated in a study of 191 HBV-infected subjects with decompensated liver disease and in a study of 68 subjects co-infected with HBV and HIV.
 
@@ -25,9 +25,10 @@ In Studies AI463022 and AI463027, entecavir was superior to lamivudine on the pr
 Histologic Improvement and change in Ishak Fibrosis Score are shown in Table 8.
 Selected virologic, biochemical, and serologic outcome measures are shown in Table 9.
 
-| Table 8: Histologic Improvement and Change in Ishak Fibrosis Score at Week 48, Nucleoside-Inhibitor-Naïve Subjects in Studies AI463022 and AI463027 |  |  |  |  |
-| --- | --- | --- | --- | --- |
+Table 8: Histologic Improvement and Change in Ishak Fibrosis Score at Week 48, Nucleoside-Inhibitor-Naïve Subjects in Studies AI463022 and AI463027
+
 |  | Study AI463022 (HBeAg-Positive) |  | Study AI463027 (HBeAg-Negative) |  |
+| --- | --- | --- | --- | --- |
 | Entecavir | Lamivudine | Entecavir | Lamivudine |  |
 | 0.5 mg | 100 mg | 0.5 mg | 100 mg |  |
 | n=314a | n=314a | n=296a | n=287a |  |
@@ -43,9 +44,10 @@ Selected virologic, biochemical, and serologic outcome measures are shown in Tab
 | b ≥2-point decrease in Knodell Necroinflammatory Score from baseline with no worsening of the Knodell Fibrosis Score. |  |  |  |  |
 | c For Ishak Fibrosis Score, improvement = ≥1-point decrease from baseline and worsening = ≥1-point increase from baseline. |  |  |  |  |
 
-| Table 9: Selected Virologic, Biochemical, and Serologic Endpoints at Week 48, Nucleoside-Inhibitor-Naïve Subjects in Studies AI463022 and AI463027 |  |  |  |  |
-| --- | --- | --- | --- | --- |
+Table 9: Selected Virologic, Biochemical, and Serologic Endpoints at Week 48, Nucleoside-Inhibitor-Naïve Subjects in Studies AI463022 and AI463027
+
 |  | Study AI463022 (HBeAg-Positive) |  | Study AI463027 (HBeAg-Negative) |  |
+| --- | --- | --- | --- | --- |
 | Entecavir | Lamivudine | Entecavir | Lamivudine |  |
 | 0.5 mg | 100 mg | 0.5 mg | 100 mg |  |
 | n=354 | n=355 | n=325 | n=313 |  |
@@ -71,9 +73,10 @@ Entecavir was superior to lamivudine on a primary endpoint of Histologic Improve
 These results and change in Ishak Fibrosis Score are shown in Table 10.
 Table 11 shows selected virologic, biochemical, and serologic endpoints.
 
-| Table 10: Histologic Improvement and Change in Ishak Fibrosis Score at Week 48, Lamivudine-Refractory Subjects in Study AI463026 |  |  |
-| --- | --- | --- |
+Table 10: Histologic Improvement and Change in Ishak Fibrosis Score at Week 48, Lamivudine-Refractory Subjects in Study AI463026
+
 |  | Entecavir | Lamivudine |
+| --- | --- | --- |
 | 1 mg | 100 mg |  |
 | n=124a | n=116a |  |
 | Histologic Improvement (Knodell Scores) |  |  |
@@ -86,23 +89,10 @@ Table 11 shows selected virologic, biochemical, and serologic endpoints.
 | Missing Week 48 biopsy | 11% | 16% |
 | a Subjects with evaluable baseline histology (baseline Knodell Necroinflammatory Score ≥2). b ≥2-point decrease in Knodell Necroinflammatory Score from baseline with no worsening of the Knodell Fibrosis Score. c For Ishak Fibrosis Score, improvement = ≥1-point decrease from baseline and worsening = ≥1-point increase from baseline. |  |  |
 
-Histologic Improvement was independent of baseline levels of HBV DNA or ALT.
+Table 11: Selected Virologic, Biochemical, and Serologic Endpoints at Week 48, Lamivudine-Refractory Subjects in Study AI463026
 
-Subjects with Decompensated Liver Disease
-
-Study AI463048 was a randomized, open-label study of entecavir 1 mg once daily versus adefovir dipivoxil 10 mg once daily in 191 (of 195 randomized) adult subjects with HBeAg-positive or -negative chronic HBV infection and evidence of hepatic decompensation, defined as a Child-Turcotte-Pugh (CTP) score of 7 or higher.
-Subjects were either HBV-treatment-naïve or previously treated, predominantly with lamivudine or interferon-α.
-
-In Study AI463048, 100 subjects were randomized to treatment with entecavir, and 91 subjects to treatment with adefovir dipivoxil.
-Two subjects randomized to treatment with adefovir dipivoxil actually received treatment with entecavir for the duration of the study.
-The mean age of subjects was 52 years, 74% were male, 54% were Asian, 33% were Caucasian, and 5% were Black/African American.
-At baseline, subjects had a mean serum HBV DNA by PCR of 7.83 log10 copies/mL and mean ALT level of 100 U/L; 54% of subjects were HBeAg-positive; 35% had genotypic evidence of lamivudine resistance.
-The baseline mean CTP score was 8.6.
-Results for selected study endpoints at Week 48 are shown in Table 12.
-
-| Table 11: Selected Virologic, Biochemical, and Serologic Endpoints at Week 48, Lamivudine-Refractory Subjects in Study AI463026 |  |  |
-| --- | --- | --- |
 |  | Entecavir | Lamivudine |
+| --- | --- | --- |
 | 1 mg | 100 mg |  |
 | n=141 | n=145 |  |
 | HBV DNAa |  |  |
@@ -112,9 +102,24 @@ Results for selected study endpoints at Week 48 are shown in Table 12.
 | HBeAg seroconversion | 8% | 3% |
 | a Roche COBAS Amplicor PCR assay (LLOQ = 300 copies/mL). |  |  |
 
-| Table 12: Selected Endpoints at Week 48, Subjects with Decompensated Liver Disease, Study AI463048 |  |  |
-| --- | --- | --- |
+Histologic Improvement was independent of baseline levels of HBV DNA or ALT.
+
+Subjects with Decompensated Liver Disease
+
+Study AI463048 was a randomized, open-label study of entecavir 1 mg once daily versus adefovir dipivoxil 10 mg once daily in 191 (of 195 randomized) adult subjects with HBeAg-positive or -negative chronic HBV infection and evidence of hepatic decompensation, defined as a Child-Turcotte-Pugh (CTP) score of 7 or higher.
+Subjects were either HBV-treatment-naïve or previously treated, predominantly with lamivudine or interferon-α.
+
+In Study AI463048, 100 subjects were randomized to treatment with entecavir and 91 subjects to treatment with adefovir dipivoxil.
+Two subjects randomized to treatment with adefovir dipivoxil actually received treatment with entecavir for the duration of the study.
+The mean age of subjects was 52 years, 74% were male, 54% were Asian, 33% were Caucasian, and 5% were Black/African American.
+At baseline, subjects had a mean serum HBV DNA by PCR of 7.83 log10 copies/mL and mean ALT level of 100 U/L; 54% of subjects were HBeAg-positive; 35% had genotypic evidence of lamivudine resistance.
+The baseline mean CTP score was 8.6.
+Results for selected study endpoints at Week 48 are shown in Table 12.
+
+Table 12: Selected Endpoints at Week 48, Subjects with Decompensated Liver Disease, Study AI463048
+
 |  | Entecavir | Adefovir Dipivoxil |
+| --- | --- | --- |
 | 1 mg | 10 mg |  |
 | n=100a | n=91a |  |
 | HBV DNAb |  |  |
@@ -135,9 +140,10 @@ Virologic and biochemical endpoints at Week 24 are shown in Table 13.
 There are no data in patients with HIV/HBV co-infection who have not received prior lamivudine therapy.
 Entecavir has not been evaluated in HIV/HBV co-infected patients who were not simultaneously receiving effective HIV treatment [see Warnings and Precautions (5.2)].
 
-| Table 13: Virologic and Biochemical Endpoints at Week 24, Study AI463038 |  |  |
-| --- | --- | --- |
+Table 13: Virologic and Biochemical Endpoints at Week 24, Study AI463038
+
 |  | Entecavir 1 mga n=51 | Placeboa n=17 |
+| --- | --- | --- |
 | HBV DNAb |  |  |
 | Proportion undetectable (<300 copies/mL) | 6% | 0 |
 | Mean change from baseline (log10 copies/mL) | −3.65 | +0.11 |
@@ -178,7 +184,7 @@ In this cohort of entecavir subjects, 31 (40%) subjects achieved HBV DNA <300 co
 ## 14.2 Outcomes in Pediatric Subjects
 
 The pharmacokinetics, safety and antiviral activity of entecavir in pediatric subjects were initially assessed in Study AI463028.
-Twenty-four treatment-naïve and 19 lamivudine- experienced HBeAg-positive pediatric subjects 2 to less than 18 years of age with compensated CHB and elevated ALT were treated with entecavir 0.015 mg/kg (up to 0.5 mg) or 0.03 mg/kg (up to 1 mg) once daily.
+Twenty-four treatment-naïve and 19 lamivudine-experienced HBeAg-positive pediatric subjects 2 to less than 18 years of age with compensated CHB and elevated ALT were treated with entecavir 0.015 mg/kg (up to 0.5 mg) or 0.03 mg/kg (up to 1 mg) once daily.
 Fifty-eight percent (14/24) of treatment-naïve subjects and 47% (9/19) of lamivudine-experienced subjects achieved HBV DNA <50 IU/mL at Week 48 and ALT normalized in 83% (20/24) of treatment-naïve and 95% (18/19) of lamivudine-experienced subjects.
 
 Safety and antiviral efficacy were confirmed in Study AI463189, an ongoing study of entecavir among 180 nucleoside-inhibitor-treatment-naïve pediatric subjects 2 to less than 18 years of age with HBeAg-positive chronic hepatitis B infection, compensated liver disease, and elevated ALT.

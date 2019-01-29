@@ -5,13 +5,15 @@ The following adverse reactions are discussed in other sections of the labeling:
 - Exacerbations of hepatitis after discontinuation of treatment [see Boxed Warning, Warnings and Precautions (5.1)].
 - Lactic acidosis and severe hepatomegaly with steatosis [see Boxed Warning, Warnings and Precautions (5.3)].
 
-## 6.1 Clinical Trial Experience in Adults
+## 6.1 Clinical Trial Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
+Clinical Trial Experience in Adults
+
 Compensated Liver Disease
 
-Assessment of adverse reactions is based on four studies (AI463014, AI463022, AI463026, and AI463027) in which 1720 subjects with chronic hepatitis B virus infection and compensated liver disease received double-blind treatment with entecavir 0.5 mg/day (n=679), entecavir 1 mg/day (n=183), or lamivudine (n=858) for up to 2 years.
+Assessment of adverse reactions is based on four studies (AI463014, AI463022, AI463026, and AI463027) in which 1,720 subjects with chronic hepatitis B virus infection and compensated liver disease received double-blind treatment with entecavir 0.5 mg/day (n=679), entecavir 1 mg/day (n=183), or lamivudine (n=858) for up to 2 years.
 Median duration of therapy was 69 weeks for entecavir-treated subjects and 63 weeks for lamivudine-treated subjects in Studies AI463022 and AI463027 and 73 weeks for entecavir-treated subjects and 51 weeks for lamivudine-treated subjects in Studies AI463026 and AI463014.
 The safety profiles of entecavir and lamivudine were comparable in these studies.
 
@@ -21,12 +23,13 @@ One percent of entecavir-treated subjects in these four studies compared with 4%
 
 Clinical adverse reactions of moderate-severe intensity and considered at least possibly related to treatment occurring during therapy in four clinical studies in which entecavir was compared with lamivudine are presented in Table 3.
 
-| Table 3: Clinical Adverse Reactionsa of Moderate-Severe Intensity (Grades 2 to 4) Reported in Four Entecavir Clinical Trials Through 2 Years |  |  |  |  |
-| --- | --- | --- | --- | --- |
+Table 3: Clinical Adverse Reactionsa of Moderate-Severe Intensity (Grades 2 to 4) Reported in Four Entecavir Clinical Trials Through 2 Years
+
 |  | Nucleoside-Inhibitor-Naïveb |  | Lamivudine-Refractoryc |  |
+| --- | --- | --- | --- | --- |
 |  | Entecavir | Lamivudine | Entecavir | Lamivudine |
-| Body System/ | 0.5 mg | 100 mg | 1 mg | 100 mg |
-| Adverse Reaction | n=679 | n=668 | n=183 | n=190 |
+| Body System/ Adverse Reaction | 0.5 mg | 100 mg | 1 mg | 100 mg |
+| n=679 | n=668 | n=183 | n=190 |  |
 | Any Grade 2 to 4 adverse reactiona | 15% | 18% | 22% | 23% |
 | Gastrointestinal |  |  |  |  |
 | Diarrhea | <1% | 0 | 1% | 0 |
@@ -49,9 +52,10 @@ Laboratory Abnormalities
 
 Frequencies of selected treatment-emergent laboratory abnormalities reported during therapy in four clinical trials of entecavir compared with lamivudine are listed in Table 4.
 
-| Table 4: Selected Treatment-Emergenta Laboratory Abnormalities Reported in Four Entecavir Clinical Trials Through 2 Years |  |  |  |  |
-| --- | --- | --- | --- | --- |
+Table 4: Selected Treatment-Emergenta Laboratory Abnormalities Reported in Four Entecavir Clinical Trials Through 2 Years
+
 |  | Nucleoside-Inhibitor-Naïveb |  | Lamivudine-Refractoryc |  |
+| --- | --- | --- | --- | --- |
 |  | Entecavir | Lamivudine | Entecavir | Lamivudine |
 |  | 0.5 mg | 100 mg | 1 mg | 100 mg |
 | Test | n=679 | n=668 | n=183 | n=190 |
@@ -79,16 +83,17 @@ Among entecavir-treated subjects in these studies, on-treatment ALT elevations g
 A majority of these exacerbations were associated with a ≥2 log10/mL reduction in viral load that preceded or coincided with the ALT elevation.
 Periodic monitoring of hepatic function is recommended during treatment.
 
-Exacerbations of Hepatitis after Discontinuation of Treatment
+Exacerbations of Hepatitis After Discontinuation of Treatment
 
 An exacerbation of hepatitis or ALT flare was defined as ALT greater than 10 times ULN and greater than 2 times the subject’s reference level (minimum of the baseline or last measurement at end of dosing).
 For all subjects who discontinued treatment (regardless of reason), Table 5 presents the proportion of subjects in each study who experienced post-treatment ALT flares.
 In these studies, a subset of subjects was allowed to discontinue treatment at or after 52 weeks if they achieved a protocol-defined response to therapy.
 If entecavir is discontinued without regard to treatment response, the rate of post-treatment flares could be higher [see Warnings and Precautions (5.1)].
 
-| Table 5: Exacerbations of Hepatitis During Off-Treatment Follow-up, Subjects in Studies AI463022, AI463027, and AI463026 |  |  |
-| --- | --- | --- |
+Table 5: Exacerbations of Hepatitis During Off-Treatment Follow-up, Subjects in Studies AI463022, AI463027, and AI463026
+
 |  | Subjects with ALT Elevations >10 x ULN and >2 x Referencea |  |
+| --- | --- | --- |
 |  | Entecavir | Lamivudine |
 | Nucleoside-inhibitor-naïve |  |  |
 | HBeAg-positive | 4/174 (2%) | 13/147 (9%) |
@@ -118,16 +123,14 @@ Liver Transplant Recipients
 
 Among 65 subjects receiving entecavir in an open-label, post-liver transplant trial [see Use in Specific Populations (8.8)], the frequency and nature of adverse events were consistent with those expected in patients who have received a liver transplant and the known safety profile of entecavir.
 
-## 6.2 Clinical Trial Experience in Pediatric Subjects
-
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+Clinical Trial Experience in Pediatric Subjects
 
 The safety of entecavir in pediatric subjects 2 to less than 18 years of age is based on two ongoing clinical trials in subjects with chronic HBV infection (one Phase 2 pharmacokinetic trial [AI463028] and one Phase 3 trial [AI463189]).
 These trials provide experience in 168 HBeAg-positive subjects treated with entecavir for a median duration of 72 weeks.
 The adverse reactions observed in pediatric subjects who received treatment with entecavir were consistent with those observed in clinical trials of entecavir in adults.
 Adverse drug reactions reported in greater than 1% of pediatric subjects included abdominal pain, rash events, poor palatability (“product taste abnormal”), nausea, diarrhea, and vomiting.
 
-## 6.3 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been reported during postmarketing use of entecavir.
 Because these reactions were reported voluntarily from a population of unknown size, it is not possible to reliably estimate their frequency or establish a causal relationship to entecavir exposure.

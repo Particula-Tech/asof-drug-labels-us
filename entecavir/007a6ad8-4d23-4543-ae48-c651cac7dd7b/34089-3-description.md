@@ -10,4 +10,4 @@ It is slightly soluble in water (2.4 mg/mL), and the pH of the saturated solutio
 
 Entecavir, USP film-coated tablets are available for oral administration in strengths of 0.5 mg and 1 mg of entecavir, USP.
 Entecavir, USP 0.5 mg and 1 mg film-coated tablets contain the following inactive ingredients: Crospovidone, lactose monohydrate, magnesium stearate, microcrystalline cellulose and povidone.
-The tablet coating contains hypromellose, iron oxide red (in 1 mg tablet only), polyethylene glycol 8000 and titanium dioxide.
+The tablet coating contains hypromellose, iron oxide red (in 1 mg tablet only), polyethylene glycol 8,000 and titanium dioxide.
