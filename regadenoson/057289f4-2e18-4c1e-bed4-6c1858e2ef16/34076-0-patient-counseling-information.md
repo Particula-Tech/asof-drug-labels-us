@@ -33,4 +33,4 @@ Syringes Manufactured by: Hospira, Inc. Lake Forest, IL 60045 USA
 LEXISCAN® and ADENOSCAN® are registered trademarks of Astellas US LLC.
 All other trademarks and registered trademarks are the property of their respective owners.
 
-206573-LEX
+229780-LEX
