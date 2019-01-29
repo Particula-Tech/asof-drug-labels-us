@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020310"
+  ],
+  "inn": "ketoconazole",
+  "labeler": "Kramer Laboratories",
+  "package_ndcs": [
+    "55505-191-33",
+    "55505-191-40"
+  ],
+  "products": [
+    {
+      "form": "SHAMPOO",
+      "generic": "ketoconazole",
+      "name": "Nizoral"
+    }
+  ],
+  "setid": "f64110c2-201e-4e29-b76c-591db50e7bd7",
+  "source": "dailymed"
+}
