@@ -3,6 +3,18 @@
 LIDOCAINE HCl INJECTIONS FOR INFILTRATION AND NERVE BLOCK SHOULD BE EMPLOYED ONLY BY CLINICIANS WHO ARE WELL VERSED IN DIAGNOSIS AND MANAGEMENT OF DOSE-RELATED TOXICITY AND OTHER ACUTE EMERGENCIES THAT MIGHT ARISE FROM THE BLOCK TO BE EMPLOYED AND THEN ONLY AFTER ENSURING THE IMMEDIATE AVAILABILITY OF OXYGEN, OTHER RESUSCITATIVE DRUGS, CARDIOPULMONARY EQUIPMENT AND THE PERSONNEL NEEDED FOR PROPER MANAGEMENT OF TOXIC REACTIONS AND RELATED EMERGENCIES (see also ADVERSE REACTIONS and PRECAUTIONS).
 DELAY IN PROPER MANAGEMENT OF DOSE-RELATED TOXICITY, UNDERVENTILATION FROM ANY CAUSE AND/OR ALTERED SENSITIVITY MAY LEAD TO THE DEVELOPMENT OF ACIDOSIS, CARDIAC ARREST AND, POSSIBLY, DEATH.
 
+Methemoglobinemia
+
+Cases of methemoglobinemia have been reported in association with local anesthetic use.
+Although all patients are at risk for methemoglobinemia, patients with glucose-6-phosphate dehydrogenase deficiency, congenital or idiopathic methemoglobinemia, cardiac or pulmonary compromise, infants under 6 months of age, and concurrent exposure to oxidizing agents or their metabolites are more susceptible to developing clinical manifestations of the condition.
+If local anesthetics must be used in these patients, close monitoring for symptoms and signs of methemoglobinemia is recommended.
+
+Signs of methemoglobinemia may occur immediately or may be delayed some hours after exposure, and are characterized by a cyanotic skin discoloration and/or abnormal coloration of the blood.
+Methemoglobin levels may continue to rise; therefore, immediate treatment is required to avert more serious central nervous system and cardiovascular adverse effects, including seizures, coma, arrhythmias, and death.
+Discontinue lidocaine and any other oxidizing agents.
+Depending on the severity of the signs and symptoms, patients may respond to supportive care, i.e., oxygen therapy, hydration.
+A more severe clinical presentation may require treatment with methylene blue, exchange transfusion, or hyperbaric oxygen.
+
 Intra-articular infusions of local anesthetics following arthroscopic and other surgical procedures is an unapproved use, and there have been post-marketing reports of chondrolysis in patients receiving such infusions.
 The majority of reported cases of chondrolysis have involved the shoulder joint; cases of gleno-humeral chondrolysis have been described in pediatric and adult patients following intra-articular infusions of local anesthetics with and without epinephrine for periods of 48 to 72 hours.
 There is insufficient information to determine whether shorter infusion periods are not associated with these findings.
@@ -14,6 +26,9 @@ The needle must be repositioned until no return of blood can be elicited by aspi
 Note, however, that the absence of blood in the syringe does not guarantee that intravascular injection has been avoided.
 
 Local anesthetic solutions containing antimicrobial preservatives (eg, methylparaben) should not be used for epidural or spinal anesthesia because the safety of these agents has not been established with regard to intrathecal injection, either intentional or accidental.
+
+Anaphylactic reactions may occur following administration of lidocaine hydrochloride (see ADVERSE REACTIONS).
+In the case of severe reaction, discontinue the use of the drug.
 
 # PRECAUTIONS
 
@@ -55,6 +70,11 @@ Patients receiving these blocks should have their circulation and respiration mo
 Resuscitative equipment and personnel for treating adverse reactions should be immediately available.
 Dosage recommendations should not be exceeded (see DOSAGE AND ADMINISTRATION).
 
+## Information for Patients
+
+Inform patients that use of local anesthetics may cause methemoglobinemia, a serious condition that must be treated promptly.
+Advise patients or caregivers to seek immediate medical attention if they or someone in their care experience the following signs or symptoms: pale, gray, or blue colored skin (cyanosis); headache; rapid heart rate; shortness of breath; lightheadedness; or fatigue.
+
 ## Clinically Significant Drug Interactions
 
 Concurrent administration of vasopressor drugs (for the treatment of hypotension related to obstetric blocks) and ergot-type oxytocic drugs may cause severe, persistent hypertension or cerebrovascular accidents.
@@ -63,6 +83,20 @@ Concurrent administration of vasopressor drugs (for the treatment of hypotension
 
 The intramuscular injection of lidocaine HCl may result in an increase in creatine phosphokinase levels.
 Thus, the use of this enzyme determination, without isoenzyme separation, as a diagnostic test for the presence of acute myocardial infarction may be compromised by the intramuscular injection of lidocaine HCl.
+
+Patients who are administered local anesthetics are at increased risk of developing methemoglobinemia when concurrently exposed to the following drugs, which could include other local anesthetics:
+
+Examples of Drugs Associated with Methemoglobinemia:
+
+| Class | Examples |
+| --- | --- |
+| Nitrates/Nitrites | nitric oxide, nitroglycerin, nitroprusside, nitrous oxide |
+| Local anesthetics | articaine, benzocaine, bupivacaine, lidocaine, mepivacaine, prilocaine, procaine, ropivacaine, tetracaine |
+| Antineoplastic agents | cyclophosphamide, flutamide, hydroxyurea, ifosfamide, rasburicase |
+| Antibiotics | dapsone, nitrofurantoin, paraaminosalicylic acid, sulfonamides |
+| Antimalarials | chloroquine, primaquine |
+| Anticonvulsants | Phenobarbital, phenytoin, sodium valproate |
+| Other drugs | acetaminophen, metoclopramide, quinine, sulfasalazine |
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 

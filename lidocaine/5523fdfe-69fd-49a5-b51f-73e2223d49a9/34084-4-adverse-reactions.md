@@ -22,8 +22,11 @@ Cardiovascular manifestations are usually depressant and are characterized by br
 
 Allergic reactions are characterized by cutaneous lesions, urticaria, edema or anaphylactoid reactions.
 Allergic reactions may occur as a result of sensitivity either to local anesthetic agents or to the methylparaben used as a preservative in the multiple dose vials.
-Allergic reactions as a result of sensitivity to lidocaine HCl are extremely rare and, if they occur, should be managed by conventional means.
+Allergic reactions, including anaphylactic reactions, may occur as a result of sensitivity to lidocaine, but are infrequent.
+If allergic reactions do occur, they should be managed by conventional means.
 The detection of sensitivity by skin testing is of doubtful value.
+
+There have been no reports of cross sensitivity between lidocaine hydrochloride and procainamide or between lidocaine hydrochloride and quinidine.
 
 ## Neurologic
 
@@ -32,3 +35,7 @@ In a prospective review of 10,440 patients who received lidocaine HCl for spinal
 Many of these observations may be related to local anesthetic techniques, with or without a contribution from the local anesthetic.
 
 There have been reported cases of permanent injury to extraocular muscles requiring surgical repair following retrobulbar administration.
+
+## Hematologic
+
+Methemoglobinemia.

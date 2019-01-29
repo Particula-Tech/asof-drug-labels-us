@@ -65,6 +65,6 @@ Distributed by:
 
 WEST-WARD PHARMACEUTICALS Eatontown, NJ 07724 USA
 
-February 2015
+January 2019
 
-PIN371–WES/1
+PIN371–WES/2
