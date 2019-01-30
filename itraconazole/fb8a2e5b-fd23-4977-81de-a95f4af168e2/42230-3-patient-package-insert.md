@@ -10,12 +10,12 @@ What is the most important information I should know about ONMEL?
 
 ONMEL can cause serious life-threatening side effects, including:
 
-- 1.Heart Failure.
+- Heart Failure.
   Do not take ONMEL if you have had heart failure, including congestive heart failure.Stop taking ONMEL and call your doctor right away if you have any of these symptoms of congestive heart failure: shortness of breathswelling of your feet, ankles, or legssudden weight gainincreased tiredness coughing up white or pink phlegmfast heartbeatwaking up at night more than normal for you
-- 2.Serious cardiovascular effects.
+- Serious cardiovascular effects.
   Do not take ONMEL if you also take the following medicines: cisapride (Propulsid)pimozide (Orap)quinidine (Quindine Gluconate, QuindineSulfate)dofetilide (Tikosyn)levomethadyl (Oralaam)midazolam (Versed)felodipine, nisoldipine (Lexxel, Plendil, Sular) triazolam (Halcion)lovastatin (Mevacor, Advicor, Altoprev)simvastatin (Zocor, Simcor, Vytorin)ergot alkaloids (Migranal, Ergonovine, Cafergot, Methergine, Dihydroergotamine Mesylate, Methylergonovine)methadone (Dolophine) This is not a complete list of medicines that can interact with ONMEL.
-- •Before taking ONMEL, tell your doctor about all the medicine you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
-- •Before you start any new medicine, ask your doctor or pharmacist if it is safe to take it with ONMEL.
+- Before taking ONMEL, tell your doctor about all the medicine you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+- Before you start any new medicine, ask your doctor or pharmacist if it is safe to take it with ONMEL.
 
 What is ONMEL?
 
@@ -28,7 +28,7 @@ Do not take ONMEL if you:
 
 - have or had heart failure, including congestive heart failure.
 - Take certain medicines.
-  See "What is the most important information I should know about ONMEL?"
+  See " What is the most important information I should know about ONMEL?"
 - are pregnant or plan to become pregnant.
   ONMEL can harm your unborn baby.
   Talk to your doctor if you are pregnant or plan to become pregnant.
@@ -42,7 +42,7 @@ Before taking ONMEL, tell your doctor if you:
 - have or had heart, lung, liver or kidney problems
 - have any other medical conditions
 - are pregnant or planning to become pregnant.
-  See "Who should not take ONMEL?".
+  See " Who should not take ONMEL?".
   Females who can become pregnant should use effective birth control during treatment with ONMEL and for 2 months after you stop treatment with ONMEL.
   Talk to your doctor about the type of birth control that is best for you while taking ONMEL.
 - are breast-feeding or plan to breast-feed.
@@ -53,7 +53,7 @@ Tell your doctor about all the medicines you take, including prescription and no
 
 Taking ONMEL with certain other medicines could lead to serious or life-threatening medical problems.
 
-- See "What is the most important information I should know about ONMEL?"
+- See " What is the most important information I should know about ONMEL?"
 - Fentanyl.
   Taking fentanyl, a strong opioid narcotic main medicine with ONMEL could cause serious breathing problems that can lead to death.
 
@@ -79,7 +79,7 @@ What are the possible side effects of ONMEL?
 
 ONMEL can cause serious side effects, including:
 
-- See "What is the most important information I should know about ONMEL?"
+- See " What is the most important information I should know about ONMEL?"
 - liver failure and death.
   Stop taking ONMEL and call your doctor right away if you have symptoms of liver failure including: unusually tiredlose your appetitenauseaabdominal pain vomitingyellow change in the color of your skin or eyesdark colored urinepale stools (bowel movements)
 - nerve damage (neuropathy).
@@ -128,8 +128,8 @@ Inactive ingredients: colloidal silicon dioxide, crospovidone, hydrogenated vege
 
 The following are registered trademarks of their respective manufacturers:
 
-Dolophine® (Roxane Laboratories, Inc), Mevacor® (Merck & Co., Inc.), Advicor® (Kos Pharmaceuticals, Inc.), Altocor™ (Andrx Laboratories), Zocor® (Merck & Co., Inc.), Halcion® (Pharmacia), Versed® (Roche Pharmaceuticals), Cardioquin® (The Purdue Frederick Company), Quinaglute® (Berlex Laboratories), Quinidex® (A.H.
-Robins), Tikosyn™ (Pfizer, Inc.), Propulsid® (Janssen Pharmaceutica Products, L.P.), Orlaam® (Roxane Laboratories), Migranal® (Xcel Pharmaceuticals), Ergonovine (PDRX Pharmaceuticals), Cafergot® (Novartis Pharmaceuticals Corporation), Methergine® (Novartis Pharmaceuticals Corporation), Orap® (Gate Pharmaceuticals), and Sular® (First Horizon Pharmaceutical Corporation)
+Dolophine ® (Roxane Laboratories, Inc), Mevacor ® (Merck & Co., Inc.), Advicor ® (Kos Pharmaceuticals, Inc.), Altocor™ (Andrx Laboratories), Zocor ® (Merck & Co., Inc.), Halcion ® (Pharmacia), Versed ® (Roche Pharmaceuticals), Cardioquin ® (The Purdue Frederick Company), Quinaglute ® (Berlex Laboratories), Quinidex ® (A.H.
+Robins), Tikosyn™ (Pfizer, Inc.), Propulsid ® (Janssen Pharmaceutica Products, L.P.), Orlaam ® (Roxane Laboratories), Migranal ® (Xcel Pharmaceuticals), Ergonovine (PDRX Pharmaceuticals), Cafergot ® (Novartis Pharmaceuticals Corporation), Methergine ® (Novartis Pharmaceuticals Corporation), Orap ® (Gate Pharmaceuticals), and Sular ® (First Horizon Pharmaceutical Corporation)
 
 What happens if I have a fungal nail infection?
 

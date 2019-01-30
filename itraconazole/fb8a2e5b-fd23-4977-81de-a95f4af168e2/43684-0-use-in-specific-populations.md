@@ -11,7 +11,7 @@ Therefore, ONMEL should not be administered to pregnant women, women planning pr
 Effective contraceptive measures should continue throughout the treatment period and for two months thereafter.
 ONMEL should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-Itraconazole produced a significant dose-related increase in maternal toxicity, embryotoxicity, and teratogenicity in rats at dose levels of 40-160 mg/kg/day (2-10 times the maximum recommended human dose [MRHD], based on mg/m2/day comparisons), and in mice at 80 mg/kg/day (2 times MRHD, based on mg/m2/day comparisons).
+Itraconazole produced a significant dose-related increase in maternal toxicity, embryotoxicity, and teratogenicity in rats at dose levels of 40-160 mg/kg/day (2-10 times the maximum recommended human dose [MRHD], based on mg/m 2/day comparisons), and in mice at 80 mg/kg/day (2 times MRHD, based on mg/m 2/day comparisons).
 Teratogenic changes in rats included major skeletal defects; encephalocele and/or macroglossia developed in mice.
 
 ## 8.3 Nursing Mothers

@@ -14,7 +14,7 @@ Table 7: Primary Efficacy Results at Week 52
 
 | Endpoint | ONMEL N=593 | Placebo N=198 |
 | --- | --- | --- |
-| Complete CureComplete Cure defined as Clinical Cure (no evidence of onychomycosis in target nail; normal nail unit without subungual hyperkeratosis or onycholysis) and Mycological Cure (negative KOH and negative culture) | 22.3% | 1.0% |
+| Complete Cure Complete Cure defined as Clinical Cure (no evidence of onychomycosis in target nail; normal nail unit without subungual hyperkeratosis or onycholysis) and Mycological Cure (negative KOH and negative culture) | 22.3% | 1.0% |
 
 The Mycologic Cure rate was 44% and the Clinical Cure rate was 26% for subjects treated with ONMEL.
 Comparatively, the Mycological Cure rate was 6% and the Clinical Cure rate was 3% for subjects treated with Placebo Tablets.

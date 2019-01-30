@@ -20,7 +20,7 @@ Inhibitors of CYP3A4 may increase the plasma concentrations of itraconazole.
 Patients who must take ONMEL concomitantly with one of these drugs should be monitored closely for signs or symptoms of increased or prolonged pharmacologic effects of ONMEL.
 
 Table 3.
-Selected Drugs that altered or are predicted to alter the plasma concentration of itraconazole or have their plasma concentration altered by ONMELThis list is not all-inclusive.
+Selected Drugs that altered or are predicted to alter the plasma concentration of itraconazole or have their plasma concentration altered by ONMEL This list is not all-inclusive.
 
 | Drug plasma concentration increased by itraconazole |  |
 | --- | --- |
@@ -29,7 +29,7 @@ Selected Drugs that altered or are predicted to alter the plasma concentration o
 | Anti-HIV Agents | indinavir, ritonavir, saquinavir, maraviroc |
 | Antineoplastics | busulfan, docetaxel, vinca alkaloids |
 | Antipsychotics | pimozide |
-| Benzodiazepines | alprazolam, diazepam, midazolam,For information on parenterally administered midazolam, see the Benzodiazepine paragraph below. triazolam |
+| Benzodiazepines | alprazolam, diazepam, midazolam, For information on parenterally administered midazolam, see the Benzodiazepine paragraph below. triazolam |
 | Calcium Channel Blockers | dihydropyridines (including nisoldipine and felodipine), verapamil |
 | Gastrointestinal Motility Agents | cisapride |
 | HMG CoA-Reductase Inhibitors | atorvastatin, cerivastatin, lovastatin, simvastatin |
@@ -42,18 +42,18 @@ Selected Drugs that altered or are predicted to alter the plasma concentration o
 | Anticonvulsants | carbamazepine, phenobarbital, phenytoin |
 | Anti-HIV Agents | nevirapine, efavirenz |
 | Antimycobacterials | isoniazid, rifabutin, rifampin |
-| Gastric Acid Suppressors/Neutralizers | antacids, H2-receptor antagonists, proton pump inhibitors |
+| Gastric Acid Suppressors/Neutralizers | antacids, H 2-receptor antagonists, proton pump inhibitors |
 | Increase plasma concentration of itraconazole |  |
 | Macrolide Antibiotics | clarithromycin, erythromycin |
 | Anti-HIV Agents | indinavir, ritonavir |
 
 Table 4.
-Selected Drugs that are contraindicated for use with itraconazoleThis list is not all-inclusive.
+Selected Drugs that are contraindicated for use with itraconazole This list is not all-inclusive.
 
 | Antipsychotics | pimozide |
 | --- | --- |
 | Antiarrhythmics | dofetilide, quinidine |
-| Benzodiazepines | oral midazolamFor information on parenterally administered midazolam, see the Benzodiazepine paragraph below., triazolam |
+| Benzodiazepines | oral midazolam For information on parenterally administered midazolam, see the Benzodiazepine paragraph below., triazolam |
 | Calcium Channel Blockers | Nisoldipine, felodipine |
 | Ergot Alkaloids | dihydroergotamine, ergotamine, ergometrine (ergonovine), methylergometrine (methylergonovine) |
 | Gastrointestinal Motility Agents | cisapride |
@@ -133,8 +133,7 @@ Calcium channel blockers can have a negative inotropic effect which may be addit
 Therefore, caution should be used when co-administering itraconazole and calcium channel blockers due to an increased risk of CHF.
 
 Concomitant administration of ONMEL and nisoldipine results in clinically significant increases in nisoldipine plasma concentrations, which cannot be managed by dosage reduction, therefore the concomitant administration of ONMEL and nisoldipine is contraindicated.
-A clinical study showed that felodipine exposure was increased by co-administration of itraconazole, resulting in approximately 6-fold increase in the AUC and 8-fold increase in the Cmax.
-The concomitant use of ONMEL and felodipine is contraindicated.
+A clinical study showed that felodipine exposure was increased by co-administration of itraconazole, resulting in approximately 6-fold increase in the AUC and 8-fold increase in the C max. The concomitant use of ONMEL and felodipine is contraindicated.
 [See Contraindications (4), Warnings and Precautions (5), Drug Interactions (7), and Clinical Pharmacology (12).]
 
 Edema has been reported in patients concomitantly receiving itraconazole and dihydropyridine calcium channel blockers.
@@ -142,9 +141,9 @@ Appropriate dosage adjustment may be necessary.
 
 Gastric Acid Suppressors/Neutralizers
 
-Reduced plasma concentrations of itraconazole were reported when administered concomitantly with H2-receptor antagonists.
+Reduced plasma concentrations of itraconazole were reported when administered concomitantly with H 2-receptor antagonists.
 Studies have shown that absorption of itraconazole is impaired when gastric acid production is decreased.
-ONMEL should be administered with a cola beverage if the patient has achlorhydria or is taking H2-receptor antagonists or other gastric acid suppressors.
+ONMEL should be administered with a cola beverage if the patient has achlorhydria or is taking H 2-receptor antagonists or other gastric acid suppressors.
 It is advised that antacids be administered at least 1 hour before or 2 hours after administration of ONMEL.
 In a clinical study, when itraconazole capsules were administered with omeprazole (a proton pump inhibitor), the bioavailability of itraconazole was significantly reduced.
 

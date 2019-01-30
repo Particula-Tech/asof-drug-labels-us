@@ -21,7 +21,7 @@ Table 1: Adverse Reactions Occurring at Frequencies ≥ 1% in the Onychomycosis 
 | Upper respiratory tract infections | 6.0% | 7.3% |
 | Bacteriuria | 1.4% | 1.6% |
 | Urinary tract infection | 1.0% | 0.5% |
-| INVESTIGATIONS |  |  |
+| I NVESTIGATIONS |  |  |
 | Hepatic enzymes increased | 2.9% | 0.0% |
 | Electrocardiogram abnormal | 1.4% | 1.6% |
 | EAR AND LABYRINTH DISORDERS |  |  |
