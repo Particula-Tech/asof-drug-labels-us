@@ -29,7 +29,7 @@ Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
 
 Made in Ireland
 
-0511C100 MI:218:1C:R3
+0511C101 MI:218:1C:R4
 
 Duraclon® is a licensed registered trademark.
 
