@@ -11,8 +11,6 @@
 - •Asthenia and Fatigue Advise patients that topotecan may cause asthenia or fatigue.
   These symptoms may impair the ability to safely drive or operate machinery.
 
-EN-4191
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-Manufactured by: Zydus Hospira Oncology Private Ltd., Gujarat, India
-
-Distributed by: Hospira, Inc., Lake Forest, IL 60045 USA GUJ-DRUGS/G/28/1267 Made in India
+LAB-1355-1.0
