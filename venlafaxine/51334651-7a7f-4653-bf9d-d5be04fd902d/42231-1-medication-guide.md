@@ -175,6 +175,8 @@ Before starting venlafaxine tablets, tell your healthcare provider if you:
 
 - Are taking certain drugs such as:
 
+• Amphetamines
+
 • Medicines used to treat migraine headaches such as:
 
 ο triptans
