@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA211040"
+  ],
+  "inn": "sirolimus",
+  "labeler": "VistaPharm, Inc.",
+  "package_ndcs": [
+    "66689-347-02"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "sirolimus",
+      "name": "Sirolimus"
+    }
+  ],
+  "setid": "19880f51-badb-4846-a02a-592a210690ab",
+  "source": "dailymed"
+}
