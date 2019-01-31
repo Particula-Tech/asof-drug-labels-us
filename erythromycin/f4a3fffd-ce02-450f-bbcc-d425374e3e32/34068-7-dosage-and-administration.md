@@ -5,8 +5,8 @@ Erythromycin ethylsuccinate suspensions may be administered without regard to me
 ## Children
 
 Age, weight, and severity of the infection are important factors in determining the proper dosage.
-In mild to moderate infections the usual dosage of erythromycin ethylsuccinate for children is 30 to 50 mg/kg/day in equally divided doses every 6 hours.
-For more severe infections this dosage may be doubled.
+In mild to moderate infections, the usual dosage of erythromycin ethylsuccinate for children is 30 to 50 mg/kg/day in equally divided doses every 6 hours.
+For more severe infections, this dosage may be doubled.
 If twice-a-day dosage is desired, one-half of the total daily dose may be given every 12 hours.
 Doses may also be given three times daily by administering one-third of the total daily dose every 8 hours.
 
@@ -52,7 +52,7 @@ Although optimal dosage and duration have not been established, doses of erythro
 
 ## For Treatment of Legionnaires' Disease
 
-Although optimal doses have not been established, doses utilized in reported clinical data were those recommended above (1.6 to 4 g daily in divided doses.)
+Although optimal doses have not been established, doses utilized in reported clinical data were those recommended above (1.6 to 4 g daily in divided doses).
 
 ## Directions for Mixing Erythromycin Ethylsuccinate Granules
 

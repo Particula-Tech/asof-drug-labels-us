@@ -19,6 +19,6 @@ Erythromycin Ethylsuccinate 400 Liquid: Each 5-mL teaspoonful of orange-flavored
 
 Granules and ready-made suspensions are intended primarily for pediatric use but can also be used in adults.
 
-Inactive Ingredients:
+## Inactive Ingredients
 
 Erythromycin Ethylsuccinate Granules: Citric acid, FD&C Red No. 3, magnesium aluminum silicate, sodium carboxymethylcellulose, sodium citrate, sucrose and artificial flavor.

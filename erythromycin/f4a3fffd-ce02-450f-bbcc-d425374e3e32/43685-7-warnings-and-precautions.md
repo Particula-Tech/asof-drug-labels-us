@@ -48,14 +48,13 @@ Therefore, patients receiving concomitant lovastatin and erythromycin should be 
 
 Prescribing Erythromycin Ethylsuccinate in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
-Since erythromycin is principally excreted by the liver, caution should be exercised when erythromycin is administered to patients with impaired hepatic function.
-(See CLINICAL PHARMACOLOGY and WARNINGS sections.)
+Since erythromycin is principally excreted by the liver, caution should be exercised when erythromycin is administered to patients with impaired hepatic function (see CLINICAL PHARMACOLOGY and WARNINGS sections).
 
 Exacerbation of symptoms of myasthenia gravis and new onset of symptoms of myasthenic syndrome have been reported in patients receiving erythromycin therapy.
 
 There have been reports of infantile hypertrophic pyloric stenosis (IHPS) occurring in infants following erythromycin therapy.
 In one cohort of 157 newborns who were given erythromycin for pertussis prophylaxis, seven neonates (5%) developed symptoms of non-bilious vomiting or irritability with feeding and were subsequently diagnosed as having IHPS requiring surgical pyloromyotomy.
-A possible dose-response effect was described with an absolute risk of IHPS of 5.1% for infants who took erythromycin for 8 to 14 days and 10% for infants who took erythromycin for 15 to 21 days.5
+A possible dose-response effect was described with an absolute risk of IHPS of 5.1% for infants who took erythromycin for 8 to 14 days and 10% for infants who took erythromycin for 15 to 21 days.2
 
 Since erythromycin may be used in the treatment of conditions in infants which are associated with significant mortality or morbidity (such as pertussis or neonatal Chlamydia trachomatis infections), the benefit of erythromycin therapy needs to be weighed against the potential risk of developing IHPS.
 Parents should be informed to contact their physician if vomiting or irritability with feeding occurs.
@@ -110,7 +109,7 @@ The following CYP3A based drug interactions have been observed with erythromycin
 
 #### Ergotamine/dihydroergotamine
 
-Post-marketing reports indicate that co-administration of erythromycin with ergotamine or dihydroergotamine has been associated with acute ergot toxicity characterized by vasospasm and ischemia of the extremities and other tissues including the central nervous system.
+Post-marketing reports indicate that coadministration of erythromycin with ergotamine or dihydroergotamine has been associated with acute ergot toxicity characterized by vasospasm and ischemia of the extremities and other tissues including the central nervous system.
 Concomitant administration of erythromycin with ergotamine or dihydroergotamine is contraindicated (see CONTRAINDICATIONS).
 
 #### Triazolobenzodiazepines (such as triazolam and alprazolam) and related benzodiazepines
@@ -130,19 +129,16 @@ Reduction of sildenafil dosage should be considered.
 
 There have been spontaneous or published reports of CYP3A based interactions of erythromycin with cyclosporine, carbamazepine, tacrolimus, alfentanil, disopyramide, rifabutin, quinidine, methylprednisolone, cilostazol, vinblastine, and bromocriptine.
 
-Concomitant administration of erythromycin with cisapride, pimozide, astemizole, or terfenadine is contraindicated.
-(See CONTRAINDICATIONS.)
+Concomitant administration of erythromycin with cisapride, pimozide, astemizole, or terfenadine is contraindicated (see CONTRAINDICATIONS).
 
 In addition, there have been reports of interactions of erythromycin with drugs not thought to be metabolized by CYP3A, including hexobarbital, phenytoin, and valproate.
 
 Erythromycin has been reported to significantly alter the metabolism of the nonsedating antihistamines terfenadine and astemizole when taken concomitantly.
-Rare cases of serious cardiovascular adverse events, including electrocardiographic QT/QTc interval prolongation, cardiac arrest, torsades de pointes, and other ventricular arrhythmias have been observed.
-(See CONTRAINDICATIONS.)
+Rare cases of serious cardiovascular adverse events, including electrocardiographic QT/QTc interval prolongation, cardiac arrest, torsades de pointes, and other ventricular arrhythmias have been observed (see CONTRAINDICATIONS).
 In addition, deaths have been reported rarely with concomitant administration of terfenadine and erythromycin.
 
 There have been post-marketing reports of drug interactions when erythromycin is co-administered with cisapride, resulting in QT prolongation, cardiac arrhythmias, ventricular tachycardia, ventricular fibrillation, and torsades de pointes, most likely due to inhibition of hepatic metabolism of cisapride by erythromycin.
-Fatalities have been reported.
-(See CONTRAINDICATIONS.)
+Fatalities have been reported (see CONTRAINDICATIONS).
 
 #### Colchicine
 
@@ -166,8 +162,6 @@ There was no apparent effect on male or female fertility in rats treated with er
 
 ### Teratogenic Effects
 
-#### Pregnancy Category B
-
 There is no evidence of teratogenicity or any other adverse effect on reproduction in female rats fed erythromycin base by oral gavage at 350 mg/kg/day (approximately twice the maximum recommended human dose on a body surface area) prior to and during mating, during gestation, and through weaning.
 
 No evidence of teratogenicity or embryotoxicity was observed when erythromycin base was given by oral gavage to pregnant rats and mice at 700 mg/kg/day and to pregnant rabbits at 125 mg/kg/day (approximately 1 to 3 times the maximum recommended human dose).
@@ -187,14 +181,11 @@ See INDICATIONS AND USAGE and DOSAGE AND ADMINISTRATION sections.
 
 ## Geriatric Use
 
-Elderly patients, particularly those with reduced renal or hepatic function, may be at increased risk for developing erythromycin-induced hearing loss.
-(See ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION.)
+Elderly patients, particularly those with reduced renal or hepatic function, may be at increased risk for developing erythromycin-induced hearing loss (see ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION).
 
-Elderly patients may be more susceptible to the development of torsades de pointes arrhythmias than younger patients.
-(See WARNINGS.)
+Elderly patients may be more susceptible to the development of torsades de pointes arrhythmias than younger patients (see WARNINGS).
 
-Elderly patients may experience increased effects of oral anticoagulant therapy while undergoing treatment with erythromycin.
-(See PRECAUTIONS - Drug Interactions.)
+Elderly patients may experience increased effects of oral anticoagulant therapy while undergoing treatment with erythromycin (see PRECAUTIONS - Drug Interactions).
 
 Erythromycin Ethylsuccinate Granules contains 25.9 mg (1.1 mEq) of sodium per individual dose.
 

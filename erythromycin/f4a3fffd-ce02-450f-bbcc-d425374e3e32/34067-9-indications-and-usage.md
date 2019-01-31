@@ -39,19 +39,18 @@ When tetracyclines are contraindicated or not tolerated, erythromycin is indicat
 
 When tetracyclines are contraindicated or not tolerated, erythromycin is indicated for the treatment of nongonococcal urethritis caused by Ureaplasma urealyticum.
 
-Legionnaires' Disease caused by Legionella pneumophila.
-Although no controlled clinical efficacy studies have been conducted, in vitro and limited preliminary clinical data suggest that erythromycin may be effective in treating Legionnaires' Disease.
+Legionnaires' Disease caused by Legionella pneumophila: Although no controlled clinical efficacy studies have been conducted, in vitro and limited preliminary clinical data suggest that erythromycin may be effective in treating Legionnaires' Disease.
 
 ## Prophylaxis
 
 ### Prevention of Initial Attacks of Rheumatic Fever
 
 Penicillin is considered by the American Heart Association to be the drug of choice in the prevention of initial attacks of rheumatic fever (treatment of Streptococcus pyogenes infections of the upper respiratory tract, e.g., tonsillitis or pharyngitis).
-Erythromycin is indicated for the treatment of penicillin-allergic patients.4
+Erythromycin is indicated for the treatment of penicillin-allergic patients.1
 
 The therapeutic dose should be administered for 10 days.
 
 ### Prevention of Recurrent Attacks of Rheumatic Fever
 
 Penicillin or sulfonamides are considered by the American Heart Association to be the drugs of choice in the prevention of recurrent attacks of rheumatic fever.
-In patients who are allergic to penicillin and sulfonamides, oral erythromycin is recommended by the American Heart Association in the long-term prophylaxis of streptococcal pharyngitis (for the prevention of recurrent attacks of rheumatic fever).4
+In patients who are allergic to penicillin and sulfonamides, oral erythromycin is recommended by the American Heart Association in the long-term prophylaxis of streptococcal pharyngitis (for the prevention of recurrent attacks of rheumatic fever).1
