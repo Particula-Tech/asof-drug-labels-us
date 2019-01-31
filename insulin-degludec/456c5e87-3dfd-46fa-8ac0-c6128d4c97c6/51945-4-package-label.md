@@ -1,4 +1,20 @@
-# PRINCIPAL DISPLAY PANEL U-100
+# PRINCIPAL DISPLAY PANEL U-100 Vial
+
+NDC 0169-2662-11 List 266211
+
+TRESIBA®
+
+1. (insulin degludec injection)
+
+100 units/mL (U-100)
+
+For subcutaneous use only
+
+Rx Only
+
+One 10 mL vial
+
+# PRINCIPAL DISPLAY PANEL U-100 FlexTouch
 
 NDC 0169-2660-15
 
@@ -32,7 +48,7 @@ After first use, store between 36°F to 86°F (2°C to 30°C).
 
 Protect from light.
 
-# PRINCIPAL DISPLAY PANEL U-200
+# PRINCIPAL DISPLAY PANEL U-200 FlexTouch
 
 NDC 0169-2550-13
 

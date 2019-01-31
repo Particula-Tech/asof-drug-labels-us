@@ -67,7 +67,7 @@ Table 6: Results at Week 52 in a Trial Comparing TRESIBA to Insulin Glargine U-1
 
 - 1At Week 52
 - 2At Week 26
-- *The change from baseline to end of treatment visit in HbA1c was analysed using ANOVA with treatment, region, sex, and anti-diabetic treatment at screening as fixed effects, and age and baseline HbA1c as covariates.
+- *The change from baseline to end of treatment visit in HbA1c was analyzed using ANOVA with treatment, region, sex, and anti-diabetic treatment at screening as fixed effects, and age and baseline HbA1c as covariates.
 - In Study A, there were 14.8% of subjects in the TRESIBA and 11.5% Insulin glargine arms for whom data was missing at the time of the HbA1c measurement.
 - In Study B, there were 6.3% of subjects in the TRESIBA and 9.8% Insulin detemir arms for whom data was missing at the time of the HbA1c measurement.
 
@@ -111,7 +111,7 @@ Table 7: Results at Week 26 in a Trial Comparing TRESIBA Dosed Once Daily at the
 | Baseline mean | 29 U | 33 U | 32 U |
 | Mean dose at end of study | 27 U | 30 U | 35 U |
 
-*The change from baseline to end of treatment visit in HbA1c was analysed using ANOVA with treatment, region, sex, and anti-diabetic treatment at screening as fixed effects, and age and baseline HbA1c as covariates.
+*The change from baseline to end of treatment visit in HbA1c was analyzed using ANOVA with treatment, region, sex, and anti-diabetic treatment at screening as fixed effects, and age and baseline HbA1c as covariates.
 
 In Study C, there were 15.8% and 15.9% of subjects in the TRESIBA (same time and alternating times respectively) and 7.9% Insulin glargine arms for whom data was missing at the time of the HbA1c measurement.
 
@@ -195,7 +195,7 @@ Table 9: Results at Week 52 in a Trial Comparing TRESIBA to Insulin Glargine U-1
 | Mean dose after 52 weeks | 56 U |  | 58 U |
 
 1. *OAD: oral antidiabetic agent
-2. **The change from baseline to end of treatment visit in HbA1c was analysed using ANOVA with treatment, region, sex, and anti-diabetic treatment at screening as fixed effects, and age and baseline HbA1c as covariates.
+2. **The change from baseline to end of treatment visit in HbA1c was analyzed using ANOVA with treatment, region, sex, and anti-diabetic treatment at screening as fixed effects, and age and baseline HbA1c as covariates.
 3. In Study D, there were 20.6% of subjects in the TRESIBA and 22.2% Insulin glargine arms for whom data was missing at the time of the HbA1c measurement.
 
 Study E: TRESIBA U-200 Administered at the Same Time Each Day as an Add-on to Metformin with or without a DPP-4 Inhibitor in Insulin Naïve Adult Patients
@@ -234,7 +234,7 @@ Table 10: Results at Week 26 in a Trial Comparing TRESIBA U-200 to Insulin Glarg
 | Mean dose after 26 weeks | 59 U |  | 62 U |
 
 1. *OAD: oral antidiabetic agent
-2. **The change from baseline to end of treatment visit in HbA1c was analysed using ANOVA with treatment, region, sex, and anti-diabetic treatment at screening as fixed effects, and age and baseline HbA1c as covariates.
+2. **The change from baseline to end of treatment visit in HbA1c was analyzed using ANOVA with treatment, region, sex, and anti-diabetic treatment at screening as fixed effects, and age and baseline HbA1c as covariates.
 3. In Study E, there were 12.3% of subjects in the TRESIBA and 12.7% Insulin glargine arms for whom data was missing at the time of the HbA1c measurement.
 
 Study F: TRESIBA Administered at the Same Time Each Day in Insulin Naïve Adult Patients as an Add-on to One or More of the Following Oral Agents: Metformin, Sulfonylurea, Glinides or Alpha-Glucosidase Inhibitors
@@ -272,7 +272,7 @@ Table 11: Results at Week 26 in a Trial Comparing TRESIBA to Insulin Glargine U-
 | Mean dose after 26 weeks | 19 U | 24 U |
 
 1. *OAD: oral antidiabetic agent
-2. **The change from baseline to end of treatment visit in HbA1c was analysed using ANOVA with treatment, region, sex, and anti-diabetic treatment at screening as fixed effects, and age and baseline HbA1c as covariates.
+2. **The change from baseline to end of treatment visit in HbA1c was analyzed using ANOVA with treatment, region, sex, and anti-diabetic treatment at screening as fixed effects, and age and baseline HbA1c as covariates.
 3. In Study F, there were 10% of subjects in the TRESIBA and 6.8% Insulin glargine arms for whom data was missing at the time of the HbA1c measurement.
 
 Study G: TRESIBA Administered at the Same Time Each Day or Any Time Each Day as an Add-on to One and up to Three of the Following Oral Agents: Metformin, Sulfonylurea or Glinides or Pioglitazone in Adult Patients
@@ -358,7 +358,7 @@ Table 13: Results at Week 52 in a Trial Comparing TRESIBA to Insulin Glargine U-
 | Mean dose after 52 weeks | 70 U | 73 U |
 
 1. *OAD: oral antidiabetic agent
-2. **The change from baseline to end of treatment visit in HbA1c was analysed using ANOVA with treatment, region, sex, and anti-diabetic treatment at screening as fixed effects, and age and baseline HbA1c as covariates.
+2. **The change from baseline to end of treatment visit in HbA1c was analyzed using ANOVA with treatment, region, sex, and anti-diabetic treatment at screening as fixed effects, and age and baseline HbA1c as covariates.
 3. In Study H, there were 16.1% of subjects in the TRESIBA and 14.5% Insulin glargine arms for whom data was missing at the time of the HbA1c measurement.
 
 Study I: TRESIBA Administered at Any Time Each Day as an Add-on to One or Two of the Following Oral Agents: Metformin, Sulfonylurea, or Pioglitazone in Adult Patients
@@ -397,7 +397,7 @@ Table 14: Results at Week 26 in a Trial Comparing TRESIBA to Sitagliptin in Adul
 | Mean dose after 26 weeks | 43 U | N/A |
 
 1. *OAD: oral antidiabetic agent
-2. **The change from baseline to end of treatment visit in HbA1c was analysed using ANOVA with treatment, region, sex, and anti-diabetic treatment at screening as fixed effects, and age and baseline HbA1c as covariates.
+2. **The change from baseline to end of treatment visit in HbA1c was analyzed using ANOVA with treatment, region, sex, and anti-diabetic treatment at screening as fixed effects, and age and baseline HbA1c as covariates.
 3. In Study I, there were 20.9% of subjects in the TRESIBA and 22.5% Sitagliptin arms for whom data was missing at the time of the HbA1c measurement.
 4. 1p <0.001; 1-sided p-value evaluated at 2.5% level for superiority
 
@@ -448,7 +448,7 @@ Table 15: Analysis of the Composite 3-point MACE and Individual Cardiovascular E
 | Composite of first event of CV death, non-fatal MI, or non-fatal stroke (3-Point MACE) | 325 (8.5) | 4.41 | 356 (9.3) | 4.86 | 0.91[0.78; 1.06] |
 | CV death | 136 (3.6) | 1.85 | 142 (3.7) | 1.94 |  |
 | Non-fatal MI | 144 (3.8) | 1.95 | 169 (4.4) | 2.31 |  |
-| Non-fatal stroke | 71(1.9) | 0.96 | 79(2.1) | 1.08 |  |
+| Non-fatal stroke | 71 (1.9) | 0.96 | 79 (2.1) | 1.08 |  |
 
 * PYO = patient-years of observation until first MACE, death, or trial discontinuation
 

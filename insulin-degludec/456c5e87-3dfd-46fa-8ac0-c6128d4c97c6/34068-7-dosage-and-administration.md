@@ -7,6 +7,7 @@
   Only use TRESIBA if the solution appears clear and colorless.
 - •Inject TRESIBA subcutaneously into the thigh, upper arm, or abdomen.
 - •Rotate injection sites within the same region from one injection to the next to reduce the risk of lipodystrophy [see Adverse Reactions (6.1)].
+- •For pediatric patients requiring less than 5 units of TRESIBA each day, use the TRESIBA U-100 vial.
 - •Use TRESIBA with caution in patients with visual impairment that may rely on audible clicks to dial their dose.
 - •DO NOT administer TRESIBA intravenously or in an insulin infusion pump.
 - •DO NOT dilute or mix TRESIBA with any other insulin products or solutions.
@@ -14,11 +15,15 @@
 
 ## 2.2 General Dosing Instructions
 
-- •TRESIBA is available in 2 disposable prefilled pens:
-  - oTRESIBA U-100 contains 300 units of TRESIBA U-100.
-    It delivers doses in 1 unit increments and can deliver up to 80 units in a single injection.
-  - oTRESIBA U-200 contains 600 units of TRESIBA U-200.
-    It delivers doses in 2 unit increments and can deliver up to 160 units in a single injection.
+- •TRESIBA is available in 2 concentrations (U-100 and U-200):
+  - oTRESIBA U-100 concentration is available in 2 presentations, FlexTouch pen and vial
+    - ▪TRESIBA U-100 single-patient-use FlexTouch pen contains 300 units of TRESIBA U-100.
+      It delivers doses in 1 unit increments and can deliver up to 80 units in a single injection.
+    - ▪TRESIBA U-100 multiple-dose vial contains 1000 units of TRESIBA U-100.
+      Use vial only with a U-100 insulin syringe.
+  - oTresiba U-200 concentration is only available in a FlexTouch pen
+    - ▪TRESIBA U-200 single-patient-use FlexTouch pen contains 600 units of TRESIBA U-200.
+      It delivers doses in 2 unit increments and can deliver up to 160 units in a single injection.
 - •DO NOT perform dose conversion when using the TRESIBA U-100 or U-200 pens.
   The dose window shows the number of insulin units to be delivered and no conversion is needed.
 - •In adults, inject TRESIBA subcutaneously once-daily at any time of day.

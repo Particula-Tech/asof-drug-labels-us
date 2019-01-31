@@ -1,8 +1,9 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Never Share a TRESIBA FlexTouch Pen Between Patients
+## 5.1 Never Share a TRESIBA FlexTouch Pen, Needle, or Syringe Between Patients
 
 TRESIBA FlexTouch disposable prefilled pens should never be shared between patients, even if the needle is changed.
+Patients using TRESIBA vials should never share needles or syringes with another person.
 Sharing poses a risk for transmission of blood-borne pathogens.
 
 ## 5.2 Hyperglycemia or Hypoglycemia with Changes in Insulin Regimen
@@ -42,7 +43,7 @@ In patients at higher risk for hypoglycemia and patients who have reduced sympto
 Accidental mix-ups between basal insulin products and other insulins, particularly rapid-acting insulins, have been reported.
 To avoid medication errors between TRESIBA and other insulins, instruct patients to always check the insulin label before each injection.
 
-To avoid dosing errors and potential overdose, never use a syringe to remove TRESIBA from the TRESIBA pen into a syringe [see Dosage and Administration (2.1) and Warnings and Precautions (5.3)].
+To avoid dosing errors and potential overdose, never use a syringe to remove TRESIBA from the TRESIBA FlexTouch disposable insulin prefilled pen [see Dosage and Administration (2.1) and Warnings and Precautions (5.3)].
 
 ## 5.5 Hypersensitivity and Allergic Reactions
 

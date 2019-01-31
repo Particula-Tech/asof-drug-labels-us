@@ -9,9 +9,9 @@ It has the following structure:
 
 TRESIBA is a sterile, aqueous, clear, and colorless solution that contains insulin degludec 100 units/mL (U-100) or 200 units/mL (U-200).
 
-Inactive ingredients for the 100 units/mL are glycerol 19.6 mg/mL, phenol 1.50 mg/mL, metacresol 1.72 mg/mL, zinc 32.7 mcg/mL and water for injection.
+For the 100 units/mL solution, each mL contains 100 units (600 nmol) of insulin degludec and glycerol (19.6 mg), metacresol (1.72 mg), phenol (1.50 mg), zinc (32.7 mcg), and Water for Injection, USP.
 
-Inactive ingredients for the 200 units/mL are glycerol 19.6 mg/mL, phenol 1.50 mg/mL, metacresol 1.72 mg/mL, zinc 71.9 mcg/mL and water for injection.
+For the 200 units/mL solution, each mL contains 200 units (1200 nmol) of insulin degludec and glycerol (19.6 mg), metacresol (1.72 mg), phenol (1.50 mg), zinc (71.9 mcg), and Water for Injection, USP.
 
 TRESIBA has a pH of approximately 7.6.
 Hydrochloric acid or sodium hydroxide may be added to adjust pH.

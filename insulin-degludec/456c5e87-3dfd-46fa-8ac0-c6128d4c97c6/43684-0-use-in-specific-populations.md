@@ -55,7 +55,7 @@ In pediatric patients 1 year of age and older already on insulin therapy, start 
 
 ## 8.5 Geriatric Use
 
-In controlled clinical studies [see Clinical Studies (14)] a total of 77 (7%) of the 1102 TRESIBA -treated patients with type 1 diabetes were 65 years or older and 9 (1%) were 75 years or older.
+In controlled clinical studies [see Clinical Studies (14)] a total of 77 (7%) of the 1102 TRESIBA - treated patients with type 1 diabetes were 65 years or older and 9 (1%) were 75 years or older.
 A total of 670 (25%) of the 2713 TRESIBA-treated patients with type 2 diabetes were 65 years or older and 80 (3%) were 75 years or older.
 Differences in safety or effectiveness were not suggested in subgroup analyses comparing subjects older than 65 years to younger subjects.
 
