@@ -3,14 +3,14 @@
 The following serious adverse reactions are described, or described in greater detail, in other sections:
 
 - Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
-- Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
-- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.3)]
-- Interactions with Benzodiazepine or Other CNS Depressants [see Warnings and Precautions (5.4)]
-- Adrenal Insufficiency [see Warnings and Precautions (5.7)]
-- Severe Hypotension [see Warnings and Precautions (5.8)]
-- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.10)]
-- Seizures [see Warnings and Precautions (5.11)]
-- Withdrawal [see Warnings and Precautions (5.12)]
+- Life-Threatening Respiratory Depression [see Warnings and Precautions (5.3)]
+- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
+- Interactions with Benzodiazepine or Other CNS Depressants [see Warnings and Precautions (5.5)]
+- Adrenal Insufficiency [see Warnings and Precautions (5.8)]
+- Severe Hypotension [see Warnings and Precautions (5.9)]
+- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.11)]
+- Seizures [see Warnings and Precautions (5.12)]
+- Withdrawal [see Warnings and Precautions (5.13)]
 
 ## 6.1 Clinical Trial Experience
 
@@ -18,15 +18,11 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Morphine sulfate extended-release tablets may increase the risk of serious adverse reactions such as those observed with other opioid analgesics, including respiratory depression, apnea, respiratory arrest, circulatory depression, hypotension, or shock [see Overdosage (10)].
 
-Most Frequently Observed Reactions
-
-In clinical trials, the most common adverse reactions with morphine sulfate extended-release tablets were constipation, dizziness, sedation, nausea, vomiting, sweating, dysphoria, and euphoric mood.
+Most Frequently Observed Reactions In clinical trials, the most common adverse reactions with morphine sulfate extended-release tablets were constipation, dizziness, sedation, nausea, vomiting, sweating, dysphoria, and euphoric mood.
 
 Some of these effects seem to be more prominent in ambulatory patients and in those not experiencing severe pain.
 
-Less Frequently Observed Reactions
-
-Cardiovascular disorders: tachycardia, bradycardia, palpitations
+Less Frequently Observed Reactions Cardiovascular disorders: tachycardia, bradycardia, palpitations
 
 Eye disorders: visual impairment, vision blurred, diplopia, miosis
 
@@ -59,7 +55,7 @@ Vascular disorders: flushing, hypotension, hypertension
 The following adverse reactions have been identified during post-approval use of morphine sulfate extended-release tablets.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Amenorrhea, asthenia, bronchospasm, confusional state, drug hypersensitivity, fatigue, hyperalgesia, hypertonia, ileus, increased hepatic enzymes, intestinal obstruction, lethargy, malaise, pulmonary edema, thinking disturbances, somnolence, and vertigo.
+Amenorrhea, asthenia, bronchospasm, confused state, drug hypersensitivity, fatigue, hyperalgesia, hypertonia, ileus, increased hepatic enzymes, intestinal obstruction, lethargy, malaise, pulmonary edema, thinking disturbances, somnolence, and vertigo.
 
 Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs.
 
