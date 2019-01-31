@@ -39,8 +39,6 @@ No studies have been conducted to assess the effect of methocarbamol on mutagene
 
 ### Teratogenic Effects
 
-#### Pregnancy Category C
-
 Animal reproduction studies have not been conducted with methocarbamol.
 It is also not known whether methocarbamol can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. robaxin® and robaxin®-750 should be given to a pregnant woman only if clearly needed.
 
