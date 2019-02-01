@@ -88,7 +88,7 @@ The median age was 41.5 years (range 16 to 70); 52.2% were females and 47.8% wer
 
 The ethnic/racial distribution in this study was 92% Caucasian, 3.5% Black, 2.2% Hispanic, and 2.2% Asian.
 The types of inhaled corticosteroids and their mean baseline requirements included beclomethasone dipropionate (mean dose, 1203 mcg/day), triamcinolone acetonide (mean dose, 2004 mcg/day), f1unisolide (mean dose, 1971 mcg/day), f1uticasone propionate (mean dose, 1083 mcg/day), or budesonide (mean dose, 1192 mcg/day).
-Some of these inhaled corticosteroids were non-U.S-approved formulations, and doses expressed may not be ex-actuator.
+Some of these inhaled corticosteroids were non-U.S.-approved formulations, and doses expressed may not be ex-actuator.
 The pre-study inhaled corticosteroid requirements were reduced by approximately 37% during a 5- to 7-week placebo run-in period designed to titrate patients toward their lowest effective inhaled corticosteroid dose.
 Treatment with montelukast sodium resulted in a further 47% reduction in mean inhaled corticosteroid dose compared with a mean reduction of 30% in the placebo group over the 12-week active treatment period (p≤0.05).
 It is not known whether the results of this study can be generalized to patients with asthma who require higher doses of inhaled corticosteroids or systemic corticosteroids.

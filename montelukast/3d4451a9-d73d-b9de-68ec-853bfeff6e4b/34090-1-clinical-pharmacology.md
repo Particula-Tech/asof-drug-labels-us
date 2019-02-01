@@ -43,7 +43,7 @@ The safety and efficacy of montelukast sodium in patients with asthma were demon
 The safety of montelukast sodium in patients with asthma was also demonstrated in clinical trials in which the 4 mg chewable tablet and 4 mg oral granule formulations were administered in the evening without regard to the time of food ingestion.
 The safety and efficacy of montelukast sodium in patients with seasonal allergic rhinitis were demonstrated in clinical trials in which the 10 mg film-coated tablet was administered in the morning or evening without regard to the time of food ingestion.
 
-The comparative pharmacokinetics of montelukast when administered as two 5 mg Chewable tablets versus one 10 mg film-coated tablet have not been evaluated.
+The comparative pharmacokinetics of montelukast when administered as two 5 mg chewable tablets versus one 10 mg film-coated tablet have not been evaluated.
 
 Distribution
 

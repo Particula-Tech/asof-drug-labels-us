@@ -2,6 +2,8 @@
 
 Montelukast Sodium Tablets, 10 mg - Container Label
 
+Unvarnished Area consists of: 2D Barcode, Lot Number, Expiry Date and Serial Number.
+
 Montelukast Sodium Tablets, 10 mg - Carton Label
 
 Montelukast Sodium Chewable Tablets, 4 mg - Container Label

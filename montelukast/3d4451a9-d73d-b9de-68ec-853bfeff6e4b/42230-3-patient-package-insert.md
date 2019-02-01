@@ -141,6 +141,8 @@ Tell your healthcare provider right away if you or your child have any of these 
 
 • memory problems
 
+• obsessive-compulsive symptoms
+
 • restlessness
 
 • sleep walking
@@ -263,6 +265,6 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 0217
+Revised: 0119
 
 Dispense with Patient Information Leaflet available at: www.drreddys.com/pi/montelukasttabsandchewtabs.pdf
