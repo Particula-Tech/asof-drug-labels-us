@@ -2,7 +2,7 @@
 
 ## 7.1 Cyclosporine
 
-Cyclosporine increased rosuvastatin exposure (AUC) 7-fold.
+Cyclosporine increased rosuvastatin exposure and may result in increased risk of myopathy.
 Therefore, in patients taking cyclosporine, the dose of rosuvastatin calcium should not exceed 5 mg once daily [see Dosage and Administration (2.4), Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
 
 ## 7.2 Gemfibrozil
@@ -13,7 +13,7 @@ If used together, the dose of rosuvastatin calcium should not exceed 10 mg once 
 
 ## 7.3 Protease Inhibitors
 
-Coadministration of rosuvastatin with certain protease inhibitors has differing effects on rosuvastatin exposure.
+Coadministration of rosuvastatin with certain protease inhibitors has differing effects on rosuvastatin exposure and may increase risk of myopathy.
 Simeprevir, which is a hepatitis C virus (HCV) protease inhibitor, or combinations of atazanavir/ritonavir or lopinavir/ritonavir, which are HIV-1 protease inhibitors, increase rosuvastatin exposure (AUC) up to threefold [see Table 4 – Clinical Pharmacology (12.3)].
 For these protease inhibitors, the dose of rosuvastatin should not exceed 10 mg once daily.
 The combinations of fosamprenavir/ritonavir or tipranavir/ritonavir, which are HIV-1 protease inhibitors, produce little or no change in rosuvastatin exposure.

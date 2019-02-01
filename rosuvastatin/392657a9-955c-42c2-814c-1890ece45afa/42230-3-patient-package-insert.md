@@ -8,7 +8,7 @@ What are rosuvastatin calcium tablets?
 
 Rosuvastatin calcium tablets are a prescription medicine that contains a cholesterol-lowering medicine called rosuvastatin calcium.
 Most of the cholesterol in your blood is made in the liver.
-Rosuvastatin calcium tablets work by reducing cholesterol in two ways: rosuvastatin calcium blocks an enzyme in the liver causing the liver to make less cholesterol, and rosuvastatin calcium increases the uptake and breakdown by the liver of cholesterol already in the blood
+Rosuvastatin calcium tablets work by reducing cholesterol in two ways: rosuvastatin calcium blocks an enzyme in the liver causing the liver to make less cholesterol, and rosuvastatin calcium increases the uptake and breakdown by the liver of cholesterol already in the blood.
 
 - •Rosuvastatin calcium tablets are used along with diet to:
 - olower the level of your “bad” cholesterol (LDL)
@@ -161,4 +161,4 @@ Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 Questions?
 1 (888)721-7115 www.glenmarkpharma.com/usa
 
-July 2016
+January 2019

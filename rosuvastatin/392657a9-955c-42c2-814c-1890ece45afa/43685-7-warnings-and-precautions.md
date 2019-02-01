@@ -29,9 +29,7 @@ There were no cases of liver failure or irreversible liver disease in these tria
 
 In a pooled analysis of placebo-controlled trials, increases in serum transaminases to >3 times the upper limit of normal occurred in 1.1% of patients taking rosuvastatin calcium versus 0.5% of patients treated with placebo.
 
-There have been rare postmarketing reports of fatal and non-fatal hepatic failure in patients taking statins, including
-
-rosuvastatin.
+There have been rare postmarketing reports of fatal and non-fatal hepatic failure in patients taking statins, including rosuvastatin.
 If serious liver injury with clinical symptoms and/or hyperbilirubinemia or jaundice occurs during treatment with rosuvastatin calcium, promptly interrupt therapy.
 If an alternate etiology is not found, do not restart rosuvastatin calcium.
 

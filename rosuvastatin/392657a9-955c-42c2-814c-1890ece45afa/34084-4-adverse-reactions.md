@@ -37,7 +37,7 @@ Adverse Reactions1 Reported in ≥ 2% of Patients Treated with Rosuvastatin Calc
 | Myalgia | 3.1 | 2.1 | 6.3 | 1.9 | 2.8 | 1.3 |
 | Asthenia | 2.4 | 3.2 | 4.7 | 0.9 | 2.7 | 2.6 |
 | Constipation | 2.1 | 2.1 | 4.7 | 2.8 | 2.4 | 2.4 |
-| 1 Adverse reactions by COSTART preferred term. |  |  |  |  |  |  |
+| 1Adverse reactions by COSTART preferred term. |  |  |  |  |  |  |
 
 Other adverse reactions reported in clinical studies were abdominal pain, dizziness, hypersensitivity (including rash, pruritus, urticaria, and angioedema) and pancreatitis.
 The following laboratory abnormalities have also been reported: dipstick-positive proteinuria and microscopic hematuria [see Warnings and Precautions (5.4)]; elevated creatine phosphokinase, transaminases, glucose, glutamyl transpeptidase, alkaline phosphatase, and bilirubin; and thyroid function abnormalities.
@@ -50,16 +50,21 @@ Adverse reactions reported in ≥ 2% of patients and at a rate greater than plac
 Table 2.
 Adverse Reactions1 Reported in ≥2% of Patients Treated with Rosuvastatin Calcium and > Placebo in a Trial (% of Patients)
 
-| Adverse Reactions | Rosuvastatin Calcium 40 mgN=700 | PlaceboN=281 |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Myalgia | 12.7 | 12.1 |  |  |  |  |  |  |  |
-| Arthralgia | 10.1 | 7.1 |  |  |  |  |  |  |  |
-| Headache | 6.4 | 5.3 |  |  |  |  |  |  |  |
-| Dizziness | 4.0 | 2.8 |  |  |  |  |  |  |  |
-| Increased CPK | 2.6 | 0.7 |  |  |  |  |  |  |  |
-| Abdominal pain | 2.4 | 1.8 |  |  |  |  |  |  |  |
-| ALT >3 x ULN2 | 2.2 | 0.7 |  |  |  |  |  |  |  |
-| 1. Adverse reactions by MedDRA preferred term. |  |  |  |  |  |  |  |  |  |
+| Adverse Reactions | Rosuvastatin Calcium 40 mgN=700 | PlaceboN=281 |
+| --- | --- | --- |
+| Myalgia | 12.7 | 12.1 |
+| Arthralgia | 10.1 | 7.1 |
+| Headache | 6.4 | 5.3 |
+| Dizziness | 4 | 2.8 |
+| Increased CPK | 2.6 | 0.7 |
+| Abdominal pain | 2.4 | 1.8 |
+| ALT >3 x ULN2 | 2.2 | 0.7 |
+
+1. 1Adverse reactions by MedDRA preferred term.
+2. 2Frequency recorded as abnormal laboratory value.
+
+Table 3.
+Adverse Reactions1 Reported in ≥ 2% of Patients Treated with Rosuvastatin Calcium and > Placebo in a Trial (% of Patients)
 
 | Adverse Reactions | Rosuvastatin Calcium 20 mg N=8901 | Placebo N=8901 |
 | --- | --- | --- |
@@ -69,6 +74,8 @@ Adverse Reactions1 Reported in ≥2% of Patients Treated with Rosuvastatin Calci
 | Diabetes mellitus | 2.8 | 2.3 |
 | Nausea | 2.4 | 2.3 |
 
+1. 1Treatment-emergent adverse reactions by MedDRA preferred term.
+
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during postapproval use of rosuvastatin calcium: arthralgia, fatal and non-fatal hepatic failure, hepatitis, jaundice, thrombocytopenia, depression, sleep disorders (including insomnia and nightmares), peripheral neuropathy, interstitial lung disease and gynecomastia.
@@ -76,6 +83,6 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 There have been rare reports of immune-mediated necrotizing myopathy associated with statin use [see Warnings and Precautions (5.1)].
 
-There have been rare postmarketing reports of cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, confusion) associated with statin use.
+There have been rare postmarketing reports of cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, and confusion) associated with statin use.
 These cognitive issues have been reported for all statins.
 The reports are generally nonserious, and reversible upon statin discontinuation, with variable times to symptom onset (1 day to years) and symptom resolution (median of 3 weeks).

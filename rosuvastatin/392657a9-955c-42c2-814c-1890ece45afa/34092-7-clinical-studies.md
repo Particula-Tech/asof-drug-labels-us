@@ -29,13 +29,13 @@ Lipid-modifying Effects of Rosuvastatin 10 mg and 20 mg in Primary Dysbetalipopr
 |  | Median at Baseline (mg/dL) | Median percent change from baseline(95 % CI)rosuvastatin calcium10 mg | Median percent change from baseline(95% CI)rosuvastatin calcium20 mg |
 | --- | --- | --- | --- |
 | Total-C | 342.5 | -43.3 (-46.9,-37.5) | -47.6 (-51.6,-42.8) |
-| Triglycerides | 503.5 | -40.1 (-44.9, -33.6) | -43.0 (-52.5, -33.1) |
+| Triglycerides | 503.5 | -40.1 (-44.9, -33.6) | -43 (-52.5, -33.1) |
 | Non HDL-C | 294.5 | -48.2 (-56.7, -45.6) | -56.4 (-61.4, -48.5) |
 | VLDL-C + IDL-C | 209.5 | -46.8 (-53.7, -39.4) | -56.2 (-67.7, -43.7) |
 | LDL-C | 112.5 | -54.4 (-59.1, -47.3) | -57.3 (-59.4, -52.1) |
 | HDL-C | 35.5 | 10.2 (1.9, 12.3) | 11.2 (8.3, 20.5) |
-| RLP-C | 82.0 | -56.4 (-67.1, -49.0) | -64.9 (-74.0, -56.6) |
-| Apo-E | 16.0 | -42.9 (-46.3, -33.3) | -42.5 (-47.1, -35.6) |
+| RLP-C | 82 | -56.4 (-67.1, -49) | -64.9 (-74, -56.6) |
+| Apo-E | 16 | -42.9 (-46.3, -33.3) | -42.5 (-47.1, -35.6) |
 
 ## 14.5 Homozygous Familial Hypercholesterolemia
 

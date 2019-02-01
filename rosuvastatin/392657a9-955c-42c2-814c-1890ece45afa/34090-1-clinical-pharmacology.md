@@ -8,6 +8,13 @@ In in vivo and in vitro studies, rosuvastatin produces its lipid-modifying effec
 First, it increases the number of hepatic LDL receptors on the cell-surface to enhance uptake and catabolism of LDL.
 Second, rosuvastatin inhibits hepatic synthesis of VLDL, which reduces the total number of VLDL and LDL particles.
 
+## 12.2 Pharmacodynamics
+
+Rosuvastatin calcium dose dependently reduces elevated LDL-cholesterol and reduces total cholesterol and triglycerides and increases HDL-cholesterol [see Clinical Studies (14)].
+A therapeutic response to Rosuvastatin calcium is evident within 1 week of commencing therapy and 90% of maximum response is usually achieved in 2 weeks.
+The maximum response is usually achieved by 4 weeks and is maintained after that.
+Individualization of drug dosage should be based on the therapeutic response [see Dosage and Administration (2)].
+
 ## 12.3 Pharmacokinetics
 
 Absorption
@@ -26,6 +33,11 @@ Mean volume of distribution at steady-state of rosuvastatin is approximately 134
 Rosuvastatin is 88% bound to plasma proteins, mostly albumin.
 This binding is reversible and independent of plasma concentrations.
 
+Elimination
+
+Rosuvastatin is primarily eliminated by excretion in the feces.
+The elimination half-life of rosuvastatin is approximately 19 hours.
+
 Metabolism
 
 Rosuvastatin is not extensively metabolized; approximately 10% of a radiolabeled dose is recovered as metabolite.
@@ -35,29 +47,27 @@ Overall, greater than 90% of active plasma HMG-CoA reductase inhibitory activity
 Excretion
 
 Following oral administration, rosuvastatin and its metabolites are primarily excreted in the feces (90%).
-The elimination half-life (t1/2) of rosuvastatin is approximately 19 hours.
-
 After an intravenous dose, approximately 28% of total body clearance was via the renal route, and 72% by the hepatic route.
 
 Specific Populations
 
-Race
+Racial or Ethnic Groups
 
 A population pharmacokinetic analysis revealed no clinically relevant differences in pharmacokinetics among Caucasian, Hispanic, and Black or Afro-Caribbean groups.
 However, pharmacokinetic studies, including one conducted in the US, have demonstrated an approximate 2-fold elevation in median exposure (AUC and Cmax) in Asian subjects when compared with a Caucasian control group.
 
-Gender
+Male and Female Patients
 
 There were no differences in plasma concentrations of rosuvastatin between men and women.
 
 Pediatric use information for patients ages 8 to less than 10 years is approved for AstraZeneca’s CRESTOR (rosuvastatin calcium) tablets.
 However, due to AstraZeneca’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
-Geriatric
+GeriatricPatients
 
 There were no differences in plasma concentrations of rosuvastatin between the nonelderly and elderly populations (age ≥65 years).
 
-Renal Impairment
+Patients with Renal Impairment
 
 Mild to moderate renal impairment (CLcr ≥ 30 mL/min/1.73 m2) had no influence on plasma concentrations of rosuvastatin.
 However, plasma concentrations of rosuvastatin increased to a clinically significant extent (about 3-fold) in patients with severe renal impairment (CLcr < 30 mL/min/1.73 m2) not receiving hemodialysis compared with healthy subjects (CLcr > 80 mL/min/1.73 m2).
@@ -66,19 +76,48 @@ Hemodialysis
 
 Steady-state plasma concentrations of rosuvastatin in patients on chronic hemodialysis were approximately 50% greater compared with healthy volunteer subjects with normal renal function.
 
-Hepatic Impairment
+Patients with Hepatic Impairment
 
 In patients with chronic alcohol liver disease, plasma concentrations of rosuvastatin were modestly increased.
 In patients with Child-Pugh A disease, Cmax and AUC were increased by 60% and 5%, respectively, as compared with patients with normal liver function.
 In patients with Child-Pugh B disease, Cmax and AUC were increased 100% and 21%, respectively, compared with patients with normal liver function.
 
-Drug-Drug Interactions
+Drug Interactions Studies
 
 Rosuvastatin clearance is not dependent on metabolism by cytochrome P450 3A4 to a clinically significant extent.
 
 Rosuvastatin is a substrate for certain transporter proteins including the hepatic uptake transporter organic anion-transporting polyprotein 1B1 (OATP1B1) and efflux transporter breast cancer resistance protein (BCRP).
-Concomitant administration of rosuvastatin calcium with medications that are inhibitors of these transporter proteins (e.g. cyclosporine, certain HIV protease inhibitors) may result in increased rosuvastatin plasma concentrations and an increased risk of myopathy [see Dosage and Administration (2.4)].
-It is recommended that prescribers consult the relevant product information when considering administration of such products together with rosuvastatin calcium.
+Concomitant administration of rosuvastatin calcium with medications that are inhibitors of these transporter proteins (e.g. cyclosporine, certain HIV protease inhibitors) may result in increased rosuvastatin plasma concentrations [see Dosage and Administration (2.4)] and Drug Interactions (7.1, 7.3)].
+
+Table 4.
+Effect of Coadministered Drugs on Rosuvastatin Systemic Exposure
+
+| Coadministered drug and dosing regimen | Rosuvastatin |  |  |
+| --- | --- | --- | --- |
+|  |  | Mean Ratio (ratio with/without coadministered drug)No Effect = 1 |  |
+|  | Dose (mg)1 | Change in AUC | Change in Cmax |
+| Cyclosporine – stable dose required (75 mg to 200 mg BID) | 10 mg QD for10 days | 7.12 | 112 |
+| Atazanavir/ritonavir combination 300 mg/100 mg QD for 8 days | 10 mg | 3.12 | 72 |
+| Simeprevir 150 mg QD, 7 days | 10 mg, singledose | 2.82(2.3 to 3.4)3 | 3.22(2.6 to 3.9)3 |
+| Lopinavir/ritonavir combination400 mg/100 mg BID for 17 days | 20 mg QDFor 7 days | 2.12(1.7 to 2.6)3 | 52(3.4 to 6.4)3 |
+| Gemfibrozil 600 mg BID for 7 days | 80 mg | 1.92(1.6 to 2.2)3 | 2.22(1.8 to 2.7)3 |
+| Eltrombopag 75 mg QD, 5 days | 10 mg | 1.6(1.4 to 1.7)3 | 2(1.8 to 2.3)3 |
+| Darunavir 600 mg/ritonavir 100 mgBID, 7 days | 10 mg QDfor 7 days | 1.5(1 to 2.1)3 | 2.4(1.6 to 3.6)3 |
+| Tipranavir/ritonavir combination 500 mg/200mg BID for 11 days | 10 mg | 1.4(1.2 to 1.6)3 | 2.2(1.8 to 2.7)3 |
+| Dronedarone 400 mg BID | 10 mg | 1.4 |  |
+| Itraconazole 200 mg QD, 5 days | 10 mg or 80 mg | 1.4(1.2 to 1.6)31.3(1.1 to 1.4)3 | 1.4(1.2 to 1.5)31.2(0.9 to 1.4)3 |
+| Ezetimibe 10 mg QD, 14 days | 10 mg QD for 14 days | 1.2(0.9 to 1.6)3 | 1.2(0.8 to 1.6)3 |
+| Fosamprenavir/ritonavir700 mg/100 mg BID for 7 days | 10 mg | 1.1 | 1.5 |
+| Fenofibrate 67 mg TID for 7 days | 10 mg | ↔ | 1.2(1.1 to 1.3)3 |
+| Rifampicin 450 mg QD, 7 days | 20 mg | ↔ |  |
+| Aluminum & magnesium hydroxide combination antacidAdministered simultaneously Administered 2 hours apart | 40 mg40 mg | 0.52(0.4 to 0.5)30.8(0.7 to 0.9)3 | 0.52(0.4 to 0.6)30.8(0.7 to 1)3 |
+| Ketoconazole 200 mg BID for 7 days | 80 mg | 1(0.8 to 1.2)3 | 1(0.7 to 1.3)3 |
+| Fluconazole 200 mg QD for 11 days | 80 mg | 1.1(1 to 1.3)3 | 1.1(0.9 to 1.4)3 |
+| Erythromycin 500 mg QID for 7 days | 80 mg | 0.8(0.7 to 0.9)3 | 0.7(0.5 to 0.9)3 |
+
+1. 1Single dose unless otherwise noted.
+2. 2Clinically significant [see Dosage and Administration (2) and Warnings and Precautions (5)]
+3. 3Mean ratio with 90% CI (with/without coadministered drug, e.g., 1= no change, 0.7 = 30% decrease, 11=11 fold increase in exposure)
 
 Table 5.
 Effect of Rosuvastatin Coadministration on Systemic Exposure To Other Drugs
@@ -87,13 +126,11 @@ Effect of Rosuvastatin Coadministration on Systemic Exposure To Other Drugs
 | --- | --- | --- | --- |
 |  |  | Mean Ratio (ratio with/without coadministered drug)No Effect = 1.0 |  |
 |  | Name and Dose | Change in AUC | Change in Cmax |
-| 40 mg QD for 10 days | Warfarin125 mg single dose | R-Warfarin1.0(1.0 to 1.1)2S-Warfarin1.1(1.0 to 1.1)2 | R-Warfarin1.0(0.9 to 1.0)2S-Warfarin1.0(0.9 to 1.1)2 |
-| 40 mg QD for 12 days | Digoxin 0.5 mg single dose | 1.0(0.9 to 1.2)2 | 1.0(0.9 to 1.2)2 |
-| 40 mg QD for 28 days | Oral Contraceptive(ethinyl estradiol 0.035 mg & norgestrel 0.180, 0.215 and 0.250 mg) QD for 21 days | EE 1.3(1.2 to 1.3)2NG 1.3(1.3 to 1.4)2 | EE 1.3(1.2 to 1.3)2NG 1.2(1.1 to 1.3)2 |
+| 40 mg QD for 10 days | Warfarin125 mg single dose | R-Warfarin1(1 to 1.1)2S-Warfarin1.1(1 to 1.1)2 | R-Warfarin1(0.9 to 1)2S-Warfarin1(0.9 to 1.1)2 |
+| 40 mg QD for 12 days | Digoxin 0.5 mg single dose | 1(0.9 to 1.2)2 | 1(0.9 to 1.2)2 |
+| 40 mg QD for 28 days | Oral Contraceptive(ethinyl estradiol 0.035 mg & norgestrel 0.18, 0.215 and 0.250 mg) QD for 21 days | EE 1.3(1.2 to 1.3)2NG 1.3(1.3 to 1.4)2 | EE 1.3(1.2 to 1.3)2NG 1.2(1.1 to 1.3)2 |
 
-EE = ethinyl estradiol, NG = norgestrel 1.
-Clinically significant pharmacodynamic effects [see Warnings and Precautions (5.3)] 2.
-Mean ratio with 90% CI (with/without coadministered drug, e.g., 1= no change, 0.7=30% decrease, 11=11-fold increase in exposure)
+1. EE = ethinyl estradiol, NG = norgestrel 1Clinically significant pharmacodynamic effects [see Warnings and Precautions (5.3)] 2Mean ratio with 90% CI (with/without coadministered drug, e.g., 1= no change, 0.7=30% decrease, 11=11-fold increase in exposure)
 
 ## 12.5 Pharmacogenomics
 
