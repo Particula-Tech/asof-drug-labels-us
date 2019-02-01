@@ -12,56 +12,40 @@ However, specific CNS opioid receptors for endogenous compounds with opioid-like
 
 ## 12.2 Pharmacodynamics
 
-Effects on the Central Nervous System
-
-Morphine produces respiratory depression by direct action on brain stem respiratory centers.
+Effects on the Central Nervous System Morphine produces respiratory depression by direct action on brain stem respiratory centers.
 The respiratory depression involves a reduction in the responsiveness of the brain stem respiratory centers to both increases in carbon dioxide tension and electrical stimulation.
 
 Morphine causes miosis, even in total darkness.
 Pinpoint pupils are a sign of opioid overdose but are not pathognomonic (e.g., pontine lesions of hemorrhagic or ischemic origins may produce similar findings).
 Marked mydriasis rather than miosis may be seen due to hypoxia in overdose situations.
 
-Effects on the Gastrointestinal Tract and Other Smooth Muscle
-
-Morphine causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum.
+Effects on the Gastrointestinal Tract and Other Smooth Muscle Morphine causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
 Propulsive peristaltic waves in the colon are decreased, while tone may be increased to the point of spasm, resulting in constipation.
 Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
 
-Effects on the Cardiovascular System
-
-Morphine produces peripheral vasodilation which may result in orthostatic hypotension or syncope.
+Effects on the Cardiovascular System Morphine produces peripheral vasodilation which may result in orthostatic hypotension or syncope.
 Manifestations of histamine release and/or peripheral vasodilation may include pruritus, flushing, red eyes, sweating, and/or orthostatic hypotension.
 
-Effects on the Endocrine System
-
-Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [see Adverse Reactions (6)].
+Effects on the Endocrine System Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [see Adverse Reactions (6)].
 They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.
 
 Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
 The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date [see Adverse Reactions (6)].
 
-Effects on the Immune System
-
-Opioids have been shown to have a variety of effects on components of the immune system in in vitro and animal models.
+Effects on the Immune System Opioids have been shown to have a variety of effects on components of the immune system in in vitro and animal models.
 The clinical significance of these findings is unknown.
 Overall, the effects of opioids appear to be modestly immunosuppressive.
 
-Concentration–Efficacy Relationships
-
-The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
+Concentration–Efficacy Relationships The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
 The minimum effective analgesic concentration of morphine for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.3)].
 
-Concentration–Adverse Reaction Relationships
-
-There is a relationship between increasing morphine plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
+Concentration–Adverse Reaction Relationships There is a relationship between increasing morphine plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
 In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.2, 2.3)].
 
 ## 12.3 Pharmacokinetics
 
-Absorption
-
-Morphine, when administered as morphine sulfate is about two-thirds absorbed from the gastrointestinal tract with the maximum analgesic effect occurring 60 minutes post-administration.
+Absorption Morphine, when administered as morphine sulfate is about two-thirds absorbed from the gastrointestinal tract with the maximum analgesic effect occurring 60 minutes post-administration.
 The oral bioavailability of morphine sulfate is less than 40% and shows large inter-individual variability due to extensive pre-systemic metabolism.
 
 Administration of 30 mg of morphine sulfate oral solution every six hours for 5 days resulted in a comparable 24-hour exposure (AUC).
@@ -70,16 +54,12 @@ The mean steady state Cmax values were about 78 and 58 ng/mL for tablet and solu
 
 Food Effects: Although the presence of a food effect was not assessed with morphine sulfate oral solution, significant food effect is not expected with a solution formulation.
 
-Distribution
-
-Once absorbed, morphine sulfate is distributed to skeletal muscle, kidneys, liver, intestinal tract, lungs, spleen and brain.
+Distribution Once absorbed, morphine sulfate is distributed to skeletal muscle, kidneys, liver, intestinal tract, lungs, spleen and brain.
 Although the primary site of action is the CNS, only small quantities cross the blood-brain barrier.
 Morphine sulfate also crosses the placental membranes and has been found in breast milk.
-The volume of distribution of morphine sulfate is approximately 1 to 6 L/kg, and morphine sulfate is 20 to 35% reversibly bound to plasma proteins.
+The volume of distribution of morphine sulfate is approximately 1 to 6 L/kg, and morphine sulfate is 20% to 35% reversibly bound to plasma proteins.
 
-Elimination
-
-Metabolism: The major pathway of morphine sulfate detoxification is conjugation, either with D-glucuronic acid to produce glucuronides or with sulfuric acid to produce morphine-3-etheral sulfate.
+Elimination Metabolism: The major pathway of morphine sulfate detoxification is conjugation, either with D-glucuronic acid to produce glucuronides or with sulfuric acid to produce morphine-3-etheral sulfate.
 While a small fraction (less than 5%) of morphine sulfate is demethylated, virtually all morphine sulfate is converted by hepatic metabolism to the 3- and 6-glucuronide metabolites (M3G and M6G; about 50% and 15%, respectively).
 M6G has been shown to have analgesic activity but crosses the blood-brain barrier poorly, while M3G has no significant analgesic activity.
 
@@ -92,10 +72,8 @@ The mean adult plasma clearance is approximately 20 to 30 mL/min/kg.
 The effective terminal half-life of morphine sulfate after IV administration is reported to be approximately 2 hours.
 In some studies involving longer periods of plasma sampling, a longer terminal half-life of morphine sulfate of about 15 hours was reported.
 
-Specific Populations
-
-Race/Ethnicity: There may be some pharmacokinetic differences associated with race.
-In one published study, Chinese subjects given intravenous morphine sulfate had a higher clearance when compared to Caucasian subjects (1852 +/- 116 mL/min compared to 1495 +/- 80 mL/min).
+Specific Populations Race/Ethnicity: There may be some pharmacokinetic differences associated with race.
+In one published study, Chinese subjects given intravenous morphine sulfate had a higher clearance when compared to Caucasian subjects (1,852 +/- 116 mL/min compared to 1,495 +/- 80 mL/min).
 
 Sex: While evidence of greater post-operative morphine sulfate consumption in men compared to women is present in the literature, clinically significant differences in analgesic outcomes and pharmacokinetic parameters have not been consistently demonstrated.
 Some studies have shown an increased sensitivity to the adverse effects of morphine sulfate, including respiratory depression, in women compared to men.

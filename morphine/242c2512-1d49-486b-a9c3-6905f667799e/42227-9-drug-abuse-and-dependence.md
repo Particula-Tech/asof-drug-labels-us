@@ -29,9 +29,7 @@ Careful record-keeping of prescribing information, including quantity, frequency
 
 Proper assessment of the patient, proper prescribing practices, periodic re-evaluation of therapy, and proper dispensing and storage are appropriate measures that help to limit abuse of opioid drugs.
 
-Risks Specific to Abuse of Morphine Sulfate Oral Solution
-
-Morphine sulfate oral solution is for oral use only.
+Risks Specific to Abuse of Morphine Sulfate Oral Solution Morphine sulfate oral solution is for oral use only.
 Abuse of morphine sulfate oral solution poses a risk of overdose and death.
 The risk is increased with concurrent abuse of morphine sulfate oral solution with alcohol and other central nervous system depressants.
 Parenteral drug abuse is commonly associated with transmission of infectious diseases such as hepatitis and HIV.

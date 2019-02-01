@@ -19,31 +19,23 @@ Do not use household teaspoons or tablespoons to measure morphine sulfate oral s
 
 - Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
 - Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.2)].
-- Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy and following dosage increases with morphine sulfate oral solution and adjust the dosage accordingly [see Warnings and Precautions (5.3)].
+- Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy and following dosage increases with morphine sulfate oral solution and adjust the dosage accordingly [see Warnings and Precautions (5.4)].
 
 ## 2.2 Initial Dosage
 
-Initiating Treatment with Morphine Sulfate Oral Solution
-
-Do not initiate treatment with morphine sulfate oral solution 100 mg per 5 mL (20 mg per mL) in patients who are opioid naïve.
+Initiating Treatment with Morphine Sulfate Oral Solution Do not initiate treatment with morphine sulfate oral solution 100 mg per 5 mL (20 mg per mL) in patients who are opioid naïve.
 Select an alternate product with lower concentration.
 
 Initiate treatment with morphine sulfate oral solution in a dosing range of 10 mg to 20 mg every 4 hours as needed for pain.
 
-Conversion from Parenteral Morphine to Morphine Sulfate Oral Solution
+Conversion from Parenteral Morphine to Morphine Sulfate Oral Solution For conversion from parenteral morphine to morphine sulfate oral solution, anywhere from 3 to 6 mg of oral morphine sulfate may be required to provide pain relief equivalent to 1 mg of parenteral morphine.
 
-For conversion from parenteral morphine to morphine sulfate oral solution, anywhere from 3 to 6 mg of oral morphine sulfate may be required to provide pain relief equivalent to 1 mg of parenteral morphine.
-
-Conversion from Other Opioids to Morphine Sulfate Oral Solution
-
-There is inter-patient variability in the potency of opioid drugs and opioid formulations.
+Conversion from Other Opioids to Morphine Sulfate Oral Solution There is inter-patient variability in the potency of opioid drugs and opioid formulations.
 Therefore, a conservative approach is advised when determining the total daily dosage of morphine sulfate oral solution.
 It is safer to underestimate a patient’s 24-hour morphine sulfate oral solution dosage than to overestimate the 24-hour morphine sulfate oral solution dosage and manage an adverse reaction due to overdose.
 Initiate treatment in a dosage range of 10 to 20 mg every 4 hours as needed for pain.
 
-Conversion from Morphine Sulfate Oral Solution to Extended-Release Morphine
-
-For a given dose, the same total amount of morphine sulfate is available from morphine sulfate oral solution and extended-release morphine formulations.
+Conversion from Morphine Sulfate Oral Solution to Extended-Release Morphine For a given dose, the same total amount of morphine sulfate is available from morphine sulfate oral solution and extended-release morphine formulations.
 The extended duration of release of morphine sulfate from extended-release formulations results in reduced maximum and increased minimum plasma morphine sulfate concentrations than with shorter acting morphine sulfate products.
 Conversion from morphine sulfate oral solution to the same total daily dose of an extended-release formulation could lead to excessive sedation at peak serum levels.
 Therefore, conversion to extended-release morphine formulations must be accompanied by close observation for signs of excessive sedation and respiratory depression.
@@ -61,4 +53,4 @@ Adjust the dosage to obtain an appropriate balance between management of pain an
 
 When a patient who has been taking morphine sulfate oral solution regularly and may be physically dependent no longer requires therapy with morphine sulfate oral solution, taper the dose gradually, by 25% to 50% every 2 to 4 days, while monitoring carefully for signs and symptoms of withdrawal.
 If the patient develops these signs or symptoms, raise the dose to the previous level and taper more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both.
-Do not abruptly discontinue morphine sulfate oral solution in a physically-dependent patient [see Warnings and Precautions (5.13), Drug Abuse and Dependence (9.3)].
+Do not abruptly discontinue morphine sulfate oral solution in a physically-dependent patient [see Warnings and Precautions (5.14), Drug Abuse and Dependence (9.3)].
