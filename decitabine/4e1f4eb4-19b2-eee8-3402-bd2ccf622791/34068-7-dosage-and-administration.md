@@ -1,42 +1,66 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-There are two regimens for decitabine for injection administration.
-With either regimen it is recommended that patients be treated for a minimum of 4 cycles; however, a complete or partial response may take longer than 4 cycles.
-Complete blood counts and platelet counts should be performed as needed to monitor response and toxicity, but at a minimum, prior to each cycle.
-Liver chemistries and serum creatinine should be obtained prior to initiation of treatment.
+## 2.1 Recommended Starting Dosage
 
-## 2.1 Treatment Regimen – Option 1
+Pre-Medications and Baseline Testing
 
-Decitabine for injection is administered at a dose of 15 mg/m2 by continuous intravenous infusion over 3 hours repeated every 8 hours for 3 days.
-This cycle should be repeated every 6 weeks.
-Patients may be premedicated with standard anti-emetic therapy.
+- Consider pre-medicating for nausea with antiemetics.
+- Conduct baseline laboratory testing: CBC with platelets, serum hepatic panel, and serum creatinine.
 
-If hematologic recovery (ANC ≥ 1,000/μL and platelets ≥ 50,000/μL) from a previous decitabine for injection treatment cycle requires more than 6 weeks, then the next cycle of decitabine for injection therapy should be delayed and dosing temporarily reduced by following this algorithm:
+Decitabine for injection Regimen Options
 
-- Recovery requiring more than 6, but less than 8 weeks − Decitabine for injection dosing to be delayed for up to 2 weeks and the dose temporarily reduced to 11 mg/m2every 8 hours (33 mg/m2/day, 99 mg/m2/cycle) upon restarting therapy.
-- Recovery requiring more than 8, but less than 10 weeks − Patient should be assessed for disease progression (by bone marrow aspirates); in the absence of progression, the decitabine for injection dose should be delayed up to 2 more weeks and the dose reduced to 11 mg/m2 every 8 hours (33 mg/m2/day, 99 mg/m2/cycle) upon restarting therapy, then maintained or increased in subsequent cycles as clinically indicated.
+Three Day Regimen
 
-## 2.2 Treatment Regimen – Option 2
+Administer decitabine for injection at a dose of 15 mg/m 2 by continuous intravenous infusion over 3 hours repeated every 8 hours for 3 days.
+Repeat cycles every 6 weeks upon hematologic recovery (ANC at least 1,000/microliter and platelets at least 50,000/microliter) for a minimum of 4 cycles.
+A complete or partial response may take longer than 4 cycles.
+Delay and reduce dose for hematologic toxicity (see Dose Modifications for Toxicity).
 
-Decitabine for injection is administered at a dose of 20 mg/m2 by continuous intravenous infusion over 1 hour repeated daily for 5 days.
-This cycle should be repeated every 4 weeks.
-Patients may be premedicated with standard anti-emetic therapy.
+Five Day Regimen
 
-If myelosuppression is present, subsequent treatment cycles of decitabine for injection should be delayed until there is hematologic recovery (ANC ≥ 1,000/μL platelets ≥ 50,000/μL).
+Administer decitabine for injection at a dose of 20 mg/m 2 by continuous intravenous infusion over 1 hour daily for 5 days.
+Delay and reduce dose for hematologic toxicity (see Dose Modifications for Toxicity).
+Repeat cycles every 6 weeks upon hematologic recovery (ANC at least 1,000/microliter and platelets at least 50,000/microliter) for a minimum of 4 cycles.
+A complete or partial response may take longer than 4 cycles.
 
-## 2.3 Patients with Non-hematologic Toxicity
+## 2.2 Dose Modifications for Toxicity
 
-Following the first cycle of decitabine for injection treatment, if any of the following non-hematologic toxicities are present, decitabine for injection treatment should not be restarted until the toxicity is resolved: 1) serum creatinine ≥ 2 mg/dL; 2) SGPT, total bilirubin ≥ 2 times ULN; 3) and active or uncontrolled infection.
+Hematologic Toxicity
 
-## 2.4 Instructions for Intravenous Administration
+If hematologic recovery from a previous decitabine for injection treatment cycle requires more than 6 weeks, delay the next cycle of decitabine for injection therapy and reduce decitabine for injection dose temporarily by following this algorithm:
 
-Decitabine for injection is a cytotoxic drug and caution should be exercised when handling and preparing decitabine for injection.
-Procedures for proper handling and disposal of antineoplastic drugs should be applied.
-Several guidances on this subject have been published.1-4.
+- Recovery requiring more than 6, but less than 8 weeks – delay decitabine for injection dosing for up to 2 weeks and reduce the dose temporarily to 11 mg/m 2 every 8 hours (33 mg/m 2/day, 99 mg/m 2/cycle) upon restarting therapy.
+- Recovery requiring more than 8, but less than 10 weeks - Perform bone marrow aspirate to assess for disease progression.
+  In the absence of progression, delay the decitabine for injection dose up to 2 more weeks and reduce the dose to 11 mg/m 2 every 8 hours (33 mg/m 2/day, 99 mg/m 2/cycle) upon restarting therapy, then maintain or increase dose in subsequent cycles as clinically indicated.
 
-Decitabine for injection should be aseptically reconstituted with 10 mL of Sterile Water for Injection (USP); upon reconstitution, each mL contains approximately 5 mg of decitabine at pH 6.7 to 7.3.
-Immediately after reconstitution, the solution should be further diluted with 0.9% Sodium Chloride Injection or 5% Dextrose Injection to a final drug concentration of 0.1 to 1 mg/mL.
-Unless used within 15 minutes of reconstitution, the diluted solution must be prepared using cold (2˚C - 8˚C) infusion fluids and stored at 2˚C - 8˚C (36˚F - 46˚F) for up to a maximum of 4 hours until administration.
+Non-Hematologic Toxicity
+
+Delay subsequent decitabine for injection treatment for any the following non-hematologic toxicities and do not restart until toxicities resolve:
+
+- Serum creatinine greater than or equal to 2 mg/dL
+- SGPT, total bilirubin greater than or equal to 2 times ULN
+- Active or uncontrolled infection
+
+## 2.3 Instructions for Intravenous Administration
+
+Decitabine for injection is a cytotoxic drug and caution should be exercised when handling and preparing decitabine for injection 1.
+
+Aseptically reconstitute decitabine for injection with room temperature (20°C to 25°C) 10 mL of Sterile Water for Injection, USP.
+Upon reconstitution, the final concentration of the reconstituted decitabine for injection solution is 5 mg/mL.
+You must dilute the reconstituted solution with 0.9% Sodium Chloride Injection or 5% Dextrose Injection prior to administration.
+Temperature of the diluent (0.9% Sodium Chloride Injection or 5% Dextrose Injection) depends on time of administration after preparation.
+
+For Administration Within 15 Minutes of Preparation
+
+If decitabine for injection is intended to be administered within 15 minutes from the time of preparation, dilute the reconstituted solution with room temperature (20°C to 25°C) 0.9% Sodium Chloride Injection or 5% Dextrose Injection to a final concentration of 0.1 mg/mL- 1 mg/mL.
+
+For Delayed Administration
+
+If decitabine for injection is intended to be administered after 15 minutes of preparation, dilute the reconstituted solution with cold (2°C to 8°C) 0.9% Sodium Chloride Injection or 5% Dextrose Injection to a final concentration of 0.1 mg/mL to 1 mg/mL.
+Store at 2°C to 8°C for up to 4 hours.
+Diluted stored solution must be used within 4 hours from the time of preparation.
+
+Use the diluted, refrigerated solution within 4 hours from the time of preparation or discard.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 Do not use if there is evidence of particulate matter or discoloration.

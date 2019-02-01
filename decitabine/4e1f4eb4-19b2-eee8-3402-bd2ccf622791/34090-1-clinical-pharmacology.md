@@ -16,7 +16,8 @@ However, there have been no studies of decitabineinduced hypomethylation and pha
 ## 12.3 Pharmacokinetics
 
 Pharmacokinetic parameters were evaluated in patients.
-Eleven patients received 20 mg/m2 infused over 1 hour intravenously (treatment Option 2), Fourteen patients received 15 mg/m2 infused over 3 hours (treatment Option 1).
+Eleven patients received 20 mg/m 2 infused over 1 hour intravenously (treatment Option 2).
+Fourteen patients received 15 mg/m 2 infused over 3 hours (treatment Option 1).
 PK parameters are shown in Table 3.
 Plasma concentration-time profiles after discontinuation of infusion showed a biexponential decline.
 The CL of decitabine was higher following treatment Option 2.
@@ -25,12 +26,22 @@ Population PK analysis (N=35) showed that the cumulative AUC per cycle for treat
 
 Table 3 Mean (CV% or 95% CI) Pharmacokinetic Parameters of Decitabine
 
-| Dose | Cmax (ng/ mL) | AUC0-∞ (ng·h/m L) | T½ (h) | CL (L/h/m2) | AUCCumulative *** (ng·h/mL) |
+| Dose | C max (ng/ mL) | AUC 0-∞ (ng·h/m L) | T½ (h) | CL (L/h/m 2) | AUC Cumulative *** (ng·h/mL) |
 | --- | --- | --- | --- | --- | --- |
-| 15 mg/m2 3-hr infusion every 8 hours for 3 days (Option 1)* | 73.8 (66) | 163 (62) | 0.62 (49) | 125 (53) | 1332 (1010 - 1730) |
-| 20 mg/m2 1-hr infusion daily for 5 days (Option 2)** | 147 (49) | 115 (43) | 0.54 (43) | 210 (47) | 570 (470 -700) |
+| 15 mg/m 2 3-hr infusion every 8 hours for 3 days (Option 1)* | 73.8 (66) | 163 (62) | 0.62 (49) | 125 (53) | 1332 (1010 - 1730) |
+| 20 mg/m 2 1-hr infusion daily for 5 days (Option 2)** | 147 (49) | 115 (43) | 0.54 (43) | 210 (47) | 570 (470 -700) |
 
 * N=14, **N=11, ***N=35 Cumulative AUC per cycle
 
 The exact route of elimination and metabolic fate of decitabine is not known in humans.
 One of the pathways of elimination of decitabine appears to be deamination by cytidine deaminase found principally in the liver but also in granulocytes, intestinal epithelium and whole blood.
+
+Specific Populations
+
+Patients with Renal Impairment
+
+There are no data on the use of decitabine for injection in patients with renal impairment; therefore, if decitabine for injection is administered to these patients, monitor them frequently for excessive toxicity.
+
+Patients with Hepatic Impairment
+
+There are no data on the use of decitabine for injection in patients with hepatic impairment; therefore, if decitabine for injection is administered to these patients, monitor them frequently for excessive toxicity.

@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Controlled Trial
+## 14.1 Controlled Trial in Myelodysplastic Syndrome
 
 A randomized open-label, multicenter, controlled trial evaluated 170 adult patients with myelodysplastic syndromes (MDS) meeting French-American-British (FAB) classification criteria and International Prognostic Scoring System (IPSS) High-Risk, Intermediate-2 and Intermediate-1 prognostic scores.
 Eighty-nine patients were randomized to decitabine for injection therapy plus supportive care (only 83 received decitabine for injection), and 81 to Supportive Care (SC) alone.
@@ -50,7 +50,7 @@ Table 4 Baseline Demographics and Other Patient Characteristics (ITT)
 | RAEB-t | 17 (19) | 14 (17) |
 | CMML | 6 (7) | 8 (10) |
 
-Patients randomized to the decitabine for injection arm received decitabine for injection intravenously infused at a dose of 15 mg/m2 over a 3-hour period, every 8 hours, for 3 consecutive days.
+Patients randomized to the decitabine for injection arm received decitabine for injection intravenously infused at a dose of 15 mg/m 2 over a 3-hour period, every 8 hours, for 3 consecutive days.
 This cycle was repeated every 6 weeks, depending on the patient’s clinical response and toxicity.
 Supportive care consisted of blood and blood product transfusions, prophylactic antibiotics, and hematopoietic growth factors.
 The study endpoints were overall response rate (complete response + partial response) and time to AML or death.
@@ -90,10 +90,10 @@ All patients with a CR or PR were RBC and platelet transfusion independent in th
 
 Responses occurred in patients with an adjudicated baseline diagnosis of AML.
 
-## 14.2 Single-arm Studies
+## 14.2 Single-arm Studies in Myelodysplastic Syndrome
 
 Three open-label, single-arm, multicenter studies were conducted to evaluate the safety and efficacy of decitabine for injection in MDS patients with any of the FAB subtypes.
-In one study conducted in North America, 99 patients with IPSS Intermediate-1, Intermediate-2, or high risk prognostic scores received decitabine for injection by intravenous infusion at a dose of 20 mg/m2 IV over 1-hour daily, on days 1 to 5 of week 1 every 4 weeks (1 cycle).
+In one study conducted in North America, 99 patients with IPSS Intermediate-1, Intermediate-2, or high risk prognostic scores received decitabine for injection by intravenous infusion at a dose of 20 mg/m 2 IV over 1-hour daily, on days 1 to 5 of week 1 every 4 weeks (1 cycle).
 The results were consistent with the results of the controlled trial and summarized in Table 8.
 
 Table 7 Baseline Demographics and Other Patient
