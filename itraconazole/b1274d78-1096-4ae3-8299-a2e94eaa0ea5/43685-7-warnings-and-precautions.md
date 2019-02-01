@@ -131,12 +131,12 @@ Although many of the clinical drug interactions in Table 1 are based on informat
 | Analgesics |  |  |
 | Methadone |  | Contraindicated during and 2 weeks after itraconazole treatment. |
 | Fentanyl |  | Not recommended during and 2 weeks after itraconazole treatment. |
-| Alfentanil Buprenorphine (IV and sublingual) Oxycodone a Sufentanil |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
+| Alfentanil Buprenorphine (IV and sublingual) Oxycodonea Sufentanil |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Antiarrhythmics |  |  |
-| Disopyramide Dofetilide Dronedarone Quinidine a |  | Contraindicated during and 2 weeks after itraconazole treatment. |
-| Digoxin a |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
+| Disopyramide Dofetilide Dronedarone Quinidinea |  | Contraindicated during and 2 weeks after itraconazole treatment. |
+| Digoxina |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Antibacterials |  |  |
-| Bedaquiline b |  | Concomitant itraconazole not recommended for more than 2 weeks at any time during bedaquiline treatment. |
+| Bedaquilineb |  | Concomitant itraconazole not recommended for more than 2 weeks at any time during bedaquiline treatment. |
 | Rifabutin |  | Not recommended 2 weeks before, during, and 2 weeks after itraconazole treatment. See also Table 2. |
 | Clarithromycin |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. See also Table 2. |
 | Trimetrexate |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
@@ -147,35 +147,35 @@ Although many of the clinical drug interactions in Table 1 are based on informat
 | Anticonvulsants |  |  |
 | Carbamazepine |  | Not recommended 2 weeks before, during, and 2 weeks after itraconazole treatment. See also Table 2. |
 | Antidiabetic Drugs |  |  |
-| Repaglinide a Saxagliptin |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
+| Repaglinidea Saxagliptin |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Antihelminthics, Antifungals and Antiprotozoals |  |  |
 | Isavuconazonium |  | Contraindicated during and 2 weeks after itraconazole treatment. |
 | Praziquantel |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
-| Artemether-lumefantrine Quinine a |  | Monitor for adverse reactions. |
+| Artemether-lumefantrine Quininea |  | Monitor for adverse reactions. |
 | Antimigraine Drugs |  |  |
 | Ergot alkaloids (e.g., dihydroergotamine, ergotamine) |  | Contraindicated during and 2 weeks after itraconazole treatment. |
 | Eletriptan |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary |
 | Antineoplastics |  |  |
 | Irinotecan |  | Contraindicated during and 2 weeks after itraconazole treatment. |
-| Axitinib Bosutinib Cabazitaxel Cabozantinib Ceritinib Cobimetinib a Crizotinib Dabrafenib Dasatinib | Docetaxel Ibrutinib Lapatinib Nilotinib Olaparib a Pazopanib Sunitinib Trabectedin Trastuzumab- emtansine Vinca alkaloids | Not recommended during and 2 weeks after itraconazole treatment. |
-| Bortezomib Brentuximab- vedotin Busulfan a Erlotinib Gefitinib a Idelalisib Imatinib Ixabepilone | Nintedanib Panobinostat Ponatinib Ruxolitinib Sonidegib Vandetanib a | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. For idelalisib, see also Table 2. |
+| Axitinib Bosutinib Cabazitaxel Cabozantinib Ceritinib Cobimetiniba Crizotinib Dabrafenib Dasatinib | Docetaxel Ibrutinib Lapatinib Nilotinib Olapariba Pazopanib Sunitinib Trabectedin Trastuzumab- emtansine Vinca alkaloids | Not recommended during and 2 weeks after itraconazole treatment. |
+| Bortezomib Brentuximab- vedotin Busulfana Erlotinib Gefitiniba Idelalisib Imatinib Ixabepilone | Nintedanib Panobinostat Ponatinib Ruxolitinib Sonidegib Vandetaniba | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. For idelalisib, see also Table 2. |
 | Antipsychotics, Anxiolytics and Hypnotics |  |  |
-| Alprazolam a Aripiprazole a Buspirone a Diazepam a Haloperidol a | Midazolam (IV) a Quetiapine Ramelteon Risperidone a Suvorexant | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
-| Zopiclone a |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
-| Lurasidone Midazolam (oral) a Pimozide Triazolam a |  | Contraindicated during and 2 weeks after itraconazole treatment. |
+| Alprazolama Aripiprazolea Buspironea Diazepama Haloperidola | Midazolam (IV)a Quetiapine Ramelteon Risperidonea Suvorexant | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
+| Zopiclonea |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
+| Lurasidone Midazolam (oral)a Pimozide Triazolama |  | Contraindicated during and 2 weeks after itraconazole treatment. |
 | Antivirals |  |  |
 | Simeprevir |  | Not recommended during and 2 weeks after itraconazole treatment. |
-| Daclatasvir Indinavir a Maraviroc |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. For indinavir, see also Table 2. |
-| Cobicistat Elvitegravir (ritonavir-boosted) Ritonavir Saquinavir (unboosted) a |  | Monitor for adverse reactions. See also Table 2. |
+| Daclatasvir Indinavira Maraviroc |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. For indinavir, see also Table 2. |
+| Cobicistat Elvitegravir (ritonavir-boosted) Ritonavir Saquinavir (unboosted)a |  | Monitor for adverse reactions. See also Table 2. |
 | Tenofovir disoproxil fumarate |  | Monitor for adverse reactions. |
 | Beta Blockers |  |  |
-| Nadolol a |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
+| Nadolola |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Calcium Channel Blockers |  |  |
-| Felodipine a Nisoldipine |  | Contraindicated during and 2 weeks after itraconazole treatment. |
+| Felodipinea Nisoldipine |  | Contraindicated during and 2 weeks after itraconazole treatment. |
 | Diltiazem Other dihydropyridines Verapamil |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. For diltiazem, see also Table 2. |
 | Cardiovascular Drugs, Miscellaneous |  |  |
 | Ivabradine Ranolazine |  | Contraindicated during and 2 weeks after itraconazole treatment. |
-| Aliskiren a Riociguat Sildenafil (for pulmonary hypertension) Tadalafil (for pulmonary hypertension) |  | Not recommended during and 2 weeks after itraconazole treatment. For sildenafil and tadalafil, see also Urologic Drugs below. |
+| Aliskirena Riociguat Sildenafil (for pulmonary hypertension) Tadalafil (for pulmonary hypertension) |  | Not recommended during and 2 weeks after itraconazole treatment. For sildenafil and tadalafil, see also Urologic Drugs below. |
 | Bosentan Guanfacine |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Contraceptives |  |  |
 | Dienogest Ulipristal |  | Monitor for adverse reactions. |
@@ -183,14 +183,14 @@ Although many of the clinical drug interactions in Table 1 are based on informat
 | Eplerenone |  | Contraindicated during and 2 weeks after itraconazole treatment. |
 | Gastrointestinal Drugs |  |  |
 | Cisapride Naloxegol |  | Contraindicated during and 2 weeks after itraconazole treatment. |
-| Aprepitant Loperamide a |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
+| Aprepitant Loperamidea |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Netupitant |  | Monitor for adverse reactions. |
 | Immunosuppressants |  |  |
 | Everolimus Sirolimus Temsirolimus (IV) |  | Not recommended during and 2 weeks after itraconazole treatment. |
-| Budesonide (inhalation) a Budesonide (non-inhalation) Ciclesonide (inhalation) Cyclosporine (IV) a Cyclosporine (non-IV) Dexamethasone a | Fluticasone (inhalation) a Fluticasone (nasal) Methylprednisolone a Tacrolimus (IV) a Tacrolimus (oral) | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
+| Budesonide (inhalation)a Budesonide (non-inhalation) Ciclesonide (inhalation) Cyclosporine (IV)a Cyclosporine (non-IV) Dexamethasonea | Fluticasone (inhalation)a Fluticasone (nasal) Methylprednisolonea Tacrolimus (IV)a Tacrolimus (oral) | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Lipid-Lowering Drugs |  |  |
-| Lomitapide Lovastatin a Simvastatin a |  | Contraindicated during and 2 weeks after itraconazole treatment. |
-| Atorvastatin a |  | Monitor for drug adverse reactions. Concomitant drug dose reduction may be necessary |
+| Lomitapide Lovastatina Simvastatina |  | Contraindicated during and 2 weeks after itraconazole treatment. |
+| Atorvastatina |  | Monitor for drug adverse reactions. Concomitant drug dose reduction may be necessary |
 | Respiratory Drugs |  |  |
 | Salmeterol |  | Not recommended during and 2 weeks after itraconazole treatment. |
 | SSRIs, Tricyclics and Related Antidepressants |  |  |
@@ -200,10 +200,10 @@ Although many of the clinical drug interactions in Table 1 are based on informat
 | Fesoterodine |  | Patients with moderate to severe renal or hepatic impairment: Contraindicated during and 2 weeks after itraconazole treatment. Other patients: Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Solifenacin |  | Patients with severe renal or moderate to severe hepatic impairment: Contraindicated during and 2 weeks after itraconazole treatment. Other patients: Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Darifenacin Vardenafil |  | Not recommended during and 2 weeks after itraconazole treatment. |
-| Dutasteride Oxybutynin a Sildenafil (for erectile dysfunction) Tadalafil (for erectile dysfunction and benign prostatic hyperplasia) Tolterodine |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. For sildenafil and tadalafil, see also Cardiovascular Drugs above. |
+| Dutasteride Oxybutynina Sildenafil (for erectile dysfunction) Tadalafil (for erectile dysfunction and benign prostatic hyperplasia) Tolterodine |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. For sildenafil and tadalafil, see also Cardiovascular Drugs above. |
 | Miscellaneous Drugs and Other Substances |  |  |
 | Colchicine |  | Patients with renal or hepatic impairment: Contraindicated during and 2 weeks after itraconazole treatment. Other patients: Not recommended during and 2 weeks after itraconazole treatment. |
-| Eliglustat |  | CYP2D6 EMs c taking a strong or moderate CYP2D6 inhibitor, CYP2D6 IMs c, or CYP2D6 PMs c: Contraindicated during and 2 weeks after itraconazole treatment. CYP2D6 EMs c not taking a strong or moderate CYP2D6 inhibitor: Monitor for adverse reactions. Eliglustat dose reduction may be necessary. |
+| Eliglustat |  | CYP2D6 EMsc taking a strong or moderate CYP2D6 inhibitor, CYP2D6 IMsc, or CYP2D6 PMsc: Contraindicated during and 2 weeks after itraconazole treatment. CYP2D6 EMsc not taking a strong or moderate CYP2D6 inhibitor: Monitor for adverse reactions. Eliglustat dose reduction may be necessary. |
 | Lumacaftor/Ivacaftor |  | Not recommended 2 weeks before, during, and 2 weeks after itraconazole treatment. |
 | Alitretinoin (oral) Cabergoline Cannabinoids Cinacalcet Ivacaftor |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Vasopressin Receptor Antagonists |  |  |
@@ -214,7 +214,7 @@ Although many of the clinical drug interactions in Table 1 are based on informat
 | Gastrointestinal Drugs |  |  |
 | Saccharomyces boulardii |  | Not recommended during and 2 weeks after itraconazole treatment. |
 | Nonsteroidal Anti-Inflammatory Drugs |  |  |
-| Meloxicam a |  | Concomitant drug dose increase may be necessary. |
+| Meloxicama |  | Concomitant drug dose increase may be necessary. |
 
 aBased on clinical drug interaction information with itraconazole.
 
@@ -240,24 +240,24 @@ Although many of the clinical drug interactions in Table 2 are based on informat
 | Concomitant Drug Within Class | Prevention or Management |
 | Drug Interactions with Other Drugs that Increase Itraconazole Concentrations and May Increase Risk of Adverse Reactions Associated with Itraconazole |  |
 | Antibacterials |  |
-| Ciprofloxacin a Erythromycin a Clarithromycin a | Monitor for adverse reactions. Itraconazole dose reduction may be necessary. |
+| Ciprofloxacina Erythromycina Clarithromycina | Monitor for adverse reactions. Itraconazole dose reduction may be necessary. |
 | Antineoplastics |  |
 | Idelalisib | Monitor for adverse reactions. Itraconazole dose reduction may be necessary. See also Table 1. |
 | Antivirals |  |
-| Cobicistat Darunavir (ritonavir-boosted) Elvitegravir (ritonavir-boosted) Fosamprenavir (ritonavir-boosted) Indinavir a Ritonavir Saquinavir | Monitor for adverse reactions. Itraconazole dose reduction may be necessary. For, cobicistat, elvitegravir, indinavir, ritonavir, and saquinavir, see also Table 1. |
+| Cobicistat Darunavir (ritonavir-boosted) Elvitegravir (ritonavir-boosted) Fosamprenavir (ritonavir-boosted) Indinavira Ritonavir Saquinavir | Monitor for adverse reactions. Itraconazole dose reduction may be necessary. For, cobicistat, elvitegravir, indinavir, ritonavir, and saquinavir, see also Table 1. |
 | Calcium Channel Blockers |  |
 | Diltiazem | Monitor for adverse reactions. Itraconazole dose reduction may be necessary. See also Table 1. |
 | Drug Interactions with Other Drugs that Decrease itraconazole Concentrations and May Reduce Efficacy of itraconazole |  |
 | Antibacterials |  |
-| Isoniazid Rifampicin a | Not recommended 2 weeks before and during itraconazole treatment. |
-| Rifabutin a | Not recommended 2 weeks before, during, and 2 weeks after itraconazole treatment. See also Table 1. |
+| Isoniazid Rifampicina | Not recommended 2 weeks before and during itraconazole treatment. |
+| Rifabutina | Not recommended 2 weeks before, during, and 2 weeks after itraconazole treatment. See also Table 1. |
 | Anticonvulsants |  |
-| Phenobarbital Phenytoin a | Not recommended 2 weeks before and during itraconazole treatment. |
+| Phenobarbital Phenytoina | Not recommended 2 weeks before and during itraconazole treatment. |
 | Carbamazepine | Not recommended 2 weeks before, during, and 2 weeks after itraconazole treatment. See also Table 1. |
 | Antivirals |  |
-| Efavirenz a Nevirapine a | Not recommended 2 weeks before and during itraconazole treatment. |
+| Efavirenza Nevirapinea | Not recommended 2 weeks before and during itraconazole treatment. |
 | Gastrointestinal Drugs |  |
-| Drugs that reduce gastric acidity e.g. acid neutralizing medicines such as aluminum hydroxide, or acid secretion suppressors such as H 2-receptor antagonists and proton pump inhibitors. | Use with caution. Administer acid neutralizing medicines at least 2 hours before or 2 hours after the intake of itraconazole capsules |
+| Drugs that reduce gastric acidity e.g. acid neutralizing medicines such as aluminum hydroxide, or acid secretion suppressors such as H2-receptor antagonists and proton pump inhibitors. | Use with caution. Administer acid neutralizing medicines at least 2 hours before or 2 hours after the intake of itraconazole capsules |
 | Miscellaneous Drugs and Other Substances |  |
 | Lumacaftor/Ivacaftor | Not recommended 2 weeks before, during, and 2 weeks after itraconazole treatment. |
 

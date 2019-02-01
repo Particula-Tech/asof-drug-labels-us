@@ -130,11 +130,11 @@ Itraconazole capsules may cause serious side effects, including:
 
 •See "What is the most important information I should know about itraconazole capsules?"
 
-• Nerve problems (neuropathy).
+•Nerve problems (neuropathy).
 Call your healthcare provider right away if you have tingling or numbness in your hands or feet.
 Your healthcare provider may stop your treatment with itraconazole capsules if you have nerve problems.
 
-• Hearing loss.
+•Hearing loss.
 Hearing loss can happen for a short time or permanently in some people who take itraconazole capsules.
 Stop taking itraconazole capsules and call your healthcare provider right away if you have any changes in your hearing.
 
@@ -151,7 +151,7 @@ How should I store itraconazole capsules?
 
 • Keep itraconazole capsules dry and away from light.
 
-Keep itraconazole capsulesand all medicines out of the reach of children
+Keep itraconazole capsules and all medicines out of the reach of children
 
 General information about the safe and effective use of itraconazole capsules.
 
