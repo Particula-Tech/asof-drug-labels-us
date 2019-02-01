@@ -142,7 +142,7 @@ Table 8 - Incidences of the primary composite endpoint, primary composite endpoi
 | CV DeathFor the components, the first-occurring component of the composite is included. | 116 |  | 128 |  |  |  |
 | Myocardial infarction | 283 |  | 336 |  |  |  |
 | Stroke | 88 |  | 114 |  |  |  |
-| Subjects with events at any time CV DeathSecondary endpoints, The number of first events for the components CV Death, MI and Stroke are the actual number of first events for each component and do not add up to the number of events in the composite endpoint. | 174 | 2.9 | 210 | 3.4 | 0.83 (0.68, 1.01) |  |
+| Subjects with events at any time CV DeathSecondary endpointsThe number of first events for the components CV Death, MI and Stroke are the actual number of first events for each component and do not add up to the number of events in the composite endpoint. | 174 | 2.9 | 210 | 3.4 | 0.83 (0.68, 1.01) |  |
 | Myocardial infarction | 285 | 4.5 | 338 | 5.2 | 0.84 (0.72, 0.98) |  |
 | Stroke | 91 | 1.5 | 122 | 1.9 | 0.75 (0.57, 0.98) |  |
 | All-cause mortality | 289 | 4.7 | 326 | 5.2 | 0.89 (0.76, 1.04) |  |

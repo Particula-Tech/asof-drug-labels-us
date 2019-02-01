@@ -1,8 +1,6 @@
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 60 mg
 
-NDC 0186-0776-60
-
-60 tablets
+NDC 0186-0776-60 60 tablets
 
 BRILINTA®
 
@@ -12,15 +10,15 @@ ticagrelor tablets
 
 Rx only
 
-Dispense the accompanying Medication Guide to each patient.
+Dispense the accompanying
+
+Medication Guide to each patient.
 
 AstraZeneca
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 90 mg
 
-NDC 0186-0777-60
-
-60 tablets
+NDC 0186-0777-60 60 tablets
 
 BRILINTA®
 
@@ -30,6 +28,8 @@ ticagrelor tablets
 
 Rx only
 
-Dispense the accompanying Medication Guide to each patient.
+Dispense the accompanying
+
+Medication Guide to each patient.
 
 AstraZeneca
