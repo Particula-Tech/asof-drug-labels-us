@@ -8,7 +8,7 @@ Concomitant Use of Alcohol and other Central Nervous System Depressants
 
 Instruct patients to avoid concurrent use of levocetirizine dihydrochloride with alcohol or other central nervous system depressants because additional reduction in mental alertness may occur.
 
-Dosing of Levocetirizine Dihydrochloride Tablets, USP
+Dosing of Levocetirizine Dihydrochloride Tablets
 
 Do not exceed the recommended daily dose in adults and adolescents 12 years of age and older of 5 mg once daily in the evening.
 In children 6 to 11 years of age the recommended dose is 2.5 mg once daily in the evening.
@@ -22,4 +22,4 @@ Micro Labs USA Inc.
 
 Basking Ridge, NJ 07920
 
-Revised: 04/2018
+Revised: 01/2019

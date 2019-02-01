@@ -16,7 +16,7 @@ The clinical relevance of histamine wheal skin testing is unknown.
 A QT/QTc study using a single dose of 30 mg of levocetirizine did not demonstrate an effect on the QTc interval.
 While a single dose of levocetirizine had no effect, the effects of levocetirizine may not be at steady state following single dose.
 The effect of levocetirizine on the QTc interval following multiple dose administration is unknown.
-Levocetirizine is not expected to have QT/QTc effects because of the results of QTc studies with cetirizine and the long post-marketing history of cetirizine without reports of QT prolongation.
+Levocetirizine is not expected to have QT/QTc effects because of the results of QTc studies with cetirizine and the long postmarketing history of cetirizine without reports of QT prolongation.
 
 ## 12.3 Pharmacokinetics
 
@@ -31,7 +31,7 @@ Peak concentrations are typically 270 ng/mL and 308 ng/mL following a single and
 Food had no effect on the extent of exposure (AUC) of the levocetirizine tablet, but T max was delayed by about 1.25 hours and C max was decreased by about 36% after administration with a high fat meal; therefore, levocetirizine can be administered with or without food.
 
 A dose of 5 mg (10 mL) of levocetirizine dihydrochloride oral solution is bioequivalent to a 5 mg dose of levocetirizine dihydrochloride tablets.
-Following oral administration of a 5 mg dose of levocetirizine dihydrochloride oral solution to healthy adult subjects, the mean peak plasma concentrations were achieved approximately 0.5 hour post-dose.
+Following oral administration of a 5 mg dose of levocetirizine dihydrochloride oral solution to healthy adult subjects, the mean peak plasma concentrations were achieved approximately 0.5 hour post dose.
 
 Distribution
 
@@ -51,7 +51,7 @@ The major route of excretion of levocetirizine and its metabolites is via urine,
 Excretion via feces accounts for only 12.9% of the dose.
 Levocetirizine is excreted both by glomerular filtration and active tubular secretion.
 Renal clearance of levocetirizine correlates with that of creatinine clearance.
-In patients with renal impairment the clearance of levocetirizine is reduced [See Dosage and Administration (2.2)].
+In patients with renal impairment the clearance of levocetirizine is reduced [see Dosage and Administration (2.2)].
 
 Drug Interaction Studies
 
@@ -61,7 +61,7 @@ Levocetirizine at concentrations well above Cmax level achieved within the thera
 No formal in vivo drug interaction studies have been performed with levocetirizine.
 Studies have been performed with the racemic cetirizine [see Drug Interactions (7)].
 
-Pediatric Patients
+Pediatric patients
 
 Data from a pediatric pharmacokinetic study with oral administration of a single dose of 5 mg levocetirizine in 14 children age 6 to 11 years with body weight ranging between 20 and 40 kg show that C max and AUC values are about 2-fold greater than that reported in healthy adult subjects in a cross-study comparison.
 The mean C max was 450 ng/mL, occurring at a mean time of 1.2 hours, weight-normalized, total body clearance was 30% greater, and the elimination half-life 24% shorter in this pediatric population than in adults.
@@ -70,7 +70,7 @@ Dedicated pharmacokinetic studies have not been conducted in pediatric patients 
 A retrospective population pharmacokinetic analysis was conducted in 323 subjects (181 children 1 to 5 years of age, 18 children 6 to 11 years of age, and 124 adults 18 to 55 years of age) who received single or multiple doses of levocetirizine ranging from 1.25 mg to 30 mg.
 Data generated from this analysis indicated that administration of 1.25 mg once daily to children 6 months to 5 years of age results in plasma concentrations similar to those of adults receiving 5 mg once daily.
 
-Geriatric Patients
+Geriatric patients
 
 Limited pharmacokinetic data are available in elderly subjects.
 Following once daily repeat oral administration of 30 mg levocetirizine for 6 days in 9 elderly subjects (65–74 years of age), the total body clearance was approximately 33% lower compared to that in younger adults.
@@ -90,7 +90,7 @@ The effect of race on levocetirizine has not been studied.
 As levocetirizine is primarily renally excreted, and there are no important racial differences in creatinine clearance, pharmacokinetic characteristics of levocetirizine are not expected to be different across races.
 No race-related differences in the kinetics of racemic cetirizine have been observed.
 
-Renal Impairment
+Renal impairment
 
 Levocetirizine exposure (AUC) exhibited 1.8-, 3.2-, 4.3-, and 5.7-fold increase in mild, moderate, severe, renal impaired, and end-stage renal disease patients, respectively, compared to healthy subjects.
 The corresponding increases of half-life estimates were 1.4-, 2.0-, 2.9-, and 4-fold, respectively.
@@ -103,7 +103,7 @@ The amount of levocetirizine removed during a standard 4-hour hemodialysis proce
 The dosage of levocetirizine dihydrochloride should be reduced in patients with mild renal impairment.
 Both the dosage and frequency of administration should be reduced in patients with moderate or severe renal impairment [see Dosage and Administration (2.2)].
 
-Hepatic Impairment
+Hepatic impairment
 
 Levocetirizine dihydrochloride has not been studied in patients with hepatic impairment.
 The non-renal clearance (indicative of hepatic contribution) was found to constitute about 28% of the total body clearance in healthy adult subjects after oral administration.
