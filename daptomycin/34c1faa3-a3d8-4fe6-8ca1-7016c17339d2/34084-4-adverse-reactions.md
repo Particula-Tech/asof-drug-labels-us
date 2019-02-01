@@ -239,7 +239,7 @@ Immune System Disorders: anaphylaxis; hypersensitivity reactions, including angi
 
 Infections and Infestations: Clostridium difficile–associated diarrhea [see Warnings and Precautions (5.6)]
 
-Investigations: platelet count decreased
+Laboratory Investigations: platelet count decreased
 
 Musculoskeletal Disorders: myoglobin increased; rhabdomyolysis (some reports involved patients treated concurrently with CUBICIN and HMG-CoA reductase inhibitors) [see Warnings and Precautions (5.2), Drug Interactions (7.1), and Clinical Pharmacology (12.3)]
 
