@@ -7,7 +7,7 @@ Optimal patient response can usually be established with 1800 mg/day in the foll
 | ACUTE MANIA |  |  |  |
 | --- | --- | --- | --- |
 |  | Morning | Afternoon | Nighttime |
-| Lithium Carbonate Extended-Release Tablets | 3 tabs(900 mg) |  | 3 tabs (900) |
+| Lithium Carbonate Extended-Release Tablets1 | 3 tabs(900 mg) |  | 3 tabs(900 mg) |
 
 1. 1.Can also be administered on 600 mg TID recommended dosing interval.
 
