@@ -26,9 +26,7 @@ Regulatory Exceptions to the General Requirement for Certification to Provide Op
 
 ## 2.3 Methadone Hydrochloride Tablets for Management of Pain
 
-Important Dosage and Administration Information
-
-Methadone hydrochloride tablets should be prescribed only by healthcare professionals who are knowledgeable in the use of potent opioids for the management of chronic pain.
+Important Dosage and Administration Information Methadone hydrochloride tablets should be prescribed only by healthcare professionals who are knowledgeable in the use of potent opioids for the management of chronic pain.
 
 Consider the following important factors that differentiate methadone from other opioid analgesics:
 
@@ -42,15 +40,11 @@ Use the lowest effective dosage for the shortest duration consistent with indivi
 
 Initiate the dosing regimen for each patient individually, taking into account the patient’s severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
 
-Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy and following dosage increases with methadone hydrochloride tablets and adjust the dosage accordingly [see Warnings and Precautions (5.2)].
+Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy and following dosage increases with methadone hydrochloride tablets and adjust the dosage accordingly [see Warnings and Precautions (5.3)].
 
-Use of Methadone Hydrochloride Tablets as the First Opioid Analgesic
+Use of Methadone Hydrochloride Tablets as the First Opioid Analgesic Initiate treatment with methadone hydrochloride tablets with 2.5 mg orally every 8 to 12 hours.
 
-Initiate treatment with methadone hydrochloride tablets with 2.5 mg orally every 8 to 12 hours.
-
-Conversion from Other Oral Opioids to Methadone Hydrochloride Tablets
-
-Discontinue all other around-the-clock opioid drugs when methadone hydrochloride tablets therapy is initiated.
+Conversion from Other Oral Opioids to Methadone Hydrochloride Tablets Discontinue all other around-the-clock opioid drugs when methadone hydrochloride tablets therapy is initiated.
 Deaths have occurred in opioid-tolerant patients during conversion to methadone.
 
 The potency of methadone relative to other opioid analgesics is nonlinear and increases with increasing dose.
@@ -111,9 +105,7 @@ Then 7.5 mg is rounded down to 5 mg methadone hydrochloride tablets every 12 hou
 Close observation and frequent titration are warranted until pain management is stable on the new opioid.
 Monitor patients for signs and symptoms of opioid withdrawal or for signs of over-sedation/toxicity after converting patients to methadone hydrochloride tablets.
 
-Conversion from Parenteral Methadone to Methadone Hydrochloride Tablets
-
-Use a conversion ratio of 1:2 mg for parenteral to oral methadone (e.g., 5 mg parenteral methadone to 10 mg oral methadone).
+Conversion from Parenteral Methadone to Methadone Hydrochloride Tablets Use a conversion ratio of 1:2 mg for parenteral to oral methadone (e.g., 5 mg parenteral methadone to 10 mg oral methadone).
 
 ## 2.4 Titration and Maintenance of Therapy for Pain
 
@@ -136,7 +128,7 @@ Adjust the dose to obtain an appropriate balance between management of pain and 
 
 When a patient no longer requires therapy with methadone hydrochloride tablets for pain, taper the dose gradually, by 15% to 50% every two to four days, to prevent signs and symptoms of withdrawal.
 If the patient develops these signs or symptoms, raise the dose to the previous level and taper more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both.
-Do not abruptly discontinue methadone hydrochloride tablets [see Warnings and Precautions (5.14), Drug Abuse and Dependence (9.3)].
+Do not abruptly discontinue methadone hydrochloride tablets [see Warnings and Precautions (5.15), Drug Abuse and Dependence (9.3)].
 
 ## 2.6 Induction/Initial Dosing for Detoxification and Maintenance Treatment of Opioid Addiction
 
@@ -162,9 +154,7 @@ Do not determine initial doses based on previous treatment episodes or dollars s
 During the induction phase of methadone maintenance treatment, patients are being withdrawn from opioids and may have opioid withdrawal symptoms.
 Monitor patients for signs and symptoms of opioid withdrawal including: lacrimation, rhinorrhea, sneezing, yawning, excessive perspiration, goose-flesh, fever, chilling alternating with flushing, restlessness, irritability, weakness, anxiety, depression, dilated pupils, tremors, tachycardia, abdominal cramps, body aches, involuntary twitching and kicking movements, anorexia, nausea, vomiting, diarrhea, intestinal spasms, and weight loss and consider dose adjustment as indicated.
 
-Short-Term Detoxification
-
-For a brief course of stabilization followed by a period of medically supervised withdrawal, titrate the patient to a total daily dose of about 40 mg in divided doses to achieve an adequate stabilizing level.
+Short-Term Detoxification For a brief course of stabilization followed by a period of medically supervised withdrawal, titrate the patient to a total daily dose of about 40 mg in divided doses to achieve an adequate stabilizing level.
 After 2 to 3 days of stabilization, gradually decrease the dose of methadone hydrochloride tablets.
 Decrease the dose of methadone hydrochloride tablets on a daily basis or at 2-day intervals, keeping the amount of methadone hydrochloride tablets sufficient to keep withdrawal symptoms at a tolerable level.
 Hospitalized patients may tolerate a daily reduction of 20% of the total daily dose.

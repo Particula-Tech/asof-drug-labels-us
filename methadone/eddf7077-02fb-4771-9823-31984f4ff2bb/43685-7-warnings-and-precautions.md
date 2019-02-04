@@ -21,7 +21,22 @@ Consider these risks when prescribing or dispensing methadone hydrochloride tabl
 Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity and advising the patient on the proper disposal of unused drug [see Patient Counseling Information (17)].
 Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
 
-## 5.2 Life-Threatening Respiratory Depression
+## 5.2 Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
+
+To ensure that the benefits of opioid analgesics outweigh the risks of addiction, abuse, and misuse, the Food and Drug Administration (FDA) has required a Risk Evaluation and Mitigation Strategy (REMS) for these products.
+Under the requirements of the REMS, drug companies with approved opioid analgesic products must make REMS-compliant education programs available to healthcare providers.
+Healthcare providers are strongly encouraged to do all of the following:
+
+- Complete a REMS-compliant education program offered by an accredited provider of continuing education (CE) or another education program that includes all the elements of the FDA Education Blueprint for Health Care Providers Involved in the Management or Support of Patients with Pain.
+- Discuss the safe use, serious risks, and proper storage and disposal of opioid analgesics with patients and/or their caregivers every time these medicines are prescribed.
+  The Patient Counseling Guide (PCG) can be obtained at this link: www.fda.gov/OpioidAnalgesicREMSPCG.
+- Emphasize to patients and their caregivers the importance of reading the Medication Guide that they will receive from their pharmacist every time an opioid analgesic is dispensed to them.
+- Consider using other tools to improve patient, household, and community safety, such as patient-prescriber agreements that reinforce patient-prescriber responsibilities.
+
+To obtain further information on the opioid analgesic REMS and for a list of accredited REMS CME/CE, call 1-800-503-0784, or log on to www.opioidanalgesicrems.com.
+The FDA Blueprint can be found at www.fda.gov/OpioidAnalgesicREMSBlueprint.
+
+## 5.3 Life-Threatening Respiratory Depression
 
 Serious, life-threatening, or fatal respiratory depression has been reported with the use of methadone, even when used as recommended.
 The peak respiratory depressant effect of methadone occurs later, and persists longer than the peak analgesic effect.
@@ -38,7 +53,7 @@ Overestimating the methadone hydrochloride tablets dosage when converting patien
 
 Accidental ingestion of even one dose of methadone hydrochloride tablets, especially by children, can result in respiratory depression and death due to an overdose of methadone.
 
-## 5.3 Life-Threatening QT Prolongation
+## 5.4 Life-Threatening QT Prolongation
 
 Cases of QT interval prolongation and serious arrhythmia (torsades de pointes) have been observed during treatment with methadone.
 These cases appear to be more commonly associated with, but not limited to, higher dose treatment (> 200 mg/day).
@@ -56,7 +71,7 @@ Only initiate methadone hydrochloride tablets therapy for pain in patients for w
 
 The use of methadone in patients already known to have a prolonged QT interval has not been systematically studied.
 
-## 5.4 Neonatal Opioid Withdrawal Syndrome
+## 5.5 Neonatal Opioid Withdrawal Syndrome
 
 Neonatal opioid withdrawal syndrome (NOWS) is an expected and treatable outcome of prolonged use of opioids during pregnancy, whether that use is medically-authorized or illicit.
 Unlike opioid withdrawal syndrome in adults, NOWS may be life-threatening if not recognized and treated in the neonate.
@@ -70,7 +85,7 @@ The balance between the risks of NOWS and the benefits of maternal methadone hyd
   NOWS can result from in utero exposure to opioids regardless of the source.
   Therefore, prescribers should discuss the importance and benefits of management of opioid addiction throughout pregnancy.
 
-## 5.5 Risks of Concomitant Use of Cytochrome P450 3A4, 2B6, 2C19, 2C9, or 2D6 Inhibitors or Discontinuation of P450 3A4, 2B6, 2C19, or 2C9 Inducers
+## 5.6 Risks of Concomitant Use of Cytochrome P450 3A4, 2B6, 2C19, 2C9, or 2D6 Inhibitors or Discontinuation of P450 3A4, 2B6, 2C19, or 2C9 Inducers
 
 Concomitant use of methadone hydrochloride tablets with CYP3A4, CYP2B6, CYP2C19, CYP2C9, or CYP2D6 inhibitors, may increase plasma concentrations of methadone, prolong opioid adverse reactions, and may cause potentially fatal respiratory depression, particularly when an inhibitor is added after a stable dosage of methadone hydrochloride tablets is achieved.
 Similarly, discontinuation of concomitant CYP3A4, CYP2B6, CYP2C19, or CYP2C9 inducers in methadone hydrochloride tablets-treated patients may increase methadone plasma concentrations resulting in fatal respiratory depression.
@@ -79,13 +94,11 @@ Consider dosage reduction of methadone hydrochloride tablets when using concomit
 Addition of CYP3A4, CYP2B6, CYP2C19, or CYP2C9 inducers or discontinuation of CYP3A4, CYP2B6, CYP2C19, CYP2C9, or CYP2D6 inhibitors in patients treated with methadone hydrochloride tablets may decrease methadone plasma concentrations, reducing efficacy and may lead to opioid withdrawal symptoms in patients physically dependent on methadone.
 When using methadone hydrochloride tablets with CYP3A4, CYP2B6, CYP2C19, or CYP2C9 inducers or discontinuing CYP3A4, CYP2B6, CYP2C19, CYP2C9, or CYP2D6 inhibitors, follow patients for signs or symptoms of opioid withdrawal and consider increasing the methadone hydrochloride tablets dosage as needed [see Drug Interactions (7)].
 
-## 5.6 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
+## 5.7 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
 Profound sedation, respiratory depression, coma, and death may result from the concomitant use of methadone hydrochloride tablets with benzodiazepines or other CNS depressants (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
 
-For Patients Being Treated for Pain
-
-Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
+For Patients Being Treated for Pain Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioid analgesics alone.
 Because of similar pharmacological properties, it is reasonable to expect similar risk with the concomitant use of other CNS depressant drugs with opioid analgesics [see Drug Interactions (7)].
@@ -99,9 +112,7 @@ Advise both patients and caregivers about the risks of respiratory depression an
 Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
 Screen patients for risk of substance use disorders, including opioid abuse and misuse, and warn them of the risk for overdose and death associated with the use of additional CNS depressants including alcohol and illicit drugs [see Drug Interactions (7) and Patient Counseling Information (17)].
 
-For Patients Being Treated for Opioid Addiction
-
-Concomitant use of methadone and benzodiazepines or other CNS depressants increases the risk of adverse reactions including overdose and death.
+For Patients Being Treated for Opioid Addiction Concomitant use of methadone and benzodiazepines or other CNS depressants increases the risk of adverse reactions including overdose and death.
 Medication-assisted treatment of opioid use disorder, however, should not be categorically denied to patients taking these drugs.
 Prohibiting or creating barriers to treatment can pose an even greater risk of morbidity and mortality due to the opioid use disorder alone.
 
@@ -123,22 +134,18 @@ Ensure that other healthcare providers prescribing benzodiazepines or other CNS 
 In addition, take measures to confirm that patients are taking the medications prescribed and not diverting or supplementing with illicit drugs.
 Toxicology screening should test for prescribed and illicit benzodiazepines [see Drug Interactions (7)].
 
-## 5.7 Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or in Elderly, Cachectic, or Debilitated Patients
+## 5.8 Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or in Elderly, Cachectic, or Debilitated Patients
 
 The use of methadone hydrochloride tablets in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
 
-Patients with Chronic Pulmonary Disease
+Patients with Chronic Pulmonary Disease Methadone hydrochloride tablets-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of methadone hydrochloride tablets [see Warnings and Precautions (5.3)].
 
-Methadone hydrochloride tablets-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of methadone hydrochloride tablets [see Warnings and Precautions (5.2)].
+Elderly, Cachectic, or Debilitated Patients Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.3)].
 
-Elderly, Cachectic, or Debilitated Patients
-
-Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.2)].
-
-Monitor such patients closely, particularly when initiating and titrating methadone hydrochloride tablets and when methadone hydrochloride tablets are given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.2, 5.6)].
+Monitor such patients closely, particularly when initiating and titrating methadone hydrochloride tablets and when methadone hydrochloride tablets are given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.3, 5.7)].
 Alternatively, consider the use of non-opioid analgesics in these patients.
 
-## 5.8 Serotonin Syndrome with Concomitant Use of Serotonergic Drugs
+## 5.9 Serotonin Syndrome with Concomitant Use of Serotonergic Drugs
 
 Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of methadone hydrochloride tablets with serotonergic drugs.
 Serotonergic drugs include selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonergic neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), and drugs that impair metabolism of serotonin (including MAO inhibitors, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue) [see Drug Interactions (7)].
@@ -148,7 +155,7 @@ Serotonin syndrome symptoms may include mental status changes (e.g., agitation, 
 The onset of symptoms generally occurs within several hours to a few days of concomitant use, but may occur later than that.
 Discontinue methadone hydrochloride tablets if serotonin syndrome is suspected.
 
-## 5.9 Adrenal Insufficiency
+## 5.10 Adrenal Insufficiency
 
 Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
 Presentation of adrenal insufficiency may include non-specific symptoms and signs including nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
@@ -158,7 +165,7 @@ Wean the patient off of the opioid to allow adrenal function to recover and cont
 Other opioids may be tried as some cases reported use of a different opioid without recurrence of adrenal insufficiency.
 The information available does not identify any particular opioids as being more likely to be associated with adrenal insufficiency.
 
-## 5.10 Severe Hypotension
+## 5.11 Severe Hypotension
 
 Methadone hydrochloride tablets may cause severe hypotension including orthostatic hypotension and syncope in ambulatory patients.
 There is an increased risk in patients whose ability to maintain blood pressure has already been compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g., phenothiazines or general anesthetics) [see Drug Interactions (7)].
@@ -166,7 +173,7 @@ Monitor these patients for signs of hypotension after initiating or titrating th
 In patients with circulatory shock, methadone hydrochloride tablets may cause vasodilation that can further reduce cardiac output and blood pressure.
 Avoid the use of methadone hydrochloride tablets in patients with circulatory shock.
 
-## 5.11 Risks of Use in Patients with Increased Intracranial Pressure, Brain Tumors, Head Injury, or Impaired Consciousness
+## 5.12 Risks of Use in Patients with Increased Intracranial Pressure, Brain Tumors, Head Injury, or Impaired Consciousness
 
 In patients who may be susceptible to the intracranial effects of CO2 retention (e.g., those with evidence of increased intracranial pressure or brain tumors) methadone hydrochloride tablets may reduce respiratory drive, and the resultant CO2 retention can further increase intracranial pressure.
 Monitor such patients for signs of sedation and respiratory depression, particularly when initiating therapy with methadone hydrochloride tablets.
@@ -175,7 +182,7 @@ Opioids may also obscure the clinical course in a patient with a head injury.
 
 Avoid the use of methadone hydrochloride tablets in patients with impaired consciousness or coma.
 
-## 5.12 Risks of Use in Patients with Gastrointestinal Conditions
+## 5.13 Risks of Use in Patients with Gastrointestinal Conditions
 
 Methadone hydrochloride tablets are contraindicated in patients with known or suspected gastrointestinal obstruction, including paralytic ileus.
 
@@ -183,12 +190,12 @@ The methadone in methadone hydrochloride tablets may cause spasm of the sphincte
 Opioids may cause increases in the serum amylase.
 Monitor patients with biliary tract disease, including acute pancreatitis, for worsening symptoms.
 
-## 5.13 Increased Risk of Seizures in Patients with Seizure Disorders
+## 5.14 Increased Risk of Seizures in Patients with Seizure Disorders
 
 The methadone in methadone hydrochloride tablets may increase the frequency of seizures in patients with seizure disorders, and may increase the risk of seizures in other clinical settings associated with seizures.
 Monitor patients with a history of seizure disorders for worsened seizure control during methadone hydrochloride tablets therapy.
 
-## 5.14 Withdrawal
+## 5.15 Withdrawal
 
 Avoid the use of mixed agonist/antagonist (i.e., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist, including methadone hydrochloride tablets.
 In these patients, mixed agonists/antagonist and partial agonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms [see Drug Interactions (7)].
@@ -196,11 +203,11 @@ In these patients, mixed agonists/antagonist and partial agonist analgesics may 
 When discontinuing methadone hydrochloride tablets, gradually taper the dosage [see Dosage and Administration (2.5)].
 Do not abruptly discontinue methadone hydrochloride tablets [see Drug Abuse and Dependence (9.3)].
 
-## 5.15 Risks Driving and Operating Machinery
+## 5.16 Risks Driving and Operating Machinery
 
 Methadone hydrochloride tablets may impair the mental or physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery.
 Warn patients not to drive or operate dangerous machinery unless they are tolerant to the effects of methadone hydrochloride tablets and know how they will react to the medication [see Patient Counseling Information (17)].
 
-## 5.16 Laboratory Test Interactions
+## 5.17 Laboratory Test Interactions
 
 False positive urine drug screens for methadone have been reported for several drugs including diphenhydramine, doxylamine, clomipramine, chlorpromazine, thioridazine, quetiapine, and verapamil.
