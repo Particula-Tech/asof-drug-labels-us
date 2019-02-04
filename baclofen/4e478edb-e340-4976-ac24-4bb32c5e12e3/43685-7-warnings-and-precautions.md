@@ -16,9 +16,7 @@ On each occasion that the dosing rate of the pump and/or the concentration of LI
 It is mandatory that the patient, all patient caregivers, and the physicians responsible for the patient receive adequate information regarding the risks of this mode of treatment.
 All medical personnel and caregivers should be instructed in 1) the signs and symptoms of overdose, 2) procedures to be followed in the event of overdose and 3) proper home care of the pump and insertion site.
 
-## Overdose
-
-Signs of overdose may appear suddenly or insidiously.
+Overdose: Signs of overdose may appear suddenly or insidiously.
 Acute massive overdose may present as coma.
 Less sudden and/or less severe forms of overdose may present with signs of drowsiness, lightheadedness, dizziness, somnolence, respiratory depression, seizures, rostral progression of hypotonia and loss of consciousness progressing to coma.
 Should overdose appear likely, the patient should be taken immediately to a hospital for assessment and emptying of the pump reservoir.
@@ -31,9 +29,7 @@ Inadvertent injection into the subcutaneous tissue can occur if the reservoir re
 Some pumps are also equipped with a catheter access port that allows direct access to the intrathecal catheter.
 Direct injection into this catheter access port or inadvertent injection into the subcutaneous tissue may cause a life-threatening overdose.
 
-## Withdrawal
-
-Abrupt withdrawal of intrathecal baclofen, regardless of the cause, has resulted in sequelae that included high fever, altered mental status, exaggerated rebound spasticity and muscle rigidity that in rare cases progressed to rhabdomyolysis, multiple organ-system failure, and death.
+Withdrawal: Abrupt withdrawal of intrathecal baclofen, regardless of the cause, has resulted in sequelae that included high fever, altered mental status, exaggerated rebound spasticity and muscle rigidity that in rare cases progressed to rhabdomyolysis, multiple organ-system failure, and death.
 In the first 9 years of post-marketing experience, 27 cases of withdrawal temporally related to the cessation of baclofen therapy were reported; six patients died.
 In most cases, symptoms of withdrawal appeared within hours to a few days following interruption of baclofen therapy.
 Common reasons for abrupt interruption of intrathecal baclofen therapy included malfunction of the catheter (especially disconnection), low volume in the pump reservoir, and end of pump battery life; human error may have played a causal or contributing role in some cases.
@@ -54,11 +50,9 @@ Oral or enteral baclofen alone should not be relied upon to halt the progression
 
 Seizures have been reported during overdose and with withdrawal from LIORESAL INTRATHECAL as well as in patients maintained on therapeutic doses of LIORESAL INTRATHECAL.
 
-## Fatalities
+Fatalities:
 
-### Spasticity of Spinal Cord Origin
-
-There were 16 deaths reported among the 576 U.S. patients treated with LIORESAL INTRATHECAL (baclofen injection) in pre- and post- marketing studies evaluated as of December 1992.
+Spasticity of Spinal Cord Origin: There were 16 deaths reported among the 576 U.S. patients treated with LIORESAL INTRATHECAL (baclofen injection) in pre- and post- marketing studies evaluated as of December 1992.
 Because these patients were treated under uncontrolled clinical settings, it is impossible to determine definitively what role, if any, LIORESAL INTRATHECAL played in their deaths.
 
 As a group, the patients who died were relatively young (mean age was 47 with a range from 25 to 63), but the majority suffered from severe spasticity of many years duration, were nonambulatory, had various medical complications such as pneumonia, urinary tract infections, and decubiti, and/or had received multiple concomitant medications.
@@ -75,10 +69,11 @@ His medical history included SCI, aspiration pneumonia, septic shock, disseminat
 Twelve days after screening (he was not implanted), he again experienced status epilepticus with subsequent significant neurological deterioration.
 Based upon prior instruction, extraordinary resuscitative measures were not pursued and the patient died.
 
-### Spasticity of Cerebral Origin
-
-There were three deaths occurring among the 211 patients treated with LIORESAL INTRATHECAL in pre- marketing studies as of March 1996.
+Spasticity of Cerebral Origin: There were three deaths occurring among the 211 patients treated with LIORESAL INTRATHECAL in pre- marketing studies as of March 1996.
 These deaths were not attributed to the therapy.
+
+Overinfusion: Delivery of more drug volume than the programmed rate (overinfusion) can result in unexpected overdose, or withdrawal caused by early emptying of the pump reservoir.
+Refer to the manufacturer's pump manual and instructions for refilling the reservoir.
 
 # PRECAUTIONS
 
@@ -111,9 +106,7 @@ A period of observation appropriate to the clinical situation should follow each
 Extreme caution must be used when filling an FDA approved implantable pump equipped with an injection port that allows direct access to the intrathecal catheter.
 Direct injection into the catheter through the catheter access port may cause a life-threatening overdose.
 
-### Additional considerations pertaining to dosage adjustment
-
-It may be important to titrate the dose to maintain some degree of muscle tone and allow occasional spasms to: 1) help support circulatory function, 2) possibly prevent the formation of deep vein thrombosis, 3) optimize activities of daily living and ease of care.
+Additional considerations pertaining to dosage adjustment: It may be important to titrate the dose to maintain some degree of muscle tone and allow occasional spasms to: 1) help support circulatory function, 2) possibly prevent the formation of deep vein thrombosis, 3) optimize activities of daily living and ease of care.
 
 Except in overdose related emergencies, the dose of LIORESAL INTRATHECAL should ordinarily be reduced slowly if the drug is discontinued for any reason.
 
@@ -121,23 +114,17 @@ An attempt should be made to discontinue concomitant oral antispasticity medicat
 Reduction and discontinuation of oral anti-spasmotics should be done slowly and with careful monitoring by the physician.
 Abrupt reduction or discontinuation of concomitant antispastics should be avoided.
 
-## Drowsiness
-
-Drowsiness has been reported in patients on LIORESAL INTRATHECAL.
+Drowsiness: Drowsiness has been reported in patients on LIORESAL INTRATHECAL.
 Patients should be cautioned regarding the operation of automobiles or other dangerous machinery, and activities made hazardous by decreased alertness.
 Patients should also be cautioned that the central nervous system depressant effects of LIORESAL INTRATHECAL (baclofen injection) may be additive to those of alcohol and other CNS depressants.
 
-## Intrathecal mass
-
-Cases of intrathecal mass at the tip of the implanted catheter have been reported, most of them involving pharmacy compounded analgesic admixtures.
+Intrathecal mass: Cases of intrathecal mass at the tip of the implanted catheter have been reported, most of them involving pharmacy compounded analgesic admixtures.
 The most frequent symptoms associated with intrathecal mass are: 1) decreased therapeutic response (worsening spasticity, return of spasticity when previously well controlled, withdrawal symptoms, poor response to escalating doses, or frequent or large dosage increases), 2) pain, 3) neurological deficit/dysfunction.
 Clinicians should monitor patients on intraspinal therapy carefully for any new neurological signs or symptoms.
 In patients with new neurological signs or symptoms suggestive of an intrathecal mass, consider a neurosurgical consultation, since many of the symptoms of inflammatory mass are not unlike the symptoms experienced by patients with severe spasticity from their disease.
 In some cases, performance of an imaging procedure may be appropriate to confirm or rule-out the diagnosis of an intrathecal mass.
 
-## Precautions in special patient populations
-
-Careful dose titration of LIORESAL INTRATHECAL is needed when spasticity is necessary to sustain upright posture and balance in locomotion or whenever spasticity is used to obtain optimal function and care.
+Precautions in special patient populations: Careful dose titration of LIORESAL INTRATHECAL is needed when spasticity is necessary to sustain upright posture and balance in locomotion or whenever spasticity is used to obtain optimal function and care.
 
 Patients suffering from psychotic disorders, schizophrenia, or confusional states should be treated cautiously with LIORESAL INTRATHECAL and kept under careful surveillance, because exacerbations of these conditions have been observed with oral administration.
 
@@ -146,21 +133,21 @@ The presence of nociceptive stimuli or abrupt withdrawal of LIORESAL INTRATHECAL
 
 Because LIORESAL is primarily excreted unchanged by the kidneys, it should be given with caution in patients with impaired renal function and it may be necessary to reduce the dosage.
 
-## LABORATORY TESTS
+LABORATORY TESTS
 
 No specific laboratory tests are deemed essential for the management of patients on LIORESAL INTRATHECAL.
 
-## DRUG INTERACTIONS
+DRUG INTERACTIONS
 
 There is inadequate systematic experience with the use of LIORESAL INTRATHECAL in combination with other medications to predict specific drug-drug interactions.
 Interactions attributed to the combined use of LIORESAL INTRATHECAL and epidural morphine include hypotension and dyspnea.
 
-## CARCINOGENESIS, MUTAGENESIS, AND IMPAIRMENT OF FERTILITY
+CARCINOGENESIS, MUTAGENESIS, AND IMPAIRMENT OF FERTILITY
 
 No increase in tumors was seen in rats receiving baclofen orally for two years.
 Adequate genotoxicity assays of baclofen have not been performed.
 
-## PREGNANCY
+PREGNANCY
 
 There are no adequate and well-controlled studies in pregnant women.
 In animal studies, baclofen had adverse effects on embryofetal development when administered orally to pregnant rats.
@@ -170,13 +157,13 @@ Baclofen given orally increased the incidence of fetal structural abnormalities 
 Reductions in food intake and body weight gain were observed in the dams.
 Fetal structural abnormalities were not observed in mice or rabbits
 
-## NURSING MOTHERS
+NURSING MOTHERS
 
 In mothers treated with oral LIORESAL (baclofen USP) in therapeutic doses, the active substance passes into the milk.
 It is not known whether detectable levels of drug are present in milk of nursing mothers receiving LIORESAL INTRATHECAL.
 As a general rule, nursing should be undertaken while a patient is receiving LIORESAL INTRATHECAL only if the potential benefit justifies the potential risks to the infant.
 
-## PEDIATRIC USE
+PEDIATRIC USE
 
 Children should be of sufficient body mass to accommodate the implantable pump for chronic infusion.
 Please consult pump manufacturer's manual for specific recommendations.

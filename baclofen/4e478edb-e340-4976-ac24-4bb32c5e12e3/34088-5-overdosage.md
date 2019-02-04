@@ -1,14 +1,12 @@
 # OVERDOSAGE
 
-Special attention must be given to recognizing the signs and symptoms of overdosage, especially during the initial screening and dose-titration phase of treatment, but also during re-introduction of LIORESAL INTRATHECAL after a period of interruption in therapy.
+Special attention must be given to recognizing the signs and symptoms of overdosage, especially during the initial screening and dose-titration phase of treatment, but also during reintroduction of LIORESAL INTRATHECAL after a period of interruption in therapy.
 
-## Symptoms of LIORESAL INTRATHECAL Overdose
-
-Drowsiness, lightheadedness, dizziness, somnolence, respiratory depression, hypothermia, seizures, rostral progression of hypotonia and loss of consciousness progressing to coma of up to 72 hr. duration.
+Symptoms of LIORESAL INTRATHECAL Overdose: Drowsiness, lightheadedness, dizziness, somnolence, respiratory depression, hypothermia, seizures, rostral progression of hypotonia and loss of consciousness progressing to coma of up to 72 hr. duration.
 In most cases reported, coma was reversible without sequelae after drug was discontinued.
 Symptoms of LIORESAL INTRATHECAL overdose were reported in a sensitive adult patient after receiving a 25 mcg intrathecal bolus.
 
-## Treatment Suggestions for Overdose
+## Treatment Suggestions for Overdose:
 
 There is no specific antidote for treating overdoses of LIORESAL INTRATHECAL (baclofen injection); however, the following steps should ordinarily be undertaken:
 

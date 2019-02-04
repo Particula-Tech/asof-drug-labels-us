@@ -1,32 +1,20 @@
 # ADVERSE REACTIONS
 
-## Spasticity of Spinal Cord Origin
+Spasticity of Spinal Cord Origin – Clinical Studies:
 
-### Clinical Studies
+Commonly Observed in Patients with Spasticity of Spinal Origin — In pre- and post- marketing clinical trials, the most commonly observed adverse events associated with use of LIORESAL INTRATHECAL (baclofen injection) which were not seen at an equivalent incidence among placebo-treated patients were: somnolence, dizziness, nausea, hypotension, headache, convulsions and hypotonia.
 
-#### Commonly Observed in Patients with Spasticity of Spinal Origin
-
-In pre- and post- marketing clinical trials, the most commonly observed adverse events associated with use of LIORESAL INTRATHECAL (baclofen injection) which were not seen at an equivalent incidence among placebo-treated patients were: somnolence, dizziness, nausea, hypotension, headache, convulsions and hypotonia.
-
-#### Associated with Discontinuation of Treatment
-
-8/474 patients with spasticity of spinal cord origin receiving long term infusion of LIORESAL INTRATHECAL in pre- and post- marketing clinical studies in the U. S. discontinued treatment due to adverse events.
+Associated with Discontinuation of Treatment — 8/474 patients with spasticity of spinal cord origin receiving long term infusion of LIORESAL INTRATHECAL in pre- and post- marketing clinical studies in the U. S. discontinued treatment due to adverse events.
 These include: pump pocket infections (3), meningitis (2), wound dehiscence (1), gynecological fibroids (1) and pump overpressurization (1) with unknown, if any, sequela.
-Eleven patients who developed coma secondary to overdose had their treatment temporarily suspended, but all were subsequently re-started and were not, therefore, considered to be true discontinuations.
+Eleven patients who developed coma secondary to overdose had their treatment temporarily suspended, but all were subsequently restarted and were not, therefore, considered to be true discontinuations.
 
-#### Fatalities
+Fatalities — See Warnings.
 
-See Warnings.
-
-#### Incidence in Controlled Trials
-
-Experience with LIORESAL INTRATHECAL (baclofen injection) obtained in parallel, placebo-controlled, randomized studies provides only a limited basis for estimating the incidence of adverse events because the studies were of very brief duration (up to three days of infusion) and involved only a total of 63 patients.
+Incidence in Controlled Trials — Experience with LIORESAL INTRATHECAL (baclofen injection) obtained in parallel, placebo-controlled, randomized studies provides only a limited basis for estimating the incidence of adverse events because the studies were of very brief duration (up to three days of infusion) and involved only a total of 63 patients.
 The following events occurred among the 31 patients receiving LIORESAL INTRATHECAL (baclofen injection) in two randomized, placebo-controlled trials: hypotension (2), dizziness (2), headache (2), dyspnea (1).
 No adverse events were reported among the 32 patients receiving placebo in these studies.
 
-#### Events Observed during the Pre- and Post-marketing Evaluation of LIORESAL INTRATHECAL
-
-Adverse events associated with the use of LIORESAL INTRATHECAL reflect experience gained with 576 patients followed prospectively in the United States.
+Events Observed during the Pre- and Post-marketing Evaluation of LIORESAL INTRATHECAL — Adverse events associated with the use of LIORESAL INTRATHECAL reflect experience gained with 576 patients followed prospectively in the United States.
 They received LIORESAL INTRATHECAL for periods of one day (screening) (N = 576) to over eight years (maintenance) (N = 10).
 The usual screening bolus dose administered prior to pump implantation in these studies was typically 50 mcg.
 The maintenance dose ranged from 12 mcg to 2003 mcg per day.
@@ -36,7 +24,7 @@ Nonetheless, many of the more commonly reported reactions— hypotonia, somnolen
 Adverse experiences reported during all U.S. studies (both controlled and uncontrolled) are shown in the following table.
 Eight of 474 patients who received chronic infusion via implanted pumps had adverse experiences which led to a discontinuation of long term treatment in the pre- and post-marketing studies.
 
-INCIDENCE OF MOST FREQUENT (=1%) ADVERSE EVENTS IN PATIENTS WITH SPASTICITY OF SPINAL ORIGIN IN PROSPECTIVELY MONITORED CLINICAL TRIALS
+INCIDENCE OF MOST FREQUENT (≥1%) ADVERSE EVENTS IN PATIENTS WITH SPASTICITY OF SPINAL ORIGIN IN PROSPECTIVELY MONITORED CLINICAL TRIALS
 
 | Adverse Event |  |  |  |
 | --- | --- | --- | --- |
@@ -105,33 +93,21 @@ Body as a Whole: Suicide, lack of drug effect, abdominal pain, hypothermia, neck
 
 Hemic and Lymphatic System: Anemia.
 
-## Spasticity of Cerebral Origin
+Spasticity of Cerebral Origin — Clinical Studies:
 
-### Clinical Studies
+Commonly Observed — In pre-marketing clinical trials, the most commonly observed adverse events associated with use of LIORESAL INTRATHECAL (baclofen injection) which were not seen at an equivalent incidence among placebo-treated patients included: agitation, constipation, somnolence, leukocytosis, chills, urinary retention and hypotonia.
 
-#### Commonly Observed
-
-In pre-marketing clinical trials, the most commonly observed adverse events associated with use of LIORESAL INTRATHECAL (baclofen injection) which were not seen at an equivalent incidence among placebo-treated patients included: agitation, constipation, somnolence, leukocytosis, chills, urinary retention and hypotonia.
-
-#### Associated with Discontinuation of Treatment
-
-Nine of 211 patients receiving LIORESAL INTRATHECAL in pre-marketing clinical studies in the U.S. discontinued long term infusion due to adverse events associated with intrathecal therapy.
+Associated with Discontinuation of Treatment — Nine of 211 patients receiving LIORESAL INTRATHECAL in pre-marketing clinical studies in the U.S. discontinued long term infusion due to adverse events associated with intrathecal therapy.
 
 The nine adverse events leading to discontinuation were: infection (3), CSF leaks (2), meningitis (2), drainage (1), and unmanageable trunk control (1).
 
-#### Fatalities
+Fatalities — Three deaths, none of which were attributed to LIORESAL INTRATHECAL, were reported in patients in clinical trials involving patients with spasticity of cerebral origin.
+SeeWarnings on other deaths reported in spinal spasticity patients.
 
-Three deaths, none of which were attributed to LIORESAL INTRATHECAL, were reported in patients in clinical trials involving patients with spasticity of cerebral origin.
-See Warnings on other deaths reported in spinal spasticity patients.
-
-#### Incidence in Controlled Trials
-
-Experience with LIORESAL INTRATHECAL (baclofen injection) obtained in parallel, placebo-controlled, randomized studies provides only a limited basis for estimating the incidence of adverse events because the studies involved a total of 62 patients exposed to a single 50 mcg intrathecal bolus.
+Incidence in Controlled Trials — Experience with LIORESAL INTRATHECAL (baclofen injection) obtained in parallel, placebo-controlled, randomized studies provides only a limited basis for estimating the incidence of adverse events because the studies involved a total of 62 patients exposed to a single 50 mcg intrathecal bolus.
 The following events occurred among the 62 patients receiving LIORESAL INTRATHECAL in two randomized, placebo-controlled trials involving cerebral palsy and head injury patients, respectively: agitation, constipation, somnolence, leukocytosis, nausea, vomiting, nystagmus, chills, urinary retention, and hypotonia.
 
-#### Events Observed during the Pre-marketing Evaluation of LIORESAL INTRATHECAL
-
-Adverse events associated with the use of LIORESAL INTRATHECAL reflect experience gained with a total of 211 U. S. patients with spasticity of cerebral origin, of whom 112 were pediatric patients (under age 16 at enrollment).
+Events Observed during the Pre-marketing Evaluation of LIORESAL INTRATHECAL — Adverse events associated with the use of LIORESAL INTRATHECAL reflect experience gained with a total of 211 U. S. patients with spasticity of cerebral origin, of whom 112 were pediatric patients (under age 16 at enrollment).
 They received LIORESAL INTRATHECAL for periods of one day (screening) (N= 211) to 84 months (maintenance) (N= 1).
 The usual screening bolus dose administered prior to pump implantation in these studies was 50-75 mcg.
 The maintenance dose ranged from 22 mcg to 1400 mcg per day.
@@ -140,10 +116,10 @@ Doses used in this patient population for long term infusion are generally lower
 Because of the open, uncontrolled nature of the experience, a causal linkage between events observed and the administration of LIORESAL INTRATHECAL cannot be reliably assessed in many cases.
 Nonetheless, many of the more commonly reported reactions— somnolence, dizziness, headache, nausea, hypotension, hypotonia and coma— appear clearly drug-related.
 
-The most frequent (=1%) adverse events reported during all clinical trials are shown in the following table.
+The most frequent (≥1%) adverse events reported during all clinical trials are shown in the following table.
 Nine patients discontinued long term treatment due to adverse events.
 
-INCIDENCE OF MOST FREQUENT (= 1%) ADVERSE EVENTS IN PATIENTS WITH SPASTICITY OF CEREBRAL ORIGIN IN PROSPECTIVELY MONITORED CLINICAL TRIALS
+INCIDENCE OF MOST FREQUENT (≥ 1%) ADVERSE EVENTS IN PATIENTS WITH SPASTICITY OF CEREBRAL ORIGIN IN PROSPECTIVELY MONITORED CLINICAL TRIALS
 
 | Adverse Event |  |  |  |
 | --- | --- | --- | --- |
@@ -203,17 +179,13 @@ Body as a Whole: Death, fever, abdominal pain, carcinoma, malaise and hypothermi
 
 Hemic and Lymphatic System: Leukocytosis and petechial rash.
 
-## Postmarketing Experience
+Postmarketing Experience:
 
 The following adverse events have been reported during post-approval use of LIORESAL INTRATHECAL.
 Because these events are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency.
 
-### Musculoskeletal
+Musculoskeletal: The onset of scoliosis or worsening of a pre-existing scoliosis has been reported.
 
-The onset of scoliosis or worsening of a pre-existing scoliosis has been reported.
-
-### Urogenital
-
-Sexual dysfunction in men and women, including decreased libido and orgasm dysfunction, have been reported.
+Urogenital: Sexual dysfunction in men and women, including decreased libido and orgasm dysfunction, have been reported.
 Erectile dysfunction in men has also been reported.
 Priapism has been reported following baclofen withdrawal.

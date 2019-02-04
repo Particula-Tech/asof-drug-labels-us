@@ -8,40 +8,30 @@ LIORESAL INTRATHECAL when introduced directly into the intrathecal space permits
 
 In people, as well as in animals, baclofen has been shown to have general CNS depressant properties as indicated by the production of sedation with tolerance, somnolence, ataxia, and respiratory and cardiovascular depression.
 
-## Pharmacodynamics of LIORESAL INTRATHECAL
+Pharmacodynamics of LIORESAL INTRATHECAL:
 
-### Intrathecal Bolus
+Intrathecal Bolus:
 
-#### Adult Patients
-
-The onset of action is generally one-half hour to one hour after an intrathecal bolus.
+Adult Patients: The onset of action is generally one-half hour to one hour after an intrathecal bolus.
 Peak spasmolytic effect is seen at approximately four hours after dosing and effects may last four to eight hours.
 Onset, peak response, and duration of action may vary with individual patients depending on the dose and severity of symptoms.
 
-#### Pediatric Patients
+Pediatric Patients: The onset, peak response and duration of action is similar to those seen in adult patients.
 
-The onset, peak response and duration of action is similar to those seen in adult patients.
-
-### Continuous Infusion
+### Continuous Infusion:
 
 LIORESAL INTRATHECAL'S antispastic action is first seen at 6 to 8 hours after initiation of continuous infusion.
 Maximum activity is observed in 24 to 48 hours.
 
-#### Continuous Infusion
+Continuous Infusion: No additional information is available for pediatric patients.
 
-No additional information is available for pediatric patients.
-
-## Pharmacokinetics of LIORESAL INTRATHECAL
+## Pharmacokinetics of LIORESAL INTRATHECAL:
 
 The pharmacokinetics of CSF clearance of LIORESAL INTRATHECAL calculated from intrathecal bolus or continuous infusion studies approximates CSF turnover, suggesting elimination is by bulk-flow removal of CSF.
 
-### Intrathecal Bolus
+Intrathecal Bolus: After a bolus lumbar injection of 50 or 100 mcg LIORESAL INTRATHECAL in seven patients, the average CSF elimination half-life was 1.51 hours over the first four hours and the average CSF clearance was approximately 30 mL/hour.
 
-After a bolus lumbar injection of 50 or 100 mcg LIORESAL INTRATHECAL in seven patients, the average CSF elimination half-life was 1.51 hours over the first four hours and the average CSF clearance was approximately 30 mL/hour.
-
-### Continuous Infusion
-
-The mean CSF clearance for LIORESAL INTRATHECAL (baclofen injection) was approximately 30 mL/hour in a study involving ten patients on continuous intrathecal infusion.
+Continuous Infusion: The mean CSF clearance for LIORESAL INTRATHECAL (baclofen injection) was approximately 30 mL/hour in a study involving ten patients on continuous intrathecal infusion.
 Concurrent plasma concentrations of baclofen during intrathecal administration are expected to be low (0- 5 ng/mL).
 
 Limited pharmacokinetic data suggest that a lumbar-cisternal concentration gradient of about 4:1 is established along the neuroaxis during baclofen infusion.
