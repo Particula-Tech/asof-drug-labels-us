@@ -78,7 +78,7 @@ Valproate
 
 Olanzapine (10 mg daily for 2 weeks) did not affect the steady state plasma concentrations of valproate.
 Therefore, concomitant olanzapine administration does not require dosage adjustment of valproate.
-[seeWARNINGS AND PRECAUTIONS (5.14)].
+[see WARNINGS AND PRECAUTIONS (5.14)].
 
 Effect of Olanzapine on Drug Metabolizing Enzymes
 

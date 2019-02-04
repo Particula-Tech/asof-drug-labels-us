@@ -67,7 +67,7 @@ with the Use of Oral Olanzapine in 6-Week Trials — SCHIZOPHRENIA
 | Personality disordera | 8 | 4 |
 | Akathisia | 5 | 1 |
 
-aPersonality disorder is the COSTART term for designating nonaggressive objectionable behavior.
+a Personality disorder is the COSTART term for designating nonaggressive objectionable behavior.
 
 Table 10: Common Treatment-Emergent Adverse Reactions Associated with the Use of Oral Olanzapine in 3-Week and 4-Week Trials — Bipolar I Disorder (Manic or Mixed Episodes)
 
@@ -232,7 +232,7 @@ Table 14: Treatment-Emergent Adverse Reactions: Incidence in Short-Term, Placebo
 | Dysmenorrheaa | 2 | 0 |
 | Vaginitisa | 2 | 0 |
 
-aDenominator used was for females only (olanzapine, N=128; placebo, N=51).
+a Denominator used was for females only (olanzapine, N=128; placebo, N=51).
 
 For specific information about the adverse reactions observed with lithium or valproate, refer to the Adverse Reactions section of the package inserts for these other products.
 
@@ -285,11 +285,11 @@ Table 17: Treatment-Emergent Extrapyramidal Symptoms Assessed by Adverse Reactio
 | Residual eventse | 1 | 2 | 5 | 1 |
 | Any extrapyramidal event | 16 | 15 | 25 | 32 |
 
-aPatients with the following COSTART terms were counted in this category: dystonia, generalized spasm, neck rigidity, oculogyric crisis, opisthotonos, torticollis.
+a Patients with the following COSTART terms were counted in this category: dystonia, generalized spasm, neck rigidity, oculogyric crisis, opisthotonos, torticollis.
 
-bPatients with the following COSTART terms were counted in this category: akinesia, cogwheel rigidity, extrapyramidal syndrome, hypertonia, hypokinesia, masked facies, tremor.
+b Patients with the following COSTART terms were counted in this category: akinesia, cogwheel rigidity, extrapyramidal syndrome, hypertonia, hypokinesia, masked facies, tremor.
 
-cPatients with the following COSTART terms were counted in this category: akathisia, hyperkinesia.
+c Patients with the following COSTART terms were counted in this category: akathisia, hyperkinesia.
 
 d Patients with the following COSTART terms were counted in this category: buccoglossal syndrome, choreoathetosis, dyskinesia, tardive dyskinesia.
 
@@ -462,9 +462,9 @@ Table 22: Treatment-Emergent Adverse Reactions of ≥2% Incidence among Adolesce
 
 a Patients with the following MedDRA terms were counted in this category: hypersomnia, lethargy, sedation, somnolence.
 
-bThe terms alanine aminotransferase (ALT), aspartate aminotransferase (AST), and hepatic enzyme were combined under liver enzymes.
+b The terms alanine aminotransferase (ALT), aspartate aminotransferase (AST), and hepatic enzyme were combined under liver enzymes.
 
-cPatients with the following MedDRA terms were counted in this category: lower respiratory tract infection, respiratory tract infection, respiratory tract infection viral, upper respiratory tract infection, viral upper respiratory tract infection.
+c Patients with the following MedDRA terms were counted in this category: lower respiratory tract infection, respiratory tract infection, respiratory tract infection viral, upper respiratory tract infection, viral upper respiratory tract infection.
 
 Vital Signs and Laboratory Studies
 
