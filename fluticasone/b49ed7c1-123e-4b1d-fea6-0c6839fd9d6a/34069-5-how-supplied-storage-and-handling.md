@@ -1,10 +1,10 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-FLOVENT HFA 44 mcg Inhalation Aerosol is supplied in 10.6-g pressurized aluminum canisters containing 120 metered actuations in boxes of 1 (NDC 0173-0718-20).
+FLOVENT HFA 44 mcg is supplied in 10.6-g pressurized aluminum canisters containing 120 metered actuations in boxes of 1 (NDC 0173-0718-20).
 
-FLOVENT HFA 110 mcg Inhalation Aerosol is supplied in 12-g pressurized aluminum canisters containing 120 metered actuations in boxes of 1 (NDC 0173-0719-20).
+FLOVENT HFA 110 mcg is supplied in 12-g pressurized aluminum canisters containing 120 metered actuations in boxes of 1 (NDC 0173-0719-20).
 
-FLOVENT HFA 220 mcg Inhalation Aerosol is supplied in 12-g pressurized aluminum canisters containing 120 metered actuations in boxes of 1 (NDC 0173-0720-20).
+FLOVENT HFA 220 mcg is supplied in 12-g pressurized aluminum canisters containing 120 metered actuations in boxes of 1 (NDC 0173-0720-20).
 
 Each canister is fitted with a counter and supplied with a dark orange actuator with a peach strapcap.
 Each inhaler is packaged with a Patient Information leaflet.

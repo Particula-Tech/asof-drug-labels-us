@@ -13,7 +13,7 @@ Systemic and local corticosteroid use may result in the following:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The incidence of common adverse reactions in Table 1 is based upon 2 placebo-controlled U.S. clinical trials in which 812 adult and adolescent subjects (457 females and 355 males) previously treated with as-needed bronchodilators and/or inhaled corticosteroids were treated twice daily for up to 12 weeks with 2 inhalations of FLOVENT HFA 44 mcg Inhalation Aerosol, FLOVENT HFA 110 mcg Inhalation Aerosol, FLOVENT HFA 220 mcg Inhalation Aerosol (dosages of 88, 220, or 440 mcg twice daily), or placebo.
+The incidence of common adverse reactions in Table 1 is based upon 2 placebo-controlled U.S. clinical trials in which 812 adult and adolescent subjects (457 females and 355 males) previously treated with as-needed bronchodilators and/or ICS were treated twice daily for up to 12 weeks with 2 inhalations of FLOVENT HFA 44 mcg, FLOVENT HFA 110 mcg, FLOVENT HFA 220 mcg (dosages of 88, 220, or 440 mcg twice daily), or placebo.
 
 Table 1.
 Adverse Reactions with FLOVENT HFA with >3% Incidence and More Common than Placebo in Subjects Aged 12 Years and Older with Asthma

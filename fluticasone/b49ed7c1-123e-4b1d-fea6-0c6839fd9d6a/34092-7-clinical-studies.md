@@ -4,7 +4,7 @@
 
 Three randomized, double-blind, parallel-group, placebo-controlled, U.S. clinical trials were conducted in 980 adult and adolescent subjects (aged 12 years and older) with asthma to assess the efficacy and safety of Flovent HFA in the treatment of asthma.
 Fixed dosages of 88, 220, and 440 mcg twice daily (each dose administered as 2 inhalations of the 44-, 110-, and 220-mcg strengths, respectively) and 880 mcg twice daily (administered as 4 inhalations of the 220-mcg strength) were compared with placebo to provide information about appropriate dosing to cover a range of asthma severity.
-Subjects in these trials included those inadequately controlled with bronchodilators alone (Trial 1), those already receiving inhaled corticosteroids (Trial 2), and those requiring oral corticosteroid therapy (Trial 3).
+Subjects in these trials included those inadequately controlled with bronchodilators alone (Trial 1), those already receiving ICS (Trial 2), and those requiring oral corticosteroid therapy (Trial 3).
 In all 3 trials, subjects were allowed to use VENTOLIN (albuterol, USP) Inhalation Aerosol as needed for relief of acute asthma symptoms.
 In Trials 1 and 2, other maintenance asthma therapies were discontinued.
 
@@ -24,7 +24,7 @@ Therefore, pulmonary function results at Endpoint (the last evaluable FEV1 resul
 Figure 1.
 A 12-Week Clinical Trial in Subjects Aged 12 Years and Older Inadequately Controlled on Bronchodilators Alone: Mean Percent Change from Baseline in FEV1 Prior to AM Dose (Trial 1)
 
-In Trial 2, FLOVENT HFA at dosages of 88, 220, and 440 mcg twice daily was evaluated over 12 weeks of treatment in 415 subjects with asthma who were already receiving an inhaled corticosteroid at a daily dose within its recommended dose range in addition to as-needed albuterol.
+In Trial 2, FLOVENT HFA at dosages of 88, 220, and 440 mcg twice daily was evaluated over 12 weeks of treatment in 415 subjects with asthma who were already receiving an ICS at a daily dose within its recommended dose range in addition to as-needed albuterol.
 Baseline FEV1 values were similar across groups (mean 65% to 66% of predicted normal).
 All 3 dosages of FLOVENT HFA demonstrated a statistically significant improvement in lung function, as measured by improvement in FEV1, compared with placebo.
 This improvement was observed after the first week of treatment and was maintained over the 12-week treatment period.
@@ -54,9 +54,9 @@ A 16-Week Clinical Trial in Subjects Aged 12 Years and Older Requiring Chronic O
 
 Two long-term safety trials (Trial 4 and Trial 5) of ≥6 months’ duration were conducted in 507 adult and adolescent subjects with asthma.
 Trial 4 was designed to monitor the safety of 2 doses of FLOVENT HFA, while Trial 5 compared fluticasone propionate HFA with fluticasone propionate CFC.
-Trial 4 enrolled 182 subjects who were treated daily with low to high doses of inhaled corticosteroids, beta-agonists (short-acting [as needed or regularly scheduled] or long-acting), theophylline, inhaled cromolyn or nedocromil sodium, leukotriene receptor antagonists, or 5-lipoxygenase inhibitors at baseline.
+Trial 4 enrolled 182 subjects who were treated daily with low to high doses of ICS, beta-agonists (short-acting [as needed or regularly scheduled] or long-acting), theophylline, inhaled cromolyn or nedocromil sodium, leukotriene receptor antagonists, or 5-lipoxygenase inhibitors at baseline.
 FLOVENT HFA at dosages of 220 and 440 mcg twice daily was evaluated over a 26-week treatment period in 89 and 93 subjects, respectively.
-Trial 5 enrolled 325 subjects who were treated daily with moderate to high doses of inhaled corticosteroids, with or without concurrent use of salmeterol or albuterol, at baseline.
+Trial 5 enrolled 325 subjects who were treated daily with moderate to high doses of ICS, with or without concurrent use of salmeterol or albuterol, at baseline.
 Fluticasone propionate HFA at a dosage of 440 mcg twice daily and fluticasone propionate CFC at a dosage of 440 mcg twice daily were evaluated over a 52-week treatment period in 163 and 162 subjects, respectively.
 Baseline FEV1 values were similar across groups (mean 81% to 84% of predicted normal).
 Throughout the 52-week treatment period, asthma control was maintained with both formulations of fluticasone propionate compared with baseline.

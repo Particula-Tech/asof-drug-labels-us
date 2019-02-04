@@ -24,11 +24,11 @@ If a patient is exposed to measles, prophylaxis with pooled intramuscular immuno
 (See the respective package inserts for complete VZIG and IG prescribing information.)
 If chickenpox develops, treatment with antiviral agents may be considered.
 
-Inhaled corticosteroids should be used with caution, if at all, in patients with active or quiescent tuberculosis infections of the respiratory tract; systemic fungal, bacterial, viral, or parasitic infections; or ocular herpes simplex.
+ICS should be used with caution, if at all, in patients with active or quiescent tuberculosis infections of the respiratory tract; systemic fungal, bacterial, viral, or parasitic infections; or ocular herpes simplex.
 
 ## 5.4 Transferring Patients from Systemic Corticosteroid Therapy
 
-Particular care is needed for patients who have been transferred from systemically active corticosteroids to inhaled corticosteroids because deaths due to adrenal insufficiency have occurred in patients with asthma during and after transfer from systemic corticosteroids to less systemically available inhaled corticosteroids.
+Particular care is needed for patients who have been transferred from systemically active corticosteroids to ICS because deaths due to adrenal insufficiency have occurred in patients with asthma during and after transfer from systemic corticosteroids to less systemically available ICS.
 After withdrawal from systemic corticosteroids, a number of months are required for recovery of hypothalamic-pituitary-adrenal (HPA) function.
 
 Patients who have been previously maintained on 20 mg or more of prednisone (or its equivalent) may be most susceptible, particularly when their systemic corticosteroids have been almost completely withdrawn.
@@ -41,7 +41,7 @@ These patients should also be instructed to carry a warning card indicating that
 Patients requiring oral corticosteroids should be weaned slowly from systemic corticosteroid use after transferring to FLOVENT HFA.
 Prednisone reduction can be accomplished by reducing the daily prednisone dose by 2.5 mg on a weekly basis during therapy with FLOVENT HFA.
 Lung function (mean forced expiratory volume in 1 second [FEV1] or morning peak expiratory flow [AM PEF]), beta-agonist use, and asthma symptoms should be carefully monitored during withdrawal of oral corticosteroids.
-In addition, patients should be observed for signs and symptoms of adrenal insufficiency such as fatigue, lassitude, weakness, nausea and vomiting, and hypotension.
+In addition, patients should be observed for signs and symptoms of adrenal insufficiency, such as fatigue, lassitude, weakness, nausea and vomiting, and hypotension.
 
 Transfer of patients from systemic corticosteroid therapy to FLOVENT HFA may unmask allergic conditions previously suppressed by the systemic corticosteroid therapy (e.g., rhinitis, conjunctivitis, eczema, arthritis, eosinophilic conditions).
 
@@ -54,7 +54,7 @@ Since fluticasone propionate is absorbed into the circulation and can be systemi
 A relationship between plasma levels of fluticasone propionate and inhibitory effects on stimulated cortisol production has been shown after 4 weeks of treatment with fluticasone propionate inhalation aerosol.
 Since individual sensitivity to effects on cortisol production exists, physicians should consider this information when prescribing FLOVENT HFA.
 
-Because of the possibility of significant systemic absorption of inhaled corticosteroids in sensitive patients, patients treated with FLOVENT HFA should be observed carefully for any evidence of systemic corticosteroid effects.
+Because of the possibility of significant systemic absorption of ICS in sensitive patients, patients treated with FLOVENT HFA should be observed carefully for any evidence of systemic corticosteroid effects.
 Particular care should be taken in observing patients postoperatively or during periods of stress for evidence of inadequate adrenal response.
 
 It is possible that systemic corticosteroid effects such as hypercorticism and adrenal suppression (including adrenal crisis) may appear in a small number of patients who are sensitive to these effects.
@@ -66,7 +66,7 @@ Immediate hypersensitivity reactions (e.g., urticaria, angioedema, rash, broncho
 
 ## 5.7 Reduction in Bone Mineral Density
 
-Decreases in bone mineral density (BMD) have been observed with long-term administration of products containing inhaled corticosteroids.
+Decreases in bone mineral density (BMD) have been observed with long-term administration of products containing ICS.
 The clinical significance of small changes in BMD with regard to long-term consequences such as fracture is unknown.
 Patients with major risk factors for decreased bone mineral content, such as prolonged immobilization, family history of osteoporosis, postmenopausal status, tobacco use, advanced age, poor nutrition, or chronic use of drugs that can reduce bone mass (e.g., anticonvulsants, oral corticosteroids), should be monitored and treated with established standards of care.
 
@@ -80,8 +80,8 @@ To minimize the systemic effects of orally inhaled corticosteroids, including FL
 
 ## 5.9 Glaucoma and Cataracts
 
-Glaucoma, increased intraocular pressure, and cataracts have been reported in patients following the long-term administration of inhaled corticosteroids, including fluticasone propionate.
-Therefore, close monitoring is warranted in patients with a change in vision or with a history of increased intraocular pressure, glaucoma, and/or cataracts.
+Glaucoma, increased intraocular pressure, and cataracts have been reported in patients following the long-term administration of ICS, including fluticasone propionate.
+Consider referral to an ophthalmologist in patients who develop ocular symptoms or use FLOVENT HFA long term.
 
 ## 5.10 Paradoxical Bronchospasm
 
@@ -97,6 +97,6 @@ The use of strong cytochrome P450 3A4 (CYP3A4) inhibitors (e.g., ritonavir, ataz
 In rare cases, patients on inhaled fluticasone propionate may present with systemic eosinophilic conditions.
 Some of these patients have clinical features of vasculitis consistent with Churg-Strauss syndrome, a condition that is often treated with systemic corticosteroid therapy.
 These events usually, but not always, have been associated with the reduction and/or withdrawal of oral corticosteroid therapy following the introduction of fluticasone propionate.
-Cases of serious eosinophilic conditions have also been reported with other inhaled corticosteroids in this clinical setting.
+Cases of serious eosinophilic conditions have also been reported with other ICS in this clinical setting.
 Physicians should be alert to eosinophilia, vasculitic rash, worsening pulmonary symptoms, cardiac complications, and/or neuropathy presenting in their patients.
 A causal relationship between fluticasone propionate and these underlying conditions has not been established.
