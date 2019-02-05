@@ -9,7 +9,7 @@ Table 1 Recommended Adult Dosing for the Prevention of Nausea and Vomiting Assoc
 
 |  | Day 1 | Day 2 | Day 3 | Day 4 |
 | --- | --- | --- | --- | --- |
-| EMEND for injection | 150 mg intravenously over 20 to 30 minutes approximately 30 minutes prior to chemotherapy | none | none | none |
+| EMEND for injection | 150 mg intravenously over 20 to 30 minutes | none | none | none |
 | DexamethasoneAdminister dexamethasone 30 minutes prior to chemotherapy treatment on Day 1 and in the morning on Days 2 through 4. Also administer dexamethasone in the evenings on Days 3 and 4. A 50% dosage reduction of dexamethasone on Days 1 and 2 is recommended to account for a drug interaction with EMEND [see Clinical Pharmacology (12.3)]. | 12 mg orally | 8 mg orally | 8 mg orally twice daily | 8 mg orally twice daily |
 | 5-HT3 antagonist | See selected 5-HT3 antagonist prescribing information for the recommended dosage | none | none | none |
 
@@ -17,7 +17,7 @@ Table 2 Recommended Adult Dosing for the Prevention of Nausea and Vomiting Assoc
 
 |  | Day 1 |
 | --- | --- |
-| EMEND for injection | 150 mg intravenously over 20 to 30 minutes approximately 30 minutes prior to chemotherapy |
+| EMEND for injection | 150 mg intravenously over 20 to 30 minutes |
 | DexamethasoneAdminister dexamethasone 30 minutes prior to chemotherapy treatment on Day 1. A 50% dosage reduction of dexamethasone is recommended to account for a drug interaction with EMEND [see Clinical Pharmacology (12.3)]. | 12 mg orally |
 | 5-HT3 antagonist | See selected 5-HT3 antagonist prescribing information for the recommended dosage |
 

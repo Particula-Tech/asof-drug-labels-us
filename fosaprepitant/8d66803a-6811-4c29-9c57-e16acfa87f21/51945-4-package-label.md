@@ -2,13 +2,11 @@
 
 NDC 0006-3061-00
 
-Emend®
-
-(fosaprepitant dimeglumine) for Injection
+Emend® (fosaprepitant) for Injection
 
 150 mg per vial
 
-Each vial contains 245.3 mg of fosaprepitant dimeglumine equivalent to 150 mg of fosaprepitant for infusion when reconstituted with 5 mL 0.9% Sodium Chloride for Injection and diluted according to package insert.
+Reconstitute with 5 mL of 0.9% Sodium Chloride for Injection.
 
 STERILE LYOPHILIZED POWDER FOR INTRAVENOUS USE ONLY AFTER RECONSTITUTION AND DILUTION
 
