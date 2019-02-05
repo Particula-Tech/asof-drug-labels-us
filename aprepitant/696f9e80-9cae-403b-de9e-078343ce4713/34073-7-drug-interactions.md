@@ -35,7 +35,7 @@ Table 10: Effects of Aprepitant on the Pharmacokinetics of Other Drugs
 | Examples | birth control pills, skin patches, implants, and certain IUDs |
 | CYP2C9 Substrates |  |
 | Warfarin |  |
-| Clinical Impact | Decreased warfarin exposure and prolongation of prothrombin time (INR) [see Warnings and Precautions (5.2), Clinical Pharmacology (12.3)]. |
+| Clinical Impact | Decreased warfarin exposure and decreased prothrombin time (INR) [see Warnings and Precautions (5.2), Clinical Pharmacology (12.3)]. |
 | Intervention | In patients on chronic warfarin therapy, monitor the prothrombin time (INR) in the 2-week period, particularly at 7 to 10 days, following initiation of the 3-day EMEND regimen with each chemotherapy cycle, or following administration of a single 40-mg dose of EMEND. |
 | Other |  |
 | 5-HT3 Antagonists |  |
