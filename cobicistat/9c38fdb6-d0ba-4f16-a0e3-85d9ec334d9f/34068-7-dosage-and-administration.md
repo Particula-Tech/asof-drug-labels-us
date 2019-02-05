@@ -28,7 +28,7 @@ PREZCOBIX is not recommended for use in patients with severe hepatic impairment 
 
 ## 2.5 Not Recommended During Pregnancy
 
-PREZCOBIX is not recommended during pregnancy because of substantially lower exposures of darunavir and cobicistat during pregnancy [see Use in Specific Populations (8.1) and Clinical Pharmacology (12.3)].
+PREZCOBIX is not recommended during pregnancy because of substantially lower exposures of darunavir and cobicistat during the second and third trimesters [see Use in Specific Populations (8.1) and Clinical Pharmacology (12.3)].
 
 PREZCOBIX should not be initiated in pregnant individuals.
 An alternative regimen is recommended for those who become pregnant during therapy with PREZCOBIX.
