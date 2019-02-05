@@ -1,6 +1,4 @@
-# 17.2 FDA-Approved Medication Guide
-
-Medication Guide
+# Medication Guide
 
 Escitalopram (EE-sye-TAL-o-pram) Oral Solution, USP
 
@@ -9,7 +7,7 @@ There may be new information.
 This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or treatment.
 Talk with your healthcare provider if there is something you do not understand or want to learn more about.
 
-What is the most important information I should know aboutescitalopram oral solution?
+What is the most important information I should know about escitalopram oral solution?
 
 Escitalopram oral solution and other antidepressant medicines may cause serious side effects, including:
 
@@ -122,11 +120,10 @@ Who should not take escitalopram oral solution?
 
 Do not take escitalopram oral solution if you:
 
-- are allergic to escitalopram oxalate or citalopram hydrobromide or any of the ingredients in escitalopram oral solution.
+- are allergic to escitalopram or citalopram or any of the ingredients in escitalopram oral solution.
   See the end of this Medication Guide for a complete list of ingredients in escitalopram oral solution.
 - Take a monoamine oxidase inhibitor (MAOI).
-  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
-
+  Ask your healthcare provider or a pharmacist if you are not sure if you take an MAOI, including linezolid.
 - Do not take an MAOI within 2 weeks of stopping escitalopram oral solution unless directed to do so by your physician.
 - Do not start escitalopram oral solution if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
 
@@ -139,9 +136,10 @@ Get medical help right away if you have any of these symptoms:
 - rapid changes in heart rate or blood pressure
 - confusion
 - loss of consciousness (pass out)
-- take the antipsychotic medicine pimozide (Orap®3) because taking this drug with escitalopram oral solution can cause serious heart problems.
 
-What should I tell my healthcare provider before takingescitalopram oral solution?
+- Do not take escitalopram oral solution with Orap®3 (pimozide) because taking these two drugs together can cause serious heart problems.
+
+What should I tell my healthcare provider before taking escitalopram oral solution?
 Ask if you are not sure.
 
 Before starting escitalopram oral solution, tell your healthcare provider if you:
@@ -168,16 +166,16 @@ Before starting escitalopram oral solution, tell your healthcare provider if you
   Some escitalopram oxalate may pass into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby while taking escitalopram oral solution.
 
-Tell your healthcare provider about all themedicines that you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines that you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 Escitalopram oral solution and some medicines may interact with each other, may not work as well, or may cause serious side effects.
 
 Your healthcare provider or pharmacist can tell you if it is safe to take escitalopram oral solution with your other medicines.
 Do not start or stop any medicine while taking escitalopram oral solution without talking to your healthcare provider first.
 
-| If you take escitalopram oral solution, you should not take any other medicines that contain escitalopram oxalate or citalopram hydrobromide including: Celexa. |
+| If you take escitalopram oral solution, you should not take any other medicines that contain escitalopram or citalopram including: Celexa. |
 | --- |
 
-How should I takeescitalopram oral solution?
+How should I take escitalopram oral solution?
 
 - Take escitalopram oral solution exactly as prescribed.
   Your healthcare provider may need to change the dose of escitalopram oral solution until it is the right dose for you.
@@ -187,15 +185,15 @@ How should I takeescitalopram oral solution?
   Do not take two doses of escitalopram oral solution at the same time.
 - If you take too much escitalopram oral solution, call your healthcare provider or poison control center right away, or get emergency treatment.
 
-What should I avoid while takingescitalopram oral solution?
+What should I avoid while taking escitalopram oral solution?
 
 Escitalopram oral solution can cause sleepiness or may affect your ability to make decisions, think clearly, or react quickly.
 You should not drive, operate heavy machinery, or do other dangerous activities until you know how escitalopram oral solution affects you.
 Do not drink alcohol while using escitalopram oral solution.
 
-What are the possible side effects ofescitalopram oral solution?
+What are the possible side effects of escitalopram oral solution?
 
-Escitalopram oral solution may cause serious side effects, includingall of those described in the section entitled “What is the most important information I should know about escitalopram oral solution?”
+Escitalopram oral solution may cause serious side effects, including all of those described in the section entitled “What is the most important information I should know about escitalopram oral solution?”
 
 Common possible side effects in people who take escitalopram oral solution include:
 
@@ -231,7 +229,7 @@ For more information, ask your healthcare provider or pharmacist.
 CALL YOUR DOCTOR FOR MEDICAL ADVICE ABOUT SIDE EFFECTS.
 YOU MAY REPORT SIDE EFFECTS TO THE FDA AT 1-800-FDA-1088.
 
-How should I storeescitalopram oral solution?
+How should I store escitalopram oral solution?
 
 - Store escitalopram oral solution at 20° to 25°C (68° to 77°F); excursions permitted between 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 - Keep escitalopram oral solution bottle closed tightly.
@@ -251,7 +249,7 @@ You may ask your healthcare provider or pharmacist for information about escital
 
 For more information about escitalopram oral solution call 1-877-835-5472 or go to www.amneal.com.
 
-What are the ingredients inescitalopram oral solution?
+What are the ingredients in escitalopram oral solution?
 
 Active ingredient: escitalopram oxalate, USP
 
@@ -268,6 +266,6 @@ Inactive ingredients:
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-04-2017-03
+01-2019-04
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

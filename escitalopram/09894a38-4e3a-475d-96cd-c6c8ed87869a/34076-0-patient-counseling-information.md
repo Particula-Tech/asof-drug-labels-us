@@ -25,7 +25,7 @@ Symptoms such as these may be associated with an increased risk for suicidal thi
 
 Serotonin Syndrome
 
-Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of escitalopram oxalatewith other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines and St. John’s Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid) [see Warnings and Precautions (5.2)].
+Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of escitalopram oxalate with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines and St. John’s Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid) [see Warnings and Precautions (5.2)].
 
 Abnormal Bleeding
 
@@ -49,7 +49,7 @@ While patients may notice improvement with escitalopram oxalate therapy in 1 to 
 
 Interference with Psychomotor Performance
 
-Because psychoactive drugs may impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that escitalopram oxalate therapy does not affect their ability to engage in such activities.
+Because psychoactive drugs may impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain thatescitalopram oxalate therapy does not affect their ability to engage in such activities.
 
 Alcohol
 
@@ -74,3 +74,8 @@ When remedial measures alone are insufficient, the decision to prescribe antidep
 * Trademarks are the property of their respective owners.
 
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
+
+Rev.
+01-2019-04
+
+## 17.2 FDA-Approved Medication Guide

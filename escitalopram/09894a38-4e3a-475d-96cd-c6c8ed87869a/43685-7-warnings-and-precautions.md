@@ -64,7 +64,7 @@ Escitalopram oxalate should also not be started in a patient who is being treate
 All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
 No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
 There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking escitalopram oxalate.
-Escitalopram oxalate should be discontinued before initiating treatment with the MAOI [see Contraindications (4.1)and Dosage and Administration (2.5and 2.6)].
+Escitalopram oxalate should be discontinued before initiating treatment with the MAOI [see Contraindications (4.1) and Dosage and Administration (2.5 and 2.6)].
 
 If concomitant use of escitalopram oxalate with other serotonergic drugs including, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, amphetamine and St. John’s Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
 

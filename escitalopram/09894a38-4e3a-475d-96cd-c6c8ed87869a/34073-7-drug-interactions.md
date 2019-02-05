@@ -91,7 +91,7 @@ Because escitalopram is metabolized by multiple enzyme systems, inhibition of a 
 
 In vitro studies did not reveal an inhibitory effect of escitalopram on CYP2D6.
 In addition, steady-state levels of racemic citalopram were not significantly different in poor metabolizers and extensive CYP2D6 metabolizers after multiple-dose administration of citalopram, suggesting that co-administration, with escitalopram, of a drug that inhibits CYP2D6, is unlikely to have clinically significant effects on escitalopram metabolism.
-However, there are limited in vivo data suggesting a modest CYP2D6 inhibitory effect for escitalopram, i.e., co-administration of escitalopram (20 mg/day for 21 days) with the tricyclic antidepressant desipramine (single dose of 50 mg), a substrate for CYP2D6, resulted in a 40% increase in Cmaxand a 100% increase in AUC of desipramine.
+However, there are limited in vivo data suggesting a modest CYP2D6 inhibitory effect for escitalopram, i.e., co-administration of escitalopram (20 mg/day for 21 days) with the tricyclic antidepressant desipramine (single dose of 50 mg), a substrate for CYP2D6, resulted in a 40% increase in Cmax and a 100% increase in AUC of desipramine.
 The clinical significance of this finding is unknown.
 Nevertheless, caution is indicated in the co-administration of escitalopram and drugs metabolized by CYP2D6.
 
