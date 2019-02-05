@@ -18,9 +18,9 @@ For current full prescribing information, please visit www.actavis.com.
 
 Brands listed are the trademarks of their respective owners.
 
-Manufactured by: Watson Pharma Private Ltd. Verna, Salcette Goa 403 722 INDIA
+Manufactured In India By: Watson Pharma Private Ltd. Verna, Salcette Goa 403 722 INDIA
 
-Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
+Distributed By: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
 Rev.
-A 12/2018
+B 12/2018
