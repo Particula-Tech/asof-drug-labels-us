@@ -17,7 +17,7 @@ It is critical to inform caregivers that if therapy has been interrupted for mor
 There have been isolated postmarketing reports of patients experiencing disseminated allergic dermatitis when administered rivastigmine irrespective of the route of administration (oral or transdermal).
 Treatment should be discontinued if disseminated allergic dermatitis occurs [see Contraindications (4)].
 Patients and caregivers should be instructed accordingly [see Patient Counseling Information (17)].
-In patients who develop application site reactions suggestive of allergic contact dermatitis to rivastigmine tartrate patch and who still require rivastigmine, treatment should be switched to oral rivastigmine only after negative allergy testing and under close medical supervision.
+In patients who develop application site reactions, suggestive of allergic contact dermatitis to rivastigmine tartrate patch and who still require rivastigmine, treatment should be switched to oral rivastigmine only after negative allergy testing and under close medical supervision.
 It is possible that some patients sensitized to rivastigmine by exposure to rivastigmine patch may not be able to take rivastigmine in any form.
 
 ## 5.3 Other Adverse Reactions from Increased Cholinergic Activity
@@ -25,7 +25,7 @@ It is possible that some patients sensitized to rivastigmine by exposure to riva
 Neurologic Effects
 
 Extrapyramidal Symptoms: Cholinomimetics, including rivastigmine may exacerbate or induce extrapyramidal symptoms.
-Worsening of parkinsonian symptoms, particularly tremor, has been observed in patients with dementia associated with Parkinson’s disease who were treated with rivastigmine tartrate capsules.
+Worsening of parkinsonian symptoms, particularly tremor has been observed in patients with dementia associated with Parkinson’s disease who were treated with rivastigmine tartrate capsules.
 
 Seizures: Drugs that increase cholinergic activity are believed to have some potential for causing seizures.
 However, seizure activity also may be a manifestation of Alzheimer's disease.
@@ -44,7 +44,7 @@ Cardiac Conduction Effects
 
 Because rivastigmine increases cholinergic activity, use of rivastigmine may have vagotonic effects on heart rate (e.g., bradycardia).
 The potential for this action may be particularly important in patients with sick sinus syndrome or other supraventricular cardiac conduction conditions.
-In clinical trials, rivastigmine was not associated with any increased incidence of cardiovascular adverse events, heart rate or blood pressure changes, or ECG abnormalities.
+In clinical trials, rivastigmine was not associated with any increased incidence of cardiovascular adverse events, heart rate or blood pressure changes, or electrocardiogram (ECG) abnormalities.
 Syncopal episodes have been reported in 3% of patients receiving 6 mg to 12 mg per day of rivastigmine tartrate, compared to 2% of placebo patients.
 
 Genitourinary Effects
