@@ -27,7 +27,7 @@ Hepatic Disease In a study of 10 patients with stable alcoholic cirrhosis, the c
 Renal Disease In a study of 11 patients with moderate to severe renal impairment (ClC < 18 mL/min/1.73 m2) the clearance of donepezil hydrochloride did not differ from 11 age- and sex-matched healthy subjects.
 Age No formal pharmacokinetic study was conducted to examine age-related differences in the pharmacokinetics of donepezil hydrochloride.
 Population pharmacokinetic analysis suggested that the clearance of donepezil in patients decreases with increasing age.
-When compared with 65-year old, subjects, 90-year old subjects have a 17% decrease in clearance, while 40-year old subjects have a 33% increase in clearance.
+When compared with 65-year old subjects, 90-year old subjects have a 17% decrease in clearance, while 40-year old subjects have a 33% increase in clearance.
 The effect of age on donepezil clearance may not be clinically significant.
 Gender and Race No specific pharmacokinetic study was conducted to investigate the effects of gender and race on the disposition of donepezil hydrochloride.
 However, retrospective pharmacokinetic analysis and population pharmacokinetic analysis of plasma donepezil concentrations measured in patients with Alzheimer’s disease indicates that gender and race (Japanese and Caucasians) did not affect the clearance of donepezil hydrochloride to an important degree.

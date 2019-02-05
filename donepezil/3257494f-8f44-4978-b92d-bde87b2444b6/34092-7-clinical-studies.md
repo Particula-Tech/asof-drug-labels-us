@@ -100,7 +100,7 @@ At the end of the 6 month treatment period, 90.5% of the donepezil hydrochloride
 The mean age of patients was 84.9 years, with a range of 59 to 99.
 Approximately 77% of patients were women, and 23% were men.
 Almost all patients were Caucasian.
-Probable Alzheimer's Disease was diagnosed in the majority of the patients (83.6% of donepezil hydrochloride treated patients and 84.2% of placebo treated patients).
+Probable Alzheimer's disease was diagnosed in the majority of the patients (83.6% of donepezil hydrochloride treated patients and 84.2% of placebo treated patients).
 
 Study Outcome Measures The effectiveness of treatment with donepezil hydrochloride was determined using a dual outcome assessment strategy that evaluated cognitive function using an instrument designed for more impaired patients and overall function through caregiver-rated assessment.
 This study showed that patients on donepezil hydrochloride experienced significant improvement on both measures compared to placebo.

@@ -9,4 +9,20 @@ Donepezil hydrochloride 23 mg tablets should be swallowed whole without the tabl
 
 Advise patients and caregivers that donepezil hydrochloride may cause nausea, diarrhea, insomnia, vomiting, muscle cramps, fatigue, and decreased appetite.
 
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 090, India Revised: 02/2016
+Advise patients to notify their healthcare provider if they are pregnant or plan to become pregnant.
+
+Distributed by:
+
+Aurobindo Pharma USA, Inc.
+
+279 Princeton-Hightstown Road
+
+East Windsor, NJ 08520
+
+Manufactured by:
+
+Aurobindo Pharma Limited
+
+Hyderabad-500 038, India
+
+Revised: 01/2019

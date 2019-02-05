@@ -18,7 +18,7 @@ Donepezil hydrochloride has been administered to over 1,700 individuals during c
 Approximately 1200 of these patients have been treated for at least 3 months and more than 1,000 patients have been treated for at least 6 months.
 Controlled and uncontrolled trials in the United States included approximately 900 patients.
 In regards to the highest dose of 10 mg/day, this population includes 650 patients treated for 3 months, 475 patients treated for 6 months, and 116 patients treated for over 1 year.
-The range of patient exposure is from 1 to 1,214 days
+The range of patient exposure is from 1 to 1,214 days.
 
 Mild to Moderate Alzheimer’s Disease
 
@@ -192,7 +192,7 @@ Adverse Reactions in a Controlled Clinical Trial in Moderate to Severe Alzheimer
 | Weight Loss | 5 | 3 |
 | Headache | 4 | 3 |
 | Insomnia | 3 | 2 |
-| Urinary incontinence | 3 | 1 |
+| Urinary Incontinence | 3 | 1 |
 | Asthenia | 2 | 1 |
 | Contusion | 2 | 0 |
 | Fatigue | 2 | 1 |
@@ -200,7 +200,7 @@ Adverse Reactions in a Controlled Clinical Trial in Moderate to Severe Alzheimer
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use donepezil hydrochloride.
+The following adverse reactions have been identified during post-approval use of donepezil hydrochloride.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Abdominal pain, agitation, aggression, cholecystitis, confusion, convulsions, hallucinations, heart block (all types), hemolytic anemia, hepatitis, hyponatremia, neuroleptic malignant syndrome, pancreatitis, rash, rhabdomyolysis, QTc prolongation, and torsade de pointes.
