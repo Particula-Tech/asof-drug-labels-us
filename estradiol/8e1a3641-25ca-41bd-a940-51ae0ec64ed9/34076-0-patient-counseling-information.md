@@ -16,7 +16,7 @@ What is Elestrin® used for?
 
 Elestrin® is used after menopause to:
 
-- Reduce moderate-to-severe hot flashes Estrogens are hormones made by a woman's ovaries.
+- •Reduce moderate-to-severe hot flashes Estrogens are hormones made by a woman's ovaries.
   The ovaries normally stop making estrogens when a woman is between 45 to 55 years old.
   This drop in body estrogen levels causes the "change of life" or menopause (the end of monthly menstrual periods).
   Sometimes, both ovaries are removed during an operation before natural menopause takes place.
@@ -30,23 +30,23 @@ Who should not use Elestrin®?
 
 Do not start using Elestrin® if you:
 
-- Have unusual vaginal bleeding
-- Currently have or have had certain cancers Estrogens may increase the chances of getting certain types of cancers, including cancer of the breast or uterus.
+- •Have unusual vaginal bleeding
+- •Currently have or have had certain cancers Estrogens may increase the chances of getting certain types of cancers, including cancer of the breast or uterus.
   If you have or had cancer, talk with your healthcare provider about whether you should use Elestrin®.
-- Had a stroke or heart attack in the past year
-- Currently have or have had blood clots
-- Currently have or have had liver problems
-- Are allergic to Elestrin® or any of its ingredients See below for a list of ingredients in Elestrin®
-- Think you may be pregnant
+- •Had a stroke or heart attack in the past year
+- •Currently have or have had blood clots
+- •Currently have or have had liver problems
+- •Are allergic to Elestrin® or any of its ingredients See below for a list of ingredients in Elestrin®
+- •Think you may be pregnant
 
 Tell your healthcare provider:
 
-- If you are breastfeeding The hormone in Elestrin® can pass into your milk.
-- About all of your medical problems Your healthcare provider may need to check you more carefully if you have certain conditions, such as asthma (wheezing), epilepsy (seizures), migraine, endometriosis, lupus, or problems with your heart, liver, thyroid, kidneys, or have high calcium levels in your blood.
-- About all the medicines you take This includes prescription and nonprescription medicines, vitamins, and herbal supplements.
+- •If you are breastfeeding The hormone in Elestrin® can pass into your milk.
+- •About all of your medical problems Your healthcare provider may need to check you more carefully if you have certain conditions, such as asthma (wheezing), epilepsy (seizures), migraine, endometriosis, lupus, or problems with your heart, liver, thyroid, kidneys, or have high calcium levels in your blood.
+- •About all the medicines you take This includes prescription and nonprescription medicines, vitamins, and herbal supplements.
   Some medicines may affect how Elestrin® works.
   Elestrin® may also affect how your other medicines work.
-- If you are going to have surgery or will be on bed rest You may need to stop using Elestrin®.
+- •If you are going to have surgery or will be on bed rest You may need to stop using Elestrin®.
 
 What are the ingredients in Elestrin®?
 
@@ -56,8 +56,8 @@ Inactive ingredients: purified water, ethanol, propylene glycol, diethylene glyc
 
 How should I use Elestrin®?
 
-1. Start at the lowest dose and talk to your healthcare provider about how well that dose is working for you.
-2. Elestrin® should be used at the lowest dose possible for your treatment and only as long as needed.
+1. 1.Start at the lowest dose and talk to your healthcare provider about how well that dose is working for you.
+2. 2.Elestrin® should be used at the lowest dose possible for your treatment and only as long as needed.
    You and your healthcare provider should talk regularly (for example, every 3 to 6 months) about the dose you are taking and whether you still need treatment with Elestrin®.
 
 Elestrin® comes in a metered-dose pump container.
@@ -112,47 +112,47 @@ What are the possible side effects of estrogens?
 
 Less common but serious side effects include:
 
-- Breast cancer
-- Cancer of the uterus
-- Stroke
-- Heart attack
-- Blood clots
-- Dementia
-- Gallbladder disease
-- Ovarian cancer
+- •Breast cancer
+- •Cancer of the uterus
+- •Stroke
+- •Heart attack
+- •Blood clots
+- •Dementia
+- •Gallbladder disease
+- •Ovarian cancer
 
 These are some of the warning signs of serious side effects:
 
-- Breast lumps
-- Unusual vaginal bleeding
-- Dizziness and faintness
-- Changes in speech
-- Severe headaches
-- Chest pain
-- Shortness of breath
-- Pains in your legs
-- Changes in vision
-- Vomiting
+- •Breast lumps
+- •Unusual vaginal bleeding
+- •Dizziness and faintness
+- •Changes in speech
+- •Severe headaches
+- •Chest pain
+- •Shortness of breath
+- •Pains in your legs
+- •Changes in vision
+- •Vomiting
 
 Call your healthcare provider right away if you get any of these warning signs, or any other unusual symptom that concerns you.
 
 Common side effects include:
 
-- Headache
-- Breast pain
-- Irregular vaginal bleeding or spotting
-- Stomach/abdominal cramps, bloating
-- Nausea and vomiting
-- Hair loss
+- •Headache
+- •Breast pain
+- •Irregular vaginal bleeding or spotting
+- •Stomach/abdominal cramps, bloating
+- •Nausea and vomiting
+- •Hair loss
 
 Other side effects include:
 
-- High blood pressure
-- Liver problems
-- High blood sugar
-- Fluid retention
-- Enlargement of benign tumors of the uterus ("fibroids")
-- Vaginal yeast infection
+- •High blood pressure
+- •Liver problems
+- •High blood sugar
+- •Fluid retention
+- •Enlargement of benign tumors of the uterus ("fibroids")
+- •Vaginal yeast infection
 
 These are not all the possible side effects of Elestrin®.
 For more information, ask your healthcare provider or pharmacist.
@@ -192,22 +192,22 @@ Remove the cap.
 2.
 Prime the pump before using the pump for the first time.
 
-- To prime, actuate the pump until gel is dispensed.
+- •To prime, actuate the pump until gel is dispensed.
   Discard the first actuation that produces gel as this will not contain a full actuation.
   The pump is now primed and ready to use.
-- Throw away the unused gel by placing it in the trash to avoid another person or pet from accidental contact with the gel, or eating or drinking it.
-- After priming, the pump is ready to use.
+- •Throw away the unused gel by placing it in the trash to avoid another person or pet from accidental contact with the gel, or eating or drinking it.
+- •After priming, the pump is ready to use.
   One complete actuation will dispense the same amount of Elestrin® each time.
   After each daily dose, replace the cap before you put it away.
 
 3.
 Apply Elestrin®.
 
-- Dry skin completely before applying Elestrin®.
+- •Dry skin completely before applying Elestrin®.
   You should apply your daily actuation(s) of gel to clean, dry, unbroken skin.
   If you take a bath or shower or use a sauna, apply Elestrin® after your bath, shower, or sauna.
   If you go swimming, try to leave as much time as possible, at least 2 hours, between applying your Elestrin® actuation(s) and going into the water.
-- Apply Elestrin® at the same time and the same locations each day.
+- •Apply Elestrin® at the same time and the same locations each day.
 
 Figure 1 To apply the dose, hold the pump with the tip facing the application area of the arm.
 For each actuation needed, press the pump firmly and fully with a continuous motion without hesitation.

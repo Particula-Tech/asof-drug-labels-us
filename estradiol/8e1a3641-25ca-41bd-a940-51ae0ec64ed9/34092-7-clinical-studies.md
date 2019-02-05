@@ -23,7 +23,11 @@ TABLE 2 - Mean Change From Baselinea in the Number and Severity of Hot Flushes a
 | Mean Change: | Week 4 | -0.2 | -0.5# | -0.7*** |
 |  | Week 5 | -0.2 | -0.5* | -0.8*** |
 |  | Week 12 | -0.3 | -0.8*** | -1.2*** |
-| a Differences from baseline based on LS means derived from the ANCOVA model with factors for baseline, treatment, site, and treatment-by-baseline interaction.b Unadjusted means and standard deviations, based on the first 14 days of the Screening Period.c Severity score: 1=mild, 2=moderate, 3=severe.SD: standard deviation #P= ns, *P<0.01, **P<0.001, ***P<0.0001 for treatment comparison with placebo (Dunnett's test). |  |  |  |  |
+| a Differences from baseline based on LS means derived from the ANCOVA model with factors for baseline, treatment, site, and treatment-by-baseline interaction. |  |  |  |  |
+| b Unadjusted means and standard deviations, based on the first 14 days of the Screening Period. |  |  |  |  |
+| c Severity score: 1=mild, 2=moderate, 3=severe. |  |  |  |  |
+| SD: standard deviation |  |  |  |  |
+| #P= ns, *P<0.01, **P<0.001, ***P<0.0001 for treatment comparison with placebo (Dunnett's test). |  |  |  |  |
 
 ## Women's Health Initiative Studies
 
@@ -54,7 +58,13 @@ TABLE 3 - RELATIVE AND ABSOLUTE RISK SEEN IN THE ESTROGEN-ALONE SUBSTUDY OF WHIa
 | Death due to other causesd,f | 1.08 (0.88-1.32) | 50 | 53 |
 | Overall mortalityd,e | 1.04 (0.88-1.22) | 78 | 81 |
 | Global indexd,g | 1.01 (0.91-1.12) | 190 | 192 |
-| a Adapted from JAMA. 2004;291:1701-1712.b Nominal confidence intervals unadjusted for multiple looks and multiple comparisons. c Results are based on centrally adjudicated data for an average follow-up of 7.1 years. d Results are based on an average follow-up of 6.8 years. e Not included in Global Index. f All deaths, except from breast or colorectal cancer, definite/probable CHD, PE or cerebrovascular disease. g A subset of the events was combined in a "global index," defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, endometrial cancer, colorectal cancer, hip fracture, or death due to other causes. |  |  |  |
+| a Adapted from JAMA. 2004;291:1701-1712. |  |  |  |
+| b Nominal confidence intervals unadjusted for multiple looks and multiple comparisons. |  |  |  |
+| c Results are based on centrally adjudicated data for an average follow-up of 7.1 years. |  |  |  |
+| d Results are based on an average follow-up of 6.8 years. |  |  |  |
+| e Not included in Global Index. |  |  |  |
+| f All deaths, except from breast or colorectal cancer, definite/probable CHD, PE or cerebrovascular disease. |  |  |  |
+| g A subset of the events was combined in a "global index," defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, endometrial cancer, colorectal cancer, hip fracture, or death due to other causes. |  |  |  |
 
 For those outcomes included in the WHI "global index," that reached statistical significance, the absolute excess risk per 10,000 women-years in the group treated with CE 0.625 mg alone were 12 more strokes, while the absolute risk reduction per 10,000 women-years was 6 fewer hip fractures.
 The absolute excess risk of events included in the "global index" was a nonsignificant 2 events per 10,000 women-years.
@@ -66,25 +76,27 @@ Results of the CE/MPA substudy, which included 16,608 women (average age of 63 y
 
 TABLE 4 - Relative and Absolute Risk Seen in the CE/MPA Substudy of WHI at an Average of 5.6 Yearsa
 
-| Eventc | Relative Risk CE/MPA vs. Placebo (95% nCIb) | Placebo n = 8,102 | CE/MPA n = 8,506 |
-| --- | --- | --- | --- |
-| Absolute Risk per 10,000 Women-Years |  |  |  |
-| CHD events | 1.24 (1.00-1.54) | 33 | 39 |
-| Non-fatal MI | 1.28 (1.00-1.63) | 25 | 31 |
-| CHD death | 1.10 (0.70-1.75) | 8 | 8 |
-| Invasive breast cancerc | 1.24 (1.01-1.54) | 33 | 41 |
-| All Stroke | 1.31 (1.02-1.68) | 24 | 31 |
-| Ischemic Stroke | 1.44 (1.09-1.90) | 18 | 26 |
-| Deep vein thrombosis | 1.95 (1.43-2.67) | 13 | 26 |
-| Pulmonary embolism | 2.13 (1.45-3.11) | 8 | 18 |
-| Invasive Colorectal cancer | 0.56 (0.38-0.81) | 16 | 9 |
-| Endometrial cancer | 0.81 (0.48-1.36) | 7 | 6 |
-| Cervical cancer | 1.44 (0.47-4.42) | 1 | 2 |
-| Hip fracture | 0.67 (0.47-0.96) | 16 | 11 |
-| Vertebral fractures | 0.65 (0.46-0.92) | 17 | 11 |
-| Lower arm/wrist fractures | 0.71 (0.59-0.85) | 62 | 44 |
-| Total fractures | 0.76 (0.69-0.83) | 199 | 152 |
-| a Results are based on centrally adjudicated data. Mortality data was not part of the adjudicated data; however, data at 5.2 years of follow-up showed no difference between the groups in terms of all-cause mortality (RR 0.98, 95% nCI 0.82-1.18). b Nominal confidence intervals unadjusted for multiple looks and multiple comparisons.c Includes metastatic and non-metastatic breast cancer with the exception of in situ breast cancer. |  |  |  |
+| Eventc | Relative Risk CE/MPA vs. Placebo (95% nCIb) | Placebo n = 8,102 | CE/MPA n = 8,506 |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Absolute Risk per 10,000 Women-Years |  |  |  |  |  |  |  |
+| CHD events | 1.24 (1.00-1.54) | 33 | 39 |  |  |  |  |
+| Non-fatal MI | 1.28 (1.00-1.63) | 25 | 31 |  |  |  |  |
+| CHD death | 1.10 (0.70-1.75) | 8 | 8 |  |  |  |  |
+| Invasive breast cancerc | 1.24 (1.01-1.54) | 33 | 41 |  |  |  |  |
+| All Stroke | 1.31 (1.02-1.68) | 24 | 31 |  |  |  |  |
+| Ischemic Stroke | 1.44 (1.09-1.90) | 18 | 26 |  |  |  |  |
+| Deep vein thrombosis | 1.95 (1.43-2.67) | 13 | 26 |  |  |  |  |
+| Pulmonary embolism | 2.13 (1.45-3.11) | 8 | 18 |  |  |  |  |
+| Invasive Colorectal cancer | 0.56 (0.38-0.81) | 16 | 9 |  |  |  |  |
+| Endometrial cancer | 0.81 (0.48-1.36) | 7 | 6 |  |  |  |  |
+| Cervical cancer | 1.44 (0.47-4.42) | 1 | 2 |  |  |  |  |
+| Hip fracture | 0.67 (0.47-0.96) | 16 | 11 |  |  |  |  |
+| Vertebral fractures | 0.65 (0.46-0.92) | 17 | 11 |  |  |  |  |
+| Lower arm/wrist fractures | 0.71 (0.59-0.85) | 62 | 44 |  |  |  |  |
+| Total fractures | 0.76 (0.69-0.83) | 199 | 152 |  |  |  |  |
+| a Results are based on centrally adjudicated data. Mortality data was not part of the adjudicated data; however, data at 5.2 years of follow-up showed no difference between the groups in terms of all-cause mortality (RR 0.98, 95% nCI 0.82-1.18). |  |  |  |  |  |  |  |
+| b Nominal confidence intervals unadjusted for multiple looks and multiple comparisons. |  |  |  |  |  |  |  |
+| c Includes metastatic and non-metastatic breast cancer with the exception of in situ breast cancer. |  |  |  |  |  |  |  |
 
 For those outcomes included in the WHI "global index" that reached statistical significance after 5.6 years of follow-up, the absolute excess risks per 10,000 women-years in the group treated with CE/MPA were 6 more CHD events, 7 more strokes, 10 more PEs, and 8 more invasive breast cancers, while the absolute risk reductions per 10,000 women-years were 7 fewer colorectal cancers and 5 fewer hip fractures.
 The absolute excess risk of events included in the "global index" was 19 per 10,000 women-years (RR 1.15, 95% nCI 1.03-1.28).

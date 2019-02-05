@@ -25,17 +25,17 @@ Because of these risks, estrogens with or without progestins should be prescribe
 
 WHAT IS THE MOST IMPORTANT INFORMATION I SHOULD KNOW ABOUT Elestrin® (AN ESTROGEN HORMONE)?
 
-- Estrogens increase the chances of getting cancer of the uterus.
+- •Estrogens increase the chances of getting cancer of the uterus.
 
 Report any unusual vaginal bleeding right away while you are using Elestrin®.
 Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb).
 Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
 
-- Do not use estrogens with or without progestins to prevent heart disease, heart attacks, or strokes.
+- •Do not use estrogens with or without progestins to prevent heart disease, heart attacks, or strokes.
 
 Using estrogens with or without progestins may increase your chances of getting heart attacks, strokes, breast cancer, and blood clots.
 
-- Do not use estrogens with or without progestins to prevent dementia.
-- Using estrogens with or without progestins may increase your risk of dementia, based on a study of women age 65 years or older.
+- •Do not use estrogens with or without progestins to prevent dementia.
+- •Using estrogens with or without progestins may increase your risk of dementia, based on a study of women age 65 years or older.
 
 You and your healthcare provider should talk regularly about whether you still need treatment with Elestrin®.
