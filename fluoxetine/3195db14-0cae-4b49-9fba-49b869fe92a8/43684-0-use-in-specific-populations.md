@@ -10,7 +10,6 @@ More than 10 cohort studies and case-control studies failed to demonstrate an in
 However, one prospective cohort study conducted by the European Network of Teratology Information Services reported an increased risk of cardiovascular malformations in infants born to women (N = 253) exposed to fluoxetine during the first trimester of pregnancy compared to infants of women (N = 1359) who were not exposed to fluoxetine.
 There was no specific pattern of cardiovascular malformations.
 Overall, however, a causal relationship has not been established.
-
 Nonteratogenic Effects — Neonates exposed to fluoxetine and other SSRIs or serotonin and norepinephrine reuptake inhibitors (SNRIs), late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
 Such complications can arise immediately upon delivery.
 Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying.

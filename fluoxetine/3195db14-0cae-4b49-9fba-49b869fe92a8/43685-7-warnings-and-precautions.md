@@ -50,7 +50,7 @@ All reports with methylene blue that provided information on the route of admini
 No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
 There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking fluoxetine.
 Fluoxetine should be discontinued before initiating treatment with the MAOI [see Contraindications(4.1) and Dosage and Administration (2.9, 2.10)].
-If concomitant use of fluoxetine with other serotonergic drugs, i.e., triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, amphetamines and St. John’s Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
+If concomitant use of fluoxetine with other serotonergic drugs, i.e., triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, amphetamines, and St. John’s Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
 Treatment with fluoxetine and any concomitant serotonergic agents, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
 ## 5.3 Allergic Reactions and Rash
@@ -78,7 +78,7 @@ A major depressive episode may be the initial presentation of Bipolar Disorder.
 It is generally believed (though not established in controlled trials) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for Bipolar Disorder.
 Whether any of the symptoms described for clinical worsening and suicide risk represent such a conversion is unknown.
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for Bipolar Disorder; such screening should include a detailed psychiatric history, including a family history of suicide, Bipolar Disorder, and depression.
-It should be noted that fluoxetine is not indicated for the use in treating bipolar depression.
+It should be noted that fluoxetine is not indicated for use in treating bipolar depression.
 In U.S. placebo-controlled clinical trials for Major Depressive Disorder, mania/hypomania was reported in 0.1% of patients treated with fluoxetine and 0.1% of patients treated with placebo.
 Activation of mania/hypomania has also been reported in a small proportion of patients with Major Affective Disorder treated with other marketed drugs effective in the treatment of Major Depressive Disorder [see Use in Specific Populations (8.4)].
 In U.S. placebo-controlled clinical trials for OCD, mania/hypomania was reported in 0.8% of patients treated with fluoxetine and no patients treated with placebo.

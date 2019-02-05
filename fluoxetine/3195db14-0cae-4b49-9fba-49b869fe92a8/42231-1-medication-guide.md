@@ -149,6 +149,7 @@ Ask if you are not sure.
 Before starting fluoxetine oral solution, tell your healthcare provider if you:
 
 - Are taking certain drugs or treatments such as:
+  - Amphetamines
   - Triptans used to treat migraine headache
   - Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, buspirone, SSRIs, SNRIs, MAOIs or antipsychotics
   - Tramadol and fentanyl
@@ -259,4 +260,4 @@ Mellaril® is a registered trademark of Novartis AG Corporation.
 Orap® is a registered trademark of Teva Pharmaceuticals USA.
 Coumadin® is a registered trademark of Bristol Myers Squibb.
 Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India Revised: 09/2016
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 01/2019

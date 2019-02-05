@@ -81,4 +81,4 @@ Limited evidence is available concerning the longer-term effects of fluoxetine o
 Height and weight should be monitored periodically in pediatric patients receiving fluoxetine [see Warnings and Precautions (5.6) and Use in Specific Populations (8.4)].
 Symbyax® and Sarafem® are registered trademarks of Eli Lilly.
 Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 090, India Revised: 09/2016
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 038, India Revised: 01/2019

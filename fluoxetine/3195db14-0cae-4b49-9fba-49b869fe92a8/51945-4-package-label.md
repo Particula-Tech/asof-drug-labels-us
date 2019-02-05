@@ -1,4 +1,5 @@
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 20 mg/5 mL (120 mL Bottle)
 
-Rx only NDC 65862-306-12 Fluoxetine Oral Solution, USP 20 mg/5 mL PHARMACIST: Dispense the Medication Guide provided separately to each patient.
-120 mL AUROBINDO
+NDC 65862-306-12 Rx only Fluoxetine Oral Solution, USP 20 mg/5 mL PHARMACIST: Dispense the Medication Guide provided separately to each patient.
+
+AUROBINDO 120 mL
