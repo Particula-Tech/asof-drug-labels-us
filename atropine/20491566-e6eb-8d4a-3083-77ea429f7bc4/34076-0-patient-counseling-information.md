@@ -6,4 +6,4 @@
 - Advise patients that they may experience drowsiness.
 - Advise patients not to touch the dispenser tip to any surface, as this may contaminate the solution.
 
-ALCON® ALCON LABORATORIES, INC. Fort Worth, Texas 76134 USA © 2016 Novartis
+ALCON® A Novartis company Fort Worth, Texas 76134 USA © 2016, 2018 Novartis
