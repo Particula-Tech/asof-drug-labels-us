@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-| Enalapril maleate tablets |  |  |  |
+| Enalapril Maleate Tablets |  |  |  |
 | --- | --- | --- | --- |
 | NDC Number | Strength | Quantity | Description |
 | 68682-710-3068682-710-9068682-710-0168682-710-10 | 2.5 mg | Bottles of 30(with desiccant)Bottles of 90(with desiccant)Bottles of 100(with desiccant)Bottles of 1,000(with desiccant) | White, oval shaped tablet imprinted with “VASO 2.5” and scored on one side andscored on the other. |
@@ -10,7 +10,7 @@
 
 Storage
 
-Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 Keep container tightly closed.
 Protect from moisture.
 Dispense in a tight container as per USP, if product package is subdivided.
@@ -29,14 +29,7 @@ Valeant Pharmaceuticals International, Inc.
 
 Steinbach, MB R5G 1Z7 Canada
 
-Vasotecis a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
-All other product/brand names and/or logos are trademarks of their respective owners.
-
-© Valeant Pharmaceuticals North America LLC.
-
-20001977
+20002517 9450103
 
 Rev.
-07/2017
-
-9450102
+11/2018

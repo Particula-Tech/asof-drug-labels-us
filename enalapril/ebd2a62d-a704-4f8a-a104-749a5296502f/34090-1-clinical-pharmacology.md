@@ -8,24 +8,24 @@ Angiotensin II also stimulates aldosterone secretion by the adrenal cortex.
 The beneficial effects of enalapril in hypertension and heart failure appear to result primarily from suppression of the renin-angiotensin-aldosterone system.
 Inhibition of ACE results in decreased plasma angiotensin II, which leads to decreased vasopressor activity and to decreased aldosterone secretion.
 Although the latter decrease is small, it results in small increases of serum potassium.
-In hypertensive patients treated with enalapril maleate alone for up to 48 weeks, mean increases in serum potassium of approximately 0.2 mEq/L were observed.
-In patients treated with enalapril maleate plus a thiazide diuretic, there was essentially no change in serum potassium (see PRECAUTIONS).
+In hypertensive patients treated with Enalapril Maleate Tablets alone for up to 48 weeks, mean increases in serum potassium of approximately 0.2 mEq/L were observed.
+In patients treated with Enalapril Maleate Tablets plus a thiazide diuretic, there was essentially no change in serum potassium (see PRECAUTIONS).
 Removal of angiotensin II negative feedback on renin secretion leads to increased plasma renin activity.
 
 ACE is identical to kininase, an enzyme that degrades bradykinin.
-Whether increased levels of bradykinin, a potent vasodepressor peptide, play a role in the therapeutic effects of enalapril maleate remains to be elucidated.
+Whether increased levels of bradykinin, a potent vasodepressor peptide, play a role in the therapeutic effects of Enalapril Maleate Tablets remains to be elucidated.
 
-While the mechanism through which enalapril maleate lowers blood pressure is believed to be primarily suppression of the renin-angiotensin-aldosterone system, enalapril maleate is antihypertensive even in patients with low-renin hypertension.
-Although enalapril maleate was antihypertensive in all races studied, black hypertensive patients (usually a low-renin hypertensive population) had a smaller average response to enalapril monotherapy than non-black patients.
+While the mechanism through which Enalapril Maleate Tablets lowers blood pressure is believed to be primarily suppression of the renin-angiotensin-aldosterone system, Enalapril Maleate Tablets is antihypertensive even in patients with low-renin hypertension.
+Although Enalapril Maleate Tablets was antihypertensive in all races studied, black hypertensive patients (usually a low-renin hypertensive population) had a smaller average response to enalapril monotherapy than non-black patients.
 
 Pharmacokinetics and Metabolism
 
-Following oral administration of enalapril maleate, peak serum concentrations of enalapril occur within about one hour.
+Following oral administration of Enalapril Maleate Tablets, peak serum concentrations of enalapril occur within about one hour.
 Based on urinary recovery, the extent of absorption of enalapril is approximately 60 percent.
 Enalapril absorption is not influenced by the presence of food in the gastrointestinal tract.
-Following absorption, enalapril is hydrolyzed to enalaprilat, which is a more potent angiotensin converting enzyme inhibitor than enalapril; enalaprilat is poorly absorbed when administered orally.
+Following absorption, enalapril is hydrolyzed to enalaprilat, which is a more potent angiotensin- converting enzyme inhibitor than enalapril; enalaprilat is poorly absorbed when administered orally.
 Peak serum concentrations of enalaprilat occur three to four hours after an oral dose of enalapril maleate.
-Excretion of enalapril maleate is primarily renal.
+Excretion of Enalapril Maleate Tablets is primarily renal.
 Approximately 94 percent of the dose is recovered in the urine and feces as enalaprilat or enalapril.
 The principal components in urine are enalaprilat, accounting for about 40 percent of the dose, and intact enalapril.
 There is no evidence of metabolites of enalapril, other than enalaprilat.
@@ -48,27 +48,27 @@ Pharmacodynamics and Clinical Effects
 
 Hypertension
 
-Administration of enalapril maleate to patients with hypertension of severity ranging from mild to severe results in a reduction of both supine and standing blood pressure usually with no orthostatic component.
-Symptomatic postural hypotension is therefore infrequent, although it might be anticipated in volume-depleted patients (see WARNINGS).
+Administration of Enalapril Maleate Tablets to patients with hypertension of severity ranging from mild to severe results in a reduction of both supine and standing blood pressure usually with no orthostatic component.
+Symptomatic postural hypotension is therefore infrequent, although it might be anticipated in volume-depleted patients (see WARNINGS, Hypotension).
 
 In most patients studied, after oral administration of a single dose of enalapril, onset of antihypertensive activity was seen at one hour with peak reduction of blood pressure achieved by four to six hours.
 
 At recommended doses, antihypertensive effects have been maintained for at least 24 hours.
-In some patients the effects may diminish toward the end of the dosing interval (see DOSAGE AND ADMINISTRATION).
+In some patients the effects may diminish toward the end of the dosing interval (see DOSAGE AND ADMINISTRATION, Hypertension).
 
 In some patients achievement of optimal blood pressure reduction may require several weeks of therapy.
 
-The antihypertensive effects of enalapril maleate have continued during long-term therapy.
-Abrupt withdrawal of enalapril maleate has not been associated with a rapid increase in blood pressure.
+The antihypertensive effects of Enalapril Maleate Tablets have continued during long-term therapy.
+Abrupt withdrawal of Enalapril Maleate Tablets has not been associated with a rapid increase in blood pressure.
 
 In hemodynamic studies in patients with essential hypertension, blood pressure reduction was accompanied by a reduction in peripheral arterial resistance with an increase in cardiac output and little or no change in heart rate.
-Following administration of enalapril maleate, there is an increase in renal blood flow; glomerular filtration rate is usually unchanged.
+Following administration of Enalapril Maleate Tablets, there is an increase in renal blood flow; glomerular filtration rate is usually unchanged.
 The effects appear to be similar in patients with renovascular hypertension.
 
-When given together with thiazide-type diuretics, the blood pressure lowering effects of enalapril maleate are approximately additive.
+When given together with thiazide-type diuretics, the blood pressure lowering effects of Enalapril Maleate Tablets are approximately additive.
 
-In a clinical pharmacology study, indomethacin or sulindac was administered to hypertensive patients receiving enalapril maleate.
-In this study there was no evidence of a blunting of the antihypertensive action of enalapril maleate (see PRECAUTIONS, Drug Interactions).
+In a clinical pharmacology study, indomethacin or sulindac was administered to hypertensive patients receiving Enalapril Maleate Tablets.
+In this study there was no evidence of a blunting of the antihypertensive action of Enalapril Maleate Tablets (see PRECAUTIONS, Drug Interactions).
 
 Heart Failure
 
@@ -106,7 +106,7 @@ The results are shown in the following table.
 |  | Six Months | One Year |
 | --- | --- | --- |
 |  | SURVIVAL (%) |  |
-| Enalapril Maleate (n=127) | 74 | 64 |
+| Enalapril Maleate Tablets (n=127) | 74 | 64 |
 | Placebo (n=126) | 56 | 48 |
 
 In both CONSENSUS and SOLVD-Treatment trials, patients were also usually receiving digitalis, diuretics or both.
@@ -118,10 +118,10 @@ At steady state, the mean effective half-life for accumulation of enalaprilat wa
 Conversion of enalapril to enalaprilat was in the range of 63-76%.
 The overall results of this study indicate that the pharmacokinetics of enalapril in hypertensive children aged 2 months to ≤16 years are consistent across the studied age groups and consistent with pharmacokinetic historic data in healthy adults.
 
-In a clinical study involving 110 hypertensive pediatric patients 6 to 16 years of age, patients who weighed <50 kg received either 0.625, 2.5 or 20 mg of enalapril daily and patients who weighed ≥50 kg received either 1.25, 5, or 40 mg of enalapril daily.
+In a clinical study involving 110 hypertensive pediatric patients 6 to 16 years of age, patients who weighed <50 kg received either 0.625, 2.5 or 20 mg of enalapril daily and patients who weighed ≥ 50 kg received either 1.25, 5, or 40 mg of enalapril daily.
 Enalapril administered once daily lowered trough blood pressure in a dose-dependent manner.
 The dose-dependent antihypertensive efficacy of enalapril was consistent across all subgroups (age, Tanner stage, gender, race).
 However, the lowest doses studied, 0.625 mg and 1.25 mg, corresponding to an average of 0.02 mg/kg once daily, did not appear to offer consistent antihypertensive efficacy.
-In this study, enalapril maleate was generally well tolerated.
+In this study, Enalapril Maleate Tablets was generally well tolerated.
 
-In the above pediatric studies, enalapril maleate was given as tablets of VASOTEC® and for those children and infants who were unable to swallow tablets or who required a lower dose than is available in tablet form, enalapril was administered in a suspension formulation (see DOSAGE AND ADMINISTRATION, Preparation of Suspension).
+In the above pediatric studies, enalapril maleate was given as tablets of Enalapril Maleate Tablets and for those children and infants who were unable to swallow tablets or who required a lower dose than is available in tablet form, enalapril was administered in a suspension formulation (see DOSAGE AND ADMINISTRATION, Preparation of Suspension).
