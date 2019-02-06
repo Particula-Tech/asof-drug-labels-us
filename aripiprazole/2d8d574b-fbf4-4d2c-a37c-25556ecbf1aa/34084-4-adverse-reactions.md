@@ -1,13 +1,39 @@
 # 6 ADVERSE REACTIONS
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
-The following adverse reactions are discussed in more detail in other sections of the labeling: • Increased Mortality in Elderly Patients with Dementia-Related Psychosis [see BOXED WARNINGand WARNINGS AND PRECAUTIONS (5.1)] • Cerebrovascular Adverse Events, Including Stroke [see WARNINGS AND PRECAUTIONS (5.2)] • Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults [see BOXED WARNINGand WARNINGS AND PRECAUTIONS (5.3)] • Neuroleptic Malignant Syndrome (NMS) [see WARNINGS AND PRECAUTIONS (5.4)] • Tardive Dyskinesia [see WARNINGS AND PRECAUTIONS (5.5)] • Metabolic Changes [see WARNINGS AND PRECAUTIONS (5.6)] • Pathological Gambling and Other Compulsive Behaviors [see WARNINGS AND PRECAUTIONS (5.12)] • Orthostatic Hypotension [see WARNINGS AND PRECAUTIONS (5.8)] • Falls [see WARNINGS AND PRECAUTIONS (5.9)] • Leukopenia, Neutropenia, and Agranulocytosis [see WARNINGS AND PRECAUTIONS (5.10)] • Seizures/Convulsions [see WARNINGS AND PRECAUTIONS (5.11)] • Potential for Cognitive and Motor Impairment [see WARNINGS AND PRECAUTIONS (5.12)] • Body Temperature Regulation [see WARNINGS AND PRECAUTIONS(5.13)] • Suicide [see WARNINGS AND PRECAUTIONS (5.14)] • Dysphagia [see WARNINGS AND PRECAUTIONS (5.15)] The most common adverse reactions in adult patients in clinical trials (≥10%) were nausea, vomiting, constipation, headache, dizziness, akathisia, anxiety, insomnia, and restlessness.
+
+The following adverse reactions are discussed in more detail in other sections of the labeling:
+
+• Increased Mortality in Elderly Patients with Dementia-Related Psychosis [see BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1)]
+
+• Cerebrovascular Adverse Events, Including Stroke [see WARNINGS AND PRECAUTIONS (5.2)]
+
+• Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults [see BOXED WARNING and WARNINGS AND PRECAUTIONS (5.3)]
+
+• Neuroleptic Malignant Syndrome (NMS) [see WARNINGS AND PRECAUTIONS (5.4)]
+
+• Tardive Dyskinesia [see WARNINGS AND PRECAUTIONS (5.5)]
+
+• Metabolic Changes [see WARNINGS AND PRECAUTIONS (5.6)] • Pathological Gambling and Other Compulsive Behaviors [see WARNINGS AND PRECAUTIONS (5.12)] • Orthostatic Hypotension [see WARNINGS AND PRECAUTIONS (5.8)]
+
+• Falls [see WARNINGS AND PRECAUTIONS (5.9)]
+
+• Leukopenia, Neutropenia, and Agranulocytosis [see WARNINGS AND PRECAUTIONS (5.10)]
+
+• Seizures/Convulsions [see WARNINGS AND PRECAUTIONS (5.11)] • Potential for Cognitive and Motor Impairment [see WARNINGS AND PRECAUTIONS (5.12)] • Body Temperature Regulation [see WARNINGS AND PRECAUTIONS (5.13)] • Suicide [see WARNINGS AND PRECAUTIONS (5.14)] • Dysphagia [see WARNINGS AND PRECAUTIONS (5.15)]
+
+The most common adverse reactions in adult patients in clinical trials (≥10%) were nausea, vomiting, constipation, headache, dizziness, akathisia, anxiety, insomnia, and restlessness.
+
 The most common adverse reactions in the pediatric clinical trials (≥10%) were somnolence, headache, vomiting, extrapyramidal disorder, fatigue, increased appetite, insomnia, nausea, nasopharyngitis, and weight increased.
+
 Aripiprazole has been evaluated for safety in 13,543 adult patients who participated in multiple-dose, clinical trials in schizophrenia, other indications, Dementia of the Alzheimer's type, Parkinson's disease, and alcoholism, and who had approximately 7619 patient-years of exposure to oral aripiprazole tablets.
 A total of 3390 patients were treated with oral aripiprazole tablets for at least 180 days and 1933 patients treated with oral aripiprazole tablets had at least 1 year of exposure.
+
 Aripiprazole has been evaluated for safety in 1,686 patients (6 to 18 years) who participated in multiple-dose, clinical trials in schizophrenia, or other indications and who had approximately 1,342 patient-years of exposure to oral aripiprazole.
 A total of 959 pediatric patients were treated with oral aripiprazole for at least 180 days and 556 pediatric patients treated with oral aripiprazole had at least 1 year of exposure.
+
 The conditions and duration of treatment with aripiprazole tablets included (in overlapping categories) double-blind, comparative and noncomparative open-label studies, inpatient and outpatient studies, fixed- and flexible-dose studies, and short- and longer-term exposure.
+
 Additional pediatric use information is approved for Otsuka America Pharmaceutical, Inc.'s ABILIFY ® (aripiprazole) product.
 However, due to Otsuka America Pharmaceutical, Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.
 

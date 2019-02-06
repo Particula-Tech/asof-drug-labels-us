@@ -1,4 +1,4 @@
-# MEDICATION GUIDE
+# SPL MEDGUIDE SECTION
 
 Aripiprazole Tablets
 
