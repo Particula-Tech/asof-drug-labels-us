@@ -26,7 +26,7 @@ This appeared to confirm the higher risk of gallbladder disease seen in clofibra
 
 The Helsinki Heart Study was a large (n = 4081) study of middle-aged men without a history of coronary artery disease.
 Subjects received either placebo or gemfibrozil for 5 years, with a 3.5 year open extension afterward.
-Total mortality was numerically higher in the gemfibrozil randomization group but did not achieve statistical significance (p = 0.19, 95% confidence interval for relative risk G:P = 0.91-1.64).
+Total mortality was numerically higher in the gemfibrozil randomization group but did not achieve statistical significance (p = 0.19, 95% confidence interval for relative risk G:P =.91-1.64).
 Although cancer deaths trended higher in the gemfibrozil group (p = 0.11), cancers (excluding basal cell carcinoma) were diagnosed with equal frequency in both study groups.
 Due to the limited size of the study, the relative risk of death from any cause was not shown to be different than that seen in the 9 year follow-up data from World Health Organization study (RR = 1.29).
 

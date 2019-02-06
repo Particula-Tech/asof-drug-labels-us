@@ -92,7 +92,7 @@ Based on these findings, the use of fenofibrate tablets should be avoided in pat
 
 No pharmacokinetic studies have been conducted in patients with hepatic impairment.
 
-### Drug-drug Interactions
+### Drug-Drug Interactions
 
 In vitro studies using human liver microsomes indicate that fenofibrate and fenofibric acid are not inhibitors of cytochrome (CYP) P450 isoforms CYP3A4, CYP2D6, CYP2E1, or CYP1A2.
 They are weak inhibitors of CYP2C8, CYP2C19 and CYP2A6, and mild-to-moderate inhibitors of CYP2C9 at therapeutic concentrations.
