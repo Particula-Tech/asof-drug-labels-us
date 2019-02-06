@@ -1,62 +1,54 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-The adverse reactions listed below have been reported during domestic and international clinical trials in approximately 2500 patients.
-In those controlled clinical trials in which famotidine tablets were compared to placebo, the incidence of adverse experiences in the group which received famotidine tablets, 40 mg at bedtime, was similar to that in the placebo group.
+## 6.1 Clinical Trial Experience
 
-The following adverse reactions have been reported to occur in more than 1% of patients on therapy with famotidine in controlled clinical trials, and may be causally related to the drug: headache (4.7%), dizziness (1.3%), constipation (1.2%) and diarrhea (1.7%).
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The following other adverse reactions have been reported infrequently in clinical trials or since the drug was marketed.
-The relationship to therapy with famotidine has been unclear in many cases.
-Within each category the adverse reactions are listed in order of decreasing severity:
+Famotidine tablets was studied in 7 US and international placebo- and active-controlled trials in approximately 2500 patients [see Clinical Studies (14)].
+A total of 1442 patients were treated with famotidine tablets, including 302 treated with 40 mg twice daily, 456 treated with 20 mg twice daily, 461 treated with 40 mg once daily, and 396 treated with 20 mg once daily.
+The population was 17-91 years old, fairly well distributed between gender and race; however, the predominant race treated was Caucasian.
 
-## Body as a Whole
+The following adverse reactions occurred in greater than or equal to 1% of famotidine tablets-treated patients: headache, dizziness and constipation.
 
-Fever, asthenia, fatigue
+The following other adverse reactions were reported in less than 1% of patients in clinical trials:
 
-## Cardiovascular
+Body as a Whole: fever, asthenia, fatigue
 
-Arrhythmia, AV block, palpitation.
-Prolonged QT interval, in patients with impaired renal function, has been reported very rarely.
+Cardiovascular: palpitations
 
-## Gastrointestinal
+Gastrointestinal: elevated liver enzymes, vomiting, nausea, abdominal discomfort, anorexia, dry mouth
 
-Cholestatic jaundice, hepatitis, liver enzyme abnormalities, vomiting, nausea, abdominal discomfort, anorexia, dry mouth
+Hematologic: thrombocytopenia
 
-## Hematologic
+Hypersensitivity: orbital edema, rash, conjunctival injection, bronchospasm
 
-Rare cases of agranulocytosis, pancytopenia, leukopenia, thrombocytopenia
+Musculoskeletal: musculoskeletal pain, arthralgia
 
-## Hypersensitivity
+Nervous System/Psychiatric: seizure, hallucinations, depression, anxiety, decreased libido, insomnia, somnolence
 
-Anaphylaxis, angioedema, orbital or facial edema, urticaria, rash, conjunctival injection
+Skin: pruritus, dry skin, flushing
 
-## Musculoskeletal
+Special Senses: tinnitus, taste disorder
 
-Rhabdomyolysis, musculoskeletal pain including muscle cramps, arthralgia
+Other: impotence
 
-## Nervous System/Psychiatric
+## 6.2 Postmarketing Experience
 
-Grand mal seizure; psychic disturbances, which were reversible in cases for which follow-up was obtained, including hallucinations, confusion, agitation, depression, anxiety, decreased libido; paresthesia; insomnia; somnolence.
-Convulsions, in patients with impaired renal function, have been reported very rarely.
+The following adverse reactions have been identified during post-approval use of famotidine.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-## Respiratory
+Cardiovascular: arrhythmia, AV block, prolonged QT interval
 
-Bronchospasm, interstitial pneumonia
+Gastrointestinal: cholestatic jaundice, hepatitis
 
-## Skin
+Hematologic: agranulocytosis, pancytopenia, leukopenia
 
-Toxic epidermal necrolysis/Stevens-Johnson syndrome (very rare), alopecia, acne, pruritus, dry skin, flushing
+Hypersensitivity: anaphylaxis, angioedema, facial edema, urticaria
 
-## Special Senses
+Musculoskeletal: rhabdomyolysis, muscle cramps
 
-Tinnitus, taste disorder
+Nervous System/Psychiatric: confusion, agitation, paresthesia
 
-## Other
+Respiratory: interstitial pneumonia
 
-Rare cases of impotence and rare cases of gynecomastia have been reported; however, in controlled clinical trials, the incidences were not greater than those seen with placebo.
-
-The adverse reactions reported for famotidine tablets may also occur with famotidine for oral suspension.
-
-## Pediatric Patients
-
-In a clinical study in 35 pediatric patients < 1 year of age with GERD symptoms [e.g., vomiting (spitting up), irritability (fussing)], agitation was observed in 5 patients on famotidine that resolved when the medication was discontinued.
+Skin: toxic epidermal necrolysis/Stevens-Johnson syndrome

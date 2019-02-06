@@ -1,0 +1,109 @@
+# 14 CLINICAL STUDIES
+
+## 14.1 Active Duodenal Ulcer
+
+In a U.S. multicenter, double-blind trial in adult outpatients with endoscopically confirmed duodenal ulcer (DU), orally administered famotidine was compared to placebo.
+As shown in Table 4, 70% of patients treated with famotidine 40 mg at bedtime were healed by Week 4.
+Most patients’ DU healed within 4 weeks.
+
+Patients not healed by Week 4 were continued in the trial.
+By Week 8, 83% of patients treated with famotidine tablets had healed DU, compared to 45% of patients treated with placebo.
+The incidence of DU healing with famotidine tablets was greater than with placebo at each time point based on proportion of endoscopically confirmed healed DUs.
+Trials have not assessed the safety of famotidine tablets in uncomplicated active DU for periods of more than 8 weeks.
+
+Table 4: Patients with Endoscopically Confirmed Healed Duodenal Ulcers
+
+|  | Famotidine 40 mg at bedtime (N=89) | Famotidine 20 mg twice daily (N=84) | Placebo at bedtime (N=97) |
+| --- | --- | --- | --- |
+| Week 2 | 32%a | 38%a | 17% |
+| Week 4 | 70%a | 67%a | 31% |
+
+a p<0.001 vs. placebo
+
+In this study, time to relief of daytime and nocturnal pain was shorter for patients receiving famotidine than for patients receiving placebo; patients receiving famotidine also took less antacid than patients receiving placebo.
+
+## 14.2 Active Gastric Ulcer
+
+In both a U.S. and an international multicenter, double-blind trials in patients with endoscopically confirmed active gastric ulcer (GU), orally administered famotidine 40 mg at bedtime was compared to placebo.
+Antacids were permitted during the trials, but consumption was not significantly different between the famotidine and placebo groups.
+
+As shown in Table 5, the incidence of GU healing confirmed by endoscopy (dropouts counted as unhealed) with famotidine was greater than placebo at Weeks 6 and 8 in the U.S. trial, and at Weeks 4, 6 and 8 in the international trial.
+In these trials, most famotidine tablets-treated patients healed within 6 weeks.
+Trials have not assessed the safety of famotidine tablets in uncomplicated active GU for periods of more than 8 weeks.
+
+Table 5: Patients with Endoscopically Confirmed Healed Gastric Ulcers
+
+|  | U.S. Study (N=149) |  | International Study (N=294) |  |
+| --- | --- | --- | --- | --- |
+| Famotidine 40 mg at bedtime (N=74) | Placebo at bedtime (N=75) | Famotidine 40 mg at bedtime (N=149) | Placebo at bedtime (N=145) |  |
+| Week 4 | 45% | 39% | 47%a | 31% |
+| Week 6 | 66%a | 44% | 65%a | 46% |
+| Week 8 | 78%b | 64% | 80%a | 54% |
+
+a p≤0.01 vs. placebo
+
+b p≤0.05 vs. placebo
+
+Time to complete relief of daytime and nighttime pain was statistically significantly shorter for patients receiving famotidine than for patients receiving placebo; however, neither trial demonstrated a statistically significant difference in the proportion of patients whose pain was relieved by the end of the trial (Week 8).
+
+## 14.3 Symptomatic Gastroesophageal Reflux Disease (GERD)
+
+Orally administered famotidine was compared to placebo in a U.S. trial that enrolled patients with symptoms of GERD and without endoscopic evidence of esophageal erosion or ulceration.
+As shown in Table 6, patients treated with famotidine 20 mg twice daily had greater improvement in symptomatic GERD than patients treated with 40 mg at bedtime or placebo.
+
+Table 6: Patients with Improvement of Symptomatic GERD (N=376)
+
+|  | Famotidine 20 mg twice daily (N=154) | Famotidine 40 mg at bedtime (N=149) | Placebo at bedtime (N=73) |
+| --- | --- | --- | --- |
+| Week 6 | 82%a | 69% | 62% |
+
+a p≤0.01 vs. placebo
+
+## 14.4 Erosive Esophagitis due to GERD
+
+Healing of endoscopically verified erosion and symptomatic improvement were studied in a U.S. and an international double-blind trials.
+Healing was defined as complete resolution of all erosions visible with endoscopy.
+The U.S. trial comparing orally administered famotidine 40 mg twice daily to placebo and orally administered famotidine 20 mg twice daily showed a significantly greater percentage of healing of erosive esophagitis for famotidine 40 mg twice daily at Weeks 6 and 12 (Table 7).
+
+Table 7: Patients with Endoscopic Healing of Erosive Esophagitis - U.S. Study (N=318)
+
+|  | Famotidine 40 mg twice daily (N=127) | Famotidine 20 mg twice daily (N=125) | Placebo twice daily (N=66) |
+| --- | --- | --- | --- |
+| Week 6 | 48%a,b | 32% | 18% |
+| Week 12 | 69%a,c | 54%a | 29% |
+
+a p≤0.01 vs. placebo
+
+b p≤0.01 vs. famotidine 20 mg twice daily
+
+c p≤0.05 vs. famotidine 20 mg twice daily
+
+As compared to placebo, patients in the U.S. trial who received famotidine had faster relief of daytime and nighttime heartburn, and a greater percentage of famotidine tablets-treated patients experienced complete relief of nighttime heartburn.
+These differences were statistically significant.
+
+In the international trial, when orally administered famotidine 40 mg twice daily was compared to orally administered ranitidine 150 mg twice daily, a statistically significantly greater percentage of healing of erosive esophagitis was observed with famotidine 40 mg twice daily at Week 12 (Table 8).
+There was, however, no significant difference in symptom relief among treatment groups.
+
+Table 8: Patients with Endoscopic Healing of Erosive Esophagitis - International Study (N=440)
+
+|  | Famotidine40 mg twice daily (N=175) | Famotidine20 mg twice daily (N=93) | Ranitidine150 mg twice daily (N=172) |
+| --- | --- | --- | --- |
+| Week 6 | 48% | 52% | 42% |
+| Week 12 | 71%a | 68% | 60% |
+
+a p≤0.05 vs ranitidine 150 mg twice daily
+
+## 14.5 Pathological Hypersecretory Conditions
+
+In trials of patients with pathological hypersecretory conditions such as Zollinger-Ellison syndrome with or without multiple endocrine neoplasias, famotidine significantly inhibited gastric acid secretion and controlled associated symptoms.
+Orally administered famotidine dosages from 20 mg to 160 mg every 6 hours maintained basal acid secretion below 10 mEq/hour; initial dosages were titrated to the individual patient need and subsequent adjustments were necessary with time in some patients.
+
+## 14.6 Risk Reduction of Duodenal Ulcer Recurrence
+
+Two randomized, double-blind, multicenter trials in patients with endoscopically confirmed healed DUs demonstrated that patients receiving treatment with orally administered famotidine 20 mg at bedtime had lower rates of DU recurrence, as compared with placebo.
+
+- In the U.S. trial, DU recurrence within 12 months was 2.4 times greater in patients treated with placebo than in the patients treated with famotidine.
+  The 89 famotidine tablets-treated patients had a cumulative observed DU recurrence rate of 23%, compared to a 57% in the 89 patients receiving placebo (p<0.01).
+- In the international trial, the cumulative observed DU recurrence within 12 months in the 307 famotidine tablets-treated patients was 36%, compared to 76% in the 325 patients who received placebo (p<0.01).
+
+Controlled trials have not extended beyond one year.

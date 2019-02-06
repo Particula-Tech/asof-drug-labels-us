@@ -1,4 +1,4 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Famotidine Tablets USP, 20 mg are available as beige, round, unscored, film-coated tablets, debossed with “5728” on one side and “TEVA” on the other side, containing 20 mg famotidine, packaged in bottles of 100 (NDC 0172-5728-60), 500 (NDC 0172-5728-70) and 1000 (NDC 0172-5728-80) tablets.
 
@@ -11,18 +11,3 @@ Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 Avoid storage of famotidine tablets at temperatures above 40°C (104°F).
 
 KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
-
-Manufactured In Croatia By:
-
-PLIVA HRVATSKA d.o.o.
-
-Zagreb, Croatia
-
-Manufactured For:
-
-TEVA PHARMACEUTICALS USA, INC.
-
-North Wales, PA 19454
-
-Rev.
-E 5/2016

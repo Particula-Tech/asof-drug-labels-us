@@ -1,6 +1,6 @@
 # Package/Label Display Panel
 
-## Famotidine Tablets USP 20mg 100s Label Text
+Famotidine Tablets USP 20mg 100s Label Text
 
 NDC 0172-5728-60
 
@@ -14,7 +14,7 @@ TEVA
 
 # Package/Label Display Panel
 
-## Famotidine Tablets USP 40mg 100s Label Text
+Famotidine Tablets USP 40mg 100s Label Text
 
 NDC 0172-5729-60
 
