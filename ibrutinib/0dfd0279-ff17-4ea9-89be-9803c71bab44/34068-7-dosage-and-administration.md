@@ -15,9 +15,9 @@ The recommended dose of IMBRUVICA for MCL and MZL is 560 mg orally once daily un
 
 Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma and Waldenström's Macroglobulinemia
 
-The recommended dose of IMBRUVICA for CLL/SLL and WM as a single agent, in combination with rituximab for WM, or in combination with bendamustine and rituximab for CLL/SLL is 420 mg orally once daily until disease progression or unacceptable toxicity.
+The recommended dose of IMBRUVICA for CLL/SLL and WM as a single agent, in combination with rituximab for WM, or in combination with bendamustine and rituximab or with obinutuzumab for CLL/SLL is 420 mg orally once daily until disease progression or unacceptable toxicity.
 
-When administering IMBRUVICA in combination with rituximab, consider administering IMBRUVICA prior to rituximab when given on the same day.
+When administering IMBRUVICA in combination with rituximab or obinutuzumab, consider administering IMBRUVICA prior to rituximab or obinutuzumab when given on the same day.
 
 Chronic Graft versus Host Disease
 

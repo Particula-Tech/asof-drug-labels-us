@@ -11,9 +11,9 @@ At baseline, 39% of subjects had at least one tumor ≥ 5 cm, 49% had bone marro
 IMBRUVICA was administered orally at 560 mg once daily until disease progression or unacceptable toxicity.
 Tumor response was assessed according to the revised International Working Group (IWG) for non-Hodgkin's lymphoma (NHL) criteria.
 The primary endpoint in this study was investigator-assessed overall response rate (ORR).
-Responses to IMBRUVICA are shown in Table 16.
+Responses to IMBRUVICA are shown in Table 17.
 
-Table 16: Overall Response Rate (ORR) and Duration of Response (DOR) Based on Investigator Assessment in Patients with MCL in Study 1104
+Table 17: Overall Response Rate (ORR) and Duration of Response (DOR) Based on Investigator Assessment in Patients with MCL in Study 1104
 
 |  | Total (N=111) |
 | --- | --- |
@@ -36,7 +36,7 @@ The onset of isolated lymphocytosis occurs during the first few weeks of IMBRUVI
 
 ## 14.2 Chronic Lymphocytic Leukemia / Small Lymphocytic Lymphoma
 
-The safety and efficacy of IMBRUVICA in patients with CLL/SLL were demonstrated in one uncontrolled trial and three randomized, controlled trials.
+The safety and efficacy of IMBRUVICA in patients with CLL/SLL were demonstrated in one uncontrolled trial and four randomized, controlled trials.
 
 Study 1102
 
@@ -57,7 +57,7 @@ RESONATE
 
 The RESONATE study (A Randomized, Multicenter, Open-label, Phase 3 Study of the Bruton's Tyrosine Kinase (BTK) Inhibitor Ibrutinib versus Ofatumumab in Patients with Relapsed or Refractory Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma) (NCT01578707) was conducted in patients with previously treated CLL or SLL.
 Patients (n=391) were randomized 1:1 to receive either IMBRUVICA 420 mg daily until disease progression, or unacceptable toxicity or ofatumumab at an initial dose of 300 mg, followed one week later by a dose of 2000 mg weekly for 7 doses and then every 4 weeks for 4 additional doses.
-Fifty seven patients randomized to ofatumumab crossed over following progression to receive IMBRUVICA.
+Fifty-seven patients randomized to ofatumumab crossed over following progression to receive IMBRUVICA.
 The median age was 67 years (range, 30 to 88 years), 68% were male, and 90% were Caucasian.
 All patients had a baseline ECOG performance status of 0 or 1.
 The trial enrolled 373 patients with CLL and 18 patients with SLL.
@@ -65,9 +65,9 @@ The median time since diagnosis was 91 months and the median number of prior tre
 At baseline, 58% of patients had at least one tumor ≥ 5 cm.
 Thirty-two percent of patients had 17p deletion.
 
-Efficacy results for RESONATE are shown in Table 17 and the Kaplan-Meier curves for PFS, assessed by an IRC according to IWCLL criteria, and OS are shown in Figures 1 and 2, respectively.
+Efficacy results for RESONATE are shown in Table 18 and the Kaplan-Meier curves for PFS, assessed by an IRC according to IWCLL criteria, and OS are shown in Figures 1 and 2, respectively.
 
-Table 17: Efficacy Results in Patients with CLL/SLL in RESONATE
+Table 18: Efficacy Results in Patients with CLL/SLL in RESONATE
 
 | Endpoint | IMBRUVICA N=195 | Ofatumumab N=196 |
 | --- | --- | --- |
@@ -87,15 +87,20 @@ Figure 1: Kaplan-Meier Curve of Progression Free Survival (ITT Population) in Pa
 
 Figure 2: Kaplan-Meier Curve of Overall Survival (ITT Population) in Patients with CLL/SLL in RESONATE
 
+63-Month Follow-Up
+
+With an overall follow-up of 63 months, the median investigator-assessed PFS per IWCLL criteria was 44.1 months [95% CI (38.5, 56.9)] in the IMBRUVICA arm and 8.1 months [95% CI (7.8, 8.3)] in the ofatumumab arm, respectively.
+Overall response rate as assessed by investigators was 87.2% in the IMBRUVICA arm versus 22.4% in the ofatumumab arm.
+
 CLL/SLL with 17p deletion (del 17p CLL/SLL) in RESONATE
 
 RESONATE included 127 patients with del 17p CLL/SLL.
 The median age was 67 years (range, 30 to 84 years), 62% were male, and 88% were Caucasian.
 All patients had a baseline ECOG performance status of 0 or 1.
 PFS and ORR were assessed by an IRC.
-Efficacy results for del 17p CLL/SLL are shown in Table 18.
+Efficacy results for del 17p CLL/SLL are shown in Table 19.
 
-Table 18: Efficacy Results in Patients with del 17p CLL/SLL in RESONATE
+Table 19: Efficacy Results in Patients with del 17p CLL/SLL in RESONATE
 
 | Endpoint | IMBRUVICA N=63 | Ofatumumab N=64 |
 | --- | --- | --- |
@@ -107,6 +112,11 @@ Table 18: Efficacy Results in Patients with del 17p CLL/SLL in RESONATE
 | HR (95% CI) | 0.25 (0.14, 0.45) |  |
 | Overall Response Ratea | 47.6% | 4.7% |
 | a IRC evaluated. All partial responses achieved; none of the patients achieved a complete response. CI = confidence interval; HR = hazard ratio; NE = not evaluable |  |  |
+
+63-Month Follow-Up
+
+With an overall follow-up of 63 months, the median investigator-assessed PFS in patients with del 17p per IWCLL criteria was 40.6 months [95% CI (25.4, 44.6)] in the IMBRUVICA arm and 6.2 months [95% CI (4.6, 8.1)] in the ofatumumab arm, respectively.
+Overall response rate as assessed by investigators in patients with del 17p was 88.9% in the IMBRUVICA arm versus 18.8% in the ofatumumab arm.
 
 RESONATE-2
 
@@ -122,9 +132,9 @@ The most common reasons for initiating CLL therapy include: progressive marrow f
 With a median follow-up of 28.1 months, there were 32 observed death events [11 (8.1%) and 21 (15.8%) in IMBRUVICA and chlorambucil treatment arms, respectively].
 With 41% of patients switching from chlorambucil to IMBRUVICA, the overall survival analysis in the ITT patient population resulted in a statistically significant HR of 0.44 [95% CI (0.21, 0.92)] and 2-year survival rate estimates of 94.7% [95% CI (89.1, 97.4)] and 84.3% [95% CI (76.7, 89.6)] in the IMBRUVICA and chlorambucil arms, respectively.
 
-Efficacy results for RESONATE-2 are shown in Table 19 and the Kaplan-Meier curve for PFS, assessed by an IRC according to IWCLL criteria is shown in Figure 3.
+Efficacy results for RESONATE-2 are shown in Table 20 and the Kaplan-Meier curve for PFS, assessed by an IRC according to IWCLL criteria is shown in Figure 3.
 
-Table 19: Efficacy Results in Patients with CLL/SLL in RESONATE-2
+Table 20: Efficacy Results in Patients with CLL/SLL in RESONATE-2
 
 | Endpoint | IMBRUVICA N=136 | Chlorambucil N=133 |
 | --- | --- | --- |
@@ -140,12 +150,16 @@ Table 19: Efficacy Results in Patients with CLL/SLL in RESONATE-2
 
 Figure 3: Kaplan-Meier Curve of Progression-Free Survival (ITT Population) in Patients with CLL/SLL in RESONATE-2
 
+55-Month Follow-Up
+
+With an overall follow-up of 55 months, the median PFS was not reached in the IMBRUVICA arm.
+
 HELIOS
 
 The HELIOS study (Randomized, Double-blind, Placebo-controlled Phase 3 Study of Ibrutinib, a Bruton's Tyrosine Kinase (BTK) Inhibitor, in Combination with Bendamustine and Rituximab (BR) in Subjects with Relapsed or Refractory Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma) (NCT01611090) was conducted in patients with previously treated CLL or SLL.
 Patients (n = 578) were randomized 1:1 to receive either IMBRUVICA 420 mg daily or placebo in combination with BR until disease progression, or unacceptable toxicity.
 All patients received BR for a maximum of six 28-day cycles.
-Bendamustine was dosed at 70 mg/m2 infused IV over 30 minutes on Cycle 1, Days 2 and 3, and on Cycles 2-6, Days 1 and 2 for up to 6 cycles.
+Bendamustine was dosed at 70 mg/m2 infused IV over 30 minutes on Cycle 1, Days 2 and 3, and on Cycles 2-6, Days 1 and 2 for up to 6 cycles, and all patients had a CrCl ≥ 40 mL/min at baseline.
 Rituximab was administered at a dose of 375 mg/m2 in the first cycle, Day 1, and 500 mg/m2 Cycles 2 through 6, Day 1.
 
 The median age was 64 years (range, 31 to 86 years), 66% were male, and 91% were Caucasian.
@@ -153,9 +167,9 @@ All patients had a baseline ECOG performance status of 0 or 1.
 The median time since diagnosis was 5.9 years and the median number of prior treatments was 2 (range, 1 to 11 treatments).
 At baseline, 56% of patients had at least one tumor ≥ 5 cm and 26% presented with del11q.
 
-Efficacy results for HELIOS are shown in Table 20 and the Kaplan-Meier curves for PFS are shown in Figure 4.
+Efficacy results for HELIOS are shown in Table 21 and the Kaplan-Meier curves for PFS are shown in Figure 4.
 
-Table 20: Efficacy Results in Patients with CLL/SLL in HELIOS
+Table 21: Efficacy Results in Patients with CLL/SLL in HELIOS
 
 | Endpoint | IMBRUVICA + BR N=289 | Placebo + BR N=289 |
 | --- | --- | --- |
@@ -168,11 +182,47 @@ Table 20: Efficacy Results in Patients with CLL/SLL in HELIOS
 
 Figure 4: Kaplan-Meier Curve of Progression-Free Survival (ITT Population) in Patients with CLL/SLL in HELIOS
 
+iLLUMINATE
+
+The iLLUMINATE study (a multi-center study of ibrutinib in combination with obinutuzumab versus chlorambucil in combination with obinutuzumab) (NCT02264574) was conducted in patients with treatment naïve CLL or SLL.
+Patients were 65 years of age or older or < 65 years of age with coexisting medical conditions, reduced renal function as measured by creatinine clearance < 70 mL/min, or presence of del 17p/TP53 mutation.
+Patients (n = 229) were randomized 1:1 to receive either IMBRUVICA 420 mg daily until disease progression or unacceptable toxicity or chlorambucil at a dose of 0.5 mg/kg on Days 1 and 15 of each 28-day cycle for 6 cycles.
+In both arms, patients received 1,000 mg of obinutuzumab on Days 1, 8, and 15 of the first cycle, followed by treatment on the first day of 5 subsequent cycles (total of 6 cycles, 28 days each).
+The first dose of obinutuzumab was divided between Day 1 (100 mg) and Day 2 (900 mg).
+
+The median age was 71 years (range, 40 to 87 years), 64% were male, and 96% were Caucasian.
+All patients had a baseline ECOG performance status of 0 (48%) or 1-2 (52%).
+The trial enrolled 214 patients with CLL and 15 patients with SLL.
+At baseline, 65% of patients presented with CLL/SLL with high risk factors (del 17p/TP53 mutation [18%], del 11q [15%], or unmutated immunoglobulin heavy-chain variable region (unmutated IGHV) [54%]).
+The most common reasons for initiating CLL therapy included: lymphadenopathy (38%), night sweats (34%), progressive marrow failure (31%), fatigue (29%), splenomegaly (25%), and progressive lymphocytosis (21%).
+
+With a median follow-up time on study of 31 months, efficacy results for iLLUMINATE assessed by an IRC according to IWCLL criteria are shown in Table 22, and the Kaplan-Meier curve for PFS is shown in Figure 5.
+
+Table 22: Efficacy Results in Patients with CLL/SLL in iLLUMINATE
+
+| Endpoint | IMBRUVICA + Obinutuzumab N=113 | Chlorambucil + Obinutuzumab N=116 |
+| --- | --- | --- |
+| Progression Free SurvivalIRC-evaluated |  |  |
+| Number of events (%) | 24 (21) | 74 (64) |
+| Disease progression | 11 | 64 |
+| Death events | 13 | 10 |
+| Median (95% CI), months | NE | 19.0 (15.1, 22.1) |
+| HR (95% CI) | 0.23 (0.15, 0.37) |  |
+| P-valueP-value is from unstratified log-rank test | <0.0001 |  |
+| Overall Response Rate (%) | 88.5 | 73.3 |
+| CRIncludes 1 patient in the IMBRUVICA + obinutuzumab arm with a complete response with incomplete marrow recovery (CRi) (%) | 19.5 | 7.8 |
+| PRPR = nPR +PR (%) | 69.0 | 65.5 |
+| HR = hazard ratio; NE = not evaluable |  |  |
+
+Figure 5: Kaplan-Meier Curve of Progression-Free Survival (ITT Population) in Patients with CLL/SLL in iLLUMINATE
+
+In the high risk CLL/SLL population (del 17p/TP53 mutation, del 11q, or unmutated IGHV), the PFS HR was 0.15 [95% CI (0.09, 0.27)].
+
 Lymphocytosis
 
-Upon initiation of IMBRUVICA, an increase in lymphocyte counts (i.e., ≥ 50% increase from baseline and above absolute lymphocyte count of 5,000/mcL) occurred in 66% of patients in the CLL studies.
+Upon initiation of single-agent IMBRUVICA, an increase in lymphocyte counts (i.e., ≥ 50% increase from baseline and above absolute lymphocyte count of 5,000/mcL) occurred in 66% of patients in the CLL studies.
 The onset of isolated lymphocytosis occurs during the first month of IMBRUVICA therapy and resolves by a median of 14 weeks (range, 0.1 to 104 weeks).
-When IMBRUVICA was administered with chemoimmunotherapy, lymphocytosis was 7% with IMBRUVICA + BR versus 6% with placebo + BR.
+When IMBRUVICA was administered in combination, lymphocytosis was 7% with IMBRUVICA + BR versus 6% with placebo + BR and 7% with IMBRUVICA + obinutuzumab versus 1% with chlorambucil + obinutuzumab.
 
 ## 14.3 Waldenström's Macroglobulinemia
 
@@ -188,9 +238,9 @@ At baseline, the median serum IgM value was 3.5 g/dL (range, 0.7 to 8.4 g/dL).
 
 IMBRUVICA was administered orally at 420 mg once daily until disease progression or unacceptable toxicity.
 The responses were assessed by investigators and an IRC using criteria adopted from the International Workshop of Waldenström's Macroglobulinemia.
-Responses, defined as partial response or better, per IRC are shown in Table 21.
+Responses, defined as partial response or better, per IRC are shown in Table 23.
 
-Table 21: Response Rate and Duration of Response (DOR) Based on IRC Assessment in Patients with WM in Study 1118
+Table 23: Response Rate and Duration of Response (DOR) Based on IRC Assessment in Patients with WM in Study 1118
 
 |  | Total (N=63) |
 | --- | --- |
@@ -224,9 +274,9 @@ Forty-five percent of patients were treatment naïve, and 55% of patients were p
 Among previously treated patients, the median number of prior treatments was 2 (range, 1 to 6 treatments).
 At baseline, the median serum IgM value was 3.2 g/dL (range, 0.6 to 8.3 g/dL), and MYD88 L265P mutations were present in 77% of patients, absent in 13% of patients, and 9% of patients were not evaluable for mutation status.
 
-Efficacy results for INNOVATE as assessed by an IRC are shown in Table 22, and the Kaplan-Meier curves for PFS are shown in Figure 5.
+Efficacy results for INNOVATE as assessed by an IRC are shown in Table 24, and the Kaplan-Meier curves for PFS are shown in Figure 6.
 
-Table 22: Efficacy Results in Patients with WM in INNOVATE
+Table 24: Efficacy Results in Patients with WM in INNOVATE
 
 | Endpoint | IMBRUVICA + R N=75 | Placebo + R N=75 |
 | --- | --- | --- |
@@ -243,7 +293,7 @@ Table 22: Efficacy Results in Patients with WM in INNOVATE
 | Median duration of response, months (range) | NE (1.9+, 36.4+) | 21.2 (4.6, 25.8) |
 | CI = confidence interval; HR = hazard ratio; NE = not evaluable; R = rituximab |  |  |
 
-| Figure 5: Kaplan-Meier Curve of Progression-Free Survival (ITT Population) in Patients with WM in INNOVATE |
+| Figure 6: Kaplan-Meier Curve of Progression-Free Survival (ITT Population) in Patients with WM in INNOVATE |
 | --- |
 
 An exploratory analysis demonstrated a sustained hemoglobin improvement (defined as increase of ≥ 2 g/dL over baseline for at least 8 weeks without blood transfusions or growth factor support) in 65% of patients in the IMBRUVICA + R group and 39% of patients in the placebo + R group.
@@ -258,9 +308,9 @@ The median time since diagnosis was 3.8 years, and the median number of prior tr
 
 IMBRUVICA was administered orally at 560 mg once daily until disease progression or unacceptable toxicity.
 The responses were assessed by investigators and an IRC using criteria adopted from the International Working Group criteria for malignant lymphoma.
-Responses per IRC are shown in Table 23.
+Responses per IRC are shown in Table 25.
 
-Table 23: Overall Response Rate (ORR) and Duration of Response (DOR) Based on IRC Assessment in Patients with MZL in Study 1121
+Table 25: Overall Response Rate (ORR) and Duration of Response (DOR) Based on IRC Assessment in Patients with MZL in Study 1121
 
 |  | Total (N=63) |
 | --- | --- |
@@ -286,9 +336,9 @@ Prophylaxis for infections were managed per institutional guidelines with 79% of
 
 IMBRUVICA was administered orally at 420 mg once daily.
 The responses were assessed by investigators using the 2005 National Institute of Health (NIH) Consensus Panel Response Criteria with two modifications to align with the updated 2014 NIH Consensus Panel Response Criteria.
-Efficacy results are shown in Table 24.
+Efficacy results are shown in Table 26.
 
-Table 24: Best Overall Response Rate (ORR) and Sustained Response Rate Based on Investigator Assessmenta in Patients with cGVHD in Study 1129
+Table 26: Best Overall Response Rate (ORR) and Sustained Response Rate Based on Investigator Assessmenta in Patients with cGVHD in Study 1129
 
 |  | Total (N=42) |
 | --- | --- |

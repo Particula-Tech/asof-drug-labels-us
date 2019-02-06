@@ -31,7 +31,7 @@ The dose of 15 mg/kg/day in rabbits is approximately 2.0 times the exposure (AUC
 
 Risk Summary
 
-There is no information regarding the presence of ibrutinib or its metabolites in human milk, the effects on the breastfed infant, or the effects on milk production.
+There is no information regarding the presence of ibrutinib or its metabolites in human milk, the effects on the breastfed child, or the effects on milk production.
 
 The development and health benefits of breastfeeding should be considered along with the mother's clinical need for IMBRUVICA and any potential adverse effects on the breastfed child from IMBRUVICA or from the underlying maternal condition.
 
@@ -39,7 +39,7 @@ The development and health benefits of breastfeeding should be considered along 
 
 Pregnancy Testing
 
-Verify the pregnancy status of females of reproductive potential prior to initiating IMBRUVICA therapy.
+Conduct pregnancy testing in females of reproductive potential prior to initiating IMBRUVICA therapy.
 
 Contraception
 
@@ -55,13 +55,12 @@ Advise men to avoid fathering a child while receiving IMBRUVICA, and for 1 month
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of IMBRUVICA in pediatric patients has not been established.
-Pediatric studies have not been completed.
 
 ## 8.5 Geriatric Use
 
-Of the 1011 patients in clinical studies of IMBRUVICA, 62% were ≥ 65 years of age, while 22% were ≥75 years of age.
+Of the 1,124 patients in clinical studies of IMBRUVICA, 64% were ≥ 65 years of age, while 23% were ≥75 years of age.
 No overall differences in effectiveness were observed between younger and older patients.
-Anemia (all grades) and Grade 3 or higher pneumonia occurred more frequently among older patients treated with IMBRUVICA.
+Anemia (all grades), pneumonia (Grade 3 or higher), thrombocytopenia, hypertension, and atrial fibrillation occurred more frequently among older patients treated with IMBRUVICA.
 
 ## 8.6 Hepatic Impairment
 
