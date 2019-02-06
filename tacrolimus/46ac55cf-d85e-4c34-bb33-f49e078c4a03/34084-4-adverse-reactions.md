@@ -103,7 +103,7 @@ Table 5 Kidney Transplantation: Adverse Reactions Occurring in ≥10% of Patient
 | Leukopenia | 13% | 10% | 10% |
 | Edema Peripheral | 11% | 12% | 13% |
 | Hyperlipidemia | 10% | 15% | 13% |
-| Key: Group A = CsA/MMF/CS, B = CsA/MMF/CS/Daclizumab, C = ac/MMF/CS/Daclizumab CsA = Cyclosporine, CS = Corticosteroids, Tac = Tacrolimus, MMF = mycophenolate mofetil |  |  |  |
+| Key: Group A = CsA/MMF/CS, B = CsA/MMF/CS/Daclizumab, C = Tac/MMF/CS/Daclizumab CsA = Cyclosporine, CS = Corticosteroids, Tac = Tacrolimus, MMF = mycophenolate mofetil |  |  |  |
 
 In the U.S. trial (Study 2) with tacrolimus-based immunosuppression in conjunction with MMF and corticosteroids, 424 kidney transplant patients received tacrolimus (n=212) or cyclosporine (n=212) in combination with MMF 1 gram twice daily, basiliximab induction, and corticosteroids.
 The trial population had a mean age of 48 years (range 17 to 77), the distribution was 63% male, and the composition was White (74%), African-American (20%), Asian (3%), and Other (3%).
@@ -390,6 +390,8 @@ Other reactions include:
 - Glycosuria, increased amylase including pancreatitis, weight decreased
 - •Miscellaneous
 - Feeling hot and cold, feeling jittery, hot flushes, multi-organ failure, primary graft dysfunction
+- •Musculoskeletal and Connective Tissue Disorders
+- Pain in extremity including Calcineurin-Inhibitor Induced Pain Syndrome (CIPS)
 - •Nervous System
 - Carpal tunnel syndrome, cerebral infarction, hemiparesis, leukoencephalopathy, mental disorder, mutism, posterior reversible encephalopathy syndrome (PRES) [see Warnings and Precautions (5.6)], progressive multifocal leukoencephalopathy (PML) [see Warnings and Precautions (5.2)], quadriplegia, speech disorder, syncope
 - •Respiratory
