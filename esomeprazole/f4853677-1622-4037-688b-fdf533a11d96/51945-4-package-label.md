@@ -6,15 +6,17 @@ NEXIUM®
 
 (esomeprazole magnesium)
 
-30 Delayed-Release Capsules
+30 Delayed-Release
+
+Capsules
 
 20 mg*
 
-*Each delayed-release capsule contains 20 mg esomeprazole
-
 Rx only
 
-Dispense the accompanying Medication Guide to each patient.
+Dispense the accompanying
+
+Medication Guide to each patient.
 
 AstraZeneca
 
@@ -26,15 +28,17 @@ NEXIUM®
 
 (esomeprazole magnesium)
 
-30 Delayed-Release Capsules
+30 Delayed-Release
+
+Capsules
 
 40 mg*
 
-*Each delayed-release capsule contains 40 mg esomeprazole
-
 Rx only
 
-Dispense the accompanying Medication Guide to each patient.
+Dispense the accompanying
+
+Medication Guide to each patient.
 
 AstraZeneca
 
@@ -48,9 +52,9 @@ NEXIUM®
 
 2.5 mg
 
-30 Single Dose Packets
+For Delayed-Release
 
-For Delayed-Release Oral Suspension
+Oral Suspension
 
 Each carton contains 30 Child-resistant packets.
 
@@ -59,6 +63,8 @@ Each carton contains 30 Child-resistant packets.
 which is equivalent to 2.5 mg of esomeprazole as enteric-coated granules.
 
 Dispense the enclosed Medication Guide to each patient.
+
+30 Single Dose Packets
 
 Rx only
 
@@ -74,9 +80,9 @@ NEXIUM®
 
 5 mg
 
-30 Single Dose Packets
+For Delayed-Release
 
-For Delayed-Release Oral Suspension
+Oral Suspension
 
 Each carton contains 30 Child-resistant packets.
 
@@ -85,6 +91,8 @@ Each carton contains 30 Child-resistant packets.
 which is equivalent to 5 mg of esomeprazole as enteric-coated granules.
 
 Dispense the enclosed Medication Guide to each patient.
+
+30 Single Dose Packets
 
 Rx only
 
@@ -100,9 +108,9 @@ NEXIUM®
 
 10 mg
 
-30 Single Dose Packets
+For Delayed-Release
 
-For Delayed-Release Oral Suspension
+Oral Suspension
 
 Each carton contains 30 Child-resistant packets.
 
@@ -111,6 +119,8 @@ Each carton contains 30 Child-resistant packets.
 which is equivalent to 10 mg of esomeprazole as enteric-coated granules.
 
 Dispense the enclosed Medication Guide to each patient.
+
+30 Single Dose Packets
 
 Rx only
 
@@ -126,9 +136,9 @@ NEXIUM®
 
 20 mg
 
-30 Single Dose Packets
+For Delayed-Release
 
-For Delayed-Release Oral Suspension
+Oral Suspension
 
 Each carton contains 30 Child-resistant packets.
 
@@ -137,6 +147,8 @@ Each carton contains 30 Child-resistant packets.
 which is equivalent to 20 mg of esomeprazole as enteric-coated granules.
 
 Dispense the enclosed Medication Guide to each patient.
+
+30 Single Dose Packets
 
 Rx only
 
@@ -152,17 +164,17 @@ NEXIUM®
 
 40 mg
 
-30 Single Dose Packets
+For Delayed-Release
 
-For Delayed-Release Oral Suspension
+Oral Suspension
 
 Each carton contains 30 Child-resistant packets.
 
-*Each packet contains 44.5 mg of esomeprazole magnesium trihydrate
-
-which is equivalent to 40 mg of esomeprazole as enteric-coated granules.
+*Each packet contains 44.5 mg of esomeprazole magnesium trihydrate which is equivalent to 40 mg of esomeprazole as enteric-coated granules.
 
 Dispense the enclosed Medication Guide to each patient.
+
+30 Single Dose Packets
 
 Rx only
 
