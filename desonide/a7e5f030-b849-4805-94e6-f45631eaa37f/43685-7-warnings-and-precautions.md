@@ -51,7 +51,7 @@ Long-term animal studies have not been performed to evaluate the carcinogenic po
 
 ## Pregnancy:
 
-Teratogenic Effects: Pregnancy category C:
+Teratogenic effects: Pregnancy category C:
 
 Corticosteroids have been shown to be teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
 Some corticosteroids have been shown to be teratogenic after dermal application in laboratory animals.

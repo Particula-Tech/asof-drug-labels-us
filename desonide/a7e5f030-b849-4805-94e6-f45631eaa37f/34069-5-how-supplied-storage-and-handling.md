@@ -15,5 +15,5 @@ DesOwen® (desonide lotion) Lotion 0.05% is supplied in bottles containing:
 Storage Conditions: Store between 2° and 30°C (36° and 86°F).
 
 Marketed by: GALDERMA LABORATORIES, L.P.
-Fort Worth, Texas 76177, USA GALDERMA is a registered trademark.
-P52472-0 Revised: May 2014
+Fort Worth, Texas 76177, USA All trademarks are the property of their respective owners.
+Made in Canada P53306-0 Revised: April 2017
