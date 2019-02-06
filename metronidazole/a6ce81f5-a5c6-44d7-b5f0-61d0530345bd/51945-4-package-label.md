@@ -30,7 +30,9 @@ Prasco Laboratories
 
 Mason, OH 45040 USA
 
-Rev.
-10/2014
+Made in Canada
 
-P51806-1
+Rev.
+1/2017
+
+P53366-0
