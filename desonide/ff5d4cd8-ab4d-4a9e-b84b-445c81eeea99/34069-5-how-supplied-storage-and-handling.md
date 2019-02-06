@@ -14,7 +14,7 @@ Desonide Lotion 0.05% is supplied in bottles containing:
 
 Storage Conditions: Store between 2° and 30°C (36° and 86°F).
 
-Distributed by:
+Marketed by:
 
-Actavis Pharma, Inc. Parsippany, NJ 07054 USA P51229-1 Rev.
-November 2014
+Actavis Pharma, Inc. Parsippany, NJ 07054 USA Made in Canada P53355-1 Rev.
+March 2018
