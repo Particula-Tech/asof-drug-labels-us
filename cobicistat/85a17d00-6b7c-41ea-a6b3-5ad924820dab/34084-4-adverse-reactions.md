@@ -21,7 +21,7 @@ The proportion of subjects who discontinued treatment with SYMTUZA or PREZCOBIX+
 
 An overview of the most frequent (occurring in at least 2% of subjects) adverse reactions irrespective of severity reported in AMBER are presented in Table 1.
 An overview of the most frequent laboratory abnormalities of at least Grade 2 severity reported in AMBER are presented in Table 2.
-Changes from baseline in lipid parameters for patients receiving SYMTUZA and those receiving PREZCOBIX and F/TDF are presented in Table 3.
+Changes from baseline in lipid parameters for patients receiving SYMTUZA and those receiving PREZCOBIX + FTC/TDF are presented in Table 3.
 
 Most adverse reactions during treatment with SYMTUZA were grade 1 or 2 in severity.
 One grade 3 reaction was reported and no grade 4 adverse reactions were reported during treatment with SYMTUZA.
@@ -41,7 +41,7 @@ Table 1: Adverse Reactions Reported in ≥2% of HIV-1 Infected Adults With No Pr
 
 Adverse Reactions in Virologically-Suppressed Adults
 
-The safety profile of SYMTUZA in virologically-suppressed HIV-1 infected adults is based on Week 48 data from 1,141 subjects in the EMERALD trial, a randomized, open-label, active-controlled trial where 763 subjects with a stable antiretroviral regimen consisting of a boosted protease inhibitor [either darunavir once daily or atazanavir (both boosted with ritonavir or cobicistat), or lopinavir with ritonavir] combined with FTC and TDF switched to SYMTUZA, and 378 subjects who continued their treatment regimen of a boosted protease inhibitor with FTC and TDF.
+The safety profile of SYMTUZA in virologically-suppressed HIV-1 infected adults is based on Week 48 data from 1,141 subjects in the EMERALD trial, a randomized, open-label, active-controlled trial where 763 subjects with a stable antiretroviral regimen consisting of a boosted protease inhibitor [either darunavir once daily or atazanavir (both boosted with ritonavir or cobicistat), or lopinavir with ritonavir] combined with FTC/TDF switched to SYMTUZA, and 378 subjects who continued their treatment regimen of a boosted protease inhibitor with FTC/TDF.
 Overall, the safety profile of SYMTUZA in subjects in this study was similar to that in subjects with no prior antiretroviral treatment history.
 The proportion of subjects who discontinued treatment with SYMTUZA due to adverse events, regardless of severity, was 1%.
 
@@ -55,7 +55,7 @@ Skin and Subcutaneous Tissue Disorders: angioedema, pruritus, Stevens-Johnson sy
 
 Metabolism and Nutrition Disorders: anorexia, diabetes mellitus, lipodystrophy
 
-Reproductive system and Breast disorders: gynecomastia
+Reproductive System and Breast Disorders: gynecomastia
 
 Musculoskeletal and Connective Tissue Disorders: myalgia, osteonecrosis
 
@@ -77,13 +77,13 @@ Table 2: Laboratory Abnormalities (Grade 2–4) Reported in ≥2% of Adults With
 | Triglycerides |  |  |  |
 | Grade 2 | 301–500 mg/dL | 7% | 4% |
 | Grade 3 | 501–1,000 mg/dL | 1% | 1% |
-| Grade 4 | > 1,000 mg/dL | <1%% | <1% |
+| Grade 4 | >1,000 mg/dL | <1% | <1% |
 | Total Cholesterol |  |  |  |
 | Grade 2 | 240–<300 mg/dL | 17% | 4% |
-| Grade 3 | >= 300 mg/dL | 2% | 1% |
+| Grade 3 | ≥ 300 mg/dL | 2% | 1% |
 | Low-Density Lipoprotein Cholesterol |  |  |  |
 | Grade 2 | 160–189 mg/dL | 9% | 4% |
-| Grade 3 | ≥ 190 mg/dL | 5% | 1% |
+| Grade 3 | ≥190 mg/dL | 5% | 1% |
 | Elevated Glucose Levels |  |  |  |
 | Grade 2 | 126–250 mg/dL | 6% | 6% |
 | Grade 3 | 251–500 mg/dL | <1% | 0 |
@@ -101,7 +101,7 @@ Subjects initiating a lipid-lowering agent post-baseline had their last fasted o
 | MeanThe change from baseline is the mean of within-subject changes from baseline for subjects with both baseline and Week 48 values, or the last value carried forward prior to initiating lipid-lowering agent post-baseline. | mg/dL | Change | mg/dL | Change |
 | Total cholesterol | 168 | +30 | 164 | +11 |
 | HDL cholesterol | 45 | +6 | 44 | +2 |
-| LDL cholesterol | 199 | +19 | 98 | +5 |
+| LDL cholesterol | 100 | +19 | 98 | +5 |
 | Triglycerides | 117 | +34 | 112 | +21 |
 | Total cholesterol to HDL ratio | 4.1 | 0.2 | 4.0 | 0.1 |
 
@@ -109,15 +109,15 @@ The percentage of subjects starting any lipid lowering drug during treatment in 
 
 Renal Laboratory Tests
 
-In the AMBER trial, which had 670 adults with no prior antiretroviral treatment history with a median baseline eGFR of 119 mL/min (SYMTUZA) and 118 mL/min (PREZCOBIX + FTC/TDF), mean (SD) serum creatinine increased by 0.05 (0.10) mg/dL in the SYMTUZA group and by 0.09 (0.11) mg/dL in the PREZCOBIX + FTC/TDF group from baseline to Week 48.
+In the AMBER trial, which had 670 adults with no prior antiretroviral treatment history with a median baseline eGFR (estimated glomerular filtration rate) of 119 mL/min (SYMTUZA) and 118 mL/min (PREZCOBIX + FTC/TDF), mean (SD) serum creatinine increased by 0.05 (0.10) mg/dL in the SYMTUZA group and by 0.09 (0.11) mg/dL in the PREZCOBIX + FTC/TDF group from baseline to Week 48.
 Median serum creatinine was 0.90 mg/dL (SYMTUZA) and 0.89 mg/dL (PREZCOBIX + FTC/TDF) at baseline and 0.95 mg/dL (SYMTUZA) and 0.97 mg/dL (PREZCOBIX +FTC/TDF) at Week 48.
 Increases in serum creatinine occurred by Week 2 of treatment and remained stable.
-Median urine protein-to-creatinine ratio (UPCR) was 47 mg per gram (SYMTUZA) and 51 mg/g (PREZCOBIX + FTC/TDF) at baseline and 30 mg per gram (SYMTUZA) and 34 mg/g (PREZCOBIX + FTC/TDF) at Week 48.
+Median urine protein-to-creatinine ratio (UPCR) was 47 mg/g (SYMTUZA) and 51 mg/g (PREZCOBIX + FTC/TDF) at baseline and 30 mg/g (SYMTUZA) and 34 mg/g (PREZCOBIX + FTC/TDF) at Week 48.
 
 In the EMERALD trial which had 1,141 virologically-suppressed adults treated with an HIV protease inhibitor and TDF containing regimen with a median baseline eGFR of 104 mL/min (SYMTUZA) and 103 mL/min (bPI+FTC/TDF) who were randomized to continue their treatment regimen or switch to SYMTUZA, at Week 48, mean serum creatinine was similar to baseline for both those continuing baseline treatment and those switching to SYMTUZA.
 Mean (SD) serum creatinine was 0.98 (0.18) mg/dL (SYMTUZA) and 0.98 (0.19) mg/dL (bPI+FTC/TDF) at baseline and 0.99 (0.18) mg/dL (SYMTUZA) and 0.99 (0.21) mg/dL (bPI+FTC/TDF) at Week 48.
 Median serum creatinine was 0.97 mg/dL (SYMTUZA) and 0.98 mg/dL (bPI+FTC/TDF) at baseline and 1.0 mg/dL (SYMTUZA) and 0.97 mg/dL (bPI+FTC/TDF) at Week 48.
-Median UPCR was 62 mg per gram (SYMTUZA) and 63 mg/g (bPI+FTC/TDF) at baseline and 37 mg per gram (SYMTUZA) and 53 mg/g (bPI+FTC/TDF) at Week 48.
+Median UPCR was 62 mg/g (SYMTUZA) and 63 mg/g (bPI+FTC/TDF) at baseline and 37 mg/g (SYMTUZA) and 53 mg/g (bPI+FTC/TDF) at Week 48.
 
 Bone Mineral Density
 

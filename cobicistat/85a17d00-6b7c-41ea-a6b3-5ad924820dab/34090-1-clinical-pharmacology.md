@@ -42,8 +42,8 @@ Table 5: Pharmacokinetic Properties of the Components of SYMTUZA
 | Absorption |  |  |  |  |
 | Tmax (h) | 3.0 | 3.0 | 1.5 | 0.5 |
 | Effect of high-fat mealApproximately 928 kcal; 504 kcal from fat (56 g), 260 kcal from carbohydrates, and 164 kcal from protein. (compared to fasting) |  |  |  |  |
-| AUClast LSmean ratio, 90% CI | 1.52 (1.32–1.76) | 1.41 (1.02–1.96) | 1.00 (0.96–1.04) | 1.12 (1.01–1.23) |
-| Cmax LSmean ratio, 90% CI | 1.82 (1.55–2.14) | 1.30 (0.94–1.80) | 0.79 (0.71–0.89) | 0.55 (0.42–0.71) |
+| AUClast LS mean ratio, 90% CI | 1.52 (1.32–1.76) | 1.41 (1.02–1.96) | 1.00 (0.96–1.04) | 1.12 (1.01–1.23) |
+| Cmax LS mean ratio, 90% CI | 1.82 (1.55–2.14) | 1.30 (0.94–1.80) | 0.79 (0.71–0.89) | 0.55 (0.42–0.71) |
 | Distribution |  |  |  |  |
 | % bound to human plasma proteins | 95Primarily alpha-1-acid glycoprotein | 97–98 | <4 | ~80 |
 | Source of protein binding data | In vitro | In vitro | In vitro | Ex vivo |
@@ -69,11 +69,11 @@ Specific Populations
 
 Geriatric Patients
 
-Darunavir: Pharmacokinetic analysis in HIV-infected subjects taking darunavir co-administered with cobicistat, emtricitabine and tenofovir alafenamide showed no considerable differences in darunavir pharmacokinetics for ages below or equal to 65 years compared to ages greater than 65 years (N=25).
+Darunavir: Pharmacokinetic analysis in HIV-infected subjects taking darunavir co-administered with cobicistat, emtricitabine, and tenofovir alafenamide showed no considerable differences in darunavir pharmacokinetics for ages below or equal to 65 years compared to ages greater than 65 years (N=25).
 
 Cobicistat and Emtricitabine: The pharmacokinetics of cobicistat and emtricitabine have not been fully evaluated in the elderly (65 years of age and older).
 
-Tenofovir alafenamide Population pharmacokinetics analysis of HIV-infected subjects in Phase 2 and Phase 3 trials of TAF combined with emtricitabine, elvitegravir and cobicistat showed that age did not have a clinically relevant effect on exposures of TAF up to 75 years of age.
+Tenofovir alafenamide Population pharmacokinetics analysis of HIV-infected subjects in Phase 2 and Phase 3 trials of TAF combined with emtricitabine, elvitegravir, and cobicistat showed that age did not have a clinically relevant effect on exposures of TAF up to 75 years of age.
 
 Gender and Race
 
@@ -84,7 +84,7 @@ Patients with Renal Impairment
 Darunavir: The pharmacokinetics of darunavir were not altered in HIV-1 infected subjects with moderate renal impairment taking darunavir co-administered with ritonavir (creatinine clearance between 30–60 mL/min, estimated by Cockcroft-Gault method, N=20).
 There are no pharmacokinetic data available in HIV-1 infected patients with severe renal impairment or end-stage renal disease taking darunavir co-administered with cobicistat [see Use in Specific Populations (8.6)].
 
-Cobicistat: There were no clinically relevant differences in cobicistat pharmacokinetics were observed between subjects with severe renal impairment (creatinine clearance below 30 mL/min, estimated by Cockcroft-Gault method) and healthy subjects [see Use in Special Populations (8.6)].
+Cobicistat: There were no clinically relevant differences in cobicistat pharmacokinetics observed between subjects with severe renal impairment (creatinine clearance below 30 mL/min, estimated by Cockcroft-Gault method) and healthy subjects [see Use in Special Populations (8.6)].
 
 Emtricitabine: Mean systemic emtricitabine exposure was higher in patients with severe renal impairment (creatinine clearance less than 30 mL/min, estimated by Cockcroft-Gault method) than in subjects with normal renal function [see Use in Special Populations (8.6)].
 
@@ -138,7 +138,7 @@ The induction effect of cobicistat on CYP2C9, CYP2C19, or UGT1A1 is unknown, but
 
 Emtricitabine is not an inhibitor of human CYP450 enzymes.
 In vitro and clinical drug interaction studies have shown that the potential for CYP-mediated interactions involving emtricitabine with other medicinal products is low.
-Tenofovir alafenamide is not an inhibitor of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 or UGT1A.
+Tenofovir alafenamide is not an inhibitor of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, or UGT1A.
 It is not an inhibitor or inducer of CYP3A in vivo.
 
 ## 12.4 Microbiology

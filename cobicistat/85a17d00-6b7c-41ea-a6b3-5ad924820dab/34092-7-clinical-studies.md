@@ -51,7 +51,7 @@ Table 9: Virologic Outcomes in EMERALD at Week 48 in HIV-1 Virologically-Suppres
 | No virologic data at Week 48 windowOther includes reasons such as withdrew consent, loss to follow-up, and non-compliance | 4% | 6% |
 | Reasons |  |  |
 | Discontinued trial due to adverse event or death | 1% | 1% |
-| Discontinued trial for other reasonsDay 295 – Day 378 | 3% | 4.% |
+| Discontinued trial for other reasonsDay 295 – Day 378 | 3% | 4% |
 | Missing data during window but on trial | 0.4% | 1% |
 
 The mean increase from baseline in CD4+ cell count at Week 48 was 20 cells/mm3 in subjects who switched to SYMTUZA and 8 cells/mm3 in subjects who stayed on their baseline PI + FTC/TDF.
