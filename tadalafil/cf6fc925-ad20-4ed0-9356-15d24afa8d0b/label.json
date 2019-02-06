@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA210255"
+  ],
+  "inn": "tadalafil",
+  "labeler": "Cipla USA Inc.",
+  "package_ndcs": [
+    "69097-526-03",
+    "69097-526-16"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "tadalafil",
+      "name": "Tadalafil"
+    }
+  ],
+  "setid": "cf6fc925-ad20-4ed0-9356-15d24afa8d0b",
+  "source": "dailymed"
+}
