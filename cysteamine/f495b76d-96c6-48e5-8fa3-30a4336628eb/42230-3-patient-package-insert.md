@@ -117,7 +117,7 @@ It may harm them.
 This patient information summarizes the most important information about CYSTAGON®.
 If you would like more information about CYSTAGON®, talk with your doctor.
 You can ask your doctor or pharmacist for information about CYSTAGON® that is written for health professionals.
-For more information call 1-877-446-3678.
+For more information call 1-877-446-3679.
 
 What are the ingredients in CYSTAGON®?
 
@@ -127,4 +127,4 @@ Inactive ingredients: ammonium hydroxide, black iron oxide, colloidal silicon di
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505
 
-Revised: 6/2018 CYST:R15p/PL:CYST:R7
+Revised: 1/2019 CYST:R16p/PL:CYST:R8p
