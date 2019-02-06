@@ -31,14 +31,18 @@ The safety and efficacy of azathioprine for the treatment of Crohn's disease and
 
 Severe leukopenia, thrombocytopenia, anemias including macrocytic anemia, and/or pancytopenia may occur in patients being treated with azathioprine.
 Severe bone marrow suppression may also occur.
-Patients with intermediate thiopurine S-methyl transferase (TPMT) activity may be at an increased risk of myelotoxicity if receiving conventional doses of azathioprine.
-Patients with low or absent TPMT activity are at an increased risk of developing severe, life-threatening myelotoxicity if receiving conventional doses of azathioprine.
-TPMT genotyping or phenotyping can help identify patients who are at an increased risk for developing azathioprine toxicity.2-9 (See PRECAUTIONS: Laboratory Tests).
 Hematologic toxicities are dose-related and may be more severe in renal transplant patients whose homograft is undergoing rejection.
 It is suggested that patients on azathioprine have complete blood counts, including platelet counts, weekly during the first month, twice monthly for the second and third months of treatment, then monthly or more frequently if dosage alterations or other therapy changes are necessary.
 Delayed hematologic suppression may occur.
 Prompt reduction in dosage or temporary withdrawal of the drug may be necessary if there is a rapid fall in or persistently low leukocyte count, or other evidence of bone marrow depression.
 Leukopenia does not correlate with therapeutic effect; therefore the dose should not be increased intentionally to lower the white blood cell count.
+
+## TPMT or NUDT15 Deficiency
+
+Patients with thiopurine S-methyl transferase (TPMT) or nucleotide diphosphatase (NUDT15) deficiency may be at an increased risk of severe and life-threatening myelotoxicity if receiving conventional doses of azathioprine (see CLINCIAL PHARMACOLOGY).
+Death associated with pancytopenia has been reported in patients with absent TPMT activity receiving azathioprine.
+In patients with severe myelosuppression, consider evaluation for TPMT and NUDT15 deficiency (see PRECAUTIONS: Laboratory Tests).
+Consider alternative therapy in patients with homozygous TPMT or NUDT15 deficiency and reduced dosages in patients with heterozygous deficiency (see DOSAGE AND ADMINISTRATION).
 
 ## Serious infections:
 
@@ -55,27 +59,28 @@ In transplant patients, consider the risk that the reduced immunosuppression rep
 
 ## Effect on Sperm in Animals:
 
-Azathioprine has been reported to cause temporary depression in spermatogenesis and reduction in sperm viability and sperm count in mice at doses 10 times the human therapeutic dose;10 a reduced percentage of fertile matings occurred when animals received 5 mg/kg.
-11
+Azathioprine has been reported to cause temporary depression in spermatogenesis and reduction in sperm viability and sperm count in mice at doses 10 times the human therapeutic dose;1 a reduced percentage of fertile matings occurred when animals received 5 mg/kg.
+2
 
 ## Pregnancy: Pregnancy Category D
 
 Azathioprine can cause fetal harm when administered to a pregnant woman.
 Azathioprine should not be given during pregnancy without careful weighing of risk versus benefit.
 Whenever possible, use of azathioprine in pregnant patients should be avoided.
-This drug should not be used for treating rheumatoid arthritis in pregnant women.12
+This drug should not be used for treating rheumatoid arthritis in pregnant women.3
 
 Azathioprine is teratogenic in rabbits and mice when given in doses equivalent to the human dose (5 mg/kg daily).
-Abnormalities included skeletal malformations and visceral anomalies.11
+Abnormalities included skeletal malformations and visceral anomalies.2
 
 Limited immunologic and other abnormalities have occurred in a few infants born of renal allograft recipients on azathioprine.
-In a detailed case report,13 documented lymphopenia, diminished IgG and IgM levels, CMV infection, and a decreased thymic shadow were noted in an infant born to a mother receiving 150 mg azathioprine and 30 mg prednisone daily throughout pregnancy.
+In a detailed case report, 4 documented lymphopenia, diminished IgG and IgM levels, CMV infection, and a decreased thymic shadow were noted in an infant born to a mother receiving 150 mg azathioprine and 30 mg prednisone daily throughout pregnancy.
 At ten weeks most features were normalized.
-DeWitte et al reported pancytopenia and severe immune deficiency in a preterm infant whose mother received 125 mg azathioprine and 12.5 mg prednisone daily14.
-There have been two published reports of abnormal physical findings.
-Williamson and Karp described an infant born with preaxial polydactyly whose mother received azathioprine 200 mg daily and prednisone 20 mg every other day during pregnancy15.
-Tallent et al described an infant with a large myelomeningocele in the upper lumbar region, bilateral dislocated hips, and bilateral talipes equinovarus.
-The father was on long-term azathioprine therapy16.
+DeWitte et al reported pancytopenia and severe immune deficiency in a preterm infant whose mother received 125 mg azathioprine and 12.5 mg prednisone daily.
+5 There have been two published reports of abnormal physical findings.
+Williamson and Karp described an infant born with preaxial polydactyly whose mother received azathioprine 200 mg daily and prednisone 20 mg every other day during pregnancy.
+6 Tallent et al described an infant with a large myelomeningocele in the upper lumbar region, bilateral dislocated hips, and bilateral talipes equinovarus.
+The father was on long-term azathioprine therapy.
+7
 
 Benefit versus risk must be weighed carefully before use of azathioprine in patients of reproductive potential.
 There are no adequate and well-controlled studies in pregnant women.
@@ -113,12 +118,19 @@ Early drug discontinuation in these patients is advisable.
 TPMT TESTING CANNOT SUBSTITUTE FOR COMPLETE BLOOD COUNT (CBC) MONITORING IN PATIENTS RECEIVING AZATHIOPRINE.
 (See CLINICAL PHARMACOLOGY, WARNINGS, ADVERSE REACTIONSand DOSAGE AND ADMINISTRATION sections).
 
+## TPMT and NUDT15 Testing
+
+Consider genotyping or phenotyping patients for TPMT deficiency and genotyping for NUDT15 deficiency in patients with severe myelosuppression.
+TPMT and NUDT15 testing cannot substitute for complete blood count (CBC) monitoring in patients receiving azathioprine.
+Accurate phenotyping (red blood cell TPMT activity) results are not possible in patients who have received recent blood transfusions (see CLINICAL PHARMACOLOGY, WARNINGS: Cytopenias, ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION sections).
+
 ## Drug Interactions
 
-Use with Allopurinol: One of the pathways for inactivation of azathioprine is inhibited by allopurinol.
+Use with xanthine oxidase (XO) inhibitors: One of the pathways for inactivation of azathioprine is inhibited by XO inhibitors (allopurinol or febuxostat).
 Patients receiving azathioprine and allopurinol concomitantly should have a dose reduction of azathioprine, to approximately 1/3 to 1/4 the usual dose.
+Concomitant use of azathioprine with febuxostat is not recommended.
 It is recommended that a further dose reduction or alternative therapies be considered for patients with low or absent TPMT activity receiving azathioprine and allopurinol because both TPMT and XO inactivation pathways are affected.
-(See CLINICAL PHARMACOLOGY,WARNINGS, PRECAUTIONS: Laboratory Tests and ADVERSE REACTIONS sections).
+See CLINICAL PHARMACOLOGY, WARNINGS, and PRECAUTIONS: Laboratory Tests and ADVERSE REACTIONS sections..
 
 Use with Aminosalicylates: There is in vitro evidence that aminosalicylate derivatives (e.g., sulphasalazine, mesalazine, or olsalazine) inhibit the TPMT enzyme.
 Concomitant use of these agents with azathioprine should be done with caution.
@@ -137,7 +149,10 @@ Azathioprine may inhibit the anticoagulant effect of warfarin.
 
 ### Use with Ribavirin
 
-### The use of ribavirin for hepatitis C in patients receiving azathioprine has been reported to induce severe pancytopenia and may increase the risk of azathioprine-related myelotoxicity. Inosine monophosphate dehydrogenase (IMDH) is required for one of the metabolic pathways of azathioprine. Ribavirin is known to inhibit IMDH, thereby leading to accumulation of an azathioprine metabolite, 6-methylthioionosine monophosphate (6-MTITP), which is associated with myelotoxicity (neutropenia, thrombocytopenia, and anemia). Patients receiving azathioprine with ribavirin should have complete blood counts, including platelet counts, monitored weekly for the first month, twice monthly for the second and third months of treatment, then monthly or more frequently if dosage or other therapy changes are necessary.
+The use of ribavirin for hepatitis C in patients receiving azathioprine has been reported to induce severe pancytopenia and may increase the risk of azathioprine-related myelotoxicity.
+Inosine monophosphate dehydrogenase (IMDH) is required for one of the metabolic pathways of azathioprine.
+Ribavirin is known to inhibit IMDH, thereby leading to accumulation of an azathioprine metabolite, 6-methylthioionosine monophosphate (6-MTITP), which is associated with myelotoxicity (neutropenia, thrombocytopenia, and anemia).
+Patients receiving azathioprine with ribavirin should have complete blood counts, including platelet counts, monitored weekly for the first month, twice monthly for the second and third months of treatment, then monthly or more frequently if dosage or other therapy changes are necessary.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -152,7 +167,7 @@ See WARNINGS section.
 ## Nursing Mothers
 
 The use of azathioprine in nursing mothers is not recommended.
-Azathioprine or its metabolites are transferred at low levels, both transplacentally and in breast milk.17,18,19 Because of the potential for tumorigenicity shown for azathioprine, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
+Azathioprine or its metabolites are transferred at low levels, both transplacentally and in breast milk.8, 9, 10 Because of the potential for tumorigenicity shown for azathioprine, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## Pediatric Use
 
