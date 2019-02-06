@@ -2,7 +2,7 @@
 
 The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- Infusion reactions [see Warnings and Precautions (5.1)]
+- Infusion-related reactions [see Warnings and Precautions (5.1)]
 - Severe mucocutaneous reactions [see Warnings and Precautions (5.2)]
 - Hepatitis B reactivation with fulminant hepatitis [see Warnings and Precautions (5.3)]
 - Progressive multifocal leukoencephalopathy [see Warnings and Precautions (5.4)]
@@ -23,18 +23,18 @@ Most NHL patients received RITUXAN as an infusion of 375 mg/m2 per infusion, giv
 CLL patients received RITUXAN 375 mg/m2 as an initial infusion followed by 500 mg/m2 for up to 5 doses, in combination with fludarabine and cyclophosphamide.
 Seventy-one percent of CLL patients received 6 cycles and 90% received at least 3 cycles of RITUXAN-based therapy.
 
-The most common adverse reactions of RITUXAN (incidence ≥ 25%) observed in clinical trials of patients with NHL were infusion reactions, fever, lymphopenia, chills, infection, and asthenia.
+The most common adverse reactions of RITUXAN (incidence ≥ 25%) observed in clinical trials of patients with NHL were infusion-related reactions, fever, lymphopenia, chills, infection, and asthenia.
 
-The most common adverse reactions of RITUXAN (incidence ≥ 25%) observed in clinical trials of patients with CLL were: infusion reactions and neutropenia.
+The most common adverse reactions of RITUXAN (incidence ≥ 25%) observed in clinical trials of patients with CLL were: infusion-related reactions and neutropenia.
 
-Infusion Reactions
+Infusion-Related Reactions
 
-In the majority of patients with NHL, infusion reactions consisting of fever, chills/rigors, nausea, pruritus, angioedema, hypotension, headache, bronchospasm, urticaria, rash, vomiting, myalgia, dizziness, or hypertension occurred during the first RITUXAN infusion.
-Infusion reactions typically occurred within 30 to 120 minutes of beginning the first infusion and resolved with slowing or interruption of the RITUXAN infusion and with supportive care (diphenhydramine, acetaminophen, and intravenous saline).
-The incidence of infusion reactions was highest during the first infusion (77%) and decreased with each subsequent infusion.
+In the majority of patients with NHL, infusion-related reactions consisting of fever, chills/rigors, nausea, pruritus, angioedema, hypotension, headache, bronchospasm, urticaria, rash, vomiting, myalgia, dizziness, or hypertension occurred during the first RITUXAN infusion.
+Infusion-related reactions typically occurred within 30 to 120 minutes of beginning the first infusion and resolved with slowing or interruption of the RITUXAN infusion and with supportive care (diphenhydramine, acetaminophen, and intravenous saline).
+The incidence of infusion-related reactions was highest during the first infusion (77%) and decreased with each subsequent infusion.
 [see Warnings and Precautions (5.1)].
-In patients with previously untreated follicular NHL or previously untreated DLBCL, who did not experience a Grade 3 or 4 infusion reaction in Cycle 1 and received a 90-minute infusion of RITUXAN at Cycle 2, the incidence of Grade 3-4 infusion reactions on the day of, or day after the infusion was 1.1% (95% CI [0.3%, 2.8%]).
-For Cycles 2-8, the incidence of Grade 3-4 infusion reactions on the day of or day after the 90-minute infusion, was 2.8% (95% CI [1.3%, 5.0%]).
+In patients with previously untreated follicular NHL or previously untreated DLBCL, who did not experience a Grade 3 or 4 infusion-related reaction in Cycle 1 and received a 90-minute infusion of RITUXAN at Cycle 2, the incidence of Grade 3-4 infusion reactions on the day of, or day after the infusion was 1.1% (95% CI [0.3%, 2.8%]).
+For Cycles 2-8, the incidence of Grade 3-4 infusion-related reactions on the day of or day after the 90-minute infusion, was 2.8% (95% CI [1.3%, 5.0%]).
 [see Warnings and Precautions (5.1), Clinical Studies (14.4)].
 
 Infections
@@ -157,18 +157,18 @@ Detailed safety data collection in Study 11 was limited to Grade 3 and 4 adverse
 
 Infusion-related adverse reactions were defined by any of the following adverse events occurring during or within 24 hours of the start of infusion: nausea, pyrexia, chills, hypotension, vomiting, and dyspnea.
 
-In Study 11, the following Grade 3 and 4 adverse reactions occurred more frequently in R-FC-treated patients compared to FC-treated patients: infusion reactions (9% in R-FC arm), neutropenia (30% vs. 19%), febrile neutropenia (9% vs. 6%), leukopenia (23% vs. 12%), and pancytopenia (3% vs. 1%).
+In Study 11, the following Grade 3 and 4 adverse reactions occurred more frequently in R-FC-treated patients compared to FC-treated patients: infusion-related reactions (9% in R-FC arm), neutropenia (30% vs. 19%), febrile neutropenia (9% vs. 6%), leukopenia (23% vs. 12%), and pancytopenia (3% vs. 1%).
 
-In Study 12, the following Grade 3 or 4 adverse reactions occurred more frequently in R-FC-treated patients compared to FC-treated patients: infusion reactions (7% in R-FC arm), neutropenia (49% vs. 44%), febrile neutropenia (15% vs. 12%), thrombocytopenia (11% vs. 9%), hypotension (2% vs. 0%), and hepatitis B (2% vs. < 1%).
-Fifty-nine percent of R-FC-treated patients experienced an infusion reaction of any severity.
+In Study 12, the following Grade 3 or 4 adverse reactions occurred more frequently in R-FC-treated patients compared to FC-treated patients: infusion-related reactions (7% in R-FC arm), neutropenia (49% vs. 44%), febrile neutropenia (15% vs. 12%), thrombocytopenia (11% vs. 9%), hypotension (2% vs. 0%), and hepatitis B (2% vs. < 1%).
+Fifty-nine percent of R-FC-treated patients experienced an infusion-related reaction of any severity.
 
 ## 6.2 Clinical Trials Experience in Rheumatoid Arthritis
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The data presented below reflect the experience in 2578 RA patients treated with RITUXAN in controlled and long-term studiesPooled studies: NCT00074438, NCT00422383, NCT00468546, NCT00299130, NCT00282308, NCT00266227, NCT02693210, NCT02093026 and NCT02097745 with a total exposure of 5014 patient-years.
+The data presented below reflect the experience in 2578 RA patients treated with RITUXAN in controlled and long-term studiesPooled studies: NCT00074438, NCT00422383, NCT00468546, NCT00299130, NCT00282308, NCT00266227, NCT02693210, NCT02093026 and NCT02097745. with a total exposure of 5014 patient-years.
 
-Among all exposed patients, adverse reactions reported in greater than 10% of patients include infusion reactions, upper respiratory tract infection, nasopharyngitis, urinary tract infection, and bronchitis.
+Among all exposed patients, adverse reactions reported in greater than 10% of patients include infusion-related reactions, upper respiratory tract infection, nasopharyngitis, urinary tract infection, and bronchitis.
 
 In placebo-controlled studies, patients received 2 × 500 mg or 2 × 1000 mg intravenous infusions of RITUXAN or placebo, in combination with methotrexate, during a 24-week period.
 From these studies, 938 patients treated with RITUXAN (2 × 1000 mg) or placebo have been pooled (see Table 2).
@@ -198,16 +198,16 @@ Occurring in ≥ 2% and at Least 1% Greater than Placebo Among Rheumatoid Arthri
 | Migraine | 2 (< 1) | 9 (2) |
 | Asthenia | 1 (< 1) | 9 (2) |
 
-Infusion Reactions
+Infusion-Related Reactions
 
 In the RITUXAN RA pooled placebo-controlled studies, 32% of RITUXAN-treated patients experienced an adverse reaction during or within 24 hours following their first infusion, compared to 23% of placebo-treated patients receiving their first infusion.
 The incidence of adverse reactions during the 24-hour period following the second infusion, RITUXAN or placebo, decreased to 11% and 13%, respectively.
-Acute infusion reactions (manifested by fever, chills, rigors, pruritus, urticaria/rash, angioedema, sneezing, throat irritation, cough, and/or bronchospasm, with or without associated hypotension or hypertension) were experienced by 27% of RITUXAN-treated patients following their first infusion, compared to 19% of placebo-treated patients receiving their first placebo infusion.
-The incidence of these acute infusion reactions following the second infusion of RITUXAN or placebo decreased to 9% and 11%, respectively.
-Serious acute infusion reactions were experienced by < 1% of patients in either treatment group.
-Acute infusion reactions required dose modification (stopping, slowing, or interruption of the infusion) in 10% and 2% of patients receiving rituximab or placebo, respectively, after the first course.
-The proportion of patients experiencing acute infusion reactions decreased with subsequent courses of RITUXAN.
-The administration of intravenous glucocorticoids prior to RITUXAN infusions reduced the incidence and severity of such reactions, however, there was no clear benefit from the administration of oral glucocorticoids for the prevention of acute infusion reactions.
+Acute infusion-related reactions (manifested by fever, chills, rigors, pruritus, urticaria/rash, angioedema, sneezing, throat irritation, cough, and/or bronchospasm, with or without associated hypotension or hypertension) were experienced by 27% of RITUXAN-treated patients following their first infusion, compared to 19% of placebo-treated patients receiving their first placebo infusion.
+The incidence of these acute infusion-related reactions following the second infusion of RITUXAN or placebo decreased to 9% and 11%, respectively.
+Serious acute infusion-related reactions were experienced by < 1% of patients in either treatment group.
+Acute infusion-related reactions required dose modification (stopping, slowing, or interruption of the infusion) in 10% and 2% of patients receiving rituximab or placebo, respectively, after the first course.
+The proportion of patients experiencing acute infusion-related reactions decreased with subsequent courses of RITUXAN.
+The administration of intravenous glucocorticoids prior to RITUXAN infusions reduced the incidence and severity of such reactions, however, there was no clear benefit from the administration of oral glucocorticoids for the prevention of acute infusion-related reactions.
 Patients in clinical studies also received antihistamines and acetaminophen prior to RITUXAN infusions.
 
 Infections
@@ -289,13 +289,13 @@ Table 3 Incidence of All Adverse Reactions Occurring in ≥ 10% of RITUXAN-treat
 | Leukopenia | 10 (10%) | 26 (27%) |
 | Rash | 10 (10%) | 17 (17%) |
 
-Infusion Reactions
+Infusion-Related Reactions
 
-Infusion reactions in GPA/MPA Study 1 were defined as any adverse event occurring within 24 hours of an infusion and considered to be infusion-related by investigators.
-Among the 99 patients treated with RITUXAN, 12% experienced at least one infusion reaction, compared with 11% of the 98 patients in the cyclophosphamide group.
-Infusion reactions included cytokine release syndrome, flushing, throat irritation, and tremor.
-In the RITUXAN group, the proportion of patients experiencing an infusion reaction was 12%, 5%, 4%, and 1% following the first, second, third, and fourth infusions, respectively.
-Patients were pre-medicated with antihistamine and acetaminophen before each RITUXAN infusion and were on background oral corticosteroids which may have mitigated or masked an infusion reaction; however, there is insufficient evidence to determine whether premedication diminishes the frequency or severity of infusion reactions.
+Infusion-related reactions in GPA/MPA Study 1 were defined as any adverse event occurring within 24 hours of an infusion and considered to be infusion-related by investigators.
+Among the 99 patients treated with RITUXAN, 12% experienced at least one infusion-related reaction, compared with 11% of the 98 patients in the cyclophosphamide group.
+Infusion-related reactions included cytokine release syndrome, flushing, throat irritation, and tremor.
+In the RITUXAN group, the proportion of patients experiencing an infusion-related reaction was 12%, 5%, 4%, and 1% following the first, second, third, and fourth infusions, respectively.
+Patients were pre-medicated with antihistamine and acetaminophen before each RITUXAN infusion and were on background oral corticosteroids which may have mitigated or masked an infusion-related reaction; however, there is insufficient evidence to determine whether premedication diminishes the frequency or severity of infusion-related reactions.
 
 Infections
 
@@ -316,7 +316,7 @@ In GPA/MPA Study 2 (NCT00748644), an open-label, controlled, clinical study [See
 
 The safety profile was consistent with the safety profile for RITUXAN in RA and GPA and MPA.
 
-Infusion Reactions
+Infusion-Related Reactions
 
 In GPA/MPA Study 2, 7/57 (12%) patients in the non-U.S.-licensed rituximab arm reported infusion-related reactions.
 The incidence of IRR symptoms was highest during or after the first infusion (9%) and decreased with subsequent infusions (<4%).
@@ -328,6 +328,12 @@ In GPA/MPA Study 2, 30/57 (53%) patients in the non-U.S.-licensed rituximab arm 
 The incidence of all grade infections was similar between the arms.
 The incidence of serious infections was similar in both arms (12%).
 The most commonly reported serious infection in the group was mild or moderate bronchitis.
+
+Long-term, Observational Study with RITUXAN in Patients with GPA/MPA (GPA/MPA Study 3)
+
+In a long-term observational safety study (NCT01613599), 97 patients with GPA or MPA received treatment with RITUXAN (mean of 8 infusions [range 1-28]) for up to 4 years, according to physician standard practice and discretion.
+Majority of patients received doses ranging from 500 mg to 1000 mg, approximately every 6 months.
+The safety profile was consistent with the safety profile for RITUXAN in RA and GPA and MPA.
 
 ## 6.4 Clinical Trials Experience in Pemphigus Vulgaris (PV)
 
@@ -346,7 +352,7 @@ Table 4 Incidence of All Adverse Reactions Occurring in ≥ 5% Among PV Patients
 
 | Adverse Reactions | Non-U.S.-licensed rituximab + short-term prednisone N=38 n (%) | Prednisone N=36 n (%) |
 | --- | --- | --- |
-| Infusion reactionsInfusion reactions included symptoms collected on the next scheduled visit after each infusion, and adverse reactions occurring on the day of or one day after the infusion. The most common infusion reactions included headaches, chills, high blood pressure, nausea, asthenia, and pain. | 22 (58%) | N/A |
+| Infusion-related reactionsInfusion-related reactions included symptoms collected on the next scheduled visit after each infusion, and adverse reactions occurring on the day of or one day after the infusion. The most common infusion-related reactions included headaches, chills, high blood pressure, nausea, asthenia, and pain. | 22 (58%) | N/A |
 | Depression | 7 (18%) | 4 (11%) |
 | Herpes simplex | 5 (13%) | 1 (3%) |
 | Alopecia | 5 (13%) | 0 (0%) |
@@ -366,13 +372,13 @@ Table 4 Incidence of All Adverse Reactions Occurring in ≥ 5% Among PV Patients
 | Urticaria | 2 (5%) | 0 (0%) |
 | N/A = not applicable |  |  |
 
-Infusion Reactions
+Infusion-Related Reactions
 
-Infusion reactions were the most commonly reported adverse drug reactions (58%, 22 patients).
-All infusion reactions were mild to moderate (Grade 1 or 2) except one Grade 3 serious infusion reaction (arthralgia) associated with the Month 12 maintenance infusion.
-The proportion of patients experiencing an infusion reaction was 29% (11 patients), 40% (15 patients), 13% (5 patients), and 10% (4 patients) following the first, second, third, and fourth infusions, respectively.
-No patients were withdrawn from treatment due to infusion reactions.
-Symptoms of infusion reactions were similar in type and severity to those seen in RA and GPA and MPA patients [see Adverse Reactions (6.2 and 6.3)].
+Infusion-related reactions were the most commonly reported adverse drug reactions (58%, 22 patients).
+All infusion-related reactions were mild to moderate (Grade 1 or 2) except one Grade 3 serious infusion-related reaction (arthralgia) associated with the Month 12 maintenance infusion.
+The proportion of patients experiencing an infusion-related reaction was 29% (11 patients), 40% (15 patients), 13% (5 patients), and 10% (4 patients) following the first, second, third, and fourth infusions, respectively.
+No patients were withdrawn from treatment due to infusion-related reactions.
+Symptoms of infusion-related reactions were similar in type and severity to those seen in RA and GPA and MPA patients [see Adverse Reactions (6.2 and 6.3)].
 
 Infections
 
@@ -391,9 +397,9 @@ Using an ELISA assay, anti-rituximab antibody was detected in 4 of 356 (1.1%) pa
 Three of the four patients had an objective clinical response.
 
 A total of 273/2578 (11%) patients with RA tested positive for anti-rituximab antibodies at any time after receiving RITUXAN.
-Anti-rituximab antibody positivity was not associated with increased rates of infusion reactions or other adverse events.
-Upon further treatment, the proportions of patients with infusion reactions were similar between anti-rituximab antibody positive and negative patients, and most reactions were mild to moderate.
-Four anti-rituximab antibody positive patients had serious infusion reactions, and the temporal relationship between anti-rituximab antibody positivity and infusion reaction was variable.
+Anti-rituximab antibody positivity was not associated with increased rates of infusion-related reactions or other adverse events.
+Upon further treatment, the proportions of patients with infusion-related reactions were similar between anti-rituximab antibody positive and negative patients, and most reactions were mild to moderate.
+Four anti-rituximab antibody positive patients had serious infusion-related reactions, and the temporal relationship between anti-rituximab antibody positivity and infusion-related reaction was variable.
 
 A total of 23/99 (23%) RITUXAN-treated patients with GPA and MPA developed anti-rituximab antibodies by 18 months in GPA/MPA Study 1.
 The clinical relevance of anti-rituximab antibody formation in RITUXAN-treated patients is unclear.

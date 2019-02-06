@@ -2,7 +2,6 @@
 
 Rituximab is a genetically engineered chimeric murine/human monoclonal IgG1 kappa antibody directed against the CD20 antigen.
 Rituximab has an approximate molecular weight of 145 kD.
-Rituximab has a binding affinity for the CD20 antigen of approximately 8.0 nM.
 
 Rituximab is produced by mammalian cell (Chinese Hamster Ovary) suspension culture in a nutrient medium that may contain the antibiotic gentamicin.
 Gentamicin is not detectable in the final product.

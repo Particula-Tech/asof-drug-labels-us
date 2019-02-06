@@ -1,15 +1,15 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Infusion Reactions
+## 5.1 Infusion-Related Reactions
 
-RITUXAN can cause severe, including fatal, infusion reactions.
+RITUXAN can cause severe, including fatal, infusion-related reactions.
 Severe reactions typically occurred during the first infusion with time to onset of 30–120 minutes.
-RITUXAN-induced infusion reactions and sequelae include urticaria, hypotension, angioedema, hypoxia, bronchospasm, pulmonary infiltrates, acute respiratory distress syndrome, myocardial infarction, ventricular fibrillation, cardiogenic shock, anaphylactoid events, or death.
+RITUXAN-induced infusion-related reactions and sequelae include urticaria, hypotension, angioedema, hypoxia, bronchospasm, pulmonary infiltrates, acute respiratory distress syndrome, myocardial infarction, ventricular fibrillation, cardiogenic shock, anaphylactoid events, or death.
 
 Premedicate patients with an antihistamine and acetaminophen prior to dosing.
 For RA and PV patients, methylprednisolone 100 mg intravenously or its equivalent is recommended 30 minutes prior to each infusion.
-Institute medical management (e.g. glucocorticoids, epinephrine, bronchodilators, or oxygen) for infusion reactions as needed.
-Depending on the severity of the infusion reaction and the required interventions, temporarily or permanently discontinue RITUXAN.
+Institute medical management (e.g. glucocorticoids, epinephrine, bronchodilators, or oxygen) for infusion-related reactions as needed.
+Depending on the severity of the infusion-related reaction and the required interventions, temporarily or permanently discontinue RITUXAN.
 Resume infusion at a minimum 50% reduction in rate after symptoms have resolved.
 Closely monitor the following patients: those with pre-existing cardiac or pulmonary conditions, those who experienced prior cardiopulmonary adverse reactions, and those with high numbers of circulating malignant cells (≥25,000/mm3) [see Warnings and Precautions (5.7), Adverse Reactions (6.1)].
 

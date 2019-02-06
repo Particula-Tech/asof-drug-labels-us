@@ -143,13 +143,13 @@ Patients with DLBCL received rituximab 375 mg/m2 plus CHOP chemotherapy.
 Patients with clinically significant cardiovascular disease were excluded from the study.
 Patients were eligible for a 90-minute infusion at Cycle 2 if they did not experience a Grade 3-4 infusion-related adverse event with Cycle 1 and had a circulating lymphocyte count ≤ 5000/mm3 before Cycle 2.
 All patients were pre-medicated with acetaminophen and an antihistamine and received the glucocorticoid component of their chemotherapy prior to RITUXAN infusion.
-The main outcome measure was the development of Grade 3-4 infusion reactions on the day of, or day after, the 90-minute infusion at Cycle 2 [see Adverse Reactions (6.1)].
+The main outcome measure was the development of Grade 3-4 infusion-related reactions on the day of, or day after, the 90-minute infusion at Cycle 2 [see Adverse Reactions (6.1)].
 
 Eligible patients received their Cycle 2 rituximab infusion over 90 minutes as follows: 20% of the total dose given in the first 30 minutes and the remaining 80% of the total dose given over the next 60 minutes [see Dosage and Administration (2.1)].
 Patients who tolerated the 90-minute rituximab infusion at Cycle 2 continued to receive subsequent rituximab infusions at the 90-minute infusion rate for the remainder of the treatment regimen (through Cycle 6 or Cycle 8).
 
-The incidence of Grade 3-4 infusion reactions at Cycle 2 was 1.1% (95% CI [0.3%, 2.8%]) among all patients, 3.5% (95% CI [1.0%, 8.8%]) for those patients treated with R-CVP, and 0.0% (95% CI [0.0%, 1.5%]) for those patients treated with R-CHOP.
-For Cycles 2-8, the incidence of Grade 3-4 infusion reactions was 2.8% (95% CI [1.3%, 5.0%]).
+The incidence of Grade 3-4 infusion-related reactions at Cycle 2 was 1.1% (95% CI [0.3%, 2.8%]) among all patients, 3.5% (95% CI [1.0%, 8.8%]) for those patients treated with R-CVP, and 0.0% (95% CI [0.0%, 1.5%]) for those patients treated with R-CHOP.
+For Cycles 2-8, the incidence of Grade 3-4 infusion-related reactions was 2.8% (95% CI [1.3%, 5.0%]).
 No acute fatal infusion reactions were observed.
 
 ## 14.5 Chronic Lymphocytic Leukemia (CLL)

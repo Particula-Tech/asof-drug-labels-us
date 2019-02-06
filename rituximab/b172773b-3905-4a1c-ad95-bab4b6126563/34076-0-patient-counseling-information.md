@@ -2,10 +2,10 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Infusion Reactions
+Infusion-Related Reactions
 
-Inform patients about the signs and symptoms of infusion reactions.
-Advise patients to contact their healthcare provider immediately to report symptoms of infusion reactions including urticaria, hypotension, angioedema, sudden cough, breathing problems, weakness, dizziness, palpitations, or chest pain [see Warnings and Precautions (5.1)].
+Inform patients about the signs and symptoms of infusion-related reactions.
+Advise patients to contact their healthcare provider immediately to report symptoms of infusion-related reactions including urticaria, hypotension, angioedema, sudden cough, breathing problems, weakness, dizziness, palpitations, or chest pain [see Warnings and Precautions (5.1)].
 
 Severe Mucocutaneous Reactions
 

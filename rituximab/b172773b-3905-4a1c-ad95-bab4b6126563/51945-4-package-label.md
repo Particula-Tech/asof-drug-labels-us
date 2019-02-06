@@ -14,7 +14,7 @@ For Intravenous Use
 
 Jointly Marketed by: Biogen and Genentech USA, Inc.
 
-10200390
+10209855
 
 # PRINCIPAL DISPLAY PANEL - 500 mg Vial Carton
 
@@ -34,4 +34,4 @@ Rx only One 500 mg vial
 
 Jointly Marketed by: Biogen and Genentech USA, Inc.
 
-10200397
+10209854
