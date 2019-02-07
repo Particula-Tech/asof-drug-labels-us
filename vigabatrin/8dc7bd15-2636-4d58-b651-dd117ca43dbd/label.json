@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA209822"
+  ],
+  "inn": "vigabatrin",
+  "labeler": "Actavis Pharma, Inc.",
+  "package_ndcs": [
+    "0591-3851-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "vigabatrin",
+      "name": "Vigabatrin"
+    }
+  ],
+  "setid": "8dc7bd15-2636-4d58-b651-dd117ca43dbd",
+  "source": "dailymed"
+}
