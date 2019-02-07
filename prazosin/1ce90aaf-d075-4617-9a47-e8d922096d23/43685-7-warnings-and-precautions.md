@@ -1,7 +1,7 @@
 # WARNINGS
 
 As with all alpha-blockers, prazosin hydrochloride capsules may cause syncope with sudden loss of consciousness.
-In most cases, this is believed to be due to an excessive postural hypotensive effect, although occasionally the syncopal episode has been preceded by a bout of severe tachycardia with heart rates of 120 to 160 beats per minute.
+In most cases, this is believed to be due to an excessive postural hypotensive effect, although occasionally the syncopal episode has been preceded by a bout of severe tachycardia with heart rates of 120‒160 beats per minute.
 Syncopal episodes have usually occurred within 30 to 90 minutes of the initial dose of the drug; occasionally, they have been reported in association with rapid dosage increases or the introduction of another antihypertensive drug into the regimen of a patient taking high doses of prazosin hydrochloride capsules.
 The incidence of syncopal episodes is approximately 1% in patients given an initial dose of 2 mg or greater.
 Clinical trials conducted during the investigational phase of this drug suggest that syncopal episodes can be minimized by limiting the initial dose of the drug to 1 mg, by subsequently increasing the dosage slowly, and by introducing any additional antihypertensive drugs into the patient’s regimen with caution (see DOSAGE AND ADMINISTRATION).
@@ -11,7 +11,7 @@ If syncope occurs, the patient should be placed in the recumbent position and tr
 This adverse effect is self-limiting and in most cases does not recur after the initial period of therapy or during subsequent dose titration.
 
 Patients should always be started on the 1 mg capsules of prazosin hydrochloride capsules.
-The 2 mg and 5 mg capsules are not indicated for initial therapy.
+The 2 and 5 mg capsules are not indicated for initial therapy.
 
 More common than loss of consciousness are the symptoms often associated with lowering of the blood pressure, namely, dizziness and lightheadedness.
 The patient should be cautioned about these possible adverse effects and advised what measures to take should they develop.
@@ -45,16 +45,16 @@ Check with your physician if you have any questions.
 
 ## Drug Interactions
 
-Prazosin hydrochloride capsules have been administered without any adverse drug interaction in limited clinical experience to date with the following: (1) cardiac glycosides-digitalis and digoxin; (2) hypoglycemics-insulin, chlorpropamide, phenformin, tolazamide, and tolbutamide; (3) tranquilizers and sedatives-chlordiazepoxide, diazepam, and phenobarbital; (4) antigout-allopurinol, colchicine, and probenecid; (5) antiarrhythmics-procainamide, propranolol (see WARNINGS however), and quinidine; and (6) analgesics, antipyretics and anti-inflammatories-propoxyphene, aspirin, indomethacin, and phenylbutazone.
+Prazosin hydrochloride capsules have been administered without any adverse drug interaction in limited clinical experience to date with the following: (1) cardiac glycosides‒digitalis and digoxin; (2) hypoglycemics‒insulin, chlorpropamide, phenformin, tolazamide, and tolbutamide; (3) tranquilizers and sedatives‒chlordiazepoxide, diazepam, and phenobarbital; (4) antigout‒allopurinol, colchicine, and probenecid; (5) antiarrhythmics‒procainamide, propranolol (see WARNINGS however), and quinidine; and (6) analgesics, antipyretics and anti-inflammatories-propoxyphene, aspirin, indomethacin, and phenylbutazone.
 
 Addition of a diuretic or other antihypertensive agent to prazosin hydrochloride capsules have been shown to cause an additive hypotensive effect.
-This effect can be minimized by reducing the prazosin hydrochloride capsules dose to 1 mg to 2 mg three times a day, by introducing additional antihypertensive drugs cautiously, and then by retitrating prazosin hydrochloride capsules based on clinical response.
+This effect can be minimized by reducing the prazosin hydrochloride capsules dose to 1 to 2 mg three times a day, by introducing additional antihypertensive drugs cautiously, and then by retitrating prazosin hydrochloride capsules based on clinical response.
 
 Concomitant administration of prazosin hydrochloride capsules with a phosphodiesterase-5 (PDE-5) inhibitor can result in additive blood pressure lowering effects and symptomatic hypotension (see DOSAGE AND ADMINISTRATION).
 
 ## Drug/Laboratory Test Interactions
 
-In a study on five patients given from 12 mg to 24 mg of prazosin per day for 10 to 14 days, there was an average increase of 42% in the urinary metabolite of norepinephrine and an average increase in urinary VMA of 17%.
+In a study on five patients given from 12 to 24 mg of prazosin per day for 10 to 14 days, there was an average increase of 42% in the urinary metabolite of norepinephrine and an average increase in urinary VMA of 17%.
 Therefore, false positive results may occur in screening tests for pheochromocytoma in patients who are being treated with prazosin.
 If an elevated VMA is found, prazosin should be discontinued and the patient retested after a month.
 
@@ -74,8 +74,6 @@ In view of the testicular changes observed in animals, 105 patients on long term
 In addition, 27 males on prazosin hydrochloride capsules for up to 51 months did not have changes in sperm morphology suggestive of drug effect.
 
 ## Usage in Pregnancy
-
-### Pregnancy Category C
 
 Prazosin hydrochloride capsules has been shown to be associated with decreased litter size at birth, 1, 4, and 21 days of age in rats when given doses more than 225 times the usual maximum recommended human dose.
 No evidence of drug-related external, visceral, or skeletal fetal abnormalities were observed.
