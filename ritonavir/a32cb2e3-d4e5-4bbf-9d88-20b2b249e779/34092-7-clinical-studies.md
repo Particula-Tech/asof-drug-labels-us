@@ -26,8 +26,8 @@ In contrast, there was no apparent change in mean CD4 cell counts for patients r
 
 In Study 245, 356 antiretroviral-naive HIV-infected patients (mean baseline CD4 = 364 cells per μL) were randomized to receive either ritonavir 600 mg twice-daily, zidovudine 200 mg three-times-daily, or a combination of these drugs.
 
-During the double-blind phase of study 245, greater mean CD4 cell count increases were observed from baseline to Week 12 in the ritonavir -containing arms compared to the zidovudine arms.
+During the double-blind phase of study 245, greater mean CD4 cell count increases were observed from baseline to Week 12 in the ritonavir-containing arms compared to the zidovudine arms.
 Mean CD4 cell count changes subsequently appeared to plateau through Week 24 in the ritonavir arm, whereas mean CD4 cell counts gradually diminished through Week 24 in the zidovudine and ritonavir plus zidovudine arms.
 
-Greater mean reductions in plasma HIV-1 RNA levels were observed from baseline to Week 2 for the ritonavir -containing arms compared to the zidovudine arm.
+Greater mean reductions in plasma HIV-1 RNA levels were observed from baseline to Week 2 for the ritonavir-containing arms compared to the zidovudine arm.
 After Week 2 and through Week 24, mean plasma HIV-1 RNA levels either remained stable in the ritonavir and zidovudine arms or gradually rebounded toward baseline in the ritonavir plus zidovudine arm.

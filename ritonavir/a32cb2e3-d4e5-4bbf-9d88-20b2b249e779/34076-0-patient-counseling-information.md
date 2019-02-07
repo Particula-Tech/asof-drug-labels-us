@@ -2,10 +2,10 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use)
 
-General Information Dosing and Preparation Information
+General Administration Information [see Dosage and Administration (2)]:
 
 - Advise patients and caregivers to pay special attention to accurate preparation and administration of their dose to minimize the risk of accidental overdose or underdose of ritonavir.
-- Advise caregivers to inform their healthcare provider if their children’s weight changes in order to make sure that the child’s ritonavir dose is adjusted as needed.
+- Advise caregivers to inform their healthcare provider if their child’s weight changes in order to make sure that the child’s ritonavir dose is adjusted as needed.
 - Advise patients to take ritonavir with meals.
 - For adult patients taking ritonavir tablets, the maximum dose of 600 mg twice daily by mouth with meals should not be exceeded.
 - Advise patients to remain under the care of a physician while using ritonavir and to take ritonavir and other concomitant antiretroviral therapy every day as prescribed.
@@ -65,7 +65,7 @@ Advise patients with hemophilia that they may experience increased bleeding when
 
 Ritonavir Oral Solution Not Recommended During Pregnancy
 
-Advise pregnant women that use of ritonavir oral solution during pregnancy is not recommended due to its alcohol content [see Dosage and Administration (2.3) and Use in Specific Population (8.1)].
+Advise pregnant women that use of ritonavir oral solution during pregnancy is not recommended due to its alcohol content [see Dosage and Administration (2.3) and Use in Specific Populations (8.1)].
 
 Pregnancy Exposure Registry
 
@@ -77,5 +77,7 @@ Instruct women with HIV-1 infection not to breastfeed because HIV-1 can be passe
 
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
+For patent information, please visit https://www.amneal.com/products/patent-notices/.
+
 Rev.
-04-2018-01
+01-2019-02

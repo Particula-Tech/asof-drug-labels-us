@@ -5,8 +5,7 @@
 - Ritonavir is contraindicated with drugs that are highly dependent on CYP3A for clearance and for which elevated plasma concentrations are associated with serious and/or life-threatening reactions.
 - Ritonavir is contraindicated with drugs that are potent CYP3A inducers where significantly reduced lopinavir plasma concentrations may be associated with the potential for loss of virologic response and possible resistance and cross-resistance.
 
-Table 2.
-Drugs that are Contraindicated with Ritonavir
+Table 2: Drugs that are Contraindicated with Ritonavir
 
 | Drug Class | Drugs Within Class That Are Contraindicated With Ritonavir** | Clinical Comments |
 | --- | --- | --- |

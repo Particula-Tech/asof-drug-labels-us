@@ -20,8 +20,7 @@ Table 3 lists treatment-emergent Adverse Reactions (with possible or probable re
 
 The most frequently reported adverse drug reactions among patients receiving ritonavir alone or in combination with other antiretroviral drugs were gastrointestinal (including diarrhea, nausea, vomiting, abdominal pain (upper and lower)), neurological disturbances (including paresthesia and oral paresthesia), rash, and fatigue/asthenia.
 
-Table 3.
-Treatment-Emergent Adverse Reactions (With Possible or Probable Relationship to Study Drug) Occurring in greater than or equal to 1% of Adult Patients Receiving Ritonavir in Combined Phase II/IV Studies (N = 1,755)
+Table 3: Treatment-Emergent Adverse Reactions (With Possible or Probable Relationship to Study Drug) Occurring in greater than or equal to 1% of Adult Patients Receiving Ritonavir in Combined Phase II/IV Studies (N = 1,755)
 
 | Adverse Reactions | n | % |
 | --- | --- | --- |
@@ -82,8 +81,7 @@ Laboratory Abnormalities in Adults
 
 Table 4 shows the percentage of adult patients who developed marked laboratory abnormalities.
 
-Table 4.
-Percentage of Adult Patients, by Study and Treatment Group, with Chemistry and Hematology Abnormalities Occurring in greater than 3% of Patients Receiving Ritonavir
+Table 4: Percentage of Adult Patients, by Study and Treatment Group, with Chemistry and Hematology Abnormalities Occurring in greater than 3% of Patients Receiving Ritonavir
 
 |  |  | Study 245 Naive Patients |  |  | Study 247 Advanced Patients |  | Study 462 PI-Naive Patients |
 | --- | --- | --- | --- | --- | --- | --- | --- |

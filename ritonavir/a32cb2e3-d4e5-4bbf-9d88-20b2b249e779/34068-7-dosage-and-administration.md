@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 General Dosing and Administration Recommendations
+## 2.1 General Administration Recommendations
 
 - Ritonavir tablets must be used in combination with other antiretroviral agents.
 - Ritonavir tablets are administered orally.
@@ -12,7 +12,7 @@ General Dosing Guidelines
 Patients who take the 600 mg twice daily soft gel capsule ritonavir dose may experience more gastrointestinal side effects such as nausea, vomiting, abdominal pain or diarrhea when switching from the soft gel capsule to the tablet formulation because of greater maximum plasma concentration (Cmax) achieved with the tablet formulation relative to the soft gel capsule [see Clinical Pharmacology (12.3)].
 Patients should also be aware that these adverse events (gastrointestinal or paresthesias) may diminish as therapy is continued.
 
-## 2.3 Recommended Adult Dosage
+## 2.3 Dosage Recommendations in Adults
 
 Recommended Dosage for Treatment of HIV-1:
 
@@ -26,7 +26,7 @@ Pregnant Women
 Ritonavir oral solution is not recommended during pregnancy due to its alcohol content.
 Ritonavir oral solution contains the excipients alcohol and propylene glycol [see Use in Specific Populations (8.1)].
 
-## 2.4 Recommended Pediatric Dosage
+## 2.4 Dosage Recommendations in Pediatric Patients
 
 Ritonavir tablets must be used in combination with other antiretroviral agents [see Dosage and Administration (2)].
 The recommended dosage of ritonavir tablets in pediatric patients older than 1 month is 350 to 400 mg per m2 twice daily by mouth to be taken with meals and should not exceed 600 mg twice daily.
@@ -43,8 +43,7 @@ This is especially important for young children.
 Total amounts of ethanol and propylene glycol from all medicines that are to be given to pediatric patients 1 to 6 months of age should be taken into account in order to avoid toxicity from these excipients [see Warnings and Precautions (5.2) and Overdosage (10)].
 When possible, dose should be administered using a calibrated dosing syringe.
 
-Table 1.
-Pediatric Dosage Guidelines for Oral Solution*
+Table 1: Pediatric Dosage Guidelines for Oral Solution*
 
 | Body Surface Area (m2) | Twice Daily Dose 250 mg per m2 | Twice Daily Dose 300 mg per m2 | Twice Daily Dose 350 mg per m2 | Twice Daily Dose 400 mg per m2 |
 | --- | --- | --- | --- | --- |
@@ -63,4 +62,4 @@ Body surface area (BSA) can be calculated as follows1:
 
 Dose reduction of ritonavir tablets is necessary when used with other protease inhibitors: atazanavir, darunavir, fosamprenavir, saquinavir, and tipranavir.
 
-Prescribers should consult the full prescribing information and clinical study information of these protease inhibitors if they are co-administered with a reduced dose of ritonavir [see Warnings and Precautions (5.1), and Drug Interactions (7)].
+Prescribers should consult the full prescribing information and clinical study information of these protease inhibitors if they are co-administered with a reduced dose of ritonavir [see Warnings and Precautions (5.1) and Drug Interactions (7)].
