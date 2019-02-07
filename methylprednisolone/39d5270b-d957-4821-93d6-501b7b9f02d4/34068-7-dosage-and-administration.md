@@ -62,7 +62,7 @@ The following should be kept in mind when considering alternate day therapy:
   Exogenous corticosteroids suppress adrenocortical activity the least, when given at the time of maximal activity (am).
 - 7)In using ADT it is important, as in all therapeutic situations to individualize and tailor the therapy to each patient.
   Complete control of symptoms will not be possible in all patients.
-  An explanation of the benefits of ADT will help the patient to understand and tolerate the possible flare-up in symptoms which may occur in the latter part of the off-steroid day.
+  An explanation of the benefits of ADT will help the patient to understand and tolerate the possible flare-up in symptoms which may occur in the latter part of the offsteroid day.
   Other symptomatic therapy may be added or increased at this time if needed.
 - 8)In the event of an acute flare-up of the disease process, it may be necessary to return to a full suppressive daily divided corticoid dose for control.
   Once control is again established alternate day therapy may be reinstituted.

@@ -10,10 +10,6 @@ Bottles of 100 NDC 0009-0020-01
 
 Bottles of 100 NDC 0009-0056-02
 
-Bottles of 500 NDC 0009-0056-03
-
-Unit dose packages of 100 NDC 0009-0056-05
-
 DOSEPAK™ Unit of Use (21 tablets) NDC 0009-0056-04
 
 8 mg (white, elliptical, scored, imprinted MEDROL 8)

@@ -73,7 +73,7 @@ The studies do show that relatively high doses of corticosteroids are necessary 
 
 Since complications of treatment with glucocorticoids are dependent on the size of the dose and the duration of treatment, a risk/benefit decision must be made in each individual case as to dose and duration of treatment and as to whether daily or intermittent therapy should be used.
 
-## Drug Interactions
+## DRUG INTERACTIONS
 
 The pharmacokinetic interactions listed below are potentially clinically important.
 Mutual inhibition of metabolism occurs with concurrent use of cyclosporin and methylprednisolone; therefore, it is possible that adverse events associated with the individual use of either drug may be more apt to occur.
