@@ -110,7 +110,7 @@ Constitution in other bottle types is not recommended because there is no stabil
 
 b. Carefully separate the capsule body and cap and pour the contents of the required number of oseltamivir phosphate 75 mg capsules into the PET or glass bottle.
 
-c. Gently swirl the suspension to ensure adequate wetting of the oseltamivir phosphate powder for at least 2 minutes.
+c. Gently swirl the suspension to ensure adequate wetting of the oseltamivir phosphate capsules powder for at least 2 minutes.
 
 d. Slowly add the specified amount of vehicle to the bottle.
 

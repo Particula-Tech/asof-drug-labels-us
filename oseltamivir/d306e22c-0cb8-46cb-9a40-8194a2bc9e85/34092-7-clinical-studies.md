@@ -59,9 +59,7 @@ Pharmacokinetic data indicated that a dose of 3 mg per kg twice daily in pediatr
 Adult and Adolescent Subjects (13 years of age and older)
 
 The efficacy of oseltamivir phosphate in preventing naturally occurring influenza illness has been demonstrated in three seasonal prophylaxis (community outbreak) clinical trials and one post-exposure prophylaxis trial in household contacts.
-The efficacy endpoint for all of these trials was the incidence of laboratory-confirmed clinical influenza defined as meeting all the following criteria (all signs and symptoms must have been recorded within
-
-24 hours):
+The efficacy endpoint for all of these trials was the incidence of laboratory-confirmed clinical influenza defined as meeting all the following criteria (all signs and symptoms must have been recorded within 24 hours):
 
 - oral temperature greater than or equal to 99ºF (37.2ºC),
 - at least one respiratory symptom (cough, sore throat, nasal congestion),

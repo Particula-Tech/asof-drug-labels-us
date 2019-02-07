@@ -19,6 +19,7 @@ Table 6 Mean (% CV) Pharmacokinetic Parameters of Oseltamivir and Oseltamivir Ca
 | AUC0-12h (ng·h/mL) | 112 (25) | 2,719 (20) |
 
 Plasma concentrations of oseltamivir carboxylate are proportional to doses up to 500 mg given twice daily (about 6.7 times the maximum recommended oseltamivir phosphate dosage) [see Dosage and Administration (2)].
+
 Co-administration with food had no significant effect on the peak plasma concentration (551 ng/mL under fasted conditions and 441 ng/mL under fed conditions) and the area under the plasma concentration time curve (6,218 ng·h/mL under fasted conditions and 6,069 ng·h/mL under fed conditions) of oseltamivir carboxylate.
 
 Distribution
@@ -73,9 +74,9 @@ Table 7 Simulated Median Treatment Exposure Metrics of Oseltamivir Carboxylate i
 | AUC48 (ng·hr/mL)* | 5,294 | 8,336 | 6,262 | 9,317 | 11,200 |
 | *AUC normalized to 48 hours. |  |  |  |  |  |
 
-In continuous ambulatory peritoneal dialysis (CAPD) patients, the peak concentration of oseltamivir carboxylate following a single 30 mg dose of oseltamivir or once weekly oseltamivir was approximately 3- fold higher than in patients with normal renal function who received 75 mg twice daily.
+In continuous ambulatory peritoneal dialysis (CAPD) patients, the peak concentration of oseltamivir carboxylate following a single 30 mg dose of oseltamivir or once weekly oseltamivir was approximately 3-fold higher than in patients with normal renal function who received 75 mg twice daily.
 The plasma concentration of oseltamivir carboxylate on Day 5 (147 ng/mL) following a single 30 mg dose in CAPD patients is similar to the predicted Cmin (160 ng/mL) in patients with normal renal function following 75 mg twice daily.
-Administration of 30 mg once weekly to CAPD patients resulted in plasma concentrations of oseltamivir carboxylate at the 168 hour blood sample of 63 ng/mL, which were comparable to the Cmin in patients with normal renal function receiving the approved regimen of 75 mg once daily (40 ng/mL).
+Administration of 30 mg once weekly to CAPD patients resulted in plasma concentrations of oseltamivir carboxylate at the 168-hour blood sample of 63 ng/mL, which were comparable to the Cmin in patients with normal renal function receiving the approved regimen of 75 mg once daily (40 ng/mL).
 
 Hepatic Impairment
 
@@ -100,7 +101,7 @@ Apparent clearance of the active metabolite decreases with decreasing age in sub
 
 Geriatric Patients
 
-Exposure to oseltamivir carboxylate at steady-state was 25 to 35% higher in geriatric subjects (age range 65 to 78 years) compared to young adults given comparable doses of oseltamivir.
+Exposure to oseltamivir carboxylate at steady-state was 25% to 35% higher in geriatric subjects (age range 65 to 78 years) compared to young adults given comparable doses of oseltamivir.
 Half-lives observed in the geriatric subjects were similar to those seen in young adults.
 Based on drug exposure and tolerability, dose adjustments are not required for geriatric patients for either treatment or prophylaxis [see Use in Specific Populations (8.5)].
 
@@ -140,7 +141,7 @@ Clinical studies: Reduced susceptibility isolates have been obtained during trea
 Changes in the viral neuraminidase that have been associated with reduced susceptibility to oseltamivir carboxylate are summarized in Table 8.
 The clinical impact of this reduced susceptibility is unknown.
 
-Hemagglutinin (HA) substitutions selected in cell culture and associated with reduced susceptibility to oseltamivir include (influenza virus subtype-specific numbering) A11T, K173G, and R453M in H3N2; and H99Q in influenza B virus (Yamagata lineage).
+Hemagglutinin (HA) substitutions selected in cell culture and associated with reduced susceptibility to oseltamivir include (influenza virus subtype-specific numbering) A11T, K173E, and R453M in H3N2; and H99Q in influenza B virus (Yamagata lineage).
 In some cases, HA substitutions were selected in conjunction with known NA resistance substitutions and may contribute to reduced susceptibility to oseltamivir; however, the impact of HA substitutions on antiviral activity of oseltamivir in humans is unknown and likely to be strain-dependent.
 
 Table 8 Neuraminidase Amino Acid Substitutions Associated with Reduced Susceptibility to Oseltamivir
@@ -153,7 +154,7 @@ Table 8 Neuraminidase Amino Acid Substitutions Associated with Reduced Susceptib
 | E41G, E119I/V, D151V, I222L/V, Q226H, SASG245-248 deletion, S247P, R292K, N294S |
 | Influenza B (B numbering in brackets) |
 | E119A (E117A), P141S (P139S), G142R (G140R), R152K (R150K), D198E/N/Y (D197E/N/Y),I222L/T/V (I221L/T/V), A246D/S/T (A245D/S/T), H274Y (H273Y), N294S (N294S), R371K(R374K), G402S (G407S) |
-| * All numbering is N2, except where indicated. |
+| *All numbering is N2, except where indicated. |
 
 Selection of influenza A viruses resistant to oseltamivir can occur at higher frequencies in children.
 The incidence of oseltamivir treatment-associated resistance in pediatric treatment studies has been detected at rates of 27 to 37% and 3 to 18% (3/11 to 7/19 and 1/34 to 9/50 post-treatment isolates, respectively) for influenza A/H1N1 virus and influenza A/H3N2 virus, respectively.
@@ -173,7 +174,7 @@ The R292K oseltamivir resistance-associated substitution observed in N2, and the
 These examples do not represent an exhaustive list of cross resistance-associated substitutions and prescribers should consider available information from the CDC on influenza drug susceptibility patterns and treatment effects when deciding whether to use oseltamivir phosphate.
 
 No single amino acid substitution has been identified that could confer cross-resistance between the neuraminidase inhibitor class (oseltamivir, zanamivir) and the M2 ion channel inhibitor class (amantadine, rimantadine).
-However, a virus may carry a neuraminidase inhibitor-associated substitution in neuraminidase and an M2 ion channel inhibitor associated substitution in M2 and may therefore be resistant to both classes of inhibitors.
+However, a virus may carry a neuraminidase inhibitor associated substitution in neuraminidase and an M2 ion channel inhibitor-associated substitution in M2 and may therefore be resistant to both classes of inhibitors.
 The clinical relevance of phenotypic cross-resistance evaluations has not been established.
 
 Immune Response
