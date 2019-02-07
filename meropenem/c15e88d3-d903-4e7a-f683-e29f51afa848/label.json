@@ -6,7 +6,9 @@
   "labeler": "AstraZeneca Pharmaceuticals LP",
   "package_ndcs": [
     "0310-0321-30",
-    "0310-0325-20"
+    "0310-0321-65",
+    "0310-0325-20",
+    "0310-0325-64"
   ],
   "products": [
     {

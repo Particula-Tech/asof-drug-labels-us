@@ -11,9 +11,9 @@ The study included 510 patients randomized to meropenem and 527 patients randomi
 Two hundred and sixty one (261) patients randomized to meropenem and 287 patients randomized to imipenem-cilastatin were clinically evaluable.
 The success rates in the clinically evaluable patients at the follow-up visit were 86% (225/261) in the meropenem arm and 83% (238/287) in imipenem-cilastatin arm.
 
-The success rates for the clinically evaluable population are provided in Table 7.
+The success rates for the clinically evaluable population are provided in Table 9.
 
-Table 7: Success Rates at Test-of-Cure Visit for Clinically Evaluable Population with Complicated Skin and Skin Structure Infections
+Table 9: Success Rates at Test-of-Cure Visit for Clinically Evaluable Population with Complicated Skin and Skin Structure Infections
 
 | Population | MERREM IV nn=number of patients with satisfactory response./NN=number of patients in the clinically evaluable population or respective subgroup within treatment groups. (%) | Imipenem-cilastatin n/N (%) |
 | --- | --- | --- |
@@ -25,17 +25,17 @@ Table 7: Success Rates at Test-of-Cure Visit for Clinically Evaluable Population
 | Men | 130/148 (88) | 137/172 (80) |
 | Women | 95/113 (84) | 101/115 (88) |
 
-The clinical efficacy rates by pathogen are provided in Table 8.
+The clinical efficacy rates by pathogen are provided in Table 10.
 The values represent the number of patients clinically cured/number of clinically evaluable patients at the post-treatment follow-up visit, with the percent cure in parentheses (Fully Evaluable analysis set).
 
-Table 8: Clinical Efficacy Rates by Pathogen for Clinically Evaluable Population
+Table 10: Clinical Efficacy Rates by Pathogen for Clinically Evaluable Population
 
-| MICROORGANISMSPatients may have more than one pretreatment pathogen. | MERREM IV nn=number of patients with satisfactory response./NN=number of patients in the clinically evaluable population or subgroup within treatment groups. (%)%= Percent of satisfactory clinical response at follow-up evaluation. | Imipenem-cilastatin n/N (%) |
+| MICROORGANISMSPatients may have more than one pretreatment pathogen. | MERREM IV nn=number of patients with satisfactory response./NN=number of patients in the clinically evaluable population or subgroup within treatment groups.(%)%= Percent of satisfactory clinical response at follow-up evaluation. | Imipenem-cilastatin n/N(%) |
 | --- | --- | --- |
 | Gram-positive aerobes |  |  |
-| Staphylococcus aureus, methicillin susceptible | 82/88 (93) | 84/100 (84) |
-| Streptococcus pyogenes (Group A) | 26/29 (90) | 28/32 (88) |
-| Streptococcus agalactiae (Group B) | 12/17 (71) | 16/19 (84) |
+| Staphylococcus aureus,methicillin susceptible | 82/88 (93) | 84/100 (84) |
+| Streptococcus pyogenes(Group A) | 26/29 (90) | 28/32 (88) |
+| Streptococcus agalactiae(Group B) | 12/17 (71) | 16/19 (84) |
 | Enterococcus faecalis | 9/12 (75) | 14/20 (70) |
 | Viridans group streptococci | 11/12 (92) | 5/6 (83) |
 | Gram-negative aerobes |  |  |
@@ -44,7 +44,7 @@ Table 8: Clinical Efficacy Rates by Pathogen for Clinically Evaluable Population
 | Proteus mirabilis | 11/13 (85) | 6/7 (86) |
 | Anaerobes |  |  |
 | Bacteroides fragilis | 10/11 (91) | 9/10 (90) |
-| Peptostreptococcus Species | 10/13 (77) | 14/16 (88) |
+| Peptostreptococcusspecies | 10/13 (77) | 14/16 (88) |
 
 The proportion of patients who discontinued study treatment due to an adverse event was similar for both treatment groups (meropenem, 2.5% and imipenem-cilastatin, 2.7%).
 
@@ -53,9 +53,9 @@ The proportion of patients who discontinued study treatment due to an adverse ev
 One controlled clinical study of complicated intra-abdominal infection was performed in the United States where meropenem was compared with clindamycin/tobramycin.
 Three controlled clinical studies of complicated intra-abdominal infections were performed in Europe; meropenem was compared with imipenem (two trials) and cefotaxime/metronidazole (one trial).
 
-Using strict evaluability criteria and microbiologic eradication and clinical cures at follow-up which occurred 7 or more days after completion of therapy, the presumptive microbiologic eradication/clinical cure rates and statistical findings are provided in Table 9:
+Using strict evaluability criteria and microbiologic eradication and clinical cures at follow-up which occurred 7 or more days after completion of therapy, the presumptive microbiologic eradication/clinical cure rates and statistical findings are provided in Table 11:
 
-Table 9: Presumptive Microbiologic Eradication and Clinical Cure Rates at Test-of-Cure Visit in the Evaluable Population with Complicated Intra-Abdominal Infection
+Table 11: Presumptive Microbiologic Eradication and Clinical Cure Rates at Test-of-Cure Visit in the Evaluable Population with Complicated Intra-Abdominal Infection
 
 | Treatment Arm | No. evaluable/ No. enrolled (%) | Microbiologic Eradication Rate | Clinical Cure Rate | Outcome |
 | --- | --- | --- | --- | --- |
@@ -70,18 +70,18 @@ Currently there is no additional information available to further interpret this
 ## 14.3 Bacterial Meningitis
 
 Four hundred forty-six patients (397 pediatric patients 3 months to less than 17 years of age) were enrolled in 4 separate clinical trials and randomized to treatment with meropenem (n=225) at a dose of 40 mg/kg every 8 hours or a comparator drug, i.e., cefotaxime (n=187) or ceftriaxone (n=34), at the approved dosing regimens.
-A comparable number of patients were found to be clinically evaluable (ranging from 61–68%) and with a similar distribution of pathogens isolated on initial CSF culture.
+A comparable number of patients were found to be clinically evaluable (ranging from 61-68%) and with a similar distribution of pathogens isolated on initial CSF culture.
 
 Patients were defined as clinically not cured if any one of the following three criteria were met:
 
-1. At the 5–7 week post-completion of therapy visit, the patient had any one of the following: moderate to severe motor, behavior or development deficits, hearing loss of greater than 60 decibels in one or both ears, or blindness.
-2. During therapy the patient's clinical status necessitated the addition of other antibacterial drugs.
-3. Either during or post-therapy, the patient developed a large subdural effusion needing surgical drainage, or a cerebral abscess, or a bacteriologic relapse.
+1. 1.At the 5-7 week post-completion of therapy visit, the patient had any one of the following: moderate to severe motor, behavior or development deficits, hearing loss of greater than 60 decibels in one or both ears, or blindness.
+2. 2.During therapy the patient’s clinical status necessitated the addition of other antibacterial drugs.
+3. 3.Either during or post-therapy, the patient developed a large subdural effusion needing surgical drainage, or a cerebral abscess, or a bacteriologic relapse.
 
-Using the definition, the following efficacy rates were obtained, per organism (noted in Table 10).
+Using the definition, the following efficacy rates were obtained, per organism (noted in Table 12).
 The values represent the number of patients clinically cured/number of clinically evaluable patients, with the percent cure in parentheses.
 
-Table 10: Efficacy rates by Pathogen in the Clinically Evaluable Population with Bacterial Meningitis
+Table 12: Efficacy rates by Pathogen in the Clinically Evaluable Population with Bacterial Meningitis
 
 | MICROORGANISMS | MERREM IV | COMPARATOR |
 | --- | --- | --- |
@@ -98,11 +98,11 @@ Five patients were found to be bacteriologically not cured, 3 in the comparator 
 With respect to hearing loss, 263 of the 271 evaluable patients had at least one hearing test performed post-therapy.
 The following table shows the degree of hearing loss between the meropenem-treated patients and the comparator-treated patients.
 
-Table 11: Hearing Loss at Post-Therapy in the Evaluable Population Treated with Meropenem
+Table 13: Hearing Loss at Post-Therapy in the Evaluable Population Treated with Meropenem
 
 | Degree of Hearing Loss (in one or both ears) | Meropenem n = 128 | Comparator n = 135 |
 | --- | --- | --- |
 | No loss | 61% | 56% |
-| 20–40 decibels | 20% | 24% |
-| Greater than 40–60 decibels | 8% | 7% |
+| 20-40 decibels | 20% | 24% |
+| Greater than 40-60 decibels | 8% | 7% |
 | Greater than 60 decibels | 9% | 10% |

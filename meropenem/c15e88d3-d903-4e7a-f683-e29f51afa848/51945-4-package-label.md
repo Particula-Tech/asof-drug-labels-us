@@ -1,8 +1,6 @@
 # Package/Label Display Panel – 500 mg
 
-NDC 0310-0325-20
-
-For Intravenous Use Only
+For Intravenous Use Only NDC 0310-0325-20
 
 MERREM® IV
 
@@ -10,17 +8,15 @@ meropenem for injection
 
 500 mg meropenem equivalent
 
-Contents are Sterile
+Contains: 10-20mL Sterile Vials
 
 Rx only
 
-Manufactured for: AstraZeneca Pharmaceuticals LP
+AstraZeneca
 
 # Package/Label Display Panel – 1 g
 
-NDC 0310-0321-30
-
-For Intravenous Use Only
+For Intravenous Use Only NDC 0310-0321-30
 
 MERREM® IV
 
@@ -28,8 +24,8 @@ meropenem for injection
 
 1 g meropenem equivalent
 
-Contents are Sterile
+Contains: 10-30mL Sterile Vials
 
 Rx only
 
-Manufactured for: AstraZeneca Pharmaceuticals LP
+AstraZeneca
