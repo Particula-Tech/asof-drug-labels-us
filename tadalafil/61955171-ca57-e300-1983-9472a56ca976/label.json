@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA210145"
+  ],
+  "inn": "tadalafil",
+  "labeler": "Dr.Reddys Laboratories Inc",
+  "package_ndcs": [
+    "43598-578-30",
+    "43598-578-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "tadalafil",
+      "name": "Tadalafil"
+    }
+  ],
+  "setid": "61955171-ca57-e300-1983-9472a56ca976",
+  "source": "dailymed"
+}
