@@ -10,7 +10,7 @@ Do not exceed 40 mg/kg or 2,400 mg, whichever is less, total daily dose in pedia
 
 To reduce the risk of renal adverse reactions, patients must be well hydrated prior to administration of CALDOLOR.
 
-CALDOLOR must be diluted prior to administration.
+CALDOLOR injection 800 mg/8 mL (100 mg/mL) vials MUST BE DILUTED prior to administration.
 
 Dilute to a final concentration of 4 mg/mL or less.
 Appropriate diluents include 0.9% Sodium Chloride Injection USP (normal saline), 5% Dextrose Injection USP (D5W), or Lactated Ringers Solution.
@@ -19,6 +19,8 @@ Appropriate diluents include 0.9% Sodium Chloride Injection USP (normal saline),
 - 200 mg dose: Dilute 2 mL of CALDOLOR in at least 100 mL of diluent
 - 400 mg dose: Dilute 4 mL of CALDOLOR in at least 100 mL of diluent
 - 800 mg dose: Dilute 8 mL of CALDOLOR in at least 200 mL of diluent
+
+CALDOLOR injection 800 mg/200 mL (4 mg/mL) polypropylene flexible bags are ready to use, intended for 800 mg doses only.
 
 For weight-based dosing at 10 mg/kg ensure that the concentration of CALDOLOR is 4 mg/mL or less.
 
@@ -45,13 +47,13 @@ Maximum daily dose is 3,200 mg.
 
 For Analgesia (pain) and Fever
 
-Ages 12 to 17 years of age
+Ages 12 to 17 years
 
 The dose is 400 mg intravenously every 4 to 6 hours as necessary.
 Infusion time must be at least 10 minutes.
 Maximum daily dose is 2,400 mg.
 
-Ages 6 months to 12 years of age
+Ages 6 months to 12 years
 
 The dose is 10 mg/kg intravenously up to a maximum single dose of 400 mg every 4 to 6 hours as necessary.
 Infusion time must be at least 10 minutes.

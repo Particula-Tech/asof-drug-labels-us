@@ -19,7 +19,7 @@ Table 3: Clinically Significant Drug Interactions with Ibuprofen
 | Intervention: | During concomitant use of CALDOLOR with diuretics, observe patients for signs of worsening renal function, in addition to assuring diuretic efficacy including antihypertensive effects [see Warnings and Precautions (5.6)]. |
 | Digoxin |  |
 | Clinical Impact: | The concomitant use of ibuprofen with digoxin has been reported to increase the serum concentration and prolong the half-life of digoxin. |
-| Intervention: | During concomitant use of CADOLOR and digoxin, monitor serum digoxin levels. |
+| Intervention: | During concomitant use of CALDOLOR and digoxin, monitor serum digoxin levels. |
 | Lithium |  |
 | Clinical Impact: | NSAIDs have produced elevations in plasma lithium levels and reductions in renal lithium clearance. The mean minimum lithium concentration increased 15%, and the renal clearance decreased by approximately 20%. This effect has been attributed to NSAID inhibition of renal prostaglandin synthesis. |
 | Intervention: | During concomitant use of CALDOLOR and lithium, monitor patients for signs of lithium toxicity. |

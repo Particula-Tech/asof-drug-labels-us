@@ -62,7 +62,8 @@ In addition, rare, sometimes fatal, cases of severe hepatic injury, including fu
 
 Elevations of ALT or AST (less than three times ULN) may occur in up to 15% of patients treated with NSAIDs, including ibuprofen.
 
-Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, diarrhea, pruritus, jaundice, right upper quadrant tenderness, and "flu-like" symptoms).If clinical signs and symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, etc.), discontinue CALDOLOR immediately, and perform a clinical evaluation of the patient.
+Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, diarrhea, pruritus, jaundice, right upper quadrant tenderness, and "flu-like" symptoms).
+If clinical signs and symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, etc.), discontinue CALDOLOR immediately, and perform a clinical evaluation of the patient.
 
 ## 5.4 Hypertension
 

@@ -47,4 +47,4 @@ Use of NSAIDS and Low-Dose Aspirin
 
 Inform patients not to use low-dose aspirin concomitantly with CALDOLOR until they talk to their healthcare provider [see Drug Interactions (7)].
 
-Manufactured for: Cumberland Pharmaceuticals Inc. Nashville, TN 37203 US Patent Number 6,727,286, 8,871,810, 8,735,452, 9,012,508, 9,114,068 and 9,138,404 CALDOLOR® is a registered trademark of Cumberland Pharmaceuticals Inc.
+Manufactured for: Cumberland Pharmaceuticals Inc. Nashville, TN 37203 US Patent Number 6,727,286, 8,871,810, 8,735,452, 9,012,508, 9,072,661, 9,072,710, 9,114,068, 9,138,404, 9,295,639, and 9,649,284 CALDOLOR® is a registered trademark of Cumberland Pharmaceuticals Inc.

@@ -5,7 +5,9 @@
   "inn": "ibuprofen",
   "labeler": "Cumberland Pharmaceuticals Inc.",
   "package_ndcs": [
-    "66220-287-08"
+    "66220-287-08",
+    "66220-287-11",
+    "66220-287-24"
   ],
   "products": [
     {
