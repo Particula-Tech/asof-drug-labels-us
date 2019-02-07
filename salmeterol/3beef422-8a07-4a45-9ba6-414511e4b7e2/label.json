@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA208891"
+  ],
+  "inn": "salmeterol",
+  "labeler": "Mylan Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0378-9320-32",
+    "0378-9321-32",
+    "0378-9322-32"
+  ],
+  "products": [
+    {
+      "form": "POWDER",
+      "generic": "fluticasone propionate and salmeterol",
+      "name": "Wixela Inhub"
+    }
+  ],
+  "setid": "3beef422-8a07-4a45-9ba6-414511e4b7e2",
+  "source": "dailymed"
+}
