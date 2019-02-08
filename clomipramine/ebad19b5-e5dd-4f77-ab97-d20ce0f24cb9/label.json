@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA209294"
+  ],
+  "inn": "clomipramine",
+  "labeler": "Lupin Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "68180-492-01",
+    "68180-492-06",
+    "68180-492-07",
+    "68180-492-09",
+    "68180-493-01",
+    "68180-493-06",
+    "68180-493-07",
+    "68180-493-09",
+    "68180-494-01",
+    "68180-494-06",
+    "68180-494-07",
+    "68180-494-09"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "clomipramine hydrochloride capsules",
+      "name": "Clomipramine Hydrochloride"
+    }
+  ],
+  "setid": "ebad19b5-e5dd-4f77-ab97-d20ce0f24cb9",
+  "source": "dailymed"
+}
