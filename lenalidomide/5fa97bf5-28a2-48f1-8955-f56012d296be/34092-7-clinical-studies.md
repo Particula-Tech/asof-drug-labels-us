@@ -38,7 +38,7 @@ Table 12: Overview of Efficacy Results – Study MM-020 (Intent-to-treat Populat
 
 |  | Rd Continuous (N = 535) | Rd18 (N = 541) | MPT (N = 547) |
 | --- | --- | --- | --- |
-| PFS - IRAC (months)g |  |  |  |
+| PFS – IRAC (months)g |  |  |  |
 | Number of PFS events | 278 (52.0) | 348 (64.3) | 334 (61.1) |
 | Mediana PFS time, months (95% CI)b | 25.5 (20.7, 29.4) | 20.7 (19.4, 22.0) | 21.2 (19.3, 23.2) |
 | HR [95% CI]c; p-valued |  |  |  |
@@ -52,20 +52,20 @@ Table 12: Overview of Efficacy Results – Study MM-020 (Intent-to-treat Populat
 | Rd Continuous vs MPT | 0.75 (0.62, 0.90) |  |  |
 | Rd Continuous vs Rd18 | 0.91 (0.75, 1.09) |  |  |
 | Rd18 vs MPT | 0.83 (0.69, 0.99) |  |  |
-| Response Ratee - IRAC, n (%)g |  |  |  |
+| Response Ratee – IRAC, n (%)g |  |  |  |
 | CR | 81 (15.1) | 77 (14.2) | 51 (9.3) |
 | VGPR | 152 (28.4) | 154 (28.5) | 103 (18.8) |
 | PR | 169 (31.6) | 166 (30.7) | 187 (34.2) |
 | Overall response: CR, VGPR, or PR | 402 (75.1) | 397 (73.4) | 341 (62.3) |
-| CR = complete response; d = low-dose dexamethasone; HR = hazard ratio; IRAC = Independent Response Adjudication Committee; M = melphalan; NE = not estimable; OS = overall survival; P = prednisone; PFS = progression-free survival; PR = partial response; R = lenalidomide; Rd Continuous = Rd given until documentation of progressive disease; Rd18 = Rd given for ≤ 18 cycles; T = thalidomide; VGPR = very good partial response; vs = versus. a The median is based on the Kaplan-Meier estimate. b The 95% Confidence Interval (CI) about the median. c Based on Cox proportional hazards model comparing the hazard functions associated with the indicated treatment arms. d The p-value is based on the unstratified log-rank test of Kaplan-Meier curve differences between the indicated treatment arms. e Best assessment of response during the treatment phase of the study f Including patients with no response assessment data or whose only assessment was “response not evaluable.” g Data cutoff date = 24 May 2013. h Data cutoff date = 3 March 2014. |  |  |  |
+| CR = complete response; d = low-dose dexamethasone; HR = hazard ratio; IRAC = Independent Response Adjudication Committee; M = melphalan; NE = not estimable; OS = overall survival; P = prednisone; PFS = progression-free survival; PR = partial response; R = lenalidomide; Rd Continuous = Rd given until documentation of progressive disease; Rd18 = Rd given for ≤ 18 cycles; T = thalidomide; VGPR = very good partial response; vs = versus. a The median is based on the Kaplan-Meier estimate. b The 95% Confidence Interval (CI) about the median. c Based on Cox proportional hazards model comparing the hazard functions associated with the indicated treatment arms. d The p-value is based on the unstratified log-rank test of Kaplan-Meier curve differences between the indicated treatment arms. e Best assessment of response during the treatment phase of the study. f Including patients with no response assessment data or whose only assessment was "response not evaluable." g Data cutoff date = 24 May 2013. h Data cutoff date = 3 March 2014. |  |  |  |
 
-Kaplan-Meier Curves of Progression-free Survival Based on IRAC Assessment (ITT Population) Between Arms Rd Continuous, Rd18 and MPT Cutoff date: 24 May 2013
+| Kaplan-Meier Curves of Progression-free Survival Based on IRAC Assessment (ITT Population) Between Arms Rd Continuous, Rd18 and MPT Cutoff date: 24 May 2013 |
+| --- |
+| CI = confidence interval; d = low-dose dexamethasone; HR = hazard ratio; IRAC = Independent Response Adjudication Committee; M = melphalan; P = prednisone; R = lenalidomide; Rd Continuous = Rd given until documentation of progressive disease; Rd18 = Rd given for ≤ 18 cycles; T = thalidomide. |
 
-CI = confidence interval; d = low-dose dexamethasone; HR = hazard ratio; IRAC = Independent Response Adjudication Committee; M = melphalan; P = prednisone; R = lenalidomide; Rd Continuous = Rd given until documentation of progressive disease; Rd18 = Rd given for ≤ 18 cycles; T = thalidomide.
-
-Kaplan-Meier Curves of Overall Survival (ITT Population) Between Arms Rd Continuous, Rd18 and MPT Cutoff date: 03 Mar 2014
-
-CI = confidence interval; d = low-dose dexamethasone; HR = hazard ratio; M = melphalan; P = prednisone; R = lenalidomide; Rd Continuous = Rd given until documentation of progressive disease; Rd18 = Rd given for ≤18 cycles; T = thalidomide.
+| Kaplan-Meier Curves of Overall Survival (ITT Population) Between Arms Rd Continuous, Rd18 and MPT Cutoff date: 03 Mar 2014 |
+| --- |
+| CI = confidence interval; d = low-dose dexamethasone; HR = hazard ratio; M = melphalan; P = prednisone; R = lenalidomide; Rd Continuous = Rd given until documentation of progressive disease; Rd18 = Rd given for ≤18 cycles; T = thalidomide. |
 
 Randomized, Placebo-Controlled Clinical Trials - Maintenance Following Auto-HSCT:
 
@@ -138,15 +138,15 @@ Table 14: Progression-free Survival and Overall Survival from Randomization in M
 | OS Events n (%) | 82 (35) | 114 (50) | 143 (47) | 160 (52) |
 | Median in months [95% CI] | 111.0 [101.8, NE] | 84.2 [71.0, 102.7] | 105.9 [88.8, NE] | 88.1 [80.7, 108.4] |
 | Hazard Ratio [95% CI] | 0.59 [0.44, 0.78] |  | 0.90 [0.72, 1.13] |  |
-| Date of Unblinding in Maintenance Study 1 and 2 = 17 December 2009 and 7 July 2010, respectively Auto-HSCT = autologous hematopoietic stem cell transplantation; CI = confidence interval; ITT = intent to treat; NE = not estimable; PFS = progression-free survival PFS at time of unblinding for Maintenance Study 2 was based on assessment by an Independent Review Committee. All other PFS analyses were based on assessment by investigator. Note: The median is based on Kaplan-Meier estimate, with 95% CIs about the median overall PFS time. Hazard ratio is based on a proportional hazards model stratified by stratification factors comparing the hazard functions associated with treatment arms (lenalidomide:placebo). |  |  |  |  |
+| Date of Unblinding in Maintenance Study 1 and 2 = 17 December 2009 and 7 July 2010, respectively. Auto-HSCT = autologous hematopoietic stem cell transplantation; CI = confidence interval; ITT = intent to treat; NE = not estimable; PFS = progression-free survival. PFS at time of unblinding for Maintenance Study 2 was based on assessment by an Independent Review Committee. All other PFS analyses were based on assessment by investigator. Note: The median is based on Kaplan-Meier estimate, with 95% CIs about the median overall PFS time. Hazard ratio is based on a proportional hazards model stratified by stratification factors comparing the hazard functions associated with treatment arms (lenalidomide:placebo). |  |  |  |  |
 
-Kaplan-Meier Curves of Progression-free Survival From Randomization (ITT Post-Auto-HSCT Population) in Maintenance Study 1 Between REVLIMID and Placebo Arms (Updated Cutoff Date 1 March 2015)
+| Kaplan-Meier Curves of Progression-free Survival from Randomization (ITT Post-Auto-HSCT Population) in Maintenance Study 1 between REVLIMID and Placebo Arms (Updated Cutoff Date 1 March 2015) |
+| --- |
+| Auto-HSCT = autologous hematopoietic stem cell transplantation; CI = confidence interval; HR = hazard ratio; ITT = intent to treat; KM = Kaplan-Meier; PFS = progression-free survival; vs = versus. |
 
-Auto-HSCT = autologous hematopoietic stem cell transplantation; CI = confidence interval; HR = hazard ratio; ITT = intent to treat; KM = Kaplan-Meier; PFS = progression-free survival; vs = versus
-
-Kaplan-Meier Curves of Progression-free Survival From Randomization (ITT Post-Auto-HSCT Population) in Maintenance Study 2 Between REVLIMID and Placebo Arms (Updated Cutoff Date 1 March 2015)
-
-Auto-HSCT = autologous hematopoietic stem cell transplantation; CI = confidence interval; HR = hazard ratio; ITT = intent to treat; KM = Kaplan-Meier; NE = not estimable; PFS = progression-free survival; vs = versus
+| Kaplan-Meier Curves of Progression-free Survival from Randomization (ITT Post-Auto-HSCT Population) in Maintenance Study 2 between REVLIMID and Placebo Arms (Updated Cutoff Date 1 March 2015) |
+| --- |
+| Auto-HSCT = autologous hematopoietic stem cell transplantation; CI = confidence interval; HR = hazard ratio; ITT = intent to treat; KM = Kaplan-Meier; NE = not estimable; PFS = progression-free survival; vs = versus. |
 
 Randomized, Open-Label Clinical Studies in Patients with MM After At Least One Prior Therapy
 
@@ -175,10 +175,11 @@ Table 15: Baseline Demographic and Disease-Related Characteristics – Studies 1
 | Patient Characteristics |  |  |  |  |
 | Age (years) Median Min, Max | 64 36, 86 | 62 37, 85 | 63 33, 84 | 64 40, 82 |
 | Sex Male Female | 106 (60%) 71 (40%) | 104 (59%) 72 (41%) | 104 (59%) 72 (41%) | 103 (59%) 72 (41%) |
-| Race/Ethnicity White Other | 141 (80%) 36 (20%) | 148 (84%) 28 (16%) | 172 (98%) 4 (2%) | 175 (100%) 0 (0%) |
+| Race/Ethnicity White Other | 141(80%) 36 (20%) | 148 (84%) 28 (16%) | 172 (98%) 4 (2%) | 175 (100%) 0 (0%) |
 | ECOG Performance Status 0-1 | 157 (89%) | 168 (95%) | 150 (85%) | 144 (82%) |
 | Disease Characteristics |  |  |  |  |
-| Multiple Myeloma Stage (Durie- Salmon) I II III | 3% 32% 64% | 3% 31% 66% | 6% 28% 65% | 5% 33% 63% |
+| Multiple Myeloma Stage (Durie- Salmon) |  |  |  |  |
+| I II III | 3% 32% 64% | 3% 31% 66% | 6% 28% 65% | 5% 33% 63% |
 | β2-microglobulin (mg/L) ≤ 2.5 mg/L > 2.5 mg/L | 52 (29%) 125 (71%) | 51 (29%) 125 (71%) | 51 (29%) 125 (71%) | 48 (27%) 127 (73%) |
 | Number of Prior Therapies |  |  |  |  |
 | 1 ≥ 2 | 38% 62% | 38% 62% | 32% 68% | 33% 67% |
@@ -196,8 +197,8 @@ TTP was defined as the time from randomization to the first occurrence of progre
 Preplanned interim analyses of both studies showed that the combination of REVLIMID/dexamethasone was significantly superior to dexamethasone alone for TTP.
 The studies were unblinded to allow patients in the placebo/dexamethasone group to receive treatment with the REVLIMID/dexamethasone combination.
 For both studies, the extended follow-up survival data with crossovers were analyzed.
-In study 1, the median survival time was 39.4 months (95% CI: 32.9, 47.4) in REVLIMID/dexamethasone group and 31.6 months (95% CI: 24.1, 40.9) in placebo/dexamethasone group, with a hazard ratio of 0.79 (95% CI: 0.61-1.03).
-In study 2, the median survival time was 37.5 months (95% CI: 29.9, 46.6) in REVLIMID/dexamethasone group and 30.8 months (95% CI: 23.5, 40.3) in placebo/dexamethasone group, with a hazard ratio of 0.86 (95% CI: 0.65-1.14).
+In study 1, the median survival time was 39.4 months (95%CI: 32.9, 47.4) in REVLIMID/dexamethasone group and 31.6 months (95% CI: 24.1, 40.9) in placebo/dexamethasone group, with a hazard ratio of 0.79 (95% CI: 0.61-1.03).
+In study 2, the median survival time was 37.5 months (95%CI: 29.9, 46.6) in REVLIMID/dexamethasone group and 30.8 months (95%CI: 23.5, 40.3) in placebo/dexamethasone group, with a hazard ratio of 0.86 (95% CI: 0.65-1.14).
 
 Table 16: TTP Results in Study 1 and Study 2
 
@@ -216,9 +217,9 @@ Table 16: TTP Results in Study 1 and Study 2
 | p-value | <0.001 |  | <0.001 |  |
 | Odds Ratio [95% CI] | 6.38 [3.95, 10.32] |  | 4.72 [2.98, 7.49] |  |
 
-Kaplan-Meier Estimate of Time to Progression — Study 1
-
-Kaplan-Meier Estimate of Time to Progression — Study 2
+| Kaplan-Meier Estimate of Time to Progression — Study 1 |
+| --- |
+| Kaplan-Meier Estimate of Time to Progression — Study 2 |
 
 ## 14.2 Myelodysplastic Syndromes (MDS) with a Deletion 5q Cytogenetic Abnormality
 
@@ -251,21 +252,21 @@ Table 17: Baseline Demographic and Disease-Related Characteristics in the MDS St
 | Del 5 (q31-33) Cytogenetic Abnormality | n | (%) |  |
 | Yes | 148 | (100.0) |  |
 | Other cytogenetic abnormalities | 37 | (25.2) |  |
-| IPSS Score [a] | n | (%) |  |
+| IPSS Score a | n | (%) |  |
 | Low (0) | 55 | (37.2) |  |
 | Intermediate-1 (0.5-1.0) | 65 | (43.9) |  |
 | Intermediate-2 (1.5-2.0) | 6 | (4.1) |  |
 | High (≥2.5) | 2 | (1.4) |  |
 | Missing | 20 | (13.5) |  |
-| FAB Classification [b] from central review | n | (%) |  |
+| FAB Classification b from central review | n | (%) |  |
 | RA | 77 | (52.0) |  |
 | RARS | 16 | (10.8) |  |
 | RAEB | 30 | (20.3) |  |
 | CMML | 3 | (2.0) |  |
-| [a] IPSS Risk Category: Low (combined score = 0), Intermediate-1 (combined score = 0.5 to 1.0), Intermediate-2 (combined score = 1.5 to 2.0), High (combined score ≥ 2.5); Combined score = (Marrow blast score + Karyotype score + Cytopenia score) [b] French-American-British (FAB) classification of MDS. |  |  |  |
+| a IPSS Risk Category: Low (combined score = 0), Intermediate-1 (combined score = 0.5 to 1.0), Intermediate-2 (combined score = 1.5 to 2.0), High (combined score ≥ 2.5); Combined score = (Marrow blast score + Karyotype score + Cytopenia score). b French-American-British (FAB) classification of MDS. |  |  |  |
 
 The frequency of RBC transfusion independence was assessed using criteria modified from the International Working Group (IWG) response criteria for MDS.
-RBC transfusion independence was defined as the absence of any RBC transfusion during any consecutive “rolling” 56 days (8 weeks) during the treatment period.
+RBC transfusion independence was defined as the absence of any RBC transfusion during any consecutive "rolling" 56 days (8 weeks) during the treatment period.
 
 Transfusion independence was seen in 99/148 (67%) patients (95% CI [59, 74]).
 The median duration from the date when RBC transfusion independence was first declared (i.e., the last day of the 56-day RBC transfusion-free period) to the date when an additional transfusion was received after the 56-day transfusion-free period among the 99 responders was 44 weeks (range of 0 to >67 weeks).
@@ -287,7 +288,7 @@ Treatment was continued until disease progression, unacceptable toxicity, or wit
 The trial included patients who were at least 18 years of age with biopsy-proven MCL with measurable disease by CT scan.
 Patients were required to have received prior treatment with an anthracycline or mitoxantrone, cyclophosphamide, rituximab, and bortezomib, alone or in combination.
 Patients were required to have documented refractory disease (defined as without any response of PR or better during treatment with bortezomib or a bortezomib-containing regimen), or relapsed disease (defined as progression within one year after treatment with bortezomib or a bortezomib-containing regimen).
-At enrollment patients were to have an absolute neutrophil counts (ANC) ≥1500/ mm3, platelet counts ≥ 60,000/mm3, serum SGOT/AST or SGPT/ALT ≤3x upper limit of normal (ULN) unless there was documented evidence of liver involvement by lymphoma, serum total bilirubin ≤1.5 x ULN except in cases of Gilbert’s syndrome or documented liver involvement by lymphoma, and calculated creatinine clearance (Cockcroft-Gault formula) ≥30 mL/min.
+At enrollment patients were to have an absolute neutrophil counts (ANC) ≥1500/ mm3, platelet counts ≥ 60,000/mm3, serum SGOT/AST or SGPT/ALT ≤3x upper limit of normal (ULN) unless there was documented evidence of liver involvement by lymphoma, serum total bilirubin ≤1.5 x ULN except in cases of Gilbert's syndrome or documented liver involvement by lymphoma, and calculated creatinine clearance (Cockcroft-Gault formula) ≥30 mL/min.
 
 The median age was 67 years (43-83), 81% were male and 96% were Caucasian.
 The table below summarizes the baseline disease-related characteristics and prior anti-lymphoma therapy in the Mantle Cell Lymphoma trial.
@@ -307,7 +308,7 @@ Table 18: Baseline Disease-related Characteristics and Prior Anti –Lymphoma Th
 | Refractory to Prior Bortezomib, n (%) | 81 (60) |
 | Refractory to Last Prior Therapy, n (%) | 74 (55) |
 | Prior Autologous Bone Marrow or Stem Cell Transplant, n (%) | 39 (29) |
-| a) ECOG = Eastern Cooperative Oncology Group b) MIPI = MCL International Prognostic Index c) High tumor burden is defined as at least one lesion that is ≥5 cm in diameter or 3 lesions that are ≥3 cm in diameter d) Bulky disease is defined as at least one lesion that is ≥7cm in the longest diameter |  |
+| a ECOG = Eastern Cooperative Oncology Group. b MIPI = MCL International Prognostic Index. c High tumor burden is defined as at least one lesion that is ≥5 cm in diameter or 3 lesions that are ≥3 cm in diameter. d Bulky disease is defined as at least one lesion that is ≥7cm in the longest diameter. |  |
 
 The efficacy endpoints in the MCL trial were overall response rate (ORR) and duration of response (DOR).
 Response was determined based on review of radiographic scans by an independent review committee according to a modified version of the International Workshop Lymphoma Response Criteria (Cheson, 1999).

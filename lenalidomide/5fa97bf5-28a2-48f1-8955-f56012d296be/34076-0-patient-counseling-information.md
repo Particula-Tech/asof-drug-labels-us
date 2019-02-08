@@ -8,7 +8,7 @@ REVLIMID is a thalidomide analogue and can cause serious birth defects or death 
 - Advise females of reproductive potential that they must avoid pregnancy while taking REVLIMID and for at least 4 weeks after completing therapy.
 - Initiate REVLIMID treatment in females of reproductive potential only following a negative pregnancy test.
 - Advise females of reproductive potential of the importance of monthly pregnancy tests and the need to use 2 different forms of contraception including at least 1 highly effective form, simultaneously during REVLIMID therapy, during dose interruption and for 4 weeks after she has completely finished taking REVLIMID.
-  Highly effective forms of contraception other than tubal ligation include IUD and hormonal (birth control pills, injections, patch or implants) and a partner’s vasectomy.
+  Highly effective forms of contraception other than tubal ligation include IUD and hormonal (birth control pills, injections, patch or implants) and a partner's vasectomy.
   Additional effective contraceptive methods include latex or synthetic condom, diaphragm and cervical cap.
 - Instruct patient to immediately stop taking REVLIMID and contact her healthcare provider if she becomes pregnant while taking this drug, if she misses her menstrual period, or experiences unusual menstrual bleeding, if she stops taking birth control, or if she thinks FOR ANY REASON that she may be pregnant.
 - Advise patient that if her healthcare provider is not available, she should call Celgene Customer Care Center at 1-888-423-5436 [see Warnings and Precautions (5.1) and Use in Specific Populations (8.3)].
@@ -83,6 +83,6 @@ REVLIMID® and REVLIMID REMS® are registered trademarks of Celgene Corporation.
 
 Pat. www.celgene.com/therapies
 
-© 2005-2017 Celgene Corporation, All Rights Reserved.
+© 2005-2018 Celgene Corporation, All Rights Reserved.
 
-RevPlyPI.024/MG.024 12/17
+RevPlyPI.025/MG.025

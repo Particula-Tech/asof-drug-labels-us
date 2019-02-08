@@ -25,6 +25,7 @@ Under these conditions, refer patient to an obstetrician/gynecologist experience
 Report any suspected fetal exposure to REVLIMID to the FDA via the MedWatch program at 1-800-FDA-1088 and also to Celgene Corporation at 1-888-423-5436.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 The estimated background risk in the U.S. general population of major birth defects is 2%-4% and of miscarriage is 15%-20% of clinically recognized pregnancies.
 
 Data Animal data
@@ -46,8 +47,8 @@ These data indicated that lenalidomide crossed the placenta.
 
 Risk Summary
 
-There is no information regarding the presence of lenalidomide in human milk, the effects of REVLIMID on the breastfed infant, or the effects of REVLIMID on milk production.
-Because many drugs are excreted in human milk and because of the potential for adverse reactions in breastfed infants from REVLIMID, advise women not to breastfeed during treatment with REVLIMID.
+There is no information regarding the presence of lenalidomide in human milk, the effects of REVLIMID on the breastfed child, or the effects of REVLIMID on milk production.
+Because many drugs are excreted in human milk and because of the potential for adverse reactions in breastfed children from REVLIMID, advise women not to breastfeed during treatment with REVLIMID.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -68,7 +69,7 @@ Contraception
 
 Females
 
-Females of reproductive potential must commit either to abstain continuously from heterosexual sexual intercourse or to use 2 methods of reliable birth control simultaneously: one highly effective form of contraception – tubal ligation, IUD, hormonal (birth control pills, injections, hormonal patches, vaginal rings, or implants), or partner’s vasectomy, and 1 additional effective contraceptive method – male latex or synthetic condom, diaphragm, or cervical cap.
+Females of reproductive potential must commit either to abstain continuously from heterosexual sexual intercourse or to use 2 methods of reliable birth control simultaneously: one highly effective form of contraception – tubal ligation, IUD, hormonal (birth control pills, injections, hormonal patches, vaginal rings, or implants), or partner's vasectomy, and 1 additional effective contraceptive method – male latex or synthetic condom, diaphragm, or cervical cap.
 Contraception must begin 4 weeks prior to initiating treatment with REVLIMID, during therapy, during dose interruptions, and continuing for 4 weeks following discontinuation of REVLIMID therapy.
 Reliable contraception is indicated even where there has been a history of infertility, unless due to hysterectomy.
 Females of reproductive potential should be referred to a qualified provider of contraceptive methods, if needed.

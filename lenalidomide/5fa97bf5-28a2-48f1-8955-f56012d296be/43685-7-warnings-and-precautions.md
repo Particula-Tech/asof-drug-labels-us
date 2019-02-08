@@ -75,7 +75,7 @@ In the NDMM study in which nearly all patients received antithrombotic prophylax
 The median time to first thrombosis event was 4.3 months in the combined Rd Continuous and Rd18 Arms.
 
 Thromboprophylaxis is recommended.
-The regimen of thromboprophylaxis should be based on an assessment of the patient’s underlying risks.
+The regimen of thromboprophylaxis should be based on an assessment of the patient's underlying risks.
 Instruct patients to report immediately any signs and symptoms suggestive of thrombotic events.
 ESAs and estrogens may further increase the risk of thrombosis and their use should be based on a benefit-risk decision in patients receiving REVLIMID [see Drug Interactions (7.2)].
 
@@ -144,7 +144,7 @@ Monitoring and evaluation for tumor flare reaction (TFR) is recommended in patie
 Tumor flare reaction may mimic progression of disease (PD).
 In the MCL trial, 13/134 (10%) of subjects experienced TFR; all reports were Grade 1 or 2 in severity.
 All of the events occurred in cycle 1 and one patient developed TFR again in cycle 11.
-Lenalidomide may be continued in patients with Grade 1 and 2 TFR without interruption or modification, at the physician’s discretion.
+Lenalidomide may be continued in patients with Grade 1 and 2 TFR without interruption or modification, at the physician's discretion.
 Patients with Grade 1 and 2 TFR may also be treated with corticosteroids, non-steroidal anti-inflammatory drugs (NSAIDs) and/or narcotic analgesics for management of TFR symptoms.
 In patients with Grade 3 or 4 TFR, it is recommended to withhold treatment with lenalidomide until TFR resolves to ≤ Grade 1.
 Patients with Grade 3 or 4 TFR may be treated for management of symptoms per the guidance for treatment of Grade 1 and 2 TFR.

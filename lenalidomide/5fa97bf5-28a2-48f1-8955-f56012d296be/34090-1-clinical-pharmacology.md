@@ -41,7 +41,7 @@ Lenalidomide is present in semen at 2 hours (1379 ng/ejaculate) and 24 hours (35
 
 Elimination
 
-The mean half-life of lenalidomide is 3 hours in healthy subjects and 3 to 5 hours in patients with MM, MDS or MCL
+The mean half-life of lenalidomide is 3 hours in healthy subjects and 3 to 5 hours in patients with MM, MDS or MCL.
 
 Metabolism
 

@@ -198,7 +198,7 @@ Neutropenia during treatment in MCL
 
 Other Grade 3 / 4 Toxicities in MCL
 
-For other Grade 3/4 toxicities judged to be related to REVLIMID, hold treatment and restart at the physician’s discretion at next lower dose level when toxicity has resolved to ≤ Grade 2.
+For other Grade 3/4 toxicities judged to be related to REVLIMID, hold treatment and restart at the physician's discretion at next lower dose level when toxicity has resolved to ≤ Grade 2.
 
 Starting Dose Adjustment for Renal Impairment in MCL
 
