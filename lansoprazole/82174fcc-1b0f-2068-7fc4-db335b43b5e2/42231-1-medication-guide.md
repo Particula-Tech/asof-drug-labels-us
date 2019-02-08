@@ -56,6 +56,9 @@ In adults, lansoprazole delayed-release capsules are used for:
 - the long-term treatment of conditions where your stomach makes too much acid.
   This includes a rare condition called Zollinger-Ellison syndrome.
 
+Pediatrics: Give lansoprazole delayed-release capsules exactly as prescribed by your child’s doctor.
+Do not increase the dose of lansoprazole delayed-release capsules or give your child lansoprazole delayed-release capsules longer than the amount of time your doctor tells you to.
+
 In children 1 to 11 years of age, lansoprazole delayed-release capsules are used for:
 
 - up to 12 weeks to treat heartburn and other symptoms that can happen with GERD.
@@ -79,7 +82,8 @@ Before you take lansoprazole delayed-release capsules, tell your doctor about al
 - have low magnesium levels in your blood.
 - have liver problems.
 - are pregnant or plan to become pregnant.
-  It is not known if lansoprazole delayed-release capsules will harm your unborn baby.
+  Lansoprazole delayed-release capsules may harm your unborn baby.
+  Talk to your doctor about the possible risks to an unborn baby if lansoprazole delayed-release capsules are taken during pregnancy.
 - are breastfeeding or plan to breastfeed.
   It is not known if lansoprazole passes into your breast milk.
   Talk to your doctor about the best way to feed your baby if you take lansoprazole delayed-release capsules.
@@ -121,6 +125,9 @@ Tell your doctor if you have symptoms of low vitamin B12 levels, including short
 • Low magnesium levels in the body can happen in people who have taken lansoprazole delayed-release capsules for at least 3 months.
 Tell your doctor if you have symptoms of low magnesium levels, including seizures, dizziness, irregular heartbeat, jitteriness, muscle aches or weakness, and spasms of hands, feet or voice.
 
+• Stomach growths (fundic gland polyps).
+People who take PPI medicines for a long time have an increased risk of developing a certain type of stomach growth called fundic gland polyps, especially after taking PPI medicines for more than 1 year.
+
 The most common side effects of lansoprazole delayed-release capsules include: diarrhea, stomach-area (abdomen) pain, nausea and constipation.
 
 These are not all the possible side effects of lansoprazole delayed-release capsules.
@@ -131,7 +138,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store lansoprazole delayed-release capsules?
 
-• Store lansoprazole delayed-release capsules at room temperature between 20° to 25° C (68° to 77° F)
+Store lansoprazole delayed-release capsules at room temperature between 20° to 25° C (68° to 77° F)
 
 Keep lansoprazole delayed-release capsules and all medicines out of the reach of children.
 
@@ -228,7 +235,7 @@ Keep lansoprazole delayed-release capsules and all medicines out of the reach of
 
 This Instruction for Use has been approved by the U.S. Food and Drug Administration.
 
-All trademark names are the property of their respective owners.
+All other trademark names are the property of their respective owners.
 
 Rx only
 
@@ -238,8 +245,8 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 0518
+Revised: 0718
 
-Dispense with medication guide available at:
+Dispense with Medication Guide available at:
 
 www.drreddys.com/medguide/lansoprazoledrcaps.pdf

@@ -11,11 +11,11 @@ In the clinical trials, antacids were used concomitantly with lansoprazole delay
 | Indication | Recommended Dose | Frequency |
 | --- | --- | --- |
 | Duodenal Ulcers Short-Term Treatment Maintenance of Healed | 15 mg 15 mg | Once daily for 4 weeks Once daily |
-| Eradication of H. pylori to Reduce the Risk of Duodenal Ulcer Recurrence * Triple Therapy: Lansoprazole delayed-release capsules Amoxicillin Clarithromycin Dual Therapy: Lansoprazole delayed-release capsules Amoxicillin | 30 mg 1 gram 500 mg 30 mg 1 gram | Twice daily (q12h) for 10 or 14 days Twice daily (q12h) for 10 or 14 days Twice daily (q12h) for 10 or 14 days Three times daily (q8h) for 14 days Three times daily (q8h) for 14 days |
+| Eradication of H. pylori to Reduce the Risk of Duodenal Ulcer Recurrence * Triple Therapy: Lansoprazole delayed-release capsules Amoxicillin Clarithromycin Dual Therapy: Lansoprazole delayed-release capsules Amoxicillin | 30 mg 1 gram 500 mg 30 mg 1 gram | Twice daily for 10 or 14 days Twice daily for 10 or 14 days Twice daily for 10 or 14 days Three times daily for 14 days Three times daily for 14 days |
 | Benign Gastric Ulcer Short-Term Treatment | 30 mg | Once daily for up to 8 weeks |
 | NSAID-Associated Gastric Ulcer Healing Risk Reduction | 30 mg 15 mg | Once daily for 8 weeks† Once daily for up to 12 weeks† |
 | Gastroesophageal Reflux Disease (GERD) Short-Term Treatment of Symptomatic GERD Short -Term Treatment of Erosive Esophagitis | 15 mg 30 mg | Once daily for up to 8 weeks Once daily for up to 8 weeks‡ |
-| Maintenance of Healing of Erosive Esophagitis Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome | 15 mg 60 mg | Once daily# Once daily¶ |
+| Maintenance of Healing of Erosive Esophagitis Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome | 15 mg 60 mg | Once daily¶ Once daily§ |
 
 * Please refer to amoxicillin and clarithromycin full prescribing information for Contraindications and Warnings and Precautions sections, and for information regarding dosing in elderly and renally-impaired patients.
 
@@ -24,31 +24,31 @@ In the clinical trials, antacids were used concomitantly with lansoprazole delay
 ‡ For patients who do not heal with lansoprazole delayed-release capsules for eight weeks (5 to 10%), it may be helpful to give an additional eight weeks of treatment.
 If there is a recurrence of erosive esophagitis, an additional eight week course of lansoprazole delayed-release capsules may be considered.
 
-§The lansoprazole delayed-release capsules dose was increased (up to 30 mg twice daily) in some pediatric patients after two or more weeks of treatment if they remained symptomatic.
-For pediatric patients unable to swallow an intact capsule please see Administration Options.
-
-¶ Varies with individual patient.
+§Varies with individual patient.
 Recommended adult starting dose is 60 mg once daily.
 Doses should be adjusted to individual patient needs and should continue for as long as clinically indicated.
 Dosages up to 90 mg twice daily have been administered.
 Daily dose of greater than 120 mg should be administered in divided doses.
 Some patients with Zollinger-Ellison syndrome have been treated continuously with lansoprazole delayed-release capsules for more than four years.
 
-# Controlled studies did not extend beyond 12 months
+¶ Controlled studies did not extend beyond 12 months
 
 ## 2.2 Recommended Pediatric Dosage by Indication
 
-| ­Indication | Recommended Dose | Frequency |
-| --- | --- | --- |
-| Pediatric (1 to 11 years of age) |  |  |
-| Short-Term Treatment of Symptomatic GERD and Short-Term Treatment of Erosive Esophagitis |  |  |
-| ≤ 30 kg | 15 mg | Once daily for up to 12 weeks* |
-| > 30 kg | 30 mg | Once daily for up to 12 weeks* |
-| *The Lansoprazole delayed-release capsules dose was increased (up to 30 mg twice daily) in some pediatric patients after two or more weeks of treatment if they remained symptomatic. For pediatric patients unable to swallow an intact capsule please see Administration Options. |  |  |
+Pediatric Patients 1 to 11 Years of Age In clinical studies, lansoprazole was not administered beyond 12 weeks in 1 to 11 year olds.
+It is not known if lansoprazole is safe and effective if used longer than the recommended duration.
+Do not exceed the recommended dose and duration of use in pediatric patients as outlined below [see Use in Specific Populations (8.4)].
 
 | ­Indication | Recommended Dose | Frequency |
 | --- | --- | --- |
-| Pediatric (12 to 17 years of age) |  |  |
+| Short-Term Treatment of Symptomatic GERD and Short-Term Treatment of Erosive Esophagitis |  |  |
+| ≤ 30 kg | 15 mg | Once daily for up to 12 weeks |
+| > 30 kg | 30 mg | Once daily for up to 12 weeks |
+
+Pediatric Patients 12 to 17 Years of Age
+
+| ­Indication | Recommended Dose | Frequency |
+| --- | --- | --- |
 | Short-Term Treatment of Symptomatic GERD |  |  |
 | Non-erosive GERD | 15 mg | Once daily for up to 8 weeks |
 | Erosive Esophagitis | 30 mg | Once daily for up to 8 weeks |
